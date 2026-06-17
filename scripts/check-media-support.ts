@@ -51,6 +51,12 @@ async function checkMediaSupport() {
         if (mdContent.includes("<iframe") && !mdContent.includes("embed-responsive")) {
            console.error(`⚠️ [WARN] ${fullPath} contains an <iframe> not wrapped in .embed-responsive class.`);
         }
+        
+        // Flag missing loading="lazy"
+        if (mdContent.includes("<iframe") && !mdContent.includes("loading=\"lazy\"") && !mdContent.includes("loading='lazy'")) {
+           console.error(`❌ [FAIL] ${fullPath} contains an <iframe> without loading="lazy" attribute.`);
+           hasErrors = true;
+        }
       }
     }
   }
