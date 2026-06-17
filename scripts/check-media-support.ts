@@ -5,18 +5,18 @@ async function checkMediaSupport() {
   const rootDir = process.cwd();
   const booksDir = join(rootDir, "books");
   const buildScriptPath = join(rootDir, "scripts/build.ts");
-  const sharedCssPath = join(booksDir, "shared-header-v6.css");
+  const sharedCssPath = join(booksDir, "shared-header.css");
   
   let hasErrors = false;
 
   // 1. Verify CSS support contract
   const cssContent = await readFile(sharedCssPath, "utf-8");
   if (!cssContent.includes(".embed-responsive")) {
-    console.error(`❌ [FAIL] shared-header-v6.css is missing '.embed-responsive' class`);
+    console.error(`❌ [FAIL] shared-header.css is missing '.embed-responsive' class`);
     hasErrors = true;
   }
   if (!cssContent.includes("img {") || !cssContent.includes("max-width: 100%")) {
-    console.error(`❌ [FAIL] shared-header-v6.css is missing responsive 'img' constraints`);
+    console.error(`❌ [FAIL] shared-header.css is missing responsive 'img' constraints`);
     hasErrors = true;
   }
 
