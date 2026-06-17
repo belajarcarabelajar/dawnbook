@@ -5,6 +5,7 @@
     "build": "bun run scripts/build.ts"
   },
   "dependencies": {
+    "@clerk/backend": "^3.7.1",
     "wrangler": "^4.100.0"
   },
   "devDependencies": {

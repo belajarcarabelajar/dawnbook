@@ -65,6 +65,7 @@ async function build() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
+    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}">
     <title>${title} | Dawnbook Platform</title>
     <link rel="stylesheet" href="/tokens.css">
     <link rel="stylesheet" href="/HubLayout.css">
@@ -182,9 +183,68 @@ async function build() {
     </div>
   `;
 
+  // Generate the sign-in page that redirects to Clerk Hosted Sign-In
+  // The redirect_url query param is forwarded so the user returns to the gated page.
+  const signInContent = `
+    <div class="content-panel" style="text-align: center;">
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Sign In to Continue Reading</h2>
+        <p style="margin-bottom: var(--spacing-lg)">Create a free account or sign in to access the full book content. The first chapter of every book is always free to preview.</p>
+        <div id="clerk-sign-in" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg)"></div>
+        <p style="font-size: 0.875rem; opacity: 0.7;">Powered by <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
+    </div>
+    <script>
+      // Clerk Hosted Pages: redirect to Clerk's managed sign-in UI
+      (function() {
+        var params = new URLSearchParams(window.location.search);
+        var redirectUrl = params.get('redirect_url') || '/';
+        // If Clerk is loaded (via ClerkJS), mount the sign-in component
+        // Otherwise, provide a simple link-based fallback
+        var container = document.getElementById('clerk-sign-in');
+        if (window.Clerk) {
+          window.Clerk.mountSignIn(container, {
+            afterSignInUrl: redirectUrl,
+            afterSignUpUrl: redirectUrl,
+            signUpUrl: '/sign-in'
+          });
+        } else {
+          // Load ClerkJS from the publishable key domain
+          var meta = document.querySelector('meta[name="clerk-publishable-key"]');
+          if (!meta) {
+            container.innerHTML = '<p>Authentication is being configured. Please try again shortly.</p>';
+            return;
+          }
+          var pk = meta.getAttribute('content');
+          var keyBody = pk.replace(/^pk_(test|live)_/, '').replace(/\\$$/, '');
+          try {
+            var domain = atob(keyBody);
+            var script = document.createElement('script');
+            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
+            script.setAttribute('data-clerk-publishable-key', pk);
+            script.async = true;
+            script.onload = function() {
+              if (window.Clerk) {
+                window.Clerk.load().then(function() {
+                  window.Clerk.mountSignIn(container, {
+                    afterSignInUrl: redirectUrl,
+                    afterSignUpUrl: redirectUrl,
+                    signUpUrl: '/sign-in'
+                  });
+                });
+              }
+            };
+            document.head.appendChild(script);
+          } catch(e) {
+            container.innerHTML = '<p>Unable to load sign-in. Please contact support.</p>';
+          }
+        }
+      })();
+    </script>
+  `;
+
   await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent, true));
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
+  await writeFile(join(outputDir, "sign-in.html"), generatePage("Sign In", signInContent));
   await writeFile(join(outputDir, "manifest.json"), JSON.stringify({ books: builtBooks.map(b => b.slug) }, null, 2));
 
   // Copy CSS files
@@ -200,6 +260,8 @@ async function build() {
     const redirectsContent = `
 /admin /admin/ 301
 /admin/* /admin/index.html 200
+/sign-in /sign-in.html 200
+/sign-in/ /sign-in.html 200
 `;
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
     
@@ -209,7 +271,7 @@ async function build() {
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev;
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https://img.clerk.com; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev;
 
 /*.css
   Cache-Control: no-cache

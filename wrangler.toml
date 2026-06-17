@@ -1,0 +1,7 @@
+name = "dawnbook"
+pages_build_output_dir = "output"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dawnbook-db"
+database_id = "b537a5d1-d944-421b-b4f9-7eaedabeb38e"

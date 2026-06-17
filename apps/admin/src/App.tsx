@@ -12,7 +12,7 @@ function Layout({ children }: { children: React.ReactNode }) {
       if (e.key === 'mdbook-theme') {
         const newTheme = (e.newValue === 'light' || e.newValue === 'rust' || e.newValue === 'ayu') ? 'light' : 'dark';
         document.documentElement.setAttribute('data-theme', newTheme);
-        try { localStorage.setItem('theme', newTheme); } catch(e) {}
+        try { localStorage.setItem('theme', newTheme); } catch { /* ignore storage errors */ }
         document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
       }
     };
@@ -35,7 +35,9 @@ function Layout({ children }: { children: React.ReactNode }) {
     try {
       localStorage.setItem('theme', newTheme);
       localStorage.setItem('mdbook-theme', newTheme === 'light' ? 'light' : 'coal');
-    } catch(e) {}
+    } catch {
+      /* ignore storage errors */
+    }
     
     document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
   };

@@ -1,0 +1,167 @@
+/**
+ * functions/_middleware.ts
+ *
+ * Cloudflare Pages Functions middleware that runs on EVERY request before
+ * static asset serving. Implements edge-level auth gating for book content.
+ *
+ * Policy delegation:
+ *   - Public paths (determined by isPublicPath) pass through unchanged.
+ *   - Gated paths require a valid Clerk session; unauthenticated requests
+ *     get a 302 redirect (HTML) or 401 JSON response (API/fetch).
+ *
+ * Caching:
+ *   - Gated responses always carry Cache-Control: private, no-store + Vary: Cookie
+ *     to prevent the CDN from caching and serving authenticated content to anon visitors.
+ *   - Public responses keep their original cache headers.
+ */
+
+import { createClerkClient } from "@clerk/backend";
+import { isPublicPath } from "./lib/gating";
+
+interface Env {
+  CLERK_SECRET_KEY: string;
+  CLERK_PUBLISHABLE_KEY: string;
+  DB: D1Database;
+}
+
+/**
+ * Detects whether the request is likely from a browser expecting HTML
+ * (as opposed to a fetch/API client expecting JSON).
+ */
+function wantsHtml(request: Request): boolean {
+  const accept = request.headers.get("Accept") ?? "";
+  // Browsers send Accept: text/html,...; fetch clients typically send application/json
+  // or do not include text/html at all.
+  return accept.includes("text/html");
+}
+
+/**
+ * Extracts the Clerk session token from either the __session cookie
+ * or the Authorization: Bearer header.
+ */
+function extractSessionToken(request: Request): string | null {
+  // 1. Try Authorization header first (programmatic clients)
+  const authHeader = request.headers.get("Authorization");
+  if (authHeader?.startsWith("Bearer ")) {
+    const token = authHeader.slice(7).trim();
+    if (token) return token;
+  }
+
+  // 2. Try __session cookie (browser sessions set by Clerk)
+  const cookieHeader = request.headers.get("Cookie") ?? "";
+  const cookies = cookieHeader.split(";").map((c) => c.trim());
+  for (const cookie of cookies) {
+    if (cookie.startsWith("__session=")) {
+      const value = cookie.slice("__session=".length).trim();
+      if (value) return value;
+    }
+  }
+
+  return null;
+}
+
+/**
+ * Verifies a Clerk session token using @clerk/backend.
+ * Returns the verified session payload, or null if invalid/expired.
+ */
+async function verifySession(
+  token: string,
+  env: Env
+): Promise<Record<string, unknown> | null> {
+  try {
+    const clerk = createClerkClient({ secretKey: env.CLERK_SECRET_KEY });
+    const result = await clerk.verifyToken(token, {
+      // Accept tokens issued by our Clerk instance
+      authorizedParties: undefined,
+    });
+    return result as unknown as Record<string, unknown>;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Returns a 302 redirect to the sign-in page with a redirect_url back
+ * to the original path.
+ */
+function redirectToSignIn(originalUrl: string): Response {
+  const url = new URL(originalUrl);
+  const redirectPath = url.pathname + url.search;
+  const signInUrl = `/sign-in?redirect_url=${encodeURIComponent(redirectPath)}`;
+
+  return new Response(null, {
+    status: 302,
+    headers: {
+      Location: signInUrl,
+      "Cache-Control": "private, no-store",
+      Vary: "Cookie",
+    },
+  });
+}
+
+/**
+ * Returns a 401 JSON error for API/fetch clients.
+ */
+function unauthorizedJson(): Response {
+  return new Response(
+    JSON.stringify({
+      error: "Unauthorized",
+      message:
+        "Authentication required. Sign in at /sign-in to access this content.",
+    }),
+    {
+      status: 401,
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "private, no-store",
+        Vary: "Cookie",
+      },
+    }
+  );
+}
+
+/**
+ * Applies gated-content cache headers to a response.
+ * Creates a new Response to avoid immutable-headers issues.
+ */
+function applyGatedCacheHeaders(response: Response): Response {
+  const newResponse = new Response(response.body, response);
+  newResponse.headers.set("Cache-Control", "private, no-store");
+  newResponse.headers.set("Vary", "Cookie");
+  return newResponse;
+}
+
+export const onRequest: PagesFunction<Env> = async (context) => {
+  const { request, next, env } = context;
+  const url = new URL(request.url);
+  const pathname = url.pathname;
+
+  // --- Public paths: pass through unchanged ---
+  if (isPublicPath(pathname)) {
+    return next();
+  }
+
+  // --- Gated paths: require Clerk session ---
+  const token = extractSessionToken(request);
+
+  if (!token) {
+    // No session token present → reject
+    return wantsHtml(request)
+      ? redirectToSignIn(request.url)
+      : unauthorizedJson();
+  }
+
+  // Verify the token with Clerk backend
+  const session = await verifySession(token, env);
+
+  if (!session) {
+    // Invalid or expired token → reject
+    return wantsHtml(request)
+      ? redirectToSignIn(request.url)
+      : unauthorizedJson();
+  }
+
+  // --- Authenticated: serve the gated content with safe cache headers ---
+  const response = await next();
+  return applyGatedCacheHeaders(response);
+};
