@@ -61,7 +61,7 @@ h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
   --scrollbar: var(--color-secondary) !important;
 }
 
-/* Back to Hub Link Responsive Styles */
+/* Back to Hub Link Styles */
 .back-to-hub-link {
   color: var(--color-text);
   text-decoration: none;
@@ -70,29 +70,13 @@ h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
   justify-content: center;
   height: 100%;
   padding: 0 10px;
-  font-weight: 600;
-  font-size: 14px;
 }
 
 .back-to-hub-link:hover {
   color: var(--color-primary);
 }
 
-.hub-icon {
-  display: none;
-}
-
-.hub-text {
-  margin-left: 6px;
-}
-
 @media (max-width: 768px) {
-  .hub-text {
-    display: none !important;
-  }
-  .hub-icon {
-    display: inline-flex !important;
-  }
   .back-to-hub-link {
     padding: 0 5px !important;
   }
