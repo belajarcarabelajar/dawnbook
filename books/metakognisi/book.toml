@@ -9,5 +9,5 @@ enable = false
 
 [output.html]
 mathjax-support = true
-additional-css = ["../shared-header-v3.css", "../../apps/hub/src/styles/typography.css", "../../apps/hub/src/styles/tokens.css"]
+additional-css = ["../shared-header-v4.css", "../../apps/hub/src/styles/typography.css", "../../apps/hub/src/styles/tokens.css"]
 additional-js = ["../shared-script-v3.js"]
