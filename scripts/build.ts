@@ -1,4 +1,4 @@
-import { readdir, stat, mkdir, writeFile } from "node:fs/promises";
+import { readdir, stat, mkdir, writeFile, readFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { $ } from "bun";
 
@@ -59,6 +59,22 @@ async function build() {
 
   console.log("Generating premium hub site...");
 
+  const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
+  const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
+  const runtimeScript = await readFile(join(rootDir, "apps/hub/src/scripts/i18n-runtime.js"), "utf8");
+
+  const i18nInjection = `
+    <script>
+      window.I18N_CATALOGS = {
+        en: ${enCatalog},
+        id: ${idCatalog}
+      };
+    </script>
+    <script>
+      ${runtimeScript}
+    </script>
+  `;
+
   const generatePage = (title: string, content: string, isHome: boolean = false) => `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -116,14 +132,16 @@ async function build() {
          applyTheme(currentTheme);
       });
     </script>
+    ${i18nInjection}
 </head>
 <body>
-    <a href="#main-content" class="skip-link" style="position: absolute; top: -40px; left: 0; background: var(--color-primary); color: var(--color-background); padding: 8px; z-index: 1000; transition: top 0.2s;">Skip to content</a>
+    <a href="#main-content" class="skip-link" style="position: absolute; top: -40px; left: 0; background: var(--color-primary); color: var(--color-background); padding: 8px; z-index: 1000; transition: top 0.2s;" data-i18n="hub.nav.skip">Skip to content</a>
     <div class="hub-layout">
         <button onclick="toggleTheme()" class="theme-toggle-icon theme-toggle desktop-theme-btn" aria-label="Toggle Theme" aria-pressed="false">
             <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
             <svg class="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
         </button>
+        <button id="lang-toggle" style="position: absolute; right: 80px; top: var(--spacing-lg); z-index: 100; background: none; border: 1px solid var(--color-secondary); color: var(--color-text); padding: 4px 8px; border-radius: 4px; cursor: pointer;" data-i18n="hub.lang.toggle">EN</button>
         <aside class="side-nav">
             <div class="side-nav-header">
                 <a href="/" class="logo">Dawnbook</a>
@@ -136,9 +154,9 @@ async function build() {
                 </div>
             </div>
             <nav class="nav-links" aria-label="Main Navigation">
-                <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''}>Home</a>
-                <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''}>About</a>
-                <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''}>Contribute</a>
+                <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''} data-i18n="hub.home">Home</a>
+                <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''} data-i18n="hub.about">About</a>
+                <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''} data-i18n="hub.contribute">Contribute</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -150,12 +168,12 @@ async function build() {
 
   const indexContent = `
     <div class="hero-section">
-        <h1>Dawn is Coming. Free Your Mind.</h1>
-        <p>Embrace the sunrise of open knowledge. A new era of freedom where learning is self-directed, open to all, and absolutely free. We believe education empowers you to think critically and explore boundlessly.</p>
-        <p style="font-weight: bold; margin-top: var(--spacing-md); color: var(--color-accent); font-size: 1.1rem;">Knowledge belongs to everyone. The dawn of free learning is here.</p>
+        <h1 data-i18n="hub.hero.title">Dawn is Coming. Free Your Mind.</h1>
+        <p data-i18n="hub.hero.subtitle">Embrace the sunrise of open knowledge. A new era of freedom where learning is self-directed, open to all, and absolutely free. We believe education empowers you to think critically and explore boundlessly.</p>
+        <p style="font-weight: bold; margin-top: var(--spacing-md); color: var(--color-accent); font-size: 1.1rem;" data-i18n="hub.hero.accent">Knowledge belongs to everyone. The dawn of free learning is here.</p>
     </div>
 
-    <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);">Available Books</h2>
+    <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
     <div class="book-masonry">
       ${builtBooks.map(b => `
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card">
@@ -168,35 +186,35 @@ async function build() {
 
   const aboutContent = `
     <div class="content-panel">
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Our Philosophy</h2>
-        <p>Knowledge is a shared commons and a fundamental right, not a commodity to be hoarded or paywalled. We exist to make high-quality, autodidactic learning a reality for everyone.</p>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="about.philosophy.title">Our Philosophy</h2>
+        <p data-i18n="about.philosophy.body">Knowledge is a shared commons and a fundamental right, not a commodity to be hoarded or paywalled. We exist to make high-quality, autodidactic learning a reality for everyone.</p>
 
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">Why Dawnbook Exists</h2>
-        <p>Dawnbook was built to actively reduce the education gap and reject exploitative paywalled models. By dismantling financial barriers, we ensure that free and open access is the baseline, not a premium feature.</p>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)" data-i18n="about.why.title">Why Dawnbook Exists</h2>
+        <p data-i18n="about.why.body">Dawnbook was built to actively reduce the education gap and reject exploitative paywalled models. By dismantling financial barriers, we ensure that free and open access is the baseline, not a premium feature.</p>
 
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">Core Principles</h2>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)" data-i18n="about.core.title">Core Principles</h2>
         <ul>
-            <li style="margin-bottom: var(--spacing-sm)"><strong>Free for All:</strong> Absolutely free with no hidden cost.</li>
-            <li style="margin-bottom: var(--spacing-sm)"><strong>Open & Collaborative:</strong> Driven by open collaboration and contribution from a worldwide community.</li>
-            <li style="margin-bottom: var(--spacing-sm)"><strong>Equality of Access:</strong> Accessible to anyone, anywhere, anytime.</li>
-            <li style="margin-bottom: var(--spacing-sm)"><strong>Self-Directed Learning:</strong> Fostering lifelong learning and the critical thinking necessary to pursue truth independently.</li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong data-i18n="about.core.1.strong">Free for All:</strong> <span data-i18n="about.core.1">Absolutely free with no hidden cost.</span></li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong data-i18n="about.core.2.strong">Open & Collaborative:</strong> <span data-i18n="about.core.2">Driven by open collaboration and contribution from a worldwide community.</span></li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong data-i18n="about.core.3.strong">Equality of Access:</strong> <span data-i18n="about.core.3">Accessible to anyone, anywhere, anytime.</span></li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong data-i18n="about.core.4.strong">Self-Directed Learning:</strong> <span data-i18n="about.core.4">Fostering lifelong learning and the critical thinking necessary to pursue truth independently.</span></li>
         </ul>
 
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">The Dawn Motif</h2>
-        <p>The dawn signifies the end of the night and the arrival of a new era of freedom. It represents our profound belief that the light of education should reach every corner of the world, illuminating minds and liberating individuals.</p>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)" data-i18n="about.motif.title">The Dawn Motif</h2>
+        <p data-i18n="about.motif.body">The dawn signifies the end of the night and the arrival of a new era of freedom. It represents our profound belief that the light of education should reach every corner of the world, illuminating minds and liberating individuals.</p>
 
         <div style="margin-top: var(--spacing-xl); text-align: center; border-top: 1px solid var(--color-secondary); padding-top: var(--spacing-lg);">
-          <p style="font-weight: bold; color: var(--color-accent); font-size: 1.25rem;">Knowledge belongs to everyone. The dawn of free learning is here.</p>
+          <p style="font-weight: bold; color: var(--color-accent); font-size: 1.25rem;" data-i18n="hub.hero.accent">Knowledge belongs to everyone. The dawn of free learning is here.</p>
         </div>
     </div>
   `;
 
   const contributeContent = `
     <div class="content-panel">
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Join the Authors</h2>
-        <p>We believe knowledge should be free and openly collaborative. You can contribute by writing a new chapter, fixing typos, or even starting a brand new book.</p>
-        <p>All contributions are managed via GitHub Pull Requests, ensuring a high standard of quality through peer review.</p>
-        <a href="https://github.com/belajarcarabelajar/dawnbook" class="btn-primary" target="_blank">View on GitHub</a>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="contribute.join.title">Join the Authors</h2>
+        <p data-i18n="contribute.join.body1">We believe knowledge should be free and openly collaborative. You can contribute by writing a new chapter, fixing typos, or even starting a brand new book.</p>
+        <p data-i18n="contribute.join.body2">All contributions are managed via GitHub Pull Requests, ensuring a high standard of quality through peer review.</p>
+        <a href="https://github.com/belajarcarabelajar/dawnbook" class="btn-primary" target="_blank" data-i18n="contribute.btn.github">View on GitHub</a>
     </div>
   `;
 
@@ -204,10 +222,10 @@ async function build() {
   // The redirect_url query param is forwarded so the user returns to the gated page.
   const signInContent = `
     <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Sign In to Continue Reading</h2>
-        <p style="margin-bottom: var(--spacing-lg)">Create a free account or sign in to access the full book content.</p>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="signin.title">Sign In to Continue Reading</h2>
+        <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
         <div id="clerk-sign-in" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg); width: 100%;"></div>
-        <p style="font-size: 0.875rem; opacity: 0.7;">Powered by <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
+        <p style="font-size: 0.875rem; opacity: 0.7;"><span data-i18n="signin.powered">Powered by</span> <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
     </div>
     <script>
       (function() {
@@ -232,7 +250,7 @@ async function build() {
         } else {
           var meta = document.querySelector('meta[name="clerk-publishable-key"]');
           if (!meta) {
-            container.innerHTML = '<p>Authentication is being configured. Please try again shortly.</p>';
+            container.innerHTML = '<p data-i18n="signin.loading">Authentication is being configured. Please try again shortly.</p>';
             return;
           }
           var pk = meta.getAttribute('content');
