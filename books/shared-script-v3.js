@@ -1,5 +1,10 @@
 // Client-side gating
 (function() {
+    var icon = document.querySelector("link[rel~='icon']");
+    if (!icon) { icon = document.createElement('link'); icon.rel = 'icon'; document.head.appendChild(icon); }
+    icon.type = 'image/svg+xml';
+    icon.href = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">📓</text></svg>';
+
     var path = decodeURIComponent(window.location.pathname);
     var basename = path.split('/').pop() || '';
 
