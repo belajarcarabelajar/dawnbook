@@ -20,6 +20,8 @@ async function build() {
     const bookStat = await stat(bookPath);
 
     if (bookStat.isDirectory()) {
+      if (entry.startsWith('_')) continue;
+
       try {
         await stat(join(bookPath, "book.toml"));
       } catch {
