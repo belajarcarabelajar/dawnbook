@@ -28,15 +28,15 @@
 /* Adjust spacing between header and first title */
 .content main > h1:first-child,
 .content main > h2:first-child {
-  margin-top: 1.5cm !important;
-  padding-top: 0.5cm !important;
+  margin-top: 0.8cm !important;
+  padding-top: 0.2cm !important;
 }
 
 @media (max-width: 768px) {
   .content main > h1:first-child,
   .content main > h2:first-child {
-    margin-top: 1.5cm !important;
-    padding-top: 0.5cm !important;
+    margin-top: 0.8cm !important;
+    padding-top: 0.2cm !important;
   }
 }
 
