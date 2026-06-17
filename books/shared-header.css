@@ -19,12 +19,7 @@
 
 @media (max-width: 768px) {
   .menu-title {
-    white-space: normal !important; /* Wrap on small screens if needed */
-    display: -webkit-box !important;
-    -webkit-line-clamp: 2 !important; /* Max 2 lines */
-    -webkit-box-orient: vertical !important;
-    font-size: 14px !important;
-    line-height: 1.3 !important;
+    display: none !important;
   }
 }
 
