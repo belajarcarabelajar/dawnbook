@@ -43,9 +43,9 @@ Tahap ini sangat menentukan keberhasilan *declutter*. Saat masa puasa berakhir, 
 
 Gunakan rumus nilai berikut untuk mengevaluasi setiap alat:
 
-\[
+\\[
 \text{Nilai} = (\text{Manfaat} \times \text{Relevansi}) - \text{Gangguan}
-\]
+\\]
 
 Pastikan setiap aplikasi yang akan dipakai lagi memenuhi tiga syarat berikut. Pertama, aplikasi tersebut harus mendukung sesuatu yang sangat kamu hargai. Kedua, ia menjadi cara paling optimal untuk mendukung hal tersebut (sebagai contoh, menelepon langsung kawan lama lebih berharga daripada sekadar melihat *update* fotonya di Instagram). Terakhir, kamu harus tahu persis aturan main dalam menggunakannya agar tidak menjadi sumber distraksi baru, misalnya membatasi akses LinkedIn hanya lewat browser laptop.
 

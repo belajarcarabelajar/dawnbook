@@ -36,9 +36,9 @@ Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan bertindak seba
 
 Setelah memiliki nilai inti, gunakan rumus sederhana ini untuk mengevaluasi alat digital kamu:
 
-\[
+\\[
 \text{Nilai Alat} = \frac{\text{Kegunaan untuk Nilai Inti}}{\text{Gangguan yang Dihasilkan}}
-\]
+\\]
 
 Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat tinggi namun sumbangsihnya terhadap nilai "Kreativitas" kamu sangat kecil, maka alat tersebut memiliki nilai bersih negatif.
 

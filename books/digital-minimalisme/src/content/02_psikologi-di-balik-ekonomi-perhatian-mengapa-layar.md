@@ -20,9 +20,9 @@ Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara
 
 Dopamin dilepaskan bukan saat kita mendapatkan hadiah, tetapi saat kita **mengharapkan** hadiah. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
 
-\[
+\\[
 \text{Kepuasan} = \text{Realitas} - \text{Ekspektasi}
-\]
+\\]
 
 Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika kamu melihat ikon merah notifikasi, otakmu melepaskan dopamin yang membisikkan, *"Siapa yang menyukai foto saya? Pesan apa ini?"*. Rasa ingin tahu ini menciptakan tekanan psikologis yang hanya bisa diredakan dengan membuka aplikasi tersebut.
 

@@ -10,13 +10,13 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 
 > **Wawasan Penting:** Notifikasi adalah interupsi terjadwal oleh pihak lain terhadap waktumu.
 
-Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja (\(E\)):
+Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja (\\(E\\)):
 
-\[
+\\[
 E = T \times F^2
-\]
+\\]
 
-Dimana \(T\) adalah waktu dan \(F\) mewakili tingkat fokus. Saat fokus terganggu (\(F\) mengecil), efektivitasmu anjlok secara kuadratik.
+Dimana \\(T\\) adalah waktu dan \\(F\\) mewakili tingkat fokus. Saat fokus terganggu (\\(F\\) mengecil), efektivitasmu anjlok secara kuadratik.
 
 ### 2\. Strategi Praktis: Menjinakkan Notifikasi
 
