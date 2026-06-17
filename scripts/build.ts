@@ -260,8 +260,6 @@ async function build() {
     const redirectsContent = `
 /admin /admin/ 301
 /admin/* /admin/index.html 200
-/sign-in /sign-in.html 200
-/sign-in/ /sign-in.html 200
 `;
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
     
