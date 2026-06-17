@@ -88,12 +88,12 @@ h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
 
 @media (max-width: 768px) {
   .hub-text {
-    display: none;
+    display: none !important;
   }
   .hub-icon {
-    display: inline-flex;
+    display: inline-flex !important;
   }
   .back-to-hub-link {
-    padding: 0 5px;
+    padding: 0 5px !important;
   }
 }
