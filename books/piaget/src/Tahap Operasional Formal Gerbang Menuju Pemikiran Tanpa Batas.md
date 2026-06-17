@@ -25,9 +25,9 @@ Remaja mulai paham konsep tanpa wujud fisik seperti keadilan, cinta, nilai moral
 Kemampuan membuat hipotesis (dugaan sementara) lalu menarik kesimpulan logis dari sana. Ini adalah akar dari cara berpikir ilmiah.
 
 Dalam logika matematika, polanya seperti ini:
-Jika $P \rightarrow Q$ (Jika P maka Q)
-Dan kita tahu $P$ itu benar,
-Maka kita bisa menyimpulkan $Q$ pasti benar.
+Jika \( P \rightarrow Q \) (Jika P maka Q)
+Dan kita tahu \( P \) itu benar,
+Maka kita bisa menyimpulkan \( Q \) pasti benar.
 
 ### C. Pemikiran Sistematis
 
@@ -44,7 +44,7 @@ Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah mas
 
 Secara matematis, mereka secara intuitif mencoba memahami rumus periode ayunan:
 $$ T = 2\pi \sqrt{\frac{L}{g}} $$
-Mereka secara sistematis mengetes apakah $T$ (periode) berubah jika $L$ (panjang tali) diubah, tanpa mengubah berat beban.
+Mereka secara sistematis mengetes apakah \( T \) (periode) berubah jika \( L \) (panjang tali) diubah, tanpa mengubah berat beban.
 
 ## 4\. Logika Proposisional
 
@@ -62,7 +62,7 @@ Tapi remaja tahap formal bisa bilang: *"Secara logika kesimpulannya benar karena
 
 ### Dalam Pembelajaran Sains dan Matematika
 
-Siswa mulai siap belajar aljabar. Huruf seperti $x$, $y$, dan $z$ menggantikan angka. Mereka juga bisa membayangkan bentuk grafik $f(x) = x^2$ tanpa perlu repot menggambar setiap titiknya di kertas.
+Siswa mulai siap belajar aljabar. Huruf seperti \( x \), \( y \), dan \( z \) menggantikan angka. Mereka juga bisa membayangkan bentuk grafik \( f(x) = x^2 \) tanpa perlu repot menggambar setiap titiknya di kertas.
 
 ### Dalam Debat Sosial dan Etika
 

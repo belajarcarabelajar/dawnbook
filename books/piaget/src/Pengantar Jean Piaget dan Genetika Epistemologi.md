@@ -36,7 +36,7 @@ Piaget ingin memetakan transisi dari pengetahuan tingkat rendah ke pengetahuan t
 - **Interaksi Subjek-Objek:** Pengetahuan muncul dari interaksi antara anak (subjek) dan lingkungannya (objek).
 - **Konstruktivisme:** Piaget adalah pelopor paham konstruktivisme. Ia berpendapat bahwa manusia **membangun (mengonstruksi)** pengetahuan mereka sendiri melalui tindakan.
 
-\\(Pengetahuan = Aksi \times Objek\\)
+\\(\text{Pengetahuan} = \text{Aksi} \times \text{Objek}\\)
 
 *Think about this: Pernahkah kamu memperhatikan seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 

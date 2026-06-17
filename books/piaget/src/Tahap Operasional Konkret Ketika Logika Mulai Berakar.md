@@ -30,7 +30,7 @@ Pemahaman bahwa jumlah, massa, atau volume suatu benda itu tetap sama biarpun be
 
 Anak-anak sekarang udah bisa ngelompokin barang berdasarkan kesamaan cirinya dan paham tingkatan hierarki.
 
-- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional pasti jawab "mawar". Tapi anak operasional konkret udah ngerti logikanya: $\text{Mawar} + \text{Melati} = \text{Bunga}$. Jadi, kategori "Bunga" pasti lebih besar dari sekadar sub-kategori "Mawar".
+- **Inklusi Kelas:** Kasih mereka 10 bunga mawar dan 5 melati, terus tanya "Mana yang lebih banyak, bunga mawar atau bunga?". Anak praoperasional pasti jawab "mawar". Tapi anak operasional konkret udah ngerti logikanya: \( \text{Mawar} + \text{Melati} = \text{Bunga} \). Jadi, kategori "Bunga" pasti lebih besar dari sekadar sub-kategori "Mawar".
 
 ### C. Seriasi
 
@@ -42,7 +42,7 @@ Ini kemampuan buat ngurutin barang berdasarkan kuantitas, kayak tinggi, berat, a
 
 Bisa mikir mundur. Mereka sadar kalau sebuah tindakan itu bisa dibatalkan atau dibalikin ke kondisi awal.
 
-- **Dalam hitung-hitungan:** Kalau $5 + 3 = 8$, ya otomatis $8 - 5 = 3$.
+- **Dalam hitung-hitungan:** Kalau \( 5 + 3 = 8 \), ya otomatis \( 8 - 5 = 3 \).
 
 ## 3. Pergeseran dari Egosentrisme ke Desentrasi
 
@@ -57,7 +57,7 @@ Kalau dulu si anak cuma fokus ke "tingginya air", sekarang mereka ngeh juga soal
 Biarpun udah logis, cara mikirnya masih mentok di realitas fisik. Coba perhatiin bedanya:
 
 - **Konkret:** "Kalau Budi lebih tinggi dari Ani, terus Ani lebih tinggi dari Caca, siapa yang paling tinggi?" (Kadang mereka perlu coret-coret atau ngebayangin fisik orangnya langsung biar yakin).
-- **Abstrak:** Kasih mereka rumus murni kayak $A > B$ dan $B > C$ tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
+- **Abstrak:** Kasih mereka rumus murni kayak \( A > B \) dan \( B > C \) tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
 
 ## 5. Aplikasi Dunia Nyata: Belajar Melalui Manipulasi
 
@@ -69,7 +69,7 @@ Daripada buru-buru nulis rumus abstrak di papan tulis, lebih efektif pakai **ban
 
 - **1. Konkret:** Pakai balok mainan buat ngajarin pembagian. "Kita punya 12 balok nih, mau dibagi ke 3 kotak. Tiap kotak isinya berapa?"
 - **2. Visual:** Gambar lingkaran sama titik-titik di kertas sebagai pengganti balok.
-- **3. Abstrak:** Baru deh tulis persamaannya: $12 : 3 = 4$.
+- **3. Abstrak:** Baru deh tulis persamaannya: \( 12 : 3 = 4 \).
 
 ### Belajar Coding (Pemrograman Visual)
 
@@ -92,7 +92,7 @@ Mereka langsung paham sebab-akibatnya gara-gara hasilnya langsung nongol di laya
 
 | Kemampuan | Deskripsi |
 | --- | --- |
-| **Konservasi** | Benda tetap sama meski bentuk berubah ($A = B$). |
+| **Konservasi** | Benda tetap sama meski bentuk berubah (\( A = B \)). |
 | **Klasifikasi** | Mengelompokkan benda ke dalam kategori dan sub-kategori. |
 | **Seriasi** | Mengurutkan benda berdasarkan dimensi (kecil ke besar). |
 | **Desentrasi** | Melihat masalah dari berbagai sudut pandang. |

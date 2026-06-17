@@ -1,0 +1,15 @@
+# Summary
+
+- [Pengantar Neuroplastisitas: Keajaiban Otak yang Terus Berubah](content/01_pengantar-neuroplastisitas-keajaiban-otak-yang-ter.md)
+- [Anatomi Pembelajaran: Neuron dan Sinapsis](content/02_anatomi-pembelajaran-neuron-dan-sinapsis.md)
+- [Mekanisme Pembentukan Jalur Saraf: Bagaimana Otak "Membangun" Diri Sendiri](content/03_mekanisme-pembentukan-jalur-saraf-bagaimana-otak-m.md)
+- [Prinsip Hebbian: Fire Together, Wire Together](content/04_prinsip-hebbian-fire-together-wire-together.md)
+- [Neurogenesis: Kelahiran Sel Saraf Baru](content/05_neurogenesis-kelahiran-sel-saraf-baru.md)
+- [Faktor Lingkungan yang Memacu Plastisitas](content/06_faktor-lingkungan-yang-memacu-plastisitas.md)
+- [Peran Fokus dan Atensi dalam Perubahan Otak: Sang Penjaga Gerbang Neuroplastisitas](content/07_peran-fokus-dan-atensi-dalam-perubahan-otak-sang-p.md)
+- [Psikologi Belajar: Growth Mindset vs Fixed Mindset](content/08_psikologi-belajar-growth-mindset-vs-fixed-mindset.md)
+- [Jembatan Sains: Bagaimana Mindset Mengubah Otak](content/09_jembatan-sains-bagaimana-mindset-mengubah-otak.md)
+- [Strategi Belajar Berbasis Neuroplastisitas: Mengukir Jalur Saraf yang Permanen](content/10_strategi-belajar-berbasis-neuroplastisitas-menguki.md)
+- [Dampak Gaya Hidup terhadap Efisiensi Sinaptik](content/11_dampak-gaya-hidup-terhadap-efisiensi-sinaptik.md)
+- [Anatomi Plateu: Mengapa Kita Terjebak dalam Belajar?](content/12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md)
+- [Masa Depan Pendidikan Berbasis Neurosains: Merevolusi Cara Dunia Belajar](content/13_masa-depan-pendidikan-berbasis-neurosains-merevolu.md)

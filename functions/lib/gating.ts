@@ -140,10 +140,16 @@ export function isPublicPath(pathname: string): boolean {
   const FIRST_CHAPTERS = new Set([
     "intro.html", // metakognisi
     "Pengantar Jean Piaget dan Genetika Epistemologi.html", // piaget
+    "01_pengantar-neuroplastisitas-keajaiban-otak-yang-ter.html", // neuroplastisitas-dalam-belajar
     "introduction.html" // _template
   ]);
 
-  if (FIRST_CHAPTERS.has(decodeURIComponent(page))) {
+  // Extract basename to handle nested directories in mdBook
+  const decodedPage = decodeURIComponent(page);
+  const parts = decodedPage.split('/');
+  const basename = parts[parts.length - 1];
+
+  if (FIRST_CHAPTERS.has(basename)) {
     return true;
   }
 

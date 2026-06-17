@@ -8,7 +8,7 @@ Jean Piaget punya pandangan yang agak berbeda dari pendidik pada zamannya. Ia me
 
 Konsep Discovery Learning sangat kental dengan pengaruh Piaget. Guru tidak lagi mendominasi kelas dengan ceramah satu arah. Pengetahuan tidak bisa ditransfer begitu saja, melainkan harus dikonstruksi sendiri oleh siswa melalui pengalaman.
 
-Sebagai contoh, daripada sekadar menuliskan rumus \\(Air + Panas = Uap\\) di papan tulis, guru bisa memfasilitasi eksperimen. Sediakan kompor, air, dan termometer. Biarkan siswa mengamati prosesnya, mencatat suhu yang berubah, lalu menarik kesimpulan dari apa yang mereka lihat.
+Sebagai contoh, daripada sekadar menuliskan rumus \\(\text{Air} + \text{Panas} = \text{Uap}\\) di papan tulis, guru bisa memfasilitasi eksperimen. Sediakan kompor, air, dan termometer. Biarkan siswa mengamati prosesnya, mencatat suhu yang berubah, lalu menarik kesimpulan dari apa yang mereka lihat.
 
 Dalam model ini, eksplorasi fisik sangat ditonjolkan. Guru lebih sering melontarkan pertanyaan pemantik untuk memancing pemikiran siswa. Kesalahan pun tidak dianggap sebagai kegagalan, tapi justru diakui sebagai langkah krusial dalam proses ekuilibrasi.
 
