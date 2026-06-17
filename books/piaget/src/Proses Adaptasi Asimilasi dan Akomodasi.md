@@ -1,6 +1,6 @@
 ## Proses Adaptasi: Asimilasi dan Akomodasi
 
-Pernahkah Anda bertanya-tanya bagaimana seorang anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan antara anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
+Pernahkah kamu bertanya-tanya bagaimana seorang anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan antara anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
 
 Menurut Jean Piaget, kecerdasan bukan sekadar tumpukan fakta, melainkan sebuah **proses adaptasi** yang dinamis. Jika pada bagian sebelumnya kita telah mempelajari tentang **Skema** (wadah informasi dalam pikiran), maka sekarang kita akan membedah bagaimana "wadah" tersebut berinteraksi dengan dunia luar melalui dua mekanisme utama: **Asimilasi** dan **Akomodasi**.
 
@@ -21,7 +21,7 @@ Proses ini terjadi melalui dua jalur yang saling melengkapi:
 
 #### Analogi: Folder Komputer
 
-Bayangkan Anda memiliki folder di komputer berjudul "Lagu Rock". Ketika Anda mengunduh lagu baru dari band yang belum pernah Anda dengar tetapi instrumennya terdengar seperti rock, Anda langsung memasukkannya ke folder tersebut tanpa ragu. Anda mengasimilasi lagu baru itu ke dalam kategori "Rock" yang sudah ada.
+Bayangkan kamu memiliki folder di komputer berjudul "Lagu Rock". Ketika kamu mengunduh lagu baru dari band yang belum pernah kamu dengar tetapi instrumennya terdengar seperti rock, kamu langsung memasukkannya ke folder tersebut tanpa ragu. Kamu mengasimilasi lagu baru itu ke dalam kategori "Rock" yang sudah ada.
 
 #### Contoh Nyata:
 
@@ -35,7 +35,7 @@ Seorang balita memiliki skema tentang "burung" sebagai "sesuatu yang kecil, puny
 
 #### Analogi: Memahat Patung
 
-Jika asimilasi seperti mengisi air ke dalam gelas, maka akomodasi seperti memahat ulang tanah liat. Jika tanah liat yang Anda bentuk sebagai "kucing" ternyata terlalu besar dan punya belalai, Anda harus merombak bentuknya untuk menciptakan kategori baru bernama "gajah".
+Jika asimilasi seperti mengisi air ke dalam gelas, maka akomodasi seperti memahat ulang tanah liat. Jika tanah liat yang kamu bentuk sebagai "kucing" ternyata terlalu besar dan punya belalai, kamu harus merombak bentuknya untuk menciptakan kategori baru bernama "gajah".
 
 #### Contoh Nyata:
 
@@ -83,8 +83,8 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 
 **Skenario: Berpindah dari Windows ke MacOS**
 
-- **Asimilasi:** Saat Anda pertama kali membuka MacBook, Anda mencari tombol "X" untuk menutup jendela. Anda mengasimilasi konsep "menutup jendela" dari pengalaman Windows Anda.
-- **Akomodasi:** Anda menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Anda harus melakukan akomodasi—mengubah skema operasional komputer Anda untuk memahami bahwa tata letak antarmuka bisa berbeda.
+- **Asimilasi:** Saat kamu pertama kali membuka MacBook, kamu mencari tombol "X" untuk menutup jendela. Kamu mengasimilasi konsep "menutup jendela" dari pengalaman Windows kamu.
+- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi—mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur otak yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 
@@ -99,4 +99,4 @@ Keseimbangan antara keduanya disebut dengan **Ekuilibrasi**, sebuah proses yang 
 
 > **Pesan Utama:** Perkembangan kognitif adalah tarian antara menggunakan apa yang sudah kita tahu (asimilasi) dan mengubah diri kita untuk belajar hal baru (akomodasi).
 
-*Mari Refleksikan:* *Ingatlah saat terakhir kali Anda mempelajari hobi atau keterampilan baru yang sangat menantang. Bagian mana dari pembelajaran itu yang terasa seperti "sekadar menambah pengetahuan" (asimilasi) dan bagian mana yang benar-benar "mengubah cara pandang Anda" (akomodasi)?*
+*Mari Refleksikan:* *Ingatlah saat terakhir kali kamu mempelajari hobi atau keterampilan baru yang sangat menantang. Bagian mana dari pembelajaran itu yang terasa seperti "sekadar menambah pengetahuan" (asimilasi) dan bagian mana yang benar-benar "mengubah cara pandang kamu" (akomodasi)?*

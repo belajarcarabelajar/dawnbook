@@ -1,6 +1,6 @@
 ## Ringkasan dan Sintesis Perkembangan Anak: Dari Refleks ke Logika Abstrak
 
-Selamat datang di bagian penutup dari perjalanan kita memahami Teori Perkembangan Kognitif Jean Piaget. Setelah membedah setiap komponen secara mendalam, sekarang saatnya kita melangkah mundur untuk melihat "lukisan besar" dari perkembangan manusia.
+
 
 Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan sebagai **"Ilmuwan Kecil"** yang secara aktif membangun dunianya sendiri. Bab ini akan mensintesis bagaimana perjalanan dari gerakan refleks seorang bayi bertransformasi menjadi pemikiran sistematis seorang ilmuwan atau filsuf.
 
@@ -8,7 +8,7 @@ Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan 
 
 Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana namun kuat:
 
-$\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}$
+\\(\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}\\)
 
 ### Analogi: Perpustakaan yang Terus Berkembang
 
@@ -38,7 +38,7 @@ Penting untuk memahami apa yang dimaksud Piaget dengan "Operasi". Operasi adalah
 
 1. **Awalnya (Sensorimotor):** Anak "berpikir" dengan tangan dan mulutnya. Jika mereka tidak menyentuh benda itu, benda itu seolah tidak ada.
 2. **Transisi (Praoperasional):** Anak mulai bisa membayangkan benda di kepala mereka (simbol), tapi logika mereka masih "satu arah". Mereka belum bisa memutar balik proses mental secara konsisten.
-3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, $5 + 2 = 7$, maka $7 - 2 = 5$). Pada tahap formal, mereka tidak lagi butuh benda fisik; mereka bisa melakukan operasi mental pada ide-ide abstrak.
+3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, \\(5 + 2 = 7\\), maka \\(7 - 2 = 5\\)). Pada tahap formal, mereka tidak lagi butuh benda fisik; mereka bisa melakukan operasi mental pada ide-ide abstrak.
 
 ## 4\. Real-World Application: Mengapa Ini Penting?
 
@@ -60,6 +60,6 @@ Memahami sintesis ini mengubah cara kita berinteraksi dengan anak-anak di berbag
 
 Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan ekspresi dari tahap perkembangan kognitif yang luar biasa.
 
-*Think about this: Jika Anda seorang pendidik, bagaimana Anda akan mengubah cara Anda menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
+*Think about this: Jika kamu seorang pendidik, bagaimana kamu akan mengubah cara kamu menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.

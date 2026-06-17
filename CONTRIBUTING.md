@@ -100,6 +100,37 @@ Set these in the Cloudflare Pages dashboard under **Settings → Environment var
 
 > **Important**: Never commit Clerk keys to the repository. They must be set as environment variables in the Cloudflare Pages dashboard.
 
+## LaTeX Support
+
+Dawnbook enforces mathematical rendering consistency via the `latex-support` build rule. All new and existing books must support mathematical equations (LaTeX) using mdBook's native MathJax integration unless a different preprocessor like KaTeX is already explicitly set up.
+
+When creating a new book or editing `book.toml`, you **must** include the following under `[output.html]`:
+
+```toml
+[output.html]
+mathjax-support = true
+```
+
+The build pipeline (`scripts/build.ts`) automatically validates this configuration via `scripts/check-latex-support.ts`. If this key is missing, the build will fail to prevent regressions where equations fail to render.
+
+The Cloudflare Pages CSP `_headers` is pre-configured to allow MathJax loading from `cdnjs.cloudflare.com` and `cdn.jsdelivr.net` to support Edge rendering on auth-gated pages.
+
+## Embedding media
+
+Dawnbook supports responsive images, self-hosted videos, and YouTube embeds natively. All media components are secured by a strict Content Security Policy (CSP) and must follow standard canonical formats to pass the `media-embed-support` CI check:
+
+- **Images**: Use standard Markdown `![alt text](path/to/image.jpg)`.
+- **Self-Hosted Video**: Use HTML `<video controls src="path/to/video.mp4"></video>`.
+- **YouTube Embeds**: You must use the privacy-friendly domain `youtube-nocookie.com` and wrap the iframe in the responsive container.
+
+```html
+<div class="embed-responsive">
+  <iframe src="https://www.youtube-nocookie.com/embed/VIDEO_ID" allowfullscreen loading="lazy"></iframe>
+</div>
+```
+
+**Note:** Regular `youtube.com` domains or other third-party video providers are blocked by default by the CSP `frame-src`.
+
 ## Auth-Gated Content
 
 Dawnbook uses a "free auth-gated content" model: book content beyond the first chapter requires a free authenticated Clerk session. Enforcement happens at the Cloudflare edge via `functions/_middleware.ts`, before any static file is served.
