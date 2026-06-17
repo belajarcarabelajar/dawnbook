@@ -117,6 +117,7 @@ async function build() {
     </script>
 </head>
 <body>
+    <a href="#main-content" class="skip-link" style="position: absolute; top: -40px; left: 0; background: var(--color-primary); color: var(--color-background); padding: 8px; z-index: 1000; transition: top 0.2s;">Skip to content</a>
     <div class="hub-layout">
         <button onclick="toggleTheme()" class="theme-toggle-icon theme-toggle" aria-label="Toggle Theme" aria-pressed="false">
             <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -125,14 +126,14 @@ async function build() {
         <aside class="side-nav">
             <a href="/" class="logo">Dawnbook</a>
             <button class="mobile-menu-toggle" onclick="toggleMenu()">☰ Menu</button>
-            <div class="nav-links">
-                <a href="/" class="${isHome ? 'active' : ''}">Home</a>
-                <a href="/about.html" class="${title === 'About' ? 'active' : ''}">About</a>
-                <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}">Contribute</a>
+            <nav class="nav-links" aria-label="Main Navigation">
+                <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''}>Home</a>
+                <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''}>About</a>
+                <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''}>Contribute</a>
                 <a href="/admin">Admin Portal</a>
-            </div>
+            </nav>
         </aside>
-        <main class="hub-main">
+        <main id="main-content" class="hub-main">
             ${content}
         </main>
     </div>

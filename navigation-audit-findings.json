@@ -1,0 +1,56 @@
+[
+  {
+    "id": "F-HUB-001",
+    "surface": "HUB",
+    "criterion": "N8",
+    "severity": "Medium",
+    "evidence": "scripts/build.ts:128",
+    "description": "The primary navigation uses a generic <div> container instead of a semantic <nav> landmark role, and there is no skip-to-content link provided for keyboard accessibility.",
+    "recommendation": "Change <div class=\"nav-links\"> to <nav class=\"nav-links\" aria-label=\"Main Navigation\"> and implement a skip-to-content link pointing to the main content area."
+  },
+  {
+    "id": "F-HUB-002",
+    "surface": "HUB",
+    "criterion": "N4",
+    "severity": "Medium",
+    "evidence": "scripts/build.ts:129",
+    "description": "Active navigation links are highlighted visually using the 'active' CSS class but lack the semantic aria-current=\"page\" attribute, failing to communicate the current state to assistive technologies.",
+    "recommendation": "Conditionally inject aria-current=\"page\" into the <a> tag when the route matches the currently active page."
+  },
+  {
+    "id": "F-BOOK-001",
+    "surface": "BOOK",
+    "criterion": "N5",
+    "severity": "High",
+    "evidence": "output/books/piaget/index.html:121",
+    "description": "The generated mdBook surface lacks a cross-surface 'Back to Hub' link, trapping users within the book reading experience with no obvious way to return to the primary Dawnbook directory.",
+    "recommendation": "Inject a standard 'Back to Hub' hyperlink pointing to '/' within the mdBook header menu bar via custom theme templates or JS injection."
+  },
+  {
+    "id": "F-ADMIN-001",
+    "surface": "ADMIN",
+    "criterion": "N5",
+    "severity": "High",
+    "evidence": "apps/admin/src/App.tsx:55",
+    "description": "All navigation links within the Admin sidebar are scoped to the React Router basename ('/admin'). There is no mechanism or standard link to return to the public HUB site.",
+    "recommendation": "Add a native HTML <a> element (e.g., <a href=\"/\">Return to Hub</a>) in the Admin sidebar to facilitate seamless cross-surface navigation."
+  },
+  {
+    "id": "F-ADMIN-002",
+    "surface": "ADMIN",
+    "criterion": "N4",
+    "severity": "Medium",
+    "evidence": "apps/admin/src/App.tsx:55-57",
+    "description": "The React Router <Link> components in the Admin sidebar do not display an active state. Users cannot easily identify which sub-page they are currently viewing.",
+    "recommendation": "Replace <Link> with the <NavLink> component from react-router-dom to automatically apply the 'active' class and aria-current attribute based on the active route."
+  },
+  {
+    "id": "F-ADMIN-003",
+    "surface": "ADMIN",
+    "criterion": "N6",
+    "severity": "Medium",
+    "evidence": "apps/admin/src/App.tsx:195-200",
+    "description": "The <Routes> configuration does not include a fallback route for unmatched URL paths, causing unknown routes to render a blank main area instead of a defined 404 Not Found state.",
+    "recommendation": "Add a wildcard route <Route path=\"*\" element={<NotFound />} /> at the end of the <Routes> block."
+  }
+]

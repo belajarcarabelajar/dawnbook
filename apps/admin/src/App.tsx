@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link, NavLink } from 'react-router-dom';
 import { Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
 import { BookService, type Book } from './services/bookService';
@@ -51,10 +51,12 @@ function Layout({ children }: { children: React.ReactNode }) {
         <button className="mobile-menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>
           {menuOpen ? 'Close Menu' : 'Open Menu'}
         </button>
-        <nav className={`nav-menu ${menuOpen ? 'is-open' : ''}`}>
-          <Link to="/" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Dashboard</Link>
-          <Link to="/books" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Manage Books</Link>
-          <Link to="/editor" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Markdown Editor</Link>
+        <nav className={`nav-menu ${menuOpen ? 'is-open' : ''}`} aria-label="Admin Navigation">
+          <NavLink to="/" end className={({ isActive }) => `btn ${isActive ? 'active' : ''}`} style={{ textDecoration: 'none', textAlign: 'center' }}>Dashboard</NavLink>
+          <NavLink to="/books" className={({ isActive }) => `btn ${isActive ? 'active' : ''}`} style={{ textDecoration: 'none', textAlign: 'center' }}>Manage Books</NavLink>
+          <NavLink to="/editor" className={({ isActive }) => `btn ${isActive ? 'active' : ''}`} style={{ textDecoration: 'none', textAlign: 'center' }}>Markdown Editor</NavLink>
+          <hr style={{ border: 'none', borderTop: '1px solid var(--color-secondary)', margin: 'var(--spacing-md) 0' }} />
+          <a href="/" className="btn" style={{ textDecoration: 'none', textAlign: 'center', backgroundColor: 'var(--color-secondary)', color: 'var(--color-text)' }}>Return to Hub</a>
         </nav>
         <div style={{ marginTop: 'var(--spacing-xl)' }}>
           <Show when="signed-in">
@@ -178,6 +180,16 @@ function MarkdownEditor() {
   );
 }
 
+function NotFound() {
+  return (
+    <section className="card featured-card" style={{ textAlign: 'center' }}>
+      <h2>404 - Not Found</h2>
+      <p>The page you are looking for does not exist in the Admin Portal.</p>
+      <Link to="/" className="btn" style={{ marginTop: 'var(--spacing-md)', textDecoration: 'none' }}>Return to Dashboard</Link>
+    </section>
+  );
+}
+
 export default function App() {
   return (
     <BrowserRouter basename="/admin">
@@ -196,6 +208,7 @@ export default function App() {
             <Route path="/" element={<Home />} />
             <Route path="/books" element={<BookManagement />} />
             <Route path="/editor" element={<MarkdownEditor />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </Show>
       </Layout>
