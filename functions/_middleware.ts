@@ -152,9 +152,11 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   }
 
   // --- Gated paths: require Clerk session ---
-  // For HTML requests, we rely exclusively on client-side JS gating to prevent
-  // infinite loops caused by third-party cookie blocking and strict origin checks.
   if (wantsHtml(request)) {
+    const token = extractSessionToken(request);
+    if (!token || !(await verifySession(token, env))) {
+      return new Response("Unauthorized", { status: 401 });
+    }
     const response = await nextWithLocale();
     return applyGatedCacheHeaders(response);
   }
