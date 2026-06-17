@@ -7,6 +7,9 @@ echo "📦 1. Installing dependencies..."
 bun install
 
 echo "🔨 2. Building the multi-book platform..."
+if [ -f "apps/admin/.env.local" ]; then
+  export $(grep -v '^#' apps/admin/.env.local | xargs)
+fi
 bun run build
 
 echo "🗄️  3. Applying D1 schema migrations..."
