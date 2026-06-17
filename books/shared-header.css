@@ -60,3 +60,40 @@ h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
   --table-alternate-bg: var(--color-surface) !important;
   --scrollbar: var(--color-secondary) !important;
 }
+
+/* Back to Hub Link Responsive Styles */
+.back-to-hub-link {
+  color: var(--color-text);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 0 10px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.back-to-hub-link:hover {
+  color: var(--color-primary);
+}
+
+.hub-icon {
+  display: none;
+}
+
+.hub-text {
+  margin-left: 6px;
+}
+
+@media (max-width: 768px) {
+  .hub-text {
+    display: none;
+  }
+  .hub-icon {
+    display: inline-flex;
+  }
+  .back-to-hub-link {
+    padding: 0 5px;
+  }
+}
