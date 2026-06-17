@@ -3,8 +3,10 @@
     var path = decodeURIComponent(window.location.pathname);
     var basename = path.split('/').pop() || '';
 
-    // Gating rule: 01 prefix and index are public
-    var isPublic = basename.startsWith('01') || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
+    // Gating rule: Dynamic SEO-first gating based on entry point
+    var freeChapter = null;
+    try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
+    var isPublic = (freeChapter === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
 
     if (!isPublic) {
         document.documentElement.style.opacity = '0';
