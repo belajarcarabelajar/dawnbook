@@ -264,10 +264,8 @@ async function build() {
   console.log("Building admin dashboard...");
   try {
     await $`cd apps/admin && bun run build`;
-    // Using cp with Bun shell
+    await $`rm -rf ${join(outputDir, "admin")}`;
     await $`cp -r apps/admin/dist ${join(outputDir, "admin")}`;
-    
-    // Write _redirects to handle SPA fallback and trailing slashes for the admin app
     const redirectsContent = `
 /admin /admin/ 301
 /admin/* /admin/index.html 200
