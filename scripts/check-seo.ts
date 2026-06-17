@@ -80,7 +80,7 @@ async function checkSeo() {
           }
         } else {
           // R4: Gated paths MUST NOT appear in sitemap.xml
-          const url = `https://dawnbook.pages.dev${relativePath}`;
+          const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
           if (sitemapContent.includes(url)) {
             console.error(`❌ [FAIL] Gated path ${relativePath} found in sitemap.xml! (R4)`);
             hasErrors = true;

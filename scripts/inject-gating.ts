@@ -20,7 +20,7 @@ async function processDirectory(dir: string, baseSlug: string = "") {
       
       // We can infer the URL path
       const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
-      const url = `https://dawnbook.pages.dev${relativePath}`;
+      const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
       
       // Inject SEO metadata
       const seoTags = `

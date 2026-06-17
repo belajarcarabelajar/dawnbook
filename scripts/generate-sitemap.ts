@@ -5,7 +5,7 @@ import { isPublicPath } from "../functions/lib/gating.ts";
 async function generateSitemap() {
   const rootDir = process.cwd();
   const outputDir = join(rootDir, "output");
-  const baseUrl = "https://dawnbook.pages.dev";
+  const baseUrl = "https://dawnbook.belajarcarabelajar.com";
 
   let urls: string[] = [];
 
