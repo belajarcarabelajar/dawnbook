@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chapter 2</title>
+    <script>
+      (function() {
+        var currentPath = window.location.pathname;
+        var freeChapter = null;
+        try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
+        if (freeChapter && freeChapter !== currentPath) {
+          document.documentElement.style.opacity = '0';
+          document.documentElement.style.visibility = 'hidden';
+        } else {
+          try { sessionStorage.setItem('free_chapter_viewed', currentPath); } catch(e) {}
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="content">Secret content</div>
+  </body>
+</html>

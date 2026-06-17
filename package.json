@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.",
   "scripts": {
-    "build": "bun run scripts/build.ts"
+    "build": "bun run scripts/build.ts",
+    "test:audit": "bun test"
   },
   "dependencies": {
     "@clerk/backend": "^3.7.1",

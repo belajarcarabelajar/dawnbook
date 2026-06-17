@@ -197,7 +197,7 @@ function AdminContent() {
 
   if (!isLoaded) return <p>Loading...</p>;
 
-  const isAdmin = user?.primaryEmailAddress?.emailAddress === 'kurniawaniwan7906@gmail.com' || user?.publicMetadata?.role === 'admin';
+  const isAdmin = user?.publicMetadata?.role === 'admin';
 
   if (!isAdmin) {
     return (
