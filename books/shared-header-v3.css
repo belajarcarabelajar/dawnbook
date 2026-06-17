@@ -25,6 +25,12 @@
   }
 }
 
+/* Reduce spacing between header and first title to save space */
+.content main > h1:first-child,
+.content main > h2:first-child {
+  margin-block-start: 0.8em !important;
+}
+
 /* Override mdBook default theme with Dawnbook tokens */
 :root {
   --font-family-display: 'Syne', sans-serif;
