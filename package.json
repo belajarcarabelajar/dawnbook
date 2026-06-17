@@ -1,0 +1,13 @@
+{
+  "name": "dawnbook",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "bun run scripts/build.ts"
+  },
+  "dependencies": {
+    "wrangler": "^4.100.0"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.2"
+  }
+}

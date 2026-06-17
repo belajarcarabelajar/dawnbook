@@ -1,0 +1,5 @@
+[book]
+authors = ["Placeholder Author"]
+language = "en"
+src = "src"
+title = "Template Book"
