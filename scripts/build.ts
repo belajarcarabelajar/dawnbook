@@ -109,14 +109,15 @@ async function build() {
             border-bottom: 1px solid var(--glass-border);
             padding: 1.2rem 2rem;
             display: flex; justify-content: space-between; align-items: center;
+            flex-wrap: wrap; gap: 1rem;
         }
 
-        .logo { font-family: 'Outfit', sans-serif; font-size: 1.5rem; font-weight: 700; color: #fff; text-decoration: none; letter-spacing: -0.5px; }
+        .logo { font-family: 'Outfit', sans-serif; font-size: 1.5rem; font-weight: 700; color: #fff; text-decoration: none; letter-spacing: -0.5px; padding: 10px 0; }
         .logo span { color: var(--accent-primary); }
 
         nav a { 
-            margin-left: 2rem; color: var(--text-muted); text-decoration: none; 
-            font-weight: 500; transition: color 0.3s ease; font-size: 0.95rem;
+            margin-left: 1rem; padding: 12px; color: var(--text-muted); text-decoration: none; 
+            font-weight: 500; transition: color 0.3s ease; font-size: 1rem; display: inline-block;
         }
         nav a:hover, nav a.active { color: #fff; }
 
@@ -135,7 +136,7 @@ async function build() {
         @keyframes slideUp { to { opacity: 1; transform: translateY(0); } }
 
         .book-grid { 
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem; 
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 2rem; 
         }
 
         .book-card {
@@ -160,10 +161,10 @@ async function build() {
         .book-card:hover::before { opacity: 1; }
 
         .book-card h3 { font-size: 1.5rem; margin-bottom: 0.75rem; color: #fff; }
-        .book-card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem; }
+        .book-card p { color: var(--text-muted); font-size: 1rem; margin-bottom: 1.5rem; }
         .book-card .read-btn {
-            display: inline-flex; align-items: center; font-size: 0.9rem; font-weight: 600;
-            color: var(--accent-primary);
+            display: inline-flex; align-items: center; font-size: 1rem; font-weight: 600;
+            color: var(--accent-primary); padding: 10px 0;
         }
         .book-card .read-btn svg { width: 16px; height: 16px; margin-left: 0.5rem; transition: transform 0.3s; }
         .book-card:hover .read-btn svg { transform: translateX(4px); }
@@ -173,15 +174,16 @@ async function build() {
             border: 1px solid var(--glass-border);
             border-radius: 16px; padding: 3rem;
             margin-bottom: 3rem;
+            max-width: 100%;
         }
         .content-section h2 { font-size: 2.5rem; margin-bottom: 1.5rem; color: #fff; }
         .content-section p { margin-bottom: 1.5rem; font-size: 1.1rem; color: var(--text-muted); }
         .content-section a.button {
-            display: inline-block; padding: 0.8rem 2rem;
+            display: inline-block; padding: 12px 32px;
             background: var(--accent-primary); color: #fff; text-decoration: none;
             border-radius: 8px; font-weight: 600; font-family: 'Outfit', sans-serif;
             transition: background 0.3s, transform 0.3s;
-            margin-top: 1rem;
+            margin-top: 1rem; min-height: 44px;
         }
         .content-section a.button:hover {
             background: #2563eb; transform: translateY(-2px);
@@ -189,8 +191,11 @@ async function build() {
 
         @media (max-width: 768px) {
             .hero h1 { font-size: 2.5rem; }
-            header { flex-direction: column; gap: 1rem; }
-            nav a { margin-left: 1rem; margin-right: 1rem; }
+            header { flex-direction: column; gap: 0.5rem; padding: 1rem; }
+            nav { display: flex; flex-wrap: wrap; justify-content: center; }
+            main { padding: 2rem 1rem; }
+            .content-section { padding: 1.5rem; }
+            .content-section h2 { font-size: 2rem; }
         }
     </style>
 </head>
@@ -204,6 +209,7 @@ async function build() {
             <a href="/" class="${isHome ? 'active' : ''}">Home</a>
             <a href="/about.html" class="${title === 'About' ? 'active' : ''}">About</a>
             <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}">Contribute</a>
+            <a href="/admin">Admin</a>
         </nav>
     </header>
     
@@ -254,6 +260,25 @@ async function build() {
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
   await writeFile(join(outputDir, "manifest.json"), JSON.stringify({ books: builtBooks.map(b => b.slug) }, null, 2));
+
+  console.log("Building admin dashboard...");
+  try {
+    await $`cd apps/admin && bun run build`;
+    // Using cp with Bun shell
+    await $`cp -r apps/admin/dist ${join(outputDir, "admin")}`;
+    
+    // Write _redirects to handle SPA fallback and trailing slashes for the admin app
+    const redirectsContent = `
+/admin /admin/ 301
+/admin/* /admin/index.html 200
+`;
+    await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
+    
+    console.log("Admin dashboard built and copied successfully.");
+  } catch (error) {
+    console.error("Failed to build or copy admin dashboard", error);
+    process.exit(1);
+  }
 
   console.log("Premium Hub site generated successfully.");
 }
