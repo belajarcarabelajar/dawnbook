@@ -109,3 +109,50 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+/* Mobile-friendliness fixes for Admin Dashboard */
+header {
+  flex-wrap: wrap;
+  gap: 16px;
+}
+
+header a, 
+header button, 
+button, 
+input[type="text"], 
+select {
+  min-height: 44px;
+  box-sizing: border-box;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header a {
+  padding: 8px 12px;
+  text-decoration: none;
+}
+
+input[type="text"], select {
+  max-width: 100% !important;
+  padding: 8px 12px;
+}
+
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: stretch !important;
+    text-align: center;
+  }
+  
+  header > div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+  }
+  
+  main {
+    padding: 16px !important;
+  }
+}

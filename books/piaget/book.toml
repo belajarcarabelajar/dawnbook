@@ -6,3 +6,6 @@ title = "Teori Perkembangan Kognitif Piaget"
 
 [output.html.print]
 enable = false
+
+[output.html]
+additional-css = ["../shared-header.css"]

@@ -1,10 +1,7 @@
-import { BrowserRouter, Routes, Route, Link, useNavigate } from 'react-router-dom';
-import { ClerkProvider, SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/clerk-react';
+import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import { Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
-import { BookService, Book } from './services/bookService';
-
-// STUB: Replace with your actual Clerk Publishable Key
-const PUBLISHABLE_KEY = "pk_test_placeholder_key_here";
+import { BookService, type Book } from './services/bookService';
 
 function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -16,12 +13,13 @@ function Layout({ children }: { children: React.ReactNode }) {
           <Link to="/editor">Markdown Editor</Link>
         </div>
         <div>
-          <SignedIn>
+          <Show when="signed-in">
             <UserButton />
-          </SignedIn>
-          <SignedOut>
+          </Show>
+          <Show when="signed-out">
             <SignInButton />
-          </SignedOut>
+            <SignUpButton />
+          </Show>
         </div>
       </header>
       <main style={{ padding: '2rem' }}>
@@ -124,27 +122,25 @@ function MarkdownEditor() {
 
 export default function App() {
   return (
-    <ClerkProvider publishableKey={PUBLISHABLE_KEY}>
-      <BrowserRouter>
-        <Layout>
-          <SignedOut>
-            <div style={{ textAlign: 'center', marginTop: '4rem' }}>
-              <h2>Please Sign In</h2>
-              <p>You must be authenticated to access the admin dashboard.</p>
-              <SignInButton mode="modal">
-                <button style={{ padding: '0.5rem 1rem' }}>Sign In with Clerk</button>
-              </SignInButton>
-            </div>
-          </SignedOut>
-          <SignedIn>
-            <Routes>
-              <Route path="/" element={<Home />} />
-              <Route path="/books" element={<BookManagement />} />
-              <Route path="/editor" element={<MarkdownEditor />} />
-            </Routes>
-          </SignedIn>
-        </Layout>
-      </BrowserRouter>
-    </ClerkProvider>
+    <BrowserRouter basename="/admin">
+      <Layout>
+        <Show when="signed-out">
+          <div style={{ textAlign: 'center', marginTop: '4rem' }}>
+            <h2>Please Sign In</h2>
+            <p>You must be authenticated to access the admin dashboard.</p>
+            <SignInButton mode="modal">
+              <button style={{ padding: '0.5rem 1rem' }}>Sign In with Clerk</button>
+            </SignInButton>
+          </div>
+        </Show>
+        <Show when="signed-in">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/books" element={<BookManagement />} />
+            <Route path="/editor" element={<MarkdownEditor />} />
+          </Routes>
+        </Show>
+      </Layout>
+    </BrowserRouter>
   );
 }

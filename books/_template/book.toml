@@ -6,3 +6,6 @@ title = "Template Book"
 
 [output.html.print]
 enable = false
+
+[output.html]
+additional-css = ["../shared-header.css"]
