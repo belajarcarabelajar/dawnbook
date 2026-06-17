@@ -10,7 +10,8 @@ echo "🔨 2. Building the multi-book platform..."
 bun run build
 
 echo "☁️ 3. Deploying to Cloudflare Pages (dawnbook.pages.dev)..."
-# Account ID and Tokens should be provided via environment variables in CI/CD or .env
-bun run wrangler pages deploy output --project-name dawnbook
+# Bypass ~/.local/bin to use native Node.js npx instead of bun, as bun breaks wrangler uploads
+export CLOUDFLARE_ACCOUNT_ID=1ec5420a78a852fd25bc2dd915740a71
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin npx wrangler pages deploy output --project-name dawnbook --commit-dirty=true
 
 echo "✅ Deployment complete!"
