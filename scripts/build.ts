@@ -83,8 +83,9 @@ async function build() {
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
     <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}">
     <title>${title} | Dawnbook Platform</title>
-    <link rel="stylesheet" href="/tokens.css">
-    <link rel="stylesheet" href="/HubLayout.css">
+    <link rel="stylesheet" href="/typography.css?v=2">
+    <link rel="stylesheet" href="/tokens.css?v=2">
+    <link rel="stylesheet" href="/HubLayout.css?v=2">
     <script>
       function safeStorageGet(key) {
         try { return localStorage.getItem(key); } catch (e) { return null; }
