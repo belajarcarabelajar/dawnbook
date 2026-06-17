@@ -1,6 +1,8 @@
-# Educational Books Platform
+# Dawnbook - Educational Books Platform
 
-Welcome to the Educational Books Platform! This is an open-source hub where many contributors can submit and publish educational books. The platform aggregates multiple books into a central hub, currently hosting the primary text: **Teori Perkembangan Kognitif Piaget**.
+Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.
+
+Welcome to Dawnbook! This is an open-source hub where many contributors can submit and publish educational books. The platform aggregates multiple books into a central hub, currently hosting the primary text: **Teori Perkembangan Kognitif Piaget**.
 
 ## How the Platform Works
 

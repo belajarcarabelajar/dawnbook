@@ -1,6 +1,7 @@
 {
   "name": "dawnbook",
   "version": "1.0.0",
+  "description": "Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.",
   "scripts": {
     "build": "bun run scripts/build.ts"
   },
