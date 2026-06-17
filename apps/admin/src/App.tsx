@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route, Link, NavLink } from 'react-router-dom';
-import { Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
+import { useUser, Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
 import { BookService, type Book } from './services/bookService';
 import './components/Dashboard.css';
@@ -17,11 +17,11 @@ function Layout({ children }: { children: React.ReactNode }) {
       }
     };
     window.addEventListener('storage', handleStorage);
-    
+
     // Initial sync of ARIA state
     const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
     document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', currentTheme === 'light' ? 'true' : 'false'));
-    
+
     return () => window.removeEventListener('storage', handleStorage);
   }, []);
 
@@ -30,7 +30,7 @@ function Layout({ children }: { children: React.ReactNode }) {
     let currentTheme = root.getAttribute('data-theme');
     if (!currentTheme) currentTheme = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
+
     root.setAttribute('data-theme', newTheme);
     try {
       localStorage.setItem('theme', newTheme);
@@ -38,7 +38,7 @@ function Layout({ children }: { children: React.ReactNode }) {
     } catch {
       /* ignore storage errors */
     }
-    
+
     document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
   };
 
@@ -157,23 +157,23 @@ function MarkdownEditor() {
       </div>
       <div style={{ marginBottom: 'var(--spacing-md)' }}>
         <label style={{ display: 'block', marginBottom: 'var(--spacing-xs)' }}>Chapter Title: </label>
-        <input 
+        <input
           className="input-field"
-          type="text" 
-          value={chapterTitle} 
-          onChange={e => setChapterTitle(e.target.value)} 
+          type="text"
+          value={chapterTitle}
+          onChange={e => setChapterTitle(e.target.value)}
         />
       </div>
-      <textarea 
+      <textarea
         className="input-field"
         style={{ height: '300px', marginBottom: 'var(--spacing-md)' }}
         value={content}
         onChange={e => setContent(e.target.value)}
       />
       <div>
-        <button 
+        <button
           className="btn"
-          onClick={handlePublish} 
+          onClick={handlePublish}
           disabled={isPublishing}>
           {isPublishing ? 'Publishing...' : 'Publish / Generate'}
         </button>
@@ -192,6 +192,33 @@ function NotFound() {
   );
 }
 
+function AdminContent() {
+  const { user, isLoaded } = useUser();
+
+  if (!isLoaded) return <p>Loading...</p>;
+
+  const isAdmin = user?.primaryEmailAddress?.emailAddress === 'kurniawaniwan7906@gmail.com' || user?.publicMetadata?.role === 'admin';
+
+  if (!isAdmin) {
+    return (
+      <section className="card featured-card" style={{ textAlign: 'center' }}>
+        <h2>Access Denied</h2>
+        <p>You do not have permission to access the admin portal.</p>
+        <a href="/" className="btn" style={{ marginTop: 'var(--spacing-md)', textDecoration: 'none' }}>Return to Hub</a>
+      </section>
+    );
+  }
+
+  return (
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/books" element={<BookManagement />} />
+      <Route path="/editor" element={<MarkdownEditor />} />
+      <Route path="*" element={<NotFound />} />
+    </Routes>
+  );
+}
+
 export default function App() {
   return (
     <BrowserRouter basename="/admin">
@@ -206,12 +233,7 @@ export default function App() {
           </section>
         </Show>
         <Show when="signed-in">
-          <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/books" element={<BookManagement />} />
-            <Route path="/editor" element={<MarkdownEditor />} />
-            <Route path="*" element={<NotFound />} />
-          </Routes>
+          <AdminContent />
         </Show>
       </Layout>
     </BrowserRouter>

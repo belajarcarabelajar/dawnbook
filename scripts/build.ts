@@ -43,7 +43,7 @@ async function build() {
 
       console.log(`Building book: ${entry}`);
       const destPath = join(outputBooksDir, entry);
-      
+
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
         // Simple heuristic to format title from slug
@@ -139,7 +139,6 @@ async function build() {
                 <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''}>Home</a>
                 <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''}>About</a>
                 <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''}>Contribute</a>
-                <a href="/admin">Admin Portal</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -151,10 +150,11 @@ async function build() {
 
   const indexContent = `
     <div class="hero-section">
-        <h1>Discover Open Knowledge</h1>
-        <p>A beautifully curated, open-source platform for educational books. Dive into topics written by experts and community contributors.</p>
+        <h1>Dawn is Coming. Free Your Mind.</h1>
+        <p>Embrace the sunrise of open knowledge. A new era of freedom where learning is self-directed, open to all, and absolutely free. We believe education empowers you to think critically and explore boundlessly.</p>
+        <p style="font-weight: bold; margin-top: var(--spacing-md); color: var(--color-accent); font-size: 1.1rem;">Knowledge belongs to everyone. The dawn of free learning is here.</p>
     </div>
-    
+
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);">Available Books</h2>
     <div class="book-masonry">
       ${builtBooks.map(b => `
@@ -168,9 +168,26 @@ async function build() {
 
   const aboutContent = `
     <div class="content-panel">
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">About Dawnbook</h2>
-        <p>Dawnbook is a modern, highly scalable platform designed to democratize educational publishing.</p>
-        <p>Our goal is to create a seamless authoring and reading environment. Whether you're exploring the intricacies of Piaget's Cognitive Development or exploring entirely new subjects, Dawnbook ensures content is beautifully presented and instantly accessible.</p>
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Our Philosophy</h2>
+        <p>Knowledge is a shared commons and a fundamental right, not a commodity to be hoarded or paywalled. We exist to make high-quality, autodidactic learning a reality for everyone.</p>
+
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">Why Dawnbook Exists</h2>
+        <p>Dawnbook was built to actively reduce the education gap and reject exploitative paywalled models. By dismantling financial barriers, we ensure that free and open access is the baseline, not a premium feature.</p>
+
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">Core Principles</h2>
+        <ul>
+            <li style="margin-bottom: var(--spacing-sm)"><strong>Free for All:</strong> Absolutely free with no hidden cost.</li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong>Open & Collaborative:</strong> Driven by open collaboration and contribution from a worldwide community.</li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong>Equality of Access:</strong> Accessible to anyone, anywhere, anytime.</li>
+            <li style="margin-bottom: var(--spacing-sm)"><strong>Self-Directed Learning:</strong> Fostering lifelong learning and the critical thinking necessary to pursue truth independently.</li>
+        </ul>
+
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)">The Dawn Motif</h2>
+        <p>The dawn signifies the end of the night and the arrival of a new era of freedom. It represents our profound belief that the light of education should reach every corner of the world, illuminating minds and liberating individuals.</p>
+
+        <div style="margin-top: var(--spacing-xl); text-align: center; border-top: 1px solid var(--color-secondary); padding-top: var(--spacing-lg);">
+          <p style="font-weight: bold; color: var(--color-accent); font-size: 1.25rem;">Knowledge belongs to everyone. The dawn of free learning is here.</p>
+        </div>
     </div>
   `;
 
@@ -186,37 +203,45 @@ async function build() {
   // Generate the sign-in page that redirects to Clerk Hosted Sign-In
   // The redirect_url query param is forwarded so the user returns to the gated page.
   const signInContent = `
-    <div class="content-panel" style="text-align: center;">
+    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Sign In to Continue Reading</h2>
-        <p style="margin-bottom: var(--spacing-lg)">Create a free account or sign in to access the full book content. The first chapter of every book is always free to preview.</p>
-        <div id="clerk-sign-in" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg)"></div>
+        <p style="margin-bottom: var(--spacing-lg)">Create a free account or sign in to access the full book content.</p>
+        <div id="clerk-sign-in" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg); width: 100%;"></div>
         <p style="font-size: 0.875rem; opacity: 0.7;">Powered by <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
     </div>
     <script>
-      // Clerk Hosted Pages: redirect to Clerk's managed sign-in UI
       (function() {
         var params = new URLSearchParams(window.location.search);
         var redirectUrl = params.get('redirect_url') || '/';
-        // If Clerk is loaded (via ClerkJS), mount the sign-in component
-        // Otherwise, provide a simple link-based fallback
         var container = document.getElementById('clerk-sign-in');
+
+        var clerkOptions = {
+          afterSignInUrl: redirectUrl,
+          afterSignUpUrl: redirectUrl,
+          fallbackRedirectUrl: redirectUrl,
+          forceRedirectUrl: redirectUrl,
+          signUpUrl: '/sign-in'
+        };
+
         if (window.Clerk) {
-          window.Clerk.mountSignIn(container, {
-            afterSignInUrl: redirectUrl,
-            afterSignUpUrl: redirectUrl,
-            signUpUrl: '/sign-in'
-          });
+          if (window.Clerk.user) {
+            window.location.href = redirectUrl;
+            return;
+          }
+          window.Clerk.mountSignIn(container, clerkOptions);
         } else {
-          // Load ClerkJS from the publishable key domain
           var meta = document.querySelector('meta[name="clerk-publishable-key"]');
           if (!meta) {
             container.innerHTML = '<p>Authentication is being configured. Please try again shortly.</p>';
             return;
           }
           var pk = meta.getAttribute('content');
-          var keyBody = pk.replace(/^pk_(test|live)_/, '').replace(/\\$$/, '');
+          var keyBody = pk.replace(/^pk_(test|live)_/, '');
+          while (keyBody.length % 4 !== 0) {
+            keyBody += '=';
+          }
           try {
-            var domain = atob(keyBody);
+            var domain = atob(keyBody).replace(/\\$$/, '');
             var script = document.createElement('script');
             script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
             script.setAttribute('data-clerk-publishable-key', pk);
@@ -224,17 +249,19 @@ async function build() {
             script.onload = function() {
               if (window.Clerk) {
                 window.Clerk.load().then(function() {
-                  window.Clerk.mountSignIn(container, {
-                    afterSignInUrl: redirectUrl,
-                    afterSignUpUrl: redirectUrl,
-                    signUpUrl: '/sign-in'
-                  });
+                  if (window.Clerk.user) {
+                    window.location.href = redirectUrl;
+                  } else {
+                    window.Clerk.mountSignIn(container, clerkOptions);
+                  }
+                }).catch(function(err) {
+                  container.innerHTML = '<p>Error loading Clerk: ' + err.message + '</p>';
                 });
               }
             };
             document.head.appendChild(script);
           } catch(e) {
-            container.innerHTML = '<p>Unable to load sign-in. Please contact support.</p>';
+            container.innerHTML = '<p>Unable to load sign-in. Please contact support. ' + e.message + '</p>';
           }
         }
       })();
@@ -252,6 +279,9 @@ async function build() {
   await $`cp apps/hub/src/styles/tokens.css ${join(outputDir, "tokens.css")}`;
   await $`cp apps/hub/src/components/HubLayout.css ${join(outputDir, "HubLayout.css")}`;
 
+  console.log("Applying anti-FOUC script to gated books...");
+  await $`bun run scripts/inject-gating.ts`;
+
   console.log("Building admin dashboard...");
   try {
     await $`cd apps/admin && bun run build`;
@@ -262,7 +292,7 @@ async function build() {
 /admin/* /admin/index.html 200
 `;
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
-    
+
     const headersContent = `
 /*
   X-Frame-Options: DENY
@@ -281,7 +311,7 @@ async function build() {
   Cache-Control: no-cache
 `;
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
-    
+
     console.log("Admin dashboard built and copied successfully.");
   } catch (error) {
     console.error("Failed to build or copy admin dashboard", error);

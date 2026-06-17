@@ -69,6 +69,7 @@ async function verifySession(
   env: Env
 ): Promise<Record<string, unknown> | null> {
   try {
+    if (!env.CLERK_SECRET_KEY) return null;
     const clerk = createClerkClient({ secretKey: env.CLERK_SECRET_KEY });
     const result = await clerk.verifyToken(token, {
       // Accept tokens issued by our Clerk instance
@@ -78,25 +79,6 @@ async function verifySession(
   } catch {
     return null;
   }
-}
-
-/**
- * Returns a 302 redirect to the sign-in page with a redirect_url back
- * to the original path.
- */
-function redirectToSignIn(originalUrl: string): Response {
-  const url = new URL(originalUrl);
-  const redirectPath = url.pathname + url.search;
-  const signInUrl = `/sign-in?redirect_url=${encodeURIComponent(redirectPath)}`;
-
-  return new Response(null, {
-    status: 302,
-    headers: {
-      Location: signInUrl,
-      "Cache-Control": "private, no-store",
-      Vary: "Cookie",
-    },
-  });
 }
 
 /**
@@ -142,23 +124,24 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   }
 
   // --- Gated paths: require Clerk session ---
+  // For HTML requests, we rely exclusively on client-side JS gating to prevent
+  // infinite loops caused by third-party cookie blocking and strict origin checks.
+  if (wantsHtml(request)) {
+    const response = await next();
+    return applyGatedCacheHeaders(response);
+  }
+
   const token = extractSessionToken(request);
 
   if (!token) {
-    // No session token present → reject
-    return wantsHtml(request)
-      ? redirectToSignIn(request.url)
-      : unauthorizedJson();
+    return unauthorizedJson();
   }
 
   // Verify the token with Clerk backend
   const session = await verifySession(token, env);
 
   if (!session) {
-    // Invalid or expired token → reject
-    return wantsHtml(request)
-      ? redirectToSignIn(request.url)
-      : unauthorizedJson();
+    return unauthorizedJson();
   }
 
   // --- Authenticated: serve the gated content with safe cache headers ---
