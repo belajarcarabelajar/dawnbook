@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route, Link, useNavigate } from 'react-router-dom';
 import { ClerkProvider, SignedIn, SignedOut, SignInButton, UserButton } from '@clerk/clerk-react';
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import { BookService, Book } from './services/bookService';
 
 // STUB: Replace with your actual Clerk Publishable Key
 const PUBLISHABLE_KEY = "pk_test_placeholder_key_here";
@@ -40,17 +41,18 @@ function Home() {
 }
 
 function BookManagement() {
-  // STUB: In a real implementation, this would fetch the list of books from an API or filesystem
-  const dummyBooks = [
-    { slug: 'piaget', title: 'Teori Perkembangan Kognitif Piaget' },
-    { slug: 'new-book', title: 'A New Educational Book' }
-  ];
+  const [books, setBooks] = useState<Book[]>([]);
+
+  useEffect(() => {
+    // STUB: Calls the service function to fetch books
+    BookService.fetchBooks().then(setBooks);
+  }, []);
 
   return (
     <div>
       <h1>Manage Books</h1>
       <ul>
-        {dummyBooks.map(book => (
+        {books.map(book => (
           <li key={book.slug}>
             <strong>{book.title}</strong> ({book.slug})
           </li>
@@ -64,12 +66,23 @@ function BookManagement() {
 function MarkdownEditor() {
   const [content, setContent] = useState('# New Chapter\n\nWrite your content here...');
   const [bookSlug, setBookSlug] = useState('piaget');
+  const [chapterTitle, setChapterTitle] = useState('New Chapter');
+  const [books, setBooks] = useState<Book[]>([]);
+  const [isPublishing, setIsPublishing] = useState(false);
 
-  const handlePublish = () => {
-    // TODO: Implement real backend action to save markdown, update SUMMARY.md, and trigger build
-    console.log(`Publishing to book: ${bookSlug}`);
-    console.log(`Content: ${content}`);
-    alert("STUB: Publish action triggered! Check console. In the future, this will save to the filesystem and run mdbook build.");
+  useEffect(() => {
+    BookService.fetchBooks().then(setBooks);
+  }, []);
+
+  const handlePublish = async () => {
+    setIsPublishing(true);
+    const result = await BookService.publishChapter({
+      bookSlug,
+      chapterTitle,
+      markdownContent: content
+    });
+    alert(result.message);
+    setIsPublishing(false);
   };
 
   return (
@@ -78,9 +91,19 @@ function MarkdownEditor() {
       <div style={{ marginBottom: '1rem' }}>
         <label>Select Book: </label>
         <select value={bookSlug} onChange={e => setBookSlug(e.target.value)}>
-          <option value="piaget">Teori Perkembangan Kognitif Piaget</option>
-          <option value="new-book">A New Educational Book</option>
+          {books.map(book => (
+            <option key={book.slug} value={book.slug}>{book.title}</option>
+          ))}
         </select>
+      </div>
+      <div style={{ marginBottom: '1rem' }}>
+        <label>Chapter Title: </label>
+        <input 
+          type="text" 
+          value={chapterTitle} 
+          onChange={e => setChapterTitle(e.target.value)} 
+          style={{ width: '300px' }}
+        />
       </div>
       <textarea 
         style={{ width: '100%', height: '300px', marginBottom: '1rem' }}
@@ -88,8 +111,11 @@ function MarkdownEditor() {
         onChange={e => setContent(e.target.value)}
       />
       <div>
-        <button onClick={handlePublish} style={{ padding: '0.5rem 1rem', background: '#0066cc', color: 'white', border: 'none', borderRadius: '4px' }}>
-          Publish / Generate
+        <button 
+          onClick={handlePublish} 
+          disabled={isPublishing}
+          style={{ padding: '0.5rem 1rem', background: '#0066cc', color: 'white', border: 'none', borderRadius: '4px' }}>
+          {isPublishing ? 'Publishing...' : 'Publish / Generate'}
         </button>
       </div>
     </div>
