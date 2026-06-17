@@ -243,7 +243,7 @@ bash scripts/deploy-website.sh
 
 **Trigger command:**
 ```bash
-bash scripts/test-gating.sh https://dawnbook.pages.dev
+bash scripts/test-gating.sh https://dawnbook.belajarcarabelajar.com
 ```
 
 **What happens:** Re-runs full gating test suite against live production URL, verifying 200 OK for all HTML and FOUC script injection.
@@ -451,7 +451,7 @@ bash scripts/deploy-website.sh
 
 *Exact command:*
 ```bash
-bash scripts/test-gating.sh https://dawnbook.pages.dev
+bash scripts/test-gating.sh https://dawnbook.belajarcarabelajar.com
 ```
 
 *Acceptance check:* Exits 0. Output contains `All tests passed!`. Specific checks: book root -> 200, all chapter HTML -> 200 (for SEO), and HTML contains the `free_chapter_viewed` sessionStorage script.
