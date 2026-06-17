@@ -48,29 +48,10 @@
 
 body {
   font-family: var(--font-family-body), "Open Sans", sans-serif !important;
-  background-color: var(--color-background) !important;
-  color: var(--color-text) !important;
 }
 
 h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
   font-family: var(--font-family-display), "Open Sans", sans-serif !important;
-}
-
-/* Map mdbook standard variables to tokens for all themes */
-:root, :root.coal, :root.light, :root.navy, :root.rust, :root.ayu {
-  --bg: var(--color-background) !important;
-  --fg: var(--color-text) !important;
-  --sidebar-bg: var(--color-surface) !important;
-  --sidebar-fg: var(--color-text-muted) !important;
-  --sidebar-active: var(--color-primary) !important;
-  --sidebar-non-existant: var(--color-text-muted) !important;
-  --searchbar-bg: var(--color-surface) !important;
-  --searchbar-fg: var(--color-text) !important;
-  --searchbar-shadow-color: rgba(0, 0, 0, 0.2) !important;
-  --quote-bg: var(--color-surface) !important;
-  --table-header-bg: var(--color-surface) !important;
-  --table-alternate-bg: var(--color-surface) !important;
-  --scrollbar: var(--color-secondary) !important;
 }
 
 
