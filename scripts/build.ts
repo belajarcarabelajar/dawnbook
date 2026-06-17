@@ -321,14 +321,6 @@ async function build() {
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https://img.clerk.com; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev;
-
-/*.css
-  Cache-Control: no-cache
-
-/*.js
-  Cache-Control: no-cache
-
-/*.html
   Cache-Control: no-cache
 `;
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
