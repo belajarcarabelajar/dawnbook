@@ -29,14 +29,14 @@
 .content main > h1:first-child,
 .content main > h2:first-child {
   margin-top: 1.5cm !important;
-  margin-block-start: 1.5cm !important;
+  padding-top: 0.5cm !important;
 }
 
 @media (max-width: 768px) {
   .content main > h1:first-child,
   .content main > h2:first-child {
     margin-top: 1.5cm !important;
-    margin-block-start: 1.5cm !important;
+    padding-top: 0.5cm !important;
   }
 }
 
