@@ -1,5 +1,3 @@
-## Topik
-
 ## Implikasi Teori Piaget dalam Strategi Pembelajaran
 
 Setelah memahami bagaimana anak-anak berkembang melalui tahapan-tahapan kognitif, pertanyaan besarnya adalah: **Bagaimana kita menerapkan teori ini di dalam kelas?**

@@ -1,7 +1,3 @@
-## Topik
-
-🧠Teori Perkembangan Kognitif Piaget
-
 Meskipun Jean Piaget sering disebut sebagai raksasa dalam dunia psikologi perkembangan, tidak ada teori yang sempurna. Seiring berjalannya waktu, para peneliti menemukan bahwa peta yang digambar Piaget tentang pikiran anak-anak memiliki beberapa area yang kosong atau sedikit meleset.
 
 Dalam bagian ini, kita akan mengeksplorasi sisi kritis dari teori Piaget dan bagaimana para pemikir **Neo-Piagetian** mencoba "memperbarui perangkat lunak" teori ini agar lebih relevan dengan penemuan modern.

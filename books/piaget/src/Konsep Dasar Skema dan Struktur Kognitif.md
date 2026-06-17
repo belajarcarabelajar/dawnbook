@@ -1,5 +1,3 @@
-## Topik
-
 ## Konsep Dasar: Skema dan Struktur Kognitif
 
 Selamat datang di inti pemikiran Jean Piaget. Sebelum kita membahas bagaimana anak-anak tumbuh menjadi dewasa yang cerdas, kita perlu memahami "perangkat lunak" mental yang mereka gunakan untuk memproses dunia. Dalam bagian ini, kita akan membedah konsep **Skema** dan bagaimana kumpulan skema tersebut membentuk **Struktur Kognitif**.

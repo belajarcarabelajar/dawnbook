@@ -1,7 +1,3 @@
-## Topik
-
-🧠Teori Perkembangan Kognitif Piaget
-
 ## Ekuilibrasi: Dinamika Keseimbangan Berpikir
 
 Pernahkah Anda merasa sangat bingung saat mempelajari sesuatu yang benar-benar baru, hingga rasanya otak Anda "panas", namun kemudian tiba-tiba semuanya terasa masuk akal? Itulah momen yang disebut Jean Piaget sebagai **ekuilibrasi**.

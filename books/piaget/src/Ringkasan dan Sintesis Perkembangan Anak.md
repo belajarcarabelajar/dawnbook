@@ -1,5 +1,3 @@
-## Topik
-
 ## Ringkasan dan Sintesis Perkembangan Anak: Dari Refleks ke Logika Abstrak
 
 Selamat datang di bagian penutup dari perjalanan kita memahami Teori Perkembangan Kognitif Jean Piaget. Setelah membedah setiap komponen secara mendalam, sekarang saatnya kita melangkah mundur untuk melihat "lukisan besar" dari perkembangan manusia.

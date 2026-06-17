@@ -1,5 +1,3 @@
-## Topik
-
 ## Tahap Sensorimotor (Lahir - 2 Tahun): Membangun Dunia Lewat Indra dan Gerak
 
 Selamat datang di fase pertama dalam perjalanan kognitif manusia. Bayangkan Anda terbangun di sebuah planet asing tanpa peta, tanpa bahasa, dan tanpa pemahaman tentang bagaimana benda-benda bekerja. Inilah kondisi bayi yang baru lahir.

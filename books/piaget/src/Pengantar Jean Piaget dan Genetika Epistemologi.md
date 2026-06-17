@@ -1,7 +1,3 @@
-## Topik
-
-🧠Teori Perkembangan Kognitif Piaget
-
 ## Pengantar Jean Piaget dan Genetika Epistemologi
 
 Selamat datang di perjalanan memahami bagaimana pikiran manusia terbentuk. Sebelum kita menyelami tahapan-tahapan rumit dalam perkembangan anak, kita harus mengenal sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia adalah seorang penjelajah intelektual yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*

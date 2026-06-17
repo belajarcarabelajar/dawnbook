@@ -1,5 +1,3 @@
-## Topik
-
 ## Peran Lingkungan Fisik dalam Perkembangan
 
 Pernahkah Anda memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang krusial. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.

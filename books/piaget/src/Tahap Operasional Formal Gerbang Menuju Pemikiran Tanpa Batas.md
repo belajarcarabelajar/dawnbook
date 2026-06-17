@@ -1,5 +1,3 @@
-## Topik
-
 ## Tahap Operasional Formal: Gerbang Menuju Pemikiran Tanpa Batas (11 Tahun ke Atas)
 
 Selamat datang di puncak menara perkembangan kognitif menurut Jean Piaget. Jika pada tahap sebelumnya (Operasional Konkret) anak-anak mulai bisa berpikir logis namun masih terikat pada objek fisik yang terlihat, pada **Tahap Operasional Formal**, belenggu itu dilepaskan.

@@ -1,5 +1,3 @@
-## Topik
-
 ## Tahap Operasional Konkret: Ketika Logika Mulai Berakar (Usia 7 - 11 Tahun)
 
 Selamat datang di fase di mana dunia anak mulai berubah dari dunia yang penuh "sihir" dan intuisi menjadi dunia yang logis dan teratur. Jika pada tahap sebelumnya (praoperasional) anak mungkin percaya bahwa bulan mengikuti mereka saat berjalan, pada **Tahap Operasional Konkret**, mereka mulai memahami hukum-hukum alam yang mengatur realitas fisik.

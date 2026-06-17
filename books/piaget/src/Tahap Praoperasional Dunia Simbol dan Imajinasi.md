@@ -1,5 +1,3 @@
-## Topik
-
 ## Tahap Praoperasional: Dunia Simbol dan Imajinasi (2 - 7 Tahun)
 
 Setelah melewati masa bayi di mana dunia dipahami melalui indra dan gerakan (Sensorimotor), anak melangkah ke fase yang luar biasa: **Tahap Praoperasional**. Inilah masa di mana "keajaiban" terjadi. Anak mulai bisa membayangkan hal-hal yang tidak ada di depan mata mereka. Namun, seperti namanya—"Pra-operasional"—mereka belum mampu melakukan operasi mental yang logis.
