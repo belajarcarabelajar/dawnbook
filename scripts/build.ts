@@ -13,27 +13,27 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const entries = await readdir(booksDir);
-  const builtBooks: string[] = [];
+  const builtBooks: { slug: string; title: string; desc: string }[] = [];
 
   for (const entry of entries) {
     const bookPath = join(booksDir, entry);
     const bookStat = await stat(bookPath);
 
     if (bookStat.isDirectory()) {
-      // Check if book.toml exists
       try {
         await stat(join(bookPath, "book.toml"));
       } catch {
-        continue; // Not a book
+        continue;
       }
 
       console.log(`Building book: ${entry}`);
       const destPath = join(outputBooksDir, entry);
       
-      // Run mdbook build
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
-        builtBooks.push(entry);
+        // Simple heuristic to format title from slug
+        const formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        builtBooks.push({ slug: entry, title: formattedTitle, desc: `Explore the comprehensive guide on ${formattedTitle}.` });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
         console.error(`Failed to build book: ${entry}`, error);
@@ -42,34 +42,169 @@ async function build() {
     }
   }
 
-  // Generate Hub Site
-  console.log("Generating hub site...");
+  console.log("Generating premium hub site...");
 
-  const generatePage = (title: string, content: string) => `<!DOCTYPE html>
+  const generatePage = (title: string, content: string, isHome: boolean = false) => `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title} | Platform Hub</title>
+    <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
+    <title>${title} | Dawnbook Platform</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Outfit:wght@500;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: system-ui, sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; color: #333; }
-        header { border-bottom: 1px solid #ccc; margin-bottom: 2rem; padding-bottom: 1rem; }
-        nav a { margin-right: 1rem; color: #0066cc; text-decoration: none; }
-        nav a:hover { text-decoration: underline; }
-        .book-list { list-style: none; padding: 0; }
-        .book-list li { background: #f9f9f9; margin-bottom: 1rem; padding: 1rem; border-radius: 4px; }
-        .book-list a { font-weight: bold; color: #0066cc; text-decoration: none; font-size: 1.2rem; }
+        :root {
+            --bg-color: #0b0f19;
+            --text-main: #f1f5f9;
+            --text-muted: #94a3b8;
+            --accent-primary: #3b82f6;
+            --accent-glow: rgba(59, 130, 246, 0.5);
+            --glass-bg: rgba(15, 23, 42, 0.6);
+            --glass-border: rgba(255, 255, 255, 0.08);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background-color: var(--bg-color); 
+            color: var(--text-main); 
+            line-height: 1.6;
+            min-height: 100vh;
+            overflow-x: hidden;
+            position: relative;
+        }
+
+        /* Ambient animated background orb */
+        .ambient-orb {
+            position: fixed;
+            top: -20%; left: -10%;
+            width: 70vw; height: 70vw;
+            background: radial-gradient(circle, rgba(59,130,246,0.15) 0%, rgba(0,0,0,0) 70%);
+            border-radius: 50%;
+            z-index: -1;
+            filter: blur(60px);
+            animation: float 20s ease-in-out infinite alternate;
+        }
+        .ambient-orb-2 {
+            top: auto; bottom: -20%; left: auto; right: -10%;
+            background: radial-gradient(circle, rgba(139,92,246,0.1) 0%, rgba(0,0,0,0) 70%);
+            animation-delay: -10s;
+        }
+
+        @keyframes float {
+            0% { transform: translate(0, 0) scale(1); }
+            100% { transform: translate(5%, 10%) scale(1.1); }
+        }
+
+        header { 
+            position: sticky; top: 0; z-index: 100;
+            background: var(--glass-bg);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-bottom: 1px solid var(--glass-border);
+            padding: 1.2rem 2rem;
+            display: flex; justify-content: space-between; align-items: center;
+        }
+
+        .logo { font-family: 'Outfit', sans-serif; font-size: 1.5rem; font-weight: 700; color: #fff; text-decoration: none; letter-spacing: -0.5px; }
+        .logo span { color: var(--accent-primary); }
+
+        nav a { 
+            margin-left: 2rem; color: var(--text-muted); text-decoration: none; 
+            font-weight: 500; transition: color 0.3s ease; font-size: 0.95rem;
+        }
+        nav a:hover, nav a.active { color: #fff; }
+
+        main { max-width: 1100px; margin: 0 auto; padding: 4rem 2rem; }
+
+        h1, h2, h3 { font-family: 'Outfit', sans-serif; }
+
+        .hero { text-align: center; margin-bottom: 5rem; animation: slideUp 1s ease forwards; opacity: 0; transform: translateY(20px); }
+        .hero h1 { 
+            font-size: 4rem; line-height: 1.1; margin-bottom: 1.5rem; 
+            background: linear-gradient(to right, #fff, #94a3b8);
+            -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+        }
+        .hero p { font-size: 1.25rem; color: var(--text-muted); max-width: 600px; margin: 0 auto 2rem; }
+
+        @keyframes slideUp { to { opacity: 1; transform: translateY(0); } }
+
+        .book-grid { 
+            display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 2rem; 
+        }
+
+        .book-card {
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px; padding: 2rem;
+            transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+            text-decoration: none; color: inherit; display: block;
+            position: relative; overflow: hidden;
+        }
+        .book-card::before {
+            content: ''; position: absolute; top: 0; left: 0; right: 0; height: 3px;
+            background: linear-gradient(90deg, var(--accent-primary), transparent);
+            opacity: 0; transition: opacity 0.3s;
+        }
+
+        .book-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            border-color: rgba(59, 130, 246, 0.4);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.4), 0 0 20px var(--accent-glow);
+        }
+        .book-card:hover::before { opacity: 1; }
+
+        .book-card h3 { font-size: 1.5rem; margin-bottom: 0.75rem; color: #fff; }
+        .book-card p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1.5rem; }
+        .book-card .read-btn {
+            display: inline-flex; align-items: center; font-size: 0.9rem; font-weight: 600;
+            color: var(--accent-primary);
+        }
+        .book-card .read-btn svg { width: 16px; height: 16px; margin-left: 0.5rem; transition: transform 0.3s; }
+        .book-card:hover .read-btn svg { transform: translateX(4px); }
+
+        .content-section {
+            background: var(--glass-bg);
+            border: 1px solid var(--glass-border);
+            border-radius: 16px; padding: 3rem;
+            margin-bottom: 3rem;
+        }
+        .content-section h2 { font-size: 2.5rem; margin-bottom: 1.5rem; color: #fff; }
+        .content-section p { margin-bottom: 1.5rem; font-size: 1.1rem; color: var(--text-muted); }
+        .content-section a.button {
+            display: inline-block; padding: 0.8rem 2rem;
+            background: var(--accent-primary); color: #fff; text-decoration: none;
+            border-radius: 8px; font-weight: 600; font-family: 'Outfit', sans-serif;
+            transition: background 0.3s, transform 0.3s;
+            margin-top: 1rem;
+        }
+        .content-section a.button:hover {
+            background: #2563eb; transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            .hero h1 { font-size: 2.5rem; }
+            header { flex-direction: column; gap: 1rem; }
+            nav a { margin-left: 1rem; margin-right: 1rem; }
+        }
     </style>
 </head>
 <body>
+    <div class="ambient-orb"></div>
+    <div class="ambient-orb ambient-orb-2"></div>
+
     <header>
-        <h1>Educational Books Platform</h1>
+        <a href="/" class="logo">dawn<span>book</span></a>
         <nav>
-            <a href="/">Home</a>
-            <a href="/about.html">About</a>
-            <a href="/contribute.html">Contribute</a>
+            <a href="/" class="${isHome ? 'active' : ''}">Home</a>
+            <a href="/about.html" class="${title === 'About' ? 'active' : ''}">About</a>
+            <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}">Contribute</a>
         </nav>
     </header>
+    
     <main>
         ${content}
     </main>
@@ -77,31 +212,48 @@ async function build() {
 </html>`;
 
   const indexContent = `
-    <h2>Available Books</h2>
-    <ul class="book-list">
-      ${builtBooks.map(slug => `<li><a href="/books/${slug}/">${slug}</a></li>`).join("")}
-    </ul>
+    <div class="hero">
+        <h1>Discover Open Knowledge</h1>
+        <p>A beautifully curated, open-source platform for educational books. Dive into topics written by experts and community contributors.</p>
+    </div>
+    
+    <h2 style="margin-bottom: 2rem; font-size: 2rem; color: #fff; border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 1rem;">Available Books</h2>
+    <div class="book-grid">
+      ${builtBooks.map(b => `
+        <a href="/books/${b.slug}/" class="book-card">
+            <h3>${b.title}</h3>
+            <p>${b.desc}</p>
+            <div class="read-btn">Read Now 
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M12 5l7 7-7 7"/></svg>
+            </div>
+        </a>
+      `).join("")}
+    </div>
   `;
 
   const aboutContent = `
-    <h2>About This Platform</h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+    <div class="content-section">
+        <h2>About Dawnbook</h2>
+        <p>Dawnbook is a modern, highly scalable platform designed to democratize educational publishing. Built on top of mdBook and deployed to the edge with Cloudflare Pages, it delivers lightning-fast reading experiences globally.</p>
+        <p>Our goal is to create a seamless authoring and reading environment. Whether you're exploring the intricacies of Piaget's Cognitive Development or exploring entirely new subjects, Dawnbook ensures content is beautifully presented and instantly accessible.</p>
+    </div>
   `;
 
   const contributeContent = `
-    <h2>How to Contribute</h2>
-    <p>We welcome contributions! Please fork the repository, add your markdown to the appropriate book, and submit a pull request.</p>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis lorem ut libero malesuada feugiat.</p>
+    <div class="content-section">
+        <h2>Join the Authors</h2>
+        <p>We believe knowledge should be free and openly collaborative. You can contribute by writing a new chapter, fixing typos, or even starting a brand new book.</p>
+        <p>All contributions are managed via GitHub Pull Requests, ensuring a high standard of quality through peer review.</p>
+        <a href="https://github.com/belajarcarabelajar/dawnbook" class="button" target="_blank">View on GitHub</a>
+    </div>
   `;
 
-  await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent));
+  await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent, true));
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
+  await writeFile(join(outputDir, "manifest.json"), JSON.stringify({ books: builtBooks.map(b => b.slug) }, null, 2));
 
-  // Write manifest
-  await writeFile(join(outputDir, "manifest.json"), JSON.stringify({ books: builtBooks }, null, 2));
-
-  console.log("Hub site generated successfully.");
+  console.log("Premium Hub site generated successfully.");
 }
 
 build().catch(console.error);
