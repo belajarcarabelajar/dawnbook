@@ -52,7 +52,6 @@
   --color-state-info: #111111;
 }
 
-/* Theme Toggle Icon Component */
 .theme-toggle-icon {
   background: transparent;
   border: none;
@@ -63,11 +62,16 @@
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  position: absolute;
-  top: var(--spacing-md);
-  right: var(--spacing-md);
   z-index: 100;
   transition: background-color var(--duration-fast) var(--easing-standard);
+}
+
+@media (min-width: 1024px) {
+  .theme-toggle-icon {
+    position: absolute;
+    top: var(--spacing-md);
+    right: var(--spacing-md);
+  }
 }
 
 .theme-toggle-icon:hover {
