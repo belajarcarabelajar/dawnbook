@@ -28,7 +28,16 @@
 /* Reduce spacing between header and first title to save space */
 .content main > h1:first-child,
 .content main > h2:first-child {
+  margin-top: 0.8em !important;
   margin-block-start: 0.8em !important;
+}
+
+@media (max-width: 768px) {
+  .content main > h1:first-child,
+  .content main > h2:first-child {
+    margin-top: 0.2em !important;
+    margin-block-start: 0.2em !important;
+  }
 }
 
 /* Override mdBook default theme with Dawnbook tokens */
