@@ -44,8 +44,8 @@ document.addEventListener('DOMContentLoaded', function() {
 
   applyLocale(currentLocale);
 
-  var toggleBtn = document.getElementById('lang-toggle');
-  if (toggleBtn) {
-    toggleBtn.addEventListener('click', handleToggle);
-  }
+  var toggleBtns = document.querySelectorAll('.lang-toggle-btn');
+  toggleBtns.forEach(function(btn) {
+    btn.addEventListener('click', handleToggle);
+  });
 });
