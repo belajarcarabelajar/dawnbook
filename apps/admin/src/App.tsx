@@ -42,6 +42,10 @@ function Layout({ children }: { children: React.ReactNode }) {
 
   return (
     <div className="dashboard-container">
+      <button onClick={toggleTheme} className="theme-toggle-icon theme-toggle" aria-label="Toggle Theme" aria-pressed="false">
+        <svg className="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+        <svg className="moon-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+      </button>
       <aside className="floating-sidebar">
         <h1>Admin Portal</h1>
         <button className="mobile-menu-toggle" onClick={() => setMenuOpen(!menuOpen)}>
@@ -51,7 +55,6 @@ function Layout({ children }: { children: React.ReactNode }) {
           <Link to="/" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Dashboard</Link>
           <Link to="/books" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Manage Books</Link>
           <Link to="/editor" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Markdown Editor</Link>
-          <button onClick={toggleTheme} className="btn theme-toggle" style={{ marginTop: '2rem' }} aria-pressed="false">Toggle Theme</button>
         </nav>
         <div style={{ marginTop: 'var(--spacing-xl)' }}>
           <Show when="signed-in">

@@ -51,3 +51,36 @@
   --color-state-error: #333333;
   --color-state-info: #111111;
 }
+
+/* Theme Toggle Icon Component */
+.theme-toggle-icon {
+  background: transparent;
+  border: none;
+  color: var(--color-text);
+  cursor: pointer;
+  padding: var(--spacing-sm);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  position: absolute;
+  top: var(--spacing-md);
+  right: var(--spacing-md);
+  z-index: 100;
+  transition: background-color var(--duration-fast) var(--easing-standard);
+}
+
+.theme-toggle-icon:hover {
+  background-color: var(--color-surface);
+}
+
+.theme-toggle-icon svg {
+  width: 24px;
+  height: 24px;
+  transition: transform var(--duration-normal) var(--easing-bounce);
+}
+
+.sun-icon { display: block; }
+.moon-icon { display: none; }
+:root[data-theme='light'] .sun-icon, :root.light .sun-icon, :root.rust .sun-icon, :root.ayu .sun-icon { display: none; }
+:root[data-theme='light'] .moon-icon, :root.light .moon-icon, :root.rust .moon-icon, :root.ayu .moon-icon { display: block; }
