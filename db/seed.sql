@@ -1061,8 +1061,8 @@ Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia tidak sedang rewel atau nakal. Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier). 
 
 Pemahaman dasar bahwa objek itu nyata dan permanen menjadi syarat wajib sebelum anak siap belajar bahasa dan simbol abstrak.',
-  '2026-06-17T20:23:39.532Z',
-  '2026-06-17T20:23:39.532Z'
+  '2026-06-17T20:26:47.293Z',
+  '2026-06-17T20:26:47.293Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -1165,9 +1165,9 @@ Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara
 
 Dopamin dilepaskan bukan saat kita mendapatkan hadiah, tetapi saat kita **mengharapkan** hadiah. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
 
-\[
+\\[
 \text{Kepuasan} = \text{Realitas} - \text{Ekspektasi}
-\]
+\\]
 
 Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika kamu melihat ikon merah notifikasi, otakmu melepaskan dopamin yang membisikkan, *"Siapa yang menyukai foto saya? Pesan apa ini?"*. Rasa ingin tahu ini menciptakan tekanan psikologis yang hanya bisa diredakan dengan membuka aplikasi tersebut.
 
@@ -1274,9 +1274,9 @@ Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan bertindak seba
 
 Setelah memiliki nilai inti, gunakan rumus sederhana ini untuk mengevaluasi alat digital kamu:
 
-\[
+\\[
 \text{Nilai Alat} = \frac{\text{Kegunaan untuk Nilai Inti}}{\text{Gangguan yang Dihasilkan}}
-\]
+\\]
 
 Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat tinggi namun sumbangsihnya terhadap nilai "Kreativitas" kamu sangat kecil, maka alat tersebut memiliki nilai bersih negatif.
 
@@ -1351,9 +1351,9 @@ Tahap ini sangat menentukan keberhasilan *declutter*. Saat masa puasa berakhir, 
 
 Gunakan rumus nilai berikut untuk mengevaluasi setiap alat:
 
-\[
+\\[
 \text{Nilai} = (\text{Manfaat} \times \text{Relevansi}) - \text{Gangguan}
-\]
+\\]
 
 Pastikan setiap aplikasi yang akan dipakai lagi memenuhi tiga syarat berikut. Pertama, aplikasi tersebut harus mendukung sesuatu yang sangat kamu hargai. Kedua, ia menjadi cara paling optimal untuk mendukung hal tersebut (sebagai contoh, menelepon langsung kawan lama lebih berharga daripada sekadar melihat *update* fotonya di Instagram). Terakhir, kamu harus tahu persis aturan main dalam menggunakannya agar tidak menjadi sumber distraksi baru, misalnya membatasi akses LinkedIn hanya lewat browser laptop.
 
@@ -1417,18 +1417,18 @@ Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari la
 
 #### Rumus Efisiensi Penggunaan Alat
 
-Secara matematis, kegunaan suatu alat (\(U\)) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan (\(V\)) dengan Gangguan yang ditimbulkan (\(D\)):
+Secara matematis, kegunaan suatu alat (\\(U\\)) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan (\\(V\\)) dengan Gangguan yang ditimbulkan (\\(D\\)):
 
-\[
+\\[
 U = \frac{V}{D}
-\]
+\\]
 
 *Di mana:*
 
-- \(V\) = Value (Nilai yang mendukung tujuan hidup kamu)
-- \(D\) = Distraction (Waktu yang terbuang akibat gangguan atau notifikasi)
+- \\(V\\) = Value (Nilai yang mendukung tujuan hidup kamu)
+- \\(D\\) = Distraction (Waktu yang terbuang akibat gangguan atau notifikasi)
 
-**Fokus utama kita adalah memaksimalkan \(V\) dan menekan \(D\) hingga menyentuh angka nol.**
+**Fokus utama kita adalah memaksimalkan \\(V\\) dan menekan \\(D\\) hingga menyentuh angka nol.**
 
 ### 4. Kasus Penggunaan Dunia Nyata
 
@@ -1476,11 +1476,11 @@ Bayangkan pikiranmu adalah sebuah gelas. Setiap kali mengecek notifikasi, menden
 
 Secara matematis, kita bisa menggambarkan kapasitas pemrosesan mental sebagai:
 
-\[
+\\[
 \text{Kapasitas}_{\text{Mental}} = \text{Pikiran}_{\text{Internal}} + \text{Input}_{\text{Eksternal}}
-\]
+\\]
 
-Jika \( \text{Input}_{\text{Eksternal}} \) mendekati nilai maksimal kapasitas, maka \( \text{Pikiran}_{\text{Internal}} \) akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
+Jika \\( \text{Input}_{\text{Eksternal}} \\) mendekati nilai maksimal kapasitas, maka \\( \text{Pikiran}_{\text{Internal}} \\) akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
 
 ## Mengapa Kebisingan Digital Begitu Berbahaya?
 
@@ -1546,13 +1546,13 @@ Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, 
 
 Kita bisa melihat rekreasi dalam dua kutub. Di satu sisi ada rekreasi pasif yang nyaris tidak menuntut keterampilan atau usaha fisik apa pun, seperti menonton video pendek secara acak atau mengecek linimasa terus-menerus. Ini adalah "makanan ringan" bagi otak. Di sisi lain, rekreasi berkualitas tinggi menuntut kita bergerak, mengasah keterampilan, atau berinteraksi langsung dengan orang lain. Aktivitas semacam ini justru menumbuhkan perasaan pencapaian.
 
-Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan \( S \) bisa dirumuskan sebagai:
+Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan \\( S \\) bisa dirumuskan sebagai:
 
-\[
+\\[
 S = \int (\text{Skill} \times \text{Effort}) dt
-\]
+\\]
 
-Semakin tinggi keterampilan (\( \text{Skill} \)) dan usaha (\( \text{Effort} \)) yang digunakan sepanjang waktu (\( t \)), semakin besar total kepuasan (\( S \)) yang akan kamu rasakan.
+Semakin tinggi keterampilan (\\( \text{Skill} \\)) dan usaha (\\( \text{Effort} \\)) yang digunakan sepanjang waktu (\\( t \\)), semakin besar total kepuasan (\\( S \\)) yang akan kamu rasakan.
 
 ## 2. Prinsip Sang Pengrajin
 
@@ -1603,13 +1603,13 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 
 > **Wawasan Penting:** Notifikasi adalah interupsi terjadwal oleh pihak lain terhadap waktumu.
 
-Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja (\(E\)):
+Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja (\\(E\\)):
 
-\[
+\\[
 E = T \times F^2
-\]
+\\]
 
-Dimana \(T\) adalah waktu dan \(F\) mewakili tingkat fokus. Saat fokus terganggu (\(F\) mengecil), efektivitasmu anjlok secara kuadratik.
+Dimana \\(T\\) adalah waktu dan \\(F\\) mewakili tingkat fokus. Saat fokus terganggu (\\(F\\) mengecil), efektivitasmu anjlok secara kuadratik.
 
 ### 2\. Strategi Praktis: Menjinakkan Notifikasi
 
@@ -1691,9 +1691,9 @@ Istilah **Deep Work** (Kerja Mendalam), yang dipopulerkan oleh Cal Newport, adal
 
 Dalam ekonomi digital, nilai ekonomi seseorang ditentukan oleh kemampuan mereka untuk menyelesaikan masalah rumit dengan cepat. Rumus produktivitas dapat digambarkan secara matematis sebagai berikut:
 
-\[
+\\[
 \text{Hasil Kerja Berkualitas} = (\text{Waktu yang Dihabiskan}) \times (\text{Intensitas Fokus})
-\]
+\\]
 
 Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil kerja kamu juga akan mendekati nol, tidak peduli berapa lama kamu duduk di depan laptop.
 
@@ -1788,11 +1788,11 @@ Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
-\[
+\\[
 \text{Nilai Baru} = (\text{Manfaat Utama}) - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
-\]
+\\]
 
-Kalau \(\text{Nilai Baru} \leq 0\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
+Kalau \\(\text{Nilai Baru} \leq 0\\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 
 Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat awal yang jelas. Gunakanlah teknologi tersebut semata sebagai alat bantu produksi, bukan sekadar pelampiasan konsumsi. Terapkan juga aturan masa tunggu dua minggu sebelum mencoba aplikasi baru. Rasa penasaran impulsif biasanya akan memudar dengan sendirinya setelah periode tersebut.
 
@@ -1868,18 +1868,18 @@ Lakukan evaluasi menyeluruh pada ekosistem alat digital kamu setiap tiga bulan. 
 
 Industri teknologi akan terus merilis gadget atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
 
-\[
+\\[
 V = \frac{U \times N}{C}
-\]
+\\]
 
 Di mana:
 
-- \(V\) = *Value* (Nilai keseluruhan)
-- \(U\) = *Utility* (Fungsi alat tersebut untuk mendukung tujuan personal kamu)
-- \(N\) = *Necessity* (Tingkat kepentingan alat ini, termasuk pertimbangan ketersediaan alternatif di dunia nyata tanpa melibatkan layar)
-- \(C\) = *Cost* (Harga yang harus dibayar berupa terkurasnya energi mental, gangguan perhatian, dan waktu)
+- \\(V\\) = *Value* (Nilai keseluruhan)
+- \\(U\\) = *Utility* (Fungsi alat tersebut untuk mendukung tujuan personal kamu)
+- \\(N\\) = *Necessity* (Tingkat kepentingan alat ini, termasuk pertimbangan ketersediaan alternatif di dunia nyata tanpa melibatkan layar)
+- \\(C\\) = *Cost* (Harga yang harus dibayar berupa terkurasnya energi mental, gangguan perhatian, dan waktu)
 
-*Think about this: Bila skor \(V\) tidak jauh lebih besar dari sistem lama yang sudah kamu jalankan, abaikan saja alat tersebut.*
+*Think about this: Bila skor \\(V\\) tidak jauh lebih besar dari sistem lama yang sudah kamu jalankan, abaikan saja alat tersebut.*
 
 ## 4\. Menangani "Relapse" (Kekambuhan Digital)
 
@@ -1918,8 +1918,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-06-17T20:23:39.532Z',
-  '2026-06-17T20:23:39.532Z'
+  '2026-06-17T20:26:47.293Z',
+  '2026-06-17T20:26:47.293Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -3103,8 +3103,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-06-17T20:23:39.532Z',
-  '2026-06-17T20:23:39.532Z'
+  '2026-06-17T20:26:47.293Z',
+  '2026-06-17T20:26:47.293Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4202,8 +4202,8 @@ Ada beberapa pendekatan nyata yang bisa langsung kamu coba untuk melatih kemampu
 - Coba terapkan teknik Pomodoro (fokus penuh selama 25 menit, diselingi istirahat 5 menit) supaya otak punya jeda untuk memproses informasi tanpa keburu lelah.
 - Rapikan meja sebelum memulai dan pastikan lampu cukup terang. Ruangan yang berantakan diam-diam membebani beban kognitif.
 - Kalau tiba-tiba muncul rasa cemas luar biasa jelang ujian, coba ubah sudut pandangmu. Anggap saja detak jantung yang kencang itu sebagai pertanda bahwa tubuhmu sedang memompa energi agar lebih siap menghadapi soal.',
-  '2026-06-17T20:23:39.532Z',
-  '2026-06-17T20:23:39.532Z'
+  '2026-06-17T20:26:47.293Z',
+  '2026-06-17T20:26:47.293Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

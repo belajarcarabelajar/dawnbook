@@ -38,18 +38,18 @@ Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari la
 
 #### Rumus Efisiensi Penggunaan Alat
 
-Secara matematis, kegunaan suatu alat (\(U\)) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan (\(V\)) dengan Gangguan yang ditimbulkan (\(D\)):
+Secara matematis, kegunaan suatu alat (\\(U\\)) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan (\\(V\\)) dengan Gangguan yang ditimbulkan (\\(D\\)):
 
-\[
+\\[
 U = \frac{V}{D}
-\]
+\\]
 
 *Di mana:*
 
-- \(V\) = Value (Nilai yang mendukung tujuan hidup kamu)
-- \(D\) = Distraction (Waktu yang terbuang akibat gangguan atau notifikasi)
+- \\(V\\) = Value (Nilai yang mendukung tujuan hidup kamu)
+- \\(D\\) = Distraction (Waktu yang terbuang akibat gangguan atau notifikasi)
 
-**Fokus utama kita adalah memaksimalkan \(V\) dan menekan \(D\) hingga menyentuh angka nol.**
+**Fokus utama kita adalah memaksimalkan \\(V\\) dan menekan \\(D\\) hingga menyentuh angka nol.**
 
 ### 4. Kasus Penggunaan Dunia Nyata
 

@@ -26,11 +26,11 @@ Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
-\[
+\\[
 \text{Nilai Baru} = (\text{Manfaat Utama}) - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
-\]
+\\]
 
-Kalau \(\text{Nilai Baru} \leq 0\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
+Kalau \\(\text{Nilai Baru} \leq 0\\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 
 Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat awal yang jelas. Gunakanlah teknologi tersebut semata sebagai alat bantu produksi, bukan sekadar pelampiasan konsumsi. Terapkan juga aturan masa tunggu dua minggu sebelum mencoba aplikasi baru. Rasa penasaran impulsif biasanya akan memudar dengan sendirinya setelah periode tersebut.
 

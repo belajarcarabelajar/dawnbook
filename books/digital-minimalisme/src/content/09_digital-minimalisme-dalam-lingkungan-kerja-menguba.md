@@ -12,9 +12,9 @@ Istilah **Deep Work** (Kerja Mendalam), yang dipopulerkan oleh Cal Newport, adal
 
 Dalam ekonomi digital, nilai ekonomi seseorang ditentukan oleh kemampuan mereka untuk menyelesaikan masalah rumit dengan cepat. Rumus produktivitas dapat digambarkan secara matematis sebagai berikut:
 
-\[
+\\[
 \text{Hasil Kerja Berkualitas} = (\text{Waktu yang Dihabiskan}) \times (\text{Intensitas Fokus})
-\]
+\\]
 
 Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil kerja kamu juga akan mendekati nol, tidak peduli berapa lama kamu duduk di depan laptop.
 

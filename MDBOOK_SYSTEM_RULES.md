@@ -626,7 +626,7 @@ Do not introduce CSS modifications (e.g., staggered `margin-top`) that break car
 OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Each subagent handles exactly one `.md` file and applies all three content rules:
 
 - **Rule 7.7.1 — Pronoun Rule:** Formal "Anda" is forbidden. Replace all with "kamu".
-- **Rule 7.7.2 — LaTeX Rule:** Raw LaTeX -> `\( ... \)` inline and `\[ ... \]` (or `$$ ... $$`) block. *(Cross-ref: R10)*
+- **Rule 7.7.2 — LaTeX Rule:** Raw LaTeX MUST be converted to `\\( ... \\)` for inline and `\\[ ... \\]` (or `$$ ... $$`) for block math. You MUST use double backslashes so markdown parsers don't swallow them. *(Cross-ref: R10)*
 - **Rule 7.7.3 — Humanization Rule:** Avoid AI cliches ("krusial", "signifikan", "komprehensif", "bukan sekadar X melainkan Y"). Avoid symmetrical bullet lists. Avoid "Sandwich" paragraph structure.
 - **Rule 7.7.4 — Read File First Rule:** AGENTS WAJIB READ FILE FIRST ALL. Agents must read and analyze the entire file completely before processing to ensure no raw LaTeX formatting (including unformatted multi-letter variables) or structural context is missed.
 
