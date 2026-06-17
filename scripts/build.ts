@@ -1,6 +1,7 @@
 import { readdir, stat, mkdir, writeFile, readFile } from "node:fs/promises";
 import { join, resolve } from "node:path";
 import { $ } from "bun";
+import { isPublicPath } from "../functions/lib/gating.ts";
 
 function escapeHtml(unsafe: string) {
     return unsafe
@@ -413,7 +414,7 @@ async function build() {
 `;
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
 
-    const headersContent = `
+    let headersContent = `
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -422,6 +423,25 @@ async function build() {
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com;
   Cache-Control: no-cache
 `;
+
+    // Map gated paths into _headers appending X-Robots-Tag: noindex
+    async function appendGatedHeaders(dir: string) {
+      const entries = await readdir(dir);
+      for (const entry of entries) {
+        const fullPath = join(dir, entry);
+        const entryStat = await stat(fullPath);
+        if (entryStat.isDirectory()) {
+          await appendGatedHeaders(fullPath);
+        } else if (fullPath.endsWith(".html")) {
+          const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
+          if (!isPublicPath(relativePath)) {
+            headersContent += `\\n${relativePath}\\n  X-Robots-Tag: noindex`;
+          }
+        }
+      }
+    }
+    await appendGatedHeaders(join(outputDir, "books"));
+
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
 
     console.log("Admin dashboard built and copied successfully.");
@@ -429,6 +449,12 @@ async function build() {
     console.error("Failed to build or copy admin dashboard", error);
     process.exit(1);
   }
+
+  console.log("Generating sitemap...");
+  await $`bun run scripts/generate-sitemap.ts`;
+
+  console.log("Running SEO validation...");
+  await $`bun run scripts/check-seo.ts`;
 
   console.log("Premium Hub site generated successfully.");
 }

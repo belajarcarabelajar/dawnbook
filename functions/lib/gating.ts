@@ -143,8 +143,14 @@ export function isPublicPath(pathname: string): boolean {
     }
   }
 
-  // ALL book paths are public at the edge for SEO.
-  // Gating is handled dynamically on the client-side (shared-script-v3.js)
-  // to allow one free chapter view before requiring sign-in.
-  return true;
+  if (page.startsWith(FIRST_CHAPTER_PREFIX)) {
+    return true;
+  }
+
+  if (page === "toc.html" || page === "404.html" || page === "print.html") {
+    return true;
+  }
+
+  // All other book pages are gated content.
+  return false;
 }
