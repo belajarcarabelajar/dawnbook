@@ -1,0 +1,13 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Digital Minimalisme"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header-v3.css"]
+additional-js = ["../shared-script-v3.js"]

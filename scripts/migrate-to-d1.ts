@@ -138,7 +138,7 @@ ON CONFLICT(slug) DO UPDATE SET
   // Execute via wrangler d1
   console.log("🚀 Applying seed to D1 (dawnbook-db)...");
   try {
-    await $`PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin npx wrangler d1 execute dawnbook-db --remote --file=${tmpSqlPath} --yes`;
+    await $`npx wrangler d1 execute dawnbook-db --remote --file=${tmpSqlPath} --yes`;
     console.log("✅ Seed applied successfully.");
   } catch (error) {
     console.error("❌ Failed to apply seed:", error);
