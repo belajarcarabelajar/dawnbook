@@ -3,3 +3,6 @@ authors = ["Tedi Rahmat"]
 language = "id"
 src = "src"
 title = "Teori Perkembangan Kognitif Piaget"
+
+[output.html.print]
+enable = false

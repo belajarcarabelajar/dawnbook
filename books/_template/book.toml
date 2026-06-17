@@ -3,3 +3,6 @@ authors = ["Placeholder Author"]
 language = "en"
 src = "src"
 title = "Template Book"
+
+[output.html.print]
+enable = false
