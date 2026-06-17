@@ -9,6 +9,9 @@ dist/
 *.log
 *.bak
 *.zip
+*.key
+*.pem
+wrangler.toml.bak
 
 # Local tools & agents
 .agents/

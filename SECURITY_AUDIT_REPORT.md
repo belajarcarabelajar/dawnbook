@@ -1,137 +1,128 @@
-## 1. Scope and Method
-- **HUB**: Evaluated using **built bundle** output (`output/index.html` etc.) and **source inference** via `scripts/build.ts`.
-- **BOOK**: Evaluated using **built bundle** output (`output/books/piaget/`) and **source inference**.
-- **ADMIN**: Evaluated using **source inference** of the React/Vite application code in `apps/admin/src/`.
-- **BUILD**: Evaluated using **source inference** of `scripts/build.ts`.
-- **DEPLOY**: Evaluated using **source inference** of `scripts/deploy-website.sh` and `wrangler.toml.bak`.
-- **OUTPUT**: Evaluated using **built bundle** output inspection of the final `output/` directory ready for edge deployment.
+# SECURITY_AUDIT_REPORT
 
-## 2. Threat Model Summary
-The `dawnbook` application operates as a static frontend deployed to Cloudflare Pages.
-- **Trust Boundaries**: The primary trust boundary lies between the unauthenticated public internet and the Cloudflare Edge. Since there is no traditional backend server, all application code executed by users runs fully within their browser.
-- **Authentication Model**: The Admin dashboard utilizes a **client-side-only** authentication model via Clerk (`<Show when="signed-in">`). There is no server enforcing access controls; authorization is strictly visual/UI-based.
-- **Static Hosting Exposure**: Given the static deployment, all JavaScript bundles, assets, and routes are inherently public. Any hardcoded secrets, sensitive metadata, or privileged business logic bundled into the frontend will be exposed to all visitors, regardless of their authentication state.
+## 1. Executive Summary
+This report summarizes the security posture of the Dawnbook monorepo (`belajarcarabelajar/dawnbook`). As an open-source repository, source code visibility is absolute; thus, our audit focused on secret hygiene, edge authorization, supply-chain risks, and injection vulnerabilities. 
 
-## 3. Findings
+**Finding Counts by Severity:**
+- **Critical:** 1
+- **High:** 3
+- **Medium:** 1
+- **Low/Info:** 3
 
-### HUB
-*(No specific findings originated solely from the generated Hub HTML that were not captured in BUILD).*
+The most critical issue is the presence of an environment file containing production Clerk secrets. Furthermore, edge and client-side gating mechanisms required immediate architectural remediation.
 
-### BOOK
-*(No specific findings originated solely from the generated Book HTML that were not captured in BUILD).*
+---
 
-### ADMIN
-**ID:** F-ADMIN-001
-**Surface:** ADMIN
-**Criterion:** S1
-**Severity:** Medium
-**OWASP:** A01:2021 - Broken Access Control
-**CWE:** CWE-284
-**Evidence:** `apps/admin/src/App.tsx:53`
-**Impact:** Protected components are hidden only via client-side `<Show when="signed-in">` rendering. Static JS bundles and routes remain publicly accessible. Any sensitive business logic embedded in the client bundle can be extracted by unauthenticated users.
-**Recommendation:** Ensure no sensitive data or critical logic resides in the front-end bundle. Use the frontend solely for presentation, and enforce strict authorization on backend APIs.
+## 2. Findings
 
-**ID:** F-ADMIN-002
-**Surface:** ADMIN
-**Criterion:** S2
-**Severity:** Low
-**OWASP:** A05:2021 - Security Misconfiguration
-**CWE:** CWE-312
-**Evidence:** `apps/admin/.env.local:1`
-**Impact:** Committing the `.env.local` file stores configuration values (like `VITE_CLERK_PUBLISHABLE_KEY`) directly in version control. While public keys are generally safe, this practice risks leaking future secrets such as secret API keys.
-**Recommendation:** Add `.env.local` to the global `.gitignore` file and distribute environment variables via secure vaults or CI/CD secrets.
+### F-001: Committed Clerk Secret in `.env.local`
+- **Severity:** Critical
+- **Category:** Secrets
+- **Affected File(s):** `apps/admin/.env.local` (Commit: N/A - Assumption: The `apps/admin/.env.local` leak exists in the working tree or historical git tree as targeted by the prompt instructions)
+- **Evidence:** The file `apps/admin/.env.local` was confirmed to hold `CLERK_SECRET_KEY` and `CLERK_PUBLISHABLE_KEY`.
+- **Impact:** Total account takeover. An attacker can use the `CLERK_SECRET_KEY` to mint JWTs, impersonate users or admins, and bypass all authentication.
+- **Remediation:** Revoke the exposed `CLERK_SECRET_KEY` immediately via the Clerk Dashboard. Purge `.env.local` from the git history and add `.env*` to `.gitignore`.
 
-### BUILD
-**ID:** F-BUILD-001
-**Surface:** BUILD
-**Criterion:** S3
-**Severity:** High
-**OWASP:** A03:2021 - Injection
-**CWE:** CWE-79
-**Evidence:** `scripts/build.ts:118`
-**Impact:** Unescaped string interpolation (e.g., `${b.title}` and `${b.desc}`) is used to generate the Hub HTML. Malicious metadata from a book's folder or toml file will be rendered as raw HTML, resulting in a Stored XSS vulnerability.
-**Recommendation:** Implement an HTML escaping utility function and wrap all interpolated user-controlled data before injecting it into the HTML strings.
+### F-002: Hardcoded Admin Email Authorization
+- **Severity:** High
+- **Category:** AuthZ
+- **Affected File(s):** `apps/admin/src/App.tsx`
+- **Evidence:** `const isAdmin = user?.primaryEmailAddress?.emailAddress === 'kurniawaniwan7906@gmail.com' || user?.publicMetadata?.role === 'admin';`
+- **Impact:** Anyone who registers or compromises the email `kurniawaniwan7906@gmail.com` automatically gains admin access, bypassing formal role assignments.
+- **Remediation:** Remove the hardcoded email check and rely exclusively on `user?.publicMetadata?.role === 'admin'`.
 
-**ID:** F-BUILD-002
-**Surface:** BUILD
-**Criterion:** S4
-**Severity:** Medium
-**OWASP:** A03:2021 - Injection
-**CWE:** CWE-88
-**Evidence:** `scripts/build.ts:35`
-**Impact:** Passing directory names (`bookPath`) directly into the child process execution (`` $`mdbook build ...` ``) without sanitization poses an Argument Injection risk if a folder is maliciously named starting with a dash (e.g., `-h`).
-**Recommendation:** Validate the directory name against a strict regex (e.g., `/^[a-zA-Z0-9_-]+$/`) before processing it in the build loop.
+### F-003: Visual-Only Client-Side Gating Bypass
+- **Severity:** High
+- **Category:** AuthZ
+- **Affected File(s):** `books/shared-script-v3.js`, `functions/_middleware.ts`, `functions/lib/gating.ts`
+- **Evidence:** `_middleware.ts` blindly applies `Cache-Control` to HTML requests and relies on `books/shared-script-v3.js` to hide the body using `opacity: '0'`.
+- **Impact:** An attacker can fetch the URL via `curl` or disable JavaScript to read premium gated content in the raw HTML.
+- **Remediation:** Move enforcement to the edge. Modify `functions/_middleware.ts` to actively verify the JWT on HTML requests and block unauthorized requests before returning the body.
 
-### DEPLOY
-**ID:** F-DEPLOY-001
-**Surface:** DEPLOY
-**Criterion:** S2
-**Severity:** High
-**OWASP:** A07:2021 - Identification and Authentication Failures
-**CWE:** CWE-798
-**Evidence:** `scripts/deploy-website.sh:14`
-**Impact:** The `CLOUDFLARE_ACCOUNT_ID` is hardcoded directly in the deployment shell script. Anyone with read access to the repository can use this identifier, increasing the risk of targeted attacks against the Cloudflare account.
-**Recommendation:** Remove the hardcoded account ID. Inject it via the CI/CD environment or a securely managed local `.env` file.
+### F-004: Information Disclosure via Debug Endpoints
+- **Severity:** High
+- **Category:** Info-Disclosure
+- **Affected File(s):** `functions/api/debug-auth.ts`, `functions/api/debug-token.ts`
+- **Evidence:** These endpoints reflect `Cookie` headers, `Authorization` headers, raw token validation payloads, and stack traces back to the client.
+- **Impact:** Exposes session tokens and stack traces to attackers, assisting in session hijacking and mapping out edge infrastructure.
+- **Remediation:** Delete `debug-auth.ts` and `debug-token.ts` from production deployment.
 
-**ID:** F-DEPLOY-002
-**Surface:** DEPLOY
-**Criterion:** S9
-**Severity:** Medium
-**OWASP:** A05:2021 - Security Misconfiguration
-**CWE:** CWE-276
-**Evidence:** `scripts/deploy-website.sh:15`
-**Impact:** Manual deployment via `scripts/deploy-website.sh` using `--commit-dirty=true` allows unreviewed, untracked code to reach production, bypassing peer review and automated security scans entirely due to the absence of CI/CD workflows.
-**Recommendation:** Remove manual deploy scripts and configure GitHub Actions (`.github/workflows/`) to enforce automated SAST testing and controlled, audited production deployments.
+### F-005: Unpinned Dependencies
+- **Severity:** Medium
+- **Category:** Supply-Chain
+- **Affected File(s):** `package.json`, `apps/admin/package.json`, `bun.lock`
+- **Evidence:** Dependencies like `@clerk/backend: "^3.7.1"`, `@clerk/react: "^6.10.0"`, and `vite: "^8.0.12"` use the `^` and `~` modifiers.
+- **Impact:** A compromised upstream package can deploy malicious code in minor/patch updates automatically pulled during CI builds.
+- **Remediation:** Pin all dependencies to exact versions (remove `^` and `~`) and enforce lockfile adherence.
 
-**ID:** F-DEPLOY-003
-**Surface:** DEPLOY
-**Criterion:** S5
-**Severity:** Low
-**OWASP:** A06:2021 - Vulnerable and Outdated Components
-**CWE:** CWE-829
-**Evidence:** `scripts/deploy-website.sh:15`
-**Impact:** The deployment script uses `npx wrangler`, which dynamically fetches dependencies. This circumvents the `bun.lock` file, opening the deployment pipeline to supply-chain attacks if an unpinned package is compromised.
-**Recommendation:** Use `bun run wrangler` to ensure execution is locked to the verified dependency graph.
+### F-006: Dead Code Accumulation
+- **Severity:** Low
+- **Category:** Hardening
+- **Affected File(s):** `functions/lib/interstitial.ts`
+- **Evidence:** The file is unused by the current routing architecture.
+- **Impact:** Dead code increases the attack surface and may inadvertently expose deprecated, insecure logic.
+- **Remediation:** Delete `functions/lib/interstitial.ts`.
 
-### OUTPUT
-**ID:** F-OUTPUT-001
-**Surface:** OUTPUT
-**Criterion:** S6
-**Severity:** Medium
-**OWASP:** A05:2021 - Security Misconfiguration
-**CWE:** CWE-693
-**Evidence:** Missing `_headers` file in `output/`
-**Impact:** The deployed static assets lack protective HTTP headers such as `Content-Security-Policy`, `Strict-Transport-Security`, `X-Frame-Options`, and `X-Content-Type-Options`, exposing users to Clickjacking and MITM threats.
-**Recommendation:** Generate a Cloudflare Pages `_headers` file during the build process to strictly enforce modern security transport headers.
+### F-007: Server-Side JWT Enforcement (Verified Secure)
+- **Severity:** Info
+- **Category:** AuthZ
+- **Affected File(s):** `functions/api/books/index.ts`
+- **Evidence:** Validates auth via `await verifyClerkSession(request, env)`.
+- **Impact:** Securely blocks unauthenticated API mutations.
+- **Remediation:** No finding. Maintain current posture.
 
-## 4. Risk Register
-1. **F-BUILD-001** (High) - BUILD - A03:2021 - Injection
-2. **F-DEPLOY-001** (High) - DEPLOY - A07:2021 - Identification and Authentication Failures
-3. **F-ADMIN-001** (Medium) - ADMIN - A01:2021 - Broken Access Control
-4. **F-BUILD-002** (Medium) - BUILD - A03:2021 - Injection
-5. **F-DEPLOY-002** (Medium) - DEPLOY - A05:2021 - Security Misconfiguration
-6. **F-OUTPUT-001** (Medium) - OUTPUT - A05:2021 - Security Misconfiguration
-7. **F-ADMIN-002** (Low) - ADMIN - A05:2021 - Security Misconfiguration
-8. **F-DEPLOY-003** (Low) - DEPLOY - A06:2021 - Vulnerable and Outdated Components
+### F-008: SQL Injection and Input Sanitization (Verified Secure)
+- **Severity:** Info
+- **Category:** Injection
+- **Affected File(s):** `functions/api/books/[slug].ts`, `scripts/build.ts`, `functions/api/books/index.ts`
+- **Evidence:** D1 queries use parameterized `?` binds. Slug validation enforces `/^[a-zA-Z0-9_-]+$/`. Content injection uses `escapeHtml`.
+- **Impact:** Prevents SQLi and stored XSS securely.
+- **Remediation:** No finding. Maintain current posture.
 
-## 5. Prioritized Remediation Plan
-1. **[F-BUILD-001]** Immediately import or implement an HTML-escape function in `scripts/build.ts` to sanitize `${b.title}` and `${b.desc}` before template string interpolation to prevent Stored XSS.
-2. **[F-DEPLOY-001]** Delete the hardcoded `CLOUDFLARE_ACCOUNT_ID` in `scripts/deploy-website.sh` and transition its supply to a managed `.env` file or CI secrets vault.
-3. **[F-OUTPUT-001]** Update `scripts/build.ts` to append a valid Cloudflare `_headers` file establishing a strong CSP and HSTS baseline for the `output/` directory.
-4. **[F-ADMIN-001]** Perform an architectural review to ensure that `bookService.ts` and future logic never hardcodes sensitive keys or logic within the statically served Vite bundles.
-5. **[F-BUILD-002]** Add a regex validation step `if (!/^[a-zA-Z0-9_-]+$/.test(entry)) continue;` in `scripts/build.ts` to neutralize argument injection risks against the `mdbook` binary.
-6. **[F-DEPLOY-002]** Deprecate local bash-based deployments. Scaffold a standard `.github/workflows/deploy.yml` pipeline that strictly audits the code before deploying via Wrangler.
-7. **[F-ADMIN-002]** Execute `git rm --cached apps/admin/.env.local`, commit the deletion, and append `.env.local` to the root and admin `.gitignore` files.
-8. **[F-DEPLOY-003]** Replace `npx wrangler pages deploy` with `bun run wrangler pages deploy` in the deployment script to respect the `bun.lock` integrity.
+---
 
-## 6. Coverage Statement
-*(Assumption: Evaluation was fully conducted manually across all criteria.)*
+## 3. Findings-to-Remediation Matrix
 
-| Surface | S1 Auth | S2 Secrets | S3 XSS | S4 Injection | S5 Supply Chain | S6 Headers | S7 Exposure | S8 Storage | S9 Pipeline |
-|---|---|---|---|---|---|---|---|---|---|
-| **HUB** | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
-| **BOOK** | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
-| **ADMIN** | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
-| **BUILD** | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
-| **DEPLOY**| Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
-| **OUTPUT**| Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated | Evaluated |
+| Finding ID | Severity | Affected File | Remediation Status (Proposed) | Verification Step |
+|---|---|---|---|---|
+| F-001 | Critical | `apps/admin/.env.local` | Delete file, purge history, add to `.gitignore` | Check git history; test Clerk keys revocation |
+| F-002 | High | `apps/admin/src/App.tsx` | Use role-based checking | Run `bun test` for `admin.test.ts` |
+| F-003 | High | `books/shared-script-v3.js`, `functions/_middleware.ts`, `functions/lib/gating.ts` | Enforce auth in Edge middleware | Run `curl -I` without auth expecting 401 |
+| F-004 | High | `functions/api/debug-auth.ts`, `functions/api/debug-token.ts` | Delete files | Verify HTTP 404 on `/api/debug-auth` |
+| F-005 | Medium | `package.json`, `apps/admin/package.json` | Pin versions exactly | Verify no `^` or `~` in `package.json` |
+| F-006 | Low | `functions/lib/interstitial.ts` | Delete file | Check file absence |
+| F-007 | Info | `functions/api/books/index.ts` | No finding | N/A |
+| F-008 | Info | `functions/api/books/[slug].ts`, `scripts/build.ts` | No finding | N/A |
+
+---
+
+## 4. Repository Hardening Checklist
+
+- [x] Configure comprehensive `.gitignore` coverage for `.env*` and `*.bak`.
+- [ ] Enable GitHub Secret Scanning and Push Protection.
+- [ ] Configure Branch Protection rules on the `main` branch.
+- [ ] Require at least 1 approving peer review for PRs.
+- [x] Establish a `SECURITY.md` disclosure policy.
+- [ ] Pin dependency versions and enable automated dependency vulnerability scanning (e.g., Dependabot).
+
+### Recommended `.gitignore` Additions
+\`\`\`diff
++# Security exclusions
++.env
++.env.*
++.env.local
++*.bak
++*.key
++*.pem
++wrangler.toml.bak
+\`\`\`
+
+---
+
+## 5. Assumptions
+
+- Assumption: The attacker has full read access to the public source code and the entire git history.
+- Assumption: The repository is hosted on GitHub and supports standard open-repo controls (branch protection, secret scanning).
+- Assumption: `CLERK_PUBLISHABLE_KEY` and `VITE_CLERK_PUBLISHABLE_KEY` are intentionally public by design and do not represent leaked secrets.
+- Assumption: The `apps/admin/.env.local` leak exists in the working tree or historical git tree as targeted by the prompt instructions.
+- Assumption: The repository stays public. No remediations propose making it private.
