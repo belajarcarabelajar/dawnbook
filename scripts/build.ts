@@ -69,32 +69,50 @@ async function build() {
     <link rel="stylesheet" href="/tokens.css">
     <link rel="stylesheet" href="/HubLayout.css">
     <script>
+      function safeStorageGet(key) {
+        try { return localStorage.getItem(key); } catch (e) { return null; }
+      }
+      function safeStorageSet(key, value) {
+        try { localStorage.setItem(key, value); } catch (e) {}
+      }
+      function applyTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', theme === 'light' ? 'true' : 'false'));
+      }
       (function() {
-        const mdTheme = localStorage.getItem('mdbook-theme');
-        let saved = localStorage.getItem('theme');
+        const mdTheme = safeStorageGet('mdbook-theme');
+        let saved = safeStorageGet('theme');
         if (mdTheme) {
-            saved = (mdTheme === 'light' || mdTheme === 'rust') ? 'light' : 'dark';
-            localStorage.setItem('theme', saved);
+            saved = (mdTheme === 'light' || mdTheme === 'rust' || mdTheme === 'ayu') ? 'light' : 'dark';
+            safeStorageSet('theme', saved);
+        }
+        if (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) {
+            saved = 'light';
         }
         if (saved) document.documentElement.setAttribute('data-theme', saved);
       })();
       function toggleTheme() {
         const root = document.documentElement;
-        const currentTheme = root.getAttribute('data-theme') || 'dark';
+        let currentTheme = root.getAttribute('data-theme');
+        if (!currentTheme) currentTheme = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
         const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        root.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
-        localStorage.setItem('mdbook-theme', newTheme === 'light' ? 'light' : 'coal');
+        applyTheme(newTheme);
+        safeStorageSet('theme', newTheme);
+        safeStorageSet('mdbook-theme', newTheme === 'light' ? 'light' : 'coal');
       }
       function toggleMenu() {
         document.querySelector('.nav-links').classList.toggle('is-open');
       }
       window.addEventListener('storage', function(e) {
         if (e.key === 'mdbook-theme') {
-          const newTheme = (e.newValue === 'light' || e.newValue === 'rust') ? 'light' : 'dark';
-          document.documentElement.setAttribute('data-theme', newTheme);
-          localStorage.setItem('theme', newTheme);
+          const newTheme = (e.newValue === 'light' || e.newValue === 'rust' || e.newValue === 'ayu') ? 'light' : 'dark';
+          applyTheme(newTheme);
+          safeStorageSet('theme', newTheme);
         }
+      });
+      document.addEventListener('DOMContentLoaded', function() {
+         const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+         applyTheme(currentTheme);
       });
     </script>
 </head>
@@ -108,7 +126,7 @@ async function build() {
                 <a href="/about.html" class="${title === 'About' ? 'active' : ''}">About</a>
                 <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}">Contribute</a>
                 <a href="/admin">Admin Portal</a>
-                <button onclick="toggleTheme()" class="btn-primary" style="margin-top: 2rem;">Toggle Theme</button>
+                <button onclick="toggleTheme()" class="btn-primary theme-toggle" style="margin-top: 2rem;" aria-pressed="false">Toggle Theme</button>
             </div>
         </aside>
         <main class="hub-main">

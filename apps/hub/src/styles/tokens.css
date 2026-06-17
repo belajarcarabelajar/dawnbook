@@ -37,7 +37,7 @@
 }
 
 /* Light Mode Override */
-:root[data-theme='light'] {
+:root[data-theme='light'], :root.light, :root.rust, :root.ayu {
   --color-background: #ffffff;
   --color-surface: #f5f5f5;
   --color-primary: #000000;

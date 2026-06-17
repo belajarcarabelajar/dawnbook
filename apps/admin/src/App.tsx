@@ -8,32 +8,36 @@ function Layout({ children }: { children: React.ReactNode }) {
   const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
-    const mdTheme = localStorage.getItem('mdbook-theme');
-    let saved = localStorage.getItem('theme');
-    if (mdTheme) {
-      saved = (mdTheme === 'light' || mdTheme === 'rust') ? 'light' : 'dark';
-      localStorage.setItem('theme', saved);
-    }
-    if (saved) document.documentElement.setAttribute('data-theme', saved);
-
     const handleStorage = (e: StorageEvent) => {
       if (e.key === 'mdbook-theme') {
-        const newTheme = (e.newValue === 'light' || e.newValue === 'rust') ? 'light' : 'dark';
+        const newTheme = (e.newValue === 'light' || e.newValue === 'rust' || e.newValue === 'ayu') ? 'light' : 'dark';
         document.documentElement.setAttribute('data-theme', newTheme);
-        localStorage.setItem('theme', newTheme);
+        try { localStorage.setItem('theme', newTheme); } catch(e) {}
+        document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
       }
     };
     window.addEventListener('storage', handleStorage);
+    
+    // Initial sync of ARIA state
+    const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', currentTheme === 'light' ? 'true' : 'false'));
+    
     return () => window.removeEventListener('storage', handleStorage);
   }, []);
 
   const toggleTheme = () => {
     const root = document.documentElement;
-    const currentTheme = root.getAttribute('data-theme') || 'dark';
+    let currentTheme = root.getAttribute('data-theme');
+    if (!currentTheme) currentTheme = window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    
     root.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-    localStorage.setItem('mdbook-theme', newTheme === 'light' ? 'light' : 'coal');
+    try {
+      localStorage.setItem('theme', newTheme);
+      localStorage.setItem('mdbook-theme', newTheme === 'light' ? 'light' : 'coal');
+    } catch(e) {}
+    
+    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
   };
 
   return (
@@ -47,7 +51,7 @@ function Layout({ children }: { children: React.ReactNode }) {
           <Link to="/" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Dashboard</Link>
           <Link to="/books" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Manage Books</Link>
           <Link to="/editor" className="btn" style={{ textDecoration: 'none', textAlign: 'center' }}>Markdown Editor</Link>
-          <button onClick={toggleTheme} className="btn" style={{ marginTop: '2rem' }}>Toggle Theme</button>
+          <button onClick={toggleTheme} className="btn theme-toggle" style={{ marginTop: '2rem' }} aria-pressed="false">Toggle Theme</button>
         </nav>
         <div style={{ marginTop: 'var(--spacing-xl)' }}>
           <Show when="signed-in">

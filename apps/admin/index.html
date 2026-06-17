@@ -5,6 +5,19 @@
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>admin</title>
+    <script>
+      (function() {
+        var theme = 'dark';
+        try {
+          var mdTheme = localStorage.getItem('mdbook-theme');
+          var saved = localStorage.getItem('theme');
+          if (mdTheme) saved = (mdTheme === 'light' || mdTheme === 'rust' || mdTheme === 'ayu') ? 'light' : 'dark';
+          if (!saved && window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) saved = 'light';
+          if (saved) theme = saved;
+        } catch(e) {}
+        document.documentElement.setAttribute('data-theme', theme);
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

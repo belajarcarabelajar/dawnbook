@@ -1,0 +1,52 @@
+[
+  {
+    "id": "F-BOOK-001",
+    "surface": "BOOK",
+    "criterion": "T2",
+    "severity": "High",
+    "evidence": "books/shared-header.css:48",
+    "expected": "Activating the mdBook theme toggle should change the visual theme variables by resolving the correct Dawnbook design tokens.",
+    "actual": "mdBook's built-in toggle applies a class to <html> (e.g., class=\"light\"), but Dawnbook's tokens.css relies strictly on [data-theme='light']. Thus, var(--color-background) and other tokens remain stuck in Dark mode.",
+    "recommendation": "Update apps/hub/src/styles/tokens.css to also match mdBook's specific classes (e.g., :root.light) alongside [data-theme='light']."
+  },
+  {
+    "id": "F-ADMIN-001",
+    "surface": "ADMIN",
+    "criterion": "T5",
+    "severity": "Medium",
+    "evidence": "apps/admin/src/App.tsx:10",
+    "expected": "The saved theme should be applied before the first paint to prevent a Flash of Incorrect Theme (FOIT/FOUC).",
+    "actual": "The theme retrieval logic is inside a React useEffect hook, which runs after the initial render. This causes a visible flash of the default Dark theme before switching to Light theme.",
+    "recommendation": "Move the initial localStorage read and data-theme application to an inline synchronous script in apps/admin/index.html before the React root mounts."
+  },
+  {
+    "id": "F-HUB-001",
+    "surface": "HUB",
+    "criterion": "T6",
+    "severity": "Low",
+    "evidence": "scripts/build.ts:83",
+    "expected": "The system preference (prefers-color-scheme) should serve as the default theme if no value is stored in localStorage.",
+    "actual": "The theme aggressively defaults to 'dark' if localStorage is empty, completely ignoring the user's OS-level preferences.",
+    "recommendation": "Add a check for window.matchMedia('(prefers-color-scheme: light)').matches when establishing the fallback default theme."
+  },
+  {
+    "id": "F-HUB-002",
+    "surface": "HUB",
+    "criterion": "T8",
+    "severity": "Medium",
+    "evidence": "scripts/build.ts:111",
+    "expected": "The toggle control should communicate its current state to assistive technologies.",
+    "actual": "The <button> lacks any ARIA state attributes (like aria-pressed), leaving screen reader users unaware of the toggle's current status.",
+    "recommendation": "Dynamically toggle aria-pressed=\"true/false\" on the button via JavaScript whenever the theme state changes."
+  },
+  {
+    "id": "F-HUB-003",
+    "surface": "HUB",
+    "criterion": "T9",
+    "severity": "High",
+    "evidence": "scripts/build.ts:72",
+    "expected": "Accessing localStorage should be wrapped in a try/catch block to handle environments where storage access is blocked or denied.",
+    "actual": "Unprotected calls to localStorage.getItem will throw a synchronous SecurityError if storage is denied, halting further script execution.",
+    "recommendation": "Wrap all localStorage reads and writes in try/catch blocks and fallback gracefully to default behaviors without throwing."
+  }
+]
