@@ -15,7 +15,7 @@
  *   - Public responses keep their original cache headers.
  */
 
-import { createClerkClient } from "@clerk/backend";
+import { createClerkClient, verifyToken } from "@clerk/backend";
 import { isPublicPath } from "./lib/gating";
 import { resolveLocale, COOKIE_NAME, DEFAULT_LOCALE } from "./lib/i18n";
 
@@ -71,9 +71,8 @@ async function verifySession(
 ): Promise<Record<string, unknown> | null> {
   try {
     if (!env.CLERK_SECRET_KEY) return null;
-    const clerk = createClerkClient({ secretKey: env.CLERK_SECRET_KEY });
-    const result = await clerk.verifyToken(token, {
-      // Accept tokens issued by our Clerk instance
+    const result = await verifyToken(token, {
+      secretKey: env.CLERK_SECRET_KEY,
       authorizedParties: undefined,
     });
     return result as unknown as Record<string, unknown>;
@@ -155,7 +154,9 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   if (wantsHtml(request)) {
     const token = extractSessionToken(request);
     if (!token || !(await verifySession(token, env))) {
-      return new Response("Unauthorized", { status: 401 });
+      const signInUrl = new URL("/sign-in", request.url);
+      signInUrl.searchParams.set("redirect_url", request.url);
+      return Response.redirect(signInUrl.toString(), 302);
     }
     const response = await nextWithLocale();
     return applyGatedCacheHeaders(response);
