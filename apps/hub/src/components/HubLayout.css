@@ -43,7 +43,7 @@ h1, h2, h3, .logo {
 /* Navigation - Side Panel Layout */
 .side-nav {
   background-color: var(--color-surface);
-  padding: var(--spacing-lg);
+  padding: var(--spacing-sm) var(--spacing-md);
   border-bottom: 1px solid var(--color-secondary);
   display: flex;
   flex-direction: column;
@@ -317,5 +317,13 @@ h1, h2, h3, .logo {
     animation-iteration-count: 1 !important;
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
+  }
+
+  .hero-section h1,
+  .hero-section p,
+  .btn-primary,
+  .book-card {
+    opacity: 1 !important;
+    transform: none !important;
   }
 }

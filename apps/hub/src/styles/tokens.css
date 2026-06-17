@@ -88,3 +88,12 @@
 .moon-icon { display: none; }
 :root[data-theme='light'] .sun-icon, :root.light .sun-icon, :root.rust .sun-icon, :root.ayu .sun-icon { display: none; }
 :root[data-theme='light'] .moon-icon, :root.light .moon-icon, :root.rust .moon-icon, :root.ayu .moon-icon { display: block; }
+
+/* Responsive Spacing for Mobile */
+@media (max-width: 768px) {
+  :root, :root[data-theme='light'], :root.light, :root.rust, :root.ayu {
+    --spacing-lg: 1.25rem;
+    --spacing-xl: 2rem;
+    --spacing-xxl: 3rem;
+  }
+}
