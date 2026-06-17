@@ -4,7 +4,13 @@ output/
 book/
 dist/
 .DS_Store
-.env.local
+.env
+.env.*
 *.log
 *.bak
 *.zip
+
+# Local tools & agents
+.agents/
+skills-lock.json
+test-clerk.js
