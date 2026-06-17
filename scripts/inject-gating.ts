@@ -12,14 +12,23 @@ async function processDirectory(dir: string) {
       let content = await readFile(fullPath, "utf-8");
 
       const basename = entry;
-      const isPublic = basename.startsWith("01") || basename === "index.html" || basename === "toc.html" || basename === "404.html";
+      const isPublic = basename === "index.html" || basename === "toc.html" || basename === "404.html";
 
       if (!isPublic) {
-        // Inject head script to prevent FOUC
+        // Inject head script to prevent FOUC with dynamic SEO-first gating
         const script = `
         <script>
-          document.documentElement.style.opacity = '0';
-          document.documentElement.style.visibility = 'hidden';
+          (function() {
+            var currentPath = window.location.pathname;
+            var freeChapter = null;
+            try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
+            if (freeChapter && freeChapter !== currentPath) {
+              document.documentElement.style.opacity = '0';
+              document.documentElement.style.visibility = 'hidden';
+            } else {
+              try { sessionStorage.setItem('free_chapter_viewed', currentPath); } catch(e) {}
+            }
+          })();
         </script>
         `;
         if (content.includes("</head>")) {

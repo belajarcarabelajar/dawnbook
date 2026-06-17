@@ -44,11 +44,10 @@ log_section() {
   echo -e "${YELLOW}── $1 ──${NC}"
 }
 
-# ─── Test (a): Gated URL without auth returns 302 (HTML) or 401 (fetch) ───
+# ─── Test (a): All chapters are public at the edge for SEO ───
 
-log_section "Test (a): Gated content requires authentication"
+log_section "Test (a): All chapters are public at the edge for SEO"
 
-# Test a gated chapter (chapter 2+) with HTML Accept header → expect 302
 GATED_URL="${BASE_URL}/books/piaget/02%20-%20Konsep%20Dasar%20Skema%20dan%20Struktur%20Kognitif.html"
 
 STATUS_HTML=$(curl -s -o /dev/null -w "%{http_code}" \
@@ -56,38 +55,30 @@ STATUS_HTML=$(curl -s -o /dev/null -w "%{http_code}" \
   --max-redirs 0 \
   "$GATED_URL" 2>/dev/null || true)
 
-if [ "$STATUS_HTML" = "302" ]; then
-  log_pass "Gated HTML request (chapter 2) returns 302 (status=$STATUS_HTML)"
+if [ "$STATUS_HTML" = "200" ]; then
+  log_pass "Chapter HTML request returns 200 OK at the edge (status=$STATUS_HTML)"
 else
-  log_fail "Gated HTML request (chapter 2) expected 302, got $STATUS_HTML"
+  log_fail "Chapter HTML request expected 200, got $STATUS_HTML"
 fi
 
-# Verify redirect points to /sign-in
-REDIRECT_LOCATION=$(curl -s -D - -o /dev/null \
+# ─── Test (b): Dynamic SEO-first gating script is injected ───
+
+log_section "Test (b): Dynamic SEO-first gating script is injected"
+
+HTML_CONTENT=$(curl -s \
   -H "Accept: text/html,application/xhtml+xml" \
   --max-redirs 0 \
-  "$GATED_URL" 2>/dev/null | grep -i "^location:" | tr -d '\r' || true)
-
-if echo "$REDIRECT_LOCATION" | grep -qi "/sign-in"; then
-  log_pass "302 redirect location includes /sign-in"
-else
-  log_fail "302 redirect location should include /sign-in, got: $REDIRECT_LOCATION"
-fi
-
-# Test same URL with JSON Accept header → expect 401
-STATUS_JSON=$(curl -s -o /dev/null -w "%{http_code}" \
-  -H "Accept: application/json" \
   "$GATED_URL" 2>/dev/null || true)
 
-if [ "$STATUS_JSON" = "401" ]; then
-  log_pass "Gated fetch request (chapter 2) returns 401 (status=$STATUS_JSON)"
+if echo "$HTML_CONTENT" | grep -qi "sessionStorage.getItem('free_chapter_viewed')"; then
+  log_pass "Dynamic FOUC prevention script is injected"
 else
-  log_fail "Gated fetch request (chapter 2) expected 401, got $STATUS_JSON"
+  log_fail "Dynamic FOUC prevention script not found in HTML"
 fi
 
-# ─── Test (b): Public preview returns 200 without auth ───
+# ─── Test (c): Public preview (index/hub) returns 200 ───
 
-log_section "Test (b): Public preview is accessible without auth"
+log_section "Test (c): Hub pages are accessible without auth"
 
 # Test book root/index
 BOOK_ROOT_URL="${BASE_URL}/books/piaget/"
@@ -101,18 +92,6 @@ else
   log_fail "Book root (/books/piaget/) expected 200, got $STATUS_ROOT"
 fi
 
-# Test chapter 1 (first chapter)
-CHAPTER1_URL="${BASE_URL}/books/piaget/01%20-%20Pengantar%20Jean%20Piaget%20dan%20Genetika%20Epistemologi.html"
-STATUS_CH1=$(curl -s -o /dev/null -w "%{http_code}" \
-  -H "Accept: text/html" \
-  "$CHAPTER1_URL" 2>/dev/null || true)
-
-if [ "$STATUS_CH1" = "200" ]; then
-  log_pass "Chapter 1 returns 200 without auth (status=$STATUS_CH1)"
-else
-  log_fail "Chapter 1 expected 200, got $STATUS_CH1"
-fi
-
 # Test hub pages
 for path in "/" "/about.html" "/contribute.html"; do
   HUB_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
@@ -124,39 +103,6 @@ for path in "/" "/about.html" "/contribute.html"; do
     log_fail "Hub page ${path} expected 200, got $HUB_STATUS"
   fi
 done
-
-# ─── Test (c): Gated responses carry Cache-Control: private, no-store ───
-
-log_section "Test (c): Gated responses have safe cache headers"
-
-# Check Cache-Control on a gated 302 redirect
-CACHE_HEADERS=$(curl -s -D - -o /dev/null \
-  -H "Accept: text/html,application/xhtml+xml" \
-  --max-redirs 0 \
-  "$GATED_URL" 2>/dev/null || true)
-
-if echo "$CACHE_HEADERS" | grep -qi "Cache-Control:.*private.*no-store"; then
-  log_pass "Gated 302 response includes Cache-Control: private, no-store"
-else
-  log_fail "Gated 302 response missing Cache-Control: private, no-store"
-fi
-
-if echo "$CACHE_HEADERS" | grep -qi "Vary:.*Cookie"; then
-  log_pass "Gated 302 response includes Vary: Cookie"
-else
-  log_fail "Gated 302 response missing Vary: Cookie"
-fi
-
-# Check Cache-Control on a gated 401 JSON response
-CACHE_HEADERS_JSON=$(curl -s -D - -o /dev/null \
-  -H "Accept: application/json" \
-  "$GATED_URL" 2>/dev/null || true)
-
-if echo "$CACHE_HEADERS_JSON" | grep -qi "Cache-Control:.*private.*no-store"; then
-  log_pass "Gated 401 response includes Cache-Control: private, no-store"
-else
-  log_fail "Gated 401 response missing Cache-Control: private, no-store"
-fi
 
 # ─── Summary ───
 

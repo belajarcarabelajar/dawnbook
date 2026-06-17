@@ -143,24 +143,8 @@ export function isPublicPath(pathname: string): boolean {
     }
   }
 
-  // First chapter: the basename (decoded) starts with "01"
-  // e.g. "01 - Pengantar Jean Piaget dan Genetika Epistemologi.html"
-  const basename = page.split("/").pop() ?? "";
-  if (basename.startsWith(FIRST_CHAPTER_PREFIX)) {
-    return true;
-  }
-
-  // mdBook special pages
-  if (
-    page === "toc.html" ||
-    page === "404.html" ||
-    page === "print.html" ||
-    page === "toc" ||
-    page === "404"
-  ) {
-    return true;
-  }
-
-  // Everything else under /books/<slug>/* is gated
-  return false;
+  // ALL book paths are public at the edge for SEO.
+  // Gating is handled dynamically on the client-side (shared-script-v3.js)
+  // to allow one free chapter view before requiring sign-in.
+  return true;
 }
