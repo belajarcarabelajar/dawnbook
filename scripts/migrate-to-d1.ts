@@ -77,8 +77,8 @@ async function main() {
     let combinedMd = "";
 
     try {
-      const mdFiles = (await readdir(srcDir))
-        .filter((f) => f.endsWith(".md") && f !== "SUMMARY.md")
+      const mdFiles = (await readdir(srcDir, { recursive: true }))
+        .filter((f) => f.endsWith(".md") && !f.endsWith("SUMMARY.md"))
         .sort();
 
       for (const mdFile of mdFiles) {

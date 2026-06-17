@@ -20,7 +20,8 @@ describe("Edge Middleware Auth Gating", () => {
       const text = await response.text();
       expect(text).not.toContain("Secret content");
     } else {
-      expect(response.status).toBe(401);
+      // It will return 302 (redirect to sign-in) for HTML requests, or 401 for API
+      expect([302, 401]).toContain(response.status);
     }
   });
 });

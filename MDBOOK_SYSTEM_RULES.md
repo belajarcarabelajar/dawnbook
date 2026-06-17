@@ -145,7 +145,7 @@ bun run scripts/check-latex-support.ts
 bun run scripts/check-media-support.ts
 ```
 
-**What `check-latex-support.ts` does:** Reads every `books/*/book.toml`, verifies `mathjax-support = true`, verifies CSP headers include `cdnjs.cloudflare.com` or `cdn.jsdelivr.net`. Exits 1 on failure.
+**What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (verifying `mathjax-support = true`), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and warning on unformatted multi-letter variables). Exits 1 on failure.
 
 **What `check-media-support.ts` does:** Verifies `books/shared-header-v3.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Warns on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error.
 
