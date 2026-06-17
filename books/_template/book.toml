@@ -9,3 +9,4 @@ enable = false
 
 [output.html]
 additional-css = ["../shared-header-v3.css"]
+additional-js = ["../shared-script-v3.js"]

@@ -58,23 +58,5 @@ h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
   --scrollbar: var(--color-secondary) !important;
 }
 
-/* Back to Hub Link Styles */
-.back-to-hub-link {
-  color: var(--color-text);
-  text-decoration: none;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  padding: 0 10px;
-}
 
-.back-to-hub-link:hover {
-  color: var(--color-primary);
-}
 
-@media (max-width: 768px) {
-  .back-to-hub-link {
-    padding: 0 5px !important;
-  }
-}
