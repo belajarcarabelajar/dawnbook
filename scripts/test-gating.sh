@@ -48,7 +48,7 @@ log_section() {
 
 log_section "Test (a): All chapters are public at the edge for SEO"
 
-GATED_URL="${BASE_URL}/books/piaget/02%20-%20Konsep%20Dasar%20Skema%20dan%20Struktur%20Kognitif.html"
+GATED_URL="${BASE_URL}/books/piaget/Konsep%20Dasar%20Skema%20dan%20Struktur%20Kognitif"
 
 STATUS_HTML=$(curl -s -o /dev/null -w "%{http_code}" \
   -H "Accept: text/html,application/xhtml+xml" \
@@ -93,7 +93,7 @@ else
 fi
 
 # Test hub pages
-for path in "/" "/about.html" "/contribute.html"; do
+for path in "/" "/about" "/contribute"; do
   HUB_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
     -H "Accept: text/html" \
     "${BASE_URL}${path}" 2>/dev/null || true)
