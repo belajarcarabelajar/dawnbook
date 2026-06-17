@@ -1,0 +1,83 @@
+[
+  {
+    "id": "F-HUB-001",
+    "surface": "HUB",
+    "criterion": "C4",
+    "severity": "High",
+    "evidence": "apps/hub/src/styles/tokens.css:12",
+    "description": "The --color-text-muted value (#888888) rendered on --color-surface (#111111) yields a contrast ratio of ~3.5:1, failing the WCAG 2.1 AA 4.5:1 requirement for normal text.",
+    "recommendation": "Lighten the dark-mode muted text color to at least #9e9e9e to achieve 4.5:1 contrast."
+  },
+  {
+    "id": "F-HUB-002",
+    "surface": "HUB",
+    "criterion": "C9",
+    "severity": "Medium",
+    "evidence": "scripts/build.ts:93",
+    "description": "The navigation container uses <div class=\"nav-links\"> rather than a semantic <nav> element, impeding screen reader landmark navigation.",
+    "recommendation": "Change the <div class=\"nav-links\"> wrapper to a <nav> element."
+  },
+  {
+    "id": "F-HUB-003",
+    "surface": "HUB",
+    "criterion": "C2",
+    "severity": "Low",
+    "evidence": "apps/hub/src/components/HubLayout.css:135",
+    "description": "Typography sizes (e.g., font-size: 4rem) are hardcoded in CSS without a defined token scale.",
+    "recommendation": "Introduce a typographic scale in tokens.css (e.g., --font-size-h1) and apply it to headings."
+  },
+  {
+    "id": "F-BOOK-001",
+    "surface": "BOOK",
+    "criterion": "C6",
+    "severity": "High",
+    "evidence": "books/shared-header.css:1",
+    "description": "The generated mdBook pages do not inherit the Syne and Epilogue fonts or the strict black/white color palette used by HUB and ADMIN, creating a disjointed cross-surface visual experience.",
+    "recommendation": "Inject the typography.css and tokens.css files into the mdBook output and override mdBook's default font-family variables."
+  },
+  {
+    "id": "F-BOOK-002",
+    "surface": "BOOK",
+    "criterion": "C8",
+    "severity": "High",
+    "evidence": "books/shared-header.css:1",
+    "description": "There is no global navigation link or wayfinding element in the mdBook layout to return to the Hub homepage.",
+    "recommendation": "Inject a 'Back to Hub' link into the mdBook header or sidebar via a custom hbs template or javascript."
+  },
+  {
+    "id": "F-BOOK-003",
+    "surface": "BOOK",
+    "criterion": "C1",
+    "severity": "Low",
+    "evidence": "books/shared-header.css:12",
+    "description": "Spacing and font sizes use hardcoded pixel/vw values (e.g., clamp(14px, 3vw, 20px), margin: 0 10px) instead of design tokens.",
+    "recommendation": "Reference global spacing tokens for margins and paddings."
+  },
+  {
+    "id": "F-ADMIN-001",
+    "surface": "ADMIN",
+    "criterion": "C4",
+    "severity": "High",
+    "evidence": "apps/admin/src/styles/tokens.css:17",
+    "description": "The --color-state-error value (#525252) against --color-background (#000000) yields a ~2.3:1 contrast ratio, severely failing WCAG 2.1 AA requirements.",
+    "recommendation": "Adjust the error state color for dark mode to ensure a minimum 3:1 contrast ratio for UI components."
+  },
+  {
+    "id": "F-ADMIN-002",
+    "surface": "ADMIN",
+    "criterion": "C9",
+    "severity": "Medium",
+    "evidence": "apps/admin/src/components/Dashboard.css:112",
+    "description": "Focus states are defined for inputs but explicitly missing or lacking high contrast for interactive .btn elements.",
+    "recommendation": "Add a :focus-visible pseudo-class for .btn to provide clear keyboard navigation outlines."
+  },
+  {
+    "id": "F-ADMIN-003",
+    "surface": "ADMIN",
+    "criterion": "C1",
+    "severity": "Low",
+    "evidence": "apps/admin/src/index.css:9",
+    "description": "Base font size is hardcoded to 16px rather than relying on a base typography token.",
+    "recommendation": "Define --font-size-base in tokens.css and map the body font-size to it."
+  }
+]

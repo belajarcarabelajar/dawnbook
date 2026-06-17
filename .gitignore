@@ -4,3 +4,7 @@ output/
 book/
 dist/
 .DS_Store
+.env.local
+*.log
+*.bak
+*.zip

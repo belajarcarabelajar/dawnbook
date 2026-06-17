@@ -1,0 +1,90 @@
+[
+  {
+    "id": "F-ADMIN-001",
+    "surface": "ADMIN",
+    "criterion": "S1",
+    "severity": "Medium",
+    "owasp": "A01:2021 - Broken Access Control",
+    "cwe": "CWE-284",
+    "evidence": "apps/admin/src/App.tsx:53",
+    "impact": "Protected components are hidden only via client-side <Show when=\"signed-in\"> rendering. Static JS bundles and routes remain publicly accessible. Any sensitive business logic embedded in the client bundle can be extracted by unauthenticated users.",
+    "recommendation": "Ensure no sensitive data or critical logic resides in the front-end bundle. Use the frontend solely for presentation, and enforce strict authorization on backend APIs."
+  },
+  {
+    "id": "F-ADMIN-002",
+    "surface": "ADMIN",
+    "criterion": "S2",
+    "severity": "Low",
+    "owasp": "A05:2021 - Security Misconfiguration",
+    "cwe": "CWE-312",
+    "evidence": "apps/admin/.env.local:1",
+    "impact": "Committing the .env.local file stores configuration values (like VITE_CLERK_PUBLISHABLE_KEY) directly in version control. While public keys are generally safe, this practice risks leaking future secrets such as secret API keys.",
+    "recommendation": "Add .env.local to the global .gitignore file and distribute environment variables via secure vaults or CI/CD secrets."
+  },
+  {
+    "id": "F-BUILD-001",
+    "surface": "BUILD",
+    "criterion": "S3",
+    "severity": "High",
+    "owasp": "A03:2021 - Injection",
+    "cwe": "CWE-79",
+    "evidence": "scripts/build.ts:118",
+    "impact": "Unescaped string interpolation (e.g., ${b.title} and ${b.desc}) is used to generate the Hub HTML. Malicious metadata from a book's folder or toml file will be rendered as raw HTML, resulting in a Stored XSS vulnerability.",
+    "recommendation": "Implement an HTML escaping utility function and wrap all interpolated user-controlled data before injecting it into the HTML strings."
+  },
+  {
+    "id": "F-BUILD-002",
+    "surface": "BUILD",
+    "criterion": "S4",
+    "severity": "Medium",
+    "owasp": "A03:2021 - Injection",
+    "cwe": "CWE-88",
+    "evidence": "scripts/build.ts:35",
+    "impact": "Passing directory names (bookPath) directly into the child process execution ($`mdbook build ...`) without sanitization poses an Argument Injection risk if a folder is maliciously named starting with a dash (e.g., -h).",
+    "recommendation": "Validate the directory name against a strict regex (e.g., /^[a-zA-Z0-9_]+$/) before processing it in the build loop."
+  },
+  {
+    "id": "F-DEPLOY-001",
+    "surface": "DEPLOY",
+    "criterion": "S2",
+    "severity": "High",
+    "owasp": "A07:2021 - Identification and Authentication Failures",
+    "cwe": "CWE-798",
+    "evidence": "scripts/deploy-website.sh:14",
+    "impact": "The CLOUDFLARE_ACCOUNT_ID is hardcoded directly in the deployment shell script. Anyone with read access to the repository can use this identifier, increasing the risk of targeted attacks against the Cloudflare account.",
+    "recommendation": "Remove the hardcoded account ID. Inject it via the CI/CD environment or a securely managed local .env file."
+  },
+  {
+    "id": "F-DEPLOY-002",
+    "surface": "DEPLOY",
+    "criterion": "S9",
+    "severity": "Medium",
+    "owasp": "A05:2021 - Security Misconfiguration",
+    "cwe": "CWE-276",
+    "evidence": "scripts/deploy-website.sh:15",
+    "impact": "Manual deployment via scripts/deploy-website.sh using --commit-dirty=true allows unreviewed, untracked code to reach production, bypassing peer review and automated security scans entirely due to the absence of CI/CD workflows.",
+    "recommendation": "Remove manual deploy scripts and configure GitHub Actions (.github/workflows/) to enforce automated SAST testing and controlled, audited production deployments."
+  },
+  {
+    "id": "F-DEPLOY-003",
+    "surface": "DEPLOY",
+    "criterion": "S5",
+    "severity": "Low",
+    "owasp": "A06:2021 - Vulnerable and Outdated Components",
+    "cwe": "CWE-829",
+    "evidence": "scripts/deploy-website.sh:15",
+    "impact": "The deployment script uses 'npx wrangler', which dynamically fetches dependencies. This circumvents the bun.lock file, opening the deployment pipeline to supply-chain attacks if an unpinned package is compromised.",
+    "recommendation": "Use 'bun run wrangler' to ensure execution is locked to the verified dependency graph."
+  },
+  {
+    "id": "F-OUTPUT-001",
+    "surface": "OUTPUT",
+    "criterion": "S6",
+    "severity": "Medium",
+    "owasp": "A05:2021 - Security Misconfiguration",
+    "cwe": "CWE-693",
+    "evidence": "Missing _headers file in output/",
+    "impact": "The deployed static assets lack protective HTTP headers such as Content-Security-Policy, Strict-Transport-Security, X-Frame-Options, and X-Content-Type-Options, exposing users to Clickjacking and MITM threats.",
+    "recommendation": "Generate a Cloudflare Pages _headers file during the build process to strictly enforce modern security transport headers."
+  }
+]
