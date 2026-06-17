@@ -107,7 +107,7 @@ async function build() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
-    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}">
+    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || "pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ"}">
     <title>${title} | Dawnbook Platform</title>
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">

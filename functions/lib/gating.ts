@@ -29,12 +29,6 @@
  */
 export const PUBLIC_PREVIEW_CHAPTER = "chapter_1";
 
-/**
- * The numeric prefix that identifies the first chapter in mdBook output.
- * mdBook convention: SUMMARY.md entries are rendered as "01 - Title.html",
- * "02 - Title.html", etc.
- */
-const FIRST_CHAPTER_PREFIX = "01";
 
 /** Static asset extensions that are always public. */
 const PUBLIC_ASSET_EXTENSIONS = new Set([
@@ -143,7 +137,13 @@ export function isPublicPath(pathname: string): boolean {
     }
   }
 
-  if (page.startsWith(FIRST_CHAPTER_PREFIX)) {
+  const FIRST_CHAPTERS = new Set([
+    "intro.html", // metakognisi
+    "Pengantar Jean Piaget dan Genetika Epistemologi.html", // piaget
+    "introduction.html" // _template
+  ]);
+
+  if (FIRST_CHAPTERS.has(decodeURIComponent(page))) {
     return true;
   }
 
