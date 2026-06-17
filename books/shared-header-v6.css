@@ -3,6 +3,8 @@
   display: flex !important;
   align-items: center !important;
   justify-content: space-between !important;
+  background-color: var(--bg) !important;
+  z-index: 100 !important;
 }
 
 .menu-title {
