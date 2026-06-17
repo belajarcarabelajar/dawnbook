@@ -1,6 +1,6 @@
 ## Peran Lingkungan Fisik dalam Perkembangan
 
-Pernahkah Anda memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang krusial. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.
+Pernahkah kamu memperhatikan seorang balita yang terus-menerus menjatuhkan sendok dari meja makannya? Bagi orang tua, ini mungkin melelahkan. Namun, dalam pandangan Jean Piaget, anak tersebut sedang melakukan eksperimen ilmiah yang sangat penting. Ia sedang mempelajari gravitasi, suara benturan, dan konsep sebab-akibat.
 
 Dalam teori Piaget, perkembangan kognitif tidak terjadi di dalam ruang hampa. Kecerdasan bukan sekadar hadiah genetika yang muncul begitu saja seiring bertambahnya usia. Sebaliknya, kecerdasan adalah hasil dari **interaksi aktif** antara anak dengan dunia fisik di sekitarnya.
 
@@ -47,7 +47,7 @@ Mari kita lihat bagaimana konsep matematika dasar terbentuk melalui lingkungan f
 
 Tanpa adanya objek fisik (batu) untuk dimanipulasi, konsep abstrak seperti **Konservasi Jumlah** akan sulit dipahami oleh anak pada tahap operasional konkret.
 
-$\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}$
+\\(\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}\\)
 
 ## 4\. Peran Alat dan Mainan dalam Berbagai Tahapan
 
@@ -63,7 +63,7 @@ Bagaimana kita menerapkan pemahaman tentang peran lingkungan fisik ini dalam pen
 
 ### Skenario: Belajar Tentang Volume
 
-Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang menerapkan prinsip Piaget akan:
+Alih-alih memberikan rumus \\(V = p \times l \times t\\) di papan tulis, guru yang menerapkan prinsip Piaget akan:
 
 1. Menyediakan berbagai wadah dengan bentuk berbeda (tinggi kurus vs. pendek lebar).
 2. Meminta siswa mengisi satu wadah dengan air, lalu menuangkannya ke wadah lain.
@@ -86,7 +86,7 @@ Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan yang paling
 
 ## Evaluasi Mandiri
 
-*Think about this:* *Coba ingat kembali saat Anda belajar mengendarai sepeda atau memasak. Apakah Anda lebih banyak belajar dari membaca buku manual (instruksi verbal) atau dari interaksi langsung dengan stang sepeda dan suhu kompor (interaksi fisik)? Bagaimana pengalaman fisik tersebut mengubah cara Anda berpikir tentang keseimbangan atau panas?*
+*Think about this:* *Coba ingat kembali saat kamu belajar mengendarai sepeda atau memasak. Apakah kamu lebih banyak belajar dari membaca buku manual (instruksi verbal) atau dari interaksi langsung dengan stang sepeda dan suhu kompor (interaksi fisik)? Bagaimana pengalaman fisik tersebut mengubah cara kamu berpikir tentang keseimbangan atau panas?*
 
 **Poin Penting untuk Diingat:**
 

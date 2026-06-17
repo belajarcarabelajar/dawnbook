@@ -8,5 +8,6 @@ title = "Template Book"
 enable = false
 
 [output.html]
+mathjax-support = true
 additional-css = ["../shared-header-v3.css"]
 additional-js = ["../shared-script-v3.js"]

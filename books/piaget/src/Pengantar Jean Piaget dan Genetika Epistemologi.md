@@ -1,13 +1,13 @@
 ## Pengantar Jean Piaget dan Genetika Epistemologi
 
-Selamat datang di perjalanan memahami bagaimana pikiran manusia terbentuk. Sebelum kita menyelami tahapan-tahapan rumit dalam perkembangan anak, kita harus mengenal sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia adalah seorang penjelajah intelektual yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*
+Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu sosok di balik teori ini: **Jean Piaget**. Ia bukan sekadar seorang psikolog; ia adalah seorang penjelajah intelektual yang ingin menjawab pertanyaan mendasar: *"Bagaimana kita bisa tahu apa yang kita tahu?"*
 
 ## 1\. Siapakah Jean Piaget? (Sang Ilmuwan Cilik yang Tekun)
 
 Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Menariknya, latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
 - **Awal yang Cemerlang:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
-- **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat krusial karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
+- **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
 
 > **Wawasan Penting:** Piaget memandang kecerdasan bukan sebagai angka (IQ), melainkan sebagai bentuk **adaptasi biologis** yang memungkinkan manusia bertahan hidup dan berfungsi dalam lingkungannya.
 
@@ -36,9 +36,9 @@ Piaget ingin memetakan transisi dari pengetahuan tingkat rendah ke pengetahuan t
 - **Interaksi Subjek-Objek:** Pengetahuan muncul dari interaksi antara anak (subjek) dan lingkungannya (objek).
 - **Konstruktivisme:** Piaget adalah pelopor paham konstruktivisme. Ia berpendapat bahwa manusia **membangun (mengonstruksi)** pengetahuan mereka sendiri melalui tindakan.
 
-$Pengetahuan = Aksi \times Objek$
+\\(Pengetahuan = Aksi \times Objek\\)
 
-*Think about this: Pernahkah Anda memperhatikan seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
+*Think about this: Pernahkah kamu memperhatikan seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 
 ## 4\. Analogi: Arsitektur Pikiran
 
@@ -58,5 +58,3 @@ Memahami Genetika Epistemologi mengubah cara kita memperlakukan proses belajar-m
 3. **Kesiapan Belajar (Readiness):** Kita tidak bisa mengajarkan kalkulus kepada anak usia 5 tahun, bukan karena mereka kurang pintar, tetapi karena "struktur epistemologi" mereka belum mencapai tahap yang memungkinkan pemahaman abstrak tersebut.
 
 > **Pesan Utama:** Perkembangan kognitif adalah tarian antara kematangan biologis dan pengalaman lingkungan. Pengetahuan tidak diberikan kepada kita; kita menciptakannya.
-
-*Setelah memahami bahwa pengetahuan adalah hasil konstruksi aktif, bagian selanjutnya akan membahas tentang "Skema" — unit terkecil dari struktur kognitif yang kita gunakan untuk mengorganisir dunia kita.*

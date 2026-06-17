@@ -1,8 +1,8 @@
 [book]
-authors = ["Tedi Rahmat"]
+authors = ["AI"]
 language = "id"
 src = "src"
-title = "Teori Perkembangan Kognitif Piaget"
+title = "Metakognisi: Belajar Bagaimana Belajar"
 
 [output.html.print]
 enable = false

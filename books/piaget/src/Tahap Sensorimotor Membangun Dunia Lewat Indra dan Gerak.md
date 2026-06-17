@@ -1,18 +1,18 @@
 ## Tahap Sensorimotor (Lahir - 2 Tahun): Membangun Dunia Lewat Indra dan Gerak
 
-Selamat datang di fase pertama dalam perjalanan kognitif manusia. Bayangkan Anda terbangun di sebuah planet asing tanpa peta, tanpa bahasa, dan tanpa pemahaman tentang bagaimana benda-benda bekerja. Inilah kondisi bayi yang baru lahir.
+Bayangkan kamu terbangun di planet asing tanpa peta, bahasa, atau pemahaman cara kerja benda. Itulah kondisi bayi yang baru lahir.
 
-Pada tahap **Sensorimotor**, bayi tidak "berpikir" menggunakan simbol atau bahasa seperti orang dewasa. Sebaliknya, mereka memahami dunia melalui koordinasi pengalaman sensorik (seperti melihat dan mendengar) dengan tindakan fisik atau motorik (seperti menggapai dan mengisap). Pengetahuan mereka adalah hasil langsung dari apa yang mereka lakukan terhadap lingkungan.
+Pada tahap **Sensorimotor**, bayi tidak "berpikir" menggunakan simbol atau bahasa. Mereka memahami dunia lewat koordinasi pengalaman sensorik (melihat, mendengar) dengan tindakan motorik (menggapai, mengisap). Pengetahuan mereka benar-benar hasil dari aksi fisik.
 
-## 1\. Esensi Sensorimotor: Belajar Melalui Aksi
+## 1\. Inti Sensorimotor: Belajar Melalui Aksi
 
-Istilah "Sensorimotor" berasal dari dua kata: **Sensori** (indra) dan **Motorik** (gerakan). Piaget percaya bahwa pada dua tahun pertama kehidupan, kecerdasan anak muncul dalam bentuk tindakan praktis.
+Istilah "Sensorimotor" berasal dari kata **Sensori** (indra) dan **Motorik** (gerakan). Di dua tahun pertama kehidupan, kecerdasan anak murni berbentuk tindakan praktis.
 
-> **Insight:** Bagi seorang bayi, "memahami" sebuah bola bukan berarti mengetahui kata "bola", melainkan mengetahui bahwa benda itu bisa digenggam, diputar, dan membal bila dijatuhkan.
+> **Insight:** Bagi bayi, "memahami" bola bukan berarti tahu kata "bola", tapi tahu benda itu bisa digenggam, diputar, dan membal kalau dijatuhkan.
 
-### Analogy: Sang Penjelajah Tanpa Kompas
+### Analogi: Penjelajah Tanpa Kompas
 
-Bayangkan bayi sebagai seorang penjelajah di hutan rimba. Ia tidak punya buku panduan (skema mental yang matang). Satu-satunya cara ia tahu bahwa sebuah buah itu manis adalah dengan memakannya; satu-satunya cara ia tahu duri itu tajam adalah dengan menyentuhnya. Ilmu pengetahuannya "menempel" pada ujung jari dan lidahnya.
+Bayi seperti penjelajah di hutan tanpa buku panduan. Satu-satunya cara tahu buah itu manis adalah memakannya. Tahu duri tajam dengan menyentuhnya. Pemahaman mereka sepenuhnya bertumpu pada ujung jari dan lidah.
 
 ## 2\. Enam Sub-Tahap Perkembangan Sensorimotor
 
@@ -39,15 +39,15 @@ Fokus bayi mulai beralih dari tubuh sendiri ke **objek di luar diri mereka**. Me
 
 ### IV. Koordinasi Reaksi Sirkular Sekunder (8 - 12 Bulan)
 
-Ini adalah tahap krusial di mana **tindakan menjadi disengaja**. Bayi mulai menggabungkan beberapa skema untuk mencapai tujuan tertentu.
+Fase penting ketika **tindakan mulai disengaja**. Bayi mulai menggabungkan beberapa skema untuk mencapai tujuan.
 
-- **Contoh:** Bayi menyingkirkan bantal (skema 1) untuk mengambil mainan yang tersembunyi di bawahnya (skema 2). Di sini, niat mendahului tindakan.
+- **Contoh:** Bayi menyingkirkan bantal (skema 1) untuk mengambil mainan yang sembunyi di baliknya (skema 2). Niat sudah mendahului aksi.
 
 ### V. Reaksi Sirkular Tersier (12 - 18 Bulan)
 
-Bayi menjadi "ilmuwan kecil". Mereka tidak hanya mengulang perilaku yang sama, tetapi **bereksperimen dengan variasi**.
+Bayi bertingkah seperti ilmuwan kecil. Mereka tidak sekadar mengulang gerakan, tapi mulai **bereksperimen dengan variasi**.
 
-- **Contoh:** Alih-alih hanya menjatuhkan sendok, bayi mencoba menjatuhkannya dari ketinggian yang berbeda atau ke arah yang berbeda untuk melihat apa yang terjadi.
+- **Contoh:** Bukannya cuma menjatuhkan sendok, bayi mencoba menjatuhkannya dari ketinggian atau arah yang berbeda untuk melihat reaksi yang muncul.
 
 ### VI. Internalisasi Skema (18 - 24 Bulan)
 
@@ -55,28 +55,30 @@ Anak mulai mengembangkan kemampuan untuk menggunakan simbol mental sederhana dan
 
 - **Contoh:** Seorang anak melihat orang dewasa membuka kotak, lalu beberapa jam kemudian ia mencoba meniru gerakan tersebut dengan tangannya sendiri (imitasi tertunda).
 
-## 3\. Pencapaian Mahkota: Objek Permanen (Object Permanence)
+## 3\. Pencapaian Terbesar: Objek Permanen
 
-Salah satu pencapaian terpenting dalam seluruh teori Piaget terjadi di tahap ini, yaitu pemahaman tentang **Objek Permanen**.
+Pencapaian terbesar dalam tahap ini adalah pemahaman tentang **Objek Permanen**, yaitu kesadaran bahwa benda tetap ada meski sudah tidak terlihat, terdengar, atau disentuh.
 
-**Apa itu Objek Permanen?** Ini adalah pemahaman bahwa sebuah objek tetap ada meskipun objek tersebut tidak lagi terlihat, terdengar, atau disentuh.
+- **Sebelum Objek Permanen:** Tutupi mainan bayi 5 bulan dengan kain. Bagi mereka, mainan itu "lenyap" dari realitas. Tidak terlihat berarti tidak ada.
+- **Setelah Objek Permanen (8-12 bulan):** Bayi akan menarik kain itu. Mereka sadar mainan itu masih sembunyi di baliknya.
 
-- **Sebelum Objek Permanen:** Jika Anda menutupi mainan favorit bayi usia 5 bulan dengan kain, bayi tersebut akan menganggap mainan itu sudah "lenyap" dari muka bumi. Mereka tidak akan mencarinya. Dalam pikiran mereka: *"Out of sight, out of mind"* (Hilang dari pandangan, hilang dari pikiran).
-- **Setelah Objek Permanen (Sekitar 8-12 bulan):** Bayi akan mulai menarik kain penutup untuk menemukan mainannya. Mereka sadar bahwa mainan itu masih ada di bawah sana.
+### Representasi Sederhana
 
-### Representasi Matematis Sederhana
+Bagi bayi di bawah 8 bulan: 
+\\[ \text{Jika } V(O) = 0, \text{ maka } O = \text{tidak ada} \\]
 
-Jika $O$ adalah Objek dan $V$ adalah Visibilitas (penglihatan), maka bagi bayi di bawah 8 bulan: $Jika V(O) = 0, \text{ maka } O = \text{tidak ada}$ Sedangkan bagi anak yang telah mencapai objek permanen: $Jika V(O) = 0, \text{ maka } O \text{ tetap ada dalam representasi mental}$
+Bagi anak yang sudah punya objek permanen: 
+\\[ \text{Jika } V(O) = 0, \text{ maka } O \text{ tetap ada di dalam pikiran} \\]
 
-## 4\. Aplikasi Dunia Nyata: Berinteraksi dengan Bayi
+## 4\. Berinteraksi dengan Bayi
 
-Memahami tahap sensorimotor membantu orang tua dan pendidik memberikan stimulasi yang tepat sasaran:
+Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 
-1. **Permainan Cilukba (Peek-a-Boo):** Ini bukan sekadar permainan lucu, melainkan latihan kognitif untuk menguji konsep objek permanen. Saat Anda menutup wajah, bayi belajar memproses "kehilangan" dan "perjumpaan kembali".
-2. **Eksplorasi Aman:** Karena bayi belajar melalui motorik, menyediakan lingkungan yang aman bagi mereka untuk merangkak, menyentuh berbagai tekstur (halus, kasar), dan memanipulasi benda adalah "sekolah" yang sebenarnya bagi mereka.
-3. **Mainan Sebab-Akibat:** Memberikan mainan yang bereaksi saat ditekan (seperti tombol yang mengeluarkan bunyi) membantu memperkuat pemahaman mereka tentang hubungan sebab-akibat (Reaksi Sirkular Sekunder).
+1. **Cilukba:** Bukan sekadar lucu-lucuan. Ini latihan kognitif untuk menguji objek permanen. Bayi memproses konsep "hilang" dan "muncul kembali".
+2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" paling nyata.
+3. **Sebab-Akibat:** Mainan yang mengeluarkan bunyi kalau ditekan sangat memperkuat pemahaman mereka soal hubungan sebab-akibat.
 
-## 5\. Ringkasan Visual Perkembangan
+## 5\. Ringkasan Fase
 
 | Sub-Tahap | Usia | Fokus Utama | Contoh Perilaku |
 | --- | --- | --- | --- |
@@ -84,9 +86,9 @@ Memahami tahap sensorimotor membantu orang tua dan pendidik memberikan stimulasi
 | **Sirkular Primer** | 1-4 bln | Tubuh sendiri | Mengulang gerakan tangan ke mulut. |
 | **Sirkular Sekunder** | 4-8 bln | Objek luar | Memukul mainan agar berbunyi. |
 | **Koordinasi** | 8-12 bln | Tujuan & Intensi | Mencari benda yang disembunyikan. |
-| **Sirkular Tersier** | 12-18 bln | Eksperimen | Menjatuhkan makanan untuk melihat jatuhnya. |
-| **Representasi** | 18-24 bln | Simbol mental | Berpura-pura menyuapi boneka (bermain peran). |
+| **Sirkular Tersier** | 12-18 bln | Eksperimen | Menjatuhkan sendok untuk melihat jatuhnya. |
+| **Representasi** | 18-24 bln | Simbol mental | Berpura-pura menyuapi boneka. |
 
-*Think about this:* *Pernahkah Anda melihat seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi makan meskipun Anda sudah mengambilkannya berkali-kali? Sebelum Anda merasa kesal, renungkanlah: apakah dia sedang nakal, atau dia sedang melakukan eksperimen ilmiah tentang gravitasi dan jarak sesuai dengan tahap Reaksi Sirkular Tersier-nya?*
+Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia tidak sedang rewel atau nakal. Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier). 
 
-> **Penting:** Tahap Sensorimotor adalah fondasi bagi semua pemikiran logis di masa depan. Tanpa pemahaman bahwa objek itu permanen dan stabil, seorang anak tidak akan pernah bisa melangkah ke tahap berikutnya—belajar bahasa dan simbol.
+Pemahaman dasar bahwa objek itu nyata dan permanen menjadi syarat wajib sebelum anak siap belajar bahasa dan simbol abstrak.

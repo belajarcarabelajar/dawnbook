@@ -22,7 +22,13 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const entries = await readdir(booksDir);
-  const builtBooks: { slug: string; title: string; desc: string }[] = [];
+  const builtBooks: { slug: string; title: string; chapterCount: number; emoji: string }[] = [];
+
+  console.log("Checking LaTeX support across all books...");
+  await $`bun run scripts/check-latex-support.ts`;
+
+  console.log("Checking media embed support across all books...");
+  await $`bun run scripts/check-media-support.ts`;
 
   for (const entry of entries) {
     const bookPath = join(booksDir, entry);
@@ -46,9 +52,28 @@ async function build() {
 
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
-        // Simple heuristic to format title from slug
-        const formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-        builtBooks.push({ slug: entry, title: formattedTitle, desc: `Explore the comprehensive guide on ${formattedTitle}.` });
+        let formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        try {
+            const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
+            const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
+            if (titleMatch) formattedTitle = titleMatch[1];
+        } catch (e) {}
+        
+        let chapterCount = 0;
+        try {
+            const summaryText = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
+            chapterCount = summaryText.split('\n').filter(line => line.trim().startsWith('- [')).length;
+        } catch (e) {
+            console.warn(`Could not read SUMMARY.md for ${entry}`);
+        }
+        let emoji = '📖';
+        try {
+            const iconText = await readFile(join(bookPath, "icon.txt"), "utf8");
+            if (iconText.trim()) emoji = iconText.trim();
+        } catch (e) {
+            // fallback to generic
+        }
+        builtBooks.push({ slug: entry, title: formattedTitle, chapterCount, emoji });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
         console.error(`Failed to build book: ${entry}`, error);
@@ -83,9 +108,9 @@ async function build() {
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
     <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}">
     <title>${title} | Dawnbook Platform</title>
-    <link rel="stylesheet" href="/typography.css?v=2">
-    <link rel="stylesheet" href="/tokens.css?v=2">
-    <link rel="stylesheet" href="/HubLayout.css?v=2">
+    <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
+    <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">
+    <link rel="stylesheet" href="/HubLayout.css?v=${Date.now()}">
     <script>
       function safeStorageGet(key) {
         try { return localStorage.getItem(key); } catch (e) { return null; }
@@ -180,12 +205,85 @@ async function build() {
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
     <div class="book-masonry">
       ${builtBooks.map(b => `
-        <a href="/books/${escapeHtml(b.slug)}/" class="book-card">
-            <h3>${escapeHtml(b.title)}</h3>
-            <p>${escapeHtml(b.desc)}</p>
+        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
+            <div style="flex: 1; display: flex; flex-direction: column;">
+                <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
+                    <span style="font-size: 48px; line-height: 1;">${b.emoji}</span>
+                    <div style="position: relative; z-index: 10;">
+                        <button class="pin-toggle-btn" onclick="event.preventDefault(); togglePin(event, '${escapeHtml(b.slug)}')" style="background: none; border: none; font-size: 20px; cursor: pointer; padding: 0; filter: grayscale(1); opacity: 0.3; transition: all 0.2s;" title="Pin Book">📌</button>
+                    </div>
+                </div>
+                <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
+            </div>
+            <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 0.85rem; color: var(--color-secondary);">
+                <span><span class="desktop-only">Penyusun: </span>Iwan Kurniawan • ${b.chapterCount} chapter</span>
+                <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8;">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
+                    FREE
+                </div>
+            </div>
         </a>
       `).join("")}
     </div>
+    <script>
+      function getPinned() {
+          return JSON.parse(safeStorageGet('pinned_books') || '[]');
+      }
+      function setPinned(arr) {
+          safeStorageSet('pinned_books', JSON.stringify(arr));
+      }
+      function togglePin(e, slug) {
+          e.preventDefault();
+          e.stopPropagation();
+          let pinned = getPinned();
+          if (pinned.includes(slug)) {
+              pinned = pinned.filter(p => p !== slug);
+          } else {
+              pinned.push(slug);
+          }
+          setPinned(pinned);
+          reorderBooks();
+      }
+      function reorderBooks() {
+          const container = document.querySelector('.book-masonry');
+          const cards = Array.from(container.querySelectorAll('.book-card'));
+          const pinned = getPinned();
+          cards.sort((a, b) => {
+              const slugA = a.getAttribute('data-slug');
+              const slugB = b.getAttribute('data-slug');
+              const aPinned = pinned.includes(slugA);
+              const bPinned = pinned.includes(slugB);
+              if (aPinned && !bPinned) return -1;
+              if (!aPinned && bPinned) return 1;
+              return 0;
+          });
+          cards.forEach(card => {
+              const slug = card.getAttribute('data-slug');
+              const btn = card.querySelector('.pin-toggle-btn');
+              if (pinned.includes(slug)) {
+                  card.style.borderColor = 'var(--color-primary)';
+                  card.style.background = 'var(--color-surface-hover, rgba(255,255,255,0.02))';
+                  if(btn) {
+                      btn.style.filter = 'grayscale(0)';
+                      btn.style.opacity = '1';
+                      btn.style.transform = 'scale(1.2)';
+                  }
+              } else {
+                  card.style.borderColor = '';
+                  card.style.background = '';
+                  if(btn) {
+                      btn.style.filter = 'grayscale(1)';
+                      btn.style.opacity = '0.3';
+                      btn.style.transform = 'scale(1)';
+                  }
+              }
+              container.appendChild(card);
+          });
+      }
+      document.addEventListener('DOMContentLoaded', () => {
+          reorderBooks();
+      });
+    </script>
   `;
 
   const aboutContent = `
@@ -321,7 +419,7 @@ async function build() {
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https://img.clerk.com; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev;
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com;
   Cache-Control: no-cache
 `;
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
