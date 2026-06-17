@@ -69,7 +69,7 @@ Writes `output/_headers` to append `X-Robots-Tag: noindex` to gated paths.
 Pushes the output to Cloudflare Pages.
 
 ### Phase H: Post-Deploy SEO Verification
-**Trigger command:** `bash scripts/check-seo-live.sh https://dawnbook.pages.dev` (Assumption: script to be created)
+**Trigger command:** `bash scripts/check-seo-live.sh https://dawnbook.belajarcarabelajar.com`
 Verifies live HTTP headers, `noindex` presence, and canonical tags against the production URL.
 
 ## 5. Subagent Orchestration Model
