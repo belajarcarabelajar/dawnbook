@@ -18,8 +18,10 @@
 }
 
 @media (max-width: 768px) {
-  .menu-title {
+  h1.menu-title, #mdbook-menu-bar .menu-title {
     display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
   }
 }
 

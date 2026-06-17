@@ -8,4 +8,4 @@ title = "Template Book"
 enable = false
 
 [output.html]
-additional-css = ["../shared-header.css"]
+additional-css = ["../shared-header-v3.css"]
