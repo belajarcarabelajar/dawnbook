@@ -25,6 +25,9 @@ async function build() {
   const entries = await readdir(booksDir);
   const builtBooks: { slug: string; title: string; chapterCount: number; emoji: string }[] = [];
 
+  console.log("Synchronizing book configurations from _template...");
+  await $`bun run scripts/sync-template.ts`;
+
   console.log("Checking LaTeX support across all books...");
   await $`bun run scripts/check-latex-support.ts`;
 
