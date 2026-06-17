@@ -68,9 +68,7 @@
 
 @media (min-width: 1024px) {
   .theme-toggle-icon {
-    position: absolute;
-    top: var(--spacing-md);
-    right: var(--spacing-md);
+    /* Position handled by wrapper now */
   }
 }
 
