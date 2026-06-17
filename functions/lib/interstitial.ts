@@ -1,14 +1,20 @@
-export function getInterstitialHtml(originalUrl: string, publishableKey: string): Response {
+import en from "../../i18n/en.json";
+import id from "../../i18n/id.json";
+
+export function getInterstitialHtml(originalUrl: string, publishableKey: string, locale: string = "en"): Response {
+  const catalogs: Record<string, any> = { en, id };
+  const catalog = catalogs[locale] || catalogs.en;
+
   const url = new URL(originalUrl);
   const redirectPath = url.pathname + url.search;
   const signInUrl = `/sign-in?redirect_url=${encodeURIComponent(redirectPath)}`;
 
   const html = `
 <!DOCTYPE html>
-<html>
+<html lang="${locale}">
   <head>
     <meta charset="utf-8">
-    <title>Authenticating...</title>
+    <title>${catalog["interstitial.title"]}</title>
     <style>
       body {
         margin: 0;

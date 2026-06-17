@@ -17,6 +17,7 @@
 
 import { createClerkClient } from "@clerk/backend";
 import { isPublicPath } from "./lib/gating";
+import { resolveLocale, COOKIE_NAME, DEFAULT_LOCALE } from "./lib/i18n";
 
 interface Env {
   CLERK_SECRET_KEY: string;
@@ -118,16 +119,43 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   const url = new URL(request.url);
   const pathname = url.pathname;
 
+  // --- Locale detection and cookie logic ---
+  const cookieHeader = request.headers.get("Cookie") ?? "";
+  const cookies = cookieHeader.split(";").map((c) => c.trim());
+  let cookieValue: string | null = null;
+  for (const cookie of cookies) {
+    if (cookie.startsWith(`${COOKIE_NAME}=`)) {
+      cookieValue = cookie.slice(`${COOKIE_NAME}=`.length).trim();
+      break;
+    }
+  }
+
+  const country = (request.cf?.country as string) || null;
+  const locale = resolveLocale({ cookieValue, country });
+  const needsCookie = !cookieValue;
+
+  // Since we need to append Set-Cookie to the outgoing response, we will wrap next()
+  // and modify the response before returning it.
+  async function nextWithLocale(): Promise<Response> {
+    const response = await next();
+    if (!needsCookie) return response;
+    
+    // Create a new response to allow header modification
+    const newResponse = new Response(response.body, response);
+    newResponse.headers.append("Set-Cookie", `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`);
+    return newResponse;
+  }
+
   // --- Public paths: pass through unchanged ---
   if (isPublicPath(pathname)) {
-    return next();
+    return nextWithLocale();
   }
 
   // --- Gated paths: require Clerk session ---
   // For HTML requests, we rely exclusively on client-side JS gating to prevent
   // infinite loops caused by third-party cookie blocking and strict origin checks.
   if (wantsHtml(request)) {
-    const response = await next();
+    const response = await nextWithLocale();
     return applyGatedCacheHeaders(response);
   }
 
@@ -145,6 +173,6 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   }
 
   // --- Authenticated: serve the gated content with safe cache headers ---
-  const response = await next();
+  const response = await nextWithLocale();
   return applyGatedCacheHeaders(response);
 };
