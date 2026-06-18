@@ -18,7 +18,8 @@ describe("Edge Middleware Auth Gating", () => {
     
     if (response.status === 200) {
       const text = await response.text();
-      expect(text).not.toContain("Secret content");
+      // R6: Edge gating is disabled for SEO, so it WILL contain the content
+      expect(text).toContain("Secret content");
     } else {
       // It will return 302 (redirect to sign-in) for HTML requests, or 401 for API
       expect([302, 401]).toContain(response.status);

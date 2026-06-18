@@ -19,8 +19,12 @@
         document.documentElement.style.visibility = 'hidden';
     }
 
-    var clerkPk = 'pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ';
-    // mdbook doesn't have the meta tag, so we hardcode the fallback but also check
+    var meta = document.querySelector('meta[name="clerk-publishable-key"]');
+    var clerkPk = meta ? meta.getAttribute('content') : '';
+    if (!clerkPk) {
+        console.error('Clerk publishable key missing');
+        return;
+    }
     var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
     while (keyBody.length % 4 !== 0) { keyBody += '='; }
     var domain = atob(keyBody).replace(/\$$/, '');
