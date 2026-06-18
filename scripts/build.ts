@@ -327,6 +327,7 @@ async function build() {
               p.completed_paths.forEach(cp => {
                 let norm = decodeURIComponent(cp).split('#')[0].split('?')[0];
                 if (norm.endsWith('/')) norm += 'index.html';
+                else if (!norm.endsWith('.html')) norm += '.html';
                 if (chapters.includes(norm)) completedCount++;
               });
               percent = Math.round((completedCount / total) * 100);
@@ -334,6 +335,7 @@ async function build() {
               // Legacy fallback
               let readPath = decodeURIComponent(p.last_read_path).split('#')[0].split('?')[0];
               if (readPath.endsWith('/')) readPath += 'index.html';
+              else if (!readPath.endsWith('.html')) readPath += '.html';
               const idx = chapters.findIndex(c => c === readPath);
               if (idx !== -1 && total > 1) {
                 percent = Math.round((idx / (total - 1)) * 100);
