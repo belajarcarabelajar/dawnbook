@@ -49,7 +49,8 @@ async function checkMediaSupport() {
         
         // Flag un-wrapped iframes
         if (mdContent.includes("<iframe") && !mdContent.includes("embed-responsive")) {
-           console.error(`⚠️ [WARN] ${fullPath} contains an <iframe> not wrapped in .embed-responsive class.`);
+           console.warn(`⚠️ [WARN] ${fullPath} contains an <iframe> not wrapped in .embed-responsive class.`);
+           hasErrors = true;
         }
         
         // Flag missing loading="lazy"

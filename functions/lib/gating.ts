@@ -139,6 +139,6 @@ export function isPublicPath(pathname: string): boolean {
     return true;
   }
 
-  // All other book pages are gated content.
-  return false;
+  // R6: All book pages are public at the edge for SEO indexing.
+  return true;
 }
