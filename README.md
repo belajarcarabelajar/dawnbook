@@ -14,6 +14,8 @@ This repository is a "monorepo" hosting a complete end-to-end publishing pipelin
 - **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata and publishing status.
 - **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and anti-FOUC loading fallbacks.
 - **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
+- **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page.
+- **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
 
 ## Prerequisites
 
@@ -36,6 +38,7 @@ To run this platform locally, you need:
    ```env
    CLERK_PUBLISHABLE_KEY=pk_test_...
    CLERK_SECRET_KEY=sk_test_...
+   VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
    CLOUDFLARE_ACCOUNT_ID=...
    CLOUDFLARE_API_TOKEN=...
    ```
@@ -47,7 +50,7 @@ To run this platform locally, you need:
 
 4. **Initialize Local D1 Database (Optional for local testing):**
    ```sh
-   npx wrangler d1 execute dawnbook-db --local --file=db/migrations/0001_init.sql
+   npx wrangler d1 migrations apply dawnbook-db --local
    ```
 
 5. **Run the unified build:**
@@ -94,6 +97,8 @@ bash scripts/check-seo-live.sh https://dawnbook.belajarcarabelajar.com
 We use a strict GitHub-based workflow to ensure quality. Direct pushes to the `main` branch are blocked.
 
 1. **Branch:** Create a feature branch (`git checkout -b add-chapter`).
-2. **Commit:** Save your edits and run `bun run build` locally to verify they compile and pass SEO checks.
+2. **Commit:** Save your edits and verify they work.
+   - Run `bun run build` locally to verify they compile and pass SEO checks.
+   - Run `bun test` to ensure all tests and security gating validations pass.
 3. **Pull Request (PR):** Submit your PR to the main repository. 
 4. **Review & Publish:** Once approved and merged into `main`, a CI deployment workflow automatically publishes the new site to Cloudflare Pages.
