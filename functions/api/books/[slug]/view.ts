@@ -26,15 +26,6 @@ function errorResponse(message: string, status: number): Response {
 export const onRequest: PagesFunction<Env> = async (context) => {
   const { request, env, params } = context;
 
-  if (request.method === "OPTIONS") {
-    return new Response(null, {
-      status: 204,
-      headers: {
-        "Access-Control-Allow-Methods": "POST, OPTIONS",
-        "Access-Control-Allow-Headers": "Content-Type, Authorization",
-      },
-    });
-  }
 
   if (request.method !== "POST") {
     return errorResponse("Method not allowed", 405);
