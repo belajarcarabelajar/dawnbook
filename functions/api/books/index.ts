@@ -6,11 +6,7 @@
  *   POST /api/books     — Create/publish a book (requires Clerk auth)
  */
 
-interface Env {
-  DB: D1Database;
-  CLERK_SECRET_KEY: string;
-  CLERK_PUBLISHABLE_KEY: string;
-}
+import { Env, verifyClerkSession } from "../../lib/auth";
 
 interface BookRow {
   id: string;
@@ -26,125 +22,6 @@ interface PublishPayload {
   bookSlug: string;
   chapterTitle: string;
   markdownContent: string;
-}
-
-/**
- * Verifies a Clerk session JWT from the Authorization header.
- * Returns the decoded payload on success, or null on failure.
- */
-async function verifyClerkSession(
-  request: Request,
-  env: Env
-): Promise<Record<string, unknown> | null> {
-  const authHeader = request.headers.get("Authorization");
-  if (!authHeader || !authHeader.startsWith("Bearer ")) {
-    return null;
-  }
-
-  const token = authHeader.slice(7);
-  if (!token) return null;
-
-  // Fetch Clerk's JWKS to verify the token
-  // Extract the Clerk Frontend API domain from the publishable key
-  const pkParts = env.CLERK_PUBLISHABLE_KEY;
-  let clerkDomain: string;
-
-  try {
-    // Clerk publishable keys encode the Frontend API domain in base64
-    // Format: pk_test_<base64-encoded-domain>$ or pk_live_<base64-encoded-domain>$
-    const keyBody = pkParts.replace(/^pk_(test|live)_/, "").replace(/\$$/, "");
-    clerkDomain = atob(keyBody);
-  } catch {
-    // Fallback: try using the secret key to call Clerk's session verification API
-    return await verifyViaClerkAPI(token, env.CLERK_SECRET_KEY);
-  }
-
-  try {
-    // Verify JWT using Clerk's JWKS endpoint
-    const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
-    const jwksResponse = await fetch(jwksUrl);
-    if (!jwksResponse.ok) {
-      return await verifyViaClerkAPI(token, env.CLERK_SECRET_KEY);
-    }
-
-    const jwks = (await jwksResponse.json()) as { keys: JsonWebKey[] };
-    if (!jwks.keys || jwks.keys.length === 0) {
-      return null;
-    }
-
-    // Decode the JWT header to find the matching key
-    const [headerB64] = token.split(".");
-    const header = JSON.parse(atob(headerB64.replace(/-/g, "+").replace(/_/g, "/")));
-    const matchingKey = jwks.keys.find(
-      (k: any) => k.kid === header.kid && k.alg === header.alg
-    );
-
-    if (!matchingKey) return null;
-
-    // Import the key and verify
-    const cryptoKey = await crypto.subtle.importKey(
-      "jwk",
-      matchingKey,
-      { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
-      false,
-      ["verify"]
-    );
-
-    const [, payloadB64, signatureB64] = token.split(".");
-    const data = new TextEncoder().encode(`${headerB64}.${payloadB64}`);
-    const signature = Uint8Array.from(
-      atob(signatureB64.replace(/-/g, "+").replace(/_/g, "/")),
-      (c) => c.charCodeAt(0)
-    );
-
-    const valid = await crypto.subtle.verify(
-      "RSASSA-PKCS1-v1_5",
-      cryptoKey,
-      signature,
-      data
-    );
-
-    if (!valid) return null;
-
-    // Decode and validate the payload
-    const payload = JSON.parse(
-      atob(payloadB64.replace(/-/g, "+").replace(/_/g, "/"))
-    ) as Record<string, unknown>;
-
-    // Check expiration
-    const now = Math.floor(Date.now() / 1000);
-    if (typeof payload.exp === "number" && payload.exp < now) {
-      return null;
-    }
-
-    return payload;
-  } catch {
-    return null;
-  }
-}
-
-/**
- * Fallback: verify token via Clerk's Backend API.
- */
-async function verifyViaClerkAPI(
-  token: string,
-  secretKey: string
-): Promise<Record<string, unknown> | null> {
-  try {
-    const response = await fetch("https://api.clerk.dev/v1/tokens/verify", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${secretKey}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({ token }),
-    });
-
-    if (!response.ok) return null;
-    return (await response.json()) as Record<string, unknown>;
-  } catch {
-    return null;
-  }
 }
 
 function jsonResponse(data: unknown, status = 200): Response {

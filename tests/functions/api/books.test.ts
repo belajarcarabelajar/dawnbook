@@ -12,9 +12,11 @@ describe("API: /api/books", () => {
 
   test("POST returns 201 with valid JWT", async () => {
     const env = createMockEnv();
+    const payload = Buffer.from(JSON.stringify({ sub: "user_123", exp: 9999999999 })).toString("base64");
+    const validToken = `header.${payload}.sig`;
     const req = mockRequest("https://example.com/api/books", { 
       method: "POST", 
-      headers: { "Authorization": "Bearer valid_token" },
+      headers: { "Authorization": `Bearer ${validToken}` },
       body: JSON.stringify({ bookSlug: "new-book", chapterTitle: "New Book", markdownContent: "Content" })
     });
     
