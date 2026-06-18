@@ -112,13 +112,13 @@ cp -r books/_template books/<slug>
 **Trigger:** No shell command; authoring phase executed by AuthoringAgent.
 
 **What happens:**
-1. Update `books/<slug>/book.toml` — clone of `books/_template/book.toml` with `title` and `authors` replaced. The `additional-css` and `additional-js` directives referencing `books/shared-header-v3.css` and `books/shared-script-v3.js` **must** be preserved.
+1. Update `books/<slug>/book.toml` — clone of `books/_template/book.toml` with `title` and `authors` replaced. Any custom book configuration like `[preprocessor.dawnbook]` MUST be placed before `[output.html.print]` to prevent it from being overwritten by `sync-template.ts`. The `additional-css` and `additional-js` directives referencing `books/shared-header-v3.css` and `books/shared-script-v3.js` **must** be preserved.
 2. Write `books/<slug>/icon.txt` containing a single emoji character.
 3. Write chapter files as `books/<slug>/src/content/<NN>_<name>.md` — filenames begin with zero-padded two-digit number.
 4. Update `books/<slug>/src/SUMMARY.md` with chapter links using real extracted headings. No emoji. Plain text only.
 5. First chapter in `SUMMARY.md` **must** have a filename beginning with `01` (public preview gating).
 
-**Success gate:** `book.toml` contains `title = "..."` and `mathjax-support = true`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`.
+**Success gate:** `book.toml` contains `title = "..."`, `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`.
 
 ---
 
@@ -145,11 +145,11 @@ bun run scripts/check-latex-support.ts
 bun run scripts/check-media-support.ts
 ```
 
-**What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (verifying `mathjax-support = true`), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and warning on unformatted multi-letter variables). Exits 1 on failure.
+**What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (verifying `mathjax-support = true`), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and failing on unformatted multi-letter variables). Exits 1 on failure or warning.
 
-**What `check-media-support.ts` does:** Verifies `books/shared-header-v3.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Warns on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error.
+**What `check-media-support.ts` does:** Verifies `books/shared-header-v3.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Fails on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error or warning.
 
-**Success gate:** Both scripts exit code 0.
+**Success gate:** Both scripts exit code 0. Zero `[WARN]` or `[FAIL]` emitted. Any warnings will cause the scripts to exit 1 and block the pipeline.
 
 **Failure/rollback:** Phase E must not start. AuthoringAgent re-activated to fix content issues.
 
@@ -303,7 +303,7 @@ OrchestratorAgent
 | **Allowed file scope** | Write: `books/<slug>/book.toml`, `books/<slug>/icon.txt`, `books/<slug>/src/SUMMARY.md`, `books/<slug>/src/content/*.md` |
 | **Allowed commands** | File read/write tools only. No shell execution. |
 | **Output artifact** | All book source files populated with real content. |
-| **Success gate** | `book.toml` contains `mathjax-support = true`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. |
+| **Success gate** | `book.toml` contains `mathjax-support = true` and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. |
 | **Failure/rollback** | Report which success gate was not met. OrchestratorAgent re-invokes with corrected inputs. |
 
 ### 4.4 ValidationAgent
@@ -315,7 +315,7 @@ OrchestratorAgent
 | **Allowed file scope** | Read: `books/<slug>/**`, `books/*/book.toml`, `books/shared-header-v3.css`, `scripts/build.ts`, `scripts/check-latex-support.ts`, `scripts/check-media-support.ts` |
 | **Allowed commands** | Slug regex check; `bun run scripts/check-latex-support.ts`; `bun run scripts/check-media-support.ts` |
 | **Output artifact** | Validation report (pass/fail per check with error messages). |
-| **Success gate** | Slug matches regex. Both check scripts exit code 0. |
+| **Success gate** | Slug matches regex. Both check scripts exit code 0. Zero warnings allowed. |
 | **Failure/rollback** | Report exact failures to OrchestratorAgent. AuthoringAgent re-activated. Pipeline halts. |
 
 ### 4.5 BuildAgent
@@ -627,7 +627,7 @@ OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Eac
 
 - **Rule 7.7.1 — Pronoun Rule:** Formal "Anda" is forbidden. Replace all with "kamu".
 - **Rule 7.7.2 — LaTeX Rule:** Raw LaTeX MUST be converted to `\\( ... \\)` for inline and `\\[ ... \\]` (or `$$ ... $$`) for block math. You MUST use double backslashes so markdown parsers don't swallow them. *(Cross-ref: R10)*
-- **Rule 7.7.3 — Humanization Rule:** Avoid AI cliches ("krusial", "signifikan", "komprehensif", "bukan sekadar X melainkan Y"). Avoid symmetrical bullet lists. Avoid "Sandwich" paragraph structure.
+- **Rule 7.7.3 — Humanization Rule:** Avoid AI cliches ("krusial", "signifikan", "komprehensif", "bukan sekadar X melainkan Y"). Avoid symmetrical bullet lists. Avoid "Sandwich" paragraph structure. **STRICTLY FORBIDDEN:** The phrase/pattern "*Think about this:*" or "*Pikirkan ini:*". Do not use repetitive rhetorical reflection prompts at the end of sections.
 - **Rule 7.7.4 — Read File First Rule:** AGENTS WAJIB READ FILE FIRST ALL. Agents must read and analyze the entire file completely before processing to ensure no raw LaTeX formatting (including unformatted multi-letter variables) or structural context is missed.
 
 **7.8 Fallback / Anti-Stuck Rule (Original Phase 4)**
@@ -651,6 +651,7 @@ Run this checklist before declaring a new book deployment "complete". Every item
 ```
 [ ] Phase A: books/<slug>/ exists. book.toml exists. src/SUMMARY.md exists.
 [ ] Phase B: book.toml contains 'mathjax-support = true'.
+[ ] Phase B: book.toml contains '[preprocessor.dawnbook]' and a valid 'subject_label'.
 [ ] Phase B: book.toml contains 'additional-css' and 'additional-js' referencing shared assets.
 [ ] Phase B: SUMMARY.md has at least one '- [' line.
 [ ] Phase B: SUMMARY.md contains no emoji characters.
@@ -716,7 +717,7 @@ Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secre
             Without these, the CI deploy step will fail.
 
 ## 10. Core Metadata and Gating Rules
-- **Subject Labels**: Must be defined in each book's `book.toml` as `subject_label = "..."` under the `[preprocessor.dawnbook]` section (along with `optional = true`). The value MUST strictly match an entry from `data/subject-labels.json`. This is parsed by `scripts/migrate-to-d1.ts` to hydrate the D1 `books` table, and the Hub pulls it dynamically via `/api/books?content=false` to support category filtering.
+- **Subject Labels**: Must be defined in each book's `book.toml` as `subject_label = "..."` under the `[preprocessor.dawnbook]` section (along with `optional = true`). **CRITICAL: This `[preprocessor.dawnbook]` block MUST be placed at the top of the file, directly underneath the `[book]` block and BEFORE `[output.html.print]`.** Otherwise, it will be wiped out by `scripts/sync-template.ts` during the build phase. The value MUST strictly match an entry from `data/subject-labels.json`. This is parsed by `scripts/migrate-to-d1.ts` to hydrate the D1 `books` table, and the Hub pulls it dynamically via `/api/books?content=false` to support category filtering.
 - **View Count**: Tracked progressively via `POST /api/books/[slug]/view` and shown dynamically on the Hub to support 'Popular' sorting.
 - **Dynamic Gating**: `functions/lib/gating.ts` considers `index.html` as the ONLY free chapter by default (mdbook maps the first chapter to index.html automatically). NEVER hardcode chapter filenames in `gating.ts`.
 - **Path Gating Constraints**: `isPublicPath` must NOT contain `/admin/`. The edge middleware protects `/admin` routes.

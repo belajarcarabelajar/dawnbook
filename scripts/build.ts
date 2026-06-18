@@ -668,4 +668,7 @@ async function build() {
   console.log("Premium Hub site generated successfully.");
 }
 
-build().catch(console.error);
+build().catch(err => {
+  console.error(err);
+  process.exit(1);
+});

@@ -84,6 +84,7 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
       const multiLetter = checkMultiLetterVariables(math);
       if (multiLetter) {
         console.warn(`⚠️ [WARN] ${bookName}/${basename(filePath)}: Line ${idx + 1} has potential unformatted multi-letter variable(s) "${multiLetter.join(', ')}" in inline math: \\(${math}\\)`);
+        hasErrors = true;
       }
     }
   });
@@ -105,6 +106,7 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const multiLetter = checkMultiLetterVariables(math);
     if (multiLetter) {
       console.warn(`⚠️ [WARN] ${bookName}/${basename(filePath)}: Line ${lineNum} has potential unformatted multi-letter variable(s) "${multiLetter.join(', ')}" in block math: \\[${math}\\]`);
+      hasErrors = true;
     }
   }
 
@@ -124,6 +126,7 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const multiLetter = checkMultiLetterVariables(math);
     if (multiLetter) {
       console.warn(`⚠️ [WARN] ${bookName}/${basename(filePath)}: Line ${lineNum} has potential unformatted multi-letter variable(s) "${multiLetter.join(', ')}" in block math: $$${math}$$`);
+      hasErrors = true;
     }
   }
 

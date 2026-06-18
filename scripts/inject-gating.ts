@@ -3,14 +3,19 @@ import { join } from "node:path";
 
 import { isPublicPath } from "../functions/lib/gating.ts";
 
-async function processDirectory(dir: string, baseSlug: string = "") {
+async function processDirectory(dir: string, baseSlug: string = "", manifestData: any = null) {
+  if (!manifestData) {
+    const manifestRaw = await readFile(join(process.cwd(), "output/manifest.json"), "utf8");
+    manifestData = JSON.parse(manifestRaw);
+  }
+
   const entries = await readdir(dir);
   for (const entry of entries) {
     const fullPath = join(dir, entry);
     const entryStat = await stat(fullPath);
     if (entryStat.isDirectory()) {
       const slug = baseSlug || entry;
-      await processDirectory(fullPath, slug);
+      await processDirectory(fullPath, slug, manifestData);
     } else if (fullPath.endsWith(".html")) {
       let content = await readFile(fullPath, "utf-8");
 
@@ -45,9 +50,24 @@ async function processDirectory(dir: string, baseSlug: string = "") {
         content = content.replace("</head>", seoTags + "\n</head>");
       }
 
-      const isPublic = isPublicPath(relativePath);
+      let isGatedClientSide = false;
+      const bookMatch = relativePath.match(/^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/);
+      if (bookMatch) {
+        const slug = bookMatch[1];
+        const page = decodeURIComponent(bookMatch[2] ?? "");
+        if (page !== "" && page !== "index.html" && page !== "toc.html" && page !== "404.html" && page !== "print.html") {
+          const bookChapters = manifestData.chapters[slug] || [];
+          const firstChapterPath = bookChapters[0] || `/books/${slug}/index.html`;
 
-      if (!isPublic) {
+          const decodedFirstChapter = decodeURIComponent(firstChapterPath);
+          const decodedCurrent = decodeURIComponent(relativePath);
+          if (decodedCurrent !== decodedFirstChapter && decodedCurrent !== `/books/${slug}/index.html`) {
+            isGatedClientSide = true;
+          }
+        }
+      }
+
+      if (isGatedClientSide) {
         // Inject head script to prevent FOUC with dynamic SEO-first gating
         const script = `
         <script>
