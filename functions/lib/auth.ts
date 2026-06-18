@@ -64,9 +64,8 @@ export async function verifyClerkSession(
 
   if (!token) return null;
 
-  const pk =
-    env.CLERK_PUBLISHABLE_KEY ||
-    "pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ";
+  const pk = env.CLERK_PUBLISHABLE_KEY;
+  if (!pk) return null;
 
   // --- Attempt 1: Local JWKS verification ---
   try {

@@ -13,7 +13,7 @@ export const mockD1Database = {
 export const createMockEnv = () => ({
   DB: mockD1Database,
   CLERK_SECRET_KEY: "test_secret_key",
-  CLERK_PUBLISHABLE_KEY: "pk_test_Y2xlcmsuYXBwLmRldiQ="
+  CLERK_PUBLISHABLE_KEY: "pk_test_placeholder"
 });
 
 export const mockRequest = (url: string, init?: RequestInit, country?: string) => {

@@ -13,6 +13,11 @@ function escapeHtml(unsafe: string) {
 }
 
 async function build() {
+  if (!process.env.VITE_CLERK_PUBLISHABLE_KEY) {
+    console.error("❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.");
+    process.exit(1);
+  }
+
   const rootDir = process.cwd();
   const booksDir = join(rootDir, "books");
   const outputDir = join(rootDir, "output");
@@ -122,7 +127,7 @@ async function build() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
-    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || "pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ"}">
+    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY}">
     <title>${title} | Dawnbook Platform</title>
     <link rel="icon" type="image/svg+xml" href="${isHome ? 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>' : 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>'}">
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
@@ -470,7 +475,7 @@ async function build() {
       }
 
       function initClerk() {
-        var clerkPk = '${process.env.VITE_CLERK_PUBLISHABLE_KEY || "pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ"}';
+        var clerkPk = '${process.env.VITE_CLERK_PUBLISHABLE_KEY}';
         var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
         while (keyBody.length % 4 !== 0) { keyBody += '='; }
         var domain = atob(keyBody).replace(/\\$$/, '');
