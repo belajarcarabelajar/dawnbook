@@ -29,6 +29,7 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       
       // Inject SEO metadata
       const seoTags = `
+        <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}" />
         <link rel="canonical" href="${url}" />
         <link rel="alternate" hreflang="en" href="${url}" />
         <link rel="alternate" hreflang="id" href="${url}" />

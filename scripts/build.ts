@@ -3,6 +3,16 @@ import { join, resolve } from "node:path";
 import { $ } from "bun";
 import { isPublicPath } from "../functions/lib/gating.ts";
 
+try {
+  const envContent = await readFile(join(process.cwd(), "apps/admin/.env.local"), "utf8");
+  envContent.split("\n").forEach(line => {
+    const match = line.match(/^([^=]+)=(.*)$/);
+    if (match) process.env[match[1]] = match[2].trim();
+  });
+} catch (e) {
+  // Silent fail if .env.local doesn't exist
+}
+
 function escapeHtml(unsafe: string) {
     return unsafe
          .replace(/&/g, "&amp;")
