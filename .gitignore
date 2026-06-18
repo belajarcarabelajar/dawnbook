@@ -17,3 +17,4 @@ wrangler.toml.bak
 .agents/
 skills-lock.json
 test-clerk.js
+MDBOOK_SYSTEM_RULES.md
