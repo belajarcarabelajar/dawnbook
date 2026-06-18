@@ -1,9 +1,10 @@
-INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   'piaget',
   'piaget',
   'Teori Perkembangan Kognitif Piaget',
   'published',
+  'Psikologi',
   '<!-- Chapter: Ekuilibrasi Dinamika Keseimbangan Berpikir -->
 
 ## Ekuilibrasi: Dinamika Keseimbangan Berpikir
@@ -1061,21 +1062,23 @@ Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 Pernah melihat bayi terus-terusan menjatuhkan mainan dari kursi makan meski sudah kamu ambil berkali-kali? Dia tidak sedang rewel atau nakal. Dia sedang melakukan eksperimen gravitasi dan jarak (Reaksi Sirkular Tersier). 
 
 Pemahaman dasar bahwa objek itu nyata dan permanen menjadi syarat wajib sebelum anak siap belajar bahasa dan simbol abstrak.',
-  '2026-06-17T20:26:47.293Z',
-  '2026-06-17T20:26:47.293Z'
+  '2026-06-18T05:49:53.899Z',
+  '2026-06-18T05:49:53.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
   status = excluded.status,
+  subject_label = excluded.subject_label,
   content_md = excluded.content_md,
   updated_at = excluded.updated_at;
 
-INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   'digital-minimalisme',
   'digital-minimalisme',
   'Digital Minimalisme',
   'published',
+  'Ilmu Komunikasi',
   '<!-- Chapter: 01_pendahuluan-digital-minimalisme-mengambil-kendali- -->
 
 ## Pendahuluan Digital Minimalisme: Mengambil Kendali di Dunia yang Berisik
@@ -1918,21 +1921,23 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-06-17T20:26:47.293Z',
-  '2026-06-17T20:26:47.293Z'
+  '2026-06-18T05:49:53.899Z',
+  '2026-06-18T05:49:53.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
   status = excluded.status,
+  subject_label = excluded.subject_label,
   content_md = excluded.content_md,
   updated_at = excluded.updated_at;
 
-INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   'neuroplastisitas-dalam-belajar',
   'neuroplastisitas-dalam-belajar',
   'Neuroplastisitas dalam Belajar',
   'published',
+  'Psikologi',
   '<!-- Chapter: 01_pengantar-neuroplastisitas-keajaiban-otak-yang-ter -->
 
 ## Pengantar Neuroplastisitas: Keajaiban Otak yang Terus Berubah
@@ -3103,21 +3108,23 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-06-17T20:26:47.293Z',
-  '2026-06-17T20:26:47.293Z'
+  '2026-06-18T05:49:53.899Z',
+  '2026-06-18T05:49:53.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
   status = excluded.status,
+  subject_label = excluded.subject_label,
   content_md = excluded.content_md,
   updated_at = excluded.updated_at;
 
-INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   'metakognisi',
   'metakognisi',
   'Metakognisi: Belajar Bagaimana Belajar',
   'published',
+  'Psikologi',
   '<!-- Chapter: intro -->
 
 ## Pengantar Metakognisi: Mengenal Konsep "Belajar Cara Belajar"
@@ -4202,11 +4209,12 @@ Ada beberapa pendekatan nyata yang bisa langsung kamu coba untuk melatih kemampu
 - Coba terapkan teknik Pomodoro (fokus penuh selama 25 menit, diselingi istirahat 5 menit) supaya otak punya jeda untuk memproses informasi tanpa keburu lelah.
 - Rapikan meja sebelum memulai dan pastikan lampu cukup terang. Ruangan yang berantakan diam-diam membebani beban kognitif.
 - Kalau tiba-tiba muncul rasa cemas luar biasa jelang ujian, coba ubah sudut pandangmu. Anggap saja detak jantung yang kencang itu sebagai pertanda bahwa tubuhmu sedang memompa energi agar lebih siap menghadapi soal.',
-  '2026-06-17T20:26:47.293Z',
-  '2026-06-17T20:26:47.293Z'
+  '2026-06-18T05:49:53.899Z',
+  '2026-06-18T05:49:53.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
   status = excluded.status,
+  subject_label = excluded.subject_label,
   content_md = excluded.content_md,
   updated_at = excluded.updated_at;
