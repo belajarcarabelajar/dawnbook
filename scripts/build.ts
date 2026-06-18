@@ -380,6 +380,16 @@ async function build() {
                             if (subjectChip && b.subject_label) {
                                 subjectChip.innerText = b.subject_label;
                                 subjectChip.style.display = 'inline-block';
+                                subjectChip.style.cursor = 'pointer';
+                                subjectChip.onclick = (e) => {
+                                    e.preventDefault();
+                                    e.stopPropagation();
+                                    const filter = document.getElementById('subject-filter');
+                                    if (filter) {
+                                        filter.value = b.subject_label;
+                                        reorderBooks();
+                                    }
+                                };
                             }
                         }
                     });
