@@ -38,9 +38,14 @@ Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan men
 
 Inti dari Ikigai terletak di titik tengah yang mempertemukan keempat pilar tersebut secara selaras:
 
-\\[
-\text{Ikigai} = \text{(Apa yang kamu Cintai)} \cap \text{(Apa yang kamu Kuasai)} \cap \text{(Apa yang Dibutuhkan Dunia)} \cap \text{(Apa yang Dapat Menghasilkan Uang)}
-\\]
+\[
+\begin{aligned}
+\text{Ikigai} &= \text{(Apa yang kamu Cintai)} \\
+&\quad \cap \text{(Apa yang kamu Kuasai)} \\
+&\quad \cap \text{(Apa yang Dibutuhkan Dunia)} \\
+&\quad \cap \text{(Apa yang Dapat Menghasilkan Uang)}
+\end{aligned}
+\]
 
 Menemukan Ikigai berarti kamu bisa menikmati setiap momen karena aktivitasnya sejalan dengan *passion*. Kamu merasa percaya diri lantaran menggunakan keterampilan terbaik. Kamu juga sadar bahwa pekerjaanmu membawa dampak positif bagi dunia yang lebih luas, dan pada saat bersamaan, kamu mampu berkembang secara finansial. 
 
