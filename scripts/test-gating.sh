@@ -21,6 +21,15 @@ PASS=0
 FAIL=0
 TOTAL=0
 
+# Check if BASE_URL is accessible
+if ! curl -s -o /dev/null --connect-timeout 2 "$BASE_URL"; then
+  echo -e "\033[0;31m❌ Error: Cannot connect to $BASE_URL\033[0m"
+  echo "If 'wrangler pages dev' local server is hanging or unavailable,"
+  echo "deploy to a preview branch and run:"
+  echo "  $0 https://preview-branch.dawnbook.pages.dev"
+  exit 1
+fi
+
 # Colors
 RED='\033[0;31m'
 GREEN='\033[0;32m'

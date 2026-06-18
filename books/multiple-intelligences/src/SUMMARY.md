@@ -1,0 +1,17 @@
+# Summary
+
+- [Fondasi Teori Kecerdasan Majemuk](content/01_fondasi-teori-kecerdasan-majemuk.md)
+- [Kecerdasan Linguistik: Kekuatan Kata-kata](content/02_kecerdasan-linguistik.md)
+- [Kecerdasan Logis-Matematis: Sang Arsitek Pola dan Nalar](content/03_kecerdasan-logis-matematis.md)
+- [Kecerdasan Spasial: Visualisasi Tanpa Batas](content/04_kecerdasan-spasial.md)
+- [Kecerdasan Kinestetik-Jasmani: Keahlian Gerak](content/05_kecerdasan-kinestetik-jasmani.md)
+- [Kecerdasan Musikal: Irama dan Harmoni](content/06_kecerdasan-musikal.md)
+- [Kecerdasan Interpersonal: Seni Berinteraksi](content/07_kecerdasan-interpersonal.md)
+- [Kecerdasan Intrapersonal: Memahami Diri Sendiri](content/08_kecerdasan-intrapersonal.md)
+- [Kecerdasan Naturalis: Koneksi dengan Alam](content/09_kecerdasan-naturalis.md)
+- [Kecerdasan Eksistensial: Menjelajahi Makna](content/10_kecerdasan-eksistensial.md)
+- [Implementasi Teori Kecerdasan Majemuk](content/11_implementasi-teori-kecerdasan-majemuk.md)
+- [Kritik, Evaluasi, dan Masa Depan Teori Kecerdasan Majemuk](content/12_kritik-evaluasi-masa-depan.md)
+- [Melihat Kacamata Kritis dari Para Ilmuwan](content/13_melihat-kacamata-kritis.md)
+- [Strategi Mengembangkan Berbagai Kecerdasan: Menuju Potensi Diri yang Utuh](content/14_strategi-mengembangkan.md)
+- [Referensi](content/15_referensi.md)
