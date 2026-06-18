@@ -76,7 +76,7 @@ Daripada buru-buru nulis rumus abstrak di papan tulis, lebih efektif pakai **ban
 Kalau di dunia tekno, bahasa pemrograman visual kayak **Scratch** itu cocok banget. Anak nggak disuruh ngetik deretan teks kode yang ruwet. Mereka tinggal nyusun "blok-blok" logika yang kelihatan bentuknya dan bisa digeser-geser.
 
 ```python
-# Logika sebab-akibat yang gampang dipahami anak:
+## Logika sebab-akibat yang gampang dipahami anak:
 jika_disentuh_bola:
     tambah_skor(1)
     mainkan_bunyi("hore")

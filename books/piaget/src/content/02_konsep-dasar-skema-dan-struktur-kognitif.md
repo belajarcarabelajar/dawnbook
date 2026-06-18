@@ -1,4 +1,4 @@
-# Konsep Dasar: Skema dan Struktur Kognitif
+## Konsep Dasar: Skema dan Struktur Kognitif
 
 Teori Jean Piaget bertumpu pada satu pertanyaan mendasar: bagaimana anak-anak memproses dunia di sekitar mereka? Jawabannya ada pada "perangkat lunak" mental bernama skema. Kumpulan skema ini nantinya membentuk struktur kognitif yang lebih utuh.
 

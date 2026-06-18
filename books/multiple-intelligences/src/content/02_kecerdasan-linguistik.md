@@ -1,4 +1,4 @@
-# Kecerdasan Linguistik: Kekuatan Kata-kata
+## Kecerdasan Linguistik: Kekuatan Kata-kata
 
 Eksplorasi kita masuk ke salah satu dimensi kecerdasan manusia yang paling menonjol. Kalau kamu pernah terpesona oleh pidato yang membakar semangat, terhanyut dalam narasi novel, atau merasa puas setelah menemukan kata yang paling pas untuk menggambarkan perasaanmu, artinya kamu sedang bersentuhan dengan kecerdasan linguistik.
 

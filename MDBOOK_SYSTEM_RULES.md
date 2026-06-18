@@ -120,7 +120,7 @@ cp -r books/_template books/<slug>
 6. **Orphan Cleanup:** Explicitly delete `books/<slug>/src/introduction.md` if it was carried over from the template directory.
 7. **Header Level Rule:** Chapter markdown files MUST begin with `##` (H2) instead of `#` (H1). mdBook automatically generates an H1 title from `SUMMARY.md`; using `#` inside the chapter creates duplicate/nested H1 tags that ruin UI alignment and SEO.
 
-**Success gate:** `book.toml` contains `title = "..."`, `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`.
+**Success gate:** `book.toml` contains `title = "..."`, `language = "id"` (**not "en"**), `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`. All chapter `.md` files are inside `src/content/` (NOT in `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/` (zero-padded number + underscore + lowercase kebab-case). All chapter files open with `##` heading (H2), never `#` (H1). `src/introduction.md` does NOT exist.
 
 ---
 
@@ -305,7 +305,7 @@ OrchestratorAgent
 | **Allowed file scope** | Write: `books/<slug>/book.toml`, `books/<slug>/icon.txt`, `books/<slug>/src/SUMMARY.md`, `books/<slug>/src/content/*.md` |
 | **Allowed commands** | File read/write tools only. No shell execution. |
 | **Output artifact** | All book source files populated with real content. |
-| **Success gate** | `book.toml` contains `mathjax-support = true` and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. |
+| **Success gate** | `book.toml` contains `mathjax-support = true`, `language = "id"`, and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. All chapter files are in `src/content/` (NOT `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/`. All chapters open with `##` (H2), not `#` (H1). `src/introduction.md` deleted. |
 | **Failure/rollback** | Report which success gate was not met. OrchestratorAgent re-invokes with corrected inputs. |
 
 ### 4.4 ValidationAgent
@@ -654,9 +654,14 @@ Run this checklist before declaring a new book deployment "complete". Every item
 
 ```
 [ ] Phase A: books/<slug>/ exists. book.toml exists. src/SUMMARY.md exists.
+[ ] Phase B: book.toml contains 'language = "id"' (NOT "en"). ⚠ Template defaults to "en" — must be overridden.
 [ ] Phase B: book.toml contains 'mathjax-support = true'.
 [ ] Phase B: book.toml contains '[preprocessor.dawnbook]' and a valid 'subject_label'.
 [ ] Phase B: book.toml contains 'additional-css' and 'additional-js' referencing shared assets.
+[ ] Phase B: Chapter files are inside src/content/ — NOT in src/ root.
+[ ] Phase B: All chapter filenames match /^\d{2}_[a-z0-9][a-z0-9-]*\.md$/ (kebab-case, no uppercase, no spaces).
+[ ] Phase B: All chapter files open with '## ' (H2), NOT '# ' (H1). mdBook auto-generates H1 from SUMMARY.md.
+[ ] Phase B: src/introduction.md has been DELETED (not inherited from template).
 [ ] Phase B: SUMMARY.md has at least one '- [' line.
 [ ] Phase B: SUMMARY.md contains no emoji characters.
 [ ] Phase B: First entry in SUMMARY.md targets a file beginning with '01'.

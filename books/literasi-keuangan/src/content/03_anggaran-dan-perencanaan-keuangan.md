@@ -1,4 +1,4 @@
-# Anggaran dan Perencanaan Keuangan
+## Anggaran dan Perencanaan Keuangan
 
 Selamat datang di materi utama perjalanan keuangan kamu. Di sini, kamu akan belajar tentang anggaran dan perencanaan keuangan untuk mengelola uang secara efektif.
 

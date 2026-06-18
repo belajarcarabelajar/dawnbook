@@ -90,7 +90,7 @@ def check_connection(router_status, isp_status):
     else:
         return "Koneksi normal, cek perangkat user"
 
-# Remaja operasional formal bisa mensimulasikan percabangan logika (if-else) ini di kepala mereka sebelum mulai bertindak.
+## Remaja operasional formal bisa mensimulasikan percabangan logika (if-else) ini di kepala mereka sebelum mulai bertindak.
 ```
 
 ## 6\. Sisi Lain: Egosentrisme Remaja

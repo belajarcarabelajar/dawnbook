@@ -1,4 +1,4 @@
-# Kecerdasan Interpersonal: Seni Berinteraksi
+## Kecerdasan Interpersonal: Seni Berinteraksi
 
 Bayangkan kamu berada dalam sebuah ruangan yang penuh dengan orang-orang yang sedang berdebat panas. Di tengah kekacauan itu, ada satu orang yang mampu masuk, mendengarkan tanpa memotong, membaca bahasa tubuh setiap individu, dan dalam beberapa menit berhasil meredakan ketegangan serta membuat semua orang setuju pada sebuah solusi. Orang tersebut tidak berhenti pada kepandaian merangkai kata. Ia sebenarnya sedang mempraktikkan kecerdasan interpersonal yang tinggi.
 
@@ -45,7 +45,7 @@ Hal serupa berlaku di bidang pendidikan. Guru yang efektif menggunakan sensitivi
 Bagi kamu yang terbiasa berpikir prosedural, dinamika ini bisa dibayangkan layaknya sistem logika percabangan yang berjalan otomatis.
 
 ```python
-# Simulasi Logika Interpersonal dalam Konflik
+## Simulasi Logika Interpersonal dalam Konflik
 def respon_sosial(status_emosi_lawan, intensitas_argumen):
     if status_emosi_lawan == "Marah":
         if intensitas_argumen > 8:
@@ -57,7 +57,7 @@ def respon_sosial(status_emosi_lawan, intensitas_argumen):
     else:
         return "Lanjutkan komunikasi terbuka."
 
-# Output untuk skenario emosi tinggi
+## Output untuk skenario emosi tinggi
 print(respon_sosial("Marah", 9))
 ```
 

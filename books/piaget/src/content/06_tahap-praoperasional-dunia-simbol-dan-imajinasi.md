@@ -59,7 +59,7 @@ Bayangkan dua gelas identik (A dan B) berisi jumlah air yang sama.
 Kalau diibaratkan kode program, pikiran anak di tahap ini punya fungsi yang masih *hardcoded* dari tampilan visual yang langsung mereka lihat. Belum ada fitur *undo*.
 
 ```python
-# Logika Berpikir Anak (Tahap Praoperasional)
+## Logika Berpikir Anak (Tahap Praoperasional)
 def cek_volume(wadah_A, wadah_C):
     # Anak hanya melakukan centration (fokus pada tinggi)
     if wadah_C.tinggi > wadah_A.tinggi:
@@ -67,8 +67,8 @@ def cek_volume(wadah_A, wadah_C):
     else:
         return "Sama saja."
 
-# Mereka mengabaikan variabel wadah.lebar
-# Mereka tidak memiliki fungsi: reverse_action()
+## Mereka mengabaikan variabel wadah.lebar
+## Mereka tidak memiliki fungsi: reverse_action()
 ```
 
 ## 5\. Aplikasi Praktis: Berinteraksi dengan Anak Praoperasional

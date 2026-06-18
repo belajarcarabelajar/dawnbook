@@ -1,4 +1,4 @@
-# Perencanaan Pensiun
+## Perencanaan Pensiun
 
 Perencanaan pensiun adalah langkah awal menuju kebebasan finansial. Pilar ini sering diabaikan, padahal memiliki peran penentu untuk kenyamanan hidup kamu di masa tua. Bagian ini akan membahas mengapa kamu harus mulai bersiap sejak sekarang. Kita akan membedah cara menghitung kebutuhan dana pensiun, instrumen yang tepat, serta strategi investasi jangka panjang yang aman.
 

@@ -1,4 +1,4 @@
-# Menabung dan Berinvestasi
+## Menabung dan Berinvestasi
 
 Memahami perbedaan antara menabung dan berinvestasi adalah fondasi awal dalam merencanakan keuangan. Keduanya punya peran spesifik untuk menjaga stabilitas finansial dan membantu kamu mencapai berbagai tujuan di masa depan. Menabung lebih fokus pada keamanan uang untuk keperluan jangka pendek, sementara investasi bertujuan menumbuhkan nilai aset jangka panjang guna melawan inflasi.
 

@@ -1,4 +1,4 @@
-# Pentingnya Kredit dan Skor Kredit
+## Pentingnya Kredit dan Skor Kredit
 
 Memahami dunia kredit dan skor kredit adalah langkah dasar dalam literasi keuangan. Fasilitas ini adalah cermin tingkat kepercayaan bank atau pihak pemberi pinjaman kepada kamu. Di Indonesia, pemahaman tentang aturan main utang sangat penting karena akan berdampak panjang pada kemudahan akses berbagai layanan perbankan.
 
