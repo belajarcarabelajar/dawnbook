@@ -222,6 +222,7 @@ async function build() {
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
     
     <div class="book-filters" style="display: flex; gap: 12px; margin-bottom: var(--spacing-lg); flex-wrap: wrap;">
+        <input type="text" id="search-input" placeholder="Search by title..." style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); flex: 1; min-width: 200px;">
         <select id="subject-filter" style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); min-width: 200px;">
             <option value="">All Subjects</option>
         </select>
@@ -290,13 +291,19 @@ async function build() {
           const pinned = getPinned();
           const sortVal = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'newest';
           const filterVal = document.getElementById('subject-filter') ? document.getElementById('subject-filter').value : '';
+          const searchVal = document.getElementById('search-input') ? document.getElementById('search-input').value.toLowerCase() : '';
 
           cards.forEach(card => {
               const slug = card.getAttribute('data-slug');
               const bData = serverBooksData.find(b => b.slug === slug);
               const cardSubject = bData && bData.subject_label ? bData.subject_label : '';
+              const titleText = card.querySelector('h3').innerText.toLowerCase();
               
-              if (filterVal && cardSubject !== filterVal) {
+              let visible = true;
+              if (filterVal && cardSubject !== filterVal) visible = false;
+              if (searchVal && !titleText.includes(searchVal)) visible = false;
+
+              if (!visible) {
                   card.style.display = 'none';
               } else {
                   card.style.display = 'flex';
@@ -389,6 +396,10 @@ async function build() {
                     const sortSelect = document.getElementById('sort-select');
                     if (sortSelect) {
                         sortSelect.addEventListener('change', reorderBooks);
+                    }
+                    const searchInput = document.getElementById('search-input');
+                    if (searchInput) {
+                        searchInput.addEventListener('input', reorderBooks);
                     }
                     reorderBooks();
                 }

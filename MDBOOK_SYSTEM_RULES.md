@@ -716,7 +716,7 @@ Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secre
             Without these, the CI deploy step will fail.
 
 ## 10. Core Metadata and Gating Rules
-- **Subject Labels**: Must be defined in each book's `book.toml` as `subject_label = "..."` under the `[book]` section. The value MUST strictly match an entry from `data/subject-labels.json`. This is parsed by `scripts/migrate-to-d1.ts` to hydrate the D1 `books` table, and the Hub pulls it dynamically via `/api/books?content=false` to support category filtering.
+- **Subject Labels**: Must be defined in each book's `book.toml` as `subject_label = "..."` under the `[preprocessor.dawnbook]` section (along with `optional = true`). The value MUST strictly match an entry from `data/subject-labels.json`. This is parsed by `scripts/migrate-to-d1.ts` to hydrate the D1 `books` table, and the Hub pulls it dynamically via `/api/books?content=false` to support category filtering.
 - **View Count**: Tracked progressively via `POST /api/books/[slug]/view` and shown dynamically on the Hub to support 'Popular' sorting.
 - **Dynamic Gating**: `functions/lib/gating.ts` considers `index.html` as the ONLY free chapter by default (mdbook maps the first chapter to index.html automatically). NEVER hardcode chapter filenames in `gating.ts`.
 - **Path Gating Constraints**: `isPublicPath` must NOT contain `/admin/`. The edge middleware protects `/admin` routes.

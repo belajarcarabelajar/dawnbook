@@ -3,6 +3,9 @@ authors = ["AI"]
 language = "id"
 src = "src"
 title = "Metakognisi: Belajar Bagaimana Belajar"
+
+[preprocessor.dawnbook]
+optional = true
 subject_label = "Psikologi"
 
 [output.html.print]

@@ -3,6 +3,9 @@ authors = ["Tedi Rahmat"]
 language = "id"
 src = "src"
 title = "Teori Perkembangan Kognitif Piaget"
+
+[preprocessor.dawnbook]
+optional = true
 subject_label = "Psikologi"
 
 [output.html.print]
