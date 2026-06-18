@@ -57,7 +57,7 @@ log_section() {
 
 log_section "Test (a): All chapters are public at the edge for SEO"
 
-GATED_URL="${BASE_URL}/books/piaget/content/02_konsep-dasar-skema-dan-struktur-kognitif.html"
+GATED_URL="${BASE_URL}/books/piaget/content/02_konsep-dasar-skema-dan-struktur-kognitif"
 
 STATUS_HTML=$(curl -s -o /dev/null -w "%{http_code}" \
   -H "Accept: text/html,application/xhtml+xml" \

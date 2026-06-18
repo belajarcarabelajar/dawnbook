@@ -38,7 +38,7 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const entries = await readdir(booksDir);
-  const builtBooks: { slug: string; title: string; chapterCount: number; emoji: string; chapters: string[] }[] = [];
+  const builtBooks: { slug: string; title: string; author: string; chapterCount: number; emoji: string; chapters: string[] }[] = [];
 
   console.log("Synchronizing book configurations from _template...");
   await $`bun run scripts/sync-template.ts`;
@@ -72,10 +72,13 @@ async function build() {
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
         let formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        let author = "Iwan Kurniawan";
         try {
             const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
             const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
             if (titleMatch) formattedTitle = titleMatch[1];
+            const authorMatch = tomlText.match(/authors\s*=\s*\[\s*"([^"]+)"/);
+            if (authorMatch) author = authorMatch[1];
         } catch (e) {}
         
         let chapterCount = 0;
@@ -104,7 +107,7 @@ async function build() {
         } catch (e) {
             // fallback to generic
         }
-        builtBooks.push({ slug: entry, title: formattedTitle, chapterCount, emoji, chapters });
+        builtBooks.push({ slug: entry, title: formattedTitle, author, chapterCount, emoji, chapters });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
         console.error(`Failed to build book: ${entry}`, error);
@@ -254,10 +257,10 @@ async function build() {
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1;">${b.emoji}</span>
-                    <div class="top-right-cluster" style="display: flex; align-items: center; gap: 8px; position: relative; z-index: 10;">
-                        <span class="subject-label-chip" style="display: none; font-size: 0.75rem; background: var(--color-primary); color: var(--color-background); padding: 2px 6px; border-radius: 4px; font-weight: bold;"></span>
-                        <span class="view-count-badge" style="display: none; font-size: 0.75rem; background: var(--color-surface); padding: 2px 6px; border-radius: 4px; color: var(--color-text-muted);">👁 0</span>
-                        <button class="pin-toggle-btn" onclick="event.preventDefault(); togglePin(event, '${escapeHtml(b.slug)}')" style="background: none; border: none; font-size: 20px; cursor: pointer; padding: 0; filter: grayscale(1); opacity: 0.3; transition: all 0.2s;" title="Pin Book">📌</button>
+                    <div class="top-right-cluster">
+                        <span class="subject-label-wrapper" style="display: none;"><span class="subject-label-chip"></span></span>
+                        <span class="view-count-badge" style="display: none;">👁 0</span>
+                        <button class="pin-toggle-btn" onclick="event.preventDefault(); togglePin(event, '${escapeHtml(b.slug)}')" title="Pin Book">📌</button>
                     </div>
                 </div>
                 <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
@@ -270,7 +273,7 @@ async function build() {
                 </div>
             </div>
             <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 0.85rem; color: var(--color-secondary);">
-                <span><span class="desktop-only">Penyusun: </span>Iwan Kurniawan • ${b.chapterCount} chapter</span>
+                <span>${escapeHtml(b.author)} • ${b.chapterCount} chapter</span>
                 <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8;">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
                     FREE
@@ -387,16 +390,17 @@ async function build() {
                         const card = document.querySelector('.book-card[data-slug="' + b.slug + '"]');
                         if (card) {
                             const viewBadge = card.querySelector('.view-count-badge');
+                            const subjectWrapper = card.querySelector('.subject-label-wrapper');
                             const subjectChip = card.querySelector('.subject-label-chip');
                             if (viewBadge) {
                                 viewBadge.innerText = '👁 ' + (b.view_count || 0);
                                 viewBadge.style.display = 'inline-block';
                             }
-                            if (subjectChip && b.subject_label) {
+                            if (subjectWrapper && subjectChip && b.subject_label) {
                                 subjectChip.innerText = b.subject_label;
-                                subjectChip.style.display = 'inline-block';
-                                subjectChip.style.cursor = 'pointer';
-                                subjectChip.onclick = (e) => {
+                                subjectWrapper.style.display = 'inline-block';
+                                subjectWrapper.style.cursor = 'pointer';
+                                subjectWrapper.onclick = (e) => {
                                     e.preventDefault();
                                     e.stopPropagation();
                                     const filter = document.getElementById('subject-filter');
