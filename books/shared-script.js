@@ -1,11 +1,12 @@
-// Client-side gating
+// Client-side gating & checkpoint system
 (function() {
     var icon = document.querySelector("link[rel~='icon']");
     if (!icon) { icon = document.createElement('link'); icon.rel = 'icon'; document.head.appendChild(icon); }
     icon.type = 'image/svg+xml';
     icon.href = 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">📓</text></svg>';
 
-    var path = decodeURIComponent(window.location.pathname);
+    var currentPath = window.location.pathname;
+    var path = decodeURIComponent(currentPath);
     var basename = path.split('/').pop() || '';
 
     // Gating rule: Dynamic SEO-first gating based on entry point
@@ -16,39 +17,102 @@
     if (!isPublic) {
         document.documentElement.style.opacity = '0';
         document.documentElement.style.visibility = 'hidden';
+    }
 
-        var clerkPk = 'pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ';
-        // mdbook doesn't have the meta tag, so we hardcode the fallback but also check
-        var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
-        while (keyBody.length % 4 !== 0) { keyBody += '='; }
-        var domain = atob(keyBody).replace(/\$$/, '');
+    var clerkPk = 'pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ';
+    // mdbook doesn't have the meta tag, so we hardcode the fallback but also check
+    var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
+    while (keyBody.length % 4 !== 0) { keyBody += '='; }
+    var domain = atob(keyBody).replace(/\$$/, '');
 
-        var script = document.createElement('script');
-        script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-        script.setAttribute('data-clerk-publishable-key', clerkPk);
-        script.async = true;
+    var script = document.createElement('script');
+    script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
+    script.setAttribute('data-clerk-publishable-key', clerkPk);
+    script.async = true;
 
-        script.onload = function() {
-            if (window.Clerk) {
-                window.Clerk.load().then(function() {
-                    if (window.Clerk.user) {
-                        document.documentElement.style.opacity = '1';
-                        document.documentElement.style.visibility = 'visible';
-                    } else {
-                        window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
-                    }
-                }).catch(function() {
+    function handleCheckpoint() {
+        var pathParts = currentPath.split('/').filter(Boolean);
+        var bookIndex = pathParts.indexOf('books');
+        if (bookIndex === -1 || pathParts.length <= bookIndex + 1) return;
+        
+        var bookSlug = pathParts[bookIndex + 1];
+        var isRoot = (currentPath === '/books/' + bookSlug + '/') || (currentPath === '/books/' + bookSlug + '/index.html');
+        var hasRedirected = new URLSearchParams(window.location.search).get('redirected');
+        var isInternalNavigation = document.referrer && document.referrer.indexOf('/books/' + bookSlug + '/') !== -1;
+
+        window.saveProgress = function(isCompleted) {
+            var payload = { bookSlug: bookSlug, path: currentPath };
+            if (isCompleted) {
+                payload.completed_path = currentPath;
+            }
+            fetch('/api/progress', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                credentials: 'same-origin',
+                body: JSON.stringify(payload),
+                keepalive: true
+            }).then(function(res) {
+                if (!res.ok) { console.error('Save progress failed: HTTP ' + res.status); }
+                return res.json();
+            }).then(function(data) {
+                if (data && data.completed_paths && window.updateBookProgress) {
+                    window.updateBookProgress(data.completed_paths);
+                }
+            }).catch(function(e) { console.error('Save progress network error', e); });
+        };
+
+        if (isRoot && !hasRedirected && !isInternalNavigation) {
+            fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
+                credentials: 'same-origin'
+            })
+            .then(function(res) { return res.json(); })
+            .then(function(data) {
+                if (data.completed_paths && window.updateBookProgress) {
+                    window.updateBookProgress(data.completed_paths);
+                }
+                if (data.path && data.path !== currentPath) {
+                    window.location.replace(data.path + '?redirected=true');
+                } else {
+                    window.saveProgress();
+                }
+            })
+            .catch(function(e) { 
+                console.error('Failed to load progress', e);
+                window.saveProgress();
+            });
+        } else {
+            window.saveProgress();
+        }
+    }
+
+    script.onload = function() {
+        if (!isPublic) {
+            document.documentElement.style.opacity = '1';
+            document.documentElement.style.visibility = 'visible';
+        }
+        handleCheckpoint();
+
+        if (window.Clerk) {
+            window.Clerk.load().then(function() {
+                if (!window.Clerk.user && !isPublic) {
                     window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
-                });
-            } else {
+                }
+            }).catch(function(e) {
+                console.error('Clerk load failed', e);
+            });
+        } else {
+            if (!isPublic) {
                 window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
             }
-        };
-        script.onerror = function() {
+        }
+    };
+
+    script.onerror = function() {
+        if (!isPublic) {
             window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
         }
-        document.head.appendChild(script);
     }
+    document.head.appendChild(script);
 })();
 
 document.addEventListener('DOMContentLoaded', function() {
@@ -87,4 +151,65 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     }
+
+    // Book Progress Bar Setup
+    const bookProgressBar = document.createElement('div');
+    bookProgressBar.id = 'book-progress-bar';
+    document.body.appendChild(bookProgressBar);
+
+    function normalizePath(p) {
+        if (!p) return '';
+        p = p.split('#')[0].split('?')[0];
+        if (p.endsWith('/')) p += 'index.html';
+        return p;
+    }
+
+    let totalChapterCount = 0;
+    const sidebarLinks = document.querySelectorAll('.sidebar a');
+    const validChapters = new Set();
+    sidebarLinks.forEach(link => {
+        if (link.pathname) {
+            validChapters.add(normalizePath(link.pathname));
+        }
+    });
+    totalChapterCount = validChapters.size;
+
+    window.updateBookProgress = function(completedPaths) {
+        if (totalChapterCount === 0 || !completedPaths) return;
+        let completedCount = 0;
+        const normalizedCompleted = completedPaths.map(normalizePath);
+        validChapters.forEach(ch => {
+            if (normalizedCompleted.includes(ch)) {
+                completedCount++;
+            }
+        });
+        const progress = Math.min((completedCount / totalChapterCount) * 100, 100);
+        bookProgressBar.style.width = progress + '%';
+    };
+
+    // Scroll Progress Bar
+    const progressBar = document.createElement('div');
+    progressBar.id = 'scroll-progress-bar';
+    document.body.appendChild(progressBar);
+
+    let isCompleted = false;
+
+    function updateProgress() {
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+        const progress = scrollHeight > 0 ? (scrollTop / scrollHeight) * 100 : 100;
+        
+        progressBar.style.width = progress + '%';
+
+        if (progress >= 98 && !isCompleted) {
+            isCompleted = true;
+            if (window.saveProgress) {
+                window.saveProgress(true);
+            }
+        }
+    }
+    
+    window.addEventListener('scroll', updateProgress, { passive: true });
+    window.addEventListener('resize', updateProgress, { passive: true });
+    updateProgress();
 });
