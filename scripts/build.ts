@@ -220,13 +220,27 @@ async function build() {
     </div>
 
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
+    
+    <div class="book-filters" style="display: flex; gap: 12px; margin-bottom: var(--spacing-lg); flex-wrap: wrap;">
+        <select id="subject-filter" style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); min-width: 200px;">
+            <option value="">All Subjects</option>
+        </select>
+        <select id="sort-select" style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text);">
+            <option value="newest">Newest First</option>
+            <option value="popular">Most Popular</option>
+            <option value="oldest">Oldest First</option>
+        </select>
+    </div>
+
     <div class="book-masonry">
       ${builtBooks.map(b => `
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1;">${b.emoji}</span>
-                    <div style="position: relative; z-index: 10;">
+                    <div class="top-right-cluster" style="display: flex; align-items: center; gap: 8px; position: relative; z-index: 10;">
+                        <span class="view-count-badge" style="display: none; font-size: 0.75rem; background: var(--color-surface); padding: 2px 6px; border-radius: 4px; color: var(--color-text-muted);">👁 0</span>
+                        <span class="subject-label-chip" style="display: none; font-size: 0.75rem; background: var(--color-primary); color: var(--color-background); padding: 2px 6px; border-radius: 4px; font-weight: bold;"></span>
                         <button class="pin-toggle-btn" onclick="event.preventDefault(); togglePin(event, '${escapeHtml(b.slug)}')" style="background: none; border: none; font-size: 20px; cursor: pointer; padding: 0; filter: grayscale(1); opacity: 0.3; transition: all 0.2s;" title="Pin Book">📌</button>
                     </div>
                 </div>
@@ -268,19 +282,53 @@ async function build() {
           setPinned(pinned);
           reorderBooks();
       }
+      let serverBooksData = [];
+
       function reorderBooks() {
           const container = document.querySelector('.book-masonry');
           const cards = Array.from(container.querySelectorAll('.book-card'));
           const pinned = getPinned();
+          const sortVal = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'newest';
+          const filterVal = document.getElementById('subject-filter') ? document.getElementById('subject-filter').value : '';
+
+          cards.forEach(card => {
+              const slug = card.getAttribute('data-slug');
+              const bData = serverBooksData.find(b => b.slug === slug);
+              const cardSubject = bData && bData.subject_label ? bData.subject_label : '';
+              
+              if (filterVal && cardSubject !== filterVal) {
+                  card.style.display = 'none';
+              } else {
+                  card.style.display = 'flex';
+              }
+          });
+
           cards.sort((a, b) => {
               const slugA = a.getAttribute('data-slug');
               const slugB = b.getAttribute('data-slug');
               const aPinned = pinned.includes(slugA);
               const bPinned = pinned.includes(slugB);
+              
               if (aPinned && !bPinned) return -1;
               if (!aPinned && bPinned) return 1;
+
+              const dataA = serverBooksData.find(b => b.slug === slugA);
+              const dataB = serverBooksData.find(b => b.slug === slugB);
+              
+              if (sortVal === 'popular' && dataA && dataB) {
+                  if (dataB.view_count !== dataA.view_count) {
+                      return dataB.view_count - dataA.view_count;
+                  }
+              } else if (sortVal === 'oldest' && dataA && dataB) {
+                  return new Date(dataA.created_at) - new Date(dataB.created_at);
+              }
+              // newest default
+              if (dataA && dataB) {
+                  return new Date(dataB.created_at) - new Date(dataA.created_at);
+              }
               return 0;
           });
+
           cards.forEach(card => {
               const slug = card.getAttribute('data-slug');
               const btn = card.querySelector('.pin-toggle-btn');
@@ -304,8 +352,53 @@ async function build() {
               container.appendChild(card);
           });
       }
+
+      function loadBookMetadata() {
+          fetch('/api/books?content=false')
+            .then(res => res.json())
+            .then(data => {
+                if (data.books) {
+                    serverBooksData = data.books;
+                    const subjects = new Set();
+                    data.books.forEach(b => {
+                        if (b.subject_label) subjects.add(b.subject_label);
+                        const card = document.querySelector('.book-card[data-slug="' + b.slug + '"]');
+                        if (card) {
+                            const viewBadge = card.querySelector('.view-count-badge');
+                            const subjectChip = card.querySelector('.subject-label-chip');
+                            if (viewBadge) {
+                                viewBadge.innerText = '👁 ' + (b.view_count || 0);
+                                viewBadge.style.display = 'inline-block';
+                            }
+                            if (subjectChip && b.subject_label) {
+                                subjectChip.innerText = b.subject_label;
+                                subjectChip.style.display = 'inline-block';
+                            }
+                        }
+                    });
+                    const subjectFilter = document.getElementById('subject-filter');
+                    if (subjectFilter) {
+                        Array.from(subjects).sort().forEach(sub => {
+                            const opt = document.createElement('option');
+                            opt.value = sub;
+                            opt.innerText = sub;
+                            subjectFilter.appendChild(opt);
+                        });
+                        subjectFilter.addEventListener('change', reorderBooks);
+                    }
+                    const sortSelect = document.getElementById('sort-select');
+                    if (sortSelect) {
+                        sortSelect.addEventListener('change', reorderBooks);
+                    }
+                    reorderBooks();
+                }
+            })
+            .catch(console.error);
+      }
+
       document.addEventListener('DOMContentLoaded', () => {
           reorderBooks();
+          loadBookMetadata();
           initClerk();
       });
 

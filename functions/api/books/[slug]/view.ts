@@ -1,24 +1,12 @@
 /**
- * functions/api/books/[slug].ts
+ * functions/api/books/[slug]/view.ts
  *
  * Cloudflare Pages Function handling:
- *   GET /api/books/:slug — Retrieve a single book by slug (public)
+ *   POST /api/books/:slug/view — Increment view count
  */
 
 interface Env {
   DB: D1Database;
-}
-
-interface BookRow {
-  id: string;
-  slug: string;
-  title: string;
-  status: string;
-  content_md: string;
-  created_at: string;
-  updated_at: string;
-  subject_label?: string | null;
-  view_count: number;
 }
 
 function jsonResponse(data: unknown, status = 200): Response {
@@ -42,13 +30,13 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     return new Response(null, {
       status: 204,
       headers: {
-        "Access-Control-Allow-Methods": "GET, OPTIONS",
+        "Access-Control-Allow-Methods": "POST, OPTIONS",
         "Access-Control-Allow-Headers": "Content-Type, Authorization",
       },
     });
   }
 
-  if (request.method !== "GET") {
+  if (request.method !== "POST") {
     return errorResponse("Method not allowed", 405);
   }
 
@@ -60,16 +48,16 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
   try {
     const result = await env.DB.prepare(
-      "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1"
+      "UPDATE books SET view_count = view_count + 1 WHERE slug = ?1"
     )
       .bind(slug)
-      .first<BookRow>();
+      .run();
 
-    if (!result) {
-      return errorResponse("Book not found", 404);
+    if (!result.success) {
+      return errorResponse("Failed to update view count", 500);
     }
 
-    return jsonResponse({ book: result });
+    return jsonResponse({ success: true });
   } catch (err) {
     console.error("API error:", err);
     return errorResponse("Internal server error", 500);
