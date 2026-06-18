@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Digital Minimalisme"
+subject_label = "Ilmu Komunikasi"
 
 [output.html.print]
 enable = false

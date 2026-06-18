@@ -17,6 +17,7 @@ interface BookRow {
   slug: string;
   title: string;
   status: "draft" | "published";
+  subject_label: string | null;
   content_md: string;
   created_at: string;
   updated_at: string;
@@ -29,6 +30,11 @@ interface BookRow {
 function parseTitleFromToml(tomlContent: string): string {
   const match = tomlContent.match(/^title\s*=\s*"([^"]+)"/m);
   return match ? match[1] : "Untitled";
+}
+
+function parseSubjectLabelFromToml(tomlContent: string): string | null {
+  const match = tomlContent.match(/^subject_label\s*=\s*"([^"]+)"/m);
+  return match ? match[1] : null;
 }
 
 /**
@@ -71,6 +77,7 @@ async function main() {
 
     const tomlContent = await readFile(tomlPath, "utf-8");
     const title = parseTitleFromToml(tomlContent);
+    const subject_label = parseSubjectLabelFromToml(tomlContent);
 
     // Read and concatenate all .md files from src/ (excluding SUMMARY.md)
     const srcDir = join(bookPath, "src");
@@ -96,6 +103,7 @@ async function main() {
       slug: entry,
       title,
       status: "published", // Existing file-based books are considered published
+      subject_label,
       content_md: combinedMd.trim(),
       created_at: now,
       updated_at: now,
@@ -111,12 +119,14 @@ async function main() {
 
   // Build idempotent SQL statements
   const statements = rows.map((row) => {
-    return `INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
+    const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
+    return `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   '${escapeSql(row.id)}',
   '${escapeSql(row.slug)}',
   '${escapeSql(row.title)}',
   '${escapeSql(row.status)}',
+  ${subjectLabelSql},
   '${escapeSql(row.content_md)}',
   '${escapeSql(row.created_at)}',
   '${escapeSql(row.updated_at)}'
@@ -124,6 +134,7 @@ VALUES (
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
   status = excluded.status,
+  subject_label = excluded.subject_label,
   content_md = excluded.content_md,
   updated_at = excluded.updated_at;`;
   });
