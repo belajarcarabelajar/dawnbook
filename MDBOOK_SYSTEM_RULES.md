@@ -112,11 +112,13 @@ cp -r books/_template books/<slug>
 **Trigger:** No shell command; authoring phase executed by AuthoringAgent.
 
 **What happens:**
-1. Update `books/<slug>/book.toml` — clone of `books/_template/book.toml` with `title` and `authors` replaced. Any custom book configuration like `[preprocessor.dawnbook]` MUST be placed before `[output.html.print]` to prevent it from being overwritten by `sync-template.ts`. The `additional-css` and `additional-js` directives referencing `books/shared-header-v3.css` and `books/shared-script-v3.js` **must** be preserved.
+1. Update `books/<slug>/book.toml` — clone of `books/_template/book.toml` with `title` and `authors` replaced. Ensure `language = "id"` is explicitly set (override "en" if scaffolded from template). Any custom book configuration like `[preprocessor.dawnbook]` MUST be placed before `[output.html.print]` to prevent it from being overwritten by `sync-template.ts`. The `additional-css` and `additional-js` directives referencing `books/shared-header-v3.css` and `books/shared-script-v3.js` **must** be preserved.
 2. Write `books/<slug>/icon.txt` containing a single emoji character.
-3. Write chapter files as `books/<slug>/src/content/<NN>_<name>.md` — filenames begin with zero-padded two-digit number.
+3. Write chapter files as `books/<slug>/src/content/<NN>_<kebab-case-name>.md` — filenames begin with zero-padded two-digit number, strictly formatted in kebab-case to ensure URL consistency.
 4. Update `books/<slug>/src/SUMMARY.md` with chapter links using real extracted headings. No emoji. Plain text only.
 5. First chapter in `SUMMARY.md` **must** have a filename beginning with `01` (public preview gating).
+6. **Orphan Cleanup:** Explicitly delete `books/<slug>/src/introduction.md` if it was carried over from the template directory.
+7. **Header Level Rule:** Chapter markdown files MUST begin with `##` (H2) instead of `#` (H1). mdBook automatically generates an H1 title from `SUMMARY.md`; using `#` inside the chapter creates duplicate/nested H1 tags that ruin UI alignment and SEO.
 
 **Success gate:** `book.toml` contains `title = "..."`, `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`.
 
@@ -192,7 +194,7 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
 bun run scripts/migrate-to-d1.ts
 ```
 
-**What happens:** Schema uses `CREATE TABLE IF NOT EXISTS`. Seed uses `INSERT ... ON CONFLICT(slug) DO UPDATE SET ...`. Both idempotent.
+**What happens:** Schema uses `CREATE TABLE IF NOT EXISTS`. Seed uses `INSERT ... ON CONFLICT(slug) DO UPDATE SET ...`. Both idempotent. **CRITICAL WARNING:** This phase must NEVER be skipped by the OrchestratorAgent. Skipping this phase causes the book to be missing its `subject_label` tag and view counter on the Hub UI.
 
 **Success gate:** Both exit code 0. New book's slug exists as a row in `dawnbook-db`.
 
@@ -607,7 +609,7 @@ AuthoringAgent **must** read content to infer the actual topic, then use it as `
 
 **7.3 Rename Files According to Heading (Original Phase 1, Rule 3)**
 
-All `.md` chapter files must be in `books/<slug>/src/content/`. Filenames derived from actual heading (`#` or `##`) in first line. Placeholder names like "Part 1" forbidden. Must be prefixed with zero-padded chapter number. *(Cross-ref: Phase B, AuthoringAgent)*
+All `.md` chapter files must be in `books/<slug>/src/content/`. Filenames derived from actual heading in first line and formatted STRICTLY in kebab-case (e.g., `01_pendahuluan-digital-minimalisme.md`). Placeholder names like "Part 1" forbidden. Must be prefixed with zero-padded chapter number. Note: Chapters must begin with `##` (H2) to prevent double H1 generation, since SUMMARY.md auto-generates the root H1. *(Cross-ref: Phase B, AuthoringAgent)*
 
 **7.4 SUMMARY.md Format — No Emoji (Original Phase 1, Rule 4)**
 
