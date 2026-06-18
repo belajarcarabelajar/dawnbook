@@ -1,0 +1,80 @@
+[
+  {
+    "id": "F01",
+    "location": "functions/api/books/index.ts:199",
+    "issue": "Incorrect preflight on credentialed endpoint. Emits permissive CORS headers without Access-Control-Allow-Origin, Access-Control-Allow-Credentials, or Access-Control-Max-Age.",
+    "severity": "High",
+    "endpoint": "api/books/index.ts",
+    "current_headers": {
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization"
+    },
+    "recommended_headers": {}
+  },
+  {
+    "id": "F02",
+    "location": "functions/api/progress.ts:158",
+    "issue": "Incorrect preflight on credentialed endpoint. Emits permissive CORS headers without Access-Control-Allow-Origin, Access-Control-Allow-Credentials, or Access-Control-Max-Age.",
+    "severity": "High",
+    "endpoint": "api/progress.ts",
+    "current_headers": {
+      "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization"
+    },
+    "recommended_headers": {}
+  },
+  {
+    "id": "F03",
+    "location": "functions/api/books/[slug].ts:45",
+    "issue": "Missing Access-Control-Max-Age and permissive CORS headers emitted without a stated cross-origin need.",
+    "severity": "Medium",
+    "endpoint": "api/books/[slug].ts",
+    "current_headers": {
+      "Access-Control-Allow-Methods": "GET, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization"
+    },
+    "recommended_headers": {}
+  },
+  {
+    "id": "F04",
+    "location": "functions/api/books/[slug]/view.ts:33",
+    "issue": "Missing Access-Control-Max-Age and permissive CORS headers emitted without a stated cross-origin need.",
+    "severity": "Medium",
+    "endpoint": "api/books/[slug]/view.ts",
+    "current_headers": {
+      "Access-Control-Allow-Methods": "POST, OPTIONS",
+      "Access-Control-Allow-Headers": "Content-Type, Authorization"
+    },
+    "recommended_headers": {}
+  },
+  {
+    "id": "I01",
+    "location": "functions/_middleware.ts:88",
+    "issue": "Confirmed endpoint correctly emits no CORS headers on non-200 responses (401/302).",
+    "severity": "Info",
+    "endpoint": "functions/_middleware.ts",
+    "current_headers": {
+      "Content-Type": "application/json",
+      "Cache-Control": "private, no-store",
+      "Vary": "Cookie"
+    },
+    "recommended_headers": {
+      "Content-Type": "application/json",
+      "Cache-Control": "private, no-store",
+      "Vary": "Cookie"
+    }
+  },
+  {
+    "id": "I02",
+    "location": "output/_headers:6",
+    "issue": "CSP is not relied upon as a CORS control.",
+    "severity": "Info",
+    "endpoint": null,
+    "current_headers": {
+      "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;"
+    },
+    "recommended_headers": {
+      "Content-Security-Policy": "default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;"
+    }
+  }
+]
