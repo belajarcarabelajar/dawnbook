@@ -714,4 +714,11 @@ Assumption: 'apps/admin/.env.local' is present and contains VITE_CLERK_PUBLISHAB
 Assumption: The GitHub Actions workflow '.github/workflows/deploy.yml' has secrets
             CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID configured in repo settings.
             Without these, the CI deploy step will fail.
+
+## 10. Core Metadata and Gating Rules
+- **Subject Labels**: Hydrated from D1 `books` table (`subject_label`). The Hub pulls this dynamically via `/api/books?content=false` to support category filtering.
+- **View Count**: Tracked progressively via `POST /api/books/[slug]/view` and shown dynamically on the Hub to support 'Popular' sorting.
+- **Dynamic Gating**: `functions/lib/gating.ts` considers `index.html` as the ONLY free chapter by default (mdbook maps the first chapter to index.html automatically). NEVER hardcode chapter filenames in `gating.ts`.
+- **Path Gating Constraints**: `isPublicPath` must NOT contain `/admin/`. The edge middleware protects `/admin` routes.
+- **Input Trust Boundaries**: All `POST /api/progress` and `POST /api/books` routes MUST implement rigid length, schema, and regex bounds-checking before D1 database binding to prevent DB bloat or SQL injection.
 ```
