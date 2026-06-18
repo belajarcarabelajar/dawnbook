@@ -57,7 +57,7 @@ Untuk mempermudah pemahaman, mari kita lihat perbandingannya dalam logika sederh
 Jika kita memodelkan proses ini dalam bahasa pemrograman sederhana, kita bisa melihat perbedaannya dalam struktur data:
 
 ```python
-# ASIMILASI: Menambahkan data ke list yang sudah ada
+## ASIMILASI: Menambahkan data ke list yang sudah ada
 skema_hewan = ["Anjing", "Kucing", "Kelinci"]
 info_baru = "Poodle"
 
@@ -65,7 +65,7 @@ if info_baru == "Mirip Anjing":
     skema_hewan.append(info_baru) # Asimilasi: Masuk ke list yang ada
     print("Skema tetap, data bertambah.")
 
-# AKOMODASI: Mengubah struktur data karena tidak cocok
+## AKOMODASI: Mengubah struktur data karena tidak cocok
 info_baru_asing = "Ikan"
 
 if info_baru_asing != "Hewan Darat":

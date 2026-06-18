@@ -1,4 +1,4 @@
-# Kecerdasan Eksistensial
+## Kecerdasan Eksistensial
 
 Pernahkah kamu menatap langit malam yang penuh bintang, merasa sangat kecil, lalu bertanya dalam hati: *"Mengapa kita ada di sini?"* atau *"Apa yang terjadi setelah hidup berakhir?"*
 

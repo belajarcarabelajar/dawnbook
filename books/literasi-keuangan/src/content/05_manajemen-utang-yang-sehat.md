@@ -1,4 +1,4 @@
-# Manajemen Utang yang Sehat
+## Manajemen Utang yang Sehat
 
 Banyak orang langsung memandang negatif utang dalam keuangan pribadi. Kenyataannya, tidak semua utang membawa dampak buruk. Mengetahui jenis utang, risikonya, serta cara mengelolanya menjadi kunci mencapai stabilitas finansial. Di sinilah pentingnya manajemen utang. Bagian ini akan membantumu mengelola pinjaman secara sehat dan membangun kebiasaan yang lebih bertanggung jawab terhadap utang.
 

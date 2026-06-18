@@ -1,4 +1,4 @@
-# Pengantar Literasi Keuangan
+## Pengantar Literasi Keuangan
 
 Literasi keuangan menjadi fondasi utama dalam mencapai kebebasan dan stabilitas finansial. Memahami cara mengelola uang dengan bijak sangat dibutuhkan di zaman sekarang.
 

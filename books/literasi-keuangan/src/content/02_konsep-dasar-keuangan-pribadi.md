@@ -1,4 +1,4 @@
-# Konsep Dasar Keuangan Pribadi
+## Konsep Dasar Keuangan Pribadi
 
 Memahami konsep dasar keuangan pribadi adalah langkah pertama untuk menguasai literasi keuangan. 
 

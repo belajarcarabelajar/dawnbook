@@ -1,4 +1,4 @@
-# Mencapai Tujuan Keuangan
+## Mencapai Tujuan Keuangan
 
 Mencapai tujuan keuangan butuh langkah nyata. Rencana yang matang memberi kamu kendali lebih besar atas masa depan finansial. Bagian ini akan membantu kamu menetapkan target terukur yang bisa segera dipraktikkan.
 
