@@ -12,7 +12,8 @@
     // Gating rule: Dynamic SEO-first gating based on entry point
     var freeChapter = null;
     try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
-    var isPublic = (freeChapter === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
+    var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
+
 
     if (!isPublic) {
         document.documentElement.style.opacity = '0';

@@ -2,11 +2,11 @@
 authors = ["Iwan Kurniawan"]
 language = "en"
 src = "src"
-title = "Placeholder Title"
+title = "Literasi Keuangan"
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Placeholder"
+subject_label = "Keuangan"
 
 [output.html.print]
 enable = false

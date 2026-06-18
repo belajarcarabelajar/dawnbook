@@ -52,7 +52,7 @@ GATED_URL="${BASE_URL}/books/piaget/Konsep%20Dasar%20Skema%20dan%20Struktur%20Ko
 
 STATUS_HTML=$(curl -s -o /dev/null -w "%{http_code}" \
   -H "Accept: text/html,application/xhtml+xml" \
-  --max-redirs 0 \
+  --max-redirs 0 --connect-timeout 5 --max-time 10 \
   "$GATED_URL" 2>/dev/null || true)
 
 if [ "$STATUS_HTML" = "200" ]; then
@@ -67,7 +67,7 @@ log_section "Test (b): Dynamic SEO-first gating script is injected"
 
 HTML_CONTENT=$(curl -s \
   -H "Accept: text/html,application/xhtml+xml" \
-  --max-redirs 0 \
+  --max-redirs 0 --connect-timeout 5 --max-time 10 \
   "$GATED_URL" 2>/dev/null || true)
 
 if echo "$HTML_CONTENT" | grep -qi "sessionStorage.getItem('free_chapter_viewed')"; then
@@ -83,7 +83,7 @@ log_section "Test (c): Hub pages are accessible without auth"
 # Test book root/index
 BOOK_ROOT_URL="${BASE_URL}/books/piaget/"
 STATUS_ROOT=$(curl -s -o /dev/null -w "%{http_code}" \
-  -H "Accept: text/html" \
+  -H "Accept: text/html" --connect-timeout 5 --max-time 10 \
   "$BOOK_ROOT_URL" 2>/dev/null || true)
 
 if [ "$STATUS_ROOT" = "200" ]; then
@@ -95,7 +95,7 @@ fi
 # Test hub pages
 for path in "/" "/about" "/contribute"; do
   HUB_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
-    -H "Accept: text/html" \
+    -H "Accept: text/html" --connect-timeout 5 --max-time 10 \
     "${BASE_URL}${path}" 2>/dev/null || true)
   if [ "$HUB_STATUS" = "200" ]; then
     log_pass "Hub page ${path} returns 200 (status=$HUB_STATUS)"
