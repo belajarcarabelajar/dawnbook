@@ -3,6 +3,7 @@ authors = ["Tedi Rahmat"]
 language = "id"
 src = "src"
 title = "Neuroplastisitas dalam Belajar"
+subject_label = "Psikologi"
 
 [output.html.print]
 enable = false

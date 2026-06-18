@@ -3,6 +3,7 @@ authors = ["AI"]
 language = "id"
 src = "src"
 title = "Metakognisi: Belajar Bagaimana Belajar"
+subject_label = "Psikologi"
 
 [output.html.print]
 enable = false
