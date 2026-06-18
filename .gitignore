@@ -1,35 +1,67 @@
+# ==========================================
+# Dependencies
+# ==========================================
 node_modules/
+
+# ==========================================
+# Build Output & Caches
+# ==========================================
 output/
-.wrangler/
-book/
 dist/
-.DS_Store
+dist-ssr/
+book/
+.wrangler/
+coverage/
+.nyc_output/
+
+# ==========================================
+# Secrets & Local Config
+# ==========================================
 .env
 .env.*
-*.log
-*.bak
-*.zip
+!.env.example
+.dev.vars
+*.local
 *.key
 *.pem
-wrangler.toml.bak
 
-# Local tools & agents
-.agents/
-skills-lock.json
-test-clerk.js
-MDBOOK_SYSTEM_RULES.md
-test_fix.js
-
-# Cruft
+# ==========================================
+# Logs
+# ==========================================
+logs/
 *.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==========================================
+# Backups & Archives
+# ==========================================
 *.bak
 *.zip
-deploy.log
-debug.log
-list.log
-wrangler.toml.bak
-site.zip
-test_fix.js
+
+# ==========================================
+# OS & Editor
+# ==========================================
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==========================================
+# Local Tools & Agents (Cruft)
+# ==========================================
+.agents/
+skills-lock.json
+MDBOOK_SYSTEM_RULES.md
 test.md
+test_fix.js
 test-clerk.js
 parse_headings.js
