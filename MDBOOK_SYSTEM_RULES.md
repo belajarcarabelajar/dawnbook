@@ -118,9 +118,10 @@ cp -r books/_template books/<slug>
 4. Update `books/<slug>/src/SUMMARY.md` with chapter links using real extracted headings. No emoji. Plain text only.
 5. First chapter in `SUMMARY.md` **must** have a filename beginning with `01` (public preview gating).
 6. **Orphan Cleanup:** Explicitly delete `books/<slug>/src/introduction.md` if it was carried over from the template directory.
-7. **Header Level Rule:** Chapter markdown files MUST begin with `##` (H2) instead of `#` (H1). mdBook automatically generates an H1 title from `SUMMARY.md`; using `#` inside the chapter creates duplicate/nested H1 tags that ruin UI alignment and SEO.
+7. **Clean Up Original/Temporary Files:** Ensure that any original, raw, or temporary chapter files (such as `1.md`, `2.md`, etc., or files with temporary/unformatted names) are completely removed from the `books/<slug>/src/` root directory and other directories under `books/<slug>/`. Only the final, zero-padded kebab-cased chapter files under `books/<slug>/src/content/` must remain. Leaving temporary files in `src/` will cause mdBook to compile them alongside the final files, resulting in duplicate pages in the build output.
+8. **Header Level Rule:** Chapter markdown files MUST begin with `##` (H2) instead of `#` (H1). mdBook automatically generates an H1 title from `SUMMARY.md`; using `#` inside the chapter creates duplicate/nested H1 tags that ruin UI alignment and SEO.
 
-**Success gate:** `book.toml` contains `title = "..."`, `language = "id"` (**not "en"**), `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`. All chapter `.md` files are inside `src/content/` (NOT in `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/` (zero-padded number + underscore + lowercase kebab-case). All chapter files open with `##` heading (H2), never `#` (H1). `src/introduction.md` does NOT exist.
+**Success gate:** `book.toml` contains `title = "..."`, `language = "id"` (**not "en"**), `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`. All chapter `.md` files are inside `src/content/` (NOT in `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/` (zero-padded number + underscore + lowercase kebab-case). All chapter files open with `##` heading (H2), never `#` (H1). `src/introduction.md` and any raw/temporary markdown files (such as `1.md`, `2.md`, etc.) in the `src/` root do NOT exist.
 
 ---
 
@@ -417,7 +418,7 @@ echo "<slug>" | grep -qE '^[a-zA-Z0-9_-]+$' && echo "VALID" || { echo "INVALID";
 
 **R3 — D1 Migration and Seed: Command Sequence and Idempotency**
 
-*Statement:* Every deployment must apply schema migration before seeding. Both operations are idempotent: schema uses `CREATE TABLE IF NOT EXISTS`; seed uses `INSERT ... ON CONFLICT(slug) DO UPDATE SET ...`.
+*Statement:* Every deployment must apply schema migration before seeding. Both operations are idempotent: schema uses `CREATE TABLE IF NOT EXISTS`. The seeder (`scripts/migrate-to-d1.ts`) executes book-by-book, inserting metadata first and then chunking the text content into 30KB blocks updated via SQLite string concatenation (`||`) to bypass Cloudflare D1 query statement size limits (`SQLITE_TOOBIG` errors).
 
 *Exact commands:*
 ```bash
@@ -426,11 +427,11 @@ PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin \
   npx wrangler d1 execute dawnbook-db --remote \
   --file=db/migrations/0001_init.sql --yes
 
-# Step 2: Seed (idempotent upsert)
+# Step 2: Seed (idempotent upsert via chunked updates)
 bun run scripts/migrate-to-d1.ts
 ```
 
-*Acceptance check:* Both exit code 0. Re-running produces no error. Row for new slug exists with `status = 'published'`.
+*Acceptance check:* Both exit code 0. Re-running produces no error. Row for new slug exists with `status = 'published'` and complete uncorrupted text content in `content_md`.
 
 ---
 

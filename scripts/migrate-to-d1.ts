@@ -146,17 +146,64 @@ ON CONFLICT(slug) DO UPDATE SET
   await Bun.write(tmpSqlPath, fullSql);
   console.log(`\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`);
 
-  // Execute via wrangler d1
-  console.log("🚀 Applying seed to D1 (dawnbook-db)...");
-  try {
-    await $`npx wrangler d1 execute dawnbook-db --remote --file=${tmpSqlPath} --yes`;
-    console.log("✅ Seed applied successfully.");
-  } catch (error) {
-    console.error("❌ Failed to apply seed:", error);
-    console.log("\n💡 To apply locally instead, run:");
-    console.log(`   wrangler d1 execute dawnbook-db --local --file=${tmpSqlPath}`);
-    process.exit(1);
+  // Execute via wrangler d1 book-by-book to avoid SQLITE_TOOBIG
+  console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
+  const fs = require("node:fs/promises");
+  for (const row of rows) {
+    const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
+    
+    // Chunk size 30,000 characters (30 KB)
+    const chunkSize = 30000;
+    const content = row.content_md;
+    const chunks: string[] = [];
+    for (let i = 0; i < content.length; i += chunkSize) {
+      chunks.push(content.substring(i, i + chunkSize));
+    }
+
+    const sqlStatements: string[] = [];
+    
+    // 1. Initial insert/update metadata (setting content_md = '')
+    sqlStatements.push(`INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  '${escapeSql(row.id)}',
+  '${escapeSql(row.slug)}',
+  '${escapeSql(row.title)}',
+  '${escapeSql(row.status)}',
+  ${subjectLabelSql},
+  '',
+  '${escapeSql(row.created_at)}',
+  '${escapeSql(row.updated_at)}'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = '',
+  updated_at = excluded.updated_at;`);
+
+    // 2. Append chunks sequentially
+    for (const chunk of chunks) {
+      sqlStatements.push(`UPDATE books SET content_md = content_md || '${escapeSql(chunk)}' WHERE slug = '${escapeSql(row.slug)}';`);
+    }
+
+    const bookSql = sqlStatements.join("\n\n");
+    const bookSqlPath = join(rootDir, "db", `seed_${row.slug}.sql`);
+    await Bun.write(bookSqlPath, bookSql);
+    console.log(`Applying seed for book: ${row.slug} (${chunks.length} chunks)...`);
+    try {
+      await $`npx wrangler d1 execute dawnbook-db --remote --file=${bookSqlPath} --yes`;
+    } catch (error) {
+      console.error(`❌ Failed to apply seed for ${row.slug}:`, error);
+      try {
+        await fs.unlink(bookSqlPath);
+      } catch {}
+      process.exit(1);
+    }
+    try {
+      await fs.unlink(bookSqlPath);
+    } catch {}
   }
+  console.log("✅ All seeds applied successfully.");
 }
 
 main().catch((err) => {
