@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Link, NavLink } from 'react-router-dom';
 import { useUser, Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
-import { BookService, type Book } from './services/bookService';
+import { BookService, type Book } from './services/book-service';
 import './components/Dashboard.css';
 
 function Layout({ children }: { children: React.ReactNode }) {

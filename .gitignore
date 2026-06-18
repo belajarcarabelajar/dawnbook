@@ -19,3 +19,17 @@ skills-lock.json
 test-clerk.js
 MDBOOK_SYSTEM_RULES.md
 test_fix.js
+
+# Cruft
+*.log
+*.bak
+*.zip
+deploy.log
+debug.log
+list.log
+wrangler.toml.bak
+site.zip
+test_fix.js
+test.md
+test-clerk.js
+parse_headings.js
