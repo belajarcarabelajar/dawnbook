@@ -240,8 +240,8 @@ async function build() {
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1;">${b.emoji}</span>
                     <div class="top-right-cluster" style="display: flex; align-items: center; gap: 8px; position: relative; z-index: 10;">
-                        <span class="view-count-badge" style="display: none; font-size: 0.75rem; background: var(--color-surface); padding: 2px 6px; border-radius: 4px; color: var(--color-text-muted);">👁 0</span>
                         <span class="subject-label-chip" style="display: none; font-size: 0.75rem; background: var(--color-primary); color: var(--color-background); padding: 2px 6px; border-radius: 4px; font-weight: bold;"></span>
+                        <span class="view-count-badge" style="display: none; font-size: 0.75rem; background: var(--color-surface); padding: 2px 6px; border-radius: 4px; color: var(--color-text-muted);">👁 0</span>
                         <button class="pin-toggle-btn" onclick="event.preventDefault(); togglePin(event, '${escapeHtml(b.slug)}')" style="background: none; border: none; font-size: 20px; cursor: pointer; padding: 0; filter: grayscale(1); opacity: 0.3; transition: all 0.2s;" title="Pin Book">📌</button>
                     </div>
                 </div>
