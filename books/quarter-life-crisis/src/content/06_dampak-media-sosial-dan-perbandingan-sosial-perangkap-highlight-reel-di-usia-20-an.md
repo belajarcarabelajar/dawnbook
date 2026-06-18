@@ -1,6 +1,6 @@
 ## Dampak Media Sosial dan Social Comparison: Perangkap "Highlight Reel" di Usia 20-an
 
-Pernahkah kamu mendapati diri kamu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidup kamu sangat tertinggal dibandingkan teman-teman SMA kamu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
+Pernahkah kamu mendapati dirimu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
 
 Inilah jantung dari *Quarter-Life Crisis* di era digital. Media sosial telah mengubah cara kita menilai kesuksesan diri sendiri, mengubah pencapaian orang lain menjadi tolok ukur yang sering kali tidak realistis.
 
@@ -15,7 +15,7 @@ Ada dua jenis social comparison:
 
 **Analogi: On-Stage vs. Backstage**
 
-> Bayangkan hidup kamu adalah sebuah teater. Kamu sangat memahami kekacauan di **backstage** kamu: kabel yang berantakan, aktor yang lupa naskah, dan kostum yang robek. Namun, saat kamu melihat media sosial orang lain, kamu hanya melihat **pertunjukan on-stage** mereka yang sudah dipoles, diberi pencahayaan sempurna, dan dilatih berbulan-bulan. Menilai backstage kamu dengan pertunjukan on-stage orang lain adalah perbandingan yang tidak adil.
+> Bayangkan hidupmu adalah sebuah teater. Kamu sangat memahami kekacauan di **backstage** kamu: kabel yang berantakan, aktor yang lupa naskah, dan kostum yang robek. Namun, saat kamu melihat media sosial orang lain, kamu hanya melihat **pertunjukan on-stage** mereka yang sudah dipoles, diberi pencahayaan sempurna, dan dilatih berbulan-bulan. Menilai backstage-mu dengan pertunjukan on-stage orang lain adalah perbandingan yang tidak adil.
 
 ### 2\. Memahami Fenomena FOMO (Fear of Missing Out)
 
@@ -60,8 +60,8 @@ Bagaimana cara kita memutus rantai social comparison yang merusak ini? Berikut a
 
 #### A. Digital Hygiene
 
-- **Unfollow/Mute yang Memicu Insecurity:** Jika akun tertentu membuat kamu merasa buruk tentang diri sendiri (meskipun itu teman kamu), gunakan fitur *mute*. Hal ini bertujuan melindungi diri, bukan karena kebencian.
-- **Batasi Waktu Penggunaan:** Gunakan fitur *Screen Time* pada ponsel kamu. Fokuslah pada interaksi aktif, kurangi scrolling pasif.
+- **Unfollow/Mute yang Memicu Insecurity:** Jika akun tertentu membuat kamu merasa buruk tentang diri sendiri (meskipun itu temanmu), gunakan fitur *mute*. Hal ini bertujuan melindungi diri, bukan karena kebencian.
+- **Batasi Waktu Penggunaan:** Gunakan fitur *Screen Time* pada ponselmu. Fokuslah pada interaksi aktif, kurangi scrolling pasif.
 
 #### B. Mengubah Perspektif Social Comparison
 
@@ -80,6 +80,6 @@ Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cerm
 
 **Penting:**
 
-> Self-worth kamu (\\(\text{Self-Worth}\\)) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahan kamu. Self-worth kamu bersifat intrinsik dan tetap ada, bahkan saat ponsel kamu dalam keadaan mati.
+> Self-worth-mu (\\(\text{Self-Worth}\\)) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
 
 *Langkah selanjutnya dalam perjalanan ini adalah memahami bagaimana tekanan sosial ini sering kali berkaitan erat dengan ketidakpastian finansial, yang akan kita bahas di bagian berikutnya.*

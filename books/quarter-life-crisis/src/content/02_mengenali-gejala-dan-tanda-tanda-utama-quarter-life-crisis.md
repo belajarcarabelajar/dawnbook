@@ -35,7 +35,7 @@ Jika ketidakpastian tentang masa depan tinggi dan harapan (dari diri sendiri ata
 Pernahkah kamu merasa sangat bersemangat saat kuliah, namun setahun setelah bekerja, energi itu menguap begitu saja? Hilangnya motivasi adalah gejala inti dari QLC yang sering disalahartikan sebagai kemalasan.
 
 - **Kehilangan "Why":** Kamu kehilangan alasan kuat mengapa kamu melakukan apa yang kamu lakukan sekarang. Target-target yang dulu terasa penting (seperti promosi atau gaji besar) mulai terasa hambar.
-- **Kelelahan Emosional:** Kamu merasa lelah secara mental meskipun secara fisik kamu tidak melakukan banyak aktivitas berat.
+- **Kelelahan Emosional:** Kamu merasa lelah secara mental meskipun secara fisikmu tidak melakukan banyak aktivitas berat.
 - **Apatis:** Menjadi tidak peduli dengan hasil kerja atau pencapaian diri sendiri. Kamu hanya ingin hari segera berakhir.
 
 *Apakah kamu merasa kurang motivasi karena tugasnya terlalu sulit, atau karena tugas tersebut tidak lagi sejalan dengan nilai-nilai hidup yang kamu percayai sekarang?*

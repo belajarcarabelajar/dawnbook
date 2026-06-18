@@ -1,6 +1,6 @@
 ## Memahami Quarter-Life Crisis
 
-Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba merasa sangat asing dengan hidup kamu sendiri? Kamu mungkin sudah lulus kuliah, memiliki pekerjaan, atau sedang merintis sesuatu, namun ada suara kecil di kepala yang bertanya: *"Benarkah ini yang ingin aku lakukan selamanya?"* atau *"Mengapa semua orang terlihat lebih sukses dariku?"*
+Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba merasa sangat asing dengan hidupmu sendiri? Kamu mungkin sudah lulus kuliah, memiliki pekerjaan, atau sedang merintis sesuatu, namun ada suara kecil di kepala yang bertanya: *"Benarkah ini yang ingin aku lakukan selamanya?"* atau *"Mengapa semua orang terlihat lebih sukses dariku?"*
 
 Jika ya, selamat datang di klub. Kamu tidak sendirian, dan kamu kemungkinan besar sedang berada di ambang **Quarter-Life Crisis (QLC)**.
 
@@ -12,7 +12,7 @@ Berbeda dengan "Krisis Paruh Baya" (*Mid-life Crisis*) yang biasanya terjadi kar
 
 ### Analogi: "GPS yang Kehilangan Sinyal"
 
-Bayangkan hidup kamu selama 20 tahun pertama adalah sebuah perjalanan dengan GPS yang sangat akurat. Orang tua, guru, dan sistem sekolah adalah pemandunya. Mereka memberi tahu kapan harus belok (ujian), di mana harus berhenti (istirahat semester), dan ke mana tujuan akhirnya (kelulusan).
+Bayangkan hidupmu selama 20 tahun pertama adalah sebuah perjalanan dengan GPS yang sangat akurat. Orang tua, guru, dan sistem sekolah adalah pemandunya. Mereka memberi tahu kapan harus belok (ujian), di mana harus berhenti (istirahat semester), dan ke mana tujuan akhirnya (kelulusan).
 
 Namun, saat kamu memasuki usia 20-an, tiba-tiba sinyal GPS tersebut hilang. Kamu berada di persimpangan jalan yang luas tanpa papan penunjuk arah. Kamu bebas memilih jalan mana pun, tetapi kebebasan itulah yang justru membuat kamu merasa lumpuh karena takut salah jalan. Itulah Quarter-Life Crisis.
 
@@ -63,10 +63,10 @@ Memahami definisi dan konteks QLC adalah langkah pertama untuk melewatinya. Tanp
 
 Jika kamu merasa sedang berada di fase ini, mulailah dengan langkah-langkah dasar berikut:
 
-1. **Normalisasi Perasaan Kamu:** Sadarilah bahwa apa yang kamu rasakan divalidasi oleh sains dan dialami oleh jutaan orang lain di seluruh dunia.
+1. **Normalisasi Perasaanmu:** Sadarilah bahwa apa yang kamu rasakan divalidasi oleh sains dan dialami oleh jutaan orang lain di seluruh dunia.
 2. **Berhenti Membandingkan "Behind the Scenes" kamu dengan "Highlight Reel" Orang Lain:** Ingatlah bahwa apa yang kamu lihat di media sosial hanyalah bagian terbaik dari hidup orang lain, bukan kenyataan utuhnya.
 3. **Audit Ekspektasi:** Tanyakan pada diri sendiri, *"Apakah tujuan hidup ini adalah keinginan saya sendiri, atau sekadar ekspektasi orang tua dan lingkungan?"*
 
 > "Quarter-life crisis adalah cara jiwa kita memberi tahu bahwa ada sesuatu yang tidak sinkron antara siapa kita saat ini dan siapa yang kita inginkan di masa depan."
 
-Selanjutnya, kita akan membedah lebih dalam mengenai gejala dan tanda-tanda spesifik agar kamu bisa mengidentifikasi apakah kegelisahan kamu adalah QLC atau sesuatu yang lain.
+Selanjutnya, kita akan membedah lebih dalam mengenai gejala dan tanda-tanda spesifik agar kamu bisa mengidentifikasi apakah kegelisahanmu adalah QLC atau sesuatu yang lain.

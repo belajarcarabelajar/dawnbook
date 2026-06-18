@@ -1,8 +1,8 @@
 ## Kemandirian Finansial dan Tekanan Ekonomi
 
-Pernahkah kamu merasa bahwa meskipun gaji kamu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tercekik saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
+Pernahkah kamu merasa bahwa meskipun gajimu sudah naik, saldo di rekening bank seolah-olah menguap begitu saja sebelum pertengahan bulan? Atau mungkin, kamu merasa tercekik saat melihat teman sebaya sudah bisa membeli properti, sementara kamu masih berjuang membayar tagihan langganan bulanan?
 
-Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan mengupas tuntas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menavigasi badai ketidakpastian ini tanpa mengorbankan kesehatan mental kamu.
+Selamat datang di realitas finansial fase *Quarter-Life Crisis*. Di bagian ini, kita akan mengupas tuntas mengapa tekanan ekonomi di usia 20-an terasa jauh lebih berat dibandingkan generasi sebelumnya, dan bagaimana cara menavigasi badai ketidakpastian ini tanpa mengorbankan kesehatan mentalmu.
 
 ## 1. Realitas Biaya Hidup: Mengapa Uang Terasa Lebih "Cepat Habis"?
 
@@ -10,7 +10,7 @@ Salah satu pemicu utama stres di usia dewasa muda adalah **gap antara ekspektasi
 
 ### Konsep Inflasi dan Daya Beli
 
-Bayangkan uang kamu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah uang kamu tetap, maka "volume" barang yang bisa kamu tampung akan mengecil. Dalam ekonomi, ini dirumuskan sebagai:
+Bayangkan uangmu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah uangmu tetap, maka "volume" barang yang bisa kamu tampung akan mengecil. Dalam ekonomi, ini dirumuskan sebagai:
 
 \\[
 \text{Daya Beli} \ (\text{Purchasing Power}) = \frac{\text{Pendapatan} \ (I)}{\text{Tingkat Harga} \ (P)}
@@ -18,7 +18,7 @@ Bayangkan uang kamu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah u
 
 **Analogi: Ember yang Bocor**
 
-> Bayangkan kemandirian finansial kamu adalah sebuah ember yang ingin kamu isi penuh dengan air (tabungan). Namun, ember tersebut memiliki lubang-lubang kecil (biaya langganan, kenaikan harga sewa, kenaikan harga pangan). Masalahnya, di era sekarang, lubang-lubang tersebut membesar lebih cepat daripada debit air yang kamu tuangkan ke dalamnya.
+> Bayangkan kemandirian finansialmu adalah sebuah ember yang ingin kamu isi penuh dengan air (tabungan). Namun, ember tersebut memiliki lubang-lubang kecil (biaya langganan, kenaikan harga sewa, kenaikan harga pangan). Masalahnya, di era sekarang, lubang-lubang tersebut membesar lebih cepat daripada debit air yang kamu tuangkan ke dalamnya.
 
 **Faktor Penyebab Tekanan:**
 
@@ -36,7 +36,7 @@ Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terj
 
 - **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang menghancurkan.
 	- *Rumus Bunga Majemuk:* \\( A = P(1 + r)^n \\)
-		- Artinya, jika kamu menunda pembayaran, utang kamu tumbuh secara eksponensial, bukan linear.
+		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
 - **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan hebat setiap kali notifikasi jatuh tempo muncul.
 
 ## 3. Dampak Psikologis: "Money Anxiety" dan Ketidakpastian Global
@@ -57,7 +57,7 @@ Menghadapi tekanan ini memerlukan pendekatan yang pragmatis sekaligus welas asih
 
 ### A. Aturan 50/30/20 (Versi Modifikasi)
 
-Gunakan prinsip ini untuk mengatur aliran dana kamu secara sistematis:
+Gunakan prinsip ini untuk mengatur aliran danamu secara sistematis:
 
 - **50% untuk Kebutuhan (Needs):** Sewa, makan, tagihan wajib.
 - **30% untuk Keinginan (Wants):** Hiburan dan gaya hidup.
@@ -75,7 +75,7 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Real-world Application: Skenario Menghadapi Kenaikan Biaya Hidup
 
-**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulanan kamu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: \\( 5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000 \\) hanya untuk mempertahankan standar hidup yang **sama**.
+**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: \\( 5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000 \\) hanya untuk mempertahankan standar hidup yang **sama**.
 
 **Tindakan yang Bisa Diambil:**
 
@@ -85,6 +85,6 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Kesimpulan: Mandiri Bukan Berarti Sendirian
 
-Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas narasi hidup kamu**. Tekanan ekonomi memang nyata dan seringkali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
+Kemandirian finansial di masa *Quarter-Life Crisis* bukan soal menjadi kaya dalam semalam, tetapi tentang keberanian **mengambil kendali atas narasi hidupmu**. Tekanan ekonomi memang nyata dan seringkali tidak adil secara sistemik, namun dengan pemahaman yang baik tentang arus kas dan pengelolaan mental yang sehat, kamu bisa melewati fase ini dengan lebih tangguh.
 
 *Refleksi: Apa satu pengeluaran kecil yang jika kamu hentikan hari ini, akan memberikan rasa lega secara psikologis karena kamu merasa memegang kendali kembali?*

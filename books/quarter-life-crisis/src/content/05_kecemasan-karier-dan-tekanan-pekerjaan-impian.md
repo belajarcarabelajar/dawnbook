@@ -1,6 +1,6 @@
 ## Kecemasan Karier dan Tekanan 'Pekerjaan Impian'
 
-Bayangkan kamu berdiri di tengah persimpangan jalan dengan ribuan penunjuk arah yang berbeda. Beberapa jalan terlihat berkilau dan penuh prestise, sementara yang lain tampak gelap dan penuh ketidakpastian. Di belakang kamu, ada suara riuh rendah dari orang tua, media sosial, dan teman sebaya yang masing-masing meneriakkan jalur mana yang "seharusnya" kamu ambil.
+Bayangkan kamu berdiri di tengah persimpangan jalan dengan ribuan penunjuk arah yang berbeda. Beberapa jalan terlihat berkilau dan penuh prestise, sementara yang lain tampak gelap dan penuh ketidakpastian. Di belakangmu, ada suara riuh rendah dari orang tua, media sosial, dan teman sebaya yang masing-masing meneriakkan jalur mana yang "seharusnya" kamu ambil.
 
 Inilah gambaran **Kecemasan Karier** dalam fase *Quarter-Life Crisis*. Ini bukan hanya soal mencari pekerjaan untuk membayar tagihan, tetapi tentang pencarian validasi, identitas, dan ketakutan akan kegagalan di panggung dunia yang sangat kompetitif.
 
@@ -42,7 +42,7 @@ Secara matematis, tingkat kecemasan karier dapat digambarkan sebagai berikut:
 \\text{Kecemasan} = \\frac{\\text{Ekspektasi} \\times \\text{Perbandingan Social}}{\\text{Realitas Saat Ini}}
 \\]
 
-Semakin tinggi ekspektasi kamu dan semakin sering kamu membandingkan diri dengan pencapaian orang lain di LinkedIn atau Instagram, semakin besar beban kecemasan yang kamu pikul.
+Semakin tinggi ekspektasimu dan semakin sering kamu membandingkan diri dengan pencapaian orang lain di LinkedIn atau Instagram, semakin besar beban kecemasan yang kamu pikul.
 
 ## 4\. Menavigasi Ketidakpastian Jalur Karier
 
@@ -50,7 +50,7 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 
 ### Strategi Menghadapi Ketidakpastian:
 
-1. **Iterasi, Bukan Finalisasi:** Anggap pekerjaan pertama kamu sebagai "Versi Beta". Tujuannya bukan untuk menjadi sempurna, tetapi untuk mengumpulkan data tentang apa yang kamu sukai dan apa yang kamu kuasai.
+1. **Iterasi, Bukan Finalisasi:** Anggap pekerjaan pertamamu sebagai "Versi Beta". Tujuannya bukan untuk menjadi sempurna, tetapi untuk mengumpulkan data tentang apa yang kamu sukai dan apa yang kamu kuasai.
 2. **Fokus pada Skill, Bukan Jabatan:** Jabatan bisa hilang karena otomatisasi atau perubahan pasar, tetapi keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan.
 3. **Menerima 'Good Enough' Job:** Terkadang, pekerjaan yang "cukup baik" adalah jembatan yang diperlukan untuk menjaga kesehatan mental dan stabilitas finansial sebelum melompat ke sesuatu yang lebih besar.
 
@@ -70,7 +70,7 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 - **Masalah:** Perbandingan sosial dan beban ambisi.
 - **Solusi:** Sari dapat menggunakan metode **Job Crafting**, yaitu mencari cara untuk menyisipkan keahlian komunikasinya dalam tugas administratifnya, sembari membangun portofolio di luar jam kantor tanpa tekanan finansial.
 
-## 6\. Praktik Mandiri: Membedah Kecemasan Kamu
+## 6\. Praktik Mandiri: Membedah Kecemasanmu
 
 Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat ini:
 
@@ -82,8 +82,8 @@ Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat
 
 ## Kesimpulan Penting
 
-> Karier kamu adalah sebuah maraton di medan yang belum dipetakan, bukan perlombaan lari cepat (sprint). Tidak ada "jalur yang salah", yang ada hanyalah jalur yang memberikan pelajaran berbeda.
+> Kariermu adalah sebuah maraton di medan yang belum dipetakan, bukan perlombaan lari cepat (sprint). Tidak ada "jalur yang salah", yang ada hanyalah jalur yang memberikan pelajaran berbeda.
 
-**Penting:** Pekerjaan kamu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier adalah kunci utama untuk bertahan melewati badai *Quarter-Life Crisis*.
+**Penting:** Pekerjaanmu adalah apa yang kamu lakukan untuk hidup, bukan siapa kamu sebagai manusia. Memisahkan identitas diri dari pencapaian karier adalah kunci utama untuk bertahan melewati badai *Quarter-Life Crisis*.
 
-*Refleksi untuk kamu: Jika besok semua gelar dan jabatan kamu dihapus, kualitas apa yang tetap ada dalam diri kamu yang membuat kamu berharga?*
+*Refleksi untuk kamu: Jika besok semua gelar dan jabatanmu dihapus, kualitas apa yang tetap ada dalam dirimu yang membuat kamu berharga?*
