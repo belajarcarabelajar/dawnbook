@@ -1,6 +1,6 @@
 ## Coping Strategy dan Manajemen Stres: Navigasi di Tengah Badai Quarter-Life Crisis
 
-Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompas kamu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapal kamu menuju ketenangan disebut dengan **Coping Strategy**.
+Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompasmu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapalmu menuju ketenangan disebut dengan **Coping Strategy**.
 
 Quarter-Life Crisis (QLC) lebih dari sekadar fase "galau" biasa. Ini adalah masa saat tuntutan hidup melonjak tajam sementara sumber daya internal kita masih berkembang. Tanpa manajemen stres yang tepat, kita berisiko mengalami kelelahan mental (*burnout*) sebelum perjalanan yang sesungguhnya dimulai.
 

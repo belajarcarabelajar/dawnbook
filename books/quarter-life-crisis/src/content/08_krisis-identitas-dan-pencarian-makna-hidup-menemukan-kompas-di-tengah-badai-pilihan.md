@@ -20,16 +20,16 @@ Krisis identitas terjadi ketika ada jarak yang lebar antara **Identitas Proyeksi
 
 Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: \\( \\text{Kepuasan Hidup} = \\frac{\\text{Aksi Nyata}}{\\text{Ekspektasi Sosial}} \\)
 
-Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidup kamu akan mendekati nol, seberapa besar pun aksi nyata yang kamu lakukan.
+Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidupmu akan mendekati nol, seberapa besar pun aksi nyata yang kamu lakukan.
 
 #### Komponen Pembentuk Identitas:
 
 - **Nilai (Values):** Apa yang kamu anggap benar dan penting (misal: kebebasan, kejujuran, stabilitas).
 - **Minat (Interests):** Apa yang membuat kamu lupa waktu saat melakukannya.
 - **Kekuatan (Strengths):** Apa yang secara alami kamu kuasai.
-- **Tujuan (Purpose):** Kontribusi apa yang ingin kamu berikan pada dunia di luar diri kamu sendiri.
+- **Tujuan (Purpose):** Kontribusi apa yang ingin kamu berikan pada dunia di luar dirimu sendiri.
 
-*Jika semua gelar kamu, pekerjaan kamu, dan validasi di media sosial dihapus besok pagi, bagian mana dari diri kamu yang tetap tersisa? Itulah identitas inti kamu.*
+*Jika semua gelarmu, pekerjaanmu, dan validasi di media sosial dihapus besok pagi, bagian mana dari dirimu yang tetap tersisa? Itulah identitas intimu.*
 
 ### 3. Mencari Makna di Tengah Kekosongan (Logotherapy)
 
@@ -75,8 +75,8 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 
 Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
-- **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batin kamu untuk terdengar.
+- **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batinmu untuk terdengar.
 - **Gunakan "The 5 Whys":** Ketika kamu menginginkan sesuatu (misal: "Saya ingin jadi CEO"), tanyakan "Kenapa?" sebanyak lima kali. Biasanya, jawaban kelima akan mengungkap kebutuhan identitas yang sebenarnya (misal: "Saya ingin merasa dihargai").
 - **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. \\( \\text{Keberhasilan} = \\text{Eksperimen} \\times \\text{Kegagalan} \\) Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
-> **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwa kamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal diri kamu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.
+> **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa seperti sedang mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampaknya sudah sampai di tujuan mereka? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis yang mendalam di baliknya.
 
-Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hati kamu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini begitu membingungkan, namun juga sangat menentukan bagi pembentukan diri kamu di masa depan.
+Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini begitu membingungkan, namun juga sangat menentukan bagi pembentukan dirimu di masa depan.
 
 ## 1\. Mengenal 'Emerging Adulthood': Jembatan Menuju Kedewasaan
 
@@ -64,7 +64,7 @@ Kemampuan mengelola emosi (emotional regulation) berkembang pesat di fase ini. K
 
 ## 4\. Real-World Application: Strategi Berbasis Psikologi
 
-Memahami teori saja tidak cukup. Bagaimana cara menerapkan pengetahuan tentang perkembangan otak dan emosi ini dalam keseharian kamu?
+Memahami teori saja tidak cukup. Bagaimana cara menerapkan pengetahuan tentang perkembangan otak dan emosi ini dalam keseharianmu?
 
 ### Skenario: Menghadapi Analysis Paralysis
 
@@ -72,7 +72,7 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 
 **Langkah Berbasis Psikologi:**
 
-1. **Sadarilah Keterbatasan PFC**: Terima bahwa otak kamu memang sedang didesain untuk merasa waspada terhadap risiko. Jangan membenci diri sendiri karena merasa cemas.
+1. **Sadarilah Keterbatasan PFC**: Terima bahwa otakmu memang sedang didesain untuk merasa waspada terhadap risiko. Jangan membenci diri sendiri karena merasa cemas.
 2. **Gunakan Teknik 'Micro-Decisions'**: Karena otak sulit memproses ketidakpastian jangka panjang, pecahlah keputusan besar menjadi langkah-langkah kecil 24 jam.
 	- *Hari ini: Hanya riset tentang perusahaan A.*
 		- *Besok: Hanya berbicara dengan satu teman yang bekerja di sana.*
@@ -94,7 +94,7 @@ def make_decision(options, pfc_maturity_level):
     
     return decision
 
-# Pesan: Jangan membuat keputusan permanen saat PFC kamu sedang 'low' atau emosi sedang 'high'.
+# Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang 'low' atau emosi sedang 'high'.
 ```
 
 ## 5\. Ringkasan: Mengapa Ini Penting?
@@ -103,10 +103,10 @@ Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk
 
 **Poin-poin Penting untuk Diingat:**
 
-- **Ketidakpastian adalah normal**: Otak kamu sedang dalam tahap *finetuning*.
-- **Emerging Adulthood adalah anugerah**: Ini adalah waktu paling fleksibel dalam hidup kamu untuk mencoba dan gagal.
+- **Ketidakpastian adalah normal**: Otakmu sedang dalam tahap *finetuning*.
+- **Emerging Adulthood adalah anugerah**: Ini adalah waktu paling fleksibel dalam hidupmu untuk mencoba dan gagal.
 - **Biologi bukan takdir**: Meskipun otak belum matang sempurna, kamu bisa melatihnya melalui meditasi, refleksi, dan aksi nyata.
 
 **Penting:** Quarter-Life Crisis adalah sinyal bahwa identitas lama kamu sudah tidak cukup besar untuk menampung potensi baru kamu. Jangan hindari krisisnya, pelajari pesannya.
 
-Jika kamu tahu bahwa otak kamu masih berkembang, apakah kamu akan memberikan sedikit lebih banyak ruang bagi diri kamu untuk melakukan kesalahan hari ini?
+Jika kamu tahu bahwa otakmu masih berkembang, apakah kamu akan memberikan sedikit lebih banyak ruang bagi dirimu untuk melakukan kesalahan hari ini?
