@@ -1,6 +1,6 @@
 import { expect, test, describe } from "bun:test";
-import { BookService } from "../../apps/admin/src/services/bookService";
-import { mockFetch } from "../../helpers/mocks";
+import { BookService } from "../../apps/admin/src/services/book-service";
+import { mockFetch } from "../helpers/mocks";
 
 describe("Admin BookService", () => {
   test("fetchBooks returns mapped books on success", async () => {
