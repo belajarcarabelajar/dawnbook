@@ -317,28 +317,37 @@ async function build() {
           if (!manifest.chapters || !data.progress) return;
           data.progress.forEach(p => {
             const chapters = manifest.chapters[p.book_slug];
-            if (!chapters) return;
+            if (!chapters || chapters.length === 0) return;
             
-            let readPath = decodeURIComponent(p.last_read_path);
-            if (readPath.endsWith('/')) readPath += 'index.html';
+            const total = chapters.length;
+            let percent = 0;
             
-            const idx = chapters.findIndex(c => c === readPath);
-            if (idx !== -1) {
-              const total = chapters.length;
-              let percent = 0;
-              if (total > 1) {
+            if (p.completed_paths && p.completed_paths.length > 0) {
+              let completedCount = 0;
+              p.completed_paths.forEach(cp => {
+                let norm = decodeURIComponent(cp).split('#')[0].split('?')[0];
+                if (norm.endsWith('/')) norm += 'index.html';
+                if (chapters.includes(norm)) completedCount++;
+              });
+              percent = Math.round((completedCount / total) * 100);
+            } else if (p.last_read_path) {
+              // Legacy fallback
+              let readPath = decodeURIComponent(p.last_read_path).split('#')[0].split('?')[0];
+              if (readPath.endsWith('/')) readPath += 'index.html';
+              const idx = chapters.findIndex(c => c === readPath);
+              if (idx !== -1 && total > 1) {
                 percent = Math.round((idx / (total - 1)) * 100);
-              } else if (total === 1) {
-                percent = 100;
               }
-              
-              const card = document.querySelector('.book-card[data-slug="' + p.book_slug + '"]');
-              if (card) {
-                setTimeout(() => {
-                  card.querySelector('.book-progress-bar').style.width = percent + '%';
-                  card.querySelector('.book-progress-text').innerText = percent + '%';
-                }, 50);
-              }
+            }
+            
+            percent = Math.min(Math.max(percent, 0), 100);
+            
+            const card = document.querySelector('.book-card[data-slug="' + p.book_slug + '"]');
+            if (card) {
+              setTimeout(() => {
+                card.querySelector('.book-progress-bar').style.width = percent + '%';
+                card.querySelector('.book-progress-text').innerText = percent + '%';
+              }, 50);
             }
           });
         }).catch(console.error);
