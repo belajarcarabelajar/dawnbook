@@ -16,12 +16,15 @@ interface BookRow {
   content_md: string;
   created_at: string;
   updated_at: string;
+  subject_label?: string | null;
+  view_count: number;
 }
 
 interface PublishPayload {
   bookSlug: string;
   chapterTitle: string;
   markdownContent: string;
+  subjectLabel?: string;
 }
 
 function jsonResponse(data: unknown, status = 200): Response {
@@ -45,22 +48,41 @@ async function handleGetBooks(env: Env, request: Request): Promise<Response> {
   const url = new URL(request.url);
   const includeContent = url.searchParams.get("content") === "true";
   const statusFilter = url.searchParams.get("status");
+  const subjectLabel = url.searchParams.get("subject_label");
+  const sortBy = url.searchParams.get("sort_by") || "newest";
 
   let query: string;
   const params: unknown[] = [];
 
   if (includeContent) {
-    query = "SELECT id, slug, title, status, content_md, created_at, updated_at FROM books";
+    query = "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books";
   } else {
-    query = "SELECT id, slug, title, status, created_at, updated_at FROM books";
+    query = "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books";
   }
 
+  const conditions = [];
+
   if (statusFilter && (statusFilter === "draft" || statusFilter === "published")) {
-    query += " WHERE status = ?1";
+    conditions.push(`status = ?${params.length + 1}`);
     params.push(statusFilter);
   }
 
-  query += " ORDER BY created_at DESC";
+  if (subjectLabel) {
+    conditions.push(`subject_label = ?${params.length + 1}`);
+    params.push(subjectLabel);
+  }
+
+  if (conditions.length > 0) {
+    query += " WHERE " + conditions.join(" AND ");
+  }
+
+  if (sortBy === "oldest") {
+    query += " ORDER BY created_at ASC";
+  } else if (sortBy === "popular") {
+    query += " ORDER BY view_count DESC, created_at DESC";
+  } else {
+    query += " ORDER BY created_at DESC";
+  }
 
   const result = await env.DB.prepare(query)
     .bind(...params)
@@ -97,9 +119,21 @@ async function handlePostBook(
     );
   }
 
-  // Validate slug format
-  if (!/^[a-zA-Z0-9_-]+$/.test(payload.bookSlug)) {
-    return errorResponse("Invalid bookSlug format", 400);
+  // Validate slug format and general lengths
+  if (!/^[a-zA-Z0-9_-]+$/.test(payload.bookSlug) || payload.bookSlug.length > 100) {
+    return errorResponse("Invalid bookSlug format or length", 400);
+  }
+
+  if (payload.chapterTitle.length > 300) {
+    return errorResponse("chapterTitle too long", 400);
+  }
+
+  if (payload.markdownContent.length > 5000000) {
+    return errorResponse("markdownContent too long", 400);
+  }
+
+  if (payload.subjectLabel && payload.subjectLabel.length > 100) {
+    return errorResponse("subjectLabel too long", 400);
   }
 
   const now = new Date().toISOString();
@@ -107,12 +141,13 @@ async function handlePostBook(
 
   // Upsert: insert or update on conflict
   const result = await env.DB.prepare(
-    `INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at)
-     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7)
+    `INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count)
+     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, 0)
      ON CONFLICT(slug) DO UPDATE SET
        title = excluded.title,
        content_md = excluded.content_md,
        status = excluded.status,
+       subject_label = excluded.subject_label,
        updated_at = excluded.updated_at`
   )
     .bind(
@@ -122,7 +157,8 @@ async function handlePostBook(
       "published",
       payload.markdownContent,
       now,
-      now
+      now,
+      payload.subjectLabel || null
     )
     .run();
 
@@ -139,6 +175,7 @@ async function handlePostBook(
         slug: payload.bookSlug,
         title: payload.chapterTitle,
         status: "published",
+        subject_label: payload.subjectLabel || null,
         updated_at: now,
       },
     },

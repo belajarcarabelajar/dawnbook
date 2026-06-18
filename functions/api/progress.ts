@@ -92,8 +92,16 @@ async function handlePostProgress(env: Env, request: Request): Promise<Response>
     return errorResponse("Invalid JSON body", 400);
   }
 
-  if (!payload.bookSlug || !payload.path) {
-    return errorResponse("Missing required fields: bookSlug, path", 400);
+  if (!payload.bookSlug || !/^[a-zA-Z0-9_-]+$/.test(payload.bookSlug) || payload.bookSlug.length > 100) {
+    return errorResponse("Invalid bookSlug format or length", 400);
+  }
+
+  if (!payload.path || typeof payload.path !== 'string' || payload.path.length > 1000 || !payload.path.startsWith('/')) {
+    return errorResponse("Invalid path format or length", 400);
+  }
+
+  if (payload.completed_path && (typeof payload.completed_path !== 'string' || payload.completed_path.length > 1000 || !payload.completed_path.startsWith('/'))) {
+    return errorResponse("Invalid completed_path format or length", 400);
   }
 
   const now = new Date().toISOString();

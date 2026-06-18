@@ -73,8 +73,6 @@ const PUBLIC_EXACT_PATHS = new Set([
 
 /** Prefix-based public paths. */
 const PUBLIC_PATH_PREFIXES = [
-  "/admin/",
-  "/admin",
   "/api/",
   "/sign-in",
   "/.clerk/",
@@ -135,22 +133,6 @@ export function isPublicPath(pathname: string): boolean {
     if (pageExt !== ".html" && PUBLIC_ASSET_EXTENSIONS.has(pageExt)) {
       return true;
     }
-  }
-
-  const FIRST_CHAPTERS = new Set([
-    "intro.html", // metakognisi
-    "Pengantar Jean Piaget dan Genetika Epistemologi.html", // piaget
-    "01_pengantar-neuroplastisitas-keajaiban-otak-yang-ter.html", // neuroplastisitas-dalam-belajar
-    "introduction.html" // _template
-  ]);
-
-  // Extract basename to handle nested directories in mdBook
-  const decodedPage = decodeURIComponent(page);
-  const parts = decodedPage.split('/');
-  const basename = parts[parts.length - 1];
-
-  if (FIRST_CHAPTERS.has(basename)) {
-    return true;
   }
 
   if (page === "toc.html" || page === "404.html" || page === "print.html") {

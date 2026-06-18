@@ -62,6 +62,13 @@
         };
 
         if (isRoot && !hasRedirected && !isInternalNavigation) {
+            try {
+                if (!sessionStorage.getItem('viewed_' + bookSlug)) {
+                    fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', credentials: 'same-origin', keepalive: true }).catch(function(){});
+                    sessionStorage.setItem('viewed_' + bookSlug, '1');
+                }
+            } catch(e) {}
+            
             fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
                 credentials: 'same-origin'
             })
