@@ -23,7 +23,7 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const entries = await readdir(booksDir);
-  const builtBooks: { slug: string; title: string; chapterCount: number; emoji: string }[] = [];
+  const builtBooks: { slug: string; title: string; chapterCount: number; emoji: string; chapters: string[] }[] = [];
 
   console.log("Synchronizing book configurations from _template...");
   await $`bun run scripts/sync-template.ts`;
@@ -64,9 +64,21 @@ async function build() {
         } catch (e) {}
         
         let chapterCount = 0;
+        let chapters: string[] = [];
         try {
             const summaryText = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
-            chapterCount = summaryText.split('\n').filter(line => line.trim().startsWith('- [')).length;
+            const lines = summaryText.split('\n').filter(line => line.trim().startsWith('- ['));
+            chapterCount = lines.length;
+            chapters = lines.map(line => {
+                const match = line.match(/\((.*?)\.md\)/);
+                if (match) {
+                    let filename = match[1];
+                    filename = decodeURIComponent(filename.replace(/^\.\//, ''));
+                    if (filename === 'README' || filename === 'index') return `/books/${entry}/index.html`;
+                    return `/books/${entry}/${filename}.html`;
+                }
+                return null;
+            }).filter(Boolean) as string[];
         } catch (e) {
             console.warn(`Could not read SUMMARY.md for ${entry}`);
         }
@@ -77,7 +89,7 @@ async function build() {
         } catch (e) {
             // fallback to generic
         }
-        builtBooks.push({ slug: entry, title: formattedTitle, chapterCount, emoji });
+        builtBooks.push({ slug: entry, title: formattedTitle, chapterCount, emoji, chapters });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
         console.error(`Failed to build book: ${entry}`, error);
@@ -219,6 +231,13 @@ async function build() {
                     </div>
                 </div>
                 <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
+                <div class="book-progress-wrapper" style="margin-top: auto; padding-bottom: 12px; display: flex; align-items: center; gap: 12px;">
+                    <div class="book-progress" style="flex: 1; border-radius: 4px; height: 6px; position: relative; overflow: hidden;">
+                        <div style="position: absolute; inset: 0; background-color: var(--color-text-muted); opacity: 0.4;"></div>
+                        <div class="book-progress-bar" style="position: absolute; left: 0; top: 0; height: 100%; background: var(--color-primary); width: 0%; transition: width 0.5s ease; border-radius: 4px; z-index: 2;"></div>
+                    </div>
+                    <div class="book-progress-text" style="font-size: 0.8rem; color: var(--color-primary); font-weight: 700; min-width: 45px; text-align: right;">0%</div>
+                </div>
             </div>
             <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 0.85rem; color: var(--color-secondary);">
                 <span><span class="desktop-only">Penyusun: </span>Iwan Kurniawan • ${b.chapterCount} chapter</span>
@@ -287,7 +306,62 @@ async function build() {
       }
       document.addEventListener('DOMContentLoaded', () => {
           reorderBooks();
+          initClerk();
       });
+
+      function loadHubProgress() {
+        Promise.all([
+          fetch('/manifest.json?v=' + Date.now()).then(r => r.json()),
+          fetch('/api/progress?v=' + Date.now(), { credentials: 'same-origin' }).then(r => r.json())
+        ]).then(([manifest, data]) => {
+          if (!manifest.chapters || !data.progress) return;
+          data.progress.forEach(p => {
+            const chapters = manifest.chapters[p.book_slug];
+            if (!chapters) return;
+            
+            let readPath = decodeURIComponent(p.last_read_path);
+            if (readPath.endsWith('/')) readPath += 'index.html';
+            
+            const idx = chapters.findIndex(c => c === readPath);
+            if (idx !== -1) {
+              const total = chapters.length;
+              let percent = 0;
+              if (total > 1) {
+                percent = Math.round((idx / (total - 1)) * 100);
+              } else if (total === 1) {
+                percent = 100;
+              }
+              
+              const card = document.querySelector('.book-card[data-slug="' + p.book_slug + '"]');
+              if (card) {
+                setTimeout(() => {
+                  card.querySelector('.book-progress-bar').style.width = percent + '%';
+                  card.querySelector('.book-progress-text').innerText = percent + '%';
+                }, 50);
+              }
+            }
+          });
+        }).catch(console.error);
+      }
+
+      function initClerk() {
+        var clerkPk = '${process.env.VITE_CLERK_PUBLISHABLE_KEY || "pk_test_cmlnaHQtZ2FubmV0LTk5LmNsZXJrLmFjY291bnRzLmRldiQ"}';
+        var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
+        while (keyBody.length % 4 !== 0) { keyBody += '='; }
+        var domain = atob(keyBody).replace(/\\$$/, '');
+        var script = document.createElement('script');
+        script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
+        script.setAttribute('data-clerk-publishable-key', clerkPk);
+        script.async = true;
+        script.onload = function() {
+            // Load progress immediately, bypassing Clerk CSP crash issues
+            loadHubProgress();
+            if (window.Clerk) {
+                window.Clerk.load().catch(console.error);
+            }
+        };
+        document.head.appendChild(script);
+      }
     </script>
   `;
 
@@ -397,7 +471,11 @@ async function build() {
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
   await writeFile(join(outputDir, "sign-in.html"), generatePage("Sign In", signInContent));
-  await writeFile(join(outputDir, "manifest.json"), JSON.stringify({ books: builtBooks.map(b => b.slug) }, null, 2));
+  const manifestData = { 
+    books: builtBooks.map(b => b.slug), 
+    chapters: builtBooks.reduce((acc, b) => { acc[b.slug] = b.chapters; return acc; }, {} as Record<string, string[]>)
+  };
+  await writeFile(join(outputDir, "manifest.json"), JSON.stringify(manifestData, null, 2));
 
   // Copy CSS files
   await $`cp apps/hub/src/styles/typography.css ${join(outputDir, "typography.css")}`;
@@ -424,7 +502,7 @@ async function build() {
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com;
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Pragma: no-cache
   Expires: 0

@@ -4,7 +4,7 @@ import { join } from "path";
 
 describe("Shared Script Client-Side Logic", () => {
   test("script contains progressive enhancement fallbacks", () => {
-    const scriptPath = join(import.meta.dir, "../../books/shared-script-v3.js");
+    const scriptPath = join(import.meta.dir, "../../books/shared-script.js");
     const script = readFileSync(scriptPath, "utf-8");
     
     // Assert that Clerk JS is dynamically injected
