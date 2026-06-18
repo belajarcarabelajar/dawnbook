@@ -1,0 +1,13 @@
+[book]
+authors = ["Placeholder Author"]
+language = "en"
+src = "src"
+title = "Template Book"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
