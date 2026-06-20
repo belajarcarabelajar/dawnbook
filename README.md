@@ -10,9 +10,9 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 - **Books Directory**: The `books/` directory contains individual books (e.g., `books/piaget/`). Each book uses its own `book.toml` metadata and Markdown chapters under `src/content/`.
 - **Generator**: Uses **mdBook** to compile Markdown chapters into HTML.
 - **Edge Architecture**: Hosted on Cloudflare Pages. It uses Cloudflare Pages Functions (`functions/`) and edge middleware (`functions/_middleware.ts`) for dynamic content serving, caching optimization, and authentication.
-- **Authentication & Gating**: Integrated with **Clerk**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified Clerk session. Unauthenticated edge requests for gated content are intercepted and redacted via `HTMLRewriter` at the Cloudflare Edge to prevent client-side gating bypass.
+- **Authentication & Gating**: Integrated with **Clerk**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified Clerk session. Unauthenticated edge requests for gated content are intercepted and redirected via `functions/_middleware.ts` to prevent bypass.
 - **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, and completed paths per user.
-- **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas signaling paywalled sections (`isAccessibleForFree: False`).
+- **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas.
 - **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
 - **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page.
 - **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
