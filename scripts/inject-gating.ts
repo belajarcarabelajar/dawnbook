@@ -74,20 +74,8 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       if (isGatedClientSide) {
         // Inject head script to prevent FOUC with dynamic SEO-first gating
         const script = `
-        <script>
-          (function() {
-            var currentPath = window.location.pathname;
-            var freeChapter = null;
-            try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
-            if (freeChapter && freeChapter !== currentPath) {
-              document.documentElement.style.opacity = '0';
-              document.documentElement.style.visibility = 'hidden';
-            } else {
-              try { sessionStorage.setItem('free_chapter_viewed', currentPath); } catch(e) {}
-            }
-          })();
-        </script>
-        <noscript><style>html { opacity: 1 !important; visibility: visible !important; }</style></noscript>
+        <script>!function(){var e=window.location.pathname,t=null;try{t=sessionStorage.getItem("free_chapter_viewed")}catch(e){}t&&t!==e?(document.documentElement.style.opacity="0",document.documentElement.style.visibility="hidden"):try{sessionStorage.setItem("free_chapter_viewed",e)}catch(e){}}();</script>
+        <noscript><style>html{opacity:1!important;visibility:visible!important;}</style></noscript>
         `;
         if (content.includes("</head>")) {
           content = content.replace("</head>", script + "\n</head>");

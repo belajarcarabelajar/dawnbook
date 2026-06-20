@@ -28,6 +28,15 @@ async function build() {
     process.exit(1);
   }
 
+  let clerkDomain = "";
+  try {
+    const keyBody = process.env.VITE_CLERK_PUBLISHABLE_KEY.replace(/^pk_(test|live)_/, '');
+    const padded = keyBody.padEnd(keyBody.length + (4 - keyBody.length % 4) % 4, '=');
+    clerkDomain = Buffer.from(padded, 'base64').toString('utf8').replace(/\$$/, '');
+  } catch (e) {
+    console.warn("Could not parse Clerk domain from publishable key", e);
+  }
+
   const rootDir = process.cwd();
   const booksDir = join(rootDir, "books");
   const outputDir = join(rootDir, "output");
@@ -116,6 +125,9 @@ async function build() {
 
   console.log("Generating premium hub site...");
 
+  const minifyJs = (js: string) => js.replace(/\/\*[\s\S]*?\*\//g, '').replace(/^\s*\/\/.*$/gm, '').replace(/\s+/g, ' ').trim();
+  const minifyCss = (css: string) => css.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s+/g, ' ').replace(/\s*([{}:;,])\s*/g, '$1').trim();
+
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
   const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
   const runtimeScript = await readFile(join(rootDir, "apps/hub/src/scripts/i18n-runtime.js"), "utf8");
@@ -128,7 +140,7 @@ async function build() {
       };
     </script>
     <script>
-      ${runtimeScript}
+      ${minifyJs(runtimeScript)}
     </script>
   `;
 
@@ -141,6 +153,12 @@ async function build() {
     <meta name="theme-color" content="#000000">
     <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY}">
     <title>${title} | Dawnbook Platform</title>
+    ${clerkDomain ? `<link rel="preconnect" href="https://${clerkDomain}" crossorigin>\n    <link rel="dns-prefetch" href="https://${clerkDomain}">` : ''}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap"></noscript>
     <link rel="manifest" href="/manifest.webmanifest">
     <script src="/register-sw.js" defer></script>
     <script src="/pake-compat.js" defer></script>
@@ -149,6 +167,7 @@ async function build() {
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">
     <link rel="stylesheet" href="/HubLayout.css?v=${Date.now()}">
     <script>
+      ${minifyJs(`
       function safeStorageGet(key) {
         try { return localStorage.getItem(key); } catch (e) { return null; }
       }
@@ -194,6 +213,7 @@ async function build() {
          const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
          applyTheme(currentTheme);
       });
+      `)}
     </script>
     ${i18nInjection}
 </head>
@@ -260,7 +280,7 @@ async function build() {
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
-                    <span style="font-size: 48px; line-height: 1;">${b.emoji}</span>
+                    <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${b.emoji}</span>
                     <div class="top-right-cluster">
                         <span class="subject-label-wrapper" style="display: none;"><span class="subject-label-chip"></span></span>
                         <span class="view-count-badge" style="display: none;">👁 0</span>
@@ -268,7 +288,7 @@ async function build() {
                     </div>
                 </div>
                 <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
-                <div class="book-progress-wrapper" style="margin-top: auto; padding-bottom: 12px; display: flex; align-items: center; gap: 12px;">
+                <div class="book-progress-wrapper" style="margin-top: auto; padding-bottom: 12px; display: flex; align-items: center; gap: 12px; min-height: 18px;">
                     <div class="book-progress" style="flex: 1; border-radius: 4px; height: 6px; position: relative; overflow: hidden;">
                         <div style="position: absolute; inset: 0; background-color: var(--color-text-muted); opacity: 0.4;"></div>
                         <div class="book-progress-bar" style="position: absolute; left: 0; top: 0; height: 100%; background: var(--color-primary); width: 0%; transition: width 0.5s ease; border-radius: 4px; z-index: 2;"></div>
@@ -287,6 +307,7 @@ async function build() {
       `).join("")}
     </div>
     <script>
+      ${minifyJs(`
       function getPinned() {
           return JSON.parse(safeStorageGet('pinned_books') || '[]');
       }
@@ -554,6 +575,7 @@ async function build() {
           if (window.applyLocale) window.applyLocale();
         }
       }
+      `)}
     </script>
   `;
 
@@ -612,8 +634,8 @@ async function build() {
             <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg); text-align: center;">
                 <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-sm) 0; font-size: 1.1rem;" data-i18n="donate.qris.title">Scan QRIS</h3>
                 <p style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: var(--spacing-md);" data-i18n="donate.qris.desc">Scan the QR code below using any e-wallet or mobile banking app.</p>
-                <div style="background: #ffffff; border-radius: 12px; padding: 16px; display: inline-block; max-width: 280px;">
-                    <img src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code" style="width: 100%; height: auto; border-radius: 8px;">
+                <div style="background: #ffffff; border-radius: 12px; padding: 16px; display: inline-block; max-width: 280px; width: 100%;">
+                    <img src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code" width="280" height="280" style="width: 100%; height: auto; aspect-ratio: 1/1; border-radius: 8px; display: block;">
                 </div>
             </div>
         </div>
@@ -628,6 +650,7 @@ async function build() {
         </div>
     </div>
     <script>
+      ${minifyJs(`
       function copyAccountNumber() {
         var text = document.getElementById('bank-account-number').textContent;
         navigator.clipboard.writeText(text).then(function() {
@@ -649,6 +672,7 @@ async function build() {
           document.body.removeChild(ta);
         });
       }
+      `)}
     </script>
   `;
 
@@ -661,6 +685,7 @@ async function build() {
         </div>
     </div>
     <script>
+      ${minifyJs(`
       var badgeColors = {
         Gold: { bg: '#fbbf24', border: '#f59e0b', text: '#78350f', fill: '#fcd34d' },
         Silver: { bg: '#d1d5db', border: '#9ca3af', text: '#1f2937', fill: '#e5e7eb' },
@@ -761,6 +786,7 @@ async function build() {
           document.addEventListener('DOMContentLoaded', bootClerk);
         }
       })();
+      `)}
     </script>
   `;
 
@@ -774,6 +800,7 @@ async function build() {
         <p style="font-size: 0.875rem; opacity: 0.7;"><span data-i18n="signin.powered">Powered by</span> <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
     </div>
     <script>
+      ${minifyJs(`
       (function() {
         var params = new URLSearchParams(window.location.search);
         var redirectUrl = params.get('redirect_url') || '/';
@@ -829,6 +856,7 @@ async function build() {
           }
         }
       })();
+      `)}
     </script>
   `;
 
@@ -844,10 +872,13 @@ async function build() {
   };
   await writeFile(join(outputDir, "manifest.json"), JSON.stringify(manifestData, null, 2));
 
-  // Copy CSS files
-  await $`cp apps/hub/src/styles/typography.css ${join(outputDir, "typography.css")}`;
-  await $`cp apps/hub/src/styles/tokens.css ${join(outputDir, "tokens.css")}`;
-  await $`cp apps/hub/src/components/HubLayout.css ${join(outputDir, "HubLayout.css")}`;
+  // Copy & minify CSS files
+  for (const cssFile of ["typography.css", "tokens.css"]) {
+    const cssContent = await readFile(join(rootDir, `apps/hub/src/styles/${cssFile}`), "utf8");
+    await writeFile(join(outputDir, cssFile), minifyCss(cssContent));
+  }
+  const layoutCss = await readFile(join(rootDir, "apps/hub/src/components/HubLayout.css"), "utf8");
+  await writeFile(join(outputDir, "HubLayout.css"), minifyCss(layoutCss));
 
   // Copy PWA public files
   try {
@@ -880,6 +911,15 @@ async function build() {
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Pragma: no-cache
   Expires: 0
+
+/*.css
+  Cache-Control: public, max-age=31536000, immutable
+
+/*.js
+  Cache-Control: public, max-age=31536000, immutable
+
+/manifest.webmanifest
+  Cache-Control: public, max-age=31536000, immutable
 `;
 
     // Map gated paths into _headers appending X-Robots-Tag: noindex
