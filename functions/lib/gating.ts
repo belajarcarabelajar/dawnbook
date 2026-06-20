@@ -69,6 +69,10 @@ const PUBLIC_EXACT_PATHS = new Set([
   "/favicon.ico",
   "/favicon.svg",
   "/.nojekyll",
+  "/donate",
+  "/donate.html",
+  "/appreciation",
+  "/appreciation.html",
 ]);
 
 /** Prefix-based public paths. */
