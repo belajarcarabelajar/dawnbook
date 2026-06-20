@@ -1,6 +1,7 @@
 export interface Book {
   slug: string;
   title: string;
+  content_md?: string;
 }
 
 export interface PublishPayload {
@@ -61,6 +62,54 @@ export const BookService = {
     const data = await response.json() as { books: Array<{ slug: string; title: string }> };
     return data.books.map((b) => ({ slug: b.slug, title: b.title }));
   },
+
+  /**
+   * Fetches a specific book including its full markdown content.
+   */
+  async fetchBook(slug: string): Promise<Book> {
+    const base = getApiBase();
+    const response = await fetch(`${base}/api/books/${slug}`);
+
+    if (!response.ok) {
+      throw new Error(`Failed to fetch book: ${response.status} ${response.statusText}`);
+    }
+
+    const data = await response.json() as { book: Book };
+    return data.book;
+  },
+
+  /**
+   * Deletes a book via the API.
+   * Requires an authenticated Clerk session.
+   */
+  async deleteBook(slug: string): Promise<{ success: boolean; message: string }> {
+    const base = getApiBase();
+    const token = await getAuthToken();
+
+    if (!token) {
+      return { success: false, message: "Authentication required. Please sign in." };
+    }
+
+    const response = await fetch(`${base}/api/books/${slug}`, {
+      method: "DELETE",
+      headers: {
+        "Authorization": `Bearer ${token}`,
+      },
+    });
+
+    if (response.status === 401) {
+      return { success: false, message: "Unauthorized. Please sign in again." };
+    }
+
+    if (!response.ok) {
+      const errorData = await response.json().catch(() => ({ error: "Unknown error" })) as { error?: string };
+      return { success: false, message: errorData.error || `Request failed: ${response.status}` };
+    }
+
+    const result = await response.json() as { success: boolean; message: string };
+    return { success: result.success, message: result.message };
+  },
+
 
   /**
    * Publishes a chapter by sending the payload to the API.
