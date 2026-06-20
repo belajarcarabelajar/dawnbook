@@ -12,7 +12,7 @@ describe("Inject Gating Script (scripts/inject-gating.ts)", () => {
     expect(script).toContain('rel="canonical"');
     
     // FOUC prevention
-    expect(script).toContain("opacity = '0'");
-    expect(script).toContain("<noscript><style>html { opacity: 1 !important; visibility: visible !important; }</style></noscript>");
+    expect(script).toContain('opacity="0"');
+    expect(script).toContain("<noscript><style>html{opacity:1!important;visibility:visible!important;}</style></noscript>");
   });
 });
