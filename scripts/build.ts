@@ -230,9 +230,8 @@ async function build() {
 
   const indexContent = `
     <div class="hero-section">
-        <h1 data-i18n="hub.hero.title">Dawn is Coming. Free Your Mind.</h1>
-        <p data-i18n="hub.hero.subtitle">Embrace the sunrise of open knowledge. A new era of freedom where learning is self-directed, open to all, and absolutely free. We believe education empowers you to think critically and explore boundlessly.</p>
-        <p style="font-weight: bold; margin-top: var(--spacing-md); color: var(--color-accent); font-size: 1.1rem;" data-i18n="hub.hero.accent">Knowledge belongs to everyone. The dawn of free learning is here.</p>
+        <h1 data-i18n="hub.hero.title">A New Dawn Has Arrived</h1>
+        <p data-i18n="hub.hero.subtitle">Learning is everyone's right. Here, you can learn anything, anytime, and absolutely free. Free your mind!</p>
     </div>
 
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
@@ -525,10 +524,6 @@ async function build() {
 
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md); margin-top: var(--spacing-lg)" data-i18n="about.motif.title">The Dawn Motif</h2>
         <p data-i18n="about.motif.body">The dawn signifies the end of the night and the arrival of a new era of freedom. It represents our profound belief that the light of education should reach every corner of the world, illuminating minds and liberating individuals.</p>
-
-        <div style="margin-top: var(--spacing-xl); text-align: center; border-top: 1px solid var(--color-secondary); padding-top: var(--spacing-lg);">
-          <p style="font-weight: bold; color: var(--color-accent); font-size: 1.25rem;" data-i18n="hub.hero.accent">Knowledge belongs to everyone. The dawn of free learning is here.</p>
-        </div>
     </div>
   `;
 

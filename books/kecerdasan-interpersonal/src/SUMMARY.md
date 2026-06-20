@@ -1,0 +1,15 @@
+# Summary
+
+- [Fondasi Kecerdasan Interpersonal: Jembatan Menuju Profesional T-Shaped](content/01_fondasi-kecerdasan-interpersonal.md)
+- [Seni Mendengar Aktif dan Empati: Melampaui Sekadar Kata-kata](content/02_seni-mendengar-aktif-dan-empati.md)
+- [Komunikasi Verbal dan Non-Verbal yang Efektif: Seni Mengirimkan Pesan Tanpa Distorsi](content/03_komunikasi-verbal-dan-non-verbal-yang-efektif.md)
+- [Memahami Berbagai Gaya Kerja dan Kepribadian: Seni Menjadi Bunglon Profesional](content/04_memahami-berbagai-gaya-kerja-dan-kepribadian.md)
+- [Kolaborasi Lintas Departemen (Cross-Functional)](content/05_kolaborasi-lintas-departemen-cross-functional.md)
+- [Manajemen Konflik dan Resolusi Masalah: Mengubah Gesekan Menjadi Kekuatan](content/06_manajemen-konflik-dan-resolusi-masalah.md)
+- [Persuasi dan Memberi Pengaruh Tanpa Otoritas](content/07_persuasi-dan-memberi-pengaruh-tanpa-otoritas.md)
+- [Memberi dan Menerima Umpan Balik (Feedback)](content/08_memberi-dan-menerima-umpan-balik-feedback.md)
+- [Fasilitasi Rapat dan Diskusi Kolaboratif](content/09_fasilitasi-rapat-dan-diskusi-kolaboratif.md)
+- [Membangun Kepercayaan dan Keamanan Psikologis](content/10_membangun-kepercayaan-dan-keamanan-psikologis.md)
+- [Etika Komunikasi Digital dan Kolaborasi Virtual: Navigasi di Dunia Kerja Modern](content/11_etika-komunikasi-digital-dan-kolaborasi-virtual.md)
+- [Kepemimpinan Interpersonal dalam Tim T-Shaped: Menjadi Konduktor dalam Orkestra Spesialis](content/12_kepemimpinan-interpersonal-dalam-tim-t-shaped.md)
+- [Referensi](content/13_referensi.md)
