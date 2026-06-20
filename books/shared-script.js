@@ -11,7 +11,7 @@
 
     // Gating rule: Dynamic SEO-first gating based on entry point
     var freeChapter = null;
-    try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) {}
+    try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.warn('sessionStorage getItem error', e); }
     var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
 
 
@@ -72,7 +72,7 @@
                     fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', credentials: 'same-origin', keepalive: true }).catch(function(){});
                     sessionStorage.setItem('viewed_' + bookSlug, '1');
                 }
-            } catch(e) {}
+            } catch(e) { console.warn('sessionStorage setItem error', e); }
             
             fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
                 credentials: 'same-origin'
@@ -158,7 +158,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     try {
                         localStorage.setItem('mdbook-sidebar', 'hidden');
-                    } catch(err) {}
+                    } catch(err) { console.warn('localStorage setItem error', err); }
                 }
             }
         });

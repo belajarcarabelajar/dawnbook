@@ -114,68 +114,85 @@ function applyGatedCacheHeaders(response: Response): Response {
 }
 
 export const onRequest: PagesFunction<Env> = async (context) => {
-  const { request, next, env } = context;
-  const url = new URL(request.url);
-  const pathname = url.pathname;
+  try {
+    const { request, next, env } = context;
+    const url = new URL(request.url);
+    const pathname = url.pathname;
 
-  // --- Locale detection and cookie logic ---
-  const cookieHeader = request.headers.get("Cookie") ?? "";
-  const cookies = cookieHeader.split(";").map((c) => c.trim());
-  let cookieValue: string | null = null;
-  for (const cookie of cookies) {
-    if (cookie.startsWith(`${COOKIE_NAME}=`)) {
-      cookieValue = cookie.slice(`${COOKIE_NAME}=`.length).trim();
-      break;
+    // --- Locale detection and cookie logic ---
+    const cookieHeader = request.headers.get("Cookie") ?? "";
+    const cookies = cookieHeader.split(";").map((c) => c.trim());
+    let cookieValue: string | null = null;
+    for (const cookie of cookies) {
+      if (cookie.startsWith(`${COOKIE_NAME}=`)) {
+        cookieValue = cookie.slice(`${COOKIE_NAME}=`.length).trim();
+        break;
+      }
     }
-  }
 
-  const country = (request.cf?.country as string) || null;
-  const locale = resolveLocale({ cookieValue, country });
-  const needsCookie = !cookieValue;
+    const country = (request.cf?.country as string) || null;
+    const locale = resolveLocale({ cookieValue, country });
+    const needsCookie = !cookieValue;
 
-  // Since we need to append Set-Cookie to the outgoing response, we will wrap next()
-  // and modify the response before returning it.
-  async function nextWithLocale(): Promise<Response> {
-    const response = await next();
-    if (!needsCookie) return response;
-    
-    // Create a new response to allow header modification
-    const newResponse = new Response(response.body, response);
-    newResponse.headers.append("Set-Cookie", `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`);
-    return newResponse;
-  }
+    // Since we need to append Set-Cookie to the outgoing response, we will wrap next()
+    // and modify the response before returning it.
+    async function nextWithLocale(): Promise<Response> {
+      const response = await next();
+      if (!needsCookie) return response;
 
-  // --- Public paths: pass through unchanged ---
-  if (isPublicPath(pathname)) {
-    return nextWithLocale();
-  }
+      // Create a new response to allow header modification
+      const newResponse = new Response(response.body, response);
+      newResponse.headers.append("Set-Cookie", `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`);
+      return newResponse;
+    }
 
-  // --- Gated paths: require Clerk session ---
-  if (wantsHtml(request)) {
+    // --- Public paths: pass through unchanged ---
+    if (isPublicPath(pathname)) {
+      return await nextWithLocale();
+    }
+
+    // --- Gated paths: require Clerk session ---
+    if (wantsHtml(request)) {
+      const token = extractSessionToken(request);
+      if (!token || !(await verifySession(token, env))) {
+        const signInUrl = new URL("/sign-in", request.url);
+        signInUrl.searchParams.set("redirect_url", request.url);
+        return Response.redirect(signInUrl.toString(), 302);
+      }
+      const response = await nextWithLocale();
+      return applyGatedCacheHeaders(response);
+    }
+
     const token = extractSessionToken(request);
-    if (!token || !(await verifySession(token, env))) {
-      const signInUrl = new URL("/sign-in", request.url);
-      signInUrl.searchParams.set("redirect_url", request.url);
-      return Response.redirect(signInUrl.toString(), 302);
+
+    if (!token) {
+      return unauthorizedJson();
     }
+
+    // Verify the token with Clerk backend
+    const session = await verifySession(token, env);
+
+    if (!session) {
+      return unauthorizedJson();
+    }
+
+    // --- Authenticated: serve the gated content with safe cache headers ---
     const response = await nextWithLocale();
     return applyGatedCacheHeaders(response);
+  } catch (err) {
+    console.error("Middleware error:", err);
+    return new Response(
+      JSON.stringify({
+        error: "Internal Server Error",
+        message: "An unexpected error occurred at the edge."
+      }),
+      {
+        status: 500,
+        headers: {
+          "Content-Type": "application/json",
+          "Cache-Control": "private, no-store",
+        },
+      }
+    );
   }
-
-  const token = extractSessionToken(request);
-
-  if (!token) {
-    return unauthorizedJson();
-  }
-
-  // Verify the token with Clerk backend
-  const session = await verifySession(token, env);
-
-  if (!session) {
-    return unauthorizedJson();
-  }
-
-  // --- Authenticated: serve the gated content with safe cache headers ---
-  const response = await nextWithLocale();
-  return applyGatedCacheHeaders(response);
 };
