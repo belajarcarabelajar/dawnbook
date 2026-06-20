@@ -15,7 +15,7 @@ We take the security of Dawnbook seriously. If you discover a vulnerability or a
 
 ### Contact Information
 
-Please report any security findings by emailing `security@dawnbook.belajarcarabelajar.com` directly. Do **not** open a public issue on GitHub for security vulnerabilities, as this exposes the project to premature exploitation.
+Please report any security findings by emailing `iwan@belajarcarabelajar.com` directly. Do **not** open a public issue on GitHub for security vulnerabilities, as this exposes the project to premature exploitation.
 
 ### What to Include
 
