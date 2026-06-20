@@ -10,7 +10,7 @@ try {
     if (match) process.env[match[1]] = match[2].trim();
   });
 } catch (e) {
-  // Silent fail if .env.local doesn't exist
+  console.warn('.env.local not found, skipping');
 }
 
 function escapeHtml(unsafe: string) {
@@ -86,7 +86,7 @@ async function build() {
             const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
             const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
             if (titleMatch) formattedTitle = titleMatch[1];
-        } catch (e) {}
+        } catch (e) { console.warn('Failed to parse book.toml title', e); }
         
         let chapterCount = 0;
         let chapters: string[] = [];
@@ -112,7 +112,7 @@ async function build() {
             const iconText = await readFile(join(bookPath, "icon.txt"), "utf8");
             if (iconText.trim()) emoji = iconText.trim();
         } catch (e) {
-            // fallback to generic
+            console.warn('Failed to read icon.txt, falling back to generic', e);
         }
         builtBooks.push({ slug: entry, title: formattedTitle, author, chapterCount, emoji, chapters });
         console.log(`Successfully built: ${entry}`);

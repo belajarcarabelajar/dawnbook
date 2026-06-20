@@ -52,30 +52,40 @@ export const BookService = {
    * Fetches all books from the API.
    */
   async fetchBooks(): Promise<Book[]> {
-    const base = getApiBase();
-    const response = await fetch(`${base}/api/books`);
+    try {
+      const base = getApiBase();
+      const response = await fetch(`${base}/api/books`);
 
-    if (!response.ok) {
-      throw new Error(`Failed to fetch books: ${response.status} ${response.statusText}`);
+      if (!response.ok) {
+        throw new Error(`Failed to fetch books: ${response.status} ${response.statusText}`);
+      }
+
+      const data = await response.json() as { books: Array<{ slug: string; title: string }> };
+      return data.books.map((b) => ({ slug: b.slug, title: b.title }));
+    } catch (err) {
+      console.error("fetchBooks network error:", err);
+      throw err;
     }
-
-    const data = await response.json() as { books: Array<{ slug: string; title: string }> };
-    return data.books.map((b) => ({ slug: b.slug, title: b.title }));
   },
 
   /**
    * Fetches a specific book including its full markdown content.
    */
   async fetchBook(slug: string): Promise<Book> {
-    const base = getApiBase();
-    const response = await fetch(`${base}/api/books/${slug}`);
+    try {
+      const base = getApiBase();
+      const response = await fetch(`${base}/api/books/${slug}`);
 
-    if (!response.ok) {
-      throw new Error(`Failed to fetch book: ${response.status} ${response.statusText}`);
+      if (!response.ok) {
+        throw new Error(`Failed to fetch book: ${response.status} ${response.statusText}`);
+      }
+
+      const data = await response.json() as { book: Book };
+      return data.book;
+    } catch (err) {
+      console.error(`fetchBook network error for ${slug}:`, err);
+      throw err;
     }
-
-    const data = await response.json() as { book: Book };
-    return data.book;
   },
 
   /**
@@ -83,31 +93,36 @@ export const BookService = {
    * Requires an authenticated Clerk session.
    */
   async deleteBook(slug: string): Promise<{ success: boolean; message: string }> {
-    const base = getApiBase();
-    const token = await getAuthToken();
+    try {
+      const base = getApiBase();
+      const token = await getAuthToken();
 
-    if (!token) {
-      return { success: false, message: "Authentication required. Please sign in." };
+      if (!token) {
+        return { success: false, message: "Authentication required. Please sign in." };
+      }
+
+      const response = await fetch(`${base}/api/books/${slug}`, {
+        method: "DELETE",
+        headers: {
+          "Authorization": `Bearer ${token}`,
+        },
+      });
+
+      if (response.status === 401) {
+        return { success: false, message: "Unauthorized. Please sign in again." };
+      }
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({ error: "Unknown error" })) as { error?: string };
+        return { success: false, message: errorData.error || `Request failed: ${response.status}` };
+      }
+
+      const result = await response.json() as { success: boolean; message: string };
+      return { success: result.success, message: result.message };
+    } catch (err) {
+      console.error(`deleteBook network error for ${slug}:`, err);
+      return { success: false, message: "Network error or server is unreachable." };
     }
-
-    const response = await fetch(`${base}/api/books/${slug}`, {
-      method: "DELETE",
-      headers: {
-        "Authorization": `Bearer ${token}`,
-      },
-    });
-
-    if (response.status === 401) {
-      return { success: false, message: "Unauthorized. Please sign in again." };
-    }
-
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({ error: "Unknown error" })) as { error?: string };
-      return { success: false, message: errorData.error || `Request failed: ${response.status}` };
-    }
-
-    const result = await response.json() as { success: boolean; message: string };
-    return { success: result.success, message: result.message };
   },
 
 
@@ -116,32 +131,37 @@ export const BookService = {
    * Requires an authenticated Clerk session.
    */
   async publishChapter(payload: PublishPayload): Promise<{ success: boolean; message: string }> {
-    const base = getApiBase();
-    const token = await getAuthToken();
+    try {
+      const base = getApiBase();
+      const token = await getAuthToken();
 
-    if (!token) {
-      return { success: false, message: "Authentication required. Please sign in." };
+      if (!token) {
+        return { success: false, message: "Authentication required. Please sign in." };
+      }
+
+      const response = await fetch(`${base}/api/books`, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`,
+        },
+        body: JSON.stringify(payload),
+      });
+
+      if (response.status === 401) {
+        return { success: false, message: "Unauthorized. Please sign in again." };
+      }
+
+      if (!response.ok) {
+        const errorData = await response.json().catch(() => ({ error: "Unknown error" })) as { error?: string };
+        return { success: false, message: errorData.error || `Request failed: ${response.status}` };
+      }
+
+      const result = await response.json() as { success: boolean; message: string };
+      return { success: result.success, message: result.message };
+    } catch (err) {
+      console.error("publishChapter network error:", err);
+      return { success: false, message: "Network error or server is unreachable." };
     }
-
-    const response = await fetch(`${base}/api/books`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "Authorization": `Bearer ${token}`,
-      },
-      body: JSON.stringify(payload),
-    });
-
-    if (response.status === 401) {
-      return { success: false, message: "Unauthorized. Please sign in again." };
-    }
-
-    if (!response.ok) {
-      const errorData = await response.json().catch(() => ({ error: "Unknown error" })) as { error?: string };
-      return { success: false, message: errorData.error || `Request failed: ${response.status}` };
-    }
-
-    const result = await response.json() as { success: boolean; message: string };
-    return { success: result.success, message: result.message };
   },
 };

@@ -196,12 +196,12 @@ ON CONFLICT(slug) DO UPDATE SET
       console.error(`❌ Failed to apply seed for ${row.slug}:`, error);
       try {
         await fs.unlink(bookSqlPath);
-      } catch {}
+      } catch (e) { console.warn('Failed to cleanup temp file', e); }
       process.exit(1);
     }
     try {
       await fs.unlink(bookSqlPath);
-    } catch {}
+    } catch (e) { console.warn('Failed to cleanup temp file', e); }
   }
   console.log("✅ All seeds applied successfully.");
 }

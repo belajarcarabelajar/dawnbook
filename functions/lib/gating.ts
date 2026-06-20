@@ -91,7 +91,13 @@ const PUBLIC_PATH_PREFIXES = [
  */
 export function isPublicPath(pathname: string): boolean {
   // Decode percent-encoded pathnames for accurate matching
-  const decoded = decodeURIComponent(pathname);
+  let decoded = pathname;
+  try {
+    decoded = decodeURIComponent(pathname);
+  } catch (err) {
+    // Fallback to raw pathname if decoding fails (e.g., malformed percent-encoding)
+    console.error(`[gating] URIError decoding pathname: ${pathname}`);
+  }
 
   // 1. Exact matches
   if (PUBLIC_EXACT_PATHS.has(decoded)) {
