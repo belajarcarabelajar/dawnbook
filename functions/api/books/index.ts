@@ -104,6 +104,11 @@ async function handlePostBook(
     return errorResponse("Unauthorized: valid Clerk session required", 401);
   }
 
+  // Strict Admin Authorization
+  if (session.sub !== "user_3FGEVcEVho4UC4uCE6gs3TfyVwV") {
+    return errorResponse("Forbidden: Administrator access required", 403);
+  }
+
   let payload: PublishPayload;
   try {
     payload = (await request.json()) as PublishPayload;
@@ -139,13 +144,13 @@ async function handlePostBook(
   const now = new Date().toISOString();
   const id = payload.bookSlug; // Use slug as deterministic ID
 
-  // Upsert: insert or update on conflict
-  const result = await env.DB.prepare(
+  // Upsert: insert or update on conflict (with empty content initially)
+  const initResult = await env.DB.prepare(
     `INSERT INTO books (id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count)
-     VALUES (?1, ?2, ?3, ?4, ?5, ?6, ?7, ?8, 0)
+     VALUES (?1, ?2, ?3, ?4, '', ?5, ?6, ?7, 0)
      ON CONFLICT(slug) DO UPDATE SET
        title = excluded.title,
-       content_md = excluded.content_md,
+       content_md = '',
        status = excluded.status,
        subject_label = excluded.subject_label,
        updated_at = excluded.updated_at`
@@ -155,15 +160,29 @@ async function handlePostBook(
       payload.bookSlug,
       payload.chapterTitle,
       "published",
-      payload.markdownContent,
       now,
       now,
       payload.subjectLabel || null
     )
     .run();
 
-  if (!result.success) {
-    return errorResponse("Database write failed", 500);
+  if (!initResult.success) {
+    return errorResponse("Database metadata write failed", 500);
+  }
+
+  // Chunk content to avoid SQLITE_TOOBIG limits (Cloudflare D1 100KB statement limit)
+  const chunkSize = 30000;
+  for (let i = 0; i < payload.markdownContent.length; i += chunkSize) {
+    const chunk = payload.markdownContent.slice(i, i + chunkSize);
+    const chunkRes = await env.DB.prepare(
+      "UPDATE books SET content_md = content_md || ?1 WHERE slug = ?2"
+    )
+      .bind(chunk, payload.bookSlug)
+      .run();
+
+    if (!chunkRes.success) {
+      return errorResponse("Database chunk write failed", 500);
+    }
   }
 
   return jsonResponse(

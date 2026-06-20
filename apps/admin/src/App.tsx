@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Link, NavLink } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
 import { useUser, Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
 import { BookService, type Book } from './services/book-service';
@@ -101,47 +101,98 @@ function Home() {
 
 function BookManagement() {
   const [books, setBooks] = useState<Book[]>([]);
+  const navigate = useNavigate();
 
   useEffect(() => {
-    // STUB: Calls the service function to fetch books
     BookService.fetchBooks().then(setBooks);
   }, []);
+
+  const handleDelete = async (slug: string) => {
+    if (!confirm(`Are you sure you want to delete the book "${slug}"?`)) return;
+    const result = await BookService.deleteBook(slug);
+    if (result.success) {
+      setBooks(books.filter(b => b.slug !== slug));
+    } else {
+      alert(result.message);
+    }
+  };
 
   return (
     <section className="card featured-card">
       <h2>Manage Books</h2>
       <ul style={{ paddingLeft: 'var(--spacing-md)', marginBottom: 'var(--spacing-md)' }}>
         {books.map(book => (
-          <li key={book.slug} style={{ marginBottom: 'var(--spacing-xs)' }}>
-            <strong>{book.title}</strong> ({book.slug})
+          <li key={book.slug} style={{ marginBottom: 'var(--spacing-xs)', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+            <span><strong>{book.title}</strong> ({book.slug})</span>
+            <button onClick={() => handleDelete(book.slug)} style={{ background: 'transparent', color: 'var(--color-primary)', border: '1px solid var(--color-primary)', padding: '2px 8px', borderRadius: '4px', cursor: 'pointer' }}>Delete</button>
           </li>
         ))}
       </ul>
-      <button className="btn">+ Add New Book (Stub)</button>
+      <button className="btn" onClick={() => navigate('/editor', { state: { createNew: true } })}>+ Add New Book</button>
     </section>
   );
 }
 
 function MarkdownEditor() {
-  const [content, setContent] = useState('# New Chapter\n\nWrite your content here...');
-  const [bookSlug, setBookSlug] = useState('piaget');
-  const [chapterTitle, setChapterTitle] = useState('New Chapter');
+  const location = useLocation();
+  const [content, setContent] = useState('');
+  const [selectedBook, setSelectedBook] = useState('new');
+  const [newSlug, setNewSlug] = useState('');
+  const [chapterTitle, setChapterTitle] = useState('');
   const [books, setBooks] = useState<Book[]>([]);
   const [isPublishing, setIsPublishing] = useState(false);
+  const [isLoadingContent, setIsLoadingContent] = useState(false);
 
   useEffect(() => {
     BookService.fetchBooks().then(setBooks);
   }, []);
 
+  useEffect(() => {
+    if (location.state && (location.state as any).createNew) {
+      setSelectedBook('new');
+      setNewSlug('');
+      setContent('');
+      setChapterTitle('');
+    }
+  }, [location.state]);
+
+  useEffect(() => {
+    if (selectedBook && selectedBook !== 'new') {
+      setIsLoadingContent(true);
+      BookService.fetchBook(selectedBook).then(book => {
+        setContent(book.content_md || '');
+        setChapterTitle(book.title || '');
+        setIsLoadingContent(false);
+      }).catch(err => {
+        console.error(err);
+        setContent('');
+        setIsLoadingContent(false);
+      });
+    } else {
+      setContent('');
+      setChapterTitle('');
+      setNewSlug('');
+    }
+  }, [selectedBook]);
+
   const handlePublish = async () => {
+    const finalSlug = selectedBook === 'new' ? newSlug : selectedBook;
+    if (!finalSlug || !chapterTitle) {
+      alert("Please provide a Book Slug and Title");
+      return;
+    }
     setIsPublishing(true);
     const result = await BookService.publishChapter({
-      bookSlug,
+      bookSlug: finalSlug,
       chapterTitle,
       markdownContent: content
     });
     alert(result.message);
     setIsPublishing(false);
+    if (result.success && selectedBook === 'new') {
+      BookService.fetchBooks().then(setBooks);
+      setSelectedBook(finalSlug);
+    }
   };
 
   return (
@@ -149,14 +200,29 @@ function MarkdownEditor() {
       <h2>Markdown Editor</h2>
       <div style={{ marginBottom: 'var(--spacing-md)' }}>
         <label style={{ display: 'block', marginBottom: 'var(--spacing-xs)' }}>Select Book: </label>
-        <select className="input-field" value={bookSlug} onChange={e => setBookSlug(e.target.value)}>
+        <select className="input-field" value={selectedBook} onChange={e => setSelectedBook(e.target.value)}>
+          <option value="new">-- Create New Book --</option>
           {books.map(book => (
             <option key={book.slug} value={book.slug}>{book.title}</option>
           ))}
         </select>
       </div>
+
+      {selectedBook === 'new' && (
+        <div style={{ marginBottom: 'var(--spacing-md)' }}>
+          <label style={{ display: 'block', marginBottom: 'var(--spacing-xs)' }}>New Book URL Slug: </label>
+          <input
+            className="input-field"
+            type="text"
+            placeholder="e.g. my-new-book"
+            value={newSlug}
+            onChange={e => setNewSlug(e.target.value)}
+          />
+        </div>
+      )}
+
       <div style={{ marginBottom: 'var(--spacing-md)' }}>
-        <label style={{ display: 'block', marginBottom: 'var(--spacing-xs)' }}>Chapter Title: </label>
+        <label style={{ display: 'block', marginBottom: 'var(--spacing-xs)' }}>Book / Chapter Title: </label>
         <input
           className="input-field"
           type="text"
@@ -169,12 +235,14 @@ function MarkdownEditor() {
         style={{ height: '300px', marginBottom: 'var(--spacing-md)' }}
         value={content}
         onChange={e => setContent(e.target.value)}
+        disabled={isLoadingContent}
+        placeholder={isLoadingContent ? "Loading content..." : "Write your content here..."}
       />
       <div>
         <button
           className="btn"
           onClick={handlePublish}
-          disabled={isPublishing}>
+          disabled={isPublishing || isLoadingContent}>
           {isPublishing ? 'Publishing...' : 'Publish / Generate'}
         </button>
       </div>
