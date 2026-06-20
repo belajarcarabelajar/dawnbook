@@ -43,6 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   applyLocale(currentLocale);
+  window.applyLocale = function(locale) { applyLocale(locale || currentLocale); };
 
   var toggleBtns = document.querySelectorAll('.lang-toggle-btn');
   toggleBtns.forEach(function(btn) {

@@ -138,8 +138,12 @@ async function build() {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
+    <meta name="theme-color" content="#000000">
     <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY}">
     <title>${title} | Dawnbook Platform</title>
+    <link rel="manifest" href="/manifest.webmanifest">
+    <script src="/register-sw.js" defer></script>
+    <script src="/pake-compat.js" defer></script>
     <link rel="icon" type="image/svg+xml" href="${isHome ? 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>' : 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>'}">
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">
@@ -197,6 +201,7 @@ async function build() {
     <a href="#main-content" class="skip-link" style="position: absolute; top: -40px; left: 0; background: var(--color-primary); color: var(--color-background); padding: 8px; z-index: 1000; transition: top 0.2s;" data-i18n="hub.nav.skip">Skip to content</a>
     <div class="hub-layout">
         <div class="desktop-top-controls">
+            <div id="desktop-user-controls" style="display: flex; align-items: center;"></div>
             <button class="lang-toggle-btn" data-i18n="hub.lang.toggle" style="background: transparent; border: 1px solid var(--color-secondary); color: var(--color-text); border-radius: 4px; cursor: pointer; height: 36px; min-width: 44px; display: flex; align-items: center; justify-content: center; font-weight: 600; padding: 0 8px;">EN</button>
             <button onclick="toggleTheme()" class="theme-toggle-icon theme-toggle desktop-theme-btn" aria-label="Toggle Theme" aria-pressed="false">
                 <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -207,6 +212,7 @@ async function build() {
             <div class="side-nav-header">
                 <a href="/" class="logo">Dawnbook</a>
                 <div class="mobile-controls">
+                    <div id="mobile-user-controls" style="display: flex; align-items: center;"></div>
                     <button class="lang-toggle-btn" data-i18n="hub.lang.toggle" style="background: transparent; border: 1px solid var(--color-secondary); color: var(--color-text); border-radius: 4px; cursor: pointer; height: 36px; min-width: 44px; display: flex; align-items: center; justify-content: center; font-weight: 600; padding: 0 8px;">EN</button>
                     <button onclick="toggleTheme()" class="theme-toggle-icon theme-toggle mobile-theme-btn" aria-label="Toggle Theme" aria-pressed="false">
                         <svg class="sun-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
@@ -219,6 +225,7 @@ async function build() {
                 <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''} data-i18n="hub.home">Home</a>
                 <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''} data-i18n="hub.about">About</a>
                 <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''} data-i18n="hub.contribute">Contribute</a>
+                <a href="/donate.html" class="${title === 'Donate' ? 'active' : ''}" ${title === 'Donate' ? 'aria-current="page"' : ''} data-i18n="hub.donate">Donate</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -498,10 +505,54 @@ async function build() {
             // Load progress immediately, bypassing Clerk CSP crash issues
             loadHubProgress();
             if (window.Clerk) {
-                window.Clerk.load().catch(console.error);
+                window.Clerk.load().then(function() {
+                    mountUserControls();
+                }).catch(console.error);
             }
         };
         document.head.appendChild(script);
+      }
+
+      function mountUserControls() {
+        var desktopEl = document.getElementById('desktop-user-controls');
+        var mobileEl = document.getElementById('mobile-user-controls');
+        if (!window.Clerk) return;
+
+        if (window.Clerk.user) {
+          // Authenticated: mount Clerk UserButton with custom menu item
+          if (desktopEl) {
+            window.Clerk.mountUserButton(desktopEl, {
+              appearance: { elements: { userButtonAvatarBox: { width: '32px', height: '32px' } } },
+              userProfileMode: 'navigation',
+              userProfileUrl: '/appreciation.html',
+              afterSignOutUrl: '/'
+            });
+          }
+          if (mobileEl) {
+            window.Clerk.mountUserButton(mobileEl, {
+              appearance: { elements: { userButtonAvatarBox: { width: '28px', height: '28px' } } },
+              userProfileMode: 'navigation',
+              userProfileUrl: '/appreciation.html',
+              afterSignOutUrl: '/'
+            });
+          }
+        } else {
+          // Not authenticated: show Sign In button
+          function createSignInBtn() {
+            var btn = document.createElement('a');
+            btn.href = '/sign-in';
+            btn.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;height:32px;padding:0 12px;border-radius:4px;border:1px solid var(--color-secondary);color:var(--color-text);text-decoration:none;font-size:0.85rem;font-weight:600;transition:background 0.15s;white-space:nowrap;';
+            btn.setAttribute('data-i18n', 'hub.signin');
+            btn.textContent = 'Sign In';
+            btn.onmouseenter = function() { btn.style.background = 'var(--color-surface)'; };
+            btn.onmouseleave = function() { btn.style.background = 'transparent'; };
+            return btn;
+          }
+          if (desktopEl) desktopEl.appendChild(createSignInBtn());
+          if (mobileEl) mobileEl.appendChild(createSignInBtn());
+          // Re-apply locale so data-i18n on new elements gets translated
+          if (window.applyLocale) window.applyLocale();
+        }
       }
     </script>
   `;
@@ -534,6 +585,183 @@ async function build() {
         <p data-i18n="contribute.join.body2">All contributions are managed via GitHub Pull Requests, ensuring a high standard of quality through peer review.</p>
         <a href="https://github.com/belajarcarabelajar/dawnbook" class="btn-primary" target="_blank" data-i18n="contribute.btn.github">View on GitHub</a>
     </div>
+  `;
+
+  const donateContent = `
+    <div class="content-panel" style="max-width: 720px;">
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-sm)" data-i18n="donate.title">Support Dawnbook</h2>
+        <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-lg); line-height: 1.7;" data-i18n="donate.subtitle">Your generosity helps us deliver free books to school libraries and community reading spaces in underserved regions (3T areas).</p>
+
+        <div style="display: grid; grid-template-columns: 1fr; gap: var(--spacing-lg);">
+            <!-- Bank Transfer Card -->
+            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg);">
+                <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-md) 0; font-size: 1.1rem;" data-i18n="donate.bank.title">Bank Transfer</h3>
+                <div style="display: flex; flex-direction: column; gap: var(--spacing-sm);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95rem;">
+                        <span style="color: var(--color-text-muted);" data-i18n="donate.bank.name">BCA</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; background: var(--color-background); border: 1px solid var(--color-secondary); border-radius: 6px; padding: 12px 16px;">
+                        <span id="bank-account-number" style="font-size: 1.3rem; font-weight: 700; font-family: var(--font-family-display); letter-spacing: 2px; color: var(--color-primary);">3761558747</span>
+                        <button id="copy-btn" onclick="copyAccountNumber()" style="background: var(--color-primary); color: var(--color-background); border: none; border-radius: 4px; padding: 6px 14px; cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all 0.2s;" data-i18n="donate.bank.copy">Copy</button>
+                    </div>
+                    <div style="font-size: 0.9rem; color: var(--color-text-muted);">a.n. <strong style="color: var(--color-text);" data-i18n="donate.bank.holder">Iwan Kurniawan</strong></div>
+                </div>
+            </div>
+
+            <!-- QRIS Card -->
+            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg); text-align: center;">
+                <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-sm) 0; font-size: 1.1rem;" data-i18n="donate.qris.title">Scan QRIS</h3>
+                <p style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: var(--spacing-md);" data-i18n="donate.qris.desc">Scan the QR code below using any e-wallet or mobile banking app.</p>
+                <div style="background: #ffffff; border-radius: 12px; padding: 16px; display: inline-block; max-width: 280px;">
+                    <img src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code" style="width: 100%; height: auto; border-radius: 8px;">
+                </div>
+            </div>
+        </div>
+
+        <!-- WhatsApp Confirmation -->
+        <div style="margin-top: var(--spacing-lg); text-align: center;">
+            <h3 style="color: var(--color-primary); margin-bottom: var(--spacing-sm);" data-i18n="donate.wa.title">Confirm Your Donation</h3>
+            <a href="https://wa.me/6282129267114?text=Halo%20Kak%20Iwan%2C%20saya%20baru%20saja%20melakukan%20donasi%20untuk%20Dawnbook.%20Berikut%20adalah%20bukti%20transfernya." target="_blank" rel="noopener noreferrer" class="btn-primary" style="display: inline-flex; align-items: center; gap: 8px; animation: none; opacity: 1; transform: none;" data-i18n="donate.wa.btn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                Confirm via WhatsApp
+            </a>
+        </div>
+    </div>
+    <script>
+      function copyAccountNumber() {
+        var text = document.getElementById('bank-account-number').textContent;
+        navigator.clipboard.writeText(text).then(function() {
+          var btn = document.getElementById('copy-btn');
+          var originalText = btn.textContent;
+          btn.textContent = '✓';
+          btn.style.background = '#22c55e';
+          setTimeout(function() {
+            btn.textContent = originalText;
+            btn.style.background = 'var(--color-primary)';
+          }, 2000);
+        }).catch(function() {
+          // Fallback for older browsers
+          var ta = document.createElement('textarea');
+          ta.value = text;
+          document.body.appendChild(ta);
+          ta.select();
+          document.execCommand('copy');
+          document.body.removeChild(ta);
+        });
+      }
+    </script>
+  `;
+
+  const appreciationContent = `
+    <div class="content-panel" style="max-width: 600px; text-align: center;">
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-sm);" data-i18n="appreciation.title">Your Appreciation Badge</h2>
+        <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-lg);" data-i18n="appreciation.subtitle">Thank you for supporting free education.</p>
+        <div id="appreciation-content" style="min-height: 200px; display: flex; align-items: center; justify-content: center;">
+            <p style="color: var(--color-text-muted);">Loading...</p>
+        </div>
+    </div>
+    <script>
+      var badgeColors = {
+        Gold: { bg: '#fbbf24', border: '#f59e0b', text: '#78350f', fill: '#fcd34d' },
+        Silver: { bg: '#d1d5db', border: '#9ca3af', text: '#1f2937', fill: '#e5e7eb' },
+        Bronze: { bg: '#d97706', border: '#b45309', text: '#451a03', fill: '#fbbf24' }
+      };
+
+      function renderBadge(tierName, userName, message) {
+        var c = badgeColors[tierName] || badgeColors.Bronze;
+        return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
+          '<svg width="160" height="160" viewBox="0 0 160 160" style="margin-bottom: 24px;">' +
+            '<circle cx="80" cy="80" r="72" fill="' + c.bg + '" stroke="' + c.border + '" stroke-width="4"/>' +
+            '<circle cx="80" cy="80" r="60" fill="' + c.fill + '" opacity="0.3"/>' +
+            '<text x="80" y="70" text-anchor="middle" font-size="40" fill="' + c.text + '">&#9733;</text>' +
+            '<text x="80" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="' + c.text + '">' + tierName.toUpperCase() + '</text>' +
+            '<text x="80" y="118" text-anchor="middle" font-size="10" fill="' + c.text + '" opacity="0.8">PATRON</text>' +
+          '</svg>' +
+          '<h3 style="color: var(--color-primary); margin: 0 0 8px 0; font-size: 1.4rem;">' + userName + '</h3>' +
+          '<p data-i18n="badge.' + tierName.toLowerCase() + '" style="color: var(--color-primary); font-weight: 700; font-size: 1.1rem; margin-bottom: 16px;">' + tierName + ' Patron</p>' +
+          '<p data-i18n="appreciation.' + tierName.toLowerCase() + '.msg" style="color: var(--color-text-muted); line-height: 1.7; max-width: 450px; margin: 0 auto;">' + message + '</p>' +
+        '</div>';
+      }
+
+      function renderNoBadge() {
+        return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
+          '<svg width="120" height="120" viewBox="0 0 120 120" style="margin-bottom: 24px; opacity: 0.3;">' +
+            '<circle cx="60" cy="60" r="54" fill="none" stroke="var(--color-secondary)" stroke-width="3" stroke-dasharray="8 4"/>' +
+            '<text x="60" y="68" text-anchor="middle" font-size="36" fill="var(--color-text-muted)">?</text>' +
+          '</svg>' +
+          '<h3 data-i18n="appreciation.nobadge.title" style="color: var(--color-primary); margin: 0 0 8px 0;">No Badge Yet</h3>' +
+          '<p data-i18n="appreciation.nobadge.desc" style="color: var(--color-text-muted); margin-bottom: 24px; line-height: 1.7;">You haven\\\'t made a donation yet. Support Dawnbook and earn your badge!</p>' +
+          '<a href="/donate.html" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="appreciation.nobadge.cta">Donate Now</a>' +
+        '</div>';
+      }
+
+      function renderSignInPrompt() {
+        return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
+          '<p style="color: var(--color-text-muted); margin-bottom: 16px;" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>' +
+          '<a href="/sign-in?redirect_url=/appreciation.html" class="btn-primary" style="animation: none; opacity: 1; transform: none;" data-i18n="hub.signin">Sign In</a>' +
+        '</div>';
+      }
+
+      (function() {
+        var container = document.getElementById('appreciation-content');
+
+        function doRender() {
+          if (!window.Clerk.user) {
+            container.innerHTML = renderSignInPrompt();
+          } else {
+            var meta = window.Clerk.user.publicMetadata || {};
+            var badge = meta.donation_badge;
+            var name = window.Clerk.user.fullName || window.Clerk.user.firstName || 'Supporter';
+            if (badge && badgeColors[badge]) {
+              var messages = { Gold: 'You are a Gold Patron.', Silver: 'You are a Silver Patron.', Bronze: 'You are a Bronze Patron.' };
+              container.innerHTML = renderBadge(badge, name, messages[badge] || '');
+            } else {
+              container.innerHTML = renderNoBadge();
+            }
+          }
+          if (window.applyLocale) window.applyLocale();
+        }
+
+        function bootClerk() {
+          var metaTag = document.querySelector('meta[name="clerk-publishable-key"]');
+          if (!metaTag) {
+            container.innerHTML = renderSignInPrompt();
+            return;
+          }
+          var pk = metaTag.getAttribute('content');
+          var keyBody = pk.replace(/^pk_(test|live)_/, '');
+          while (keyBody.length % 4 !== 0) { keyBody += '='; }
+          try {
+            var domain = atob(keyBody).replace(/\\$$/, '');
+            var script = document.createElement('script');
+            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
+            script.setAttribute('data-clerk-publishable-key', pk);
+            script.async = true;
+            script.onload = function() {
+              if (window.Clerk) {
+                window.Clerk.load().then(doRender).catch(function() { doRender(); });
+              } else {
+                container.innerHTML = renderSignInPrompt();
+              }
+            };
+            script.onerror = function() { container.innerHTML = renderSignInPrompt(); };
+            document.head.appendChild(script);
+          } catch(e) {
+            container.innerHTML = renderSignInPrompt();
+          }
+        }
+
+        // If Clerk was already loaded by another script on the page, use it directly.
+        // Otherwise self-bootstrap from the meta publishable-key tag.
+        if (window.Clerk && window.Clerk.loaded) {
+          doRender();
+        } else if (window.Clerk) {
+          window.Clerk.load().then(doRender).catch(function() { doRender(); });
+        } else {
+          document.addEventListener('DOMContentLoaded', bootClerk);
+        }
+      })();
+    </script>
   `;
 
   // Generate the sign-in page that redirects to Clerk Hosted Sign-In
@@ -607,6 +835,8 @@ async function build() {
   await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent, true));
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
+  await writeFile(join(outputDir, "donate.html"), generatePage("Donate", donateContent));
+  await writeFile(join(outputDir, "appreciation.html"), generatePage("Appreciation", appreciationContent));
   await writeFile(join(outputDir, "sign-in.html"), generatePage("Sign In", signInContent));
   const manifestData = { 
     books: builtBooks.map(b => b.slug), 
@@ -618,6 +848,13 @@ async function build() {
   await $`cp apps/hub/src/styles/typography.css ${join(outputDir, "typography.css")}`;
   await $`cp apps/hub/src/styles/tokens.css ${join(outputDir, "tokens.css")}`;
   await $`cp apps/hub/src/components/HubLayout.css ${join(outputDir, "HubLayout.css")}`;
+
+  // Copy PWA public files
+  try {
+    await $`cp -r public/* ${outputDir}/`;
+  } catch (e) {
+    console.warn("No public/ directory found or empty, skipping PWA files copy.");
+  }
 
   console.log("Applying anti-FOUC script to gated books...");
   await $`bun run scripts/inject-gating.ts`;

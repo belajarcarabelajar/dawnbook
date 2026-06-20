@@ -140,6 +140,17 @@ h1, h2, h3, .logo {
   background-color: var(--color-surface);
 }
 
+/* Custom Titlebar for Pake Desktop App */
+.desktop-top-controls,
+.side-nav-header {
+  -webkit-app-region: drag;
+}
+
+.desktop-top-controls *,
+.side-nav-header * {
+  -webkit-app-region: no-drag;
+}
+
 .nav-links {
   display: none;
   flex-direction: column;
