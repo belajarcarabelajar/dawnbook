@@ -897,7 +897,6 @@ async function build() {
     await $`cp -r apps/admin/dist ${join(outputDir, "admin")}`;
     const redirectsContent = `
 /admin /admin/ 301
-/admin/* /admin/ 200
 `;
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
 

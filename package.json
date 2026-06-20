@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "@clerk/backend": "3.7.1",
-    "wrangler": "4.100.0"
+    "wrangler": "^4.103.0"
   },
   "devDependencies": {
     "@types/bun": "1.2.2",
-    "katex": "^0.17.0"
+    "katex": "^0.17.0",
+    "lighthouse": "^13.4.0"
   },
   "workspaces": [
     "apps/*"
