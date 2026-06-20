@@ -1,18 +1,18 @@
 # Dawnbook - Educational Books Platform
 
-Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.
+An open-source platform for collaborating on and publishing educational books based on Markdown and mdBook.
 
-Welcome to Dawnbook! This is an open-source hub where many contributors can submit and publish educational books. The platform aggregates multiple books into a central hub, currently hosting texts such as **Teori Perkembangan Kognitif Piaget** and **Metakognisi**.
+Welcome to Dawnbook! This is an open-source hub where contributors can submit and publish educational books. The platform aggregates multiple books into a central hub, hosting texts such as **Teori Perkembangan Kognitif Piaget**, **Metakognisi**, **Filosofi Stoikisme**, **Digital Minimalisme**, and **Quarter Life Crisis**.
 
 ## Features & Architecture
 
-This repository is a "monorepo" hosting a complete end-to-end publishing pipeline:
-- **Books Directory**: The `books/` directory contains individual books (e.g., `books/piaget/`). Each book uses its own `book.toml` metadata and Markdown chapters (`src/`).
+This repository is a monorepo hosting a complete end-to-end publishing pipeline:
+- **Books Directory**: The `books/` directory contains individual books (e.g., `books/piaget/`). Each book uses its own `book.toml` metadata and Markdown chapters under `src/content/`.
 - **Generator**: Uses **mdBook** to compile Markdown chapters into HTML.
-- **Edge Architecture**: Hosted on Cloudflare Pages. It uses Cloudflare Pages Functions (`functions/`) and edge middleware (`functions/_middleware.ts`) for dynamic content serving and authentication.
-- **Authentication & Gating**: Integrated with **Clerk**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified Clerk session.
-- **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata and publishing status.
-- **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and anti-FOUC loading fallbacks.
+- **Edge Architecture**: Hosted on Cloudflare Pages. It uses Cloudflare Pages Functions (`functions/`) and edge middleware (`functions/_middleware.ts`) for dynamic content serving, caching optimization, and authentication.
+- **Authentication & Gating**: Integrated with **Clerk**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified Clerk session. Unauthenticated edge requests for gated content are intercepted and redacted via `HTMLRewriter` at the Cloudflare Edge to prevent client-side gating bypass.
+- **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, and completed paths per user.
+- **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas signaling paywalled sections (`isAccessibleForFree: False`).
 - **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
 - **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page.
 - **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
@@ -34,14 +34,19 @@ To run this platform locally, you need:
    ```
 
 2. **Environment Variables:**
-   Create a `.env.local` file in the root directory and populate it with your keys:
-   ```env
-   CLERK_PUBLISHABLE_KEY=pk_test_...
-   CLERK_SECRET_KEY=sk_test_...
-   VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
-   CLOUDFLARE_ACCOUNT_ID=...
-   CLOUDFLARE_API_TOKEN=...
-   ```
+   You need to set up environment keys in two places:
+   
+   - **Admin SPA and Build Scripts:** Create `apps/admin/.env.local` containing:
+     ```env
+     VITE_CLERK_PUBLISHABLE_KEY=pk_test_...
+     CLOUDFLARE_ACCOUNT_ID=...
+     ```
+   
+   - **Local Edge Functions:** Create `.dev.vars` in the root directory containing:
+     ```env
+     CLERK_PUBLISHABLE_KEY=pk_test_...
+     CLERK_SECRET_KEY=sk_test_...
+     ```
 
 3. **Install dependencies:**
    ```sh
@@ -57,31 +62,37 @@ To run this platform locally, you need:
    ```sh
    bun run build
    ```
-   This command discovers all books, runs LaTeX and media validation checks, builds the HTML via mdBook, generates the central Hub homepage, builds the Admin dashboard, and runs the SEO validation suite. Output is saved to the `output/` directory.
+   This command synchronizes configurations from the master template, runs LaTeX and media validation checks, builds HTML via mdBook for all books, generates the Hub site index pages, builds the Admin dashboard, and runs the SEO validation suite. Output is saved to the `output/` directory.
 
 6. **View the site:**
-   Run the site using Wrangler to simulate the Cloudflare Pages environment (including middleware and functions):
+   Run Wrangler local server to simulate the Cloudflare Pages environment (including middleware, D1 database, and pages functions):
    ```sh
    npx wrangler pages dev output
    ```
 
 ## How to Add a New Book
 
+To maintain consistency and avoid duplicate builds, always adhere to the following workflow:
+
 1. **Scaffold the Book:**
-   Copy the `books/_template` directory and give it a new name (a short, URL-friendly slug).
+   Copy the `books/_template` directory and give it a new name (a short, URL-friendly kebab-case slug).
    ```sh
    cp -r books/_template books/my-new-book
    ```
 2. **Update Metadata:**
-   Open `books/my-new-book/book.toml` and change the title and authors. **Do not remove** the `additional-css` and `additional-js` fields.
+   Open `books/my-new-book/book.toml` and change the title and authors. **Do not modify** the `additional-css` and `additional-js` fields directly; they are synchronized automatically from the master template `books/_template/book.toml` during the build.
 3. **Write Content:**
-   Add your chapters as Markdown (`.md`) files inside `books/my-new-book/src/content/`. Filenames must start with a two-digit number (e.g. `01_Pengantar.md`).
-4. **Update the Table of Contents:**
-   List your new chapters in `books/my-new-book/src/SUMMARY.md` so mdBook knows how to navigate them. Do not use emojis in the SUMMARY.md.
+   Add your chapters as Markdown (`.md`) files inside `books/my-new-book/src/content/`. 
+   - Filenames must be zero-padded kebab-case (e.g. `01_memahami-piaget.md`, `02_konsep-dasar.md`).
+   - **Important**: Delete any temporary or raw markdown files (e.g. `1.md`, `draft.md`) from the root of `src/` or `src/content/` to prevent mdBook from compiling duplicates.
+4. **Update Table of Contents:**
+   List your new chapters in `books/my-new-book/src/SUMMARY.md` for mdBook navigation.
+   - Do not use emojis in `SUMMARY.md` headers or links.
+   - Keep paths relative to `src/` (e.g., `[Chapter 1](content/01_memahami-piaget.md)`).
 
 ## Deployment
 
-Deployments are handled via the deployment script which builds the project, runs D1 migrations, and pushes to Cloudflare Pages:
+Deployments are handled via the deployment script which builds the project, runs remote D1 migrations, and publishes to Cloudflare Pages:
 
 ```sh
 bash scripts/deploy-website.sh
@@ -92,13 +103,13 @@ Post-deployment, you can run live verification of SEO and gating rules:
 bash scripts/check-seo-live.sh https://dawnbook.belajarcarabelajar.com
 ```
 
-## Contributing
+## Contributing & Pull Request Checklist
 
-We use a strict GitHub-based workflow to ensure quality. Direct pushes to the `main` branch are blocked.
+We enforce a strict workflow to guarantee quality and avoid regressions. Direct pushes to the `main` branch are blocked.
 
-1. **Branch:** Create a feature branch (`git checkout -b add-chapter`).
-2. **Commit:** Save your edits and verify they work.
-   - Run `bun run build` locally to verify they compile and pass SEO checks.
-   - Run `bun test` to ensure all tests and security gating validations pass.
-3. **Pull Request (PR):** Submit your PR to the main repository. 
-4. **Review & Publish:** Once approved and merged into `main`, a CI deployment workflow automatically publishes the new site to Cloudflare Pages.
+Before submitting a Pull Request, please ensure you satisfy this checklist:
+1. **Builds & Compiles**: Run `bun run build` locally to verify that all books compile without errors and that SEO checks pass.
+2. **All Tests Pass**: Run `bun run test:audit` to ensure all test suites pass.
+3. **No Tracked Secrets**: Ensure you have not committed `.env.local` or `.dev.vars` files. Verify via `git status`.
+4. **File Cleanup**: Confirm that raw or temporary draft files are removed from the books' `src/` directories.
+5. **No Direct Template Edits**: Individual book configurations must remain synced with `books/_template/book.toml`.

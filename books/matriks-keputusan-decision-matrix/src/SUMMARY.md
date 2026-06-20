@@ -1,0 +1,15 @@
+# Summary
+
+- [Matriks Keputusan (Decision Matrix)](content/01_matriks-keputusan-decision-matrix.md)
+- [Manfaat dan Kegunaan Matriks Keputusan](content/02_manfaat-dan-kegunaan-matriks-keputusan.md)
+- [Anatomi dan Komponen Utama: Membedah Struktur Matriks Keputusan](content/03_anatomi-dan-komponen-utama-membedah-struktur-matriks-keputusan.md)
+- [Langkah 1: Identifikasi Alternatif Pilihan](content/04_langkah-1-identifikasi-alternatif-pilihan.md)
+- [Langkah 2: Menentukan Kriteria Penilaian](content/05_langkah-2-menentukan-kriteria-penilaian.md)
+- [Langkah 3: Pemberian Bobot pada Kriteria](content/06_langkah-3-pemberian-bobot-pada-kriteria.md)
+- [Langkah 4: Menentukan Skala dan Sistem Penilaian](content/07_langkah-4-menentukan-skala-dan-sistem-penilaian.md)
+- [Langkah 5: Perhitungan Skor Berbobot (Weighted Score)](content/08_langkah-5-perhitungan-skor-berbobot.md)
+- [Analisis Sensitivitas dan Validasi Hasil: Menguji Ketangguhan Keputusan Kamu](content/09_analisis-sensitivitas-dan-validasi-hasil.md)
+- [Variasi Matriks: Matriks Pugh dan Unweighted Matrix](content/10_variasi-matriks-pugh-dan-unweighted-matrix.md)
+- [Menghindari Bias dan Kesalahan Umum dalam Matriks Keputusan](content/11_menghindari-bias-dan-kesalahan-umum.md)
+- [Studi Kasus: Implementasi dalam Dunia Nyata](content/12_studi-kasus-implementasi-dalam-dunia-nyata.md)
+- [Referensi](content/13_referensi.md)

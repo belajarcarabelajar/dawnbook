@@ -72,13 +72,11 @@ async function build() {
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
         let formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-        let author = "Iwan Kurniawan";
+        const author = "Iwan Kurniawan";
         try {
             const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
             const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
             if (titleMatch) formattedTitle = titleMatch[1];
-            const authorMatch = tomlText.match(/authors\s*=\s*\[\s*"([^"]+)"/);
-            if (authorMatch) author = authorMatch[1];
         } catch (e) {}
         
         let chapterCount = 0;
