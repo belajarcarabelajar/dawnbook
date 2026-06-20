@@ -66,3 +66,5 @@ test_fix.js
 test-clerk.js
 parse_headings.js
 GEMINI.md
+BUGS.md
+SECURITY.md
