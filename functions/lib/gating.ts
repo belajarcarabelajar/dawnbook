@@ -66,6 +66,8 @@ const PUBLIC_EXACT_PATHS = new Set([
   "/_headers",
   "/sign-in",
   "/sign-in/",
+  "/sign-up",
+  "/sign-up/",
   "/favicon.ico",
   "/favicon.svg",
   "/.nojekyll",
@@ -79,6 +81,7 @@ const PUBLIC_EXACT_PATHS = new Set([
 const PUBLIC_PATH_PREFIXES = [
   "/api/",
   "/sign-in",
+  "/sign-up",
   "/.clerk/",
   "/.clerk",
 ];

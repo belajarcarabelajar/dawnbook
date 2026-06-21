@@ -811,7 +811,7 @@ async function build() {
           afterSignUpUrl: redirectUrl,
           fallbackRedirectUrl: redirectUrl,
           forceRedirectUrl: redirectUrl,
-          signUpUrl: '/sign-in'
+          signUpUrl: '/sign-up'
         };
 
         if (window.Clerk) {
@@ -860,12 +860,82 @@ async function build() {
     </script>
   `;
 
+  // Generate the sign-up page that redirects to Clerk Hosted Sign-Up
+  const signUpContent = `
+    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Sign Up to Continue Reading</h2>
+        <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
+        <div id="clerk-sign-up" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg); width: 100%;"></div>
+        <p style="font-size: 0.875rem; opacity: 0.7;"><span data-i18n="signin.powered">Powered by</span> <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
+    </div>
+    <script>
+      ${minifyJs(`
+      (function() {
+        var params = new URLSearchParams(window.location.search);
+        var redirectUrl = params.get('redirect_url') || '/';
+        var container = document.getElementById('clerk-sign-up');
+
+        var clerkOptions = {
+          afterSignInUrl: redirectUrl,
+          afterSignUpUrl: redirectUrl,
+          fallbackRedirectUrl: redirectUrl,
+          forceRedirectUrl: redirectUrl,
+          signInUrl: '/sign-in'
+        };
+
+        if (window.Clerk) {
+          if (window.Clerk.user) {
+            window.location.href = redirectUrl;
+            return;
+          }
+          window.Clerk.mountSignUp(container, clerkOptions);
+        } else {
+          var meta = document.querySelector('meta[name="clerk-publishable-key"]');
+          if (!meta) {
+            container.innerHTML = '<p data-i18n="signin.loading">Authentication is being configured. Please try again shortly.</p>';
+            return;
+          }
+          var pk = meta.getAttribute('content');
+          var keyBody = pk.replace(/^pk_(test|live)_/, '');
+          while (keyBody.length % 4 !== 0) {
+            keyBody += '=';
+          }
+          try {
+            var domain = atob(keyBody).replace(/\\$$/, '');
+            var script = document.createElement('script');
+            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
+            script.setAttribute('data-clerk-publishable-key', pk);
+            script.async = true;
+            script.onload = function() {
+              if (window.Clerk) {
+                window.Clerk.load().then(function() {
+                  if (window.Clerk.user) {
+                    window.location.href = redirectUrl;
+                  } else {
+                    window.Clerk.mountSignUp(container, clerkOptions);
+                  }
+                }).catch(function(err) {
+                  container.innerHTML = '<p>Error loading Clerk: ' + err.message + '</p>';
+                });
+              }
+            };
+            document.head.appendChild(script);
+          } catch(e) {
+            container.innerHTML = '<p>Unable to load sign-up. Please contact support. ' + e.message + '</p>';
+          }
+        }
+      })();
+      `)}
+    </script>
+  `;
+
   await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent, true));
   await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
   await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
   await writeFile(join(outputDir, "donate.html"), generatePage("Donate", donateContent));
   await writeFile(join(outputDir, "appreciation.html"), generatePage("Appreciation", appreciationContent));
   await writeFile(join(outputDir, "sign-in.html"), generatePage("Sign In", signInContent));
+  await writeFile(join(outputDir, "sign-up.html"), generatePage("Sign Up", signUpContent));
   const manifestData = { 
     books: builtBooks.map(b => b.slug), 
     chapters: builtBooks.reduce((acc, b) => { acc[b.slug] = b.chapters; return acc; }, {} as Record<string, string[]>)
