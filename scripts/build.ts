@@ -264,11 +264,11 @@ async function build() {
     <h2 style="margin-bottom: var(--spacing-lg); color: var(--color-primary);" data-i18n="hub.books.title">Available Books</h2>
     
     <div class="book-filters" style="display: flex; gap: 12px; margin-bottom: var(--spacing-lg); flex-wrap: wrap;">
-        <input type="text" id="search-input" placeholder="Search by title..." style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); flex: 1; min-width: 200px;">
-        <select id="subject-filter" style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); min-width: 200px;">
+        <input type="text" id="search-input" placeholder="Search by title..." style="padding: 8px 12px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); flex: 1; min-width: 200px;">
+        <select id="subject-filter" style="padding: 8px 32px 8px 12px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); min-width: 200px; -webkit-appearance: none; appearance: none; background-image: url('data:image/svg+xml;utf8,<svg fill=\"none\" stroke=\"%23999\" stroke-width=\"2\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 9l-7 7-7-7\"></path></svg>'); background-repeat: no-repeat; background-position: right 8px center; background-size: 16px;">
             <option value="">All Subjects</option>
         </select>
-        <select id="sort-select" style="padding: 8px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text);">
+        <select id="sort-select" style="padding: 8px 32px 8px 12px; border-radius: 4px; border: 1px solid var(--color-secondary); background: var(--color-background); color: var(--color-text); -webkit-appearance: none; appearance: none; background-image: url('data:image/svg+xml;utf8,<svg fill=\"none\" stroke=\"%23999\" stroke-width=\"2\" viewBox=\"0 0 24 24\" xmlns=\"http://www.w3.org/2000/svg\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M19 9l-7 7-7-7\"></path></svg>'); background-repeat: no-repeat; background-position: right 8px center; background-size: 16px;">
             <option value="newest">Newest First</option>
             <option value="popular">Most Popular</option>
             <option value="oldest">Oldest First</option>
