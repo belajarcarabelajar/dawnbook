@@ -146,9 +146,8 @@ ON CONFLICT(slug) DO UPDATE SET
   await Bun.write(tmpSqlPath, fullSql);
   console.log(`\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`);
 
-  // Execute via wrangler d1 book-by-book to avoid SQLITE_TOOBIG
+  // Execute via wrangler d1 book-by-book using --command to avoid SQLITE_TOOBIG and silent execution failures
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
-  const fs = require("node:fs/promises");
   for (const row of rows) {
     const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
     
@@ -160,10 +159,10 @@ ON CONFLICT(slug) DO UPDATE SET
       chunks.push(content.substring(i, i + chunkSize));
     }
 
-    const sqlStatements: string[] = [];
+    console.log(`Applying seed for book: ${row.slug} (${chunks.length} chunks)...`);
     
     // 1. Initial insert/update metadata (setting content_md = '')
-    sqlStatements.push(`INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+    const initialSql = `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   '${escapeSql(row.id)}',
   '${escapeSql(row.slug)}',
@@ -179,29 +178,29 @@ ON CONFLICT(slug) DO UPDATE SET
   status = excluded.status,
   subject_label = excluded.subject_label,
   content_md = '',
-  updated_at = excluded.updated_at;`);
+  updated_at = excluded.updated_at;`;
 
-    // 2. Append chunks sequentially
-    for (const chunk of chunks) {
-      sqlStatements.push(`UPDATE books SET content_md = content_md || '${escapeSql(chunk)}' WHERE slug = '${escapeSql(row.slug)}';`);
-    }
-
-    const bookSql = sqlStatements.join("\n\n");
-    const bookSqlPath = join(rootDir, "db", `seed_${row.slug}.sql`);
-    await Bun.write(bookSqlPath, bookSql);
-    console.log(`Applying seed for book: ${row.slug} (${chunks.length} chunks)...`);
     try {
-      await $`npx wrangler d1 execute dawnbook-db --remote --file=${bookSqlPath} --yes`;
+      console.log(`  - Inserting metadata...`);
+      await $`npx wrangler d1 execute dawnbook-db --remote --command=${initialSql}`;
     } catch (error) {
-      console.error(`❌ Failed to apply seed for ${row.slug}:`, error);
-      try {
-        await fs.unlink(bookSqlPath);
-      } catch (e) { console.warn('Failed to cleanup temp file', e); }
+      console.error(`❌ Failed to apply metadata for ${row.slug}:`, error);
       process.exit(1);
     }
-    try {
-      await fs.unlink(bookSqlPath);
-    } catch (e) { console.warn('Failed to cleanup temp file', e); }
+
+    // 2. Append chunks sequentially
+    let chunkIndex = 1;
+    for (const chunk of chunks) {
+      const chunkSql = `UPDATE books SET content_md = content_md || '${escapeSql(chunk)}' WHERE slug = '${escapeSql(row.slug)}';`;
+      try {
+        console.log(`  - Appending chunk ${chunkIndex}/${chunks.length}...`);
+        await $`npx wrangler d1 execute dawnbook-db --remote --command=${chunkSql}`;
+      } catch (error) {
+        console.error(`❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`, error);
+        process.exit(1);
+      }
+      chunkIndex++;
+    }
   }
   console.log("✅ All seeds applied successfully.");
 }
