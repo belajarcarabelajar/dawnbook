@@ -49,11 +49,17 @@ async function handleGetProgress(env: Env, request: Request): Promise<Response> 
       .bind(session.sub)
       .all<{book_slug: string, last_read_path: string, completed_paths: string}>();
       
-    const parsedResults = results.results.map(row => ({
-      book_slug: row.book_slug,
-      last_read_path: row.last_read_path,
-      completed_paths: row.completed_paths ? JSON.parse(row.completed_paths) : []
-    }));
+    const parsedResults = results.results.map(row => {
+      let parsed = [];
+      try {
+        if (row.completed_paths) parsed = JSON.parse(row.completed_paths);
+      } catch (e) {}
+      return {
+        book_slug: row.book_slug,
+        last_read_path: row.last_read_path,
+        completed_paths: parsed
+      };
+    });
 
     return jsonResponse({ progress: parsedResults });
   }

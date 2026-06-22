@@ -495,8 +495,8 @@ async function build() {
               if (readPath.endsWith('/')) readPath += 'index.html';
               else if (!readPath.endsWith('.html')) readPath += '.html';
               const idx = chapters.findIndex(c => c === readPath);
-              if (idx !== -1 && total > 1) {
-                percent = Math.round((idx / (total - 1)) * 100);
+              if (idx !== -1 && total > 0) {
+                percent = Math.round(((idx + 1) / total) * 100);
               }
             }
             
