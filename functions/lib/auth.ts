@@ -170,8 +170,10 @@ async function verifyViaClerkBackendAPI(
   token: string,
   secretKey: string
 ): Promise<AuthSession | null> {
+  console.log("verifyViaClerkBackendAPI token length:", token.length);
   // Decode the JWT payload to extract sub and sid
   const parts = token.split(".");
+  console.log("verifyViaClerkBackendAPI token parts:", parts.length);
   if (parts.length !== 3) return null;
 
   const payload = JSON.parse(
