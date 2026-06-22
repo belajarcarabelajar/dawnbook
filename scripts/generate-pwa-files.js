@@ -35,7 +35,7 @@ const manifestContent = `{
 fs.writeFileSync(path.join(publicDir, 'manifest.webmanifest'), manifestContent);
 
 const swContent = `
-const CACHE_NAME = 'dawnbook-pwa-v2';
+const CACHE_NAME = 'dawnbook-pwa-v3';
 const OFFLINE_URL = '/offline.html';
 
 const ASSETS_TO_CACHE = [
