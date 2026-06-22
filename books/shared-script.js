@@ -41,7 +41,7 @@
         if (bookIndex === -1 || pathParts.length <= bookIndex + 1) return;
         
         var bookSlug = pathParts[bookIndex + 1];
-        var isRoot = (currentPath === '/books/' + bookSlug + '/') || (currentPath === '/books/' + bookSlug + '/index.html');
+        var isRoot = (currentPath === '/books/' + bookSlug) || (currentPath === '/books/' + bookSlug + '/') || (currentPath === '/books/' + bookSlug + '/index.html');
         var hasRedirected = new URLSearchParams(window.location.search).get('redirected');
         var isInternalNavigation = document.referrer && document.referrer.indexOf('/books/' + bookSlug + '/') !== -1;
 
@@ -66,7 +66,10 @@
             }).catch(function(e) { console.error('Save progress network error', e); });
         };
 
-        if (isRoot && !hasRedirected && !isInternalNavigation) {
+        window.checkpointHandled = false;
+        
+        // If we are on the root page (table of contents) and we haven't been redirected here
+        if (isRoot && !hasRedirected) {
             try {
                 if (!sessionStorage.getItem('viewed_' + bookSlug)) {
                     fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', credentials: 'same-origin', keepalive: true }).catch(function(){});
@@ -74,26 +77,38 @@
                 }
             } catch(e) { console.warn('sessionStorage setItem error', e); }
             
-            fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
-                credentials: 'same-origin'
-            })
-            .then(function(res) { return res.json(); })
-            .then(function(data) {
-                if (data.completed_paths && window.updateBookProgress) {
-                    window.updateBookProgress(data.completed_paths);
-                }
-                if (data.path && data.path !== currentPath) {
-                    window.location.replace(data.path + '?redirected=true');
-                } else {
-                    window.saveProgress();
-                }
-            })
-            .catch(function(e) { 
-                console.error('Failed to load progress', e);
-                window.saveProgress();
-            });
+            // Only try to redirect if we aren't coming from internal navigation (e.g. clicking 'Back to Hub')
+            if (!isInternalNavigation) {
+                fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
+                    credentials: 'same-origin'
+                })
+                .then(function(res) { return res.json(); })
+                .then(function(data) {
+                    if (data.completed_paths && window.updateBookProgress) {
+                        window.updateBookProgress(data.completed_paths);
+                    }
+                    if (data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
+                        // Redirect to the saved chapter path!
+                        window.location.replace(data.path + '?redirected=true');
+                    } else {
+                        window.checkpointHandled = true;
+                    }
+                })
+                .catch(function(e) { 
+                    console.error('Failed to load progress', e);
+                    window.checkpointHandled = true;
+                });
+            } else {
+                window.checkpointHandled = true;
+            }
         } else {
-            window.saveProgress();
+            // If we are NOT on the root page (i.e. we are on a Chapter page), OR we've been redirected here...
+            window.checkpointHandled = true;
+            if (!isRoot) {
+                // Only save progress if we are actually on a chapter page!
+                // Never save the root page as progress.
+                window.saveProgress();
+            }
         }
     }
 
@@ -102,19 +117,26 @@
             document.documentElement.style.opacity = '1';
             document.documentElement.style.visibility = 'visible';
         }
-        handleCheckpoint();
 
         if (window.Clerk) {
             window.Clerk.load().then(function() {
                 if (!window.Clerk.user && !isPublic) {
                     window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
+                    return;
                 }
+                
+                // Call handleCheckpoint AFTER Clerk is loaded so __session cookies are valid
+                handleCheckpoint();
             }).catch(function(e) {
                 console.error('Clerk load failed', e);
+                // Fallback to calling handleCheckpoint even if Clerk fails, for public users
+                handleCheckpoint();
             });
         } else {
             if (!isPublic) {
                 window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
+            } else {
+                handleCheckpoint();
             }
         }
     };
@@ -214,8 +236,8 @@ document.addEventListener('DOMContentLoaded', function() {
         progressBar.style.width = progress + '%';
 
         if (progress >= 98 && !isCompleted) {
-            isCompleted = true;
-            if (window.saveProgress) {
+            if (window.saveProgress && window.checkpointHandled !== false) {
+                isCompleted = true;
                 window.saveProgress(true);
             }
         }

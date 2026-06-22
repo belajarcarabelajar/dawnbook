@@ -935,15 +935,6 @@ async function build() {
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Pragma: no-cache
   Expires: 0
-
-/*.css
-  Cache-Control: public, max-age=31536000, immutable
-
-/*.js
-  Cache-Control: public, max-age=31536000, immutable
-
-/manifest.webmanifest
-  Cache-Control: public, max-age=31536000, immutable
 `;
 
     // Map gated paths into _headers appending X-Robots-Tag: noindex
