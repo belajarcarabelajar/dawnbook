@@ -64,24 +64,25 @@ export async function verifyClerkSession(
 
   if (!token) return null;
 
-  const pk = env.CLERK_PUBLISHABLE_KEY;
-  if (!pk) return null;
+  const pk = env.CLERK_PUBLISHABLE_KEY || (env as any).VITE_CLERK_PUBLISHABLE_KEY;
 
   // --- Attempt 1: Local JWKS verification ---
-  try {
-    const clerkDomain = getClerkDomain(pk);
-    const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
-    const jwksResponse = await fetch(jwksUrl);
+  if (pk) {
+    try {
+      const clerkDomain = getClerkDomain(pk);
+      const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
+      const jwksResponse = await fetch(jwksUrl);
 
-    if (jwksResponse.ok) {
-      const jwks = (await jwksResponse.json()) as { keys: JsonWebKey[] };
-      if (jwks.keys && jwks.keys.length > 0) {
-        const result = await verifyWithJWKS(token, jwks.keys);
-        if (result) return result;
+      if (jwksResponse.ok) {
+        const jwks = (await jwksResponse.json()) as { keys: JsonWebKey[] };
+        if (jwks.keys && jwks.keys.length > 0) {
+          const result = await verifyWithJWKS(token, jwks.keys);
+          if (result) return result;
+        }
       }
+    } catch (e) {
+      console.error("[auth] JWKS verification failed:", e);
     }
-  } catch (e) {
-    console.error("[auth] JWKS verification failed:", e);
   }
 
   // --- Attempt 2: Clerk Backend API verification ---
