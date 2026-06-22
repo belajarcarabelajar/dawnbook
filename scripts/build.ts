@@ -95,7 +95,7 @@ async function build() {
             const lines = summaryText.split('\n').filter(line => line.trim().startsWith('- ['));
             chapterCount = lines.length;
             chapters = lines.map(line => {
-                const match = line.match(/\((.*?)\.md\)/);
+                const match = line.match(/\]\((.*?)\.md\)/);
                 if (match) {
                     let filename = match[1];
                     filename = decodeURIComponent(filename.replace(/^\.\//, ''));
@@ -482,12 +482,25 @@ async function build() {
             
             if (p.completed_paths && p.completed_paths.length > 0) {
               let completedCount = 0;
+              let hasRootIndex = false;
+              let normalizedCompleted = [];
+              
               p.completed_paths.forEach(cp => {
                 let norm = decodeURIComponent(cp).split('#')[0].split('?')[0];
                 if (norm.endsWith('/')) norm += 'index.html';
                 else if (!norm.endsWith('.html')) norm += '.html';
-                if (chapters.includes(norm)) completedCount++;
+                normalizedCompleted.push(norm);
+                if (norm.endsWith('/index.html')) hasRootIndex = true;
               });
+              
+              if (hasRootIndex && chapters.length > 0 && !normalizedCompleted.includes(chapters[0])) {
+                  normalizedCompleted.push(chapters[0]);
+              }
+              
+              normalizedCompleted.forEach(norm => {
+                  if (chapters.includes(norm)) completedCount++;
+              });
+              
               percent = Math.round((completedCount / total) * 100);
             } else if (p.last_read_path) {
               // Legacy fallback
