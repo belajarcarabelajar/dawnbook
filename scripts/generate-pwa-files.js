@@ -35,7 +35,7 @@ const manifestContent = `{
 fs.writeFileSync(path.join(publicDir, 'manifest.webmanifest'), manifestContent);
 
 const swContent = `
-const CACHE_NAME = 'dawnbook-pwa-v1';
+const CACHE_NAME = 'dawnbook-pwa-v2';
 const OFFLINE_URL = '/offline.html';
 
 const ASSETS_TO_CACHE = [
@@ -71,10 +71,10 @@ self.addEventListener('fetch', event => {
   if (event.request.method !== 'GET') return;
   
   event.respondWith(
-    caches.match(event.request).then(cachedResponse => {
-      if (cachedResponse) return cachedResponse;
-      
-      return fetch(event.request).catch(() => {
+    fetch(event.request).catch(() => {
+      return caches.match(event.request).then(cachedResponse => {
+        if (cachedResponse) return cachedResponse;
+        
         if (event.request.mode === 'navigate') {
           return caches.match(OFFLINE_URL);
         }
