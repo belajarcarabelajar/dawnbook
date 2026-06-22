@@ -174,17 +174,13 @@ h1, h2, h3, .logo {
   color: var(--color-text-muted);
   text-decoration: none;
   font-size: 1.1rem;
-  /* Micro-interaction 1: Link hover state */
-  transition: color var(--duration-fast) var(--easing-standard), transform var(--duration-fast) var(--easing-bounce);
   display: inline-flex;
   min-height: 44px; /* Touch target */
   align-items: center;
-  transform-origin: left;
 }
 
 .nav-links a:hover, .nav-links a.active, .nav-links button:hover {
   color: var(--color-text);
-  transform: translateX(10px);
 }
 
 /* Main Content Area */
@@ -200,7 +196,7 @@ h1, h2, h3, .logo {
 
 .hero-section {
   text-align: left; /* No centered hero */
-  margin-bottom: var(--spacing-xxl);
+  margin-bottom: var(--spacing-xl);
   max-width: 800px;
 }
 
@@ -209,22 +205,17 @@ h1, h2, h3, .logo {
   line-height: 1.1;
   color: var(--color-primary);
   margin-bottom: var(--spacing-md);
-  /* Effect Animation: Entrance */
-  animation: fadeSlideRight var(--duration-slow) var(--easing-smooth) forwards;
-  opacity: 0;
-  transform: translateX(-30px);
+  opacity: 1;
+  white-space: nowrap;
 }
 
 .hero-section p {
   font-size: clamp(1rem, 4vw, 1.25rem);
   color: var(--color-text-muted);
-  animation: fadeSlideRight var(--duration-slow) var(--easing-smooth) forwards;
-  opacity: 0;
-  transform: translateX(-30px);
-  animation-delay: 150ms;
+  opacity: 1;
 }
 
-/* Micro-interaction 2: Button Press */
+/* Button */
 .btn-primary {
   display: inline-flex;
   align-items: center;
@@ -240,11 +231,7 @@ h1, h2, h3, .logo {
   border: none;
   cursor: pointer;
   margin-top: var(--spacing-md);
-  transition: transform var(--duration-fast) var(--easing-bounce), filter var(--duration-fast) var(--easing-standard);
-  animation: fadeSlideRight var(--duration-slow) var(--easing-smooth) forwards;
-  opacity: 0;
-  transform: translateX(-30px);
-  animation-delay: 300ms;
+  opacity: 1;
 }
 
 .btn-primary:hover {
@@ -252,7 +239,6 @@ h1, h2, h3, .logo {
 }
 
 .btn-primary:active {
-  transform: scale(0.92);
 }
 
 /* Book Grid (Dynamic Responsive Layout) */
@@ -262,7 +248,6 @@ h1, h2, h3, .logo {
   gap: var(--spacing-lg);
 }
 
-/* Micro-interaction 3: Card Hover */
 .book-card {
   box-sizing: border-box;
   background-color: var(--color-surface);
@@ -274,15 +259,10 @@ h1, h2, h3, .logo {
   display: flex;
   flex-direction: column;
   height: 100%;
-  transition: transform var(--duration-normal) var(--easing-bounce), box-shadow var(--duration-normal) var(--easing-standard);
-  /* Staggered entry */
-  animation: fadeSlideUp var(--duration-slow) var(--easing-smooth) forwards;
-  opacity: 0;
-  transform: translateY(30px);
+  opacity: 1;
 }
 
 .book-card:hover {
-  transform: translateY(-8px) scale(1.02);
   box-shadow: 0 15px 30px rgba(0,0,0,0.4);
   border-color: var(--color-primary);
 }
