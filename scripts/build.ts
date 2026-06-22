@@ -162,9 +162,7 @@ async function build() {
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap"></noscript>
-    <link rel="manifest" href="/manifest.webmanifest">
-    <script src="/register-sw.js" defer></script>
-    <script src="/pake-compat.js" defer></script>
+        <script src="/pake-compat.js" defer></script>
     <link rel="icon" type="image/svg+xml" href="${isHome ? 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>' : 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>'}">
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">

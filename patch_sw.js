@@ -1,4 +1,10 @@
+const fs = require('fs');
 
+// The Service Worker is currently Cache-First! 
+// This is exactly why the user is completely stuck and nothing works unless they hard-refresh!
+// We MUST make it Network-First as per GEMINI.md
+
+let swContent = `
 const CACHE_NAME = 'dawnbook-pwa-v3';
 const OFFLINE_URL = '/offline.html';
 
@@ -48,3 +54,8 @@ self.addEventListener('fetch', event => {
     })
   );
 });
+`;
+
+fs.writeFileSync('public/sw.js', swContent);
+fs.writeFileSync('scripts/generate-pwa-files.js', fs.readFileSync('scripts/generate-pwa-files.js', 'utf8').replace(/dawnbook-pwa-v2/, 'dawnbook-pwa-v3'));
+console.log("Patched SW");
