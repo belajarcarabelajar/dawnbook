@@ -288,13 +288,6 @@ async function build() {
                     </div>
                 </div>
                 <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
-                <div class="book-progress-wrapper" style="margin-top: auto; padding-bottom: 12px; display: flex; align-items: center; gap: 12px; min-height: 18px;">
-                    <div class="book-progress" style="flex: 1; border-radius: 4px; height: 6px; position: relative; overflow: hidden;">
-                        <div style="position: absolute; inset: 0; background-color: var(--color-text-muted); opacity: 0.4;"></div>
-                        <div class="book-progress-bar" style="position: absolute; left: 0; top: 0; height: 100%; background: var(--color-primary); width: 0%; transition: width 0.5s ease; border-radius: 4px; z-index: 2;"></div>
-                    </div>
-                    <div class="book-progress-text" style="font-size: 0.8rem; color: var(--color-primary); font-weight: 700; min-width: 45px; text-align: right;">0%</div>
-                </div>
             </div>
             <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 0.85rem; color: var(--color-secondary);">
                 <span>${escapeHtml(b.author)} • ${b.chapterCount} chapter</span>
@@ -467,65 +460,6 @@ async function build() {
           initClerk();
       });
 
-      function loadHubProgress() {
-        Promise.all([
-          fetch('/manifest.json?v=' + Date.now()).then(r => r.json()),
-          fetch('/api/progress?v=' + Date.now(), { credentials: 'same-origin' }).then(r => r.json())
-        ]).then(([manifest, data]) => {
-          if (!manifest.chapters || !data.progress) return;
-          data.progress.forEach(p => {
-            const chapters = manifest.chapters[p.book_slug];
-            if (!chapters || chapters.length === 0) return;
-            
-            const total = chapters.length;
-            let percent = 0;
-            
-            if (p.completed_paths && p.completed_paths.length > 0) {
-              let completedCount = 0;
-              let hasRootIndex = false;
-              let normalizedCompleted = [];
-              
-              p.completed_paths.forEach(cp => {
-                let norm = decodeURIComponent(cp).split('#')[0].split('?')[0];
-                if (norm.endsWith('/')) norm += 'index.html';
-                else if (!norm.endsWith('.html')) norm += '.html';
-                normalizedCompleted.push(norm);
-                if (norm.endsWith('/index.html')) hasRootIndex = true;
-              });
-              
-              if (hasRootIndex && chapters.length > 0 && !normalizedCompleted.includes(chapters[0])) {
-                  normalizedCompleted.push(chapters[0]);
-              }
-              
-              normalizedCompleted.forEach(norm => {
-                  if (chapters.includes(norm)) completedCount++;
-              });
-              
-              percent = Math.round((completedCount / total) * 100);
-            } else if (p.last_read_path) {
-              // Legacy fallback
-              let readPath = decodeURIComponent(p.last_read_path).split('#')[0].split('?')[0];
-              if (readPath.endsWith('/')) readPath += 'index.html';
-              else if (!readPath.endsWith('.html')) readPath += '.html';
-              const idx = chapters.findIndex(c => c === readPath);
-              if (idx !== -1 && total > 0) {
-                percent = Math.round(((idx + 1) / total) * 100);
-              }
-            }
-            
-            percent = Math.min(Math.max(percent, 0), 100);
-            
-            const card = document.querySelector('.book-card[data-slug="' + p.book_slug + '"]');
-            if (card) {
-              setTimeout(() => {
-                card.querySelector('.book-progress-bar').style.width = percent + '%';
-                card.querySelector('.book-progress-text').innerText = percent + '%';
-              }, 50);
-            }
-          });
-        }).catch(console.error);
-      }
-
       function initClerk() {
         var clerkPk = '${process.env.VITE_CLERK_PUBLISHABLE_KEY}';
         var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
@@ -536,8 +470,6 @@ async function build() {
         script.setAttribute('data-clerk-publishable-key', clerkPk);
         script.async = true;
         script.onload = function() {
-            // Load progress immediately, bypassing Clerk CSP crash issues
-            loadHubProgress();
             if (window.Clerk) {
                 window.Clerk.load().then(function() {
                     mountUserControls();
