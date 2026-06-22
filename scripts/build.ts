@@ -123,6 +123,9 @@ async function build() {
     }
   }
 
+  // Sort builtBooks alphabetically to ensure consistent initial HTML order before JS hydration
+  builtBooks.sort((a, b) => a.title.localeCompare(b.title));
+
   console.log("Generating premium hub site...");
 
   const minifyJs = (js: string) => js.replace(/\/\*[\s\S]*?\*\//g, '').replace(/^\s*\/\/.*$/gm, '').replace(/\s+/g, ' ').trim();
@@ -275,7 +278,7 @@ async function build() {
         </select>
     </div>
 
-    <div class="book-masonry">
+    <div class="book-masonry" style="opacity: 0; transition: opacity 0.5s ease-in-out;">
       ${builtBooks.map(b => `
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
@@ -451,7 +454,14 @@ async function build() {
                     reorderBooks();
                 }
             })
-            .catch(console.error);
+            .catch(err => {
+                console.error(err);
+                reorderBooks();
+            })
+            .finally(() => {
+                const container = document.querySelector('.book-masonry');
+                if (container) container.style.opacity = '1';
+            });
       }
 
       document.addEventListener('DOMContentLoaded', () => {
