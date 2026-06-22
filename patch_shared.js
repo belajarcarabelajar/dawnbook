@@ -1,13 +1,10 @@
 const fs = require('fs');
 let code = fs.readFileSync('books/shared-script.js', 'utf8');
 
-code = code.replace(/} else \{\n\s+window\.checkpointHandled = true;\n\s+window\.saveProgress\(\);\n\s+\}/, `} else {
-            window.checkpointHandled = true;
-            // Never save the root path as progress, as it overrides actual chapter progress.
-            if (!isRoot) {
-                window.saveProgress();
-            }
-        }`);
+code = code.replace(
+  `window.saveProgress = function(isCompleted) {`,
+  `window.saveProgress = function(isCompleted) {
+            console.log("saveProgress called! path:", currentPath);`
+);
 
 fs.writeFileSync('books/shared-script.js', code);
-console.log("Patched");

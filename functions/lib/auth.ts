@@ -89,6 +89,7 @@ export async function verifyClerkSession(
   }
 
   // --- Attempt 2: Clerk Backend API verification ---
+  console.log("Attempting Backend Verification, Secret Key exists:", !!env.CLERK_SECRET_KEY);
   if (env.CLERK_SECRET_KEY) {
     try {
       return await verifyViaClerkBackendAPI(token, env.CLERK_SECRET_KEY);
