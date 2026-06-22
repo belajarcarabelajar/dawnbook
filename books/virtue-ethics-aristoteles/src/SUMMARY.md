@@ -1,0 +1,15 @@
+# Summary
+
+- [Pengantar Etika Kebajikan: Menjadi Pribadi yang Baik](content/01_pengantar-etika-kebajikan-menjadi-pribadi-yang-baik.md)
+- [Akar Filosofis: Aristoteles dan Tradisi Klasik](content/02_akar-filosofis-aristoteles-dan-tradisi-klasik.md)
+- [Konsep Eudaimonia: Melampaui Sekadar Kesenangan](content/03_konsep-eudaimonia-melampaui-sekadar-kesenangan.md)
+- [Arete: Definisi dan Jenis-Jenis Keutamaan](content/04_arete-definisi-dan-jenis-jenis-keutamaan.md)
+- [Habituasi: Membentuk Karakter Melalui Kebiasaan](content/05_habituasi-membentuk-karakter-melalui-kebiasaan.md)
+- [Doktrin Jalan Tengah (The Golden Mean): Seni Menemukan Keseimbangan Moral](content/06_doktrin-jalan-tengah-the-golden-mean-seni-menemukan-keseimbangan-moral.md)
+- [Phronesis: Sang Navigasi dalam Labirin Kehidupan](content/07_phronesis-sang-navigasi-dalam-labirin-kehidupan.md)
+- [Kesatuan Karakter dan Integritas: Harmoni di Balik Keutamaan](content/08_kesatuan-karakter-dan-integritas-harmoni-di-balik-keutamaan.md)
+- [Konteks Sosial: Kebajikan dalam Komunitas (Polis)](content/09_konteks-sosial-kebajikan-dalam-komunitas-polis.md)
+- [Etika Kebajikan vs Teori Etika Modern: Karakter, Aturan, atau Hasil?](content/10_etika-kebajikan-vs-teori-etika-modern.md)
+- [Kebangkitan Etika Kebajikan Kontemporer: Menemukan Kembali Jiwa dalam Moralitas](content/11_kebangkitan-etika-kebajikan-kontemporer-menemukan-kembali-jiwa-dalam-moralitas.md)
+- [Panduan Praktis Etika Kebajikan](content/12_panduan-praktis.md)
+- [Referensi](content/13_referensi.md)
