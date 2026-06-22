@@ -62,9 +62,12 @@ export async function verifyClerkSession(
     }
   }
 
-  if (!token) return null;
+  if (!token) { console.log("No token found"); return null; } else { console.log("Token found, length:", token.length); }
 
   const pk = env.CLERK_PUBLISHABLE_KEY || (env as any).VITE_CLERK_PUBLISHABLE_KEY;
+  console.log("CLERK_PUBLISHABLE_KEY:", env.CLERK_PUBLISHABLE_KEY);
+  console.log("VITE_CLERK_PUBLISHABLE_KEY:", (env as any).VITE_CLERK_PUBLISHABLE_KEY);
+  console.log("CLERK_SECRET_KEY:", !!env.CLERK_SECRET_KEY);
 
   // --- Attempt 1: Local JWKS verification ---
   if (pk) {
