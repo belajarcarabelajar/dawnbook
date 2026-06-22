@@ -74,12 +74,15 @@ export async function verifyClerkSession(
     try {
       const clerkDomain = getClerkDomain(pk);
       const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
+      console.log("Fetching JWKS from:", jwksUrl);
       const jwksResponse = await fetch(jwksUrl);
+      console.log("JWKS status:", jwksResponse.status);
 
       if (jwksResponse.ok) {
         const jwks = (await jwksResponse.json()) as { keys: JsonWebKey[] };
         if (jwks.keys && jwks.keys.length > 0) {
           const result = await verifyWithJWKS(token, jwks.keys);
+          console.log("JWKS verify result exists:", !!result);
           if (result) return result;
         }
       }
@@ -188,8 +191,11 @@ async function verifyViaClerkBackendAPI(
         },
       }
     );
-
-    if (!response.ok) return null;
+    console.log("Backend API verification status:", response.status);
+    if (!response.ok) {
+      console.log("Backend API error:", await response.text());
+      return null;
+    }
 
     const session = (await response.json()) as {
       status: string;
