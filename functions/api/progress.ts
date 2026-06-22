@@ -86,6 +86,7 @@ async function handleGetProgress(env: Env, request: Request): Promise<Response> 
 }
 
 async function handlePostProgress(env: Env, request: Request): Promise<Response> {
+  console.log("POST /api/progress hit!");
   const session = await verifyClerkSession(request, env);
   if (!session || !session.sub) {
     return errorResponse("Unauthorized", 401);
@@ -103,7 +104,7 @@ async function handlePostProgress(env: Env, request: Request): Promise<Response>
   }
 
   if (!payload.path || typeof payload.path !== 'string' || payload.path.length > 1000 || !payload.path.startsWith('/')) {
-    return errorResponse("Invalid path format or length", 400);
+    { console.log("Failed path check:", payload.path); return errorResponse("Invalid path format or length", 400); }
   }
 
   if (payload.completed_path && (typeof payload.completed_path !== 'string' || payload.completed_path.length > 1000 || !payload.completed_path.startsWith('/'))) {
@@ -142,7 +143,7 @@ async function handlePostProgress(env: Env, request: Request): Promise<Response>
     .run();
 
   if (!result.success) {
-    return errorResponse("Database write failed", 500);
+    { console.log("DB write failed"); return errorResponse("Database write failed", 500); }
   }
 
   return jsonResponse({ success: true, completed_paths: completedPaths }, 201);
