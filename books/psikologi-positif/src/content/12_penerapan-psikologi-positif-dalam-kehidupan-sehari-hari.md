@@ -1,6 +1,6 @@
 ## Penerapan Psikologi Positif dalam Kehidupan Sehari-hari
 
-Selamat! Kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif—mulai dari model PERMA hingga kekuatan rasa syukur. Namun, pengetahuan hanyalah benih; penerapan nyata adalah tanah tempat benih tersebut tumbuh menjadi pohon kesejahteraan yang kokoh.
+Selamat! Kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif, mulai dari model PERMA hingga kekuatan rasa syukur. Namun, pengetahuan hanyalah benih; penerapan nyata adalah tanah tempat benih tersebut tumbuh menjadi pohon kesejahteraan yang kokoh.
 
 Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan: tempat kerja, dunia pendidikan, dan kesehatan fisik.
 

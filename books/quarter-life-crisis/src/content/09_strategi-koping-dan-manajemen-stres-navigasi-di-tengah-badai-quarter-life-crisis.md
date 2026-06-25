@@ -18,7 +18,7 @@ Jika pembilang (tekanan) jauh lebih besar daripada penyebut (sumber daya), krisi
 
 ## 2. Praktik Mindfulness: Menambatkan Diri pada Masa Kini
 
-Kecemasan QLC sering kali bersifat **antisipatoris** —kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
+Kecemasan QLC sering kali bersifat **antisipatoris** ,kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
 
 ### Teknik Grounding 5-4-3-2-1
 
@@ -59,7 +59,7 @@ Mengatakan tidak adalah keterampilan bertahan hidup. Gunakan rumus: **"Terima ka
 
 ## 4. Manajemen Energi, Bukan Hanya Manajemen Waktu
 
-Banyak anak muda terjebak dalam *productivity porn* —berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
+Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sedemikian rupa hingga setiap detik harus menghasilkan uang atau prestasi. Namun, waktu bersifat terbatas (24 jam), sedangkan energi bisa diperbarui.
 
 **Empat Kuadran Energi:**
 
@@ -76,7 +76,7 @@ Banyak anak muda terjebak dalam *productivity porn* —berusaha mengatur waktu s
 
 1. **Cognitive Reframing:** Andi mengubah kalimat "Aku gagal" menjadi "Aku sedang membangun fondasi finansialku sendiri, dan perjalananku berbeda dengan mereka."
 2. **Digital Detox:** Andi menonaktifkan notifikasi media sosial selama 2 jam setelah bangun tidur untuk fokus pada rutinitas paginya.
-3. **Aksi Terukur:** Alih-alih meratapi nasib, Andi mengalokasikan \\( X\\% \\) dari gajinya untuk dana darurat secara otomatis (mengubah kecemasan menjadi aksi nyata).
+3. **Aksi Terukur:** Alih-alih meratapi nasib, Andi mengalokasikan \( X\% \) dari gajinya untuk dana darurat secara otomatis (mengubah kecemasan menjadi aksi nyata).
 
 ## 6. Jurnal Refleksi: Mengeluarkan Isi Kepala
 
@@ -88,4 +88,4 @@ Menulis adalah cara terbaik untuk melihat pola pikir kita dari perspektif luar. 
 
 **Penting:** Coping strategy tidak bekerja secara instan untuk melenyapkan masalah dalam semalam. Anggap ini sebagai otot yang harus terus dilatih. Semakin sering kamu mempraktikkannya, semakin tangguh kamu menghadapi ketidakpastian khas Quarter-Life Crisis.
 
-> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." — Jon Kabat-Zinn
+> "Kamu tidak bisa menghentikan ombak, tetapi kamu bisa belajar berselancar." , Jon Kabat-Zinn

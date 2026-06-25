@@ -4,7 +4,7 @@ Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini 
 
 ## 1. Pengetahuan Deklaratif: "Apa yang Saya Ketahui"
 
-Pengetahuan deklaratif adalah aspek "apa" dari metakognisi. Bagian ini berfokus pada pemahaman tentang fakta, konsep, dan informasi yang kamu miliki. Ini juga termasuk seberapa jauh kamu mengenali diri sendiri sebagai seorang pembelajar. Pengetahuan semacam ini sifatnya eksplisit—artinya, kamu bisa mengungkapkannya secara langsung lewat kata-kata atau tulisan.
+Pengetahuan deklaratif adalah aspek "apa" dari metakognisi. Bagian ini berfokus pada pemahaman tentang fakta, konsep, dan informasi yang kamu miliki. Ini juga termasuk seberapa jauh kamu mengenali diri sendiri sebagai seorang pembelajar. Pengetahuan semacam ini sifatnya eksplisit, artinya kamu bisa mengungkapkannya secara langsung lewat kata-kata atau tulisan.
 
 Apa saja yang masuk ke dalam pengetahuan deklaratif?
 - **Mengenali diri sendiri:** Kamu paham apa saja kelebihan dan kekuranganmu saat belajar. Kamu juga tahu gaya belajar apa yang paling pas buatmu, termasuk apa yang biasanya memicu motivasimu.
@@ -65,7 +65,7 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 	- Ia kenal beberapa metode belajar seperti pakai kartu *flash*, bikin *timeline*, sampai sekadar baca ulang materi.
 
 2. **Pengetahuan Prosedural ("Bagaimana"):**
-	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi dan deskripsi peristiwa di sisi sebaliknya.
+	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi and deskripsi peristiwa di sisi sebaliknya.
 	- Ia bisa menggambar *timeline* yang runtut agar alur kejadiannya kelihatan jelas.
 	- Ia terbiasa menulis poin-poin ringkasan dari tiap era.
 

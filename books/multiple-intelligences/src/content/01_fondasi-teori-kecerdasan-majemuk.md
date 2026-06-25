@@ -10,7 +10,7 @@ Pada awal abad ke-20, psikologi sangat didominasi oleh gagasan **General Intelli
 
 Semuanya mulai berubah pada tahun 1983 ketika **Howard Gardner**, psikolog dari Harvard University, merilis *"Frames of Mind: The Theory of Multiple Intelligences"*. Berbekal penelitian di *Harvard Project Zero*, Gardner mulai mempertanyakan anggapan bahwa kecerdasan manusia hanya berputar di sekitar logika dan kemampuan berbahasa.
 
-Setelah mengamati banyak individu—dari anak-anak berbakat (*prodigies*), pasien cedera otak, sampai penyandang autisme (*savants*)—ia melihat pola menarik. Ada pasien yang kehilangan kemampuan bahasanya akibat kerusakan otak, tapi masih bisa menciptakan melodi yang kompleks atau menyelesaikan teka-teki spasial dengan mudah. Penemuan ini menunjukkan bahwa kecerdasan itu modular dan terdiri dari berbagai komponen yang bisa bekerja secara terpisah.
+Setelah mengamati banyak individu, mulai dari anak-anak berbakat (*prodigies*), pasien cedera otak, sampai penyandang autisme (*savants*), ia melihat pola menarik. Ada pasien yang kehilangan kemampuan bahasanya akibat kerusakan otak, tapi masih bisa menciptakan melodi yang kompleks atau menyelesaikan teka-teki spasial dengan mudah. Penemuan ini menunjukkan bahwa kecerdasan itu modular dan terdiri dari berbagai komponen yang bisa bekerja secara terpisah.
 
 ## 2. Melampaui Angka Tes IQ
 
@@ -36,7 +36,7 @@ Gardner menolak menjadikan angka tes sebagai tolok ukur akhir. Ia justru merumus
 
 > **"Kemampuan untuk memecahkan masalah atau menciptakan produk yang bernilai dalam satu atau lebih latar budaya."**
 
-Dari kalimat tersebut, kita bisa membedah tiga aspek utamanya. Aspek pertama adalah fungsi praktis di dunia nyata, yakni kemampuan memecahkan masalah. Lalu, kemampuan untuk berkarya dan menghasilkan sesuatu—entah itu lagu, desain bangunan, hingga teori baru—juga diakui sebagai bentuk kecerdasan. Di samping itu, standar kecerdasan sangat bergantung pada konteks budaya, menyesuaikan dengan apa yang dianggap relevan oleh lingkungan sekitarnya.
+Dari kalimat tersebut, kita bisa membedah tiga aspek utamanya. Aspek pertama adalah fungsi praktis di dunia nyata, yakni kemampuan memecahkan masalah. Lalu, kemampuan untuk berkarya dan menghasilkan sesuatu (entah itu lagu, desain bangunan, hingga teori baru) juga diakui sebagai bentuk kecerdasan. Di samping itu, standar kecerdasan sangat bergantung pada konteks budaya, menyesuaikan dengan apa yang dianggap relevan oleh lingkungan sekitarnya.
 
 ## 4. Cara Kerja Spektrum Kecerdasan
 
@@ -52,7 +52,7 @@ Masuknya suatu kemampuan ke dalam kategori kecerdasan majemuk tidak dilakukan se
 
 Sebuah kemampuan harus bisa dilacak letaknya di otak. Ini dibuktikan saat terjadi kerusakan spesifik pada bagian otak tertentu, yang membuat satu kemampuan hilang tanpa mengganggu fungsi kemampuan lainnya. Gardner juga memperhatikan fenomena orang-orang dengan autisme (*savants*) atau individu jenius yang punya kemampuan luar biasa di satu area, kendati sangat kesulitan menghadapi hal dasar di area lain.
 
-Selain itu, jejak evolusi manusia juga dipertimbangkan—seperti kemampuan navigasi purba atau insting bertahan hidup—untuk memastikan bahwa kemampuan tersebut memang punya akar biologis yang panjang. Semua temuan ini kemudian harus bisa divalidasi dan diuji ulang lewat tugas-tugas eksperimental di ranah psikologi.
+Selain itu, jejak evolusi manusia juga dipertimbangkan, seperti kemampuan navigasi purba atau insting bertahan hidup, untuk memastikan bahwa kemampuan tersebut memang punya akar biologis yang panjang. Semua temuan ini kemudian harus bisa divalidasi dan diuji ulang lewat tugas-tugas eksperimental di ranah psikologi.
 
 ## 6. Implementasi Sehari-hari: Menggeser Label Menjadi Potensi
 

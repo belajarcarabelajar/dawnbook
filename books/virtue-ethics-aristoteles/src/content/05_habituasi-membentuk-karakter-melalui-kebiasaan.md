@@ -8,7 +8,7 @@ Begitu pula dengan moralitas dalam Etika Kebajikan. Menjadi orang baik itu layak
 
 Habituasi berasal dari kata Yunani *ethos* (kebiasaan), yang merupakan akar kata dari "etika". Aristoteles berpendapat bahwa kebajikan moral tidak muncul dalam diri kita secara alami. Kita memiliki kapasitas alami untuk menerimanya dan menyempurnakannya melalui kebiasaan.
 
-> "Kita adalah apa yang kita lakukan berulang kali. Oleh karena itu, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." — **Aristoteles**
+> "Kita adalah apa yang kita lakukan berulang kali. Oleh karena itu, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - **Aristoteles**
 
 Dalam konteks etika, habituasi adalah proses melakukan tindakan-tindakan baik secara konsisten sehingga tindakan tersebut menjadi bagian dari identitas kita.
 

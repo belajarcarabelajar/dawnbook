@@ -27,7 +27,7 @@ Jika kecerdasan **intrapersonal** berfokus pada pemahaman diri sendiri, kecerdas
 
 Bayangkan kamu adalah sebuah perangkat elektronik canggih dengan spesifikasi tertinggi. Daya komputasimu luar biasa, tetapi kamu mencoba menyambungkannya ke stopkontak di negara asing yang memiliki tipe colokan berbeda. Tanpa bantuan sebuah *adapter*, secanggih apa pun perangkatmu, arus listrik tidak akan mengalir dan perangkat tersebut tidak akan pernah menyala.
 
-Kecerdasan interpersonal berperan layaknya *universal adapter* tersebut. Kemampuan ini menghubungkan keahlian teknismu yang mendalam dengan sistem luar—baik itu rekan kerja, divisi lain, maupun klien—sehingga hasil kerjamu bisa dipahami, digunakan, dan diapresiasi.
+Kecerdasan interpersonal berperan layaknya *universal adapter* tersebut. Kemampuan ini menghubungkan keahlian teknismu yang mendalam dengan sistem luar, baik itu rekan kerja, divisi lain, maupun klien, sehingga hasil kerjamu bisa dipahami, digunakan, dan diapresiasi.
 
 ## Kecerdasan Interpersonal dalam Profil *T-Shaped Professional*
 
@@ -36,7 +36,7 @@ Dunia kerja modern sangat menghargai individu dengan profil *T-shaped*. Apa sebe
 - **Garis Vertikal (I)**  
   Pilar ini menggambarkan kedalaman keahlian teknis atau spesialisasi yang kamu miliki, misalnya di bidang *data science*, akuntansi, atau desain grafis.
   
-- **Garis Horizontal (—)**  
+- **Garis Horizontal (-)**  
   Mewakili kelenturan kamu untuk bekerja sama lintas disiplin, berkomunikasi lintas divisi, serta memahami beragam perspektif yang berbeda.
 
 Kecerdasan interpersonal adalah pilar utama yang membentuk garis horizontal tersebut.

@@ -6,7 +6,7 @@ Belajar di era modern menuntut kita untuk membuka sudut pandang yang lebih luas 
 
 ### 1. Multidisciplinary (Multidisiplin)
 
-Dalam pendekatan **multidisciplinary**, setidaknya ada dua atau lebih *academic disciplines* yang bekerja bersama untuk mengkaji suatu isu. Karakteristik utamanya bersifat *additive*—setiap disiplin ilmu meneliti topik yang sama tetapi tetap mempertahankan batasan dan sudut pandang masing-masing. Para spesialis bekerja di dalam ruang lingkup keilmuan mereka sendiri, lalu menyatukan hasilnya di akhir proses.
+Dalam pendekatan **multidisciplinary**, setidaknya ada dua atau lebih *academic disciplines* yang bekerja bersama untuk mengkaji suatu isu. Karakteristik utamanya bersifat *additive*, yaitu setiap disiplin ilmu meneliti topik yang sama tetapi tetap mempertahankan batasan dan sudut pandang masing-masing. Para spesialis bekerja di dalam ruang lingkup keilmuan mereka sendiri, lalu menyatukan hasilnya di akhir proses.
 
 Tingkat integrasi dalam pendekatan ini tergolong rendah karena tidak ada peleburan *methods*, *concepts*, atau *theories* secara mendalam. Tujuannya murni untuk memperkaya pemahaman dengan melihat suatu masalah dari berbagai jendela keilmuan yang berbeda.
 
@@ -32,14 +32,14 @@ Mari kita lihat contoh implementasinya:
     Bidang ini memadukan Biology dan Computer Science untuk memproses data genomik. Ahli biologi memakai algoritma komputer untuk menganalisis DNA, sementara ahli komputer merancang program baru yang disesuaikan dengan kebutuhan biologis. Hasilnya adalah sebuah area studi baru yang sangat terpadu.
     
 *   **Cognitive Neuroscience**
-    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk membedah misteri otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. Mereka merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
+    Disiplin ini menyatukan Neuroscience, Psychology, dan Computer Science untuk membedah misteri otak dan perilaku. Para peneliti di bidang ini tidak sekadar menaruh data psikologi dan neurologi bersebelahan. They merancang eksperimen dan model kognitif baru yang menggabungkan kedua perspektif tersebut untuk melihat bagaimana kesadaran atau ingatan terbentuk dari jaringan saraf.
     
 *   **Environmental Studies**
     Studi ini mensintesis Environmental Science, Social Sciences, dan Natural Sciences untuk mencari solusi atas krisis ekologi. Ahli biologi yang meneliti pencemaran air bekerja langsung dengan sosiolog untuk menyusun program edukasi dan kebijakan masyarakat. Mereka merancang intervensi sosial-ilmiah yang menjaga keseimbangan alam sekaligus kebutuhan manusia secara bersamaan.
 
 ### 3. Transdisciplinary (Transdisiplin)
 
-Pendekatan **transdisciplinary** mewakili tingkat integrasi tertinggi dan bersifat transformatif. Pendekatan ini melampaui sekat-sekat akademik tradisional dengan meleburkan berbagai disiplin ilmu sekaligus merangkul pengetahuan dari para *non-academic stakeholders*—seperti praktisi profesional, pemerintah, pelaku industri, hingga masyarakat sipil. 
+Pendekatan **transdisciplinary** mewakili tingkat integrasi tertinggi dan bersifat transformatif. Pendekatan ini melampaui sekat-sekat akademik tradisional dengan meleburkan berbagai disiplin ilmu sekaligus merangkul pengetahuan dari para *non-academic stakeholders*, seperti praktisi profesional, pemerintah, pelaku industri, hingga masyarakat sipil. 
 
 Dalam proses ini, pengetahuan praktis di lapangan dipandang setara dengan teori akademis untuk merancang solusi nyata. Tingkat integrasinya sangat tinggi, menciptakan paradigma, konsep, dan metodologi baru yang tidak lagi terikat pada satu disiplin tertentu. Transdisciplinary mendorong perubahan nyata dari sekadar analisis terpisah menuju dialog kolaboratif yang melahirkan solusi terapan untuk kelangsungan hidup masyarakat.
 
@@ -59,7 +59,7 @@ Guna memudahkan kamu memetakan perbedaan ketiganya, perhatikan tabel perbandinga
 | --- | --- | --- | --- |
 | **Pendekatan** | *Additive*; bekerja secara paralel. | *Interactive*; terjadi transfer dan percampuran. | *Holistic*; integrasi penuh dan transformatif. |
 | **Interaction Level** | Rendah; tidak ada interaksi mendalam antardisiplin. | Sedang; ada interaksi dan adaptasi konsep/metode. | Tinggi; peleburan disiplin untuk paradigma baru. |
-| **Disciplinary Boundaries** | Tetap dipertahankan dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
+| **Disciplinary Boundaries** | Tetap dipertahaman dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
 | **Primary Focus** | Memperkaya sudut pandang dengan berbagai perspektif. | Memadukan pengetahuan demi pemahaman yang lebih menyeluruh. | Memecahkan masalah nyata dan menghasilkan solusi praktis. |
 | **Outcomes** | Kumpulan perspektif yang bervariasi. | Sintesis baru, melahirkan metode atau teori baru. | Pengetahuan transformatif dan solusi terapan berkelanjutan. |
 | **Metaphor** | *Orchestra* (tiap instrumen memainkan bagiannya sendiri). | *Jazz Ensemble* (instrumen saling menyahut dan berimprovisasi). | *Fusion Cuisine* (bahan dan teknik rasa menyatu melahirkan hidangan baru). |

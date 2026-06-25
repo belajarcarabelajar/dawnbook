@@ -14,19 +14,19 @@ Mari kita bedah beberapa sudut pandang untuk membantumu mengenali percikan kegem
 
 ### Mengingat Masa Lalu
 
-Seringkali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu—mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
+Seringkali minat alami kita tertutup oleh berbagai tuntutan hidup setelah dewasa. Cobalah menggali kembali masa-masa ketika kamu masih kecil atau remaja. Ingat-ingat aktivitas apa saja yang sanggup membuatmu lupa waktu, mulai dari membaca cerita fantasi, merakit LEGO, menggambar, bermain dengan hewan peliharaan, hingga sibuk memecahkan teka-teki rumit. 
 
 Tuliskan kegiatan atau hobi di rentang usia 5 hingga 18 tahun yang paling membekas. Setelah daftarnya selesai, coba bedah lebih dalam. Tanyakan pada dirimu sendiri apa elemen spesifik yang paling kamu nikmati. Misalnya, jika kamu suka membaca buku, apakah karena kamu senang mempelajari hal baru, atau karena kamu suka sensasi tersedot ke dunia fantasi?
 
 ### Mengamati Keseharian Saat Ini
 
-Selain menengok ke belakang, coba observasi keseharianmu saat ini. Perhatikan aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya—dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
+Selain menengok ke belakang, coba observasi keseharianmu saat ini. Perhatikan aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya, seperti dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
 
 Langkah lain yang cukup membantu adalah membuat daftar berisi beberapa hal yang rela kamu kerjakan secara cuma-cuma. Ini bisa berupa aktivitas seperti membantu teman pindahan rumah, menulis cerita pendek, menata ulang isi kamar, atau belajar bahasa asing. 
 
 ### Mengeksplorasi Minat Baru
 
-Kadang ada keinginan terpendam yang belum sempat kamu eksekusi karena berbagai keraguan. Bayangkan sebuah kondisi di mana uang, waktu, dan rasa takut sama sekali bukan hambatan. Biarkan pikiranmu bebas merancang hal-hal yang selalu ingin kamu coba—mungkin mengikuti kelas fotografi, naik gunung, belajar instrumen musik, atau menjadi relawan. 
+Kadang ada keinginan terpendam yang belum sempat kamu eksekusi karena berbagai keraguan. Bayangkan sebuah kondisi di mana uang, waktu, dan rasa takut sama sekali bukan hambatan. Biarkan pikiranmu bebas merancang hal-hal yang selalu ingin kamu coba, misalnya mengikuti kelas fotografi, naik gunung, belajar instrumen musik, atau menjadi relawan. 
 
 Bila perlu, reka ulang bagaimana skenario "satu hari yang sempurna" versi dirimu berjalan. Rinci aktivitasmu mulai dari membuka mata di pagi hari hingga kembali tidur. Rangkaian rutinitas ideal ini biasanya menyimpan petunjuk kuat tentang preferensi dan minat terbesarmu.
 

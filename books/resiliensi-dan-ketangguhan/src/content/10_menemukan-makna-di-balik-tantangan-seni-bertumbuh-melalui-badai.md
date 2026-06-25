@@ -44,15 +44,15 @@ Viktor Frankl, seorang psikiater dan penyintas kamp konsentrasi Nazi, dalam buku
 
 Ia menggunakan konsep matematika sederhana untuk menjelaskan keputusasaan:
 
-\\[ \\text{D} = \\text{S} - \\text{M} \\]
+\[ \text{D} = \text{S} - \text{M} \]
 
 Di mana:
 
-- \\( \\text{D} \\) = Despair (Keputusasaan)
-- \\( \\text{S} \\) = Suffering (Penderitaan)
-- \\( \\text{M} \\) = Meaning (Makna)
+- \( \text{D} \) = Despair (Keputusasaan)
+- \( \text{S} \) = Suffering (Penderitaan)
+- \( \text{M} \) = Meaning (Makna)
 
-**Penting:** Jika penderitaan tidak memiliki makna, hasilnya adalah keputusasaan murni. Namun, ketika kita memberikan **makna \\( \\text{M} \\)** pada penderitaan tersebut, penderitaan itu berhenti menjadi beban yang menghancurkan dan berubah menjadi tugas untuk diselesaikan.
+**Penting:** Jika penderitaan tidak memiliki makna, hasilnya adalah keputusasaan murni. Namun, ketika kita memberikan **makna \( \text{M} \)** pada penderitaan tersebut, penderitaan itu berhenti menjadi beban yang menghancurkan dan berubah menjadi tugas untuk diselesaikan.
 
 ## 5. Analogi Visual: Kintsugi (Seni Memperbaiki dengan Emas)
 
@@ -85,13 +85,13 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
 - **Jalur PTG (Growth):**
   - Melakukan refleksi dan menyadari bahwa ia selama ini hanya mengejar status, alih-alih kepuasan kerja.
   - Menggunakan waktu luang untuk belajar keahlian baru yang selama ini ditunda.
-  - Membangun komunitas bagi sesama pencari kerja untuk saling mendukung.
+  - Pembentukan komunitas bagi sesama pencari kerja untuk saling mendukung.
   - **Hasil:** Mendapatkan pekerjaan baru yang lebih sesuai dengan nilai-nilainya dan memiliki empati yang jauh lebih besar sebagai pemimpin di masa depan.
 
 ## 7. Kesimpulan: Menjadi Lebih dari Sekadar Penyintas
 
 Menemukan makna di balik tantangan bukan berarti kita mensyukuri kejadian buruk yang terjadi. Kita tidak harus menyukai penderitaan tersebut. Namun, kita memiliki kedaulatan untuk menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
 
-> "Hidup tidak pernah dibuat tak tertahankan oleh keadaan, tetapi hanya oleh kurangnya makna dan tujuan." — Viktor Frankl
+> "Hidup tidak pernah dibuat tak tertahankan oleh keadaan, tetapi hanya oleh kurangnya makna dan tujuan." - Viktor Frankl
 
 *Latihan untukmu: Ambil satu tantangan kecil yang kamu hadapi minggu ini. Jika tantangan itu adalah seorang guru, pelajaran berharga apa yang sedang ia coba ajarkan kepadamu?*

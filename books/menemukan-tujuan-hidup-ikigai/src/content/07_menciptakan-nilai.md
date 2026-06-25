@@ -32,7 +32,7 @@ Langkah awalnya adalah mengidentifikasi celah pasar. Perhatikan rasa frustrasi a
 
 Daripada menunggu produkmu sempurna, lebih baik luncurkan Konsep Produk Minimum yang Layak (*Minimum Viable Product* - MVP). Versi paling dasar ini sudah harus memberikan nilai inti. Pendekatan ini memungkinkan kamu menguji ide di pasar dengan investasi minimal demi mendapatkan umpan balik langsung dari pelanggan, untuk kemudian terus dikembangkan.
 
-Pikirkan juga model bisnis yang sederhana. Tentukan bagaimana produk atau layanan tersebut akan menghasilkan uang—apakah lewat penjualan langsung, biaya layanan, langganan, atau iklan. Pahami siapa target audiensmu dan seberapa besar mereka bersedia membayar untuk nilai yang kamu tawarkan.
+Pikirkan juga model bisnis yang sederhana. Tentukan bagaimana produk atau layanan tersebut akan menghasilkan uang, apakah lewat penjualan langsung, biaya layanan, langganan, atau iklan. Pahami siapa target audiensmu dan seberapa besar mereka bersedia membayar untuk nilai yang kamu tawarkan.
 
 > **Studi Kasus:** Seorang guru yoga yang sangat menyukai kebugaran holistik menyadari bahwa banyak orang di komunitasnya kesulitan menemukan instruktur yang mengerti kebutuhan kesehatan lansia. Ia kemudian membuka studio yoga khusus senior, dengan model bisnis berupa keanggotaan bulanan dan sesi privat.
 

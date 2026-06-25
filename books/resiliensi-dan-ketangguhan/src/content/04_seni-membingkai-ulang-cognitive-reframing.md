@@ -8,7 +8,7 @@ Itulah inti dari **Cognitive Reframing** atau Membingkai Ulang Kognitif. Ini buk
 
 Secara teknis, membingkai ulang adalah teknik psikologis yang membantu kita mengidentifikasi dan mengubah cara kita memandang suatu peristiwa, ide, atau emosi. Dalam konteks resiliensi, fokus utama kita adalah mengubah narasi tentang **kegagalan**.
 
-> "Bukan peristiwa itu sendiri yang membuat kita menderita, tetapi penilaian kita terhadap peristiwalah yang menentukan perasaan kita." — Terinspirasi dari Filosofi Stoik.
+> "Bukan peristiwa itu sendiri yang membuat kita menderita, tetapi penilaian kita terhadap peristiwalah yang menentukan perasaan kita." , Terinspirasi dari Filosofi Stoik.
 
 ### Mengubah Kegagalan: Dari "Tembok Besar" Menjadi "Titik Data"
 
@@ -24,7 +24,7 @@ Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu
 
 ### Analogi: Sang Ilmuwan di Laboratorium
 
-Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam—eksperimennya gagal.
+Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam,eksperimennya gagal.
 
 Apakah ilmuwan itu akan pulang, menangis, dan mengatakan, *"Saya adalah ilmuwan yang bodoh, saya menyerah"*? Tentu tidak. Dia akan mengambil catatan dan menulis: *"Zat A tidak bereaksi dengan baik pada suhu 100°C dengan Zat B. Saya butuh data baru."*
 

@@ -10,7 +10,7 @@ Kecerdasan eksistensial bertumpu pada kemampuan menempatkan diri di tengah alam 
 
 Kecerdasan lain mungkin lebih sibuk memecahkan masalah "bagaimana" sesuatu bekerja, entah itu membangun jembatan yang kokoh atau merangkai nada menjadi lagu. Sebaliknya, kecerdasan eksistensial terus menuntut jawaban atas "mengapa".
 
-Sebagai perbandingan, kecerdasan intrapersonal bekerja mirip mikroskop yang memandu kamu menyelami perasaan dan motivasi pribadi. Kecerdasan eksistensial beroperasi layaknya teleskop raksasa—mengabaikan detail teknis di depan mata untuk menangkap gambaran utuh tentang eksistensi manusia di semesta.
+Sebagai perbandingan, kecerdasan intrapersonal bekerja mirip mikroskop yang memandu kamu menyelami perasaan dan motivasi pribadi. Kecerdasan eksistensial beroperasi layaknya teleskop raksasa, mengabaikan detail teknis di depan mata untuk menangkap gambaran utuh tentang eksistensi manusia di semesta.
 
 ## Ciri Pemikir Mendalam
 
@@ -24,7 +24,7 @@ Satu hal yang menarik adalah mereka tidak mudah gentar oleh ambiguitas. Saat ber
 
 Kecerdasan ini beroperasi melampaui data empiris sederhana. Berbeda dengan ilmu pasti yang bertumpu pada presisi angka, ranah eksistensial leluasa menggali konsep-konsep abstrak seperti tak terhingga \( \infty \).
 
-Pola pikir ini mendorong orang mempertanyakan asal muasal segalanya—dari mana kita berasal, hingga menguliti proses pembentukan alam semesta. Ada pula pencarian tentang tujuan hidup yang membedah apakah kehidupan manusia memiliki arah objektif di dunia ini, serta apa yang menanti setelah kesadaran berhenti akibat kematian.
+Pola pikir ini mendorong orang mempertanyakan asal muasal segalanya, dari mana kita berasal, hingga menguliti proses pembentukan alam semesta. Ada pula pencarian tentang tujuan hidup yang membedah apakah kehidupan manusia memiliki arah objektif di dunia ini, serta apa yang menanti setelah kesadaran berhenti akibat kematian.
 
 Pertanyaan seputar konektivitas lintas waktu juga sering mengemuka; sejauh mana tindakan hari ini memengaruhi arah peradaban ratusan tahun ke depan. Rutinitas berulang bisa terasa amat hampa bagi mereka jika gagal disandarkan pada sebuah nilai yang lebih tinggi.
 

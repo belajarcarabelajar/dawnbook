@@ -1,6 +1,6 @@
 ## Membangun Jaring Pengaman Sosial: Mengapa Kita Tidak Bisa Tangguh Sendirian
 
-Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia sangat terampil, memiliki keseimbangan luar biasa, dan fokus yang tajam—itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
+Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia sangat terampil, memiliki keseimbangan luar biasa, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
 
 Jaring itulah yang kita sebut sebagai **Jaring Pengaman Sosial**.
 
@@ -83,4 +83,4 @@ Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jar
 
 **Penting:** Jaring pengaman sosial adalah jalan dua arah. Untuk memiliki jaring yang kuat, kamu juga harus bersedia menjadi bagian dari jaring pengaman orang lain. Saat kamu membantu orang lain, otakmu melepaskan oksitosin yang secara paradoks justru meningkatkan ketahanan mental *kamu* sendiri.
 
-> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak dan kapan harus bersandar pada orang lain.
+> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak and kapan harus bersandar pada orang lain.

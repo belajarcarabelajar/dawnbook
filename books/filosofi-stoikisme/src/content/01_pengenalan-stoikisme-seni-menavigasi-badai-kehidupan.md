@@ -6,11 +6,11 @@ Stoikisme bukanlah sekadar teori akademik yang membosankan di dalam buku-buku tu
 
 ## Apa Itu Stoikisme?
 
-Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat di mana pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja—mulai dari budak hingga kaisar.
+Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Serambi Berhias), tempat di mana pendiri aliran ini, Zeno dari Citium, pertama kali mengajar di Athena pada awal abad ke-3 SM. Berbeda dengan sekolah filsafat lain yang memiliki gedung tertutup, kaum Stoik mengajar di ruang publik yang bisa diakses oleh siapa saja,mulai dari budak hingga kaisar.
 
 **Definisi Inti:** Stoikisme adalah filosofi praktis yang mengajarkan bahwa kebahagiaan sejati tidak bergantung pada keadaan eksternal (kekayaan, ketenaran, atau kesehatan), melainkan pada **kualitas karakter kita** dan cara kita memproses setiap kejadian di dunia ini.
 
-> "Filsafat tidak menjanjikan sesuatu yang bersifat eksternal bagi manusia. Jika tidak, ia akan menerima sesuatu yang berada di luar subjeknya sendiri." — Epictetus
+> "Filsafat tidak menjanjikan sesuatu yang bersifat eksternal bagi manusia. Jika tidak, ia akan menerima sesuatu yang berada di luar subjeknya sendiri." , Epictetus
 
 ## Filsafat sebagai "Way of Life" (Cara Hidup)
 
@@ -18,7 +18,7 @@ Bagi masyarakat modern, filsafat sering dianggap sebagai perdebatan rumit mengen
 
 ### Analogi: Dokter Jiwa
 
-Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan kecewa. Stoikisme berperan sebagai dokter yang memberikan "obat" berupa cara berpikir yang benar. Belajar Stoikisme tanpa mempraktikkannya sama seperti membaca resep dokter tanpa meminum obatnya—tidak akan ada perubahan yang terjadi.
+Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan kecewa. Stoikisme berperan sebagai dokter yang memberikan "obat" berupa cara berpikir yang benar. Belajar Stoikisme tanpa mempraktikkannya sama seperti membaca resep dokter tanpa meminum obatnya,tidak akan ada perubahan yang terjadi.
 
 **Perbedaan Filosofi Teoritis vs. Praktis:**
 

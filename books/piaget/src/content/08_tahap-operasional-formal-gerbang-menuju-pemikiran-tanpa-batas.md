@@ -2,7 +2,7 @@
 
 Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi pemikiran mereka masih terbatas pada objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 
-Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa melihat "galaksi" pemikiran yang lebih jauh—konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
+Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa melihat "galaksi" pemikiran yang lebih jauh,konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
 
 ## 1\. Apa itu Tahap Operasional Formal?
 
@@ -106,4 +106,4 @@ Uniknya, lonjakan kecerdasan ini juga memunculkan egosentrisme jenis baru. Karen
 
 **Latihan Cepat:** Coba pikirkan, *"Apa yang terjadi kalau semua mata uang di dunia tiba-tiba hilang besok pagi?"*
 
-Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial—selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.
+Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial,selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.

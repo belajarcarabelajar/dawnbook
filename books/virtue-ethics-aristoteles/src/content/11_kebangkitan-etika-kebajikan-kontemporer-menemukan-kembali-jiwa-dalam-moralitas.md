@@ -16,7 +16,7 @@ Anscombe berargumen bahwa konsep moral modern seperti "kewajiban" (*duty*) atau 
 
 #### Solusi Anscombe
 
-Anscombe menyarankan agar kita berhenti sejenak dari filsafat moral yang hanya mengabdi pada aturan abstrak. Ia mendorong pergeseran fokus menuju psikologi filosofis—yakni memahami secara mendalam apa itu niat, keinginan, dan tindakan manusia. Lebih jauh, kita diajak kembali merenungkan konsep kebajikan (*virtue*). Ketimbang terus-menerus bertanya "Aturan apa yang harus saya patuhi?", pertanyaan yang lebih relevan adalah "Orang seperti apa saya jika memilih tindakan ini?"
+Anscombe menyarankan agar kita berhenti sejenak dari filsafat moral yang hanya mengabdi pada aturan abstrak. Ia mendorong pergeseran fokus menuju psikologi filosofis, yakni memahami secara mendalam apa itu niat, keinginan, dan tindakan manusia. Lebih jauh, kita diajak kembali merenungkan konsep kebajikan (*virtue*). Ketimbang terus-menerus bertanya "Aturan apa yang harus saya patuhi?", pertanyaan yang lebih relevan adalah "Orang seperti apa saya jika memilih tindakan ini?"
 
 ### 2\. Alasdair MacIntyre: Etika di Tengah Reruntuhan
 
@@ -36,7 +36,7 @@ Selain itu, MacIntyre memandang hidup manusia sebagai sebuah cerita naratif yang
 
 ### 3\. Mengapa Etika Kebajikan Kembali Relevan?
 
-Alasan utama pemikiran kuno ini kembali mendapat tempat adalah kemampuannya menawarkan perspektif yang sering terabaikan oleh teori moral lainnya, terutama menyangkut peran emosi. Jika Deontologi ala Kant menuntut tindakan yang murni berlandaskan kewajiban logis tanpa melibatkan perasaan, etika kebajikan justru memandang emosi yang selaras—seperti rasa belas kasih—sebagai komponen tak terpisahkan dari karakter yang matang.
+Alasan utama pemikiran kuno ini kembali mendapat tempat adalah kemampuannya menawarkan perspektif yang sering terabaikan oleh teori moral lainnya, terutama menyangkut peran emosi. Jika Deontologi ala Kant menuntut tindakan yang murni berlandaskan kewajiban logis tanpa melibatkan perasaan, etika kebajikan justru memandang emosi yang selaras, seperti rasa belas kasih, sebagai komponen tak terpisahkan dari karakter yang matang.
 
 Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui kebuntuan. Etika kebajikan hadir lebih sebagai "kompas" karakter, alih-alih "peta" panduan yang membatasi. Pendekatan ini memungkinkan seseorang memiliki fleksibilitas di berbagai situasi sekaligus menjaga keutuhan dirinya, karena fokus utamanya adalah membentuk individu yang pikiran, emosi, dan tindakannya saling berirama.
 

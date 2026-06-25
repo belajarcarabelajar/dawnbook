@@ -34,7 +34,7 @@ Dampaknya, mereka menjadi enggan mengadopsi perspektif baru. Resistensi ini memi
 
 Menerapkan pembelajaran multidisiplin sering kali memerlukan perubahan besar dalam metodologi pengajaran, desain kurikulum, dan struktur lembaga, yang secara alami memicu resistensi.
 
-Banyak pendidik enggan keluar dari zona nyaman tradisional mereka. Mereka sudah terbiasa dengan materi yang dikuasai dan cara mengajar lama. Beralih ke pendekatan multidisiplin memaksa mereka mempelajari hal-hal baru di luar keahliannya, berkolaborasi erat dengan rekan dari departemen lain, serta menerapkan metode pembelajaran yang berbeda—semua itu membutuhkan waktu dan energi yang tidak sedikit.
+Banyak pendidik enggan keluar dari zona nyaman tradisional mereka. Mereka sudah terbiasa dengan materi yang dikuasai dan cara mengajar lama. Beralih ke pendekatan multidisiplin memaksa mereka mempelajari hal-hal baru di luar keahliannya, berkolaborasi erat dengan rekan dari departemen lain, serta menerapkan metode pembelajaran yang berbeda, semua itu membutuhkan waktu dan energi yang tidak sedikit.
 
 Keadaan ini diperparah oleh:
 - **Kurangnya pelatihan dan dukungan:** Tanpa adanya bimbingan praktis mengenai cara mengajar lintas disiplin atau dukungan kebijakan yang jelas dari kampus, para pendidik akan merasa kebingungan dan tidak siap.

@@ -6,7 +6,7 @@ Mindset sebenarnya adalah **arsitek fisik** bagi otak kamu. Keyakinan kamu tenta
 
 ### 1\. Neurobiologi Pemrosesan Kesalahan: Sinyal ERN dan Pe
 
-Ketika kamu membuat kesalahan—misalnya salah menjawab soal matematika atau salah menekan tombol saat belajar alat musik—otak kamu menghasilkan dua sinyal listrik utama yang dapat diukur melalui EEG (*Electroencephalogram*).
+Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau salah menekan tombol saat belajar alat musik, otak kamu menghasilkan dua sinyal listrik utama yang dapat diukur melalui EEG (*Electroencephalogram*).
 
 - **ERN (Error-Related Negativity):** Ini adalah respons "Ups!" otomatis. Sinyal ini muncul hanya dalam hitungan milidetik setelah kesalahan terjadi. Ini adalah alarm bawah sadar yang mendeteksi konflik antara apa yang kamu harapkan dan apa yang sebenarnya terjadi.
 - **Pe (Error Positivity):** Ini adalah sinyal kesadaran. Sinyal ini mencerminkan perhatian yang diarahkan pada kesalahan dan upaya otak untuk memproses apa yang salah agar tidak terulang kembali.

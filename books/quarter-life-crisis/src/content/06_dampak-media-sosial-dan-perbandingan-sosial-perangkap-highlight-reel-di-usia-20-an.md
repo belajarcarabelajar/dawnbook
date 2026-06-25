@@ -29,15 +29,15 @@ Dalam konteks *Quarter-Life Crisis*, FOMO berwujud sebagai **Existential FOMO**,
 
 **Logika FOMO dalam Angka:** Pendekatan matematis sederhana untuk melihat Perceptual Happiness:
 
-\\[
+\[
 \text{Perceptual Happiness} = \frac{\text{Realitas Diri}}{\text{Ekspektasi (Hasil Observasi Orang Lain)}}
-\\]
+\]
 
 Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang lain, semakin rendah rasa bahagia yang kita rasakan terhadap realitas kita sendiri, meskipun realitas kita sebenarnya cukup baik.
 
 ### 3\. Digital Curation dan Reality Distortion
 
-Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias* —kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
+Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara selektif memilih momen terbaik untuk ditampilkan. Hal ini menciptakan distorsi yang disebut sebagai *Availability Bias*, kecenderungan otak kita untuk menganggap informasi yang paling mudah diingat (foto liburan mewah, berita sukses) sebagai gambaran umum dari realitas.
 
 - **Validation Algorithm:** Kita mengejar *likes* dan *comments* sebagai indikator kesuksesan sosial. Saat angka tersebut rendah, kita merasa nilai diri kita juga rendah.
 - **Filter dan Edit:** Penggunaan filter tidak hanya pada wajah, tapi pada narasi hidup. Kegagalan jarang sekali "diposting", sehingga dunia digital tampak seperti kompetisi tanpa henti untuk menjadi sempurna.
@@ -80,6 +80,6 @@ Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cerm
 
 **Penting:**
 
-> Self-worth-mu (\\(\text{Self-Worth}\\)) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
+> Self-worth-mu (\(\text{Self-Worth}\)) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
 
 *Langkah selanjutnya dalam perjalanan ini adalah memahami bagaimana tekanan sosial ini sering kali berkaitan erat dengan ketidakpastian finansial, yang akan kita bahas di bagian berikutnya.*

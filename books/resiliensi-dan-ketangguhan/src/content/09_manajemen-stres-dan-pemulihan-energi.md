@@ -10,7 +10,7 @@ Stres seringkali dianggap sebagai musuh, padahal secara biologis, stres adalah m
 
 Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus tanpa henti, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
 
-> **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres dan mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
+> **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres and mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
 
 *Kapan terakhir kali kamu merasa stres namun justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
 
@@ -27,7 +27,7 @@ Digunakan oleh atlet elit dan pasukan khusus untuk tetap tenang di bawah tekanan
 3. **Exhale**: Buang napas perlahan melalui mulut selama 4 detik.
 4. **Hold**: Tahan napas dalam keadaan kosong selama 4 detik.
 
-Secara matematis, kita bisa melihat pola ini sebagai: \\( \\text{Pola} = 4 \\rightarrow 4 \\rightarrow 4 \\rightarrow 4 \\)
+Secara matematis, kita bisa melihat pola ini sebagai: \( \text{Pola} = 4 \rightarrow 4 \rightarrow 4 \rightarrow 4 \)
 
 #### B. Teknik Grounding 5-4-3-2-1
 
@@ -47,7 +47,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi yan
 - **Istirahat Sensorik:** Mematikan semua layar (HP, Laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralisir rangsangan berlebih.
 - **Istirahat Emosional:** Memiliki ruang di mana kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
 
-**Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus \\( 10-3-2-1-0 \\) untuk higiene tidur yang optimal:
+**Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus \( 10-3-2-1-0 \) untuk higiene tidur yang optimal:
 
 - **10 jam sebelum tidur:** Tidak ada kafein.
 - **3 jam sebelum tidur:** Tidak ada makanan berat atau alkohol.
@@ -59,7 +59,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi yan
 
 Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulness adalah **kesadaran penuh tanpa penghakiman.**
 
-**Latihan Micro-Mindfulness:** Cobalah untuk melakukan satu aktivitas rutin—seperti mencuci piring atau berjalan menuju parkiran—dengan kesadaran penuh. Rasakan tekstur air, suhu udara, dan sensasi kaki menyentuh tanah. Ini melatih otot otak untuk kembali ke kendali diri saat stres melanda.
+**Latihan Micro-Mindfulness:** Cobalah untuk melakukan satu aktivitas rutin, seperti mencuci piring atau berjalan menuju parkiran, dengan kesadaran penuh. Rasakan tekstur air, suhu udara, dan sensasi kaki menyentuh tanah. Ini melatih otot otak untuk kembali ke kendali diri saat stres melanda.
 
 ### 5. Real-World Application: Skenario Manajemen Energi
 
@@ -98,6 +98,6 @@ while day_is_active:
 2. **Kendalikan Napas, Kendalikan Pikiran:** Saat jantung mulai berdebar kencang karena stres, gunakan teknik pernapasan untuk mengirim sinyal "aman" ke otak.
 3. **Audit Energi:** Identifikasi aktivitas apa yang menyedot energimu secara berlebihan dan aktivitas apa yang mengisi energimu (seperti hobi, olahraga ringan, atau berbincang dengan teman).
 
-> "Bukan beban yang membuatmu hancur, melainkan cara kamu membawanya." — Lou Holtz
+> "Bukan beban yang membuatmu hancur, melainkan cara kamu membawanya." - Lou Holtz
 
 *Coba lakukan satu teknik pernapasan kotak sekarang juga. Rasakan bagaimana detak jantungmu sedikit melambat dan pikiranmu menjadi lebih jernih.*

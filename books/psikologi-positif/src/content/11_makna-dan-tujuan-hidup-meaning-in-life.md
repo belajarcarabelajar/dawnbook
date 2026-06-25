@@ -1,6 +1,6 @@
 ## Makna dan Tujuan Hidup (Meaning in Life)
 
-Pernahkah kamu merasa memiliki segalanya—pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup—namun tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
+Pernahkah kamu merasa memiliki segalanya (pekerjaan yang mapan, tubuh yang sehat, dan hiburan yang cukup) namun tetap merasa ada kehampaan di dalam diri? Perasaan ini sering kali muncul karena kita telah membangun kehidupan yang **bahagia**, tetapi belum tentu kehidupan yang **bermakna**.
 
 Dalam bab ini, kita akan menjelajahi salah satu pilar terdalam dalam psikologi positif: bagaimana manusia mencari, menemukan, dan memelihara makna dalam hidup, serta mengapa hal ini jauh lebih mendasar bagi kesejahteraan jangka panjang dibandingkan kesenangan sesaat.
 
@@ -10,7 +10,7 @@ Banyak orang menggunakan kata "bahagia" dan "bermakna" secara bergantian, namun 
 
 #### Kehidupan yang Bahagia (The Happy Life)
 
-Kebahagiaan sering kali berkaitan dengan **hedonic well-being** (kesejahteraan hedonis) — yaitu tentang merasa nyaman, mendapatkan apa yang diinginkan, serta pemenuhan kebutuhan atau keinginan.
+Kebahagiaan sering kali berkaitan dengan **hedonic well-being** (kesejahteraan hedonis), yaitu tentang merasa nyaman, mendapatkan apa yang diinginkan, serta pemenuhan kebutuhan atau keinginan.
 
 - **Fokus pada diri sendiri:** Apa yang bisa saya dapatkan dari dunia?
 - **Orientasi waktu:** Berfokus pada saat ini (*present-oriented*).
@@ -18,7 +18,7 @@ Kebahagiaan sering kali berkaitan dengan **hedonic well-being** (kesejahteraan h
 
 #### Kehidupan yang Bermakna (The Meaningful Life)
 
-Sementara itu, makna hidup berkaitan erat dengan **eudaimonic well-being** (kesejahteraan eudaimonis) — yaitu tentang memberi, berkontribusi, dan memiliki tujuan yang melampaui kepentingan pribadi.
+Sementara itu, makna hidup berkaitan erat dengan **eudaimonic well-being** (kesejahteraan eudaimonis), yaitu tentang memberi, berkontribusi, dan memiliki tujuan yang melampaui kepentingan pribadi.
 
 - **Fokus pada orang lain:** Kontribusi apa yang bisa saya berikan kepada lingkungan sekitar?
 - **Orientasi waktu:** Menghubungkan pengalaman masa lalu, masa kini, serta harapan masa depan.

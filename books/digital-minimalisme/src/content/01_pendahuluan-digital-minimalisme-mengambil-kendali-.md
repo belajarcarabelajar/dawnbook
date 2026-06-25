@@ -8,7 +8,7 @@ Selamat datang di era **Ekonomi Perhatian**. Di sini, setiap detik fokus kamu ad
 
 Digital minimalisme berpusat pada penggunaan teknologi yang difokuskan pada segelintir aktivitas online yang dipilih secara hati-hati. Aktivitas ini dioptimalkan untuk mendukung nilai-nilai inti kamu, sementara hal-hal lain diabaikan dengan senang hati.
 
-> **Definisi Kunci:** "Digital Minimalisme memastikan teknologi yang kamu gunakan bekerja untukmu, dan mencegah hal yang sebaliknya." — Terinspirasi dari Cal Newport.
+> **Definisi Kunci:** "Digital Minimalisme memastikan teknologi yang kamu gunakan bekerja untukmu, dan mencegah hal yang sebaliknya." - Terinspirasi dari Cal Newport.
 
 ### Analogi Ruang Tamu
 
@@ -30,7 +30,7 @@ Mengevaluasi penggunaan teknologi sudah menjadi kewajiban untuk menjaga kesehata
 
 Kemampuan otak untuk melakukan *Deep Work* semakin luntur akibat paparan terus-menerus pada informasi singkat. Manusia juga rentan mengalami *Digital Burnout*, karena otak kita tidak dirancang untuk menerima ribuan stimulasi global dalam satu waktu. Hal ini sering kali memicu stres kronis dan kecemasan. 
 
-Fenomena *phubbing*—mengabaikan orang di depan demi layar—turut merusak ikatan emosional di dunia nyata. Selain itu, ada kerugian waktu yang besar. Setiap jam menonton video viral berarti kehilangan waktu untuk berolahraga, menikmati hobi, atau mengembangkan karier.
+Fenomena *phubbing* (mengabaikan orang di depan demi layar) turut merusak ikatan emosional di dunia nyata. Selain itu, ada kerugian waktu yang besar. Setiap jam menonton video viral berarti kehilangan waktu untuk berolahraga, menikmati hobi, atau mengembangkan karier.
 
 *Think about this: Menghabiskan 3 jam sehari di media sosial berarti membuang 45 hari penuh dalam setahun. Apakah konten yang kamu lihat sepadan dengan hilangnya 1,5 bulan hidupmu?*
 

@@ -28,7 +28,7 @@ Seringkali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat men
 
 Bagian otak yang bertanggung jawab atas perencanaan masa depan, pengendalian impuls, dan pengambilan keputusan logis disebut **Prefrontal Cortex (PFC)**.
 
-Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih dalam tahap "orientasi". Sementara itu, **Amygdala**—pusat emosi dan respon fight-or-flight—sudah bekerja dengan kekuatan penuh.
+Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih dalam tahap "orientasi". Sementara itu, **Amygdala**, pusat emosi dan respon fight-or-flight, sudah bekerja dengan kekuatan penuh.
 
 **Analogi "Situs Konstruksi":**
 

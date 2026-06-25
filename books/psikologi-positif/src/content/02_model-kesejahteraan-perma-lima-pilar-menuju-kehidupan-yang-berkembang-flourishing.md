@@ -8,7 +8,7 @@ Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini
 
 Dahulu, Seligman menganggap kebahagiaan adalah tujuan utama manusia. Namun, ia menyadari bahwa kata "bahagia" terlalu identik dengan suasana hati yang ceria semata. Kenyataannya, seseorang bisa tetap memiliki tingkat kesejahteraan yang tinggi meskipun sedang tidak tertawa atau tersenyum.
 
-Model PERMA dirancang untuk membantu manusia mencapai kondisi **Flourishing**—sebuah keadaan di mana kita merasa hidup ini bermakna, memiliki fungsi psikologis yang sehat, dan merasa terhubung erat dengan dunia di sekitar kita.
+Model PERMA dirancang untuk membantu manusia mencapai kondisi **Flourishing**, sebuah keadaan di mana kita merasa hidup ini bermakna, memiliki fungsi psikologis yang sehat, dan merasa terhubung erat dengan dunia di sekitar kita.
 
 > **Insight Penting:** Setiap elemen dalam PERMA harus memenuhi tiga kriteria:
 > 
@@ -30,7 +30,7 @@ Sebagai analogi, bayangkan emosi positif seperti pupuk bagi tanaman. Tanaman mem
 
 **"Hanyut sepenuhnya dalam aktivitas yang bermakna."**
 
-Pernahkah kamu mengerjakan sesuatu—seperti menulis, merancang karya, atau berdiskusi mendalam—dan tiba-tiba menyadari bahwa waktu telah berlalu berjam-jam? Inilah yang disebut **Engagement**, sebuah kondisi yang sering digambarkan sebagai **Flow**.
+Pernahkah kamu mengerjakan sesuatu (seperti menulis, merancang karya, atau berdiskusi mendalam) dan tiba-tiba menyadari bahwa waktu telah berlalu berjam-jam? Inilah yang disebut **Engagement**, sebuah kondisi yang sering digambarkan sebagai **Flow**.
 
 Saat berada dalam kondisi ini, kesadaran diri seolah melebur karena perhatian kita terserap sepenuhnya oleh tugas yang menantang namun tetap seimbang dengan keahlian kita.
 
@@ -62,9 +62,9 @@ Makna memiliki dimensi yang berbeda dengan kebahagiaan sesaat. Sebagai contoh, m
 
 **"Pengejaran keberhasilan dan penguasaan (Mastery)."**
 
-Elemen terakhir adalah pencapaian atau prestasi. Manusia membutuhkan rasa kompetensi—perasaan bahwa "saya mampu melakukannya."
+Elemen terakhir adalah pencapaian atau prestasi. Manusia membutuhkan rasa kompetensi, perasaan bahwa "saya mampu melakukannya."
 
-Pencapaian dalam konteks ini didorong oleh *intrinsic motivation* (motivasi intrinsik)—pengejaran target demi kepuasan menguasai suatu bidang (*mastery*), bukan semata-mata demi mengejar status sosial atau materi.
+Pencapaian dalam konteks ini didorong oleh *intrinsic motivation* (motivasi intrinsik), pengejaran target demi kepuasan menguasai suatu bidang (*mastery*), bukan semata-mata demi mengejar status sosial atau materi.
 
 Seligman menekankan bahwa dalam meraih hal-hal berharga, konsistensi usaha memiliki peran yang jauh lebih besar dibandingkan bakat bawaan sejak lahir.
 

@@ -35,7 +35,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 1. **Membuat Hipotesis dan Rancangan Eksperimen:**
 	- Sebelum mulai praktik, tanyakan hal ini: "Faktor apa saja yang memengaruhi eksperimen ini?" dan "Bagaimana cara saya mengukurnya?".
 		- Buat daftar langkah kerjanya dan bayangkan seperti apa hasil akhirnya nanti.
-		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang dan gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
+		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang and gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
 2. **Menganalisis dan Membaca Data:**
 	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
@@ -82,6 +82,6 @@ Waktu belajar bahasa baru atau membaca teks panjang, metakognisi membuatmu lebih
 3. **Memperkaya Kosakata:**
 	- Kalau ketemu istilah asing, coba tes dirimu: "Aku tahu nggak ya padanan katanya yang gampang dipahami?"
 		- Nilai lagi caramu belajar: "Apakah pakai catatan kecil ngebantu banget?" atau "Mending aku langsung obrolin kata ini ke orang lain biar nyantol?".
-		- **Contoh nyata:** Waktu mau mengingat kata bahasa Inggris "ubiquitous", kamu coba cari artinya dulu di kamus. Setelah itu, kamu pakai kata tersebut di beberapa obrolan sama teman. Kalau ternyata besoknya masih lupa, kamu bakal ganti taktik—misalnya dengan mengasosiasikannya dengan kata-kata lucu.
+		- **Contoh nyata:** Waktu mau mengingat kata bahasa Inggris "ubiquitous", kamu coba cari artinya dulu di kamus. Setelah itu, kamu pakai kata tersebut di beberapa obrolan sama teman. Kalau ternyata besoknya masih lupa, kamu bakal ganti taktik, misalnya dengan mengasosiasikannya dengan kata-kata lucu.
 
 > Metakognisi pada dasarnya bikin kamu jadi "detektif" untuk proses belajarmu sendiri. Kamu bisa melacak letak kesalahan, mengatur strategi ulang, dan menemukan jalan termudah buat memahami suatu topik yang rumit.

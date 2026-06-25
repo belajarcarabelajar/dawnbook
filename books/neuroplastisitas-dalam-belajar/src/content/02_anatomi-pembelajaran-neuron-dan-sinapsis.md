@@ -15,7 +15,7 @@ Untuk memahami bagaimana informasi mengalir, kita perlu membedah bagian-bagian u
 1. **Dendrit (Penerima):** Berbentuk seperti cabang pohon yang menjulur keluar dari badan sel. Fungsinya adalah menerima sinyal dari neuron lain. Semakin banyak kamu belajar, cabang-cabang ini bisa tumbuh lebih rimbun.
 2. **Soma (Badan Sel):** "Dapur" dari neuron. Di sinilah nutrisi diolah dan keputusan diambil. Jika sinyal yang diterima dari dendrit cukup kuat, soma akan memutuskan untuk meneruskan pesan tersebut.
 3. **Akson (Pengirim):** Sebuah kabel panjang yang berfungsi menghantarkan sinyal listrik keluar dari badan sel menuju neuron berikutnya.
-4. **Selubung Mielin (Isolator):** Lapisan lemak yang membungkus akson. Fungsinya mirip dengan isolasi kabel listrik—mempercepat transmisi sinyal dan mencegah kebocoran informasi.
+4. **Selubung Mielin (Isolator):** Lapisan lemak yang membungkus akson. Fungsinya mirip dengan isolasi kabel listrik, yaitu mempercepat transmisi sinyal dan mencegah kebocoran informasi.
 5. **Terminal Akson (Ujung Pengirim):** Bagian akhir dari akson yang akan berhadapan dengan dendrit neuron tetangga.
 
 > **Analogi Kurir Kilat:** Bayangkan neuron adalah sebuah kantor pos. **Dendrit** adalah kotak surat yang menerima pesan. **Soma** adalah manajer yang menyortir pesan. **Akson** adalah jalan tol, dan **Mielin** adalah aspal mulus yang memungkinkan mobil kurir melaju kencang tanpa hambatan.

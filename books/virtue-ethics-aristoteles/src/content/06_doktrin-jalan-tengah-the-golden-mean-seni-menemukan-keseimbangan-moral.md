@@ -1,6 +1,6 @@
 ## Doktrin Jalan Tengah (The Golden Mean): Seni Menemukan Keseimbangan Moral
 
-Bayangkan kamu sedang menyetem sebuah gitar. Jika senarnya terlalu kendur, gitar tersebut tidak akan menghasilkan nada yang jelas. Sebaliknya, jika kamu memutarnya terlalu kencang, senar itu akan putus. Keindahan musik hanya tercipta ketika senar berada pada tegangan yang **tepat**—tidak kurang, tidak lebih.
+Bayangkan kamu sedang menyetem sebuah gitar. Jika senarnya terlalu kendur, gitar tersebut tidak akan menghasilkan nada yang jelas. Sebaliknya, jika kamu memutarnya terlalu kencang, senar itu akan putus. Keindahan musik hanya tercipta ketika senar berada pada tegangan yang **tepat**, tidak kurang, tidak lebih.
 
 Dalam Etika Kebajikan, Aristoteles mengajarkan bahwa karakter manusia bekerja dengan cara yang serupa. Inilah yang disebut dengan **Doktrin Jalan Tengah** (*The Golden Mean*).
 
@@ -10,14 +10,14 @@ Doktrin Jalan Tengah adalah prinsip filsafat yang menyatakan bahwa kebajikan (*v
 
 Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal menjaga keseimbangan ini. Seseorang bisa gagal karena ia melakukan "terlalu sedikit" dari sesuatu yang baik, atau justru melakukan "terlalu banyak".
 
-> "Kebajikan adalah keadaan karakter yang berkaitan dengan pilihan, yang terletak pada jalan tengah, yaitu jalan tengah yang relatif terhadap kita, yang ditentukan oleh prinsip rasional." — **Aristoteles**
+> "Kebajikan adalah keadaan karakter yang berkaitan dengan pilihan, yang terletak pada jalan tengah, yaitu jalan tengah yang relatif terhadap kita, yang ditentukan oleh prinsip rasional." - **Aristoteles**
 
 ## 2\. Anatomi Jalan Tengah: Tiga Titik Moral
 
 Untuk memahami konsep ini, kita bisa melihat setiap sifat karakter sebagai sebuah spektrum. Berbagai kebajikan utama bisa kita letakkan dalam spektrum ini untuk melihat posisi idealnya:
 
 ### Keberanian (Courage)
-Sifat penakut (*cowardice*) adalah sebuah kekurangan, di mana orang lari dari setiap tantangan dan dikuasai oleh rasa takut. Di ujung lainnya adalah nekat (*recklessness*), yaitu melempar diri ke bahaya tanpa alasan logis. Di antara keduanya terdapat keberanian—tindakan menghadapi bahaya demi tujuan yang benar dengan perhitungan yang tepat.
+Sifat penakut (*cowardice*) adalah sebuah kekurangan, di mana orang lari dari setiap tantangan dan dikuasai oleh rasa takut. Di ujung lainnya adalah nekat (*recklessness*), yaitu melempar diri ke bahaya tanpa alasan logis. Di antara keduanya terdapat keberanian, tindakan menghadapi bahaya demi tujuan yang benar dengan perhitungan yang tepat.
 
 ### Kedermawanan (Generosity)
 Seseorang yang kikir atau pelit (*stinginess*) tidak mau berbagi meskipun memiliki kemampuan. Sebaliknya, orang yang boros (*prodigality*) memberi secara membabi buta hingga merugikan diri sendiri atau demi kesombongan. Jalan tengahnya adalah menjadi dermawan: memberi kepada orang yang tepat, dalam jumlah yang sesuai, dan pada waktu yang pas.

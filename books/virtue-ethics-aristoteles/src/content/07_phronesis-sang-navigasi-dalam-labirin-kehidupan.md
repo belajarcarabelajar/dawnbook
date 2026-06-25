@@ -41,13 +41,13 @@ Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti
 
 Keseimbangan moral sangat dinamis dan berubah-ubah sesuai konteks. Di sinilah *Phronesis* berfungsi sebagai alat navigasi. 
 
-Ambil contoh keberanian. Di medan perang, keberanian berarti maju menghadapi musuh secara fisik. Tapi di lingkungan kantor, keberanian bisa berwujud keputusan seorang saksi mata yang melaporkan kasus korupsi. *Phronesis* memandu kamu membaca situasi—kapan harus mengambil langkah berani yang frontal dan kapan strategi lain lebih aman sekaligus efektif.
+Ambil contoh keberanian. Di medan perang, keberanian berarti maju menghadapi musuh secara fisik. Tapi di lingkungan kantor, keberanian bisa berwujud keputusan seorang saksi mata yang melaporkan kasus korupsi. *Phronesis* memandu kamu membaca situasi, kapan harus mengambil langkah berani yang frontal dan kapan strategi lain lebih aman sekaligus efektif.
 
 Hal yang sama berlaku pada kejujuran. *Phronesis* membantu kamu menyortir bagaimana dan kapan sebuah kebenaran harus disampaikan. Tujuannya adalah memastikan kebaikan benar-benar terwujud, alih-alih sekadar melempar fakta yang justru merusak keadaan tanpa membawa perbaikan nyata.
 
 ## 4\. Cara Kerja Phronesis dalam Pengambilan Keputusan
 
-Mengambil keputusan menggunakan *Phronesis* melibatkan serangkaian langkah yang terus berulang bagai siklus. Tahap pertama dimulai dari **persepsi**—kemampuan melihat suatu situasi setajam mungkin tanpa terdistorsi oleh bias pribadi.
+Mengambil keputusan menggunakan *Phronesis* melibatkan serangkaian langkah yang terus berulang bagai siklus. Tahap pertama dimulai dari **persepsi** (kemampuan melihat suatu situasi setajam mungkin tanpa terdistorsi oleh bias pribadi).
 
 Setelah realitasnya terbaca, kita masuk ke tahap **integrasi keutamaan**. Di sini kita memanggil nilai-nilai moral relevan yang sudah kita miliki, entah itu keadilan, kasih sayang, atau integritas. Nilai-nilai ini kemudian dibenturkan dengan **analisis konteks**. Kita mulai menelusuri detail spesifik: tindakan apa yang paling pas untuk orang tertentu ini, di detik ini juga, dan dengan alasan yang mendasarinya.
 

@@ -11,7 +11,7 @@ Di sinilah pentingnya standarisasi alat ukur. Langkah ini bertujuan menciptakan 
 Dalam menyusun matriks keputusan, standarisasi skala berfungsi sebagai penyeimbang agar data yang disajikan tidak bias. Standarisasi ini memastikan beberapa hal berikut:
 
 - **Objektivitas Penilaian:** Mengurangi subjektivitas dengan memberikan definisi konkret untuk setiap tingkatan angka pada skala.
-- **Komparabilitas Data:** Membantu menyandingkan variabel yang berbeda sifat—seperti harga dalam rupiah dan kualitas layanan yang bersifat opini—sehingga semuanya dapat dikonversi ke dalam satuan nilai yang setara untuk dijumlahkan.
+- **Komparabilitas Data:** Membantu menyandingkan variabel yang berbeda sifat, seperti harga dalam rupiah dan kualitas layanan yang bersifat opini, sehingga semuanya dapat dikonversi ke dalam satuan nilai yang setara untuk dijumlahkan.
 - **Konsistensi Nilai:** Menjamin kesetaraan makna angka. Sebagai contoh, skor "5" pada aspek kecepatan harus merepresentasikan tingkat keunggulan yang setara dengan skor "5" pada aspek kemudahan penggunaan.
 
 ### 2. Memilih Rentang Skala yang Tepat

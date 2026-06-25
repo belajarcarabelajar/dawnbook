@@ -2,7 +2,7 @@
 
 Bayangkan kamu sedang berjalan di koridor kantor yang gelap. Kamu tidak bisa melihat ekspresi wajah rekan kerja, tidak bisa mendengar nada suara mereka, dan hanya bisa mengandalkan secarik memo yang mereka selipkan di bawah pintu. Inilah analogi tantangan utama dalam **komunikasi digital**.
 
-Ketika interaksi fisik ditiadakan, sekitar 70% hingga 90% petunjuk komunikasi non-verbal—seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara—ikut menguap. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
+Ketika interaksi fisik ditiadakan, sekitar 70% hingga 90% petunjuk komunikasi non-verbal (seperti kerutan dahi, senyuman tipis, bahasa tubuh, hingga intonasi suara) ikut menguap. Di sinilah pentingnya memiliki **Kecerdasan Interpersonal Digital**. Ini adalah kemampuan untuk membangun koneksi, rasa percaya, dan pemahaman yang jernih meskipun dibatasi oleh layar perangkat digital.
 
 ## 1. Memahami Digital Body Language
 
@@ -77,7 +77,7 @@ Membaca pesan tersebut, Andi langsung merasa tersinggung. Di benaknya, komentar 
 
 ## 5. Implementasi bagi T-Shaped Professional
 
-Sebagai seorang *T-Shaped Professional*—yang memadukan keahlian spesifik yang mendalam dengan pemahaman kolaboratif yang luas—kamu dituntut untuk menjadi komunikator yang andal lintas platform digital.
+Sebagai seorang *T-Shaped Professional*, yang memadukan keahlian spesifik yang mendalam dengan pemahaman kolaboratif yang luas, kamu dituntut untuk menjadi komunikator yang andal lintas platform digital.
 
 ### Panduan Kolaborasi Teknis
 *   **Melakukan Code Review dengan Empati.** Sampaikan umpan balik dalam bentuk pertanyaan reflektif daripada perintah langsung. Bandingkan kalimat ini: *"Apakah ada kendala jika kita menggunakan fungsi X di bagian ini agar kinerjanya lebih optimal?"* terasa jauh lebih suportif dibanding *"Ganti baris ini dengan fungsi X."*

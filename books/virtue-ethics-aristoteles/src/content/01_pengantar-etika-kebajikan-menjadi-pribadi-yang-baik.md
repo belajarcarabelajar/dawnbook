@@ -14,7 +14,7 @@ Etika Kebajikan adalah salah satu dari tiga pendekatan besar dalam etika normati
 
 Dalam pandangan ini, menjadi orang baik tidak cuma diukur dari seberapa patuh kamu pada hukum. Menjadi baik bermakna memiliki **disposisi batin** (kecenderungan) untuk melakukan hal yang benar, pada waktu yang tepat, dengan cara yang tepat, serta dengan motivasi yang jujur.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Keunggulan itu wujud kebiasaan, bukan satu tindakan acak." — *Aristoteles*
+> "Kita adalah apa yang kita kerjakan berulang kali. Keunggulan itu wujud kebiasaan, bukan satu tindakan acak." , *Aristoteles*
 
 ### Karakter vs. Aturan: Mengapa Karakter Lebih Utama?
 
@@ -62,10 +62,10 @@ Di era modern yang serba terburu-buru, Etika Kebajikan hadir sebagai pelabuhan b
 
 Secara matematis, etika ini mengikuti fungsi pertumbuhan sederhana:
 
-\\[
+\[
 \begin{aligned}
 \text{Karakter} + \text{Latihan (Habituasi)} \rightarrow \text{Eudaimonia (Kebahagiaan Sejati)}
 \end{aligned}
-\\]
+\]
 
-Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang tiada henti, karakter perlahan menguat sampai ke tahap Eudaimonia—kondisi puncak tatkala manusia merealisasikan seluruh potensi terbaiknya.
+Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang tiada henti, karakter perlahan menguat sampai ke tahap Eudaimonia,kondisi puncak tatkala manusia merealisasikan seluruh potensi terbaiknya.

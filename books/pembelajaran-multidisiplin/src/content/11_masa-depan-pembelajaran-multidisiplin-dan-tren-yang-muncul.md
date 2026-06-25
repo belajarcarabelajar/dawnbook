@@ -68,7 +68,7 @@ Tantangan global seperti perubahan iklim, ketimpangan sosial, dan krisis kesehat
 
 #### 4.1 Pendekatan Holistik terhadap Masalah Kompleks
 
-Pendekatan multidisiplin melatih kita melihat masalah sosial dari berbagai sudut pandang—mulai dari ekonomi, sejarah, hingga lingkungan—bukan dari satu kacamata saja. Cara pandang yang kaya ini memicu siswa untuk berpikir lebih kritis terhadap isu-isu di sekitar mereka.
+Pendekatan multidisiplin melatih kita melihat masalah sosial dari berbagai sudut pandang, mulai dari ekonomi, sejarah, hingga lingkungan, bukan dari satu kacamata saja. Cara pandang yang kaya ini memicu siswa untuk berpikir lebih kritis terhadap isu-isu di sekitar mereka.
 
 #### 4.2 Mendorong Inovasi dan Solusi Kreatif
 

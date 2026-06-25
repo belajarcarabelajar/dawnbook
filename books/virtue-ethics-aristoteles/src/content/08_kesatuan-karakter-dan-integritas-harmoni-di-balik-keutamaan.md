@@ -23,7 +23,7 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 
 ## 2. Integritas: "Zat Perekat" Karakter
 
-Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita—pikiran, perkataan, dan tindakan—selaras dengan nilai-nilai moral yang kita anut.
+Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita,pikiran, perkataan, dan tindakan,selaras dengan nilai-nilai moral yang kita anut.
 
 Integritas adalah kondisi di mana semua kebajikan kita terintegrasi secara kokoh.
 

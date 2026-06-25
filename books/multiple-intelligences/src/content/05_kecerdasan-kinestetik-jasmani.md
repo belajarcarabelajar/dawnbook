@@ -52,7 +52,7 @@ Meningkatkan kecerdasan fisik bisa dilakukan lewat latihan pembongkaran pola ger
 
 Mulai dari observasi sederhana, misalnya saat kamu memperhatikan cara tuangan susu seorang barista saat membuat pola *latte art*. Setelah itu, cobalah memvisualisasikan bagaimana otot-otot lengan dan pergelangan tangan kamu bergerak mengikuti lintasan tuangan tersebut. 
 
-Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat—sekitar 10% dari kecepatan normal—sambil memastikan transisi sendi terasa mulus. Kecepatan ini bisa dinaikkan sedikit demi sedikit seiring terbangunnya memori otot di tangan kamu.
+Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat (sekitar 10% dari kecepatan normal) sambil memastikan transisi sendi terasa mulus. Kecepatan ini bisa dinaikkan sedikit demi sedikit seiring terbangunnya memori otot di tangan kamu.
 
 Sering kali kita tidak sadar bahwa *muscle memory* ini sangat dominan dalam keseharian. Misalnya saat mengetik PIN ATM, banyak orang lebih mengingat pola pergerakan jemari di atas tombol *keypad* dibanding deretan angka kombinasinya itu sendiri.
 

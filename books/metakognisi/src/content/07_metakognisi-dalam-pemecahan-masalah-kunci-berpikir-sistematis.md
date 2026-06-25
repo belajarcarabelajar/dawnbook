@@ -4,7 +4,7 @@ Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai
 
 Saat menghadapi suatu masalah, metakognisi membuat kita bisa mencari solusi sekaligus merencanakan, memantau, dan mengevaluasi seluruh proses berpikir. Proses ini membuat kita tidak asal bertindak, tapi benar-benar mengerti apa dan kenapa kita melakukan suatu tindakan.
 
-> "Cara memecahkan masalah yang paling jitu dimulai jauh sebelum kita menemukan jawabannya—dimulai dari bagaimana kita melihat masalah tersebut."
+> "Cara memecahkan masalah yang paling jitu dimulai jauh sebelum kita menemukan jawabannya, dimulai dari bagaimana kita melihat masalah tersebut."
 
 ## 1\. Perencanaan Strategi Pemecahan Masalah
 

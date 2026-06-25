@@ -73,7 +73,7 @@ Untuk mendukung integrasi ilmu, metode pengajaran harus memfasilitasi kerja sama
 - **Pembelajaran Berbasis Proyek (PBP):** Peserta didik mengerjakan proyek kompleks yang membutuhkan sintesis pengetahuan dan keterampilan dari berbagai bidang. Pendekatan ini merupakan salah satu cara paling efektif dalam membangun kemampuan integrasi.
 - **Pembelajaran Berbasis Masalah (PBM):** Mahasiswa dihadapkan pada masalah nyata tanpa solusi tunggal, sehingga mereka terdorong menggunakan sudut pandang lintas disiplin.
 
-Di samping itu, pengajar dapat memanfaatkan **Studi Kasus** untuk menganalisis bagaimana berbagai disiplin berinteraksi dalam situasi riil. **Seminar Kolaboratif** juga bermanfaat sebagai ruang diskusi bagi mahasiswa untuk membandingkan berbagai perspektif dengan panduan dari para ahli dari berbagai bidang. Terakhir, metode **Co-Teaching atau Team Teaching**—di mana dua atau lebih pengajar dari latar belakang berbeda berkolaborasi di kelas—bisa secara langsung mencontohkan bagaimana integrasi ilmu dipraktikkan.
+Di samping itu, pengajar dapat memanfaatkan **Studi Kasus** untuk menganalisis bagaimana berbagai disiplin berinteraksi dalam situasi riil. **Seminar Kolaboratif** juga bermanfaat sebagai ruang diskusi bagi mahasiswa untuk membandingkan berbagai perspektif dengan panduan dari para ahli dari berbagai bidang. Terakhir, metode **Co-Teaching atau Team Teaching**, di mana dua atau lebih pengajar dari latar belakang berbeda berkolaborasi di kelas, bisa secara langsung mencontohkan bagaimana integrasi ilmu dipraktikkan.
 
 ##### 2.4.2. Metode Penilaian yang Mendukung Integrasi
 

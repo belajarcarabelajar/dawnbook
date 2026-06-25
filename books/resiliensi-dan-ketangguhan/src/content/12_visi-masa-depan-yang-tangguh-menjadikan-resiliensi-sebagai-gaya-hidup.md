@@ -6,7 +6,7 @@ Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana yang ka
 
 ## 1\. Dari Reaktif Menuju Proaktif: Resiliensi sebagai Identitas
 
-Banyak orang menganggap resiliensi seperti "ban serep"—hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
+Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
 
 > **Insight:** Resiliensi sejati tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
 
@@ -93,7 +93,7 @@ Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga
 1. **Menjadi Mentor:** Mengajarkan resiliensi kepada orang lain akan memperkuat pemahamanmu sendiri.
 2. **Membangun Budaya Tangguh:** Di tempat kerja atau keluarga, dorong keterbukaan tentang kegagalan dan fokus pada solusi daripada menyalahkan.
 
-> "Kita tidak naik ke tingkat harapan kita, kita jatuh ke tingkat sistem kita." — Archilochus
+> "Kita tidak naik ke tingkat harapan kita, kita jatuh ke tingkat sistem kita." , Archilochus
 
 ## Kesimpulan: Hidup yang "Antifragile"
 

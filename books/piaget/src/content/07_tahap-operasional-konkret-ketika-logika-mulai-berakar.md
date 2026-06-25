@@ -2,7 +2,7 @@
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 
-Anak usia 7-11 tahun mengalami semacam revolusi di otak mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**—tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
+Anak usia 7-11 tahun mengalami semacam revolusi di otak mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**,tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
 
 ## 1. Karakteristik Utama: Dari Intuisi ke Logika Konkret
 
@@ -57,7 +57,7 @@ Kalau dulu si anak cuma fokus ke "tingginya air", sekarang mereka ngeh juga soal
 Biarpun udah logis, cara mikirnya masih mentok di realitas fisik. Coba perhatiin bedanya:
 
 - **Konkret:** "Kalau Budi lebih tinggi dari Ani, terus Ani lebih tinggi dari Caca, siapa yang paling tinggi?" (Kadang mereka perlu coret-coret atau ngebayangin fisik orangnya langsung biar yakin).
-- **Abstrak:** Kasih mereka rumus murni kayak \( A > B \) dan \( B > C \) tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
+- **Abstrak:** Kasih mereka rumus murni kayak \( A > B \) and \( B > C \) tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
 
 ## 5. Aplikasi Dunia Nyata: Belajar Melalui Manipulasi
 

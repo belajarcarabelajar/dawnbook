@@ -2,18 +2,18 @@
 
 Bagi para filosof Stoik, tujuan hidup bukanlah kekayaan, ketenaran, atau sekadar menghindari rasa sakit. Tujuan utamanya adalah hidup dalam **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa) melalui **Arete** (kebajikan atau keunggulan karakter).
 
-Bayangkan hidup kamu sebagai sebuah kapal di tengah samudra yang luas dan penuh badai. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh ombak emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas, peta, kemudi, dan jangkar kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel"—karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
+Bayangkan hidup kamu sebagai sebuah kapal di tengah samudra yang luas dan penuh badai. Tanpa navigasi yang tepat, kamu akan terombang-ambing oleh ombak emosi dan keadaan eksternal. **Empat Kebajikan Utama (Cardinal Virtues)** adalah kompas, peta, kemudi, dan jangkar kamu. Kata "cardinal" sendiri berasal dari bahasa Latin *cardo* yang berarti "engsel",karena pada empat pilar inilah seluruh pintu menuju kehidupan yang bermakna berputar.
 
 ## 1\. Kebijaksanaan Praktis (Wisdom / Prudence - Phronesis)
 
-Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasaan teori. Ini adalah **Kebijaksanaan Praktis** —kemampuan untuk menavigasi situasi rumit dengan logika yang jernih.
+Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasaan teori. Ini adalah **Kebijaksanaan Praktis** ,kemampuan untuk menavigasi situasi rumit dengan logika yang jernih.
 
 **Definisi:** Kemampuan untuk membedakan antara apa yang baik, apa yang buruk, dan apa yang netral (indifferent).
 
 - **Sub-kategori:** Perencanaan yang matang, penilaian yang tepat, dan akal sehat.
 - **Inti Ajaran:** Memahami perbedaan antara apa yang bisa kita kendalikan (pikiran dan tindakan kita) dan apa yang tidak (opini orang lain, cuaca, atau masa lalu).
 
-> "Kebaikan utama adalah kebijaksanaan; keburukan utama adalah kebodohan." — **Seneca**
+> "Kebaikan utama adalah kebijaksanaan; keburukan utama adalah kebodohan." , **Seneca**
 
 *Think about this: Saat kamu menghadapi masalah besar, apakah kamu langsung bereaksi secara emosional, atau kamu berhenti sejenak untuk membedakan mana bagian dari masalah tersebut yang benar-benar bisa kamu ubah?*
 

@@ -8,9 +8,9 @@ Namun, para Stoik menawarkan perspektif yang radikal dan membebaskan: **Amor Fat
 
 Secara etimologis, **Amor Fati** berasal dari bahasa Latin yang berarti **"Cinta pada Takdir"**. Meskipun istilah ini dipopulerkan oleh filsuf Friedrich Nietzsche di kemudian hari, akarnya tertanam kuat dalam praktik Stoikisme kuno.
 
-Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resigna), melainkan sebuah sikap aktif untuk **mencintai** setiap momen dalam hidup—baik itu kesuksesan maupun kegagalan, sukacita maupun penderitaan—dan menganggapnya sebagai sesuatu yang diperlukan dan bermanfaat.
+Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resigna), melainkan sebuah sikap aktif untuk **mencintai** setiap momen dalam hidup, baik itu kesuksesan maupun kegagalan, sukacita maupun penderitaan, dan menganggapnya sebagai sesuatu yang diperlukan dan bermanfaat.
 
-> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka hidupmu akan berjalan dengan tenang." — **Epictetus**
+> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka hidupmu akan berjalan dengan tenang." - **Epictetus**
 
 ## Dari Penerimaan Menuju Transformasi
 
@@ -24,7 +24,7 @@ Untuk memahami Amor Fati secara mendalam, kita bisa melihatnya sebagai sebuah ta
 
 Marcus Aurelius, sang Kaisar Stoik, memberikan analogi yang luar biasa tentang bagaimana Amor Fati bekerja:
 
-Bayangkan sebuah api kecil. Jika kamu melemparkan seember air atau tumpukan sampah besar ke atasnya, api itu akan padam. Namun, bayangkan **api yang berkobar hebat**. Apa pun yang dilemparkan ke dalamnya—kayu basah, kain kotor, atau sampah—justru akan **dilahap, dijadikan bahan bakar, dan membuat api tersebut menyala lebih terang.**
+Bayangkan sebuah api kecil. Jika kamu melemparkan seember air atau tumpukan sampah besar ke atasnya, api itu akan padam. Namun, bayangkan **api yang berkobar hebat**. Apa pun yang dilemparkan ke dalamnya (kayu basah, kain kotor, atau sampah) justru akan **dilahap, dijadikan bahan bakar, dan membuat api tersebut menyala lebih terang.**
 
 Dalam hidup, rintangan adalah "sampah" tersebut. Jika mental kita lemah, rintangan memadamkan semangat kita. Jika kita mempraktikkan Amor Fati, rintangan justru menjadi energi tambahan untuk kemajuan kita.
 
@@ -34,9 +34,9 @@ Secara logis, menentang kenyataan adalah tindakan yang sia-sia dan melelahkan. S
 
 Dalam matematika emosional, kita bisa merumuskan penderitaan sebagai berikut:
 
-\\[ 
+\[ 
 \text{Penderitaan} = \text{Kejadian} \times \text{Perlawanan}
- \\]
+ \]
 
 Jika \( \text{Perlawanan} = 0 \) (melalui Amor Fati), maka berapa pun besarnya \( \text{Kejadian} \) yang menimpa, \( \text{Penderitaan} \) akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
@@ -84,6 +84,6 @@ handle_event(event)
 
 *Pikirkan satu kejadian "buruk" yang menimpa kamu minggu ini. Bayangkan kejadian itu bukan sebuah kesalahan, melainkan sebuah instruksi yang dikirimkan secara khusus oleh alam semesta untuk memperkuat kamu. Bagaimana perasaan kamu terhadap kejadian itu sekarang?*
 
-> **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar—apa pun itu—kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
+> **Poin Penting:** Amor Fati bukan berarti kamu berhenti berusaha memperbaiki keadaan. kamu tetap berusaha maksimal (sesuai dikotomi kendali), tetapi begitu hasilnya keluar, apa pun itu, kamu memeluknya seolah-olah itu adalah pilihan kamu sendiri sejak awal.
 
 **Amor Fati adalah keberanian untuk berkata "Ya" kepada hidup, tanpa syarat.** Dengan mencintai apa pun yang terjadi, kamu menjadi manusia yang tidak bisa dikalahkan oleh nasib, karena bagi kamu, setiap kejadian adalah sebuah kemenangan.

@@ -14,7 +14,7 @@ Penelitian menunjukkan bahwa pelajar yang terbiasa dengan pendekatan multidisipl
 
 Masalah-masalah di dunia nyata jarang sekali bersifat unidisipliner. Krisis iklim, masalah kesehatan global, atau pengembangan teknologi baru, semuanya memerlukan pendekatan yang menyeluruh. Pembelajaran multidisiplin membekali kita dengan kemampuan untuk melihat masalah secara utuh dan mempertimbangkan berbagai faktor yang relevan.
 
-Dengan memadukan pengetahuan dari berbagai bidang, kita dapat mengembangkan kebijakan yang lebih efektif serta solusi yang berkelanjutan. Pendekatan ini membuka jalan bagi pemahaman yang lebih mendalam dan luas tentang suatu masalah atau topik penelitian.
+Dengan memadukan pengetahuan dari berbagai bidang, kita dapat mengembangkan kebijakan yang lebih efektif serta solusi yang berkelanjutan. Pendeketan ini membuka jalan bagi pemahaman yang lebih mendalam dan luas tentang suatu masalah atau topik penelitian.
 
 Ambil contoh kasus **Perubahan Iklim**. Tantangan ini memerlukan kolaborasi ahli meteorologi (ilmu alam), ahli lingkungan (biologi, ekologi), ahli ekonomi (ilmu sosial), hingga sosiolog (humaniora) untuk memahami penyebab, dampak, serta merumuskan solusi potensial secara menyeluruh.
 
@@ -28,7 +28,7 @@ Dunia saat ini ditandai oleh perubahan yang cepat dan kompleks, terutama didoron
 
 > *Individu yang memiliki pemahaman luas dan keterampilan yang beragam akan lebih siap menghadapi perubahan yang cepat dan kompleks.*
 
-Melalui perkenalan dengan berbagai disiplin, kamu akan terlatih untuk melihat pola dan koneksi guna memahami bagaimana satu perubahan di suatu bidang dapat memengaruhi bidang lainnya. Selain itu, kamu juga didorong untuk menerapkan pengetahuan secara lintas konteks dengan mentransfer konsep dan keterampilan dari satu domain ke domain lain. Proses ini pada akhirnya menumbuhkan semangat belajar sepanjang hayat—sebuah mentalitas yang terus mendorongmu mengeksplorasi dan menyatukan pengetahuan baru.
+Melalui perkenalan dengan berbagai disiplin, kamu akan terlatih untuk melihat pola dan koneksi guna memahami bagaimana satu perubahan di suatu bidang dapat memengaruhi bidang lainnya. Selain itu, kamu juga didorong untuk menerapkan pengetahuan secara lintas konteks dengan mentransfer konsep dan keterampilan dari satu domain ke domain lain. Proses ini pada akhirnya menumbuhkan semangat belajar sepanjang hayat, sebuah mentalitas yang terus mendorongmu mengeksplorasi dan menyatukan pengetahuan baru.
 
 ### 4. Pengembangan Pemahaman yang Lebih Luas dan Terintegrasi Antardisiplin Ilmu
 
@@ -36,7 +36,7 @@ Pembelajaran multidisiplin memungkinkan kamu melihat hubungan antara berbagai bi
 
 Pertama, pendekatan ini membantu mencegah fragmentasi pengetahuan. Alih-alih melihat setiap disiplin ilmu sebagai kotak terisolasi, kamu mulai membangun jaringan pengetahuan yang saling terhubung. Kedua, perspektifmu menjadi lebih kaya karena setiap ilmu menawarkan cara pandang unik dalam melihat realitas. Multidisiplin menyatukan sudut pandang ini agar kamu mendapatkan gambaran yang lebih utuh. Terakhir, pemahaman ini membantumu menyadari interkoneksi global; isu-isu seperti perubahan iklim, krisis kesehatan, dan ketimpangan sosial bersifat multidimensi sehingga membutuhkan integrasi dari berbagai sudut pandang.
 
-Sebagai contoh, ketika kamu mempelajari biologi (sains), ekonomi (ilmu sosial), dan etika (humaniora) secara bersamaan, kamu dapat mengembangkan pemahaman terintegrasi tentang implikasi rekayasa genetika—baik dari sisi ilmiah maupun dampak sosial dan moralnya.
+Sebagai contoh, ketika kamu mempelajari biologi (sains), ekonomi (ilmu sosial), dan etika (humaniora) secara bersamaan, kamu dapat mengembangkan pemahaman terintegrasi tentang implikasi rekayasa genetika, baik dari sisi ilmiah maupun dampak sosial dan moralnya.
 
 ### 5. Mendorong Inovasi
 

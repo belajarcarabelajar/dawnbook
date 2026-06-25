@@ -8,7 +8,7 @@ Fokus utamanya ada pada **siapa kamu** dan **apa yang benar-benar bermakna bagi 
 
 Digital Minimalisme adalah filosofi untuk **mengagungkan hal-hal yang kamu hargai** dan membuang segala pengalih perhatian.
 
-> "Minimalisme digital adalah filosofi penggunaan teknologi di mana kamu memfokuskan waktu online kamu pada sejumlah kecil aktivitas yang dipilih secara cermat demi mendukung hal-hal yang kamu hargai, dan dengan senang hati melewatkan hal lainnya." — Cal Newport
+> "Minimalisme digital adalah filosofi penggunaan teknologi di mana kamu memfokuskan waktu online kamu pada sejumlah kecil aktivitas yang dipilih secara cermat demi mendukung hal-hal yang kamu hargai, dan dengan senang hati melewatkan hal lainnya." , Cal Newport
 
 Bayangkan nilai-nilai inti kamu sebagai sebuah filter. Tanpa filter ini, setiap notifikasi, berita viral, dan tren terbaru akan masuk ke dalam hidup kamu tanpa hambatan. Dengan filter yang kuat, kamu hanya mengizinkan teknologi yang memberikan dampak nyata terhadap tujuan hidup kamu.
 
@@ -22,11 +22,11 @@ Langkah awal menentukan teknologi yang pantas dipertahankan adalah dengan mengid
 
 #### Langkah 1: Refleksi Pengalaman Puncak
 
-Ingatlah kembali tiga momen dalam hidup kamu di mana kamu merasa paling hidup, paling bangga, atau paling puas. Tanyakan pada diri sendiri apa yang sedang dikerjakan, siapa yang menemani, dan kualitas apa yang hadir dalam momen tersebut—seperti koneksi mendalam, kreativitas, ketenangan, atau tantangan fisik.
+Ingatlah kembali tiga momen dalam hidup kamu di mana kamu merasa paling hidup, paling bangga, atau paling puas. Tanyakan pada diri sendiri apa yang sedang dikerjakan, siapa yang menemani, dan kualitas apa yang hadir dalam momen tersebut,seperti koneksi mendalam, kreativitas, ketenangan, atau tantangan fisik.
 
 #### Langkah 2: Memilih dari Daftar Nilai
 
-Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini—apa yang *benar-benar* penting, bukan apa yang *seharusnya* penting. Nilai-nilai ini bisa berupa **kesehatan** fisik dan mental, **koneksi** mendalam dengan orang terdekat, **kreativitas** dalam berkarya, **pembelajaran** yang terus berkembang, **ketenangan** batin, **otonomi** untuk memegang kendali atas waktumu, atau **kontribusi** nyata bagi lingkungan sekitar.
+Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini,apa yang *benar-benar* penting, bukan apa yang *seharusnya* penting. Nilai-nilai ini bisa berupa **kesehatan** fisik dan mental, **koneksi** mendalam dengan orang terdekat, **kreativitas** dalam berkarya, **pembelajaran** yang terus berkembang, **ketenangan** batin, **otonomi** untuk memegang kendali atas waktumu, atau **kontribusi** nyata bagi lingkungan sekitar.
 
 #### Langkah 3: Kategorisasi dan Prioritas
 

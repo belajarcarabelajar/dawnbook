@@ -10,7 +10,7 @@ Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) sangat me
 
 1. **Logika adalah Pagar:** Ia melindungi taman dari penyusup (argumen palsu dan emosi yang menyesatkan) serta menjaga agar pikiran tetap jernih.
 2. **Fisika adalah Tanah dan Pohon:** Ia merupakan struktur dasar, nutrisi, dan pemahaman tentang bagaimana ekosistem taman tersebut bekerja.
-3. **Etika adalah Buahnya:** Inilah hasil akhir yang kita panen. Inilah tujuan utama mengapa kita menanam taman tersebut—untuk menghasilkan kehidupan yang manis dan bermanfaat.
+3. **Etika adalah Buahnya:** Inilah hasil akhir yang kita panen. Inilah tujuan utama mengapa kita menanam taman tersebut,untuk menghasilkan kehidupan yang manis dan bermanfaat.
 
 > **Pesan Utama:** Tanpa pagar (Logika), taman akan hancur. Tanpa tanah (Fisika), tidak ada yang bisa tumbuh. Namun, tanpa buah (Etika), seluruh usaha tersebut menjadi sia-sia.
 

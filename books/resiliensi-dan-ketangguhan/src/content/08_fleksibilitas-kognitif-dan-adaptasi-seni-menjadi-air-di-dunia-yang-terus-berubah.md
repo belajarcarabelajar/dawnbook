@@ -13,7 +13,7 @@ Dalam dunia resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan seba
 
 Fleksibilitas kognitif tidak berarti lemah. Ini adalah tentang kemampuan beradaptasi.
 
-> "Ukuran kecerdasan adalah kemampuan untuk berubah." — Albert Einstein
+> "Ukuran kecerdasan adalah kemampuan untuk berubah." , Albert Einstein
 
 ### Mengapa Ini Penting?
 
@@ -96,16 +96,16 @@ def handle_crisis(current_plan, unexpected_change):
 
 ## 5. Menghitung Keberhasilan Adaptasi
 
-Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti (\\( \\mathbb{P}_{\\text{s}} \\)) berbanding lurus dengan jumlah alternatif valid (\\( n \\)) yang dapat kita hasilkan dalam waktu singkat (\\( t \\)).
+Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti (\( \mathbb{P}_{\text{s}} \)) berbanding lurus dengan jumlah alternatif valid (\( n \)) yang dapat kita hasilkan dalam waktu singkat (\( t \)).
 
-\\[
-\\mathbb{P}_{\\text{s}} \\approx \\sum_{i=1}^{n} \\frac{A_i}{t}
-\\]
+\[
+\mathbb{P}_{\text{s}} \approx \sum_{i=1}^{n} \frac{A_i}{t}
+\]
 
 Di mana:
 
-- \\( A_i \\) adalah efektivitas dari alternatif ke-\\( i \\).
-- Semakin banyak alternatif (\\( n \\)) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
+- \( A_i \) adalah efektivitas dari alternatif ke-\( i \).
+- Semakin banyak alternatif (\( n \)) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
 ## Kesimpulan: Menjadi Cair
 
@@ -113,4 +113,4 @@ Di mana:
 
 > **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menari di tengah badai dan menemukan langkah baru saat musiknya berubah.
 
-*Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda—sekalipun terdengar tidak biasa—yang bisa kamu coba besok?*
+*Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda,sekalipun terdengar tidak biasa,yang bisa kamu coba besok?*

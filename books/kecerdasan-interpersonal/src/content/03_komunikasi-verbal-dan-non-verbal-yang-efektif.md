@@ -34,7 +34,7 @@ Nada suaramu bertindak sebagai "tanda baca" dalam komunikasi lisan. Suaramu bisa
 
 Melatih vokal berarti melatih dinamika suara. Beberapa aspek yang perlu diperhatikan meliputi:
 
-1. **Intonasi yang mantap**: Hindari kebiasaan *uptalking*—yaitu menaikkan nada di akhir kalimat pernyataan seolah-olah kamu sedang bertanya. Pola ini bisa mengikis kepercayaan pendengar pada kata-katamu.
+1. **Intonasi yang mantap**: Hindari kebiasaan *uptalking*, yaitu menaikkan nada di akhir kalimat pernyataan seolah-olah kamu sedang bertanya. Pola ini bisa mengikis kepercayaan pendengar pada kata-katamu.
 2. **Mengatur tempo bicara**: Bicara yang terlalu cepat sering kali mencerminkan rasa gugup, sementara tempo yang terlalu lambat berisiko membuat lawan bicara bosan. Gunakan jeda (*pausing*) secara sengaja agar pendengar memiliki waktu untuk mencerna poin-poin penting.
 3. **Volume suara**: Sesuaikan volume dengan ukuran ruangan dan jumlah audiens. Menjaga volume tetap stabil dan jelas menunjukkan keyakinan diri.
 
