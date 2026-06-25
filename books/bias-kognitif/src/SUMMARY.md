@@ -1,0 +1,16 @@
+# Summary
+
+- [Pengantar Bias Kognitif](content/01_pengantar-bias-kognitif.md)
+- [Heuristik: Akar dari Bias](content/02_heuristik-akar-dari-bias.md)
+- [Bias Konfirmasi (Confirmation Bias)](content/03_bias-konfirmasi-confirmation-bias.md)
+- [Efek Jangkar (Anchoring Effect): Pesona Informasi Pertama](content/04_efek-jangkar-anchoring-effect-pesona-informasi-pertama.md)
+- [Bias Ketersediaan (Availability Heuristic)](content/05_bias-ketersediaan-availability-heuristic.md)
+- [Efek Dunning-Kruger: Paradoks Ketidaktahuan](content/06_efek-dunning-kruger-paradoks-ketidaktahuan.md)
+- [Kekeliruan Biaya Tertanam (Sunk Cost Fallacy)](content/07_kekeliruan-biaya-tertanam-sunk-cost-fallacy.md)
+- [Efek Halo dan Efek Tanduk: Ketika Satu Kesan Mengubah Segalanya](content/08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.md)
+- [Bias Kelompok (In-group Bias): Dinamika 'Kita' vs 'Mereka'](content/09_bias-kelompok-in-group-bias-dinamika-kita-vs-mereka.md)
+- [Bias Retrospeksi (Hindsight Bias): Fenomena 'Aku Sudah Tahu Itu Bakal Terjadi!'](content/10_bias-retrospeksi-hindsight-bias-fenomena-aku-sudah-tahu-itu-bakal-terjadi.md)
+- [Dampak Bias dalam Pengambilan Keputusan](content/11_dampak-bias-dalam-pengambilan-keputusan.md)
+- [Teknik Mitigasi dan Debiasing: Melawan Arus Insting untuk Keputusan Lebih Jernih](content/12_teknik-mitigasi-dan-debiasing-melawan-arus-insting-untuk-keputusan-lebih-jernih.md)
+- [Membangun Objektivitas Berkelanjutan: Seni Melihat Dunia Tanpa Filter](content/13_membangun-objektivitas-berkelanjutan-seni-melihat-dunia-tanpa-filter.md)
+- [Referensi](content/14_referensi.md)
