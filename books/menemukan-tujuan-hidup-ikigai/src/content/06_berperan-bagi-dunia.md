@@ -26,7 +26,7 @@ Riset primer mengandalkan observasi langsung ke lapangan untuk mengamati perilak
 
 Dalam praktiknya, kamu bisa memilih untuk terlibat penuh dengan melakukan *observasi partisipatif*, misalnya dengan menjadi tenaga sukarela di panti asuhan, atau sekadar mengamati dari luar melalui *observasi non-partisipatif* seperti mencatat pola kemacetan lalu lintas di persimpangan jalan padat. Saat melakukan pengamatan, pastikan kamu membuat pencatatan lapangan secara rinci. Penggunaan rekaman visual maupun sketsa pemetaan spasial juga bisa membantu mendokumentasikan temuan riil, selama kamu sudah mengantongi izin dari pihak yang bersangkutan.
 
-Misalnya, saat menelusuri masalah pengelolaan sampah, kamu bisa berjalan keliling perumahan pada jam berbeda untuk melihat langsung lokasi tumpukan sampah liar. Kamu juga bisa ikut turun tangan membersihkan lingkungan bersama warga setempat sambil berbincang ringan dengan petugas kebersihan. Lewat pengamatan tersebut, kamu mungkin menemukan akar persoalan yang sebenarnya—entah itu karena jadwal pengangkutan sampah yang tidak teratur, atau semata karena kurangnya kesadaran kolektif dari masyarakat di area tertentu.
+Misalnya, saat menelusuri masalah pengelolaan sampah, kamu bisa berjalan keliling perumahan pada jam berbeda untuk melihat langsung lokasi tumpukan sampah liar. Kamu juga bisa ikut turun tangan membersihkan lingkungan bersama warga setempat sambil berbincang ringan dengan petugas kebersihan. Lewat pengamatan tersebut, kamu mungkin menemukan akar persoalan yang sebenarnya,entah itu karena jadwal pengangkutan sampah yang tidak teratur, atau semata karena kurangnya kesadaran kolektif dari masyarakat di area tertentu.
 
 ## Berempati terhadap Orang Lain
 

@@ -2,7 +2,7 @@
 
 Bayangkan kamu adalah seorang kapten kapal yang sedang memimpin pelayaran di tengah samudra yang tenang. Tiba-tiba, badai besar datang menerjang. Gelombang setinggi rumah menghantam lambung kapal, dan angin kencang mulai merobek layar. Di saat seperti ini, apa yang paling dibutuhkan oleh kapal tersebut? Mesin yang kuat? Mungkin. Kompas yang akurat? Tentu. Namun, yang paling menentukan keselamatan kapal adalah **ketenangan dan ketajaman mental sang kapten.**
 
-Dalam kehidupan, "badai" ini adalah krisis—baik itu kegagalan proyek besar, kehilangan pekerjaan, atau konflik personal yang intens. **Kecerdasan Emosional (EQ)** adalah kemampuanmu untuk tetap menjadi kapten yang tenang saat emosi negatif mencoba mengambil alih kemudi.
+Dalam kehidupan, "badai" ini adalah krisis, baik itu kegagalan proyek besar, kehilangan pekerjaan, atau konflik personal yang intens. **Kecerdasan Emosional (EQ)** adalah kemampuanmu untuk tetap menjadi kapten yang tenang saat emosi negatif mencoba mengambil alih kemudi.
 
 ### 1. Memahami Amygdala Hijack
 
@@ -14,9 +14,9 @@ Dalam situasi krisis, Amigdala sering kali mengambil alih kendali sebelum bagian
 
 Secara matematis, kita bisa melihat hubungan antara intensitas emosi dan kapasitas berpikir rasional sebagai berikut:
 
-\\[
-\\text{Kapasitas Rasional} \\approx \\frac{1}{\\text{Intensitas Emosi}}
-\\]
+\[
+\text{Kapasitas Rasional} \approx \frac{1}{\text{Intensitas Emosi}}
+\]
 
 Artinya, semakin tinggi emosimu (marah, takut, panik), semakin kecil ruang yang tersisa untuk logika.
 
@@ -76,6 +76,6 @@ Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertek
 2. Bagaimana emosi tersebut memengaruhi caramu berbicara atau bertindak saat itu?
 3. Jika kamu bisa mengulang kejadian itu dengan teknik **S.T.O.P**, apa yang akan berubah?
 
-> **Insight Berharga:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut—kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
+> **Insight Berharga:** Memiliki kecerdasan emosional tidak berarti kamu tidak pernah merasa marah, sedih, atau takut. EQ berarti kamu memiliki hubungan yang sehat dengan emosi tersebut, kamu merasakannya, tetapi tidak membiarkan emosi itu memegang kendali atas nilai-nilai dan tindakan jangka panjangmu.
 
 Dengan melatih kecerdasan emosional, kamu sedang membangun fondasi resiliensi yang kokoh. Kamu belajar bahwa meskipun tidak bisa mengendalikan arah angin (krisis), kamu selalu memiliki kendali penuh atas bagaimana kamu mengatur layar (emosi dan responsmu).

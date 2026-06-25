@@ -36,7 +36,7 @@ Misalnya, seorang *programmer* yang mahir sangat menyukai logika dan pemecahan m
 
 Pilar ketiga ini mengalihkan fokus dari dirimu ke lingkungan sekitar. Tujuannya adalah mengidentifikasi masalah, kebutuhan, atau tantangan di masyarakat yang memanggilmu untuk turun tangan. Pilar ini mendorong kita untuk memikirkan bagaimana kita bisa berkontribusi dan menciptakan perubahan positif.
 
-**Definisi:** 'Apa yang Dibutuhkan Dunia' adalah tentang menemukan celah, masalah, atau kebutuhan mendesak di sekitarmu—baik di tingkat lokal, global, maupun dalam komunitas tertentu—yang ingin dan mampu kamu bantu selesaikan.
+**Definisi:** 'Apa yang Dibutuhkan Dunia' adalah tentang menemukan celah, masalah, atau kebutuhan mendesak di sekitarmu, baik di tingkat lokal, global, maupun dalam komunitas tertentu, yang ingin dan mampu kamu bantu selesaikan.
 
 **Karakteristik & Contoh:**
 Karakteristik utamanya mencakup empati sosial untuk memahami kesulitan orang lain, kesadaran terhadap isu lingkungan atau kemanusiaan, serta dorongan kuat untuk menjadi bagian dari solusi. Apa yang kamu lakukan harus memiliki dampak nyata dan relevan bagi kehidupan orang lain atau planet ini.
@@ -60,7 +60,7 @@ Pilar keempat ini merupakan aspek praktis dari Ikigai yang berfokus pada keberla
 **Contoh:**
 Seorang desainer grafis mencintai seni (*passion*), menguasai perangkat lunak desain (*mission*), dan menyadari banyaknya bisnis yang membutuhkan identitas visual (*vocation*). Ia kemudian menawarkan jasanya secara profesional, dan klien bersedia membayar hasil karyanya. 
 
-Sama halnya dengan pelatih kebugaran pribadi (*personal trainer*) yang menggabungkan gairah untuk gaya hidup sehat, pengetahuan anatomi tubuh, dan pengamatannya bahwa banyak orang kesulitan menjaga kebugaran. Ia lalu dibayar atas sesi latihan yang ia berikan. 
+Sama halnya dengan pelatih kebugaran pribadi (*personal trainer*) yang menggabungkan gairah untuk gaya hidup sehat, pengetahuan anatomi tubuh, and pengamatannya bahwa banyak orang kesulitan menjaga kebugaran. Ia lalu dibayar atas sesi latihan yang ia berikan. 
 
 Contoh lainnya adalah *software engineer* yang menikmati memecahkan masalah lewat kode, punya keahlian tinggi, dan melihat kebutuhan perusahaan akan perangkat lunak khusus. Ia kemudian bekerja dan mendapatkan penghasilan dari proyek-proyeknya.
 

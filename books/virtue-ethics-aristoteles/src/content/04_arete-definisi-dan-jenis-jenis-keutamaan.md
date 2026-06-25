@@ -70,6 +70,6 @@ Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 | **Intelektual** | Kebenaran & Rasio | Pengajaran & Studi | Matematika, Pengetahuan, *Phronesis* |
 | **Moral** | Tindakan & Karakter | Latihan & Kebiasaan | Keberanian, Kejujuran, Keadilan |
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan (*Arete*) bukanlah sebuah tindakan, melainkan sebuah kebiasaan." — Sering diatribusikan pada Aristoteles (Will Durant).
+> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan (*Arete*) bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , Sering diatribusikan pada Aristoteles (Will Durant).
 
 *Catatan: Pembahasan mengenai bagaimana tepatnya kita membentuk kebiasaan-kebiasaan baik ini akan dibahas secara mendalam pada bagian selanjutnya: **Habituasi: Membentuk Karakter Melalui Kebiasaan**.*

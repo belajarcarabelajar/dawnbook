@@ -35,7 +35,7 @@ Ada empat cara kita merespons kabar baik, namun hanya satu yang memperkuat hubun
 
 ### 3. Empati dan Mendengarkan dengan Penuh Kesadaran (Mindful Listening)
 
-Hubungan yang sehat berakar pada **Empati**—kemampuan untuk memahami dan merasakan apa yang dirasakan orang lain tanpa menghakimi.
+Hubungan yang sehat berakar pada **Empati**, kemampuan untuk memahami dan merasakan apa yang dirasakan orang lain tanpa menghakimi.
 
 #### Teknik Mendengarkan Empatis:
 
@@ -79,4 +79,4 @@ Hubungan sosial yang positif adalah keterampilan yang bisa dipelajari, tidak ter
 
 > **Tugas Kecil untukmu:** Hari ini, pilihlah satu orang dalam hidupmu. Kirimkan pesan singkat atau katakan langsung satu hal yang kamu hargai dari mereka secara spesifik. Lihatlah bagaimana tindakan kecil ini mengubah dinamika interaksimu.
 
-**Selanjutnya dalam Seri Ini:** Setelah memahami bagaimana terhubung dengan orang lain, kita akan mengeksplorasi **Makna dan Tujuan Hidup (Meaning in Life)**—bagaimana hubungan sosial dan kontribusi kita menjadi bagian dari sesuatu yang lebih besar dari diri kita sendiri.
+**Selanjutnya dalam Seri Ini:** Setelah memahami bagaimana terhubung dengan orang lain, kita akan mengeksplorasi **Makna dan Tujuan Hidup (Meaning in Life)**: bagaimana hubungan sosial dan kontribusi kita menjadi bagian dari sesuatu yang lebih besar dari diri kita sendiri.

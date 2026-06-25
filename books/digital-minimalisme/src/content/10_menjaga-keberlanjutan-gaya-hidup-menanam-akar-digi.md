@@ -6,7 +6,7 @@ Digital minimalisme adalah praktik yang terus berjalan. Bayangkan kebun yang bar
 
 ## 1. Strategi Audit Rutin: "Check-up" Digital Berkala
 
-Sama seperti pemeriksaan kesehatan yang berguna mendeteksi penyakit sedini mungkin, ekosistem digital juga butuh **Audit Rutin**. Tanpa pemantauan ini, aplikasi-aplikasi yang tidak perlu dan kebiasaan lama akan diam-diam merayap kembali—sebuah proses senyap yang dikenal sebagai *digital creep*.
+Sama seperti pemeriksaan kesehatan yang berguna mendeteksi penyakit sedini mungkin, ekosistem digital juga butuh **Audit Rutin**. Tanpa pemantauan ini, aplikasi-aplikasi yang tidak perlu dan kebiasaan lama akan diam-diam merayap kembali, sebuah proses senyap yang dikenal sebagai *digital creep*.
 
 Luangkan waktu setiap tiga bulan untuk mengevaluasi isi perangkat kamu. Tanyakan pada diri sendiri apakah sebuah aplikasi masih relevan dengan nilai-nilai yang kamu anut. Cermati pula apakah kehadirannya lebih banyak memberi manfaat atau justru menyedot perhatian. Jika memang masih dibutuhkan, cari format akses yang paling efisien, misalnya membiasakan diri membuka layanan tersebut hanya lewat komputer dan menghapusnya dari ponsel.
 
@@ -16,7 +16,7 @@ Luangkan waktu setiap tiga bulan untuk mengevaluasi isi perangkat kamu. Tanyakan
 
 Banyak orang menyerah di tengah jalan karena kuatnya **tekanan sosial**. Membiarkan pesan tidak berbalas selama lima menit kini sering dicap sebagai sikap acuh tak acuh.
 
-Untuk meredam ekspektasi ini, sampaikan batasan kamu secara terbuka. Kamu bisa memanfaatkan fitur pesan otomatis untuk memberitahu bahwa kamu hanya memeriksa aplikasi *chat* pada jam tertentu—misalnya pukul 10 pagi dan 4 sore—dan menyarankan panggilan telepon jika ada kondisi darurat. Terapkan juga *slow communication*. Kebiasaan membalas pesan lebih lambat perlahan akan melatih orang-orang di sekitarmu untuk tidak mengharapkan respons instan dari kamu.
+Untuk meredam ekspektasi ini, sampaikan batasan kamu secara terbuka. Kamu bisa memanfaatkan fitur pesan otomatis untuk memberitahu bahwa kamu hanya memeriksa aplikasi *chat* pada jam tertentu (misalnya pukul 10 pagi dan 4 sore) dan menyarankan panggilan telepon jika ada kondisi darurat. Terapkan juga *slow communication*. Kebiasaan membalas pesan lebih lambat perlahan akan melatih orang-orang di sekitarmu untuk tidak mengharapkan respons instan dari kamu.
 
 Saat obrolan kelompok sedang ramai membahas drama media sosial terbaru yang terlewatkan, kamu tak perlu cemas didera FOMO (*Fear of Missing Out*). Tanyakan saja secara langsung, "Aku lagi nggak buka Twitter nih, cerita intinya dong." Pendekatan santai ini memberimu intisari cerita langsung dari teman, menghindarkan kamu dari jebakan algoritma berjam-jam, sembari tetap menjaga interaksi yang hangat.
 
@@ -26,17 +26,17 @@ Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
-\\[
+\[
 \text{Nilai Baru} = (\text{Manfaat Utama}) - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
-\\]
+\]
 
-Kalau \\(\text{Nilai Baru} \leq 0\\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
+Kalau \(\text{Nilai Baru} \leq 0\), berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 
 Khusus untuk tren AI dan aplikasi viral lainnya, pastikan kamu menetapkan niat awal yang jelas. Gunakanlah teknologi tersebut semata sebagai alat bantu produksi, bukan sekadar pelampiasan konsumsi. Terapkan juga aturan masa tunggu dua minggu sebelum mencoba aplikasi baru. Rasa penasaran impulsif biasanya akan memudar dengan sendirinya setelah periode tersebut.
 
 ## 4. Merawat Kebiasaan dalam Jangka Panjang
 
-Membangun disiplin mirip dengan melatih otot; butuh beban dan repetisi. Salah satu rutinitas yang sangat disarankan adalah **Sabat Digital**. Pilih satu hari dalam seminggu—sebut saja hari Minggu—untuk sepenuhnya menjauh dari segala bentuk layar. Isi hari itu dengan kegiatan fisik atau interaksi langsung. Cara ini sangat ampuh memutus siklus stimulasi dopamin artifisial.
+Membangun disiplin mirip dengan melatih otot; butuh beban dan repetisi. Salah satu rutinitas yang sangat disarankan adalah **Sabat Digital**. Pilih satu hari dalam seminggu (sebut saja hari Minggu) untuk sepenuhnya menjauh dari segala bentuk layar. Isi hari itu dengan kegiatan fisik atau interaksi langsung. Cara ini sangat ampuh memutus siklus stimulasi dopamin artifisial.
 
 Tantangan lainnya adalah belajar berdamai dengan rasa bosan. Sering kali tangan kita otomatis meraih ponsel hanya karena tak sanggup diam selama lima menit. Padahal, kebosanan adalah kanvas kosong yang kerap memicu gagasan segar. Saat menunggu pesanan kopi atau mengantre di kasir, tahan dorongan membuka ponsel. Biarkan pikiran kamu mengembara liar.
 

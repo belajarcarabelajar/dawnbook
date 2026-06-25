@@ -6,7 +6,7 @@ Digital minimalisme di tempat kerja mengajarkan kita untuk mengabaikan ilusi kes
 
 ## 1\. Konsep Deep Work: Inti dari Produktivitas Minimalis
 
-Istilah **Deep Work** (Kerja Mendalam), yang dipopulerkan oleh Cal Newport, adalah kemampuan untuk fokus tanpa gangguan pada tugas yang menuntut secara kognitif. Ini adalah lawan dari *Shallow Work* (Kerja Dangkal)—tugas-tugas administratif yang bisa dilakukan sambil mengantuk.
+Istilah **Deep Work**, yang dipopulerkan oleh Cal Newport, adalah kemampuan untuk fokus tanpa gangguan pada tugas yang menuntut secara kognitif. Ini adalah lawan dari *Shallow Work*, tugas-tugas administratif yang bisa dilakukan sambil mengantuk.
 
 ### Mengapa Deep Work Penting?
 
@@ -22,11 +22,11 @@ Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil 
 
 ## 2\. Meminimalkan Gangguan Digital di Kantor
 
-Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue** (Sisa Perhatian). Dibutuhkan rata-rata 20 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
+Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata 20 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
 
 ### Strategi Praktis Mengurangi Gangguan:
 
-Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu—misalnya pagi, siang, dan sore—khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab browser yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
+Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab browser yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
 
 *Think about this: Berapa banyak tab browser yang terbuka di perangkat kamu saat ini? Berapa banyak yang benar-benar mendukung tugas yang sedang kamu kerjakan sekarang?*
 
@@ -58,19 +58,19 @@ for filename in os.listdir(download_path):
 print("Pembersihan selesai! Fokuslah pada hal yang lebih penting.")
 ```
 
-Dengan mengotomatiskan hal-hal kecil, kamu mengurangi beban mental (*cognitive load*) dalam mengelola perangkat kerjamu.
+Dengan mengotomatiskan hal-hal kecil, kamu mengurangi *cognitive load* dalam mengelola perangkat kerjamu.
 
 ## 4\. Implementasi Strategis: Time-Blocking
 
 Minimalisme dalam kerja membuatmu sangat protektif terhadap waktu. Salah satu pendekatan yang paling bisa diandalkan adalah **Time-Blocking**.
 
-Anggaplah kalender kamu sebagai ruang fisik; jika sebuah tugas tidak masuk ke dalamnya, kemungkinan besar tugas itu tidak akan diselesaikan dengan fokus penuh. Kamu bisa memulai dengan menjadwalkan blok kerja mendalam selama 90-120 menit di pagi hari ketika energi otak sedang maksimal. Sisa-sisa pekerjaan administratif seperti mengurus balasan email atau mengisi *timesheet* kemudian digabungkan ke dalam satu sesi singkat di sore hari. Saat sedang berada di blok fokus utama, batasi akses internet seketat mungkin dan gunakan aplikasi pemblokir situs web agar godaan internet bisa diredam.
+Anggaplah kalender kamu sebagai ruang fisik; jika sebuah tugas tidak masuk ke dalamnya, kemungkinan besar tugas itu tidak akan diselesaikan dengan fokus penuh. Kamu bisa memulai dengan menjadwalkan blok *deep work* selama 90-120 menit di pagi hari ketika energi otak sedang maksimal. Sisa-sisa pekerjaan administratif seperti mengurus balasan email atau mengisi *timesheet* kemudian digabungkan ke dalam satu sesi singkat di sore hari. Saat sedang berada di blok fokus utama, batasi akses internet seketat mungkin dan gunakan aplikasi pemblokir situs web agar godaan internet bisa diredam.
 
 ## 5\. Real-World Application: Skenario Tim Proyek
 
 Mari kita lihat skenario tim pengembang perangkat lunak yang menerapkan digital minimalisme. Awalnya, mereka terjebak dalam siklus rapat yang molor, rentetan notifikasi Slack tentang *bug* sepele, dan tumpukan email tanpa henti. Dampaknya, semua orang merasa lelah sementara perkembangan fitur utama jalan di tempat. 
 
-Mereka kemudian melakukan penyesuaian drastis dengan memberlakukan jam tenang (*Quiet Hours*) dari pukul 09:00 hingga 12:00. Tidak ada rapat, dan tidak ada tuntutan untuk merespons pesan dengan cepat. Diskusi harian dialihkan ke platform dokumentasi terstruktur seperti Notion atau Jira untuk menghindari utas pesan yang berantakan. Selain itu, notifikasi sistem difilter dengan sangat ketat sehingga hanya insiden darurat yang boleh mengganggu, sementara laporan lainnya dikirim ke saluran terpisah yang cukup diperiksa satu kali sehari.
+Mereka kemudian melakukan penyesuaian drastis dengan memberlakukan *Quiet Hours* dari pukul 09:00 hingga 12:00. Tidak ada rapat, dan tidak ada tuntutan untuk merespons pesan dengan cepat. Diskusi harian dialihkan ke platform dokumentasi terstruktur seperti Notion atau Jira untuk menghindari thread yang berantakan. Selain itu, notifikasi sistem difilter dengan sangat ketat sehingga hanya insiden darurat yang boleh mengganggu, sementara laporan lainnya dikirim ke saluran terpisah yang cukup diperiksa satu kali sehari.
 
 Perubahan tersebut meningkatkan kecepatan pengembangan secara nyata, karena para pengembang mendapatkan kembali ruang berpikir tanpa interupsi untuk memecahkan berbagai algoritma kompleks. Tingkat stres tim pun berangsur mereda karena mereka tidak lagi dihantui keharusan untuk selalu siaga memantau layar.
 

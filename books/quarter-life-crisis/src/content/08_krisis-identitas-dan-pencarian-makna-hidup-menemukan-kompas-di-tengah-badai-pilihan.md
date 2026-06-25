@@ -6,7 +6,7 @@ Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas
 
 ### 1. Memahami Paradoks Pilihan: Mengapa Terlalu Banyak Opsi Justru Menyiksa?
 
-Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*)—bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
+Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*),bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
 
 **Analogi Prasmanan Raksasa:** Bayangkan kamu pergi ke sebuah pesta dengan meja prasmanan sepanjang satu kilometer yang menyajikan ribuan jenis makanan dari seluruh dunia. Alih-alih merasa senang, kamu justru merasa cemas. Kamu takut jika mengambil rendang, kamu akan melewatkan sushi terbaik. Jika kamu mencoba pasta, kamu mungkin menyesal tidak mencoba steak. Akhirnya, kamu berdiri di depan meja dengan piring kosong, merasa lapar dan stres.
 

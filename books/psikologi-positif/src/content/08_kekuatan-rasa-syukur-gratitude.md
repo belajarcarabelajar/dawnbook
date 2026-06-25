@@ -11,11 +11,11 @@ Menurut Robert Emmons, pakar ilmiah terkemuka yang meneliti tentang syukur, prak
 1. **Afirmasi Kebaikan:** Pengakuan bahwa ada banyak hal baik, hadiah, dan manfaat yang telah kita terima di dunia ini.
 2. **Pengenalan Sumber Eksternal:** Kesadaran bahwa sumber kebaikan tersebut sering kali berasal dari pihak lain, baik itu sesama manusia, alam semesta, atau kekuatan yang lebih besar.
 
-> "Syukur adalah emosi yang membuat kita merasa terhubung dengan orang lain dan dunia di sekitar kita." — Robert Emmons
+> "Syukur adalah emosi yang membuat kita merasa terhubung dengan orang lain dan dunia di sekitar kita." - Robert Emmons
 
 #### Analogi: Lensa Kamera
 
-Bayangkan pikiranmu seperti lensa kamera. Secara alami, otak manusia cenderung menggunakan **lensa wide-angle** untuk memindai ancaman sekitar—sebuah mekanisme yang dikenal sebagai *negativity bias*. Di sinilah rasa syukur berperan sebagai **lensa makro** yang membantu kita melakukan *zoom-in* pada detail-detail indah yang biasanya luput dari perhatian karena kita terlalu sibuk memikirkan masalah besar.
+Bayangkan pikiranmu seperti lensa kamera. Secara alami, otak manusia cenderung menggunakan **lensa wide-angle** untuk memindai ancaman sekitar, sebuah mekanisme yang dikenal sebagai *negativity bias*. Di sinilah rasa syukur berperan sebagai **lensa makro** yang membantu kita melakukan *zoom-in* pada detail-detail indah yang biasanya luput dari perhatian karena kita terlalu sibuk memikirkan masalah besar.
 
 ### 2. Sains di Balik Rasa Syukur
 

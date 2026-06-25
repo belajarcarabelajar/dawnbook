@@ -38,14 +38,14 @@ Konsep yang dipopulerkan oleh Kim Scott ini menjelaskan bahwa *feedback* terbaik
 
 ## 3. Seni Menerima Feedback secara Terbuka
 
-Menerima masukan menuntut kematangan emosional yang lebih besar dibanding saat memberikannya. Kita semua memiliki *blind spots*—area perilaku atau kebiasaan diri yang tidak kita sadari, tetapi terlihat sangat jelas oleh orang lain.
+Menerima masukan menuntut kematangan emosional yang lebih besar dibanding saat memberikannya. Kita semua memiliki *blind spots* (area perilaku atau kebiasaan diri yang tidak kita sadari, tetapi terlihat sangat jelas oleh orang lain).
 
 ### Langkah-langkah Menerima Feedback
 
 1. **Dengarkan untuk Memahami, Bukan Membela Diri**: Tahan dorongan spontan untuk langsung membantah, mencari alasan, atau mengatakan "tapi...".
 2. **Ajukan Pertanyaan Klarifikasi**: Jika masukan yang diberikan terasa terlalu umum, bantu mereka untuk memperjelasnya.
    * *Contoh*: "Bisa bantu saya menunjukkan bagian mana dari laporan ini yang menurutmu masih kurang detail?"
-3. **Saring Masukan (*The Sifting Process*)**: Sadarilah bahwa tidak semua *feedback* sepenuhnya objektif atau akurat. Bayangkan seperti mendulang emas. Ambil butiran emas berupa pelajaran berharganya, lalu buang pasir kasarnya—seperti cara penyampaian yang kurang ramah atau bias subjektif dari si pemberi masukan.
+3. **Saring Masukan (*The Sifting Process*)**: Sadarilah bahwa tidak semua *feedback* sepenuhnya objektif atau akurat. Bayangkan seperti mendulang emas. Ambil butiran emas berupa pelajaran berharganya, lalu buang pasir kasarnya, seperti cara penyampaian yang kurang ramah atau bias subjektif dari si pemberi masukan.
 4. **Ucapkan Terima Kasih**: Langkah ini menunjukkan bahwa kamu adalah rekan kerja yang aman dan terbuka untuk diajak berdiskusi secara jujur.
 
 ## 4. Aplikasi di Dunia Nyata: Skenario dan Studi Kasus

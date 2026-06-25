@@ -14,7 +14,7 @@ Langkah inovatif ini terbukti berhasil melahirkan lulusan yang tidak terkurung d
 
 #### b. Pendidikan Psikedelik Multidisiplin di University of Maryland, Baltimore (UMB)
 
-Pada tahun 2023, kolaborasi lintas ilmu di UMB menelurkan program pelatihan terjangkau yang mengupas tuntas terapi psikedelik. Tiga fakultas—Pekerjaan Sosial, Farmasi, dan Keperawatan—bersinergi menyusun rangkaian edukasi interprofesional bertajuk *"Multidisciplinary Perspectives on Psychedelic Science and Medicine"*. Pembahasan di dalamnya membentang dari aspek psikofarmakologi, uji klinis, etika profesi, aksesibilitas, hingga strategi meminimalkan risiko (*harm reduction*).
+Pada tahun 2023, kolaborasi lintas ilmu di UMB menelurkan program pelatihan terjangkau yang mengupas tuntas terapi psikedelik. Tiga fakultas (Pekerjaan Sosial, Farmasi, dan Keperawatan) bersinergi menyusun rangkaian edukasi interprofesional bertajuk *"Multidisciplinary Perspectives on Psychedelic Science and Medicine"*. Pembahasan di dalamnya membentang dari aspek psikofarmakologi, uji klinis, etika profesi, aksesibilitas, hingga strategi meminimalkan risiko (*harm reduction*).
 
 Inisiatif tersebut mendapat sambutan hangat dengan partisipasi lebih dari 200 mahasiswa serta praktisi berlisensi. Angka ini menegaskan besarnya kebutuhan edukasi lintas disiplin pada sektor yang sedang berkembang pesat ini. Dampak jangka panjangnya, keberhasilan program awal tersebut berhasil mengamankan pendanaan hibah untuk membangun infrastruktur kurikulum interprofesional yang mapan di bidang terapi psikedelik.
 
@@ -38,7 +38,7 @@ Pengalaman dari proyek-proyek ini menunjukkan bahwa kunci utama riset lintas dis
 
 Sebagai salah satu kerja sama ilmiah paling bersejarah, *Human Genome Project* berhasil memetakan serta mengurutkan seluruh cetak biru genetik manusia. Keberhasilan proyek raksasa ini ditopang oleh kolaborasi lintas ilmu, mulai dari biologi molekuler, genetika, epidemiologi, teknologi genomik, bioetika, hingga bioinformatika.
 
-Rampung pada tahun 2003, megaproyek ini menghasilkan tumpukan data yang membuka jalan bagi deteksi variasi genetik serta mekanisme penyakit di tingkat seluler. Proyek ini juga meletakkan fondasi bagi pengembangan pengobatan personal (*personalized medicine*). Dalam prosesnya, bidang bioinformatika—perpaduan biologi dan ilmu komputer—memegang peran vital dalam menerjemahkan limpahan data genomik tersebut.
+Rampung pada tahun 2003, megaproyek ini menghasilkan tumpukan data yang membuka jalan bagi deteksi variasi genetik serta mekanisme penyakit di tingkat seluler. Proyek ini juga meletakkan fondasi bagi pengembangan pengobatan personal (*personalized medicine*). Dalam prosesnya, bidang bioinformatika (perpaduan biologi dan ilmu komputer) memegang peran vital dalam menerjemahkan limpahan data genomik tersebut.
 
 #### c. Riset Kanker
 
@@ -50,7 +50,7 @@ Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya ter
 
 ### 3. Pengembangan Produk Industri: Inovasi Terpadu Berorientasi Pengguna
 
-Dalam industri manufaktur dan teknologi, penerapan metode multidisiplin membantu tim mengintegrasikan seluruh proses pengembangan produk—sejak konsep awal desain hingga strategi pemasaran—sehingga produk yang dihasilkan lebih inovatif dan diterima pasar.
+Dalam industri manufaktur dan teknologi, penerapan metode multidisiplin membantu tim mengintegrasikan seluruh proses pengembangan produk (sejak konsep awal desain hingga strategi pemasaran) sehingga produk yang dihasilkan lebih inovatif dan diterima pasar.
 
 #### a. Proyek Desain Cerdas di HAMK Design Factory (Kolaborasi Universitas-Industri)
 
@@ -81,7 +81,7 @@ Masalah sosial jarang sekali berdiri sendiri. Karena memiliki keterkaitan erat d
 
 #### a. Inisiatif Positive Deviance di Vietnam (Mengatasi Malnutrisi Anak)
 
-Pada tahun 1990, Jerry Sternin bersama Monique Sternin mengemban misi dari pemerintah Vietnam untuk mengatasi problem gizi buruk anak di sepuluh ribu desa. Alih-alih mendatangkan bantuan pangan instan dari luar, mereka menerapkan konsep *Positive Deviance*. Pendekatan ini berfokus mencari keluarga miskin di komunitas setempat yang anak-anaknya justru tumbuh sehat dan bebas dari gizi buruk—mereka yang menunjukkan perilaku "menyimpang secara positif".
+Pada tahun 1990, Jerry Sternin bersama Monique Sternin mengemban misi dari pemerintah Vietnam untuk mengatasi problem gizi buruk anak di sepuluh ribu desa. Alih-alih mendatangkan bantuan pangan instan dari luar, mereka menerapkan konsep *Positive Deviance*. Pendekatan ini berfokus mencari keluarga miskin di komunitas setempat yang anak-anaknya justru tumbuh sehat dan bebas dari gizi buruk, yaitu mereka yang menunjukkan perilaku "menyimpang secara positif".
 
 Setelah diamati, keluarga-keluarga ini ternyata mempraktikkan kebiasaan makan unik yang berbeda dengan warga lain, seperti menambahkan udang rawa, kepiting sawah, atau daun ubi ke dalam porsi makan anak, serta memberikan makanan dalam porsi kecil namun sering. Melalui transfer pengetahuan antarwarga, praktik lokal ini kemudian diadopsi secara luas oleh komunitas setempat. Metode pemecahan masalah yang berakar pada kearifan lokal ini sukses menurunkan angka malnutrisi secara berkelanjutan karena selaras dengan kemampuan dan budaya masyarakat.
 

@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe yang baru, atau merasa otak kamu "tumpul" saat terjebak dalam rutinitas yang monoton selama berbulan-bulan? Itu bukan sekadar perasaan. Otak kita bukanlah entitas yang terisolasi di dalam tempurung kepala; ia adalah organ yang sangat responsif terhadap dunia luar.
 
-Dalam bagian ini, kita akan mengeksplorasi bagaimana dunia di sekitar kita—apa yang kita lihat, dengar, dan alami—secara fisik mengubah arsitektur otak kita melalui konsep yang dikenal sebagai **Enriched Environment** (Lingkungan yang Diperkaya).
+Dalam bagian ini, kita akan mengeksplorasi bagaimana dunia di sekitar kita,apa yang kita lihat, dengar, dan alami,secara fisik mengubah arsitektur otak kita melalui konsep yang dikenal sebagai **Enriched Environment** (Lingkungan yang Diperkaya).
 
 ## 1\. Konsep "Enriched Environment": Gimnasium untuk Otak
 

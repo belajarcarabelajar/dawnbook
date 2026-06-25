@@ -2,7 +2,7 @@
 
 Pernahkah kamu memperhatikan sebuah bola tenis dan sebuah telur yang dijatuhkan ke lantai? Telur akan hancur berkeping-keping saat menghadapi benturan, sementara bola tenis akan memantul kembali, bahkan terkadang lebih tinggi dari posisi awalnya.
 
-Dalam menghadapi **Quarter-Life Crisis**, kita sering kali merasa seperti telur—rapuh dan mudah retak di bawah tekanan ekspektasi dan ketidakpastian. Namun, kapasitas mental manusia sebenarnya dirancang untuk menjadi seperti bola tenis. Inilah yang kita sebut sebagai **Resiliensi**.
+Dalam menghadapi **Quarter-Life Crisis**, kita sering kali merasa seperti telur, rapuh dan mudah retak di bawah tekanan ekspektasi dan ketidakpastian. Namun, kapasitas mental manusia sebenarnya dirancang untuk menjadi seperti bola tenis. Inilah yang kita sebut sebagai **Resiliensi**.
 
 Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa mengeluh. Ini adalah kemampuan untuk beradaptasi, pulih, dan tumbuh lebih kuat setelah mengalami kegagalan, kesulitan, atau stres yang berat.
 
@@ -10,9 +10,9 @@ Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa m
 
 Resiliensi tidak muncul secara ajaib. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
 
-\\[
-\\text{Resiliensi} = \\frac{\\text{Pola Pikir Adaptif} + \\text{Dukungan Sosial}}{\\text{Tingkat Tekanan}}
-\\]
+\[
+\text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
+\]
 
 Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi tetap terjaga.
 
@@ -28,7 +28,7 @@ Dalam bukunya, Nassim Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu 
 
 > **Sudut Pandang:** Quarter-Life Crisis adalah api yang bisa menghanguskanmu jika kamu adalah kertas, tetapi akan menempamu menjadi pedang yang tajam jika kamu adalah besi mentah.
 
-*Apakah tantangan yang kamu hadapi saat ini adalah penghalang, atau sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
+*Apakah tantangan yang kamu hadapi saat ini adalah penghalang, or sebenarnya adalah "beban latihan" yang dibutuhkan otot mentalmu untuk tumbuh?*
 
 ### 3. Strategi Memperkuat Kapasitas Mental
 
@@ -45,7 +45,7 @@ Konsep dari Carol Dweck ini menekankan bahwa kecerdasan dan kemampuan bukanlah b
 
 Banyak orang gagal membangun resiliensi karena bersikap terlalu kejam pada diri sendiri. Padahal, resiliensi membutuhkan energi, dan kritik diri yang berlebihan justru menguras energi itu.
 
-- Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tentu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
+- Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tenu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
 
 #### C. Menemukan Locus of Control yang Sehat
 

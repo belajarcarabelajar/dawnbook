@@ -58,11 +58,11 @@ Bayangkan jika kamu menghadapi kegagalan proyek hari ini. Kalimat apa yang perta
 
 Kabar baiknya, optimisme merupakan keterampilan yang bisa dilatih (*learned optimism*). Seligman mengadaptasi metode Terapi Perilaku Kognitif (*Cognitive Behavioral Therapy*) untuk membantu kita merestrukturisasi gaya penjelasan melalui model **ABCDE**:
 
-- **A — Adversity (Kesulitan):** Mengidentifikasi fakta objektif dari situasi sulit secara netral tanpa bumbu emosi. (Contoh: "Atasan mengkritik laporanku.")
-- **B — Belief (Keyakinan):** Menyadari pikiran atau dialog internal yang langsung muncul di kepala saat menghadapi kesulitan tersebut. (Contoh: "Aku tidak berguna.")
-- **C — Consequence (Konsekuensi):** Memahami dampak emosional serta tindakan nyata yang lahir dari keyakinan negatif tersebut. (Contoh: "Aku merasa patah semangat dan ingin menyerah.")
-- **D — Disputation (Sanggahan):** Menantang keyakinan negatif secara aktif menggunakan argumen logis dan bukti empiris yang bertolak belakang. (Contoh: "Tunggu dulu, bulan lalu kinerjaku dipuji saat mengerjakan proyek A. Kritik kali ini hanya ditujukan pada format laporan B.")
-- **E — Energization (Energi Baru):** Merasakan kelegaan mental dan dorongan semangat baru setelah berhasil mematahkan asumsi buruk sebelumnya.
+- **A - Adversity (Kesulitan):** Mengidentifikasi fakta objektif dari situasi sulit secara netral tanpa bumbu emosi. (Contoh: "Atasan mengkritik laporanku.")
+- **B - Belief (Keyakinan):** Menyadari pikiran atau dialog internal yang langsung muncul di kepala saat menghadapi kesulitan tersebut. (Contoh: "Aku tidak berguna.")
+- **C - Consequence (Konsekuensi):** Memahami dampak emosional serta tindakan nyata yang lahir dari keyakinan negatif tersebut. (Contoh: "Aku merasa patah semangat dan ingin menyerah.")
+- **D - Disputation (Sanggahan):** Menantang keyakinan negatif secara aktif menggunakan argumen logis dan bukti empiris yang bertolak belakang. (Contoh: "Tunggu dulu, bulan lalu kinerjaku dipuji saat mengerjakan proyek A. Kritik kali ini hanya ditujukan pada format laporan B.")
+- **E - Energization (Energi Baru):** Merasakan kelegaan mental dan dorongan semangat baru setelah berhasil mematahkan asumsi buruk sebelumnya.
 
 ### Aplikasi Dunia Nyata
 
@@ -81,7 +81,7 @@ Seorang mahasiswa mendapat nilai D pada tugas pertamanya.
 
 ### Analogi: Awan vs. Langit
 
-Bayangkan kemunduran atau peristiwa buruk sebagai awan mendung. Seseorang yang pesimis menganggap awan tersebut sebagai keseluruhan langit — gelap gulita, membentang tanpa batas, dan abadi. Sebaliknya, orang yang optimis menyadari bahwa diri mereka adalah langit itu sendiri, sedangkan awan hitam hanyalah fenomena cuaca yang melintas sementara. Awan itu mungkin pekat, tetapi memiliki batas ruang lingkup yang jelas dan pasti akan bergeser ditiup angin.
+Bayangkan kemunduran atau peristiwa buruk sebagai awan mendung. Seseorang yang pesimis menganggap awan tersebut sebagai keseluruhan langit: gelap gulita, membentang tanpa batas, dan abadi. Sebaliknya, orang yang optimis menyadari bahwa diri mereka adalah langit itu sendiri, sedangkan awan hitam hanyalah fenomena cuaca yang melintas sementara. Awan itu mungkin pekat, tetapi memiliki batas ruang lingkup yang jelas dan pasti akan bergeser ditiup angin.
 
 > **Important:** Optimisme yang sehat tidak berarti kamu melepaskan rasa tanggung jawab. Ini adalah cara memberi dirimu ruang bernapas yang cukup agar dapat bertindak secara efektif, alih-alih lumpuh dalam keputusasaan.
 

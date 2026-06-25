@@ -28,7 +28,7 @@ Lawan dari keadaan tersebut adalah *incongruence*, yang terjadi saat muncul jura
 
 #### Kebutuhan akan Positive Regard
 
-Dalam interaksi sosialnya, setiap individu membutuhkan apresiasi, cinta, dan penerimaan dari lingkungannya—sebuah konsep yang disebut *positive regard*.
+Dalam interaksi sosialnya, setiap individu membutuhkan apresiasi, cinta, dan penerimaan dari lingkungannya, sebuah konsep yang disebut *positive regard*.
 
 Terdapat dua dimensi dalam hal ini:
 
@@ -41,7 +41,7 @@ Hadirnya *unconditional positive regard* memberikan ruang yang aman bagi individ
 
 Target akhir dari pematangan psikologis ala Rogers adalah menjadi *fully functioning person*. Pada tingkat ini, seseorang punya *congruence* tinggi serta dapat merasakan ritme kehidupan dengan penuh keterbukaan, tanpa harus mendirikan benteng pertahanan diri yang kaku.
 
-Pribadi semacam ini mampu memeluk pengalaman hidup secara apa adanya—baik saat suka maupun duka. Mereka menghidupi realitas hari ini secara eksistensial, tidak terbelenggu bayang-bayang masa lalu maupun kecemasan akan hari esok. Daripada memburu validasi publik, mereka bersandar pada intuisi serta penilaian pribadi. Kebebasan dalam mengambil pilihan berjalan beriringan dengan kesiapan memikul risikonya, sehingga mereka lebih lentur dan kreatif saat merespons dinamika hidup.
+Pribadi semacam ini mampu memeluk pengalaman hidup secara apa adanya, baik saat suka maupun duka. Mereka menghidupi realitas hari ini secara eksistensial, tidak terbelenggu bayang-bayang masa lalu maupun kecemasan akan hari esok. Daripada memburu validasi publik, mereka bersandar pada intuisi serta penilaian pribadi. Kebebasan dalam mengambil pilihan berjalan beriringan dengan kesiapan memikul risikonya, sehingga mereka lebih lentur dan kreatif saat merespons dinamika hidup.
 
 #### Aplikasi Dunia Nyata
 
@@ -55,7 +55,7 @@ Nama Abraham Maslow identik dengan cetak biru motivasi yang terangkum dalam *hie
 
 #### Membedah Hierarchy of Needs
 
-Maslow menyusun kebutuhan manusia dalam bentuk piramida hierarkis. Prinsip utamanya, kebutuhan pada lapisan paling bawah wajib dipenuhi—minimal sampai taraf tertentu—sebelum individu mampu mengarahkan fokus dan energinya untuk meraih level di atasnya.
+Maslow menyusun kebutuhan manusia dalam bentuk piramida hierarkis. Prinsip utamanya, kebutuhan pada lapisan paling bawah wajib dipenuhi (minimal sampai taraf tertentu) sebelum individu mampu mengarahkan fokus dan energinya untuk meraih level di atasnya.
 
 Ada lima anak tangga dalam piramida tersebut:
 
@@ -67,11 +67,11 @@ Ada lima anak tangga dalam piramida tersebut:
 
 #### Perjalanan Menuju Self-Actualization
 
-*Self-actualization* adalah proses memahat diri untuk menjadi versi yang paling paripurna sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya—seperti Abraham Lincoln dan Eleanor Roosevelt—Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
+*Self-actualization* adalah proses memahat diri untuk menjadi versi yang paling paripurna sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.
 
 Mereka umumnya sangat toleran dalam menerima kekurangan diri maupun kecacatan orang lain. Dalam kesehariannya, mereka bersikap spontan, natural, dan tidak terikat oleh basa-basi sosial yang semu. Fokus pikirannya jarang berkutat pada masalah pribadi (ego), melainkan tertuju pada persoalan di luar sana yang lebih besar, seolah-olah dipandu oleh sebuah misi.
 
-Orang-orang ini menikmati otonomi penuh dan sangat menghargai privasi. Alih-alih haus pujian luar, kemandirian batin mereka sudah tuntas. Mereka juga acap kali menjumpai *peak experiences*—momen kebahagiaan luar biasa di mana mereka merasa sangat menyatu dengan semesta atau karya yang sedang dikerjakan. Hubungan sosial yang mereka bangun mungkin tidak terlalu masif atau mencolok, tetapi ikatan emosionalnya sangat dalam dan bermakna.
+Orang-orang ini menikmati otonomi penuh dan sangat menghargai privasi. Alih-alih haus pujian luar, kemandirian batin mereka sudah tuntas. Mereka juga acap kali menjumpai *peak experiences*, momen kebahagiaan luar biasa di mana mereka merasa sangat menyatu dengan semesta atau karya yang sedang dikerjakan. Hubungan sosial yang mereka bangun mungkin tidak terlalu masif atau mencolok, tetapi ikatan emosionalnya sangat dalam dan bermakna.
 
 #### Relevansi Maslow di Berbagai Sektor
 

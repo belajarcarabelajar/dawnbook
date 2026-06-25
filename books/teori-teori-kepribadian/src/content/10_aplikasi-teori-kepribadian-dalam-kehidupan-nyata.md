@@ -26,7 +26,7 @@ Dalam proses rekrutmen, tes kepribadian dipakai untuk menilai seberapa cocok cal
 
 Pemahaman kepribadian juga berguna untuk mengembangkan kepemimpinan. Pemimpin yang peka terhadap gaya kerja bawahannya dapat memberikan ruang tumbuh yang lebih terkendali. Jika ada anggota tim yang dominan sifat *introvert*, manajer bisa memberikan kesempatan berkontribusi melalui tulisan atau kelompok kecil ketimbang memaksa mereka selalu berbicara dalam diskusi terbuka.
 
-Selain itu, wawasan ini mempermudah penyelesaian konflik. Perbedaan karakter sering menjadi sumber gesekan. Bagian personalia atau manajer yang mengenali preferensi komunikasi stafnya—misalnya individu yang sangat *agreeable* cenderung menghindari konfrontasi langsung—dapat memfasilitasi mediasi dengan menetapkan aturan komunikasi yang menghargai keberagaman sifat tersebut.
+Selain itu, wawasan ini mempermudah penyelesaian konflik. Perbedaan karakter sering menjadi sumber gesekan. Bagian personalia atau manajer yang mengenali preferensi komunikasi stafnya, misalnya individu yang sangat *agreeable* cenderung menghindari konfrontasi langsung, dapat memfasilitasi mediasi dengan menetapkan aturan komunikasi yang menghargai keberagaman sifat tersebut.
 
 ## 3. Pendidikan
 

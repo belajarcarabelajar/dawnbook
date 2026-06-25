@@ -1,6 +1,6 @@
 ## Konsep Flow: Pengalaman Optimal
 
-Pernahkah kamu tenggelam dalam suatu aktivitas—seperti menulis, bermain musik, atau menyusun kode program—lalu tiba-tiba menyadari bahwa beberapa jam telah berlalu tanpa terasa? Rasa lapar tidak lagi dihiraukan, suara bising di sekitar seakan memudar, dan jemarimu bergerak sendiri menyelesaikan tugas dengan presisi yang luar biasa.
+Pernahkah kamu tenggelam dalam suatu aktivitas (seperti menulis, bermain musik, atau menyusun kode program) lalu tiba-tiba menyadari bahwa beberapa jam telah berlalu tanpa terasa? Rasa lapar tidak lagi dihiraukan, suara bising di sekitar seakan memudar, dan jemarimu bergerak sendiri menyelesaikan tugas dengan presisi yang luar biasa.
 
 Dalam psikologi positif, pengalaman optimal ini dikenal dengan istilah **Flow** (Aliran).
 
@@ -14,7 +14,7 @@ Konsep ini dipelopori oleh **Mihaly Csikszentmihalyi** (diucapkan: *me-high chic
 2. **Menyatunya tindakan dan kesadaran**: Hilangnya jarak antara pelaku dan aktivitas. Kamu tidak lagi menganalisis setiap gerakan, melainkan mengalir bersama apa yang sedang dikerjakan.
 3. **Lumpuhnya kritik internal (*loss of self-consciousness*)**: Suara skeptis di dalam kepala yang biasanya meragukan kemampuanmu seketika menjadi senyap.
 4. **Kendali penuh**: Keyakinan kuat bahwa kamu mampu mengarahkan tindakan serta menentukan hasil akhir tanpa rasa takut gagal.
-5. **Waktu yang melentur**: Distorsi waktu terjadi begitu saja—beberapa jam berlalu layaknya menit, atau sebaliknya, detik-detik penting terasa melambat agar kamu bisa merespons dengan presisi.
+5. **Waktu yang melentur**: Distorsi waktu terjadi begitu saja, beberapa jam berlalu layaknya menit, atau sebaliknya, detik-detik penting terasa melambat agar kamu bisa merespons dengan presisi.
 6. **Umpan balik langsung**: Evaluasi berjalan secara instan; kamu langsung tahu apakah langkah yang diambil sudah tepat atau perlu disesuaikan saat itu juga.
 7. **Kejelasan tujuan**: Arah tindakan berikutnya sudah terpetakan dengan terang, meminimalkan keraguan dalam melangkah.
 8. **Sifat autotelik**: Aktivitas ini bernilai bagi dirimu sendiri. Kamu tidak mengejar imbalan eksternal seperti uang atau pujian, melainkan karena prosesnya sendiri memberikan kepuasan mendalam.
@@ -34,7 +34,7 @@ Misalkan \\( C \\) adalah *Challenge* (Tantangan) dan \\( S \\) adalah *Skill* (
 - **Kondisi Flow:** Terbentuk saat \\( C \\approx S \\) berada pada level yang cukup tinggi.
 
 \\[
-\\text{Flow} \\approx \\frac{\\text{Challenge (High)}}{\\text{Skill (High)}}
+\text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}
 \\]
 
 #### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan:
@@ -96,7 +96,7 @@ def test_encryption_logic():
 
 Mengapa *flow* begitu berharga untuk diupayakan? Mengembangkan kebiasaan untuk masuk ke dalam kondisi *flow* memberikan kontribusi yang nyata bagi kualitas hidup kita sehari-hari.
 
-- **Lonjakan produktivitas**: Berada dalam kondisi *flow* dapat melipatgandakan efisiensi kerja hingga beberapa kali lipat—bahkan sebuah studi dari McKinsey menyebutkan peningkatan performa hingga 500%.
+- **Lonjakan produktivitas**: Berada dalam kondisi *flow* dapat melipatgandakan efisiensi kerja hingga beberapa kali lipat, bahkan sebuah studi dari McKinsey menyebutkan peningkatan performa hingga 500%.
 - **Sumber kebahagiaan sejati**: Temuan Csikszentmihalyi menunjukkan bahwa kepuasan hidup tertinggi tidak datang dari relaksasi pasif, melainkan dari keterlibatan aktif dalam tantangan yang menuntut fokus penuh.
 - **Akselerasi kapasitas diri**: Karena kamu terus beroperasi di batas kemampuan optimal, secara alami kamu akan terdorong untuk meningkatkan keahlian baru demi mengimbangi tantangan yang kian berkembang.
 
@@ -109,4 +109,4 @@ Perlu diingat bahwa *flow* sangat berbeda dengan memaksakan diri bekerja hingga 
 1. *Apakah ada kesamaan tantangan di antara aktivitas tersebut?*
 2. *Bagaimana kamu bisa membawa elemen-elemen tersebut ke dalam pekerjaan atau studimu yang terasa membosankan saat ini?*
 
-> "Kebahagiaan bukanlah sesuatu yang terjadi begitu saja. Kebahagiaan bukanlah hasil dari keberuntungan atau nasib baik semata, melainkan suatu kondisi yang harus dipersiapkan, dikembangkan, dan dijaga oleh setiap orang." — **Mihaly Csikszentmihalyi**
+> "Kebahagiaan bukanlah sesuatu yang terjadi begitu saja. Kebahagiaan bukanlah hasil dari keberuntungan atau nasib baik semata, melainkan suatu kondisi yang harus dipersiapkan, dikembangkan, dan dijaga oleh setiap orang." - **Mihaly Csikszentmihalyi**

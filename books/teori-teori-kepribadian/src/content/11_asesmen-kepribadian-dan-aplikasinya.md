@@ -31,9 +31,9 @@ Tes proyektif meminta individu merespons stimulus ambigu dengan interpretasi beb
 #### 2. Contoh Tes Proyektif:
 
 - **Rorschach Inkblot Test**: Dikembangkan oleh psikolog Hermann Rorschach pada 1921, tes ini menyajikan 10 bercak tinta simetris (hitam-putih, berwarna, abu-abu). Individu diminta menyampaikan apa yang mereka lihat atau direpresentasikan oleh bercak tersebut. Respons dianalisis berdasarkan lokasi, determinan (bentuk, warna, bayangan), dan konten. Tes ini sering digunakan untuk mendeteksi masalah psikologis seperti gangguan pikiran saat pasien enggan terbuka.
-- **Thematic Apperception Test (TAT)**: Dikembangkan oleh Henry Murray dan Christiana Morgan pada 1930-an. Tes ini memakai serangkaian kartu bergambar adegan sosial yang ambigu. Individu diinstruksikan menyusun cerita tentang gambar tersebut—apa yang terjadi sebelumnya, saat ini, pikiran karakter, dan hasilnya. Cerita tersebut dianalisis guna mengungkap tema berulang, *needs* (kebutuhan), konflik, serta persepsi interpersonal.
+- **Thematic Apperception Test (TAT)**: Dikembangkan oleh Henry Murray dan Christiana Morgan pada 1930-an. Tes ini memakai serangkaian kartu bergambar adegan sosial yang ambigu. Individu diinstruksikan menyusun cerita tentang gambar tersebut, termasuk apa yang terjadi sebelumnya, saat ini, pikiran karakter, dan hasilnya. Cerita tersebut dianalisis guna mengungkap tema berulang, *needs* (kebutuhan), konflik, serta persepsi interpersonal.
 - **Draw-a-Person Test (DAP)** dan **Kinetic Family Drawing (KFD)**: Menggunakan media menggambar manusia atau keluarga untuk memetakan kondisi mental. Analisis terfokus pada detail gambar, proporsi, lokasi, ekspresi wajah, serta aspek simbolis. Hal ini memberikan wawasan mengenai *body image* (citra tubuh), emosionalitas, kecemasan, atau tingkat agresi.
-- **Sentence Completion Test**: Individu melengkapi awalan kalimat yang rumpang (contoh: "Hal yang paling saya takuti adalah..."). Respons ini membantu menyingkap sikap, emosi, dan konflik pribadi.
+- **Sentence Completion Test**: Individu melengkapi awalan kalimat yang rumpang (contoh: "Hal yang paling saya takuti adalah..."). Respons ini membantu menyingkap sikap, emoi, dan konflik pribadi.
 
 #### 3. Kritik dan Keunggulan:
 

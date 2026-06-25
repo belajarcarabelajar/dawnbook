@@ -1,6 +1,6 @@
 ## Kepemimpinan Interpersonal dalam Tim T-Shaped: Menjadi Konduktor dalam Orkestra Spesialis
 
-Selamat datang di modul penutup! Setelah kita mempelajari berbagai elemen kecerdasan interpersonal—mulai dari mendengar aktif hingga membangun keamanan psikologis—kini saatnya kita menyatukan semua kepingan tersebut.
+Selamat datang di modul penutup! Setelah kita mempelajari berbagai elemen kecerdasan interpersonal, mulai dari mendengar aktif hingga membangun keamanan psikologis, kini saatnya kita menyatukan semua kepingan tersebut.
 
 Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menjadi perekat yang menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
 

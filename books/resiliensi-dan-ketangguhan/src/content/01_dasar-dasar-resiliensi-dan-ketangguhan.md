@@ -1,6 +1,6 @@
 ## Dasar-Dasar Resiliensi dan Ketangguhan
 
-Pernahkah kamu memperhatikan sebuah pohon bambu saat badai besar melanda? Ia tertiup angin kencang, batangnya melengkung hampir menyentuh tanah, namun ketika badai berlalu, ia tegak kembali—tidak patah, bahkan sering kali tampak lebih bersih dan kuat. Inilah esensi dari apa yang akan kita pelajari: kemampuan untuk tidak hanya bertahan, tetapi juga bangkit kembali.
+Pernahkah kamu memperhatikan sebuah pohon bambu saat badai besar melanda? Ia tertiup angin kencang, batangnya melengkung hampir menyentuh tanah, namun ketika badai berlalu, ia tegak kembali, tidak patah, bahkan sering kali tampak lebih bersih dan kuat. Inilah esensi dari apa yang akan kita pelajari: kemampuan untuk tidak hanya bertahan, tetapi juga bangkit kembali.
 
 Di dunia yang bergerak sangat cepat dan penuh ketidakpastian ini, resiliensi dan ketangguhan tidak hanya menjadi "bonus" karakter, tetapi juga keterampilan bertahan hidup (survival skill) yang mendasar.
 

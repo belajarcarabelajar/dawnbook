@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa setelah berolahraga pagi atau tidur yang cukup, otak kamu terasa lebih "tajam" dan informasi lebih mudah diserap? Itu bukan sekadar perasaan kamu saja. Secara biologis, gaya hidup kamu menentukan seberapa subur "tanah" di otak kamu untuk menumbuhkan koneksi saraf baru.
 
-Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian—apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat—berinteraksi langsung dengan protein ajaib bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
+Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat, berinteraksi langsung dengan protein ajaib bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
 
 ## 1\. BDNF: "Pupuk" bagi Otak kamu
 

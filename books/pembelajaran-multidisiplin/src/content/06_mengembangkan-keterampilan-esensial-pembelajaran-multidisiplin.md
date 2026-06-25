@@ -26,7 +26,7 @@ Menjalin komunikasi antar-disiplin tentu bukan tanpa hambatan. Beberapa tantanga
 
 1. **Tembok jargon:** Setiap bidang studi memiliki istilah teknisnya sendiri yang kerap membingungkan orang luar.
 2. Perbedaan kerangka berpikir membuat suatu konsep yang sama bisa diartikan berbeda atau memicu dampak yang bertolak belakang di bidang lain.
-3. Gaya penyampaian yang kontras—ada disiplin yang sangat kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
+3. Gaya penyampaian yang kontras: ada disiplin yang sangat kaku dan berbasis data teknis, sementara yang lain lebih mengutamakan narasi atau konsep abstrak.
 
 Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi berikut:
 
@@ -38,7 +38,7 @@ Agar pesanmu tersampaikan dengan baik lintas disiplin, cobalah beberapa strategi
 
 ### 3. Empati terhadap Perspektif Berbeda
 
-Empati adalah kemampuan untuk memahami atau merasakan apa yang dialami orang lain dari sudut pandang mereka sendiri—dengan kata lain, menempatkan diri pada posisi orang lain. Dalam pembelajaran multidisiplin, empati melampaui perasaan emosional. Sikap ini melibatkan penghargaan intelektual terhadap cara disiplin ilmu lain melihat dan memecahkan masalah.
+Empati adalah kemampuan untuk memahami atau merasakan apa yang dialami orang lain dari sudut pandang mereka sendiri, dengan kata lain, menempatkan diri pada posisi orang lain. Dalam pembelajaran multidisiplin, empati melampaui perasaan emosional. Sikap ini melibatkan penghargaan intelektual terhadap cara disiplin ilmu lain melihat dan memecahkan masalah.
 
 Mengapa empati sangat penting dalam pembelajaran multidisiplin?
 

@@ -20,9 +20,9 @@ Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara
 
 Dopamin dilepaskan bukan saat kita mendapatkan hadiah, tetapi saat kita **mengharapkan** hadiah. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
 
-\\[
+\[
 \text{Kepuasan} = \text{Realitas} - \text{Ekspektasi}
-\\]
+\]
 
 Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika kamu melihat ikon merah notifikasi, otakmu melepaskan dopamin yang membisikkan, *"Siapa yang menyukai foto saya? Pesan apa ini?"*. Rasa ingin tahu ini menciptakan tekanan psikologis yang hanya bisa diredakan dengan membuka aplikasi tersebut.
 
@@ -56,7 +56,7 @@ Manusia adalah makhluk sosial yang secara evolusioner takut dikucilkan dari kelo
 Selain psikologi internal, ada teknik desain visual yang digunakan untuk memanen perhatian secara agresif:
 
 - **Infinite Scroll (Gulir Tanpa Batas):** Menghilangkan "sinyal berhenti". Di masa lalu, koran memiliki halaman terakhir dan buku memiliki bab penutup. *Infinite scroll* membuat konsumsi informasi menjadi tanpa dasar, sehingga otak tidak pernah menerima sinyal untuk berhenti.
-- **Autoplay:** Sebelum kamu sempat memutuskan untuk berhenti menonton, video berikutnya sudah dimulai. Ini memanfaatkan **inersia kognitif** —lebih mudah untuk terus menonton daripada mengambil tindakan untuk berhenti.
+- **Autoplay:** Sebelum kamu sempat memutuskan untuk berhenti menonton, video berikutnya sudah dimulai. Ini memanfaatkan **inersia kognitif** ,lebih mudah untuk terus menonton daripada mengambil tindakan untuk berhenti.
 - **The Red Dot (Titik Merah):** Warna merah dipilih karena secara instingtual menandakan bahaya atau urgensi dalam alam bawah sadar manusia, memaksa mata kita untuk segera melihatnya.
 
 ## 6\. Anatomi Sebuah Sesi Media Sosial
@@ -68,7 +68,7 @@ Mari kita lihat bagaimana teori-teori di atas bekerja dalam skenario nyata:
 1. **Pemicu (Trigger):** Kamu merasa sedikit bosan atau stres (ketidaknyamanan emosional).
 2. **Tindakan (Action):** Secara otomatis, tanganmu merogoh saku dan membuka Instagram.
 3. **Hadiah Variabel (Variable Reward):** Kamu melakukan *pull-to-refresh*. Foto pertama biasa saja, foto kedua adalah iklan, tapi foto ketiga adalah foto mantanmu yang baru saja bertunangan. **BOOM!** Dopamin melonjak. Kamu terpaku untuk mencari tahu lebih lanjut.
-4. **Investasi (Investment):** Kamu memberikan *like* atau menulis komentar. Sekarang kamu telah "menanam saham" dan akan terus kembali untuk melihat apakah ada orang yang membalas komentarmu.
+4. **Investasi (Investment):** Kamu memberikan *like* or menulis komentar. Sekarang kamu telah "menanam saham" dan akan terus kembali untuk melihat apakah ada orang yang membalas komentarmu.
 
 ### Perbandingan Efek Psikologis
 

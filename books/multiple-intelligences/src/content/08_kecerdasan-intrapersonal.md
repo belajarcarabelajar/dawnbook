@@ -86,4 +86,4 @@ Sebagai contoh, seseorang mungkin memiliki kecerdasan **Logis-Matematis** yang s
 
 **Penting:**
 
-> "Mengenal orang lain adalah kecerdasan; mengenal diri sendiri adalah kebijaksanaan sejati. Menguasai orang lain adalah kekuatan; menguasai diri sendiri adalah kekuasaan sejati." — *Lao Tzu*
+> "Mengenal orang lain adalah kecerdasan; mengenal diri sendiri adalah kebijaksanaan sejati. Menguasai orang lain adalah kekuatan; menguasai diri sendiri adalah kekuasaan sejati." - *Lao Tzu*

@@ -1,6 +1,6 @@
 ## Mengatasi Hambatan dalam Latihan Metakognisi
 
-Mengembangkan keterampilan metakognitif—kemampuan untuk memikirkan proses berpikir diri sendiri—memang butuh waktu. Sama seperti belajar hal baru lainnya, pasti ada rintangan yang membuat progres menjadi lambat. Kalau kamu paham apa saja tantangannya dan tahu cara menghadapinya, menguasai metakognisi bakal terasa lebih mudah. Di bagian ini, kita akan membongkar beberapa hambatan yang paling sering muncul sekaligus solusi praktisnya.
+Mengembangkan keterampilan metakognitif (kemampuan untuk memikirkan proses berpikir diri sendiri) memang butuh waktu. Sama seperti belajar hal baru lainnya, pasti ada rintangan yang membuat progres menjadi lambat. Kalau kamu paham apa saja tantangannya dan tahu cara menghadapinya, menguasai metakognisi bakal terasa lebih mudah. Di bagian ini, kita akan membongkar beberapa hambatan yang paling sering muncul sekaligus solusi praktisnya.
 
 ## Mengenali Tantangan Umum
 
@@ -106,7 +106,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 
 1. **Rutin Mengisi Jurnal Belajar**
    Biasakan mencatat pengalaman belajarmu. Tulis apa saja yang baru dipelajari, bagaimana cara memahaminya, bagian mana yang susah, dan bagaimana kamu mengatasinya.
-   Misalnya: "Hari ini aku belajar tentang \\( C_6H_{12}O_6 \\). Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
+   Misalnya: "Hari ini aku belajar tentang \( C_6H_{12}O_6 \). Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
 2. **Bertanya pada Diri Sendiri**
    Jadikan pertanyaan reflektif sebagai kebiasaan:
    - **Sebelum:** "Targetku sesi ini apa? Mau pakai cara belajar yang mana?"
@@ -140,7 +140,7 @@ Biar lebih tergambar, coba kita lihat skenario ini. Amir sering banget menunda t
    - Review dan perbaikan akhir.
 2. **Menggunakan Pomodoro:** Dia menerapkan teknik Pomodoro buat mengerjakan tiap langkah kecil itu. Fokus 25 menit, lalu istirahat 5 menit. Efeknya, beban kerja terasa lebih ringan dan dia lebih gampang menemukan ritme menulisnya.
 3. **Jurnal Reflektif:** Selesai menulis, dia mencatat apa yang dirasakan. Misalnya, "Ternyata menulis intro itu bagian yang paling menguras otak, tapi untungnya beres juga. Mungkin *next time* mending aku membaca referensi intro dulu biar gampang dapat ide."
-4. **Kalibrasi Waktu:** Sebelum mulai mengetik, Amir menebak dulu butuh waktu berapa lama. Ini membantunya untuk menyesuaikan ekspektasi sama kenyataan, biar tidak *overconfident* merasa bisa menyelesaikan semuanya dalam semalam.
+4. **Kalibrasi Waktu:** Sebelum mulai mengetik, Amir tebak dulu butuh waktu berapa lama. Ini membantunya untuk menyesuaikan ekspektasi sama kenyataan, biar tidak *overconfident* merasa bisa menyelesaikan semuanya dalam semalam.
 5. **Cari Teman Diskusi:** Sesekali dia mengobrol bareng temannya untuk membahas ide esai. Dari sini dia bisa mendapat masukan baru dan menghindari bias akibat merasa ide awalnya sudah paling benar.
 
 Hasilnya? Dengan pendekatan metakognitif ini, Amir pelan-pelan bisa mengurangi kebiasaan menundanya. Kualitas esainya juga membaik karena dia lebih mengerti bagaimana cara kerja otaknya sendiri dan bisa menyesuaikan strategi belajar di waktu yang tepat.

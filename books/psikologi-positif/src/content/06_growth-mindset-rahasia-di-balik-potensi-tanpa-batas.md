@@ -2,7 +2,7 @@
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan bakat yang sama, namun mencapai hasil yang jauh berbeda? Atau mengapa kegagalan membuat sebagian orang terpuruk, sementara yang lain justru semakin terpacu? Jawabannya sering kali terletak pada *mindset* (pola pikir) mereka, bukan pada tingkat IQ atau faktor keberuntungan semata.
 
-Konsep *Growth Mindset* (Pola Pikir Berkembang), yang dipopulerkan oleh psikolog Stanford, Carol Dweck, telah merevolusi cara kita memahami kesuksesan, motivasi, dan ketahanan manusia—mulai dari dunia pendidikan, bisnis, hingga hubungan personal.
+Konsep *Growth Mindset* (Pola Pikir Berkembang), yang dipopulerkan oleh psikolog Stanford, Carol Dweck, telah merevolusi cara kita memahami kesuksesan, motivasi, dan ketahanan manusia, mulai dari dunia pendidikan, bisnis, hingga hubungan personal.
 
 ### Memahami Dikotomi: Fixed vs. Growth Mindset
 

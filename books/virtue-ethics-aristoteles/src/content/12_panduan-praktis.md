@@ -10,7 +10,7 @@ Berikut adalah panduan praktis untuk mengubah konsep-konsep filosofis tersebut m
 
 Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etika kebajikan, ini disebut dengan evaluasi diri terhadap **Doktrin Jalan Tengah**.
 
-**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) atau terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
+**Analogi:** Bayangkan karakter kamu seperti sebuah instrumen musik yang senarnya mungkin terlalu kendor (kekurangan/defisiensi) or terlalu kencang (kelebihan/ekses). Kamu perlu menyetemnya agar menghasilkan nada yang harmonis.
 
 - **Latihan:** Pilih satu kebajikan (misalnya: Keberanian).
 - **Identifikasi Ekstrem:**
@@ -75,8 +75,8 @@ Kamu tidak bisa menjadi bajik sendirian di ruang hampa. Karakter kita sangat dip
 - **Cari Role Model:** Siapa orang dalam hidup kamu yang memanifestasikan kebajikan yang ingin kamu miliki? Pelajari cara mereka bereaksi terhadap tekanan.
 - **Kontribusi Sosial:** Gunakan kebajikan kamu untuk melayani orang lain. *Eudaimonia* (kebahagiaan sejati) seringkali ditemukan saat kita melampaui kepentingan diri sendiri dan berkontribusi pada kesejahteraan *Polis* (komunitas) kita.
 
-**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**—sebuah keadaan di mana kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
+**Penting:** Ingatlah bahwa tujuan akhir dari semua latihan ini bukanlah untuk menjadi orang yang "merasa paling suci", melainkan untuk mencapai kondisi **Flourishing**, sebuah keadaan di mana kamu hidup sepenuhnya sesuai dengan potensi terbaik kemanusiaan kamu.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Dengan demikian, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." — (Sering diatribusikan kepada Aristoteles sebagai ringkasan pemikirannya).
+> "Kita adalah apa yang kita kerjakan berulang kali. Dengan demikian, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." - (Sering diatribusikan kepada Aristoteles sebagai ringkasan pemikirannya).
 
 **Langkah Kamu Selanjutnya:** Identifikasi satu situasi yang biasanya membuat kamu kehilangan kendali (marah, malas, atau tidak jujur). Besok, ketika situasi itu muncul, berhentilah selama 5 detik. Gunakan 5 detik itu untuk memilih tindakan yang mencerminkan "Versi Terbaik" diri kamu. Itulah langkah pertama menuju hidup yang berkualitas.

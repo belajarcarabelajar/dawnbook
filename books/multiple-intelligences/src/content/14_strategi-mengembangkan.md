@@ -45,7 +45,7 @@ Salah satu cara terbaik melatih kecerdasan ini adalah dengan membiasakan pembuat
 ### 4\. Kecerdasan Kinestetik (Tubuh)
 
 - **Kelas Keterampilan:** Ambil kelas yang menuntut ketangkasan tangan seperti memasak, pertukangan kayu, atau kerajinan tangan.
-- **Koneksi Pikiran-Tubuh:** Olahraga yang menguji koordinasi tingkat tinggi—seperti yoga, menari, atau seni bela diri—sangat efektif membangun kesadaran spasial tubuh.
+- **Koneksi Pikiran-Tubuh:** Olahraga yang menguji koordinasi tingkat tinggi (seperti yoga, menari, atau seni bela diri) sangat efektif membangun kesadaran spasial tubuh.
 
 ### 5\. Kecerdasan Musikal (Nada/Irama)
 

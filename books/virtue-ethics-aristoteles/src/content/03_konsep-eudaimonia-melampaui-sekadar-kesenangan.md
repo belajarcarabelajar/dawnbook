@@ -57,7 +57,7 @@ Bagi para penelaah Etika Kebajikan, akumulasi aset atau kebugaran otot tidak per
 
 ## 6. Aplikasi Eudaimonia di Pusaran Era Modern
 
-Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung luar biasa dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya mempertebal kehampaan nurani. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam—kendati dengan skema kompensasi yang lebih ketat—ia tengah melangkah masuk ke teritori Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi peradaban (Kebajikan).
+Sebagai bahan renungan di ranah profesional, bayangkan sosok arsitek perangkat lunak yang mengeruk untung luar biasa dengan membangun sistem algoritma untuk aplikasi penipuan digital. Kekayaan mengelilinginya, namun rutinitasnya mempertebal kehampaan nurani. Jika ia memutuskan beralih merancang sistem peringatan dini bencana alam (kendati dengan skema kompensasi yang lebih ketat), ia tengah melangkah masuk ke teritori Eudaimonia. Kapasitas intelektualnya (Akal Budi) digunakan untuk memastikan hadirnya manfaat konkret bagi peradaban (Kebajikan).
 
 Dalam kerangka hubungan interpersonal, dorongan mencari pertemanan tak jarang kandas di tahap pelarian akhir pekan semata. Filosofi eudaimonik mendorong standar yang lebih matang: kita merawat lingkaran kolega berlandaskan penghargaan mendalam atas integritas intelektual, di mana setiap individu bersedia mengambil peran aktif menolong satu sama lain bangkit dari keterpurukan.
 
@@ -67,4 +67,4 @@ Filosofi Eudaimonia menakar pencapaian manusia lewat barometer yang senantiasa b
 
 Dalam parameter objektif, merayakan tumpukan harta hasil memeras hak orang lain telah mencoret individu dari daftar kandidat yang layak mencapai Eudaimonia, sebab kemenangannya dibangun di atas puing-puing nilai kemanusiaannya sendiri.
 
-> "Satu burung walet tidak membuat musim semi; begitu pula, satu hari atau satu saat kebahagiaan tidak membuat seseorang sepenuhnya diberkati dan bahagia." — **Aristoteles**
+> "Satu burung walet tidak membuat musim semi; begitu pula, satu hari atau satu saat kebahagiaan tidak membuat seseorang sepenuhnya diberkati dan bahagia." - **Aristoteles**

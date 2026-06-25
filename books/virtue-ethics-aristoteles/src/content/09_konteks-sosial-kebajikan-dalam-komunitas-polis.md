@@ -6,7 +6,7 @@ Pernahkah kamu membayangkan pahlawan yang hidup sendirian di pulau terpencil tan
 
 Aristoteles mencetuskan istilah **Zoon Politikon**, yang diterjemahkan sebagai "hewan politik" atau "makhluk sosial".
 
-> "Ia yang tidak bisa hidup dalam masyarakat, atau yang tidak membutuhkan apa-apa karena ia sudah merasa cukup bagi dirinya sendiri, pastilah seekor binatang buas atau seorang dewa." — **Aristoteles**
+> "Ia yang tidak bisa hidup dalam masyarakat, atau yang tidak membutuhkan apa-apa karena ia sudah merasa cukup bagi dirinya sendiri, pastilah seekor binatang buas atau seorang dewa." , **Aristoteles**
 
 Pernyataan ini menegaskan bahwa identitas manusia tidak terlepas dari komunitasnya. Kita membutuhkan orang lain untuk bertahan hidup sekaligus mencapai **Eudaimonia** (perkembangan diri yang utuh). Komunitas menjadi tempat karakter kita diuji, diasah, dan diwujudkan.
 

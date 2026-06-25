@@ -16,7 +16,7 @@ Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: \\(x, y, \tex
 
 **Analogi: Kanvas Internal**
 
-> Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya \\(180^\circ\\), mengubah warnanya, dan melihat bayangan yang jatuh di atasnya—semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
+> Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya \\(180^\circ\\), mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
 
 Dalam matematika dan fisika, hal ini sering digunakan untuk memvisualisasikan vektor atau koordinat:
 \\[ \vec{v} = xi + yj + zk \\]
@@ -24,7 +24,7 @@ Orang dengan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam 
 
 ## 3\. Karakteristik Individu Visual-Spasial
 
-Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya alih-alih sekadar mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari puzzle, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail—seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
+Seseorang dengan kecerdasan spasial yang dominan biasanya menunjukkan navigasi yang tangguh. Mereka jarang tersesat dan memiliki peta mental yang kuat terhadap lingkungan sekitar. Saat mendengar sebuah konsep, mereka lebih suka memvisualisasikannya alih-alih sekadar mengingat rentetan kata. Mereka juga sangat menyukai aktivitas bongkar pasang, mulai dari puzzle, mainan konstruksi, hingga penyusunan struktur rumit. Selain itu, ada kepekaan tajam terhadap detail, seperti tata letak furnitur yang sedikit bergeser atau kombinasi warna yang kurang harmonis.
 
 Kecenderungan ini juga sangat terlihat ketika mereka mencoba mengingat rute perjalanan. Mereka jauh lebih mudah mengingat patokan visual seperti gedung biru yang besar dibandingkan instruksi jarak dalam satuan meter.
 

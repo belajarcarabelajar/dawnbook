@@ -15,7 +15,7 @@ Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau
 ### Karakteristik Logos:
 
 - **Universal:** Berlaku di seluruh penjuru semesta tanpa kecuali.
-- **Rasional:** Segala sesuatu terjadi karena ada sebab-akibat yang logis (\\( P \rightarrow Q \\)).
+- **Rasional:** Segala sesuatu terjadi karena ada sebab-akibat yang logis (\( P \rightarrow Q \)).
 - **Deterministik:** Ada hukum alam yang mengatur jalannya peristiwa (seperti gravitasi atau siklus hidup).
 
 ## 2\. Dua Dimensi "Alam" dalam Stoikisme
@@ -26,7 +26,7 @@ Bagi seorang Stoik, kata "Alam" (*Phusis*) merujuk pada dua hal yang harus disel
 
 Ini adalah hukum fisik dan takdir yang mengatur dunia. Kita hidup selaras dengan alam semesta ketika kita menerima realitas apa adanya, tanpa mengeluh.
 
-> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana mestinya, maka kamu akan sejahtera." — **Epictetus**
+> "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana mestinya, maka kamu akan sejahtera." , **Epictetus**
 
 ### B. Alam Manusia (Human Nature)
 
@@ -53,11 +53,11 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 
 Kita dapat menggambarkan kedamaian batin dalam Stoikisme dengan rumus sederhana:
 
-\\[ 
+\[ 
 \text{Penderitaan} = \text{Realitas} - \text{Ekspektasi}
- \\]
+ \]
 
-Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: \\( \text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0 \\)
+Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: \( \text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0 \)
 
 Ketika kita menolak alam (menginginkan sesuatu yang di luar kendali kita atau melawan hukum alam), kita menciptakan pertentangan dalam diri kita sendiri.
 

@@ -2,7 +2,7 @@
 
 Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di ketinggian 20 meter. Mengapa mereka berani melompat dan bersalto di udara tanpa ragu? Jawabannya bukan karena mereka tidak takut jatuh, melainkan karena ada jaring pengaman di bawah mereka. Latihan ribuan jam memang penting, tetapi jaring itulah yang memberi mereka keyakinan untuk mencoba gerakan ekstrem. Jika terjatuh, jaring tersebut siap menangkap mereka dari benturan fatal.
 
-Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja di mana setiap orang merasa aman mengambil risiko interpersonal—seperti mengakui kesalahan atau mengusulkan ide eksperimental—tanpa takut dipermalukan atau dihukum.
+Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja di mana setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
 
 ## 1. Perbedaan Mendasar: Trust vs. Psychological Safety
 

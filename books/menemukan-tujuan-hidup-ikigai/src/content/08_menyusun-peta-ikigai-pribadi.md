@@ -1,6 +1,6 @@
 ## Menyusun Peta Ikigai Pribadi 🗺️
 
-Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam—apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang—kini saatnya memadukan penemuan-penemuan tersebut. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
+Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang, kini saatnya memadukan penemuan-penemuan tersebut. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
 
 ### Mengapa Menyusun Peta Ikigai?
 
@@ -54,7 +54,7 @@ Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu denga
 
 #### Langkah 4: Temukan Inti Ikigai
 
-Setelah memetakan persimpangan dua lingkaran, arahkan perhatian ke pusat Diagram Venn—titik temu keempat lingkaran tersebut. Di sinilah letak Ikigai kamu.
+Setelah memetakan persimpangan dua lingkaran, arahkan perhatian ke pusat Diagram Venn, titik temu keempat lingkaran tersebut. Di sinilah letak Ikigai kamu.
 
 Cari benang merah dari keempat pilar dan area persimpangan. Temukan kegiatan, peran, atau tujuan yang mampu merangkul semua elemen ini. Jika kamu suka menulis, jago memecahkan masalah, dunia butuh inspirasi, dan konten tulisan bisa mendatangkan penghasilan, maka Ikigai kamu mungkin menggunakan tulisan untuk menginspirasi dan memecahkan masalah, yang juga memberdayakan secara finansial.
 

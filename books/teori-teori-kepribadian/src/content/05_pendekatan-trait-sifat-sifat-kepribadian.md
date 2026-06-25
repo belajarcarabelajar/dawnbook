@@ -32,7 +32,7 @@ Selain itu, Cattell juga mengelompokkan sifat menjadi *ability traits* (kemampua
 
 ## Hans Eysenck: Dimensi Kepribadian Biologis
 
-Hans J. Eysenck membangun teori kepribadian yang mengakar pada aspek biologis dan genetik. Melalui analisis faktor yang ketat, Eysenck merumuskan tiga dimensi kepribadian utama—sering dikenal sebagai model PEN:
+Hans J. Eysenck membangun teori kepribadian yang mengakar pada aspek biologis dan genetik. Melalui analisis faktor yang ketat, Eysenck merumuskan tiga dimensi kepribadian utama (sering dikenal sebagai model PEN):
 
 **Extraversion vs. Introversion**
 Individu ekstrovert lekat dengan pembawaan dinamis, aktif, dan sangat butuh bersosialisasi. Secara biologis, mereka butuh banyak stimulasi indrawi agar korteks otaknya aktif. Sebaliknya, orang introvert punya *Cortical Arousal Level* (CAL) bawaan yang sudah terlampau tinggi. Karena itu, mereka hanya perlu sedikit stimulasi dan lebih memilih menarik diri dari situasi yang ramai.
@@ -59,6 +59,6 @@ Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karak
 
 ## Penerapan di Dunia Nyata
 
-Gagasan tentang sifat bawaan ini dipakai amat luas di lapangan. Di lingkup organisasi, profil sifat membantu proses seleksi dan penyusunan tim kerja—seorang agen penjualan mungkin butuh ekstraversi tinggi, sementara auditor amat butuh *conscientiousness* yang tebal. 
+Gagasan tentang sifat bawaan ini dipakai amat luas di lapangan. Di lingkup organisasi, profil sifat membantu proses seleksi dan penyusunan tim kerja: seorang agen penjualan mungkin butuh ekstraversi tinggi, sementara auditor amat butuh *conscientiousness* yang tebal. 
 
 Pada ranah klinis, mengenali tingginya neurotisisme membantu terapis melacak akar kerentanan klien terhadap gangguan kecemasan. Sama halnya di dunia pendidikan, memahami apakah siswa punya sifat keterbukaan atau ketelitian memudahkan guru menyesuaikan tempo pengajaran yang paling pas. Model kepribadian ini menyediakan cetak biru yang kokoh untuk meneliti benang merah antara kepribadian dasar dan perjalanan hidup manusia di kemudian hari.

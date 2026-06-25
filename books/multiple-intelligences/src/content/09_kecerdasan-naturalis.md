@@ -1,6 +1,6 @@
 ## Kecerdasan Naturalis: Koneksi dengan Alam
 
-Selamat datang di penjelajahan kecerdasan kedelapan dalam teori Howard Gardner. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela—ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
+Selamat datang di penjelajahan kecerdasan kedelapan dalam teori Howard Gardner. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela, ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
 
 Kecerdasan Naturalis melampaui rasa cinta terhadap alam. Kemampuan kognitif ini memungkinkan seseorang mengenali, mengklasifikasikan, dan menarik kesimpulan dari elemen-elemen lingkungan sekitarnya.
 
@@ -34,7 +34,7 @@ Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tut
 
 ## Spektrum Kecerdasan Naturalis: Dari Pemula ke Ahli
 
-Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tahap awal, seseorang mulai mengenali perbedaan antarspesies yang umum, seperti membedakan kucing dari anjing atau mawar dari melati. Seiring berjalannya waktu, pemahamannya naik ke tingkat menengah, di mana ia mampu mencerna siklus hidup organisme dan menyesuaikan tindakannya—seperti petani yang tahu persis kapan mulai menanam padi dengan melihat rasi bintang atau pola cuaca.
+Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tahap awal, seseorang mulai mengenali perbedaan antarspesies yang umum, seperti membedakan kucing dari anjing atau mawar dari melati. Seiring berjalannya waktu, pemahamannya naik ke tingkat menengah, di mana ia mampu mencerna siklus hidup organisme dan menyesuaikan tindakannya, seperti petani yang tahu persis kapan mulai menanam padi dengan melihat rasi bintang atau pola cuaca.
 
 Pada tingkat yang lebih tinggi, seorang naturalis bisa melakukan analisis ekosistem yang berlapis. Mereka mampu memetakan interaksi rumit, misalnya bagaimana aktivitas mikroorganisme dalam tanah memengaruhi ketahanan dan kesehatan hutan secara global.
 
@@ -50,14 +50,14 @@ Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantun
 
 Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai merasakan ritme sekitarnya.
 
-Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau ia memperhatikan ada spesies tanaman invasif baru yang mulai mencekik tajuk pohon tempat burung bersarang. Ia bahkan bisa mencatat tingkat kekeruhan air sungai yang berbeda sesaat sesudah hujan gerimis. Melalui observasi berlapis ini, ia mampu menyimpulkan bahwa perubahan iklim mikro di lantai hutan—akibat pembukaan lahan di kejauhan—telah menggeser siklus menetas serangga yang menjadi pakan utama burung tersebut. Kemampuan inilah yang disebut sebagai seni menyambungkan titik-titik dalam sebuah ekosistem.
+Mungkin ia menyadari perubahan frekuensi dengungan serangga di pagi hari. Atau ia memperhatikan ada spesies tanaman invasif baru yang mulai mencekik tajuk pohon tempat burung bersarang. Ia bahkan bisa mencatat tingkat kekeruhan air sungai yang berbeda sesaat sesudah hujan gerimis. Melalui observasi berlapis ini, ia mampu menyimpulkan bahwa perubahan iklim mikro di lantai hutan (akibat pembukaan lahan di kejauhan) telah menggeser siklus menetas serangga yang menjadi pakan utama burung tersebut. Kemampuan inilah yang disebut sebagai seni menyambungkan titik-titik dalam sebuah ekosistem.
 
 ## Mengembangkan Kecerdasan Naturalis
 
 Jika kamu ingin mengasah kepekaan ini, ada beberapa pendekatan yang bisa diterapkan sehari-hari. Mulailah dengan observasi mikro di sekitarmu. Kamu bisa memilih petak kecil tanah di pekarangan rumah, lalu amati interaksi kehidupan di sana selama sepuluh menit setiap hari untuk melihat perubahannya. 
 
-Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies burung atau tanaman liar apa saja yang kamu temui saat dalam perjalanan menuju tempat kerja. Selain itu, kamu bisa berlatih mengklasifikasikan benda-benda fisik di lingkunganmu—seperti koleksi buku atau berkas digital—berdasarkan detail bentuk dan karakteristik spesifiknya, terlepas dari fungsi utamanya.
+Menulis jurnal alam juga bisa menjadi kebiasaan baru. Dokumentasikan spesies burung atau tanaman liar apa saja yang kamu temui saat dalam perjalanan menuju tempat kerja. Selain itu, kamu bisa berlatih mengklasifikasikan benda-benda fisik di lingkunganmu (seperti koleksi buku atau berkas digital) berdasarkan detail bentuk dan karakteristik spesifiknya, terlepas dari fungsi utamanya.
 
 Inti dari Kecerdasan Naturalis terletak pada kejelianmu menyelami sistem kehidupan beserta interaksinya, tanpa harus bergantung pada seberapa banyak nama Latin tanaman yang sanggup kamu hafal.
 
-> "Alam tidak pernah terburu-buru, namun semuanya terselesaikan." — Ralph Waldo Emerson. Individu dengan kecerdasan naturalis memahami irama ini lebih baik daripada siapapun.
+> "Alam tidak pernah terburu-buru, namun semuanya terselesaikan." - Ralph Waldo Emerson. Individu dengan kecerdasan naturalis memahami irama ini lebih baik daripada siapapun.

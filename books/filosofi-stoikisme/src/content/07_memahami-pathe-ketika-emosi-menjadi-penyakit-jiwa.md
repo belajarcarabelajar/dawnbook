@@ -4,15 +4,15 @@ Dalam terminologi Stoik, emosi yang merusak disebut sebagai **Pathe** (jamak: *p
 
 Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yang melumpuhkan, atau kegembiraan yang euforik dan dangkal, dianggap sebagai **gangguan akal sehat**. Emosi-emosi ini bukanlah sesuatu yang datang dari luar, melainkan hasil dari penilaian internal yang keliru terhadap realitas.
 
-> "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." — **Epictetus**
+> "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." , **Epictetus**
 
 ## Anatomi Emosi: Bagaimana Perasaan Terbentuk
 
 Kaum Stoik memiliki model psikologi yang sangat canggih untuk menjelaskan bagaimana sebuah stimulus berubah menjadi emosi yang meledak. Proses ini dapat digambarkan melalui rumus sederhana berikut:
 
-\\[ 
+\[ 
 \text{Kesan (Impression)} + \text{Persetujuan (Assent)} = \text{Emosi}
- \\]
+ \]
 
 Mari kita bedah komponennya:
 

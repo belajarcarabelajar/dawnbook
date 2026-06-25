@@ -33,7 +33,7 @@ Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan 
 Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, informasi hanya akan menumpuk menjadi tumpukan fakta yang tidak terorganisir, gagal menjadi kebijaksanaan atau pemahaman mendalam.
 
 ### Matinya Kreativitas
-Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak—sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, membunuh percikan ide orisinal.
+Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, membunuh percikan ide orisinal.
 
 ### Kerentanan Emosional
 Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Mereka hanya terpendam dan siap meledak dalam bentuk stres kronis atau kelelahan mental (*burnout*).

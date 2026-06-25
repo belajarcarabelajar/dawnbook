@@ -84,7 +84,7 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 **Skenario: Berpindah dari Windows ke MacOS**
 
 - **Asimilasi:** Saat kamu pertama kali membuka MacBook, kamu mencari tombol "X" untuk menutup jendela. Kamu mengasimilasi konsep "menutup jendela" dari pengalaman Windows kamu.
-- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi—mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
+- **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi,mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur otak yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 

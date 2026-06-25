@@ -1,6 +1,6 @@
 ## Memento Mori: Kesadaran akan Kefanaan
 
-Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori** —frasa Latin yang berarti "Ingatlah bahwa engkau akan mati"—adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
+Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori** ,frasa Latin yang berarti "Ingatlah bahwa engkau akan mati",adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
 Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 
@@ -8,7 +8,7 @@ Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk ber
 
 Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
 
-> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." — **Seneca**
+> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." , **Seneca**
 
 ### Mengapa Ini Penting?
 

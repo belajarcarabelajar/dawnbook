@@ -24,7 +24,7 @@ Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor \\( g
 
 Perdebatan mengenai istilah juga menjadi sorotan. Banyak ahli psikologi kognitif, termasuk George Miller, berpendapat bahwa Gardner sebenarnya menempelkan label "kecerdasan" (*intelligence*) pada apa yang selama ini kita sebut "bakat" (*talent*) atau "kepribadian" (*personality*).
 
-Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dengan keterampilan fisik. Ada kekhawatiran soal inflasi istilah—ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
+Jika seseorang mahir menari, masyarakat biasanya menyebutnya punya bakat kinestetik. Saat Gardner menyebutnya "Cerdas Kinestetik", para pengkritik mempertanyakan letak perbedaan antara kecerdasan dengan keterampilan fisik. Ada kekhawatiran soal inflasi istilah, ketika segalanya disebut sebagai kecerdasan, makna asli kata tersebut yang berkaitan dengan pemrosesan kognitif dan pemecahan masalah abstrak bisa memudar.
 
 ## 3. Perspektif Psikologi Kognitif dan Neurosains
 
@@ -36,7 +36,7 @@ Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning
 
 Mengetahui sisi kritis teori ini membantu kita menghindari penerapan yang kurang tepat. Sebagai contoh di ranah rekrutmen, bayangkan sebuah perusahaan yang mencoba menggunakan Teori Kecerdasan Majemuk untuk mencari manajer baru dengan memberikan tes musik atau tes naturalis.
 
-Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal—yang menjadi inti dari faktor \\( g \\)—hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya talenta yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum (\\( g \\)) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
+Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal (yang menjadi inti dari faktor \\( g \\)) hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya talenta yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum (\\( g \\)) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
 
 ## 5. Ringkasan Kritik Utama
 

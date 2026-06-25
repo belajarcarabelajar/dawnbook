@@ -17,9 +17,9 @@ Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 
 Untuk menangani konflik secara profesional, kamu perlu memahami lima gaya manajemen konflik. Model ini didasarkan pada dua dimensi utama: **Asertivitas** (sejauh mana kamu memperjuangkan kepentingan sendiri) dan **Kooperatif** (sejauh mana kamu memprioritaskan kepentingan orang lain).
 
-\\[
+\[
 \text{Konflik} \rightarrow f(\text{Asertivitas}, \text{Kooperatif})
-\\]
+\]
 
 1. **Competing (Bersaing):** Pendekatan "ikuti cara saya". Gaya ini sangat berguna ketika tim harus mengambil keputusan super cepat saat krisis, misalnya ketika terjadi insiden keamanan data yang mendesak.
 2. **Accommodating (Mengalah):** Pendekatan "ikuti caramu". Langkah ini diambil jika isu tersebut jauh lebih penting bagi rekan kerja dibanding bagi kamu, atau ketika kamu ingin memprioritaskan keharmonisan relasi jangka panjang.
@@ -45,7 +45,7 @@ Metode IBR sangat efektif di lingkungan profesional karena secara tegas memisahk
 
 ## 4. Mengubah Konflik Menjadi Inovasi: Creative Abrasion
 
-Inovasi sering kali lahir dari *creative abrasion*—istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk melahirkan solusi baru yang segar.
+Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk melahirkan solusi baru yang segar.
 
 **Cara memfasilitasi proses ini:**
 

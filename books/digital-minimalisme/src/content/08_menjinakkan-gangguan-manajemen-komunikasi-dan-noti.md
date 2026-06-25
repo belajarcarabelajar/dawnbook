@@ -42,7 +42,7 @@ Demi menjaga efisiensi, biasakan membalas pesan maksimal dalam tiga kalimat. Jik
 
 ### 4\. Mengubah Ponsel Menjadi Alat Fungsional
 
-Ponsel sebaiknya digunakan layaknya obeng—diambil saat butuh dan diletakkan kembali setelah selesai.
+Ponsel sebaiknya digunakan layaknya obeng, diambil saat butuh dan diletakkan kembali setelah selesai.
 
 Cara termudah memulainya adalah dengan merampingkan *Home Screen*. Sisakan fitur dasar seperti Kamera, Maps, Kalender, dan Catatan. Pindahkan aplikasi penyita waktu ke folder tersembunyi, atau hapus sekalian dan akses melalui *browser* laptop. 
 

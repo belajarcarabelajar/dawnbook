@@ -12,7 +12,7 @@ Bayangkan hidupmu adalah sebuah bangunan tua yang kokoh, tetapi desainnya dibuat
 
 Memang akan ada debu, puing-puing yang berserakan, dan rasa tidak nyaman karena rumahmu sedang tidak bisa ditempati dengan tenang. Tapi, tanpa pembongkaran ini, kamu tidak akan pernah memiliki ruang untuk membangun struktur baru yang lebih mencerminkan dirimu yang sebenarnya.
 
-## Langkah 1: Reframing — Mengubah Narasi Batin
+## Langkah 1: Reframing , Mengubah Narasi Batin
 
 Transformasi dimulai dari cara kita memandang masalah. Jika kamu memandang QLC sebagai kegagalan, kamu akan terjebak dalam rasa malu. Jika kamu memandangnya sebagai **"recalibration signal"**, kamu akan mulai mencari solusi.
 
@@ -28,15 +28,15 @@ Salah satu alasan utama QLC adalah adanya kesenjangan antara **apa yang kamu lak
 Coba gunakan rumus sederhana ini untuk melihat potensi transformasimu:
 
 \\[
-T = (K + S) \\times B
+T = (K + S) \times B
 \\]
 
 Di mana:
 
-- \\( T \\) = Transformasi Positif
-- \\( K \\) = Self-Awareness (Kesadaran Diri)
-- \\( S \\) = Action Strategy (Strategi Aksi)
-- \\( B \\) = Courage (Keberanian)
+- \( T \) = Transformasi Positif
+- \( K \) = Self-Awareness (Kesadaran Diri)
+- \( S \) = Action Strategy (Strategi Aksi)
+- \( B \) = Courage (Keberanian)
 
 ### Latihan Refleksi:
 
@@ -47,7 +47,7 @@ Di mana:
 Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana. Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**.
 
 1. **Curiosity over Passion (Rasa Ingin Tahu di atas Minat):** Jangan terbebani mencari "panggilan jiwa". Mulailah dengan apa yang membuatmu penasaran. Ambil kursus singkat, bergabung dengan komunitas, atau mulai proyek sampingan.
-2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal—kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
+2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal,kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
 
 ## Real-world Application: Kisah Transformasi Maya
 

@@ -51,15 +51,15 @@ Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama 
 
 **Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat.
 
-\\[
+\[
 \begin{aligned}
 \text{Karakter} = (\text{Akal Budi} + \text{Emosi}) \times \text{Kebiasaan}
 \end{aligned}
-\\]
+\]
 
 ### Real-World Application: Kepemimpinan Berbasis Karakter
 
-Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) atau kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
+Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) or kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
 
 **Skenario:** Seorang manajer menghadapi situasi di mana ia bisa memanipulasi laporan untuk mendapatkan bonus tim (mengikuti aturan "mencapai target"), atau jujur meskipun bonus tersebut hilang (mengikuti kebajikan kejujuran).
 
@@ -72,4 +72,4 @@ Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key P
 - **Fokus Karakter:** Moralitas bukan tentang "apa yang boleh dilakukan", tapi tentang "siapa saya seharusnya".
 - **Proses:** Kebajikan adalah sebuah keterampilan (techne) yang dipelajari lewat praktik dan pembiasaan.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." — (Parafrase dari pemikiran Aristoteles)
+> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , (Parafrase dari pemikiran Aristoteles)

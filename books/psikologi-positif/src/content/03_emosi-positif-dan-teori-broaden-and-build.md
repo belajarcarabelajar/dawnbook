@@ -15,7 +15,7 @@ Berikut perbandingan sederhana antara mekanisme emosi negatif dan positif:
 - **Emosi Negatif memicu penyempitan fokus.** Saat takut atau marah, respons *fight-or-flight* aktif secara otomatis agar kamu fokus penuh menghadapi ancaman (*Specific Action Tendencies*).
 - **Emosi Positif meluaskan perspektif.** Sebaliknya, emosi positif tidak membatasi tindakanmu pada opsi bertahan hidup yang kaku. Fredrickson menyebut fenomena ini sebagai *Broadened Thought-Action Repertoires* (keberagaman pola pikir dan tindakan).
 
-> "Emosi positif lebih dari sekadar indikator kesejahteraan—mereka berperan aktif sebagai katalisator pertumbuhan dan resiliensi manusia." — Barbara Fredrickson
+> "Emosi positif lebih dari sekadar indikator kesejahteraan, mereka berperan aktif sebagai katalisator pertumbuhan dan resiliensi manusia." - Barbara Fredrickson
 
 ## 2. Fase Pertama: Meluaskan (Broaden)
 
@@ -48,7 +48,7 @@ Di mana \\( R \\) melambangkan total Sumber Daya pribadi yang terbangun, sedangk
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 
-Konsep yang tidak kalah menarik dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah—di mana satu pikiran buruk memicu emosi negatif yang lebih dalam—emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
+Konsep yang tidak kalah menarik dari teori ini adalah **Spiral ke Atas (The Upward Spiral)**. Berbeda dengan depresi yang kerap membentuk spiral ke bawah (di mana satu pikiran buruk memicu emosi negatif yang lebih dalam), emosi positif justru menciptakan momentum pertumbuhan yang berkelanjutan.
 
 - **Langkah awal**: Kamu merasakan emosi positif seperti rasa syukur.
 - **Perluasan kesadaran**: Pikiranmu mulai meluas (*broaden*), membuatmu lebih peka terhadap peluang untuk berbuat baik atau membantu sesama.
@@ -71,7 +71,7 @@ Fredrickson mengidentifikasi beberapa emosi positif utama yang masing-masing mem
 
 ## 6. Penerapan Praktis (Real-World Application)
 
-Bagaimana cara menerapkan Teori Broaden-and-Build ini? Ingat bahwa tujuannya bukan untuk menghapus emosi negatif—sebab rasa takut atau cemas tetap dibutuhkan sebagai sistem peringatan bahaya—melainkan untuk menyeimbangkan porsinya dalam keseharian.
+Bagaimana cara menerapkan Teori Broaden-and-Build ini? Ingat bahwa tujuannya bukan untuk menghapus emosi negatif (sebab rasa takut atau cemas tetap dibutuhkan sebagai sistem peringatan bahaya), melainkan untuk menyeimbangkan porsinya dalam keseharian.
 
 ### Skenario di Tempat Kerja
 
@@ -93,4 +93,4 @@ Kamu bisa melatih teknik **micro-moments of connectivity**. Kamu tidak membutuhk
 
 Emosi positif tidak hanya berfungsi sebagai hadiah setelah target tercapai. Emosi ini adalah **bahan bakar** utama yang memampukan kita mencapai target tersebut. Dengan meluangkan waktu secara sengaja untuk merasakan sukacita, minat, dan ketenangan, kita sedang berinvestasi pada 'tabungan' sumber daya pribadi demi menghadapi tantangan di masa mendatang.
 
-*Pertanyaan untukmu: Sumber daya pribadi apa—baik fisik, intelektual, sosial, maupun psikologis—yang paling ingin kamu bangun minggu ini? Serta emosi positif apa yang bisa membantumu meluaskannya?*
+*Pertanyaan untukmu: Sumber daya pribadi apa (baik fisik, intelektual, sosial, maupun psikologis) yang paling ingin kamu bangun minggu ini? Serta emosi positif apa yang bisa membantumu meluaskannya?*

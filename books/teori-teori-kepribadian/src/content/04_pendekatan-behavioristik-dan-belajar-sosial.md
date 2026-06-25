@@ -35,7 +35,7 @@ Dalam konteks kepribadian, *classical conditioning* menjelaskan bagaimana kita m
 * ***Negative Punishment*:** Menghilangkan stimulus yang menyenangkan setelah perilaku (misalnya, pencabutan hak bermain gawai karena melanggar aturan).
 * ***Shaping*:** Penguatan perilaku yang secara bertahap mendekati perilaku target.
 
-Dalam eksperimen "Skinner Box", tikus belajar menekan tuas (*perilaku operan*) untuk mendapatkan makanan (*positive reinforcement*) atau menghindari sengatan listrik (*positive punishment*). 
+Dalam eksperimen "Skinner Box", tikus belajar menekan tuas (*perilaku operan*) untuk mendapatkan makanan (*positive reinforcement*) or menghindari sengatan listrik (*positive punishment*). 
 
 Bagi Skinner, kepribadian adalah kumpulan pola perilaku yang telah diperkuat dari waktu ke waktu. Seseorang yang sering mendapat apresiasi saat tampil di depan umum mungkin mengembangkan sifat percaya diri, sementara orang yang sering ditegur saat menyuarakan pendapatnya bisa menjadi sosok yang lebih pendiam.
 
@@ -43,7 +43,7 @@ Bagi Skinner, kepribadian adalah kumpulan pola perilaku yang telah diperkuat dar
 
 Albert Bandura memperluas behaviorisme dengan memperkenalkan dimensi kognitif dan sosial. *Social Learning Theory* (yang kemudian disebut *Social Cognitive Theory*) menekankan bahwa pembelajaran terjadi melalui pengkondisian langsung, pengamatan terhadap orang lain, serta proses berpikir internal.
 
-> "Pembelajaran akan menjadi sangat melelahkan, belum lagi berbahaya, jika orang harus mengandalkan tindakan mereka sendiri untuk menginformasikan mereka tentang apa yang harus dilakukan." — Albert Bandura
+> "Pembelajaran akan menjadi sangat melelahkan, belum lagi berbahaya, jika orang harus mengandalkan tindakan mereka sendiri untuk menginformasikan mereka tentang apa yang harus dilakukan." - Albert Bandura
 
 #### 2.1. *Observational Learning* (*Modelling*)
 
@@ -84,4 +84,4 @@ Konsep ini memperlihatkan bahwa manusia secara aktif membentuk dan dibentuk oleh
 
 ### Penutup
 
-Pendekatan behavioristik dan *social learning* melihat kepribadian sebagai karakteristik yang dipelajari. Teori-teori ini menyoroti kuatnya pengaruh interaksi sosial dan pengalaman hidup—dari asosiasi stimulus-respons sederhana hingga hubungan dinamis antara individu, perilaku, dan lingkungan.
+Pendekatan behavioristik dan *social learning* melihat kepribadian sebagai karakteristik yang dipelajari. Teori-teori ini menyoroti kuatnya pengaruh interaksi sosial dan pengalaman hidup, dari asosiasi stimulus-respons sederhana hingga hubungan dinamis antara individu, perilaku, dan lingkungan.

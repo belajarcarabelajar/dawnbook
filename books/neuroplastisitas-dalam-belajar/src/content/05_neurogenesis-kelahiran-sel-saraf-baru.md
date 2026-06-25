@@ -63,7 +63,7 @@ $$
 
 ### Kasus Nyata: Studi Supir Taksi London
 
-Salah satu bukti paling terkenal tentang kekuatan neurogenesis dan plastisitas adalah studi terhadap supir taksi di London. Untuk mendapatkan lisensi, mereka harus menghafal "The Knowledge"—peta rumit dari 25.000 jalan di London.
+Salah satu bukti paling terkenal tentang kekuatan neurogenesis dan plastisitas adalah studi terhadap supir taksi di London. Untuk mendapatkan lisensi, mereka harus menghafal "The Knowledge", peta rumit dari 25.000 jalan di London.
 
 **Hasil penelitian menunjukkan:**
 
