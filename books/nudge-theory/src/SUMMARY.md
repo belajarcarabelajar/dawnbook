@@ -1,0 +1,15 @@
+# Summary
+
+- [Pengantar Nudge Theory](content/01_pengantar-nudge-theory.md)
+- [Dual Process Theory: Sistem 1 dan Sistem 2](content/02_dual-process-theory-sistem-1-dan-sistem-2.md)
+- [Prinsip Libertarian Paternalisme: Keseimbangan Antara Kebebasan dan Kesejahteraan](content/03_prinsip-libertarian-paternalisme-keseimbangan-antara-kebebasan-dan-kesejahteraan.md)
+- [Kekuatan Pilihan Standar (Defaults)](content/04_kekuatan-pilihan-standar-defaults.md)
+- [Mengantisipasi Kesalahan (Expect Error)](content/05_mengantisipasi-kesalahan-expect-error.md)
+- [Umpan Balik (Feedback) yang Efektif](content/06_umpan-balik-feedback-yang-efektif.md)
+- [Pemetaan (Mapping): Dari Pilihan ke Hasil](content/07_pemetaan-mapping-dari-pilihan-ke-hasil.md)
+- [Menyederhanakan Pilihan yang Kompleks](content/08_menyederhanakan-pilihan-yang-kompleks.md)
+- [Struktur Insentif dan Salience: Membuat yang Penting Menjadi Terlihat](content/09_struktur-insentif-dan-salience-membuat-yang-penting-menjadi-terlihat.md)
+- [Nudge vs Sludge: Etika dalam Desain](content/10_nudge-vs-sludge-etika-dalam-desain.md)
+- [Studi Kasus: Kesehatan, Keuangan, dan Lingkungan](content/11_studi-kasus-kesehatan-keuangan-dan-lingkungan.md)
+- [Metodologi Merancang Nudge (BASIC Framework)](content/12_metodologi-merancang-nudge-basic-framework.md)
+- [Referensi](content/13_referensi.md)
