@@ -206,7 +206,6 @@ h1, h2, h3, .logo {
   color: var(--color-primary);
   margin-bottom: var(--spacing-md);
   opacity: 1;
-  white-space: nowrap;
 }
 
 .hero-section p {
