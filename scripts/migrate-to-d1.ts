@@ -49,7 +49,11 @@ async function main() {
   const booksDir = join(rootDir, "books");
   const now = new Date().toISOString();
 
-  const entries = await readdir(booksDir);
+  let entries = await readdir(booksDir);
+  if (process.env.BOOK_SLUG) {
+    entries = entries.filter((e) => e === process.env.BOOK_SLUG);
+    console.log(`Filtering migrations to target only: ${process.env.BOOK_SLUG}`);
+  }
   const rows: BookRow[] = [];
 
   for (const entry of entries) {
