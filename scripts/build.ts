@@ -258,7 +258,7 @@ async function build() {
 
   const indexContent = `
     <div class="hero-section">
-        <h1 data-i18n="hub.hero.title">A New Dawn Has Arrived</h1>
+        <h1 data-i18n="hub.hero.title">Dawn Has Arrived</h1>
         <p data-i18n="hub.hero.subtitle">Learning is everyone's right. Here, you can learn anything, anytime, and absolutely free. Free your mind!</p>
     </div>
 
