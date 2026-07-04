@@ -1,0 +1,15 @@
+# Summary
+
+- [Pendahuluan: Memahami Esensi Manajemen dan POAC](content/01_pendahuluan-memahami-esensi-manajemen-dan-poac.md)
+- [Planning: Menentukan Arah dan Tujuan Organisasi](content/02_planning-menentukan-arah-dan-tujuan-organisasi.md)
+- [Teknik Perencanaan dan Pengambilan Keputusan](content/03_teknik-perencanaan-dan-pengambilan-keputusan.md)
+- [Organizing: Membangun Struktur dan Pembagian Kerja](content/04_organizing-membangun-struktur-dan-pembagian-kerja.md)
+- [Delegasi Wewenang dan Alokasi Sumber Daya: Menghidupkan Struktur Organisasi](content/05_delegasi-wewenang-dan-alokasi-sumber-daya.md)
+- [Actuating: Menggerakkan Roda Organisasi](content/06_actuating-menggerakkan-roda-organisasi.md)
+- [Kepemimpinan dan Motivasi dalam Pelaksanaan: Menggerakkan Roda Organisasi dengan Manusia sebagai Bahan Bakarnya](content/07_kepemimpinan-dan-motivasi-dalam-pelaksanaan.md)
+- [Controlling: Memastikan Kesesuaian dengan Rencana](content/08_controlling-memastikan-kesesuaian-dengan-rencana.md)
+- [Tindakan Korektif dan Evaluasi Kinerja: Menutup Celah Menuju Kesempurnaan](content/09_tindakan-korektif-dan-evaluasi-kinerja.md)
+- [Siklus Manajemen: Keterkaitan Antar Fungsi POAC](content/10_siklus-manajemen-keterkaitan-antar-fungsi-poac.md)
+- [POAC di Era Digital dan Manajemen Modern: Beradaptasi dengan Kecepatan Cahaya](content/11_poac-di-era-digital-dan-manajemen-modern.md)
+- [Studi Kasus Penerapan POAC](content/12_studi-kasus-penerapan-poac.md)
+- [Referensi](content/13_referensi.md)

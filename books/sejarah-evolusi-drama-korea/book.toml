@@ -1,0 +1,17 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Sejarah & Evolusi Drama Korea"
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Sastra Korea"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
