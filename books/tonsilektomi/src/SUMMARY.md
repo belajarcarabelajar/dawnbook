@@ -1,0 +1,16 @@
+# Summary
+
+- [Pengenalan Amandel (Tonsil): Garda Terdepan Pertahanan Tubuh](content/01_pengenalan-amandel-garda-terdepan-pertahanan-tubuh.md)
+- [Apa itu Tonsilektomi?](content/02_apa-itu-tonsilektomi.md)
+- [Alasan Medis dan Indikasi Operasi: Kapan Amandel Harus Diangkat?](content/03_alasan-medis-dan-indikasi-operasi.md)
+- [Persiapan Sebelum Operasi: Langkah Penting Menuju Pemulihan yang Sukses](content/04_persiapan-sebelum-operasi.md)
+- [Teknik Bedah Tonsilektomi: Dari Pisau Bedah hingga Teknologi Energi](content/05_teknik-bedah-tonsilektomi.md)
+- [Prosedur di Ruang Operasi: Langkah demi Langkah Menuju Kesembuhan](content/06_prosedur-di-ruang-operasi.md)
+- [Pemulihan Awal di Rumah Sakit: Fase Krusial di Ruang PACU](content/07_pemulihan-awal-di-rumah-sakit.md)
+- [Manajemen Nyeri dan Pengobatan: Menaklukkan Masa Pemulihan](content/08_manajemen-nyeri-dan-pengobatan.md)
+- [Panduan Nutrisi dan Diet Pasca Operasi](content/09_panduan-nutrisi-dan-diet-pasca-operasi.md)
+- [Aktivitas dan Masa Penyembuhan di Rumah](content/10_aktivitas-dan-masa-penyembuhan-di-rumah.md)
+- [Risiko dan Komplikasi Tonsilektomi: Memahami Sisi Lain Perjalanan Bedah](content/11_risiko-dan-komplikasi-tonsilektomi.md)
+- [Tanda Bahaya dan Kapan Menghubungi Dokter](content/12_tanda-bahaya-dan-kapan-menghubungi-dokter.md)
+- [Manfaat Jangka Panjang Tonsilektomi: Menuju Kualitas Hidup yang Lebih Baik](content/13_manfaat-jangka-panjang-tonsilektomi.md)
+- [Referensi](content/14_referensi.md)

@@ -1,12 +1,12 @@
 [book]
-authors = ["Kania Salsabila"]
+authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
-title = "Teori Gaya Kelekatan (Attachment Styles)"
+title = "Tonsilektomi"
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Psikologi"
+subject_label = "Kedokteran"
 
 [output.html.print]
 enable = false

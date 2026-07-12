@@ -81,12 +81,14 @@ async function build() {
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
         let formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
-        const author = "Iwan Kurniawan";
+        let author = "Iwan Kurniawan";
         try {
             const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
             const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
             if (titleMatch) formattedTitle = titleMatch[1];
-        } catch (e) { console.warn('Failed to parse book.toml title', e); }
+            const authorsMatch = tomlText.match(/authors\s*=\s*\[\s*"([^"]+)"\s*\]/);
+            if (authorsMatch) author = authorsMatch[1];
+        } catch (e) { console.warn('Failed to parse book.toml title or author', e); }
         
         let chapterCount = 0;
         let chapters: string[] = [];
