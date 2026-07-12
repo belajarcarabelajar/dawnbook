@@ -49,4 +49,27 @@ describe("API: /api/progress", () => {
     expect(data.path).toBe("/books/test-book/ch1.html");
     expect(data.completed_paths).toEqual(["/books/test-book/ch1.html"]);
   });
+
+  test("Auth JWKS fetch utilizes Cloudflare edge caching", async () => {
+    (global.fetch as any).mockClear();
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", { 
+      method: "GET",
+      headers: { "Authorization": `Bearer ${validToken}` },
+    });
+    
+    await onRequest({ request: req, env } as any);
+    
+    const calls = (global.fetch as any).mock.calls;
+    // The first call should be to the JWKS endpoint
+    const jwksCall = calls.find((call: any[]) => typeof call[0] === 'string' && call[0].includes('.well-known/jwks.json'));
+    expect(jwksCall).toBeDefined();
+    
+    // Check if Cloudflare cache options are present
+    const initOptions = jwksCall[1];
+    expect(initOptions).toBeDefined();
+    expect(initOptions.cf).toBeDefined();
+    expect(initOptions.cf.cacheEverything).toBe(true);
+    expect(initOptions.cf.cacheTtl).toBeGreaterThan(0);
+  });
 });
