@@ -75,7 +75,12 @@ export async function verifyClerkSession(
       const clerkDomain = getClerkDomain(pk);
       const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
       console.log("Fetching JWKS from:", jwksUrl);
-      const jwksResponse = await fetch(jwksUrl);
+      const jwksResponse = await fetch(jwksUrl, {
+        cf: {
+          cacheTtl: 3600,
+          cacheEverything: true,
+        },
+      });
       console.log("JWKS status:", jwksResponse.status);
 
       if (jwksResponse.ok) {
