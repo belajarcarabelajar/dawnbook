@@ -623,7 +623,27 @@ async function build() {
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="contribute.join.title">Join the Authors</h2>
         <p data-i18n="contribute.join.body1">We believe knowledge should be free and openly collaborative. You can contribute by writing a new chapter, fixing typos, or even starting a brand new book.</p>
         <p data-i18n="contribute.join.body2">All contributions are managed via GitHub Pull Requests, ensuring a high standard of quality through peer review.</p>
-        <a href="https://github.com/belajarcarabelajar/dawnbook" class="btn-primary" target="_blank" data-i18n="contribute.btn.github">View on GitHub</a>
+        <a href="https://github.com/belajarcarabelajar/dawnbook" class="btn-primary" style="margin-bottom: var(--spacing-lg)" target="_blank" data-i18n="contribute.btn.github">View on GitHub</a>
+
+        <hr style="border: 0; border-top: 1px solid var(--color-secondary); margin: var(--spacing-lg) 0;">
+
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="contribute.contributors.title">Main Contributors</h2>
+        <div class="contributors-grid">
+            <div class="contributor-card">
+                <img src="https://snipset.belajarcarabelajar.com/images/creator.webp" alt="Iwan Kurniawan" class="contributor-avatar">
+                <div class="contributor-info">
+                    <h3 class="contributor-name" data-i18n="contribute.contributor1.name">Iwan Kurniawan</h3>
+                    <p class="contributor-role" data-i18n="contribute.contributor1.role">Content Creator, Developer, and Founder @belajarcarabelajar</p>
+                </div>
+            </div>
+            <div class="contributor-card">
+                <img src="https://d2oi1rqwb0pj00.cloudfront.net/user/nio_1740330104156_100.webp" alt="Kania Salsabila" class="contributor-avatar">
+                <div class="contributor-info">
+                    <h3 class="contributor-name" data-i18n="contribute.contributor2.name">Kania Salsabila</h3>
+                    <p class="contributor-role" data-i18n="contribute.contributor2.role">Best Scientific Paper, Outstanding Student (Mawapres), Faculty of Languages and Arts 2026, Universitas Negeri Jakarta</p>
+                </div>
+            </div>
+        </div>
     </div>
   `;
 
