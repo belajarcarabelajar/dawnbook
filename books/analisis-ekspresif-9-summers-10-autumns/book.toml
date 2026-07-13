@@ -1,0 +1,17 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "en"
+src = "src"
+title = "Analisis Ekspresif Novel 9 Summers 10 Autumns Karya Iwan Setyawan"
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Pendidikan Bahasa dan Sastra Indonesia"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
