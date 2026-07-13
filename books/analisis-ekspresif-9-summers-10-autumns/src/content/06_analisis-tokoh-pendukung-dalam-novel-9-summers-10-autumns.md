@@ -53,4 +53,4 @@ Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IP
 
 ### Menuju Analisis Latar: Ruang dan Lingkungan Cerita
 
-Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial—dari kesejukan Batu hingga belantara beton New York—yang melingkupi perjalanan hidup mereka.
+Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial, mulai dari kesejukan Batu hingga belantara beton New York, yang melingkupi perjalanan hidup mereka.

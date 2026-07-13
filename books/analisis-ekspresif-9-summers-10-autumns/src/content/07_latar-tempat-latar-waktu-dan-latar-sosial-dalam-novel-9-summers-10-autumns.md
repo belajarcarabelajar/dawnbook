@@ -1,6 +1,6 @@
 ## Latar Tempat, Latar Waktu, dan Latar Sosial dalam Novel 9 Summers 10 Autumns
 
-Kita akan menganalisis secara mendalam bagaimana unsur latar—yang meliputi aspek spasial (tempat), temporal (waktu), dan sosiopsikologis (suasana/sosial)—di dalam novel *9 Summers 10 Autumns* tidak sekadar menjadi tempat terjadinya cerita, melainkan berfungsi sebagai cerminan dan pembentuk kejiwaan tokoh utama serta pengarangnya.
+Kita akan menganalisis secara mendalam bagaimana unsur latar, yang meliputi aspek spasial (tempat), temporal (waktu), dan sosiopsikologis (suasana/sosial), di dalam novel *9 Summers 10 Autumns* tidak sekadar menjadi tempat terjadinya cerita, melainkan berfungsi sebagai cerminan dan pembentuk kejiwaan tokoh utama serta pengarangnya.
 
 ### Eksplorasi Latar: Dari Kota Apel hingga Belantara Beton
 
