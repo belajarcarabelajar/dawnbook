@@ -1,5 +1,6 @@
 ## Kajian Ekspresif: Karakter Saudara Kandung sebagai Motivasi
-## Penjelasan Inti
+
+### Penjelasan Inti
 
 Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu motivasi ekspresif yang sangat kuat dalam novel ini. 
 
@@ -20,10 +21,14 @@ Ketekunan Rini Agustina dalam keterampilan dan kelunakan hati Mira (Denok) semak
 > “Rini yang berkulit lebih putih dari kami semua dan rambut hitam yang tebal, dengan ketekunannya, dengan kebesaran hatinya, melalui jari-jari bersama alat-alat dapur, buku-buku pasien, sapu, dan kain pel... Ketekunannya, ketegarannya untuk mencari uang, melelehkan hati kami semua. Keringatnya menetes di atas atap rumah mungilku.” (Hlm. 51)
 
 > “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
-## Aplikasi Praktis / Studi Kasus
+### Aplikasi Praktis / Studi Kasus
 
-Kita dapat melihat bagaimana karakter kakak dan adik Iwan Setyawan dapat diaplikasikan dalam kehidupan sehari-hari. Misalnya, kita dapat belajar dari Mbak Isa tentang pentingnya belajar dan menginspirasi orang lain. Kita juga dapat belajar dari Mbak Inan tentang pentingnya menjaga kebersihan dan memiliki sifat yang disiplin.
+Menganalisis hubungan persaudaraan dalam novel ini. Perhatikan bagaimana prestasi kakak-kakaknya (seperti Mbak Isa) memberikan teladan akademis bagi Iwan, sementara tanggung jawabnya sebagai anak laki-laki satu-satunya memotivasinya untuk segera mandiri dan membantu adik-adiknya.
 
-## Refleksi Bab
+### Refleksi Bab
 
-Bagaimana kita dapat mengaplikasikan karakter kakak dan adik Iwan Setyawan dalam kehidupan sehari-hari? Apakah kita dapat belajar dari sifat-sifat mereka dan mengaplikasikannya dalam kehidupan kita?
+*Bagaimana kehangatan hubungan persaudaraan di dalam rumah mungil ukuran 6 x 7 meter dapat mengompensasi keterbatasan ruang fisik dan ekonomi yang dihadapi keluarga Iwan?*
+
+### Jembatan Transisi Akhir
+
+Dorongan moral dari keluarga ini kemudian menemukan jalannya lewat pencapaian akademis yang cemerlang. Di bab selanjutnya, kita akan meneliti bagaimana latar belakang pendidikan tinggi pengarang di bidang Statistika secara ekspresif membentuk cara ia berkarya.

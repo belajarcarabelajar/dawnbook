@@ -1,9 +1,10 @@
 ## Analisis Tokoh Pendukung dalam Novel 9 Summers 10 Autumns
-## Apersepsi/Pengantar
+
+### Apersepsi/Pengantar
 
 Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
 
-## Penjelasan Inti
+### Penjelasan Inti
 
 Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns* sangat penting dalam membentuk kepribadian Iwan Setyawan dan mendorongnya mencapai impian. Berikut adalah analisis watak tokoh pendukung:
 
@@ -41,14 +42,14 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
    Teman dekat Iwan di New York yang berwatak ramah dan terbuka, menjadi rekan bertukar pikiran yang membantunya merefleksikan nilai-nilai kehidupan:
    
    > “Setelah saling bertukar beberapa e-mail siang itu, keesokan harinya, seperti tak mau menunda lagi, aku bertemu dengan Audrey seusai yoga. Kami berbincang selama berjam-jam tentang hidup, yoga, dan spirituality di Blue Ribbon, restoran Jepang favoritnya di West Village. Sangat mudah untuk terus menggulirkan bola perbincangan dengannya. This is quite Connection, pikirku. Mungkin kami berada di jalur pencarian hidup yang sama saat itu. Mulai dari yoga sampai Barneys.” (Hlm. 81)
-## Aplikasi Praktis / Studi Kasus
+### Aplikasi Praktis / Studi Kasus
 
-Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam studi kasus ini, kita dapat melihat bagaimana karakteristik dan peran tokoh pendukung dalam mengembangkan karakter utama dan plot cerita.
+Lakukan analisis peran terhadap tokoh pendukung seperti para dosen di IPB atau rekan kerja di Jakarta. Deskripsikan bagaimana interaksi sosial mereka dengan Iwan berkontribusi langsung pada kelanjutan karir akademis dan profesionalnya.
 
-## Refleksi Bab
+### Refleksi Bab
 
-Dalam modul ini, kita telah melihat bagaimana tokoh pendukung dalam novel "Mbak Isa" memiliki karakteristik yang unik dan menarik. Kita juga telah melihat bagaimana peran tokoh pendukung dalam mengembangkan karakter utama dan plot cerita. Dalam refleksi ini, kita dapat bertanya-tanya tentang bagaimana karakteristik dan peran tokoh pendukung dapat dipakai dalam analisis kritik sastra lainnya.
+*Menurut kamu, apakah tokoh utama dapat mencapai kesuksesannya tanpa kehadiran tokoh pendukung yang memotivasi atau menantangnya? Bagaimana tokoh pendukung mencerminkan realitas sosial lingkungan pengarang?*
 
-## Jembatan Transisi Akhir
+### Jembatan Transisi Akhir
 
-Dalam modul berikutnya, kita akan melihat bagaimana latar dalam novel "Mbak Isa" dapat dipakai dalam mengembangkan karakter utama dan plot cerita. Kita akan melihat bagaimana latar dapat dipakai dalam mengembangkan karakter utama dan plot cerita, serta bagaimana karakteristik dan peran latar dapat dipakai dalam analisis kritik sastra lainnya.
+Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial—dari kesejukan Batu hingga belantara beton New York—yang melingkupi perjalanan hidup mereka.
