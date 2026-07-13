@@ -1,0 +1,17 @@
+# Summary
+
+- [Latar Belakang Kritik Sastra Ekspresif](content/01_latar-belakang-kritik-sastra-ekspresif.md)
+- [Rumusan Masalah, Tujuan, dan Manfaat Analisis](content/02_rumusan-masalah-tujuan-dan-manfaat-analisis.md)
+- [Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns](content/03_kajian-strukturalisme-dan-tema-novel-9-summers-10-autumns.md)
+- [Analisis Alur Campuran dalam Novel 9 Summers 10 Autumns](content/04_analisis-alur-campuran-dalam-novel-9-summers-10-autumns.md)
+- [Tokoh dan Penokohan Utama dalam Novel 9 Summers 10 Autumns](content/05_tokoh-dan-penokohan-utama-dalam-novel-9-summers-10-autumns.md)
+- [Analisis Tokoh Pendukung dalam Novel 9 Summers 10 Autumns](content/06_analisis-tokoh-pendukung-dalam-novel-9-summers-10-autumns.md)
+- [Latar Tempat, Latar Waktu, dan Latar Sosial dalam Novel 9 Summers 10 Autumns](content/07_latar-tempat-latar-waktu-dan-latar-sosial-dalam-novel-9-summers-10-autumns.md)
+- [Sudut Pandang, Gaya Bahasa, dan Amanat Novel 9 Summers 10 Autumns](content/08_sudut-pandang-gaya-bahasa-dan-amanat-novel-9-summers-10-autumns.md)
+- [Kajian Ekspresif: Ekspresi Pribadi Pengarang](content/09_kajian-ekspresif-ekspresi-pribadi-pengarang.md)
+- [Kajian Ekspresif: Nilai Religi dan Ketaatan pada Tuhan](content/10_kajian-ekspresif-nilai-religi-dan-ketaatan-pada-tuhan.md)
+- [Kajian Ekspresif: Kondisi Masa Kecil Pengarang](content/11_kajian-ekspresif-kondisi-masa-kecil-pengarang.md)
+- [Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar](content/12_kajian-ekspresif-sosok-bapak-dan-ibu-sebagai-inspirasi-terbesar.md)
+- [Kajian Ekspresif: Karakter Saudara Kandung sebagai Motivasi](content/13_kajian-ekspresif-karakter-saudara-kandung-sebagai-motivasi.md)
+- [Kajian Ekspresif: Pengaruh Latar Akademik terhadap Gaya Penulisan](content/14_kajian-ekspresif-pengaruh-latar-akademik-terhadap-gaya-penulisan.md)
+- [Kesimpulan, Saran, dan Referensi Ilmiah](content/15_kesimpulan-saran-dan-referensi-ilmiah.md)
