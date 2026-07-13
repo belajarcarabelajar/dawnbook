@@ -19,9 +19,10 @@ Tema adalah ide utama yang menjadi fondasi alur cerita. Tema disampaikan kepada 
 ### 2.2 Tema Utama Novel 9 Summers 10 Autumns
 
 Tema utama novel 9 Summers 10 Autumns adalah mengenai pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga. Tema ini disampaikan melalui rangkaian peristiwa, karakter, konflik, hingga penyelesaiannya. Tema ini dikenali melalui perkembangan cerita dan perilaku tokoh-tokohnya.
+
 ### Aplikasi Sastrawi: Membedah Kerangka Intrinsik
 
-Cobalah memetakan tema utama *9 Summers 10 Autumns* ke dalam peta konsep sederhana. Tuliskan tema besar 'Pendidikan sebagai Tangga Sosial' di tengah, lalu hubungkan dengan kutipan-kutipan kunci yang menggambarkan pencapaian akademis tokoh Iwan sebagai bukti struktural.
+Analisis struktural terhadap tema utama novel ini mengungkapkan bagaimana konsep 'Pendidikan sebagai Tangga Perubahan Sosial' dijalin secara sistematis bersama 'Kekuatan Cinta Keluarga'. Jalinan ini dibuktikan melalui data struktural dalam teks di mana setiap pencapaian akademis tokoh utama (seperti keberhasilan masuk IPB dan bekerja di korporasi multinasional) selalu dipasangkan dengan narasi pengorbanan orang tuanya (seperti Ibu yang menjual cincin kawin atau Bapak yang menyetir angkot tanpa lelah), membentuk satu kesatuan makna struktural yang utuh.
 
 ### Diskusi Teoretis: Menemukan Inti Tema Pendidikan
 

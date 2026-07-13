@@ -35,9 +35,10 @@ Analisis ini memiliki beberapa manfaat, baik teoretis maupun praktis.
 3.  Bagi Masyarakat: Analisis ini dapat meningkatkan apresiasi masyarakat terhadap karya sastra yang memiliki nilai melalui pendidikan.
 
 Dengan demikian, analisis ini dapat memberikan kontribusi yang signifikan dalam memahami novel 9 Summers 10 Autumns dari perspektif strukturalisme dan ekspresifisme.
+
 ### Implementasi Metodologi: Pemetaan Rumusan Masalah
 
-Saat menyusun proposal penelitian sastra, buatlah matriks sederhana yang menghubungkan setiap rumusan masalah dengan metode analisis yang digunakan. Misalnya, untuk menguji cerminan kejiwaan Iwan Setyawan, hubungkan kutipan teks tentang perasaannya di New York dengan data biografi wawancara langsung.
+Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan data biografi sekunder berupa transkrip wawancara media dengan Iwan Setyawan. Metodologi ini membuktikan hubungan korespondensi yang erat antara kondisi mental pengarang saat menulis dengan representasi kejiwaan tokoh fiksi dalam teks.
 
 ### Sudut Pandang Peneliti: Menakar Tantangan Analisis
 

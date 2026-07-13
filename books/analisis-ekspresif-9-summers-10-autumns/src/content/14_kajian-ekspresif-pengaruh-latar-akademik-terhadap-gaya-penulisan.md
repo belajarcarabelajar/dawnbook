@@ -22,9 +22,10 @@ Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertan
    > “Ruang terbesar di rumahku adalah ruang tamu berukuran 2 x 4,5 meter.” (Hlm. 13)
 
 Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi, logika analitis, dan presisi data statistik, yang kemudian ia kawinkan dengan sensitivitas estetis dalam menyajikan kisah otobiografisnya secara logis dan faktual.
+
 ### Studi Stilistika Kuantitatif: Angka dan Presisi dalam Sastra
 
-Pilihlah salah satu bab dalam novel yang sarat dengan penyebutan angka atau dimensi ruang (seperti luas rumah, ukuran ranjang bambu, atau nominal harga tanah). Analisis bagaimana presisi data kuantitatif tersebut dikawinkan dengan narasi emosional untuk menciptakan keunikan gaya penulisan statistika yang puitis.
+Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran \(6 \times 7\) meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran \(0,5 \times 1,5\) meter (Hlm. 9) bukan sekadar sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
 
 ### Diskusi Estetika: Saat Logika Data Menjadi Puitis
 

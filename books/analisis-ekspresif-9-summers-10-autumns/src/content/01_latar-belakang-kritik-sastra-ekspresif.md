@@ -11,9 +11,10 @@ Novel 9 Summers 10 Autumns adalah karya sastra berbentuk novel yang mencerminkan
 Pendekatan Ekspresif
 
 Pendekatan ekspresif digunakan dalam analisis novel 9 Summers 10 Autumns untuk memahami pemikiran, perasaan, dan latar belakang yang membuat penulis menghasilkan karyanya. Pendekatan ini memberikan pemahaman mengenai latar belakang psikologis dari karya sastra (Fitri et al., 2024). Melalui pendekatan ekspresif, Novel 9 Summers 10 Autumns memberikan pembaca gambaran mengenai latar belakang Iwan Setyawan sebagai penulis sekaligus tokoh dalam cerita dalam perjuangannya mencapai mimpinya, beserta peristiwa yang dialami oleh tokoh dalam perjalanan hidupnya.
+
 ### Eksperimen Analisis: Membandingkan Biografi dan Fiksi
 
-Sebagai latihan analisis, carilah informasi tentang latar belakang masa kecil Iwan Setyawan di Kota Batu yang berhawa dingin. Perhatikan bagaimana ia merepresentasikan suhu dingin dan kehidupan agraris kota tersebut sebagai cerminan psikologis kehangatan keluarganya di tengah impiten kemiskinan. Bandingkan ini dengan novel biografis lain seperti *Laskar Pelangi* karya Andrea Hirata untuk melihat perbedaan ekspresi kejiwaan penulisnya.
+Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan bukan sekadar sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari badai kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, di mana kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
 
 ### Ruang Perenungan: Batas Antara Penulis dan Karya
 

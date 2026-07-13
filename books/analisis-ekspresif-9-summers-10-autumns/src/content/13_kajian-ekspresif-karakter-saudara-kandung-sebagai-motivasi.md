@@ -21,9 +21,10 @@ Ketekunan Rini Agustina dalam keterampilan dan kelunakan hati Mira (Denok) semak
 > “Rini yang berkulit lebih putih dari kami semua dan rambut hitam yang tebal, dengan ketekunannya, dengan kebesaran hatinya, melalui jari-jari bersama alat-alat dapur, buku-buku pasien, sapu, dan kain pel... Ketekunannya, ketegarannya untuk mencari uang, melelehkan hati kami semua. Keringatnya menetes di atas atap rumah mungilku.” (Hlm. 51)
 
 > “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
+
 ### Analisis Persaudaraan: Rantai Motivasi dan Tanggung Jawab Moral
 
-Menganalisis hubungan persaudaraan dalam novel ini. Perhatikan bagaimana prestasi kakak-kakaknya (seperti Mbak Isa) memberikan teladan akademis bagi Iwan, sementara tanggung jawabnya sebagai anak laki-laki satu-satunya memotivasinya untuk segera mandiri dan membantu adik-adiknya.
+Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih yang tidak bersyarat sebagai kompensasi dari keterbatasan ekonomi mereka.
 
 ### Refleksi Keluarga: Hangatnya Rumah Mungil 6x7 Meter
 
