@@ -1,24 +1,38 @@
 ## Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns
 
-Mari kita lanjutkan perjalanan kita dalam mengaplikasikan teori kritik sastra dengan memahami kajian strukturalisme dan tema utama novel 9 Summers 10 Autumns. Dalam bab sebelumnya, kita telah membahas tentang pentingnya pendekatan analisis karya sastra dalam meningkatkan apresiasi masyarakat terhadap karya sastra. Sekarang, kita akan memasuki dunia strukturalisme, sebuah pendekatan yang menekankan pada keterkaitan antarunsur dalam karya sastra.
+Mari kita lanjutkan perjalanan kita dalam mengaplikasikan teori kritik sastra dengan memahami kajian strukturalisme dan tema utama novel *9 Summers 10 Autumns*. Pada bab sebelumnya, kita telah membahas tentang pentingnya pendekatan analisis dalam meningkatkan apresiasi sastra. Sekarang, kita akan memasuki dunia strukturalisme, sebuah pendekatan yang menekankan pada keterkaitan antarunsur pembangun karya.
 
-### 2.1 Kajian Strukturalisme dalam Sastra
+### Konsep Kajian Strukturalisme dalam Sastra
 
-#### 2.1.1 Pengertian Kajian Strukturalisme
+Pendekatan struktural merupakan fondasi awal sebelum kita melangkah ke analisis psikologis atau ekspresif yang lebih luas. Teori ini memandang sebuah karya sastra secara otonom, sebagai struktur yang berdiri sendiri dengan hukum-hukum internalnya.
 
-Pendekatan struktural adalah pendekatan yang menekankan pada keterkaitan antarunsur, seperti yang dijelaskan oleh Aini et al. (2022) dalam Nurgiyantoro (2013). Pendekatan struktural adalah fondasi dari analisis karya sastra yang menganalisis unsur intrinsik dan ekstrinsik karya sastra. Analisis struktural bertujuan untuk membongkar isi secara teliti dengan hasil makna yang dalam, seperti yang dijelaskan oleh Teeuw (1988) dalam Supriyanto et al. (2023). Pendekatan struktural berkaitan dengan unsur intrinsik pembentuk novel, seperti tema, tokoh dan penokohan, latar, alur, dan sudut pandang.
+#### Pengertian Kajian Strukturalisme
+Pendekatan struktural adalah pendekatan yang menekankan pada keterkaitan antarunsur (Aini dkk., 2022 dalam Nurgiyantoro, 2013). Analisis struktural bertujuan untuk membongkar isi secara teliti dan sistematis guna melahirkan makna yang dalam (Teeuw, 1988 dalam Supriyanto dkk., 2023). Kritik strukturalisme meyakini bahwa makna sebuah karya hanya bisa dipahami secara utuh jika kita menganalisis bagian-bagian terkecilnya dan melihat bagaimana bagian-bagian tersebut saling berinteraksi.
 
-#### 2.1.2 Unsur Intrinsik
+#### Unsur Intrinsik Pembangun Karya Sastra
+Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra itu hadir dan dinikmati sebagai teks fiksi. Untuk memahami konstelasi unsur intrinsik ini, berikut adalah peta elemen otonom yang membangun novel:
 
-Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra hadir. Unsur intrinsik terdiri dari:
+| Unsur Intrinsik | Peran dalam Struktur Naratif | Manifestasi dalam Novel |
+| :--- | :--- | :--- |
+| **Tema** | Ide sentral yang menjadi jangkar seluruh peristiwa. | Pendidikan sebagai tangga sosial dan kekuatan cinta keluarga. |
+| **Tokoh & Penokohan** | Pelaku cerita beserta perwatakan fiktifnya. | Tokoh Iwan yang gigih, Bapak yang tangguh, Ibu yang bijaksana. |
+| **Alur (Plot)** | Rantai peristiwa yang dihubungkan sebab-akibat. | Alur campuran (maju-mundur) dari New York ke Kota Batu. |
+| **Latar (Setting)** | Dimensi spasial, temporal, dan sosiopsikologis. | Kontras spasial antara Batu (Malang) dan Manhattan (New York). |
+| **Sudut Pandang** | Posisi narator dalam menyampaikan cerita. | Orang pertama tunggal ("Aku") memberikan intimasi mendalam. |
 
-a. Tema
+Dalam bab ini, fokus utama kita adalah memahami bagaimana tema besar novel dirumuskan dan diletakkan sebagai dasar struktur intrinsik.
 
-Tema adalah ide utama yang menjadi fondasi alur cerita. Tema disampaikan kepada pembaca melalui rangkaian peristiwa, karakter, konflik, hingga penyelesaiannya. Tema dikenali melalui perkembangan cerita dan perilaku tokoh-tokohnya, seperti yang dijelaskan oleh Jannah & Rahmawati (2025).
+### Eksplorasi Tema Utama: Pendidikan dan Cinta Keluarga
 
-### 2.2 Tema Utama Novel 9 Summers 10 Autumns
+Tema utama novel *9 Summers 10 Autumns* berdiri kokoh di atas dua pilar utama: **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
 
-Tema utama novel 9 Summers 10 Autumns adalah mengenai pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga. Tema ini disampaikan melalui rangkaian peristiwa, karakter, konflik, hingga penyelesaiannya. Tema ini dikenali melalui perkembangan cerita dan perilaku tokoh-tokohnya.
+> "Nilai-nilai inilah yang membuat aku yakin bahwa impian haruslah menyala dengan apa pun yang kita miliki, meskipun yang kita miliki tidak sempurna, meskipun itu retak-retak." (Hlm. 21)
+
+Tema ini tidak dihadirkan secara abstrak, melainkan dioperasionalkan melalui perilaku nyata para tokohnya:
+1.  **Pendidikan sebagai Tangga Sosial**: Tokoh "Aku" secara konsisten menunjukkan bahwa prestasi akademis (ranking sekolah, kuliah di IPB, hingga karir global) adalah satu-satunya jalan keluar logis untuk memutus rantai kemiskinan turun-temurun keluarganya.
+2.  **Kekuatan Cinta Keluarga**: Pengorbanan tanpa pamrih (Bapak menyetir angkot tanpa mengeluh, Ibu membagi porsi nasi yang terbatas, Mbak Isa melepas kesempatan kuliah demi adiknya) menjadi bahan bakar emosional yang melahirkan determinasi tokoh utama.
+
+---
 
 ### Aplikasi Sastrawi: Membedah Kerangka Intrinsik
 
