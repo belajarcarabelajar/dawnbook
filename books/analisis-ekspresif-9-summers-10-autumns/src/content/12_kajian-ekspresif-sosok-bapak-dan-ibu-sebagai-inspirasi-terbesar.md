@@ -1,5 +1,6 @@
 ## Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
-## Penjelasan Inti
+
+### Penjelasan Inti
 
 Latar belakang kedua orang tua merupakan sumbu inspirasi ekspresif terbesar bagi pengarang dalam menulis novel *9 Summers 10 Autumns*. 
 
@@ -20,20 +21,14 @@ Sementara itu, Ibu (Ngatinah) merupakan tiang penopang kesederhanaan dan keadila
 Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan biaya sekolah anak-anak mereka:
 
 > “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
-## Aplikasi Praktis / Studi Kasus
+### Aplikasi Praktis / Studi Kasus
 
-Kita dapat melihat bagaimana sosok Bapak dan Ibu menjadi inspirasi terbesar bagi Iwan dalam menulis. Mereka tidak hanya sebagai tokoh pelengkap, melainkan sebagai representasi dari trauma sekaligus motivasi terbesar Iwan. Kita dapat melihat bagaimana Bapak memiliki etos kerja yang sangat luar biasa dan terus berusaha hingga berpuluh-puluh tahun lamanya untuk berusaha mandiri hingga akhirnya mendapatkan kesuksesan dari beralih pekerjaan dan bertransformasi dengan membeli mobil untuk mandiri dalam bekerja.
+Tuliskan analisis komparatif mengenai bagaimana watak gigih Bapak (menyopir angkot siang malam) dan manajemen hemat Ibu (mengatur takaran beras dan uang sekolah) bersinergi dalam membentuk etika kerja (work ethic) Iwan yang tangguh hingga ke dunia profesional korporat.
 
-Kita juga dapat melihat bagaimana Ibu memiliki garis hidup yang sederhana dan luar biasa, yang membawa Ibu menjadi inspirasi bagi Iwan. Ibu yang membangun ide untuk menabung, mengingatkan Iwan untuk ke dokter, mengatur berapa liter nasi yang harus ditanak tanpa tersisa, dan mengatur pembayaran uang sekolah Iwan.
+### Refleksi Bab
 
-## Refleksi Bab
+*Bagaimana cara Iwan Setyawan mengekspresikan rasa terima kasih sekaligus rasa bersalahnya kepada orang tuanya melalui narasi dalam novel ini? Pilihlah satu kutipan yang menurut kamu paling mengharukan menggambarkan hubungan anak dan orang tua.*
 
-Apa yang dapat kita pelajari dari sosok Bapak dan Ibu sebagai inspirasi terbesar bagi Iwan? Bagaimana kita dapat mengaplikasikan nilai-nilai yang mereka tunjukkan dalam kehidupan kita sehari-hari?
+### Jembatan Transisi Akhir
 
----
-
-Kutipan di atas menunjukkan bahwa Bapak dan Ibu tidak hanya sebagai tokoh pelengkap, melainkan sebagai representasi dari trauma sekaligus motivasi terbesar Iwan. Mereka memiliki etos kerja yang sangat luar biasa dan terus berusaha hingga berpuluh-puluh tahun lamanya untuk berusaha mandiri hingga akhirnya mendapatkan kesuksesan dari beralih pekerjaan dan bertransformasi dengan membeli mobil untuk mandiri dalam bekerja.
-
-Kita dapat melihat bagaimana Ibu memiliki garis hidup yang sederhana dan luar biasa, yang membawa Ibu menjadi inspirasi bagi Iwan. Ibu yang membangun ide untuk menabung, mengingatkan Iwan untuk ke dokter, mengatur berapa liter nasi yang harus ditanak tanpa tersisa, dan mengatur pembayaran uang sekolah Iwan.
-
-Apa yang dapat kita pelajari dari sosok Bapak dan Ibu sebagai inspirasi terbesar bagi Iwan? Bagaimana kita dapat mengaplikasikan nilai-nilai yang mereka tunjukkan dalam kehidupan kita sehari-hari?
+Selain kedua orang tuanya, saudara-saudara kandung Iwan juga menjadi rantai motivasi yang tidak terputus. Mari kita beralih ke bab berikutnya untuk menganalisis peran saudara kandung sebagai dorongan moral pengarang.

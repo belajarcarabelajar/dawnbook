@@ -1,5 +1,6 @@
 ## Kajian Ekspresif: Pengaruh Latar Akademik terhadap Gaya Penulisan
-## Penjelasan Inti
+
+### Penjelasan Inti
 
 Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memberikan pengaruh ekspresif yang sangat unik terhadap gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis yang presisi:
 
@@ -21,14 +22,14 @@ Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertan
    > “Ruang terbesar di rumahku adalah ruang tamu berukuran 2 x 4,5 meter.” (Hlm. 13)
 
 Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi, logika analitis, dan presisi data statistik, yang kemudian ia kawinkan dengan sensitivitas estetis dalam menyajikan kisah otobiografisnya secara logis dan faktual.
-## Aplikasi Praktis / Studi Kasus
+### Aplikasi Praktis / Studi Kasus
 
-Studi kasus yang relevan dengan pengaruh latar akademik Iwan sebagai lulusan Statistika Institut Pertanian Bogor adalah novel "9 Summers 10 Autumns" karya Iwan Setyawan. Dalam novel ini, Iwan menggunakan gaya penulisan yang logis dan faktual untuk menceritakan kehidupannya, membuat kisahnya terasa faktual.
+Pilihlah salah satu bab dalam novel yang sarat dengan penyebutan angka atau dimensi ruang (seperti luas rumah, ukuran ranjang bambu, atau nominal harga tanah). Analisis bagaimana presisi data kuantitatif tersebut dikawinkan dengan narasi emosional untuk menciptakan keunikan gaya penulisan statistika yang puitis.
 
-## Refleksi Bab
+### Refleksi Bab
 
-Apa yang dapat kita pelajari dari pengaruh latar akademik Iwan sebagai lulusan Statistika Institut Pertanian Bogor dalam gaya penulisannya? Bagaimana kita dapat menerapkan prinsip-prinsip yang sama dalam gaya penulisan kita sendiri?
+*Mengapa latar belakang pendidikan sains atau kuantitatif seperti Statistika tetap dapat melahirkan karya sastra yang sangat emosional dan menyentuh hati? Bagaimana logika data dapat memperkuat kebenaran artistik dalam sebuah tulisan?*
 
----
+### Jembatan Transisi Akhir
 
-Dengan demikian, kita dapat melihat bahwa latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor memiliki pengaruh besar dalam gaya penulisannya di dalam novel. Ia menggunakan angka dan data untuk menceritakan kehidupannya, membuat kisahnya terasa logis dan faktual. Hal ini menunjukkan bahwa latar akademik dapat mempengaruhi gaya penulisan seseorang dalam cara yang signifikan.
+Setelah menelusuri seluruh dimensi struktural dan ekspresif dari perjalanan hidup pengarang, kita telah sampai pada akhir analisis ini. Di bab penutup berikutnya, kita akan merangkum kesimpulan akhir, memberikan saran akademis, serta menyajikan daftar referensi ilmiah yang mendukung kajian ini.
