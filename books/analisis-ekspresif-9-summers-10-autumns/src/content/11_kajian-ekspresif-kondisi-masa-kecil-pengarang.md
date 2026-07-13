@@ -13,14 +13,14 @@ Keterbatasan material dan himpitan ekonomi digambarkan secara realistis melalui 
 > “Di bawah langit Batu yang sering mendung, kami berjalan kaki ke sekolah dengan sepatu yang solnya sudah menipis. Tapi kami tidak pernah mengeluh, karena kami tahu Bapak dan Ibu bekerja keras untuk kami.” (Hlm. 14–15)
 
 Kenangan masa kecil ini terekspresikan sebagai pondasi ketangguhan mental Iwan dalam menghadapi kerasnya tantangan hidup di masa dewasa.
-### Aplikasi Praktis / Studi Kasus
+### Telaah Biografis: Keterbatasan Fisik sebagai Bahan Bakar Mimpi
 
 Identifikasi bagian cerita yang menceritakan tentang keterbatasan fasilitas belajar di masa kecil Iwan (seperti belajar di bawah lampu minyak atau keterbatasan buku). Analisis bagaimana keprihatinan fisik tersebut secara ekspresif melahirkan tekad baja untuk mengubah nasib keluarga.
 
-### Refleksi Bab
+### Pertanyaan Reflektif: Dampak Psikologis Kemiskinan Awal
 
 *Apakah menurut kamu memori masa kecil yang penuh keterbatasan selalu berdampak positif terhadap motivasi berprestasi seseorang? Bagaimana novel ini menggambarkan sisi traumatis sekaligus sisi inspiratif dari kemiskinan masa kecil?*
 
-### Jembatan Transisi Akhir
+### Pilar Utama: Sosok Inspirator Terbesar
 
 Pengalaman masa kecil yang prihatin namun tangguh ini tidak lepas dari bimbingan dan teladan orang tua. Dalam bab selanjutnya, kita akan melihat lebih dekat bagaimana sosok Bapak dan Ibu bertransformasi menjadi inspirasi terbesar bagi perjalanan karir dan karya sastra Iwan Setyawan.

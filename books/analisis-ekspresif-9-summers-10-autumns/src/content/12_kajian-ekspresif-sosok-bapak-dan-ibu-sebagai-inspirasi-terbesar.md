@@ -21,14 +21,14 @@ Sementara itu, Ibu (Ngatinah) merupakan tiang penopang kesederhanaan dan keadila
 Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan biaya sekolah anak-anak mereka:
 
 > “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
-### Aplikasi Praktis / Studi Kasus
+### Studi Komparatif: Sinergi Ketangguhan Bapak dan Manajemen Ibu
 
 Tuliskan analisis komparatif mengenai bagaimana watak gigih Bapak (menyopir angkot siang malam) dan manajemen hemat Ibu (mengatur takaran beras dan uang sekolah) bersinergi dalam membentuk etika kerja (work ethic) Iwan yang tangguh hingga ke dunia profesional korporat.
 
-### Refleksi Bab
+### Perenungan Hati: Rasa Syukur dan Beban Moral Sang Anak
 
 *Bagaimana cara Iwan Setyawan mengekspresikan rasa terima kasih sekaligus rasa bersalahnya kepada orang tuanya melalui narasi dalam novel ini? Pilihlah satu kutipan yang menurut kamu paling mengharukan menggambarkan hubungan anak dan orang tua.*
 
-### Jembatan Transisi Akhir
+### Lingkaran Terdekat: Peran Saudara Kandung
 
 Selain kedua orang tuanya, saudara-saudara kandung Iwan juga menjadi rantai motivasi yang tidak terputus. Mari kita beralih ke bab berikutnya untuk menganalisis peran saudara kandung sebagai dorongan moral pengarang.

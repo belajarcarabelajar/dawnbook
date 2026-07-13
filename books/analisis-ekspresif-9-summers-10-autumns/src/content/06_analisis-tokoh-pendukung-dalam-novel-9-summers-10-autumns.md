@@ -42,14 +42,14 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
    Teman dekat Iwan di New York yang berwatak ramah dan terbuka, menjadi rekan bertukar pikiran yang membantunya merefleksikan nilai-nilai kehidupan:
    
    > “Setelah saling bertukar beberapa e-mail siang itu, keesokan harinya, seperti tak mau menunda lagi, aku bertemu dengan Audrey seusai yoga. Kami berbincang selama berjam-jam tentang hidup, yoga, dan spirituality di Blue Ribbon, restoran Jepang favoritnya di West Village. Sangat mudah untuk terus menggulirkan bola perbincangan dengannya. This is quite Connection, pikirku. Mungkin kami berada di jalur pencarian hidup yang sama saat itu. Mulai dari yoga sampai Barneys.” (Hlm. 81)
-### Aplikasi Praktis / Studi Kasus
+### Eksplorasi Tokoh: Peran Lingkungan Akademik dan Kerja
 
 Lakukan analisis peran terhadap tokoh pendukung seperti para dosen di IPB atau rekan kerja di Jakarta. Deskripsikan bagaimana interaksi sosial mereka dengan Iwan berkontribusi langsung pada kelanjutan karir akademis dan profesionalnya.
 
-### Refleksi Bab
+### Pertanyaan Analitis: Arti Penting Tokoh Pendukung
 
 *Menurut kamu, apakah tokoh utama dapat mencapai kesuksesannya tanpa kehadiran tokoh pendukung yang memotivasi atau menantangnya? Bagaimana tokoh pendukung mencerminkan realitas sosial lingkungan pengarang?*
 
-### Jembatan Transisi Akhir
+### Menuju Analisis Latar: Ruang dan Lingkungan Cerita
 
 Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial—dari kesejukan Batu hingga belantara beton New York—yang melingkupi perjalanan hidup mereka.

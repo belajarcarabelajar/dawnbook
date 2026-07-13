@@ -23,14 +23,14 @@ Tokoh adalah pelaku yang menggerakkan jalannya cerita, sedangkan penokohan adala
    Mbak Isa adalah kakak tertua Iwan yang cerdas, giat belajar secara mandiri, dan menjadi inspirasi terbesar bagi adik-adiknya dalam menempuh jalur pendidikan:
    
    > “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
-### Aplikasi Praktis / Studi Kasus
+### Studi Karakter: Menelusuri Perkembangan Tokoh Iwan
 
 Buatlah perbandingan karakter antara tokoh Iwan di masa kecil (anak sopir angkot yang minder namun bertekad) dengan Iwan di New York (direktur riset yang kesepian). Catat perubahan sifatnya dan temukan kutipan yang menunjukkan titik balik perkembangannya.
 
-### Refleksi Bab
+### Diskusi Karakter: Pengaruh Watak Bapak dan Ibu
 
 *Bagaimana penggambaran watak Bapak dan Ibu dalam novel ini memengaruhi keputusan-keputusan besar yang diambil oleh Iwan sepanjang hidupnya? Siapa di antara kedua sosok ini yang menurut kamu memiliki pengaruh paling dominan terhadap kepribadian Iwan?*
 
-### Jembatan Transisi Akhir
+### Langkah Berikutnya: Menilik Tokoh di Sekitar Iwan
 
 Selain tokoh utama, kehadiran tokoh-tokoh pendukung di sekitar Iwan juga memberikan warna tersendiri dalam jalinan cerita. Pada bab selanjutnya, kita akan mengidentifikasi peran penting para tokoh pembantu tersebut.

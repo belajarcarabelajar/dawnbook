@@ -35,14 +35,14 @@ Analisis ini memiliki beberapa manfaat, baik teoretis maupun praktis.
 3.  Bagi Masyarakat: Analisis ini dapat meningkatkan apresiasi masyarakat terhadap karya sastra yang memiliki nilai melalui pendidikan.
 
 Dengan demikian, analisis ini dapat memberikan kontribusi yang signifikan dalam memahami novel 9 Summers 10 Autumns dari perspektif strukturalisme dan ekspresifisme.
-### Aplikasi Praktis / Studi Kasus
+### Implementasi Metodologi: Pemetaan Rumusan Masalah
 
 Saat menyusun proposal penelitian sastra, buatlah matriks sederhana yang menghubungkan setiap rumusan masalah dengan metode analisis yang digunakan. Misalnya, untuk menguji cerminan kejiwaan Iwan Setyawan, hubungkan kutipan teks tentang perasaannya di New York dengan data biografi wawancara langsung.
 
-### Refleksi Bab
+### Sudut Pandang Peneliti: Menakar Tantangan Analisis
 
 *Dari ketiga rumusan masalah yang diajukan, manakah menurut kamu yang paling menantang untuk dijawab menggunakan data biografis pengarang? Mengapa demikian?*
 
-### Jembatan Transisi Akhir
+### Langkah Berikutnya: Memasuki Ranah Struktural
 
 Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini. Mari kita beralih ke bab berikutnya untuk membahas teori strukturalisme dan bagaimana tema utama novel ini terbentuk.
