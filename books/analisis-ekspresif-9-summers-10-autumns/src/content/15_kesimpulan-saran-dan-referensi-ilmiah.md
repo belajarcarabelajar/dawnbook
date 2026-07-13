@@ -49,7 +49,7 @@ Rani, T. (2024). Nilai Moral dalam Novel Negeri 5 Menara Karya Ahmad Fuadi [Skri
 Setyawan, I. (2013). 9 Summers 10 Autumns (M. Yulistianti, Ed.). PT Gramedia Pustaka Utama.
 
 Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman dengan Pendekatan Ekspresif. Jurnal Ilmiah Nusantara (JINU), 3(2), 506–512.
-https://doi.org/10.61722/jinu.v3i2.8774
+[https://doi.org/10.61722/jinu.v3i2.8774](https://doi.org/10.61722/jinu.v3i2.8774)
 
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 

@@ -16,7 +16,7 @@ Kenangan masa kecil ini terekspresikan sebagai pondasi ketangguhan mental Iwan d
 
 ### Telaah Biografis: Keterbatasan Fisik sebagai Bahan Bakar Mimpi
 
-Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik—seperti belajar di bawah redupnya lampu minyak petromaks di Batu—dieksploitasi oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan tidak diekspresikan sebagai trauma yang melumpuhkan, melainkan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad baja untuk membebaskan keluarganya dari belenggu kemiskinan.
+Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik (seperti belajar di bawah redupnya lampu minyak petromaks di Batu) dieksploitasi oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan tidak diekspresikan sebagai trauma yang melumpuhkan, melainkan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad baja untuk membebaskan keluarganya dari belenggu kemiskinan.
 
 ### Pertanyaan Reflektif: Dampak Psikologis Kemiskinan Awal
 
