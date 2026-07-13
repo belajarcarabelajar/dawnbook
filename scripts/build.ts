@@ -4,35 +4,48 @@ import { $ } from "bun";
 import { isPublicPath } from "../functions/lib/gating.ts";
 
 try {
-  const envContent = await readFile(join(process.cwd(), "apps/admin/.env.local"), "utf8");
-  envContent.split("\n").forEach(line => {
+  const envContent = await readFile(
+    join(process.cwd(), "apps/admin/.env.local"),
+    "utf8",
+  );
+  envContent.split("\n").forEach((line) => {
     const match = line.match(/^([^=]+)=(.*)$/);
     if (match) process.env[match[1]] = match[2].trim();
   });
 } catch (e) {
-  console.warn('.env.local not found, skipping');
+  console.warn(".env.local not found, skipping");
 }
 
 function escapeHtml(unsafe: string) {
-    return unsafe
-         .replace(/&/g, "&amp;")
-         .replace(/</g, "&lt;")
-         .replace(/>/g, "&gt;")
-         .replace(/"/g, "&quot;")
-         .replace(/'/g, "&#039;");
+  return unsafe
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
 
 async function build() {
   if (!process.env.VITE_CLERK_PUBLISHABLE_KEY) {
-    console.error("❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.");
+    console.error(
+      "❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.",
+    );
     process.exit(1);
   }
 
   let clerkDomain = "";
   try {
-    const keyBody = process.env.VITE_CLERK_PUBLISHABLE_KEY.replace(/^pk_(test|live)_/, '');
-    const padded = keyBody.padEnd(keyBody.length + (4 - keyBody.length % 4) % 4, '=');
-    clerkDomain = Buffer.from(padded, 'base64').toString('utf8').replace(/\$$/, '');
+    const keyBody = process.env.VITE_CLERK_PUBLISHABLE_KEY.replace(
+      /^pk_(test|live)_/,
+      "",
+    );
+    const padded = keyBody.padEnd(
+      keyBody.length + ((4 - (keyBody.length % 4)) % 4),
+      "=",
+    );
+    clerkDomain = Buffer.from(padded, "base64")
+      .toString("utf8")
+      .replace(/\$$/, "");
   } catch (e) {
     console.warn("Could not parse Clerk domain from publishable key", e);
   }
@@ -47,7 +60,14 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const entries = await readdir(booksDir);
-  const builtBooks: { slug: string; title: string; author: string; chapterCount: number; emoji: string; chapters: string[] }[] = [];
+  const builtBooks: {
+    slug: string;
+    title: string;
+    author: string;
+    chapterCount: number;
+    emoji: string;
+    chapters: string[];
+  }[] = [];
 
   console.log("Synchronizing book configurations from _template...");
   await $`bun run scripts/sync-template.ts`;
@@ -63,7 +83,7 @@ async function build() {
     const bookStat = await stat(bookPath);
 
     if (bookStat.isDirectory()) {
-      if (entry.startsWith('_')) continue;
+      if (entry.startsWith("_")) continue;
       if (!/^[a-zA-Z0-9_-]+$/.test(entry)) {
         console.warn(`Skipping invalid directory name: ${entry}`);
         continue;
@@ -80,43 +100,65 @@ async function build() {
 
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
-        let formattedTitle = entry.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+        let formattedTitle = entry
+          .split("-")
+          .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+          .join(" ");
         let author = "Iwan Kurniawan";
         try {
-            const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
-            const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
-            if (titleMatch) formattedTitle = titleMatch[1];
-            const authorsMatch = tomlText.match(/authors\s*=\s*\[\s*"([^"]+)"\s*\]/);
-            if (authorsMatch) author = authorsMatch[1];
-        } catch (e) { console.warn('Failed to parse book.toml title or author', e); }
-        
+          const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
+          const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
+          if (titleMatch) formattedTitle = titleMatch[1];
+          const authorsMatch = tomlText.match(
+            /authors\s*=\s*\[\s*"([^"]+)"\s*\]/,
+          );
+          if (authorsMatch) author = authorsMatch[1];
+        } catch (e) {
+          console.warn("Failed to parse book.toml title or author", e);
+        }
+
         let chapterCount = 0;
         let chapters: string[] = [];
         try {
-            const summaryText = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
-            const lines = summaryText.split('\n').filter(line => line.trim().startsWith('- ['));
-            chapterCount = lines.length;
-            chapters = lines.map(line => {
-                const match = line.match(/\]\((.*?)\.md\)/);
-                if (match) {
-                    let filename = match[1];
-                    filename = decodeURIComponent(filename.replace(/^\.\//, ''));
-                    if (filename === 'README' || filename === 'index') return `/books/${entry}/index.html`;
-                    return `/books/${entry}/${filename}.html`;
-                }
-                return null;
-            }).filter(Boolean) as string[];
+          const summaryText = await readFile(
+            join(bookPath, "src", "SUMMARY.md"),
+            "utf8",
+          );
+          const lines = summaryText
+            .split("\n")
+            .filter((line) => line.trim().startsWith("- ["));
+          chapterCount = lines.length;
+          chapters = lines
+            .map((line) => {
+              const match = line.match(/\]\((.*?)\.md\)/);
+              if (match) {
+                let filename = match[1];
+                filename = decodeURIComponent(filename.replace(/^\.\//, ""));
+                if (filename === "README" || filename === "index")
+                  return `/books/${entry}/index.html`;
+                return `/books/${entry}/${filename}.html`;
+              }
+              return null;
+            })
+            .filter(Boolean) as string[];
         } catch (e) {
-            console.warn(`Could not read SUMMARY.md for ${entry}`);
+          console.warn(`Could not read SUMMARY.md for ${entry}`);
         }
-        let emoji = '📖';
+        let emoji = "📖";
         try {
-            const iconText = await readFile(join(bookPath, "icon.txt"), "utf8");
-            if (iconText.trim()) emoji = iconText.trim();
+          const iconText = await readFile(join(bookPath, "icon.txt"), "utf8");
+          if (iconText.trim()) emoji = iconText.trim();
         } catch (e) {
-            console.warn('Failed to read icon.txt, falling back to generic', e);
+          console.warn("Failed to read icon.txt, falling back to generic", e);
         }
-        builtBooks.push({ slug: entry, title: formattedTitle, author, chapterCount, emoji, chapters });
+        builtBooks.push({
+          slug: entry,
+          title: formattedTitle,
+          author,
+          chapterCount,
+          emoji,
+          chapters,
+        });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
         console.error(`Failed to build book: ${entry}`, error);
@@ -130,12 +172,25 @@ async function build() {
 
   console.log("Generating premium hub site...");
 
-  const minifyJs = (js: string) => js.replace(/\/\*[\s\S]*?\*\//g, '').replace(/^\s*\/\/.*$/gm, '').replace(/\s+/g, ' ').trim();
-  const minifyCss = (css: string) => css.replace(/\/\*[\s\S]*?\*\//g, '').replace(/\s+/g, ' ').replace(/\s*([{}:;,])\s*/g, '$1').trim();
+  const minifyJs = (js: string) =>
+    js
+      .replace(/\/\*[\s\S]*?\*\//g, "")
+      .replace(/^\s*\/\/.*$/gm, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  const minifyCss = (css: string) =>
+    css
+      .replace(/\/\*[\s\S]*?\*\//g, "")
+      .replace(/\s+/g, " ")
+      .replace(/\s*([{}:;,])\s*/g, "$1")
+      .trim();
 
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
   const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
-  const runtimeScript = await readFile(join(rootDir, "apps/hub/src/scripts/i18n-runtime.js"), "utf8");
+  const runtimeScript = await readFile(
+    join(rootDir, "apps/hub/src/scripts/i18n-runtime.js"),
+    "utf8",
+  );
 
   const i18nInjection = `
     <script>
@@ -149,7 +204,11 @@ async function build() {
     </script>
   `;
 
-  const generatePage = (title: string, content: string, isHome: boolean = false) => `<!DOCTYPE html>
+  const generatePage = (
+    title: string,
+    content: string,
+    isHome: boolean = false,
+  ) => `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -158,14 +217,14 @@ async function build() {
     <meta name="theme-color" content="#000000">
     <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY}">
     <title>${title} | Dawnbook Platform</title>
-    ${clerkDomain ? `<link rel="preconnect" href="https://${clerkDomain}" crossorigin>\n    <link rel="dns-prefetch" href="https://${clerkDomain}">` : ''}
+    ${clerkDomain ? `<link rel="preconnect" href="https://${clerkDomain}" crossorigin>\n    <link rel="dns-prefetch" href="https://${clerkDomain}">` : ""}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap">
     <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap"></noscript>
         <script src="/pake-compat.js" defer></script>
-    <link rel="icon" type="image/svg+xml" href="${isHome ? 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>' : 'data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>'}">
+    <link rel="icon" type="image/svg+xml" href="${isHome ? "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>" : "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>"}">
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">
     <link rel="stylesheet" href="/HubLayout.css?v=${Date.now()}">
@@ -245,10 +304,10 @@ async function build() {
                 </div>
             </div>
             <nav class="nav-links" aria-label="Main Navigation">
-                <a href="/" class="${isHome ? 'active' : ''}" ${isHome ? 'aria-current="page"' : ''} data-i18n="hub.home">Home</a>
-                <a href="/about.html" class="${title === 'About' ? 'active' : ''}" ${title === 'About' ? 'aria-current="page"' : ''} data-i18n="hub.about">About</a>
-                <a href="/contribute.html" class="${title === 'Contribute' ? 'active' : ''}" ${title === 'Contribute' ? 'aria-current="page"' : ''} data-i18n="hub.contribute">Contribute</a>
-                <a href="/donate.html" class="${title === 'Donate' ? 'active' : ''}" ${title === 'Donate' ? 'aria-current="page"' : ''} data-i18n="hub.donate">Donate</a>
+                <a href="/" class="${isHome ? "active" : ""}" ${isHome ? 'aria-current="page"' : ""} data-i18n="hub.home">Home</a>
+                <a href="/about.html" class="${title === "About" ? "active" : ""}" ${title === "About" ? 'aria-current="page"' : ""} data-i18n="hub.about">About</a>
+                <a href="/contribute.html" class="${title === "Contribute" ? "active" : ""}" ${title === "Contribute" ? 'aria-current="page"' : ""} data-i18n="hub.contribute">Contribute</a>
+                <a href="/donate.html" class="${title === "Donate" ? "active" : ""}" ${title === "Donate" ? 'aria-current="page"' : ""} data-i18n="hub.donate">Donate</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -279,7 +338,9 @@ async function build() {
     </div>
 
     <div class="book-masonry" style="opacity: 0; transition: opacity 0.5s ease-in-out;">
-      ${builtBooks.map(b => `
+      ${builtBooks
+        .map(
+          (b) => `
         <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
@@ -300,7 +361,9 @@ async function build() {
                 </div>
             </div>
         </a>
-      `).join("")}
+      `,
+        )
+        .join("")}
     </div>
     <script>
       ${minifyJs(`
@@ -884,32 +947,70 @@ async function build() {
     </script>
   `;
 
-  await writeFile(join(outputDir, "index.html"), generatePage("Home", indexContent, true));
-  await writeFile(join(outputDir, "about.html"), generatePage("About", aboutContent));
-  await writeFile(join(outputDir, "contribute.html"), generatePage("Contribute", contributeContent));
-  await writeFile(join(outputDir, "donate.html"), generatePage("Donate", donateContent));
-  await writeFile(join(outputDir, "appreciation.html"), generatePage("Appreciation", appreciationContent));
-  await writeFile(join(outputDir, "sign-in.html"), generatePage("Sign In", signInContent));
-  await writeFile(join(outputDir, "sign-up.html"), generatePage("Sign Up", signUpContent));
-  const manifestData = { 
-    books: builtBooks.map(b => b.slug), 
-    chapters: builtBooks.reduce((acc, b) => { acc[b.slug] = b.chapters; return acc; }, {} as Record<string, string[]>)
+  await writeFile(
+    join(outputDir, "index.html"),
+    generatePage("Home", indexContent, true),
+  );
+  await writeFile(
+    join(outputDir, "about.html"),
+    generatePage("About", aboutContent),
+  );
+  await writeFile(
+    join(outputDir, "contribute.html"),
+    generatePage("Contribute", contributeContent),
+  );
+  await writeFile(
+    join(outputDir, "donate.html"),
+    generatePage("Donate", donateContent),
+  );
+  await writeFile(
+    join(outputDir, "appreciation.html"),
+    generatePage("Appreciation", appreciationContent),
+  );
+  await writeFile(
+    join(outputDir, "sign-in.html"),
+    generatePage("Sign In", signInContent),
+  );
+  await writeFile(
+    join(outputDir, "sign-up.html"),
+    generatePage("Sign Up", signUpContent),
+  );
+  const manifestData = {
+    books: builtBooks.map((b) => b.slug),
+    chapters: builtBooks.reduce(
+      (acc, b) => {
+        acc[b.slug] = b.chapters;
+        return acc;
+      },
+      {} as Record<string, string[]>,
+    ),
   };
-  await writeFile(join(outputDir, "manifest.json"), JSON.stringify(manifestData, null, 2));
+  await writeFile(
+    join(outputDir, "manifest.json"),
+    JSON.stringify(manifestData, null, 2),
+  );
 
   // Copy & minify CSS files
   for (const cssFile of ["typography.css", "tokens.css"]) {
-    const cssContent = await readFile(join(rootDir, `apps/hub/src/styles/${cssFile}`), "utf8");
+    const cssContent = await readFile(
+      join(rootDir, `apps/hub/src/styles/${cssFile}`),
+      "utf8",
+    );
     await writeFile(join(outputDir, cssFile), minifyCss(cssContent));
   }
-  const layoutCss = await readFile(join(rootDir, "apps/hub/src/components/HubLayout.css"), "utf8");
+  const layoutCss = await readFile(
+    join(rootDir, "apps/hub/src/components/HubLayout.css"),
+    "utf8",
+  );
   await writeFile(join(outputDir, "HubLayout.css"), minifyCss(layoutCss));
 
   // Copy PWA public files
   try {
     await $`cp -r public/* ${outputDir}/`;
   } catch (e) {
-    console.warn("No public/ directory found or empty, skipping PWA files copy.");
+    console.warn(
+      "No public/ directory found or empty, skipping PWA files copy.",
+    );
   }
 
   console.log("Applying anti-FOUC script to gated books...");
@@ -948,7 +1049,7 @@ async function build() {
         } else if (fullPath.endsWith(".html")) {
           const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
           if (!isPublicPath(relativePath)) {
-            headersContent += `\\n${relativePath}\\n  X-Robots-Tag: noindex`;
+            headersContent += `\n${relativePath}\n  X-Robots-Tag: noindex`;
           }
         }
       }
@@ -972,7 +1073,7 @@ async function build() {
   console.log("Premium Hub site generated successfully.");
 }
 
-build().catch(err => {
+build().catch((err) => {
   console.error(err);
   process.exit(1);
 });
