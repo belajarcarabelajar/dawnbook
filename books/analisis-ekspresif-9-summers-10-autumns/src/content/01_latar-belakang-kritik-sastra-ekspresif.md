@@ -1,16 +1,29 @@
 ## Latar Belakang Kritik Sastra Ekspresif
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial, serta bagaimana pendekatan ekspresif digunakan untuk memahami pemikiran, perasaan, dan latar belakang pengarang.
+Kita akan melihat bagaimana novel *9 Summers 10 Autumns* mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial, serta bagaimana pendekatan ekspresif digunakan untuk memahami pemikiran, perasaan, dan latar belakang pengarang secara mendalam.
 
-Latar Belakang Masalah
+### Latar Belakang Kritik Sastra dan Realitas Sosial
 
-Karya sastra adalah ungkapan keadaan realitas secara khayal atau fiksi yang mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial (Kusuma et al., 2025). Karya sastra dapat mencerminkan kehidupan suatu masyarakat yang memiliki nilai-nilai budaya dan moral yang teraplikasikan pada sikap, latar belakang, dan keyakinan pengarang. Kehidupan masyarakat dalam karya sastra dapat memperlihatkan isu-isu sosial yang terjadi pada masanya (Mutia, 2024).
+Karya sastra pada dasarnya adalah ungkapan keadaan realitas secara khayal atau fiksi yang mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial (Kusuma dkk., 2025). Sebuah karya fiksi tidak lahir dari kekosongan budaya, melainkan membawa serta nilai-nilai, ideologi, dan moral yang dianut oleh masyarakat penciptanya.
 
-Novel 9 Summers 10 Autumns adalah karya sastra berbentuk novel yang mencerminkan realitas sosial yang dialami oleh pengarang, Iwan Setyawan, dalam kisah hidupnya yang penuh dengan perjuangan. Realitas dari kisah yang diceritakan oleh pengarang dapat dikaji lebih dalam mengenai keterkaitan antara pengarang dengan hasil karyanya.
+Dalam konteks kritik sastra, karya fiksi dapat menjadi cermin sosiologis:
+*   **Cerminan Budaya**: Karya sastra memotret kebiasaan, norma, dan tata nilai masyarakat pada masanya.
+*   **Cerminan Isu Sosial**: Karya sastra memperlihatkan ketimpangan, perjuangan kelas, dan tantangan hidup kontemporer (Mutia, 2024).
 
-Pendekatan Ekspresif
+Novel *9 Summers 10 Autumns* karya Iwan Setyawan adalah representasi nyata dari keterkaitan erat ini. Novel otobiografis ini merekam realitas sosial kemiskinan di Kota Batu, Jawa Timur, serta determinasi tokoh utama dalam menempuh jalan pendidikan untuk mengangkat harkat hidup keluarga.
 
-Pendekatan ekspresif digunakan dalam analisis novel 9 Summers 10 Autumns untuk memahami pemikiran, perasaan, dan latar belakang yang membuat penulis menghasilkan karyanya. Pendekatan ini memberikan pemahaman mengenai latar belakang psikologis dari karya sastra (Fitri et al., 2024). Melalui pendekatan ekspresif, Novel 9 Summers 10 Autumns memberikan pembaca gambaran mengenai latar belakang Iwan Setyawan sebagai penulis sekaligus tokoh dalam cerita dalam perjuangannya mencapai mimpinya, beserta peristiwa yang dialami oleh tokoh dalam perjalanan hidupnya.
+### Landasan Pendekatan Ekspresif dalam Kritik Sastra
+
+Pendekatan ekspresif dalam kritik sastra memandang karya sastra sebagai produk luapan emosi, pemikiran, imajinasi, dan kepribadian pengarangnya (Abrams dalam Fitri dkk., 2024). Pendekatan ini menempatkan pengarang sebagai agen utama pencipta makna:
+
+> "Pendekatan ekspresif menitikberatkan analisis pada hubungan genetik-kausalitas antara karya sastra dengan latar belakang psikologis dan sosiologis pengarangnya."
+
+Melalui lensa ekspresif, novel *9 Summers 10 Autumns* bukan lagi sekadar narasi fiksi biasa, melainkan media katarsis emosional bagi Iwan Setyawan untuk mengekspresikan:
+- **Nostalgia Masa Kecil**: Memori tentang kesederhanaan hidup di kaki Gunung Panderman.
+- **Tekanan Mental & Kesepian**: Perasaan keterasingan (*alienation*) di tengah gemerlap Manhattan, New York.
+- **Kebanggaan dan Bakti**: Ungkapan terima kasih yang tulus atas pengorbanan tanpa batas dari kedua orang tuanya.
+
+---
 
 ### Eksperimen Analisis: Membandingkan Biografi dan Fiksi
 
