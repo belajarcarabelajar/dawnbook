@@ -2,7 +2,7 @@
 
 Kita akan melihat bagaimana kondisi masa kecil pengarang memengaruhi pembentukan karakter dan impian-impiannya. Setelah sebelumnya kita menelaah dimensi spiritualitas pengarang, kini mari kita selami kenangan masa kecilnya di Batu yang penuh dengan kesederhanaan dan keprihatinan.
 
-### Penjelasan Inti
+### Rekaman Masa Kecil: Kehidupan Sederhana di Kaki Gunung
 
 Kondisi masa kecil pengarang di Kota Batu, Jawa Timur, sangat memengaruhi arah penulisan novel ini. Kota Batu digambarkan sebagai tanah kelahiran yang dingin namun hangat oleh kasih sayang keluarga, serta tempat di mana mimpi-mimpi besar Iwan pertama kali dirajut:
 

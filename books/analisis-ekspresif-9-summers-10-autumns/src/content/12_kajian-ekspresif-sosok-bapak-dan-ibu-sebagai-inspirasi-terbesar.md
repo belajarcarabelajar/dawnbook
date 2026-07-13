@@ -1,6 +1,6 @@
 ## Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
 
-### Penjelasan Inti
+### Representasi Kasih Sayang dan Pengorbanan Orang Tua
 
 Latar belakang kedua orang tua merupakan sumbu inspirasi ekspresif terbesar bagi pengarang dalam menulis novel *9 Summers 10 Autumns*. 
 

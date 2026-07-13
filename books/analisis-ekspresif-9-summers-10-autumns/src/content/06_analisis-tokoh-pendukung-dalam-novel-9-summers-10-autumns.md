@@ -1,10 +1,10 @@
 ## Analisis Tokoh Pendukung dalam Novel 9 Summers 10 Autumns
 
-### Apersepsi/Pengantar
+### Struktur Sosial dan Relasi Tokoh Utama
 
 Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
 
-### Penjelasan Inti
+### Kontribusi Tokoh Keluarga dan Kolega Profesional
 
 Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns* sangat penting dalam membentuk kepribadian Iwan Setyawan dan mendorongnya mencapai impian. Berikut adalah analisis watak tokoh pendukung:
 

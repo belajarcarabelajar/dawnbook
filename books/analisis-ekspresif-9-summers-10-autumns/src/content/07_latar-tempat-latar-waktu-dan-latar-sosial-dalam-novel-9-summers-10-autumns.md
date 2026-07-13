@@ -2,7 +2,7 @@
 
 Kita akan melihat bagaimana latar tempat, latar waktu, dan latar sosial dalam novel 9 Summers 10 Autumns membentuk cerita yang kompleks dan menarik. Latar adalah elemen penting dalam karya sastra yang membantu menciptakan kesan realistis bagi pembaca.
 
-### Penjelasan Inti
+### Eksplorasi Latar: Dari Kota Apel hingga Belantara Beton
 
 Latar adalah tempat dan waktu berlangsungnya cerita. Latar dibuat untuk menciptakan kesan realistis bagi pembaca sehingga mereka seakan-akan ikut berada dalam peristiwa cerita tersebut (Nurgiyantoro dalam Ronaldo Manullang (2021) dalam (Hasanah et al., 2025)). Latar perlu digambarkan secara rinci dalam karya sastra agar memberikan gambaran yang terang, nyata, dan jelas (Saifur Rohman (2020) dalam (Hasanah et al., 2025)). Aspek waktu, lokasi, dan kondisi sosial dalam karya sastra adalah gambaran dari latar cerita (Sinta dkk (2021) dalam (Hasanah et al., 2025)). Semakin luas pengetahuan dan imajinasi penulis, maka semakin berkualitas latar yang ia buat dalam karyanya (Nurhayati (2019) dalam (Hasanah et al., 2025)).
 
