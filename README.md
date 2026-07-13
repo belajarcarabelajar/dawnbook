@@ -2,7 +2,7 @@
 
 An open-source platform for collaborating on and publishing educational books based on Markdown and mdBook.
 
-Welcome to Dawnbook! This is an open-source hub where contributors can submit and publish educational books. The platform aggregates multiple books into a central hub, hosting texts such as **Teori Perkembangan Kognitif Piaget**, **Metakognisi**, **Filosofi Stoikisme**, **Digital Minimalisme**, and **Quarter Life Crisis**.
+Welcome to Dawnbook! This is an open-source hub where contributors can submit and publish educational books. The platform aggregates over 29 books into a central hub, hosting texts such as **Teori Perkembangan Kognitif Piaget**, **Metakognisi**, **Filosofi Stoikisme**, **Digital Minimalisme**, and **Quarter Life Crisis**.
 
 ## Features & Architecture
 
@@ -14,7 +14,7 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 - **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, and completed paths per user.
 - **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas.
 - **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
-- **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page.
+- **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page. It features an integrated **i18n** localization system (`en` and `id`) and a dedicated `/contribute` page to honor main contributors.
 - **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
 
 ## Prerequisites
