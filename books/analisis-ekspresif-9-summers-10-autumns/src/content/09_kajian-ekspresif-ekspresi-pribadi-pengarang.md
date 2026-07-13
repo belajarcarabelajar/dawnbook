@@ -13,14 +13,14 @@ Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karir sebelumnya da
 > “Sembilan tahun di New York adalah masa pencarian identitas diri. Aku harus melupakan kenyamanan yang kudapatkan di Jakarta dan mulai dari nol lagi di kota ini. Ini adalah perjuangan untuk menemukan jati diriku yang sebenarnya.” (Hlm. 94)
 
 Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah katarsis pengarang untuk mengolah trauma masa lalu, kerinduan mendalam pada keluarga, serta pencarian kedamaian hidup.
-### Aplikasi Praktis / Studi Kasus
+### Komparasi Biografis: Menyejajarkan Wawancara dan Novel
 
 Carilah artikel biografi atau wawancara video dengan Iwan Setyawan mengenai pengalamannya bekerja di New York. Bandingkan pernyataan nyatanya tentang kesepian di luar negeri dengan kutipan batin tokoh 'Aku' di bab pertama novel ini untuk membuktikan keselarasan ekspresifnya.
 
-### Refleksi Bab
+### Bahan Renungan: Sastra Sebagai Katarsis Trauma
 
 *Mengapa menulis novel otobiografis sering kali dianggap sebagai media katarsis atau penyembuhan trauma masa lalu bagi seorang pengarang? Apakah kamu merasakan kejujuran emosi tersebut saat membaca novel ini?*
 
-### Jembatan Transisi Akhir
+### Dimensi Religius: Kekuatan Iman di Perantauan
 
 Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan. Di bab berikutnya, kita akan menelaah bagaimana nilai religi dan ketaatan kepada Tuhan terefleksikan dalam karya ini.

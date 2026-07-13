@@ -33,14 +33,14 @@ Prihatin namun Hangat: Suasana prihatin di Batu karena keterbatasan fisik, namun
 Melankolis dan Reflektif: Penulis yang memutar kembali kisah masa lalunya dengan rasa syukur dan sisa-sisa perih dari kemiskinan membuat novel ini memiliki banyak bagian yang bernuansa perenungan.
 
 Suasana Asing: Muncul rasa kesepian penulis saat ia berada di New York, hal yang kontras saat ia berada di rumahnya yang ramai dengan keluarganya.
-### Aplikasi Praktis / Studi Kasus
+### Studi Kasus: Kontras Spasial Batu vs New York
 
 Gambarkan tabel kontras dua kolom yang membandingkan latar Batu dan latar New York berdasarkan aspek fisik (suhu, tata kota), sosial (interaksi tetangga vs individualisme), dan psikologis (kehangatan vs kesepian). Analisis bagaimana kontras ini memperkuat konflik batin tokoh utama.
 
-### Refleksi Bab
+### Ruang Perenungan: Nilai Sosial Kemiskinan dan Kemakmuran
 
 *Bagaimana latar sosial kemiskinan di Kota Batu di tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York?*
 
-### Jembatan Transisi Akhir
+### Langkah Selanjutnya: Pilihan Kata dan Sudut Pandang
 
 Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas. Mari kita lanjutkan ke bab berikutnya untuk menganalisis sudut pandang dan gaya bahasa puitis yang digunakan penulis.

@@ -2,23 +2,23 @@
 
 Kita telah menyelesaikan perjalanan analisis novel "9 Summers 10 Autumns" karya Iwan Setyawan. Dalam bab ini, kita akan menyimpulkan hasil analisis kita dan memberikan saran untuk pembaca.
 
-### 3.1 Kesimpulan
+### Sintesis Akhir Kajian
 
 Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat ikatan antara pembaca dan novel terhubung dengan emosi yang mengiringinya. Penokohan yang diceritakan oleh penulis dibalut dengan gaya bahasa puitis mempertegas tema karya ini: pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
 
 Melalui pendekatan ekspresif, terungkap bahwa novel ini merupakan hasil otentik perjalanan hidup Iwan Setyawan di tengah kondisi sulit. Kisah ini dituangkan berdasarkan latar belakang keluarga, kondisi sosial, masa kecil, dan latar belakang bidang akademiknya.
 
-### 3.2 Saran
+### Rekomendasi Penelitian Selanjutnya
 
 Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, tetapi sebagai tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
 
 Penelitian selanjutnya diharapkan dapat mengkaji karya ini menggunakan pendekatan yang berbeda, seperti pendekatan sosiologi sastra atau psikologi sastra agar memperkaya keilmuan mengenai analisis novel "9 Summers 10 Autumns".
 
-### 4.1 Refleksi Bab
+### Pertanyaan Terbuka untuk Pembaca
 
 *Setelah menempuh seluruh perjalanan analisis kritik sastra ini, bagaimana pendapat kamu mengenai peran sastra dalam merekam dan menyembuhkan pergulatan hidup manusia? Apakah kisah Iwan Setyawan menginspirasi kamu untuk menuliskan refleksi biografismu sendiri?*
 
-### 4.2 Jembatan Transisi Akhir
+### Catatan Penutup
 
 Dengan berakhirnya kajian ini, kita berharap dapat membuka wawasan baru bagi pengembangan kritik sastra ekspresif di Indonesia. Semoga analisis ini menjadi pemantik diskusi akademis maupun perenungan personal yang bermakna bagi perjalanan hidup kamu selanjutnya.
 
