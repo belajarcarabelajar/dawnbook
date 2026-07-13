@@ -1,6 +1,6 @@
 ## Tokoh dan Penokohan Utama dalam Novel 9 Summers 10 Autumns
 
-### Penjelasan Inti
+### Watak Tokoh Iwan: Transformasi dari Kota Batu ke New York
 
 Tokoh adalah pelaku yang menggerakkan jalannya cerita, sedangkan penokohan adalah metode pengarang dalam menampilkan karakter atau watak para tokoh tersebut (Putri et al., 2024). Dalam novel otobiografis *9 Summers 10 Autumns*, tokoh-tokoh utama digambarkan dengan sangat kuat dan memiliki watak yang khas:
 

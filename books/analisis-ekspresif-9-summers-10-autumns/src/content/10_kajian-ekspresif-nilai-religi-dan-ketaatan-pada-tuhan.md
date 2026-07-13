@@ -1,6 +1,6 @@
 ## Kajian Ekspresif: Nilai Religi dan Ketaatan pada Tuhan
 
-### Penjelasan Inti
+### Ketaatan Spiritual di Tengah Perubahan Budaya
 
 Dimensi religi dalam novel ini terekspresikan secara kuat melalui perilaku keagamaan tokoh utama dalam menyikapi tekanan batin di perantauan. Salat dan ibadah vertikal kepada Tuhan merupakan sumber kedamaian utama Iwan Setyawan ketika menghadapi badai rasa rindu dan kesunyian hidup di New York:
 

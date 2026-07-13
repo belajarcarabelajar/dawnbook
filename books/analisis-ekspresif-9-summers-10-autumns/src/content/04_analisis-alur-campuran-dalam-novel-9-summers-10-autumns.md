@@ -2,7 +2,7 @@
 
 Kita akan melihat bagaimana novel 9 Summers 10 Autumns menggunakan alur campuran (maju-mundur) untuk mengembangkan cerita dan tema. Novel ini telah membuktikan bahwa alur campuran dapat menjadi cara yang efektif untuk menarik perhatian pembaca dan membuat mereka terikat dengan cerita.
 
-### Penjelasan Inti
+### Dinamika Alur Campuran: Batu dan New York
 
 Alur adalah urutan jalannya cerita, yang terdiri dari tahapan-tahapan peristiwa yang berkesinambungan. Alur ini dapat memudahkan pembaca memahami jalannya cerita dan makna yang terkandung di dalamnya. Dalam novel 9 Summers 10 Autumns, alur campuran (maju-mundur) digunakan untuk mengembangkan cerita.
 

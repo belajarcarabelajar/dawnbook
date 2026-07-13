@@ -2,7 +2,7 @@
 
 Kita akan melihat bagaimana novel 9 Summers 10 Autumns menjadi sarana bagi pengarang untuk mengekspresikan kehidupan pribadinya. Setelah membahas alur cerita, penokohan, dan latar pada bab-bab terdahulu, kini kita mulai memasuki wilayah kajian ekspresif, di mana karya sastra ditelaah sebagai cerminan langsung dari jiwa pembuatnya.
 
-### Penjelasan Inti
+### Refleksi Jiwa Pengarang dalam Ruang Kota
 
 Pendekatan ekspresif memandang karya sastra sebagai pancaran langsung dari kejiwaan, emosi, dan pengalaman pribadi pengarangnya. Dalam novel *9 Summers 10 Autumns*, Iwan Setyawan mengekspresikan seluruh pergulatan batinnya saat berada di perantauan Kota New York yang sangat kompetitif:
 

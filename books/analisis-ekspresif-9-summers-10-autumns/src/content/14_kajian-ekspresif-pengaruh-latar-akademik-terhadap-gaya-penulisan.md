@@ -1,6 +1,6 @@
 ## Kajian Ekspresif: Pengaruh Latar Akademik terhadap Gaya Penulisan
 
-### Penjelasan Inti
+### Pengaruh Keilmuan Statistika terhadap Struktur Diksi
 
 Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memberikan pengaruh ekspresif yang sangat unik terhadap gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis yang presisi:
 

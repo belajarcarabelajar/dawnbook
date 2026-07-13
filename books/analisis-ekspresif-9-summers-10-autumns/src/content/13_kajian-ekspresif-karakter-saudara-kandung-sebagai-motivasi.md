@@ -1,6 +1,6 @@
 ## Kajian Ekspresif: Karakter Saudara Kandung sebagai Motivasi
 
-### Penjelasan Inti
+### Keharmonisan Keluarga: Dukungan Moral Saudara Kandung
 
 Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu motivasi ekspresif yang sangat kuat dalam novel ini. 
 
