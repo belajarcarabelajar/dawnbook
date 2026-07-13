@@ -639,7 +639,7 @@ async function build() {
             <div class="contributor-card">
                 <img src="https://d2oi1rqwb0pj00.cloudfront.net/user/nio_1740330104156_100.webp" alt="Kania Salsabila" class="contributor-avatar">
                 <div class="contributor-info">
-                    <h3 class="contributor-name" data-i18n="contribute.contributor2.name">Kania Salsabila</h3>
+                    <h3 class="contributor-name"><a href="https://github.com/kaniasalsabila639-ops" target="_blank" rel="noopener noreferrer" style="color: inherit; text-decoration: none;" data-i18n="contribute.contributor2.name">Kania Salsabila</a></h3>
                     <p class="contributor-role" data-i18n="contribute.contributor2.role">Best Scientific Paper, Outstanding Student (Mawapres), Faculty of Languages and Arts 2026, Universitas Negeri Jakarta</p>
                 </div>
             </div>
