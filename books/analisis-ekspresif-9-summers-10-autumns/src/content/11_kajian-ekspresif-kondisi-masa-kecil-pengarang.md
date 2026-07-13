@@ -13,9 +13,10 @@ Keterbatasan material dan himpitan ekonomi digambarkan secara realistis melalui 
 > “Di bawah langit Batu yang sering mendung, kami berjalan kaki ke sekolah dengan sepatu yang solnya sudah menipis. Tapi kami tidak pernah mengeluh, karena kami tahu Bapak dan Ibu bekerja keras untuk kami.” (Hlm. 14–15)
 
 Kenangan masa kecil ini terekspresikan sebagai pondasi ketangguhan mental Iwan dalam menghadapi kerasnya tantangan hidup di masa dewasa.
+
 ### Telaah Biografis: Keterbatasan Fisik sebagai Bahan Bakar Mimpi
 
-Identifikasi bagian cerita yang menceritakan tentang keterbatasan fasilitas belajar di masa kecil Iwan (seperti belajar di bawah lampu minyak atau keterbatasan buku). Analisis bagaimana keprihatinan fisik tersebut secara ekspresif melahirkan tekad baja untuk mengubah nasib keluarga.
+Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik—seperti belajar di bawah redupnya lampu minyak petromaks di Batu—dieksploitasi oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan tidak diekspresikan sebagai trauma yang melumpuhkan, melainkan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad baja untuk membebaskan keluarganya dari belenggu kemiskinan.
 
 ### Pertanyaan Reflektif: Dampak Psikologis Kemiskinan Awal
 

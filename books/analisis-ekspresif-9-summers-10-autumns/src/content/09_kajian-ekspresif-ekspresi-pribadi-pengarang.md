@@ -13,9 +13,10 @@ Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karir sebelumnya da
 > “Sembilan tahun di New York adalah masa pencarian identitas diri. Aku harus melupakan kenyamanan yang kudapatkan di Jakarta dan mulai dari nol lagi di kota ini. Ini adalah perjuangan untuk menemukan jati diriku yang sebenarnya.” (Hlm. 94)
 
 Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah katarsis pengarang untuk mengolah trauma masa lalu, kerinduan mendalam pada keluarga, serta pencarian kedamaian hidup.
+
 ### Komparasi Biografis: Menyejajarkan Wawancara dan Novel
 
-Carilah artikel biografi atau wawancara video dengan Iwan Setyawan mengenai pengalamannya bekerja di New York. Bandingkan pernyataan nyatanya tentang kesepian di luar negeri dengan kutipan batin tokoh 'Aku' di bab pertama novel ini untuk membuktikan keselarasan ekspresifnya.
+Penyejajaran antara pernyataan langsung Iwan Setyawan dalam wawancara media dengan teks novel membuktikan keakuratan pendekatan ekspresif. Ketika diwawancarai oleh media nasional, Iwan menceritakan bagaimana ia sering menangis sendirian di apartemennya di New York karena rindu rumah. Pengalaman kejiwaan riil ini secara langsung diekspresikan dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang.
 
 ### Bahan Renungan: Sastra Sebagai Katarsis Trauma
 

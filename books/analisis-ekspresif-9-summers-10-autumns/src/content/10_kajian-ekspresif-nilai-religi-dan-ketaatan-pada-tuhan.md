@@ -7,9 +7,10 @@ Dimensi religi dalam novel ini terekspresikan secara kuat melalui perilaku keaga
 > “Di tengah kerinduan yang dalam, aku menemukan kedamaian yang luas dalam salat lima waktu, ada yang tersembuhkan dalam salat Tahajut.” (Hlm. 109–110)
 
 Ekspresi spiritual ini membuktikan bahwa ketaatan pada Tuhan merupakan elemen integral dalam struktur kejiwaan pengarang, membantu dirinya mengatasi rasa keterasingan budaya (cultural isolation) dan mengembalikan keteguhan batinnya.
+
 ### Studi Religiusitas: Mekanisme Pertahanan Mental Tokoh Utama
 
-Analisis kutipan-kutipan doa atau refleksi ketuhanan tokoh utama saat menghadapi masa-masa sulit (seperti saat ia cemas menunggu hasil ujian atau saat menghadapi tekanan kerja di New York). Jelaskan bagaimana kebiasaan ibadah yang diajarkan ibunya di Batu menjadi mekanisme pertahanan mentalnya di perantauan.
+Analisis terhadap dimensi religi menunjukkan bahwa aktivitas spiritual seperti salat tahajud dan tadarus Al-Qur'an bukan sekadar kewajiban ritual, melainkan berfungsi sebagai mekanisme pertahanan mental (*coping mechanism*) tokoh utama. Ketika tertekan oleh kesepian New York, Iwan merefleksikan doa-doa yang diajarkan ibunya di masa kecil: *'aku menemukan kedamaian yang luas dalam salat... ada yang tersembuhkan dalam salat Tahajut'* (Hlm. 109). Nilai religi ini menjadi jangkar psikologis yang menjaga kewarasan dan keteguhan batinnya di tengah kerasnya budaya sekuler perantauan.
 
 ### Bahan Perenungan: Iman di Tengah Badai Megapolitan
 
