@@ -391,13 +391,17 @@ async function build() {
           const container = document.querySelector('.book-masonry');
           const cards = Array.from(container.querySelectorAll('.book-card'));
           const pinned = getPinned();
+          const pinnedSet = new Set(pinned);
+          const bookDataMap = new Map();
+          serverBooksData.forEach(b => bookDataMap.set(b.slug, b));
+
           const sortVal = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'newest';
           const filterVal = document.getElementById('subject-filter') ? document.getElementById('subject-filter').value : '';
           const searchVal = document.getElementById('search-input') ? document.getElementById('search-input').value.toLowerCase() : '';
 
           cards.forEach(card => {
               const slug = card.getAttribute('data-slug');
-              const bData = serverBooksData.find(b => b.slug === slug);
+              const bData = bookDataMap.get(slug);
               const cardSubject = bData && bData.subject_label ? bData.subject_label : '';
               const titleText = card.querySelector('h3').innerText.toLowerCase();
               
@@ -415,14 +419,14 @@ async function build() {
           cards.sort((a, b) => {
               const slugA = a.getAttribute('data-slug');
               const slugB = b.getAttribute('data-slug');
-              const aPinned = pinned.includes(slugA);
-              const bPinned = pinned.includes(slugB);
+              const aPinned = pinnedSet.has(slugA);
+              const bPinned = pinnedSet.has(slugB);
               
               if (aPinned && !bPinned) return -1;
               if (!aPinned && bPinned) return 1;
 
-              const dataA = serverBooksData.find(b => b.slug === slugA);
-              const dataB = serverBooksData.find(b => b.slug === slugB);
+              const dataA = bookDataMap.get(slugA);
+              const dataB = bookDataMap.get(slugB);
               
               if (sortVal === 'popular' && dataA && dataB) {
                   if (dataB.view_count !== dataA.view_count) {
@@ -441,7 +445,7 @@ async function build() {
           cards.forEach(card => {
               const slug = card.getAttribute('data-slug');
               const btn = card.querySelector('.pin-toggle-btn');
-              if (pinned.includes(slug)) {
+              if (pinnedSet.has(slug)) {
                   card.style.borderColor = 'var(--color-primary)';
                   card.style.background = 'var(--color-surface-hover, rgba(255,255,255,0.02))';
                   if(btn) {
