@@ -5,7 +5,7 @@ let code = fs.readFileSync('books/shared-script.js', 'utf8');
 // if (data.path && data.path !== currentPath) { window.location.replace(data.path + '?redirected=true'); }
 // else { window.checkpointHandled = true; window.saveProgress(); }
 // Here, if it IS root, we shouldn't save progress either.
-code = code.replace(/} else \{\n\s+window\.checkpointHandled = true;\n\s+window\.saveProgress\(\);\n\s+\}\n\s+\}\)\n\s+\.catch\(function\(e\) \{\n\s+console\.error\('Failed to load progress', e\);\n\s+window\.checkpointHandled = true;\n\s+window\.saveProgress\(\);\n\s+\}\);/, `} else {
+code = code.replace(/} else \{\s+window\.checkpointHandled = true;\s+\}\s+\}\)\s+\.catch\(function\(e\) \{\s+console\.error\('Failed to load progress', e\);\s+window\.checkpointHandled = true;\s+\}\);/, `} else {
                     window.checkpointHandled = true;
                     if (!isRoot) {
                         window.saveProgress();
