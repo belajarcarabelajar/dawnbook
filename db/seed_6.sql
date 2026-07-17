@@ -721,7 +721,7 @@ Dengan metakognisi, kamu bisa sadar lebih cepat saat strategimu mulai melenceng 
 def calculate_discount(price, quantity):
     total_price = price * quantity
     # Bug: Diskon seharusnya hanya diberikan jika total_price > 100
-    if total_price >= 100: # Seharusnya > 100
+    if total_price > 100: # Seharusnya > 100
         discount = total_price * 0.10
     else:
         discount = 0
