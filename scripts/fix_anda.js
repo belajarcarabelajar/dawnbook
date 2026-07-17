@@ -1,7 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const contentDir = '/home/belajarcarabelajar/dawnbook/books/quarter-life-crisis/src/content';
+// Fix the hardcoded path by resolving it dynamically
+const contentDir = path.resolve(__dirname, '../books/quarter-life-crisis/src/content');
 const files = fs.readdirSync(contentDir).filter(f => f.endsWith('.md'));
 
 files.forEach(file => {
@@ -9,18 +10,15 @@ files.forEach(file => {
     let content = fs.readFileSync(filePath, 'utf8');
     
     // Replace "Anda" with "kamu" case-insensitively, but match whole words
-    // Keep original capitalization if it's the first word in a sentence? 
-    // The rule says "Replace all with 'kamu'".
-    // Let's replace:
-    // " Anda " -> " kamu "
-    // "Anda " -> "Kamu " (if at start of sentence, let's just use "kamu" or "Kamu")
-    
     content = content.replace(/\bAnda\b/g, 'kamu');
     content = content.replace(/\banda\b/g, 'kamu');
     
     // Fix capital Kamu at start of sentence or list item
     content = content.replace(/([\.!\?]\s+)kamu/g, '$1Kamu');
-    content = content.replace(/(^\s*-\s*)kamu/gm, '$1Kamu');
+
+    // Allow for -, *, or + as list item indicators
+    content = content.replace(/(^\s*[-*+]\s*)kamu/gm, '$1Kamu');
+
     content = content.replace(/(^\s*\d+\.\s*)kamu/gm, '$1Kamu');
     content = content.replace(/^kamu/gm, 'Kamu');
     content = content.replace(/(\n\s*)kamu/g, '$1Kamu');
