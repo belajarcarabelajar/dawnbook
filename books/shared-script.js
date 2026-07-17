@@ -46,7 +46,6 @@
         var isInternalNavigation = document.referrer && document.referrer.indexOf('/books/' + bookSlug + '/') !== -1;
 
         window.saveProgress = function(isCompleted) {
-            console.log("saveProgress called! path:", currentPath);
             var payload = { bookSlug: bookSlug, path: currentPath };
             if (isCompleted) {
                 payload.completed_path = currentPath;
