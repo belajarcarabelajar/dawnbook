@@ -730,8 +730,19 @@ async function build() {
         Bronze: { bg: '#d97706', border: '#b45309', text: '#451a03', fill: '#fbbf24' }
       };
 
+      function escapeClientHtml(unsafe) {
+        if (!unsafe) return "";
+        return unsafe.toString()
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/"/g, "&quot;")
+          .replace(/'/g, "&#039;");
+      }
+
       function renderBadge(tierName, userName, message) {
         var c = badgeColors[tierName] || badgeColors.Bronze;
+        var safeUserName = escapeClientHtml(userName);
         return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
           '<svg width="160" height="160" viewBox="0 0 160 160" style="margin-bottom: 24px;">' +
             '<circle cx="80" cy="80" r="72" fill="' + c.bg + '" stroke="' + c.border + '" stroke-width="4"/>' +
@@ -740,7 +751,7 @@ async function build() {
             '<text x="80" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="' + c.text + '">' + tierName.toUpperCase() + '</text>' +
             '<text x="80" y="118" text-anchor="middle" font-size="10" fill="' + c.text + '" opacity="0.8">PATRON</text>' +
           '</svg>' +
-          '<h3 style="color: var(--color-primary); margin: 0 0 8px 0; font-size: 1.4rem;">' + userName + '</h3>' +
+          '<h3 style="color: var(--color-primary); margin: 0 0 8px 0; font-size: 1.4rem;">' + safeUserName + '</h3>' +
           '<p data-i18n="badge.' + tierName.toLowerCase() + '" style="color: var(--color-primary); font-weight: 700; font-size: 1.1rem; margin-bottom: 16px;">' + tierName + ' Patron</p>' +
           '<p data-i18n="appreciation.' + tierName.toLowerCase() + '.msg" style="color: var(--color-text-muted); line-height: 1.7; max-width: 450px; margin: 0 auto;">' + message + '</p>' +
         '</div>';
