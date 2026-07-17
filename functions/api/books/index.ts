@@ -105,7 +105,8 @@ async function handlePostBook(
   }
 
   // Strict Admin Authorization
-  if (session.sub !== "user_3FGEVcEVho4UC4uCE6gs3TfyVwV") {
+  const publicMetadata = session.publicMetadata as Record<string, unknown> | undefined;
+  if (publicMetadata?.role !== "admin") {
     return errorResponse("Forbidden: Administrator access required", 403);
   }
 
