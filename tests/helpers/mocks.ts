@@ -7,7 +7,8 @@ export const mockD1Database = {
       first: mock(async () => null),
       run: mock(async () => ({ success: true }))
     }))
-  }))
+  })),
+  batch: mock(async (statements: any[]) => statements.map(() => ({ success: true })))
 };
 
 export const createMockEnv = () => ({
