@@ -25,20 +25,38 @@ function escapeHtml(unsafe: string) {
     .replace(/'/g, "&#039;");
 }
 
-async function build() {
-  if (!process.env.VITE_CLERK_PUBLISHABLE_KEY) {
-    console.error(
-      "❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.",
-    );
-    process.exit(1);
-  }
+function minifyJs(js: string) {
+  return js
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/^\s*\/\/.*$/gm, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
+function minifyCss(css: string) {
+  return css
+    .replace(/\/\*[\s\S]*?\*\//g, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s*([{}:;,])\s*/g, "$1")
+    .trim();
+}
+
+export interface BuiltBook {
+  slug: string;
+  title: string;
+  author: string;
+  chapterCount: number;
+  emoji: string;
+  chapters: string[];
+}
+
+function parseClerkDomain(publishableKey: string | undefined): string {
+  if (!publishableKey) {
+    return "";
+  }
   let clerkDomain = "";
   try {
-    const keyBody = process.env.VITE_CLERK_PUBLISHABLE_KEY.replace(
-      /^pk_(test|live)_/,
-      "",
-    );
+    const keyBody = publishableKey.replace(/^pk_(test|live)_/, "");
     const padded = keyBody.padEnd(
       keyBody.length + ((4 - (keyBody.length % 4)) % 4),
       "=",
@@ -49,25 +67,15 @@ async function build() {
   } catch (e) {
     console.warn("Could not parse Clerk domain from publishable key", e);
   }
+  return clerkDomain;
+}
 
-  const rootDir = process.cwd();
-  const booksDir = join(rootDir, "books");
-  const outputDir = join(rootDir, "output");
-  const outputBooksDir = join(outputDir, "books");
-
-  // Ensure output directories exist
-  await mkdir(outputDir, { recursive: true });
-  await mkdir(outputBooksDir, { recursive: true });
-
+async function buildAllBooks(
+  booksDir: string,
+  outputBooksDir: string,
+): Promise<BuiltBook[]> {
   const entries = await readdir(booksDir);
-  const builtBooks: {
-    slug: string;
-    title: string;
-    author: string;
-    chapterCount: number;
-    emoji: string;
-    chapters: string[];
-  }[] = [];
+  const builtBooks: BuiltBook[] = [];
 
   console.log("Synchronizing book configurations from _template...");
   await $`bun run scripts/sync-template.ts`;
@@ -169,22 +177,15 @@ async function build() {
 
   // Sort builtBooks alphabetically to ensure consistent initial HTML order before JS hydration
   builtBooks.sort((a, b) => a.title.localeCompare(b.title));
+  return builtBooks;
+}
 
-  console.log("Generating premium hub site...");
-
-  const minifyJs = (js: string) =>
-    js
-      .replace(/\/\*[\s\S]*?\*\//g, "")
-      .replace(/^\s*\/\/.*$/gm, "")
-      .replace(/\s+/g, " ")
-      .trim();
-  const minifyCss = (css: string) =>
-    css
-      .replace(/\/\*[\s\S]*?\*\//g, "")
-      .replace(/\s+/g, " ")
-      .replace(/\s*([{}:;,])\s*/g, "$1")
-      .trim();
-
+async function generateSitePages(
+  rootDir: string,
+  outputDir: string,
+  clerkDomain: string,
+  builtBooks: BuiltBook[],
+) {
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
   const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
   const runtimeScript = await readFile(
@@ -1024,7 +1025,9 @@ async function build() {
     join(outputDir, "manifest.json"),
     JSON.stringify(manifestData, null, 2),
   );
+}
 
+async function copyAssets(rootDir: string, outputDir: string) {
   // Copy & minify CSS files
   for (const cssFile of ["typography.css", "tokens.css"]) {
     const cssContent = await readFile(
@@ -1047,11 +1050,9 @@ async function build() {
       "No public/ directory found or empty, skipping PWA files copy.",
     );
   }
+}
 
-  console.log("Applying anti-FOUC script to gated books...");
-  await $`bun run scripts/inject-gating.ts`;
-
-  console.log("Building admin dashboard...");
+async function buildAdminDashboardAndHeaders(outputDir: string) {
   try {
     await $`cd apps/admin && bun run build`;
     await $`rm -rf ${join(outputDir, "admin")}`;
@@ -1098,6 +1099,40 @@ async function build() {
     console.error("Failed to build or copy admin dashboard", error);
     process.exit(1);
   }
+}
+
+async function build() {
+  if (!process.env.VITE_CLERK_PUBLISHABLE_KEY) {
+    console.error(
+      "❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.",
+    );
+    process.exit(1);
+  }
+
+  const clerkDomain = parseClerkDomain(process.env.VITE_CLERK_PUBLISHABLE_KEY);
+
+  const rootDir = process.cwd();
+  const booksDir = join(rootDir, "books");
+  const outputDir = join(rootDir, "output");
+  const outputBooksDir = join(outputDir, "books");
+
+  // Ensure output directories exist
+  await mkdir(outputDir, { recursive: true });
+  await mkdir(outputBooksDir, { recursive: true });
+
+  const builtBooks = await buildAllBooks(booksDir, outputBooksDir);
+
+  console.log("Generating premium hub site...");
+
+  await generateSitePages(rootDir, outputDir, clerkDomain, builtBooks);
+
+  await copyAssets(rootDir, outputDir);
+
+  console.log("Applying anti-FOUC script to gated books...");
+  await $`bun run scripts/inject-gating.ts`;
+
+  console.log("Building admin dashboard...");
+  await buildAdminDashboardAndHeaders(outputDir);
 
   console.log("Generating sitemap...");
   await $`bun run scripts/generate-sitemap.ts`;
