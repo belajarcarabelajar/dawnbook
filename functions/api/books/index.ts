@@ -173,15 +173,20 @@ async function handlePostBook(
 
   // Chunk content to avoid SQLITE_TOOBIG limits (Cloudflare D1 100KB statement limit)
   const chunkSize = 30000;
+  const statements = [];
   for (let i = 0; i < payload.markdownContent.length; i += chunkSize) {
     const chunk = payload.markdownContent.slice(i, i + chunkSize);
-    const chunkRes = await env.DB.prepare(
-      "UPDATE books SET content_md = content_md || ?1 WHERE slug = ?2"
-    )
-      .bind(chunk, payload.bookSlug)
-      .run();
+    statements.push(
+      env.DB.prepare(
+        "UPDATE books SET content_md = content_md || ?1 WHERE slug = ?2"
+      ).bind(chunk, payload.bookSlug)
+    );
+  }
 
-    if (!chunkRes.success) {
+  if (statements.length > 0) {
+    const batchRes = await env.DB.batch(statements);
+    const allSuccess = batchRes.every((res) => res.success);
+    if (!allSuccess) {
       return errorResponse("Database chunk write failed", 500);
     }
   }
