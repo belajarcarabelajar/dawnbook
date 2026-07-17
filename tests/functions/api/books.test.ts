@@ -12,7 +12,7 @@ describe("API: /api/books", () => {
 
   test("POST returns 201 with valid JWT", async () => {
     const env = createMockEnv();
-    const payload = Buffer.from(JSON.stringify({ sub: "user_3FGEVcEVho4UC4uCE6gs3TfyVwV", exp: 9999999999 })).toString("base64");
+    const payload = Buffer.from(JSON.stringify({ sub: "user_123", publicMetadata: { role: "admin" }, exp: 9999999999 })).toString("base64");
     const validToken = `header.${payload}.sig`;
     const req = mockRequest("https://example.com/api/books", { 
       method: "POST", 
