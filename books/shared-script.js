@@ -92,13 +92,19 @@
                         // Redirect to the saved chapter path!
                         window.location.replace(data.path + '?redirected=true');
                     } else {
-                        window.checkpointHandled = true;
-                    }
-                })
-                .catch(function(e) { 
-                    console.error('Failed to load progress', e);
                     window.checkpointHandled = true;
-                });
+                    if (!isRoot) {
+                        window.saveProgress();
+                    }
+                }
+            })
+            .catch(function(e) {
+                console.error('Failed to load progress', e);
+                window.checkpointHandled = true;
+                if (!isRoot) {
+                    window.saveProgress();
+                }
+            });
             } else {
                 window.checkpointHandled = true;
             }
