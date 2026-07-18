@@ -42,7 +42,7 @@ const mockFetch = async (req: Request | string, init?: RequestInit) => {
     return new Response("Not Found", { status: 404 });
   }
   if (url.includes('/v1/tokens/verify')) {
-    return new Response(JSON.stringify({ sub: "user_3FGEVcEVho4UC4uCE6gs3TfyVwV" }), { status: 200 });
+    return new Response(JSON.stringify({ sub: "user_123", publicMetadata: { role: "admin" } }), { status: 200 });
   }
   return new Response("Not Found", { status: 404 });
 };
@@ -52,7 +52,7 @@ global.fetch = mockFetch as any;
 const runBenchmark = async () => {
   callCount = 0;
   const env = createMockEnv();
-  const payloadStr = Buffer.from(JSON.stringify({ sub: "user_3FGEVcEVho4UC4uCE6gs3TfyVwV", exp: 9999999999 })).toString("base64");
+  const payloadStr = Buffer.from(JSON.stringify({ sub: "user_123", publicMetadata: { role: "admin" }, exp: 9999999999 })).toString("base64");
   const validToken = `header.${payloadStr}.sig`;
 
   // Create a large markdown content of 1.5MB (50 chunks)

@@ -45,7 +45,7 @@ describe("API: /api/books/[slug]", () => {
     });
 
     test("returns 200 on successful deletion by admin", async () => {
-      mockSession = { sub: "user_3FGEVcEVho4UC4uCE6gs3TfyVwV" };
+      mockSession = { sub: "user_123", publicMetadata: { role: "admin" } };
       const env = createMockEnv();
       const req = mockRequest("https://example.com/api/books/my-slug", { method: "DELETE" });
 
@@ -55,7 +55,7 @@ describe("API: /api/books/[slug]", () => {
     });
 
     test("returns 500 if database deletion fails", async () => {
-      mockSession = { sub: "user_3FGEVcEVho4UC4uCE6gs3TfyVwV" };
+      mockSession = { sub: "user_123", publicMetadata: { role: "admin" } };
       const env = createMockEnv();
       // Only override the DB for this test
       env.DB = {
