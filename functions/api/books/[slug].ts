@@ -69,7 +69,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       }
 
       // Strict Admin Authorization
-      if (session.sub !== "user_3FGEVcEVho4UC4uCE6gs3TfyVwV") {
+      if ((session.publicMetadata as any)?.role !== "admin") {
         return errorResponse("Forbidden: Administrator access required", 403);
       }
 
