@@ -323,11 +323,11 @@ h1, h2, h3, .logo {
   padding: 16px;
 }
 
-/* QRIS image — square via aspect-ratio, never distorted */
+/* QRIS image — maintain natural aspect ratio, never distorted */
 .donate-qris-img {
   display: block;
   width: 100%;
-  aspect-ratio: 1 / 1;
+  height: auto;
   border-radius: 8px;
 }
 
