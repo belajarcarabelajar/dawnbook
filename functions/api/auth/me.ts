@@ -43,6 +43,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       name: result.user.name,
       picture: result.user.picture,
       role: result.user.role,
+      donation_badge: result.user.donation_badge,
     }),
     {
       status: 200,

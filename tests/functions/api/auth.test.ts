@@ -260,6 +260,27 @@ describe("/api/auth/me", () => {
       name: "Alice",
       picture: "https://example.com/a.png",
       role: "admin",
+      donation_badge: null,
     });
+  });
+
+  test("surfaces donation_badge tier when set (Gold/Silver/Bronze)", async () => {
+    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+    setEnvHandlers(env);
+    setQueryHandler(env, "SELECT", () => [{
+      s_id: SESSION_ID_HEX, s_user_id: "u_1", s_expires_at: "2099-01-01T00:00:00.000Z",
+      s_created_at: "2024-01-01T00:00:00.000Z", s_last_seen_at: "2024-01-01T00:00:00.000Z",
+      s_user_agent: null, s_ip: null,
+      u_id: "u_1", u_google_sub: "g_1", u_email: "alice@example.com", u_name: "Alice",
+      u_picture: "https://example.com/a.png", u_role: "admin", u_donation_badge: "Gold",
+      u_created_at: "2024-01-01T00:00:00.000Z", u_last_login_at: "2024-01-01T00:00:00.000Z",
+    }]);
+    const req = new Request("https://example.com/api/auth/me", {
+      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+    });
+    const res = await meHandler({ request: req, env } as any);
+    expect(res.status).toBe(200);
+    const body = await res.json();
+    expect(body.donation_badge).toBe("Gold");
   });
 });

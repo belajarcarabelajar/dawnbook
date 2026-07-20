@@ -150,6 +150,26 @@ export function isPublicPath(pathname: string): boolean {
     return true;
   }
 
-  // R6: All book pages are public at the edge for SEO indexing.
-  return true;
+  // Chapter-based gating: only chapters whose decoded basename starts with
+  // the public preview prefix (defined above) are public. All other book
+  // pages are gated and require an authenticated D1 session.
+  //
+  // mdBook names chapter files like "01 - Konsep.html", "02 - ....html".
+  // The public preview prefix is "chapter_1" — see PUBLIC_PREVIEW_CHAPTER.
+  // We match on the numeric prefix so that "01 - ..." and "1 - ..." are
+  // both recognised (some templates drop the leading zero).
+  const chapterPrefix = PUBLIC_PREVIEW_CHAPTER.match(/^chapter_(\d+)$/);
+  if (chapterPrefix) {
+    const allowedNum = chapterPrefix[1];
+    const chapterMatch = page.match(/^0*(\d+)\s*[-_]/);
+    if (chapterMatch) {
+      const n = parseInt(chapterMatch[1], 10);
+      if (!isNaN(n) && n <= parseInt(allowedNum, 10)) {
+        return true;
+      }
+    }
+  }
+
+  // Anything else under /books/<slug>/ is gated content.
+  return false;
 }

@@ -26,7 +26,7 @@ The following terms are canonical. Do not introduce synonyms:
 - **Generator**: mdBook
 - **Hosting**: Cloudflare Pages + Pages Functions (TypeScript)
 - **Database**: Cloudflare D1 SQLite (`dawnbook-db`)
-- **Auth**: Clerk
+- **Auth**: Self-hosted (Cloudflare D1 `users` + `sessions` tables, Google OAuth via `/api/auth/*` endpoints, `session_id` HttpOnly cookie)
 - **Build Entrypoint**: `scripts/build.ts` (`bun run build`)
 - **Deploy Entrypoint**: `scripts/deploy-website.sh`
 

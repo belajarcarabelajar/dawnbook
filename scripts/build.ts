@@ -798,11 +798,18 @@ async function generateSitePages(
         function doRender(user) {
           if (!user || !user.id) {
             container.innerHTML = renderSignInPrompt();
+          } else if (user.donation_badge && badgeColors[user.donation_badge]) {
+            var tier = user.donation_badge;
+            var message;
+            if (tier === 'Gold') {
+              message = 'Your extraordinary generosity fuels Dawnbook\\'s mission to make education accessible to everyone.';
+            } else if (tier === 'Silver') {
+              message = 'Your meaningful contribution helps keep Dawnbook running for learners everywhere.';
+            } else {
+              message = 'Your kind support keeps the lights on and the chapters flowing.';
+            }
+            container.innerHTML = renderBadge(tier, user.name || user.email || 'Supporter', message);
           } else {
-            // We don't currently expose donation_badge via /api/auth/me (the
-            // field is sensitive and unused by the public-facing pages).
-            // Show the "no badge" prompt for everyone for now; admin tools
-            // can extend /api/auth/me later to surface it.
             container.innerHTML = renderNoBadge();
           }
           if (window.applyLocale) window.applyLocale();
