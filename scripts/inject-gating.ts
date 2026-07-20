@@ -28,15 +28,19 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
       
       const gaId = process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW";
+      const gaTag = `
+    <!-- Google Tag (gtag.js) -->
+    <script data-cfasync="false" async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
+    <script data-cfasync="false">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '${gaId}');
+    </script>
+`;
+
       const seoTags = `
-        <!-- Google Analytics (gtag.js) -->
-        <script data-cfasync="false" async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
-        <script data-cfasync="false">
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '${gaId}');
-        </script>
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/register-sw.js" defer></script>
@@ -58,6 +62,13 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
         }
         </script>
       `;
+
+      if (content.includes("<head>")) {
+        content = content.replace("<head>", "<head>" + gaTag);
+      } else if (content.match(/<head[^>]*>/i)) {
+        content = content.replace(/<head[^>]*>/i, "$&" + gaTag);
+      }
+
       if (content.includes("</head>")) {
         content = content.replace("</head>", seoTags + "\n</head>");
       }
