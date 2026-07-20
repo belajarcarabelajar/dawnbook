@@ -1,12 +1,12 @@
 import { BrowserRouter, Routes, Route, Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
 import React, { useState, useEffect } from 'react';
 import { BookService, type Book } from './services/book-service';
-import { useAuth } from './auth/AuthProvider';
+import { AuthProvider, useAuth } from './auth/AuthProvider';
 import './components/Dashboard.css';
 
 function Layout({ children }: { children: React.ReactNode }) {
   const [menuOpen, setMenuOpen] = useState(false);
-  const { isSignedIn, isAdmin, user, signIn, signOut } = useAuth();
+  const { isSignedIn, user, signIn, signOut } = useAuth();
 
   useEffect(() => {
     const handleStorage = (e: StorageEvent) => {
