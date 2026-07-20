@@ -1,6 +1,6 @@
 ## Sudut Pandang, Gaya Bahasa, dan Amanat Novel 9 Summers 10 Autumns
 
-Kita akan melihat lebih dalam pada bagaimana pengarang menggunakan sudut pandang, gaya bahasa, dan amanat dalam novel 9 Summers 10 Autumns. Dalam bab ini, kita akan menggali lebih dalam pada bagaimana pengarang menggunakan sudut pandang persona pertama, gaya bahasa puitis dan reflektif, serta amanat yang terkandung dalam novel ini.
+Kekuatan sebuah narasi memoar tidak hanya terletak pada peristiwa yang dialami, melainkan pada bagaimana peristiwa tersebut dituturkan. Melalui perpaduan sudut pandang persona pertama, gaya bahasa puitis yang reflektif, serta pesan moral yang kuat, Iwan Setyawan berhasil menghidupkan kembali memoar perjalanannya dari Kota Batu hingga ke New York, merajut harmoni emosi yang begitu dekat dengan pembaca.
 
 ### Sudut Pandang Persona Pertama ('Aku')
 
@@ -8,7 +8,7 @@ Sudut pandang adalah cara pengarang menempatkan dirinya dalam cerita. Sudut pand
 
 ### Gaya Bahasa Puitis dan Reflektif
 
-Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. Gaya bahasa akan melahirkan ciri khas dalam penyampaian gagasan-gagasannya dan akan menjadi sebuah keistimewaan bagi pengarang sehingga dapat menarik minat dan perhatian orang yang akan membaca karyanya. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan gaya bahasa puitis dan reflektif. Gaya bahasa puitis digunakan untuk menggambarkan perasaan penulis melalui fenomena alam, seperti penggunaan istilah "musim panas" dan "musim gugur" sebagai ungkapan siklus nasib. Gaya bahasa reflektif digunakan untuk mengajak pembaca berpikir tentang makna keluarga, pendidikan, dan rumah melalui kalimat-kalimat filosofis.
+Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. Gaya bahasa akan melahirkan ciri khas dalam penyampaian gagasan-gagasannya dan akan menjadi sebuah keistimewaan bagi pengarang sehingga dapat menarik minat dan perhatian orang yang akan membaca karyanya. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan gaya bahasa puitis dan reflektif. Gaya bahasa puitis digunakan untuk menggambarkan perasaan penulis melalui fenomena alam, seperti penggunaan istilah "musim panas" and "musim gugur" sebagai ungkapan siklus nasib. Gaya bahasa reflektif digunakan untuk mengajak pembaca berpikir tentang makna keluarga, pendidikan, dan rumah melalui kalimat-kalimat filosofis.
 
 ### Amanat Novel 9 Summers 10 Autumns
 

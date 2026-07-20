@@ -25,7 +25,7 @@ Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi,
 
 ### Studi Stilistika Kuantitatif: Angka dan Presisi dalam Sastra
 
-Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran \(6 \times 7\) meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran \(0,5 \times 1,5\) meter (Hlm. 9) bukan sekadar sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
+Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran \\(6 \\times 7\\) meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran \\(0,5 \\times 1,5\\) meter (Hlm. 9) bukan hanya sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
 
 ### Diskusi Estetika: Saat Logika Data Menjadi Puitis
 

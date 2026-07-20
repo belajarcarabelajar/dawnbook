@@ -1,6 +1,6 @@
 ## Kesimpulan, Saran, dan Referensi Ilmiah
 
-Kita telah menyelesaikan perjalanan analisis novel "9 Summers 10 Autumns" karya Iwan Setyawan. Dalam bab ini, kita akan menyimpulkan hasil analisis kita dan memberikan saran untuk pembaca.
+Menelusuri setiap lembar kehidupan Iwan Setyawan dalam *9 Summers 10 Autumns* melampaui pembacaan biografi biasa; kita diajak menyaksikan bagaimana sebuah mimpi dirajut di tengah dinginnya keterbatasan. Melalui lensa analisis ekspresif, kita diajak untuk melihat kaitan erat antara emosi terdalam pengarang dan karya sastra yang dilahirkannya. Bagian penutup ini merangkum seluruh temuan struktural dan ekspresif, serta menyajikan rekomendasi berharga bagi pembaca maupun peneliti sastra selanjutnya.
 
 ### Sintesis Akhir Kajian
 
@@ -13,10 +13,6 @@ Melalui pendekatan ekspresif, terungkap bahwa novel ini merupakan hasil otentik 
 Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, tetapi sebagai tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
 
 Penelitian selanjutnya diharapkan dapat mengkaji karya ini menggunakan pendekatan yang berbeda, seperti pendekatan sosiologi sastra atau psikologi sastra agar memperkaya keilmuan mengenai analisis novel "9 Summers 10 Autumns".
-
-### Pertanyaan Terbuka untuk Pembaca
-
-*Setelah menempuh seluruh perjalanan analisis kritik sastra ini, bagaimana pendapat kamu mengenai peran sastra dalam merekam dan menyembuhkan pergulatan hidup manusia? Apakah kisah Iwan Setyawan menginspirasi kamu untuk menuliskan refleksi biografismu sendiri?*
 
 ### Catatan Penutup
 

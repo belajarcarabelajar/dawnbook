@@ -1,8 +1,6 @@
 ## Tokoh dan Penokohan Utama dalam Novel 9 Summers 10 Autumns
 
-### Watak Tokoh Iwan: Transformasi dari Kota Batu ke New York
-
-Tokoh adalah pelaku yang menggerakkan jalannya cerita, sedangkan penokohan adalah metode pengarang dalam menampilkan karakter atau watak para tokoh tersebut (Putri et al., 2024). Dalam novel otobiografis *9 Summers 10 Autumns*, tokoh-tokoh utama digambarkan dengan sangat kuat dan memiliki watak yang khas:
+Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi sangat dipengaruhi oleh penggambaran karakter tokoh-tokohnya yang hidup dan realistis. Setiap tokoh memiliki watak khas yang mencerminkan perjuangan hidup mereka dalam menghadapi keterbatasan:
 
 1. **Iwan Setyawan (Tokoh Utama / 'Aku')**
    Iwan digambarkan sebagai anak laki-laki yang cerdas, tekun, sederhana, dan pantang menyerah. Ia menyerap nilai-nilai kesederhanaan dan kasih sayang dari lingkungan keluarganya yang bersahaja:
@@ -24,13 +22,9 @@ Tokoh adalah pelaku yang menggerakkan jalannya cerita, sedangkan penokohan adala
    
    > “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
 
-### Studi Karakter: Menelusuri Perkembangan Tokoh Iwan
+### Studi Karakter: Perkembangan Tokoh Iwan dari Batu ke New York
 
 Analisis komparatif terhadap perkembangan karakter tokoh Iwan menunjukkan kontras psikologis yang tajam. Di masa kecilnya di Batu, ia digambarkan sebagai anak sopir angkot yang minder namun memiliki tekad belajar yang luar biasa akibat ketakutannya akan kegagalan. Setelah ia bertransformasi menjadi direktur riset di New York, watak tekunnya tetap bertahan, namun diiringi dengan munculnya rasa kesepian eksistensial dan keterasingan sosial (*alienation*). Titik balik perkembangan karakter ini terjadi ketika ia menyadari bahwa kesuksesan material di New York tidak dapat menggantikan kehangatan komunal keluarga di Batu.
-
-### Diskusi Karakter: Pengaruh Watak Bapak dan Ibu
-
-*Bagaimana penggambaran watak Bapak dan Ibu dalam novel ini memengaruhi keputusan-keputusan besar yang diambil oleh Iwan sepanjang hidupnya? Siapa di antara kedua sosok ini yang menurut kamu memiliki pengaruh paling dominan terhadap kepribadian Iwan?*
 
 ### Langkah Berikutnya: Menilik Tokoh di Sekitar Iwan
 

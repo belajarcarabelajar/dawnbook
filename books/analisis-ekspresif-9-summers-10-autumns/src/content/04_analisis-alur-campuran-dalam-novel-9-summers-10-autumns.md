@@ -1,6 +1,6 @@
 ## Analisis Alur Campuran dalam Novel 9 Summers 10 Autumns
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns menggunakan alur campuran (maju-mundur) untuk mengembangkan cerita dan tema. Novel ini telah membuktikan bahwa alur campuran dapat menjadi cara yang efektif untuk menarik perhatian pembaca dan membuat mereka terikat dengan cerita.
+Bagaimana sebuah perjalanan hidup yang begitu panjang dan berliku dapat diringkas dalam untaian bab? Novel *9 Summers 10 Autumns* menjawab tantangan ini dengan apik lewat struktur alur campuran. Dengan membolak-balik waktu, narasi tidak lagi sekadar berjalan lurus, melainkan bergerak dinamis mengikuti riak emosi dan ingatan tokoh utamanya.
 
 ### Dinamika Alur Campuran: Batu dan New York
 
@@ -15,10 +15,6 @@ Teknik ini membuat pembaca tetap terikat untuk terus membaca buku ini. Dengan me
 ### Analisis Praktis: Memetakan Garis Alur Maju-Mundur
 
 Ketika kita menganalisis alur campuran pada bab pertama novel, kita dapat memetakan garis naratif yang melompat secara dinamis antara New York di masa kini dan Batu di masa lalu. Lompatan alur ini tidak acak, melainkan digerakkan oleh asosiasi emosional tokoh utama. Misalnya, ketika tokoh 'Aku' menatap salju yang turun di New York, memori sensoriknya langsung memicu kilas balik (*flashback*) ke kabut pegunungan Kota Batu di masa kecilnya. Perpindahan alur ini secara estetis berhasil memindahkan pembaca dari atmosfer kesepian profesional di New York menuju kehangatan nostalgia di Batu secara instan.
-
-### Bahan Renungan: Mengapa Harus Alur Campuran?
-
-*Mengapa menurut kamu Iwan Setyawan memilih menggunakan alur campuran alih-alih alur maju yang sederhana? Bagaimana alur maju-mundur ini mengekspresikan kerinduan batin tokoh utama terhadap kampung halamannya?*
 
 ### Menuju Penokohan: Memahami Sang Pelaku Cerita
 

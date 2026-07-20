@@ -1,10 +1,10 @@
 ## Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
 
+Keluarga merupakan jangkar emosional yang mengikat seluruh rangkaian ingatan dan perjuangan hidup. Dalam novel *9 Summers 10 Autumns*, latar belakang kedua orang tua menjadi sumbu inspirasi ekspresif terbesar bagi pengarang untuk menuangkan pergulatan batin serta rasa syukurnya.
+
 ### Representasi Kasih Sayang dan Pengorbanan Orang Tua
 
-Latar belakang kedua orang tua merupakan sumbu inspirasi ekspresif terbesar bagi pengarang dalam menulis novel *9 Summers 10 Autumns*. 
-
-Bapak (Abdul Hasim) dengan etos kerja tingginya terinspirasi oleh sosok Pak Ucup yang mengajarkan kemandirian dan kejujuran:
+Sosok Bapak (Abdul Hasim) dengan etos kerja yang tinggi terinspirasi oleh teladan Pak Ucup yang mengajarkan kemandirian serta kejujuran:
 
 > “Pak Ucup yang kukenal mempunyai pandangan hidup yang modern dan etos kerja yang sangat luar biasa. Ketika banyak orang pribumi yang hanya iri atas kesuksesan kaum Tionghoa, Pak Ucup Berbeda. Pak Ucup yang dulunya tentara justru banyak belajar dari kaum Tionghoa. Ia terinspirasi dan selalu ingin maju. Kerja keras, terus belajar, dan kejujuran adalah tiga kunci sederhana yang selalu ia pegang. Sosok inilah yang menjadi inspirasi pertama bapakku.” (Hlm. 25)
 
@@ -26,10 +26,6 @@ Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan
 
 Studi komparatif terhadap watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan mental bapak dan disiplin administratif ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk fondasi etos kerja profesionalnya yang sukses menembus dunia korporasi global di New York.
 
-### Perenungan Hati: Rasa Syukur dan Beban Moral Sang Anak
-
-*Bagaimana cara Iwan Setyawan mengekspresikan rasa terima kasih sekaligus rasa bersalahnya kepada orang tuanya melalui narasi dalam novel ini? Pilihlah satu kutipan yang menurut kamu paling mengharukan menggambarkan hubungan anak dan orang tua.*
-
 ### Lingkaran Terdekat: Peran Saudara Kandung
 
-Selain kedua orang tuanya, saudara-saudara kandung Iwan juga menjadi rantai motivasi yang tidak terputus. Mari kita beralih ke bab berikutnya untuk menganalisis peran saudara kandung sebagai dorongan moral pengarang.
+Selain kedua orang tuanya, saudara-saudara kandung Iwan juga menjadi rantai motivasi yang tidak terputus. Pembahasan berikutnya akan menganalisis peran saudara kandung sebagai dorongan moral pengarang.
