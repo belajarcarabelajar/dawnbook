@@ -10,8 +10,8 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 - **Books Directory**: The `books/` directory contains individual books (e.g., `books/piaget/`). Each book uses its own `book.toml` metadata and Markdown chapters under `src/content/`.
 - **Generator**: Uses **mdBook** to compile Markdown chapters into HTML.
 - **Edge Architecture**: Hosted on Cloudflare Pages. It uses Cloudflare Pages Functions (`functions/`) and edge middleware (`functions/_middleware.ts`) for dynamic content serving, caching optimization, and authentication.
-- **Authentication & Gating**: Integrated with **Clerk**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified Clerk session. Unauthenticated edge requests for gated content are intercepted and redirected via `functions/_middleware.ts` to prevent bypass.
-- **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, and completed paths per user.
+- **Authentication & Gating**: Self-hosted via **Cloudflare D1** + **Google OAuth**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified D1 session. Visitors sign in with Google; the OAuth callback writes a `users` row (upserted on `google_sub`) and a server-side `sessions` row, then sets an HttpOnly `session_id` cookie. Unauthenticated edge requests for gated content are intercepted and redirected via `functions/_middleware.ts` to prevent bypass.
+- **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, completed paths per user, and the auth tables (`users`, `sessions`).
 - **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas.
 - **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
 - **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page. It features an integrated **i18n** localization system (`en` and `id`) and a dedicated `/contribute` page to honor main contributors.
@@ -22,7 +22,7 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 To run this platform locally, you need:
 - [Bun](https://bun.sh/) (JavaScript runtime and package manager)
 - [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html) (Ensure the `mdbook` binary is available in your PATH)
-- A [Clerk](https://clerk.com/) account for authentication keys
+- A [Google Cloud Console](https://console.cloud.google.com/) OAuth 2.0 Client (for the "Sign in with Google" button). The authorized redirect URI must be `https://dawnbook.belajarcarabelajar.com/api/auth/callback` (and `http://localhost:8788/api/auth/callback` for local dev).
 - A [Cloudflare](https://dash.cloudflare.com/) account for D1 database and deployment
 
 ## Local Setup
@@ -34,19 +34,19 @@ To run this platform locally, you need:
    ```
 
 2. **Environment Variables:**
-   You need to set up environment keys in two places:
+   Auth and OAuth are configured through a single source of truth. Create a root-level `.env` file (git-ignored) for local development, and mirror the values in `.env.example`:
    
-   - **Admin SPA and Build Scripts:** Create `apps/admin/.env.local` containing:
+   - **Root `.env`** (used by `functions/` Pages Functions and `scripts/build.ts`):
      ```env
-     VITE_CLERK_PUBLISHABLE_KEY=pk_live_...
+     GOOGLE_CLIENT_ID=your-client-id.apps.googleusercontent.com
+     GOOGLE_CLIENT_SECRET=GOCSPX-...
      CLOUDFLARE_ACCOUNT_ID=...
+     CF_API_TOKEN=...   # optional, only needed to push secrets to Cloudflare
      ```
    
-   - **Local Edge Functions:** Create `.dev.vars` in the root directory containing:
-     ```env
-     CLERK_PUBLISHABLE_KEY=pk_live_...
-     CLERK_SECRET_KEY=sk_live_...
-     ```
+   - **Cloudflare Pages dashboard** → Settings → Environment variables → Production: mirror `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` so Pages Functions can read them at the edge.
+   
+   See `.env.example` for the full tracked template. **Never commit your real `.env` — it is git-ignored.**
 
 3. **Install dependencies:**
    ```sh

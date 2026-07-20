@@ -153,6 +153,34 @@ export async function deleteSession(db: D1Database, id: string): Promise<boolean
   return res.success;
 }
 
+/**
+ * Updates a user's `donation_badge` field. Pass `null` to clear the badge.
+ * Returns true on success, false if the user was not found.
+ *
+ * Tier values: "Gold" | "Silver" | "Bronze" | null. The CHECK constraint
+ * on the `users` table enforces only that `role` is one of the allowed
+ * values, so this helper also validates the tier here as a second line
+ * of defence (the API endpoint that calls it does the same check).
+ */
+export async function setDonationBadge(
+  db: D1Database,
+  params: { userId: string; tier: string | null }
+): Promise<boolean> {
+  const allowed = new Set(["Gold", "Silver", "Bronze"]);
+  const { userId, tier } = params;
+  if (tier !== null && !allowed.has(tier)) {
+    throw new Error(`setDonationBadge: invalid tier "${tier}"`);
+  }
+  const res = await db
+    .prepare("UPDATE users SET donation_badge = ?1 WHERE id = ?2")
+    .bind(tier, userId)
+    .run();
+  // D1's run() doesn't tell us rowcount reliably; a follow-up read is
+  // cheap and gives us a definitive "did this exist?" answer.
+  const after = await getUserById(db, userId);
+  return after !== null && res.success;
+}
+
 export async function getSessionWithUser(
   db: D1Database,
   sessionId: string

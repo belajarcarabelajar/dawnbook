@@ -83,10 +83,15 @@ The API is implemented as Cloudflare Pages Functions under `functions/api/books/
 | Endpoint | Method | Auth | Description |
 |---|---|---|---|
 | `/api/books` | GET | Public | List all books |
-| `/api/books` | POST | Clerk JWT | Create/update a book |
+| `/api/books` | POST | D1 session + admin role | Create/update a book |
 | `/api/books/:slug` | GET | Public | Get a single book by slug |
+| `/api/auth/login` | GET | Public | Redirect to Google OAuth consent |
+| `/api/auth/callback` | GET | Public | Exchange OAuth code → set session cookie |
+| `/api/auth/logout` | POST | Public | Clear the session_id cookie |
+| `/api/auth/me` | GET | Public | Current user JSON (or 401) |
+| `/api/progress` | GET / POST | D1 session | Reading progress (POST) + completed paths (GET) |
 
-Mutating endpoints require a valid Clerk session token in the `Authorization: Bearer <token>` header.
+Mutating endpoints require a valid `session_id` cookie (set automatically by `/api/auth/callback`). The browser sends it on every same-origin request; programmatic clients can also pass `Authorization: Session <hex>`.
 
 ### Environment Variables (Pages)
 
@@ -94,11 +99,12 @@ Set these in the Cloudflare Pages dashboard under **Settings → Environment var
 
 | Variable | Purpose |
 |---|---|
-| `CLERK_SECRET_KEY` | Clerk backend secret for JWT/session verification (used by edge middleware + API handlers) |
-| `CLERK_PUBLISHABLE_KEY` | Clerk publishable key for JWKS domain resolution |
-| `VITE_CLERK_PUBLISHABLE_KEY` | Same publishable key, exposed to the Vite build for the admin SPA and sign-in page |
+| `GOOGLE_CLIENT_ID` | Google OAuth 2.0 client ID (from Google Cloud Console) |
+| `GOOGLE_CLIENT_SECRET` | Google OAuth 2.0 client secret — used by `/api/auth/callback` to exchange codes |
 
-> **Important**: Never commit Clerk keys to the repository. They must be set as environment variables in the Cloudflare Pages dashboard.
+The D1 binding (`DB`) is configured in `wrangler.toml` and is automatically available to every Pages Function as `env.DB`.
+
+> **Important**: Never commit OAuth secrets to the repository. They must be set as environment variables in the Cloudflare Pages dashboard, or loaded from the git-ignored root `.env` for local development. See `.env.example` for the full tracked template.
 
 ## LaTeX Support
 
@@ -133,44 +139,53 @@ Dawnbook supports responsive images, self-hosted videos, and YouTube embeds nati
 
 ## Auth-Gated Content
 
-Dawnbook uses a "free auth-gated content" model: book content beyond the first chapter requires a free authenticated Clerk session. Enforcement happens at the Cloudflare edge via `functions/_middleware.ts`, before any static file is served.
+Dawnbook uses a "free auth-gated content" model: book content beyond the first chapter requires a free Google sign-in. Enforcement happens at the Cloudflare edge via `functions/_middleware.ts`, before any static file is served.
 
 ### Public Preview vs Gated Content
 
 | Path Pattern | Access | Description |
 |---|---|---|
 | `/`, `/about.html`, `/contribute.html` | **Public** | Hub pages |
-| `/admin/*` | **Public at edge** | Admin SPA (Clerk UI gates it client-side) |
+| `/admin/*` | **Public at edge** | Admin SPA (gates itself via `/api/auth/me` client-side) |
 | `/api/*` | **Public at edge** | API handlers enforce their own auth |
 | `/books/<slug>/` | **Public** | Book index (first chapter) |
 | `/books/<slug>/01 - *.html` | **Public** | First chapter = public preview |
 | `/books/<slug>/02 - *.html` and beyond | **Gated** | Requires authenticated session |
 | All static assets (CSS, JS, fonts, images) | **Public** | Always served without auth |
-| `/sign-in` | **Public** | Clerk sign-in page |
+| `/sign-in`, `/sign-up` | **Public** | OAuth start page |
 
 ### How It Works
 
 1. Every request passes through `functions/_middleware.ts`.
 2. The middleware calls `isPublicPath()` (from `functions/lib/gating.ts`) to check the URL.
 3. **Public paths** → request passes through unchanged.
-4. **Gated paths** → middleware reads the Clerk session token from `__session` cookie or `Authorization` header, verifies it with `@clerk/backend` using `CLERK_SECRET_KEY`.
+4. **Gated paths** → middleware reads the `session_id` cookie (or `Authorization: Session <hex>` header), looks it up in D1 (`sessions` joined with `users`).
    - **Valid session** → request passes through, response gets `Cache-Control: private, no-store` and `Vary: Cookie` headers.
    - **Invalid/missing session** → HTML requests get `302` redirect to `/sign-in?redirect_url=...`; API requests get `401` JSON.
 
-### Clerk Roles
+### Roles
 
 | Role | Assigned To | Access |
 |---|---|---|
-| `reader` | Default role for all new signups | Gated book content |
-| `admin` | Manually assigned | Admin portal + all reader access |
+| `reader` | Default role for all new Google sign-ins | Gated book content |
+| `admin` | Manually assigned (see "Promoting an admin" below) | Admin portal + all reader access |
 
-Any authenticated session (regardless of role) is sufficient for gated content. The `admin` role is only required for `/admin/*` and is enforced client-side by the existing Clerk integration.
+Any authenticated session (regardless of role) is sufficient for gated content. The `admin` role is required for write endpoints under `/api/books` and is enforced server-side by checking `users.role === 'admin'`.
+
+### Promoting an admin
+
+The owner can promote a user with a one-off D1 update — no separate admin tool is required for the initial bootstrap:
+
+```bash
+npx wrangler d1 execute dawnbook-db --remote \
+  --command "UPDATE users SET role = 'admin' WHERE email = 'you@example.com'" --yes
+```
 
 ### Testing Gating Locally
 
-1. Start the local dev server with Pages Functions:
+1. Start the local dev server with Pages Functions (uses the git-ignored root `.env`):
    ```bash
-   CLERK_SECRET_KEY=sk_test_... CLERK_PUBLISHABLE_KEY=pk_test_... npx wrangler pages dev output
+   npx wrangler pages dev output
    ```
 
 2. Run the verification tests:
