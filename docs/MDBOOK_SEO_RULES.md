@@ -30,13 +30,14 @@ The following terms are canonical. Do not introduce synonyms:
 - **Build Entrypoint**: `scripts/build.ts` (`bun run build`)
 - **Deploy Entrypoint**: `scripts/deploy-website.sh`
 
-## 3. Indexing Policy (Public vs Gated)
+## 3. Indexing Policy (100% SEO Indexability & GEO Strategy)
 
-Dawnbook's architecture requires a strict boundary between public preview content (indexable) and paywalled/gated content (protected):
+Dawnbook's architecture employs a 100% SEO Indexability & Generative Engine Optimization (GEO) policy to maximize search engine reach and AI discovery:
 
-- **Public Paths**: Hub pages (`/`, `about.html`, `contribute.html`), book root/index (`/books/<slug>/`), first chapters, and structural pages (`toc.html`, `404.html`). These MUST be fully indexable by search engines, appear in `sitemap.xml`, and return HTTP 200 at the edge.
-- **Gated Paths**: All other book chapters. To prevent exposing gated paywalled chapter content to crawlers and prevent search engine index poisoning, these paths MUST NOT appear in `sitemap.xml` and MUST carry a `noindex` signal (`X-Robots-Tag: noindex`).
-- **Policy Enforcement**: `functions/lib/gating.ts` is the single source of truth for resolving which paths belong to which class.
+- **Public Content Paths**: Hub pages (`/`, `about.html`, `contribute.html`), all book roots, and ALL 440+ book chapters (`/books/<slug>/*`) MUST be fully indexable by search engines (HTTP 200 at the edge, no 302 redirects, no `noindex` headers) and MUST be included in `sitemap.xml` and `/llms.txt`.
+- **Confidential / Admin Paths**: `/admin` and `/admin/*` SPA routes are strictly confidential, excluded from `sitemap.xml`, and carry `X-Robots-Tag: noindex, nofollow` with `Cache-Control: private, no-store`.
+- **AI Search & GEO Support**: AI crawlers (`GPTBot`, `ChatGPT-User`, `PerplexityBot`, `ClaudeBot`, `Google-Extended`) are explicitly allowed in `robots.txt`, and an automated Markdown catalog is generated at `/llms.txt`.
+- **Policy Enforcement**: `functions/lib/gating.ts` is the single source of truth for resolving edge public paths.
 
 ## 4. New Book A–Z SEO Pipeline (Phases A–H)
 
@@ -148,15 +149,15 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies `<link rel="canonical">` and `<link rel="alternate" hreflang="...">` exist on all public pages.
 
-**R3 — Sitemap Generation**
-- **Statement:** `sitemap.xml` MUST list only public, indexable URLs and exclude every gated path resolved by `functions/lib/gating.ts`.
+**R3 — Sitemap & LLMs.txt Generation**
+- **Statement:** `sitemap.xml` MUST list 100% of public content URLs and book chapters, while excluding confidential admin paths (`/admin`). An `/llms.txt` file MUST be generated to provide AI crawlers with a Markdown catalog.
 - **Command:** `bun run scripts/check-seo.ts`
-- **Acceptance Check:** Exits code 0; script parses `sitemap.xml` and fails if any gated path is present.
+- **Acceptance Check:** Exits code 0; script verifies `sitemap.xml` contains all content paths and `/llms.txt` is present.
 
-**R4 — Gated Content Noindex**
-- **Statement:** Gated pages MUST carry a `noindex` signal (`X-Robots-Tag: noindex` in `output/_headers` or `<meta name="robots" content="noindex">`) and MUST NOT appear in `sitemap.xml`.
+**R4 — Confidential Path Exclusion & Content Indexability**
+- **Statement:** Confidential paths (`/admin`, `/admin/*`) MUST carry `X-Robots-Tag: noindex, nofollow` in `_headers` and MUST NOT appear in `sitemap.xml`. Conversely, NO book content page may carry a `noindex` signal.
 - **Command:** `bun run scripts/check-seo.ts`
-- **Acceptance Check:** Exits code 0; script verifies that gated paths map to a `noindex` directive in `output/_headers`.
+- **Acceptance Check:** Exits code 0; script verifies `/admin/*` is noindexed while all book content paths are indexable.
 
 **R5 — SEO Build Validation**
 - **Statement:** A runnable SEO check script MUST scan `output/**/*.html` and exit non-zero on any violation of rules R1-R4.
