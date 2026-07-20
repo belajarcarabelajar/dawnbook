@@ -37,7 +37,7 @@ Dengan demikian, analisis ini dapat memberikan kontribusi penting dalam memahami
 
 ### Implementasi Metodologi: Pemetaan Rumusan Masalah
 
-Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan data biografi sekunder berupa transkrip wawancara media dengan Iwan Setyawan. Metodologi ini membuktikan hubungan korespondensi yang erat antara kondisi mental pengarang saat menulis dengan representasi kejiwaan tokoh fiksi dalam teks.
+Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan konteks latar belakang autobiografis Iwan Setyawan. Metodologi ini membuktikan hubungan korespondensi yang erat antara kondisi mental pengarang saat menulis dengan representasi kejiwaan tokoh fiksi dalam teks.
 
 ### Langkah Berikutnya: Memasuki Ranah Struktural
 
