@@ -1,226 +1,144 @@
 /**
  * functions/lib/auth.ts
- * Shared authentication logic for Cloudflare Pages Functions using Clerk.
  *
- * Primary: Verify session JWT locally via JWKS (networkless after key fetch).
- * Fallback: Verify via Clerk Backend API if local verification fails.
+ * Shared authentication logic for Cloudflare Pages Functions using D1 +
+ * Google OAuth. Replaces the previous Clerk JWT-based flow.
+ *
+ * A session is identified by an opaque random `session_id` cookie (64-char
+ * hex). On every request, the cookie is looked up against the `sessions`
+ * table; expiry and last-seen are checked; the joined `users` row is
+ * returned as the authenticated principal.
+ *
+ * The returned `AuthSession` keeps the Clerk-era shape (`sub` is the user
+ * id, `email` and `role` are surfaced alongside) so that existing handlers
+ * (which still read `session.sub` and `session.publicMetadata.role`) only
+ * need a one-line swap from the previous Clerk-based verifier to
+ * `verifySession`.
  */
 
 export interface Env {
   DB: D1Database;
-  CLERK_SECRET_KEY: string;
-  CLERK_PUBLISHABLE_KEY: string;
+  GOOGLE_CLIENT_ID: string;
+  GOOGLE_CLIENT_SECRET: string;
+}
+
+export interface AuthUser {
+  id: string;
+  email: string;
+  name: string | null;
+  picture: string | null;
+  role: "reader" | "admin";
 }
 
 export interface AuthSession {
-  sub: string; // The user ID
+  /** User id (users.id). Replaces Clerk's `sub`. */
+  sub: string;
+  /** Session id (sessions.id). Useful for refresh/logout flows. */
+  sid: string;
+  email: string;
+  role: "reader" | "admin";
+  /**
+   * Kept for backward compatibility with handlers that previously read
+   * Clerk's `publicMetadata.role`. New code should prefer `role` directly.
+   */
+  publicMetadata: { role: "reader" | "admin" };
   [key: string]: unknown;
 }
 
-/**
- * Converts a base64url string to standard base64 with proper padding.
- */
-function base64urlToBase64(str: string): string {
-  let b64 = str.replace(/-/g, "+").replace(/_/g, "/");
-  while (b64.length % 4 !== 0) b64 += "=";
-  return b64;
+interface SessionRow {
+  s_id: string;
+  s_user_id: string;
+  s_expires_at: string;
+  u_id: string;
+  u_email: string;
+  u_name: string | null;
+  u_picture: string | null;
+  u_role: "reader" | "admin";
 }
 
 /**
- * Extracts the Clerk Frontend API domain from a publishable key.
- * The key format is: pk_(test|live)_<base64url encoded domain>
- * The decoded domain has a trailing '$' that must be stripped.
+ * Extracts the session id from either the `session_id` cookie or the
+ * `Authorization: Session <hex>` header. Returns null if absent or
+ * malformed. Validates that the value is exactly 64 lowercase hex chars
+ * (the format we generate on session creation).
  */
-function getClerkDomain(publishableKey: string): string {
-  const keyBody = publishableKey.replace(/^pk_(test|live)_/, "");
-  const padded = base64urlToBase64(keyBody);
-  const decoded = atob(padded);
-  // Clerk always appends a '$' sentinel to the encoded domain — strip it
-  return decoded.replace(/\$+$/, "");
-}
+export function extractSessionId(request: Request): string | null {
+  const HEX64 = /^[a-f0-9]{64}$/;
 
-/**
- * Verifies a Clerk session JWT from the Authorization header.
- * Returns the decoded payload on success, or null on failure.
- */
-export async function verifyClerkSession(
-  request: Request,
-  env: Env
-): Promise<AuthSession | null> {
-  let token = "";
-  const authHeader = request.headers.get("Authorization");
-  if (authHeader && authHeader.startsWith("Bearer ")) {
-    token = authHeader.slice(7).trim();
-  } else {
-    const cookieHeader = request.headers.get("Cookie") || "";
-    const cookies = cookieHeader.split(";").map((c) => c.trim());
-    for (const cookie of cookies) {
-      if (cookie.startsWith("__session=")) {
-        token = cookie.slice("__session=".length).trim();
-        break;
-      }
+  // 1. Cookie (browser flow).
+  const cookieHeader = request.headers.get("Cookie") ?? "";
+  for (const c of cookieHeader.split(";").map((c) => c.trim())) {
+    if (c.startsWith("session_id=")) {
+      const v = c.slice("session_id=".length).trim();
+      if (v && HEX64.test(v)) return v;
     }
   }
 
-  if (!token) { console.log("No token found"); return null; } else { console.log("Token found, length:", token.length); }
-
-  const pk = env.CLERK_PUBLISHABLE_KEY || (env as any).VITE_CLERK_PUBLISHABLE_KEY;
-  console.log("CLERK_PUBLISHABLE_KEY:", env.CLERK_PUBLISHABLE_KEY);
-  console.log("VITE_CLERK_PUBLISHABLE_KEY:", (env as any).VITE_CLERK_PUBLISHABLE_KEY);
-  console.log("CLERK_SECRET_KEY:", !!env.CLERK_SECRET_KEY);
-
-  // --- Attempt 1: Local JWKS verification ---
-  if (pk) {
-    try {
-      const clerkDomain = getClerkDomain(pk);
-      const jwksUrl = `https://${clerkDomain}/.well-known/jwks.json`;
-      console.log("Fetching JWKS from:", jwksUrl);
-      const jwksResponse = await fetch(jwksUrl, {
-        cf: {
-          cacheTtl: 3600,
-          cacheEverything: true,
-        },
-      });
-      console.log("JWKS status:", jwksResponse.status);
-
-      if (jwksResponse.ok) {
-        const jwks = (await jwksResponse.json()) as { keys: JsonWebKey[] };
-        if (jwks.keys && jwks.keys.length > 0) {
-          const result = await verifyWithJWKS(token, jwks.keys);
-          console.log("JWKS verify result exists:", !!result);
-          if (result) return result;
-        }
-      }
-    } catch (e) {
-      console.error("[auth] JWKS verification failed:", e);
-    }
-  }
-
-  // --- Attempt 2: Clerk Backend API verification ---
-  console.log("Attempting Backend Verification, Secret Key exists:", !!env.CLERK_SECRET_KEY);
-  if (env.CLERK_SECRET_KEY) {
-    try {
-      return await verifyViaClerkBackendAPI(token, env.CLERK_SECRET_KEY);
-    } catch (e) {
-      console.error("[auth] Backend API verification failed:", e);
-    }
+  // 2. Authorization: Session <hex> (programmatic clients).
+  const auth = request.headers.get("Authorization");
+  if (auth?.startsWith("Session ")) {
+    const v = auth.slice(8).trim();
+    if (v && HEX64.test(v)) return v;
   }
 
   return null;
 }
 
 /**
- * Verify a JWT against a set of JWK keys using Web Crypto API.
+ * Verifies a session by looking it up in D1. Returns the joined
+ * AuthSession on success, or null if the session is missing, malformed,
+ * or expired. Expired sessions are left in place (a periodic cleanup
+ * task, not implemented here, would GC them).
  */
-async function verifyWithJWKS(
-  token: string,
-  keys: JsonWebKey[]
+export async function verifySession(
+  request: Request,
+  env: Env
 ): Promise<AuthSession | null> {
-  const parts = token.split(".");
-  if (parts.length !== 3) return null;
+  const sid = extractSessionId(request);
+  if (!sid) return null;
 
-  const [headerB64, payloadB64, signatureB64] = parts;
+  const row = await env.DB.prepare(
+    `SELECT
+       s.id           AS s_id,
+       s.user_id      AS s_user_id,
+       s.expires_at   AS s_expires_at,
+       u.id           AS u_id,
+       u.email        AS u_email,
+       u.name         AS u_name,
+       u.picture      AS u_picture,
+       u.role         AS u_role
+     FROM sessions s
+     JOIN users u ON u.id = s.user_id
+     WHERE s.id = ?1`
+  )
+    .bind(sid)
+    .first<SessionRow>();
 
-  const header = JSON.parse(atob(base64urlToBase64(headerB64)));
-  const matchingKey = keys.find(
-    (k: any) => k.kid === header.kid && k.alg === header.alg
-  );
+  if (!row) return null;
 
-  if (!matchingKey) return null;
+  // Expiry check: ISO 8601 strings are lexicographically comparable when
+  // they are normalized to UTC, which our schema enforces.
+  const now = new Date().toISOString();
+  if (row.s_expires_at <= now) return null;
 
-  const cryptoKey = await crypto.subtle.importKey(
-    "jwk",
-    matchingKey,
-    { name: "RSASSA-PKCS1-v1_5", hash: "SHA-256" },
-    false,
-    ["verify"]
-  );
-
-  const data = new TextEncoder().encode(`${headerB64}.${payloadB64}`);
-  const signature = Uint8Array.from(
-    atob(base64urlToBase64(signatureB64)),
-    (c) => c.charCodeAt(0)
-  );
-
-  const valid = await crypto.subtle.verify(
-    "RSASSA-PKCS1-v1_5",
-    cryptoKey,
-    signature,
-    data
-  );
-
-  if (!valid) return null;
-
-  const payload = JSON.parse(
-    atob(base64urlToBase64(payloadB64))
-  ) as AuthSession;
-
-  // Check expiration
-  const now = Math.floor(Date.now() / 1000);
-  if (typeof payload.exp === "number" && payload.exp < now) {
-    return null;
+  // Best-effort last-seen update. Failure here must not break the request,
+  // so swallow errors silently. (Pages Functions have ~50ms CPU budget
+  // per request on the free plan; this is a single point UPDATE.)
+  try {
+    await env.DB.prepare(
+      "UPDATE sessions SET last_seen_at = ?1 WHERE id = ?2"
+    )
+      .bind(now, sid)
+      .run();
+  } catch {
+    // ignore
   }
 
-  return payload;
-}
-
-/**
- * Fallback: Verify the session token by decoding it and calling
- * Clerk Backend API to validate the session.
- *
- * We decode the JWT payload to get the session ID (sid),
- * then call GET /v1/sessions/{sid} to confirm it's active.
- */
-async function verifyViaClerkBackendAPI(
-  token: string,
-  secretKey: string
-): Promise<AuthSession | null> {
-  console.log("verifyViaClerkBackendAPI token length:", token.length);
-  // Decode the JWT payload to extract sub and sid
-  const parts = token.split(".");
-  console.log("verifyViaClerkBackendAPI token parts:", parts.length);
-  if (parts.length !== 3) return null;
-
-  const payload = JSON.parse(
-    atob(base64urlToBase64(parts[1]))
-  ) as AuthSession;
-
-  if (!payload.sub) return null;
-
-  // If there's a session ID, verify it's active via Clerk Backend API
-  const sid = payload.sid as string | undefined;
-  if (sid) {
-    const response = await fetch(
-      `https://api.clerk.com/v1/sessions/${sid}`,
-      {
-        headers: {
-          Authorization: `Bearer ${secretKey}`,
-        },
-      }
-    );
-    console.log("Backend API verification status:", response.status);
-    if (!response.ok) {
-      console.log("Backend API error:", await response.text());
-      return null;
-    }
-
-    const session = (await response.json()) as {
-      status: string;
-      user_id: string;
-    };
-
-    // Only accept active sessions
-    if (session.status !== "active") return null;
-
-    // Verify the user_id matches the token's sub claim
-    if (session.user_id !== payload.sub) return null;
-  }
-
-  // Check expiration
-  const now = Math.floor(Date.now() / 1000);
-  if (typeof payload.exp === "number" && payload.exp < now) {
-    return null;
-  }
-
-  return payload;
+  return {
+    sub: row.u_id,
+    sid: row.s_id,
+    email: row.u_email,
+    role: row.u_role,
+    publicMetadata: { role: row.u_role },
+  };
 }

@@ -20,41 +20,22 @@ function getApiBase(): string {
 }
 
 /**
- * Retrieves the Clerk session token for authenticated requests.
- * Clerk's `@clerk/react` exposes `useAuth().getToken()`, but since this
- * service is called outside React hooks, we read the token from Clerk's
- * session management via the global Clerk instance.
- */
-async function getAuthToken(): Promise<string | null> {
-  try {
-    interface ClerkWindow extends Window {
-      Clerk?: {
-        session?: {
-          getToken(): Promise<string>;
-        };
-      };
-    }
-    const clerk = (window as ClerkWindow).Clerk;
-    if (clerk?.session) {
-      return await clerk.session.getToken();
-    }
-    return null;
-  } catch {
-    return null;
-  }
-}
-
-/**
  * Service to manage book operations via the D1-backed API.
+ *
+ * Authentication is via the `session_id` cookie set by /api/auth/callback.
+ * All authenticated fetches must use `credentials: 'same-origin'` so the
+ * cookie is sent on cross-tab navigations from the admin app to the API.
  */
 export const BookService = {
   /**
-   * Fetches all books from the API.
+   * Fetches all books from the API. Public — no auth required.
    */
   async fetchBooks(): Promise<Book[]> {
     try {
       const base = getApiBase();
-      const response = await fetch(`${base}/api/books`);
+      const response = await fetch(`${base}/api/books`, {
+        credentials: "same-origin",
+      });
 
       if (!response.ok) {
         throw new Error(`Failed to fetch books: ${response.status} ${response.statusText}`);
@@ -69,12 +50,14 @@ export const BookService = {
   },
 
   /**
-   * Fetches a specific book including its full markdown content.
+   * Fetches a specific book including its full markdown content. Public.
    */
   async fetchBook(slug: string): Promise<Book> {
     try {
       const base = getApiBase();
-      const response = await fetch(`${base}/api/books/${slug}`);
+      const response = await fetch(`${base}/api/books/${slug}`, {
+        credentials: "same-origin",
+      });
 
       if (!response.ok) {
         throw new Error(`Failed to fetch book: ${response.status} ${response.statusText}`);
@@ -89,27 +72,23 @@ export const BookService = {
   },
 
   /**
-   * Deletes a book via the API.
-   * Requires an authenticated Clerk session.
+   * Deletes a book via the API. Requires an authenticated session with
+   * admin role. The server reads the session_id cookie and rejects with
+   * 401/403 if the caller is unauthenticated / unauthorized.
    */
   async deleteBook(slug: string): Promise<{ success: boolean; message: string }> {
     try {
       const base = getApiBase();
-      const token = await getAuthToken();
-
-      if (!token) {
-        return { success: false, message: "Authentication required. Please sign in." };
-      }
-
       const response = await fetch(`${base}/api/books/${slug}`, {
         method: "DELETE",
-        headers: {
-          "Authorization": `Bearer ${token}`,
-        },
+        credentials: "same-origin",
       });
 
       if (response.status === 401) {
-        return { success: false, message: "Unauthorized. Please sign in again." };
+        return { success: false, message: "Unauthorized. Please sign in." };
+      }
+      if (response.status === 403) {
+        return { success: false, message: "Forbidden. Administrator access required." };
       }
 
       if (!response.ok) {
@@ -127,29 +106,24 @@ export const BookService = {
 
 
   /**
-   * Publishes a chapter by sending the payload to the API.
-   * Requires an authenticated Clerk session.
+   * Publishes a chapter by sending the payload to the API. Requires an
+   * authenticated session with admin role.
    */
   async publishChapter(payload: PublishPayload): Promise<{ success: boolean; message: string }> {
     try {
       const base = getApiBase();
-      const token = await getAuthToken();
-
-      if (!token) {
-        return { success: false, message: "Authentication required. Please sign in." };
-      }
-
       const response = await fetch(`${base}/api/books`, {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "Authorization": `Bearer ${token}`,
-        },
+        credentials: "same-origin",
+        headers: { "Content-Type": "application/json" },
         body: JSON.stringify(payload),
       });
 
       if (response.status === 401) {
-        return { success: false, message: "Unauthorized. Please sign in again." };
+        return { success: false, message: "Unauthorized. Please sign in." };
+      }
+      if (response.status === 403) {
+        return { success: false, message: "Forbidden. Administrator access required." };
       }
 
       if (!response.ok) {
