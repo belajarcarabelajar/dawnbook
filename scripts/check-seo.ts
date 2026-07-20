@@ -78,22 +78,28 @@ async function checkSeo() {
               hasErrors = true;
             }
           }
-        } else {
-          // R4: Gated paths MUST NOT appear in sitemap.xml
+
+          // Verify content page is present in sitemap.xml
           const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-          if (sitemapContent.includes(url)) {
-            console.error(`❌ [FAIL] Gated path ${relativePath} found in sitemap.xml! (R4)`);
+          if (!sitemapContent.includes(url)) {
+            console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
             hasErrors = true;
           }
 
-          // R4: Gated paths MUST have X-Robots-Tag: noindex in _headers
-          if (!headersContent.includes(relativePath) || !headersContent.includes("X-Robots-Tag: noindex")) {
-             // Let's do a more robust check: does headersContent contain relativePath followed by noindex?
-             const headerSection = headersContent.split(relativePath)[1];
-             if (!headerSection || !headerSection.includes("X-Robots-Tag: noindex")) {
-                 console.error(`❌ [FAIL] Gated path ${relativePath} missing X-Robots-Tag: noindex in _headers! (R4)`);
-                 hasErrors = true;
-             }
+          // Verify content page does NOT have noindex in _headers
+          if (headersContent.includes(relativePath) && headersContent.includes("X-Robots-Tag: noindex")) {
+            const headerSection = headersContent.split(relativePath)[1];
+            if (headerSection && headerSection.startsWith("\n  X-Robots-Tag: noindex")) {
+              console.error(`❌ [FAIL] Content path ${relativePath} incorrectly marked with X-Robots-Tag: noindex!`);
+              hasErrors = true;
+            }
+          }
+        } else {
+          // Confidential/Admin paths MUST NOT appear in sitemap.xml
+          const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
+          if (sitemapContent.includes(url)) {
+            console.error(`❌ [FAIL] Confidential path ${relativePath} found in sitemap.xml!`);
+            hasErrors = true;
           }
         }
       }

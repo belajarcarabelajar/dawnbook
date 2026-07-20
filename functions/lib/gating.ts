@@ -85,91 +85,28 @@ const PUBLIC_PATH_PREFIXES = [
 ];
 
 /**
- * Determines whether a pathname is public (no auth required).
+ * Determines whether a pathname is public (no auth required at edge).
+ *
+ * All content pages, book chapters, static assets, and public routes are public at the edge
+ * so search engines (Googlebot, Bingbot, etc.) can crawl and index 100% of book content without 302 redirects.
+ * Only /admin/* routes require authentication.
  *
  * @param pathname - The URL pathname, e.g. "/books/piaget/02%20-%20Konsep.html"
- * @returns true if the path should be served without authentication
+ * @returns true if the path should be served without edge-level auth redirection
  */
 export function isPublicPath(pathname: string): boolean {
-  // Decode percent-encoded pathnames for accurate matching
   let decoded = pathname;
   try {
     decoded = decodeURIComponent(pathname);
   } catch (err) {
-    // Fallback to raw pathname if decoding fails (e.g., malformed percent-encoding)
     console.error(`[gating] URIError decoding pathname: ${pathname}`);
   }
 
-  // 1. Exact matches
-  if (PUBLIC_EXACT_PATHS.has(decoded)) {
-    return true;
+  // Admin SPA routes are gated / confidential
+  if (decoded === "/admin" || decoded.startsWith("/admin/")) {
+    return false;
   }
 
-  // 2. Prefix matches
-  for (const prefix of PUBLIC_PATH_PREFIXES) {
-    if (decoded.startsWith(prefix)) {
-      return true;
-    }
-  }
-
-  // 3. Static asset extensions — always public regardless of path
-  const lastDot = decoded.lastIndexOf(".");
-  if (lastDot !== -1) {
-    const ext = decoded.slice(lastDot).toLowerCase();
-    // Non-HTML assets are always public
-    if (ext !== ".html" && PUBLIC_ASSET_EXTENSIONS.has(ext)) {
-      return true;
-    }
-  }
-
-  // 4. Book-specific logic: /books/<slug>/<page>
-  const bookMatch = decoded.match(/^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/);
-  if (!bookMatch) {
-    // Not a book path — anything else not matched above is public
-    // (e.g. /tokens.css, /HubLayout.css, /typography.css)
-    return true;
-  }
-
-  const page = bookMatch[2] ?? "";
-
-  // Book root (index.html or empty) = public preview
-  if (page === "" || page === "index.html") {
-    return true;
-  }
-
-  // mdBook assets within a book directory (JS, CSS, fonts, images)
-  const pageLastDot = page.lastIndexOf(".");
-  if (pageLastDot !== -1) {
-    const pageExt = page.slice(pageLastDot).toLowerCase();
-    if (pageExt !== ".html" && PUBLIC_ASSET_EXTENSIONS.has(pageExt)) {
-      return true;
-    }
-  }
-
-  if (page === "toc.html" || page === "404.html" || page === "print.html") {
-    return true;
-  }
-
-  // Chapter-based gating: only chapters whose decoded basename starts with
-  // the public preview prefix (defined above) are public. All other book
-  // pages are gated and require an authenticated D1 session.
-  //
-  // mdBook names chapter files like "01 - Konsep.html", "02 - ....html".
-  // The public preview prefix is "chapter_1" — see PUBLIC_PREVIEW_CHAPTER.
-  // We match on the numeric prefix so that "01 - ..." and "1 - ..." are
-  // both recognised (some templates drop the leading zero).
-  const chapterPrefix = PUBLIC_PREVIEW_CHAPTER.match(/^chapter_(\d+)$/);
-  if (chapterPrefix) {
-    const allowedNum = chapterPrefix[1];
-    const chapterMatch = page.match(/^0*(\d+)\s*[-_]/);
-    if (chapterMatch) {
-      const n = parseInt(chapterMatch[1], 10);
-      if (!isNaN(n) && n <= parseInt(allowedNum, 10)) {
-        return true;
-      }
-    }
-  }
-
-  // Anything else under /books/<slug>/ is gated content.
-  return false;
+  // All book chapters, hub pages, static assets, and public routes are public at the edge for SEO
+  return true;
 }

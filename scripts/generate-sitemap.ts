@@ -51,10 +51,29 @@ ${urls.map(url => `  <url>\n    <loc>${url}</loc>\n    <changefreq>weekly</chang
 
   const robotsContent = `User-agent: *
 Allow: /
+Disallow: /admin
+Disallow: /admin/
+
+# AI Search Crawlers & LLM Indexers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: ${baseUrl}/sitemap.xml
 `;
   await writeFile(join(outputDir, "robots.txt"), robotsContent);
-  console.log("✅ robots.txt generated.");
+  console.log("✅ robots.txt generated with AI crawler permissions.");
 }
 
 generateSitemap().catch(console.error);

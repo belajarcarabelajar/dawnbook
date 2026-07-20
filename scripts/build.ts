@@ -988,18 +988,23 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
     await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
 
     let headersContent = `
+/admin/*
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
+/admin
+  X-Robots-Tag: noindex, nofollow
+  Cache-Control: private, no-store
+
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://accounts.google.com https://*.googleusercontent.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
-  Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
-  Pragma: no-cache
-  Expires: 0
 `;
 
-    // Map gated paths into _headers appending X-Robots-Tag: noindex
+    // Map gated/private paths into _headers appending X-Robots-Tag: noindex
     async function appendGatedHeaders(dir: string) {
       const entries = await readdir(dir);
       for (const entry of entries) {
@@ -1010,7 +1015,7 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
         } else if (fullPath.endsWith(".html")) {
           const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
           if (!isPublicPath(relativePath)) {
-            headersContent += `\n${relativePath}\n  X-Robots-Tag: noindex`;
+            headersContent += `\n${relativePath}\n  X-Robots-Tag: noindex, nofollow`;
           }
         }
       }
@@ -1052,6 +1057,9 @@ async function build() {
 
   console.log("Generating sitemap...");
   await $`bun run scripts/generate-sitemap.ts`;
+
+  console.log("Generating llms.txt...");
+  await $`bun run scripts/generate-llmstxt.ts`;
 
   console.log("Running SEO validation...");
   await $`bun run scripts/check-seo.ts`;
