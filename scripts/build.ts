@@ -192,12 +192,12 @@ async function generateSitePages(
 <html lang="en">
 <head>
     <!-- Google Analytics (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.GA_MEASUREMENT_ID || "G-Q33QN4S14P"}"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW"}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', '${process.env.GA_MEASUREMENT_ID || "G-Q33QN4S14P"}');
+      gtag('config', '${process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW"}');
     </script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
