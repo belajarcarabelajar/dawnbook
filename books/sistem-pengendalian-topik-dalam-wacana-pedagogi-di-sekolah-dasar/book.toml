@@ -1,0 +1,17 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Sistem Pengendalian Topik dalam Wacana Pedagogi di Sekolah Dasar"
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Pendidikan Guru Sekolah Dasar (PGSD)"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
