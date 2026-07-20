@@ -27,7 +27,16 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
       const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
       
+      const gaId = process.env.GA_MEASUREMENT_ID || "G-Q33QN4S14P";
       const seoTags = `
+        <!-- Google Analytics (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', '${gaId}');
+        </script>
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/register-sw.js" defer></script>
