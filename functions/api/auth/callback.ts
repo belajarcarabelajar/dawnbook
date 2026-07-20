@@ -43,23 +43,22 @@ function readCookie(request: Request, name: string): string | null {
   return null;
 }
 
-function clearStateCookies(): string[] {
-  return [
-    `${STATE_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`,
-    `${REDIRECT_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`,
-  ];
+function clearStateCookies(headers: Headers): void {
+  headers.append("Set-Cookie", `${STATE_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`);
+  headers.append("Set-Cookie", `${REDIRECT_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`);
 }
 
 function redirectWithError(request: Request, code: string): Response {
   const url = new URL("/sign-in", request.url);
   url.searchParams.set("error", code);
+  const headers = new Headers({
+    Location: url.toString(),
+    "Cache-Control": "no-store",
+  });
+  clearStateCookies(headers);
   return new Response(null, {
     status: 302,
-    headers: {
-      Location: url.toString(),
-      "Set-Cookie": clearStateCookies().join(", "),
-      "Cache-Control": "no-store",
-    },
+    headers,
   });
 }
 
@@ -137,16 +136,19 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     );
     const dest = new URL(redirectPath, request.url).toString();
 
-    const setSession = `${SESSION_COOKIE}=${sessionId}; Path=/; Max-Age=${SESSION_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`;
-    const clearState = clearStateCookies().join(", ");
+    const headers = new Headers({
+      Location: dest,
+      "Cache-Control": "no-store",
+    });
+    headers.append(
+      "Set-Cookie",
+      `${SESSION_COOKIE}=${sessionId}; Path=/; Max-Age=${SESSION_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`
+    );
+    clearStateCookies(headers);
 
     return new Response(null, {
       status: 302,
-      headers: {
-        Location: dest,
-        "Set-Cookie": `${setSession}, ${clearState}`,
-        "Cache-Control": "no-store",
-      },
+      headers,
     });
   } catch (err) {
     console.error("[auth/callback] D1 ops failed:", err);

@@ -38,10 +38,6 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
   // a non-valid-hex char so the hex validator rejects tampered values.
   // Simpler: keep state pure-hex, and store the redirect_url in a
   // companion cookie.
-  const redirectCookie = redirectUrl === "/"
-    ? ""
-    : `oauth_redirect=${encodeURIComponent(redirectUrl)}; Path=/; Max-Age=${STATE_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax; `;
-
   const redirectUri = `${url.origin}/api/auth/callback`;
   const authUrl = buildAuthUrl({
     clientId: env.GOOGLE_CLIENT_ID,
@@ -49,12 +45,20 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     state,
   });
 
+  const headers = new Headers({
+    Location: authUrl,
+    "Cache-Control": "no-store",
+  });
+  headers.append("Set-Cookie", setStateCookie(request, state));
+  if (redirectUrl !== "/") {
+    headers.append(
+      "Set-Cookie",
+      `oauth_redirect=${encodeURIComponent(redirectUrl)}; Path=/; Max-Age=${STATE_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`
+    );
+  }
+
   return new Response(null, {
     status: 302,
-    headers: {
-      Location: authUrl,
-      "Set-Cookie": `${redirectCookie}${setStateCookie(request, state)}`,
-      "Cache-Control": "no-store",
-    },
+    headers,
   });
 };
