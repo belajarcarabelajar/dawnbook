@@ -2,7 +2,7 @@
 
 ### Struktur Sosial dan Relasi Tokoh Utama
 
-Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
+Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel *9 Summers 10 Autumns*, tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
 
 ### Kontribusi Tokoh Keluarga dan Kolega Profesional
 
@@ -46,10 +46,6 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 ### Eksplorasi Tokoh: Peran Lingkungan Akademik dan Kerja
 
 Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Audrey di New York atau Mas Mul) tidak sekadar menjadi pelengkap cerita. Mereka bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey di kelas yoga West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
-
-### Pertanyaan Analitis: Arti Penting Tokoh Pendukung
-
-*Menurut kamu, apakah tokoh utama dapat mencapai kesuksesannya tanpa kehadiran tokoh pendukung yang memotivasi atau menantangnya? Bagaimana tokoh pendukung mencerminkan realitas sosial lingkungan pengarang?*
 
 ### Menuju Analisis Latar: Ruang dan Lingkungan Cerita
 

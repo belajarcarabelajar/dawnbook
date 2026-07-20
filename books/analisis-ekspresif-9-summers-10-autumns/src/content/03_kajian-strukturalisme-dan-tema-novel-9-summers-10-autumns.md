@@ -1,6 +1,6 @@
 ## Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns
 
-Mari kita lanjutkan perjalanan kita dalam mengaplikasikan teori kritik sastra dengan memahami kajian strukturalisme dan tema utama novel *9 Summers 10 Autumns*. Pada bab sebelumnya, kita telah membahas tentang pentingnya pendekatan analisis dalam meningkatkan apresiasi sastra. Sekarang, kita akan memasuki dunia strukturalisme, sebuah pendekatan yang menekankan pada keterkaitan antarunsur pembangun karya.
+Memahami sebuah karya sastra secara mendalam menuntut kesediaan untuk melihatnya sebagai satu kesatuan yang utuh, di mana setiap elemen saling bertumpu dan menghidupkan makna. Melalui novel *9 Summers 10 Autumns*, eksplorasi ini dimulai dengan membedah jalinan struktural yang menyusun kisah hidup sang tokoh utama. Kajian strukturalisme hadir sebagai pisau analisis pertama, membongkar keterkaitan antarunsur pembangun karya demi menyingkap tema besar yang menggerakkan seluruh cerita.
 
 ### Konsep Kajian Strukturalisme dalam Sastra
 

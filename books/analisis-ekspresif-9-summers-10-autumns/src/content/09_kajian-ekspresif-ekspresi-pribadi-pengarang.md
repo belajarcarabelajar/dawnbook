@@ -1,6 +1,6 @@
 ## Kajian Ekspresif: Ekspresi Pribadi Pengarang
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns menjadi sarana bagi pengarang untuk mengekspresikan kehidupan pribadinya. Setelah membahas alur cerita, penokohan, dan latar pada bab-bab terdahulu, kini kita mulai memasuki wilayah kajian ekspresif, di mana karya sastra ditelaah sebagai cerminan langsung dari jiwa pembuatnya.
+Sebuah karya sastra lahir dari kedalaman jiwa penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita melangkah lebih jauh ke dalam ruang batin pengarang melalui pendekatan ekspresif. Dalam ruang ini, novel *9 Summers 10 Autumns* tampil sebagai gerbang nyata yang menyingkap jejak emosional dan perjalanan hidup asli Iwan Setyawan.
 
 ### Refleksi Jiwa Pengarang dalam Ruang Kota
 
@@ -17,10 +17,6 @@ Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah kata
 ### Komparasi Biografis: Menyejajarkan Wawancara dan Novel
 
 Penyejajaran antara pernyataan langsung Iwan Setyawan dalam wawancara media dengan teks novel membuktikan keakuratan pendekatan ekspresif. Ketika diwawancarai oleh media nasional, Iwan menceritakan bagaimana ia sering menangis sendirian di apartemennya di New York karena rindu rumah. Pengalaman kejiwaan riil ini secara langsung diekspresikan dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang.
-
-### Bahan Renungan: Sastra Sebagai Katarsis Trauma
-
-*Mengapa menulis novel otobiografis sering kali dianggap sebagai media katarsis atau penyembuhan trauma masa lalu bagi seorang pengarang? Apakah kamu merasakan kejujuran emosi tersebut saat membaca novel ini?*
 
 ### Dimensi Religius: Kekuatan Iman di Perantauan
 

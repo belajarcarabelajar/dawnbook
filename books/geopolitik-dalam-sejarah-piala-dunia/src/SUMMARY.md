@@ -1,0 +1,15 @@
+# Summary
+
+- [Pendahuluan: Hubungan Intim Sepak Bola dan Geopolitik](content/01_pendahuluan-hubungan-intim-sepak-bola-dan-geopolitik.md)
+- [Fasisme dan Propaganda: Piala Dunia Italia 1934](content/02_fasisme-dan-propaganda-piala-dunia-italia-1934.md)
+- [Pasca-Perang Dunia II: Rekonstruksi dan Pengucilan Negara Poros](content/03_pasca-perang-dunia-ii-rekonstruksi-dan-pengucilan-negara-poros.md)
+- [Sebuah Protes di "Rumah" Sepak Bola](content/04_sebuah-protes-di-rumah-sepak-bola.md)
+- [Apartheid dan Pengucilan Afrika Selatan dari FIFA](content/05_apartheid-dan-pengucilan-afrika-selatan-dari-fifa.md)
+- [Piala Dunia 1978: Sepak Bola di Bawah Bayang-Bayang Junta Militer](content/06_piala-dunia-1978-sepak-bola-di-bawah-bayang-bayang-junta-militer.md)
+- [Ketegangan Perang Dingin: Blok Barat vs Blok Timur di Lapangan Hijau](content/07_ketegangan-perang-dingin-blok-barat-vs-blok-timur-di-lapangan-hijau.md)
+- [Runtuhnya Blok Timur dan Peta Baru Sepak Bola Dunia](content/08_runtuhnya-blok-timur-dan-peta-baru-sepak-bola-dunia.md)
+- [Konflik Timur Tengah dan Pengusiran Israel dari Konfederasi Asia](content/09_konflik-timur-tengah-dan-pengusiran-israel-dari-konfederasi-asia.md)
+- [Diplomasi Soft Power di Era Modern: Rusia 2018 dan Qatar 2022](content/10_diplomasi-soft-power-di-era-modern-rusia-2018-dan-qatar-2022.md)
+- [Masa Depan Geopolitik Piala Dunia: Ekspansi dan Multipolarisme](content/11_masa-depan-geopolitik-piala-dunia-ekspansi-dan-multipolarisme.md)
+- [Masa Depan: Netralitas Olahraga vs Realitas Politik](content/12_masa-depan-netralitas-olahraga-vs-realitas-politik.md)
+- [Referensi](content/13_referensi.md)

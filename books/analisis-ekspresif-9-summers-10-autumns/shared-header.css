@@ -1,0 +1,101 @@
+/* Make book titles in the mdBook header mobile-friendly */
+.menu-bar {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.menu-title {
+  flex: 1 1 auto !important;
+  min-width: 0 !important; /* Allow flex item to shrink below its minimum content size */
+  text-align: center !important;
+  font-size: clamp(14px, 3vw, 20px) !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+  margin: 0 10px !important;
+  line-height: 1.2 !important;
+}
+
+@media (max-width: 768px) {
+  h1.menu-title, #mdbook-menu-bar .menu-title {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
+  }
+}
+
+/* Adjust spacing between header and first title */
+.content main > h1:first-child,
+.content main > h2:first-child {
+  margin-top: 0.8cm !important;
+  padding-top: 0.2cm !important;
+}
+
+@media (max-width: 768px) {
+  .content main > h1:first-child,
+  .content main > h2:first-child {
+    margin-top: 0.8cm !important;
+    padding-top: 0.2cm !important;
+  }
+}
+
+/* Override mdBook default theme with Dawnbook tokens */
+:root {
+  --font-family-display: 'Syne', sans-serif;
+  --font-family-body: 'Epilogue', sans-serif;
+}
+
+body {
+  font-family: var(--font-family-body), "Open Sans", sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, .menu-title, strong, b {
+  font-family: var(--font-family-display), "Open Sans", sans-serif !important;
+}
+
+
+/* Responsive media embeds */
+img {
+  max-width: 100%;
+  height: auto;
+}
+.embed-responsive {
+  position: relative;
+  display: block;
+  width: 100%;
+  padding: 0;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+.embed-responsive iframe,
+.embed-responsive video {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+/* Scroll Progress Bar */
+#scroll-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background-color: var(--links);
+  z-index: 9999;
+  transition: width 0.1s ease-out;
+}
+
+/* Book Cumulative Progress Bar */
+#book-progress-bar {
+  position: fixed;
+  top: 3px;
+  left: 0;
+  height: 3px;
+  background-color: var(--links);
+  opacity: 0.5;
+  z-index: 9998;
+  transition: width 0.3s ease-out;
+}

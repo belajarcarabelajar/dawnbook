@@ -1,10 +1,10 @@
 ## Latar Tempat, Latar Waktu, dan Latar Sosial dalam Novel 9 Summers 10 Autumns
 
-Kita akan menganalisis secara mendalam bagaimana unsur latar, yang meliputi aspek spasial (tempat), temporal (waktu), dan sosiopsikologis (suasana/sosial), di dalam novel *9 Summers 10 Autumns* tidak sekadar menjadi tempat terjadinya cerita, melainkan berfungsi sebagai cerminan dan pembentuk kejiwaan tokoh utama serta pengarangnya.
+Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers 10 Autumns*, unsur latar (spasial, temporal, dan sosiopsikologis) tidak sekadar berfungsi sebagai dekorasi atau tempat peristiwa berlangsung. Latar bekerja secara aktif sebagai cerminan sekaligus pembentuk dinamika psikologis tokoh utama, merekam setiap jejak emosi dari kesederhanaan masa kecil hingga kesunyian di tengah kemegahan kota megapolitan.
 
 ### Eksplorasi Latar: Dari Kota Apel hingga Belantara Beton
 
-Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi krusial untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
+Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi mendasar untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
 
 Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang sangat tajam antara Kota Batu, Malang (tempat kelahirannya) dengan New York City, Amerika Serikat (tempat ia meniti karir profesional). Berikut adalah analisis detail aspek-aspek latar tersebut:
 
