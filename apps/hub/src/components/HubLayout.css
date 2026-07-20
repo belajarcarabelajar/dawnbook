@@ -296,6 +296,40 @@ h1, h2, h3, .logo {
   }
 }
 
+/* Donate page grid — stacks on mobile, side-by-side on tablet+ */
+.donate-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-lg);
+  align-items: start;
+}
+
+@media (min-width: 768px) {
+  .donate-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* QRIS white frame — block-level, centered, capped at 280px */
+.donate-qris-frame {
+  display: block;
+  width: 100%;
+  max-width: 280px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 16px;
+}
+
+/* QRIS image — square via aspect-ratio, never distorted */
+.donate-qris-img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 8px;
+}
+
 @keyframes fadeSlideRight {
   to {
     opacity: 1;
