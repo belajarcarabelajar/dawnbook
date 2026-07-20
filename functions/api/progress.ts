@@ -6,7 +6,7 @@
  *   POST /api/progress — Save last read path
  */
 
-import { Env, verifyClerkSession } from "../lib/auth";
+import { Env, verifySession } from "../lib/auth";
 
 interface ProgressRow {
   last_read_path: string;
@@ -34,7 +34,7 @@ function errorResponse(message: string, status: number): Response {
 }
 
 async function handleGetProgress(env: Env, request: Request): Promise<Response> {
-  const session = await verifyClerkSession(request, env);
+  const session = await verifySession(request, env);
   if (!session || !session.sub) {
     return errorResponse("Unauthorized", 401);
   }
@@ -87,7 +87,7 @@ async function handleGetProgress(env: Env, request: Request): Promise<Response> 
 
 async function handlePostProgress(env: Env, request: Request): Promise<Response> {
   console.log("POST /api/progress hit!");
-  const session = await verifyClerkSession(request, env);
+  const session = await verifySession(request, env);
   if (!session || !session.sub) {
     return errorResponse("Unauthorized", 401);
   }

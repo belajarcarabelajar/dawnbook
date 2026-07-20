@@ -32,7 +32,6 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/register-sw.js" defer></script>
         <script src="/pake-compat.js" defer></script>
-        <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY || ''}" />
         <link rel="canonical" href="${url}" />
         <link rel="alternate" hreflang="en" href="${url}" />
         <link rel="alternate" hreflang="id" href="${url}" />

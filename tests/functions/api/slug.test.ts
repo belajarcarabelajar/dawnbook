@@ -1,9 +1,9 @@
-import { expect, test, describe, mock } from "bun:test";
+import { expect, test, describe, mock, beforeEach } from "bun:test";
 
 let mockSession: any = null;
 mock.module("../../../functions/lib/auth", () => {
   return {
-    verifyClerkSession: async () => mockSession,
+    verifySession: async () => mockSession,
   };
 });
 
@@ -11,6 +11,10 @@ import { onRequest } from "../../../functions/api/books/[slug]";
 import { createMockEnv, mockRequest } from "../../helpers/mocks";
 
 describe("API: /api/books/[slug]", () => {
+  beforeEach(() => {
+    mockSession = null;
+  });
+
   test("GET returns 400 for invalid slug", async () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books/invalid slug!", { method: "GET" });
@@ -32,11 +36,12 @@ describe("API: /api/books/[slug]", () => {
       const req = mockRequest("https://example.com/api/books/my-slug", { method: "DELETE" });
       const response = await onRequest({ request: req, env, params: { slug: "my-slug" } } as any);
       expect(response.status).toBe(401);
-      expect(await response.json()).toEqual({ error: "Unauthorized: valid Clerk session required" });
+      const body = await response.json();
+      expect(body.error).toContain("Unauthorized");
     });
 
     test("returns 403 if user is not admin", async () => {
-      mockSession = { sub: "user_regular" };
+      mockSession = { sub: "user_regular", role: "reader", publicMetadata: { role: "reader" } };
       const env = createMockEnv();
       const req = mockRequest("https://example.com/api/books/my-slug", { method: "DELETE" });
       const response = await onRequest({ request: req, env, params: { slug: "my-slug" } } as any);
@@ -44,8 +49,8 @@ describe("API: /api/books/[slug]", () => {
       expect(await response.json()).toEqual({ error: "Forbidden: Administrator access required" });
     });
 
-    test("returns 200 on successful deletion by admin", async () => {
-      mockSession = { sub: "user_123", publicMetadata: { role: "admin" } };
+    test("returns 200 on successful deletion by admin (role from session)", async () => {
+      mockSession = { sub: "user_123", role: "admin", publicMetadata: { role: "admin" } };
       const env = createMockEnv();
       const req = mockRequest("https://example.com/api/books/my-slug", { method: "DELETE" });
 
@@ -55,7 +60,7 @@ describe("API: /api/books/[slug]", () => {
     });
 
     test("returns 500 if database deletion fails", async () => {
-      mockSession = { sub: "user_123", publicMetadata: { role: "admin" } };
+      mockSession = { sub: "user_123", role: "admin", publicMetadata: { role: "admin" } };
       const env = createMockEnv();
       // Only override the DB for this test
       env.DB = {

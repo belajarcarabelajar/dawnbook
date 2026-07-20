@@ -5,13 +5,13 @@
  *
  * Terminology:
  *   "public preview" = pages accessible without authentication
- *   "gated content"  = pages that require an authenticated Clerk session
+ *   "gated content"  = pages that require an authenticated D1 session
  *
  * Policy:
  *   - Hub pages (/, /about.html, /contribute.html) are always public.
- *   - Admin SPA (/admin/*) is always public at the edge (Clerk UI gates it client-side).
+ *   - Admin SPA (/admin/*) is always public at the edge (the admin UI gates it via /api/auth/me).
  *   - All static assets (CSS, JS, fonts, images, manifest, _redirects, _headers) are public.
- *   - Clerk routes (/sign-in*, /.clerk/*) are public.
+ *   - Sign-in pages (/sign-in*, /sign-up*) are public.
  *   - API routes (/api/*) are public at the edge (individual handlers enforce their own auth).
  *   - Book index/root (/books/<slug>/ and /books/<slug>/index.html) is public preview.
  *   - The first chapter of each book is public preview.
@@ -82,8 +82,6 @@ const PUBLIC_PATH_PREFIXES = [
   "/api/",
   "/sign-in",
   "/sign-up",
-  "/.clerk/",
-  "/.clerk",
 ];
 
 /**
