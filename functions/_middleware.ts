@@ -6,7 +6,7 @@
  *
  * Policy delegation:
  *   - Public paths (determined by isPublicPath) pass through unchanged.
- *   - Gated paths require a valid Clerk session; unauthenticated requests
+ *   - Gated paths require a valid D1 session; unauthenticated requests
  *     get a 302 redirect (HTML) or 401 JSON response (API/fetch).
  *
  * Caching:
@@ -15,14 +15,12 @@
  *   - Public responses keep their original cache headers.
  */
 
-import { createClerkClient, verifyToken } from "@clerk/backend";
+import { verifySession as verifyD1Session, type Env as AuthEnv } from "./lib/auth";
 import { isPublicPath } from "./lib/gating";
-import { resolveLocale, COOKIE_NAME, DEFAULT_LOCALE } from "./lib/i18n";
+import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
 
-interface Env {
-  CLERK_SECRET_KEY: string;
-  CLERK_PUBLISHABLE_KEY: string;
-  DB: D1Database;
+interface Env extends AuthEnv {
+  // GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, DB inherited from AuthEnv.
 }
 
 /**
@@ -31,54 +29,7 @@ interface Env {
  */
 function wantsHtml(request: Request): boolean {
   const accept = request.headers.get("Accept") ?? "";
-  // Browsers send Accept: text/html,...; fetch clients typically send application/json
-  // or do not include text/html at all.
   return accept.includes("text/html");
-}
-
-/**
- * Extracts the Clerk session token from either the __session cookie
- * or the Authorization: Bearer header.
- */
-function extractSessionToken(request: Request): string | null {
-  // 1. Try Authorization header first (programmatic clients)
-  const authHeader = request.headers.get("Authorization");
-  if (authHeader?.startsWith("Bearer ")) {
-    const token = authHeader.slice(7).trim();
-    if (token) return token;
-  }
-
-  // 2. Try __session cookie (browser sessions set by Clerk)
-  const cookieHeader = request.headers.get("Cookie") ?? "";
-  const cookies = cookieHeader.split(";").map((c) => c.trim());
-  for (const cookie of cookies) {
-    if (cookie.startsWith("__session=")) {
-      const value = cookie.slice("__session=".length).trim();
-      if (value) return value;
-    }
-  }
-
-  return null;
-}
-
-/**
- * Verifies a Clerk session token using @clerk/backend.
- * Returns the verified session payload, or null if invalid/expired.
- */
-async function verifySession(
-  token: string,
-  env: Env
-): Promise<Record<string, unknown> | null> {
-  try {
-    if (!env.CLERK_SECRET_KEY) return null;
-    const result = await verifyToken(token, {
-      secretKey: env.CLERK_SECRET_KEY,
-      authorizedParties: undefined,
-    });
-    return result as unknown as Record<string, unknown>;
-  } catch {
-    return null;
-  }
 }
 
 /**
@@ -134,15 +85,14 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     const locale = resolveLocale({ cookieValue, country });
     const needsCookie = !cookieValue;
 
-    // Since we need to append Set-Cookie to the outgoing response, we will wrap next()
-    // and modify the response before returning it.
     async function nextWithLocale(): Promise<Response> {
       const response = await next();
       if (!needsCookie) return response;
-
-      // Create a new response to allow header modification
       const newResponse = new Response(response.body, response);
-      newResponse.headers.append("Set-Cookie", `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`);
+      newResponse.headers.append(
+        "Set-Cookie",
+        `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`
+      );
       return newResponse;
     }
 
@@ -151,10 +101,10 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       return await nextWithLocale();
     }
 
-    // --- Gated paths: require Clerk session ---
+    // --- Gated paths: require D1 session ---
     if (wantsHtml(request)) {
-      const token = extractSessionToken(request);
-      if (!token || !(await verifySession(token, env))) {
+      const session = await verifyD1Session(request, env);
+      if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
         return Response.redirect(signInUrl.toString(), 302);
@@ -163,20 +113,12 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       return applyGatedCacheHeaders(response);
     }
 
-    const token = extractSessionToken(request);
-
-    if (!token) {
-      return unauthorizedJson();
-    }
-
-    // Verify the token with Clerk backend
-    const session = await verifySession(token, env);
-
+    // Non-HTML (API/fetch).
+    const session = await verifyD1Session(request, env);
     if (!session) {
       return unauthorizedJson();
     }
 
-    // --- Authenticated: serve the gated content with safe cache headers ---
     const response = await nextWithLocale();
     return applyGatedCacheHeaders(response);
   } catch (err) {
@@ -184,7 +126,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     return new Response(
       JSON.stringify({
         error: "Internal Server Error",
-        message: "An unexpected error occurred at the edge."
+        message: "An unexpected error occurred at the edge.",
       }),
       {
         status: 500,

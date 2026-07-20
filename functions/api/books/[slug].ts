@@ -6,11 +6,9 @@
  *   DELETE /api/books/:slug — Delete a book by slug (requires Clerk auth)
  */
 
-import { verifyClerkSession } from "../../lib/auth";
+import { verifySession, type Env as AuthEnv } from "../../lib/auth";
 
-interface Env {
-  DB: D1Database;
-}
+interface Env extends AuthEnv {}
 
 interface BookRow {
   id: string;
@@ -63,13 +61,13 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     }
 
     if (request.method === "DELETE") {
-      const session = await verifyClerkSession(request, env);
+      const session = await verifySession(request, env);
       if (!session) {
-        return errorResponse("Unauthorized: valid Clerk session required", 401);
+        return errorResponse("Unauthorized: valid session required", 401);
       }
 
-      // Strict Admin Authorization
-      if ((session.publicMetadata as any)?.role !== "admin") {
+      // Strict Admin Authorization (D1-backed)
+      if (session.role !== "admin") {
         return errorResponse("Forbidden: Administrator access required", 403);
       }
 
