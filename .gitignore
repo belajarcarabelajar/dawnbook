@@ -59,6 +59,8 @@ lerna-debug.log*
 # Local Tools & Agents (Cruft)
 # ==========================================
 .agents/
+.gemini/
+scratch/
 skills-lock.json
 MDBOOK_SYSTEM_RULES.md
 test.md

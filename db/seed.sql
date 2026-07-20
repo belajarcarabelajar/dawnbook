@@ -1,571 +1,967 @@
 INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
-  'analisis-ekspresif-9-summers-10-autumns',
-  'analisis-ekspresif-9-summers-10-autumns',
-  'Analisis Ekspresif Novel 9 Summers 10 Autumns Karya Iwan Setyawan',
+  'sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar',
+  'sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar',
+  'Sistem Pengendalian Topik dalam Wacana Pedagogi di Sekolah Dasar',
   'published',
-  'Pendidikan Bahasa dan Sastra Indonesia',
-  '<!-- Chapter: 01_latar-belakang-kritik-sastra-ekspresif -->
+  'Pendidikan Guru Sekolah Dasar (PGSD)',
+  '<!-- Chapter: 01_konsep-dasar-dan-wacana-pedagogi -->
 
-# Latar Belakang Kritik Sastra Ekspresif
+## Konsep Dasar dan Wacana Pedagogi di Sekolah Dasar
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial, serta bagaimana pendekatan ekspresif digunakan untuk memahami pemikiran, perasaan, dan latar belakang pengarang.
+Ruang kelas sekolah dasar merupakan arena interaksi bahasa yang sangat dinamis. Setiap tutur kata yang diucapkan oleh guru maupun siswa tidak hanya menyampaikan informasi akademis, tetapi juga membentuk struktur komunikasi tertentu. Dalam konteks ini, wacana pedagogi hadir sebagai bentuk wacana khusus yang dirancang untuk mengarahkan, mengelola, dan memfasilitasi proses belajar-mengajar.
 
-Latar Belakang Masalah
+Memahami bagaimana wacana pedagogi bekerja di tingkat sekolah dasar membantu kamu melihat dinamika pembelajaran secara lebih mendalam. Komunikasi di kelas bukan sekadar proses tukar-menukar kata, melainkan sebuah sistem terstruktur yang menentukan siapa yang memegang kendali atas alur pembicaraan.
 
-Karya sastra adalah ungkapan keadaan realitas secara khayal atau fiksi yang mencerminkan kehidupan masyarakat berdasarkan kenyataan sosial (Kusuma et al., 2025). Karya sastra dapat mencerminkan kehidupan suatu masyarakat yang memiliki nilai-nilai budaya dan moral yang teraplikasikan pada sikap, latar belakang, dan keyakinan pengarang. Kehidupan masyarakat dalam karya sastra dapat memperlihatkan isu-isu sosial yang terjadi pada masanya (Mutia, 2024).
-
-Novel 9 Summers 10 Autumns adalah karya sastra berbentuk novel yang mencerminkan realitas sosial yang dialami oleh pengarang, Iwan Setyawan, dalam kisah hidupnya yang penuh dengan perjuangan. Realitas dari kisah yang diceritakan oleh pengarang dapat dikaji lebih dalam mengenai keterkaitan antara pengarang dengan hasil karyanya.
-
-Pendekatan Ekspresif
-
-Pendekatan ekspresif digunakan dalam analisis novel 9 Summers 10 Autumns untuk memahami pemikiran, perasaan, dan latar belakang yang membuat penulis menghasilkan karyanya. Pendekatan ini memberikan pemahaman mengenai latar belakang psikologis dari karya sastra (Fitri et al., 2024). Melalui pendekatan ekspresif, Novel 9 Summers 10 Autumns memberikan pembaca gambaran mengenai latar belakang Iwan Setyawan sebagai penulis sekaligus tokoh dalam cerita dalam perjuangannya mencapai mimpinya, beserta peristiwa yang dialami oleh tokoh dalam perjalanan hidupnya.
-
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus ini dapat digunakan untuk memahami bagaimana pendekatan ekspresif digunakan dalam analisis novel 9 Summers 10 Autumns. Dengan menganalisis karya sastra ini, kita dapat memahami bagaimana pengarang menggunakan latar belakang psikologisnya untuk menciptakan karya sastra yang bermakna.
-
-## Refleksi Bab
-
-Bagaimana keterkaitan antara pengarang dan hasil karyanya dapat mempengaruhi makna utuh novel 9 Summers 10 Autumns?
+> **Definisi Wacana Pedagogi:**
+> Wacana pedagogi adalah seluruh rangkaian interaksi kebahasaan (lisan maupun tulis) yang berlangsung dalam konteks pendidikan, tempat guru dan siswa berinteraksi untuk mencapai tujuan pembelajaran tertentu melalui pola-pola komunikasi yang khas.
 
 ---
 
-Kita akan melihat lebih lanjut bagaimana struktur intrinsik dalam novel 9 Summers 10 Autumns terkait dengan pendekatan ekspresif dalam membangun makna utuh novel ini.
+### Hakikat Sistem Pengendalian Topik
 
-<!-- Chapter: 02_rumusan-masalah-tujuan-dan-manfaat-analisis -->
+Dalam setiap sesi pembelajaran di sekolah dasar, topik pembicaraan tidak berkembang secara acak. Terdapat sebuah mekanisme yang mengatur alur gagasan, menentukan kapan suatu pokok bahasan dimulai, di mana fokus diarahkan, serta kapan topik tersebut harus diakhiri. Mekanisme inilah yang disebut sebagai **sistem pengendalian topik** (*topic control system*).
 
-# Rumusan Masalah, Tujuan, dan Manfaat Analisis
+Pengendalian topik mencakup beberapa aspek utama dalam komunikasi kelas:
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns dapat dianalisis dari perspektif strukturalisme dan ekspresifisme. Pendahuluan yang telah kita bahas sebelumnya telah memberikan gambaran mengenai latar belakang psikologis Iwan Setyawan sebagai penulis dan tokoh dalam cerita. Dengan demikian, kita dapat memahami pentingnya analisis struktural dan ekspresif dalam memahami makna utuh novel ini.
+1. **Inisiasi Topik**: Siapa yang berhak membuka pokok pembicaraan baru dalam proses belajar.
+2. **Pengarahan Alur**: Bagaimana pertanyaan dan penjelasan digunakan untuk menjaga fokus perhatian siswa.
+3. **Pengalihan dan Transisi**: Cara guru memindahkan perhatian kelas dari satu subtopik ke subtopik berikutnya.
+4. **Penyeleksian Respons**: Keputusan untuk menerima, menguatkan, atau mengabaikan tanggapan yang diberikan oleh siswa.
 
-## Rumusan Masalah
-
-Rumusan masalah dalam analisis ini adalah:
-
-1.  Bagaimana struktur intrinsik dalam novel 9 Summers 10 Autumns dapat diidentifikasi dan diinterpretasikan?
-2.  Bagaimana keterkaitan antara unsur intrinsik dengan pendekatan ekspresif dalam membentuk makna utuh novel 9 Summers 10 Autumns?
-3.  Bagaimana cerminan kejiwaan pengarang Iwan Setyawan yang tergambar dalam novel 9 Summers 10 Autumns dapat diungkapkan melalui analisis struktural dan ekspresif?
-
-## Tujuan Penulisan
-
-Tujuan penulisan analisis ini adalah:
-
-1.  Membedah unsur intrinsik yang membangun novel 9 Summers 10 Autumns dan memahami bagaimana struktur intrinsik tersebut dapat diinterpretasikan.
-2.  Menganalisis keterkaitan antara unsur intrinsik dengan pendekatan ekspresif novel 9 Summers 10 Autumns dan memahami bagaimana keterkaitan tersebut dapat membentuk makna utuh novel.
-3.  Memahami latar belakang psikologis pengarang Iwan Setyawan yang tergambar dalam karyanya dan memahami bagaimana cerminan kejiwaan tersebut dapat diungkapkan melalui analisis struktural dan ekspresif.
-
-## Manfaat Penulisan
-
-Analisis ini memiliki beberapa manfaat, baik teoretis maupun praktis.
-
-### Manfaat Teoretis
-
-1.  Pengembangan Kritik Sastra: Analisis ini dapat memberikan sumbangsih pemikiran dalam mengintegrasikan pendekatan struktural dan ekspresif untuk membedah pengalaman hidup pengarang.
-2.  Referensi Akademik: Analisis ini dapat menjadi referensi untuk mahasiswa atau peneliti lainnya yang mendalami kaitan antara karya sastra dengan latar belakang penulisnya.
-
-### Manfaat Praktis
-
-1.  Bagi Pembaca: Analisis ini dapat memberikan pemahaman kepada pembaca mengenai proses perjuangan pengarang yang menggambarkan nilai-nilai hidupnya yang tergambar dalam cerita dalam novel.
-2.  Bagi Penulis: Analisis ini dapat menjadi sarana untuk mengaplikasikan teori kritik sastra dan mengasah kepekaan terhadap realitas sosial yang ada di dalam karya sastra.
-3.  Bagi Masyarakat: Analisis ini dapat meningkatkan apresiasi masyarakat terhadap karya sastra yang memiliki nilai melalui pendidikan.
-
-Dengan demikian, analisis ini dapat memberikan kontribusi yang signifikan dalam memahami novel 9 Summers 10 Autumns dari perspektif strukturalisme dan ekspresifisme.
-
-<!-- Chapter: 03_kajian-strukturalisme-dan-tema-novel-9-summers-10-autumns -->
-
-# Kajian Strukturalisme dan Tema Novel 9 Summers 10 Autumns
-
-Mari kita lanjutkan perjalanan kita dalam mengaplikasikan teori kritik sastra dengan memahami kajian strukturalisme dan tema utama novel 9 Summers 10 Autumns. Dalam bab sebelumnya, kita telah membahas tentang pentingnya pendekatan analisis karya sastra dalam meningkatkan apresiasi masyarakat terhadap karya sastra. Sekarang, kita akan memasuki dunia strukturalisme, sebuah pendekatan yang menekankan pada keterkaitan antarunsur dalam karya sastra.
-
-## 2.1 Kajian Strukturalisme dalam Sastra
-
-### 2.1.1 Pengertian Kajian Strukturalisme
-
-Pendekatan struktural adalah pendekatan yang menekankan pada keterkaitan antarunsur, seperti yang dijelaskan oleh Aini et al. (2022) dalam Nurgiyantoro (2013). Pendekatan struktural adalah fondasi dari analisis karya sastra yang menganalisis unsur intrinsik dan ekstrinsik karya sastra. Analisis struktural bertujuan untuk membongkar isi secara teliti dengan hasil makna yang dalam, seperti yang dijelaskan oleh Teeuw (1988) dalam Supriyanto et al. (2023). Pendekatan struktural berkaitan dengan unsur intrinsik pembentuk novel, seperti tema, tokoh dan penokohan, latar, alur, dan sudut pandang.
-
-### 2.1.2 Unsur Intrinsik
-
-Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra hadir. Unsur intrinsik terdiri dari:
-
-a. Tema
-
-Tema adalah ide utama yang menjadi fondasi alur cerita. Tema disampaikan kepada pembaca melalui rangkaian peristiwa, karakter, konflik, hingga penyelesaiannya. Tema dikenali melalui perkembangan cerita dan perilaku tokoh-tokohnya, seperti yang dijelaskan oleh Jannah & Rahmawati (2025).
-
-## 2.2 Tema Utama Novel 9 Summers 10 Autumns
-
-Tema utama novel 9 Summers 10 Autumns adalah mengenai pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga. Tema ini disampaikan melalui rangkaian peristiwa, karakter, konflik, hingga penyelesaiannya. Tema ini dikenali melalui perkembangan cerita dan perilaku tokoh-tokohnya.
-
-## Aplikasi Praktis / Studi Kasus
-
-Untuk memahami tema utama novel 9 Summers 10 Autumns, kita dapat menganalisis unsur-unsur intrinsik seperti tema, tokoh dan penokohan, latar, alur, dan sudut pandang. Dengan menganalisis unsur-unsur intrinsik ini, kita dapat memahami bagaimana tema utama novel tersebut disampaikan kepada pembaca.
-
-## Refleksi Bab
-
-Apa yang dapat kita pelajari dari kajian strukturalisme dan tema utama novel 9 Summers 10 Autumns? Bagaimana kita dapat menerapkan konsep-konsep ini dalam analisis karya sastra lainnya?
+Pada praktiknya, guru sekolah dasar memegang posisi sentral dalam mengendalikan topik. Hal ini berkaitan erat dengan peran guru sebagai pengelola kelas (*classroom manager*) dan fasilitator pembelajaran.
 
 ---
 
-Bab berikutnya akan membahas tentang alur dalam novel 9 Summers 10 Autumns. Bagaimana alur dalam novel tersebut dapat membantu kita memahami tema utama dan unsur-unsur intrinsik lainnya?
+### Struktur Hirarki Wacana Pedagogi
 
-<!-- Chapter: 04_analisis-alur-campuran-dalam-novel-9-summers-10-autumns -->
+Interaksi di dalam kelas memiliki tingkatan atau hirarki yang teratur. Berdasarkan kajian analisis wacana pedagogi, struktur komunikasi guru dan siswa di sekolah dasar terbagi ke dalam lima tingkatan berjenjang:
 
-# Analisis Alur Campuran dalam Novel 9 Summers 10 Autumns
+| Tingkatan Wacana | Istilah Teknis | Deskripsi dan Fungsi dalam Kelas |
+| :--- | :--- | :--- |
+| **Pelajaran** | *Lesson* | Unit wacana terbesar yang mencakup keseluruhan sesi pembelajaran dari awal hingga akhir. |
+| **Transaksi** | *Transaction* | Tahapan atau episode pembelajaran tertentu (misalnya: kegiatan pembukaan, penyampaian materi utama, atau penutup). |
+| **Pertukaran** | *Exchange* | Unit interaksi minimal antara guru dan siswa, umumnya terdiri atas inisiasi, respons, dan umpan balik. |
+| **Gerakan** | *Move* | Tindakan komunikatif tunggal yang dilakukan oleh pembicara (misalnya: mengajukan pertanyaan, memberikan jawaban, atau memberi instruksi). |
+| **Tindak** | *Act* | Unit bahasa terkecil dalam wacana (misalnya: kata sapaan, penanda transisi, atau konfirmasi singkat). |
 
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns menggunakan alur campuran (maju-mundur) untuk mengembangkan cerita dan tema. Novel ini telah membuktikan bahwa alur campuran dapat menjadi cara yang efektif untuk menarik perhatian pembaca dan membuat mereka terikat dengan cerita.
-
-## Penjelasan Inti
-
-Alur adalah urutan jalannya cerita, yang terdiri dari tahapan-tahapan peristiwa yang berkesinambungan. Alur ini dapat memudahkan pembaca memahami jalannya cerita dan makna yang terkandung di dalamnya. Dalam novel 9 Summers 10 Autumns, alur campuran (maju-mundur) digunakan untuk mengembangkan cerita.
-
-Secara kronologis, alur terdiri dari tiga jenis: alur maju, alur mundur, dan alur campuran. Alur maju adalah urutan waktu yang bergerak maju, sementara alur mundur menceritakan peristiwa masa lalu. Alur campuran, seperti yang digunakan dalam novel ini, adalah gabungan antara alur maju dan mundur.
-
-Dalam novel 9 Summers 10 Autumns, alur campuran digunakan untuk mengembangkan cerita. Cerita dimulai dari keberhasilan di New York, lalu ditarik mundur ke masa kecil Iwan di Batu. Penulis meletakkan kesuksesan di awal untuk menciptakan rangkaian cerita bagaimana proses anak sopir angkot bisa sampai ke titik saat ini.
-
-Teknik ini membuat pembaca tetap terikat untuk terus membaca buku ini. Dengan menggunakan alur campuran, penulis dapat membuat pembaca merasa terhubung dengan cerita dan karakter, sehingga membuat mereka lebih tertarik untuk mengetahui apa yang akan terjadi selanjutnya.
-
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus ini dapat diterapkan pada novel lain yang menggunakan alur campuran. Misalnya, novel "The Brief Wondrous Life of Oscar Wao" oleh Junot Díaz juga menggunakan alur campuran untuk mengembangkan cerita. Dalam novel ini, cerita dimulai dari kehidupan Oscar Wao di masa kini, lalu ditarik mundur ke masa kecilnya di Dominika.
-
-Dengan menggunakan alur campuran, penulis dapat membuat pembaca merasa terhubung dengan cerita dan karakter. Teknik ini juga dapat membuat pembaca merasa lebih tertarik untuk mengetahui apa yang akan terjadi selanjutnya.
-
-## Refleksi Bab
-
-Apa yang membuat alur campuran efektif dalam mengembangkan cerita? Bagaimana alur campuran dapat membuat pembaca merasa terhubung dengan cerita dan karakter?
+Hirarki ini menunjukkan bahwa setiap ucapan kecil seorang guru atau siswa sebenarnya merupakan bagian dari struktur wacana yang lebih besar.
 
 ---
 
-Kita akan melihat bagaimana alur campuran dapat digunakan untuk mengembangkan tema dalam novel berikutnya.
+### Mekanisme Utama Pengendalian Topik oleh Guru
 
-<!-- Chapter: 05_tokoh-dan-penokohan-utama-dalam-novel-9-summers-10-autumns -->
+Dalam ruang kelas sekolah dasar, guru menerapkan berbagai strategi kebahasaan untuk memastikan topik tetap berada pada jalur yang direncanakan. Lima mekanisme utama yang sering digunakan meliputi:
 
-# Tokoh dan Penokohan Utama dalam Novel 9 Summers 10 Autumns
-## Penjelasan Inti
+#### 1. Pertanyaan Guru (*Teacher Inquiries*)
+Pertanyaan merupakan alat utama guru untuk mengarahkan fokus perhatian. Melalui pertanyaan tertutup maupun terbuka, guru menentukan topik apa yang harus dipikirkan dan dijawab oleh siswa.
 
-Tokoh adalah pelaku yang menggerakkan jalannya cerita, sedangkan penokohan adalah metode pengarang dalam menampilkan karakter atau watak para tokoh tersebut (Putri et al., 2024). Dalam novel otobiografis *9 Summers 10 Autumns*, tokoh-tokoh utama digambarkan dengan sangat kuat dan memiliki watak yang khas:
+#### 2. Penggunaan Kata Sapaan (*Terms of Address*)
+Penggunaan sapaan seperti *"Anak-anak"*, *"Budi"*, atau *"Kalian"* berfungsi untuk mendistribusikan giliran bicara serta menegaskan relasi sosial dan otoritas di dalam kelas.
 
-1. **Iwan Setyawan (Tokoh Utama / ''Aku'')**
-   Iwan digambarkan sebagai anak laki-laki yang cerdas, tekun, sederhana, dan pantang menyerah. Ia menyerap nilai-nilai kesederhanaan dan kasih sayang dari lingkungan keluarganya yang bersahaja:
-   
-   > “Aku dan saudara-saudaraku tumbuh di rumah yang dibangun dengan cinta dan kesederhanaan. Bangunan fisik rumah yang kecil apa adanya, melahirkan ruang yang besar pada hati kami untuk menerima kehidupan, betapapun kecilnya kebahagiaan yang kami terima.” (Hlm. 14)
+#### 3. Kata Penanda dan Pemarkah Transisi (*Discourse Markers*)
+Kata-kata seperti *"Nah"*, *"Baiklah"*, *"Sekarang"*, atau *"Jadi"* digunakan guru sebagai pemarkah untuk mengunci topik lama dan membuka topik baru dalam transaksi wacana.
 
-2. **Bapak (Abdul Hasim)**
-   Bapak adalah sosok kepala keluarga yang gigih, mandiri, dan pekerja keras. Beliau bekerja puluhan tahun sebagai sopir angkot dengan impian memiliki armada sendiri demi menaikkan derajat ekonomi keluarga:
-   
-   > “Setelah beberapa tahun menyopir, Bapak berusaha mandiri. Berkat tabungan berpuluh-puluh tahun, ia berhasil membeli mobil bekas seharga sekitar dua juta pada tahun 1980. Sukses yang cukup besar saat itu dan membanggakan kami. Bapak tak lagi harus menyetorkan sebagian uang hasil kerjanya ke ‘juragannya’.” (Hlm. 26)
+#### 4. Pengabaian Respons Siswa (*Ignoring Responses*)
+Ketika siswa memberikan jawaban yang tidak sesuai dengan koridor materi atau memberikan komentar di luar alur, guru sering kali mengabaikan respons tersebut agar topik utama tidak terganggu.
 
-3. **Ibu (Ngatinah)**
-   Ibu adalah cermin ketegaran, kelembutan, dan kebijaksanaan. Dengan penuh kesabaran, Ibu mampu mengelola keuangan keluarga yang sangat terbatas dan menyatukan seluruh anggota keluarga di bawah atap rumah yang mungil:
-   
-   > “Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
-
-4. **Siti Aisyah (Mbak Isa)**
-   Mbak Isa adalah kakak tertua Iwan yang cerdas, giat belajar secara mandiri, dan menjadi inspirasi terbesar bagi adik-adiknya dalam menempuh jalur pendidikan:
-   
-   > “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus ini dapat digunakan untuk menganalisis karakter tokoh utama dalam novel "9 Summers 10 Autumns". Dengan menganalisis karakter tokoh utama, kita dapat memahami bagaimana penulis menggambarkan kehidupan Iwan Setyawan dan keluarganya. Dengan demikian, kita dapat memahami bagaimana novel ini dapat digunakan sebagai sumber belajar untuk mengenal karakter tokoh utama dalam novel.
-
-## Refleksi Bab
-
-Apa yang dapat kita ambil dari analisis karakter tokoh utama dalam novel "9 Summers 10 Autumns"? Bagaimana kita dapat menggunakan analisis karakter tokoh utama dalam novel ini untuk memahami kehidupan Iwan Setyawan dan keluarganya?
-
-## Jembatan Transisi Akhir
-
-Dengan memahami karakter tokoh utama dalam novel "9 Summers 10 Autumns", kita dapat memahami bagaimana penulis menggambarkan kehidupan Iwan Setyawan dan keluarganya. Dalam bab berikutnya, kita akan membahas tentang tema-tema yang terkait dengan kehidupan Iwan Setyawan dan keluarganya.
-
-<!-- Chapter: 06_analisis-tokoh-pendukung-dalam-novel-9-summers-10-autumns -->
-
-# Analisis Tokoh Pendukung dalam Novel 9 Summers 10 Autumns
-## Apersepsi/Pengantar
-
-Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam modul ini, kita akan menganalisis karakteristik dan peran tokoh pendukung dalam novel ini.
-
-## Penjelasan Inti
-
-Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns* sangat penting dalam membentuk kepribadian Iwan Setyawan dan mendorongnya mencapai impian. Berikut adalah analisis watak tokoh pendukung:
-
-1. **Mbak Isa (Siti Aisyah - Peran Lanjutan)**
-   Mbak Isa rela menunda impian akademiknya demi memberikan kesempatan kuliah bagi adik-adiknya, serta bekerja keras sebagai pengajar privat:
-   
-   > “Mbak Isa memutuskan untuk mengambil beberapa kursus di Malang sambil mencari kesempatan kerja. Dengan reputasi sebagai anak yang lumayan pintar, akhirnya mbakku yang pendiam ini memutuskan untuk memberikan les privat kepada anak SD dan SMP. Dalam selang waktu yang tidak lama, ia dikenal sebagai guru les yang andal dan mendapatkan tambahan murid dengan cepat.” (Hlm. 40)
-
-2. **Rohani (Mbak Inan)**
-   Mbak Inan adalah kakak kedua Iwan yang memiliki karakter tegas, disiplin, menyukai kebersihan, serta sangat mencintai dunia sastra dan puisi. Dialah yang menularkan darah seni kepada adik-adiknya:
-   
-   > “Ketika anak-anak lain merengek waktu akan berangkat sekolah, ia selalu siap dengan cerianya, dengan bedak yang tidak rata di mukanya. Ketika anak-anak lain malu-malu maju ke depan kelas untuk menyanyi, kakakku yang jago baca puisi ini mengacungkan tangan, ingin tampil ke depan.” (Hlm. 43)
-   
-   > “Kami sering bertanya-tanya, dari mana darah seni ini mengalir? Dialah yang mengajari kami seni baca puisi, bagaimana intonasi dan gaya penghayatan, bagaimana memasuki sebuah karya. Di sinilah kami tersentuh, menghargai keindahan lewat puisi. Di sinilah rasa sentimental memasuki darah kami. Keindahan berpuisi, keindahan menikmati sebuah karya.” (Hlm. 44)
-   
-   > “Mbak Inan juga selalu mengajarkan untuk menjaga kebersihan… Mbak Inan selalu bangun lebih pagi, menyapu halaman, menyirami tanaman, menyapu lantai rumah, dan mengepelnya… Dialah yang membagi tugas untuk adik-adiknya: siapa, kapan, dan bagaimana membersihkan rumah. Dia juga menciptakan teknik sendiri untuk mengepel lantai semen rumah supaya kelihatan lebih mengkilap.” (Hlm. 45)
-
-3. **Rini Agustina**
-   Adik perempuan Iwan yang sangat terampil, rajin, dan tekun dalam membantu pekerjaan rumah tangga serta mencari nafkah:
-   
-   > “Rini menjadi adik kelasku di SD Ngaglik I dan terlihat ia lebih menyukai ilmu keterampilan, seperti menyulam, membuat boneka gajah dari kapas, atau membuat durian dari bola plastik. Tangannya begitu terampil” (Hlm. 50)
-   
-   > “Rini yang berkulit lebih putih dari kami semua dan rambut hitam yang tebal, dengan ketekunannya, dengan kebesaran hatinya, melalui jari-hari bersama alat-alat dapur, buku-buku pasien, sapu, dan kain pel. Ia selalu bangun pagi, naik angkot oranye ke Desa Junggo… Ketekunannya, ketegarannya untuk mencari uang, melelehkan hati kami semua. Keringatnya menetes di atas atap rumah mungilku.” (Hlm. 51)
-
-4. **Mira (Denok)**
-   Adik bungsu Iwan yang berhati lembut, penuh kasih sayang, sensitif, namun gigih beradaptasi dengan dunia profesional berkat bimbingan mentornya:
-   
-   > “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
-   
-   > “Mira tak pernah meminta apa pun kepada orang tua kami. Ia hanya menerima. Ia mengerti benar yang kami lalui. Ia mengerti ketidakmampuan kami. Ia begitu mengerti. Mira hatinya putih, gampang teriris.” (Hlm. 55)
-   
-   > “Mira adalah pribadi yang hangat. Di masa kuliahnya, ia mengenal Bu Tata, wanita yang berpandangan luas, yang menjadi inspirasi adikku. Bu Tata berlatar belakang pendidikan luar negeri, menjadi jendela baru buat adikku. Setelah bekerja dengan Bu Tata untuk beberapa proyek, Mira tak hanya mulai bermain-main dengan internet dan bahasa Inggris, ia juga mulai mengenal etika profesional. Berkat Bu Tata pula Mira bisa bekerja di Komisi Flu Burung Indonesia Jakarta.” (Hlm. 57–58)
-
-5. **Audrey**
-   Teman dekat Iwan di New York yang berwatak ramah dan terbuka, menjadi rekan bertukar pikiran yang membantunya merefleksikan nilai-nilai kehidupan:
-   
-   > “Setelah saling bertukar beberapa e-mail siang itu, keesokan harinya, seperti tak mau menunda lagi, aku bertemu dengan Audrey seusai yoga. Kami berbincang selama berjam-jam tentang hidup, yoga, dan spirituality di Blue Ribbon, restoran Jepang favoritnya di West Village. Sangat mudah untuk terus menggulirkan bola perbincangan dengannya. This is quite Connection, pikirku. Mungkin kami berada di jalur pencarian hidup yang sama saat itu. Mulai dari yoga sampai Barneys.” (Hlm. 81)
-## Aplikasi Praktis / Studi Kasus
-
-Dalam analisis kritik sastra, tokoh pendukung memainkan peran penting dalam mengembangkan karakter utama dan plot cerita. Dalam novel "Mbak Isa", tokoh pendukung seperti Mbak Inan, Rini, Mira, dan Audrey memiliki karakteristik yang unik dan menarik. Dalam studi kasus ini, kita dapat melihat bagaimana karakteristik dan peran tokoh pendukung dalam mengembangkan karakter utama dan plot cerita.
-
-## Refleksi Bab
-
-Dalam modul ini, kita telah melihat bagaimana tokoh pendukung dalam novel "Mbak Isa" memiliki karakteristik yang unik dan menarik. Kita juga telah melihat bagaimana peran tokoh pendukung dalam mengembangkan karakter utama dan plot cerita. Dalam refleksi ini, kita dapat bertanya-tanya tentang bagaimana karakteristik dan peran tokoh pendukung dapat dipakai dalam analisis kritik sastra lainnya.
-
-## Jembatan Transisi Akhir
-
-Dalam modul berikutnya, kita akan melihat bagaimana latar dalam novel "Mbak Isa" dapat dipakai dalam mengembangkan karakter utama dan plot cerita. Kita akan melihat bagaimana latar dapat dipakai dalam mengembangkan karakter utama dan plot cerita, serta bagaimana karakteristik dan peran latar dapat dipakai dalam analisis kritik sastra lainnya.
-
-<!-- Chapter: 07_latar-tempat-latar-waktu-dan-latar-sosial-dalam-novel-9-summers-10-autumns -->
-
-# Latar Tempat, Latar Waktu, dan Latar Sosial dalam Novel 9 Summers 10 Autumns
-
-Kita akan melihat bagaimana latar tempat, latar waktu, dan latar sosial dalam novel 9 Summers 10 Autumns membentuk cerita yang kompleks dan menarik. Latar adalah elemen penting dalam karya sastra yang membantu menciptakan kesan realistis bagi pembaca.
-
-## Penjelasan Inti
-
-Latar adalah tempat dan waktu berlangsungnya cerita. Latar dibuat untuk menciptakan kesan realistis bagi pembaca sehingga mereka seakan-akan ikut berada dalam peristiwa cerita tersebut (Nurgiyantoro dalam Ronaldo Manullang (2021) dalam (Hasanah et al., 2025)). Latar perlu digambarkan secara rinci dalam karya sastra agar memberikan gambaran yang terang, nyata, dan jelas (Saifur Rohman (2020) dalam (Hasanah et al., 2025)). Aspek waktu, lokasi, dan kondisi sosial dalam karya sastra adalah gambaran dari latar cerita (Sinta dkk (2021) dalam (Hasanah et al., 2025)). Semakin luas pengetahuan dan imajinasi penulis, maka semakin berkualitas latar yang ia buat dalam karyanya (Nurhayati (2019) dalam (Hasanah et al., 2025)).
-
-Analisis latar dalam novel 9 Summers 10 Autumns adalah sebagai berikut:
-
-1.  Latar Tempat:
-
-Batu, Malang
-
-Latar ini membangun watak Iwan yang tahan banting. Batu adalah tempat asal Iwan yang hidup dengan sederhana dan dari sanalah semua perjuangannya dimulai.
-
-New York
-
-Latar tempat Iwan melanjutkan perjalanan hidupnya saat ini, melambangkan kehidupan yang berbeda dari sebelumnya, hasil dari seluruh perjalanan dan perjuangan Iwan selama ini.
-
-2.  Latar Waktu:
-
-Masa Kini (Era Modern/2000-an): Digambarkan saat tokoh utama sudah berada di New York. Waktu di sini terasa cepat, sibuk, dan penuh tuntutan profesional.
-
-Masa Lalu (Masa Kecil hingga Remaja): Berlatar di Batu, Malang, sekitar tahun 70-an hingga 90-an. Waktu di sini terasa lebih lambat, diwarnai dengan perjuangan bersekolah, momen-momen hangat bersama keluarga.
-
-3.  Latar Suasana:
-
-Antara Sesak dan Lapang: Suasana dalam novel ini dibangun secara emosional yang membuat pembaca merasakan isi hati penulis.
-
-Prihatin namun Hangat: Suasana prihatin di Batu karena keterbatasan fisik, namun, kehangatan dan kasih keluarga membuat suasana terasa lapang.
-
-Melankolis dan Reflektif: Penulis yang memutar kembali kisah masa lalunya dengan rasa syukur dan sisa-sisa perih dari kemiskinan membuat novel ini memiliki banyak bagian yang bernuansa perenungan.
-
-Suasana Asing: Muncul rasa kesepian penulis saat ia berada di New York, hal yang kontras saat ia berada di rumahnya yang ramai dengan keluarganya.
-
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus yang dapat dilakukan adalah menganalisis latar tempat, latar waktu, dan latar sosial dalam novel lainnya yang memiliki tema yang serupa. Misalnya, novel "The Catcher in the Rye" oleh J.D. Salinger dapat dianalisis dalam hal latar tempat, latar waktu, dan latar sosial yang membentuk cerita tentang perjuangan remaja dalam menghadapi dunia yang kompleks.
-
-## Refleksi Bab
-
-Apa yang dapat Anda pelajari dari analisis latar tempat, latar waktu, dan latar sosial dalam novel 9 Summers 10 Autumns? Bagaimana Anda dapat menerapkan konsep ini dalam menganalisis novel lainnya?
-
-## Jembatan Transisi Akhir
-
-Dengan memahami latar tempat, latar waktu, dan latar sosial dalam novel 9 Summers 10 Autumns, kita dapat melihat bagaimana penulis membentuk cerita yang kompleks dan menarik. Dalam bab berikutnya, kita akan melihat bagaimana sudut pandang penulis membentuk cerita dan bagaimana kita dapat menganalisisnya.
-
-<!-- Chapter: 08_sudut-pandang-gaya-bahasa-dan-amanat-novel-9-summers-10-autumns -->
-
-# Sudut Pandang, Gaya Bahasa, dan Amanat Novel 9 Summers 10 Autumns
-
-Kita akan melihat lebih dalam pada bagaimana pengarang menggunakan sudut pandang, gaya bahasa, dan amanat dalam novel 9 Summers 10 Autumns. Dalam bab ini, kita akan menggali lebih dalam pada bagaimana pengarang menggunakan sudut pandang persona pertama, gaya bahasa puitis dan reflektif, serta amanat yang terkandung dalam novel ini.
-
-## Sudut Pandang Persona Pertama (''Aku'')
-
-Sudut pandang adalah cara pengarang menempatkan dirinya dalam cerita. Sudut pandang persona pertama, atau yang juga dikenal sebagai "Aku", adalah cara pengarang menempatkan dirinya sebagai "aku" dalam cerita, sehingga kemahatahuan pengarang terbatas. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan sudut pandang persona pertama, sehingga pembaca dapat merasakan langsung monolog batin Iwan. Hal ini membuat pembaca sangat akrab dengan konflik yang dirasakan tokoh saat menghadapi kemiskinan dan perasaan tokoh ketika merasakan keberhasilan.
-
-## Gaya Bahasa Puitis dan Reflektif
-
-Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. Gaya bahasa akan melahirkan ciri khas dalam penyampaian gagasan-gagasannya dan akan menjadi sebuah keistimewaan bagi pengarang sehingga dapat menarik minat dan perhatian orang yang akan membaca karyanya. Dalam novel 9 Summers 10 Autumns, pengarang menggunakan gaya bahasa puitis dan reflektif. Gaya bahasa puitis digunakan untuk menggambarkan perasaan penulis melalui fenomena alam, seperti penggunaan istilah "musim panas" dan "musim gugur" sebagai ungkapan siklus nasib. Gaya bahasa reflektif digunakan untuk mengajak pembaca berpikir tentang makna keluarga, pendidikan, dan rumah melalui kalimat-kalimat filosofis.
-
-## Amanat Novel 9 Summers 10 Autumns
-
-Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat berbentuk tersirat atau tersurat. Amanat secara tersirat dapat berupa tingkah laku tokoh, jalan pikiran tokoh, atau perasaan tokoh. Amanat secara tersurat dapat disampaikan di bagian tengah atau akhir cerita dengan cara pengarang menyampaikan saran, nasihat, dan pemikirannya. Dalam novel 9 Summers 10 Autumns, amanat yang terkandung adalah bahwa kemiskinan bukanlah tembok, melainkan tantangan yang bisa ditembus dengan kerja keras dan restu orang tua.
-
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus ini dapat digunakan untuk mengaplikasikan konsep sudut pandang, gaya bahasa, dan amanat dalam analisis karya sastra. Misalnya, kita dapat menganalisis bagaimana pengarang menggunakan sudut pandang persona pertama dalam novel 9 Summers 10 Autumns dan bagaimana gaya bahasa puitis dan reflektif digunakan untuk menggambarkan perasaan penulis. Kita juga dapat menganalisis amanat yang terkandung dalam novel ini dan bagaimana amanat tersebut dapat diaplikasikan dalam kehidupan sehari-hari.
-
-## Refleksi Bab
-
-Bagaimana kita dapat menerapkan konsep sudut pandang, gaya bahasa, dan amanat dalam analisis karya sastra lainnya? Apakah ada contoh lain dari penggunaan sudut pandang persona pertama, gaya bahasa puitis dan reflektif, dan amanat dalam karya sastra lainnya?
-
-## Jembatan Transisi Akhir
-
-Dalam bab berikutnya, kita akan melihat lebih dalam pada bagaimana pendekatan ekspresif berfokus pada kaitan antara karya dan pengarangnya. Kita akan menganalisis bagaimana tema, tokoh, dan simbol yang terdapat dalam novel dipandang sebagai luapan ekspresi batin dan pengalaman personal pengarang.
-
-<!-- Chapter: 09_kajian-ekspresif-ekspresi-pribadi-pengarang -->
-
-# Kajian Ekspresif: Ekspresi Pribadi Pengarang
-
-Kita akan melihat bagaimana novel 9 Summers 10 Autumns menjadi sarana bagi pengarang untuk mengekspresikan kehidupan pribadinya. Setelah membahas alur cerita, penokohan, dan latar pada bab-bab terdahulu, kini kita mulai memasuki wilayah kajian ekspresif, di mana karya sastra ditelaah sebagai cerminan langsung dari jiwa pembuatnya.
-
-## Penjelasan Inti
-
-Pendekatan ekspresif memandang karya sastra sebagai pancaran langsung dari kejiwaan, emosi, dan pengalaman pribadi pengarangnya. Dalam novel *9 Summers 10 Autumns*, Iwan Setyawan mengekspresikan seluruh pergulatan batinnya saat berada di perantauan Kota New York yang sangat kompetitif:
-
-> “Di New York aku bukan siapa-siapa. Aku bukan direktur sebuah perusahaan riset terkemuka di dunia. Aku adalah Iwan dari Batu. Aku kembali menjadi anak sopir angkot yang berjuang untuk bertahan di kota paling kompetitif di dunia.” (Hlm. 3)
-
-Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karir sebelumnya dan berjuang menempa jati dirinya kembali dari awal:
-
-> “Sembilan tahun di New York adalah masa pencarian identitas diri. Aku harus melupakan kenyamanan yang kudapatkan di Jakarta dan mulai dari nol lagi di kota ini. Ini adalah perjuangan untuk menemukan jati diriku yang sebenarnya.” (Hlm. 94)
-
-Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah katarsis pengarang untuk mengolah trauma masa lalu, kerinduan mendalam pada keluarga, serta pencarian kedamaian hidup.
-
-## Aplikasi Praktis / Studi Kasus
-
-Dalam menganalisis karya sastra dengan pendekatan ekspresif, peneliti harus menelusuri biografi pengarang secara mendalam untuk menemukan keselarasan antara kejadian nyata di dunia nyata dengan representasi fiksi dalam teks. Pada kasus *9 Summers 10 Autumns*, data sekunder berupa wawancara media dengan Iwan Setyawan memvalidasi bahwa setiap gejolak depresi dan pencarian identitas di New York yang dialami tokoh "Aku" adalah ekspresi jujur dari kejiwaannya saat menulis karya tersebut.
-
-## Refleksi Bab
-
-*Refleksi Bab: Bagaimana menurut pendapat Anda gejolak kejiwaan pengarang yang berjuang di kota megapolitan seperti New York tecermin dalam pemilihan diksi dan nada penulisan novelnya?*
-
-## Jembatan Transisi Akhir
-
-Selain aspek pencarian jati diri yang bergejolak, kekuatan spiritual pengarang juga memainkan peranan penting dalam bertahan di tengah kerasnya New York. Pada bab berikutnya, kita akan mendalami bagaimana ketaatan beragama dan nilai spiritual terekspresikan dalam karya ini.
-
-<!-- Chapter: 10_kajian-ekspresif-nilai-religi-dan-ketaatan-pada-tuhan -->
-
-# Kajian Ekspresif: Nilai Religi dan Ketaatan pada Tuhan
-## Penjelasan Inti
-
-Dimensi religi dalam novel ini terekspresikan secara kuat melalui perilaku keagamaan tokoh utama dalam menyikapi tekanan batin di perantauan. Salat dan ibadah vertikal kepada Tuhan merupakan sumber kedamaian utama Iwan Setyawan ketika menghadapi badai rasa rindu dan kesunyian hidup di New York:
-
-> “Di tengah kerinduan yang dalam, aku menemukan kedamaian yang luas dalam salat lima waktu, ada yang tersembuhkan dalam salat Tahajut.” (Hlm. 109–110)
-
-Ekspresi spiritual ini membuktikan bahwa ketaatan pada Tuhan merupakan elemen integral dalam struktur kejiwaan pengarang, membantu dirinya mengatasi rasa keterasingan budaya (cultural isolation) dan mengembalikan keteguhan batinnya.
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus ini dapat diterapkan dalam menganalisis karya sastra lainnya yang memiliki tema religi dan ketaatan pada Tuhan. Misalnya, novel lain yang memiliki tema yang sama dapat dijadikan sebagai objek analisis untuk melihat bagaimana nilai religi dan ketaatan pada Tuhan dipresentasikan.
-
-## Refleksi Bab
-
-Bagaimana ketaatan pada Tuhan dapat diintegrasikan dalam kehidupan sehari-hari? Apakah ada contoh dari kehidupan sehari-hari yang dapat menunjukkan ketaatan pada Tuhan?
-
-## Jembatan Transisi Akhir
-
-Dengan melihat bagaimana Iwan Setyawan menunjukkan ketaatan pada Tuhan dalam novel 9 Summers 10 Autumns, kita dapat melihat bahwa nilai religi dan ketaatan pada Tuhan adalah salah satu aspek yang penting dalam kehidupan. Dalam bab berikutnya, kita akan melihat bagaimana kondisi masa kecil Iwan digambarkan dalam novel.
-
-<!-- Chapter: 11_kajian-ekspresif-kondisi-masa-kecil-pengarang -->
-
-# Kajian Ekspresif: Kondisi Masa Kecil Pengarang
-
-Kita akan melihat bagaimana kondisi masa kecil pengarang memengaruhi pembentukan karakter dan impian-impiannya. Setelah sebelumnya kita menelaah dimensi spiritualitas pengarang, kini mari kita selami kenangan masa kecilnya di Batu yang penuh dengan kesederhanaan dan keprihatinan.
-
-## Penjelasan Inti
-
-Kondisi masa kecil pengarang di Kota Batu, Jawa Timur, sangat memengaruhi arah penulisan novel ini. Kota Batu digambarkan sebagai tanah kelahiran yang dingin namun hangat oleh kasih sayang keluarga, serta tempat di mana mimpi-mimpi besar Iwan pertama kali dirajut:
-
-> “Kota Batu adalah tempat di mana mimpiku dimulai. Di kota kecil yang dingin ini, aku belajar tentang kerja keras dan kesederhanaan dari orang tuaku.” (Hlm. 12)
-
-Keterbatasan material dan himpitan ekonomi digambarkan secara realistis melalui perjuangan anak-anak Abdul Hasim yang harus berjalan kaki ke sekolah dengan kondisi sepatu yang sudah usang demi menghemat biaya:
-
-> “Di bawah langit Batu yang sering mendung, kami berjalan kaki ke sekolah dengan sepatu yang solnya sudah menipis. Tapi kami tidak pernah mengeluh, karena kami tahu Bapak dan Ibu bekerja keras untuk kami.” (Hlm. 14–15)
-
-Kenangan masa kecil ini terekspresikan sebagai pondasi ketangguhan mental Iwan dalam menghadapi kerasnya tantangan hidup di masa dewasa.
-
-## Aplikasi Praktis / Studi Kasus
-
-Dalam studi kasus nyata, analisis ekspresif terhadap masa kecil penulis dapat menyingkap alasan di balik tema-tema sentral sebuah karya. Di novel *9 Summers 10 Autumns*, keprihatinan masa kecil yang diekspresikan penulis menjadi justifikasi logis bagi motivasi kuat tokoh utama untuk sukses menembus korporasi besar di New York. Kemiskinan tidak dijadikan alasan untuk meratap, melainkan bahan bakar untuk berprestasi.
-
-## Refleksi Bab
-
-*Refleksi Bab: Bagaimana latar belakang lingkungan geografis dan iklim pegunungan di Kota Batu mengekspresikan suasana psikologis yang dibangun pengarang di masa kecilnya?*
-
-## Jembatan Transisi Akhir
-
-Pengalaman masa kecil yang prihatin namun tangguh ini tidak lepas dari bimbingan dan teladan orang tua. Dalam bab selanjutnya, kita akan melihat lebih dekat bagaimana sosok Bapak dan Ibu bertransformasi menjadi inspirasi terbesar bagi perjalanan karir dan karya sastra Iwan Setyawan.
-
-<!-- Chapter: 12_kajian-ekspresif-sosok-bapak-dan-ibu-sebagai-inspirasi-terbesar -->
-
-# Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
-## Penjelasan Inti
-
-Latar belakang kedua orang tua merupakan sumbu inspirasi ekspresif terbesar bagi pengarang dalam menulis novel *9 Summers 10 Autumns*. 
-
-Bapak (Abdul Hasim) dengan etos kerja tingginya terinspirasi oleh sosok Pak Ucup yang mengajarkan kemandirian dan kejujuran:
-
-> “Pak Ucup yang kukenal mempunyai pandangan hidup yang modern dan etos kerja yang sangat luar biasa. Ketika banyak orang pribumi yang hanya iri atas kesuksesan kaum Tionghoa, Pak Ucup Berbeda. Pak Ucup yang dulunya tentara justru banyak belajar dari kaum Tionghoa. Ia terinspirasi dan selalu ingin maju. Kerja keras, terus belajar, dan kejujuran adalah tiga kunci sederhana yang selalu ia pegang. Sosok inilah yang menjadi inspirasi pertama bapakku.” (Hlm. 25)
-
-Keteladanan Bapak tercermin dari perjuangan puluhan tahun bekerja di jalan raya dari kenek hingga sopir mandiri:
-
-> “Tahun 1969, setelah empat-lima tahun menjadi kenek, Bapak mendapatkan Surat Izin Mengemudi dan memulai kerja baru sebagai sopir angkot. Menurut Bapak, sopir adalah pekerjaan yang sangat bagus pada saat itu.” (Hlm. 26)
-   
-> “Setelah beberapa tahun menyopir, Bapak berusaha mandiri. Berkat tabungan berpuluh-puluh tahun, ia berhasil membeli mobil bekas seharga sekitar dua juta pada tahun 1980. Sukses yang cukup besar saat itu dan membanggakan kami. Bapak tak lagi harus menyetorkan sebagian uang hasil kerjanya ke ‘juragannya’.” (Hlm. 26)
-
-Sementara itu, Ibu (Ngatinah) merupakan tiang penopang kesederhanaan dan keadilan berbagi yang melindungi seluruh anggota keluarga:
-
-> “Garis hidup melahirkan sifat sederhana yang luar biasa pada diri Ibu. Dialah yang membangun ide untuk menabung, mengingatkan kami kalau perlu ke dokter, kalau mobil bisa rusak sewaktu-waktu, kalau rumah bisa bocor, kalau kami butuh makanan bergizi. Ibulah yang mengatur berapa liter nasi yang harus ditanak tanpa tersisa keesokan harinya, kapan kami harus makan daging, ayam, atau tempe. Ibu tahu barang apa yang harus digadaikan untuk membeli sepatu baru untuk anaknya dan mengatur pembayaran uang sekolah kami. Ibulah yang membelah satu telur dadar untuk dua atau tiga orang. Ibulah yang selalu menyembunyikan tempe goreng supaya tidak dihabiskan salah satu anaknya. Dia menghadirkan demokrasi berbagi di tengah pergulatan hidup. Ibuku adalah cermin kesederhanaan yang sempurna di mata kami dan kesederhanaan inilah yang membangun rumah kecil kami.” (Hlm. 34)
-
-Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan biaya sekolah anak-anak mereka:
-
-> “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
-## Aplikasi Praktis / Studi Kasus
-
-Kita dapat melihat bagaimana sosok Bapak dan Ibu menjadi inspirasi terbesar bagi Iwan dalam menulis. Mereka tidak hanya sebagai tokoh pelengkap, melainkan sebagai representasi dari trauma sekaligus motivasi terbesar Iwan. Kita dapat melihat bagaimana Bapak memiliki etos kerja yang sangat luar biasa dan terus berusaha hingga berpuluh-puluh tahun lamanya untuk berusaha mandiri hingga akhirnya mendapatkan kesuksesan dari beralih pekerjaan dan bertransformasi dengan membeli mobil untuk mandiri dalam bekerja.
-
-Kita juga dapat melihat bagaimana Ibu memiliki garis hidup yang sederhana dan luar biasa, yang membawa Ibu menjadi inspirasi bagi Iwan. Ibu yang membangun ide untuk menabung, mengingatkan Iwan untuk ke dokter, mengatur berapa liter nasi yang harus ditanak tanpa tersisa, dan mengatur pembayaran uang sekolah Iwan.
-
-## Refleksi Bab
-
-Apa yang dapat kita pelajari dari sosok Bapak dan Ibu sebagai inspirasi terbesar bagi Iwan? Bagaimana kita dapat mengaplikasikan nilai-nilai yang mereka tunjukkan dalam kehidupan kita sehari-hari?
+#### 5. Penguatan Respons Siswa (*Reinforcement*)
+Pujian, konfirmasi, atau pengulangan jawaban siswa oleh guru berfungsi untuk mengesahkan bahwa gagasan siswa sesuai dengan sasaran pembelajaran yang diinginkan.
 
 ---
 
-Kutipan di atas menunjukkan bahwa Bapak dan Ibu tidak hanya sebagai tokoh pelengkap, melainkan sebagai representasi dari trauma sekaligus motivasi terbesar Iwan. Mereka memiliki etos kerja yang sangat luar biasa dan terus berusaha hingga berpuluh-puluh tahun lamanya untuk berusaha mandiri hingga akhirnya mendapatkan kesuksesan dari beralih pekerjaan dan bertransformasi dengan membeli mobil untuk mandiri dalam bekerja.
+### Dinamika Interaksi dan Relasi Kuasa
 
-Kita dapat melihat bagaimana Ibu memiliki garis hidup yang sederhana dan luar biasa, yang membawa Ibu menjadi inspirasi bagi Iwan. Ibu yang membangun ide untuk menabung, mengingatkan Iwan untuk ke dokter, mengatur berapa liter nasi yang harus ditanak tanpa tersisa, dan mengatur pembayaran uang sekolah Iwan.
+Penerapan sistem pengendalian topik yang dominan oleh guru sering kali menciptakan pola komunikasi satu arah. Meskipun siswa tampak patuh dan tertib mengikuti alur pembelajaran, fenomena ini menunjukkan adanya relasi kuasa yang timpang di dalam kelas.
 
-Apa yang dapat kita pelajari dari sosok Bapak dan Ibu sebagai inspirasi terbesar bagi Iwan? Bagaimana kita dapat mengaplikasikan nilai-nilai yang mereka tunjukkan dalam kehidupan kita sehari-hari?
+> **Catatan Reflektif:**
+> Kepatuhan siswa dalam mengikuti alur pertanyaan guru tidak selalu menandakan pemahaman yang mendalam. Sering kali, hal tersebut hanya menunjukkan bahwa siswa telah terbiasa bermain dalam aturan wacana yang sepenuhnya dikendalikan oleh guru.
 
-<!-- Chapter: 13_kajian-ekspresif-karakter-saudara-kandung-sebagai-motivasi -->
+Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat memperhatikan perbandingan pendekatan wacana berikut:
 
-# Kajian Ekspresif: Karakter Saudara Kandung sebagai Motivasi
-## Penjelasan Inti
-
-Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu motivasi ekspresif yang sangat kuat dalam novel ini. 
-
-Mbak Isa, kakak pertamanya, adalah cermin kecerdasan mandiri yang menularkan gairah belajar bagi seluruh adiknya:
-
-> “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
-
-Mbak Isa juga merelakan cita-cita kuliahnya demi masa depan adik-adiknya, serta mandiri bekerja sebagai pengajar les privat:
-
-> “Mbak Isa memutuskan untuk mengambil beberapa kursus di Malang sambil mencari kesempatan kerja. Dengan reputasi sebagai anak yang lumayan pintar, akhirnya mbakku yang pendiam ini memutuskan untuk memberikan les privat kepada anak SD dan SMP. Dalam selang waktu yang tidak lama, ia dikenal sebagai guru les yang andal dan mendapatkan tambahan murid dengan cepat.” (Hlm. 40)
-
-Sementara Mbak Inan menanamkan kepekaan sentimental terhadap keindahan seni sastra dan puisi dalam kehidupan mereka:
-
-> “Kami sering bertanya-tanya, dari mana darah seni ini mengalir? Dialah yang mengajari kami seni baca puisi, bagaimana intonasi dan gaya penghayatan, bagaimana memasuki sebuah karya. Di sinilah kami tersentuh, menghargai keindahan lewat puisi. Di sinilah rasa sentimental memasuki darah kami. Keindahan berpuisi, keindahan menikmati sebuah karya.” (Hlm. 44)
-
-Ketekunan Rini Agustina dalam keterampilan dan kelunakan hati Mira (Denok) semakin melengkapi representasi kehangatan keluarga Iwan Setyawan:
-
-> “Rini yang berkulit lebih putih dari kami semua dan rambut hitam yang tebal, dengan ketekunannya, dengan kebesaran hatinya, melalui jari-jari bersama alat-alat dapur, buku-buku pasien, sapu, dan kain pel... Ketekunannya, ketegarannya untuk mencari uang, melelehkan hati kami semua. Keringatnya menetes di atas atap rumah mungilku.” (Hlm. 51)
-
-> “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
-## Aplikasi Praktis / Studi Kasus
-
-Kita dapat melihat bagaimana karakter kakak dan adik Iwan Setyawan dapat diaplikasikan dalam kehidupan sehari-hari. Misalnya, kita dapat belajar dari Mbak Isa tentang pentingnya belajar dan menginspirasi orang lain. Kita juga dapat belajar dari Mbak Inan tentang pentingnya menjaga kebersihan dan memiliki sifat yang disiplin.
-
-## Refleksi Bab
-
-Bagaimana kita dapat mengaplikasikan karakter kakak dan adik Iwan Setyawan dalam kehidupan sehari-hari? Apakah kita dapat belajar dari sifat-sifat mereka dan mengaplikasikannya dalam kehidupan kita?
-
-<!-- Chapter: 14_kajian-ekspresif-pengaruh-latar-akademik-terhadap-gaya-penulisan -->
-
-# Kajian Ekspresif: Pengaruh Latar Akademik terhadap Gaya Penulisan
-## Penjelasan Inti
-
-Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memberikan pengaruh ekspresif yang sangat unik terhadap gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis yang presisi:
-
-1. **Akurasi Dimensi Rumah Mungil**
-   Iwan mendeskripsikan ruang hunian keluarganya yang sempit secara numerik, memadukan angka luas dengan fakta jumlah anggota keluarga:
-   
-   > “Di rumah mungil berukuran 6 x 7 meter dan hampir tak berhalaman ini, kami bertujuh berbagi dua kamar tidur…” (Hlm. 8)
-
-2. **Ketepatan Ukuran Ranjang Bambu**
-   Ukuran fisik tempat tidurnya pun dipaparkan dengan dimensi presisi, namun dibalut refleksi emosional:
-   
-   > “Ranjang bambu berukuran kira-kira 0,5 x 1,5 meter itu adalah ranjang pertamaku. Aku bisa merasakan hati Bapak di atas ranjang itu, kehangatan hatinya yang tak pernah diucapkan lewat kata-kata atau pelukan.” (Hlm. 9)
-
-3. **Logika Dimensi Studio dan Ruang Tamu**
-   Ia mendokumentasikan ukuran ruang studio serta ruang tamu dengan akurasi layaknya laporan statistik:
-   
-   > “Setelah melepaskan sepatu kecilnya, ia mengamati ruang studio yang berukuran sekitar 3,5 x 6 meter.” (Hlm. 11)
-   
-   > “Ruang terbesar di rumahku adalah ruang tamu berukuran 2 x 4,5 meter.” (Hlm. 13)
-
-Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi, logika analitis, dan presisi data statistik, yang kemudian ia kawinkan dengan sensitivitas estetis dalam menyajikan kisah otobiografisnya secara logis dan faktual.
-## Aplikasi Praktis / Studi Kasus
-
-Studi kasus yang relevan dengan pengaruh latar akademik Iwan sebagai lulusan Statistika Institut Pertanian Bogor adalah novel "9 Summers 10 Autumns" karya Iwan Setyawan. Dalam novel ini, Iwan menggunakan gaya penulisan yang logis dan faktual untuk menceritakan kehidupannya, membuat kisahnya terasa faktual.
-
-## Refleksi Bab
-
-Apa yang dapat kita pelajari dari pengaruh latar akademik Iwan sebagai lulusan Statistika Institut Pertanian Bogor dalam gaya penulisannya? Bagaimana kita dapat menerapkan prinsip-prinsip yang sama dalam gaya penulisan kita sendiri?
+| Aspek Interaksi | Wacana Berpusat pada Guru | Wacana Dialogis dan Inklusif |
+| :--- | :--- | :--- |
+| **Inisiatif Topik** | Sepenuhnya ditentukan oleh guru. | Siswa diberi ruang mengajukan pertanyaan dan ide baru. |
+| **Pola Pertukaran** | Didominasi struktur Inisiasi-Respons-Evaluasi (IRE). | Mengembangkan diskusi multi-arah antar-siswa. |
+| **Perlakuan Respons** | Jawaban di luar kunci langsung diabaikan/disalahkan. | Jawaban tak terduga dijadikan bahan eksplorasi bersama. |
+| **Peran Siswa** | Penerima pasif dan penyawab pertanyaan. | Co-constructor (pembangun bersama) pengetahuan. |
 
 ---
 
-Dengan demikian, kita dapat melihat bahwa latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor memiliki pengaruh besar dalam gaya penulisannya di dalam novel. Ia menggunakan angka dan data untuk menceritakan kehidupannya, membuat kisahnya terasa logis dan faktual. Hal ini menunjukkan bahwa latar akademik dapat mempengaruhi gaya penulisan seseorang dalam cara yang signifikan.
+### Rangkuman & Pertanyaan Refleksi
 
-<!-- Chapter: 15_kesimpulan-saran-dan-referensi-ilmiah -->
+#### Rangkuman Konsep
+1. Wacana pedagogi adalah sistem komunikasi terstruktur di kelas yang dirancang untuk mencapai tujuan pembelajaran di sekolah dasar.
+2. Sistem pengendalian topik mengatur siapa yang memulai, mengarahkan, mengalihkan, dan mengesahkan gagasan dalam interaksi kelas.
+3. Struktur wacana kelas terbagi secara hirarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.
+4. Guru mengendalikan topik melalui pertanyaan, kata sapaan, pemarkah transisi, pengabaian respons, dan penguatan respons.
 
-# Kesimpulan, Saran, dan Referensi Ilmiah
+#### Pertanyaan Refleksi
+1. **Refleksi Utama**: Apakah pola interaksi di kelas yang kamu amati selama ini sudah memberikan ruang partisipasi seimbang bagi siswa, atau masih didominasi oleh kendali penuh pendidik?
+2. **Penerapan Praktis**: Strategi komunikasi apa yang bisa kamu terapkan untuk mengubah alur pertanyaan tertutup menjadi dialog interaktif yang mendorong siswa berani menginisiasi topik belajar?
 
-Kita telah menyelesaikan perjalanan analisis novel "9 Summers 10 Autumns" karya Iwan Setyawan. Dalam bab ini, kita akan menyimpulkan hasil analisis kita dan memberikan saran untuk pembaca.
+<!-- Chapter: 02_pendahuluan-dan-latar-belakang-penelitian -->
 
-## 3.1 Kesimpulan
+## Latar Belakang dan Urgensi Analisis Interaksi Kelas
 
-Keseluruhan unsur intrinsik dalam novel "9 Summers 10 Autumns" saling berkaitan membangun makna utuh cerita. Penggunaan alur campuran dengan sudut pandang persona pertama memberikan gambaran mengenai latar kehidupan tokoh utama di Kota Batu yang sarat akan keprihatinan dan kehidupannya ketika berada di New York yang berbeda jauh dengan kota asalnya. Hal ini membuat ikatan antara pembaca dan novel terhubung dengan emosi yang mengiringinya. Penokohan yang diceritakan oleh penulis dibalut dengan gaya bahasa puitis mempertegas tema karya ini: pendidikan sebagai tangga perubahan sosial dan kekuatan cinta keluarga.
+Dalam studi pendidikan, perhatian peneliti sering kali tertuju pada komponen fisik dan administratif pembelajaran. Evaluasi terhadap kurikulum, penyusunan bahan ajar, pemilihan metode pengajaran, hingga pengembangan media pembelajaran digital mendominasi ruang kajian akademis. Namun, ada satu dimensi mendasar yang kerap terabaikan: bagaimana proses belajar-mengajar tersebut sesungguhnya mewujud dalam tindak tutur sehari-hari di dalam kelas.
 
-Melalui pendekatan ekspresif, terungkap bahwa novel ini merupakan hasil otentik perjalanan hidup Iwan Setyawan di tengah kondisi sulit. Kisah ini dituangkan berdasarkan latar belakang keluarga, kondisi sosial, masa kecil, dan latar belakang bidang akademiknya.
+Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas tidak lagi dilihat hanya sebagai ruang fisik tempat materi disampaikan, melainkan sebagai sebuah ekosistem komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
 
-## 3.2 Saran
+> "Kajian wacana pedagogi memberikan bekal pengetahuan mendasar untuk memahami hubungan riil antara teori pedagogi dan praktisnya di lapangan."
+> (Coulthard & Brazil, 1989)
 
-Pembaca diharapkan tidak hanya menikmati keindahan karya sastra dalam novel ini, tetapi juga berusaha mengimplementasikan nilai-nilai yang menjadi pesan yang disampaikan oleh pengarang, yaitu kerja keras, pantang menyerah, tekun, dan memperjuangkan pendidikan untuk masa depan. Kisah dalam novel ini membuktikan bahwa keterbatasan material bukanlah penghalang untuk memperjuangkan masa depan, tetapi sebagai tantangan yang harus ditaklukkan dengan perjuangan dan kerja keras.
+### Mengapa Fokus Bergeser ke Wacana Kelas?
 
-Penelitian selanjutnya diharapkan dapat mengkaji karya ini menggunakan pendekatan yang berbeda, seperti pendekatan sosiologi sastra atau psikologi sastra agar memperkaya keilmuan mengenai analisis novel "9 Summers 10 Autumns".
+Selama ini, efektivitas pengajaran kerap diukur dari hasil tes atau ketersediaan fasilitas. Padahal, kualitas pembelajaran sangat ditentukan oleh bentuk interaksi verbal yang terjadi antara guru dan siswa.
 
-## 4.1 Refleksi Bab
+McCarthy (1991) menekankan bahwa analisis wacana memberi pendidik landasan kuat untuk memahami bagaimana bahasa bekerja sebelum merancang materi pembelajaran. Pendidik perlu mencermati ragam tuturan yang digunakan dalam interaksi sebelum memilih strategi pembelajaran yang tepat untuk memahirkan keterampilan berbahasa siswa, serta mengevaluasi kelayakan buku teks yang akan digunakan.
 
-Apa yang dapat kita ambil dari analisis novel "9 Summers 10 Autumns" ini? Bagaimana kita dapat menerapkan nilai-nilai yang disampaikan oleh pengarang dalam kehidupan sehari-hari?
+### Kerangka Struktur Wacana Sinclair dan Coulthard
 
-## 4.2 Jembatan Transisi Akhir
+Salah satu kontribusi terbesar dalam kajian wacana kelas dirumuskan oleh Sinclair dan Coulthard (1975). Mereka menyusun hirarki wacana pedagogi yang menjelaskan bagaimana tuturan di dalam kelas terorganisasi secara berjenjang.
 
-Dengan demikian, kita telah menyelesaikan analisis novel "9 Summers 10 Autumns" ini. Namun, perjalanan analisis sastra tidak berhenti di sini. Kita harus terus menerus mengembangkan pengetahuan dan keilmuan kita tentang sastra dan analisis sastra. Mari kita lanjutkan perjalanan analisis sastra kita dengan membaca dan menganalisis novel lainnya.
+| Tingkatan Wacana | Deskripsi Fungsi dalam Kelas | Contoh dalam Kelas Sekolah Dasar |
+| :--- | :--- | :--- |
+| **Lesson (Pelajaran)** | Unit tertinggi yang mencakup keseluruhan kegiatan belajar dari pembukaan hingga penutup. | Satuan jam pelajaran Bahasa Indonesia selama 2 x 35 menit. |
+| **Transaction (Transaksi)** | Unit yang membagi pelajaran menjadi beberapa segmen pembahasan topik. | Pembahasan tentang "Ciri-ciri Makhluk Hidup" sebelum berpindah ke tugas kelompok. |
+| **Exchange (Pertukaran)** | Unit interaksi terkecil yang melibatkan urutan tuturan antarpartisipan. | Pola Inisiasi (Guru) - Respon (Siswa) - Umpan Balik (Guru). |
+| **Move (Langkah)** | Kontribusi tunggal seorang penutur dalam satu pertukaran. | Guru mengajukan pertanyaan: *"Siapa yang tahu fungsi daun?"* |
+| **Act (Tindakan)** | Unit linguistik terkecil yang menunjukkan fungsi komunikatif spesifik. | Menunjuk siswa, memberi salam, atau memberikan pujian. |
 
-DAFTAR PUSTAKA
+Dalam pola pertukaran (*exchange*), kerangka IRF (*Initiation - Response - Feedback*) menjadi struktur yang paling dominan di kelas sekolah dasar. Guru membuka interaksi (*Initiation*), siswa memberikan jawaban (*Response*), dan guru memberikan penilaian atau balasan (*Feedback*).
 
-Aini, A. N., Puspitoningrum, E., Sujarwoko, & Sardjono. (2022). Analisis Aspek Struktural Dalam Novel Ayah Karya Andrea Hirata. WACANA: Jurnal Bahasa, Seni, Dan Pengajaran, 6(2), 92–92.
+### Dinamika Kekuasaan dan Hak Bertutur (Fairclough, 1995)
 
-Bagaskara, M. (2024). Nilai-nilai Pendidikan Moral dalam Novel 9 Summer 10 Autumns Karya Iwan Setyawan. Universitas Islam Negeriprofesor Kiai Haji Saifuddin Zuhri Purwokerto.
+Wacana kelas tidak hanya mencerminkan transfer pengetahuan, tetapi juga mencerminkan distribusi kekuasaan antarpartisipan. Norman Fairclough (1995) menjelaskan bahwa interaksi bahasa di dalam kelas selalu terikat pada sistem hak dan kewajiban bertutur.
 
-Fitri, H., Oktaviani, N., & Rahmawati, D. (2024). Analisis Pendekatan Ekspresif pada Novel Rahasia Salinemkarya Brilliant Yotenega dan Wisnu Suryaning Adji. Saka Bahasa: Jurnal Sastra, Bahasa, Pendidikan, Dan Budaya, 1(1), 106–106.
+Di sekolah dasar, peran sosial guru dan siswa menciptakan kontras yang jelas dalam penguasaan wacana:
 
-Hasanah, M., Julia, V., NH, L. Q. Z., & Suryani. (2025). Analisis Latar dalam Cerpen “Celoteh Ismail” Karya Komala Sutha pada Media Indonesia Tahun 2022. Jurnal Didactique Bahasa Indonesia, 6(1), 27–27.
+* **Sistem Giliran Bertutur (*Turn-taking*):** Guru memiliki wewenang penuh untuk menentukan siapa yang boleh berbicara, kapan boleh berbicara, dan berapa lama tuturan berlangsung.
+* **Pengendalian Topik:** Guru menetapkan dan mengalihkan topik pembicaraan. Siswa jarang memiliki kesempatan untuk mengarahkan arah diskusi.
+* **Hak Mengajukan Pertanyaan:** Pertanyaan guru biasanya bersifat menguji (*evaluative questions*), sedangkan pertanyaan siswa terbatas pada klarifikasi instruksi.
 
-Jannah, Z., & Rahmawati, S. (2025). Analisi Unsur Intrinsik pada Novel “Teruslah Bodoh Jangan Pintar” Karya Tere Liye. DEIKTIS: Jurnal Pendidikan Bahasa Dan Sastra, 5(4), 4293–4297.
+Berikut adalah perbandingan pola komunikasi yang mendominasi kelas konvensional dibandingkan dengan kelas interaktif:
 
-Jarmanto, A. L. (2024). Analisis Nilai-Nilai Didaktis dan Amanat dalam Novel “Berguru Pada Kelana” Karya Annisa Prem Andini [Skripsi]. Universitas Islam Negeri Fatmawati Sukarno.
+| Dimensi Interaksi | Dominasi Pendidik (Konvensional) | Inisiatif Siswa (Interaktif) |
+| :--- | :--- | :--- |
+| **Penguasaan Topik** | Sepenuhnya ditentukan oleh guru sesuai rencana pelajaran. | Guru memberi ruang bagi siswa untuk mengajukan topik relevan. |
+| **Pola Pertukaran** | IRF kaku (Guru bertanya, Siswa menjawab singkat, Guru menilai). | Dialog multiarah antar-siswa yang difasilitasi oleh guru. |
+| **Alokasi Waktu Bertutur** | Guru mendominasi hingga 70-80% dari total tuturan kelas. | Alokasi tuturan terdistribusi seimbang antara guru dan siswa. |
+| **Jenis Umpan Balik** | Evaluatif kaku (*"Benar"*, *"Salah"*). | Eksploratif dan memancing pemikiran kritis mendalam. |
 
-Kusuma, I. D., Herani, A. D., Utari, R., Zahra, A., Diningrum, M. A., & Seviana, M. (2025). Sastra Bicara: Membaca Hidup lewat Cerita Rakyat, Novel, dan Film (A. K. Anam, Ed.; 1st ed.). PT Ruang Rosadi Corpora.
+### Urgensi Analisis Interaksi Kelas bagi Pembelajaran
 
-Meitridwiastiti, A. A. A. (2022). Penggunaan Gaya Bahasa dalam Novel Laut Bercerita Karya Leila S. Chudori. Paramasastra: Jurnal Ilmiah Bahasa Sastra Dan Pembelajarannya, 9(2), 213–213.
+Menganalisis wacana kelas memberikan manfaat praktis yang langsung menyentuh kualitas pembelajaran di Sekolah Dasar:
 
-Mutia. (2024). Analisis Puisi “ Peringatan” Karya Wiji Thukul melalui Pendekatan Objektif. Journal of Language and Literature Education (JoLaLE), 1(4), 256–256.
+1. **Mengungkap Pola Tersembunyi:** Membantu pendidik menyadari pola tuturan mereka sendiri yang mungkin tanpa disadari menghambat partisipasi siswa.
+2. **Pengembangan Strategi Pembelajaran:** Memberi petunjuk konkret tentang bagaimana menyusun pertanyaan yang membuka ruang diskusi daripada pertanyaan tutup yang mematikan inisiatif siswa.
+3. **Penilaian Kualitas Buku dan Bahan Ajar:** Memastikan bahwa contoh dialog dan instruksi dalam buku teks mencerminkan komunikasi autentik yang membimbing siswa berbahasa aktif.
 
-Putri, W. S., Rasyimah, & Safriandi. (2024). Analisis Tokoh dan Penokohan Tokoh Utama dalam Novel Not Me Karya Caaay_. KANDE: Jurnal Ilmiah Pendidikan Bahasa Dan Sastra Indonesia, 4(1), 216–216.
+Dengan memahami wacana kelas sebagai objek kajian yang kaya, kamu dapat melihat bahwa keberhasilan pendidikan tidak hanya ditentukan oleh apa yang diajarkan, tetapi juga oleh bagaimana bahasa digunakan untuk membangun hubungan belajar yang memberdayakan.
 
-Rani, T. (2024). Nilai Moral dalam Novel Negeri 5 Menara Karya Ahmad Fuadi [Skripsi]. Universitas Kristen Indonesia Toraja.
+---
 
-Setyawan, I. (2013). 9 Summers 10 Autumns (M. Yulistianti, Ed.). PT Gramedia Pustaka Utama.
+### Rangkuman & Pertanyaan Refleksi 2
 
-Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman dengan Pendekatan Ekspresif. Jurnal Ilmiah Nusantara (JINU), 3(2), 506–512.
-https://doi.org/10.61722/jinu.v3i2.8774
+Analisis wacana pedagogi membuka wawasan bahwa kelas merupakan arena komunikasi yang kaya struktur dan dinamika kekuasaan. Melalui kerangka Sinclair & Coulthard serta pandangan Fairclough, kita dapat memahami bahwa pola interaksi harian bentuknya sangat dipengaruhi oleh alokasi hak bertutur dan strategi kebahasaan yang digunakan oleh guru.
 
-Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
+1. **Refleksi Utama:** Setelah mempelajari struktur interaksi kelas, apakah pola tutur di kelas tempat kamu mengajar atau mengamati lebih didominasi oleh pola IRF kaku atau sudah memberi ruang bagi inisiatif siswa?
+2. **Penerapan Praktis:** Langkah konkret apa yang dapat kamu ambil untuk mengubah pola umpan balik (*feedback*) evaluatif menjadi umpan balik eksploratif yang merangsang keberanian siswa Sekolah Dasar untuk bertanya?
 
-Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-07-13T18:13:33.849Z',
-  '2026-07-13T18:13:33.849Z'
+<!-- Chapter: 03_metodologi-penelitian-dan-pengumpulan-data -->
+
+## Metodologi Penelitian dan Konteks Tiga SD di Bogor
+
+Memahami dinamika wacana pedagogi di ruang kelas sekolah dasar memerlukan pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk membongkar mekanisme pengendalian topik tersebut, penelitian ini menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
+
+Melalui pendekatan kualitatif, interaksi lisan yang berlangsung selama proses belajar-mengajar dapat diamati, direkam, serta dianalisis tanpa memanipulasi situasi kelas.
+
+### Pendekatan dan Desain Penelitian Kualitatif
+
+Studi kasus dipilih karena mampu menyajikan gambaran utuh mengenai praktik wacana pedagogi pada latar alamiah (naturalistic setting). Peneliti tidak menempatkan variabel buatan, melainkan mengamati jalannya proses pembelajaran Bahasa Indonesia sebagaimana yang terjadi sehari-hari.
+
+Fokus utama analisis terletak pada sistem pengendalian topik, yaitu bagaimana guru memulai, mengarahkan, mengalihkan, atau menutup topik pembicaraan di dalam kelas. Pendekatan deskriptif membantu menggambarkan pola tuturan tersebut secara rinci dan terstruktur.
+
+| Komponen Penelitian | Rincian dan Karakteristik |
+| :--- | :--- |
+| **Pendekatan** | Kualitatif Deskriptif (Studi Kasus) |
+| **Kerangka Teoretis** | Analisis Wacana Kritis (Fairclough, 1995) |
+| **Fokus Dimensi** | Deskripsi Teks dan Interpretasi Praktik Wacana |
+| **Lokasi Penelitian** | Tiga Sekolah Dasar di Bogor Timur (SDN Bangka I, SDN Bangka III, SD Padjajaran) |
+| **Subjek Penelitian** | 3 Guru Bahasa Indonesia (>5 tahun pengalaman) dan Siswa Usia 10-12 tahun |
+| **Teknik Pengumpulan Data** | Rekam-Catat (Audio/Video Recording) dan Transkripsi Teks |
+| **Unit Analisis** | Pasangan Tuturan, Giliran Bicara, dan Pengendalian Topik |
+
+### Konteks Observasi: Tiga Sekolah Dasar di Bogor Timur
+
+Penelitian ini dilaksanakan pada tiga sekolah dasar yang berlokasi di wilayah Bogor Timur, yaitu SDN Bangka I, SDN Bangka III, dan SD Padjajaran. Pemilihan lokasi ini memberikan gambaran bervariasi mengenai penerapan wacana pedagogi pada konteks sekolah dasar di lingkungan perkotaan.
+
+Subjek penelitian terdiri atas tiga guru mata pelajaran Bahasa Indonesia yang masing-masing memiliki pengalaman mengajar di atas lima tahun. Pengalaman mengajar ini memastikan bahwa pola komunikasi yang terbangun di kelas merupakan bentuk praktik pedagogi yang telah terbentuk relatif stabil. Sementara itu, siswa yang terlibat berada pada rentang usia 10 hingga 12 tahun (siswa kelas 4 hingga 6 SD). Pada tahap usia ini, anak-anak sudah memiliki pemahaman berbahasa yang matang untuk merespons instruksi guru, mengajukan pertanyaan, serta berpartisipasi dalam diskusi kelas.
+
+### Teknik Pengumpulan Data: Rekam dan Catat
+
+Data dalam penelitian ini berwujud tuturan lisan yang disampaikan oleh guru dan siswa selama kegiatan pembelajaran Bahasa Indonesia berlangsung. Untuk mengumpulkan data secara akurat, pengumpulan data dilakukan melalui dua prosedur utama:
+
+1. **Teknik Rekam (Audio dan Video Recording)**  
+   Proses pembelajaran direkam menggunakan alat perekam suara dan kamera video. Rekaman ini berfungsi mendokumentasikan seluruh percakapan, artikulasi tuturan, jeda bicara, serta nada suara yang muncul selama interaksi kelas.
+
+2. **Teknik Catat (Classroom Observation Notes)**  
+   Peneliti mencatat konteks nonverbal yang tidak sepenuhnya tertangkap oleh alat perekam, seperti aktivitas guru di papan tulis, pergerakan guru di dalam kelas, reaksi fisik siswa, serta kondisi lingkungan saat pembelajaran berlangsung.
+
+> **Catatan Metodologis:**  
+> Transkripsi lisan menjadi teks tertulis merupakan langkah penting awal analisis. Setiap baris tuturan dalam transkrip diberi nomor urut unik. Pengodean (coding) berbasis nomor baris ini memudahkan peneliti saat melakukan verifikasi dan analisis pola giliran bicara.
+
+### Kerangka Analisis Wacana Kritis Fairclough
+
+Untuk menganalisis data transkripsi, penelitian ini mengacu pada kerangka teoretis Analisis Wacana Kritis (Critical Discourse Analysis) yang dikembangkan oleh Norman Fairclough (1995). Model Fairclough membagi analisis wacana ke dalam tiga dimensi utama:
+
+* **Deskripsi Ciri Teks (Text Description)**: Menganalisis struktur kebahasaan tuturan, penggunaan kosakata, bentuk kalimat, serta penanda kebahasaan yang digunakan guru dan siswa saat mengendalikan topik.
+* **Interpretasi Praktik Wacana (Discourse Practice Interpretation)**: Mengkaji bagaimana wacana tersebut diproduksi oleh guru dan dikonsumsi serta direspons oleh siswa dalam ruang kelas.
+* **Penjelasan Praktis Sosiobudaya (Socio-cultural Practice)**: Menghubungkan pola interaksi kelas dengan struktur sosial dan nilai budaya yang berlaku di lingkungan sekolah.
+
+Dalam penelitian ini, fokus analisis dibatasi pada dua dimensi pertama, yaitu deskripsi ciri teks dan interpretasi praktik wacana. Pembatasan ini bertujuan memberikan penekanan mendalam pada sistem pengendalian topik guru sebagai basis utama untuk memahami dinamika wacana pedagogi di sekolah dasar.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 3
+1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?
+
+<!-- Chapter: 04_hirarki-dan-pengorganisasian-struktur-wacana -->
+
+## Pengorganisasian dan Hirarki Interaksi Kelas
+
+Dalam ruang kelas, percakapan antara guru dan siswa tidak berlangsung secara acak. Setiap tuturan yang terucap memiliki struktur berlapis yang tertata rapi. Model hierarki wacana yang dirumuskan oleh Sinclair dan Coulthard (1975) memberikan pijakan penting untuk memahami bagaimana interaksi di dalam kelas diorganisasikan, mulai dari tingkat paling luas hingga unit komunikasi terkecil.
+
+> **Definisi Struktur Wacana Pedagogi**:
+> Struktur wacana pedagogi merupakan tingkatan hierarkis pola komunikasi di kelas yang mengorganisasikan alur pembelajaran dari ranah kegiatan besar hingga tindakan berbahasa terkecil.
+
+---
+
+### Hierarki Struktur Wacana Sinclair dan Coulthard
+
+Sinclair dan Coulthard membagi struktur percakapan kelas menjadi lima tingkatan hierarkis. Setiap tingkatan yang lebih tinggi dibentuk oleh unit-unit di tingkat bawahnya:
+
+1. **Pelajaran (*Lesson*)**: Unit wacana tertinggi yang mencakup keseluruhan jam tatap muka di kelas, mulai dari pembukaan hingga penutupan.
+2. **Transaksi (*Transaction*)**: Sub-kegiatan di dalam pelajaran yang fokus pada satu pokok bahasan atau materi tertentu. Suatu transaksi biasanya ditandai oleh pergeseran topik.
+3. **Pertukaran (*Exchange*)**: Unit dasar interaksi timbal balik antara penutur (biasanya guru) dan mitra tutur (siswa).
+4. **Gerakan (*Move*)**: Kontribusi individual dalam satu pertukaran, seperti memberi inisiasi, memberikan jawaban, atau mengevaluasi respons.
+5. **Tindak Tutur (*Act*)**: Unit komunikasi terkecil berupa klausa atau kalimat yang memiliki fungsi pragmatis spesifik, seperti menyapa, bertanya, menegaskan, atau memuji.
+
+---
+
+### Pola Pemulai-Respons-Komentar (IRF Pattern)
+
+Di tingkat pertukaran (*exchange*), interaksi pembelajaran di sekolah dasar paling sering mengikuti pola tiga langkah, yaitu **Pemulai (*Initiation*)**, **Respons (*Response*)**, dan **Komentar (*Feedback/Evaluation*)** atau disingkat pola IRF.
+
+- **Pemulai (*Initiation*)**: Langkah pembuka yang didominasi guru untuk mengenalkan topik baru atau mengajukan pertanyaan.
+- **Respons (*Response*)**: Tanggapan atau jawaban dari siswa terhadap inisiasi guru.
+- **Komentar (*Feedback/Follow-up*)**: Ulasan, penegasan, atau pujian dari guru terhadap respons siswa sebelum beralih ke pertukaran berikutnya.
+
+Berikut adalah pemetaan tabel interaksi kelas yang menggambarkan pengorganisasian pertukaran dan gerakan dalam dialog nyata:
+
+| Pertukaran | Gerakan | Penutur | Ujaran / Klausa | Fungsi Wacana |
+| :--- | :--- | :--- | :--- | :--- |
+| **Pertukaran 1** | Pemulai (*Initiation*) | Guru | "Dalam sektor manakah persentase pekerja paling rendah di Malaysia?" | Mengajukan pertanyaan topik baru |
+| | Respons (*Response*) | Siswa | "Pembinaan..." *(suara tidak jelas)* | Memberikan jawaban awal |
+| | Pemulai Ulang (*Re-initiation*) | Guru | "Dalam sektor apa?" | Meminta klarifikasi jawaban |
+| | Respons (*Response*) | Siswa | "Pembinaan." | Mempertegas jawaban |
+| | Komentar (*Feedback*) | Guru | "Ya, bagus! Sektor pembinaan." | Evaluasi, penguatan, dan penegasan |
+
+Melalui tabel di atas, kamu dapat melihat bagaimana guru memegang kendali atas alur pembicaraan. Ketika jawaban siswa pada klausa awal belum memuaskan atau kurang terdengar jelas, guru langsung melakukan gerakan pemulai ulang untuk mengarahkan siswa hingga memperoleh jawaban yang tepat.
+
+---
+
+### Sistem Pengendalian Topik dan Implikasi Pembelajaran
+
+Sistem pengendalian topik merujuk pada cara para pelaku wacana menentukan, mempertahankan, atau mengubah arah pembicaraan di kelas. Dalam wacana pedagogi tradisional, pengendalian topik hampir sepenuhnya dipegang oleh guru. Keadaan ini secara implisit memperlihatkan dominasi pendidik dalam ruang belajar.
+
+Meskipun guru memerlukan kendali untuk menjaga agar pembelajaran tetap terarah, kurikulum modern menuntut keseimbangan. Siswa sebagai subjek belajar idealnya memperoleh ruang yang cukup untuk mengambil inisiatif, baik dalam mengemukakan pertanyaan, memberikan tanggapan balik, maupun menyampaikan sanggahan.
+
+#### Lima Ciri Pengendalian Topik di Kelas
+
+Pengendalian dan peralihan topik dalam interaksi kelas umumnya ditandai oleh lima ciri utama:
+
+1. **Pertanyaan Guru**: Penggunaan pertanyaan untuk membuka topik baru atau menguji pemahaman siswa.
+2. **Kata Sapaan Siswa**: Panggilan seperti "Bu" atau "Pak" ketika siswa mencoba meminta perhatian atau memulai interaksi.
+3. **Pemarkah Wacana (*Discourse Markers*)**: Kata-kata transisi yang digunakan guru untuk menandai awal gerakan baru, seperti *nah*, *jadi*, *baik*, *sekarang*, *coba*, atau *anak-anak sekalian*.
+4. **Pengabaian Respons Siswa**: Tindakan guru yang tidak menindaklanjuti jawaban siswa dan langsung mengalihkan pembicaraan ke materi lain.
+5. **Penguatan Respons Siswa**: Pemberian umpan balik positif berupa pujian atau pengulangan jawaban siswa untuk mengonfirmasi kebenaran informasi.
+
+Pemahaman mengenai pengorganisasian dan hierarki wacana ini membantu kamu menyadari pentingnya merancang interaksi kelas yang lebih interaktif dan berpusat pada siswa.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 4
+1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?
+
+<!-- Chapter: 05_pengendalian-topik-melalui-pertanyaan-guru -->
+
+## Strategi Pengendalian Topik Melalui Pertanyaan Guru
+
+Dalam wacana pedagogi di sekolah dasar, pertanyaan guru memegang peranan utama sebagai alat pengemudi alur pembicaraan di kelas. Ketika mengajar, guru kerap melontarkan pertanyaan pada awal gerakan wacana untuk membuka topik baru, membelokkan arah pembahasan, atau menguji pemahaman siswa. Cara ini menjadi mekanisme pengendalian topik paling dominan yang menentukan kapan siswa boleh berbicara dan materi apa yang harus dibahas.
+
+Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat dari siswa. Terdapat dinamika menarik antara jenis pertanyaan yang diajukan dengan kesiapan siswa dalam memberikan jawaban.
+
+---
+
+### Dinamika Respons Siswa terhadap Pertanyaan Guru
+
+Berdasarkan hasil analisis wacana kelas, sebagian besar pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata tidak langsung mendapat jawaban dari siswa pada kesempatan pertama. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
+
+Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi pengendalian topik melalui pertanyaan guru:
+
+| Kategori Respons | Persentase Total | Persentase Teks 1 | Implikasi Wacana Kelas |
+| :--- | :---: | :---: | :--- |
+| **Langsung Direspons** | 28% | 11% | Siswa siap dan langsung mengambil giliran bicara. |
+| **Tidak Langsung Direspons** | 31% | 51% | Perlu pengulangan pertanyaan atau pancingan tambahan. |
+| **Total Pertanyaan Tanpa Respons Seketika** | 72% | - | Guru terpaksa menjawab pertanyaan sendiri atau mengulang berkali-kali. |
+
+Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, guru sangat aktif melontarkan pertanyaan pemancing topik baru (mencapai 51%), tetapi respons balik yang datang secara langsung dari siswa sangat rendah, yaitu hanya 11%. Secara keseluruhan, sebanyak 72% dari total kalimat tanya yang diajukan guru tidak direspons secara langsung. 
+
+Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung memosisikan diri sebagai penerima pasif yang baru akan bersuara jika pemicunya adalah pertanyaan spesifik dari guru.
+
+---
+
+### Struktur Pertukaran dan Contoh Analisis Interaksi
+
+Untuk memahami bagaimana pertanyaan bekerja dalam mengendalikan topik, kamu dapat mempelajari struktur pertukaran dialog di kelas. Pertukaran ini umumnya mengikuti alur *Pemulai* (Inisiasi oleh Guru), *Respons* (Jawaban Siswa), dan *Komen* (Umpan Balik atau Penguatan oleh Guru).
+
+Perhatikan contoh transkripsi wacana kelas berikut yang membahas topik alat komunikasi (Teks 11):
+
+| Pertukaran | Gerakan | Pemeran | Penutur | Ujaran / Transkrip Interaksi | Fungsi Wacana |
+| :---: | :---: | :---: | :---: | :--- | :--- |
+| 6 | 096 | Pemulai | Guru | "Apanya yang diangkat?" | Membuka topik langkah bertelepon |
+| 6 | 097 | Respons | Siswa | "Gagang teleponnya." | Memberikan informasi awal |
+| 7 | 098 | Pemulai | Guru | "Ditaruh di mana?" | Mengarahkan ke langkah berikutnya |
+| 7 | 099 | Respons | Siswa | "Di subang, di subang." | Menjawab posisi penempatan |
+| 8 | 100 | Pemulai | Guru | "Iya.., seterusnya diapakan lagi sekarang?" | Melanjutkan urutan tindakan |
+| 8 | 101 | Respons | Siswa | "Pencet nomernya." | Menjelaskan tindakan penekanan tombol |
+| 8 | 102 | Komen | Guru | "Iya.., ditekan nomer teleponnya." | Penguatan dengan bahasa baku |
+| 8 | 103 | Komen | Guru | "Iya, dipencet, iya..." | Pengesahan ragam bahasa siswa |
+
+Pada transkrip di atas, setiap pertukaran selalu dipicu oleh pertanyaan guru. Pada gerakan 096, guru mengarahkan fokus kelas pada prosedur penggunaan telepon. Setelah siswa menjawab pada gerakan 097, guru tidak membiarkan siswa mengembangkan topik secara bebas. Guru langsung memegang kendali kembali pada gerakan 098 dan 100 dengan mengajukan pertanyaan urutan berikutnya.
+
+Di akhir pertukaran (gerakan 102 dan 103), guru memberikan konfirmasi dalam dua bentuk: pertama menggunakan bentuk baku ("ditekan"), lalu mengesahkan istilah yang dipakai siswa ("dipencet").
+
+---
+
+### Refleksi Pedagogis untuk Pendidik
+
+Tingginya angka pertanyaan yang tidak direspons secara langsung memberikan pelajaran berharga bagi praktik mengajar di sekolah dasar. Jika kamu mengendalikan seluruh topik melalui pertanyaan tertutup yang kaku, siswa akan merasa takut salah dan memilih diam.
+
+> **Catatan Strategi Pertanyaan Guru:**
+> Pengendalian topik yang efektif bukan berarti mendominasi percakapan dengan pertanyaan beruntun. Sebagai pendidik, kamu perlu memberikan waktu tunggu (*wait time*) yang cukup agar siswa dapat memproses pertanyaan dan berani menyampaikan tanggapan tanpa merasa diinterogasi.
+
+Beberapa langkah yang dapat kamu terapkan untuk memperbaiki dinamika pertanyaan di kelas meliputi:
+
+- **Gunakan Pertanyaan Terbuka**: Alih-alih bertanya tentang hafalan langkah, dorong siswa menjelaskan alasan atau pengalaman mereka.
+- **Berikan Waktu Berpikir**: Berikan jeda 3 hingga 5 detik setelah melontarkan pertanyaan sebelum meminta siswa menjawab.
+- **Berikan Penguatan Positif**: Sambut respons siswa dengan pembenaran yang membangun seperti pada contoh gerakan 102 dan 103, sehingga siswa merasa dihargai.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 5
+
+1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?
+
+<!-- Chapter: 06_respons-siswa-dan-inisiatif-topik-terbatas -->
+
+## Respons Siswa dan Inisiatif Pembuka Topik Baru
+
+Dalam wacana pedagogi di sekolah dasar, alur pembicaraan kelas lebih sering didikte oleh guru. Meski demikian, siswa sesekali mengambil keberanian untuk mengendalikan atau membuka topik baru di tengah pertukaran komunikasi. Inisiatif siswa ini paling sering ditandai dengan penggunaan kata sapaan seperti *Bu* atau *Pak*. Kemunculan inisiatif yang sangat terbatas ini memperlihatkan betapa kuatnya dominasi struktur komunikasi guru dibandingkan ruang partisipasi siswa di kelas.
+
+### Inisiatif Terbatas Siswa dalam Pembukaan Topik
+
+Berdasarkan temuan empiris dalam wacana kelas sekolah dasar, partisipasi aktif siswa dalam membuka topik baru berada pada tingkat yang amat rendah. Dari seluruh rekaman wacana yang dianalisis, pengendalian topik oleh siswa hanya ditemukan pada Teks 5, Teks 7, dan Teks 9. Siswa memanfaatkan kata sapaan langsung untuk menarik perhatian guru sebelum menyampaikan pertanyaan atau gagasan baru.
+
+Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh siswa dalam wacana interaksi kelas:
+
+| Jenis Teks Wacana | Kata Sapaan yang Digunakan | Tujuan Pengendalian Topik | Respons Utama Guru |
+| :--- | :--- | :--- | :--- |
+| **Teks 5 (Diskusi Kelompok)** | *Bu* | Menanyakan petunjuk teknis tugas | Guru memberikan jawaban singkat |
+| **Teks 7 (Menanam Ubi Kayu)** | *Bu* | Meminta klarifikasi aturan penulisan & hafalan | Guru menjawab sebagian, lalu mengabaikan |
+| **Teks 9 (Naskah Drama)** | *Pak* | Meminta izin melihat teks & konfirmasi anggota | Guru memberikan petunjuk dan arahan pementasan |
+
+> **Catatan Pedagogis**: Penggunaan kata sapaan oleh siswa merupakan satu-satunya sarana formal yang dianggap sopan oleh siswa untuk memutus alur wacana guru. Namun, frekuensi penggunaan yang sangat kecil menegaskan bahwa otoritas pembukaan topik masih sepenuhnya dipegang oleh guru.
+
+### Dinamika Kata Sapaan dan Pemanggilan Berulang
+
+Ketika siswa berinisiatif membuka topik baru, mereka sering kali harus mengulang kata sapaan berkali-kali agar didengar atau direspons oleh guru. Hal ini terjadi karena perhatian guru terbagi atau guru sengaja mempertahankan jalannya alur utama pembelajaran.
+
+Perhatikan petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
+
+* **S1**: "Pak, boleh liat?"
+* **Guru**: "Ga boleh liat."
+* **S2**: "Pak, pak, bapak, kelompoknya yang ini?"
+* **Guru**: "Kamu berapa orang? Empat?"
+* **Guru**: "Ya, nanti kamu berempat memerankan ke depan ya!"
+
+Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga kali untuk memastikan guru mengalihkan perhatian dan merespons pertanyaannya. Jika kamu mengamati interaksi kelas, pemanggilan berulang ini menunjukkan adanya kecemasan siswa akan diabaikan oleh guru.
+
+### Fenomena Pengabaian Respons dan Ketimpangan Otoritas
+
+Tidak semua inisiatif topik yang dibuka oleh siswa mendapatkan tanggapan dari guru. Ada kalanya pertanyaan siswa disambut dengan sikap diam atau pengabaian, yang semakin mempertegas posisi guru sebagai pemegang kendali mutlak wacana.
+
+Sebagai gambaran, perhatikan potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
+
+* **S13**: "Ibu, ibu, judulnya boleh sama bu?"
+* **Guru**: "Iya, boleh sama. Paling sedikit satu paragraf itu empat sampai lima."
+* **S14**: "Bu, ga usah dihapal bu?"
+* **Guru**: *(Diam tidak merespons)*
+* *(Lima belas menit kemudian)*
+* **Guru**: "Ya, kumpulkan!"
+
+Pada interaksi tersebut, pertanyaan S14 sama sekali tidak dijawab. Guru justru meninggalkan kelas selama lima belas menit dan saat kembali langsung memerintahkan pengumpulan tugas tanpa membahas pertanyaan siswa. 
+
+Beberapa faktor yang menyebabkan guru mengabaikan inisiatif pembukaan topik dari siswa antara lain:
+* **Faktor Pendengaran dan Jarak**: Guru tidak mendengar panggilan siswa di tengah kebisingan kelas.
+* **Penilaian Subjektif Kepentingan**: Guru menganggap pertanyaan siswa tidak relevan atau kurang penting untuk dijawab pada saat itu.
+* **Anggapan Sudah Terjawab**: Guru mengasumsikan bahwa penjelasan sebelumnya sudah cukup menjawab pertanyaan tersebut.
+* **Beban Perhatian Terbagi**: Guru sedang fokus melayani pertanyaan siswa lain sehingga siswa tertentu terabaikan.
+
+> **Refleksi Instruksional**: Pengabaian respons, baik disengaja maupun tidak, dapat menurunkan minat siswa untuk berinisiatif. Ketika pertanyaan siswa dibiarkan tanpa jawaban, siswa cenderung menarik diri dan kembali menjadi pendengar pasif.
+
+### Pemarkah Transisi Topik dan Frekuensi Penggunaannya
+
+Berbeda dengan siswa yang terbatas pada kata sapaan, guru memiliki kebebasan penuh dalam menggunakan berbagai kata penanda (*pemarkah wacana*) untuk mengendalikan dan mengalihkan topik pembicaraan. Kedudukan guru yang lebih tinggi memungkinkan penggunaan kata penanda di awal gerakan wacana tanpa hambatan.
+
+Berikut adalah distribusi pemarkah transisi topik yang paling sering digunakan oleh guru dalam mengendalikan pembicaraan kelas:
+
+| Pemarkah Wacana | Persentase Penggunaan | Fungsi Posisi dalam Wacana |
+| :--- | :--- | :--- |
+| **Ya** | **13%** | Membuka topik baru atau mengonfirmasi transisi |
+| **Sekarang** | Tinggi | Menandai perubahan fokus aktivitas belajar |
+| **Nah / Jadi** | Sedang | Menyimpulkan topik sebelum beralih |
+| **Baik / Coba** | Sedang | Mengarahkan instruksi tindakan baru |
+| **Eh / Kalau begitu** | Rendah | Mengoreksi atau mengalihkan arah pembicaraan |
+
+Kata penanda *ya* mencatatkan frekuensi tertinggi sebesar 13% dalam pengalihan topik oleh guru. Fleksibilitas guru dalam memilih kata penanda ini membuktikan bahwa posisi tawar komunikasi di dalam kelas masih terpusat pada pendidik. Kamu dapat mengamati bahwa struktur wacana sekolah dasar masih menempatkan guru sebagai pengatur utama lalu lintas pembicaraan.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 6
+1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?
+
+<!-- Chapter: 07_penggunaan-kata-sapaan-dalam-interaksi -->
+
+## Penggunaan Kata Sapaan dalam Navigasi Interaksi Kelas
+
+Dalam wacana kelas sekolah dasar, bahasa tidak hanya berfungsi menyampaikan materi pelajaran, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi sebagai kemudi navigasi yang mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
+
+Ketika guru berdiri di depan kelas dan mengucapkan kata sapaan tertentu, interaksi sosial langsung terbentuk. Sapaan menetapkan siapa yang berhak berbicara, siapa yang harus mendengarkan, serta bagaimana topik percakapan dimulai atau dialihkan. Oleh karena itu, analisis kata sapaan memberikan gambaran jernih mengenai cara otoritas dan keakraban dikelola dalam wacana pedagogi.
+
+---
+
+### Klasifikasi dan Variasi Kata Sapaan di Kelas Sekolah Dasar
+
+Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa kategori utama berdasarkan sasaran dan derajat keakrabannya. Setiap kategori memiliki dampak tersendiri terhadap suasana belajar dan kelancaran alur topik.
+
+1. **Sapaan Kolektif (Sapaan Kelompok)**
+   * **Bentuk**: *Anak-anak*, *Kalian*, *Anak-anakku*, *Semua*.
+   * **Fungsi**: Digunakan guru untuk menyapa seluruh siswa secara serentak. Sapaan ini efektif untuk membuka pelajaran, menarik perhatian massal, atau mengumumkan transisi topik baru.
+2. **Sapaan Individual (Nama Diri dan Kata Ganti)**
+   * **Bentuk**: Nama panggilan siswa (*Budi*, *Siti*, *Rian*) dan kata ganti persona (*kamu*).
+   * **Fungsi**: Digunakan guru untuk menunjuk siswa tertentu secara spesifik, baik untuk memverifikasi pemahaman, mengalokasikan giliran menjawab, maupun mengembalikan fokus siswa yang kehilangan konsentrasi.
+3. **Sapaan Penghormatan kepada Guru**
+   * **Bentuk**: *Pak*, *Bu*, *Pak Guru*, *Bu Guru*.
+   * **Fungsi**: Digunakan oleh siswa saat meminta izin, menjawab pertanyaan, atau mengajukan topik baru. Sapaan ini menandai penghormatan sekaligus mengukuhkan batas hierarki sosial di kelas.
+
+> **Fungsi Pragmatis Kata Sapaan dalam Wacana Kelas**:
+> Sapaan lebih dari sekadar penanda identitas fisik penutur. Sapaan berfungsi sebagai alat navigasi wacana yang menetapkan hak tutur, mengontrol laju informasi, serta membentuk suasana psikologis kelas.
+
+---
+
+### Kata Sapaan sebagai Alat Alokasi Giliran dan Pengendalian Topik
+
+Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan tidak terjadi dorongan ujaran massal yang saling bertabrakan.
+
+Mari perhatikan contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
+
+| Pertukaran | Gerakan | Penutur | Ujaran |
+| :--- | :--- | :--- | :--- |
+| **01** | Pemulai | Guru | Baik anak-anak, hari ini kita akan melanjutkan pembahasan naskah drama lingkungan. Siapa yang ingat apa peran tokoh utama dalam cerita kemarin? |
+| **02** | Respons | Siswa (Serentak) | Saya Bu! Saya! |
+| **03** | Pemulai | Guru | Ya, Coba **Siti**, sebutkan apa tugas tokoh utama itu. |
+| **04** | Respons | Siti | Mengajak warga desa untuk membersihkan sampah di aliran sungai, Bu. |
+| **05** | Evaluasi | Guru | Bagus sekali, **Siti**. Jawabanmu tepat. |
+
+Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada gerakan pembuka untuk mengikat perhatian seluruh kelas. Namun, saat merespons riuh siswa yang berebut menjawab, guru menyaring arus komunikasi dengan memanggil sapaan spesifik *"Siti"*. Pemanggilan nama ini membatasi hak jawab secara individual dan mengarahkan topik ke pendalaman isi drama.
+
+---
+
+### Pengaturan Jarak Sosial, Solidaritas, dan Kesantunan Pedagogis
+
+Penggunaan kata sapaan juga mencerminkan dinamika jarak sosial dan kesantunan (politeness) antara guru dan siswa. Dalam teori sosiolinguistik, pemilihan kata sapaan dipengaruhi oleh dua variabel utama: kekuasaan (*power*) dan solidaritas (*solidarity*).
+
+```
+                      +-----------------------------------+
+                      |   Pilihan Kata Sapaan Guru        |
+                      +-----------------------------------+
+                                        |
+                 +----------------------+----------------------+
+                 |                                             |
+                 v                                             v
+    [Sapaan Kolektif & Hangat]                    [Sapaan Individual & Tegas]
+    Contoh: "Anak-anak", "Anakku"                 Contoh: "Kamu", "Siti", "Rian"
+                 |                                             |
+                 v                                             v
+  - Memperkecil Jarak Sosial                    - Mempertegas Otoritas
+  - Meningkatkan Solidaritas                    - Mengarahkan Fokus Spesifik
+  - Mengajak Partisipasi Aktif                  - Mengendalikan Ketertiban Topik
+```
+
+* **Sapaan Kehangatan (*Anak-anak*)**: Memperkecil jarak sosial dan menciptakan iklim belajar yang aman secara emosional. Siswa merasa diakui sebagai bagian dari komunitas belajar.
+* **Sapaan Instruktif (*Kamu*, Nama Diri)**: Digunakan dalam momen penalaran formal atau pembenahan disiplin. Sapaan ini menegaskan otoritas guru sebagai pemegang kendali utama topik wacana.
+
+Berikut contoh pertukaran dialogik yang menggambarkan transisi dari sapaan kolektif menuju sapaan individual dalam pengelolaan topik masalah kebersihan sekolah:
+
+| Pertukaran | Gerakan | Penutur | Ujaran |
+| :--- | :--- | :--- | :--- |
+| **01** | Pemulai | Guru | Sekarang kita beralih ke masalah lingkungan sekolah kita. Menurut kalian, masalah apa yang paling sering kita temui di halaman? |
+| **02** | Respons | Doni | Sampah plastik jajanan, Pak! |
+| **03** | Umpan Balik | Guru | Tepat. Sampah plastik. Sekarang **Doni**, coba kamu susun kalimat saran untuk mengatasi sampah itu. |
+| **04** | Respons | Doni | Siswa harus membawa tempat makan sendiri dari rumah, Pak. |
+| **05** | Evaluasi | Guru | Bagus sekali sarannya. Nah, anak-anak sekalian, mari kita catat ide Doni ini di papan tulis. |
+
+Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada gerakan 03 untuk memberikan panggung penalaran kepada Doni, sebelum mengembalikan topik ke forum umum pada gerakan 05 dengan kata sapaan kolektif *"anak-anak sekalian"*. Penggabungan strategi ini menjaga keseimbangan antara partisipasi personal dan kebersamaan kelompok.
+
+---
+
+### Resiprokositas Sapaan dan Inisiatif Siswa
+
+Secara umum, susunan sapaan di kelas SD bersifat asimetris. Guru bebas menyapa siswa dengan nama panggilan atau kata ganti *kamu*, sedangkan siswa diwajibkan menggunakan sapaan kehormatan seperti *Pak* atau *Bu*. Ketidakseimbangan ini wajar dalam wacana formal sekolah, namun siswa yang berani tetap dapat memanfaatkan kata sapaan untuk mengambil inisiatif pembukaan topik.
+
+Ketika seorang siswa mengangkat tangan dan berkata:
+
+> *"Bu, apakah kita boleh memilih kelompok drama sendiri?"*
+
+Kata sapaan *"Bu"* di awal kalimat berfungsi sebagai pemutus alur wacana guru (*interruption marker*) yang santun. Melalui sapaan ini, siswa memohon izin untuk mengalihkan topik dari penjelasan materi menuju negosiasi aturan pembelajaran. Respons guru terhadap sapaan siswa ini menentukan apakah wacana kelas bersifat interaktif terbuka atau tetap didominasi instruksi satu arah.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 7
+
+Penggunaan kata sapaan dalam interaksi kelas sekolah dasar merupakan instrumen kebahasaan yang efektif untuk mengarahkan alur topik dan mengelola tata tertib komunikasi. Kata sapaan kolektif membangun kebersamaan dan membuka topik baru, sementara sapaan individual mengalokasikan giliran bicara serta menegaskan fokus pemahaman. Di sisi lain, tata cara siswa menyapa guru mencerminkan kesantunan dan norma penghormatan dalam wacana pedagogi.
+
+#### Pertanyaan Refleksi untuk Kamu:
+1. **Refleksi Praktis**: Ketika kamu mengamati atau mempraktikkan pembelajaran di kelas SD, bagaimana perubahan penggunaan sapaan dari *"Anak-anak"* menjadi sapaan nama pribadi siswa memengaruhi tingkat perhatian dan rasa percaya diri siswa?
+2. **Analisis Interaksi**: Mengapa sapaan siswa kepada guru (*Pak/Bu*) selalu mengawali usaha siswa untuk mengusulkan topik atau bertanya? Apa dampaknya jika guru merespons sapaan tersebut dengan ramah dibandingkan dengan respons yang dingin?
+
+<!-- Chapter: 08_kata-penanda-dan-pemarkah-transisi-wacana -->
+
+## Pemarkah Wacana dan Kata Penanda Transisi Topik
+
+Saat mengajar di depan kelas, seorang guru tidak hanya menyampaikan materi, tetapi juga mengatur lalu lintas percakapan. Dalam wacana pedagogi, peralihan dari satu materi ke materi berikutnya memerlukan alat navigasi verbal yang jelas. Alat navigasi ini dikenal sebagai **pemarkah wacana** (*discourse markers*) atau kata penanda transisi topik. Kata-kata sederhana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, hingga *eh* memegang peran sentral dalam memberi tahu siswa kapan suatu subtopik berakhir dan kapan fokus baru dimulai.
+
+Tanpa pemarkah wacana yang tepat, alur pelajaran akan terasa membingungkan bagi siswa. Pemarkah wacana berfungsi sebagai petunjuk arah verbal yang menjaga agar siswa tetap berada dalam jalur pemikiran yang sama dengan guru.
+
+> **Definisi Konseptual:**
+> Pemarkah wacana merupakan kata atau frasa yang tidak selalu menambah isi proposisional kalimat, tetapi berfungsi mengatur alur interaksi, menandai pembukaan atau penutupan topik, serta mengarahkan perhatian penutur dan mitra tutur dalam wacana.
+
+---
+
+### Fungsi Utama Pemarkah Wacana dalam Wacana Kelas
+
+Dalam interaksi kelas di sekolah dasar, guru menggunakan berbagai variasi pemarkah wacana untuk mengendalikan dinamika belajar. Berikut adalah beberapa kategori pemarkah wacana yang sering muncul beserta perannya:
+
+1. **Pemarkah Pemulai dan Pengalihan Fokus (*Sekarang*, *Baik*, *Nah*)**  
+   Kata-kata ini digunakan untuk menarik perhatian seluruh kelas secara serentak sebelum guru memulai instruksi atau tugas baru.
+
+2. **Pemarkah Instruksi dan Ajak Bertindak (*Coba*, *Yuk*)**  
+   Digunakan ketika guru meminta siswa melakukan aksi fisik atau mental secara langsung, seperti membaca, menulis, atau menyanyi.
+
+3. **Pemarkah Jeda Kebahasaan dan Formulasi Pikiran (*Eh...*)**  
+   Kata ini sering diucapkan saat guru membutuhkan jeda beberapa detik untuk memikirkan langkah instruksional selanjutnya atau membenahi fokus perhatian siswa.
+
+4. **Pemarkah Sekuensial dan Penyambung Ide (*Kemudian*, *Jadi*)**  
+   Berfungsi menunjukkan bahwa informasi yang baru saja disampaikan memiliki keterkaitan langsung dengan topik yang dibahas sebelumnya.
+
+5. **Pemarkah Sapaan Emosional (*Anak-anakku sekalian*)**  
+   Kata sapaan yang disisipkan di awal atau tengah interaksi untuk membangun kehangatan dan menegaskan kembali batasan topik utama.
+
+---
+
+### Analisis Kasus Penggunaan Pemarkah Transisi dalam Pembelajaran
+
+Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati beberapa contoh transisi wacana dalam pengajaran Sekolah Dasar di bawah ini.
+
+#### 1. Penggunaan Kata *Baik* dan *Sekarang* untuk Transisi Tugas
+Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa dari diskusi bebas ke penyusunan struktur kalimat.
+
+| Gerakan | Pemeran | Penutur | Ujaran Verbal | Fungsi Wacana |
+| :--- | :--- | :--- | :--- | :--- |
+| Pemulai | Perintah | Guru (G) | "Baik, baik sekarang Bapak akan buat satu kalimat. Ini-buku-bahasa-Indonesia." | Pemarkah awal transisi ke tugas pembuatan kalimat tanya. |
+| Respons | Pertanyaan | Guru (G) | "Apa buku itu?" | Memberikan contoh pertanyaan untuk memicu latihan. |
+| Komen | Respons | Siswa (S) | "Apa-buku-i__ Tuu." | Siswa merespons contoh kalimat yang diberikan. |
+| Komen | Respons | Guru (G) | "Itu." | Penegasan pelafalan oleh guru. |
+
+Penggunaan kata *baik* yang diulang mengisyaratkan kepada siswa bahwa fase instruksi awal telah selesai dan fase latihan terstruktur siap dimulai.
+
+#### 2. Kata *Eh...* sebagai Pemarkah Jeda Berpikir dan Pengalihan Perhatian
+Penggunaan kata *eh...* sering ditemui ketika guru menghentikan alur pembicaraan sejenak guna mengatur langkah pengajaran berikutnya.
+
+> **Kutipan Transkripsi Kelas:**  
+> **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu."  
+> **Guru:** "Eh... membaca jangan asal dibaca. Selesai bacaan beres. Tetapi kalau kita membaca, harus ada yang kita pahami. Membaca itu untuk apa sih gunanya?"
+
+Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua hal:
+- Pengalihan kegiatan dari penjelasan lisan menuju pembagian lembar kerja siswa.
+- Penegasan kembali agar siswa tidak hanya membaca teks secara mekanis, melainkan memahami makna bacaan tersebut.
+
+#### 3. Kata Sapaan dan Pemarkah Sekuensial (*Anak-anakku sekalian* dan *Kemudian*)
+Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sambungan yang tidak terpisahkan dari bahasan sebelumnya.
+
+```
+[Guru]: "Anak-anakku sekalian, hari ini kita belajar Bahasa Indonesia tentang komunikasi. Kalian tahu arti komunikasi?"
+[Siswa]: "Arti komunikasi adalah hubu__ngaan."
+[Guru]: "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"
+[Siswa]: "Alat!"
+```
+
+Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri hubungan sebab-akibat atau alat bantu komunikasi tanpa keluar dari topik utama.
+
+#### 4. Kata *Kalau Begitu* (*Kalo Gitu*) sebagai Transisi Kegiatan
+Ketika guru ingin mencairkan suasana atau mengalihkan sesi teori ke kegiatan relaksasi, kata *kalau begitu* berfungsi sebagai pembuka aktivitas baru.
+
+> **Transkripsi Transisi:**  
+> **Guru:** "Kalo gitu kita nyanyi yuk! Kelinciku, kelinciku kau manis sekali..."  
+> **Siswa & Guru:** (Bernyanyi bersama)  
+> **Guru:** "Iya, bagus ya."
+
+Kata *kalau begitu* menjadi simpul yang menghubungkan evaluasi cerita pendek dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
+
+---
+
+### Ringkasan Pemarkah Wacana dan Fungsi Komunikatifnya
+
+Tabel berikut merangkum berbagai pemarkah wacana yang dipraktikkan guru beserta dampak komunikasi yang dihasilkan di dalam kelas:
+
+| Pemarkah Wacana | Kategori Transisi | Posisi dalam Interaksi | Fungsi Utama dan Dampak Komunikatif |
+| :--- | :--- | :--- | :--- |
+| **Ya / Nah** | Konfirmatif & Pemulai | Awal gerakan / pertukaran | Menegaskan kesiapan kelas dan mengawali penjelasan baru. |
+| **Sekarang / Baik** | Pengalihan Fokus | Awal instruksi tugas | Menandai perpindahan dari diskusi umum ke latihan spesifik. |
+| **Jadi** | Menyimpulkan | Akhir subtopik | Merangkum ide-ide utama sebelum melanjutkan ke topik berikut. |
+| **Coba / Yuk** | Ajak Bertindak | Awal aktivitas siswa | Mendorong siswa melakukan aksi fisik atau latihan lisan secara spontan. |
+| **Eh...** | Jeda Kognitif | Tengah penjelasan | Memberi waktu bagi guru untuk menyusun kalimat dan memusatkan perhatian siswa. |
+| **Kemudian** | Sekuensial Logis | Tengah pertukaran | Menyambung ide baru dengan topik yang sedang berlangsung secara runut. |
+| **Kalau Begitu** | Transisi Kegiatan | Pengujung subtopik | Membuka aktivitas variatif (seperti bernyanyi atau permainan) sebagai selingan. |
+
+---
+
+### Implikasi Pedagogis bagi Pengelolaan Interaksi Kelas
+
+Pemahaman terhadap pemarkah wacana memberikan wawasan penting bagi kamu yang ingin mendalami analisis wacana kelas:
+
+1. **Kejelasan Batas Topik**  
+   Penggunaan kata penanda yang konsisten membantu siswa mengidentifikasi kapan sebuah topik dimulai, dikembangkan, dan diakhiri. Hal ini menurunkan tingkat kebingungan siswa dalam mengikuti alur pelajaran.
+
+2. **Pengaturan Ritme Belajar**  
+   Pemarkah seperti *eh...* atau *baik* memberi jeda napas dalam interaksi, memungkinkan siswa memproses informasi sebelum menerima perintah berikutnya.
+
+3. **Dominasi dan Kontrol Kognitif Guru**  
+   Hampir seluruh pemarkah wacana transisi dikuasai oleh guru. Hal ini menunjukkan bahwa guru memegang kendali penuh atas kapan topik harus berganti dan ke mana arah pembicaraan dikembangkan.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 8
+
+Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antar-topik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
+
+Jawablah pertanyaan refleksi berikut untuk menguji pemahaman kamu:
+
+1. **Refleksi Utama**: Menurut kamu, bagaimana penggunaan pemarkah wacana yang tepat oleh guru dapat membantu siswa sekolah dasar memahami perpindahan antar-materi secara lebih efektif?
+2. **Penerapan Praktis**: Jika kamu mengamati sebuah kelas dan menemukan guru terlalu sering menggunakan pemarkah jeda seperti *eh...*, apa dampaknya terhadap konsentrasi siswa dan bagaimana saran perbaikannya?
+
+<!-- Chapter: 09_pengabaian-respons-siswa-oleh-guru -->
+
+## Pengabaian Respons Siswa dan Dominasi Komunikasi Guru
+
+Ketika berada di dalam kelas sekolah dasar, pernahkah kamu memperhatikan bagaimana seorang guru mengajukan pertanyaan bertubi-tubi tanpa sempat mengulas jawaban yang diberikan oleh murid-muridnya? Dalam wacana pedagogi, fenomena ini dikenal sebagai pengendalian topik melalui pengabaian respons. Guru memegang kendali atas alur percakapan tanpa melarang siswa berbicara, yaitu dengan membiarkan jawaban siswa berlalu begitu saja tanpa tanggapan, pujian, maupun konfirmasi.
+
+Pengabaian respons ini menciptakan dinamika komunikasi yang berat sebelah. Meskipun kelas terlihat ramai oleh interaksi tanya-jawab, sejatinya pembicaraan tersebut digerakkan oleh agenda tunggal guru. Siswa hanya diposisikan sebagai pemenuh instruksi singkat, sementara penguasaan arah wacana berada sepenuhnya di tangan pengajar.
+
+---
+
+### Mekanisme Pengabaian Respons dalam Struktur Interaksi
+
+Dalam kajian struktur wacana kelas, pola umum yang sering ditemukan adalah alur tiga tahap: Pemulaan (Initiation), Respons (Response), dan Umpan Balik (Feedback) atau yang sering disingkat pola IRF. Pada interaksi yang sehat, tahap umpan balik menjadi ruang bagi guru untuk memberikan dorongan, memvalidasi kebenaran informasi, atau memperluas gagasan yang disampaikan oleh siswa.
+
+Namun, ketika guru menerapkan strategi pengabaian respons, tahap umpan balik ini sengaja dipotong. Pola interaksi bergeser menjadi Pemulaan-Respons-Pemulaan (IRI). Guru langsung melompat ke pertanyaan atau perintah baru segera setelah siswa selesai mengujarkan jawaban.
+
+> **Catatan Reflektif:**
+> Tanpa adanya umpan balik atau penguatan (reinforcement), respons siswa hanyalah batu loncatan mekanis bagi guru untuk berpindah ke topik berikutnya. Interaksi kelas pun berubah menjadi pemeriksaan hafalan singkat dan kehilangan kedalaman dialog pembelajaran.
+
+Beberapa ciri utama dari pola pengabaian respons ini meliputi:
+* **Absensinya konfirmasi:** Guru tidak menyatakan apakah jawaban siswa benar atau salah.
+* **Tanpa penguatan positif:** Tidak ada kata pujian seperti "bagus", "tepat sekali", atau sekadar anggukan kepala yang menandakan apresiasi.
+* **Pengalihan topik secara mendadak:** Ujaran guru berikutnya langsung memperkenalkan konsep baru atau menanyakan hal lain yang tidak berkaitan langsung dengan dinamika berpikir siswa sebelumnya.
+
+---
+
+### Analisis Transkrip Wacana: Pelajaran "Menanam Ubi Kayu"
+
+Untuk memahami bagaimana pengabaian respons berlangsung secara nyata di ruang kelas, mari kita cermati kutipan transkrip wacana interaksi antara guru (G) dan siswa (S) dalam pelajaran membaca dan pemahaman teks bertema "Menanam Ubi Kayu" berikut.
+
+| No. Gerakan | Pemeran | Peran Wacana | Ujaran Guru / Siswa | Catatan Analisis Wacana |
+| :---: | :---: | :---: | :--- | :--- |
+| **147-149** | G | Pemulai | "Coba, di mana ubi kayu ini ditanam? Coba kamu lihat gambarnya! Di mana pak tani menanam?" | Guru membuka topik pertanyaan berbasis media gambar. |
+| **150** | S | Respons | "Di sawaaah." | Siswa memberikan jawaban langsung sesuai pengamatan. |
+| **151** | G | Pemulai | "Di sana ada perhubungan, tidak?" | **Pengabaian 1:** Guru tidak memvalidasi jawaban "Di sawah", melainkan langsung beralih ke pertanyaan baru. |
+| **152** | S | Respons | "Adaaa." | Siswa menjawab pertanyaan kedua guru. |
+| **153-155**| G | Pemulai | "Udah gitu agar hasil lebih baik, menanam ubi kayu bagaimana caranya hayo? Ngomong!" | **Pengabaian 2:** Guru mengabaikan respons "Ada", lalu menanyakan prosedur menanam ubi kayu dengan nada mendesak. |
+| **156** | S | Respons | "Dengan cara yang cukup sederhana." | Siswa menjawab berdasarkan ingatan teks. |
+| **157-158**| G | Pemulai | "Dengan cara yang cukup sederhana yang bagaimana? Masih ingat, ga?" | Guru meminta klarifikasi atas jawaban siswa. |
+| **159** | S | Respons | "Masih, dengan cara..." | Siswa berusaha menjelaskan alur penanaman. |
+| **160** | G | Pemulai | "Jaraknya berapa?" | **Pengabaian 3:** Sebelum penjelasan siswa tuntas atau diulas, guru memotong dengan pertanyaan teknis baru. |
+| **161** | S | Respons | "Setengah meter." | Siswa memberikan jawaban singkat penutup. |
+
+*(Dikutip dan diolah dari Kutipan Teks 7, Menanam Ubi Kayu)*
+
+Jika kamu memperhatikan deretan gerakan di atas, khususnya pada gerakan [151], [153], dan [160], terlihat jelas bagaimana guru bertindak sebagai pengendali topik yang dominan. Jawaban siswa pada gerakan [150] ("Di sawaaah") tidak mendapatkan penegasan apakah ubi kayu memang ditanam di sawah atau di ladang. Guru langsung meloncat menanyakan hal lain pada gerakan [151].
+
+Demikian pula ketika siswa menjawab "Setengah meter" pada gerakan [161], interaksi tidak dilanjutkan dengan diskusi mengapa jarak setengah meter itu penting, melainkan sekadar menuntaskan daftar pertanyaan yang ada di pikiran guru.
+
+---
+
+### Implikasi Komunikatif dan Psikologis di Kelas Sekolah Dasar
+
+Pola komunikasi yang diwarnai pengabaian respons ini membawa pengaruh yang cukup besar terhadap iklim belajar di kelas SD. Anak-anak usia sekolah dasar berada dalam fase perkembangan yang membutuhkan dorongan serta pengakuan atas partisipasi mereka.
+
+> **Refleksi Dominasi Guru:**
+> Ketika jawaban siswa selalu dilewati tanpa tanggapan, pesan tersirat yang diterima siswa adalah bahwa pikiran mereka tidak memiliki nilai substantif bagi guru. Kelas memang tampak aktif berujar, tetapi sesungguhnya sedang mengalami kekeringan interaksi yang bermakna.
+
+Berikut adalah dua implikasi utama dari praktik pengabaian respons ini:
+
+#### 1. Implikasi Komunikatif
+* **Terbentuknya Monolog Berkedok Dialog:** Pembicaraan di kelas seolah-olah melibatkan dua pihak, tetapi pada hakikatnya merupakan monolog guru yang dipotong-potong oleh respons singkat anak didik.
+* **Pola Jawab Pendek dan Pasif:** Siswa terbiasa memberikan jawaban serba singkat (satu atau dua kata) karena mereka tahu guru tidak akan mengajak mereka berdiskusi lebih jauh.
+* **Hilangnya Inisiatif Bertanya:** Karena alur perbincangan sepenuhnya dikuasai guru, siswa kehilangan ruang untuk mengajukan pertanyaan balik atau membagikan gagasan spontan.
+
+#### 2. Implikasi Psikologis
+* **Penurunan Rasa Percaya Diri:** Siswa yang jawabannya terus-menerus diabaikan dapat merasa ragu apakah pemahaman mereka sudah benar atau belum.
+* **Melemahnya Motivasi Berpartisipasi:** Anak cenderung memilih diam atau sekadar menjawab jika ditunjuk, sebab mereka tidak merasakan kepuasan emosional dalam berkomunikasi dengan guru.
+* **Persepsi Belajar sebagai Beban Transaksional:** Aktivitas belajar dipersepsikan sebatas menyelesaikan pertanyaan guru, alih-alih menjelajahi pengetahuan secara bersama-sama.
+
+---
+
+### Strategi Mengubah Dominasi Menjadi Dialog Inklusif
+
+Sebagai calon pendidik atau praktisi pendidikan, kamu dapat menerapkan beberapa langkah sederhana untuk menghindari perangkap pengabaian respons ini:
+
+1. **Gunakan Teknik *Wait Time* (Waktu Tunggu):** Berikan jeda 3-5 detik setelah siswa menjawab. Jeda ini memberi kesempatan bagi kamu untuk mencerna jawaban siswa dan memberi ruang bagi siswa lain untuk menanggapi.
+2. **Berikan Umpan Balik Spesifik:** Hindari langsung bertanya hal baru. Katakan setidaknya konfirmasi sederhana seperti, "Ya, benar sekali, ubi kayu membutuhkan jarak tanam yang cukup agar akarnya bisa berkembang."
+3. **Lakukan *Probing* (Galian Mendalam):** Daripada mengganti topik, galilah pemikiran siswa lebih jauh dengan pertanyaan lanjutan seperti, "Mengapa kamu berpikir demikian?" atau "Bagaimana kalau jaraknya terlalu dekat?"
+4. **Libatkan Siswa Lain:** Lemparkan jawaban seorang siswa kepada teman-temannya. Misalnya, "Teman-teman, Budi bilang jaraknya setengah meter. Ada yang punya pendapat lain?"
+
+Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons siswa, kamu dapat membangun suasana kelas sekolah dasar yang lebih hidup, di mana setiap anak merasa didengar dan dihargai gagasannya.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 9
+
+#### Rangkuman
+1. Pengabaian respons siswa merupakan salah satu bentuk pengendalian topik oleh guru dengan cara membiarkan jawaban siswa berlalu tanpa evaluasi, pujian, atau konfirmasi.
+2. Pola interaksi yang terbentuk memotong tahap umpan balik (Feedback) sehingga menggeser pola IRF menjadi alur pembicaraan yang kaku dan didominasi oleh instruksi guru.
+3. Dampak dari pengabaian ini mencakup pasivitas komunikasi siswa, jawaban yang cenderung serba pendek, serta menurunnya kebiasaan dan keberanian anak dalam mengungkapkan pendapat di kelas.
+
+#### Pertanyaan Refleksi
+1. Menurut pengamatanmu, apakah bentuk interaksi yang diwarnai pengabaian respons ini masih sering ditemui dalam praktik pembelajaran di sekolah dasar saat ini?
+2. Bagaimana kamu sebagai seorang guru menyusun strategi komunikasi agar setiap jawaban siswa dapat dijadikan pijakan untuk memperdalam topik pembelajaran tanpa membuat durasi kelas terbuang sia-sia?
+
+<!-- Chapter: 10_perlakuan-dan-penguatan-respons-siswa -->
+
+## Perlakuan dan Penguatan (Reinforcement) Respons Siswa
+
+Dalam struktur interaksi kelas, setiap jawaban yang disampaikan oleh siswa tidak berdiri sendiri. Jawaban tersebut memerlukan umpan balik atau tanggapan dari guru. Langkah ini dikenal sebagai *Follow-up move* atau *Feedback move* dalam alur interaksi IRF (*Initiate - Respond - Follow-up*). Melalui langkah ini, guru menetapkan perlakuan dan penguatan (*reinforcement*) terhadap respons siswa, yang sekaligus berfungsi sebagai alat untuk mengendalikan jalannya percakapan dan arah topik pelajaran.
+
+Ketika kamu mengamati suasana pembelajaran di sekolah dasar, perlakuan respons ini memegang peranan penting. Guru tidak hanya menentukan apakah suatu jawaban benar atau salah, tetapi juga mengarahkan kapan suatu topik percakapan dianggap selesai dan kapan topik baru dimulai.
+
+---
+
+### Bentuk-Bentuk Penguatan Respons Siswa
+
+Dalam wacana pedagogi sekolah dasar, perlakuan dan penguatan terhadap respons siswa secara umum terbagi menjadi dua bentuk utama, yaitu pemberian pujian dan pengulangan jawaban siswa.
+
+| Bentuk Penguatan | Bentuk Ujaran / Tindakan | Fungsi Wacana Utama | Dampak Terhadap Siswa |
+| :--- | :--- | :--- | :--- |
+| **Pujian (Verbal & Nonverbal)** | Ujaran seperti *"Bagus"*, *"Pintar"*, *"Betul"*, *"Terima kasih"*, atau tindakan tepuk tangan. | Memberikan pengakuan (*recognition*), mengonfirmasi kebenaran jawaban, dan menutup pertukaran topik. | Meningkatkan rasa percaya diri siswa dan memvalidasi kontribusi mereka dalam diskusi. |
+| **Pengulangan Jawaban (Repetisi)** | Mengulang kata atau frasa yang baru saja diucapkan oleh siswa. | Memperjelas jawaban bagi seluruh kelas, menegaskan poin penting, serta menandai transisi ke pertanyaan berikutnya. | Membantu siswa lain mendengar jawaban dengan jelas dan memberikan rasa kepastian. |
+
+---
+
+### Analisis Wacana: Otoritas dan Pengendalian Topik oleh Guru
+
+Pemberian umpan balik oleh guru mencerminkan bentuk otoritas dan dominasi guru dalam percakapan kelas. Guru memiliki wewenang penuh untuk memilih bentuk respons yang akan diberikan, apakah akan memuji, mengulang jawaban, atau justru mengabaikannya.
+
+#### 1. Pujian sebagai Penanda Penutup Topik
+Meski frekuensi pemberian pujian dalam interaksi kelas terkadang tergolong sedikit (sekitar 2% dari total alur percakapan), kehadiran pujian memiliki bobot pedagogis yang besar. Sinclair dan Coulthard (1975) menegaskan bahwa komentar guru sebagai tindak lanjut (*follow-up*) sangat dibutuhkan agar siswa merasa dihargai. Ketika guru mengucapkan kata *"Bagus"* atau *"Pintar"*, tindakan ini tidak hanya memvalidasi siswa, tetapi juga berfungsi sebagai sinyal bahwa bahasan pada poin tersebut telah tuntas.
+
+#### 2. Pengulangan Jawaban sebagai Penjelas dan Pembatas
+Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan wacana kelas) sebelum melangkah ke pertanyaan berikutnya. Repetisi ini memiliki fungsi ganda:
+* **Fungsi Audibilitas:** Memastikan jawaban siswa yang mungkin terdengar pelan dapat didengar oleh seluruh siswa di kelas.
+* **Fungsi Struktur Percakapan:** Menjadi penanda batas (*boundary marker*) yang menegaskan bahwa respons siswa telah diterima secara resmi oleh guru, sehingga percakapan siap berpindah ke topik baru.
+
+---
+
+### Ilustrasi Transkrip Percakapan dan Pembahasan
+
+Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, perhatikan contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
+
+#### Contoh 1: Penguatan Berupa Pujian Verbal
+
+| Pertukaran | Gerakan (*Move*) | Penutur | Ujaran / Tindakan |
+| :---: | :--- | :---: | :--- |
+| 1 | Pemulai (*Initiating*) | G | *"Siapa yang tahu apa fungsi daun pada tumbuhan?"* |
+| 1 | Respons (*Responding*) | S1 | *"Untuk membuat makanan, Bu."* |
+| 1 | Umpan Balik (*Follow-up*) | G | *"Bagus! Tepat sekali."* |
+| 2 | Pemulai (*Initiating*) | G | *"Nah, sekarang siapa yang tahu proses pembuatan makanan itu disebut apa?"* |
+
+Pada contoh di atas, ujaran *"Bagus! Tepat sekali"* pada pertukaran 1 berfungsi sebagai penguatan positif sekaligus penutup (*evaluative move*). Begitu penguatan diberikan, guru langsung mengambil alih giliran bicara (*turn-taking*) untuk memulai topik turunan pada pertukaran 2.
+
+#### Contoh 2: Perlakuan Respons Melalui Pengulangan Jawaban
+
+| Pertukaran | Gerakan (*Move*) | Penutur | Ujaran / Tindakan |
+| :---: | :--- | :---: | :--- |
+| 1 | Pemulai (*Initiating*) | G | *"Sebutkan salah satu contoh hewan herbivora!"* |
+| 1 | Respons (*Responding*) | S2 | *(Menjawab lirih)* *"Kambing..."* |
+| 1 | Umpan Balik (*Follow-up*) | G | *"Kambing. Ya, betul kambing."* |
+| 2 | Pemulai (*Initiating*) | G | *"Selain kambing, hewan apa lagi yang makan rumput?"* |
+
+Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh kelas mendengar jawaban S2 dengan tegas. Pengulangan tersebut menutup pertukaran pertama dan membuka kesempatan untuk pertanyaan berikutnya.
+
+---
+
+> ### Panduan Pedagogis: Mengoptimalkan Penguatan Respons
+>
+> 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
+> 2. **Berikan Umpan Balik Spesifik:** Hindari hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
+> 3. **Gunakan Repetisi Secara Efektif:** Ulangi jawaban siswa untuk menegaskan konsep kunci, namun berikan pula kesempatan bagi siswa lain untuk menanggapi jawaban temannya agar interaksi tidak selalu berpusat pada guru.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 10
+1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
+2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab mefasilitasi partisipasi aktif siswa?
+
+<!-- Chapter: 11_implikasi-pedagogis-dan-dominasi-wacana-kelas -->
+
+## Implikasi Pedagogis dan Transformasi Wacana Kelas
+
+Temuan empiris dalam wacana pedagogi sekolah dasar memperlihatkan ketimpangan yang amat nyata. Guru memegang kendali topik hingga 99%, sementara siswa hanya memiliki porsi 1% dalam mengarahkan pembicaraan. Pola dominatif ini tercermin dari kebiasaan guru yang mengulang jawaban siswa secara mekanis, memberikan umpan balik yang mengambang, serta minimnya penguatan positif berupa pujian.
+
+Jika pola ini terus dibiarkan, kelas hanya menjadi panggung tunggal bagi guru. Siswa terbiasa menjadi pendengar pasif yang enggan mengajukan gagasan baru. Oleh karena itu, diperlukan langkah nyata untuk mengubah pola interaksi kaku ini menuju wacana kelas yang dialogis dan memberdayakan.
+
+### Realitas Masalah Komunikasi di Kelas
+
+Berdasarkan analisis interaksi pembelajaran, ada tiga kendala utama dalam wacana kelas konvensional:
+
+1. **Pengulangan Mekanis tanpa Clarification**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antar-topik, bukan untuk memperdalam pemahaman.
+2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkan tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.
+3. **Minimnya Penguatan Positif**: Porsi pengungkapan apresiasi atau pujian amat rendah (sekitar 2%). Padahal, anak usia sekolah dasar membutuhkan validasi emosional dan kognitif agar percaya diri dalam berpendapat.
+
+> **Catatan Pedagogis**: Pengendalian topik di dalam kelas hendaknya tidak dijadikan alat penundukan ruang bicara anak, melainkan jembatan untuk menuntun siswa bernalar secara mandiri.
+
+### Mengubah Pola Interaksi Kelas
+
+Untuk menghadirkan perubahan yang nyata, kamu dapat membandingkan dua pendekatan interaksi berikut dan mempraktikkannya di kelas:
+
+| Aspek Interaksi | Pola Konvensional (Teacher-Centered) | Pola Transformatif (Student-Centered) |
+| :--- | :--- | :--- |
+| **Inisiasi Topik** | Didominasi penuh oleh guru lewat pertanyaan tertutup. | Dibuka bersama lewat pertanyaan pemantik dan respons atas gagasan siswa. |
+| **Pola Pertukaran** | Struktur kaku IRF (Initiation - Response - Feedback). | Diskusi terbuka multi-arah antar-siswa. |
+| **Respons atas Jawaban** | Pengulangan kata secara harfiah tanpa pembobotan. | Elaborasi jawaban, pengujian alasan, dan dorongan eksplorasi lebih lanjut. |
+| **Penanganan Kesalahan** | Dibiarkan menggantung atau langsung disalahkan tanpa dialog. | Dijadikan bahan diskusi bersama untuk menemukan pemahaman yang tepat. |
+| **Pemberian Pujian** | Sangat jarang, fokus pada penyelesaian materi. | Konsisten dan spesifik atas keberanian bernalar siswa. |
+
+### Panduan Praktis bagi Pendidik
+
+Sebagai pendidik, kamu bisa menerapkan empat langkah konkret ini untuk menggeser pola wacana di kelas:
+
+#### 1. Ubah Pengulangan Pasif Menjadi Umpan Balik Elaboratif
+Saat siswa menjawab suatu pertanyaan, hindari mengulang kata tersebut begitu saja. Gunakan teknik bertanya susulan seperti: *"Mengapa kamu berpikir demikian?"* atau *"Bagaimana kamu bisa sampai pada kesimpulan itu?"*. Cara ini memaksa anak untuk mengurai jalan pikirannya.
+
+#### 2. Berikan Konfirmasi Konsep yang Jelas
+Apabila muncul beragam jawaban dari beberapa siswa, jangan biarkan percakapan berlalu tanpa kejelasan. Fasilitasi siswa untuk membandingkan jawaban-jawaban tersebut hingga menemukan bukti yang tepat, bukan membiarkan mereka bingung dengan jawaban yang saling kontradiktif.
+
+#### 3. Apresiasi Proses Bernalar Siswa
+Berikan penguatan positif yang jelas. Pujian tidak perlu berlebihan, namun harus spesifik pada usaha dan penalaran anak. Ucapan seperti *"Pengamatan yang sangat teliti!"* memberikan dampak psikologis yang jauh lebih kuat dibanding sekadar mengulang jawaban anak.
+
+#### 4. Buka Ruang bagi Siswa untuk Mengarahkan Topik
+Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran. Biarkan rasa ingin tahu mereka membuka sub-topik baru yang relevan dengan materi, sehingga rasio pengendalian topik tidak lagi sepenuhnya milik guru.
+
+> **Prinsip Utama**: Pembelajaran yang hidup dibangun atas keberanian siswa untuk bertanya dan berpendapat, bukan ketundukan mereka pada alur bicara guru.
+
+---
+
+### Rangkuman & Pertanyaan Refleksi 11
+
+1. **Refleksi Utama**: Setelah mempelajari temuan dominasi wacana ini, bagaimana kamu menilai suasana pembicaraan di kelasmu sendiri selama ini?
+2. **Penerapan Praktis**: Langkah kecil apa yang akan kamu ambil besok pagi untuk memberikan porsi ruang bicara yang lebih besar bagi siswamu?
+
+<!-- Chapter: 12_referensi-dan-daftar-pustaka-akademik -->
+
+## Referensi Akademik dan Sumber Pustaka Terpilih
+
+Bab ini menyajikan sintesis akhir dari keseluruhan pembahasan mengenai sistem pengendalian topik dalam wacana pedagogi di sekolah dasar, sekaligus menghimpun rujukan akademik utama yang menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
+
+### Sintesis Akhir: Struktur dan Pengendalian Wacana Kelas SD
+
+Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hirarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hirarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
+
+Beberapa temuan utama yang merangkum keseluruhan isi monograf ini meliputi:
+
+1. **Dominasi Guru dalam Pengajuan Topik**: Guru bertindak sebagai pemegang kendali utama topik perbincangan. Pengendalian ini dilakukan melalui pertanyaan tertutup maupun pernyataan awal yang mengarahkan fokus perhatian seluruh siswa.
+2. **Penggunaan Pemarkah Wacana**: Pengeluaran kata-kata penanda transisi seperti *ya*, *nah*, *jadi*, *baik*, *coba*, dan *kalau begitu* menjadi alat kebahasaan utama bagi guru untuk membuka, mengalihkan, atau menutup topik pembelajaran.
+3. **Pola Pertanyaan dan Respons Terbatas**: Tingginya frekuensi pertanyaan tertutup yang tidak langsung direspons atau hanya dijawab secara singkat oleh siswa memperlihatkan bahwa pola interaksi masih cenderung satu arah.
+4. **Minimnya Penguatan dan Inisiatif Siswa**: Penguatan terhadap tanggapan siswa masih relatif rendah, sehingga ruang bagi siswa untuk mengambil inisiatif perbincangan atau mengajukan topik baru menjadi terbatas.
+
+### Implikasi Pedagogis dan Arah Pembaharuan Pembelajaran
+
+Temuan di atas menggarisbawahi adanya kesenjangan antara praktik interaksi kelas yang masih berpusat pada guru dengan semangat kurikulum modern yang menempatkan siswa sebagai pusat pembelajaran. Untuk menciptakan suasana belajar yang lebih interaktif dan memberdayakan, beberapa langkah pembaruan wacana pedagogi perlu diterapkan:
+
+- **Mengubah Pola Pertanyaan**: Guru hendaknya mengurangi pertanyaan tertutup yang hanya menguji ingatan hafalan, dan mulai memperbanyak pertanyaan terbuka yang memicu pemikiran kritis serta eksplorasi gagasan.
+- **Memberikan Waktu Tunggu (*Wait Time*)**: Memberikan jeda waktu yang cukup setelah mengajukan pertanyaan memberi kesempatan kepada siswa untuk menyusun tanggapan yang lebih mendalam.
+- **Mengakomodasi Inisiatif Siswa**: Tanggapan dan pertanyaan yang muncul dari siswa perlu diterima serta dijadikan batu pijakan untuk mengembangkan bahasan kelas lebih lanjut, bukan diabaikan atau dengan cepat diputus.
+- **Mendorong Pembelajaran Dialogis**: Interaksi di kelas seyogianya digeser dari bentuk pengujian kaku menuju dialog konstruktif tempat guru dan siswa bersama-sama membangun pengetahuan.
+
+### Ringkasan Penutup Monograf
+
+> **Catatan Penutup**:
+> Pengendalian topik dalam wacana kelas tidak hanya menyangkut kelancaran tata tertib pembelajaran, tetapi juga mencerminkan relasi sosial dan kesempatan belajar yang diberikan kepada peserta didik. Dengan menyadari pola-pola tutur yang selama ini digunakan, para pendidik dapat membuka ruang komunikasi yang lebih ramah, inklusif, dan responsif terhadap potensi siswa. Diharapkan kajian ini memberikan sumbangan nyata bagi pengembangan linguistik terapan dan peningkatan mutu pembelajaran Bahasa Indonesia di sekolah dasar.
+
+### Pertanyaan Refleksi dan Diskusi Akhir
+
+Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari monograf ini dalam praktik nyata, kamu dapat mendiskusikan pertanyaan refleksi berikut:
+
+1. **Refleksi Struktur Interaksi**: Bagaimana kamu menilai keseimbangan antara pola alih tutur yang dikuasai guru dan partisipasi mandiri siswa di kelas yang kamu amati?
+2. **Evaluasi Strategi Kebahasaan**: Kata penanda wacana apa saja yang paling sering kamu gunakan atau temukan di kelas, dan bagaimana pengaruhnya terhadap kelancaran transisi topik?
+3. **Rencana Pembaruan Pedagogis**: Langkah konkret apa yang dapat kamu lakukan untuk merancang pertukaran dialogis yang memberikan ruang lebih besar bagi siswa dalam menginisiasi topik pembelajaran?
+
+### Daftar Pustaka Akademik (APA Style 7th Edition)
+
+Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan monograf ini, disusun sesuai standar APA Style Edisi Ke-7:
+
+- Aman, I. (2005). Analisis wacana pedagogi bahasa Melayu di sekolah. Dalam L. S. Kim, T. S. Ming, H. Burhanudeen, & L. K. Siong (Penyunting), *Papers Language Studies and Linguistics: A Malaysian Perspective* (hlm. 45-60). Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia.
+- Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (Edisi ke-2). Heinemann.
+- Coulthard, M., & Brazil, D. (1989). Exchange structure. Dalam M. Coulthard & M. Montgomery (Penyunting), *Studies in discourse analysis* (hlm. 82-106). Routledge.
+- Fairclough, N. (1995). *Critical discourse analysis: The critical study of language*. Longman.
+- Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education.
+- Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge.
+- Fairclough, N. (2006). *Discourse and social change*. Polity Press.
+- Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 58-74. [https://doi.org/10.21009/AKSIS.010105](https://doi.org/10.21009/AKSIS.010105)
+- McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press.
+- Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [https://doi.org/10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)
+- Mercer, N. (1995). *The guided construction of knowledge: Talk amongst teachers and learners*. Multilingual Matters.
+- Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
+- Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
+- van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
+  '2026-07-20T04:19:28.382Z',
+  '2026-07-20T04:19:28.382Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
