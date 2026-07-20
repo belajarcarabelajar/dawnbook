@@ -300,13 +300,14 @@ h1, h2, h3, .logo {
 .donate-grid {
   display: grid;
   grid-template-columns: 1fr;
-  gap: var(--spacing-lg);
+  gap: var(--spacing-xl);
   align-items: start;
 }
 
 @media (min-width: 768px) {
   .donate-grid {
     grid-template-columns: 1fr 1fr;
+    gap: var(--spacing-lg);
   }
 }
 
