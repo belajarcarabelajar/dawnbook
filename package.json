@@ -7,7 +7,7 @@
     "test:audit": "bun test"
   },
   "dependencies": {
-    "wrangler": "^4.103.0"
+    "wrangler": "^4.112.0"
   },
   "devDependencies": {
     "@types/bun": "1.2.2",
