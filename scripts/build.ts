@@ -550,18 +550,23 @@ async function generateSitePages(
           return btn;
         }
 
-        function createUserPill(container) {
+        function createUserPill(container, showName) {
           var wrap = document.createElement('div');
           wrap.style.cssText = 'position:relative;display:inline-block;';
 
           var btn = document.createElement('button');
           btn.type = 'button';
-          btn.style.cssText = 'display:inline-flex;align-items:center;gap:0.5rem;height:32px;padding:0 10px;border-radius:16px;border:1px solid var(--color-secondary);background:transparent;color:var(--color-text);cursor:pointer;font:inherit;font-size:0.85rem;font-weight:600;';
+          // Mobile (showName=false) renders an icon-only avatar button so the
+          // header row keeps room for the "Dawnbook" logo. Desktop keeps the
+          // pill with the user's full name.
+          btn.style.cssText = showName
+            ? 'display:inline-flex;align-items:center;gap:0.5rem;height:32px;padding:0 10px;border-radius:16px;border:1px solid var(--color-secondary);background:transparent;color:var(--color-text);cursor:pointer;font:inherit;font-size:0.85rem;font-weight:600;'
+            : 'display:inline-flex;align-items:center;justify-content:center;width:32px;height:32px;padding:0;border-radius:50%;border:1px solid var(--color-secondary);background:transparent;color:var(--color-text);cursor:pointer;font:inherit;font-size:0.85rem;font-weight:600;';
           var nameText = (user && user.name) ? user.name : ((user && user.email) ? user.email.split('@')[0] : 'Account');
           if (user && user.picture) {
             var img = document.createElement('img');
             img.src = user.picture;
-            img.alt = '';
+            img.alt = showName ? '' : nameText;
             img.style.cssText = 'width:24px;height:24px;border-radius:50%;object-fit:cover;';
             btn.appendChild(img);
           } else {
@@ -570,9 +575,11 @@ async function generateSitePages(
             initial.style.cssText = 'width:24px;height:24px;border-radius:50%;background:var(--color-primary);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:0.8rem;';
             btn.appendChild(initial);
           }
-          var lbl = document.createElement('span');
-          lbl.textContent = nameText;
-          btn.appendChild(lbl);
+          if (showName) {
+            var lbl = document.createElement('span');
+            lbl.textContent = nameText;
+            btn.appendChild(lbl);
+          }
 
           var menu = document.createElement('div');
           menu.style.cssText = 'position:absolute;top:calc(100% + 6px);right:0;min-width:180px;background:var(--color-surface);border:1px solid var(--color-secondary);border-radius:6px;box-shadow:0 4px 12px rgba(0,0,0,0.1);padding:0.5rem 0;display:none;z-index:50;';
@@ -610,8 +617,8 @@ async function generateSitePages(
         }
 
         if (user && user.id) {
-          if (desktopEl) createUserPill(desktopEl);
-          if (mobileEl) createUserPill(mobileEl);
+          if (desktopEl) createUserPill(desktopEl, true);
+          if (mobileEl) createUserPill(mobileEl, false);
         } else {
           if (desktopEl) desktopEl.appendChild(createSignInBtn());
           if (mobileEl) mobileEl.appendChild(createSignInBtn());
