@@ -29,9 +29,9 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       
       const gaId = process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW";
       const gaTag = `
-    <!-- Google Tag (gtag.js) -->
-    <script data-cfasync="false" async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
-    <script data-cfasync="false">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
+    <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
