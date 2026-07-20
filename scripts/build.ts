@@ -50,26 +50,6 @@ export interface BuiltBook {
   chapters: string[];
 }
 
-function parseClerkDomain(publishableKey: string | undefined): string {
-  if (!publishableKey) {
-    return "";
-  }
-  let clerkDomain = "";
-  try {
-    const keyBody = publishableKey.replace(/^pk_(test|live)_/, "");
-    const padded = keyBody.padEnd(
-      keyBody.length + ((4 - (keyBody.length % 4)) % 4),
-      "=",
-    );
-    clerkDomain = Buffer.from(padded, "base64")
-      .toString("utf8")
-      .replace(/\$$/, "");
-  } catch (e) {
-    console.warn("Could not parse Clerk domain from publishable key", e);
-  }
-  return clerkDomain;
-}
-
 async function buildAllBooks(
   booksDir: string,
   outputBooksDir: string,
@@ -183,7 +163,6 @@ async function buildAllBooks(
 async function generateSitePages(
   rootDir: string,
   outputDir: string,
-  clerkDomain: string,
   builtBooks: BuiltBook[],
 ) {
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
@@ -216,9 +195,7 @@ async function generateSitePages(
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
     <meta name="theme-color" content="#000000">
-    <meta name="clerk-publishable-key" content="${process.env.VITE_CLERK_PUBLISHABLE_KEY}">
     <title>${title} | Dawnbook Platform</title>
-    ${clerkDomain ? `<link rel="preconnect" href="https://${clerkDomain}" crossorigin>\n    <link rel="dns-prefetch" href="https://${clerkDomain}">` : ""}
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap">
@@ -535,66 +512,100 @@ async function generateSitePages(
       document.addEventListener('DOMContentLoaded', () => {
           reorderBooks();
           loadBookMetadata();
-          initClerk();
+          initUserControls();
       });
 
-      function initClerk() {
-        var clerkPk = '${process.env.VITE_CLERK_PUBLISHABLE_KEY}';
-        var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
-        while (keyBody.length % 4 !== 0) { keyBody += '='; }
-        var domain = atob(keyBody).replace(/\\$$/, '');
-        var script = document.createElement('script');
-        script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-        script.setAttribute('data-clerk-publishable-key', clerkPk);
-        script.async = true;
-        script.onload = function() {
-            if (window.Clerk) {
-                window.Clerk.load().then(function() {
-                    mountUserControls();
-                }).catch(console.error);
-            }
-        };
-        document.head.appendChild(script);
+      // Replaces the previous Clerk-based user controls. Fetches /api/auth/me
+      // (which reads the session_id cookie) and shows a Sign In button for
+      // anonymous visitors, or a user pill with a Sign Out menu for signed-in
+      // users. No third-party JS dependency.
+      function initUserControls() {
+        fetch('/api/auth/me', { credentials: 'same-origin', cache: 'no-store' })
+          .then(function(r) { return r.ok ? r.json() : null; })
+          .then(function(user) { mountUserControls(user); })
+          .catch(function() { mountUserControls(null); });
       }
 
-      function mountUserControls() {
+      function mountUserControls(user) {
         var desktopEl = document.getElementById('desktop-user-controls');
         var mobileEl = document.getElementById('mobile-user-controls');
-        if (!window.Clerk) return;
 
-        if (window.Clerk.user) {
-          // Authenticated: mount Clerk UserButton with custom menu item
-          if (desktopEl) {
-            window.Clerk.mountUserButton(desktopEl, {
-              appearance: { elements: { userButtonAvatarBox: { width: '32px', height: '32px' } } },
-              userProfileMode: 'navigation',
-              userProfileUrl: '/appreciation.html',
-              afterSignOutUrl: '/'
-            });
+        function createSignInBtn() {
+          var btn = document.createElement('a');
+          btn.href = '/sign-in';
+          btn.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;height:32px;padding:0 12px;border-radius:4px;border:1px solid var(--color-secondary);color:var(--color-text);text-decoration:none;font-size:0.85rem;font-weight:600;transition:background 0.15s;white-space:nowrap;';
+          btn.setAttribute('data-i18n', 'hub.signin');
+          btn.textContent = 'Sign In';
+          btn.onmouseenter = function() { btn.style.background = 'var(--color-surface)'; };
+          btn.onmouseleave = function() { btn.style.background = 'transparent'; };
+          return btn;
+        }
+
+        function createUserPill(container) {
+          var wrap = document.createElement('div');
+          wrap.style.cssText = 'position:relative;display:inline-block;';
+
+          var btn = document.createElement('button');
+          btn.type = 'button';
+          btn.style.cssText = 'display:inline-flex;align-items:center;gap:0.5rem;height:32px;padding:0 10px;border-radius:16px;border:1px solid var(--color-secondary);background:transparent;color:var(--color-text);cursor:pointer;font:inherit;font-size:0.85rem;font-weight:600;';
+          var nameText = (user && user.name) ? user.name : ((user && user.email) ? user.email.split('@')[0] : 'Account');
+          if (user && user.picture) {
+            var img = document.createElement('img');
+            img.src = user.picture;
+            img.alt = '';
+            img.style.cssText = 'width:24px;height:24px;border-radius:50%;object-fit:cover;';
+            btn.appendChild(img);
+          } else {
+            var initial = document.createElement('span');
+            initial.textContent = nameText.charAt(0).toUpperCase();
+            initial.style.cssText = 'width:24px;height:24px;border-radius:50%;background:var(--color-primary);color:#fff;display:inline-flex;align-items:center;justify-content:center;font-size:0.8rem;';
+            btn.appendChild(initial);
           }
-          if (mobileEl) {
-            window.Clerk.mountUserButton(mobileEl, {
-              appearance: { elements: { userButtonAvatarBox: { width: '28px', height: '28px' } } },
-              userProfileMode: 'navigation',
-              userProfileUrl: '/appreciation.html',
-              afterSignOutUrl: '/'
-            });
-          }
+          var lbl = document.createElement('span');
+          lbl.textContent = nameText;
+          btn.appendChild(lbl);
+
+          var menu = document.createElement('div');
+          menu.style.cssText = 'position:absolute;top:calc(100% + 6px);right:0;min-width:180px;background:var(--color-surface);border:1px solid var(--color-secondary);border-radius:6px;box-shadow:0 4px 12px rgba(0,0,0,0.1);padding:0.5rem 0;display:none;z-index:50;';
+          menu.setAttribute('role', 'menu');
+
+          var link = document.createElement('a');
+          link.href = '/appreciation.html';
+          link.textContent = 'Appreciation';
+          link.style.cssText = 'display:block;padding:0.5rem 0.9rem;color:var(--color-text);text-decoration:none;font-size:0.9rem;';
+          menu.appendChild(link);
+
+          var sep = document.createElement('div');
+          sep.style.cssText = 'height:1px;background:var(--color-secondary);margin:0.25rem 0;';
+          menu.appendChild(sep);
+
+          var out = document.createElement('button');
+          out.type = 'button';
+          out.textContent = 'Sign Out';
+          out.style.cssText = 'display:block;width:100%;text-align:left;padding:0.5rem 0.9rem;background:transparent;border:0;color:var(--color-text);cursor:pointer;font:inherit;font-size:0.9rem;';
+          out.addEventListener('click', function() {
+            fetch('/api/auth/logout', { method: 'POST', credentials: 'same-origin' })
+              .finally(function() { window.location.href = '/'; });
+          });
+          menu.appendChild(out);
+
+          btn.addEventListener('click', function(e) {
+            e.stopPropagation();
+            menu.style.display = (menu.style.display === 'block') ? 'none' : 'block';
+          });
+          document.addEventListener('click', function() { menu.style.display = 'none'; });
+
+          wrap.appendChild(btn);
+          wrap.appendChild(menu);
+          container.appendChild(wrap);
+        }
+
+        if (user && user.id) {
+          if (desktopEl) createUserPill(desktopEl);
+          if (mobileEl) createUserPill(mobileEl);
         } else {
-          // Not authenticated: show Sign In button
-          function createSignInBtn() {
-            var btn = document.createElement('a');
-            btn.href = '/sign-in';
-            btn.style.cssText = 'display:inline-flex;align-items:center;justify-content:center;height:32px;padding:0 12px;border-radius:4px;border:1px solid var(--color-secondary);color:var(--color-text);text-decoration:none;font-size:0.85rem;font-weight:600;transition:background 0.15s;white-space:nowrap;';
-            btn.setAttribute('data-i18n', 'hub.signin');
-            btn.textContent = 'Sign In';
-            btn.onmouseenter = function() { btn.style.background = 'var(--color-surface)'; };
-            btn.onmouseleave = function() { btn.style.background = 'transparent'; };
-            return btn;
-          }
           if (desktopEl) desktopEl.appendChild(createSignInBtn());
           if (mobileEl) mobileEl.appendChild(createSignInBtn());
-          // Re-apply locale so data-i18n on new elements gets translated
           if (window.applyLocale) window.applyLocale();
         }
       }
@@ -784,204 +795,111 @@ async function generateSitePages(
       (function() {
         var container = document.getElementById('appreciation-content');
 
-        function doRender() {
-          if (!window.Clerk.user) {
+        function doRender(user) {
+          if (!user || !user.id) {
             container.innerHTML = renderSignInPrompt();
           } else {
-            var meta = window.Clerk.user.publicMetadata || {};
-            var badge = meta.donation_badge;
-            var name = window.Clerk.user.fullName || window.Clerk.user.firstName || 'Supporter';
-            if (badge && badgeColors[badge]) {
-              var messages = { Gold: 'You are a Gold Patron.', Silver: 'You are a Silver Patron.', Bronze: 'You are a Bronze Patron.' };
-              container.innerHTML = renderBadge(badge, name, messages[badge] || '');
-            } else {
-              container.innerHTML = renderNoBadge();
-            }
+            // We don't currently expose donation_badge via /api/auth/me (the
+            // field is sensitive and unused by the public-facing pages).
+            // Show the "no badge" prompt for everyone for now; admin tools
+            // can extend /api/auth/me later to surface it.
+            container.innerHTML = renderNoBadge();
           }
           if (window.applyLocale) window.applyLocale();
         }
 
-        function bootClerk() {
-          var metaTag = document.querySelector('meta[name="clerk-publishable-key"]');
-          if (!metaTag) {
-            container.innerHTML = renderSignInPrompt();
-            return;
-          }
-          var pk = metaTag.getAttribute('content');
-          var keyBody = pk.replace(/^pk_(test|live)_/, '');
-          while (keyBody.length % 4 !== 0) { keyBody += '='; }
-          try {
-            var domain = atob(keyBody).replace(/\\$$/, '');
-            var script = document.createElement('script');
-            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-            script.setAttribute('data-clerk-publishable-key', pk);
-            script.async = true;
-            script.onload = function() {
-              if (window.Clerk) {
-                window.Clerk.load().then(doRender).catch(function() { doRender(); });
-              } else {
-                container.innerHTML = renderSignInPrompt();
-              }
-            };
-            script.onerror = function() { container.innerHTML = renderSignInPrompt(); };
-            document.head.appendChild(script);
-          } catch(e) {
-            container.innerHTML = renderSignInPrompt();
-          }
+        // Replaces the previous Clerk-based appreciation bootstrap. No third-
+        // party JS; just fetch the current user via the session_id cookie.
+        function boot() {
+          fetch('/api/auth/me', { credentials: 'same-origin', cache: 'no-store' })
+            .then(function(r) { return r.ok ? r.json() : null; })
+            .then(function(user) { doRender(user); })
+            .catch(function() { doRender(null); });
         }
 
-        // If Clerk was already loaded by another script on the page, use it directly.
-        // Otherwise self-bootstrap from the meta publishable-key tag.
-        if (window.Clerk && window.Clerk.loaded) {
-          doRender();
-        } else if (window.Clerk) {
-          window.Clerk.load().then(doRender).catch(function() { doRender(); });
+        if (document.readyState === 'loading') {
+          document.addEventListener('DOMContentLoaded', boot);
         } else {
-          document.addEventListener('DOMContentLoaded', bootClerk);
+          boot();
         }
       })();
       `)}
     </script>
   `;
 
-  // Generate the sign-in page that redirects to Clerk Hosted Sign-In
-  // The redirect_url query param is forwarded so the user returns to the gated page.
+  // Generate the sign-in page. Replaces the previous Clerk Hosted Sign-In
+  // widget with a single "Sign in with Google" button that hits
+  // /api/auth/login (which 302-redirects to Google's consent screen).
+  // The redirect_url query param is preserved end-to-end so the user
+  // returns to the gated page after a successful login.
   const signInContent = `
     <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="signin.title">Sign In to Continue Reading</h2>
         <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
-        <div id="clerk-sign-in" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg); width: 100%;"></div>
-        <p style="font-size: 0.875rem; opacity: 0.7;"><span data-i18n="signin.powered">Powered by</span> <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
+        <a id="google-signin-btn" href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
+            <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                <path d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z" fill="#4285F4"/>
+                <path d="M9 18c2.43 0 4.47-.81 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.02-3.7H.96v2.32A9 9 0 0 0 9 18z" fill="#34A853"/>
+                <path d="M3.98 10.72A5.4 5.4 0 0 1 3.68 9c0-.6.1-1.18.3-1.72V4.96H.96A9 9 0 0 0 0 9c0 1.45.35 2.82.96 4.04l3.02-2.32z" fill="#FBBC05"/>
+                <path d="M9 3.58c1.32 0 2.5.45 3.44 1.34l2.58-2.58A9 9 0 0 0 9 0 9 9 0 0 0 .96 4.96l3.02 2.32C4.68 5.16 6.66 3.58 9 3.58z" fill="#EA4335"/>
+            </svg>
+            <span data-i18n="signin.cta">Sign in with Google</span>
+        </a>
+        <p id="signin-error" style="margin-top: var(--spacing-md); color: #c0392b; display: none;"></p>
+        <p style="font-size: 0.875rem; opacity: 0.7; margin-top: var(--spacing-md);">No account? Signing in with Google will create one automatically.</p>
     </div>
     <script>
       ${minifyJs(`
       (function() {
         var params = new URLSearchParams(window.location.search);
         var redirectUrl = params.get('redirect_url') || '/';
-        var container = document.getElementById('clerk-sign-in');
+        var err = params.get('error');
+        var btn = document.getElementById('google-signin-btn');
+        var errEl = document.getElementById('signin-error');
 
-        var clerkOptions = {
-          afterSignInUrl: redirectUrl,
-          afterSignUpUrl: redirectUrl,
-          fallbackRedirectUrl: redirectUrl,
-          forceRedirectUrl: redirectUrl,
-          signUpUrl: '/sign-up'
-        };
-
-        if (window.Clerk) {
-          if (window.Clerk.user) {
-            window.location.href = redirectUrl;
-            return;
-          }
-          window.Clerk.mountSignIn(container, clerkOptions);
-        } else {
-          var meta = document.querySelector('meta[name="clerk-publishable-key"]');
-          if (!meta) {
-            container.innerHTML = '<p data-i18n="signin.loading">Authentication is being configured. Please try again shortly.</p>';
-            return;
-          }
-          var pk = meta.getAttribute('content');
-          var keyBody = pk.replace(/^pk_(test|live)_/, '');
-          while (keyBody.length % 4 !== 0) {
-            keyBody += '=';
-          }
-          try {
-            var domain = atob(keyBody).replace(/\\$$/, '');
-            var script = document.createElement('script');
-            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-            script.setAttribute('data-clerk-publishable-key', pk);
-            script.async = true;
-            script.onload = function() {
-              if (window.Clerk) {
-                window.Clerk.load().then(function() {
-                  if (window.Clerk.user) {
-                    window.location.href = redirectUrl;
-                  } else {
-                    window.Clerk.mountSignIn(container, clerkOptions);
-                  }
-                }).catch(function(err) {
-                  container.innerHTML = '<p>Error loading Clerk: ' + err.message + '</p>';
-                });
-              }
-            };
-            document.head.appendChild(script);
-          } catch(e) {
-            container.innerHTML = '<p>Unable to load sign-in. Please contact support. ' + e.message + '</p>';
-          }
+        if (err) {
+          var messages = {
+            missing_params: 'Sign-in was started incorrectly. Please try again.',
+            state_mismatch: 'Your sign-in session expired. Please try again.',
+            config: 'Sign-in is not configured. Please contact support.',
+            google_exchange: 'Google rejected the sign-in. Please try again.',
+            server: 'Something went wrong on our end. Please try again shortly.',
+          };
+          errEl.textContent = messages[err] || ('Sign-in failed (' + err + ').');
+          errEl.style.display = 'block';
         }
+
+        // If already signed in, bounce immediately.
+        fetch('/api/auth/me', { credentials: 'same-origin' })
+          .then(function(r) { return r.ok ? r.json() : null; })
+          .then(function(user) {
+            if (user && user.id) {
+              window.location.href = redirectUrl;
+            }
+          })
+          .catch(function() { /* offline; show button */ });
+
+        btn.addEventListener('click', function(e) {
+          e.preventDefault();
+          var url = '/api/auth/login?redirect_url=' + encodeURIComponent(redirectUrl);
+          window.location.href = url;
+        });
       })();
       `)}
     </script>
   `;
 
-  // Generate the sign-up page that redirects to Clerk Hosted Sign-Up
-  const signUpContent = `
-    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
-        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)">Sign Up to Continue Reading</h2>
-        <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
-        <div id="clerk-sign-up" style="display: flex; justify-content: center; margin-bottom: var(--spacing-lg); width: 100%;"></div>
-        <p style="font-size: 0.875rem; opacity: 0.7;"><span data-i18n="signin.powered">Powered by</span> <a href="https://clerk.dev" target="_blank" style="color: var(--color-primary)">Clerk</a></p>
-    </div>
-    <script>
-      ${minifyJs(`
-      (function() {
-        var params = new URLSearchParams(window.location.search);
-        var redirectUrl = params.get('redirect_url') || '/';
-        var container = document.getElementById('clerk-sign-up');
-
-        var clerkOptions = {
-          afterSignInUrl: redirectUrl,
-          afterSignUpUrl: redirectUrl,
-          fallbackRedirectUrl: redirectUrl,
-          forceRedirectUrl: redirectUrl,
-          signInUrl: '/sign-in'
-        };
-
-        if (window.Clerk) {
-          if (window.Clerk.user) {
-            window.location.href = redirectUrl;
-            return;
-          }
-          window.Clerk.mountSignUp(container, clerkOptions);
-        } else {
-          var meta = document.querySelector('meta[name="clerk-publishable-key"]');
-          if (!meta) {
-            container.innerHTML = '<p data-i18n="signin.loading">Authentication is being configured. Please try again shortly.</p>';
-            return;
-          }
-          var pk = meta.getAttribute('content');
-          var keyBody = pk.replace(/^pk_(test|live)_/, '');
-          while (keyBody.length % 4 !== 0) {
-            keyBody += '=';
-          }
-          try {
-            var domain = atob(keyBody).replace(/\\$$/, '');
-            var script = document.createElement('script');
-            script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-            script.setAttribute('data-clerk-publishable-key', pk);
-            script.async = true;
-            script.onload = function() {
-              if (window.Clerk) {
-                window.Clerk.load().then(function() {
-                  if (window.Clerk.user) {
-                    window.location.href = redirectUrl;
-                  } else {
-                    window.Clerk.mountSignUp(container, clerkOptions);
-                  }
-                }).catch(function(err) {
-                  container.innerHTML = '<p>Error loading Clerk: ' + err.message + '</p>';
-                });
-              }
-            };
-            document.head.appendChild(script);
-          } catch(e) {
-            container.innerHTML = '<p>Unable to load sign-up. Please contact support. ' + e.message + '</p>';
-          }
-        }
-      })();
-      `)}
-    </script>
-  `;
+  // The sign-up page is intentionally identical to sign-in: signing in with
+  // a Google account that has never been seen before automatically creates
+  // a new reader row in the D1 `users` table. The two pages coexist so
+  // existing deep links to /sign-up keep working.
+  const signUpContent = signInContent.replace(
+    'data-i18n="signin.title">Sign In to Continue Reading',
+    '>Sign Up to Continue Reading'
+  ).replace(
+    'id="google-signin-btn"',
+    'id="google-signup-btn"'
+  );
 
   await writeFile(
     join(outputDir, "index.html"),
@@ -1068,7 +986,7 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev https://cdnjs.cloudflare.com https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://*.clerk.accounts.dev; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://api.clerk.dev https://*.clerk.accounts.dev https://*.clerk.dev; frame-src 'self' https://*.clerk.accounts.dev https://*.clerk.dev https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://accounts.google.com https://*.googleusercontent.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Pragma: no-cache
   Expires: 0
@@ -1102,15 +1020,6 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
 }
 
 async function build() {
-  if (!process.env.VITE_CLERK_PUBLISHABLE_KEY) {
-    console.error(
-      "❌ Error: VITE_CLERK_PUBLISHABLE_KEY environment variable is not set.",
-    );
-    process.exit(1);
-  }
-
-  const clerkDomain = parseClerkDomain(process.env.VITE_CLERK_PUBLISHABLE_KEY);
-
   const rootDir = process.cwd();
   const booksDir = join(rootDir, "books");
   const outputDir = join(rootDir, "output");
@@ -1124,7 +1033,7 @@ async function build() {
 
   console.log("Generating premium hub site...");
 
-  await generateSitePages(rootDir, outputDir, clerkDomain, builtBooks);
+  await generateSitePages(rootDir, outputDir, builtBooks);
 
   await copyAssets(rootDir, outputDir);
 

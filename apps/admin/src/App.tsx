@@ -1,11 +1,12 @@
 import { BrowserRouter, Routes, Route, Link, NavLink, useNavigate, useLocation } from 'react-router-dom';
-import { useUser, Show, SignInButton, SignUpButton, UserButton } from '@clerk/react';
 import React, { useState, useEffect } from 'react';
 import { BookService, type Book } from './services/book-service';
+import { useAuth } from './auth/AuthProvider';
 import './components/Dashboard.css';
 
 function Layout({ children }: { children: React.ReactNode }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const { isSignedIn, isAdmin, user, signIn, signOut } = useAuth();
 
   useEffect(() => {
     const handleStorage = (e: StorageEvent) => {
@@ -18,9 +19,8 @@ function Layout({ children }: { children: React.ReactNode }) {
     };
     window.addEventListener('storage', handleStorage);
 
-    // Initial sync of ARIA state
     const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
-    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', currentTheme === 'light' ? 'true' : 'false'));
+    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', currentTheme === 'dark' ? 'true' : 'false'));
 
     return () => window.removeEventListener('storage', handleStorage);
   }, []);
@@ -39,7 +39,7 @@ function Layout({ children }: { children: React.ReactNode }) {
       console.warn('localStorage setItem error (theme)', err);
     }
 
-    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'light' ? 'true' : 'false'));
+    document.querySelectorAll('.theme-toggle').forEach(btn => btn.setAttribute('aria-pressed', newTheme === 'dark' ? 'true' : 'false'));
   };
 
   return (
@@ -61,19 +61,18 @@ function Layout({ children }: { children: React.ReactNode }) {
           <a href="/" className="btn" style={{ textDecoration: 'none', textAlign: 'center', backgroundColor: 'var(--color-secondary)', color: 'var(--color-text)' }}>Return to Hub</a>
         </nav>
         <div style={{ marginTop: 'var(--spacing-xl)' }}>
-          <Show when="signed-in">
-            <UserButton />
-          </Show>
-          <Show when="signed-out">
+          {isSignedIn ? (
             <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-sm)' }}>
-              <SignInButton mode="modal">
-                <button className="btn">Sign In</button>
-              </SignInButton>
-              <SignUpButton mode="modal">
-                <button className="btn">Sign Up</button>
-              </SignUpButton>
+              <div style={{ fontSize: '0.85rem', opacity: 0.85, padding: '0 0.25rem' }}>
+                {user?.name || user?.email}
+              </div>
+              <button className="btn" onClick={() => signOut()}>Sign Out</button>
             </div>
-          </Show>
+          ) : (
+            <div style={{ display: 'flex', flexDirection: 'column', gap: 'var(--spacing-sm)' }}>
+              <button className="btn" onClick={() => signIn()}>Sign In with Google</button>
+            </div>
+          )}
         </div>
       </aside>
       <main className="main-content">
@@ -203,7 +202,7 @@ function MarkdownEditor() {
         <select className="input-field" value={selectedBook} onChange={e => setSelectedBook(e.target.value)}>
           <option value="new">-- Create New Book --</option>
           {books.map(book => (
-            <option key={book.slug} value={book.slug}>{book.title}</option>
+            <option key={book.slug} value={book.title}>{book.title}</option>
           ))}
         </select>
       </div>
@@ -261,11 +260,19 @@ function NotFound() {
 }
 
 function AdminContent() {
-  const { user, isLoaded } = useUser();
+  const { isSignedIn, isLoaded, isAdmin } = useAuth();
 
   if (!isLoaded) return <p>Loading...</p>;
 
-  const isAdmin = user?.publicMetadata?.role === 'admin';
+  if (!isSignedIn) {
+    return (
+      <section className="card featured-card" style={{ textAlign: 'center' }}>
+        <h2>Please Sign In</h2>
+        <p style={{ marginBottom: 'var(--spacing-md)' }}>You must be authenticated to access the admin dashboard.</p>
+        <p>Use the "Sign In with Google" button in the sidebar.</p>
+      </section>
+    );
+  }
 
   if (!isAdmin) {
     return (
@@ -290,20 +297,14 @@ function AdminContent() {
 export default function App() {
   return (
     <BrowserRouter basename="/admin">
-      <Layout>
-        <Show when="signed-out">
-          <section className="card featured-card" style={{ textAlign: 'center' }}>
-            <h2>Please Sign In</h2>
-            <p style={{ marginBottom: 'var(--spacing-md)' }}>You must be authenticated to access the admin dashboard.</p>
-            <SignInButton mode="modal">
-              <button className="btn">Sign In with Clerk</button>
-            </SignInButton>
-          </section>
-        </Show>
-        <Show when="signed-in">
+      <AuthProvider>
+        <Layout>
           <AdminContent />
-        </Show>
-      </Layout>
+        </Layout>
+      </AuthProvider>
     </BrowserRouter>
   );
 }
+
+// Re-export for legacy imports (tests).
+export { AuthProvider } from './auth/AuthProvider';

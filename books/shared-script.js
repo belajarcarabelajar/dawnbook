@@ -1,4 +1,10 @@
 // Client-side gating & checkpoint system
+//
+// Replaces the previous Clerk-based gating. Instead of injecting Clerk's
+// JS, we call /api/auth/me (which reads the session_id cookie) to decide
+// whether the visitor is signed in. For non-public pages, signed-out
+// visitors are redirected to /sign-in. This avoids a flash of unauth'd
+// content because the auth check resolves before the page is revealed.
 (function() {
     var icon = document.querySelector("link[rel~='icon']");
     if (!icon) { icon = document.createElement('link'); icon.rel = 'icon'; document.head.appendChild(icon); }
@@ -9,37 +15,34 @@
     var path = decodeURIComponent(currentPath);
     var basename = path.split('/').pop() || '';
 
-    // Gating rule: Dynamic SEO-first gating based on entry point
+    // Gating rule: dynamic SEO-first gating based on entry point.
+    // Public pages reveal immediately; gated pages stay hidden until the
+    // auth check resolves.
     var freeChapter = null;
     try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.warn('sessionStorage getItem error', e); }
     var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
-
 
     if (!isPublic) {
         document.documentElement.style.opacity = '0';
         document.documentElement.style.visibility = 'hidden';
     }
 
-    var meta = document.querySelector('meta[name="clerk-publishable-key"]');
-    var clerkPk = meta ? meta.getAttribute('content') : '';
-    if (!clerkPk) {
-        console.error('Clerk publishable key missing');
-        return;
+    function reveal() {
+        if (!isPublic) {
+            document.documentElement.style.opacity = '1';
+            document.documentElement.style.visibility = 'visible';
+        }
     }
-    var keyBody = clerkPk.replace(/^pk_(test|live)_/, '');
-    while (keyBody.length % 4 !== 0) { keyBody += '='; }
-    var domain = atob(keyBody).replace(/\$$/, '');
 
-    var script = document.createElement('script');
-    script.src = 'https://' + domain + '/npm/@clerk/clerk-js@latest/dist/clerk.browser.js';
-    script.setAttribute('data-clerk-publishable-key', clerkPk);
-    script.async = true;
+    function redirectToSignIn() {
+        window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
+    }
 
     function handleCheckpoint() {
         var pathParts = currentPath.split('/').filter(Boolean);
         var bookIndex = pathParts.indexOf('books');
         if (bookIndex === -1 || pathParts.length <= bookIndex + 1) return;
-        
+
         var bookSlug = pathParts[bookIndex + 1];
         var isRoot = (currentPath === '/books/' + bookSlug) || (currentPath === '/books/' + bookSlug + '/') || (currentPath === '/books/' + bookSlug + '/index.html');
         var hasRedirected = new URLSearchParams(window.location.search).get('redirected');
@@ -67,8 +70,7 @@
         };
 
         window.checkpointHandled = false;
-        
-        // If we are on the root page (table of contents) and we haven't been redirected here
+
         if (isRoot && !hasRedirected) {
             try {
                 if (!sessionStorage.getItem('viewed_' + bookSlug)) {
@@ -76,8 +78,7 @@
                     sessionStorage.setItem('viewed_' + bookSlug, '1');
                 }
             } catch(e) { console.warn('sessionStorage setItem error', e); }
-            
-            // Only try to redirect if we aren't coming from internal navigation (e.g. clicking 'Back to Hub')
+
             if (!isInternalNavigation) {
                 fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
                     credentials: 'same-origin'
@@ -88,71 +89,63 @@
                         window.updateBookProgress(data.completed_paths);
                     }
                     if (data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
-                        // Redirect to the saved chapter path!
                         window.location.replace(data.path + '?redirected=true');
                     } else {
+                        window.checkpointHandled = true;
+                        if (!isRoot) {
+                            window.saveProgress();
+                        }
+                    }
+                })
+                .catch(function(e) {
+                    console.error('Failed to load progress', e);
                     window.checkpointHandled = true;
                     if (!isRoot) {
                         window.saveProgress();
                     }
-                }
-            })
-            .catch(function(e) {
-                console.error('Failed to load progress', e);
-                window.checkpointHandled = true;
-                if (!isRoot) {
-                    window.saveProgress();
-                }
-            });
+                });
             } else {
                 window.checkpointHandled = true;
             }
         } else {
-            // If we are NOT on the root page (i.e. we are on a Chapter page), OR we've been redirected here...
             window.checkpointHandled = true;
             if (!isRoot) {
-                // Only save progress if we are actually on a chapter page!
-                // Never save the root page as progress.
                 window.saveProgress();
             }
         }
     }
 
-    script.onload = function() {
-        if (!isPublic) {
-            document.documentElement.style.opacity = '1';
-            document.documentElement.style.visibility = 'visible';
-        }
-
-        if (window.Clerk) {
-            window.Clerk.load().then(function() {
-                if (!window.Clerk.user && !isPublic) {
-                    window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
-                    return;
+    // Bootstrap: ask the server if the visitor is signed in, then either
+    // reveal the page (public or signed-in) or bounce to /sign-in.
+    function checkAuth() {
+        fetch('/api/auth/me', { credentials: 'same-origin', cache: 'no-store' })
+            .then(function(r) {
+                if (r.ok) return r.json();
+                return null;
+            })
+            .then(function(user) {
+                if (!user || !user.id) {
+                    if (!isPublic) {
+                        redirectToSignIn();
+                        return;
+                    }
+                    reveal();
+                    handleCheckpoint();
+                } else {
+                    reveal();
+                    handleCheckpoint();
                 }
-                
-                // Call handleCheckpoint AFTER Clerk is loaded so __session cookies are valid
-                handleCheckpoint();
-            }).catch(function(e) {
-                console.error('Clerk load failed', e);
-                // Fallback to calling handleCheckpoint even if Clerk fails, for public users
-                handleCheckpoint();
+            })
+            .catch(function() {
+                // Network failure: fall back to public behaviour (reveal
+                // and continue), so the page is at least readable.
+                reveal();
+                if (isPublic) handleCheckpoint();
+                else redirectToSignIn();
             });
-        } else {
-            if (!isPublic) {
-                window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
-            } else {
-                handleCheckpoint();
-            }
-        }
-    };
-
-    script.onerror = function() {
-        if (!isPublic) {
-            window.location.href = '/sign-in?redirect_url=' + encodeURIComponent(window.location.pathname);
-        }
     }
-    document.head.appendChild(script);
+
+    checkAuth();
 })();
 
 document.addEventListener('DOMContentLoaded', function() {

@@ -6,7 +6,7 @@
  *   POST /api/books     — Create/publish a book (requires Clerk auth)
  */
 
-import { Env, verifyClerkSession } from "../../lib/auth";
+import { Env, verifySession } from "../../lib/auth";
 
 interface BookRow {
   id: string;
@@ -99,14 +99,13 @@ async function handlePostBook(
   request: Request
 ): Promise<Response> {
   // Verify authentication BEFORE any DB operation
-  const session = await verifyClerkSession(request, env);
+  const session = await verifySession(request, env);
   if (!session) {
-    return errorResponse("Unauthorized: valid Clerk session required", 401);
+    return errorResponse("Unauthorized: valid session required", 401);
   }
 
-  // Strict Admin Authorization
-  const publicMetadata = session.publicMetadata as Record<string, unknown> | undefined;
-  if (publicMetadata?.role !== "admin") {
+  // Strict Admin Authorization (D1-backed, no Clerk publicMetadata)
+  if (session.role !== "admin") {
     return errorResponse("Forbidden: Administrator access required", 403);
   }
 

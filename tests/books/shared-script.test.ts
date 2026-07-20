@@ -7,9 +7,6 @@ describe("Shared Script Client-Side Logic", () => {
     const scriptPath = join(import.meta.dir, "../../books/shared-script.js");
     const script = readFileSync(scriptPath, "utf-8");
     
-    // Assert that Clerk JS is dynamically injected
-    expect(script).toContain("clerk.browser.js");
-    
     // Assert that it checks for the public vs private paths
     expect(script).toContain("isPublic =");
     expect(script).toContain("sessionStorage.getItem('free_chapter_viewed')");

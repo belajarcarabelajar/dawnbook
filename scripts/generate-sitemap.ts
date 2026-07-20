@@ -26,8 +26,8 @@ async function generateSitemap() {
       } else if (fullPath.endsWith(".html")) {
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
         if (isPublicPath(relativePath)) {
-          // Do not include admin SPA or clerk internals
-          if (!relativePath.startsWith("/admin") && !relativePath.startsWith("/.clerk")) {
+          // Do not include the admin SPA in the sitemap (it's auth-gated client-side).
+          if (!relativePath.startsWith("/admin")) {
             urls.push(`${baseUrl}${relativePath}`);
           }
         }
