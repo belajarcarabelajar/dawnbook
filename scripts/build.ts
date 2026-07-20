@@ -684,7 +684,7 @@ async function generateSitePages(
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-sm)" data-i18n="donate.title">Support Dawnbook</h2>
         <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-lg); line-height: 1.7;" data-i18n="donate.subtitle">Your generosity helps us deliver free books to school libraries and community reading spaces in underserved regions (3T areas).</p>
 
-        <div style="display: grid; grid-template-columns: 1fr; gap: var(--spacing-lg);">
+        <div class="donate-grid">
             <!-- Bank Transfer Card -->
             <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg);">
                 <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-md) 0; font-size: 1.1rem;" data-i18n="donate.bank.title">Bank Transfer</h3>
@@ -701,11 +701,11 @@ async function generateSitePages(
             </div>
 
             <!-- QRIS Card -->
-            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg); text-align: center;">
+            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg); text-align: center; box-sizing: border-box;">
                 <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-sm) 0; font-size: 1.1rem;" data-i18n="donate.qris.title">Scan QRIS</h3>
                 <p style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: var(--spacing-md);" data-i18n="donate.qris.desc">Scan the QR code below using any e-wallet or mobile banking app.</p>
-                <div style="background: #ffffff; border-radius: 12px; padding: 16px; display: inline-block; max-width: 280px; width: 100%;">
-                    <img src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code" width="280" height="280" style="width: 100%; height: auto; aspect-ratio: 1/1; border-radius: 8px; display: block;">
+                <div class="donate-qris-frame">
+                    <img class="donate-qris-img" src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code">
                 </div>
             </div>
         </div>
