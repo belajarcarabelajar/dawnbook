@@ -10,6 +10,9 @@ fi
 if [ -f ".env" ]; then
   export $(grep -v '^#' .env | xargs)
 fi
+if [ -f ".dev.vars" ]; then
+  export $(grep -v '^#' .dev.vars | xargs)
+fi
 if [ -f "apps/admin/.env.local" ]; then
   export $(grep -v '^#' apps/admin/.env.local | xargs)
 fi
