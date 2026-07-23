@@ -1,4 +1,4 @@
-## Identifikasi Keterampilan Dasar Mengajar (KDM)
+# Identifikasi Keterampilan Dasar Mengajar (KDM)
 
 Mengajar bukan sekadar berdiri di depan kelas dan berbicara. Mengajar adalah sebuah seni sekaligus sains yang memerlukan penguasaan berbagai keterampilan spesifik. Bayangkan seorang koki profesional; ia tidak hanya tahu cara memasak, tetapi ia mahir memotong sayur, mengatur suhu api, meracik bumbu, hingga menyajikan hidangan dengan estetik.
 
@@ -33,7 +33,7 @@ Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sist
 - **Penggunaan Contoh:** Memberikan ilustrasi nyata dari kehidupan sehari-hari.
 - **Penekanan:** Memberikan penekanan pada bagian-bagian penting (misalnya dengan intonasi suara atau tulisan di papan).
 
-**Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan $L = \pi r^2$. Jelaskan dari mana $\pi$ berasal: $\pi \approx \frac{Keliling}{Diameter}$
+**Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \(L = \pi r^2\). Jelaskan dari mana \(\pi\) berasal: \(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\)
 
 ## 3\. Keterampilan Bertanya
 
@@ -42,7 +42,7 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 - **Pertanyaan Dasar:** Fokus pada pemahaman fakta (Apa, Siapa, Di mana).
 - **Pertanyaan Lanjut:** Fokus pada kemampuan analisis, sintesis, dan evaluasi (Mengapa, Bagaimana jika...).
 
-*Think about this: Apakah Anda sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
+*Think about this: Apakah kamu sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
 
 ## 4\. Keterampilan Memberikan Penguatan (Reinforcement)
 
@@ -113,7 +113,7 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 **Skenario:** Pak Budi mengajar IPA tentang fotosintesis.
 
 1. **Membuka:** Pak Budi membawa tanaman layu dan tanaman segar sebagai pemancing (*Menarik Perhatian*).
-2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: $6CO_2 + 6H_2O \xrightarrow{Cahaya} C_6H_{12}O_6 + 6O_2$.
+2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: \(6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2\).
 3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
 4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
 5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).
@@ -124,10 +124,10 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 
 Keterampilan Dasar Mengajar bukanlah bakat lahiriah, melainkan kompetensi yang bisa dilatih melalui praktik terus-menerus dalam *Microteaching*. Kedelapan keterampilan ini saling melengkapi dan tidak berdiri sendiri.
 
-*Coba renungkan: Dari kedelapan keterampilan di atas, mana yang menurut Anda paling menantang untuk dikuasai? Apakah itu menjaga ketenangan kelas (pengelolaan) atau memberikan pertanyaan yang memancing berpikir kritis?*
+*Coba renungkan: Dari kedelapan keterampilan di atas, mana yang menurut kamu paling menantang untuk dikuasai? Apakah itu menjaga ketenangan kelas (pengelolaan) atau memberikan pertanyaan yang memancing berpikir kritis?*
 
 **Poin Utama untuk Diingat:**
 
 - KDM adalah fondasi profesionalisme guru.
 - Penguasaan KDM secara bertahap akan meningkatkan kepercayaan diri pengajar.
-- Fokuslah pada satu atau dua keterampilan untuk diperbaiki dalam setiap sesi latihan mikro Anda.
+- Fokuslah pada satu atau dua keterampilan untuk diperbaiki dalam setiap sesi latihan mikro kamu.

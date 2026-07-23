@@ -1,6 +1,6 @@
-## Pengantar dan Filosofi Microteaching
+# Pengantar dan Filosofi Microteaching
 
-Selamat datang di langkah pertama Anda untuk menjadi pendidik yang inspiratif dan kompeten. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang telah merevolusi pelatihan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
+Selamat datang di langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang telah merevolusi pelatihan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
 
 ## Apa itu Microteaching?
 
@@ -36,7 +36,7 @@ Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara aka
 
 ### 2\. Mengurangi Risiko (Risk-Free Environment)
 
-Di kelas asli, kesalahan guru bisa berdampak pada pemahaman siswa atau manajemen kelas selama satu semester. Dalam microteaching, jika Anda gagal mengelola kelas, Anda bisa segera mengulanginya tanpa merugikan masa depan siswa mana pun.
+Di kelas asli, kesalahan guru bisa berdampak pada pemahaman siswa atau manajemen kelas selama satu semester. Dalam microteaching, jika kamu gagal mengelola kelas, kamu bisa segera mengulanginya tanpa merugikan masa depan siswa mana pun.
 
 ### 3\. Pengembangan Keterampilan Secara Terisolasi
 
@@ -44,7 +44,7 @@ Sulit untuk memperbaiki cara bicara, bahasa tubuh, penggunaan media, dan teknik 
 
 ### 4\. Membangun Kepercayaan Diri
 
-*Pernahkah Anda merasa gemetar saat berbicara di depan umum?* Microteaching membantu mengikis kecemasan tersebut secara bertahap melalui latihan yang berulang dalam lingkungan yang mendukung.
+*Pernahkah kamu merasa gemetar saat berbicara di depan umum?* Microteaching membantu mengikis kecemasan tersebut secara bertahap melalui latihan yang berulang dalam lingkungan yang mendukung.
 
 ## Microteaching sebagai Laboratorium Pendidik
 
@@ -57,9 +57,9 @@ Di dalam "laboratorium" ini, berlaku siklus eksperimen:
 3. **Feedback (Umpan Balik):** Melihat kembali performa melalui diskusi dan rekaman video.
 4. **Re-plan & Re-teach (Revisi & Praktik Ulang):** Memperbaiki apa yang kurang.
 
-$$
-Kualitas \thinspace Guru = \sum (Latihan + Refleksi)^n
-$$
+\[
+\text{Kualitas Guru} = \sum (\text{Latihan} + \text{Refleksi})^n
+\]
 
 *Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya untuk membentuk karakter manusia?*
 
@@ -77,4 +77,4 @@ Filosofi utama microteaching adalah **"Simple to Complex"**. Kita tidak belajar 
 
 > **Pesan Utama:** Microteaching bukan tentang menjadi sempurna dalam satu kali coba. Ini tentang kesediaan untuk diamati, dikritik, dan kemauan untuk terus memperbaiki diri demi memberikan yang terbaik bagi peserta didik.
 
-*Pertanyaan Refleksi:* *Jika Anda diminta memilih satu saja keterampilan mengajar yang menurut Anda paling sulit (misalnya: membuka pelajaran, bertanya, atau menutup pelajaran), manakah yang ingin Anda latih pertama kali di laboratorium microteaching? Mengapa?*
+*Pertanyaan Refleksi:* *Jika kamu diminta memilih satu saja keterampilan mengajar yang menurut kamu paling sulit (misalnya: membuka pelajaran, bertanya, atau menutup pelajaran), manakah yang ingin kamu latih pertama kali di laboratorium microteaching? Mengapa?*

@@ -1,8 +1,8 @@
-## Pelaksanaan Simulasi Mengajar: Saatnya Beraksi di Panggung Kelas
+# Pelaksanaan Simulasi Mengajar: Saatnya Beraksi di Panggung Kelas
 
 Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya adalah tentang persiapan dan perencanaan, maka bagian ini adalah tentang **eksekusi**. Di sinilah teori bertemu dengan praktik.
 
-Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Anda hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan Anda tidak hanya ditentukan oleh apa yang Anda katakan, tetapi bagaimana Anda mengatakannya, bagaimana tubuh Anda bergerak, dan bagaimana Anda menghargai setiap detik yang berlalu.
+Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu menghargai setiap detik yang berlalu.
 
 ## 1\. Kendali Suara: Instrumen Utama Sang Pendidik
 
@@ -12,7 +12,7 @@ Suara adalah alat musik utama seorang guru. Dalam microteaching, di mana ruangan
 
 Volume bukan berarti berteriak. Proyeksi adalah kemampuan mengirimkan suara ke bagian paling belakang ruangan tanpa kehilangan kejelasan.
 
-- **Tip:** Bayangkan Anda sedang berbicara dengan seseorang yang duduk di baris paling belakang, bukan hanya yang di depan meja Anda.
+- **Tip:** Bayangkan kamu sedang berbicara dengan seseorang yang duduk di baris paling belakang, bukan hanya yang di depan meja kamu.
 
 ### B. Intonasi dan Variasi (The Melody)
 
@@ -32,7 +32,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 
 ## 2\. Bahasa Tubuh: Pesan Tanpa Kata
 
-Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh Anda menentukan *teacher presence* atau kewibawaan Anda di depan kelas.
+Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
 
 ### A. Kontak Mata (Eye Contact)
 
@@ -43,7 +43,7 @@ Jangan hanya menatap langit-langit, lantai, atau papan tulis.
 
 ### B. Gestur dan Gerakan Tangan
 
-Tangan Anda harus membantu menjelaskan konsep, bukan menjadi gangguan.
+Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
 
 - **Terbuka:** Gunakan telapak tangan terbuka untuk mempersilakan siswa menjawab (menunjukkan keterbukaan).
 - **Hindari:** Memasukkan tangan ke saku, menyilangkan tangan di dada, atau memegang spidol dengan gelisah.
@@ -65,26 +65,26 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 
 ### Strategi Kontrol Waktu:
 
-- **Gunakan Jam Wajah (Face Clock):** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa Anda harus mengangkat tangan secara mencolok.
+- **Gunakan Jam Wajah (Face Clock):** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa kamu harus mengangkat tangan secara mencolok.
 - **Prioritas Konten:** Jika waktu tinggal 2 menit dan materi inti belum selesai, segera lakukan ringkasan dan lompat ke penutup. Jangan memaksakan semua slide selesai tapi kehilangan bagian penutup yang penting.
 
-*Think about this: Jika Anda gagal menutup pelajaran dengan baik karena kehabisan waktu, siswa akan pulang dengan kebingungan tentang apa yang baru saja mereka pelajari.*
+*Think about this: Jika kamu gagal menutup pelajaran dengan baik karena kehabisan waktu, siswa akan pulang dengan kebingungan tentang apa yang baru saja mereka pelajari.*
 
 ## 4\. Mengelola Kegugupan (Stage Fright)
 
-Wajar jika Anda merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan sejawat atau dosen.
+Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan sejawat atau dosen.
 
 - **Teknik Pernapasan:** Gunakan pernapasan diafragma sebelum masuk kelas. Tarik napas 4 hitungan, tahan 4 hitungan, buang 4 hitungan.
-- **Mindset:** Anggap rekan sejawat Anda benar-benar sebagai siswa yang butuh ilmu, bukan sebagai pengamat yang mencari kesalahan.
-- **Simulasi Mental:** Bayangkan skenario mengajar Anda dari awal sampai akhir di dalam pikiran sebelum benar-benar melakukannya.
+- **Mindset:** Anggap rekan sejawat kamu benar-benar sebagai siswa yang butuh ilmu, bukan sebagai pengamat yang mencari kesalahan.
+- **Simulasi Mental:** Bayangkan skenario mengajar kamu dari awal sampai akhir di dalam pikiran sebelum benar-benar melakukannya.
 
 ## Real-World Application: Skenario Praktik
 
-**Skenario:** Anda sedang mensimulasikan materi "Hukum Newton" dalam waktu 12 menit.
+**Skenario:** kamu sedang mensimulasikan materi "Hukum Newton" dalam waktu 12 menit.
 
-1. **Menit 0-2:** Anda masuk dengan senyum, melakukan kontak mata, dan bertanya, "Kenapa saat mobil direm mendadak, tubuh kita terdorong ke depan?" (Apersepsi yang kuat).
-2. **Menit 2-10:** Anda menjelaskan Hukum I Newton. Suara Anda meninggi saat menekankan kata "Inersia". Anda berjalan mendekati siswa di baris belakang saat mereka bertanya. Tangan Anda bergerak memperagakan gerakan dorongan.
-3. **Menit 10-12:** Anda melihat jam, tersisa 2 menit. Anda berhenti memberi contoh tambahan, langsung merangkum 3 poin utama, memberikan satu pertanyaan cek pemahaman, dan menutup kelas tepat saat alarm berbunyi.
+1. **Menit 0-2:** kamu masuk dengan senyum, melakukan kontak mata, dan bertanya, "Kenapa saat mobil direm mendadak, tubuh kita terdorong ke depan?" (Apersepsi yang kuat).
+2. **Menit 2-10:** kamu menjelaskan Hukum I Newton. Suara kamu meninggi saat menekankan kata "Inersia". Kamu berjalan mendekati siswa di baris belakang saat mereka bertanya. Tangan kamu bergerak memperagakan gerakan dorongan.
+3. **Menit 10-12:** kamu melihat jam, tersisa 2 menit. Kamu berhenti memberi contoh tambahan, langsung merangkum 3 poin utama, memberikan satu pertanyaan cek pemahaman, dan menutup kelas tepat saat alarm berbunyi.
 
 ## Check-list Pelaksanaan Simulasi
 
@@ -99,4 +99,4 @@ Wajar jika Anda merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan 
 
 > **Insight Penting:** Dalam simulasi mengajar, kualitas interaksi jauh lebih penting daripada kuantitas materi. Lebih baik menjelaskan satu konsep dengan sangat jelas dan penuh energi daripada menjelaskan sepuluh konsep secara terburu-buru dan membosankan.
 
-*Setelah sesi ini berakhir, Anda akan melangkah ke tahap berikutnya yaitu merekam aksi Anda untuk dianalisis. Pastikan eksekusi Anda hari ini memberikan bahan refleksi yang kaya bagi perkembangan profesional Anda.*
+*Setelah sesi ini berakhir, kamu akan melangkah ke tahap berikutnya yaitu merekam aksi kamu untuk dianalisis. Pastikan eksekusi kamu hari ini memberikan bahan refleksi yang kaya bagi perkembangan profesional kamu.*
