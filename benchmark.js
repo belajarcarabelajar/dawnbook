@@ -31,11 +31,11 @@ cards.sort((a, b) => {
             return dataB.view_count - dataA.view_count;
         }
     } else if (sortVal === 'oldest' && dataA && dataB) {
-        return new Date(dataA.created_at) - new Date(dataB.created_at);
+        return dataA.created_at < dataB.created_at ? -1 : (dataA.created_at > dataB.created_at ? 1 : 0);
     }
     // newest default
     if (dataA && dataB) {
-        return new Date(dataB.created_at) - new Date(dataA.created_at);
+        return dataB.created_at < dataA.created_at ? -1 : (dataB.created_at > dataA.created_at ? 1 : 0);
     }
     return 0;
 });
@@ -63,11 +63,11 @@ cards2.sort((a, b) => {
             return dataB.view_count - dataA.view_count;
         }
     } else if (sortVal === 'oldest' && dataA && dataB) {
-        return new Date(dataA.created_at) - new Date(dataB.created_at);
+        return dataA.created_at < dataB.created_at ? -1 : (dataA.created_at > dataB.created_at ? 1 : 0);
     }
     // newest default
     if (dataA && dataB) {
-        return new Date(dataB.created_at) - new Date(dataA.created_at);
+        return dataB.created_at < dataA.created_at ? -1 : (dataB.created_at > dataA.created_at ? 1 : 0);
     }
     return 0;
 });
