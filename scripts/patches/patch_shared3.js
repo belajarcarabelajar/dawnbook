@@ -79,5 +79,13 @@ const target = `    function handleCheckpoint() {
         }
     }`;
 
-code = code.replace(/    function handleCheckpoint\(\) \{[\s\S]*?    \}\n\n    script\.onload/, target + '\n\n    script.onload');
-fs.writeFileSync('books/shared-script.js', code);
+let startIndex = code.indexOf('    function handleCheckpoint() {');
+let endIndex = code.indexOf('    // Bootstrap:');
+
+if (startIndex !== -1 && endIndex !== -1) {
+    let replacedCode = code.substring(0, startIndex) + target + '\n\n' + code.substring(endIndex);
+    fs.writeFileSync('books/shared-script.js', replacedCode);
+    console.log('Patch applied successfully.');
+} else {
+    console.log('Failed to find replace boundaries.', startIndex, endIndex);
+}
