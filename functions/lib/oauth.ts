@@ -17,7 +17,8 @@
 
 export const GOOGLE_AUTH_URL = "https://accounts.google.com/o/oauth2/v2/auth";
 export const GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token";
-export const GOOGLE_USERINFO_URL = "https://openidconnect.googleapis.com/v1/userinfo";
+export const GOOGLE_USERINFO_URL =
+  "https://openidconnect.googleapis.com/v1/userinfo";
 export const SCOPES = ["openid", "email", "profile"];
 
 const HEX32 = /^[a-f0-9]{32,}$/;
@@ -78,7 +79,12 @@ export async function exchangeCode(opts: {
   clientId: string;
   clientSecret: string;
   redirectUri: string;
-}): Promise<{ access_token: string; expires_in: number; id_token?: string; token_type: string }> {
+}): Promise<{
+  access_token: string;
+  expires_in: number;
+  id_token?: string;
+  token_type: string;
+}> {
   const body = new URLSearchParams({
     code: opts.code,
     client_id: opts.clientId,
@@ -92,7 +98,9 @@ export async function exchangeCode(opts: {
     body: body.toString(),
   });
   if (!res.ok) {
-    throw new Error(`Google token exchange failed: ${res.status} ${await res.text()}`);
+    throw new Error(
+      `Google token exchange failed: ${res.status} ${await res.text()}`,
+    );
   }
   return (await res.json()) as any;
 }
@@ -109,12 +117,16 @@ export interface GoogleUserInfo {
  * Fetches the user's Google profile. Throws if the response is not 2xx
  * or if the payload is missing required fields (`sub`, `email`).
  */
-export async function fetchUserInfo(accessToken: string): Promise<GoogleUserInfo> {
+export async function fetchUserInfo(
+  accessToken: string,
+): Promise<GoogleUserInfo> {
   const res = await fetch(GOOGLE_USERINFO_URL, {
     headers: { Authorization: `Bearer ${accessToken}` },
   });
   if (!res.ok) {
-    throw new Error(`Google userinfo failed: ${res.status} ${await res.text()}`);
+    throw new Error(
+      `Google userinfo failed: ${res.status} ${await res.text()}`,
+    );
   }
   const data = (await res.json()) as GoogleUserInfo;
   if (!data.sub || !data.email) {
@@ -145,11 +157,13 @@ export function safeRedirectPath(input: string | null | undefined): string {
   if (!input) return "/";
   if (typeof input !== "string") return "/";
   if (!input.startsWith("/")) return "/";
-  if (input.startsWith("//")) return "/";
+  if (input.startsWith("//") || input.startsWith("/\\")) return "/";
   if (input.includes("\n") || input.includes("\r")) return "/";
   return input;
 }
 
-export function isValidState(value: string | null | undefined): value is string {
+export function isValidState(
+  value: string | null | undefined,
+): value is string {
   return typeof value === "string" && HEX32.test(value);
 }
