@@ -154,7 +154,7 @@ ON CONFLICT(slug) DO UPDATE SET
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
   for (const row of rows) {
     const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
-    
+
     // Chunk size 30,000 characters (30 KB)
     const chunkSize = 30000;
     const content = row.content_md;
@@ -164,7 +164,7 @@ ON CONFLICT(slug) DO UPDATE SET
     }
 
     console.log(`Applying seed for book: ${row.slug} (${chunks.length} chunks)...`);
-    
+
     // 1. Initial insert/update metadata (setting content_md = '')
     const initialSql = `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (

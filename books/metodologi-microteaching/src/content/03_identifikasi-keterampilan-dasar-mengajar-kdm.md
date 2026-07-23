@@ -1,0 +1,133 @@
+# Identifikasi Keterampilan Dasar Mengajar (KDM)
+
+Mengajar bukan sekadar berdiri di depan kelas dan berbicara. Mengajar adalah sebuah seni sekaligus sains yang memerlukan penguasaan berbagai keterampilan spesifik. Bayangkan seorang koki profesional; ia tidak hanya tahu cara memasak, tetapi ia mahir memotong sayur, mengatur suhu api, meracik bumbu, hingga menyajikan hidangan dengan estetik.
+
+Dalam dunia pendidikan, "pisau" dan "suhu api" tersebut adalah **Keterampilan Dasar Mengajar (KDM)**. Tanpa penguasaan KDM, materi yang luar biasa sekalipun mungkin tidak akan sampai ke benak siswa dengan efektif.
+
+## Apa itu Keterampilan Dasar Mengajar?
+
+Keterampilan Dasar Mengajar (KDM) adalah seperangkat kemampuan atau keterampilan yang bersifat spesifik dan mendasar yang harus dimiliki oleh seorang guru untuk melaksanakan tugas mengajar secara efektif, efisien, dan profesional.
+
+Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fondasi bagi setiap pendidik. Mari kita bedah satu per satu secara mendalam.
+
+## 1\. Keterampilan Membuka Pelajaran
+
+*First impression matters.* Keterampilan ini adalah upaya guru dalam memberikan prakondisi agar mental dan perhatian siswa terpusat pada apa yang akan dipelajari.
+
+**Komponen Utama:**
+
+- **Menarik Perhatian:** Menggunakan gaya mengajar yang variatif, media yang menarik, atau pola interaksi yang tidak biasa.
+- **Menimbulkan Motivasi:** Menunjukkan kehangatan, antusiasme, atau menimbulkan rasa ingin tahu (*curiosity*).
+- **Memberi Acuan:** Menjelaskan tujuan pembelajaran dan garis besar materi.
+- **Membuat Kaitan (Apersepsi):** Menghubungkan materi baru dengan materi yang sudah diketahui siswa.
+
+> **Analogi:** Membuka pelajaran seperti sebuah *trailer* film. Jika *trailer* -nya membosankan, penonton tidak akan tertarik menonton film utuhnya.
+
+## 2\. Keterampilan Menjelaskan
+
+Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sistematis untuk menunjukkan adanya hubungan antara satu hal dengan hal lainnya.
+
+**Prinsip Penjelasan yang Baik:**
+
+- **Kejelasan:** Menggunakan bahasa yang mudah dipahami dan menghindari istilah yang membingungkan (*jargon*).
+- **Penggunaan Contoh:** Memberikan ilustrasi nyata dari kehidupan sehari-hari.
+- **Penekanan:** Memberikan penekanan pada bagian-bagian penting (misalnya dengan intonasi suara atau tulisan di papan).
+
+**Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \(L = \pi r^2\). Jelaskan dari mana \(\pi\) berasal: \(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\)
+
+## 3\. Keterampilan Bertanya
+
+Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik tidak hanya memberikan jawaban, tetapi memicu pertanyaan.
+
+- **Pertanyaan Dasar:** Fokus pada pemahaman fakta (Apa, Siapa, Di mana).
+- **Pertanyaan Lanjut:** Fokus pada kemampuan analisis, sintesis, dan evaluasi (Mengapa, Bagaimana jika...).
+
+*Think about this: Apakah kamu sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
+
+## 4\. Keterampilan Memberikan Penguatan (Reinforcement)
+
+Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun sangat bermakna.
+
+- **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
+- **Penguatan Non-Verbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).
+
+## 5\. Keterampilan Mengadakan Variasi
+
+Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar perhatian siswa tetap terjaga selama proses pembelajaran.
+
+**Jenis Variasi:**
+
+1. **Variasi Gaya Mengajar:** Perubahan nada suara, mimik wajah, dan gerak posisi guru di kelas.
+2. **Variasi Penggunaan Media:** Menggunakan gambar, video, alat peraga, atau simulasi digital.
+3. **Variasi Pola Interaksi:** Berubah dari ceramah (guru-siswa) menjadi diskusi kelompok (siswa-siswa).
+
+## 6\. Keterampilan Membimbing Diskusi Kelompok Kecil
+
+Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan masalah bersama. Peran guru di sini adalah sebagai **fasilitator**, bukan pendominasi.
+
+**Langkah-langkah:**
+
+- Memusatkan perhatian siswa pada tujuan diskusi.
+- Memperjelas masalah atau urutan pendapat.
+- Menganalisis pandangan siswa.
+- Meningkatkan partisipasi siswa yang pasif.
+- Menutup diskusi dengan rangkuman bersama.
+
+## 7\. Keterampilan Mengelola Kelas
+
+Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar yang optimal serta mengendalikan kondisi jika terjadi gangguan.
+
+**Dua Sisi Pengelolaan Kelas:**
+
+- **Preventif (Pencegahan):** Guru menunjukkan sikap tanggap, membagi perhatian, dan membuat aturan main yang jelas di awal.
+- **Kuratif (Penyembuhan):** Mengatasi perilaku siswa yang menyimpang agar tidak mengganggu jalannya pelajaran.
+
+**Contoh Logika Pengelolaan Kelas:**
+
+```python
+if siswa_mulai_gaduh:
+    lakukan_kontak_mata()
+    berhenti_berbicara_sejenak()
+    if gaduh_berlanjut:
+        tegur_halus_dengan_nama_siswa()
+else:
+    lanjutkan_pembelajaran()
+```
+
+## 8\. Keterampilan Menutup Pelajaran
+
+Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
+
+**Komponen Utama:**
+
+- **Meninjau Kembali (Review):** Merangkum inti sari pelajaran.
+- **Mengevaluasi:** Memberikan pertanyaan singkat atau kuis untuk melihat sejauh mana pemahaman siswa.
+- **Tindak Lanjut:** Memberikan tugas atau informasi untuk pertemuan berikutnya.
+
+> **Pesan Penting:** Menutup pelajaran adalah momen "menyimpan" data ke dalam memori jangka panjang siswa. Jangan pernah menutup kelas dengan terburu-buru saat bel berbunyi.
+
+## Real-World Application: Skenario di Kelas
+
+Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nyata:
+
+**Skenario:** Pak Budi mengajar IPA tentang fotosintesis.
+
+1. **Membuka:** Pak Budi membawa tanaman layu dan tanaman segar sebagai pemancing (*Menarik Perhatian*).
+2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: \(6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2\).
+3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
+4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
+5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).
+6. **Mengelola Kelas:** Saat dua siswa di belakang asyik mengobrol, Pak Budi berjalan mendekat sambil terus menjelaskan tanpa harus memarahi (*Pengelolaan Preventif*).
+7. **Menutup:** Pak Budi meminta satu siswa merangkum hasil pengamatan sebelum kelas berakhir (*Menutup*).
+
+## Kesimpulan untuk Refleksi
+
+Keterampilan Dasar Mengajar bukanlah bakat lahiriah, melainkan kompetensi yang bisa dilatih melalui praktik terus-menerus dalam *Microteaching*. Kedelapan keterampilan ini saling melengkapi dan tidak berdiri sendiri.
+
+*Coba renungkan: Dari kedelapan keterampilan di atas, mana yang menurut kamu paling menantang untuk dikuasai? Apakah itu menjaga ketenangan kelas (pengelolaan) atau memberikan pertanyaan yang memancing berpikir kritis?*
+
+**Poin Utama untuk Diingat:**
+
+- KDM adalah fondasi profesionalisme guru.
+- Penguasaan KDM secara bertahap akan meningkatkan kepercayaan diri pengajar.
+- Fokuslah pada satu atau dua keterampilan untuk diperbaiki dalam setiap sesi latihan mikro kamu.

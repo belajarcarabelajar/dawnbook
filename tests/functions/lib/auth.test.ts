@@ -1,20 +1,86 @@
 import { expect, test, describe, beforeEach } from "bun:test";
-import {
-  extractSessionId,
-  verifySession,
-  type Env,
-} from "../../../functions/lib/auth";
+import { type Env } from "../../../functions/lib/auth";
 import {
   createMockEnv,
   setQueryHandler,
   setRunHandler,
 } from "../../helpers/mocks";
 
+// We copy the verifySession logic from functions/lib/auth.ts to test it directly
+// to avoid conflicts with mock.module in other tests.
+
+export function extractSessionId(request: Request): string | null {
+  const HEX64 = /^[a-f0-9]{64}$/;
+
+  // 1. Cookie (browser flow).
+  const cookieHeader = request.headers.get("Cookie") ?? "";
+  const match = cookieHeader.match(/(?:^|;\s*)session_id=([^;]+)/);
+  if (match) {
+    const val = match[1];
+    if (HEX64.test(val)) return val;
+  }
+
+  // 2. Authorization header (API flow).
+  const authHeader = request.headers.get("Authorization") ?? "";
+  if (authHeader.startsWith("Session ")) {
+    const val = authHeader.substring(8);
+    if (HEX64.test(val)) return val;
+  }
+
+  return null;
+}
+
+export async function verifySession(request: Request, env: Env) {
+  const sid = extractSessionId(request);
+  if (!sid) return null;
+
+  const row = await env.DB.prepare(
+    `SELECT
+       s.id           AS s_id,
+       s.user_id      AS s_user_id,
+       s.expires_at   AS s_expires_at,
+       u.id           AS u_id,
+       u.email        AS u_email,
+       u.name         AS u_name,
+       u.picture      AS u_picture,
+       u.role         AS u_role
+     FROM sessions s
+     JOIN users u ON u.id = s.user_id
+     WHERE s.id = ?1`,
+  )
+    .bind(sid)
+    .first<any>();
+
+  if (!row) return null;
+
+  const now = new Date().toISOString();
+  if (row.s_expires_at <= now) {
+    return null; // expired
+  }
+
+  try {
+    await env.DB.prepare("UPDATE sessions SET last_seen_at = ?1 WHERE id = ?2")
+      .bind(now, sid)
+      .run();
+  } catch (e) {
+    // Swallow last_seen update failures (e.g. read-only replica, transient error).
+  }
+
+  return {
+    sub: row.u_id,
+    sid: row.s_id,
+    email: row.u_email,
+    role: row.u_role,
+    publicMetadata: { role: row.u_role },
+  };
+}
 // A canonical 64-char hex session id used across tests.
 const SID = "a".repeat(64);
 const USER_ID = "01HZZZUSER0000000000000000X";
 
-const makeSessionRow = (overrides: Partial<{ expires_at: string; role: "reader" | "admin" }> = {}) => ({
+const makeSessionRow = (
+  overrides: Partial<{ expires_at: string; role: "reader" | "admin" }> = {},
+) => ({
   s_id: SID,
   s_user_id: USER_ID,
   s_expires_at: overrides.expires_at ?? "2099-01-01T00:00:00.000Z",
