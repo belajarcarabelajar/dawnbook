@@ -14,32 +14,28 @@ const pinned = [];
 const sortVal = 'popular';
 
 console.time('Baseline Sort');
-const baselineBookDataMap = new Map();
-serverBooksData.forEach(b => baselineBookDataMap.set(b.slug, b));
-const baselinePinnedSet = new Set(pinned);
-
 cards.sort((a, b) => {
     const slugA = a.getAttribute('data-slug');
     const slugB = b.getAttribute('data-slug');
-    const aPinned = baselinePinnedSet.has(slugA);
-    const bPinned = baselinePinnedSet.has(slugB);
+    const aPinned = pinned.includes(slugA);
+    const bPinned = pinned.includes(slugB);
 
     if (aPinned && !bPinned) return -1;
     if (!aPinned && bPinned) return 1;
 
-    const dataA = baselineBookDataMap.get(slugA);
-    const dataB = baselineBookDataMap.get(slugB);
+    const dataA = serverBooksData.find(b => b.slug === slugA);
+    const dataB = serverBooksData.find(b => b.slug === slugB);
 
     if (sortVal === 'popular' && dataA && dataB) {
         if (dataB.view_count !== dataA.view_count) {
             return dataB.view_count - dataA.view_count;
         }
     } else if (sortVal === 'oldest' && dataA && dataB) {
-        return dataA.created_at < dataB.created_at ? -1 : (dataA.created_at > dataB.created_at ? 1 : 0);
+        return new Date(dataA.created_at) - new Date(dataB.created_at);
     }
     // newest default
     if (dataA && dataB) {
-        return dataB.created_at < dataA.created_at ? -1 : (dataB.created_at > dataA.created_at ? 1 : 0);
+        return new Date(dataB.created_at) - new Date(dataA.created_at);
     }
     return 0;
 });
@@ -67,11 +63,11 @@ cards2.sort((a, b) => {
             return dataB.view_count - dataA.view_count;
         }
     } else if (sortVal === 'oldest' && dataA && dataB) {
-        return dataA.created_at < dataB.created_at ? -1 : (dataA.created_at > dataB.created_at ? 1 : 0);
+        return new Date(dataA.created_at) - new Date(dataB.created_at);
     }
     // newest default
     if (dataA && dataB) {
-        return dataB.created_at < dataA.created_at ? -1 : (dataB.created_at > dataA.created_at ? 1 : 0);
+        return new Date(dataB.created_at) - new Date(dataA.created_at);
     }
     return 0;
 });

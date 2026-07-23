@@ -2,20 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Fix the hardcoded path by resolving it dynamically
-const bookName = process.argv[2];
-
-if (!bookName) {
-    console.error('Error: Please provide a book name as an argument. Example: node scripts/fix_anda.js quarter-life-crisis');
-    process.exit(1);
-}
-
-const contentDir = path.resolve(__dirname, `../books/${bookName}/src/content`);
-
-if (!fs.existsSync(contentDir)) {
-    console.error(`Error: Directory not found: ${contentDir}`);
-    process.exit(1);
-}
-
+const contentDir = path.resolve(__dirname, '../books/quarter-life-crisis/src/content');
 const files = fs.readdirSync(contentDir).filter(f => f.endsWith('.md'));
 
 files.forEach(file => {
@@ -39,4 +26,4 @@ files.forEach(file => {
     fs.writeFileSync(filePath, content);
 });
 
-console.log(`Fixed pronouns in ${bookName}`);
+console.log('Fixed pronouns in quarter-life-crisis');
