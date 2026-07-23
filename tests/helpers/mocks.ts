@@ -35,48 +35,53 @@ function identityKey(env: any): string {
 const defaultQuery: QueryHandler = () => [];
 const defaultRun: RunHandler = () => ({ success: true });
 
-export const mockD1Database: D1Database = {
-  prepare: mock((sql: string) => {
-    const bound: { params: any[] } = { params: [] };
-    const api = {
-      bind: (...params: any[]) => {
-        bound.params = params;
-        return api;
-      },
-      all: mock(async () => {
-        const h = handlers.get(currentKey);
-        const rows = h ? h.query(sql, bound.params) : defaultQuery(sql, bound.params);
-        return { results: rows, success: true, meta: {} };
-      }),
-      first: mock(async () => {
-        const h = handlers.get(currentKey);
-        const rows = h ? h.query(sql, bound.params) : defaultQuery(sql, bound.params);
-        return rows[0] ?? null;
-      }),
-      run: mock(async () => {
-        const h = handlers.get(currentKey);
-        return h ? h.run(sql, bound.params) : defaultRun(sql, bound.params);
-      }),
-      raw: mock(async () => [] as any),
-    };
-    return api as any;
-  }),
-  batch: mock(async (statements: any[]) => statements.map(() => ({ success: true }))),
-  exec: mock(async (_sql: string) => ({ count: 0, duration: 0 })),
-  dump: mock(async () => new ArrayBuffer(0)),
-  withSession: mock(async (_id: string) => null),
-} as unknown as D1Database;
+export const createMockD1Database = (key: string): D1Database => {
+  return {
+    prepare: mock((sql: string) => {
+      const bound: { params: any[] } = { params: [] };
+      const api = {
+        bind: (...params: any[]) => {
+          bound.params = params;
+          return api;
+        },
+        all: mock(async () => {
+          const h = handlers.get(key);
+          const rows = h ? h.query(sql, bound.params) : defaultQuery(sql, bound.params);
+          return { results: rows, success: true, meta: {} };
+        }),
+        first: mock(async () => {
+          const h = handlers.get(key);
+          const rows = h ? h.query(sql, bound.params) : defaultQuery(sql, bound.params);
+          return rows[0] ?? null;
+        }),
+        run: mock(async () => {
+          const h = handlers.get(key);
+          return h ? h.run(sql, bound.params) : defaultRun(sql, bound.params);
+        }),
+        raw: mock(async () => [] as any),
+      };
+      return api as any;
+    }),
+    batch: mock(async (statements: any[]) => statements.map(() => ({ success: true }))),
+    exec: mock(async (_sql: string) => ({ count: 0, duration: 0 })),
+    dump: mock(async () => new ArrayBuffer(0)),
+    withSession: mock(async (_id: string) => null),
+  } as unknown as D1Database;
+};
 
-let currentKey: string = "";
+// Deprecated: only used for older tests that haven't migrated to createMockEnv
+export const mockD1Database: D1Database = createMockD1Database("global_mock_d1");
 
 export const createMockEnv = (overrides: Partial<{ DB: D1Database; GOOGLE_CLIENT_ID: string; GOOGLE_CLIENT_SECRET: string }> = {}) => {
+  const envKey = Math.random().toString(36).slice(2);
+  const dbMock = createMockD1Database(envKey);
   const env: any = {
-    DB: mockD1Database,
+    DB: dbMock,
     GOOGLE_CLIENT_ID: "test_client_id",
     GOOGLE_CLIENT_SECRET: "test_client_secret",
     ...overrides,
   };
-  currentKey = identityKey(env);
+  env.__id = envKey;
   return env as any;
 };
 
