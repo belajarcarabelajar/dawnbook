@@ -48,6 +48,7 @@ export interface BuiltBook {
   chapterCount: number;
   emoji: string;
   chapters: string[];
+  mtimeMs: number;
 }
 
 async function buildAllBooks(
@@ -139,6 +140,15 @@ async function buildAllBooks(
         } catch (e) {
           console.warn("Failed to read icon.txt, falling back to generic", e);
         }
+        let mtimeMs = bookStat.mtimeMs;
+        try {
+          const gitLog = await $`git log -1 --format=%ct ${bookPath}`.quiet().text();
+          const ts = parseInt(gitLog.trim(), 10);
+          if (!isNaN(ts) && ts > 0) {
+            mtimeMs = ts * 1000;
+          }
+        } catch (e) {}
+
         builtBooks.push({
           slug: entry,
           title: formattedTitle,
@@ -146,6 +156,7 @@ async function buildAllBooks(
           chapterCount,
           emoji,
           chapters,
+          mtimeMs,
         });
         console.log(`Successfully built: ${entry}`);
       } catch (error) {
@@ -155,8 +166,8 @@ async function buildAllBooks(
     }
   }
 
-  // Sort builtBooks alphabetically to ensure consistent initial HTML order before JS hydration
-  builtBooks.sort((a, b) => a.title.localeCompare(b.title));
+  // Sort builtBooks newest first (matching default "Newest First" UI selection)
+  builtBooks.sort((a, b) => b.mtimeMs - a.mtimeMs);
   return builtBooks;
 }
 
@@ -328,7 +339,7 @@ async function generateSitePages(
       ${builtBooks
         .map(
           (b) => `
-        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
+        <a href="/books/${escapeHtml(b.slug)}/" class="book-card" data-slug="${escapeHtml(b.slug)}" data-created-at="${b.mtimeMs}" style="display: flex; flex-direction: column; padding: 20px; position: relative; transition: all 0.3s ease; height: 100%;">
             <div style="flex: 1; display: flex; flex-direction: column;">
                 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px;">
                     <span style="font-size: 48px; line-height: 1; display: inline-block; min-height: 48px; min-width: 48px;">${b.emoji}</span>
@@ -418,18 +429,18 @@ async function generateSitePages(
               const dataA = bookDataMap.get(slugA);
               const dataB = bookDataMap.get(slugB);
               
+              const timeA = (dataA && dataA._parsed_created_at) ? dataA._parsed_created_at : (parseInt(a.getAttribute('data-created-at')) || 0);
+              const timeB = (dataB && dataB._parsed_created_at) ? dataB._parsed_created_at : (parseInt(b.getAttribute('data-created-at')) || 0);
+
               if (sortVal === 'popular' && dataA && dataB) {
                   if (dataB.view_count !== dataA.view_count) {
                       return dataB.view_count - dataA.view_count;
                   }
-              } else if (sortVal === 'oldest' && dataA && dataB) {
-                  return dataA._parsed_created_at - dataB._parsed_created_at;
+              } else if (sortVal === 'oldest') {
+                  return timeA - timeB;
               }
               // newest default
-              if (dataA && dataB) {
-                  return dataB._parsed_created_at - dataA._parsed_created_at;
-              }
-              return 0;
+              return timeB - timeA;
           });
 
           cards.forEach(card => {
