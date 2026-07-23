@@ -1,13 +1,13 @@
 [book]
-authors = ["Tedi Rahmat"]
+authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
-title = "Teori Perkembangan Kognitif Piaget"
-description = "Kajian mendalam teori perkembangan kognitif Jean Piaget dari tahap sensori-motorik hingga formal-operasional pada anak."
+title = "Human Capital Theory"
+description = "Memahami konsep Human Capital Theory, investasi pada pendidikan dan pelatihan, serta dampaknya terhadap produktivitas dan ekonomi."
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Psikologi"
+subject_label = "Manajemen"
 
 [output.html.print]
 enable = false

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Kecerdasan Interpersonal"
+description = "Panduan melatih kecerdasan interpersonal, kemampuan empati, komunikasi efektif, dan pembentukan hubungan sosial yang kuat."
 
 [preprocessor.dawnbook]
 optional = true

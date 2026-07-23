@@ -3,6 +3,7 @@ authors = ["Kania Salsabila"]
 language = "id"
 src = "src"
 title = "Teori Gaya Kelekatan (Attachment Styles)"
+description = "Memahami 4 teori gaya kelekatan (attachment styles) dan pengaruhnya terhadap dinamika hubungan emosional serta pola interaksi."
 
 [preprocessor.dawnbook]
 optional = true

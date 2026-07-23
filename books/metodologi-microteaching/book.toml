@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Metodologi Microteaching"
+description = "Panduan praktis metodologi microteaching untuk calon pendidik dalam melatih keterampilan mengajar dasar dan manajemen simulasi kelas."
 
 [preprocessor.dawnbook]
 optional = true

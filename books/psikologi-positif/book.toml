@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Psikologi Positif"
+description = "Pelajari prinsip psikologi positif, kebahagiaan otentik, karakter utama, dan strategi membangun kesejahteraan mental (well-being)."
 
 [preprocessor.dawnbook]
 optional = true

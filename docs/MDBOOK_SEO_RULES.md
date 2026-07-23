@@ -85,7 +85,7 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 **Inputs:** Validated slug string.
 **Scope:** Read `books/_template/**`. Write `books/<slug>/**`.
 **Output:** Scaffolded book directory.
-**Success gate:** `book.toml` and `SUMMARY.md` exist.
+**Success gate:** `book.toml` contains `title`, `authors`, and mandatory `description` (100–160 chars), and `SUMMARY.md` exists.
 **Failure/rollback:** Delete `books/<slug>` and halt.
 
 ### MetadataAgent
@@ -206,7 +206,7 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 
 ```markdown
 [ ] Phase A scaffold generated successfully.
-[ ] Phase B metadata applied (H1, title, referensi.md present).
+[ ] Phase B metadata applied (H1, title, mandatory `description` in `book.toml`, referensi.md present).
 [ ] Phase C build succeeded.
 [ ] Phase D sitemap.xml generated and valid.
 [ ] Phase E validation script exists and passes.

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Arsitektur Kernel Linux"
+description = "Pelajari arsitektur internal Kernel Linux dari manajemen memori, penjadwalan proses, hingga ruang kernel dan subsistem driver perangkat."
 
 [preprocessor.dawnbook]
 optional = true

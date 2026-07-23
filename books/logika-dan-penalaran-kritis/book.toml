@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Logika dan Penalaran Kritis"
+description = "Kuasai ilmu logika dan penalaran kritis untuk mengidentifikasi kekeliruan berpikir (fallacy), mengevaluasi argumen, dan berpikir analitis."
 
 [preprocessor.dawnbook]
 optional = true

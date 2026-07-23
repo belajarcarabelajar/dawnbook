@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Menemukan Tujuan Hidup (Ikigai)"
+description = "Panduan praktis memahami filosofi Ikigai Jepang untuk menemukan perpotongan antara passion, misi, vokasi, dan profesi dalam hidup."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Virtue Ethics Aristoteles"
+description = "Pelajari etika keutamaan (Virtue Ethics) Aristoteles, konsep eudaimonia, dan pembentukan karakter moral yang luhur."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Sejarah & Evolusi Drama Korea"
+description = "Kajian sejarah dan evolusi industri drama Korea dari produksi tradisional hingga fenomena budaya pop global (Hallyu Wave)."
 
 [preprocessor.dawnbook]
 optional = true

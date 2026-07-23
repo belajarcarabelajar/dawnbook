@@ -3,6 +3,7 @@ authors = ["Kania Salsabila"]
 language = "en"
 src = "src"
 title = "Analisis Ekspresif Novel 9 Summers 10 Autumns Karya Iwan Setyawan"
+description = "Panduan analisis psikologi ekspresif novel 9 Summers 10 Autumns karya Iwan Setyawan, mengupas struktur narasi, dinamika emosi, dan refleksi kehidupan."
 
 [preprocessor.dawnbook]
 optional = true

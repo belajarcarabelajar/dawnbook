@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Eksistensialisme dan Makna Hidup"
+description = "Eksplorasi pemikiran filsafat eksistensialisme mengenai kebebasan, kecemasan eksistensial, dan pencarian makna hidup secara mendalam."
 
 [preprocessor.dawnbook]
 optional = true

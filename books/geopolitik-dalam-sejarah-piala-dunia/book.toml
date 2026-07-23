@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Geopolitik dalam Sejarah Piala Dunia"
+description = "Analisis kritis hubungan antara geopolitik, pengaruh kekuasaan, dan diplomasi internasional dalam sejarah penyelenggaraan Piala Dunia."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Resiliensi dan Ketangguhan"
+description = "Strategi membangun resiliensi dan ketangguhan mental untuk bangkit dari kegagalan, kesulitan, dan tekanan hidup."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Fungsi Manajemen (POAC)"
+description = "Pelajari 4 fungsi utama manajemen POAC (Planning, Organizing, Actuating, Controlling) untuk meningkatkan efisiensi tata kelola organisasi."
 
 [preprocessor.dawnbook]
 optional = true

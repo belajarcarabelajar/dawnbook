@@ -54,6 +54,8 @@ On-page = everything on the page itself that you control. These are the highest-
 
 ### 2.2 Meta description
 
+- **Mandatory book.toml description:** Every book's `book.toml` MUST explicitly set `description = "..."` under `[book]` (100–160 chars). This triggers mdBook to automatically inject `<meta name="description" content="...">` into every compiled chapter page.
+
 - 140–160 characters; summarize the page and include the primary keyword naturally.
 - It does **not** directly affect ranking, but it strongly affects click-through rate (CTR), which matters.
 - Write it as ad copy with a clear value proposition / call to action. Unique per page.

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "en"
 src = "src"
 title = "Placeholder Title"
+description = "Placeholder description for book SEO meta tag."
 
 [preprocessor.dawnbook]
 optional = true

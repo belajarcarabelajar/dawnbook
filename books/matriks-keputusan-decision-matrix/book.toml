@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Matriks Keputusan (Decision Matrix)"
+description = "Metode praktis membuat matriks keputusan (Decision Matrix) untuk memilih alternatif solusi terbaik secara objektif dan terstruktur."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Multiple Intelligences"
+description = "Memahami 8 jenis kecerdasan majemuk (Multiple Intelligences) Howard Gardner untuk mengoptimalkan potensi belajar unik setiap individu."
 
 [preprocessor.dawnbook]
 optional = true

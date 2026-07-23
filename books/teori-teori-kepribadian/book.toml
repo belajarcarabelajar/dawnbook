@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Teori-teori Kepribadian"
+description = "Tinjauan komprehensif teori-teori kepribadian utama dari psikoanalisis, humanistik, hingga teori sifat (trait theory)."
 
 [preprocessor.dawnbook]
 optional = true

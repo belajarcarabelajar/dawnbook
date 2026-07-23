@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Strategi Manajemen Kelas Proaktif"
+description = "Strategi manajemen kelas proaktif bagi guru untuk menciptakan lingkungan belajar yang kondusif, disiplin positif, dan produktif."
 
 [preprocessor.dawnbook]
 optional = true

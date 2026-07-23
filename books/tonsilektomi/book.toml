@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Tonsilektomi"
+description = "Panduan medis dan komprehensif mengenai indikasi, prosedur bedah, perawatan pasca-operasi, serta komplikasi tonsilektomi."
 
 [preprocessor.dawnbook]
 optional = true

@@ -3,6 +3,7 @@ authors = ["Tedi Rahmat"]
 language = "id"
 src = "src"
 title = "Neuroplastisitas dalam Belajar"
+description = "Eksplorasi kemampuan otak mengubah struktur saraf (neuroplastisitas) untuk memaksimalkan proses pembelajaran dan retensi memori."
 
 [preprocessor.dawnbook]
 optional = true

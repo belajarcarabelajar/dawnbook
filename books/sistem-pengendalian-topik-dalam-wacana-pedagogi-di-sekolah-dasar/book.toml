@@ -3,6 +3,7 @@ authors = ["Kania Salsabila"]
 language = "id"
 src = "src"
 title = "Sistem Pengendalian Topik dalam Wacana Pedagogi di Sekolah Dasar"
+description = "Analisis wacana pedagogi dan sistem pengendalian topik dalam interaksi belajar mengajar guru dan siswa di sekolah dasar."
 
 [preprocessor.dawnbook]
 optional = true

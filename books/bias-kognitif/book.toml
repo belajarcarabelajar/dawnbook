@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Bias Kognitif"
+description = "Panduan komprehensif memahami bias kognitif, heuristik berpikir, dan jebakan persepsi untuk meningkatkan kualitas pengambilan keputusan."
 
 [preprocessor.dawnbook]
 optional = true

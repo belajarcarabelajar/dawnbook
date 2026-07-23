@@ -3,6 +3,7 @@ authors = ["AI"]
 language = "id"
 src = "src"
 title = "Metakognisi: Belajar Bagaimana Belajar"
+description = "Pelajari konsep metakognisi untuk memahami cara kerja pikiran sendiri, mengoptimalkan cara belajar, dan meningkatkan kesadaran diri."
 
 [preprocessor.dawnbook]
 optional = true

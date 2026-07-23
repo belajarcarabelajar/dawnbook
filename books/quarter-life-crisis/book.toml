@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Quarter-Life Crisis: Navigasi Krisis Usia 20-an"
+description = "Panduan praktis navigasi Quarter-Life Crisis untuk usia 20-an dalam mengatasi kecemasan karir, relasi, dan identitas diri."
 
 [preprocessor.dawnbook]
 optional = true

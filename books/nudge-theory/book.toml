@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Nudge Theory"
+description = "Pelajari Nudge Theory dan sains perilaku untuk merancang pilihan (choice architecture) yang mendorong perubahan perilaku positif."
 
 [preprocessor.dawnbook]
 optional = true

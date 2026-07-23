@@ -3,6 +3,7 @@ authors = ["Tedi Rahmat"]
 language = "id"
 src = "src"
 title = "Filosofi Stoikisme"
+description = "Panduan praktis filosofi Stoikisme untuk melatih ketenangan batin, mengendalikan emosi, dan menghadapi tantangan hidup modern."
 
 [preprocessor.dawnbook]
 optional = true

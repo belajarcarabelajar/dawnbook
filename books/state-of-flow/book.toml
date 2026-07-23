@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "State of Flow"
+description = "Pelajari konsep State of Flow dari Mihaly Csikszentmihalyi untuk mencapai fokus puncak, kreativitas, dan performa maksimal."
 
 [preprocessor.dawnbook]
 optional = true

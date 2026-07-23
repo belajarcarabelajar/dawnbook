@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Pembelajaran Multidisiplin: Menghubungkan Pikiran, Menembus Batas Ilmu"
+description = "Panduan pembelajaran multidisiplin dalam menghubungkan berbagai cabang ilmu untuk memecahkan masalah kompleks abad 21."
 
 [preprocessor.dawnbook]
 optional = true

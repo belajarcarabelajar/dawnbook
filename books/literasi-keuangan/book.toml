@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Literasi Keuangan"
+description = "Panduan dasar hingga advanced literasi keuangan: manajemen arus kas, perencanaan investasi, pengelolaan risiko, dan kebebasan finansial."
 
 [preprocessor.dawnbook]
 optional = true

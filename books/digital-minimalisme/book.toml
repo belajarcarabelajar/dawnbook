@@ -3,6 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Digital Minimalisme"
+description = "Strategi praktis menerapkan digital minimalisme untuk mengurangi distrasi teknologi, fokus pada hal esensial, dan mengembalikan ketenangan pikiran."
 
 [preprocessor.dawnbook]
 optional = true
