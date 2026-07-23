@@ -71,6 +71,7 @@
 
         window.checkpointHandled = false;
 
+        // If we are on the root page (table of contents) and we haven't been redirected here
         if (isRoot && !hasRedirected) {
             try {
                 if (!sessionStorage.getItem('viewed_' + bookSlug)) {
@@ -79,6 +80,7 @@
                 }
             } catch(e) { console.warn('sessionStorage setItem error', e); }
 
+            // Only try to redirect if we aren't coming from internal navigation (e.g. clicking 'Back to Hub')
             if (!isInternalNavigation) {
                 fetch('/api/progress?bookSlug=' + encodeURIComponent(bookSlug), {
                     credentials: 'same-origin'
@@ -89,27 +91,25 @@
                         window.updateBookProgress(data.completed_paths);
                     }
                     if (data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
+                        // Redirect to the saved chapter path!
                         window.location.replace(data.path + '?redirected=true');
                     } else {
                         window.checkpointHandled = true;
-                        if (!isRoot) {
-                            window.saveProgress();
-                        }
                     }
                 })
                 .catch(function(e) {
                     console.error('Failed to load progress', e);
                     window.checkpointHandled = true;
-                    if (!isRoot) {
-                        window.saveProgress();
-                    }
                 });
             } else {
                 window.checkpointHandled = true;
             }
         } else {
+            // If we are NOT on the root page (i.e. we are on a Chapter page), OR we've been redirected here...
             window.checkpointHandled = true;
             if (!isRoot) {
+                // Only save progress if we are actually on a chapter page!
+                // Never save the root page as progress.
                 window.saveProgress();
             }
         }
