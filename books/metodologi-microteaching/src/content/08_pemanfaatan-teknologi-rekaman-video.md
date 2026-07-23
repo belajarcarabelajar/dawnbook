@@ -1,6 +1,6 @@
-## Pemanfaatan Teknologi Rekaman Video: "Mata Kedua" Sang Pendidik
+# Pemanfaatan Teknologi Rekaman Video: Mata Kedua Sang Pendidik
 
-Pernahkah Anda merasa sudah mengajar dengan sangat maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak Anda sadari? Mungkin Anda terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
+Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
 
 Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang paling jujur. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
@@ -9,14 +9,14 @@ Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteachi
 Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
 
 - **Objektivitas Mutlak:** Berbeda dengan ingatan manusia yang subjektif, video merekam fakta.
-- **Analisis Berulang:** Anda dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
-- **Bukti Kinerja (Portofolio):** Rekaman menjadi aset digital yang membuktikan progres keterampilan mengajar Anda dari waktu ke waktu.
+- **Analisis Berulang:** kamu dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
+- **Bukti Kinerja (Portofolio):** Rekaman menjadi aset digital yang membuktikan progres keterampilan mengajar kamu dari waktu ke waktu.
 
 > "Video adalah cermin yang tidak hanya memantulkan wajah, tapi juga memantulkan metodologi dan energi seorang guru di dalam kelas."
 
 ## 2\. Aspek Teknis Pengambilan Video
 
-Untuk mendapatkan video yang berkualitas dan layak dianalisis, Anda tidak memerlukan kru film profesional. Namun, Anda harus memahami beberapa prinsip dasar videografi berikut:
+Untuk mendapatkan video yang berkualitas dan layak dianalisis, kamu tidak memerlukan kru film profesional. Namun, kamu harus memahami beberapa prinsip dasar videografi berikut:
 
 ### A. Komposisi dan Framing (Pembingkaian)
 
@@ -26,7 +26,7 @@ Gunakan prinsip **Rule of Thirds** untuk menempatkan subjek. Dalam microteaching
 2. **Media Pembelajaran:** Papan tulis, slide, atau alat peraga harus terlihat jelas.
 3. **Interaksi Siswa:** Setidaknya beberapa siswa model harus masuk dalam frame untuk melihat respons mereka.
 
-**Tip Teknis:** Gunakan rasio aspek $16:9$ (Landscape) karena lebih sesuai dengan perspektif pandangan mata dan layar monitor standar.
+**Tip Teknis:** Gunakan rasio aspek 16:9 (Landscape) karena lebih sesuai dengan perspektif pandangan mata dan layar monitor standar.
 
 ### B. Pencahayaan (Lighting)
 
@@ -60,7 +60,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 
 ### Resolusi dan Format
 
-- **Resolusi:** Minimal $720p$ (HD) untuk keseimbangan antara kejernihan dan ukuran file.
+- **Resolusi:** Minimal 720p (HD) untuk keseimbangan antara kejernihan dan ukuran file.
 - **Format:** `.mp4` (H.264) karena kompatibel dengan hampir semua perangkat dan platform evaluasi.
 
 ## 5\. Real-World Application: Skenario Simulasi
@@ -88,6 +88,6 @@ Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa m
 | **Audio** | Lakukan tes suara (cek apakah suara guru terdengar jelas dari jarak 3 meter). |
 | **Mode Pesawat** | Jika menggunakan smartphone, aktifkan *Airplane Mode* agar rekaman tidak terhenti oleh panggilan masuk. |
 
-*Think about this:* *Jika Anda menonton video mengajar Anda sendiri tanpa suara, apakah Anda masih bisa memahami pesan yang ingin Anda sampaikan hanya melalui bahasa tubuh dan ekspresi Anda?*
+*Think about this:* *Jika kamu menonton video mengajar kamu sendiri tanpa suara, apakah kamu masih bisa memahami pesan yang ingin kamu sampaikan hanya melalui bahasa tubuh dan ekspresi kamu?*
 
 > **Poin Kunci:** Rekaman video dalam microteaching bukan tentang membuat "film yang indah", melainkan tentang menangkap "proses yang nyata" demi perbaikan berkelanjutan.

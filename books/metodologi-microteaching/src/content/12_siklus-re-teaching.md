@@ -1,4 +1,4 @@
-## Siklus Re-teaching: Menyempurnakan Seni Mengajar melalui Iterasi
+# Siklus Re-teaching: Menyempurnakan Seni Mengajar melalui Iterasi
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk memperbaiki *bug* sebelum produk benar-benar siap. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
@@ -12,22 +12,22 @@ Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah up
 
 ## Tahapan Melakukan Re-teaching yang Efektif
 
-Proses re-teaching tidak dimulai saat Anda berdiri di depan kelas lagi, melainkan dimulai segera setelah sesi umpan balik berakhir. Berikut adalah langkah-langkah sistematisnya:
+Proses re-teaching tidak dimulai saat kamu berdiri di depan kelas lagi, melainkan dimulai segera setelah sesi umpan balik berakhir. Berikut adalah langkah-langkah sistematisnya:
 
 ### 1\. Analisis Celah (Gap Analysis)
 
-Sebelum menyentuh RPP Anda, tinjau kembali data dari instrumen observasi dan rekaman video.
+Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rekaman video.
 
 - Identifikasi bagian mana yang tidak berjalan sesuai rencana.
 - Apakah masalahnya ada pada **manajemen waktu**, **penggunaan media**, atau **teknik bertanya**?
-- Gunakan logika sederhana ini: $Ekspektasi - Realitas = Area Perbaikan$
+- Gunakan logika sederhana ini: \(\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}\)
 
 ### 2\. Revisi RPP (Refining the Blueprint)
 
-Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro Anda. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
+Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
 - **Fokus pada Perubahan Spesifik:** Jika feedback mengatakan "pertanyaan terlalu tertutup", maka tuliskan daftar pertanyaan terbuka secara eksplisit di kolom kegiatan RPP revisi.
-- **Penyesuaian Alokasi Waktu:** Jika sebelumnya Anda kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
+- **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
 ### 3\. Simulasi Mandiri (The Mental Rehearsal)
@@ -35,13 +35,13 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro Anda. 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
 - Praktikkan transisi antar langkah pembelajaran yang telah direvisi.
-- *Think about this: Apakah perubahan yang Anda buat terasa lebih alami atau justru membuat Anda canggung?*
+- *Think about this: Apakah perubahan yang kamu buat terasa lebih alami atau justru membuat kamu canggung?*
 
 ### 4\. Pelaksanaan Re-teaching
 
-Pada tahap ini, Anda kembali ke "laboratorium" mengajar.
+Pada tahap ini, kamu kembali ke "laboratorium" mengajar.
 
-- **Fokus Mental:** Fokuslah pada poin-poin revisi. Jika target Anda adalah memperbaiki *eye contact*, sadarilah setiap kali mata Anda mulai terpaku pada catatan.
+- **Fokus Mental:** Fokuslah pada poin-poin revisi. Jika target kamu adalah memperbaiki *eye contact*, sadarilah setiap kali mata kamu mulai terpaku pada catatan.
 - **Konsistensi Materi:** Tetap gunakan materi yang sama. Mengganti materi akan menghilangkan fungsi kontrol dari eksperimen perbaikan ini.
 
 ## Perbandingan: RPP Awal vs RPP Re-teaching
@@ -57,7 +57,7 @@ Berikut adalah ilustrasi bagaimana sebuah revisi dilakukan dalam struktur RPP Mi
 
 ## Analogi: Mengasah Pisau
 
-Bayangkan Anda sedang mengasah pisau. Sesi pertama adalah saat Anda menyadari bahwa pisau tersebut tumpul (refleksi). Anda melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut akan tetap tumpul selamanya.
+Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut akan tetap tumpul selamanya.
 
 ## Real-world Application: Skenario Perbaikan
 
@@ -77,6 +77,6 @@ Bayangkan Anda sedang mengasah pisau. Sesi pertama adalah saat Anda menyadari ba
 
 **Penting:**
 
-> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kemewahan laboratorium di mana Anda diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
+> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kemewahan laboratorium di mana kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
 
-*Refleksi untuk Anda:* *Setelah menerima umpan balik yang tajam, apakah Anda merasa defensif atau justru merasa terbantu? Bagaimana perasaan tersebut memengaruhi kualitas revisi RPP yang Anda buat?*
+*Refleksi untuk kamu:* *Setelah menerima umpan balik yang tajam, apakah kamu merasa defensif atau justru merasa terbantu? Bagaimana perasaan tersebut memengaruhi kualitas revisi RPP yang kamu buat?*

@@ -1,6 +1,6 @@
-## Instrumen Observasi dan Penilaian Sejawat: Menjadi Cermin Objektif bagi Rekan Pendidik
+# Instrumen Observasi dan Penilaian Sejawat: Menjadi Cermin Objektif bagi Rekan Pendidik
 
-Pernahkah Anda berdiri di depan kelas, merasa semuanya berjalan lancar, namun kemudian terkejut saat mengetahui siswa Anda sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
+Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun kemudian terkejut saat mengetahui siswa kamu sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
 
 Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif seperti, *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
@@ -10,7 +10,7 @@ Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing)
 
 ### Mengapa Harus Objektif?
 
-Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secara pribadi menyukai gaya bicara Anda yang cepat. Tanpa instrumen, ia mungkin memberi nilai tinggi. Namun, dengan instrumen yang memiliki indikator **"Kecepatan bicara sesuai dengan daya tangkap siswa"**, ia terpaksa mencatat bahwa siswa model terlihat kesulitan mengikuti ritme Anda.
+Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secara pribadi menyukai gaya bicara kamu yang cepat. Tanpa instrumen, ia mungkin memberi nilai tinggi. Namun, dengan instrumen yang memiliki indikator **"Kecepatan bicara sesuai dengan daya tangkap siswa"**, ia terpaksa mencatat bahwa siswa model terlihat kesulitan mengikuti ritme kamu.
 
 > **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dengan apa yang sebenarnya terjadi di kelas.
 
@@ -65,11 +65,11 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 Untuk memberikan gambaran menyeluruh, hasil observasi sering kali dikuantifikasi. Misalkan terdapat 5 indikator dengan skor maksimal 4 per indikator.
 
-$$
-Nilai Akhir = \left( \frac{\sum Skor \, yang \, Diperoleh}{\sum Skor \, Maksimal} \right) \times 100
-$$
+\[
+\text{Nilai Akhir} = \left( \frac{\sum \text{Skor yang Diperoleh}}{\sum \text{Skor Maksimal}} \right) \times 100
+\]
 
-Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $Nilai = \frac{15}{20} \times 100 = 75$
+Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nilai} = \frac{15}{20} \times 100 = 75\)
 
 *Think about this: Apakah nilai 75 sudah cukup untuk menyatakan seseorang kompeten mengajar? Atau apakah ada indikator "fatal" (seperti penguasaan materi) yang jika rendah, maka nilai lainnya tidak relevan?*
 
@@ -93,6 +93,6 @@ Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan ber
 - **Catat Waktu:** Menghubungkan kejadian dengan durasi (misal: "Guru berbicara sendiri selama 5 menit tanpa interaksi") sangat efektif untuk refleksi.
 - **Hindari "Halo Effect":** Jangan memberikan nilai tinggi pada semua aspek hanya karena guru tersebut sangat menguasai materi, padahal manajemen kelasnya buruk.
 
-> **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat adalah hadiah terbaik yang bisa Anda berikan kepada rekan sejawat Anda untuk membantu mereka menjadi pendidik yang luar biasa.
+> **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat adalah hadiah terbaik yang bisa kamu berikan kepada rekan sejawat kamu untuk membantu mereka menjadi pendidik yang luar biasa.
 
 *Langkah selanjutnya setelah data observasi ini terkumpul adalah menggunakannya sebagai bahan utama dalam **Analisis Refleksi Berbasis Video**, di mana praktikan akan mencocokkan catatan pengamat dengan rekaman visual dirinya sendiri.*
