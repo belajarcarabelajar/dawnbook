@@ -174,6 +174,16 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Script fails if `img:not([alt])` or `img[alt=""]` is found in public HTML.
 
+**R8 — Mandatory References Chapter**
+- **Statement:** Every book MUST include a dedicated references/bibliography chapter (`referensi.md`) containing academic literature and citations relevant to the book's discipline, registered in `SUMMARY.md`.
+- **Command:** `bun run build`
+- **Acceptance Check:** AuthoringAgent and BuildAgent verify that `SUMMARY.md` contains a link to `referensi.md`.
+
+**R9 — Newest-First Homepage Default Sorting**
+- **Statement:** `scripts/build.ts` MUST sort book cards in static HTML newest-first using creation/git-commit timestamps (`b.mtimeMs - a.mtimeMs`) and embed `data-created-at="${timestamp}"` on every `.book-card` element, ensuring newly added books appear at the top of the homepage grid by default both before and after JS hydration.
+- **Command:** `bun run build`
+- **Acceptance Check:** `output/index.html` renders the most recently added/updated book as the first card (`Card #1`).
+
 ## 7. SEO Risk Rules
 
 **S1 — Anti-FOUC Crawler Invisibility**
@@ -196,7 +206,7 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 
 ```markdown
 [ ] Phase A scaffold generated successfully.
-[ ] Phase B metadata applied (H1, title).
+[ ] Phase B metadata applied (H1, title, referensi.md present).
 [ ] Phase C build succeeded.
 [ ] Phase D sitemap.xml generated and valid.
 [ ] Phase E validation script exists and passes.
@@ -210,11 +220,14 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 [ ] R5: check-seo.ts executes and passes.
 [ ] R6: JSON-LD structured data is present.
 [ ] R7: All images have alt text.
+[ ] R8: Book contains referensi.md in SUMMARY.md.
+[ ] R9: Newest-first default sorting places newly added book at top of homepage grid.
 [ ] S1: Anti-FOUC logic avoids blinding non-JS crawlers.
 [ ] S2: Cache-Control differentiates public/gated cleanly.
 [ ] S3: External media uses async/defer and lazy loading.
 [ ] S4: Localization signals resolve duplicate content risks.
 ```
+
 
 ## 9. Assumptions
 
