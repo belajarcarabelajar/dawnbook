@@ -380,7 +380,10 @@ async function generateSitePages(
           const pinned = getPinned();
           const pinnedSet = new Set(pinned);
           const bookDataMap = new Map();
-          serverBooksData.forEach(b => bookDataMap.set(b.slug, b));
+          serverBooksData.forEach(b => {
+              b._parsed_created_at = new Date(b.created_at).getTime();
+              bookDataMap.set(b.slug, b);
+          });
 
           const sortVal = document.getElementById('sort-select') ? document.getElementById('sort-select').value : 'newest';
           const filterVal = document.getElementById('subject-filter') ? document.getElementById('subject-filter').value : '';
@@ -420,11 +423,11 @@ async function generateSitePages(
                       return dataB.view_count - dataA.view_count;
                   }
               } else if (sortVal === 'oldest' && dataA && dataB) {
-                  return dataA.created_at < dataB.created_at ? -1 : (dataA.created_at > dataB.created_at ? 1 : 0);
+                  return dataA._parsed_created_at - dataB._parsed_created_at;
               }
               // newest default
               if (dataA && dataB) {
-                  return dataB.created_at < dataA.created_at ? -1 : (dataB.created_at > dataA.created_at ? 1 : 0);
+                  return dataB._parsed_created_at - dataA._parsed_created_at;
               }
               return 0;
           });
@@ -916,13 +919,12 @@ async function generateSitePages(
   // a Google account that has never been seen before automatically creates
   // a new reader row in the D1 `users` table. The two pages coexist so
   // existing deep links to /sign-up keep working.
-  const signUpContent = signInContent.replace(
-    'data-i18n="signin.title">Sign In to Continue Reading',
-    '>Sign Up to Continue Reading'
-  ).replace(
-    'id="google-signin-btn"',
-    'id="google-signup-btn"'
-  );
+  const signUpContent = signInContent
+    .replace(
+      'data-i18n="signin.title">Sign In to Continue Reading',
+      ">Sign Up to Continue Reading",
+    )
+    .replace('id="google-signin-btn"', 'id="google-signup-btn"');
 
   await writeFile(
     join(outputDir, "index.html"),
