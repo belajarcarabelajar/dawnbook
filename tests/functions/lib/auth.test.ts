@@ -1,14 +1,17 @@
-import { expect, test, describe, beforeEach } from "bun:test";
-import {
-  extractSessionId,
-  verifySession,
-  type Env,
-} from "../../../functions/lib/auth";
+import { expect, test, describe, beforeEach, mock } from "bun:test";
 import {
   createMockEnv,
   setQueryHandler,
   setRunHandler,
 } from "../../helpers/mocks";
+
+// We need to bypass the mock for testing the *actual* verifySession implementation
+// in the file that defines it, while other API tests override it using mock.module
+// Bun 1.1+ caches modules, so mock.module can poison this test if it runs after others.
+// We can use a query string to import a fresh unmocked version of the file.
+import * as realAuth from "../../../functions/lib/auth.ts?unmocked";
+const { extractSessionId, verifySession } = realAuth;
+type Env = realAuth.Env;
 
 // A canonical 64-char hex session id used across tests.
 const SID = "a".repeat(64);
