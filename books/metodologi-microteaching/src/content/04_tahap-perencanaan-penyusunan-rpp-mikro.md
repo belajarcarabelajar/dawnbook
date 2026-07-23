@@ -1,0 +1,101 @@
+# Tahap Perencanaan: Penyusunan RPP Mikro
+
+Selamat datang di tahap yang paling krusial dalam siklus *microteaching*. Jika diibaratkan sebuah perjalanan, Rencana Pelaksanaan Pembelajaran (RPP) Mikro adalah **peta navigasi** kamu. Tanpa peta yang jelas, waktu 10-15 menit yang kamu miliki akan habis begitu saja tanpa mencapai tujuan pembelajaran yang diinginkan.
+
+Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot"—artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
+
+## 1\. Filosofi RPP Mikro: "Less is More"
+
+Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit), RPP Mikro adalah sebuah **mikrokosmos**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
+
+> "Kualitas pengajaran mikro tidak ditentukan oleh seberapa banyak materi yang kamu sampaikan, melainkan seberapa efektif satu keterampilan dasar mengajar dipraktikkan dalam fragmen materi tersebut."
+
+**Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet** —kecil, sekali makan, namun memiliki ledakan rasa yang lengkap dan presentasi yang sempurna.
+
+## 2\. Komponen Esensial RPP Mikro
+
+Meskipun ringkas, RPP Mikro harus memiliki struktur yang logis. Berikut adalah komponen yang wajib ada:
+
+### A. Identitas dan Fokus Keterampilan
+
+Bagian ini menentukan parameter simulasi kamu.
+
+- **Mata Pelajaran & Topik:** Pilih satu sub-topik yang sangat spesifik.
+- **Target Audiens:** Teman sejawat yang berperan sebagai siswa (misal: Siswa SMP Kelas VII).
+- **Alokasi Waktu:** Umumnya 10 - 15 menit.
+- **Fokus KDM (Keterampilan Dasar Mengajar):** Tentukan satu atau dua keterampilan yang ingin kamu asah (misal: Keterampilan Bertanya dan Memberi Penguatan).
+
+### B. Tujuan Pembelajaran (Smart & Micro)
+
+Gunakan prinsip **SMART** (*Specific, Measurable, Achievable, Relevant, Time-bound*). Karena waktunya singkat, batasi hanya pada 1 atau 2 indikator pencapaian saja.
+
+*Contoh:* "Melalui eksperimen sederhana (kegiatan), siswa dapat **menjelaskan** (perilaku) perbedaan massa jenis air dan minyak (materi) dengan **tepat** (kriteria) dalam waktu 5 menit."
+
+### C. Skenario Pembelajaran (The Time-Boxed Script)
+
+Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
+
+1. **Pendahuluan (2-3 Menit):** Apersepsi, motivasi, dan penyampaian tujuan.
+2. **Kegiatan Inti (7-10 Menit):** Eksplorasi materi dan praktik KDM yang menjadi fokus.
+3. **Penutup (1-2 Menit):** Kesimpulan, refleksi singkat, dan penguatan.
+
+## 3\. Matematika dalam Perencanaan Waktu
+
+Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
+
+Jika total waktu adalah \(T_{\text{total}} = 15\) menit, maka pembagian idealnya adalah:
+
+- **Pendahuluan (\(P\)):** $20\% \times T_{total} = 3$ menit
+- **Inti (\(I\)):** $65\% \times T_{total} = 9.75 \approx 10$ menit
+- **Penutup (\(K\)):** $15\% \times T_{total} = 2.25 \approx 2$ menit
+
+\[
+T_{\text{total}} = P + I + K
+\]
+
+*Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
+
+## 4\. Langkah-Langkah Menyusun RPP Mikro
+
+Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yang terlewat:
+
+1. **Isolasi Konsep:** Pilih satu konsep terkecil dari materi. Jika materinya adalah "Ekosistem", jangan ajarkan seluruh ekosistem. Cukup ambil "Komponen Biotik dan Abiotik".
+2. **Pilih Media yang 'Instan':** Gunakan alat peraga yang tidak memerlukan waktu lama untuk disiapkan di depan kelas.
+3. **Rancang Pertanyaan Kunci:** Karena waktu terbatas, siapkan pertanyaan yang *powerful* untuk memancing berpikir kritis tanpa bertele-tele.
+4. **Tuliskan Instruksi dengan Jelas:** Dalam RPP Mikro, tuliskan kalimat instruksi yang akan kamu ucapkan agar tidak terjadi pemborosan kata (*wordiness*).
+
+## 5\. Contoh RPP Mikro (Format Ringkas)
+
+**Identitas:**
+
+- **Materi:** IPA (Hukum Archimedes - Mengapung & Tenggelam)
+- **Fokus KDM:** Keterampilan Menjelaskan dan Variasi Stimulus
+- **Durasi:** 10 Menit
+
+**Skenario:**
+
+| Waktu | Tahapan | Aktivitas Guru (KDM Terintegrasi) |
+| --- | --- | --- |
+| 0-2' | Pendahuluan | Menunjukkan segelas air dan telur. **(Variasi Stimulus)**. Bertanya: "Mengapa telur ini tenggelam?" |
+| 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus \(F_a = \rho \cdot g \cdot V_{\text{bf}}\). Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
+| 8-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
+
+## 6\. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
+
+Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks—misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
+
+**Skenario Nyata:** Seorang pelatih di perusahaan teknologi (*Corporate Trainer*) hanya memiliki waktu 15 menit saat *stand-up meeting* untuk menjelaskan fitur baru sebuah aplikasi kepada tim pengembang. Dengan menggunakan prinsip RPP Mikro, pelatih tersebut dapat:
+
+1. Langsung ke poin utama (Indikator).
+2. Menggunakan demo singkat (Media).
+3. Memastikan tim paham melalui satu pertanyaan strategis (Evaluasi).
+
+## 7\. Tips Menghindari Kesalahan Umum
+
+> **Important:**
+> 
+> - **Jangan Terlalu Ambisius:** Kesalahan umum adalah memasukkan terlalu banyak materi sehingga bagian penutup terburu-buru atau bahkan terlewat.
+> - **Detail pada Langkah, Bukan Materi:** RPP harus mendetailkan *apa yang dilakukan guru dan siswa*, bukan sekadar menyalin isi buku teks ke dalam modul.
+> - **Siapkan Rencana Cadangan (Buffer):** Jika siswa model merespons lebih cepat dari dugaan, siapkan satu pertanyaan tantangan tambahan.
+
+*Refleksi:* *Setelah menyusun draft RPP kamu, cobalah baca keras-keras bagian instruksi kamu. Apakah kalimat kamu sudah efektif, atau masih banyak "umm" dan "anu" yang bisa membuang durasi berharga kamu?*

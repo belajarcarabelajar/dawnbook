@@ -1,0 +1,93 @@
+# Pemanfaatan Teknologi Rekaman Video: Mata Kedua Sang Pendidik
+
+Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
+
+Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang paling jujur. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
+
+## 1\. Urgensi Rekaman Video dalam Microteaching
+
+Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
+
+- **Objektivitas Mutlak:** Berbeda dengan ingatan manusia yang subjektif, video merekam fakta.
+- **Analisis Berulang:** kamu dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
+- **Bukti Kinerja (Portofolio):** Rekaman menjadi aset digital yang membuktikan progres keterampilan mengajar kamu dari waktu ke waktu.
+
+> "Video adalah cermin yang tidak hanya memantulkan wajah, tapi juga memantulkan metodologi dan energi seorang guru di dalam kelas."
+
+## 2\. Aspek Teknis Pengambilan Video
+
+Untuk mendapatkan video yang berkualitas dan layak dianalisis, kamu tidak memerlukan kru film profesional. Namun, kamu harus memahami beberapa prinsip dasar videografi berikut:
+
+### A. Komposisi dan Framing (Pembingkaian)
+
+Gunakan prinsip **Rule of Thirds** untuk menempatkan subjek. Dalam microteaching, frame harus cukup luas untuk menangkap:
+
+1. **Ekspresi Guru:** Wajah dan gerakan tubuh.
+2. **Media Pembelajaran:** Papan tulis, slide, atau alat peraga harus terlihat jelas.
+3. **Interaksi Siswa:** Setidaknya beberapa siswa model harus masuk dalam frame untuk melihat respons mereka.
+
+**Tip Teknis:** Gunakan rasio aspek 16:9 (Landscape) karena lebih sesuai dengan perspektif pandangan mata dan layar monitor standar.
+
+### B. Pencahayaan (Lighting)
+
+Pastikan sumber cahaya utama berada di **depan** atau **samping** guru, bukan di belakang (*backlight*). Jika sumber cahaya berada di belakang guru (seperti jendela besar), wajah guru akan terlihat gelap (siluet), sehingga ekspresi tidak terbaca.
+
+### C. Kualitas Audio (Suara)
+
+Audio seringkali lebih penting daripada video. Jika kualitas gambar buruk, kita masih bisa belajar dari suara. Jika suara tidak terdengar, video hampir tidak berguna.
+
+- **Gunakan Mikrofon Eksternal:** Jika memungkinkan, gunakan *clip-on* atau *wireless mic*.
+- **Kontrol Kebisingan:** Matikan kipas angin yang berisik atau tutup pintu untuk meredam suara koridor.
+
+## 3\. Strategi Penempatan Kamera
+
+Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
+
+1. **Kamera Statis (Fixed):** Kamera diletakkan di atas tripod di bagian belakang kelas.
+	- *Kelebihan:* Tidak mengganggu fokus, memberikan gambaran utuh suasana kelas.
+		- *Kekurangan:* Sulit menangkap detail tulisan di papan tulis atau ekspresi kecil.
+2. **Kamera Dinamis (Mobile):** Ada satu orang (rekan sejawat) yang bertugas memegang kamera/HP dan mengikuti pergerakan guru.
+	- *Kelebihan:* Bisa melakukan *zoom-in* pada momen penting seperti saat guru membimbing siswa secara individu.
+		- *Kekurangan:* Berisiko gambar goyang (*shaky*) jika tidak menggunakan *gimbal*.
+
+## 4\. Alur Kerja Dokumentasi Digital
+
+Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standarisasi dokumentasi berikut:
+
+### Penamaan File (Naming Convention)
+
+Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL_NAMA_KDM_SESI.mp4` Contoh: `20231025_BudiSantoso_KeterampilanBertanya_Siklus1.mp4`
+
+### Resolusi dan Format
+
+- **Resolusi:** Minimal 720p (HD) untuk keseimbangan antara kejernihan dan ukuran file.
+- **Format:** `.mp4` (H.264) karena kompatibel dengan hampir semua perangkat dan platform evaluasi.
+
+## 5\. Real-World Application: Skenario Simulasi
+
+**Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelas" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
+
+- **Langkah 1 (Persiapan):** Sarah menandai lantai dengan isolasi kecil sebagai batas jangkauan kamera agar ia tidak keluar dari frame (off-camera).
+- **Langkah 2 (Eksekusi):** Rekan sejawat menekan tombol *record* 5 detik sebelum Sarah memulai untuk memastikan bagian awal tidak terpotong.
+- **Langkah 3 (Pengecekan):** Setelah selesai, Sarah langsung melakukan *spot-check* (mengecek audio di detik ke-30, menit ke-5, dan akhir) untuk memastikan suara terekam jelas sebelum meninggalkan ruangan.
+
+## 6\. Etika dan Legalitas Rekaman
+
+Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa model atau rekan).
+
+- **Izin (Consent):** Pastikan semua orang yang terekam memberikan izin bahwa video ini hanya untuk kepentingan akademik.
+- **Penyimpanan Aman:** Gunakan layanan *cloud storage* (seperti Google Drive atau OneDrive) dengan akses terbatas (Private/Restricted) untuk mencegah kebocoran data.
+
+## Ringkasan Persiapan (Checklist)
+
+| Komponen | Hal yang Harus Diperiksa |
+| --- | --- |
+| **Baterai** | Pastikan perangkat terisi penuh atau terhubung ke daya. |
+| **Memori** | Sediakan ruang kosong minimal 2-4 GB untuk 15 menit rekaman HD. |
+| **Tripod** | Pastikan posisi kamera sejajar dengan level mata (*eye level*). |
+| **Audio** | Lakukan tes suara (cek apakah suara guru terdengar jelas dari jarak 3 meter). |
+| **Mode Pesawat** | Jika menggunakan smartphone, aktifkan *Airplane Mode* agar rekaman tidak terhenti oleh panggilan masuk. |
+
+*Think about this:* *Jika kamu menonton video mengajar kamu sendiri tanpa suara, apakah kamu masih bisa memahami pesan yang ingin kamu sampaikan hanya melalui bahasa tubuh dan ekspresi kamu?*
+
+> **Poin Kunci:** Rekaman video dalam microteaching bukan tentang membuat "film yang indah", melainkan tentang menangkap "proses yang nyata" demi perbaikan berkelanjutan.
