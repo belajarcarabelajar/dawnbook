@@ -101,6 +101,116 @@ describe("API: /api/progress", () => {
     expect(data.completed_paths).toEqual(["/books/test-book/ch1.html"]);
   });
 
+  test("GET with no bookSlug handles invalid JSON in completed_paths gracefully", async () => {
+    mockSession = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        const s = sql.toUpperCase();
+        const api: any = {
+          bind: () => api,
+          all: async () => {
+            if (s.includes("FROM SESSIONS")) return { results: [makeUserRow()] };
+            if (s.includes("FROM READING_PROGRESS")) {
+              return {
+                results: [
+                  { book_slug: "bad-json-book", last_read_path: "/x", completed_paths: 'not json' },
+                ],
+              };
+            }
+            return { results: [] };
+          },
+          first: async () => (s.includes("FROM SESSIONS") ? makeUserRow() : null),
+          run: async () => ({ success: true }),
+        };
+        return api;
+      }),
+      batch: async () => [{ success: true }],
+    } as any;
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "GET",
+      headers: { Cookie: `session_id=${SID}` },
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(200);
+    const data = await response.json();
+    expect(data.progress).toHaveLength(1);
+    expect(data.progress[0].book_slug).toBe("bad-json-book");
+    expect(data.progress[0].completed_paths).toEqual([]);
+  });
+
+  test("GET with bookSlug handles invalid JSON in completed_paths gracefully", async () => {
+    mockSession = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        const s = sql.toUpperCase();
+        const api: any = {
+          bind: () => api,
+          all: async () => ({ results: [] }),
+          first: async () => {
+            if (s.includes("FROM SESSIONS")) return makeUserRow();
+            return { last_read_path: "/books/test-book/ch1.html", completed_paths: '{bad json' };
+          },
+          run: async () => ({ success: true }),
+        };
+        return api;
+      }),
+      batch: async () => [{ success: true }],
+    } as any;
+
+    const req = mockRequest("https://example.com/api/progress?bookSlug=test-book", {
+      method: "GET",
+      headers: { Cookie: `session_id=${SID}` },
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(200);
+    const data = await response.json();
+    expect(data.path).toBe("/books/test-book/ch1.html");
+    expect(data.completed_paths).toEqual([]);
+  });
+
+  test("POST handles existing invalid JSON in completed_paths gracefully", async () => {
+    mockSession = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        const s = sql.toUpperCase();
+        const api: any = {
+          bind: () => api,
+          all: async () => ({ results: [] }),
+          first: async () => {
+            if (s.includes("FROM SESSIONS")) return makeUserRow();
+            if (s.includes("FROM READING_PROGRESS")) {
+              return { completed_paths: 'invalid json here' };
+            }
+            return null;
+          },
+          run: async () => ({ success: true }),
+        };
+        return api;
+      }),
+      batch: async () => [{ success: true }],
+    } as any;
+
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      headers: { Cookie: `session_id=${SID}` },
+      body: JSON.stringify({
+        bookSlug: "test-book",
+        path: "/books/test-book/ch1.html",
+        completed_path: "/books/test-book/ch1.html",
+      }),
+    });
+
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(201);
+    const data = await response.json();
+    expect(data.success).toBe(true);
+    // Because it gracefully falls back to [], it should only have the newly added completed_path.
+    expect(data.completed_paths).toEqual(["/books/test-book/ch1.html"]);
+  });
+
   test("GET with no bookSlug returns all progress for user", async () => {
     mockSession = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
     const env = createMockEnv();
