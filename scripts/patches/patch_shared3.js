@@ -79,5 +79,6 @@ const target = `    function handleCheckpoint() {
         }
     }`;
 
-code = code.replace(/    function handleCheckpoint\(\) \{[\s\S]*?    \}\n\n    script\.onload/, target + '\n\n    script.onload');
+code = code.replace(/    function handleCheckpoint\(\) \{[\s\S]*?    \}\n\n    \/\/ Bootstrap/, target + '\n\n    // Bootstrap');
 fs.writeFileSync('books/shared-script.js', code);
+console.log("Patched shared-script.js handleCheckpoint successfully");
