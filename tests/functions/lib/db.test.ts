@@ -6,6 +6,7 @@ import {
   generateUserId,
   getSessionWithUser,
   deleteSession,
+  createSession,
   type UserRow,
 } from "../../../functions/lib/db";
 import { createMockEnv, setQueryHandler, setRunHandler } from "../../helpers/mocks";
@@ -220,5 +221,47 @@ describe("deleteSession", () => {
 
     const result = await deleteSession(env.DB, "test_session_id");
     expect(result).toBe(false);
+  });
+});
+
+describe("createSession", () => {
+  test("inserts a new session and returns the inserted row", async () => {
+    const env = createMockEnv();
+
+    const mockSessionRow = {
+      id: "session_id_123",
+      user_id: "user_id_456",
+      expires_at: "2099-01-01T00:00:00.000Z",
+      created_at: "2024-01-01T00:00:00.000Z",
+      last_seen_at: "2024-01-01T00:00:00.000Z",
+      user_agent: "Mozilla/5.0",
+      ip: "127.0.0.1",
+    };
+
+    setQueryHandler(env, "INSERT", () => [mockSessionRow]);
+
+    const result = await createSession(env.DB, {
+      id: "session_id_123",
+      user_id: "user_id_456",
+      expires_at: "2099-01-01T00:00:00.000Z",
+      user_agent: "Mozilla/5.0",
+      ip: "127.0.0.1",
+    });
+
+    expect(result).toEqual(mockSessionRow);
+  });
+
+  test("throws an error if row is not found after insert", async () => {
+    const env = createMockEnv();
+
+    setQueryHandler(env, "INSERT", () => []);
+
+    expect(
+      createSession(env.DB, {
+        id: "session_id_123",
+        user_id: "user_id_456",
+        expires_at: "2099-01-01T00:00:00.000Z",
+      }),
+    ).rejects.toThrow("createSession: row not found after insert");
   });
 });
