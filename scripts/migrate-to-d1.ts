@@ -38,10 +38,17 @@ function parseSubjectLabelFromToml(tomlContent: string): string | null {
 }
 
 /**
- * Escapes single quotes for safe SQL string embedding.
+ * Escapes strings for safe SQLite string literal embedding against SQL injection.
+ * Strips null bytes and doubles single quotes per SQLite specification.
  */
-function escapeSql(value: string): string {
-  return value.replace(/'/g, "''");
+export function escapeSql(value: string): string {
+  if (typeof value !== "string") return "''";
+  return "'" + value.replace(/\0/g, "").replace(/'/g, "''") + "'";
+}
+
+export function escapeSqlNullable(value: string | null | undefined): string {
+  if (!value) return "NULL";
+  return escapeSql(value);
 }
 
 async function main() {
@@ -128,21 +135,18 @@ async function main() {
     return;
   }
 
-  // Build idempotent SQL statements
+  // Build idempotent SQL statements with parameterized/escaped literals
   const statements = rows.map((row) => {
-    const subjectLabelSql = row.subject_label
-      ? `'${escapeSql(row.subject_label)}'`
-      : "NULL";
     return `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
-  '${escapeSql(row.id)}',
-  '${escapeSql(row.slug)}',
-  '${escapeSql(row.title)}',
-  '${escapeSql(row.status)}',
-  ${subjectLabelSql},
-  '${escapeSql(row.content_md)}',
-  '${escapeSql(row.created_at)}',
-  '${escapeSql(row.updated_at)}'
+  ${escapeSql(row.id)},
+  ${escapeSql(row.slug)},
+  ${escapeSql(row.title)},
+  ${escapeSql(row.status)},
+  ${escapeSqlNullable(row.subject_label)},
+  ${escapeSql(row.content_md)},
+  ${escapeSql(row.created_at)},
+  ${escapeSql(row.updated_at)}
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -162,10 +166,6 @@ ON CONFLICT(slug) DO UPDATE SET
   // Execute via wrangler d1 book-by-book using --command to avoid SQLITE_TOOBIG and silent execution failures
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
   for (const row of rows) {
-    const subjectLabelSql = row.subject_label
-      ? `'${escapeSql(row.subject_label)}'`
-      : "NULL";
-
     // Chunk size 30,000 characters (30 KB)
     const chunkSize = 30000;
     const content = row.content_md;
@@ -181,14 +181,14 @@ ON CONFLICT(slug) DO UPDATE SET
     // 1. Initial insert/update metadata (setting content_md = '')
     const initialSql = `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
-  '${escapeSql(row.id)}',
-  '${escapeSql(row.slug)}',
-  '${escapeSql(row.title)}',
-  '${escapeSql(row.status)}',
-  ${subjectLabelSql},
+  ${escapeSql(row.id)},
+  ${escapeSql(row.slug)},
+  ${escapeSql(row.title)},
+  ${escapeSql(row.status)},
+  ${escapeSqlNullable(row.subject_label)},
   '',
-  '${escapeSql(row.created_at)}',
-  '${escapeSql(row.updated_at)}'
+  ${escapeSql(row.created_at)},
+  ${escapeSql(row.updated_at)}
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -208,7 +208,7 @@ ON CONFLICT(slug) DO UPDATE SET
     // 2. Append chunks sequentially
     let chunkIndex = 1;
     for (const chunk of chunks) {
-      const chunkSql = `UPDATE books SET content_md = content_md || '${escapeSql(chunk)}' WHERE slug = '${escapeSql(row.slug)}';`;
+      const chunkSql = `UPDATE books SET content_md = content_md || ${escapeSql(chunk)} WHERE slug = ${escapeSql(row.slug)};`;
       try {
         console.log(`  - Appending chunk ${chunkIndex}/${chunks.length}...`);
         await $`npx wrangler d1 execute dawnbook-db --remote --command=${chunkSql}`;
