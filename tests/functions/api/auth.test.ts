@@ -20,7 +20,12 @@ const STATE_HEX = "d".repeat(32);
 
 const setEnvHandlers = (env: any) => {
   // Default: empty D1. Tests opt in to specific behaviors below.
-  setQueryHandler(env, "SELECT", () => []);
+  setQueryHandler(env, "", (sql) => {
+    if (sql.trimStart().toUpperCase().startsWith("INSERT INTO SESSIONS")) {
+      return [{ id: "mock_session_id", user_id: "mock_user_id", expires_at: "2099-01-01T00:00:00.000Z", created_at: "2024-01-01T00:00:00.000Z", last_seen_at: "2024-01-01T00:00:00.000Z", user_agent: null, ip: null }];
+    }
+    return [];
+  });
   setRunHandler(env, "INSERT", () => ({ success: true }));
   setRunHandler(env, "UPDATE", () => ({ success: true }));
 };
@@ -110,7 +115,11 @@ describe("/api/auth/callback", () => {
     // First SELECT (getUserByGoogleSub): no existing user.
     // Second SELECT (after upsert): the user is now there.
     let selectCalls = 0;
-    setQueryHandler(env, "SELECT", (sql, params) => {
+    setQueryHandler(env, "", (sql, params) => {
+      if (sql.trimStart().toUpperCase().startsWith("INSERT INTO SESSIONS")) {
+        return [{ id: "mock_session_id", user_id: "mock_user_id", expires_at: "2099-01-01T00:00:00.000Z", created_at: "2024-01-01T00:00:00.000Z", last_seen_at: "2024-01-01T00:00:00.000Z", user_agent: null, ip: null }];
+      }
+      if (!sql.trimStart().toUpperCase().startsWith("SELECT")) return [];
       selectCalls++;
       if (selectCalls === 1) return []; // initial lookup
       return [{
@@ -151,7 +160,11 @@ describe("/api/auth/callback", () => {
     setEnvHandlers(env);
 
     let selectCalls = 0;
-    setQueryHandler(env, "SELECT", () => {
+    setQueryHandler(env, "", (sql) => {
+      if (sql.trimStart().toUpperCase().startsWith("INSERT INTO SESSIONS")) {
+        return [{ id: "mock_session_id", user_id: "mock_user_id", expires_at: "2099-01-01T00:00:00.000Z", created_at: "2024-01-01T00:00:00.000Z", last_seen_at: "2024-01-01T00:00:00.000Z", user_agent: null, ip: null }];
+      }
+      if (!sql.trimStart().toUpperCase().startsWith("SELECT")) return [];
       selectCalls++;
       if (selectCalls === 1) return [];
       return [{
