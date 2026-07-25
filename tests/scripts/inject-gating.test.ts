@@ -15,4 +15,19 @@ describe("Inject Gating Script (scripts/inject-gating.ts)", () => {
     expect(script).toContain('opacity="0"');
     expect(script).toContain("<noscript><style>html{opacity:1!important;visibility:visible!important;}</style></noscript>");
   });
+
+  test("script uses escapeHtml and escapeJson for XSS prevention", () => {
+    const scriptPath = join(import.meta.dir, "../../scripts/inject-gating.ts");
+    const script = readFileSync(scriptPath, "utf-8");
+
+    // Check if the escape functions are defined
+    expect(script).toContain("function escapeHtml(");
+    expect(script).toContain("function escapeJson(");
+
+    // Check if they are actually used for the SEO variables
+    expect(script).toContain("escapeHtml(pageTitle)");
+    expect(script).toContain("escapeHtml(url)");
+    expect(script).toContain("escapeJson(pageTitle)");
+    expect(script).toContain("escapeJson(url)");
+  });
 });

@@ -3,9 +3,39 @@ import { join } from "node:path";
 
 import { isPublicPath } from "../functions/lib/gating.ts";
 
-async function processDirectory(dir: string, baseSlug: string = "", manifestData: any = null) {
+function escapeHtml(unsafe: string): string {
+  return unsafe.replace(/[&<>"']/g, (m) => {
+    switch (m) {
+      case "&":
+        return "&amp;";
+      case "<":
+        return "&lt;";
+      case ">":
+        return "&gt;";
+      case '"':
+        return "&quot;";
+      case "'":
+        return "&#39;";
+      default:
+        return m;
+    }
+  });
+}
+
+function escapeJson(unsafe: string): string {
+  return JSON.stringify(unsafe).replace(/</g, "\\u003c");
+}
+
+async function processDirectory(
+  dir: string,
+  baseSlug: string = "",
+  manifestData: any = null,
+) {
   if (!manifestData) {
-    const manifestRaw = await readFile(join(process.cwd(), "output/manifest.json"), "utf8");
+    const manifestRaw = await readFile(
+      join(process.cwd(), "output/manifest.json"),
+      "utf8",
+    );
     manifestData = JSON.parse(manifestRaw);
   }
 
@@ -22,11 +52,11 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       // Extract title from HTML
       const titleMatch = content.match(/<title>(.*?)<\/title>/i);
       const pageTitle = titleMatch ? titleMatch[1] : "Dawnbook";
-      
+
       // We can infer the URL path
       const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
       const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-      
+
       const gaId = process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW";
       const gaTag = `
     <!-- Google tag (gtag.js) -->
@@ -40,25 +70,28 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
     </script>
 `;
 
+      const escapedTitle = escapeHtml(pageTitle);
+      const escapedUrl = escapeHtml(url);
+
       const seoTags = `
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
         <script src="/register-sw.js" defer></script>
         <script src="/pake-compat.js" defer></script>
-        <link rel="canonical" href="${url}" />
-        <link rel="alternate" hreflang="en" href="${url}" />
-        <link rel="alternate" hreflang="id" href="${url}" />
-        <meta name="description" content="${pageTitle}" />
-        <meta property="og:title" content="${pageTitle}" />
+        <link rel="canonical" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
+        <meta name="description" content="${escapedTitle}" />
+        <meta property="og:title" content="${escapedTitle}" />
         <meta property="og:type" content="article" />
-        <meta property="og:url" content="${url}" />
+        <meta property="og:url" content="${escapedUrl}" />
         <meta name="twitter:card" content="summary" />
         <script type="application/ld+json">
         {
           "@context": "https://schema.org",
           "@type": "Article",
-          "headline": "${pageTitle}",
-          "url": "${url}"
+          "headline": ${escapeJson(pageTitle)},
+          "url": ${escapeJson(url)}
         }
         </script>
       `;
@@ -74,17 +107,29 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
       }
 
       let isGatedClientSide = false;
-      const bookMatch = relativePath.match(/^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/);
+      const bookMatch = relativePath.match(
+        /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
+      );
       if (bookMatch) {
         const slug = bookMatch[1];
         const page = decodeURIComponent(bookMatch[2] ?? "");
-        if (page !== "" && page !== "index.html" && page !== "toc.html" && page !== "404.html" && page !== "print.html") {
+        if (
+          page !== "" &&
+          page !== "index.html" &&
+          page !== "toc.html" &&
+          page !== "404.html" &&
+          page !== "print.html"
+        ) {
           const bookChapters = manifestData.chapters[slug] || [];
-          const firstChapterPath = bookChapters[0] || `/books/${slug}/index.html`;
+          const firstChapterPath =
+            bookChapters[0] || `/books/${slug}/index.html`;
 
           const decodedFirstChapter = decodeURIComponent(firstChapterPath);
           const decodedCurrent = decodeURIComponent(relativePath);
-          if (decodedCurrent !== decodedFirstChapter && decodedCurrent !== `/books/${slug}/index.html`) {
+          if (
+            decodedCurrent !== decodedFirstChapter &&
+            decodedCurrent !== `/books/${slug}/index.html`
+          ) {
             isGatedClientSide = true;
           }
         }
@@ -100,11 +145,10 @@ async function processDirectory(dir: string, baseSlug: string = "", manifestData
           content = content.replace("</head>", script + "\n</head>");
         }
       }
-      
+
       await writeFile(fullPath, content, "utf-8");
     }
   }
 }
 
 processDirectory(join(process.cwd(), "output/books")).catch(console.error);
-
