@@ -52,7 +52,9 @@ async function main() {
   let entries = await readdir(booksDir);
   if (process.env.BOOK_SLUG) {
     entries = entries.filter((e) => e === process.env.BOOK_SLUG);
-    console.log(`Filtering migrations to target only: ${process.env.BOOK_SLUG}`);
+    console.log(
+      `Filtering migrations to target only: ${process.env.BOOK_SLUG}`,
+    );
   }
   const rows: BookRow[] = [];
 
@@ -92,9 +94,12 @@ async function main() {
         .filter((f) => f.endsWith(".md") && !f.endsWith("SUMMARY.md"))
         .sort();
 
-      for (const mdFile of mdFiles) {
-        const mdContent = await readFile(join(srcDir, mdFile), "utf-8");
-        combinedMd += `\n\n<!-- Chapter: ${basename(mdFile, ".md")} -->\n\n${mdContent}`;
+      const mdContents = await Promise.all(
+        mdFiles.map((mdFile) => readFile(join(srcDir, mdFile), "utf-8")),
+      );
+
+      for (let i = 0; i < mdFiles.length; i++) {
+        combinedMd += `\n\n<!-- Chapter: ${basename(mdFiles[i], ".md")} -->\n\n${mdContents[i]}`;
       }
     } catch {
       console.warn(`⚠️  Skipping ${entry}: cannot read src/ directory`);
@@ -113,7 +118,9 @@ async function main() {
       updated_at: now,
     });
 
-    console.log(`📖 Prepared: ${entry} → "${title}" (${combinedMd.length} chars)`);
+    console.log(
+      `📖 Prepared: ${entry} → "${title}" (${combinedMd.length} chars)`,
+    );
   }
 
   if (rows.length === 0) {
@@ -123,7 +130,9 @@ async function main() {
 
   // Build idempotent SQL statements
   const statements = rows.map((row) => {
-    const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
+    const subjectLabelSql = row.subject_label
+      ? `'${escapeSql(row.subject_label)}'`
+      : "NULL";
     return `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   '${escapeSql(row.id)}',
@@ -153,7 +162,9 @@ ON CONFLICT(slug) DO UPDATE SET
   // Execute via wrangler d1 book-by-book using --command to avoid SQLITE_TOOBIG and silent execution failures
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
   for (const row of rows) {
-    const subjectLabelSql = row.subject_label ? `'${escapeSql(row.subject_label)}'` : "NULL";
+    const subjectLabelSql = row.subject_label
+      ? `'${escapeSql(row.subject_label)}'`
+      : "NULL";
 
     // Chunk size 30,000 characters (30 KB)
     const chunkSize = 30000;
@@ -163,7 +174,9 @@ ON CONFLICT(slug) DO UPDATE SET
       chunks.push(content.substring(i, i + chunkSize));
     }
 
-    console.log(`Applying seed for book: ${row.slug} (${chunks.length} chunks)...`);
+    console.log(
+      `Applying seed for book: ${row.slug} (${chunks.length} chunks)...`,
+    );
 
     // 1. Initial insert/update metadata (setting content_md = '')
     const initialSql = `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
@@ -200,7 +213,10 @@ ON CONFLICT(slug) DO UPDATE SET
         console.log(`  - Appending chunk ${chunkIndex}/${chunks.length}...`);
         await $`npx wrangler d1 execute dawnbook-db --remote --command=${chunkSql}`;
       } catch (error) {
-        console.error(`❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`, error);
+        console.error(
+          `❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`,
+          error,
+        );
         process.exit(1);
       }
       chunkIndex++;
