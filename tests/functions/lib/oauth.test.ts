@@ -46,7 +46,9 @@ describe("oauth.ts", () => {
       const parsedUrl = new URL(url);
       expect(parsedUrl.origin + parsedUrl.pathname).toBe(GOOGLE_AUTH_URL);
       expect(parsedUrl.searchParams.get("client_id")).toBe("test-client-id");
-      expect(parsedUrl.searchParams.get("redirect_uri")).toBe("https://example.com/callback");
+      expect(parsedUrl.searchParams.get("redirect_uri")).toBe(
+        "https://example.com/callback",
+      );
       expect(parsedUrl.searchParams.get("response_type")).toBe("code");
       expect(parsedUrl.searchParams.get("scope")).toBe(SCOPES.join(" "));
       expect(parsedUrl.searchParams.get("state")).toBe("test-state");
@@ -90,6 +92,12 @@ describe("oauth.ts", () => {
       expect(safeRedirectPath("///foo")).toBe("/");
     });
 
+    it("returns '/' if path contains a backslash (bypass prevention)", () => {
+      expect(safeRedirectPath("/\\example.com")).toBe("/");
+      expect(safeRedirectPath("\\/example.com")).toBe("/");
+      expect(safeRedirectPath("foo\\bar")).toBe("/");
+    });
+
     it("returns '/' if path contains newline or carriage return", () => {
       expect(safeRedirectPath("/foo\nbar")).toBe("/");
       expect(safeRedirectPath("/foo\rbar")).toBe("/");
@@ -99,7 +107,9 @@ describe("oauth.ts", () => {
     it("returns the input for safe same-origin relative paths", () => {
       expect(safeRedirectPath("/")).toBe("/");
       expect(safeRedirectPath("/foo/bar")).toBe("/foo/bar");
-      expect(safeRedirectPath("/login?redirect=/home")).toBe("/login?redirect=/home");
+      expect(safeRedirectPath("/login?redirect=/home")).toBe(
+        "/login?redirect=/home",
+      );
     });
   });
 
