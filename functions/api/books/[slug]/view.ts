@@ -26,9 +26,29 @@ function errorResponse(message: string, status: number): Response {
 export const onRequest: PagesFunction<Env> = async (context) => {
   const { request, env, params } = context;
 
-
   if (request.method !== "POST") {
     return errorResponse("Method not allowed", 405);
+  }
+
+  // CSRF Protection: Validate Origin or Referer matches the request URL
+  const origin = request.headers.get("Origin");
+  const referer = request.headers.get("Referer");
+  const expectedOrigin = new URL(request.url).origin;
+
+  let isAllowed = false;
+  if (origin) {
+    isAllowed = origin === expectedOrigin;
+  } else if (referer) {
+    try {
+      const refererUrl = new URL(referer);
+      isAllowed = refererUrl.origin === expectedOrigin;
+    } catch {
+      isAllowed = false;
+    }
+  }
+
+  if (!isAllowed) {
+    return errorResponse("Forbidden: Invalid origin", 403);
   }
 
   const slug = params.slug as string;
@@ -39,7 +59,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
   try {
     const result = await env.DB.prepare(
-      "UPDATE books SET view_count = view_count + 1 WHERE slug = ?1"
+      "UPDATE books SET view_count = view_count + 1 WHERE slug = ?1",
     )
       .bind(slug)
       .run();
