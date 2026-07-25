@@ -12,15 +12,15 @@ Tingkat pengembalian investasi modal manusia adalah rasio antara akumulasi keunt
 
 Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto (\( r \)) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
 
-\[
+$$
 \text{NPV} = \sum_{t=1}^{n} \frac{B_t}{(1+r)^t} - \sum_{t=1}^{n} \frac{C_t}{(1+r)^t} = 0
-\]
+$$
 
 Atau dalam bentuk persamaan imbal hasil:
 
-\[
+$$
 \sum_{t=1}^{n} \frac{B_t}{(1+r)^t} = \sum_{t=1}^{n} \frac{C_t}{(1+r)^t}
-\]
+$$
 
 Keterangan variabel:
 

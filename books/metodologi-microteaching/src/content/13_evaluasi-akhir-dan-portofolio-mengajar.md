@@ -14,9 +14,9 @@ Analogi yang tepat adalah seorang atlet lari. Evaluasi akhir bukan hanya tentang
 
 Keberhasilan dalam fase ini diukur menggunakan formula sederhana namun mendalam:
 
-\[
+$$
 \text{Kompetensi} = (\text{Pengetahuan} \times \text{Keterampilan}) + \text{Refleksi}
-\]
+$$
 
 Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil—mulai dari cara kamu bertanya hingga cara kamu mengelola kelas—telah dianalisis secara kritis.
 

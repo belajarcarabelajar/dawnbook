@@ -57,9 +57,9 @@ Kesehatan meningkatkan stok modal manusia melalui dua mekanisme utama:
 
 Secara matematis, laju perubahan stok modal kesehatan (*Health Capital Stock*) dinamis dapat dirumuskan melalui persamaan depresiasi dan akumulasi investasi berikut:
 
-\[
+$$
 H_{t+1} = H_t (1 - \delta) + I_t
-\]
+$$
 
 Keterangan variabel:
 - \( H \): Stok modal manusia kesehatan (*Health Capital Stock*)
@@ -86,9 +86,9 @@ Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseora
 
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
-\[
+$$
 \text{Net Gain} = \sum_{t=1}^{n} \frac{W_{\text{baru}} - W_{\text{lama}}}{(1+r)^t} - C_{\text{migrasi}}
-\]
+$$
 
 Keterangan variabel:
 - \( W_{\text{baru}} \): Proyeksi upah di lokasi migrasi baru

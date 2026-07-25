@@ -46,11 +46,11 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 
 Secara sistematis, produktivitas individu \( P \) di era digital tidak hanya ditentukan oleh input jam kerja \( L \), modal fisik \( K \), dan stok modal manusia tradisional \( H \), melainkan bergantung pada tingkat teknologi \( A \) dan variabel kecepatan adaptasi keterampilan \( S_{\text{adapt}} \):
 
-\[
+$$
 \begin{aligned}
 P = A \cdot f(K, L, H) \cdot S_{\text{adapt}}
 \end{aligned}
-\]
+$$
 
 Di mana:
 

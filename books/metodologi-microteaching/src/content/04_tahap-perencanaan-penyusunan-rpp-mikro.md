@@ -45,13 +45,13 @@ Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunaka
 
 Jika total waktu adalah \(T_{\text{total}} = 15\) menit, maka pembagian idealnya adalah:
 
-- **Pendahuluan (\(P\)):** $20\% \times T_{total} = 3$ menit
-- **Inti (\(I\)):** $65\% \times T_{total} = 9.75 \approx 10$ menit
-- **Penutup (\(K\)):** $15\% \times T_{total} = 2.25 \approx 2$ menit
+- **Pendahuluan (\(P\)):** \(20\% \times T_{\text{total}} = 3\) menit
+- **Inti (\(I\)):** \(65\% \times T_{\text{total}} = 9.75 \approx 10\) menit
+- **Penutup (\(K\)):** \(15\% \times T_{\text{total}} = 2.25 \approx 2\) menit
 
-\[
+$$
 T_{\text{total}} = P + I + K
-\]
+$$
 
 *Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
 

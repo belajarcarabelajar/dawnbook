@@ -12,11 +12,11 @@ Mincer merumuskan bahwa distribusi pendapatan pekerja tidak terjadi secara acak,
 
 Persamaan dasar Mincer dirumuskan sebagai berikut:
 
-\[
+$$
 \begin{aligned}
 \ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 E^2 + \epsilon
 \end{aligned}
-\]
+$$
 
 | Variabel | Nama & Simbol | Penjelasan & Peran Ekonomi |
 | :--- | :--- | :--- |

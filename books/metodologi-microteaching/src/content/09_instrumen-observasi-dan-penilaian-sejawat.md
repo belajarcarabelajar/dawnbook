@@ -65,9 +65,9 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 Untuk memberikan gambaran menyeluruh, hasil observasi sering kali dikuantifikasi. Misalkan terdapat 5 indikator dengan skor maksimal 4 per indikator.
 
-\[
+$$
 \text{Nilai Akhir} = \left( \frac{\sum \text{Skor yang Diperoleh}}{\sum \text{Skor Maksimal}} \right) \times 100
-\]
+$$
 
 Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nilai} = \frac{15}{20} \times 100 = 75\)
 

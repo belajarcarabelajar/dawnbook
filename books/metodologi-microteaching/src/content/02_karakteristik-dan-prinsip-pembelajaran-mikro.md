@@ -73,9 +73,9 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 
 Secara kognitif, otak manusia memiliki batasan dalam memproses informasi baru yang terlalu kompleks (*Cognitive Load Theory*).
 
-\[
+$$
 \text{Beban Kerja} = \frac{\text{Kompleksitas Variabel}}{\text{Kapasitas Fokus}}
-\]
+$$
 
 Jika \(\text{Kompleksitas Variabel}\) terlalu tinggi (30 siswa, 90 menit, semua keterampilan), maka \(\text{Kapasitas Fokus}\) kita akan pecah. Dengan mengecilkan pembagi (penyederhanaan), kita meningkatkan kualitas fokus pada setiap detail kecil yang sering terabaikan.
 

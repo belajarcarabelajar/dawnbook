@@ -64,9 +64,9 @@ Untuk mengevaluasi kelayakan investasi secara objektif, individu menggunakan pen
 
 Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai \( \text{NPV} > 0 \):
 
-\[
+$$
 \text{NPV} = \sum_{t=1}^{T} \frac{B_t - C_t}{(1+r)^t} > 0
-\]
+$$
 
 **Keterangan Simbol:**
 

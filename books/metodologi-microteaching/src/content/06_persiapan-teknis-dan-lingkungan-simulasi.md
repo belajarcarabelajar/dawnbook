@@ -58,12 +58,12 @@ Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa ber
 
 | Kategori | Hal yang Harus Diperiksa | Status (v) |
 | --- | --- | --- |
-| **Ruangan** | Apakah papan tulis sudah bersih dari tulisan sebelumnya? | \[ \] |
-| **Media** | Apakah file presentasi sudah terbuka dan tidak *error*? | \[ \] |
-| **Alat Tulis** | Apakah spidol/kapur tersedia dan berwarna kontras? | \[ \] |
-| **Posisi Kamera** | Apakah area "panggung" kamu masuk dalam *frame* kamera? | \[ \] |
-| **Siswa** | Apakah jumlah siswa model sudah sesuai (5-10 orang)? | \[ \] |
-| **Waktu** | Apakah ada jam dinding atau *timer* yang terlihat oleh kamu? | \[ \] |
+| **Ruangan** | Apakah papan tulis sudah bersih dari tulisan sebelumnya? | [ ] |
+| **Media** | Apakah file presentasi sudah terbuka dan tidak *error*? | [ ] |
+| **Alat Tulis** | Apakah spidol/kapur tersedia dan berwarna kontras? | [ ] |
+| **Posisi Kamera** | Apakah area "panggung" kamu masuk dalam *frame* kamera? | [ ] |
+| **Siswa** | Apakah jumlah siswa model sudah sesuai (5-10 orang)? | [ ] |
+| **Waktu** | Apakah ada jam dinding atau *timer* yang terlihat oleh kamu? | [ ] |
 
 ### Analogi: Mengajar Seperti Memasak di Dapur Restoran
 

@@ -57,9 +57,9 @@ Di dalam "laboratorium" ini, berlaku siklus eksperimen:
 3. **Feedback (Umpan Balik):** Melihat kembali performa melalui diskusi dan rekaman video.
 4. **Re-plan & Re-teach (Revisi & Praktik Ulang):** Memperbaiki apa yang kurang.
 
-\[
+$$
 \text{Kualitas Guru} = \sum (\text{Latihan} + \text{Refleksi})^n
-\]
+$$
 
 *Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya untuk membentuk karakter manusia?*
 

@@ -36,7 +36,7 @@ Manusia memproses informasi melalui indra yang berbeda. Gunakan variasi:
 
 #### C. Variasi Pola Interaksi
 
-Jangan hanya menggunakan pola satu arah (\text{Guru} \rightarrow \text{Siswa}). Ciptakan pola:
+Jangan hanya menggunakan pola satu arah (\(\text{Guru} \rightarrow \text{Siswa}\)). Ciptakan pola:
 
 - **Guru - Siswa:** Tanya jawab klasikal.
 - **Siswa - Guru:** Siswa yang mengajukan inisiatif pertanyaan.
@@ -52,9 +52,9 @@ Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **berta
 
 Gunakan taksonomi untuk memicu berpikir kritis. Jangan hanya bertanya pada level ingatan (C1), tetapi naikkan ke level analisis (C4) hingga evaluasi (C6).
 
-\[
+$$
 \text{Kualitas Pembelajaran} \approx \sum_{n=1}^{i} \frac{\text{Kualitas Pertanyaan}}{\text{Jumlah Jawaban Ya/Tidak}}
-\]
+$$
 
 ### Teknik Bertanya Dasar
 
