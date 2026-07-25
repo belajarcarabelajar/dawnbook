@@ -44,11 +44,11 @@ export interface SessionWithUser {
  */
 export async function getUserByGoogleSub(
   db: D1Database,
-  googleSub: string
+  googleSub: string,
 ): Promise<UserRow | null> {
   return await db
     .prepare(
-      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE google_sub = ?1"
+      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE google_sub = ?1",
     )
     .bind(googleSub)
     .first<UserRow>();
@@ -56,11 +56,11 @@ export async function getUserByGoogleSub(
 
 export async function getUserByEmail(
   db: D1Database,
-  email: string
+  email: string,
 ): Promise<UserRow | null> {
   return await db
     .prepare(
-      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE email = ?1"
+      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE email = ?1",
     )
     .bind(email)
     .first<UserRow>();
@@ -68,11 +68,11 @@ export async function getUserByEmail(
 
 export async function getUserById(
   db: D1Database,
-  id: string
+  id: string,
 ): Promise<UserRow | null> {
   return await db
     .prepare(
-      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE id = ?1"
+      "SELECT id, google_sub, email, name, picture, role, donation_badge, created_at, last_login_at FROM users WHERE id = ?1",
     )
     .bind(id)
     .first<UserRow>();
@@ -93,7 +93,7 @@ export async function upsertGoogleUser(
     email: string;
     name: string | null;
     picture: string | null;
-  }
+  },
 ): Promise<UserRow> {
   // Two statements because SQLite UPSERT in D1 needs unique index targets;
   // doing INSERT-or-IGNORE then UPDATE keeps the SQL obvious and avoids
@@ -102,16 +102,23 @@ export async function upsertGoogleUser(
   await db
     .prepare(
       `INSERT OR IGNORE INTO users (id, google_sub, email, name, picture, role, last_login_at)
-       VALUES (?1, ?2, ?3, ?4, ?5, 'reader', ?6)`
+       VALUES (?1, ?2, ?3, ?4, ?5, 'reader', ?6)`,
     )
-    .bind(params.id, params.google_sub, params.email, params.name, params.picture, now)
+    .bind(
+      params.id,
+      params.google_sub,
+      params.email,
+      params.name,
+      params.picture,
+      now,
+    )
     .run();
 
   await db
     .prepare(
       `UPDATE users
        SET email = ?1, name = ?2, picture = ?3, last_login_at = ?4
-       WHERE google_sub = ?5`
+       WHERE google_sub = ?5`,
     )
     .bind(params.email, params.name, params.picture, now, params.google_sub)
     .run();
@@ -131,25 +138,34 @@ export async function createSession(
     expires_at: string;
     user_agent?: string | null;
     ip?: string | null;
-  }
+  },
 ): Promise<SessionRow> {
-  await db
+  const row = await db
     .prepare(
       `INSERT INTO sessions (id, user_id, expires_at, user_agent, ip)
-       VALUES (?1, ?2, ?3, ?4, ?5)`
+       VALUES (?1, ?2, ?3, ?4, ?5)
+       RETURNING id, user_id, expires_at, created_at, last_seen_at, user_agent, ip`,
     )
-    .bind(params.id, params.user_id, params.expires_at, params.user_agent ?? null, params.ip ?? null)
-    .run();
-  const row = await db
-    .prepare("SELECT id, user_id, expires_at, created_at, last_seen_at, user_agent, ip FROM sessions WHERE id = ?1")
-    .bind(params.id)
+    .bind(
+      params.id,
+      params.user_id,
+      params.expires_at,
+      params.user_agent ?? null,
+      params.ip ?? null,
+    )
     .first<SessionRow>();
   if (!row) throw new Error("createSession: row not found after insert");
   return row;
 }
 
-export async function deleteSession(db: D1Database, id: string): Promise<boolean> {
-  const res = await db.prepare("DELETE FROM sessions WHERE id = ?1").bind(id).run();
+export async function deleteSession(
+  db: D1Database,
+  id: string,
+): Promise<boolean> {
+  const res = await db
+    .prepare("DELETE FROM sessions WHERE id = ?1")
+    .bind(id)
+    .run();
   return res.success;
 }
 
@@ -164,7 +180,7 @@ export async function deleteSession(db: D1Database, id: string): Promise<boolean
  */
 export async function setDonationBadge(
   db: D1Database,
-  params: { userId: string; tier: string | null }
+  params: { userId: string; tier: string | null },
 ): Promise<boolean> {
   const allowed = new Set(["Gold", "Silver", "Bronze"]);
   const { userId, tier } = params;
@@ -183,7 +199,7 @@ export async function setDonationBadge(
 
 export async function getSessionWithUser(
   db: D1Database,
-  sessionId: string
+  sessionId: string,
 ): Promise<SessionWithUser | null> {
   const row = await db
     .prepare(
@@ -206,7 +222,7 @@ export async function getSessionWithUser(
          u.last_login_at AS u_last_login_at
        FROM sessions s
        JOIN users u ON u.id = s.user_id
-       WHERE s.id = ?1`
+       WHERE s.id = ?1`,
     )
     .bind(sessionId)
     .first<any>();
