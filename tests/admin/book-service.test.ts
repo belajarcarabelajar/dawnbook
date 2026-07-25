@@ -37,6 +37,29 @@ describe("Admin BookService", () => {
   });
 
 
+  test("fetchBook returns book on success", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => new Response(JSON.stringify({ book: { slug: "test", title: "Test Book", content_md: "Some content" } }));
+
+    try {
+      const book = await BookService.fetchBook("test");
+      expect(book).toEqual({ slug: "test", title: "Test Book", content_md: "Some content" });
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("fetchBook throws on non-ok response", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => new Response("Not Found", { status: 404 });
+
+    try {
+      await expect(BookService.fetchBook("test")).rejects.toThrow("Failed to fetch book: 404");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
   test("deleteBook returns success message on 200", async () => {
     const originalFetch = global.fetch;
     global.fetch = async () =>
