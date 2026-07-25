@@ -67,7 +67,8 @@ export function extractSessionId(request: Request): string | null {
 
   // 1. Cookie (browser flow).
   const cookieHeader = request.headers.get("Cookie") ?? "";
-  for (const c of cookieHeader.split(";").map((c) => c.trim())) {
+  for (const part of cookieHeader.split(";")) {
+    const c = part.trim();
     if (c.startsWith("session_id=")) {
       const v = c.slice("session_id=".length).trim();
       if (v && HEX64.test(v)) return v;
