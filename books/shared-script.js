@@ -49,9 +49,13 @@
         var isInternalNavigation = document.referrer && document.referrer.indexOf('/books/' + bookSlug + '/') !== -1;
 
         window.saveProgress = function(isCompleted) {
-            var payload = { bookSlug: bookSlug, path: currentPath };
+            var cleanPath = currentPath;
+            if (!cleanPath.endsWith('.html') && cleanPath.indexOf('/content/') !== -1) {
+                cleanPath += '.html';
+            }
+            var payload = { bookSlug: bookSlug, path: cleanPath };
             if (isCompleted) {
-                payload.completed_path = currentPath;
+                payload.completed_path = cleanPath;
             }
             fetch('/api/progress', {
                 method: 'POST',
@@ -91,8 +95,12 @@
                         window.updateBookProgress(data.completed_paths);
                     }
                     if (data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
-                        // Redirect to the saved chapter path!
-                        window.location.replace(data.path + '?redirected=true');
+                        // Redirect to the saved chapter path with canonical .html extension!
+                        var targetPath = data.path;
+                        if (!targetPath.endsWith('.html') && targetPath.indexOf('/content/') !== -1) {
+                            targetPath += '.html';
+                        }
+                        window.location.replace(targetPath + '?redirected=true');
                     } else {
                         window.checkpointHandled = true;
                     }
