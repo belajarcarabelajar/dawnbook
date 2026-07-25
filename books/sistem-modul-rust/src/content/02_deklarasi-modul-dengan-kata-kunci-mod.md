@@ -65,7 +65,9 @@ Menaruh seluruh elemen di tingkat teratas (root) pada proyek besar berisiko meni
 
 Modul dapat disusun bertingkat (sub-modul) layaknya folder di dalam folder. Secara matematis, hubungan ini digambarkan sebagai relasi himpunan bagian:
 
-\\[ \\text{Modul}_{\\text{Anak}} \\subset \\text{Modul}_{\\text{Induk}} \\subset \\text{Crate} \\]
+$$
+\\text{Modul}_{\\text{Anak}} \\subset \\text{Modul}_{\\text{Induk}} \\subset \\text{Crate}
+$$
 
 Struktur restoran berikut menggambarkan hierarki tersebut:
 

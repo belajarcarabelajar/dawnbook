@@ -10,8 +10,8 @@ Sebelum pembedahan dimulai, tim medis wajib memastikan organ-organ tubuhmu berad
 
 Beberapa tes yang biasanya diminta meliputi:
 
-- **Darah Lengkap (Complete Blood Count):** Dokter memeriksa kadar Hemoglobin \\( \text{Hb} \\), Hematokrit \\( \text{Ht} \\), dan sel darah putih (Leukosit). Tujuannya untuk mendeteksi dini jika ada infeksi aktif atau kondisi anemia.
-- **Profil Koagulasi:** Pemeriksaan yang sangat vital untuk meminimalkan risiko perdarahan selama operasi. Parameter yang dicek meliputi *Prothrombin Time* \\( \text{PT} \\), *Activated Partial Thromboplastin Time* \\( \text{APTT} \\), serta *International Normalized Ratio* \\( \text{INR} \\).
+- **Darah Lengkap (Complete Blood Count):** Dokter memeriksa kadar Hemoglobin \( \text{Hb} \), Hematokrit \( \text{Ht} \), dan sel darah putih (Leukosit). Tujuannya untuk mendeteksi dini jika ada infeksi aktif atau kondisi anemia.
+- **Profil Koagulasi:** Pemeriksaan yang sangat vital untuk meminimalkan risiko perdarahan selama operasi. Parameter yang dicek meliputi *Prothrombin Time* \( \text{PT} \), *Activated Partial Thromboplastin Time* \( \text{APTT} \), serta *International Normalized Ratio* \( \text{INR} \).
 - **Fungsi Ginjal & Elektrolit:** Langkah ini memastikan cairan tubuh seimbang agar proses pembiusan berjalan lancar.
 
 > **Pesan Penting:** Jika kamu memiliki riwayat keluarga dengan gangguan pembekuan darah atau sering mengalami memar tanpa sebab, segera informasikan kepada dokter bedahmu pada tahap ini.
@@ -69,7 +69,7 @@ Budi adalah seorang pria berusia 28 tahun yang akan menjalani tonsilektomi karen
 
 | Waktu | Aktivitas | Catatan |
 | --- | --- | --- |
-| **08:00 (H-1)** | Mengonfirmasi hasil lab \\( \text{PT/APTT} \\) | Hasil normal, siap berangkat. |
+| **08:00 (H-1)** | Mengonfirmasi hasil lab \( \text{PT/APTT} \) | Hasil normal, siap berangkat. |
 | **18:00 (H-1)** | Makan malam terakhir (sehat & ringan) | Menghindari makanan yang terlalu pedas/asam. |
 | **22:00 (H-1)** | Mulai Puasa Total | Tidak ada camilan tengah malam! |
 | **06:00 (Hari H)** | Mandi dengan sabun antiseptik | Mengurangi risiko infeksi bakteri di kulit. |

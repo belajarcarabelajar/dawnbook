@@ -14,9 +14,9 @@ Dalam situasi krisis, Amigdala sering kali mengambil alih kendali sebelum bagian
 
 Secara matematis, kita bisa melihat hubungan antara intensitas emosi dan kapasitas berpikir rasional sebagai berikut:
 
-\[
+$$
 \text{Kapasitas Rasional} \approx \frac{1}{\text{Intensitas Emosi}}
-\]
+$$
 
 Artinya, semakin tinggi emosimu (marah, takut, panik), semakin kecil ruang yang tersisa untuk logika.
 

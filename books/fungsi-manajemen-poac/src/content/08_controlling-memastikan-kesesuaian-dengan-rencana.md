@@ -25,8 +25,10 @@ Ada dua jenis standar utama:
 1. **Standar Tangible (Terukur):** Menggunakan angka atau unit fisik. Sebagai contoh, produksi 500 unit per hari, tingkat cacat produk maksimal 1%, atau target penjualan Rp1 Miliar per bulan.
 2. **Standar Intangible (Sulit Diukur):** Berkaitan dengan aspek kualitatif seperti sikap atau reputasi. Contohnya meliputi tingkat kepuasan pelanggan serta loyalitas karyawan.
 
-Jika \\( K \\) adalah Kinerja dan \\( S \\) adalah Standar, maka kondisi ideal yang diharapkan adalah:
-\\[ K \geq S \\]
+Jika \( K \) adalah Kinerja dan \( S \) adalah Standar, maka kondisi ideal yang diharapkan adalah:
+$$
+K \geq S
+$$
 
 ### B. Pengukuran Hasil Kerja Aktual (Measuring Performance)
 
@@ -46,7 +48,9 @@ Mengandalkan laporan tertulis saja sering kali kurang cukup. Tanpa peninjauan la
 Pada tahap ini, manajer membandingkan antara apa yang **seharusnya terjadi** dengan apa yang **benar-benar terjadi**.
 
 Di sini kita mengenal istilah **Variansi (Deviasi)**. Variansi adalah perbedaan antara kinerja aktual dan standar.
-\\[ \text{Variansi} = \text{Hasil}_{\text{Aktual}} - \text{Standar}_{\text{Rencana}} \\]
+$$
+\text{Variansi} = \text{Hasil}_{\text{Aktual}} - \text{Standar}_{\text{Rencana}}
+$$
 
 **Prinsip Pengecualian (Management by Exception):** Manajer tidak perlu memeriksa setiap detail kecil. Manajer cukup memusatkan perhatian pada penyimpangan yang bernilai besar. Jika target penjualan adalah 100 unit dan kamu menjual 99 unit, itu mungkin bukan masalah besar. Namun, jika kamu hanya menjual 50 unit, ini adalah indikasi masalah serius yang membutuhkan perhatian segera.
 
@@ -54,10 +58,10 @@ Di sini kita mengenal istilah **Variansi (Deviasi)**. Variansi adalah perbedaan 
 
 Untuk memahami *Controlling*, bayangkan sebuah termostat di ruangan ber-AC:
 
-1. **Standar:** Kamu mengatur suhu di \\( 24^\circ\text{C} \\).
+1. **Standar:** Kamu mengatur suhu di \( 24^\circ\text{C} \).
 2. **Pengukuran:** Sensor termostat terus-menerus mengukur suhu ruangan saat ini.
-3. **Perbandingan:** Jika sensor mendeteksi suhu naik menjadi \\( 26^\circ\text{C} \\), termostat menyadari adanya selisih sebesar \\( +2^\circ\text{C} \\).
-4. **Tindakan Korektif:** Termostat menyalakan mesin pendingin lebih kuat untuk mengembalikan suhu ke \\( 24^\circ\text{C} \\).
+3. **Perbandingan:** Jika sensor mendeteksi suhu naik menjadi \( 26^\circ\text{C} \), termostat menyadari adanya selisih sebesar \( +2^\circ\text{C} \).
+4. **Tindakan Korektif:** Termostat menyalakan mesin pendingin lebih kuat untuk mengembalikan suhu ke \( 24^\circ\text{C} \).
 
 ## 4\. Karakteristik Sistem Pengawasan yang Efektif
 
@@ -77,7 +81,7 @@ Mari kita lihat bagaimana fungsi *Controlling* bekerja di restoran seperti McDon
 | **Penetapan Standar** | SOP menetapkan bahwa melayani satu pelanggan (dari pesan sampai terima makanan) tidak boleh lebih dari 3 menit. |
 | **Pengukuran** | Sistem komputer kasir secara otomatis mencatat waktu setiap transaksi (Time Tracking). |
 | **Perbandingan** | Di akhir shift, manajer melihat laporan harian. Ditemukan bahwa rata-rata waktu pelayanan adalah 4,5 menit. |
-| **Identifikasi** | Terjadi selisih (variansi) sebesar \\( 1,5 \\) menit dari standar. Manajer kini tahu ada masalah di bagian kecepatan pelayanan. |
+| **Identifikasi** | Terjadi selisih (variansi) sebesar \( 1,5 \) menit dari standar. Manajer kini tahu ada masalah di bagian kecepatan pelayanan. |
 
 ## 6\. Skenario Teknis: Dasbor dalam Rekayasa Perangkat Lunak
 
@@ -85,7 +89,7 @@ Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui das
 
 **Contoh Kasus:** Sebuah tim pengembang web memastikan server mereka tetap menyala.
 
-- **Standar:** Uptime server harus 99,9% (\\( \text{Uptime} \geq 99{,}9\% \\)).
+- **Standar:** Uptime server harus 99,9% (\( \text{Uptime} \geq 99{,}9\% \)).
 - **Pengukuran:** Menggunakan alat pemantau seperti Prometheus atau Grafana untuk melacak status server.
 - **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar.
 

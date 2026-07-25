@@ -36,11 +36,11 @@ $$
 
 Di mana:
 
-- \\( \Delta w_{ij} \\) adalah perubahan kekuatan (bobot) koneksi antara neuron \\( i \\) dan \\( j \\).
-- \\( \eta \\) adalah laju pembelajaran (*learning rate*).
-- \\( x_i \\) dan \\( x_j \\) adalah tingkat aktivitas dari kedua neuron tersebut.
+- \( \Delta w_{ij} \) adalah perubahan kekuatan (bobot) koneksi antara neuron \( i \) dan \( j \).
+- \( \eta \) adalah laju pembelajaran (*learning rate*).
+- \( x_i \) dan \( x_j \) adalah tingkat aktivitas dari kedua neuron tersebut.
 
-**Artinya:** Jika kedua neuron aktif secara bersamaan (\\( x_i \\) dan \\( x_j \\) bernilai tinggi), maka kekuatan koneksi mereka (\\( w \\)) akan meningkat secara drastis.
+**Artinya:** Jika kedua neuron aktif secara bersamaan (\( x_i \) dan \( x_j \) bernilai tinggi), maka kekuatan koneksi mereka (\( w \)) akan meningkat secara drastis.
 
 **Penting:** Proses ini memerlukan **sinkronisitas**. Jika sel A menyala tetapi sel B tidak merespons, atau jika sel B menyala tanpa pengaruh dari sel A, maka koneksi tidak akan menguat.
 

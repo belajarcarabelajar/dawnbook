@@ -32,11 +32,11 @@ Berbeda dengan aturan kaku tersebut, Etika Kebajikan memprioritaskan sifat kejuj
 
 Utilitarianisme menggunakan logika untuk mengukur moralitas, di mana kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
 
-\[
+$$
 \begin{aligned}
 \text{Kebaikan} &= \sum \text{Kebahagiaan} - \sum \text{Penderitaan}
 \end{aligned}
-\]
+$$
 
 Tindakan dianggap benar jika menghasilkan kebahagiaan bagi jumlah orang terbanyak, sehingga mengorbankan satu orang demi sejuta orang bisa dianggap bermoral.
 

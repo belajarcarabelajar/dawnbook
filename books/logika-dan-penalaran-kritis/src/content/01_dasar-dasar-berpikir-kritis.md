@@ -49,7 +49,7 @@ Pemikir kritis mampu mendengarkan argumen yang berseberangan dengan keyakinan pr
 
 ### 4. Skeptisisme yang Sehat
 
-Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian sebelum ada bukti memadai. Pola pikir ini menggunakan prinsip logika dasar: jika \\( P \\rightarrow Q \\) (jika ada asap, maka ada api), pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut sebelum menyimpulkan adanya api.
+Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian sebelum ada bukti memadai. Pola pikir ini menggunakan prinsip logika dasar: jika \( P \\rightarrow Q \) (jika ada asap, maka ada api), pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut sebelum menyimpulkan adanya api.
 
 ### 5. Ketelitian dan Akurasi
 

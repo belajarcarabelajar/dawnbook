@@ -10,7 +10,7 @@ Kita bisa mengibaratkan kecerdasan ini sebagai "radar sosial". Jika kecerdasan i
 
 Satu miskonsepsi yang sering muncul adalah menyamakan kecerdasan ini dengan ekstroversi. Padahal, seorang introvert pun bisa memiliki radar sosial yang tajam jika ia telaten membaca emosi orang lain dengan akurat dan meresponsnya secara pas.
 
-Membangun kecerdasan ini membutuhkan beberapa elemen yang saling menopang. Pertama, ada sensitivitas sosial yang membantu kamu menangkap isyarat non-verbal seperti ekspresi wajah, nada suara, dan gerak tubuh \\(\text{gesture}\\). Kemudian, kamu memerlukan empati kognitif dan afektif agar bisa merasakan apa yang dialami orang lain sambil melihat dunia dari kacamata mereka. Kemampuan ini pada gilirannya membuka jalan bagi resolusi konflik, di mana kamu bisa mengambil peran sebagai penengah untuk merumuskan jalan keluar bersama. Pada tingkat lanjut, kecerdasan ini memunculkan kemampuan kepemimpinan yang menggerakkan orang lain menuju tujuan tanpa paksaan.
+Membangun kecerdasan ini membutuhkan beberapa elemen yang saling menopang. Pertama, ada sensitivitas sosial yang membantu kamu menangkap isyarat non-verbal seperti ekspresi wajah, nada suara, dan gerak tubuh \(\text{gesture}\). Kemudian, kamu memerlukan empati kognitif dan afektif agar bisa merasakan apa yang dialami orang lain sambil melihat dunia dari kacamata mereka. Kemampuan ini pada gilirannya membuka jalan bagi resolusi konflik, di mana kamu bisa mengambil peran sebagai penengah untuk merumuskan jalan keluar bersama. Pada tingkat lanjut, kecerdasan ini memunculkan kemampuan kepemimpinan yang menggerakkan orang lain menuju tujuan tanpa paksaan.
 
 ## Tanda-tanda Kecerdasan Interpersonal
 
@@ -24,11 +24,11 @@ Pernahkah kamu merasa yakin bahwa seseorang sedang berbohong meskipun kata-katan
 
 Secara psikologis, kecerdasan ini memproses berbagai informasi sosial yang hilir mudik. Mekanismenya bisa disederhanakan dalam alur berikut:
 
-\\[
+$$
 \text{Kecerdasan Interpersonal} = (\text{Observasi} + \text{Interpretasi}) \times \text{Respons yang Tepat}
-\\]
+$$
 
-Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara \\(f\\) atau detail ekspresi wajah \\(e\\). Data ini kemudian masuk ke fase interpretasi untuk diberi makna, apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
+Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara \(f\) atau detail ekspresi wajah \(e\). Data ini kemudian masuk ke fase interpretasi untuk diberi makna, apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
 
 ## Implementasi dalam Kehidupan Sehari-hari
 

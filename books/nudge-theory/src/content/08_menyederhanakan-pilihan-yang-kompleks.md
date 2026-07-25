@@ -10,12 +10,12 @@ Secara intuitif, kita berpikir bahwa semakin banyak pilihan, semakin bebas kita.
 
 > **Insight:** "More is less." Semakin banyak pilihan yang tersedia, semakin besar usaha kognitif yang diperlukan untuk mengevaluasinya, yang sering kali berujung pada penundaan keputusan atau ketidakpuasan pasca-pembelian.
 
-Secara matematis, jika kita memiliki \\( n \\) pilihan dan setiap pilihan memiliki \\( a \\) atribut (seperti harga, kualitas, warna, fitur), maka total informasi yang harus diproses adalah:
-\[
+Secara matematis, jika kita memiliki \( n \) pilihan dan setiap pilihan memiliki \( a \) atribut (seperti harga, kualitas, warna, fitur), maka total informasi yang harus diproses adalah:
+$$
 \text{Total Informasi} = n \times a
-\]
+$$
 
-Ketika \\( n \\) meningkat drastis, beban kognitif kita melampaui ambang batas Sistem 2 (berpikir reflektif), memaksa kita untuk mengandalkan heuristik sederhana atau menyerah sama sekali.
+Ketika \( n \) meningkat drastis, beban kognitif kita melampaui ambang batas Sistem 2 (berpikir reflektif), memaksa kita untuk mengandalkan heuristik sederhana atau menyerah sama sekali.
 
 ## 2. Strategi 1: Kategorisasi (Structuring Choice)
 

@@ -66,7 +66,9 @@ Siska mulai menghindari rapat, membalas email dengan singkat dan dingin, atau ba
 
 Pada individu dengan gaya ini, bagian otak yang disebut **Amygdala** (pusat deteksi ancaman) cenderung sangat aktif. Saat menghadapi konflik emosional, otak mereka sering kali masuk ke mode *Freeze* (terpaku) atau *Fragmented*.
 
-\\[ \\text{Tingkat Stres} = \\frac{\\text{Keinginan Kedekatan}}{\\text{Rasa Percaya}} \\]
+$$
+\\text{Tingkat Stres} = \\frac{\\text{Keinginan Kedekatan}}{\\text{Rasa Percaya}}
+$$
 
 Jika angka **Rasa Percaya** mendekati nol, maka **Tingkat Stres** menjadi tidak terhingga, memicu reaksi emosional yang eksplosif atau penarikan diri total.
 
@@ -99,7 +101,9 @@ Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial 
 
 Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita perhatikan "persamaan" sederhana tentang kedalaman relasi berikut:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 

@@ -62,9 +62,9 @@ Kekayaan bersih menunjukkan nilai riil dari kondisi finansialmu saat ini. Angka 
 
 Rumus perhitungannya cukup lurus:
 
-\\[
+$$
 \text{Kekayaan Bersih} = \text{Total Aset} - \text{Total Liabilitas}
-\\]
+$$
 
 Melacak kekayaan bersih setiap tahun membantumu melihat apakah progres finansial sedang naik atau malah turun. Melihat grafik yang terus tumbuh juga bisa memacu semangat agar tidak kendur menabung dan berinvestasi.
 
@@ -82,9 +82,9 @@ Arus kas menelusuri pergerakan uang masuk dan keluar dari rekeningmu. Catatan in
 
 Menghitung arus kas bisa menggunakan rumus berikut:
 
-\\[
+$$
 \text{Arus Kas} = \text{Total Pendapatan} - \text{Total Pengeluaran}
-\\]
+$$
 
 ### Membaca Kondisi Arus Kas
 

@@ -50,7 +50,7 @@ Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi 
 
 ## 4\. Matematika Perubahan: Hubungan Fokus dan Error
 
-Kita bisa memodelkan efisiensi belajar (\\( L \\)) sebagai fungsi dari Fokus (\\( f \\)) dan Frekuensi Kesalahan yang disadari (\\( E \\)):
+Kita bisa memodelkan efisiensi belajar (\( L \)) sebagai fungsi dari Fokus (\( f \)) dan Frekuensi Kesalahan yang disadari (\( E \)):
 
 $$
 L \approx f \times \Delta E
@@ -58,10 +58,10 @@ $$
 
 Di mana:
 
-- \\( f \\) adalah atensi yang terpusat.
-- \\( \Delta E \\) adalah perbedaan antara hasil yang diharapkan dan hasil nyata (error signal).
+- \( f \) adalah atensi yang terpusat.
+- \( \Delta E \) adalah perbedaan antara hasil yang diharapkan dan hasil nyata (error signal).
 
-Jika \\( \Delta E = 0 \\) (tidak ada kesalahan), maka \\( L \\) mendekati nol, tidak peduli seberapa besar fokus kamu.
+Jika \( \Delta E = 0 \) (tidak ada kesalahan), maka \( L \) mendekati nol, tidak peduli seberapa besar fokus kamu.
 
 ## 5\. Aplikasi Dunia Nyata: Skenario Pemrograman
 

@@ -38,9 +38,9 @@ Dalam ekonomi digital saat ini, ambisi seringkali menjadi beban. Kita tidak hany
 
 Secara matematis, tingkat kecemasan karier dapat digambarkan sebagai berikut:
 
-\\[
+$$
 \\text{Kecemasan} = \\frac{\\text{Ekspektasi} \\times \\text{Perbandingan Social}}{\\text{Realitas Saat Ini}}
-\\]
+$$
 
 Semakin tinggi ekspektasimu dan semakin sering kamu membandingkan diri dengan pencapaian orang lain di LinkedIn atau Instagram, semakin besar beban kecemasan yang kamu pikul.
 

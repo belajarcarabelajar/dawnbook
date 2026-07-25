@@ -22,7 +22,7 @@ Mengapa aplikasi tidak langsung menulis data ke alamat fisik RAM? Jika itu terja
 
 Linux tidak mengelola memori dalam satuan bita per bita karena prosesnya akan sangat lambat. Sebagai gantinya, kernel menerapkan mekanisme **paging**.
 
-Melalui paging, memori dibagi menjadi blok-blok berukuran tetap yang disebut **page** (biasanya sebesar \\( 4\\text{ KB} \\)).
+Melalui paging, memori dibagi menjadi blok-blok berukuran tetap yang disebut **page** (biasanya sebesar \( 4\\text{ KB} \)).
 
 - **Virtual Page:** Representasi ruang alamat logis yang dilihat dan diakses langsung oleh proses.
 - **Page Frame:** Blok fisik nyata di dalam memori fisik (RAM) yang menjadi tempat bernaungnya data virtual page.
@@ -33,7 +33,9 @@ Saat CPU perlu mengakses data, ia mengandalkan **Memory Management Unit (MMU)** 
 
 Persamaan sederhana untuk menentukan alamat fisik adalah sebagai berikut:
 
-\\[ \\text{Alamat}_{\\text{Fisik}} = (\\text{Frame Number} \\times \\text{Page Size}) + \\text{Offset} \\]
+$$
+\\text{Alamat}_{\\text{Fisik}} = (\\text{Frame Number} \\times \\text{Page Size}) + \\text{Offset}
+$$
 
 **Proses Paging:**
 
@@ -118,7 +120,7 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 ## Ringkasan Singkat
 
 - **Virtual Memory:** Memberikan ilusi ketersediaan ruang alamat yang luas, terisolasi, dan aman bagi setiap proses yang berjalan.
-- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran \\( 4\\text{ KB} \\) demi menyederhanakan pemetaan ke alamat fisik RAM.
+- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran \( 4\\text{ KB} \) demi menyederhanakan pemetaan ke alamat fisik RAM.
 - **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 

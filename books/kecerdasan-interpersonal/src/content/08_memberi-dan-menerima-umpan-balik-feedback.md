@@ -81,8 +81,8 @@ Untuk mengasah keterampilan ini, cobalah terapkan formula "Stop-Start-Continue" 
 
 > **Penting**: *Feedback* yang paling berdaya guna adalah yang berorientasi pada masa depan (*feed-forward*). Dibandingkan terus menyesali kesalahan di masa lalu, alokasikan energi untuk merancang bagaimana tindakan tersebut bisa diperbaiki pada kesempatan berikutnya.
 
-\\[
+$$
 \text{Growth} = \frac{\text{Action} \times \text{Feedback}}{\text{Ego}}
-\\]
+$$
 
 Persamaan di atas menggambarkan secara metaforis bahwa pertumbuhan kompetensimu akan mencapai titik maksimal saat tindakan nyata (*Action*) dan masukan (*Feedback*) bernilai tinggi, sementara ego ditekan serendah mungkin. Semakin besar pembagi (ego), semakin kecil hasil pertumbuhan yang akan kamu dapatkan.

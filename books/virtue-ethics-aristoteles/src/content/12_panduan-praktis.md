@@ -22,19 +22,19 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
 
 Karakter tidak dibangun dalam satu malam melalui satu keputusan heroik. Karakter adalah akumulasi dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
 
-\\[
+$$
 \begin{aligned}
 \sum_{t=1}^{n} \text{Tindakan}_t = \text{Karakter}
 \end{aligned}
-\\]
+$$
 
-Di mana \\( n \\) adalah jumlah pengulangan dalam waktu \\( t \\). Semakin besar \\( n \\), semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
+Di mana \( n \) adalah jumlah pengulangan dalam waktu \( t \). Semakin besar \( n \), semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
 
 #### Cara Melatihnya:
 
 1. **Pilih Satu Fokus:** Jangan mencoba menjadi sempurna dalam segala hal sekaligus. Pilih satu kebajikan per bulan (misalnya: Kesabaran).
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
-3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit \\( \text{Tindakan} \\) yang menambah skor \\( \text{Karakter} \\) kamu.
+3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit \( \text{Tindakan} \) yang menambah skor \( \text{Karakter} \) kamu.
 
 ### 3. Menggunakan Kompas Phronesis dalam Pengambilan Keputusan
 

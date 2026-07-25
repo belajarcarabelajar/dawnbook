@@ -14,13 +14,15 @@ Dalam literatur manajemen, Actuating sering juga disebut sebagai *Directing* (Pe
 
 Secara matematis, keberhasilan Actuating dapat dilihat sebagai fungsi dari:
 
-\\[ E = f(K, M, S) \\]
+$$
+E = f(K, M, S)
+$$
 
 di mana:
-- \\( E \\) = *Execution* (eksekusi/hasil)
-- \\( K \\) = kemampuan SDM
-- \\( M \\) = motivasi
-- \\( S \\) = sumber daya yang tersedia
+- \( E \) = *Execution* (eksekusi/hasil)
+- \( K \) = kemampuan SDM
+- \( M \) = motivasi
+- \( S \) = sumber daya yang tersedia
 
 ## 2. Mengapa Actuating Dianggap Sebagai "Jantung" Manajemen?
 

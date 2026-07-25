@@ -50,11 +50,11 @@ Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari 
 
 Keberhasilan sebuah drama sering kali dapat dirumuskan secara sederhana melalui keseimbangan antara narasi dan atmosfer audio:
 
-\\[
+$$
 \\begin{aligned}
 \\text{Kualitas Drama} = (\\text{Kekuatan Narasi} \\times \\text{Kedalaman Karakter}) + \\text{Intensitas Emosional OST}
 \\end{aligned}
-\\]
+$$
 
 Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan terasa kurang lengkap. Penulis skenario menjaga alur logika serta kedalaman emosi tetap stabil, sedangkan pengarah musik memastikan penonton larut sepenuhnya dalam atmosfer yang dibangun.
 

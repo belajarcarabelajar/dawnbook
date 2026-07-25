@@ -12,9 +12,9 @@ Salah satu pemicu utama stres di usia dewasa muda adalah **gap antara ekspektasi
 
 Bayangkan uangmu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah uangmu tetap, maka "volume" barang yang bisa kamu tampung akan mengecil. Dalam ekonomi, ini dirumuskan sebagai:
 
-\\[
+$$
 \text{Daya Beli} \ (\text{Purchasing Power}) = \frac{\text{Pendapatan} \ (I)}{\text{Tingkat Harga} \ (P)}
-\\]
+$$
 
 **Analogi: Ember yang Bocor**
 
@@ -35,7 +35,7 @@ Di tengah tekanan ekonomi, akses terhadap kredit menjadi pedang bermata dua. Bag
 Tidak semua utang itu buruk, namun dalam *Quarter-Life Crisis*, banyak yang terjebak dalam utang konsumtif karena tekanan sosial.
 
 - **Paylater & Pinjol (Pinjaman Online):** Kemudahan akses membuat banyak individu terjebak dalam bunga majemuk yang menghancurkan.
-	- *Rumus Bunga Majemuk:* \\( A = P(1 + r)^n \\)
+	- *Rumus Bunga Majemuk:* \( A = P(1 + r)^n \)
 		- Artinya, jika kamu menunda pembayaran, utangmu tumbuh secara eksponensial, bukan linear.
 - **Studi Kasus Singkat:** Rina (24 tahun) menggunakan fitur *Paylater* untuk membeli ponsel baru seharga Rp10.000.000 dengan bunga 3% per bulan. Jika ia hanya membayar minimum, dalam satu tahun ia bisa membayar hampir 1,5 kali lipat dari harga asli. Tekanan untuk melunasi ini seringkali memicu kecemasan hebat setiap kali notifikasi jatuh tempo muncul.
 
@@ -75,7 +75,7 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Real-world Application: Skenario Menghadapi Kenaikan Biaya Hidup
 
-**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: \\( 5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000 \\) hanya untuk mempertahankan standar hidup yang **sama**.
+**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: \( 5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000 \) hanya untuk mempertahankan standar hidup yang **sama**.
 
 **Tindakan yang Bisa Diambil:**
 

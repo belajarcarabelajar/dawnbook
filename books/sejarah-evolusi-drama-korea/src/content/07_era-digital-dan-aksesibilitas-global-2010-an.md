@@ -20,11 +20,11 @@ Viki mengambil jalan unik dengan memanfaatkan model berbasis komunitas. Di sini,
 
 Secara matematis, kita bisa melihat fenomena ini melalui persamaan berikut:
 
-\\[
+$$
 \\begin{aligned}
 \\text{Kesuksesan} = (\\text{Kualitas Produksi} + \\text{Daya Tarik Visual}) \\times \\text{Aksesibilitas}^{\\text{Digital}}
 \\end{aligned}
-\\]
+$$
 
 Peningkatan pada aspek **Aksesibilitas Digital** (seperti kecepatan internet dan ketersediaan aplikasi) membuat efek dari **Kualitas Produksi** berlipat ganda secara eksponensial.
 

@@ -11,7 +11,7 @@ Di sini, perawat dan dokter anestesi bertindak seperti petugas bandara. Mereka m
 ## Parameter Pemantauan Utama
 
 Selama berada di PACU (biasanya sekitar 1 hingga 2 jam), perawat akan memantau kondisi fisik secara ketat menggunakan sensor khusus:
-- **Saturasi Oksigen \\(\text{SpO}_2\\)**: Alat pemantau memastikan paru-paru berfungsi optimal pasca-anestesi dengan target di atas \\(95\%\\).
+- **Saturasi Oksigen \(\text{SpO}_2\)**: Alat pemantau memastikan paru-paru berfungsi optimal pasca-anestesi dengan target di atas \(95\%\).
 - **Laju Pernapasan**: Perawat mengawasi keteraturan napas sekaligus mewaspadai tanda sumbatan akibat pembengkakan tenggorokan.
 - Selain itu, stabilitas jantung juga dipantau lewat **Frekuensi Detak Jantung** (dalam satuan *beats per minute*/bpm) and **Tekanan Darah** guna memastikan sistem sirkulasi tetap aman setelah menerima cairan infus maupun obat-obatan.
 
@@ -32,7 +32,7 @@ Jika pasien adalah anak-anak, mereka berisiko mengalami *Emergence Delirium* (ko
 
 Posisi tubuh pasca-tonsilektomi sangat menentukan kelancaran jalan napas:
 - **Posisi Lateral (Miring)**: Posisi ini sangat disarankan untuk anak-anak. Jika terdapat sisa air liur atau sedikit rembesan darah, cairan akan mengalir keluar melewati sudut mulut sehingga tidak masuk ke saluran napas (aspirasi).
-- **Posisi Semi-Fowler**: Pasien diposisikan setengah duduk dengan sandaran tempat tidur berkisar antara \\(30^\circ\\) hingga \\(45^\circ\\). Pengaturan ini membantu mengurangi pembengkakan pada area tenggorokan sekaligus memudahkan pernapasan.
+- **Posisi Semi-Fowler**: Pasien diposisikan setengah duduk dengan sandaran tempat tidur berkisar antara \(30^\circ\) hingga \(45^\circ\). Pengaturan ini membantu mengurangi pembengkakan pada area tenggorokan sekaligus memudahkan pernapasan.
 
 ## Kriteria Kepulangan (Skala Aldrete)
 

@@ -28,10 +28,10 @@ Pola ekuilibrasi menyerupai spiral yang makin naik, makin rumit:
 
 Bayangkan isi kepala kita berfungsi macam **termostat AC**.
 
-- **Set Point (Equilibrium):** Kamu pasang suhu \\( 24^\circ\text{C} \\). Ruangan sejuk. Sistem diam tanpa beban.
-- **Perubahan Lingkungan:** Matahari siang membakar. Suhu ruangan loncat ke \\( 28^\circ\text{C} \\). Inilah fase **disekuilibrium**.
+- **Set Point (Equilibrium):** Kamu pasang suhu \( 24^\circ\text{C} \). Ruangan sejuk. Sistem diam tanpa beban.
+- **Perubahan Lingkungan:** Matahari siang membakar. Suhu ruangan loncat ke \( 28^\circ\text{C} \). Inilah fase **disekuilibrium**.
 - **Respon Ekuilibrasi:** Sensor termostat mendeteksi suhu panas ekstrem. Mesin pendingin otomatis menyala kencang.
-- **Hasil:** Ruangan kembali ke \\( 24^\circ\text{C} \\). Bedanya, di dunia kognitif, titik keseimbangan yang baru ini punya struktur pondasi jauh lebih canggih dari sebelumnya.
+- **Hasil:** Ruangan kembali ke \( 24^\circ\text{C} \). Bedanya, di dunia kognitif, titik keseimbangan yang baru ini punya struktur pondasi jauh lebih canggih dari sebelumnya.
 
 ### 4\. Menyeimbangkan Asimilasi dan Akomodasi
 
@@ -42,7 +42,9 @@ Ekuilibrasi berperan jadi wasit penengah asimilasi dan akomodasi.
 
 Ekuilibrasi menjaga harmoni itu berdetak konstan:
 
-\\[ \text{Ekuilibrasi} \approx \frac{\text{Asimilasi}}{\text{Akomodasi}} \rightarrow \text{Keseimbangan Mental} \\]
+$$
+\text{Ekuilibrasi} \approx \frac{\text{Asimilasi}}{\text{Akomodasi}} \rightarrow \text{Keseimbangan Mental}
+$$
 
 *Coba pikir: Pernah ketemu orang super keras kepala (overdosis asimilasi)? Atau orang yang plin-plan nggak punya prinsip (overdosis akomodasi)? Menurut kacamata Piaget, mesin ekuilibrasi di otak mereka sedang rusak atau macet.*
 
@@ -66,8 +68,8 @@ Bagi dunia pendidik dan pengasuhan, ekuilibrasi membawa satu pesan frontal: **se
 
 - **Tahan Jawabanmu:** Guru yang buru-buru ngasih kunci jawaban malah membunuh disekuilibrium. Tanpa rasa bingung, tak ada ekuilibrasi. Biarkan anak berkelahi sebentar dengan pertanyaannya.
 - **Beri Tantangan Pas:**
-	- Terlalu gampang \\( \rightarrow \\) Anak bertahan di zona equilibrium (hasilnya: bosan mati).
-	- Terlampau susah \\( \rightarrow \\) Anak stres berat dan memilih balik badan (ekuilibrasi batal).
+	- Terlalu gampang \( \rightarrow \) Anak bertahan di zona equilibrium (hasilnya: bosan mati).
+	- Terlampau susah \( \rightarrow \) Anak stres berat dan memilih balik badan (ekuilibrasi batal).
 	- **Titik Optimal:** Suapkan misteri yang letaknya pas seinci di atas batas pemahaman mereka.
 
 **Untuk Belajarmu Sendiri:** Mentok memahami algoritma koding? Jangan buru-buru tutup laptop. Kepalamu sedang terbakar api **disekuilibrium**. Bukannya bodoh, kamu justru sedang antre tepat di depan gerbang lompatan intelektual berikutnya.

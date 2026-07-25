@@ -47,7 +47,7 @@ Mari kita lihat bagaimana konsep matematika dasar terbentuk melalui lingkungan f
 
 Tanpa adanya objek fisik (batu) untuk dimanipulasi, konsep abstrak seperti **Konservasi Jumlah** akan sulit dipahami oleh anak pada tahap operasional konkret.
 
-\\(\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}\\)
+\(\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}\)
 
 ## 4\. Peran Alat dan Mainan dalam Berbagai Tahapan
 
@@ -63,7 +63,7 @@ Bagaimana kita menerapkan pemahaman tentang peran lingkungan fisik ini dalam pen
 
 ### Skenario: Belajar Tentang Volume
 
-Alih-alih memberikan rumus \\(V = p \times l \times t\\) di papan tulis, guru yang menerapkan prinsip Piaget akan:
+Alih-alih memberikan rumus \(V = p \times l \times t\) di papan tulis, guru yang menerapkan prinsip Piaget akan:
 
 1. Menyediakan berbagai wadah dengan bentuk berbeda (tinggi kurus vs. pendek lebar).
 2. Meminta siswa mengisi satu wadah dengan air, lalu menuangkannya ke wadah lain.

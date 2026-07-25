@@ -8,7 +8,7 @@ Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan 
 
 Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana namun kuat:
 
-\\(\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}\\)
+\(\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}\)
 
 ### Analogi: Perpustakaan yang Terus Berkembang
 
@@ -38,7 +38,7 @@ Penting untuk memahami apa yang dimaksud Piaget dengan "Operasi". Operasi adalah
 
 1. **Awalnya (Sensorimotor):** Anak "berpikir" dengan tangan dan mulutnya. Jika mereka tidak menyentuh benda itu, benda itu seolah tidak ada.
 2. **Transisi (Praoperasional):** Anak mulai bisa membayangkan benda di kepala mereka (simbol), tapi logika mereka masih "satu arah". Mereka belum bisa memutar balik proses mental secara konsisten.
-3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, \\(5 + 2 = 7\\), maka \\(7 - 2 = 5\\)). Pada tahap formal, mereka tidak lagi butuh benda fisik; mereka bisa melakukan operasi mental pada ide-ide abstrak.
+3. **Kematangan (Operasional):** Pada tahap konkret, mereka bisa membalikkan keadaan di dalam kepala (misalnya, \(5 + 2 = 7\), maka \(7 - 2 = 5\)). Pada tahap formal, mereka tidak lagi butuh benda fisik; mereka bisa melakukan operasi mental pada ide-ide abstrak.
 
 ## 4\. Real-World Application: Mengapa Ini Penting?
 

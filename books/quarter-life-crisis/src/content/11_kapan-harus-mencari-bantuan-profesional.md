@@ -28,9 +28,9 @@ Sangat penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perk
 
 Untuk menentukan apakah kamu memerlukan psikolog atau psikiater, gunakan rumus sederhana ini untuk mengevaluasi kondisimu:
 
-\\[
+$$
 \\text{Status} = D(\\text{Durasi}) + I(\\text{Intensitas}) + F(\\text{Fungsi})
-\\]
+$$
 
 ### A. Durasi (Duration)
 

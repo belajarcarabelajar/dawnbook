@@ -66,7 +66,7 @@ Bayangkan sebuah tim sedang menghadapi tenggat waktu (deadline) yang ketat dan t
 
 Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pertimbangkan langkah-langkah berikut:
 
-* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula: \\(\\text{Reaksi Rasional} = \\text{Fakta Objektif} - \\text{Asumsi Emosional}\\)
+* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula: \(\\text{Reaksi Rasional} = \\text{Fakta Objektif} - \\text{Asumsi Emosional}\)
 * **Untuk Tipe Menghindar:** Cobalah untuk melakukan "transparansi terencana". Bagikan pembaruan kecil tentang pekerjaanmu secara rutin sebelum orang lain bertanya. Ini membangun kepercayaan tanpa membuatmu merasa kehilangan kendali.
 * **Untuk Pemimpin:** Sadarilah bahwa kebutuhan anggota tim berbeda-beda. Anggota tim yang cemas butuh lebih banyak pujian, sementara yang menghindar butuh ruang untuk bekerja sendiri.
 
@@ -95,9 +95,9 @@ Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana:
 
-\\[
+$$
 \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-\\]
+$$
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 

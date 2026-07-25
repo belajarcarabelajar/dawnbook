@@ -16,7 +16,7 @@ Pasca-Perang Korea, pemerintah menyadari potensi besar televisi sebagai medium k
 
 * **Siaran langsung (live)** menjadi pilihan utama karena teknologi rekaman pita magnetik (*videotape*) masih terlampau mahal dan langka. Alhasil, jika aktor melakukan kesalahan atau lupa naskah, penonton di seluruh negeri akan langsung mengetahuinya saat itu juga.
 * Karena masih menggunakan **format hitam putih**, penyampaian emosi sangat bergantung pada kedalaman ekspresi wajah aktor serta permainan cahaya (*lighting*) yang dramatis.
-* Dengan **rasio layar** standar \\( 4:3 \\), visual yang dihasilkan terasa padat dan memusatkan fokus penonton langsung pada gerak-gerik karakter.
+* Dengan **rasio layar** standar \( 4:3 \), visual yang dihasilkan terasa padat dan memusatkan fokus penonton langsung pada gerak-gerik karakter.
 
 ## 2. Drama Mingguan Pertama: "I Will Become a Human" (1962)
 
@@ -67,7 +67,7 @@ Untuk memahami skala evolusi ini, perhatikan perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |
-| **Warna** | Hitam & Putih (\\( \\text{B} \& \\text{W} \\)) | *Ultra High Definition* (UHD) |
+| **Warna** | Hitam & Putih (\( \\text{B} \& \\text{W} \)) | *Ultra High Definition* (UHD) |
 | **Metode** | Mayoritas *Live* atau Rekaman Dasar | *Pre-produced* dengan Editing Canggih |
 | **Distribusi** | Frekuensi Terestrial Terbatas | Global via OTT (Netflix/Disney+) |
 | **Fokus Cerita** | Restorasi Keluarga & Moral | Diversifikasi Genre & Kritik Sosial |

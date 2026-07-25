@@ -24,7 +24,7 @@ Untuk menilai bukti secara teknis, kita menggunakan dua parameter utama:
 - **Validity (Validitas):** Apakah data tersebut benar-benar mengukur apa yang seharusnya diukur?
 - **Reliability (Reliabilitas):** Jika pengukuran diulang dalam kondisi yang sama, apakah hasilnya konsisten?
 
-Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: \\( p < 0.05 \\) Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
+Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: \( p < 0.05 \) Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
 
 ## 2. Menilai Kredibilitas Sumber: Metode CRAAP
 

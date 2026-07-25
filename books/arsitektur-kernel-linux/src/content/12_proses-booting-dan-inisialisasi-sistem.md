@@ -102,9 +102,9 @@ ps -p 1 -o comm=
 
 Apabila salah satu tahapan di atas gagal (misalnya karena kernel tidak mendeteksi root partition atau berkas init mengalami kerusakan), sistem tidak dapat melanjutkan proses.
 
-\\\\[
+$$
 \\\\text{Fungsi Init Gagal} \\\\rightarrow \\\\text{panic('No working init found. Try passing init= bootarg.')}
-\\\\]
+$$
 
 Pada kode sumber kernel, jika panggilan `kernel_execve` gagal mengeksekusi `init`, sistem akan langsung menghentikan seluruh aktivitas. Kondisi kegagalan fatal inilah yang disebut sebagai **kernel panic**.
 

@@ -53,9 +53,9 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 
 Kita dapat menggambarkan kedamaian batin dalam Stoikisme dengan rumus sederhana:
 
-\[ 
+$$
 \text{Penderitaan} = \text{Realitas} - \text{Ekspektasi}
- \]
+$$
 
 Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: \( \text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0 \)
 

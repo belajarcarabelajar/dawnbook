@@ -47,11 +47,11 @@ Saat kamu terpapar pada sebuah jangkar, otak kamu secara otomatis mencari inform
 
 Mari kita lihat bagaimana urutan informasi memengaruhi hasil perhitungan mental kita. Dalam sebuah studi, dua kelompok siswa diminta menghitung hasil perkalian berikut dalam waktu 5 detik:
 
-**Kelompok A:** \\(1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\times 7 \\times 8\\)
+**Kelompok A:** \(1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\times 7 \\times 8\)
 
-**Kelompok B:** \\(8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1\\)
+**Kelompok B:** \(8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1\)
 
-Secara matematis, hasilnya sama: \\(40.320\\). Namun, karena waktu terbatas:
+Secara matematis, hasilnya sama: \(40.320\). Namun, karena waktu terbatas:
 
 - **Kelompok A** (dimulai dengan angka kecil) memberikan rata-rata estimasi: **512**.
 - **Kelompok B** (dimulai dengan angka besar) memberikan rata-rata estimasi: **2.250**.
@@ -93,6 +93,6 @@ Meskipun sulit untuk sepenuhnya menghilangkan bias ini (karena terjadi di bawah 
 - **Lakukan Riset Independen:** Sebelum masuk ke dalam situasi negosiasi atau pembelian, kumpulkan data dari berbagai sumber agar kamu memiliki jangkar internal yang kuat berdasarkan fakta.
 - **Tetapkan Angka Ideal dan Batas Berhenti:** Tentukan angka yang kamu inginkan *sebelum* mendengar penawaran dari pihak lain.
 - **Gunakan Strategi "Counter-Anchoring":** Jika pihak lawan memberikan angka yang ekstrem, jangan merespons dengan angka yang dekat dengan itu. Alihkan pembicaraan atau minta mereka menjustifikasi angka tersebut sebelum kamu memberikan tawaran balik yang didasarkan pada riset kamu.
-- **Berpikir dalam Rentang:** Alih-alih satu angka pasti, pikirkan dalam rentang nilai (misalnya: "Gaji untuk posisi ini biasanya antara \\(X\\) sampai \\(Y\\) ").
+- **Berpikir dalam Rentang:** Alih-alih satu angka pasti, pikirkan dalam rentang nilai (misalnya: "Gaji untuk posisi ini biasanya antara \(X\) sampai \(Y\) ").
 
 **Pesan Penting:** Kesadaran adalah langkah pertama. Saat kamu melihat sebuah angka di label harga atau dalam diskusi, tanyakan pada diri sendiri: *"Apakah saya menyukai angka ini karena memang bernilai demikian, atau hanya karena ini adalah angka pertama yang saya lihat?"*

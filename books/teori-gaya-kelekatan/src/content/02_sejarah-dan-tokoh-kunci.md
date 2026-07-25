@@ -98,7 +98,9 @@ Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosia
 
 Untuk mempermudah gambaran tentang bagaimana sebuah hubungan tumbuh, mari kita bayangkan sebuah persamaan sederhana berikut:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, akan semakin mendalam hubungan tersebut. Sebaliknya, jika ego terlalu mendominasi, kedekatan emosional itu perlahan akan memudar.
 

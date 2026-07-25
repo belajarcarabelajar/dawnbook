@@ -19,9 +19,9 @@ Kunci utama manajemen nyeri medis adalah konsistensi. Jangan menunggu nyeri menj
 Ini adalah garis pertahanan pertama yang paling umum digunakan:
 
 - **Parasetamol (Acetaminophen):** Bekerja pada sistem saraf pusat untuk menaikan ambang batas rasa sakit. Obat ini aman bagi sebagian besar orang dan sangat diandalkan untuk meredakan nyeri ringan hingga sedang.
-  - Rumus Kimia: \\( \text{C}_8\text{H}_9\text{NO}_2 \\)
+  - Rumus Kimia: \( \text{C}_8\text{H}_9\text{NO}_2 \)
 - **NSAID (seperti Ibuprofen atau Natrium Diklofenak):** Golongan obat ini membantu meredakan bengkak dan peradangan.
-  - Rumus Kimia Ibuprofen: \\( \text{C}_{13}\text{H}_{18}\text{O}_2 \\)
+  - Rumus Kimia Ibuprofen: \( \text{C}_{13}\text{H}_{18}\text{O}_2 \)
   - Meskipun efektif, sebagian dokter membatasi pemakaian NSAID tertentu di awal pemulihan karena risiko pendarahan, meski studi terbaru menunjukkan kombinasi yang tepat tetap aman dan ampuh.
 
 #### 2. Kortikosteroid
@@ -57,7 +57,7 @@ Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa,
 
 - Budi memasang alarm ponsel setiap 6 jam sekali untuk meminum parasetamol secara teratur, bahkan saat tengah malam. Dia tidak ingin melewatkan jadwal obat dan terbangun dalam kondisi kesakitan.
 - Dia memanfaatkan 'jendela kesempatan' dengan menunggu sekitar 30 menit setelah minum obat pereda nyeri sebelum mulai menyantap makanan lunak.
-- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian: \\( \text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam} \\).
+- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian: \( \text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam} \).
 
 ### Tips untuk Kenyamanan Maksimal
 

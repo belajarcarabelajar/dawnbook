@@ -24,13 +24,13 @@ Secara ekonomi klasik, manusia dianggap rasional. Jika ada denda, kita akan patu
 
 ### A. Present Bias (Bias Masa Kini)
 
-Manusia cenderung menilai imbalan atau hukuman yang terjadi **sekarang** jauh lebih tinggi daripada yang terjadi di **masa depan**. Matematika sederhana dari nilai utilitas \\( U \\) yang didiskon sering kali terlihat seperti ini:
+Manusia cenderung menilai imbalan atau hukuman yang terjadi **sekarang** jauh lebih tinggi daripada yang terjadi di **masa depan**. Matematika sederhana dari nilai utilitas \( U \) yang didiskon sering kali terlihat seperti ini:
 
-\[
+$$
 U_{\text{total}} = u_0 + \sum_{t=1}^{n} \beta \delta^t u_t
-\]
+$$
 
-Di mana \\( \beta \\) adalah faktor *present bias*. Jika \\( \beta \\) sangat kecil, maka manfaat di masa depan \\( u_t \\) hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
+Di mana \( \beta \) adalah faktor *present bias*. Jika \( \beta \) sangat kecil, maka manfaat di masa depan \( u_t \) hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
 
 ### B. Mental Accounting (Akuntansi Mental)
 

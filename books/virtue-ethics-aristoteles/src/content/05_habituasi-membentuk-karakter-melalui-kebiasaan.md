@@ -43,13 +43,13 @@ Etika pada pandangan ini adalah pengetahuan yang dipraktikkan langsung di lapang
 
 Karakter tidak terbentuk secara instan. Jika kita menggunakan notasi matematika sederhana, pembentukan karakter merupakan akumulasi tindakan jangka panjang:
 
-\\[
+$$
 \begin{aligned}
 \text{Karakter} = \sum_{i=1}^{n} \text{Tindakan}_i \times \text{Konsistensi}
 \end{aligned}
-\\]
+$$
 
-Di sini, \\( n \\) mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
+Di sini, \( n \) mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
 
 ## 5\. Aplikasi Dunia Nyata: Membangun Budaya Integritas
 

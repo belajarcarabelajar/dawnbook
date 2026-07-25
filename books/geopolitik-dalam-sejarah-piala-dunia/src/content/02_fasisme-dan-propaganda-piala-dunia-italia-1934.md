@@ -40,9 +40,9 @@ Sejarah mencatat banyak kecurigaan mengenai keberpihakan wasit terhadap Italia s
 
 Untuk memperkuat tim, Italia menggunakan kebijakan **Oriundi**, yaitu merekrut pemain-pemain kelahiran Amerika Selatan (terutama Argentina) yang memiliki darah Italia. Meskipun langkah ini tampak bertentangan dengan retorika nasionalisme murni, Mussolini menutup mata demi satu tujuan: **Kemenangan**.
 
-\\[
+$$
 \\text{Kemenangan} = \\text{Legitimasi Politik}
-\\]
+$$
 
 ## Real-world Application: Sportswashing di Era Modern
 
@@ -54,14 +54,14 @@ Piala Dunia 1934 menjadi cetak biru pertama bagi rezim-rezim otoriter dalam meng
 
 ## Ringkasan Teknis Pertandingan Final
 
-Italia akhirnya memenangkan Piala Dunia 1934 setelah mengalahkan Cekoslowakia di final dengan skor \\( 2 - 1 \\) melalui babak perpanjangan waktu.
+Italia akhirnya memenangkan Piala Dunia 1934 setelah mengalahkan Cekoslowakia di final dengan skor \( 2 - 1 \) melalui babak perpanjangan waktu.
 
 **Data Statistik Final 1934:**
 
 - **Tanggal:** 10 Juni 1934
 - **Lokasi:** Stadio Nazionale PNF, Roma
-- **Pencetak Gol Italia:** Raimundo Orsi (\\( 81^{'} \\)) dan Angelo Schiavio (\\( 95^{'} \\))
-- **Pencetak Gol Cekoslowakia:** Antonín Puč (\\( 71^{'} \\))
+- **Pencetak Gol Italia:** Raimundo Orsi (\( 81^{'} \)) dan Angelo Schiavio (\( 95^{'} \))
+- **Pencetak Gol Cekoslowakia:** Antonín Puč (\( 71^{'} \))
 
 **Penting:** Kemenangan ini digunakan Mussolini untuk memperkuat persatuan domestik. Rakyat Italia merasa bangga, dan bagi Mussolini, hal itu membuktikan bahwa di bawah kepemimpinannya, Italia telah kembali menjadi "Penguasa Dunia".
 

@@ -12,7 +12,7 @@ Pernyataan paling terkenal dalam sejarah feminisme eksistensialis ditulis oleh B
 
 Melalui argumen ini, Beauvoir menegaskan bahwa tidak ada "esensi feminin" yang melekat secara biologis maupun kodrati sejak lahir. Segala stereotip seperti kelembutan, kepatuhan, dan peran domestik yang melekat pada kata "perempuan" sebenarnya adalah hasil bentukan dan pembiasaan masyarakat.
 
-- **Seks (Biologis)** merujuk pada fakta anatomi tubuh, seperti kromosom \\( \text{XY} \\) atau \\( \text{XX} \\). Ini merupakan bagian dari faktisitas (*facticity*) diri kita (sesuatu yang sudah terberi sejak lahir dan tidak bisa kita ubah begitu saja).
+- **Seks (Biologis)** merujuk pada fakta anatomi tubuh, seperti kromosom \( \text{XY} \) atau \( \text{XX} \). Ini merupakan bagian dari faktisitas (*facticity*) diri kita (sesuatu yang sudah terberi sejak lahir dan tidak bisa kita ubah begitu saja).
 - **Gender (Sosial)** adalah kostum sosial yang dipasang masyarakat ke atas tubuh kita. Ini mencakup peran, ekspektasi perilaku, dan identitas yang dibebankan kepada seseorang berdasarkan jenis kelamin biologisnya.
 
 **Analogi Aktor dan Naskah:** Bayangkan kamu lahir di atas panggung teater yang megah. Begitu melangkah keluar, sutradara, yang mewakili masyarakat, langsung menyodorkan naskah dan kostum tertentu kepadamu karena penampilan fisikmu dianggap cocok untuk peran pendukung. Feminisme eksistensialis mengajakmu menyadari bahwa naskah tersebut bukanlah dirimu yang asli. Itu hanyalah peran buatan orang lain yang dipaksakan untuk kamu mainkan.

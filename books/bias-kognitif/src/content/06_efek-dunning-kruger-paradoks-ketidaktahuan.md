@@ -25,9 +25,9 @@ Orang yang tidak kompeten seringkali kekurangan dua hal sekaligus:
 
 Untuk memahami Dunning-Kruger Effect, bayangkan sebuah grafik dengan dua sumbu: **Kepercayaan Diri** (Confidence) di sumbu \( y \) dan **Kompetensi** (Knowledge/Experience) di sumbu \( x \).
 
-\[
+$$
 \text{Kepercayaan Diri} = f(\text{Kompetensi})
-\]
+$$
 
 Perjalanan ini biasanya mengikuti empat tahap utama:
 

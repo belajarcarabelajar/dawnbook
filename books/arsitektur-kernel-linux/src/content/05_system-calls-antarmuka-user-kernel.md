@@ -138,9 +138,9 @@ Setiap kali aplikasi melakukan system call, ada beban performa (overhead) yang h
 **Analogi:** Bayangkan kamu ingin mengambil segelas air (data). Dapur (kernel) berada di sebelahmu, tetapi kamu tidak boleh masuk sendiri. Kamu harus mengisi formulir pesanan (system call) dan menanti pelayan membawakannya. Proses ini tentu memakan waktu lebih lama dibandingkan jika kamu mengambilnya secara langsung.
 
 **Rumus Sederhana Efisiensi:**
-\\[
+$$
 T_{\text{total}} = T_{\text{user-logic}} + T_{\text{syscall-overhead}} + T_{\text{kernel-execution}}
-\\]
+$$
 
 Oleh karena itu, aplikasi yang sensitif terhadap performa biasanya meminimalkan frekuensi system call, salah satunya dengan teknik **buffering** (mengakumulasikan data di memori sebelum melakukan satu operasi `write` besar).
 

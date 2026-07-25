@@ -44,9 +44,9 @@ Bias kelompok adalah bahan bakar utama di balik **polarisasi**. Ketika kita hany
 
 Dalam matematika sosial, kekuatan bias ini bisa digambarkan secara konseptual (meskipun tidak kaku) sebagai fungsi dari identitas:
 
-\[
+$$
 \text{Loyalitas} = \frac{\text{Identitas Kelompok}}{\text{Interaksi Antar-Kelompok}}
-\]
+$$
 
 Semakin sedikit interaksi kita dengan "orang luar", semakin kuat bias kita terhadap mereka. Hal ini memicu:
 

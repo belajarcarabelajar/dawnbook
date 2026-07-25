@@ -10,8 +10,8 @@ Angela Duckworth, seorang psikolog yang mempopulerkan konsep ini, menemukan pola
 
 Mari kita lihat dalam bentuk rumus matematis:
 
-1. \\( \\text{Bakat} \\times \\text{Usaha} = \\text{Keterampilan} \\)
-2. \\( \\text{Keterampilan} \\times \\text{Usaha} = \\text{Pencapaian} \\)
+1. \( \\text{Bakat} \\times \\text{Usaha} = \\text{Keterampilan} \)
+2. \( \\text{Keterampilan} \\times \\text{Usaha} = \\text{Pencapaian} \)
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
@@ -43,7 +43,7 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
 
 1. **Minat (Interest):** Grit dimulai dengan menikmati apa yang kamu lakukan. Kamu tidak harus langsung menemukan panggilan hidupmu; mulailah dengan eksplorasi dan rasa ingin tahu yang mendalam terhadap suatu bidang.
 2. **Latihan (Practice):** Latihan yang dimaksud adalah *deliberate practice* (latihan sengaja) dan bukan latihan biasa. Ini adalah disiplin untuk fokus pada kelemahanmu dan mencoba memperbaikinya setiap hari.
-   - \\( \\text{Kualitas Latihan} > \\text{Kuantitas Jam} \\)
+   - \( \\text{Kualitas Latihan} > \\text{Kuantitas Jam} \)
 3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang tak tergoyahkan.
 4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu tidak hanya berharap keadaan membaik dengan sendirinya, tetapi memiliki keyakinan bahwa usahamu mampu mengubah masa depanmu. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
 

@@ -8,7 +8,7 @@ Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi fondasi penting
 
 Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya bertolak belakang:
 
-* **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel \\( A \\) meningkat, variabel \\( B \\) juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
+* **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel \( A \) meningkat, variabel \( B \) juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
 * **Kausalitas**, di sisi lain, menuntut adanya hubungan langsung: satu peristiwa (sebab) secara nyata memicu lahirnya peristiwa lain (akibat).
 
 > **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran melimpah selalu mencatat kerugian material akibat kebakaran yang sangat tinggi. Apakah itu berarti keberadaan petugas pemadam justru memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
@@ -19,15 +19,15 @@ Otak manusia berevolusi untuk membaca pola demi bertahan hidup. Di masa purba, m
 
 ## 2. Syarat Menentukan Hubungan Kausal
 
-Untuk menyimpulkan bahwa \\( A \\) menyebabkan \\( B \\), para pemikir kritis dan peneliti bersandar pada tiga syarat ilmiah:
+Untuk menyimpulkan bahwa \( A \) menyebabkan \( B \), para pemikir kritis dan peneliti bersandar pada tiga syarat ilmiah:
 
-1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika \\( B \\) sudah terjadi sebelum \\( A \\) muncul, maka \\( A \\) mustahil menjadi penyebab bagi \\( B \\).
-2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila \\( A \\) berubah, \\( B \\) juga harus menunjukkan perubahan yang terukur.
-3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor \\( C \\), yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan \\( A \\) dan \\( B \\) secara bersamaan.
+1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika \( B \) sudah terjadi sebelum \( A \) muncul, maka \( A \) mustahil menjadi penyebab bagi \( B \).
+2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila \( A \) berubah, \( B \) juga harus menunjukkan perubahan yang terukur.
+3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor \( C \), yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan \( A \) dan \( B \) secara bersamaan.
 
-\\[
+$$
 A \\rightarrow B \\text{ (Hanya jika faktor } C, D, \\text{ dan } E \\text{ sudah ditiadakan)}
-\\]
+$$
 
 ## 3. Kompleksitas Causal Chain (Rantai Kausalitas)
 
@@ -45,9 +45,9 @@ Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, m
 
 ### B. Feedback Loop (Lingkar Umpan Balik)
 
-Ada kalanya hubungan bersifat melingkar: \\( A \\) memicu \\( B \\), lalu \\( B \\) berbalik memperkuat \\( A \\). Contoh klasik dalam ekonomi makro: 
+Ada kalanya hubungan bersifat melingkar: \( A \) memicu \( B \), lalu \( B \) berbalik memperkuat \( A \). Contoh klasik dalam ekonomi makro: 
 
-\\( \\text{Kurangnya Investasi} \\rightarrow \\text{Kemiskinan} \\rightarrow \\text{Kurangnya Pendidikan} \\rightarrow \\text{Rendahnya Produktivitas} \\)
+\( \\text{Kurangnya Investasi} \\rightarrow \\text{Kemiskinan} \\rightarrow \\text{Kurangnya Pendidikan} \\rightarrow \\text{Rendahnya Produktivitas} \)
 
 Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berputar jika tidak ada intervensi luar.
 
@@ -55,11 +55,11 @@ Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berput
 
 Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) terkait sebab-akibat yang kerap mengaburkan analisis kita:
 
-* **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira \\( A \\rightarrow B \\), padahal arah aslinya adalah \\( B \\rightarrow A \\).
+* **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira \( A \\rightarrow B \), padahal arah aslinya adalah \( B \\rightarrow A \).
   Sebagai contoh, apakah seseorang menjadi optimis karena ia sukses, atau justru sikap optimis itulah yang membawanya menuju kesuksesan?
 * **The Third Variable Problem:** Kondisi di mana ada faktor ketiga (variabel tersembunyi) yang mengendalikan kedua variabel utama.
   Misalnya, statistik menunjukkan lonjakan penjualan es krim berjalan beriringan dengan naiknya frekuensi serangan hiu di pantai. Faktor sebenarnya bukanlah es krim yang mengundang hiu, melainkan musim panas: suhu yang terik mendorong orang membeli es krim sekaligus menarik minat mereka untuk berenang di laut.
-* **Post Hoc Ergo Propter Hoc:** Asumsi keliru bahwa karena peristiwa \\( X \\) terjadi setelah peristiwa \\( Y \\), maka \\( Y \\) pasti merupakan penyebab dari \\( X \\). Hubungan berurutan secara waktu tidak otomatis berarti hubungan sebab-akibat.
+* **Post Hoc Ergo Propter Hoc:** Asumsi keliru bahwa karena peristiwa \( X \) terjadi setelah peristiwa \( Y \), maka \( Y \) pasti merupakan penyebab dari \( X \). Hubungan berurutan secara waktu tidak otomatis berarti hubungan sebab-akibat.
 
 ## 5. Skenario Aplikasi Praktis
 
@@ -92,6 +92,6 @@ Saat kamu mengevaluasi suatu klaim atau peristiwa, gunakan panduan berikut untuk
 1. **Evaluasi kemungkinan kebetulan:** Periksa apakah hubungan tersebut didukung oleh data statistik yang memadai atau sekadar kejadian acak yang terjadi bersamaan.
 2. **Identifikasi variabel ketiga:** Selidiki apakah ada faktor eksternal tersembunyi yang menjadi pemicu sesungguhnya bagi kedua variabel.
 3. **Validasi urutan temporal:** Pastikan kembali variabel sebab terjadi mendahului akibat, bukan sebaliknya.
-4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika \\( A \\) tidak pernah terjadi, apakah \\( B \\) akan tetap muncul?" Apabila jawabannya ya, berarti \\( A \\) bukan penyebab utama dari \\( B \\).
+4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika \( A \) tidak pernah terjadi, apakah \( B \) akan tetap muncul?" Apabila jawabannya ya, berarti \( A \) bukan penyebab utama dari \( B \).
 
 Mengetahui *apa* yang terjadi membekali kita dengan informasi. Mengetahui *mengapa* hal itu terjadi memberi kita pengetahuan. Namun, kemampuan membedakan dengan jeli mana penyebab nyata dan mana korelasi semu adalah tanda kedewasaan dalam bernalar kritis.

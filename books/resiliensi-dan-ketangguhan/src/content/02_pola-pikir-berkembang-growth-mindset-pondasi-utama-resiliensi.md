@@ -29,8 +29,8 @@ Memahami perbedaan ini sangat penting agar kita bisa melakukan audit diri secara
 
 Salah satu teknik paling sederhana namun paling kuat untuk beralih ke pola pikir berkembang adalah dengan menambahkan satu kata kecil: **"Belum"**.
 
-- "Saya tidak bisa pemrograman Python." \\(\rightarrow\\) **Fixed**
-- "Saya **belum** bisa pemrograman Python." \\(\rightarrow\\) **Growth**
+- "Saya tidak bisa pemrograman Python." \(\rightarrow\) **Fixed**
+- "Saya **belum** bisa pemrograman Python." \(\rightarrow\) **Growth**
 
 Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah kondisi permanen menjadi sebuah proses yang sedang berjalan.
 
@@ -40,19 +40,19 @@ Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah ko
 
 Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia sangat adaptif. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antar neuron (sinapsis) di otak kita menjadi lebih kuat.
 
-Secara matematis, pertumbuhan kemampuan kita tidak berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika \\(\text{P}\\) adalah potensi dan \\(\text{t}\\) adalah waktu dengan usaha yang tepat, maka:
+Secara matematis, pertumbuhan kemampuan kita tidak berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika \(\text{P}\) adalah potensi dan \(\text{t}\) adalah waktu dengan usaha yang tepat, maka:
 
-\\[
+$$
 \text{P}(\text{t}) = \text{P}_0 \cdot e^{\text{k}\text{t}}
-\\]
+$$
 
 Di mana:
 
-- \\(\text{P}_0\\) adalah kemampuan awal.
-- \\(\text{k}\\) adalah konstanta tingkat pembelajaran (seberapa terbuka kita pada umpan balik).
-- \\(\text{t}\\) adalah durasi latihan.
+- \(\text{P}_0\) adalah kemampuan awal.
+- \(\text{k}\) adalah konstanta tingkat pembelajaran (seberapa terbuka kita pada umpan balik).
+- \(\text{t}\) adalah durasi latihan.
 
-Tanpa *Growth Mindset*, nilai \\(\text{k}\\) (laju pertumbuhan) akan mendekati nol atau bahkan negatif karena kita berhenti mencoba.
+Tanpa *Growth Mindset*, nilai \(\text{k}\) (laju pertumbuhan) akan mendekati nol atau bahkan negatif karena kita berhenti mencoba.
 
 ### 5. Teknik Beralih ke Pola Pikir Berkembang
 

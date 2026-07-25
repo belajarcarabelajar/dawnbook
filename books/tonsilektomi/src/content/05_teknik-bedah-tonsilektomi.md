@@ -29,17 +29,17 @@ Sebagai teknologi panas paling umum di ruang operasi, elektrokauter memanfaatkan
 * **Sistem Monopolar:** Arus dialirkan melewati tubuh pasien menuju *grounding pad* yang terpasang di bawah tubuh. Keunggulannya adalah kecepatan tinggi dalam mengontrol perdarahan aktif.
 * **Sistem Bipolar:** Arus listrik hanya mengalir di antara dua ujung pinset *forceps* yang menjepit jaringan secara spesifik. Sistem ini memberikan presisi lebih tinggi dan melokalisasi paparan panas.
 
-Suhu elektrokauter dapat berkisar antara \\( 400^{\circ}\text{C} \\) sampai \\( 600^{\circ}\text{C} \\). Suhu yang sangat tinggi ini mempermudah terjadinya cedera termal pada otot tenggorokan, sehingga pasien sering kali merasakan nyeri pemulihan yang lebih intens.
+Suhu elektrokauter dapat berkisar antara \( 400^{\circ}\text{C} \) sampai \( 600^{\circ}\text{C} \). Suhu yang sangat tinggi ini mempermudah terjadinya cedera termal pada otot tenggorokan, sehingga pasien sering kali merasakan nyeri pemulihan yang lebih intens.
 
 ## 4. Coblation (Controlled Ablation)
 
-*Coblation* (*Controlled Ablation*) kini semakin populer karena tidak menggunakan panas ekstrem untuk membakar jaringan. Teknik ini menyalurkan energi frekuensi radio melalui cairan saline untuk membentuk lapisan plasma dingin. Lapisan plasma inilah yang memutus ikatan molekul jaringan tonsil secara presisi pada suhu rendah, berkisar antara \\( 40^{\circ}\text{C} \\) sampai \\( 70^{\circ}\text{C} \\).
+*Coblation* (*Controlled Ablation*) kini semakin populer karena tidak menggunakan panas ekstrem untuk membakar jaringan. Teknik ini menyalurkan energi frekuensi radio melalui cairan saline untuk membentuk lapisan plasma dingin. Lapisan plasma inilah yang memutus ikatan molekul jaringan tonsil secara presisi pada suhu rendah, berkisar antara \( 40^{\circ}\text{C} \) sampai \( 70^{\circ}\text{C} \).
 
 Kelebihan utama *coblation* terletak pada minimnya kerusakan termal pada jaringan sehat di sekitarnya. Alhasil, pasien biasanya melaporkan tingkat nyeri pascaoperasi yang jauh lebih ringan dan dapat kembali beraktivitas normal dengan lebih cepat.
 
 ## 5. Harmonic Scalpel (Pisau Ultrasonik)
 
-*Harmonic scalpel* memotong jaringan tonsil dengan memanfaatkan getaran ultrasonik berkecepatan tinggi. Alat ini bekerja pada frekuensi \\( 55.500\text{ Hz} \\) untuk membelah jaringan secara mekanis sekaligus mengkoagulasi protein darah pada suhu berkisar \\( 50^{\circ}\text{C} \\) sampai \\( 100^{\circ}\text{C} \\).
+*Harmonic scalpel* memotong jaringan tonsil dengan memanfaatkan getaran ultrasonik berkecepatan tinggi. Alat ini bekerja pada frekuensi \( 55.500\text{ Hz} \) untuk membelah jaringan secara mekanis sekaligus mengkoagulasi protein darah pada suhu berkisar \( 50^{\circ}\text{C} \) sampai \( 100^{\circ}\text{C} \).
 
 Keunggulan dari pisau ultrasonik ini adalah tingkat presisi pemotongan yang tinggi tanpa perlu mengalirkan arus listrik ke tubuh pasien, sehingga meminimalkan risiko stimulasi saraf yang tidak disengaja.
 
@@ -51,7 +51,7 @@ Dokter bedah akan mencukur jaringan tonsil yang menyumbat jalan napas, tetapi se
 
 ## 7. Laser Tonsilektomi
 
-Tindakan laser tonsilektomi (menggunakan jenis laser seperti \\( \text{CO}_2 \\) atau KTP) memfokuskan berkas cahaya berenergi tinggi untuk melakukan vaporisasi jaringan tonsil. Kemampuan laser dalam menyegel pembuluh darah secara instan sangat efektif meminimalkan perdarahan intraoperatif.
+Tindakan laser tonsilektomi (menggunakan jenis laser seperti \( \text{CO}_2 \) atau KTP) memfokuskan berkas cahaya berenergi tinggi untuk melakukan vaporisasi jaringan tonsil. Kemampuan laser dalam menyegel pembuluh darah secara instan sangat efektif meminimalkan perdarahan intraoperatif.
 
 Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan protokol keselamatan khusus, seperti penggunaan kacamata pelindung bagi tim medis di ruang operasi. Risiko cedera termal juga cukup besar jika tindakan tidak dilakukan oleh operator berpengalaman luas.
 
@@ -60,9 +60,9 @@ Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan prot
 | Teknik | Sumber Energi | Suhu Operasi | Risiko Perdarahan Intraoperatif | Nyeri Pascaoperasi |
 | :--- | :--- | :--- | :--- | :--- |
 | **Cold Knife** | Mekanik (Pisau) | Suhu Ruang | Sedang | Rendah / Sedang |
-| **Elektrokauter** | Listrik | Tinggi (\\( > 400^{\circ}\text{C} \\)) | Sangat Rendah | Tinggi |
-| **Coblation** | Radiofrekuensi | Rendah (\\( 40^{\circ}\text{C} \\) sampai \\( 70^{\circ}\text{C} \\)) | Rendah | Rendah |
-| **Harmonic** | Ultrasonik | Sedang (\\( 50^{\circ}\text{C} \\) sampai \\( 100^{\circ}\text{C} \\)) | Rendah | Sedang |
+| **Elektrokauter** | Listrik | Tinggi (\( > 400^{\circ}\text{C} \)) | Sangat Rendah | Tinggi |
+| **Coblation** | Radiofrekuensi | Rendah (\( 40^{\circ}\text{C} \) sampai \( 70^{\circ}\text{C} \)) | Rendah | Rendah |
+| **Harmonic** | Ultrasonik | Sedang (\( 50^{\circ}\text{C} \) sampai \( 100^{\circ}\text{C} \)) | Rendah | Sedang |
 
 ## Aplikasi Dunia Nyata & Skenario
 

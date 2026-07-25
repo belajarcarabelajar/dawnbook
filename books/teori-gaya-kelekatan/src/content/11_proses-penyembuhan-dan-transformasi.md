@@ -33,7 +33,9 @@ Sebagai contoh, seseorang dengan gaya cemas kerap membatin: *"Jika aku tidak ter
 
 Gunakan pendekatan berbasis bukti untuk menantang pikiran-pikiran ini. Kamu bisa membayangkannya sebagai sebuah persamaan logika sederhana:
 
-\\[ \text{Pikiran Otomatis} + \text{Kesadaran Diri} = \text{Narasi Baru} \\]
+$$
+\text{Pikiran Otomatis} + \text{Kesadaran Diri} = \text{Narasi Baru}
+$$
 
 Contoh penerapannya dalam kehidupan sehari-hari:
 
@@ -117,7 +119,9 @@ Brené Brown menggambarkan hal ini dengan indah: "Koneksi adalah energi yang ter
 
 Untuk memberikan gambaran yang lebih jelas tentang bagaimana sebuah hubungan dapat bertumbuh, kita bisa melihat model sederhana berikut:
 
-\\[ \text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}} \\]
+$$
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
+$$
 
 Melalui perumpamaan ini, terlihat bahwa ketika keterbukaan dan waktu berkualitas meningkat, hubungan akan terjalin semakin erat. Sebaliknya, jika ego terlalu mendominasi, kedekatan emosional tersebut lambat laun akan meredup.
 

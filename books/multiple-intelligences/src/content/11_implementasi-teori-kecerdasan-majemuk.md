@@ -14,7 +14,7 @@ Pendidik dapat merancang kurikulum yang inklusif melalui lima titik masuk utama.
 
 ### A. Kecerdasan Linguistik & Logis-Matematis (Tradisional)
 
-Meskipun sekolah sering berfokus pada area ini, ada banyak cara untuk membuatnya lebih dinamis. Pada aspek linguistik, manfaatkan teknik *storytelling*, debat formal, atau pembuatan *podcast* kelas. Sementara itu, untuk siswa dengan kecerdasan logis-matematis, cobalah kegiatan klasifikasi, diagram Venn, atau pemberian kode (*coding*). Sebagai contoh pada pelajaran Matematika, saat mengajarkan konsep luas lingkaran \\( A = \pi r^2 \\), biarkan siswa menurunkan rumusnya sendiri melalui eksperimen memotong pizza kertas.
+Meskipun sekolah sering berfokus pada area ini, ada banyak cara untuk membuatnya lebih dinamis. Pada aspek linguistik, manfaatkan teknik *storytelling*, debat formal, atau pembuatan *podcast* kelas. Sementara itu, untuk siswa dengan kecerdasan logis-matematis, cobalah kegiatan klasifikasi, diagram Venn, atau pemberian kode (*coding*). Sebagai contoh pada pelajaran Matematika, saat mengajarkan konsep luas lingkaran \( A = \pi r^2 \), biarkan siswa menurunkan rumusnya sendiri melalui eksperimen memotong pizza kertas.
 
 ### B. Kecerdasan Visual-Spasial & Kinestetik
 
@@ -46,7 +46,7 @@ Rubrik penilaian yang terukur sangat diperlukan agar standar kompetensi tetap te
 Sebagai ilustrasi, Teori MI dapat diterapkan secara menyeluruh dalam satu unit pelajaran mengenai Siklus Air (*Water Cycle*). 
 
 - **Siswa Linguistik:** Menulis cerita pendek tentang perjalanan "Tetes Air" dari samudra ke awan.
-- **Siswa Logis:** Membuat grafik suhu yang diperlukan untuk penguapan dan menghitung volume presipitasi. Rumus sederhana pemanasan yang dapat dieksplorasi adalah \\( Q = m \cdot c \cdot \Delta T \\).
+- **Siswa Logis:** Membuat grafik suhu yang diperlukan untuk penguapan dan menghitung volume presipitasi. Rumus sederhana pemanasan yang dapat dieksplorasi adalah \( Q = m \cdot c \cdot \Delta T \).
 - **Siswa Spasial:** Menggambar diagram siklus air dengan kode warna khusus sebagai representasi perpindahan energi.
 - **Siswa Kinestetik:** Mempraktikkan gerakan tubuh untuk mensimulasikan proses kondensasi (berkumpul rapat) dan evaporasi (bergerak cepat menjauh).
 - **Siswa Musikal:** Menciptakan ketukan perkusi menggunakan benda-benda di sekitar kelas untuk meniru ritme suara gerimis hingga badai.

@@ -94,13 +94,13 @@ Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainy
 
 ## 6\. Matematika di Balik Feedback: Akurasi dan Koreksi
 
-Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error (\\( E \\)) antara Target (\\( T \\)) dan Kondisi Saat Ini (\\( C \\)).
+Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error (\( E \)) antara Target (\( T \)) dan Kondisi Saat Ini (\( C \)).
 
-\[
+$$
 E = T - C
-\]
+$$
 
-Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai \\( E \\) mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang dalam psikologi sering disebut sebagai reaksi yang tidak stabil.
+Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai \( E \) mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang dalam psikologi sering disebut sebagai reaksi yang tidak stabil.
 
 Sebagai contoh, jika air pancuran (*shower*) membutuhkan waktu 30 detik untuk menyesuaikan suhu, kamu cenderung terus memutar keran ke arah panas karena tidak merasakan perubahan suhu secara instan. Begitu air tiba-tiba menjadi sangat panas, kamu akan terkejut dan memutarnya terlalu jauh ke arah dingin. Kamu pun terjebak dalam siklus koreksi yang berlebihan akibat umpan balik yang terlambat.
 

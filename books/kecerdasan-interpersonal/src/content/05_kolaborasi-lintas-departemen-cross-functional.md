@@ -55,16 +55,16 @@ Sebagai developer, meluangkan waktu untuk berdiskusi dengan tim sales mengenai k
 
 Keberhasilan kolaborasi dapat digambarkan melalui model formula sederhana berikut:
 
-\\[
+$$
 K = \\frac{V \\times A}{S}
-\\]
+$$
 
 Keterangan variabel:
 
-- `\\( K \\)` = Kesuksesan Kolaborasi
-- `\\( V \\)` = *Shared Vision* (Kesamaan visi)
-- `\\( A \\)` = *Alignment* (Keselarasan langkah)
-- `\\( S \\)` = *Silo* / Ego (Hambatan ego sektoral)
+- `\( K \)` = Kesuksesan Kolaborasi
+- `\( V \)` = *Shared Vision* (Kesamaan visi)
+- `\( A \)` = *Alignment* (Keselarasan langkah)
+- `\( S \)` = *Silo* / Ego (Hambatan ego sektoral)
 
 Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancang dengan baik, keberadaan ego sektoral atau silo yang tinggi akan secara drastis menurunkan peluang keberhasilan kolaborasi tersebut.
 

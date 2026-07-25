@@ -41,9 +41,9 @@ Trauma itu sendiri tidak otomatis membuat seseorang tumbuh. Pertumbuhan terjadi 
 
 Secara matematis, pertumbuhan psikologis dapat digambarkan secara sederhana sebagai interaksi antara tantangan dan refleksi:
 
-\\[
+$$
 \\text{PTG} = \\text{Tantangan Berat} \\times \\text{Pemrosesan Kognitif Deliberat}
-\\]
+$$
 
 Penjelasannya:
 - **Tantangan Berat** mewakili peristiwa luar biasa yang merubuhkan asumsi dasar kita tentang dunia.

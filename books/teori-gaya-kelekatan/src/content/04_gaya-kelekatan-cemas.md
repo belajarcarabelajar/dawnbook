@@ -72,7 +72,7 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 * **Pola utama:** Takut ditinggalkan dan selalu butuh kedekatan fisik maupun emosional.
 * **Pemicu:** Komunikasi yang mendadak berubah atau adanya jarak emosional.
 * **Tujuan:** Menghilangkan cemas dengan mencari kepastian dari pasangan.
-* **Rumus Emosional:** \\( \\text{Kecemasan} = \\frac{\\text{Persepsi Ancaman}}{\\text{Keyakinan akan Harga Diri}} \\)
+* **Rumus Emosional:** \( \\text{Kecemasan} = \\frac{\\text{Persepsi Ancaman}}{\\text{Keyakinan akan Harga Diri}} \)
   Saat keyakinan diri rendah, gangguan kecil saja dalam hubungan sudah bisa memicu kepanikan besar.
 
 **Catatan Penting:** Gaya kelekatan cemas bukanlah penyakit mental atau cacat karakter. Ini adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
@@ -96,7 +96,9 @@ Berikut adalah pilar utama dalam membangun koneksi yang kuat:
 
 Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, mari kita lihat rumus sederhana ini:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Rumus ini menunjukkan bahwa jika keterbukaan dan waktu berkualitas meningkat, hubungan akan terjalin lebih dalam. Sebaliknya, ketika ego terlalu mendominasi, kedekatan itu perlahan-lahan akan luntur.
 

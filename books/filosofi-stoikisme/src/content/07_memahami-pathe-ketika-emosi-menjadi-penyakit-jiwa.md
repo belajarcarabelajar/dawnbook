@@ -10,9 +10,9 @@ Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yan
 
 Kaum Stoik memiliki model psikologi yang sangat canggih untuk menjelaskan bagaimana sebuah stimulus berubah menjadi emosi yang meledak. Proses ini dapat digambarkan melalui rumus sederhana berikut:
 
-\[ 
+$$
 \text{Kesan (Impression)} + \text{Persetujuan (Assent)} = \text{Emosi}
- \]
+$$
 
 Mari kita bedah komponennya:
 

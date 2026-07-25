@@ -14,13 +14,13 @@ Alasan paling umum untuk tindakan tonsilektomi adalah infeksi yang terjadi terus
 
 Dunia medis menggunakan standar bernama **Kriteria Paradise** untuk menentukan kelayakan operasi berdasarkan frekuensi infeksi. Pembedahan biasanya dipertimbangkan jika pasien mengalami kondisi berikut:
 
-- Terjadi minimal \\(\ge 7\\) episode infeksi dalam kurun waktu satu tahun terakhir.
-- Setidaknya \\(\ge 5\\) episode per tahun selama dua tahun berturut-turut.
-- Minimal \\(\ge 3\\) episode per tahun selama tiga tahun berturut-turut.
+- Terjadi minimal \(\ge 7\) episode infeksi dalam kurun waktu satu tahun terakhir.
+- Setidaknya \(\ge 5\) episode per tahun selama dua tahun berturut-turut.
+- Minimal \(\ge 3\) episode per tahun selama tiga tahun berturut-turut.
 
 **Catatan Klinis:** Setiap episode infeksi di atas harus disertai dengan minimal salah satu gejala klinis berikut:
 
-1. Demam dengan suhu tubuh terukur melebihi \\(38,3^\circ\text{C}\\).
+1. Demam dengan suhu tubuh terukur melebihi \(38,3^\circ\text{C}\).
 2. Terjadi pembengkakan kelenjar getah bening di area leher.
 3. Muncul bercak putih atau eksudat pada permukaan amandel.
 4. Hasil tes usap (swab) tenggorokan positif menunjukkan infeksi bakteri *Group A Beta-Hemolytic Streptococcus* (GABHS).
@@ -31,13 +31,13 @@ Sebagai pertimbangan praktis, jika anak terpaksa absen sekolah hingga 20 hari da
 
 **Hipertrofi** merupakan istilah medis yang merujuk pada pembesaran suatu organ. Pada kasus amandel, pembengkakan yang berlebihan dapat menyumbat jalan napas atau mengganggu jalur makanan.
 
-Dokter biasanya menilai ukuran pembesaran ini menggunakan standar **Skala Brodsky** mulai dari \\(0\\) hingga \\(+4\\):
+Dokter biasanya menilai ukuran pembesaran ini menggunakan standar **Skala Brodsky** mulai dari \(0\) hingga \(+4\):
 
 - **Grade 0:** Posisi amandel sepenuhnya tersembunyi di dalam kantung atau fossa tonsil.
-- **Grade +1:** Pembesaran amandel yang mengisi kurang dari \\(<25\%\\) ruang tenggorokan.
-- **Grade +2:** Amandel membengkak dan menempati sekitar \\(25\%\\) hingga \\(50\%\\) rongga tenggorokan.
-- **Grade +3:** Ukuran amandel menutupi sebagian besar jalan napas, berkisar antara \\(50\%\\) sampai \\(75\%\\).
-- **Grade +4:** Penyumbatan parah dengan amandel mengisi lebih dari \\(>75\%\\) ruang tenggorokan. Kondisi ini sering dijuluki *"Kissing Tonsils"* karena amandel kiri dan kanan saling menempel.
+- **Grade +1:** Pembesaran amandel yang mengisi kurang dari \(<25\%\) ruang tenggorokan.
+- **Grade +2:** Amandel membengkak dan menempati sekitar \(25\%\) hingga \(50\%\) rongga tenggorokan.
+- **Grade +3:** Ukuran amandel menutupi sebagian besar jalan napas, berkisar antara \(50\%\) sampai \(75\%\).
+- **Grade +4:** Penyumbatan parah dengan amandel mengisi lebih dari \(>75\%\) ruang tenggorokan. Kondisi ini sering dijuluki *"Kissing Tonsils"* karena amandel kiri dan kanan saling menempel.
 
 ### Dampak Hipertrofi
 

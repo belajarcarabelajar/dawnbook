@@ -52,7 +52,9 @@ Terapis bertindak sebagai pangkalan aman (*secure base*) sementara. Melalui ruan
 
 Kabar baiknya secara ilmiah adalah otak manusia bersifat plastis. Melalui proses mencapai *Earned Security*, kita secara aktif membangun jalur saraf baru di dalam otak.
 
-\\[ \\text{Kesadaran} + \\text{Pengalaman Baru yang Konsisten} = \\text{Perubahan Jalur Saraf} \\]
+$$
+\\text{Kesadaran} + \\text{Pengalaman Baru yang Konsisten} = \\text{Perubahan Jalur Saraf}
+$$
 
 Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti jalan tol yang lebar, latihan konsisten dan hubungan yang sehat akan membantu kita merintis jalan setapak baru menuju rasa aman. Semakin sering dilewati, jalan setapak ini lama-kelamaan akan menjadi jalan utama yang baru.
 
@@ -101,7 +103,9 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa menggunakan analogi persamaan sederhana berikut:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang dicurahkan, semakin dalam pula relasi yang terbentuk. Sebaliknya, jika ego terlalu mendominasi, kedalaman tersebut akan menyusut.
 

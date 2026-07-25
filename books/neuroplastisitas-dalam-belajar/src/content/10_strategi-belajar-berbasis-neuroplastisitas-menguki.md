@@ -26,10 +26,10 @@ Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguat
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
 - **Mekanisme Neuroplastisitas:** Otak kita secara biologis dirancang untuk melupakan informasi yang tidak dianggap vital. Dengan meninjau kembali materi tepat sebelum kamu hampir melupakannya, kamu memaksa otak untuk melakukan konsolidasi ulang memori secara lebih mendalam melalui proses yang disebut **Long-Term Potentiation (LTP)**.
-- **Rumus Matematika Kurva Melupakan (Hermann Ebbinghaus):** \\( R = e^{-\frac{t}{S}} \\) Di mana:
-	- \\( R \\) adalah retensi (seberapa banyak kita ingat).
-		- \\( S \\) adalah kekuatan memori (stabilitas).
-		- \\( t \\) adalah waktu yang telah berlalu.
+- **Rumus Matematika Kurva Melupakan (Hermann Ebbinghaus):** \( R = e^{-\frac{t}{S}} \) Di mana:
+	- \( R \) adalah retensi (seberapa banyak kita ingat).
+		- \( S \) adalah kekuatan memori (stabilitas).
+		- \( t \) adalah waktu yang telah berlalu.
 
 **Jadwal Ideal untuk Pengulangan:**
 

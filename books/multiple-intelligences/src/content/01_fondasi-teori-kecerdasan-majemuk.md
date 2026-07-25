@@ -16,11 +16,11 @@ Setelah mengamati banyak individu, mulai dari anak-anak berbakat (*prodigies*), 
 
 Dalam waktu yang sangat lama, standar ukuran kecerdasan manusia dikendalikan oleh tes IQ (*Intelligence Quotient*). Rumus dasar yang sering dipakai adalah:
 
-\\[ 
-IQ = \\frac{MA}{CA} \\times 100 
-\\]
+$$
+IQ = \\frac{MA}{CA} \\times 100
+$$
 
-*Di mana \\(MA\\) mewakili Usia Mental (Mental Age) dan \\(CA\\) mewakili Usia Kronologis (Chronological Age).*
+*Di mana \(MA\) mewakili Usia Mental (Mental Age) dan \(CA\) mewakili Usia Kronologis (Chronological Age).*
 
 Tes ini memang terbukti bisa memprediksi prestasi seseorang di sekolah formal. Meski begitu, Gardner menyadari ada banyak celah kosong yang tidak terukur.
 

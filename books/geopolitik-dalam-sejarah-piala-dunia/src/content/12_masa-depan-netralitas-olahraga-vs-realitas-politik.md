@@ -6,9 +6,9 @@ Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau berubah m
 
 Sejarah menunjukkan bahwa hubungan politik dan Piala Dunia bersifat dinamis serta terus berevolusi mengikuti perkembangan zaman. Mari kita lihat transformasinya dalam sebuah formula sederhana:
 
-\\[
+$$
 \\text{Pengaruh Geopolitik} = \\frac{\\text{Prestasi Olahraga} \\times \\text{Eksposur Media}}{\\text{Stabilitas Regional}}
-\\]
+$$
 
 Pada **Era Legitimasi Ideologi (1930 - 1970-an)**, negara-negara memanfaatkan Piala Dunia untuk memamerkan keunggulan sistem politik mereka, baik itu fasisme, komunisme, maupun kediktatoran militer. Kemenangan di lapangan hijau dianggap sebagai legitimasi mutlak.
 
@@ -68,6 +68,6 @@ Sepak bola akan tetap menjadi:
 
 Pada akhirnya, kita dihadapkan pada pilihan mendasar: apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai cermin jujur dari kemanusiaan yang penuh dinamika dan kerumitan?
 
-\\[
+$$
 \\sum (\\text{Politik} + \\text{Sepakbola}) = \\text{Budaya Global}
-\\]
+$$

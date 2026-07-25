@@ -36,7 +36,7 @@ Kamu bisa melatih otot bahasa dengan rutinitas sederhana seperti menulis jurnal 
 
 - Mulailah bermain permainan yang menuntut strategi seperti catur atau menyelesaikan teka-teki Sudoku di waktu luang.
 - Biasakan melakukan perhitungan manual, misalnya menghitung perkiraan total belanjaan di kepala sebelum sampai di depan kasir.
-- Pahami matematika pertumbuhannya: Jika \\(I\\) adalah Intensitas latihan dan \\(K\\) adalah Konsistensi, maka Kemajuan (\\(P\\)) dapat dirumuskan sebagai: \\(P = I \times K^2\\). Konsistensi jauh lebih berdampak ketimbang latihan ekstrem yang jarang dilakukan.
+- Pahami matematika pertumbuhannya: Jika \(I\) adalah Intensitas latihan dan \(K\) adalah Konsistensi, maka Kemajuan (\(P\)) dapat dirumuskan sebagai: \(P = I \times K^2\). Konsistensi jauh lebih berdampak ketimbang latihan ekstrem yang jarang dilakukan.
 
 ### 3\. Kecerdasan Spasial-Visual (Gambar/Ruang)
 

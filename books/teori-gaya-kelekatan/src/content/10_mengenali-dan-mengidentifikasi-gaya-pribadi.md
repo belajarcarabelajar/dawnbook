@@ -50,7 +50,9 @@ Respons otomatis yang paling sering kamu rasakan menunjukkan cara sistem sarafmu
 
 Teori kelekatan mengenal konsep **Model Kerja Internal** (Internal Working Model). Secara sederhana, konsep ini bisa digambarkan sebagai hubungan antara dua variabel utama: **Citra Diri** dan **Citra Orang Lain**.
 
-\\[ \\text{Gaya Kelekatan} = f(\\text{Citra Diri}, \\text{Citra Orang Lain}) \\]
+$$
+\\text{Gaya Kelekatan} = f(\\text{Citra Diri}, \\text{Citra Orang Lain})
+$$
 
 * **Citra Diri Positif + Citra Orang Lain Positif** = **Aman (Secure)**
   * *Keyakinan dasar:* "Aku berharga dan layak dicintai, dan orang lain juga dapat diandalkan."
@@ -103,7 +105,9 @@ Meningkatkan kedalaman hubungan emosional merupakan sebuah seni sekaligus ketera
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman hubungan:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Persamaan ini menggambarkan bahwa semakin besar keterbukaan dan waktu berkualitas yang kamu berikan, semakin kuat pula hubungan yang terjalin. Sebaliknya, dominasi ego hanya akan menjauhkan kamu dari satu sama lain.
 

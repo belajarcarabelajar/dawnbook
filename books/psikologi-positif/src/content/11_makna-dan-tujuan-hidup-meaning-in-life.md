@@ -36,7 +36,9 @@ Para psikolog umumnya membagi makna hidup ke dalam tiga komponen utama yang dapa
 
 Secara konseptual, kita bisa merumuskannya dalam bentuk persamaan berikut:
 
-\\[ \text{Meaning} = (\text{Coherence} \times \text{Purpose}) + \text{Significance} \\]
+$$
+\text{Meaning} = (\text{Coherence} \times \text{Purpose}) + \text{Significance}
+$$
 
 ### 3. Menemukan Tujuan yang Lebih Besar dari Diri Sendiri (Self-Transcendence)
 

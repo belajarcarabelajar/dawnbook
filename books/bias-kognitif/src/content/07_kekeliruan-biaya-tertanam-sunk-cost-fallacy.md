@@ -20,7 +20,7 @@ Ada beberapa mekanisme psikologis yang membuat kita sulit melepaskan "biaya tert
 
 Manusia secara alami lebih takut kehilangan sesuatu daripada keinginan untuk mendapatkan sesuatu dengan nilai yang sama. Berhenti dari proyek yang gagal terasa seperti "mengakui kekalahan" atau "membuang uang", sementara terus melanjutkannya memberikan harapan palsu bahwa kita bisa "impas".
 
-Secara matematis, dalam teori prospek, utilitas kerugian (\\( U \\)) dirasakan lebih dalam daripada keuntungan: \\( |U(-x)| > U(x) \\) Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
+Secara matematis, dalam teori prospek, utilitas kerugian (\( U \)) dirasakan lebih dalam daripada keuntungan: \( |U(-x)| > U(x) \) Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
 
 ### B. Menghindari Penyesalan
 
@@ -50,8 +50,8 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 **Logika Rasional:** Mari kita bandingkan dua opsi menggunakan perhitungan sederhana:
 
-1. **Lanjut Framework A:** \\( \\text{Biaya\\_Masa\\_Depan} = \\text{Rp } 500.000.000 \\)
-2. **Pindah ke Framework Baru:** \\( \\text{Biaya\\_Adaptasi} + \\text{Biaya\\_Baru} = \\text{Rp } 300.000.000 \\)
+1. **Lanjut Framework A:** \( \\text{Biaya\\_Masa\\_Depan} = \\text{Rp } 500.000.000 \)
+2. **Pindah ke Framework Baru:** \( \\text{Biaya\\_Adaptasi} + \\text{Biaya\\_Baru} = \\text{Rp } 300.000.000 \)
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 

@@ -63,14 +63,14 @@ Lalu, apa dampak dari munculnya teori-teori baru ini bagi para pendidik?
 
 Kita sudah tahu bahwa perkembangan kognitif anak tidak selalu sejajar di semua mata pelajaran. Maka, metode mengajar yang dipukul rata jelas sudah kedaluwarsa.
 
-- **Skenario:** Di satu kelas, ada murid yang butuh alat peraga fisik untuk paham perkalian (Operasional Konkret). Di bangku sebelahnya, teman sekelasnya santai saja membayangkan persamaan variabel \\(x\\) dan \\(y\\) di kepala (Operasional Formal).
+- **Skenario:** Di satu kelas, ada murid yang butuh alat peraga fisik untuk paham perkalian (Operasional Konkret). Di bangku sebelahnya, teman sekelasnya santai saja membayangkan persamaan variabel \(x\) dan \(y\) di kepala (Operasional Formal).
 
 ### 2\. Mengontrol Beban Kognitif
 
 Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan informasi baru secara bertubi-tubi.
 
 - **Aplikasi:** Kalau kapasitas memori kerja anak mentok di 3-4 informasi saja, guru harus memecah instruksi besar.
-- **Contoh:** \\(\text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}\\). Biarkan anak mencernanya satu per satu.
+- **Contoh:** \(\text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}\). Biarkan anak mencernanya satu per satu.
 
 ### 3\. Latihan agar Otomatis
 

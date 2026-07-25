@@ -34,7 +34,7 @@ Rutinitas modern sering kali terasa absurd, misalnya bekerja keras di bidang yan
 
 ### C. Menemukan Makna di Tengah Burnout (Frankl)
 
-Viktor Frankl mengajarkan bahwa kita sanggup melewati masa-masa sulit jika memiliki alasan kuat untuk bertahan (\\( \text{Why} \rightarrow \text{How} \\)). Ketika didera kejenuhan kerja, cobalah bertanya kepada diri sendiri: "Siapa yang terbantu oleh pekerjaanku hari ini?" atau "Makna kecil apa yang bisa kuciptakan hari ini?" Makna hidup tidak harus megah; tindakan sederhana seperti menjadi pendengar yang baik bagi rekan kerja sudah merupakan kontribusi yang nyata.
+Viktor Frankl mengajarkan bahwa kita sanggup melewati masa-masa sulit jika memiliki alasan kuat untuk bertahan (\( \text{Why} \rightarrow \text{How} \)). Ketika didera kejenuhan kerja, cobalah bertanya kepada diri sendiri: "Siapa yang terbantu oleh pekerjaanku hari ini?" atau "Makna kecil apa yang bisa kuciptakan hari ini?" Makna hidup tidak harus megah; tindakan sederhana seperti menjadi pendengar yang baik bagi rekan kerja sudah merupakan kontribusi yang nyata.
 
 ## 3. Panduan Navigasi Autentisitas di Era Digital
 
@@ -62,11 +62,11 @@ Menjadi autentik berarti menghargai orang lain sebagai subjek yang merdeka, buka
 
 Pencarian makna hidup di era modern dapat digambarkan dalam hubungan sederhana berikut:
 
-\\[
+$$
 M = A \times (T - D)
-\\]
+$$
 
-Di mana \\( M \\) melambangkan Makna (*Meaning*), \\( A \\) mewakili Autentisitas (hidup yang selaras dengan nilai personal), \\( T \\) adalah Tindakan konkret (bukan cuma niat kosong), dan \\( D \\) menggambarkan Distraksi serta tekanan ekspektasi dari luar.
+Di mana \( M \) melambangkan Makna (*Meaning*), \( A \) mewakili Autentisitas (hidup yang selaras dengan nilai personal), \( T \) adalah Tindakan konkret (bukan cuma niat kosong), dan \( D \) menggambarkan Distraksi serta tekanan ekspektasi dari luar.
 
 > **Pesan Penutup:** Eksistensialisme bukanlah filsafat keputusasaan. Sebaliknya, ini adalah panggilan untuk mandiri dan berdaya secara luar biasa. Dunia mungkin tidak menyediakan makna bawaan, dan itu sebenarnya kabar baik. Artinya, kamulah sutradara, penulis skenario, sekaligus aktor utama dalam hidupmu sendiri. Jangan biarkan orang lain, apalagi algoritma, mendikte jalan ceritanya.
 

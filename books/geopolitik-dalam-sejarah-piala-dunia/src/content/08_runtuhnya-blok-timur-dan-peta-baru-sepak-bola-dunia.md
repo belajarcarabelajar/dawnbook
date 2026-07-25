@@ -26,13 +26,13 @@ Pecahnya Uni Soviet menciptakan tantangan logistik bagi FIFA dalam menentukan pe
 
 Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari seluruh catatan statistik Uni Soviet. Namun secara kekuatan tim, Rusia kehilangan banyak pilar penting. Secara historis, kekuatan utama Uni Soviet bertumpu pada talenta-talenta Ukraina (terutama binaan Dynamo Kyiv), Georgia, dan Armenia. Setelah perpecahan, Rusia tidak lagi memiliki akses otomatis ke wilayah-wilayah penghasil pemain berbakat ini.
 
-**Matematika Fragmentasi:** Jika \\( S \\) adalah kekuatan total Uni Soviet, maka setelah 1991:
-\\[
+**Matematika Fragmentasi:** Jika \( S \) adalah kekuatan total Uni Soviet, maka setelah 1991:
+$$
 \begin{aligned}
 S_{\text{USSR}} &\neq S_{\text{Russia}} \\
 S_{\text{USSR}} &\approx S_{\text{Russia}} + S_{\text{Ukraine}} + S_{\text{Georgia}} + \dots + S_{\text{12 negara lainnya}}
 \end{aligned}
-\\]
+$$
 
 Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 

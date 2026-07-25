@@ -46,7 +46,7 @@ Eksperimen lintas genre ini menuntut lompatan besar dalam teknologi produksi. Pe
 
 Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kreator pun dapat tumpah ruah sepenuhnya. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau *Hellbound*.
 
-**Formula Kesuksesan Eksperimen Genre:** \\(\\text{Popularitas} = (\\text{Kearifan Lokal} \\times \\text{Tema Universal}) + \\text{Kualitas Produksi OTT}\\)
+**Formula Kesuksesan Eksperimen Genre:** \(\\text{Popularitas} = (\\text{Kearifan Lokal} \\times \\text{Tema Universal}) + \\text{Kualitas Produksi OTT}\)
 
 ### 4. Real-World Application: Strategi Industri
 

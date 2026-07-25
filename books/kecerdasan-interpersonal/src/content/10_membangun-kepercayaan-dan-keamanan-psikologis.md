@@ -15,17 +15,17 @@ Sering kali kita mencampuradukkan kedua istilah ini. Meskipun saling mendukung, 
 
 Untuk membedah komponen *trust* secara objektif, kita dapat menggunakan model *The Trust Equation* yang dikembangkan oleh Charles H. Green:
 
-\\[
+$$
 T = \frac{C + R + I}{S}
-\\]
+$$
 
 Di mana:
-*   **\\( C \\) (Credibility)**: Kredibilitas profesional (apa yang kamu katakan).
-*   **\\( R \\) (Reliability)**: Keandalan tindakan (apa yang kamu lakukan).
-*   **\\( I \\) (Intimacy)**: Tingkat kedekatan emosional dan rasa aman ketika berbagi informasi dengan kamu.
-*   **\\( S \\) (Self-orientation)**: Orientasi pada diri sendiri (seberapa besar kamu mengutamakan kepentingan pribadi dibanding tim).
+*   **\( C \) (Credibility)**: Kredibilitas profesional (apa yang kamu katakan).
+*   **\( R \) (Reliability)**: Keandalan tindakan (apa yang kamu lakukan).
+*   **\( I \) (Intimacy)**: Tingkat kedekatan emosional dan rasa aman ketika berbagi informasi dengan kamu.
+*   **\( S \) (Self-orientation)**: Orientasi pada diri sendiri (seberapa besar kamu mengutamakan kepentingan pribadi dibanding tim).
 
-Jika orientasi diri (\\( S \\)) kamu terlalu dominan, tingkat kepercayaan (\\( T \\)) secara otomatis akan merosot tajam, bahkan jika kamu memiliki kompetensi dan keandalan kerja yang luar biasa.
+Jika orientasi diri (\( S \)) kamu terlalu dominan, tingkat kepercayaan (\( T \)) secara otomatis akan merosot tajam, bahkan jika kamu memiliki kompetensi dan keandalan kerja yang luar biasa.
 
 ## 2. Empat Tahapan Psychological Safety
 

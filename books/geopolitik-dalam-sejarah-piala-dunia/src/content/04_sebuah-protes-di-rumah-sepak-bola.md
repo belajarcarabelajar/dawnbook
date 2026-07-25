@@ -19,9 +19,9 @@ Dari total 16 slot yang tersedia di putaran final, pembagiannya adalah sebagai b
 
 Mari kita lihat ketidakadilan ini melalui ekspresi matematis sederhana mengenai peluang kelolosan:
 
-Jika \\( S \\) adalah jumlah slot dan \\( C \\) adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah: \\( \\text{Jatah per Benua} = \\frac{1 \\text{ Slot}}{3 \\text{ Benua}} \\approx 0,33 \\text{ Slot/Benua} \\)
+Jika \( S \) adalah jumlah slot dan \( C \) adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah: \( \\text{Jatah per Benua} = \\frac{1 \\text{ Slot}}{3 \\text{ Benua}} \\approx 0,33 \\text{ Slot/Benua} \)
 
-Bandingkan dengan Eropa: \\( \\text{Jatah per Benua} = \\frac{10 \\text{ Slot}}{1 \\text{ Benua}} = 10 \\text{ Slot/Benua} \\)
+Bandingkan dengan Eropa: \( \\text{Jatah per Benua} = \\frac{10 \\text{ Slot}}{1 \\text{ Benua}} = 10 \\text{ Slot/Benua} \)
 
 Secara praktis, sebuah tim terbaik dari Afrika harus mengalahkan tim-tim terbaik dari Asia dan Oseania, hanya untuk mendapatkan **satu-satunya** tiket tersebut. Ini dianggap sebagai penghinaan terhadap kualitas dan kedaulatan negara-negara Afrika yang baru merdeka.
 

@@ -14,7 +14,9 @@ Istilah ini pertama kali dicetuskan oleh Joseph Nye. Jika kekuatan keras (**hard
 
 Dalam konteks Piala Dunia, formulasinya dapat dirumuskan secara sederhana:
 
-\\[ \\text{Daya Tarik Budaya} + \\text{Keberhasilan Penyelenggaraan} = \\text{Legitimasi Internasional} \\]
+$$
+\\text{Daya Tarik Budaya} + \\text{Keberhasilan Penyelenggaraan} = \\text{Legitimasi Internasional}
+$$
 
 ### Apa Itu Sportswashing?
 

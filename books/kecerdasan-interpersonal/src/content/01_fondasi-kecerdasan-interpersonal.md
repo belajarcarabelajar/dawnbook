@@ -45,11 +45,11 @@ Kecerdasan interpersonal adalah pilar utama yang membentuk garis horizontal ters
 
 Tanpa garis horizontal yang kokoh, seorang spesialis akan terisolasi dalam *silo*. Hubungan ini dapat digambarkan dalam rumus sederhana berikut:
 
-\\[
+$$
 \begin{aligned}
 \text{Nilai Profesional} = \text{Keahlian Teknis} \times \text{Kecerdasan Interpersonal}
 \end{aligned}
-\\]
+$$
 
 Jika kecerdasan interpersonal mendekati nol, nilai profesional yang dihasilkan juga akan sangat kecil, tidak peduli seberapa hebat keahlian teknis yang dimiliki. Di sinilah kecerdasan interpersonal bertindak sebagai akselerator karier.
 

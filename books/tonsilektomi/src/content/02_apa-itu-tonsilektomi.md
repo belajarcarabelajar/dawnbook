@@ -33,13 +33,13 @@ Memasuki abad ke-20 dan ke-21, fokus pembedahan bergeser dari sekadar mengangkat
 Beberapa metode modern yang sering digunakan antara lain:
 - **Metode Pisau Dingin (Cold Knife):** Teknik klasik menggunakan pisau bedah baja standar. Metode ini masih menjadi pilihan utama karena tidak menghasilkan panas, sehingga jaringan di sekitar amandel bebas dari kerusakan termal.
 - **Elektrokauter (Hot Dissection):** Teknik ini menggunakan energi panas untuk memotong amandel sekaligus menyumbat pembuluh darah guna mencegah pendarahan.
-- **Coblation (Cold Ablation) yang lebih modern:** Teknologi radiofrekuensi ini memutus ikatan molekul jaringan pada suhu rendah, berkisar antara \\( 40^\circ \text{C} \\) hingga \\( 70^\circ \text{C} \\), guna memperingan rasa nyeri pascaoperasi jika dibandingkan dengan pembedahan panas konvensional.
+- **Coblation (Cold Ablation) yang lebih modern:** Teknologi radiofrekuensi ini memutus ikatan molekul jaringan pada suhu rendah, berkisar antara \( 40^\circ \text{C} \) hingga \( 70^\circ \text{C} \), guna memperingan rasa nyeri pascaoperasi jika dibandingkan dengan pembedahan panas konvensional.
 
 ## Real-World Application: Mengapa Prosedur Ini Penting?
 
 Dalam praktik klinis, tonsilektomi sering kali merupakan solusi akhir untuk masalah kesehatan yang tidak merespons pengobatan konservatif.
 
-**Skenario Kasus:** Bayangkan seorang anak berusia 6 tahun yang mengalami *Sleep Apnea* (henti napas saat tidur) akibat ukuran amandelnya yang sangat besar. Setiap malam, kadar oksigen \\( \text{O}_2 \\) dalam darahnya menurun karena saluran napas tersumbat. Setelah menjalani tonsilektomi, saluran napas terbuka lebar, anak tersebut dapat tidur nyenyak, dan pertumbuhan fisiknya meningkat pesat karena kualitas istirahat yang membaik.
+**Skenario Kasus:** Bayangkan seorang anak berusia 6 tahun yang mengalami *Sleep Apnea* (henti napas saat tidur) akibat ukuran amandelnya yang sangat besar. Setiap malam, kadar oksigen \( \text{O}_2 \) dalam darahnya menurun karena saluran napas tersumbat. Setelah menjalani tonsilektomi, saluran napas terbuka lebar, anak tersebut dapat tidur nyenyak, dan pertumbuhan fisiknya meningkat pesat karena kualitas istirahat yang membaik.
 
 ## Perbandingan Cepat: Dulu vs Sekarang
 

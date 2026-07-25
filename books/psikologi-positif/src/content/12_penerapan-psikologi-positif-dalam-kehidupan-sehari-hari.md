@@ -18,7 +18,7 @@ Bayangkan pekerjaanmu seperti tanah liat. Kamu bukan penerima bentuk yang pasif,
 
 ### Skenario Dunia Nyata: Budaya Positive Feedback
 
-Sebagai contoh, sebuah perusahaan teknologi menerapkan analisis rasio **Losada**. Hasil riset menunjukkan bahwa tim dengan kinerja unggul memiliki rasio emosi positif terhadap emosi negatif sekitar \\( 5:1 \\).
+Sebagai contoh, sebuah perusahaan teknologi menerapkan analisis rasio **Losada**. Hasil riset menunjukkan bahwa tim dengan kinerja unggul memiliki rasio emosi positif terhadap emosi negatif sekitar \( 5:1 \).
 
 > **Insight:** Untuk setiap satu kritik atau evaluasi negatif, berikan setidaknya lima bentuk apresiasi atau pengakuan terhadap keberhasilan kecil tim.
 

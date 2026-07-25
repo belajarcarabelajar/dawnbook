@@ -26,9 +26,9 @@ Misalkan:
 
 Maka, waktu efektif yang tersisa (\( W_{\text{sisa}} \)) secara kasar adalah:
 
-\[ 
+$$
 W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
- \]
+$$
 
 Jika kamu berusia 30 tahun: \( W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun} \)
 

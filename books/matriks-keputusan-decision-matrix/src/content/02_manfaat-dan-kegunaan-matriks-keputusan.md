@@ -30,12 +30,14 @@ Banyak orang merasa kesal ketika keputusan penting diambil secara mendadak tanpa
 
 Daya tarik utama dari matriks keputusan adalah kemampuannya melakukan analisis terhadap banyak variabel secara bersamaan (*multitasking*). Secara matematis, proses ini bertujuan mengoptimalkan fungsi dari beberapa variabel sekaligus:
 
-\\[ \\text{Total Skor} = \\sum_{i=1}^{n} (W_i \\times S_i) \\]
+$$
+\\text{Total Skor} = \\sum_{i=1}^{n} (W_i \\times S_i)
+$$
 
 Di mana:
 
-- \\( W_i \\) adalah bobot kepentingan kriteria ke-\\( i \\).
-- \\( S_i \\) adalah skor alternatif pada kriteria ke-\\( i \\).
+- \( W_i \) adalah bobot kepentingan kriteria ke-\( i \).
+- \( S_i \) adalah skor alternatif pada kriteria ke-\( i \).
 
 **Kemampuan Menangani Kompleksitas:**
 

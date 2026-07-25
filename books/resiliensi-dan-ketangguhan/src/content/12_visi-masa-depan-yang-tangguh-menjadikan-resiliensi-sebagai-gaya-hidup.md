@@ -10,13 +10,13 @@ Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat kead
 
 > **Insight:** Resiliensi sejati tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
 
-Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan (\\( \\text{T} \\)) dan kapasitas resiliensi (\\( \\text{C} \\)) terhadap hasil pertumbuhan (\\( \\text{G} \\)) sebagai berikut:
+Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan (\( \\text{T} \)) dan kapasitas resiliensi (\( \\text{C} \)) terhadap hasil pertumbuhan (\( \\text{G} \)) sebagai berikut:
 
-\\[
+$$
 \\text{G} = \\int (\\text{C} - \\text{T}) \\, \\text{d}t
-\\]
+$$
 
-Jika kapasitas (\\( \\text{C} \\)) kamu selalu lebih besar dari tantangan (\\( \\text{T} \\)) melalui persiapan jangka panjang, maka hasil pertumbuhan (\\( \\text{G} \\)) akan selalu positif, bahkan di tengah masa sulit.
+Jika kapasitas (\( \\text{C} \)) kamu selalu lebih besar dari tantangan (\( \\text{T} \)) melalui persiapan jangka panjang, maka hasil pertumbuhan (\( \\text{G} \)) akan selalu positif, bahkan di tengah masa sulit.
 
 ### Analogi: Pohon Bambu vs. Pohon Ek
 

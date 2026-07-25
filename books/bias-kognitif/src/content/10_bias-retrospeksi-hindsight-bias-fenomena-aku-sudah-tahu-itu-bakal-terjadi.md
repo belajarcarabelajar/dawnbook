@@ -56,10 +56,10 @@ Kita sering melihat peristiwa besar seperti jatuhnya Uni Soviet atau serangan 11
 
 ## Perspektif Teknis: Probabilitas Bayes
 
-Dalam statistik, kita bisa melihat fenomena ini sebagai perubahan pada probabilitas subjektif. Misalkan \\( P(A) \\) adalah probabilitas peristiwa \\( A \\) terjadi menurut prediksi kamu.
+Dalam statistik, kita bisa melihat fenomena ini sebagai perubahan pada probabilitas subjektif. Misalkan \( P(A) \) adalah probabilitas peristiwa \( A \) terjadi menurut prediksi kamu.
 
-- **Sebelum kejadian:** \\( P(A) = 0.5 \\) (kamu menganggap kemungkinannya 50:50).
-- **Setelah kejadian (Peristiwa A benar-benar terjadi):** Ingatan kamu secara retrospektif mengubah nilai tersebut menjadi \\( P(A) \approx 0.9 \\).
+- **Sebelum kejadian:** \( P(A) = 0.5 \) (kamu menganggap kemungkinannya 50:50).
+- **Setelah kejadian (Peristiwa A benar-benar terjadi):** Ingatan kamu secara retrospektif mengubah nilai tersebut menjadi \( P(A) \approx 0.9 \).
 
 Secara matematis, bias ini dapat dinyatakan sebagai kegagalan dalam mempertahankan distribusi probabilitas awal setelah data baru (hasil akhir) diterima.
 

@@ -44,7 +44,7 @@ Alih-alih memaksa manusia mengikuti format kaku komputer, biarkan sistem yang me
 
 Di rumah sakit, kesalahan pemberian obat bisa berakibat fatal. Salah satu penerapan prinsip *Expect Error* adalah penggunaan konektor yang berbeda untuk saluran yang berbeda.
 
-Misalnya, pipa oksigen memiliki bentuk konektor yang berbeda dengan pipa cairan infus. Hal ini secara fisik mencegah perawat secara tidak sengaja menghubungkan selang oksigen ke jalur intravena. Secara matematis, kemungkinan *error* \\( P(\text{error}) \\) ditekan mendekati nol melalui hambatan fisik.
+Misalnya, pipa oksigen memiliki bentuk konektor yang berbeda dengan pipa cairan infus. Hal ini secara fisik mencegah perawat secara tidak sengaja menghubungkan selang oksigen ke jalur intravena. Secara matematis, kemungkinan *error* \( P(\text{error}) \) ditekan mendekati nol melalui hambatan fisik.
 
 ### Dunia Digital dan *User Experience* (UX)
 
@@ -85,16 +85,16 @@ submitBtn.addEventListener('click', (e) => {
 
 ## Menghitung Dampak Kesalahan
 
-Dalam sistem industri, rumus keandalan (*reliability*) sering digunakan untuk memahami pentingnya desain antisipatif. Jika sebuah proses memiliki 5 langkah dan setiap langkah memiliki probabilitas keberhasilan \\( p = 0.95 \\) (5% kemungkinan salah), maka probabilitas keseluruhan sistem berhasil tanpa kesalahan adalah:
+Dalam sistem industri, rumus keandalan (*reliability*) sering digunakan untuk memahami pentingnya desain antisipatif. Jika sebuah proses memiliki 5 langkah dan setiap langkah memiliki probabilitas keberhasilan \( p = 0.95 \) (5% kemungkinan salah), maka probabilitas keseluruhan sistem berhasil tanpa kesalahan adalah:
 
-\[
+$$
 \begin{aligned}
 P_{\text{success}} &= p^n \
 P_{\text{success}} &= 0.95^5 \approx 0.77
 \end{aligned}
-\]
+$$
 
-Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan menambahkan *forcing function* atau *nudge* yang meningkatkan \\( p \\) menjadi \\( 0.999 \\), kita dapat menghindarkan sistem dari kegagalan besar.
+Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan menambahkan *forcing function* atau *nudge* yang meningkatkan \( p \) menjadi \( 0.999 \), kita dapat menghindarkan sistem dari kegagalan besar.
 
 ## Kesimpulan
 

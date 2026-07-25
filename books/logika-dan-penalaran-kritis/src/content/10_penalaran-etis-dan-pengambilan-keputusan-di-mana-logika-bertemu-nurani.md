@@ -35,7 +35,7 @@ Untuk membantu kita bernalar secara objektif, para filsuf telah mengembangkan be
 Fokus pada hasil akhir. Keputusan yang terbaik adalah yang menghasilkan "kebaikan terbesar untuk jumlah orang terbanyak."
 
 - **Analogi:** Seperti memilih menu makanan untuk acara kantor; kamu memilih yang disukai mayoritas orang, meski ada satu-dua orang yang kurang puas.
-- **Rumus Sederhana:** Jika \\( U \\) adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan \\( A \\) di mana: \\( \\sum U(A) > \\sum U(B) \\)
+- **Rumus Sederhana:** Jika \( U \) adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan \( A \) di mana: \( \\sum U(A) > \\sum U(B) \)
 
 #### B. Deontologi (Berdasarkan Kewajiban)
 
@@ -74,9 +74,9 @@ Dunia teknologi adalah medan tempur penalaran etis yang sangat relevan saat ini.
 - **Secara Deontologis:** Ada prinsip bahwa "kendaraan tidak boleh dengan sengaja membunuh penumpangnya."
 - **Tantangan Logika:** Bagaimana kita mengodekan nilai "nyawa manusia" ke dalam algoritma matematis?
 
-\\[
+$$
 \\text{Nilai Etis} \\neq \\text{Hanya Probabilitas Statistik}
-\\]
+$$
 
 ### 6\. Menghindari Sesat Pikir dalam Penalaran Etis
 

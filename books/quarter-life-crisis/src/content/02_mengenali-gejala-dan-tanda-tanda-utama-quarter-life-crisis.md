@@ -18,9 +18,9 @@ Bayangkan kamu sedang mengendarai mobil di jalan tol yang panjang. Kamu sudah be
 
 Kecemasan dalam QLC bukan sekadar gugup sebelum presentasi. Ini adalah kecemasan eksistensial tentang masa depan. Dalam psikologi, kecemasan ini sering kali mengikuti variabel berikut:
 
-\\[
+$$
 \text{Kecemasan} \approx \frac{\text{Ketidakpastian} \times \text{Harapan}}{\text{Kesiapan Mental}}
-\\]
+$$
 
 Jika ketidakpastian tentang masa depan tinggi dan harapan (dari diri sendiri atau orang lain) sangat besar, sementara kesiapan mental belum stabil, maka skor kecemasan akan meledak.
 

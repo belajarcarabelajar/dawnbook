@@ -22,7 +22,7 @@ Dalam manajemen, bekerja keras saja tidak cukup. Kamu harus bekerja dengan **Cer
 
 Efisiensi menitikberatkan pada penggunaan sumber daya (biaya, waktu, tenaga) secara minimal untuk mendapatkan hasil maksimal. Fokusnya adalah **Input vs Output**.
 
-Secara matematis, kita bisa melihatnya sebagai rasio: \\( \text{Efisiensi} = \frac{\text{Output}}{\text{Input}} \\)
+Secara matematis, kita bisa melihatnya sebagai rasio: \( \text{Efisiensi} = \frac{\text{Output}}{\text{Input}} \)
 
 *Contoh:* Menghemat biaya produksi tanpa mengurangi kualitas barang.
 
@@ -30,7 +30,9 @@ Secara matematis, kita bisa melihatnya sebagai rasio: \\( \text{Efisiensi} = \fr
 
 Efektivitas menitikberatkan pada pencapaian tujuan. Fokusnya adalah **Hasil Akhir**. Apakah tujuan awal tercapai?
 
-\\[ \text{Efektivitas} = \frac{\text{Hasil Aktual}}{\text{Target yang Ditetapkan}} \\]
+$$
+\text{Efektivitas} = \frac{\text{Hasil Aktual}}{\text{Target yang Ditetapkan}}
+$$
 
 *Contoh:* Jika target perusahaan adalah menjual 1.000 unit dan berhasil tercapai, maka tindakan tersebut efektif.
 

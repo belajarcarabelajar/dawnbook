@@ -16,9 +16,9 @@ Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap 
 
 Mari kita gunakan pendekatan matematis sederhana untuk memahami pergeseran ini:
 
-**Rumus Narasi Lama:** \\( \\text{Kegagalan} = \\text{Identitas} + \\text{Akhir Dari Jalan} \\)
+**Rumus Narasi Lama:** \( \\text{Kegagalan} = \\text{Identitas} + \\text{Akhir Dari Jalan} \)
 
-**Rumus Membingkai Ulang (Reframing):** \\( \\text{Kegagalan} = \\text{Strategi yang Kurang Tepat} + \\text{Data Baru} \\)
+**Rumus Membingkai Ulang (Reframing):** \( \\text{Kegagalan} = \\text{Strategi yang Kurang Tepat} + \\text{Data Baru} \)
 
 Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu, melainkan sebuah **umpan balik (feedback)**.
 

@@ -89,9 +89,9 @@ Jika kamu harus memilih tiga kata saja dari daftar di atas untuk menggambarkan d
 
 Mengetahui kekuatan saja tidak cukup. Kunci dari kesejahteraan adalah penerapan nyata. Dalam psikologi positif, kita mengenal rumus sederhana untuk kepuasan hidup:
 
-\\[
+$$
 \text{Kepuasan} \approx \sum (\text{Kekuatan} \times \text{Penggunaan dalam Pelayanan})
-\\]
+$$
 
 Artinya, kebahagiaan sejati muncul ketika kita menggunakan kekuatan kita untuk melayani sesuatu yang lebih besar dari diri kita sendiri.
 

@@ -46,12 +46,12 @@ Berikut adalah tabel perbandingan bagaimana kedua pola pikir ini merespons berba
 
 ## 4\. Matematika Mindset: Formula Pertumbuhan
 
-Secara konseptual, kita bisa melihat perbedaan hasil belajar melalui pendekatan matematis sederhana. Jika \\( H \\) adalah Hasil Belajar, \\( B \\) adalah Bakat bawaan, dan \\( U \\) adalah Usaha, maka:
+Secara konseptual, kita bisa melihat perbedaan hasil belajar melalui pendekatan matematis sederhana. Jika \( H \) adalah Hasil Belajar, \( B \) adalah Bakat bawaan, dan \( U \) adalah Usaha, maka:
 
-- **Fixed Mindset View:** \\( H = B \\). (Hasil hanya ditentukan oleh bakat. Jika \\( B \\) rendah, maka \\( H \\) akan selalu rendah).
-- **Growth Mindset View:** \\( H = B \times U^2 \\)
+- **Fixed Mindset View:** \( H = B \). (Hasil hanya ditentukan oleh bakat. Jika \( B \) rendah, maka \( H \) akan selalu rendah).
+- **Growth Mindset View:** \( H = B \times U^2 \)
 
-Dalam perspektif *Growth Mindset*, usaha (\\( U \\)) memiliki eksponen yang lebih besar karena usaha bukan hanya menambah pengetahuan, tetapi juga mengubah struktur biologis otak (neuroplastisitas) untuk memproses informasi lebih cepat di masa depan.
+Dalam perspektif *Growth Mindset*, usaha (\( U \)) memiliki eksponen yang lebih besar karena usaha bukan hanya menambah pengetahuan, tetapi juga mengubah struktur biologis otak (neuroplastisitas) untuk memproses informasi lebih cepat di masa depan.
 
 ## 5\. Dampak Psikologis pada Tantangan Akademik
 

@@ -14,9 +14,9 @@ Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Danie
 
 > "Jika saya bisa mengingatnya dengan mudah, maka peristiwa itu pasti penting atau sering terjadi."
 
-Secara matematis, otak kita mencoba melakukan estimasi probabilitas (\\( P \\)) dengan rumus intuitif yang keliru: \\( P(\\text{peristiwa}) \\approx \\text{Kemudahan Retrieval (Pemanggilan Memori)} \\)
+Secara matematis, otak kita mencoba melakukan estimasi probabilitas (\( P \)) dengan rumus intuitif yang keliru: \( P(\\text{peristiwa}) \\approx \\text{Kemudahan Retrieval (Pemanggilan Memori)} \)
 
-Padahal, kenyataannya: \\( P(\\text{peristiwa}) = \\frac{\\text{Jumlah Kejadian}}{\\text{Total Peluang}} \\)
+Padahal, kenyataannya: \( P(\\text{peristiwa}) = \\frac{\\text{Jumlah Kejadian}}{\\text{Total Peluang}} \)
 
 ## 2\. Mengapa Ini Terjadi? (Analogi Perpustakaan Pikiran)
 

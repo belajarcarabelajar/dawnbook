@@ -55,11 +55,13 @@ Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang d
 
 ### Formula Dampak Komunikasi
 
-Misalkan \\( I \\) adalah Dampak (*Impact*), \\( V \\) adalah Verbal, \\( P \\) adalah Paraverbal (Vokal), dan \\( B \\) adalah *Body Language* (Non-verbal). Dampak maksimal tercapai saat ketiganya selaras:
+Misalkan \( I \) adalah Dampak (*Impact*), \( V \) adalah Verbal, \( P \) adalah Paraverbal (Vokal), dan \( B \) adalah *Body Language* (Non-verbal). Dampak maksimal tercapai saat ketiganya selaras:
 
-\\[ I = V_{\\text{jelas}} + P_{\\text{tepat}} + B_{\\text{sinkron}} \\]
+$$
+I = V_{\\text{jelas}} + P_{\\text{tepat}} + B_{\\text{sinkron}}
+$$
 
-Jika salah satu bernilai negatif (misal: bahasa tubuh yang defensif), maka nilai \\( I \\) akan turun drastis meskipun \\( V \\) sangat kuat.
+Jika salah satu bernilai negatif (misal: bahasa tubuh yang defensif), maka nilai \( I \) akan turun drastis meskipun \( V \) sangat kuat.
 
 ## 6. Aplikasi Dunia Nyata: Skenario Profesional
 

@@ -10,9 +10,9 @@ Sebelum mengelola stres, kita perlu memahami apa yang terjadi di dalam diri. Sec
 
 Dalam konteks QLC, rumusnya sering kali terlihat seperti ini:
 
-\\[
+$$
 \text{Stres} = \frac{\text{Tekanan} \ (\text{Ekspektasi} + \text{Perbandingan})}{\text{Sumber Daya} \ (\text{Coping} + \text{Dukungan})}
-\\]
+$$
 
 Jika pembilang (tekanan) jauh lebih besar daripada penyebut (sumber daya), krisis pun terjadi. Coping Strategy bertujuan untuk memperbesar angka penyebut tersebut.
 

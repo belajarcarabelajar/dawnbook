@@ -24,7 +24,7 @@ Untuk memahami bagaimana informasi mengalir, kita perlu membedah bagian-bagian u
 
 Komunikasi di dalam satu sel saraf bersifat **elektrik**. Ketika neuron "terpancing" oleh informasi baru, terjadi lonjakan listrik yang disebut **Potensial Aksi**.
 
-Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium \\( Na^+ \\) dan Kalium \\( K^+ \\)) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
+Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium \( Na^+ \) dan Kalium \( K^+ \)) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
 
 $$
 V_{\text{threshold}} \approx -55 \, \text{mV}
@@ -51,7 +51,7 @@ Karena sinyal listrik tidak bisa "melompati" celah kosong, otak mengubah bahasa 
 
 Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa aktor utama:
 
-- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah \\( C_5H_9NO_4 \\).
+- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah \( C_5H_9NO_4 \).
 - **GABA:** Neurotransmitter "rem" atau inhibitori. Berfungsi menenangkan otak agar tidak terjadi kelebihan informasi (*overload*).
 - **Dopamin:** Hormon "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
 
@@ -63,14 +63,14 @@ Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam
 
 Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longgar". Sinyal kimiawi sering tersendat atau tidak sampai ke tujuan dengan tepat. Akibatnya, jari kamu terasa kaku.
 
-- **Latihan Hari ke-1:** Neuron mencoba membangun jalur. Sinyal listrik \\( Na^+ \\) dan \\( K^+ \\) bekerja keras, neurotransmitter dilepaskan namun reseptor belum peka.
+- **Latihan Hari ke-1:** Neuron mencoba membangun jalur. Sinyal listrik \( Na^+ \) dan \( K^+ \) bekerja keras, neurotransmitter dilepaskan namun reseptor belum peka.
 - **Latihan Hari ke-30:** Melalui pengulangan, struktur fisik sinapsis berubah. Jumlah reseptor meningkat, dan selubung mielin menebal. Sinyal kini meluncur secepat kilat. Inilah yang kita sebut sebagai "memori otot".
 
 ## 6\. Visualisasi Sederhana Jalur Saraf
 
 Untuk membantu pemahaman visual, perhatikan alur informasi berikut:
 
-1. **Input:** Mata melihat rumus matematika \\( a^2 + b^2 = c^2 \\).
+1. **Input:** Mata melihat rumus matematika \( a^2 + b^2 = c^2 \).
 2. **Respon Neuron:** Neuron di korteks visual menangkap pola tersebut.
 3. **Transmisi:** Sinyal listrik menjalar sepanjang akson yang bermielin.
 4. **Loncatan Sinapsis:** Glutamat dilepaskan di celah sinapsis menuju neuron di area memori (hipokampus).

@@ -13,13 +13,13 @@ Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, abs
 **Absurditas adalah hasil dari sebuah tabrakan (collision).**
 
 Bayangkan sebuah persamaan matematis sederhana untuk memahami ini:
-\\[
+$$
 \begin{aligned}
 &\text{Keinginan Manusia (Makna \& Keteraturan)} \\
 &\quad + \text{Keheningan Alam Semesta (Ketidakpedulian)} \\
 &= \text{Absurditas}
 \end{aligned}
-\\]
+$$
 
 > **Definisi Utama:** Absurditas bukanlah sifat dari dunia itu sendiri, dan bukan pula sifat dari manusia. Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis.
 

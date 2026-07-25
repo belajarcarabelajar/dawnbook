@@ -98,9 +98,9 @@ def handle_crisis(current_plan, unexpected_change):
 
 Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti (\( \mathbb{P}_{\text{s}} \)) berbanding lurus dengan jumlah alternatif valid (\( n \)) yang dapat kita hasilkan dalam waktu singkat (\( t \)).
 
-\[
+$$
 \mathbb{P}_{\text{s}} \approx \sum_{i=1}^{n} \frac{A_i}{t}
-\]
+$$
 
 Di mana:
 

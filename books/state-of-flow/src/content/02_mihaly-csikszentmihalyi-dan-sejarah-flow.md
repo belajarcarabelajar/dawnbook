@@ -54,7 +54,7 @@ $$
 E_o = \int_{t_1}^{t_2} f(C, S) dt
 $$
 
-*Dimana \\(E_o\\) adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan (\\(C\\)) dan Keterampilan (\\(S\\)) selama periode waktu tertentu.*
+*Dimana \(E_o\) adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan (\(C\)) dan Keterampilan (\(S\)) selama periode waktu tertentu.*
 
 ## Real-World Application: Belajar dari Sejarah
 

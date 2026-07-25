@@ -10,7 +10,7 @@ Masa pemulihan setelah operasi amandel umumnya berlangsung selama 10 hingga 14 h
 
 ### Fase 1: Istirahat Total (Hari ke-1 - ke-3)
 
-Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya mencapai puncaknya. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar \\( 30^\circ - 45^\circ \\). Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
+Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya mencapai puncaknya. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar \( 30^\circ - 45^\circ \). Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
 
 ### Fase 2: Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
 
@@ -24,7 +24,7 @@ Rasa nyeri biasanya mulai mereda, meskipun terkadang muncul sensasi nyeri yang m
 
 ## Batasan Aktivitas Fisik: Apa yang Boleh dan Tidak?
 
-Mengapa pembatasan fisik ini begitu penting? Jawabannya terletak pada tekanan darah \\( P \\). Gerakan atau aktivitas fisik yang melelahkan bisa memicu lonjakan tekanan darah sistemik. Tekanan tinggi ini dapat mendorong sumbat darah pada luka yang baru mulai mengering, sehingga memicu perdarahan hebat yang berbahaya.
+Mengapa pembatasan fisik ini begitu penting? Jawabannya terletak pada tekanan darah \( P \). Gerakan atau aktivitas fisik yang melelahkan bisa memicu lonjakan tekanan darah sistemik. Tekanan tinggi ini dapat mendorong sumbat darah pada luka yang baru mulai mengering, sehingga memicu perdarahan hebat yang berbahaya.
 
 | Jenis Aktivitas | Durasi Larangan | Alasan Medis |
 | --- | --- | --- |

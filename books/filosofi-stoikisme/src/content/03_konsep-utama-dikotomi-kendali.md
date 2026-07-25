@@ -43,9 +43,9 @@ Untuk memahami konsep ini dengan lebih mendalam, bayangkan seorang pemanah yang 
 
 Mengapa kita harus peduli dengan pembagian ini? Stoikisme menggunakan logika sederhana untuk menjaga kesehatan mental kita:
 
-\\[ 
+$$
 \text{Kekecewaan} = \text{Menaruh Harapan pada Hal di Luar Kendali}
-\\]
+$$
 
 Jika kamu mengaitkan kebahagiaan kamu dengan "mendapatkan promosi" (eksternal), kamu sedang memberikan kunci kebahagiaan kamu kepada bos kamu atau situasi kantor. Namun, jika kamu mengaitkan kepuasan kamu dengan "bekerja sebaik mungkin dan profesional" (internal), maka kamu tetap bisa tenang apa pun hasil akhirnya.
 

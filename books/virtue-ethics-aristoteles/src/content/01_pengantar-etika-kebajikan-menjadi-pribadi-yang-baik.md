@@ -62,10 +62,10 @@ Di era modern yang serba terburu-buru, Etika Kebajikan hadir sebagai pelabuhan b
 
 Secara matematis, etika ini mengikuti fungsi pertumbuhan sederhana:
 
-\[
+$$
 \begin{aligned}
 \text{Karakter} + \text{Latihan (Habituasi)} \rightarrow \text{Eudaimonia (Kebahagiaan Sejati)}
 \end{aligned}
-\]
+$$
 
 Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang tiada henti, karakter perlahan menguat sampai ke tahap Eudaimonia,kondisi puncak tatkala manusia merealisasikan seluruh potensi terbaiknya.

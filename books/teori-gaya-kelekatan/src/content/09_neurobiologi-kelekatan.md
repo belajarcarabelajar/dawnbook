@@ -34,7 +34,7 @@ Interaksi kelekatan memicu pelepasan zat kimia tertentu yang mengubah cara kita 
 
 ### Oksitosin: Molekul Koneksi
 
-Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia \\(\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2\\). Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
+Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia \(\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2\). Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
 
 ### Kortisol: Hormon Stres
 
@@ -62,7 +62,9 @@ Setiap orang memiliki batas kenyamanan emosional yang berbeda, yang dikenal seba
 
 Orang dengan kelekatan aman cenderung memiliki jendela toleransi yang lebar, sehingga mereka tetap tenang saat menghadapi tekanan. Sebaliknya, mereka yang memiliki kelekatan cemas sering kali terdorong ke fase hiper-arousal (di luar batas atas jendela), yang ditandai dengan kecemasan, panik, dan kewaspadaan berlebih. Sementara itu, pemilik kelekatan menghindar lebih sering jatuh ke fase hipo-arousal (di bawah batas bawah jendela), membuat mereka menarik diri, mati rasa secara emosional, dan sulit merasakan kedekatan.
 
-\\[ \\text{Regulasi Emosi} = \\frac{\\text{Kekuatan PFC}}{\\text{Reaktivitas Amigdala}} \\]
+$$
+\\text{Regulasi Emosi} = \\frac{\\text{Kekuatan PFC}}{\\text{Reaktivitas Amigdala}}
+$$
 
 ## Aplikasi Nyata: Mengapa Ini Penting?
 
@@ -99,7 +101,9 @@ Berikut adalah pilar utama dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 

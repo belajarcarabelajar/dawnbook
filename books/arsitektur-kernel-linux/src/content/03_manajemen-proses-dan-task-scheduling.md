@@ -55,20 +55,20 @@ Mekanisme ini membuat pembuatan proses di Linux sangat cepat dan efisien dalam p
 
 Sejak kernel 2.6.23, Linux menggunakan **CFS** sebagai algoritma penjadwalan default. Berbeda dengan scheduler lama yang menggunakan "timeslice" (jatah waktu tetap), CFS berusaha memberikan keadilan yang sempurna dalam pembagian waktu proses.
 
-**Konsep vruntime (Virtual Runtime):** CFS melacak seberapa lama sebuah proses telah berjalan di CPU menggunakan variabel \\(\text{vruntime}\\).
+**Konsep vruntime (Virtual Runtime):** CFS melacak seberapa lama sebuah proses telah berjalan di CPU menggunakan variabel \(\text{vruntime}\).
 
-- Proses yang memiliki \\(\text{vruntime}\\) terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
-- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat \\(\text{vruntime}\\) sebuah proses bertambah.
+- Proses yang memiliki \(\text{vruntime}\) terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
+- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat \(\text{vruntime}\) sebuah proses bertambah.
 
-\\[
+$$
 \text{vruntime} = \text{vruntime} + \frac{\text{actual\_runtime}}{\text{weight}}
-\\]
+$$
 
-Jika nilai *nice* tinggi (kurang prioritas), \\(\text{vruntime}\\) bertambah cepat, sehingga ia lebih jarang mendapatkan giliran.
+Jika nilai *nice* tinggi (kurang prioritas), \(\text{vruntime}\) bertambah cepat, sehingga ia lebih jarang mendapatkan giliran.
 
 ### Struktur Data Red-Black Tree
 
-Untuk mencari proses dengan \\(\text{vruntime}\\) terkecil secara cepat, CFS menyimpan daftar proses yang siap jalan dalam struktur data **red-black tree**. Hal ini memungkinkan pencarian dengan kompleksitas waktu \\(O(\log n)\\), yang tetap kencang meskipun ada ribuan proses.
+Untuk mencari proses dengan \(\text{vruntime}\) terkecil secara cepat, CFS menyimpan daftar proses yang siap jalan dalam struktur data **red-black tree**. Hal ini memungkinkan pencarian dengan kompleksitas waktu \(O(\log n)\), yang tetap kencang meskipun ada ribuan proses.
 
 ## 4. Real-world Application & Scenario
 
@@ -129,7 +129,7 @@ int main() {
 | **`task_struct`** | Metadata terpusat yang menyimpan seluruh informasi tentang suatu proses. |
 | **context switching** | Proses menyimpan status CPU saat ini dan memuat status proses lain untuk multitasking. |
 | **preemption** | Kemampuan kernel untuk menghentikan proses berjalan demi mendahulukan proses dengan prioritas lebih tinggi. |
-| **CFS** | Algoritma scheduler default yang memastikan distribusi CPU yang adil berdasarkan \\(\text{vruntime}\\). |
+| **CFS** | Algoritma scheduler default yang memastikan distribusi CPU yang adil berdasarkan \(\text{vruntime}\). |
 | **zombie process** | Proses yang telah selesai dieksekusi tetapi entri datanya masih tertinggal karena induk belum membaca status keluarnya. |
 
 Manajemen proses yang efisien inilah yang mendasari keandalan Linux saat dijalankan di berbagai perangkat, mulai dari jam tangan pintar hingga superkomputer tercepat di dunia. Kegagalan scheduler dalam hitungan detik saja dapat membuat seluruh sistem terasa membeku akibat terhentinya pergantian tugas di CPU.

@@ -25,13 +25,13 @@ Mari kita lihat bagaimana fungsi-fungsi ini saling "mengunci" satu sama lain:
 
 Dua fungsi ini sering disebut sebagai "si kembar" dalam manajemen. Hubungan erat keduanya terlihat dari bagaimana target dari *Planning* menjadi acuan utama bagi *Controlling*. Tanpa adanya perencanaan, kamu tidak memiliki standar untuk mengukur keberhasilan. Sebaliknya, tanpa pengawasan, perencanaan matang pun akan sia-sia karena tidak ada cara untuk mengetahui ketercapaian target tersebut.
 
-Secara matematis, efisiensi manajemen (\\( E \\)) dapat digambarkan sebagai fungsi dari keselarasan antara target (\\( T \\)) dan realisasi (\\( R \\)):
+Secara matematis, efisiensi manajemen (\( E \)) dapat digambarkan sebagai fungsi dari keselarasan antara target (\( T \)) dan realisasi (\( R \)):
 
-\\[
+$$
 E = \frac{R}{T} \times 100\%
-\\]
+$$
 
-Di mana \\( T \\) berasal dari *Planning* dan \\( R \\) didapatkan melalui *Controlling*.
+Di mana \( T \) berasal dari *Planning* dan \( R \) didapatkan melalui *Controlling*.
 
 ### B. Hubungan Organizing dan Actuating
 

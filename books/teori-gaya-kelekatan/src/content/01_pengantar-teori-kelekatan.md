@@ -86,7 +86,9 @@ Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa membayangkan sebuah "persamaan" sederhana tentang kedalaman relasi:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Persamaan ini menggambarkan bahwa semakin besar waktu berkualitas dan keterbukaan yang diberikan, akan semakin dalam hubungan yang terbentuk. Sebaliknya, jika ego terlalu mendominasi, kedalaman tersebut akan menyusut.
 

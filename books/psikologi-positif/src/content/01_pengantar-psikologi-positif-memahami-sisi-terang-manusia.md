@@ -28,7 +28,7 @@ Sebelum Perang Dunia II pecah, psikologi sebenarnya memiliki tiga fokus utama. P
 
 Setelah Perang Dunia II, fokus psikologi bergeser secara drastis. Karena banyaknya veteran yang pulang dengan trauma (*post-traumatic stress disorder*) dan masalah kesehatan mental, dana penelitian besar-besaran dialokasikan untuk penyembuhan. Psikologi menjadi ilmu yang sangat mahir dalam **psikopatologi**.
 
-Kita menjadi sangat ahli dalam membawa orang dari angka \\(-5\\) (sangat menderita) menuju angka \\(0\\) (netral/tidak sakit). Namun, kita sering kali lupa bagaimana membawa seseorang dari \\(0\\) menuju \\(+5\\) (sejahtera dan bahagia).
+Kita menjadi sangat ahli dalam membawa orang dari angka \(-5\) (sangat menderita) menuju angka \(0\) (netral/tidak sakit). Namun, kita sering kali lupa bagaimana membawa seseorang dari \(0\) menuju \(+5\) (sejahtera dan bahagia).
 
 ### Lahirnya Psikologi Positif (1998)
 
@@ -38,10 +38,12 @@ Momentum perubahan terjadi ketika **Martin Seligman** terpilih sebagai Presiden 
 
 Dalam psikologi positif, kesehatan mental didefinisikan secara lebih dinamis daripada sekadar kondisi bebas dari gangguan kesehatan. Kita bisa menggunakan skala numerik untuk memahaminya:
 
-\\[ \text{Skala}: [-10] \dots \dots [-5] \dots \dots [0] \dots \dots [+5] \dots \dots [+10] \\]
+$$
+\text{Skala}: [-10] \dots \dots [-5] \dots \dots [0] \dots \dots [+5] \dots \dots [+10]
+$$
 
 - **Penderitaan (Languishing):** Berada di area negatif, di mana seseorang merasa hampa, terjebak, atau mengalami gangguan kesehatan mental.
-- **Kondisi Netral (\\(0\\)):** Kondisi ketika seseorang tidak mengalami depresi medis, tetapi juga tidak merasakan semangat hidup, gairah, atau tujuan yang jelas.
+- **Kondisi Netral (\(0\)):** Kondisi ketika seseorang tidak mengalami depresi medis, tetapi juga tidak merasakan semangat hidup, gairah, atau tujuan yang jelas.
 - **Berkembang (Flourishing):** Berada di area positif. Pada tahap ini, seseorang aktif membangun hubungan yang sehat, menemukan makna hidup, dan mengoptimalkan potensi terbaik mereka.
 
 **Penting:** Psikologi Positif tidak menggantikan psikologi tradisional. Keduanya saling melengkapi. Kita membutuhkan antibiotik untuk infeksi, tetapi kita juga memerlukan nutrisi untuk kebugaran tubuh.
@@ -76,7 +78,9 @@ Sebaliknya, dengan **pendekatan psikologi positif**, manajer memang tetap meninj
 
 Mempelajari psikologi positif adalah langkah awal untuk mengambil kendali atas kesejahteraanmu sendiri. Dengan memahami bahwa kebahagiaan dan ketangguhan bisa dilatih (seperti otot), kamu tidak lagi menjadi tawanan dari keadaan luar atau genetik semata.
 
-\\[ \text{Kebahagiaan} \approx \text{Genetika} + \text{Lingkungan} + \text{Aktivitas Disengaja} \\]
+$$
+\text{Kebahagiaan} \approx \text{Genetika} + \text{Lingkungan} + \text{Aktivitas Disengaja}
+$$
 
 Meskipun kita tidak bisa mengubah faktor genetika dan terkadang sulit memengaruhi lingkungan sekitar, kita memiliki kendali penuh atas **aktivitas yang disengaja** (cara berpikir dan bertindak) yang akan kita pelajari di bagian-bagian selanjutnya.
 

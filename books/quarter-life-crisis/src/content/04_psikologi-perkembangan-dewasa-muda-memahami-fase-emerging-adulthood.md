@@ -38,11 +38,11 @@ Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih
 
 Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat luar biasa. Secara matematis, kita bisa melihat keseimbangan respon emosional sebagai:
 
-\\[
+$$
 \text{R}_{\text{emosi}} \approx \frac{\text{Stimulus}_{\text{eksternal}}}{\text{Kematangan}_{\text{PFC}}}
-\\]
+$$
 
-Saat \\( \text{Kematangan}_{\text{PFC}} \\) masih rendah, \\( \text{R}_{\text{emosi}} \\) (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
+Saat \( \text{Kematangan}_{\text{PFC}} \) masih rendah, \( \text{R}_{\text{emosi}} \) (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
 
 ## 3\. Perkembangan Emosi: Menavigasi Badai Ketidakpastian
 

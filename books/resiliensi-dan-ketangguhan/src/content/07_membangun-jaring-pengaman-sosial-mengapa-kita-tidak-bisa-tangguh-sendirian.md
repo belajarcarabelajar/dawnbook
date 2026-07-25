@@ -41,18 +41,18 @@ Tidak semua interaksi sosial memperkuat resiliensi. Hubungan yang toksik justru 
 
 Dalam sosiologi, kekuatan hubungan ini sering diukur dengan konsep **Modal Sosial**. Jika kita formulasikan secara sederhana:
 
-\\[
+$$
 \text{R}_{\text{ext}} = \sum_{\text{i}=1}^{\text{n}} (\text{K}_{\text{i}} \times \text{T}_{\text{i}})
-\\]
+$$
 
 Dimana:
 
-- \\( \text{R}_{\text{ext}} \\) adalah Resiliensi Eksternal.
-- \\( \text{K} \\) adalah Kualitas koneksi dengan individu \\( \text{i} \\).
-- \\( \text{T} \\) adalah Tingkat Kepercayaan pada individu \\( \text{i} \\).
-- \\( \text{n} \\) adalah jumlah orang dalam lingkaran inti kamu.
+- \( \text{R}_{\text{ext}} \) adalah Resiliensi Eksternal.
+- \( \text{K} \) adalah Kualitas koneksi dengan individu \( \text{i} \).
+- \( \text{T} \) adalah Tingkat Kepercayaan pada individu \( \text{i} \).
+- \( \text{n} \) adalah jumlah orang dalam lingkaran inti kamu.
 
-**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi (\\( \text{K} \\times \text{T} \\)) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
+**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi (\( \text{K} \\times \text{T} \)) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
 
 ### 4. Aplikasi Dunia Nyata: Membangun Jaring Sebelum Jatuh
 

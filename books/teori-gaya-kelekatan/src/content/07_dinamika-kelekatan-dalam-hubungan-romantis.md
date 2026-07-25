@@ -28,7 +28,7 @@ Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pe
 3. **Reaksi Si Menghindar (Deaktivasi):** Menghadapi desakan tersebut, Si Menghindar merasa sangat tertekan. Demi melindungi diri, ia mengaktifkan mode *flight* atau *freeze* dengan cara diam, meninggalkan ruangan, atau mematikan ponsel.
 4. **Eskalasi konflik:** Ketika Si Menghindar menarik diri, kepanikan Si Cemas justru berlipat ganda. Akibatnya, ia mengejar lebih keras, yang kemudian membuat Si Menghindar merasa harus bersembunyi lebih jauh lagi.
 
-\\( \\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B \\)
+\( \\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B \)
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 
@@ -106,7 +106,9 @@ Berikut adalah pilar-pilar utama dalam menciptakan koneksi yang mendalam:
 
 Untuk menggambarkan bagaimana sebuah hubungan tumbuh, mari kita gunakan formula sederhana berikut:
 
-\\[ \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}} \\]
+$$
+\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+$$
 
 Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, semakin kuat pula ikatan yang terjalin. Sebaliknya, jika ego lebih mendominasi, kedalaman hubungan tersebut akan terkikis.
 

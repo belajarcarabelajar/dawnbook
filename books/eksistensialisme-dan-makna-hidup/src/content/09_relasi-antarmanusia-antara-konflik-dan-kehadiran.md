@@ -34,9 +34,9 @@ Mengapa kita begitu peduli dengan apa yang dipikirkan orang lain? Eksistensialis
 
 Secara simbolis, hubungan antarmanusia dapat digambarkan dengan ketegangan matematis berikut:
 
-\\( \text{Subjek } A \leftrightarrow \text{Subjek } B = \text{Konflik} \\)
+\( \text{Subjek } A \leftrightarrow \text{Subjek } B = \text{Konflik} \)
 
-Jika \\( A \\) ingin diakui sebagai manusia yang bebas, ia harus mendapatkan pengakuan dari \\( B \\). Namun, jika \\( B \\) mengakui \\( A \\), maka \\( B \\) harus menurunkan ego atau subjektivitasnya sendiri. Sebaliknya, jika \\( A \\) melihat \\( B \\) hanya sebagai alat, maka pengakuan yang diberikan \\( B \\) kepada \\( A \\) menjadi tidak berharga (karena berasal dari sebuah "benda", bukan manusia).
+Jika \( A \) ingin diakui sebagai manusia yang bebas, ia harus mendapatkan pengakuan dari \( B \). Namun, jika \( B \) mengakui \( A \), maka \( B \) harus menurunkan ego atau subjektivitasnya sendiri. Sebaliknya, jika \( A \) melihat \( B \) hanya sebagai alat, maka pengakuan yang diberikan \( B \) kepada \( A \) menjadi tidak berharga (karena berasal dari sebuah "benda", bukan manusia).
 
 Inilah paradox hubungan manusia: **Kita ingin dicintai (diakui sebagai subjek yang berharga) oleh seseorang yang kita kuasai (kita jadikan objek).** Namun, jika orang tersebut sudah kita kuasai sepenuhnya, cintanya tidak lagi memiliki makna.
 

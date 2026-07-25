@@ -77,14 +77,14 @@ Integritas tidak berarti menjadi sempurna tanpa kesalahan. Integritas berarti me
 
 ## Ringkasan Visual
 
-Untuk mencapai \\( E \\) (Eudaimonia), kita memerlukan \\( \sum V \\) (Jumlah dari seluruh Kebajikan) yang terikat oleh \\( I \\) (Integritas) dan dipandu oleh \\( P \\) (Phronesis).
+Untuk mencapai \( E \) (Eudaimonia), kita memerlukan \( \sum V \) (Jumlah dari seluruh Kebajikan) yang terikat oleh \( I \) (Integritas) dan dipandu oleh \( P \) (Phronesis).
 
-\\[
+$$
 \begin{aligned}
 \text{Eudaimonia} &= \int (\text{Virtues} \times \text{Integrity})^{\text{Phronesis}} \text{dt}
 \end{aligned}
-\\]
+$$
 
-*Catatan: Rumus di atas adalah representasi simbolis bahwa kebahagiaan sejati adalah hasil dari kebajikan yang terintegrasi dan dijalankan melalui kebijaksanaan praktis sepanjang waktu (\\( \text{dt} \\)).*
+*Catatan: Rumus di atas adalah representasi simbolis bahwa kebahagiaan sejati adalah hasil dari kebajikan yang terintegrasi dan dijalankan melalui kebijaksanaan praktis sepanjang waktu (\( \text{dt} \)).*
 
 Dengan memahami kesatuan karakter, kita berhenti melihat etika sebagai daftar aturan yang boleh dan tidak boleh dilakukan, dan mulai melihatnya sebagai proyek pembangunan diri untuk menjadi manusia yang utuh dan tidak terbagi.

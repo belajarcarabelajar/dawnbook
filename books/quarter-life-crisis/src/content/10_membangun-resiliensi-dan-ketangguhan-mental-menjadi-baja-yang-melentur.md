@@ -10,9 +10,9 @@ Resiliensi bukan hanya soal kemampuan "tahan banting" atau menahan beban tanpa m
 
 Resiliensi tidak muncul secara ajaib. Resiliensi merupakan "otot mental" yang dibangun lewat perpaduan pola pikir, regulasi emosi, dan tindakan konsisten. Secara ilmiah, resiliensi dapat digambarkan melalui persamaan sederhana:
 
-\[
+$$
 \text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
-\]
+$$
 
 Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi tetap terjaga.
 

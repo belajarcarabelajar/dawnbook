@@ -49,20 +49,20 @@ Setelah memiliki daftar alternatif, saatnya menggunakan berpikir konvergen. Kita
 
 Misalkan kamu harus memilih antara 3 solusi perangkat lunak (A, B, dan C) dengan kriteria: Biaya, Kemudahan Penggunaan, dan Fitur.
 
-Kita dapat memberikan bobot (\\( w \\)) pada setiap kriteria sehingga total bobot adalah 1.0 (atau 100%). Total Skor (\\( S \\)) untuk setiap alternatif dapat dihitung dengan rumus:
+Kita dapat memberikan bobot (\( w \)) pada setiap kriteria sehingga total bobot adalah 1.0 (atau 100%). Total Skor (\( S \)) untuk setiap alternatif dapat dihitung dengan rumus:
 
-\\[
+$$
 S = \\sum_{i=1}^{n} (w_i \\times r_i)
-\\]
+$$
 
 Dimana:
 
-- \\( w_i \\) = Bobot kriteria ke-\\( i \\)
-- \\( r_i \\) = Rating solusi untuk kriteria ke-\\( i \\)
+- \( w_i \) = Bobot kriteria ke-\( i \)
+- \( r_i \) = Rating solusi untuk kriteria ke-\( i \)
 
 **Contoh Matriks Keputusan:**
 
-| Kriteria | Bobot (\\( w \\)) | Solusi A (Skor) | Solusi B (Skor) |
+| Kriteria | Bobot (\( w \)) | Solusi A (Skor) | Solusi B (Skor) |
 | --- | --- | --- | --- |
 | Biaya | 0.4 | 8 (3.2) | 5 (2.0) |
 | Fitur | 0.4 | 6 (2.4) | 9 (3.6) |

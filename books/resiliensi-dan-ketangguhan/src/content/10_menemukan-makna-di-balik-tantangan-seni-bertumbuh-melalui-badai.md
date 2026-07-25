@@ -44,7 +44,9 @@ Viktor Frankl, seorang psikiater dan penyintas kamp konsentrasi Nazi, dalam buku
 
 Ia menggunakan konsep matematika sederhana untuk menjelaskan keputusasaan:
 
-\[ \text{D} = \text{S} - \text{M} \]
+$$
+\text{D} = \text{S} - \text{M}
+$$
 
 Di mana:
 

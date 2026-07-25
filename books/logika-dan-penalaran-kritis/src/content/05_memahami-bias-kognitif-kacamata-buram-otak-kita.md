@@ -50,9 +50,9 @@ Sekali angka atau informasi diletakkan di atas meja, otak kita cenderung menyesu
 
 Angka USD 2.000 adalah **jangkar**. Tanpa angka itu, kamu mungkin akan berpikir USD 500 sangat mahal untuk sebuah jam tangan. Namun, dengan adanya jangkar tersebut, USD 500 terlihat seperti sebuah keberuntungan atau penghematan besar.
 
-\\[
+$$
 \text{Nilai yang Dirasakan} = \text{Harga Jangkar} - \text{Harga Aktual}
-\\]
+$$
 
 Jika \(\text{Harga Jangkar}\) sangat tinggi, maka \(\text{Nilai yang Dirasakan}\) akan menjadi positif secara psikologis, terlepas dari nilai intrinsik barang tersebut.
 

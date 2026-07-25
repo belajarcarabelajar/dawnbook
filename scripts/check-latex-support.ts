@@ -130,6 +130,41 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     }
   }
 
+  // 5. Check for unwrapped mathematical variables in text
+  let inCodeBlock = false;
+  let inDisplayMath = false;
+  lines.forEach((line, idx) => {
+    const strip = line.trim();
+    if (strip.startsWith('```')) {
+      inCodeBlock = !inCodeBlock;
+      return;
+    }
+    if (inCodeBlock) return;
+
+    const dollarCount = (line.match(/\$\$/g) || []).length;
+    if (dollarCount % 2 !== 0) {
+      inDisplayMath = !inDisplayMath;
+      return;
+    }
+    if (inDisplayMath || dollarCount >= 2) return;
+
+    // Strip out valid inline and display math
+    let noMath = line.replace(/\\\([\s\S]*?\\\)/g, '');
+    noMath = noMath.replace(/\$\$[\s\S]*?\$\$/g, '');
+    noMath = noMath.replace(/\$[^\$]+\$/g, '');
+
+    // Filter out inline code, links, and markdown headers
+    if (noMath.includes('`') || noMath.includes('http') || strip.startsWith('#')) return;
+
+    // Check for unwrapped math variables (e.g. R_{1,t}, W_1, VMP_1, E^2, H_{t+1}, C_{\text{total}})
+    const mathVarRegex = /\b[A-Za-z]+_\{[^\}]+\}|\b[A-Z]_[0-9t]\b|\b[A-Za-z]+\^\{[^\}]+\}|\b[A-Z]\^[0-9]\b/;
+    const subMatch = noMath.match(mathVarRegex);
+    if (subMatch) {
+      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} has unwrapped math variable '${subMatch[0]}': ${strip}`);
+      hasErrors = true;
+    }
+  });
+
   return hasErrors;
 }
 

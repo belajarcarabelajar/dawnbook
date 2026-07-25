@@ -65,10 +65,14 @@ Pencapaian terbesar dalam tahap ini adalah pemahaman tentang **Objek Permanen**,
 ### Representasi Sederhana
 
 Bagi bayi di bawah 8 bulan: 
-\\[ \text{Jika } V(O) = 0, \text{ maka } O = \text{tidak ada} \\]
+$$
+\text{Jika } V(O) = 0, \text{ maka } O = \text{tidak ada}
+$$
 
 Bagi anak yang sudah punya objek permanen: 
-\\[ \text{Jika } V(O) = 0, \text{ maka } O \text{ tetap ada di dalam pikiran} \\]
+$$
+\text{Jika } V(O) = 0, \text{ maka } O \text{ tetap ada di dalam pikiran}
+$$
 
 ## 4\. Berinteraksi dengan Bayi
 

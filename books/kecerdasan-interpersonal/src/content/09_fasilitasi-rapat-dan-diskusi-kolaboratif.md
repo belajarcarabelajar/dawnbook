@@ -25,7 +25,9 @@ Sekitar 70% keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanp
 
 Rumus sederhana berikut dapat membantu mengevaluasi urgensi sebuah rapat:
 
-\\[ \\text{Nilai Rapat} = \\frac{\\text{Kualitas Keputusan} \\times \\text{Penerimaan Tim}}{\\text{Biaya Waktu}} \\]
+$$
+\\text{Nilai Rapat} = \\frac{\\text{Kualitas Keputusan} \\times \\text{Penerimaan Tim}}{\\text{Biaya Waktu}}
+$$
 
 Jika kebutuhan utama hanya menyampaikan informasi searah, gunakan email atau saluran komunikasi instan. Rapat baru benar-benar dibutuhkan untuk:
 

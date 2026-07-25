@@ -22,7 +22,7 @@ Bagi pasien yang menjalani operasi karena **Hipertrofi Tonsil** (amandel yang te
 
 Amandel yang besar bertindak seperti penghalang fisik di jalan napas. Ketika otot-otot tenggorokan rileks saat tidur, amandel ini dapat menutup saluran udara sepenuhnya.
 
-Saat amandel yang menghalangi jalan napas diangkat, suara dengkuran yang keras biasanya langsung mereda atau hilang sepenuhnya. Akibatnya, tubuh mendapatkan pasokan oksigen \\( \text{O}_2 \\) yang stabil sepanjang malam. Aliran oksigen yang lancar ini sangat berharga untuk menopang fungsi jantung dan otak.
+Saat amandel yang menghalangi jalan napas diangkat, suara dengkuran yang keras biasanya langsung mereda atau hilang sepenuhnya. Akibatnya, tubuh mendapatkan pasokan oksigen \( \text{O}_2 \) yang stabil sepanjang malam. Aliran oksigen yang lancar ini sangat berharga untuk menopang fungsi jantung dan otak.
 
 ### Dampak pada Anak-anak
 
@@ -34,9 +34,9 @@ Pada anak-anak, tidur yang lebih tenang membawa dampak yang sangat terasa:
 
 Kualitas hidup adalah parameter luas yang mencakup kesejahteraan fisik, emosional, dan sosial. Secara matematis, kita bisa memahaminya sebagai:
 
-\\[
+$$
 \text{QoL} (\text{Quality of Life}) = \sum (\text{Kesehatan Fisik} + \text{Kesehatan Mental} + \text{Fungsi Sosial})
-\\]
+$$
 
 Pemulihan pernapasan dan infeksi ini pada akhirnya mendongkrak kesejahteraan hidup secara menyeluruh. Perubahannya dapat dirasakan langsung pada beberapa aspek berikut:
 - **Nafsu Makan Kembali:** Amandel yang membengkak sering menimbulkan nyeri telan (disfagia) pada anak-anak. Ketika hambatan ini hilang, mereka bisa makan dengan lebih nyaman, membantu berat badan tumbuh ke angka ideal.

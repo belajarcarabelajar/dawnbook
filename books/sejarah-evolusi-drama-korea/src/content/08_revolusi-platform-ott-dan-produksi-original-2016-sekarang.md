@@ -33,17 +33,17 @@ Dengan masuknya modal asing, anggaran produksi K-Drama melonjak ke angka yang se
 
 **Persamaan Kesuksesan Produksi OTT:** Dalam dunia ekonomi konten, kita bisa melihat formulanya sebagai berikut:
 
-\\[
+$$
 \begin{aligned}
 \text{K}_s = (\text{D}_g \times \text{K}_k) + \text{A}_u
 \end{aligned}
-\\]
+$$
 
 Dimana:
-- \\(\text{K}_s\\): Kualitas Sinematik
-- \\(\text{D}_g\\): Distribusi Global
-- \\(\text{K}_k\\): Kebebasan Kreatif
-- \\(\text{A}_u\\): Anggaran Tanpa Batas
+- \(\text{K}_s\): Kualitas Sinematik
+- \(\text{D}_g\): Distribusi Global
+- \(\text{K}_k\): Kebebasan Kreatif
+- \(\text{A}_u\): Anggaran Tanpa Batas
 
 Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar $1,78 juta (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
 

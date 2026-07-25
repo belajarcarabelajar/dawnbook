@@ -44,12 +44,12 @@ $$
 
 Dimana:
 
-- \\(S\\): *Sustainability* (Keberlanjutan produktivitas)
-- \\(F\\): *Flow Intensity* (Intensitas flow)
-- \\(R\\): *Recovery* (Kualitas istirahat/pemulihan)
-- \\(C\\): *Cost* (Beban fisik dan mental yang dikeluarkan)
+- \(S\): *Sustainability* (Keberlanjutan produktivitas)
+- \(F\): *Flow Intensity* (Intensitas flow)
+- \(R\): *Recovery* (Kualitas istirahat/pemulihan)
+- \(C\): *Cost* (Beban fisik dan mental yang dikeluarkan)
 
-**Pesan utamanya:** Jika \\(R\\) (pemulihan) mendekati nol, maka \\(S\\) (keberlanjutan) juga akan hancur, tidak peduli seberapa tinggi intensitas flow kamu.
+**Pesan utamanya:** Jika \(R\) (pemulihan) mendekati nol, maka \(S\) (keberlanjutan) juga akan hancur, tidak peduli seberapa tinggi intensitas flow kamu.
 
 ### Real-World Use Case: Kasus "The Crunch" di Industri Kreatif
 

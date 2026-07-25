@@ -38,7 +38,7 @@ Mengapa tanggapan B salah? Karena B sama sekali tidak mendebat usulan A yang seb
 
 Asumsi bahwa jika satu kejadian kecil terjadi, maka secara otomatis akan diikuti oleh serangkaian kejadian ekstrem lainnya tanpa bukti yang kuat bahwa hal itu pasti terjadi.
 
-Pola logika dari sesat pikir ini berasumsi bahwa jika tindakan \\( A \\) terjadi, secara otomatis hal itu akan memicu \\( B \\), lalu \\( C \\), hingga akhirnya berujung pada kehancuran \\( Z \\). Berdasarkan asumsi tersebut, kita sama sekali tidak boleh membiarkan \\( A \\) terjadi.
+Pola logika dari sesat pikir ini berasumsi bahwa jika tindakan \( A \) terjadi, secara otomatis hal itu akan memicu \( B \), lalu \( C \), hingga akhirnya berujung pada kehancuran \( Z \). Berdasarkan asumsi tersebut, kita sama sekali tidak boleh membiarkan \( A \) terjadi.
 
 Contoh yang sering terdengar: *"Jika kita membiarkan anak-anak bermain video game selama satu jam saja, mereka akan kecanduan. Dari kecanduan, mereka mulai membolos sekolah, terjerumus ke narkoba, dan akhirnya masa depan mereka hancur total."*
 
@@ -65,14 +65,14 @@ Pernyataan ini keliru karena popularitas seorang aktor di dunia seni peran tidak
 Secara teknis, dalam logika formal, kita bisa melihat sesat pikir sebagai kesalahan dalam struktur. Salah satu yang paling umum adalah **Affirming the Consequent** (Mengafirmasi Konsekuensi).
 
 Dalam logika yang valid (Modus Ponens):
-- Premis 1: \\( P \\rightarrow Q \\) (Jika hujan, maka jalanan basah)
-- Premis 2: \\( P \\) (Ternyata hujan)
-- Kesimpulan: \\( \\therefore Q \\) (Maka, jalanan pasti basah) - **VALID**
+- Premis 1: \( P \\rightarrow Q \) (Jika hujan, maka jalanan basah)
+- Premis 2: \( P \) (Ternyata hujan)
+- Kesimpulan: \( \\therefore Q \) (Maka, jalanan pasti basah) - **VALID**
 
 Dalam sesat pikir (Mengafirmasi Konsekuensi):
-- Premis 1: \\( P \\rightarrow Q \\) (Jika hujan, maka jalanan basah)
-- Premis 2: \\( Q \\) (Jalanan basah)
-- Kesimpulan: \\( \\therefore P \\) (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
+- Premis 1: \( P \\rightarrow Q \) (Jika hujan, maka jalanan basah)
+- Premis 2: \( Q \) (Jalanan basah)
+- Kesimpulan: \( \\therefore P \) (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
 
 *Mengapa tidak valid? Karena jalanan bisa saja basah akibat hal lain, misalnya sedang disiram air oleh warga atau ada pipa saluran air yang bocor.*
 

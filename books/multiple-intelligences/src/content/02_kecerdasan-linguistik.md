@@ -30,7 +30,9 @@ Dari sudut pandang anatomi otak, pemrosesan bahasa sangat bergantung pada dua ar
 
 Efisiensi otak dalam memproses bahasa dapat diilustrasikan lewat model sederhana berikut:
 
-\\[ \text{Efisiensi} = \frac{\text{Kekayaan Kosakata} \times \text{Konteks}}{\text{Hambatan Komunikasi}} \\]
+$$
+\text{Efisiensi} = \frac{\text{Kekayaan Kosakata} \times \text{Konteks}}{\text{Hambatan Komunikasi}}
+$$
 
 Semakin kaya kosakata dan penguasaan konteks, semakin efisien pula komunikasinya, asalkan faktor penghambat seperti miskomunikasi atau kebisingan bisa ditekan serendah mungkin.
 

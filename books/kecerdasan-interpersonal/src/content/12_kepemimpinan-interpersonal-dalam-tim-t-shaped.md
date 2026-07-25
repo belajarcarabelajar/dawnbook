@@ -14,7 +14,9 @@ Seorang pemimpin interpersonal dalam tim *T-Shaped* berperan layaknya konduktor.
 
 Efektivitas kepemimpinan ini secara matematis dapat digambarkan melalui hubungan berikut:
 
-\\[ \text{Efektivitas}_{\text{Tim}} = \sum (\text{Keahlian}_{\text{Spesialis}}) \times \text{Faktor}_{\text{Integrasi}} \\]
+$$
+\text{Efektivitas}_{\text{Tim}} = \sum (\text{Keahlian}_{\text{Spesialis}}) \times \text{Faktor}_{\text{Integrasi}}
+$$
 
 Di sini, **Faktor Integrasi** diwakili oleh kecerdasan interpersonal kamu. Jika faktor ini bernilai nol, maka total kekuatan tim juga akan mendekati nol akibat ego sektoral yang menghambat kerja sama.
 
