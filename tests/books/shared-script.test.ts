@@ -171,4 +171,56 @@ describe("Shared Script Client-Side Logic Execution", () => {
       completed_path: "/books/my-book/chapter-1.html",
     });
   });
+
+  test("saveProgress normalizes non-.html chapter paths to .html extension", async () => {
+    const { mockWin } = setupMockWindow("/books/my-book/content/01_intro");
+
+    let postPayload: any = null;
+    global.fetch = mock(async (url: string, init?: RequestInit) => {
+      if (url.includes("/api/auth/me")) {
+        return new Response(JSON.stringify({ id: "user_1" }));
+      }
+      if (url.includes("/api/progress") && init?.method === "POST") {
+        postPayload = JSON.parse(init.body as string);
+        return new Response(JSON.stringify({ completed_paths: [] }));
+      }
+      return new Response(JSON.stringify({ completed_paths: [] }));
+    });
+
+    Function(scriptContent)();
+
+    await new Promise((r) => setTimeout(r, 10));
+
+    mockWin.saveProgress();
+
+    await new Promise((r) => setTimeout(r, 10));
+
+    expect(postPayload.path).toBe("/books/my-book/content/01_intro.html");
+  });
+
+  test("handleCheckpoint normalizes target redirect path with .html extension", async () => {
+    const { mockWin } = setupMockWindow("/books/my-book/index.html");
+
+    global.fetch = mock(async (url: string) => {
+      if (url.includes("/api/auth/me")) {
+        return new Response(JSON.stringify({ id: "user_1" }));
+      }
+      if (url.includes("/api/books/my-book/view")) {
+        return new Response(JSON.stringify({ success: true }));
+      }
+      if (url.includes("/api/progress")) {
+        return new Response(JSON.stringify({
+          path: "/books/my-book/content/02_chapter",
+          completed_paths: []
+        }));
+      }
+      return new Response("{}");
+    });
+
+    Function(scriptContent)();
+
+    await new Promise((r) => setTimeout(r, 10));
+
+    expect(mockWin.location.replace).toHaveBeenCalledWith("/books/my-book/content/02_chapter.html?redirected=true");
+  });
 });
