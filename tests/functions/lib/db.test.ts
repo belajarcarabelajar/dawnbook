@@ -1,13 +1,14 @@
-import { expect, test, describe, it } from "bun:test";
+import { expect, test, describe, it, beforeEach } from "bun:test";
 import {
   getUserByGoogleSub,
   getUserByEmail,
   getUserById,
   generateUserId,
   getSessionWithUser,
+  deleteSession,
   type UserRow,
 } from "../../../functions/lib/db";
-import { createMockEnv, setQueryHandler } from "../../helpers/mocks";
+import { createMockEnv, setQueryHandler, setRunHandler } from "../../helpers/mocks";
 
 const mockUser: UserRow = {
   id: "user_123",
@@ -189,5 +190,35 @@ describe("getSessionWithUser", () => {
     expect(result!.user.name).toBeNull();
     expect(result!.user.picture).toBeNull();
     expect(result!.user.donation_badge).toBeNull();
+  });
+});
+
+describe("deleteSession", () => {
+  beforeEach(() => {
+    // Before each hook, clean state if needed
+  });
+
+  test("returns true when D1 run returns success: true", async () => {
+    const env = createMockEnv();
+    setRunHandler(env, "DELETE FROM sessions", (sql, params) => {
+      expect(sql).toContain("DELETE FROM sessions WHERE id = ?1");
+      expect(params).toEqual(["test_session_id"]);
+      return { success: true };
+    });
+
+    const result = await deleteSession(env.DB, "test_session_id");
+    expect(result).toBe(true);
+  });
+
+  test("returns false when D1 run returns success: false", async () => {
+    const env = createMockEnv();
+    setRunHandler(env, "DELETE FROM sessions", (sql, params) => {
+      expect(sql).toContain("DELETE FROM sessions WHERE id = ?1");
+      expect(params).toEqual(["test_session_id"]);
+      return { success: false };
+    });
+
+    const result = await deleteSession(env.DB, "test_session_id");
+    expect(result).toBe(false);
   });
 });
