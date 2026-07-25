@@ -172,6 +172,7 @@ async function handlePostProgress(
     .run();
 
   if (!result.success) {
+    console.error("DB write failed for reading_progress");
     return errorResponse("Database write failed", 500);
   }
 
