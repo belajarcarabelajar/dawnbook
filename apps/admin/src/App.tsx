@@ -147,7 +147,8 @@ function MarkdownEditor() {
   }, []);
 
   useEffect(() => {
-    if (location.state && (location.state as any).createNew) {
+    const state = location.state as { createNew?: boolean } | null;
+    if (state && state.createNew) {
       setSelectedBook('new');
       setNewSlug('');
       setContent('');
