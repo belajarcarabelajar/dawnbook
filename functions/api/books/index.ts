@@ -213,9 +213,9 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   try {
     switch (request.method) {
       case "GET":
-        return handleGetBooks(env, request);
+        return await handleGetBooks(env, request);
       case "POST":
-        return handlePostBook(env, request);
+        return await handlePostBook(env, request);
 
       default:
         return errorResponse("Method not allowed", 405);

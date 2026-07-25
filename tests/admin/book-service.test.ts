@@ -99,6 +99,35 @@ describe("Admin BookService", () => {
     }
   });
 
+  test("deleteBook handles generic 500 response with JSON error", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () =>
+      new Response(JSON.stringify({ error: "DB deletion error" }), { status: 500 });
+
+    try {
+      const result = await BookService.deleteBook("foo");
+      expect(result.success).toBe(false);
+      expect(result.message).toBe("DB deletion error");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("deleteBook handles network failure exception gracefully", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => {
+      throw new TypeError("Failed to fetch");
+    };
+
+    try {
+      const result = await BookService.deleteBook("foo");
+      expect(result.success).toBe(false);
+      expect(result.message).toMatch(/Network error/i);
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
   test("publishChapter does NOT include an Authorization header (cookie-based auth)", async () => {
     const originalFetch = global.fetch;
     let captured: RequestInit | undefined;
@@ -117,6 +146,43 @@ describe("Admin BookService", () => {
       const headers = (captured!.headers ?? {}) as Record<string, string>;
       expect(headers["Authorization"]).toBeUndefined();
       expect(captured!.credentials).toBe("same-origin");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("publishChapter handles 401, 403, and 500 errors appropriately", async () => {
+    const originalFetch = global.fetch;
+    try {
+      global.fetch = async () => new Response("Unauth", { status: 401 });
+      let res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
+      expect(res.success).toBe(false);
+      expect(res.message).toMatch(/sign in/i);
+
+      global.fetch = async () => new Response("Forbidden", { status: 403 });
+      res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
+      expect(res.success).toBe(false);
+      expect(res.message).toMatch(/admin/i);
+
+      global.fetch = async () => new Response(JSON.stringify({ error: "Server error" }), { status: 500 });
+      res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
+      expect(res.success).toBe(false);
+      expect(res.message).toBe("Server error");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("publishChapter handles network error exception gracefully", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => {
+      throw new Error("Network timeout");
+    };
+
+    try {
+      const res = await BookService.publishChapter({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" });
+      expect(res.success).toBe(false);
+      expect(res.message).toMatch(/Network error/i);
     } finally {
       global.fetch = originalFetch;
     }

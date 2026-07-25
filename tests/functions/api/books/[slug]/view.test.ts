@@ -138,4 +138,54 @@ describe("POST /api/books/[slug]/view", () => {
     const body = await response.json();
     expect(body).toEqual({ error: "Forbidden: Invalid origin" });
   });
+
+  it("returns 405 Method Not Allowed when method is not POST", async () => {
+    const env = createMockEnv();
+    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", { method: "GET" });
+    const response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
+    expect(response.status).toBe(405);
+    expect(await response.json()).toEqual({ error: "Method not allowed" });
+  });
+
+  it("blocks requests with a malformed Referer header URL", async () => {
+    const env = createMockEnv();
+    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
+      method: "POST",
+      headers: { Referer: "invalid-url-string" },
+    });
+    const response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
+    expect(response.status).toBe(403);
+  });
+
+  it("returns 400 Bad Request for invalid slug format", async () => {
+    const env = createMockEnv();
+    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/bad%20slug!/view", {
+      method: "POST",
+      headers: { Origin: "https://dawnbook.belajarcarabelajar.com" },
+    });
+    const response = await onRequest({ request, env, params: { slug: "bad slug!" } } as any);
+    expect(response.status).toBe(400);
+    expect(await response.json()).toEqual({ error: "Invalid slug format" });
+  });
+
+  it("returns 500 Internal Server Error when D1 update fails or throws", async () => {
+    const env = createMockEnv();
+    setRunHandler(env, "UPDATE", () => ({ success: false }));
+
+    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
+      method: "POST",
+      headers: { Origin: "https://dawnbook.belajarcarabelajar.com" },
+    });
+    let response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
+    expect(response.status).toBe(500);
+    expect(await response.json()).toEqual({ error: "Failed to update view count" });
+
+    // DB Exception
+    env.DB.prepare = mock(() => {
+      throw new Error("DB Error");
+    });
+    response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
+    expect(response.status).toBe(500);
+    expect(await response.json()).toEqual({ error: "Internal server error" });
+  });
 });

@@ -8,7 +8,7 @@ mock.module("../../../functions/lib/auth", () => {
 });
 
 import { onRequest } from "../../../functions/api/books/[slug]";
-import { createMockEnv, mockRequest } from "../../helpers/mocks";
+import { createMockEnv, mockRequest, setQueryHandler } from "../../helpers/mocks";
 
 describe("API: /api/books/[slug]", () => {
   beforeEach(() => {
@@ -27,6 +27,39 @@ describe("API: /api/books/[slug]", () => {
     const req = mockRequest("https://example.com/api/books/unknown-slug", { method: "GET" });
     const response = await onRequest({ request: req, env, params: { slug: "unknown-slug" } } as any);
     expect(response.status).toBe(404);
+  });
+
+  test("GET returns 200 and book details when found", async () => {
+    const env = createMockEnv();
+    setQueryHandler(env, "SELECT", () => [
+      { id: "b1", slug: "known-slug", title: "Known Book", status: "published" },
+    ]);
+    const req = mockRequest("https://example.com/api/books/known-slug", { method: "GET" });
+    const response = await onRequest({ request: req, env, params: { slug: "known-slug" } } as any);
+    expect(response.status).toBe(200);
+    const body = await response.json();
+    expect(body.book.title).toBe("Known Book");
+  });
+
+  test("returns 405 Method Not Allowed for unsupported HTTP methods", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books/known-slug", { method: "PUT" });
+    const response = await onRequest({ request: req, env, params: { slug: "known-slug" } } as any);
+    expect(response.status).toBe(405);
+    const body = await response.json();
+    expect(body.error).toBe("Method not allowed");
+  });
+
+  test("returns 500 Internal Server Error when DB query throws exception", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = mock(() => {
+      throw new Error("DB Error");
+    });
+    const req = mockRequest("https://example.com/api/books/known-slug", { method: "GET" });
+    const response = await onRequest({ request: req, env, params: { slug: "known-slug" } } as any);
+    expect(response.status).toBe(500);
+    const body = await response.json();
+    expect(body.error).toBe("Internal server error");
   });
 
   describe("DELETE", () => {

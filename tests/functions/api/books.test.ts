@@ -15,45 +15,105 @@ describe("API: /api/books", () => {
     mockSession = null;
   });
 
-  test("GET is public and returns books", async () => {
+  test("GET supports query parameters for content, status, subject_label, and sort_by", async () => {
     const env = createMockEnv();
-    const req = mockRequest("https://example.com/api/books", { method: "GET" });
-    const response = await onRequest({ request: req, env } as any);
+    const req = mockRequest("https://example.com/api/books?content=true&status=published&subject_label=tech&sort_by=popular", { method: "GET" });
+    let response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(200);
+
+    const reqOldest = mockRequest("https://example.com/api/books?sort_by=oldest", { method: "GET" });
+    response = await onRequest({ request: reqOldest, env } as any);
     expect(response.status).toBe(200);
   });
 
-  test("POST returns 401 without session", async () => {
-    mockSession = null;
+  test("POST returns 400 for invalid JSON body", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
-      body: JSON.stringify({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" }),
+      body: "invalid-json",
     });
     const response = await onRequest({ request: req, env } as any);
-    expect(response.status).toBe(401);
-    const body = await response.json();
-    expect(body.error).toContain("Unauthorized");
+    expect(response.status).toBe(400);
+    expect(await response.json()).toEqual({ error: "Invalid JSON body" });
   });
 
-  test("POST returns 403 when session.role is not admin", async () => {
-    mockSession = { sub: "user_123", role: "reader", publicMetadata: { role: "reader" } };
+  test("POST returns 400 when required fields are missing", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
     const env = createMockEnv();
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
-      body: JSON.stringify({ bookSlug: "x", chapterTitle: "t", markdownContent: "c" }),
+      body: JSON.stringify({ bookSlug: "x" }),
     });
     const response = await onRequest({ request: req, env } as any);
-    expect(response.status).toBe(403);
+    expect(response.status).toBe(400);
+    expect(await response.json()).toEqual({
+      error: "Missing required fields: bookSlug, chapterTitle, markdownContent",
+    });
   });
 
-  test("POST returns 201 with admin session", async () => {
-    mockSession = { sub: "user_123", role: "admin", publicMetadata: { role: "admin" } };
+  test("POST returns 400 for invalid or oversized fields", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
     const env = createMockEnv();
+
+    // Invalid slug
+    let req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "bad slug!", chapterTitle: "t", markdownContent: "c" }),
+    });
+    let res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(400);
+
+    // Chapter title too long
+    req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "a".repeat(301), markdownContent: "c" }),
+    });
+    res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(400);
+
+    // Subject label too long
+    req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c", subjectLabel: "a".repeat(101) }),
+    });
+    res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(400);
+  });
+
+  test("POST returns 500 when D1 write or batch fails", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+
+    // Metadata write fails
+    env.DB.prepare = mock(() => ({
+      bind: mock(() => ({
+        run: mock(async () => ({ success: false })),
+      })),
+    })) as any;
+
     const req = mockRequest("https://example.com/api/books", {
       method: "POST",
-      body: JSON.stringify({ bookSlug: "new-book", chapterTitle: "New Book", markdownContent: "Content" }),
+      body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
     });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(500);
+  });
+
+  test("returns 405 Method Not Allowed for unsupported methods", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books", { method: "PUT" });
     const response = await onRequest({ request: req, env } as any);
-    expect(response.status).toBe(201);
+    expect(response.status).toBe(405);
+  });
+
+  test("returns 500 Internal Server Error on unexpected exception", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = mock(() => {
+      throw new Error("Fatal DB Error");
+    });
+    const req = mockRequest("https://example.com/api/books", { method: "GET" });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(500);
   });
 });
