@@ -55,7 +55,7 @@ async function buildAllBooks(
   booksDir: string,
   outputBooksDir: string,
 ): Promise<BuiltBook[]> {
-  const entries = await readdir(booksDir);
+  const entries = await readdir(booksDir, { withFileTypes: true });
   const builtBooks: BuiltBook[] = [];
 
   console.log("Synchronizing book configurations from _template...");
@@ -68,13 +68,12 @@ async function buildAllBooks(
   await $`bun run scripts/check-media-support.ts`;
 
   for (const entry of entries) {
-    const bookPath = join(booksDir, entry);
-    const bookStat = await stat(bookPath);
+    const bookPath = join(booksDir, entry.name);
 
-    if (bookStat.isDirectory()) {
-      if (entry.startsWith("_")) continue;
-      if (!/^[a-zA-Z0-9_-]+$/.test(entry)) {
-        console.warn(`Skipping invalid directory name: ${entry}`);
+    if (entry.isDirectory()) {
+      if (entry.name.startsWith("_")) continue;
+      if (!/^[a-zA-Z0-9_-]+$/.test(entry.name)) {
+        console.warn(`Skipping invalid directory name: ${entry.name}`);
         continue;
       }
 
@@ -84,12 +83,12 @@ async function buildAllBooks(
         continue;
       }
 
-      console.log(`Building book: ${entry}`);
-      const destPath = join(outputBooksDir, entry);
+      console.log(`Building book: ${entry.name}`);
+      const destPath = join(outputBooksDir, entry.name);
 
       try {
         await $`mdbook build ${bookPath} -d ${destPath}`;
-        let formattedTitle = entry
+        let formattedTitle = entry.name
           .split("-")
           .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
           .join(" ");
@@ -124,14 +123,14 @@ async function buildAllBooks(
                 let filename = match[1];
                 filename = decodeURIComponent(filename.replace(/^\.\//, ""));
                 if (filename === "README" || filename === "index")
-                  return `/books/${entry}/index.html`;
-                return `/books/${entry}/${filename}.html`;
+                  return `/books/${entry.name}/index.html`;
+                return `/books/${entry.name}/${filename}.html`;
               }
               return null;
             })
             .filter(Boolean) as string[];
         } catch (e) {
-          console.warn(`Could not read SUMMARY.md for ${entry}`);
+          console.warn(`Could not read SUMMARY.md for ${entry.name}`);
         }
         let emoji = "📖";
         try {
@@ -140,7 +139,13 @@ async function buildAllBooks(
         } catch (e) {
           console.warn("Failed to read icon.txt, falling back to generic", e);
         }
-        let mtimeMs = bookStat.mtimeMs;
+
+        let mtimeMs = 0;
+        try {
+          const bookStat = await stat(bookPath);
+          mtimeMs = bookStat.mtimeMs;
+        } catch (e) {}
+
         try {
           const gitLog = await $`git log -1 --format=%ct ${bookPath}`.quiet().text();
           const ts = parseInt(gitLog.trim(), 10);
@@ -150,7 +155,7 @@ async function buildAllBooks(
         } catch (e) {}
 
         builtBooks.push({
-          slug: entry,
+          slug: entry.name,
           title: formattedTitle,
           author,
           chapterCount,
@@ -158,9 +163,9 @@ async function buildAllBooks(
           chapters,
           mtimeMs,
         });
-        console.log(`Successfully built: ${entry}`);
+        console.log(`Successfully built: ${entry.name}`);
       } catch (error) {
-        console.error(`Failed to build book: ${entry}`, error);
+        console.error(`Failed to build book: ${entry.name}`, error);
         process.exit(1);
       }
     }
@@ -1035,11 +1040,10 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
 
     // Map gated/private paths into _headers appending X-Robots-Tag: noindex
     async function appendGatedHeaders(dir: string) {
-      const entries = await readdir(dir);
+      const entries = await readdir(dir, { withFileTypes: true });
       for (const entry of entries) {
-        const fullPath = join(dir, entry);
-        const entryStat = await stat(fullPath);
-        if (entryStat.isDirectory()) {
+        const fullPath = join(dir, entry.name);
+        if (entry.isDirectory()) {
           await appendGatedHeaders(fullPath);
         } else if (fullPath.endsWith(".html")) {
           const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
