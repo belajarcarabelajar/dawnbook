@@ -108,7 +108,7 @@ The D1 binding (`DB`) is configured in `wrangler.toml` and is automatically avai
 
 ## LaTeX Support
 
-Dawnbook enforces mathematical rendering consistency via the `latex-support` build rule. All new and existing books must support mathematical equations (LaTeX) using mdBook's native MathJax integration unless a different preprocessor like KaTeX is already explicitly set up.
+Dawnbook enforces mathematical rendering consistency via the `latex-support` build rule. All new and existing books must support mathematical equations (LaTeX) using mdBook's native MathJax 2.7.1 integration.
 
 When creating a new book or editing `book.toml`, you **must** include the following under `[output.html]`:
 
@@ -117,9 +117,74 @@ When creating a new book or editing `book.toml`, you **must** include the follow
 mathjax-support = true
 ```
 
-The build pipeline (`scripts/build.ts`) automatically validates this configuration via `scripts/check-latex-support.ts`. If this key is missing, the build will fail to prevent regressions where equations fail to render.
+The build pipeline (`scripts/build.ts`) automatically validates this configuration via `scripts/check-latex-support.ts`. If this key is missing, the build will fail.
 
-The Cloudflare Pages CSP `_headers` is pre-configured to allow MathJax loading from `cdnjs.cloudflare.com` and `cdn.jsdelivr.net` to support Edge rendering on auth-gated pages.
+The Cloudflare Pages CSP `_headers` is pre-configured to allow MathJax loading from `cdnjs.cloudflare.com` and `cdn.jsdelivr.net`.
+
+### ⚠️ Critical: Inline Math Delimiter Rules (mdBook v0.4.40)
+
+> **This is the most common source of broken math rendering.** Confirmed via live testing against mdBook v0.4.40 + pulldown-cmark + MathJax 2.7.1.
+
+mdBook uses **pulldown-cmark** as its markdown parser. pulldown-cmark treats `\(` as an **escape sequence** and strips the backslash, outputting a plain `(` in HTML. MathJax never sees the delimiter and the formula renders as raw text.
+
+| Format in `.md` source | In HTML output | Renders in browser |
+|---|---|---|
+| `\(x^2\)` | `(x^2)` | ❌ Plain text |
+| `\\(x^2\\)` | `\\(x^2\\)` | ✅ MathJax renders |
+| `$$x^2$$` | `$$x^2$$` | ✅ MathJax display math |
+
+**Rules:**
+
+1. **Inline math** (variables, short expressions): use `\\(...\\)` — **two backslashes** in the `.md` file.
+   ```markdown
+   <!-- ❌ WRONG — single backslash stripped by pulldown-cmark -->
+   - \(R_{1,t}\) adalah ekspektasi pendapatan...
+
+   <!-- ✅ CORRECT — double backslash passes through to HTML -->
+   - \\(R_{1,t}\\) adalah ekspektasi pendapatan...
+   ```
+
+2. **Display/block math** (full equations): use `$$...$$`.
+   ```markdown
+   $$\text{NPV} = \sum_{t=1}^{T} \frac{R_{1,t} - R_{0,t}}{(1+r)^t} - C_{\text{total}}$$
+   ```
+
+3. **Variable description lists** under a formula: every variable symbol **must** also use `\\(...\\)`.
+   ```markdown
+   <!-- ❌ WRONG — variable descriptions as plain text -->
+   - R_{1,t} adalah ekspektasi pendapatan...
+   - (R_{1,t}) adalah ekspektasi pendapatan...
+
+   <!-- ✅ CORRECT -->
+   - \\(R_{1,t}\\) adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode \\(t\\).
+   - \\(R_{0,t}\\) adalah pendapatan tanpa tambahan pendidikan.
+   - \\(r\\) adalah tingkat diskonto (*discount rate*).
+   - \\(C_{\\text{total}}\\) adalah total biaya langsung (*direct costs*) pendidikan.
+   ```
+
+4. **Multi-letter variable names** inside math mode must use `\text{...}`:
+   ```markdown
+   <!-- ❌ WRONG — KaTeX renders NPV as N×P×V (italic multiplication) -->
+   $$NPV = ...$$
+
+   <!-- ✅ CORRECT -->
+   $$\text{NPV} = ...$$
+   ```
+
+5. **Inline text inside display math**: use `\text{...}` for prose words:
+   ```markdown
+   $$\text{Biaya Total} = \text{Biaya Tetap} + (v \times q)$$
+   ```
+
+### Validation
+
+Run before every commit touching math content:
+
+```bash
+bun scripts/check-latex-support.ts
+```
+
+Expected: `✅ All LaTeX support checks passed.`
 
 ## Embedding media
 
