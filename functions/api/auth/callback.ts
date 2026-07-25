@@ -35,7 +35,8 @@ const SESSION_TTL_SECONDS = 60 * 60 * 24 * 30; // 30 days
 
 function readCookie(request: Request, name: string): string | null {
   const header = request.headers.get("Cookie") ?? "";
-  for (const c of header.split(";").map((c) => c.trim())) {
+  for (let c of header.split(";")) {
+    c = c.trim();
     if (c.startsWith(`${name}=`)) {
       return c.slice(name.length + 1).trim();
     }
@@ -44,8 +45,14 @@ function readCookie(request: Request, name: string): string | null {
 }
 
 function clearStateCookies(headers: Headers): void {
-  headers.append("Set-Cookie", `${STATE_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`);
-  headers.append("Set-Cookie", `${REDIRECT_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`);
+  headers.append(
+    "Set-Cookie",
+    `${STATE_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`,
+  );
+  headers.append(
+    "Set-Cookie",
+    `${REDIRECT_COOKIE}=; Path=/; Max-Age=0; HttpOnly; Secure; SameSite=Lax`,
+  );
 }
 
 function redirectWithError(request: Request, code: string): Response {
@@ -119,7 +126,9 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
       return Array.from(buf, (b) => b.toString(16).padStart(2, "0")).join("");
     })();
 
-    const expiresAt = new Date(Date.now() + SESSION_TTL_SECONDS * 1000).toISOString();
+    const expiresAt = new Date(
+      Date.now() + SESSION_TTL_SECONDS * 1000,
+    ).toISOString();
     const userAgent = request.headers.get("User-Agent") ?? null;
     const ip = request.headers.get("CF-Connecting-IP") ?? null;
 
@@ -132,7 +141,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     });
 
     const redirectPath = safeRedirectPath(
-      decodeURIComponent(readCookie(request, REDIRECT_COOKIE) ?? "")
+      decodeURIComponent(readCookie(request, REDIRECT_COOKIE) ?? ""),
     );
     const dest = new URL(redirectPath, request.url).toString();
 
@@ -142,7 +151,7 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     });
     headers.append(
       "Set-Cookie",
-      `${SESSION_COOKIE}=${sessionId}; Path=/; Max-Age=${SESSION_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`
+      `${SESSION_COOKIE}=${sessionId}; Path=/; Max-Age=${SESSION_TTL_SECONDS}; HttpOnly; Secure; SameSite=Lax`,
     );
     clearStateCookies(headers);
 
