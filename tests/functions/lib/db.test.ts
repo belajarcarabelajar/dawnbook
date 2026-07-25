@@ -1,8 +1,9 @@
-import { expect, test, describe } from "bun:test";
+import { expect, test, describe, it } from "bun:test";
 import {
   getUserByGoogleSub,
   getUserByEmail,
   getUserById,
+  generateUserId,
   type UserRow,
 } from "../../../functions/lib/db";
 import { createMockEnv, setQueryHandler } from "../../helpers/mocks";
@@ -84,5 +85,20 @@ describe("User fetch methods in db.ts", () => {
       const user = await getUserById(env.DB, "user_123");
       expect(user).toBeNull();
     });
+  });
+});
+
+describe("generateUserId", () => {
+  it("should generate a 32-character hex string", () => {
+    const id = generateUserId();
+    expect(typeof id).toBe("string");
+    expect(id.length).toBe(32);
+    expect(id).toMatch(/^[0-9a-f]{32}$/);
+  });
+
+  it("should generate unique ids", () => {
+    const id1 = generateUserId();
+    const id2 = generateUserId();
+    expect(id1).not.toEqual(id2);
   });
 });
