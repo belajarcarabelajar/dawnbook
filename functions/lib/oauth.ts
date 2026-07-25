@@ -73,12 +73,19 @@ export function buildAuthUrl(opts: {
  * Exchanges an authorization code for an access_token + id_token.
  * Throws on non-2xx with the response body for diagnostics.
  */
+export interface GoogleTokenResponse {
+  access_token: string;
+  expires_in: number;
+  id_token?: string;
+  token_type: string;
+}
+
 export async function exchangeCode(opts: {
   code: string;
   clientId: string;
   clientSecret: string;
   redirectUri: string;
-}): Promise<{ access_token: string; expires_in: number; id_token?: string; token_type: string }> {
+}): Promise<GoogleTokenResponse> {
   const body = new URLSearchParams({
     code: opts.code,
     client_id: opts.clientId,
@@ -94,7 +101,7 @@ export async function exchangeCode(opts: {
   if (!res.ok) {
     throw new Error(`Google token exchange failed: ${res.status} ${await res.text()}`);
   }
-  return (await res.json()) as any;
+  return (await res.json()) as GoogleTokenResponse;
 }
 
 export interface GoogleUserInfo {
