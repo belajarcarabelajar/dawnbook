@@ -159,12 +159,11 @@ async function checkLatexSupport() {
   let hasErrors = false;
 
   // 1. Verify all books have mathjax-support enabled
-  const entries = await readdir(booksDir);
+  const entries = await readdir(booksDir, { withFileTypes: true });
   for (const entry of entries) {
-    const bookPath = join(booksDir, entry);
-    const bookStat = await stat(bookPath);
+    const bookPath = join(booksDir, entry.name);
     
-    if (bookStat.isDirectory()) {
+    if (entry.isDirectory()) {
       try {
         const tomlPath = join(bookPath, "book.toml");
         const tomlContent = await readFile(tomlPath, "utf-8");
@@ -173,10 +172,10 @@ async function checkLatexSupport() {
         const hasKatex = tomlContent.includes("mdbook-katex");
         
         if (!hasMathjax && !hasKatex) {
-          console.error(`❌ [FAIL] ${entry}/book.toml is missing 'mathjax-support = true' under [output.html]`);
+          console.error(`❌ [FAIL] ${entry.name}/book.toml is missing 'mathjax-support = true' under [output.html]`);
           hasErrors = true;
         } else {
-          console.log(`✅ [PASS] ${entry} has LaTeX support enabled in book.toml.`);
+          console.log(`✅ [PASS] ${entry.name} has LaTeX support enabled in book.toml.`);
         }
       } catch (err) {
         // Not a book directory (e.g. no book.toml)
@@ -199,12 +198,11 @@ async function checkLatexSupport() {
   // 3. Scan book chapters for strict LaTeX syntax and style checks
   console.log("\n🔍 Starting KaTeX strict formula validation...");
   for (const entry of entries) {
-    const bookPath = join(booksDir, entry);
-    const bookStat = await stat(bookPath);
+    const bookPath = join(booksDir, entry.name);
     
-    if (bookStat.isDirectory() && entry !== "_template") {
+    if (entry.isDirectory() && entry.name !== "_template") {
       const srcDir = join(bookPath, "src");
-      hasErrors = (await scanDir(srcDir, entry)) || hasErrors;
+      hasErrors = (await scanDir(srcDir, entry.name)) || hasErrors;
     }
   }
 
