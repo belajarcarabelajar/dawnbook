@@ -24,6 +24,18 @@ describe("Admin BookService", () => {
       global.fetch = originalFetch;
     }
   });
+  test("fetchBooks throws on network error", async () => {
+    const originalFetch = global.fetch;
+    const networkError = new TypeError("Failed to fetch");
+    global.fetch = async () => { throw networkError; };
+
+    try {
+      await expect(BookService.fetchBooks()).rejects.toThrow("Failed to fetch");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
 
   test("deleteBook returns success message on 200", async () => {
     const originalFetch = global.fetch;
