@@ -52,4 +52,11 @@ describe("Inject Gating XSS Prevention Utilities", () => {
       expect(JSON.parse(output)).toBe(input);
     });
   });
+
+  describe("injected anti-FOUC script syntax", () => {
+    test("injected anti-FOUC inline script is valid JavaScript syntax", () => {
+      const scriptCode = '!function(){var e=window.location.pathname,t=null;try{t=sessionStorage.getItem("free_chapter_viewed")}catch(e){}if(t&&t!==e){document.documentElement.style.opacity="0",document.documentElement.style.visibility="hidden"}else{try{sessionStorage.setItem("free_chapter_viewed",e)}catch(e){}}}();';
+      expect(() => new Function(scriptCode)).not.toThrow();
+    });
+  });
 });
