@@ -33,7 +33,7 @@ Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sist
 - **Penggunaan Contoh:** Memberikan ilustrasi nyata dari kehidupan sehari-hari.
 - **Penekanan:** Memberikan penekanan pada bagian-bagian penting (misalnya dengan intonasi suara atau tulisan di papan).
 
-**Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \(L = \pi r^2\). Jelaskan dari mana \(\pi\) berasal: \(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\)
+**Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \\(L = \pi r^2\\). Jelaskan dari mana \\(\pi\\) berasal: \\(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\\)
 
 ## 3. Keterampilan Bertanya
 
@@ -113,7 +113,7 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 **Skenario:** Pak Budi mengajar IPA tentang fotosintesis.
 
 1. **Membuka:** Pak Budi membawa tanaman layu dan tanaman segar sebagai pemancing (*Menarik Perhatian*).
-2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: \(6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2\).
+2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: \\(6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2\\).
 3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
 4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
 5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).

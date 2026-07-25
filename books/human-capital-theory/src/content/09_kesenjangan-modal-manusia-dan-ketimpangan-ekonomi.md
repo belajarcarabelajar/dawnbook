@@ -34,19 +34,19 @@ Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apaka
 
 ### Representasi Matematis Ketimpangan Pendapatan
 
-Secara sederhana, jika pendapatan (\(Y\)) adalah fungsi dari modal manusia (\(H\)), tenaga kerja (\(L\)), dan modal fisik (\(K\)), maka:
+Secara sederhana, jika pendapatan (\\(Y\\)) adalah fungsi dari modal manusia (\\(H\\)), tenaga kerja (\\(L\\)), dan modal fisik (\\(K\\)), maka:
 
 $$
 Y = f(H, L, K)
 $$
 
-Di mana \(H\) dipengaruhi oleh lamanya sekolah (\(s\)) dan kualitas pendidikan (\(q\)):
+Di mana \\(H\\) dipengaruhi oleh lamanya sekolah (\\(s\\)) dan kualitas pendidikan (\\(q\\)):
 
 $$
 H = e^{\phi(s, q)}
 $$
 
-Jika kelompok mampu memiliki \(q\) yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai \(s\) (tahun sekolah) mereka sama, pendapatan \(Y\) mereka akan menunjukkan perbedaan yang eksponensial.
+Jika kelompok mampu memiliki \\(q\\) yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai \\(s\\) (tahun sekolah) mereka sama, pendapatan \\(Y\\) mereka akan menunjukkan perbedaan yang eksponensial.
 
 ## 3. Kesehatan: Fondasi Tersembunyi dari Produktivitas
 
@@ -102,6 +102,6 @@ $$
 \Delta Y_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
 $$
 
-Di mana \(r\) merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
+Di mana \\(r\\) merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
 
 *Refleksi untuk kamu:* Jika modal manusia adalah kunci kesejahteraan, apakah menurut kamu memberikan beasiswa saja sudah cukup untuk menghapus ketimpangan? Ataukah kita perlu memperbaiki infrastruktur kesehatan sejak bayi masih dalam kandungan untuk menciptakan kesetaraan kesempatan yang nyata?

@@ -19,7 +19,7 @@ Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jel
 
 ### Kalkulasi Kehilangan Waktu
 
-Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\) \(4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}\)
+Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \\(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\\) \\(4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}\\)
 
 75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
 

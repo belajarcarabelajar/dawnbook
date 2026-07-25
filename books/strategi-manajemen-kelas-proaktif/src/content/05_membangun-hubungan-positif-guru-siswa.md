@@ -46,12 +46,12 @@ $$
 
 Dimana:
 
-- \(K\) = Kesiapan Belajar
-- \(D\) = Dukungan Guru
-- \(P\) = Penerimaan Teman Sebaya
-- \(Kz\) = Kecemasan (Anxiety)
+- \\(K\\) = Kesiapan Belajar
+- \\(D\\) = Dukungan Guru
+- \\(P\\) = Penerimaan Teman Sebaya
+- \\(Kz\\) = Kecemasan (Anxiety)
 
-Semakin rendah nilai kecemasan (\(Kz\)), maka kesiapan belajar (\(K\)) akan meningkat secara eksponensial.
+Semakin rendah nilai kecemasan (\\(Kz\\)), maka kesiapan belajar (\\(K\\)) akan meningkat secara eksponensial.
 
 ### Langkah Menciptakan Keamanan Emosional:
 
