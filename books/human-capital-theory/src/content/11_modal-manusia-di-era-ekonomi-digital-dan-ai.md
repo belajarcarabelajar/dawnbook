@@ -1,4 +1,4 @@
-## Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
+# Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
 
 Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita telah membahas bagaimana pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, maka di bagian ini kita akan menjelajahi bagaimana aturan main tersebut berubah total akibat revolusi digital dan kecerdasan buatan (*Artificial Intelligence* - AI).
 

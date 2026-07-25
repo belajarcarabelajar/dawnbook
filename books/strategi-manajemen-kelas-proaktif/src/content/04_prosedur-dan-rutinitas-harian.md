@@ -1,10 +1,10 @@
-## Prosedur dan Rutinitas Harian: Membangun "Autopilot" dalam Pembelajaran
+# Prosedur dan Rutinitas Harian: Membangun "Autopilot" dalam Pembelajaran
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 
 Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pit stop" kamu. Tujuannya bukan untuk menciptakan lingkungan yang kaku seperti militer, melainkan untuk mengotomatiskan hal-hal teknis sehingga energi kognitif guru dan siswa dapat sepenuhnya difokuskan pada satu hal: **Pembelajaran**.
 
-## 1\. Memahami Perbedaan: Aturan vs. Prosedur
+## 1. Memahami Perbedaan: Aturan vs. Prosedur
 
 Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
 
@@ -13,13 +13,13 @@ Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaann
 
 > "Prosedur adalah cara kita melakukan sesuatu agar kelas berjalan lancar. Rutinitas adalah prosedur yang telah menjadi kebiasaan otomatis bagi siswa."
 
-## 2\. Arsitektur Transisi yang Efisien
+## 2. Arsitektur Transisi yang Efisien
 
 Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
 
 ### Kalkulasi Kehilangan Waktu
 
-Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \\(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\\) $4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}$
+Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\) $4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}$
 
 75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
 
@@ -31,7 +31,7 @@ Untuk mencapai efisiensi, gunakan teknik **Numbered Cues**:
 2. **Instruksi "Clear Out":** "Simpan buku matematika kamu, ambil buku catatan IPA."
 3. **Count Down:** Hitung mundur dari 10 ke 0 dengan tenang untuk memberikan rasa urgensi yang positif.
 
-## 3\. Manajemen Tugas dan Materi
+## 3. Manajemen Tugas dan Materi
 
 Manajemen kertas dan perangkat digital seringkali menjadi sumber kekacauan. Berikut adalah standarisasi yang dapat diterapkan:
 
@@ -46,7 +46,7 @@ Jangan biarkan siswa mengerumuni meja kamu untuk mengumpulkan tugas.
 
 Bagi kamu yang menyukai pendekatan sistematis, berikut adalah "kode" prosedur pengumpulan tugas:
 
-```
+```json
 IF tugas_selesai == TRUE:
    CHECK nama_dan_tanggal()
    MOVE_TO folder_sesuai_mapel()
@@ -57,7 +57,7 @@ ELSE:
    FOLLOW instruksi_tambahan()
 ```
 
-## 4\. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
+## 4. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
 
 Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa harus bertanya setiap saat.
 
@@ -73,7 +73,7 @@ Untuk mengurangi ketergantungan pada guru, terapkan aturan ini:
 
 Ini mendorong kolaborasi dan memastikan guru hanya menjawab pertanyaan yang benar-benar penting terkait materi pelajaran.
 
-## 5\. Implementasi: Metode T-R-R (Teach, Rehearse, Reinforce)
+## 5. Implementasi: Metode T-R-R (Teach, Rehearse, Reinforce)
 
 Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya sebuah materi pelajaran.
 

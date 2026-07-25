@@ -1,10 +1,10 @@
-## Teknik Pemindaian dan Kehadiran Guru: Membangun "Mata di Belakang Kepala"
+# Teknik Pemindaian dan Kehadiran Guru: Membangun "Mata di Belakang Kepala"
 
 Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Rahasianya bukan pada kekuatan super, melainkan pada keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
 
 Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang paling ampuh, bahkan sebelum kamu mengucapkan satu patah kata pun.
 
-## 1\. Konsep 'Withitness': Kewaspadaan Total
+## 1. Konsep 'Withitness': Kewaspadaan Total
 
 Istilah *Withitness* pertama kali dicetuskan oleh pakar psikologi pendidikan, Jacob Kounin. Secara sederhana, *withitness* adalah kemampuan guru untuk mengetahui apa yang sedang terjadi di setiap sudut kelas pada setiap saat.
 
@@ -18,7 +18,7 @@ Istilah *Withitness* pertama kali dicetuskan oleh pakar psikologi pendidikan, Ja
 2. **Target yang Tepat:** Jika terjadi gangguan, guru tahu persis siapa pemicunya dan merespons orang yang tepat.
 3. **Multitasking (Overlapping):** Kemampuan mengawasi seluruh kelas sambil tetap membantu satu siswa secara individual.
 
-## 2\. Teknik Pemindaian (Scanning) yang Efektif
+## 2. Teknik Pemindaian (Scanning) yang Efektif
 
 Pemindaian bukan sekadar melihat ke sekeliling, melainkan sebuah teknik visual yang sistematis untuk memastikan tidak ada "titik buta" di kelas kamu.
 
@@ -30,7 +30,7 @@ Pemindaian bukan sekadar melihat ke sekeliling, melainkan sebuah teknik visual y
 
 *Pertimbangkan hal berikut: Kapan terakhir kali kamu terjebak dalam diskusi mendalam dengan satu siswa sehingga kamu kehilangan kendali atas 29 siswa lainnya? Itulah yang disebut dengan "tunnel vision" atau pandangan terowongan.*
 
-## 3\. Mobilitas dan Posisi Strategis (Proximity Control)
+## 3. Mobilitas dan Posisi Strategis (Proximity Control)
 
 Kehadiran fisik kamu adalah instrumen manajemen yang kuat. Guru yang hanya duduk di belakang meja cenderung memiliki tingkat gangguan kelas yang lebih tinggi dibandingkan guru yang bergerak secara dinamis.
 
@@ -40,7 +40,7 @@ Kehadiran fisik kamu adalah instrumen manajemen yang kuat. Guru yang hanya duduk
 - **Kedekatan (Proximity):** Jika kamu melihat siswa mulai menyimpang dari tugas, mendekatlah ke arah mereka tanpa harus menghentikan penjelasan kamu. Seringkali, hanya dengan berdiri di dekat meja siswa, perilaku mengganggu akan berhenti secara otomatis.
 - **The "Power Position":** Saat memberikan instruksi penting, berdirilah di pusat perhatian. Namun, saat siswa bekerja mandiri, bergeraklah mengelilingi perimeter (pinggiran) kelas untuk memantau dari berbagai sudut.
 
-## 4\. Bahasa Tubuh dan Kehadiran Guru
+## 4. Bahasa Tubuh dan Kehadiran Guru
 
 Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teacher Presence*) adalah tentang bagaimana kamu membawa diri untuk menunjukkan otoritas yang tenang dan penuh perhatian.
 
@@ -50,12 +50,12 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 2. **Ekspresi Wajah:** Gunakan ekspresi yang konsisten dengan situasi. Senyuman hangat untuk menyapa, dan tatapan serius namun tenang untuk mengoreksi perilaku.
 3. **Isyarat Tangan:** Gunakan tangan untuk mengarahkan fokus (misalnya, menunjuk buku atau papan tulis) untuk memperkuat instruksi verbal.
 
-**Matematika Kehadiran Guru:** \\(K = W + (M \times B)\\) Di mana:
+**Matematika Kehadiran Guru:** \(K = W + (M \times B)\) Di mana:
 
-- \\(K\\): Efektivitas Kendali Kelas
-- \\(W\\): *Withitness* (Kewaspadaan)
-- \\(M\\): Mobilitas (Pergerakan)
-- \\(B\\): Bahasa Tubuh yang Positif
+- \(K\): Efektivitas Kendali Kelas
+- \(W\): *Withitness* (Kewaspadaan)
+- \(M\): Mobilitas (Pergerakan)
+- \(B\): Bahasa Tubuh yang Positif
 
 ## Real-World Application: Skenario Praktis
 

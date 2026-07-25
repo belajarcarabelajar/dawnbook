@@ -4,7 +4,7 @@ Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya ada
 
 Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu menghargai setiap detik yang berlalu.
 
-## 1\. Kendali Suara: Instrumen Utama Sang Pendidik
+## 1. Kendali Suara: Instrumen Utama Sang Pendidik
 
 Suara adalah alat musik utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi sangat krusial.
 
@@ -30,7 +30,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 
 > "Suara yang dikelola dengan baik dapat mengubah informasi yang membosankan menjadi petualangan yang menarik."
 
-## 2\. Bahasa Tubuh: Pesan Tanpa Kata
+## 2. Bahasa Tubuh: Pesan Tanpa Kata
 
 Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
 
@@ -53,7 +53,7 @@ Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
 - **Center of Interest:** Jangan terpaku di satu titik (seperti patung). Bergeraklah ke sisi kiri atau kanan kelas secara natural.
 - **Postur:** Berdiri tegak menunjukkan kepercayaan diri. Hindari bersandar pada meja guru atau papan tulis.
 
-## 3\. Manajemen Waktu yang Ketat (The Clock is Ticking)
+## 3. Manajemen Waktu yang Ketat (The Clock is Ticking)
 
 Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Mengelola waktu ini adalah tantangan teknis terbesar.
 
@@ -70,7 +70,7 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 
 *Think about this: Jika kamu gagal menutup pelajaran dengan baik karena kehabisan waktu, siswa akan pulang dengan kebingungan tentang apa yang baru saja mereka pelajari.*
 
-## 4\. Mengelola Kegugupan (Stage Fright)
+## 4. Mengelola Kegugupan (Stage Fright)
 
 Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan sejawat atau dosen.
 

@@ -1,4 +1,4 @@
-## Fungsi Upah Mincer: Jantung Analisis Pendapatan dalam Ekonomi Tenaga Kerja
+# Fungsi Upah Mincer: Jantung Analisis Pendapatan dalam Ekonomi Tenaga Kerja
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 

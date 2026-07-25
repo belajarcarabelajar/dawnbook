@@ -10,7 +10,7 @@ Keterampilan Dasar Mengajar (KDM) adalah seperangkat kemampuan atau keterampilan
 
 Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fondasi bagi setiap pendidik. Mari kita bedah satu per satu secara mendalam.
 
-## 1\. Keterampilan Membuka Pelajaran
+## 1. Keterampilan Membuka Pelajaran
 
 *First impression matters.* Keterampilan ini adalah upaya guru dalam memberikan prakondisi agar mental dan perhatian siswa terpusat pada apa yang akan dipelajari.
 
@@ -23,7 +23,7 @@ Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fond
 
 > **Analogi:** Membuka pelajaran seperti sebuah *trailer* film. Jika *trailer* -nya membosankan, penonton tidak akan tertarik menonton film utuhnya.
 
-## 2\. Keterampilan Menjelaskan
+## 2. Keterampilan Menjelaskan
 
 Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sistematis untuk menunjukkan adanya hubungan antara satu hal dengan hal lainnya.
 
@@ -35,7 +35,7 @@ Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sist
 
 **Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \(L = \pi r^2\). Jelaskan dari mana \(\pi\) berasal: \(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\)
 
-## 3\. Keterampilan Bertanya
+## 3. Keterampilan Bertanya
 
 Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik tidak hanya memberikan jawaban, tetapi memicu pertanyaan.
 
@@ -44,14 +44,14 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 
 *Think about this: Apakah kamu sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
 
-## 4\. Keterampilan Memberikan Penguatan (Reinforcement)
+## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 
 Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun sangat bermakna.
 
 - **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
 - **Penguatan Non-Verbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).
 
-## 5\. Keterampilan Mengadakan Variasi
+## 5. Keterampilan Mengadakan Variasi
 
 Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar perhatian siswa tetap terjaga selama proses pembelajaran.
 
@@ -61,7 +61,7 @@ Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar
 2. **Variasi Penggunaan Media:** Menggunakan gambar, video, alat peraga, atau simulasi digital.
 3. **Variasi Pola Interaksi:** Berubah dari ceramah (guru-siswa) menjadi diskusi kelompok (siswa-siswa).
 
-## 6\. Keterampilan Membimbing Diskusi Kelompok Kecil
+## 6. Keterampilan Membimbing Diskusi Kelompok Kecil
 
 Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan masalah bersama. Peran guru di sini adalah sebagai **fasilitator**, bukan pendominasi.
 
@@ -73,7 +73,7 @@ Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan
 - Meningkatkan partisipasi siswa yang pasif.
 - Menutup diskusi dengan rangkuman bersama.
 
-## 7\. Keterampilan Mengelola Kelas
+## 7. Keterampilan Mengelola Kelas
 
 Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar yang optimal serta mengendalikan kondisi jika terjadi gangguan.
 
@@ -94,7 +94,7 @@ else:
     lanjutkan_pembelajaran()
 ```
 
-## 8\. Keterampilan Menutup Pelajaran
+## 8. Keterampilan Menutup Pelajaran
 
 Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
 

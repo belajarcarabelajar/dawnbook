@@ -1,10 +1,10 @@
-## Manajemen Konflik dan Restorative Practices: Memulihkan Hubungan, Membangun Karakter
+# Manajemen Konflik dan Restorative Practices: Memulihkan Hubungan, Membangun Karakter
 
 Konflik di dalam kelas seringkali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
 
 Tujuan utama kita bukan sekadar menghentikan keributan, melainkan memulihkan harmoni dan memastikan setiap individu belajar bertanggung jawab atas tindakan mereka.
 
-### 1\. Paradigma: Punitive vs. Restorative
+### 1. Paradigma: Punitive vs. Restorative
 
 Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pendekatan disiplin tradisional (hukuman) dan pendekatan restoratif.
 
@@ -18,7 +18,7 @@ Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pend
 
 > **Analogi Jembatan Retak:** Bayangkan dua orang siswa yang berkonflik sebagai dua sisi sungai yang dihubungkan oleh sebuah jembatan (hubungan mereka). Hukuman tradisional seperti menghancurkan sisa jembatan tersebut agar mereka tidak saling bertemu. Praktik restoratif adalah mengajak kedua siswa tersebut untuk bersama-sama menambal retakan jembatan agar komunikasi bisa mengalir kembali.
 
-### 2\. Lima Pertanyaan Ajaib (Restorative Questions)
+### 2. Lima Pertanyaan Ajaib (Restorative Questions)
 
 Salah satu alat paling kuat dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengarahkan siswa pada refleksi, bukan pembelaan diri.
 
@@ -39,7 +39,7 @@ Salah satu alat paling kuat dalam manajemen konflik adalah serangkaian pertanyaa
 
 *Pertimbangkan hal berikut: Pernahkah kamu bertanya "Mengapa kamu melakukannya?" kepada siswa yang sedang emosi? Biasanya mereka akan menjawab "Tidak tahu" atau memberikan alasan defensif. Pertanyaan "Apa yang terjadi?" jauh lebih efektif untuk membuka dialog.*
 
-### 3\. Komponen Utama Restorative Practices
+### 3. Komponen Utama Restorative Practices
 
 Untuk menerapkan pendekatan ini secara efektif, terdapat tingkatan intervensi yang bisa digunakan:
 
@@ -65,19 +65,19 @@ Pertemuan seluruh atau sebagian kelas untuk membahas masalah yang berdampak luas
 
 Pertemuan terstruktur yang melibatkan siswa, guru, dan kadang orang tua untuk masalah yang lebih serius (seperti perundungan).
 
-### 4\. Implementasi Langkah demi Langkah
+### 4. Implementasi Langkah demi Langkah
 
 Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
 
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
 3. **Membangun Empati:** Bantu si pelaku memahami dampak emosional pada korban.
-	- *Formula Logika Empati:* \\(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\\)
+	- *Formula Logika Empati:* \(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\)
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
 	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
 
-### 5\. Skenario Dunia Nyata
+### 5. Skenario Dunia Nyata
 
 **Kasus:** Budi secara tidak sengaja merusak tugas prakarya milik Siti karena mereka sedang berebut ruang di meja. Siti marah dan mendorong Budi.
 
@@ -89,7 +89,7 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 - **Guru ke Siti:** "Siti, saya paham kamu marah karena karyamu rusak. Tapi saat kamu mendorong Budi, apa risikonya bagi keselamatan kelas kita?"
 - **Solusi Bersama:** Budi setuju membantu Siti mengelem bagian yang rusak selama jam istirahat, dan Siti setuju untuk menggunakan kata-kata (bukan tangan) jika dia merasa marah di masa depan.
 
-### 6\. Manfaat Jangka Panjang (Social-Emotional Learning)
+### 6. Manfaat Jangka Panjang (Social-Emotional Learning)
 
 Dengan menerapkan manajemen konflik ini, kamu sedang mengajarkan kurikulum tersembunyi (*hidden curriculum*):
 

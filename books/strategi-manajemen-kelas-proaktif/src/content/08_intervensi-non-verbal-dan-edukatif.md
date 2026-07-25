@@ -1,4 +1,4 @@
-## Intervensi Non-Verbal dan Edukatif: Seni Mengelola Kelas Tanpa Suara
+# Intervensi Non-Verbal dan Edukatif: Seni Mengelola Kelas Tanpa Suara
 
 Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa, namun tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
@@ -16,21 +16,21 @@ Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkin
 
 Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum bergerak ke intervensi yang lebih kentara.
 
-#### 1\. Kontak Mata dan Ekspresi Wajah (The Look)
+#### 1. Kontak Mata dan Ekspresi Wajah (The Look)
 
 Kontak mata adalah alat paling kuat namun paling sering diremehkan.
 
 - **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misal: siswa melamun), buat kontak mata selama 3-5 detik.
 - **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, namun tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
 
-#### 2\. Kontrol Kedekatan (Proximity Control)
+#### 2. Kontrol Kedekatan (Proximity Control)
 
 Siswa cenderung berperilaku lebih baik saat guru berada di dekat mereka.
 
 - **Mengajar Sambil Berjalan:** Jangan terpaku di depan kelas. Bergeraklah ke arah siswa yang mulai terdistraksi sambil tetap melanjutkan penjelasan kamu.
 - **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol seringkali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata pun.
 
-#### 3\. Sinyal Tangan dan Gestur
+#### 3. Sinyal Tangan dan Gestur
 
 Ciptakan "bahasa rahasia" antara kamu dan siswa yang sudah disepakati sebelumnya (lihat bagian *Prosedur dan Rutinitas Harian*).
 
@@ -58,7 +58,7 @@ Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *st
 
 Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi non-verbal proaktif:
 
-**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \\(A = \pi r^2\\).*
+**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \(A = \pi r^2\).*
 
 | Pendekatan Reaktif | Pendekatan Proaktif (Non-Verbal) |
 | --- | --- |
@@ -68,7 +68,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 
 ### Menjaga Alur Pembelajaran (The Continuity Principle)
 
-Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\\(Ei\\)) secara sederhana sebagai:
+Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\(Ei\)) secara sederhana sebagai:
 
 $$
 Ei = \frac{K}{D}
@@ -76,10 +76,10 @@ $$
 
 Di mana:
 
-- \\(K = \text{Kejelasan instruksi}\\)
-- \\(D = \text{Durasi interupsi terhadap kelas}\\)
+- \(K = \text{Kejelasan instruksi}\)
+- \(D = \text{Durasi interupsi terhadap kelas}\)
 
-Semakin kecil \\(D\\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
+Semakin kecil \(D\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 
 ### Real-World Application: Strategi "Non-Stop"
 

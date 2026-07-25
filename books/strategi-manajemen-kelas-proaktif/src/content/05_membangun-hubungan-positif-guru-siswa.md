@@ -1,10 +1,10 @@
-## Membangun Hubungan Positif Guru-Siswa
+# Membangun Hubungan Positif Guru-Siswa
 
 Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, namun tampak sangat tidak peduli di kelas guru lainnya? Jawabannya jarang sekali terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
 
 Dalam kerangka Manajemen Kelas Proaktif, hubungan positif bukanlah sekadar "sikap ramah". Ini adalah strategi teknis yang menciptakan fondasi emosional agar instruksi akademik dapat diterima dengan optimal. Tanpa hubungan yang kuat, aturan kelas hanyalah sekumpulan paksaan yang menunggu untuk dilanggar.
 
-## 1\. Mengenal Karakteristik Individu: Strategi "Profil Siswa"
+## 1. Mengenal Karakteristik Individu: Strategi "Profil Siswa"
 
 Setiap siswa datang ke kelas dengan "tas ransel" yang berbeda, berisi minat, bakat, kecemasan, dan latar belakang budaya. Mengenal mereka secara individual adalah langkah pertama untuk membangun jembatan kepercayaan.
 
@@ -20,7 +20,7 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 
 > **Analogi: Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
 
-## 2\. Membangun Kepercayaan Melalui Kehadiran Otentik
+## 2. Membangun Kepercayaan Melalui Kehadiran Otentik
 
 Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui konsistensi dan empati. Siswa perlu merasa bahwa kamu adalah orang dewasa yang dapat diandalkan dan peduli pada keberhasilan mereka.
 
@@ -32,7 +32,7 @@ Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui kons
 
 *Pertimbangkan hal berikut: Apakah kamu lebih sering berbicara "kepada" siswa atau berbicara "dengan" siswa? Pergeseran preposisi ini mengubah seluruh dinamika kekuasaan di kelas.*
 
-## 3\. Menciptakan Iklim Emosional yang Aman
+## 3. Menciptakan Iklim Emosional yang Aman
 
 Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
 
@@ -46,12 +46,12 @@ $$
 
 Dimana:
 
-- \\(K\\) = Kesiapan Belajar
-- \\(D\\) = Dukungan Guru
-- \\(P\\) = Penerimaan Teman Sebaya
-- \\(Kz\\) = Kecemasan (Anxiety)
+- \(K\) = Kesiapan Belajar
+- \(D\) = Dukungan Guru
+- \(P\) = Penerimaan Teman Sebaya
+- \(Kz\) = Kecemasan (Anxiety)
 
-Semakin rendah nilai kecemasan (\\(Kz\\)), maka kesiapan belajar (\\(K\\)) akan meningkat secara eksponensial.
+Semakin rendah nilai kecemasan (\(Kz\)), maka kesiapan belajar (\(K\)) akan meningkat secara eksponensial.
 
 ### Langkah Menciptakan Keamanan Emosional:
 
@@ -59,7 +59,7 @@ Semakin rendah nilai kecemasan (\\(Kz\\)), maka kesiapan belajar (\\(K\\)) akan 
 - **Validasi Perasaan**: Sebelum mengoreksi perilaku, validasi emosinya. *"Ibu lihat kamu sedang sangat kesal sekarang, tapi kita tidak bisa melempar buku. Mari bicara sebentar."*
 - **Ritual Penyambutan**: Berdiri di depan pintu dan sapa setiap siswa dengan nama mereka saat masuk. Penelitian menunjukkan hal ini dapat meningkatkan keterlibatan akademik hingga 20%.
 
-## 4\. Fondasi Disiplin Positif: "Connect Before Correct"
+## 4. Fondasi Disiplin Positif: "Connect Before Correct"
 
 Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat, kamu tidak lagi membutuhkan hukuman yang keras untuk mengarahkan perilaku.
 

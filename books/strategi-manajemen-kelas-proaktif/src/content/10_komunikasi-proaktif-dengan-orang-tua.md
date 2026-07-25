@@ -1,10 +1,10 @@
-## Komunikasi Proaktif dengan Orang Tua: Membangun Jembatan Keberhasilan Siswa
+# Komunikasi Proaktif dengan Orang Tua: Membangun Jembatan Keberhasilan Siswa
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 
 **Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana namun kuat: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
 
-## 1\. Paradigma Baru: Dari Reaktif ke Proaktif
+## 1. Paradigma Baru: Dari Reaktif ke Proaktif
 
 Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
 
@@ -19,7 +19,7 @@ Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaks
 | **Peran Orang Tua** | Penerima laporan "hukuman". | Mitra dalam proses belajar. |
 | **Dampak Psikologis** | Defensif dan cemas. | Terbuka dan kooperatif. |
 
-## 2\. Sistem Pelaporan Perkembangan Positif
+## 2. Sistem Pelaporan Perkembangan Positif
 
 Langkah pertama dalam komunikasi proaktif adalah membangun kebiasaan melaporkan **hal-hal kecil yang berjalan dengan baik**.
 
@@ -31,9 +31,9 @@ Jangan menunggu nilai ujian 100 untuk menghubungi orang tua. Laporkan perubahan 
 
 ### Menggunakan Rumus 3:13:1
 
-Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \\(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
+Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
 
-## 3\. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
+## 3. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
 
 Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
 
@@ -45,7 +45,7 @@ Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua 
 
 > **Insight Penting:** Anak-anak merasa lebih aman dan cenderung berperilaku lebih baik ketika mereka tahu bahwa guru dan orang tua mereka "berbicara dalam bahasa yang sama" dan saling mendukung.
 
-## 4\. Saluran Komunikasi dan Teknologi
+## 4. Saluran Komunikasi dan Teknologi
 
 Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasan profesional guru.
 
@@ -55,7 +55,7 @@ Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasa
 
 *Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelpon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Betapa kuatnya dampak ini bagi iklim kelas kamu?*
 
-## 5\. Menangani Percakapan Sulit dengan Teknik Sandwich
+## 5. Menangani Percakapan Sulit dengan Teknik Sandwich
 
 Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat masalah terjadi, gunakan **Metode Sandwich** untuk menjaga kolaborasi:
 
@@ -67,7 +67,7 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 **Konteks:** Seorang siswa sering mengganggu teman saat jam pelajaran.
 
-```
+```python
 Kepada Ibu Maya,
 
 (Roti Atas)
@@ -85,7 +85,7 @@ untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas
 agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya."
 ```
 
-## 6\. Real-World Application: Rencana Aksi 30 Hari
+## 6. Real-World Application: Rencana Aksi 30 Hari
 
 Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah praktisnya:
 

@@ -14,7 +14,7 @@ Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah up
 
 Proses re-teaching tidak dimulai saat kamu berdiri di depan kelas lagi, melainkan dimulai segera setelah sesi umpan balik berakhir. Berikut adalah langkah-langkah sistematisnya:
 
-### 1\. Analisis Celah (Gap Analysis)
+### 1. Analisis Celah (Gap Analysis)
 
 Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rekaman video.
 
@@ -22,7 +22,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
 - Apakah masalahnya ada pada **manajemen waktu**, **penggunaan media**, atau **teknik bertanya**?
 - Gunakan logika sederhana ini: \(\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}\)
 
-### 2\. Revisi RPP (Refining the Blueprint)
+### 2. Revisi RPP (Refining the Blueprint)
 
 Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
@@ -30,14 +30,14 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 - **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
-### 3\. Simulasi Mandiri (The Mental Rehearsal)
+### 3. Simulasi Mandiri (The Mental Rehearsal)
 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
 - Praktikkan transisi antar langkah pembelajaran yang telah direvisi.
 - *Think about this: Apakah perubahan yang kamu buat terasa lebih alami atau justru membuat kamu canggung?*
 
-### 4\. Pelaksanaan Re-teaching
+### 4. Pelaksanaan Re-teaching
 
 Pada tahap ini, kamu kembali ke "laboratorium" mengajar.
 

@@ -1,4 +1,4 @@
-## Strategi Keterlibatan Siswa Aktif
+# Strategi Keterlibatan Siswa Aktif
 
 Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama, ceramah yang monoton, atau ketika siswa merasa tidak memiliki peran dalam pembelajaran?
 
@@ -6,7 +6,7 @@ Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk di
 
 **Strategi Keterlibatan Siswa Aktif** adalah instrumen utama dalam manajemen kelas proaktif. Filosofinya sederhana: *Siswa yang sibuk belajar secara bermakna tidak memiliki waktu untuk mengganggu.*
 
-## 1\. Memahami Hubungan Antara Keterlibatan dan Perilaku
+## 1. Memahami Hubungan Antara Keterlibatan dan Perilaku
 
 Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dengan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
 
@@ -16,13 +16,13 @@ $$
 
 Di mana:
 
-- \\(P(G)\\) adalah Probabilitas Gangguan.
-- \\(E\\) adalah *Engagement* (Keterlibatan).
-- \\(K\\) adalah Kejelasan Instruksi.
+- \(P(G)\) adalah Probabilitas Gangguan.
+- \(E\) adalah *Engagement* (Keterlibatan).
+- \(K\) adalah Kejelasan Instruksi.
 
 Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku yang menyimpang. Strategi ini bukan sekadar tentang membuat siswa "sibuk", melainkan membuat mereka **terkoneksi secara kognitif dan emosional** dengan materi pelajaran.
 
-## 2\. Teknik Partisipasi Total (Total Participation Techniques)
+## 2. Teknik Partisipasi Total (Total Participation Techniques)
 
 Seringkali guru terjebak dalam pola interaksi "satu-ke-satu" (Guru bertanya, satu siswa menjawab, tiga puluh lainnya pasif). Untuk meminimalisir peluang distraksi, kita perlu menggunakan teknik yang melibatkan seluruh siswa secara simultan.
 
@@ -46,7 +46,7 @@ Gunakan jempol ke atas (paham), jempol ke samping (ragu-ragu), atau jempol ke ba
 
 > **Insight Penting:** Partisipasi total menghilangkan "zona nyaman untuk melamun" bagi siswa yang biasanya kurang percaya diri atau cenderung mencari perhatian melalui perilaku negatif.
 
-## 3\. Struktur Pembelajaran Kooperatif
+## 3. Struktur Pembelajaran Kooperatif
 
 Pembelajaran aktif sering kali melibatkan kerja kelompok. Namun, tanpa struktur yang jelas, kerja kelompok bisa berubah menjadi kekacauan. Gunakan teknik **Jigsaw** atau **Numbered Heads Together**.
 
@@ -59,7 +59,7 @@ Pembelajaran aktif sering kali melibatkan kerja kelompok. Namun, tanpa struktur 
 
 *Pertimbangkan hal berikut: Bagaimana perasaan siswa jika mereka tahu bahwa keberhasilan kelompok bergantung pada kesiapan setiap individu? Hal ini menciptakan akuntabilitas individu dalam konteks sosial.*
 
-## 4\. Pacing dan Variasi Instruksional
+## 4. Pacing dan Variasi Instruksional
 
 Kecepatan (*pacing*) pelajaran yang terlalu lambat adalah undangan bagi siswa untuk mulai mengobrol. Sebaliknya, yang terlalu cepat akan membuat mereka frustrasi dan menyerah.
 
@@ -71,7 +71,7 @@ Gunakan struktur ini untuk menjaga ritme kelas:
 - **Chew (5-10 menit):** Biarkan siswa "mengunyah" informasi tersebut melalui aktivitas (diskusi, membuat diagram, atau menulis ringkasan).
 - **Check (2-5 menit):** Lakukan pengecekan pemahaman secara cepat sebelum berpindah ke topik berikutnya.
 
-## 5\. Implementasi Teknologi dan Gamifikasi
+## 5. Implementasi Teknologi dan Gamifikasi
 
 Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan secara instan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
 
@@ -91,7 +91,7 @@ def check_engagement(student_response, time_taken):
         return "Coba lagi! Ingat konsep X yang baru kita bahas."
 ```
 
-## 6\. Real-world Application: Studi Kasus
+## 6. Real-world Application: Studi Kasus
 
 **Kasus:** Ibu Ratna mengajar Sejarah di jam terakhir hari Jumat. Siswa cenderung gelisah, sering meminta izin ke belakang, dan mulai membuat kegaduhan kecil.
 
@@ -104,7 +104,7 @@ def check_engagement(student_response, time_taken):
 
 **Hasil:** Karena setiap siswa memiliki "peran" dan "misi", energi mereka yang awalnya digunakan untuk mengganggu dialihkan menjadi energi kompetitif yang sehat dalam konteks akademis.
 
-## 7\. Strategi untuk Berbagai Gaya Belajar
+## 7. Strategi untuk Berbagai Gaya Belajar
 
 Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar:
 

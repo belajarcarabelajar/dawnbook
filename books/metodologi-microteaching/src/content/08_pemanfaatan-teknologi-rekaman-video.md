@@ -4,7 +4,7 @@ Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima
 
 Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang paling jujur. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
-## 1\. Urgensi Rekaman Video dalam Microteaching
+## 1. Urgensi Rekaman Video dalam Microteaching
 
 Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
 
@@ -14,7 +14,7 @@ Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita la
 
 > "Video adalah cermin yang tidak hanya memantulkan wajah, tapi juga memantulkan metodologi dan energi seorang guru di dalam kelas."
 
-## 2\. Aspek Teknis Pengambilan Video
+## 2. Aspek Teknis Pengambilan Video
 
 Untuk mendapatkan video yang berkualitas dan layak dianalisis, kamu tidak memerlukan kru film profesional. Namun, kamu harus memahami beberapa prinsip dasar videografi berikut:
 
@@ -39,7 +39,7 @@ Audio seringkali lebih penting daripada video. Jika kualitas gambar buruk, kita 
 - **Gunakan Mikrofon Eksternal:** Jika memungkinkan, gunakan *clip-on* atau *wireless mic*.
 - **Kontrol Kebisingan:** Matikan kipas angin yang berisik atau tutup pintu untuk meredam suara koridor.
 
-## 3\. Strategi Penempatan Kamera
+## 3. Strategi Penempatan Kamera
 
 Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
 
@@ -50,7 +50,7 @@ Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
 	- *Kelebihan:* Bisa melakukan *zoom-in* pada momen penting seperti saat guru membimbing siswa secara individu.
 		- *Kekurangan:* Berisiko gambar goyang (*shaky*) jika tidak menggunakan *gimbal*.
 
-## 4\. Alur Kerja Dokumentasi Digital
+## 4. Alur Kerja Dokumentasi Digital
 
 Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standarisasi dokumentasi berikut:
 
@@ -63,7 +63,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 - **Resolusi:** Minimal 720p (HD) untuk keseimbangan antara kejernihan dan ukuran file.
 - **Format:** `.mp4` (H.264) karena kompatibel dengan hampir semua perangkat dan platform evaluasi.
 
-## 5\. Real-World Application: Skenario Simulasi
+## 5. Real-World Application: Skenario Simulasi
 
 **Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelas" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
 
@@ -71,7 +71,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 - **Langkah 2 (Eksekusi):** Rekan sejawat menekan tombol *record* 5 detik sebelum Sarah memulai untuk memastikan bagian awal tidak terpotong.
 - **Langkah 3 (Pengecekan):** Setelah selesai, Sarah langsung melakukan *spot-check* (mengecek audio di detik ke-30, menit ke-5, dan akhir) untuk memastikan suara terekam jelas sebelum meninggalkan ruangan.
 
-## 6\. Etika dan Legalitas Rekaman
+## 6. Etika dan Legalitas Rekaman
 
 Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa model atau rekan).
 

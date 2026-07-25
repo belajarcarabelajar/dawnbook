@@ -1,4 +1,4 @@
-## Kritik: Teori Sinyal dan Penyaringan (Signaling vs Screening)
+# Kritik: Teori Sinyal dan Penyaringan (Signaling vs Screening)
 
 Bayangkan kamu adalah seorang manajer HR yang harus memilih satu dari 500 pelamar kerja untuk posisi analis data. Kamu tidak punya waktu untuk mengamati kinerja mereka selama satu bulan penuh sebelum memutuskan. Apa yang kamu lihat pertama kali? **Ijazah.**
 

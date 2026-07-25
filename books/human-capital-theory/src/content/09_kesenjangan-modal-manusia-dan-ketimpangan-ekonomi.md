@@ -1,4 +1,4 @@
-## Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
+# Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
 
 Pernahkah kamu membayangkan sebuah perlombaan lari di mana satu peserta memulai dari garis start yang bersih dan memakai sepatu lari mutakhir, sementara peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang? Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
 

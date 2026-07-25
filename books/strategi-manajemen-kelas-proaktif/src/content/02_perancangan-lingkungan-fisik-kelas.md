@@ -1,10 +1,10 @@
-## Perancangan Lingkungan Fisik Kelas: Arsitektur Keberhasilan Pembelajaran
+# Perancangan Lingkungan Fisik Kelas: Arsitektur Keberhasilan Pembelajaran
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 
 Sama halnya dengan ruang kelas. Lingkungan fisik bukan sekadar "dekorasi", melainkan **instrumen manajemen proaktif**. Lingkungan yang dirancang dengan cerdas dapat mengurangi gangguan perilaku hingga 30% bahkan sebelum kamu mengucapkan sepatah kata pun.
 
-## 1\. Filosofi "Ruang sebagai Guru Ketiga"
+## 1. Filosofi "Ruang sebagai Guru Ketiga"
 
 Dalam dunia pendidikan, terdapat konsep bahwa lingkungan adalah **"Guru Ketiga"** (setelah orang tua dan guru itu sendiri). Lingkungan fisik mengirimkan pesan non-verbal kepada siswa tentang bagaimana mereka harus berperilaku.
 
@@ -16,19 +16,19 @@ Dalam dunia pendidikan, terdapat konsep bahwa lingkungan adalah **"Guru Ketiga"*
 2. **Aksesibilitas:** Siswa harus bisa mengambil materi tanpa mengganggu teman lainnya.
 3. **Distraksi Minimal:** Area dengan kepadatan tinggi (seperti tempat rautan pensil atau loker) harus diletakkan jauh dari area konsentrasi.
 
-## 2\. Strategi Pengaturan Tata Letak Meja
+## 2. Strategi Pengaturan Tata Letak Meja
 
 Tidak ada satu ukuran untuk semua. Tata letak meja harus mengikuti **tujuan instruksional** kamu, bukan sebaliknya.
 
 *Pertimbangkan hal berikut: Jika besok kamu akan mengadakan debat kelas, tata letak mana yang paling mendukung tujuan tersebut? Jika lusa adalah ujian akhir, apakah kamu akan tetap menggunakan tata letak yang sama?*
 
-## 3\. Mengoptimalkan Aliran Pergerakan (Traffic Flow)
+## 3. Mengoptimalkan Aliran Pergerakan (Traffic Flow)
 
 Gangguan sering terjadi saat siswa bergerak (transisi). Misalnya, saat mengambil buku atau membuang sampah. Untuk meminimalisir ini, kita bisa menggunakan "Logika Supermarket".
 
 ### Rumus Efisiensi Ruang:
 
-Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\\(E\\)) sebagai fungsi dari jarak (\\(d\\)) dan hambatan (\\(o\\)): \\(E \propto \frac{1}{\sum (d \cdot o)}\\) *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
+Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\(E\)) sebagai fungsi dari jarak (\(d\)) dan hambatan (\(o\)): \(E \propto \frac{1}{\sum (d \cdot o)}\) *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
 
 **Langkah Praktis:**
 
@@ -36,7 +36,7 @@ Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\\(E\\)) seb
 2. **Lebar Jalur:** Pastikan ada jalur yang cukup luas bagi kamu untuk berjalan ke arah siswa mana pun dalam waktu kurang dari 5 detik (Prinsip *Proximity*).
 3. **Zonasi:** Bagi kelas menjadi zona-zona yang jelas (Zona Tenang, Zona Kolaborasi, Zona Sumber Daya).
 
-## 4\. Aksesibilitas Sumber Daya dan Kemandirian
+## 4. Aksesibilitas Sumber Daya dan Kemandirian
 
 Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru untuk hal-hal sepele.
 
@@ -48,7 +48,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 > Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang drastis karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
 
-## 5\. Meminimalisir Distraksi Sensorik
+## 5. Meminimalisir Distraksi Sensorik
 
 Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang dirasakan.
 
@@ -56,7 +56,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu flouresens yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
 - **Area "Cool Down":** Sediakan satu pojok kecil dengan kursi nyaman atau karpet untuk siswa yang merasa kewalahan secara emosional.
 
-## 6\. Skenario Kasus: Transformasi Ruang
+## 6. Skenario Kasus: Transformasi Ruang
 
 **Masalah:** Ibu Sari memiliki kelas yang sangat aktif. Setiap kali ia meminta siswa mengumpulkan tugas ke mejanya di depan, terjadi aksi saling dorong dan kelas menjadi gaduh selama 5 menit.
 

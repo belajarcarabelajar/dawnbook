@@ -4,7 +4,7 @@ Pernahkah kamu duduk di sebuah seminar di mana pembicaranya berbicara dengan nad
 
 Dalam dunia pendidikan, **monotoni adalah musuh utama pembelajaran.** Guru yang hebat bukan hanya mereka yang menguasai materi, tetapi mereka yang mampu menjaga "api" perhatian siswa tetap menyala. Di sinilah peran krusial dari dua keterampilan dasar mengajar: **Variasi Stimulus** dan **Keterampilan Bertanya**.
 
-## 1\. Keterampilan Mengadakan Variasi Stimulus
+## 1. Keterampilan Mengadakan Variasi Stimulus
 
 Variasi stimulus adalah upaya guru untuk mengubah perilaku dalam proses interaksi belajar mengajar yang bertujuan untuk mengatasi kebosanan siswa, sehingga siswa memiliki antusiasme yang tinggi dan penuh perhatian.
 
@@ -42,7 +42,7 @@ Jangan hanya menggunakan pola satu arah (\text{Guru} \rightarrow \text{Siswa}). 
 - **Siswa - Guru:** Siswa yang mengajukan inisiatif pertanyaan.
 - **Siswa - Siswa:** Diskusi kelompok atau kerja berpasangan.
 
-## 2\. Keterampilan Bertanya (Questioning Skills)
+## 2. Keterampilan Bertanya (Questioning Skills)
 
 Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **bertanya** adalah cara kita memastikan otak mereka bekerja. Bertanya bukan sekadar meminta jawaban, melainkan alat untuk menuntun proses berpikir.
 

@@ -14,19 +14,19 @@ Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja t
 
 Melakukan refleksi bukan hanya sekadar menonton video sambil minum kopi. Diperlukan prosedur yang terstruktur agar analisis menjadi objektif:
 
-### 1\. Tahap Persiapan Mental (Detasemen Diri)
+### 1. Tahap Persiapan Mental (Detasemen Diri)
 
 Sebelum menekan tombol *play*, lepaskan ego kamu. Sangat wajar jika kamu merasa aneh atau tidak nyaman mendengar suara sendiri atau melihat ekspresi wajah sendiri di layar.
 
 > **Insight:** Fokuslah pada peran kamu sebagai "pengamat profesional", bukan sebagai "kritikus diri" yang kejam. Lihatlah sosok di video tersebut sebagai orang lain yang sedang kamu bantu untuk berkembang.
 
-### 2\. Pengamatan Pertama: Kesan Menyeluruh (Holistik)
+### 2. Pengamatan Pertama: Kesan Menyeluruh (Holistik)
 
 Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunakan fase ini untuk merasakan alur dan "energi" kelas.
 
 - *Pikirkan tentang ini: Bagaimana suasana perasaan (mood) yang terbangun di kelas tersebut? Apakah tampak membosankan, tegang, atau menyenangkan?*
 
-### 3\. Pengamatan Kedua: Analisis Terfokus (Kodifikasi)
+### 3. Pengamatan Kedua: Analisis Terfokus (Kodifikasi)
 
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
@@ -34,7 +34,7 @@ Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan 
 - Catat durasi waktu (time-stamp).
 - Gunakan rumus sederhana untuk melihat manajemen waktu: \(\Delta T = T_{\text{aktual}} - T_{\text{rencana}}\) Jika \(\Delta T\) bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
-### 4\. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
+### 4. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
 
 Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP dengan apa yang terekam di video.
 

@@ -603,8 +603,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -1790,8 +1790,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2762,8 +2762,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4012,8 +4012,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4724,8 +4724,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4743,13 +4743,13 @@ VALUES (
   'Manajemen Pendidikan',
   '<!-- Chapter: 01_pengantar-manajemen-kelas-proaktif -->
 
-## Pengantar Manajemen Kelas Proaktif
+# Pengantar Manajemen Kelas Proaktif
 
 Selamat datang di modul pertama dari perjalanan kamu menuju pengelolaan kelas yang lebih bermakna. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
-## 1\. Filosofi Dasar: Dari "Pemadam Kebakaran" Menjadi "Arsitek"
+## 1. Filosofi Dasar: Dari "Pemadam Kebakaran" Menjadi "Arsitek"
 
 Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Mereka berkeliling kelas hanya untuk memadamkan "api" perilaku buruk yang muncul secara tiba-tiba. Pendekatan ini melelahkan, membuat stres, dan seringkali tidak efektif dalam jangka panjang.
 
@@ -4770,7 +4770,7 @@ Bayangkan kamu sedang membangun sebuah gedung.
 - **Pendekatan Reaktif** adalah membiarkan gedung dibangun sembarangan, lalu sibuk memadamkan api saat terjadi korsleting listrik.
 - **Pendekatan Proaktif** adalah memasang sistem kabel yang standar, alarm asap, dan jalur evakuasi sejak awal. kamu memastikan "kebakaran" kecil sekalipun tidak akan menghanguskan seluruh gedung.
 
-## 2\. Proaktif vs. Reaktif: Memahami Perbedaan Mendasar
+## 2. Proaktif vs. Reaktif: Memahami Perbedaan Mendasar
 
 Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan manajemen reaktif yang masih banyak dipraktikkan.
 
@@ -4784,7 +4784,7 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 
 *Pertimbangkan hal berikut: Coba ingat kembali pengalaman mengajar kamu dalam seminggu terakhir. Berapa persen waktu kamu dihabiskan untuk "memadamkan api" perilaku dan berapa persen untuk benar-benar mengajar?*
 
-## 3\. Rumus Keberhasilan Kelas Proaktif
+## 3. Rumus Keberhasilan Kelas Proaktif
 
 Secara konseptual, keberhasilan sebuah kelas yang proaktif dapat digambarkan melalui fungsi sederhana berikut:
 
@@ -4794,14 +4794,14 @@ $$
 
 Di mana:
 
-- **\\(K_p\\)**: Keberhasilan Pembelajaran
-- **\\(S\\)**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
-- **\\(R\\)**: Relasi (Hubungan guru-siswa yang positif)
-- **\\(K\\)**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
+- **\(K_p\)**: Keberhasilan Pembelajaran
+- **\(S\)**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
+- **\(R\)**: Relasi (Hubungan guru-siswa yang positif)
+- **\(K\)**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
 
 Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan meningkat secara eksponensial.
 
-## 4\. Manfaat Jangka Panjang bagi Ekosistem Pembelajaran
+## 4. Manfaat Jangka Panjang bagi Ekosistem Pembelajaran
 
 Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang strategi proaktif? Manfaatnya melampaui sekadar kelas yang tenang:
 
@@ -4810,7 +4810,7 @@ Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang 
 3. **Membangun Kemandirian Siswa:** Dalam lingkungan yang proaktif, siswa tahu persis apa yang diharapkan dari mereka. Ini membantu mereka mengembangkan keterampilan regulasi diri.
 4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang prediktif (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memungkinkan korteks prefrontal bekerja maksimal untuk berpikir kritis.
 
-## 5\. Aplikasi Nyata: Skenario Transisi Kelas
+## 5. Aplikasi Nyata: Skenario Transisi Kelas
 
 Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 
@@ -4825,7 +4825,7 @@ Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 3. **Prosedur:** Guru memberikan aba-aba langkah demi langkah. *"Baris pertama silakan berdiri... jalan dengan tenang... duduk."*
 4. **Hasil:** Transisi selesai dalam 45 detik tanpa ketegangan.
 
-## 6\. Langkah Awal Menuju Manajemen Proaktif
+## 6. Langkah Awal Menuju Manajemen Proaktif
 
 Sebelum kita menyelami detail teknis pada bagian-bagian selanjutnya, mulailah dengan mengubah pola pikir (mindset) kamu:
 
@@ -4841,13 +4841,13 @@ Sebelum kita menyelami detail teknis pada bagian-bagian selanjutnya, mulailah de
 
 <!-- Chapter: 02_perancangan-lingkungan-fisik-kelas -->
 
-## Perancangan Lingkungan Fisik Kelas: Arsitektur Keberhasilan Pembelajaran
+# Perancangan Lingkungan Fisik Kelas: Arsitektur Keberhasilan Pembelajaran
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 
 Sama halnya dengan ruang kelas. Lingkungan fisik bukan sekadar "dekorasi", melainkan **instrumen manajemen proaktif**. Lingkungan yang dirancang dengan cerdas dapat mengurangi gangguan perilaku hingga 30% bahkan sebelum kamu mengucapkan sepatah kata pun.
 
-## 1\. Filosofi "Ruang sebagai Guru Ketiga"
+## 1. Filosofi "Ruang sebagai Guru Ketiga"
 
 Dalam dunia pendidikan, terdapat konsep bahwa lingkungan adalah **"Guru Ketiga"** (setelah orang tua dan guru itu sendiri). Lingkungan fisik mengirimkan pesan non-verbal kepada siswa tentang bagaimana mereka harus berperilaku.
 
@@ -4859,19 +4859,19 @@ Dalam dunia pendidikan, terdapat konsep bahwa lingkungan adalah **"Guru Ketiga"*
 2. **Aksesibilitas:** Siswa harus bisa mengambil materi tanpa mengganggu teman lainnya.
 3. **Distraksi Minimal:** Area dengan kepadatan tinggi (seperti tempat rautan pensil atau loker) harus diletakkan jauh dari area konsentrasi.
 
-## 2\. Strategi Pengaturan Tata Letak Meja
+## 2. Strategi Pengaturan Tata Letak Meja
 
 Tidak ada satu ukuran untuk semua. Tata letak meja harus mengikuti **tujuan instruksional** kamu, bukan sebaliknya.
 
 *Pertimbangkan hal berikut: Jika besok kamu akan mengadakan debat kelas, tata letak mana yang paling mendukung tujuan tersebut? Jika lusa adalah ujian akhir, apakah kamu akan tetap menggunakan tata letak yang sama?*
 
-## 3\. Mengoptimalkan Aliran Pergerakan (Traffic Flow)
+## 3. Mengoptimalkan Aliran Pergerakan (Traffic Flow)
 
 Gangguan sering terjadi saat siswa bergerak (transisi). Misalnya, saat mengambil buku atau membuang sampah. Untuk meminimalisir ini, kita bisa menggunakan "Logika Supermarket".
 
 ### Rumus Efisiensi Ruang:
 
-Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\\(E\\)) sebagai fungsi dari jarak (\\(d\\)) dan hambatan (\\(o\\)): \\(E \propto \frac{1}{\sum (d \cdot o)}\\) *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
+Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\(E\)) sebagai fungsi dari jarak (\(d\)) dan hambatan (\(o\)): \(E \propto \frac{1}{\sum (d \cdot o)}\) *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
 
 **Langkah Praktis:**
 
@@ -4879,7 +4879,7 @@ Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\\(E\\)) seb
 2. **Lebar Jalur:** Pastikan ada jalur yang cukup luas bagi kamu untuk berjalan ke arah siswa mana pun dalam waktu kurang dari 5 detik (Prinsip *Proximity*).
 3. **Zonasi:** Bagi kelas menjadi zona-zona yang jelas (Zona Tenang, Zona Kolaborasi, Zona Sumber Daya).
 
-## 4\. Aksesibilitas Sumber Daya dan Kemandirian
+## 4. Aksesibilitas Sumber Daya dan Kemandirian
 
 Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru untuk hal-hal sepele.
 
@@ -4891,7 +4891,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 > Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang drastis karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
 
-## 5\. Meminimalisir Distraksi Sensorik
+## 5. Meminimalisir Distraksi Sensorik
 
 Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang dirasakan.
 
@@ -4899,7 +4899,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu flouresens yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
 - **Area "Cool Down":** Sediakan satu pojok kecil dengan kursi nyaman atau karpet untuk siswa yang merasa kewalahan secara emosional.
 
-## 6\. Skenario Kasus: Transformasi Ruang
+## 6. Skenario Kasus: Transformasi Ruang
 
 **Masalah:** Ibu Sari memiliki kelas yang sangat aktif. Setiap kali ia meminta siswa mengumpulkan tugas ke mejanya di depan, terjadi aksi saling dorong dan kelas menjadi gaduh selama 5 menit.
 
@@ -4925,11 +4925,11 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 
 <!-- Chapter: 03_penetapan-norma-dan-kontrak-sosial -->
 
-## Penetapan Norma dan Kontrak Sosial: Membangun Fondasi Kepemilikan Bersama
+# Penetapan Norma dan Kontrak Sosial: Membangun Fondasi Kepemilikan Bersama
 
 Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka tidak lagi sekadar menaati aturan karena takut dihukum, melainkan karena mereka menghargai kesepakatan yang mereka buat sendiri.
 
-## 1\. Filosofi: Dari Kepatuhan Menuju Komitmen
+## 1. Filosofi: Dari Kepatuhan Menuju Komitmen
 
 Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun, dalam manajemen kelas proaktif, kita bergeser dari **Aturan** ke **Norma**.
 
@@ -4938,7 +4938,7 @@ Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun,
 
 > **Insight:** Kepatuhan (compliance) bersifat sementara dan hanya muncul saat ada pengawasan. Komitmen (commitment) bersifat menetap dan muncul dari dalam diri (intrinsik).
 
-## 2\. Proses Pembentukan Kontrak Sosial
+## 2. Proses Pembentukan Kontrak Sosial
 
 Melibatkan siswa dalam pembuatan aturan bukan berarti memberikan kendali penuh tanpa arah. Ini adalah proses fasilitasi yang terstruktur. Berikut adalah langkah-langkahnya:
 
@@ -4975,7 +4975,7 @@ $$
 
 Setelah draf disepakati, buatlah dokumen fisik yang menarik. Ini bukan sekadar kertas, ini adalah **Kontrak Sosial**. Mintalah setiap siswa (dan guru!) menandatanganinya. Penandatanganan secara fisik melibatkan aspek psikologis yang kuat terhadap komitmen.
 
-## 3\. Implementasi Berbasis Nilai Bersama
+## 3. Implementasi Berbasis Nilai Bersama
 
 Agar kontrak sosial tidak hanya menjadi hiasan dinding, ia harus diintegrasikan dalam interaksi harian.
 
@@ -4994,7 +4994,7 @@ Dalam kontrak sosial, jika terjadi pelanggaran, kita tidak menggunakan "hukuman"
 | Mengganggu teman | Disetrap/Keluar kelas | Pindah tempat duduk sementara untuk refleksi |
 | Tidak piket | Menulis "Saya janji..." 100x | Melakukan piket di hari berikutnya |
 
-## 4\. Real-World Application: Skenario Praktis
+## 4. Real-World Application: Skenario Praktis
 
 ### Skenario A: Kelas Dasar (Elementary)
 
@@ -5010,7 +5010,7 @@ Guru menggunakan pendekatan profesional seperti kontrak kerja di perusahaan tekn
 - **Guru:** "Kelas ini adalah laboratorium inovasi kita. Agar proyek kita sukses, protokol komunikasi apa yang ingin kalian tetapkan?"
 - **Hasil:** Kesepakatan tentang penggunaan *gadget* secara bertanggung jawab dan cara memberikan kritik yang membangun (constructive feedback).
 
-## 5\. Menjaga Kontrak Tetap Hidup
+## 5. Menjaga Kontrak Tetap Hidup
 
 Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berkala.
 
@@ -5019,7 +5019,7 @@ Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berk
 
 > **Pesan Penting:** Guru bukan polisi dari kontrak ini, melainkan penjaga gawang bersama. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
 
-## 6\. Contoh Struktur Kontrak Sosial (Digital/Teknis)
+## 6. Contoh Struktur Kontrak Sosial (Digital/Teknis)
 
 Jika kamu menggunakan platform manajemen kelas digital (seperti Google Classroom atau Notion), kamu bisa menyusun struktur kontrak dalam format yang terorganisir:
 
@@ -5046,13 +5046,13 @@ Jika kamu menggunakan platform manajemen kelas digital (seperti Google Classroom
 
 <!-- Chapter: 04_prosedur-dan-rutinitas-harian -->
 
-## Prosedur dan Rutinitas Harian: Membangun "Autopilot" dalam Pembelajaran
+# Prosedur dan Rutinitas Harian: Membangun "Autopilot" dalam Pembelajaran
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 
 Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pit stop" kamu. Tujuannya bukan untuk menciptakan lingkungan yang kaku seperti militer, melainkan untuk mengotomatiskan hal-hal teknis sehingga energi kognitif guru dan siswa dapat sepenuhnya difokuskan pada satu hal: **Pembelajaran**.
 
-## 1\. Memahami Perbedaan: Aturan vs. Prosedur
+## 1. Memahami Perbedaan: Aturan vs. Prosedur
 
 Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
 
@@ -5061,13 +5061,13 @@ Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaann
 
 > "Prosedur adalah cara kita melakukan sesuatu agar kelas berjalan lancar. Rutinitas adalah prosedur yang telah menjadi kebiasaan otomatis bagi siswa."
 
-## 2\. Arsitektur Transisi yang Efisien
+## 2. Arsitektur Transisi yang Efisien
 
 Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
 
 ### Kalkulasi Kehilangan Waktu
 
-Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \\(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\\) $4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}$
+Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): \(\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}\) $4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}$
 
 75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
 
@@ -5079,7 +5079,7 @@ Untuk mencapai efisiensi, gunakan teknik **Numbered Cues**:
 2. **Instruksi "Clear Out":** "Simpan buku matematika kamu, ambil buku catatan IPA."
 3. **Count Down:** Hitung mundur dari 10 ke 0 dengan tenang untuk memberikan rasa urgensi yang positif.
 
-## 3\. Manajemen Tugas dan Materi
+## 3. Manajemen Tugas dan Materi
 
 Manajemen kertas dan perangkat digital seringkali menjadi sumber kekacauan. Berikut adalah standarisasi yang dapat diterapkan:
 
@@ -5094,7 +5094,7 @@ Jangan biarkan siswa mengerumuni meja kamu untuk mengumpulkan tugas.
 
 Bagi kamu yang menyukai pendekatan sistematis, berikut adalah "kode" prosedur pengumpulan tugas:
 
-```
+```json
 IF tugas_selesai == TRUE:
    CHECK nama_dan_tanggal()
    MOVE_TO folder_sesuai_mapel()
@@ -5105,7 +5105,7 @@ ELSE:
    FOLLOW instruksi_tambahan()
 ```
 
-## 4\. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
+## 4. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
 
 Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa harus bertanya setiap saat.
 
@@ -5121,7 +5121,7 @@ Untuk mengurangi ketergantungan pada guru, terapkan aturan ini:
 
 Ini mendorong kolaborasi dan memastikan guru hanya menjawab pertanyaan yang benar-benar penting terkait materi pelajaran.
 
-## 5\. Implementasi: Metode T-R-R (Teach, Rehearse, Reinforce)
+## 5. Implementasi: Metode T-R-R (Teach, Rehearse, Reinforce)
 
 Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya sebuah materi pelajaran.
 
@@ -5156,13 +5156,13 @@ Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kela
 
 <!-- Chapter: 05_membangun-hubungan-positif-guru-siswa -->
 
-## Membangun Hubungan Positif Guru-Siswa
+# Membangun Hubungan Positif Guru-Siswa
 
 Pernahkah kamu bertanya-tanya mengapa seorang siswa bersedia bekerja ekstra keras untuk satu guru, namun tampak sangat tidak peduli di kelas guru lainnya? Jawabannya jarang sekali terletak pada materi pelajaran, melainkan pada **kualitas hubungan** di antara mereka.
 
 Dalam kerangka Manajemen Kelas Proaktif, hubungan positif bukanlah sekadar "sikap ramah". Ini adalah strategi teknis yang menciptakan fondasi emosional agar instruksi akademik dapat diterima dengan optimal. Tanpa hubungan yang kuat, aturan kelas hanyalah sekumpulan paksaan yang menunggu untuk dilanggar.
 
-## 1\. Mengenal Karakteristik Individu: Strategi "Profil Siswa"
+## 1. Mengenal Karakteristik Individu: Strategi "Profil Siswa"
 
 Setiap siswa datang ke kelas dengan "tas ransel" yang berbeda, berisi minat, bakat, kecemasan, dan latar belakang budaya. Mengenal mereka secara individual adalah langkah pertama untuk membangun jembatan kepercayaan.
 
@@ -5178,7 +5178,7 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 
 > **Analogi: Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
 
-## 2\. Membangun Kepercayaan Melalui Kehadiran Otentik
+## 2. Membangun Kepercayaan Melalui Kehadiran Otentik
 
 Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui konsistensi dan empati. Siswa perlu merasa bahwa kamu adalah orang dewasa yang dapat diandalkan dan peduli pada keberhasilan mereka.
 
@@ -5190,7 +5190,7 @@ Kepercayaan (*Trust*) tidak diberikan secara cuma-cuma; ia dibangun melalui kons
 
 *Pertimbangkan hal berikut: Apakah kamu lebih sering berbicara "kepada" siswa atau berbicara "dengan" siswa? Pergeseran preposisi ini mengubah seluruh dinamika kekuasaan di kelas.*
 
-## 3\. Menciptakan Iklim Emosional yang Aman
+## 3. Menciptakan Iklim Emosional yang Aman
 
 Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko akademik (seperti menjawab pertanyaan sulit) tanpa takut dipermalukan jika salah.
 
@@ -5204,12 +5204,12 @@ $$
 
 Dimana:
 
-- \\(K\\) = Kesiapan Belajar
-- \\(D\\) = Dukungan Guru
-- \\(P\\) = Penerimaan Teman Sebaya
-- \\(Kz\\) = Kecemasan (Anxiety)
+- \(K\) = Kesiapan Belajar
+- \(D\) = Dukungan Guru
+- \(P\) = Penerimaan Teman Sebaya
+- \(Kz\) = Kecemasan (Anxiety)
 
-Semakin rendah nilai kecemasan (\\(Kz\\)), maka kesiapan belajar (\\(K\\)) akan meningkat secara eksponensial.
+Semakin rendah nilai kecemasan (\(Kz\)), maka kesiapan belajar (\(K\)) akan meningkat secara eksponensial.
 
 ### Langkah Menciptakan Keamanan Emosional:
 
@@ -5217,7 +5217,7 @@ Semakin rendah nilai kecemasan (\\(Kz\\)), maka kesiapan belajar (\\(K\\)) akan 
 - **Validasi Perasaan**: Sebelum mengoreksi perilaku, validasi emosinya. *"Ibu lihat kamu sedang sangat kesal sekarang, tapi kita tidak bisa melempar buku. Mari bicara sebentar."*
 - **Ritual Penyambutan**: Berdiri di depan pintu dan sapa setiap siswa dengan nama mereka saat masuk. Penelitian menunjukkan hal ini dapat meningkatkan keterlibatan akademik hingga 20%.
 
-## 4\. Fondasi Disiplin Positif: "Connect Before Correct"
+## 4. Fondasi Disiplin Positif: "Connect Before Correct"
 
 Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat, kamu tidak lagi membutuhkan hukuman yang keras untuk mengarahkan perilaku.
 
@@ -5261,7 +5261,7 @@ Untuk memastikan kamu membangun hubungan secara merata (tidak hanya pada siswa y
 
 <!-- Chapter: 06_strategi-keterlibatan-siswa-aktif -->
 
-## Strategi Keterlibatan Siswa Aktif
+# Strategi Keterlibatan Siswa Aktif
 
 Pernahkah kamu memperhatikan bahwa gangguan perilaku di kelas paling sering terjadi saat transisi yang lama, ceramah yang monoton, atau ketika siswa merasa tidak memiliki peran dalam pembelajaran?
 
@@ -5269,7 +5269,7 @@ Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk di
 
 **Strategi Keterlibatan Siswa Aktif** adalah instrumen utama dalam manajemen kelas proaktif. Filosofinya sederhana: *Siswa yang sibuk belajar secara bermakna tidak memiliki waktu untuk mengganggu.*
 
-## 1\. Memahami Hubungan Antara Keterlibatan dan Perilaku
+## 1. Memahami Hubungan Antara Keterlibatan dan Perilaku
 
 Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dengan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
 
@@ -5279,13 +5279,13 @@ $$
 
 Di mana:
 
-- \\(P(G)\\) adalah Probabilitas Gangguan.
-- \\(E\\) adalah *Engagement* (Keterlibatan).
-- \\(K\\) adalah Kejelasan Instruksi.
+- \(P(G)\) adalah Probabilitas Gangguan.
+- \(E\) adalah *Engagement* (Keterlibatan).
+- \(K\) adalah Kejelasan Instruksi.
 
 Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku yang menyimpang. Strategi ini bukan sekadar tentang membuat siswa "sibuk", melainkan membuat mereka **terkoneksi secara kognitif dan emosional** dengan materi pelajaran.
 
-## 2\. Teknik Partisipasi Total (Total Participation Techniques)
+## 2. Teknik Partisipasi Total (Total Participation Techniques)
 
 Seringkali guru terjebak dalam pola interaksi "satu-ke-satu" (Guru bertanya, satu siswa menjawab, tiga puluh lainnya pasif). Untuk meminimalisir peluang distraksi, kita perlu menggunakan teknik yang melibatkan seluruh siswa secara simultan.
 
@@ -5309,7 +5309,7 @@ Gunakan jempol ke atas (paham), jempol ke samping (ragu-ragu), atau jempol ke ba
 
 > **Insight Penting:** Partisipasi total menghilangkan "zona nyaman untuk melamun" bagi siswa yang biasanya kurang percaya diri atau cenderung mencari perhatian melalui perilaku negatif.
 
-## 3\. Struktur Pembelajaran Kooperatif
+## 3. Struktur Pembelajaran Kooperatif
 
 Pembelajaran aktif sering kali melibatkan kerja kelompok. Namun, tanpa struktur yang jelas, kerja kelompok bisa berubah menjadi kekacauan. Gunakan teknik **Jigsaw** atau **Numbered Heads Together**.
 
@@ -5322,7 +5322,7 @@ Pembelajaran aktif sering kali melibatkan kerja kelompok. Namun, tanpa struktur 
 
 *Pertimbangkan hal berikut: Bagaimana perasaan siswa jika mereka tahu bahwa keberhasilan kelompok bergantung pada kesiapan setiap individu? Hal ini menciptakan akuntabilitas individu dalam konteks sosial.*
 
-## 4\. Pacing dan Variasi Instruksional
+## 4. Pacing dan Variasi Instruksional
 
 Kecepatan (*pacing*) pelajaran yang terlalu lambat adalah undangan bagi siswa untuk mulai mengobrol. Sebaliknya, yang terlalu cepat akan membuat mereka frustrasi dan menyerah.
 
@@ -5334,7 +5334,7 @@ Gunakan struktur ini untuk menjaga ritme kelas:
 - **Chew (5-10 menit):** Biarkan siswa "mengunyah" informasi tersebut melalui aktivitas (diskusi, membuat diagram, atau menulis ringkasan).
 - **Check (2-5 menit):** Lakukan pengecekan pemahaman secara cepat sebelum berpindah ke topik berikutnya.
 
-## 5\. Implementasi Teknologi dan Gamifikasi
+## 5. Implementasi Teknologi dan Gamifikasi
 
 Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan secara instan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
 
@@ -5354,7 +5354,7 @@ def check_engagement(student_response, time_taken):
         return "Coba lagi! Ingat konsep X yang baru kita bahas."
 ```
 
-## 6\. Real-world Application: Studi Kasus
+## 6. Real-world Application: Studi Kasus
 
 **Kasus:** Ibu Ratna mengajar Sejarah di jam terakhir hari Jumat. Siswa cenderung gelisah, sering meminta izin ke belakang, dan mulai membuat kegaduhan kecil.
 
@@ -5367,7 +5367,7 @@ def check_engagement(student_response, time_taken):
 
 **Hasil:** Karena setiap siswa memiliki "peran" dan "misi", energi mereka yang awalnya digunakan untuk mengganggu dialihkan menjadi energi kompetitif yang sehat dalam konteks akademis.
 
-## 7\. Strategi untuk Berbagai Gaya Belajar
+## 7. Strategi untuk Berbagai Gaya Belajar
 
 Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berbagai preferensi belajar:
 
@@ -5388,13 +5388,13 @@ Keterlibatan siswa aktif bukan hanya tentang metode mengajar, tetapi tentang men
 
 <!-- Chapter: 07_teknik-pemindaian-dan-kehadiran-guru -->
 
-## Teknik Pemindaian dan Kehadiran Guru: Membangun "Mata di Belakang Kepala"
+# Teknik Pemindaian dan Kehadiran Guru: Membangun "Mata di Belakang Kepala"
 
 Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Rahasianya bukan pada kekuatan super, melainkan pada keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
 
 Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang paling ampuh, bahkan sebelum kamu mengucapkan satu patah kata pun.
 
-## 1\. Konsep ''Withitness'': Kewaspadaan Total
+## 1. Konsep ''Withitness'': Kewaspadaan Total
 
 Istilah *Withitness* pertama kali dicetuskan oleh pakar psikologi pendidikan, Jacob Kounin. Secara sederhana, *withitness* adalah kemampuan guru untuk mengetahui apa yang sedang terjadi di setiap sudut kelas pada setiap saat.
 
@@ -5408,7 +5408,7 @@ Istilah *Withitness* pertama kali dicetuskan oleh pakar psikologi pendidikan, Ja
 2. **Target yang Tepat:** Jika terjadi gangguan, guru tahu persis siapa pemicunya dan merespons orang yang tepat.
 3. **Multitasking (Overlapping):** Kemampuan mengawasi seluruh kelas sambil tetap membantu satu siswa secara individual.
 
-## 2\. Teknik Pemindaian (Scanning) yang Efektif
+## 2. Teknik Pemindaian (Scanning) yang Efektif
 
 Pemindaian bukan sekadar melihat ke sekeliling, melainkan sebuah teknik visual yang sistematis untuk memastikan tidak ada "titik buta" di kelas kamu.
 
@@ -5420,7 +5420,7 @@ Pemindaian bukan sekadar melihat ke sekeliling, melainkan sebuah teknik visual y
 
 *Pertimbangkan hal berikut: Kapan terakhir kali kamu terjebak dalam diskusi mendalam dengan satu siswa sehingga kamu kehilangan kendali atas 29 siswa lainnya? Itulah yang disebut dengan "tunnel vision" atau pandangan terowongan.*
 
-## 3\. Mobilitas dan Posisi Strategis (Proximity Control)
+## 3. Mobilitas dan Posisi Strategis (Proximity Control)
 
 Kehadiran fisik kamu adalah instrumen manajemen yang kuat. Guru yang hanya duduk di belakang meja cenderung memiliki tingkat gangguan kelas yang lebih tinggi dibandingkan guru yang bergerak secara dinamis.
 
@@ -5430,7 +5430,7 @@ Kehadiran fisik kamu adalah instrumen manajemen yang kuat. Guru yang hanya duduk
 - **Kedekatan (Proximity):** Jika kamu melihat siswa mulai menyimpang dari tugas, mendekatlah ke arah mereka tanpa harus menghentikan penjelasan kamu. Seringkali, hanya dengan berdiri di dekat meja siswa, perilaku mengganggu akan berhenti secara otomatis.
 - **The "Power Position":** Saat memberikan instruksi penting, berdirilah di pusat perhatian. Namun, saat siswa bekerja mandiri, bergeraklah mengelilingi perimeter (pinggiran) kelas untuk memantau dari berbagai sudut.
 
-## 4\. Bahasa Tubuh dan Kehadiran Guru
+## 4. Bahasa Tubuh dan Kehadiran Guru
 
 Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teacher Presence*) adalah tentang bagaimana kamu membawa diri untuk menunjukkan otoritas yang tenang dan penuh perhatian.
 
@@ -5440,12 +5440,12 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 2. **Ekspresi Wajah:** Gunakan ekspresi yang konsisten dengan situasi. Senyuman hangat untuk menyapa, dan tatapan serius namun tenang untuk mengoreksi perilaku.
 3. **Isyarat Tangan:** Gunakan tangan untuk mengarahkan fokus (misalnya, menunjuk buku atau papan tulis) untuk memperkuat instruksi verbal.
 
-**Matematika Kehadiran Guru:** \\(K = W + (M \times B)\\) Di mana:
+**Matematika Kehadiran Guru:** \(K = W + (M \times B)\) Di mana:
 
-- \\(K\\): Efektivitas Kendali Kelas
-- \\(W\\): *Withitness* (Kewaspadaan)
-- \\(M\\): Mobilitas (Pergerakan)
-- \\(B\\): Bahasa Tubuh yang Positif
+- \(K\): Efektivitas Kendali Kelas
+- \(W\): *Withitness* (Kewaspadaan)
+- \(M\): Mobilitas (Pergerakan)
+- \(B\): Bahasa Tubuh yang Positif
 
 ## Real-World Application: Skenario Praktis
 
@@ -5467,7 +5467,7 @@ Untuk mulai menerapkan teknik ini, cobalah langkah-langkah berikut di kelas beri
 
 <!-- Chapter: 08_intervensi-non-verbal-dan-edukatif -->
 
-## Intervensi Non-Verbal dan Edukatif: Seni Mengelola Kelas Tanpa Suara
+# Intervensi Non-Verbal dan Edukatif: Seni Mengelola Kelas Tanpa Suara
 
 Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa, namun tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
@@ -5485,21 +5485,21 @@ Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkin
 
 Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum bergerak ke intervensi yang lebih kentara.
 
-#### 1\. Kontak Mata dan Ekspresi Wajah (The Look)
+#### 1. Kontak Mata dan Ekspresi Wajah (The Look)
 
 Kontak mata adalah alat paling kuat namun paling sering diremehkan.
 
 - **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misal: siswa melamun), buat kontak mata selama 3-5 detik.
 - **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, namun tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
 
-#### 2\. Kontrol Kedekatan (Proximity Control)
+#### 2. Kontrol Kedekatan (Proximity Control)
 
 Siswa cenderung berperilaku lebih baik saat guru berada di dekat mereka.
 
 - **Mengajar Sambil Berjalan:** Jangan terpaku di depan kelas. Bergeraklah ke arah siswa yang mulai terdistraksi sambil tetap melanjutkan penjelasan kamu.
 - **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol seringkali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata pun.
 
-#### 3\. Sinyal Tangan dan Gestur
+#### 3. Sinyal Tangan dan Gestur
 
 Ciptakan "bahasa rahasia" antara kamu dan siswa yang sudah disepakati sebelumnya (lihat bagian *Prosedur dan Rutinitas Harian*).
 
@@ -5527,7 +5527,7 @@ Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *st
 
 Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi non-verbal proaktif:
 
-**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \\(A = \pi r^2\\).*
+**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \(A = \pi r^2\).*
 
 | Pendekatan Reaktif | Pendekatan Proaktif (Non-Verbal) |
 | --- | --- |
@@ -5537,7 +5537,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 
 ### Menjaga Alur Pembelajaran (The Continuity Principle)
 
-Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\\(Ei\\)) secara sederhana sebagai:
+Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\(Ei\)) secara sederhana sebagai:
 
 $$
 Ei = \frac{K}{D}
@@ -5545,10 +5545,10 @@ $$
 
 Di mana:
 
-- \\(K = \text{Kejelasan instruksi}\\)
-- \\(D = \text{Durasi interupsi terhadap kelas}\\)
+- \(K = \text{Kejelasan instruksi}\)
+- \(D = \text{Durasi interupsi terhadap kelas}\)
 
-Semakin kecil \\(D\\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
+Semakin kecil \(D\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 
 ### Real-World Application: Strategi "Non-Stop"
 
@@ -5564,13 +5564,13 @@ Berikut adalah langkah-langkah praktis yang bisa kamu terapkan mulai besok:
 
 <!-- Chapter: 09_manajemen-konflik-dan-restorative-practices -->
 
-## Manajemen Konflik dan Restorative Practices: Memulihkan Hubungan, Membangun Karakter
+# Manajemen Konflik dan Restorative Practices: Memulihkan Hubungan, Membangun Karakter
 
 Konflik di dalam kelas seringkali dianggap sebagai gangguan yang harus segera "dihilangkan" dengan hukuman. Namun, dalam manajemen kelas proaktif, konflik dipandang sebagai **peluang pembelajaran sosial-emosional**. *Restorative Practices* (Praktik Restoratif) adalah sebuah pergeseran paradigma dari bertanya "Aturan apa yang dilanggar?" menjadi "Siapa yang dirugikan dan bagaimana kita memperbaikinya?"
 
 Tujuan utama kita bukan sekadar menghentikan keributan, melainkan memulihkan harmoni dan memastikan setiap individu belajar bertanggung jawab atas tindakan mereka.
 
-### 1\. Paradigma: Punitive vs. Restorative
+### 1. Paradigma: Punitive vs. Restorative
 
 Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pendekatan disiplin tradisional (hukuman) dan pendekatan restoratif.
 
@@ -5584,7 +5584,7 @@ Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pend
 
 > **Analogi Jembatan Retak:** Bayangkan dua orang siswa yang berkonflik sebagai dua sisi sungai yang dihubungkan oleh sebuah jembatan (hubungan mereka). Hukuman tradisional seperti menghancurkan sisa jembatan tersebut agar mereka tidak saling bertemu. Praktik restoratif adalah mengajak kedua siswa tersebut untuk bersama-sama menambal retakan jembatan agar komunikasi bisa mengalir kembali.
 
-### 2\. Lima Pertanyaan Ajaib (Restorative Questions)
+### 2. Lima Pertanyaan Ajaib (Restorative Questions)
 
 Salah satu alat paling kuat dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengarahkan siswa pada refleksi, bukan pembelaan diri.
 
@@ -5605,7 +5605,7 @@ Salah satu alat paling kuat dalam manajemen konflik adalah serangkaian pertanyaa
 
 *Pertimbangkan hal berikut: Pernahkah kamu bertanya "Mengapa kamu melakukannya?" kepada siswa yang sedang emosi? Biasanya mereka akan menjawab "Tidak tahu" atau memberikan alasan defensif. Pertanyaan "Apa yang terjadi?" jauh lebih efektif untuk membuka dialog.*
 
-### 3\. Komponen Utama Restorative Practices
+### 3. Komponen Utama Restorative Practices
 
 Untuk menerapkan pendekatan ini secara efektif, terdapat tingkatan intervensi yang bisa digunakan:
 
@@ -5631,19 +5631,19 @@ Pertemuan seluruh atau sebagian kelas untuk membahas masalah yang berdampak luas
 
 Pertemuan terstruktur yang melibatkan siswa, guru, dan kadang orang tua untuk masalah yang lebih serius (seperti perundungan).
 
-### 4\. Implementasi Langkah demi Langkah
+### 4. Implementasi Langkah demi Langkah
 
 Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Siswa B menangis), ikuti alur ini:
 
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
 3. **Membangun Empati:** Bantu si pelaku memahami dampak emosional pada korban.
-	- *Formula Logika Empati:* \\(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\\)
+	- *Formula Logika Empati:* \(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\)
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
 	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
 
-### 5\. Skenario Dunia Nyata
+### 5. Skenario Dunia Nyata
 
 **Kasus:** Budi secara tidak sengaja merusak tugas prakarya milik Siti karena mereka sedang berebut ruang di meja. Siti marah dan mendorong Budi.
 
@@ -5655,7 +5655,7 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 - **Guru ke Siti:** "Siti, saya paham kamu marah karena karyamu rusak. Tapi saat kamu mendorong Budi, apa risikonya bagi keselamatan kelas kita?"
 - **Solusi Bersama:** Budi setuju membantu Siti mengelem bagian yang rusak selama jam istirahat, dan Siti setuju untuk menggunakan kata-kata (bukan tangan) jika dia merasa marah di masa depan.
 
-### 6\. Manfaat Jangka Panjang (Social-Emotional Learning)
+### 6. Manfaat Jangka Panjang (Social-Emotional Learning)
 
 Dengan menerapkan manajemen konflik ini, kamu sedang mengajarkan kurikulum tersembunyi (*hidden curriculum*):
 
@@ -5670,13 +5670,13 @@ Dengan menerapkan manajemen konflik ini, kamu sedang mengajarkan kurikulum terse
 
 <!-- Chapter: 10_komunikasi-proaktif-dengan-orang-tua -->
 
-## Komunikasi Proaktif dengan Orang Tua: Membangun Jembatan Keberhasilan Siswa
+# Komunikasi Proaktif dengan Orang Tua: Membangun Jembatan Keberhasilan Siswa
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 
 **Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana namun kuat: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
 
-## 1\. Paradigma Baru: Dari Reaktif ke Proaktif
+## 1. Paradigma Baru: Dari Reaktif ke Proaktif
 
 Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
 
@@ -5691,7 +5691,7 @@ Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaks
 | **Peran Orang Tua** | Penerima laporan "hukuman". | Mitra dalam proses belajar. |
 | **Dampak Psikologis** | Defensif dan cemas. | Terbuka dan kooperatif. |
 
-## 2\. Sistem Pelaporan Perkembangan Positif
+## 2. Sistem Pelaporan Perkembangan Positif
 
 Langkah pertama dalam komunikasi proaktif adalah membangun kebiasaan melaporkan **hal-hal kecil yang berjalan dengan baik**.
 
@@ -5703,9 +5703,9 @@ Jangan menunggu nilai ujian 100 untuk menghubungi orang tua. Laporkan perubahan 
 
 ### Menggunakan Rumus 3:13:1
 
-Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \\(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
+Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
 
-## 3\. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
+## 3. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
 
 Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
 
@@ -5717,7 +5717,7 @@ Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua 
 
 > **Insight Penting:** Anak-anak merasa lebih aman dan cenderung berperilaku lebih baik ketika mereka tahu bahwa guru dan orang tua mereka "berbicara dalam bahasa yang sama" dan saling mendukung.
 
-## 4\. Saluran Komunikasi dan Teknologi
+## 4. Saluran Komunikasi dan Teknologi
 
 Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasan profesional guru.
 
@@ -5727,7 +5727,7 @@ Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasa
 
 *Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelpon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Betapa kuatnya dampak ini bagi iklim kelas kamu?*
 
-## 5\. Menangani Percakapan Sulit dengan Teknik Sandwich
+## 5. Menangani Percakapan Sulit dengan Teknik Sandwich
 
 Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat masalah terjadi, gunakan **Metode Sandwich** untuk menjaga kolaborasi:
 
@@ -5739,7 +5739,7 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 **Konteks:** Seorang siswa sering mengganggu teman saat jam pelajaran.
 
-```
+```python
 Kepada Ibu Maya,
 
 (Roti Atas)
@@ -5757,7 +5757,7 @@ untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas
 agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya."
 ```
 
-## 6\. Real-World Application: Rencana Aksi 30 Hari
+## 6. Real-World Application: Rencana Aksi 30 Hari
 
 Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah praktisnya:
 
@@ -5774,25 +5774,25 @@ Komunikasi proaktif bukan sekadar memberi laporan, melainkan membangun **kemitra
 
 <!-- Chapter: 11_monitoring-dan-refleksi-iklim-kelas -->
 
-## Monitoring dan Refleksi Iklim Kelas: Kompas Menuju Kelas yang Berkelanjutan
+# Monitoring dan Refleksi Iklim Kelas: Kompas Menuju Kelas yang Berkelanjutan
 
 Bayangkan kamu adalah seorang kapten kapal yang sedang melintasi samudra luas. kamu telah menetapkan rute (prosedur), mengatur awak kapal (norma), dan memastikan mesin bekerja dengan baik (keterlibatan aktif). Namun, tanpa melihat kompas, radar, atau mendengarkan laporan dari kru, bagaimana kamu tahu bahwa kapal tetap berada di jalur yang benar?
 
 Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen navigasi kamu. Tanpanya, strategi yang kamu terapkan hanyalah tebakan. Bagian ini akan membahas bagaimana kamu dapat menggunakan data objektif dan suara siswa untuk menyempurnakan atmosfer belajar secara terus-menerus.
 
-## 1\. Memahami "Iklim Kelas": Lebih dari Sekadar Suasana
+## 1. Memahami "Iklim Kelas": Lebih dari Sekadar Suasana
 
 Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan sekolah. Ini bukan hanya tentang apakah siswa "tenang", tetapi tentang apakah mereka merasa aman, dihargai, dan tertantang untuk belajar.
 
 > **Wawasan:** Iklim kelas yang positif bersifat "menular". Ketika sistem monitoring menunjukkan adanya retakan kecil dalam iklim tersebut, intervensi dini dapat mencegah "badai" perilaku di masa depan.
 
-## 2\. Instrumen Evaluasi Diri (Self-Assessment) bagi Pendidik
+## 2. Instrumen Evaluasi Diri (Self-Assessment) bagi Pendidik
 
 Refleksi dimulai dari diri sendiri. Sebagai manajer kelas, kamu perlu melihat ke dalam cermin profesional secara berkala. Evaluasi diri membantu kamu mengidentifikasi apakah inkonsistensi kamu sendiri yang menyebabkan gangguan di kelas.
 
 ### Metrik Evaluasi Mandiri
 
-kamu dapat menggunakan skala 1-5 (\\(1 = \text{Sangat Jarang}\\), \\(5 = \text{Sangat Konsisten}\\)) untuk menilai poin-poin berikut setiap akhir pekan:
+kamu dapat menggunakan skala 1-5 (\(1 = \text{Sangat Jarang}\), \(5 = \text{Sangat Konsisten}\)) untuk menilai poin-poin berikut setiap akhir pekan:
 
 1. **Rasio Interaksi Positif:** Apakah saya memberikan setidaknya 4 pujian untuk setiap 1 koreksi perilaku?
 2. **Kepatuhan Prosedur:** Apakah saya memulai dan mengakhiri pelajaran tepat waktu sesuai rutinitas yang disepakati?
@@ -5806,7 +5806,7 @@ kamu dapat menggunakan skala 1-5 (\\(1 = \text{Sangat Jarang}\\), \\(5 = \text{S
 | Manajemen Transisi | 3 | Transisi dari istirahat ke pelajaran matematika terlalu bising. |
 | Penguatan Positif | 5 | Berhasil memberikan apresiasi pada kelompok belakang. |
 
-## 3\. Mendengarkan Suara Siswa: Umpan Balik sebagai Data
+## 3. Mendengarkan Suara Siswa: Umpan Balik sebagai Data
 
 Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsung efektivitas strategi yang kamu terapkan. Mengumpulkan umpan balik dari mereka bukan berarti menyerahkan kendali kelas, melainkan membangun kemitraan.
 
@@ -5822,19 +5822,19 @@ Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsu
 
 *Pertimbangkan hal berikut: Jika kamu takut mendengar jawaban siswa, itu mungkin tanda terkuat bahwa kamu sangat perlu mendengarnya.*
 
-## 4\. Analisis Data dan Perbaikan Berkelanjutan
+## 4. Analisis Data dan Perbaikan Berkelanjutan
 
 Data tanpa aksi adalah tumpukan kertas. Setelah mengumpulkan hasil evaluasi diri dan umpan balik siswa, gunakan pendekatan ilmiah untuk melakukan perbaikan.
 
 ### Rumus Efektivitas Manajemen (Analogi Matematis)
 
-Kita bisa memandang efektivitas manajemen kelas (\\(E\\)) sebagai fungsi dari Konsistensi (\\(K\\)) dan Kualitas Hubungan (\\(H\\)), dibagi dengan hambatan lingkungan (\\(L\\)):
+Kita bisa memandang efektivitas manajemen kelas (\(E\)) sebagai fungsi dari Konsistensi (\(K\)) dan Kualitas Hubungan (\(H\)), dibagi dengan hambatan lingkungan (\(L\)):
 
 $$
 E = \frac{K \times H}{L}
 $$
 
-Jika hasil monitoring menunjukkan skor \\(E\\) rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
+Jika hasil monitoring menunjukkan skor \(E\) rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
 
 ### Siklus Refleksi Proaktif:
 
@@ -5843,7 +5843,7 @@ Jika hasil monitoring menunjukkan skor \\(E\\) rendah, periksa variabel mana yan
 3. **Adjust (Sesuaikan):** Ubah satu variabel (misal: mengubah tempat duduk atau memperpendek durasi ceramah).
 4. **Re-evaluate (Evaluasi Ulang):** Lihat hasilnya dalam dua minggu ke depan.
 
-## 5\. Aplikasi Dunia Nyata: Skenario Perbaikan
+## 5. Aplikasi Dunia Nyata: Skenario Perbaikan
 
 **Skenario:** Pak Budi merasa kelasnya mulai tidak terkendali saat diskusi kelompok. Ia melakukan evaluasi diri dan menyadari bahwa ia sering membiarkan satu kelompok terlalu berisik tanpa teguran (inkonsistensi). Ia kemudian memberikan survei singkat kepada siswa.
 
@@ -5856,7 +5856,7 @@ Jika hasil monitoring menunjukkan skor \\(E\\) rendah, periksa variabel mana yan
 
 **Hasil:** Dalam dua minggu, tingkat kebisingan yang tidak produktif menurun sebesar 40%.
 
-## 6\. Tips Praktis untuk Pembelajaran Beragam
+## 6. Tips Praktis untuk Pembelajaran Beragam
 
 Untuk memastikan proses monitoring ini inklusif bagi semua gaya belajar:
 
@@ -5870,7 +5870,7 @@ Untuk memastikan proses monitoring ini inklusif bagi semua gaya belajar:
 
 <!-- Chapter: 12_referensi -->
 
-## Referensi dan Daftar Pustaka
+# Referensi dan Daftar Pustaka
 
 Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bereputasi yang menjadi fondasi teori serta praktis dalam pengembangan buku *Strategi Manajemen Kelas Proaktif*.
 
@@ -5889,8 +5889,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6748,8 +6748,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8083,8 +8083,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9200,8 +9200,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10301,8 +10301,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10320,7 +10320,7 @@ VALUES (
   'Manajemen',
   '<!-- Chapter: 01_pengantar-teori-modal-manusia -->
 
-## Pengantar Teori Modal Manusia: Manusia Sebagai Investasi Terbesar
+# Pengantar Teori Modal Manusia: Manusia Sebagai Investasi Terbesar
 
 Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep fundamental ekonomi: **Human Capital** (Modal Manusia).
 
@@ -10415,7 +10415,7 @@ Pada bab berikutnya, kita akan membahas secara spesifik model teknis perhitungan
 
 <!-- Chapter: 02_komponen-utama-investasi-modal-manusia -->
 
-## Komponen Utama Investasi Modal Manusia
+# Komponen Utama Investasi Modal Manusia
 
 Selamat datang di pembahasan inti mengenai **Teori Modal Manusia** (*Human Capital Theory*). Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
 
@@ -10582,7 +10582,7 @@ Dari keempat komponen di atas, komponen mana yang saat ini perlu kamu prioritask
 
 <!-- Chapter: 03_analisis-biaya-dan-manfaat-pendidikan -->
 
-## Analisis Biaya dan Manfaat Pendidikan: Mengapa Kita Memilih Sekolah?
+# Analisis Biaya dan Manfaat Pendidikan: Mengapa Kita Memilih Sekolah?
 
 Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal, sementara mereka bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang?
 
@@ -10711,7 +10711,7 @@ Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\( B_t \)) 
 
 <!-- Chapter: 04_pelatihan-di-tempat-kerja -->
 
-## Pelatihan di Tempat Kerja: Umum vs Spesifik
+# Pelatihan di Tempat Kerja: Umum vs Spesifik
 
 Dalam kerangka Teori Modal Manusia (*Human Capital Theory*), pengembangan keterampilan tidak berhenti setelah seseorang menyelesaikan pendidikan formal. Sebagian besar akumulasi modal manusia justru terjadi saat seseorang melangkah ke dunia kerja melalui **Pelatihan di Tempat Kerja (On-the-Job Training/OJT)**.
 
@@ -10832,7 +10832,7 @@ Diferensiasi antara pelatihan umum dan pelatihan spesifik merupakan batu pijak p
 
 <!-- Chapter: 05_fungsi-upah-mincer -->
 
-## Fungsi Upah Mincer: Jantung Analisis Pendapatan dalam Ekonomi Tenaga Kerja
+# Fungsi Upah Mincer: Jantung Analisis Pendapatan dalam Ekonomi Tenaga Kerja
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 
@@ -10952,7 +10952,7 @@ Berdasarkan kurva Mincer yang melandai di usia tua, strategi apa yang harus dila
 
 <!-- Chapter: 06_tingkat-pengembalian-investasi-rate-of-return -->
 
-## Tingkat Pengembalian Investasi (Rate of Return)
+# Tingkat Pengembalian Investasi (Rate of Return)
 
 Bayangkan kamu memiliki uang sebesar Rp100 juta. Kamu punya dua pilihan: memasukkannya ke dalam deposito bank dengan bunga 5% per tahun, atau menggunakannya untuk mengambil program sertifikasi profesional tingkat lanjut. Mana pilihan yang lebih menguntungkan?
 
@@ -11078,7 +11078,7 @@ Sebagai pertimbangan simulasi kebijakan: Jika kamu menjabat sebagai Menteri Pend
 
 <!-- Chapter: 07_modal-manusia-dan-pertumbuhan-ekonomi -->
 
-## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
+# Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
 Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura, yang memiliki sumber daya alam sangat terbatas, mampu bertransformasi dari negara berpendapatan rendah menjadi raksasa ekonomi dunia dalam hitungan dekade? Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
 
@@ -11090,7 +11090,7 @@ Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebaga
 
 Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern.
 
-```
+```text
 Model Pertumbuhan Eksogen (Solow) ───► Menganggap teknologi sebagai "berkah luar"
                                        Terbentur Hukum Diminishing Returns
 
@@ -11198,7 +11198,7 @@ Namun, Korea Selatan menerapkan strategi transformasi berbasis pengetahuan:
 
 Investasi pada kapasitas manusia memicu siklus pertumbuhan positif (*virtuous cycle*) dalam perekonomian:
 
-```
+```text
 Investasi Pendidikan & Kesehatan ──► Peningkatan Keterampilan Tenaga Kerja
                                              │
 Investasi Asing (FDI) Meningkat ◄── Peningkatan Inovasi & Kapasitas Industri
@@ -11233,7 +11233,7 @@ Dalam era ekonomi digital global, daya saing suatu bangsa tidak lagi diukur dari
 
 <!-- Chapter: 08_teori-sinyal-dan-penyaringan -->
 
-## Kritik: Teori Sinyal dan Penyaringan (Signaling vs Screening)
+# Kritik: Teori Sinyal dan Penyaringan (Signaling vs Screening)
 
 Bayangkan kamu adalah seorang manajer HR yang harus memilih satu dari 500 pelamar kerja untuk posisi analis data. Kamu tidak punya waktu untuk mengamati kinerja mereka selama satu bulan penuh sebelum memutuskan. Apa yang kamu lihat pertama kali? **Ijazah.**
 
@@ -11319,7 +11319,7 @@ Memahami perbedaan ini membantu kita untuk tidak hanya mengejar gelar di atas ke
 
 <!-- Chapter: 09_kesenjangan-modal-manusia-dan-ketimpangan-ekonomi -->
 
-## Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
+# Kesenjangan Modal Manusia dan Ketimpangan Ekonomi
 
 Pernahkah kamu membayangkan sebuah perlombaan lari di mana satu peserta memulai dari garis start yang bersih dan memakai sepatu lari mutakhir, sementara peserta lainnya harus memulai 100 meter di belakang dengan kaki telanjang? Dalam ekonomi, "garis start" ini adalah **Modal Manusia (Human Capital)**.
 
@@ -11430,7 +11430,7 @@ Di mana \(r\) merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan
 
 <!-- Chapter: 10_peran-kebijakan-publik-dalam-pengembangan-talenta -->
 
-## Peran Kebijakan Publik dalam Pengembangan Talenta
+# Peran Kebijakan Publik dalam Pengembangan Talenta
 
 Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karir, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
 
@@ -11447,7 +11447,7 @@ Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisi
 Saat seorang individu meningkatkan keterampilannya, manfaat yang tercipta tidak hanya dinikmati oleh individu itu sendiri. Masyarakat luas ikut merasakan dampaknya, mulai dari peningkatan produktivitas nasional, penurunan tingkat kejahatan, peningkatan kualitas partisipasi kewarganegaraan, hingga terciptanya inovasi baru yang dapat dimanfaatkan publik.
 
 > **Logika Ekonomi:**
-> \\[ \text{Manfaat Sosial Total} > \text{Manfaat Pribadi} \\]
+> \[ \text{Manfaat Sosial Total} > \text{Manfaat Pribadi} \]
 > Ketika peningkatan keterampilan menghasilkan nilai tambah publik yang melebihi keuntungan finansial pribadi, investasi individu secara mandiri akan cenderung terlalu rendah jika dibandingkan dengan tingkat investasi ideal suatu negara.
 
 #### B. Kendala Pasar Kredit (Credit Market Constraints)
@@ -11521,7 +11521,7 @@ Seorang lulusan baru (*fresh graduate*) menghadapi kendala keterbatasan keahlian
 
 Untuk mengukur apakah intervensi kebijakan memberikan manfaat ekonomi yang melampaui biaya yang dikeluarkan, digunakan pendekatan kuantitatif berikut:
 
-\\[ \text{SROI} = \frac{\Delta \text{Pendapatan Total Tenaga Kerja}}{\text{Total Biaya Anggaran Kebijakan}} \\]
+\[ \text{SROI} = \frac{\Delta \text{Pendapatan Total Tenaga Kerja}}{\text{Total Biaya Anggaran Kebijakan}} \]
 
 Berikut adalah implementasi sederhana fungsi perhitungan efisiensi kebijakan publik dalam pemrograman:
 
@@ -11570,7 +11570,7 @@ Pilihan terbaik bergantung pada struktur ekonomi nasional, tingkat kesenjangan k
 
 <!-- Chapter: 11_modal-manusia-di-era-ekonomi-digital-dan-ai -->
 
-## Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
+# Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
 
 Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita telah membahas bagaimana pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, maka di bagian ini kita akan menjelajahi bagaimana aturan main tersebut berubah total akibat revolusi digital dan kecerdasan buatan (*Artificial Intelligence* - AI).
 
@@ -11674,7 +11674,7 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 
 <!-- Chapter: 12_referensi -->
 
-## Referensi
+# Referensi
 
 Berikut adalah rujukan akademis dan literatur fundamental yang digunakan dalam penyusunan buku *Human Capital Theory*. Jika kamu ingin mendalami fondasi teoretis, bukti empiris, maupun metodologi analisis modal manusia secara lebih rinci, daftar referensi berstandar APA 7th Edition di bawah ini menyajikan karya-karya utama dari para perintis dan peneliti terkemuka di bidang ekonomi sumber daya manusia dan pertumbuhan ekonomi.
 
@@ -11727,8 +11727,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13147,8 +13147,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14400,8 +14400,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15356,8 +15356,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17191,8 +17191,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18225,8 +18225,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19443,8 +19443,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20641,8 +20641,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21715,8 +21715,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Think about this: Jika kamu seorang pendidik, bagaimana kamu akan mengubah cara kamu menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22831,8 +22831,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23752,8 +23752,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25023,8 +25023,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26246,8 +26246,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27293,8 +27293,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28227,8 +28227,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28278,19 +28278,19 @@ Microteaching tidak muncul begitu saja. Ia lahir dari kebutuhan akan efektivitas
 
 Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah urgensi mengapa microteaching sangat krusial:
 
-### 1\. Jembatan Teori dan Praktik
+### 1. Jembatan Teori dan Praktik
 
 Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, namun "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
 
-### 2\. Mengurangi Risiko (Risk-Free Environment)
+### 2. Mengurangi Risiko (Risk-Free Environment)
 
 Di kelas asli, kesalahan guru bisa berdampak pada pemahaman siswa atau manajemen kelas selama satu semester. Dalam microteaching, jika kamu gagal mengelola kelas, kamu bisa segera mengulanginya tanpa merugikan masa depan siswa mana pun.
 
-### 3\. Pengembangan Keterampilan Secara Terisolasi
+### 3. Pengembangan Keterampilan Secara Terisolasi
 
 Sulit untuk memperbaiki cara bicara, bahasa tubuh, penggunaan media, dan teknik bertanya secara bersamaan. Microteaching memungkinkan kita untuk "membedah" komponen tersebut satu per satu hingga mahir.
 
-### 4\. Membangun Kepercayaan Diri
+### 4. Membangun Kepercayaan Diri
 
 *Pernahkah kamu merasa gemetar saat berbicara di depan umum?* Microteaching membantu mengikis kecemasan tersebut secara bertahap melalui latihan yang berulang dalam lingkungan yang mendukung.
 
@@ -28337,7 +28337,7 @@ Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersi
 
 *Microteaching* adalah "Flight Simulator" bagi para pendidik. Mari kita bedah bagaimana penyederhanaan ini bekerja melalui karakteristik dan prinsip utamanya.
 
-### 1\. Karakteristik Utama: Konsep Penyederhanaan
+### 1. Karakteristik Utama: Konsep Penyederhanaan
 
 Pembelajaran mikro bukan sekadar mengajar dalam durasi pendek, melainkan sebuah desain instruksional yang sengaja diperkecil skalanya (*scaled-down teaching*). Ada tiga aspek utama dalam penyederhanaan ini:
 
@@ -28362,7 +28362,7 @@ Ini adalah karakteristik yang paling krusial. Dalam mengajar normal, kamu melaku
 - **Contoh:** Jika hari ini jadwal kamu melatih "Keterampilan Bertanya", maka fokus penilaian dan perhatian kamu hanya pada teknik bertanya, meskipun kamu tetap menyampaikan materi pelajaran.
 - **Tujuan:** Mencapai penguasaan (*mastery*) pada setiap komponen mengajar secara bertahap dan mendalam.
 
-### 2\. Prinsip-Prinsip Pembelajaran Mikro
+### 2. Prinsip-Prinsip Pembelajaran Mikro
 
 Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang teguh:
 
@@ -28373,7 +28373,7 @@ Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang
 
 > **Insight Penting:** Pembelajaran mikro adalah lingkungan yang "aman untuk gagal". Di sini, kesalahan bukan merupakan kegagalan, melainkan data untuk perbaikan sebelum kamu terjun ke sekolah yang sebenarnya.
 
-### 3\. Analogi: Latihan Dasar Pemain Basket
+### 3. Analogi: Latihan Dasar Pemain Basket
 
 Untuk memahami mengapa kita harus memecah-mencah keterampilan mengajar, mari gunakan analogi olahraga.
 
@@ -28385,7 +28385,7 @@ Seorang pemain basket profesional tidak hanya berlatih dengan cara bertanding 5-
 
 Ketika semua keterampilan yang telah "disederhanakan" dan dilatih secara terpisah itu digabungkan, mereka menjadi pemain yang hebat di lapangan sesungguhnya. **Microteaching adalah "Drill Spesifik" bagi guru.**
 
-### 4\. Real-World Application: Skenario Praktik
+### 4. Real-World Application: Skenario Praktik
 
 Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nyata:
 
@@ -28400,7 +28400,7 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 - **Proses:** Selama 12 menit, Sarah tidak terlalu mengkhawatirkan apakah seluruh materi fotosintesis selesai dibahas secara mendalam. Fokus utamanya adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton.
 - **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, namun nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang sangat spesifik dan berguna.
 
-### 5\. Mengapa Penyederhanaan Itu Efektif?
+### 5. Mengapa Penyederhanaan Itu Efektif?
 
 Secara kognitif, otak manusia memiliki batasan dalam memproses informasi baru yang terlalu kompleks (*Cognitive Load Theory*).
 
@@ -28428,7 +28428,7 @@ Keterampilan Dasar Mengajar (KDM) adalah seperangkat kemampuan atau keterampilan
 
 Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fondasi bagi setiap pendidik. Mari kita bedah satu per satu secara mendalam.
 
-## 1\. Keterampilan Membuka Pelajaran
+## 1. Keterampilan Membuka Pelajaran
 
 *First impression matters.* Keterampilan ini adalah upaya guru dalam memberikan prakondisi agar mental dan perhatian siswa terpusat pada apa yang akan dipelajari.
 
@@ -28441,7 +28441,7 @@ Menurut Turney (1973), terdapat **delapan keterampilan utama** yang menjadi fond
 
 > **Analogi:** Membuka pelajaran seperti sebuah *trailer* film. Jika *trailer* -nya membosankan, penonton tidak akan tertarik menonton film utuhnya.
 
-## 2\. Keterampilan Menjelaskan
+## 2. Keterampilan Menjelaskan
 
 Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sistematis untuk menunjukkan adanya hubungan antara satu hal dengan hal lainnya.
 
@@ -28453,7 +28453,7 @@ Menjelaskan adalah penyajian informasi secara lisan yang diorganisir secara sist
 
 **Contoh Matematis dalam Penjelasan:** Saat menjelaskan rumus luas lingkaran, jangan langsung memberikan \(L = \pi r^2\). Jelaskan dari mana \(\pi\) berasal: \(\pi \approx \frac{\text{Keliling}}{\text{Diameter}}\)
 
-## 3\. Keterampilan Bertanya
+## 3. Keterampilan Bertanya
 
 Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik tidak hanya memberikan jawaban, tetapi memicu pertanyaan.
 
@@ -28462,14 +28462,14 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 
 *Think about this: Apakah kamu sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
 
-## 4\. Keterampilan Memberikan Penguatan (Reinforcement)
+## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 
 Penguatan adalah respon guru terhadap perilaku siswa yang memungkinkan berulangnya kembali perilaku tersebut. Ini adalah bentuk penghargaan yang sederhana namun sangat bermakna.
 
 - **Penguatan Verbal:** "Bagus sekali!", "Jawaban yang sangat cerdas!", "Ibu bangga dengan usahamu."
 - **Penguatan Non-Verbal:** Senyuman, anggukan kepala, acungan jempol, atau mendekati siswa (pendekatan fisik).
 
-## 5\. Keterampilan Mengadakan Variasi
+## 5. Keterampilan Mengadakan Variasi
 
 Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar perhatian siswa tetap terjaga selama proses pembelajaran.
 
@@ -28479,7 +28479,7 @@ Kebosanan adalah musuh utama dalam belajar. Variasi dilakukan untuk menjaga agar
 2. **Variasi Penggunaan Media:** Menggunakan gambar, video, alat peraga, atau simulasi digital.
 3. **Variasi Pola Interaksi:** Berubah dari ceramah (guru-siswa) menjadi diskusi kelompok (siswa-siswa).
 
-## 6\. Keterampilan Membimbing Diskusi Kelompok Kecil
+## 6. Keterampilan Membimbing Diskusi Kelompok Kecil
 
 Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan masalah bersama. Peran guru di sini adalah sebagai **fasilitator**, bukan pendominasi.
 
@@ -28491,7 +28491,7 @@ Diskusi kelompok kecil memungkinkan siswa untuk berbagi informasi dan memecahkan
 - Meningkatkan partisipasi siswa yang pasif.
 - Menutup diskusi dengan rangkuman bersama.
 
-## 7\. Keterampilan Mengelola Kelas
+## 7. Keterampilan Mengelola Kelas
 
 Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar yang optimal serta mengendalikan kondisi jika terjadi gangguan.
 
@@ -28512,7 +28512,7 @@ else:
     lanjutkan_pembelajaran()
 ```
 
-## 8\. Keterampilan Menutup Pelajaran
+## 8. Keterampilan Menutup Pelajaran
 
 Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
 
@@ -28558,7 +28558,7 @@ Selamat datang di tahap yang paling krusial dalam siklus *microteaching*. Jika d
 
 Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot"—artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
 
-## 1\. Filosofi RPP Mikro: "Less is More"
+## 1. Filosofi RPP Mikro: "Less is More"
 
 Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit), RPP Mikro adalah sebuah **mikrokosmos**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
 
@@ -28566,7 +28566,7 @@ Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit),
 
 **Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet** —kecil, sekali makan, namun memiliki ledakan rasa yang lengkap dan presentasi yang sempurna.
 
-## 2\. Komponen Esensial RPP Mikro
+## 2. Komponen Esensial RPP Mikro
 
 Meskipun ringkas, RPP Mikro harus memiliki struktur yang logis. Berikut adalah komponen yang wajib ada:
 
@@ -28593,7 +28593,7 @@ Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
 2. **Kegiatan Inti (7-10 Menit):** Eksplorasi materi dan praktik KDM yang menjadi fokus.
 3. **Penutup (1-2 Menit):** Kesimpulan, refleksi singkat, dan penguatan.
 
-## 3\. Matematika dalam Perencanaan Waktu
+## 3. Matematika dalam Perencanaan Waktu
 
 Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
 
@@ -28609,7 +28609,7 @@ T_{\text{total}} = P + I + K
 
 *Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
 
-## 4\. Langkah-Langkah Menyusun RPP Mikro
+## 4. Langkah-Langkah Menyusun RPP Mikro
 
 Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yang terlewat:
 
@@ -28618,7 +28618,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 3. **Rancang Pertanyaan Kunci:** Karena waktu terbatas, siapkan pertanyaan yang *powerful* untuk memancing berpikir kritis tanpa bertele-tele.
 4. **Tuliskan Instruksi dengan Jelas:** Dalam RPP Mikro, tuliskan kalimat instruksi yang akan kamu ucapkan agar tidak terjadi pemborosan kata (*wordiness*).
 
-## 5\. Contoh RPP Mikro (Format Ringkas)
+## 5. Contoh RPP Mikro (Format Ringkas)
 
 **Identitas:**
 
@@ -28634,7 +28634,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | 2-8'' | Inti | Menjelaskan konsep gaya apung menggunakan rumus \(F_a = \rho \cdot g \cdot V_{\text{bf}}\). Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
 | 8-10'' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
-## 6\. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
+## 6. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
 
 Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks—misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
 
@@ -28644,7 +28644,7 @@ Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memi
 2. Menggunakan demo singkat (Media).
 3. Memastikan tim paham melalui satu pertanyaan strategis (Evaluasi).
 
-## 7\. Tips Menghindari Kesalahan Umum
+## 7. Tips Menghindari Kesalahan Umum
 
 > **Important:**
 > 
@@ -28662,7 +28662,7 @@ Pernahkah kamu duduk di sebuah seminar di mana pembicaranya berbicara dengan nad
 
 Dalam dunia pendidikan, **monotoni adalah musuh utama pembelajaran.** Guru yang hebat bukan hanya mereka yang menguasai materi, tetapi mereka yang mampu menjaga "api" perhatian siswa tetap menyala. Di sinilah peran krusial dari dua keterampilan dasar mengajar: **Variasi Stimulus** dan **Keterampilan Bertanya**.
 
-## 1\. Keterampilan Mengadakan Variasi Stimulus
+## 1. Keterampilan Mengadakan Variasi Stimulus
 
 Variasi stimulus adalah upaya guru untuk mengubah perilaku dalam proses interaksi belajar mengajar yang bertujuan untuk mengatasi kebosanan siswa, sehingga siswa memiliki antusiasme yang tinggi dan penuh perhatian.
 
@@ -28700,7 +28700,7 @@ Jangan hanya menggunakan pola satu arah (\text{Guru} \rightarrow \text{Siswa}). 
 - **Siswa - Guru:** Siswa yang mengajukan inisiatif pertanyaan.
 - **Siswa - Siswa:** Diskusi kelompok atau kerja berpasangan.
 
-## 2\. Keterampilan Bertanya (Questioning Skills)
+## 2. Keterampilan Bertanya (Questioning Skills)
 
 Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **bertanya** adalah cara kita memastikan otak mereka bekerja. Bertanya bukan sekadar meminta jawaban, melainkan alat untuk menuntun proses berpikir.
 
@@ -28760,7 +28760,7 @@ Bayangkan seorang sutradara film sebelum memulai syuting. Ia tidak hanya mengand
 
 Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa tersebut akan terhambat jika lingkungan fisik dan teknisnya berantakan. Persiapan teknis adalah "fondasi" yang memungkinkan "bangunan" instruksional kamu berdiri tegak.
 
-### 1\. Arsitektur Ruang Mikro: Menata Layout yang Efektif
+### 1. Arsitektur Ruang Mikro: Menata Layout yang Efektif
 
 Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan keintiman namun tetap mempertahankan struktur kelas formal.
 
@@ -28777,7 +28777,7 @@ Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena 
 
 > **Pesan Penting:** Tata letak bukan hanya soal estetika, tapi soal **aksesibilitas**. Pastikan kamu bisa berpindah dari papan tulis ke area siswa dalam 2-3 langkah tanpa tersandung kabel atau kaki meja.
 
-### 2\. Pemilihan dan Penempatan Media Pembelajaran
+### 2. Pemilihan dan Penempatan Media Pembelajaran
 
 Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efisiensi**. Ingat, durasi kamu hanya 10-15 menit. Jangan habiskan 5 menit hanya untuk menyalakan proyektor!
 
@@ -28796,7 +28796,7 @@ Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efi
 - *Teknologi Tinggi:* Canva/PowerPoint – Gunakan maksimal 3-5 slide untuk satu sesi mikro.
 - *Alat Peraga:* Model anatomi, sampel batuan, atau benda nyata (realia) yang mendukung materi secara langsung.
 
-### 3\. Pengondisian Siswa Model (Audiens)
+### 3. Pengondisian Siswa Model (Audiens)
 
 Siswa model biasanya adalah rekan sejawat kamu (*peer teaching*). Tantangannya adalah mereka "berpura-pura" menjadi siswa (misalnya siswa kelas 5 SD).
 
@@ -28808,7 +28808,7 @@ Siswa model biasanya adalah rekan sejawat kamu (*peer teaching*). Tantangannya a
 
 *Think about this: Bagaimana jika siswa model kamu terlalu pasif atau malah terlalu banyak bicara? Sebagai guru, kamu harus tetap memegang kendali kelas dengan teknik manajemen kelas yang sopan.*
 
-### 4\. Checklist Persiapan Teknis (Audit Mandiri)
+### 4. Checklist Persiapan Teknis (Audit Mandiri)
 
 Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa berikut:
 
@@ -28846,7 +28846,7 @@ Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya ada
 
 Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu menghargai setiap detik yang berlalu.
 
-## 1\. Kendali Suara: Instrumen Utama Sang Pendidik
+## 1. Kendali Suara: Instrumen Utama Sang Pendidik
 
 Suara adalah alat musik utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi sangat krusial.
 
@@ -28872,7 +28872,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 
 > "Suara yang dikelola dengan baik dapat mengubah informasi yang membosankan menjadi petualangan yang menarik."
 
-## 2\. Bahasa Tubuh: Pesan Tanpa Kata
+## 2. Bahasa Tubuh: Pesan Tanpa Kata
 
 Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
 
@@ -28895,7 +28895,7 @@ Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
 - **Center of Interest:** Jangan terpaku di satu titik (seperti patung). Bergeraklah ke sisi kiri atau kanan kelas secara natural.
 - **Postur:** Berdiri tegak menunjukkan kepercayaan diri. Hindari bersandar pada meja guru atau papan tulis.
 
-## 3\. Manajemen Waktu yang Ketat (The Clock is Ticking)
+## 3. Manajemen Waktu yang Ketat (The Clock is Ticking)
 
 Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Mengelola waktu ini adalah tantangan teknis terbesar.
 
@@ -28912,7 +28912,7 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 
 *Think about this: Jika kamu gagal menutup pelajaran dengan baik karena kehabisan waktu, siswa akan pulang dengan kebingungan tentang apa yang baru saja mereka pelajari.*
 
-## 4\. Mengelola Kegugupan (Stage Fright)
+## 4. Mengelola Kegugupan (Stage Fright)
 
 Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan sejawat atau dosen.
 
@@ -28951,7 +28951,7 @@ Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima
 
 Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang paling jujur. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
-## 1\. Urgensi Rekaman Video dalam Microteaching
+## 1. Urgensi Rekaman Video dalam Microteaching
 
 Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
 
@@ -28961,7 +28961,7 @@ Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita la
 
 > "Video adalah cermin yang tidak hanya memantulkan wajah, tapi juga memantulkan metodologi dan energi seorang guru di dalam kelas."
 
-## 2\. Aspek Teknis Pengambilan Video
+## 2. Aspek Teknis Pengambilan Video
 
 Untuk mendapatkan video yang berkualitas dan layak dianalisis, kamu tidak memerlukan kru film profesional. Namun, kamu harus memahami beberapa prinsip dasar videografi berikut:
 
@@ -28986,7 +28986,7 @@ Audio seringkali lebih penting daripada video. Jika kualitas gambar buruk, kita 
 - **Gunakan Mikrofon Eksternal:** Jika memungkinkan, gunakan *clip-on* atau *wireless mic*.
 - **Kontrol Kebisingan:** Matikan kipas angin yang berisik atau tutup pintu untuk meredam suara koridor.
 
-## 3\. Strategi Penempatan Kamera
+## 3. Strategi Penempatan Kamera
 
 Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
 
@@ -28997,7 +28997,7 @@ Ada dua pendekatan utama dalam meletakkan kamera saat simulasi:
 	- *Kelebihan:* Bisa melakukan *zoom-in* pada momen penting seperti saat guru membimbing siswa secara individu.
 		- *Kekurangan:* Berisiko gambar goyang (*shaky*) jika tidak menggunakan *gimbal*.
 
-## 4\. Alur Kerja Dokumentasi Digital
+## 4. Alur Kerja Dokumentasi Digital
 
 Agar hasil rekaman tidak menumpuk tanpa arah, ikuti standarisasi dokumentasi berikut:
 
@@ -29010,7 +29010,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 - **Resolusi:** Minimal 720p (HD) untuk keseimbangan antara kejernihan dan ukuran file.
 - **Format:** `.mp4` (H.264) karena kompatibel dengan hampir semua perangkat dan platform evaluasi.
 
-## 5\. Real-World Application: Skenario Simulasi
+## 5. Real-World Application: Skenario Simulasi
 
 **Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelas" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
 
@@ -29018,7 +29018,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 - **Langkah 2 (Eksekusi):** Rekan sejawat menekan tombol *record* 5 detik sebelum Sarah memulai untuk memastikan bagian awal tidak terpotong.
 - **Langkah 3 (Pengecekan):** Setelah selesai, Sarah langsung melakukan *spot-check* (mengecek audio di detik ke-30, menit ke-5, dan akhir) untuk memastikan suara terekam jelas sebelum meninggalkan ruangan.
 
-## 6\. Etika dan Legalitas Rekaman
+## 6. Etika dan Legalitas Rekaman
 
 Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa model atau rekan).
 
@@ -29047,7 +29047,7 @@ Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun ke
 
 Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif seperti, *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
-## 1\. Esensi Observasi dalam Microteaching
+## 1. Esensi Observasi dalam Microteaching
 
 Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing) bertugas menangkap fenomena yang terjadi selama 10-15 menit simulasi.
 
@@ -29057,7 +29057,7 @@ Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secar
 
 > **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dengan apa yang sebenarnya terjadi di kelas.
 
-## 2\. Anatomi Instrumen Observasi
+## 2. Anatomi Instrumen Observasi
 
 Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utama:
 
@@ -29069,7 +29069,7 @@ Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utam
 
 Seorang juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
 
-## 3\. Jenis-Jenis Format Penilaian
+## 3. Jenis-Jenis Format Penilaian
 
 Ada beberapa format yang umum digunakan dalam *microteaching*. Pemilihannya bergantung pada fokus keterampilan yang ingin diamati.
 
@@ -29093,7 +29093,7 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 - **Contoh:** *"Pada menit ke-4, guru gagal merespons pertanyaan siswa B sehingga fokus kelas teralihkan selama 2 menit."*
 
-## 4\. Rubrik Observasi: Jantung Penilaian yang Adil
+## 4. Rubrik Observasi: Jantung Penilaian yang Adil
 
 **Rubrik** adalah panduan skoring yang menjabarkan ekspektasi spesifik untuk setiap level kemampuan. Tanpa rubrik, angka "3" bagi Pengamat A bisa berarti berbeda dengan angka "3" bagi Pengamat B.
 
@@ -29104,7 +29104,7 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 | **Kejelasan Pertanyaan** | Pertanyaan berbelit-belit dan membingungkan siswa. | Pertanyaan cukup jelas namun sering diulang-ulang. | Pertanyaan jelas dan langsung pada inti permasalahan. | Pertanyaan sangat jelas, padat, dan memicu pemikiran kritis. |
 | **Penyebaran** | Hanya bertanya pada satu siswa saja. | Bertanya pada beberapa siswa di depan saja. | Pertanyaan disebarkan ke berbagai sisi kelas. | Pertanyaan tersebar merata dan melibatkan siswa yang pasif. |
 
-## 5\. Menghitung Skor Objektif
+## 5. Menghitung Skor Objektif
 
 Untuk memberikan gambaran menyeluruh, hasil observasi sering kali dikuantifikasi. Misalkan terdapat 5 indikator dengan skor maksimal 4 per indikator.
 
@@ -29116,7 +29116,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nila
 
 *Think about this: Apakah nilai 75 sudah cukup untuk menyatakan seseorang kompeten mengajar? Atau apakah ada indikator "fatal" (seperti penguasaan materi) yang jika rendah, maka nilai lainnya tidak relevan?*
 
-## 6\. Skenario Real-World: Simulasi Penilaian Sejawat
+## 6. Skenario Real-World: Simulasi Penilaian Sejawat
 
 **Skenario:** Andi sedang mempraktikkan keterampilan "Mengadakan Variasi". Rekan sejawatnya, Budi, bertugas sebagai pengamat menggunakan instrumen yang telah disepakati.
 
@@ -29128,7 +29128,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nila
 
 **Hasil:** Andi tidak merasa tersinggung karena ada **bukti data**, bukan sekadar opini Budi.
 
-## 7\. Tips Bagi Pengamat (Sejawat)
+## 7. Tips Bagi Pengamat (Sejawat)
 
 Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
 
@@ -29158,19 +29158,19 @@ Sebagai pendidik, kamu adalah "atlet instruksional". Mengandalkan ingatan saja t
 
 Melakukan refleksi bukan hanya sekadar menonton video sambil minum kopi. Diperlukan prosedur yang terstruktur agar analisis menjadi objektif:
 
-### 1\. Tahap Persiapan Mental (Detasemen Diri)
+### 1. Tahap Persiapan Mental (Detasemen Diri)
 
 Sebelum menekan tombol *play*, lepaskan ego kamu. Sangat wajar jika kamu merasa aneh atau tidak nyaman mendengar suara sendiri atau melihat ekspresi wajah sendiri di layar.
 
 > **Insight:** Fokuslah pada peran kamu sebagai "pengamat profesional", bukan sebagai "kritikus diri" yang kejam. Lihatlah sosok di video tersebut sebagai orang lain yang sedang kamu bantu untuk berkembang.
 
-### 2\. Pengamatan Pertama: Kesan Menyeluruh (Holistik)
+### 2. Pengamatan Pertama: Kesan Menyeluruh (Holistik)
 
 Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunakan fase ini untuk merasakan alur dan "energi" kelas.
 
 - *Pikirkan tentang ini: Bagaimana suasana perasaan (mood) yang terbangun di kelas tersebut? Apakah tampak membosankan, tegang, atau menyenangkan?*
 
-### 3\. Pengamatan Kedua: Analisis Terfokus (Kodifikasi)
+### 3. Pengamatan Kedua: Analisis Terfokus (Kodifikasi)
 
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
@@ -29178,7 +29178,7 @@ Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan 
 - Catat durasi waktu (time-stamp).
 - Gunakan rumus sederhana untuk melihat manajemen waktu: \(\Delta T = T_{\text{aktual}} - T_{\text{rencana}}\) Jika \(\Delta T\) bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
-### 4\. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
+### 4. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
 
 Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP dengan apa yang terekam di video.
 
@@ -29237,7 +29237,7 @@ Dalam siklus *microteaching*, tahap pemberian umpan balik (*feedback*) adalah mo
 
 Materi ini akan membahas bagaimana memberikan dan menerima kritik dengan cara yang memberdayakan, bukan menjatuhkan, guna memastikan setiap sesi *microteaching* menghasilkan peningkatan kompetensi yang nyata.
 
-### 1\. Filosofi Umpan Balik: Bukan Penghakiman, Tapi Kompas
+### 1. Filosofi Umpan Balik: Bukan Penghakiman, Tapi Kompas
 
 Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan anak panah, kamu tidak akan pernah tahu apakah kamu perlu menggeser busur ke kiri atau ke kanan. Umpan balik dalam *microteaching* berfungsi seperti instruktur panah yang mengatakan, *"Anak panahmu jatuh 5 cm di sebelah kanan sasaran karena posisi bahumu terlalu tegang."*
 
@@ -29249,7 +29249,7 @@ Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan
 
 > "Umpan balik adalah sarapan bagi para juara. Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme."
 
-### 2\. Etika Memberikan Umpan Balik (The Giver''s Guide)
+### 2. Etika Memberikan Umpan Balik (The Giver''s Guide)
 
 Memberikan kritik kepada rekan sejawat membutuhkan empati dan teknik komunikasi yang matang agar pesan dapat diterima tanpa memicu defensifitas.
 
@@ -29273,7 +29273,7 @@ Jangan mengkritik hal-hal yang bersifat permanen atau di luar kendali (seperti a
 - Penggunaan media pembelajaran.
 - Ketepatan waktu (*time management*).
 
-### 3\. Struktur Umpan Balik dengan Model SBI
+### 3. Struktur Umpan Balik dengan Model SBI
 
 Agar umpan balik tidak bias, gunakan model **SBI (Situation, Behavior, Impact)**:
 
@@ -29283,7 +29283,7 @@ Agar umpan balik tidak bias, gunakan model **SBI (Situation, Behavior, Impact)**
 | **Behavior** | Apa perilaku spesifik yang teramati? | "...kamu hanya memberikan kesempatan menjawab kepada siswa di barisan depan." |
 | **Impact** | Apa dampak perilaku tersebut terhadap kelas? | "Akibatnya, siswa di barisan belakang mulai terlihat tidak fokus dan asyik mengobrol sendiri." |
 
-### 4\. Seni Menerima Umpan Balik (The Receiver''s Mindset)
+### 4. Seni Menerima Umpan Balik (The Receiver''s Mindset)
 
 Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai calon guru profesional, kamu perlu melatih **Growth Mindset**.
 
@@ -29293,7 +29293,7 @@ Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai
 
 *Think about this:* *Jika kamu tidak pernah diberitahu tentang celah dalam pengajaran kamu sekarang (di lingkungan yang aman), bayangkan betapa sulitnya saat kamu menghadapinya langsung di depan 40 siswa di kelas yang sebenarnya.*
 
-### 5\. Real-World Application: Skenario Simulasi
+### 5. Real-World Application: Skenario Simulasi
 
 **Skenario:** Seorang rekan (Andi) baru saja selesai melakukan praktik keterampilan membuka pelajaran. Andi terlihat sangat gugup, suaranya kecil, dan dia lupa menyampaikan tujuan pembelajaran.
 
@@ -29301,7 +29301,7 @@ Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai
 
 **Contoh Umpan Balik KONSTRUKTIF (Model SBI + Sandwich):** *"Andi, saya sangat suka cara kamu memberikan senyuman di awal kelas, itu membuat suasana jadi ramah (Positif). Namun, saat masuk ke materi inti, volume suara kamu agak menurun sehingga saya yang duduk di belakang sulit mendengar instruksimu (Situation & Behavior). Hal ini membuat saya sedikit bingung apa yang harus dikerjakan (Impact). Untuk sesi re-teaching nanti, mungkin kamu bisa mencoba mengambil napas dalam sebelum mulai dan menuliskan poin tujuan pembelajaran di papan tulis agar tidak terlewat (Saran/Solusi)."*
 
-### 6\. Checklist Evaluasi Diri Pasca-Feedback
+### 6. Checklist Evaluasi Diri Pasca-Feedback
 
 Setelah menerima umpan balik, lakukan langkah-langkah berikut:
 
@@ -29334,7 +29334,7 @@ Siklus ini bukan sekadar mengulang apa yang sudah dilakukan, melainkan sebuah up
 
 Proses re-teaching tidak dimulai saat kamu berdiri di depan kelas lagi, melainkan dimulai segera setelah sesi umpan balik berakhir. Berikut adalah langkah-langkah sistematisnya:
 
-### 1\. Analisis Celah (Gap Analysis)
+### 1. Analisis Celah (Gap Analysis)
 
 Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rekaman video.
 
@@ -29342,7 +29342,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
 - Apakah masalahnya ada pada **manajemen waktu**, **penggunaan media**, atau **teknik bertanya**?
 - Gunakan logika sederhana ini: \(\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}\)
 
-### 2\. Revisi RPP (Refining the Blueprint)
+### 2. Revisi RPP (Refining the Blueprint)
 
 Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
@@ -29350,14 +29350,14 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 - **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
-### 3\. Simulasi Mandiri (The Mental Rehearsal)
+### 3. Simulasi Mandiri (The Mental Rehearsal)
 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
 - Praktikkan transisi antar langkah pembelajaran yang telah direvisi.
 - *Think about this: Apakah perubahan yang kamu buat terasa lebih alami atau justru membuat kamu canggung?*
 
-### 4\. Pelaksanaan Re-teaching
+### 4. Pelaksanaan Re-teaching
 
 Pada tahap ini, kamu kembali ke "laboratorium" mengajar.
 
@@ -29409,7 +29409,7 @@ Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di si
 
 **Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses kristalisasi pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti otentik bahwa kamu telah bertransformasi dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
 
-## 1\. Filosofi Evaluasi Akhir dalam Microteaching
+## 1. Filosofi Evaluasi Akhir dalam Microteaching
 
 Dalam microteaching, evaluasi akhir menggunakan pendekatan **asessmen berkelanjutan** (*continuous assessment*). Kita tidak hanya melihat performa terakhir, tetapi melihat jarak (gap) yang telah berhasil kamu lalui.
 
@@ -29425,7 +29425,7 @@ Keberhasilan dalam fase ini diukur menggunakan formula sederhana namun mendalam:
 
 Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil—mulai dari cara kamu bertanya hingga cara kamu mengelola kelas—telah dianalisis secara kritis.
 
-## 2\. Menyusun Portofolio Mengajar (Teaching Portfolio)
+## 2. Menyusun Portofolio Mengajar (Teaching Portfolio)
 
 Portofolio adalah "museum pribadi" dari perjalanan profesional kamu. Ini adalah kumpulan dokumen sistematis yang menunjukkan kemampuan, kemajuan, dan pencapaian kamu dalam mengajar.
 
@@ -29451,7 +29451,7 @@ Kamu dapat menyusunnya secara kronologis atau berdasarkan kategori keterampilan.
 | **Siklus 2** | RPP Revisi, Video 2, Hasil Belajar Siswa Model | Menunjukkan perbaikan (growth) |
 | **Kesimpulan** | Rencana Pengembangan Diri (Action Plan) | Menatap masa depan |
 
-## 3\. Menganalisis Perkembangan Kompetensi Berkelanjutan
+## 3. Menganalisis Perkembangan Kompetensi Berkelanjutan
 
 Tujuan utama dari deskripsi tugas ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan: *"Seberapa jauh saya telah melangkah?"*
 
@@ -29466,7 +29466,7 @@ Setelah menyelesaikan seluruh rangkaian microteaching, lakukan analisis SWOT ter
 
 > **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat tidak dinilai dari ketiadaan kesalahan, tetapi dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
 
-## 4\. Real-World Application: Dari Lab ke Kelas Nyata
+## 4. Real-World Application: Dari Lab ke Kelas Nyata
 
 Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untuk syarat kelulusan mata kuliah.
 
@@ -29482,7 +29482,7 @@ Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, 
 
 > "Pada siklus pertama, frekuensi saya memberikan penguatan (*reinforcement*) hanya 2 kali dalam 10 menit. Setelah melakukan refleksi berbasis video, pada siklus kedua saya berhasil meningkatkan frekuensi penguatan menjadi 6 kali dengan variasi verbal dan non-verbal, yang berdampak pada peningkatan partisipasi siswa model sebesar 40%."
 
-## 5\. Rencana Pengembangan Profesional (Action Plan)
+## 5. Rencana Pengembangan Profesional (Action Plan)
 
 Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Rencana Tindak Lanjut (RTL)**. Ini adalah jembatan antara simulasi dan realitas.
 
@@ -29522,8 +29522,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30783,8 +30783,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31844,8 +31844,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33147,8 +33147,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34427,8 +34427,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36032,8 +36032,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37083,8 +37083,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38133,8 +38133,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-07-25T16:06:25.180Z',
-  '2026-07-25T16:06:25.180Z'
+  '2026-07-25T16:09:47.337Z',
+  '2026-07-25T16:09:47.337Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

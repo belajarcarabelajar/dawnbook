@@ -6,7 +6,7 @@ Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersi
 
 *Microteaching* adalah "Flight Simulator" bagi para pendidik. Mari kita bedah bagaimana penyederhanaan ini bekerja melalui karakteristik dan prinsip utamanya.
 
-### 1\. Karakteristik Utama: Konsep Penyederhanaan
+### 1. Karakteristik Utama: Konsep Penyederhanaan
 
 Pembelajaran mikro bukan sekadar mengajar dalam durasi pendek, melainkan sebuah desain instruksional yang sengaja diperkecil skalanya (*scaled-down teaching*). Ada tiga aspek utama dalam penyederhanaan ini:
 
@@ -31,7 +31,7 @@ Ini adalah karakteristik yang paling krusial. Dalam mengajar normal, kamu melaku
 - **Contoh:** Jika hari ini jadwal kamu melatih "Keterampilan Bertanya", maka fokus penilaian dan perhatian kamu hanya pada teknik bertanya, meskipun kamu tetap menyampaikan materi pelajaran.
 - **Tujuan:** Mencapai penguasaan (*mastery*) pada setiap komponen mengajar secara bertahap dan mendalam.
 
-### 2\. Prinsip-Prinsip Pembelajaran Mikro
+### 2. Prinsip-Prinsip Pembelajaran Mikro
 
 Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang teguh:
 
@@ -42,7 +42,7 @@ Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang
 
 > **Insight Penting:** Pembelajaran mikro adalah lingkungan yang "aman untuk gagal". Di sini, kesalahan bukan merupakan kegagalan, melainkan data untuk perbaikan sebelum kamu terjun ke sekolah yang sebenarnya.
 
-### 3\. Analogi: Latihan Dasar Pemain Basket
+### 3. Analogi: Latihan Dasar Pemain Basket
 
 Untuk memahami mengapa kita harus memecah-mencah keterampilan mengajar, mari gunakan analogi olahraga.
 
@@ -54,7 +54,7 @@ Seorang pemain basket profesional tidak hanya berlatih dengan cara bertanding 5-
 
 Ketika semua keterampilan yang telah "disederhanakan" dan dilatih secara terpisah itu digabungkan, mereka menjadi pemain yang hebat di lapangan sesungguhnya. **Microteaching adalah "Drill Spesifik" bagi guru.**
 
-### 4\. Real-World Application: Skenario Praktik
+### 4. Real-World Application: Skenario Praktik
 
 Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nyata:
 
@@ -69,7 +69,7 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 - **Proses:** Selama 12 menit, Sarah tidak terlalu mengkhawatirkan apakah seluruh materi fotosintesis selesai dibahas secara mendalam. Fokus utamanya adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton.
 - **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, namun nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang sangat spesifik dan berguna.
 
-### 5\. Mengapa Penyederhanaan Itu Efektif?
+### 5. Mengapa Penyederhanaan Itu Efektif?
 
 Secara kognitif, otak manusia memiliki batasan dalam memproses informasi baru yang terlalu kompleks (*Cognitive Load Theory*).
 

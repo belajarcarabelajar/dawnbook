@@ -1,4 +1,4 @@
-## Komponen Utama Investasi Modal Manusia
+# Komponen Utama Investasi Modal Manusia
 
 Selamat datang di pembahasan inti mengenai **Teori Modal Manusia** (*Human Capital Theory*). Jika sebelumnya kita telah memahami bahwa manusia bukan hanya "biaya", tetapi "aset" ekonomi yang bernilai, sekarang kita akan membedah jenis-jenis investasi yang dapat ditanamkan ke dalam diri agar nilai aset tersebut meningkat.
 

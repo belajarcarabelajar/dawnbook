@@ -1,4 +1,4 @@
-## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
+# Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
 Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura, yang memiliki sumber daya alam sangat terbatas, mampu bertransformasi dari negara berpendapatan rendah menjadi raksasa ekonomi dunia dalam hitungan dekade? Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
 
@@ -10,7 +10,7 @@ Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebaga
 
 Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern.
 
-```
+```text
 Model Pertumbuhan Eksogen (Solow) ───► Menganggap teknologi sebagai "berkah luar"
                                        Terbentur Hukum Diminishing Returns
 
@@ -118,7 +118,7 @@ Namun, Korea Selatan menerapkan strategi transformasi berbasis pengetahuan:
 
 Investasi pada kapasitas manusia memicu siklus pertumbuhan positif (*virtuous cycle*) dalam perekonomian:
 
-```
+```text
 Investasi Pendidikan & Kesehatan ──► Peningkatan Keterampilan Tenaga Kerja
                                              │
 Investasi Asing (FDI) Meningkat ◄── Peningkatan Inovasi & Kapasitas Industri

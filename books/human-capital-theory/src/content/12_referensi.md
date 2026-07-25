@@ -1,4 +1,4 @@
-## Referensi
+# Referensi
 
 Berikut adalah rujukan akademis dan literatur fundamental yang digunakan dalam penyusunan buku *Human Capital Theory*. Jika kamu ingin mendalami fondasi teoretis, bukti empiris, maupun metodologi analisis modal manusia secara lebih rinci, daftar referensi berstandar APA 7th Edition di bawah ini menyajikan karya-karya utama dari para perintis dan peneliti terkemuka di bidang ekonomi sumber daya manusia dan pertumbuhan ekonomi.
 

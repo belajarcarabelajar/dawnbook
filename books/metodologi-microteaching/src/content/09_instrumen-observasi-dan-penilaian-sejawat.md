@@ -4,7 +4,7 @@ Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun ke
 
 Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif seperti, *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
-## 1\. Esensi Observasi dalam Microteaching
+## 1. Esensi Observasi dalam Microteaching
 
 Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing) bertugas menangkap fenomena yang terjadi selama 10-15 menit simulasi.
 
@@ -14,7 +14,7 @@ Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secar
 
 > **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dengan apa yang sebenarnya terjadi di kelas.
 
-## 2\. Anatomi Instrumen Observasi
+## 2. Anatomi Instrumen Observasi
 
 Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utama:
 
@@ -26,7 +26,7 @@ Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utam
 
 Seorang juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
 
-## 3\. Jenis-Jenis Format Penilaian
+## 3. Jenis-Jenis Format Penilaian
 
 Ada beberapa format yang umum digunakan dalam *microteaching*. Pemilihannya bergantung pada fokus keterampilan yang ingin diamati.
 
@@ -50,7 +50,7 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 - **Contoh:** *"Pada menit ke-4, guru gagal merespons pertanyaan siswa B sehingga fokus kelas teralihkan selama 2 menit."*
 
-## 4\. Rubrik Observasi: Jantung Penilaian yang Adil
+## 4. Rubrik Observasi: Jantung Penilaian yang Adil
 
 **Rubrik** adalah panduan skoring yang menjabarkan ekspektasi spesifik untuk setiap level kemampuan. Tanpa rubrik, angka "3" bagi Pengamat A bisa berarti berbeda dengan angka "3" bagi Pengamat B.
 
@@ -61,7 +61,7 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 | **Kejelasan Pertanyaan** | Pertanyaan berbelit-belit dan membingungkan siswa. | Pertanyaan cukup jelas namun sering diulang-ulang. | Pertanyaan jelas dan langsung pada inti permasalahan. | Pertanyaan sangat jelas, padat, dan memicu pemikiran kritis. |
 | **Penyebaran** | Hanya bertanya pada satu siswa saja. | Bertanya pada beberapa siswa di depan saja. | Pertanyaan disebarkan ke berbagai sisi kelas. | Pertanyaan tersebar merata dan melibatkan siswa yang pasif. |
 
-## 5\. Menghitung Skor Objektif
+## 5. Menghitung Skor Objektif
 
 Untuk memberikan gambaran menyeluruh, hasil observasi sering kali dikuantifikasi. Misalkan terdapat 5 indikator dengan skor maksimal 4 per indikator.
 
@@ -73,7 +73,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nila
 
 *Think about this: Apakah nilai 75 sudah cukup untuk menyatakan seseorang kompeten mengajar? Atau apakah ada indikator "fatal" (seperti penguasaan materi) yang jika rendah, maka nilai lainnya tidak relevan?*
 
-## 6\. Skenario Real-World: Simulasi Penilaian Sejawat
+## 6. Skenario Real-World: Simulasi Penilaian Sejawat
 
 **Skenario:** Andi sedang mempraktikkan keterampilan "Mengadakan Variasi". Rekan sejawatnya, Budi, bertugas sebagai pengamat menggunakan instrumen yang telah disepakati.
 
@@ -85,7 +85,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: \(\text{Nila
 
 **Hasil:** Andi tidak merasa tersinggung karena ada **bukti data**, bukan sekadar opini Budi.
 
-## 7\. Tips Bagi Pengamat (Sejawat)
+## 7. Tips Bagi Pengamat (Sejawat)
 
 Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
 

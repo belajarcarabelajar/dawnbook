@@ -4,7 +4,7 @@ Bayangkan seorang sutradara film sebelum memulai syuting. Ia tidak hanya mengand
 
 Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa tersebut akan terhambat jika lingkungan fisik dan teknisnya berantakan. Persiapan teknis adalah "fondasi" yang memungkinkan "bangunan" instruksional kamu berdiri tegak.
 
-### 1\. Arsitektur Ruang Mikro: Menata Layout yang Efektif
+### 1. Arsitektur Ruang Mikro: Menata Layout yang Efektif
 
 Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan keintiman namun tetap mempertahankan struktur kelas formal.
 
@@ -21,7 +21,7 @@ Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena 
 
 > **Pesan Penting:** Tata letak bukan hanya soal estetika, tapi soal **aksesibilitas**. Pastikan kamu bisa berpindah dari papan tulis ke area siswa dalam 2-3 langkah tanpa tersandung kabel atau kaki meja.
 
-### 2\. Pemilihan dan Penempatan Media Pembelajaran
+### 2. Pemilihan dan Penempatan Media Pembelajaran
 
 Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efisiensi**. Ingat, durasi kamu hanya 10-15 menit. Jangan habiskan 5 menit hanya untuk menyalakan proyektor!
 
@@ -40,7 +40,7 @@ Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efi
 - *Teknologi Tinggi:* Canva/PowerPoint – Gunakan maksimal 3-5 slide untuk satu sesi mikro.
 - *Alat Peraga:* Model anatomi, sampel batuan, atau benda nyata (realia) yang mendukung materi secara langsung.
 
-### 3\. Pengondisian Siswa Model (Audiens)
+### 3. Pengondisian Siswa Model (Audiens)
 
 Siswa model biasanya adalah rekan sejawat kamu (*peer teaching*). Tantangannya adalah mereka "berpura-pura" menjadi siswa (misalnya siswa kelas 5 SD).
 
@@ -52,7 +52,7 @@ Siswa model biasanya adalah rekan sejawat kamu (*peer teaching*). Tantangannya a
 
 *Think about this: Bagaimana jika siswa model kamu terlalu pasif atau malah terlalu banyak bicara? Sebagai guru, kamu harus tetap memegang kendali kelas dengan teknik manajemen kelas yang sopan.*
 
-### 4\. Checklist Persiapan Teknis (Audit Mandiri)
+### 4. Checklist Persiapan Teknis (Audit Mandiri)
 
 Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa berikut:
 

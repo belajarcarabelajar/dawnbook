@@ -4,7 +4,7 @@ Selamat datang di tahap yang paling krusial dalam siklus *microteaching*. Jika d
 
 Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot"—artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
 
-## 1\. Filosofi RPP Mikro: "Less is More"
+## 1. Filosofi RPP Mikro: "Less is More"
 
 Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit), RPP Mikro adalah sebuah **mikrokosmos**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
 
@@ -12,7 +12,7 @@ Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit),
 
 **Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet** —kecil, sekali makan, namun memiliki ledakan rasa yang lengkap dan presentasi yang sempurna.
 
-## 2\. Komponen Esensial RPP Mikro
+## 2. Komponen Esensial RPP Mikro
 
 Meskipun ringkas, RPP Mikro harus memiliki struktur yang logis. Berikut adalah komponen yang wajib ada:
 
@@ -39,7 +39,7 @@ Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
 2. **Kegiatan Inti (7-10 Menit):** Eksplorasi materi dan praktik KDM yang menjadi fokus.
 3. **Penutup (1-2 Menit):** Kesimpulan, refleksi singkat, dan penguatan.
 
-## 3\. Matematika dalam Perencanaan Waktu
+## 3. Matematika dalam Perencanaan Waktu
 
 Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
 
@@ -55,7 +55,7 @@ T_{\text{total}} = P + I + K
 
 *Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
 
-## 4\. Langkah-Langkah Menyusun RPP Mikro
+## 4. Langkah-Langkah Menyusun RPP Mikro
 
 Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yang terlewat:
 
@@ -64,7 +64,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 3. **Rancang Pertanyaan Kunci:** Karena waktu terbatas, siapkan pertanyaan yang *powerful* untuk memancing berpikir kritis tanpa bertele-tele.
 4. **Tuliskan Instruksi dengan Jelas:** Dalam RPP Mikro, tuliskan kalimat instruksi yang akan kamu ucapkan agar tidak terjadi pemborosan kata (*wordiness*).
 
-## 5\. Contoh RPP Mikro (Format Ringkas)
+## 5. Contoh RPP Mikro (Format Ringkas)
 
 **Identitas:**
 
@@ -80,7 +80,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus \(F_a = \rho \cdot g \cdot V_{\text{bf}}\). Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
 | 8-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
-## 6\. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
+## 6. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
 
 Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks—misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
 
@@ -90,7 +90,7 @@ Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memi
 2. Menggunakan demo singkat (Media).
 3. Memastikan tim paham melalui satu pertanyaan strategis (Evaluasi).
 
-## 7\. Tips Menghindari Kesalahan Umum
+## 7. Tips Menghindari Kesalahan Umum
 
 > **Important:**
 > 

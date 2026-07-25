@@ -30,19 +30,19 @@ Microteaching tidak muncul begitu saja. Ia lahir dari kebutuhan akan efektivitas
 
 Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah urgensi mengapa microteaching sangat krusial:
 
-### 1\. Jembatan Teori dan Praktik
+### 1. Jembatan Teori dan Praktik
 
 Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, namun "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
 
-### 2\. Mengurangi Risiko (Risk-Free Environment)
+### 2. Mengurangi Risiko (Risk-Free Environment)
 
 Di kelas asli, kesalahan guru bisa berdampak pada pemahaman siswa atau manajemen kelas selama satu semester. Dalam microteaching, jika kamu gagal mengelola kelas, kamu bisa segera mengulanginya tanpa merugikan masa depan siswa mana pun.
 
-### 3\. Pengembangan Keterampilan Secara Terisolasi
+### 3. Pengembangan Keterampilan Secara Terisolasi
 
 Sulit untuk memperbaiki cara bicara, bahasa tubuh, penggunaan media, dan teknik bertanya secara bersamaan. Microteaching memungkinkan kita untuk "membedah" komponen tersebut satu per satu hingga mahir.
 
-### 4\. Membangun Kepercayaan Diri
+### 4. Membangun Kepercayaan Diri
 
 *Pernahkah kamu merasa gemetar saat berbicara di depan umum?* Microteaching membantu mengikis kecemasan tersebut secara bertahap melalui latihan yang berulang dalam lingkungan yang mendukung.
 

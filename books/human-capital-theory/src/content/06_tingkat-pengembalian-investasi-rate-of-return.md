@@ -1,4 +1,4 @@
-## Tingkat Pengembalian Investasi (Rate of Return)
+# Tingkat Pengembalian Investasi (Rate of Return)
 
 Bayangkan kamu memiliki uang sebesar Rp100 juta. Kamu punya dua pilihan: memasukkannya ke dalam deposito bank dengan bunga 5% per tahun, atau menggunakannya untuk mengambil program sertifikasi profesional tingkat lanjut. Mana pilihan yang lebih menguntungkan?
 

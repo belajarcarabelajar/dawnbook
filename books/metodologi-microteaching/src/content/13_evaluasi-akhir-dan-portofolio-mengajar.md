@@ -4,7 +4,7 @@ Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di si
 
 **Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses kristalisasi pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti otentik bahwa kamu telah bertransformasi dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
 
-## 1\. Filosofi Evaluasi Akhir dalam Microteaching
+## 1. Filosofi Evaluasi Akhir dalam Microteaching
 
 Dalam microteaching, evaluasi akhir menggunakan pendekatan **asessmen berkelanjutan** (*continuous assessment*). Kita tidak hanya melihat performa terakhir, tetapi melihat jarak (gap) yang telah berhasil kamu lalui.
 
@@ -20,7 +20,7 @@ Keberhasilan dalam fase ini diukur menggunakan formula sederhana namun mendalam:
 
 Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil—mulai dari cara kamu bertanya hingga cara kamu mengelola kelas—telah dianalisis secara kritis.
 
-## 2\. Menyusun Portofolio Mengajar (Teaching Portfolio)
+## 2. Menyusun Portofolio Mengajar (Teaching Portfolio)
 
 Portofolio adalah "museum pribadi" dari perjalanan profesional kamu. Ini adalah kumpulan dokumen sistematis yang menunjukkan kemampuan, kemajuan, dan pencapaian kamu dalam mengajar.
 
@@ -46,7 +46,7 @@ Kamu dapat menyusunnya secara kronologis atau berdasarkan kategori keterampilan.
 | **Siklus 2** | RPP Revisi, Video 2, Hasil Belajar Siswa Model | Menunjukkan perbaikan (growth) |
 | **Kesimpulan** | Rencana Pengembangan Diri (Action Plan) | Menatap masa depan |
 
-## 3\. Menganalisis Perkembangan Kompetensi Berkelanjutan
+## 3. Menganalisis Perkembangan Kompetensi Berkelanjutan
 
 Tujuan utama dari deskripsi tugas ini adalah menyimpulkan siklus menjadi laporan perkembangan. Kamu harus mampu menjawab pertanyaan: *"Seberapa jauh saya telah melangkah?"*
 
@@ -61,7 +61,7 @@ Setelah menyelesaikan seluruh rangkaian microteaching, lakukan analisis SWOT ter
 
 > **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat tidak dinilai dari ketiadaan kesalahan, tetapi dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
 
-## 4\. Real-World Application: Dari Lab ke Kelas Nyata
+## 4. Real-World Application: Dari Lab ke Kelas Nyata
 
 Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untuk syarat kelulusan mata kuliah.
 
@@ -77,7 +77,7 @@ Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, 
 
 > "Pada siklus pertama, frekuensi saya memberikan penguatan (*reinforcement*) hanya 2 kali dalam 10 menit. Setelah melakukan refleksi berbasis video, pada siklus kedua saya berhasil meningkatkan frekuensi penguatan menjadi 6 kali dengan variasi verbal dan non-verbal, yang berdampak pada peningkatan partisipasi siswa model sebesar 40%."
 
-## 5\. Rencana Pengembangan Profesional (Action Plan)
+## 5. Rencana Pengembangan Profesional (Action Plan)
 
 Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Rencana Tindak Lanjut (RTL)**. Ini adalah jembatan antara simulasi dan realitas.
 

@@ -1,4 +1,4 @@
-## Pengantar Teori Modal Manusia: Manusia Sebagai Investasi Terbesar
+# Pengantar Teori Modal Manusia: Manusia Sebagai Investasi Terbesar
 
 Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep fundamental ekonomi: **Human Capital** (Modal Manusia).
 

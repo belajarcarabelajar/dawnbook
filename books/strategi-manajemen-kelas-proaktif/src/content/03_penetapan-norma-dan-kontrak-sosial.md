@@ -1,8 +1,8 @@
-## Penetapan Norma dan Kontrak Sosial: Membangun Fondasi Kepemilikan Bersama
+# Penetapan Norma dan Kontrak Sosial: Membangun Fondasi Kepemilikan Bersama
 
 Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka tidak lagi sekadar menaati aturan karena takut dihukum, melainkan karena mereka menghargai kesepakatan yang mereka buat sendiri.
 
-## 1\. Filosofi: Dari Kepatuhan Menuju Komitmen
+## 1. Filosofi: Dari Kepatuhan Menuju Komitmen
 
 Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun, dalam manajemen kelas proaktif, kita bergeser dari **Aturan** ke **Norma**.
 
@@ -11,7 +11,7 @@ Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun,
 
 > **Insight:** Kepatuhan (compliance) bersifat sementara dan hanya muncul saat ada pengawasan. Komitmen (commitment) bersifat menetap dan muncul dari dalam diri (intrinsik).
 
-## 2\. Proses Pembentukan Kontrak Sosial
+## 2. Proses Pembentukan Kontrak Sosial
 
 Melibatkan siswa dalam pembuatan aturan bukan berarti memberikan kendali penuh tanpa arah. Ini adalah proses fasilitasi yang terstruktur. Berikut adalah langkah-langkahnya:
 
@@ -48,7 +48,7 @@ $$
 
 Setelah draf disepakati, buatlah dokumen fisik yang menarik. Ini bukan sekadar kertas, ini adalah **Kontrak Sosial**. Mintalah setiap siswa (dan guru!) menandatanganinya. Penandatanganan secara fisik melibatkan aspek psikologis yang kuat terhadap komitmen.
 
-## 3\. Implementasi Berbasis Nilai Bersama
+## 3. Implementasi Berbasis Nilai Bersama
 
 Agar kontrak sosial tidak hanya menjadi hiasan dinding, ia harus diintegrasikan dalam interaksi harian.
 
@@ -67,7 +67,7 @@ Dalam kontrak sosial, jika terjadi pelanggaran, kita tidak menggunakan "hukuman"
 | Mengganggu teman | Disetrap/Keluar kelas | Pindah tempat duduk sementara untuk refleksi |
 | Tidak piket | Menulis "Saya janji..." 100x | Melakukan piket di hari berikutnya |
 
-## 4\. Real-World Application: Skenario Praktis
+## 4. Real-World Application: Skenario Praktis
 
 ### Skenario A: Kelas Dasar (Elementary)
 
@@ -83,7 +83,7 @@ Guru menggunakan pendekatan profesional seperti kontrak kerja di perusahaan tekn
 - **Guru:** "Kelas ini adalah laboratorium inovasi kita. Agar proyek kita sukses, protokol komunikasi apa yang ingin kalian tetapkan?"
 - **Hasil:** Kesepakatan tentang penggunaan *gadget* secara bertanggung jawab dan cara memberikan kritik yang membangun (constructive feedback).
 
-## 5\. Menjaga Kontrak Tetap Hidup
+## 5. Menjaga Kontrak Tetap Hidup
 
 Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berkala.
 
@@ -92,7 +92,7 @@ Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berk
 
 > **Pesan Penting:** Guru bukan polisi dari kontrak ini, melainkan penjaga gawang bersama. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
 
-## 6\. Contoh Struktur Kontrak Sosial (Digital/Teknis)
+## 6. Contoh Struktur Kontrak Sosial (Digital/Teknis)
 
 Jika kamu menggunakan platform manajemen kelas digital (seperti Google Classroom atau Notion), kamu bisa menyusun struktur kontrak dalam format yang terorganisir:
 

@@ -1,4 +1,4 @@
-## Analisis Biaya dan Manfaat Pendidikan: Mengapa Kita Memilih Sekolah?
+# Analisis Biaya dan Manfaat Pendidikan: Mengapa Kita Memilih Sekolah?
 
 Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal, sementara mereka bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang?
 
