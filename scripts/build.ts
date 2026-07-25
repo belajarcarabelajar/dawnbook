@@ -503,12 +503,16 @@ async function generateSitePages(
                     });
                     const subjectFilter = document.getElementById('subject-filter');
                     if (subjectFilter) {
-                        Array.from(subjects).sort().forEach(sub => {
+                        const sortedSubjects = Array.from(subjects).sort();
+                        const frag = document.createDocumentFragment();
+                        for (let i = 0; i < sortedSubjects.length; i++) {
+                            const sub = sortedSubjects[i];
                             const opt = document.createElement('option');
                             opt.value = sub;
                             opt.innerText = sub;
-                            subjectFilter.appendChild(opt);
-                        });
+                            frag.appendChild(opt);
+                        }
+                        subjectFilter.appendChild(frag);
                         subjectFilter.addEventListener('change', reorderBooks);
                     }
                     const sortSelect = document.getElementById('sort-select');
