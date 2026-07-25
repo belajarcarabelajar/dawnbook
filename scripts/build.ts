@@ -789,17 +789,19 @@ async function generateSitePages(
       function renderBadge(tierName, userName, message) {
         var c = badgeColors[tierName] || badgeColors.Bronze;
         var safeUserName = escapeClientHtml(userName);
+        var safeTierName = escapeClientHtml(tierName);
+        var safeMessage = escapeClientHtml(message);
         return '<div style="animation: fadeSlideUp 0.6s ease forwards;">' +
           '<svg width="160" height="160" viewBox="0 0 160 160" style="margin-bottom: 24px;">' +
             '<circle cx="80" cy="80" r="72" fill="' + c.bg + '" stroke="' + c.border + '" stroke-width="4"/>' +
             '<circle cx="80" cy="80" r="60" fill="' + c.fill + '" opacity="0.3"/>' +
             '<text x="80" y="70" text-anchor="middle" font-size="40" fill="' + c.text + '">&#9733;</text>' +
-            '<text x="80" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="' + c.text + '">' + tierName.toUpperCase() + '</text>' +
+            '<text x="80" y="100" text-anchor="middle" font-size="13" font-weight="700" fill="' + c.text + '">' + safeTierName.toUpperCase() + '</text>' +
             '<text x="80" y="118" text-anchor="middle" font-size="10" fill="' + c.text + '" opacity="0.8">PATRON</text>' +
           '</svg>' +
           '<h3 style="color: var(--color-primary); margin: 0 0 8px 0; font-size: 1.4rem;">' + safeUserName + '</h3>' +
-          '<p data-i18n="badge.' + tierName.toLowerCase() + '" style="color: var(--color-primary); font-weight: 700; font-size: 1.1rem; margin-bottom: 16px;">' + tierName + ' Patron</p>' +
-          '<p data-i18n="appreciation.' + tierName.toLowerCase() + '.msg" style="color: var(--color-text-muted); line-height: 1.7; max-width: 450px; margin: 0 auto;">' + message + '</p>' +
+          '<p data-i18n="badge.' + safeTierName.toLowerCase() + '" style="color: var(--color-primary); font-weight: 700; font-size: 1.1rem; margin-bottom: 16px;">' + safeTierName + ' Patron</p>' +
+          '<p data-i18n="appreciation.' + safeTierName.toLowerCase() + '.msg" style="color: var(--color-text-muted); line-height: 1.7; max-width: 450px; margin: 0 auto;">' + safeMessage + '</p>' +
         '</div>';
       }
 
