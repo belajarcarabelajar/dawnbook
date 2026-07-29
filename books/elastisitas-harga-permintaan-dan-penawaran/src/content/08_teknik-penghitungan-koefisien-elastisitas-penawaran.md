@@ -42,7 +42,7 @@ Mari kita terapkan rumus di atas ke dalam skenario nyata.
 **Penghitungan menggunakan Rumus Turunan:**
 1. Cari $\Delta \text{Q}$: $1.500 - 1.000 = 500$
 2. Cari $\Delta \text{P}$: $250.000 - 200.000 = 50.000$
-3. Masukkan ke rumus: $\text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000}$ $\text{E}_s = 0,01 \times 200$ $\text{E}_s = 2$
+3. Masukkan ke rumus: $\text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} = 0,01 \times 200 = 2$
 **Interpretasi:** Nilai $\text{E}_s = 2$ berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1\%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
 ## 5. Implementasi Teknis: Menghitung dengan Kode (Python)
 Jika kamu bekerja dengan data besar, penghitungan manual tentu tidak efisien. Berikut adalah cuplikan kode sederhana untuk menghitung elastisitas penawaran:
