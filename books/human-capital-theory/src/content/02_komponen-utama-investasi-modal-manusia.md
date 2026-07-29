@@ -62,9 +62,9 @@ H_{t+1} = \text{H}_t (1 - \delta) + \text{I}_t
 $$
 
 Keterangan variabel:
-- \\( H \\): Stok modal manusia kesehatan (*Health Capital Stock*)
-- \\( \delta \\): Laju depresiasi atau penuaan alamiah (*Depreciation Rate*)
-- \\( I \\): Investasi kesehatan baru (nutrisi, olahraga, dan layanan medis)
+- \( H \): Stok modal manusia kesehatan (*Health Capital Stock*)
+- \( \delta \): Laju depresiasi atau penuaan alamiah (*Depreciation Rate*)
+- \( I \): Investasi kesehatan baru (nutrisi, olahraga, dan layanan medis)
 
 Investasi kesehatan berawal sejak usia dini (nutrisi masa tumbuh kembang) dan berlanjut sepanjang masa hidup. Tubuh yang bugar adalah *hardware* yang menjalankan semua pengetahuan yang kamu miliki.
 
@@ -82,7 +82,7 @@ Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseora
 
 - **Biaya Langsung (*Direct Costs*):** Tiket transportasi, biaya pengangkutan barang, dan akomodasi relokasi.
 - **Biaya Psikologis (*Psychic Costs*):** Dampak emosional akibat berpisah dari keluarga, teman, serta lingkungan budaya lama.
-- **Manfaat Ekonomi (*Economic Benefits*):** Diferensiasi tingkat upah (\\( W \\)) di lokasi baru dibandingkan lokasi lama.
+- **Manfaat Ekonomi (*Economic Benefits*):** Diferensiasi tingkat upah (\( W \)) di lokasi baru dibandingkan lokasi lama.
 
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
@@ -91,12 +91,12 @@ $$
 $$
 
 Keterangan variabel:
-- \\( \text{W}_{\text{baru}} \\): Proyeksi upah di lokasi migrasi baru
-- \\( \text{W}_{\text{lama}} \\): Upah di lokasi asal
-- \\( r \\): Tingkat diskonto (*Discount Rate*)
-- \\( \text{C}_{\text{migrasi}} \\): Total akumulasi biaya relokasi langsung dan psikologis
+- \( \text{W}_{\text{baru}} \): Proyeksi upah di lokasi migrasi baru
+- \( \text{W}_{\text{lama}} \): Upah di lokasi asal
+- \( r \): Tingkat diskonto (*Discount Rate*)
+- \( \text{C}_{\text{migrasi}} \): Total akumulasi biaya relokasi langsung dan psikologis
 
-Apabila nilai \\(\text{Net Gain} > 0\\), keputusan migrasi secara ekonomis merupakan investasi modal manusia yang rasional.
+Apabila nilai \(\text{Net Gain} > 0\), keputusan migrasi secara ekonomis merupakan investasi modal manusia yang rasional.
 
 ---
 
@@ -146,8 +146,8 @@ Berdasarkan kalkulasi di atas, modal investasi dapat kembali (*Break-Even Point*
 | :--- | :--- | :--- | :--- |
 | **Pendidikan Formal** | Sekolah dasar hingga perguruan tinggi (*Higher Education*) | Keterampilan kognitif dasar, penalaran analitis, dan gelar akademik | Meningkatkan produktivitas marjinal dan memberikan sinyal (*Signaling*) ke pasar kerja |
 | **Pelatihan Kerja (*On-the-Job Training*)** | Kursus teknis, magang, dan sertifikasi spesialis | Keahlian praktis spesifik (*Firm-Specific*) dan ketrampilan terapan | Memangkas durasi pengerjaan, meningkatkan efisiensi operasional, serta adaptasi teknologi |
-| **Perawatan Kesehatan (*Health Capital*)** | Nutrisi seimbang, pola hidup aktif, dan keperawatan medis | Ketahanan fisik, vitalitas mental, dan masa hidup produktif | Meminimalkan rate depresiasi modal manusia (\\( \delta \\)) serta menekan *absenteeism* |
-| **Migrasi Tenaga Kerja (*Labor Migration*)** | Relokasi geografis ke wilayah industri atau pusat pertumbuhan | Mobilitas spasial dan alokasi pasar kerja optimal | Memaksimalkan nilai imbal hasil upah (\\( \text{Net Gain} > 0 \\)) sesuai kapasitas penuh |
+| **Perawatan Kesehatan (*Health Capital*)** | Nutrisi seimbang, pola hidup aktif, dan keperawatan medis | Ketahanan fisik, vitalitas mental, dan masa hidup produktif | Meminimalkan rate depresiasi modal manusia (\( \delta \)) serta menekan *absenteeism* |
+| **Migrasi Tenaga Kerja (*Labor Migration*)** | Relokasi geografis ke wilayah industri atau pusat pertumbuhan | Mobilitas spasial dan alokasi pasar kerja optimal | Memaksimalkan nilai imbal hasil upah (\( \text{Net Gain} > 0 \)) sesuai kapasitas penuh |
 
 ---
 

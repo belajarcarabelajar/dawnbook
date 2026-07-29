@@ -38,7 +38,7 @@ Teori Pertumbuhan Endogen yang dikembangkan pada akhir 1980-an membantah asumsi 
 
 | Dimensi Evaluasi | Model Pertumbuhan Solow (Eksogen) | Teori Pertumbuhan Endogen |
 | :--- | :--- | :--- |
-| **Fokus Utama** | Modal fisik (\\(K\\)) dan Tenaga kerja (\\(L\\)) | Pengetahuan, Inovasi, dan *Human Capital* (\\(h\\)) |
+| **Fokus Utama** | Modal fisik (\(K\)) dan Tenaga kerja (\(L\)) | Pengetahuan, Inovasi, dan *Human Capital* (\(h\)) |
 | **Sifat Kemajuan Teknologi** | Eksogen (faktor luar sistem / *Solow Residual*) | Endogen (hasil investasi internal R&D & pendidikan) |
 | **Dinamika Marginal Output** | *Diminishing Returns* (hasil menurun) | *Increasing Returns* (hasil meningkat berkat *spillover*) |
 | **Kondisi Jangka Panjang** | Menuju titik jenuh (*steady state*) | Pertumbuhan berkelanjutan tanpa batas jenuh |
@@ -76,14 +76,14 @@ $$
 
 Keterangan variabel:
 
-- \\(Y\\): Total Output PDB (*Gross Domestic Product*)
-- \\(A\\): Tingkat teknologi (*Total Factor Productivity*)
-- \\(K\\): Stok modal fisik (*Physical Capital*)
-- \\(h\\): Modal manusia rata-rata per pekerja (*Human Capital per Worker*)
-- \\(L\\): Jumlah tenaga kerja (*Labor Force*)
-- \\(\alpha\\): Elastisitas output terhadap modal fisik (\\(0 < \alpha < 1\\))
+- \(Y\): Total Output PDB (*Gross Domestic Product*)
+- \(A\): Tingkat teknologi (*Total Factor Productivity*)
+- \(K\): Stok modal fisik (*Physical Capital*)
+- \(h\): Modal manusia rata-rata per pekerja (*Human Capital per Worker*)
+- \(L\): Jumlah tenaga kerja (*Labor Force*)
+- \(\alpha\): Elastisitas output terhadap modal fisik (\(0 < \alpha < 1\))
 
-Dalam formulasi ini, peningkatan kualitas modal manusia (\\(h\\)) secara kolektif meningkatkan efektivitas seluruh faktor produksi lainnya.
+Dalam formulasi ini, peningkatan kualitas modal manusia (\(h\)) secara kolektif meningkatkan efektivitas seluruh faktor produksi lainnya.
 
 #### Model Paul Romer (1990)
 

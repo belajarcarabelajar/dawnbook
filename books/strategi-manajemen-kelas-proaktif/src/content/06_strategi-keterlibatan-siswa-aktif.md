@@ -16,9 +16,9 @@ $$
 
 Di mana:
 
-- \\(P(G)\\) adalah Probabilitas Gangguan.
-- \\(E\\) adalah *Engagement* (Keterlibatan).
-- \\(K\\) adalah Kejelasan Instruksi.
+- \(P(G)\) adalah Probabilitas Gangguan.
+- \(E\) adalah *Engagement* (Keterlibatan).
+- \(K\) adalah Kejelasan Instruksi.
 
 Semakin tinggi keterlibatan siswa, semakin rendah peluang terjadinya perilaku yang menyimpang. Strategi ini bukan sekadar tentang membuat siswa "sibuk", melainkan membuat mereka **terkoneksi secara kognitif dan emosional** dengan materi pelajaran.
 

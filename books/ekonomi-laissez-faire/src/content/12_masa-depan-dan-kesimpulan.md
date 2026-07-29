@@ -9,9 +9,9 @@ Bagian ini tidak hanya menutup diskusi kita, tetapi juga membuka cakrawala tenta
 Laissez-faire telah meninggalkan jejak permanen pada struktur masyarakat modern. Warisannya lebih dari sekadar angka pertumbuhan, melainkan pergeseran mendasar dalam cara manusia memandang kebebasan dan tanggung jawab.
 
 - **Pemberdayaan Individu:** Filosofi ini menggeser fokus dari kekuatan negara ke kedaulatan konsumen. Keputusan ekonomi kamu hari ini (apa yang kamu beli, di mana kamu bekerja) adalah bentuk nyata dari warisan Laissez-faire.
-- **Efisiensi sebagai Standar:** Konsep bahwa persaingan mendorong efisiensi telah menjadi doktrin universal. Perusahaan yang gagal berinovasi akan tersingkir, memastikan bahwa sumber daya \\( S \\) dialokasikan ke tempat yang paling produktif secara matematis:
+- **Efisiensi sebagai Standar:** Konsep bahwa persaingan mendorong efisiensi telah menjadi doktrin universal. Perusahaan yang gagal berinovasi akan tersingkir, memastikan bahwa sumber daya \( S \) dialokasikan ke tempat yang paling produktif secara matematis:
 
-\\[ E = \frac{\text{Output}}{\text{Input}} \rightarrow \text{Maksimal} \\]
+\[ E = \frac{\text{Output}}{\text{Input}} \rightarrow \text{Maksimal} \]
 
 - **Kesejahteraan Global:** Perdagangan bebas yang kita nikmati hari ini adalah turunan langsung dari penolakan Laissez-faire terhadap merkantilisme dan proteksionisme.
 
@@ -44,7 +44,7 @@ Dunia sedang menyaksikan kebangkitan kembali semangat Laissez-faire di wilayah-w
 
 ### A. *Decentralized Finance* (DeFi) dan Kripto
 
-Mata uang kripto adalah eksperimen Laissez-faire paling murni di abad ini. Tanpa bank sentral dan tanpa otoritas pusat, hanya algoritma dan pertemuan antara permintaan \\( D \\) serta penawaran \\( S \\).
+Mata uang kripto adalah eksperimen Laissez-faire paling murni di abad ini. Tanpa bank sentral dan tanpa otoritas pusat, hanya algoritma dan pertemuan antara permintaan \( D \) serta penawaran \( S \).
 
 - ***Real-world Use Case*:** Protokol peminjaman digital yang menggunakan *smart contracts* memungkinkan orang meminjam uang tanpa campur tangan bank tradisional, murni berdasarkan agunan digital dan mekanisme pasar otomatis.
 

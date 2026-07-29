@@ -14,15 +14,15 @@ Dalam upaya mengejar laba, perusahaan dipaksa untuk menekan biaya produksi seren
 
 Secara matematis, perusahaan berusaha memaksimalkan fungsi keuntungan:
 
-\\[ \pi = \text{TR} - \text{TC} \\]
+\[ \pi = \text{TR} - \text{TC} \]
 
 Di mana:
 
-- \\( \pi \\) (Pi) adalah Laba
-- \\( \text{TR} \\) (*Total Revenue*) adalah Total Pendapatan (\\( \text{Harga} \times \text{Jumlah} \\))
-- \\( \text{TC} \\) (*Total Cost*) adalah Total Biaya
+- \( \pi \) (Pi) adalah Laba
+- \( \text{TR} \) (*Total Revenue*) adalah Total Pendapatan (\( \text{Harga} \times \text{Jumlah} \))
+- \( \text{TC} \) (*Total Cost*) adalah Total Biaya
 
-Karena dalam pasar persaingan sempurna produsen sering kali tidak bisa menentukan harga sesuka hati (mereka adalah *price takers*), satu-satunya cara untuk meningkatkan \\( \pi \\) adalah dengan meminimalkan \\( \text{TC} \\). Hal ini mendorong pemanfaatan sumber daya (bahan baku, tenaga kerja, waktu) secara optimal, sehingga tidak ada yang terbuang percuma.
+Karena dalam pasar persaingan sempurna produsen sering kali tidak bisa menentukan harga sesuka hati (mereka adalah *price takers*), satu-satunya cara untuk meningkatkan \( \pi \) adalah dengan meminimalkan \( \text{TC} \). Hal ini mendorong pemanfaatan sumber daya (bahan baku, tenaga kerja, waktu) secara optimal, sehingga tidak ada yang terbuang percuma.
 
 ### 2. Inovasi Teknologi: Evolusi dalam Bisnis
 
@@ -60,9 +60,9 @@ Dalam pasar bebas, harga bertindak sebagai sinyal:
 
 Secara teoritis, dalam kondisi persaingan sempurna, efisiensi alokatif tercapai ketika:
 
-\\[ P = \text{MC} \\]
+\[ P = \text{MC} \]
 
-Artinya, **Harga (\\( P \\))** yang dibayar konsumen sama dengan **Biaya Marjinal (\\( \text{MC} \\))** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik di mana kesejahteraan sosial maksimal tercapai secara alami.
+Artinya, **Harga (\( P \))** yang dibayar konsumen sama dengan **Biaya Marjinal (\( \text{MC} \))** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik di mana kesejahteraan sosial maksimal tercapai secara alami.
 
 ## Penerapan Dunia Nyata: Revolusi Industri Digital
 

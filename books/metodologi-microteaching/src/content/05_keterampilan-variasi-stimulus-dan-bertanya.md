@@ -36,7 +36,7 @@ Manusia memproses informasi melalui indra yang berbeda. Gunakan variasi:
 
 #### C. Variasi Pola Interaksi
 
-Jangan hanya menggunakan pola satu arah (\\(\text{Guru} \rightarrow \text{Siswa}\\)). Ciptakan pola:
+Jangan hanya menggunakan pola satu arah (\(\text{Guru} \rightarrow \text{Siswa}\)). Ciptakan pola:
 
 - **Guru - Siswa:** Tanya jawab klasikal.
 - **Siswa - Guru:** Siswa yang mengajukan inisiatif pertanyaan.
@@ -70,7 +70,7 @@ $$
 - **Pelacakan (Probing):** Jika jawaban siswa kurang tepat atau kurang lengkap, jangan langsung disalahkan. Gunakan teknik pelacakan:
 	- *Klarifikasi:* "Bisa kamu jelaskan lagi apa yang dimaksud dengan...?"
 		- *Meminta Alasan:* "Mengapa kamu berpendapat demikian?"
-		- *Ketepatan:* "Bagaimana jika variabel \\(x\\) kita ubah menjadi \\(y\\)?"
+		- *Ketepatan:* "Bagaimana jika variabel \(x\) kita ubah menjadi \(y\)?"
 - **Meningkatkan Tuntutan Kognitif:** Mengubah pertanyaan dari "Apa" menjadi "Bagaimana jika" atau "Apa hubungan antara A dan B".
 
 ## Real-world Application: Skenario Pembelajaran Mikro

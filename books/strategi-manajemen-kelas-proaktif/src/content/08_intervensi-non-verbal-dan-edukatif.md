@@ -58,7 +58,7 @@ Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *st
 
 Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi non-verbal proaktif:
 
-**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \\(A = \pi r^2\\).*
+**Skenario:** *Siswa bernama Rian terus berbicara dengan temannya saat kamu sedang menjelaskan rumus luas lingkaran \(A = \pi r^2\).*
 
 | Pendekatan Reaktif | Pendekatan Proaktif (Non-Verbal) |
 | --- | --- |
@@ -68,7 +68,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 
 ### Menjaga Alur Pembelajaran (The Continuity Principle)
 
-Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\\(Ei\\)) secara sederhana sebagai:
+Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" (\(Ei\)) secara sederhana sebagai:
 
 $$
 Ei = \frac{K}{D}
@@ -76,10 +76,10 @@ $$
 
 Di mana:
 
-- \\(K = \text{Kejelasan instruksi}\\)
-- \\(D = \text{Durasi interupsi terhadap kelas}\\)
+- \(K = \text{Kejelasan instruksi}\)
+- \(D = \text{Durasi interupsi terhadap kelas}\)
 
-Semakin kecil \\(D\\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
+Semakin kecil \(D\) (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 
 ### Real-World Application: Strategi "Non-Stop"
 

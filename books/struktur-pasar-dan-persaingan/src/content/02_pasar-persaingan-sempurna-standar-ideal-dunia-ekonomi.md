@@ -36,17 +36,17 @@ Semua pembeli dan penjual memiliki pengetahuan yang lengkap mengenai harga, kual
 
 Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna). Artinya, perusahaan dapat menjual berapapun jumlah barang pada harga pasar yang berlaku, tetapi tidak akan laku satu unit pun jika menaikkan harga di atas itu.
 
-Secara matematis, hubungan antara Harga \\( P \\), Pendapatan Rata-rata \\( \text{AR} \\), dan Pendapatan Marjinal \\( \text{MR} \\) adalah sebagai berikut:
+Secara matematis, hubungan antara Harga \( P \), Pendapatan Rata-rata \( \text{AR} \), dan Pendapatan Marjinal \( \text{MR} \) adalah sebagai berikut:
 
-\\[ P = \text{AR} = \text{MR} \\]
+\[ P = \text{AR} = \text{MR} \]
 
 **Mengapa demikian?**
 
-1. **Total Revenue (TR):** \\( \text{TR} = P \times Q \\)
-2. **Average Revenue (AR):** \\( \frac{\text{TR}}{Q} = \frac{P \cdot Q}{Q} = P \\)
-3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka \\( \text{MR} \\) selalu sama dengan \\( P \\).
+1. **Total Revenue (TR):** \( \text{TR} = P \times Q \)
+2. **Average Revenue (AR):** \( \frac{\text{TR}}{Q} = \frac{P \cdot Q}{Q} = P \)
+3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka \( \text{MR} \) selalu sama dengan \( P \).
 
-> **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak \\( Q \\) yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
+> **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak \( Q \) yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
 
 ## 3. Aplikasi Dunia Nyata: Apakah Benar-Benar Ada?
 

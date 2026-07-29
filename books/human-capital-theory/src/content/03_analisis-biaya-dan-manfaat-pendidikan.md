@@ -62,7 +62,7 @@ Manfaat utama dari pendidikan dalam perspektif modal manusia adalah peningkatan 
 
 Untuk mengevaluasi kelayakan investasi secara objektif, individu menggunakan pendekatan **Net Present Value (NPV)**. Karena nilai uang berubah seiring waktu akibat suku bunga dan inflasi, pendapatan di masa depan harus didiskon ke nilai saat ini.
 
-Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai \\( \text{NPV} > 0 \\):
+Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai \( \text{NPV} > 0 \):
 
 $$
 \text{NPV} = \sum_{t=1}^{T} \frac{\text{B}_t - \text{C}_t}{(1+r)^t} > 0
@@ -70,12 +70,12 @@ $$
 
 **Keterangan Simbol:**
 
-- \\( \text{B}_t \\): Manfaat moneter (pendapatan) pada tahun ke-\\( t \\).
-- \\( \text{C}_t \\): Biaya (langsung dan peluang) pada tahun ke-\\( t \\).
-- \\( r \\): Tingkat diskonto (*discount rate*) yang mencerminkan suku bunga dan preferensi waktu.
-- \\( T \\): Durasi masa kerja aktif hingga masa pensiun.
+- \( \text{B}_t \): Manfaat moneter (pendapatan) pada tahun ke-\( t \).
+- \( \text{C}_t \): Biaya (langsung dan peluang) pada tahun ke-\( t \).
+- \( r \): Tingkat diskonto (*discount rate*) yang mencerminkan suku bunga dan preferensi waktu.
+- \( T \): Durasi masa kerja aktif hingga masa pensiun.
 
-Jika tingkat suku bunga (\\( r \\)) melonjak tinggi, nilai sekarang dari pendapatan masa depan akan menyusut. Akibatnya, insentif finansial untuk melanjutkan pendidikan dapat berkurang karena uang saat ini menjadi lebih bernilai dibandingkan potensi pendapatan di masa mendatang.
+Jika tingkat suku bunga (\( r \)) melonjak tinggi, nilai sekarang dari pendapatan masa depan akan menyusut. Akibatnya, insentif finansial untuk melanjutkan pendidikan dapat berkurang karena uang saat ini menjadi lebih bernilai dibandingkan potensi pendapatan di masa mendatang.
 
 ---
 
@@ -94,7 +94,7 @@ Mari bandingkan alur finansial dua lulusan SMA dengan pilihan jalur yang berbeda
 
 Pada tahap awal, Andi tampak unggul secara finansial karena langsung memiliki tabungan. Namun, setelah usia 22 tahun, garis pendapatan Budi melampaui Andi. 
 
-Selisih gaji sebesar Rp 30 Juta per tahun (\\( 70 - 40 \\)) akan menutup total investasi sebesar Rp 240 Juta dalam waktu 8 tahun kerja. Titik temu ini menandai akhir dari masa balik modal (*payback period*) investasi pendidikan Budi.
+Selisih gaji sebesar Rp 30 Juta per tahun (\( 70 - 40 \)) akan menutup total investasi sebesar Rp 240 Juta dalam waktu 8 tahun kerja. Titik temu ini menandai akhir dari masa balik modal (*payback period*) investasi pendidikan Budi.
 
 ---
 
@@ -102,9 +102,9 @@ Selisih gaji sebesar Rp 30 Juta per tahun (\\( 70 - 40 \\)) akan menutup total i
 
 Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of return*) investasi pendidikan:
 
-1. **Usia dan Horison Waktu (\\( T \\)):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
+1. **Usia dan Horison Waktu (\( T \)):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
 2. **Besar Selisih Pendapatan (*Earning Differential*):** Semakin lebar jurang gaji antara lulusan SMA dan sarjana di pasar kerja, semakin tinggi insentif individu untuk kuliah.
-3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\\( \text{C}_t \\)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
+3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\( \text{C}_t \)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
 
 ---
 
@@ -112,7 +112,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\\( \text{B}_t \\)) yang melimpah di negara maju membuat kalkulasi \\( \text{NPV} \\) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\( \text{B}_t \)) yang melimpah di negara maju membuat kalkulasi \( \text{NPV} \) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 

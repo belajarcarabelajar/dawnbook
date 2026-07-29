@@ -16,7 +16,7 @@ Refleksi dimulai dari diri sendiri. Sebagai manajer kelas, kamu perlu melihat ke
 
 ### Metrik Evaluasi Mandiri
 
-kamu dapat menggunakan skala 1-5 (\\(1 = \text{Sangat Jarang}\\), \\(5 = \text{Sangat Konsisten}\\)) untuk menilai poin-poin berikut setiap akhir pekan:
+kamu dapat menggunakan skala 1-5 (\(1 = \text{Sangat Jarang}\), \(5 = \text{Sangat Konsisten}\)) untuk menilai poin-poin berikut setiap akhir pekan:
 
 1. **Rasio Interaksi Positif:** Apakah saya memberikan setidaknya 4 pujian untuk setiap 1 koreksi perilaku?
 2. **Kepatuhan Prosedur:** Apakah saya memulai dan mengakhiri pelajaran tepat waktu sesuai rutinitas yang disepakati?
@@ -52,13 +52,13 @@ Data tanpa aksi adalah tumpukan kertas. Setelah mengumpulkan hasil evaluasi diri
 
 ### Rumus Efektivitas Manajemen (Analogi Matematis)
 
-Kita bisa memandang efektivitas manajemen kelas (\\(E\\)) sebagai fungsi dari Konsistensi (\\(K\\)) dan Kualitas Hubungan (\\(H\\)), dibagi dengan hambatan lingkungan (\\(L\\)):
+Kita bisa memandang efektivitas manajemen kelas (\(E\)) sebagai fungsi dari Konsistensi (\(K\)) dan Kualitas Hubungan (\(H\)), dibagi dengan hambatan lingkungan (\(L\)):
 
 $$
 E = \frac{K \times H}{L}
 $$
 
-Jika hasil monitoring menunjukkan skor \\(E\\) rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
+Jika hasil monitoring menunjukkan skor \(E\) rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
 
 ### Siklus Refleksi Proaktif:
 

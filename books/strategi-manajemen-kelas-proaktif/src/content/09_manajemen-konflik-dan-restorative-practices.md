@@ -72,7 +72,7 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
 3. **Membangun Empati:** Bantu si pelaku memahami dampak emosional pada korban.
-	- *Formula Logika Empati:* \\(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\\)
+	- *Formula Logika Empati:* \(\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}\)
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
 	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.

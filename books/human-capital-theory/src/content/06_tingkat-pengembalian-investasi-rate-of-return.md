@@ -10,7 +10,7 @@ Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan
 
 Tingkat pengembalian investasi modal manusia adalah rasio antara akumulasi keuntungan finansial tambahan yang diperoleh di masa depan dengan total biaya yang dikeluarkan pada saat ini.
 
-Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto (\\( r \\)) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
+Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto (\( r \)) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
 
 $$
 \text{NPV} = \sum_{t=1}^{n} \frac{\text{B}_t}{(1+r)^t} - \sum_{t=1}^{n} \frac{\text{C}_t}{(1+r)^t} = 0
@@ -24,12 +24,12 @@ $$
 
 Keterangan variabel:
 
-- \\( \text{B}_t \\): Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-\\( t \\).
-- \\( \text{C}_t \\): Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-\\( t \\).
-- \\( r \\): Tingkat pengembalian (*Rate of Return* / IRR).
-- \\( n \\): Estimasi durasi usia produktif kerja (dalam tahun).
+- \( \text{B}_t \): Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-\( t \).
+- \( \text{C}_t \): Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-\( t \).
+- \( r \): Tingkat pengembalian (*Rate of Return* / IRR).
+- \( n \): Estimasi durasi usia produktif kerja (dalam tahun).
 
-Sebagai contoh pertimbangan finansial, jika tingkat pengembalian \\( r \\) dari pendidikan tinggi mencapai 12% per tahun sementara suku bunga simpanan atau pinjaman bank berada di tingkat 8%, maka investasi pada pendidikan tersebut secara ekonomis sangat menguntungkan karena menghasilkan nilai tambah di atas biaya modal (*cost of capital*).
+Sebagai contoh pertimbangan finansial, jika tingkat pengembalian \( r \) dari pendidikan tinggi mencapai 12% per tahun sementara suku bunga simpanan atau pinjaman bank berada di tingkat 8%, maka investasi pada pendidikan tersebut secara ekonomis sangat menguntungkan karena menghasilkan nilai tambah di atas biaya modal (*cost of capital*).
 
 ---
 

@@ -7,7 +7,7 @@ Dalam ekonomi, **Elastisitas** adalah ukuran derajat kepekaan (respons) suatu va
 > **Inti Konsep:** Elastisitas menjawab pertanyaan "Seberapa sensitif konsumen atau produsen terhadap perubahan harga atau faktor lainnya di pasar?"
 Secara matematis, kita melihatnya sebagai perbandingan perubahan persentase:
 
-\\[ \text{Elastisitas} = \frac{\text{\%} \text{ Perubahan Variabel Terikat (Respons)}}{\text{\%} \text{ Perubahan Variabel Bebas (Stimulus)}} \\]
+\[ \text{Elastisitas} = \frac{\text{\%} \text{ Perubahan Variabel Terikat (Respons)}}{\text{\%} \text{ Perubahan Variabel Bebas (Stimulus)}} \]
 
 ### Mengapa Menggunakan Persentase?
 Kita menggunakan persentase, bukan unit absolut, agar kita bisa membandingkan hal yang berbeda. Misalnya, kita bisa membandingkan bagaimana kenaikan harga mobil sebesar 10% (jutaan rupiah) mempengaruhi permintaan dibandingkan dengan kenaikan harga permen sebesar 10% (ratusan rupiah).

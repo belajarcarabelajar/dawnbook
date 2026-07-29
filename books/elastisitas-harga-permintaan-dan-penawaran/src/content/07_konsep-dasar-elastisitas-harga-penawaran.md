@@ -20,13 +20,13 @@ Ini adalah faktor paling utama dalam elastisitas penawaran.
 - **Jangka Pendek:** Produsen bisa menambah jam kerja lembur, tapi tidak bisa membangun pabrik baru.
 - **Jangka Panjang:** Produsen bisa membangun fasilitas baru atau masuk ke industri baru, membuat penawaran menjadi sangat elastis.
 ## Logika Matematika Sederhana
-Meskipun detail perhitungan akan dibahas di bagian selanjutnya, secara konsep, koefisien elastisitas penawaran (\\( E_s \\)) dirumuskan sebagai:
+Meskipun detail perhitungan akan dibahas di bagian selanjutnya, secara konsep, koefisien elastisitas penawaran (\( E_s \)) dirumuskan sebagai:
 
-\\[ E_s = \frac{\text{\%} \text{ Perubahan Jumlah Barang yang Ditawarkan}}{\text{\%} \text{ Perubahan Harga}} \\]
+\[ E_s = \frac{\text{\%} \text{ Perubahan Jumlah Barang yang Ditawarkan}}{\text{\%} \text{ Perubahan Harga}} \]
 
-Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau keduanya turun), maka nilai \\( E_s \\) akan selalu **positif**.
-- Jika \\( E_s > 1 \\): Penawaran sangat responsif (Elastis).
-- Jika \\( E_s < 1 \\): Penawaran kurang responsif (Inelastis).
+Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau keduanya turun), maka nilai \( E_s \) akan selalu **positif**.
+- Jika \( E_s > 1 \): Penawaran sangat responsif (Elastis).
+- Jika \( E_s < 1 \): Penawaran kurang responsif (Inelastis).
 ## Aplikasi Dunia Nyata: Uber dan "Surge Pricing"
 Salah satu contoh paling modern dari konsep elastisitas penawaran adalah sistem **Surge Pricing** (kenaikan harga saat permintaan tinggi) pada aplikasi transportasi online seperti Uber atau Grab.
 **Skenarionya:** Saat hujan deras, permintaan meningkat. Uber menaikkan harga secara otomatis. Mengapa?

@@ -22,15 +22,15 @@ Ekonomi membaginya menjadi tiga periode waktu:
 #### A. Jangka Waktu Sangat Pendek (Momentary/Market Period)
 Dalam periode ini, semua faktor produksi bersifat tetap. Produsen tidak bisa mengubah jumlah produksinya sama sekali.
 - **Contoh:** Petani yang baru saja tiba di pasar dengan satu truk tomat. Seberapa pun tingginya harga tomat di pasar hari itu, dia tidak bisa tiba-tiba "menyulap" satu truk lagi.
-- **Elastisitas:** Inelastis Sempurna (\\(\text{E}_s = 0\\)).
+- **Elastisitas:** Inelastis Sempurna (\(\text{E}_s = 0\)).
 #### B. Jangka Pendek (Short Run)
 Produsen dapat mengubah beberapa faktor produksi (seperti menambah jam lembur atau menambah bahan baku), tetapi tidak bisa mengubah kapasitas total (seperti membangun pabrik baru).
 - **Kondisi:** Penawaran mulai menunjukkan fleksibilitas tetapi masih terbatas.
-- **Elastisitas:** Cenderung Inelastis (\\(\text{E}_s < 1\\)).
+- **Elastisitas:** Cenderung Inelastis (\(\text{E}_s < 1\)).
 #### C. Jangka Panjang (Long Run)
 Semua faktor produksi bersifat variabel. Perusahaan bisa membangun pabrik baru, membeli mesin tambahan, atau perusahaan baru bisa masuk ke industri tersebut.
 - **Kondisi:** Respons terhadap perubahan harga sangat maksimal.
-- **Elastisitas:** Elastis (\\(\text{E}_s > 1\\)).
+- **Elastisitas:** Elastis (\(\text{E}_s > 1\)).
 ### Ringkasan Visual Faktor Elastisitas
 | Faktor | Penawaran Elastis (Fleksibel) | Penawaran Inelastis (Kaku) |
 | --- | --- | --- |
@@ -45,9 +45,9 @@ Mari kita lihat fenomena kelangkaan chip global beberapa waktu lalu. Ketika perm
 3. **Dimensi Waktu:** Dibutuhkan waktu 2 hingga 4 tahun untuk membangun satu pabrik chip baru.
 **Hasilnya:** Dalam jangka pendek, penawaran chip sangat **inelastis**, menyebabkan harga gadget dan mobil melonjak karena produsen chip tidak mampu merespons kenaikan harga dengan tambahan pasokan secara instan.
 ### Contoh Penghitungan Sederhana
-Meskipun fokus kita pada faktor penentu, mari kita lihat bagaimana ini terlihat dalam angka. Misalkan harga sebuah produk naik dari Rp10.000 menjadi Rp12.000 (\\( \Delta P = 20 \text{\%} \\)), dan karena produsen memiliki stok di gudang yang banyak, mereka meningkatkan jumlah penawaran dari 1.000 unit menjadi 1.500 unit (\\( \Delta Q_s = 50 \text{\%} \\)).
+Meskipun fokus kita pada faktor penentu, mari kita lihat bagaimana ini terlihat dalam angka. Misalkan harga sebuah produk naik dari Rp10.000 menjadi Rp12.000 (\( \Delta P = 20 \text{\%} \)), dan karena produsen memiliki stok di gudang yang banyak, mereka meningkatkan jumlah penawaran dari 1.000 unit menjadi 1.500 unit (\( \Delta Q_s = 50 \text{\%} \)).
 
-\\[ \text{E}_s = \frac{\text{\%} \Delta Q_s}{\text{\%} \Delta P} = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5 \\]
+\[ \text{E}_s = \frac{\text{\%} \Delta Q_s}{\text{\%} \Delta P} = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5 \]
 
-Karena \\( \text{E}_s > 1 \\), maka penawaran barang tersebut dikategorikan sebagai **Elastis**, kemungkinan besar karena didukung oleh faktor stok barang atau kapasitas yang masih longgar.
+Karena \( \text{E}_s > 1 \), maka penawaran barang tersebut dikategorikan sebagai **Elastis**, kemungkinan besar karena didukung oleh faktor stok barang atau kapasitas yang masih longgar.
 **Catatan Penting:** Memahami faktor-faktor ini membantu manajer perusahaan untuk merencanakan strategi produksi dan membantu pemerintah dalam memprediksi bagaimana pasar akan bereaksi terhadap kebijakan tertentu, seperti pajak atau subsidi. Jika penawaran suatu barang inelastis, pemberian subsidi mungkin tidak akan banyak meningkatkan jumlah barang di pasar, melainkan hanya akan menguntungkan produsen secara finansial.

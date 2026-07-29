@@ -26,24 +26,24 @@ Terjadi ketika nilai produk meningkat seiring bertambahnya pengguna dalam katego
 
 Secara matematis, fenomena ini digambarkan dengan **Hukum Metcalfe**:
 
-\\[ V \propto n^2 \\]
+\[ V \propto n^2 \]
 
-Di mana \\(V\\) adalah nilai jaringan dan \\(n\\) adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan meningkat secara eksponensial, bukan linear.
+Di mana \(V\) adalah nilai jaringan dan \(n\) adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan meningkat secara eksponensial, bukan linear.
 
 ### B. Efek Jaringan Tidak Langsung (Indirect Network Effects)
 
 Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. *Contoh:* Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
 
-## 3. Struktur Biaya: Biaya Marginal Nol \\(\\text{MC} \\approx 0\\)
+## 3. Struktur Biaya: Biaya Marginal Nol \(\\text{MC} \\approx 0\)
 
 Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya yang hampir sama dengan mobil ke-1. Namun, dalam ekonomi digital:
 
 - **Biaya Tetap Tinggi (High Fixed Costs):** Membangun perangkat lunak atau infrastruktur server pertama kali sangat mahal.
-- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan \\(\\text{MC} \\to 0\\).
+- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan \(\\text{MC} \\to 0\).
 
-\\[ \text{TC} = \text{FC} + \text{MC} \cdot Q \\]
+\[ \text{TC} = \text{FC} + \text{MC} \cdot Q \]
 
-Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna \\(Q\\). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
+Karena \(\\text{MC} \\approx 0\), maka \(\\frac{\\text{TC}}{Q}\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna \(Q\). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
 
 ## 4. Dinamika "Winner-Takes-Most"
 
@@ -69,7 +69,7 @@ Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* d
 
 **Skenario:** Gojek memulai sebagai layanan *ride-hailing*. Namun, mereka menggunakan efek jaringan untuk berekspansi secara horizontal.
 
-1. **Akuisisi Pengguna:** Menawarkan promo besar untuk menarik pengguna (mengejar \\(n\\) dalam Hukum Metcalfe).
+1. **Akuisisi Pengguna:** Menawarkan promo besar untuk menarik pengguna (mengejar \(n\) dalam Hukum Metcalfe).
 2. **Cross-Side Effects:** Dengan banyaknya pengguna, pedagang makanan (GoFood) ingin bergabung.
 3. **Data sebagai Bahan Bakar:** Data dari riwayat perjalanan dan pemesanan makanan digunakan untuk menawarkan layanan finansial (GoPay/GoPayLater).
 4. **Hambatan Masuk:** Pesaing baru harus mengeluarkan modal triliunan rupiah hanya untuk menandingi jumlah mitra pengemudi dan pedagang yang sudah mapan di platform tersebut.

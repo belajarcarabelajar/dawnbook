@@ -44,9 +44,9 @@ Sebagai gambaran, sebuah pabrik mungkin memproduksi barang dengan harga murah da
 - **Biaya Privat (*Marginal Private Cost* / MPC):** Biaya bahan baku dan tenaga kerja yang ditanggung produsen.
 - **Biaya Sosial (*Marginal Social Cost* / MSC):** Biaya pengobatan masyarakat dan kerusakan ekosistem yang ditanggung publik.
 
-Secara matematis, kegagalan pasar ini terjadi karena harga pasar \\( P \\) tidak mencerminkan biaya sosial yang sebenarnya:
+Secara matematis, kegagalan pasar ini terjadi karena harga pasar \( P \) tidak mencerminkan biaya sosial yang sebenarnya:
 
-\\[ \text{MSC} > \text{MPC} \\]
+\[ \text{MSC} > \text{MPC} \]
 
 Dalam sistem Laissez-faire murni, perusahaan tidak memiliki insentif finansial untuk mengurangi polusi karena hal itu akan menambah biaya produksi dan mengurangi keuntungan mereka.
 

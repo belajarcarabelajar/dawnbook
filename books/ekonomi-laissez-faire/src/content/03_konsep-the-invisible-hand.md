@@ -41,19 +41,19 @@ Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan 
 
 ### 3. Keseimbangan Pasar (Market Equilibrium) 📈
 
-Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan (\\( Q_s \\)) sama dengan jumlah barang yang diminta (\\( Q_d \\)).
+Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan (\( Q_s \)) sama dengan jumlah barang yang diminta (\( Q_d \)).
 
 Persamaan matematika ekonomi sederhana:
 
-\\[ Q_d = Q_s \\]
+\[ Q_d = Q_s \]
 
 Kondisi penyesuaian harga di pasar ditunjukkan pada tabel berikut:
 
 | Kondisi Harga | Status Pasar | Reaksi Pasar | Arah Penyesuaian |
 | :--- | :--- | :--- | :--- |
-| \\( P > P_{\text{equilibrium}} \\) | Surplus (Barang menumpuk) | Produsen menurunkan harga agar barang laku | Harga turun menuju titik seimbang |
-| \\( P < P_{\text{equilibrium}} \\) | Kelangkaan (Barang kurang) | Konsumen bersaing mendapatkan barang | Harga naik menuju titik seimbang |
-| \\( P = P_{\text{equilibrium}} \\) | Keseimbangan (*Equilibrium*) | Penawaran dan permintaan tepat serasi | Pasar berada pada efisiensi maksimal |
+| \( P > P_{\text{equilibrium}} \) | Surplus (Barang menumpuk) | Produsen menurunkan harga agar barang laku | Harga turun menuju titik seimbang |
+| \( P < P_{\text{equilibrium}} \) | Kelangkaan (Barang kurang) | Konsumen bersaing mendapatkan barang | Harga naik menuju titik seimbang |
+| \( P = P_{\text{equilibrium}} \) | Keseimbangan (*Equilibrium*) | Penawaran dan permintaan tepat serasi | Pasar berada pada efisiensi maksimal |
 
 **Hasil Akhirnya:** Pasar cenderung bergerak menuju titik efisiensi maksimal secara otomatis tanpa perlu intervensi langsung.
 

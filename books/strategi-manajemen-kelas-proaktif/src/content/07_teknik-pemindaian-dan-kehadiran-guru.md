@@ -50,12 +50,12 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 2. **Ekspresi Wajah:** Gunakan ekspresi yang konsisten dengan situasi. Senyuman hangat untuk menyapa, dan tatapan serius namun tenang untuk mengoreksi perilaku.
 3. **Isyarat Tangan:** Gunakan tangan untuk mengarahkan fokus (misalnya, menunjuk buku atau papan tulis) untuk memperkuat instruksi verbal.
 
-**Matematika Kehadiran Guru:** \\(K = W + (M \times B)\\) Di mana:
+**Matematika Kehadiran Guru:** \(K = W + (M \times B)\) Di mana:
 
-- \\(K\\): Efektivitas Kendali Kelas
-- \\(W\\): *Withitness* (Kewaspadaan)
-- \\(M\\): Mobilitas (Pergerakan)
-- \\(B\\): Bahasa Tubuh yang Positif
+- \(K\): Efektivitas Kendali Kelas
+- \(W\): *Withitness* (Kewaspadaan)
+- \(M\): Mobilitas (Pergerakan)
+- \(B\): Bahasa Tubuh yang Positif
 
 ## Real-World Application: Skenario Praktis
 

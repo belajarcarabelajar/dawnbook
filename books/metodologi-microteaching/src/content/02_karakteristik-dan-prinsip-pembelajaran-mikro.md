@@ -77,7 +77,7 @@ $$
 \text{Beban Kerja} = \frac{\text{Kompleksitas Variabel}}{\text{Kapasitas Fokus}}
 $$
 
-Jika \\(\text{Kompleksitas Variabel}\\) terlalu tinggi (30 siswa, 90 menit, semua keterampilan), maka \\(\text{Kapasitas Fokus}\\) kita akan pecah. Dengan mengecilkan pembagi (penyederhanaan), kita meningkatkan kualitas fokus pada setiap detail kecil yang sering terabaikan.
+Jika \(\text{Kompleksitas Variabel}\) terlalu tinggi (30 siswa, 90 menit, semua keterampilan), maka \(\text{Kapasitas Fokus}\) kita akan pecah. Dengan mengecilkan pembagi (penyederhanaan), kita meningkatkan kualitas fokus pada setiap detail kecil yang sering terabaikan.
 
 *Think about this:* *Jika kamu diminta untuk memperbaiki kemampuan berbicara di depan umum, mana yang menurut kamu lebih efektif: Langsung berpidato di depan 1.000 orang selama satu jam, atau berlatih di depan 5 teman dekat selama 5 menit berulang kali dengan fokus pada kontak mata saja? Mengapa demikian?*
 

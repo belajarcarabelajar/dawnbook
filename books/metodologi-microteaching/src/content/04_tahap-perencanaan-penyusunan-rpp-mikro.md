@@ -43,11 +43,11 @@ Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
 
 Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
 
-Jika total waktu adalah \\(\text{T}_{\text{total}} = 15\\) menit, maka pembagian idealnya adalah:
+Jika total waktu adalah \(\text{T}_{\text{total}} = 15\) menit, maka pembagian idealnya adalah:
 
-- **Pendahuluan (\\(P\\)):** \\(20\text{\%} \times \text{T}_{\text{total}} = 3\\) menit
-- **Inti (\\(I\\)):** \\(65\text{\%} \times \text{T}_{\text{total}} = 9.75 \approx 10\\) menit
-- **Penutup (\\(K\\)):** \\(15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2\\) menit
+- **Pendahuluan (\(P\)):** \(20\text{\%} \times \text{T}_{\text{total}} = 3\) menit
+- **Inti (\(I\)):** \(65\text{\%} \times \text{T}_{\text{total}} = 9.75 \approx 10\) menit
+- **Penutup (\(K\)):** \(15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2\) menit
 
 $$
 \text{T}_{\text{total}} = P + I + K
@@ -77,7 +77,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | Waktu | Tahapan | Aktivitas Guru (KDM Terintegrasi) |
 | --- | --- | --- |
 | 0-2' | Pendahuluan | Menunjukkan segelas air dan telur. **(Variasi Stimulus)**. Bertanya: "Mengapa telur ini tenggelam?" |
-| 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus \\(F_a = \rho \cdot g \cdot V_{\text{bf}}\\). Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
+| 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus \(F_a = \rho \cdot g \cdot V_{\text{bf}}\). Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
 | 8-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
 ## 6. Real-World Application: Mengapa Perencanaan Mikro itu Penting?

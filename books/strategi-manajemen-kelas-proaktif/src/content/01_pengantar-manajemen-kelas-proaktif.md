@@ -49,10 +49,10 @@ $$
 
 Di mana:
 
-- **\\(K_p\\)**: Keberhasilan Pembelajaran
-- **\\(S\\)**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
-- **\\(R\\)**: Relasi (Hubungan guru-siswa yang positif)
-- **\\(K\\)**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
+- **\(K_p\)**: Keberhasilan Pembelajaran
+- **\(S\)**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
+- **\(R\)**: Relasi (Hubungan guru-siswa yang positif)
+- **\(K\)**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
 
 Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan meningkat secara eksponensial.
 

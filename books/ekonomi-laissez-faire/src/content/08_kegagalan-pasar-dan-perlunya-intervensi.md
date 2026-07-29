@@ -10,9 +10,9 @@ Kegagalan pasar terjadi ketika mekanisme harga gagal mengalokasikan sumber daya 
 
 Secara matematis, efisiensi alokatif tercapai ketika **Biaya Marginal Sosial (Social Marginal Cost)** sama dengan **Manfaat Marginal Sosial (Social Marginal Benefit)**:
 
-\\[ \text{SMC} = \text{SMB} \\]
+\[ \text{SMC} = \text{SMB} \]
 
-Jika \\( \text{SMC} \neq \text{SMB} \\), maka terjadilah kegagalan pasar. Mari kita bedah penyebab utama fenomena ini.
+Jika \( \text{SMC} \neq \text{SMB} \), maka terjadilah kegagalan pasar. Mari kita bedah penyebab utama fenomena ini.
 
 ### 2. Eksternalitas: Efek Samping yang Terabaikan
 
@@ -23,7 +23,7 @@ Jika \\( \text{SMC} \neq \text{SMB} \\), maka terjadilah kegagalan pasar. Mari k
   - **Dampak:** Produksi berlebih (*overproduction*) dari barang yang merusak lingkungan.
   - **Persamaan:**
 
-\\[ \text{Social Cost} = \text{Private Cost} + \text{External Cost} \\]
+\[ \text{Social Cost} = \text{Private Cost} + \text{External Cost} \]
 
 - **Eksternalitas Positif:** Seseorang yang menerima vaksinasi. Dia melindungi dirinya sendiri sekaligus mencegah penyebaran penyakit ke orang lain.
   - **Masalah:** Manfaat individu (*Private Benefit*) lebih rendah dari manfaat total masyarakat (*Social Benefit*).
@@ -60,7 +60,7 @@ Dalam sistem Laissez-faire, persaingan adalah pilar utama. Namun tanpa regulasi,
 
 Ketika perusahaan memegang kekuatan pasar, mereka dapat menetapkan harga (*price maker*) di atas biaya marginal:
 
-\\[ P > \text{MC} \\]
+\[ P > \text{MC} \]
 
 Kondisi ini menimbulkan **Deadweight Loss**, yaitu hilangnya kesejahteraan masyarakat karena jumlah produksi ditahan lebih sedikit dan harga dipatok lebih mahal daripada pasar persaingan sempurna.
 

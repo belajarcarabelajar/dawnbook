@@ -31,7 +31,7 @@ Jangan menunggu nilai ujian 100 untuk menghubungi orang tua. Laporkan perubahan 
 
 ### Menggunakan Rumus 3:13:1
 
-Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \\(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
+Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. \(\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}\) *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
 
 ## 3. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
 
