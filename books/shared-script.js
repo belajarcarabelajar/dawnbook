@@ -19,25 +19,38 @@ window.MathJax = {
 //
 // WHY THIS EXISTS:
 // MathJax is loaded with `defer` in head.hbs, which guarantees it executes
-// after full HTML parse. But as a second line of defence:
-//   1. `window.load` re-queues a Typeset call to catch any edge cases where
-//      MathJax ran before all content was available.
-//   2. `pageshow` with e.persisted handles browser back-forward cache (bfcache)
-//      restoration (e.g. iOS Safari swipe gestures). When bfcache restores a
-//      page, scripts do NOT re-execute, so MathJax never re-runs. Calling
-//      Hub.Queue forces re-typesetting of the restored DOM.
+// after full HTML parse. To guarantee automatic typesetting on all chapter
+// navigations (next/prev buttons, swipe gestures, bfcache restoration, popstate):
+//   1. Runs on DOMContentLoaded / readyState
+//   2. Runs on window load
+//   3. Runs unconditionally on ALL `pageshow` events (swipe navigation / bfcache)
+//   4. Runs on `popstate` and `hashchange` (history navigation)
+//   5. Registers MathJax Startup Hook for initial load
 (function() {
     function retypeset() {
         if (window.MathJax && window.MathJax.Hub) {
-            window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+            try {
+                window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+            } catch(e) {
+                console.warn('MathJax retypeset error:', e);
+            }
         }
     }
-    // Re-typeset after all resources (including deferred scripts) are ready.
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', retypeset);
+    } else {
+        retypeset();
+    }
+
     window.addEventListener('load', retypeset);
-    // Re-typeset when page is restored from bfcache (swipe navigation).
-    window.addEventListener('pageshow', function(e) {
-        if (e.persisted) retypeset();
-    });
+    window.addEventListener('pageshow', retypeset);
+    window.addEventListener('popstate', retypeset);
+    window.addEventListener('hashchange', retypeset);
+
+    if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Register) {
+        window.MathJax.Hub.Register.StartupHook("End", retypeset);
+    }
 })();
 
 
