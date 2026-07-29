@@ -13,6 +13,6 @@ subject_label = "Ilmu Komunikasi"
 enable = false
 
 [output.html]
-mathjax-support = true
+mathjax-support = false
 additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
 additional-js = ["../shared-script.js"]
