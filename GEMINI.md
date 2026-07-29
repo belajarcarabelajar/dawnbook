@@ -43,7 +43,9 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Rule:** Never create or scaffold a book without adding its specific metadescription in `book.toml`.
 
 ## 9. Mandatory Manual Line-by-Line File Inspection (No Automation Scripts for LaTeX)
-- **Manual Reading & Generative AI Requirement:** Any AI assistant working on this repository MUST call `view_file` to manually inspect EVERY SINGLE chapter markdown file line-by-line before making any edits or running verification tools. All LaTeX formatting, fixes, and verification MUST be performed directly by the AI agent using generative AI tools (`view_file` and `replace_file_content`).
+- **Mandatory Two-Phase LaTeX Workflow:** For any task involving LaTeX rendering or verification:
+  1. **Phase 1 (Detection & Counting):** You MUST first call `view_file` to read the file, detect all LaTeX formulas on the page/file, and count the total number of LaTeX instances.
+  2. **Phase 2 (Agentic Editing & Verification):** Once all instances and total counts are identified and verified, proceed with line-by-line edits directly using agentic coding tools (`view_file` and `replace_file_content`).
 - **FORBIDDEN AUTOMATION SCRIPTS FOR LATEX:** Automation scripts, Node batch converters, mass regular expression search-and-replace scripts, or automated transformation tools for any LaTeX task are STRICTLY FORBIDDEN. All LaTeX tasks must be handled manually line-by-line by the agent.
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
   1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
