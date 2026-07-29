@@ -486,3 +486,21 @@ h1, h2, h3, .logo {
   line-height: 1.4;
 }
 
+.contributor-email {
+  font-size: 0.85rem;
+  color: var(--color-primary);
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  margin-top: 0.25rem;
+  opacity: 0.9;
+  word-break: break-all;
+}
+
+.contributor-email:hover {
+  text-decoration: underline;
+  opacity: 1;
+}
+
+

@@ -687,6 +687,7 @@ async function generateSitePages(
                 <div class="contributor-info">
                     <h3 class="contributor-name"><a href="https://github.com/belajarcarabelajar" target="_blank" rel="noopener noreferrer" data-i18n="contribute.contributor1.name">Iwan Kurniawan</a></h3>
                     <p class="contributor-role" data-i18n="contribute.contributor1.role">Content Creator, Developer, and Founder @belajarcarabelajar</p>
+                    <a href="mailto:iwan@dawnbook.belajarcarabelajar.com" class="contributor-email">✉️ iwan@dawnbook.belajarcarabelajar.com</a>
                 </div>
             </div>
             <div class="contributor-card">
@@ -694,6 +695,7 @@ async function generateSitePages(
                 <div class="contributor-info">
                     <h3 class="contributor-name"><a href="https://github.com/kaniasalsabila639-ops" target="_blank" rel="noopener noreferrer" data-i18n="contribute.contributor2.name">Kania Salsabila</a></h3>
                     <p class="contributor-role" data-i18n="contribute.contributor2.role">Best Scientific Paper, Outstanding Student (Mawapres), Faculty of Languages and Arts 2026, Universitas Negeri Jakarta</p>
+                    <a href="mailto:kania@dawnbook.belajarcarabelajar.com" class="contributor-email">✉️ kania@dawnbook.belajarcarabelajar.com</a>
                 </div>
             </div>
         </div>
