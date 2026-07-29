@@ -33,6 +33,7 @@ Ini adalah metode yang paling umum digunakan. Cobalah untuk menaikkan atau menur
 Misalkan kamu memiliki total skor berbobot $S$ untuk Alternatif $i$:
 
 $$
+
 S_i = \\sum_{j=1}^{n} w_j \\cdot s_{ij}
 $$
 

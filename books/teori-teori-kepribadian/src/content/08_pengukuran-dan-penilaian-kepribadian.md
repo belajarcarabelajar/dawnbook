@@ -82,10 +82,8 @@ Konsep reliabilitas diperiksa melalui pendekatan:
 - ***Parallel Forms Reliability*:** Ketepatan dua lembar tes berisi versi pertanyaan berbeda namun memiliki nilai ekuivalen.
 - ***Split-Half Reliability*:** Kemampuan dua kubu aitem di dalam tes (seperti kubu genap melawan kubu ganjil) untuk mencetak skor simetris.
 - ***Internal Consistency*:** Daya ikat antar seluruh pertanyaan di dalam tes guna menopang pilar dasar ukuran serupa. Hal ini lumrah dikonversi melalui hitungan matematis *Cronbach's Alpha* ($\alpha$).
+   $$\alpha = \frac{k}{k-1} \left(1 - \frac{\sum_{i=1}^k \sigma_{Y_i}^2}{\sigma_X^2}\right)$$
 
-$$
-\alpha = \frac{k}{k-1} \left(1 - \frac{\sum_{i=1}^k \sigma_{Y_i}^2}{\sigma_X^2}\right)
-$$
 Dalam persamaan di atas, $\alpha$ melambangkan koefisien konsistensi, $k$ menjadi jumlah aitem tes, $\sigma_{Y_i}^2$ memuat varians spesifik untuk pertanyaan urutan ke-$i$, dan $\sigma_X^2$ berlaku sebagai total varians akumulatif dalam tes tersebut.
 
 ### 3\. Etika dalam Penilaian Kepribadian

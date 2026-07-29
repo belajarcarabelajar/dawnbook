@@ -49,8 +49,10 @@ Untuk memahami skala ledakan ini, kita bisa melihat pertumbuhan ekspor konten bu
 
 Misalkan $E$ adalah nilai ekspor dan $t$ adalah waktu dalam tahun sejak 2000:
 $$
+
 E(t) = P \cdot (1 + r)^t
 $$
+
 Di mana:
 
 - $P$ = Nilai awal ekspor (awal 2000-an)

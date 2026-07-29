@@ -27,6 +27,7 @@ Secara ekonomi klasik, manusia dianggap rasional. Jika ada denda, kita akan patu
 Manusia cenderung menilai imbalan atau hukuman yang terjadi **sekarang** jauh lebih tinggi daripada yang terjadi di **masa depan**. Matematika sederhana dari nilai utilitas $U$ yang didiskon sering kali terlihat seperti ini:
 
 $$
+
 U_{\text{total}} = u_0 + \sum_{t=1}^{n} \beta \delta^t u_t
 $$
 

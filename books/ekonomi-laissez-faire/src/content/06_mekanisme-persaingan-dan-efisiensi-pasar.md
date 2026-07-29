@@ -63,6 +63,7 @@ Dalam pasar bebas, harga bertindak sebagai sinyal:
 Secara teoritis, dalam kondisi persaingan sempurna, efisiensi alokatif tercapai ketika:
 
 $$
+
 P = \text{MC}
 $$
 

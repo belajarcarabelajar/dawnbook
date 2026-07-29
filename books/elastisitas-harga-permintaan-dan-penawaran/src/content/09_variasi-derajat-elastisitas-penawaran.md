@@ -40,10 +40,8 @@ Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering meng
 Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 
 **Penghitungan Cepat:**
+   $$E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5$$
 
-$$
-E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
-$$
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
 ### Kode Snippet (Python): Klasifikasi Elastisitas Otomatis
 Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:

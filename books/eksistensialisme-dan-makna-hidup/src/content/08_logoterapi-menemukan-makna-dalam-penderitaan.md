@@ -51,6 +51,7 @@ Logoterapi tidak mengajarkan kita untuk menyukai penderitaan. Pendekatan ini jus
 Dalam bentuk matematis sederhana, Frankl sering menggambarkan hubungan antara penderitaan dan makna sebagai berikut:
 
 $$
+
 M = S - D
 $$
 

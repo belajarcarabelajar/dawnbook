@@ -71,6 +71,7 @@ Kasus Argentina 1978 mengajarkan kita tentang bagaimana kekuatan lunak (*soft po
 Jika kita mencoba merumuskan bagaimana rezim menggunakan turnamen ini secara matematis untuk stabilitas politik, kita bisa melihatnya sebagai upaya manipulasi persepsi:
 
 $$
+
 L = \\frac{V \\times P}{C}
 $$
 

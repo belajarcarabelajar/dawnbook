@@ -73,10 +73,8 @@ Dunia teknologi adalah medan tempur penalaran etis yang sangat relevan saat ini.
 - **Secara Utilitarian:** Mobil mungkin diprogram untuk meminimalkan jumlah korban jiwa (mengorbankan 1 penumpang demi menyelamatkan 5 pejalan kaki).
 - **Secara Deontologis:** Ada prinsip bahwa "kendaraan tidak boleh dengan sengaja membunuh penumpangnya."
 - **Tantangan Logika:** Bagaimana kita mengodekan nilai "nyawa manusia" ke dalam algoritma matematis?
+   $$\\text{Nilai Etis} \\neq \\text{Hanya Probabilitas Statistik}$$
 
-$$
-\\text{Nilai Etis} \\neq \\text{Hanya Probabilitas Statistik}
-$$
 ### 6\. Menghindari Sesat Pikir dalam Penalaran Etis
 
 Seringkali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:

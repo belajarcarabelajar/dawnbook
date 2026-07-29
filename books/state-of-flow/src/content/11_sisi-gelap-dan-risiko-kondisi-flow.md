@@ -39,6 +39,7 @@ Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran dir
 Untuk menghindari sisi gelap ini, kita harus memahami bahwa flow membutuhkan biaya energi biologis. Kita bisa menggambarkannya secara konseptual dengan rumus keberlanjutan sederhana:
 
 $$
+
 S = \frac{F \times R}{C}
 $$
 

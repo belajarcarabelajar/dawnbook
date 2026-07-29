@@ -27,6 +27,7 @@ Ada dua jenis standar utama:
 
 Jika $K$ adalah Kinerja dan $S$ adalah Standar, maka kondisi ideal yang diharapkan adalah:
 $$
+
 K \geq S
 $$
 

@@ -55,6 +55,7 @@ Data tanpa aksi adalah tumpukan kertas. Setelah mengumpulkan hasil evaluasi diri
 Kita bisa memandang efektivitas manajemen kelas ($E$) sebagai fungsi dari Konsistensi ($K$) dan Kualitas Hubungan ($H$), dibagi dengan hambatan lingkungan ($L$):
 
 $$
+
 E = \frac{K \times H}{L}
 $$
 

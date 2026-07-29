@@ -22,6 +22,7 @@ Dalam matematika dan fisika, hal ini sering digunakan untuk memvisualisasikan ve
 $$
 \vec{v} = xi + yj + zk
 $$
+
 Orang dengan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam ruang hampa secara mental.
 
 ## 3\. Karakteristik Individu Visual-Spasial

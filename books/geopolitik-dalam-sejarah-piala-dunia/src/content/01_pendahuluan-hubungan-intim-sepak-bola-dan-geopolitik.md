@@ -58,6 +58,7 @@ Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finan
 Dalam analisis geopolitik sepak bola, kita sering melihat korelasi antara posisi tim nasional dengan tingkat pengaruh negara tersebut. Mari kita lihat variabel sederhana dalam mengukur pengaruh global berikut:
 
 $$
+
 P_{\\text{geopolitik}} = f(K_{\\text{ekonomi}}, I_{\\text{budaya}}, S_{\\text{olahraga}})
 $$
 

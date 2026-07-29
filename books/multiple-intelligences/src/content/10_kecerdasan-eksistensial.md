@@ -61,6 +61,7 @@ Gagasan-gagasan filsafat juga memperluas rentang perspektif dalam menilai kehidu
 Ketertarikan pada wawasan luas semesta sering beririsan dengan pemodelan saintifik berskala tak wajar. Sebagai gambaran, rasio total estimasi jumlah bintang di seantero alam semesta teramati biasa direpresentasikan lewat fungsi matematis:
 
 $$
+
 N = 10^{22} \text{ hingga } 10^{24} \text{ bintang}
 $$
 

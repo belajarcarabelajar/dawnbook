@@ -32,12 +32,10 @@ Aturan ketat di stasiun TV konvensional sering kali menyensor gambar tajam seper
 Dengan masuknya modal asing, anggaran produksi K-Drama melonjak ke angka yang sebelumnya hanya mungkin ditemukan di film layar lebar.
 
 **Persamaan Kesuksesan Produksi OTT:** Dalam dunia ekonomi konten, kita bisa melihat formulanya sebagai berikut:
-
-$$
-   \begin{aligned}
+   $$\begin{aligned}
 \text{K}_s = (\text{D}_g \times \text{K}_k) + \text{A}_u
-\end{aligned}
-$$
+\end{aligned}$$
+
 Dimana:
 - $\text{K}_s$: Kualitas Sinematik
 - $\text{D}_g$: Distribusi Global

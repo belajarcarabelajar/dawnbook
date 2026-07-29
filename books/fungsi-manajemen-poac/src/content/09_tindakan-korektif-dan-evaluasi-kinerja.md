@@ -13,6 +13,7 @@ Evaluasi kinerja adalah proses sistematis untuk menilai sejauh mana hasil kerja 
 Dalam proses evaluasi, kita menggunakan konsep varians. Secara matematis, varians dirumuskan sebagai:
 
 $$
+
 V = A - S
 $$
 

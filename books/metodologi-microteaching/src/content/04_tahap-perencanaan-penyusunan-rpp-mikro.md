@@ -48,10 +48,8 @@ Jika total waktu adalah $\text{T}_{\text{total}} = 15$ menit, maka pembagian ide
 - **Pendahuluan ($P$):** $20\text{\%} \times \text{T}_{\text{total}} = 3$ menit
 - **Inti ($I$):** $65\text{\%} \times \text{T}_{\text{total}} = 9.75 \approx 10$ menit
 - **Penutup ($K$):** $15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2$ menit
+   $$\text{T}_{\text{total}} = P + I + K$$
 
-$$
-\text{T}_{\text{total}} = P + I + K
-$$
 *Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
 
 ## 4. Langkah-Langkah Menyusun RPP Mikro

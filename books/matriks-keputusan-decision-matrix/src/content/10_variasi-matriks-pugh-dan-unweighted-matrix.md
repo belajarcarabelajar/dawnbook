@@ -13,10 +13,8 @@ Dalam dunia pengambilan keputusan profesional, kita mengenal berbagai variasi ma
 Bayangkan kamu sedang memilih menu makan siang kantor untuk tim. Kriteria yang ditentukan adalah Harga, Rasa, Kecepatan Pengiriman, dan Kebersihan. Jika kamu menggunakan unweighted matrix, kamu mengasumsikan bahwa Harga sama pentingnya dengan Kebersihan.
 
 **Rumus Matematisnya:**
+   $$\\text{Total Skor} = \\sum_{i=1}^{n} \\text{Skor}_{i}$$
 
-$$
-\\text{Total Skor} = \\sum_{i=1}^{n} \\text{Skor}_{i}
-$$
 *Di mana $n$ adalah jumlah kriteria.*
 
 #### Kapan Menggunakan Unweighted Matrix?

@@ -12,8 +12,10 @@ Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas meliha
 
 Secara matematis, kita bisa memandang nilai sebuah pengalaman $V$ sebagai fungsi dari waktu yang tersedia $T$:
 $$
+
 V \propto \frac{1}{T}
 $$
+
 Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu momen tunggal akan mendekati nol ($0$). Namun, karena hidup kita memiliki batas $T$ yang nyata, maka setiap momen $V$ memiliki nilai yang sangat besar.
 
 ### 2. Merangkul Ketidakpastian sebagai Kebebasan

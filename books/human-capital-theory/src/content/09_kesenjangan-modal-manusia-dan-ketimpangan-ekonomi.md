@@ -37,12 +37,14 @@ Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apaka
 Secara sederhana, jika pendapatan ($Y$) adalah fungsi dari modal manusia ($H$), tenaga kerja ($L$), dan modal fisik ($K$), maka:
 
 $$
+
 Y = f(H, L, K)
 $$
 
 Di mana $H$ dipengaruhi oleh lamanya sekolah ($s$) dan kualitas pendidikan ($q$):
 
 $$
+
 H = e^{\phi(s, q)}
 $$
 

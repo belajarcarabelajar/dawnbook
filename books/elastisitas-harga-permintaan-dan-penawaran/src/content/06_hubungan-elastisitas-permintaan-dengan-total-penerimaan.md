@@ -41,10 +41,8 @@ Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena y
 1. **Bagian Atas (Elastis):** Saat harga masih tinggi, permintaan berada di wilayah elastis. Menurunkan harga akan meningkatkan $\text{TR}$.
 2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
 3. **Bagian Bawah (Inelastis):** Setelah melewati titik puncak, jika harga terus diturunkan, permintaan masuk ke wilayah inelastis. Menurunkan harga lebih lanjut justru akan mengurangi $\text{TR}$.
+   $$\text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1$$
 
-$$
-\text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1
-$$
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
 #### Kasus 1: Industri Maskapai Penerbangan
 Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ tetap naik.

@@ -58,6 +58,7 @@ Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang d
 Misalkan $I$ adalah Dampak (*Impact*), $V$ adalah Verbal, $P$ adalah Paraverbal (Vokal), dan $B$ adalah *Body Language* (Non-verbal). Dampak maksimal tercapai saat ketiganya selaras:
 
 $$
+
 I = V_{\\text{jelas}} + P_{\\text{tepat}} + B_{\\text{sinkron}}
 $$
 

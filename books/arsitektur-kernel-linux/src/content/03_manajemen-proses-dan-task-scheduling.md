@@ -59,10 +59,8 @@ Sejak kernel 2.6.23, Linux menggunakan **CFS** sebagai algoritma penjadwalan def
 
 - Proses yang memiliki $\text{vruntime}$ terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
 - Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah.
+   $$\text{vruntime} = \text{vruntime} + \frac{\text{actual\_runtime}}{\text{weight}}$$
 
-$$
-\text{vruntime} = \text{vruntime} + \frac{\text{actual\_runtime}}{\text{weight}}
-$$
 Jika nilai *nice* tinggi (kurang prioritas), $\text{vruntime}$ bertambah cepat, sehingga ia lebih jarang mendapatkan giliran.
 
 ### Struktur Data Red-Black Tree

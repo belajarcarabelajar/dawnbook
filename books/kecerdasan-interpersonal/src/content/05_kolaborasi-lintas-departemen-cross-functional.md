@@ -56,6 +56,7 @@ Sebagai developer, meluangkan waktu untuk berdiskusi dengan tim sales mengenai k
 Keberhasilan kolaborasi dapat digambarkan melalui model formula sederhana berikut:
 
 $$
+
 K = \\frac{V \\times A}{S}
 $$
 

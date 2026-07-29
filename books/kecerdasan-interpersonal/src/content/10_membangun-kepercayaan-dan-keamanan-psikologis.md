@@ -16,6 +16,7 @@ Sering kali kita mencampuradukkan kedua istilah ini. Meskipun saling mendukung, 
 Untuk membedah komponen *trust* secara objektif, kita dapat menggunakan model *The Trust Equation* yang dikembangkan oleh Charles H. Green:
 
 $$
+
 T = \frac{C + R + I}{S}
 $$
 

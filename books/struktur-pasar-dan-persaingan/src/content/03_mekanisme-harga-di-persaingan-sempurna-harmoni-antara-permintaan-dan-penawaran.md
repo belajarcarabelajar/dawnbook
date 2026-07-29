@@ -19,9 +19,11 @@ Harga keseimbangan $P_e$ terjadi ketika jumlah barang yang diminta oleh konsumen
 Secara matematis:
 
 $$
+
 Q_d = a - b P
 $$
 $$
+
 Q_s = c + d P
 $$
 $$
@@ -45,6 +47,7 @@ Bagi perusahaan individu di PPS:
 Dalam PPS, berlaku persamaan:
 
 $$
+
 P = \text{AR} = \text{MR}
 $$
 
@@ -81,6 +84,7 @@ Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini 
 > **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata $\text{AC}_{\text{min}}$. Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
 
 $$
+
 P = \text{MC} = \text{AC}_{\text{min}}
 $$
 
@@ -107,15 +111,11 @@ Sebuah perusahaan dalam pasar persaingan sempurna menghadapi harga pasar $P = 10
 **Langkah-langkah:**
 
 1. Cari $\text{MC}$ (*Marginal Cost*) dari turunan $\text{TC}$:
+   $$\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20$$
 
-$$
-\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
-$$
 2. Gunakan syarat $P = \text{MC}$ (karena dalam PPS, $P = \text{MR}$):
+   $$100 = 10Q + 20 \implies 10Q = 80 \implies Q = 8$$
 
-$$
-100 = 10Q + 20 \implies 10Q = 80 \implies Q = 8
-$$
 **Kesimpulan:** Perusahaan harus memproduksi **8 unit** untuk memaksimalkan laba pada tingkat harga tersebut.
 
 Meskipun dalam jangka panjang semua perusahaan hanya mendapat laba normal, orang tetap terdorong berbisnis di pasar persaingan sempurna karena "Laba Normal" dalam ilmu ekonomi sudah memperhitungkan gaji untuk pemilik dan tingkat pengembalian (*return*) yang wajar atas modal yang ditanamkan.

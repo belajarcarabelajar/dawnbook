@@ -27,6 +27,7 @@ Misalkan:
 Maka, waktu efektif yang tersisa ($W_{\text{sisa}}$) secara kasar adalah:
 
 $$
+
 W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
 $$
 

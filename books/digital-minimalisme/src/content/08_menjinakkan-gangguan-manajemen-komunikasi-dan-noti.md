@@ -13,6 +13,7 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja ($E$):
 
 $$
+
 E = T \times F^2
 $$
 

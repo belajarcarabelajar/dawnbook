@@ -30,6 +30,7 @@ Permukaan amandel tidaklah rata atau licin, melainkan dipenuhi oleh lekukan dan 
 Lekukan-lekukan ini memiliki fungsi yang sangat penting, yaitu memperluas permukaan amandel agar bisa menangkap lebih banyak kuman atau partikel asing yang masuk saat kamu bernapas atau makan. Secara matematis, jika kita memodelkan efektivitas penangkapan partikel sebagai $P$ dan luas permukaan amandel sebagai $A$, hubungan keduanya dapat dituliskan sebagai:
 
 $$
+
 P \propto A
 $$
 

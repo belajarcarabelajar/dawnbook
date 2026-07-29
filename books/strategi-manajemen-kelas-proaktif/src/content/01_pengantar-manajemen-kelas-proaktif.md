@@ -44,6 +44,7 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 Secara konseptual, keberhasilan sebuah kelas yang proaktif dapat digambarkan melalui fungsi sederhana berikut:
 
 $$
+
 K_p = f(S, R, K)
 $$
 

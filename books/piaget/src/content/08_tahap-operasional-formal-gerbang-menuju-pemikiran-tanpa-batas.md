@@ -44,6 +44,7 @@ Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah mas
 
 Secara matematis, mereka secara intuitif mencoba memahami rumus periode ayunan:
 $$ T = 2\pi \sqrt{\frac{L}{g}} $$
+
 Mereka secara sistematis mengetes apakah $T$ (periode) berubah jika $L$ (panjang tali) diubah, tanpa mengubah berat beban.
 
 ## 4\. Logika Proposisional

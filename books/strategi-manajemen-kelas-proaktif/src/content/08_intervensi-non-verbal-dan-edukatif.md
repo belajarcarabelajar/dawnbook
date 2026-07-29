@@ -71,6 +71,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" ($Ei$) secara sederhana sebagai:
 
 $$
+
 Ei = \frac{K}{D}
 $$
 

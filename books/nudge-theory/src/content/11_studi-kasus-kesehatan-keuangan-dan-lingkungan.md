@@ -42,6 +42,7 @@ Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi
 Tingkat tabungan karyawan yang menggunakan skema tradisional sering kali stagnan. Sebaliknya, program SMarT mendorong pertumbuhan tabungan secara akumulatif berdasarkan fungsi matematika berikut:
 
 $$
+
 S_{\text{total}} = \sum_{t=1}^{n} (G_t \times R_t)
 $$
 

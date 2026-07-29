@@ -13,6 +13,7 @@ Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana k
 Secara matematis, efektivitas komunikasi $E$ dapat dirumuskan secara sederhana sebagai berikut:
 
 $$
+
 E = \\frac{P \\times \\text{Pem}}{G}
 $$
 

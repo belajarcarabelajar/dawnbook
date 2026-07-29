@@ -53,6 +53,7 @@ Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi 
 Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Frekuensi Kesalahan yang disadari ($E$):
 
 $$
+
 L \approx f \times \Delta E
 $$
 

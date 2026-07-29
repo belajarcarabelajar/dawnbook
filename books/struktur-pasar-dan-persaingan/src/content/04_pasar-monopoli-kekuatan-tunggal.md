@@ -24,10 +24,8 @@ Monopoli tidak muncul secara kebetulan. Ada penyebab struktural mengapa satu per
 Kondisi ini terjadi ketika satu perusahaan mampu melayani seluruh pasar dengan biaya per unit yang lebih rendah dibanding jika dilayani oleh dua atau lebih perusahaan. Industri ini umumnya membutuhkan **biaya tetap (*fixed cost*) yang sangat besar**, tetapi memiliki biaya marginal (*marginal cost*) yang rendah.
 
 **Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata $\\text{ATC}$ terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
+   $$\text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}}$$
 
-$$
-\text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}}
-$$
 > **Analogi:** Membangun jaringan pipa air bersih ke seluruh kota memerlukan investasi triliunan rupiah. Jika dua perusahaan bersaing, keduanya harus menggali jalan dan memasang dua jalur pipa sejajar. Langkah ini sangat boros sumber daya. Secara ekonomi, jauh lebih efisien jika satu perusahaan mengelola seluruh jaringan pipa distribusi.
 
 ### B. Monopoli Legal dan Struktural

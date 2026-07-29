@@ -97,6 +97,7 @@ Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainy
 Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error ($E$) antara Target ($T$) dan Kondisi Saat Ini ($C$).
 
 $$
+
 E = T - C
 $$
 

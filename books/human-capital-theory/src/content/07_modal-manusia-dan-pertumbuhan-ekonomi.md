@@ -71,6 +71,7 @@ Dalam analisis makroekonomi, peran **Human Capital** dirumuskan melalui penyesua
 Lucas menekankan bahwa tingkat pertumbuhan ekonomi jangka panjang sangat bergantung pada proporsi waktu yang dialokasikan masyarakat untuk mengumpulkan **Human Capital** melalui pendidikan dan pelatihan.
 
 $$
+
 Y = A \cdot K^\alpha \cdot (h \cdot L)^{1-\alpha}
 $$
 

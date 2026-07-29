@@ -52,6 +52,7 @@ Misalkan kamu harus memilih antara 3 solusi perangkat lunak (A, B, dan C) dengan
 Kita dapat memberikan bobot ($w$) pada setiap kriteria sehingga total bobot adalah 1.0 (atau 100%). Total Skor ($S$) untuk setiap alternatif dapat dihitung dengan rumus:
 
 $$
+
 S = \\sum_{i=1}^{n} (w_i \\times r_i)
 $$
 

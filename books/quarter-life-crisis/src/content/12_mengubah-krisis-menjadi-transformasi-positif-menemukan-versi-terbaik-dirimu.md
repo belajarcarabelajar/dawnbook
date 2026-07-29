@@ -28,6 +28,7 @@ Salah satu alasan utama QLC adalah adanya kesenjangan antara **apa yang kamu lak
 Coba gunakan rumus sederhana ini untuk melihat potensi transformasimu:
 
 $$
+
 T = (K + S) \times B
 $$
 

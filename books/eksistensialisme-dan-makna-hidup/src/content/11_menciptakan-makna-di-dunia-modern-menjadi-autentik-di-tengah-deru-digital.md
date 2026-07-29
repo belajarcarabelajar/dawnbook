@@ -63,6 +63,7 @@ Menjadi autentik berarti menghargai orang lain sebagai subjek yang merdeka, buka
 Pencarian makna hidup di era modern dapat digambarkan dalam hubungan sederhana berikut:
 
 $$
+
 M = A \times (T - D)
 $$
 

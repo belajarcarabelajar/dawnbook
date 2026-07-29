@@ -35,10 +35,8 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
+   $$\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}$$
 
-$$
-\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}
-$$
 Nihilisme adalah kondisi ketika hidup terasa hampa, tanpa tujuan, arti, atau nilai bawaan.
 
 ### Ubermensch: Manusia Unggul

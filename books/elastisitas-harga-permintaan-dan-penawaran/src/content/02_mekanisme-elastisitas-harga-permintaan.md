@@ -23,6 +23,7 @@ Kenaikan harga secara tidak langsung mengurangi "daya beli" atau pendapatan riil
 Mekanisme ini bekerja berdasarkan rasio persentase. Secara matematis, kita melihat hubungan antara perubahan jumlah barang $Q$ dan perubahan harga $P$:
 
 $$
+
 E_d = \frac{\text{\%} \Delta Q_d}{\text{\%} \Delta P}
 $$
 

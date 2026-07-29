@@ -15,6 +15,7 @@ Dalam literatur manajemen, Actuating sering juga disebut sebagai *Directing* (Pe
 Secara matematis, keberhasilan Actuating dapat dilihat sebagai fungsi dari:
 
 $$
+
 E = f(K, M, S)
 $$
 

@@ -36,10 +36,8 @@ Dalam konvensi umum, akumulasi seluruh bobot kriteria harus bernilai $1.0$ atau 
 Misalnya, jika Kriteria A memiliki bobot $0.5$ dan Kriteria B memiliki bobot $0.2$, itu berarti Kriteria A dua setengah kali lebih penting bagi keputusanmu dibandingkan Kriteria B.
 
 **Secara matematis:** Jika $w$ adalah bobot untuk kriteria ke-$i$, maka persamaannya ditulis sebagai:
+   $$\sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}$$
 
-$$
-\sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}
-$$
 ### Komponen 4: Skor Penilaian (*Rating*)
 
 **Skor** merupakan nilai numerik yang kamu berikan pada setiap alternatif berdasarkan pemenuhan kriteria tertentu.
@@ -51,13 +49,12 @@ Kamu bisa menggunakan skala penilaian yang konsisten, misalnya 1–5 atau 1–10
 Bagian ini merupakan inti analisis dari matriks keputusan. Untuk mendapatkan hasil yang adil, kita tidak menjumlahkan skor mentah begitu saja, melainkan mengalikan skor setiap alternatif dengan bobot masing-masing kriteria terlebih dahulu sebelum dijumlahkan.
 
 **Rumus Dasar:**
+   $$\text{Total Score} = (\text{Skor} \times \text{Bobot}_1) + (\text{Skor} \times \text{Bobot}_2) + \dots + (\text{Skor} \times \text{Bobot}_n)$$
 
-$$
-\text{Total Score} = (\text{Skor} \times \text{Bobot}_1) + (\text{Skor} \times \text{Bobot}_2) + \dots + (\text{Skor} \times \text{Bobot}_n)
-$$
 Formula ini juga dapat dinyatakan dalam notasi sigma sebagai berikut:
 
 $$
+
 S_j = \sum_{i=1}^{n} (w_i \cdot r_{ij})
 $$
 

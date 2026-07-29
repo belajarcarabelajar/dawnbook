@@ -6,6 +6,7 @@ Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Ha
 Secara umum, rumusnya adalah:
 
 $$
+
 E_d = \frac{\text{\%} \Delta Q_d}{\text{\%} \Delta P}
 $$
 
@@ -18,6 +19,7 @@ Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada 
 ### Rumus Matematis:
 
 $$
+
 E_d = \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}
 $$
 
@@ -34,10 +36,8 @@ Di mana:
 **Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 cup per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 cup.
 - $P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000$
 - $Q_1 = 100, Q_2 = 80 \rightarrow \Delta Q = -20$
+   $$E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0{,}01 \times 200 = -2$$
 
-$$
-E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0{,}01 \times 200 = -2
-$$
 Nilai mutlak $E_d = 2$.
 ## 3. Metode Nilai Tengah (Midpoint Method)
 Ada satu masalah utama dengan metode elastisitas titik: hasilnya bisa berbeda tergantung apakah kita menghitung dari titik A ke B atau dari B ke A. Inilah yang disebut dengan **masalah arah (direction problem)**.
@@ -54,6 +54,7 @@ $$
 $$
 
 $$
+
 E_d = \frac{\frac{Q_2 - Q_1}{(Q_1 + Q_2) / 2}}{\frac{P_2 - P_1}{(P_1 + P_2) / 2}}
 $$
 
@@ -64,15 +65,14 @@ $$
 **Contoh Kasus dengan Midpoint:** Gunakan data Latte yang sama: $P_1 = 20.000, P_2 = 22.000$ dan $Q_1 = 100, Q_2 = 80$.
 - **Rata-rata $Q$:** $(100 + 80) / 2 = 90$
 - **Rata-rata $P$:** $(20.000 + 22.000) / 2 = 21.000$
+   $$\text{\%} \Delta Q = \frac{80 - 100}{90} = \frac{-20}{90} \approx -0{,}222$$
 
-$$
-\text{\%} \Delta Q = \frac{80 - 100}{90} = \frac{-20}{90} \approx -0{,}222
-$$
 $$
 \text{\%} \Delta P = \frac{22.000 - 20.000}{21.000} = \frac{2.000}{21.000} \approx 0{,}095
 $$
 
 $$
+
 E_d = \frac{-0{,}222}{0{,}095} \approx -2{,}33
 $$
 
