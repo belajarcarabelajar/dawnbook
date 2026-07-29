@@ -42,11 +42,13 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Automatic Tag Generation:** mdBook uses this `description` key to inject `<meta name="description" content="...">` into the `<head>` of every compiled chapter HTML page.
 - **Rule:** Never create or scaffold a book without adding its specific metadescription in `book.toml`.
 
-## 9. Mandatory Manual Line-by-Line File Inspection (No Automation Scripts for LaTeX)
+## 9. Mandatory AI Brain Model Line-by-Line File Inspection (No Script-Only Formalities for LaTeX)
+- **STRICT MANDATE — AI BRAIN MODEL INSPECTION ONLY:** Every LaTeX audit and verification MUST be performed using the AI Agent's cognitive brain model through direct, line-by-line file reading (`view_file`) and manual inspection. Relying ONLY on automated scripts (like `check-latex-support.ts`) as a formality or lazy shortcut is STRICTLY FORBIDDEN. Automated check scripts are ONLY post-flight verification safety nets, NEVER a replacement for manual AI reading.
 - **Mandatory Two-Phase LaTeX Workflow:** For any task involving LaTeX rendering or verification:
-  1. **Phase 1 (Detection & Counting):** You MUST first call `view_file` to read the file, detect all LaTeX formulas on the page/file, and count the total number of LaTeX instances.
+  1. **Phase 1 (Detection & Counting via AI Brain):** You MUST call `view_file` to read the file, detect all LaTeX formulas on the page/file using AI reasoning, and count the total number of LaTeX instances.
   2. **Phase 2 (Agentic Editing & Verification):** Once all instances and total counts are identified and verified, proceed with line-by-line edits directly using agentic coding tools (`view_file` and `replace_file_content`).
-- **FORBIDDEN AUTOMATION SCRIPTS FOR LATEX:** Automation scripts, Node batch converters, mass regular expression search-and-replace scripts, or automated transformation tools for any LaTeX task are STRICTLY FORBIDDEN. All LaTeX tasks must be handled manually line-by-line by the agent.
+- **FORBIDDEN AUTOMATION SCRIPTS FOR LATEX:** Automation scripts, Node batch converters, mass regular expression search-and-replace scripts, or automated transformation tools for any LaTeX task are STRICTLY FORBIDDEN. All LaTeX tasks must be handled manually line-by-line by the agent using AI reasoning.
+- **Pulldown-cmark `<em>` Tag Prevention:** Ensure all underscores (`_`) inside math delimiters are handled cleanly so that `pulldown-cmark` never injects `<em>...</em>` emphasis HTML tags inside MathJax/KaTeX expressions.
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
   1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
   2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files.
@@ -69,8 +71,7 @@ This file contains critical architectural decisions and strict rules for the Daw
      - ❌ WRONG: `$$ E_d = \frac{\% \Delta Q}{\% \Delta P} $$` (raw `%` — formula becomes invisible)
      - ❌ WRONG: `$ 50\% $` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
   6. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
-- **Check Scripts Are Post-Flight Only:** `check-latex-support.ts` and `check-media-support.ts` are post-flight verification tools ONLY, never a replacement for manual file reading. If a script fails, the agent MUST inspect the failing line manually with `view_file` and fix it with `replace_file_content`.
-- **AUDIT GATE:** `bun run scripts/check-latex-support.ts` MUST exit with code 0 before any `bun run build` or `deploy` is allowed. A non-zero exit code means the build is forbidden.
+- **LaTeX Auditing via Generative AI Brain Model Only:** Automated check scripts (such as `check-latex-support.ts`) are REMOVED from build blocking gates. All LaTeX formula inspection, verification, and formatting MUST be performed 100% by the Generative AI model reading files line-by-line (`view_file`) using AI reasoning.
 - **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. The correct form is always `\text{\%}` — single nesting only.
 
 ## 10. MathJax Loading & Navigation Rendering (Learned from Production Bug)

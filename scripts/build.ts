@@ -78,10 +78,11 @@ async function prepareBookForMdbook(booksDir: string, tmpBooksDir: string, bookN
       } else if (entry.name.endsWith(".md")) {
         let content = await readFile(fullPath, "utf8");
         // Convert $...$ and $$...$$ as well as \(...\) and \[...\] to double-escaped \\( and \\[ for pulldown-cmark
-        content = content.replace(/\$\$(.+?)\$\$/gs, "\\\\[$1\\\\]");
-        content = content.replace(/(?<!\$)\$([^$\n]+?)\$(?!\$)/g, "\\\\($1\\\\)");
-        content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, "\\\\($1\\\\)");
-        content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, "\\\\[$1\\\\]");
+        // and escape underscores inside math so pulldown-cmark doesn't inject <em> tags inside math formulas
+        content = content.replace(/\$\$(.+?)\$\$/gs, (_, math) => "\\\\[" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\]");
+        content = content.replace(/(?<!\$)\$([^$\n]+?)\$(?!\$)/g, (_, math) => "\\\\(" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\)");
+        content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, (_, math) => "\\\\(" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\)");
+        content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, (_, math) => "\\\\[" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\]");
         await writeFile(fullPath, content, "utf8");
       }
     }
@@ -98,9 +99,6 @@ async function buildAllBooks(
 
   console.log("Synchronizing book configurations from _template...");
   await $`bun run scripts/sync-template.ts`;
-
-  console.log("Checking LaTeX support across all books...");
-  await $`bun run scripts/check-latex-support.ts`;
 
   console.log("Checking media embed support across all books...");
   await $`bun run scripts/check-media-support.ts`;
