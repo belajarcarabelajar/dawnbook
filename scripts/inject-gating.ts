@@ -106,8 +106,8 @@ async function processDirectory(
       const jsonLdData: any = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": pageTitle,
-        "url": url,
+        "headline": escapeJson(pageTitle),
+        "url": escapeJson(url),
         "isAccessibleForFree": isGatedClientSide ? "false" : "true",
         "publisher": {
           "@type": "Organization",

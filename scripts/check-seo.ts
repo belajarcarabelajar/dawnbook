@@ -39,7 +39,7 @@ async function checkSeo() {
         const isPublic = isPublicPath(relativePath);
 
         // Bypass admin checks and toc.html
-        if (relativePath.startsWith("/admin") || relativePath.startsWith("/.clerk") || relativePath.endsWith("toc.html")) {
+        if (relativePath.startsWith("/admin") || relativePath.endsWith("toc.html")) {
             continue;
         }
 
