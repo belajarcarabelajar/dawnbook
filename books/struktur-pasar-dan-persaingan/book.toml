@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Struktur Pasar dan Persaingan"
+description = "Buku komprehensif tentang struktur pasar, persaingan sempurna, monopoli, oligopoli, efisiensi ekonomi, dan kebijakan anti-monopoli di era digital."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Ekonomi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
