@@ -211,7 +211,6 @@ Dawnbook uses a "free auth-gated content" model: book content beyond the first c
 | Path Pattern | Access | Description |
 |---|---|---|
 | `/`, `/about.html`, `/contribute.html` | **Public** | Hub pages |
-| `/admin/*` | **Public at edge** | Admin SPA (gates itself via `/api/auth/me` client-side) |
 | `/api/*` | **Public at edge** | API handlers enforce their own auth |
 | `/books/<slug>/` | **Public** | Book index (first chapter) |
 | `/books/<slug>/01 - *.html` | **Public** | First chapter = public preview |

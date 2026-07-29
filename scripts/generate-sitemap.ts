@@ -26,10 +26,7 @@ async function generateSitemap() {
       } else if (fullPath.endsWith(".html")) {
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
         if (isPublicPath(relativePath)) {
-          // Do not include the admin SPA in the sitemap (it's auth-gated client-side).
-          if (!relativePath.startsWith("/admin")) {
-            urls.push(`${baseUrl}${relativePath}`);
-          }
+          urls.push(`${baseUrl}${relativePath}`);
         }
       }
     }
@@ -51,8 +48,6 @@ ${urls.map(url => `  <url>\n    <loc>${url}</loc>\n    <changefreq>weekly</chang
 
   const robotsContent = `User-agent: *
 Allow: /
-Disallow: /admin
-Disallow: /admin/
 
 # AI Search Crawlers & LLM Indexers
 User-agent: GPTBot

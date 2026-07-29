@@ -7,6 +7,8 @@ node_modules/
 # Build Output & Caches
 # ==========================================
 output/
+.build-tmp/
+books/.build-tmp/
 dist/
 dist-ssr/
 book/

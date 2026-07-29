@@ -26,7 +26,7 @@ Secara teknis, **Laissez-faire** adalah doktrin ekonomi yang menyatakan bahwa si
 
 - **Tanpa Intervensi:** Tidak ada kontrol harga, upah minimum yang dipaksakan, atau kuota produksi.
 - **Perdagangan Bebas:** Menolak tarif impor atau hambatan perdagangan antarnegara.
-- **Mekanisme Pasar:** Harga barang dan jasa ditentukan murni oleh hukum permintaan dan penawaran (\\(\text{Supply}\\) dan \\(\text{Demand}\\)).
+- **Mekanisme Pasar:** Harga barang dan jasa ditentukan murni oleh hukum permintaan dan penawaran (\(\text{Supply}\) dan \(\text{Demand}\)).
 
 > **Penting:** Dalam sistem ini, pasar dianggap sebagai organisme yang memiliki kemampuan untuk menyembuhkan dan mengatur dirinya sendiri (*self-regulating*).
 

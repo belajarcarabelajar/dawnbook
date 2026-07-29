@@ -13,7 +13,6 @@ This repository is a monorepo hosting a complete end-to-end publishing pipeline:
 - **Authentication & Gating**: Self-hosted via **Cloudflare D1** + **Google OAuth**. Chapters are dynamically gated: the first chapter is a free public preview, while subsequent chapters require a verified D1 session. Visitors sign in with Google; the OAuth callback writes a `users` row (upserted on `google_sub`) and a server-side `sessions` row, then sets an HttpOnly `session_id` cookie. Unauthenticated edge requests for gated content are intercepted and redirected via `functions/_middleware.ts` to prevent bypass.
 - **Database**: Uses **Cloudflare D1** SQLite (`dawnbook-db`) to store book metadata, reading progress checkpoints, completed paths per user, and the auth tables (`users`, `sessions`).
 - **Automated SEO**: Includes a robust SEO validation pipeline (`scripts/check-seo.ts`), automated `sitemap.xml` generation, dynamic `X-Robots-Tag: noindex` header injection for gated chapters, and structured JSON-LD schemas.
-- **Admin Dashboard**: An internal SPA (`apps/admin`) built with Vite and React for managing content.
 - **Hub Site**: A vanilla JS frontend (`apps/hub`) serving as the central landing page. It features an integrated **i18n** localization system (`en` and `id`) and a dedicated `/contribute` page to honor main contributors.
 - **Documentation & Audits**: The `docs/` directory contains all architectural guidelines, design requirements, and system audit reports.
 
@@ -62,7 +61,7 @@ To run this platform locally, you need:
    ```sh
    bun run build
    ```
-   This command synchronizes configurations from the master template, runs LaTeX and media validation checks, builds HTML via mdBook for all books, generates the Hub site index pages, builds the Admin dashboard, and runs the SEO validation suite. Output is saved to the `output/` directory.
+   This command synchronizes configurations from the master template, runs LaTeX and media validation checks, builds HTML via mdBook for all books, generates the Hub site index pages, and runs the SEO validation suite. Output is saved to the `output/` directory.
 
 6. **View the site:**
    Run Wrangler local server to simulate the Cloudflare Pages environment (including middleware, D1 database, and pages functions):

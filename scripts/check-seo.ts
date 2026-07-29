@@ -38,8 +38,8 @@ async function checkSeo() {
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
         const isPublic = isPublicPath(relativePath);
 
-        // Bypass admin checks and toc.html
-        if (relativePath.startsWith("/admin") || relativePath.endsWith("toc.html")) {
+        // Bypass toc.html
+        if (relativePath.endsWith("toc.html")) {
             continue;
         }
 

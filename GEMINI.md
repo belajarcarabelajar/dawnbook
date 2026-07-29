@@ -46,8 +46,8 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Manual Reading Requirement:** Any AI assistant working on this repository MUST call `view_file` to manually inspect EVERY SINGLE chapter markdown file line-by-line before making any edits or running verification scripts.
 - **Forbidden Blind Execution:** Blind regular expression scripts (`sed`, mass search-and-replace, or batch node scripts) are STRICTLY FORBIDDEN as a substitute for manual file reading.
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
-  1. **Inline Math delimiters:** Must use `\\( ... \\)` in `.md` files (double backslash). mdBook strips single backslash, so `\( ... \)` becomes raw text in HTML.
-  2. **Display Math delimiters:** Must use single-line `\\[ ... \\]` in `.md` files (double backslash, one line only). Never split `\\[` across multiple lines. Never use `$$ ... $$` delimiters. Never use `\begin{aligned}` with `\\` row separators inside display math.
+  1. **Inline Math delimiters:** Use `\( ... \)` or `\\( ... \\)` in `.md` files. Standard `\( ... \)` is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes single backslashes into double backslashes for mdBook compilation.
+  2. **Display Math delimiters:** Use single-line `\[ ... \]` or `\\[ ... \\]` in `.md` files. Never split display math across multiple lines. Never use `$$ ... $$` delimiters. Never use `\begin{aligned}` with `\\` row separators inside display math.
   3. **MANDATORY BLANK LINES AROUND DISPLAY MATH:** Every `\\[ ... \\]` block MUST be preceded by a blank line AND followed by a blank line. If a display math block is written without blank lines separating it from surrounding text, pulldown-cmark renders it inside a `<p>` tag, causing the formula to appear **inline and scrambled**. This is the single most common layout bug. Example:
      - ✅ CORRECT:
        ```

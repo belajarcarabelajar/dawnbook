@@ -49,6 +49,44 @@ export interface BuiltBook {
   mtimeMs: number;
 }
 
+async function prepareBookForMdbook(booksDir: string, tmpBooksDir: string, bookName: string) {
+  const srcBookPath = join(booksDir, bookName);
+  const tmpBookPath = join(tmpBooksDir, bookName);
+
+  await $`rm -rf ${tmpBookPath}`;
+  await mkdir(tmpBookPath, { recursive: true });
+  await $`cp -r ${srcBookPath}/* ${tmpBookPath}/`;
+
+  const sharedAssets = ["shared-header.css", "shared-script.js"];
+  for (const asset of sharedAssets) {
+    try {
+      await $`cp ${join(booksDir, asset)} ${join(tmpBooksDir, asset)}`;
+    } catch {}
+  }
+
+  async function escapeLatexInDir(dir: string) {
+    let entries;
+    try {
+      entries = await readdir(dir, { withFileTypes: true });
+    } catch {
+      return;
+    }
+    for (const entry of entries) {
+      const fullPath = join(dir, entry.name);
+      if (entry.isDirectory()) {
+        await escapeLatexInDir(fullPath);
+      } else if (entry.name.endsWith(".md")) {
+        let content = await readFile(fullPath, "utf8");
+        // Convert single-escaped \( and \[ to double-escaped \\( and \\[ for pulldown-cmark
+        content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, "\\\\($1\\\\)");
+        content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, "\\\\[$1\\\\]");
+        await writeFile(fullPath, content, "utf8");
+      }
+    }
+  }
+  await escapeLatexInDir(join(tmpBookPath, "src"));
+}
+
 async function buildAllBooks(
   booksDir: string,
   outputBooksDir: string,
@@ -65,11 +103,13 @@ async function buildAllBooks(
   console.log("Checking media embed support across all books...");
   await $`bun run scripts/check-media-support.ts`;
 
+  const tmpBooksDir = join(process.cwd(), ".build-tmp");
+
   for (const entry of entries) {
     const bookPath = join(booksDir, entry.name);
 
     if (entry.isDirectory()) {
-      if (entry.name.startsWith("_")) continue;
+      if (entry.name.startsWith("_") || entry.name.startsWith(".")) continue;
       if (!/^[a-zA-Z0-9_-]+$/.test(entry.name)) {
         console.warn(`Skipping invalid directory name: ${entry.name}`);
         continue;
@@ -81,11 +121,14 @@ async function buildAllBooks(
         continue;
       }
 
+      const tmpBookPath = join(tmpBooksDir, entry.name);
+      await prepareBookForMdbook(booksDir, tmpBooksDir, entry.name);
+
       console.log(`Building book: ${entry.name}`);
       const destPath = join(outputBooksDir, entry.name);
 
       try {
-        await $`mdbook build ${bookPath} -d ${destPath}`;
+        await $`mdbook build ${tmpBookPath} -d ${destPath}`;
         let formattedTitle = entry.name
           .split("-")
           .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
@@ -1030,25 +1073,9 @@ async function copyAssets(rootDir: string, outputDir: string) {
   }
 }
 
-async function buildAdminDashboardAndHeaders(outputDir: string) {
+async function buildHeaders(outputDir: string) {
   try {
-    await $`cd apps/admin && bun run build`;
-    await $`rm -rf ${join(outputDir, "admin")}`;
-    await $`cp -r apps/admin/dist ${join(outputDir, "admin")}`;
-    const redirectsContent = `
-/admin /admin/ 301
-`;
-    await writeFile(join(outputDir, "_redirects"), redirectsContent.trim());
-
     let headersContent = `
-/admin/*
-  X-Robots-Tag: noindex, nofollow
-  Cache-Control: private, no-store
-
-/admin
-  X-Robots-Tag: noindex, nofollow
-  Cache-Control: private, no-store
-
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -1077,9 +1104,9 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
 
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
 
-    console.log("Admin dashboard built and copied successfully.");
+    console.log("Security headers generated successfully.");
   } catch (error) {
-    console.error("Failed to build or copy admin dashboard", error);
+    console.error("Failed to generate security headers", error);
     process.exit(1);
   }
 }
@@ -1105,8 +1132,8 @@ async function build() {
   console.log("Applying anti-FOUC script to gated books...");
   await $`bun run scripts/inject-gating.ts`;
 
-  console.log("Building admin dashboard...");
-  await buildAdminDashboardAndHeaders(outputDir);
+  console.log("Generating security headers...");
+  await buildHeaders(outputDir);
 
   console.log("Generating sitemap...");
   await $`bun run scripts/generate-sitemap.ts`;
