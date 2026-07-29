@@ -36,9 +36,9 @@ Dalam deduksi, sebuah argumen bisa **Valid** secara struktur tetapi **Salah** se
 - **Argumen Valid** terjadi ketika strukturnya benar (Jika A=B dan B=C, maka A=C).
 - **Argumen Sound (Sahih)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
 
-$$
-\\text{Validitas} + \\text{Kebenaran Premis} = \\text{Soundness}
-$$
+   $$
+   \\text{Validitas} + \\text{Kebenaran Premis} = \\text{Soundness}
+   $$
 
 ## 2\. Penalaran Induktif: Jalur Menuju Probabilitas
 

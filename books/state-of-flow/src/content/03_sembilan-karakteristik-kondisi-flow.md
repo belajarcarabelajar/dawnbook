@@ -59,9 +59,9 @@ Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebaga
 - **Akselerasi:** Jam-jam terasa seperti menit (paling umum terjadi).
 - **Deselerasi:** Detik-detik terasa melambat, sering dilaporkan oleh atlet atau penari saat melakukan gerakan teknis yang rumit (misalnya, peselancar di dalam ombak besar).
 
-$$
-\Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
-$$
+   $$
+   \Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
+   $$
 
 ## 9\. Pengalaman Autotelik (Autotelic Experience)
 

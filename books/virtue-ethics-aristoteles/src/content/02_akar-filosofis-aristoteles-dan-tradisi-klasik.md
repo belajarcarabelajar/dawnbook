@@ -51,11 +51,11 @@ Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama 
 
 **Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat.
 
-$$
-\begin{aligned}
+   $$
+   \begin{aligned}
 \text{Karakter} = (\text{Akal Budi} + \text{Emosi}) \times \text{Kebiasaan}
 \end{aligned}
-$$
+   $$
 
 ### Real-World Application: Kepemimpinan Berbasis Karakter
 

@@ -46,9 +46,9 @@ Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kas
 - Hakim yang mendapatkan angka dadu tinggi cenderung memberikan hukuman yang lebih lama dibandingkan hakim yang mendapatkan angka rendah.
 - **Secara Matematis:** Jika jaksa menuntut angka hukuman $X$, maka vonis hakim cenderung berpusat di sekitar $X$ ($V \approx X \pm \Delta$), terlepas dari apakah tuntutan $X$ tersebut masuk akal secara objektif.
 
-$$
-\text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}
-$$
+   $$
+   \text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}
+   $$
 
 ## 4. Hubungan Personal dan Sosial
 

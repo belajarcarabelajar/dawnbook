@@ -42,9 +42,9 @@ Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena y
 2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
 3. **Bagian Bawah (Inelastis):** Setelah melewati titik puncak, jika harga terus diturunkan, permintaan masuk ke wilayah inelastis. Menurunkan harga lebih lanjut justru akan mengurangi $\text{TR}$.
 
-$$
-\text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1
-$$
+   $$
+   \text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1
+   $$
 
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
 #### Kasus 1: Industri Maskapai Penerbangan

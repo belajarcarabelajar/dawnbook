@@ -37,9 +37,9 @@ Misalnya, jika Kriteria A memiliki bobot $0.5$ dan Kriteria B memiliki bobot $0.
 
 **Secara matematis:** Jika $w$ adalah bobot untuk kriteria ke-$i$, maka persamaannya ditulis sebagai:
 
-$$
-\sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}
-$$
+   $$
+   \sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}
+   $$
 
 ### Komponen 4: Skor Penilaian (*Rating*)
 
@@ -53,9 +53,9 @@ Bagian ini merupakan inti analisis dari matriks keputusan. Untuk mendapatkan has
 
 **Rumus Dasar:**
 
-$$
-\text{Total Score} = (\text{Skor} \times \text{Bobot}_1) + (\text{Skor} \times \text{Bobot}_2) + \dots + (\text{Skor} \times \text{Bobot}_n)
-$$
+   $$
+   \text{Total Score} = (\text{Skor} \times \text{Bobot}_1) + (\text{Skor} \times \text{Bobot}_2) + \dots + (\text{Skor} \times \text{Bobot}_n)
+   $$
 
 Formula ini juga dapat dinyatakan dalam notasi sigma sebagai berikut:
 

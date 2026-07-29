@@ -35,9 +35,9 @@ Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru te
 - **Skenario:** Jika AI mendeteksi kamu mulai sering melakukan kesalahan (indikasi *Anxiety*), ia tidak akan sekadar mengurangi nyawa musuh, melainkan mengubah tata letak level secara *procedural* agar sesuai dengan gaya bermain kamu.
 - **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", namun masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
 
-$$
-\frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1
-$$
+   $$
+   \frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1
+   $$
 
 Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hancur. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
 

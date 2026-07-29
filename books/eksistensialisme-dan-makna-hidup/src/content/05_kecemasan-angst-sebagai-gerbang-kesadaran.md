@@ -60,12 +60,12 @@ Kecemasan mengungkapkan dua hal mendasar:
 1. **Kebebasan Radikal:** Manusia tidak didikte oleh masa lalu maupun takdir; kita adalah penulis atas jalan hidup kita sendiri.
 2. **Ketiadaan (Nothingness):** Ketiadaan fondasi absolut di dunia memaksa kita untuk menciptakan sendiri makna atas keberadaan kita.
 
-$$
-\begin{aligned}
+   $$
+   \begin{aligned}
 \text{Kesadaran} ={}& \text{Penerimaan terhadap Angst} \\
 & + \text{Keberanian Memilih}
 \end{aligned}
-$$
+   $$
 
 ## 5\. Aplikasi Praktis dan Skenario
 

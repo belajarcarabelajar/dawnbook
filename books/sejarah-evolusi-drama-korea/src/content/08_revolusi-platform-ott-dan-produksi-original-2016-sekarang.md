@@ -33,11 +33,11 @@ Dengan masuknya modal asing, anggaran produksi K-Drama melonjak ke angka yang se
 
 **Persamaan Kesuksesan Produksi OTT:** Dalam dunia ekonomi konten, kita bisa melihat formulanya sebagai berikut:
 
-$$
-\begin{aligned}
+   $$
+   \begin{aligned}
 \text{K}_s = (\text{D}_g \times \text{K}_k) + \text{A}_u
 \end{aligned}
-$$
+   $$
 
 Dimana:
 - $\text{K}_s$: Kualitas Sinematik

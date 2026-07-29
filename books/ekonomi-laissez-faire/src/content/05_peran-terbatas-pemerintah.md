@@ -30,9 +30,9 @@ Pemerintah harus melindungi setiap anggota masyarakat dari ketidakadilan atau pe
 - **Penegakan Kontrak:** Jika dua pihak berjanji dalam bisnis, pemerintah melalui pengadilan memastikan janji tersebut ditepati.
 - **Formulasi Hubungan Kepercayaan:** Dalam ekonomi pasar, Kepercayaan ($K$) adalah fungsi dari Penegakan Hukum ($H$):
 
-$$
-K = f(H)
-$$
+   $$
+   K = f(H)
+   $$
 
 Tanpa penegakan hukum ($H \to 0$), maka kepercayaan pasar akan runtuh ($K \to 0$).
 

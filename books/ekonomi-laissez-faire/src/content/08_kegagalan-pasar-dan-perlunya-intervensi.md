@@ -25,9 +25,9 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
   - **Dampak:** Produksi berlebih (*overproduction*) dari barang yang merusak lingkungan.
   - **Persamaan:**
 
-$$
-\text{Social Cost} = \text{Private Cost} + \text{External Cost}
-$$
+   $$
+   \text{Social Cost} = \text{Private Cost} + \text{External Cost}
+   $$
 
 - **Eksternalitas Positif:** Seseorang yang menerima vaksinasi. Dia melindungi dirinya sendiri sekaligus mencegah penyebaran penyakit ke orang lain.
   - **Masalah:** Manfaat individu (*Private Benefit*) lebih rendah dari manfaat total masyarakat (*Social Benefit*).

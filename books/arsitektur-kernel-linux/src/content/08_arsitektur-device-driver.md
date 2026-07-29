@@ -85,9 +85,9 @@ Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus 
 1. **Major Number:** Mengidentifikasi driver mana yang bertanggung jawab atas perangkat tersebut (misalnya, semua hard disk mungkin berbagi Major Number 8).
 2. **Minor Number:** Digunakan oleh driver tersebut untuk membedakan unit perangkat fisik yang spesifik (misalnya, disk A adalah Minor 0, disk B adalah Minor 1).
 
-$$
-\text{Perangkat} = (\text{Major}, \text{Minor})
-$$
+   $$
+   \text{Perangkat} = (\text{Major}, \text{Minor})
+   $$
 
 ## 5. Alur Kerja: Dari Aplikasi ke Hardware
 

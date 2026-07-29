@@ -17,9 +17,9 @@ Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan to
 - **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang sangat besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
 **Hubungan Matematis Sederhana:** Jika pengeluaran untuk barang $X$ adalah $P \times Q$, maka:
 
-$$
-\text{Rasio Anggaran} = \frac{P \times Q}{\text{Total Pendapatan}}
-$$
+   $$
+   \text{Rasio Anggaran} = \frac{P \times Q}{\text{Total Pendapatan}}
+   $$
 
 Semakin besar rasio ini, semakin tinggi kecenderungan elastisitasnya.
 ## 4. Jangka Waktu Analisis

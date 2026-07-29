@@ -29,9 +29,9 @@ Dalam konteks *Quarter-Life Crisis*, FOMO berwujud sebagai **Existential FOMO**,
 
 **Logika FOMO dalam Angka:** Pendekatan matematis sederhana untuk melihat Perceptual Happiness:
 
-$$
-\text{Perceptual Happiness} = \frac{\text{Realitas Diri}}{\text{Ekspektasi (Hasil Observasi Orang Lain)}}
-$$
+   $$
+   \text{Perceptual Happiness} = \frac{\text{Realitas Diri}}{\text{Ekspektasi (Hasil Observasi Orang Lain)}}
+   $$
 
 Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang lain, semakin rendah rasa bahagia yang kita rasakan terhadap realitas kita sendiri, meskipun realitas kita sebenarnya cukup baik.
 

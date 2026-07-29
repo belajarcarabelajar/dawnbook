@@ -75,9 +75,9 @@ Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fe
 - **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat sangat vital untuk menyediakan vaksin dan bantuan sosial.
 - **Perubahan Iklim:** Mekanisme pasar sering gagal menangani eksternalitas negatif seperti polusi. Emisi $\text{CO}_2$ tidak akan turun hanya mengandalkan "tangan tak terlihat" tanpa regulasi karbon yang tegas.
 
-$$
-\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}
-$$
+   $$
+   \text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}
+   $$
 
 ## 7. Studi Kasus: Transformasi Ekonomi Indonesia
 
