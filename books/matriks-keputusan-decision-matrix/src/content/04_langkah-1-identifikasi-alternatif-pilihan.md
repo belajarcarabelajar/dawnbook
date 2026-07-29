@@ -35,7 +35,7 @@ Lihat apa yang dilakukan pihak lain atau kompetitor dalam situasi serupa. Jika i
 Identifikasi batas-batas yang tidak bisa dilanggar. Jika anggaranmu maksimal Rp10 juta, maka opsi seharga Rp20 juta bukan lagi alternatif, melainkan sekadar angan-angan.
 
 $$
-\\text{Anggaran} \\leq \\text{Rp10.000.000}
+\text{Anggaran} \leq \text{Rp10.000.000}
 $$
 
 ### Teknik Penyaringan (*Filtering*): Memilih yang Relevan

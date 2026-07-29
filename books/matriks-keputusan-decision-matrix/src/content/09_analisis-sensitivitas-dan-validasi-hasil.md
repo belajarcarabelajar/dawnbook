@@ -33,8 +33,7 @@ Ini adalah metode yang paling umum digunakan. Cobalah untuk menaikkan atau menur
 Misalkan kamu memiliki total skor berbobot $S$ untuk Alternatif $i$:
 
 $$
-
-S_i = \\sum_{j=1}^{n} w_j \\cdot s_{ij}
+S_i = \sum_{j=1}^{n} w_j \cdot s_{ij}
 $$
 
 Di mana $w_j$ adalah bobot kriteria $j$ dan $s_{ij}$ adalah skor penilaian.
@@ -105,4 +104,4 @@ Dengan bobot yang seimbang, Vendor B mungkin memimpin. Namun, begitu bobot Krite
 
 > **Catatan Penting:** Analisis sensitivitas bukan bertujuan mencari jawaban yang paling "benar", melainkan memahami **risiko** di balik keputusan yang kamu pilih.
 
-Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar $\\pm 10-20\\text{\%}$, kamu bisa sangat percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.
+Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar $\pm 10-20 \text{\%}$, kamu bisa sangat percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.

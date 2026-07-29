@@ -64,7 +64,10 @@ Mari kita lihat contoh penerapan rubrik penilaian ketika kamu memilih laptop bar
 Dalam satu matriks keputusan, kamu akan sering menemui kombinasi antara data kuantitatif (angka pasti) dan data kualitatif (opini atau penilaian subjektif). Keduanya harus dikonversi ke skala yang sama dengan cara berikut:
 
 - **Data Kuantitatif:** Gunakan rumus normalisasi sederhana. Sebagai contoh, untuk kriteria Harga (di mana nilai yang lebih rendah justru lebih baik), kamu bisa menggunakan rumus:
-   $$\\text{Skor} = \\frac{\\text{Harga Termurah}}{\\text{Harga Alternatif}} \\times \\text{Skala Maksimal}$$
+
+$$
+\text{Skor} = \frac{\text{Harga Termurah}}{\text{Harga Alternatif}} \times \text{Skala Maksimal}
+$$
 
 - **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memposisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
 

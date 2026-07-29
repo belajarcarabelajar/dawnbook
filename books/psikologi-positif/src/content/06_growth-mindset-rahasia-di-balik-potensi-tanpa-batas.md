@@ -35,7 +35,7 @@ Mengapa *growth mindset* secara ilmiah masuk akal? Jawabannya ada pada neuroplas
 Setiap kali kita mempelajari hal baru atau memaksakan diri keluar dari zona nyaman, neuron-neuron di otak kita membentuk koneksi baru. Secara matematis, kita bisa menggambarkan pertumbuhan kapasitas ini sebagai fungsi dari usaha dan strategi:
 
 $$
-\\text{Kapasitas Intelektual} = f(\\text{Usaha} \\times \\text{Strategi} \\times \\text{Konsistensi})
+\text{Kapasitas Intelektual} = f(\text{Usaha} \times \text{Strategi} \times \text{Konsistensi})
 $$
 
 Ketika kamu berlatih, "jembatan" antarneuron (sinapsis) menjadi lebih kuat dan lebih cepat.

@@ -55,7 +55,6 @@ Herzberg membagi faktor motivasi menjadi dua bagian penting:
 ### C. Teori Harapan (Expectancy Theory) - Victor Vroom
 Teori ini menggambarkan motivasi $M$ secara matematis sebagai hasil perkalian dari tiga elemen:
 $$
-
 M = E \times I \times V
 $$
 

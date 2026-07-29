@@ -8,7 +8,7 @@ Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "
 
 Secara teoritis, pasar sering kali gagal mencapai alokasi sumber daya yang optimal. Fenomena ini disebut dengan **Kegagalan Pasar (Market Failure)**. Dalam konteks struktur pasar, intervensi pemerintah diperlukan karena:
 
-- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga setinggi mungkin $P > \\text{MC}$ karena konsumen tidak memiliki pilihan lain.
+- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga setinggi mungkin $P > \text{MC}$ karena konsumen tidak memiliki pilihan lain.
 - **Mendorong Inovasi:** Persaingan memaksa perusahaan untuk terus berinovasi. Jika sebuah perusahaan merasa aman tanpa pesaing, mereka cenderung malas untuk meningkatkan kualitas produk.
 - **Alokasi Sumber Daya yang Adil:** Mencegah penumpukan kekayaan dan kekuasaan ekonomi hanya pada segelintir orang atau kelompok (konglomerasi).
 
@@ -84,8 +84,8 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 
 **Pendekatan Regulasi Harga:**
 
-1. **Marginal Cost Pricing $P = \\text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
-2. **Average Cost Pricing $P = \\text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
+1. **Marginal Cost Pricing $P = \text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
+2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
 
 ### 🛠️ Aktivitas Pembelajaran: Analisis Cepat
 

@@ -31,7 +31,7 @@ Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan
 
 - Jika $C > S$: Muncul rasa **Anxiety** (Kecemasan). Tantangan terasa terlalu berat untuk tingkat keterampilanmu.
 - Jika $S > C$: Muncul rasa **Boredom** (Kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
-- **Kondisi Flow:** Terbentuk saat $C \\approx S$ berada pada level yang cukup tinggi.
+- **Kondisi Flow:** Terbentuk saat $C \approx S$ berada pada level yang cukup tinggi.
    $$\text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}$$
 
 #### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan:

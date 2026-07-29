@@ -27,7 +27,6 @@ Ada dua jenis standar utama:
 
 Jika $K$ adalah Kinerja dan $S$ adalah Standar, maka kondisi ideal yang diharapkan adalah:
 $$
-
 K \geq S
 $$
 
@@ -90,7 +89,7 @@ Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui das
 
 **Contoh Kasus:** Sebuah tim pengembang web memastikan server mereka tetap menyala.
 
-- **Standar:** Uptime server harus 99,9% ($\text{Uptime} \geq 99{,}9 \text{\text{\%}}$).
+- **Standar:** Uptime server harus 99,9% ($\text{Uptime} \geq 99{,}9 \text{\%}$).
 - **Pengukuran:** Menggunakan alat pemantau seperti Prometheus atau Grafana untuk melacak status server.
 - **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar.
 

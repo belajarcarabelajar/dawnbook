@@ -34,7 +34,10 @@ Di mana:
 **Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 cup per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 cup.
 - $P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000$
 - $Q_1 = 100, Q_2 = 80 \rightarrow \Delta Q = -20$
-   $$E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0{,}01 \times 200 = -2$$
+
+   $$
+   E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0{,}01 \times 200 = -2
+   $$
 
 Nilai mutlak $E_d = 2$.
 ## 3. Metode Nilai Tengah (Midpoint Method)

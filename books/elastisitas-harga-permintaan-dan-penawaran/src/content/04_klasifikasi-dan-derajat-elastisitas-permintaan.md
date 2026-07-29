@@ -34,16 +34,16 @@ Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia m
 - **Representasi Grafis:** Kurva berbentuk **garis horizontal mendatar**.
 - **Contoh:** Barang dalam pasar persaingan sempurna, seperti hasil pertanian (gandum atau beras) di pasar induk yang standar mutunya sama persis. Jika satu petani menaikkan harga sendiri, pembeli akan langsung beralih ke ribuan petani lainnya yang harganya normal.
 ### Ringkasan Perbandingan Derajat Elastisitas
-| Jenis Elastisitas | Nilai Koefisien ($\\lvert \\text{E}_d \\rvert$) | Deskripsi | Bentuk Kurva |
+| Jenis Elastisitas | Nilai Koefisien ($|\text{E}_d|$) | Deskripsi | Bentuk Kurva |
 | :--- | :--- | :--- | :--- |
-| **Elastis** | $\\lvert \\text{E}_d \\rvert > 1$ | Responsif terhadap harga | Landai |
-| **Inelastis** | $\\lvert \\text{E}_d \\rvert < 1$ | Kurang responsif | Curam |
-| **Unitary** | $\\lvert \\text{E}_d \\rvert = 1$ | Perubahan proporsional | Melengkung (*Hyperbola*) |
-| **Inelastis Sempurna** | $\\lvert \\text{E}_d \\rvert = 0$ | Tidak ada respon | Vertikal |
-| **Elastis Sempurna** | $\\lvert \\text{E}_d \\rvert = \\infty$ | Respon tak terhingga | Horizontal |
+| **Elastis** | $|\text{E}_d| > 1$ | Responsif terhadap harga | Landai |
+| **Inelastis** | $|\text{E}_d| < 1$ | Kurang responsif | Curam |
+| **Unitary** | $|\text{E}_d| = 1$ | Perubahan proporsional | Melengkung (*Hyperbola*) |
+| **Inelastis Sempurna** | $|\text{E}_d| = 0$ | Tidak ada respon | Vertikal |
+| **Elastis Sempurna** | $|\text{E}_d| = \infty$ | Respon tak terhingga | Horizontal |
 ### Penerapan Nyata: Strategi Diskon
 Mengapa toko baju (fashion) sering memberikan diskon besar-besaran (misalnya 70%), sedangkan perusahaan listrik (PLN) atau penyedia air minum (PDAM) hampir tidak pernah melakukannya?
-1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis ($\\lvert \\text{E}_d \\rvert > 1$), sehingga total keuntungan meningkat karena volume penjualan yang masif.
+1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis ($|\text{E}_d| > 1$), sehingga total keuntungan meningkat karena volume penjualan yang masif.
 2. **Kebutuhan Publik (Inelastis):** Air dan listrik adalah kebutuhan pokok tanpa banyak alternatif. Jika PDAM memberikan diskon 50%, orang mungkin tidak akan menggunakan air dua kali lebih banyak dari biasanya karena kebutuhan manusia akan air terbatas. Penurunan harga hanya akan menurunkan total penerimaan perusahaan tanpa meningkatkan volume konsumsi secara bertambah banyak.
 ### Latihan Refleksi
 *Jika kamu adalah seorang pengusaha yang menjual "Kopi Kekinian" di area yang memiliki 10 kedai kopi lain, menurut kamu masuk ke kategori manakah elastisitas permintaan produk kamu? Apa yang akan terjadi jika kamu menaikkan harga sebesar 20%?*

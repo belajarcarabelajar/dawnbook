@@ -31,7 +31,6 @@ Dalam model matematika Spence, diasumsikan terdapat dua kelompok individu:
 Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P_{\text{L}}$ harus jauh lebih tinggi daripada kelompok $P_{\text{H}}$:
 
 $$
-
 C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 

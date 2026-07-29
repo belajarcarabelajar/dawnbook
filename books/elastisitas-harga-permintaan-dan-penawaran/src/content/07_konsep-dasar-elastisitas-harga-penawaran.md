@@ -23,7 +23,6 @@ Ini adalah faktor paling utama dalam elastisitas penawaran.
 Meskipun detail perhitungan akan dibahas di bagian selanjutnya, secara konsep, koefisien elastisitas penawaran ($E_s$) dirumuskan sebagai:
 
 $$
-
 E_s = \frac{\text{\%} \text{ Perubahan Jumlah Barang yang Ditawarkan}}{\text{\%} \text{ Perubahan Harga}}
 $$
 

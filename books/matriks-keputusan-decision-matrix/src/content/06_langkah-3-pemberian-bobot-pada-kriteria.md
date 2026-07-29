@@ -23,10 +23,10 @@ Metode ini paling populer karena sangat intuitif. Kamu mendistribusikan total 10
 
 **Contoh Matematis:** Jika kamu memiliki 3 kriteria: Harga, Kualitas, dan Desain.
 
-- Harga: $0.5$ (atau setara dengan $50\\text{\%}$ dari total prioritas)
-- Kualitas produk: $0.3$ (mengambil porsi $30\\text{\%}$)
-- Desain estetika: $0.2$ (sisa porsi $20\\text{\%}$)
-- **Total:** $\\sum w = 1.0$
+- Harga: $0.5$ (atau setara dengan $50 \text{\%}$ dari total prioritas)
+- Kualitas produk: $0.3$ (mengambil porsi $30 \text{\%}$)
+- Desain estetika: $0.2$ (sisa porsi $20 \text{\%}$)
+- **Total:** $\sum w = 1.0$
 
 #### 2. Skala Prioritas (1 - 5 atau 1 - 10)
 
@@ -34,12 +34,15 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 
 - **Normalisasi Nilai:** Setelah memberikan angka kasar, kamu harus melakukan proses normalisasi agar jumlah seluruh bobot tepat bernilai 1,0.
 - **Rumus Normalisasi:**
-   $$w_i = \\frac{p_i}{\\sum_{j=1}^{n} p_j}$$
+
+$$
+w_i = \frac{p_i}{\sum_{j=1}^{n} p_j}
+$$
 
   Di mana:
   - $w_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
   - $p_i$ = Skor kepentingan kriteria ke-$i$
-  - $\\sum p_j$ = Total jumlah skor dari semua kriteria yang ada
+  - $\sum p_j$ = Total jumlah skor dari semua kriteria yang ada
 
 ### Langkah-Langkah Praktis Menentukan Bobot
 
@@ -47,7 +50,7 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 2. **Pengurutan Prioritas:** Urutkan kriteria mulai dari yang paling vital hingga yang sekadar opsional.
 3. **Alokasi Nilai:** Terapkan salah satu metode (sistem persentase atau skala prioritas).
    - *Tips penting:* Hindari memberikan nilai bobot yang seragam untuk semua kriteria. Jika semuanya dianggap sama penting, esensi dari analisis terstruktur ini akan hilang.
-4. **Uji Kelayakan Logika:** Lakukan evaluasi ulang. Apakah kriteria dengan bobot tertinggi benar-benar mencerminkan faktor penentu keputusanmu? Misalnya, jika kriteria "Biaya" mendapatkan bobot $70\\text{\%}$, artinya kamu sangat sensitif terhadap harga dan siap mengabaikan faktor kualitas demi menekan pengeluaran.
+4. **Uji Kelayakan Logika:** Lakukan evaluasi ulang. Apakah kriteria dengan bobot tertinggi benar-benar mencerminkan faktor penentu keputusanmu? Misalnya, jika kriteria "Biaya" mendapatkan bobot $70 \text{\%}$, artinya kamu sangat sensitif terhadap harga dan siap mengabaikan faktor kualitas demi menekan pengeluaran.
 
 ### Real-World Application: Memilih Vendor Software IT
 
@@ -55,13 +58,13 @@ Mari kita lihat bagaimana sebuah perusahaan memberikan bobot saat memilih vendor
 
 | Kriteria | Skor Kepentingan (1-10) | Bobot Terkalkulasi (Normalisasi) |
 | --- | --- | --- |
-| Keamanan Data | 10 | $10 / 25 = 0.40$ ($40\\text{\%}$) |
-| Kemudahan Penggunaan | 7 | $7 / 25 = 0.28$ ($28\\text{\%}$) |
-| Biaya Langganan | 5 | $5 / 25 = 0.20$ ($20\\text{\%}$) |
-| Dukungan Pelanggan | 3 | $3 / 25 = 0.12$ ($12\\text{\%}$) |
+| Keamanan Data | 10 | $10 / 25 = 0.40$ ($40 \text{\%}$) |
+| Kemudahan Penggunaan | 7 | $7 / 25 = 0.28$ ($28 \text{\%}$) |
+| Biaya Langganan | 5 | $5 / 25 = 0.20$ ($20 \text{\%}$) |
+| Dukungan Pelanggan | 3 | $3 / 25 = 0.12$ ($12 \text{\%}$) |
 | **Total** | **25** | **1.00 (100%)** |
 
-**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40\\text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut secara drastis.
+**Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut secara drastis.
 
 ### Implementasi Teknis (Python Snippet)
 
@@ -93,4 +96,4 @@ print(f"Bobot Akhir: {weights}")
   - *Evaluasi kembali:* Apakah bobot ini didasarkan pada kebutuhan objektif yang nyata, atau hanya trik agar pilihan yang disukai secara emosional keluar sebagai pemenang?
 - **Kriteria yang Tumpang Tindih:** Ketika dua kriteria terlalu mirip, mereka akan memecah dan mendistorsi nilai bobot sesungguhnya. Selalu pastikan kriteria penilaian bersifat independen satu sama lain.
 
-Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan refleksi dinamis dari strategi yang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60\\text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Fleksibilitas ini sangat wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.
+Nilai bobot bukanlah angka statis yang berlaku selamanya, melainkan refleksi dinamis dari strategi yang berjalan. Sebagai contoh, di tahun ini prioritas utama mungkin terletak pada pertumbuhan sehingga kriteria tersebut mendapat bobot $60 \text{\%}$. Namun, ketika situasi ekonomi berubah menantang, efisiensi biaya bisa bergeser menjadi prioritas utama. Fleksibilitas ini sangat wajar, asalkan kamu tetap konsisten dan objektif selama sesi pengambilan keputusan berlangsung.

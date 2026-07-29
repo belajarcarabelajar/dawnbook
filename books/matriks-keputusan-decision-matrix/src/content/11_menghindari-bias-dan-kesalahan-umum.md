@@ -49,7 +49,7 @@ Ini terjadi ketika dua kriteria sebenarnya mengukur hal yang sama, sehingga memb
 Menggunakan skala 1-5 untuk satu kriteria dan 1-10 untuk kriteria lain tanpa normalisasi akan merusak perhitungan matematis total skor.
 
 Secara matematis:
-$\\text{Total Skor} \\neq \\sum (\\text{Skor}_{A} \\times \\text{Bobot}) + \\sum (\\text{Skor}_{B} \\times \\text{Bobot})$
+$\text{Total Skor} \neq \sum (\text{Skor}_{A} \times \text{Bobot}) + \sum (\text{Skor}_{B} \times \text{Bobot})$
 
 *Catatan: Rumus di atas tidak valid jika Skala A berbeda dengan Skala B.*
 
@@ -73,7 +73,7 @@ Jika memungkinkan, mintalah rekan tim untuk memberikan skor pada alternatif tanp
 
 Jangan mengisi matriks sendirian. Melibatkan orang-orang dengan perspektif berbeda akan saling meniadakan bias individu. Gunakan rata-rata skor dari beberapa penilai:
 
-$\\text{Skor}_{\\text{Akhir}} = \\frac{\\sum_{i=1}^{n} \\text{Skor}_{i}}{n}$
+$\text{Skor}_{\text{Akhir}} = \frac{\sum_{i=1}^{n} \text{Skor}_{i}}{n}$
 
 Di mana $n$ adalah jumlah penilai.
 

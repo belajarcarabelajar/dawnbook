@@ -46,7 +46,6 @@ Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, y
 Persamaan matematika ekonomi sederhana:
 
 $$
-
 Q_d = Q_s
 $$
 

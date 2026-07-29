@@ -6,7 +6,7 @@ Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah*
 - **Analogi:** Bayangkan sebuah stadion sepak bola dengan kapasitas 50.000 kursi. Meskipun harga tiket naik dari Rp100.000 menjadi Rp10.000.000, pengelola tidak bisa tiba-tiba membangun kursi tambahan dalam semalam. Jumlah kursi tetap 50.000.
 - **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus vertikal**.
 - **Contoh Nyata:** Tanah di lokasi spesifik, lukisan karya seniman yang sudah meninggal, atau produk dengan kapasitas produksi yang sudah mencapai batas maksimal absolut dalam jangka sangat pendek.
-## 2. Penawaran Inelastis \
+## 2. Penawaran Inelastis
 Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditawarkan **lebih kecil** daripada persentase perubahan harganya. Artinya, produsen kurang responsif terhadap perubahan harga.
 - **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menariknya dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
 - **Bentuk Kurva:** Kurva penawaran cenderung **curam (steep)**.
@@ -16,7 +16,7 @@ Kondisi ini terjadi ketika persentase perubahan harga diikuti oleh persentase pe
 - **Matematika:** Jika harga naik $10 \text{\%}$, maka jumlah penawaran juga naik tepat $10 \text{\%}$.
 - **Bentuk Kurva:** Kurva penawaran membentuk garis diagonal yang **dimulai dari titik pusat (origin) 0**.
 - **Catatan:** Dalam praktik lapangan, elastisitas uniter seringkali menjadi titik teoritis atau transisi antara kondisi inelastis dan elastis.
-## 4. Penawaran Elastis \
+## 4. Penawaran Elastis
 Penawaran dikatakan elastis jika persentase perubahan jumlah barang yang ditawarkan **lebih besar** daripada persentase perubahan harganya. Produsen sangat responsif dan mampu menyesuaikan produksi dengan cepat.
 - **Analogi:** Seperti koki di restoran *fast food*. Jika harga burger naik dan permintaan melonjak, koki hanya perlu mengambil lebih banyak bahan baku dari kulkas dan memasak lebih cepat. Kapasitas bisa ditambah dengan mudah.
 - **Bentuk Kurva:** Kurva penawaran cenderung **landai (flat)**.
@@ -40,7 +40,10 @@ Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering meng
 Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 
 **Penghitungan Cepat:**
-   $$E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5$$
+
+$$
+E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
+$$
 
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
 ### Kode Snippet (Python): Klasifikasi Elastisitas Otomatis

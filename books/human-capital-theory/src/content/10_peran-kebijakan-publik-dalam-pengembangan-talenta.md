@@ -15,7 +15,9 @@ Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisi
 Saat seorang individu meningkatkan keterampilannya, manfaat yang tercipta tidak hanya dinikmati oleh individu itu sendiri. Masyarakat luas ikut merasakan dampaknya, mulai dari peningkatan produktivitas nasional, penurunan tingkat kejahatan, peningkatan kualitas partisipasi kewarganegaraan, hingga terciptanya inovasi baru yang dapat dimanfaatkan publik.
 
 > **Logika Ekonomi:**
+> 
 > $$\text{Manfaat Sosial Total} > \text{Manfaat Pribadi}$$
+> 
 > Ketika peningkatan keterampilan menghasilkan nilai tambah publik yang melebihi keuntungan finansial pribadi, investasi individu secara mandiri akan cenderung terlalu rendah jika dibandingkan dengan tingkat investasi ideal suatu negara.
 
 #### B. Kendala Pasar Kredit (Credit Market Constraints)
