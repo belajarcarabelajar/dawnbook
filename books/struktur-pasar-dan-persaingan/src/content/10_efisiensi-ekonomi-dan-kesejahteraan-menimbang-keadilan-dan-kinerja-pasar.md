@@ -10,7 +10,7 @@ Dalam ekonomi, efisiensi berarti menggunakan sumber daya yang terbatas untuk men
 
 ### A. Efisiensi Produktif (Productive Efficiency)
 
-Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat harga $\text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m)$P\\) atau biaya marjinal \\(\text{MC}\\) memotong titik terendah dari Kurva Biaya Rata-rata Total \\(\text{ATC}\\).
+Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat harga \\(\\text{DWL} = \\frac{1}{2} \\times (P_m - \\text{MC}) \\times (Q_{\\text{pc}} - Q_m)\\)P\\) atau biaya marjinal \\(\text{MC}\\) memotong titik terendah dari Kurva Biaya Rata-rata Total \\(\text{ATC}\\).
 
 - **Analogi:** Bayangkan sebuah pabrik roti. Efisiensi produktif tercapai jika pabrik tersebut menggunakan oven, tepung, dan tenaga kerja sedemikian rupa sehingga satu loyang roti diproduksi dengan biaya serendah mungkin tanpa ada bahan yang terbuang.
 
@@ -61,7 +61,7 @@ Efisiensi sering kali terdistorsi dalam pasar tidak sempurna. Jika pada persaing
 
 Besarnya kerugian kesejahteraan masyarakat (*Deadweight Loss*) dapat dihitung dengan luas segitiga antara kurva permintaan dan biaya marjinal:
 
-$$\text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m)$$
+$\\(\\text{DWL} = \\frac{1}{2} \\times (P_m - \\text{MC}) \\times (Q_{\\text{pc}} - Q_m)\\)$
 
 > **Pertimbangan Kebijakan:** Apakah harga tinggi selalu merugikan masyarakat? Dalam industri farmasi, misalnya, margin keuntungan yang tinggi kerap dimanfaatkan perusahaan untuk membiayai riset dan pengembangan obat baru yang menyelamatkan banyak nyawa.
 
