@@ -557,6 +557,76 @@ EVERY AI agent or subagent MUST manually read EVERY SINGLE file line-by-line usi
 
 ---
 
+**R15 — Zero-Failure LaTeX Rendering Protocol & Fail-Safe Decision Tree**
+
+*Statement:*
+This rule mandates an absolute zero-tolerance policy for broken, raw, un-rendered, or garbled LaTeX math formulas across all books and Cloudflare Pages deployments. Every AI agent must execute this rigid IF-ELSE decision matrix without exception or shortcut.
+
+### 🌲 Fail-Safe Decision Tree (IF-ELSE Matrix):
+
+#### CASE 1: Writing Inline Math in Markdown
+- **IF** authoring or editing inline math inside a paragraph:
+  - **MUST USE:** Double-backslash `\\( ... \\)` in the Markdown source file.
+  - **WHY:** Single-backslash `\(` is parsed by mdBook's pulldown-cmark parser as a Markdown escape character for a literal parenthesis `(`, stripping `\` and outputting plain `(...)` into HTML so MathJax never renders it. Double-backslash `\\(` escapes the backslash, producing `\( ... \)` in HTML for MathJax to detect.
+  - **ELSE IF** double-backslash `\\(` fails in a specific edge case or generates single backslash in HTML, use `$` delimiters ONLY IF `inlineMath: [['$', '$']]` is configured in MathJax (e.g. `$P = 100$`).
+
+#### CASE 2: Writing Display (Block) Math in Markdown
+- **IF** authoring or editing display (centered block) math:
+  - **MUST USE:** Single-line `\\[ \text{formula} \\]` on **one single line** in the Markdown file.
+  - **STRICT PROHIBITION 1:** NEVER split `\\[` and `\\]` across multiple lines (e.g. `\\[` on line 1, formula on line 2, `\\]` on line 3). Multi-line splitting causes pulldown-cmark to wrap line 1 in `<p>\[</p>`, line 2 in `<p>formula</p>`, and line 3 in `<p>\]</p>`, producing broken un-rendered LaTeX in the browser.
+  - **STRICT PROHIBITION 2:** NEVER use `\begin{aligned}` with line breaks `\\` inside block math. pulldown-cmark consumes one backslash, emitting single `\` into HTML which causes MathJax to throw a KaTeX/MathJax parse error (`Invalid size` or `Unknown environment`).
+  - **SOLUTION FOR MULTI-LINE FORMULAS:** Write multiple separate single-line display equations:
+    ```markdown
+    \\[ Q_d = a - b P \\]
+    \\[ Q_s = c + d P \\]
+    \\[ \text{Keseimbangan: } Q_d = Q_s \\]
+    ```
+
+#### CASE 3: Syntax Contamination & Double Wrapping
+- **IF** any of the following invalid delimiter combinations are detected in source `.md` or compiled `.html`:
+  - `$$\\[` or `\\]$$` (double wrapped block delimiters)
+  - `$$\(` or `\)$$` (mixed block/inline delimiters)
+  - `$\(` or `\)$` (double wrapped inline delimiters)
+- **THEN IMMEDIATELY CLEAN** to purely single-line `\\[ ... \\]` (for display math) or `\\( ... \\)` (for inline math).
+
+#### CASE 4: Multi-Letter Economic / Scientific Variables
+- **IF** a math expression contains a variable name with 2 or more letters (e.g., `TR`, `AR`, `MR`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`):
+  - **MUST WRAP** in `\text{...}` (e.g., `\text{MR}`, `\text{MC}`, `\text{ATC}`).
+  - **WHY:** Unwrapped multi-letter variables like `MR` get rendered by MathJax/KaTeX as multiplied single italicized letters ($M \cdot R$) or fail KaTeX pre-flight checks (`check-latex-support.ts`).
+
+#### CASE 5: Cloudflare Rocket Loader Script Suppression
+- **IF** MathJax script fails to initialize in live browsers (or `<script>` tags show `type="<hash>-text/javascript"`):
+  - **CAUSE:** Cloudflare Rocket Loader is intercepting and suppressing `<script>` execution.
+  - **SOLUTION:** Every book's `theme/head.hbs` MUST explicitly include `data-cfasync="false"` on all MathJax script tags:
+    ```html
+    <script data-cfasync="false">
+      window.MathJax = {
+        tex2jax: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          processEscapes: true
+        }
+      };
+    </script>
+    <script data-cfasync="false" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+    ```
+  - **ALSO:** `mathjax-support = false` MUST be set in `book.toml` so mdBook does not inject a second un-annotated script tag. `scripts/sync-template.ts` must propagate `theme/head.hbs` to all books.
+
+#### CASE 6: Cloudflare Edge CDN Caching & Stale HTML
+- **IF** live site displays old/unrendered LaTeX even after `git push`:
+  - **CAUSE:** Cloudflare Pages CDN cached static HTML responses at the edge.
+  - **SOLUTION:** `scripts/build.ts` MUST write `Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0` under `/*` in `output/_headers`.
+  - **VERIFICATION:** Run `fetch(url, { headers: { "Cache-Control": "no-cache" } })` to verify edge HTML contains updated `data-cfasync="false"` script tags.
+
+#### CASE 7: Mandatory 3-Step Verification Pipeline
+- **STEP 1 (Pre-Flight):** Run `bun run scripts/check-latex-support.ts`. If it fails, open flagged files with `view_file`, locate line, fix manually with `replace_file_content`.
+- **STEP 2 (Build & HTML Audit):** Compile `mdbook build books/<slug> -d output/books/<slug>` and run Bun HTML parser to verify 0 `$$`, 0 broken split `<p>` tags, 0 mismatched `\(`.
+- **STEP 3 (Deploy & Edge Audit):** Deploy via `scripts/deploy-website.sh` and fetch live production URL using `fetch`. Verify 200 HTTP status and clean `\[ ... \]` / `\( ... \)` in edge HTML.
+
+*Acceptance check:* All 7 cases in the decision matrix pass. `check-latex-support.ts` exits 0. `deploy-website.sh` exits 0. Live edge HTML renders 100% clean LaTeX math.
+
+---
+
 ## 6. Security and Process Rules
 
 Each rule states an **enforced constraint** and a **required end state**.

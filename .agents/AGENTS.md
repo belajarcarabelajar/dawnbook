@@ -9,6 +9,12 @@ Specifically:
 ## Book Content Rules
 - **Mandatory Meta Description Rule**: Every book's `book.toml` MUST explicitly define a `description` field under `[book]` (100–160 characters). Never leave `description` missing when authoring or scaffolding any book.
 - **No Em-Dash (—) Rule**: The character em-dash (`—`) is strictly forbidden in the final book output. All subagents or operations must remove it entirely, replacing it with a comma (`,`), parentheses `( )` for parenthetical explanations, a colon (`:`) for definition clauses, or a regular hyphen (`-`) for quotation attributions, or rephrasing the sentence.
-- **Mandatory Manual Line-by-Line Inspection Rule**: Agents and subagents MUST call `view_file` to manually read EVERY SINGLE chapter file line-by-line BEFORE making edits or running verification scripts. Relying on blind automated regular expressions (`sed`, mass `replace`, batch scripts) is STRICTLY PROHIBITED. Check all inline math `\( ... \)`, single-line display math `\[ ... \]`, multi-letter `\text{...}` variables, and context accuracy manually. Automated check scripts are ONLY post-flight verification tools, never a replacement for manual file reading.
+- **Mandatory Manual Line-by-Line Inspection Rule (Rule R14)**: Agents and subagents MUST call `view_file` to manually read EVERY SINGLE chapter file line-by-line BEFORE making edits or running verification scripts. Relying on blind automated regular expressions (`sed`, mass `replace`, batch scripts) is STRICTLY PROHIBITED. Check all inline math `\( ... \)`, single-line display math `\[ ... \]`, multi-letter `\text{...}` variables, and context accuracy manually. Automated check scripts are ONLY post-flight verification tools, never a replacement for manual file reading.
+- **Zero-Failure LaTeX Decision Tree (Rule R15)**: Follow rigid IF-ELSE matrix for LaTeX rendering:
+  - **Inline Math:** Double-backslash `\\( ... \\)` in `.md` (escapes pulldown-cmark parenthesis stripping).
+  - **Display Math:** Single-line `\\[ \text{formula} \\]` ONLY. Never multi-line split `\\[`. Never use `\begin{aligned}` with `\\` (breaks pulldown-cmark backslashes). Use separate single-line `\\[ ... \\]` equations instead.
+  - **Variables:** Wrap multi-letter variables in `\text{...}` (e.g. `\text{MR}`, `\text{MC}`).
+  - **Cloudflare Rocket Loader Bypass:** Ensure `theme/head.hbs` contains `data-cfasync="false"` on MathJax script tags. Set `mathjax-support = false` in `book.toml`.
+  - **CDN Edge Cache:** Ensure `output/_headers` contains `Cache-Control: no-store`. Verify edge HTML via `fetch`.
 
 
