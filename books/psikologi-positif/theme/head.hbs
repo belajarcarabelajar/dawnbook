@@ -1,14 +1,22 @@
 <script data-cfasync="false">
   window.MathJax = {
+    jax: ["input/TeX", "output/HTML-CSS"],
+    extensions: ["tex2jax.js", "MathMenu.js", "MathZoom.js"],
     tex2jax: {
       inlineMath: [['$', '$'], ['\\(', '\\)']],
       displayMath: [['$$', '$$'], ['\\[', '\\]']],
       processEscapes: true,
       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
     },
+    "HTML-CSS": {
+      availableFonts: ["STIX", "TeX"],
+      preferredFont: "TeX",
+      showMathMenu: false
+    },
     TeX: {
-      equationNumbers: { autoNumber: 'AMS' }
+      equationNumbers: { autoNumber: 'AMS' },
+      extensions: ["AMSmath.js", "AMSsymbols.js", "noErrors.js", "noUndefined.js"]
     }
   };
 </script>
-<script data-cfasync="false" defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script data-cfasync="false" defer src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
