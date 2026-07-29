@@ -23,7 +23,7 @@ Orang yang tidak kompeten seringkali kekurangan dua hal sekaligus:
 
 ## 2\. Grafik Perjalanan Pengetahuan
 
-Untuk memahami Dunning-Kruger Effect, bayangkan sebuah grafik dengan dua sumbu: **Kepercayaan Diri** (Confidence) di sumbu \( y \) dan **Kompetensi** (Knowledge/Experience) di sumbu \( x \).
+Untuk memahami Dunning-Kruger Effect, bayangkan sebuah grafik dengan dua sumbu: **Kepercayaan Diri** (Confidence) di sumbu $y$ dan **Kompetensi** (Knowledge/Experience) di sumbu $x$.
 
 $$
 \text{Kepercayaan Diri} = f(\text{Kompetensi})
@@ -55,7 +55,7 @@ Dalam dunia teknis, bias ini sering muncul saat seseorang mempelajari bahasa pem
 Bayangkan sebuah tugas untuk mengoptimalkan kode pengolah data.
 
 - **Junior (Peak of Mt. Stupid):** *"Oh, ini gampang! Cukup pakai nested loop dan selesai dalam 5 menit. Saya paling jago di tim ini!"*
-- **Senior (Valley of Despair/Slope of Enlightenment):** *"Hm, ini kompleks. Kita harus mempertimbangkan kompleksitas waktu \( O(n^2) \), penggunaan memori, dan potensi kebocoran data. Saya harus meriset algoritma yang lebih efisien dulu."*
+- **Senior (Valley of Despair/Slope of Enlightenment):** *"Hm, ini kompleks. Kita harus mempertimbangkan kompleksitas waktu $O(n^2)$, penggunaan memori, dan potensi kebocoran data. Saya harus meriset algoritma yang lebih efisien dulu."*
 
 **Analogi Visual:** Seorang pemula melihat hutan dan berkata, "Ini hanya kumpulan pohon." Seorang ahli melihat hutan dan melihat ekosistem yang terdiri dari ribuan spesies, pola tanah, dan interaksi biologis yang rumit.
 

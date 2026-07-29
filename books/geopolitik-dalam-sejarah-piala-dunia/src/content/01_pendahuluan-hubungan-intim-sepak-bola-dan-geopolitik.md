@@ -47,7 +47,7 @@ Rezim otoriter sepanjang sejarah menyadari bahwa sorotan kamera dunia sepanjang 
 
 Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
 
-Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, di mana nilai \(\\text{ROI} < 1\). Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
+Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finansial langsung yang impas, di mana nilai $\\text{ROI} < 1$. Namun, nilai geopolitik yang didapatkan jauh melampaui angka-angka tersebut:
 
 - **Percepatan Infrastruktur**. Proyek besar seperti pembangunan bandara baru, jaringan transportasi massal, dan sistem komunikasi modern yang biasanya butuh waktu puluhan tahun kini diselesaikan hanya dalam hitungan tahun demi mengejar tenggat turnamen.
 - **Posisi di Kancah Global**. Bagi kekuatan ekonomi baru (*emerging powers*), menyelenggarakan Piala Dunia bagaikan mengirim pesan tegas kepada dunia luar bahwa mereka adalah negara stabil yang siap diajak bekerja sama.
@@ -63,12 +63,12 @@ $$
 
 Di mana:
 
-- \(P\): Pengaruh Total
-- \(K\): Kapasitas Ekonomi (GDP)
-- \(I\): Instrumen Budaya
-- \(S\): Keberhasilan atau pengaruh dalam olahraga, termasuk sepak bola
+- $P$: Pengaruh Total
+- $K$: Kapasitas Ekonomi (GDP)
+- $I$: Instrumen Budaya
+- $S$: Keberhasilan atau pengaruh dalam olahraga, termasuk sepak bola
 
-Meskipun kontribusi prestasi olahraga \(S\) tampak kecil dibandingkan dengan kekuatan ekonomi \(K\), bagi banyak negara, \(S\) menjadi jalan pintas paling efektif untuk mendongkrak pengaruh global \(P\) di mata dunia dalam waktu singkat.
+Meskipun kontribusi prestasi olahraga $S$ tampak kecil dibandingkan dengan kekuatan ekonomi $K$, bagi banyak negara, $S$ menjadi jalan pintas paling efektif untuk mendongkrak pengaruh global $P$ di mata dunia dalam waktu singkat.
 
 ## Langkah Pembelajaran Selanjutnya
 

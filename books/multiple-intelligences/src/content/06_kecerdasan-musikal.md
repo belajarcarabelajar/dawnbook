@@ -14,7 +14,7 @@ Ini adalah kemampuan membedakan tinggi rendahnya suara. Orang dengan kecerdasan 
 
 ### B. Irama dan Ritme (Rhythm)
 
-Kemampuan merasakan denyut atau detak dalam suara menjadi fondasi pewaktuan dalam musik. Jika kita melihat musik dari sisi matematis, frekuensi nada \( f \) berhubungan terbalik dengan periode \( T \): 
+Kemampuan merasakan denyut atau detak dalam suara menjadi fondasi pewaktuan dalam musik. Jika kita melihat musik dari sisi matematis, frekuensi nada $f$ berhubungan terbalik dengan periode $T$: 
 
 $$
 f = \frac{1}{T}
@@ -42,13 +42,13 @@ Beberapa tanda seseorang memiliki kecerdasan ini bisa diamati dari keseharian. S
 
 ## 4. Aplikasi dalam Dunia Nyata dan Karir
 
-Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) \( \text{RT}_{60} \) menggunakan rumus Sabine: 
+Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) $\text{RT}_{60}$ menggunakan rumus Sabine: 
 
 $$
 \text{RT}_{60} = \frac{0.161 \cdot V}{\text{S}_a}
 $$
 
-di mana \( V \) adalah volume ruangan dan \( \text{S}_a \) adalah total penyerapan suara.
+di mana $V$ adalah volume ruangan dan $\text{S}_a$ adalah total penyerapan suara.
 
 Pada dunia medis, terapi musik memanfaatkan ritme dan melodi untuk rehabilitasi pasien atau mendampingi anak berkebutuhan khusus. Di sektor teknologi, software engineer audio membuat algoritma untuk kompresi data suara atau menyintesis efek di dalam video game. Profesi seperti editor film juga bergantung pada kecerdasan ini saat mengatur alur adegan berdasarkan harmoni visual serta ritme dialog.
 

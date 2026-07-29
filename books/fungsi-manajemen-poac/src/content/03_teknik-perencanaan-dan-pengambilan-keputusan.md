@@ -59,7 +59,7 @@ Dunia nyata jauh lebih kompleks daripada model matematika. Manajer seringkali ha
 
 - **Bounded Rationality (Rasionalitas Terbatas):** Gagasan dari Herbert Simon yang menjelaskan bahwa keterbatasan waktu dan kemampuan berpikir membuat manusia jarang menghasilkan keputusan yang benar-benar optimal. Sebaliknya, kita cenderung memilih opsi yang dirasa cukup memuaskan (*satisficing*).
 - **Intuisi yang Terdidik:** Kemampuan ini melampaui tebakan biasa karena bersumber dari pengenalan pola bawah sadar yang terbentuk lewat pengalaman bertahun-tahun di lapangan.
-- **Analisis Probabilitas:** Pemanfaatan data statistik untuk mengukur dan memperkirakan risiko. Salah satu caranya adalah menghitung nilai harapan atau \( \text{EV} \) (*Expected Value*) dengan rumus:
+- **Analisis Probabilitas:** Pemanfaatan data statistik untuk mengukur dan memperkirakan risiko. Salah satu caranya adalah menghitung nilai harapan atau $\text{EV}$ (*Expected Value*) dengan rumus:
    $$
 \text{EV} = \sum (\text{Probabilitas} \times \text{Hasil})
 $$
@@ -82,8 +82,8 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
      - **Mall A:** Menawarkan sewa murah (nilai 8), namun kepadatan pengunjung tergolong sedang (nilai 6).
      - **Mall B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
    - **Perhitungan Skor:**
-     - Skor Mall A: \( (0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8 \)
-     - Skor Mall B: \( (0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0 \)
+     - Skor Mall A: $(0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8$
+     - Skor Mall B: $(0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0$
    - **Keputusan Akhir:** Mall B dipilih karena menghasilkan skor total tertinggi, meskipun biaya sewanya lebih mahal.
 
 ## Rangkuman Intisari

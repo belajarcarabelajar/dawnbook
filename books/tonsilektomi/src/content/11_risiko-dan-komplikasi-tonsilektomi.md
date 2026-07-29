@@ -32,7 +32,7 @@ Jika keropeng ini lepas sebelum waktunya, misalnya karena tergesek makanan yang 
 
 Dehidrasi merupakan komplikasi yang paling sering menyebabkan pasien harus kembali dirawat di rumah sakit setelah tonsilektomi.
 
-Rasa sakit saat menelan kerap membuat pasien, terutama anak-anak, enggan minum sehingga tubuh kekurangan cairan \( \text{H}_2\text{O} \). Hal ini dapat memicu lingkaran setan: tenggorokan yang kering akan terasa jauh lebih sakit dibandingkan tenggorokan yang lembap. Rasa sakit yang memburuk tersebut membuat pasien semakin takut untuk minum, yang pada akhirnya memperlambat penyembuhan luka.
+Rasa sakit saat menelan kerap membuat pasien, terutama anak-anak, enggan minum sehingga tubuh kekurangan cairan $\text{H}_2\text{O}$. Hal ini dapat memicu lingkaran setan: tenggorokan yang kering akan terasa jauh lebih sakit dibandingkan tenggorokan yang lembap. Rasa sakit yang memburuk tersebut membuat pasien semakin takut untuk minum, yang pada akhirnya memperlambat penyembuhan luka.
 
 Menahan sedikit rasa perih saat minum jauh lebih baik daripada harus menjalani rawat inap kembali hanya untuk dipasang infus akibat tubuh yang lemas.
 

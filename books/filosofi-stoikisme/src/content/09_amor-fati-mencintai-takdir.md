@@ -38,7 +38,7 @@ $$
 \text{Penderitaan} = \text{Kejadian} \times \text{Perlawanan}
 $$
 
-Jika \( \text{Perlawanan} = 0 \) (melalui Amor Fati), maka berapa pun besarnya \( \text{Kejadian} \) yang menimpa, \( \text{Penderitaan} \) akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
+Jika $\text{Perlawanan} = 0$ (melalui Amor Fati), maka berapa pun besarnya $\text{Kejadian}$ yang menimpa, $\text{Penderitaan}$ akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
 ## Latihan Praktis: Mengubah Hambatan Menjadi Bahan Bakar
 

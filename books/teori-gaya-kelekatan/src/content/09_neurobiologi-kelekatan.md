@@ -34,7 +34,7 @@ Interaksi kelekatan memicu pelepasan zat kimia tertentu yang mengubah cara kita 
 
 ### Oksitosin: Molekul Koneksi
 
-Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia \(\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2\). Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
+Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia $\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2$. Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
 
 ### Kortisol: Hormon Stres
 

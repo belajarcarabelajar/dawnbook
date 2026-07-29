@@ -43,7 +43,7 @@ $$
 \text{Total} = P \times (1 + r)^n
 $$
 
-Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga \( r \) dan jangka waktu \( n \) bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, menunjukkan kalimat konkret: "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
+Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga $r$ dan jangka waktu $n$ bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, menunjukkan kalimat konkret: "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
 
 ### Studi Kasus: Memilih Skema Asuransi Kesehatan
 

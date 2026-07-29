@@ -27,7 +27,7 @@ Digunakan oleh atlet elit dan pasukan khusus untuk tetap tenang di bawah tekanan
 3. **Exhale**: Buang napas perlahan melalui mulut selama 4 detik.
 4. **Hold**: Tahan napas dalam keadaan kosong selama 4 detik.
 
-Secara matematis, kita bisa melihat pola ini sebagai: \( \text{Pola} = 4 \rightarrow 4 \rightarrow 4 \rightarrow 4 \)
+Secara matematis, kita bisa melihat pola ini sebagai: $\text{Pola} = 4 \rightarrow 4 \rightarrow 4 \rightarrow 4$
 
 #### B. Teknik Grounding 5-4-3-2-1
 
@@ -47,7 +47,7 @@ Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi yan
 - **Istirahat Sensorik:** Mematikan semua layar (HP, Laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralisir rangsangan berlebih.
 - **Istirahat Emosional:** Memiliki ruang di mana kamu bisa menjadi diri sendiri secara autentik tanpa harus "berakting" kuat di depan orang lain.
 
-**Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus \( 10-3-2-1-0 \) untuk higiene tidur yang optimal:
+**Penting:** Kualitas tidur tetap menjadi fondasi utama. Gunakan rumus $10-3-2-1-0$ untuk higiene tidur yang optimal:
 
 - **10 jam sebelum tidur:** Tidak ada kafein.
 - **3 jam sebelum tidur:** Tidak ada makanan berat atau alkohol.

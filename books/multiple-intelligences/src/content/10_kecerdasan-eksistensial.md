@@ -22,7 +22,7 @@ Satu hal yang menarik adalah mereka tidak mudah gentar oleh ambiguitas. Saat ber
 
 ## Membedah Pertanyaan Besar
 
-Kecerdasan ini beroperasi melampaui data empiris sederhana. Berbeda dengan ilmu pasti yang bertumpu pada presisi angka, ranah eksistensial leluasa menggali konsep-konsep abstrak seperti tak terhingga \( \infty \).
+Kecerdasan ini beroperasi melampaui data empiris sederhana. Berbeda dengan ilmu pasti yang bertumpu pada presisi angka, ranah eksistensial leluasa menggali konsep-konsep abstrak seperti tak terhingga $\infty$.
 
 Pola pikir ini mendorong orang mempertanyakan asal muasal segalanya, dari mana kita berasal, hingga menguliti proses pembentukan alam semesta. Ada pula pencarian tentang tujuan hidup yang membedah apakah kehidupan manusia memiliki arah objektif di dunia ini, serta apa yang menanti setelah kesadaran berhenti akibat kematian.
 
@@ -44,7 +44,7 @@ Pemilihan istilah "eksistensial" yang diajukan oleh Gardner dilandasi oleh alasa
 
 Pemikiran eksistensial jelas lebih dari sekadar melamun tanpa arah. Di dunia nyata, kepekaan ini mengisi celah-celah pengawasan moral dalam ekosistem profesional.
 
-Dalam disiplin ilmu bioetika, para pemikir eksistensial mengawal batas-batas peradaban saat teknologi rekayasa genetika atau kecerdasan buatan dikembangkan. Mereka melontarkan pertanyaan mendasar: *"Hanya karena kita secara teknis mampu membuat inovasi \( x \), apakah inovasi itu sejalan dengan esensi moral kemanusiaan?"*
+Dalam disiplin ilmu bioetika, para pemikir eksistensial mengawal batas-batas peradaban saat teknologi rekayasa genetika atau kecerdasan buatan dikembangkan. Mereka melontarkan pertanyaan mendasar: *"Hanya karena kita secara teknis mampu membuat inovasi $x$, apakah inovasi itu sejalan dengan esensi moral kemanusiaan?"*
 
 Di ranah kepemimpinan, sebuah visi masa depan ditarik jauh melampaui perburuan laba, menyentuh esensi mengapa sebuah organisasi harus lahir. Nama-nama ilmuwan besar sering kali mengandalkan intuisi eksistensial untuk membayangkan dimensi-dimensi yang melampaui batasan wajar di dalam laboratorium mereka.
 

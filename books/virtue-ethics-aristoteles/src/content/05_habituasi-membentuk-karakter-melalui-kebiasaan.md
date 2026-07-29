@@ -49,7 +49,7 @@ $$
 \end{aligned}
 $$
 
-Di sini, \( n \) mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
+Di sini, $n$ mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
 
 ## 5\. Aplikasi Dunia Nyata: Membangun Budaya Integritas
 

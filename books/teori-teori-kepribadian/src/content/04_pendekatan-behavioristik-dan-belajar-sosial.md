@@ -17,9 +17,9 @@ Behaviorisme berpendapat bahwa perilaku dapat dipahami sepenuhnya melalui studi 
 * **Conditioned Response (CR):** Respons yang dipelajari terhadap CS, yang seringkali mirip dengan UCR (misalnya, air liur saat mendengar lonceng).
 
 Ivan Pavlov mengamati bahwa anjingnya mulai mengeluarkan air liur saat melihat asisten lab yang biasanya membawakan makanan, bahkan sebelum makanan itu sendiri terlihat. Eksperimennya menggambarkan proses berikut:
-1. Sebelum pengkondisian: Makanan (UCS) \(\rightarrow\) Air liur (UCR). Lonceng (Stimulus Netral) \(\rightarrow\) Tidak ada air liur.
-2. Selama pengkondisian: Lonceng (Stimulus Netral) + Makanan (UCS) \(\rightarrow\) Air liur (UCR).
-3. Setelah pengkondisian: Lonceng (CS) \(\rightarrow\) Air liur (CR).
+1. Sebelum pengkondisian: Makanan (UCS) $\rightarrow$ Air liur (UCR). Lonceng (Stimulus Netral) $\rightarrow$ Tidak ada air liur.
+2. Selama pengkondisian: Lonceng (Stimulus Netral) + Makanan (UCS) $\rightarrow$ Air liur (UCR).
+3. Setelah pengkondisian: Lonceng (CS) $\rightarrow$ Air liur (CR).
 
 Dalam konteks kepribadian, *classical conditioning* menjelaskan bagaimana kita mengembangkan respons emosional dan perilaku terhadap objek, orang, atau situasi tertentu. Fobia, misalnya, bisa terbentuk jika seseorang mengalami kejadian buruk (UCS) di tempat tertentu (CS), lalu kemudian memunculkan rasa takut (CR) terhadap tempat tersebut.
 
@@ -73,7 +73,7 @@ Keyakinan ini dapat tumbuh melalui beberapa sumber:
 
 Bandura mengajukan *reciprocal determinism*, gagasan bahwa perilaku, faktor kognitif, dan lingkungan berinteraksi secara dinamis dan timbal balik.
 
-Interaksi Tiga Arah: \( B \leftrightarrow P \leftrightarrow E \)
+Interaksi Tiga Arah: $B \leftrightarrow P \leftrightarrow E$
 * **B (*Behavior*):** Tindakan dan respons individu.
 * **P (*Person*):** Faktor kognitif (seperti harapan dan *self-efficacy*), afektif, dan biologis.
 * **E (*Environment*):** Faktor eksternal seperti konteks fisik dan sosial.

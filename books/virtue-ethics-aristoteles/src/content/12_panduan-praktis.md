@@ -28,13 +28,13 @@ $$
 \end{aligned}
 $$
 
-Di mana \( n \) adalah jumlah pengulangan dalam waktu \( t \). Semakin besar \( n \), semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
+Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
 
 #### Cara Melatihnya:
 
 1. **Pilih Satu Fokus:** Jangan mencoba menjadi sempurna dalam segala hal sekaligus. Pilih satu kebajikan per bulan (misalnya: Kesabaran).
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
-3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit \( \text{Tindakan} \) yang menambah skor \( \text{Karakter} \) kamu.
+3. **Lakukan Tindakan Kecil:** Alih-alih mengeluh, ambil napas dalam dan berikan senyum kepada petugas. Ini adalah satu unit $\text{Tindakan}$ yang menambah skor $\text{Karakter}$ kamu.
 
 ### 3. Menggunakan Kompas Phronesis dalam Pengambilan Keputusan
 

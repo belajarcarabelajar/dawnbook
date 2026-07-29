@@ -22,7 +22,7 @@ Bagi pasien yang menjalani operasi karena **Hipertrofi Tonsil** (amandel yang te
 
 Amandel yang besar bertindak seperti penghalang fisik di jalan napas. Ketika otot-otot tenggorokan rileks saat tidur, amandel ini dapat menutup saluran udara sepenuhnya.
 
-Saat amandel yang menghalangi jalan napas diangkat, suara dengkuran yang keras biasanya langsung mereda atau hilang sepenuhnya. Akibatnya, tubuh mendapatkan pasokan oksigen \( \text{O}_2 \) yang stabil sepanjang malam. Aliran oksigen yang lancar ini sangat berharga untuk menopang fungsi jantung dan otak.
+Saat amandel yang menghalangi jalan napas diangkat, suara dengkuran yang keras biasanya langsung mereda atau hilang sepenuhnya. Akibatnya, tubuh mendapatkan pasokan oksigen $\text{O}_2$ yang stabil sepanjang malam. Aliran oksigen yang lancar ini sangat berharga untuk menopang fungsi jantung dan otak.
 
 ### Dampak pada Anak-anak
 

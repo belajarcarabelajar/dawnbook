@@ -34,7 +34,7 @@ Heidegger berpendapat bahwa dalam keseharian, kita hidup dalam kondisi "terjatuh
 
 Heidegger membedakan keduanya dengan sangat tegas:
 
-- **Furcht (Ketakutan):** Memiliki objek yang spesifik. Sebagai contoh, \( \text{Takut} \rightarrow \text{Ular} \) adalah ancaman konkret yang bisa kita hindari dengan berlari.
+- **Furcht (Ketakutan):** Memiliki objek yang spesifik. Sebagai contoh, $\text{Takut} \rightarrow \text{Ular}$ adalah ancaman konkret yang bisa kita hindari dengan berlari.
 - **Angst (Kecemasan):** Muncul tanpa objek tertentu. Dalam kondisi ini, dunia mendadak terasa asing, membuat segala hal yang biasanya bermakna, seperti pekerjaan, status, atau hobi, tiba-tiba terasa kosong dan kehilangan esensinya.
 
 ### Konsep Unheimlich

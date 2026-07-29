@@ -10,17 +10,17 @@ Kritik yang paling sering dilontarkan oleh para psikolog kognitif adalah kurangn
 
 Selain itu, para ahli psikometri menemukan korelasi ketika mencoba mengukur berbagai "kecerdasan" Gardner. Skor-skor dari pengukuran tersebut cenderung saling berhubungan secara positif.
 
-> **Analogi:** Bayangkan kamu memiliki sebuah *smartphone*. Kamu mungkin berpikir kamera, prosesor, dan baterai adalah bagian yang terpisah. Nyatanya, jika prosesornya lemah, kinerja kamera dan daya tahan baterai juga ikut terpengaruh karena semuanya bergantung pada satu sistem pusat. Dalam psikologi, sistem pusat ini sering disebut sebagai faktor \( g \).
+> **Analogi:** Bayangkan kamu memiliki sebuah *smartphone*. Kamu mungkin berpikir kamera, prosesor, dan baterai adalah bagian yang terpisah. Nyatanya, jika prosesornya lemah, kinerja kamera dan daya tahan baterai juga ikut terpengaruh karena semuanya bergantung pada satu sistem pusat. Dalam psikologi, sistem pusat ini sering disebut sebagai faktor $g$.
 
-### Faktor \( g \) (*General Intelligence*)
+### Faktor $g$ (*General Intelligence*)
 
-Psikolog Charles Spearman mengusulkan konsep \( g \) (*general intelligence*). Data statistik menunjukkan bahwa orang yang unggul dalam tes logika cenderung juga memiliki kemampuan verbal yang baik. Persamaan yang sering digunakan dalam konteks ini adalah:
+Psikolog Charles Spearman mengusulkan konsep $g$ (*general intelligence*). Data statistik menunjukkan bahwa orang yang unggul dalam tes logika cenderung juga memiliki kemampuan verbal yang baik. Persamaan yang sering digunakan dalam konteks ini adalah:
 
 $$
 \text{Skor Tes} = g + s (\text{kemampuan spesifik})
 $$
 
-Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor \( g \) ini selalu muncul dalam hampir setiap penelitian tentang kemampuan manusia.
+Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ ini selalu muncul dalam hampir setiap penelitian tentang kemampuan manusia.
 
 ## 2. Kecerdasan atau Sekadar Bakat?
 
@@ -38,14 +38,14 @@ Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning
 
 Mengetahui sisi kritis teori ini membantu kita menghindari penerapan yang kurang tepat. Sebagai contoh di ranah rekrutmen, bayangkan sebuah perusahaan yang mencoba menggunakan Teori Kecerdasan Majemuk untuk mencari manajer baru dengan memberikan tes musik atau tes naturalis.
 
-Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal (yang menjadi inti dari faktor \( g \)) hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya talenta yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum (\( g \)) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
+Risikonya muncul jika perusahaan mengabaikan skor logika dan verbal (yang menjadi inti dari faktor $g$) hanya karena calon tersebut punya kecerdasan musikal. Pekerjaan manajerial sering membutuhkan kemampuan analisis laporan atau komunikasi efektif. Penerapan yang lebih sesuai adalah mengakui pentingnya talenta yang beragam dalam tim, sambil tetap menyadari bahwa kemampuan kognitif umum ($g$) sering kali menjadi indikator andal untuk memprediksi performa pada pekerjaan kompleks.
 
 ## 5. Ringkasan Kritik Utama
 
 | Fokus Kritik | Argumen Utama |
 | --- | --- |
 | **Empiris** | Tidak ada data kuantitatif yang mendukung pemisahan delapan kecerdasan secara independen. |
-| **Teoretis** | Mengabaikan faktor \( g \) (*general intelligence*) yang lazim ditemukan dalam pengukuran psikometri. |
+| **Teoretis** | Mengabaikan faktor $g$ (*general intelligence*) yang lazim ditemukan dalam pengukuran psikometri. |
 | **Terminologi** | Mengaburkan batas antara kapasitas intelektual dengan bakat atau minat bawaan. |
 | **Praktis** | Rawan disalahartikan dalam ranah pendidikan, membenarkan metode mengajar yang minim landasan bukti. |
 

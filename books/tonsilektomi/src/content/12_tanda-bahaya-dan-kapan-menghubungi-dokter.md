@@ -27,7 +27,7 @@ Rasa sakit saat menelan sering kali membuat orang enggan minum. Padahal, kekuran
 - Bibir tampak pecah-pecah, mulut sangat kering, dan anak-anak menangis tanpa mengeluarkan air mata.
 - Tubuh terasa lemas luar biasa, disertai rasa pusing saat mencoba berdiri.
 
-Untuk mencegahnya, kamu bisa mencatat jumlah cairan yang masuk setiap jam. Usahakan untuk minum setidaknya \(30\text{-}50\text{ ml}\) cairan setiap jam selama tidak tidur.
+Untuk mencegahnya, kamu bisa mencatat jumlah cairan yang masuk setiap jam. Usahakan untuk minum setidaknya $30\text{-}50\text{ ml}$ cairan setiap jam selama tidak tidur.
 
 ## 3. Masalah Pernapasan dan Suara
 
@@ -40,8 +40,8 @@ Sedikit pembengkakan di area tenggorokan adalah hal yang wajar. Namun, jika pemb
 
 ## 4. Demam dan Infeksi
 
-Suhu tubuh yang sedikit meningkat (sekitar \(37.5^\circ\text{C} - 38^\circ\text{C}\)) biasa terjadi pada hari pertama atau kedua. Kamu perlu waspada jika muncul tanda-tanda infeksi berikut:
-- Demam tinggi dengan suhu tubuh mencapai lebih dari \(38.5^\circ\text{C}\) dan tidak kunjung turun walau sudah minum obat pereda demam.
+Suhu tubuh yang sedikit meningkat (sekitar $37.5^\circ\text{C} - 38^\circ\text{C}$) biasa terjadi pada hari pertama atau kedua. Kamu perlu waspada jika muncul tanda-tanda infeksi berikut:
+- Demam tinggi dengan suhu tubuh mencapai lebih dari $38.5^\circ\text{C}$ dan tidak kunjung turun walau sudah minum obat pereda demam.
 - Nyeri hebat yang justru bertambah parah setelah hari ketujuh, bukannya berangsur membaik.
 - Bau mulut yang sangat menyengat (*fetor oris*) disertai dengan keluarnya nanah pada area bekas operasi.
 
@@ -59,7 +59,7 @@ Berikut adalah contoh perbedaan penanganan medis yang cepat dibandingkan dengan 
 | --- | --- |
 | Pendarahan darah merah segar yang terus mengalir | **Segera ke UGD** |
 | Sesak napas atau napas berbunyi mencicit | **Segera ke UGD** |
-| Demam tinggi lebih dari \(38.5^\circ\text{C}\) | Hubungi dokter bedah atau klinik |
+| Demam tinggi lebih dari $38.5^\circ\text{C}$ | Hubungi dokter bedah atau klinik |
 | Tidak buang air kecil lebih dari 8 jam | Hubungi dokter bedah atau klinik |
 | Nyeri hebat yang tidak membaik dengan obat pereda nyeri | Hubungi dokter bedah atau klinik |
 

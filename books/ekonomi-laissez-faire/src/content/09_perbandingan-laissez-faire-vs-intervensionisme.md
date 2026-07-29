@@ -27,18 +27,20 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 
 Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianisme**, yang dipelopori oleh John Maynard Keynes. Keynes berpendapat bahwa dalam masa depresi ekonomi, pasar tidak bisa bangkit sendiri karena kurangnya permintaan.
 
-**Rumus Permintaan Agregat:** Dalam model Keynesian, output ekonomi (\( Y \)) ditentukan oleh formula berikut:
+**Rumus Permintaan Agregat:** Dalam model Keynesian, output ekonomi ($Y$) ditentukan oleh formula berikut:
 
-\[ Y = C + I + G + (X - M) \]
+$$
+Y = C + I + G + (X - M)
+$$
 
 Di mana:
 
-- \( C \): Konsumsi rumah tangga
-- \( I \): Investasi
-- **\( G \): Pengeluaran Pemerintah (Alat utama intervensi)**
-- \( X - M \): Ekspor neto
+- $C$: Konsumsi rumah tangga
+- $I$: Investasi
+- **$G$: Pengeluaran Pemerintah (Alat utama intervensi)**
+- $X - M$: Ekspor neto
 
-*Bayangkan situasi ini: Jika perusahaan takut berinvestasi (\( I \)) dan masyarakat berhenti belanja (\( C \)), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah (\( G \))?*
+*Bayangkan situasi ini: Jika perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
 
 ## 4. Mekanisme Respon Terhadap Krisis 📉
 
@@ -71,7 +73,7 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 - **Sisi Laissez-faire:** Beberapa pihak berpendapat bahwa bisnis harus tetap buka dan pasar akan beradaptasi dengan cara baru untuk beroperasi tanpa bantuan negara.
 - **Sisi Intervensionis:** Hampir semua negara di dunia memilih intervensi besar-besaran. Mereka memberikan bantuan tunai langsung, subsidi gaji agar karyawan tidak di-PHK, dan mendanai riset vaksin secara besar-besaran.
 
-**Hasilnya?** Tanpa intervensi pemerintah (\( G \) dalam rumus Keynes), ekonomi global mungkin telah jatuh ke dalam Depresi Besar yang jauh lebih buruk daripada tahun 1930-an.
+**Hasilnya?** Tanpa intervensi pemerintah ($G$ dalam rumus Keynes), ekonomi global mungkin telah jatuh ke dalam Depresi Besar yang jauh lebih buruk daripada tahun 1930-an.
 
 ## 7. Analisis Pro dan Kontra
 

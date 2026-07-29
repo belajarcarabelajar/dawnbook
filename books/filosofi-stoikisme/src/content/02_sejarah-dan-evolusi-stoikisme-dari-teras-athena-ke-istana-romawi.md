@@ -25,7 +25,7 @@ Pada fase ini, Stoikisme fokus pada pengembangan sistem logika, fisika (pemahama
 - **Zeno dari Citium:** Sang pendiri.
 - **Cleanthes:** Penerus Zeno yang menekankan dimensi spiritual/religius dalam alam semesta.
 - **Chrysippus:** Dikenal sebagai "Pendiri Kedua". Ia adalah seorang jenius logika yang menulis ratusan buku. Tanpanya, Stoikisme mungkin akan terlupakan.
-	- *Logika Stoik:* Jika \( P \) maka \( Q \); dan \( P \) terjadi; maka \( Q \) terjadi.
+	- *Logika Stoik:* Jika $P$ maka $Q$; dan $P$ terjadi; maka $Q$ terjadi.
 
 ### B. Stoa Madya (Abad ke-2 - ke-1 SM): Jembatan menuju Romawi
 

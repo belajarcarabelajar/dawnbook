@@ -12,11 +12,11 @@ Individu dengan kemampuan ini seolah memiliki mata batin yang tajam. Mereka dapa
 
 ## 2\. Di Balik Layar: Bagaimana Cara Kerjanya?
 
-Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: \(x, y, \text{dan } z\). 
+Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{dan } z$. 
 
 **Analogi: Kanvas Internal**
 
-> Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya \(180^\circ\), mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
+> Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya $180^\circ$, mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
 
 Dalam matematika dan fisika, hal ini sering digunakan untuk memvisualisasikan vektor atau koordinat:
 $$

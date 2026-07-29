@@ -33,7 +33,7 @@ Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar inve
 Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk menanggung biaya pelatihan umum**. Jika perusahaan membiayai pelatihan umum dan tetap membayar gaji lama, pekerja akan segera menerima tawaran dari perusahaan pesaing yang bersedia membayar upah setara nilai produktivitas barunya. Apabila perusahaan menaikkan gaji pekerja sekaligus menanggung biaya pelatihan, perusahaan akan mengalami kerugian bersih (*net loss*).
 
 - **Pihak yang Menanggung Biaya:** Pekerja menanggung biaya pelatihan, biasanya secara tidak langsung melalui penerimaan upah yang lebih rendah selama masa pelatihan berlangsung.
-- **Dampak Terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan meningkat tajam menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / \(\text{VMP}\)) yang baru.
+- **Dampak Terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan meningkat tajam menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / $\text{VMP}$) yang baru.
 
 ### 3. Pelatihan Spesifik (Specific Training)
 
@@ -60,7 +60,7 @@ Karena keahlian ini tidak laku di tempat lain, pekerja tidak bisa mengancam untu
 
 ### 4. Analisis Dinamika Ekonomi: Pemodelan Upah dan Produktivitas
 
-Secara matematis, hubungan antara Produktivitas Marginal (\(\text{VMP}\)), Upah Pekerja (\(W\)), dan Biaya Pelatihan (\(C\)) dapat dirumuskan melalui alokasi struktur pembiayaan pada setiap fase:
+Secara matematis, hubungan antara Produktivitas Marginal ($\text{VMP}$), Upah Pekerja ($W$), dan Biaya Pelatihan ($C$) dapat dirumuskan melalui alokasi struktur pembiayaan pada setiap fase:
 
 #### Pemodelan Pelatihan Umum
 Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pasca-pelatihan:

@@ -28,7 +28,7 @@ Sebelum Perang Dunia II pecah, psikologi sebenarnya memiliki tiga fokus utama. P
 
 Setelah Perang Dunia II, fokus psikologi bergeser secara drastis. Karena banyaknya veteran yang pulang dengan trauma (*post-traumatic stress disorder*) dan masalah kesehatan mental, dana penelitian besar-besaran dialokasikan untuk penyembuhan. Psikologi menjadi ilmu yang sangat mahir dalam **psikopatologi**.
 
-Kita menjadi sangat ahli dalam membawa orang dari angka \(-5\) (sangat menderita) menuju angka \(0\) (netral/tidak sakit). Namun, kita sering kali lupa bagaimana membawa seseorang dari \(0\) menuju \(+5\) (sejahtera dan bahagia).
+Kita menjadi sangat ahli dalam membawa orang dari angka $-5$ (sangat menderita) menuju angka $0$ (netral/tidak sakit). Namun, kita sering kali lupa bagaimana membawa seseorang dari $0$ menuju $+5$ (sejahtera dan bahagia).
 
 ### Lahirnya Psikologi Positif (1998)
 
@@ -43,7 +43,7 @@ $$
 $$
 
 - **Penderitaan (Languishing):** Berada di area negatif, di mana seseorang merasa hampa, terjebak, atau mengalami gangguan kesehatan mental.
-- **Kondisi Netral (\(0\)):** Kondisi ketika seseorang tidak mengalami depresi medis, tetapi juga tidak merasakan semangat hidup, gairah, atau tujuan yang jelas.
+- **Kondisi Netral ($0$):** Kondisi ketika seseorang tidak mengalami depresi medis, tetapi juga tidak merasakan semangat hidup, gairah, atau tujuan yang jelas.
 - **Berkembang (Flourishing):** Berada di area positif. Pada tahap ini, seseorang aktif membangun hubungan yang sehat, menemukan makna hidup, dan mengoptimalkan potensi terbaik mereka.
 
 **Penting:** Psikologi Positif tidak menggantikan psikologi tradisional. Keduanya saling melengkapi. Kita membutuhkan antibiotik untuk infeksi, tetapi kita juga memerlukan nutrisi untuk kebugaran tubuh.

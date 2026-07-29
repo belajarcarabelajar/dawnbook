@@ -19,10 +19,10 @@ E = f(K, M, S)
 $$
 
 di mana:
-- \( E \) = *Execution* (eksekusi/hasil)
-- \( K \) = kemampuan SDM
-- \( M \) = motivasi
-- \( S \) = sumber daya yang tersedia
+- $E$ = *Execution* (eksekusi/hasil)
+- $K$ = kemampuan SDM
+- $M$ = motivasi
+- $S$ = sumber daya yang tersedia
 
 ## 2. Mengapa Actuating Dianggap Sebagai "Jantung" Manajemen?
 

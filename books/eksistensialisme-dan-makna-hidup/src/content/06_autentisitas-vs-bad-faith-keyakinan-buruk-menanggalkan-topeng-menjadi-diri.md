@@ -24,7 +24,7 @@ Untuk memahami mengapa kita sering terjebak dalam *bad faith*, kita perlu meliha
 
 Sikap *bad faith* muncul ketika kita timpang dalam memandang keduanya. Misalnya, ketika kita hanya mengakui faktisitas: *"Saya memang pemalas dari sananya, tidak bisa berubah."* Di sini kita menolak kebebasan dan transendensi diri. Sebaliknya, *bad faith* juga terjadi jika kita hanya memeluk transendensi secara buta: *"Saya bisa menjadi apa saja tanpa memedulikan kenyataan fisik atau masa lalu."* Tindakan ini menyangkal realitas faktisitas kita.
 
-**Keseimbangan Autentik:** \( \text{Diri} = \text{Faktisitas} + \text{Transendensi} \)
+**Keseimbangan Autentik:** $\text{Diri} = \text{Faktisitas} + \text{Transendensi}$
 
 Hidup yang jujur berarti mengakui fakta tentang siapa kita (faktisitas) sambil tetap menyadari bahwa kita bebas untuk menentukan bagaimana kita bereaksi terhadap fakta tersebut (transendensi).
 

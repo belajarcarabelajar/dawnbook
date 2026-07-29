@@ -40,10 +40,10 @@ $$
 $$
 
 Dimana:
-- \(\text{K}_s\): Kualitas Sinematik
-- \(\text{D}_g\): Distribusi Global
-- \(\text{K}_k\): Kebebasan Kreatif
-- \(\text{A}_u\): Anggaran Tanpa Batas
+- $\text{K}_s$: Kualitas Sinematik
+- $\text{D}_g$: Distribusi Global
+- $\text{K}_k$: Kebebasan Kreatif
+- $\text{A}_u$: Anggaran Tanpa Batas
 
 Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar $1,78 juta (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
 

@@ -16,7 +16,7 @@ Kebajikan individu bisa diibaratkan sebagai sebuah pohon. Pohon mungkin memiliki
 
 Hubungan antara karakter individu dan kesejahteraan sosial membentuk siklus yang saling menguatkan. Kita mempelajari kejujuran, keberanian, dan kemurahan hati dari mengamati *role model* di sekitar kita. Nilai-nilai yang dijunjung oleh masyarakat diserap sejak dini melalui pendidikan (Paideia). Hukum dalam sebuah Polis juga berfungsi membiasakan warganya melakukan tindakan yang benar sampai tindakan tersebut mengendap menjadi karakter.
 
-Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi oleh orang-orang yang memiliki **Arete** (keunggulan). Ketika seseorang mempraktikkan kebajikan, ia menyumbang pada "modal sosial" komunitas tersebut. Kebahagiaan pribadi (\( E_i \)) dan kebahagiaan komunitas (\( E_c \)) berjalan beriringan. Secara matematis dapat digambarkan sebagai:
+Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi oleh orang-orang yang memiliki **Arete** (keunggulan). Ketika seseorang mempraktikkan kebajikan, ia menyumbang pada "modal sosial" komunitas tersebut. Kebahagiaan pribadi ($E_i$) dan kebahagiaan komunitas ($E_c$) berjalan beriringan. Secara matematis dapat digambarkan sebagai:
 
 $$
 \begin{aligned}

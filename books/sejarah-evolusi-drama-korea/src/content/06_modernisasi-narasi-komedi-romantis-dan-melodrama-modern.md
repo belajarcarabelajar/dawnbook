@@ -18,7 +18,7 @@ $$
 C_{\\text{chemistry}} = (O_{\\text{opposites}} + A_{\\text{attraction}}) \\times T_{\\text{tension}}
 $$
 
-Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang \( O \) dipertemukan dalam situasi penuh ketegangan \( T \), yang pada akhirnya memicu daya tarik kuat \( A \) di antara keduanya.
+Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, yang pada akhirnya memicu daya tarik kuat $A$ di antara keduanya.
 
 > **Insight:** Evolusi cerita ini tidak menghilangkan konflik emosional, tetapi mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
 

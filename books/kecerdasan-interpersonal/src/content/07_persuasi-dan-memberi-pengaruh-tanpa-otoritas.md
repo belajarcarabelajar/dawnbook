@@ -62,7 +62,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
 **Penerapan Teknik Persuasi:**
 
 - **Langkah 1 (*Reciprocity*):** Sebelum mengajukan sistem baru, bantu tim *Sales* membuatkan laporan performa mingguan otomatis yang memudahkan mereka memantau bonus.
-- **Langkah 2 (*Ethos & Logos*):** Tunjukkan data bahwa dengan sistem lama, sekitar 15% prospek mereka hilang karena data yang tidak ter-input dengan benar. Gunakan visualisasi yang jelas, misalnya \( x = \\text{lost revenue} \).
+- **Langkah 2 (*Ethos & Logos*):** Tunjukkan data bahwa dengan sistem lama, sekitar 15% prospek mereka hilang karena data yang tidak ter-input dengan benar. Gunakan visualisasi yang jelas, misalnya $x = \\text{lost revenue}$.
 - **Langkah 3 (*Framing*):** Hindari kalimat, "Gunakan sistem ini agar kerjaan saya lebih mudah." Katakanlah, "Sistem ini dirancang untuk memastikan tidak ada komisi kalian yang terlewat akibat kesalahan pencatatan."
 - **Langkah 4 (*Social Proof*):** Sebutkan bahwa salah satu *Top Sales* sudah mencoba sistem ini dan merasa terbantu.
 

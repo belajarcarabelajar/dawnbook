@@ -12,7 +12,7 @@ Menurut riset yang dilakukan oleh **McKinsey & Company** selama sepuluh tahun te
 
 **Mari kita visualisasikan dengan logika matematika sederhana:**
 
-Jika produktivitas normal kamu adalah \(P\), maka produktivitas dalam kondisi flow adalah: \(P_{\\text{flow}} = 5 \\times P_{\\text{normal}}\)
+Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow adalah: $P_{\\text{flow}} = 5 \\times P_{\\text{normal}}$
 
 *Artinya:* Jika kamu bisa masuk ke kondisi flow selama dua jam setiap hari Senin, kamu secara teknis telah menyelesaikan beban kerja setara satu hari penuh (10 jam) orang lain yang bekerja dalam kondisi mental rata-rata.
 

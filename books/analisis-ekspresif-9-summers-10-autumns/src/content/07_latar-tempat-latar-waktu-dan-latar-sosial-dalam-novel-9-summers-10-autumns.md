@@ -12,7 +12,7 @@ Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang sangat 
 Latar tempat dalam novel ini terbagi menjadi dua kutub geografis yang ekstrem:
 
 *   **Batu, Malang (Jawa Timur)**
-    Rumah mungil berukuran \(6 \\times 7\) meter di kaki Gunung Panderman menjadi pusat gravitasi emosional seluruh cerita. Keterbatasan ruang fisik ini diekspresikan secara presisi namun hangat:
+    Rumah mungil berukuran $6 \\times 7$ meter di kaki Gunung Panderman menjadi pusat gravitasi emosional seluruh cerita. Keterbatasan ruang fisik ini diekspresikan secara presisi namun hangat:
     > "Di rumah mungil berukuran 6 x 7 meter dan hampir tak berhalaman ini, kami bertujuh berbagi dua kamar tidur..." (Hlm. 8)
     Latar Batu mempresentasikan kehidupan pedesaan/suburban yang sederhana, dikelilingi alam, dingin, namun penuh kehangatan sosial keluarga.
 *   **New York City (Amerika Serikat)**

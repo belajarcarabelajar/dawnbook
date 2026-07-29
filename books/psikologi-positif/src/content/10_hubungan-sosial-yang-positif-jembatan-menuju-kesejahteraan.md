@@ -14,7 +14,7 @@ Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yan
 
 - **Penyangga Stres (Stress Buffer):** Kehadiran orang terdekat membantu menekan hormon kortisol, sehingga tubuh lebih rileks saat menghadapi tekanan.
 - **Melindungi Jantung:** Risiko penyakit kardiovaskular tercatat lebih rendah pada mereka yang memiliki ikatan sosial yang kuat dan hangat.
-- **Meningkatkan Harapan Hidup:** Integrasi sosial yang baik berkorelasi dengan peluang umur panjang yang meningkat hingga \( 50 \text{\text{\%}} \).
+- **Meningkatkan Harapan Hidup:** Integrasi sosial yang baik berkorelasi dengan peluang umur panjang yang meningkat hingga $50 \text{\text{\%}}$.
 
 > **Fakta Penting:** Dampak kesehatan dari kesepian kronis setara dengan merokok 15 batang sehari. Hubungan sosial yang hangat adalah kebutuhan biologis dasar kita, jauh dari sekadar pelengkap gaya hidup.
 

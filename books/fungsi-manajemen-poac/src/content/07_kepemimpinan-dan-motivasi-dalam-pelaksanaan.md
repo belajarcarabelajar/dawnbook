@@ -53,7 +53,7 @@ Herzberg membagi faktor motivasi menjadi dua bagian penting:
 - **Motivator Factors:** Meliputi kesempatan berprestasi, pengakuan, tanggung jawab, serta pengembangan diri. Faktor-faktor inilah yang benar-benar memicu dorongan internal untuk berkinerja lebih baik.
 
 ### C. Teori Harapan (Expectancy Theory) - Victor Vroom
-Teori ini menggambarkan motivasi \( M \) secara matematis sebagai hasil perkalian dari tiga elemen:
+Teori ini menggambarkan motivasi $M$ secara matematis sebagai hasil perkalian dari tiga elemen:
 $$
 M = E \times I \times V
 $$

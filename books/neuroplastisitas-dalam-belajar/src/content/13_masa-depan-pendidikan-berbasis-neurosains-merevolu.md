@@ -63,7 +63,7 @@ Di masa depan, peran guru tidak akan digantikan oleh teknologi, melainkan bertra
 
 Pendidikan berbasis neurosains akan menantang sistem penilaian tradisional. Kita akan beralih dari nilai ujian statis ke metrik **Neuro-Growth**.
 
-Dalam matematika, pertumbuhan ini dapat digambarkan dengan peningkatan efisiensi sinaptik (\( \Delta w \)) dalam kurun waktu tertentu:
+Dalam matematika, pertumbuhan ini dapat digambarkan dengan peningkatan efisiensi sinaptik ($\Delta w$) dalam kurun waktu tertentu:
 
 $$
 \Delta w = \eta \cdot (\text{Stimulus} \times \text{Atensi})
@@ -71,7 +71,7 @@ $$
 
 Di mana:
 
-- \( \eta \) adalah laju belajar (learning rate) yang dipengaruhi faktor gaya hidup (tidur, nutrisi).
+- $\eta$ adalah laju belajar (learning rate) yang dipengaruhi faktor gaya hidup (tidur, nutrisi).
 - **Stimulus** adalah materi pembelajaran.
 - **Atensi** adalah fokus sadar siswa.
 

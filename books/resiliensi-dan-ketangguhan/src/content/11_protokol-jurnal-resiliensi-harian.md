@@ -72,13 +72,13 @@ def calculate_index(stress, recovery):
     return (stress * 10) / (recovery + 1)
 ```
 
-Secara matematis, rumus indeks resiliensi harian (\(\text{Resilience Index}\)) dirumuskan sebagai berikut:
+Secara matematis, rumus indeks resiliensi harian ($\text{Resilience Index}$) dirumuskan sebagai berikut:
 
 $$
 \text{Resilience Index} = \frac{\text{stress\_level} \times 10}{\text{recovery\_time\_min} + 1}
 $$
 
-**Real-world Application:** Dengan melihat data di atas, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres (\(\text{stress\_level}\)) cukup tinggi (7), waktu pemulihan (\(\text{recovery\_time\_min}\)) kamu jauh lebih cepat (45 menit) dibanding tanggal 25. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
+**Real-world Application:** Dengan melihat data di atas, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres ($\text{stress\_level}$) cukup tinggi (7), waktu pemulihan ($\text{recovery\_time\_min}$) kamu jauh lebih cepat (45 menit) dibanding tanggal 25. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
 
 ## 5. Aplikasi Dunia Nyata: Skenario "Gagal Proyek"
 

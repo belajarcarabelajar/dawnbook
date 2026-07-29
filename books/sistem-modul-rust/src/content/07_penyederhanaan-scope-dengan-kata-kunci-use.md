@@ -155,7 +155,7 @@ fn process_user_data(data: &str) -> JsonResult<()> {
 
 ### Analogi Efisiensi
 
-Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan \( f(x, y, z) = \\frac{x^2 + y^2}{z} \), daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: \( \\int_{0}^{1} \\frac{x^2 + y^2}{z} dx \) Kita cukup merujuk pada \( f(x, y, z) \). Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
+Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan $f(x, y, z) = \\frac{x^2 + y^2}{z}$, daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: $\\int_{0}^{1} \\frac{x^2 + y^2}{z} dx$ Kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
 
 ## Ringkasan Cepat
 

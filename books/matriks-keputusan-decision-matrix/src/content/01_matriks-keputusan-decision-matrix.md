@@ -18,8 +18,8 @@ $$
 
 Di mana:
 
-- \( \\text{Bobot}_i \) adalah tingkat kepentingan kriteria ke-\( i \).
-- \( \\text{Penilaian}_i \) adalah skor yang diberikan pada alternatif untuk kriteria tersebut.
+- $\\text{Bobot}_i$ adalah tingkat kepentingan kriteria ke-$i$.
+- $\\text{Penilaian}_i$ adalah skor yang diberikan pada alternatif untuk kriteria tersebut.
 
 ## Keunggulan Pendekatan Kuantitatif Dibandingkan Intuisi
 
@@ -69,8 +69,8 @@ Berikut adalah tampilan sederhana dari apa yang akan kamu pelajari di bagian-bag
 
 | Alternatif | Kriteria 1 (Bobot: 5) | Kriteria 2 (Bobot: 3) | Total Skor |
 | --- | --- | --- | --- |
-| Opsi A | 4 | 2 | \( (4 \\times 5) + (2 \\times 3) = 26 \) |
-| Opsi B | 3 | 5 | \( (3 \\times 5) + (5 \\times 3) = 30 \) |
+| Opsi A | 4 | 2 | $(4 \\times 5) + (2 \\times 3) = 26$ |
+| Opsi B | 3 | 5 | $(3 \\times 5) + (5 \\times 3) = 30$ |
 
 *Perhatikan bagaimana Opsi B menjadi pemenang meskipun skornya lebih rendah pada Kriteria 1. Hal ini terjadi karena Opsi B unggul jauh di Kriteria 2, menunjukkan pentingnya melihat nilai keseluruhan secara seimbang.*
 

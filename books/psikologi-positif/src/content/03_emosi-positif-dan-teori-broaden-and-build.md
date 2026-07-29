@@ -46,7 +46,7 @@ Secara matematis, akumulasi sumber daya pribadi ini dapat digambarkan sebagai fu
 $$
 R_{\\text{total}} = \\int_{t_0}^{t_n} E_{\\text{pos}}(t) \\, dt
 $$
-Di mana \( R \) melambangkan total Sumber Daya pribadi yang terbangun, sedangkan \( E_{\\text{pos}} \) melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
+Di mana $R$ melambangkan total Sumber Daya pribadi yang terbangun, sedangkan $E_{\\text{pos}}$ melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 

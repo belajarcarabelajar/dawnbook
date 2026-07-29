@@ -50,11 +50,11 @@ $$
 
 Di mana:
 
-- \( \text{D} \) = Despair (Keputusasaan)
-- \( \text{S} \) = Suffering (Penderitaan)
-- \( \text{M} \) = Meaning (Makna)
+- $\text{D}$ = Despair (Keputusasaan)
+- $\text{S}$ = Suffering (Penderitaan)
+- $\text{M}$ = Meaning (Makna)
 
-**Penting:** Jika penderitaan tidak memiliki makna, hasilnya adalah keputusasaan murni. Namun, ketika kita memberikan **makna \( \text{M} \)** pada penderitaan tersebut, penderitaan itu berhenti menjadi beban yang menghancurkan dan berubah menjadi tugas untuk diselesaikan.
+**Penting:** Jika penderitaan tidak memiliki makna, hasilnya adalah keputusasaan murni. Namun, ketika kita memberikan **makna $\text{M}$** pada penderitaan tersebut, penderitaan itu berhenti menjadi beban yang menghancurkan dan berubah menjadi tugas untuk diselesaikan.
 
 ## 5. Analogi Visual: Kintsugi (Seni Memperbaiki dengan Emas)
 

@@ -9,7 +9,7 @@ Dalam arsitektur Linux, **Interupsi** adalah bel pintu tersebut. Tanpa mekanisme
 Meskipun keduanya memaksa CPU untuk menghentikan aliran instruksi saat ini dan beralih ke kernel space, mereka memiliki asal-usul yang berbeda:
 
 - **Interupsi (Asinkron)** didorong oleh hardware eksternal secara tidak terduga, misalnya saat kartu jaringan menerima paket data atau hard drive selesai menulis dokumen.
-- **Exception (Sinkron)** terjadi langsung akibat eksekusi instruksi oleh CPU itu sendiri (sering disebut interupsi internal), contohnya ketika kode melakukan pembagian dengan nol \( x / 0 \) atau memicu *page fault*.
+- **Exception (Sinkron)** terjadi langsung akibat eksekusi instruksi oleh CPU itu sendiri (sering disebut interupsi internal), contohnya ketika kode melakukan pembagian dengan nol $x / 0$ atau memicu *page fault*.
 
 > **Catatan:** Interupsi berurusan dengan dunia luar, sedangkan exception menangani masalah internal saat eksekusi kode.
 
@@ -17,7 +17,7 @@ Meskipun keduanya memaksa CPU untuk menghentikan aliran instruksi saat ini dan b
 
 Bagaimana kernel tahu apa yang harus dilakukan saat interupsi datang? Jawabannya ada pada **Interrupt Descriptor Table (IDT)**.
 
-IDT adalah sebuah tabel di memori yang berfungsi sebagai "buku alamat". Setiap jenis interupsi atau exception diberi nomor unik yang disebut **vektor**. Linux menggunakan vektor dari \( 0 \) hingga \( 255 \).
+IDT adalah sebuah tabel di memori yang berfungsi sebagai "buku alamat". Setiap jenis interupsi atau exception diberi nomor unik yang disebut **vektor**. Linux menggunakan vektor dari $0$ hingga $255$.
 
 1. **Sinyal Masuk:** Hardware mengirim sinyal ke *interrupt controller*.
 2. **Identifikasi:** CPU menerima sinyal dan melihat nomor vektornya.

@@ -6,11 +6,11 @@ Inilah yang disebut dengan **State of Flow** (Kondisi Alir). Namun, flow bukan s
 
 ## 1\. Keseimbangan Antara Tantangan dan Keterampilan
 
-Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik di mana sumbu \(Y\) adalah tingkat tantangan dan sumbu \(X\) adalah tingkat keterampilan kamu.
+Ini adalah fondasi utama dari flow. Bayangkan sebuah grafik di mana sumbu $Y$ adalah tingkat tantangan dan sumbu $X$ adalah tingkat keterampilan kamu.
 
 - Jika **Tantangan > Keterampilan**: kamu akan mengalami kecemasan (*anxiety*).
 - Jika **Keterampilan > Tantangan**: kamu akan merasa bosan (*boredom*).
-- **Kondisi Flow**: Terjadi saat \(\text{Tantangan} \approx \text{Keterampilan}\) pada tingkat yang cukup tinggi.
+- **Kondisi Flow**: Terjadi saat $\text{Tantangan} \approx \text{Keterampilan}$ pada tingkat yang cukup tinggi.
 
 > **Analogi:** Bermain tenis melawan anak usia 5 tahun akan membosankan. Bermain melawan Roger Federer akan membuat kamu stres. Namun, bermain melawan teman yang sedikit lebih hebat dari kamu akan membuat kamu "terpacu" masuk ke kondisi flow.
 

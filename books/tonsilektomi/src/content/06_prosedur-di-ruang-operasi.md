@@ -8,7 +8,7 @@ Bayangkan ruang operasi seperti sebuah **kokpit pesawat jet modern**. Setiap kru
 
 Begitu kamu atau anakmu didorong masuk ke ruang operasi, hal pertama yang akan dirasakan adalah suhu ruangan yang sejuk dan pencahayaan yang sangat terang.
 
-Perawat pertama-tama akan memasang sensor pada tubuh untuk memantau tanda-tanda vital secara langsung. Ini meliputi pemasangan stiker EKG di dada untuk memantau irama jantung, klip oksimetri nadi di jari untuk mengukur kadar oksigen \( \text{O}_2 \) dalam darah, serta manset di lengan untuk memantau tekanan darah secara otomatis setiap beberapa menit.
+Perawat pertama-tama akan memasang sensor pada tubuh untuk memantau tanda-tanda vital secara langsung. Ini meliputi pemasangan stiker EKG di dada untuk memantau irama jantung, klip oksimetri nadi di jari untuk mengukur kadar oksigen $\text{O}_2$ dalam darah, serta manset di lengan untuk memantau tekanan darah secara otomatis setiap beberapa menit.
 
 Sebelum tindakan dimulai, seluruh tim medis akan melakukan **Time-Out Bedah**. Prosedur keselamatan standar ini memastikan identitas pasien, jenis operasi, dan lokasi pembedahan (dalam hal ini, kedua amandel) sudah benar.
 

@@ -74,7 +74,7 @@ Retorika yang manipulatif bekerja dengan cara **mempercantik dekorasi sehingga k
 
 > Retorika adalah lapisan gula pada pil yang pahit. Jika lapisan gulanya cukup tebal, kamu akan menelan pil tersebut tanpa pernah menyadari bahwa di dalamnya terdapat racun atau obat yang tidak berguna.
 
-Dalam logika formal, sebuah argumen harus valid secara struktur: \( P \\rightarrow Q \), \( P \), dan \( \\therefore Q \).
+Dalam logika formal, sebuah argumen harus valid secara struktur: $P \\rightarrow Q$, $P$, dan $\\therefore Q$.
 
 Namun, dalam retorika, pembicara mungkin berkata: *"Jika kita mencintai tanah air (P), maka kita harus mendukung kebijakan ini (Q). Kamu mencintai tanah air, bukan?"*
 

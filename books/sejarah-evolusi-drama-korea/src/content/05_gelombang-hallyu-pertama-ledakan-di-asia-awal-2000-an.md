@@ -47,14 +47,14 @@ Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Dae Jang Geum* mele
 
 Untuk memahami skala ledakan ini, kita bisa melihat pertumbuhan ekspor konten budaya Korea secara konseptual. Pertumbuhan ini bisa dianalogikan dengan fungsi eksponensial dalam ekonomi kreatif:
 
-Misalkan \( E \) adalah nilai ekspor dan \( t \) adalah waktu dalam tahun sejak 2000:
+Misalkan $E$ adalah nilai ekspor dan $t$ adalah waktu dalam tahun sejak 2000:
 $$
 E(t) = P \cdot (1 + r)^t
 $$
 Di mana:
 
-- \( P \) = Nilai awal ekspor (awal 2000-an)
-- \( r \) = Laju pertumbuhan tahunan yang melonjak drastis karena pengaruh *Hallyu* di Asia.
+- $P$ = Nilai awal ekspor (awal 2000-an)
+- $r$ = Laju pertumbuhan tahunan yang melonjak drastis karena pengaruh *Hallyu* di Asia.
 
 Secara riil, pendapatan pariwisata Korea Selatan melonjak dari sekitar 5,3 miliar USD pada tahun 2003 menjadi lebih dari 10 miliar USD dalam kurun waktu kurang dari satu dekade, didorong langsung oleh *K-drama tourism*.
 

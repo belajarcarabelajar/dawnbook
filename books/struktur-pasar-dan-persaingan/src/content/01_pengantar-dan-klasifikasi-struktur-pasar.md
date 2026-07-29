@@ -25,8 +25,8 @@ Ekonom menggunakan beberapa variabel kunci untuk mengklasifikasikan pasar. Memah
 
 Jumlah pelaku pasar sangat menentukan tingkat persaingan.
 
-- Jika jumlahnya sangat banyak \( N \to \infty \), tindakan satu individu tidak akan memengaruhi harga pasar.
-- Jika hanya ada satu penjual \( N = 1 \), ia memiliki kendali penuh.
+- Jika jumlahnya sangat banyak $N \to \infty$, tindakan satu individu tidak akan memengaruhi harga pasar.
+- Jika hanya ada satu penjual $N = 1$, ia memiliki kendali penuh.
 
 ### 2. Sifat Produk (Diferensiasi)
 
@@ -57,7 +57,7 @@ Struktur pasar sering divisualisasikan sebagai sebuah spektrum, bergerak dari ti
 | **Hambatan Masuk** | Tidak Ada | Rendah | Tinggi | Sangat Tinggi |
 | **Kekuatan Harga** | Tidak Ada (*Price Taker*) | Kecil | Besar | Sangat Besar (*Price Maker*) |
 
-> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan \( P = D = S \). Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga \( P \) di atas biaya marginal \( \text{MC} \): \( P > \text{MC} \).
+> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan $P = D = S$. Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga $P$ di atas biaya marginal $\text{MC}$: $P > \text{MC}$.
 
 ## Mengapa Struktur Pasar Itu Penting?
 
@@ -83,6 +83,6 @@ Mari kita terapkan klasifikasi ini pada evolusi transportasi:
 - **Persaingan Sempurna** dan **Monopoli** adalah dua titik ekstrem dalam spektrum ekonomi.
 - Sebagian besar bisnis di dunia nyata berada di tengah-tengahnya, yaitu **Persaingan Monopolistik** dan **Oligopoli**.
 
-> **Insight:** Semakin mirip sebuah produk dengan produk pesaingnya, dan semakin mudah perusahaan baru masuk ke pasar, maka keuntungan ekonomi dalam jangka panjang akan cenderung mendekati nol \( \text{Laba} = 0 \).
+> **Insight:** Semakin mirip sebuah produk dengan produk pesaingnya, dan semakin mudah perusahaan baru masuk ke pasar, maka keuntungan ekonomi dalam jangka panjang akan cenderung mendekati nol $\text{Laba} = 0$.
 
 Setelah memahami dasar-dasar ini, di bagian selanjutnya kita akan membedah lebih dalam mengenai pasar yang dianggap paling ideal oleh para ekonom: **Pasar Persaingan Sempurna**.

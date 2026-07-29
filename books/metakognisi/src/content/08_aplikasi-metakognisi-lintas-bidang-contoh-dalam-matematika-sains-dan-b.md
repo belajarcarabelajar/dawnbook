@@ -14,17 +14,17 @@ Saat belajar matematika, metakognisi membantumu memahami alasan di balik suatu r
 	- Sebelum mulai menghitung, coba tanya ke diri sendiri: "Informasi apa saja yang ada di soal?" dan "Hasil apa yang dicari?".
 		- Temukan konsep matematika yang sesuai dengan soal tersebut.
 		- *Coba pikirkan:* Apakah soal ini bisa dipecah jadi beberapa tahap yang lebih sederhana? Cara mana yang paling pas?
-		- **Contoh:** Saat mengerjakan soal aljabar \(3x + 5 = 14\), kamu bisa merencanakan untuk mencari nilai \(x\) dengan mengurangi kedua sisi dengan \(5\), lalu membaginya dengan \(3\).
+		- **Contoh:** Saat mengerjakan soal aljabar $3x + 5 = 14$, kamu bisa merencanakan untuk mencari nilai $x$ dengan mengurangi kedua sisi dengan $5$, lalu membaginya dengan $3$.
 2. **Memantau Pemahaman di Tengah Proses:**
 	- Di sela-sela mengerjakan soal, pastikan kamu selalu mengecek: "Langkah ini sudah benar belum, ya?" atau "Hitungannya sudah pas?".
 		- Periksa kembali setiap angkanya supaya terhindar dari salah hitung (seperti keliru penjumlahan dasar).
 		- *Tips:* Coba jelaskan langkah penyelesaian tersebut ke dirimu sendiri seolah sedang mengajari teman.
-		- **Contoh:** Setelah mengurangi \(5\) dari kedua sisi, kamu melihat persamaannya berubah jadi \(3x = 9\). Kalau hasilnya malah \(3x = 19\), kamu bakal langsung sadar ada yang salah dan mengulangi langkah pengurangannya.
+		- **Contoh:** Setelah mengurangi $5$ dari kedua sisi, kamu melihat persamaannya berubah jadi $3x = 9$. Kalau hasilnya malah $3x = 19$, kamu bakal langsung sadar ada yang salah dan mengulangi langkah pengurangannya.
 3. **Mengevaluasi Hasil dan Cara yang Digunakan:**
 	- Begitu ketemu jawabannya, cek lagi apakah angka tersebut masuk akal dengan konteks pertanyaannya.
 		- "Apakah ini yang sebenarnya ditanyakan oleh soal?"
 		- Pikirkan lagi cara yang baru saja kamu pakai. "Kira-kira ada jalan pintas yang lebih cepat nggak, ya?"
-		- **Contoh:** Waktu sudah dapat nilai \(x=3\), kamu bisa memasukkannya kembali ke persamaan awal: \(3(3) + 5 = 9 + 5 = 14\). Kalau hitungannya cocok, berarti jawabanmu sudah tepat.
+		- **Contoh:** Waktu sudah dapat nilai $x=3$, kamu bisa memasukkannya kembali ke persamaan awal: $3(3) + 5 = 9 + 5 = 14$. Kalau hitungannya cocok, berarti jawabanmu sudah tepat.
 
 ### Metakognisi dalam Sains (termasuk Pemrograman)
 
@@ -40,7 +40,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
 		- *Coba pikirkan:* Bisakah temuan ini digabungkan dengan materi yang sudah pernah dipelajari sebelumnya?
-		- **Contoh di Fisika:** Waktu menghitung percepatan gravitasi (\(g\)), kamu terus melihat hasil pengukuran tiap pantulan benda. Kalau ada satu angka \(g\) yang melenceng jauh dari rata-rata, kamu pasti langsung curiga ada pengukur waktu yang salah tekan atau alatnya kurang pas.
+		- **Contoh di Fisika:** Waktu menghitung percepatan gravitasi ($g$), kamu terus melihat hasil pengukuran tiap pantulan benda. Kalau ada satu angka $g$ yang melenceng jauh dari rata-rata, kamu pasti langsung curiga ada pengukur waktu yang salah tekan atau alatnya kurang pas.
 3. **Mencari Bug saat Koding:**
 	- Kalau program error atau jalan tidak sesuai harapan, coba tanya: "Pesan error-nya bilang apa?" atau "Fungsi mana yang kelihatannya bermasalah?".
 		- Kamu bisa pakai pendekatan terstruktur untuk mengeceknya:

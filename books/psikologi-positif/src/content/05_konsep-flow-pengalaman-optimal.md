@@ -27,11 +27,11 @@ Mengapa kita tidak selalu berada dalam kondisi *flow*? Csikszentmihalyi menjelas
 
 Mari kita petakan hubungan ini dalam model sederhana:
 
-Misalkan \( C \) adalah *Challenge* (Tantangan) dan \( S \) adalah *Skill* (Keterampilan).
+Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan).
 
-- Jika \( C > S \): Muncul rasa **Anxiety** (Kecemasan). Tantangan terasa terlalu berat untuk tingkat keterampilanmu.
-- Jika \( S > C \): Muncul rasa **Boredom** (Kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
-- **Kondisi Flow:** Terbentuk saat \( C \\approx S \) berada pada level yang cukup tinggi.
+- Jika $C > S$: Muncul rasa **Anxiety** (Kecemasan). Tantangan terasa terlalu berat untuk tingkat keterampilanmu.
+- Jika $S > C$: Muncul rasa **Boredom** (Kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
+- **Kondisi Flow:** Terbentuk saat $C \\approx S$ berada pada level yang cukup tinggi.
 
 $$
 \text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}

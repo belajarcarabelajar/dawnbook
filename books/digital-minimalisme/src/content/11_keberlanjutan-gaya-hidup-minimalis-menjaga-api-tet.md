@@ -34,12 +34,12 @@ $$
 
 Di mana:
 
-- \(V\) = *Value* (Nilai keseluruhan)
-- \(U\) = *Utility* (Fungsi alat tersebut untuk mendukung tujuan personal kamu)
-- \(N\) = *Necessity* (Tingkat kepentingan alat ini, termasuk pertimbangan ketersediaan alternatif di dunia nyata tanpa melibatkan layar)
-- \(C\) = *Cost* (Harga yang harus dibayar berupa terkurasnya energi mental, gangguan perhatian, dan waktu)
+- $V$ = *Value* (Nilai keseluruhan)
+- $U$ = *Utility* (Fungsi alat tersebut untuk mendukung tujuan personal kamu)
+- $N$ = *Necessity* (Tingkat kepentingan alat ini, termasuk pertimbangan ketersediaan alternatif di dunia nyata tanpa melibatkan layar)
+- $C$ = *Cost* (Harga yang harus dibayar berupa terkurasnya energi mental, gangguan perhatian, dan waktu)
 
-*Think about this: Bila skor \(V\) tidak jauh lebih besar dari sistem lama yang sudah kamu jalankan, abaikan saja alat tersebut.*
+*Think about this: Bila skor $V$ tidak jauh lebih besar dari sistem lama yang sudah kamu jalankan, abaikan saja alat tersebut.*
 
 ## 4\. Menangani "Relapse" (Kekambuhan Digital)
 

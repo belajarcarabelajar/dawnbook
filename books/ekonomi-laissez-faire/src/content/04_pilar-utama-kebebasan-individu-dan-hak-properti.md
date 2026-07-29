@@ -19,7 +19,9 @@ Pernahkah kamu memperhatikan bahwa taman umum sering kali lebih cepat rusak atau
 
 1. **Insentif:** Ketika kamu memiliki hasil kerja sepenuhnya, kamu akan bekerja lebih keras. Motivasi seseorang sebanding dengan potensi keuntungan yang bisa mereka simpan:
 
-\[ \text{Motivasi} \propto \text{Hasil Produk} - \text{Pajak/Penyitaan} \]
+$$
+\text{Motivasi} \propto \text{Hasil Produk} - \text{Pajak/Penyitaan}
+$$
 
 Dalam Laissez-faire, karena intervensi pemerintah seperti pajak atau regulasi sangat minimal, sisa nilai yang diterima individu menjadi maksimal.
 
@@ -39,11 +41,15 @@ Dalam pandangan Laissez-faire, sebuah transaksi hanya terjadi jika **kedua belah
 - Bagi saya, uang Rp500.000 lebih berharga daripada sepatu tersebut.
 - Bagi kamu, sepatu tersebut lebih berharga daripada uang Rp500.000.
 
-Secara formal, hubungan ini bisa dirumuskan melalui fungsi utilitas \( U \):
+Secara formal, hubungan ini bisa dirumuskan melalui fungsi utilitas $U$:
 
-\[ U_{\text{pembeli}}(\text{Barang}) > U_{\text{pembeli}}(\text{Uang}) \]
+$$
+U_{\text{pembeli}}(\text{Barang}) > U_{\text{pembeli}}(\text{Uang})
+$$
 
-\[ U_{\text{penjual}}(\text{Uang}) > U_{\text{penjual}}(\text{Barang}) \]
+$$
+U_{\text{penjual}}(\text{Uang}) > U_{\text{penjual}}(\text{Barang})
+$$
 
 #### Komponen Utama Kebebasan Berkontrak:
 

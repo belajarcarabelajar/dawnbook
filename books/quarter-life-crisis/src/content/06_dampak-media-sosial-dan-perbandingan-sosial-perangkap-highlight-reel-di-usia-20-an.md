@@ -80,6 +80,6 @@ Media sosial adalah alat, namun di usia 20-an, alat ini sering kali menjadi cerm
 
 **Penting:**
 
-> Self-worth-mu (\(\text{Self-Worth}\)) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
+> Self-worth-mu ($\text{Self-Worth}$) tidak ditentukan oleh algoritma, jumlah pengikut, atau seberapa estetis unggahanmu. Self-worth-mu bersifat intrinsik dan tetap ada, bahkan saat ponselmu dalam keadaan mati.
 
 *Langkah selanjutnya dalam perjalanan ini adalah memahami bagaimana tekanan sosial ini sering kali berkaitan erat dengan ketidakpastian finansial, yang akan kita bahas di bagian berikutnya.*

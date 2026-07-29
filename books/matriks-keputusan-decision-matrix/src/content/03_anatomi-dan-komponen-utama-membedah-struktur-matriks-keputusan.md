@@ -31,13 +31,15 @@ Apakah semua kriteria memiliki tingkat kepentingan yang sama bagimu? Jika kamu s
 
 Tidak semua kriteria memiliki nilai kepentingan yang setara. **Bobot (*weight*)** adalah nilai numerik yang menunjukkan tingkat kepentingan suatu kriteria dibandingkan dengan kriteria lainnya.
 
-Dalam konvensi umum, akumulasi seluruh bobot kriteria harus bernilai \( 1.0 \) atau \( 100 \text{\%} \).
+Dalam konvensi umum, akumulasi seluruh bobot kriteria harus bernilai $1.0$ atau $100 \text{\%}$.
 
-Misalnya, jika Kriteria A memiliki bobot \( 0.5 \) dan Kriteria B memiliki bobot \( 0.2 \), itu berarti Kriteria A dua setengah kali lebih penting bagi keputusanmu dibandingkan Kriteria B.
+Misalnya, jika Kriteria A memiliki bobot $0.5$ dan Kriteria B memiliki bobot $0.2$, itu berarti Kriteria A dua setengah kali lebih penting bagi keputusanmu dibandingkan Kriteria B.
 
-**Secara matematis:** Jika \( w \) adalah bobot untuk kriteria ke-\( i \), maka persamaannya ditulis sebagai:
+**Secara matematis:** Jika $w$ adalah bobot untuk kriteria ke-$i$, maka persamaannya ditulis sebagai:
 
-\[ \sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%} \]
+$$
+\sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}
+$$
 
 ### Komponen 4: Skor Penilaian (*Rating*)
 
@@ -63,9 +65,9 @@ $$
 
 Keterangan:
 
-- \( S_j \) mewakili total skor akhir untuk alternatif \( j \).
-- \( w_i \) adalah bobot tingkat kepentingan untuk kriteria \( i \).
-- \( r_{ij} \) merupakan nilai peringkat (*rating*) alternatif \( j \) pada kriteria \( i \).
+- $S_j$ mewakili total skor akhir untuk alternatif $j$.
+- $w_i$ adalah bobot tingkat kepentingan untuk kriteria $i$.
+- $r_{ij}$ merupakan nilai peringkat (*rating*) alternatif $j$ pada kriteria $i$.
 
 ### Visualisasi Struktur Matriks
 
@@ -73,8 +75,8 @@ Berikut adalah representasi visual dari struktur matriks keputusan:
 
 | Alternatif | Kriteria 1 (Bobot: 40%) | Kriteria 2 (Bobot: 60%) | Total Skor |
 | :--- | :---: | :---: | :--- |
-| **Opsi A** | Skor (1–5) | Skor (1–5) | \( (\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6) \) |
-| **Opsi B** | Skor (1–5) | Skor (1–5) | \( (\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6) \) |
+| **Opsi A** | Skor (1–5) | Skor (1–5) | $(\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6)$ |
+| **Opsi B** | Skor (1–5) | Skor (1–5) | $(\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6)$ |
 
 ### Aplikasi Praktis: Rekrutmen *Software Engineer*
 

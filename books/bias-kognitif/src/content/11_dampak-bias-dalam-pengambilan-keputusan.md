@@ -44,7 +44,7 @@ Efek bias dalam hukum bisa menentukan nasib seseorang antara kebebasan dan penja
 Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kasus yang sama. Sebelum menetapkan vonis, mereka diminta melempar dadu yang sudah diatur untuk memunculkan angka tinggi atau rendah.
 
 - Hakim yang mendapatkan angka dadu tinggi cenderung memberikan hukuman yang lebih lama dibandingkan hakim yang mendapatkan angka rendah.
-- **Secara Matematis:** Jika jaksa menuntut angka hukuman \( X \), maka vonis hakim cenderung berpusat di sekitar \( X \) (\( V \approx X \pm \Delta \)), terlepas dari apakah tuntutan \( X \) tersebut masuk akal secara objektif.
+- **Secara Matematis:** Jika jaksa menuntut angka hukuman $X$, maka vonis hakim cenderung berpusat di sekitar $X$ ($V \approx X \pm \Delta$), terlepas dari apakah tuntutan $X$ tersebut masuk akal secara objektif.
 
 $$
 \text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}

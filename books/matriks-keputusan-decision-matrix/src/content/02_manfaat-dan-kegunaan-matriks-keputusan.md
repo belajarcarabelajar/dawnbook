@@ -36,8 +36,8 @@ $$
 
 Di mana:
 
-- \( W_i \) adalah bobot kepentingan kriteria ke-\( i \).
-- \( S_i \) adalah skor alternatif pada kriteria ke-\( i \).
+- $W_i$ adalah bobot kepentingan kriteria ke-$i$.
+- $S_i$ adalah skor alternatif pada kriteria ke-$i$.
 
 **Kemampuan Menangani Kompleksitas:**
 

@@ -77,7 +77,9 @@ async function prepareBookForMdbook(booksDir: string, tmpBooksDir: string, bookN
         await escapeLatexInDir(fullPath);
       } else if (entry.name.endsWith(".md")) {
         let content = await readFile(fullPath, "utf8");
-        // Convert single-escaped \( and \[ to double-escaped \\( and \\[ for pulldown-cmark
+        // Convert $...$ and $$...$$ as well as \(...\) and \[...\] to double-escaped \\( and \\[ for pulldown-cmark
+        content = content.replace(/\$\$(.+?)\$\$/gs, "\\\\[$1\\\\]");
+        content = content.replace(/(?<!\$)\$([^$\n]+?)\$(?!\$)/g, "\\\\($1\\\\)");
         content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, "\\\\($1\\\\)");
         content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, "\\\\[$1\\\\]");
         await writeFile(fullPath, content, "utf8");

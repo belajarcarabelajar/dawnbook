@@ -24,7 +24,7 @@ Kierkegaard berpendapat bahwa manusia bergerak melalui tiga tahap dalam pencaria
 
 ### Kebenaran adalah Subjektivitas
 
-Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika \( 2 + 2 = 4 \). Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
+Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika $2 + 2 = 4$. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
 
 ## 2. Friedrich Nietzsche: Kematian Tuhan dan Kelahiran Nilai Baru
 

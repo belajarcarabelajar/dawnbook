@@ -61,7 +61,7 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 
 | Fitur | Penalaran Deduktif | Penalaran Induktif |
 | --- | --- | --- |
-| **Arah Berpikir** | Umum \( \\rightarrow \) Spesifik (Top-Down) | Spesifik \( \\rightarrow \) Umum (Bottom-Up) |
+| **Arah Berpikir** | Umum $\\rightarrow$ Spesifik (Top-Down) | Spesifik $\\rightarrow$ Umum (Bottom-Up) |
 | **Sifat Kesimpulan** | Pasti (Certainty) | Probabilitas (Likelihood) |
 | **Informasi Baru** | Kesimpulan sudah terkandung dalam premis. | Kesimpulan melampaui informasi dalam premis. |
 | **Evaluasi** | Valid / Invalid | Kuat / Lemah |

@@ -42,15 +42,15 @@ Kondisi flow adalah satu-satunya saat di mana otak manusia melepaskan lima bahan
 
 ## 3\. Pergeseran Gelombang Otak
 
-Otak kita beroperasi pada frekuensi listrik yang berbeda-beda. Dalam kondisi normal, kita berada pada gelombang \(\text{Beta}\) (waspada/stres). Namun, flow membawa kita ke ambang batas yang sangat spesifik.
+Otak kita beroperasi pada frekuensi listrik yang berbeda-beda. Dalam kondisi normal, kita berada pada gelombang $\text{Beta}$ (waspada/stres). Namun, flow membawa kita ke ambang batas yang sangat spesifik.
 
 Dalam flow, otak bergerak dari:
 
-1. **\(\text{Beta}\) (\(12–30\) Hz):** Berpikir aktif, terkadang cemas.
-2. **\(\text{Alpha}\) (\(8–12\) Hz):** Relaksasi waspada, jembatan menuju alam bawah sadar.
-3. **\(\text{Theta}\) (\(4–8\) Hz):** Muncul saat meditasi dalam atau fase tidur REM. Di sinilah "insight" atau ide cemerlang sering muncul.
+1. **$\text{Beta}$ ($12–30$ Hz):** Berpikir aktif, terkadang cemas.
+2. **$\text{Alpha}$ ($8–12$ Hz):** Relaksasi waspada, jembatan menuju alam bawah sadar.
+3. **$\text{Theta}$ ($4–8$ Hz):** Muncul saat meditasi dalam atau fase tidur REM. Di sinilah "insight" atau ide cemerlang sering muncul.
 
-Kondisi flow terjadi di perbatasan antara \(\text{Alpha}\) dan \(\text{Theta}\).
+Kondisi flow terjadi di perbatasan antara $\text{Alpha}$ dan $\text{Theta}$.
 
 $$\text{Kondisi Ideal} = \text{Alpha-Theta Border}$$
 
@@ -71,9 +71,9 @@ Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nya
 ## 5\. Ringkasan Visual: Proses Neurobiologis Flow
 
 1. **Pemicu:** Tugas yang menantang memicu pelepasan **Dopamin** & **Norepinefrin**.
-2. **Transisi:** Otak berpindah dari gelombang \(\text{Beta}\) ke \(\text{Alpha}\).
+2. **Transisi:** Otak berpindah dari gelombang $\text{Beta}$ ke $\text{Alpha}$.
 3. **Puncak (Flow State):**
 	- **Transient Hypofrontality** aktif (PFC melambat).
 		- **Anandamide** & **Endorfin** membanjiri sistem.
-		- Gelombang otak berada di batas \(\text{Alpha-Theta}\).
+		- Gelombang otak berada di batas $\text{Alpha-Theta}$.
 4. **Pemulihan:** **Serotonin** dilepaskan untuk menenangkan sistem saraf setelah aktivitas selesai.

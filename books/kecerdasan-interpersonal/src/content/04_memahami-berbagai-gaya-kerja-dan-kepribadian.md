@@ -54,7 +54,7 @@ Salah satu model yang sangat praktis untuk memetakan dinamika tim adalah **DISC*
 
 ## Formula Sinergi Interpersonal
 
-Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi \( E \) sebagai fungsi dari keselarasan gaya komunikasi \( A \) terhadap kualitas konten teknis \( C \):
+Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi $E$ sebagai fungsi dari keselarasan gaya komunikasi $A$ terhadap kualitas konten teknis $C$:
 
 $$
 E = C \\times \\log(A + 1)
@@ -62,9 +62,9 @@ $$
 
 Keterangan variabel:
 
-- \( C \) (*Content*): Kualitas ide atau hasil pekerjaan teknis yang kamu hasilkan.
-- \( A \) (*Adaptability*): Fleksibilitas dalam menyesuaikan cara berbicara dengan lawan bicara.
-- Jika \( A = 0 \) (kamu tidak melakukan penyesuaian gaya komunikasi sama sekali), maka tingkat keberhasilan penyampaian gagasan akan tetap rendah meskipun kualitas gagasan \( C \) sangat unggul.
+- $C$ (*Content*): Kualitas ide atau hasil pekerjaan teknis yang kamu hasilkan.
+- $A$ (*Adaptability*): Fleksibilitas dalam menyesuaikan cara berbicara dengan lawan bicara.
+- Jika $A = 0$ (kamu tidak melakukan penyesuaian gaya komunikasi sama sekali), maka tingkat keberhasilan penyampaian gagasan akan tetap rendah meskipun kualitas gagasan $C$ sangat unggul.
 
 ## Pemetaan Gaya Komunikasi untuk Peran Teknis
 

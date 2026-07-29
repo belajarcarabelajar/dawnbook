@@ -38,9 +38,9 @@ Ketika kita dihadapkan pada pertanyaan yang kompleks (Atribut Target), otak kita
 | "Apakah kandidat ini akan menjadi manajer yang hebat?" | "Seberapa percaya diri dan ramah kandidat ini saat wawancara?" |
 | "Seberapa sering terjadi kecelakaan pesawat tahun ini?" | "Seberapa mudah saya mengingat berita kecelakaan pesawat baru-baru ini?" |
 
-Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: \( f(x)_{\text{kompleks}} \approx g(x)_{\text{sederhana}} \)
+Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)_{\text{kompleks}} \approx g(x)_{\text{sederhana}}$
 
-Di mana \( g(x) \) memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari \( f(x) \).
+Di mana $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
 
 ## 4\. Dari Heuristik Menuju Bias: Titik Kerusakan
 

@@ -30,7 +30,7 @@ Kita perlu mengenali bahwa kita sedang menderita tanpa melebih-lebihkannya. Kita
 
 Mengapa self-compassion sangat penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
 
-Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi (\(\\text{R}\)) dan belas kasih (\(\\text{SC}\)) sebagai berikut:
+Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\\text{R}$) dan belas kasih ($\\text{SC}$) sebagai berikut:
 
 $$
 \\text{R} \\propto \\frac{\\text{Self-Compassion}}{\\text{Self-Criticism}}

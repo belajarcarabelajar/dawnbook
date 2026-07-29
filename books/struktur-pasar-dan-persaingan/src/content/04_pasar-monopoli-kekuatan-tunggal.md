@@ -23,9 +23,11 @@ Monopoli tidak muncul secara kebetulan. Ada penyebab struktural mengapa satu per
 
 Kondisi ini terjadi ketika satu perusahaan mampu melayani seluruh pasar dengan biaya per unit yang lebih rendah dibanding jika dilayani oleh dua atau lebih perusahaan. Industri ini umumnya membutuhkan **biaya tetap (*fixed cost*) yang sangat besar**, tetapi memiliki biaya marginal (*marginal cost*) yang rendah.
 
-**Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata \(\\text{ATC}\) terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
+**Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata $\\text{ATC}$ terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
 
-\[ \text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}} \]
+$$
+\text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}}
+$$
 
 > **Analogi:** Membangun jaringan pipa air bersih ke seluruh kota memerlukan investasi triliunan rupiah. Jika dua perusahaan bersaing, keduanya harus menggali jalan dan memasang dua jalur pipa sejajar. Langkah ini sangat boros sumber daya. Secara ekonomi, jauh lebih efisien jika satu perusahaan mengelola seluruh jaringan pipa distribusi.
 
@@ -40,18 +42,20 @@ Monopoli tipe ini tercipta karena perlindungan hukum atau penguasaan atas sumber
 
 ## 3. Perusahaan sebagai *Price Maker*
 
-Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima harga pasar \(P = \\text{MC}\), perusahaan monopoli menghadapi kurva permintaan pasar yang miring ke bawah (*downward-sloping*). Hal ini membawa implikasi logis:
+Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima harga pasar $P = \\text{MC}$, perusahaan monopoli menghadapi kurva permintaan pasar yang miring ke bawah (*downward-sloping*). Hal ini membawa implikasi logis:
 
 - Jika produsen ingin menjual lebih banyak unit barang, mereka harus **menurunkan harga jual**.
-- Akibatnya, Pendapatan Marginal \(\\text{MR}\) selalu lebih rendah daripada Harga barang \(P\).
+- Akibatnya, Pendapatan Marginal $\\text{MR}$ selalu lebih rendah daripada Harga barang $P$.
 
 ### Prinsip Maksimalisasi Laba
 
-Perusahaan monopoli menetapkan volume produksi \(Q\) pada titik keseimbangan di mana:
+Perusahaan monopoli menetapkan volume produksi $Q$ pada titik keseimbangan di mana:
 
-\[ \text{MR} = \text{MC} \]
+$$
+\text{MR} = \text{MC}
+$$
 
-Setelah menemukan jumlah produksi optimal \(Q\), produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
+Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
 
 Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
@@ -105,8 +109,8 @@ Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut p
 
 | Bentuk Efisiensi | Kondisi pada Persaingan Sempurna | Kondisi pada Pasar Monopoli |
 | :--- | :--- | :--- |
-| **Efisiensi Alokatif** | Harga sama dengan Biaya Marginal \(P = \\text{MC}\). | Harga melebihi Biaya Marginal \(P > \\text{MC}\), barang diproduksi lebih sedikit. |
-| **Efisiensi Produsif** | Memproduksi pada titik Biaya Rata-rata Minimum \(\\text{ATC}\) minimum). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
+| **Efisiensi Alokatif** | Harga sama dengan Biaya Marginal $P = \\text{MC}$. | Harga melebihi Biaya Marginal $P > \\text{MC}$, barang diproduksi lebih sedikit. |
+| **Efisiensi Produsif** | Memproduksi pada titik Biaya Rata-rata Minimum $\\text{ATC}$ minimum). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
 
 > **Pesan Utama:** Karena monopolis sengaja membatasi volume produksi untuk menahan harga tinggi, terjadi **Inefisiensi Alokatif**. Sebagian konsumen yang sejatinya rela membayar di atas biaya produksi tetap tidak bisa mengakses produk tersebut.
 

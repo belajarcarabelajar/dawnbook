@@ -54,7 +54,7 @@ $$
 \text{Nilai yang Dirasakan} = \text{Harga Jangkar} - \text{Harga Aktual}
 $$
 
-Jika \(\text{Harga Jangkar}\) sangat tinggi, maka \(\text{Nilai yang Dirasakan}\) akan menjadi positif secara psikologis, terlepas dari nilai intrinsik barang tersebut.
+Jika $\text{Harga Jangkar}$ sangat tinggi, maka $\text{Nilai yang Dirasakan}$ akan menjadi positif secara psikologis, terlepas dari nilai intrinsik barang tersebut.
 
 ### Jenis Bias Kognitif Lainnya yang Sering Ditemui
 

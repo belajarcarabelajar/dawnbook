@@ -27,19 +27,19 @@ Untuk memahami model ini secara praktis, mari kita bagi grafik tersebut menjadi 
 
 ### A. Wilayah Kecemasan (Anxiety)
 
-Terjadi ketika \(\text{Tantangan} > \text{Keterampilan}\). Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya: diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), kamu tidak akan masuk ke kondisi *flow*. Sebaliknya, sistem saraf kamu akan memicu respon stres.
+Terjadi ketika $\text{Tantangan} > \text{Keterampilan}$. Jika kamu diberikan tugas yang jauh melampaui kemampuan saat ini (misalnya: diminta memimpin operasi bedah jantung padahal kamu baru mahasiswa kedokteran tahun pertama), kamu tidak akan masuk ke kondisi *flow*. Sebaliknya, sistem saraf kamu akan memicu respon stres.
 
 - **Gejala:** Panik, berkeringat dingin, pikiran buntu, dan keinginan untuk melarikan diri (*avoidance*).
 
 ### B. Wilayah Kebosanan (Boredom)
 
-Terjadi ketika \(\text{Keterampilan} > \text{Tantangan}\). Bayangkan seorang ahli matematika kelas dunia diminta untuk mengerjakan soal penjumlahan satu digit selama 8 jam sehari. Meskipun ia sangat ahli, ia tidak akan merasa *flow*.
+Terjadi ketika $\text{Keterampilan} > \text{Tantangan}$. Bayangkan seorang ahli matematika kelas dunia diminta untuk mengerjakan soal penjumlahan satu digit selama 8 jam sehari. Meskipun ia sangat ahli, ia tidak akan merasa *flow*.
 
 - **Gejala:** Kantuk, perhatian yang mudah teralihkan, merasa waktu berjalan sangat lambat, dan kurangnya motivasi.
 
 ### C. Saluran Flow (Flow Channel)
 
-Terjadi ketika \(\text{Tantangan} \approx \text{Keterampilan}\). Inilah "zona emas". Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
+Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Inilah "zona emas". Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
 
 ## 3\. Delapan Spektrum Pengalaman (The Experience Fluctuation Model)
 

@@ -34,7 +34,7 @@ Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pe
 
 ### 2\. Kesenjangan Ekspektasi vs. Realitas
 
-Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau." Namun, ketika terjun ke dunia nyata, kita menghadapi realitas ekonomi yang keras, persaingan ketat, dan tangga karier yang tidak seindah di film-film. \(\\text{Krisis} = \\text{Ekspektasi} - \\text{Realitas}\)
+Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau." Namun, ketika terjun ke dunia nyata, kita menghadapi realitas ekonomi yang keras, persaingan ketat, dan tangga karier yang tidak seindah di film-film. $\\text{Krisis} = \\text{Ekspektasi} - \\text{Realitas}$
 
 ### 3\. Pergeseran Garis Waktu Kedewasaan
 

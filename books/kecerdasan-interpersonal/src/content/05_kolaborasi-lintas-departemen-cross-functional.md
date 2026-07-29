@@ -61,10 +61,10 @@ $$
 
 Keterangan variabel:
 
-- `\( K \)` = Kesuksesan Kolaborasi
-- `\( V \)` = *Shared Vision* (Kesamaan visi)
-- `\( A \)` = *Alignment* (Keselarasan langkah)
-- `\( S \)` = *Silo* / Ego (Hambatan ego sektoral)
+- `$K$` = Kesuksesan Kolaborasi
+- `$V$` = *Shared Vision* (Kesamaan visi)
+- `$A$` = *Alignment* (Keselarasan langkah)
+- `$S$` = *Silo* / Ego (Hambatan ego sektoral)
 
 Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancang dengan baik, keberadaan ego sektoral atau silo yang tinggi akan secara drastis menurunkan peluang keberhasilan kolaborasi tersebut.
 

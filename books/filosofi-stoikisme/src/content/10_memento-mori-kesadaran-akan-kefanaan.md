@@ -20,17 +20,17 @@ Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rat
 
 Misalkan:
 
-- \( U_{\text{max}} \) = Ekspektasi umur (misal 80 tahun)
-- \( U_{\text{sekarang}} \) = Usia kamu saat ini
-- \( W_{\text{tidur}} \) = Waktu yang dihabiskan untuk tidur (sekitar \( 1/3 \) hidup)
+- $U_{\text{max}}$ = Ekspektasi umur (misal 80 tahun)
+- $U_{\text{sekarang}}$ = Usia kamu saat ini
+- $W_{\text{tidur}}$ = Waktu yang dihabiskan untuk tidur (sekitar $1/3$ hidup)
 
-Maka, waktu efektif yang tersisa (\( W_{\text{sisa}} \)) secara kasar adalah:
+Maka, waktu efektif yang tersisa ($W_{\text{sisa}}$) secara kasar adalah:
 
 $$
 W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
 $$
 
-Jika kamu berusia 30 tahun: \( W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun} \)
+Jika kamu berusia 30 tahun: $W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
 Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
 

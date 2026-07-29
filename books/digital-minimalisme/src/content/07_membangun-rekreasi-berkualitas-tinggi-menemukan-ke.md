@@ -6,13 +6,13 @@ Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, 
 
 Kita bisa melihat rekreasi dalam dua kutub. Di satu sisi ada rekreasi pasif yang nyaris tidak menuntut keterampilan atau usaha fisik apa pun, seperti menonton video pendek secara acak atau mengecek linimasa terus-menerus. Ini adalah "makanan ringan" bagi otak. Di sisi lain, rekreasi berkualitas tinggi menuntut kita bergerak, mengasah keterampilan, atau berinteraksi langsung dengan orang lain. Aktivitas semacam ini justru menumbuhkan perasaan pencapaian.
 
-Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan \( S \) bisa dirumuskan sebagai:
+Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan $S$ bisa dirumuskan sebagai:
 
 $$
 S = \int (\text{Skill} \times \text{Effort}) dt
 $$
 
-Semakin tinggi keterampilan (\( \text{Skill} \)) dan usaha (\( \text{Effort} \)) yang digunakan sepanjang waktu (\( t \)), semakin besar total kepuasan (\( S \)) yang akan kamu rasakan.
+Semakin tinggi keterampilan ($\text{Skill}$) dan usaha ($\text{Effort}$) yang digunakan sepanjang waktu ($t$), semakin besar total kepuasan ($S$) yang akan kamu rasakan.
 
 ## 2. Prinsip Sang Pengrajin
 

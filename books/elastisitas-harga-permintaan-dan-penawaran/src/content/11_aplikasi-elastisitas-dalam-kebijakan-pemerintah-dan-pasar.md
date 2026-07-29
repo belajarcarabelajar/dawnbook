@@ -16,9 +16,11 @@ Jika permintaan elastis (konsumen sensitif terhadap harga dan punya banyak pilih
 - **Hasilnya:** Penjual terpaksa "menelan" sebagian besar beban pajak tersebut agar barangnya tetap laku.
 **Formula Sederhana Beban Pajak:**
 
-\[ \frac{\text{Beban Pembeli}}{\text{Beban Penjual}} = \frac{\text{E}_s}{\text{E}_d} \]
+$$
+\frac{\text{Beban Pembeli}}{\text{Beban Penjual}} = \frac{\text{E}_s}{\text{E}_d}
+$$
 
-*Dengan \( \text{E}_s \) sebagai elastisitas penawaran dan \( \text{E}_d \) sebagai elastisitas permintaan.*
+*Dengan $\text{E}_s$ sebagai elastisitas penawaran dan $\text{E}_d$ sebagai elastisitas permintaan.*
 ## 2. Elastisitas dan Kebijakan Subsidi
 Subsidi adalah kebalikan dari pajak. Pemerintah memberikan bantuan dana untuk menurunkan biaya produksi atau harga beli. Namun, siapa yang paling diuntungkan dari subsidi? Lagi-lagi, elastisitas yang menentukan.
 - **Permintaan Inelastis:** Jika pemerintah memberikan subsidi pada barang dengan permintaan inelastis (seperti beras), maka penurunan harga akan sangat dirasakan oleh **konsumen**. Harga pasar akan turun drastis, sehingga pengeluaran rumah tangga berkurang.

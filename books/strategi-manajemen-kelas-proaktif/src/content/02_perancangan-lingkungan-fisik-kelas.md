@@ -28,7 +28,7 @@ Gangguan sering terjadi saat siswa bergerak (transisi). Misalnya, saat mengambil
 
 ### Rumus Efisiensi Ruang:
 
-Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan (\(E\)) sebagai fungsi dari jarak (\(d\)) dan hambatan (\(o\)): \(E \propto \frac{1}{\sum (d \cdot o)}\) *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
+Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan ($E$) sebagai fungsi dari jarak ($d$) dan hambatan ($o$): $E \propto \frac{1}{\sum (d \cdot o)}$ *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
 
 **Langkah Praktis:**
 

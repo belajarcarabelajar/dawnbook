@@ -16,12 +16,12 @@ Kalkulasi ini menggunakan operasi perkalian dasar dan penjumlahan sederhana.
 
 Untuk satu kriteria pada satu alternatif:
 
-\( \\text{WS} = S \\times W \)
+$\\text{WS} = S \\times W$
 
 Keterangan:
-- \( \\text{WS} \) mewakili *Weighted Score* (Skor Berbobot).
-- \( S \) adalah *Raw Score*, yaitu skor mentah yang diberikan pada Langkah 4.
-- \( W \) adalah *Weight*, yaitu bobot tingkat kepentingan kriteria yang ditentukan pada Langkah 3.
+- $\\text{WS}$ mewakili *Weighted Score* (Skor Berbobot).
+- $S$ adalah *Raw Score*, yaitu skor mentah yang diberikan pada Langkah 4.
+- $W$ adalah *Weight*, yaitu bobot tingkat kepentingan kriteria yang ditentukan pada Langkah 3.
 
 Untuk mendapatkan **Total Skor** dari sebuah alternatif, jumlahkan seluruh skor berbobot dari setiap kriteria yang ada:
 
@@ -33,7 +33,7 @@ $$
 
 Proses perhitungan dapat dilakukan secara sistematis melalui langkah berikut:
 
-1. **Siapkan Tabel Matriks:** Pastikan semua skor mentah (\( S \)) dan bobot (\( W \)) sudah terisi dengan lengkap di sel masing-masing.
+1. **Siapkan Tabel Matriks:** Pastikan semua skor mentah ($S$) dan bobot ($W$) sudah terisi dengan lengkap di sel masing-masing.
 2. **Kalikan Secara Horizontal:** Untuk setiap alternatif (baris), kalikan skor mentah dengan bobot kriteria pada kolom yang sesuai.
 3. **Jumlahkan:** Tambahkan hasil perkalian kriteria tersebut untuk mendapatkan total nilai akhir per alternatif.
 4. **Ulangi dan Urutkan:** Lakukan kalkulasi yang sama untuk semua alternatif lain, lalu urutkan hasilnya dari nilai tertinggi ke terendah.
@@ -50,8 +50,8 @@ Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan s
 Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) namun memiliki gaya rambut yang sangat keren (Skor 10).
 
 **Perhitungan:**
-- **Pemain X:** \( (9 \\times 0.7) + (4 \\times 0.1) = 6.3 + 0.4 = \\mathbf{6.7} \)
-- **Pemain Y:** \( (3 \\times 0.7) + (10 \\times 0.1) = 2.1 + 1.0 = \\mathbf{3.1} \)
+- **Pemain X:** $(9 \\times 0.7) + (4 \\times 0.1) = 6.3 + 0.4 = \\mathbf{6.7}$
+- **Pemain Y:** $(3 \\times 0.7) + (10 \\times 0.1) = 2.1 + 1.0 = \\mathbf{3.1}$
 
 Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah kekuatan nyata dari *Weighted Score*.
 
@@ -66,8 +66,8 @@ Mari kita terapkan metode ini pada skenario bisnis nyata. Sebuah perusahaan seda
 
 | Alternatif | Kriteria Keamanan (S) | Kriteria Harga (S) | Kriteria Fitur (S) | Perhitungan Total Skor |
 | --- | --- | --- | --- | --- |
-| **Vendor A** | 8 | 6 | 9 | \( (8 \\times 0.5) + (6 \\times 0.3) + (9 \\times 0.2) = 4.0 + 1.8 + 1.8 = \\mathbf{7.6} \) |
-| **Vendor B** | 6 | 9 | 7 | \( (6 \\times 0.5) + (9 \\times 0.3) + (7 \\times 0.2) = 3.0 + 2.7 + 1.4 = \\mathbf{7.1} \) |
+| **Vendor A** | 8 | 6 | 9 | $(8 \\times 0.5) + (6 \\times 0.3) + (9 \\times 0.2) = 4.0 + 1.8 + 1.8 = \\mathbf{7.6}$ |
+| **Vendor B** | 6 | 9 | 7 | $(6 \\times 0.5) + (9 \\times 0.3) + (7 \\times 0.2) = 3.0 + 2.7 + 1.4 = \\mathbf{7.1}$ |
 
 **Hasil Akhir:** Vendor A terpilih sebagai pemenang meskipun harganya lebih mahal. Hal ini disebabkan karena Vendor A unggul pada kriteria keamanan yang memiliki bobot penilaian paling tinggi.
 

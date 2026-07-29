@@ -98,8 +98,8 @@ Bayangkan kamu dan pasangan sedang berencana membeli rumah pertama. Saat ini, ad
 
 Berikut adalah contoh identifikasi kriteria penilaian yang bisa kamu buat:
 
-1. **Jarak ke Kantor:** \( D \\le 15 \) km (Kriteria Independen).
-2. **Harga Rumah:** \( P \\le 1 \) Miliar Rupiah (Kriteria Terukur).
+1. **Jarak ke Kantor:** $D \\le 15$ km (Kriteria Independen).
+2. **Harga Rumah:** $P \\le 1$ Miliar Rupiah (Kriteria Terukur).
 3. **Tingkat Keamanan Lingkungan:** Mengacu pada data statistik kriminalitas wilayah setempat (Kriteria Terukur).
 4. **Akses Transportasi Umum:** Jumlah stasiun atau halte terdekat dalam radius 1 km (Kriteria Terukur).
 

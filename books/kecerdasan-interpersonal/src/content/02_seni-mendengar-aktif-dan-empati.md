@@ -10,15 +10,15 @@ Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana k
 
 > **Intisari:** Mendengar aktif tidak berarti kamu harus selalu setuju dengan semua perkataan lawan bicara. Intinya adalah komitmen untuk memahami sudut pandang mereka secara utuh sebelum memberikan tanggapan.
 
-Secara matematis, efektivitas komunikasi \( E \) dapat dirumuskan secara sederhana sebagai berikut:
+Secara matematis, efektivitas komunikasi $E$ dapat dirumuskan secara sederhana sebagai berikut:
 
 $$
 E = \\frac{P \\times \\text{Pem}}{G}
 $$
 
-Di mana \( P \) mewakili pesan yang dikirim, \( \\text{Pem} \) adalah pemahaman penerima, dan \( G \) mewakili gangguan seperti asumsi, interupsi, atau ego.
+Di mana $P$ mewakili pesan yang dikirim, $\\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
 
-Semakin besar gangguan \( G \) yang kita bawa saat mendengar, semakin kecil efektivitas komunikasi kita.
+Semakin besar gangguan $G$ yang kita bawa saat mendengar, semakin kecil efektivitas komunikasi kita.
 
 ## 2. Teknik Utama Mendengar Aktif (*The Active Listening Framework*)
 

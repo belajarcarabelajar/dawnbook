@@ -28,7 +28,7 @@ Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pe
 3. **Reaksi Si Menghindar (Deaktivasi):** Menghadapi desakan tersebut, Si Menghindar merasa sangat tertekan. Demi melindungi diri, ia mengaktifkan mode *flight* atau *freeze* dengan cara diam, meninggalkan ruangan, atau mematikan ponsel.
 4. **Eskalasi konflik:** Ketika Si Menghindar menarik diri, kepanikan Si Cemas justru berlipat ganda. Akibatnya, ia mengejar lebih keras, yang kemudian membuat Si Menghindar merasa harus bersembunyi lebih jauh lagi.
 
-\( \\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B \)
+$\\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B$
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 

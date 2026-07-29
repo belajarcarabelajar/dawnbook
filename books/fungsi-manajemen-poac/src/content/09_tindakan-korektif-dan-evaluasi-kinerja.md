@@ -16,12 +16,12 @@ $$
 V = A - S
 $$
 
-Di mana \( V \) melambangkan varians atau penyimpangan, \( A \) merupakan *actual result* (hasil aktual), dan \( S \) adalah *standard* (target atau rencana).
+Di mana $V$ melambangkan varians atau penyimpangan, $A$ merupakan *actual result* (hasil aktual), dan $S$ adalah *standard* (target atau rencana).
 
 Ada dua jenis varians yang perlu diperhatikan:
 
-1. **Varians Positif (\( A > S \)):** Terjadi saat hasil melampaui target. Kondisi ini menjadi kesempatan untuk mengevaluasi apakah target awal terlalu rendah, atau ada metode kerja baru yang sangat efektif yang perlu disebarluaskan ke bagian lain.
-2. **Varians Negatif (\( A < S \)):** Terjadi saat hasil berada di bawah target. Situasi ini membutuhkan tindakan cepat guna menemukan hambatan utama.
+1. **Varians Positif ($A > S$):** Terjadi saat hasil melampaui target. Kondisi ini menjadi kesempatan untuk mengevaluasi apakah target awal terlalu rendah, atau ada metode kerja baru yang sangat efektif yang perlu disebarluaskan ke bagian lain.
+2. **Varians Negatif ($A < S$):** Terjadi saat hasil berada di bawah target. Situasi ini membutuhkan tindakan cepat guna menemukan hambatan utama.
 
 > **Insight Penting:** Evaluasi kinerja yang efektif tidak mencari siapa yang salah, tetapi mencari apa yang salah dan bagaimana memperbaikinya.
 
@@ -48,7 +48,7 @@ Tindakan korektif dapat dibagi menjadi dua pendekatan utama:
 
 ### C. Penyesuaian Standar
 
-Dalam beberapa kasus, penyimpangan terjadi akibat penetapan standar yang kurang realistis, bukan karena penurunan kinerja tim. Jika analisis menunjukkan bahwa standar tersebut mustahil dicapai akibat perubahan kondisi pasar, maka standar atau rencana \( S \) perlu disesuaikan agar tetap relevan.
+Dalam beberapa kasus, penyimpangan terjadi akibat penetapan standar yang kurang realistis, bukan karena penurunan kinerja tim. Jika analisis menunjukkan bahwa standar tersebut mustahil dicapai akibat perubahan kondisi pasar, maka standar atau rencana $S$ perlu disesuaikan agar tetap relevan.
 
 ## 3. Audit Internal: Mata Ketiga Organisasi
 

@@ -27,12 +27,12 @@ Manusia tidak selalu bertindak rasional (seperti yang kita pelajari di bagian *D
 
 Tanpa adanya desain pilihan yang sengaja, orang mungkin akan terjebak dalam pilihan yang merugikan diri mereka sendiri hanya karena faktor kebetulan. Libertarian Paternalisme hadir untuk memastikan bahwa pilihan standar (*default*) yang tersedia mengarah pada hasil yang positif.
 
-Dalam bentuk matematis sederhana, kita bisa melihatnya sebagai: \( \text{Nudge} = \text{Libertarian (Kebebasan)} + \text{Paternalisme (Bimbingan)} \)
+Dalam bentuk matematis sederhana, kita bisa melihatnya sebagai: $\text{Nudge} = \text{Libertarian (Kebebasan)} + \text{Paternalisme (Bimbingan)}$
 
 Tiga kondisi yang bisa kita bandingkan:
-- \( \text{Keadaan A} = \text{Pilihan tanpa arahan (sering kali kacau)} \)
-- \( \text{Keadaan B} = \text{Larangan atau mandat (memaksa)} \)
-- \( \text{Keadaan C} = \text{Libertarian Paternalisme (mengarahkan dengan lembut)} \)
+- $\text{Keadaan A} = \text{Pilihan tanpa arahan (sering kali kacau)}$
+- $\text{Keadaan B} = \text{Larangan atau mandat (memaksa)}$
+- $\text{Keadaan C} = \text{Libertarian Paternalisme (mengarahkan dengan lembut)}$
 
 ### Karakteristik Utama Prinsip Ini
 

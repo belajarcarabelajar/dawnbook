@@ -28,9 +28,9 @@ Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tan
 
 Secara psikologis, kedua bias ini berakar pada kebutuhan kita akan **konsistensi kognitif**. Kita ingin dunia kita masuk akal dan konsisten. Jika kita menyukai seseorang, rasanya aneh (secara mental) jika mereka memiliki sifat buruk. Jadi, otak kita "menghaluskan" ketidakkonsistenan tersebut.
 
-Dalam matematika persepsi, kita bisa memodelkannya secara sederhana sebagai berikut: Jika \( \text{Kesan\_Umum} > 0 \) (Positif), maka: \( \forall \text{Sifat}_{i} \rightarrow \text{Persepsi}(\text{Sifat}_{i}) = \text{Positif} \)
+Dalam matematika persepsi, kita bisa memodelkannya secara sederhana sebagai berikut: Jika $\text{Kesan\_Umum} > 0$ (Positif), maka: $\forall \text{Sifat}_{i} \rightarrow \text{Persepsi}(\text{Sifat}_{i}) = \text{Positif}$
 
-Dan sebaliknya jika \( \text{Kesan\_Umum} < 0 \) (Negatif).
+Dan sebaliknya jika $\text{Kesan\_Umum} < 0$ (Negatif).
 
 ## 4. Manifestasi dalam Berbagai Bidang
 

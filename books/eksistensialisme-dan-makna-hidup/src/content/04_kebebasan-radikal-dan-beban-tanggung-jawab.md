@@ -34,7 +34,7 @@ Berkata "Aku tidak punya pilihan lain" sering kali hanyalah cara kita menghindar
 
 Ini adalah bagian yang paling mendalam. Menurut kaum eksistensialist, ketika seseorang memilih, ia tidak hanya memilih untuk dirinya sendiri, tetapi ia seolah-olah menetapkan standar bagi **seluruh umat manusia**.
 
-Jika kita menggunakan logika formal untuk menggambarkan tanggung jawab ini: Misalkan \( P \) adalah pilihan individu dan \( V \) adalah nilai kemanusiaan universal, maka: \( P \implies V \) *(Setiap pilihan individu menyiratkan sebuah nilai bagi semua orang)*
+Jika kita menggunakan logika formal untuk menggambarkan tanggung jawab ini: Misalkan $P$ adalah pilihan individu dan $V$ adalah nilai kemanusiaan universal, maka: $P \implies V$ *(Setiap pilihan individu menyiratkan sebuah nilai bagi semua orang)*
 
 Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan bahwa: *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang sangat besar. Kita adalah pemahat wajah kemanusiaan melalui tindakan kita sehari-hari.
 

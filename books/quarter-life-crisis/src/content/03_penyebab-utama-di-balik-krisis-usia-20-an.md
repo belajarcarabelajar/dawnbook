@@ -16,7 +16,7 @@ $$
 \text{Krisis} = \text{Ekspektasi}(\text{Ideal}) - \text{Realita}(\text{Aktual})
 $$
 
-Semakin besar nilai \(\text{Ekspektasi}\) yang dibebankan oleh masyarakat (orang tua, tetangga, norma sosial) tanpa diiringi oleh \(\text{Realita}\) yang mendukung, maka intensitas \(\text{Krisis}\) akan semakin tinggi.
+Semakin besar nilai $\text{Ekspektasi}$ yang dibebankan oleh masyarakat (orang tua, tetangga, norma sosial) tanpa diiringi oleh $\text{Realita}$ yang mendukung, maka intensitas $\text{Krisis}$ akan semakin tinggi.
 
 ### Faktor-faktor Ekspektasi Sosial:
 
@@ -32,7 +32,7 @@ Transisi dari dunia pendidikan ke dunia profesional adalah salah satu lompatan p
 
 ### Mengapa Transisi Ini Menyakitkan?
 
-1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar \(\rightarrow\) ujian \(\rightarrow\) naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras namun tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan hebat.
+1. **Hilangnya Struktur (Loss of Structure):** Di dunia pendidikan, jalurnya jelas: belajar $\rightarrow$ ujian $\rightarrow$ naik kelas. Di dunia nyata, tidak ada kurikulum. Kamu bisa bekerja keras namun tidak mendapatkan "nilai A". Ketidakpastian ini memicu kecemasan hebat.
 2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
 3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, menciptakan perasaan tidak kompeten yang mendalam.
 

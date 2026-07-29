@@ -16,7 +16,7 @@ Sebagai perbandingan, ada koki yang sangat bergantung pada buku resep dan takara
 
 Aristoteles membagi kebijaksanaan intelektual menjadi dua bentuk utama:
 
-1. **Sophia (Kebijaksanaan Teoritis):** Fokus pada pemahaman kebenaran universal dan abadi. Contohnya adalah matematika atau hukum alam empiris, seperti persamaan fisika \( F = m \cdot a \).
+1. **Sophia (Kebijaksanaan Teoritis):** Fokus pada pemahaman kebenaran universal dan abadi. Contohnya adalah matematika atau hukum alam empiris, seperti persamaan fisika $F = m \cdot a$.
 2. **Phronesis (Kebijaksanaan Praktis):** Mengurus hal-hal yang sifatnya dinamis, tidak pasti, serta sangat bergantung pada konteks sosial dan tindakan manusia.
 
 Seorang anak berumur 10 tahun bisa saja menjadi jenius matematika karena penguasaan *Sophia*. Tapi sangat tidak masuk akal jika anak tersebut memimpin sebuah negara atau mengambil keputusan etis yang rumit. Mengapa? Karena *Phronesis* menuntut asam garam kehidupan dan observasi jangka panjang.

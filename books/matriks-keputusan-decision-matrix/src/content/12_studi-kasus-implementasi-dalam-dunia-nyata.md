@@ -32,9 +32,9 @@ $$
 \\text{Total Skor} = \\sum (\\text{Skor} \\times \\text{Bobot})
 $$
 
-- **Vendor A:** \( (4 \\times 0.35) + (3 \\times 0.25) + (4 \\times 0.25) + (2 \\times 0.15) = 1.4 + 0.75 + 1.0 + 0.3 = 3.45 \)
-- **Vendor B:** \( (3 \\times 0.35) + (5 \\times 0.25) + (4 \\times 0.25) + (4 \\times 0.15) = 1.05 + 1.25 + 1.0 + 0.6 = 3.90 \)
-- **Vendor C:** \( (2 \\times 0.35) + (4 \\times 0.25) + (5 \\times 0.25) + (5 \\times 0.15) = 0.7 + 1.0 + 1.25 + 0.75 = 3.70 \)
+- **Vendor A:** $(4 \\times 0.35) + (3 \\times 0.25) + (4 \\times 0.25) + (2 \\times 0.15) = 1.4 + 0.75 + 1.0 + 0.3 = 3.45$
+- **Vendor B:** $(3 \\times 0.35) + (5 \\times 0.25) + (4 \\times 0.25) + (4 \\times 0.15) = 1.05 + 1.25 + 1.0 + 0.6 = 3.90$
+- **Vendor C:** $(2 \\times 0.35) + (4 \\times 0.25) + (5 \\times 0.25) + (5 \\times 0.15) = 0.7 + 1.0 + 1.25 + 0.75 = 3.70$
 
 Berdasarkan perhitungan di atas, **Vendor B** terpilih sebagai mitra utama. Meskipun Vendor A menawarkan biaya terendah, keunggulan Vendor B pada aspek kecepatan pengiriman dan integrasi teknologi memberikan nilai tambah yang lebih besar bagi bisnis.
 

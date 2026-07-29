@@ -22,7 +22,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 **Contoh Tugas Sistem 1**
 
 - Menilai apakah suatu wajah tampak marah atau bersahabat secara langsung.
-- Menjawab pertanyaan sederhana seperti \( 2 + 2 = 4 \).
+- Menjawab pertanyaan sederhana seperti $2 + 2 = 4$.
 - Membaca tulisan di papan reklame besar di pinggir jalan saat berkendara.
 - Melengkapi frasa umum seperti "garam dan..." secara spontan.
 
@@ -43,7 +43,7 @@ Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita m
 
 **Contoh Tugas Sistem 2**
 
-- Mengalikan angka rumit seperti \( 17 \times 24 \) tanpa bantuan kertas coretan.
+- Mengalikan angka rumit seperti $17 \times 24$ tanpa bantuan kertas coretan.
 - Mengisi formulir pajak yang membutuhkan ketelitian tinggi.
 - Mencari keberadaan teman di tengah kerumunan festival yang padat.
 - Menjaga ritme berjalan agar tetap lebih cepat dari biasanya secara sadar.

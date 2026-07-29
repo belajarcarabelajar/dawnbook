@@ -56,11 +56,11 @@ $$
 
 Di mana:
 
-- \( M \) = Makna (*Meaning*)
-- \( S \) = Penderitaan (*Suffering*)
-- \( D \) = Keputusasaan (*Despair*)
+- $M$ = Makna (*Meaning*)
+- $S$ = Penderitaan (*Suffering*)
+- $D$ = Keputusasaan (*Despair*)
 
-Penting: Penderitaan hanya akan menjadi keputusasaan jika ia kehilangan maknanya. Namun, jika kita menemukan makna di balik penderitaan itu (jika \( S \) memiliki tujuan), maka keputusasaan (\( D \)) akan hilang.
+Penting: Penderitaan hanya akan menjadi keputusasaan jika ia kehilangan maknanya. Namun, jika kita menemukan makna di balik penderitaan itu (jika $S$ memiliki tujuan), maka keputusasaan ($D$) akan hilang.
 
 ### 5. Teknik Praktis Logoterapi
 

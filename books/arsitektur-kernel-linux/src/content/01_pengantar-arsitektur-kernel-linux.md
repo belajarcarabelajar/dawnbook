@@ -46,7 +46,7 @@ Aplikasi di user space hanya bisa berinteraksi dengan perangkat keras melalui me
 
 #### Visualisasi Alur Komunikasi
 
-Aplikasi (user space) \(\\rightarrow\) Library (glibc) \(\\rightarrow\) *System Call* \(\\rightarrow\) Kernel \(\\rightarrow\) Perangkat Keras
+Aplikasi (user space) $\\rightarrow$ Library (glibc) $\\rightarrow$ *System Call* $\\rightarrow$ Kernel $\\rightarrow$ Perangkat Keras
 
 ### Fungsi Utama Kernel
 

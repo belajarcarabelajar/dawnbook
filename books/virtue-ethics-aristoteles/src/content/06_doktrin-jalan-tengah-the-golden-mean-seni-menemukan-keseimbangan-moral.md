@@ -29,7 +29,7 @@ Orang yang menolak semua bentuk kesenangan fisik secara ekstrem dikatakan tidak 
 
 Satu hal yang paling penting untuk diingat: **Jalan Tengah bukanlah rata-rata matematika yang kaku.**
 
-Jika \( 0 \) adalah "tidak makan sama sekali" dan \( 10 \) adalah "makan sampai muntah", maka jalan tengahnya tidak selalu \( 5 \).
+Jika $0$ adalah "tidak makan sama sekali" dan $10$ adalah "makan sampai muntah", maka jalan tengahnya tidak selalu $5$.
 
 $$
 \begin{aligned}

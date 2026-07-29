@@ -31,7 +31,7 @@ Sebagai contoh, kamu tidak bisa meminta seseorang bertanggung jawab atas sebuah 
 
 ### Rumus Keseimbangan Delegasi
 
-Secara konseptual, hubungan ini dapat digambarkan sebagai berikut: \(\text{Wewenang} \approx \text{Tanggung Jawab}\). Jika \(\text{Wewenang} > \text{Tanggung Jawab}\), ada risiko penyalahgunaan kekuasaan. Jika \(\text{Wewenang} < \text{Tanggung Jawab}\), akan terjadi frustrasi dan inefisiensi.
+Secara konseptual, hubungan ini dapat digambarkan sebagai berikut: $\text{Wewenang} \approx \text{Tanggung Jawab}$. Jika $\text{Wewenang} > \text{Tanggung Jawab}$, ada risiko penyalahgunaan kekuasaan. Jika $\text{Wewenang} < \text{Tanggung Jawab}$, akan terjadi frustrasi dan inefisiensi.
 
 ## 3. Alokasi Sumber Daya: Bahan Bakar Organisasi
 

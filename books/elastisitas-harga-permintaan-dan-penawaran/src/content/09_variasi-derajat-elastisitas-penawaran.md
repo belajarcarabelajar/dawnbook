@@ -1,5 +1,5 @@
 ## Variasi Derajat Elastisitas Penawaran
-Setelah memahami bagaimana cara menghitung koefisien elastisitas penawaran \( (E_s) \), langkah selanjutnya adalah memahami apa arti dari angka-angka tersebut. Dalam dunia nyata, respon produsen terhadap perubahan harga tidaklah seragam. Ada produsen yang bisa dengan sangat cepat menambah produksi saat harga naik, namun ada juga yang "tangannya terikat" oleh keterbatasan sumber daya.
+Setelah memahami bagaimana cara menghitung koefisien elastisitas penawaran $(E_s)$, langkah selanjutnya adalah memahami apa arti dari angka-angka tersebut. Dalam dunia nyata, respon produsen terhadap perubahan harga tidaklah seragam. Ada produsen yang bisa dengan sangat cepat menambah produksi saat harga naik, namun ada juga yang "tangannya terikat" oleh keterbatasan sumber daya.
 Derajat elastisitas penawaran mengelompokkan tingkat sensitivitas ini ke dalam lima kategori utama. Memahami kategori ini membantu kita memprediksi bagaimana pasar akan bereaksi terhadap guncangan harga.
 ## 1. Penawaran Inelastis Sempurna
 Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah**, berapapun perubahan harga yang terjadi di pasar. Produsen benar-benar tidak mampu menambah atau mengurangi jumlah barang yang tersedia.
@@ -13,7 +13,7 @@ Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditaw
 - **Contoh Nyata:** Produk pertanian seperti padi. Meskipun harga padi melonjak hari ini, petani tidak bisa langsung memanen padi besok pagi. Mereka butuh waktu musim tanam, sehingga tambahan penawaran di pasar akan terbatas dalam jangka pendek.
 ## 3. Penawaran Elastis Uniter
 Kondisi ini terjadi ketika persentase perubahan harga diikuti oleh persentase perubahan jumlah penawaran dalam **proporsi yang persis sama**.
-- **Matematika:** Jika harga naik \( 10 \text{\%} \), maka jumlah penawaran juga naik tepat \( 10 \text{\%} \).
+- **Matematika:** Jika harga naik $10 \text{\%}$, maka jumlah penawaran juga naik tepat $10 \text{\%}$.
 - **Bentuk Kurva:** Kurva penawaran membentuk garis diagonal yang **dimulai dari titik pusat (origin) 0**.
 - **Catatan:** Dalam praktik lapangan, elastisitas uniter seringkali menjadi titik teoritis atau transisi antara kondisi inelastis dan elastis.
 ## 4. Penawaran Elastis \
@@ -27,23 +27,25 @@ Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memaso
 - **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus horizontal**.
 - **Contoh Nyata:** Meskipun sulit ditemukan dalam bentuk murni, pasar komoditas global sering mendekati kondisi ini. Misalnya, seorang petani kecil di pasar gandum internasional. Ia bisa menjual berapapun gandumnya pada harga pasar dunia, tetapi jika ia menaikkan harga sedikit saja, tidak akan ada yang membeli darinya karena pembeli punya akses ke jutaan petani lain pada harga pasar.
 ## Ringkasan Visual Derajat Elastisitas
-| Jenis Elastisitas | Nilai Koefisien \( (E_s) \) | Deskripsi Respon | Bentuk Kurva |
+| Jenis Elastisitas | Nilai Koefisien $(E_s)$ | Deskripsi Respon | Bentuk Kurva |
 | --- | --- | --- | --- |
-| **Inelastis Sempurna** | \( E_s = 0 \) | Tidak ada respon | Vertikal |
-| **Inelastis** | \( E_s < 1 \) | Respon tidak sensitif | Curam |
-| **Elastis Uniter** | \( E_s = 1 \) | Respon proporsional | Diagonal dari nol |
-| **Elastis** | \( E_s > 1 \) | Respon sangat sensitif | Landai |
-| **Elastis Sempurna** | \( E_s = \infty \) | Respon tak terhingga | Horizontal |
+| **Inelastis Sempurna** | $E_s = 0$ | Tidak ada respon | Vertikal |
+| **Inelastis** | $E_s < 1$ | Respon tidak sensitif | Curam |
+| **Elastis Uniter** | $E_s = 1$ | Respon proporsional | Diagonal dari nol |
+| **Elastis** | $E_s > 1$ | Respon sangat sensitif | Landai |
+| **Elastis Sempurna** | $E_s = \infty$ | Respon tak terhingga | Horizontal |
 ## Aplikasi Praktis & Simulasi Teknis
 Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering menggunakan algoritma sederhana untuk mengklasifikasikan data penjualan berdasarkan elastisitasnya.
 ### Contoh Skenario Dunia Nyata
-Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 (\( +20 \text{\%} \)). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan (\( +50 \text{\%} \)).
+Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 
 **Penghitungan Cepat:**
 
-\[ E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5 \]
+$$
+E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
+$$
 
-Karena \( 2{,}5 > 1 \), maka penawaran sepatu tersebut termasuk kategori **Elastis**.
+Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
 ### Kode Snippet (Python): Klasifikasi Elastisitas Otomatis
 Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:
 ```python

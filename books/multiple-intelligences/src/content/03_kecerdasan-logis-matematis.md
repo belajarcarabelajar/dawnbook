@@ -16,7 +16,7 @@ Selain itu, ada semacam dorongan alamiah untuk mengklasifikasi sesuatu. Informas
 
 Dua roda gigi penopang pijakan matematis ini adalah deduksi dan induksi.
 
-**Penalaran Deduktif (Top-Down)** adalah seni menarik kesimpulan spesifik dari premis universal. Di sinilah kepastian logika diuji. Aturannya ketat: Jika \(A = B\) dan \(B = C\), mutlak berlaku \(A = C\). Pola ini sering dicontohkan lewat silogisme klasik. Kita berangkat dari kepastian seperti "Semua manusia pada akhirnya akan mati." Ketika dihadapkan pada fakta "Socrates adalah manusia," hasil turunannya tak bisa digeser: Socrates pasti mati.
+**Penalaran Deduktif (Top-Down)** adalah seni menarik kesimpulan spesifik dari premis universal. Di sinilah kepastian logika diuji. Aturannya ketat: Jika $A = B$ dan $B = C$, mutlak berlaku $A = C$. Pola ini sering dicontohkan lewat silogisme klasik. Kita berangkat dari kepastian seperti "Semua manusia pada akhirnya akan mati." Ketika dihadapkan pada fakta "Socrates adalah manusia," hasil turunannya tak bisa digeser: Socrates pasti mati.
 
 Di sisi lain, **Penalaran Induktif (Bottom-Up)** merangkai kejadian-kejadian parsial demi mencetak dalil umum. Kita merekam pengamatan harian, misalnya kenyataan bahwa matahari muncul dari balik ufuk timur sejak hari-hari sebelumnya. Dari akumulasi fenomena terpisah itu, ditariklah postulat bahwa secara konstan matahari terbit di arah timur.
 
@@ -44,7 +44,7 @@ def binary_search(arr, target):
     return "Data tidak ditemukan"
 ```
 
-Ada landasan mekanika kokoh di balik blok instruksi di atas. Percepatannya bertumpu pada formula \(T(n) = T(n/2) + c\). Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
+Ada landasan mekanika kokoh di balik blok instruksi di atas. Percepatannya bertumpu pada formula $T(n) = T(n/2) + c$. Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
 
 ### 4. Pendekatan Asah Nalar Sesuai Karakter
 
@@ -62,13 +62,13 @@ Cakupan daya pikir ini membentang melampaui teritorial ujian kalkulus. Jejaknya 
 
 Di lanskap ekonomi dan finansial, instrumen kuantitatif dikerahkan membongkar tren bursa serta memetakan probabilitas risiko berpijak pada landasan rasio dan statistik. Profesi pengolahan data mengadopsi manuver serupa; jutaan data mentah dirangkum jadi panduan langkah, seperti melacak persebaran epidemi murni berlandaskan densitas dan laju mobilisasi harian massa.
 
-Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: \(\sum F_x = 0\), \(\sum F_y = 0\), dan \(\sum M = 0\).
+Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: $\sum F_x = 0$, $\sum F_y = 0$, dan $\sum M = 0$.
 
 ### 6. Memanaskan Kinerja Logika
 
 Ada beragam pendekatan kasual yang sanggup menjaga kelincahan insting penalaran. Pengamatan terhadap fluktuasi pola numerik menjadi permulaan bagus.
 
-Bila kamu melempar fokus ke sekuens progresif ini: \(2, 6, 12, 20, 30, \dots\)
-Rahasianya tersingkap dengan membongkar selisih loncatannya. Langkah awal dari \(2\) ke \(6\) merentangkan selisih \(4\). Transisi ke \(12\) melompat \(6\), lalu melompat \(8\), kemudian \(10\). Pondasi susunannya adalah interval penambahan yang konsisten membesar ganda sebesar dua satuan. Skema tersebut mendaulat nilai interval berikutnya setebal \(12\). Menyematkan porsi ini ke pos terakhir yang bernilai \(30\) dengan mudah mengungkap ujungnya yakni \(42\).
+Bila kamu melempar fokus ke sekuens progresif ini: $2, 6, 12, 20, 30, \dots$
+Rahasianya tersingkap dengan membongkar selisih loncatannya. Langkah awal dari $2$ ke $6$ merentangkan selisih $4$. Transisi ke $12$ melompat $6$, lalu melompat $8$, kemudian $10$. Pondasi susunannya adalah interval penambahan yang konsisten membesar ganda sebesar dua satuan. Skema tersebut mendaulat nilai interval berikutnya setebal $12$. Menyematkan porsi ini ke pos terakhir yang bernilai $30$ dengan mudah mengungkap ujungnya yakni $42$.
 
 Landasan logis-matematis tidak pernah didesain sekadar melatih manusia berakrobat secepat kalkulator saku. Garis besarnya memuara pada kesiagaan melontarkan interogasi kritis, yaitu hasrat untuk menelisik **"Mengapa gejalanya begini?"** sebelum merunut satu per satu bukti penopangnya dengan sabar dan presisi.

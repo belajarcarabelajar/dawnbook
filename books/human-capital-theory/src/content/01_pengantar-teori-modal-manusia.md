@@ -63,20 +63,20 @@ Untuk melihat bagaimana kerangka ini bekerja, perhatikan analisis keputusan inve
 ### Skenario Keputusan Karir
 
 Misalkan kamu adalah seorang lulusan sekolah menengah yang menghadapi dua pilihan karir:
-1. Langsung bekerja dengan pendapatan awal \(R_0\) sebesar Rp3.000.000 per bulan.
-2. Menempuh pendidikan tinggi selama 4 tahun dengan total biaya pendidikan \(C\) sebesar Rp100.000.000, dengan ekspektasi pendapatan pasca-lulus meningkat menjadi \(R_1\) sebesar Rp8.000.000 per bulan.
+1. Langsung bekerja dengan pendapatan awal $R_0$ sebesar Rp3.000.000 per bulan.
+2. Menempuh pendidikan tinggi selama 4 tahun dengan total biaya pendidikan $C$ sebesar Rp100.000.000, dengan ekspektasi pendapatan pasca-lulus meningkat menjadi $R_1$ sebesar Rp8.000.000 per bulan.
 
 Dalam perspektif ekonomi, keputusan ini dievaluasi melalui perhitungan **Net Present Value (NPV)**:
 
 $$\text{NPV} = \sum_{t=1}^{T} \frac{R_{1,t} - R_{0,t}}{(1 + r)^t} - C_{\text{total}}$$
 
 Keterangan:
-- \(R_{1,t}\) adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode \(t\).
-- \(R_{0,t}\) adalah pendapatan tanpa tambahan pendidikan (termasuk *opportunity cost* selama studi).
-- \(r\) adalah tingkat diskonto (*discount rate*).
-- \(C_{\text{total}}\) adalah total biaya langsung (*direct costs*) pendidikan.
+- $R_{1,t}$ adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode $t$.
+- $R_{0,t}$ adalah pendapatan tanpa tambahan pendidikan (termasuk *opportunity cost* selama studi).
+- $r$ adalah tingkat diskonto (*discount rate*).
+- $C_{\text{total}}$ adalah total biaya langsung (*direct costs*) pendidikan.
 
-Jika nilai \(\text{NPV} > 0\), keputusan menunda pendapatan saat ini demi mengakumulasi modal manusia merupakan langkah investasi yang rasional secara ekonomis.
+Jika nilai $\text{NPV} > 0$, keputusan menunda pendapatan saat ini demi mengakumulasi modal manusia merupakan langkah investasi yang rasional secara ekonomis.
 
 ### Implikasi pada Skala Perusahaan
 

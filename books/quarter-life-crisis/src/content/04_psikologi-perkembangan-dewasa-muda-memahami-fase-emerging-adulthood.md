@@ -42,7 +42,7 @@ $$
 \text{R}_{\text{emosi}} \approx \frac{\text{Stimulus}_{\text{eksternal}}}{\text{Kematangan}_{\text{PFC}}}
 $$
 
-Saat \( \text{Kematangan}_{\text{PFC}} \) masih rendah, \( \text{R}_{\text{emosi}} \) (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
+Saat $\text{Kematangan}_{\text{PFC}}$ masih rendah, $\text{R}_{\text{emosi}}$ (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
 
 ## 3\. Perkembangan Emosi: Menavigasi Badai Ketidakpastian
 

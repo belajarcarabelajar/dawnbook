@@ -32,7 +32,7 @@ Saat kita mempraktikkan rasa syukur, otak melepaskan dua neurotransmitter utama:
 
 Dalam dunia neurosains, ada prinsip terkenal: *“Neurons that fire together, wire together”* (neuron yang aktif bersamaan akan saling terhubung). Ketika kita membiasakan otak mencari hal-hal yang patut dihargai, jalur saraf yang berkaitan dengan emosi positif ini akan semakin kuat.
 
-Secara matematis, hubungan antara frekuensi syukur \( G \) terhadap tingkat kesejahteraan \( W \) dapat digambarkan melalui fungsi akumulatif berikut:
+Secara matematis, hubungan antara frekuensi syukur $G$ terhadap tingkat kesejahteraan $W$ dapat digambarkan melalui fungsi akumulatif berikut:
 
 $$
 W = \int_{t_0}^{t_1} f(G) \, dt
@@ -44,7 +44,7 @@ Persamaan ini menunjukkan bahwa semakin konsisten intensitas syukur yang diprakt
 
 Penelitian selama puluhan tahun menunjukkan bahwa kebiasaan bersyukur secara rutin memberikan dampak baik bagi tubuh dan pikiran:
 
-- **Kesehatan Fisik:** Membantu menstabilkan tekanan darah, memperkuat antibodi atau sistem imun \( \text{IgA} \), serta meningkatkan kualitas tidur menjadi lebih nyenyak.
+- **Kesehatan Fisik:** Membantu menstabilkan tekanan darah, memperkuat antibodi atau sistem imun $\text{IgA}$, serta meningkatkan kualitas tidur menjadi lebih nyenyak.
 - **Kesehatan Mental:** Mengurangi gejala kecemasan dan depresi dengan memangkas kadar kortisol (hormon stres) hingga 23%.
 - **Koneksi Sosial:** Membangun empati yang membuat seseorang lebih mudah memaafkan dan menjalin hubungan interpersonal yang lebih hangat.
 

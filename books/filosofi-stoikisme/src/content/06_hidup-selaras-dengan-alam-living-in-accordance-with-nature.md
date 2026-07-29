@@ -15,7 +15,7 @@ Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau
 ### Karakteristik Logos:
 
 - **Universal:** Berlaku di seluruh penjuru semesta tanpa kecuali.
-- **Rasional:** Segala sesuatu terjadi karena ada sebab-akibat yang logis (\( P \rightarrow Q \)).
+- **Rasional:** Segala sesuatu terjadi karena ada sebab-akibat yang logis ($P \rightarrow Q$).
 - **Deterministik:** Ada hukum alam yang mengatur jalannya peristiwa (seperti gravitasi atau siklus hidup).
 
 ## 2\. Dua Dimensi "Alam" dalam Stoikisme
@@ -57,7 +57,7 @@ $$
 \text{Penderitaan} = \text{Realitas} - \text{Ekspektasi}
 $$
 
-Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: \( \text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0 \)
+Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: $\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0$
 
 Ketika kita menolak alam (menginginkan sesuatu yang di luar kendali kita atau melawan hukum alam), kita menciptakan pertentangan dalam diri kita sendiri.
 
@@ -73,7 +73,7 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 ### Skenario 2: Proses Penuaan
 
 - **Melawan Alam:** Menghabiskan energi dan kebahagiaan untuk membenci kerutan atau penurunan stamina, mencoba melawan hukum biologis yang tak terelakkan.
-- **Selaras dengan Alam:** Menerima bahwa pertumbuhan dan peluruhan adalah siklus alami (\( \text{Birth} \rightarrow \text{Growth} \rightarrow \text{Decay} \)). Fokus pada kebijaksanaan yang datang seiring usia, bukan pada fisik yang memudar.
+- **Selaras dengan Alam:** Menerima bahwa pertumbuhan dan peluruhan adalah siklus alami ($\text{Birth} \rightarrow \text{Growth} \rightarrow \text{Decay}$). Fokus pada kebijaksanaan yang datang seiring usia, bukan pada fisik yang memudar.
 
 ### Skenario 3: Kegagalan dalam Pekerjaan
 

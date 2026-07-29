@@ -52,7 +52,7 @@ Di mana:
 - **Ego:** Hasrat untuk terlihat hebat di mata orang lain.
 - **Tekanan Luar:** Ekspektasi masyarakat atau tuntutan keluarga.
 
-Seseorang dengan kecerdasan intrapersonal tinggi mampu meminimalkan variabel \(\text{Ego}\) dan \(\text{Tekanan Luar}\) untuk mencapai keputusan yang paling otentik.
+Seseorang dengan kecerdasan intrapersonal tinggi mampu meminimalkan variabel $\text{Ego}$ dan $\text{Tekanan Luar}$ untuk mencapai keputusan yang paling otentik.
 
 ## 5. Aplikasi Dunia Nyata & Skenario
 

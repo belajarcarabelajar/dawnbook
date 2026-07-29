@@ -25,18 +25,18 @@ Mengapa ijazah dianggap sebagai sinyal yang valid? Mengapa pelamar tidak berboho
 
 Dalam model matematika Spence, diasumsikan terdapat dua kelompok individu:
 
-1. **Kelompok Produktivitas Tinggi (\( P_{\text{H}} \)):** Memiliki kemampuan alami yang tinggi.
-2. **Kelompok Produktivitas Rendah (\( P_{\text{L}} \)):** Memiliki kemampuan alami yang lebih rendah.
+1. **Kelompok Produktivitas Tinggi ($P_{\text{H}}$):** Memiliki kemampuan alami yang tinggi.
+2. **Kelompok Produktivitas Rendah ($P_{\text{L}}$):** Memiliki kemampuan alami yang lebih rendah.
 
-Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan \( e \) bagi kelompok \( P_{\text{L}} \) harus jauh lebih tinggi daripada kelompok \( P_{\text{H}} \):
+Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P_{\text{L}}$ harus jauh lebih tinggi daripada kelompok $P_{\text{H}}$:
 
 $$
 C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 
-Di mana \( e \) adalah tingkat pendidikan, dan \( C(e) \) melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih menyiksa dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
+Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih menyiksa dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
-**Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok \( P_{\text{H}} \) yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
+**Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 
 ### 4. Efek Kulit Domba (*The Sheepskin Effect*)
 

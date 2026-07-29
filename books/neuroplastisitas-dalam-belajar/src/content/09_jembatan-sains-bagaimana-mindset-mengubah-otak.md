@@ -36,7 +36,7 @@ Mindset juga mengubah cara otak memproses **Dopamin**, neurotransmiter yang seri
 - Pada **Fixed Mindset**, dopamin hanya dilepaskan saat mencapai hasil akhir (mendapat nilai A, menang lomba). Jika gagal, sistem dopamin "anjlok", menyebabkan demotivasi.
 - Pada **Growth Mindset**, otak mulai melepaskan dopamin selama **proses berjuang**. Otak belajar untuk menikmati sensasi "sulit" karena ia mengasosiasikan kesulitan dengan pertumbuhan saraf.
 
-Secara matematis, kita bisa melihat hubungan antara usaha (\( u \)), keyakinan (\( k \)), dan pertumbuhan sinapsis (\( \Delta S \)): \( \Delta S \propto k \times u \) Jika keyakinan (\( k \)) kamu adalah nol (Fixed Mindset: "Saya tidak bisa berubah"), maka sebesar apa pun usaha (\( u \)) yang kamu lakukan, pertumbuhan sinapsis (\( \Delta S \)) akan minimal karena otak tidak dalam keadaan "siap" untuk plastisitas.
+Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$), dan pertumbuhan sinapsis ($\Delta S$): $\Delta S \propto k \times u$ Jika keyakinan ($k$) kamu adalah nol (Fixed Mindset: "Saya tidak bisa berubah"), maka sebesar apa pun usaha ($u$) yang kamu lakukan, pertumbuhan sinapsis ($\Delta S$) akan minimal karena otak tidak dalam keadaan "siap" untuk plastisitas.
 
 ### 4\. Aplikasi Nyata: Mengubah Sirkuit Kegagalan
 
@@ -50,7 +50,7 @@ Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita liha
 **Latihan Praktis untuk Memacu Plastisitas:**
 
 1. **Reframe Kesalahan:** Saat salah, katakan dalam hati: *"Ah, ini adalah sinyal Pe saya sedang bekerja. Otak saya sedang memetakan jalur baru."*
-2. **Fokus pada "Belum":** Gunakan kata "Belum" (\( \text{Not Yet} \)). Kalimat "Saya tidak bisa" adalah jalan buntu bagi neuron. Kalimat "Saya belum bisa" adalah undangan bagi neuroplastisitas untuk mulai bekerja.
+2. **Fokus pada "Belum":** Gunakan kata "Belum" ($\text{Not Yet}$). Kalimat "Saya tidak bisa" adalah jalan buntu bagi neuron. Kalimat "Saya belum bisa" adalah undangan bagi neuroplastisitas untuk mulai bekerja.
 
 ### 5\. Ringkasan Visual: Proses Perubahan Otak
 

@@ -12,13 +12,13 @@ Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Masala
 
 > **Pesan Penting:** Riset menunjukkan bahwa setelah gangguan kecil, dibutuhkan rata-rata **23 menit dan 15 detik** untuk kembali ke tingkat fokus yang sama dalamnya dengan sebelum gangguan terjadi.
 
-Jika kita asumsikan \(T\) adalah waktu yang dibutuhkan untuk mencapai *flow* dan \(d\) adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* (\(\text{P}_f\)) dapat digambarkan secara konseptual sebagai:
+Jika kita asumsikan $T$ adalah waktu yang dibutuhkan untuk mencapai *flow* dan $d$ adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* ($\text{P}_f$) dapat digambarkan secara konseptual sebagai:
 
 $$
 \text{P}_f \propto \frac{1}{\sum_{i=1}^{n} d_i}
 $$
 
-Semakin banyak gangguan (\(d\)), semakin kecil peluang kamu untuk "hanyut" dalam pekerjaan.
+Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam pekerjaan.
 
 ## 2\. Mitos Multitasking: Paradoks Produktivitas
 

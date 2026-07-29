@@ -20,7 +20,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
 
 - Identifikasi bagian mana yang tidak berjalan sesuai rencana.
 - Apakah masalahnya ada pada **manajemen waktu**, **penggunaan media**, atau **teknik bertanya**?
-- Gunakan logika sederhana ini: \(\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}\)
+- Gunakan logika sederhana ini: $\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}$
 
 ### 2. Revisi RPP (Refining the Blueprint)
 

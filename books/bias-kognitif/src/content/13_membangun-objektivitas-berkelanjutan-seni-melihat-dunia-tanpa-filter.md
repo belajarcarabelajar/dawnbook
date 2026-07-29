@@ -30,7 +30,7 @@ $$
 P(\text{Keyakinan} \mid \text{Bukti Baru}) \propto P(\text{Bukti Baru} \mid \text{Keyakinan}) \times P(\text{Keyakinan Awal})
 $$
 
-Artinya, keyakinan kamu saat ini (\( P(\text{Keyakinan}) \)) harus selalu siap bergeser mengikuti bobot bukti baru yang masuk. Jangan memegang keyakinan dengan tangan mengepal; peganglah dengan tangan terbuka.
+Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap bergeser mengikuti bobot bukti baru yang masuk. Jangan memegang keyakinan dengan tangan mengepal; peganglah dengan tangan terbuka.
 
 #### C. Radical Self-Transparency
 
@@ -54,7 +54,7 @@ Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyat
 - **Dengan Objektivitas Berkelanjutan**:
 	1. Budi melakukan **Metacognition**: "Saya merasa defensif karena saya menginvestasikan banyak waktu di sini."
 	2. Ia menggunakan **Intellectual Humility**: "Mungkin asumsi awal saya tentang kebutuhan pengguna salah."
-	3. Ia menerapkan **Bayesian Updating**: Data baru menunjukkan kegagalan \( \rightarrow \) Peluang fitur ini sukses di masa depan menurun \( \rightarrow \) Putuskan untuk menghentikan proyek (Pivot).
+	3. Ia menerapkan **Bayesian Updating**: Data baru menunjukkan kegagalan $\rightarrow$ Peluang fitur ini sukses di masa depan menurun $\rightarrow$ Putuskan untuk menghentikan proyek (Pivot).
 
 **Contoh Kode (Logika Pengambilan Keputusan):** Jika kita memodelkan objektivitas dalam sebuah algoritma sederhana untuk mengevaluasi opini:
 

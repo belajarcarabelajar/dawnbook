@@ -56,7 +56,7 @@ Meskipun detail biologisnya akan dibahas di bagian selanjutnya, secara prinsip a
 1. **Perubahan Fungsional**: Kemampuan otak untuk memindahkan fungsi dari area yang rusak ke area yang tidak rusak.
 2. **Perubahan Struktural**: Kemampuan otak untuk secara fisik mengubah struktur strukturnya sebagai hasil dari pembelajaran (misalnya, area otak tertentu menjadi lebih tebal karena sering dilatih).
 
-Dalam bahasa matematis sederhana, kita bisa melihat perubahan ini sebagai fungsi dari atensi dan repetisi: \( \Delta\text{BrainStructure} = f(\text{Attention} \times \text{Repetition}) \) Artinya, perubahan struktur otak (\( \Delta \)) adalah fungsi (\( f \)) dari seberapa besar perhatian yang kamu berikan dikalikan dengan seberapa sering kamu mengulanginya.
+Dalam bahasa matematis sederhana, kita bisa melihat perubahan ini sebagai fungsi dari atensi dan repetisi: $\Delta\text{BrainStructure} = f(\text{Attention} \times \text{Repetition})$ Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa besar perhatian yang kamu berikan dikalikan dengan seberapa sering kamu mengulanginya.
 
 ## 5\. Aplikasi Dunia Nyata & Kasus Praktis
 

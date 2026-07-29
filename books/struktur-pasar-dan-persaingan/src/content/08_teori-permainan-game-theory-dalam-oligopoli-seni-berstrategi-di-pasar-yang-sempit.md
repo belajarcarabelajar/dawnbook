@@ -50,9 +50,9 @@ Asumsikan estimasi keuntungan dihitung dalam miliaran rupiah:
 
 *Analisis Matriks Imbalan:*
 
-1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan maksimal, yaitu \( \\text{Keuntungan}_{\\text{A}} = 100 \) dan \( \\text{Keuntungan}_{\\text{B}} = 100 \).
-2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke \( \\text{Keuntungan}_{\\text{A}} = 150 \).
-3. **Keseimbangan Nash (Nash Equilibrium):** Karena dorongan menghindari risiko dikhianati atau keinginan mengejar untung sepihak, kedua perusahaan akhirnya sama-sama menurunkan harga. Mereka sampai pada titik \( (50, 50) \).
+1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan maksimal, yaitu $\\text{Keuntungan}_{\\text{A}} = 100$ dan $\\text{Keuntungan}_{\\text{B}} = 100$.
+2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke $\\text{Keuntungan}_{\\text{A}} = 150$.
+3. **Keseimbangan Nash (Nash Equilibrium):** Karena dorongan menghindari risiko dikhianati atau keinginan mengejar untung sepihak, kedua perusahaan akhirnya sama-sama menurunkan harga. Mereka sampai pada titik $(50, 50)$.
 
 > **Pesan Penting:** Dalam oligopoli, perusahaan sering kali terjebak dalam hasil yang suboptimal (keuntungan lebih rendah) karena krisis kepercayaan, padahal kolusi dapat memberikan hasil yang jauh lebih menguntungkan.
 
@@ -98,4 +98,4 @@ Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang 
 - **Interdependensi** merupakan karakteristik utama dari struktur pasar oligopoli.
 - **Dilema Narapidana** menjelaskan penyebab sulitnya mempertahankan kerja sama akibat adanya dorongan individual untuk berkhianat.
 - **Keseimbangan Nash** tercapai saat setiap pemain memilih strategi optimalnya berdasarkan perkiraan atas tindakan pemain lain, sehingga tidak ada pihak yang terdorong mengubah keputusannya.
-Dalam situasi kolusi, \( \text{Keuntungan}_{\text{Total}} \) dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, \( \text{Keuntungan}_{\text{Total}} \) sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
+Dalam situasi kolusi, $\text{Keuntungan}_{\text{Total}}$ dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, $\text{Keuntungan}_{\text{Total}}$ sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.

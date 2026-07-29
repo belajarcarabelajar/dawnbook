@@ -1,6 +1,6 @@
 ## Mekanisme Elastisitas Harga Permintaan
 Bayangkan kamu adalah seorang pemilik kedai kopi. Karena biaya biji kopi naik, kamu memutuskan untuk menaikkan harga secangkir Americano dari Rp20.000 menjadi Rp25.000. Pertanyaannya: **Apakah pelangganmu akan tetap membeli dalam jumlah yang sama, atau mereka akan lari ke kedai sebelah?**
-Respon konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elastisitas Harga Permintaan (Price Elasticity of Demand/\( \text{PED} \))**.
+Respon konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elastisitas Harga Permintaan (Price Elasticity of Demand/$\text{PED}$)**.
 ## Apa Itu Mekanisme Elastisitas Permintaan?
 Secara sederhana, elastisitas permintaan adalah alat ukur yang digunakan dalam ekonomi untuk menunjukkan seberapa sensitif jumlah barang yang diminta oleh konsumen terhadap perubahan harga barang tersebut.
 Jika Hukum Permintaan memberi tahu kita **arah** (jika harga naik, permintaan turun), maka Elastisitas Permintaan memberi tahu kita **seberapa besar** penurunan tersebut terjadi.
@@ -20,9 +20,11 @@ Kenaikan harga secara tidak langsung mengurangi "daya beli" atau pendapatan riil
 - Jika barang tersebut memakan porsi besar dari gaji (misal: sewa rumah atau mobil), konsumen akan sangat reaktif terhadap perubahan harga.
 - Jika barang tersebut harganya sangat murah (misal: korek api atau permen), kenaikan harga 50% mungkin tidak akan disadari oleh konsumen.
 ## Logika Matematis Sederhana
-Mekanisme ini bekerja berdasarkan rasio persentase. Secara matematis, kita melihat hubungan antara perubahan jumlah barang \( Q \) dan perubahan harga \( P \):
+Mekanisme ini bekerja berdasarkan rasio persentase. Secara matematis, kita melihat hubungan antara perubahan jumlah barang $Q$ dan perubahan harga $P$:
 
-\[ E_d = \frac{\text{\%} \Delta Q_d}{\text{\%} \Delta P} \]
+$$
+E_d = \frac{\text{\%} \Delta Q_d}{\text{\%} \Delta P}
+$$
 
 - Jika hasil hitungnya **lebih besar dari 1**, artinya konsumen sangat sensitif (Elastis).
 - Jika hasil hitungnya **lebih kecil dari 1**, artinya konsumen kurang sensitif (Inelastis).

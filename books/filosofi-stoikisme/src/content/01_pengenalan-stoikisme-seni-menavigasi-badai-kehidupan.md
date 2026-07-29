@@ -37,7 +37,7 @@ Sering diterjemahkan sebagai "kebahagiaan", namun makna aslinya lebih dalam: **b
 
 Ini adalah kondisi batin yang bebas dari gangguan emosi negatif. Bayangkan kamu adalah sebuah gunung; cuaca di puncak mungkin badai (masalah hidup), tetapi fondasi kamu tetap kokoh dan tidak tergoyahkan.
 
-**Rumus Sederhana Stoikisme:** \( \text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir} \)
+**Rumus Sederhana Stoikisme:** $\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir}$
 
 ## Real-world Application: Stoikisme dalam Logika Pemrograman
 

@@ -33,10 +33,10 @@ $$
 
 Di mana:
 
-- \( T \) = Transformasi Positif
-- \( K \) = Self-Awareness (Kesadaran Diri)
-- \( S \) = Action Strategy (Strategi Aksi)
-- \( B \) = Courage (Keberanian)
+- $T$ = Transformasi Positif
+- $K$ = Self-Awareness (Kesadaran Diri)
+- $S$ = Action Strategy (Strategi Aksi)
+- $B$ = Courage (Keberanian)
 
 ### Latihan Refleksi:
 

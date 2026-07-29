@@ -23,7 +23,7 @@ $$
 \text{Kapasitas}_{\text{Mental}} = \text{Pikiran}_{\text{Internal}} + \text{Input}_{\text{Eksternal}}
 $$
 
-Jika \( \text{Input}_{\text{Eksternal}} \) mendekati nilai maksimal kapasitas, maka \( \text{Pikiran}_{\text{Internal}} \) akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
+Jika $\text{Input}_{\text{Eksternal}}$ mendekati nilai maksimal kapasitas, maka $\text{Pikiran}_{\text{Internal}}$ akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
 
 ## Mengapa Kebisingan Digital Begitu Berbahaya?
 

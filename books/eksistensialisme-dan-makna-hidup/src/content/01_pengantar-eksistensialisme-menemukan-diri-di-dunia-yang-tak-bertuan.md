@@ -44,11 +44,11 @@ Dunia ini mungkin diam dan tidak peduli terhadap keinginan kita. Kondisi ini dis
 
 Untuk memahami bagaimana eksistensialis membangun pemikirannya, kita bisa melihat pola hubungan antara keberadaan dan identitas melalui notasi sederhana berikut:
 
-Misalkan \( E \) adalah Eksistensi (keberadaan fisik) dan \( S \) adalah Esensi (makna/tujuan hidup).
+Misalkan $E$ adalah Eksistensi (keberadaan fisik) dan $S$ adalah Esensi (makna/tujuan hidup).
 
-Dalam filsafat tradisional/teologis: \( S \rightarrow E \) *(Tujuan ditentukan lebih dulu, baru makhluknya diciptakan)*
+Dalam filsafat tradisional/teologis: $S \rightarrow E$ *(Tujuan ditentukan lebih dulu, baru makhluknya diciptakan)*
 
-Dalam filsafat Eksistensialisme: \( E \rightarrow S \) *(Makhluknya ada dulu, baru ia menciptakan tujuannya melalui tindakan)*
+Dalam filsafat Eksistensialisme: $E \rightarrow S$ *(Makhluknya ada dulu, baru ia menciptakan tujuannya melalui tindakan)*
 
 ## 5. Penerapan Dunia Nyata (Real-World Application)
 

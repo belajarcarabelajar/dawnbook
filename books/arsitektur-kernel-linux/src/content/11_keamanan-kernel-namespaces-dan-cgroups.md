@@ -58,7 +58,7 @@ Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses m
 
 ### Rumus Pembagian CPU Sederhana:
 
-Jika kita memiliki dua grup (A dan B) dengan bobot CPU (\( w \)):
+Jika kita memiliki dua grup (A dan B) dengan bobot CPU ($w$):
 
 $$
 \\text{Share untuk Grup A} = \\frac{w_A}{w_A + w_B}

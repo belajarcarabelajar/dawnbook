@@ -35,7 +35,7 @@ Untuk membantu kita bernalar secara objektif, para filsuf telah mengembangkan be
 Fokus pada hasil akhir. Keputusan yang terbaik adalah yang menghasilkan "kebaikan terbesar untuk jumlah orang terbanyak."
 
 - **Analogi:** Seperti memilih menu makanan untuk acara kantor; kamu memilih yang disukai mayoritas orang, meski ada satu-dua orang yang kurang puas.
-- **Rumus Sederhana:** Jika \( U \) adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan \( A \) di mana: \( \\sum U(A) > \\sum U(B) \)
+- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ di mana: $\\sum U(A) > \\sum U(B)$
 
 #### B. Deontologi (Berdasarkan Kewajiban)
 

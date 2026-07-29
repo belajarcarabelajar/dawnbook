@@ -49,11 +49,11 @@ $$
 
 Di mana:
 
-- \( P \) = *Power* (Pengaruh Geopolitik)
-- \( E \) = *Economic Investment* (Investasi infrastruktur dan liga)
-- \( I \) = *Infrastructure* (Kesiapan logistik)
-- \( S \) = *Soft Power* (Citra budaya dan diplomasi)
-- \( V \) = *Voting Bloc* (Dukungan dari konfederasi regional)
+- $P$ = *Power* (Pengaruh Geopolitik)
+- $E$ = *Economic Investment* (Investasi infrastruktur dan liga)
+- $I$ = *Infrastructure* (Kesiapan logistik)
+- $S$ = *Soft Power* (Citra budaya dan diplomasi)
+- $V$ = *Voting Bloc* (Dukungan dari konfederasi regional)
 
 ## 4. Tantangan Geopolitik Masa Depan
 

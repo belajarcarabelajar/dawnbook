@@ -56,13 +56,13 @@ Orang dewasa dengan *Secure Attachment* biasanya menunjukkan ciri:
 
 ## 4. Kelekatan Aman dalam Angka (Logika Sederhana)
 
-Dalam sudut pandang psikologis, kita bisa menggambarkan keamanan emosional sebagai keseimbangan antara dua hal: Kedekatan (\( K \)) dan Kemandirian (\( M \)).
+Dalam sudut pandang psikologis, kita bisa menggambarkan keamanan emosional sebagai keseimbangan antara dua hal: Kedekatan ($K$) dan Kemandirian ($M$).
 
 $$
 \\text{Keamanan Emosional} = K \\approx M
 $$
 
-Di mana \( K \) (kebutuhan akan orang lain) tidak mendominasi \( M \) (kebutuhan akan otonomi), dan sebaliknya. Jika \( K > M \) secara ekstrem, kita menuju kelekatan cemas. Jika \( M > K \) secara ekstrem, kita menuju kelekatan menghindar.
+Di mana $K$ (kebutuhan akan orang lain) tidak mendominasi $M$ (kebutuhan akan otonomi), dan sebaliknya. Jika $K > M$ secara ekstrem, kita menuju kelekatan cemas. Jika $M > K$ secara ekstrem, kita menuju kelekatan menghindar.
 
 ## 5. Aplikasi Dunia Nyata: Skenario Kehidupan
 

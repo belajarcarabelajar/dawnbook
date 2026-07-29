@@ -32,18 +32,15 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
   const lines = content.split('\n');
   let hasErrors = false;
   
-  // 1. Check for raw $ ... $ inline math
+  // 1. Check for $ ... $ inline math
   const rawRegex = /(?<!\$)\$(?!\$)([^$\n]+?)(?<!\$)\$(?!\$)/g;
   lines.forEach((line, idx) => {
     let match;
     while ((match = rawRegex.exec(line)) !== null) {
-      const math = match[1];
+      const math = match[1].trim();
       
-      // Filter out code-like content, templates, comments, or currency false positives
       const cleanMath = math.replace(/\\\{/g, '').replace(/\\\}/g, '');
       if (
-        cleanMath.includes('{') || 
-        cleanMath.includes('}') || 
         cleanMath.includes('"') || 
         cleanMath.includes("'") || 
         cleanMath.includes('#') || 
@@ -53,16 +50,12 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
         continue;
       }
 
-      // Check if it's likely a math expression:
-      // - If length <= 2: we treat it as math (e.g. $x$, $y$, $z$, $Na$)
-      // - If length > 2: must contain standard mathematical symbols or commands
-      const isLikelyMath = 
-        math.length <= 2 || 
-        /[+\-*/=<>~_]/g.test(math) ||
-        /\\(Delta|eta|times|approx|rightarrow|propto|sum|int|partial)/g.test(math);
+      if (/^[0-9]+$/.test(math)) continue;
 
-      if (isLikelyMath && !/^[0-9]+$/.test(math)) {
-        console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} uses raw '$' delimiters: $${math}$`);
+      try {
+        katex.renderToString(math, { throwOnError: true });
+      } catch (err: any) {
+        console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} KaTeX error in inline math: $${math}$ -> ${err.message}`);
         hasErrors = true;
       }
     }

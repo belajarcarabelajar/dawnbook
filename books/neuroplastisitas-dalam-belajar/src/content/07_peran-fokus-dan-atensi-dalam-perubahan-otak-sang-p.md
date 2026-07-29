@@ -28,8 +28,8 @@ Epinefrin dilepaskan dari batang otak dan kelenjar adrenal. Fungsinya adalah unt
 
 Ini adalah kunci utama dari fokus. Ketika kamu memusatkan perhatian pada satu hal secara intens, nukleus basalis di otak melepaskan **Asetilkolin**.
 
-- \( \text{ACh} \) berfungsi seperti "stabilo" atau *highlighter* yang menandai sinapsis (celah antar saraf) yang aktif pada saat itu.
-- *Think about this:* Saat kamu benar-benar fokus memecahkan soal logika, \( \text{ACh} \) menandai jalur saraf spesifik tersebut sebagai "PENTING: Ubah bagian ini!"
+- $\text{ACh}$ berfungsi seperti "stabilo" atau *highlighter* yang menandai sinapsis (celah antar saraf) yang aktif pada saat itu.
+- *Think about this:* Saat kamu benar-benar fokus memecahkan soal logika, $\text{ACh}$ menandai jalur saraf spesifik tersebut sebagai "PENTING: Ubah bagian ini!"
 
 ### C. Dopamin – Sang Penguat (The Reward)
 
@@ -37,11 +37,11 @@ Dopamin dilepaskan saat kita merasa mencapai sesuatu atau berada di jalur yang b
 
 ## 3\. Mekanisme Biologis: Bagaimana Fokus Mengubah Saraf
 
-Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Ketika kita fokus, terjadi peningkatan konsentrasi kalsium (\( Ca^{2+} \)) di dalam neuron yang sedang aktif.
+Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Ketika kita fokus, terjadi peningkatan konsentrasi kalsium ($Ca^{2+}$) di dalam neuron yang sedang aktif.
 
 1. **Sinyal Atensi:** Korteks prefrontal (pusat kendali) mengirim sinyal bahwa informasi ini penting.
 2. **Pelepasan Neuromodulator:** Asetilkolin membanjiri area spesifik yang sedang bekerja.
-3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal (\( \text{fire} \)).
+3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal ($\text{fire}$).
 4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan, bukan ke tempat lain secara acak.
 
 $$

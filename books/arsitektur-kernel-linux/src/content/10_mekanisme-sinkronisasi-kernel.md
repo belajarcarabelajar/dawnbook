@@ -12,8 +12,8 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 > 
 > 1. Proses A ingin menarik Rp200.000. Ia membaca saldo: Rp1.000.000.
 > 2. Di saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
-> 3. Proses A menghitung \(1.000.000 - 200.000 = 800.000\) dan menyimpannya.
-> 4. Proses B menghitung \(1.000.000 + 100.000 = 1.100.000\) dan menyimpannya. Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
+> 3. Proses A menghitung $1.000.000 - 200.000 = 800.000$ dan menyimpannya.
+> 4. Proses B menghitung $1.000.000 + 100.000 = 1.100.000$ dan menyimpannya. Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
@@ -82,10 +82,10 @@ mutex_unlock(&my_mutex);
 1. **Binary Semaphore:** Nilainya 0 atau 1 (identik dengan mutex, namun lebih tua dan kurang dioptimasi di Linux modern).
 2. **Counting Semaphore:** Digunakan untuk membatasi akses ke sumber daya yang berjumlah banyak (misalnya membatasi hanya 5 proses yang boleh mengakses database secara bersamaan).
 
-**Persamaan Matematika Sederhana:** Jika \(S\) adalah nilai semaphore:
+**Persamaan Matematika Sederhana:** Jika $S$ adalah nilai semaphore:
 
-- Operasi \(P(S)\) (Procurar/Wait): Jika \(S > 0\), maka \(S = S - 1\). Jika \(S = 0\), tunggu.
-- Operasi \(V(S)\) (Verhogen/Signal): \(S = S + 1\).
+- Operasi $P(S)$ (Procurar/Wait): Jika $S > 0$, maka $S = S - 1$. Jika $S = 0$, tunggu.
+- Operasi $V(S)$ (Verhogen/Signal): $S = S + 1$.
 
 ## 5. RCU (Read-Copy-Update): Teknik Tanpa Kunci untuk Reader
 

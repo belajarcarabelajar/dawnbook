@@ -106,7 +106,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 
 1. **Rutin Mengisi Jurnal Belajar**
    Biasakan mencatat pengalaman belajarmu. Tulis apa saja yang baru dipelajari, bagaimana cara memahaminya, bagian mana yang susah, dan bagaimana kamu mengatasinya.
-   Misalnya: "Hari ini aku belajar tentang \( C_6H_{12}O_6 \). Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
+   Misalnya: "Hari ini aku belajar tentang $C_6H_{12}O_6$. Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
 2. **Bertanya pada Diri Sendiri**
    Jadikan pertanyaan reflektif sebagai kebiasaan:
    - **Sebelum:** "Targetku sesi ini apa? Mau pakai cara belajar yang mana?"
