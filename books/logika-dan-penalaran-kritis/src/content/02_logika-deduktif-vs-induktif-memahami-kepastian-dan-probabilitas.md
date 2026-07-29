@@ -35,7 +35,9 @@ Dalam deduksi, sebuah argumen bisa **Valid** secara struktur tetapi **Salah** se
 
 - **Argumen Valid** terjadi ketika strukturnya benar (Jika A=B dan B=C, maka A=C).
 - **Argumen Sound (Sahih)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
-   $$\\text{Validitas} + \\text{Kebenaran Premis} = \\text{Soundness}$$
+$$
+\text{Validitas} + \text{Kebenaran Premis} = \text{Soundness}
+$$
 
 ## 2\. Penalaran Induktif: Jalur Menuju Probabilitas
 
@@ -58,7 +60,7 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 
 | Fitur | Penalaran Deduktif | Penalaran Induktif |
 | --- | --- | --- |
-| **Arah Berpikir** | Umum $\\rightarrow$ Spesifik (Top-Down) | Spesifik $\\rightarrow$ Umum (Bottom-Up) |
+| **Arah Berpikir** | Umum $\rightarrow$ Spesifik (Top-Down) | Spesifik $\rightarrow$ Umum (Bottom-Up) |
 | **Sifat Kesimpulan** | Pasti (Certainty) | Probabilitas (Likelihood) |
 | **Informasi Baru** | Kesimpulan sudah terkandung dalam premis. | Kesimpulan melampaui informasi dalam premis. |
 | **Evaluasi** | Valid / Invalid | Kuat / Lemah |

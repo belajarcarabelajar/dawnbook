@@ -58,8 +58,7 @@ Kesehatan meningkatkan stok modal manusia melalui dua mekanisme utama:
 Secara matematis, laju perubahan stok modal kesehatan (*Health Capital Stock*) dinamis dapat dirumuskan melalui persamaan depresiasi dan akumulasi investasi berikut:
 
 $$
-
-H_{t+1} = \text{H}_t (1 - \delta) + \text{I}_t
+H_{t+1} = H_t (1 - \delta) + I_t
 $$
 
 Keterangan variabel:

@@ -40,10 +40,13 @@ Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: ikla
 2. **Membangun Loyalitas:** Menciptakan persepsi bahwa produk A jauh lebih baik daripada produk B, meskipun secara teknis perbedaannya tipis.
 3. **Menggeser Kurva Permintaan:** Iklan bertujuan membuat kurva permintaan menjadi lebih **inelastis**. Artinya, ketika perusahaan menaikkan harga, konsumen yang sudah loyal tidak akan langsung kabur.
 
-**Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal $\\text{MR}$ sama dengan Biaya Marginal $\\text{MC}$:
-   $$\text{MR} = \text{MC}$$
+**Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal $\text{MR}$ sama dengan Biaya Marginal $\text{MC}$:
 
-Jika Harga $P$ lebih besar dari Biaya Satuan Rata-rata $\\text{ATC}$, maka:
+$$
+\text{MR} = \text{MC}
+$$
+
+Jika Harga $P$ lebih besar dari Biaya Satuan Rata-rata $\text{ATC}$, maka:
 
 $$
 \text{Laba} = (P - \text{ATC}) \times Q

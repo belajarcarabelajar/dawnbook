@@ -38,8 +38,8 @@ Model ini berasumsi adanya asimetri dalam reaksi pesaing:
 
 Jika $P$ adalah harga dan $Q$ adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini $P^*$:
 
-- Untuk $P > P^*$, permintaan bersifat **Elastis**: $\\text{\%} \\Delta Q > \\text{\%} \\Delta P$
-- Untuk $P < P^*$, permintaan bersifat **Inelastis**: $\\text{\%} \\Delta Q < \\text{\%} \\Delta P$
+- Untuk $P > P^*$, permintaan bersifat **Elastis**: $\text{\%} \Delta Q > \text{\%} \Delta P$
+- Untuk $P < P^*$, permintaan bersifat **Inelastis**: $\text{\%} \Delta Q < \text{\%} \Delta P$
 
 > **Catatan Strategis:** Dalam pasar oligopoli, perang harga sering kali menjadi strategi *lose-lose* (mati bersama) karena menurunkan marjin keuntungan seluruh pemain tanpa mengubah pangsa pasar secara berarti.
 

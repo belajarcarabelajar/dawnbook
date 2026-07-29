@@ -69,7 +69,7 @@ Pencapaian dalam konteks ini didorong oleh *intrinsic motivation* (motivasi intr
 Seligman menekankan bahwa dalam meraih hal-hal berharga, konsistensi usaha memiliki peran yang jauh lebih besar dibandingkan bakat bawaan sejak lahir.
 
 $$
-\\text{Pencapaian} = \\text{Keterampilan} \\times \\text{Upaya}
+\text{Pencapaian} = \text{Keterampilan} \times \text{Upaya}
 $$
 
 ## Studi Kasus: Mengaplikasikan PERMA di Tempat Kerja
