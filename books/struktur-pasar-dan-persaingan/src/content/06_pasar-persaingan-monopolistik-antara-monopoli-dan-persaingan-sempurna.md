@@ -42,15 +42,11 @@ Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: ikla
 
 **Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal \\(\\text{MR}\\) sama dengan Biaya Marginal \\(\\text{MC}\\):
 
-\\[
-\\text{MR} = \\text{MC}
-\\]
+\\[ \text{MR} = \text{MC} \\]
 
 Jika Harga \\(P\\) lebih besar dari Biaya Satuan Rata-rata \\(\\text{ATC}\\), maka:
 
-\\[
-\\text{Laba} = (P - \\text{ATC}) \\times Q
-\\]
+$$\\text{Laba} = (P - \\text{ATC}) \\times Q$$
 
 Namun, karena hambatan masuk yang rendah, keuntungan ini akan mengundang pemain baru. Akibatnya, dalam **jangka panjang**, perusahaan di pasar ini cenderung hanya mendapatkan **laba normal** (break-even), karena permintaan akan terbagi ke lebih banyak pesaing.
 

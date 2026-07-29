@@ -66,16 +66,16 @@ Secara matematis, hubungan antara Produktivitas Marginal (\\(\text{VMP}\\)), Upa
 Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pasca-pelatihan:
 
 $$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: W_1 < \text{VMP}_1 \quad (\text{Pekerja mendanai } C \text{ melalui } W_1 = \text{VMP}_1 - C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: W_2 = \text{VMP}_2 \quad (\text{Upah naik setara nilai produktivitas pasar baru})
+\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 < \text{VMP}_1 \quad (\text{Pekerja mendanai } C \text{ melalui } \text{W}_1 = \text{VMP}_1 - C) \\
+\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_2 = \text{VMP}_2 \quad (\text{Upah naik setara nilai produktivitas pasar baru})
 \end{aligned}$$
 
 #### Pemodelan Pelatihan Spesifik
 Pada pelatihan spesifik, terjadi pembagian biaya dan keuntungan (*cost and return sharing*) antara pemberi kerja dan pekerja:
 
 $$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: W_1 > \text{VMP}_1 \quad (\text{Perusahaan menanggung porsi biaya } C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: W_{\text{pasar}} < W_2 < \text{VMP}_2 \quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
+\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 > \text{VMP}_1 \quad (\text{Perusahaan menanggung porsi biaya } C) \\
+\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_{\text{pasar}} < \text{W}_2 < \text{VMP}_2 \quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
 \end{aligned}$$
 
 #### Ringkasan Komparatif Pelatihan Umum vs Spesifik

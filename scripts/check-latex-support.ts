@@ -149,7 +149,8 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     if (inDisplayMath || dollarCount >= 2) return;
 
     // Strip out valid inline and display math
-    let noMath = line.replace(/\\\([\s\S]*?\\\)/g, '');
+    let noMath = line.replace(/\\+\([\s\S]*?\\+\)/g, '');
+    noMath = noMath.replace(/\\+\[[\s\S]*?\\+\]/g, '');
     noMath = noMath.replace(/\$\$[\s\S]*?\$\$/g, '');
     noMath = noMath.replace(/\$[^\$]+\$/g, '');
 

@@ -29,8 +29,8 @@ Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari se
 **Matematika Fragmentasi:** Jika \( S \) adalah kekuatan total Uni Soviet, maka setelah 1991:
 $$
 \begin{aligned}
-S_{\text{USSR}} &\neq S_{\text{Russia}} \\
-S_{\text{USSR}} &\approx S_{\text{Russia}} + S_{\text{Ukraine}} + S_{\text{Georgia}} + \dots + S_{\text{12 negara lainnya}}
+\text{S}_{\text{USSR}} &\neq \text{S}_{\text{Russia}} \\
+\text{S}_{\text{USSR}} &\approx \text{S}_{\text{Russia}} + \text{S}_{\text{Ukraine}} + \text{S}_{\text{Georgia}} + \dots + \text{S}_{\text{12 negara lainnya}}
 \end{aligned}
 $$
 

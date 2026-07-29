@@ -20,7 +20,7 @@ Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi ole
 
 $$
 \begin{aligned}
-\sum E_{\text{individu}} \propto E_{\text{komunitas}}
+\sum \text{E}_{\text{individu}} \propto \text{E}_{\text{komunitas}}
 \end{aligned}
 $$
 

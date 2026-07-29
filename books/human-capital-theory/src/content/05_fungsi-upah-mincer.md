@@ -14,7 +14,7 @@ Persamaan dasar Mincer dirumuskan sebagai berikut:
 
 $$
 \begin{aligned}
-\ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 E^2 + \epsilon
+\ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 \text{E}^2 + \epsilon
 \end{aligned}
 $$
 
@@ -23,7 +23,7 @@ $$
 | **Variabel Dependen** | \\(\ln(w)\\) | Logaritma natural dari upah atau pendapatan (*natural log of earnings*). Penggunaan skala logaritmik memungkinkan koefisien diinterpretasikan sebagai persentase perubahan upah. |
 | **Pendidikan** | \\(S\\) | *Schooling* (jumlah tahun pendidikan formal yang diselesaikan). |
 | **Pengalaman** | \\(E\\) | *Experience* (jumlah tahun pengalaman kerja potensial atau aktual). |
-| **Efek Non-Linear** | \\(E^2\\) | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
+| **Efek Non-Linear** | \\(\text{E}^2\\) | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
 | **Konstanta** | \\(\alpha\\) | Pendapatan dasar (*baseline earnings*) tanpa pendidikan dan pengalaman kerja formal. |
 | **Koefisien Slope** | \\(\beta_1, \beta_2, \beta_3\\) | Parameter elastisitas dan imbal hasil dari masing-masing komponen modal manusia. |
 | **Error Term** | \\(\epsilon\\) | Sisa variasi yang tidak teramati (*unobserved factors*), seperti bakat bawaan (*ability*), keberuntungan, atau jejaring sosial. |
@@ -38,9 +38,9 @@ Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap log
 
 > **Analogi:** Bayangkan pendidikan sebagai bibit unggul modal manusia. Setiap karung bibit tambahan yang kamu tanam di lahan keterampilanmu meningkatkan hasil panen pendapatan sebesar persentase tertentu secara konsisten.
 
-#### B. Pengalaman (\\(E\\) dan \\(E^2\\)) serta Kurva Pendapatan-Usia
+#### B. Pengalaman (\\(E\\) dan \\(\text{E}^2\\)) serta Kurva Pendapatan-Usia
 
-Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh tanpa batas secara linear. Di sinilah peran variabel kuadratik \\(E^2\\):
+Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh tanpa batas secara linear. Di sinilah peran variabel kuadratik \\(\text{E}^2\\):
 
 - **\\(\beta_2 > 0\\) (Positif):** Pada tahap awal karier, akumulasi pengalaman kerja melalui *On-the-Job Training* dan pembelajaran praktis meningkatkan produktivitas serta upah pekerja secara pesat.
 - **\\(\beta_3 < 0\\) (Negatif):** Parameter negatif pada variabel kuadratik ini mencerminkan hukum imbal hasil yang semakin berkurang (*diminishing returns to experience*).
@@ -73,7 +73,7 @@ n = 1000
 schooling = np.random.randint(6, 18, n)       # 6 s/d 18 tahun sekolah
 experience = np.random.randint(0, 40, n)      # 0 s/d 40 tahun pengalaman kerja
 
-# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*E^2 + error
+# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*\text{E}^2 + error
 log_wage = 7 + 0.12 * schooling + 0.05 * experience - 0.0007 * (experience**2) + np.random.normal(0, 0.1, n)
 
 # Menyiapkan variabel independen (X) dan dependen (y)
@@ -91,7 +91,7 @@ print(model.summary())
 **Interpretasi Hasil Estimasi:**
 
 1. **Koefisien Pendidikan (\\(S = 0.12\\)):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
-2. **Pengalaman (\\(E = 0.05\\) & \\(E^2 = -0.0007\\)):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
+2. **Pengalaman (\\(E = 0.05\\) & \\(\text{E}^2 = -0.0007\\)):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
 
 ### 5. Aplikasi Praktis dalam Kebijakan Publik dan Manajemen SDM
 

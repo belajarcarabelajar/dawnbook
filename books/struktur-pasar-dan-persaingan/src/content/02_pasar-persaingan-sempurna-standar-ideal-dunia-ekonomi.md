@@ -38,9 +38,7 @@ Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu peru
 
 Secara matematis, hubungan antara Harga \\( P \\), Pendapatan Rata-rata \\( \text{AR} \\), dan Pendapatan Marjinal \\( \text{MR} \\) adalah sebagai berikut:
 
-\\[
-P = \text{AR} = \text{MR}
-\\]
+$$P = \text{AR} = \text{MR}$$
 
 **Mengapa demikian?**
 

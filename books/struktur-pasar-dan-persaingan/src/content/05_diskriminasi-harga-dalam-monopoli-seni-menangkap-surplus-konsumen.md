@@ -65,19 +65,11 @@ Mari kita lihat perbedaan antara kebijakan harga tunggal dengan diskriminasi har
 **Persamaan Profit Maksimal pada Diskriminasi Harga Tingkat Ketiga:**  
 Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal \\(\\text{MR}\\) di setiap pasar sama dengan Biaya Marginal \\(\\text{MC}\\) keseluruhan:
 
-\\[
-\\begin{aligned}
-\\text{MR}_1 = \\text{MR}_2 = \\text{MC}
-\\end{aligned}
-\\]
+\\[ \text{MR}_1 = \text{MR}_2 = \text{MC} \\]
 
 Pasar dengan elastisitas \\(\\epsilon\\) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
 
-\\[
-\\begin{aligned}
-\\frac{P - \\text{MC}}{P} = \\frac{1}{|\\epsilon|}
-\\end{aligned}
-\\]
+\\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
 
 ## 5. Penerapan di Dunia Nyata
 

@@ -99,7 +99,7 @@ Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia d
 Para ekonom memperkirakan bahwa *learning loss* ini berdampak pada penurunan pendapatan masa depan bagi generasi dari keluarga kurang mampu sebesar:
 
 $$
-\Delta Y_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
+\Delta \text{Y}_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
 $$
 
 Di mana \\(r\\) merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.

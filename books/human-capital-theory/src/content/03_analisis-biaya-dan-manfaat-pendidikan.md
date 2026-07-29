@@ -65,13 +65,13 @@ Untuk mengevaluasi kelayakan investasi secara objektif, individu menggunakan pen
 Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai \\( \text{NPV} > 0 \\):
 
 $$
-\text{NPV} = \sum_{t=1}^{T} \frac{B_t - C_t}{(1+r)^t} > 0
+\text{NPV} = \sum_{t=1}^{T} \frac{\text{B}_t - \text{C}_t}{(1+r)^t} > 0
 $$
 
 **Keterangan Simbol:**
 
-- \\( B_t \\): Manfaat moneter (pendapatan) pada tahun ke-\\( t \\).
-- \\( C_t \\): Biaya (langsung dan peluang) pada tahun ke-\\( t \\).
+- \\( \text{B}_t \\): Manfaat moneter (pendapatan) pada tahun ke-\\( t \\).
+- \\( \text{C}_t \\): Biaya (langsung dan peluang) pada tahun ke-\\( t \\).
 - \\( r \\): Tingkat diskonto (*discount rate*) yang mencerminkan suku bunga dan preferensi waktu.
 - \\( T \\): Durasi masa kerja aktif hingga masa pensiun.
 
@@ -104,7 +104,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 1. **Usia dan Horison Waktu (\\( T \\)):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
 2. **Besar Selisih Pendapatan (*Earning Differential*):** Semakin lebar jurang gaji antara lulusan SMA dan sarjana di pasar kerja, semakin tinggi insentif individu untuk kuliah.
-3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\\( C_t \\)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
+3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\\( \text{C}_t \\)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
 
 ---
 
@@ -112,7 +112,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\\( B_t \\)) yang melimpah di negara maju membuat kalkulasi \\( \text{NPV} \\) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\\( \text{B}_t \\)) yang melimpah di negara maju membuat kalkulasi \\( \text{NPV} \\) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 

@@ -18,13 +18,7 @@ Harga keseimbangan \\(P_e\\) terjadi ketika jumlah barang yang diminta oleh kons
 
 Secara matematis:
 
-\\[
-\begin{aligned}
-Q_d &= a - bP \\
-Q_s &= c + dP \\
-\text{Keseimbangan: } Q_d &= Q_s
-\end{aligned}
-\\]
+\\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
 
 > **Intisari:** Di pasar ini, perusahaan adalah **Price Taker** (Penerima Harga). Mereka tidak punya kekuatan untuk mengubah harga pasar. Jika mereka menaikkan harga sedikit saja, konsumen akan lari ke ribuan penjual lain yang menjual produk identik.
 
@@ -42,9 +36,7 @@ Bagi perusahaan individu di PPS:
 
 Dalam PPS, berlaku persamaan:
 
-\\[
-P = \text{AR} = \text{MR}
-\\]
+$$P = \text{AR} = \text{MR}$$
 
 Mengapa \\(\text{MR}\\) sama dengan \\(P\\)? Karena jika harga pasar adalah Rp10.000, setiap kali kamu menjual satu unit tambahan, pendapatan tambahan yang kamu terima akan selalu tetap Rp10.000, tidak kurang dan tidak lebih.
 
@@ -54,9 +46,7 @@ Meskipun perusahaan tidak bisa menentukan harga, mereka tetap bisa menentukan **
 
 Aturan utama maksimisasi laba adalah:
 
-\\[
-\text{Keuntungan Maksimum tercapai saat } \text{MR} = \text{MC}
-\\]
+$$\text{Keuntungan Maksimum tercapai saat } \text{MR} = \text{MC}$$
 
 ## 4. Implikasi Jangka Panjang: Kondisi Laba Nol (*The Zero Profit Condition*)
 
@@ -78,9 +68,7 @@ Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini 
 
 > **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata \\(\text{AC}_{\text{min}}\\). Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
 
-\\[
-P = \text{MC} = \text{AC}_{\text{min}}
-\\]
+$$P = \text{MC} = \text{AC}_{\text{min}}$$
 
 ## 5. Efisiensi pada Pasar Persaingan Sempurna
 
@@ -105,17 +93,9 @@ Sebuah perusahaan dalam pasar persaingan sempurna menghadapi harga pasar \\(P = 
 **Langkah-langkah:**
 
 1. Cari \\(\text{MC}\\) (*Marginal Cost*) dari turunan \\(\text{TC}\\):
-   \\[
-   \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
-   \\]
+   $$\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20$$
 2. Gunakan syarat \\(P = \text{MC}\\) (karena dalam PPS, \\(P = \text{MR}\\):
-   \\[
-   \begin{aligned}
-   100 &= 10Q + 20 \\
-   80 &= 10Q \\
-   Q &= 8
-   \end{aligned}
-   \\]
+   \\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
 
 **Kesimpulan:** Perusahaan harus memproduksi **8 unit** untuk memaksimalkan laba pada tingkat harga tersebut.
 

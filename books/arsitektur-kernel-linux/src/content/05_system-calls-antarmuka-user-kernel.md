@@ -139,7 +139,7 @@ Setiap kali aplikasi melakukan system call, ada beban performa (overhead) yang h
 
 **Rumus Sederhana Efisiensi:**
 $$
-T_{\text{total}} = T_{\text{user-logic}} + T_{\text{syscall-overhead}} + T_{\text{kernel-execution}}
+\text{T}_{\text{total}} = \text{T}_{\text{user-logic}} + \text{T}_{\text{syscall-overhead}} + \text{T}_{\text{kernel-execution}}
 $$
 
 Oleh karena itu, aplikasi yang sensitif terhadap performa biasanya meminimalkan frekuensi system call, salah satunya dengan teknik **buffering** (mengakumulasikan data di memori sebelum melakukan satu operasi `write` besar).

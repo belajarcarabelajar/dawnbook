@@ -56,9 +56,7 @@ Pemerintah menggunakan perangkat matematis untuk menentukan apakah sebuah pasar 
 
 Rumus HHI dihitung dari jumlah kuadrat pangsa pasar \\(s\\) setiap perusahaan dalam industri tersebut:
 
-$$
-\\text{HHI} = s_1^2 + s_2^2 + s_3^2 + \\dots + s_n^2
-$$
+\\[ \text{HHI} = s_1^2 + s_2^2 + s_3^2 + \dots + s_n^2 \\]
 
 **Ketentuan Umum:**
 

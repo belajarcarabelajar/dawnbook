@@ -44,20 +44,20 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 
 ### 4. Perspektif Teknis: Produktivitas di Era Digital
 
-Secara sistematis, produktivitas individu \\( P \\) di era digital tidak hanya ditentukan oleh input jam kerja \\( L \\), modal fisik \\( K \\), dan stok modal manusia tradisional \\( H \\), melainkan bergantung pada tingkat teknologi \\( A \\) dan variabel kecepatan adaptasi keterampilan \\( S_{\text{adapt}} \\):
+Secara sistematis, produktivitas individu \\( P \\) di era digital tidak hanya ditentukan oleh input jam kerja \\( L \\), modal fisik \\( K \\), dan stok modal manusia tradisional \\( H \\), melainkan bergantung pada tingkat teknologi \\( A \\) dan variabel kecepatan adaptasi keterampilan \\( \text{S}_{\text{adapt}} \\):
 
 $$
 \begin{aligned}
-P = A \cdot f(K, L, H) \cdot S_{\text{adapt}}
+P = A \cdot f(K, L, H) \cdot \text{S}_{\text{adapt}}
 \end{aligned}
 $$
 
 Di mana:
 
 - \\( H \\) = *Human Capital* (Stok modal manusia tradisional seperti tingkat pendidikan dan pengalaman)
-- \\( S_{\text{adapt}} \\) = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
+- \\( \text{S}_{\text{adapt}} \\) = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
 
-Jika variabel \\( S_{\text{adapt}} \\) bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal \\( H \\) yang dimiliki relatif tinggi.
+Jika variabel \\( \text{S}_{\text{adapt}} \\) bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal \\( H \\) yang dimiliki relatif tinggi.
 
 #### Skenario Aplikasi: Pengembangan Perangkat Lunak
 
@@ -97,4 +97,4 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 1. **Prinsip Augmentasi**: Kecerdasan buatan berfungsi sebagai mitra peningkatan produktivitas yang membutuhkan pembentukan alur kerja baru.
 2. **Keterampilan Non-Rutin**: Kemampuan kognitif tingkat tinggi, kreativitas, dan kecerdasan sosial memiliki tingkat ketahanan tertinggi terhadap otomasi.
 3. **Pembelajaran Seumur Hidup**: Pembentukan modal manusia berkelanjutan melalui *Upskilling* dan *Reskilling* menjadi mekanisme utama menahan depresiasi keterampilan.
-4. **Adaptabilitas Keterampilan**: Variabel \\( S_{\text{adapt}} \\) menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.
+4. **Adaptabilitas Keterampilan**: Variabel \\( \text{S}_{\text{adapt}} \\) menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.

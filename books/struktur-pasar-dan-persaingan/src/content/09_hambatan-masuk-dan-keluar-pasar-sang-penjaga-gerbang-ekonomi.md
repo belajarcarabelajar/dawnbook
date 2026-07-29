@@ -22,9 +22,7 @@ Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi d
 
 Secara matematis, biaya rata-rata dirumuskan sebagai:
 
-\\[
-\\text{AC} = \\frac{\\text{TC}}{Q}
-\\]
+\\[ \text{AC} = \frac{\text{TC}}{Q} \\]
 
 Di mana \\(\\text{TC}\\) adalah total biaya (*Total Cost*) dan \\(Q\\) adalah jumlah output. Perusahaan baru dengan tingkat produksi \\(Q\\) yang kecil memikul \\(\\text{AC}\\) jauh lebih tinggi dibandingkan pemain lama, sehingga sulit bersaing dari segi harga.
 

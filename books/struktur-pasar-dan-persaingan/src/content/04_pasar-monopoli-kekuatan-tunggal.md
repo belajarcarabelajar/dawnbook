@@ -25,9 +25,7 @@ Kondisi ini terjadi ketika satu perusahaan mampu melayani seluruh pasar dengan b
 
 **Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata \\(\\text{ATC}\\) terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
 
-\\[
-\\text{ATC} = \\frac{\\text{Total Cost}}{\\text{Quantity}}
-\\]
+\\[ \text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}} \\]
 
 > **Analogi:** Membangun jaringan pipa air bersih ke seluruh kota memerlukan investasi triliunan rupiah. Jika dua perusahaan bersaing, keduanya harus menggali jalan dan memasang dua jalur pipa sejajar. Langkah ini sangat boros sumber daya. Secara ekonomi, jauh lebih efisien jika satu perusahaan mengelola seluruh jaringan pipa distribusi.
 
@@ -51,9 +49,7 @@ Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima har
 
 Perusahaan monopoli menetapkan volume produksi \\(Q\\) pada titik keseimbangan di mana:
 
-\\[
-\\text{MR} = \\text{MC}
-\\]
+\\[ \text{MR} = \text{MC} \\]
 
 Setelah menemukan jumlah produksi optimal \\(Q\\), produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
 

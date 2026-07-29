@@ -27,7 +27,7 @@ Komunikasi di dalam satu sel saraf bersifat **elektrik**. Ketika neuron "terpanc
 Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium \( Na^+ \) dan Kalium \( K^+ \)) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
 
 $$
-V_{\text{threshold}} \approx -55 \, \text{mV}
+\text{V}_{\text{threshold}} \approx -55 \, \text{mV}
 $$
 
 Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
