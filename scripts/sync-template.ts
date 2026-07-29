@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from "node:fs/promises";
+import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 
 async function syncTemplate() {
@@ -39,6 +39,17 @@ async function syncTemplate() {
                 }
             } catch (e) {
                 // Ignore if book.toml doesn't exist
+            }
+
+            // Sync theme/head.hbs for MathJax Rocket Loader bypass
+            try {
+                const templateHeadPath = join(booksDir, "_template", "theme", "head.hbs");
+                const headContent = await readFile(templateHeadPath, "utf-8");
+                const bookThemeDir = join(booksDir, entry.name, "theme");
+                await mkdir(bookThemeDir, { recursive: true });
+                await writeFile(join(bookThemeDir, "head.hbs"), headContent);
+            } catch (e) {
+                // Ignore if head.hbs missing
             }
         }
     }
