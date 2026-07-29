@@ -45,7 +45,7 @@ Psikologi positif melampaui perasaan senang belaka. Ada bukti biologis konkret y
 
 ### Dampak Fisiologis Optimisme
 
-Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol (\( \\text{C}_{21}\\text{H}_{30}\\text{O}_5 \\ )) yang lebih rendah. Hal ini membawa dampak baik bagi tubuh:
+Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol ($\text{C}_{21}\text{H}_{30}\text{O}_5$) yang lebih rendah. Hal ini membawa dampak baik bagi tubuh:
 
 - **Sistem Imun:** Respons antibodi terhadap infeksi menjadi lebih aktif.
 - **Kesehatan Jantung:** Menekan risiko gangguan kardiovaskular.

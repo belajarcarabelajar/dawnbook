@@ -79,10 +79,10 @@ async function prepareBookForMdbook(booksDir: string, tmpBooksDir: string, bookN
         let content = await readFile(fullPath, "utf8");
         // Convert $...$ and $$...$$ as well as \(...\) and \[...\] to double-escaped \\( and \\[ for pulldown-cmark
         // and escape underscores inside math so pulldown-cmark doesn't inject <em> tags inside math formulas
-        content = content.replace(/\$\$(.+?)\$\$/gs, (_, math) => "\\\\[" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\]");
-        content = content.replace(/(?<!\$)\$([^$\n]+?)\$(?!\$)/g, (_, math) => "\\\\(" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\)");
-        content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, (_, math) => "\\\\(" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\)");
-        content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, (_, math) => "\\\\[" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "\\\\]");
+        content = content.replace(/\$\$(.+?)\$\$/gs, (_, math) => "$$" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "$$");
+        content = content.replace(/(?<!\$)\$([^$\n]+?)\$(?!\$)/g, (_, math) => "$" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "$");
+        content = content.replace(/(?<!\\)\\\(([\s\S]*?)(?<!\\)\\\)/g, (_, math) => "$" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "$");
+        content = content.replace(/(?<!\\)\\\[([\s\S]*?)(?<!\\)\\\]/g, (_, math) => "$$" + math.replace(/_/g, "\\_").replace(/\*/g, "\\*") + "$$");
         await writeFile(fullPath, content, "utf8");
       }
     }

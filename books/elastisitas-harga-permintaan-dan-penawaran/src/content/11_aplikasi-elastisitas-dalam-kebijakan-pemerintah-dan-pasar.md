@@ -15,7 +15,10 @@ Jika permintaan elastis (konsumen sensitif terhadap harga dan punya banyak pilih
 - Jika penjual mencoba membebankan pajak ke harga jual, konsumen akan berhenti membeli.
 - **Hasilnya:** Penjual terpaksa "menelan" sebagian besar beban pajak tersebut agar barangnya tetap laku.
 **Formula Sederhana Beban Pajak:**
-   $$\frac{\text{Beban Pembeli}}{\text{Beban Penjual}} = \frac{\text{E}_s}{\text{E}_d}$$
+
+$$
+\frac{\text{Beban Pembeli}}{\text{Beban Penjual}} = \frac{\text{E}_s}{\text{E}_d}
+$$
 
 *Dengan $\text{E}_s$ sebagai elastisitas penawaran dan $\text{E}_d$ sebagai elastisitas permintaan.*
 ## 2. Elastisitas dan Kebijakan Subsidi

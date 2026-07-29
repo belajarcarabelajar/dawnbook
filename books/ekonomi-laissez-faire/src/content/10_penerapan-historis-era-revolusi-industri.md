@@ -54,7 +54,6 @@ Penerapan Laissez-faire selama Revolusi Industri bak pedang bermata dua. Berikut
 Jika kita mengamati pertumbuhan output melalui fungsi produksi Cobb-Douglas sederhana:
 
 $$
-
 Y = A \cdot K^\alpha \cdot L^{1-\alpha}
 $$
 

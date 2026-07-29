@@ -42,7 +42,6 @@ Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank D
 Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto ($\text{GDP}$). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
 
 $$
-
 G = \frac{A}{A + B}
 $$
 
@@ -75,6 +74,7 @@ Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fe
 - **Krisis Finansial 2008:** Menunjukkan bahwa pasar finansial tanpa regulasi dapat memicu keruntuhan ekonomi global.
 - **Pandemi COVID-19:** Membuktikan bahwa dalam situasi darurat, peran negara yang kuat sangat vital untuk menyediakan vaksin dan bantuan sosial.
 - **Perubahan Iklim:** Mekanisme pasar sering gagal menangani eksternalitas negatif seperti polusi. Emisi $\text{CO}_2$ tidak akan turun hanya mengandalkan "tangan tak terlihat" tanpa regulasi karbon yang tegas.
+
    $$\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}$$
 
 ## 7. Studi Kasus: Transformasi Ekonomi Indonesia

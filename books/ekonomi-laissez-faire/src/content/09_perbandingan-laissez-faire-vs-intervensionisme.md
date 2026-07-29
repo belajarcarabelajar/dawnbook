@@ -28,6 +28,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianisme**, yang dipelopori oleh John Maynard Keynes. Keynes berpendapat bahwa dalam masa depresi ekonomi, pasar tidak bisa bangkit sendiri karena kurangnya permintaan.
 
 **Rumus Permintaan Agregat:** Dalam model Keynesian, output ekonomi ($Y$) ditentukan oleh formula berikut:
+
    $$Y = C + I + G + (X - M)$$
 
 Di mana:

@@ -24,6 +24,7 @@ Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita be
   - **Masalah:** Biaya produksi internal perusahaan (*Private Cost*) lebih rendah daripada biaya total yang ditanggung masyarakat (*Social Cost*).
   - **Dampak:** Produksi berlebih (*overproduction*) dari barang yang merusak lingkungan.
   - **Persamaan:**
+
    $$\text{Social Cost} = \text{Private Cost} + \text{External Cost}$$
 
 - **Eksternalitas Positif:** Seseorang yang menerima vaksinasi. Dia melindungi dirinya sendiri sekaligus mencegah penyebaran penyakit ke orang lain.
@@ -62,7 +63,6 @@ Dalam sistem Laissez-faire, persaingan adalah pilar utama. Namun tanpa regulasi,
 Ketika perusahaan memegang kekuatan pasar, mereka dapat menetapkan harga (*price maker*) di atas biaya marginal:
 
 $$
-
 P > \text{MC}
 $$
 
