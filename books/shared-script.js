@@ -30,7 +30,17 @@ window.MathJax = {
     function retypeset() {
         if (window.MathJax && window.MathJax.Hub) {
             try {
-                window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+                if (window.MathJax.Hub.inputJax && window.MathJax.ElementJax) {
+                    window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+                } else if (window.MathJax.Hub.Register && window.MathJax.Hub.Register.StartupHook) {
+                    window.MathJax.Hub.Register.StartupHook("End", function() {
+                        try {
+                            window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+                        } catch(err) {
+                            console.warn('MathJax StartupHook typeset error:', err);
+                        }
+                    });
+                }
             } catch(e) {
                 console.warn('MathJax retypeset error:', e);
             }
@@ -47,10 +57,6 @@ window.MathJax = {
     window.addEventListener('pageshow', retypeset);
     window.addEventListener('popstate', retypeset);
     window.addEventListener('hashchange', retypeset);
-
-    if (window.MathJax && window.MathJax.Hub && window.MathJax.Hub.Register) {
-        window.MathJax.Hub.Register.StartupHook("End", retypeset);
-    }
 })();
 
 
