@@ -104,4 +104,4 @@ Dengan bobot yang seimbang, Vendor B mungkin memimpin. Namun, begitu bobot Krite
 
 > **Catatan Penting:** Analisis sensitivitas bukan bertujuan mencari jawaban yang paling "benar", melainkan memahami **risiko** di balik keputusan yang kamu pilih.
 
-Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar \( \\pm 10-20\\% \), kamu bisa sangat percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.
+Jika hasil keputusanmu tidak berubah meskipun kamu menggeser bobot kriteria sebesar \( \\pm 10-20\\text{\%} \), kamu bisa sangat percaya diri dengan pilihan tersebut. Namun, jika perubahan kecil langsung mengacaukan peringkat alternatif, luangkan waktu kembali ke tahap pengumpulan data untuk memastikan angka-angkamu seakurat mungkin sebelum melangkah lebih jauh.

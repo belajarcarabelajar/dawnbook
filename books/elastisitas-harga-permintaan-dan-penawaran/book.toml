@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Elastisitas Harga Permintaan dan Penawaran"
+description = "Buku panduan lengkap memahami elastisitas harga permintaan dan penawaran, rumus perhitungan, determinan, serta aplikasinya dalam kebijakan ekonomi."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Ekonomi Pembangunan"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

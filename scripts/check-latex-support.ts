@@ -74,6 +74,12 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     let match;
     while ((match = inlineRegex.exec(line)) !== null) {
       const math = match[1].trim();
+      // Check for unescaped percentage symbols outside \text{}
+      if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
+        console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${idx + 1} has unescaped percentage symbol in inline math. Must use '\\text{\\%}': \\(${math}\\)`);
+        hasErrors = true;
+      }
+      
       try {
         katex.renderToString(math, { throwOnError: true });
       } catch (err: any) {
@@ -96,6 +102,13 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const math = match[1].trim();
     const offset = match.index;
     const lineNum = content.substring(0, offset).split('\n').length;
+    
+    // Check for unescaped percentage symbols outside \text{}
+    if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
+      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} has unescaped percentage symbol in block math. Must use '\\text{\\%}': \\[${math}\\]`);
+      hasErrors = true;
+    }
+
     try {
       katex.renderToString(math, { throwOnError: true, displayMode: true });
     } catch (err: any) {
@@ -116,6 +129,12 @@ async function checkFile(filePath: string, bookName: string): Promise<boolean> {
     const math = match[1].trim();
     const offset = match.index;
     const lineNum = content.substring(0, offset).split('\n').length;
+
+    if (/(?<!\\text\{[^}]*)%/g.test(math) && !math.includes('\\text{\\%}')) {
+      console.error(`❌ [FAIL] ${bookName}/${basename(filePath)}: Line ${lineNum} has unescaped percentage symbol in block math. Must use '\\text{\\%}': $$${math}$$`);
+      hasErrors = true;
+    }
+
     try {
       katex.renderToString(math, { throwOnError: true, displayMode: true });
     } catch (err: any) {

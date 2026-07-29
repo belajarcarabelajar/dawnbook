@@ -37,7 +37,7 @@ Penerapan pilihan standar memiliki beberapa bentuk berbeda tergantung pada tujua
 
 Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perbandingan tingkat donor organ di berbagai negara Eropa.
 
-Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar \( 15\% \). Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya melonjak drastis hingga mendekati \( 99\% \).
+Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar \( 15\text{\%} \). Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya melonjak drastis hingga mendekati \( 99\text{\%} \).
 
 $$
 \begin{aligned}
@@ -82,7 +82,7 @@ Bayangkan kamu sedang membangun formulir pendaftaran. Kamu ingin mendorong pengg
 
 Penerapan pilihan standar ini banyak dijumpai dalam berbagai skenario praktis:
 
-- **Keuangan (Tabungan Pensiun):** Banyak perusahaan menerapkan sistem pendaftaran otomatis (*automatic enrollment*). Karyawan langsung menyisihkan \( 3\% \) gaji ke dana pensiun, kecuali jika mereka menyatakan keberatan secara aktif. Hasilnya, akumulasi dana pensiun pekerja meningkat pesat.
+- **Keuangan (Tabungan Pensiun):** Banyak perusahaan menerapkan sistem pendaftaran otomatis (*automatic enrollment*). Karyawan langsung menyisihkan \( 3\text{\%} \) gaji ke dana pensiun, kecuali jika mereka menyatakan keberatan secara aktif. Hasilnya, akumulasi dana pensiun pekerja meningkat pesat.
 - **Pelestarian Lingkungan (Cetak Dua Sisi):** Sebuah universitas mengubah pengaturan bawaan printer kampusnya dari cetak satu sisi menjadi cetak bolak-balik (*duplex*). Tanpa melarang pencetakan satu sisi, langkah sederhana ini berhasil menghemat penggunaan kertas hingga puluhan juta lembar per tahun.
 - **E-commerce (Metode Pembayaran):** Menyimpan kartu kredit yang terakhir digunakan sebagai pilihan utama saat pembayaran (*checkout*) terbukti mempercepat proses transaksi sekaligus mendongkrak angka konversi penjualan.
 

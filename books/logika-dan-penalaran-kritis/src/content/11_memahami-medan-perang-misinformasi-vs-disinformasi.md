@@ -51,7 +51,7 @@ Sebagai analogi sederhana, kita tentu lebih percaya pada sebuah restoran bukan k
 
 ## 5. Menghitung Probabilitas Kebenaran
 
-Dalam logika digital, jarang sekali sesuatu bersifat \( 100\% \) benar atau \( 0\% \) salah. Kita bisa menggunakan pendekatan probabilistik sederhana. Misalkan:
+Dalam logika digital, jarang sekali sesuatu bersifat \( 100\text{\%} \) benar atau \( 0\text{\%} \) salah. Kita bisa menggunakan pendekatan probabilistik sederhana. Misalkan:
 
 - \( P(H) \) adalah peluang sebuah informasi adalah hoaks.
 - Jika informasi tersebut mengandung kata-kata bombastis (e.g., "SEBARKAN SEBELUM DIHAPUS!!!"), maka nilai \( P(H) \) meningkat drastis.

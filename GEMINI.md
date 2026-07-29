@@ -45,12 +45,51 @@ This file contains critical architectural decisions and strict rules for the Daw
 ## 9. Mandatory Manual Line-by-Line File Inspection (No Blind Scripts)
 - **Manual Reading Requirement:** Any AI assistant working on this repository MUST call `view_file` to manually inspect EVERY SINGLE chapter markdown file line-by-line before making any edits or running verification scripts.
 - **Forbidden Blind Execution:** Blind regular expression scripts (`sed`, mass search-and-replace, or batch node scripts) are STRICTLY FORBIDDEN as a substitute for manual file reading.
-- **LaTeX & Formula Verification Checklist:**
-  1. **Inline Math:** Must use `\( ... \)`.
-  2. **Display Math:** Must use single-line `\[ ... \]`. Never split `\[` across lines or double-wrap like `$$\\[`.
-  3. **Multi-Letter Variables:** Multi-letter variables (e.g. `TR`, `AR`, `MR`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`) MUST be wrapped in `\text{...}`.
-  4. **Formula Context:** Verify formulas match surrounding paragraph context.
+- **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
+  1. **Inline Math delimiters:** Must use `\\( ... \\)` in `.md` files (double backslash). mdBook strips single backslash, so `\( ... \)` becomes raw text in HTML.
+  2. **Display Math delimiters:** Must use single-line `\\[ ... \\]` in `.md` files (double backslash, one line only). Never split `\\[` across multiple lines. Never use `$$ ... $$` delimiters. Never use `\begin{aligned}` with `\\` row separators inside display math.
+  3. **MANDATORY BLANK LINES AROUND DISPLAY MATH:** Every `\\[ ... \\]` block MUST be preceded by a blank line AND followed by a blank line. If a display math block is written without blank lines separating it from surrounding text, pulldown-cmark renders it inside a `<p>` tag, causing the formula to appear **inline and scrambled**. This is the single most common layout bug. Example:
+     - ✅ CORRECT:
+       ```
+       Rumusnya adalah:
+
+       \\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]
+
+       Nilai koefisien di atas menunjukkan...
+       ```
+     - ❌ WRONG (formula rendered inside paragraph, layout broken):
+       ```
+       Rumusnya adalah:
+       \\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]
+       Nilai koefisien di atas menunjukkan...
+       ```
+  4. **Multi-Letter Variables:** All multi-letter variable names (e.g. `TR`, `AR`, `MR`, `PED`, `PES`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`, `Es`, `Ed`) MUST be wrapped in `\text{...}` (e.g. `\text{PED}`).
+  5. **Percentage Signs `%` in Math — CRITICAL:** The `%` character is a TeX comment delimiter. Inside ANY math block (`\\( ... \\)` or `\\[ ... \\]`), a raw `%` or `\%` will cause MathJax to silently discard everything from that point to end-of-line, making the entire formula invisible. **MANDATORY RULE:** Every percentage sign inside a math block MUST be written as `\text{\%}`. Examples:
+     - ✅ CORRECT: `\\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]`
+     - ✅ CORRECT: `\\( 50 \text{\%} \\)`
+     - ❌ WRONG: `\\[ E_d = \frac{\% \Delta Q}{\% \Delta P} \\]` (raw `%` — formula becomes invisible)
+     - ❌ WRONG: `\\( 50\% \\)` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
+     - ❌ WRONG: `\\( 50\\% \\)` (double-escaped `\\%` — becomes `\%` in HTML which is still a TeX comment)
+  5. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
 - **Check Scripts Are Post-Flight Only:** `check-latex-support.ts` and `check-media-support.ts` are post-flight verification tools ONLY, never a replacement for manual file reading. If a script fails, the agent MUST inspect the failing line manually with `view_file` and fix it with `replace_file_content`.
+- **AUDIT GATE:** `bun run scripts/check-latex-support.ts` MUST exit with code 0 before any `bun run build` or `deploy` is allowed. A non-zero exit code means the build is forbidden.
+- **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. The correct form is always `\text{\%}` — single nesting only.
+
+## 10. MathJax Loading & Navigation Rendering (Learned from Production Bug)
+- **`defer` Not `async` — MANDATORY:** The MathJax `<script>` in `books/_template/theme/head.hbs` MUST use `defer`, NEVER `async`. With `async`, the browser executes MathJax immediately when its file is served from cache (nearly 0ms). If this happens before the HTML body is fully parsed, MathJax scans an incomplete DOM and misses all formulas that appear later. With `defer`, MathJax is guaranteed to run ONLY after the full HTML is parsed.
+  - ✅ CORRECT: `<script data-cfasync="false" defer src="...MathJax.js..."></script>`
+  - ❌ WRONG: `<script data-cfasync="false" async src="...MathJax.js..."></script>`
+- **sync-template.ts propagates head.hbs:** After editing `books/_template/theme/head.hbs`, ALWAYS run `bun run scripts/sync-template.ts` to propagate the change to all 37+ books. Never manually edit individual books' `head.hbs`.
+- **`pageshow` + bfcache Safety Net — MANDATORY in `shared-script.js`:** `books/shared-script.js` MUST contain a `pageshow` event listener with `e.persisted` check to call `MathJax.Hub.Queue(['Typeset', MathJax.Hub])`. This fixes iOS Safari swipe-gesture navigation (back-forward cache) where scripts do NOT re-execute and MathJax never re-renders the restored DOM.
+  ```javascript
+  window.addEventListener('pageshow', function(e) {
+      if (e.persisted && window.MathJax && window.MathJax.Hub) {
+          window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+      }
+  });
+  ```
+- **`window.load` Re-typeset Safety Net:** `shared-script.js` MUST also call `MathJax.Hub.Queue(['Typeset', MathJax.Hub])` on the `window.load` event as a final safety net for any edge cases.
+- **Symptom Check:** If a user reports "LaTeX works on Module 1 but breaks on Module 2, manual refresh fixes it" → root cause is either `async` (race condition) or bfcache. Check `head.hbs` for `async` first.
 
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.

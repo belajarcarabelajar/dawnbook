@@ -27,9 +27,7 @@ Dua fungsi ini sering disebut sebagai "si kembar" dalam manajemen. Hubungan erat
 
 Secara matematis, efisiensi manajemen (\( E \)) dapat digambarkan sebagai fungsi dari keselarasan antara target (\( T \)) dan realisasi (\( R \)):
 
-$$
-E = \frac{R}{T} \times 100\%
-$$
+\[ E = \frac{R}{T} \times 100 \text{\text{\%}} \]
 
 Di mana \( T \) berasal dari *Planning* dan \( R \) didapatkan melalui *Controlling*.
 

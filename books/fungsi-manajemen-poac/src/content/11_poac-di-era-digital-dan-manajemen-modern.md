@@ -42,9 +42,7 @@ Manajer modern menggunakan metrik spesifik yang terukur secara digital untuk mem
 
 Jika ingin menghitung efisiensi produksi dalam sistem digital, kita bisa menggunakan rumus dasar efisiensi berikut:
 
-$$
-\text{Efisiensi} = \left( \frac{\text{Output Aktual}}{\text{Input Aktual}} \right) \times 100\%
-$$
+\\[ \text{Efisiensi} = \left( \frac{\text{Output Aktual}}{\text{Input Aktual}} \right) \times 100 \text{\text{\%}} \\]
 
 Namun, dengan pembelajaran mesin (*machine learning*), sistem bahkan bisa memprediksi kapan mesin membutuhkan perawatan (*predictive maintenance*) sebelum terjadi kerusakan. Langkah ini merupakan bentuk pengawasan preventif yang jauh lebih cerdas.
 

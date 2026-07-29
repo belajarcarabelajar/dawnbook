@@ -40,7 +40,7 @@ Katakanlah kamu masih lajang dan bergaji Rp5 juta sebulan.
 1. Penghasilan setahun: \( 5.000.000 \\times 12 = 60.000.000 \) rupiah.
 2. PTKP (Penghasilan Tidak Kena Pajak) buat yang lajang itu Rp54.000.000.
 3. PKP (Penghasilan Kena Pajak) kamu: \( 60.000.000 - 54.000.000 = 6.000.000 \) rupiah.
-4. Pajak yang harus dibayar: \( 6.000.000 \\times 5\\% = 300.000 \) rupiah per tahun.
+4. Pajak yang harus dibayar: \( 6.000.000 \\times 5\\text{\%} = 300.000 \) rupiah per tahun.
 
 ## Mengapa Perlu Perencanaan Pajak?
 

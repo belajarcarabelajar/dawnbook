@@ -34,10 +34,10 @@ Sebagai pertimbangan praktis, jika anak terpaksa absen sekolah hingga 20 hari da
 Dokter biasanya menilai ukuran pembesaran ini menggunakan standar **Skala Brodsky** mulai dari \(0\) hingga \(+4\):
 
 - **Grade 0:** Posisi amandel sepenuhnya tersembunyi di dalam kantung atau fossa tonsil.
-- **Grade +1:** Pembesaran amandel yang mengisi kurang dari \(<25\%\) ruang tenggorokan.
-- **Grade +2:** Amandel membengkak dan menempati sekitar \(25\%\) hingga \(50\%\) rongga tenggorokan.
-- **Grade +3:** Ukuran amandel menutupi sebagian besar jalan napas, berkisar antara \(50\%\) sampai \(75\%\).
-- **Grade +4:** Penyumbatan parah dengan amandel mengisi lebih dari \(>75\%\) ruang tenggorokan. Kondisi ini sering dijuluki *"Kissing Tonsils"* karena amandel kiri dan kanan saling menempel.
+- **Grade +1:** Pembesaran amandel yang mengisi kurang dari \(<25\text{\%}\) ruang tenggorokan.
+- **Grade +2:** Amandel membengkak dan menempati sekitar \(25\text{\%}\) hingga \(50\text{\%}\) rongga tenggorokan.
+- **Grade +3:** Ukuran amandel menutupi sebagian besar jalan napas, berkisar antara \(50\text{\%}\) sampai \(75\text{\%}\).
+- **Grade +4:** Penyumbatan parah dengan amandel mengisi lebih dari \(>75\text{\%}\) ruang tenggorokan. Kondisi ini sering dijuluki *"Kissing Tonsils"* karena amandel kiri dan kanan saling menempel.
 
 ### Dampak Hipertrofi
 

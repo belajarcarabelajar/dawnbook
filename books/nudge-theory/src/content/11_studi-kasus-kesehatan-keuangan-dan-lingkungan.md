@@ -10,7 +10,7 @@ Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah 
 
 ### Kasus: Opt-in vs. Opt-out
 
-Di Eropa, terdapat perbedaan drastis dalam tingkat partisipasi donor organ antarnegara yang secara budaya mirip. Sebagai contoh, di Jerman, tingkat partisipasi hanya sekitar \( 12\% \), sementara di negara tetangganya, Austria, tingkat partisipasinya mencapai hampir \( 99\% \).
+Di Eropa, terdapat perbedaan drastis dalam tingkat partisipasi donor organ antarnegara yang secara budaya mirip. Sebagai contoh, di Jerman, tingkat partisipasi hanya sekitar \( 12\text{\%} \), sementara di negara tetangganya, Austria, tingkat partisipasinya mencapai hampir \( 99\text{\%} \).
 
 Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, bukan karena perbedaan tingkat moralitas penduduk:
 
@@ -36,7 +36,7 @@ Manusia merasakan kepedihan akibat kehilangan Rp1.000.000 dua kali lebih kuat da
 Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi dengan mengintegrasikan beberapa prinsip psikologi perilaku secara cerdas:
 
 - **Komitmen untuk Masa Depan:** Karyawan diajak berkomitmen untuk menyisihkan pendapatan di masa mendatang, tepatnya saat mereka mendapatkan kenaikan gaji berikutnya. Langkah ini mengurangi rasa kehilangan karena alokasi tabungan diambil dari uang yang belum menjadi bagian dari anggaran bulanan mereka.
-- **Kenaikan Otomatis Sesuai Gaji:** Persentase tabungan akan disesuaikan dengan kenaikan gaji secara berkala. Misalnya, jika gaji naik \( 5\% \), alokasi tabungan otomatis bertambah \( 2\% \). Hasilnya, karyawan tidak akan merasakan penurunan jumlah gaji bersih yang biasa mereka bawa pulang.
+- **Kenaikan Otomatis Sesuai Gaji:** Persentase tabungan akan disesuaikan dengan kenaikan gaji secara berkala. Misalnya, jika gaji naik \( 5\text{\%} \), alokasi tabungan otomatis bertambah \( 2\text{\%} \). Hasilnya, karyawan tidak akan merasakan penurunan jumlah gaji bersih yang biasa mereka bawa pulang.
 - **Sistem Default (Pendaftaran Otomatis):** Setiap karyawan baru secara otomatis terdaftar dalam program tabungan ini, kecuali jika mereka mengajukan keberatan dan memilih keluar secara manual.
 
 Tingkat tabungan karyawan yang menggunakan skema tradisional sering kali stagnan. Sebaliknya, program SMarT mendorong pertumbuhan tabungan secara akumulatif berdasarkan fungsi matematika berikut:

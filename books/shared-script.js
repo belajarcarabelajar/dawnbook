@@ -15,6 +15,32 @@ window.MathJax = {
     }
 };
 
+// MathJax re-render safety net.
+//
+// WHY THIS EXISTS:
+// MathJax is loaded with `defer` in head.hbs, which guarantees it executes
+// after full HTML parse. But as a second line of defence:
+//   1. `window.load` re-queues a Typeset call to catch any edge cases where
+//      MathJax ran before all content was available.
+//   2. `pageshow` with e.persisted handles browser back-forward cache (bfcache)
+//      restoration (e.g. iOS Safari swipe gestures). When bfcache restores a
+//      page, scripts do NOT re-execute, so MathJax never re-runs. Calling
+//      Hub.Queue forces re-typesetting of the restored DOM.
+(function() {
+    function retypeset() {
+        if (window.MathJax && window.MathJax.Hub) {
+            window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+        }
+    }
+    // Re-typeset after all resources (including deferred scripts) are ready.
+    window.addEventListener('load', retypeset);
+    // Re-typeset when page is restored from bfcache (swipe navigation).
+    window.addEventListener('pageshow', function(e) {
+        if (e.persisted) retypeset();
+    });
+})();
+
+
 // Client-side gating & checkpoint system
 //
 // Replaces the previous Clerk-based gating. Instead of injecting Clerk's

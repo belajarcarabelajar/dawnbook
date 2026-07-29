@@ -31,15 +31,13 @@ Apakah semua kriteria memiliki tingkat kepentingan yang sama bagimu? Jika kamu s
 
 Tidak semua kriteria memiliki nilai kepentingan yang setara. **Bobot (*weight*)** adalah nilai numerik yang menunjukkan tingkat kepentingan suatu kriteria dibandingkan dengan kriteria lainnya.
 
-Dalam konvensi umum, akumulasi seluruh bobot kriteria harus bernilai \( 1.0 \) atau \( 100\\% \).
+Dalam konvensi umum, akumulasi seluruh bobot kriteria harus bernilai \( 1.0 \) atau \( 100 \text{\%} \).
 
 Misalnya, jika Kriteria A memiliki bobot \( 0.5 \) dan Kriteria B memiliki bobot \( 0.2 \), itu berarti Kriteria A dua setengah kali lebih penting bagi keputusanmu dibandingkan Kriteria B.
 
 **Secara matematis:** Jika \( w \) adalah bobot untuk kriteria ke-\( i \), maka persamaannya ditulis sebagai:
 
-$$
-\sum_{i=1}^{n} w_i = 1 \text{ atau } 100\%
-$$
+\[ \sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%} \]
 
 ### Komponen 4: Skor Penilaian (*Rating*)
 

@@ -76,7 +76,7 @@ Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sed
 
 1. **Cognitive Reframing:** Andi mengubah kalimat "Aku gagal" menjadi "Aku sedang membangun fondasi finansialku sendiri, dan perjalananku berbeda dengan mereka."
 2. **Digital Detox:** Andi menonaktifkan notifikasi media sosial selama 2 jam setelah bangun tidur untuk fokus pada rutinitas paginya.
-3. **Aksi Terukur:** Alih-alih meratapi nasib, Andi mengalokasikan \( X\% \) dari gajinya untuk dana darurat secara otomatis (mengubah kecemasan menjadi aksi nyata).
+3. **Aksi Terukur:** Alih-alih meratapi nasib, Andi mengalokasikan \( X\text{\%} \) dari gajinya untuk dana darurat secara otomatis (mengubah kecemasan menjadi aksi nyata).
 
 ## 6. Jurnal Refleksi: Mengeluarkan Isi Kepala
 

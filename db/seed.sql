@@ -1068,8 +1068,1055 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Think about this: Jika kamu seorang pendidik, bagaimana kamu akan mengubah cara kamu menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'elastisitas-harga-permintaan-dan-penawaran',
+  'elastisitas-harga-permintaan-dan-penawaran',
+  'Elastisitas Harga Permintaan dan Penawaran',
+  'published',
+  'Ekonomi Pembangunan',
+  '<!-- Chapter: 01_pengantar-konsep-elastisitas-dalam-ekonomi -->
+
+## Pengantar Konsep Elastisitas dalam Ekonomi
+
+Selamat datang di titik awal pemahaman mendalam mengenai perilaku pasar. Jika kamu pernah bertanya-tanya mengapa kenaikan harga bensin tidak membuat orang berhenti membeli bensin, namun kenaikan harga satu merk kopi bisa membuat pelanggannya lari ke merk lain, maka kamu sedang memikirkan konsep **Elastisitas**.
+
+Dalam ekonomi, angka saja tidak cukup. Kita tidak hanya ingin tahu bahwa "jika harga naik, permintaan turun." Kita ingin tahu **seberapa besar** penurunan tersebut. Di sinilah elastisitas berperan sebagai alat ukur presisi bagi para ekonom.
+
+## Apa Itu Elastisitas?
+
+Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menariknya, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menariknya, bentuknya hampir tidak berubah.
+
+Dalam ekonomi, **Elastisitas** adalah ukuran derajat kepekaan (respons) suatu variabel ekonomi terhadap perubahan variabel lainnya.
+
+> **Inti Konsep:** Elastisitas menjawab pertanyaan "Seberapa sensitif konsumen atau produsen terhadap perubahan harga atau faktor lainnya di pasar?"
+
+Secara matematis, kita melihatnya sebagai perbandingan perubahan persentase:
+
+\\[ \text{Elastisitas} = \frac{\% \text{ Perubahan Variabel Terikat (Respons)}}{\% \text{ Perubahan Variabel Bebas (Stimulus)}} \\]
+
+### Mengapa Menggunakan Persentase?
+
+Kita menggunakan persentase, bukan unit absolut, agar kita bisa membandingkan hal yang berbeda. Misalnya, kita bisa membandingkan bagaimana kenaikan harga mobil sebesar 10% (jutaan rupiah) mempengaruhi permintaan dibandingkan dengan kenaikan harga permen sebesar 10% (ratusan rupiah).
+
+## Analogi: Karet Gelang vs. Kawat Beton
+
+Untuk memahami sensitivitas ini, mari kita gunakan perbandingan visual:
+
+1. **Barang Elastis (Karet Gelang):** Beberapa barang sangat sensitif terhadap harga. Sedikit saja harga ditarik ke atas (naik), jumlah permintaan akan "meregang" atau menyusut dengan drastis. *Contoh:* Tiket pesawat liburan. Jika harga naik sedikit, orang dengan mudah menunda liburan atau mencari alternatif transportasi lain.
+2. **Barang Inelastis (Kawat Beton):** Barang ini kaku. Meskipun harga ditarik ke atas dengan kuat, jumlah permintaan hanya berubah sedikit sekali. *Contoh:* Obat insulin bagi penderita diabetes. Berapa pun harganya, pasien tetap membutuhkannya untuk bertahan hidup.
+
+## Mengapa Sensitivitas Harga Menjadi Kunci Mikroekonomi?
+
+Memahami elastisitas memiliki arti penting dalam analisis mikroekonomi karena beberapa alasan utama:
+
+### 1. Pengambilan Keputusan Perusahaan
+
+Seorang manajer harus tahu: *"Jika saya menaikkan harga produk saya sebesar 5%, apakah total pendapatan saya akan naik karena harga lebih mahal, atau justru turun karena pelanggan saya kabur?"*
+
+- Jika barang **elastis**, menaikkan harga adalah risiko besar bagi pendapatan.
+- Jika barang **inelastis**, perusahaan memiliki kekuatan pasar untuk menyesuaikan harga.
+
+### 2. Kebijakan Publik dan Pajak
+
+Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan dikenakan pajak tambahan (cukai).
+
+- **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang tetap akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
+
+### 3. Prediksi Keseimbangan Pasar
+
+Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
+
+## Penerapan Nyata: Perang Harga Supermarket
+
+Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
+
+- **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan tetap membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
+- **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**
+
+**Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus sangat berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
+
+## Refleksi Pembelajaran
+
+Coba perhatikan pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
+
+**Poin Penting untuk Diingat:**
+
+- **Elastisitas = Responsivitas.**
+- Kita mengukur dalam **persentase** untuk standarisasi.
+- Konsep ini membantu menentukan strategi harga bagi produsen dan kebijakan pajak bagi pemerintah.
+- Dunia ekonomi tidak hanya tentang arah perubahan (naik/turun), tetapi juga tentang **besaran** perubahan tersebut.
+
+*Materi selanjutnya akan membahas secara spesifik bagaimana konsumen bereaksi terhadap harga melalui Mekanisme Elastisitas Harga Permintaan.*
+
+
+<!-- Chapter: 02_mekanisme-elastisitas-harga-permintaan -->
+
+## Mekanisme Elastisitas Harga Permintaan
+
+Bayangkan kamu adalah seorang pemilik kedai kopi. Karena biaya biji kopi naik, kamu memutuskan untuk menaikkan harga secangkir Americano dari Rp20.000 menjadi Rp25.000. Pertanyaannya: **Apakah pelangganmu akan tetap membeli dalam jumlah yang sama, atau mereka akan lari ke kedai sebelah?**
+
+Respon konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elastisitas Harga Permintaan (Price Elasticity of Demand/\\( \text{PED} \\))**.
+
+## Apa Itu Mekanisme Elastisitas Permintaan?
+
+Secara sederhana, elastisitas permintaan adalah alat ukur yang digunakan dalam ekonomi untuk menunjukkan seberapa sensitif jumlah barang yang diminta oleh konsumen terhadap perubahan harga barang tersebut.
+
+Jika Hukum Permintaan memberi tahu kita **arah** (jika harga naik, permintaan turun), maka Elastisitas Permintaan memberi tahu kita **seberapa besar** penurunan tersebut terjadi.
+
+> **Wawasan Penting:** Elastisitas adalah ukuran kuantitatif dari sensitivitas konsumen. Ini menjawab pertanyaan "Seberapa parah penurunan penjualan kita jika harga naik 10%?"
+
+## Analogi: Karet Gelang vs. Rantai Besi
+
+Untuk memahami mekanisme ini, bayangkan permintaan sebagai sebuah benda yang ditarik oleh kekuatan harga:
+
+1. **Permintaan Elastis (Karet Gelang):** Beberapa barang memiliki permintaan yang sangat fleksibel seperti karet gelang. Sedikit saja kamu "menarik" harganya ke atas, jumlah permintaan akan "meregang" atau menyusut dengan sangat drastis. Contohnya: Tiket pesawat liburan atau merek cokelat tertentu.
+2. **Permintaan Inelastis (Rantai Besi):** Barang lain bersifat kaku seperti rantai besi. Meskipun kamu menarik harganya dengan kuat, bentuknya hampir tidak berubah. Konsumen tetap membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
+
+## Bagaimana Mekanisme Ini Bekerja di Pikiran Konsumen?
+
+Saat harga sebuah barang berubah, terjadi dua mekanisme psikologis dan ekonomi dalam diri konsumen yang mendorong elastisitas:
+
+### 1. Efek Substitusi (Substitution Effect)
+
+Ketika harga Barang A naik, konsumen secara alami akan mencari "pelarian". Mereka akan membandingkan: *"Apakah ada barang lain yang fungsinya sama tapi harganya lebih murah?"*
+
+- Jika **banyak alternatif** (misal: berbagai merek sabun cuci), maka permintaan sangat **elastis**.
+- Jika **tidak ada alternatif** (misal: bensin untuk kendaraan), maka permintaan cenderung **inelastis**.
+
+### 2. Efek Pendapatan (Income Effect)
+
+Kenaikan harga secara tidak langsung mengurangi "daya beli" atau pendapatan riil konsumen.
+
+- Jika barang tersebut memakan porsi besar dari gaji (misal: sewa rumah atau mobil), konsumen akan sangat reaktif terhadap perubahan harga.
+- Jika barang tersebut harganya sangat murah (misal: korek api atau permen), kenaikan harga 50% mungkin tidak akan disadari oleh konsumen.
+
+## Logika Matematis Sederhana
+
+Mekanisme ini bekerja berdasarkan rasio persentase. Secara matematis, kita melihat hubungan antara perubahan jumlah barang \\( Q \\) dan perubahan harga \\( P \\):
+
+\\[ E_d = \frac{\% \Delta Q_d}{\% \Delta P} \\]
+
+- Jika hasil hitungnya **lebih besar dari 1**, artinya konsumen sangat sensitif (Elastis).
+- Jika hasil hitungnya **lebih kecil dari 1**, artinya konsumen kurang sensitif (Inelastis).
+
+Sebagai gambaran, perusahaan teknologi seperti Apple dapat menaikkan harga iPhone setiap tahun tanpa kehilangan mayoritas pembelinya karena persepsi merek yang kuat membuat permintaannya cenderung inelastis.
+
+## Skenario Dunia Nyata: Krisis Harga Bahan Bakar
+
+Mari kita lihat bagaimana mekanisme ini bekerja dalam praktik nyata melalui skenario berikut:
+
+**Konteks:** Pemerintah mengumumkan kenaikan harga BBM (Bensin) sebesar 30%.
+
+1. **Reaksi Jangka Pendek (Inelastis):** Pada minggu pertama, orang-orang mengeluh tetapi tetap mengisi tangki kendaraan mereka. Mengapa? Karena mereka harus bekerja, mengantar anak sekolah, dan tidak punya pilihan transportasi instan. Permintaan hanya turun sedikit (misal 2%). Inilah mekanisme **Permintaan Inelastis**.
+2. **Reaksi Jangka Panjang (Menuju Elastis):** Setelah setahun, orang mulai beradaptasi. Ada yang mulai membeli motor listrik, ada yang beralih ke transportasi umum (MRT/Busway), atau melakukan *carpooling*. Sekarang, kenaikan harga 30% tersebut mengakibatkan penurunan konsumsi bensin yang jauh lebih besar dibanding bulan pertama.
+
+## Mengapa Memahami Mekanisme Ini Penting? (Aplikasi Praktis)
+
+Memahami elastisitas bukan hanya tugas akademisi, tapi merupakan nyawa bagi sebuah bisnis dan kebijakan publik:
+
+- **Bagi Perusahaan (Strategi Harga):** Jika produkmu elastis, **jangan** menaikkan harga sembarangan karena total pendapatanmu justru bisa turun drastis. Sebaliknya, diskon kecil bisa memicu lonjakan penjualan yang luar biasa.
+- **Bagi Pemerintah (Kebijakan Pajak):** Pemerintah biasanya mengenakan pajak tinggi pada barang yang inelastis (seperti rokok atau alkohol). Mengapa? Karena meskipun harganya naik akibat pajak, orang akan tetap membelinya, sehingga penerimaan pajak negara tetap stabil.
+- **Bagi Pemasaran (Branding):** Tujuan utama dari *branding* dan iklan sebenarnya adalah untuk membuat permintaan produk menjadi **inelastis**. Loyalitas merek membuat konsumen tidak peduli pada kenaikan harga karena mereka sudah "jatuh cinta" pada produk tersebut.
+
+> **Insight Penutup:** Mekanisme elastisitas adalah jembatan antara angka-angka ekonomi dengan perilaku manusia. Memahaminya berarti memahami batasan seberapa jauh kita bisa mengubah harga sebelum pasar memberikan "hukuman" atau "hadiah" kepada kita.
+
+
+<!-- Chapter: 03_metode-penghitungan-dan-rumus-elastisitas-permintaan -->
+
+## Metode Penghitungan dan Rumus Elastisitas Permintaan
+
+Setelah memahami apa itu elastisitas permintaan secara konseptual, tantangan berikutnya adalah bagaimana kita mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
+
+Dalam bagian ini, kita akan membahas teknik penghitungan elastisitas permintaan menggunakan dua metode utama: **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
+
+## 1. Fondasi: Koefisien Elastisitas (\( E_d \))
+
+Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Hasil dari penghitungan elastisitas disebut sebagai **Koefisien Elastisitas (\( E_d \))**. Angka ini memberi tahu kita seberapa besar persentase perubahan jumlah permintaan jika harga berubah sebesar 1%.
+
+Secara umum, rumusnya adalah:
+
+\[ E_d = \frac{\% \Delta Q_d}{\% \Delta P} \]
+
+**Keterangan:**
+
+- \( \% \Delta Q_d \): Persentase perubahan jumlah barang yang diminta.
+- \( \% \Delta P \): Persentase perubahan harga barang tersebut.
+
+> **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah permintaan bergerak ke arah yang berlawanan (jika harga naik, permintaan turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya \( -2 \), kita menyebutnya \( 2 \).
+
+## 2. Metode Elastisitas Titik (Point Elasticity)
+
+Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini sangat berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
+
+### Rumus Matematis:
+
+\[ E_d = \frac{\Delta Q}{\Delta P} \times \frac{P}{Q} \]
+
+Di mana:
+
+- \( \Delta Q = Q_2 - Q_1 \) (Perubahan jumlah permintaan)
+- \( \Delta P = P_2 - P_1 \) (Perubahan harga)
+- \( P \) = Harga awal
+- \( Q \) = Jumlah permintaan awal
+
+### Langkah-langkah Penghitungan:
+
+1. Identifikasi harga awal (\( P_1 \)) dan jumlah awal (\( Q_1 \)).
+2. Identifikasi harga baru (\( P_2 \)) dan jumlah baru (\( Q_2 \)).
+3. Hitung selisihnya (\( \Delta Q \) dan \( \Delta P \)).
+4. Masukkan ke dalam rumus dan hitung hasilnya.
+
+**Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 cup per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 cup.
+
+- \( P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000 \)
+- \( Q_1 = 100, Q_2 = 80 \rightarrow \Delta Q = -20 \)
+
+\[ E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0,01 \times 200 = -2 \]
+
+Nilai mutlak \( E_d = 2 \).
+
+## 3. Metode Nilai Tengah (Midpoint Method)
+
+Ada satu masalah utama dengan metode elastisitas titik: hasilnya bisa berbeda tergantung apakah kita menghitung dari titik A ke B atau dari B ke A. Inilah yang disebut dengan **masalah arah (direction problem)**.
+
+*Analogi: Bayangkan kamu sedang mendaki bukit. Jika kamu naik dari kaki bukit setinggi 100 meter ke puncak 200 meter, kenaikannya adalah 100%. Tapi jika kamu turun dari 200 meter ke 100 meter, penurunannya 50%. Padahal, jarak yang ditempuh sama.*
+
+Untuk menghindari kebingungan ini, para ekonom menggunakan **Metode Nilai Tengah**. Metode ini menghitung persentase perubahan berdasarkan rata-rata (nilai tengah) dari titik awal dan akhir.
+
+### Rumus Matematis:
+
+\[ \% \Delta Q = \frac{Q_2 - Q_1}{(Q_1 + Q_2) / 2} \times 100\% \]
+
+\[ \% \Delta P = \frac{P_2 - P_1}{(P_1 + P_2) / 2} \times 100\% \]
+
+\[ E_d = \frac{\frac{Q_2 - Q_1}{(Q_1 + Q_2) / 2}}{\frac{P_2 - P_1}{(P_1 + P_2) / 2}} \]
+
+### Langkah-langkah Penghitungan:
+
+1. **Hitung perubahan jumlah (\( Q_2 - Q_1 \))** dan bagi dengan **rata-rata jumlah** [\( (Q_1 + Q_2) / 2 \)].
+2. **Hitung perubahan harga (\( P_2 - P_1 \))** dan bagi dengan **rata-rata harga** [\( (P_1 + P_2) / 2 \)].
+3. Bagi hasil langkah 1 dengan hasil langkah 2.
+
+**Contoh Kasus dengan Midpoint:** Gunakan data Latte yang sama: \( P_1 = 20.000, P_2 = 22.000 \) dan \( Q_1 = 100, Q_2 = 80 \).
+
+- **Rata-rata \( Q \):** \( (100 + 80) / 2 = 90 \)
+- **Rata-rata \( P \):** \( (20.000 + 22.000) / 2 = 21.000 \)
+
+\[ \% \Delta Q = \frac{80 - 100}{90} = \frac{-20}{90} \approx -0,222 \]
+
+\[ \% \Delta P = \frac{22.000 - 20.000}{21.000} = \frac{2.000}{21.000} \approx 0,095 \]
+
+\[ E_d = \frac{-0,222}{0,095} \approx -2,33 \]
+
+Nilai mutlak \( E_d = 2,33 \).
+
+## Aplikasi Dunia Nyata: Strategi Penetapan Harga
+
+Bayangkan kamu adalah seorang Manajer Pemasaran di sebuah perusahaan aplikasi streaming musik. Kamu ingin menaikkan biaya langganan bulanan.
+
+- **Skenario A:** Jika elastisitas permintaan pelanggan kamu adalah \( 0,5 \) (inelastis), maka kenaikan harga 10% hanya akan menurunkan jumlah pelanggan sebesar 5%. Total pendapatan kamu akan **naik**.
+- **Skenario B:** Jika elastisitasnya adalah \( 2,5 \) (elastis), maka kenaikan harga 10% akan membuat 25% pelanggan berhenti berlangganan. Total pendapatan kamu akan **anjlok**.
+
+**Penerapan Teknis di Perusahaan Modern:** Data Scientist di perusahaan teknologi atau layanan transportasi terus-menerus menghitung elastisitas ini menggunakan data *real-time*. Mereka menggunakan algoritma untuk menentukan kapan harus memberikan promo (diskon harga) untuk memicu lonjakan jumlah pesanan yang lebih besar daripada penurunan margin keuntungan per pesanan.
+
+## Ringkasan dan Tips Cepat
+
+- **Gunakan Rumus Titik** jika kamu hanya ingin tahu respons pada satu harga tertentu atau perubahannya relatif kecil.
+- **Gunakan Metode Nilai Tengah** jika kamu ingin hasil yang lebih akurat dan konsisten untuk perubahan harga yang cukup besar.
+- **Arah Pergerakan:** Ingatlah bahwa \( E_d > 1 \) berarti konsumen sangat sensitif (elastis), sementara \( E_d < 1 \) berarti konsumen tidak terlalu peduli dengan perubahan harga (inelastis).
+
+Sebagai gambaran, jika kamu menjual obat-obatan yang menyelamatkan nyawa, apakah kamu akan menggunakan pertimbangan elastisitas yang sama seperti saat menjual tiket konser? Produk mana yang kira-kira memiliki koefisien elastisitas lebih besar?
+
+> **Pesan Utama:** Angka elastisitas adalah "suara" konsumen yang diterjemahkan ke dalam bahasa matematika. Memahaminya berarti memahami seberapa besar kekuatan tawar-menawar yang kamu miliki di pasar.
+
+
+<!-- Chapter: 04_klasifikasi-dan-derajat-elastisitas-permintaan -->
+
+## Klasifikasi dan Derajat Elastisitas Permintaan
+
+Setelah memahami bagaimana cara menghitung koefisien elastisitas pada materi sebelumnya, pertanyaan besar berikutnya adalah: **"Apa arti dari angka-angka tersebut?"**
+
+Dalam dunia ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung "terjun bebas" saat harganya naik sedikit saja, namun ada juga barang yang permintaannya tetap kokoh meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
+
+### Analogi: Karet Gelang vs. Kawat Besi
+
+Bayangkan permintaan konsumen adalah sebuah benda yang ditarik oleh kekuatan bernama "Perubahan Harga".
+
+- Beberapa benda bersifat seperti **karet gelang yang sangat lentur**: ditarik sedikit saja, ia akan meregang sangat panjang (Elastis).
+- Beberapa benda seperti **karet yang kaku**: butuh tenaga besar untuk membuatnya berubah sedikit (Inelastis).
+- Bahkan ada benda yang seperti **kawat besi**: ditarik sekuat apa pun, panjangnya tidak berubah (Inelastis Sempurna).
+
+### 1. Permintaan Elastis (\\(|\\text{E}_d| > 1\\))
+
+Permintaan dikatakan elastis jika persentase perubahan jumlah barang yang diminta **lebih besar** daripada persentase perubahan harga. Konsumen dalam kategori ini sangat sensitif terhadap harga.
+
+- **Karakteristik:** Jika harga naik 10%, maka jumlah permintaan akan turun lebih dari 10%.
+- **Representasi Grafis:** Kurva cenderung **landai**. Hal ini menunjukkan bahwa sedikit pergeseran pada sumbu vertikal (Harga) mengakibatkan pergeseran besar pada sumbu horizontal (Jumlah).
+- **Contoh:** Barang-barang mewah (mobil sport, perhiasan) atau barang yang memiliki banyak substitusi (misalnya, merk sabun tertentu). Jika merk A naik harganya, konsumen dengan mudah pindah ke merk B.
+
+> **Pesan Penting:** Untuk barang elastis, strategi menaikkan harga seringkali justru menurunkan total pendapatan karena penurunan jumlah pembeli jauh lebih besar daripada kenaikan harga per unit.
+
+### 2. Permintaan Inelastis (\\(|\\text{E}_d| < 1\\))
+
+Permintaan inelastis terjadi ketika persentase perubahan jumlah yang diminta **lebih kecil** daripada persentase perubahan harga. Konsumen tidak terlalu peduli atau tidak memiliki banyak pilihan selain tetap membeli barang tersebut.
+
+- **Karakteristik:** Jika harga naik 10%, jumlah permintaan mungkin hanya turun 2% atau 5%.
+- **Representasi Grafis:** Kurva cenderung **curam**. Perubahan harga yang drastis hanya menyebabkan sedikit perubahan pada jumlah barang yang diminta.
+- **Contoh:** Barang kebutuhan pokok (beras, garam) atau kebutuhan mendesak (obat-obatan). Meskipun harga beras naik, orang tetap harus makan nasi.
+
+Sebagai contoh penerapan, pemerintah sering mengenakan pajak tinggi pada rokok atau bahan bakar karena barang-barang tersebut cenderung inelastis. Meskipun harga naik akibat pajak, konsumen tetap akan membelinya.
+
+### 3. Permintaan Unitary / Elastisitas Satuan (\\(|\\text{E}_d| = 1\\))
+
+Ini adalah kondisi "keseimbangan sempurna" di mana persentase perubahan harga diikuti oleh persentase perubahan jumlah permintaan dalam proporsi yang **sama persis**.
+
+- **Karakteristik:** Harga naik 10%, permintaan turun tepat 10%.
+- **Representasi Grafis:** Kurva membentuk garis melengkung yang disebut *rectangular hyperbola*.
+- **Contoh:** Secara teoritis sulit ditemukan secara absolut di dunia nyata, namun sering digunakan sebagai titik acuan bagi perusahaan dalam menentukan strategi harga yang optimal untuk menjaga pendapatan tetap stabil.
+
+### 4. Permintaan Inelastis Sempurna (\\(|\\text{E}_d| = 0\\))
+
+Ini adalah kondisi ekstrem di mana perubahan harga **sama sekali tidak berpengaruh** terhadap jumlah barang yang diminta.
+
+- **Karakteristik:** Berapa pun harganya (\\(P_1, P_2, P_3\\)), jumlah yang diminta tetap sama (\\(Q\\)).
+- **Representasi Grafis:** Kurva berbentuk **garis vertikal tegak lurus**.
+- **Contoh Dunia Nyata:** Obat-obatan penyelamat nyawa, seperti insulin bagi penderita diabetes. Berapa pun harganya, pasien harus membeli dosis yang sama untuk bertahan hidup.
+
+### 5. Permintaan Elastis Sempurna (\\(|\\text{E}_d| = \\infty\\))
+
+Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia membeli **berapa pun** jumlah barang. Namun, jika harga naik sedikit saja (bahkan hanya satu Rupiah), permintaan akan langsung jatuh ke angka nol.
+
+- **Karakteristik:** Penjual dapat menjual semua barangnya pada harga pasar, namun tidak ada yang mau membeli jika harga dinaikkan di atas harga tersebut.
+- **Representasi Grafis:** Kurva berbentuk **garis horizontal mendatar**.
+- **Contoh:** Barang dalam pasar persaingan sempurna, seperti hasil pertanian (gandum atau beras) di pasar induk yang standar mutunya sama persis. Jika satu petani menaikkan harga sendiri, pembeli akan langsung beralih ke ribuan petani lainnya yang harganya normal.
+
+### Ringkasan Perbandingan Derajat Elastisitas
+
+| Jenis Elastisitas | Nilai Koefisien (\\(|\\text{E}_d|\\)) | Deskripsi | Bentuk Kurva |
+| :--- | :--- | :--- | :--- |
+| **Elastis** | \\(|\\text{E}_d| > 1\\) | Responsif terhadap harga | Landai |
+| **Inelastis** | \\(|\\text{E}_d| < 1\\) | Kurang responsif | Curam |
+| **Unitary** | \\(|\\text{E}_d| = 1\\) | Perubahan proporsional | Melengkung (*Hyperbola*) |
+| **Inelastis Sempurna** | \\(|\\text{E}_d| = 0\\) | Tidak ada respon | Vertikal |
+| **Elastis Sempurna** | \\(|\\text{E}_d| = \\infty\\) | Respon tak terhingga | Horizontal |
+
+### Penerapan Nyata: Strategi Diskon
+
+Mengapa toko baju (fashion) sering memberikan diskon besar-besaran (misalnya 70%), sedangkan perusahaan listrik (PLN) atau penyedia air minum (PDAM) hampir tidak pernah melakukannya?
+
+1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis (\\(|\\text{E}_d| > 1\\)), sehingga total keuntungan meningkat karena volume penjualan yang masif.
+2. **Kebutuhan Publik (Inelastis):** Air dan listrik adalah kebutuhan pokok tanpa banyak alternatif. Jika PDAM memberikan diskon 50%, orang mungkin tidak akan menggunakan air dua kali lebih banyak dari biasanya karena kebutuhan manusia akan air terbatas. Penurunan harga hanya akan menurunkan total penerimaan perusahaan tanpa meningkatkan volume konsumsi secara bertambah banyak.
+
+### Latihan Refleksi
+
+*Jika kamu adalah seorang pengusaha yang menjual "Kopi Kekinian" di area yang memiliki 10 kedai kopi lain, menurut kamu masuk ke kategori manakah elastisitas permintaan produk kamu? Apa yang akan terjadi jika kamu menaikkan harga sebesar 20%?*
+
+
+<!-- Chapter: 05_determinan-yang-mempengaruhi-elastisitas-permintaan -->
+
+## Determinan yang Mempengaruhi Elastisitas Permintaan
+
+Mengapa kenaikan harga tiket pesawat sebesar 10% bisa membuat orang beralih menggunakan kereta api, sementara kenaikan harga garam sebesar 50% tidak membuat ibu rumah tangga berhenti membelinya? Jawabannya terletak pada **Determinan Elastisitas Permintaan**.
+
+Setelah memahami apa itu elastisitas dan bagaimana cara menghitungnya pada bab sebelumnya, sekarang kita akan membedah mengapa sebuah produk bisa sangat sensitif terhadap harga (elastis) atau justru sangat cuek terhadap perubahan harga (inelastis).
+
+## 1. Ketersediaan Barang Substitusi (Barang Pengganti)
+
+Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *food court*. Jika stan "Ayam Goreng A" menaikkan harganya secara drastis, kamu dengan mudah bisa bergeser ke stan "Ayam Goreng B" atau "Mie Goreng C".
+
+- **Banyak Substitusi = Lebih Elastis:** Semakin banyak barang pengganti yang tersedia dan mirip fungsinya, permintaan akan semakin elastis. Konsumen memiliki banyak pilihan untuk "kabur" saat harga naik.
+- **Sedikit/Tidak Ada Substitusi = Inelastis:** Jika suatu barang unik atau tidak ada penggantinya (seperti bensin atau obat-obatan tertentu), konsumen terpaksa tetap membeli meskipun harga melonjak.
+
+> **Analogi:** Bayangkan pintu keluar di sebuah gedung. Jika gedung memiliki 10 pintu keluar (substitusi), saat satu pintu ditutup/dihambat, orang akan dengan mudah lewat pintu lain. Namun jika hanya ada satu pintu (monopoli/tanpa substitusi), orang akan tetap mengantre di sana sesulit apa pun aksesnya.
+
+## 2. Tingkat Kepentingan Barang: Kebutuhan vs. Kemewahan
+
+Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu terhadap harganya.
+
+- **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang tetap akan membelinya karena sulit untuk bertahan hidup tanpanya.
+- **Barang Mewah (Luxuries):** Barang seperti jam tangan mahal, liburan ke luar negeri, atau perhiasan cenderung **elastis**. Jika harganya naik, orang bisa dengan mudah menunda pembelian atau membatalkannya karena barang tersebut bukan prioritas utama untuk bertahan hidup.
+
+Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
+
+## 3. Proporsi Pendapatan yang Dihabiskan
+
+Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan total pendapatan kamu sangat berpengaruh.
+
+- **Porsi Kecil (Inelastis):** Perhatikan harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
+- **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang sangat besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
+
+**Hubungan Matematis Sederhana:** Jika pengeluaran untuk barang \\( X \\) adalah \\( P \\times Q \\), maka:
+
+\\[ \text{Rasio Anggaran} = \frac{P \times Q}{\text{Total Pendapatan}} \\]
+
+Semakin besar rasio ini, semakin tinggi kecenderungan elastisitasnya.
+
+## 4. Jangka Waktu Analisis
+
+Waktu adalah faktor yang sering terlupakan namun sangat menentukan bagaimana konsumen beradaptasi.
+
+- **Jangka Pendek (Inelastis):** Saat harga bensin naik tiba-tiba hari ini, kamu mungkin tetap membelinya karena harus pergi bekerja dan belum punya alternatif lain. Permintaan cenderung kaku dalam jangka pendek.
+- **Jangka Panjang (Elastis):** Dalam jangka panjang, konsumen bisa menyesuaikan perilaku. Mereka mungkin mulai membeli motor listrik, menggunakan transportasi umum, atau pindah tempat tinggal yang lebih dekat dengan kantor.
+
+## 5. Definisi Pasar (Cakupan Barang)
+
+Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya.
+
+- **Pasar Luas:** Permintaan akan "Makanan" secara umum sangat inelastis. Tidak ada substitusi untuk makanan.
+- **Pasar Sempit:** Permintaan akan "Pizza Meat Lovers dari Brand X" sangat elastis. Jika harganya naik, konsumen bisa makan pasta, burger, atau pizza dari brand lain.
+
+## Tabel Ringkasan Determinan
+
+| Faktor | Permintaan cenderung **Inelastis** | Permintaan cenderung **Elastis** |
+| --- | --- | --- |
+| **Substitusi** | Sedikit/Tidak ada pengganti | Banyak pilihan pengganti |
+| **Jenis Barang** | Kebutuhan pokok | Barang mewah/tersier |
+| **Porsi Pendapatan** | Murah/Porsi kecil dari anggaran | Mahal/Porsi besar dari anggaran |
+| **Waktu** | Jangka pendek (mendadak) | Jangka panjang (adaptasi) |
+| **Definisi Barang** | Luas (misal: Pakaian) | Spesifik (misal: Jaket Denim Levi''s) |
+
+## Aplikasi Dunia Nyata: Strategi Bisnis
+
+**Skenario: Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
+
+1. **Substitusi:** Apakah di sebelah kedai kamu ada Starbucks atau Point Cafe? Jika ada, permintaan kamu **elastis**. Hati-hati menaikkan harga!
+2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.
+3. **Waktu:** Mungkin di minggu pertama kenaikan harga, pelanggan tetap datang (jangka pendek). Namun jika setelah sebulan mereka merasa terlalu mahal, mereka akan mulai membawa kopi sachet dari rumah (jangka panjang).
+
+> **Important:** Memahami determinan elastisitas membantu manajer pemasaran menentukan apakah strategi "Diskon Gede-Gedean" (cocok untuk barang elastis) atau "Premium Pricing" (cocok untuk barang inelastis) yang lebih efektif untuk meningkatkan profit.
+
+Sebagai gambaran, perhatikan barang terakhir yang kamu beli karena harganya sedang diskon. Apakah barang tersebut memiliki banyak substitusi, ataukah harganya memakan porsi besar dari uang saku kamu? Itulah elastisitas yang sedang bekerja dalam kehidupan sehari-hari.
+
+
+<!-- Chapter: 06_hubungan-elastisitas-permintaan-dengan-total-penerimaan -->
+
+## Hubungan Elastisitas Permintaan dengan Total Penerimaan
+
+Pernahkah kamu bertanya-tanya mengapa perusahaan seperti Apple jarang sekali memberikan diskon besar-besaran, sementara minimarket di dekat rumah kamu hampir setiap minggu memberikan promo "Beli 2 Gratis 1"? Jawabannya terletak pada strategi **Total Revenue** (total penerimaan) yang didasarkan pada **Elastisitas Permintaan**.
+
+Sebagai produsen atau pemilik bisnis, keputusan untuk menaikkan atau menurunkan harga adalah pedang bermata dua. Jika kamu menaikkan harga, kamu mendapat lebih banyak uang per unit, tetapi jumlah pelanggan mungkin berkurang. Di sinilah pemahaman tentang hubungan antara elastisitas dan total penerimaan menjadi sangat penting.
+
+### 1. Memahami Total Penerimaan (Total Revenue)
+
+Sebelum masuk ke hubungan dengan elastisitas, kita harus menyamakan persepsi tentang apa itu **Total Penerimaan (Total Revenue/\\( \text{TR} \\))**.
+
+Secara sederhana, Total Penerimaan adalah seluruh uang yang diterima oleh perusahaan dari hasil penjualan barang atau jasa. Rumusnya sangat mendasar:
+
+\\[ \text{TR} = P \times Q \\]
+
+Di mana:
+
+- \\( \text{TR} \\) = Total Revenue (Total Penerimaan)
+- \\( P \\) = Price (Harga per unit)
+- \\( Q \\) = Quantity (Jumlah unit yang terjual)
+
+> **Insight Penting:** Perubahan dalam \\( \text{TR} \\) sangat bergantung pada mana yang lebih dominan: **kenaikan harga (\\( P \\))** atau **penurunan jumlah permintaan (\\( Q \\))**. Hukum permintaan menyatakan bahwa jika \\( P \\) naik, \\( Q \\) pasti turun. Elastisitas memberi tahu kita *seberapa besar* penurunan \\( Q \\) tersebut.
+
+### 2. Tiga Skenario Utama: Elastisitas vs. Total Revenue
+
+Efek perubahan harga terhadap total penerimaan akan berbeda-beda tergantung pada derajat elastisitas barang tersebut.
+
+#### A. Permintaan Elastis (\\( E_d > 1 \\))
+
+Pada kondisi ini, konsumen sangat sensitif terhadap perubahan harga. Perubahan harga yang sedikit saja akan memicu perubahan jumlah permintaan yang jauh lebih besar.
+
+- **Jika Harga Turun:** Persentase kenaikan jumlah yang diminta (\\( Q \\)) lebih besar daripada persentase penurunan harga (\\( P \\)). Hasilnya, **Total Revenue akan naik**.
+- **Jika Harga Naik:** Persentase penurunan jumlah yang diminta (\\( Q \\)) lebih besar daripada persentase kenaikan harga (\\( P \\)). Hasilnya, **Total Revenue akan turun**.
+
+**Analogi:** Bayangkan kamu menjual es jeruk di pasar yang memiliki 20 penjual es jeruk lainnya. Jika kamu menaikkan harga sedikit saja, pelanggan akan langsung pindah ke penjual sebelah. Pendapatan kamu akan anjlok.
+
+#### B. Permintaan Inelastis (\\( E_d < 1 \\))
+
+Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini terjadi pada barang kebutuhan pokok atau barang yang tidak memiliki banyak substitusi.
+
+- **Jika Harga Turun:** Persentase kenaikan jumlah yang diminta (\\( Q \\)) lebih kecil daripada persentase penurunan harga (\\( P \\)). Hasilnya, **Total Revenue akan turun**.
+- **Jika Harga Naik:** Persentase penurunan jumlah yang diminta (\\( Q \\)) lebih kecil daripada persentase kenaikan harga (\\( P \\)). Hasilnya, **Total Revenue akan naik**.
+
+**Analogi:** Bayangkan kamu adalah satu-satunya penyedia air bersih di sebuah desa terpencil. Jika kamu menaikkan harga, orang-orang mungkin akan sedikit lebih hemat, tetapi mereka tetap harus membeli air dari kamu karena membutuhkannya untuk bertahan hidup.
+
+#### C. Permintaan Elastis Uniter (\\( E_d = 1 \\))
+
+Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
+
+- **Jika Harga Naik atau Turun:** Persentase perubahan harga (\\( P \\)) sama persis dengan persentase perubahan jumlah yang diminta (\\( Q \\)). Hasilnya, **Total Revenue tetap sama (konstan)**.
+
+### 3. Ringkasan Strategi untuk Produsen
+
+Untuk memudahkan pengambilan keputusan, perhatikan tabel strategi di bawah ini:
+
+| Perubahan Harga | Permintaan Elastis (\\( E_d > 1 \\)) | Permintaan Inelastis (\\( E_d < 1 \\)) | Permintaan Uniter (\\( E_d = 1 \\)) |
+| --- | --- | --- | --- |
+| **Harga Naik (\\( \uparrow \\))** | \\( \text{TR} \\) Turun (\\( \downarrow \\)) | \\( \text{TR} \\) Naik (\\( \uparrow \\)) | \\( \text{TR} \\) Tetap |
+| **Harga Turun (\\( \downarrow \\))** | \\( \text{TR} \\) Naik (\\( \uparrow \\)) | \\( \text{TR} \\) Turun (\\( \downarrow \\)) | \\( \text{TR} \\) Tetap |
+
+Sebagai contoh, jika seseorang menjadi manajer pemasaran produk garam dapur, menyarankan diskon besar-besaran untuk meningkatkan total pendapatan bukanlah langkah yang tepat, karena konsumen tidak akan memasak lebih asin hanya karena harga garam turun.
+
+### 4. Analisis Grafis: Kurva Total Revenue
+
+Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena yang menarik. Kurva Total Revenue biasanya berbentuk seperti huruf "U" terbalik (parabola).
+
+1. **Bagian Atas (Elastis):** Saat harga masih tinggi, permintaan berada di wilayah elastis. Menurunkan harga akan meningkatkan \\( \text{TR} \\).
+2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu (\\( E_d = 1 \\)).
+3. **Bagian Bawah (Inelastis):** Setelah melewati titik puncak, jika harga terus diturunkan, permintaan masuk ke wilayah inelastis. Menurunkan harga lebih lanjut justru akan mengurangi \\( \text{TR} \\).
+
+\\[ \text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1 \\]
+
+### 5. Aplikasi Dunia Nyata & Kasus Bisnis
+
+#### Kasus 1: Industri Maskapai Penerbangan
+
+Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan \\( \text{TR} \\) maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar \\( \text{TR} \\) tetap naik.
+
+#### Kasus 2: Tarif Tol
+
+Pemerintah atau pengelola jalan tol sering menaikkan tarif tol. Karena jalan tol sering kali tidak memiliki substitusi yang sepadan (jalan arteri yang macet), permintaannya cenderung inelastis. Kenaikan tarif biasanya berujung pada kenaikan total pendapatan bagi pengelola tol.
+
+#### Kasus 3: Produk Teknologi (Smartphone)
+
+Saat sebuah model smartphone baru diluncurkan, produsen menyasar kelompok *early adopters* (inelastis). Namun, setelah beberapa bulan, mereka mulai memberikan potongan harga atau paket *bundling* untuk menarik massa yang lebih luas (segmen elastis), guna memaksimalkan sisa penerimaan dari model tersebut.
+
+### 6. Kesimpulan untuk Strategi Penetapan Harga
+
+Memahami hubungan ini membantu produsen menghindari kesalahan dalam penetapan harga:
+
+1. **Jangan memotong harga** jika produk kamu bersifat **inelastis**, karena kamu hanya akan kehilangan uang tanpa mendapatkan cukup banyak pelanggan baru untuk menutupi kerugian tersebut.
+2. **Jangan menaikkan harga** jika produk kamu bersifat **sangat elastis**, karena pelanggan akan berpindah dalam jumlah besar, dan total uang di kasir kamu akan berkurang drastis.
+3. **Tujuan akhir** perusahaan yang ingin memaksimalkan pendapatan adalah mencoba menetapkan harga sedemikian rupa sehingga mereka beroperasi sedekat mungkin dengan titik **elastisitas uniter**.
+
+> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau justru membuatnya lebih murah.
+
+
+<!-- Chapter: 07_konsep-dasar-elastisitas-harga-penawaran -->
+
+## Konsep Dasar Elastisitas Harga Penawaran (Price Elasticity of Supply)
+
+Selamat datang di pembahasan mengenai sisi lain dari pasar: **Sisi Produsen**. Jika sebelumnya kita telah mempelajari bagaimana konsumen bereaksi terhadap harga, sekarang saatnya kita masuk ke posisi para pemilik pabrik, petani, dan penyedia jasa.
+
+Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa meroket tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
+
+## Apa Itu Elastisitas Harga Penawaran?
+
+Secara sederhana, **Elastisitas Harga Penawaran (Price Elasticity of Supply atau PES)** mengukur seberapa sensitif atau responsif para produsen terhadap perubahan harga di pasar.
+
+Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, pertanyaannya adalah: **Mampukah mereka?**
+
+> **Insight:** Elastisitas penawaran berfokus pada kemampuan produsen dalam menyesuaikan jumlah produksi ketika harga berubah, bukan sekadar kemauan untuk menjual.
+
+Jika produsen dapat dengan mudah meningkatkan produksi saat harga naik sedikit saja, maka penawaran dikatakan **elastis**. Sebaliknya, jika produsen sulit menambah produksi meskipun harga melonjak tinggi, maka penawaran dikatakan **inelastis**.
+
+## Analogi: Karet Gelang vs. Kawat Baja
+
+Untuk memahami konsep ini, bayangkan dua jenis respon produksi:
+
+1. **Si Karet Gelang (Elastis):** Bayangkan sebuah pabrik percetakan kaos digital. Jika harga kaos tiba-tiba naik, mereka hanya perlu membeli lebih banyak kaos polos dan menjalankan mesin lebih lama. Produksi bisa "melar" dengan cepat mengikuti harga.
+2. **Si Kawat Baja (Inelastis):** Bayangkan sebuah perkebunan jati. Jika harga kayu jati naik hari ini, petani tidak bisa langsung memanen lebih banyak pohon karena pohon jati butuh waktu puluhan tahun untuk tumbuh. Produksi "kaku" dan sulit berubah dalam jangka pendek.
+
+## Mengapa Respons Produsen Berbeda-beda?
+
+Responsivitas produsen ditentukan oleh sejauh mana mereka dapat menggeser sumber daya (bahan baku, tenaga kerja, modal) untuk menghasilkan produk tersebut. Secara konseptual, ada dua pilar utama yang menentukan tingkat respons ini:
+
+### 1. Fleksibilitas Penyesuaian
+
+Produsen yang memiliki stok barang melimpah atau kapasitas mesin yang masih menganggur akan lebih responsif. Mereka bisa langsung mengirim barang ke pasar begitu harga naik.
+
+### 2. Dimensi Waktu
+
+Ini adalah faktor paling utama dalam elastisitas penawaran.
+
+- **Seketika (Market Period):** Produsen tidak bisa mengubah apa pun. Apa yang ada di pasar, itulah yang dijual.
+- **Jangka Pendek:** Produsen bisa menambah jam kerja lembur, tapi tidak bisa membangun pabrik baru.
+- **Jangka Panjang:** Produsen bisa membangun fasilitas baru atau masuk ke industri baru, membuat penawaran menjadi sangat elastis.
+
+## Logika Matematika Sederhana
+
+Meskipun detail perhitungan akan dibahas di bagian selanjutnya, secara konsep, koefisien elastisitas penawaran (\\( E_s \\)) dirumuskan sebagai:
+
+\\[ E_s = \frac{\% \text{ Perubahan Jumlah Barang yang Ditawarkan}}{\% \text{ Perubahan Harga}} \\]
+
+Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau keduanya turun), maka nilai \\( E_s \\) akan selalu **positif**.
+
+- Jika \\( E_s > 1 \\): Penawaran sangat responsif (Elastis).
+- Jika \\( E_s < 1 \\): Penawaran kurang responsif (Inelastis).
+
+## Aplikasi Dunia Nyata: Uber dan "Surge Pricing"
+
+Salah satu contoh paling modern dari konsep elastisitas penawaran adalah sistem **Surge Pricing** (kenaikan harga saat permintaan tinggi) pada aplikasi transportasi online seperti Uber atau Grab.
+
+**Skenarionya:** Saat hujan deras, permintaan meningkat. Uber menaikkan harga secara otomatis. Mengapa?
+
+1. **Insentif bagi Produsen:** Harga yang lebih tinggi menarik pengemudi yang sedang beristirahat untuk segera masuk ke jalan (meningkatkan penawaran).
+2. **Respons Cepat:** Karena pengemudi memiliki mobilitas tinggi, mereka bisa merespons perubahan harga dalam hitungan menit. Ini adalah contoh layanan dengan penawaran yang sangat **elastis**.
+
+Jika Uber tidak menaikkan harga saat hujan, jumlah pengemudi di jalan tidak akan bertambah karena tidak ada insentif tambahan untuk menembus kemacetan dan hujan.
+
+## Perbandingan Cepat: Responsivitas Produk
+
+| Jenis Produk | Karakteristik Penawaran | Mengapa? |
+| --- | --- | --- |
+| **Produk Manufaktur (Paku, Kertas)** | Cenderung Elastis | Bisa diproduksi massal dan disimpan sebagai stok. |
+| **Produk Pertanian (Padi, Buah)** | Cenderung Inelastis | Butuh waktu tanam dan tergantung musim. |
+| **Barang Antik / Lukisan Langka** | Inelastis Sempurna | Jumlahnya tetap, tidak bisa ditambah berapa pun harganya. |
+| **Software / Produk Digital** | Sangat Elastis | Menambah satu salinan digital biayanya hampir nol dan instan. |
+
+> **Rangkuman Penting:** Elastisitas penawaran mencerminkan kecepatan dan kemudahan produsen dalam bereaksi terhadap peluang keuntungan. Semakin mudah faktor produksi didapat dan semakin lama waktu yang tersedia, semakin elastis penawaran suatu barang.
+
+
+<!-- Chapter: 08_teknik-penghitungan-koefisien-elastisitas-penawaran -->
+
+## Teknik Penghitungan Koefisien Elastisitas Penawaran
+
+Setelah memahami konsep dasar mengapa produsen bereaksi terhadap perubahan harga, pertanyaan besar selanjutnya adalah: **"Seberapa besar reaksi tersebut?"**
+
+Dalam dunia ekonomi, kita tidak cukup hanya mengatakan bahwa penawaran "naik sedikit" atau "naik banyak". Kita membutuhkan angka pasti untuk mengambil keputusan bisnis yang akurat. Di sinilah **Teknik Penghitungan Koefisien Elastisitas Penawaran (\\( \text{E}_s \\))** berperan. Materi ini akan memandu kamu menerapkan rumus matematika secara sistematis untuk mengukur derajat kepekaan penawaran.
+
+## 1. Rumus Dasar: Metode Persentase
+
+Metode ini adalah cara paling sederhana untuk melihat hubungan antara perubahan harga dan perubahan jumlah barang yang ditawarkan. Secara matematis, koefisien elastisitas penawaran (\\( \text{E}_s \\)) dihitung dengan membagi persentase perubahan jumlah barang yang ditawarkan dengan persentase perubahan harga.
+
+### Rumus Umum:
+
+\\[ \text{E}_s = \frac{\% \Delta \text{Q}_s}{\% \Delta \text{P}} \\]
+
+Di mana:
+
+- \\( \% \Delta \text{Q}_s \\): Persentase perubahan jumlah barang yang ditawarkan.
+- \\( \% \Delta \text{P} \\): Persentase perubahan harga.
+
+**Langkah-langkah penghitungan:**
+
+1. Hitung perubahan jumlah: \\( \Delta \text{Q} = \text{Q}_2 - \text{Q}_1 \\)
+2. Hitung perubahan harga: \\( \Delta \text{P} = \text{P}_2 - \text{P}_1 \\)
+3. Masukkan ke dalam rumus turunan: \\( \text{E}_s = \frac{\Delta \text{Q}}{\Delta \text{P}} \times \frac{\text{P}_1}{\text{Q}_1} \\)
+
+> **Penting:** Berbeda dengan elastisitas permintaan yang biasanya bernilai negatif (karena hukum permintaan), koefisien elastisitas penawaran hampir selalu bernilai **positif**. Hal ini mencerminkan Hukum Penawaran: saat harga naik, produsen cenderung menawarkan lebih banyak barang.
+
+## 2. Metode Nilai Tengah (Midpoint Method)
+
+Bayangkan kamu seorang analis data. Jika kamu menghitung elastisitas dari harga Rp10.000 ke Rp12.000, hasilnya mungkin berbeda jika kamu menghitung arah sebaliknya (dari Rp12.000 ke Rp10.000). Untuk menghindari inkonsistensi ini, para ekonom menggunakan **Metode Nilai Tengah (Arc Elasticity)**.
+
+Metode ini menghitung perubahan relatif terhadap **rata-rata** dari nilai awal dan nilai akhir.
+
+### Rumus Midpoint:
+
+\\[ \text{E}_s = \frac{(\text{Q}_2 - \text{Q}_1) / [(\text{Q}_2 + \text{Q}_1) / 2]}{(\text{P}_2 - \text{P}_1) / [(\text{P}_2 + \text{P}_1) / 2]} \\]
+
+Penggunaan rata-rata ini sangat penting karena dalam bisnis, kita seringkali membutuhkan angka yang stabil terlepas dari apakah kita sedang merencanakan kenaikan harga atau mengantisipasi penurunan harga.
+
+## 3. Analogi: Koki dan Pesanan Mendadak
+
+Untuk memahami angka koefisien ini, bayangkan sebuah restoran:
+
+- **Penawaran Inelastis (\\( \text{E}_s < 1 \\)):** Seperti koki yang hanya punya satu kompor. Meskipun harga makanan naik 50%, dia tetap tidak bisa memasak lebih cepat karena keterbatasan fisik alat. Perubahan jumlah (\\( \text{Q} \\)) lebih kecil daripada perubahan harga (\\( \text{P} \\)).
+- **Penawaran Elastis (\\( \text{E}_s > 1 \\)):** Seperti koki yang memiliki banyak asisten dan bahan baku yang melimpah. Begitu harga naik sedikit saja, dia bisa langsung melipatgandakan produksinya dengan cepat.
+
+## 4. Panduan Langkah-demi-Langkah (Studi Kasus)
+
+Mari kita terapkan rumus di atas ke dalam skenario nyata.
+
+**Skenario:** Sebuah pabrik sepatu awalnya memproduksi 1.000 pasang sepatu saat harga pasar Rp200.000. Ketika harga naik menjadi Rp250.000, pabrik tersebut meningkatkan produksinya menjadi 1.500 pasang.
+
+**Data:**
+
+- \\( \text{P}_1 = 200.000 \\)
+- \\( \text{P}_2 = 250.000 \\)
+- \\( \text{Q}_1 = 1.000 \\)
+- \\( \text{Q}_2 = 1.500 \\)
+
+**Penghitungan menggunakan Rumus Turunan:**
+
+1. Cari \\( \Delta \text{Q} \\): \\( 1.500 - 1.000 = 500 \\)
+2. Cari \\( \Delta \text{P} \\): \\( 250.000 - 200.000 = 50.000 \\)
+3. Masukkan ke rumus: \\( \text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} \\) \\( \text{E}_s = 0,01 \times 200 \\) \\( \text{E}_s = 2 \\)
+
+**Interpretasi:** Nilai \\( \text{E}_s = 2 \\) berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
+
+## 5. Implementasi Teknis: Menghitung dengan Kode (Python)
+
+Jika kamu bekerja dengan data besar, penghitungan manual tentu tidak efisien. Berikut adalah cuplikan kode sederhana untuk menghitung elastisitas penawaran:
+
+```python
+def hitung_elastisitas_penawaran(p1, p2, q1, q2):
+    # Menggunakan metode midpoint untuk akurasi lebih baik
+    perubahan_q = q2 - q1
+    rata_rata_q = (q1 + q2) / 2
+    persen_perubahan_q = perubahan_q / rata_rata_q
+    
+    perubahan_p = p2 - p1
+    rata_rata_p = (p1 + p2) / 2
+    persen_perubahan_p = perubahan_p / rata_rata_p
+    
+    es = persen_perubahan_q / persen_perubahan_p
+    return round(es, 2)
+
+# Contoh Penggunaan
+harga_awal = 200000
+harga_baru = 250000
+jumlah_awal = 1000
+jumlah_baru = 1500
+
+hasil = hitung_elastisitas_penawaran(harga_awal, harga_baru, jumlah_awal, jumlah_baru)
+print(f"Koefisien Elastisitas Penawaran (Midpoint): {hasil}")
+```
+
+## 6. Real-world Application: Industri Agrikultur vs. Manufaktur
+
+Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:
+
+1. **Industri Agrikultur (Contoh: Petani Padi):** Meskipun harga padi di pasar melonjak hari ini, petani tidak bisa langsung memanen lebih banyak padi besok pagi. Proses biologis membutuhkan waktu. Saat dihitung, nilai \\( \text{E}_s \\) padi dalam jangka pendek biasanya **rendah (inelastis)**.
+2. **Industri Digital (Contoh: Software sebagai Layanan/SaaS):** Jika harga langganan sebuah aplikasi naik dan permintaan tetap ada, perusahaan bisa menambah kapasitas server (penawaran) dalam hitungan menit untuk melayani jutaan pengguna baru. Nilai \\( \text{E}_s \\) untuk produk digital cenderung **sangat tinggi (elastis)** karena hambatan produksinya rendah.
+
+### Rangkuman Alur Kerja Analisis:
+
+- **Identifikasi Perubahan:** Tentukan harga dan kuantitas sebelum dan sesudah.
+- **Pilih Metode:** Gunakan persentase untuk perubahan kecil, gunakan nilai tengah untuk analisis yang lebih formal.
+- **Hitung & Evaluasi:** Peroleh angka koefisien.
+- **Ambil Keputusan:** Gunakan angka tersebut untuk menentukan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
+
+> **Insight Penutup:** Angka elastisitas penawaran adalah "radar" bagi manajer operasional. Semakin tinggi angkanya, semakin lincah perusahaan kamu berdansa dengan fluktuasi harga pasar.
+
+
+<!-- Chapter: 09_variasi-derajat-elastisitas-penawaran -->
+
+## Variasi Derajat Elastisitas Penawaran
+
+Setelah memahami bagaimana cara menghitung koefisien elastisitas penawaran \\( (E_s) \\), langkah selanjutnya adalah memahami apa arti dari angka-angka tersebut. Dalam dunia nyata, respon produsen terhadap perubahan harga tidaklah seragam. Ada produsen yang bisa dengan sangat cepat menambah produksi saat harga naik, namun ada juga yang "tangannya terikat" oleh keterbatasan sumber daya.
+
+Derajat elastisitas penawaran mengelompokkan tingkat sensitivitas ini ke dalam lima kategori utama. Memahami kategori ini membantu kita memprediksi bagaimana pasar akan bereaksi terhadap guncangan harga.
+
+## 1. Penawaran Inelastis Sempurna \\( (E_s = 0) \\)
+
+Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah**, berapapun perubahan harga yang terjadi di pasar. Produsen benar-benar tidak mampu menambah atau mengurangi jumlah barang yang tersedia.
+
+- **Analogi:** Bayangkan sebuah stadion sepak bola dengan kapasitas 50.000 kursi. Meskipun harga tiket naik dari Rp100.000 menjadi Rp10.000.000, pengelola tidak bisa tiba-tiba membangun kursi tambahan dalam semalam. Jumlah kursi tetap 50.000.
+- **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus vertikal**.
+- **Contoh Nyata:** Tanah di lokasi spesifik, lukisan karya seniman yang sudah meninggal, atau produk dengan kapasitas produksi yang sudah mencapai batas maksimal absolut dalam jangka sangat pendek.
+
+## 2. Penawaran Inelastis \\( (0 < E_s < 1) \\)
+
+Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditawarkan **lebih kecil** daripada persentase perubahan harganya. Artinya, produsen kurang responsif terhadap perubahan harga.
+
+- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menariknya dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
+- **Bentuk Kurva:** Kurva penawaran cenderung **curam (steep)**.
+- **Contoh Nyata:** Produk pertanian seperti padi. Meskipun harga padi melonjak hari ini, petani tidak bisa langsung memanen padi besok pagi. Mereka butuh waktu musim tanam, sehingga tambahan penawaran di pasar akan terbatas dalam jangka pendek.
+
+## 3. Penawaran Elastis Uniter \\( (E_s = 1) \\)
+
+Kondisi ini terjadi ketika persentase perubahan harga diikuti oleh persentase perubahan jumlah penawaran dalam **proporsi yang persis sama**.
+
+- **Matematika:** Jika harga naik \\( 10\% \\), maka jumlah penawaran juga naik tepat \\( 10\% \\).
+- **Bentuk Kurva:** Kurva penawaran membentuk garis diagonal yang **dimulai dari titik pusat (origin) 0**.
+- **Catatan:** Dalam praktik lapangan, elastisitas uniter seringkali menjadi titik teoritis atau transisi antara kondisi inelastis dan elastis.
+
+## 4. Penawaran Elastis \\( (1 < E_s < \infty) \\)
+
+Penawaran dikatakan elastis jika persentase perubahan jumlah barang yang ditawarkan **lebih besar** daripada persentase perubahan harganya. Produsen sangat responsif dan mampu menyesuaikan produksi dengan cepat.
+
+- **Analogi:** Seperti koki di restoran *fast food*. Jika harga burger naik dan permintaan melonjak, koki hanya perlu mengambil lebih banyak bahan baku dari kulkas dan memasak lebih cepat. Kapasitas bisa ditambah dengan mudah.
+- **Bentuk Kurva:** Kurva penawaran cenderung **landai (flat)**.
+- **Contoh Nyata:** Barang-barang hasil industri manufaktur seperti pakaian, elektronik, atau mainan. Jika harga naik, pabrik tinggal menambah jam lembur karyawan atau mengaktifkan mesin yang menganggur untuk menambah output.
+
+## 5. Penawaran Elastis Sempurna \\( (E_s = \infty) \\)
+
+Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memasok **jumlah berapapun** (tak terhingga). Namun, jika harga turun sedikit saja di bawah harga tersebut, penawaran akan langsung jatuh ke angka nol.
+
+- **Konsep:** Harga ditentukan oleh pasar, dan produsen adalah *price taker*.
+- **Bentuk Kurva:** Kurva penawaran berbentuk **garis lurus horizontal**.
+- **Contoh Nyata:** Meskipun sulit ditemukan dalam bentuk murni, pasar komoditas global sering mendekati kondisi ini. Misalnya, seorang petani kecil di pasar gandum internasional. Ia bisa menjual berapapun gandumnya pada harga pasar dunia, tetapi jika ia menaikkan harga sedikit saja, tidak akan ada yang membeli darinya karena pembeli punya akses ke jutaan petani lain pada harga pasar.
+
+## Ringkasan Visual Derajat Elastisitas
+
+| Jenis Elastisitas | Nilai Koefisien \\( (E_s) \\) | Deskripsi Respon | Bentuk Kurva |
+| --- | --- | --- | --- |
+| **Inelastis Sempurna** | \\( E_s = 0 \\) | Tidak ada respon | Vertikal |
+| **Inelastis** | \\( E_s < 1 \\) | Respon tidak sensitif | Curam |
+| **Elastis Uniter** | \\( E_s = 1 \\) | Respon proporsional | Diagonal dari nol |
+| **Elastis** | \\( E_s > 1 \\) | Respon sangat sensitif | Landai |
+| **Elastis Sempurna** | \\( E_s = \infty \\) | Respon tak terhingga | Horizontal |
+
+## Aplikasi Praktis & Simulasi Teknis
+
+Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering menggunakan algoritma sederhana untuk mengklasifikasikan data penjualan berdasarkan elastisitasnya.
+
+### Contoh Skenario Dunia Nyata
+
+Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 (\\( +20\% \\)). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan (\\( +50\% \\)).
+
+**Penghitungan Cepat:**
+\\[ E_s = \frac{50\%}{20\%} = 2{,}5 \\]
+
+Karena \\( 2{,}5 > 1 \\), maka penawaran sepatu tersebut termasuk kategori **Elastis**.
+
+### Kode Snippet (Python): Klasifikasi Elastisitas Otomatis
+
+Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:
+
+```python
+def classify_supply_elasticity(price_change_pct, quantity_change_pct):
+    if price_change_pct == 0:
+        return "Undefined (Price change cannot be zero)"
+    
+    # Menghitung Koefisien Es
+    es = abs(quantity_change_pct / price_change_pct)
+    
+    if es == 0:
+        return f"Es = {es}: Inelastis Sempurna"
+    elif 0 < es < 1:
+        return f"Es = {es}: Inelastis"
+    elif es == 1:
+        return f"Es = {es}: Unitary"
+    elif es > 1:
+        # Menangani nilai yang sangat besar sebagai tak terhingga secara praktis
+        if es > 100: 
+            return f"Es = {es}: Elastis Sempurna (Pendekatan)"
+        return f"Es = {es}: Elastis"
+
+# Contoh penggunaan:
+# Harga naik 20%, Penawaran naik 50%
+print(classify_supply_elasticity(20, 50)) 
+# Output: Es = 2.5: Elastis
+```
+
+## Mengapa Memahami Variasi Ini Penting?
+
+> **Insight Penting:** Bagi pemerintah, memahami derajat elastisitas penawaran sangat penting saat akan menerapkan pajak. Jika penawaran suatu barang **inelastis** (seperti bensin atau tanah), maka produsen tidak bisa menghindar dengan mengurangi produksi, sehingga beban pajak akan lebih banyak ditanggung oleh pihak yang kurang fleksibel dalam menyesuaikan diri.
+
+Sebagai pengusaha, memiliki fleksibilitas produksi yang tinggi memungkinkan bisnis berada di kategori penawaran elastis. Hal ini membuat perusahaan dapat merespon lonjakan harga pasar secara cepat dan memaksimalkan potensi keuntungan.
+
+
+<!-- Chapter: 10_faktor-faktor-penentu-elastisitas-penawaran -->
+
+## Faktor-Faktor Penentu Elastisitas Penawaran: Mengapa Produsen Bereaksi Berbeda?
+
+Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, pabrik-pabrik bisa langsung memproduksi jutaan unit dalam sekejap, namun ketika harga durian meroket, jumlah durian di pasar tetap terbatas?
+
+Perbedaan kecepatan dan kemampuan produsen untuk merespons perubahan harga inilah yang kita sebut sebagai **Elastisitas Penawaran**. Namun, apa sebenarnya yang membuat penawaran sebuah produk sangat fleksibel (elastis) sementara produk lainnya sangat kaku (inelastis)?
+
+Mari kita bedah faktor-faktor kunci yang menentukan "kelincahan" produsen dalam merespons pasar.
+
+### 1. Kapasitas Produksi (Production Capacity)
+
+Kapasitas produksi adalah batas maksimal output yang dapat dihasilkan oleh sebuah perusahaan dengan sumber daya yang dimilikinya saat ini.
+
+- **Kapasitas Berlebih (Idle Capacity):** Jika sebuah pabrik saat ini hanya beroperasi 50% dari total kemampuan mesinnya, maka ketika harga barang naik, mereka dapat dengan mudah meningkatkan produksi dengan menyalakan mesin yang menganggur. Dalam kondisi ini, penawaran cenderung **elastis**.
+- **Kapasitas Penuh (Full Capacity):** Sebaliknya, jika pabrik sudah bekerja 24 jam sehari dengan semua mesin beroperasi maksimal, kenaikan harga tidak akan bisa langsung direspon dengan penambahan produksi. Mereka butuh waktu untuk membangun pabrik baru atau menambah mesin. Dalam kondisi ini, penawaran menjadi **inelastis**.
+
+> **Analogi:** Bayangkan sebuah restoran yang memiliki 20 meja tetapi hanya 5 meja yang terisi. Jika tiba-tiba ada rombongan besar datang karena diskon harga, restoran bisa langsung melayani (elastis). Namun, jika semua meja sudah penuh dan ada antrean di luar, restoran tidak bisa melayani lebih banyak orang seberapa pun mahalnya mereka mau membayar (inelastis).
+
+### 2. Mobilitas Faktor Produksi
+
+Seberapa mudah tenaga kerja, modal, dan bahan baku dipindahkan dari satu penggunaan ke penggunaan lainnya?
+
+- **Mobilitas Tinggi:** Jika proses produksi hanya memerlukan tenaga kerja umum (unskilled labor) dan bahan baku yang mudah didapat, produsen bisa dengan cepat beralih memproduksi barang yang harganya sedang naik. Ini membuat penawaran **elastis**.
+- **Mobilitas Rendah:** Jika produksi memerlukan tenaga ahli spesifik atau mesin yang sangat khusus, produsen akan sulit menambah kapasitas dalam waktu singkat. Contohnya, memproduksi pesawat terbang memerlukan teknisi tingkat tinggi dan sertifikasi rumit, sehingga penawarannya cenderung **inelastis**.
+
+### 3. Kemampuan Menyimpan Stok (Inventory/Stockability)
+
+Faktor ini sangat bergantung pada sifat fisik barang yang diproduksi.
+
+- **Barang Tahan Lama (Durable Goods):** Barang seperti baja, baju, atau gadget dapat disimpan dalam gudang. Jika harga turun, produsen menyimpan barangnya. Jika harga naik, mereka tinggal mengeluarkan stok dari gudang. Hal ini membuat penawaran lebih **elastis**.
+- **Barang Mudah Rusak (Perishable Goods):** Produk seperti sayuran, buah-buahan, atau ikan segar tidak bisa disimpan lama. Produsen harus segera menjualnya berapa pun harganya di pasar sebelum membusuk. Oleh karena itu, penawaran barang-barang ini cenderung **inelastis**.
+
+Lantas, bagaimana dengan sektor jasa (seperti layanan potong rambut atau kursi pesawat yang kosong)? Karena jasa tidak bisa disimpan untuk masa depan, elastisitas penawarannya cenderung lebih kaku saat terjadi lonjakan permintaan secara tiba-tiba.
+
+### 4. Peranan Dimensi Waktu (The Key Factor)
+
+Dimensi waktu adalah faktor paling penting dalam menentukan elastisitas penawaran. Secara umum, semakin lama waktu yang dimiliki produsen untuk beradaptasi, semakin elastis penawarannya.
+
+Ekonomi membaginya menjadi tiga periode waktu:
+
+#### A. Jangka Waktu Sangat Pendek (Momentary/Market Period)
+
+Dalam periode ini, semua faktor produksi bersifat tetap. Produsen tidak bisa mengubah jumlah produksinya sama sekali.
+
+- **Contoh:** Petani yang baru saja tiba di pasar dengan satu truk tomat. Seberapa pun tingginya harga tomat di pasar hari itu, dia tidak bisa tiba-tiba "menyulap" satu truk lagi.
+- **Elastisitas:** Inelastis Sempurna (\(\text{E}_s = 0\)).
+
+#### B. Jangka Pendek (Short Run)
+
+Produsen dapat mengubah beberapa faktor produksi (seperti menambah jam lembur atau menambah bahan baku), tetapi tidak bisa mengubah kapasitas total (seperti membangun pabrik baru).
+
+- **Kondisi:** Penawaran mulai menunjukkan fleksibilitas tetapi masih terbatas.
+- **Elastisitas:** Cenderung Inelastis (\(\text{E}_s < 1\)).
+
+#### C. Jangka Panjang (Long Run)
+
+Semua faktor produksi bersifat variabel. Perusahaan bisa membangun pabrik baru, membeli mesin tambahan, atau perusahaan baru bisa masuk ke industri tersebut.
+
+- **Kondisi:** Respons terhadap perubahan harga sangat maksimal.
+- **Elastisitas:** Elastis (\(\text{E}_s > 1\)).
+
+### Ringkasan Visual Faktor Elastisitas
+
+| Faktor | Penawaran Elastis (Fleksibel) | Penawaran Inelastis (Kaku) |
+| --- | --- | --- |
+| **Kapasitas** | Banyak kapasitas menganggur | Sudah mencapai batas maksimal |
+| **Faktor Produksi** | Mudah dipindahkan/didapat | Langka atau sangat spesifik |
+| **Stok Barang** | Mudah disimpan (Tahan lama) | Sulit disimpan (Mudah busuk) |
+| **Waktu** | Jangka Panjang | Jangka Pendek |
+
+### Aplikasi Dunia Nyata: Krisis Chip Semikonduktor
+
+Mari kita lihat fenomena kelangkaan chip global beberapa waktu lalu. Ketika permintaan barang elektronik melonjak (dan harga chip naik), mengapa produsen chip tidak bisa langsung menambah pasokan?
+
+1. **Kapasitas Produksi:** Pabrik chip (Fabs) sudah beroperasi pada kapasitas hampir 100%.
+2. **Mobilitas Faktor Produksi:** Membangun pabrik chip memerlukan investasi miliaran dolar dan teknologi yang sangat canggih (mobilitas rendah).
+3. **Dimensi Waktu:** Dibutuhkan waktu 2 hingga 4 tahun untuk membangun satu pabrik chip baru.
+
+**Hasilnya:** Dalam jangka pendek, penawaran chip sangat **inelastis**, menyebabkan harga gadget dan mobil melonjak karena produsen chip tidak mampu merespons kenaikan harga dengan tambahan pasokan secara instan.
+
+### Contoh Penghitungan Sederhana
+
+Meskipun fokus kita pada faktor penentu, mari kita lihat bagaimana ini terlihat dalam angka. Misalkan harga sebuah produk naik dari Rp10.000 menjadi Rp12.000 (\(\Delta P = 20\%\)), dan karena produsen memiliki stok di gudang yang banyak, mereka meningkatkan jumlah penawaran dari 1.000 unit menjadi 1.500 unit (\(\Delta Q_s = 50\%\)).
+
+\[ \text{E}_s = \frac{\% \Delta Q_s}{\% \Delta P} = \frac{50\%}{20\%} = 2.5 \]
+
+Karena \(\text{E}_s > 1\), maka penawaran barang tersebut dikategorikan sebagai **Elastis**, kemungkinan besar karena didukung oleh faktor stok barang atau kapasitas yang masih longgar.
+
+**Catatan Penting:** Memahami faktor-faktor ini membantu manajer perusahaan untuk merencanakan strategi produksi dan membantu pemerintah dalam memprediksi bagaimana pasar akan bereaksi terhadap kebijakan tertentu, seperti pajak atau subsidi. Jika penawaran suatu barang inelastis, pemberian subsidi mungkin tidak akan banyak meningkatkan jumlah barang di pasar, melainkan hanya akan menguntungkan produsen secara finansial.
+
+
+<!-- Chapter: 11_aplikasi-elastisitas-dalam-kebijakan-pemerintah-dan-pasar -->
+
+## Aplikasi Elastisitas dalam Kebijakan Pemerintah dan Pasar
+
+Pernahkah kamu bertanya-tanya mengapa pemerintah mengenakan pajak tinggi pada rokok, tetapi memberikan subsidi besar pada pupuk atau bahan pangan pokok? Kebijakan ini bertumpu pada konsep **elastisitas**.
+
+Dalam bab ini, kita akan mempelajari bagaimana konsep elastisitas bertransformasi menjadi instrumen kebijakan publik. Pemerintah menggunakan elastisitas untuk memprediksi apakah sebuah kebijakan akan mencapai tujuannya atau menimbulkan dampak samping yang tidak diinginkan.
+
+## 1. Elastisitas dan Kebijakan Pajak (Tax Incidence)
+
+Salah satu penerapan terpenting dari elastisitas adalah menentukan **Insiden Pajak (Tax Incidence)**, yaitu pembagian beban pajak yang sebenarnya antara pembeli dan penjual.
+
+Banyak orang mengira jika pemerintah membebankan pajak Rp1.000 kepada penjual, maka beban tersebut otomatis ditanggung penjual. Kenyataannya, siapa yang menanggung beban lebih besar sangat bergantung pada **elastisitas relatif** antara permintaan dan penawaran.
+
+### Prinsip Utama:
+
+> "Beban pajak akan lebih banyak jatuh pada pihak yang memiliki kurva **paling inelastis** (kurang sensitif terhadap perubahan harga)."
+
+### Skenario A: Permintaan Inelastis (Contoh: Rokok atau Bahan Bakar)
+
+Jika permintaan suatu barang inelastis (konsumen sangat butuh dan sulit beralih), maka ketika pajak dikenakan:
+
+- Penjual dapat menaikkan harga dengan mudah tanpa takut kehilangan banyak pelanggan.
+- **Hasilnya:** Konsumen menanggung sebagian besar beban pajak tersebut. Inilah alasan mengapa pajak rokok (cukai) sangat efektif untuk meningkatkan pendapatan negara.
+
+### Skenario B: Permintaan Elastis (Contoh: Barang Mewah atau Hiburan)
+
+Jika permintaan elastis (konsumen sensitif terhadap harga dan punya banyak pilihan lain):
+
+- Jika penjual mencoba membebankan pajak ke harga jual, konsumen akan berhenti membeli.
+- **Hasilnya:** Penjual terpaksa "menelan" sebagian besar beban pajak tersebut agar barangnya tetap laku.
+
+**Formula Sederhana Beban Pajak:**
+
+\\[ \frac{\text{Beban Pembeli}}{\text{Beban Penjual}} = \frac{\text{E}_s}{\text{E}_d} \\]
+
+*Dengan \\( \text{E}_s \\) sebagai elastisitas penawaran dan \\( \text{E}_d \\) sebagai elastisitas permintaan.*
+
+## 2. Elastisitas dan Kebijakan Subsidi
+
+Subsidi adalah kebalikan dari pajak. Pemerintah memberikan bantuan dana untuk menurunkan biaya produksi atau harga beli. Namun, siapa yang paling diuntungkan dari subsidi? Lagi-lagi, elastisitas yang menentukan.
+
+- **Permintaan Inelastis:** Jika pemerintah memberikan subsidi pada barang dengan permintaan inelastis (seperti beras), maka penurunan harga akan sangat dirasakan oleh **konsumen**. Harga pasar akan turun drastis, sehingga pengeluaran rumah tangga berkurang.
+- **Penawaran Inelastis:** Jika penawaran yang inelastis (misalnya kapasitas produksi pabrik sudah maksimal), maka subsidi lebih banyak dinikmati oleh **produsen** dalam bentuk peningkatan keuntungan, karena jumlah barang di pasar sulit bertambah meskipun ada bantuan dana.
+
+Sebagai ilustrasi, jika pemerintah ingin menyejahterakan petani sementara penawaran hasil tani bersifat sangat elastis, pemberian subsidi harga tidak secara otomatis meningkatkan pendapatan mereka dalam jangka panjang.
+
+## 3. Pengendalian Harga: Price Ceiling dan Price Floor
+
+Otoritas publik sering kali melakukan intervensi harga untuk melindungi pihak tertentu. Elastisitas menentukan seberapa besar dampak "gangguan" yang tercipta dari kebijakan ini.
+
+### A. Price Ceiling (Harga Eceran Tertinggi - HET)
+
+Pemerintah menetapkan harga maksimum di bawah harga keseimbangan untuk melindungi konsumen (misalnya: harga obat-obatan atau tarif sewa apartemen).
+
+- **Dampaknya:** Terjadi kelangkaan (Shortage).
+- **Peran Elastisitas:** Semakin **elastis** permintaan dan penawaran, maka kelangkaan yang terjadi akan semakin **parah**. Mengapa? Karena pembeli ingin membeli jauh lebih banyak, sementara penjual sangat cepat menarik barangnya dari pasar.
+
+### B. Price Floor (Harga Pembelian Minimum)
+
+Pemerintah menetapkan harga minimum di atas harga keseimbangan untuk melindungi produsen (misalnya: Upah Minimum atau harga dasar gabah).
+
+- **Dampaknya:** Terjadi surplus (kelebihan pasokan).
+- **Peran Elastisitas:** Jika penawaran tenaga kerja sangat **elastis**, penetapan upah minimum yang terlalu tinggi akan menyebabkan lonjakan pengangguran (surplus tenaga kerja) yang jauh lebih besar dibandingkan jika penawarannya inelastis.
+
+## Real-World Application: Kasus Pajak Minuman Berpemanis
+
+Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dalam kemasan (MBDK) untuk menekan angka obesitas.
+
+1. **Tujuan:** Mengurangi konsumsi gula masyarakat.
+2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).
+3. **Realita:** Jika ternyata masyarakat sudah "kecanduan" dan permintaannya **inelastis**, maka konsumsi gula tidak akan banyak berkurang, namun pemerintah akan mendapatkan **penerimaan pajak yang sangat besar**.
+
+> **Insight Penting:** Pemerintah seringkali dihadapkan pada dilema. Jika tujuannya **mengubah perilaku** (misal: berhenti merokok), mereka butuh permintaan yang **elastis**. Jika tujuannya **menambah kas negara**, mereka mencari barang dengan permintaan yang **inelastis**.
+
+## Ringkasan untuk Pembelajar
+
+| Kebijakan | Jika Permintaan Inelastis | Jika Permintaan Elastis |
+| --- | --- | --- |
+| **Pajak** | Beban utama di konsumen; Penerimaan negara tinggi. | Beban utama di produsen; Penjualan turun drastis. |
+| **Subsidi** | Manfaat utama dirasakan konsumen (harga turun). | Manfaat utama dirasakan produsen (pendapatan naik). |
+| **Kontrol Harga** | Dampak kelangkaan/surplus cenderung kecil. | Dampak kelangkaan/surplus sangat besar dan masif. |
+
+### Latihan Refleksi (Kinesthetic/Auditory Learning)
+
+Cobalah bayangkan kamu adalah seorang menteri keuangan yang harus menutup defisit anggaran sebesar 10 triliun rupiah. Kamu memiliki dua pilihan: memajaki garam dapur atau memajaki tiket konser musik internasional. Berdasarkan konsep elastisitas, tentukan mana yang akan memberikan pendapatan paling stabil dan jelaskan alasanmu.
+
+**Analogi Terakhir:** Bayangkan elastisitas sebagai sebuah karet gelang. Jika pemerintah menarik satu ujung (memberi beban pajak), ujung mana yang paling sakit? Pihak yang "karetnya" paling kaku (inelastis) tidak bisa menghindar, sehingga mereka yang menanggung tarikan paling kuat. Pihak yang "karetnya" sangat lentur (elastis) bisa dengan mudah melompat atau menghindar ke produk lain, sehingga mereka terhindar dari beban tersebut.
+
+
+<!-- Chapter: 12_referensi -->
+
+## Referensi
+
+Daftar referensi berikut memuat karya akademis utama, buku teks dasar mikroekonomi, serta artikel jurnal ilmiah yang menjadi fondasi dalam pembahasan elastisitas harga permintaan dan penawaran. Jika kamu ingin mendalami lebih jauh konsep elastisitas dari sudut pandang teori maupun analisis empiris, kamu dapat merujuk pada sumber-sumber literatur ilmiah berikut.
+
+### Buku Teks Utama
+
+Case, K. E., Fair, R. C., & Oster, S. M. (2020). *Principles of microeconomics* (13th ed.). Pearson.
+
+Mankiw, N. G. (2021). *Principles of microeconomics* (9th ed.). Cengage Learning.
+
+Marshall, A. (1890). *Principles of economics*. Macmillan and Co.
+
+Pindyck, R. S., & Rubinfeld, D. L. (2018). *Microeconomics* (9th ed.). Pearson.
+
+Samuelson, P. A., & Nordhaus, W. D. (2010). *Economics* (19th ed.). McGraw-Hill Education.
+
+Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.
+
+### Artikel Jurnal Ilmiah
+
+Andreyeva, T., Long, M. W., & Brownell, K. D. (2010). The impact of food prices on consumption: A systematic review of research on the price elasticity of demand for food. *American Journal of Public Health*, 100(2), 216-222. [https://doi.org/10.2105/AJPH.2008.151415](https://doi.org/10.2105/AJPH.2008.151415)
+
+Deaton, A., & Muellbauer, J. (1980). An almost ideal demand system. *The American Economic Review*, 70(3), 312-326. [https://www.jstor.org/stable/1805222](https://www.jstor.org/stable/1805222)
+
+Espey, M. (1996). Explaining the variation in elasticity estimates of gasoline demand in the United States: A meta-analysis. *The Energy Journal*, 17(3), 49-60. [https://doi.org/10.5547/ISSN0195-6574-EJ-Vol17-No3-3](https://doi.org/10.5547/ISSN0195-6574-EJ-Vol17-No3-3)
+
+Espey, M. (1998). Gasoline demand revisited: An international meta-analysis of elasticities. *Energy Economics*, 20(3), 273-295. [https://doi.org/10.1016/S0140-9883(97)00013-3](https://doi.org/10.1016/S0140-9883(97)00013-3)
+
+Gallet, C. A. (2007). The demand for alcohol: A meta-analysis of elasticities. *The Australian Journal of Agricultural and Resource Economics*, 51(2), 121-135. [https://doi.org/10.1111/j.1467-8489.2007.00365.x](https://doi.org/10.1111/j.1467-8489.2007.00365.x)
+
+Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the short-run price elasticity of gasoline demand. *The Energy Journal*, 29(1), 113-134. [https://doi.org/10.5547/ISSN0195-6574-EJ-Vol29-No1-6](https://doi.org/10.5547/ISSN0195-6574-EJ-Vol29-No1-6)
+
+Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
+
+Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
+
+Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2318,8 +3365,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -3434,8 +4481,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4485,8 +5532,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4531,8 +5578,8 @@ Ekonom menggunakan beberapa variabel kunci untuk mengklasifikasikan pasar. Memah
 
 Jumlah pelaku pasar sangat menentukan tingkat persaingan.
 
-- Jika jumlahnya sangat banyak (\( N \to \infty \)), tindakan satu individu tidak akan memengaruhi harga pasar.
-- Jika hanya ada satu penjual (\( N = 1 \)), ia memiliki kendali penuh.
+- Jika jumlahnya sangat banyak \\( N \to \infty \\), tindakan satu individu tidak akan memengaruhi harga pasar.
+- Jika hanya ada satu penjual \\( N = 1 \\), ia memiliki kendali penuh.
 
 ### 2. Sifat Produk (Diferensiasi)
 
@@ -4563,7 +5610,7 @@ Struktur pasar sering divisualisasikan sebagai sebuah spektrum, bergerak dari ti
 | **Hambatan Masuk** | Tidak Ada | Rendah | Tinggi | Sangat Tinggi |
 | **Kekuatan Harga** | Tidak Ada (*Price Taker*) | Kecil | Besar | Sangat Besar (*Price Maker*) |
 
-> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan \( P = D = S \). Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga (\( P \)) di atas biaya marginal (\( \text{MC} \)): \( P > \text{MC} \).
+> **Catatan Penting:** Dalam Persaingan Sempurna, harga ditentukan oleh pasar melalui rumus keseimbangan \\( P = D = S \\). Sedangkan dalam Monopoli, perusahaan dapat menetapkan harga \\( P \\) di atas biaya marginal \\( \text{MC} \\): \\( P > \text{MC} \\).
 
 ## Mengapa Struktur Pasar Itu Penting?
 
@@ -4589,7 +5636,7 @@ Mari kita terapkan klasifikasi ini pada evolusi transportasi:
 - **Persaingan Sempurna** dan **Monopoli** adalah dua titik ekstrem dalam spektrum ekonomi.
 - Sebagian besar bisnis di dunia nyata berada di tengah-tengahnya, yaitu **Persaingan Monopolistik** dan **Oligopoli**.
 
-> **Insight:** Semakin mirip sebuah produk dengan produk pesaingnya, dan semakin mudah perusahaan baru masuk ke pasar, maka keuntungan ekonomi dalam jangka panjang akan cenderung mendekati nol (\( \text{Laba} = 0 \)).
+> **Insight:** Semakin mirip sebuah produk dengan produk pesaingnya, dan semakin mudah perusahaan baru masuk ke pasar, maka keuntungan ekonomi dalam jangka panjang akan cenderung mendekati nol \\( \text{Laba} = 0 \\).
 
 Setelah memahami dasar-dasar ini, di bagian selanjutnya kita akan membedah lebih dalam mengenai pasar yang dianggap paling ideal oleh para ekonom: **Pasar Persaingan Sempurna**.
 
@@ -4633,19 +5680,17 @@ Semua pembeli dan penjual memiliki pengetahuan yang lengkap mengenai harga, kual
 
 Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna). Artinya, perusahaan dapat menjual berapapun jumlah barang pada harga pasar yang berlaku, tetapi tidak akan laku satu unit pun jika menaikkan harga di atas itu.
 
-Secara matematis, hubungan antara Harga (\( P \)), Pendapatan Rata-rata (\( \text{AR} \)), dan Pendapatan Marjinal (\( \text{MR} \)) adalah sebagai berikut:
+Secara matematis, hubungan antara Harga \\( P \\), Pendapatan Rata-rata \\( \text{AR} \\), dan Pendapatan Marjinal \\( \text{MR} \\) adalah sebagai berikut:
 
-\\[
-P = \text{AR} = \text{MR}
-\\]
+\\[ P = \text{AR} = \text{MR} \\]
 
 **Mengapa demikian?**
 
-1. **Total Revenue (TR):** \( \text{TR} = P \times Q \)
-2. **Average Revenue (AR):** \( \frac{\text{TR}}{Q} = \frac{P \times Q}{Q} = P \)
-3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka \( \text{MR} \) selalu sama dengan \( P \).
+1. **Total Revenue (TR):** \\( \text{TR} = P \times Q \\)
+2. **Average Revenue (AR):** \\( \frac{\text{TR}}{Q} = \frac{P \cdot Q}{Q} = P \\)
+3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka \\( \text{MR} \\) selalu sama dengan \\( P \\).
 
-> **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak (\( Q \)) yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
+> **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak \\( Q \\) yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
 
 ## 3. Aplikasi Dunia Nyata: Apakah Benar-Benar Ada?
 
@@ -4700,17 +5745,13 @@ Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan
 
 ### Kondisi Keseimbangan
 
-Harga keseimbangan (\(P_e\)) terjadi ketika jumlah barang yang diminta oleh konsumen sama dengan jumlah barang yang ditawarkan oleh produsen (\(Q_d = Q_s\)).
+Harga keseimbangan \\(P_e\\) terjadi ketika jumlah barang yang diminta oleh konsumen sama dengan jumlah barang yang ditawarkan oleh produsen \\(Q_d = Q_s\\).
 
 Secara matematis:
 
-\[
-\begin{aligned}
-Q_d &= a - bP \\
-Q_s &= c + dP \\
-\text{Keseimbangan: } Q_d &= Q_s
-\end{aligned}
-\]
+\\[ Q_d = a - b P \\]
+\\[ Q_s = c + d P \\]
+\\[ \text{Keseimbangan: } Q_d = Q_s \\]
 
 > **Intisari:** Di pasar ini, perusahaan adalah **Price Taker** (Penerima Harga). Mereka tidak punya kekuatan untuk mengubah harga pasar. Jika mereka menaikkan harga sedikit saja, konsumen akan lari ke ribuan penjual lain yang menjual produk identik.
 
@@ -4722,27 +5763,23 @@ Bagi perusahaan individu di PPS:
 
 | Simbol | Istilah | Keterangan |
 | :--- | :--- | :--- |
-| \(P\) | *Price* | Harga yang ditentukan pasar |
-| \(\text{AR}\) | *Average Revenue* | Pendapatan rata-rata per unit barang |
-| \(\text{MR}\) | *Marginal Revenue* | Tambahan pendapatan dari menjual satu unit tambahan |
+| \\(P\\) | *Price* | Harga yang ditentukan pasar |
+| \\(\text{AR}\\) | *Average Revenue* | Pendapatan rata-rata per unit barang |
+| \\(\text{MR}\\) | *Marginal Revenue* | Tambahan pendapatan dari menjual satu unit tambahan |
 
 Dalam PPS, berlaku persamaan:
 
-\[
-P = \text{AR} = \text{MR}
-\]
+\\[ P = \text{AR} = \text{MR} \\]
 
-Mengapa \(\text{MR}\) sama dengan \(P\)? Karena jika harga pasar adalah Rp10.000, setiap kali kamu menjual satu unit tambahan, pendapatan tambahan yang kamu terima akan selalu tetap Rp10.000, tidak kurang dan tidak lebih.
+Mengapa \\(\text{MR}\\) sama dengan \\(P\\)? Karena jika harga pasar adalah Rp10.000, setiap kali kamu menjual satu unit tambahan, pendapatan tambahan yang kamu terima akan selalu tetap Rp10.000, tidak kurang dan tidak lebih.
 
 ## 3. Maksimisasi Laba dalam Jangka Pendek
 
-Meskipun perusahaan tidak bisa menentukan harga, mereka tetap bisa menentukan **berapa banyak jumlah produksi (\(Q\))** untuk memaksimalkan keuntungan.
+Meskipun perusahaan tidak bisa menentukan harga, mereka tetap bisa menentukan **berapa banyak jumlah produksi \\(Q\\)** untuk memaksimalkan keuntungan.
 
 Aturan utama maksimisasi laba adalah:
 
-\[
-\text{Keuntungan Maksimum tercapai saat } \text{MR} = \text{MC}
-\]
+\\[ \text{Keuntungan Maksimum tercapai saat } \text{MR} = \text{MC} \\]
 
 ## 4. Implikasi Jangka Panjang: Kondisi Laba Nol (*The Zero Profit Condition*)
 
@@ -4752,28 +5789,26 @@ Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini 
 
 1. **Jika ada Laba Supernormal:**
    - Pengusaha dari luar industri melihat keuntungan besar ini dan tertarik untuk masuk.
-   - Jumlah penjual meningkat \(\rightarrow\) Penawaran pasar (\(S\)) bergeser ke kanan.
-   - Harga pasar (\(P\)) turun.
+   - Jumlah penjual meningkat \\(\rightarrow\\) Penawaran pasar \\(S\\) bergeser ke kanan.
+   - Harga pasar \\(P\\) turun.
    - Harga akan terus turun sampai laba supernormal hilang dan kembali ke **Laba Normal**.
 
 2. **Jika terjadi Kerugian:**
    - Perusahaan yang tidak efisien akan keluar dari pasar.
-   - Jumlah penjual berkurang \(\rightarrow\) Penawaran pasar (\(S\)) bergeser ke kiri.
-   - Harga pasar (\(P\)) naik.
+   - Jumlah penjual berkurang \\(\rightarrow\\) Penawaran pasar \\(S\\) bergeser ke kiri.
+   - Harga pasar \\(P\\) naik.
    - Harga akan terus naik sampai perusahaan yang tersisa kembali ke titik **Laba Normal**.
 
-> **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata (\(\text{AC}_{\text{min}}\)). Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
+> **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata \\(\text{AC}_{\text{min}}\\). Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
 
-\[
-P = \text{MC} = \text{AC}_{\text{min}}
-\]
+\\[ P = \text{MC} = \text{AC}_{\text{min}} \\]
 
 ## 5. Efisiensi pada Pasar Persaingan Sempurna
 
 Mekanisme harga di PPS mendorong terciptanya dua jenis efisiensi:
 
-1. **Efisiensi Produktif:** Perusahaan memproduksi pada tingkat biaya per unit yang paling minimum (\(P = \text{AC}_{\text{min}}\)). Tidak ada sumber daya yang terbuang sia-sia.
-2. **Efisiensi Alokatif:** Sumber daya dialokasikan sedemikian rupa sehingga manfaat marginal bagi masyarakat (harga yang mereka bayar) sama dengan biaya marginal untuk memproduksinya (\(P = \text{MC}\)).
+1. **Efisiensi Produktif:** Perusahaan memproduksi pada tingkat biaya per unit yang paling minimum \\(P = \text{AC}_{\text{min}}\\). Tidak ada sumber daya yang terbuang sia-sia.
+2. **Efisiensi Alokatif:** Sumber daya dialokasikan sedemikian rupa sehingga manfaat marginal bagi masyarakat (harga yang mereka bayar) sama dengan biaya marginal untuk memproduksinya \\(P = \text{MC}\\).
 
 ## 6. Aplikasi Dunia Nyata: Pasar Komoditas Pertanian
 
@@ -4786,22 +5821,14 @@ Mari kita lihat pasar beras atau gandum sebagai contoh nyata.
 
 ## 7. Contoh Penghitungan Sederhana
 
-Sebuah perusahaan dalam pasar persaingan sempurna menghadapi harga pasar \(P = 100\). Fungsi biaya total perusahaan adalah \(\text{TC} = 5Q^2 + 20Q + 50\). Berapakah jumlah produksi untuk mencapai laba maksimum?
+Sebuah perusahaan dalam pasar persaingan sempurna menghadapi harga pasar \\(P = 100\\). Fungsi biaya total perusahaan adalah \\(\text{TC} = 5Q^2 + 20Q + 50\\). Berapakah jumlah produksi untuk mencapai laba maksimum?
 
 **Langkah-langkah:**
 
-1. Cari \(\text{MC}\) (*Marginal Cost*) dari turunan \(\text{TC}\):
-   \[
-   \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
-   \]
-2. Gunakan syarat \(P = \text{MC}\) (karena dalam PPS, \(P = \text{MR}\)):
-   \[
-   \begin{aligned}
-   100 &= 10Q + 20 \\
-   80 &= 10Q \\
-   Q &= 8
-   \end{aligned}
-   \]
+1. Cari \\(\text{MC}\\) (*Marginal Cost*) dari turunan \\(\text{TC}\\):
+   \\[ \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20 \\]
+2. Gunakan syarat \\(P = \text{MC}\\) (karena dalam PPS, \\(P = \text{MR}\\)):
+   \\[ 100 = 10Q + 20 \implies 10Q = 80 \implies Q = 8 \\]
 
 **Kesimpulan:** Perusahaan harus memproduksi **8 unit** untuk memaksimalkan laba pada tingkat harga tersebut.
 
@@ -4834,11 +5861,9 @@ Monopoli tidak muncul secara kebetulan. Ada penyebab struktural mengapa satu per
 
 Kondisi ini terjadi ketika satu perusahaan mampu melayani seluruh pasar dengan biaya per unit yang lebih rendah dibanding jika dilayani oleh dua atau lebih perusahaan. Industri ini umumnya membutuhkan **biaya tetap (*fixed cost*) yang sangat besar**, tetapi memiliki biaya marginal (*marginal cost*) yang rendah.
 
-**Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata (\\(\\text{ATC}\\)) terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
+**Konsep Ekonomi:** Pada monopoli alami, kurva Biaya Total Rata-rata \\(\\text{ATC}\\) terus menurun seiring bertambahnya skala produksi. Fenomena ini dikenal sebagai **Skala Ekonomis (*Economies of Scale*)**.
 
-\\[
-\\text{ATC} = \\frac{\\text{Total Cost}}{\\text{Quantity}}
-\\]
+\\[ \text{ATC} = \frac{\text{Total Cost}}{\text{Quantity}} \\]
 
 > **Analogi:** Membangun jaringan pipa air bersih ke seluruh kota memerlukan investasi triliunan rupiah. Jika dua perusahaan bersaing, keduanya harus menggali jalan dan memasang dua jalur pipa sejajar. Langkah ini sangat boros sumber daya. Secara ekonomi, jauh lebih efisien jika satu perusahaan mengelola seluruh jaringan pipa distribusi.
 
@@ -4853,20 +5878,18 @@ Monopoli tipe ini tercipta karena perlindungan hukum atau penguasaan atas sumber
 
 ## 3. Perusahaan sebagai *Price Maker*
 
-Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima harga pasar (\\(P = \\text{MC}\\)), perusahaan monopoli menghadapi kurva permintaan pasar yang miring ke bawah (*downward-sloping*). Hal ini membawa implikasi logis:
+Berbeda dengan perusahaan pada pasar persaingan sempurna yang hanya menerima harga pasar \\(P = \\text{MC}\\), perusahaan monopoli menghadapi kurva permintaan pasar yang miring ke bawah (*downward-sloping*). Hal ini membawa implikasi logis:
 
 - Jika produsen ingin menjual lebih banyak unit barang, mereka harus **menurunkan harga jual**.
-- Akibatnya, Pendapatan Marginal (\\(\\text{MR}\\)) selalu lebih rendah daripada Harga barang (\\(P\\)).
+- Akibatnya, Pendapatan Marginal \\(\\text{MR}\\) selalu lebih rendah daripada Harga barang \\(P\\).
 
 ### Prinsip Maksimalisasi Laba
 
-Perusahaan monopoli menetapkan volume produksi (\\(Q\\)) pada titik keseimbangan di mana:
+Perusahaan monopoli menetapkan volume produksi \\(Q\\) pada titik keseimbangan di mana:
 
-\\[
-\\text{MR} = \\text{MC}
-\\]
+\\[ \text{MR} = \text{MC} \\]
 
-Setelah menemukan jumlah produksi optimal (\\(Q\\)), produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
+Setelah menemukan jumlah produksi optimal \\(Q\\), produsen akan melihat kurva permintaan pasar untuk menentukan harga maksimum yang bersedia dibayar oleh konsumen.
 
 Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
@@ -4920,8 +5943,8 @@ Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut p
 
 | Bentuk Efisiensi | Kondisi pada Persaingan Sempurna | Kondisi pada Pasar Monopoli |
 | :--- | :--- | :--- |
-| **Efisiensi Alokatif** | Harga sama dengan Biaya Marginal (\\(P = \\text{MC}\\)). | Harga melebihi Biaya Marginal (\\(P > \\text{MC}\\)), barang diproduksi lebih sedikit. |
-| **Efisiensi Produsif** | Memproduksi pada titik Biaya Rata-rata Minimum (\\(\\text{ATC}\\) minimum). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
+| **Efisiensi Alokatif** | Harga sama dengan Biaya Marginal \\(P = \\text{MC}\\). | Harga melebihi Biaya Marginal \\(P > \\text{MC}\\), barang diproduksi lebih sedikit. |
+| **Efisiensi Produsif** | Memproduksi pada titik Biaya Rata-rata Minimum \\(\\text{ATC}\\) minimum). | Produksi tidak selalu berada di titik biaya rata-rata terendah. |
 
 > **Pesan Utama:** Karena monopolis sengaja membatasi volume produksi untuk menahan harga tinggi, terjadi **Inefisiensi Alokatif**. Sebagian konsumen yang sejatinya rela membayar di atas biaya produksi tetap tidak bisa mengakses produk tersebut.
 
@@ -4965,7 +5988,7 @@ Ekonomi membagi strategi ini menjadi tiga tingkatan utama:
 Dalam skenario ideal bagi perusahaan, monopolis menetapkan harga yang tepat sama dengan **Willingness to Pay (WTP)** atau kemauan membayar maksimal dari setiap individu.
 
 - **Dampaknya:** Surplus konsumen menjadi nol. Semua surplus ekonomi berpindah ke produsen.
-- **Secara Matematis:** Perusahaan akan berproduksi hingga titik di mana harga sama dengan biaya marginal (\\(P = \\text{MC}\\)).
+- **Secara Matematis:** Perusahaan akan berproduksi hingga titik di mana harga sama dengan biaya marginal \\(P = \\text{MC}\\).
 - **Contoh Dunia Nyata:** Sangat jarang terjadi secara sempurna, tetapi proses **tawar-menawar** di pasar tradisional atau lelang mendekati model ini.
 
 ### B. Diskriminasi Harga Tingkat Kedua
@@ -4991,25 +6014,17 @@ Mari kita lihat perbedaan antara kebijakan harga tunggal dengan diskriminasi har
 
 | Skenario | Strategi | Hasil bagi Perusahaan |
 | --- | --- | --- |
-| **Harga Tunggal** | Menetapkan satu harga untuk semua (misal: \\(P = 100\\)). | Kehilangan pembeli yang hanya mampu bayar \\(80\\) dan kehilangan potensi margin dari yang mampu bayar \\(150\\). |
+| **Harga Tunggal** | Menetapkan satu harga untuk semua (misal: \\(P = 100\\). | Kehilangan pembeli yang hanya mampu bayar \\(80\\) dan kehilangan potensi margin dari yang mampu bayar \\(150\\). |
 | **Diskriminasi** | Menagih \\(150\\) ke kelompok berdaya beli tinggi, \\(100\\) ke kelas menengah, dan \\(80\\) ke pelajar. | Mengambil seluruh surplus dari ketiga kelompok tersebut. Profit meningkat. |
 
 **Persamaan Profit Maksimal pada Diskriminasi Harga Tingkat Ketiga:**  
-Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal (\\(\\text{MR}\\)) di setiap pasar sama dengan Biaya Marginal (\\(\\text{MC}\\)) keseluruhan:
+Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal \\(\\text{MR}\\) di setiap pasar sama dengan Biaya Marginal \\(\\text{MC}\\) keseluruhan:
 
-\\[
-\\begin{aligned}
-\\text{MR}_1 = \\text{MR}_2 = \\text{MC}
-\\end{aligned}
-\\]
+\\[ \text{MR}_1 = \text{MR}_2 = \text{MC} \\]
 
-Pasar dengan elastisitas (\\(\\epsilon\\)) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
+Pasar dengan elastisitas \\( \epsilon \\) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
 
-\\[
-\\begin{aligned}
-\\frac{P - \\text{MC}}{P} = \\frac{1}{|\\epsilon|}
-\\end{aligned}
-\\]
+\\[ \frac{P - \text{MC}}{P} = \frac{1}{|\epsilon|} \\]
 
 ## 5. Penerapan di Dunia Nyata
 
@@ -5081,17 +6096,13 @@ Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: ikla
 2. **Membangun Loyalitas:** Menciptakan persepsi bahwa produk A jauh lebih baik daripada produk B, meskipun secara teknis perbedaannya tipis.
 3. **Menggeser Kurva Permintaan:** Iklan bertujuan membuat kurva permintaan menjadi lebih **inelastis**. Artinya, ketika perusahaan menaikkan harga, konsumen yang sudah loyal tidak akan langsung kabur.
 
-**Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal (\(\\text{MR}\\)) sama dengan Biaya Marginal (\(\\text{MC}\\)):
+**Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal \\(\\text{MR}\\) sama dengan Biaya Marginal \\(\\text{MC}\\):
 
-\\[
-\\text{MR} = \\text{MC}
-\\]
+\\[ \text{MR} = \text{MC} \\]
 
-Jika Harga (\\(P\\)) lebih besar dari Biaya Satuan Rata-rata (\\(\\text{ATC}\\)), maka:
+Jika Harga \\(P\\) lebih besar dari Biaya Satuan Rata-rata \\(\\text{ATC}\\), maka:
 
-\\[
-\\text{Laba} = (P - \\text{ATC}) \\times Q
-\\]
+\\[ \text{Laba} = (P - \text{ATC}) \times Q \\]
 
 Namun, karena hambatan masuk yang rendah, keuntungan ini akan mengundang pemain baru. Akibatnya, dalam **jangka panjang**, perusahaan di pasar ini cenderung hanya mendapatkan **laba normal** (break-even), karena permintaan akan terbagi ke lebih banyak pesaing.
 
@@ -5160,7 +6171,7 @@ Model ini berasumsi adanya asimetri dalam reaksi pesaing:
 
 ### Representasi Matematis Sederhana
 
-Jika \\(P\\) adalah harga dan \\(Q\\) adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini (\\(P^*\\)):
+Jika \\(P\\) adalah harga dan \\(Q\\) adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini \\(P^*\\):
 
 - Untuk \\(P > P^*\\), permintaan bersifat **Elastis**: \\(\\% \\Delta Q > \\% \\Delta P\\)
 - Untuk \\(P < P^*\\), permintaan bersifat **Inelastis**: \\(\\% \\Delta Q < \\% \\Delta P\\)
@@ -5306,15 +6317,7 @@ Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang 
 - **Interdependensi** merupakan karakteristik utama dari struktur pasar oligopoli.
 - **Dilema Narapidana** menjelaskan penyebab sulitnya mempertahankan kerja sama akibat adanya dorongan individual untuk berkhianat.
 - **Keseimbangan Nash** tercapai saat setiap pemain memilih strategi optimalnya berdasarkan perkiraan atas tindakan pemain lain, sehingga tidak ada pihak yang terdorong mengubah keputusannya.
-- **Perang Harga** terjadi ketika perusahaan terjebak dalam kompetisi penurunan harga yang mengikis tingkat profitabilitas.
-
-\\[
-\\begin{aligned}
-\\text{Keuntungan}_{\\text{Total}} = \\text{Keuntungan}_{\\text{A}} + \\text{Keuntungan}_{\\text{B}}
-\\end{aligned}
-\\]
-
-Dalam situasi kolusi, \\( \\text{Keuntungan}_{\\text{Total}} \\) dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, \\( \\text{Keuntungan}_{\\text{Total}} \\) sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
+Dalam situasi kolusi, \\( \text{Keuntungan}_{\text{Total}} \\) dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, \\( \text{Keuntungan}_{\text{Total}} \\) sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
 
 <!-- Chapter: 09_hambatan-masuk-dan-keluar-pasar-sang-penjaga-gerbang-ekonomi -->
 
@@ -5338,13 +6341,11 @@ Hambatan masuk dapat dikategorikan menjadi beberapa kelompok utama, seperti hamb
 
 ### A. Ekonomi Skala (Economies of Scale)
 
-Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala masal. Perusahaan besar sanggup menekan **Biaya Rata-rata (\\(\\text{AC}\\))** hingga titik minimum.
+Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala masal. Perusahaan besar sanggup menekan **Biaya Rata-rata \\(\\text{AC}\\)** hingga titik minimum.
 
 Secara matematis, biaya rata-rata dirumuskan sebagai:
 
-\\[
-\\text{AC} = \\frac{\\text{TC}}{Q}
-\\]
+\\[ \text{AC} = \frac{\text{TC}}{Q} \\]
 
 Di mana \\(\\text{TC}\\) adalah total biaya (*Total Cost*) dan \\(Q\\) adalah jumlah output. Perusahaan baru dengan tingkat produksi \\(Q\\) yang kecil memikul \\(\\text{AC}\\) jauh lebih tinggi dibandingkan pemain lama, sehingga sulit bersaing dari segi harga.
 
@@ -5424,13 +6425,13 @@ Dalam ekonomi, efisiensi berarti menggunakan sumber daya yang terbatas untuk men
 
 ### A. Efisiensi Produktif (Productive Efficiency)
 
-Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat harga $\text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m)$P\) atau biaya marjinal \(\text{MC}\) memotong titik terendah dari Kurva Biaya Rata-rata Total \(\text{ATC}\).
+Efisiensi ini tercapai ketika barang diproduksi dengan **biaya rata-rata terendah**. Secara matematis, kondisi ini terjadi pada titik saat harga atau biaya marjinal \\( \text{MC} \\) memotong titik terendah dari Kurva Biaya Rata-rata Total \\( \text{ATC} \\).
 
 - **Analogi:** Bayangkan sebuah pabrik roti. Efisiensi produktif tercapai jika pabrik tersebut menggunakan oven, tepung, dan tenaga kerja sedemikian rupa sehingga satu loyang roti diproduksi dengan biaya serendah mungkin tanpa ada bahan yang terbuang.
 
 ### B. Efisiensi Alokatif (Allocative Efficiency)
 
-Efisiensi ini tercapai ketika sumber daya dialokasikan untuk menghasilkan barang dan jasa yang paling diinginkan masyarakat. Titik ini terjadi ketika harga yang bersedia dibayar konsumen mencerminkan biaya marjinal produksinya \(P = \text{MC}\).
+Efisiensi ini tercapai ketika sumber daya dialokasikan untuk menghasilkan barang dan jasa yang paling diinginkan masyarakat. Titik ini terjadi ketika harga yang bersedia dibayar konsumen mencerminkan biaya marjinal produksinya \\(P = \text{MC}\\).
 
 - **Analogi:** Pabrik roti mungkin sangat efisien memproduksi roti rasa "bawang mentah", tetapi jika masyarakat lebih menginginkan roti cokelat, sumber daya tersebut **tidak efisien secara alokatif**.
 
@@ -5438,9 +6439,9 @@ Efisiensi ini tercapai ketika sumber daya dialokasikan untuk menghasilkan barang
 
 Untuk memahami dampak struktur pasar terhadap masyarakat, kamu dapat menggunakan konsep **Surplus Ekonomi**.
 
-- **Surplus Konsumen (\(\text{CS}\)):** Selisih antara harga maksimum yang bersedia dibayar konsumen dengan harga yang sebenarnya mereka bayar.
-- **Surplus Produsen (\(\text{PS}\)):** Selisih antara harga yang diterima produsen dengan biaya minimum yang mereka perlukan untuk memproduksi barang tersebut.
-- **Surplus Total:** \(\text{Surplus Total} = \text{CS} + \text{PS}\)
+- **Surplus Konsumen \\(\text{CS}\\):** Selisih antara harga maksimum yang bersedia dibayar konsumen dengan harga yang sebenarnya mereka bayar.
+- **Surplus Produsen \\(\text{PS}\\):** Selisih antara harga yang diterima produsen dengan biaya minimum yang mereka perlukan untuk memproduksi barang tersebut.
+- **Surplus Total:** \\(\text{Surplus Total} = \text{CS} + \text{PS}\\)
 
 > **Wawasan Penting:** Pasar dikatakan efisien secara ekonomi (Pareto Optimal) jika surplus total sudah maksimal dan tidak ada satu pihak pun yang bisa menjadi lebih baik tanpa membuat pihak lain menjadi lebih buruk.
 
@@ -5452,30 +6453,30 @@ Mari bandingkan bagaimana struktur pasar yang berbeda membagi kue kesejahteraan 
 
 Dalam jangka panjang, pasar persaingan sempurna mencapai efisiensi tertinggi.
 
-- **Efisiensi Alokatif:** Tercapai karena \(P = \text{MC}\).
-- **Efisiensi Produktif:** Tercapai karena persaingan memaksa perusahaan beroperasi pada titik terendah \(\text{ATC}\).
+- **Efisiensi Alokatif:** Tercapai karena \\(P = \text{MC}\\).
+- **Efisiensi Produktif:** Tercapai karena persaingan memaksa perusahaan beroperasi pada titik terendah \\(\text{ATC}\\).
 - **Kesejahteraan:** Surplus total maksimal tanpa adanya *Deadweight Loss* (beban mati).
 
 ### B. Pasar Monopoli (Si Pengambil Keuntungan)
 
 Monopoli cenderung tidak efisien bagi kesejahteraan masyarakat.
 
-- **Efisiensi Alokatif:** Tidak tercapai karena \(P > \text{MC}\). Perusahaan monopoli membatasi produksi untuk menjaga harga tetap tinggi.
+- **Efisiensi Alokatif:** Tidak tercapai karena \\(P > \text{MC}\\). Perusahaan monopoli membatasi produksi untuk menjaga harga tetap tinggi.
 - **Efisiensi Produktif:** Tidak selalu tercapai. Tanpa persaingan, produsen monopoli berisiko mengalami *X-Inefficiency* (beroperasi di atas biaya rata-rata terendah).
-- **Kesejahteraan:** Terjadi transfer surplus dari konsumen ke produsen, serta munculnya **Deadweight Loss** (\(\text{DWL}\)), yaitu hilangnya kesejahteraan masyarakat akibat volume produksi yang terlalu sedikit.
+- **Kesejahteraan:** Terjadi transfer surplus dari konsumen ke produsen, serta munculnya **Deadweight Loss** \\(\text{DWL}\\), yaitu hilangnya kesejahteraan masyarakat akibat volume produksi yang terlalu sedikit.
 
 ### C. Persaingan Monopolistik & Oligopoli (Jalan Tengah)
 
-- **Persaingan Monopolistik:** Mengalami sedikit inefisiensi karena diferensiasi produk (\(P > \text{MC}\)). Meskipun demikian, konsumen memperoleh kompensasi berupa keragaman produk.
+- **Persaingan Monopolistik:** Mengalami sedikit inefisiensi karena diferensiasi produk \\(P > \text{MC}\\). Meskipun demikian, konsumen memperoleh kompensasi berupa keragaman produk.
 - **Oligopoli:** Jika produsen berkolusi, tingkat efisiensinya menyerupai monopoli. Sebaliknya, jika terjadi persaingan harga ketat, efisiensinya mendekati pasar persaingan sempurna.
 
 ## 4. Visualisasi Matematika: Deadweight Loss
 
-Efisiensi sering kali terdistorsi dalam pasar tidak sempurna. Jika pada persaingan sempurna titik keseimbangan berada pada \((Q_{\text{pc}}, P_{\text{pc}})\), monopoli memilih titik keseimbangan \((Q_m, P_m)\) dengan kondisi \(Q_m < Q_{\text{pc}}\) dan \(P_m > P_{\text{pc}}\).
+Efisiensi sering kali terdistorsi dalam pasar tidak sempurna. Jika pada persaingan sempurna titik keseimbangan berada pada \\((Q_{\text{pc}}, P_{\text{pc}})\\), monopoli memilih titik keseimbangan \\((Q_m, P_m)\\) dengan kondisi \\(Q_m < Q_{\text{pc}}\\) dan \\(P_m > P_{\text{pc}}\\).
 
 Besarnya kerugian kesejahteraan masyarakat (*Deadweight Loss*) dapat dihitung dengan luas segitiga antara kurva permintaan dan biaya marjinal:
 
-$$\text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m)$$
+\\[ \text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m) \\]
 
 > **Pertimbangan Kebijakan:** Apakah harga tinggi selalu merugikan masyarakat? Dalam industri farmasi, misalnya, margin keuntungan yang tinggi kerap dimanfaatkan perusahaan untuk membiayai riset dan pengembangan obat baru yang menyelamatkan banyak nyawa.
 
@@ -5483,7 +6484,7 @@ $$\text{DWL} = \frac{1}{2} \times (P_m - \text{MC}) \times (Q_{\text{pc}} - Q_m)
 
 **Skenario: Transformasi Perusahaan Air Minum**
 
-Di sebuah kota, layanan air minum awalnya dikelola oleh pemerintah dengan harga terjangkau mendekati \(P = \text{MC}\) untuk memaksimalkan efisiensi alokatif. Namun, akibat ketiadaan kompetisi, biaya operasional membengkak sehingga timbul inefisiensi produktif.
+Di sebuah kota, layanan air minum awalnya dikelola oleh pemerintah dengan harga terjangkau mendekati \\(P = \text{MC}\\) untuk memaksimalkan efisiensi alokatif. Namun, akibat ketiadaan kompetisi, biaya operasional membengkak sehingga timbul inefisiensi produktif.
 
 Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada perusahaan swasta. Hasilnya:
 
@@ -5495,8 +6496,8 @@ Pemerintah kemudian melakukan privatisasi dan memberikan hak monopoli kepada per
 
 | Karakteristik | Persaingan Sempurna | Monopoli | Monopolistik |
 | --- | --- | --- | --- |
-| **Harga (\(P\))** | Rendah (\(P = \text{MC}\)) | Tinggi (\(P > \text{MC}\)) | Sedang (\(P > \text{MC}\)) |
-| **Output (\(Q\))** | Maksimal | Terbatas | Cukup |
+| **Harga \\(P\\)** | Rendah \\(P = \text{MC}\\) | Tinggi \\(P > \text{MC}\\) | Sedang \\(P > \text{MC}\\) |
+| **Output \\(Q\\)** | Maksimal | Terbatas | Cukup |
 | **Efisiensi Alokatif** | Ya | Tidak | Tidak (tapi ada variasi) |
 | **Efisiensi Produktif** | Ya | Tidak (sering ada pemborosan) | Tidak (kelebihan kapasitas) |
 | **Deadweight Loss** | Nol | Besar | Kecil |
@@ -5515,7 +6516,7 @@ Dalam dunia ekonomi, pemerintah berperan sebagai "wasit" yang memastikan bahwa "
 
 Secara teoritis, pasar sering kali gagal mencapai alokasi sumber daya yang optimal. Fenomena ini disebut dengan **Kegagalan Pasar (Market Failure)**. Dalam konteks struktur pasar, intervensi pemerintah diperlukan karena:
 
-- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga setinggi mungkin (\\(P > \\text{MC}\\)) karena konsumen tidak memiliki pilihan lain.
+- **Mencegah Eksploitasi Konsumen:** Tanpa persaingan, perusahaan monopoli dapat menetapkan harga setinggi mungkin \\(P > \\text{MC}\\) karena konsumen tidak memiliki pilihan lain.
 - **Mendorong Inovasi:** Persaingan memaksa perusahaan untuk terus berinovasi. Jika sebuah perusahaan merasa aman tanpa pesaing, mereka cenderung malas untuk meningkatkan kualitas produk.
 - **Alokasi Sumber Daya yang Adil:** Mencegah penumpukan kekayaan dan kekuasaan ekonomi hanya pada segelintir orang atau kelompok (konglomerasi).
 
@@ -5561,11 +6562,9 @@ Mewajibkan konsumen membeli produk yang tidak mereka inginkan sebagai syarat unt
 
 Pemerintah menggunakan perangkat matematis untuk menentukan apakah sebuah pasar sudah terlalu terkonsentrasi (mendekati monopoli) atau masih kompetitif. Salah satu indikator yang paling umum dipakai adalah **HHI**.
 
-Rumus HHI dihitung dari jumlah kuadrat pangsa pasar (\\(s\\)) setiap perusahaan dalam industri tersebut:
+Rumus HHI dihitung dari jumlah kuadrat pangsa pasar \\(s\\) setiap perusahaan dalam industri tersebut:
 
-$$
-\\text{HHI} = s_1^2 + s_2^2 + s_3^2 + \\dots + s_n^2
-$$
+\\[ \text{HHI} = s_1^2 + s_2^2 + s_3^2 + \dots + s_n^2 \\]
 
 **Ketentuan Umum:**
 
@@ -5591,8 +6590,8 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 
 **Pendekatan Regulasi Harga:**
 
-1. **Marginal Cost Pricing (\\(P = \\text{MC}\\)):** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
-2. **Average Cost Pricing (\\(P = \\text{ATC}\\)):** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
+1. **Marginal Cost Pricing \\(P = \\text{MC}\\):** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
+2. **Average Cost Pricing \\(P = \\text{ATC}\\):** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
 
 ### 🛠️ Aktivitas Pembelajaran: Analisis Cepat
 
@@ -5633,7 +6632,7 @@ Terjadi ketika nilai produk meningkat seiring bertambahnya pengguna dalam katego
 
 Secara matematis, fenomena ini digambarkan dengan **Hukum Metcalfe**:
 
-\\[ V \\propto n^2 \\]
+\\[ V \propto n^2 \\]
 
 Di mana \\(V\\) adalah nilai jaringan dan \\(n\\) adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan meningkat secara eksponensial, bukan linear.
 
@@ -5641,16 +6640,16 @@ Di mana \\(V\\) adalah nilai jaringan dan \\(n\\) adalah jumlah pengguna. Jika j
 
 Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. *Contoh:* Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
 
-## 3. Struktur Biaya: Biaya Marginal Nol (\\(\\text{MC} \\approx 0\\))
+## 3. Struktur Biaya: Biaya Marginal Nol \\(\\text{MC} \\approx 0\\)
 
 Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya yang hampir sama dengan mobil ke-1. Namun, dalam ekonomi digital:
 
 - **Biaya Tetap Tinggi (High Fixed Costs):** Membangun perangkat lunak atau infrastruktur server pertama kali sangat mahal.
-- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan (\\(\\text{MC} \\to 0\\)).
+- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan \\(\\text{MC} \\to 0\\).
 
-\\[ \\text{TC} = \\text{FC} + \\text{MC} \\cdot Q \\]
+\\[ \text{TC} = \text{FC} + \text{MC} \cdot Q \\]
 
-Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna (\\(Q\\)). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
+Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna \\(Q\\). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
 
 ## 4. Dinamika "Winner-Takes-Most"
 
@@ -5759,8 +6758,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6984,8 +7983,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7843,8 +8842,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9104,8 +10103,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9743,7 +10742,7 @@ Setiap kali aplikasi melakukan system call, ada beban performa (overhead) yang h
 
 **Rumus Sederhana Efisiensi:**
 $$
-T_{\text{total}} = T_{\text{user-logic}} + T_{\text{syscall-overhead}} + T_{\text{kernel-execution}}
+\text{T}_{\text{total}} = \text{T}_{\text{user-logic}} + \text{T}_{\text{syscall-overhead}} + \text{T}_{\text{kernel-execution}}
 $$
 
 Oleh karena itu, aplikasi yang sensitif terhadap performa biasanya meminimalkan frekuensi system call, salah satunya dengan teknik **buffering** (mengakumulasikan data di memori sebelum melakukan satu operasi `write` besar).
@@ -10715,8 +11714,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11749,8 +12748,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12119,14 +13118,14 @@ Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
 
 Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
 
-Jika total waktu adalah \\(T_{\text{total}} = 15\\) menit, maka pembagian idealnya adalah:
+Jika total waktu adalah \\(\text{T}_{\text{total}} = 15\\) menit, maka pembagian idealnya adalah:
 
-- **Pendahuluan (\\(P\\)):** \\(20\% \times T_{\text{total}} = 3\\) menit
-- **Inti (\\(I\\)):** \\(65\% \times T_{\text{total}} = 9.75 \approx 10\\) menit
-- **Penutup (\\(K\\)):** \\(15\% \times T_{\text{total}} = 2.25 \approx 2\\) menit
+- **Pendahuluan (\\(P\\)):** \\(20\% \times \text{T}_{\text{total}} = 3\\) menit
+- **Inti (\\(I\\)):** \\(65\% \times \text{T}_{\text{total}} = 9.75 \approx 10\\) menit
+- **Penutup (\\(K\\)):** \\(15\% \times \text{T}_{\text{total}} = 2.25 \approx 2\\) menit
 
 $$
-T_{\text{total}} = P + I + K
+\text{T}_{\text{total}} = P + I + K
 $$
 
 *Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
@@ -13044,8 +14043,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14209,8 +15208,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15145,8 +16144,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15267,7 +16266,7 @@ Komunikasi di dalam satu sel saraf bersifat **elektrik**. Ketika neuron "terpanc
 Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium \( Na^+ \) dan Kalium \( K^+ \)) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
 
 $$
-V_{\text{threshold}} \approx -55 \, \text{mV}
+\text{V}_{\text{threshold}} \approx -55 \, \text{mV}
 $$
 
 Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
@@ -16332,8 +17331,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17044,8 +18043,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17668,8 +18667,8 @@ Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari se
 **Matematika Fragmentasi:** Jika \( S \) adalah kekuatan total Uni Soviet, maka setelah 1991:
 $$
 \begin{aligned}
-S_{\text{USSR}} &\neq S_{\text{Russia}} \\
-S_{\text{USSR}} &\approx S_{\text{Russia}} + S_{\text{Ukraine}} + S_{\text{Georgia}} + \dots + S_{\text{12 negara lainnya}}
+\text{S}_{\text{USSR}} &\neq \text{S}_{\text{Russia}} \\
+\text{S}_{\text{USSR}} &\approx \text{S}_{\text{Russia}} + \text{S}_{\text{Ukraine}} + \text{S}_{\text{Georgia}} + \dots + \text{S}_{\text{12 negara lainnya}}
 \end{aligned}
 $$
 
@@ -18093,8 +19092,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19156,8 +20155,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19824,7 +20823,7 @@ Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi ole
 
 $$
 \begin{aligned}
-\sum E_{\text{individu}} \propto E_{\text{komunitas}}
+\sum \text{E}_{\text{individu}} \propto \text{E}_{\text{komunitas}}
 \end{aligned}
 $$
 
@@ -20112,8 +21111,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20257,10 +21256,10 @@ Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optima
 Dalam catatan risetnya, ia sering menggambarkan hubungan antara tantangan dan keterampilan. Meskipun grafik formalnya akan dibahas di bagian lain, sejarah mencatat bahwa Mihaly menemukan "titik manis" ini melalui observasi terhadap para atlet:
 
 $$
-E_o = \int_{t_1}^{t_2} f(C, S) dt
+\text{E}_o = \int_{t_1}^{t_2} f(C, S) dt
 $$
 
-*Dimana \(E_o\) adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan (\(C\)) dan Keterampilan (\(S\)) selama periode waktu tertentu.*
+*Dimana \(\text{E}_o\) adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan (\(C\)) dan Keterampilan (\(S\)) selama periode waktu tertentu.*
 
 ## Real-World Application: Belajar dari Sejarah
 
@@ -20341,7 +21340,7 @@ Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebaga
 - **Deselerasi:** Detik-detik terasa melambat, sering dilaporkan oleh atlet atau penari saat melakukan gerakan teknis yang rumit (misalnya, peselancar di dalam ombak besar).
 
 $$
-\Delta T_{\text{dirasakan}} \neq \Delta T_{\text{aktual}}
+\Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
 $$
 
 ## 9\. Pengalaman Autotelik (Autotelic Experience)
@@ -20781,10 +21780,10 @@ Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Masala
 
 > **Pesan Penting:** Riset menunjukkan bahwa setelah gangguan kecil, dibutuhkan rata-rata **23 menit dan 15 detik** untuk kembali ke tingkat fokus yang sama dalamnya dengan sebelum gangguan terjadi.
 
-Jika kita asumsikan \(T\) adalah waktu yang dibutuhkan untuk mencapai *flow* dan \(d\) adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* (\(P_f\)) dapat digambarkan secara konseptual sebagai:
+Jika kita asumsikan \(T\) adalah waktu yang dibutuhkan untuk mencapai *flow* dan \(d\) adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* (\(\text{P}_f\)) dapat digambarkan secara konseptual sebagai:
 
 $$
-P_f \propto \frac{1}{\sum_{i=1}^{n} d_i}
+\text{P}_f \propto \frac{1}{\sum_{i=1}^{n} d_i}
 $$
 
 Semakin banyak gangguan (\(d\)), semakin kecil peluang kamu untuk "hanyut" dalam pekerjaan.
@@ -21310,8 +22309,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22669,8 +23668,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23770,8 +24769,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24820,8 +25819,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26123,8 +27122,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26297,7 +27296,7 @@ Kesehatan meningkatkan stok modal manusia melalui dua mekanisme utama:
 Secara matematis, laju perubahan stok modal kesehatan (*Health Capital Stock*) dinamis dapat dirumuskan melalui persamaan depresiasi dan akumulasi investasi berikut:
 
 $$
-H_{t+1} = H_t (1 - \delta) + I_t
+H_{t+1} = \text{H}_t (1 - \delta) + \text{I}_t
 $$
 
 Keterangan variabel:
@@ -26326,14 +27325,14 @@ Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseora
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
 $$
-\text{Net Gain} = \sum_{t=1}^{n} \frac{W_{\text{baru}} - W_{\text{lama}}}{(1+r)^t} - C_{\text{migrasi}}
+\text{Net Gain} = \sum_{t=1}^{n} \frac{\text{W}_{\text{baru}} - \text{W}_{\text{lama}}}{(1+r)^t} - \text{C}_{\text{migrasi}}
 $$
 
 Keterangan variabel:
-- \\( W_{\text{baru}} \\): Proyeksi upah di lokasi migrasi baru
-- \\( W_{\text{lama}} \\): Upah di lokasi asal
+- \\( \text{W}_{\text{baru}} \\): Proyeksi upah di lokasi migrasi baru
+- \\( \text{W}_{\text{lama}} \\): Upah di lokasi asal
 - \\( r \\): Tingkat diskonto (*Discount Rate*)
-- \\( C_{\text{migrasi}} \\): Total akumulasi biaya relokasi langsung dan psikologis
+- \\( \text{C}_{\text{migrasi}} \\): Total akumulasi biaya relokasi langsung dan psikologis
 
 Apabila nilai \\(\text{Net Gain} > 0\\), keputusan migrasi secara ekonomis merupakan investasi modal manusia yang rasional.
 
@@ -26471,13 +27470,13 @@ Untuk mengevaluasi kelayakan investasi secara objektif, individu menggunakan pen
 Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai \\( \text{NPV} > 0 \\):
 
 $$
-\text{NPV} = \sum_{t=1}^{T} \frac{B_t - C_t}{(1+r)^t} > 0
+\text{NPV} = \sum_{t=1}^{T} \frac{\text{B}_t - \text{C}_t}{(1+r)^t} > 0
 $$
 
 **Keterangan Simbol:**
 
-- \\( B_t \\): Manfaat moneter (pendapatan) pada tahun ke-\\( t \\).
-- \\( C_t \\): Biaya (langsung dan peluang) pada tahun ke-\\( t \\).
+- \\( \text{B}_t \\): Manfaat moneter (pendapatan) pada tahun ke-\\( t \\).
+- \\( \text{C}_t \\): Biaya (langsung dan peluang) pada tahun ke-\\( t \\).
 - \\( r \\): Tingkat diskonto (*discount rate*) yang mencerminkan suku bunga dan preferensi waktu.
 - \\( T \\): Durasi masa kerja aktif hingga masa pensiun.
 
@@ -26510,7 +27509,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 1. **Usia dan Horison Waktu (\\( T \\)):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
 2. **Besar Selisih Pendapatan (*Earning Differential*):** Semakin lebar jurang gaji antara lulusan SMA dan sarjana di pasar kerja, semakin tinggi insentif individu untuk kuliah.
-3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\\( C_t \\)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
+3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung (\\( \text{C}_t \\)), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
 
 ---
 
@@ -26518,7 +27517,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\\( B_t \\)) yang melimpah di negara maju membuat kalkulasi \\( \text{NPV} \\) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter (\\( \text{B}_t \\)) yang melimpah di negara maju membuat kalkulasi \\( \text{NPV} \\) tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 
@@ -26601,16 +27600,16 @@ Secara matematis, hubungan antara Produktivitas Marginal (\\(\text{VMP}\\)), Upa
 Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pasca-pelatihan:
 
 $$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: W_1 < \text{VMP}_1 \quad (\text{Pekerja mendanai } C \text{ melalui } W_1 = \text{VMP}_1 - C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: W_2 = \text{VMP}_2 \quad (\text{Upah naik setara nilai produktivitas pasar baru})
+\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 < \text{VMP}_1 \quad (\text{Pekerja mendanai } C \text{ melalui } \text{W}_1 = \text{VMP}_1 - C) \\
+\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_2 = \text{VMP}_2 \quad (\text{Upah naik setara nilai produktivitas pasar baru})
 \end{aligned}$$
 
 #### Pemodelan Pelatihan Spesifik
 Pada pelatihan spesifik, terjadi pembagian biaya dan keuntungan (*cost and return sharing*) antara pemberi kerja dan pekerja:
 
 $$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: W_1 > \text{VMP}_1 \quad (\text{Perusahaan menanggung porsi biaya } C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: W_{\text{pasar}} < W_2 < \text{VMP}_2 \quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
+\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 > \text{VMP}_1 \quad (\text{Perusahaan menanggung porsi biaya } C) \\
+\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_{\text{pasar}} < \text{W}_2 < \text{VMP}_2 \quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
 \end{aligned}$$
 
 #### Ringkasan Komparatif Pelatihan Umum vs Spesifik
@@ -26670,7 +27669,7 @@ Persamaan dasar Mincer dirumuskan sebagai berikut:
 
 $$
 \begin{aligned}
-\ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 E^2 + \epsilon
+\ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 \text{E}^2 + \epsilon
 \end{aligned}
 $$
 
@@ -26679,7 +27678,7 @@ $$
 | **Variabel Dependen** | \\(\ln(w)\\) | Logaritma natural dari upah atau pendapatan (*natural log of earnings*). Penggunaan skala logaritmik memungkinkan koefisien diinterpretasikan sebagai persentase perubahan upah. |
 | **Pendidikan** | \\(S\\) | *Schooling* (jumlah tahun pendidikan formal yang diselesaikan). |
 | **Pengalaman** | \\(E\\) | *Experience* (jumlah tahun pengalaman kerja potensial atau aktual). |
-| **Efek Non-Linear** | \\(E^2\\) | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
+| **Efek Non-Linear** | \\(\text{E}^2\\) | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
 | **Konstanta** | \\(\alpha\\) | Pendapatan dasar (*baseline earnings*) tanpa pendidikan dan pengalaman kerja formal. |
 | **Koefisien Slope** | \\(\beta_1, \beta_2, \beta_3\\) | Parameter elastisitas dan imbal hasil dari masing-masing komponen modal manusia. |
 | **Error Term** | \\(\epsilon\\) | Sisa variasi yang tidak teramati (*unobserved factors*), seperti bakat bawaan (*ability*), keberuntungan, atau jejaring sosial. |
@@ -26694,9 +27693,9 @@ Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap log
 
 > **Analogi:** Bayangkan pendidikan sebagai bibit unggul modal manusia. Setiap karung bibit tambahan yang kamu tanam di lahan keterampilanmu meningkatkan hasil panen pendapatan sebesar persentase tertentu secara konsisten.
 
-#### B. Pengalaman (\\(E\\) dan \\(E^2\\)) serta Kurva Pendapatan-Usia
+#### B. Pengalaman (\\(E\\) dan \\(\text{E}^2\\)) serta Kurva Pendapatan-Usia
 
-Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh tanpa batas secara linear. Di sinilah peran variabel kuadratik \\(E^2\\):
+Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh tanpa batas secara linear. Di sinilah peran variabel kuadratik \\(\text{E}^2\\):
 
 - **\\(\beta_2 > 0\\) (Positif):** Pada tahap awal karier, akumulasi pengalaman kerja melalui *On-the-Job Training* dan pembelajaran praktis meningkatkan produktivitas serta upah pekerja secara pesat.
 - **\\(\beta_3 < 0\\) (Negatif):** Parameter negatif pada variabel kuadratik ini mencerminkan hukum imbal hasil yang semakin berkurang (*diminishing returns to experience*).
@@ -26729,7 +27728,7 @@ n = 1000
 schooling = np.random.randint(6, 18, n)       # 6 s/d 18 tahun sekolah
 experience = np.random.randint(0, 40, n)      # 0 s/d 40 tahun pengalaman kerja
 
-# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*E^2 + error
+# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*\text{E}^2 + error
 log_wage = 7 + 0.12 * schooling + 0.05 * experience - 0.0007 * (experience**2) + np.random.normal(0, 0.1, n)
 
 # Menyiapkan variabel independen (X) dan dependen (y)
@@ -26747,7 +27746,7 @@ print(model.summary())
 **Interpretasi Hasil Estimasi:**
 
 1. **Koefisien Pendidikan (\\(S = 0.12\\)):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
-2. **Pengalaman (\\(E = 0.05\\) & \\(E^2 = -0.0007\\)):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
+2. **Pengalaman (\\(E = 0.05\\) & \\(\text{E}^2 = -0.0007\\)):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
 
 ### 5. Aplikasi Praktis dalam Kebijakan Publik dan Manajemen SDM
 
@@ -26789,19 +27788,19 @@ Tingkat pengembalian investasi modal manusia adalah rasio antara akumulasi keunt
 Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto (\\( r \\)) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
 
 $$
-\text{NPV} = \sum_{t=1}^{n} \frac{B_t}{(1+r)^t} - \sum_{t=1}^{n} \frac{C_t}{(1+r)^t} = 0
+\text{NPV} = \sum_{t=1}^{n} \frac{\text{B}_t}{(1+r)^t} - \sum_{t=1}^{n} \frac{\text{C}_t}{(1+r)^t} = 0
 $$
 
 Atau dalam bentuk persamaan imbal hasil:
 
 $$
-\sum_{t=1}^{n} \frac{B_t}{(1+r)^t} = \sum_{t=1}^{n} \frac{C_t}{(1+r)^t}
+\sum_{t=1}^{n} \frac{\text{B}_t}{(1+r)^t} = \sum_{t=1}^{n} \frac{\text{C}_t}{(1+r)^t}
 $$
 
 Keterangan variabel:
 
-- \\( B_t \\): Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-\\( t \\).
-- \\( C_t \\): Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-\\( t \\).
+- \\( \text{B}_t \\): Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-\\( t \\).
+- \\( \text{C}_t \\): Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-\\( t \\).
 - \\( r \\): Tingkat pengembalian (*Rate of Return* / IRR).
 - \\( n \\): Estimasi durasi usia produktif kerja (dalam tahun).
 
@@ -27242,7 +28241,7 @@ Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia d
 Para ekonom memperkirakan bahwa *learning loss* ini berdampak pada penurunan pendapatan masa depan bagi generasi dari keluarga kurang mampu sebesar:
 
 $$
-\Delta Y_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
+\Delta \text{Y}_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
 $$
 
 Di mana \\(r\\) merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
@@ -27440,20 +28439,20 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 
 ### 4. Perspektif Teknis: Produktivitas di Era Digital
 
-Secara sistematis, produktivitas individu \\( P \\) di era digital tidak hanya ditentukan oleh input jam kerja \\( L \\), modal fisik \\( K \\), dan stok modal manusia tradisional \\( H \\), melainkan bergantung pada tingkat teknologi \\( A \\) dan variabel kecepatan adaptasi keterampilan \\( S_{\text{adapt}} \\):
+Secara sistematis, produktivitas individu \\( P \\) di era digital tidak hanya ditentukan oleh input jam kerja \\( L \\), modal fisik \\( K \\), dan stok modal manusia tradisional \\( H \\), melainkan bergantung pada tingkat teknologi \\( A \\) dan variabel kecepatan adaptasi keterampilan \\( \text{S}_{\text{adapt}} \\):
 
 $$
 \begin{aligned}
-P = A \cdot f(K, L, H) \cdot S_{\text{adapt}}
+P = A \cdot f(K, L, H) \cdot \text{S}_{\text{adapt}}
 \end{aligned}
 $$
 
 Di mana:
 
 - \\( H \\) = *Human Capital* (Stok modal manusia tradisional seperti tingkat pendidikan dan pengalaman)
-- \\( S_{\text{adapt}} \\) = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
+- \\( \text{S}_{\text{adapt}} \\) = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
 
-Jika variabel \\( S_{\text{adapt}} \\) bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal \\( H \\) yang dimiliki relatif tinggi.
+Jika variabel \\( \text{S}_{\text{adapt}} \\) bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal \\( H \\) yang dimiliki relatif tinggi.
 
 #### Skenario Aplikasi: Pengembangan Perangkat Lunak
 
@@ -27493,7 +28492,7 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 1. **Prinsip Augmentasi**: Kecerdasan buatan berfungsi sebagai mitra peningkatan produktivitas yang membutuhkan pembentukan alur kerja baru.
 2. **Keterampilan Non-Rutin**: Kemampuan kognitif tingkat tinggi, kreativitas, dan kecerdasan sosial memiliki tingkat ketahanan tertinggi terhadap otomasi.
 3. **Pembelajaran Seumur Hidup**: Pembentukan modal manusia berkelanjutan melalui *Upskilling* dan *Reskilling* menjadi mekanisme utama menahan depresiasi keterampilan.
-4. **Adaptabilitas Keterampilan**: Variabel \\( S_{\text{adapt}} \\) menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.
+4. **Adaptabilitas Keterampilan**: Variabel \\( \text{S}_{\text{adapt}} \\) menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.
 
 
 <!-- Chapter: 12_referensi -->
@@ -27551,8 +28550,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29003,8 +30002,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29926,8 +30925,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30898,8 +31897,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32116,8 +33115,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32731,8 +33730,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33992,8 +34991,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35277,8 +36276,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36565,8 +37564,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38402,8 +39401,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38842,13 +39841,13 @@ Beberapa tanda seseorang memiliki kecerdasan ini bisa diamati dari keseharian. S
 
 ## 4. Aplikasi dalam Dunia Nyata dan Karir
 
-Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) \( RT_{60} \) menggunakan rumus Sabine: 
+Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) \( \text{RT}_{60} \) menggunakan rumus Sabine: 
 
 $$
-RT_{60} = \frac{0.161 \cdot V}{S_a}
+\text{RT}_{60} = \frac{0.161 \cdot V}{\text{S}_a}
 $$
 
-di mana \( V \) adalah volume ruangan dan \( S_a \) adalah total penyerapan suara.
+di mana \( V \) adalah volume ruangan dan \( \text{S}_a \) adalah total penyerapan suara.
 
 Pada dunia medis, terapi musik memanfaatkan ritme dan melodi untuk rehabilitasi pasien atau mendampingi anak berkebutuhan khusus. Di sektor teknologi, software engineer audio membuat algoritma untuk kompresi data suara atau menyintesis efek di dalam video game. Profesi seperti editor film juga bergantung pada kecerdasan ini saat mengatur alur adegan berdasarkan harmoni visual serta ritme dialog.
 
@@ -39091,7 +40090,7 @@ Mengapa kecerdasan ini berperan besar? Secara historis, kecerdasan naturalis men
 Para leluhur kita menggunakan kemampuan ini untuk membedakan mana tumbuhan yang aman dimakan dan mana yang beracun. Mereka perlu memahami reaksi kimia alamiah secara intuitif, seperti mengenali proses fotosintesis secara visual untuk membedakan tanaman yang sehat dan yang sakit:
 
 $$
-6CO_2 + 6H_2O \\xrightarrow{\\text{cahaya}} C_6H_{12}O_6 + 6O_2
+6\text{CO}_2 + 6\text{H}_2\text{O} \\xrightarrow{\\text{cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
 $$
 
 Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tutul dan kijang, atau tidak memahami pola migrasi hewan, maka risiko kematian menjadi lebih tinggi. Di era modern, sirkuit saraf yang sama kerap digunakan untuk membedakan merek mobil, gaya busana, atau pola data dalam riset saintifik.
@@ -39529,8 +40528,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-07-29T13:01:39.912Z',
-  '2026-07-29T13:01:39.912Z'
+  '2026-07-29T14:36:20.899Z',
+  '2026-07-29T14:36:20.899Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

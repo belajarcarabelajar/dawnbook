@@ -45,9 +45,9 @@ Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunaka
 
 Jika total waktu adalah \\(\text{T}_{\text{total}} = 15\\) menit, maka pembagian idealnya adalah:
 
-- **Pendahuluan (\\(P\\)):** \\(20\% \times \text{T}_{\text{total}} = 3\\) menit
-- **Inti (\\(I\\)):** \\(65\% \times \text{T}_{\text{total}} = 9.75 \approx 10\\) menit
-- **Penutup (\\(K\\)):** \\(15\% \times \text{T}_{\text{total}} = 2.25 \approx 2\\) menit
+- **Pendahuluan (\\(P\\)):** \\(20\text{\%} \times \text{T}_{\text{total}} = 3\\) menit
+- **Inti (\\(I\\)):** \\(65\text{\%} \times \text{T}_{\text{total}} = 9.75 \approx 10\\) menit
+- **Penutup (\\(K\\)):** \\(15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2\\) menit
 
 $$
 \text{T}_{\text{total}} = P + I + K

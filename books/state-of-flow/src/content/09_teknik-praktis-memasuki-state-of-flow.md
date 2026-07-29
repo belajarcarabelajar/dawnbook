@@ -29,7 +29,7 @@ Sama seperti atlet profesional yang melakukan pemanasan sebelum bertanding, kamu
 
 **Contoh Ritual 10 Menit:**
 
-1. **Menit 1-3 (Hidrasi & Nutrisi):** Minum segelas air putih. Otak yang terhidrasi bekerja \(15\%\) lebih cepat.
+1. **Menit 1-3 (Hidrasi & Nutrisi):** Minum segelas air putih. Otak yang terhidrasi bekerja \(15\text{\%}\) lebih cepat.
 2. **Menit 4-6 (Klarifikasi Micro-Goal):** Tuliskan satu hasil akhir yang sangat spesifik untuk sesi ini.
 	- *Buruk:* "Mengerjakan laporan."
 		- *Baik:* "Menyelesaikan 3 paragraf bagian analisis data."
@@ -49,7 +49,7 @@ Seringkali bagian tersulit dari *Flow* adalah memulainya. Katakan pada diri send
 
 ### Menemukan "Zona Goldilocks"
 
-Gunakan prinsip matematika sederhana untuk menentukan tingkat kesulitan tugas: \(\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\%\) Jika tugas terlalu mudah, kamu akan bosan (\(\text{Flow} \rightarrow \text{Boredom}\)). Jika terlalu sulit, kamu akan cemas (\(\text{Flow} \rightarrow \text{Anxiety}\)). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area di mana kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
+Gunakan prinsip matematika sederhana untuk menentukan tingkat kesulitan tugas: \(\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\text{\%}\) Jika tugas terlalu mudah, kamu akan bosan (\(\text{Flow} \rightarrow \text{Boredom}\)). Jika terlalu sulit, kamu akan cemas (\(\text{Flow} \rightarrow \text{Anxiety}\)). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area di mana kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
 
 ## 4\. Latihan Mental Harian
 
