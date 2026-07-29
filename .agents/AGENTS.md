@@ -11,15 +11,16 @@ Specifically:
 - **No Em-Dash (—) Rule**: The character em-dash (`—`) is strictly forbidden in the final book output. All subagents or operations must remove it entirely, replacing it with a comma (`,`), parentheses `( )` for parenthetical explanations, a colon (`:`) for definition clauses, or a regular hyphen (`-`) for quotation attributions, or rephrasing the sentence.
 - **Mandatory Manual Line-by-Line Inspection Rule (Rule R14)**: Agents and subagents MUST call `view_file` to manually read EVERY SINGLE chapter file line-by-line BEFORE making edits or running verification scripts. Relying on blind automated regular expressions (`sed`, mass `replace`, batch scripts) is STRICTLY PROHIBITED. Check all inline math `\( ... \)`, single-line display math `\[ ... \]`, multi-letter `\text{...}` variables, and context accuracy manually. Automated check scripts are ONLY post-flight verification tools, never a replacement for manual file reading.
 - **Zero-Failure LaTeX Decision Tree (Rule R15)**: Follow rigid IF-ELSE matrix for LaTeX rendering:
-  - **Inline Math:** Standard `\( ... \)` (or `\\( ... \\)`) in `.md`. Single backslash `\(` is recommended for native GitHub KaTeX rendering; `scripts/build.ts` automatically pre-processes it for mdBook.
-  - **Display Math:** Single-line `\[ \text{formula} \]` (or `\\[ ... \\]`) ONLY. Never multi-line split `\[`. Never use `\begin{aligned}` with `\\`. Use separate single-line `\[ ... \]` equations instead. Never use `$$ ... $$` delimiters.
-  - **MANDATORY BLANK LINES (Layout Rule):** Every `\\[ ... \\]` block MUST have a blank line BEFORE it AND a blank line AFTER it. Without blank lines, pulldown-cmark wraps the formula inside a `<p>` tag, making it render inline and scrambled. NO EXCEPTIONS, even after headings or list items.
+  - **Inline Math:** Standard `$ ... $` (or `\( ... \)`) in `.md`. Standard `$math$` (with NO spaces inside `$`, e.g. `$P_e$`) is recommended for native GitHub KaTeX rendering; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
+  - **Display Math:** Use `$$ ... $$` in `.md`.
+    - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
+    - **Display Math Inside List Items:** Indent by 3 spaces under list items (e.g. `   $$formula$$`) to maintain ordered list hierarchy without triggering CommonMark 4-space code-block traps.
+  - **MANDATORY BLANK LINES (Layout Rule):** Every standalone `$$` block MUST have a blank line BEFORE it AND a blank line AFTER it. Without blank lines, pulldown-cmark wraps the formula inside a `<p>` tag, making it render inline and scrambled.
   - **Variables:** Wrap multi-letter variables in `\text{...}` (e.g. `\text{MR}`, `\text{MC}`, `\text{PED}`, `\text{PES}`).
-  - **Percentage Signs `%` — CRITICAL RULE (Learned from Production Bug):** The `%` character is a TeX comment delimiter. Inside ANY math block, it silently discards everything from `%` to end-of-line, including closing `\]`, causing the ENTIRE formula to be invisible on the page. No error is shown. The formula simply disappears. MANDATORY: EVERY `%` inside `\\( ... \\)` or `\\[ ... \\]` MUST be written as `\text{\%}`. NO EXCEPTIONS.
-    - ✅ CORRECT: `\\( 50 \text{\%} \\)` and `\\[ \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]`
-    - ❌ WRONG: `\\( 50\% \\)` — mdBook strips backslash, `%` becomes TeX comment
-    - ❌ WRONG: `\\( 50\\% \\)` — becomes `\%` in HTML, still a TeX comment
-    - ❌ WRONG: `\\( 50% \\)` — raw `%` is always a TeX comment
+  - **Percentage Signs `%` — CRITICAL RULE:** The `%` character is a TeX comment delimiter. Inside ANY math block (`$ ... $` or `$$ ... $$`), it silently discards everything from `%` to end-of-line. MANDATORY: EVERY `%` inside math blocks MUST be written as `\text{\%}`. NO EXCEPTIONS.
+    - ✅ CORRECT: `$ 50 \text{\%} $` and `$$ \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} $$`
+    - ❌ WRONG: `$ 50\% $` — `%` becomes TeX comment
+    - ❌ WRONG: `$ 50% $` — raw `%` is always a TeX comment
   - **Cloudflare Rocket Loader Bypass:** Ensure `theme/head.hbs` contains `data-cfasync="false"` on MathJax script tags. Set `mathjax-support = false` in `book.toml`.
   - **CDN Edge Cache:** Ensure `output/_headers` contains `Cache-Control: no-store`. Verify edge HTML via `fetch`.
 - **MANDATORY AUDIT GATE (Rule R17):** `bun run scripts/check-latex-support.ts` MUST exit with code 0 BEFORE running `bun run build` or `bash scripts/deploy-website.sh`. If the audit fails, stop immediately, fix every `❌ [FAIL]` line manually using `view_file` + `replace_file_content`, and re-run the audit. Deploying with a failing audit is strictly forbidden.

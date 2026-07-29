@@ -46,31 +46,27 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Manual Reading Requirement:** Any AI assistant working on this repository MUST call `view_file` to manually inspect EVERY SINGLE chapter markdown file line-by-line before making any edits or running verification scripts.
 - **Forbidden Blind Execution:** Blind regular expression scripts (`sed`, mass search-and-replace, or batch node scripts) are STRICTLY FORBIDDEN as a substitute for manual file reading.
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
-  1. **Inline Math delimiters:** Use `\( ... \)` or `\\( ... \\)` in `.md` files. Standard `\( ... \)` is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes single backslashes into double backslashes for mdBook compilation.
-  2. **Display Math delimiters:** Use single-line `\[ ... \]` or `\\[ ... \\]` in `.md` files. Never split display math across multiple lines. Never use `$$ ... $$` delimiters. Never use `\begin{aligned}` with `\\` row separators inside display math.
-  3. **MANDATORY BLANK LINES AROUND DISPLAY MATH:** Every `\\[ ... \\]` block MUST be preceded by a blank line AND followed by a blank line. If a display math block is written without blank lines separating it from surrounding text, pulldown-cmark renders it inside a `<p>` tag, causing the formula to appear **inline and scrambled**. This is the single most common layout bug. Example:
-     - ✅ CORRECT:
+  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
+  2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files.
+     - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
+       ```markdown
+       $$
+       \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
+       $$
        ```
-       Rumusnya adalah:
-
-       \\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]
-
-       Nilai koefisien di atas menunjukkan...
+     - **Display Math Inside List Items:** Indent by 3 spaces under list items to maintain ordered list hierarchy without triggering CommonMark 4-space code-block traps:
+       ```markdown
+       1. Cari $\text{MC}$ (*Marginal Cost*) dari turunan $\text{TC}$:
+          $$\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20$$
        ```
-     - ❌ WRONG (formula rendered inside paragraph, layout broken):
-       ```
-       Rumusnya adalah:
-       \\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]
-       Nilai koefisien di atas menunjukkan...
-       ```
+  3. **MANDATORY BLANK LINES AROUND DISPLAY MATH:** Every standalone `$$` block MUST be preceded by a blank line AND followed by a blank line. If a display math block is written without blank lines separating it from surrounding text, pulldown-cmark renders it inside a `<p>` tag, causing the formula to appear **inline and scrambled**.
   4. **Multi-Letter Variables:** All multi-letter variable names (e.g. `TR`, `AR`, `MR`, `PED`, `PES`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`, `Es`, `Ed`) MUST be wrapped in `\text{...}` (e.g. `\text{PED}`).
-  5. **Percentage Signs `%` in Math — CRITICAL:** The `%` character is a TeX comment delimiter. Inside ANY math block (`\\( ... \\)` or `\\[ ... \\]`), a raw `%` or `\%` will cause MathJax to silently discard everything from that point to end-of-line, making the entire formula invisible. **MANDATORY RULE:** Every percentage sign inside a math block MUST be written as `\text{\%}`. Examples:
-     - ✅ CORRECT: `\\[ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} \\]`
-     - ✅ CORRECT: `\\( 50 \text{\%} \\)`
-     - ❌ WRONG: `\\[ E_d = \frac{\% \Delta Q}{\% \Delta P} \\]` (raw `%` — formula becomes invisible)
-     - ❌ WRONG: `\\( 50\% \\)` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
-     - ❌ WRONG: `\\( 50\\% \\)` (double-escaped `\\%` — becomes `\%` in HTML which is still a TeX comment)
-  5. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
+  5. **Percentage Signs `%` in Math — CRITICAL:** The `%` character is a TeX comment delimiter. Inside ANY math block (`$ ... $` or `$$ ... $$`), a raw `%` or `\%` will cause MathJax/KaTeX to silently discard everything from that point to end-of-line, making the entire formula invisible. **MANDATORY RULE:** Every percentage sign inside a math block MUST be written as `\text{\%}`. Examples:
+     - ✅ CORRECT: `$$ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} $$`
+     - ✅ CORRECT: `$ 50 \text{\%} $`
+     - ❌ WRONG: `$$ E_d = \frac{\% \Delta Q}{\% \Delta P} $$` (raw `%` — formula becomes invisible)
+     - ❌ WRONG: `$ 50\% $` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
+  6. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
 - **Check Scripts Are Post-Flight Only:** `check-latex-support.ts` and `check-media-support.ts` are post-flight verification tools ONLY, never a replacement for manual file reading. If a script fails, the agent MUST inspect the failing line manually with `view_file` and fix it with `replace_file_content`.
 - **AUDIT GATE:** `bun run scripts/check-latex-support.ts` MUST exit with code 0 before any `bun run build` or `deploy` is allowed. A non-zero exit code means the build is forbidden.
 - **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. The correct form is always `\text{\%}` — single nesting only.
