@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Ekonomi Laissez-faire"
+description = "Buku komprehensif tentang teori, sejarah, dan dinamika sistem ekonomi laissez-faire serta dampaknya terhadap pasar bebas dan kebijakan publik."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Ekonomi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
