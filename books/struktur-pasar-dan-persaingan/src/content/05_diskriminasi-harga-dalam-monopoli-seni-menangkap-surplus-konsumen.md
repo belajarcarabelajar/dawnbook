@@ -33,7 +33,7 @@ Ekonomi membagi strategi ini menjadi tiga tingkatan utama:
 Dalam skenario ideal bagi perusahaan, monopolis menetapkan harga yang tepat sama dengan **Willingness to Pay (WTP)** atau kemauan membayar maksimal dari setiap individu.
 
 - **Dampaknya:** Surplus konsumen menjadi nol. Semua surplus ekonomi berpindah ke produsen.
-- **Secara Matematis:** Perusahaan akan berproduksi hingga titik di mana harga sama dengan biaya marginal (\\(P = \\text{MC}\\)).
+- **Secara Matematis:** Perusahaan akan berproduksi hingga titik di mana harga sama dengan biaya marginal \\(P = \\text{MC}\\).
 - **Contoh Dunia Nyata:** Sangat jarang terjadi secara sempurna, tetapi proses **tawar-menawar** di pasar tradisional atau lelang mendekati model ini.
 
 ### B. Diskriminasi Harga Tingkat Kedua
@@ -59,11 +59,11 @@ Mari kita lihat perbedaan antara kebijakan harga tunggal dengan diskriminasi har
 
 | Skenario | Strategi | Hasil bagi Perusahaan |
 | --- | --- | --- |
-| **Harga Tunggal** | Menetapkan satu harga untuk semua (misal: \\(P = 100\\)). | Kehilangan pembeli yang hanya mampu bayar \\(80\\) dan kehilangan potensi margin dari yang mampu bayar \\(150\\). |
+| **Harga Tunggal** | Menetapkan satu harga untuk semua (misal: \\(P = 100\\). | Kehilangan pembeli yang hanya mampu bayar \\(80\\) dan kehilangan potensi margin dari yang mampu bayar \\(150\\). |
 | **Diskriminasi** | Menagih \\(150\\) ke kelompok berdaya beli tinggi, \\(100\\) ke kelas menengah, dan \\(80\\) ke pelajar. | Mengambil seluruh surplus dari ketiga kelompok tersebut. Profit meningkat. |
 
 **Persamaan Profit Maksimal pada Diskriminasi Harga Tingkat Ketiga:**  
-Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal (\\(\\text{MR}\\)) di setiap pasar sama dengan Biaya Marginal (\\(\\text{MC}\\)) keseluruhan:
+Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal \\(\\text{MR}\\) di setiap pasar sama dengan Biaya Marginal \\(\\text{MC}\\) keseluruhan:
 
 \\[
 \\begin{aligned}
@@ -71,7 +71,7 @@ Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal (\\(\\text{MR
 \\end{aligned}
 \\]
 
-Pasar dengan elastisitas (\\(\\epsilon\\)) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
+Pasar dengan elastisitas \\(\\epsilon\\) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
 
 \\[
 \\begin{aligned}

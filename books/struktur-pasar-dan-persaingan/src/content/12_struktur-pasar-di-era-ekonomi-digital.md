@@ -34,16 +34,16 @@ Di mana \\(V\\) adalah nilai jaringan dan \\(n\\) adalah jumlah pengguna. Jika j
 
 Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. *Contoh:* Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
 
-## 3. Struktur Biaya: Biaya Marginal Nol (\\(\\text{MC} \\approx 0\\))
+## 3. Struktur Biaya: Biaya Marginal Nol \\(\\text{MC} \\approx 0\\)
 
 Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya yang hampir sama dengan mobil ke-1. Namun, dalam ekonomi digital:
 
 - **Biaya Tetap Tinggi (High Fixed Costs):** Membangun perangkat lunak atau infrastruktur server pertama kali sangat mahal.
-- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan (\\(\\text{MC} \\to 0\\)).
+- **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan \\(\\text{MC} \\to 0\\).
 
 \\[ \\text{TC} = \\text{FC} + \\text{MC} \\cdot Q \\]
 
-Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna (\\(Q\\)). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
+Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna \\(Q\\). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
 
 ## 4. Dinamika "Winner-Takes-Most"
 

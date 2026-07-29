@@ -36,7 +36,7 @@ Model ini berasumsi adanya asimetri dalam reaksi pesaing:
 
 ### Representasi Matematis Sederhana
 
-Jika \\(P\\) adalah harga dan \\(Q\\) adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini (\\(P^*\\)):
+Jika \\(P\\) adalah harga dan \\(Q\\) adalah kuantitas, maka profil elastisitasnya berubah pada titik harga saat ini \\(P^*\\):
 
 - Untuk \\(P > P^*\\), permintaan bersifat **Elastis**: \\(\\% \\Delta Q > \\% \\Delta P\\)
 - Untuk \\(P < P^*\\), permintaan bersifat **Inelastis**: \\(\\% \\Delta Q < \\% \\Delta P\\)

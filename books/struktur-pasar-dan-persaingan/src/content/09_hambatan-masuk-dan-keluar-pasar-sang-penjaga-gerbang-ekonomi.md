@@ -18,7 +18,7 @@ Hambatan masuk dapat dikategorikan menjadi beberapa kelompok utama, seperti hamb
 
 ### A. Ekonomi Skala (Economies of Scale)
 
-Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala masal. Perusahaan besar sanggup menekan **Biaya Rata-rata (\\(\\text{AC}\\))** hingga titik minimum.
+Ini adalah keunggulan biaya yang dinikmati perusahaan besar karena memproduksi dalam skala masal. Perusahaan besar sanggup menekan **Biaya Rata-rata \\(\\text{AC}\\)** hingga titik minimum.
 
 Secara matematis, biaya rata-rata dirumuskan sebagai:
 
