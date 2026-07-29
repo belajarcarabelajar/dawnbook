@@ -19,13 +19,13 @@ Harga keseimbangan $P_e$ terjadi ketika jumlah barang yang diminta oleh konsumen
 Secara matematis:
 
 $$
-
 Q_d = a - b P
 $$
-$$
 
+$$
 Q_s = c + d P
 $$
+
 $$
 \text{Keseimbangan: } Q_d = Q_s
 $$
@@ -47,7 +47,6 @@ Bagi perusahaan individu di PPS:
 Dalam PPS, berlaku persamaan:
 
 $$
-
 P = \text{AR} = \text{MR}
 $$
 
@@ -84,7 +83,6 @@ Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini 
 > **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata $\text{AC}_{\text{min}}$. Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
 
 $$
-
 P = \text{MC} = \text{AC}_{\text{min}}
 $$
 
