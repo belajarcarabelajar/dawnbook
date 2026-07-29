@@ -139,66 +139,66 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 
 ## 6. SEO Automation Rules
 
-**R1 — Required Title and Meta Description**
+**R1 : Required Title and Meta Description**
 - **Statement:** Every public HTML page MUST have a unique non-empty `<title>` and `<meta name="description">`.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies no public HTML lacks these tags.
 
-**R2 — Canonical and Hreflang Tags**
+**R2 : Canonical and Hreflang Tags**
 - **Statement:** Every public page MUST emit a self-referencing canonical link and reciprocal `hreflang` for `en` and `id` locales.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies `<link rel="canonical">` and `<link rel="alternate" hreflang="...">` exist on all public pages.
 
-**R3 — Sitemap & LLMs.txt Generation**
+**R3 : Sitemap & LLMs.txt Generation**
 - **Statement:** `sitemap.xml` MUST list 100% of public content URLs and book chapters, while excluding confidential admin paths (`/admin`). An `/llms.txt` file MUST be generated to provide AI crawlers with a Markdown catalog.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies `sitemap.xml` contains all content paths and `/llms.txt` is present.
 
-**R4 — Confidential Path Exclusion & Content Indexability**
+**R4 : Confidential Path Exclusion & Content Indexability**
 - **Statement:** Confidential paths (`/admin`, `/admin/*`) MUST carry `X-Robots-Tag: noindex, nofollow` in `_headers` and MUST NOT appear in `sitemap.xml`. Conversely, NO book content page may carry a `noindex` signal.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Exits code 0; script verifies `/admin/*` is noindexed while all book content paths are indexable.
 
-**R5 — SEO Build Validation**
+**R5 : SEO Build Validation**
 - **Statement:** A runnable SEO check script MUST scan `output/**/*.html` and exit non-zero on any violation of rules R1-R4.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Script exits 0 when valid, exits >0 when an SEO violation is introduced.
 
-**R6 — Structured Data**
+**R6 : Structured Data**
 - **Statement:** Every public page MUST include JSON-LD structured data appropriate to its type (Book, Article, or BreadcrumbList).
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Script verifies `<script type="application/ld+json">` presence.
 
-**R7 — Image Alt Text Enforcement**
+**R7 : Image Alt Text Enforcement**
 - **Statement:** Every `<img>` tag in the rendered output MUST possess a descriptive `alt` attribute.
 - **Command:** `bun run scripts/check-seo.ts`
 - **Acceptance Check:** Script fails if `img:not([alt])` or `img[alt=""]` is found in public HTML.
 
-**R8 — Mandatory References Chapter**
+**R8 : Mandatory References Chapter**
 - **Statement:** Every book MUST include a dedicated references/bibliography chapter (`referensi.md`) containing academic literature and citations relevant to the book's discipline, registered in `SUMMARY.md`.
 - **Command:** `bun run build`
 - **Acceptance Check:** AuthoringAgent and BuildAgent verify that `SUMMARY.md` contains a link to `referensi.md`.
 
-**R9 — Newest-First Homepage Default Sorting**
+**R9 : Newest-First Homepage Default Sorting**
 - **Statement:** `scripts/build.ts` MUST sort book cards in static HTML newest-first using creation/git-commit timestamps (`b.mtimeMs - a.mtimeMs`) and embed `data-created-at="${timestamp}"` on every `.book-card` element, ensuring newly added books appear at the top of the homepage grid by default both before and after JS hydration.
 - **Command:** `bun run build`
 - **Acceptance Check:** `output/index.html` renders the most recently added/updated book as the first card (`Card #1`).
 
 ## 7. SEO Risk Rules
 
-**S1 — Anti-FOUC Crawler Invisibility**
+**S1 : Anti-FOUC Crawler Invisibility**
 - **Statement:** Client-only rendered content hidden by anti-FOUC may be invisible to non-executing crawlers.
 - **Required End State:** Anti-FOUC scripts (`opacity: 0`) must ONLY evaluate client-side states (like `sessionStorage`) and must immediately restore visibility if JS execution halts. Public preview pages must never receive synchronous `opacity: 0` without a fallback `<noscript>` tag that restores visibility.
 
-**S2 — Cache-Control Indexing Prevention**
+**S2 : Cache-Control Indexing Prevention**
 - **Statement:** `no-store` and `private` headers prevent caching and indexing of gated assets by downstream CDNs and bots.
 - **Required End State:** `functions/_middleware.ts` must apply `Cache-Control: private, no-store` ONLY to gated routes. Public paths must retain public cacheability to ensure crawlers index them rapidly and efficiently.
 
-**S3 — Render-Blocking Assets Degrading CWV**
+**S3 : Render-Blocking Assets Degrading CWV**
 - **Statement:** Render-blocking MathJax/CDN scripts and non-lazy YouTube iframes degrade Core Web Vitals (LCP, CLS, FID).
 - **Required End State:** External scripts (MathJax) must use `async` or `defer`. YouTube `<iframe>` elements must include `loading="lazy"`.
 
-**S4 — Missing Localization Signals**
+**S4 : Missing Localization Signals**
 - **Statement:** Missing canonical and `hreflang` tags causes duplicate-content penalties and locale confusion across `en`/`id`.
 - **Required End State:** Exact locale mappings must be declared in `<head>` so Google correctly serves `id` to Indonesian users and `en` to others without algorithmic guessing.
 

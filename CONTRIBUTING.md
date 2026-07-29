@@ -65,7 +65,7 @@ npx wrangler d1 execute dawnbook-db --local --file=db/migrations/0001_init.sql
 
 ### Seeding Data from File-Based Books
 
-The seed script reads all books from `books/` (skipping `_`-prefixed directories) and upserts them into D1. It is idempotent — running it multiple times produces identical results:
+The seed script reads all books from `books/` (skipping `_`-prefixed directories) and upserts them into D1. It is idempotent - running it multiple times produces identical results:
 
 ```bash
 bun run scripts/migrate-to-d1.ts
@@ -100,7 +100,7 @@ Set these in the Cloudflare Pages dashboard under **Settings → Environment var
 | Variable | Purpose |
 |---|---|
 | `GOOGLE_CLIENT_ID` | Google OAuth 2.0 client ID (from Google Cloud Console) |
-| `GOOGLE_CLIENT_SECRET` | Google OAuth 2.0 client secret — used by `/api/auth/callback` to exchange codes |
+| `GOOGLE_CLIENT_SECRET` | Google OAuth 2.0 client secret: used by `/api/auth/callback` to exchange codes |
 
 The D1 binding (`DB`) is configured in `wrangler.toml` and is automatically available to every Pages Function as `env.DB`.
 
@@ -135,12 +135,12 @@ mdBook uses **pulldown-cmark** as its markdown parser. pulldown-cmark treats `\(
 
 **Rules:**
 
-1. **Inline math** (variables, short expressions): use `\\(...\\)` — **two backslashes** in the `.md` file.
+1. **Inline math** (variables, short expressions): use `\\(...\\)` - **two backslashes** in the `.md` file.
    ```markdown
-   <!-- ❌ WRONG — single backslash stripped by pulldown-cmark -->
+   <!-- ❌ WRONG: single backslash stripped by pulldown-cmark -->
    - \(R_{1,t}\) adalah ekspektasi pendapatan...
 
-   <!-- ✅ CORRECT — double backslash passes through to HTML -->
+   <!-- ✅ CORRECT: double backslash passes through to HTML -->
    - \\(R_{1,t}\\) adalah ekspektasi pendapatan...
    ```
 
@@ -151,7 +151,7 @@ mdBook uses **pulldown-cmark** as its markdown parser. pulldown-cmark treats `\(
 
 3. **Variable description lists** under a formula: every variable symbol **must** also use `\\(...\\)`.
    ```markdown
-   <!-- ❌ WRONG — variable descriptions as plain text -->
+   <!-- ❌ WRONG: variable descriptions as plain text -->
    - R_{1,t} adalah ekspektasi pendapatan...
    - (R_{1,t}) adalah ekspektasi pendapatan...
 
@@ -164,7 +164,7 @@ mdBook uses **pulldown-cmark** as its markdown parser. pulldown-cmark treats `\(
 
 4. **Multi-letter variable names** inside math mode must use `\text{...}`:
    ```markdown
-   <!-- ❌ WRONG — KaTeX renders NPV as N×P×V (italic multiplication) -->
+   <!-- ❌ WRONG: KaTeX renders NPV as N×P×V (italic multiplication) -->
    $$NPV = ...$$
 
    <!-- ✅ CORRECT -->
@@ -239,7 +239,7 @@ Any authenticated session (regardless of role) is sufficient for gated content. 
 
 ### Promoting an admin
 
-The owner can promote a user with a one-off D1 update — no separate admin tool is required for the initial bootstrap:
+The owner can promote a user with a one-off D1 update: no separate admin tool is required for the initial bootstrap:
 
 ```bash
 npx wrangler d1 execute dawnbook-db --remote \

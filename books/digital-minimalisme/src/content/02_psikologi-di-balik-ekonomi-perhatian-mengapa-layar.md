@@ -1,4 +1,4 @@
-## Psikologi di Balik Ekonomi Perhatian: Mengapa Layar Begitu Memikat?
+## Psikologi di Balik Attention Economy (Ekonomi Perhatian): Mengapa Layar Begitu Memikat?
 
 Selamat datang di inti dari permasalahan digital kita. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" namun tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
 

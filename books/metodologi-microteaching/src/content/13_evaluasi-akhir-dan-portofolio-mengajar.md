@@ -18,7 +18,7 @@ $$
 \text{Kompetensi} = (\text{Pengetahuan} \times \text{Keterampilan}) + \text{Refleksi}
 $$
 
-Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil—mulai dari cara kamu bertanya hingga cara kamu mengelola kelas—telah dianalisis secara kritis.
+Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi akhir memastikan bahwa setiap detil kecil (mulai dari cara kamu bertanya hingga cara kamu mengelola kelas) telah dianalisis secara kritis.
 
 ## 2. Menyusun Portofolio Mengajar (Teaching Portfolio)
 

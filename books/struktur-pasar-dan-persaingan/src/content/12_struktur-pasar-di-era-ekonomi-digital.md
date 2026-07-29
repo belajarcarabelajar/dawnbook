@@ -16,7 +16,7 @@ Platform digital bertindak sebagai perantara yang menghubungkan dua atau lebih k
 
 Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola membeli stok barang, memajangnya di rak, lalu kamu membelinya. Sekarang bayangkan "Pasar Malam Digital" (platform). Penyelenggara pasar malam tidak menjual barang secara langsung, melainkan menyediakan lahan, penerangan, dan keamanan agar pedagang serta pembeli dapat berinteraksi. Semakin ramai pembeli yang berkunjung, semakin banyak pedagang yang berminat menyewa lapak, dan berlaku pula sebaliknya.
 
-## 2. Efek Jaringan (Network Effects): Jantung Ekonomi Digital
+## 2. Network Effects (Efek Jaringan): Jantung Ekonomi Digital
 
 Mengapa Facebook, WhatsApp, atau Gojek begitu sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena di mana nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
 

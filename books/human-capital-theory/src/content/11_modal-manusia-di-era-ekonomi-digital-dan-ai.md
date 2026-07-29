@@ -1,6 +1,6 @@
-# Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan
+# Modal Manusia di Era Ekonomi Digital dan Artificial Intelligence (AI)
 
-Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita telah membahas bagaimana pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, maka di bagian ini kita akan menjelajahi bagaimana aturan main tersebut berubah total akibat revolusi digital dan kecerdasan buatan (*Artificial Intelligence* - AI).
+Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita telah membahas bagaimana pendidikan formal dan pelatihan teknis membangun nilai ekonomi seseorang, maka di bagian ini kita akan menjelajahi bagaimana aturan main tersebut berubah total akibat revolusi digital dan Artificial Intelligence (AI).
 
 Bayangkan modal manusia (*Human Capital*) sebagai sebuah perangkat lunak (*software*). Di era industri, pekerja mungkin hanya memerlukan satu kali instalasi besar (seperti pendidikan tinggi) untuk bekerja selama 30 tahun. Namun, di era digital, sistem operasi dunia kerja diperbarui secara kontinu. Tanpa pembaruan berkala, modal manusia akan mengalami depresiasi teknis yang sangat cepat.
 

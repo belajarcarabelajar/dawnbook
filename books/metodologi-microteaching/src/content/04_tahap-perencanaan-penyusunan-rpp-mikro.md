@@ -2,7 +2,7 @@
 
 Selamat datang di tahap yang paling krusial dalam siklus *microteaching*. Jika diibaratkan sebuah perjalanan, Rencana Pelaksanaan Pembelajaran (RPP) Mikro adalah **peta navigasi** kamu. Tanpa peta yang jelas, waktu 10-15 menit yang kamu miliki akan habis begitu saja tanpa mencapai tujuan pembelajaran yang diinginkan.
 
-Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot"—artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
+Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot", artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
 
 ## 1. Filosofi RPP Mikro: "Less is More"
 
@@ -10,7 +10,7 @@ Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit),
 
 > "Kualitas pengajaran mikro tidak ditentukan oleh seberapa banyak materi yang kamu sampaikan, melainkan seberapa efektif satu keterampilan dasar mengajar dipraktikkan dalam fragmen materi tersebut."
 
-**Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet** —kecil, sekali makan, namun memiliki ledakan rasa yang lengkap dan presentasi yang sempurna.
+**Analogi:** Bayangkan RPP biasa adalah sebuah **jamuan makan malam lengkap** (dari makanan pembuka hingga penutup). Sementara itu, RPP Mikro adalah sebuah **canapé atau camilan gourmet**, kecil, sekali makan, namun memiliki ledakan rasa yang lengkap dan presentasi yang sempurna.
 
 ## 2. Komponen Esensial RPP Mikro
 
@@ -82,7 +82,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 
 ## 6. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
 
-Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks—misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
+Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks, misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
 
 **Skenario Nyata:** Seorang pelatih di perusahaan teknologi (*Corporate Trainer*) hanya memiliki waktu 15 menit saat *stand-up meeting* untuk menjelaskan fitur baru sebuah aplikasi kepada tim pengembang. Dengan menggunakan prinsip RPP Mikro, pelatih tersebut dapat:
 

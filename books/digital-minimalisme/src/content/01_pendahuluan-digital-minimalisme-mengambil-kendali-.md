@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, namun saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
 
-Selamat datang di era **Ekonomi Perhatian**. Di sini, setiap detik fokus kamu adalah komoditas yang diperjualbelikan. Digital Minimalisme adalah filosofi untuk merebut kembali kedaulatan diri dari genggaman algoritma. Gerakan ini sama sekali tidak anti-teknologi.
+Selamat datang di era **Attention Economy (Ekonomi Perhatian)**. Di sini, setiap detik fokus kamu adalah komoditas yang diperjualbelikan. Digital Minimalisme adalah filosofi untuk merebut kembali kedaulatan diri dari genggaman algoritma. Gerakan ini sama sekali tidak anti-teknologi.
 
 ## Apa Itu Digital Minimalisme?
 

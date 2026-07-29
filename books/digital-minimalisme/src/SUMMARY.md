@@ -1,7 +1,7 @@
 # Summary
 
 - [Pendahuluan Digital Minimalisme: Mengambil Kendali di Dunia yang Berisik](content/01_pendahuluan-digital-minimalisme-mengambil-kendali-.md)
-- [Psikologi di Balik Ekonomi Perhatian: Mengapa Layar Begitu Memikat?](content/02_psikologi-di-balik-ekonomi-perhatian-mengapa-layar.md)
+- [Psikologi di Balik Attention Economy (Ekonomi Perhatian): Mengapa Layar Begitu Memikat?](content/02_psikologi-di-balik-ekonomi-perhatian-mengapa-layar.md)
 - [Menentukan Nilai-Nilai Inti Kehidupan](content/03_menentukan-nilai-nilai-inti-kehidupan.md)
 - [Metode Digital Declutter: Pembersihan Total](content/04_metode-digital-declutter-pembersihan-total.md)
 - [Prinsip Optimalisasi Penggunaan Alat: Seni Menajamkan Pedang](content/05_prinsip-optimalisasi-penggunaan-alat-seni-menajamk.md)

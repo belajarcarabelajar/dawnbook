@@ -56,7 +56,7 @@ Price, D. (2004). Solaris zones: Operating system support for consolidating comm
 
 Rosen, R. (2013). *Linux kernel networking: Implementation and theory*. Apress. [https://doi.org/10.1007/978-1-4302-6197-1](https://doi.org/10.1007/978-1-4302-6197-1)
 
-Stancevic, O. (2016). Namespaces in operation: Part 7 — Network namespaces. *Linux Weekly News (LWN)*. [https://lwn.net/Articles/580893/](https://lwn.net/Articles/580893/)
+Stancevic, O. (2016). Namespaces in operation: Part 7: Network namespaces. *Linux Weekly News (LWN)*. [https://lwn.net/Articles/580893/](https://lwn.net/Articles/580893/)
 
 Srinivasan, R., & Gopalan, K. (2013). Linux cgroups: Resource management, isolation, and control. *Journal of Systems and Software, 86*(10), 2657-2678. [https://doi.org/10.1016/j.jss.2013.05.034](https://doi.org/10.1016/j.jss.2013.05.034)
 

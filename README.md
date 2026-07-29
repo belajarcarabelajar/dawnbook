@@ -46,7 +46,7 @@ To run this platform locally, you need:
    
    - **Cloudflare Pages dashboard** → Settings → Environment variables → Production: mirror `GOOGLE_CLIENT_ID` and `GOOGLE_CLIENT_SECRET` so Pages Functions can read them at the edge.
    
-   See `.env.example` for the full tracked template. **Never commit your real `.env` — it is git-ignored.**
+   See `.env.example` for the full tracked template. **Never commit your real `.env` - it is git-ignored.**
 
 3. **Install dependencies:**
    ```sh
