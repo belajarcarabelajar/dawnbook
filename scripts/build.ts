@@ -1041,6 +1041,7 @@ async function buildAdminDashboardAndHeaders(outputDir: string) {
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://accounts.google.com https://*.googleusercontent.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
 `;
 
