@@ -29,10 +29,9 @@ Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianism
 
 **Rumus Permintaan Agregat:** Dalam model Keynesian, output ekonomi ($Y$) ditentukan oleh formula berikut:
 
-   $$
-   Y = C + I + G + (X - M)
-   $$
-
+$$
+Y = C + I + G + (X - M)
+$$
 Di mana:
 
 - $C$: Konsumsi rumah tangga

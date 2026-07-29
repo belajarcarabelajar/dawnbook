@@ -28,13 +28,12 @@ Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari se
 
 **Matematika Fragmentasi:** Jika $S$ adalah kekuatan total Uni Soviet, maka setelah 1991:
 
-   $$
+$$
    \begin{aligned}
 \text{S}_{\text{USSR}} &\neq \text{S}_{\text{Russia}} \\
 \text{S}_{\text{USSR}} &\approx \text{S}_{\text{Russia}} + \text{S}_{\text{Ukraine}} + \text{S}_{\text{Georgia}} + \dots + \text{S}_{\text{12 negara lainnya}}
 \end{aligned}
-   $$
-
+$$
 Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 
 ## 3. Tragedi dan Kejayaan: Pecahnya Yugoslavia

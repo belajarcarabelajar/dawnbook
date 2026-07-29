@@ -65,9 +65,9 @@ Dalam satu matriks keputusan, kamu akan sering menemui kombinasi antara data kua
 
 - **Data Kuantitatif:** Gunakan rumus normalisasi sederhana. Sebagai contoh, untuk kriteria Harga (di mana nilai yang lebih rendah justru lebih baik), kamu bisa menggunakan rumus:
 
-   $$
-   \\text{Skor} = \\frac{\\text{Harga Termurah}}{\\text{Harga Alternatif}} \\times \\text{Skala Maksimal}
-   $$
+$$
+\\text{Skor} = \\frac{\\text{Harga Termurah}}{\\text{Harga Alternatif}} \\times \\text{Skala Maksimal}
+$$
 - **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memposisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
 
 Sebagai gambaran, jika kamu menilai "Kenyamanan Kantor", bagaimana cara memastikan skor '4' yang kamu berikan memiliki standar yang sama dengan skor '4' dari rekan kerjamu? Di sinilah deskripsi tertulis pada setiap angka skala memainkan peran penting untuk menyamakan persepsi.

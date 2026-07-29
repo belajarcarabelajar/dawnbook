@@ -108,15 +108,14 @@ Sebuah perusahaan dalam pasar persaingan sempurna menghadapi harga pasar $P = 10
 
 1. Cari $\text{MC}$ (*Marginal Cost*) dari turunan $\text{TC}$:
 
-   $$
-   \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
-   $$
+$$
+\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
+$$
 2. Gunakan syarat $P = \text{MC}$ (karena dalam PPS, $P = \text{MR}$):
 
-   $$
-   100 = 10Q + 20 \implies 10Q = 80 \implies Q = 8
-   $$
-
+$$
+100 = 10Q + 20 \implies 10Q = 80 \implies Q = 8
+$$
 **Kesimpulan:** Perusahaan harus memproduksi **8 unit** untuk memaksimalkan laba pada tingkat harga tersebut.
 
 Meskipun dalam jangka panjang semua perusahaan hanya mendapat laba normal, orang tetap terdorong berbisnis di pasar persaingan sempurna karena "Laba Normal" dalam ilmu ekonomi sudah memperhitungkan gaji untuk pemilik dan tingkat pengembalian (*return*) yang wajar atas modal yang ditanamkan.

@@ -11,10 +11,9 @@ Laissez-faire telah meninggalkan jejak permanen pada struktur masyarakat modern.
 - **Pemberdayaan Individu:** Filosofi ini menggeser fokus dari kekuatan negara ke kedaulatan konsumen. Keputusan ekonomi kamu hari ini (apa yang kamu beli, di mana kamu bekerja) adalah bentuk nyata dari warisan Laissez-faire.
 - **Efisiensi sebagai Standar:** Konsep bahwa persaingan mendorong efisiensi telah menjadi doktrin universal. Perusahaan yang gagal berinovasi akan tersingkir, memastikan bahwa sumber daya $S$ dialokasikan ke tempat yang paling produktif secara matematis:
 
-   $$
-   E = \frac{\text{Output}}{\text{Input}} \rightarrow \text{Maksimal}
-   $$
-
+$$
+E = \frac{\text{Output}}{\text{Input}} \rightarrow \text{Maksimal}
+$$
 - **Kesejahteraan Global:** Perdagangan bebas yang kita nikmati hari ini adalah turunan langsung dari penolakan Laissez-faire terhadap merkantilisme dan proteksionisme.
 
 > **Insight:** Warisan terbesar Laissez-faire bukanlah ketiadaan pemerintah, melainkan pengakuan bahwa pasar memiliki kecerdasan kolektif yang sering kali melampaui kemampuan perencanaan pusat manapun.

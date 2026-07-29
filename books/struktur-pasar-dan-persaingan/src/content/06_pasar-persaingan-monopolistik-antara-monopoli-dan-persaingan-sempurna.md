@@ -42,10 +42,9 @@ Dalam pasar persaingan monopolistik, fungsi iklan melampaui sekadar hiasan: ikla
 
 **Matematika Sederhana Profitabilitas:** Dalam jangka pendek, perusahaan dapat mencapai keuntungan maksimal saat Pendapatan Marginal $\\text{MR}$ sama dengan Biaya Marginal $\\text{MC}$:
 
-   $$
-   \text{MR} = \text{MC}
-   $$
-
+$$
+\text{MR} = \text{MC}
+$$
 Jika Harga $P$ lebih besar dari Biaya Satuan Rata-rata $\\text{ATC}$, maka:
 
 $$

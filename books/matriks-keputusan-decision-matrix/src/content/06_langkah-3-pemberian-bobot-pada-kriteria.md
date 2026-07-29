@@ -35,9 +35,9 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 - **Normalisasi Nilai:** Setelah memberikan angka kasar, kamu harus melakukan proses normalisasi agar jumlah seluruh bobot tepat bernilai 1,0.
 - **Rumus Normalisasi:**
 
-   $$
-   w_i = \\frac{p_i}{\\sum_{j=1}^{n} p_j}
-   $$
+$$
+w_i = \\frac{p_i}{\\sum_{j=1}^{n} p_j}
+$$
   Di mana:
   - $w_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
   - $p_i$ = Skor kepentingan kriteria ke-$i$

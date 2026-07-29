@@ -59,10 +59,9 @@ Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebaga
 - **Akselerasi:** Jam-jam terasa seperti menit (paling umum terjadi).
 - **Deselerasi:** Detik-detik terasa melambat, sering dilaporkan oleh atlet atau penari saat melakukan gerakan teknis yang rumit (misalnya, peselancar di dalam ombak besar).
 
-   $$
-   \Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
-   $$
-
+$$
+\Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
+$$
 ## 9\. Pengalaman Autotelik (Autotelic Experience)
 
 Kata "autotelik" berasal dari bahasa Yunani *autos* (diri sendiri) dan *telos* (tujuan). Aktivitas tersebut menjadi hadiah bagi dirinya sendiri. Kamu melakukannya bukan demi uang, ketenaran, atau pujian, melainkan karena aktivitas itu sendiri terasa sangat memuaskan.

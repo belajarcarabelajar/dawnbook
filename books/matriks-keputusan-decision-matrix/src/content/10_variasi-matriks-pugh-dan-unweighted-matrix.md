@@ -14,10 +14,9 @@ Bayangkan kamu sedang memilih menu makan siang kantor untuk tim. Kriteria yang d
 
 **Rumus Matematisnya:**
 
-   $$
-   \\text{Total Skor} = \\sum_{i=1}^{n} \\text{Skor}_{i}
-   $$
-
+$$
+\\text{Total Skor} = \\sum_{i=1}^{n} \\text{Skor}_{i}
+$$
 *Di mana $n$ adalah jumlah kriteria.*
 
 #### Kapan Menggunakan Unweighted Matrix?

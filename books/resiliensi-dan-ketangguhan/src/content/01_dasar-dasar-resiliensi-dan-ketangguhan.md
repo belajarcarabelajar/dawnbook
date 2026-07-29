@@ -57,10 +57,9 @@ Untuk membangun fondasi yang kuat, kita perlu memahami elemen-elemen yang memben
 - **Optimisme Realistis:** Percaya bahwa hal baik akan terjadi, namun tetap sadar akan tantangan yang ada.
 - **Efikasi Diri:** Keyakinan pada kemampuan diri sendiri untuk memecahkan masalah.
 
-   $$
-   \text{Resiliensi} \approx (\text{Kekuatan Internal} + \text{Dukungan Eksternal}) \times \text{Adaptabilitas}
-   $$
-
+$$
+\text{Resiliensi} \approx (\text{Kekuatan Internal} + \text{Dukungan Eksternal}) \times \text{Adaptabilitas}
+$$
 ## 5\. Real-World Application: Skenario Kegagalan Proyek
 
 Mari kita lihat bagaimana resiliensi dan ketangguhan bekerja dalam praktik nyata.
