@@ -627,6 +627,31 @@ This rule mandates an absolute zero-tolerance policy for broken, raw, un-rendere
 
 ---
 
+**R16 — Mandatory 1:1 Subagent-to-File Delegation Rule (Phase B Execution Protocol)**
+
+*Statement:*
+During Phase B (Authoring, Scaffolding, & Editing), the top-level agent (OrchestratorAgent) IS STRICTLY FORBIDDEN from writing or editing chapter files directly or using consolidated batch scripts to modify multiple chapter files at once. The OrchestratorAgent MUST spawn a SEPARATE subagent via `invoke_subagent` for EVERY SINGLE CHAPTER FILE (1:1 Subagent-to-File ratio).
+
+*Rules & Constraints for 1:1 Subagent Delegation:*
+
+1. **Strict 1:1 Ratio:**
+   - 1 Subagent = 1 Chapter File (e.g. `01_...md`).
+   - If a book contains 13 files (`01_...md` through `13_referensi.md`), the OrchestratorAgent MUST launch 13 distinct subagents via `invoke_subagent`.
+
+2. **No Batch Script Bypassing:**
+   - Writing a consolidated Node.js/Bun script, Python script, or shell loop that iterates over and edits all `.md` files at once to "save tokens" is STRICTLY FORBIDDEN.
+   - Local architectural compliance to the 1:1 subagent pipeline supersedes any global token optimization rules.
+
+3. **Subagent Mandate:**
+   Each invoked subagent MUST:
+   - Inherit full repository rules and execute Rule R14 (Mandatory Manual `view_file` Line-by-Line Inspection) and Rule R15 (Zero-Failure LaTeX Decision Tree).
+   - Inspect and edit ONLY its designated single file.
+   - Write the final file using `write_to_file` with `Overwrite: true`.
+
+*Acceptance check:* `invoke_subagent` was invoked once per chapter file. No batch file-editing scripts were executed during Phase B.
+
+---
+
 ## 6. Security and Process Rules
 
 Each rule states an **enforced constraint** and a **required end state**.
