@@ -41,7 +41,7 @@ Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya y
 - **Biaya Tetap Tinggi (High Fixed Costs):** Membangun perangkat lunak atau infrastruktur server pertama kali sangat mahal.
 - **Biaya Marginal Rendah (Low/Zero Marginal Cost):** Menduplikasi perangkat lunak tersebut untuk pengguna ke-sejuta hampir tidak memakan biaya tambahan \\(\\text{MC} \\to 0\\).
 
-$$\\text{TC} = \\text{FC} + \\text{MC} \\cdot Q$$
+\\[ \text{TC} = \text{FC} + \text{MC} \cdot Q \\]
 
 Karena \\(\\text{MC} \\approx 0\\), maka \\(\\frac{\\text{TC}}{Q}\\) (Biaya Rata-rata) akan terus turun seiring meningkatnya jumlah pengguna \\(Q\\). Inilah yang memicu skala ekonomi yang masif (*economies of scale*).
 

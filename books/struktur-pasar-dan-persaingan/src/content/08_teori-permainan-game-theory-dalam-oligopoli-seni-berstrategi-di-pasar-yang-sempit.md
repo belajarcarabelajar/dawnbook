@@ -98,8 +98,4 @@ Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang 
 - **Interdependensi** merupakan karakteristik utama dari struktur pasar oligopoli.
 - **Dilema Narapidana** menjelaskan penyebab sulitnya mempertahankan kerja sama akibat adanya dorongan individual untuk berkhianat.
 - **Keseimbangan Nash** tercapai saat setiap pemain memilih strategi optimalnya berdasarkan perkiraan atas tindakan pemain lain, sehingga tidak ada pihak yang terdorong mengubah keputusannya.
-- **Perang Harga** terjadi ketika perusahaan terjebak dalam kompetisi penurunan harga yang mengikis tingkat profitabilitas.
-
-\\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
-
-Dalam situasi kolusi, \\( \\text{Keuntungan}_{\\text{Total}} \\) dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, \\( \\text{Keuntungan}_{\\text{Total}} \\) sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
+Dalam situasi kolusi, \\( \text{Keuntungan}_{\text{Total}} \\) dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, \\( \text{Keuntungan}_{\text{Total}} \\) sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.

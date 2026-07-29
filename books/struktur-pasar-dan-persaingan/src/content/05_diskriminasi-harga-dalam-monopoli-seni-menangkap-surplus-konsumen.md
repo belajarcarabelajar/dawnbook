@@ -67,9 +67,9 @@ Perusahaan akan mengalokasikan output sehingga Pendapatan Marginal \\(\\text{MR}
 
 \\[ \text{MR}_1 = \text{MR}_2 = \text{MC} \\]
 
-Pasar dengan elastisitas \\(\\epsilon\\) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
+Pasar dengan elastisitas \\( \epsilon \\) lebih rendah akan dikenakan harga lebih tinggi sesuai aturan *Inverse Elasticity Rule*:
 
-\\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
+\\[ \frac{P - \text{MC}}{P} = \frac{1}{|\epsilon|} \\]
 
 ## 5. Penerapan di Dunia Nyata
 

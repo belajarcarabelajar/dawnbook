@@ -38,12 +38,12 @@ Dalam pasar persaingan sempurna, kurva permintaan yang dihadapi oleh **satu peru
 
 Secara matematis, hubungan antara Harga \\( P \\), Pendapatan Rata-rata \\( \text{AR} \\), dan Pendapatan Marjinal \\( \text{MR} \\) adalah sebagai berikut:
 
-$$P = \text{AR} = \text{MR}$$
+\\[ P = \text{AR} = \text{MR} \\]
 
 **Mengapa demikian?**
 
 1. **Total Revenue (TR):** \\( \text{TR} = P \times Q \\)
-2. **Average Revenue (AR):** \\( \frac{\text{TR}}{Q} = \frac{P \times Q}{Q} = P \\)
+2. **Average Revenue (AR):** \\( \frac{\text{TR}}{Q} = \frac{P \cdot Q}{Q} = P \\)
 3. **Marginal Revenue (MR):** Tambahan pendapatan dari menjual satu unit tambahan. Karena harga tetap, maka \\( \text{MR} \\) selalu sama dengan \\( P \\).
 
 > **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak \\( Q \\) yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
