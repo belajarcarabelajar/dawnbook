@@ -18,7 +18,9 @@ Harga keseimbangan \\(P_e\\) terjadi ketika jumlah barang yang diminta oleh kons
 
 Secara matematis:
 
-\\[ \begin{aligned} Q_d &= a - b P \\ Q_s &= c + d P \\ \text{Keseimbangan: } Q_d &= Q_s \end{aligned} \\]
+\\[ Q_d = a - b P \\]
+\\[ Q_s = c + d P \\]
+\\[ \text{Keseimbangan: } Q_d = Q_s \\]
 
 > **Intisari:** Di pasar ini, perusahaan adalah **Price Taker** (Penerima Harga). Mereka tidak punya kekuatan untuk mengubah harga pasar. Jika mereka menaikkan harga sedikit saja, konsumen akan lari ke ribuan penjual lain yang menjual produk identik.
 
