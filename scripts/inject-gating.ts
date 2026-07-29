@@ -70,42 +70,6 @@ async function processDirectory(
     </script>
 `;
 
-      const escapedTitle = escapeHtml(pageTitle);
-      const escapedUrl = escapeHtml(url);
-
-      const seoTags = `
-        <meta name="theme-color" content="#000000" />
-        <link rel="manifest" href="/manifest.webmanifest" />
-        <script src="/register-sw.js" defer></script>
-        <script src="/pake-compat.js" defer></script>
-        <link rel="canonical" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
-        <meta name="description" content="${escapedTitle}" />
-        <meta property="og:title" content="${escapedTitle}" />
-        <meta property="og:type" content="article" />
-        <meta property="og:url" content="${escapedUrl}" />
-        <meta name="twitter:card" content="summary" />
-        <script type="application/ld+json">
-        {
-          "@context": "https://schema.org",
-          "@type": "Article",
-          "headline": ${escapeJson(pageTitle)},
-          "url": ${escapeJson(url)}
-        }
-        </script>
-      `;
-
-      if (content.includes("<head>")) {
-        content = content.replace("<head>", "<head>" + gaTag);
-      } else if (content.match(/<head[^>]*>/i)) {
-        content = content.replace(/<head[^>]*>/i, "$&" + gaTag);
-      }
-
-      if (content.includes("</head>")) {
-        content = content.replace("</head>", seoTags + "\n</head>");
-      }
-
       let isGatedClientSide = false;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
@@ -133,6 +97,62 @@ async function processDirectory(
             isGatedClientSide = true;
           }
         }
+      }
+
+      const escapedTitle = escapeHtml(pageTitle);
+      const escapedUrl = escapeHtml(url);
+      const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
+
+      const jsonLdData: any = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": pageTitle,
+        "url": url,
+        "isAccessibleForFree": isGatedClientSide ? "false" : "true",
+        "publisher": {
+          "@type": "Organization",
+          "name": "Dawnbook",
+          "url": "https://dawnbook.belajarcarabelajar.com"
+        }
+      };
+
+      if (isGatedClientSide) {
+        jsonLdData.hasPart = {
+          "@type": "WebPageElement",
+          "isAccessibleForFree": "false",
+          "cssSelector": ".content"
+        };
+      }
+
+      const seoTags = `
+        <meta name="theme-color" content="#000000" />
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <script src="/register-sw.js" defer></script>
+        <script src="/pake-compat.js" defer></script>
+        <link rel="canonical" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
+        <meta name="description" content="${escapedTitle}" />
+        <meta property="og:title" content="${escapedTitle}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="${escapedUrl}" />
+        <meta property="og:image" content="${defaultImage}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="${escapedTitle}" />
+        <meta name="twitter:image" content="${defaultImage}" />
+        <script type="application/ld+json">
+        ${JSON.stringify(jsonLdData, null, 2)}
+        </script>
+      `;
+
+      if (content.includes("<head>")) {
+        content = content.replace("<head>", "<head>" + gaTag);
+      } else if (content.match(/<head[^>]*>/i)) {
+        content = content.replace(/<head[^>]*>/i, "$&" + gaTag);
+      }
+
+      if (content.includes("</head>")) {
+        content = content.replace("</head>", seoTags + "\n</head>");
       }
 
       if (isGatedClientSide) {

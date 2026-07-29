@@ -13,6 +13,7 @@
  */
 
 import { buildAuthUrl, randomState, safeRedirectPath } from "../../lib/oauth";
+import { verifyTurnstileToken } from "../../lib/turnstile";
 import type { Env } from "../../lib/auth";
 
 const STATE_COOKIE = "oauth_state";
@@ -30,8 +31,32 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
     return new Response("Google OAuth not configured", { status: 503 });
   }
 
-  const state = randomState();
   const redirectUrl = safeRedirectPath(url.searchParams.get("redirect_url"));
+
+  // Verify Cloudflare Turnstile bot challenge if TURNSTILE_SECRET / TURNSTILE_SECRET_KEY is configured
+  const secret = env.TURNSTILE_SECRET || env.TURNSTILE_SECRET_KEY;
+  if (secret) {
+    const turnstileToken =
+      url.searchParams.get("cf-turnstile-response") ||
+      url.searchParams.get("turnstile_token");
+    const clientIp = request.headers.get("CF-Connecting-IP");
+    const isHuman = await verifyTurnstileToken(
+      turnstileToken ?? "",
+      secret,
+      clientIp
+    );
+
+    if (!isHuman) {
+      const errorRedirect = new URL("/sign-in", request.url);
+      errorRedirect.searchParams.set("error", "bot_detected");
+      if (redirectUrl !== "/") {
+        errorRedirect.searchParams.set("redirect_url", redirectUrl);
+      }
+      return Response.redirect(errorRedirect.toString(), 302);
+    }
+  }
+
+  const state = randomState();
 
   // We round-trip redirect_url via the state cookie by encoding it inside
   // a sentinel: append `|redirectUrl` to the state value, but separate with

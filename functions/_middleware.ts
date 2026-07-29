@@ -16,7 +16,7 @@
  */
 
 import { verifySession as verifyD1Session, type Env as AuthEnv } from "./lib/auth";
-import { isPublicPath } from "./lib/gating";
+import { isPublicPath, isSearchEngineBot } from "./lib/gating";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
 
 interface Env extends AuthEnv {
@@ -96,9 +96,13 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       return newResponse;
     }
 
-    // --- Public paths: pass through unchanged ---
-    if (isPublicPath(pathname)) {
-      return await nextWithLocale();
+    // --- Public paths or Search Engine Bots: pass through unchanged ---
+    const userAgent = request.headers.get("User-Agent");
+    if (isPublicPath(pathname) || isSearchEngineBot(userAgent)) {
+      const response = await nextWithLocale();
+      const newResponse = new Response(response.body, response);
+      newResponse.headers.append("Vary", "User-Agent");
+      return newResponse;
     }
 
     // --- Gated paths: require D1 session ---

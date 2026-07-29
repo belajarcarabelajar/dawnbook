@@ -184,6 +184,16 @@ Verifies live HTTP headers, `noindex` presence, and canonical tags against the p
 - **Command:** `bun run build`
 - **Acceptance Check:** `output/index.html` renders the most recently added/updated book as the first card (`Card #1`).
 
+**R10 : Search Engine Bot Edge Bypass & Paywalled Content Schema**
+- **Statement:** Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` and bypass D1 session gating with HTTP 200 OK and `Vary: User-Agent, Cookie` headers. Gated chapter pages MUST include Schema.org JSON-LD with `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` injected via `scripts/inject-gating.ts`.
+- **Command:** `bun run build`
+- **Acceptance Check:** `scripts/inject-gating.ts` injects paywalled JSON-LD and `isSearchEngineBot` returns true for Googlebot, Bingbot, etc.
+
+**R11 : Automated Search Console API & IndexNow Re-indexing**
+- **Statement:** Post-deployment automation MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to submit `sitemap.xml` directly to Google Search Console API v3 (`PUT /webmasters/v3/sites/.../sitemaps/...`) and push URLs to IndexNow.
+- **Command:** `python3 scripts/gsc_trigger_reindex.py`
+- **Acceptance Check:** API returns `204` / `200` Success for sitemap submission.
+
 ## 7. SEO Risk Rules
 
 **S1 : Anti-FOUC Crawler Invisibility**

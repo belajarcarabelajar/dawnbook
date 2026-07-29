@@ -27,5 +27,9 @@ Specifically:
   - **`defer` Script Loading:** MathJax `<script>` in `theme/head.hbs` MUST use `defer` (never `async`) to guarantee execution only after the full DOM body is parsed.
   - **Automatic Sync:** Run `bun run scripts/sync-template.ts` after any change to `books/_template/theme/head.hbs`.
   - **Navigation Safety Nets:** `shared-script.js` MUST maintain `load` and `pageshow` (with `e.persisted` check for bfcache restoration) event listeners to ensure MathJax re-typesets automatically when users navigate or swipe between chapters.
+- **Search Engine Bot Edge Bypass & GSC API Rule (Rule R19)**:
+  - Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` and bypass D1 session gating with HTTP 200 OK and `Vary: User-Agent, Cookie` headers.
+  - Gated chapter pages MUST include Schema.org JSON-LD with `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` injected via `scripts/inject-gating.ts`.
+  - Post-deployment workflow MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to push `sitemap.xml` directly to Google Search Console API v3.
 
 

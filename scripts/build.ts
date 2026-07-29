@@ -4,16 +4,14 @@ import { $ } from "bun";
 import { isPublicPath } from "../functions/lib/gating.ts";
 
 try {
-  const envContent = await readFile(
-    join(process.cwd(), "apps/admin/.env.local"),
-    "utf8",
-  );
+  const envPath = join(process.cwd(), ".env");
+  const envContent = await readFile(envPath, "utf8");
   envContent.split("\n").forEach((line) => {
     const match = line.match(/^([^=]+)=(.*)$/);
-    if (match) process.env[match[1]] = match[2].trim();
+    if (match && !match[1].startsWith("#")) process.env[match[1].trim()] = match[2].trim();
   });
 } catch (e) {
-  console.warn(".env.local not found, skipping");
+  // skip if .env not present
 }
 
 function escapeHtml(unsafe: string) {
@@ -880,10 +878,14 @@ async function generateSitePages(
   // /api/auth/login (which 302-redirects to Google's consent screen).
   // The redirect_url query param is preserved end-to-end so the user
   // returns to the gated page after a successful login.
+  const turnstileSiteKey = process.env.TURNSTILE_SITE_KEY || '0x4AAAAAAEBDHm_F3WkNRSpN';
+
   const signInContent = `
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
     <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="signin.title">Sign In to Continue Reading</h2>
         <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
+        <div class="cf-turnstile" data-sitekey="${turnstileSiteKey}" data-action="turnstile-spin-v2" data-theme="auto" style="margin: 0 auto var(--spacing-lg) auto; display: flex; justify-content: center;"></div>
         <a id="google-signin-btn" href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
             <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z" fill="#4285F4"/>
@@ -912,6 +914,7 @@ async function generateSitePages(
             config: 'Sign-in is not configured. Please contact support.',
             google_exchange: 'Google rejected the sign-in. Please try again.',
             server: 'Something went wrong on our end. Please try again shortly.',
+            bot_detected: 'Security verification failed or expired. Please complete the captcha and try again.'
           };
           errEl.textContent = messages[err] || ('Sign-in failed (' + err + ').');
           errEl.style.display = 'block';
@@ -929,7 +932,15 @@ async function generateSitePages(
 
         btn.addEventListener('click', function(e) {
           e.preventDefault();
+          var turnstileToken = '';
+          if (window.turnstile && typeof window.turnstile.getResponse === 'function') {
+            turnstileToken = window.turnstile.getResponse() || '';
+          }
+          
           var url = '/api/auth/login?redirect_url=' + encodeURIComponent(redirectUrl);
+          if (turnstileToken) {
+            url += '&cf-turnstile-response=' + encodeURIComponent(turnstileToken);
+          }
           window.location.href = url;
         });
       })();

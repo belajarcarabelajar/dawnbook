@@ -110,3 +110,13 @@ export function isPublicPath(pathname: string): boolean {
   // All book chapters, hub pages, static assets, and public routes are public at the edge for SEO
   return true;
 }
+
+/**
+ * Detects whether a request originates from a known Search Engine Crawler or AI Bot.
+ */
+export function isSearchEngineBot(userAgent: string | null): boolean {
+  if (!userAgent) return false;
+  const botPattern = /Googlebot|Google-InspectionTool|Google-Extended|Storebot-Google|Bingbot|BingPreview|msnbot|YandexBot|Baiduspider|DuckDuckBot|GPTBot|ChatGPT-User|PerplexityBot|ClaudeBot|Claude-Web|Anthropic|Bytespider|CCBot|Amazonbot|Applebot|facebookexternalhit|Twitterbot|LinkedInBot/i;
+  return botPattern.test(userAgent);
+}
+

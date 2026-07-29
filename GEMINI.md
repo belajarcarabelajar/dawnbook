@@ -91,5 +91,10 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **`window.load` Re-typeset Safety Net:** `shared-script.js` MUST also call `MathJax.Hub.Queue(['Typeset', MathJax.Hub])` on the `window.load` event as a final safety net for any edge cases.
 - **Symptom Check:** If a user reports "LaTeX works on Module 1 but breaks on Module 2, manual refresh fixes it" → root cause is either `async` (race condition) or bfcache. Check `head.hbs` for `async` first.
 
+## 11. Search Engine Bot Bypass, Paywalled Schema & GSC API Re-indexing
+- **Edge Bot Bypass — MANDATORY:** Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` (Googlebot, Google-InspectionTool, Bingbot, YandexBot, etc.) and bypass D1 session gating, serving full HTML with `200 OK` and appending `Vary: User-Agent, Cookie` to response headers.
+- **Paywalled Content Structured Data:** All gated chapter pages generated during build MUST have Google-compliant Schema.org JSON-LD injected via `scripts/inject-gating.ts` containing `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` to guarantee full indexing compliance without cloaking penalties.
+- **GSC & IndexNow Automated Re-indexing:** Post-deployment automation MUST execute `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to submit `sitemap.xml` directly to Google Search Console API v3 (`PUT /webmasters/v3/sites/.../sitemaps/...`) and purge Cloudflare Pages cache.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
