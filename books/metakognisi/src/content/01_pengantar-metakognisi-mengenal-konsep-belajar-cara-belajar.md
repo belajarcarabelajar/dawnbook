@@ -1,4 +1,4 @@
-## Pengantar Metakognisi: Mengenal Konsep "Belajar Cara Belajar"
+# Pengantar Metakognisi: Mengenal Konsep "Belajar Cara Belajar"
 
 Bagian ini membahas sebuah konsep dasar dalam pembelajaran yang dinamakan metakognisi. Intinya, kemampuan ini adalah keterampilan tentang "belajar bagaimana belajar". Metakognisi tidak hanya berfokus pada materi apa yang sedang kamu pelajari. Lebih dari itu, konsep ini menyoroti cara kamu memproses, mencerna, dan mempertahankan informasi tersebut. Saat kamu mulai paham pola kerja pemikiranmu sendiri, proses belajar akan terasa jauh lebih masuk akal dan tertata.
 
@@ -37,3 +37,8 @@ Saat kamu sudah mulai terbiasa memantau cara kerja kognisimu sendiri, perlahan-l
 - Membantu melatih kecerdasan cair (*fluid intelligence*), yaitu kemampuan alami untuk memusatkan fokus dan mengolah hal baru.
 
 Pada dasarnya, metakognisi tidak lantas mengubahmu menjadi jenius dalam semalam. Praktik ini lebih ditujukan untuk membantumu memaksimalkan kapasitas otak dan potensi belajar yang sebenarnya sudah ada sejak awal.
+
+---
+
+### Pelajari Lebih Lanjut
+Untuk memperdalam keterampilan berpikir analitis dan pengelolaan fokus belajar, baca juga buku [Logika dan Penalaran Kritis](/books/logika-dan-penalaran-kritis/) serta [Digital Minimalisme](/books/digital-minimalisme/).

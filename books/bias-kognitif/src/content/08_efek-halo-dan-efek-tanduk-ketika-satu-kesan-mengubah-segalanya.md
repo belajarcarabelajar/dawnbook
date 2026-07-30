@@ -1,4 +1,4 @@
-## Efek Halo dan Efek Tanduk: Ketika Satu Kesan Mengubah Segalanya
+# Efek Halo dan Efek Tanduk: Ketika Satu Kesan Mengubah Segalanya
 
 Pernahkah kamu bertemu seseorang yang sangat menawan secara fisik dan secara otomatis berasumsi bahwa mereka juga cerdas, baik hati, dan jujur? Atau sebaliknya, pernahkah kamu melihat seseorang yang berpakaian sangat berantakan dan langsung menyimpulkan bahwa mereka malas atau tidak kompeten di tempat kerja?
 

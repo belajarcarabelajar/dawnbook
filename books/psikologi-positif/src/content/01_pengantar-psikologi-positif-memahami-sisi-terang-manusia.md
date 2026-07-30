@@ -1,4 +1,4 @@
-## Pengantar Psikologi Positif: Memahami Sisi Terang Manusia
+# Pengantar Psikologi Positif: Memahami Sisi Terang Manusia
 
 Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita benar-benar berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
@@ -85,3 +85,8 @@ $$
 Meskipun kita tidak bisa mengubah faktor genetika dan terkadang sulit memengaruhi lingkungan sekitar, kita memiliki kendali penuh atas **aktivitas yang disengaja** (cara berpikir dan bertindak) yang akan kita pelajari di bagian-bagian selanjutnya.
 
 > **Langkah Selanjutnya:** Setelah memahami alasan dan definisi dasar dari psikologi positif, kita akan melangkah ke **Model PERMA**, sebuah kerangka kerja praktis untuk membangun kehidupan yang bermakna dan sejahtera. Persiapkan dirimu untuk mengeksplorasi lima elemen kunci kebahagiaan!
+
+---
+
+### Pelajari Lebih Lanjut
+Untuk memperdalam ketangguhan mental dan kesehatan emosional di era modern, baca juga buku [Resiliensi dan Ketangguhan](/books/resiliensi-dan-ketangguhan/) serta [Digital Minimalisme](/books/digital-minimalisme/).

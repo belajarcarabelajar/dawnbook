@@ -1,4 +1,4 @@
-## Referensi
+# Referensi dan Sumber Ilmiah Arsitektur Kernel Linux
 
 Berikut adalah sumber-sumber ilmiah yang menjadi landasan konseptual buku ini, mencakup arsitektur kernel Linux, manajemen proses dan memori, sistem file, networking stack, sinkronisasi kernel, keamanan, dan proses booting.
 
