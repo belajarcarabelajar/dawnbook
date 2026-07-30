@@ -13,6 +13,6 @@ subject_label = "Ekonomi"
 enable = false
 
 [output.html]
-mathjax-support = false
+mathjax-support = true
 additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
 additional-js = ["../shared-script.js"]

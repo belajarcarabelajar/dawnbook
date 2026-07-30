@@ -1,13 +1,13 @@
 [book]
 authors = ["Iwan Kurniawan"]
+description = "Buku komprehensif tentang mekanisme koping dan strategi manajemen stres untuk meningkatkan kesejahteraan psikologis dan kesehatan mental."
 language = "id"
 src = "src"
-title = "Human Capital Theory"
-description = "Memahami konsep Human Capital Theory, investasi pada pendidikan dan pelatihan, serta dampaknya terhadap produktivitas dan ekonomi."
+title = "Mekanisme Koping dan Manajemen Stres"
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Manajemen"
+subject_label = "Psikologi"
 
 [output.html.print]
 enable = false
