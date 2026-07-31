@@ -3,7 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Bias Kognitif"
-description = "Panduan praktis bias kognitif & heuristik berpikir: pelajari Efek Halo, Efek Tanduk, dan jebakan persepsi untuk mengambil keputusan lebih rasional."
+description = "Panduan komprehensif bias kognitif & heuristik berpikir: kuasai Efek Halo, Efek Tanduk, dan bias persepsi untuk mengambil keputusan logis dan rasional."
 
 [preprocessor.dawnbook]
 optional = true

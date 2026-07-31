@@ -26,7 +26,11 @@ async function generateSitemap() {
       } else if (fullPath.endsWith(".html")) {
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
         if (isPublicPath(relativePath)) {
-          urls.push(`${baseUrl}${relativePath}`);
+          let cleanPath = relativePath;
+          if (cleanPath.endsWith("/index.html")) {
+            cleanPath = cleanPath.replace(/\/index\.html$/, "/");
+          }
+          urls.push(`${baseUrl}${cleanPath}`);
         }
       }
     }

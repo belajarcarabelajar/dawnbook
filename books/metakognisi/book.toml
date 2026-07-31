@@ -3,7 +3,7 @@ authors = ["AI"]
 language = "id"
 src = "src"
 title = "Metakognisi: Belajar Bagaimana Belajar"
-description = "Pelajari metakognisi dan strategi cara belajar efektif: pahami cara kerja pikiran sendiri, tingkatkan kesadaran diri, dan kuasai teknik belajar modern."
+description = "Buku metakognisi & teknik belajar efektif: pahami cara kerja kesadaran kognitif, evaluasi strategi belajar mandiri, dan tingkatkan retensi memori."
 
 [preprocessor.dawnbook]
 optional = true

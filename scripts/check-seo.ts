@@ -79,9 +79,10 @@ async function checkSeo() {
             }
           }
 
-          // Verify content page is present in sitemap.xml
-          const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-          if (!sitemapContent.includes(url)) {
+          // Verify content page is present in sitemap.xml (accepting both index.html and canonical trailing slash /)
+          let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
+          let canonicalUrl = expectedUrl.endsWith("/index.html") ? expectedUrl.replace(/\/index\.html$/, "/") : expectedUrl;
+          if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
             console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
             hasErrors = true;
           }

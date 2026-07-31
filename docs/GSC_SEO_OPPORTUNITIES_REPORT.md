@@ -1,6 +1,6 @@
 # GSC SEO Opportunities & Keyword Mining Report — Dawnbook
 
-**Audit Date:** 2026-07-30 19:30:53
+**Audit Date:** 2026-07-31 12:49:25
 **Property:** `sc-domain:dawnbook.belajarcarabelajar.com` (Last 90 Days)
 
 ## 🎯 1. Striking Distance Keywords (Positions 4.0 – 20.0)
