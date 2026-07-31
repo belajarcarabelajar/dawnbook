@@ -37,14 +37,17 @@ describe("isPublicPath — public path matching", () => {
   });
 });
 
-describe("isPublicPath — book content indexability", () => {
-  test("all book chapters are public for 100% SEO indexing", () => {
+describe("isPublicPath — book content gating", () => {
+  test("book root and chapter 1 are public preview", () => {
     expect(isPublicPath("/books/piaget/")).toBe(true);
     expect(isPublicPath("/books/piaget/index.html")).toBe(true);
     expect(isPublicPath("/books/piaget/toc.html")).toBe(true);
     expect(isPublicPath("/books/piaget/01_latar-belakang.html")).toBe(true);
-    expect(isPublicPath("/books/piaget/02_konsep.html")).toBe(true);
-    expect(isPublicPath("/books/piaget/15_kesimpulan.html")).toBe(true);
-    expect(isPublicPath("/books/piaget/02%20-%20Konsep.html")).toBe(true);
+  });
+
+  test("chapter 2+ are gated content", () => {
+    expect(isPublicPath("/books/piaget/02_konsep.html")).toBe(false);
+    expect(isPublicPath("/books/piaget/15_kesimpulan.html")).toBe(false);
+    expect(isPublicPath("/books/piaget/02%20-%20Konsep.html")).toBe(false);
   });
 });

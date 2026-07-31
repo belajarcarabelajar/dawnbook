@@ -60,7 +60,9 @@ async function handleGetProgress(
       let parsed = [];
       try {
         if (row.completed_paths) parsed = JSON.parse(row.completed_paths);
-      } catch (e) {}
+      } catch (e) {
+        console.warn("[progress] Failed to parse completed_paths JSON:", e);
+      }
       return {
         book_slug: row.book_slug,
         last_read_path: row.last_read_path,
@@ -85,7 +87,9 @@ async function handleGetProgress(
   try {
     if (result.completed_paths)
       parsedPaths = JSON.parse(result.completed_paths);
-  } catch (e) {}
+  } catch (e) {
+    console.warn("[progress] Failed to parse single book completed_paths JSON:", e);
+  }
 
   return jsonResponse({
     path: result.last_read_path,
@@ -148,7 +152,9 @@ async function handlePostProgress(
   if (existing && existing.completed_paths) {
     try {
       completedPaths = JSON.parse(existing.completed_paths);
-    } catch (e) {}
+    } catch (e) {
+      console.warn("[progress] Failed to parse existing completed_paths JSON on POST:", e);
+    }
   }
 
   if (

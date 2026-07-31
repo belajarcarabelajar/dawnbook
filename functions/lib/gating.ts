@@ -102,12 +102,46 @@ export function isPublicPath(pathname: string): boolean {
     console.error(`[gating] URIError decoding pathname: ${pathname}`);
   }
 
-  // Admin SPA routes are gated / confidential
+  // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {
     return false;
   }
 
-  // All book chapters, hub pages, static assets, and public routes are public at the edge for SEO
+  // 2. Exact public paths
+  if (PUBLIC_EXACT_PATHS.has(decoded)) {
+    return true;
+  }
+
+  // 3. Prefix-based public paths
+  for (const prefix of PUBLIC_PATH_PREFIXES) {
+    if (decoded.startsWith(prefix)) return true;
+  }
+
+  // 4. Static assets (by extension)
+  const dotIdx = decoded.lastIndexOf(".");
+  if (dotIdx !== -1) {
+    const ext = decoded.slice(dotIdx).toLowerCase();
+    if (PUBLIC_ASSET_EXTENSIONS.has(ext)) {
+      return true;
+    }
+  }
+
+  // 5. Book routes (/books/<slug>/...)
+  const bookMatch = decoded.match(/^\/books\/([^\/]+)\/(.*)$/);
+  if (bookMatch) {
+    const page = bookMatch[2];
+    // Book root, index.html, or toc.html are public preview
+    if (page === "" || page === "index.html" || page === "toc.html") {
+      return true;
+    }
+    // Chapter 1 / first chapter is public preview (starts with "01" or "chapter_1")
+    if (page.startsWith("01") || page.startsWith("chapter_1")) {
+      return true;
+    }
+    // All other chapters require authentication at edge
+    return false;
+  }
+
   return true;
 }
 

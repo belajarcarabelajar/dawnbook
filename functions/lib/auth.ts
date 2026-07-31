@@ -134,8 +134,8 @@ export async function verifySession(
     )
       .bind(now, sid)
       .run();
-  } catch {
-    // ignore
+  } catch (err) {
+    console.warn("[auth] Best-effort update of last_seen_at failed:", err);
   }
 
   return {
