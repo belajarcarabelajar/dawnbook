@@ -25,13 +25,21 @@ async function generateSitemap() {
         await scanDirectory(fullPath);
       } else if (fullPath.endsWith(".html")) {
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
-        if (isPublicPath(relativePath)) {
-          let cleanPath = relativePath;
-          if (cleanPath.endsWith("/index.html")) {
-            cleanPath = cleanPath.replace(/\/index\.html$/, "/");
-          }
-          urls.push(`${baseUrl}${cleanPath}`);
+        // Exclude system/utility pages from sitemap
+        if (
+          relativePath.endsWith("404.html") ||
+          relativePath.endsWith("print.html") ||
+          relativePath.endsWith("toc.html") ||
+          relativePath.startsWith("/admin/")
+        ) {
+          continue;
         }
+
+        let cleanPath = relativePath;
+        if (cleanPath.endsWith("/index.html")) {
+          cleanPath = cleanPath.replace(/\/index\.html$/, "/");
+        }
+        urls.push(`${baseUrl}${cleanPath}`);
       }
     }
   }

@@ -36,70 +36,64 @@ async function checkSeo() {
       } else if (fullPath.endsWith(".html")) {
         const content = await readFile(fullPath, "utf-8");
         const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
-        const isPublic = isPublicPath(relativePath);
 
-        // Bypass toc.html
-        if (relativePath.endsWith("toc.html")) {
-            continue;
+        // Utility pages excluded from sitemap & checks
+        if (
+          relativePath.endsWith("404.html") ||
+          relativePath.endsWith("print.html") ||
+          relativePath.endsWith("toc.html")
+        ) {
+          continue;
         }
 
-        if (isPublic) {
-          // R1: Title & Meta Description
-          if (!content.includes("<title>") || !content.includes("</title>")) {
-            console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
-            hasErrors = true;
-          }
-          if (!content.includes("<meta name=\"description\"")) {
-            console.error(`❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`);
-            hasErrors = true;
-          }
+        // R1: Title & Meta Description
+        if (!content.includes("<title>") || !content.includes("</title>")) {
+          console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
+          hasErrors = true;
+        }
+        if (!content.includes("<meta name=\"description\"")) {
+          console.error(`❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`);
+          hasErrors = true;
+        }
 
-          // R2: Canonical and Hreflang
-          if (!content.includes("<link rel=\"canonical\"")) {
-            console.error(`❌ [FAIL] ${relativePath} missing canonical link. (R2)`);
+        // R2: Canonical and Hreflang
+        if (!content.includes("<link rel=\"canonical\"")) {
+          console.error(`❌ [FAIL] ${relativePath} missing canonical link. (R2)`);
+          hasErrors = true;
+        }
+        if (!content.includes("hreflang=\"en\"") || !content.includes("hreflang=\"id\"")) {
+          console.error(`❌ [FAIL] ${relativePath} missing hreflang tags. (R2)`);
+          hasErrors = true;
+        }
+
+        // R6: Structured Data
+        if (!content.includes("application/ld+json")) {
+          console.error(`❌ [FAIL] ${relativePath} missing JSON-LD structured data. (R6)`);
+          hasErrors = true;
+        }
+
+        // R7: Image alt text
+        const imgMatches = content.match(/<img[^>]*>/g) || [];
+        for (const img of imgMatches) {
+          if (!img.includes("alt=") || img.includes("alt=\"\"")) {
+            console.error(`❌ [FAIL] ${relativePath} contains image without descriptive alt text: ${img} (R7)`);
             hasErrors = true;
           }
-          if (!content.includes("hreflang=\"en\"") || !content.includes("hreflang=\"id\"")) {
-            console.error(`❌ [FAIL] ${relativePath} missing hreflang tags. (R2)`);
-            hasErrors = true;
-          }
+        }
 
-          // R6: Structured Data
-          if (!content.includes("application/ld+json")) {
-            console.error(`❌ [FAIL] ${relativePath} missing JSON-LD structured data. (R6)`);
-            hasErrors = true;
-          }
+        // Verify all valid content pages are present in sitemap.xml
+        let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
+        let canonicalUrl = expectedUrl.endsWith("/index.html") ? expectedUrl.replace(/\/index\.html$/, "/") : expectedUrl;
+        if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
+          console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
+          hasErrors = true;
+        }
 
-          // R7: Image alt text
-          const imgMatches = content.match(/<img[^>]*>/g) || [];
-          for (const img of imgMatches) {
-            if (!img.includes("alt=") || img.includes("alt=\"\"")) {
-              console.error(`❌ [FAIL] ${relativePath} contains image without descriptive alt text: ${img} (R7)`);
-              hasErrors = true;
-            }
-          }
-
-          // Verify content page is present in sitemap.xml (accepting both index.html and canonical trailing slash /)
-          let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-          let canonicalUrl = expectedUrl.endsWith("/index.html") ? expectedUrl.replace(/\/index\.html$/, "/") : expectedUrl;
-          if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
-            console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
-            hasErrors = true;
-          }
-
-          // Verify content page does NOT have noindex in _headers
-          if (headersContent.includes(relativePath) && headersContent.includes("X-Robots-Tag: noindex")) {
-            const headerSection = headersContent.split(relativePath)[1];
-            if (headerSection && headerSection.startsWith("\n  X-Robots-Tag: noindex")) {
-              console.error(`❌ [FAIL] Content path ${relativePath} incorrectly marked with X-Robots-Tag: noindex!`);
-              hasErrors = true;
-            }
-          }
-        } else {
-          // Confidential/Admin paths MUST NOT appear in sitemap.xml
-          const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-          if (sitemapContent.includes(url)) {
-            console.error(`❌ [FAIL] Confidential path ${relativePath} found in sitemap.xml!`);
+        // Verify content page does NOT have noindex in _headers
+        if (headersContent.includes(relativePath) && headersContent.includes("X-Robots-Tag: noindex")) {
+          const headerSection = headersContent.split(relativePath)[1];
+          if (headerSection && headerSection.startsWith("\n  X-Robots-Tag: noindex")) {
+            console.error(`❌ [FAIL] Content path ${relativePath} incorrectly marked with X-Robots-Tag: noindex!`);
             hasErrors = true;
           }
         }

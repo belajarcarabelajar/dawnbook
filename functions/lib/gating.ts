@@ -129,7 +129,10 @@ export function isPublicPath(pathname: string): boolean {
   // 5. Book routes (/books/<slug>/...)
   const bookMatch = decoded.match(/^\/books\/([^\/]+)\/(.*)$/);
   if (bookMatch) {
-    const page = bookMatch[2];
+    let page = bookMatch[2];
+    if (page.startsWith("content/")) {
+      page = page.slice("content/".length);
+    }
     // Book root, index.html, or toc.html are public preview
     if (page === "" || page === "index.html" || page === "toc.html") {
       return true;

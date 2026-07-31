@@ -14,7 +14,7 @@ describe("Build Script & Modular Builder (scripts/build.ts)", () => {
     
     // Assert that template-engine configures _headers for Cloudflare Pages
     expect(engine).toContain("_headers");
-    expect(engine).toContain("X-Robots-Tag: noindex");
+    expect(engine).toContain("X-Frame-Options: DENY");
   });
 
   test("HubLayout.css does not have white-space: nowrap under .hero-section h1 to ensure mobile friendliness", () => {

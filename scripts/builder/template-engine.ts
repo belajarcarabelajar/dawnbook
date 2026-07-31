@@ -547,7 +547,7 @@ export async function copyAssets(rootDir: string, outputDir: string): Promise<vo
 
 export async function buildHeaders(outputDir: string): Promise<void> {
   try {
-    let headersContent = `
+    const headersContent = `
 /*
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
@@ -556,22 +556,6 @@ export async function buildHeaders(outputDir: string): Promise<void> {
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://accounts.google.com https://*.googleusercontent.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
 `;
-
-    async function appendGatedHeaders(dir: string): Promise<void> {
-      const entries = await readdir(dir, { withFileTypes: true });
-      for (const entry of entries) {
-        const fullPath = join(dir, entry.name);
-        if (entry.isDirectory()) {
-          await appendGatedHeaders(fullPath);
-        } else if (fullPath.endsWith(".html")) {
-          const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
-          if (!isPublicPath(relativePath)) {
-            headersContent += `\n${relativePath}\n  X-Robots-Tag: noindex, nofollow`;
-          }
-        }
-      }
-    }
-    await appendGatedHeaders(join(outputDir, "books"));
 
     await writeFile(join(outputDir, "_headers"), headersContent.trim());
     console.log("Security headers generated successfully.");

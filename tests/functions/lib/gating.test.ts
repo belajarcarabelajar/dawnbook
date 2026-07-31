@@ -43,11 +43,13 @@ describe("isPublicPath — book content gating", () => {
     expect(isPublicPath("/books/piaget/index.html")).toBe(true);
     expect(isPublicPath("/books/piaget/toc.html")).toBe(true);
     expect(isPublicPath("/books/piaget/01_latar-belakang.html")).toBe(true);
+    expect(isPublicPath("/books/piaget/content/01_latar-belakang.html")).toBe(true);
   });
 
   test("chapter 2+ are gated content", () => {
     expect(isPublicPath("/books/piaget/02_konsep.html")).toBe(false);
     expect(isPublicPath("/books/piaget/15_kesimpulan.html")).toBe(false);
     expect(isPublicPath("/books/piaget/02%20-%20Konsep.html")).toBe(false);
+    expect(isPublicPath("/books/piaget/content/02_konsep.html")).toBe(false);
   });
 });
