@@ -65,7 +65,13 @@ async function checkMediaSupport() {
   await scanDirectory(booksDir);
 
   // 4. Verify CSP directives
-  const buildContent = await readFile(buildScriptPath, "utf-8");
+  const templateEnginePath = join(rootDir, "scripts/builder/template-engine.ts");
+  let buildContent = "";
+  try {
+    buildContent = await readFile(templateEnginePath, "utf-8");
+  } catch {
+    buildContent = await readFile(buildScriptPath, "utf-8");
+  }
   if (!buildContent.includes("img-src 'self' data: https:")) {
     console.error(`❌ [FAIL] CSP _headers missing 'img-src \\'self\\' data: https:'`);
     hasErrors = true;

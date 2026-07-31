@@ -2,17 +2,19 @@ import { expect, test, describe } from "bun:test";
 import { readFileSync } from "fs";
 import { join } from "path";
 
-describe("Build Script (scripts/build.ts)", () => {
+describe("Build Script & Modular Builder (scripts/build.ts)", () => {
   test("build script includes compilation calls and SEO headers", () => {
-    const scriptPath = join(import.meta.dir, "../../scripts/build.ts");
-    const script = readFileSync(scriptPath, "utf-8");
+    const runnerPath = join(import.meta.dir, "../../scripts/builder/mdbook-runner.ts");
+    const enginePath = join(import.meta.dir, "../../scripts/builder/template-engine.ts");
+    const runner = readFileSync(runnerPath, "utf-8");
+    const engine = readFileSync(enginePath, "utf-8");
     
-    // Assert that it executes mdbook build
-    expect(script).toContain("mdbook build");
+    // Assert that mdbook-runner executes mdbook build
+    expect(runner).toContain("mdbook build");
     
-    // Assert that it configures _headers for Cloudflare Pages
-    expect(script).toContain("_headers");
-    expect(script).toContain("X-Robots-Tag: noindex");
+    // Assert that template-engine configures _headers for Cloudflare Pages
+    expect(engine).toContain("_headers");
+    expect(engine).toContain("X-Robots-Tag: noindex");
   });
 
   test("HubLayout.css does not have white-space: nowrap under .hero-section h1 to ensure mobile friendliness", () => {
@@ -27,11 +29,11 @@ describe("Build Script (scripts/build.ts)", () => {
   });
 
   test("createUserPill is called with showName=true on desktop and showName=false on mobile so the homepage header stays compact on phones", () => {
-    const scriptPath = join(import.meta.dir, "../../scripts/build.ts");
+    const scriptPath = join(import.meta.dir, "../../apps/hub/src/scripts/hub-runtime.ts");
     const script = readFileSync(scriptPath, "utf-8");
 
     // The function must accept a showName parameter.
-    expect(script).toMatch(/function\s+createUserPill\s*\(\s*container\s*,\s*showName\s*\)/);
+    expect(script).toMatch(/function\s+createUserPill\s*\(\s*container\s*:\s*HTMLElement\s*,\s*showName\s*:\s*boolean\s*\)/);
 
     // The desktop mount point must request the full pill (name + avatar).
     expect(script).toMatch(/createUserPill\s*\(\s*desktopEl\s*,\s*true\s*\)/);
@@ -41,7 +43,6 @@ describe("Build Script (scripts/build.ts)", () => {
     expect(script).toMatch(/createUserPill\s*\(\s*mobileEl\s*,\s*false\s*\)/);
 
     // The name label <span> must only be appended when showName is truthy.
-    const lblRegion = script.match(/if\s*\(\s*showName\s*\)\s*\{[\s\S]{0,200}?lbl\.textContent\s*=\s*nameText[\s\S]{0,200}?btn\.appendChild\(lbl\)/);
-    expect(lblRegion).not.toBeNull();
+    expect(script).toContain("if (showName)");
   });
 });

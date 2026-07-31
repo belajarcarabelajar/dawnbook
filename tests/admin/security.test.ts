@@ -52,10 +52,19 @@ describe("Dead Code Elimination", () => {
   });
 
   test("admin app no longer imports @clerk/react", () => {
-    const appTsx = readFileSync(join(import.meta.dir, "../../apps/admin/src/App.tsx"), "utf-8");
-    const mainTsx = readFileSync(join(import.meta.dir, "../../apps/admin/src/main.tsx"), "utf-8");
-    expect(appTsx).not.toContain("@clerk/react");
-    expect(mainTsx).not.toContain("@clerk/react");
+    const appTsxPath = join(import.meta.dir, "../../apps/admin/src/App.tsx");
+    const mainTsxPath = join(import.meta.dir, "../../apps/admin/src/main.tsx");
+    if (existsSync(appTsxPath)) {
+      const appTsx = readFileSync(appTsxPath, "utf-8");
+      expect(appTsx).not.toContain("@clerk/react");
+    }
+    if (existsSync(mainTsxPath)) {
+      const mainTsx = readFileSync(mainTsxPath, "utf-8");
+      expect(mainTsx).not.toContain("@clerk/react");
+    }
+    // Assert standalone admin app directory is eliminated
+    const adminAppDir = join(import.meta.dir, "../../apps/admin");
+    expect(existsSync(adminAppDir)).toBe(false);
   });
 
   test("functions/lib/auth.ts no longer references @clerk/backend", () => {
