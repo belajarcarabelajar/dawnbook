@@ -53,9 +53,13 @@ async function processDirectory(
       const titleMatch = content.match(/<title>(.*?)<\/title>/i);
       const pageTitle = titleMatch ? titleMatch[1] : "Dawnbook";
 
-      // We can infer the URL path
+      // We can infer the URL path (strip /index.html to match canonical 200 OK Cloudflare format)
       const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
-      const url = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
+      let cleanRelativePath = relativePath;
+      if (cleanRelativePath.endsWith("/index.html")) {
+        cleanRelativePath = cleanRelativePath.replace(/\/index\.html$/, "/");
+      }
+      const url = `https://dawnbook.belajarcarabelajar.com${cleanRelativePath}`;
 
       const gaId = process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW";
       const gaTag = `

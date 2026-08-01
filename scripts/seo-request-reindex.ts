@@ -84,18 +84,6 @@ async function purgeCloudflareCache(): Promise<void> {
   console.log("Cloudflare Build Cache Purge Result:", purgeData.success ? "SUCCESS" : JSON.stringify(purgeData));
 }
 
-async function pingGoogleSitemap(): Promise<void> {
-  console.log("\n=== 2. PINGING GOOGLE SITEMAP ===");
-  const sitemapUrl = "https://dawnbook.belajarcarabelajar.com/sitemap.xml";
-  const pingUrl = `https://www.google.com/ping?sitemap=${encodeURIComponent(sitemapUrl)}`;
-  try {
-    const res = await fetch(pingUrl);
-    console.log(`Sitemap ping response status: ${res.status}`);
-  } catch (err: any) {
-    console.error("Sitemap ping failed:", err.message);
-  }
-}
-
 async function inspectUrlsInGSC(sa: any): Promise<void> {
   console.log("\n=== 3. GSC URL INSPECTION & RE-INDEX AUDIT ===");
   const token = await getAccessToken(sa, "https://www.googleapis.com/auth/webmasters.readonly");
@@ -176,14 +164,22 @@ async function pingIndexNow(): Promise<void> {
 async function main() {
   const saPath = "/home/belajarcarabelajar/dawnbook/service-account.json";
   await purgeCloudflareCache();
-  await pingGoogleSitemap();
   await pingIndexNow();
 
-  if (fs.existsSync(saPath)) {
-    const sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
+  let sa: any = null;
+  if (process.env.GSC_CLIENT_EMAIL && process.env.GSC_PRIVATE_KEY) {
+    sa = {
+      client_email: process.env.GSC_CLIENT_EMAIL,
+      private_key: process.env.GSC_PRIVATE_KEY.replace(/\\n/g, "\n"),
+    };
+  } else if (fs.existsSync(saPath)) {
+    sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
+  }
+
+  if (sa) {
     await inspectUrlsInGSC(sa);
   } else {
-    console.log("\n💡 Note: Skipping GSC URL inspection -- awaiting service-account.json placement.");
+    console.log("\n💡 Note: Skipping GSC URL inspection -- awaiting service-account.json placement or GSC_PRIVATE_KEY env var.");
   }
 }
 

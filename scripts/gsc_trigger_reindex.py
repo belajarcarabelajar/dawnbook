@@ -72,12 +72,18 @@ def submit_sitemap_gsc(token: str, site_url: str, sitemap_url: str):
 
 def main():
     sa_path = "/home/belajarcarabelajar/dawnbook/service-account.json"
-    if not os.path.exists(sa_path):
-        print(f"Service account file not found: {sa_path}")
+    sa = None
+    if os.environ.get("GSC_CLIENT_EMAIL") and os.environ.get("GSC_PRIVATE_KEY"):
+        sa = {
+            "client_email": os.environ["GSC_CLIENT_EMAIL"],
+            "private_key": os.environ["GSC_PRIVATE_KEY"].replace("\\n", "\n")
+        }
+    elif os.path.exists(sa_path):
+        with open(sa_path, 'r', encoding='utf-8') as f:
+            sa = json.load(f)
+    else:
+        print(f"Service account credentials not found in env or at: {sa_path}")
         return
-
-    with open(sa_path, 'r', encoding='utf-8') as f:
-        sa = json.load(f)
 
     print("🔐 Authenticating with Google Search Console API via Service Account...")
     token = get_access_token_jwt(sa, "https://www.googleapis.com/auth/webmasters")

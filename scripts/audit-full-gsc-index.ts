@@ -140,7 +140,13 @@ async function main() {
   let token = process.env.GOOGLE_SEARCH_CONSOLE_TOKEN || "";
   let sa: any = null;
 
-  if (fs.existsSync(saPath)) {
+  if (process.env.GSC_CLIENT_EMAIL && process.env.GSC_PRIVATE_KEY) {
+    sa = {
+      client_email: process.env.GSC_CLIENT_EMAIL,
+      private_key: process.env.GSC_PRIVATE_KEY.replace(/\\n/g, "\n"),
+    };
+    token = await getAccessToken(sa);
+  } else if (fs.existsSync(saPath)) {
     sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
     token = await getAccessToken(sa);
   } else if (process.env.GSC_REFRESH_TOKEN && process.env.GSC_CLIENT_ID && process.env.GSC_CLIENT_SECRET) {
