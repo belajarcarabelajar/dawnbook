@@ -1,6 +1,6 @@
 # GSC SEO Opportunities & Keyword Mining Report — Dawnbook
 
-**Audit Date:** 2026-07-31 12:49:25
+**Audit Date:** 2026-08-01 18:51:26
 **Property:** `sc-domain:dawnbook.belajarcarabelajar.com` (Last 90 Days)
 
 ## 🎯 1. Striking Distance Keywords (Positions 4.0 – 20.0)
@@ -15,9 +15,9 @@ These pages get search impressions but low clicks. Enhancing titles with action 
 
 | Page URL | Impressions | Clicks | CTR | Avg Position |
 |---|---|---|---|---|
+| [`/books/logika-dan-penalaran-kritis/`](https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/) | 3 | 0 | 0% | 10 |
 | [`/books/arsitektur-kernel-linux/content/13_referensi.html`](https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/content/13_referensi.html) | 1 | 0 | 0% | 4 |
 | [`/books/bias-kognitif/content/08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.html`](https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.html) | 1 | 0 | 0% | 1 |
-| [`/books/logika-dan-penalaran-kritis/`](https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/) | 1 | 0 | 0% | 9 |
 | [`/books/metakognisi/index.html`](https://dawnbook.belajarcarabelajar.com/books/metakognisi/index.html) | 1 | 0 | 0% | 12 |
 
 ## 💡 Recommended Action Plan
