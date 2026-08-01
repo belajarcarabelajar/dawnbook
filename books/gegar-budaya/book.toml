@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Gegar Budaya (Culture Shock)"
+description = "Panduan ilmiah dan praktis memahami fase gegar budaya, gejala psikologis, strategi koping, hingga pengembangan kecerdasan lintas budaya."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

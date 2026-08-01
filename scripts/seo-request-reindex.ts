@@ -139,9 +139,9 @@ async function inspectUrlsInGSC(sa: any): Promise<void> {
 
 async function pingIndexNow(): Promise<void> {
   console.log("\n=== 2b. SUBMITTING TO INDEXNOW (BING / YANDEX) ===");
-  const key = "54c8e7914b1a43a4921b79f82d14bc8a";
+  const key = process.env.INDEXNOW_KEY || process.env.SEARCH_CONSOLE_API_KEY || "e4bb998231538111cf6f9cd1ebbc9124b616d7bd";
   const host = "dawnbook.belajarcarabelajar.com";
-  const keyLocation = `https://${host}/54c8e7914b1a43a4921b79f82d14bc8a.txt`;
+  const keyLocation = `https://${host}/${key}.txt`;
 
   const sitemapPath = "/home/belajarcarabelajar/dawnbook/output/sitemap.xml";
   let urlList: string[] = [];
@@ -175,16 +175,16 @@ async function pingIndexNow(): Promise<void> {
 
 async function main() {
   const saPath = "/home/belajarcarabelajar/dawnbook/service-account.json";
-  if (!fs.existsSync(saPath)) {
-    console.error("Service account file not found at", saPath);
-    process.exit(1);
-  }
-
-  const sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
   await purgeCloudflareCache();
   await pingGoogleSitemap();
   await pingIndexNow();
-  await inspectUrlsInGSC(sa);
+
+  if (fs.existsSync(saPath)) {
+    const sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
+    await inspectUrlsInGSC(sa);
+  } else {
+    console.log("\n💡 Note: Skipping GSC URL inspection -- awaiting service-account.json placement.");
+  }
 }
 
 main().catch((err) => {

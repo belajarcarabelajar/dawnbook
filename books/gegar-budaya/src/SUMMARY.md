@@ -1,0 +1,15 @@
+# Summary
+
+- [Pengantar Gegar Budaya (Culture Shock)](content/01_pengantar-gegar-budaya.md)
+- [Fase 1: Tahap Bulan Madu (The Honeymoon Phase)](content/02_fase-1-tahap-bulan-madu.md)
+- [Fase 2: Tahap Krisis atau Penolakan (The Crisis Phase)](content/03_fase-2-tahap-krisis-atau-penolakan.md)
+- [Gejala Fisik dan Psikologis Gegar Budaya](content/04_gejala-fisik-dan-psikologis-gegar-budaya.md)
+- [Mengapa Pengalaman Setiap Orang Berbeda?](content/05_mengapa-pengalaman-setiap-orang-berbeda.md)
+- [Fase 3: Tahap Pemulihan (The Recovery Phase)](content/06_fase-3-tahap-pemulihan.md)
+- [Fase 4: Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)](content/07_fase-4-tahap-adaptasi-dan-penyesuaian.md)
+- [Strategi Koping dan Manajemen Stres Budaya](content/08_strategi-koping-dan-manajemen-stres-budaya.md)
+- [Pentingnya Komunikasi Non-Verbal dalam Integrasi](content/09_pentingnya-komunikasi-non-verbal-dalam-integrasi.md)
+- [Gegar Budaya Balik (Reverse Culture Shock): Seni Menemukan Jalan Pulang](content/10_gegar-budaya-balik-reverse-culture-shock.md)
+- [Tips Praktis Sebelum dan Selama Keberangkatan](content/11_tips-praktis-sebelum-dan-selama-keberangkatan.md)
+- [Membangun Kecerdasan Lintas Budaya (Cultural Intelligence)](content/12_membangun-kecerdasan-lintas-budaya.md)
+- [Referensi](content/13_referensi.md)

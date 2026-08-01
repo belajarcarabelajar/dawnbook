@@ -48,6 +48,24 @@ async function getAccessToken(sa: any): Promise<string> {
   return data.access_token;
 }
 
+async function getAccessTokenFromRefreshToken(clientId: string, clientSecret: string, refreshToken: string): Promise<string> {
+  const res = await fetch("https://oauth2.googleapis.com/token", {
+    method: "POST",
+    headers: { "Content-Type": "application/x-www-form-urlencoded" },
+    body: new URLSearchParams({
+      client_id: clientId,
+      client_secret: clientSecret,
+      refresh_token: refreshToken,
+      grant_type: "refresh_token",
+    }),
+  });
+  const data = await res.json();
+  if (data.access_token) {
+    return data.access_token;
+  }
+  throw new Error(`Failed to refresh OAuth token: ${JSON.stringify(data)}`);
+}
+
 interface InspectionResult {
   url: string;
   verdict: string;
@@ -119,13 +137,28 @@ async function main() {
   console.log(`Found ${urls.length} URLs in sitemap.xml.`);
 
   const saPath = "/home/belajarcarabelajar/dawnbook/service-account.json";
-  if (!fs.existsSync(saPath)) {
-    console.error("service-account.json not found at", saPath);
-    process.exit(1);
-  }
+  let token = process.env.GOOGLE_SEARCH_CONSOLE_TOKEN || "";
+  let sa: any = null;
 
-  const sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
-  let token = await getAccessToken(sa);
+  if (fs.existsSync(saPath)) {
+    sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
+    token = await getAccessToken(sa);
+  } else if (process.env.GSC_REFRESH_TOKEN && process.env.GSC_CLIENT_ID && process.env.GSC_CLIENT_SECRET) {
+    try {
+      console.log("🔑 Exchanging OAuth refresh token for access token...");
+      token = await getAccessTokenFromRefreshToken(
+        process.env.GSC_CLIENT_ID,
+        process.env.GSC_CLIENT_SECRET,
+        process.env.GSC_REFRESH_TOKEN
+      );
+      console.log("✅ Successfully obtained OAuth 2.0 Access Token!");
+    } catch (e: any) {
+      console.warn("Could not exchange refresh token:", e.message);
+      if (!token) {
+        token = process.env.GOOGLE_SEARCH_CONSOLE_API_KEY || process.env.GSC_API_KEY || process.env.SEARCH_CONSOLE_API_KEY || "";
+      }
+    }
+  }
   const siteUrl = "sc-domain:dawnbook.belajarcarabelajar.com";
 
   const results: InspectionResult[] = [];
@@ -136,7 +169,7 @@ async function main() {
 
   for (let i = 0; i < urls.length; i += BATCH_SIZE) {
     // Refresh token every 45 mins
-    if (Date.now() - tokenRefreshedAt > 45 * 60 * 1000) {
+    if (sa && Date.now() - tokenRefreshedAt > 45 * 60 * 1000) {
       console.log("Refreshing GSC access token...");
       token = await getAccessToken(sa);
       tokenRefreshedAt = Date.now();

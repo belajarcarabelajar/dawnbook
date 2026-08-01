@@ -1,57 +1,57 @@
 # Full GSC Indexing Report — Dawnbook
 
-**Audit Date:** 2026-07-31T06:03:29.079Z
-**Total URLs Audited:** 585
+**Audit Date:** 2026-08-01T10:33:25.580Z
+**Total URLs Audited:** 511
 
-## Overall Indexation Rate: **78.8%** (461 / 585 Indexed)
+## Overall Indexation Rate: **77.1%** (394 / 511 Indexed)
 
 | Coverage State | Count | Percentage |
 |---|---|---|
-| 🟢 Submitted and indexed | 461 | 78.8% |
+| 🟢 Submitted and indexed | 394 | 77.1% |
 | 🟡 Crawled - currently not indexed | 0 | 0.0% |
 | 🔵 Discovered - currently not indexed | 0 | 0.0% |
-| 🔴 Page with redirect | 31 | 5.3% |
-| ⚪ Unknown / Other | 93 | 15.9% |
+| 🔴 Page with redirect | 31 | 6.1% |
+| ⚪ Unknown / Other | 86 | 16.8% |
 
 ## Indexation Breakdown per Book
 
 | Book / Category | Total Pages | Indexed | Crawled (Not Indexed) | Discovered (Not Indexed) | Redirect | Other |
 |---|---|---|---|---|---|---|
-| `Hub / Root` | 5 | 4 | 0 | 0 | 0 | 1 |
-| `piaget` | 15 | 13 | 0 | 0 | 1 | 1 |
-| `elastisitas-harga-permintaan-dan-penawaran` | 15 | 14 | 0 | 0 | 0 | 1 |
-| `nudge-theory` | 16 | 11 | 0 | 0 | 2 | 3 |
-| `quarter-life-crisis` | 16 | 15 | 0 | 0 | 1 | 0 |
-| `filosofi-stoikisme` | 14 | 13 | 0 | 0 | 0 | 1 |
-| `ekonomi-laissez-faire` | 16 | 16 | 0 | 0 | 0 | 0 |
-| `struktur-pasar-dan-persaingan` | 16 | 15 | 0 | 0 | 0 | 1 |
-| `resiliensi-dan-ketangguhan` | 16 | 14 | 0 | 0 | 0 | 2 |
-| `digital-minimalisme` | 14 | 12 | 0 | 0 | 1 | 1 |
-| `logika-dan-penalaran-kritis` | 15 | 9 | 0 | 0 | 3 | 3 |
-| `arsitektur-kernel-linux` | 16 | 8 | 0 | 0 | 4 | 4 |
-| `eksistensialisme-dan-makna-hidup` | 16 | 14 | 0 | 0 | 2 | 0 |
-| `metodologi-microteaching` | 17 | 15 | 0 | 0 | 0 | 2 |
-| `strategi-manajemen-kelas-proaktif` | 15 | 13 | 0 | 0 | 0 | 2 |
-| `sejarah-evolusi-drama-korea` | 15 | 12 | 0 | 0 | 0 | 3 |
-| `neuroplastisitas-dalam-belajar` | 16 | 13 | 0 | 0 | 0 | 3 |
-| `menemukan-tujuan-hidup-ikigai` | 15 | 12 | 0 | 0 | 1 | 2 |
-| `geopolitik-dalam-sejarah-piala-dunia` | 16 | 13 | 0 | 0 | 0 | 3 |
-| `tonsilektomi` | 17 | 13 | 0 | 0 | 1 | 3 |
-| `virtue-ethics-aristoteles` | 16 | 11 | 0 | 0 | 1 | 4 |
-| `state-of-flow` | 16 | 13 | 0 | 0 | 1 | 2 |
-| `matriks-keputusan-decision-matrix` | 16 | 12 | 0 | 0 | 0 | 4 |
-| `metakognisi` | 14 | 13 | 0 | 0 | 0 | 1 |
-| `pembelajaran-multidisiplin` | 15 | 12 | 0 | 0 | 1 | 2 |
-| `bias-kognitif` | 17 | 9 | 0 | 0 | 6 | 2 |
-| `human-capital-theory` | 15 | 13 | 0 | 0 | 0 | 2 |
-| `mekanisme-koping-dan-manajemen-stres` | 15 | 0 | 0 | 0 | 0 | 15 |
-| `teori-gaya-kelekatan` | 16 | 12 | 0 | 0 | 1 | 3 |
-| `teori-teori-kepribadian` | 15 | 13 | 0 | 0 | 1 | 1 |
-| `sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | 15 | 12 | 0 | 0 | 0 | 3 |
-| `literasi-keuangan` | 14 | 7 | 0 | 0 | 1 | 6 |
-| `analisis-ekspresif-9-summers-10-autumns` | 18 | 11 | 0 | 0 | 3 | 4 |
-| `psikologi-positif` | 16 | 13 | 0 | 0 | 0 | 3 |
-| `fungsi-manajemen-poac` | 16 | 16 | 0 | 0 | 0 | 0 |
-| `kecerdasan-interpersonal` | 16 | 14 | 0 | 0 | 0 | 2 |
-| `sistem-modul-rust` | 16 | 15 | 0 | 0 | 0 | 1 |
-| `multiple-intelligences` | 18 | 16 | 0 | 0 | 0 | 2 |
+| `Hub / Root` | 5 | 5 | 0 | 0 | 0 | 0 |
+| `resiliensi-dan-ketangguhan` | 14 | 9 | 0 | 0 | 0 | 5 |
+| `human-capital-theory` | 13 | 11 | 0 | 0 | 0 | 2 |
+| `piaget` | 13 | 12 | 0 | 0 | 1 | 0 |
+| `state-of-flow` | 14 | 11 | 0 | 0 | 1 | 2 |
+| `neuroplastisitas-dalam-belajar` | 14 | 12 | 0 | 0 | 0 | 2 |
+| `quarter-life-crisis` | 14 | 11 | 0 | 0 | 1 | 2 |
+| `teori-teori-kepribadian` | 13 | 9 | 0 | 0 | 1 | 3 |
+| `psikologi-positif` | 14 | 9 | 0 | 0 | 0 | 5 |
+| `geopolitik-dalam-sejarah-piala-dunia` | 14 | 12 | 0 | 0 | 0 | 2 |
+| `arsitektur-kernel-linux` | 14 | 7 | 0 | 0 | 5 | 2 |
+| `filosofi-stoikisme` | 12 | 10 | 0 | 0 | 0 | 2 |
+| `struktur-pasar-dan-persaingan` | 14 | 9 | 0 | 0 | 0 | 5 |
+| `nudge-theory` | 14 | 11 | 0 | 0 | 2 | 1 |
+| `sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | 13 | 12 | 0 | 0 | 0 | 1 |
+| `logika-dan-penalaran-kritis` | 13 | 10 | 0 | 0 | 2 | 1 |
+| `analisis-ekspresif-9-summers-10-autumns` | 16 | 14 | 0 | 0 | 2 | 0 |
+| `sistem-modul-rust` | 14 | 13 | 0 | 0 | 0 | 1 |
+| `matriks-keputusan-decision-matrix` | 14 | 13 | 0 | 0 | 0 | 1 |
+| `metakognisi` | 12 | 10 | 0 | 0 | 1 | 1 |
+| `eksistensialisme-dan-makna-hidup` | 14 | 12 | 0 | 0 | 2 | 0 |
+| `teori-gaya-kelekatan` | 14 | 13 | 0 | 0 | 1 | 0 |
+| `menemukan-tujuan-hidup-ikigai` | 13 | 11 | 0 | 0 | 1 | 1 |
+| `kecerdasan-interpersonal` | 14 | 13 | 0 | 0 | 0 | 1 |
+| `elastisitas-harga-permintaan-dan-penawaran` | 13 | 11 | 0 | 0 | 0 | 2 |
+| `ekonomi-laissez-faire` | 14 | 11 | 0 | 0 | 0 | 3 |
+| `bias-kognitif` | 15 | 8 | 0 | 0 | 6 | 1 |
+| `pembelajaran-multidisiplin` | 13 | 9 | 0 | 0 | 1 | 3 |
+| `tonsilektomi` | 15 | 12 | 0 | 0 | 1 | 2 |
+| `strategi-manajemen-kelas-proaktif` | 13 | 13 | 0 | 0 | 0 | 0 |
+| `multiple-intelligences` | 16 | 12 | 0 | 0 | 0 | 4 |
+| `literasi-keuangan` | 12 | 11 | 0 | 0 | 1 | 0 |
+| `mekanisme-koping-dan-manajemen-stres` | 13 | 10 | 0 | 0 | 0 | 3 |
+| `digital-minimalisme` | 12 | 9 | 0 | 0 | 1 | 2 |
+| `virtue-ethics-aristoteles` | 14 | 6 | 0 | 0 | 1 | 7 |
+| `fungsi-manajemen-poac` | 14 | 5 | 0 | 0 | 0 | 9 |
+| `sejarah-evolusi-drama-korea` | 13 | 8 | 0 | 0 | 0 | 5 |
+| `metodologi-microteaching` | 15 | 10 | 0 | 0 | 0 | 5 |
