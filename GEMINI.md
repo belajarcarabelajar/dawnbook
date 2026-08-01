@@ -91,9 +91,19 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Symptom Check:** If a user reports "LaTeX works on Module 1 but breaks on Module 2, manual refresh fixes it" → root cause is either `async` (race condition) or bfcache. Check `head.hbs` for `async` first.
 
 ## 11. Search Engine Bot Bypass, Paywalled Schema & GSC API Re-indexing
-- **Edge Bot Bypass — MANDATORY:** Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` (Googlebot, Google-InspectionTool, Bingbot, YandexBot, etc.) and bypass D1 session gating, serving full HTML with `200 OK` and appending `Vary: User-Agent, Cookie` to response headers.
-- **Paywalled Content Structured Data:** All gated chapter pages generated during build MUST have Google-compliant Schema.org JSON-LD injected via `scripts/inject-gating.ts` containing `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` to guarantee full indexing compliance without cloaking penalties.
-- **GSC & IndexNow Automated Re-indexing:** Post-deployment automation MUST execute `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to submit `sitemap.xml` directly to Google Search Console API v3 (`PUT /webmasters/v3/sites/.../sitemaps/...`) and purge Cloudflare Pages cache.
+- **Search Engine Bot Edge Bypass & GSC API Rule (Rule R19)**:
+  - Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` and bypass D1 session gating with HTTP 200 OK and `Vary: User-Agent, Cookie` headers.
+  - Gated chapter pages MUST include Schema.org JSON-LD with `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` injected via `scripts/inject-gating.ts`.
+  - Post-deployment workflow MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to push `sitemap.xml` directly to Google Search Console API v3.
+
+## 12. Mandatory PUEBI Indonesian Timestamps & Authentic Git Release Dates
+- **PUEBI Formatting Standard:** Every mdBook card in the Hub MUST display an Indonesian release timestamp formatted as `D MMMM YYYY, HH.mm WIB` (e.g., `18 Juni 2026, 14.55 WIB`). Time must use 24-hour notation with dot separator (`HH.mm`) according to PUEBI standards.
+- **Authentic Git Release Date Extraction:** Book release timestamps MUST be extracted using the initial commit of the book's `src/` directory (`git log --reverse --format=%ct books/<slug>/src | head -n 1`). **NEVER** use `git log -1` on the root book directory, as global automated maintenance scripts (such as `sync-template.ts`) will overwrite all books' timestamps with the latest script execution date.
+
+## 13. Hub Card Author Typography & Spacing Hierarchy
+- **1/3 Font Size Ratio:** The author's name on every mdBook card MUST have a font size of `1.0rem` (16px), which is exactly **1/3 (33.3%) larger** than the date & total chapter line (`0.75rem` / 12px).
+- **Underline & Offset:** The author's name MUST feature a clean underline with explicit offset (`text-decoration: underline; text-underline-offset: 4px`) to prevent visual collision with descender characters.
+- **Vertical Rhythm:** The card footer column MUST maintain comfortable vertical spacing (`gap: 6px; margin-top: 2px`) between the author name and the timestamp/chapter line.
 
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.

@@ -2,6 +2,26 @@ import { readFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 import { $ } from "bun";
 
+const MONTHS_ID = [
+  "Januari", "Februari", "Maret", "April", "Mei", "Juni",
+  "Juli", "Agustus", "September", "Oktober", "November", "Desember"
+];
+
+export function formatIndonesianDate(ms: number): string {
+  if (!ms || ms <= 0) return "";
+  const date = new Date(ms);
+  const wibDate = new Date(date.getTime() + 7 * 60 * 60 * 1000);
+
+  const day = wibDate.getUTCDate();
+  const monthName = MONTHS_ID[wibDate.getUTCMonth()];
+  const year = wibDate.getUTCFullYear();
+
+  const hours = String(wibDate.getUTCHours()).padStart(2, "0");
+  const minutes = String(wibDate.getUTCMinutes()).padStart(2, "0");
+
+  return `${day} ${monthName} ${year}, ${hours}.${minutes} WIB`;
+}
+
 export interface BuiltBook {
   slug: string;
   title: string;
@@ -10,12 +30,13 @@ export interface BuiltBook {
   emoji: string;
   chapters: string[];
   mtimeMs: number;
+  formattedDate: string;
 }
 
 export async function parseBookMetadata(
   bookPath: string,
   bookName: string
-): Promise<{ formattedTitle: string; author: string; chapterCount: number; chapters: string[]; emoji: string; mtimeMs: number }> {
+): Promise<{ formattedTitle: string; author: string; chapterCount: number; chapters: string[]; emoji: string; mtimeMs: number; formattedDate: string }> {
   let formattedTitle = bookName
     .split("-")
     .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
@@ -72,17 +93,33 @@ export async function parseBookMetadata(
 
   let mtimeMs = 0;
   try {
-    const bookStat = await stat(bookPath);
-    mtimeMs = bookStat.mtimeMs;
-  } catch (e) {}
-
-  try {
-    const gitLog = await $`git log -1 --format=%ct ${bookPath}`.quiet().text();
-    const ts = parseInt(gitLog.trim(), 10);
+    // Get initial commit timestamp (release date) of the book content
+    const gitLogSrc = await $`git log --reverse --format=%ct ${join(bookPath, "src")}`.quiet().text();
+    const firstLine = gitLogSrc.trim().split("\n")[0];
+    const ts = parseInt(firstLine, 10);
     if (!isNaN(ts) && ts > 0) {
       mtimeMs = ts * 1000;
     }
   } catch (e) {}
 
-  return { formattedTitle, author, chapterCount, chapters, emoji, mtimeMs };
+  if (mtimeMs === 0) {
+    try {
+      const gitLogDir = await $`git log --reverse --format=%ct ${bookPath}`.quiet().text();
+      const firstLine = gitLogDir.trim().split("\n")[0];
+      const ts = parseInt(firstLine, 10);
+      if (!isNaN(ts) && ts > 0) {
+        mtimeMs = ts * 1000;
+      }
+    } catch (e) {}
+  }
+
+  if (mtimeMs === 0) {
+    try {
+      const bookStat = await stat(bookPath);
+      mtimeMs = bookStat.mtimeMs;
+    } catch (e) {}
+  }
+
+  const formattedDate = formatIndonesianDate(mtimeMs);
+  return { formattedTitle, author, chapterCount, chapters, emoji, mtimeMs, formattedDate };
 }

@@ -32,5 +32,7 @@ Specifically:
   - Edge middleware (`functions/_middleware.ts` & `functions/lib/gating.ts`) MUST detect Search Engine Bots via `isSearchEngineBot(userAgent)` and bypass D1 session gating with HTTP 200 OK and `Vary: User-Agent, Cookie` headers.
   - Gated chapter pages MUST include Schema.org JSON-LD with `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` injected via `scripts/inject-gating.ts`.
   - Post-deployment workflow MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to push `sitemap.xml` directly to Google Search Console API v3.
+- **Mandatory PUEBI Indonesian Timestamps & Initial Git Commit Date (Rule R20)**: Every mdBook card MUST display an Indonesian release timestamp formatted as `D MMMM YYYY, HH.mm WIB` (24-hour notation, dot separator, WIB suffix). Timestamps MUST be extracted using the initial commit date of the book content (`git log --reverse --format=%ct books/<slug>/src | head -n 1`). Using `git log -1` on the root book directory is strictly forbidden as global maintenance scripts will invalidate individual release dates.
+- **Hub Card Author Typography & Spacing Hierarchy (Rule R21)**: Author name font size MUST be `1.0rem` (16px), exactly 1/3 (33.3%) larger than the date & chapter line (`0.75rem` / 12px). Author names MUST feature a clean underline with `text-underline-offset: 4px` and comfortable vertical spacing (`gap: 6px; margin-top: 2px`).
 
 

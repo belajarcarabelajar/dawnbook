@@ -72,6 +72,7 @@ export async function buildAllBooks(
           emoji: meta.emoji,
           chapters: meta.chapters,
           mtimeMs: meta.mtimeMs,
+          formattedDate: meta.formattedDate,
         });
         console.log(`Successfully built: ${entry.name}`);
       } catch (error) {

@@ -177,9 +177,12 @@ export async function generateSitePages(
                 </div>
                 <h3 style="margin: 0 0 8px 0; font-size: 1.15rem; line-height: 1.4; color: var(--color-text); font-weight: 500;">${escapeHtml(b.title)}</h3>
             </div>
-            <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; font-size: 0.85rem; color: var(--color-secondary);">
-                <span>${escapeHtml(b.author)} • ${b.chapterCount} chapter</span>
-                <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8;">
+            <div style="margin-top: auto; padding-top: 16px; display: flex; justify-content: space-between; align-items: flex-end; color: var(--color-secondary);">
+                <div style="display: flex; flex-direction: column; gap: 6px;">
+                    <span style="font-size: 1rem; font-weight: 500; color: var(--color-text); text-decoration: underline; text-underline-offset: 4px; text-decoration-color: rgba(150, 150, 150, 0.4);">${escapeHtml(b.author)}</span>
+                    <span style="font-size: 0.75rem; opacity: 0.85; color: var(--color-secondary); margin-top: 2px;">${b.formattedDate ? `${escapeHtml(b.formattedDate)} • ` : ""}${b.chapterCount} chapter</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 4px; font-size: 11px; font-weight: 600; padding: 2px 6px; border: 1px solid var(--color-secondary); border-radius: 4px; opacity: 0.8; flex-shrink: 0;">
                     <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.59 13.41l-7.17 7.17a2 2 0 0 1-2.83 0L2 12V2h10l8.59 8.59a2 2 0 0 1 0 2.82z"></path><line x1="7" y1="7" x2="7.01" y2="7"></line></svg>
                     FREE
                 </div>

@@ -45,4 +45,28 @@ describe("Build Script & Modular Builder (scripts/build.ts)", () => {
     // The name label <span> must only be appended when showName is truthy.
     expect(script).toContain("if (showName)");
   });
+
+  test("parseBookMetadata correctly returns 'Iwan Kurniawan' for modified books and no book retains 'Tedi Rahmat' or 'AI'", async () => {
+    const { parseBookMetadata } = await import("../../scripts/builder/metadata");
+    const booksDir = join(import.meta.dir, "../../books");
+
+    const targetSlugs = ["filosofi-stoikisme", "neuroplastisitas-dalam-belajar", "piaget", "metakognisi"];
+    for (const slug of targetSlugs) {
+      const meta = await parseBookMetadata(join(booksDir, slug), slug);
+      expect(meta.author).toBe("Iwan Kurniawan");
+      expect(typeof meta.formattedDate).toBe("string");
+      expect(meta.formattedDate).toMatch(/WIB$/);
+    }
+  });
+
+  test("formatIndonesianDate formats timestamp into PUEBI-compliant Indonesian date (Opsi 1)", async () => {
+    const { formatIndonesianDate } = await import("../../scripts/builder/metadata");
+    // Test 1785576412000 ms = 2026-08-01 16:26:52 UTC+7 (Asia/Jakarta)
+    const testMs = new Date("2026-08-01T16:26:52+07:00").getTime();
+    const result = formatIndonesianDate(testMs);
+    expect(result).toBe("1 Agustus 2026, 16.26 WIB");
+
+    expect(formatIndonesianDate(0)).toBe("");
+  });
 });
+
