@@ -75,7 +75,46 @@ describe("/api/auth/login", () => {
     // No oauth_redirect cookie should be set when redirect_url is unsafe.
     expect(cookies).not.toContain("oauth_redirect=");
   });
+
+  test("redirects to /sign-in?error=bot_detected when Turnstile token verification fails", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => new Response(JSON.stringify({ success: false }), { status: 200 });
+
+    try {
+      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
+      setEnvHandlers(env);
+      const req = new Request("https://example.com/api/auth/login?cf-turnstile-response=bad_token&redirect_url=/appreciation.html", {
+        headers: { "CF-Connecting-IP": "1.2.3.4" },
+      });
+      const res = await loginHandler({ request: req, env } as any);
+
+      expect(res.status).toBe(302);
+      const loc = res.headers.get("Location")!;
+      expect(loc).toContain("/sign-in?error=bot_detected");
+      expect(loc).toContain("redirect_url=%2Fappreciation.html");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("proceeds to OAuth redirect when Turnstile token verification succeeds", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => new Response(JSON.stringify({ success: true }), { status: 200 });
+
+    try {
+      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
+      setEnvHandlers(env);
+      const req = new Request("https://example.com/api/auth/login?turnstile_token=good_token");
+      const res = await loginHandler({ request: req, env } as any);
+
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("accounts.google.com");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
 });
+
 
 describe("/api/auth/callback", () => {
   const baseUrl = "https://example.com/api/auth/callback";
@@ -181,6 +220,45 @@ describe("/api/auth/callback", () => {
     const dest = new URL(res.headers.get("Location")!, "https://example.com");
     expect(dest.pathname).toBe("/");
   });
+
+  test("redirects with error=config when GOOGLE_CLIENT_SECRET is missing", async () => {
+    const env = createMockEnv({ GOOGLE_CLIENT_ID: "client", GOOGLE_CLIENT_SECRET: "" }) as unknown as Env;
+    setEnvHandlers(env);
+    const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const res = await callbackHandler({ request: req, env } as any);
+    expect(res.status).toBe(302);
+    expect(res.headers.get("Location")).toContain("error=config");
+  });
+
+  test("redirects with error=google_exchange when Google code exchange throws error", async () => {
+    const originalFetch = global.fetch;
+    global.fetch = async () => new Response("exchange failed", { status: 400 });
+
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      setEnvHandlers(env);
+      const url = `${baseUrl}?code=bad_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=google_exchange");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("redirects with error=server when D1 operation throws exception", async () => {
+    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+    env.DB.prepare = mock(() => {
+      throw new Error("Fatal D1 Error");
+    });
+    const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const res = await callbackHandler({ request: req, env } as any);
+    expect(res.status).toBe(302);
+    expect(res.headers.get("Location")).toContain("error=server");
+  });
 });
 
 describe("/api/auth/logout", () => {
@@ -210,6 +288,20 @@ describe("/api/auth/logout", () => {
     setEnvHandlers(env);
     const res = await logoutGet({ request: new Request("https://example.com/api/auth/logout"), env } as any);
     expect(res.status).toBe(204);
+  });
+
+  test("returns 204 and clears cookie even when D1 deleteSession throws error", async () => {
+    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+    env.DB.prepare = mock(() => {
+      throw new Error("D1 Error during logout delete");
+    });
+    const req = new Request("https://example.com/api/auth/logout", {
+      method: "POST",
+      headers: { Cookie: `session_id=${SESSION_ID_HEX}` },
+    });
+    const res = await onRequestPost({ request: req, env } as any);
+    expect(res.status).toBe(204);
+    expect(res.headers.get("Set-Cookie")).toContain("session_id=;");
   });
 });
 

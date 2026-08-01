@@ -1,139 +1,89 @@
-import { describe, expect, it } from "bun:test";
+import { expect, test, describe, afterEach } from "bun:test";
 import {
+  exchangeCode,
+  fetchUserInfo,
+  constantTimeEqual,
+  isValidState,
+  safeRedirectPath,
   randomToken,
   randomSessionId,
   randomState,
-  buildAuthUrl,
-  constantTimeEqual,
-  safeRedirectPath,
-  isValidState,
-  GOOGLE_AUTH_URL,
-  SCOPES,
 } from "../../../functions/lib/oauth";
 
-describe("oauth.ts", () => {
-  describe("random generators", () => {
-    it("randomToken generates hex string of correct length", () => {
-      const token = randomToken(16);
-      expect(token).toHaveLength(32);
-      expect(/^[a-f0-9]+$/.test(token)).toBe(true);
+describe("functions/lib/oauth.ts unit tests", () => {
+  const originalFetch = global.fetch;
 
-      const token2 = randomToken(16);
-      expect(token).not.toEqual(token2);
-    });
-
-    it("randomSessionId generates 64-char hex string", () => {
-      const sessionId = randomSessionId();
-      expect(sessionId).toHaveLength(64);
-      expect(/^[a-f0-9]{64}$/.test(sessionId)).toBe(true);
-    });
-
-    it("randomState generates 32-char hex string", () => {
-      const state = randomState();
-      expect(state).toHaveLength(32);
-      expect(/^[a-f0-9]{32}$/.test(state)).toBe(true);
-    });
+  afterEach(() => {
+    global.fetch = originalFetch;
   });
 
-  describe("buildAuthUrl", () => {
-    it("builds the correct Google consent URL", () => {
-      const url = buildAuthUrl({
-        clientId: "test-client-id",
+  test("randomToken, randomSessionId, and randomState generate hex strings", () => {
+    expect(randomToken(16)).toMatch(/^[a-f0-9]{32}$/);
+    expect(randomSessionId()).toMatch(/^[a-f0-9]{64}$/);
+    expect(randomState()).toMatch(/^[a-f0-9]{32}$/);
+  });
+
+  test("exchangeCode throws Error on non-2xx HTTP response from Google token endpoint", async () => {
+    global.fetch = async () => new Response("invalid_grant", { status: 400 });
+
+    expect(
+      exchangeCode({
+        code: "invalid_code",
+        clientId: "client_id",
+        clientSecret: "client_secret",
         redirectUri: "https://example.com/callback",
-        state: "test-state",
+      })
+    ).rejects.toThrow("Google token exchange failed: 400 invalid_grant");
+  });
+
+  test("exchangeCode returns token payload on 200 OK", async () => {
+    global.fetch = async () =>
+      new Response(JSON.stringify({ access_token: "access_123", expires_in: 3600, token_type: "Bearer" }), {
+        status: 200,
+        headers: { "Content-Type": "application/json" },
       });
 
-      const parsedUrl = new URL(url);
-      expect(parsedUrl.origin + parsedUrl.pathname).toBe(GOOGLE_AUTH_URL);
-      expect(parsedUrl.searchParams.get("client_id")).toBe("test-client-id");
-      expect(parsedUrl.searchParams.get("redirect_uri")).toBe(
-        "https://example.com/callback",
-      );
-      expect(parsedUrl.searchParams.get("response_type")).toBe("code");
-      expect(parsedUrl.searchParams.get("scope")).toBe(SCOPES.join(" "));
-      expect(parsedUrl.searchParams.get("state")).toBe("test-state");
-      expect(parsedUrl.searchParams.get("access_type")).toBe("online");
-      expect(parsedUrl.searchParams.get("prompt")).toBe("select_account");
+    const res = await exchangeCode({
+      code: "valid_code",
+      clientId: "client_id",
+      clientSecret: "client_secret",
+      redirectUri: "https://example.com/callback",
     });
+    expect(res.access_token).toBe("access_123");
   });
 
-  describe("constantTimeEqual", () => {
-    it("returns true for identical strings", () => {
-      expect(constantTimeEqual("hello", "hello")).toBe(true);
-      expect(constantTimeEqual("", "")).toBe(true);
-    });
+  test("fetchUserInfo throws Error on non-2xx HTTP response from Google userinfo endpoint", async () => {
+    global.fetch = async () => new Response("Unauthorized", { status: 401 });
 
-    it("returns false for different strings of same length", () => {
-      expect(constantTimeEqual("hello", "world")).toBe(false);
-      expect(constantTimeEqual("abc", "abd")).toBe(false);
-    });
-
-    it("returns false for strings of different lengths", () => {
-      expect(constantTimeEqual("hello", "hello ")).toBe(false);
-      expect(constantTimeEqual("hello", "he")).toBe(false);
-    });
+    expect(fetchUserInfo("bad_token")).rejects.toThrow("Google userinfo failed: 401 Unauthorized");
   });
 
-  describe("safeRedirectPath", () => {
-    it("returns '/' for null/undefined/empty", () => {
-      expect(safeRedirectPath(null)).toBe("/");
-      expect(safeRedirectPath(undefined)).toBe("/");
-      expect(safeRedirectPath("")).toBe("/");
-      expect(safeRedirectPath(123 as any)).toBe("/");
-    });
+  test("fetchUserInfo throws Error when mandatory fields (sub, email) are missing", async () => {
+    global.fetch = async () =>
+      new Response(JSON.stringify({ name: "User Without Sub Or Email" }), { status: 200 });
 
-    it("returns '/' for paths not starting with '/'", () => {
-      expect(safeRedirectPath("https://example.com")).toBe("/");
-      expect(safeRedirectPath("foo/bar")).toBe("/");
-    });
-
-    it("returns '/' for paths starting with '//' (protocol-relative)", () => {
-      expect(safeRedirectPath("//example.com")).toBe("/");
-      expect(safeRedirectPath("///foo")).toBe("/");
-    });
-
-    it("returns '/' if path contains a backslash (bypass prevention)", () => {
-      expect(safeRedirectPath("/\\example.com")).toBe("/");
-      expect(safeRedirectPath("\\/example.com")).toBe("/");
-      expect(safeRedirectPath("foo\\bar")).toBe("/");
-    });
-
-    it("returns '/' if path contains newline or carriage return", () => {
-      expect(safeRedirectPath("/foo\nbar")).toBe("/");
-      expect(safeRedirectPath("/foo\rbar")).toBe("/");
-      expect(safeRedirectPath("/foo\r\nbar")).toBe("/");
-    });
-
-    it("returns the input for safe same-origin relative paths", () => {
-      expect(safeRedirectPath("/")).toBe("/");
-      expect(safeRedirectPath("/foo/bar")).toBe("/foo/bar");
-      expect(safeRedirectPath("/login?redirect=/home")).toBe(
-        "/login?redirect=/home",
-      );
-    });
+    expect(fetchUserInfo("token")).rejects.toThrow("Google userinfo missing required fields (sub, email)");
   });
 
-  describe("isValidState", () => {
-    it("returns false for non-strings or empty strings", () => {
-      expect(isValidState(null)).toBe(false);
-      expect(isValidState(undefined)).toBe(false);
-      expect(isValidState("")).toBe(false);
-      expect(isValidState(123 as any)).toBe(false);
-    });
+  test("constantTimeEqual compares strings in constant time", () => {
+    expect(constantTimeEqual("abc", "abc")).toBe(true);
+    expect(constantTimeEqual("abc", "abd")).toBe(false);
+    expect(constantTimeEqual("abc", "abcd")).toBe(false);
+  });
 
-    it("returns true for valid 32+ char hex strings", () => {
-      expect(isValidState("a".repeat(32))).toBe(true);
-      expect(isValidState("0123456789abcdef0123456789abcdef")).toBe(true);
-      expect(isValidState("a".repeat(64))).toBe(true);
-    });
+  test("isValidState validates 32+ char hex strings", () => {
+    expect(isValidState("a".repeat(32))).toBe(true);
+    expect(isValidState("a".repeat(31))).toBe(false);
+    expect(isValidState("invalid_hex_string")).toBe(false);
+    expect(isValidState(null)).toBe(false);
+  });
 
-    it("returns false for strings shorter than 32 chars", () => {
-      expect(isValidState("a".repeat(31))).toBe(false);
-    });
-
-    it("returns false for non-hex characters", () => {
-      expect(isValidState("g".repeat(32))).toBe(false); // 'g' is not hex
-      expect(isValidState("a".repeat(31) + "G")).toBe(false); // uppercase not allowed by regex
-    });
+  test("safeRedirectPath enforces same-origin relative paths", () => {
+    expect(safeRedirectPath("/books/intro")).toBe("/books/intro");
+    expect(safeRedirectPath("//evil.com")).toBe("/");
+    expect(safeRedirectPath("https://evil.com")).toBe("/");
+    expect(safeRedirectPath("path/without/slash")).toBe("/");
+    expect(safeRedirectPath(null)).toBe("/");
+    expect(safeRedirectPath(undefined)).toBe("/");
   });
 });

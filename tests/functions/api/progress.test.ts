@@ -275,4 +275,105 @@ describe("API: /api/progress", () => {
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(400);
   });
+
+  test("GET returns { path: null, completed_paths: [] } when no progress record exists", async () => {
+    mockSession = { sub: "u_123", role: "reader", sid: SID, email: "alice@example.com" };
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        const s = sql.toUpperCase();
+        const api: any = {
+          bind: () => api,
+          first: async () => (s.includes("FROM SESSIONS") ? makeUserRow() : null),
+        };
+        return api;
+      }),
+    } as any;
+
+    const req = mockRequest("https://example.com/api/progress?bookSlug=new-book", {
+      method: "GET",
+      headers: { Cookie: `session_id=${SID}` },
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(200);
+    expect(await response.json()).toEqual({ path: null, completed_paths: [] });
+  });
+
+  test("POST returns 401 when verifySession returns null", async () => {
+    mockSession = null;
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(401);
+  });
+
+  test("POST returns 400 when JSON payload is malformed", async () => {
+    mockSession = { sub: "u_123", role: "reader" };
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      body: "not-json",
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(400);
+    expect(await response.json()).toEqual({ error: "Invalid JSON body" });
+  });
+
+  test("POST returns 400 when completed_path is invalid", async () => {
+    mockSession = { sub: "u_123", role: "reader" };
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", path: "/path", completed_path: "invalid-no-slash" }),
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(400);
+    expect(await response.json()).toEqual({ error: "Invalid completed_path format or length" });
+  });
+
+  test("POST returns 500 when D1 write fails", async () => {
+    mockSession = { sub: "u_123", role: "reader" };
+    const env = createMockEnv();
+    env.DB = {
+      prepare: mock((sql: string) => {
+        const s = sql.toUpperCase();
+        const api: any = {
+          bind: () => api,
+          first: async () => (s.includes("FROM SESSIONS") ? makeUserRow() : null),
+          run: async () => ({ success: false }),
+        };
+        return api;
+      }),
+    } as any;
+
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(500);
+    expect(await response.json()).toEqual({ error: "Database write failed" });
+  });
+
+  test("returns 405 Method Not Allowed for unsupported methods", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/progress", { method: "DELETE" });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(405);
+  });
+
+  test("returns 500 Internal Server Error when handle function throws exception", async () => {
+    mockSession = { sub: "u_123", role: "reader" };
+    const env = createMockEnv();
+    env.DB.prepare = mock(() => {
+      throw new Error("Fatal DB Error");
+    });
+
+    const req = mockRequest("https://example.com/api/progress", { method: "GET" });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(500);
+  });
 });

@@ -81,6 +81,42 @@ describe("API: /api/books", () => {
     expect(res.status).toBe(400);
   });
 
+  test("POST returns 401 when no session exists", async () => {
+    mockSession = null;
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
+    });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(401);
+    expect(await res.json()).toEqual({ error: "Unauthorized: valid session required" });
+  });
+
+  test("POST returns 403 when session user is not admin", async () => {
+    mockSession = { sub: "user_123", role: "reader" };
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
+    });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(403);
+    expect(await res.json()).toEqual({ error: "Forbidden: Administrator access required" });
+  });
+
+  test("POST returns 400 when markdownContent is too long", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "a".repeat(5000001) }),
+    });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(400);
+    expect(await res.json()).toEqual({ error: "markdownContent too long" });
+  });
+
   test("POST returns 500 when D1 write or batch fails", async () => {
     mockSession = { sub: "user_123", role: "admin" };
     const env = createMockEnv();
@@ -96,8 +132,43 @@ describe("API: /api/books", () => {
       method: "POST",
       body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
     });
-    const res = await onRequest({ request: req, env } as any);
+    let res = await onRequest({ request: req, env } as any);
     expect(res.status).toBe(500);
+
+    // Batch write fails
+    const envBatchFail = createMockEnv();
+    envBatchFail.DB.batch = mock(async () => [{ success: false }]) as any;
+    const reqBatch = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
+    });
+    res = await onRequest({ request: reqBatch, env: envBatchFail } as any);
+    expect(res.status).toBe(500);
+    expect(await res.json()).toEqual({ error: "Database chunk write failed" });
+  });
+
+  test("POST returns 201 Created on successful book creation with chunked content", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+
+    const longContent = "A".repeat(35000); // Triggers multiple chunks
+    const req = mockRequest("https://example.com/api/books", {
+      method: "POST",
+      body: JSON.stringify({
+        bookSlug: "my-new-book",
+        chapterTitle: "Chapter 1",
+        markdownContent: longContent,
+        subjectLabel: "Teknologi",
+      }),
+    });
+
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(201);
+    const body = await res.json();
+    expect(body.success).toBe(true);
+    expect(body.book.slug).toBe("my-new-book");
+    expect(body.book.title).toBe("Chapter 1");
+    expect(body.book.subject_label).toBe("Teknologi");
   });
 
   test("returns 405 Method Not Allowed for unsupported methods", async () => {

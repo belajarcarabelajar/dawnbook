@@ -175,6 +175,32 @@ describe("PATCH /api/users/:id/donation-badge", () => {
     } as any);
     expect(res.status).toBe(400);
   });
+
+  test("returns 500 when setDonationBadge update fails", async () => {
+    mockSession = { sub: "u_admin", role: "admin" };
+    const env = makeEnvWithTarget();
+    env.DB.prepare = (sql: string) => {
+      if (sql.includes("FROM users WHERE id")) {
+        return {
+          bind: () => ({
+            first: async () => ({ id: TARGET_USER_ID }),
+          }),
+        } as any;
+      }
+      return {
+        bind: () => ({
+          run: async () => ({ success: false }),
+        }),
+      } as any;
+    };
+    const res = await onRequestPatch({
+      request: makeRequest({ tier: "Gold" }),
+      env,
+      params: { id: TARGET_USER_ID },
+    } as any);
+    expect(res.status).toBe(500);
+    expect(await res.json()).toEqual({ error: "Update failed" });
+  });
 });
 
 describe("setDonationBadge helper", () => {

@@ -27,12 +27,12 @@ interface BookRow {
  * Minimal TOML parser — extracts `title = "..."` from the [book] section.
  * Full TOML parsing is unnecessary for this limited use case.
  */
-function parseTitleFromToml(tomlContent: string): string {
+export function parseTitleFromToml(tomlContent: string): string {
   const match = tomlContent.match(/^title\s*=\s*"([^"]+)"/m);
   return match ? match[1] : "Untitled";
 }
 
-function parseSubjectLabelFromToml(tomlContent: string): string | null {
+export function parseSubjectLabelFromToml(tomlContent: string): string | null {
   const match = tomlContent.match(/^subject_label\s*=\s*"([^"]+)"/m);
   return match ? match[1] : null;
 }
@@ -51,35 +51,50 @@ export function escapeSqlNullable(value: string | null | undefined): string {
   return escapeSql(value);
 }
 
-async function main() {
-  const rootDir = process.cwd();
-  const booksDir = join(rootDir, "books");
+export interface MigrationOptions {
+  rootDir?: string;
+  booksDir?: string;
+  bookSlug?: string;
+  executeCommand?: (cmd: string) => Promise<void>;
+  writeSeedSql?: boolean;
+}
+
+export async function runMigration(options: MigrationOptions = {}) {
+  const rootDir = options.rootDir ?? process.cwd();
+  const booksDir = options.booksDir ?? join(rootDir, "books");
+  const targetSlug = options.bookSlug ?? process.env.BOOK_SLUG;
   const now = new Date().toISOString();
 
-  let entries = await readdir(booksDir);
-  if (process.env.BOOK_SLUG) {
-    entries = entries.filter((e) => e === process.env.BOOK_SLUG);
-    console.log(
-      `Filtering migrations to target only: ${process.env.BOOK_SLUG}`,
-    );
+  let entries: string[] = [];
+  try {
+    entries = await readdir(booksDir);
+  } catch {
+    console.warn(`⚠️  Cannot read books directory: ${booksDir}`);
+    return;
+  }
+
+  if (targetSlug) {
+    entries = entries.filter((e) => e === targetSlug);
+    console.log(`Filtering migrations to target only: ${targetSlug}`);
   }
   const rows: BookRow[] = [];
 
   for (const entry of entries) {
-    // Skip _-prefixed directories (e.g., _template)
     if (entry.startsWith("_")) continue;
 
     const bookPath = join(booksDir, entry);
-    const bookStat = await stat(bookPath);
-    if (!bookStat.isDirectory()) continue;
+    try {
+      const bookStat = await stat(bookPath);
+      if (!bookStat.isDirectory()) continue;
+    } catch {
+      continue;
+    }
 
-    // Validate slug format
     if (!/^[a-zA-Z0-9_-]+$/.test(entry)) {
       console.warn(`⚠️  Skipping invalid directory name: ${entry}`);
       continue;
     }
 
-    // Must have a book.toml
     const tomlPath = join(bookPath, "book.toml");
     try {
       await stat(tomlPath);
@@ -92,7 +107,6 @@ async function main() {
     const title = parseTitleFromToml(tomlContent);
     const subject_label = parseSubjectLabelFromToml(tomlContent);
 
-    // Read and concatenate all .md files from src/ (excluding SUMMARY.md)
     const srcDir = join(bookPath, "src");
     let combinedMd = "";
 
@@ -113,12 +127,11 @@ async function main() {
       continue;
     }
 
-    // Use slug as deterministic ID for idempotency
     rows.push({
       id: entry,
       slug: entry,
       title,
-      status: "published", // Existing file-based books are considered published
+      status: "published",
       subject_label,
       content_md: combinedMd.trim(),
       created_at: now,
@@ -135,7 +148,6 @@ async function main() {
     return;
   }
 
-  // Build idempotent SQL statements with parameterized/escaped literals
   const statements = rows.map((row) => {
     return `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
@@ -158,15 +170,20 @@ ON CONFLICT(slug) DO UPDATE SET
 
   const fullSql = statements.join("\n\n");
 
-  // Write SQL to a temp file for wrangler execution
-  const tmpSqlPath = join(rootDir, "db", "seed.sql");
-  await Bun.write(tmpSqlPath, fullSql);
-  console.log(`\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`);
+  if (options.writeSeedSql !== false) {
+    const tmpSqlPath = join(rootDir, "db", "seed.sql");
+    await Bun.write(tmpSqlPath, fullSql);
+    console.log(`\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`);
+  }
 
-  // Execute via wrangler d1 book-by-book using --command to avoid SQLITE_TOOBIG and silent execution failures
+  const execFn =
+    options.executeCommand ??
+    (async (commandSql: string) => {
+      await $`npx wrangler d1 execute dawnbook-db --remote --command=${commandSql}`;
+    });
+
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
   for (const row of rows) {
-    // Chunk size 30,000 characters (30 KB)
     const chunkSize = 30000;
     const content = row.content_md;
     const chunks: string[] = [];
@@ -178,7 +195,6 @@ ON CONFLICT(slug) DO UPDATE SET
       `Applying seed for book: ${row.slug} (${chunks.length} chunks)...`,
     );
 
-    // 1. Initial insert/update metadata (setting content_md = '')
     const initialSql = `INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
 VALUES (
   ${escapeSql(row.id)},
@@ -199,25 +215,24 @@ ON CONFLICT(slug) DO UPDATE SET
 
     try {
       console.log(`  - Inserting metadata...`);
-      await $`npx wrangler d1 execute dawnbook-db --remote --command=${initialSql}`;
+      await execFn(initialSql);
     } catch (error) {
       console.error(`❌ Failed to apply metadata for ${row.slug}:`, error);
-      process.exit(1);
+      throw error;
     }
 
-    // 2. Append chunks sequentially
     let chunkIndex = 1;
     for (const chunk of chunks) {
       const chunkSql = `UPDATE books SET content_md = content_md || ${escapeSql(chunk)} WHERE slug = ${escapeSql(row.slug)};`;
       try {
         console.log(`  - Appending chunk ${chunkIndex}/${chunks.length}...`);
-        await $`npx wrangler d1 execute dawnbook-db --remote --command=${chunkSql}`;
+        await execFn(chunkSql);
       } catch (error) {
         console.error(
           `❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`,
           error,
         );
-        process.exit(1);
+        throw error;
       }
       chunkIndex++;
     }
@@ -225,7 +240,9 @@ ON CONFLICT(slug) DO UPDATE SET
   console.log("✅ All seeds applied successfully.");
 }
 
-main().catch((err) => {
-  console.error("Fatal error:", err);
-  process.exit(1);
-});
+if (import.meta.main) {
+  runMigration().catch((err) => {
+    console.error("Fatal error:", err);
+    process.exit(1);
+  });
+}
