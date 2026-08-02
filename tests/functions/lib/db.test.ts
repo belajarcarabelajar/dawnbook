@@ -1,6 +1,7 @@
 import { expect, test, describe } from "bun:test";
 import {
   getUserByEmail,
+  getUserByGoogleSub,
   upsertGoogleUser,
   createSession,
   getSessionWithUser,
@@ -9,6 +10,24 @@ import {
 import { createMockEnv } from "../../helpers/mocks";
 
 describe("functions/lib/db.ts unit tests", () => {
+  test("getUserByGoogleSub fetches user by google_sub", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = (sql: string) => {
+      if (sql.includes("WHERE google_sub =")) {
+        return {
+          bind: () => ({
+            first: async () => ({ id: "u_google", google_sub: "g_123" }),
+          }),
+        } as any;
+      }
+      return { bind: () => ({ first: async () => null }) } as any;
+    };
+
+    const user = await getUserByGoogleSub(env.DB, "g_123");
+    expect(user).not.toBeNull();
+    expect(user?.id).toBe("u_google");
+  });
+
   test("getUserByEmail fetches user by email", async () => {
     const env = createMockEnv();
     env.DB.prepare = (sql: string) => {
