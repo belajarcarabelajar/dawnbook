@@ -57,9 +57,14 @@ async function handleGetProgress(
       }>();
 
     const parsedResults = results.results.map((row) => {
-      let parsed = [];
+      let parsed: string[] = [];
       try {
-        if (row.completed_paths) parsed = JSON.parse(row.completed_paths);
+        if (row.completed_paths) {
+          const jsonParsed = JSON.parse(row.completed_paths);
+          if (Array.isArray(jsonParsed)) {
+            parsed = jsonParsed;
+          }
+        }
       } catch (e) {
         console.warn("[progress] Failed to parse completed_paths JSON:", e);
       }
@@ -83,10 +88,14 @@ async function handleGetProgress(
     return jsonResponse({ path: null, completed_paths: [] });
   }
 
-  let parsedPaths = [];
+  let parsedPaths: string[] = [];
   try {
-    if (result.completed_paths)
-      parsedPaths = JSON.parse(result.completed_paths);
+    if (result.completed_paths) {
+      const jsonParsed = JSON.parse(result.completed_paths);
+      if (Array.isArray(jsonParsed)) {
+        parsedPaths = jsonParsed;
+      }
+    }
   } catch (e) {
     console.warn("[progress] Failed to parse single book completed_paths JSON:", e);
   }
@@ -151,7 +160,10 @@ async function handlePostProgress(
 
   if (existing && existing.completed_paths) {
     try {
-      completedPaths = JSON.parse(existing.completed_paths);
+      const jsonParsed = JSON.parse(existing.completed_paths);
+      if (Array.isArray(jsonParsed)) {
+        completedPaths = jsonParsed;
+      }
     } catch (e) {
       console.warn("[progress] Failed to parse existing completed_paths JSON on POST:", e);
     }
