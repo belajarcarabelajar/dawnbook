@@ -3,6 +3,7 @@ import {
   getUserByEmail,
   upsertGoogleUser,
   createSession,
+  deleteSession,
   getSessionWithUser,
   generateUserId,
 } from "../../../functions/lib/db";
@@ -47,6 +48,40 @@ describe("functions/lib/db.ts unit tests", () => {
         picture: null,
       })
     ).rejects.toThrow("upsertGoogleUser: row not found after upsert");
+  });
+
+  test("deleteSession returns true on success", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = (sql: string) => {
+      expect(sql).toContain("DELETE FROM sessions WHERE id = ?1");
+      return {
+        bind: (id: string) => {
+          expect(id).toBe("s1");
+          return {
+            run: async () => ({ success: true }),
+          };
+        },
+      } as any;
+    };
+
+    const result = await deleteSession(env.DB, "s1");
+    expect(result).toBe(true);
+  });
+
+  test("deleteSession returns false on failure", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = (sql: string) => {
+      return {
+        bind: () => {
+          return {
+            run: async () => ({ success: false }),
+          };
+        },
+      } as any;
+    };
+
+    const result = await deleteSession(env.DB, "s1");
+    expect(result).toBe(false);
   });
 
   test("createSession throws if insert returning returns null", async () => {
