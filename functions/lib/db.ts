@@ -197,6 +197,16 @@ export async function setDonationBadge(
   return after !== null && res.success;
 }
 
+function extractPrefix<T>(row: Record<string, any>, prefix: string): T {
+  const result: any = {};
+  for (const key in row) {
+    if (key.startsWith(prefix)) {
+      result[key.slice(prefix.length)] = row[key];
+    }
+  }
+  return result as T;
+}
+
 export async function getSessionWithUser(
   db: D1Database,
   sessionId: string,
@@ -225,29 +235,13 @@ export async function getSessionWithUser(
        WHERE s.id = ?1`,
     )
     .bind(sessionId)
-    .first<any>();
+    .first<Record<string, any>>();
   if (!row) return null;
-  const session: SessionRow = {
-    id: row.s_id,
-    user_id: row.s_user_id,
-    expires_at: row.s_expires_at,
-    created_at: row.s_created_at,
-    last_seen_at: row.s_last_seen_at,
-    user_agent: row.s_user_agent,
-    ip: row.s_ip,
+
+  return {
+    session: extractPrefix<SessionRow>(row, "s_"),
+    user: extractPrefix<UserRow>(row, "u_"),
   };
-  const user: UserRow = {
-    id: row.u_id,
-    google_sub: row.u_google_sub,
-    email: row.u_email,
-    name: row.u_name,
-    picture: row.u_picture,
-    role: row.u_role,
-    donation_badge: row.u_donation_badge,
-    created_at: row.u_created_at,
-    last_login_at: row.u_last_login_at,
-  };
-  return { session, user };
 }
 
 /**
