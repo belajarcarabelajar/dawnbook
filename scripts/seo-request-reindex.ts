@@ -60,7 +60,8 @@ async function purgeCloudflareCache(): Promise<void> {
   let accountId = "";
   for (const line of envContent.split("\n")) {
     if (line.startsWith("CF_API_TOKEN=")) token = line.split("=")[1].trim();
-    if (line.startsWith("CF_ACCOUNT_ID=")) accountId = line.split("=")[1].trim();
+    if (line.startsWith("CF_ACCOUNT_ID="))
+      accountId = line.split("=")[1].trim();
   }
 
   if (!token || !accountId) {
@@ -77,16 +78,22 @@ async function purgeCloudflareCache(): Promise<void> {
         Authorization: `Bearer ${token}`,
         "Content-Type": "application/json",
       },
-    }
+    },
   );
 
   const purgeData = await purgeRes.json();
-  console.log("Cloudflare Build Cache Purge Result:", purgeData.success ? "SUCCESS" : JSON.stringify(purgeData));
+  console.log(
+    "Cloudflare Build Cache Purge Result:",
+    purgeData.success ? "SUCCESS" : JSON.stringify(purgeData),
+  );
 }
 
 async function inspectUrlsInGSC(sa: any): Promise<void> {
   console.log("\n=== 3. GSC URL INSPECTION & RE-INDEX AUDIT ===");
-  const token = await getAccessToken(sa, "https://www.googleapis.com/auth/webmasters.readonly");
+  const token = await getAccessToken(
+    sa,
+    "https://www.googleapis.com/auth/webmasters.readonly",
+  );
   const siteUrl = "sc-domain:dawnbook.belajarcarabelajar.com";
 
   const urlsToInspect = [
@@ -98,21 +105,37 @@ async function inspectUrlsInGSC(sa: any): Promise<void> {
     "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.html",
   ];
 
-  for (const url of urlsToInspect) {
-    const res = await fetch("https://searchconsole.googleapis.com/v1/urlInspection/index:inspect", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify({
-        inspectionUrl: url,
-        siteUrl: siteUrl,
-      }),
-    });
+  const fetchPromises = urlsToInspect.map(async (url) => {
+    try {
+      const res = await fetch(
+        "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect",
+        {
+          method: "POST",
+          headers: {
+            Authorization: `Bearer ${token}`,
+            "Content-Type": "application/json",
+          },
+          body: JSON.stringify({
+            inspectionUrl: url,
+            siteUrl: siteUrl,
+          }),
+        },
+      );
+      const data = await res.json();
+      return { url, data, error: null };
+    } catch (error) {
+      return { url, data: null, error };
+    }
+  });
 
-    const data = await res.json();
+  const results = await Promise.all(fetchPromises);
+
+  for (const { url, data, error } of results) {
     console.log(`\nURL: ${url}`);
+    if (error) {
+      console.error(`  Error: ${error}`);
+      continue;
+    }
     if (data.inspectionResult) {
       const state = data.inspectionResult.indexStatusResult;
       console.log(`  Verdict: ${state.verdict}`);
@@ -127,7 +150,10 @@ async function inspectUrlsInGSC(sa: any): Promise<void> {
 
 async function pingIndexNow(): Promise<void> {
   console.log("\n=== 2b. SUBMITTING TO INDEXNOW (BING / YANDEX) ===");
-  const key = process.env.INDEXNOW_KEY || process.env.SEARCH_CONSOLE_API_KEY || "e4bb998231538111cf6f9cd1ebbc9124b616d7bd";
+  const key =
+    process.env.INDEXNOW_KEY ||
+    process.env.SEARCH_CONSOLE_API_KEY ||
+    "e4bb998231538111cf6f9cd1ebbc9124b616d7bd";
   const host = "dawnbook.belajarcarabelajar.com";
   const keyLocation = `https://${host}/${key}.txt`;
 
@@ -179,7 +205,9 @@ async function main() {
   if (sa) {
     await inspectUrlsInGSC(sa);
   } else {
-    console.log("\n💡 Note: Skipping GSC URL inspection -- awaiting service-account.json placement or GSC_PRIVATE_KEY env var.");
+    console.log(
+      "\n💡 Note: Skipping GSC URL inspection -- awaiting service-account.json placement or GSC_PRIVATE_KEY env var.",
+    );
   }
 }
 
