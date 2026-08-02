@@ -5,13 +5,13 @@ echo "🚀 Starting manual build and deployment for Dawnbook..."
 
 # Load Cloudflare credentials from /root/.env or local .env if present
 if [ -f "/root/.env" ]; then
-  export $(grep -v '^#' /root/.env | xargs)
+  set -a; source /root/.env 2>/dev/null || true; set +a
 fi
 if [ -f ".env" ]; then
-  export $(grep -v '^#' .env | xargs)
+  set -a; source .env 2>/dev/null || true; set +a
 fi
 if [ -f ".dev.vars" ]; then
-  export $(grep -v '^#' .dev.vars | xargs)
+  set -a; source .dev.vars 2>/dev/null || true; set +a
 fi
 
 export CLOUDFLARE_ACCOUNT_ID="${CLOUDFLARE_ACCOUNT_ID:-$CF_ACCOUNT_ID}"
