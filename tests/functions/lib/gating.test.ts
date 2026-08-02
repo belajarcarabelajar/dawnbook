@@ -1,4 +1,4 @@
-import { expect, test, describe } from "bun:test";
+import { expect, test, describe, spyOn } from "bun:test";
 import { isPublicPath } from "../../../functions/lib/gating";
 
 describe("isPublicPath — public path matching", () => {
@@ -34,6 +34,21 @@ describe("isPublicPath — public path matching", () => {
     expect(isPublicPath("/foo.css")).toBe(true);
     expect(isPublicPath("/book/piaget/fonts/OpenSans-Regular.woff2")).toBe(true);
     expect(isPublicPath("/HubLayout.css")).toBe(true);
+  });
+});
+
+describe("isPublicPath — edge cases", () => {
+  test("handles malformed URI gracefully (URIError)", () => {
+    const consoleErrorSpy = spyOn(console, "error").mockImplementation(() => {});
+
+    // A malformed URI component string that causes decodeURIComponent to throw a URIError
+    const result = isPublicPath("%E0%A4%A");
+
+    // It should log the error and fall back to the unencoded path, eventually returning true
+    expect(result).toBe(true);
+    expect(consoleErrorSpy).toHaveBeenCalledWith("[gating] URIError decoding pathname: %E0%A4%A");
+
+    consoleErrorSpy.mockRestore();
   });
 });
 
