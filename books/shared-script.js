@@ -141,7 +141,7 @@ window.MathJax = {
         if (isRoot && !hasRedirected) {
             try {
                 if (!sessionStorage.getItem('viewed_' + bookSlug)) {
-                    fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', credentials: 'same-origin', keepalive: true }).catch(function(){});
+                    fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', headers: { 'X-Requested-With': 'XMLHttpRequest' }, credentials: 'same-origin', keepalive: true }).catch(function(){});
                     sessionStorage.setItem('viewed_' + bookSlug, '1');
                 }
             } catch(e) { console.warn('sessionStorage setItem error', e); }
