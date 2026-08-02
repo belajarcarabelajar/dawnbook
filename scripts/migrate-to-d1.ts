@@ -77,19 +77,29 @@ export async function runMigration(options: MigrationOptions = {}) {
     entries = entries.filter((e) => e === targetSlug);
     console.log(`Filtering migrations to target only: ${targetSlug}`);
   }
+
+  // Concurrently filter out non-directories and files starting with "_"
+  const validEntries = (
+    await Promise.all(
+      entries.map(async (entry) => {
+        if (entry.startsWith("_")) return null;
+
+        const bookPath = join(booksDir, entry);
+        try {
+          const bookStat = await stat(bookPath);
+          if (!bookStat.isDirectory()) return null;
+          return entry;
+        } catch {
+          return null;
+        }
+      }),
+    )
+  ).filter((e): e is string => e !== null);
+
   const rows: BookRow[] = [];
 
-  for (const entry of entries) {
-    if (entry.startsWith("_")) continue;
-
+  for (const entry of validEntries) {
     const bookPath = join(booksDir, entry);
-    try {
-      const bookStat = await stat(bookPath);
-      if (!bookStat.isDirectory()) continue;
-    } catch {
-      continue;
-    }
-
     if (!/^[a-zA-Z0-9_-]+$/.test(entry)) {
       console.warn(`⚠️  Skipping invalid directory name: ${entry}`);
       continue;
