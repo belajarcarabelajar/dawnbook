@@ -25,83 +25,110 @@ async function checkSeo() {
   }
 
   async function scanDirectory(dir: string) {
-    const entries = await readdir(dir);
-    for (const entry of entries) {
-      const fullPath = join(dir, entry);
-      const entryStat = await stat(fullPath);
-      
-      if (entryStat.isDirectory()) {
-        await scanDirectory(fullPath);
-      } else if (fullPath.endsWith(".html")) {
-        const content = await readFile(fullPath, "utf-8");
-        const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
+    const entries = await readdir(dir, { withFileTypes: true });
+    await Promise.all(
+      entries.map(async (entry) => {
+        const fullPath = join(dir, entry.name);
 
-        // Utility pages excluded from sitemap & checks
-        if (
-          relativePath.endsWith("404.html") ||
-          relativePath.endsWith("print.html") ||
-          relativePath.endsWith("toc.html")
-        ) {
-          continue;
-        }
+        if (entry.isDirectory()) {
+          await scanDirectory(fullPath);
+        } else if (fullPath.endsWith(".html")) {
+          const content = await readFile(fullPath, "utf-8");
+          const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");
 
-        // R1: Title & Meta Description
-        if (!content.includes("<title>") || !content.includes("</title>")) {
-          console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
-          hasErrors = true;
-        }
-        if (!content.includes("<meta name=\"description\"")) {
-          console.error(`❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`);
-          hasErrors = true;
-        }
+          // Utility pages excluded from sitemap & checks
+          if (
+            relativePath.endsWith("404.html") ||
+            relativePath.endsWith("print.html") ||
+            relativePath.endsWith("toc.html")
+          ) {
+            return;
+          }
 
-        // R2: Canonical and Hreflang
-        if (!content.includes("<link rel=\"canonical\"")) {
-          console.error(`❌ [FAIL] ${relativePath} missing canonical link. (R2)`);
-          hasErrors = true;
-        }
-        if (!content.includes("hreflang=\"en\"") || !content.includes("hreflang=\"id\"")) {
-          console.error(`❌ [FAIL] ${relativePath} missing hreflang tags. (R2)`);
-          hasErrors = true;
-        }
-
-        // R6: Structured Data
-        if (!content.includes("application/ld+json")) {
-          console.error(`❌ [FAIL] ${relativePath} missing JSON-LD structured data. (R6)`);
-          hasErrors = true;
-        }
-
-        // R7: Image alt text
-        const imgMatches = content.match(/<img[^>]*>/g) || [];
-        for (const img of imgMatches) {
-          if (!img.includes("alt=") || img.includes("alt=\"\"")) {
-            console.error(`❌ [FAIL] ${relativePath} contains image without descriptive alt text: ${img} (R7)`);
+          // R1: Title & Meta Description
+          if (!content.includes("<title>") || !content.includes("</title>")) {
+            console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
             hasErrors = true;
           }
-        }
-
-        // Verify all valid content pages are present in sitemap.xml
-        let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-        let canonicalUrl = expectedUrl.endsWith("/index.html")
-          ? expectedUrl.replace(/\/index\.html$/, "/")
-          : expectedUrl.endsWith(".html")
-          ? expectedUrl.replace(/\.html$/, "")
-          : expectedUrl;
-        if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
-          console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
-          hasErrors = true;
-        }
-
-        // Verify content page does NOT have noindex in _headers
-        if (headersContent.includes(relativePath) && headersContent.includes("X-Robots-Tag: noindex")) {
-          const headerSection = headersContent.split(relativePath)[1];
-          if (headerSection && headerSection.startsWith("\n  X-Robots-Tag: noindex")) {
-            console.error(`❌ [FAIL] Content path ${relativePath} incorrectly marked with X-Robots-Tag: noindex!`);
+          if (!content.includes('<meta name="description"')) {
+            console.error(
+              `❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`,
+            );
             hasErrors = true;
           }
+
+          // R2: Canonical and Hreflang
+          if (!content.includes('<link rel="canonical"')) {
+            console.error(
+              `❌ [FAIL] ${relativePath} missing canonical link. (R2)`,
+            );
+            hasErrors = true;
+          }
+          if (
+            !content.includes('hreflang="en"') ||
+            !content.includes('hreflang="id"')
+          ) {
+            console.error(
+              `❌ [FAIL] ${relativePath} missing hreflang tags. (R2)`,
+            );
+            hasErrors = true;
+          }
+
+          // R6: Structured Data
+          if (!content.includes("application/ld+json")) {
+            console.error(
+              `❌ [FAIL] ${relativePath} missing JSON-LD structured data. (R6)`,
+            );
+            hasErrors = true;
+          }
+
+          // R7: Image alt text
+          const imgMatches = content.match(/<img[^>]*>/g) || [];
+          for (const img of imgMatches) {
+            if (!img.includes("alt=") || img.includes('alt=""')) {
+              console.error(
+                `❌ [FAIL] ${relativePath} contains image without descriptive alt text: ${img} (R7)`,
+              );
+              hasErrors = true;
+            }
+          }
+
+          // Verify all valid content pages are present in sitemap.xml
+          let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
+          let canonicalUrl = expectedUrl.endsWith("/index.html")
+            ? expectedUrl.replace(/\/index\.html$/, "/")
+            : expectedUrl.endsWith(".html")
+              ? expectedUrl.replace(/\.html$/, "")
+              : expectedUrl;
+          if (
+            !sitemapContent.includes(expectedUrl) &&
+            !sitemapContent.includes(canonicalUrl)
+          ) {
+            console.error(
+              `❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`,
+            );
+            hasErrors = true;
+          }
+
+          // Verify content page does NOT have noindex in _headers
+          if (
+            headersContent.includes(relativePath) &&
+            headersContent.includes("X-Robots-Tag: noindex")
+          ) {
+            const headerSection = headersContent.split(relativePath)[1];
+            if (
+              headerSection &&
+              headerSection.startsWith("\n  X-Robots-Tag: noindex")
+            ) {
+              console.error(
+                `❌ [FAIL] Content path ${relativePath} incorrectly marked with X-Robots-Tag: noindex!`,
+              );
+              hasErrors = true;
+            }
+          }
         }
-      }
-    }
+      }),
+    );
   }
 
   await scanDirectory(join(outputDir, "books"));
