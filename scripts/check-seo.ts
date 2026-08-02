@@ -1,6 +1,5 @@
 import { readdir, readFile, stat } from "node:fs/promises";
 import { join } from "node:path";
-import { isPublicPath } from "../functions/lib/gating.ts";
 
 async function checkSeo() {
   const rootDir = process.cwd();
