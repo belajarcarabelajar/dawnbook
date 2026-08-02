@@ -30,25 +30,13 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     return errorResponse("Method not allowed", 405);
   }
 
-  // CSRF Protection: Validate Origin or Referer matches the request URL
-  const origin = request.headers.get("Origin");
-  const referer = request.headers.get("Referer");
-  const expectedOrigin = new URL(request.url).origin;
-
-  let isAllowed = false;
-  if (origin) {
-    isAllowed = origin === expectedOrigin;
-  } else if (referer) {
-    try {
-      const refererUrl = new URL(referer);
-      isAllowed = refererUrl.origin === expectedOrigin;
-    } catch {
-      isAllowed = false;
-    }
-  }
-
-  if (!isAllowed) {
-    return errorResponse("Forbidden: Invalid origin", 403);
+  // CSRF Protection: Require standard custom header
+  // Cross-origin HTML forms cannot send custom headers.
+  // Standard fetch requests with custom headers from other origins
+  // will trigger a CORS preflight (OPTIONS), which our server rejects.
+  const requestedWith = request.headers.get("X-Requested-With");
+  if (requestedWith !== "XMLHttpRequest") {
+    return errorResponse("Forbidden: Invalid CSRF protection header", 403);
   }
 
   const slug = params.slug as string;

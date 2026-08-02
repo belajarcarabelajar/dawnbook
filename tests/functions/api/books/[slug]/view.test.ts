@@ -3,7 +3,7 @@ import { onRequest } from "../../../../../functions/api/books/[slug]/view";
 import { createMockEnv, setRunHandler } from "../../../../helpers/mocks";
 
 describe("POST /api/books/[slug]/view", () => {
-  it("allows requests with a valid Origin header", async () => {
+  it("allows requests with a valid X-Requested-With header", async () => {
     const env = createMockEnv();
     let queryExecuted = false;
 
@@ -17,7 +17,7 @@ describe("POST /api/books/[slug]/view", () => {
     const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
       method: "POST",
       headers: {
-        Origin: "https://dawnbook.belajarcarabelajar.com",
+        "X-Requested-With": "XMLHttpRequest",
       },
     });
 
@@ -35,45 +35,13 @@ describe("POST /api/books/[slug]/view", () => {
     expect(queryExecuted).toBe(true);
   });
 
-  it("allows requests with a valid Referer header when Origin is missing", async () => {
-    const env = createMockEnv();
-    let queryExecuted = false;
-
-    setRunHandler(env, "UPDATE", (sql, params) => {
-      if (sql.includes("view_count") && params[0] === "test-book") {
-        queryExecuted = true;
-      }
-      return { success: true };
-    });
-
-    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
-      method: "POST",
-      headers: {
-        Referer: "https://dawnbook.belajarcarabelajar.com/books/test-book/",
-      },
-    });
-
-    const context = {
-      request,
-      env,
-      params: { slug: "test-book" },
-      waitUntil: () => {},
-      next: () => Promise.resolve(new Response()),
-      data: {},
-    } as any;
-
-    const response = await onRequest(context);
-    expect(response.status).toBe(200);
-    expect(queryExecuted).toBe(true);
-  });
-
-  it("blocks requests with a mismatched Origin header", async () => {
+  it("blocks requests with an invalid X-Requested-With header", async () => {
     const env = createMockEnv();
 
     const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
       method: "POST",
       headers: {
-        Origin: "https://evil.com",
+        "X-Requested-With": "InvalidValue",
       },
     });
 
@@ -89,35 +57,10 @@ describe("POST /api/books/[slug]/view", () => {
     const response = await onRequest(context);
     expect(response.status).toBe(403);
     const body = await response.json();
-    expect(body).toEqual({ error: "Forbidden: Invalid origin" });
+    expect(body).toEqual({ error: "Forbidden: Invalid CSRF protection header" });
   });
 
-  it("blocks requests with a mismatched Referer header", async () => {
-    const env = createMockEnv();
-
-    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
-      method: "POST",
-      headers: {
-        Referer: "https://evil.com/some/path",
-      },
-    });
-
-    const context = {
-      request,
-      env,
-      params: { slug: "test-book" },
-      waitUntil: () => {},
-      next: () => Promise.resolve(new Response()),
-      data: {},
-    } as any;
-
-    const response = await onRequest(context);
-    expect(response.status).toBe(403);
-    const body = await response.json();
-    expect(body).toEqual({ error: "Forbidden: Invalid origin" });
-  });
-
-  it("blocks requests with no Origin or Referer header", async () => {
+  it("blocks requests with missing X-Requested-With header", async () => {
     const env = createMockEnv();
 
     const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
@@ -136,7 +79,7 @@ describe("POST /api/books/[slug]/view", () => {
     const response = await onRequest(context);
     expect(response.status).toBe(403);
     const body = await response.json();
-    expect(body).toEqual({ error: "Forbidden: Invalid origin" });
+    expect(body).toEqual({ error: "Forbidden: Invalid CSRF protection header" });
   });
 
   it("returns 405 Method Not Allowed when method is not POST", async () => {
@@ -147,21 +90,11 @@ describe("POST /api/books/[slug]/view", () => {
     expect(await response.json()).toEqual({ error: "Method not allowed" });
   });
 
-  it("blocks requests with a malformed Referer header URL", async () => {
-    const env = createMockEnv();
-    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
-      method: "POST",
-      headers: { Referer: "invalid-url-string" },
-    });
-    const response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
-    expect(response.status).toBe(403);
-  });
-
   it("returns 400 Bad Request for invalid slug format", async () => {
     const env = createMockEnv();
     const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/bad%20slug!/view", {
       method: "POST",
-      headers: { Origin: "https://dawnbook.belajarcarabelajar.com" },
+      headers: { "X-Requested-With": "XMLHttpRequest" },
     });
     const response = await onRequest({ request, env, params: { slug: "bad slug!" } } as any);
     expect(response.status).toBe(400);
@@ -174,7 +107,7 @@ describe("POST /api/books/[slug]/view", () => {
 
     const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
       method: "POST",
-      headers: { Origin: "https://dawnbook.belajarcarabelajar.com" },
+      headers: { "X-Requested-With": "XMLHttpRequest" },
     });
     let response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
     expect(response.status).toBe(500);
