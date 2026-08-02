@@ -82,7 +82,11 @@ async function checkSeo() {
 
         // Verify all valid content pages are present in sitemap.xml
         let expectedUrl = `https://dawnbook.belajarcarabelajar.com${relativePath}`;
-        let canonicalUrl = expectedUrl.endsWith("/index.html") ? expectedUrl.replace(/\/index\.html$/, "/") : expectedUrl;
+        let canonicalUrl = expectedUrl.endsWith("/index.html")
+          ? expectedUrl.replace(/\/index\.html$/, "/")
+          : expectedUrl.endsWith(".html")
+          ? expectedUrl.replace(/\.html$/, "")
+          : expectedUrl;
         if (!sitemapContent.includes(expectedUrl) && !sitemapContent.includes(canonicalUrl)) {
           console.error(`❌ [FAIL] Content path ${relativePath} missing from sitemap.xml!`);
           hasErrors = true;

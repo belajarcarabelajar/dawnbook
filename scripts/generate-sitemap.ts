@@ -11,10 +11,10 @@ async function generateSitemap() {
 
   // Add static public hub pages
   urls.push(`${baseUrl}/`);
-  urls.push(`${baseUrl}/about.html`);
-  urls.push(`${baseUrl}/contribute.html`);
-  urls.push(`${baseUrl}/donate.html`);
-  urls.push(`${baseUrl}/appreciation.html`);
+  urls.push(`${baseUrl}/about`);
+  urls.push(`${baseUrl}/contribute`);
+  urls.push(`${baseUrl}/donate`);
+  urls.push(`${baseUrl}/appreciation`);
 
   async function scanDirectory(dir: string) {
     const entries = await readdir(dir);
@@ -38,6 +38,8 @@ async function generateSitemap() {
         let cleanPath = relativePath;
         if (cleanPath.endsWith("/index.html")) {
           cleanPath = cleanPath.replace(/\/index\.html$/, "/");
+        } else if (cleanPath.endsWith(".html")) {
+          cleanPath = cleanPath.replace(/\.html$/, "");
         }
         urls.push(`${baseUrl}${cleanPath}`);
       }
