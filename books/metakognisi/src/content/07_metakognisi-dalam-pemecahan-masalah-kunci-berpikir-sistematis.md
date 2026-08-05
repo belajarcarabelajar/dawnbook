@@ -1,4 +1,4 @@
-## Metakognisi dalam Pemecahan Masalah: Kunci Berpikir Sistematis 🧩
+## Metakognisi dalam Pemecahan Masalah: Kunci Berpikir Sistematis
 
 Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai setiap hari, baik saat belajar, bekerja, maupun dalam urusan pribadi. Lalu, bagaimana caranya memastikan cara kita menghadapi masalah sudah tepat sasaran? Jawabannya ada pada **metakognisi**. Singkatnya, metakognisi adalah "berpikir tentang cara kita berpikir". Kemampuan ini melibatkan pemahaman sekaligus kontrol terhadap jalan pikiran kita sendiri, yang pada akhirnya menjadi kunci untuk memecahkan masalah dengan sistematis.
 

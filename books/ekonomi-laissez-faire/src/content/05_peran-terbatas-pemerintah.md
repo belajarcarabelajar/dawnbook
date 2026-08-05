@@ -70,10 +70,10 @@ Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prins
 
 | Fungsi | Boleh Dilakukan? | Alasan |
 | --- | --- | --- |
-| Membangun Militer | ✅ Ya | Melindungi kedaulatan untuk stabilitas pasar. |
-| Mengatur Harga Beras | ❌ Tidak | Merusak sinyal harga dan menyebabkan kelangkaan. |
-| Menangkap Penipu Bisnis | ✅ Ya | Menjaga integritas kontrak dan hak milik. |
-| Memiliki Perusahaan Ritel | ❌ Tidak | Menciptakan persaingan tidak sehat dengan swasta. |
-| Membangun Jalan Umum | ✅ Ya | Sarana vital yang memfasilitasi pergerakan barang. |
+| Membangun Militer | Ya | Melindungi kedaulatan untuk stabilitas pasar. |
+| Mengatur Harga Beras | Tidak | Merusak sinyal harga dan menyebabkan kelangkaan. |
+| Menangkap Penipu Bisnis | Ya | Menjaga integritas kontrak dan hak milik. |
+| Memiliki Perusahaan Ritel | Tidak | Menciptakan persaingan tidak sehat dengan swasta. |
+| Membangun Jalan Umum | Ya | Sarana vital yang memfasilitasi pergerakan barang. |
 
 > **Catatan Utama:** Dalam ekonomi *Laissez-faire*, peran pemerintah berfokus menciptakan lingkungan yang aman dan tertib, agar masyarakat dapat menyejahterakan diri mereka sendiri melalui kerja keras dan pertukaran sukarela.

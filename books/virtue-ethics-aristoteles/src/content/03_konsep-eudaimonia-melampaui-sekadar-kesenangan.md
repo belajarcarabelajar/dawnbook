@@ -23,7 +23,7 @@ Untuk memahami kedalaman Eudaimonia, kita perlu memetakan perbedaannya dengan **
 
 Bayangkan jika teknologi mampu menciptakan simulasi realitas virtual yang menyuntikkan sensasi kenikmatan ke otakmu tanpa henti seumur hidup, sementara tubuh fisikmu hanya berbaring pasif. Jika tawaran itu terasa hampa, itu adalah sinyal murni dari intuisimu. Kualitas hidup manusia menuntut interaksi dan pencapaian otentik, menjauh dari kepuasan saraf belaka.
 
-## 3. Analogi Benih Pohon Ek 🌳
+## 3. Analogi Benih Pohon Ek
 
 Ambil contoh sebutir benih pohon ek. Pemenuhan kualitas hidup bagi benih tersebut tidak akan tercapai jika ia disimpan rapi di dalam kotak perhiasan demi menjaganya dari cuaca buruk. Tuntutan alamiahnya mengharuskan benih itu menghadapi tekanan lingkungan: menumbuhkan akar yang mencengkeram tanah, memaksa batang menembus permukaan bumi, hingga melebarkan dedaunan rimbun untuk menangkap sinar matahari.
 

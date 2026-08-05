@@ -10,7 +10,7 @@ Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia s
 
 > **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
-### Analogi: Dapur Restoran Bintang Lima 👨‍🍳
+### Analogi: Dapur Restoran Bintang Lima ‍
 
 Bayangkan sebuah dapur restoran besar. Tanpa pengorganisasian, semua orang mungkin mencoba memasak steak di saat yang sama, sementara tidak ada yang mencuci piring atau menyiapkan bumbu.
 

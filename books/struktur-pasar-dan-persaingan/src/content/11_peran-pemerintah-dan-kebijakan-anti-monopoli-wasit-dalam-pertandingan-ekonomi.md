@@ -87,7 +87,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 1. **Marginal Cost Pricing $P = \text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
 2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
 
-### 🛠️ Aktivitas Pembelajaran: Analisis Cepat
+### ️ Aktivitas Pembelajaran: Analisis Cepat
 
 Cobalah perhatikan lingkungan di sekitar kamu:
 

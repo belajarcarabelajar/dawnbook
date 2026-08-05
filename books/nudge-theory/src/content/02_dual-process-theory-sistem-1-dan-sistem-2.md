@@ -4,7 +4,7 @@ Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah 
 
 Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya akan membuka tabir mengapa **Arsitektur Pilihan (Nudge Theory)** bisa begitu ampuh dalam mengarahkan tindakan kita.
 
-## 🚀 Sistem 1: Si Pilot Otomatis (Berpikir Cepat)
+## Sistem 1: Si Pilot Otomatis (Berpikir Cepat)
 
 Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perlu usaha sadar. Inilah wilayah insting dan intuisi kita bekerja.
 
@@ -26,7 +26,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 - Membaca tulisan di papan reklame besar di pinggir jalan saat berkendara.
 - Melengkapi frasa umum seperti "garam dan..." secara spontan.
 
-## 🐢 Sistem 2: Si Analis yang Malas (Berpikir Lambat)
+## Sistem 2: Si Analis yang Malas (Berpikir Lambat)
 
 Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita mendengar suara di dalam pikiran yang menimbang-nimbang keputusan, itulah cerminan Sistem 2 yang sedang bekerja.
 
@@ -78,7 +78,7 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 
 > **Pesan Penting:** Intervensi pilihan yang efektif biasanya membidik Sistem 1 dengan cara menyederhanakan informasi atau menyajikan isyarat visual, sehingga Sistem 2 tidak perlu memeras tenaga untuk mengambil keputusan yang benar.
 
-## 🛠️ Aplikasi Dunia Nyata: Sistem 1 & 2 dalam Aksi
+## ️ Aplikasi Dunia Nyata: Sistem 1 & 2 dalam Aksi
 
 ### Skenario 1: Kantin Perusahaan
 
@@ -92,7 +92,7 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 - **Bila mengedukasi Sistem 2:** Memasang stiker pengingat hemat energi di dekat pintu. Pendekatan ini kurang efektif karena memerlukan perhatian sadar dari tamu yang sedang terburu-buru.
 - **Bila mengarahkan Sistem 1:** Memakai sistem kartu kunci khusus untuk menyalakan listrik kamar. Begitu tamu mengambil kunci saat keluar, seluruh aliran listrik mati secara otomatis tanpa membutuhkan memori aktif dari tamu.
 
-## 📝 Ringkasan Perbandingan
+## Ringkasan Perbandingan
 
 | Fitur | Sistem 1 | Sistem 2 |
 | --- | --- | --- |

@@ -44,7 +44,7 @@ Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP deng
 | **Pertanyaan** | Menunggu 5 detik setelah bertanya (Wait Time). | Langsung menjawab pertanyaan sendiri setelah 1 detik. | Kurang sabar dalam memberikan ruang berpikir bagi siswa. |
 | **Gerak Tubuh** | Berkeliling kelas untuk memantau siswa. | Hanya berdiri di belakang meja guru sepanjang sesi. | Kurang membangun kedekatan (proximity) dengan siswa. |
 
-## 🔍 Fokus Analisis: Apa yang Harus Dilihat?
+## Fokus Analisis: Apa yang Harus Dilihat?
 
 Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga aspek utama:
 
@@ -63,7 +63,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Alur Logika:** Apakah transisi dari materi A ke materi B terdengar halus?
 - **Respon terhadap Siswa:** Bagaimana cara kamu menanggapi jawaban salah dari siswa? Apakah kamu membesarkan hati mereka atau justru mematikan motivasi mereka?
 
-## 💡 Real-World Application: Skenario Kasus
+## Real-World Application: Skenario Kasus
 
 **Skenario:** Ibu Sarah mengajar tentang hukum Newton. Dalam RPP-nya, ia merencanakan metode demonstrasi selama 5 menit. Namun, saat menonton video refleksinya, ia menemukan bahwa demonstrasi tersebut memakan waktu 15 menit karena ia kesulitan merakit alat di depan kelas.
 
@@ -73,7 +73,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Dampak:** Waktu diskusi kelompok terpotong habis, sehingga kesimpulan pembelajaran dilakukan secara terburu-buru.
 - **Rencana Perbaikan:** Pada sesi berikutnya, alat harus sudah terakit sebelum kelas dimulai, atau melakukan simulasi mandiri sebelum mengajar.
 
-## 📝 Instrumen Refleksi Mandiri (Template)
+## Instrumen Refleksi Mandiri (Template)
 
 Kamu dapat menggunakan daftar periksa berikut saat menonton video kamu:
 

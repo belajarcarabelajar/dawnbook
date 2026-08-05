@@ -1,4 +1,4 @@
-## Mengembangkan Kesadaran Metakognitif: Latihan untuk Pikiran 🌱
+## Mengembangkan Kesadaran Metakognitif: Latihan untuk Pikiran
 
 Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar yang bikin kita bisa mengerti, memantau, dan mengatur cara belajar kita sendiri. Kalau kita punya kesadaran metakognitif yang baik, kita jadi lebih peka sama cara pikiran bekerja. Kita tahu mana strategi yang pas dan kapan harus ganti pendekatan. Tentu saja kemampuan ini tidak muncul tiba-tiba. Butuh latihan dan pembiasaan. Kalau kita sering refleksi, lama-lama kemampuan belajar dan memecahkan masalah bakal ikut naik.
 

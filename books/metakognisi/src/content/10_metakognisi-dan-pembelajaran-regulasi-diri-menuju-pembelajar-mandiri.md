@@ -1,4 +1,4 @@
-## Metakognisi dan Pembelajaran Regulasi Diri: Menuju Pembelajar Mandiri 🚀
+## Metakognisi dan Pembelajaran Regulasi Diri: Menuju Pembelajar Mandiri
 
 Proses belajar ibarat sebuah perjalanan panjang, di mana kemampuan untuk mengendalikan arah tujuan menjadi sangat menentukan. Di sinilah pembelajaran regulasi diri (*self-regulated learning* – SRL) berperan penting, dan konsep ini punya kaitan yang sangat erat dengan metakognisi. Lewat kesadaran metakognitif, seseorang bisa bertransformasi menjadi pembelajar mandiri yang selalu termotivasi secara konsisten.
 

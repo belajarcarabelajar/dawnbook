@@ -23,7 +23,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 | **Harga & Upah** | Ditentukan sepenuhnya oleh suplai dan permintaan. | Bisa dipengaruhi oleh upah minimum atau subsidi. |
 | **Fokus Utama** | Efisiensi dan pertumbuhan jangka panjang. | Keadilan sosial, stabilitas, dan lapangan kerja. |
 
-## 3. Masuknya Keynesianisme: "Tangan yang Terlihat" 🖐️
+## 3. Masuknya Keynesianisme: "Tangan yang Terlihat" ️
 
 Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianisme**, yang dipelopori oleh John Maynard Keynes. Keynes berpendapat bahwa dalam masa depresi ekonomi, pasar tidak bisa bangkit sendiri karena kurangnya permintaan.
 
@@ -40,7 +40,7 @@ Di mana:
 
 *Bayangkan situasi ini: Jika perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
 
-## 4. Mekanisme Respon Terhadap Krisis 📉
+## 4. Mekanisme Respon Terhadap Krisis
 
 Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
 
@@ -55,7 +55,7 @@ Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
    - **Logika:** Pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli.
    - **Risiko:** Dapat menyebabkan utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
 
-## 5. Model Ekonomi Campuran (Mixed Economy) 🤝
+## 5. Model Ekonomi Campuran (Mixed Economy)
 
 Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Intervensionis. Kebanyakan negara modern menggunakan **Ekonomi Campuran**.
 
@@ -64,7 +64,7 @@ Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Interv
 
 > **Prinsip:** "Pasar jika memungkinkan, negara jika diperlukan."
 
-## 6. Aplikasi Dunia Nyata: Respon Pandemi COVID-19 😷
+## 6. Aplikasi Dunia Nyata: Respon Pandemi COVID-19
 
 Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata:
 
@@ -87,6 +87,6 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 *Refleksi: Menurut kamu, apakah efisiensi lebih penting daripada kesetaraan, atau mungkinkah kita mencapai keduanya sekaligus?*
 
-## Kesimpulan 🏁
+## Kesimpulan
 
 Perbandingan antara Laissez-faire dan Intervensionisme bukanlah tentang mencari siapa yang benar dan siapa yang salah, melainkan tentang menemukan **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.

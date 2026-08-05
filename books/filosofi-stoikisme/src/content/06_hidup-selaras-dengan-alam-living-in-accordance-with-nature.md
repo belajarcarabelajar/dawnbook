@@ -1,4 +1,4 @@
-## 🌿 Hidup Selaras dengan Alam (Living in Accordance with Nature)
+## Hidup Selaras dengan Alam (Living in Accordance with Nature)
 
 Selamat datang di jantung filosofi Stoikisme. Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
 

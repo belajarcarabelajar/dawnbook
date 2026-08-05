@@ -2,7 +2,7 @@
 
 Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan makan-memakan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
 
-## 👨‍🏫 John Bowlby: Sang Pionir dan Teori Evolusi Kelekatan
+## ‍ John Bowlby: Sang Pionir dan Teori Evolusi Kelekatan
 
 Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby** (1907-1990). Psikolog dan psikiater asal Inggris ini berani menantang gagasan utama yang dipercaya para ahli pada masanya.
 
@@ -16,7 +16,7 @@ Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** ba
 
 **Analogi "Base Camp" Pendaki:** Bayangkan balita sebagai pendaki gunung pemula, sedangkan pengasuhnya adalah *base camp* (tempat berlindung yang aman). Jika *base camp* itu kokoh dan selalu siap sedia, si pendaki kecil akan percaya diri menjelajahi area baru. Sebaliknya, jika *base camp* tidak stabil atau sering tutup, pendaki akan cemas dan takut melangkah terlalu jauh.
 
-## 👩‍🔬 Mary Ainsworth: Sang Peneliti dan Eksperimen 'Strange Situation'
+## ‍ Mary Ainsworth: Sang Peneliti dan Eksperimen 'Strange Situation'
 
 Jika Bowlby adalah perancang teorinya, **Mary Ainsworth** (1913-1999) adalah sosok yang mengujinya secara empiris di laboratorium. Ia membawa gagasan Bowlby dari sekadar pengamatan klinis menjadi penelitian terukur yang sistematis.
 
@@ -39,7 +39,7 @@ Metode ini diterapkan pada bayi usia 12 hingga 18 bulan. Fokus utamanya bukan me
 
 Menariknya, indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
 
-## 📊 Tiga Klasifikasi Awal Ainsworth
+## Tiga Klasifikasi Awal Ainsworth
 
 Melalui eksperimen ini, Ainsworth awalnya mengidentifikasi tiga pola perilaku utama yang menjadi cikal bakal gaya kelekatan yang kita kenal sekarang:
 

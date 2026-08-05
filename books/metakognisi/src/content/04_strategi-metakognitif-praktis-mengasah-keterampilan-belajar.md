@@ -1,4 +1,4 @@
-## Strategi Metakognitif Praktis: Mengasah Keterampilan Belajar 🛠️
+## Strategi Metakognitif Praktis: Mengasah Keterampilan Belajar ️
 
 Metakognisi pada dasarnya adalah kemampuan memahami dan mengatur proses berpikirmu sendiri. Orang sering menyebutnya "belajar bagaimana cara belajar". Di bagian ini, kita akan membahas beberapa strategi praktis yang bisa langsung diterapkan buat meningkatkan cara belajarmu sehari-hari. Kalau kamu sudah terbiasa dengan strategi-strategi ini, proses belajar akan terasa lebih masuk akal dan efisien.
 

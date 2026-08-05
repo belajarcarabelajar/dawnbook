@@ -4,7 +4,7 @@ Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena mereka mendukung
 
 Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untuk memberikan perlakuan istimewa, penilaian lebih positif, dan dukungan lebih besar kepada anggota kelompoknya sendiri (*in-group*) dibandingkan dengan orang-orang di luar kelompoknya (*out-group*).
 
-## 🧠 Mengapa Otak Kita "Pilih Kasih"?
+## Mengapa Otak Kita "Pilih Kasih"?
 
 Akar dari bias ini sebenarnya berasal dari dorongan biologis dan psikologis untuk bertahan hidup serta mencari identitas, bukan hanya karena rasa benci kepada pihak luar.
 
@@ -21,7 +21,7 @@ Dikembangkan oleh Henri Tajfel pada tahun 1970-an, teori ini menyatakan bahwa se
 
 > **Analogi "Jersey Mental":** Bayangkan kamu sedang berjalan di bandara luar negeri dan melihat seseorang memakai kaos dengan logo kota kelahiran kamu. Meskipun kamu tidak kenal orang tersebut, kamu merasa ada koneksi instan. Kamu secara otomatis memakaikan "jersey" yang sama padanya dalam pikiran kamu, memberikan dia status "teman" secara cuma-cuma.
 
-## 🔍 Manifestasi Bias Kelompok
+## Manifestasi Bias Kelompok
 
 Bias ini bekerja melalui dua mekanisme utama yang sering berjalan beriringan:
 
@@ -38,7 +38,7 @@ Ini adalah sisi gelapnya. Kita cenderung melihat orang di luar kelompok sebagai 
 - **Out-group Homogeneity Effect:** Kita cenderung menganggap semua orang di luar kelompok kita adalah sama (stereotip), sementara melihat kelompok kita sendiri sangat beragam.
 	- *"Ah, semua orang dari departemen pemasaran itu cuma bisa bicara besar,"* tetapi saat melihat departemen sendiri, kamu berkata, *"Tim IT kita punya berbagai macam kepribadian yang unik."*
 
-## ⚡ Dampak: Polarisasi dan Konflik
+## Dampak: Polarisasi dan Konflik
 
 Bias kelompok adalah bahan bakar utama di balik **polarisasi**. Ketika kita hanya berinteraksi dengan kelompok sendiri (sering diperparah oleh algoritme media sosial), kita menciptakan "ruang gema" (*echo chambers*).
 
@@ -54,7 +54,7 @@ Semakin sedikit interaksi kita dengan "orang luar", semakin kuat bias kita terha
 2. **Konflik Politik:** Ketidakmampuan untuk melihat kebenaran dalam argumen lawan politik.
 3. **Hambatan Inovasi:** Menolak ide bagus hanya karena ide tersebut datang dari departemen atau organisasi lain.
 
-## 💼 Penerapan dalam Dunia Nyata & Kasus Teknik
+## Penerapan dalam Dunia Nyata & Kasus Teknik
 
 ### 1\. Skenario Pengembangan Perangkat Lunak (Dev vs Ops)
 
@@ -76,7 +76,7 @@ def evaluasi_ide(ide):
         return "Perlu ditinjau ulang (mencari-cari kesalahan)."
 ```
 
-## 🛠️ Cara Mengenali dan Mengurangi Bias Kelompok
+## ️ Cara Mengenali dan Mengurangi Bias Kelompok
 
 Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objektif:
 

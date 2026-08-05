@@ -6,7 +6,7 @@ Dalam memahami neurobiologi motivasi, kita harus membedakan antara dua cara dopa
 
 ---
 
-### 🌊 Analogi Samudra: Ketinggian Air vs. Gelombang
+### Analogi Samudra: Ketinggian Air vs. Gelombang
 
 Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
@@ -17,7 +17,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
 ---
 
-### 📊 Perbandingan Dopamin Tonik dan Fasik
+### Perbandingan Dopamin Tonik dan Fasik
 
 | Parameter | Dopamin Tonik (Baseline) | Dopamin Fasik (Spikes) |
 | :--- | :--- | :--- |
@@ -29,7 +29,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
 ---
 
-### ⚓ 1. Dopamin Tonik: Bahan Bakar Dasar Kehidupan
+### 1. Dopamin Tonik: Bahan Bakar Dasar Kehidupan
 
 **Dopamin Tonik** merujuk pada jumlah dopamin yang terus-menerus bersirkulasi di otak kamu setiap saat. Ini adalah "latar belakang" dari kondisi mental kamu.
 
@@ -50,7 +50,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### ⚡ 2. Dopamin Fasik: Ledakan Ambisi Sesaat
+### 2. Dopamin Fasik: Ledakan Ambisi Sesaat
 
 **Dopamin Fasik** adalah pelepasan dopamin dalam jumlah besar secara tiba-tiba sebagai respons terhadap isyarat atau imbalan (*reward*).
 
@@ -64,7 +64,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### 🔄 3. Dinamika Hubungan: Mengapa "High" Diikuti "Low"?
+### 3. Dinamika Hubungan: Mengapa "High" Diikuti "Low"?
 
 Salah satu hukum paling krusial dalam neurobiologi adalah **homeostasis**. Otak selalu berusaha menyeimbangkan kadar dopamin.
 
@@ -94,7 +94,7 @@ Setelah siklus ini terjadi, kamu merasa hampa dan sedih karena baseline baru yan
 
 ---
 
-### 🛠️ Aplikasi Dunia Nyata: Mengelola Energi dan Mood
+### ️ Aplikasi Dunia Nyata: Mengelola Energi dan Mood
 
 Bagaimana pengetahuan ini bisa membantu produktivitas kamu?
 
@@ -112,7 +112,7 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 
 ---
 
-### 💻 Simulasi Logika (Sudut Pandang Engineering)
+### Simulasi Logika (Sudut Pandang Engineering)
 
 Jika kita memodelkan sistem ini dalam sebuah fungsi sederhana di pemrograman, cara kerja motivasi akan terlihat seperti ini:
 
@@ -139,7 +139,7 @@ my_brain.receive_stimulus(intensity=40) # Misal: Main game berlebihan
 
 ---
 
-### 💡 Strategi Meningkatkan Baseline Tonik secara Sehat
+### Strategi Meningkatkan Baseline Tonik secara Sehat
 
 Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:
 

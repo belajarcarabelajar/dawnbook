@@ -1,4 +1,4 @@
-## Akar Filosofis: Aristoteles dan Tradisi Klasik 🏛️
+## Akar Filosofis: Aristoteles dan Tradisi Klasik ️
 
 Selamat datang di perjalanan kita menuju akar dari Etika Kebajikan. Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
 
@@ -34,7 +34,7 @@ Dalam tradisi klasik yang dibangun Aristoteles, terdapat perbedaan mendasar deng
 
 **Penting:** Bagi Aristoteles, sebuah tindakan baik yang dilakukan secara tidak sengaja tidak membuat seseorang menjadi orang baik. Seseorang disebut bermoral jika tindakan baiknya lahir dari **karakter yang tetap dan tidak berubah**.
 
-### Analogi Sang Pemanah 🏹
+### Analogi Sang Pemanah
 
 Untuk memahami bagaimana Aristoteles melihat pencapaian kebajikan, bayangkan seorang pemanah yang sedang membidik sasaran.
 

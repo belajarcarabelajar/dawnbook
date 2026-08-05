@@ -1,6 +1,6 @@
-🧠Metakognisi: Belajar Bagaimana Belajar
+Metakognisi: Belajar Bagaimana Belajar
 
-## Aplikasi Metakognisi Lintas Bidang: Contoh dalam Matematika, Sains, dan Bahasa 🌐
+## Aplikasi Metakognisi Lintas Bidang: Contoh dalam Matematika, Sains, dan Bahasa
 
 Metakognisi tidak hanya berlaku untuk satu mata pelajaran saja. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
 

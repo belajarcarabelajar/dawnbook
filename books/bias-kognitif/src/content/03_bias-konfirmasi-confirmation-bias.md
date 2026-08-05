@@ -6,7 +6,7 @@ Selamat, kamu baru saja mengalami **Bias Konfirmasi**.
 
 Bias konfirmasi adalah salah satu bias kognitif yang paling kuat dan meresap dalam kehidupan manusia. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
 
-## 🏗️ Tiga Pilar Bias Konfirmasi
+## ️ Tiga Pilar Bias Konfirmasi
 
 Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran. Sebaliknya, otak kita sering bertindak seperti **pengacara** yang hanya mencari bukti untuk memenangkan kasusnya. Ada tiga cara utama bagaimana bias ini beroperasi:
 
@@ -28,11 +28,11 @@ Kita lebih mudah mengingat informasi yang mendukung keyakinan kita dan lebih cep
 
 - **Penting:** Ini bukan berarti kita berbohong secara sengaja; otak kita secara otomatis melakukan filter terhadap informasi yang menyebabkan ketidaknyamanan mental.
 
-## 🧠 Mengapa Otak Kita Melakukannya?
+## Mengapa Otak Kita Melakukannya?
 
 Mengapa evolusi membiarkan kita memiliki "cacat" berpikir seperti ini?
 
-## 💻 Bias Konfirmasi dalam Dunia Teknik & Data
+## Bias Konfirmasi dalam Dunia Teknik & Data
 
 Dalam dunia rekayasa perangkat lunak atau sains data, bias konfirmasi bisa menjadi sangat berbahaya. Seorang pengembang mungkin menulis kode dan hanya menguji skenario yang mereka tahu akan berhasil (*Happy Path*), alih-alih mencoba mencari cara untuk merusaknya.
 
@@ -62,7 +62,7 @@ print(f"Hasil untuk pengguna: {filtered_news}")
 # Output ini akan memperkuat keyakinan pengguna tanpa memberi sudut pandang lain.
 ```
 
-## 🌍 Aplikasi di Dunia Nyata
+## Aplikasi di Dunia Nyata
 
 ### 1\. Investasi dan Keuangan
 
@@ -78,14 +78,14 @@ Algoritma media sosial dirancang untuk menunjukkan konten yang kamu sukai. Jika 
 
 Seorang dokter mungkin secara tidak sadar membentuk diagnosis awal dalam beberapa menit pertama pertemuan. Dia kemudian hanya menanyakan pertanyaan yang mengonfirmasi diagnosis tersebut, dan mengabaikan gejala lain yang mungkin menunjukkan penyakit yang berbeda.
 
-## 💡 Latihan Refleksi
+## Latihan Refleksi
 
 *Pikirkan sebuah topik yang kamu sangat yakini (misalnya: pola makan tertentu, pandangan politik, atau merek smartphone favorit).*
 
 1. *Kapan terakhir kali kamu secara sengaja mencari argumen dari pihak yang berseberangan denganmu?*
 2. *Apakah kamu membaca argumen tersebut untuk memahaminya, atau hanya untuk mencari celah agar bisa membantahnya?*
 
-## 🛠️ Cara Menghadapi Bias Konfirmasi
+## ️ Cara Menghadapi Bias Konfirmasi
 
 Meskipun kita tidak bisa menghapus bias ini sepenuhnya (karena ini adalah bagian dari "hardware" otak kita), kita bisa memitigasi dampaknya:
 

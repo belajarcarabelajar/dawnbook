@@ -1,4 +1,4 @@
-## Menyusun Peta Ikigai Pribadi 🗺️
+## Menyusun Peta Ikigai Pribadi ️
 
 Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang, kini saatnya memadukan penemuan-penemuan tersebut. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
 

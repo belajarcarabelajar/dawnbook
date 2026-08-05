@@ -1,4 +1,4 @@
-## Studi Kasus dan Aplikasi Nyata: Metakognisi dalam Aksi 💡
+## Studi Kasus dan Aplikasi Nyata: Metakognisi dalam Aksi
 
 Metakognisi, atau "berpikir tentang berpikir", pada dasar-dasarnya adalah kemampuan untuk menyadari sekaligus mengarahkan cara otak kita memproses informasi. Proses ini mencakup perencanaan, pemantauan, hingga evaluasi. Kemampuan ini berguna baik di sekolah, kampus, maupun dunia kerja. Saat terbiasa memantau cara berpikir sendiri, kamu bisa meningkatkan performa belajar, menimbang keputusan dengan lebih tajam, serta menyelesaikan masalah tanpa harus merasa tertekan.
 

@@ -39,7 +39,7 @@ Tanpa instruksi pemerintah, modal dan tenaga kerja mengalir secara alami ke sekt
 
 Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan karena perintah pemerintah semata, melainkan karena sinyal pasar memberi tahu mereka bahwa konsumen menginginkannya dan di sanalah peluang keuntungan masa depan berada.
 
-### 3. Keseimbangan Pasar (Market Equilibrium) 📈
+### 3. Keseimbangan Pasar (Market Equilibrium)
 
 Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
 
@@ -67,7 +67,7 @@ Tindakan individu yang mengejar keuntungan pribadi dapat terdorong menjadi kebai
 2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah namun tetap memperoleh keuntungan.
 3. **Kedaulatan Konsumen:** Di pasar bebas, konsumen menentukan arah pasar. Melalui pilihan pembelian mereka, konsumen menentukan perusahaan mana yang layak bertahan dan mana yang harus keluar dari pasar.
 
-### 5. Aplikasi Dunia Nyata: Pasar Smartphone 📱
+### 5. Aplikasi Dunia Nyata: Pasar Smartphone
 
 Mari kita lihat industri smartphone sebagai contoh nyata dari konsep *The Invisible Hand*.
 

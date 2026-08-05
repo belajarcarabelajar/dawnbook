@@ -80,15 +80,15 @@ passwordInput.addEventListener('input', (e) => {
 
 ## 5\. Penerapan di Dunia Nyata
 
-### 🌿 Konsumsi Energi: The Ambient Orb
+### Konsumsi Energi: The Ambient Orb
 
 Di Amerika Serikat, sebuah perusahaan merancang bola lampu kristal kecil bernama *Ambient Orb*. Bola ini menyala merah saat penggunaan listrik rumah tangga sedang melonjak tinggi (ketika tarif mahal) dan berganti hijau jika konsumsi daya tergolong rendah. Hasilnya luar biasa: para pengguna berhasil menekan pemakaian energi pada jam sibuk hingga 40%. Langkah ini jauh lebih berhasil dibandingkan sekadar mengirimkan rincian tagihan kertas di akhir bulan.
 
-### 🚗 Keselamatan Berkendara: Rumble Strips
+### Keselamatan Berkendara: Rumble Strips
 
 Garis bergerigi di tepi jalan tol (*rumble strips*) menghasilkan getaran kuat dan suara bising saat terlindas ban mobil. Ini menjadi umpan balik fisik seketika yang memperingatkan pengemudi agar tersadar ketika mulai keluar dari lajur akibat kantuk atau kehilangan fokus.
 
-### 🏃‍♂️ Kesehatan: Gamifikasi Langkah Kaki
+### ‍️ Kesehatan: Gamifikasi Langkah Kaki
 
 Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainya berhasil menyentuh target 10.000 langkah. Apresiasi instan terhadap pencapaian kecil ini memperkuat kebiasaan sehat lewat stimulasi pusat kepuasan di otak.
 

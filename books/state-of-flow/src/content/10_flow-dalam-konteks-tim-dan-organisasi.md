@@ -59,7 +59,7 @@ Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integ
 
 def notify_team_on_success(task_name):
     status = "SUCCESS"
-    message = f"🚀 Task '{task_name}' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
+ message = f" Task '{task_name}' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
     
     # Bayangkan ini terhubung ke Slack atau Discord
     send_to_collaboration_tool(message)
