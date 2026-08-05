@@ -7,7 +7,7 @@ description = "Strategi manajemen kelas proaktif bagi guru untuk menciptakan lin
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Manajemen Pendidikan"
+subject_label = "Manajemen"
 
 [output.html.print]
 enable = false

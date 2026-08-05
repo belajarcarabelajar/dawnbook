@@ -7,7 +7,7 @@ description = "Panduan analisis psikologi ekspresif novel 9 Summers 10 Autumns k
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Pendidikan Bahasa dan Sastra Indonesia"
+subject_label = "Sastra"
 
 [output.html.print]
 enable = false

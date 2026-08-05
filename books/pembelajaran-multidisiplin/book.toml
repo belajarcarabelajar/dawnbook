@@ -7,7 +7,7 @@ description = "Panduan pembelajaran multidisiplin dalam menghubungkan berbagai c
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Kurikulum dan Teknologi Pendidikan"
+subject_label = "Pendidikan"
 
 [output.html.print]
 enable = false

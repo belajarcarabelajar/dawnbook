@@ -7,7 +7,7 @@ description = "Panduan praktis metodologi microteaching untuk calon pendidik dal
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Kurikulum dan Teknologi Pendidikan"
+subject_label = "Pendidikan"
 
 [output.html.print]
 enable = false

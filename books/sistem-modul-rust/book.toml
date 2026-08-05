@@ -7,7 +7,7 @@ description = "Panduan teknis memahami sistem modul, paket (crates), visibilitas
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Teknik Informatika"
+subject_label = "Informatika"
 
 [output.html.print]
 enable = false

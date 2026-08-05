@@ -7,7 +7,7 @@ description = "Kajian sejarah dan evolusi industri drama Korea dari produksi tra
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Sastra Korea"
+subject_label = "Drakor"
 
 [output.html.print]
 enable = false

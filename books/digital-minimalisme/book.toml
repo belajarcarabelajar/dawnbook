@@ -7,7 +7,7 @@ description = "Strategi praktis menerapkan digital minimalisme untuk mengurangi 
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Ilmu Komunikasi"
+subject_label = "Komunikasi"
 
 [output.html.print]
 enable = false

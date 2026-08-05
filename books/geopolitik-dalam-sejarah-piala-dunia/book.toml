@@ -7,7 +7,7 @@ description = "Analisis kritis hubungan antara geopolitik, pengaruh kekuasaan, d
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Hubungan Internasional (HI)"
+subject_label = "HI"
 
 [output.html.print]
 enable = false

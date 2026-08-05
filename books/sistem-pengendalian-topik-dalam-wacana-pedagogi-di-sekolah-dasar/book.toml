@@ -7,7 +7,7 @@ description = "Analisis wacana pedagogi dan sistem pengendalian topik dalam inte
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Pendidikan Guru Sekolah Dasar (PGSD)"
+subject_label = "PGSD"
 
 [output.html.print]
 enable = false

@@ -7,7 +7,7 @@ description = "Buku panduan lengkap memahami elastisitas harga permintaan dan pe
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Ekonomi Pembangunan"
+subject_label = "Ekonomi"
 
 [output.html.print]
 enable = false

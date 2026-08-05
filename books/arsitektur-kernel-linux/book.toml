@@ -7,7 +7,7 @@ description = "Panduan mendalam arsitektur internal Kernel Linux: pelajari subsi
 
 [preprocessor.dawnbook]
 optional = true
-subject_label = "Teknik Informatika"
+subject_label = "Informatika"
 
 [output.html.print]
 enable = false
