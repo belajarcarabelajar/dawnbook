@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Neurobiologi Motivasi & Dopamin"
+description = "Panduan ilmiah neurobiologi di balik motivasi manusia, sistem reward dopaminergik, dan strategi mengoptimalkan dorongan serta fokus bertindak."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

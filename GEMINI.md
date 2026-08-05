@@ -105,5 +105,11 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Underline & Offset:** The author's name MUST feature a clean underline with explicit offset (`text-decoration: underline; text-underline-offset: 4px`) to prevent visual collision with descender characters.
 - **Vertical Rhythm:** The card footer column MUST maintain comfortable vertical spacing (`gap: 6px; margin-top: 2px`) between the author name and the timestamp/chapter line.
 
+## 14. Strict Zero-Emoji Content Rule
+- **Clean Content Enforcement:** All book output content (all chapter Markdown files in `src/content/*.md` and `SUMMARY.md`) MUST be 100% clean and free of emoji characters.
+- **Icon.txt Exception:** The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card).
+- **Automatic Stripping:** Subagents and agents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during authoring, editing, and pre-flight checks.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
+

@@ -652,6 +652,16 @@ During Phase B (Authoring, Scaffolding, & Editing), the top-level agent (Orchest
 
 ---
 
+**R22 — Strict Zero-Emoji Content Rule**
+
+*Statement:*
+All book output content (all chapter Markdown files in `src/content/*.md` and `SUMMARY.md`) MUST be 100% clean and free of emoji characters. The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card). Subagents and agents MUST actively inspect for, strip, and remove any emoji characters found in the source input or chapter content during authoring, editing, and pre-flight checks.
+
+*Acceptance check:* Zero emoji Unicode characters exist in any `.md` file inside `src/content/` or `src/SUMMARY.md`.
+
+---
+
+
 ## 6. Security and Process Rules
 
 Each rule states an **enforced constraint** and a **required end state**.
@@ -785,6 +795,8 @@ OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Eac
   - **Text Formatting** (bold `**` and italics `*`) applied strategically to key terms, core quotes, or definitions.
   - **Consistent Headings**: Ensure H3 (`### `) and H4 (`#### `) are used consistently to represent subsections without skipping levels, and NEVER use raw plain-text lines as fake headings.
   - **Valid LaTeX/KaTeX Formatting**: For inline math, use `\\( ... \\)` (strictly double backslash delimiters) instead of raw `$ ... $`. For block math, use `\\[ ... \\]` or `$$ ... $$`.
+- **Rule 7.7.9 — Strict Zero-Emoji Rule:** All chapter markdown content files (`src/content/*.md`) and `SUMMARY.md` MUST be 100% clean and free of emoji characters. The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card). Subagents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during processing.
+
 
 
 
