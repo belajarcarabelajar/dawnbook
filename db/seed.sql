@@ -253,7 +253,7 @@ Setelah kamu mengenali dan memberi ruang pada emosi, tujuannya adalah kembali ke
 	- **Narasi (Emosi):** "Karier saya hancur, saya tidak kompeten, semua orang akan menertawakan saya."
 	- *Fokuslah hanya pada fakta untuk mencari solusi.*
 
-### 💡 Aplikasi di Dunia Nyata
+### Aplikasi di Dunia Nyata
 
 #### Skenario: Presentasi Kerja yang Gagal Total
 
@@ -266,7 +266,7 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan
 3. **Manage:** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
 4. **Rational Decision:** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
 
-### 🛠️ Latihan Mandiri: Membangun "Otot" Kecerdasan Emosional
+### ️ Latihan Mandiri: Membangun "Otot" Kecerdasan Emosional
 
 Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertekan atau kesal.
 
@@ -1210,8 +1210,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2640,8 +2640,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -3721,8 +3721,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Think about this: Jika kamu seorang pendidik, bagaimana kamu akan mengubah cara kamu menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4641,7 +4641,7 @@ Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integ
 
 def notify_team_on_success(task_name):
     status = "SUCCESS"
-    message = f"🚀 Task ''{task_name}'' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
+ message = f" Task ''{task_name}'' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
     
     # Bayangkan ini terhubung ke Slack atau Discord
     send_to_collaboration_tool(message)
@@ -4916,8 +4916,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5276,7 +5276,7 @@ Untuk memastikan pemahaman kamu, ingatlah poin-poin utama berikut:
 
 
 
-## Neurogenesis: Kelahiran Sel Saraf Baru 🌱
+## Neurogenesis: Kelahiran Sel Saraf Baru
 
 Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita terlahir dengan jumlah sel otak tertentu, dan seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis di mana benih-benih kehidupan baru terus tumbuh.
 
@@ -6101,8 +6101,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7215,8 +7215,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8135,8 +8135,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9400,8 +9400,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9416,7 +9416,7 @@ VALUES (
   'geopolitik-dalam-sejarah-piala-dunia',
   'Geopolitik dalam Sejarah Piala Dunia',
   'published',
-  'Hubungan Internasional (HI)',
+  'HI',
   '<!-- Chapter: 01_pendahuluan-hubungan-intim-sepak-bola-dan-geopolitik -->
 
 ## Pendahuluan: Hubungan Intim Sepak Bola dan Geopolitik
@@ -10446,8 +10446,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10462,7 +10462,7 @@ VALUES (
   'arsitektur-kernel-linux',
   'Arsitektur Kernel Linux',
   'published',
-  'Teknik Informatika',
+  'Informatika',
   '<!-- Chapter: 01_pengantar-arsitektur-kernel-linux -->
 
 ## Pengantar Arsitektur Kernel Linux
@@ -12049,8 +12049,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12495,7 +12495,7 @@ Mari kita lihat bagaimana keempat kebajikan ini bekerja dalam satu situasi prakt
 
 <!-- Chapter: 06_hidup-selaras-dengan-alam-living-in-accordance-with-nature -->
 
-## 🌿 Hidup Selaras dengan Alam (Living in Accordance with Nature)
+## Hidup Selaras dengan Alam (Living in Accordance with Nature)
 
 Selamat datang di jantung filosofi Stoikisme. Jika kamu pernah mendengar slogan utama kaum Stoik, kemungkinan besar itu adalah: **"Hiduplah selaras dengan alam."**
 
@@ -13101,8 +13101,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14203,7 +14203,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 1. **Marginal Cost Pricing $P = \text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
 2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
 
-### 🛠️ Aktivitas Pembelajaran: Analisis Cepat
+### ️ Aktivitas Pembelajaran: Analisis Cepat
 
 Cobalah perhatikan lingkungan di sekitar kamu:
 
@@ -14372,8 +14372,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14498,7 +14498,7 @@ Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah 
 
 Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya akan membuka tabir mengapa **Arsitektur Pilihan (Nudge Theory)** bisa begitu ampuh dalam mengarahkan tindakan kita.
 
-## 🚀 Sistem 1: Si Pilot Otomatis (Berpikir Cepat)
+## Sistem 1: Si Pilot Otomatis (Berpikir Cepat)
 
 Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perlu usaha sadar. Inilah wilayah insting dan intuisi kita bekerja.
 
@@ -14520,7 +14520,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 - Membaca tulisan di papan reklame besar di pinggir jalan saat berkendara.
 - Melengkapi frasa umum seperti "garam dan..." secara spontan.
 
-## 🐢 Sistem 2: Si Analis yang Malas (Berpikir Lambat)
+## Sistem 2: Si Analis yang Malas (Berpikir Lambat)
 
 Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita mendengar suara di dalam pikiran yang menimbang-nimbang keputusan, itulah cerminan Sistem 2 yang sedang bekerja.
 
@@ -14572,7 +14572,7 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 
 > **Pesan Penting:** Intervensi pilihan yang efektif biasanya membidik Sistem 1 dengan cara menyederhanakan informasi atau menyajikan isyarat visual, sehingga Sistem 2 tidak perlu memeras tenaga untuk mengambil keputusan yang benar.
 
-## 🛠️ Aplikasi Dunia Nyata: Sistem 1 & 2 dalam Aksi
+## ️ Aplikasi Dunia Nyata: Sistem 1 & 2 dalam Aksi
 
 ### Skenario 1: Kantin Perusahaan
 
@@ -14586,7 +14586,7 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 - **Bila mengedukasi Sistem 2:** Memasang stiker pengingat hemat energi di dekat pintu. Pendekatan ini kurang efektif karena memerlukan perhatian sadar dari tamu yang sedang terburu-buru.
 - **Bila mengarahkan Sistem 1:** Memakai sistem kartu kunci khusus untuk menyalakan listrik kamar. Begitu tamu mengambil kunci saat keluar, seluruh aliran listrik mati secara otomatis tanpa membutuhkan memori aktif dari tamu.
 
-## 📝 Ringkasan Perbandingan
+## Ringkasan Perbandingan
 
 | Fitur | Sistem 1 | Sistem 2 |
 | --- | --- | --- |
@@ -14981,15 +14981,15 @@ passwordInput.addEventListener(''input'', (e) => {
 
 ## 5\. Penerapan di Dunia Nyata
 
-### 🌿 Konsumsi Energi: The Ambient Orb
+### Konsumsi Energi: The Ambient Orb
 
 Di Amerika Serikat, sebuah perusahaan merancang bola lampu kristal kecil bernama *Ambient Orb*. Bola ini menyala merah saat penggunaan listrik rumah tangga sedang melonjak tinggi (ketika tarif mahal) dan berganti hijau jika konsumsi daya tergolong rendah. Hasilnya luar biasa: para pengguna berhasil menekan pemakaian energi pada jam sibuk hingga 40%. Langkah ini jauh lebih berhasil dibandingkan sekadar mengirimkan rincian tagihan kertas di akhir bulan.
 
-### 🚗 Keselamatan Berkendara: Rumble Strips
+### Keselamatan Berkendara: Rumble Strips
 
 Garis bergerigi di tepi jalan tol (*rumble strips*) menghasilkan getaran kuat dan suara bising saat terlindas ban mobil. Ini menjadi umpan balik fisik seketika yang memperingatkan pengemudi agar tersadar ketika mulai keluar dari lajur akibat kantuk atau kehilangan fokus.
 
-### 🏃‍♂️ Kesehatan: Gamifikasi Langkah Kaki
+### ‍️ Kesehatan: Gamifikasi Langkah Kaki
 
 Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainya berhasil menyentuh target 10.000 langkah. Apresiasi instan terhadap pencapaian kecil ini memperkuat kebiasaan sehat lewat stimulasi pusat kepuasan di otak.
 
@@ -15625,8 +15625,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15641,7 +15641,7 @@ VALUES (
   'sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar',
   'Sistem Pengendalian Topik dalam Wacana Pedagogi di Sekolah Dasar',
   'published',
-  'Pendidikan Guru Sekolah Dasar (PGSD)',
+  'PGSD',
   '<!-- Chapter: 01_konsep-dasar-dan-wacana-pedagogi -->
 
 ## Konsep Dasar dan Wacana Pedagogi di Sekolah Dasar
@@ -16597,8 +16597,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17852,8 +17852,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17868,7 +17868,7 @@ VALUES (
   'analisis-ekspresif-9-summers-10-autumns',
   'Analisis Ekspresif Novel 9 Summers 10 Autumns Karya Iwan Setyawan',
   'published',
-  'Pendidikan Bahasa dan Sastra Indonesia',
+  'Sastra',
   '<!-- Chapter: 01_latar-belakang-kritik-sastra-ekspresif -->
 
 ## Latar Belakang Kritik Sastra Ekspresif
@@ -18467,8 +18467,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18483,7 +18483,7 @@ VALUES (
   'sistem-modul-rust',
   'Sistem Modul Rust',
   'published',
-  'Teknik Informatika',
+  'Informatika',
   '<!-- Chapter: 01_pengenalan-sistem-modul-rust -->
 
 ## Pengenalan Sistem Modul Rust
@@ -20304,8 +20304,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21669,8 +21669,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21918,7 +21918,7 @@ Siklus ini akan terus memutar polanya setiap kali kamu menyusun target belajar b
 
 <!-- Chapter: 04_strategi-metakognitif-praktis-mengasah-keterampilan-belajar -->
 
-## Strategi Metakognitif Praktis: Mengasah Keterampilan Belajar 🛠️
+## Strategi Metakognitif Praktis: Mengasah Keterampilan Belajar ️
 
 Metakognisi pada dasarnya adalah kemampuan memahami dan mengatur proses berpikirmu sendiri. Orang sering menyebutnya "belajar bagaimana cara belajar". Di bagian ini, kita akan membahas beberapa strategi praktis yang bisa langsung diterapkan buat meningkatkan cara belajarmu sehari-hari. Kalau kamu sudah terbiasa dengan strategi-strategi ini, proses belajar akan terasa lebih masuk akal dan efisien.
 
@@ -22070,7 +22070,7 @@ Penting untuk diingat kalau metakognisi tidak otomatis menyulap materi susah jad
 
 <!-- Chapter: 06_mengembangkan-kesadaran-metakognitif-latihan-untuk-pikiran -->
 
-## Mengembangkan Kesadaran Metakognitif: Latihan untuk Pikiran 🌱
+## Mengembangkan Kesadaran Metakognitif: Latihan untuk Pikiran
 
 Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar yang bikin kita bisa mengerti, memantau, dan mengatur cara belajar kita sendiri. Kalau kita punya kesadaran metakognitif yang baik, kita jadi lebih peka sama cara pikiran bekerja. Kita tahu mana strategi yang pas dan kapan harus ganti pendekatan. Tentu saja kemampuan ini tidak muncul tiba-tiba. Butuh latihan dan pembiasaan. Kalau kita sering refleksi, lama-lama kemampuan belajar dan memecahkan masalah bakal ikut naik.
 
@@ -22239,7 +22239,7 @@ Kalau kamu mulai membiasakan latihan-latihan ini, kesadaran metakognitifmu akan 
 
 <!-- Chapter: 07_metakognisi-dalam-pemecahan-masalah-kunci-berpikir-sistematis -->
 
-## Metakognisi dalam Pemecahan Masalah: Kunci Berpikir Sistematis 🧩
+## Metakognisi dalam Pemecahan Masalah: Kunci Berpikir Sistematis
 
 Pemecahan masalah merupakan salah satu kemampuan paling mendasar yang kita pakai setiap hari, baik saat belajar, bekerja, maupun dalam urusan pribadi. Lalu, bagaimana caranya memastikan cara kita menghadapi masalah sudah tepat sasaran? Jawabannya ada pada **metakognisi**. Singkatnya, metakognisi adalah "berpikir tentang cara kita berpikir". Kemampuan ini melibatkan pemahaman sekaligus kontrol terhadap jalan pikiran kita sendiri, yang pada akhirnya menjadi kunci untuk memecahkan masalah dengan sistematis.
 
@@ -22373,9 +22373,9 @@ Dengan memasukkan elemen metakognisi ke dalam cara kerjamu, kamu otomatis mengas
 
 <!-- Chapter: 08_aplikasi-metakognisi-lintas-bidang-contoh-dalam-matematika-sains-dan-b -->
 
-🧠Metakognisi: Belajar Bagaimana Belajar
+Metakognisi: Belajar Bagaimana Belajar
 
-## Aplikasi Metakognisi Lintas Bidang: Contoh dalam Matematika, Sains, dan Bahasa 🌐
+## Aplikasi Metakognisi Lintas Bidang: Contoh dalam Matematika, Sains, dan Bahasa
 
 Metakognisi tidak hanya berlaku untuk satu mata pelajaran saja. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
 
@@ -22612,7 +22612,7 @@ Hasilnya? Dengan pendekatan metakognitif ini, Amir pelan-pelan bisa mengurangi k
 
 <!-- Chapter: 10_metakognisi-dan-pembelajaran-regulasi-diri-menuju-pembelajar-mandiri -->
 
-## Metakognisi dan Pembelajaran Regulasi Diri: Menuju Pembelajar Mandiri 🚀
+## Metakognisi dan Pembelajaran Regulasi Diri: Menuju Pembelajar Mandiri
 
 Proses belajar ibarat sebuah perjalanan panjang, di mana kemampuan untuk mengendalikan arah tujuan menjadi sangat menentukan. Di sinilah pembelajaran regulasi diri (*self-regulated learning* – SRL) berperan penting, dan konsep ini punya kaitan yang sangat erat dengan metakognisi. Lewat kesadaran metakognitif, seseorang bisa bertransformasi menjadi pembelajar mandiri yang selalu termotivasi secara konsisten.
 
@@ -22689,7 +22689,7 @@ Ada beberapa pendekatan nyata yang bisa langsung kamu coba untuk melatih kemampu
 
 <!-- Chapter: 11_studi-kasus-dan-aplikasi-nyata-metakognisi-dalam-aksi -->
 
-## Studi Kasus dan Aplikasi Nyata: Metakognisi dalam Aksi 💡
+## Studi Kasus dan Aplikasi Nyata: Metakognisi dalam Aksi
 
 Metakognisi, atau "berpikir tentang berpikir", pada dasar-dasarnya adalah kemampuan untuk menyadari sekaligus mengarahkan cara otak kita memproses informasi. Proses ini mencakup perencanaan, pemantauan, hingga evaluasi. Kemampuan ini berguna baik di sekolah, kampus, maupun dunia kerja. Saat terbiasa memantau cara berpikir sendiri, kamu bisa meningkatkan performa belajar, menimbang keputusan dengan lebih tajam, serta menyelesaikan masalah tanpa harus merasa tertekan.
 
@@ -22775,8 +22775,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23095,7 +23095,7 @@ Dalam memahami neurobiologi motivasi, kita harus membedakan antara dua cara dopa
 
 ---
 
-### 🌊 Analogi Samudra: Ketinggian Air vs. Gelombang
+### Analogi Samudra: Ketinggian Air vs. Gelombang
 
 Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
@@ -23106,7 +23106,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
 ---
 
-### 📊 Perbandingan Dopamin Tonik dan Fasik
+### Perbandingan Dopamin Tonik dan Fasik
 
 | Parameter | Dopamin Tonik (Baseline) | Dopamin Fasik (Spikes) |
 | :--- | :--- | :--- |
@@ -23118,7 +23118,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
 ---
 
-### ⚓ 1. Dopamin Tonik: Bahan Bakar Dasar Kehidupan
+### 1. Dopamin Tonik: Bahan Bakar Dasar Kehidupan
 
 **Dopamin Tonik** merujuk pada jumlah dopamin yang terus-menerus bersirkulasi di otak kamu setiap saat. Ini adalah "latar belakang" dari kondisi mental kamu.
 
@@ -23139,7 +23139,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### ⚡ 2. Dopamin Fasik: Ledakan Ambisi Sesaat
+### 2. Dopamin Fasik: Ledakan Ambisi Sesaat
 
 **Dopamin Fasik** adalah pelepasan dopamin dalam jumlah besar secara tiba-tiba sebagai respons terhadap isyarat atau imbalan (*reward*).
 
@@ -23153,7 +23153,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### 🔄 3. Dinamika Hubungan: Mengapa "High" Diikuti "Low"?
+### 3. Dinamika Hubungan: Mengapa "High" Diikuti "Low"?
 
 Salah satu hukum paling krusial dalam neurobiologi adalah **homeostasis**. Otak selalu berusaha menyeimbangkan kadar dopamin.
 
@@ -23183,7 +23183,7 @@ Setelah siklus ini terjadi, kamu merasa hampa dan sedih karena baseline baru yan
 
 ---
 
-### 🛠️ Aplikasi Dunia Nyata: Mengelola Energi dan Mood
+### ️ Aplikasi Dunia Nyata: Mengelola Energi dan Mood
 
 Bagaimana pengetahuan ini bisa membantu produktivitas kamu?
 
@@ -23201,7 +23201,7 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 
 ---
 
-### 💻 Simulasi Logika (Sudut Pandang Engineering)
+### Simulasi Logika (Sudut Pandang Engineering)
 
 Jika kita memodelkan sistem ini dalam sebuah fungsi sederhana di pemrograman, cara kerja motivasi akan terlihat seperti ini:
 
@@ -23228,7 +23228,7 @@ my_brain.receive_stimulus(intensity=40) # Misal: Main game berlebihan
 
 ---
 
-### 💡 Strategi Meningkatkan Baseline Tonik secara Sehat
+### Strategi Meningkatkan Baseline Tonik secara Sehat
 
 Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:
 
@@ -24112,8 +24112,8 @@ Doidge, N. (2007). *The brain that changes itself: Stories of personal triumph f
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25144,8 +25144,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25269,7 +25269,7 @@ Persamaan ini menggambarkan bahwa semakin besar waktu berkualitas dan keterbukaa
 
 Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan makan-memakan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
 
-## 👨‍🏫 John Bowlby: Sang Pionir dan Teori Evolusi Kelekatan
+## ‍ John Bowlby: Sang Pionir dan Teori Evolusi Kelekatan
 
 Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby** (1907-1990). Psikolog dan psikiater asal Inggris ini berani menantang gagasan utama yang dipercaya para ahli pada masanya.
 
@@ -25283,7 +25283,7 @@ Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** ba
 
 **Analogi "Base Camp" Pendaki:** Bayangkan balita sebagai pendaki gunung pemula, sedangkan pengasuhnya adalah *base camp* (tempat berlindung yang aman). Jika *base camp* itu kokoh dan selalu siap sedia, si pendaki kecil akan percaya diri menjelajahi area baru. Sebaliknya, jika *base camp* tidak stabil atau sering tutup, pendaki akan cemas dan takut melangkah terlalu jauh.
 
-## 👩‍🔬 Mary Ainsworth: Sang Peneliti dan Eksperimen ''Strange Situation''
+## ‍ Mary Ainsworth: Sang Peneliti dan Eksperimen ''Strange Situation''
 
 Jika Bowlby adalah perancang teorinya, **Mary Ainsworth** (1913-1999) adalah sosok yang mengujinya secara empiris di laboratorium. Ia membawa gagasan Bowlby dari sekadar pengamatan klinis menjadi penelitian terukur yang sistematis.
 
@@ -25306,7 +25306,7 @@ Metode ini diterapkan pada bayi usia 12 hingga 18 bulan. Fokus utamanya bukan me
 
 Menariknya, indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
 
-## 📊 Tiga Klasifikasi Awal Ainsworth
+## Tiga Klasifikasi Awal Ainsworth
 
 Melalui eksperimen ini, Ainsworth awalnya mengidentifikasi tiga pola perilaku utama yang menjadi cikal bakal gaya kelekatan yang kita kenal sekarang:
 
@@ -26596,8 +26596,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27013,7 +27013,7 @@ Menciptakan nilai ekonomi dari Ikigai adalah sebuah perjalanan berkelanjutan. Pr
 
 <!-- Chapter: 08_menyusun-peta-ikigai-pribadi -->
 
-## Menyusun Peta Ikigai Pribadi 🗺️
+## Menyusun Peta Ikigai Pribadi ️
 
 Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang, kini saatnya memadukan penemuan-penemuan tersebut. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
 
@@ -27308,8 +27308,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27324,7 +27324,7 @@ VALUES (
   'kecerdasan-interpersonal',
   'Kecerdasan Interpersonal',
   'published',
-  'Ilmu Komunikasi',
+  'Komunikasi',
   '<!-- Chapter: 01_fondasi-kecerdasan-interpersonal -->
 
 ## Fondasi Kecerdasan Interpersonal: Jembatan Menuju Profesional T-Shaped
@@ -28601,8 +28601,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28617,7 +28617,7 @@ VALUES (
   'elastisitas-harga-permintaan-dan-penawaran',
   'Elastisitas Harga Permintaan dan Penawaran',
   'published',
-  'Ekonomi Pembangunan',
+  'Ekonomi',
   '<!-- Chapter: 01_pengantar-konsep-elastisitas-dalam-ekonomi -->
 
 ## Pengantar Konsep Elastisitas dalam Ekonomi
@@ -29322,8 +29322,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29553,7 +29553,7 @@ Tanpa instruksi pemerintah, modal dan tenaga kerja mengalir secara alami ke sekt
 
 Mengapa saat ini banyak perusahaan beralih memproduksi kendaraan listrik? Bukan karena perintah pemerintah semata, melainkan karena sinyal pasar memberi tahu mereka bahwa konsumen menginginkannya dan di sanalah peluang keuntungan masa depan berada.
 
-### 3. Keseimbangan Pasar (Market Equilibrium) 📈
+### 3. Keseimbangan Pasar (Market Equilibrium)
 
 Secara teknis, *The Invisible Hand* bekerja untuk mencapai titik keseimbangan, yaitu situasi di mana jumlah barang yang ditawarkan ($Q_s$) sama dengan jumlah barang yang diminta ($Q_d$).
 
@@ -29581,7 +29581,7 @@ Tindakan individu yang mengejar keuntungan pribadi dapat terdorong menjadi kebai
 2. **Efisiensi Produksi:** Produsen dipaksa meminimalkan pemborosan agar dapat menjual barang lebih murah namun tetap memperoleh keuntungan.
 3. **Kedaulatan Konsumen:** Di pasar bebas, konsumen menentukan arah pasar. Melalui pilihan pembelian mereka, konsumen menentukan perusahaan mana yang layak bertahan dan mana yang harus keluar dari pasar.
 
-### 5. Aplikasi Dunia Nyata: Pasar Smartphone 📱
+### 5. Aplikasi Dunia Nyata: Pasar Smartphone
 
 Mari kita lihat industri smartphone sebagai contoh nyata dari konsep *The Invisible Hand*.
 
@@ -29772,11 +29772,11 @@ Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prins
 
 | Fungsi | Boleh Dilakukan? | Alasan |
 | --- | --- | --- |
-| Membangun Militer | ✅ Ya | Melindungi kedaulatan untuk stabilitas pasar. |
-| Mengatur Harga Beras | ❌ Tidak | Merusak sinyal harga dan menyebabkan kelangkaan. |
-| Menangkap Penipu Bisnis | ✅ Ya | Menjaga integritas kontrak dan hak milik. |
-| Memiliki Perusahaan Ritel | ❌ Tidak | Menciptakan persaingan tidak sehat dengan swasta. |
-| Membangun Jalan Umum | ✅ Ya | Sarana vital yang memfasilitasi pergerakan barang. |
+| Membangun Militer | Ya | Melindungi kedaulatan untuk stabilitas pasar. |
+| Mengatur Harga Beras | Tidak | Merusak sinyal harga dan menyebabkan kelangkaan. |
+| Menangkap Penipu Bisnis | Ya | Menjaga integritas kontrak dan hak milik. |
+| Memiliki Perusahaan Ritel | Tidak | Menciptakan persaingan tidak sehat dengan swasta. |
+| Membangun Jalan Umum | Ya | Sarana vital yang memfasilitasi pergerakan barang. |
 
 > **Catatan Utama:** Dalam ekonomi *Laissez-faire*, peran pemerintah berfokus menciptakan lingkungan yang aman dan tertib, agar masyarakat dapat menyejahterakan diri mereka sendiri melalui kerja keras dan pertukaran sukarela.
 
@@ -30118,7 +30118,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 | **Harga & Upah** | Ditentukan sepenuhnya oleh suplai dan permintaan. | Bisa dipengaruhi oleh upah minimum atau subsidi. |
 | **Fokus Utama** | Efisiensi dan pertumbuhan jangka panjang. | Keadilan sosial, stabilitas, dan lapangan kerja. |
 
-## 3. Masuknya Keynesianisme: "Tangan yang Terlihat" 🖐️
+## 3. Masuknya Keynesianisme: "Tangan yang Terlihat" ️
 
 Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianisme**, yang dipelopori oleh John Maynard Keynes. Keynes berpendapat bahwa dalam masa depresi ekonomi, pasar tidak bisa bangkit sendiri karena kurangnya permintaan.
 
@@ -30135,7 +30135,7 @@ Di mana:
 
 *Bayangkan situasi ini: Jika perusahaan takut berinvestasi ($I$) dan masyarakat berhenti belanja ($C$), siapa lagi yang bisa menggerakkan ekonomi selain pemerintah ($G$)?*
 
-## 4. Mekanisme Respon Terhadap Krisis 📉
+## 4. Mekanisme Respon Terhadap Krisis
 
 Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
 
@@ -30150,7 +30150,7 @@ Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
    - **Logika:** Pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli.
    - **Risiko:** Dapat menyebabkan utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
 
-## 5. Model Ekonomi Campuran (Mixed Economy) 🤝
+## 5. Model Ekonomi Campuran (Mixed Economy)
 
 Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Intervensionis. Kebanyakan negara modern menggunakan **Ekonomi Campuran**.
 
@@ -30159,7 +30159,7 @@ Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Interv
 
 > **Prinsip:** "Pasar jika memungkinkan, negara jika diperlukan."
 
-## 6. Aplikasi Dunia Nyata: Respon Pandemi COVID-19 😷
+## 6. Aplikasi Dunia Nyata: Respon Pandemi COVID-19
 
 Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata:
 
@@ -30182,7 +30182,7 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 *Refleksi: Menurut kamu, apakah efisiensi lebih penting daripada kesetaraan, atau mungkinkah kita mencapai keduanya sekaligus?*
 
-## Kesimpulan 🏁
+## Kesimpulan
 
 Perbandingan antara Laissez-faire dan Intervensionisme bukanlah tentang mencari siapa yang benar dan siapa yang salah, melainkan tentang menemukan **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.
 
@@ -30530,8 +30530,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30739,7 +30739,7 @@ Selamat, kamu baru saja mengalami **Bias Konfirmasi**.
 
 Bias konfirmasi adalah salah satu bias kognitif yang paling kuat dan meresap dalam kehidupan manusia. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
 
-## 🏗️ Tiga Pilar Bias Konfirmasi
+## ️ Tiga Pilar Bias Konfirmasi
 
 Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran. Sebaliknya, otak kita sering bertindak seperti **pengacara** yang hanya mencari bukti untuk memenangkan kasusnya. Ada tiga cara utama bagaimana bias ini beroperasi:
 
@@ -30761,11 +30761,11 @@ Kita lebih mudah mengingat informasi yang mendukung keyakinan kita dan lebih cep
 
 - **Penting:** Ini bukan berarti kita berbohong secara sengaja; otak kita secara otomatis melakukan filter terhadap informasi yang menyebabkan ketidaknyamanan mental.
 
-## 🧠 Mengapa Otak Kita Melakukannya?
+## Mengapa Otak Kita Melakukannya?
 
 Mengapa evolusi membiarkan kita memiliki "cacat" berpikir seperti ini?
 
-## 💻 Bias Konfirmasi dalam Dunia Teknik & Data
+## Bias Konfirmasi dalam Dunia Teknik & Data
 
 Dalam dunia rekayasa perangkat lunak atau sains data, bias konfirmasi bisa menjadi sangat berbahaya. Seorang pengembang mungkin menulis kode dan hanya menguji skenario yang mereka tahu akan berhasil (*Happy Path*), alih-alih mencoba mencari cara untuk merusaknya.
 
@@ -30795,7 +30795,7 @@ print(f"Hasil untuk pengguna: {filtered_news}")
 # Output ini akan memperkuat keyakinan pengguna tanpa memberi sudut pandang lain.
 ```
 
-## 🌍 Aplikasi di Dunia Nyata
+## Aplikasi di Dunia Nyata
 
 ### 1\. Investasi dan Keuangan
 
@@ -30811,14 +30811,14 @@ Algoritma media sosial dirancang untuk menunjukkan konten yang kamu sukai. Jika 
 
 Seorang dokter mungkin secara tidak sadar membentuk diagnosis awal dalam beberapa menit pertama pertemuan. Dia kemudian hanya menanyakan pertanyaan yang mengonfirmasi diagnosis tersebut, dan mengabaikan gejala lain yang mungkin menunjukkan penyakit yang berbeda.
 
-## 💡 Latihan Refleksi
+## Latihan Refleksi
 
 *Pikirkan sebuah topik yang kamu sangat yakini (misalnya: pola makan tertentu, pandangan politik, atau merek smartphone favorit).*
 
 1. *Kapan terakhir kali kamu secara sengaja mencari argumen dari pihak yang berseberangan denganmu?*
 2. *Apakah kamu membaca argumen tersebut untuk memahaminya, atau hanya untuk mencari celah agar bisa membantahnya?*
 
-## 🛠️ Cara Menghadapi Bias Konfirmasi
+## ️ Cara Menghadapi Bias Konfirmasi
 
 Meskipun kita tidak bisa menghapus bias ini sepenuhnya (karena ini adalah bagian dari "hardware" otak kita), kita bisa memitigasi dampaknya:
 
@@ -31345,7 +31345,7 @@ Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena mereka mendukung
 
 Secara sederhana, **Bias Kelompok** adalah kecenderungan psikologis manusia untuk memberikan perlakuan istimewa, penilaian lebih positif, dan dukungan lebih besar kepada anggota kelompoknya sendiri (*in-group*) dibandingkan dengan orang-orang di luar kelompoknya (*out-group*).
 
-## 🧠 Mengapa Otak Kita "Pilih Kasih"?
+## Mengapa Otak Kita "Pilih Kasih"?
 
 Akar dari bias ini sebenarnya berasal dari dorongan biologis dan psikologis untuk bertahan hidup serta mencari identitas, bukan hanya karena rasa benci kepada pihak luar.
 
@@ -31362,7 +31362,7 @@ Dikembangkan oleh Henri Tajfel pada tahun 1970-an, teori ini menyatakan bahwa se
 
 > **Analogi "Jersey Mental":** Bayangkan kamu sedang berjalan di bandara luar negeri dan melihat seseorang memakai kaos dengan logo kota kelahiran kamu. Meskipun kamu tidak kenal orang tersebut, kamu merasa ada koneksi instan. Kamu secara otomatis memakaikan "jersey" yang sama padanya dalam pikiran kamu, memberikan dia status "teman" secara cuma-cuma.
 
-## 🔍 Manifestasi Bias Kelompok
+## Manifestasi Bias Kelompok
 
 Bias ini bekerja melalui dua mekanisme utama yang sering berjalan beriringan:
 
@@ -31379,7 +31379,7 @@ Ini adalah sisi gelapnya. Kita cenderung melihat orang di luar kelompok sebagai 
 - **Out-group Homogeneity Effect:** Kita cenderung menganggap semua orang di luar kelompok kita adalah sama (stereotip), sementara melihat kelompok kita sendiri sangat beragam.
 	- *"Ah, semua orang dari departemen pemasaran itu cuma bisa bicara besar,"* tetapi saat melihat departemen sendiri, kamu berkata, *"Tim IT kita punya berbagai macam kepribadian yang unik."*
 
-## ⚡ Dampak: Polarisasi dan Konflik
+## Dampak: Polarisasi dan Konflik
 
 Bias kelompok adalah bahan bakar utama di balik **polarisasi**. Ketika kita hanya berinteraksi dengan kelompok sendiri (sering diperparah oleh algoritme media sosial), kita menciptakan "ruang gema" (*echo chambers*).
 
@@ -31395,7 +31395,7 @@ Semakin sedikit interaksi kita dengan "orang luar", semakin kuat bias kita terha
 2. **Konflik Politik:** Ketidakmampuan untuk melihat kebenaran dalam argumen lawan politik.
 3. **Hambatan Inovasi:** Menolak ide bagus hanya karena ide tersebut datang dari departemen atau organisasi lain.
 
-## 💼 Penerapan dalam Dunia Nyata & Kasus Teknik
+## Penerapan dalam Dunia Nyata & Kasus Teknik
 
 ### 1\. Skenario Pengembangan Perangkat Lunak (Dev vs Ops)
 
@@ -31417,7 +31417,7 @@ def evaluasi_ide(ide):
         return "Perlu ditinjau ulang (mencari-cari kesalahan)."
 ```
 
-## 🛠️ Cara Mengenali dan Mengurangi Bias Kelompok
+## ️ Cara Mengenali dan Mengurangi Bias Kelompok
 
 Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objektif:
 
@@ -31831,8 +31831,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31847,7 +31847,7 @@ VALUES (
   'pembelajaran-multidisiplin',
   'Pembelajaran Multidisiplin: Menghubungkan Pikiran, Menembus Batas Ilmu',
   'published',
-  'Kurikulum dan Teknologi Pendidikan',
+  'Pendidikan',
   '<!-- Chapter: 01_pengantar-pembelajaran-multidisiplin -->
 
 ## Pengantar Pembelajaran Multidisiplin
@@ -32881,8 +32881,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33945,8 +33945,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35130,8 +35130,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35146,7 +35146,7 @@ VALUES (
   'strategi-manajemen-kelas-proaktif',
   'Strategi Manajemen Kelas Proaktif',
   'published',
-  'Manajemen Pendidikan',
+  'Manajemen',
   '<!-- Chapter: 01_pengantar-manajemen-kelas-proaktif -->
 
 # Pengantar Manajemen Kelas Proaktif
@@ -36300,8 +36300,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37431,8 +37431,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38649,8 +38649,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39810,8 +39810,1728 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'teori-permainan-game-theory',
+  'teori-permainan-game-theory',
+  'Teori Permainan (Game Theory)',
+  'published',
+  'Ekonomi',
+  '<!-- Chapter: 01_pengantar-teori-permainan -->
+
+## Pengantar Teori Permainan
+
+Selamat datang di dunia Teori Permainan! Pernahkah kamu merasa bahwa hidup ini seperti papan catur raksasa? Di mana setiap keputusan yang kamu ambil, mulai dari menawarkan harga saat menawar di pasar hingga memilih strategi kampanye pemasaran, sangat bergantung pada apa yang akan dilakukan orang lain?
+
+Jika ya, kamu sudah mulai berpikir secara strategis. **Teori Permainan (Game Theory)** adalah kerangka kerja matematis dan logis yang digunakan untuk menganalisis situasi di mana hasil dari tindakan kamu tidak hanya ditentukan oleh pilihan kamu sendiri, melainkan juga oleh pilihan orang lain.
+
+## Apa Itu Teori Permainan?
+
+Secara formal, **Teori Permainan adalah studi tentang model matematika yang menggambarkan interaksi strategis antara agen-agen yang rasional.**
+
+Dalam bahasa yang lebih sederhana:
+
+> Teori Permainan adalah ilmu tentang strategi. Ia membantu kita memahami mengapa orang, perusahaan, atau bahkan hewan membuat keputusan tertentu ketika mereka tahu bahwa keputusan tersebut akan memengaruhi (dan dipengaruhi oleh) pihak lain.
+
+### Analogi: Menyetir di Jalan Raya
+
+Bayangkan kamu sedang mengemudi. Jika kamu ingin sampai di tujuan lebih cepat, kamu mungkin berpikir untuk mengebut. Namun, kamu sadar bahwa pengemudi lain juga memiliki tujuan yang sama. Jika semua orang mengebut dan saling serobot, risiko kecelakaan meningkat dan semua orang justru akan terhambat.
+
+Pilihan kamu (mengebut atau santai) sangat bergantung pada perkiraan kamu tentang apa yang akan dilakukan pengemudi lain. Inilah inti dari **interaksi strategis**.
+
+## Sejarah Singkat: Dari Kasino ke Perang Dingin
+
+Teori permainan tidak muncul begitu saja. Ia berevolusi dari sekadar rasa ingin tahu tentang perjudian menjadi alat analisis kebijakan tingkat tinggi.
+
+1. **Awal Mula (1920-an):** Ilmuwan seperti **James Waldegrave** dan **Emile Borel** mulai mempelajari permainan kartu. Namun, fondasi kokoh baru diletakkan oleh **John von Neumann** pada tahun 1928 melalui pembuktian teorema *minimax*.
+2. **Lahirnya Disiplin Ilmu (1944):** Terbitnya buku monumental *Theory of Games and Economic Behavior* oleh **John von Neumann** dan **Oskar Morgenstern**. Buku ini secara resmi memperkenalkan teori permainan sebagai alat analisis ekonomi.
+3. **Revolusi Nash (1950-an):** **John Nash** (yang kisahnya difilmkan dalam *A Beautiful Mind*) memperluas teori ini melampaui permainan "menang-kalah" murni. Ia memperkenalkan konsep **Ekuilibrium Nash**, yang menjelaskan titik keseimbangan di mana tidak ada pemain yang mau mengubah strateginya secara sepihak.
+4. **Era Modern:** Sejak 1970-an, teori permainan merambah ke biologi evolusioner, ilmu politik, hingga desain algoritma internet dan lelang spektrum frekuensi seluler.
+
+## Mengapa Teori Permainan Penting?
+
+Mengapa kita harus mempelajari ini? Mengapa tidak cukup hanya mengambil keputusan terbaik bagi diri sendiri?
+
+Dalam interaksi manusia, "keputusan terbaik" sering kali bersifat relatif. Teori permainan penting karena:
+
+- **Memahami Konflik dan Kerja Sama:** Ia menjelaskan mengapa dua pihak yang seharusnya bekerja sama sering kali justru berakhir dalam konflik (seperti dalam perlombaan senjata nuklir).
+- **Prediksi Perilaku Pasar:** Membantu perusahaan memprediksi reaksi kompetitor terhadap perubahan harga atau peluncuran produk baru.
+- **Desain Sistem:** Digunakan oleh pemerintah untuk merancang sistem lelang atau mekanisme pemungutan suara agar tidak mudah dicurangi.
+- **Rasionalitas Strategis:** Melatih kita untuk tidak hanya memikirkan langkah kita saat ini, tetapi juga langkah lawan di masa depan: berpikir dua atau tiga langkah ke depan.
+
+*Pernahkah kamu berada dalam situasi di mana kamu tahu kerja sama adalah jalan terbaik, tetapi kamu takut dikhianati sehingga kamu memilih untuk egois? Itu adalah dilema klasik dalam teori permainan.*
+
+## Real-World Application: Perang Harga Supermarket
+
+Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
+
+**Skenario:** Dua supermarket besar, Toko A dan Toko B, berdampingan. Keduanya ingin menarik pelanggan.
+
+- Jika keduanya memasang harga normal, keduanya mendapat untung stabil.
+- Jika Toko A memotong harga secara drastis (diskon besar) sementara Toko B tetap normal, Toko A akan menyedot semua pelanggan dan mendapat untung besar, sementara Toko B merugi.
+- **Masalahnya:** Toko B juga berpikir hal yang sama. Jika keduanya memotong harga secara bersamaan, mereka berdua akan mendapatkan jumlah pelanggan yang sama seperti semula, namun dengan margin keuntungan yang jauh lebih kecil.
+
+**Hasilnya?** Seringkali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka tetap di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
+
+## Konsep Fundamental: Keputusan vs. Permainan
+
+Penting untuk membedakan antara **Teori Keputusan** dan **Teori Permainan**.
+
+1. **Teori Keputusan:** Kamu bermain melawan "alam". Misalnya, memutuskan membawa payung atau tidak. Keputusan kamu didasarkan pada probabilitas hujan. Awan tidak "berusaha" menjatuhkan hujan hanya untuk membuat kamu basah.
+
+   $$\text{Hasil} = f(\text{Pilihan Kamu}, \text{Keadaan Alam})$$
+
+2. **Teori Permainan:** Kamu bermain melawan agen aktif yang juga ingin menang. Jika kamu membawa payung, "lawan" kamu mungkin akan mencoba menyalakan kipas raksasa agar hujan tetap mengenai kamu.
+
+   $$\text{Hasil} = f(\text{Pilihan Kamu}, \text{Pilihan Lawan})$$
+
+> **Poin Utama:** Dalam teori permainan, "lawan" kamu adalah agen yang cerdas, memiliki tujuan, dan juga sedang menganalisis kamu.
+
+## Apa yang Akan Kita Pelajari Selanjutnya?
+
+Setelah memahami bahwa teori permainan adalah tentang interaksi strategis, kita perlu membedah anatomi dari sebuah "permainan". Dalam bagian selanjutnya, kita akan mempelajari tiga elemen dasar yang wajib ada dalam setiap analisis teori permainan:
+
+1. **Pemain (Players):** Siapa saja yang terlibat?
+2. **Strategi (Strategies):** Apa saja pilihan yang mereka miliki?
+3. **Hasil/Imbalan (Payoffs):** Apa yang mereka dapatkan dari kombinasi pilihan tersebut?
+
+*Persiapkan diri kamu, karena memahami elemen-elemen ini adalah kunci untuk memecahkan teka-teki interaksi manusia yang paling kompleks sekalipun.*
+
+
+<!-- Chapter: 02_elemen-dasar-dalam-permainan -->
+
+## Elemen Dasar dalam Permainan
+
+Bayangkan kamu sedang duduk di depan papan catur, atau mungkin sedang berada di tengah negosiasi gaji yang alot. Apa kesamaan dari kedua situasi tersebut? Keduanya adalah **permainan**.
+
+Dalam dunia Teori Permainan, sebuah "permainan" bukan hanya sekadar hiburan, melainkan model matematis dari interaksi strategis. Agar sebuah situasi dapat dianalisis menggunakan teori permainan, ia harus memiliki tiga komponen fundamental yang sering disebut sebagai **"The Rules of the Game"**.
+
+Tanpa ketiga elemen ini, kita hanya memiliki aksi acak tanpa tujuan. Tiga elemen mendasar tersebut adalah: **Pemain (Players)**, **Strategi (Strategies)**, dan **Hasil atau Imbalan (Payoffs)**.
+
+### 1. Pemain (Players)
+
+Pemain adalah para pengambil keputusan dalam permainan. Mereka adalah entitas yang bertindak secara rasional untuk memaksimalkan kepentingannya sendiri.
+
+- **Siapa saja mereka?** Pemain tidak selalu berarti individu manusia. Pemain bisa berupa perusahaan yang bersaing di pasar, negara yang sedang bernegosiasi dalam perjanjian iklim, atau bahkan algoritma komputer dalam perdagangan saham otomatis.
+- **Jumlah Pemain:** Biasanya dilambangkan dengan $n$. Jika $n = 2$, kita menyebutnya permainan dua pemain (*two-person game*).
+- **Asumsi Dasar:** Dalam teori permainan klasik, kita berasumsi bahwa pemain itu **rasional** (memilih tindakan yang memberikan hasil terbaik bagi mereka) dan memiliki **pengetahuan umum** (*common knowledge*) bahwa pemain lain juga rasional.
+
+> **Wawasan Penting:** Karakteristik pemain yang paling utama adalah kemampuan mereka untuk memilih di antara berbagai tindakan yang tersedia. Jika suatu entitas tidak punya pilihan (hanya mengikuti aturan tetap tanpa opsi lain), ia lebih dianggap sebagai bagian dari lingkungan daripada seorang pemain.
+
+### 2. Strategi (Strategies)
+
+Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan sekadar satu langkah tunggal, melainkan sebuah instruksi yang memberi tahu pemain apa yang harus dilakukan pada setiap situasi yang mungkin terjadi dalam permainan.
+
+- **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S_i$.
+- **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \{\text{Gunting}, \text{Batu}, \text{Kertas}\}$.
+- **Strategi vs. Aksi:**
+  - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke E4").
+  - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
+
+*Jika kamu bermain catur, mampukah kamu menuliskan strategi yang benar-benar lengkap di atas kertas sebelum permainan dimulai? Secara teoritis bisa, namun secara praktis jumlah kombinasinya lebih banyak daripada atom di alam semesta!*
+
+### 3. Hasil atau Imbalan (Payoffs)
+
+Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini mencerminkan tingkat kepuasan, keuntungan, atau utilitas yang diperoleh pemain dari hasil interaksi tersebut.
+
+- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u_i(s_1, s_2, \dots, s_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
+- **Bentuk Imbalan:**
+  - Dalam bisnis: **Profit/Laba**.
+  - Dalam politik: **Jumlah suara atau kekuasaan**.
+  - Dalam biologi: **Tingkat kelangsungan hidup** (*survival rate*).
+- **Matriks Imbalan:** Untuk permainan sederhana, imbalan sering ditampilkan dalam tabel (matriks).
+
+**Analogi Sederhana:** Bayangkan pemain sebagai **koki** (*Players*), strategi sebagai **resep** (*Strategies*), dan imbalan sebagai **rating bintang** dari juri (*Payoffs*). Rating yang diterima koki A tidak hanya tergantung pada bumbu yang dia pakai, tapi juga apakah koki B memasak hidangan yang lebih enak atau justru hidangan yang saling melengkapi.
+
+### Contoh Dunia Nyata: Perang Harga Antar Toko
+
+Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
+
+1. **Pemain:** Toko A dan Toko B.
+2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\{\text{Harga Tinggi}, \text{Harga Murah}\}$.
+3. **Imbalan (Profit):**
+   - Jika keduanya memasang **Harga Tinggi**, masing-masing mendapat profit Rp10 juta (pasar stabil).
+   - Jika keduanya memasang **Harga Murah**, masing-masing mendapat profit Rp5 juta (margin tipis).
+   - Jika Toko A **Harga Murah** dan Toko B **Harga Tinggi**, Toko A merebut semua pelanggan dan mendapat Rp15 juta, sementara Toko B mendapat Rp2 juta.
+
+Secara matematis, jika kita melihat dari sudut pandang Toko A, fungsi imbalannya adalah:
+
+$$
+u_A(\text{Murah}, \text{Tinggi}) = 15
+$$
+
+$$
+u_A(\text{Tinggi}, \text{Tinggi}) = 10
+$$
+
+### Implementasi Teknis (Konsep Python)
+
+Dalam pemodelan simulasi, kita sering mendefinisikan elemen-elemen ini dalam struktur data. Berikut adalah representasi sederhana bagaimana elemen dasar ini disusun dalam kode:
+
+```python
+class GameElement:
+    def __init__(self):
+        # 1. Pemain (Players)
+        self.players = ["Toko_A", "Toko_B"]
+        
+        # 2. Ruang Strategi (Strategy Space)
+        self.strategies = {
+            "Toko_A": ["Harga_Tinggi", "Harga_Murah"],
+            "Toko_B": ["Harga_Tinggi", "Harga_Murah"]
+        }
+        
+    # 3. Hasil atau Imbalan (Payoffs)
+    def get_payoff(self, action_a, action_b):
+        # Matriks Imbalan dalam bentuk logika
+        if action_a == "Harga_Tinggi" and action_b == "Harga_Tinggi":
+            return (10, 10)
+        elif action_a == "Harga_Murah" and action_b == "Harga_Tinggi":
+            return (15, 2)
+        elif action_a == "Harga_Tinggi" and action_b == "Harga_Murah":
+            return (2, 15)
+        else: # Keduanya Harga Murah
+            return (5, 5)
+
+# Simulasi interaksi
+game = GameElement()
+hasil = game.get_payoff("Harga_Murah", "Harga_Tinggi")
+print(f"Hasil Imbalan (Toko A, Toko B): {hasil}")
+```
+
+### Ringkasan Strategis
+
+| Elemen | Deskripsi | Pertanyaan Kunci |
+| --- | --- | --- |
+| **Pemain** | Pengambil keputusan rasional | Siapa yang terlibat dalam interaksi? |
+| **Strategi** | Rencana aksi lengkap | Apa saja pilihan yang mungkin diambil? |
+| **Imbalan** | Hasil akhir (utilitas) | Apa tujuan akhir atau apa yang mereka dapatkan? |
+
+Memahami ketiga elemen ini adalah fondasi sebelum kita melangkah ke konsep yang lebih kompleks seperti **Ekuilibrium Nash**. Tanpa pemahaman yang kuat tentang siapa yang bermain, apa pilihannya, dan apa tujuannya, analisis strategi akan menjadi bias dan tidak akurat.
+
+> **Ingat:** Dalam teori permainan, keberhasilan kamu tidak hanya ditentukan oleh tindakan kamu sendiri, tetapi juga oleh tindakan orang lain yang berada dalam permainan yang sama. Itulah esensi dari ketergantungan strategis.
+
+
+<!-- Chapter: 03_representasi-permainan-matriks-dan-pohon -->
+
+## Representasi Permainan: Matriks dan Pohon
+
+Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham sangat besar.
+
+Representasi visual dan matematis berfungsi sebagai "cetak biru" yang mengubah narasi interaksi sosial atau ekonomi menjadi model yang dapat dihitung dan dianalisis. Terdapat dua format utama yang digunakan oleh para pakar: **Bentuk Normal (Matriks)** dan **Bentuk Ekstensif (Pohon)**.
+
+## 1. Bentuk Normal (Normal Form)
+
+Bentuk Normal, atau sering disebut **Bentuk Strategis**, paling cocok digunakan untuk menggambarkan **permainan simultan**. Dalam jenis permainan ini, semua pemain mengambil keputusan pada waktu yang sama, atau setidaknya tanpa mengetahui apa yang dipilih oleh lawan mereka sebelumnya.
+
+### Komponen Utama
+
+Sebuah permainan dalam bentuk normal terdiri dari tiga elemen dasar ($N, S, P$):
+
+1. **Pemain ($N$):** Siapa saja yang terlibat dalam permainan?
+2. **Strategi ($S$):** Daftar lengkap tindakan yang tersedia bagi setiap pemain.
+3. **Payoff/Hasil ($P$):** Nilai numerik (utilitas) yang diterima pemain untuk setiap kombinasi strategi yang mungkin.
+
+### Visualisasi: Matriks Payoff
+
+Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
+
+**Contoh: Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
+
+| Pemain 1 \ Pemain 2 | Pertunjukan A | Pertunjukan B |
+| --- | --- | --- |
+| **Pertunjukan A** | (3, 2) | (0, 0) |
+| **Pertunjukan B** | (0, 0) | (2, 3) |
+
+> **Cara Membaca:** Jika Pemain 1 memilih "Pertunjukan A" dan Pemain 2 memilih "Pertunjukan A", maka hasilnya adalah (3, 2). Angka pertama (**3**) adalah milik Pemain 1, dan angka kedua (**2**) adalah milik Pemain 2.
+
+## 2. Bentuk Ekstensif (Extensive Form)
+
+Bentuk Ekstensif menggunakan diagram **Pohon Permainan (Game Tree)**. Representasi ini jauh lebih kuat untuk menggambarkan **permainan sekuensial**, di mana pemain bergerak secara bergantian dan dapat melihat (atau tidak melihat) langkah sebelumnya.
+
+### Komponen Utama
+
+- **Simpul (Nodes):** Titik di mana seorang pemain harus membuat keputusan.
+- **Cabang (Edges/Branches):** Mewakili tindakan atau pilihan yang diambil.
+- **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil (payoff) diberikan.
+- **Himpunan Informasi (Information Sets):** Menunjukkan apakah pemain mengetahui posisi mereka saat ini di dalam pohon tersebut.
+
+### Keunggulan Bentuk Ekstensif
+
+Bentuk ini memungkinkan kita memodelkan konsep waktu dan informasi:
+
+- **Informasi Sempurna (Perfect Information):** Setiap pemain tahu persis apa yang telah dilakukan pemain sebelumnya (misal: Catur).
+- **Informasi Tidak Sempurna (Imperfect Information):** Pemain tidak tahu langkah pasti lawan sebelumnya meskipun mereka bergerak secara berurutan. Dalam diagram, ini digambarkan dengan garis putus-putus yang menghubungkan dua simpul keputusan.
+
+### Analogi Pohon Keputusan
+
+> Bayangkan kamu sedang mendaki gunung yang memiliki banyak persimpangan jalan. Setiap papan penunjuk jalan adalah "Simpul Keputusan", dan setiap jalan yang kamu ambil adalah "Cabang". Di puncak gunung, ada harta karun dengan nilai berbeda-beda, itulah "Payoff".
+
+## 3. Kapan Menggunakan Matriks vs. Pohon?
+
+Meskipun setiap permainan bentuk ekstensif dapat dikonversi menjadi bentuk normal, namun tidak selalu efisien untuk dilakukan.
+
+| Karakteristik | Bentuk Normal (Matriks) | Bentuk Ekstensif (Pohon) |
+| --- | --- | --- |
+| **Waktu Keputusan** | Simultan (Serentak) | Sekuensial (Berurutan) |
+| **Fokus Utama** | Strategi akhir dan hasil | Proses dan urutan langkah |
+| **Visualisasi** | Tabel dua dimensi | Struktur hierarkis |
+| **Kompleksitas** | Mudah untuk 2 pemain, sulit untuk >2 | Lebih fleksibel untuk banyak pemain |
+
+## 4. Kasus Dunia Nyata: Masuknya Perusahaan ke Pasar
+
+Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan apakah akan masuk ke pasar yang dikuasai **Perusahaan B** (Petahana).
+
+1. **Jika A Masuk:** Perusahaan B bisa memilih untuk "Perang Harga" atau "Akomodasi".
+2. **Jika A Tetap Keluar:** Perusahaan B tetap menjadi monopoli.
+
+**Dalam Bentuk Ekstensif:** Awalnya ada satu titik (Perusahaan A). Dua cabang keluar: "Masuk" dan "Keluar". Jika "Masuk", muncul titik baru (Perusahaan B) dengan dua cabang: "Lawan" atau "Terima".
+
+**Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
+
+## 5. Implementasi Teknis (Python)
+
+Dalam dunia data science dan AI, kita sering menggunakan pustaka seperti `Nashpy` untuk merepresentasikan permainan dalam bentuk matriks. Berikut adalah cara mendefinisikan permainan sederhana:
+
+```python
+import nashpy as nash
+import numpy as np
+
+# Definisikan Payoff untuk Pemain Baris (Pemain 1)
+# Contoh: Dilema Tahanan
+# Matriks A: [ [-1, -3], [0, -2] ]
+A = np.array([[-1, -3], [0, -2]])
+
+# Definisikan Payoff untuk Pemain Kolom (Pemain 2)
+# Matriks B: [ [-1, 0], [-3, -2] ]
+B = np.array([[-1, 0], [-3, -2]])
+
+# Buat objek permainan
+prisoners_dilemma = nash.Game(A, B)
+
+print("Matriks Permainan:")
+print(prisoners_dilemma)
+
+# Menemukan Ekuilibrium Nash (akan dibahas di modul selanjutnya)
+equilibria = prisoners_dilemma.support_enumeration()
+for eq in equilibria:
+    print(f"Ekuilibrium ditemukan: {eq}")
+```
+
+## 6. Latihan Refleksi
+
+*Coba bayangkan permainan "Batu-Gunting-Kertas".*
+
+1. *Apakah ini lebih cocok digambarkan dengan Matriks atau Pohon? Mengapa?*
+2. *Jika kita sepakat pemain tidak boleh melihat tangan satu sama lain, bagaimana kamu menggambarkan "ketidaktahuan" tersebut dalam sebuah pohon permainan?*
+
+> **Poin Penting:** Meskipun visualisasinya berbeda, tujuan akhirnya sama: memetakan setiap kemungkinan pilihan ke sebuah nilai hasil tertentu sehingga kita dapat memprediksi perilaku manusia atau sistem secara rasional.
+
+**Langkah Selanjutnya:** Setelah memahami bagaimana sebuah permainan "digambar", pada bagian selanjutnya kita akan mempelajari bagaimana pemain memilih strategi terbaik mereka melalui konsep **Strategi Dominan**, di mana kita mulai mencari tahu siapa yang akan menang dan mengapa.
+
+
+<!-- Chapter: 04_strategi-dominan-dan-dominasi -->
+
+## Strategi Dominan dan Dominasi: Kunci Menuju Keputusan Rasional
+
+Dalam hiruk-pikuk pengambilan keputusan strategis, sering kali kita merasa pusing dengan banyaknya kemungkinan langkah yang bisa diambil oleh lawan. Namun, bagaimana jika ada sebuah langkah yang **selalu** lebih baik dari langkah lainnya, apa pun yang dilakukan orang lain? Inilah inti dari **Strategi Dominan**.
+
+Memahami strategi dominan bukan hanya tentang memenangkan permainan, tetapi tentang menyederhanakan kompleksitas dunia nyata menjadi pilihan-pilihan yang logis dan tak terbantahkan.
+
+### 1. Apa Itu Strategi Dominan?
+
+**Strategi Dominan** adalah strategi yang memberikan hasil (payoff) tertinggi bagi seorang pemain dibandingkan dengan strategi lainnya, terlepas dari apa yang dipilih oleh pemain lawan.
+
+Bayangkan kamu adalah seorang siswa yang sedang bersiap menghadapi ujian.
+
+- **Strategi A:** Belajar dengan giat.
+- **Strategi B:** Tidak belajar sama sekali.
+
+Jika ujiannya sulit, belajar (A) memberikan hasil lebih baik daripada tidak belajar (B). Jika ujiannya mudah, belajar (A) tetap memberikan hasil yang lebih baik (nilai sempurna) dibandingkan tidak belajar. Dalam skenario ini, "Belajar" adalah **Strategi Dominan** kamu.
+
+#### Definisi Formal
+
+Secara matematis, misalkan $u_i(s_i, s_{-i})$ adalah fungsi utilitas (hasil) untuk pemain $i$ dengan strategi $s_i$ dan strategi lawan $s_{-i}$.
+
+Strategi $s_i^*$ dikatakan **dominan secara ketat (strictly dominant)** jika:
+
+$$
+u_i(s_i^*, s_{-i}) > u_i(s_i, s_{-i})
+$$
+
+untuk semua strategi alternatif $s_i$ dan semua kemungkinan strategi lawan $s_{-i}$.
+
+### 2. Dominasi Ketat vs. Dominasi Lemah
+
+Tidak semua dominasi diciptakan sama. Dalam teori permainan, kita membedakan keduanya berdasarkan "kekuatan" keunggulannya.
+
+#### A. Strategi Dominan Ketat (Strictly Dominant)
+
+Strategi ini **selalu memberikan hasil yang lebih besar** daripada strategi lainnya. Tidak ada satu pun kondisi di mana strategi lain bisa menyamai atau melampaui hasilnya.
+
+> **Pesan Penting:** Jika seorang pemain memiliki strategi dominan ketat, seorang pemain yang rasional **pasti** akan memilihnya.
+
+#### B. Strategi Dominan Lemah (Weakly Dominant)
+
+Strategi $s_i^*$ dikatakan dominan lemah jika ia memberikan hasil yang **setidaknya sama baiknya** dengan strategi lain, dan dalam setidaknya satu situasi, ia memberikan hasil yang **lebih baik**. Secara matematis:
+
+$$
+u_i(s_i^*, s_{-i}) \geq u_i(s_i, s_{-i})
+$$
+
+*Sebagai ilustrasi: Dalam dunia investasi, jika ada instrumen yang memberikan bunga 5% dengan risiko nol, dan instrumen lain memberikan bunga 5% tapi dengan risiko tinggi, mana yang akan kamu pilih? Instrumen tanpa risiko adalah strategi dominan lemah.*
+
+### 3. Strategi yang Didominasi (Dominated Strategies)
+
+Jika strategi dominan adalah "pemenang mutlak", maka **Strategi yang Didominasi** adalah "pecundang mutlak". Ini adalah strategi yang selalu memberikan hasil yang lebih buruk daripada setidaknya satu strategi lain yang tersedia.
+
+**Mengapa ini penting?** Pemain yang rasional tidak akan pernah memilih strategi yang didominasi. Dengan mengenali strategi ini, kita dapat membuangnya dari pertimbangan, sehingga permainan yang kompleks menjadi jauh lebih sederhana.
+
+### 4. Eliminasi Iteratif Strategi yang Didominasi (IESDS)
+
+Ini adalah teknik detektif dalam teori permainan. **Iterated Elimination of Strictly Dominated Strategies (IESDS)** adalah proses menghapus strategi yang didominasi secara bertahap untuk menemukan solusi permainan.
+
+#### Langkah-langkah IESDS:
+
+1. Lihat dari perspektif Pemain 1: Adakah strategi yang selalu memberikan hasil lebih buruk daripada strategi lainnya? Jika ada, hapus baris tersebut.
+2. Lihat dari perspektif Pemain 2: Dengan sisa strategi yang ada, adakah strategi yang selalu memberikan hasil lebih buruk? Jika ada, hapus kolom tersebut.
+3. Ulangi proses ini sampai tidak ada lagi strategi yang bisa dieliminasi.
+
+#### Contoh Matriks (Game Iklan)
+
+Dua perusahaan, A dan B, memutuskan apakah akan beriklan (I) atau tidak (TI).
+
+| Perusahaan A \ B | Beriklan (I) | Tidak Iklan (TI) |
+| --- | --- | --- |
+| **Beriklan (I)** | (50, 50) | (90, 20) |
+| **Tidak Iklan (TI)** | (20, 90) | (70, 70) |
+
+**Analisis untuk Perusahaan A:**
+
+- Jika B beriklan: I (50) > TI (20)
+- Jika B tidak iklan: I (90) > TI (70)
+
+Kesimpulan: Strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi **Tidak Iklan** didominasi secara ketat dan bisa kita hapus.
+
+Karena Perusahaan B juga rasional dan memiliki struktur payoff yang sama, mereka juga akan mengeliminasi "Tidak Iklan". Hasil akhirnya adalah (50, 50).
+
+### 5. Implementasi Kode: Mendeteksi Dominasi
+
+Berikut adalah contoh sederhana menggunakan Python untuk memeriksa apakah suatu strategi dalam matriks payoff mendominasi strategi lainnya.
+
+```python
+def check_dominance(player_payoffs):
+    """
+    Memeriksa apakah ada strategi yang mendominasi strategi lain.
+    player_payoffs: list of lists (baris adalah strategi)
+    """
+    num_strategies = len(player_payoffs)
+    dominated_indices = []
+
+    for i in range(num_strategies):
+        for j in range(num_strategies):
+            if i == j: continue
+            
+            # Cek apakah strategi j mendominasi strategi i secara ketat
+            is_dominated = all(player_payoffs[i][k] < player_payoffs[j][k] 
+                               for k in range(len(player_payoffs[0])))
+            
+            if is_dominated:
+                print(f"Strategi {i} didominasi secara ketat oleh Strategi {j}")
+                dominated_indices.append(i)
+                break
+                
+    return list(set(dominated_indices))
+
+# Contoh Payoff Pemain A
+# Baris 0: Strategi A1, Baris 1: Strategi A2
+# Kolom: Respons Pemain B
+payoffs_A = [
+    [50, 90], # Strategi Beriklan
+    [20, 70]  # Strategi Tidak Iklan
+]
+
+check_dominance(payoffs_A)
+```
+
+### 6. Aplikasi Dunia Nyata
+
+#### A. Perang Harga di Supermarket
+
+Dua supermarket besar yang berdekatan sering kali terjebak dalam strategi dominan untuk menurunkan harga. Meskipun keduanya akan untung lebih besar jika menjaga harga tetap tinggi, menurunkan harga sering kali menjadi strategi dominan karena jika lawan menurunkan harga dan kamu tidak, kamu akan kehilangan semua pelanggan.
+
+#### B. Perlombaan Senjata (Arms Race)
+
+Dalam politik internasional, dua negara mungkin merasa bahwa membangun senjata nuklir adalah strategi dominan. Jika lawan membangun senjata, kamu harus membangunnya agar tidak kalah. Jika lawan tidak membangun, kamu membangunnya agar menjadi lebih kuat. Inilah yang menjelaskan mengapa eliminasi strategi yang didominasi bisa mengarah pada hasil yang tidak optimal secara kolektif (tragedi bersama).
+
+#### C. Sistem Lelang
+
+Dalam lelang tertutup (Vickrey Auction), menawar sesuai dengan nilai asli barang bagi kamu (true valuation) adalah strategi dominan lemah. Kamu tidak akan pernah rugi dengan menawar sesuai nilai asli, karena menawar lebih tinggi bisa membuat kamu membayar lebih mahal dari nilai barang, dan menawar lebih rendah hanya memperkecil peluang menang tanpa mengubah harga yang harus dibayar.
+
+### 7. Kesimpulan & Refleksi
+
+Memahami strategi dominan membantu kita untuk memprediksi perilaku dalam situasi kompetitif. Jika lawanmu memiliki strategi dominan, kamu bisa berasumsi dengan yakin bahwa mereka akan mengambil langkah tersebut.
+
+*Renungkan hal ini: Dalam kehidupan sehari-hari, apakah kamu sering mengambil keputusan berdasarkan apa yang orang lain lakukan, atau apakah kamu memiliki "Strategi Dominan" yang tetap kamu jalankan apa pun situasinya?*
+
+> **Insight Utama:** Menemukan strategi dominan adalah langkah pertama dalam memecahkan permainan apa pun. Jika kamu tidak menemukannya, barulah kita beralih ke konsep yang lebih dalam seperti Ekuilibrium Nash.
+
+
+<!-- Chapter: 05_ekuilibrium-nash -->
+
+## Ekuilibrium Nash (Nash Equilibrium)
+
+Selamat datang di jantung Teori Permainan! Jika kamu pernah menonton film *A Beautiful Mind*, kamu pasti tidak asing dengan sosok **John Nash**. Konsep yang ia rumuskan bukan sekadar teori akademis, melainkan sebuah kacamata untuk melihat bagaimana dunia bekerja, mulai dari perang dagang, strategi militer, hingga mengapa orang-orang mengantre di kasir supermarket.
+
+Dalam bagian ini, kita akan membongkar apa itu Ekuilibrium Nash, mengapa ia disebut sebagai titik "tanpa penyesalan", dan bagaimana cara menemukannya dalam sebuah interaksi strategis.
+
+### 1. Apa Itu Ekuilibrium Nash?
+
+Bayangkan kamu dan seorang teman sedang bermain. **Ekuilibrium Nash** adalah sebuah situasi di mana tidak ada satu pun pemain yang dapat meningkatkan keuntungannya dengan mengubah strateginya sendirian, sementara pemain lain tetap pada pilihan mereka.
+
+**Analogi Sederhana: Pertemuan di Mal**
+
+Kamu dan temanmu berencana bertemu di sebuah mal besar yang memiliki dua pintu masuk: Pintu Utara dan Pintu Selatan. Ponsel kalian berdua mati, sehingga kalian tidak bisa berkomunikasi.
+
+- Jika kamu pergi ke Pintu Utara dan temanmu ke Pintu Utara, kalian bertemu (Hasil Bagus).
+- Jika kamu di Utara dan temanmu di Selatan, kalian tidak bertemu (Hasil Buruk).
+
+Jika saat ini kalian berdua berada di **Pintu Utara**, apakah kamu ingin pindah ke Selatan sendirian? Tidak, karena kamu justru tidak akan bertemu temanmu. Begitu juga temanmu. Karena tidak ada yang mau pindah secara sepihak, posisi "Keduanya di Pintu Utara" adalah sebuah **Ekuilibrium Nash**.
+
+> **Wawasan Penting:** Ekuilibrium Nash bukanlah tentang hasil yang "paling adil" atau "paling menguntungkan secara total", melainkan tentang **stabilitas**. Ini adalah titik di mana setiap pemain berkata, "Mengingat apa yang dilakukan lawan saya, saya sudah melakukan yang terbaik yang saya bisa."
+
+### 2. Definisi Formal
+
+Secara matematis, misalkan terdapat $n$ pemain. Sebuah kombinasi strategi $(s_1^*, s_2^*, \dots, s_n^*)$ disebut sebagai Ekuilibrium Nash jika untuk setiap pemain $i$:
+
+$$
+u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*)
+$$
+
+Dengan:
+
+- $u_i$ adalah fungsi utilitas atau *payoff* (hasil) bagi pemain $i$.
+- $s_i^*$ adalah strategi optimal pemain $i$.
+- $s_{-i}^*$ adalah strategi yang dipilih oleh semua pemain lain selain pemain $i$.
+
+Artinya, hasil ($u_i$) yang didapat pemain $i$ dengan strategi $s_i^*$ adalah yang tertinggi dibandingkan pilihan strategi lainnya ($s_i$), dengan asumsi pemain lain tidak mengubah pilihan mereka.
+
+### 3. Cara Menemukan Ekuilibrium Nash dalam Matriks
+
+Untuk mencari ekuilibrium dalam permainan simultan (pemain memilih di waktu yang sama), kita menggunakan metode **"Best Response" (Respon Terbaik)**. Mari kita lihat contoh kompetisi antara dua perusahaan, Perusahaan A dan Perusahaan B, yang memutuskan untuk memasang iklan atau tidak.
+
+| Perusahaan A \ B | Pasang Iklan | Tidak Iklan |
+| --- | --- | --- |
+| **Pasang Iklan** | (10, 10) | (20, 5) |
+| **Tidak Iklan** | (5, 20) | (15, 15) |
+
+*Catatan: Angka pertama dalam kurung adalah payoff Perusahaan A, angka kedua adalah payoff Perusahaan B.*
+
+**Langkah-langkah Analisis:**
+
+1. **Jika Perusahaan B Pasang Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10.*
+2. **Jika Perusahaan B Tidak Iklan:** Respon terbaik Perusahaan A adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20.*
+3. **Jika Perusahaan A Pasang Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (10 lebih baik daripada 5). *Kita tandai angka 10 (milik B).*
+4. **Jika Perusahaan A Tidak Iklan:** Respon terbaik Perusahaan B adalah **Pasang Iklan** (20 lebih baik daripada 15). *Kita tandai angka 20 (milik B).*
+
+**Hasil:** Kotak di mana kedua pemain memberikan respon terbaiknya adalah **(Pasang Iklan, Pasang Iklan)** dengan payoff **(10, 10)**. Inilah Ekuilibrium Nash-nya.
+
+*Coba renungkan: Apakah (10, 10) adalah hasil terbaik bagi kedua perusahaan? Secara kolektif, (15, 15) lebih baik. Namun, dalam Ekuilibrium Nash, godaan untuk mendapatkan 20 membuat posisi (15, 15) tidak stabil.*
+
+### 4. Karakteristik Penting Ekuilibrium Nash
+
+#### A. Bisa Lebih dari Satu (Multiple Equilibria)
+
+Dalam beberapa kasus, sebuah permainan bisa memiliki lebih dari satu titik keseimbangan. Contoh klasiknya adalah **"Battle of the Sexes"** (Pertempuran Pilihan), di mana sepasang kekasih ingin pergi bersama tapi punya selera berbeda (satu ingin nonton bola, satu ingin nonton konser). Jika mereka bersama-sama di bola atau bersama-sama di konser, keduanya adalah Ekuilibrium Nash.
+
+#### B. Tidak Selalu Efisien (Pareto Optimal)
+
+Seperti contoh iklan di atas, Ekuilibrium Nash sering kali membawa pemain pada hasil yang lebih buruk daripada jika mereka bisa bekerja sama secara jujur. Namun, tanpa kontrak yang mengikat, mereka terjebak pada pilihan egois yang rasional.
+
+#### C. Tidak Selalu Ada dalam "Strategi Murni"
+
+Terkadang, dalam permainan seperti Batu-Gunting-Kertas, tidak ada satu titik stabil tunggal. Jika kamu selalu memilih Batu, lawan akan memilih Kertas. Kamu lalu pindah ke Gunting. Tidak ada titik diam. (Masalah ini akan dibahas lebih dalam di bagian **Strategi Campuran**).
+
+### 5. Aplikasi Dunia Nyata
+
+**Skenario: Perlombaan Senjata (Arms Race)**
+
+Dua negara yang bersaing harus memutuskan apakah akan menambah hulu ledak nuklir atau melakukan pelucutan senjata.
+
+- Jika Negara A menambah senjata dan Negara B tidak, Negara A memiliki kekuatan dominan.
+- Ketakutan akan didominasi memaksa kedua negara untuk terus menambah senjata.
+- **Ekuilibrium Nash:** Kedua negara terus menambah senjata, meskipun keduanya akan jauh lebih makmur dan aman jika uang tersebut digunakan untuk pendidikan atau kesehatan.
+
+**Skenario: Lokasi Bisnis (Hukum Hotelling)**
+
+Pernahkah kamu bertanya-tanya mengapa gerai Alfamart dan Indomaret sering kali berada tepat bersebelahan?
+
+- Jika satu toko berada di ujung jalan dan toko lain di tengah, toko di tengah akan mendapatkan lebih banyak pelanggan.
+- Untuk mengamankan jumlah pelanggan maksimal, kedua toko akan bergerak menuju pusat keramaian yang sama.
+- **Ekuilibrium Nash:** Kedua toko berada berdampingan di tengah wilayah tersebut.
+
+### 6. Rangkuman Singkat
+
+- **Ekuilibrium Nash** adalah kondisi stabil di mana tidak ada pemain yang untung jika mengubah strategi sendirian.
+- Ini mencerminkan pemikiran: "Saya melakukan yang terbaik berdasarkan apa yang kamu lakukan, dan kamu melakukan yang terbaik berdasarkan apa yang saya lakukan."
+- **Metode Pencarian:** Gunakan *best response* untuk setiap kemungkinan pilihan lawan dalam matriks hasil.
+- **Penting:** Ekuilibrium Nash tidak menjamin kebahagiaan maksimal, ia hanya menjamin stabilitas rasional.
+
+> **Renungan:** Dalam hidup, kita sering terjebak dalam Ekuilibrium Nash yang buruk (seperti kemacetan lalu lintas di mana semua orang ingin mengambil jalur tercepat secara egois). Menurut kamu, apa cara terbaik untuk memecahkan ekuilibrium yang buruk dan berpindah ke hasil yang lebih menguntungkan semua orang? *(Petunjuk: Jawabannya sering kali melibatkan komunikasi atau regulasi!)*
+
+
+<!-- Chapter: 06_dilema-tahanan -->
+
+## Dilema Tahanan (Prisoner''s Dilemma)
+
+Bayangkan kamu dan rekanmu tertangkap oleh polisi karena dicurigai melakukan kejahatan besar. Kamu berdua dibawa ke ruangan interogasi yang terpisah. Kamu tidak bisa berkomunikasi satu sama lain. Jaksa memberikan tawaran yang sama kepada kamu berdua:
+
+1. Jika kamu **mengaku** dan rekanmu **diam**, kamu bebas, dan rekanmu dipenjara 10 tahun.
+2. Jika kamu **diam** dan rekanmu **mengaku**, kamu dipenjara 10 tahun, dan rekanmu bebas.
+3. Jika kalian berdua **mengaku**, kalian berdua dipenjara 5 tahun.
+4. Jika kalian berdua tetap **diam**, kalian berdua hanya dipenjara 1 tahun (atas tuduhan ringan).
+
+Apa yang akan kamu lakukan? Inilah inti dari **Dilema Tahanan**, sebuah paradoks dalam Teori Permainan yang menunjukkan mengapa kerja sama sulit dicapai bahkan ketika itu menguntungkan semua pihak.
+
+### Representasi Matriks Hasil (Payoff Matrix)
+
+Untuk menganalisis ini secara ilmiah, kita menggunakan **Bentuk Normal** atau matriks. Angka dalam kurung menunjukkan jumlah tahun penjara (semakin kecil angkanya, semakin baik hasilnya bagi pemain).
+
+| Tahanan A \ Tahanan B | Tetap Diam (Kerja Sama) | Mengaku (Berkhianat) |
+| --- | --- | --- |
+| **Tetap Diam (Kerja Sama)** | (1, 1) | (10, 0) |
+| **Mengaku (Berkhianat)** | (0, 10) | (5, 5) |
+
+> **Intisari:** Dilema ini muncul karena pengejaran kepentingan pribadi secara rasional justru membawa hasil yang lebih buruk bagi semua orang secara kolektif.
+
+### Logika di Balik Pengkhianatan
+
+Mari kita bedah pola pikir Tahanan A secara rasional:
+
+1. **Jika Tahanan B tetap diam:** Pilihan terbaik saya adalah **Mengaku** (0 tahun daripada 1 tahun).
+2. **Jika Tahanan B mengaku:** Pilihan terbaik saya juga **Mengaku** (5 tahun daripada 10 tahun).
+
+Apa pun yang dilakukan Tahanan B, pilihan terbaik bagi Tahanan A adalah **Mengaku**. Dalam Teori Permainan, ini disebut sebagai **Strategi Dominan**. Karena Tahanan B juga memiliki logika yang sama, mereka berdua akhirnya akan mengaku.
+
+#### Ekuilibrium Nash vs. Optimalitas Pareto
+
+- **Ekuilibrium Nash:** Terjadi pada titik (Mengaku, Mengaku) dengan hasil (5, 5). Tidak ada pemain yang ingin mengubah keputusannya secara sepihak.
+- **Optimalitas Pareto:** Terjadi pada titik (Diam, Diam) dengan hasil (1, 1). Ini adalah hasil yang secara kolektif jauh lebih baik, namun tidak stabil secara strategis karena adanya godaan untuk berkhianat.
+
+### Definisi Matematis
+
+Secara formal, sebuah permainan dikategorikan sebagai Dilema Tahanan jika hasil (*payoffs*) memenuhi kondisi berikut:
+
+- $T$ = *Temptation* (Godaan untuk berkhianat): 0 tahun
+- $R$ = *Reward* (Imbalan kerja sama): 1 tahun
+- $P$ = *Punishment* (Hukuman bagi keduanya): 5 tahun
+- $S$ = *Sucker’s payoff* (Hukuman bagi yang ditipu): 10 tahun
+
+Agar menjadi Dilema Tahanan, urutan preferensi haruslah: $T < R < P < S$ *(Catatan: Karena ini adalah tahun penjara, angka yang lebih kecil lebih diinginkan).*
+
+Selain itu, untuk permainan berulang, terdapat syarat tambahan:
+
+$$
+\frac{T + S}{2} > R
+$$
+
+Artinya, bergiliran berkhianat tidak boleh lebih menguntungkan daripada kerja sama yang konsisten.
+
+### Aplikasi Dunia Nyata
+
+Dilema Tahanan bukan sekadar teka-teki logika; ini adalah model untuk memahami kegagalan kerja sama di berbagai bidang.
+
+#### 1. Perang Iklan (Bisnis)
+
+Dua perusahaan besar (misalnya Coca-Cola dan Pepsi) mempertimbangkan anggaran iklan. Jika keduanya tidak beriklan, mereka menghemat biaya dan membagi pasar. Namun, jika satu beriklan besar-besaran sementara yang lain tidak, yang beriklan akan merebut pasar. Akhirnya, keduanya beriklan secara agresif hanya untuk mempertahankan pangsa pasar mereka, sehingga keuntungan keduanya menurun karena biaya iklan yang tinggi.
+
+#### 2. Perlombaan Senjata (Politik Internasional)
+
+Dua negara merasa lebih aman jika memiliki nuklir. Jika Negara A membangun nuklir dan Negara B tidak, Negara A mendominasi. Akibatnya, kedua negara menghabiskan miliaran dolar untuk membangun senjata, padahal mereka akan jauh lebih aman dan kaya jika keduanya sepakat untuk tidak memilikinya.
+
+#### 3. Perubahan Iklim (Lingkungan)
+
+Setiap negara diuntungkan jika semua negara mengurangi emisi karbon. Namun, secara individu, setiap negara memiliki insentif untuk terus menggunakan energi murah (fosil) demi pertumbuhan ekonomi sambil berharap negara lain melakukan penghematan. Hasilnya? Polusi global terus meningkat.
+
+### Simulasi Sederhana dengan Kode (Python)
+
+Berikut adalah cuplikan kode sederhana untuk memvisualisasikan bagaimana keputusan diambil berdasarkan matriks Dilema Tahanan:
+
+```python
+def prisoner_dilemma(player_a_choice, player_b_choice):
+    # Definisi hasil (tahun penjara)
+    # Choice: ''C'' (Cooperate/Diam), ''D'' (Defect/Mengaku)
+    outcomes = {
+        (''C'', ''C''): (1, 1),
+        (''C'', ''D''): (10, 0),
+        (''D'', ''C''): (0, 10),
+        (''D'', ''D''): (5, 5)
+    }
+    return outcomes[(player_a_choice, player_b_choice)]
+
+# Skenario: Keduanya bertindak rasional demi kepentingan pribadi
+decision_a = ''D'' # Mengaku
+decision_b = ''D'' # Mengaku
+
+result = prisoner_dilemma(decision_a, decision_b)
+print(f"Hasil akhir: Tahanan A {result[0]} tahun, Tahanan B {result[1]} tahun.")
+```
+
+### Cara Mengatasi Dilema
+
+Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masyarakat bisa berfungsi? Para ilmuwan menemukan beberapa cara untuk memicu kerja sama:
+
+- **Iterasi (Pengulangan):** Jika permainan dilakukan berulang kali, pemain akan takut pada pembalasan di masa depan (*tit-for-tat*).
+- **Reputasi:** Dalam komunitas kecil, pengkhianat akan dikucilkan.
+- **Kontrak Hukum:** Pemerintah menciptakan aturan yang menghukum mereka yang "berkhianat" (seperti denda bagi perusahaan yang melakukan monopoli).
+
+Pernahkah kamu berada dalam situasi kerja kelompok ketika kamu melakukan semua pekerjaan sementara temanmu mendapatkan nilai yang sama tanpa berusaha? Itulah Dilema Tahanan dalam kehidupan sekolah! Mengapa kamu tetap mau bekerja sama meskipun ada risiko temanmu menjadi "free rider"?
+
+> **Penting:** Kepercayaan (Trust) adalah komoditas ekonomi yang paling berharga. Tanpa mekanisme untuk mengatasi Dilema Tahanan, kolaborasi manusia akan runtuh.
+
+
+<!-- Chapter: 07_permainan-zero-sum-vs-non-zero-sum -->
+
+## Permainan Zero-Sum vs. Non-Zero-Sum: Memahami Dinamika Keuntungan
+
+Dalam perjalanan kita memahami Teori Permainan, salah satu klasifikasi yang paling mendasar dan penting adalah membedakan antara **Zero-Sum Games** dan **Non-Zero-Sum Games**. Perbedaan ini bukan sekadar istilah teknis, melainkan cerminan dari bagaimana sumber daya, nilai, dan kepentingan didistribusikan dalam sebuah interaksi strategis.
+
+Bayangkan sebuah kue di atas meja. Apakah kita hanya bisa memperebutkan potongan yang ada, atau mungkinkah kita bekerja sama untuk memanggang kue yang lebih besar? Pertanyaan inilah yang menjadi inti dari pembahasan kita kali ini.
+
+## 1. Permainan Zero-Sum: "Keuntunganmu adalah Kerugianku"
+
+**Permainan Zero-Sum** (Jumlah-Nol) adalah situasi kompetisi murni di mana total keuntungan dari seluruh pemain selalu tetap. Dalam skenario ini, setiap keuntungan yang diperoleh oleh satu pemain harus dibayar dengan kerugian yang setara oleh pemain lainnya.
+
+### Karakteristik Utama:
+
+- **Konflik Total:** Kepentingan para pemain saling bertentangan secara diametral. Tidak ada ruang untuk kerja sama karena tidak ada keuntungan kolektif yang bisa ditingkatkan.
+- **Jumlah Tetap:** Jika kita menjumlahkan semua *payoff* (hasil) dari para pemain, hasilnya akan selalu nol (atau konstanta tertentu).
+- **Matematika Zero-Sum:** Jika ada dua pemain, $P_1$ dan $P_2$, dengan hasil masing-masing $x$ dan $y$, persamaannya adalah:
+
+  $$
+  x + y = 0
+  $$
+
+  Artinya, jika Pemain 1 menang 10 poin ($x = 10$), Pemain 2 harus kalah 10 poin ($y = -10$).
+
+### Analogi: Memotong Kue yang Tetap
+
+Bayangkan sebuah kue ulang tahun. Jika kamu mengambil potongan yang lebih besar, potongan untuk teman kamu secara otomatis menjadi lebih kecil. Ukuran total kue tidak berubah; hanya distribusinya yang bergeser.
+
+**Contoh Klasik:**
+
+- **Catur atau Poker:** Dalam turnamen poker, total uang di meja tetap. Jika kamu memenangkan 1.000 dolar, uang itu berasal dari kantong pemain lain.
+- **Pasar Berjangka (Futures Market):** Dalam perdagangan derivatif, setiap rupiah yang dihasilkan oleh seorang *trader* adalah rupiah yang hilang dari *trader* lainnya.
+
+## 2. Permainan Non-Zero-Sum: "Membangun Nilai Bersama"
+
+**Permainan Non-Zero-Sum** adalah situasi di mana total keuntungan dan kerugian dari para pemain tidak berjumlah nol. Di sini, interaksi dapat menghasilkan nilai tambah (**Positive-Sum**) atau justru menghancurkan nilai (**Negative-Sum**).
+
+### Karakteristik Utama:
+
+- **Potensi Win-Win atau Lose-Lose:** Para pemain bisa berakhir lebih baik secara kolektif (kerjasama) atau lebih buruk (konflik yang merusak).
+- **Interdependensi:** Hasil yang diperoleh tidak selalu berarti kamu kehilangan sesuatu. Terkadang, langkah yang menguntungkan satu pihak juga bisa menguntungkan kamu.
+- **Matematika Non-Zero-Sum:**
+
+  $$
+  x + y \neq 0
+  $$
+
+### Jenis-Jenis Non-Zero-Sum:
+
+1. **Positive-Sum (Win-Win):** Total hasil meningkat. Contoh: Perdagangan internasional di mana kedua negara mendapatkan barang yang tidak bisa mereka produksi sendiri.
+2. **Negative-Sum (Lose-Lose):** Total hasil menurun. Contoh: Perang nuklir atau perang harga yang ekstrem di mana kedua pihak bangkrut karena biaya konflik melebihi keuntungan yang diperebutkan.
+
+> **Insight:** Dalam permainan non-zero-sum, strategi yang paling cerdas sering kali melibatkan koordinasi dan kepercayaan, bukan sekadar agresi.
+
+## 3. Perbandingan Strategis: Zero-Sum vs. Non-Zero-Sum
+
+| Fitur | Zero-Sum | Non-Zero-Sum |
+| --- | --- | --- |
+| **Sifat Hubungan** | Kompetitif murni / Antagonistik | Bisa kompetitif, bisa kooperatif |
+| **Total Hasil** | Tetap (Zero) | Variabel (Bisa bertambah/berkurang) |
+| **Tujuan Pemain** | Mengalahkan lawan | Mengoptimalkan hasil sendiri (bisa lewat kerja sama) |
+| **Contoh Dunia Nyata** | Judi, Olahraga kompetitif | Perdagangan, Diplomasi, Pernikahan |
+
+*Bahan Renungan: Apakah persaingan bisnis di industri yang sedang tumbuh (seperti teknologi AI saat ini) bersifat Zero-Sum atau Non-Zero-Sum? Bagaimana jika industrinya sudah jenuh (seperti pasar kartu ucapan fisik)?*
+
+## 4. Representasi dalam Matriks Payoff
+
+Dalam Teori Permainan, kita sering menggunakan matriks untuk melihat perbedaan ini secara visual.
+
+### Contoh Matriks Zero-Sum (Permainan Matching Pennies)
+
+Pemain A menang jika koin sama, Pemain B menang jika koin berbeda.
+
+|  | Pemain B: Gambar | Pemain B: Angka |
+| --- | --- | --- |
+| **Pemain A: Gambar** | (1, -1) | (-1, 1) |
+| **Pemain A: Angka** | (-1, 1) | (1, -1) |
+
+*Perhatikan bahwa dalam setiap sel, jumlahnya adalah $1 + (-1) = 0$.*
+
+### Contoh Matriks Non-Zero-Sum (Kerja Sama Tim)
+
+Dua rekan kerja memilih untuk bekerja keras atau malas.
+
+|  | Rekan B: Kerja Keras | Rekan B: Malas |
+| --- | --- | --- |
+| **Rekan A: Kerja Keras** | (5, 5) | (-2, 2) |
+| **Rekan A: Malas** | (2, -2) | (0, 0) |
+
+*Di sini, (5, 5) menunjukkan total hasil 10 (Positive-Sum). Jika keduanya malas (0,0), mereka tidak mendapatkan apa-apa.*
+
+## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
+
+### Skenario Bisnis: Penetrasi Pasar vs. Perang Harga
+
+- **Non-Zero-Sum:** Dua perusahaan kopi memutuskan untuk mengedukasi masyarakat tentang manfaat kesehatan kopi. Akibatnya, jumlah peminum kopi meningkat, dan kedua perusahaan mengalami kenaikan penjualan. Ini adalah **Win-Win Solution**.
+- **Zero-Sum:** Di pasar yang sudah jenuh (tidak ada peminum kopi baru), Perusahaan A meluncurkan kampanye iklan agresif untuk merebut pelanggan Perusahaan B. Setiap pelanggan baru bagi A adalah kehilangan bagi B.
+
+### Hubungan Internasional: Perdagangan vs. Wilayah
+
+- Perebutan wilayah perbatasan sering kali bersifat **Zero-Sum** (Tanah yang aku ambil adalah tanah yang kamu lepaskan).
+- Perjanjian perdagangan bebas bersifat **Non-Zero-Sum** karena memungkinkan spesialisasi yang meningkatkan kemakmuran global secara keseluruhan.
+
+## 6. Implementasi Sederhana: Mengecek Sifat Permainan (Python)
+
+Bagi kamu yang belajar dari sisi teknis atau algoritmik, berikut adalah potongan kode sederhana untuk memvalidasi apakah sebuah matriks permainan bersifat Zero-Sum.
+
+```python
+def check_game_type(matrix):
+    """
+    Memeriksa apakah matriks payoff merupakan Zero-Sum atau Non-Zero-Sum.
+    Format matrix: List of lists containing tuples (payoff_a, payoff_b)
+    """
+    is_zero_sum = True
+    
+    for row in matrix:
+        for payoff_a, payoff_b in row:
+            if payoff_a + payoff_b != 0:
+                is_zero_sum = False
+                break
+        if not is_zero_sum: break
+            
+    if is_zero_sum:
+        return "Permainan ini adalah Zero-Sum."
+    else:
+        return "Permainan ini adalah Non-Zero-Sum."
+
+# Contoh Matriks (Pemain A, Pemain B)
+game_1 = [[(1, -1), (-1, 1)], [(-1, 1), (1, -1)]] # Zero-Sum
+game_2 = [[(5, 5), (0, 10)], [(10, 0), (1, 1)]]   # Non-Zero-Sum (Dilema Tahanan)
+
+print(f"Game 1: {check_game_type(game_1)}")
+print(f"Game 2: {check_game_type(game_2)}")
+```
+
+## Ringkasan untuk Diingat
+
+> **Poin Kunci:**
+> 
+> - **Zero-Sum** adalah tentang pembagian sumber daya yang terbatas; kesuksesan satu pihak mengharuskan kegagalan kamu.
+> - **Non-Zero-Sum** mengakui bahwa melalui koordinasi, total nilai bisa ditambah (atau dikurangi).
+> - Kebanyakan interaksi manusia di dunia nyata (ekonomi, hubungan sosial, inovasi) bersifat **Non-Zero-Sum**, meskipun sering kali kita secara keliru menganggapnya sebagai Zero-Sum karena pola pikir kompetitif yang sempit.
+
+Memahami perbedaan ini memungkinkan kita untuk mengidentifikasi peluang kerja sama di tempat yang awalnya terlihat seperti konflik murni, yang merupakan inti dari strategi tingkat lanjut dalam kehidupan maupun bisnis.
+
+
+<!-- Chapter: 08_strategi-campuran -->
+
+## Strategi Campuran (Mixed Strategies): Seni Menjadi Tidak Terduga
+
+Bayangkan kamu sedang bermain **Batu-Gunting-Kertas**. Jika kamu selalu mengeluarkan "Batu", lawan kamu akan dengan mudah mengalahkan kamu dengan "Kertas". Jika kamu beralih ke pola yang terbaca (misalnya: Batu, lalu Gunting, lalu Kertas), lawan yang cerdas akan segera menyadari pola tersebut dan mengeksploitasinya.
+
+Dalam situasi ini, satu-satunya cara untuk tidak bisa dikalahkan secara konsisten adalah dengan menjadi **acak**. Inilah inti dari **Strategi Campuran** (*Mixed Strategies*).
+
+### 1. Mengapa Strategi Murni Terkadang Gagal?
+
+Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), di mana seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
+
+**Analogi: Penjaga Gawang vs. Penendang Penalti**  
+Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seorang kiper bisa melompat ke kiri atau ke kanan.
+
+- Jika kiper tahu striker akan menendang ke kiri, kiper akan melompat ke kiri.
+- Jika striker tahu kiper akan melompat ke kiri, striker akan menendang ke kanan.
+- Jika kiper tahu striker akan menendang ke kanan, kiper akan melompat ke kanan.
+
+Tidak ada titik "diam" di sini. Setiap kali satu pemain menetapkan satu pilihan pasti, pemain lain memiliki insentif untuk mengubah pilihannya. Inilah saat kita membutuhkan **Strategi Campuran**.
+
+### 2. Definisi Strategi Campuran
+
+**Strategi Campuran** adalah sebuah strategi di mana pemain menetapkan **probabilitas** untuk setiap strategi murni yang tersedia. Bukannya memilih satu aksi secara permanen, pemain "mengocok" pilihan mereka berdasarkan distribusi peluang tertentu.
+
+> **Definisi Formal:** Jika seorang pemain memiliki strategi murni $S_1, S_2, \dots, S_n$, maka strategi campuran adalah vektor probabilitas $P = (p_1, p_2, \dots, p_n)$ sedemikian sehingga:
+>
+> $$
+> \sum_{i=1}^{n} p_i = 1 \quad \text{dan} \quad p_i \geq 0
+> $$
+
+Dalam Batu-Gunting-Kertas, Ekuilibrium Nash tercapai ketika setiap pemain memilih masing-masing pilihan dengan probabilitas tepat $1/3$. Jika kamu melakukan ini, lawan kamu tidak bisa mendapatkan keuntungan lebih, apa pun strategi yang mereka gunakan.
+
+### 3. Menghitung Ekuilibrium Strategi Campuran
+
+Bagaimana kita menentukan probabilitas yang tepat? Kuncinya adalah **Prinsip Indiferensi** (*Indifference Principle*).
+
+Agar sebuah strategi campuran menjadi Ekuilibrium Nash, probabilitas yang kamu pilih harus membuat lawan kamu merasa **sama saja** (*indifferent*) antara pilihan-pilihan yang mereka miliki. Jika lawan merasa satu pilihan lebih menguntungkan daripada yang lain, mereka akan mengeksploitasi pilihan itu, dan strategi kamu belum optimal.
+
+#### Contoh Kasus: Permainan "Matching Pennies"
+
+Dua pemain, A dan B, masing-masing menaruh koin di meja secara sembunyi-sembunyi (Angka atau Gambar).
+
+- Jika koin **cocok** (A: Angka, B: Angka), Pemain A menang (mendapat 1 poin dari B).
+- Jika koin **berbeda** (A: Angka, B: Gambar), Pemain B menang (mendapat 1 poin dari A).
+
+**Matriks Hasil (*Payoff Matrix*):**
+
+| Pemain A \ Pemain B | Angka ($q$) | Gambar ($1-q$) |
+| --- | --- | --- |
+| **Angka ($p$)** | (1, -1) | (-1, 1) |
+| **Gambar ($1-p$)** | (-1, 1) | (1, -1) |
+
+*Mari kita hitung probabilitas $p$ untuk Pemain A:*
+
+1. Hitung ekspektasi hasil (*Expected Payoff*) Pemain B jika dia memilih Angka:
+
+   $$
+   E_B(\text{Angka}) = p(-1) + (1-p)(1) = 1 - 2p
+   $$
+
+2. Hitung ekspektasi hasil Pemain B jika dia memilih Gambar:
+
+   $$
+   E_B(\text{Gambar}) = p(1) + (1-p)(-1) = 2p - 1
+   $$
+
+3. Buat Pemain B tidak peduli (*indifferent*) dengan menyamakan keduanya:
+
+   $$
+   1 - 2p = 2p - 1
+   $$
+
+   $$
+   2 = 4p
+   $$
+
+   $$
+   p = 0{,}5
+   $$
+
+Artinya, Pemain A harus memilih Angka 50% dari waktu dan Gambar 50% dari waktu agar Pemain B tidak bisa memprediksi dan memenangkan permainan.
+
+### 4. Implementasi dalam Kode (Python)
+
+Dalam dunia nyata, kita bisa menggunakan pustaka seperti `Nashpy` untuk mencari ekuilibrium strategi campuran secara otomatis.
+
+```python
+import nashpy as nash
+import numpy as np
+
+# Membuat matriks payoff untuk Matching Pennies
+# Pemain A (Baris), Pemain B (Kolom)
+A = np.array([[1, -1], [-1, 1]])
+B = np.array([[-1, 1], [1, -1]])
+
+# Inisialisasi permainan
+matching_pennies = nash.Game(A, B)
+
+# Menghitung Ekuilibrium Nash
+equilibria = matching_pennies.support_enumeration()
+
+print("Ekuilibrium Strategi Campuran:")
+for eq in equilibria:
+    print(f"Pemain A: {eq[0]}")
+    print(f"Pemain B: {eq[1]}")
+```
+
+*Hasilnya akan menunjukkan bahwa kedua pemain harus memilih masing-masing aksi dengan peluang 0,5.*
+
+### 5. Aplikasi Dunia Nyata dan Kasus Praktis
+
+Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
+
+#### A. Keamanan Siber dan Audit
+
+Bayangkan tim IT yang harus memeriksa peladen (*server*) dari serangan. Jika mereka selalu memeriksa peladen yang sama pada jam yang sama, peretas akan menyerang peladen lain.
+
+- **Aplikasi:** Auditor pajak atau petugas keamanan bandara menggunakan algoritma strategi campuran untuk menentukan jadwal inspeksi secara acak sehingga pelaku kejahatan tidak bisa menemukan celah waktu atau lokasi yang aman.
+
+#### B. Strategi Olahraga
+
+Dalam tenis, jika seorang pemain selalu melakukan servis *wide* (melebar) saat poin kritis, lawan akan bersiap di posisi tersebut.
+
+- **Fakta Menarik:** Penelitian terhadap data servis tenis profesional menunjukkan bahwa pemain papan atas dunia memiliki distribusi servis yang mendekati Ekuilibrium Nash strategi campuran, sehingga servis mereka hampir tidak mungkin diprediksi secara statistik.
+
+#### C. Penegakan Hukum
+
+Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan menggunakan strategi campuran, mereka dapat membagi personel secara acak di berbagai titik rawan. Ketidakpastian ini memaksa pengemudi untuk tetap patuh di mana pun mereka berada karena siapa tahu ada polisi di sana.
+
+### 6. Ringkasan Visual
+
+| Aspek | Strategi Murni | Strategi Campuran |
+| --- | --- | --- |
+| **Kepastian** | Deterministik (Pasti) | Probabilistik (Peluang) |
+| **Kapan Digunakan** | Saat ada satu pilihan terbaik yang stabil | Saat tidak ada ekuilibrium tunggal/perlu mengejutkan lawan |
+| **Tujuan Utama** | Memaksimalkan hasil langsung | Mencegah eksploitasi oleh lawan |
+| **Contoh** | Membeli barang termurah | Menentukan rute patroli keamanan |
+
+### 7. Refleksi dan Latihan
+
+- **Pertanyaan Refleksi:** *Dalam kehidupan sehari-hari, pernahkah kamu sengaja bersikap tidak terduga agar orang lain tidak bisa menebak langkahmu? Apakah itu secara tidak sadar merupakan bentuk strategi campuran?*
+
+**Latihan Cepat:** Dalam permainan Batu-Gunting-Kertas, jika lawan kamu ternyata sangat sering mengeluarkan **Batu** (misal 60% waktu), apa yang harus kamu lakukan dengan strategi campuranmu untuk mengeksploitasi kelemahan tersebut? *(Petunjuk: Kamu tidak lagi harus 1/3, 1/3, 1/3. Kamu harus menyesuaikan probabilitasmu untuk lebih sering mengeluarkan Kertas!)*
+
+> **Pesan Utama:** Strategi campuran mengajarkan kita bahwa dalam dunia yang kompetitif, **ketidakpastian adalah aset**. Dengan menjadi acak secara terukur, kamu menciptakan pertahanan yang solid terhadap lawan yang paling cerdas sekalipun.
+
+
+<!-- Chapter: 09_permainan-sekuensial-dan-induksi-mundur -->
+
+## Permainan Sekuensial dan Induksi Mundur: Menatap Masa Depan untuk Menentukan Masa Kini
+
+Bayangkan kamu sedang bermain catur. Sebelum kamu menggerakkan bidak, kamu tidak hanya memikirkan posisi saat ini, tetapi kamu mencoba membayangkan: *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
+
+Inilah inti dari **Permainan Sekuensial**. Berbeda dengan permainan simultan (seperti Batu-Gunting-Kertas) di mana semua orang bergerak bersamaan, dalam permainan sekuensial, urutan waktu dan informasi adalah segalanya.
+
+## 1. Apa Itu Permainan Sekuensial?
+
+**Permainan Sekuensial** adalah situasi strategis di mana para pemain melakukan langkah secara bergantian. Pemain yang bergerak belakangan memiliki keuntungan informasi: mereka bisa melihat apa yang dilakukan pemain sebelumnya sebelum menentukan langkah mereka sendiri.
+
+**Karakteristik Utama:**
+
+- **Urutan (Turns):** Ada pemain pertama, kedua, dan seterusnya.
+- **Informasi Sempurna (Perfect Information):** Pemain mengetahui langkah yang telah diambil sebelumnya (meskipun tidak selalu demikian dalam semua model, kita akan fokus pada informasi sempurna di sini).
+- **Representasi:** Biasanya digambarkan menggunakan **Bentuk Ekstensif** atau sering disebut sebagai **Pohon Permainan (Game Tree)**.
+
+## 2. Mengenal Pohon Permainan (Game Tree)
+
+Sebelum kita melakukan analisis, kita harus memahami struktur "peta" permainan ini:
+
+1. **Simpul Keputusan (Decision Nodes):** Titik di mana seorang pemain harus memilih tindakan.
+2. **Cabang (Branches):** Mewakili pilihan tindakan yang tersedia.
+3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil ditentukan.
+4. **Hasil (Payoffs):** Angka yang menunjukkan keuntungan/kerugian bagi setiap pemain di akhir jalur tertentu.
+
+## 3. Induksi Mundur (Backward Induction): Logika Detektif
+
+Teknik paling ampuh untuk memecahkan permainan sekuensial adalah **Induksi Mundur (Backward Induction)**.
+
+> **Insight:** Induksi mundur adalah proses menganalisis permainan dari akhir (langkah terakhir) kembali ke awal untuk menentukan urutan langkah yang optimal.
+
+### Mengapa Harus dari Belakang?
+
+Karena untuk mengetahui apa yang harus kamu lakukan sekarang (langkah pertama), kamu harus tahu bagaimana lawanmu akan bereaksi nanti. Dan untuk tahu bagaimana lawan bereaksi, kamu harus tahu bagaimana kamu akan menanggapi reaksi tersebut, dan seterusnya hingga permainan berakhir.
+
+### Langkah-langkah Melakukan Induksi Mundur:
+
+1. Pergilah ke simpul keputusan terakhir dalam pohon permainan (paling kanan atau paling bawah).
+2. Tentukan tindakan mana yang akan diambil oleh pemain di simpul tersebut untuk memaksimalkan hasil (*payoff*) mereka sendiri.
+3. Hapus pilihan lain yang tidak optimal (cabang yang "layu").
+4. Anggap hasil dari pilihan optimal tersebut sebagai hasil dari simpul itu.
+5. Bergerak mundur ke simpul keputusan sebelumnya dan ulangi proses tersebut hingga mencapai awal permainan.
+
+## 4. Studi Kasus: Permainan Masuk Pasar (Market Entry)
+
+Mari kita gunakan skenario nyata untuk memahami konsep ini.
+
+**Skenario:** Ada dua perusahaan: **Pendatang (P)** dan **Petahana (B)**.
+
+1. **P** harus memilih: **Masuk** ke pasar atau **Tetap Keluar**.
+2. Jika **P** masuk, **B** (yang sudah ada di pasar) punya dua pilihan: **Bertarung** (perang harga) atau **Akomodasi** (berbagi pasar).
+
+**Data Hasil (Payoff):** (Pendatang, Petahana)
+
+- Jika P Tetap Keluar: $(0, 10)$
+- Jika P Masuk dan B Bertarung: $(-2, -1)$
+- Jika P Masuk dan B Akomodasi: $(2, 5)$
+
+### Analisis dengan Induksi Mundur:
+
+1. **Lihat Langkah Terakhir:** Langkah terakhir ada di tangan **Petahana (B)** jika P masuk.
+   - Jika B Bertarung, hasilnya $-1$.
+   - Jika B Akomodasi, hasilnya $5$.
+   - *Pilihan Rasional B:* B akan memilih **Akomodasi** karena $5 > -1$.
+2. **Bergerak Mundur ke Langkah Pertama:** Sekarang **Pendatang (P)** membuat keputusan. P tahu bahwa jika dia masuk, B pasti akan memilih Akomodasi (berdasarkan analisis langkah 1).
+   - Jika P Masuk: Dia akan mendapat $2$ (karena B akan akomodasi).
+   - Jika P Tetap Keluar: Dia mendapat $0$.
+   - *Pilihan Rasional P:* P akan memilih **Masuk** karena $2 > 0$.
+
+**Hasil Akhir (Ekuilibrium):** Pendatang Masuk, dan Petahana melakukan Akomodasi.
+
+## 5. Ekuilibrium Nash Sempurna Subpermainan (Subgame Perfect Nash Equilibrium - SPNE)
+
+Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Equilibrium (SPNE)**. Ini adalah konsep yang lebih kuat daripada Ekuilibrium Nash biasa.
+
+**Mengapa ini penting?** Dalam permainan sekuensial, seringkali ada "ancaman kosong" (*incredible threats*). Misalnya, Petahana (B) mungkin mengancam: *"Kalau kamu masuk, saya akan bertarung sampai kita berdua bangkrut!"*
+
+Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
+
+## 6. Contoh Teknis: Kode Logika Sederhana
+
+Dalam pemrograman atau AI, kita sering menggunakan algoritma **Minimax** (bentuk dari induksi mundur) untuk permainan seperti Tic-Tac-Toe.
+
+```python
+# Pseudo-code logika induksi mundur sederhana
+def decision_making(node):
+    if node.is_terminal():
+        return node.payoff
+    
+    # Pemain ingin memaksimalkan payoff-nya
+    best_value = -float(''inf'')
+    for action in node.possible_actions():
+        value = decision_making(action.result_node())
+        best_value = max(best_value, value)
+    
+    return best_value
+
+# Hasilnya adalah nilai terbaik yang bisa didapat 
+# dengan asumsi lawan juga bermain optimal secara mundur.
+```
+
+## 7. Aplikasi Dunia Nyata dan Kasus Praktis
+
+1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
+2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini.
+3. **Strategi Militer:** Analisis langkah-demi-langkah dalam penyebaran pasukan, di mana reaksi musuh terhadap setiap gerakan harus diantisipasi sebelum perintah pertama diberikan.
+
+## 8. Tantangan dan Batasan
+
+Meskipun secara teori sangat kuat, induksi mundur memiliki kelemahan dalam praktik:
+
+- **Rasionalitas Terbatas (Bounded Rationality):** Manusia tidak selalu rasional secara sempurna. Kadang orang melakukan tindakan balas dendam meskipun itu merugikan diri mereka sendiri (menghancurkan asumsi SPNE).
+- **Kompleksitas Komputasi:** Dalam permainan seperti Catur atau Go, jumlah kemungkinan langkah sangat besar sehingga tidak mungkin melakukan induksi mundur hingga ke akhir yang absolut bagi otak manusia (dan bahkan komputer super).
+- **Masalah Kepercayaan:** Jika ada ketidakpastian informasi, induksi mundur menjadi jauh lebih sulit dilakukan.
+
+### Bahan Pertimbangan:
+
+> Jika kamu sedang bernegosiasi dengan seseorang yang dikenal sangat emosional dan tidak rasional, apakah teknik Induksi Mundur masih bisa diandalkan sepenuhnya? Mengapa strategi "ancaman gila" terkadang berhasil dalam politik internasional meskipun secara matematis tidak rasional?
+
+**Poin Penting untuk Diingat:**
+
+- **Induksi Mundur** adalah cara berpikir "Melihat ke Depan, Menalar ke Belakang" (*Look forward, reason backward*).
+- Gunakan **Pohon Permainan** untuk memetakan setiap kemungkinan.
+- Abaikan **ancaman yang tidak kredibel**; fokuslah pada apa yang akan dilakukan pemain secara rasional saat mereka benar-benar berada di posisi tersebut.
+
+
+<!-- Chapter: 10_permainan-berulang -->
+
+## Permainan Berulang (Repeated Games): Membangun Kepercayaan Melalui Interaksi Berkelanjutan
+
+Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner''s Dilemma)** di mana dua pihak sering kali berakhir dengan hasil buruk karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
+
+**Permainan Berulang (Repeated Games)** adalah cabang dari teori permainan yang mempelajari bagaimana perilaku manusia berubah ketika interaksi terjadi berkali-kali. Di sini, dimensi waktu dan masa depan menjadi faktor penentu keputusan kita.
+
+## 1. Konsep Dasar: Bayangan Masa Depan (The Shadow of the Future)
+
+Apa yang membedakan satu kali pertemuan dengan pertemuan yang berulang? Jawabannya adalah **Reputasi** dan **Pembalasan**.
+
+> "Jika saya menipu kamu hari ini, saya mungkin untung sekarang. Tetapi jika saya harus bertemu kamu lagi besok, kamu mungkin tidak akan mau bekerja sama lagi dengan saya."
+
+Dalam permainan berulang, pemain harus mempertimbangkan bukan hanya hasil saat ini (payoff), tetapi juga dampak tindakan mereka terhadap hasil di masa depan. Konsep ini disebut sebagai **Shadow of the Future**. Semakin besar kemungkinan kita bertemu lagi di masa depan, semakin besar insentif kita untuk bekerja sama.
+
+### Faktor Diskonto (Discount Factor) $\delta$
+
+Dalam matematika teori permainan, kita menggunakan simbol $\delta$ (delta) untuk mewakili seberapa besar kita menghargai hasil di masa depan dibandingkan hasil saat ini.
+
+- Jika $\delta$ mendekati 1, kita sangat peduli dengan masa depan.
+- Jika $\delta$ mendekati 0, kita hanya peduli dengan hari ini (oportunis).
+
+Nilai sekarang ($\text{PV}$) dari serangkaian keuntungan dapat dirumuskan sebagai:
+
+$$
+\text{PV} = \pi_0 + \delta \pi_1 + \delta^2 \pi_2 + \dots = \sum_{t=0}^{\infty} \delta^t \pi_t
+$$
+
+## 2. Permainan Berulang Terbatas vs. Tak Terbatas
+
+Perilaku pemain sangat bergantung pada apakah mereka tahu kapan permainan akan berakhir.
+
+### A. Permainan Berulang Terbatas (Finitely Repeated Games)
+
+Jika pemain tahu persis bahwa permainan akan berakhir pada ronde ke-10, sebuah fenomena menarik terjadi yang disebut **Induksi Mundur (Backward Induction)**:
+
+1. Pada ronde ke-10 (terakhir), tidak ada masa depan lagi. Maka, pemain akan berbuat curang (defect) seperti dalam permainan satu kali.
+2. Karena semua tahu semua orang akan curang di ronde ke-10, maka di ronde ke-9 tidak ada gunanya membangun kepercayaan. Pemain akan curang di ronde ke-9.
+3. Pola ini berlanjut hingga ke ronde pertama.
+
+*Coba renungkan: Jika kamu tahu seorang penyewa rumah akan pindah bulan depan dan tidak akan pernah bertemu kamu lagi, apakah kamu tetap memberikan pelayanan yang sama maksimalnya dengan penyewa yang baru saja menandatangani kontrak 5 tahun?*
+
+### B. Permainan Berulang Tak Terbatas (Infinitely Repeated Games)
+
+Dalam kenyataannya, kita sering tidak tahu kapan sebuah hubungan akan berakhir. Ketidakpastian inilah yang memungkinkan **Kerja Sama (Cooperation)** tetap bertahan sebagai Ekuilibrium Nash. Selama peluang untuk bertemu kembali cukup tinggi, rasa takut akan pembalasan di masa depan menjaga perilaku pemain tetap jujur.
+
+## 3. Strategi dalam Permainan Berulang
+
+Bagaimana kita harus bertindak jika lawan main kita bisa membalas di masa depan? Berikut adalah dua strategi yang paling terkenal:
+
+### 1. Tit-for-Tat (Mata Ganti Mata)
+
+Strategi ini dipopulerkan oleh Anatol Rapoport dalam kompetisi yang diadakan oleh Robert Axelrod. Aturannya sangat sederhana:
+
+- **Ronde 1:** Bekerja sama.
+- **Ronde selanjutnya:** Lakukan apa pun yang dilakukan lawan pada ronde sebelumnya.
+
+**Mengapa Tit-for-Tat sangat efektif?**
+
+- **Ramah:** Tidak pernah menjadi yang pertama untuk berbuat curang.
+- **Tegas:** Langsung membalas jika lawan berbuat curang.
+- **Pemaaf:** Jika lawan kembali bekerja sama, ia akan membalas dengan kerja sama lagi.
+- **Jelas:** Lawan dapat dengan mudah memahami pola perilaku kita.
+
+### 2. Strategi Grim Trigger (Pemicu Kejam)
+
+Ini adalah strategi yang jauh lebih ekstrem:
+
+- Bekerja sama selama lawan bekerja sama.
+- Jika lawan berbuat curang **satu kali saja**, maka kamu akan berbuat curang selamanya sebagai hukuman.
+
+> **Pelajaran Utama:** Grim Trigger efektif untuk menakut-nakuti lawan agar tidak berbuat curang, namun sangat rapuh karena satu kesalahan kecil atau kesalahpahaman akan menghancurkan hubungan selamanya.
+
+## 4. Teorema Folk (The Folk Theorem)
+
+Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulang tak terbatas, hampir semua hasil yang saling menguntungkan (di mana setiap pemain mendapatkan lebih dari yang mereka dapatkan jika mereka saling menjatuhkan) dapat dicapai sebagai Ekuilibrium Nash, asalkan pemain cukup sabar ($\delta$ cukup tinggi).
+
+Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung sangat jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
+
+## 5. Implementasi Kode: Simulasi Tit-for-Tat
+
+Mari kita lihat bagaimana strategi ini bekerja dalam simulasi sederhana menggunakan Python.
+
+```python
+def repeated_game_simulation(rounds):
+    # Strategi Tit-for-Tat vs Pemain yang sesekali curang
+    my_history = [''C''] # C = Cooperate, D = Defect
+    opponent_history = [''C'']
+    
+    payoff_matrix = {
+        (''C'', ''C''): (3, 3),
+        (''C'', ''D''): (0, 5),
+        (''D'', ''C''): (5, 0),
+        (''D'', ''D''): (1, 1)
+    }
+
+    total_score_me = 0
+    total_score_opp = 0
+
+    for r in range(rounds):
+        # Tit-for-Tat: Ikuti langkah lawan sebelumnya
+        my_move = opponent_history[-1]
+        
+        # Lawan: Curang secara acak pada ronde ke-3
+        opponent_move = ''C''
+        if r == 2:
+            opponent_move = ''D''
+            
+        # Simpan riwayat
+        my_history.append(my_move)
+        opponent_history.append(opponent_move)
+        
+        # Hitung skor
+        p1, p2 = payoff_matrix[(my_move, opponent_move)]
+        total_score_me += p1
+        total_score_opp += p2
+        
+        print(f"Ronde {r+1}: Saya({my_move}) vs Lawan({opponent_move}) -> Skor: {total_score_me}, {total_score_opp}")
+
+repeated_game_simulation(5)
+```
+
+## 6. Aplikasi Dunia Nyata
+
+### Perang Harga di Industri Maskapai
+
+Dua maskapai penerbangan mungkin tergoda untuk menurunkan harga tiket secara drastis untuk merebut pelanggan. Namun, karena mereka berkompetisi setiap hari (permainan berulang), mereka tahu jika satu maskapai menurunkan harga, yang lain akan membalas. Akhirnya, keduanya akan rugi. Hasilnya? Harga seringkali stabil di level tinggi karena adanya kesadaran akan "pembalasan" di masa depan.
+
+### Perjanjian Internasional
+
+Negara-negara mematuhi perjanjian pengurangan emisi atau nuklir bukan karena ada polisi dunia yang menangkap mereka, melainkan karena mereka tahu jika mereka melanggar janji, negara lain akan membatalkan kerja sama di bidang ekonomi atau keamanan di masa depan.
+
+### Langganan (Subscription Services)
+
+Perusahaan seperti Netflix atau Spotify memperlakukan kamu dalam konteks permainan berulang. Mereka bersedia merugi di bulan pertama (free trial) demi membangun hubungan jangka panjang di mana kamu terus membayar iuran bulanan selama bertahun-tahun.
+
+## Kesimpulan
+
+Permainan Berulang mengajarkan kita bahwa **etika dan kepercayaan bukan sekadar nilai moral, melainkan strategi matematika yang optimal**. Dalam dunia yang saling terhubung, bertindak egois dalam jangka pendek sering kali menjadi kerugian besar dalam jangka panjang.
+
+**Poin Utama untuk Diingat:**
+
+- **Reputasi adalah modal:** Dalam interaksi berulang, perilaku masa lalu adalah sinyal masa depan.
+- **Tit-for-Tat adalah keseimbangan:** Jadilah ramah tapi jangan biarkan diri kamu diinjak-injak.
+- **Kesabaran itu menguntungkan:** Pemain yang menghargai masa depan ($\delta$ tinggi) cenderung menciptakan kerja sama yang stabil.
+
+*Refleksi: Dalam hubungan profesional kamu saat ini, apakah kamu sedang bermain dalam mode "Sekali Saja" atau "Berulang"? Bagaimana hal itu memengaruhi cara kamu bernegosiasi?*
+
+
+<!-- Chapter: 11_teori-permainan-kooperatif-dan-nilai-shapley -->
+
+## Teori Permainan Kooperatif dan Nilai Shapley: Seni Berbagi Secara Adil
+
+Dalam bagian-bagian sebelumnya, kita banyak belajar tentang bagaimana pemain bersaing untuk mendapatkan hasil terbaik bagi diri mereka sendiri. Namun, di dunia nyata, sering kali jauh lebih menguntungkan jika kita bekerja sama daripada saling menjatuhkan.
+
+Selamat datang di dunia **Teori Permainan Kooperatif**. Di sini, fokus kita bergeser dari "Bagaimana saya menang?" menjadi "Bagaimana kita bisa bekerja sama, dan bagaimana kita membagi keuntungannya dengan adil?"
+
+## 1. Apa itu Teori Permainan Kooperatif?
+
+Berbeda dengan permainan non-kooperatif (seperti Dilema Tahanan) di mana pemain tidak bisa membuat kesepakatan yang mengikat, dalam **permainan kooperatif**, pemain dapat berkomunikasi, membentuk kelompok yang disebut **koalisi**, dan membuat perjanjian yang berkekuatan hukum atau moral.
+
+### Konsep Utama: Fungsi Karakteristik
+
+Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu yang bisa mereka capai jika bekerja sama. Ini disebut sebagai **Fungsi Karakteristik**, dilambangkan dengan $v(S)$, di mana $S$ adalah sebuah koalisi.
+
+- **Koalisi Besar (Grand Coalition):** Situasi di mana semua pemain dalam permainan bergabung menjadi satu kelompok besar.
+- **Nilai Koalisi ($v$):** Jumlah total keuntungan (atau penghematan biaya) yang dihasilkan oleh kelompok tersebut.
+
+> **Analogi Sederhana:** Bayangkan tiga orang teman: Andi, Budi, dan Caca.
+> 
+> - Andi punya tepung.
+> - Budi punya telur.
+> - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue raksasa seharga Rp100.000. Masalahnya: **Siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
+
+## 2. Nilai Shapley: Definisi Keadilan
+
+Pertanyaan tentang "pembagian yang adil" adalah inti dari karya **Lloyd Shapley**, yang memenangkan Hadiah Nobel Ekonomi pada tahun 2012. **Nilai Shapley (Shapley Value)** adalah cara untuk membagi total keuntungan di antara para pemain berdasarkan kontribusi rata-rata mereka terhadap semua kemungkinan koalisi yang ada.
+
+### Mengapa Kita Butuh Nilai Shapley?
+
+Kita tidak bisa sekadar membagi rata. Jika Andi memberikan kontribusi yang jauh lebih besar daripada Caca, pembagian rata akan terasa tidak adil. Nilai Shapley memberikan solusi matematis yang memenuhi kriteria "adil" melalui empat aksioma utama:
+
+1. **Efisiensi (Efficiency):** Seluruh keuntungan harus dibagikan habis kepada para pemain. Tidak ada sisa dan tidak ada kekurangan.
+2. **Simetri (Symmetry):** Jika dua pemain memiliki kontribusi yang sama persis di setiap situasi, mereka harus mendapatkan bagian yang sama.
+3. **Pemain Nol (Null Player):** Jika seorang pemain tidak menambah nilai apa pun pada koalisi mana pun, dia mendapatkan nol.
+4. **Aditif (Additivity):** Jika ada dua permainan berbeda, total bagian pemain adalah jumlah bagian dari masing-masing permainan tersebut.
+
+## 3. Matematika di Balik Nilai Shapley
+
+Untuk menghitung Nilai Shapley bagi pemain $i$, kita melihat kontribusi marginalnya. Kontribusi marginal adalah: *Berapa banyak nilai yang bertambah ketika pemain $i$ bergabung ke dalam kelompok yang sudah ada?*
+
+Rumusnya adalah:
+
+$$
+\phi_i(v) = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \{i\}) - v(S)]
+$$
+
+**Keterangan:**
+
+- $n$: Jumlah total pemain.
+- $S$: Sebuah koalisi yang tidak menyertakan pemain $i$.
+- $v(S \cup \{i\}) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
+- $\frac{|S|! (n - |S| - 1)!}{n!}$: Probabilitas pemain $i$ bergabung ke koalisi tersebut dalam urutan acak.
+
+*Apakah adil jika seseorang yang bergabung terakhir mendapatkan bagian yang sama dengan orang yang merintis dari awal? Nilai Shapley menjawab ini dengan merata-ratakan semua urutan kedatangan yang mungkin.*
+
+## 4. Contoh Perhitungan: Masalah Taksi
+
+Mari kita lihat skenario dunia nyata yang sering kita alami.
+
+**Skenario:** Tiga orang (A, B, dan C) berbagi taksi untuk pulang.
+
+- Rumah A berjarak Rp10.000 (jika naik sendiri).
+- Rumah B berjarak Rp20.000.
+- Rumah C berjarak Rp30.000. Taksi tersebut melewati jalur yang sama, sehingga total biaya untuk mengantar ketiganya adalah Rp30.000. Bagaimana mereka harus membagi biayanya?
+
+**Langkah-langkah Nilai Shapley:**
+
+1. **Pemain A:** Dia harus membayar bagian dari biaya sampai ke rumahnya. Karena ada 3 orang yang menikmati perjalanan tersebut, A membayar $10.000 / 3 = 3.333$.
+2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi: $(10.000/3) + (10.000/2) = 3.333 + 5.000 = 8.333$.
+3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi: $(10.000/3) + (10.000/2) + 10.000 = 3.333 + 5.000 + 10.000 = 18.333$.
+
+**Total:** $3.333 + 8.333 + 18.333 \approx 30.000$.
+
+## 5. Aplikasi Dunia Nyata
+
+Konsep kooperatif dan Nilai Shapley bukan hanya teori di atas kertas. Ini digunakan di berbagai bidang canggih:
+
+### A. Alokasi Biaya Bandara (The Airport Problem)
+
+Bandara melayani berbagai jenis pesawat, mulai dari jet kecil hingga Boeing 747. Pesawat besar butuh landasan pacu yang lebih panjang dan kuat (lebih mahal). Nilai Shapley digunakan untuk menentukan biaya pendaratan yang adil bagi setiap jenis pesawat sehingga maskapai kecil tidak mensubsidi maskapai besar secara tidak proporsional.
+
+### B. Machine Learning (Explainable AI)
+
+Dalam kecerdasan buatan, kita sering bertanya: *"Fitur mana yang paling berpengaruh terhadap prediksi model?"* Para ahli menggunakan **SHAP (SHapley Additive exPlanations)** untuk memecah kontribusi setiap variabel input terhadap hasil akhir model.
+
+### C. Kekuatan Pemungutan Suara (Voting Power)
+
+Dalam parlemen atau dewan direksi, jumlah kursi tidak selalu mencerminkan kekuatan sebenarnya. Nilai Shapley-Shubik membantu mengukur seberapa sering seorang pemain menjadi "penentu" (pivotal) dalam sebuah pemungutan suara untuk meloloskan kebijakan.
+
+## 6. Ringkasan Strategis
+
+> **Pesan Utama:** Teori permainan kooperatif mengajarkan kita bahwa sinergi kelompok dapat menciptakan nilai yang lebih besar daripada usaha individu. Namun, keberlanjutan kerja sama sangat bergantung pada **mekanisme pembagian yang dirasakan adil oleh semua anggota.**
+
+**Latihan Cepat (Kinestetik):** Cobalah hitung pembagian biaya langganan paket keluarga (seperti Netflix atau Spotify) di antara teman-teman kamu menggunakan logika Nilai Shapley jika setiap orang memiliki frekuensi penggunaan yang berbeda. Apakah hasil pembagiannya berbeda jauh dengan pembagian rata?
+
+*Bagian selanjutnya akan membahas bagaimana konsep-konsep ini diterapkan secara luas dalam strategi persaingan bisnis dan ekonomi makro.*
+
+
+<!-- Chapter: 12_aplikasi-teori-permainan-dalam-ekonomi-dan-bisnis -->
+
+## Aplikasi Teori Permainan dalam Ekonomi dan Bisnis
+
+Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple selalu meluncurkan produk di waktu yang hampir bersamaan? Atau mengapa harga tiket pesawat bisa berubah secara drastis hanya dalam hitungan jam? Selamat datang di "papan catur" ekonomi. Di sini, kesuksesan sebuah bisnis tidak hanya ditentukan oleh keputusannya sendiri, tetapi juga oleh bagaimana keputusan tersebut berinteraksi dengan langkah para pesaingnya.
+
+Dalam bagian ini, kita akan mengeksplorasi bagaimana Teori Permainan menjadi alat navigasi utama dalam memahami persaingan pasar, dinamika harga, dan kecerdasan di balik sistem lelang.
+
+## 1. Persaingan Oligopoli: Catur Antar Raksasa
+
+Oligopoli adalah struktur pasar di mana hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
+
+Ada dua model klasik dalam Teori Permainan yang menjelaskan perilaku ini:
+
+### A. Model Cournot (Persaingan Kuantitas)
+
+Bayangkan dua produsen minyak, A dan B. Dalam model ini, mereka bersaing dengan menentukan **berapa banyak jumlah (kuantitas) barang** yang akan diproduksi.
+
+- **Logika Permainan:** Jika Perusahaan A memproduksi terlalu banyak, harga pasar akan jatuh, merugikan kedua pihak. Jika mereka memproduksi terlalu sedikit, mereka kehilangan potensi keuntungan.
+- **Hasil:** Keduanya akan mencapai titik keseimbangan di mana masing-masing perusahaan memilih jumlah produksi optimal dengan asumsi jumlah produksi lawan tetap.
+- **Matematika Sederhana:** Jika total kuantitas adalah $Q = q_1 + q_2$, maka harga $P$ adalah fungsi dari $Q$, yaitu $P(Q)$. Profit masing-masing perusahaan adalah:
+
+  $$
+  \pi_i = P(q_1 + q_2) \cdot q_i - C(q_i)
+  $$
+
+### B. Model Bertrand (Persaingan Harga)
+
+Berbeda dengan Cournot, model Bertrand berasumsi bahwa perusahaan bersaing melalui **harga**.
+
+- **Logika Permainan:** Konsumen akan selalu membeli dari perusahaan yang menawarkan harga terendah. Jika Perusahaan A menjual seharga Rp10.000, maka Perusahaan B akan menurunkan harga menjadi Rp9.900 untuk merebut seluruh pasar.
+- **Paradoks Bertrand:** Proses saling "potong harga" ini akan terus berlanjut hingga harga mencapai Biaya Marjinal ($P = \text{MC}$). Secara teori, bahkan hanya dengan dua perusahaan, persaingan harga bisa memaksa keuntungan menjadi nol, mirip dengan pasar persaingan sempurna.
+
+> **Insight Penting:** Dalam dunia nyata, perusahaan berusaha menghindari Paradoks Bertrand dengan melakukan **diferensiasi produk** (merek, fitur, atau layanan) sehingga mereka tidak hanya bersaing di harga.
+
+## 2. Perang Harga: Dilema Tahanan di Rak Supermarket
+
+Mengapa perang harga sering kali merugikan semua orang yang terlibat? Kita bisa melihat ini sebagai aplikasi dari **Dilema Tahanan (Prisoner''s Dilemma)**.
+
+Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melayani rute yang sama.
+
+1. Jika keduanya menjaga harga tinggi (Kolusi), keduanya mendapat untung besar.
+2. Jika salah satu menurunkan harga sementara yang lain tetap tinggi, si pemotong harga akan merebut semua penumpang dan mendapat untung sangat besar.
+3. Jika keduanya menurunkan harga (Perang Harga), keduanya mendapat untung yang sangat kecil.
+
+| Strategi | Mega Flight (Harga Tinggi) | Mega Flight (Harga Rendah) |
+| --- | --- | --- |
+| **Lestari Air (Tinggi)** | (10, 10) | (2, 15) |
+| **Lestari Air (Rendah)** | (15, 2) | **(5, 5)** |
+
+*Hasilnya?* Keduanya cenderung memilih harga rendah (**Ekuilibrium Nash**) untuk melindungi diri agar tidak "dihancurkan" oleh lawan, meskipun jika mereka bekerja sama, mereka bisa mendapatkan hasil yang lebih baik.
+
+*Coba perhatikan: Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
+
+## 3. Mekanisme Lelang: Seni Menentukan Harga
+
+Lelang adalah salah satu aplikasi Teori Permainan yang paling canggih, digunakan mulai dari menjual lukisan kuno hingga mengalokasikan frekuensi 5G dan iklan digital (Google Ads).
+
+### Jenis-Jenis Lelang Utama:
+
+1. **Lelang Inggris (Ascending-Price):** Harga naik terus sampai hanya tersisa satu penawar. Strategi optimal: Berhenti saat harga melebihi nilai subjektif kamu terhadap barang tersebut.
+2. **Lelang Belanda (Descending-Price):** Juru lelang memulai dengan harga sangat tinggi dan menurunkannya sampai ada orang yang berteriak "Beli!". Ini sangat mengandalkan kecepatan dan nyali.
+3. **Lelang Harga Pertama (First-Price Sealed-Bid):** Penawar memasukkan tawaran dalam amplop tertutup. Penawar tertinggi menang dan membayar sesuai angka yang ia tulis. Di sini sering terjadi *bid shading* (menawar di bawah nilai asli agar dapat untung).
+4. **Lelang Vickrey (Second-Price Sealed-Bid):** Penawar tertinggi menang, tetapi ia hanya perlu membayar **harga yang ditawarkan oleh penawar tertinggi kedua**.
+
+> **Mengapa Lelang Vickrey Cerdas?** Dalam lelang ini, strategi terbaik kamu adalah menuliskan nilai sejujur-jujurnya. Jika kamu menawar terlalu tinggi, kamu berisiko membayar lebih dari nilai barang. Jika terlalu rendah, kamu kehilangan barang tanpa alasan yang jelas.
+
+### Fenomena "The Winner''s Curse" (Kutukan Pemenang)
+
+Dalam lelang di mana nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang seringkali justru menjadi pihak yang merugi karena membayar terlalu mahal.
+
+## Real-World Application: Bagaimana Google Mendapatkan Uang?
+
+Setiap kali kamu mencari sesuatu di Google, terjadi lelang Teori Permainan dalam hitungan milidetik. Google menggunakan variasi dari **Lelang Vickrey** untuk menentukan iklan mana yang muncul di atas.
+
+- **Skenario:** Ada 3 slot iklan dan 5 perusahaan yang menawar.
+- **Mekanisme:** Google tidak hanya melihat siapa yang menawar paling tinggi (bid), tapi juga kualitas iklan tersebut. Namun, poin pentingnya adalah pengiklan biasanya hanya membayar sedikit di atas tawaran pesaing di bawahnya.
+- **Manfaat:** Ini mendorong pengiklan untuk memberikan penawaran yang jujur berdasarkan nilai klik bagi bisnis mereka, menciptakan ekosistem yang stabil dan menguntungkan bagi Google maupun pengiklan.
+
+## Rangkuman Strategis
+
+Untuk memenangkan permainan di dunia ekonomi dan bisnis, kamu harus:
+
+1. **Memetakan Pemain:** Siapa pesaing langsung dan tidak langsung kamu?
+2. **Memahami Payoff:** Apa yang mereka dapatkan jika mereka bekerja sama atau berkhianat?
+3. **Berpikir ke Depan:** Jika saya menurunkan harga hari ini, apa yang akan dilakukan pesaing saya besok?
+
+*Refleksi: Dalam karier atau bisnis kamu saat ini, apakah kamu sedang terjebak dalam Dilema Tahanan (perang harga/persaingan destruktif)? Bagaimana kamu bisa mengubah aturan permainannya?*
+
+
+<!-- Chapter: 13_teori-permainan-evolusioner -->
+
+## Teori Permainan Evolusioner: Saat Biologi Bertemu Strategi
+
+Selamat datang di persimpangan yang memukau antara biologi molekuler, perilaku hewan, dan matematika strategis. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
+
+Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, kita tidak bertanya "Apa yang akan dipikirkan pemain?", melainkan "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
+
+### 1. Dasar Pemikiran: Mengapa Evolusi Membutuhkan Teori Permainan?
+
+Dalam teori permainan klasik, kita berasumsi pemain memiliki kecerdasan untuk memilih langkah terbaik. Namun, alam tidak bekerja seperti itu. Seekor burung tidak menghitung matriks keuntungan sebelum memperebutkan wilayah.
+
+Di sini, konsep-konsep kunci berubah:
+
+- **Pemain:** Bukan lagi individu yang berpikir, melainkan **gen atau organisme** yang membawa strategi tertentu.
+- **Strategi:** Bukan pilihan sadar, melainkan **sifat (trait)** yang diwariskan secara genetis (misalnya: perilaku agresif vs. perilaku damai).
+- **Payoff (Hasil):** Bukan uang atau kepuasan, melainkan **Fitness (Kebugaran)**, yang diukur dari keberhasilan reproduksi dan kelangsungan hidup.
+
+> **Analogi Strategi sebagai Warisan:** Bayangkan sebuah strategi adalah sebuah "resep masakan" yang tertanam dalam DNA. Jika resep itu membuat kamu kenyang dan panjang umur, kamu akan memiliki banyak anak dan mewariskan resep tersebut kepada mereka. Seiring waktu, seluruh populasi akan memasak dengan resep yang sama.
+
+### 2. Konsep Utama: Evolutionary Stable Strategy (ESS)
+
+Konsep paling fundamental dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionary Stable Strategy (ESS)**.
+
+**Definisi:** Sebuah strategi dikatakan ESS jika, apabila strategi tersebut telah diadopsi oleh sebagian besar anggota populasi, tidak ada strategi "mutan" (alternatif) yang dapat masuk (menginvasi) populasi tersebut melalui seleksi alam.
+
+Secara matematis, misalkan $E(S, T)$ adalah *payoff* (kebugaran) yang didapat oleh strategi $S$ saat berhadapan dengan strategi $T$. Strategi $I$ adalah sebuah **ESS** jika untuk setiap strategi alternatif $J$:
+
+1. $E(I, I) > E(J, I)$
+2. Atau jika $E(I, I) = E(J, I)$, maka $E(I, J) > E(J, J)$
+
+*Mengapa syarat kedua diperlukan? Hal itu karena jika strategi mutan $J$ memiliki performa yang sama baiknya dengan $I$ saat melawan $I$, maka satu-satunya cara agar $I$ tetap dominan adalah jika $I$ lebih unggul saat melawan si mutan $J$ itu sendiri.*
+
+### 3. Model Klasik: Hawk-Dove (Elang vs. Merpati)
+
+Mari kita lihat skenario paling terkenal untuk memahami bagaimana perilaku sosial hewan terbentuk. Bayangkan dua individu memperebutkan sumber daya bernilai $V$ (misalnya makanan). Jika mereka bertarung dan terluka, ada biaya sebesar $C$.
+
+Ada dua strategi:
+
+1. **Hawk (Elang):** Agresif. Selalu bertarung sampai menang atau terluka parah.
+2. **Dove (Merpati):** Damai. Menampilkan ancaman tapi akan mundur jika lawan mulai menyerang secara fisik.
+
+**Matriks Payoff:**
+
+| | Lawan: Hawk | Lawan: Dove |
+| --- | --- | --- |
+| **Pemain: Hawk** | $\frac{V-C}{2}$ | $V$ |
+| **Pemain: Dove** | $0$ | $\frac{V}{2}$ |
+
+**Analisis Skenario:**
+
+- **Jika $V > C$:** Menjadi Elang selalu menguntungkan. Strategi Elang adalah ESS.
+- **Jika $V < C$:** (Biaya cedera lebih besar dari nilai sumber daya). Menjadi Elang murni bukan lagi ESS, karena jika semua orang jadi Elang, semua orang terluka parah. Populasi akan mencapai keseimbangan di mana ada persentase tertentu Elang dan Merpati.
+
+### 4. Dinamika Replikator (Replicator Dynamics)
+
+EGT tidak hanya bersifat statis, tetapi juga mempelajari bagaimana proporsi strategi berubah seiring waktu. Ini disebut **Dinamika Replikator**.
+
+Jika $x_i$ adalah proporsi individu yang menggunakan strategi $i$ dalam populasi, maka perubahan proporsi tersebut dapat dirumuskan sebagai:
+
+$$
+\dot{x}_i = x_i [f_i(x) - \phi(x)]
+$$
+
+Di mana:
+
+- $f_i(x)$ adalah kebugaran dari strategi $i$.
+- $\phi(x)$ adalah rata-rata kebugaran seluruh populasi.
+
+**Intinya:** Jika sebuah strategi memberikan hasil di atas rata-rata populasi, maka proporsi pengguna strategi tersebut akan meningkat di generasi berikutnya.
+
+### 5. Aplikasi Dunia Nyata & Kasus Praktis
+
+#### A. Rasio Jenis Kelamin (Sex Ratio)
+
+Mengapa di hampir semua spesies mamalia jumlah jantan dan betina mendekati 50:50? Ronald Fisher menggunakan logika EGT untuk menjelaskan bahwa jika salah satu jenis kelamin menjadi langka, individu yang menghasilkan jenis kelamin langka tersebut akan memiliki keuntungan evolusioner yang besar, hingga akhirnya rasio kembali seimbang.
+
+#### B. Altruisme pada Hewan (Timbal Balik)
+
+Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara individu, ini merugikan. Namun, dengan EGT, kita melihat bahwa strategi "Berbagi dengan yang pernah berbagi denganku" (Tit-for-Tat) adalah ESS yang mencegah kepunahan kelompok saat sumber daya sulit didapat.
+
+#### C. Resistensi Antibiotik
+
+Dalam medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
+
+### 6. Contoh Kode: Simulasi Sederhana EGT
+
+Berikut adalah cuplikan logika (Python-like pseudocode) untuk mensimulasikan perubahan populasi Hawk-Dove sederhana:
+
+```python
+# Parameter
+V = 50  # Nilai sumber daya
+C = 100 # Biaya cedera
+hawk_ratio = 0.1 # Awalnya sedikit elang
+dove_ratio = 0.9 # Banyak merpati
+
+for generation in range(100):
+    # Hitung kebugaran rata-rata
+    f_hawk = hawk_ratio * ((V-C)/2) + dove_ratio * V
+    f_dove = hawk_ratio * 0 + dove_ratio * (V/2)
+    avg_fitness = (hawk_ratio * f_hawk) + (dove_ratio * f_dove)
+    
+    # Update proporsi berdasarkan dinamika replikator
+    hawk_ratio = hawk_ratio * (f_hawk / avg_fitness)
+    dove_ratio = dove_ratio * (f_dove / avg_fitness)
+    
+    print(f"Gen {generation}: Hawk {hawk_ratio:.2f}, Dove {dove_ratio:.2f}")
+```
+
+### 7. Kesimpulan: Pentingnya Sudut Pandang Evolusioner
+
+Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak logis" pada tingkat individu (seperti mengalah atau mengorbankan diri) sering kali merupakan strategi yang sangat stabil dan cerdas pada tingkat populasi.
+
+**Poin Penting untuk Diingat:**
+
+- **ESS** adalah kondisi di mana populasi kebal terhadap "serangan" strategi asing.
+- **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.
+- **Konflik dan Kerjasama** adalah hasil dari interaksi berulang selama jutaan tahun yang terukir dalam mekanisme biologis.
+
+*Latihan Refleksi: Dapatkah kamu memikirkan norma sosial manusia yang mungkin merupakan sebuah ESS? Misalnya, mengapa kita mengantre? Apakah mengantre adalah strategi yang lebih stabil daripada berebut jika semua orang melakukannya?*
+
+
+<!-- Chapter: 14_teori-permainan-algoritmik-dan-ai -->
+
+## Teori Permainan Algoritmik dan AI: Ketika Kecerdasan Bertemu Strategi
+
+Selamat datang di titik temu antara matematika, ekonomi, dan ilmu komputer! Jika sebelumnya kita telah mempelajari bagaimana manusia mengambil keputusan strategis, sekarang kita akan mengeksplorasi apa yang terjadi ketika **algoritma** dan **kecerdasan buatan (AI)** menjadi pemainnya.
+
+Bayangkan sebuah dunia ketika jutaan bot perdagangan saham, mobil otonom, dan algoritma lelang iklan saling berinteraksi setiap milidetik. Bagaimana kita memastikan sistem yang begitu kompleks ini tetap stabil dan efisien? Jawabannya terletak pada **Teori Permainan Algoritmik (Algorithmic Game Theory - AGT)**.
+
+## 1. Jembatan Antara Insentif dan Komputasi
+
+Teori permainan klasik sering kali berasumsi bahwa pemain memiliki kecerdasan tak terbatas dan waktu yang cukup untuk menghitung strategi terbaik. Namun, dalam dunia nyata (terutama internet), kita menghadapi dua kendala besar:
+
+1. **Kompleksitas Komputasi**: Menghitung Ekuilibrium Nash untuk permainan besar bisa memakan waktu ribuan tahun, bahkan bagi komputer tercepat.
+2. **Masalah Insentif**: Pengguna internet bertindak demi kepentingan pribadi. Mereka akan memanipulasi sistem jika itu menguntungkan mereka.
+
+> **Wawasan Penting:** Teori Permainan Algoritmik adalah studi tentang desain dan analisis sistem ketika partisipan yang bertindak demi kepentingan pribadi (*selfish*) berinteraksi dalam lingkungan komputasi.
+
+### Analogi: Kemacetan Lalu Lintas Digital
+
+Bayangkan aplikasi GPS seperti Google Maps atau Waze. Setiap pengemudi (agen) ingin rute tercepat untuk dirinya sendiri. Jika semua orang mengambil rute tercepat yang sama, jalan tersebut akan macet.
+
+- **Game Theory** bertanya: "Di mana titik keseimbangannya?"
+- **Algorithmic Game Theory** bertanya: "Seberapa buruk kemacetan ini dibandingkan jika ada pengatur pusat, dan bagaimana kita mendesain algoritma agar orang tidak berbohong tentang tujuan mereka?"
+
+## 2. Price of Anarchy (Biaya Anarki)
+
+Salah satu konsep terpenting dalam AGT adalah **Price of Anarchy (PoA)**. Ini adalah metrik yang mengukur seberapa besar efisiensi yang hilang karena perilaku individualistis pemain dibandingkan dengan hasil optimal yang diatur secara terpusat.
+
+Secara matematis, $\text{PoA}$ didefinisikan sebagai:
+
+$$
+\text{PoA} = \frac{\text{Kesejahteraan Sosial pada Kondisi Terburuk (Equilibrium)}}{\text{Kesejahteraan Sosial Optimal (Ideal)}}
+$$
+
+Jika $\text{PoA}$ mendekati 1, maka perilaku individualistis pemain tidak merusak sistem. Jika $\text{PoA}$ besar, maka kita butuh intervensi atau desain mekanisme yang lebih baik.
+
+## 3. Sistem Multi-Agen (Multi-Agent Systems - MAS)
+
+Dalam AI, kita sering tidak hanya membangun satu model, melainkan ekosistem ketika banyak agen berinteraksi.
+
+### Karakteristik MAS:
+
+- **Otonomi**: Setiap agen mengambil keputusan sendiri.
+- **Interaksi**: Hasil satu agen bergantung pada tindakan agen lain.
+- **Tujuan Berbeda**: Agen bisa bekerja sama (kooperatif) atau bersaing (kompetitif).
+
+**Contoh Skenario: Lelang Iklan Real-Time**
+Saat kamu membuka halaman web, di balik layar terjadi lelang instan untuk menentukan iklan mana yang muncul. Ribuan algoritma penawar (*bidding agents*) bertarung dalam hitungan milidetik. Di sini, AI harus memutuskan berapa nilai penawaran yang optimal tanpa mengetahui penawaran lawan, menggunakan prinsip-prinsip teori permainan.
+
+## 4. Desain Mekanisme (Mechanism Design)
+
+Jika Teori Permainan adalah tentang "memprediksi hasil dari aturan yang ada", maka **Desain Mekanisme** adalah kebalikannya: "mendesain aturan untuk mencapai hasil yang diinginkan". Ini sering disebut sebagai **Reverse Game Theory**.
+
+Tujuannya adalah menciptakan sistem yang *Strategy-Proof* (tahan manipulasi). Artinya, strategi terbaik bagi pemain adalah berkata jujur.
+
+### Lelang Vickrey (Second-Price Auction)
+
+Salah satu pencapaian besar dalam desain mekanisme adalah lelang harga kedua.
+
+- **Aturan**: Pemenang adalah penawar tertinggi, tetapi harga yang dibayar adalah tawaran tertinggi kedua.
+- **Mengapa AI menyukai ini?**: Dalam mekanisme ini, strategi dominan bagi setiap agen adalah menawar tepat sesuai nilai asli barang tersebut. Tidak perlu menebak-nebak lawan!
+
+## 5. Implementasi Teknis: AI di Papan Permainan
+
+Dalam pengembangan AI modern, teori permainan digunakan untuk melatih model agar bisa mengalahkan manusia atau mencapai efisiensi tinggi.
+
+### Algoritma Minimax
+
+Ini adalah fondasi AI untuk permainan *zero-sum* seperti Catur atau Tic-Tac-Toe. AI mencoba meminimalkan kemungkinan kerugian maksimum (*minimizing the maximum loss*).
+
+```python
+# Contoh sederhana logika Minimax (Pseudo-code)
+def minimax(node, depth, maximizingPlayer):
+    if depth == 0 or node.is_terminal():
+        return node.value
+    
+    if maximizingPlayer:
+        maxEval = -float(''inf'')
+        for child in node.children():
+            eval = minimax(child, depth - 1, False)
+            maxEval = max(maxEval, eval)
+        return maxEval
+    else:
+        minEval = float(''inf'')
+        for child in node.children():
+            eval = minimax(child, depth - 1, True)
+            minEval = min(minEval, eval)
+        return minEval
+```
+
+### Reinforcement Learning (RL) & Game Theory
+
+Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji coba (*trial-and-error*). Tantangannya adalah "target yang bergerak": saat Agen A belajar, lingkungan Agen B berubah karena perilaku Agen A berubah. Ini sering diselesaikan dengan mencari **Ekuilibrium Nash** dalam proses pelatihan.
+
+## 6. Aplikasi Dunia Nyata
+
+1. **Google Ads & Meta Ads**: Menggunakan desain mekanisme tingkat lanjut untuk mengalokasikan ruang iklan secara efisien kepada jutaan pengiklan.
+2. **Frekuensi Radio & Spektrum**: Pemerintah menggunakan lelang kombinatorial (berdasarkan AGT) untuk menjual hak frekuensi seluler senilai miliaran dolar.
+3. **Keamanan Siber**: AI digunakan untuk memodelkan interaksi antara penyerang (*hacker*) dan pertahanan sistem sebagai permainan stokastik untuk memprediksi titik serangan.
+4. **Ekonomi Kripto (Tokenomics)**: Protokol blockchain seperti Ethereum menggunakan teori permainan untuk memastikan validator bertindak jujur melalui sistem imbalan (*reward*) dan penalti (*slashing*).
+
+## 7. Tantangan Masa Depan: AI vs AI
+
+Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko di mana algoritma secara tidak sengaja belajar untuk melakukan **kolusi** (bekerja sama secara rahasia) untuk menaikkan harga bagi konsumen.
+
+*Coba bayangkan skenario ini: jika dua algoritma penetapan harga di toko online belajar bahwa mereka berdua untung lebih besar jika tidak pernah menurunkan harga, apakah itu sebuah kesuksesan AI atau kegagalan pasar?*
+
+> **Pesan Utama:** Teori permainan algoritmik bukan hanya tentang menang, tetapi tentang membangun sistem yang adil, stabil, dan efisien secara komputasi di tengah dunia yang penuh dengan agen yang mementingkan diri sendiri.
+
+*Apakah kamu siap untuk merancang mekanisme masa depan ketika kode dan insentif berjalan beriringan?*
+
+
+<!-- Chapter: 15_referensi -->
+
+## Referensi
+
+Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari untuk memperdalam pemahaman mengenai Teori Permainan (Game Theory), mulai dari landasan klasik hingga perkembangan modern di bidang ekonomi, ilmu komputer, dan biologi evolusioner.
+
+Axelrod, R. (1984). *The Evolution of Cooperation*. Basic Books.
+
+Binmore, K. (2007). *Playing for Real: A Text on Game Theory*. Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780195300574.001.0001](https://doi.org/10.1093/acprof:oso/9780195300574.001.0001)
+
+Fudenberg, D., & Tirole, J. (1991). *Game Theory*. MIT Press.
+
+Gibbons, R. (1992). *Game Theory for Applied Economists*. Princeton University Press.
+
+Harsanyi, J. C. (1967). Games with incomplete information played by "Bayesian" players, I-III. *Management Science*, 14(3), 159-182. [https://doi.org/10.1287/mnsc.14.3.159](https://doi.org/10.1287/mnsc.14.3.159)
+
+Kreps, D. M., & Wilson, R. (1982). Sequential equilibria. *Econometrica*, 50(4), 863-894. [https://doi.org/10.2307/1912767](https://doi.org/10.2307/1912767)
+
+Maynard Smith, J. (1982). *Evolution and the Theory of Games*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511806292](https://doi.org/10.1017/CBO9780511806292)
+
+Nash, J. F. (1950). Equilibrium points in n-person games. *Proceedings of the National Academy of Sciences*, 36(1), 48-49. [https://doi.org/10.1073/pnas.36.1.48](https://doi.org/10.1073/pnas.36.1.48)
+
+Nash, J. F. (1951). Non-cooperative games. *Annals of Mathematics*, 54(2), 286-295. [https://doi.org/10.2307/1969529](https://doi.org/10.2307/1969529)
+
+Nisan, N., Roughgarden, T., Tardos, E., & Vazirani, V. V. (Eds.). (2007). *Algorithmic Game Theory*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511800481](https://doi.org/10.1017/CBO9780511800481)
+
+Osborne, M. J. (2004). *An Introduction to Game Theory*. Oxford University Press.
+
+Schelling, T. C. (1960). *The Strategy of Conflict*. Harvard University Press.
+
+Selten, R. (1965). Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit. *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
+
+Shapley, L. S. (1953). A value for n-person games. In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton University Press. [https://doi.org/10.1515/9781400881970-018](https://doi.org/10.1515/9781400881970-018)
+
+von Neumann, J., & Morgenstern, O. (1944). *Theory of Games and Economic Behavior*. Princeton University Press.',
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39826,7 +41546,7 @@ VALUES (
   'digital-minimalisme',
   'Digital Minimalisme',
   'published',
-  'Ilmu Komunikasi',
+  'Komunikasi',
   '<!-- Chapter: 01_pendahuluan-digital-minimalisme-mengambil-kendali- -->
 
 ## Pendahuluan Digital Minimalisme: Mengambil Kendali di Dunia yang Berisik
@@ -40673,8 +42393,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40767,7 +42487,7 @@ Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas d
 
 <!-- Chapter: 02_akar-filosofis-aristoteles-dan-tradisi-klasik -->
 
-## Akar Filosofis: Aristoteles dan Tradisi Klasik 🏛️
+## Akar Filosofis: Aristoteles dan Tradisi Klasik ️
 
 Selamat datang di perjalanan kita menuju akar dari Etika Kebajikan. Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
 
@@ -40803,7 +42523,7 @@ Dalam tradisi klasik yang dibangun Aristoteles, terdapat perbedaan mendasar deng
 
 **Penting:** Bagi Aristoteles, sebuah tindakan baik yang dilakukan secara tidak sengaja tidak membuat seseorang menjadi orang baik. Seseorang disebut bermoral jika tindakan baiknya lahir dari **karakter yang tetap dan tidak berubah**.
 
-### Analogi Sang Pemanah 🏹
+### Analogi Sang Pemanah
 
 Untuk memahami bagaimana Aristoteles melihat pencapaian kebajikan, bayangkan seorang pemanah yang sedang membidik sasaran.
 
@@ -40868,7 +42588,7 @@ Untuk memahami kedalaman Eudaimonia, kita perlu memetakan perbedaannya dengan **
 
 Bayangkan jika teknologi mampu menciptakan simulasi realitas virtual yang menyuntikkan sensasi kenikmatan ke otakmu tanpa henti seumur hidup, sementara tubuh fisikmu hanya berbaring pasif. Jika tawaran itu terasa hampa, itu adalah sinyal murni dari intuisimu. Kualitas hidup manusia menuntut interaksi dan pencapaian otentik, menjauh dari kepuasan saraf belaka.
 
-## 3. Analogi Benih Pohon Ek 🌳
+## 3. Analogi Benih Pohon Ek
 
 Ambil contoh sebutir benih pohon ek. Pemenuhan kualitas hidup bagi benih tersebut tidak akan tercapai jika ia disimpan rapi di dalam kotak perhiasan demi menjaganya dari cuaca buruk. Tuntutan alamiahnya mengharuskan benih itu menghadapi tekanan lingkungan: menumbuhkan akar yang mencengkeram tanah, memaksa batang menembus permukaan bumi, hingga melebarkan dedaunan rimbun untuk menangkap sinar matahari.
 
@@ -41626,8 +43346,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41950,7 +43670,7 @@ Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia s
 
 > **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
-### Analogi: Dapur Restoran Bintang Lima 👨‍🍳
+### Analogi: Dapur Restoran Bintang Lima ‍
 
 Bayangkan sebuah dapur restoran besar. Tanpa pengorganisasian, semua orang mungkin mencoba memasak steak di saat yang sama, sementara tidak ada yang mencuci piring atau menyiapkan bumbu.
 
@@ -42908,8 +44628,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42924,7 +44644,7 @@ VALUES (
   'sejarah-evolusi-drama-korea',
   'Sejarah & Evolusi Drama Korea',
   'published',
-  'Sastra Korea',
+  'Drakor',
   '<!-- Chapter: 01_akar-awal-era-drama-radio-dan-kelahiran-televisi -->
 
 ## Akar Awal: Era Drama Radio dan Kelahiran Televisi
@@ -43844,8 +45564,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43860,7 +45580,7 @@ VALUES (
   'metodologi-microteaching',
   'Metodologi Microteaching',
   'published',
-  'Kurikulum dan Teknologi Pendidikan',
+  'Pendidikan',
   '<!-- Chapter: 01_pengantar-dan-filosofi-microteaching -->
 
 # Pengantar dan Filosofi Microteaching
@@ -44799,7 +46519,7 @@ Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP deng
 | **Pertanyaan** | Menunggu 5 detik setelah bertanya (Wait Time). | Langsung menjawab pertanyaan sendiri setelah 1 detik. | Kurang sabar dalam memberikan ruang berpikir bagi siswa. |
 | **Gerak Tubuh** | Berkeliling kelas untuk memantau siswa. | Hanya berdiri di belakang meja guru sepanjang sesi. | Kurang membangun kedekatan (proximity) dengan siswa. |
 
-## 🔍 Fokus Analisis: Apa yang Harus Dilihat?
+## Fokus Analisis: Apa yang Harus Dilihat?
 
 Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga aspek utama:
 
@@ -44818,7 +46538,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Alur Logika:** Apakah transisi dari materi A ke materi B terdengar halus?
 - **Respon terhadap Siswa:** Bagaimana cara kamu menanggapi jawaban salah dari siswa? Apakah kamu membesarkan hati mereka atau justru mematikan motivasi mereka?
 
-## 💡 Real-World Application: Skenario Kasus
+## Real-World Application: Skenario Kasus
 
 **Skenario:** Ibu Sarah mengajar tentang hukum Newton. Dalam RPP-nya, ia merencanakan metode demonstrasi selama 5 menit. Namun, saat menonton video refleksinya, ia menemukan bahwa demonstrasi tersebut memakan waktu 15 menit karena ia kesulitan merakit alat di depan kelas.
 
@@ -44828,7 +46548,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Dampak:** Waktu diskusi kelompok terpotong habis, sehingga kesimpulan pembelajaran dilakukan secara terburu-buru.
 - **Rencana Perbaikan:** Pada sesi berikutnya, alat harus sudah terakit sebelum kelas dimulai, atau melakukan simulasi mandiri sebelum mengajar.
 
-## 📝 Instrumen Refleksi Mandiri (Template)
+## Instrumen Refleksi Mandiri (Template)
 
 Kamu dapat menggunakan daftar periksa berikut saat menonton video kamu:
 
@@ -45133,8 +46853,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-08-05T11:43:36.910Z',
-  '2026-08-05T11:43:36.910Z'
+  '2026-08-05T12:16:00.499Z',
+  '2026-08-05T12:16:00.499Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
