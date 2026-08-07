@@ -110,6 +110,10 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Icon.txt Exception:** The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card).
 - **Automatic Stripping:** Subagents and agents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during authoring, editing, and pre-flight checks.
 
+## 15. Mandatory Reference Hyperlinks & DOIs Rule
+- **Mandatory Markdown Hyperlinks:** Every citation entry in a book's dedicated `Referensi` chapter MUST explicitly include an authentic, clickable markdown hyperlink `[Judul/Nama Karya](URL)` or DOI resolution link `[DOI: 10.xxxx/xxxx](https://doi.org/10.xxxx/xxxx)` targeting its verified source (e.g. `peraturan.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Collections, Internet Archive, JSTOR, or publisher catalog).
+- **No Plain-Text Citations:** Generating plain-text reference citations without markdown hyperlinks is STRICTLY FORBIDDEN. Subagents MUST use web search tools (`search_web`) to retrieve authentic URLs and DOIs for each cited work.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 

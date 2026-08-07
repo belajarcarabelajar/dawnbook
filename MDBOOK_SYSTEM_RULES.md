@@ -661,6 +661,15 @@ All book output content (all chapter Markdown files in `src/content/*.md` and `S
 
 ---
 
+**R23 — Mandatory Hyperlinks and DOIs for Reference Citations**
+
+*Statement:*
+Every citation entry in a book's dedicated `Referensi` chapter MUST explicitly include an authentic, clickable markdown hyperlink `[Judul/Nama Karya](URL)` or DOI resolution link `[DOI: 10.xxxx/xxxx](https://doi.org/10.xxxx/xxxx)` targeting its verified source (e.g. official government law portals `peraturan.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Collections, Internet Archive, JSTOR, or publisher catalog). Subagents and agents are STRICTLY FORBIDDEN from generating plain-text reference citations without markdown hyperlinks. Subagents MUST use web search tools to verify and retrieve accurate URLs for each cited work.
+
+*Acceptance check:* Every reference entry in `src/content/*_referensi.md` contains at least one active markdown hyperlink `[...](https://...)`.
+
+---
+
 
 ## 6. Security and Process Rules
 
