@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Iklan Digital dan Penargetan Algoritma"
+description = "Panduan mendalam tentang ekosistem iklan digital, teknologi pelacakan, big data, psikologi konsumen, iklan programatik, dan regulasi privasi data."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Periklanan"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
