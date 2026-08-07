@@ -96,9 +96,9 @@ This file contains critical architectural decisions and strict rules for the Daw
   - Gated chapter pages MUST include Schema.org JSON-LD with `"isAccessibleForFree": "false"` and `"hasPart": { "@type": "WebPageElement", "isAccessibleForFree": "false", "cssSelector": ".content" }` injected via `scripts/inject-gating.ts`.
   - Post-deployment workflow MUST trigger `python3 scripts/gsc_trigger_reindex.py` or `bun run scripts/seo-request-reindex.ts` to push `sitemap.xml` directly to Google Search Console API v3.
 
-## 12. Mandatory PUEBI Indonesian Timestamps & Authentic Git Release Dates
+## 12. Mandatory PUEBI Indonesian Timestamps & Authentic Release Dates
 - **PUEBI Formatting Standard:** Every mdBook card in the Hub MUST display an Indonesian release timestamp formatted as `D MMMM YYYY, HH.mm WIB` (e.g., `18 Juni 2026, 14.55 WIB`). Time must use 24-hour notation with dot separator (`HH.mm`) according to PUEBI standards.
-- **Authentic Git Release Date Extraction:** Book release timestamps MUST be extracted using the initial commit of the book's `src/` directory (`git log --reverse --format=%ct books/<slug>/src | head -n 1`). **NEVER** use `git log -1` on the root book directory, as global automated maintenance scripts (such as `sync-template.ts`) will overwrite all books' timestamps with the latest script execution date.
+- **Authentic Release Date Extraction:** Book release timestamps MUST be extracted automatically taking the earliest authentic creation date between the initial Git commit (`git log --reverse --format=%ct books/<slug>/src | head -n 1`) and initial file creation timestamp (`stat.birthtimeMs` / `stat.mtimeMs` of `book.toml`). **NEVER** use `git log -1` on the root book directory, as global automated maintenance scripts (such as `sync-template.ts`) will overwrite all books' timestamps with the latest script execution date.
 
 ## 13. Hub Card Author Typography & Spacing Hierarchy
 - **1/3 Font Size Ratio:** The author's name on every mdBook card MUST have a font size of `1.0rem` (16px), which is exactly **1/3 (33.3%) larger** than the date & total chapter line (`0.75rem` / 12px).

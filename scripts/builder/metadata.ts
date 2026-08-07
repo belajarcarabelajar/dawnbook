@@ -91,26 +91,45 @@ export async function parseBookMetadata(
     console.warn("Failed to read icon.txt, falling back to generic", e);
   }
 
-  let mtimeMs = 0;
+  let gitCommitMs = 0;
   try {
     // Get initial commit timestamp (release date) of the book content
     const gitLogSrc = await $`git log --reverse --format=%ct ${join(bookPath, "src")}`.quiet().text();
     const firstLine = gitLogSrc.trim().split("\n")[0];
     const ts = parseInt(firstLine, 10);
     if (!isNaN(ts) && ts > 0) {
-      mtimeMs = ts * 1000;
+      gitCommitMs = ts * 1000;
     }
   } catch (e) {}
 
-  if (mtimeMs === 0) {
+  if (gitCommitMs === 0) {
     try {
       const gitLogDir = await $`git log --reverse --format=%ct ${bookPath}`.quiet().text();
       const firstLine = gitLogDir.trim().split("\n")[0];
       const ts = parseInt(firstLine, 10);
       if (!isNaN(ts) && ts > 0) {
-        mtimeMs = ts * 1000;
+        gitCommitMs = ts * 1000;
       }
     } catch (e) {}
+  }
+
+  let fileCreationMs = 0;
+  try {
+    const fileStat = await stat(join(bookPath, "book.toml"));
+    const birth = fileStat.birthtimeMs > 0 ? fileStat.birthtimeMs : 0;
+    const mtime = fileStat.mtimeMs > 0 ? fileStat.mtimeMs : 0;
+    if (birth > 0 && mtime > 0) {
+      fileCreationMs = Math.min(birth, mtime);
+    } else {
+      fileCreationMs = birth || mtime || 0;
+    }
+  } catch (e) {}
+
+  let mtimeMs = 0;
+  if (gitCommitMs > 0 && fileCreationMs > 0) {
+    mtimeMs = Math.min(gitCommitMs, fileCreationMs);
+  } else {
+    mtimeMs = gitCommitMs || fileCreationMs || 0;
   }
 
   if (mtimeMs === 0) {
