@@ -1,0 +1,17 @@
+# Summary
+
+- [Pengantar Teori Permainan](content/01_pengantar-teori-permainan.md)
+- [Elemen Dasar dalam Permainan](content/02_elemen-dasar-dalam-permainan.md)
+- [Representasi Permainan: Matriks dan Pohon](content/03_representasi-permainan-matriks-dan-pohon.md)
+- [Strategi Dominan dan Dominasi: Kunci Menuju Keputusan Rasional](content/04_strategi-dominan-dan-dominasi.md)
+- [Ekuilibrium Nash (Nash Equilibrium)](content/05_ekuilibrium-nash.md)
+- [Dilema Tahanan (Prisoner's Dilemma)](content/06_dilema-tahanan.md)
+- [Permainan Zero-Sum vs. Non-Zero-Sum: Memahami Dinamika Keuntungan](content/07_permainan-zero-sum-vs-non-zero-sum.md)
+- [Strategi Campuran (Mixed Strategies): Seni Menjadi Tidak Terduga](content/08_strategi-campuran.md)
+- [Permainan Sekuensial dan Induksi Mundur: Menatap Masa Depan untuk Menentukan Masa Kini](content/09_permainan-sekuensial-dan-induksi-mundur.md)
+- [Permainan Berulang (Repeated Games): Membangun Kepercayaan Melalui Interaksi Berkelanjutan](content/10_permainan-berulang.md)
+- [Teori Permainan Kooperatif dan Nilai Shapley: Seni Berbagi Secara Adil](content/11_teori-permainan-kooperatif-dan-nilai-shapley.md)
+- [Aplikasi Teori Permainan dalam Ekonomi dan Bisnis](content/12_aplikasi-teori-permainan-dalam-ekonomi-dan-bisnis.md)
+- [Teori Permainan Evolusioner: Saat Biologi Bertemu Strategi](content/13_teori-permainan-evolusioner.md)
+- [Teori Permainan Algoritmik dan AI: Ketika Kecerdasan Bertemu Strategi](content/14_teori-permainan-algoritmik-dan-ai.md)
+- [Referensi](content/15_referensi.md)

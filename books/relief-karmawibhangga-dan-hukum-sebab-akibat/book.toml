@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Relief Karmawibhangga dan Hukum Sebab-Akibat"
+description = "Kajian mendalam relief Karmawibhangga Candi Borobudur, filsafat hukum karma, struktur visual, kehidupan Jawa kuno, dan dokumentasi Kassian Cephas."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Arkeologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

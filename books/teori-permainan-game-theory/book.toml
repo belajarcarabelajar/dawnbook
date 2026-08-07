@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Teori Permainan (Game Theory)"
+description = "Buku komprehensif tentang Teori Permainan (Game Theory), Ekuilibrium Nash, strategi dominan, hingga aplikasi dalam bisnis dan AI oleh Iwan Kurniawan."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Ekonomi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
