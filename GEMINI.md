@@ -111,8 +111,9 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Automatic Stripping:** Subagents and agents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during authoring, editing, and pre-flight checks.
 
 ## 15. Mandatory Reference Hyperlinks & DOIs Rule
-- **Mandatory Markdown Hyperlinks:** Every citation entry in a book's dedicated `Referensi` chapter MUST explicitly include an authentic, clickable markdown hyperlink `[Judul/Nama Karya](URL)` or DOI resolution link `[DOI: 10.xxxx/xxxx](https://doi.org/10.xxxx/xxxx)` targeting its verified source (e.g. `peraturan.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Collections, Internet Archive, JSTOR, or publisher catalog).
-- **No Plain-Text Citations:** Generating plain-text reference citations without markdown hyperlinks is STRICTLY FORBIDDEN. Subagents MUST use web search tools (`search_web`) to retrieve authentic URLs and DOIs for each cited work.
+- **Mandatory Web Search Verification:** Every citation entry in a book's dedicated `Referensi` chapter MUST be 100% authentic, relevant, and verified via `search_web`. Subagents and agents are STRICTLY FORBIDDEN from guessing, hallucinating, or fabricating titles, authors, DOIs, or generic homepage URLs (such as `https://brill.com/` or `https://jstor.org/`).
+- **Mandatory Deep Markdown Hyperlinks:** Subagents MUST execute `search_web` for EVERY single cited work and explicitly include an authentic, clickable deep-link markdown hyperlink `[Judul/Nama Karya](URL)` or direct DOI resolution link `https://doi.org/10.xxxx/xxxx` targeting the exact publication landing page (e.g. `peraturan.bpk.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Digital Collections, Internet Archive, JSTOR, or publisher book page).
+- **No Plain-Text Citations:** Generating plain-text reference citations without markdown hyperlinks is STRICTLY FORBIDDEN.
 
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
