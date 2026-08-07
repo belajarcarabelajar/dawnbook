@@ -64,6 +64,26 @@ function applyGatedCacheHeaders(response: Response): Response {
   return newResponse;
 }
 
+/**
+ * Applies baseline defensive HTTP security headers to an outgoing response.
+ */
+function applySecurityHeaders(response: Response): Response {
+  const newResponse = new Response(response.body, response);
+  if (!newResponse.headers.has("X-Frame-Options")) {
+    newResponse.headers.set("X-Frame-Options", "DENY");
+  }
+  if (!newResponse.headers.has("X-Content-Type-Options")) {
+    newResponse.headers.set("X-Content-Type-Options", "nosniff");
+  }
+  if (!newResponse.headers.has("Referrer-Policy")) {
+    newResponse.headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
+  }
+  if (!newResponse.headers.has("Permissions-Policy")) {
+    newResponse.headers.set("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
+  }
+  return newResponse;
+}
+
 export const onRequest: PagesFunction<Env> = async (context) => {
   try {
     const { request, next, env } = context;
@@ -102,7 +122,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       const response = await nextWithLocale();
       const newResponse = new Response(response.body, response);
       newResponse.headers.append("Vary", "User-Agent");
-      return newResponse;
+      return applySecurityHeaders(newResponse);
     }
 
     // --- Gated paths: require D1 session ---
@@ -111,34 +131,36 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
-        return Response.redirect(signInUrl.toString(), 302);
+        return applySecurityHeaders(Response.redirect(signInUrl.toString(), 302));
       }
       const response = await nextWithLocale();
-      return applyGatedCacheHeaders(response);
+      return applySecurityHeaders(applyGatedCacheHeaders(response));
     }
 
     // Non-HTML (API/fetch).
     const session = await verifyD1Session(request, env);
     if (!session) {
-      return unauthorizedJson();
+      return applySecurityHeaders(unauthorizedJson());
     }
 
     const response = await nextWithLocale();
-    return applyGatedCacheHeaders(response);
+    return applySecurityHeaders(applyGatedCacheHeaders(response));
   } catch (err) {
     console.error("Middleware error:", err);
-    return new Response(
-      JSON.stringify({
-        error: "Internal Server Error",
-        message: "An unexpected error occurred at the edge.",
-      }),
-      {
-        status: 500,
-        headers: {
-          "Content-Type": "application/json",
-          "Cache-Control": "private, no-store",
-        },
-      }
+    return applySecurityHeaders(
+      new Response(
+        JSON.stringify({
+          error: "Internal Server Error",
+          message: "An unexpected error occurred at the edge.",
+        }),
+        {
+          status: 500,
+          headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "private, no-store",
+          },
+        }
+      )
     );
   }
 };
