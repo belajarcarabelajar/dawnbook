@@ -44,9 +44,9 @@ Robinson, T. E., & Berridge, K. C. (1993). The neural basis of drug craving: An 
 
 Koob, G. F., & Le Moal, M. (2001). Drug addiction, dysregulation of reward, and allostasis. *Neuropsychopharmacology*, *24*(2), 97–129. [https://doi.org/10.1016/S0893-133X(00)00195-0](https://doi.org/10.1016/S0893-133X(00)00195-0)
 
-Lembke, A. (2021). *Dopamine nation: Finding balance in the age of indulgence*. Dutton.
+Lembke, A. (2021). [*Dopamine Nation: Finding Balance in the Age of Indulgence*](https://www.penguinrandomhouse.com/books/624823/dopamine-nation-by-anna-lembke-md/). New York: Dutton.
 
-Sepah, C. (2019). *Dopamine fasting 2.0: The definitive guide to spending time abstain from addictive behaviors*. LinkedIn / California Psychiatry. [https://www.linkedin.com/pulse/dopamine-fasting-20-definitive-guide-spending-time-cameron-sepah](https://www.linkedin.com/pulse/dopamine-fasting-20-definitive-guide-spending-time-cameron-sepah)
+Sepah, C. (2019). [*Dopamine Fasting 2.0: The Definitive Guide to Spending Time Abstain from Addictive Behaviors*](https://www.linkedin.com/pulse/dopamine-fasting-20-definitive-guide-spending-time-cameron-sepah). LinkedIn / California Psychiatry.
 
 Volkow, N. D., Wise, R. A., & Baler, R. (2017). The dopamine motive system: Implications for drug and food addiction. *Nature Reviews Neuroscience*, *18*(12), 741–752. [https://doi.org/10.1038/nrn.2017.130](https://doi.org/10.1038/nrn.2017.130)
 
@@ -56,7 +56,7 @@ Volkow, N. D., Wise, R. A., & Baler, R. (2017). The dopamine motive system: Impl
 
 Casey, B. J., Somerville, L. H., Gotlib, I. H., Ayduk, O., Franklin, N. T., Askren, M. K., Jonides, J., Berman, M. G., Wilson, N. L., Teslovich, T., Glover, G., Calderon, V., Wolk, M. G., Davidson, R. J., & Mischel, W. (2011). Behavioral and neural correlates of delay of gratification 40 years later. *Proceedings of the National Academy of Sciences*, *108*(36), 14998–15003. [https://doi.org/10.1073/pnas.1108561108](https://doi.org/10.1073/pnas.1108561108)
 
-Doidge, N. (2007). *The brain that changes itself: Stories of personal triumph from the frontiers of brain science*. Viking Penguin.
+Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science*](https://www.penguinrandomhouse.com/books/298495/the-brain-that-changes-itself-by-norman-doidge-md/). New York: Viking Penguin.
 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
