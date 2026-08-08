@@ -1,15 +1,15 @@
 import { expect, test, describe, beforeEach, mock } from "bun:test";
 
-import { onRequestPatch } from "../../../functions/api/users/[id]/donation-badge";
-import { setDonationBadge } from "../../../functions/lib/db";
-import { createMockEnv, setQueryHandler } from "../../helpers/mocks";
+import { onRequestPatch } from "../../../../../functions/api/users/[id]/donation-badge";
+import { setDonationBadge } from "../../../../../functions/lib/db";
+import { createMockEnv, setQueryHandler } from "../../../../helpers/mocks";
 
 // Auth is mocked here to control session per-test. mock.module is global
 // across the bun test runner, so this declaration overrides any earlier
 // override from sibling test files (slug.test.ts, books.test.ts).
 let mockSession: { sub: string; role: "reader" | "admin" } | null = null;
 
-mock.module("../../../functions/lib/auth", () => ({
+mock.module("../../../../../functions/lib/auth", () => ({
   verifySession: async () => mockSession,
 }));
 

@@ -15,7 +15,7 @@
  *   - Public responses keep their original cache headers.
  */
 
-import { verifySession as verifyD1Session, type Env as AuthEnv } from "./lib/auth";
+import { verifySession, type Env as AuthEnv } from "./lib/auth";
 import { isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
@@ -51,7 +51,7 @@ function unauthorizedJson(): Response {
         "Cache-Control": "private, no-store",
         Vary: "Cookie",
       },
-    }
+    },
   );
 }
 
@@ -78,10 +78,16 @@ function applySecurityHeaders(response: Response): Response {
     newResponse.headers.set("X-Content-Type-Options", "nosniff");
   }
   if (!newResponse.headers.has("Referrer-Policy")) {
-    newResponse.headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
+    newResponse.headers.set(
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin",
+    );
   }
   if (!newResponse.headers.has("Permissions-Policy")) {
-    newResponse.headers.set("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
+    newResponse.headers.set(
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()",
+    );
   }
   if (!newResponse.headers.has("Content-Security-Policy")) {
     newResponse.headers.set("Content-Security-Policy", CONTENT_SECURITY_POLICY);
@@ -89,13 +95,12 @@ function applySecurityHeaders(response: Response): Response {
   return newResponse;
 }
 
-export const onRequest: PagesFunction<Env> = async (context) => {
-  try {
-    const { request, next, env } = context;
-    const url = new URL(request.url);
-    const pathname = url.pathname;
+const gatingMiddleware: PagesFunction<Env> = async (context) => {
+  const { request, next, env } = context;
+  const url = new URL(request.url);
+  const pathname = url.pathname;
 
-    // --- Locale detection and cookie logic ---
+  // --- Locale detection and cookie logic ---
     const cookieHeader = request.headers.get("Cookie") ?? "";
     const cookies = cookieHeader.split(";").map((c) => c.trim());
     let cookieValue: string | null = null;
@@ -116,7 +121,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       const newResponse = new Response(response.body, response);
       newResponse.headers.append(
         "Set-Cookie",
-        `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`
+        `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`,
       );
       return newResponse;
     }
@@ -137,26 +142,52 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
     // --- Gated paths: require D1 session ---
     if (wantsHtml(request)) {
-      const session = await verifyD1Session(request, env);
+      const session = await verifySession(request, env);
       if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
-        return applySecurityHeaders(Response.redirect(signInUrl.toString(), 302));
+        return applySecurityHeaders(
+          Response.redirect(signInUrl.toString(), 302),
+        );
       }
       const response = await nextWithLocale();
       return applySecurityHeaders(applyGatedCacheHeaders(response));
     }
 
     // Non-HTML (API/fetch).
-    const session = await verifyD1Session(request, env);
+    const session = await verifySession(request, env);
     if (!session) {
       return applySecurityHeaders(unauthorizedJson());
     }
 
-    const response = await nextWithLocale();
-    return applySecurityHeaders(applyGatedCacheHeaders(response));
+  const response = await nextWithLocale();
+  return applySecurityHeaders(applyGatedCacheHeaders(response));
+};
+
+export const onRequest: PagesFunction<Env> = async (context) => {
+  try {
+    return await gatingMiddleware(context);
   } catch (err) {
     console.error("Middleware error:", err);
+
+    if (err instanceof URIError) {
+      return applySecurityHeaders(
+        new Response(
+          JSON.stringify({
+            error: "Bad Request",
+            message: "Malformed URI component.",
+          }),
+          {
+            status: 400,
+            headers: {
+              "Content-Type": "application/json",
+              "Cache-Control": "private, no-store",
+            },
+          },
+        ),
+      );
+    }
+
     return applySecurityHeaders(
       new Response(
         JSON.stringify({
@@ -169,8 +200,8 @@ export const onRequest: PagesFunction<Env> = async (context) => {
             "Content-Type": "application/json",
             "Cache-Control": "private, no-store",
           },
-        }
-      )
+        },
+      ),
     );
   }
 };

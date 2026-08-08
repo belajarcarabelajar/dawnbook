@@ -4,7 +4,7 @@ import path from "node:path";
 // Unicode property escape for visual emoji detection
 const EMOJI_REGEX = /\p{Extended_Pictographic}/gu;
 
-interface EmojiMatch {
+export interface EmojiMatch {
   bookSlug: string;
   filePath: string;
   lineNumber: number;
@@ -12,7 +12,7 @@ interface EmojiMatch {
   lineContent: string;
 }
 
-async function scanAndCleanFile(
+export async function scanAndCleanFile(
   filePath: string,
   bookSlug: string,
   shouldFix: boolean,
@@ -60,7 +60,7 @@ async function scanAndCleanFile(
   return matches;
 }
 
-async function scanBook(
+export async function scanBook(
   bookSlug: string,
   booksDir: string,
   shouldFix: boolean,
@@ -202,7 +202,9 @@ async function main() {
   }
 }
 
-main().catch((error) => {
-  console.error("An error occurred:", error);
-  process.exit(1);
-});
+if (require.main === module || (typeof import.meta !== "undefined" && import.meta.main)) {
+  main().catch((error) => {
+    console.error("An error occurred:", error);
+    process.exit(1);
+  });
+}
