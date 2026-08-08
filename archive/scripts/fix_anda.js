@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Fix the hardcoded path by resolving it dynamically
-const contentDir = path.resolve(__dirname, '../books/quarter-life-crisis/src/content');
+const contentDir = path.resolve(__dirname, '../../books/quarter-life-crisis/src/content');
 const files = fs.readdirSync(contentDir).filter(f => f.endsWith('.md'));
 
 files.forEach(file => {
