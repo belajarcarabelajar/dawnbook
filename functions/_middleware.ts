@@ -15,10 +15,7 @@
  *   - Public responses keep their original cache headers.
  */
 
-import {
-  verifySession as verifyD1Session,
-  type Env as AuthEnv,
-} from "./lib/auth";
+import { verifySession, type Env as AuthEnv } from "./lib/auth";
 import { isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
@@ -98,13 +95,12 @@ function applySecurityHeaders(response: Response): Response {
   return newResponse;
 }
 
-export const onRequest: PagesFunction<Env> = async (context) => {
-  try {
-    const { request, next, env } = context;
-    const url = new URL(request.url);
-    const pathname = url.pathname;
+const gatingMiddleware: PagesFunction<Env> = async (context) => {
+  const { request, next, env } = context;
+  const url = new URL(request.url);
+  const pathname = url.pathname;
 
-    // --- Locale detection and cookie logic ---
+  // --- Locale detection and cookie logic ---
     const cookieHeader = request.headers.get("Cookie") ?? "";
     const cookies = cookieHeader.split(";").map((c) => c.trim());
     let cookieValue: string | null = null;
@@ -146,7 +142,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
     // --- Gated paths: require D1 session ---
     if (wantsHtml(request)) {
-      const session = await verifyD1Session(request, env);
+      const session = await verifySession(request, env);
       if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
@@ -159,13 +155,18 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     }
 
     // Non-HTML (API/fetch).
-    const session = await verifyD1Session(request, env);
+    const session = await verifySession(request, env);
     if (!session) {
       return applySecurityHeaders(unauthorizedJson());
     }
 
-    const response = await nextWithLocale();
-    return applySecurityHeaders(applyGatedCacheHeaders(response));
+  const response = await nextWithLocale();
+  return applySecurityHeaders(applyGatedCacheHeaders(response));
+};
+
+export const onRequest: PagesFunction<Env> = async (context) => {
+  try {
+    return await gatingMiddleware(context);
   } catch (err) {
     console.error("Middleware error:", err);
 

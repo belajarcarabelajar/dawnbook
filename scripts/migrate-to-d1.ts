@@ -183,7 +183,9 @@ ON CONFLICT(slug) DO UPDATE SET
   if (options.writeSeedSql !== false) {
     const tmpSqlPath = join(rootDir, "db", "seed.sql");
     await Bun.write(tmpSqlPath, fullSql);
-    console.log(`\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`);
+    console.log(
+      `\n📝 Wrote seed SQL to ${tmpSqlPath} (${rows.length} book(s))`,
+    );
   }
 
   const execFn =
@@ -232,17 +234,32 @@ ON CONFLICT(slug) DO UPDATE SET
     }
 
     let chunkIndex = 1;
+    let batchedSql = "";
+    let batchCount = 0;
+    // Chunk size is 30,000 chars. SQLite/D1 limits apply to statement strings and payload limits.
+    // 3 chunks (~90,000 chars of base text, plus escaping and SQL overhead) is a safe
+    // threshold that avoids TOOBIG errors while optimizing network roundtrips.
+    const MAX_CHUNKS_PER_BATCH = 3;
+
     for (const chunk of chunks) {
-      const chunkSql = `UPDATE books SET content_md = content_md || ${escapeSql(chunk)} WHERE slug = ${escapeSql(row.slug)};`;
-      try {
-        console.log(`  - Appending chunk ${chunkIndex}/${chunks.length}...`);
-        await execFn(chunkSql);
-      } catch (error) {
-        console.error(
-          `❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`,
-          error,
-        );
-        throw error;
+      batchedSql += `UPDATE books SET content_md = content_md || ${escapeSql(chunk)} WHERE slug = ${escapeSql(row.slug)};\n`;
+      batchCount++;
+
+      if (batchCount >= MAX_CHUNKS_PER_BATCH || chunkIndex === chunks.length) {
+        try {
+          console.log(
+            `  - Appending chunks ${chunkIndex - batchCount + 1}-${chunkIndex}/${chunks.length}...`,
+          );
+          await execFn(batchedSql);
+          batchedSql = "";
+          batchCount = 0;
+        } catch (error) {
+          console.error(
+            `❌ Failed to append chunk ${chunkIndex} for ${row.slug}:`,
+            error,
+          );
+          throw error;
+        }
       }
       chunkIndex++;
     }

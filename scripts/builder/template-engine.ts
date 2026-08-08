@@ -1,8 +1,7 @@
-import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook } from "./metadata";
-import { isPublicPath } from "../../functions/lib/gating.ts";
 import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
 
 export function escapeHtml(unsafe: string): string {
@@ -38,7 +37,9 @@ export async function compileHubRuntime(): Promise<string> {
     target: "browser",
   });
   if (!result.success || result.outputs.length === 0) {
-    throw new Error(`Failed to compile hub-runtime.ts: ${result.logs.join("\n")}`);
+    throw new Error(
+      `Failed to compile hub-runtime.ts: ${result.logs.join("\n")}`,
+    );
   }
   return await result.outputs[0].text();
 }
@@ -49,13 +50,13 @@ export async function generateSitePages(
   builtBooks: BuiltBook[],
   // Injectable for tests so the generator never reads mutated globals; the
   // build pipeline (scripts/build.ts) omits this and uses real process.env.
-  buildEnv: Record<string, string | undefined> = process.env
+  buildEnv: Record<string, string | undefined> = process.env,
 ): Promise<void> {
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
   const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
   const runtimeScript = await readFile(
     join(rootDir, "apps/hub/src/scripts/i18n-runtime.js"),
-    "utf8"
+    "utf8",
   );
   const compiledHubRuntime = await compileHubRuntime();
 
@@ -91,7 +92,7 @@ export async function generateSitePages(
   const generatePage = (
     title: string,
     content: string,
-    isHome: boolean = false
+    isHome: boolean = false,
   ) => `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,7 +201,7 @@ ${gaTag}    <meta charset="UTF-8">
                 </div>
             </div>
         </a>
-      `
+      `,
         )
         .join("")}
     </div>
@@ -502,37 +503,37 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
   const signUpContent = signInContent
     .replace(
       'data-i18n="signin.title">Sign In to Continue Reading',
-      ">Sign Up to Continue Reading"
+      ">Sign Up to Continue Reading",
     )
     .replace('id="google-signin-btn"', 'id="google-signup-btn"');
 
   await writeFile(
     join(outputDir, "index.html"),
-    generatePage("Home", indexContent, true)
+    generatePage("Home", indexContent, true),
   );
   await writeFile(
     join(outputDir, "about.html"),
-    generatePage("About", aboutContent)
+    generatePage("About", aboutContent),
   );
   await writeFile(
     join(outputDir, "contribute.html"),
-    generatePage("Contribute", contributeContent)
+    generatePage("Contribute", contributeContent),
   );
   await writeFile(
     join(outputDir, "donate.html"),
-    generatePage("Donate", donateContent)
+    generatePage("Donate", donateContent),
   );
   await writeFile(
     join(outputDir, "appreciation.html"),
-    generatePage("Appreciation", appreciationContent)
+    generatePage("Appreciation", appreciationContent),
   );
   await writeFile(
     join(outputDir, "sign-in.html"),
-    generatePage("Sign In", signInContent)
+    generatePage("Sign In", signInContent),
   );
   await writeFile(
     join(outputDir, "sign-up.html"),
-    generatePage("Sign Up", signUpContent)
+    generatePage("Sign Up", signUpContent),
   );
 
   const manifestData = {
@@ -542,34 +543,39 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
         acc[b.slug] = b.chapters;
         return acc;
       },
-      {} as Record<string, string[]>
+      {} as Record<string, string[]>,
     ),
   };
   await writeFile(
     join(outputDir, "manifest.json"),
-    JSON.stringify(manifestData, null, 2)
+    JSON.stringify(manifestData, null, 2),
   );
 }
 
-export async function copyAssets(rootDir: string, outputDir: string): Promise<void> {
+export async function copyAssets(
+  rootDir: string,
+  outputDir: string,
+): Promise<void> {
   for (const cssFile of ["typography.css", "tokens.css"]) {
     const cssContent = await readFile(
       join(rootDir, `apps/hub/src/styles/${cssFile}`),
-      "utf8"
+      "utf8",
     );
     await writeFile(join(outputDir, cssFile), minifyCss(cssContent));
   }
   const layoutCss = await readFile(
     join(rootDir, "apps/hub/src/components/HubLayout.css"),
-    "utf8"
+    "utf8",
   );
   await writeFile(join(outputDir, "HubLayout.css"), minifyCss(layoutCss));
 
   try {
     await $`cp -r public/* ${outputDir}/`;
-  } catch {
+  } catch (error) {
     console.warn(
-      "No public/ directory found or empty, skipping PWA files copy."
+      "No public/ directory found or empty, skipping PWA files copy.",
+      "No public/ directory found or empty, skipping PWA files copy.",
+      error
     );
   }
 }

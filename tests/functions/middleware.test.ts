@@ -1,8 +1,13 @@
-import { expect, test, describe, mock } from "bun:test";
+import { expect, test, describe, mock, afterEach } from "bun:test";
 import { onRequest } from "../../functions/_middleware";
 import { createMockEnv, mockRequest, setQueryHandler } from "../helpers/mocks";
+import { __setDnsFetcherForTests, clearBotCache } from "../../functions/lib/bot-verify";
 
 describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
+  afterEach(() => {
+    __setDnsFetcherForTests(null);
+    clearBotCache();
+  });
   test("public path passes through next() and appends dawnbook_lang Set-Cookie header when cookie missing", async () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/", {}, "ID");
@@ -29,6 +34,51 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(setCookie).toContain("dawnbook_lang=id");
     expect(setCookie).toContain("Path=/");
     expect(setCookie).toContain("SameSite=Lax");
+  });
+
+  test("verified bot requesting gated path passes through and sets Vary: User-Agent", async () => {
+    const env = createMockEnv();
+
+    // Simulate a verified bot
+    __setDnsFetcherForTests(async (urlStr: RequestInfo | URL) => {
+      const url = new URL(urlStr as string);
+      const type = url.searchParams.get("type");
+      if (type === "PTR") {
+        return new Response(JSON.stringify({
+          Status: 0,
+          Answer: [{ type: 12, data: "crawl-66-249-65-1.googlebot.com." }]
+        }));
+      } else if (type === "A") {
+        return new Response(JSON.stringify({
+          Status: 0,
+          Answer: [{ type: 1, data: "66.249.65.1" }]
+        }));
+      }
+      return new Response("{}", { status: 404 });
+    });
+
+    const req = mockRequest("https://example.com/admin/dashboard", {
+      headers: {
+        "User-Agent": "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",
+        "CF-Connecting-IP": "66.249.65.1"
+      }
+    });
+
+    const context = {
+      request: req,
+      env: env,
+      next: mock(async () => new Response("Gated Content", { status: 200 })),
+    };
+
+    const response = await onRequest(context as any);
+    expect(response.status).toBe(200);
+    expect(response.headers.get("Vary")).toContain("User-Agent");
+
+    // Should NOT have gated cache headers because it's treated like a public pass-through
+    expect(response.headers.get("Cache-Control")).toBeNull();
+
+    const text = await response.text();
+    expect(text).toBe("Gated Content");
   });
 
   test("public path does NOT append Set-Cookie if dawnbook_lang cookie already present", async () => {
@@ -232,6 +282,33 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(response.headers.get("Content-Security-Policy")).toBe(
       "default-src 'none'",
     );
+  });
+
+  test("does not override existing security headers (X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy)", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/", {}, "US");
+
+    const context = {
+      request: req,
+      env,
+      next: mock(async () =>
+        new Response("OK", {
+          status: 200,
+          headers: {
+            "X-Frame-Options": "SAMEORIGIN",
+            "X-Content-Type-Options": "custom",
+            "Referrer-Policy": "no-referrer",
+            "Permissions-Policy": "fullscreen=()",
+          },
+        })
+      ),
+    };
+
+    const response = await onRequest(context as any);
+    expect(response.headers.get("X-Frame-Options")).toBe("SAMEORIGIN");
+    expect(response.headers.get("X-Content-Type-Options")).toBe("custom");
+    expect(response.headers.get("Referrer-Policy")).toBe("no-referrer");
+    expect(response.headers.get("Permissions-Policy")).toBe("fullscreen=()");
   });
 
   test("internal error in middleware catches exception and returns 500 JSON", async () => {
