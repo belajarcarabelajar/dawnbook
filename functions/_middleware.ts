@@ -89,13 +89,12 @@ function applySecurityHeaders(response: Response): Response {
   return newResponse;
 }
 
-export const onRequest: PagesFunction<Env> = async (context) => {
-  try {
-    const { request, next, env } = context;
-    const url = new URL(request.url);
-    const pathname = url.pathname;
+const gatingMiddleware: PagesFunction<Env> = async (context) => {
+  const { request, next, env } = context;
+  const url = new URL(request.url);
+  const pathname = url.pathname;
 
-    // --- Locale detection and cookie logic ---
+  // --- Locale detection and cookie logic ---
     const cookieHeader = request.headers.get("Cookie") ?? "";
     const cookies = cookieHeader.split(";").map((c) => c.trim());
     let cookieValue: string | null = null;
@@ -153,8 +152,13 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       return applySecurityHeaders(unauthorizedJson());
     }
 
-    const response = await nextWithLocale();
-    return applySecurityHeaders(applyGatedCacheHeaders(response));
+  const response = await nextWithLocale();
+  return applySecurityHeaders(applyGatedCacheHeaders(response));
+};
+
+export const onRequest: PagesFunction<Env> = async (context) => {
+  try {
+    return await gatingMiddleware(context);
   } catch (err) {
     console.error("Middleware error:", err);
     return applySecurityHeaders(
