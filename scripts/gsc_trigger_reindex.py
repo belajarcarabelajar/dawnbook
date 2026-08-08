@@ -71,18 +71,31 @@ def submit_sitemap_gsc(token: str, site_url: str, sitemap_url: str):
         print(f"HTTP Error {e.code}: {e.read().decode('utf-8')}")
 
 def main():
+    env_vars = {}
+    env_path = "/home/belajarcarabelajar/dawnbook/.env"
+    if os.path.exists(env_path):
+        with open(env_path) as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#') and '=' in line:
+                    k, v = line.split('=', 1)
+                    env_vars[k.trim() if hasattr(k, "trim") else k.strip()] = v.strip('\"\'')
+
     sa_path = "/home/belajarcarabelajar/dawnbook/service-account.json"
     sa = None
-    if os.environ.get("GSC_CLIENT_EMAIL") and os.environ.get("GSC_PRIVATE_KEY"):
+    client_email = os.environ.get("GSC_CLIENT_EMAIL") or env_vars.get("GSC_CLIENT_EMAIL")
+    private_key = os.environ.get("GSC_PRIVATE_KEY") or env_vars.get("GSC_PRIVATE_KEY")
+
+    if client_email and private_key:
         sa = {
-            "client_email": os.environ["GSC_CLIENT_EMAIL"],
-            "private_key": os.environ["GSC_PRIVATE_KEY"].replace("\\n", "\n")
+            "client_email": client_email,
+            "private_key": private_key.replace("\\n", "\n")
         }
     elif os.path.exists(sa_path):
         with open(sa_path, 'r', encoding='utf-8') as f:
             sa = json.load(f)
     else:
-        print(f"Service account credentials not found in env or at: {sa_path}")
+        print(f"Service account credentials not found in env, .env, or at: {sa_path}")
         return
 
     print("🔐 Authenticating with Google Search Console API via Service Account...")

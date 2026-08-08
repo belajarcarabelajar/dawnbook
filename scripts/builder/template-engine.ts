@@ -249,55 +249,60 @@ export async function generateSitePages(
   const donateContent = `
     <div class="content-panel" style="max-width: 720px;">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-sm)" data-i18n="donate.title">Support Dawnbook</h2>
-        <p style="font-size: 1.05rem; line-height: 1.6; color: var(--color-text); margin-bottom: var(--spacing-lg)" data-i18n="donate.subtitle">
-            Dawnbook is a non-profit educational initiative. Every book, guide, and resource on this platform is completely free for everyone, forever. Your donation directly covers server infrastructure, Cloudflare D1 storage, domain maintenance, and the creation of new open-access educational titles.
-        </p>
+        <p style="color: var(--color-text-muted); margin-bottom: var(--spacing-lg); line-height: 1.7;" data-i18n="donate.subtitle">Your generosity helps us deliver free books to school libraries and community reading spaces in underserved regions (3T areas).</p>
 
-        <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: 8px; padding: var(--spacing-lg); margin-bottom: var(--spacing-lg);">
-            <h3 style="margin: 0 0 var(--spacing-md) 0; color: var(--color-primary); font-size: 1.15rem;" data-i18n="donate.qris.title">🇮🇩 Domestic Donation (QRIS & Bank Transfer)</h3>
-            <p style="font-size: 0.9rem; color: var(--color-text); margin-bottom: var(--spacing-md);" data-i18n="donate.qris.desc">Support via Maybank Indonesia or any QRIS-compatible e-wallet / banking app (GoPay, OVO, Dana, ShopeePay, BCA, Mandiri, BRI, BNI, etc.).</p>
-
-            <div style="display: flex; gap: var(--spacing-lg); align-items: center; flex-wrap: wrap;">
-                <div style="background: #fff; padding: 12px; border-radius: 8px; text-align: center;">
-                    <img src="https://snipset.belajarcarabelajar.com/images/qris-dawnbook.webp" alt="QRIS Dawnbook" style="width: 180px; height: 180px; display: block; object-fit: contain;">
-                    <span style="font-size: 11px; color: #333; font-weight: 600; margin-top: 4px; display: block;">NMID: ID1024362141527</span>
+        <div class="donate-grid">
+            <!-- Bank Transfer Card -->
+            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg);">
+                <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-md) 0; font-size: 1.1rem;" data-i18n="donate.bank.title">Bank Transfer</h3>
+                <div style="display: flex; flex-direction: column; gap: var(--spacing-sm);">
+                    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.95rem;">
+                        <span style="color: var(--color-text-muted);" data-i18n="donate.bank.name">BCA</span>
+                    </div>
+                    <div style="display: flex; justify-content: space-between; align-items: center; background: var(--color-background); border: 1px solid var(--color-secondary); border-radius: 6px; padding: 12px 16px;">
+                        <span id="bank-account-number" style="font-size: 1.3rem; font-weight: 700; font-family: var(--font-family-display); letter-spacing: 2px; color: var(--color-primary);">3761558747</span>
+                        <button id="copy-btn" onclick="copyAccountNumber()" style="background: var(--color-primary); color: var(--color-background); border: none; border-radius: 4px; padding: 6px 14px; cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: all 0.2s;" data-i18n="donate.bank.copy">Copy</button>
+                    </div>
+                    <div style="font-size: 0.9rem; color: var(--color-text-muted);">a.n. <strong style="color: var(--color-text);" data-i18n="donate.bank.holder">Iwan Kurniawan</strong></div>
                 </div>
-                <div style="flex: 1; min-width: 220px;">
-                    <div style="margin-bottom: 12px;">
-                        <span style="font-size: 0.8rem; color: var(--color-secondary); display: block;" data-i18n="donate.bank.name">Bank Name</span>
-                        <strong style="font-size: 1rem; color: var(--color-text);">Maybank Indonesia</strong>
-                    </div>
-                    <div style="margin-bottom: 12px;">
-                        <span style="font-size: 0.8rem; color: var(--color-secondary); display: block;" data-i18n="donate.bank.account">Account Number</span>
-                        <strong style="font-size: 1.1rem; color: var(--color-primary); font-family: monospace;">2735002167</strong>
-                    </div>
-                    <div>
-                        <span style="font-size: 0.8rem; color: var(--color-secondary); display: block;" data-i18n="donate.bank.holder">Account Holder</span>
-                        <strong style="font-size: 1rem; color: var(--color-text);">Iwan Kurniawan</strong>
-                    </div>
+            </div>
+
+            <!-- QRIS Card -->
+            <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: var(--spacing-md); padding: var(--spacing-lg); text-align: center; box-sizing: border-box;">
+                <h3 style="color: var(--color-primary); margin: 0 0 var(--spacing-sm) 0; font-size: 1.1rem;" data-i18n="donate.qris.title">Scan QRIS</h3>
+                <p style="color: var(--color-text-muted); font-size: 0.9rem; margin-bottom: var(--spacing-md);" data-i18n="donate.qris.desc">Scan the QR code below using any e-wallet or mobile banking app.</p>
+                <div class="donate-qris-frame">
+                    <img class="donate-qris-img" src="https://img.berduflare.com/img/800/bsob0d3ebsoe6947mv_2/LmqNNYTpPwFLHsiLmJQR01lnZ5YUVTySJrzPuA11wXg.webp" alt="QRIS Code">
                 </div>
             </div>
         </div>
 
-        <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); border-radius: 8px; padding: var(--spacing-lg); margin-bottom: var(--spacing-lg);">
-            <h3 style="margin: 0 0 var(--spacing-md) 0; color: var(--color-primary); font-size: 1.15rem;" data-i18n="donate.intl.title">🌐 International Donation (PayPal)</h3>
-            <p style="font-size: 0.9rem; color: var(--color-text); margin-bottom: var(--spacing-md);" data-i18n="donate.intl.desc">Support from anywhere in the world securely via PayPal.</p>
-
-            <a href="https://paypal.me/belajarcarabelajar" target="_blank" rel="noopener noreferrer" style="display: inline-flex; align-items: center; gap: 8px; padding: 10px 20px; background: #0070ba; color: #ffffff; font-weight: 600; font-size: 0.95rem; border-radius: 6px; text-decoration: none; transition: background 0.15s;">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M7.076 21.337H2.47a.641.641 0 0 1-.633-.74L4.944 3.72a.77.77 0 0 1 .761-.643h7.246c2.41 0 4.28.6 5.253 1.782.915 1.114 1.153 2.673.708 4.632-.705 3.097-2.613 4.887-5.518 5.176l-.41.041H9.98a.77.77 0 0 0-.76.643l-1.07 6.804a.64.64 0 0 1-.633.541z"/></svg>
-                <span data-i18n="donate.paypal.btn">Donate via PayPal</span>
+        <!-- WhatsApp Confirmation -->
+        <div style="margin-top: var(--spacing-lg); text-align: center;">
+            <h3 style="color: var(--color-primary); margin-bottom: var(--spacing-sm);" data-i18n="donate.wa.title">Confirm Your Donation</h3>
+            <a href="https://wa.me/6282129267114?text=Halo%20Kak%20Iwan%2C%20saya%20baru%20saja%20melakukan%20donasi%20untuk%20Dawnbook.%20Berikut%20adalah%20bukti%20transfernya." target="_blank" rel="noopener noreferrer" class="btn-primary" style="display: inline-flex; align-items: center; gap: 8px; animation: none; opacity: 1; transform: none;" data-i18n="donate.wa.btn">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+                Confirm via WhatsApp
             </a>
         </div>
-
-        <div style="text-align: center; padding: var(--spacing-md); color: var(--color-secondary); font-size: 0.9rem;">
-            <p style="margin-bottom: var(--spacing-sm);" data-i18n="donate.transparency.1">
-                Transparency matters. All donors can opt to have their name or contribution acknowledged on our platform.
-            </p>
-            <p data-i18n="donate.transparency.2">
-                Questions about donations? Contact us directly at <a href="mailto:iwan@dawnbook.belajarcarabelajar.com" style="color: var(--color-primary);">iwan@dawnbook.belajarcarabelajar.com</a>
-            </p>
-        </div>
     </div>
+    <script>
+      ${minifyJs(`
+      function copyAccountNumber() {
+        var text = document.getElementById('bank-account-number').textContent;
+        navigator.clipboard.writeText(text).then(function() {
+          var btn = document.getElementById('copy-btn');
+          var originalText = btn.textContent;
+          btn.textContent = '✓';
+          btn.style.background = '#22c55e';
+          setTimeout(function() {
+            btn.textContent = originalText;
+            btn.style.background = 'var(--color-primary)';
+          }, 2000);
+        });
+      }
+      `)}
+    </script>
   `;
 
   const appreciationContent = `
