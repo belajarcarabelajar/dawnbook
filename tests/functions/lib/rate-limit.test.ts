@@ -2,8 +2,11 @@ import { describe, it, expect, mock } from "bun:test";
 import {
   checkRateLimit,
   enforceRateLimit,
+  gcExpiredRateLimits,
+  RATE_LIMIT_UPSERT_SQL,
+  RATE_LIMIT_GC_SQL,
 } from "../../../functions/lib/rate-limit";
-import { createMockEnv, setQueryHandler } from "../../helpers/mocks";
+import { createMockEnv, setQueryHandler, setRunHandler } from "../../helpers/mocks";
 
 const WINDOW = 600;
 
@@ -82,25 +85,76 @@ describe("checkRateLimit / enforceRateLimit", () => {
   });
 
   it("guards the atomic upsert shape (inline window reset + RETURNING)", async () => {
-    // The D1 mock never evaluates SQL, so pin the statement structure here to
-    // catch regressions in the expired-window reset logic.
+    // The D1 mock never evaluates SQL, so pin the exported constant that
+    // checkRateLimit submits — and that scripts/check-d1-rate-limit.ts runs
+    // against a real D1 in CI — to catch regressions in the statement.
+    expect(RATE_LIMIT_UPSERT_SQL).toContain("INSERT INTO rate_limits");
+    expect(RATE_LIMIT_UPSERT_SQL).toContain("ON CONFLICT(key) DO UPDATE SET");
+    expect(RATE_LIMIT_UPSERT_SQL).toContain("CASE WHEN rate_limits.expires_at <= ?2 THEN 1");
+    expect(RATE_LIMIT_UPSERT_SQL).toContain("RETURNING count, window_start, expires_at");
+
+    // checkRateLimit must submit exactly that constant (no drift between the
+    // shape guard, the integration check, and production).
     const env = createMockEnv();
     let capturedSql = "";
     setQueryHandler(env, "INSERT", (sql) => {
       capturedSql = sql;
       return makeRows(1);
     });
-
     await checkRateLimit(env.DB, requestWithIp(), {
       route: "test",
       limit: 30,
       windowSeconds: WINDOW,
     });
+    expect(capturedSql).toBe(RATE_LIMIT_UPSERT_SQL);
+  });
 
-    expect(capturedSql).toContain("INSERT INTO rate_limits");
-    expect(capturedSql).toContain("ON CONFLICT(key) DO UPDATE SET");
-    expect(capturedSql).toContain("CASE WHEN rate_limits.expires_at <= ?2 THEN 1");
-    expect(capturedSql).toContain("RETURNING count, window_start, expires_at");
+  it("deletes only rows whose window has fully expired and reports the count", async () => {
+    const env = createMockEnv();
+    let capturedSql = "";
+    let capturedNow: any = null;
+    setRunHandler(env, "DELETE", (sql, params) => {
+      capturedSql = sql;
+      capturedNow = params[0];
+      return { success: true, meta: { changes: 7 } };
+    });
+
+    const deleted = await gcExpiredRateLimits(env.DB, 1_700_000_000);
+    expect(deleted).toBe(7);
+    expect(capturedSql).toBe(RATE_LIMIT_GC_SQL);
+    expect(capturedNow).toBe(1_700_000_000);
+  });
+
+  it("defaults the cutoff to the current unix time", async () => {
+    const env = createMockEnv();
+    let capturedNow: any = null;
+    setRunHandler(env, "DELETE", (_sql, params) => {
+      capturedNow = params[0];
+      return { success: true, meta: { changes: 0 } };
+    });
+
+    const before = Math.floor(Date.now() / 1000);
+    await gcExpiredRateLimits(env.DB);
+    const after = Math.floor(Date.now() / 1000);
+    expect(capturedNow).toBeGreaterThanOrEqual(before);
+    expect(capturedNow).toBeLessThanOrEqual(after);
+  });
+
+  it("fails open (reports 0, does not throw) when D1 throws", async () => {
+    const env = createMockEnv();
+    env.DB.prepare = mock(() => {
+      throw new Error("D1 unavailable");
+    }) as any;
+
+    const deleted = await gcExpiredRateLimits(env.DB, 1_700_000_000);
+    expect(deleted).toBe(0);
+  });
+
+  it("returns 0 when the result carries no changes metadata", async () => {
+    const env = createMockEnv();
+    setRunHandler(env, "DELETE", () => ({ success: true }));
+    const deleted = await gcExpiredRateLimits(env.DB, 1_700_000_000);
+    expect(deleted).toBe(0);
   });
 
   it("fails open (allows the request) when D1 throws", async () => {

@@ -4,6 +4,7 @@
   "description": "Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.",
   "scripts": {
     "build": "bun run scripts/build.ts",
+    "check:d1": "bun run scripts/check-d1-rate-limit.ts",
     "test:audit": "bun test"
   },
   "dependencies": {
@@ -12,7 +13,8 @@
   "devDependencies": {
     "@types/bun": "1.2.2",
     "katex": "0.17.0",
-    "lighthouse": "13.4.0"
+    "lighthouse": "13.4.0",
+    "miniflare": "4.20260714.0"
   },
   "workspaces": [
     "apps/*"

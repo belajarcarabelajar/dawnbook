@@ -122,9 +122,20 @@ tests in 31 files. `bun install --frozen-lockfile` resolves with **no changes**
     but this codebase has no DO binding; D1 is the correct fit for these
     low-frequency mutation endpoints (documented in the helper).
 - **Verification:** `tests/functions/lib/rate-limit.test.ts` (quota, 429 headers,
-  user/IP keying, fail-open, SQL-shape guard for the reset logic) plus end-to-end
-  429 wiring tests in `progress.test.ts`, `books/[slug]/view.test.ts`, and
-  `auth.test.ts`. All pass.
+  user/IP keying, fail-open, SQL-shape guard for the reset logic, GC delete /
+  count / fail-open) plus end-to-end 429 wiring tests in `progress.test.ts`,
+  `books/[slug]/view.test.ts`, and `auth.test.ts`. All pass. The UPSERT and GC
+  statements are additionally executed against a real (in-memory, SQLite-backed)
+  D1 instance by the CI integration check `scripts/check-d1-rate-limit.ts`
+  (fresh-insert / in-window-increment / expired-window-reset / GC-removes-only-
+  expired, after applying the full `db/migrations/` set) — see section 8.
+- **Periodic GC job (implemented):** `scripts/gc-rate-limits.ts` deletes
+  `rate_limits` rows whose window fully expired via the exported
+  `RATE_LIMIT_GC_SQL` / `gcExpiredRateLimits()` helper. Run it on any schedule
+  (`bun run scripts/gc-rate-limits.ts`); it shells out to
+  `wrangler d1 execute --remote --json` and reports the exact deleted-row count
+  from D1's `meta.changes`. See section 8 for why it is a standalone script
+  rather than a Pages scheduled function.
 - **Deployment requirement:** the `rate_limits` migration must be applied.
   `scripts/deploy-website.sh` runs `wrangler d1 migrations apply` before deploy.
 
@@ -322,6 +333,8 @@ documentation.
 - [x] All prior Critical/High findings remediated
 - [x] Dependencies pinned to exact versions (F-005 / F-103)
 - [x] Rate limiting on auth + all mutation endpoints (F-102)
+- [x] Automated D1 integration check for the rate-limit UPSERT in CI
+  (`scripts/check-d1-rate-limit.ts` in `test.yml`)
 - [x] Draft content hidden from non-admin API callers (F-101)
 - [x] No secrets in working tree or git history (fresh scan)
 - [x] Full test suite green (216 pass / 0 fail)
@@ -338,7 +351,14 @@ documentation.
 ## 7. Validation Runbook
 
 ```bash
-bun test                     # 216 pass / 0 fail / 13 skip (229 tests, 31 files)
+bun test                     # 233 tests, 31 files — all pass (0 fail)
+bun run scripts/check-d1-rate-limit.ts  # D1 integration check: applies the full
+                                        # migration set to an in-memory D1 and
+                                        # exercises the real rate-limit UPSERT
+                                        # (fresh / increment / expired-reset) and
+                                        # GC (expired removed, live kept)
+bun run scripts/gc-rate-limits.ts       # periodic GC of fully-expired rate_limits
+                                        # rows (production D1; standalone job)
 bun install --frozen-lockfile # Resolved 192 installs across 240 packages (no changes)
 git grep -nIE 'GOCSPX-|sk_live_|AKIA|AIza|ghp_|BEGIN (RSA|EC|OPENSSH) PRIVATE'  # no hits
 ```
@@ -354,8 +374,25 @@ git grep -nIE 'GOCSPX-|sk_live_|AKIA|AIza|ghp_|BEGIN (RSA|EC|OPENSSH) PRIVATE'  
   (WAF rate-limiting rules, bot management) was verified.
 - The D1 `rate_limits` UPSERT uses `RETURNING` with `ON CONFLICT`; this SQLite
   syntax is supported by D1 but is not executed by the unit-test mock (which is
-  why a SQL-shape guard test is included). A one-time integration check against
-  real D1 is recommended.
+  why a SQL-shape guard test is included). The CI integration check
+  (`scripts/check-d1-rate-limit.ts`, wired into `.github/workflows/test.yml`)
+  executes the real UPSERT and GC statements against a real D1 instance — an
+  in-memory SQLite-backed D1 via miniflare, the same engine
+  `wrangler d1 … --local` uses. It applies the full `db/migrations/` set first
+  (guarding the schema both statements depend on), then verifies all counter
+  paths (fresh insert, in-window increment, expired-window reset, GC-removes-
+  only-expired) using `prepare().bind()` — the exact production submission
+  path. No credentials, network, or production writes are involved; `miniflare`
+  is pinned as a direct devDependency.
+- The 0007 migration comment mentions an *optional periodic GC job* for
+  fully-expired `rate_limits` rows; it is implemented as a standalone script
+  (`scripts/gc-rate-limits.ts`) rather than a Pages scheduled function because
+  Cloudflare removed scheduled-handler support from Pages Functions during the
+  Pages → Workers unification (verified: wrangler 4.112.0 rejects
+  `functions/_scheduled.ts` with "No routes found"). Run it from any cron
+  (GitHub Actions schedule, a box with wrangler, etc.) at a cadence of your
+  choice — e.g. hourly or daily — since the limiter never depends on GC for
+  correctness.
 - The bot-gating policy for F-104 was decided and implemented during this cycle:
   only DNS-verified crawlers (UA + reverse-DNS PTR + forward confirmation) get
   the gated-content pass-through; all other requests must authenticate. The SEO

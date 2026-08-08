@@ -17,3 +17,5 @@ jobs:
         run: bun install --frozen-lockfile
       - name: Run Tests
         run: bun test
+      - name: D1 Integration Check (rate-limit UPSERT)
+        run: bun run scripts/check-d1-rate-limit.ts

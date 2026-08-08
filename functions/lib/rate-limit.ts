@@ -50,6 +50,57 @@ interface RateLimitRow {
   expires_at: number;
 }
 
+/**
+ * The atomic fixed-window increment. A single statement: inserts the first
+ * counter row, or — on key conflict — increments unless the stored window has
+ * expired, in which case it resets. Expired windows therefore need no
+ * background GC.
+ *
+ * Exported so the CI integration check (scripts/check-d1-rate-limit.ts) can
+ * execute the exact same statement against a real D1 instance — the Bun unit
+ * mocks never evaluate SQL, so that check is the only place syntax/runtime
+ * errors in this statement would surface.
+ */
+export const RATE_LIMIT_UPSERT_SQL = `INSERT INTO rate_limits (key, count, window_start, expires_at)
+VALUES (?1, 1, ?2, ?3)
+ON CONFLICT(key) DO UPDATE SET
+  count        = CASE WHEN rate_limits.expires_at <= ?2 THEN 1 ELSE rate_limits.count + 1 END,
+  window_start = CASE WHEN rate_limits.expires_at <= ?2 THEN ?2 ELSE rate_limits.window_start END,
+  expires_at   = CASE WHEN rate_limits.expires_at <= ?2 THEN ?3 ELSE rate_limits.expires_at END
+RETURNING count, window_start, expires_at`;
+
+/**
+ * The optional periodic GC job the 0007 migration comment mentions: removes
+ * rows whose window has fully expired (`expires_at < now`). Expired windows
+ * already reset inline on the next request, so GC is pure hygiene — it keeps
+ * the table from growing unboundedly with keys that are never used again.
+ *
+ * Exported so scripts/check-d1-rate-limit.ts (CI) and scripts/gc-rate-limits.ts
+ * (the standalone periodic job) execute the exact same statement.
+ */
+export const RATE_LIMIT_GC_SQL = `DELETE FROM rate_limits WHERE expires_at < ?1`;
+
+/**
+ * Runs the GC delete against a D1 instance. Returns the number of rows
+ * removed. Never throws — a failure (e.g. unapplied migration) is logged at
+ * warn and reported as 0 so a periodic job can keep running on the next tick.
+ */
+export async function gcExpiredRateLimits(
+  db: D1Database,
+  now: number = Math.floor(Date.now() / 1000)
+): Promise<number> {
+  try {
+    const res = await db.prepare(RATE_LIMIT_GC_SQL).bind(now).run();
+    return res.meta?.changes ?? 0;
+  } catch (err) {
+    console.warn(
+      "[rate-limit] GC delete failed; expired rows will be retried next run:",
+      err
+    );
+    return 0;
+  }
+}
+
 function counterKey(request: Request, userKey?: string | null): string {
   if (userKey) return `u:${userKey}`;
   const ip = request.headers.get("CF-Connecting-IP");
@@ -72,15 +123,7 @@ export async function checkRateLimit(
 
   try {
     const row = await db
-      .prepare(
-        `INSERT INTO rate_limits (key, count, window_start, expires_at)
-         VALUES (?1, 1, ?2, ?3)
-         ON CONFLICT(key) DO UPDATE SET
-           count        = CASE WHEN rate_limits.expires_at <= ?2 THEN 1 ELSE rate_limits.count + 1 END,
-           window_start = CASE WHEN rate_limits.expires_at <= ?2 THEN ?2 ELSE rate_limits.window_start END,
-           expires_at   = CASE WHEN rate_limits.expires_at <= ?2 THEN ?3 ELSE rate_limits.expires_at END
-         RETURNING count, window_start, expires_at`
-      )
+      .prepare(RATE_LIMIT_UPSERT_SQL)
       .bind(fullKey, now, expiresAt)
       .first<RateLimitRow>();
 
