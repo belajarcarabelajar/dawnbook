@@ -15,7 +15,7 @@
  *   - Public responses keep their original cache headers.
  */
 
-import { verifySession as verifyD1Session, type Env as AuthEnv } from "./lib/auth";
+import { verifySession, type Env as AuthEnv } from "./lib/auth";
 import { isPublicPath } from "./lib/gating";
 import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
@@ -137,7 +137,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
     // --- Gated paths: require D1 session ---
     if (wantsHtml(request)) {
-      const session = await verifyD1Session(request, env);
+      const session = await verifySession(request, env);
       if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
@@ -148,7 +148,7 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     }
 
     // Non-HTML (API/fetch).
-    const session = await verifyD1Session(request, env);
+    const session = await verifySession(request, env);
     if (!session) {
       return applySecurityHeaders(unauthorizedJson());
     }
