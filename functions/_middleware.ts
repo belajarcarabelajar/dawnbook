@@ -51,7 +51,7 @@ function unauthorizedJson(): Response {
         "Cache-Control": "private, no-store",
         Vary: "Cookie",
       },
-    }
+    },
   );
 }
 
@@ -78,10 +78,16 @@ function applySecurityHeaders(response: Response): Response {
     newResponse.headers.set("X-Content-Type-Options", "nosniff");
   }
   if (!newResponse.headers.has("Referrer-Policy")) {
-    newResponse.headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
+    newResponse.headers.set(
+      "Referrer-Policy",
+      "strict-origin-when-cross-origin",
+    );
   }
   if (!newResponse.headers.has("Permissions-Policy")) {
-    newResponse.headers.set("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
+    newResponse.headers.set(
+      "Permissions-Policy",
+      "camera=(), microphone=(), geolocation=()",
+    );
   }
   if (!newResponse.headers.has("Content-Security-Policy")) {
     newResponse.headers.set("Content-Security-Policy", CONTENT_SECURITY_POLICY);
@@ -115,7 +121,7 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
       const newResponse = new Response(response.body, response);
       newResponse.headers.append(
         "Set-Cookie",
-        `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`
+        `${COOKIE_NAME}=${locale}; Path=/; Max-Age=31536000; SameSite=Lax`,
       );
       return newResponse;
     }
@@ -140,7 +146,9 @@ const gatingMiddleware: PagesFunction<Env> = async (context) => {
       if (!session) {
         const signInUrl = new URL("/sign-in", request.url);
         signInUrl.searchParams.set("redirect_url", request.url);
-        return applySecurityHeaders(Response.redirect(signInUrl.toString(), 302));
+        return applySecurityHeaders(
+          Response.redirect(signInUrl.toString(), 302),
+        );
       }
       const response = await nextWithLocale();
       return applySecurityHeaders(applyGatedCacheHeaders(response));
@@ -161,6 +169,25 @@ export const onRequest: PagesFunction<Env> = async (context) => {
     return await gatingMiddleware(context);
   } catch (err) {
     console.error("Middleware error:", err);
+
+    if (err instanceof URIError) {
+      return applySecurityHeaders(
+        new Response(
+          JSON.stringify({
+            error: "Bad Request",
+            message: "Malformed URI component.",
+          }),
+          {
+            status: 400,
+            headers: {
+              "Content-Type": "application/json",
+              "Cache-Control": "private, no-store",
+            },
+          },
+        ),
+      );
+    }
+
     return applySecurityHeaders(
       new Response(
         JSON.stringify({
@@ -173,8 +200,8 @@ export const onRequest: PagesFunction<Env> = async (context) => {
             "Content-Type": "application/json",
             "Cache-Control": "private, no-store",
           },
-        }
-      )
+        },
+      ),
     );
   }
 };

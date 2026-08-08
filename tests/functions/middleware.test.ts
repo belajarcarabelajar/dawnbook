@@ -11,7 +11,7 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
   test("public path passes through next() and appends dawnbook_lang Set-Cookie header when cookie missing", async () => {
     const env = createMockEnv();
     const req = mockRequest("https://example.com/", {}, "ID");
-    
+
     let nextCalled = false;
     const context = {
       request: req,
@@ -118,7 +118,9 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const location = response.headers.get("Location");
     expect(location).not.toBeNull();
     expect(location).toContain("/sign-in");
-    expect(location).toContain("redirect_url=https%3A%2F%2Fexample.com%2Fadmin%2Fdashboard");
+    expect(location).toContain(
+      "redirect_url=https%3A%2F%2Fexample.com%2Fadmin%2Fdashboard",
+    );
   });
 
   test("unauthenticated non-HTML (API) request to gated path returns 401 JSON error", async () => {
@@ -149,7 +151,8 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
   test("authenticated request to gated path returns 200 with gated cache headers", async () => {
     const env = createMockEnv();
 
-    const validSessionId = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+    const validSessionId =
+      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
     setQueryHandler(env, "SELECT", (sql) => {
       if (sql.includes("sessions")) {
         return [
@@ -178,7 +181,9 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const context = {
       request: req,
       env: env,
-      next: mock(async () => new Response("<h1>Admin Dashboard</h1>", { status: 200 })),
+      next: mock(
+        async () => new Response("<h1>Admin Dashboard</h1>", { status: 200 }),
+      ),
     };
 
     const response = await onRequest(context as any);
@@ -193,7 +198,8 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
   test("authenticated non-HTML (API) request to gated path returns 200 with gated cache headers", async () => {
     const env = createMockEnv();
 
-    const validSessionId = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+    const validSessionId =
+      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
     setQueryHandler(env, "SELECT", (sql) => {
       if (sql.includes("sessions")) {
         return [
@@ -241,7 +247,9 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const context = {
       request: req,
       env,
-      next: mock(async () => new Response("<html>Home</html>", { status: 200 })),
+      next: mock(
+        async () => new Response("<html>Home</html>", { status: 200 }),
+      ),
     };
 
     const response = await onRequest(context as any);
@@ -261,16 +269,19 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const context = {
       request: req,
       env,
-      next: mock(async () =>
-        new Response("OK", {
-          status: 200,
-          headers: { "Content-Security-Policy": "default-src 'none'" },
-        })
+      next: mock(
+        async () =>
+          new Response("OK", {
+            status: 200,
+            headers: { "Content-Security-Policy": "default-src 'none'" },
+          }),
       ),
     };
 
     const response = await onRequest(context as any);
-    expect(response.headers.get("Content-Security-Policy")).toBe("default-src 'none'");
+    expect(response.headers.get("Content-Security-Policy")).toBe(
+      "default-src 'none'",
+    );
   });
 
   test("does not override existing security headers (X-Frame-Options, X-Content-Type-Options, Referrer-Policy, Permissions-Policy)", async () => {
@@ -302,7 +313,8 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
 
   test("internal error in middleware catches exception and returns 500 JSON", async () => {
     const env = createMockEnv();
-    const validSessionId = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+    const validSessionId =
+      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
 
     const req = mockRequest("https://example.com/admin/secret", {
       headers: {
@@ -329,5 +341,33 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     const json = await response.json();
     expect(json.error).toBe("Internal Server Error");
     expect(json.message).toContain("unexpected error");
+  });
+
+  test("URIError in middleware is caught and returns 400 Bad Request JSON", async () => {
+    const env = createMockEnv();
+    const validSessionId =
+      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+
+    // %E0%A4%A causes URIError when passed to decodeURIComponent
+    const req = mockRequest("https://example.com/admin/secret/%E0%A4%A", {
+      headers: {
+        Accept: "text/html",
+        Cookie: `session_id=${validSessionId}`,
+      },
+    });
+
+    const context = {
+      request: req,
+      env: env,
+      next: mock(async () => new Response("Gated")),
+    };
+
+    const response = await onRequest(context as any);
+    expect(response.status).toBe(400);
+    expect(response.headers.get("Content-Type")).toBe("application/json");
+
+    const json = await response.json();
+    expect(json.error).toBe("Bad Request");
+    expect(json.message).toContain("Malformed URI component");
   });
 });

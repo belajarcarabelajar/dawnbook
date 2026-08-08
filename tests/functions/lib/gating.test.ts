@@ -38,17 +38,9 @@ describe("isPublicPath — public path matching", () => {
 });
 
 describe("isPublicPath — edge cases", () => {
-  test("handles malformed URI gracefully (URIError)", () => {
-    const consoleErrorSpy = spyOn(console, "error").mockImplementation(() => {});
-
+  test("throws URIError on malformed URI", () => {
     // A malformed URI component string that causes decodeURIComponent to throw a URIError
-    const result = isPublicPath("%E0%A4%A");
-
-    // It should log the error and fall back to the unencoded path, eventually returning true
-    expect(result).toBe(true);
-    expect(consoleErrorSpy).toHaveBeenCalledWith("[gating] URIError decoding pathname: %E0%A4%A");
-
-    consoleErrorSpy.mockRestore();
+    expect(() => isPublicPath("%E0%A4%A")).toThrow(URIError);
   });
 });
 
