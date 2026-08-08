@@ -26,6 +26,7 @@ import {
   createSession,
   generateUserId,
 } from "../../lib/db";
+import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
 
 const STATE_COOKIE = "oauth_state";
@@ -72,6 +73,17 @@ function redirectWithError(request: Request, code: string): Response {
 export const onRequestGet: PagesFunction<Env> = async (context) => {
   const { request, env } = context;
   const url = new URL(request.url);
+
+  // Protect the OAuth code-exchange from brute-force / abuse by IP. This runs
+  // before the state check so attackers burning through invalid callbacks are
+  // also counted.
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "auth/callback",
+    limit: 60,
+    windowSeconds: 600,
+  });
+  if (rateLimited) return redirectWithError(request, "rate_limited");
+
   const code = url.searchParams.get("code");
   const state = url.searchParams.get("state");
   const stateCookie = readCookie(request, STATE_COOKIE);

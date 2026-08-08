@@ -18,6 +18,7 @@
 
 import { verifySession, type Env } from "../../../lib/auth";
 import { setDonationBadge, getUserById } from "../../../lib/db";
+import { enforceRateLimit } from "../../../lib/rate-limit";
 
 interface PatchBody {
   tier?: unknown;
@@ -52,6 +53,15 @@ export const onRequestPatch: PagesFunction<Env> = async (context) => {
   if (session.role !== "admin") {
     return jsonResponse({ error: "Forbidden" }, 403);
   }
+
+  // Cap admin writes per user.
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "donation-badge",
+    limit: 60,
+    windowSeconds: 600,
+    userKey: session.sub,
+  });
+  if (rateLimited) return rateLimited;
 
   // Parse + validate body.
   let body: PatchBody;

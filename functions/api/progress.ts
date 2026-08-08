@@ -7,6 +7,7 @@
  */
 
 import { Env, verifySession } from "../lib/auth";
+import { enforceRateLimit } from "../lib/rate-limit";
 
 interface ProgressRow {
   last_read_path: string;
@@ -114,6 +115,15 @@ async function handlePostProgress(
   if (!session || !session.sub) {
     return errorResponse("Unauthorized", 401);
   }
+
+  // Per-user cap on progress writes so a runaway tab/script cannot flood D1.
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "progress",
+    limit: 120,
+    windowSeconds: 600,
+    userKey: session.sub,
+  });
+  if (rateLimited) return rateLimited;
 
   let payload: ProgressPayload;
   try {

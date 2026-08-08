@@ -221,6 +221,19 @@ describe("/api/auth/callback", () => {
     expect(dest.pathname).toBe("/");
   });
 
+  test("redirects to /sign-in?error=rate_limited when the rate limit is exceeded", async () => {
+    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+    setEnvHandlers(env);
+    const now = Math.floor(Date.now() / 1000);
+    // Over the 60/10min per-IP limit.
+    setQueryHandler(env, "INSERT", () => [{ count: 61, window_start: now, expires_at: now + 600 }]);
+    const url = `${baseUrl}?code=abc&state=${STATE_HEX}`;
+    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+    const res = await callbackHandler({ request: req, env } as any);
+    expect(res.status).toBe(302);
+    expect(res.headers.get("Location")).toContain("error=rate_limited");
+  });
+
   test("redirects with error=config when GOOGLE_CLIENT_SECRET is missing", async () => {
     const env = createMockEnv({ GOOGLE_CLIENT_ID: "client", GOOGLE_CLIENT_SECRET: "" }) as unknown as Env;
     setEnvHandlers(env);

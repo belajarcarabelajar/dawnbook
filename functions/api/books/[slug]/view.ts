@@ -5,6 +5,8 @@
  *   POST /api/books/:slug/view — Increment view count
  */
 
+import { enforceRateLimit } from "../../../lib/rate-limit";
+
 interface Env {
   DB: D1Database;
 }
@@ -38,6 +40,14 @@ export const onRequest: PagesFunction<Env> = async (context) => {
   if (requestedWith !== "XMLHttpRequest") {
     return errorResponse("Forbidden: Invalid CSRF protection header", 403);
   }
+
+  // Per-IP cap so a script cannot inflate view counts (or burn D1 writes).
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "books-view",
+    limit: 120,
+    windowSeconds: 600,
+  });
+  if (rateLimited) return rateLimited;
 
   const slug = params.slug as string;
 

@@ -413,6 +413,22 @@ describe("API: /api/progress", () => {
     expect(response.status).toBe(401);
   });
 
+  test("POST returns 429 when the rate limit is exceeded", async () => {
+    mockSession = { sub: "u_123", role: "reader" };
+    const env = createMockEnv();
+    const now = Math.floor(Date.now() / 1000);
+    // Over the 120/10min per-user limit.
+    setQueryHandler(env, "INSERT", () => [{ count: 121, window_start: now, expires_at: now + 600 }]);
+    const req = mockRequest("https://example.com/api/progress", {
+      method: "POST",
+      body: JSON.stringify({ bookSlug: "slug", path: "/path" }),
+    });
+    const response = await onRequest({ request: req, env } as any);
+    expect(response.status).toBe(429);
+    expect(response.headers.get("Retry-After")).toBeTruthy();
+    expect(await response.json()).toMatchObject({ error: "Rate limit exceeded" });
+  });
+
   test("POST returns 400 when JSON payload is malformed", async () => {
     mockSession = { sub: "u_123", role: "reader" };
     const env = createMockEnv();

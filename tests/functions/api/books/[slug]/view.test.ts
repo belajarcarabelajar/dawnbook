@@ -1,6 +1,6 @@
 import { describe, it, expect, mock } from "bun:test";
 import { onRequest } from "../../../../../functions/api/books/[slug]/view";
-import { createMockEnv, setRunHandler } from "../../../../helpers/mocks";
+import { createMockEnv, setRunHandler, setQueryHandler } from "../../../../helpers/mocks";
 
 describe("POST /api/books/[slug]/view", () => {
   it("allows requests with a valid X-Requested-With header", async () => {
@@ -80,6 +80,21 @@ describe("POST /api/books/[slug]/view", () => {
     expect(response.status).toBe(403);
     const body = await response.json();
     expect(body).toEqual({ error: "Forbidden: Invalid CSRF protection header" });
+  });
+
+  it("returns 429 when the rate limit is exceeded", async () => {
+    const env = createMockEnv();
+    const now = Math.floor(Date.now() / 1000);
+    // Over the 120/10min per-IP limit.
+    setQueryHandler(env, "INSERT", () => [{ count: 121, window_start: now, expires_at: now + 600 }]);
+
+    const request = new Request("https://dawnbook.belajarcarabelajar.com/api/books/test-book/view", {
+      method: "POST",
+      headers: { "X-Requested-With": "XMLHttpRequest" },
+    });
+    const response = await onRequest({ request, env, params: { slug: "test-book" } } as any);
+    expect(response.status).toBe(429);
+    expect(await response.json()).toMatchObject({ error: "Rate limit exceeded" });
   });
 
   it("returns 405 Method Not Allowed when method is not POST", async () => {

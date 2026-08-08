@@ -10,12 +10,22 @@
 
 import { deleteSession } from "../../lib/db";
 import { extractSessionId } from "../../lib/auth";
+import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
 
 const SESSION_COOKIE = "session_id";
 
 export const onRequestPost: PagesFunction<Env> = async (context) => {
   const { request, env } = context;
+
+  // Cheap per-IP cap so an attacker cannot hammer the session-store delete.
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "auth/logout",
+    limit: 60,
+    windowSeconds: 600,
+  });
+  if (rateLimited) return rateLimited;
+
   const sid = extractSessionId(request);
   if (sid) {
     try {

@@ -14,6 +14,7 @@
 
 import { buildAuthUrl, randomState, safeRedirectPath } from "../../lib/oauth";
 import { verifyTurnstileToken } from "../../lib/turnstile";
+import { enforceRateLimit } from "../../lib/rate-limit";
 import type { Env } from "../../lib/auth";
 
 const STATE_COOKIE = "oauth_state";
@@ -26,6 +27,19 @@ function setStateCookie(request: Request, state: string): string {
 export const onRequestGet: PagesFunction<Env> = async (context) => {
   const { request, env } = context;
   const url = new URL(request.url);
+
+  // Defend the consent-redirect endpoint against abuse even before Turnstile
+  // runs (Turnstile only kicks in when TURNSTILE_SECRET is configured).
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "auth/login",
+    limit: 60,
+    windowSeconds: 600,
+  });
+  if (rateLimited) {
+    const errorRedirect = new URL("/sign-in", request.url);
+    errorRedirect.searchParams.set("error", "rate_limited");
+    return Response.redirect(errorRedirect.toString(), 302);
+  }
 
   if (!env.GOOGLE_CLIENT_ID) {
     return new Response("Google OAuth not configured", { status: 503 });
