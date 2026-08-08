@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Eksistensialisme dan Kehendak Bebas"
+description = "Buku komprehensif tentang filsafat eksistensialisme, kehendak bebas, kecemasan, otentisitas, dan penciptaan makna dalam kehidupan modern."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Filsafat"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
