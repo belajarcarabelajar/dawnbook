@@ -27,6 +27,12 @@ export async function buildAllBooks(
   booksDir: string,
   outputBooksDir: string
 ): Promise<BuiltBook[]> {
+  const isShallowClone = await $`git rev-parse --is-shallow-repository`.quiet().text().then(t => t.trim() === 'true').catch(() => false);
+  if (isShallowClone) {
+    console.warn("⚠️  WARNING: Git shallow clone detected! Release dates from git log may be inaccurate.");
+    console.warn("   Using release-dates.json as ground truth fallback.");
+  }
+
   const entries = await readdir(booksDir, { withFileTypes: true });
   const builtBooks: BuiltBook[] = [];
 

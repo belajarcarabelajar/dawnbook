@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
+import { readdir, readFile, writeFile, mkdir, stat, utimes } from "node:fs/promises";
 import { join } from "node:path";
 
 async function syncTemplate() {
@@ -25,17 +25,23 @@ async function syncTemplate() {
             const bookTomlPath = join(booksDir, entry.name, "book.toml");
             try {
                 const bookContent = await readFile(bookTomlPath, "utf-8");
+                let newContent: string | null = null;
                 if (bookContent.includes("[output.html.print]")) {
-                    const newContent = bookContent.replace(/\[output\.html\.print\].*/s, templateConfig);
-                    if (newContent !== bookContent) {
-                        await writeFile(bookTomlPath, newContent);
-                        console.log(`Synced template to ${entry.name}`);
+                    const replaced = bookContent.replace(/\[output\.html\.print\].*/s, templateConfig);
+                    if (replaced !== bookContent) {
+                        newContent = replaced;
                     }
                 } else {
-                    // Append if not exists
-                    const newContent = bookContent.trim() + "\n\n" + templateConfig;
+                    newContent = bookContent.trim() + "\n\n" + templateConfig;
+                }
+
+                if (newContent !== null) {
+                    const prevStat = await stat(bookTomlPath).catch(() => null);
                     await writeFile(bookTomlPath, newContent);
-                    console.log(`Appended template to ${entry.name}`);
+                    if (prevStat) {
+                        await utimes(bookTomlPath, prevStat.atime, prevStat.mtime);
+                    }
+                    console.log(`Synced template to ${entry.name}`);
                 }
             } catch (e) {
                 // Ignore if book.toml doesn't exist
@@ -46,8 +52,17 @@ async function syncTemplate() {
                 const templateHeadPath = join(booksDir, "_template", "theme", "head.hbs");
                 const headContent = await readFile(templateHeadPath, "utf-8");
                 const bookThemeDir = join(booksDir, entry.name, "theme");
-                await mkdir(bookThemeDir, { recursive: true });
-                await writeFile(join(bookThemeDir, "head.hbs"), headContent);
+                const targetHeadPath = join(bookThemeDir, "head.hbs");
+                const existingHead = await readFile(targetHeadPath, "utf-8").catch(() => null);
+
+                if (existingHead !== headContent) {
+                    const prevHeadStat = await stat(targetHeadPath).catch(() => null);
+                    await mkdir(bookThemeDir, { recursive: true });
+                    await writeFile(targetHeadPath, headContent);
+                    if (prevHeadStat) {
+                        await utimes(targetHeadPath, prevHeadStat.atime, prevHeadStat.mtime);
+                    }
+                }
             } catch (e) {
                 // Ignore if head.hbs missing
             }
@@ -56,3 +71,4 @@ async function syncTemplate() {
 }
 
 syncTemplate().catch(console.error);
+

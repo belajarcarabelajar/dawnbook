@@ -91,6 +91,15 @@ export async function parseBookMetadata(
     console.warn("Failed to read icon.txt, falling back to generic", e);
   }
 
+  let pinnedMs = 0;
+  try {
+    const releaseDatesText = await readFile(join(process.cwd(), "release-dates.json"), "utf8");
+    const releaseDates = JSON.parse(releaseDatesText);
+    if (releaseDates[bookName] && typeof releaseDates[bookName] === "number") {
+      pinnedMs = releaseDates[bookName];
+    }
+  } catch (e) {}
+
   let gitCommitMs = 0;
   try {
     // Get initial commit timestamp (release date) of the book content
@@ -126,7 +135,9 @@ export async function parseBookMetadata(
   } catch (e) {}
 
   let mtimeMs = 0;
-  if (gitCommitMs > 0 && fileCreationMs > 0) {
+  if (pinnedMs > 0) {
+    mtimeMs = pinnedMs;
+  } else if (gitCommitMs > 0 && fileCreationMs > 0) {
     mtimeMs = Math.min(gitCommitMs, fileCreationMs);
   } else {
     mtimeMs = gitCommitMs || fileCreationMs || 0;
@@ -142,3 +153,4 @@ export async function parseBookMetadata(
   const formattedDate = formatIndonesianDate(mtimeMs);
   return { formattedTitle, author, chapterCount, chapters, emoji, mtimeMs, formattedDate };
 }
+
