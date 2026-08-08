@@ -37,15 +37,17 @@ import {
  * literal contains `--` or `;`, so this naive split is safe for this repo.
  */
 function splitStatements(sql: string): string[] {
-  return sql
-    .split("\n")
-    // Drop full-line comments, then truncate trailing `-- ...` comments.
-    .filter((line) => !line.trim().startsWith("--"))
-    .map((line) => line.replace(/\s*--.*$/, ""))
-    .join("\n")
-    .split(";")
-    .map((stmt) => stmt.trim())
-    .filter((stmt) => stmt.length > 0);
+  return (
+    sql
+      .split("\n")
+      // Drop full-line comments, then truncate trailing `-- ...` comments.
+      .filter((line) => !line.trim().startsWith("--"))
+      .map((line) => line.replace(/\s*--.*$/, ""))
+      .join("\n")
+      .split(";")
+      .map((stmt) => stmt.trim())
+      .filter((stmt) => stmt.length > 0)
+  );
 }
 
 interface CountRow {
@@ -73,17 +75,20 @@ async function main() {
     //    D1 exec rejects multi-line statements, so each statement is
     //    normalized to a single line before being submitted.
     console.log("Applying migrations to in-memory D1...");
-    const migrations = (
-      await readdir("db/migrations")
-    )
+    const migrations = (await readdir("db/migrations"))
       .filter((f) => f.endsWith(".sql"))
       .sort();
-    for (const file of migrations) {
-      const raw = await readFile(join("db/migrations", file), "utf8");
+    const fileContents = await Promise.all(
+      migrations.map((file) => readFile(join("db/migrations", file), "utf8")),
+    );
+
+    const statements = [];
+    for (const raw of fileContents) {
       for (const statement of splitStatements(raw)) {
-        await db.exec(statement.replace(/\s+/g, " "));
+        statements.push(db.prepare(statement.replace(/\s+/g, " ")));
       }
     }
+    await db.batch(statements);
 
     // 1. Fresh insert: no row exists -> count must be 1.
     const now = Math.floor(Date.now() / 1000);
@@ -94,7 +99,9 @@ async function main() {
       .bind(probeKey, now, expiresAt)
       .first<CountRow>();
     if (!fresh || fresh.count !== 1) {
-      throw new Error(`fresh insert expected count=1, got ${JSON.stringify(fresh)}`);
+      throw new Error(
+        `fresh insert expected count=1, got ${JSON.stringify(fresh)}`,
+      );
     }
     console.log("   ✅ count=1");
 
@@ -105,7 +112,9 @@ async function main() {
       .bind(probeKey, now, expiresAt)
       .first<CountRow>();
     if (!incremented || incremented.count !== 2) {
-      throw new Error(`increment expected count=2, got ${JSON.stringify(incremented)}`);
+      throw new Error(
+        `increment expected count=2, got ${JSON.stringify(incremented)}`,
+      );
     }
     console.log("   ✅ count=2");
 
@@ -115,7 +124,10 @@ async function main() {
     const past = now - 3600;
     // The probe key already exists from steps 1-2, so clear it before seeding
     // the deliberately stale row (count=5, expired window).
-    await db.prepare("DELETE FROM rate_limits WHERE key = ?").bind(probeKey).run();
+    await db
+      .prepare("DELETE FROM rate_limits WHERE key = ?")
+      .bind(probeKey)
+      .run();
     await db
       .prepare(
         "INSERT INTO rate_limits (key, count, window_start, expires_at) VALUES (?, ?, ?, ?)",
@@ -126,7 +138,12 @@ async function main() {
       .prepare(RATE_LIMIT_UPSERT_SQL)
       .bind(probeKey, now, expiresAt)
       .first<CountRow>();
-    if (!reset || reset.count !== 1 || reset.window_start !== now || reset.expires_at !== expiresAt) {
+    if (
+      !reset ||
+      reset.count !== 1 ||
+      reset.window_start !== now ||
+      reset.expires_at !== expiresAt
+    ) {
       throw new Error(
         `expired reset expected count=1 + new window, got ${JSON.stringify(reset)}`,
       );
@@ -158,7 +175,10 @@ async function main() {
       .bind(gcExpiredKey, gcLiveKey)
       .all<{ key: string }>();
     const remainingKeys = remaining.results.map((r) => r.key);
-    if (remainingKeys.includes(gcExpiredKey) || !remainingKeys.includes(gcLiveKey)) {
+    if (
+      remainingKeys.includes(gcExpiredKey) ||
+      !remainingKeys.includes(gcLiveKey)
+    ) {
       throw new Error(
         `GC expected only the live row to survive, got ${JSON.stringify(remainingKeys)}`,
       );
@@ -174,7 +194,10 @@ async function main() {
     //    never mask the real failure — e.g. when a migration failed before
     //    `rate_limits` existed, the DELETE would throw "no such table".
     try {
-      await db.prepare("DELETE FROM rate_limits WHERE key = ?").bind(probeKey).run();
+      await db
+        .prepare("DELETE FROM rate_limits WHERE key = ?")
+        .bind(probeKey)
+        .run();
     } catch {
       // Cleanup failure is secondary to whatever the try block reported.
     }
