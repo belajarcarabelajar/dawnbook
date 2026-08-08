@@ -21,12 +21,11 @@ also tracks the remediation status of every finding from the prior audits
 - **Total new findings:** 5
 
 **Resolution status:** All previously-reported Critical/High findings (F-001 … F-004,
-SECRET F-001, CORS F01/F02) are **verified remediated** in the current tree. Three of
-the five new medium/low findings were fixed during this audit cycle (F-101, F-102,
-F-103); two remain open (F-104, F-105) and one is a hardening recommendation (F-106).
+SECRET F-001, CORS F01/F02) are **verified remediated** in the current tree. **All six
+new findings are now resolved** (F-101 … F-106).
 
-**Validation:** Full test suite passes — **199 pass / 0 fail / 13 skip** across 212
-tests in 30 files. `bun install --frozen-lockfile` resolves with **no changes**
+**Validation:** Full test suite passes — **216 pass / 0 fail / 13 skip** across 229
+tests in 31 files. `bun install --frozen-lockfile` resolves with **no changes**
 (lockfile fully consistent with pinned dependencies).
 
 ---
@@ -143,48 +142,124 @@ tests in 30 files. `bun install --frozen-lockfile` resolves with **no changes**
 - **Verification:** `bun install --frozen-lockfile` → "no changes"; `bun.lock`
   untouched; full test suite passes.
 
-### F-104: Search-engine-bot gating bypass via User-Agent spoofing — **OPEN**
-- **Severity:** Medium
+### F-104: Search-engine-bot gating bypass via User-Agent spoofing — **RESOLVED**
+- **Severity (original):** Medium
 - **Category:** AuthZ
-- **Affected File(s):** `functions/_middleware.ts`, `functions/lib/gating.ts`
-- **Evidence:** `isSearchEngineBot()` matches the `User-Agent` header only. Any
-  client can set `User-Agent: Googlebot` and receive gated (non-first-chapter)
-  content without a session, because the middleware passes bot requests through
+- **Affected File(s):** `functions/_middleware.ts`, `functions/lib/gating.ts`,
+  `functions/lib/bot-verify.ts` (new)
+- **Evidence:** `isSearchEngineBot()` matched the `User-Agent` header only. Any
+  client could set `User-Agent: Googlebot` and receive gated (non-first-chapter)
+  content without a session, because the middleware passed bot requests through
   unchanged.
-- **Impact:** If any content must remain premium/paid, gating is trivially
-  bypassed. Note this is *consistent* with the current product decision — the
-  GSC indexing strategy intentionally exposes 100% of content to search engines
-  — so it may be acceptable by design.
-- **Recommendation:** Decide explicitly whether gated content is truly premium.
-  If yes, require real bot verification (reverse-DNS lookup of the connecting IP
-  against Google's published bot ranges, plus `X-Forwarded-For` checks) before
-  honoring the bot bypass. If content is meant to be public, simplify the gating
-  policy to avoid a false sense of protection.
+- **Impact:** Gated content was trivially bypassable by spoofing a bot User-Agent.
+- **Policy decision:** Only **verified** crawlers get the SEO pass-through for
+  gated content. A bot-like User-Agent is a precondition but never sufficient;
+  unverifiable bot claims are treated as regular visitors and must authenticate.
+- **Remediation (applied):**
+  - New `functions/lib/bot-verify.ts` implements Google's published verification
+    method: (1) UA must match `isSearchEngineBot()`; (2) reverse-DNS (PTR) of the
+    connecting IP via Cloudflare's DNS-over-HTTPS JSON API must resolve to a
+    hostname under a known crawler domain (`.googlebot.com`, `.search.msn.com`,
+    `.yandex.*`, `.baidu.*`, `.duckduckgo.com`, `.openai.com`, `.anthropic.com`,
+    etc.); (3) forward DNS (A/AAAA) of that hostname must resolve back to the
+    same IP. Verdicts are cached per IP (24h verified / 1h unverified) so
+    repeated crawls are cheap.
+  - **Fail closed:** DNS errors/timeouts resolve to "not verified" — the spoofing
+    hole stays closed even during a DoH outage.
+  - `functions/_middleware.ts` now requires `isVerifiedBotRequest(request)`
+    (async) before the crawler pass-through branch.
+- **Accepted trade-offs:**
+  - **SEO blast radius:** if Cloudflare's DoH endpoint were unreachable,
+    legitimate crawlers would receive 302 → `/sign-in` for gated pages until
+    verification recovers. This is the intended security-first posture.
+  - **Admin shell:** verified crawlers may fetch the `/admin` SPA shell without a
+    session (unchanged from before); admin data remains protected server-side via
+    `/api/auth/me` and D1 role checks.
+  - **AI crawlers:** crawlers that do not publish verifiable PTR hostnames fall to
+    session-gated (blocked) by default. Adding a new crawler is a one-line
+    addition to the suffix allowlist.
+- **Verification:** `tests/functions/lib/bot-verify.test.ts` (verified
+  Google/Bing, IPv6 nibble path, domain mismatch, forward-mismatch spoof guard,
+  non-bot no-DNS, fail-closed on outage, missing-IP, per-IP caching) and
+  `tests/functions/edge-gating-integration.test.ts` (verified bot pass-through,
+  spoofed-bot 302). All pass.
 
-### F-105: No Content-Security-Policy header — **OPEN**
-- **Severity:** Low
+### F-105: No Content-Security-Policy header — **RESOLVED**
+- **Severity (original):** Low
 - **Category:** Hardening
-- **Affected File(s):** `_headers`, `functions/_middleware.ts`
-- **Evidence:** Responses carry `X-Frame-Options`, `X-Content-Type-Options`,
+- **Affected File(s):** `_headers`, `functions/_middleware.ts`,
+  `functions/lib/security-headers.ts` (new), `scripts/builder/template-engine.ts`
+- **Evidence:** Responses carried `X-Frame-Options`, `X-Content-Type-Options`,
   `Referrer-Policy`, and `Permissions-Policy`, but no CSP.
 - **Impact:** Reduced defense-in-depth against XSS (no inline-script/styling
   restrictions). mdBook pages use inline scripts/styles, so a strict CSP requires
   nonces or hashes.
-- **Recommendation:** Add a CSP (e.g. `default-src 'self'` with allowlists for
-  Turnstile, GA, and Google Fonts; `script-src 'self' 'unsafe-inline'` initially,
-  tightened later with hashes) in `_headers` / middleware.
+- **Remediation (applied):**
+  - New single-source-of-truth module `functions/lib/security-headers.ts`
+    (`CONTENT_SECURITY_POLICY`) consumed by all three surfaces: the generated
+    `output/_headers` (via `buildHeaders()` in `template-engine.ts`), the edge
+    middleware (`applySecurityHeaders`), and the tracked root `_headers` file.
+  - Policy: `default-src 'self'`; `script-src`/`style-src` allow `'unsafe-inline'`
+    (inline mdBook/hub scripts and style attributes are unavoidable without
+    hashing — tightened later); allowlists cover every origin the generated
+    pages actually load — MathJax/KaTeX CDNs (`cdnjs.cloudflare.com`,
+    `cdn.jsdelivr.net`), GA (`googletagmanager.com`, `google-analytics.com`,
+    `region1.google-analytics.com`, `stats.g.doubleclick.net`), Turnstile
+    (`challenges.cloudflare.com`), Google Fonts (`fonts.googleapis.com` /
+    `fonts.gstatic.com` in style/font/connect-src for preconnect), YouTube
+    embeds (`youtube-nocookie.com`, `youtube.com`), OAuth (`accounts.google.com`,
+    `*.googleusercontent.com`); `img-src`/`media-src` allow `https:` (book
+    content embeds third-party images/video); `object-src 'none'`,
+    `base-uri 'self'`, `frame-ancestors 'none'`, `worker-src 'self' blob:`.
+  - The middleware skips setting CSP when a response already carries one, so
+    function responses that set their own policy are respected.
+- **Verification:**
+  - Middleware tests assert CSP application and non-override
+    (`tests/functions/middleware.test.ts`).
+  - Drift-guard tests in `tests/scripts/build.test.ts`: (1) the root `_headers`
+    and the build output must carry the exact `CONTENT_SECURITY_POLICY` value;
+    (2) every external host loaded by generated pages (`<script src>`, `<link
+    href>`, `<img src>`, `<iframe src>` in `template-engine.ts` and every
+    book's `theme/head.hbs`) must be allowed by the matching CSP directive — a
+    host added to generated HTML without a CSP entry fails CI.
+- **Deployment requirement:** no DB migration; a normal deploy regenerates
+  `output/_headers` with the new CSP.
 
-### F-106: Hardcoded public identifiers as build fallbacks — **OPEN (Low)**
-- **Severity:** Low
+### F-106: Hardcoded public identifiers as build fallbacks — **RESOLVED**
+- **Severity (original):** Low
 - **Category:** Hygiene
-- **Affected File(s):** `scripts/builder/template-engine.ts:78,412`,
-  `scripts/inject-gating.ts:66`
+- **Affected File(s):** `scripts/builder/template-engine.ts`,
+  `scripts/inject-gating.ts`, `.env.example`
 - **Evidence:** Turnstile site key `0x4AAAAAAEBDHm_F3WkNRSpN` and GA measurement
-  ID `G-V619M5H4YW` are hardcoded as fallbacks when env vars are absent.
+  ID `G-V619M5H4YW` were hardcoded as fallbacks when env vars were absent.
 - **Impact:** Minimal — both values are public by design (client-side). Risk is
   that a *secret* gets added to such a fallback in the future.
-- **Recommendation:** Replace with placeholders and require the env var; keep
-  real values in `.env`/Cloudflare Pages env vars.
+- **Remediation (applied):**
+  - `scripts/builder/template-engine.ts`: the GA tag is emitted only when
+    `GA_MEASUREMENT_ID` is set (omitted entirely otherwise) and the Turnstile
+    API script + widget are emitted only when `TURNSTILE_SITE_KEY` is set. No
+    hardcoded fallback values remain. `generateSitePages` now accepts an
+    optional injectable `buildEnv` (defaults to `process.env`) so tests never
+    mutate the shared environment.
+  - `scripts/inject-gating.ts`: the injected GA tag is gated on
+    `GA_MEASUREMENT_ID`; when unset it emits an empty string (a harmless no-op
+    replace, no HTML corruption).
+  - `.env.example`: the real Turnstile site key was replaced with a placeholder;
+    real values now live only in `.env` / Cloudflare Pages env vars.
+  - **Config coupling (prevented):** `functions/api/auth/login.ts` now enforces
+    Turnstile verification only when **both** `TURNSTILE_SITE_KEY` and
+    `TURNSTILE_SECRET` are configured. With the hardcoded key gone, enforcing on
+    the secret alone would have submitted an empty token and blocked every
+    sign-in (widget never renders without the site key).
+- **Verification:**
+  - Source regression: neither script contains `G-V619M5H4YW` or
+    `0x4AAAAAAEBDHm_F3WkNRSpN`, and both source identifiers exclusively from
+    env vars (`tests/scripts/build.test.ts`).
+  - Behavioral: `generateSitePages` run with and without env vars produces
+    pages with/without the GA tag and Turnstile widget as expected.
+  - Auth: new test asserts Turnstile verification is skipped (fail-open) when
+    only the secret is configured, so sign-in cannot be locked out by partial
+    configuration.
 
 ---
 
@@ -234,9 +309,9 @@ documentation.
 | F-101 | Medium → Fixed | `functions/api/books/index.ts`, `[slug].ts` | ✅ Resolved | New anon/admin visibility tests |
 | F-102 | Medium → Fixed | `functions/lib/rate-limit.ts`, `db/migrations/0007`, 8 handlers | ✅ Resolved | rate-limit unit + wiring tests |
 | F-103 | Medium → Fixed | `package.json` | ✅ Resolved | `bun install --frozen-lockfile` (no changes) |
-| F-104 | Medium | `functions/_middleware.ts`, `lib/gating.ts` | ⬜ Open | Requires product decision (bot access policy) |
-| F-105 | Low | `_headers`, `functions/_middleware.ts` | ⬜ Open | Needs CSP with nonce/hash plan |
-| F-106 | Low | `scripts/builder/template-engine.ts`, `inject-gating.ts` | ⬜ Open | Requires placeholder swap |
+| F-104 | Medium → Fixed | `functions/_middleware.ts`, `lib/bot-verify.ts` | ✅ Resolved | New bot-verify unit + edge-gating integration tests |
+| F-105 | Low → Fixed | `_headers`, `functions/_middleware.ts`, `lib/security-headers.ts` | ✅ Resolved | Middleware CSP + drift-guard tests |
+| F-106 | Low → Fixed | `scripts/builder/template-engine.ts`, `inject-gating.ts`, `auth/login.ts` | ✅ Resolved | Source + behavioral + auth tests |
 
 ---
 
@@ -249,13 +324,13 @@ documentation.
 - [x] Rate limiting on auth + all mutation endpoints (F-102)
 - [x] Draft content hidden from non-admin API callers (F-101)
 - [x] No secrets in working tree or git history (fresh scan)
-- [x] Full test suite green (199 pass / 0 fail)
+- [x] Full test suite green (216 pass / 0 fail)
 - [ ] Enable GitHub Secret Scanning and Push Protection
 - [ ] Configure Branch Protection rules on `main`
 - [ ] Enable automated dependency vulnerability scanning (e.g. Dependabot)
-- [ ] Add CSP header (F-105)
-- [ ] Replace hardcoded public identifier fallbacks (F-106)
-- [ ] Decide bot-gating policy for gated content (F-104)
+- [x] Add CSP header (F-105) — single source of truth + drift-guard tests
+- [x] Replace hardcoded public identifier fallbacks (F-106) — env-var-driven omission
+- [x] Decide bot-gating policy: only DNS-verified crawlers bypass gated content (F-104)
 - [ ] Consider `__Host-` session cookie prefix and sliding session renewal (hardening)
 
 ---
@@ -263,7 +338,7 @@ documentation.
 ## 7. Validation Runbook
 
 ```bash
-bun test                     # 199 pass / 0 fail / 13 skip (212 tests, 30 files)
+bun test                     # 216 pass / 0 fail / 13 skip (229 tests, 31 files)
 bun install --frozen-lockfile # Resolved 192 installs across 240 packages (no changes)
 git grep -nIE 'GOCSPX-|sk_live_|AKIA|AIza|ghp_|BEGIN (RSA|EC|OPENSSH) PRIVATE'  # no hits
 ```
@@ -281,6 +356,27 @@ git grep -nIE 'GOCSPX-|sk_live_|AKIA|AIza|ghp_|BEGIN (RSA|EC|OPENSSH) PRIVATE'  
   syntax is supported by D1 but is not executed by the unit-test mock (which is
   why a SQL-shape guard test is included). A one-time integration check against
   real D1 is recommended.
-- The bot-bypass finding (F-104) is consistent with the product's SEO strategy
-  and may be intentional; the recommendation is an explicit decision, not a
-  mandatory change.
+- The bot-gating policy for F-104 was decided and implemented during this cycle:
+  only DNS-verified crawlers (UA + reverse-DNS PTR + forward confirmation) get
+  the gated-content pass-through; all other requests must authenticate. The SEO
+  blast radius of the fail-closed posture (302s to legit crawlers during a DoH
+  outage) is accepted by design and documented in F-104.
+- The F-105 CSP intentionally keeps `script-src 'unsafe-inline'` and
+  `style-src 'unsafe-inline'` because generated mdBook/hub pages use inline
+  scripts and inline `style=` attributes; tightening to nonces/hashes is future
+  work (tracked in the checklist). `img-src`/`media-src` deliberately allow all
+  `https:` because user-authored book content embeds arbitrary third-party
+  images and video; a scheme wildcard on those directives carries no script-
+  execution risk.
+- Because Cloudflare Pages applies the static `_headers` file after edge
+  middleware runs, static assets may carry two identical CSP headers (middleware
+  + `_headers`). Browsers merge multiple CSP headers by intersection, so
+  identical values are harmless; the single-source-of-truth constant and the
+  drift-guard test keep the two copies from ever diverging.
+- Since F-106 removed the hardcoded fallbacks, GA analytics only load when
+  `GA_MEASUREMENT_ID` is set in the build environment, and the Turnstile widget
+  only renders when `TURNSTILE_SITE_KEY` is set. **Deployment requirement:**
+  both `TURNSTILE_SITE_KEY` and `TURNSTILE_SECRET` must be configured together
+  in Cloudflare Pages env vars — the login handler intentionally skips
+  Turnstile verification (fail-open) unless both are present, so a partial
+  configuration cannot lock out sign-ins.

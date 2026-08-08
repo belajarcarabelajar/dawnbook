@@ -16,8 +16,10 @@
  */
 
 import { verifySession as verifyD1Session, type Env as AuthEnv } from "./lib/auth";
-import { isPublicPath, isSearchEngineBot } from "./lib/gating";
+import { isPublicPath } from "./lib/gating";
+import { isVerifiedBotRequest } from "./lib/bot-verify";
 import { resolveLocale, COOKIE_NAME } from "./lib/i18n";
+import { CONTENT_SECURITY_POLICY } from "./lib/security-headers";
 
 interface Env extends AuthEnv {
   // GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, DB inherited from AuthEnv.
@@ -81,6 +83,9 @@ function applySecurityHeaders(response: Response): Response {
   if (!newResponse.headers.has("Permissions-Policy")) {
     newResponse.headers.set("Permissions-Policy", "camera=(), microphone=(), geolocation=()");
   }
+  if (!newResponse.headers.has("Content-Security-Policy")) {
+    newResponse.headers.set("Content-Security-Policy", CONTENT_SECURITY_POLICY);
+  }
   return newResponse;
 }
 
@@ -116,9 +121,14 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       return newResponse;
     }
 
-    // --- Public paths or Search Engine Bots: pass through unchanged ---
-    const userAgent = request.headers.get("User-Agent");
-    if (isPublicPath(pathname) || isSearchEngineBot(userAgent)) {
+    // --- Public paths or VERIFIED Search Engine Bots: pass through unchanged ---
+    //
+    // Policy decision (F-104): a bot-like User-Agent alone is not enough — it
+    // is trivially spoofable. Only requests whose connecting IP passes the
+    // reverse-DNS + forward-confirmation check in isVerifiedBotRequest() get
+    // the crawler pass-through for gated content. Unverifiable bot claims are
+    // treated as regular visitors and must authenticate like everyone else.
+    if (isPublicPath(pathname) || (await isVerifiedBotRequest(request))) {
       const response = await nextWithLocale();
       const newResponse = new Response(response.body, response);
       newResponse.headers.append("Vary", "User-Agent");

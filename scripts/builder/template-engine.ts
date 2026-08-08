@@ -3,6 +3,7 @@ import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook } from "./metadata";
 import { isPublicPath } from "../../functions/lib/gating.ts";
+import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
 
 function escapeHtml(unsafe: string): string {
   return unsafe
@@ -45,7 +46,10 @@ export async function compileHubRuntime(): Promise<string> {
 export async function generateSitePages(
   rootDir: string,
   outputDir: string,
-  builtBooks: BuiltBook[]
+  builtBooks: BuiltBook[],
+  // Injectable for tests so the generator never reads mutated globals; the
+  // build pipeline (scripts/build.ts) omits this and uses real process.env.
+  buildEnv: Record<string, string | undefined> = process.env
 ): Promise<void> {
   const enCatalog = await readFile(join(rootDir, "i18n/en.json"), "utf8");
   const idCatalog = await readFile(join(rootDir, "i18n/id.json"), "utf8");
@@ -67,6 +71,23 @@ export async function generateSitePages(
     </script>
   `;
 
+  // GA is only injected when GA_MEASUREMENT_ID is provided; there is no
+  // hardcoded fallback (F-106) so a misconfigured build never ships a bogus
+  // or foreign measurement ID.
+  const gaMeasurementId = buildEnv.GA_MEASUREMENT_ID;
+  const gaTag = gaMeasurementId
+    ? `    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=${gaMeasurementId}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '${gaMeasurementId}');
+    </script>
+`
+    : "";
+
   const generatePage = (
     title: string,
     content: string,
@@ -74,16 +95,7 @@ export async function generateSitePages(
   ) => `<!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=${process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW"}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', '${process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW"}');
-    </script>
-    <meta charset="UTF-8">
+${gaTag}    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Dawnbook - A Scalable Educational Publishing Platform">
     <meta name="theme-color" content="#000000">
@@ -409,15 +421,24 @@ export async function generateSitePages(
     </script>
   `;
 
-  const turnstileSiteKey = process.env.TURNSTILE_SITE_KEY || '0x4AAAAAAEBDHm_F3WkNRSpN';
+  // Turnstile is only rendered when TURNSTILE_SITE_KEY is provided; there is no
+  // hardcoded fallback (F-106). The widget and its API script are both omitted
+  // otherwise, matching the fail-open behavior when TURNSTILE_SECRET is unset.
+  const turnstileSiteKey = buildEnv.TURNSTILE_SITE_KEY;
+  const turnstileScript = turnstileSiteKey
+    ? `    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+`
+    : "";
+  const turnstileWidget = turnstileSiteKey
+    ? `        <div class="cf-turnstile" data-sitekey="${turnstileSiteKey}" data-action="turnstile-spin-v2" data-theme="auto" style="margin: 0 auto var(--spacing-lg) auto; display: flex; justify-content: center;"></div>
+`
+    : "";
 
   const signInContent = `
-    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
-    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
+${turnstileScript}    <div class="content-panel" style="text-align: center; margin: 0 auto; max-width: 450px; padding: var(--spacing-xl);">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="signin.title">Sign In to Continue Reading</h2>
         <p style="margin-bottom: var(--spacing-lg)" data-i18n="signin.body">Create a free account or sign in to access the full book content.</p>
-        <div class="cf-turnstile" data-sitekey="${turnstileSiteKey}" data-action="turnstile-spin-v2" data-theme="auto" style="margin: 0 auto var(--spacing-lg) auto; display: flex; justify-content: center;"></div>
-        <a id="google-signin-btn" href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
+${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 0.75rem 1.5rem; background: #fff; color: #1f1f1f; border: 1px solid #dadce0; border-radius: 4px; text-decoration: none; font-weight: 500; font-family: inherit; cursor: pointer;">
             <svg width="18" height="18" viewBox="0 0 18 18" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
                 <path d="M17.64 9.2c0-.64-.06-1.25-.16-1.84H9v3.48h4.84a4.14 4.14 0 0 1-1.8 2.72v2.26h2.92c1.7-1.57 2.68-3.88 2.68-6.62z" fill="#4285F4"/>
                 <path d="M9 18c2.43 0 4.47-.81 5.96-2.18l-2.92-2.26c-.81.54-1.84.86-3.04.86-2.34 0-4.32-1.58-5.02-3.7H.96v2.32A9 9 0 0 0 9 18z" fill="#34A853"/>
@@ -562,7 +583,7 @@ export async function buildHeaders(outputDir: string): Promise<void> {
   Referrer-Policy: strict-origin-when-cross-origin
   Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
   Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self' data: https://fonts.gstatic.com https://cdn.jsdelivr.net; img-src 'self' data: https:; media-src 'self' https:; connect-src 'self' https://accounts.google.com https://*.googleusercontent.com; frame-src 'self' https://www.youtube-nocookie.com https://www.youtube.com; worker-src 'self' blob:;
+  Content-Security-Policy: ${CONTENT_SECURITY_POLICY}
 `;
 
     await writeFile(join(outputDir, "_headers"), headersContent.trim());

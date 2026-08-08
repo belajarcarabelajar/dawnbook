@@ -63,8 +63,12 @@ async function processDirectory(
       }
       const url = `https://dawnbook.belajarcarabelajar.com${cleanRelativePath}`;
 
-      const gaId = process.env.GA_MEASUREMENT_ID || "G-V619M5H4YW";
-      const gaTag = `
+      // GA is only injected when GA_MEASUREMENT_ID is provided; there is no
+      // hardcoded fallback (F-106) so a misconfigured build never ships a bogus
+      // or foreign measurement ID.
+      const gaId = process.env.GA_MEASUREMENT_ID;
+      const gaTag = gaId
+        ? `
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
     <script>
@@ -74,7 +78,8 @@ async function processDirectory(
 
       gtag('config', '${gaId}');
     </script>
-`;
+`
+        : "";
 
       let isGatedClientSide = false;
       const bookMatch = relativePath.match(

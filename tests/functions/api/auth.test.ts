@@ -81,7 +81,7 @@ describe("/api/auth/login", () => {
     global.fetch = async () => new Response(JSON.stringify({ success: false }), { status: 200 });
 
     try {
-      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
+      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret", TURNSTILE_SITE_KEY: "mock_site_key" }) as unknown as Env;
       setEnvHandlers(env);
       const req = new Request("https://example.com/api/auth/login?cf-turnstile-response=bad_token&redirect_url=/appreciation.html", {
         headers: { "CF-Connecting-IP": "1.2.3.4" },
@@ -102,13 +102,39 @@ describe("/api/auth/login", () => {
     global.fetch = async () => new Response(JSON.stringify({ success: true }), { status: 200 });
 
     try {
-      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
+      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret", TURNSTILE_SITE_KEY: "mock_site_key" }) as unknown as Env;
       setEnvHandlers(env);
       const req = new Request("https://example.com/api/auth/login?turnstile_token=good_token");
       const res = await loginHandler({ request: req, env } as any);
 
       expect(res.status).toBe(302);
       expect(res.headers.get("Location")).toContain("accounts.google.com");
+    } finally {
+      global.fetch = originalFetch;
+    }
+  });
+
+  test("skips Turnstile verification when only the secret (no site key) is configured (F-106)", async () => {
+    // With the hardcoded site-key fallback removed, the widget only renders
+    // when TURNSTILE_SITE_KEY is set. If only the secret were set, enforcing
+    // verification would submit an empty token and block every sign-in, so the
+    // handler must skip verification (fail-open) unless both are configured.
+    let fetchCalled = false;
+    const originalFetch = global.fetch;
+    global.fetch = async () => {
+      fetchCalled = true;
+      return new Response(JSON.stringify({ success: false }), { status: 200 });
+    };
+
+    try {
+      const env = createMockEnv({ ...ENV_OVERRIDES, TURNSTILE_SECRET: "mock_secret" }) as unknown as Env;
+      setEnvHandlers(env);
+      const req = new Request("https://example.com/api/auth/login");
+      const res = await loginHandler({ request: req, env } as any);
+
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("accounts.google.com");
+      expect(fetchCalled).toBe(false);
     } finally {
       global.fetch = originalFetch;
     }

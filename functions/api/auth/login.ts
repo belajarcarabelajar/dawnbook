@@ -47,9 +47,13 @@ export const onRequestGet: PagesFunction<Env> = async (context) => {
 
   const redirectUrl = safeRedirectPath(url.searchParams.get("redirect_url"));
 
-  // Verify Cloudflare Turnstile bot challenge if TURNSTILE_SECRET / TURNSTILE_SECRET_KEY is configured
+  // Verify Cloudflare Turnstile bot challenge only when BOTH the site key and
+  // the secret are configured (F-106): the widget only renders when
+  // TURNSTILE_SITE_KEY is set, so enforcing with a secret alone would submit an
+  // empty token and block every sign-in. Configuring only the secret now skips
+  // verification (fail-open), matching the no-CAPTCHA behavior.
   const secret = env.TURNSTILE_SECRET || env.TURNSTILE_SECRET_KEY;
-  if (secret) {
+  if (secret && env.TURNSTILE_SITE_KEY) {
     const turnstileToken =
       url.searchParams.get("cf-turnstile-response") ||
       url.searchParams.get("turnstile_token");

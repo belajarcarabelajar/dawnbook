@@ -184,6 +184,45 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(json.data).toBe(1);
   });
 
+  test("applies Content-Security-Policy to responses (F-105)", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/", {}, "US");
+
+    const context = {
+      request: req,
+      env,
+      next: mock(async () => new Response("<html>Home</html>", { status: 200 })),
+    };
+
+    const response = await onRequest(context as any);
+    const csp = response.headers.get("Content-Security-Policy");
+    expect(csp).toBeTruthy();
+    expect(csp).toContain("default-src 'self'");
+    expect(csp).toContain("script-src 'self'");
+    expect(csp).toContain("https://challenges.cloudflare.com");
+    expect(csp).toContain("frame-ancestors 'none'");
+    expect(csp).toContain("object-src 'none'");
+  });
+
+  test("does not override an existing Content-Security-Policy", async () => {
+    const env = createMockEnv();
+    const req = mockRequest("https://example.com/", {}, "US");
+
+    const context = {
+      request: req,
+      env,
+      next: mock(async () =>
+        new Response("OK", {
+          status: 200,
+          headers: { "Content-Security-Policy": "default-src 'none'" },
+        })
+      ),
+    };
+
+    const response = await onRequest(context as any);
+    expect(response.headers.get("Content-Security-Policy")).toBe("default-src 'none'");
+  });
+
   test("internal error in middleware catches exception and returns 500 JSON", async () => {
     const env = createMockEnv();
     const validSessionId = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";

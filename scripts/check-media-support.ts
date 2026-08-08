@@ -90,30 +90,26 @@ async function checkMediaSupport() {
 
   await scanDirectory(booksDir);
 
-  // 4. Verify CSP directives
-  const templateEnginePath = join(
-    rootDir,
-    "scripts/builder/template-engine.ts",
+  // 4. Verify CSP directives against the single source of truth
+  //    (functions/lib/security-headers.ts). Previously this grepped the
+  //    template-engine source, which broke when the CSP moved to a shared
+  //    constant (F-105).
+  const { CONTENT_SECURITY_POLICY } = await import(
+    "../functions/lib/security-headers.ts"
   );
-  let buildContent = "";
-  try {
-    buildContent = await readFile(templateEnginePath, "utf-8");
-  } catch {
-    buildContent = await readFile(buildScriptPath, "utf-8");
-  }
-  if (!buildContent.includes("img-src 'self' data: https:")) {
+  if (!CONTENT_SECURITY_POLICY.includes("img-src 'self' data: https:")) {
     console.error(
       `❌ [FAIL] CSP _headers missing 'img-src \\'self\\' data: https:'`,
     );
     hasErrors = true;
   }
-  if (!buildContent.includes("media-src 'self' https:")) {
+  if (!CONTENT_SECURITY_POLICY.includes("media-src 'self' https:")) {
     console.error(
       `❌ [FAIL] CSP _headers missing 'media-src \\'self\\' https:'`,
     );
     hasErrors = true;
   }
-  if (!buildContent.includes("https://www.youtube-nocookie.com")) {
+  if (!CONTENT_SECURITY_POLICY.includes("https://www.youtube-nocookie.com")) {
     console.error(
       `❌ [FAIL] CSP _headers missing 'youtube-nocookie.com' in frame-src`,
     );
