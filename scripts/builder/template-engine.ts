@@ -567,9 +567,10 @@ export async function copyAssets(rootDir: string, outputDir: string): Promise<vo
 
   try {
     await $`cp -r public/* ${outputDir}/`;
-  } catch {
+  } catch (error) {
     console.warn(
-      "No public/ directory found or empty, skipping PWA files copy."
+      "No public/ directory found or empty, skipping PWA files copy.",
+      error
     );
   }
 }
