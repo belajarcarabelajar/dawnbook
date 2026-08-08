@@ -2,7 +2,6 @@ import { readFile, writeFile, mkdir, readdir } from "node:fs/promises";
 import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook } from "./metadata";
-import { isPublicPath } from "../../functions/lib/gating.ts";
 import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
 
 export function escapeHtml(unsafe: string): string {
