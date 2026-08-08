@@ -19,7 +19,8 @@ describe("functions/lib/auth.ts", () => {
 
   test("verifySession handles last_seen_at UPDATE failure silently", async () => {
     const env = createMockEnv();
-    env.DB.prepare = (sql: string) => {
+
+    env.DB.prepare = ((sql: string) => {
       if (sql.includes("UPDATE sessions")) {
         return {
           bind: () => ({
@@ -43,7 +44,7 @@ describe("functions/lib/auth.ts", () => {
           }),
         }),
       } as any;
-    };
+    }) as any;
 
     const req = new Request("https://example.com", {
       headers: { Cookie: `session_id=${SESSION_HEX}` },
