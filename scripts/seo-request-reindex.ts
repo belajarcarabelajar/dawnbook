@@ -159,13 +159,16 @@ async function pingIndexNow(): Promise<void> {
 
   const sitemapPath = "/home/belajarcarabelajar/dawnbook/output/sitemap.xml";
   let urlList: string[] = [];
-  if (fs.existsSync(sitemapPath)) {
-    const content = fs.readFileSync(sitemapPath, "utf8");
+  try {
+    const content = await fs.promises.readFile(sitemapPath, "utf8");
     const matches = content.matchAll(/<loc>(.*?)<\/loc>/g);
     for (const match of matches) {
       urlList.push(match[1]);
     }
-  } else {
+  } catch (err: any) {
+    if (err.code !== "ENOENT") {
+      console.error("Error reading sitemap:", err.message);
+    }
     urlList = [`https://${host}/`];
   }
 
