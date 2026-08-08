@@ -1,0 +1,97 @@
+--- functions/api/progress.ts
++++ functions/api/progress.ts
+@@ -52,36 +52,30 @@
+   if (!bookSlug) {
+     // Return all progress for user
+     const results = await env.DB.prepare(
+-      "SELECT book_slug, last_read_path, completed_paths FROM reading_progress WHERE user_id = ?1",
++      `SELECT
++         book_slug,
++         last_read_path,
++         CASE
++           WHEN json_valid(completed_paths) AND json_type(completed_paths) = 'array' THEN completed_paths
++           ELSE '[]'
++         END as completed_paths
++       FROM reading_progress WHERE user_id = ?1`
+     )
+       .bind(session.sub)
+       .all<{
+         book_slug: string;
+         last_read_path: string;
+         completed_paths: string;
+       }>();
+
+-    const parsedResults = results.results.map((row) => {
+-      let parsed: string[] = [];
+-      try {
+-        if (row.completed_paths) {
+-          const jsonParsed = JSON.parse(row.completed_paths);
+-          if (Array.isArray(jsonParsed)) {
+-            parsed = jsonParsed;
+-          }
+-        }
+-      } catch (e) {
+-        console.warn("[progress] Failed to parse completed_paths JSON:", e);
+-      }
+-      return {
+-        book_slug: row.book_slug,
+-        last_read_path: row.last_read_path,
+-        completed_paths: parsed,
+-      };
+-    });
++    const responseStr = `{"progress":[${results.results.map(row =>
++      `{"book_slug":${JSON.stringify(row.book_slug)},"last_read_path":${JSON.stringify(row.last_read_path)},"completed_paths":${row.completed_paths || '[]'}}`
++    ).join(',')}]}`;
+
+-    return jsonResponse({ progress: parsedResults });
++    return new Response(responseStr, {
++      status: 200,
++      headers: {
++        "Content-Type": "application/json",
++        "Cache-Control": "no-store",
++      },
++    });
+   }
+
+   const result = await env.DB.prepare(
+-    "SELECT last_read_path, completed_paths FROM reading_progress WHERE user_id = ?1 AND book_slug = ?2",
++    `SELECT
++       last_read_path,
++       CASE
++         WHEN json_valid(completed_paths) AND json_type(completed_paths) = 'array' THEN completed_paths
++         ELSE '[]'
++         END as completed_paths
++     FROM reading_progress WHERE user_id = ?1 AND book_slug = ?2`
+   )
+     .bind(session.sub, bookSlug)
+     .first<ProgressRow>();
+
+   if (!result) {
+     return jsonResponse({ path: null, completed_paths: [] });
+   }
+
+-  let parsedPaths: string[] = [];
+-  try {
+-    if (result.completed_paths) {
+-      const jsonParsed = JSON.parse(result.completed_paths);
+-      if (Array.isArray(jsonParsed)) {
+-        parsedPaths = jsonParsed;
+-      }
+-    }
+-  } catch (e) {
+-    console.warn("[progress] Failed to parse single book completed_paths JSON:", e);
+-  }
+-
+-  return jsonResponse({
+-    path: result.last_read_path,
+-    completed_paths: parsedPaths,
++  const responseStr = `{"path":${JSON.stringify(result.last_read_path)},"completed_paths":${result.completed_paths || '[]'}}`;
++
++  return new Response(responseStr, {
++    status: 200,
++    headers: {
++      "Content-Type": "application/json",
++      "Cache-Control": "no-store",
++    },
+   });
+ }
