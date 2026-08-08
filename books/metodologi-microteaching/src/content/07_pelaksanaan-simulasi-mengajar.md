@@ -68,7 +68,7 @@ Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Meng
 - **Gunakan Jam Wajah (Face Clock):** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa kamu harus mengangkat tangan secara mencolok.
 - **Prioritas Konten:** Jika waktu tinggal 2 menit dan materi inti belum selesai, segera lakukan ringkasan dan lompat ke penutup. Jangan memaksakan semua slide selesai tapi kehilangan bagian penutup yang penting.
 
-*Think about this: Jika kamu gagal menutup pelajaran dengan baik karena kehabisan waktu, siswa akan pulang dengan kebingungan tentang apa yang baru saja mereka pelajari.*
+*Dampak Penutupan Kelas: Penutupan pembelajaran yang terlewat akibat kendala durasi berisiko membuat siswa mengakhiri sesi tanpa kejelasan inti sintesis materi.*
 
 ## 4. Mengelola Kegugupan (Stage Fright)
 

@@ -26,7 +26,7 @@ Hingga pertengahan abad ke-20, konsensus ilmiah menyatakan bahwa otak orang dewa
 - Otak hanya berkembang pesat pada masa kanak-kanak (periode kritis).
 - Setelah mencapai usia dewasa, sirkuit otak dianggap "permanen" dan tidak bisa diubah.
 - Jika sel otak mati atau rusak (misalnya karena stroke), sel tersebut tidak bisa digantikan, dan fungsi yang hilang dianggap hilang selamanya.
-- *Think about this: Bayangkan jika otak kamu adalah sirkuit komputer yang sudah disolder di pabrik; jika ada satu kabel yang putus, sirkuit tersebut rusak selamanya.*
+- *Analogi Komparatif: Dahulu, otak manusia sering disamakan dengan sirkuit komputer yang sudah terpatri; jika terdapat satu jalur yang terputus, sirkuit dianggap rusak secara permanen.*
 
 ### Masa Kini: Paradigma Otak Dinamis (The Plastic Brain)
 

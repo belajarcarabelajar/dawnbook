@@ -40,7 +40,7 @@ Di mana:
 - $N$ = *Necessity* (Tingkat kepentingan alat ini, termasuk pertimbangan ketersediaan alternatif di dunia nyata tanpa melibatkan layar)
 - $C$ = *Cost* (Harga yang harus dibayar berupa terkurasnya energi mental, gangguan perhatian, dan waktu)
 
-*Think about this: Bila skor $V$ tidak jauh lebih besar dari sistem lama yang sudah kamu jalankan, abaikan saja alat tersebut.*
+*Prinsip Keputusan: Apabila nilai kalkulasi $V$ tidak secara signifikan melampaui efisiensi sistem yang sudah berjalan, perangkat atau aplikasi baru tersebut lebih baik diabaikan.*
 
 ## 4\. Menangani "Relapse" (Kekambuhan Digital)
 

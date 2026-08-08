@@ -15,7 +15,7 @@ Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasa
 
 > "Kebaikan utama adalah kebijaksanaan; keburukan utama adalah kebodohan." , **Seneca**
 
-*Think about this: Saat kamu menghadapi masalah besar, apakah kamu langsung bereaksi secara emosional, atau kamu berhenti sejenak untuk membedakan mana bagian dari masalah tersebut yang benar-benar bisa kamu ubah?*
+*Pertimbangan Diri: Saat menghadapi tantangan besar, apakah seseorang cenderung langsung bereaksi emosional, atau berhenti sejenak untuk memilah mana bagian dari situasi yang benar-benar dapat diubah?*
 
 ## 2\. Keadilan (Justice - Dikaiosyne)
 

@@ -38,7 +38,7 @@ Otak memiliki prinsip ekonomi yang ketat: *"Gunakan atau Hilangkan"* (*Use it or
 - Koneksi yang jarang digunakan akan dianggap sebagai "sampah" atau beban energi.
 - Otak akan memutus koneksi tersebut agar energi bisa dialirkan ke jalur yang lebih sering digunakan.
 
-*Think about this: Jika kamu pernah mahir bermain catur saat kecil namun berhenti selama 10 tahun, mengapa kamu merasa kaku saat bermain lagi? Ini karena otak kamu telah memangkas sebagian jalur tersebut demi efisiensi energi untuk aktivitas yang kamu lakukan sekarang.*
+*Fenomena Pemangkasan Sinaptik: Seseorang yang pernah mahir bermain catur saat kecil namun berhenti selama 10 tahun akan merasa canggung saat memainkannya kembali. Hal ini terjadi karena otak secara alami memangkas jalur saraf yang jarang diaktifkan demi efisiensi energi bagi aktivitas harian saat ini.*
 
 ### 4\. Reorganisasi Kortikal: Pemetaan Ulang Wilayah Otak
 

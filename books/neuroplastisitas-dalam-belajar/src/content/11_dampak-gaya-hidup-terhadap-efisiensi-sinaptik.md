@@ -54,7 +54,7 @@ Selama fase tidur REM dan *Slow Wave Sleep*, otak melakukan dua hal:
 1. **Replay:** Memutar ulang pola penembakan saraf yang terjadi saat belajar di siang hari, memperkuat sinapsis tersebut.
 2. **Pruning (Pemangkasan):** Menghapus koneksi-koneksi lemah yang dianggap tidak penting agar otak tidak mengalami *overload* energi.
 
-*Think about this: Pernahkah kamu begadang untuk belajar, namun keesokan harinya justru lupa segalanya? Itu karena tanpa tidur, sinapsis kamu mengalami "kejenuhan" dan tidak memiliki kesempatan untuk mengonsolidasikan informasi dari memori jangka pendek ke jangka panjang.*
+*Refleksi Konsolidasi Memori: Fenomena lupa materi pasca begadang terjadi karena tanpa durasi tidur yang memadai, celah sinapsis mengalami kejenuhan dan kehilangan kesempatan mengonsolidasikan informasi dari memori jangka pendek ke jangka panjang.*
 
 ## 4\. Nutrisi: Bahan Baku Struktur Saraf
 

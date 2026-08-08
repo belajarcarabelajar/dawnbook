@@ -64,7 +64,7 @@ Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa mera
 | **Seneca** | Penasihat kaisar dan orang terkaya di Roma. | Bagaimana menggunakan kekayaan tanpa menjadi budaknya. |
 | **Marcus Aurelius** | Orang paling berkuasa di dunia (Kaisar). | Menjaga kerendahan hati dan integritas di tengah kekuasaan absolut. |
 
-*Think about this: Jika sebuah filsafat bisa memberikan kedamaian yang sama bagi seorang budak yang disiksa dan seorang kaisar yang memimpin dunia, bukankah itu berarti ada kebenaran fundamental di dalamnya?*
+*Pertanyaan Filosofis: Jika sebuah filsafat mampu memberikan kedamaian batin yang sama bagi seorang budak maupun seorang kaisar yang memimpin dunia, bukankah itu menunjukkan adanya kebenaran fundamental di dalamnya?*
 
 ## 5\. Real-World Application: Stoikisme dalam Sejarah
 

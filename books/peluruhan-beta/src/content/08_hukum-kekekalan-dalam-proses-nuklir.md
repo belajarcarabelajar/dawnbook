@@ -100,7 +100,7 @@ Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil 
 | **Massa ($A$)** | Tetap (Neutron $\rightarrow$ Proton) | Tetap (Proton $\rightarrow$ Neutron) | Tetap (Proton + Elektron $\rightarrow$ Neutron) |
 | **Lepton ($L$)** | Menciptakan $e^-$ ($+1$) dan $\bar{\nu}$ ($-1$) | Menciptakan $e^+$ ($-1$) dan $\nu$ ($+1$) | $e^-$ ($+1$) di kiri, $\nu$ ($+1$) di kanan |
 
-> *Think about this: Jika seandainya hukum kekekalan muatan bisa dilanggar sedikit saja, apa yang akan terjadi pada kestabilan atom-atom yang menyusun tubuh manusia?*
+> *Simulasi Mental: Seandainya hukum kekekalan muatan dapat dilanggar dalam skala terukur, dampak apakah yang akan terjadi pada kestabilan ikatan kimia dan atom-atom pembentuk materi?*
 
 ## Contoh Soal Singkat
 

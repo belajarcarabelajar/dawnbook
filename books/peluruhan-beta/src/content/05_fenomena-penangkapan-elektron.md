@@ -44,7 +44,7 @@ Ada faktor **Energi Ambang (Threshold Energy)**:
 1. **Peluruhan Beta Plus ($\beta^+$):** Membutuhkan energi cadangan setidaknya $1.022 \text{ MeV}$. Jika perbedaan massa antara inti induk dan anak kurang dari ini, peluruhan $\beta^+$ **mustahil** terjadi secara spontan.
 2. **Penangkapan Elektron (EC):** Tidak memerlukan ambang energi sebesar itu. Oleh karena itu, bagi isotop yang miskin energi tapi ingin menjadi stabil, penangkapan elektron adalah satu-satunya jalan keluar.
 
-*Think about this: Jika alam semesta tidak menyediakan mekanisme penangkapan elektron, banyak isotop radioaktif mungkin akan terjebak selamanya dalam kondisi tidak stabil karena tidak memiliki cukup energi untuk melakukan peluruhan beta plus.*
+*Hipotesis Fisika Nuklir: Tanpa mekanisme penangkapan elektron, sejumlah isotop radioaktif akan terperangkap dalam status tidak stabil secara permanen akibat ketiadaan ambang energi yang memadai untuk peluruhan beta plus.*
 
 ### Efek Domino: Sinar-X Karakteristik dan Elektron Auger
 

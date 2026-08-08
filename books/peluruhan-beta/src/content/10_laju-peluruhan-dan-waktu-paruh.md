@@ -62,7 +62,7 @@ Sehingga, rumus untuk mencari Waktu Paruh adalah:
 
 $T_{1/2} = \frac{0.693}{\lambda}$
 
-*Think about this: Jika sebuah isotop beta memiliki waktu paruh 10 menit, dan terdapat 1 kg sampel, setelah 10 menit tersisa 500g. Setelah 20 menit, apakah sampelnya habis? Tidak, yang tersisa adalah 250g (setengah dari 500g).*
+*Klarifikasi Konsep Waktu Paruh: Apabila sebuah isotop beta memiliki waktu paruh 10 menit dengan sampel awal 1 kg, setelah 10 menit tersisa 500 g. Setelah 20 menit, sampel tidak langsung habis melainkan menyisakan 250 g (setengah dari 500 g).*
 
 ### 4. Aktivitas Radiasi
 

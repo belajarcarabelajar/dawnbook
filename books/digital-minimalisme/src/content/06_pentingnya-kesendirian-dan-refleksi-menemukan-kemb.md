@@ -38,7 +38,7 @@ Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,
 ### Kerentanan Emosional
 Refleksi adalah cara kita memproses emosi kompleks. Saat menutupi kecemasan dengan distraksi digital, emosi tersebut tidak hilang. Mereka hanya terpendam dan siap meledak dalam bentuk stres kronis atau kelelahan mental (*burnout*).
 
-*Think about this: Kapan terakhir kali kamu duduk selama 10 menit tanpa melakukan apa pun, tanpa memegang ponsel, dan hanya mendengarkan pikiranmu sendiri?*
+*Bahan Renungan: Kapan terakhir kali seseorang meluangkan waktu 10 menit duduk tenang tanpa gangguan perangkat digital, lalu mendengarkan arus pikiran sendiri?*
 
 ## Manfaat Mengembalikan Tradisi Refleksi
 

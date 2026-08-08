@@ -27,7 +27,7 @@ Bayangkan kamu memiliki folder di komputer berjudul "Lagu Rock". Ketika kamu men
 
 Seorang balita memiliki skema tentang "burung" sebagai "sesuatu yang kecil, punya sayap, dan bisa terbang". Ketika ia melihat seekor burung gereja di taman, ia menunjuk dan berteriak, *"Burung!"*. Ia berhasil mengasimilasi objek baru tersebut ke dalam skema burungnya.
 
-*Think about this: Apakah asimilasi selalu akurat? Apa yang terjadi jika balita tersebut melihat sebuah pesawat terbang dan berteriak "Burung!"?*
+*Pertanyaan Kunci: Apakah asimilasi selalu akurat? Apa yang terjadi jika balita tersebut melihat sebuah pesawat terbang dan berteriak "Burung!"?*
 
 ### 3\. Akomodasi: "Mengubah Pikiran untuk Mengikuti Dunia"
 

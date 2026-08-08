@@ -69,7 +69,7 @@ Stoikisme tidak meminta kamu untuk membuang harta atau menjadi pertapa. Sebalikn
 
 ## Refleksi Singkat
 
-*Think about this:* *Coba ingat satu kejadian yang membuat kamu sangat marah minggu lalu. Apakah kejadian itu sebenarnya merusak karakter kamu, atau hanya merusak rencana kamu? Jika itu hanya merusak rencana, apakah kemarahan kamu benar-benar membantu memperbaiki keadaan?*
+*Bahan Renungan Stoik:* *Coba ingat satu kejadian yang memicu rasa marah minggu lalu. Apakah kejadian itu sebenarnya merusak karakter diri, atau hanya mengganggu rencana? Jika itu hanya mengganggu rencana, apakah rasa marah tersebut benar-benar membantu memperbaiki keadaan?*
 
 > **Poin Utama untuk Diingat:**
 > 

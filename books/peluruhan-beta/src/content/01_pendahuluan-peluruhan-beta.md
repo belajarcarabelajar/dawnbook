@@ -47,7 +47,7 @@ Inti atom dijaga oleh gaya nuklir kuat. Namun, gaya ini hanya bekerja efektif ji
 - **Ketidakstabilan Energi:** Inti yang tidak stabil memiliki kelebihan energi internal.
 - **Pencapaian Level Energi Rendah:** Alam semesta selalu cenderung menuju keadaan energi yang paling rendah (paling malas). Peluruhan beta adalah cara inti atom melepaskan energi berlebih tersebut agar bisa beristirahat dalam keadaan stabil.
 
-*Think about this: Jika semua atom di alam semesta ini sudah stabil sejak awal, mungkinkah kita memiliki keragaman unsur kimia seperti yang kita lihat sekarang? Ataukah peluruhan radioaktif adalah cara alam semesta memasak variasi unsur?*
+*Teka-teki Fisika Nuklir: Apabila seluruh atom di alam semesta sudah berada dalam kondisi stabil sejak awal, akankah keragaman unsur kimia seperti sekarang dapat terbentuk? Ataukah peluruhan radioaktif merupakan mekanisme transmutasi alami untuk menciptakan variasi unsur di alam semesta?*
 
 ## Aplikasi Dunia Nyata: Carbon Dating
 

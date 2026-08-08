@@ -28,7 +28,7 @@ Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu be
 
 Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab browser yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
 
-*Think about this: Berapa banyak tab browser yang terbuka di perangkat kamu saat ini? Berapa banyak yang benar-benar mendukung tugas yang sedang kamu kerjakan sekarang?*
+*Audit Ruang Kerja Digital: Berapa banyak tab peramban web yang terbuka di layar perangkat saat ini? Berapa banyak di antaranya yang benar-benar relevan dengan tugas yang sedang dikerjakan?*
 
 ## 3\. Menjadikan Teknologi sebagai Akselerator
 

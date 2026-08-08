@@ -86,7 +86,7 @@ Tanpa material bangunan yang memadai dan bervariasi, tukang bangunan yang paling
 
 ## Evaluasi Mandiri
 
-*Think about this:* *Coba ingat kembali saat kamu belajar mengendarai sepeda atau memasak. Apakah kamu lebih banyak belajar dari membaca buku manual (instruksi verbal) atau dari interaksi langsung dengan stang sepeda dan suhu kompor (interaksi fisik)? Bagaimana pengalaman fisik tersebut mengubah cara kamu berpikir tentang keseimbangan atau panas?*
+*Refleksi Epistemologi:* *Coba ingat kembali saat seseorang belajar mengendarai sepeda atau memasak. Apakah pemelajar lebih banyak belajar dari membaca buku manual (instruksi verbal) atau dari interaksi langsung dengan stang sepeda dan suhu kompor (interaksi fisik)? Bagaimana pengalaman fisik tersebut mengubah cara berpikir tentang keseimbangan atau panas?*
 
 **Poin Penting untuk Diingat:**
 

@@ -58,7 +58,7 @@ Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai
 - **Klarifikasi, Bukan Justifikasi:** Jika ada yang kurang jelas, tanyalah: *"Bisa berikan contoh di bagian mana saya melakukan hal tersebut?"* daripada mengatakan *"Saya melakukan itu karena..."*
 - **Pisahkan Identitas dari Kinerja:** Jika cara mengajar kamu dikritik, bukan berarti kamu adalah orang yang gagal. Itu hanya berarti ada satu *skill* yang perlu diasah.
 
-*Think about this:* *Jika kamu tidak pernah diberitahu tentang celah dalam pengajaran kamu sekarang (di lingkungan yang aman), bayangkan betapa sulitnya saat kamu menghadapinya langsung di depan 40 siswa di kelas yang sebenarnya.*
+*Refleksi Lingkungan Simulasi:* *Menerima evaluasi perbaikan di lingkungan simulasi jauh lebih konstruktif dibandingkan harus menghadapi kendala pengelolaan kelas secara mendadak di hadapan 40 siswa nyata.*
 
 ### 5. Real-World Application: Skenario Simulasi
 

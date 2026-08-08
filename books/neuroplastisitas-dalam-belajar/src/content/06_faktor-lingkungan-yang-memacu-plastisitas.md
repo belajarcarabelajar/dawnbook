@@ -50,7 +50,7 @@ Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, 
 2. **Kognitif:** Otak harus bekerja ekstra keras untuk memetakan navigasi transportasi umum dan memahami norma sosial.
 3. **Emosional:** Tantangan berada di zona tidak nyaman memicu sistem neuromodulator yang membuat sinapsis lebih fleksibel (plastis).
 
-*Think about this: Kapan terakhir kali kamu benar-benar merasa menjadi "pemula" dalam sesuatu? Perasaan tidak nyaman saat menjadi pemula adalah tanda bahwa plastisitas sedang bekerja keras.*
+*Refleksi Peran Pemula: Kapan terakhir kali seseorang benar-benar memosisikan diri sebagai pemula dalam suatu bidang? Perasaan canggung atau tidak nyaman saat memulainya merupakan penanda langsung bahwa proses plastisitas otak sedang aktif bekerja.*
 
 ## 4\. Aplikasi Praktis: Menciptakan Lingkungan yang Memacu Belajar
 

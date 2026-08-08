@@ -60,6 +60,6 @@ Memahami sintesis ini mengubah cara kita berinteraksi dengan anak-anak di berbag
 
 Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" logika anak sebenarnya adalah jendela menuju cara berpikir mereka yang unik. Saat seorang balita bersikeras bahwa bulan mengikuti mereka saat berjalan, itu bukan kebodohan, melainkan ekspresi dari tahap perkembangan kognitif yang luar biasa.
 
-*Think about this: Jika kamu seorang pendidik, bagaimana kamu akan mengubah cara kamu menjelaskan sebuah kesalahan kepada siswa setelah mengetahui bahwa kesalahan tersebut mungkin adalah bagian dari proses adaptasi mereka?*
+*Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.

@@ -49,7 +49,7 @@ $$
 $$
 </div>
 
-*Think about this: Jika sebuah atom Karbon ($Z = 6$) mengalami peluruhan beta minus, ia akan berubah menjadi unsur apa? (Petunjuk: Lihat tabel periodik untuk $Z = 7$).*
+*Latihan Konseptual: Apabila sebuah atom Karbon ($Z = 6$) mengalami peluruhan beta minus, unsur apakah yang terbentuk dari proses transmutasi ini? (Petunjuk: Periksa nomor atom $Z = 7$ pada tabel periodik).*
 
 ## Mengapa Antineutrino Harus Ada?
 

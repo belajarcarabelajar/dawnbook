@@ -44,7 +44,7 @@ Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan ment
 - **Resiliensi terhadap Stres:** Penelitian menunjukkan bahwa tingkat neurogenesis yang tinggi berkorelasi dengan kemampuan seseorang untuk pulih dari stres psikologis.
 - **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis seringkali mengalami penyusutan volume hippocampus. Menariknya, obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
 
-*Think about this: Pernahkah kamu merasa pikiran lebih jernih dan suasana hati lebih baik setelah belajar hal baru atau berolahraga? Itu adalah tanda fisik bahwa otak kamu sedang melakukan regenerasi.*
+*Indikator Regenerasi Otak: Sensasi pikiran yang terasa lebih jernih serta suasana hati yang membaik pasca mempelajari hal baru atau berolahraga merupakan indikasi fisik bahwa jaringan otak sedang melakukan regenerasi.*
 
 ### Mekanisme Biologis: Dari Sel Punca ke Neuron Fungsional
 

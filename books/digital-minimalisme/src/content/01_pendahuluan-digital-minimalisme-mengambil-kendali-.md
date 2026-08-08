@@ -32,7 +32,7 @@ Kemampuan otak untuk melakukan *Deep Work* semakin luntur akibat paparan terus-m
 
 Fenomena *phubbing* (mengabaikan orang di depan demi layar) turut merusak ikatan emosional di dunia nyata. Selain itu, ada kerugian waktu yang besar. Setiap jam menonton video viral berarti kehilangan waktu untuk berolahraga, menikmati hobi, atau mengembangkan karier.
 
-*Think about this: Menghabiskan 3 jam sehari di media sosial berarti membuang 45 hari penuh dalam setahun. Apakah konten yang kamu lihat sepadan dengan hilangnya 1,5 bulan hidupmu?*
+*Kalkulasi Waktu: Menghabiskan 3 jam sehari di media sosial berarti menghabiskan sekitar 45 hari penuh dalam setahun. Apakah waktu yang dihabiskan sepadan dengan hilangnya 1,5 bulan waktu berharga dalam hidup?*
 
 ## Prinsip Utama Digital Minimalisme
 

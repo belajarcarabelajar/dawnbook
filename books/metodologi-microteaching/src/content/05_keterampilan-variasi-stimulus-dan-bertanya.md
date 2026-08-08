@@ -90,6 +90,6 @@ $$
 - **Gunakan Gerakan yang Bermakna:** Jangan mondar-mandir tanpa tujuan seperti harimau dalam kandang. Berpindahlah saat transisi topik atau saat mendekati siswa yang menjawab.
 - **Hargai Setiap Jawaban:** Gunakan penguatan (reinforcement) verbal seperti "Ide bagus!", "Menarik sekali sudut pandangmu," untuk menjaga iklim kelas tetap positif.
 
-*Think about this: Jika kamu harus mengajar selama 15 menit tanpa menggunakan alat bantu visual apa pun, variasi gaya mengajar mana yang akan kamu optimalkan agar siswa tetap fokus pada kamu?*
+*Tantangan Praktik Mengajar: Apabila diminta mengajar selama 15 menit tanpa bantuan alat bantu visual, aspek variasi gaya mengajar manakah yang paling efektif dioptimalkan untuk menjaga konsentrasi seluruh siswa di kelas?*
 
 > **Poin Penting:** Variasi stimulus mencegah kebosanan (eksternal), sedangkan keterampilan bertanya memicu aktivitas kognitif (internal). Kombinasi keduanya menciptakan lingkungan belajar yang hidup dan transformatif.

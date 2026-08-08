@@ -29,7 +29,7 @@ Epinefrin dilepaskan dari batang otak dan kelenjar adrenal. Fungsinya adalah unt
 Ini adalah kunci utama dari fokus. Ketika kamu memusatkan perhatian pada satu hal secara intens, nukleus basalis di otak melepaskan **Asetilkolin**.
 
 - $\text{ACh}$ berfungsi seperti "stabilo" atau *highlighter* yang menandai sinapsis (celah antar saraf) yang aktif pada saat itu.
-- *Think about this:* Saat kamu benar-benar fokus memecahkan soal logika, $\text{ACh}$ menandai jalur saraf spesifik tersebut sebagai "PENTING: Ubah bagian ini!"
+- *Analogi Penandaan Sinaptik:* Saat seseorang fokus penuh memecahkan soal logika, $\text{ACh}$ menandai jalur saraf spesifik tersebut sebagai "PENTING: Ubah bagian ini!"
 
 ### C. Dopamin – Sang Penguat (The Reward)
 

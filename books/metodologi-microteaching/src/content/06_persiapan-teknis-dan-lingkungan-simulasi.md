@@ -50,7 +50,7 @@ Siswa model biasanya adalah rekan sejawat kamu (*peer teaching*). Tantangannya a
 - **Level Kognitif:** Ingatkan mereka untuk menjawab sesuai dengan tingkat usia yang disimulasikan. Jangan sampai "siswa SD" menjawab dengan istilah profesor.
 - **Distribusi Partisipasi:** Jika kamu ingin melatih keterampilan bertanya, tunjuklah siswa model yang berbeda-beda agar simulasi terasa dinamis.
 
-*Think about this: Bagaimana jika siswa model kamu terlalu pasif atau malah terlalu banyak bicara? Sebagai guru, kamu harus tetap memegang kendali kelas dengan teknik manajemen kelas yang sopan.*
+*Skenario Manajemen Kelas: Bagaimana jika siswa model bersikap terlalu pasif atau dominan berbicara? Seorang pengajar perlu mempertahankan kendali kelas secara efektif melalui teknik manajemen kelas yang komunikatif dan terstruktur.*
 
 ### 4. Checklist Persiapan Teknis (Audit Mandiri)
 

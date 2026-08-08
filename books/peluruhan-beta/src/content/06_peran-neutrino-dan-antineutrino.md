@@ -82,4 +82,4 @@ Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 | **Muatan** | Netral ($0$) | Netral ($0$) |
 | **Helisitas** | Kidal (Left-handed) | Kanan (Right-handed) |
 
-*Think about this: Jika triliunan neutrino menembus tubuh manusia setiap detik tanpa efek apa pun, apa yang bisa kita pelajari tentang sifat dasar benda padat di alam semesta ini? Apakah dunia kita sebenarnya jauh lebih kosong daripada yang terlihat?*
+*Renungan Realitas Kosmis: Apabila triliunan neutrino menembus struktur fisik manusia setiap detik tanpa interaksi, fakta ini mengungkap bahwa materi padat di alam semesta sebagian besar terdiri dari ruang hampa subatomik.*

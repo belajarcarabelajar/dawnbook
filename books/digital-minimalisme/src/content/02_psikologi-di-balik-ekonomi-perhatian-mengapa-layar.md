@@ -26,7 +26,7 @@ $$
 
 Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika kamu melihat ikon merah notifikasi, otakmu melepaskan dopamin yang membisikkan, *"Siapa yang menyukai foto saya? Pesan apa ini?"*. Rasa ingin tahu ini menciptakan tekanan psikologis yang hanya bisa diredakan dengan membuka aplikasi tersebut.
 
-*Think about this: Pernahkah kamu merasa cemas saat ponselmu berada di ruangan lain? Itu adalah manifestasi fisik dari jalur dopamin yang menuntut untuk "diberi makan".*
+*Coba Amati Respons Diri: Pernahkah muncul rasa cemas saat ponsel berada di ruangan lain? Hal tersebut merupakan manifestasi fisik dari sinyal dopamin yang memicu dorongan pemeriksaan perangkat.*
 
 ## 3\. Efek Slot Machine: Intermittent Variable Rewards
 

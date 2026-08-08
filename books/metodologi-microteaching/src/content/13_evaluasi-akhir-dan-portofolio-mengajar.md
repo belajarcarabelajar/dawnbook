@@ -81,7 +81,7 @@ Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, 
 
 Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Rencana Tindak Lanjut (RTL)**. Ini adalah jembatan antara simulasi dan realitas.
 
-*Think about this: Jika besok kamu harus mengajar di kelas yang berisi 40 siswa selama 90 menit (bukan lagi 5 siswa selama 10 menit), langkah apa yang pertama kali akan kamu persiapkan berdasarkan hasil evaluasi hari ini?*
+*Refleksi Transisi Lapangan: Ketika bertransisi dari simulasi mikro menuju pengajaran nyata berdurasi 90 menit di hadapan 40 siswa, langkah persiapan utama apakah yang perlu diprioritaskan berdasarkan hasil evaluasi ini?*
 
 **Langkah penyusunan RTL:**
 

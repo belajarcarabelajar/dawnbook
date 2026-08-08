@@ -57,7 +57,7 @@ Di masa depan, peran guru tidak akan digantikan oleh teknologi, melainkan bertra
 - **Pemanfaatan Mirror Neurons:** Guru akan fokus pada pemodelan perilaku dan empati, memanfaatkan sistem sel saraf cermin siswa untuk mempercepat pembelajaran keterampilan sosial dan motorik.
 - **Optimalisasi Neurotransmiter:** Guru akan merancang aktivitas yang memicu pelepasan **Dopamin** (melalui rasa ingin tahu dan *reward*) dan **Norepinefrin** (melalui tantangan yang sehat) untuk memastikan otak dalam kondisi paling plastis.
 
-*Think about this: Jika kamu tahu bahwa setiap kata penyemangat yang kamu berikan secara fisik memperkuat jalur saraf ketangguhan (resilience) di otak siswa, bagaimana hal itu akan mengubah cara kamu berbicara di kelas?*
+*Pertimbangan Praktik Pedagogis: Memahami bahwa setiap dorongan positif mampu memperkuat jalur saraf resiliensi di otak siswa akan memberikan kesadaran baru tentang pentingnya artikulasi komunikasi di dalam kelas.*
 
 ## 4\. Metrik Keberhasilan Baru: Pertumbuhan vs. Skor
 

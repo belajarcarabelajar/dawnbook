@@ -50,7 +50,7 @@ Jika total waktu adalah $\text{T}_{\text{total}} = 15$ menit, maka pembagian ide
 - **Penutup ($K$):** $15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2$ menit
    $$\text{T}_{\text{total}} = P + I + K$$
 
-*Think about this: Jika kamu terlambat 2 menit di bagian pendahuluan, kamu telah kehilangan 20% dari jatah waktu kegiatan inti kamu. Bagaimana kamu akan menyesuaikan ritme mengajar kamu tanpa mengurangi kualitas pemahaman siswa?*
+*Kalkulasi Manajemen Waktu: Keterlambatan durasi selama 2 menit pada bagian pendahuluan mengakibatkan kehilangan sekitar 20% porsi waktu kegiatan inti. Penyesuaian ritme mengajar menjadi krusial agar kualitas pemahaman siswa tetap terjaga.*
 
 ## 4. Langkah-Langkah Menyusun RPP Mikro
 

@@ -31,7 +31,7 @@ Ini adalah kemampuan rasional manusia untuk mengevaluasi kesan. Kita belajar mem
 - **Fakta Objektif:** "Hujan turun."
 - **Penilaian Subjektif:** "Hujan ini merusak hariku dan ini sangat buruk."
 
-*Think about this: Berapa banyak penderitaan dalam hidupmu yang sebenarnya bukan berasal dari kejadian itu sendiri, melainkan dari "Logika" yang cacat dalam menilainya?*
+*Refleksi Batin: Berapa banyak penderitaan dalam hidup yang sebenarnya bukan berasal dari kejadian itu sendiri, melainkan dari persepsi subjektif dalam menilainya?*
 
 ## 2\. Fisika: Memahami Hukum Alam Semesta
 

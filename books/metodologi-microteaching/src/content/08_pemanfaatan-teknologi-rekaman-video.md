@@ -88,6 +88,6 @@ Penting untuk diingat bahwa rekaman video melibatkan privasi orang lain (siswa m
 | **Audio** | Lakukan tes suara (cek apakah suara guru terdengar jelas dari jarak 3 meter). |
 | **Mode Pesawat** | Jika menggunakan smartphone, aktifkan *Airplane Mode* agar rekaman tidak terhenti oleh panggilan masuk. |
 
-*Think about this:* *Jika kamu menonton video mengajar kamu sendiri tanpa suara, apakah kamu masih bisa memahami pesan yang ingin kamu sampaikan hanya melalui bahasa tubuh dan ekspresi kamu?*
+*Eksperimen Observasi Visual:* *Ketika sebuah rekaman video simulasi mengajar diputar tanpa audio, sejauh manakah gestur tubuh dan ekspresi wajah pengajar dapat menyampaikan pesan pembelajaran secara efektif?*
 
 > **Poin Kunci:** Rekaman video dalam microteaching bukan tentang membuat "film yang indah", melainkan tentang menangkap "proses yang nyata" demi perbaikan berkelanjutan.

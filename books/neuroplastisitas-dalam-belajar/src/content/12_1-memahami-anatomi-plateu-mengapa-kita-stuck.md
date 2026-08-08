@@ -26,7 +26,7 @@ Saat kamu membuat kesalahan dan menyadarinya, otak melepaskan neuromodulator sep
 3. **Sinyal Kimia:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
 4. **Plastisitas:** Otak menjadi sangat fleksibel dalam beberapa saat setelah kesalahan terjadi untuk "mencari" solusi yang benar.
 
-*Think about this: Jika kamu tidak pernah melakukan kesalahan saat berlatih, otak kamu berasumsi bahwa jalur saraf saat ini sudah sempurna dan tidak merasa perlu melakukan perubahan (plastisitas).*
+*Prinsip Sinyal Kesalahan: Tanpa adanya kekeliruan saat berlatih, sistem saraf berasumsi bahwa jalur yang aktif saat ini sudah memadai sehingga tidak memicu mekanisme rekonfigurasi plastisitas.*
 
 ## 3\. Teknik Mendobrak Stagnasi (Breaking the Plateau)
 

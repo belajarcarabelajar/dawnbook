@@ -80,6 +80,6 @@ Bagaimana kita bisa bergeser dari pola pikir tetap ke pola pikir berkembang?
 3. **Cari Tantangan yang Tepat:** Jangan menetap di zona nyaman. Jika sebuah tugas terasa terlalu mudah, otak kamu tidak sedang membangun koneksi baru.
 4. **Lihat Kegagalan sebagai Data:** Anggap kegagalan sebagai sistem navigasi GPS yang memberi tahu kamu, *"Rute ini buntu, coba belok kiri (strategi baru)."*
 
-> *Think about this:* Pernahkah kamu berhenti mencoba sesuatu karena kamu merasa tidak memiliki "bakat alami" di sana? Bagaimana jika sebenarnya yang kamu butuhkan hanyalah waktu dan metode belajar yang berbeda?
+> *Bahan Renungan Kognitif:* Pernahkah timbul dorongan untuk menyerah hanya karena anggapan tidak memiliki "bakat alami"? Bagaimana jika yang sejatinya dibutuhkan hanyalah alokasi waktu dan strategi belajar yang tepat?
 
 **Pesan Penting:** Memahami perbedaan antara *Growth* dan *Fixed Mindset* adalah langkah awal yang sangat penting. Namun, pemahaman psikologis ini barulah setengah dari cerita. Pada bagian selanjutnya, kita akan melihat bagaimana keyakinan mental ini secara fisik mampu mengubah arsitektur otak kamu melalui mekanisme neurobiologis yang nyata.

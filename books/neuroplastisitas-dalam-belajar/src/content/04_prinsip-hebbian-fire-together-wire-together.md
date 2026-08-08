@@ -53,7 +53,7 @@ Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat
 3. **Perubahan Struktural:** Otak mulai mengirimkan protein untuk memperkuat sinapsis tersebut. Ibarat membangun jembatan permanen menggantikan tali tambang yang rapuh.
 4. **Asosiasi:** Setelah koneksi "terpatri" (*wired*), hanya dengan melihat gambar apel, otak kamu akan secara otomatis memicu neuron kata "Apel" tanpa perlu usaha sadar yang besar.
 
-*Think about this: Jika "Fire Together, Wire Together" adalah cara kita belajar, apa yang terjadi jika kita berhenti menggunakan jalur saraf tersebut? (Petunjuk: "Use it or lose it").*
+*Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? (Petunjuk: Prinsip "Use it or lose it").*
 
 ## 5\. Aplikasi Dunia Nyata dan Kasus Praktis
 

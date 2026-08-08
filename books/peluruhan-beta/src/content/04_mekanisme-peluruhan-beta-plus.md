@@ -48,7 +48,7 @@ $$
 
 Secara alami, sesuatu yang ringan sulit berubah menjadi sesuatu yang lebih berat tanpa bantuan energi tambahan. Oleh karena itu, peluruhan $\beta^+$ hanya bisa terjadi jika perbedaan massa antara inti induk ($X$) dan inti anak ($Y$) cukup besar untuk menciptakan massa positron dan memberikan energi kinetik.
 
-*Think about this: Jika massa neutron lebih berat, dari mana energi tambahan itu berasal? Energi tersebut berasal dari **energi ikat inti (binding energy)** yang dilepaskan saat konfigurasi inti berubah menjadi lebih stabil.*
+*Penjelasan Energi Ikat: Jika massa neutron lebih berat daripada proton, dari manakah asal energi tambahan untuk konversi tersebut? Energi tersebut bersumber dari **energi ikat inti (binding energy)** yang dilepaskan ketika konfigurasi inti bertransisi menuju keadaan yang lebih stabil.*
 
 ### 4. Nasib Sang Positron: Anihilasi
 

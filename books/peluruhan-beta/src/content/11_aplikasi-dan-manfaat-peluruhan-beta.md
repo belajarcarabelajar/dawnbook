@@ -75,7 +75,7 @@ $$
 
 Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begitu sebuah pohon mati, jam pasir tersebut dibalik. Dengan menghitung sisa pasir (${}^{14}\text{C}$) yang ada dibandingkan dengan jumlah awalnya, arkeolog dapat menghitung sudah berapa lama pasir tersebut mengalir, atau dengan kata lain, kapan organisme tersebut mati.
 
-*Think about this: Jika ditemukan sebuah fosil kayu dengan jumlah ${}^{14}\text{C}$ hanya tinggal seperempat dari jumlah normal pada tumbuhan hidup, kira-kira berapa usia fosil tersebut? (Petunjuk: Satu waktu paruh mengurangi jumlah menjadi setengahnya).*
+*Studi Kasus Penanggalan Radiokarbon: Apabila ditemukan fosil kayu dengan konsentrasi ${}^{14}\text{C}$ sebesar seperempat dari jumlah normal organisme hidup, berapakah estimasi usia fosil tersebut? (Petunjuk: Satu periode waktu paruh mengurangi konsentrasi menjadi separuhnya).*
 
 ### Real-World Application: Sensor Asap Modern
 

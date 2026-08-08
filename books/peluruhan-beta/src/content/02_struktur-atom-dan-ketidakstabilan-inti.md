@@ -47,7 +47,7 @@ Peluruhan beta adalah mekanisme koreksi otomatis alam semesta untuk memperbaiki 
 1. **Kelebihan Neutron (Di atas pita kestabilan):** Rasio N/Z terlalu tinggi. Inti ingin mengubah neutron menjadi proton untuk menurunkan rasio tersebut. Inilah pemicu **Peluruhan Beta Minus ($\beta^-$)**.
 2. **Kekurangan Neutron/Kelebihan Proton (Di bawah pita kestabilan):** Rasio N/Z terlalu rendah. Inti ingin mengubah proton menjadi neutron untuk meningkatkan rasio tersebut. Inilah pemicu **Peluruhan Beta Plus ($\beta^+$)** atau **Penangkapan Elektron**.
 
-*Think about this: Jika atom adalah sebuah kapal, rasio N/Z adalah muatannya. Jika muatan terlalu berat di sisi kanan atau kiri, kapal akan miring. Peluruhan beta adalah cara kapal tersebut membuang atau memindahkan beban agar kembali seimbang di tengah lautan.*
+*Analogi Keseimbangan Subatomik: Ibarat sebuah kapal, rasio N/Z adalah muatan penyimbangnya. Jika muatan terlalu berat di salah satu sisi, kapal menjadi tidak stabil. Peluruhan beta merupakan mekanisme memindahkan atau menyeimbangkan muatan tersebut agar kestabilan inti tercapai kembali.*
 
 ### 4. Matematika Ketidakstabilan
 

@@ -62,6 +62,6 @@ Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita liha
 | **Koneksi ACC-PFC** | Terputus/Lemah saat gagal | Sangat Aktif (Regulasi diri) |
 | **Hasil Jangka Panjang** | Stagnasi sirkuit saraf | Penguatan arsitektur saraf secara kontinu |
 
-*Think about this: Jika hari ini kamu belum membuat kesalahan dalam belajar, apakah kamu benar-benar sedang memberi kesempatan pada otak kamu untuk berubah secara fisik?*
+*Refleksi Proses Belajar: Jika hari ini tidak ada kekeliruan atau tantangan dalam proses belajar, akankah jaringan otak terdorong untuk melakukan adaptasi fisik secara optimal?*
 
 > **Kesimpulan:** Mindset bukan sekadar motivasi. Ia adalah **saklar biologis**. Dengan meyakini bahwa otak dapat berubah, kamu sebenarnya sedang menurunkan ambang batas kimiawi bagi neuron-neuron kamu untuk membentuk koneksi baru. kamu tidak hanya belajar lebih baik; kamu secara fisik sedang membangun otak yang lebih tangguh.

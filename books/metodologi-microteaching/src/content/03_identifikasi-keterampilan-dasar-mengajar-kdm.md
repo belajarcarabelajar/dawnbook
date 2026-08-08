@@ -42,7 +42,7 @@ Bertanya adalah instrumen utama dalam interaksi belajar-mengajar. Guru yang baik
 - **Pertanyaan Dasar:** Fokus pada pemahaman fakta (Apa, Siapa, Di mana).
 - **Pertanyaan Lanjut:** Fokus pada kemampuan analisis, sintesis, dan evaluasi (Mengapa, Bagaimana jika...).
 
-*Think about this: Apakah kamu sering memberikan pertanyaan yang hanya memerlukan jawaban "Ya" atau "Tidak"? Jika ya, cobalah ubah menjadi pertanyaan terbuka untuk memancing diskusi yang lebih dalam.*
+*Refleksi Teknik Bertanya: Apakah pengajar masih sering mengajukan pertanyaan tertutup yang hanya memerlukan jawaban singkat "Ya" atau "Tidak"? Mengubahnya menjadi pertanyaan terbuka akan memancing pemikiran kritis dan diskusi kelas yang lebih mendalam.*
 
 ## 4. Keterampilan Memberikan Penguatan (Reinforcement)
 

@@ -79,6 +79,6 @@ $$
 
 Jika $\text{Kompleksitas Variabel}$ terlalu tinggi (30 siswa, 90 menit, semua keterampilan), maka $\text{Kapasitas Fokus}$ kita akan pecah. Dengan mengecilkan pembagi (penyederhanaan), kita meningkatkan kualitas fokus pada setiap detail kecil yang sering terabaikan.
 
-*Think about this:* *Jika kamu diminta untuk memperbaiki kemampuan berbicara di depan umum, mana yang menurut kamu lebih efektif: Langsung berpidato di depan 1.000 orang selama satu jam, atau berlatih di depan 5 teman dekat selama 5 menit berulang kali dengan fokus pada kontak mata saja? Mengapa demikian?*
+*Simulasi Komparatif:* *Saat mengasah kemampuan berbicara di depan umum, manakah metode yang lebih efektif: Berpidato langsung di hadapan 1.000 pendengar selama satu jam, atau berlatih di depan 5 rekan sejawat selama 5 menit secara berulang dengan fokus khusus pada kontak mata?*
 
 **Kesimpulan:** Karakteristik utama pembelajaran mikro adalah **penyederhanaan**. Dengan membatasi jumlah siswa, durasi waktu, dan fokus keterampilan, kita menciptakan laboratorium yang terkontrol untuk mengasah kompetensi pedagogik secara presisi. Sebelum kamu melangkah ke bagian "Keterampilan Dasar Mengajar", pastikan kamu telah merangkul konsep penyederhanaan ini sebagai kekuatan, bukan kekurangan.

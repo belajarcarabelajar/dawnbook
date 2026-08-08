@@ -47,7 +47,7 @@ $$
 $$
 </div>
 
-*Think about this: Jika menggunakan perisai timbal untuk partikel beta yang sangat kuat, kita justru secara tidak sengaja menciptakan sumber sinar-X di tempat kerja!*
+*Peringatan Efek Bremsstrahlung: Penggunaan perisai timbal berkerapatan tinggi untuk partikel beta berenergi tinggi justru dapat secara tak sengaja memicu radiasi sekunder berupa sinar-X di lingkungan kerja.*
 
 #### Material Perisai yang Efektif
 

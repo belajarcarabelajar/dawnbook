@@ -38,7 +38,7 @@ Piaget ingin memetakan transisi dari pengetahuan tingkat rendah ke pengetahuan t
 
 $\text{Pengetahuan} = \text{Aksi} \times \text{Objek}$
 
-*Think about this: Pernahkah kamu memperhatikan seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
+*Coba Amati Fenomena Ini: Pernahkah terlihat seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 
 ## 4\. Analogi: Arsitektur Pikiran
 

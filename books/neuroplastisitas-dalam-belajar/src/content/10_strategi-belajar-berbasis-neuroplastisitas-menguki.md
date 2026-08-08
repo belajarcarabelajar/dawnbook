@@ -45,7 +45,7 @@ Kebanyakan orang belajar dengan cara *blocked practice* (belajar topik A sampai 
 - **Mekanisme Neuroplastisitas:** Saat kamu mencampur topik, otak kamu dipaksa untuk terus-menerus membedakan antara konsep-konsep yang serupa. Ini membangun fleksibilitas kognitif dan membantu otak mengenali pola yang lebih dalam.
 - **Analogi:** Seorang petenis yang berlatih dengan pukulan yang diacak (forehand, lalu backhand, lalu volley secara acak) akan jauh lebih siap menghadapi pertandingan nyata dibandingkan petenis yang hanya melakukan 100 kali forehand berturut-turut.
 
-*Think about this: Apakah kamu merasa lebih nyaman belajar satu subjek selama berjam-jam? Kenyamanan itu seringkali merupakan ilusi kemajuan. Ketidaknyamanan saat berganti-ganti topik justru merupakan tanda bahwa otak kamu sedang bekerja keras membentuk koneksi baru.*
+*Analogi Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, namun rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antar topik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
 
 ### Real-world Application: Strategi Belajar Pemrograman
 

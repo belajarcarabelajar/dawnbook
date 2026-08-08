@@ -35,7 +35,7 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
 - Praktikkan transisi antar langkah pembelajaran yang telah direvisi.
-- *Think about this: Apakah perubahan yang kamu buat terasa lebih alami atau justru membuat kamu canggung?*
+- *Evaluasi Adaptasi Perilaku: Apakah modifikasi teknik mengajar yang baru direvisi terasa lebih natural atau membutuhkan penyesuaian ritme tambahan?*
 
 ### 4. Pelaksanaan Re-teaching
 

@@ -71,7 +71,7 @@ $$
 
 Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai} = \frac{15}{20} \times 100 = 75$
 
-*Think about this: Apakah nilai 75 sudah cukup untuk menyatakan seseorang kompeten mengajar? Atau apakah ada indikator "fatal" (seperti penguasaan materi) yang jika rendah, maka nilai lainnya tidak relevan?*
+*Analisis Kompetensi Penilaian: Apakah skor kuantitatif 75 sudah memadai untuk mengonfirmasi kompetensi mengajar? Ataukah terdapat indikator prasyarat mutlak (seperti penguasaan materi) yang jika bernilai rendah akan menggugurkan indikator lainnya?*
 
 ## 6. Skenario Real-World: Simulasi Penilaian Sejawat
 
