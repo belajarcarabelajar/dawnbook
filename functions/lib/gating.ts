@@ -29,7 +29,6 @@
  */
 export const PUBLIC_PREVIEW_CHAPTER = "chapter_1";
 
-
 /** Static asset extensions that are always public. */
 const PUBLIC_ASSET_EXTENSIONS = new Set([
   ".css",
@@ -78,11 +77,7 @@ const PUBLIC_EXACT_PATHS = new Set([
 ]);
 
 /** Prefix-based public paths. */
-const PUBLIC_PATH_PREFIXES = [
-  "/api/",
-  "/sign-in",
-  "/sign-up",
-];
+const PUBLIC_PATH_PREFIXES = ["/api/", "/sign-in", "/sign-up"];
 
 /**
  * Determines whether a pathname is public (no auth required at edge).
@@ -95,12 +90,7 @@ const PUBLIC_PATH_PREFIXES = [
  * @returns true if the path should be served without edge-level auth redirection
  */
 export function isPublicPath(pathname: string): boolean {
-  let decoded = pathname;
-  try {
-    decoded = decodeURIComponent(pathname);
-  } catch (err) {
-    console.error(`[gating] URIError decoding pathname: ${pathname}`);
-  }
+  const decoded = decodeURIComponent(pathname);
 
   // 1. Admin SPA routes are gated
   if (decoded === "/admin" || decoded.startsWith("/admin/")) {
@@ -153,7 +143,7 @@ export function isPublicPath(pathname: string): boolean {
  */
 export function isSearchEngineBot(userAgent: string | null): boolean {
   if (!userAgent) return false;
-  const botPattern = /Googlebot|Google-InspectionTool|Google-Extended|Storebot-Google|Bingbot|BingPreview|msnbot|YandexBot|Baiduspider|DuckDuckBot|GPTBot|ChatGPT-User|PerplexityBot|ClaudeBot|Claude-Web|Anthropic|Bytespider|CCBot|Amazonbot|Applebot|facebookexternalhit|Twitterbot|LinkedInBot/i;
+  const botPattern =
+    /Googlebot|Google-InspectionTool|Google-Extended|Storebot-Google|Bingbot|BingPreview|msnbot|YandexBot|Baiduspider|DuckDuckBot|GPTBot|ChatGPT-User|PerplexityBot|ClaudeBot|Claude-Web|Anthropic|Bytespider|CCBot|Amazonbot|Applebot|facebookexternalhit|Twitterbot|LinkedInBot/i;
   return botPattern.test(userAgent);
 }
-
