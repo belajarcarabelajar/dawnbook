@@ -162,5 +162,18 @@ def main():
                 
         print(f"\n🎉 Indexing Notification Batch Complete! {success_count} URLs directly pushed to Google Indexing API queue.")
 
+        checkpoint_path = "/home/belajarcarabelajar/dawnbook/docs/indexing_checkpoint.json"
+        sent_count = offset + success_count
+        cp_data = {
+            "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
+            "total_urls": len(all_urls),
+            "batch_1_sent_count": sent_count,
+            "batch_2_remaining_count": max(0, len(all_urls) - sent_count),
+            "batch_1_sent_urls": all_urls[:sent_count]
+        }
+        with open(checkpoint_path, 'w', encoding='utf-8') as f:
+            json.dump(cp_data, f, indent=2)
+        print(f"💾 Updated checkpoint saved to {checkpoint_path} (Sent count: {sent_count})")
+
 if __name__ == "__main__":
     main()
