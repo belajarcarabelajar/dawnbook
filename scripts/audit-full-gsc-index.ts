@@ -48,7 +48,11 @@ async function getAccessToken(sa: any): Promise<string> {
   return data.access_token;
 }
 
-async function getAccessTokenFromRefreshToken(clientId: string, clientSecret: string, refreshToken: string): Promise<string> {
+async function getAccessTokenFromRefreshToken(
+  clientId: string,
+  clientSecret: string,
+  refreshToken: string,
+): Promise<string> {
   const res = await fetch("https://oauth2.googleapis.com/token", {
     method: "POST",
     headers: { "Content-Type": "application/x-www-form-urlencoded" },
@@ -76,19 +80,26 @@ interface InspectionResult {
   error?: string;
 }
 
-async function inspectUrl(token: string, inspectionUrl: string, siteUrl: string): Promise<InspectionResult> {
+async function inspectUrl(
+  token: string,
+  inspectionUrl: string,
+  siteUrl: string,
+): Promise<InspectionResult> {
   try {
-    const res = await fetch("https://searchconsole.googleapis.com/v1/urlInspection/index:inspect", {
-      method: "POST",
-      headers: {
-        Authorization: `Bearer ${token}`,
-        "Content-Type": "application/json",
+    const res = await fetch(
+      "https://searchconsole.googleapis.com/v1/urlInspection/index:inspect",
+      {
+        method: "POST",
+        headers: {
+          Authorization: `Bearer ${token}`,
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          inspectionUrl: inspectionUrl,
+          siteUrl: siteUrl,
+        }),
       },
-      body: JSON.stringify({
-        inspectionUrl: inspectionUrl,
-        siteUrl: siteUrl,
-      }),
-    });
+    );
 
     const data = await res.json();
     if (data.inspectionResult && data.inspectionResult.indexStatusResult) {
@@ -121,13 +132,15 @@ async function inspectUrl(token: string, inspectionUrl: string, siteUrl: string)
 async function main() {
   console.log("🔍 Starting Full Site-Wide GSC Indexing Audit for Dawnbook...");
 
-  const sitemapPath = "/home/belajarcarabelajar/dawnbook/output/sitemap.xml";
-  if (!fs.existsSync(sitemapPath)) {
+  const sitemapPath = "output/sitemap.xml";
+  try {
+    await fs.promises.access(sitemapPath);
+  } catch {
     console.error("sitemap.xml not found at", sitemapPath);
     process.exit(1);
   }
 
-  const sitemapContent = fs.readFileSync(sitemapPath, "utf8");
+  const sitemapContent = await fs.promises.readFile(sitemapPath, "utf8");
   const urls: string[] = [];
   const matches = sitemapContent.matchAll(/<loc>(.*?)<\/loc>/g);
   for (const match of matches) {
@@ -136,9 +149,15 @@ async function main() {
 
   console.log(`Found ${urls.length} URLs in sitemap.xml.`);
 
-  const saPath = "/home/belajarcarabelajar/dawnbook/service-account.json";
+  const saPath = "service-account.json";
   let token = process.env.GOOGLE_SEARCH_CONSOLE_TOKEN || "";
   let sa: any = null;
+
+  let saFileExists = false;
+  try {
+    await fs.promises.access(saPath);
+    saFileExists = true;
+  } catch {}
 
   if (process.env.GSC_CLIENT_EMAIL && process.env.GSC_PRIVATE_KEY) {
     sa = {
@@ -146,22 +165,30 @@ async function main() {
       private_key: process.env.GSC_PRIVATE_KEY.replace(/\\n/g, "\n"),
     };
     token = await getAccessToken(sa);
-  } else if (fs.existsSync(saPath)) {
-    sa = JSON.parse(fs.readFileSync(saPath, "utf8"));
+  } else if (saFileExists) {
+    sa = JSON.parse(await fs.promises.readFile(saPath, "utf8"));
     token = await getAccessToken(sa);
-  } else if (process.env.GSC_REFRESH_TOKEN && process.env.GSC_CLIENT_ID && process.env.GSC_CLIENT_SECRET) {
+  } else if (
+    process.env.GSC_REFRESH_TOKEN &&
+    process.env.GSC_CLIENT_ID &&
+    process.env.GSC_CLIENT_SECRET
+  ) {
     try {
       console.log("🔑 Exchanging OAuth refresh token for access token...");
       token = await getAccessTokenFromRefreshToken(
         process.env.GSC_CLIENT_ID,
         process.env.GSC_CLIENT_SECRET,
-        process.env.GSC_REFRESH_TOKEN
+        process.env.GSC_REFRESH_TOKEN,
       );
       console.log("✅ Successfully obtained OAuth 2.0 Access Token!");
     } catch (e: any) {
       console.warn("Could not exchange refresh token:", e.message);
       if (!token) {
-        token = process.env.GOOGLE_SEARCH_CONSOLE_API_KEY || process.env.GSC_API_KEY || process.env.SEARCH_CONSOLE_API_KEY || "";
+        token =
+          process.env.GOOGLE_SEARCH_CONSOLE_API_KEY ||
+          process.env.GSC_API_KEY ||
+          process.env.SEARCH_CONSOLE_API_KEY ||
+          "";
       }
     }
   }
@@ -186,7 +213,9 @@ async function main() {
     const batchResults = await Promise.all(promises);
     results.push(...batchResults);
 
-    process.stdout.write(`\rInspected ${Math.min(i + BATCH_SIZE, urls.length)} / ${urls.length} URLs...`);
+    process.stdout.write(
+      `\rInspected ${Math.min(i + BATCH_SIZE, urls.length)} / ${urls.length} URLs...`,
+    );
     await new Promise((r) => setTimeout(r, DELAY_MS));
   }
 
@@ -201,12 +230,27 @@ async function main() {
     unknownOrError: 0,
   };
 
-  const bookStats: Record<string, { total: number; indexed: number; crawledNotIndexed: number; discoveredNotIndexed: number; redirect: number; other: number }> = {};
+  const bookStats: Record<
+    string,
+    {
+      total: number;
+      indexed: number;
+      crawledNotIndexed: number;
+      discoveredNotIndexed: number;
+      redirect: number;
+      other: number;
+    }
+  > = {};
 
   for (const r of results) {
-    const isIndexed = r.verdict === "PASS" || r.coverageState.toLowerCase().includes("indexed");
-    const isCrawledNotIndexed = r.coverageState.toLowerCase().includes("crawled");
-    const isDiscoveredNotIndexed = r.coverageState.toLowerCase().includes("discovered");
+    const isIndexed =
+      r.verdict === "PASS" || r.coverageState.toLowerCase().includes("indexed");
+    const isCrawledNotIndexed = r.coverageState
+      .toLowerCase()
+      .includes("crawled");
+    const isDiscoveredNotIndexed = r.coverageState
+      .toLowerCase()
+      .includes("discovered");
     const isRedirect = r.coverageState.toLowerCase().includes("redirect");
 
     if (isIndexed) summary.indexed++;
@@ -224,7 +268,14 @@ async function main() {
     }
 
     if (!bookStats[bookSlug]) {
-      bookStats[bookSlug] = { total: 0, indexed: 0, crawledNotIndexed: 0, discoveredNotIndexed: 0, redirect: 0, other: 0 };
+      bookStats[bookSlug] = {
+        total: 0,
+        indexed: 0,
+        crawledNotIndexed: 0,
+        discoveredNotIndexed: 0,
+        redirect: 0,
+        other: 0,
+      };
     }
     bookStats[bookSlug].total++;
     if (isIndexed) bookStats[bookSlug].indexed++;
@@ -234,14 +285,24 @@ async function main() {
     else bookStats[bookSlug].other++;
   }
 
-  console.log("\n================ SITE-WIDE GSC INDEX SUMMARY ================");
+  console.log(
+    "\n================ SITE-WIDE GSC INDEX SUMMARY ================",
+  );
   console.log(`Total URLs Checked:             ${summary.total}`);
-  console.log(`🟢 Indexed (PASS):               ${summary.indexed} (${((summary.indexed / summary.total) * 100).toFixed(1)}%)`);
-  console.log(`🟡 Crawled - currently not indexed: ${summary.crawledNotIndexed}`);
-  console.log(`🔵 Discovered - not indexed:      ${summary.discoveredNotIndexed}`);
+  console.log(
+    `🟢 Indexed (PASS):               ${summary.indexed} (${((summary.indexed / summary.total) * 100).toFixed(1)}%)`,
+  );
+  console.log(
+    `🟡 Crawled - currently not indexed: ${summary.crawledNotIndexed}`,
+  );
+  console.log(
+    `🔵 Discovered - not indexed:      ${summary.discoveredNotIndexed}`,
+  );
   console.log(`🔴 Page with redirect:            ${summary.pageWithRedirect}`);
   console.log(`⚪ Unknown / Other:               ${summary.unknownOrError}`);
-  console.log("=============================================================\n");
+  console.log(
+    "=============================================================\n",
+  );
 
   // Save report markdown
   let reportMd = `# Full GSC Indexing Report — Dawnbook\n\n`;
@@ -264,15 +325,18 @@ async function main() {
     reportMd += `| \`${slug}\` | ${st.total} | ${st.indexed} | ${st.crawledNotIndexed} | ${st.discoveredNotIndexed} | ${st.redirect} | ${st.other} |\n`;
   }
 
-  const reportPath = "/home/belajarcarabelajar/dawnbook/docs/FULL_GSC_INDEXING_REPORT.md";
-  fs.mkdirSync(path.dirname(reportPath), { recursive: true });
-  fs.readFileSync;
-  fs.writeFileSync(reportPath, reportMd, "utf8");
+  const reportPath = "docs/FULL_GSC_INDEXING_REPORT.md";
+  await fs.promises.mkdir(path.dirname(reportPath), { recursive: true });
+  await fs.promises.writeFile(reportPath, reportMd, "utf8");
   console.log(`\nFull report written to ${reportPath}`);
 
   // Save JSON raw results
-  const jsonPath = "/home/belajarcarabelajar/dawnbook/docs/full_gsc_indexing_data.json";
-  fs.writeFileSync(jsonPath, JSON.stringify(results, null, 2), "utf8");
+  const jsonPath = "docs/full_gsc_indexing_data.json";
+  await fs.promises.writeFile(
+    jsonPath,
+    JSON.stringify(results, null, 2),
+    "utf8",
+  );
   console.log(`Raw inspection data saved to ${jsonPath}`);
 }
 
