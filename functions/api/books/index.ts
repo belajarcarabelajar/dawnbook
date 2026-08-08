@@ -7,6 +7,7 @@
  */
 
 import { Env, verifySession } from "../../lib/auth";
+import { enforceRateLimit } from "../../lib/rate-limit";
 
 interface BookRow {
   id: string;
@@ -43,6 +44,10 @@ function errorResponse(message: string, status: number): Response {
 
 /**
  * GET /api/books — Public. Returns all books (without full content by default).
+ *
+ * Draft-status books are only visible to authenticated admins; anonymous and
+ * reader sessions always see published books only (the `status` query param
+ * is ignored for them, so drafts can never be enumerated via the API).
  */
 async function handleGetBooks(env: Env, request: Request): Promise<Response> {
   const url = new URL(request.url);
@@ -50,6 +55,9 @@ async function handleGetBooks(env: Env, request: Request): Promise<Response> {
   const statusFilter = url.searchParams.get("status");
   const subjectLabel = url.searchParams.get("subject_label");
   const sortBy = url.searchParams.get("sort_by") || "newest";
+
+  const session = await verifySession(request, env);
+  const isAdmin = session?.role === "admin";
 
   let query: string;
   const params: unknown[] = [];
@@ -62,7 +70,12 @@ async function handleGetBooks(env: Env, request: Request): Promise<Response> {
 
   const conditions = [];
 
-  if (statusFilter && (statusFilter === "draft" || statusFilter === "published")) {
+  if (!isAdmin) {
+    // Non-admin callers only ever see published books, regardless of the
+    // `status` query param they pass.
+    conditions.push(`status = ?${params.length + 1}`);
+    params.push("published");
+  } else if (statusFilter === "draft" || statusFilter === "published") {
     conditions.push(`status = ?${params.length + 1}`);
     params.push(statusFilter);
   }
@@ -108,6 +121,15 @@ async function handlePostBook(
   if (session.role !== "admin") {
     return errorResponse("Forbidden: Administrator access required", 403);
   }
+
+  // Cap admin publish/write volume per user (defends against script abuse).
+  const rateLimited = await enforceRateLimit(env, request, {
+    route: "books",
+    limit: 60,
+    windowSeconds: 600,
+    userKey: session.sub,
+  });
+  if (rateLimited) return rateLimited;
 
   let payload: PublishPayload;
   try {

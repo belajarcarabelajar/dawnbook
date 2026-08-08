@@ -8,7 +8,7 @@ mock.module("../../../functions/lib/auth", () => {
 });
 
 import { onRequest } from "../../../functions/api/books/index";
-import { createMockEnv, mockRequest } from "../../helpers/mocks";
+import { createMockEnv, mockRequest, setQueryHandler } from "../../helpers/mocks";
 
 describe("API: /api/books", () => {
   beforeEach(() => {
@@ -24,6 +24,69 @@ describe("API: /api/books", () => {
     const reqOldest = mockRequest("https://example.com/api/books?sort_by=oldest", { method: "GET" });
     response = await onRequest({ request: reqOldest, env } as any);
     expect(response.status).toBe(200);
+  });
+
+  test("GET as anonymous only ever returns published books, ignoring the status param", async () => {
+    const env = createMockEnv();
+    const seen: { sql: string; params: unknown[] }[] = [];
+    setQueryHandler(env, "SELECT", (sql, params) => {
+      seen.push({ sql, params });
+      return [{ id: "1", slug: "b", title: "t", status: "published" }];
+    });
+
+    // Even an explicit status=draft request must be coerced to published.
+    const req = mockRequest("https://example.com/api/books?status=draft", { method: "GET" });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(200);
+    expect(seen).toHaveLength(1);
+    expect(seen[0].sql).toContain("status = ?1");
+    expect(seen[0].params).toEqual(["published"]);
+  });
+
+  test("GET as reader only returns published books", async () => {
+    mockSession = { sub: "user_123", role: "reader" };
+    const env = createMockEnv();
+    const seen: { sql: string; params: unknown[] }[] = [];
+    setQueryHandler(env, "SELECT", (sql, params) => {
+      seen.push({ sql, params });
+      return [];
+    });
+
+    const req = mockRequest("https://example.com/api/books?status=draft", { method: "GET" });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(200);
+    expect(seen[0].params).toEqual(["published"]);
+  });
+
+  test("GET as admin respects the status filter", async () => {
+    mockSession = { sub: "admin_1", role: "admin" };
+    const env = createMockEnv();
+    const seen: { sql: string; params: unknown[] }[] = [];
+    setQueryHandler(env, "SELECT", (sql, params) => {
+      seen.push({ sql, params });
+      return [];
+    });
+
+    const req = mockRequest("https://example.com/api/books?status=draft", { method: "GET" });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(200);
+    expect(seen[0].sql).toContain("status = ?1");
+    expect(seen[0].params).toEqual(["draft"]);
+  });
+
+  test("GET as admin with no status filter returns all books", async () => {
+    mockSession = { sub: "admin_1", role: "admin" };
+    const env = createMockEnv();
+    const seen: { sql: string; params: unknown[] }[] = [];
+    setQueryHandler(env, "SELECT", (sql, params) => {
+      seen.push({ sql, params });
+      return [];
+    });
+
+    const req = mockRequest("https://example.com/api/books", { method: "GET" });
+    const res = await onRequest({ request: req, env } as any);
+    expect(res.status).toBe(200);
+    expect(seen[0].sql).not.toContain("status =");
   });
 
   test("POST returns 400 for invalid JSON body", async () => {

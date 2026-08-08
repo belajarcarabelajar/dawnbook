@@ -2,11 +2,12 @@
  * functions/api/books/[slug].ts
  *
  * Cloudflare Pages Function handling:
- *   GET /api/books/:slug — Retrieve a single book by slug (public)
- *   DELETE /api/books/:slug — Delete a book by slug (requires Clerk auth)
+ *   GET /api/books/:slug — Retrieve a single book by slug (public; drafts only for admins)
+ *   DELETE /api/books/:slug — Delete a book by slug (requires admin auth)
  */
 
 import { verifySession, type Env as AuthEnv } from "../../lib/auth";
+import { enforceRateLimit } from "../../lib/rate-limit";
 
 interface Env extends AuthEnv {}
 
@@ -47,11 +48,23 @@ export const onRequest: PagesFunction<Env> = async (context) => {
 
   try {
     if (request.method === "GET") {
-      const result = await env.DB.prepare(
-        "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1"
-      )
-        .bind(slug)
-        .first<BookRow>();
+      // Draft-status books are only visible to authenticated admins. A draft
+      // requested by anyone else returns 404 (indistinguishable from a
+      // missing book, so drafts cannot be probed via the API).
+      const session = await verifySession(request, env);
+      const isAdmin = session?.role === "admin";
+
+      const result = isAdmin
+        ? await env.DB.prepare(
+            "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1"
+          )
+            .bind(slug)
+            .first<BookRow>()
+        : await env.DB.prepare(
+            "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books WHERE slug = ?1 AND status = 'published'"
+          )
+            .bind(slug)
+            .first<BookRow>();
 
       if (!result) {
         return errorResponse("Book not found", 404);
@@ -70,6 +83,15 @@ export const onRequest: PagesFunction<Env> = async (context) => {
       if (session.role !== "admin") {
         return errorResponse("Forbidden: Administrator access required", 403);
       }
+
+      // Cap destructive admin operations per user.
+      const rateLimited = await enforceRateLimit(env, request, {
+        route: "books-delete",
+        limit: 60,
+        windowSeconds: 600,
+        userKey: session.sub,
+      });
+      if (rateLimited) return rateLimited;
 
       const result = await env.DB.prepare("DELETE FROM books WHERE slug = ?1").bind(slug).run();
 
