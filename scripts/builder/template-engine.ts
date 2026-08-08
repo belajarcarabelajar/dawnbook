@@ -2,7 +2,6 @@ import { readFile, writeFile } from "node:fs/promises";
 import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook } from "./metadata";
-import { isPublicPath } from "../../functions/lib/gating.ts";
 import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
 
 export function escapeHtml(unsafe: string): string {
@@ -572,9 +571,11 @@ export async function copyAssets(
 
   try {
     await $`cp -r public/* ${outputDir}/`;
-  } catch {
+  } catch (error) {
     console.warn(
       "No public/ directory found or empty, skipping PWA files copy.",
+      "No public/ directory found or empty, skipping PWA files copy.",
+      error
     );
   }
 }

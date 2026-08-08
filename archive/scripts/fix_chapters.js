@@ -32,8 +32,12 @@ files.sort((a, b) => parseInt(a) - parseInt(b)).forEach(file => {
     // Clean up title for summary (remove colons, quotes, etc)
     let summaryTitle = title.replace(/[:"']/g, '');
     
-    // Convert ALL H1s to H2s to fix the nesting issue
-    content = content.replace(/^#\s+/gm, '## ');
+    // Convert ALL H1s to H2s to fix the nesting issue, while ignoring code blocks
+    content = content.replace(/(^```[\s\S]*?^```)|(^#\s+)/gm, (match, codeBlock, header) => {
+        if (codeBlock) return codeBlock;
+        if (header) return '## ';
+        return match;
+    });
     
     // Generate new filename
     const chapterNum = file.match(/^(\d+)/)[1];

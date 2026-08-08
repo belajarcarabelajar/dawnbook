@@ -1,6 +1,5 @@
 import { readdir, stat, writeFile } from "node:fs/promises";
 import { join } from "node:path";
-import { isPublicPath } from "../functions/lib/gating.ts";
 
 async function generateSitemap() {
   const rootDir = process.cwd();

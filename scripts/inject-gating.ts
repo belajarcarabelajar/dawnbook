@@ -1,8 +1,6 @@
 import { readdir, readFile, writeFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 
-import { isPublicPath } from "../functions/lib/gating.ts";
-
 function escapeHtml(unsafe: string): string {
   return unsafe.replace(/[&<>"']/g, (m) => {
     switch (m) {
@@ -112,26 +110,27 @@ async function processDirectory(
 
       const escapedTitle = escapeHtml(pageTitle);
       const escapedUrl = escapeHtml(url);
-      const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
+      const defaultImage =
+        "https://dawnbook.belajarcarabelajar.com/icon-512.png";
 
       const jsonLdData: any = {
         "@context": "https://schema.org",
         "@type": "Article",
-        "headline": escapeJson(pageTitle),
-        "url": escapeJson(url),
-        "isAccessibleForFree": isGatedClientSide ? "false" : "true",
-        "publisher": {
+        headline: escapeJson(pageTitle),
+        url: escapeJson(url),
+        isAccessibleForFree: isGatedClientSide ? "false" : "true",
+        publisher: {
           "@type": "Organization",
-          "name": "Dawnbook",
-          "url": "https://dawnbook.belajarcarabelajar.com"
-        }
+          name: "Dawnbook",
+          url: "https://dawnbook.belajarcarabelajar.com",
+        },
       };
 
       if (isGatedClientSide) {
         jsonLdData.hasPart = {
           "@type": "WebPageElement",
-          "isAccessibleForFree": "false",
-          "cssSelector": ".content"
+          isAccessibleForFree: "false",
+          cssSelector: ".content",
         };
       }
 

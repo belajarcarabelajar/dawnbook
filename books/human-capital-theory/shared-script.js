@@ -36,7 +36,7 @@ window.MathJax = {
     // Public pages reveal immediately; gated pages stay hidden until the
     // auth check resolves.
     var freeChapter = null;
-    try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.warn('sessionStorage getItem error', e); }
+    try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.error('sessionStorage getItem error', e); }
     var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
 
     if (!isPublic) {
@@ -96,10 +96,10 @@ window.MathJax = {
         if (isRoot && !hasRedirected) {
             try {
                 if (!sessionStorage.getItem('viewed_' + bookSlug)) {
-                    fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', headers: { 'X-Requested-With': 'XMLHttpRequest' }, credentials: 'same-origin', keepalive: true }).catch(function(){});
+                    fetch('/api/books/' + encodeURIComponent(bookSlug) + '/view', { method: 'POST', headers: { 'X-Requested-With': 'XMLHttpRequest' }, credentials: 'same-origin', keepalive: true }).catch(function(e){ console.error('view API error', e); });
                     sessionStorage.setItem('viewed_' + bookSlug, '1');
                 }
-            } catch(e) { console.warn('sessionStorage setItem error', e); }
+            } catch(e) { console.error('sessionStorage setItem error', e); }
             
             // Only try to redirect if we aren't coming from internal navigation (e.g. clicking 'Back to Hub')
             if (!isInternalNavigation) {
@@ -204,7 +204,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                     try {
                         localStorage.setItem('mdbook-sidebar', 'hidden');
-                    } catch(err) { console.warn('localStorage setItem error', err); }
+                    } catch(err) { console.error('localStorage setItem error', err); }
                 }
             }
         });

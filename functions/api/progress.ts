@@ -48,7 +48,14 @@ async function handleGetProgress(
   if (!bookSlug) {
     // Return all progress for user
     const results = await env.DB.prepare(
-      "SELECT book_slug, last_read_path, completed_paths FROM reading_progress WHERE user_id = ?1",
+      `SELECT
+         book_slug,
+         last_read_path,
+         CASE
+           WHEN json_valid(completed_paths) AND json_type(completed_paths) = 'array' THEN completed_paths
+           ELSE '[]'
+         END as completed_paths
+       FROM reading_progress WHERE user_id = ?1`
     )
       .bind(session.sub)
       .all<{
@@ -57,30 +64,30 @@ async function handleGetProgress(
         completed_paths: string;
       }>();
 
-    const parsedResults = results.results.map((row) => {
-      let parsed: string[] = [];
-      try {
-        if (row.completed_paths) {
-          const jsonParsed = JSON.parse(row.completed_paths);
-          if (Array.isArray(jsonParsed)) {
-            parsed = jsonParsed;
-          }
-        }
-      } catch (e) {
-        console.warn("[progress] Failed to parse completed_paths JSON:", e);
-      }
-      return {
-        book_slug: row.book_slug,
-        last_read_path: row.last_read_path,
-        completed_paths: parsed,
-      };
-    });
+    // Avoid blocking the event loop with JSON.parse on each row by concatenating the validated JSON string directly
+    const responseStr = `{"progress":[${results.results.map(row => {
+      // Fallback in case of mocked/invalid db responses that bypass SQLite's json_valid check in tests
+      const cp = (row.completed_paths && row.completed_paths.startsWith('[') && row.completed_paths.endsWith(']')) ? row.completed_paths : '[]';
+      return `{"book_slug":${JSON.stringify(row.book_slug)},"last_read_path":${JSON.stringify(row.last_read_path)},"completed_paths":${cp}}`;
+    }).join(',')}]}`;
 
-    return jsonResponse({ progress: parsedResults });
+    return new Response(responseStr, {
+      status: 200,
+      headers: {
+        "Content-Type": "application/json",
+        "Cache-Control": "no-store",
+      },
+    });
   }
 
   const result = await env.DB.prepare(
-    "SELECT last_read_path, completed_paths FROM reading_progress WHERE user_id = ?1 AND book_slug = ?2",
+    `SELECT
+       last_read_path,
+       CASE
+         WHEN json_valid(completed_paths) AND json_type(completed_paths) = 'array' THEN completed_paths
+         ELSE '[]'
+       END as completed_paths
+     FROM reading_progress WHERE user_id = ?1 AND book_slug = ?2`
   )
     .bind(session.sub, bookSlug)
     .first<ProgressRow>();
@@ -89,21 +96,15 @@ async function handleGetProgress(
     return jsonResponse({ path: null, completed_paths: [] });
   }
 
-  let parsedPaths: string[] = [];
-  try {
-    if (result.completed_paths) {
-      const jsonParsed = JSON.parse(result.completed_paths);
-      if (Array.isArray(jsonParsed)) {
-        parsedPaths = jsonParsed;
-      }
-    }
-  } catch (e) {
-    console.warn("[progress] Failed to parse single book completed_paths JSON:", e);
-  }
+  const cp = (result.completed_paths && result.completed_paths.startsWith('[') && result.completed_paths.endsWith(']')) ? result.completed_paths : '[]';
+  const responseStr = `{"path":${JSON.stringify(result.last_read_path)},"completed_paths":${cp}}`;
 
-  return jsonResponse({
-    path: result.last_read_path,
-    completed_paths: parsedPaths,
+  return new Response(responseStr, {
+    status: 200,
+    headers: {
+      "Content-Type": "application/json",
+      "Cache-Control": "no-store",
+    },
   });
 }
 
