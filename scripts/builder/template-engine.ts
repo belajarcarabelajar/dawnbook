@@ -5,7 +5,7 @@ import { BuiltBook } from "./metadata";
 import { isPublicPath } from "../../functions/lib/gating.ts";
 import { CONTENT_SECURITY_POLICY } from "../../functions/lib/security-headers.ts";
 
-function escapeHtml(unsafe: string): string {
+export function escapeHtml(unsafe: string): string {
   return unsafe
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -14,7 +14,7 @@ function escapeHtml(unsafe: string): string {
     .replace(/'/g, "&#039;");
 }
 
-function minifyJs(js: string): string {
+export function minifyJs(js: string): string {
   return js
     .replace(/\/\*[\s\S]*?\*\//g, "")
     .replace(/^\s*\/\/.*$/gm, "")
@@ -22,7 +22,7 @@ function minifyJs(js: string): string {
     .trim();
 }
 
-function minifyCss(css: string): string {
+export function minifyCss(css: string): string {
   return css
     .replace(/\/\*[\s\S]*?\*\//g, "")
     .replace(/\s+/g, " ")
