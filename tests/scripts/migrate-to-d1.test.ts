@@ -13,7 +13,9 @@ import { tmpdir } from "node:os";
 describe("scripts/migrate-to-d1.ts unit tests", () => {
   test("parseTitleFromToml extracts title correctly or defaults to Untitled", () => {
     expect(parseTitleFromToml('title = "My Great Book"')).toBe("My Great Book");
-    expect(parseTitleFromToml('description = "No title here"')).toBe("Untitled");
+    expect(parseTitleFromToml('description = "No title here"')).toBe(
+      "Untitled",
+    );
     expect(parseTitleFromToml("")).toBe("Untitled");
   });
 
@@ -38,7 +40,10 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
   });
 
   test("runMigration handles missing books directory gracefully", async () => {
-    await runMigration({ booksDir: "/nonexistent/directory/path/123", writeSeedSql: false });
+    await runMigration({
+      booksDir: "/nonexistent/directory/path/123",
+      writeSeedSql: false,
+    });
   });
 
   test("runMigration filters invalid directories, missing book.toml, and missing src/ directory", async () => {
@@ -58,7 +63,10 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
       // Valid book
       const validBookDir = join(tempDir, "valid-book");
       await mkdir(validBookDir);
-      await writeFile(join(validBookDir, "book.toml"), 'title = "Valid Book"\nsubject_label = "Tech"');
+      await writeFile(
+        join(validBookDir, "book.toml"),
+        'title = "Valid Book"\nsubject_label = "Tech"',
+      );
       await mkdir(join(validBookDir, "src"));
       await writeFile(join(validBookDir, "src", "01.md"), "# Chapter 1");
 
@@ -85,7 +93,11 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
     try {
       // Non-directory file
       await writeFile(join(tempDir, "regular-file.txt"), "hello");
-      await runMigration({ rootDir: tempDir, booksDir: tempDir, writeSeedSql: false });
+      await runMigration({
+        rootDir: tempDir,
+        booksDir: tempDir,
+        writeSeedSql: false,
+      });
     } finally {
       await rm(tempDir, { recursive: true, force: true });
     }
@@ -96,7 +108,10 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
     try {
       const validBookDir = join(tempDir, "valid-book");
       await mkdir(validBookDir);
-      await writeFile(join(validBookDir, "book.toml"), 'title = "Valid Book"\nsubject_label = "Tech"');
+      await writeFile(
+        join(validBookDir, "book.toml"),
+        'title = "Valid Book"\nsubject_label = "Tech"',
+      );
       await mkdir(join(validBookDir, "src"));
       await writeFile(join(validBookDir, "src", "01.md"), "# Chapter 1");
       await mkdir(join(tempDir, "db"));
@@ -122,7 +137,10 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
     try {
       const validBookDir = join(tempDir, "chunk-fail-book");
       await mkdir(validBookDir);
-      await writeFile(join(validBookDir, "book.toml"), 'title = "Chunk Fail Book"');
+      await writeFile(
+        join(validBookDir, "book.toml"),
+        'title = "Chunk Fail Book"',
+      );
       await mkdir(join(validBookDir, "src"));
       await writeFile(join(validBookDir, "src", "01.md"), "# Chapter 1");
 
@@ -138,7 +156,7 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
               throw new Error("Chunk Execute Error");
             }
           },
-        })
+        }),
       ).rejects.toThrow("Chunk Execute Error");
     } finally {
       await rm(tempDir, { recursive: true, force: true });
@@ -162,7 +180,7 @@ describe("scripts/migrate-to-d1.ts unit tests", () => {
           executeCommand: async () => {
             throw new Error("Metadata Execute Error");
           },
-        })
+        }),
       ).rejects.toThrow("Metadata Execute Error");
     } finally {
       await rm(tempDir, { recursive: true, force: true });
