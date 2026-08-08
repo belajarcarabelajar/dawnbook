@@ -115,6 +115,24 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Mandatory Deep Markdown Hyperlinks:** Subagents MUST execute `search_web` for EVERY single cited work and explicitly include an authentic, clickable deep-link markdown hyperlink `[Judul/Nama Karya](URL)` or direct DOI resolution link `https://doi.org/10.xxxx/xxxx` targeting the exact publication landing page (e.g. `peraturan.bpk.go.id`, `eur-lex.europa.eu`, `https://doi.org/...`, UNESCO Digital Library, Leiden Digital Collections, Internet Archive, JSTOR, or publisher book page).
 - **No Plain-Text Citations:** Generating plain-text reference citations without markdown hyperlinks is STRICTLY FORBIDDEN.
 
+## 16. Strict Zero-Loss Line-by-Line AI Reading & Anti-Batch Transformation Rule
+- **Prohibition of Batch Content Scripts:** Agents MUST NOT use batch find-replace scripts, mass regular expression transformations, or Node batch converters for authoring or editing book content. Automated batch scripts cause data loss, strip headers, merge paragraphs, and corrupt LaTeX subscripts.
+- **Mandatory 1:1 Line-by-Line AI Inspection (`view_file`):** Every chapter MUST be read line-by-line from source using `view_file` and verified line-by-line after writing using `view_file`.
+- **Zero Second-Person Pronouns ("Anda" / "kamu"):** Every chapter MUST be 100% free of second-person pronouns ("Anda", "kamu"). Replace them with inclusive terms ("pemelajar", "pembaca", "kita") or passive phrasing.
+- **Zero Em-Dash Policy (`—`):** Em-dash characters (`—`) are strictly forbidden in book output. Replace with a comma (`,`), colon (`:`), parenthetical `(...)`, or regular hyphen (`-`).
+- **`<div>` Wrapped Display Math:** All display math equations MUST be wrapped in `<div>\n$$ ... $$\n</div>` with blank lines before and after to prevent `pulldown-cmark` from parsing internal underscores into HTML `<em>` emphasis tags.
+
+## 17. Tool Routing Matrix: Context Mode vs Native Tools
+- **Use Context Mode (`ctx_execute`, `ctx_execute_file`, `ctx_batch_execute`) for:**
+  1. **Build & Deployment Operations:** Running `bun run build`, `migrate-to-d1.ts`, `deploy-website.sh`, or git status.
+  2. **Log & Data Processing:** Inspecting build logs, SQL queries, D1 outputs, or large JSON payloads.
+  3. **Automated Post-Flight Audits:** Running Node.js audit scripts to verify heading alignment, KaTeX formulas, and content hygiene across multiple chapters without loading raw file contents into conversation context.
+  4. **Documentation Lookup:** Fetching and indexing web pages or API docs via `ctx_fetch_and_index` + `ctx_search`.
+- **Use Native Tools (`view_file`, `write_to_file`, `replace_file_content`) for:**
+  1. **Book Content Authoring & Reading (Rule R14 & Rule R24):** Reading chapter source text line-by-line using `view_file`.
+  2. **Book Content Writing & Editing:** Writing cleaned chapter files using `write_to_file` and performing targeted edits via `replace_file_content`.
+  3. **Mandatory Post-Writing AI Verification:** Line-by-line verification of headings, 0 pronouns ("Anda"/"kamu"), 0 em-dashes (`—`), 0 emojis, and `<div>` display math.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 

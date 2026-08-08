@@ -232,7 +232,9 @@ async function checkLatexSupport() {
   }
 
   // 2. Verify build script's CSP headers allow MathJax CDNs
-  const buildContent = await readFile(buildScriptPath, "utf-8") + (await readFile(join(rootDir, "scripts/builder/template-engine.ts"), "utf-8").catch(() => ""));
+  const buildContent = await readFile(buildScriptPath, "utf-8") + 
+    (await readFile(join(rootDir, "scripts/builder/template-engine.ts"), "utf-8").catch(() => "")) +
+    (await readFile(join(rootDir, "functions/lib/security-headers.ts"), "utf-8").catch(() => ""));
   const hasCdnjs = buildContent.includes("https://cdnjs.cloudflare.com");
   const hasJsdelivr = buildContent.includes("https://cdn.jsdelivr.net");
   

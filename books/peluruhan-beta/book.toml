@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Peluruhan Beta (Beta Decay)"
+description = "Panduan komprehensif mengenai peluruhan beta, mekanisme fisika inti, jenis peluruhan, neutrino, hukum kekekalan, hingga aplikasi medis dan industri."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Fisika"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

@@ -1,0 +1,15 @@
+# Summary
+
+- [Pendahuluan Peluruhan Beta: Sang Penyeimbang Inti Atom](content/01_pendahuluan-peluruhan-beta.md)
+- [Struktur Atom dan Ketidakstabilan Inti: Mencari Keseimbangan di Jantung Materi](content/02_struktur-atom-dan-ketidakstabilan-inti.md)
+- [Mekanisme Peluruhan Beta Minus (β−)](content/03_mekanisme-peluruhan-beta-minus.md)
+- [Mekanisme Peluruhan Beta Plus (β+)](content/04_mekanisme-peluruhan-beta-plus.md)
+- [Fenomena Penangkapan Elektron (Electron Capture)](content/05_fenomena-penangkapan-elektron.md)
+- [Peran Neutrino dan Antineutrino: Si Partikel Hantu dalam Peluruhan Beta](content/06_peran-neutrino-dan-antineutrino.md)
+- [Spektrum Energi Kontinu: Misteri Hilangnya Energi](content/07_spektrum-energi-kontinu.md)
+- [Hukum Kekekalan dalam Proses Nuklir](content/08_hukum-kekekalan-dalam-proses-nuklir.md)
+- [Cahaya Biru yang Misterius: Pemicu Radiasi Cherenkov](content/09_cahaya-biru-yang-misterius.md)
+- [Laju Peluruhan dan Waktu Paruh](content/10_laju-peluruhan-dan-waktu-paruh.md)
+- [Aplikasi dan Manfaat Peluruhan Beta dalam Kehidupan](content/11_aplikasi-dan-manfaat-peluruhan-beta.md)
+- [Keamanan dan Proteksi Radiasi Beta](content/12_keamanan-dan-proteksi-radiasi-beta.md)
+- [Referensi](content/13_referensi.md)
