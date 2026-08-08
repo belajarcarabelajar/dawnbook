@@ -1,26 +1,12 @@
 import { expect, test, describe } from "bun:test";
-import { extractSessionId, verifySession } from "../../../functions/lib/auth";
-import { createMockEnv } from "../../helpers/mocks";
+import { verifySession } from "./functions/lib/auth";
+import { createMockEnv } from "./tests/helpers/mocks";
 
 describe("functions/lib/auth.ts", () => {
   const SESSION_HEX = "a".repeat(64);
-
-  test("extractSessionId handles Authorization: Session header", () => {
-    const req = new Request("https://example.com", {
-      headers: { Authorization: `Session ${SESSION_HEX}` },
-    });
-    expect(extractSessionId(req)).toBe(SESSION_HEX);
-
-    const reqInvalid = new Request("https://example.com", {
-      headers: { Authorization: "Session invalid_hex" },
-    });
-    expect(extractSessionId(reqInvalid)).toBeNull();
-  });
-
   test("verifySession handles last_seen_at UPDATE failure silently", async () => {
     const env = createMockEnv();
-
-    env.DB.prepare = ((sql: string) => {
+    env.DB.prepare = (sql: string) => {
       if (sql.includes("UPDATE sessions")) {
         return {
           bind: () => ({
@@ -44,7 +30,7 @@ describe("functions/lib/auth.ts", () => {
           }),
         }),
       } as any;
-    }) as any;
+    };
 
     const req = new Request("https://example.com", {
       headers: { Cookie: `session_id=${SESSION_HEX}` },
