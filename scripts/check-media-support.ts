@@ -1,4 +1,4 @@
-import { readdir, readFile, stat } from "node:fs/promises";
+import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 
 async function checkMediaSupport() {
@@ -94,9 +94,8 @@ async function checkMediaSupport() {
   //    (functions/lib/security-headers.ts). Previously this grepped the
   //    template-engine source, which broke when the CSP moved to a shared
   //    constant (F-105).
-  const { CONTENT_SECURITY_POLICY } = await import(
-    "../functions/lib/security-headers.ts"
-  );
+  const { CONTENT_SECURITY_POLICY } =
+    await import("../functions/lib/security-headers.ts");
   if (!CONTENT_SECURITY_POLICY.includes("img-src 'self' data: https:")) {
     console.error(
       `❌ [FAIL] CSP _headers missing 'img-src \\'self\\' data: https:'`,
