@@ -3,6 +3,7 @@ import { join } from "node:path";
 import { $ } from "bun";
 import { loadEnv } from "./builder/env";
 import { buildAllBooks } from "./builder/mdbook-runner";
+import { writeBuiltStats } from "./builder/stats-aggregator";
 import { generateSitePages, copyAssets, buildHeaders } from "./builder/template-engine";
 
 async function build() {
@@ -18,6 +19,12 @@ async function build() {
   await mkdir(outputBooksDir, { recursive: true });
 
   const builtBooks = await buildAllBooks(booksDir, outputBooksDir);
+
+  console.log("Computing build-time stats (chapters, contributors)...");
+  const builtStats = await writeBuiltStats(rootDir);
+  console.log(
+    `  → ${builtStats.totalChapters} chapters, ${builtStats.contributors.total} contributors`,
+  );
 
   console.log("Generating premium hub site...");
 

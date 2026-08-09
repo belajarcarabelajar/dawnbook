@@ -14,6 +14,7 @@ async function generateSitemap() {
   urls.push(`${baseUrl}/contribute`);
   urls.push(`${baseUrl}/donate`);
   urls.push(`${baseUrl}/appreciation`);
+  urls.push(`${baseUrl}/statistics`);
 
   async function scanDirectory(dir: string) {
     const entries = await readdir(dir);

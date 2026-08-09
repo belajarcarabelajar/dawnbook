@@ -74,6 +74,8 @@ const PUBLIC_EXACT_PATHS = new Set([
   "/donate.html",
   "/appreciation",
   "/appreciation.html",
+  "/statistics",
+  "/statistics.html",
 ]);
 
 /** Prefix-based public paths. */

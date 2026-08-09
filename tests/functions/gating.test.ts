@@ -45,6 +45,11 @@ describe("Edge Middleware Auth Gating & Gating Library", () => {
     expect(isPublicPath("/books/my-book/content/02-gated.html")).toBe(false);
   });
 
+  test("isPublicPath allows /statistics.html and /statistics without auth", () => {
+    expect(isPublicPath("/statistics.html")).toBe(true);
+    expect(isPublicPath("/statistics")).toBe(true);
+  });
+
   test("isSearchEngineBot correctly identifies crawlers", () => {
     expect(
       isSearchEngineBot(
