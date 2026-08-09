@@ -71,13 +71,17 @@ async function countTotalChapters(booksDir: string): Promise<number> {
  * are dropped.
  */
 function parseAuthors(bookToml: string): string[] {
-  // Match the full `[...]` block following `authors =`.
-  const m = bookToml.match(/authors\s*=\s*\[([\s\S]*?)\]/);
+  // Strip inline and line comments to avoid parsing commented-out author entries
+  const cleanedToml = bookToml
+    .split("\n")
+    .map((line) => line.replace(/#.*$/, ""))
+    .join("\n");
+  const m = cleanedToml.match(/authors\s*=\s*\[([\s\S]*?)\]/);
   if (!m) return [];
   const inner = m[1];
   const names: string[] = [];
   for (const raw of inner.split(",")) {
-    const s = raw.trim().replace(/^"|"$/g, "");
+    const s = raw.trim().replace(/^['"]|['"]$/g, "").trim();
     if (s) names.push(s);
   }
   // Dedupe while preserving insertion order.

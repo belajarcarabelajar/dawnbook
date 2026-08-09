@@ -705,7 +705,7 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
             return;
           }
           var lang = (document.documentElement.lang || 'en');
-          var booksLabel = (window.I18N_CATALOGS && window.I18N_CATALOGS[lang] && window.I18N_CATALOGS[lang]['statistics.contributors.books']) || 'books';
+          var booksLabel = (window.I18N_CATALOGS && window.I18N_CATALOGS[lang] && (window.I18N_CATALOGS[lang]['statistics.contributors.books'] || window.I18N_CATALOGS[lang]['statistics.contributors.commits'])) || 'books';
           container.innerHTML = top.map(function(c) {
             return '<li><span class="stats-top-name">' + esc(c.name) + '</span><span class="stats-top-count">' + formatNumber(c.books) + ' ' + esc(booksLabel) + '</span></li>';
           }).join('');

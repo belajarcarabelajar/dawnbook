@@ -47,8 +47,20 @@ export async function parseBookMetadata(
     const tomlText = await readFile(join(bookPath, "book.toml"), "utf8");
     const titleMatch = tomlText.match(/title\s*=\s*"([^"]+)"/);
     if (titleMatch) formattedTitle = titleMatch[1];
-    const authorsMatch = tomlText.match(/authors\s*=\s*\[\s*"([^"]+)"\s*\]/);
-    if (authorsMatch) author = authorsMatch[1];
+    const cleanedToml = tomlText
+      .split("\n")
+      .map((line) => line.replace(/#.*$/, ""))
+      .join("\n");
+    const authorsMatch = cleanedToml.match(/authors\s*=\s*\[([\s\S]*?)\]/);
+    if (authorsMatch) {
+      const names = authorsMatch[1]
+        .split(",")
+        .map((s) => s.trim().replace(/^['"]|['"]$/g, "").trim())
+        .filter(Boolean);
+      if (names.length > 0) {
+        author = Array.from(new Set(names)).join(", ");
+      }
+    }
   } catch (e) {
     console.warn("Failed to parse book.toml title or author", e);
   }
