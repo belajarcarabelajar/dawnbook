@@ -77,6 +77,15 @@ describe("API: /api/stats", () => {
 
     expect(data.contributors.total).toBeGreaterThanOrEqual(0);
     expect(Array.isArray(data.contributors.top)).toBe(true);
+    if (data.contributors.top.length > 0) {
+      // Each top contributor is now ranked by published-book count, not
+      // commit count. The runtime JS reads `c.books`; ensure the field name
+      // is honored and no stale `commits` field is shipped.
+      const first = data.contributors.top[0] as { name: string; books: number };
+      expect(typeof first.name).toBe("string");
+      expect(typeof first.books).toBe("number");
+      expect((first as any).commits).toBeUndefined();
+    }
   });
 
   test("POST returns 405", async () => {

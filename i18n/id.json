@@ -84,7 +84,7 @@
   "statistics.contributors.title": "Kontributor",
   "statistics.contributors.total": "Total kontributor",
   "statistics.contributors.top": "Kontributor teratas",
-  "statistics.contributors.commits": "kontribusi",
+  "statistics.contributors.commits": "buku",
   "statistics.loading": "Memuat statistik...",
   "statistics.error": "Tidak dapat memuat statistik. Silakan coba lagi nanti."
 }

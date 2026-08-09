@@ -84,7 +84,7 @@
   "statistics.contributors.title": "Contributors",
   "statistics.contributors.total": "Total contributors",
   "statistics.contributors.top": "Top contributors",
-  "statistics.contributors.commits": "commits",
+  "statistics.contributors.commits": "books",
   "statistics.loading": "Loading statistics...",
   "statistics.error": "Unable to load statistics. Please try again later."
 }

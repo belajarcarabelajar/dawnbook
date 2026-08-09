@@ -6,7 +6,7 @@ export const BUILT_TOTAL_CHAPTERS = 572;
 export const BUILT_CONTRIBUTORS = {
   total: 2,
   top: [
-    { name: "Iwan Kurniawan", commits: 494 },
-    { name: "belajarcarabelajar", commits: 90 },
+    { name: "Iwan Kurniawan", books: 40 },
+    { name: "Kania Salsabila", books: 5 },
   ],
 };

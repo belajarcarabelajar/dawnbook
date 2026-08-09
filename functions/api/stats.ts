@@ -165,9 +165,14 @@ async function handleStats(env: Env): Promise<Response> {
   const totalBadgeHolders = gold + silver + bronze;
 
   // Contributors (build-time) -------------------------------------------
+  // Ranked by number of published books authored, parsed from each
+  // books/<slug>/book.toml at build time. See scripts/builder/stats-aggregator.ts.
   const contributors = {
     total: BUILT_CONTRIBUTORS.total,
-    top: BUILT_CONTRIBUTORS.top,
+    top: BUILT_CONTRIBUTORS.top.map((c) => ({
+      name: c.name,
+      books: c.books,
+    })),
   };
 
   return jsonResponse({
