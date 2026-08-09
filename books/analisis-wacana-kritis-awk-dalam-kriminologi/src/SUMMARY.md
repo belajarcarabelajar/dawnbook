@@ -1,0 +1,16 @@
+# Summary
+
+- [Pengantar Analisis Wacana Kritis (AWK) dalam Kriminologi](content/01_pengantar-analisis-wacana-kritis-dalam-kriminologi.md)
+- [Fondasi Teoretis: Bahasa, Kekuasaan, dan Ideologi](content/02_fondasi-teoretis-bahasa-kekuasaan-dan-ideologi.md)
+- [Konstruksi Sosial tentang Kejahatan dan Penjahat](content/03_konstruksi-sosial-tentang-kejahatan-dan-penjahat.md)
+- [Kerangka Metodologis: Model Tiga Dimensi Norman Fairclough](content/04_kerangka-metodologis-model-tiga-dimensi-norman-fairclough.md)
+- [Kognisi Sosial dan Struktur Wacana: Pendekatan Teun van Dijk](content/05_kognisi-sosial-dan-struktur-wacana-pendekatan-teun-van-dijk.md)
+- [Analisis Kesaksian Saksi dan Dinamika Ruang Sidang](content/06_analisis-kesaksian-saksi-dan-dinamika-ruang-sidang.md)
+- [Dekonstruksi Dokumen Kebijakan Kriminal dan Produk Hukum](content/07_dekonstruksi-dokumen-kebijakan-kriminal-dan-produk-hukum.md)
+- [Media Massa dan Konstruksi Ketakutan akan Kejahatan](content/08_media-massa-dan-konstruksi-ketakutan-akan-kejahatan.md)
+- [Wacana Institusional: Polisi, Pengadilan, dan Penjara](content/09_wacana-institusional-polisi-pengadilan-dan-penjara.md)
+- [Stigmatisasi dan Marginalisasi melalui Bahasa](content/10_stigmatisasi-dan-marginalisasi-melalui-bahasa.md)
+- [AWK dalam Viktimologi: Narasi dan Representasi Korban](content/11_awk-dalam-viktimologi-narasi-dan-representasi-korban.md)
+- [Etika Penelitian dan Implementasi Analisis Wacana Kritis](content/12_etika-penelitian-dan-implementasi-analisis-wacana-kritis.md)
+- [Masa Depan AWK dalam Kriminologi Digital](content/13_masa-depan-awk-dalam-kriminologi-digital.md)
+- [Referensi](content/14_referensi.md)

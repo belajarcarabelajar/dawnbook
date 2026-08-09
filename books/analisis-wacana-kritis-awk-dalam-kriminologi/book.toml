@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Analisis Wacana Kritis (AWK) dalam Kriminologi"
+description = "Buku komprehensif tentang Analisis Wacana Kritis (AWK) dalam kriminologi, mengurai relasi bahasa, kekuasaan, ideologi, institusi hukum, dan media."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Kriminologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
