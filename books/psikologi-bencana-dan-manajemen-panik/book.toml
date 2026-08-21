@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Psikologi Bencana dan Manajemen Panik"
+description = "Kajian komprehensif psikologi bencana, respons neurobiologis ketakutan, dinamika kepanikan massal, dan strategi mitigasi mental dalam situasi darurat."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

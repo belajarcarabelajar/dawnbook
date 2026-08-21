@@ -1,9 +1,10 @@
 [
   {
     "url": "https://dawnbook.belajarcarabelajar.com/",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/about",
@@ -32,6 +33,13 @@
     "coverageState": "Submitted and indexed",
     "indexingState": "INDEXING_ALLOWED",
     "googleCanonical": "https://dawnbook.belajarcarabelajar.com/appreciation"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/statistics",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/statistics"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/",
@@ -85,7 +93,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/content/06_self-compassion-belas-kasih-pada-diri-sendiri",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -102,9 +110,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/content/05_grit-kekuatan-gairah-dan-ketekunan",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/content/05_grit-kekuatan-gairah-dan-ketekunan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/content/05_grit-kekuatan-gairah-dan-ketekunan"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/resiliensi-dan-ketangguhan/content/10_menemukan-makna-di-balik-tantangan-seni-bertumbuh-melalui-badai",
@@ -147,19 +157,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/human-capital-theory/content/06_tingkat-pengembalian-investasi-rate-of-return",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/human-capital-theory/content/02_komponen-utama-investasi-modal-manusia",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/human-capital-theory/content/03_analisis-biaya-dan-manfaat-pendidikan",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -171,7 +181,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/human-capital-theory/content/11_modal-manusia-di-era-ekonomi-digital-dan-ai",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -184,7 +194,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/human-capital-theory/content/07_modal-manusia-dan-pertumbuhan-ekonomi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -222,7 +232,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/piaget/content/02_konsep-dasar-skema-dan-struktur-kognitif",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -234,7 +244,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/piaget/content/10_implikasi-teori-piaget-dalam-strategi-pembelajaran",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -258,7 +268,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/piaget/content/07_tahap-operasional-konkret-ketika-logika-mulai-berakar",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -270,7 +280,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/piaget/content/09_peran-lingkungan-fisik-dalam-perkembangan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -294,7 +304,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/state-of-flow/content/02_mihaly-csikszentmihalyi-dan-sejarah-flow",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -370,7 +380,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neuroplastisitas-dalam-belajar/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -426,13 +436,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neuroplastisitas-dalam-belajar/content/06_faktor-lingkungan-yang-memacu-plastisitas",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neuroplastisitas-dalam-belajar/content/05_neurogenesis-kelahiran-sel-saraf-baru",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -444,7 +454,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neuroplastisitas-dalam-belajar/content/13_masa-depan-pendidikan-berbasis-neurosains-merevolu",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -456,7 +466,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -482,7 +492,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/01_memahami-quarter-life-crisis",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -499,20 +509,22 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/07_kemandirian-finansial-dan-tekanan-ekonomi",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/07_kemandirian-finansial-dan-tekanan-ekonomi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/07_kemandirian-finansial-dan-tekanan-ekonomi"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/06_dampak-media-sosial-dan-perbandingan-sosial-perangkap-highlight-reel-di-usia-20-an",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/12_mengubah-krisis-menjadi-transformasi-positif-menemukan-versi-terbaik-dirimu",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -526,7 +538,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/09_strategi-koping-dan-manajemen-stres-navigasi-di-tengah-badai-quarter-life-crisis",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -538,7 +550,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/quarter-life-crisis/content/10_membangun-resiliensi-dan-ketangguhan-mental-menjadi-baja-yang-melentur",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -549,9 +561,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/07_pendekatan-biologis-dan-evolusioner-dalam-teori-kepribadian",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/07_pendekatan-biologis-dan-evolusioner-dalam-teori-kepribadian",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/07_pendekatan-biologis-dan-evolusioner-dalam-teori-kepribadian"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/12_referensi",
@@ -609,20 +623,22 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/11_asesmen-kepribadian-dan-aplikasinya",
-    "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/11_asesmen-kepribadian-dan-aplikasinya",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/11_asesmen-kepribadian-dan-aplikasinya"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/08_pengukuran-dan-penilaian-kepribadian",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-teori-kepribadian/content/10_aplikasi-teori-kepribadian-dalam-kehidupan-nyata",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -663,9 +679,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/psikologi-positif/content/04_kekuatan-karakter-dan-kebajikan-via-strengths",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/psikologi-positif/content/04_kekuatan-karakter-dan-kebajikan-via-strengths",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/psikologi-positif/content/04_kekuatan-karakter-dan-kebajikan-via-strengths"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/psikologi-positif/content/03_emosi-positif-dan-teori-broaden-and-build",
@@ -818,7 +836,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -836,7 +854,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/content/10_mekanisme-sinkronisasi-kernel",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -854,7 +872,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/content/03_manajemen-proses-dan-task-scheduling",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -866,7 +884,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/content/07_virtual-file-system-vfs",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -890,7 +908,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/arsitektur-kernel-linux/content/13_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -919,9 +937,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/03_konsep-utama-dikotomi-kendali",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/03_konsep-utama-dikotomi-kendali",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/03_konsep-utama-dikotomi-kendali"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/10_memento-mori-kesadaran-akan-kefanaan",
@@ -932,7 +952,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/08_latihan-praktis-premeditatio-malorum",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -944,25 +964,25 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/04_tiga-pilar-stoikisme-logika-fisika-dan-etika",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/05_empat-kebajikan-utama-cardinal-virtues-kompas-moral-kaum-stoik",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/06_hidup-selaras-dengan-alam-living-in-accordance-with-nature",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/filosofi-stoikisme/content/11_tiga-tokoh-besar-stoikisme-romawi-dari-budak-hingga-kaisar",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -974,14 +994,18 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Crawled - currently not indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/12_struktur-pasar-di-era-ekonomi-digital",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/12_struktur-pasar-di-era-ekonomi-digital",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/12_struktur-pasar-di-era-ekonomi-digital"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/10_efisiensi-ekonomi-dan-kesejahteraan-menimbang-keadilan-dan-kinerja-pasar",
@@ -998,7 +1022,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/03_mekanisme-harga-di-persaingan-sempurna-harmoni-antara-permintaan-dan-penawaran",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1024,7 +1048,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/01_pengantar-dan-klasifikasi-struktur-pasar",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1044,7 +1068,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/11_peran-pemerintah-dan-kebijakan-anti-monopoli-wasit-dalam-pertandingan-ekonomi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1056,25 +1080,27 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/08_teori-permainan-game-theory-dalam-oligopoli-seni-berstrategi-di-pasar-yang-sempit",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Crawled - currently not indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/08_teori-permainan-game-theory-dalam-oligopoli-seni-berstrategi-di-pasar-yang-sempit",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/struktur-pasar-dan-persaingan/content/08_teori-permainan-game-theory-dalam-oligopoli-seni-berstrategi-di-pasar-yang-sempit"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/11_studi-kasus-kesehatan-keuangan-dan-lingkungan",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/02_dual-process-theory-sistem-1-dan-sistem-2",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1092,19 +1118,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/03_prinsip-libertarian-paternalisme-keseimbangan-antara-kebebasan-dan-kesejahteraan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/01_pengantar-nudge-theory",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/13_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1128,19 +1154,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/04_kekuatan-pilihan-standar-defaults",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/08_menyederhanakan-pilihan-yang-kompleks",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/nudge-theory/content/10_nudge-vs-sludge-etika-dalam-desain",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1152,7 +1178,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/03_metodologi-penelitian-dan-pengumpulan-data",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1178,13 +1204,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/05_pengendalian-topik-melalui-pertanyaan-guru",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/12_referensi-dan-daftar-pustaka-akademik",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1196,7 +1222,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/07_penggunaan-kata-sapaan-dalam-interaksi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1208,7 +1234,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/06_respons-siswa-dan-inisiatif-topik-terbatas",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1220,8 +1246,9 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/content/01_konsep-dasar-dan-wacana-pedagogi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/",
@@ -1229,18 +1256,18 @@
     "coverageState": "Submitted and indexed",
     "indexingState": "INDEXING_ALLOWED",
     "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/",
-    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/index.html"
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/05_memahami-bias-kognitif-kacamata-buram-otak-kita",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/10_penalaran-etis-dan-pengambilan-keputusan-di-mana-logika-bertemu-nurani",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1252,7 +1279,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/08_bahasa-dan-retorika-dalam-penalaran",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1270,7 +1297,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/11_memahami-medan-perang-misinformasi-vs-disinformasi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1288,13 +1315,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/06_analisis-hubungan-sebab-akibat-mengurai-benang-kusut-peristiwa",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/logika-dan-penalaran-kritis/content/01_dasar-dasar-berpikir-kritis",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1320,7 +1347,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-ekspresif-9-summers-10-autumns/content/10_kajian-ekspresif-nilai-religi-dan-ketaatan-pada-tuhan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1332,7 +1359,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-ekspresif-9-summers-10-autumns/content/11_kajian-ekspresif-kondisi-masa-kecil-pengarang",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1376,13 +1403,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-ekspresif-9-summers-10-autumns/content/05_tokoh-dan-penokohan-utama-dalam-novel-9-summers-10-autumns",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-ekspresif-9-summers-10-autumns/content/01_latar-belakang-kritik-sastra-ekspresif",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1402,13 +1429,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-ekspresif-9-summers-10-autumns/content/13_kajian-ekspresif-karakter-saudara-kandung-sebagai-motivasi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1426,13 +1453,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/11_filosofi-organisasi-analogi-perpustakaan-kota",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/05_mengelola-kompleksitas-hierarki-modul-dengan-folder",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1444,20 +1471,24 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/02_deklarasi-modul-dengan-kata-kunci-mod",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/06_memahami-pohon-modul-module-tree",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/06_memahami-pohon-modul-module-tree",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/06_memahami-pohon-modul-module-tree"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/04_memisahkan-modul-ke-dalam-file-terpisah",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/04_memisahkan-modul-ke-dalam-file-terpisah",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/04_memisahkan-modul-ke-dalam-file-terpisah"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sistem-modul-rust/content/03_kontrol-akses-dan-visibilitas-dengan-pub",
@@ -1502,7 +1533,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/matriks-keputusan-decision-matrix/content/10_variasi-matriks-pugh-dan-unweighted-matrix",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1528,7 +1559,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/matriks-keputusan-decision-matrix/content/04_langkah-1-identifikasi-alternatif-pilihan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1568,13 +1599,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/matriks-keputusan-decision-matrix/content/06_langkah-3-pemberian-bobot-pada-kriteria",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/matriks-keputusan-decision-matrix/content/02_manfaat-dan-kegunaan-matriks-keputusan",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1650,19 +1681,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metakognisi/content/11_studi-kasus-dan-aplikasi-nyata-metakognisi-dalam-aksi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metakognisi/content/06_mengembangkan-kesadaran-metakognitif-latihan-untuk-pikiran",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neurobiologi-motivasi-dopamin/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1707,14 +1738,16 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neurobiologi-motivasi-dopamin/content/12_neuroplastisitas-merancang-ulang-otak",
-    "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/neurobiologi-motivasi-dopamin/content/12_neuroplastisitas-merancang-ulang-otak",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/neurobiologi-motivasi-dopamin/content/12_neuroplastisitas-merancang-ulang-otak"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/neurobiologi-motivasi-dopamin/content/01_mengapa-kita-melakukan-apa-yang-kita-lakukan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1766,7 +1799,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-makna-hidup/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1800,7 +1833,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-makna-hidup/content/02_akar-historis-kierkegaard-dan-nietzsche",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1844,13 +1877,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-makna-hidup/content/05_kecemasan-angst-sebagai-gerbang-kesadaran",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-makna-hidup/content/09_relasi-antarmanusia-antara-konflik-dan-kehadiran",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1862,7 +1895,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-gaya-kelekatan/content/06_gaya-kelekatan-takut-menghindar",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1912,25 +1945,25 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-gaya-kelekatan/content/11_proses-penyembuhan-dan-transformasi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-gaya-kelekatan/content/10_mengenali-dan-mengidentifikasi-gaya-pribadi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-gaya-kelekatan/content/02_sejarah-dan-tokoh-kunci",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-gaya-kelekatan/content/04_gaya-kelekatan-cemas",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1942,7 +1975,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1962,13 +1995,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/08_menyusun-peta-ikigai-pribadi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/05_mengidentifikasi-kekuatan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1980,7 +2013,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/10_kisah-inspiratif-dan-contoh-nyata",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -1998,19 +2031,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/04_eksplorasi-diri",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/09_hidup-dengan-ikigai",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/menemukan-tujuan-hidup-ikigai/content/11_refleksi-berkelanjutan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2018,6 +2051,105 @@
     "verdict": "NEUTRAL",
     "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/08_mikrofisika-awan-dingin-dan-inti-es",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/01_pengantar-siklus-hidrologi-global",
+    "verdict": "NEUTRAL",
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/12_referensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/12_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/12_referensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/11_klasifikasi-dan-morfologi-awan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/11_klasifikasi-dan-morfologi-awan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/11_klasifikasi-dan-morfologi-awan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/04_aerosol-atmosfer-dan-inti-kondensasi-awan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/04_aerosol-atmosfer-dan-inti-kondensasi-awan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/04_aerosol-atmosfer-dan-inti-kondensasi-awan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/02_termodinamika-atmosfer-dan-perubahan-fase",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/02_termodinamika-atmosfer-dan-perubahan-fase",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/02_termodinamika-atmosfer-dan-perubahan-fase"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/09_proses-bergeron-findeisen",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/09_proses-bergeron-findeisen",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/09_proses-bergeron-findeisen"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/03_stabilitas-atmosfer-dan-pembentukan-awan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/03_stabilitas-atmosfer-dan-pembentukan-awan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/03_stabilitas-atmosfer-dan-pembentukan-awan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/06_pertumbuhan-tetesan-melalui-difusi-uap",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/10_mekanisme-pembentukan-hujan-es-dan-salju",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/10_mekanisme-pembentukan-hujan-es-dan-salju",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/10_mekanisme-pembentukan-hujan-es-dan-salju"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/07_mikrofisika-awan-hangat",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/07_mikrofisika-awan-hangat",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/07_mikrofisika-awan-hangat"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/05_proses-nukleasi-tetesan-air",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/05_proses-nukleasi-tetesan-air",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/siklus-hidrologi-mikrofisika-awan/content/05_proses-nukleasi-tetesan-air"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/",
@@ -2040,9 +2172,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/05_kolaborasi-lintas-departemen-cross-functional",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/05_kolaborasi-lintas-departemen-cross-functional",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/05_kolaborasi-lintas-departemen-cross-functional"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/10_membangun-kepercayaan-dan-keamanan-psikologis",
@@ -2053,7 +2187,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/06_manajemen-konflik-dan-resolusi-masalah",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2065,14 +2199,16 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/04_memahami-berbagai-gaya-kerja-dan-kepribadian",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/07_persuasi-dan-memberi-pengaruh-tanpa-otoritas",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/07_persuasi-dan-memberi-pengaruh-tanpa-otoritas",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/07_persuasi-dan-memberi-pengaruh-tanpa-otoritas"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/kecerdasan-interpersonal/content/02_seni-mendengar-aktif-dan-empati",
@@ -2111,6 +2247,205 @@
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/05_metode-pembacaan-dan-struktur-visual-relief",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/05_metode-pembacaan-dan-struktur-visual-relief",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/05_metode-pembacaan-dan-struktur-visual-relief"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/09_visualisasi-alam-surga-dan-neraka",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/09_visualisasi-alam-surga-dan-neraka",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/09_visualisasi-alam-surga-dan-neraka"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/02_misteri-kaki-tersembunyi-borobudur",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/02_misteri-kaki-tersembunyi-borobudur",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/02_misteri-kaki-tersembunyi-borobudur"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/03_filosofi-karma-dalam-buddhisme",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/03_filosofi-karma-dalam-buddhisme",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/03_filosofi-karma-dalam-buddhisme"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/07_perilaku-buruk-dan-konsekuensi-penderitaan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/07_perilaku-buruk-dan-konsekuensi-penderitaan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/07_perilaku-buruk-dan-konsekuensi-penderitaan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/04_naskah-mahakarmawibhangga",
+    "verdict": "NEUTRAL",
+    "coverageState": "Crawled - currently not indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/04_naskah-mahakarmawibhangga",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/04_naskah-mahakarmawibhangga"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/08_kebajikan-dan-buah-manis-tindakan-mulia",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/08_kebajikan-dan-buah-manis-tindakan-mulia",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/08_kebajikan-dan-buah-manis-tindakan-mulia"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/01_pengantar-relief-karmawibhangga",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/13_referensi",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/10_simbolisme-flora-dan-fauna",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/10_simbolisme-flora-dan-fauna",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/10_simbolisme-flora-dan-fauna"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/11_teknik-pemahatan-dan-gaya-seni-shailendra",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/11_teknik-pemahatan-dan-gaya-seni-shailendra",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/11_teknik-pemahatan-dan-gaya-seni-shailendra"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/06_gambaran-kehidupan-sosial-jawa-kuno",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/12_dokumentasi-kassian-cephas",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/12_dokumentasi-kassian-cephas",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/relief-karmawibhangga-dan-hukum-sebab-akibat/content/12_dokumentasi-kassian-cephas"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/02_evolusi-dari-penyiaran-massal-ke-personalisasi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/02_evolusi-dari-penyiaran-massal-ke-personalisasi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/02_evolusi-dari-penyiaran-massal-ke-personalisasi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/06_psikologi-konsumen-dalam-penargetan-perilaku",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/06_psikologi-konsumen-dalam-penargetan-perilaku",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/06_psikologi-konsumen-dalam-penargetan-perilaku"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/08_mikro-penargetan-di-platform-media-sosial",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/08_mikro-penargetan-di-platform-media-sosial",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/08_mikro-penargetan-di-platform-media-sosial"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/07_ekosistem-adtech-dan-iklan-programatik",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/07_ekosistem-adtech-dan-iklan-programatik",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/07_ekosistem-adtech-dan-iklan-programatik"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/09_etika-periklanan-dan-privasi-data",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/11_referensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/11_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/11_referensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/03_big-data-bahan-bakar-utama-algoritma",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/03_big-data-bahan-bakar-utama-algoritma",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/03_big-data-bahan-bakar-utama-algoritma"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/01_pengantar-era-periklanan-digital",
+    "verdict": "NEUTRAL",
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/04_mekanisme-algoritma-penargetan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/04_mekanisme-algoritma-penargetan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/04_mekanisme-algoritma-penargetan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/10_regulasi-global-dan-uu-pelindungan-data-pribadi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/10_regulasi-global-dan-uu-pelindungan-data-pribadi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/10_regulasi-global-dan-uu-pelindungan-data-pribadi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/05_teknologi-pelacakan-dan-jejak-digital",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/05_teknologi-pelacakan-dan-jejak-digital",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/iklan-digital-dan-penargetan-algoritma/content/05_teknologi-pelacakan-dan-jejak-digital"
+  },
+  {
     "url": "https://dawnbook.belajarcarabelajar.com/books/elastisitas-harga-permintaan-dan-penawaran/",
     "verdict": "NEUTRAL",
     "coverageState": "Discovered - currently not indexed",
@@ -2119,13 +2454,14 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/elastisitas-harga-permintaan-dan-penawaran/content/01_pengantar-konsep-elastisitas-dalam-ekonomi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/elastisitas-harga-permintaan-dan-penawaran/content/02_mekanisme-elastisitas-harga-permintaan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2177,13 +2513,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/elastisitas-harga-permintaan-dan-penawaran/content/11_aplikasi-elastisitas-dalam-kebijakan-pemerintah-dan-pasar",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/elastisitas-harga-permintaan-dan-penawaran/content/06_hubungan-elastisitas-permintaan-dengan-total-penerimaan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2201,7 +2537,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2243,8 +2579,9 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/01_pengantar-ekonomi-laissez-faire",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/09_perbandingan-laissez-faire-vs-intervensionisme",
@@ -2261,7 +2598,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/13_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2288,9 +2625,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/10_penerapan-historis-era-revolusi-industri",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/10_penerapan-historis-era-revolusi-industri",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/ekonomi-laissez-faire/content/10_penerapan-historis-era-revolusi-industri"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/",
@@ -2301,19 +2640,19 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/13_membangun-objektivitas-berkelanjutan-seni-melihat-dunia-tanpa-filter",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/11_dampak-bias-dalam-pengambilan-keputusan",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/05_bias-ketersediaan-availability-heuristic",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2381,7 +2720,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/bias-kognitif/content/08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2478,14 +2817,16 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/tonsilektomi/content/07_pemulihan-awal-di-rumah-sakit",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/tonsilektomi/content/07_pemulihan-awal-di-rumah-sakit",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/tonsilektomi/content/07_pemulihan-awal-di-rumah-sakit"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/tonsilektomi/content/12_tanda-bahaya-dan-kapan-menghubungi-dokter",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2541,7 +2882,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/tonsilektomi/content/09_panduan-nutrisi-dan-diet-pasca-operasi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2563,6 +2904,120 @@
     "verdict": "NEUTRAL",
     "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/02_fondasi-teoretis-bahasa-kekuasaan-dan-ideologi",
+    "verdict": "NEUTRAL",
+    "coverageState": "URL is unknown to Google",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/08_media-massa-dan-konstruksi-ketakutan-akan-kejahatan",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/08_media-massa-dan-konstruksi-ketakutan-akan-kejahatan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/08_media-massa-dan-konstruksi-ketakutan-akan-kejahatan"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/01_pengantar-analisis-wacana-kritis-dalam-kriminologi",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/14_referensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/14_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/14_referensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/09_wacana-institusional-polisi-pengadilan-dan-penjara",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/09_wacana-institusional-polisi-pengadilan-dan-penjara",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/09_wacana-institusional-polisi-pengadilan-dan-penjara"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/11_awk-dalam-viktimologi-narasi-dan-representasi-korban",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/11_awk-dalam-viktimologi-narasi-dan-representasi-korban",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/11_awk-dalam-viktimologi-narasi-dan-representasi-korban"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/07_dekonstruksi-dokumen-kebijakan-kriminal-dan-produk-hukum",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/07_dekonstruksi-dokumen-kebijakan-kriminal-dan-produk-hukum",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/07_dekonstruksi-dokumen-kebijakan-kriminal-dan-produk-hukum"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/06_analisis-kesaksian-saksi-dan-dinamika-ruang-sidang",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/06_analisis-kesaksian-saksi-dan-dinamika-ruang-sidang",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/06_analisis-kesaksian-saksi-dan-dinamika-ruang-sidang"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/05_kognisi-sosial-dan-struktur-wacana-pendekatan-teun-van-dijk",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/05_kognisi-sosial-dan-struktur-wacana-pendekatan-teun-van-dijk",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/05_kognisi-sosial-dan-struktur-wacana-pendekatan-teun-van-dijk"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/12_etika-penelitian-dan-implementasi-analisis-wacana-kritis",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/12_etika-penelitian-dan-implementasi-analisis-wacana-kritis",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/12_etika-penelitian-dan-implementasi-analisis-wacana-kritis"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/10_stigmatisasi-dan-marginalisasi-melalui-bahasa",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/10_stigmatisasi-dan-marginalisasi-melalui-bahasa",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/10_stigmatisasi-dan-marginalisasi-melalui-bahasa"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/13_masa-depan-awk-dalam-kriminologi-digital",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/13_masa-depan-awk-dalam-kriminologi-digital",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/13_masa-depan-awk-dalam-kriminologi-digital"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/03_konstruksi-sosial-tentang-kejahatan-dan-penjahat",
+    "verdict": "NEUTRAL",
+    "coverageState": "Discovered - currently not indexed",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/04_kerangka-metodologis-model-tiga-dimensi-norman-fairclough",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/04_kerangka-metodologis-model-tiga-dimensi-norman-fairclough",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/analisis-wacana-kritis-awk-dalam-kriminologi/content/04_kerangka-metodologis-model-tiga-dimensi-norman-fairclough"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/",
@@ -2587,7 +3042,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/11_tips-praktis-sebelum-dan-selama-keberangkatan",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2624,14 +3079,16 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/07_fase-4-tahap-adaptasi-dan-penyesuaian",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/07_fase-4-tahap-adaptasi-dan-penyesuaian",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/07_fase-4-tahap-adaptasi-dan-penyesuaian"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/13_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2643,13 +3100,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/10_gegar-budaya-balik-reverse-culture-shock",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/gegar-budaya/content/12_membangun-kecerdasan-lintas-budaya",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2661,13 +3118,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/01_pengantar-manajemen-kelas-proaktif",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/12_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2685,7 +3142,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/02_perancangan-lingkungan-fisik-kelas",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2713,13 +3170,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/07_teknik-pemindaian-dan-kehadiran-guru",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/05_membangun-hubungan-positif-guru-siswa",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2730,9 +3187,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/04_prosedur-dan-rutinitas-harian",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/04_prosedur-dan-rutinitas-harian",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/strategi-manajemen-kelas-proaktif/content/04_prosedur-dan-rutinitas-harian"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/multiple-intelligences/",
@@ -2815,13 +3274,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/multiple-intelligences/content/07_kecerdasan-interpersonal",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/multiple-intelligences/content/09_kecerdasan-naturalis",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2835,13 +3294,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/multiple-intelligences/content/15_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/literasi-keuangan/",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2853,13 +3312,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/literasi-keuangan/content/07_asuransi-dan-manajemen-risiko",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/literasi-keuangan/content/01_pengantar-literasi-keuangan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -2936,9 +3395,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/mekanisme-koping-dan-manajemen-stres/content/11_menyusun-rencana-manajemen-stres-berkelanjutan",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/mekanisme-koping-dan-manajemen-stres/content/11_menyusun-rencana-manajemen-stres-berkelanjutan",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/mekanisme-koping-dan-manajemen-stres/content/11_menyusun-rencana-manajemen-stres-berkelanjutan"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/mekanisme-koping-dan-manajemen-stres/content/06_restrukturisasi-kognitif-dan-manajemen-pikiran",
@@ -3039,13 +3500,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-permainan-game-theory/content/12_aplikasi-teori-permainan-dalam-ekonomi-dan-bisnis",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-permainan-game-theory/content/10_permainan-berulang",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3102,13 +3563,13 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/teori-permainan-game-theory/content/11_teori-permainan-kooperatif-dan-nilai-shapley",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3139,9 +3600,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/content/05_prinsip-optimalisasi-penggunaan-alat-seni-menajamk",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/content/05_prinsip-optimalisasi-penggunaan-alat-seni-menajamk",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/content/05_prinsip-optimalisasi-penggunaan-alat-seni-menajamk"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/content/06_pentingnya-kesendirian-dan-refleksi-menemukan-kemb",
@@ -3176,19 +3639,130 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/digital-minimalisme/content/02_psikologi-di-balik-ekonomi-perhatian-mengapa-layar",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/",
+    "verdict": "NEUTRAL",
+    "coverageState": "Crawled - currently not indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/11_aplikasi-dan-manfaat-peluruhan-beta",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/11_aplikasi-dan-manfaat-peluruhan-beta",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/11_aplikasi-dan-manfaat-peluruhan-beta"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/04_mekanisme-peluruhan-beta-plus",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/04_mekanisme-peluruhan-beta-plus",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/04_mekanisme-peluruhan-beta-plus"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/07_spektrum-energi-kontinu",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/07_spektrum-energi-kontinu",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/07_spektrum-energi-kontinu"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/01_pendahuluan-peluruhan-beta",
+    "verdict": "NEUTRAL",
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/12_keamanan-dan-proteksi-radiasi-beta",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/12_keamanan-dan-proteksi-radiasi-beta",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/12_keamanan-dan-proteksi-radiasi-beta"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/02_struktur-atom-dan-ketidakstabilan-inti",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/02_struktur-atom-dan-ketidakstabilan-inti",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/02_struktur-atom-dan-ketidakstabilan-inti"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/08_hukum-kekekalan-dalam-proses-nuklir",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/08_hukum-kekekalan-dalam-proses-nuklir",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/08_hukum-kekekalan-dalam-proses-nuklir"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/13_referensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/13_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/13_referensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/09_cahaya-biru-yang-misterius",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/09_cahaya-biru-yang-misterius",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/09_cahaya-biru-yang-misterius"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/03_mekanisme-peluruhan-beta-minus",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/03_mekanisme-peluruhan-beta-minus",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/03_mekanisme-peluruhan-beta-minus"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/06_peran-neutrino-dan-antineutrino",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/06_peran-neutrino-dan-antineutrino",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/06_peran-neutrino-dan-antineutrino"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/05_fenomena-penangkapan-elektron",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/05_fenomena-penangkapan-elektron",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/05_fenomena-penangkapan-elektron"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/10_laju-peluruhan-dan-waktu-paruh",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/10_laju-peluruhan-dan-waktu-paruh",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/peluruhan-beta/content/10_laju-peluruhan-dan-waktu-paruh"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/04_arete-definisi-dan-jenis-jenis-keutamaan",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3226,13 +3800,14 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/01_pengantar-etika-kebajikan-menjadi-pribadi-yang-baik",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/06_doktrin-jalan-tengah-the-golden-mean-seni-menemukan-keseimbangan-moral",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3246,7 +3821,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/13_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3257,9 +3832,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/12_panduan-praktis",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/12_panduan-praktis",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/12_panduan-praktis"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/virtue-ethics-aristoteles/content/05_habituasi-membentuk-karakter-melalui-kebiasaan",
@@ -3268,15 +3845,122 @@
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/11_implementasi-eksistensialisme-di-era-modern-navigasi-kebebasan-di-tengah-kebisingan-digital",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/11_implementasi-eksistensialisme-di-era-modern-navigasi-kebebasan-di-tengah-kebisingan-digital",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/11_implementasi-eksistensialisme-di-era-modern-navigasi-kebebasan-di-tengah-kebisingan-digital"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/02_eksistensi-mendahului-esensi-menjadi-arsitek-bagi-diri-sendiri",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/02_eksistensi-mendahului-esensi-menjadi-arsitek-bagi-diri-sendiri",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/02_eksistensi-mendahului-esensi-menjadi-arsitek-bagi-diri-sendiri"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/01_dasar-dasar-eksistensialisme",
+    "verdict": "NEUTRAL",
+    "coverageState": "Page with redirect",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/sign-in"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/06_otentisitas-vs-iktikad-buruk-menjadi-sutradara-atas-hidup-sendiri",
+    "verdict": "NEUTRAL",
+    "coverageState": "URL is unknown to Google",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/04_dunia-yang-absurd-dan-pemberontakan-manusia",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/04_dunia-yang-absurd-dan-pemberontakan-manusia",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/04_dunia-yang-absurd-dan-pemberontakan-manusia"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/03_hakikat-kehendak-bebas-kemudi-di-tengah-samudra-eksistensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/03_hakikat-kehendak-bebas-kemudi-di-tengah-samudra-eksistensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/03_hakikat-kehendak-bebas-kemudi-di-tengah-samudra-eksistensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/12_kesimpulan-hidup-dengan-pilihan-sadar",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/12_kesimpulan-hidup-dengan-pilihan-sadar",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/12_kesimpulan-hidup-dengan-pilihan-sadar"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/08_kehendak-untuk-berkuasa-dan-menaklukkan-diri",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/08_kehendak-untuk-berkuasa-dan-menaklukkan-diri",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/08_kehendak-untuk-berkuasa-dan-menaklukkan-diri"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/09_tanggung-jawab-moral-dalam-kebebasan-radikal",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/09_tanggung-jawab-moral-dalam-kebebasan-radikal",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/09_tanggung-jawab-moral-dalam-kebebasan-radikal"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/13_referensi",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/13_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/13_referensi"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/05_kecemasan-sebagai-konsekuensi-kebebasan",
+    "verdict": "NEUTRAL",
+    "coverageState": "URL is unknown to Google",
+    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas"
+  },
+  {
+    "url": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/10_menciptakan-makna-di-tengah-ketidakpastian",
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/10_menciptakan-makna-di-tengah-ketidakpastian",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/eksistensialisme-dan-kehendak-bebas/content/10_menciptakan-makna-di-tengah-ketidakpastian"
+  },
+  {
     "url": "https://dawnbook.belajarcarabelajar.com/books/fungsi-manajemen-poac/",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/fungsi-manajemen-poac/content/04_organizing-membangun-struktur-dan-pembagian-kerja",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3290,7 +3974,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/fungsi-manajemen-poac/content/10_siklus-manajemen-keterkaitan-antar-fungsi-poac",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3344,7 +4028,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/fungsi-manajemen-poac/content/05_delegasi-wewenang-dan-alokasi-sumber-daya",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3375,21 +4059,27 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/12_referensi",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/12_referensi",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/12_referensi"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/09_diversifikasi-konten-adaptasi-webtoon-dan-eksperimen-genre",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/09_diversifikasi-konten-adaptasi-webtoon-dan-eksperimen-genre",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/09_diversifikasi-konten-adaptasi-webtoon-dan-eksperimen-genre"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/11_dampak-budaya-diplomasi-soft-power-dan-masa-depan-k-drama",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/11_dampak-budaya-diplomasi-soft-power-dan-masa-depan-k-drama",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/11_dampak-budaya-diplomasi-soft-power-dan-masa-depan-k-drama"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca",
@@ -3408,7 +4098,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/04_kebangkitan-stasiun-swasta-dan-era-persaingan-1990-an",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3419,9 +4109,11 @@
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/07_era-digital-dan-aksesibilitas-global-2010-an",
-    "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
-    "indexingState": "INDEXING_STATE_UNSPECIFIED"
+    "verdict": "PASS",
+    "coverageState": "Submitted and indexed",
+    "indexingState": "INDEXING_ALLOWED",
+    "googleCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/07_era-digital-dan-aksesibilitas-global-2010-an",
+    "userCanonical": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/07_era-digital-dan-aksesibilitas-global-2010-an"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/03_revolusi-tv-berwarna-dan-ekspansi-genre-1970-an-1980-an",
@@ -3432,7 +4124,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3444,7 +4136,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/02_karakteristik-dan-prinsip-pembelajaran-mikro",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3456,7 +4148,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/14_referensi",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3468,25 +4160,25 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/03_identifikasi-keterampilan-dasar-mengajar-kdm",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/01_pengantar-dan-filosofi-microteaching",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/13_evaluasi-akhir-dan-portofolio-mengajar",
     "verdict": "NEUTRAL",
-    "coverageState": "Discovered - currently not indexed",
+    "coverageState": "URL is unknown to Google",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/09_instrumen-observasi-dan-penilaian-sejawat",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
@@ -3498,7 +4190,7 @@
   {
     "url": "https://dawnbook.belajarcarabelajar.com/books/metodologi-microteaching/content/10_analisis-refleksi-berbasis-video",
     "verdict": "NEUTRAL",
-    "coverageState": "URL is unknown to Google",
+    "coverageState": "Discovered - currently not indexed",
     "indexingState": "INDEXING_STATE_UNSPECIFIED"
   },
   {
