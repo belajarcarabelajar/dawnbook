@@ -8,6 +8,7 @@ import {
   deleteSession,
   getSessionWithUser,
   generateUserId,
+  getBooks,
 } from "../../../functions/lib/db";
 import { createMockEnv } from "../../helpers/mocks";
 
@@ -192,5 +193,49 @@ describe("functions/lib/db.ts unit tests", () => {
   test("generateUserId generates a 32-char hex string", () => {
     const uid = generateUserId();
     expect(uid).toMatch(/^[a-f0-9]{32}$/);
+  });
+
+  test("getBooks constructs correct SQL queries and params based on options", async () => {
+    const env = createMockEnv();
+    const queries: { sql: string; params: unknown[] }[] = [];
+
+    env.DB.prepare = (sql: string) => {
+      return {
+        bind: (...params: unknown[]) => {
+          queries.push({ sql, params });
+          return {
+            all: async () => ({ results: [{ id: "b1", title: "Book 1" }], success: true }),
+          };
+        },
+      } as any;
+    };
+
+    // Default options (non-admin, no content, newest)
+    const booksDefault = await getBooks(env.DB);
+    expect(booksDefault).toEqual([{ id: "b1", title: "Book 1" }] as any);
+    expect(queries[0].sql).not.toContain("content_md");
+    expect(queries[0].sql).toContain("WHERE status = ?1");
+    expect(queries[0].sql).toContain("ORDER BY created_at DESC");
+    expect(queries[0].params).toEqual(["published"]);
+
+    // Admin options with includeContent, statusFilter, subjectLabel, sort_by oldest
+    await getBooks(env.DB, {
+      isAdmin: true,
+      includeContent: true,
+      statusFilter: "draft",
+      subjectLabel: "math",
+      sortBy: "oldest",
+    });
+    expect(queries[1].sql).toContain("content_md");
+    expect(queries[1].sql).toContain("WHERE status = ?1 AND subject_label = ?2");
+    expect(queries[1].sql).toContain("ORDER BY created_at ASC");
+    expect(queries[1].params).toEqual(["draft", "math"]);
+
+    // Sort by popular
+    await getBooks(env.DB, {
+      isAdmin: true,
+      sortBy: "popular",
+    });
+    expect(queries[2].sql).toContain("ORDER BY view_count DESC, created_at DESC");
   });
 });

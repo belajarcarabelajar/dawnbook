@@ -11,6 +11,14 @@
  * failure (e.g. surface a 500).
  */
 
+export interface GetBooksOptions {
+  includeContent?: boolean;
+  statusFilter?: string | null;
+  subjectLabel?: string | null;
+  sortBy?: string | null;
+  isAdmin?: boolean;
+}
+
 export interface BookRow {
   id: string;
   slug: string;
@@ -265,4 +273,56 @@ export function generateUserId(): string {
   const buf = new Uint8Array(16);
   crypto.getRandomValues(buf);
   return Array.from(buf, (b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/**
+ * Fetches books from the database using optional filters and sorting options.
+ * Non-admin callers only ever see published books.
+ */
+export async function getBooks(
+  db: D1Database,
+  options: GetBooksOptions = {},
+): Promise<BookRow[]> {
+  const {
+    includeContent = false,
+    statusFilter,
+    subjectLabel,
+    sortBy = "newest",
+    isAdmin = false,
+  } = options;
+
+  let query = includeContent
+    ? "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books"
+    : "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books";
+
+  const params: unknown[] = [];
+  const conditions: string[] = [];
+
+  if (!isAdmin) {
+    conditions.push(`status = ?${params.length + 1}`);
+    params.push("published");
+  } else if (statusFilter === "draft" || statusFilter === "published") {
+    conditions.push(`status = ?${params.length + 1}`);
+    params.push(statusFilter);
+  }
+
+  if (subjectLabel) {
+    conditions.push(`subject_label = ?${params.length + 1}`);
+    params.push(subjectLabel);
+  }
+
+  if (conditions.length > 0) {
+    query += " WHERE " + conditions.join(" AND ");
+  }
+
+  if (sortBy === "oldest") {
+    query += " ORDER BY created_at ASC";
+  } else if (sortBy === "popular") {
+    query += " ORDER BY view_count DESC, created_at DESC";
+  } else {
+    query += " ORDER BY created_at DESC";
+  }
+
+  const result = await db.prepare(query).bind(...params).all<BookRow>();
+  return result.results;
 }
