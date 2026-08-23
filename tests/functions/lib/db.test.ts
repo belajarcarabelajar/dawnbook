@@ -193,4 +193,92 @@ describe("functions/lib/db.ts unit tests", () => {
     const uid = generateUserId();
     expect(uid).toMatch(/^[a-f0-9]{32}$/);
   });
+
+  describe("getBooks", () => {
+    test("builds correct SQL query for default options (anonymous/reader)", async () => {
+      const { getBooks } = await import("../../../functions/lib/db");
+      const env = createMockEnv();
+      let capturedSql = "";
+      let capturedParams: unknown[] = [];
+
+      env.DB.prepare = (sql: string) => {
+        capturedSql = sql;
+        return {
+          bind: (...params: unknown[]) => {
+            capturedParams = params;
+            return {
+              all: async () => ({
+                results: [
+                  { id: "1", slug: "book-1", title: "Book 1", status: "published" },
+                ],
+              }),
+            };
+          },
+        } as any;
+      };
+
+      const books = await getBooks(env.DB);
+      expect(books).toHaveLength(1);
+      expect(books[0].slug).toBe("book-1");
+      expect(capturedSql).toContain("status = ?1");
+      expect(capturedSql).toContain("ORDER BY created_at DESC");
+      expect(capturedSql).not.toContain("content_md");
+      expect(capturedParams).toEqual(["published"]);
+    });
+
+    test("builds correct SQL query for admin with content, draft status, subject, and popular sorting", async () => {
+      const { getBooks } = await import("../../../functions/lib/db");
+      const env = createMockEnv();
+      let capturedSql = "";
+      let capturedParams: unknown[] = [];
+
+      env.DB.prepare = (sql: string) => {
+        capturedSql = sql;
+        return {
+          bind: (...params: unknown[]) => {
+            capturedParams = params;
+            return {
+              all: async () => ({ results: [] }),
+            };
+          },
+        } as any;
+      };
+
+      await getBooks(env.DB, {
+        isAdmin: true,
+        includeContent: true,
+        statusFilter: "draft",
+        subjectLabel: "tech",
+        sortBy: "popular",
+      });
+
+      expect(capturedSql).toContain("SELECT id, slug, title, status, content_md");
+      expect(capturedSql).toContain("status = ?1 AND subject_label = ?2");
+      expect(capturedSql).toContain("ORDER BY view_count DESC, created_at DESC");
+      expect(capturedParams).toEqual(["draft", "tech"]);
+    });
+
+    test("builds correct SQL query for admin with oldest sorting", async () => {
+      const { getBooks } = await import("../../../functions/lib/db");
+      const env = createMockEnv();
+      let capturedSql = "";
+
+      env.DB.prepare = (sql: string) => {
+        capturedSql = sql;
+        return {
+          bind: () => ({
+            all: async () => ({ results: [] }),
+          }),
+        } as any;
+      };
+
+      await getBooks(env.DB, {
+        isAdmin: true,
+        sortBy: "oldest",
+      });
+
+      expect(capturedSql).toContain("ORDER BY created_at ASC");
+      expect(capturedSql).not.toContain("WHERE");
+    });
+  });
 });

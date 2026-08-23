@@ -7,7 +7,7 @@
  */
 
 import { Env, verifySession } from "../../lib/auth";
-import { type BookRow } from "../../lib/db";
+import { getBooks } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
 
 interface PublishPayload {
@@ -48,49 +48,15 @@ async function handleGetBooks(env: Env, request: Request): Promise<Response> {
   const session = await verifySession(request, env);
   const isAdmin = session?.role === "admin";
 
-  let query: string;
-  const params: unknown[] = [];
+  const books = await getBooks(env.DB, {
+    includeContent,
+    statusFilter,
+    subjectLabel,
+    sortBy,
+    isAdmin,
+  });
 
-  if (includeContent) {
-    query = "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books";
-  } else {
-    query = "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books";
-  }
-
-  const conditions = [];
-
-  if (!isAdmin) {
-    // Non-admin callers only ever see published books, regardless of the
-    // `status` query param they pass.
-    conditions.push(`status = ?${params.length + 1}`);
-    params.push("published");
-  } else if (statusFilter === "draft" || statusFilter === "published") {
-    conditions.push(`status = ?${params.length + 1}`);
-    params.push(statusFilter);
-  }
-
-  if (subjectLabel) {
-    conditions.push(`subject_label = ?${params.length + 1}`);
-    params.push(subjectLabel);
-  }
-
-  if (conditions.length > 0) {
-    query += " WHERE " + conditions.join(" AND ");
-  }
-
-  if (sortBy === "oldest") {
-    query += " ORDER BY created_at ASC";
-  } else if (sortBy === "popular") {
-    query += " ORDER BY view_count DESC, created_at DESC";
-  } else {
-    query += " ORDER BY created_at DESC";
-  }
-
-  const result = await env.DB.prepare(query)
-    .bind(...params)
-    .all<BookRow>();
-
-  return jsonResponse({ books: result.results });
+  return jsonResponse({ books });
 }
 
 /**

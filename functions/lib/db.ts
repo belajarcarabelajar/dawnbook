@@ -23,6 +23,14 @@ export interface BookRow {
   view_count: number;
 }
 
+export interface GetBooksOptions {
+  includeContent?: boolean;
+  statusFilter?: string | null;
+  subjectLabel?: string | null;
+  sortBy?: string | null;
+  isAdmin?: boolean;
+}
+
 export interface UserRow {
   id: string;
   google_sub: string;
@@ -265,4 +273,59 @@ export function generateUserId(): string {
   const buf = new Uint8Array(16);
   crypto.getRandomValues(buf);
   return Array.from(buf, (b) => b.toString(16).padStart(2, "0")).join("");
+}
+
+/**
+ * Retrieves a list of books matching specified query criteria.
+ */
+export async function getBooks(
+  db: D1Database,
+  options: GetBooksOptions = {}
+): Promise<BookRow[]> {
+  const { includeContent, statusFilter, subjectLabel, sortBy, isAdmin } = options;
+
+  let query: string;
+  const params: unknown[] = [];
+
+  if (includeContent) {
+    query = "SELECT id, slug, title, status, content_md, created_at, updated_at, subject_label, view_count FROM books";
+  } else {
+    query = "SELECT id, slug, title, status, created_at, updated_at, subject_label, view_count FROM books";
+  }
+
+  const conditions = [];
+
+  if (!isAdmin) {
+    // Non-admin callers only ever see published books, regardless of the
+    // `status` query param they pass.
+    conditions.push(`status = ?${params.length + 1}`);
+    params.push("published");
+  } else if (statusFilter === "draft" || statusFilter === "published") {
+    conditions.push(`status = ?${params.length + 1}`);
+    params.push(statusFilter);
+  }
+
+  if (subjectLabel) {
+    conditions.push(`subject_label = ?${params.length + 1}`);
+    params.push(subjectLabel);
+  }
+
+  if (conditions.length > 0) {
+    query += " WHERE " + conditions.join(" AND ");
+  }
+
+  if (sortBy === "oldest") {
+    query += " ORDER BY created_at ASC";
+  } else if (sortBy === "popular") {
+    query += " ORDER BY view_count DESC, created_at DESC";
+  } else {
+    query += " ORDER BY created_at DESC";
+  }
+
+  const result = await db
+    .prepare(query)
+    .bind(...params)
+    .all<BookRow>();
+
+  return result.results;
 }
