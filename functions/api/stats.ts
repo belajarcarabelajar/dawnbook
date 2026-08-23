@@ -63,14 +63,9 @@ function isoMonth(d: Date): string {
   return `${y}-${m}`;
 }
 
-async function handleStats(env: Env): Promise<Response> {
-  const db = env.DB;
-
-  // Content section -------------------------------------------------------
+async function getContentStats(db: D1Database) {
   const totalBooksRow = await db
-    .prepare(
-      "SELECT COUNT(*) AS n FROM books WHERE status = ?1",
-    )
+    .prepare("SELECT COUNT(*) AS n FROM books WHERE status = ?1")
     .bind("published")
     .first<{ n: number }>();
   const totalBooks = totalBooksRow?.n ?? 0;
@@ -91,7 +86,18 @@ async function handleStats(env: Env): Promise<Response> {
   const avgChaptersPerBook =
     totalBooks > 0 ? Math.round((totalChapters / totalBooks) * 10) / 10 : 0;
 
-  // Engagement section ----------------------------------------------------
+  return {
+    total_books: totalBooks,
+    total_chapters: totalChapters,
+    avg_chapters_per_book: avgChaptersPerBook,
+    by_subject: (subjectsResult.results ?? []).map((r) => ({
+      label: r.label ?? "—",
+      count: r.count,
+    })),
+  };
+}
+
+async function getEngagementStats(db: D1Database) {
   const viewsRow = await db
     .prepare(
       "SELECT COALESCE(SUM(view_count), 0) AS v FROM books WHERE status = ?1",
@@ -143,10 +149,18 @@ async function handleStats(env: Env): Promise<Response> {
     count: countsByMonth.get(m) ?? 0,
   }));
   const currentMonth = isoMonth(now);
-  const publishedThisMonth =
-    countsByMonth.get(currentMonth) ?? 0;
+  const publishedThisMonth = countsByMonth.get(currentMonth) ?? 0;
 
-  // Donations section ----------------------------------------------------
+  return {
+    total_views: totalViews,
+    published_this_month: publishedThisMonth,
+    first_release: rangeRow?.first_release ?? null,
+    last_release: rangeRow?.last_release ?? null,
+    monthly_timeline: monthlyTimeline,
+  };
+}
+
+async function getDonationStats(db: D1Database) {
   const tierResult = await db
     .prepare(
       `SELECT donation_badge, COUNT(*) AS count
@@ -164,41 +178,41 @@ async function handleStats(env: Env): Promise<Response> {
   const bronze = tierCounts.get("Bronze") ?? 0;
   const totalBadgeHolders = gold + silver + bronze;
 
-  // Contributors (build-time) -------------------------------------------
+  return {
+    gold,
+    silver,
+    bronze,
+    total_badge_holders: totalBadgeHolders,
+  };
+}
+
+function getContributorStats() {
   // Ranked by number of published books authored, parsed from each
   // books/<slug>/book.toml at build time. See scripts/builder/stats-aggregator.ts.
-  const contributors = {
+  return {
     total: BUILT_CONTRIBUTORS.total,
     top: BUILT_CONTRIBUTORS.top.map((c) => ({
       name: c.name,
       books: c.books,
     })),
   };
+}
+
+async function handleStats(env: Env): Promise<Response> {
+  const db = env.DB;
+
+  const [content, engagement, donations] = await Promise.all([
+    getContentStats(db),
+    getEngagementStats(db),
+    getDonationStats(db),
+  ]);
+  const contributors = getContributorStats();
 
   return jsonResponse({
     generated_at: new Date().toISOString(),
-    content: {
-      total_books: totalBooks,
-      total_chapters: totalChapters,
-      avg_chapters_per_book: avgChaptersPerBook,
-      by_subject: (subjectsResult.results ?? []).map((r) => ({
-        label: r.label ?? "—",
-        count: r.count,
-      })),
-    },
-    engagement: {
-      total_views: totalViews,
-      published_this_month: publishedThisMonth,
-      first_release: rangeRow?.first_release ?? null,
-      last_release: rangeRow?.last_release ?? null,
-      monthly_timeline: monthlyTimeline,
-    },
-    donations: {
-      gold,
-      silver,
-      bronze,
-      total_badge_holders: totalBadgeHolders,
-    },
+    content,
+    engagement,
+    donations,
     contributors,
   });
 }
