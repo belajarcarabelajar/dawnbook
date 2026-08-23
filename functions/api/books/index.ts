@@ -139,7 +139,7 @@ async function handlePostBook(
   }
 
   // Validate required fields
-  if (!payload.bookSlug || !payload.chapterTitle || !payload.markdownContent) {
+  if (!payload || typeof payload !== "object" || !payload.bookSlug || !payload.chapterTitle || !payload.markdownContent) {
     return errorResponse(
       "Missing required fields: bookSlug, chapterTitle, markdownContent",
       400

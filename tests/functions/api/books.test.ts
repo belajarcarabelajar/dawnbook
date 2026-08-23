@@ -101,6 +101,25 @@ describe("API: /api/books", () => {
     expect(await response.json()).toEqual({ error: "Invalid JSON body" });
   });
 
+  test("POST returns 400 for non-object JSON payloads (null, boolean, number, string, array)", async () => {
+    mockSession = { sub: "user_123", role: "admin" };
+    const env = createMockEnv();
+
+    const invalidPayloads = ["null", "true", "123", '"just string"', "[]"];
+
+    for (const body of invalidPayloads) {
+      const req = mockRequest("https://example.com/api/books", {
+        method: "POST",
+        body,
+      });
+      const response = await onRequest({ request: req, env } as any);
+      expect(response.status).toBe(400);
+      expect(await response.json()).toEqual({
+        error: "Missing required fields: bookSlug, chapterTitle, markdownContent",
+      });
+    }
+  });
+
   test("POST returns 400 when required fields are missing", async () => {
     mockSession = { sub: "user_123", role: "admin" };
     const env = createMockEnv();
