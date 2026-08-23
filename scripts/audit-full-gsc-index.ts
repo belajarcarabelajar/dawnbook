@@ -2,7 +2,7 @@ import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 
-function base64url(str: string | Buffer): string {
+export function base64url(str: string | Buffer): string {
   return Buffer.from(str)
     .toString("base64")
     .replace(/=/g, "")
@@ -10,7 +10,7 @@ function base64url(str: string | Buffer): string {
     .replace(/\//g, "_");
 }
 
-async function getAccessToken(sa: any): Promise<string> {
+export async function getAccessToken(sa: any): Promise<string> {
   const header = { alg: "RS256", typ: "JWT" };
   const now = Math.floor(Date.now() / 1000);
   const claimSet = {
@@ -48,7 +48,7 @@ async function getAccessToken(sa: any): Promise<string> {
   return data.access_token;
 }
 
-async function getAccessTokenFromRefreshToken(
+export async function getAccessTokenFromRefreshToken(
   clientId: string,
   clientSecret: string,
   refreshToken: string,
@@ -70,7 +70,7 @@ async function getAccessTokenFromRefreshToken(
   throw new Error(`Failed to refresh OAuth token: ${JSON.stringify(data)}`);
 }
 
-interface InspectionResult {
+export interface InspectionResult {
   url: string;
   verdict: string;
   coverageState: string;
@@ -80,7 +80,7 @@ interface InspectionResult {
   error?: string;
 }
 
-async function inspectUrl(
+export async function inspectUrl(
   token: string,
   inspectionUrl: string,
   siteUrl: string,
@@ -129,7 +129,7 @@ async function inspectUrl(
   }
 }
 
-async function main() {
+export async function main() {
   console.log("🔍 Starting Full Site-Wide GSC Indexing Audit for Dawnbook...");
 
   const sitemapPath = "output/sitemap.xml";
@@ -340,7 +340,9 @@ async function main() {
   console.log(`Raw inspection data saved to ${jsonPath}`);
 }
 
-main().catch((err) => {
-  console.error("Error running full GSC audit:", err);
-  process.exit(1);
-});
+if (import.meta.main) {
+  main().catch((err) => {
+    console.error("Error running full GSC audit:", err);
+    process.exit(1);
+  });
+}
