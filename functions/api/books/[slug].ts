@@ -7,21 +7,10 @@
  */
 
 import { verifySession, type Env as AuthEnv } from "../../lib/auth";
+import { type BookRow } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
 
 interface Env extends AuthEnv {}
-
-interface BookRow {
-  id: string;
-  slug: string;
-  title: string;
-  status: string;
-  content_md: string;
-  created_at: string;
-  updated_at: string;
-  subject_label?: string | null;
-  view_count: number;
-}
 
 function jsonResponse(data: unknown, status = 200): Response {
   return new Response(JSON.stringify(data), {
