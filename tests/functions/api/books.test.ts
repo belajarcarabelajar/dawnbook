@@ -1,4 +1,4 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, spyOn } from "bun:test";
 
 let mockSession: any = null;
 mock.module("../../../functions/lib/auth", () => {
@@ -241,13 +241,43 @@ describe("API: /api/books", () => {
     expect(response.status).toBe(405);
   });
 
-  test("returns 500 Internal Server Error on unexpected exception", async () => {
-    const env = createMockEnv();
-    env.DB.prepare = mock(() => {
-      throw new Error("Fatal DB Error");
-    });
-    const req = mockRequest("https://example.com/api/books", { method: "GET" });
-    const response = await onRequest({ request: req, env } as any);
-    expect(response.status).toBe(500);
+  test("returns 500 Internal Server Error on unexpected exception during GET", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      env.DB.prepare = mock(() => {
+        throw new Error("Fatal GET DB Error");
+      });
+      const req = mockRequest("https://example.com/api/books", { method: "GET" });
+      const response = await onRequest({ request: req, env } as any);
+
+      expect(response.status).toBe(500);
+      expect(await response.json()).toEqual({ error: "Internal server error" });
+      expect(consoleSpy).toHaveBeenCalledWith("API error:", expect.any(Error));
+    } finally {
+      consoleSpy.mockRestore();
+    }
+  });
+
+  test("returns 500 Internal Server Error on unexpected exception during POST", async () => {
+    mockSession = { sub: "admin_1", role: "admin" };
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      env.DB.prepare = mock(() => {
+        throw new Error("Fatal POST DB Error");
+      });
+      const req = mockRequest("https://example.com/api/books", {
+        method: "POST",
+        body: JSON.stringify({ bookSlug: "valid-slug", chapterTitle: "t", markdownContent: "c" }),
+      });
+      const response = await onRequest({ request: req, env } as any);
+
+      expect(response.status).toBe(500);
+      expect(await response.json()).toEqual({ error: "Internal server error" });
+      expect(consoleSpy).toHaveBeenCalledWith("API error:", expect.any(Error));
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 });
