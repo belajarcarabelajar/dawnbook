@@ -1,4 +1,4 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, spyOn } from "bun:test";
 import { onRequestGet as loginHandler } from "../../../functions/api/auth/login";
 import { onRequestGet as callbackHandler } from "../../../functions/api/auth/callback";
 import { onRequestPost, onRequestGet as logoutGet } from "../../../functions/api/auth/logout";
@@ -287,16 +287,77 @@ describe("/api/auth/callback", () => {
     }
   });
 
-  test("redirects with error=server when D1 operation throws exception", async () => {
-    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
-    env.DB.prepare = mock(() => {
-      throw new Error("Fatal D1 Error");
-    });
-    const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
-    const res = await callbackHandler({ request: req, env } as any);
-    expect(res.status).toBe(302);
-    expect(res.headers.get("Location")).toContain("error=server");
+  test("redirects with error=server when D1 operation throws exception during initial user lookup", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      env.DB.prepare = mock(() => {
+        throw new Error("Fatal D1 Error");
+      });
+      const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=server");
+      expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] D1 ops failed:", expect.any(Error));
+    } finally {
+      consoleSpy.mockRestore();
+    }
+  });
+
+  test("redirects with error=server when createSession fails in D1 ops", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      setEnvHandlers(env);
+
+      let selectCalls = 0;
+      setQueryHandler(env, "", (sql) => {
+        if (sql.trimStart().toUpperCase().startsWith("INSERT INTO SESSIONS")) {
+          throw new Error("D1 session creation failure");
+        }
+        if (!sql.trimStart().toUpperCase().startsWith("SELECT")) return [];
+        selectCalls++;
+        if (selectCalls === 1) return [];
+        return [{
+          id: "u_abc", google_sub: "g", email: "e@e.com", name: null, picture: null,
+          role: "reader", donation_badge: null,
+          created_at: "2024-01-01T00:00:00.000Z", last_login_at: "2024-01-01T00:00:00.000Z",
+        }];
+      });
+
+      const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=server");
+      expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] D1 ops failed:", expect.any(Error));
+    } finally {
+      consoleSpy.mockRestore();
+    }
+  });
+
+  test("redirects with error=server when user is not found post-upsert", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      setEnvHandlers(env);
+
+      // Always return empty array for SELECT getUserByGoogleSub so fresh is null after upsert
+      setQueryHandler(env, "SELECT", () => []);
+
+      const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=server");
+      expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] D1 ops failed:", expect.any(Error));
+      expect((consoleSpy.mock.calls[0][1] as Error).message).toBe("upsertGoogleUser: row not found after upsert");
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 });
 
