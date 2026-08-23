@@ -1,6 +1,7 @@
 import { expect, test, describe } from "bun:test";
 
 import { onRequest } from "../../../functions/api/stats";
+import { BUILT_TOTAL_CHAPTERS } from "../../../functions/lib/built-stats";
 import {
   createMockEnv,
   mockRequest,
@@ -54,9 +55,9 @@ describe("API: /api/stats", () => {
     const data = await res.json();
     expect(data).toHaveProperty("generated_at");
     expect(data.content.total_books).toBe(7);
-    // 572 from built-stats.ts (recomputed at build time)
-    expect(data.content.total_chapters).toBe(572);
-    expect(data.content.avg_chapters_per_book).toBeCloseTo(572 / 7, 1);
+    // BUILT_TOTAL_CHAPTERS from built-stats.ts (recomputed at build time)
+    expect(data.content.total_chapters).toBe(BUILT_TOTAL_CHAPTERS);
+    expect(data.content.avg_chapters_per_book).toBeCloseTo(BUILT_TOTAL_CHAPTERS / 7, 1);
     expect(data.content.by_subject).toEqual([
       { label: "Psikologi", count: 4 },
       { label: "Sastra", count: 2 },
