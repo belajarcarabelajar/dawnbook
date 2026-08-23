@@ -1,16 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 
-const srcDir = '/home/belajarcarabelajar/dawnbook/books/quarter-life-crisis/src';
-const contentDir = path.join(srcDir, 'content');
-
-if (!fs.existsSync(contentDir)) {
-    fs.mkdirSync(contentDir);
-}
-
-const files = fs.readdirSync(srcDir).filter(f => f.endsWith('.md') && f !== 'SUMMARY.md');
-let summaryLines = ['# Summary', ''];
-
 const slugify = (text) => {
     return text.toString().toLowerCase()
         .replace(/\s+/g, '-')           // Replace spaces with -
@@ -20,40 +10,66 @@ const slugify = (text) => {
         .replace(/-+$/, '');            // Trim - from end of text
 };
 
-files.sort((a, b) => parseInt(a) - parseInt(b)).forEach(file => {
-    const filePath = path.join(srcDir, file);
-    let content = fs.readFileSync(filePath, 'utf8');
-    
-    // Find the first H1 for the title
-    const match = content.match(/^#\s+(.+)$/m);
-    if (!match) return;
-    
-    let title = match[1].trim();
-    // Clean up title for summary (remove colons, quotes, etc)
-    let summaryTitle = title.replace(/[:"']/g, '');
-    
+function convertH1ToH2(content) {
     // Convert ALL H1s to H2s to fix the nesting issue, while ignoring code blocks
-    content = content.replace(/(^```[\s\S]*?^```)|(^#\s+)/gm, (match, codeBlock, header) => {
+    return content.replace(/(^```[\s\S]*?^```)|(^#\s+)/gm, (match, codeBlock, header) => {
         if (codeBlock) return codeBlock;
         if (header) return '## ';
         return match;
     });
-    
-    // Generate new filename
-    const chapterNum = file.match(/^(\d+)/)[1];
-    // Limit slug to a reasonable length (first 6 words)
-    let slugTitle = slugify(title.split(' ').slice(0, 6).join(' '));
-    const newFilename = `${chapterNum}_${slugTitle}.md`;
-    
-    // Write to content dir
-    fs.writeFileSync(path.join(contentDir, newFilename), content);
-    
-    // Add to summary
-    summaryLines.push(`- [${summaryTitle}](./content/${newFilename})`);
-    
-    // Delete old file
-    fs.unlinkSync(filePath);
-});
+}
 
-fs.writeFileSync(path.join(srcDir, 'SUMMARY.md'), summaryLines.join('\n') + '\n');
-console.log('Successfully refactored chapters and SUMMARY.md');
+function processChapters(srcDir = '/home/belajarcarabelajar/dawnbook/books/quarter-life-crisis/src') {
+    const contentDir = path.join(srcDir, 'content');
+
+    if (!fs.existsSync(contentDir)) {
+        fs.mkdirSync(contentDir, { recursive: true });
+    }
+
+    const files = fs.readdirSync(srcDir).filter(f => f.endsWith('.md') && f !== 'SUMMARY.md');
+    let summaryLines = ['# Summary', ''];
+
+    files.sort((a, b) => parseInt(a) - parseInt(b)).forEach(file => {
+        const filePath = path.join(srcDir, file);
+        let content = fs.readFileSync(filePath, 'utf8');
+
+        // Find the first H1 for the title
+        const match = content.match(/^#\s+(.+)$/m);
+        if (!match) return;
+
+        let title = match[1].trim();
+        // Clean up title for summary (remove colons, quotes, etc)
+        let summaryTitle = title.replace(/[:"']/g, '');
+
+        // Convert ALL H1s to H2s to fix the nesting issue, while ignoring code blocks
+        content = convertH1ToH2(content);
+
+        // Generate new filename
+        const chapterNum = file.match(/^(\d+)/)[1];
+        // Limit slug to a reasonable length (first 6 words)
+        let slugTitle = slugify(title.split(' ').slice(0, 6).join(' '));
+        const newFilename = `${chapterNum}_${slugTitle}.md`;
+
+        // Write to content dir
+        fs.writeFileSync(path.join(contentDir, newFilename), content);
+
+        // Add to summary
+        summaryLines.push(`- [${summaryTitle}](./content/${newFilename})`);
+
+        // Delete old file
+        fs.unlinkSync(filePath);
+    });
+
+    fs.writeFileSync(path.join(srcDir, 'SUMMARY.md'), summaryLines.join('\n') + '\n');
+    console.log('Successfully refactored chapters and SUMMARY.md');
+}
+
+if (require.main === module) {
+    processChapters();
+}
+
+module.exports = {
+    slugify,
+    convertH1ToH2,
+    processChapters
+};
