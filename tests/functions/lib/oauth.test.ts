@@ -1,5 +1,6 @@
 import { expect, test, describe, afterEach } from "bun:test";
 import {
+  buildAuthUrl,
   exchangeCode,
   fetchUserInfo,
   constantTimeEqual,
@@ -8,6 +9,8 @@ import {
   randomToken,
   randomSessionId,
   randomState,
+  GOOGLE_AUTH_URL,
+  SCOPES,
 } from "../../../functions/lib/oauth";
 
 describe("functions/lib/oauth.ts unit tests", () => {
@@ -15,6 +18,40 @@ describe("functions/lib/oauth.ts unit tests", () => {
 
   afterEach(() => {
     global.fetch = originalFetch;
+  });
+
+  test("buildAuthUrl generates valid Google OAuth authorization URL with required parameters", () => {
+    const opts = {
+      clientId: "test-client-id.apps.googleusercontent.com",
+      redirectUri: "https://example.com/api/auth/callback",
+      state: "a1b2c3d4e5f607182930415263748596",
+    };
+
+    const authUrlString = buildAuthUrl(opts);
+    expect(authUrlString.startsWith(GOOGLE_AUTH_URL)).toBe(true);
+
+    const url = new URL(authUrlString);
+    expect(url.origin + url.pathname).toBe(GOOGLE_AUTH_URL);
+    expect(url.searchParams.get("client_id")).toBe(opts.clientId);
+    expect(url.searchParams.get("redirect_uri")).toBe(opts.redirectUri);
+    expect(url.searchParams.get("response_type")).toBe("code");
+    expect(url.searchParams.get("scope")).toBe(SCOPES.join(" "));
+    expect(url.searchParams.get("state")).toBe(opts.state);
+    expect(url.searchParams.get("access_type")).toBe("online");
+    expect(url.searchParams.get("prompt")).toBe("select_account");
+  });
+
+  test("buildAuthUrl uses custom scopes when provided", () => {
+    const opts = {
+      clientId: "test-client-id.apps.googleusercontent.com",
+      redirectUri: "https://example.com/api/auth/callback",
+      state: "a1b2c3d4e5f607182930415263748596",
+      scopes: ["openid", "email"],
+    };
+
+    const authUrlString = buildAuthUrl(opts);
+    const url = new URL(authUrlString);
+    expect(url.searchParams.get("scope")).toBe("openid email");
   });
 
   test("randomToken, randomSessionId, and randomState generate hex strings", () => {

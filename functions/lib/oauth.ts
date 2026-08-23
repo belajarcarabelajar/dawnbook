@@ -57,12 +57,13 @@ export function buildAuthUrl(opts: {
   clientId: string;
   redirectUri: string;
   state: string;
+  scopes?: string[];
 }): string {
   const params = new URLSearchParams({
     client_id: opts.clientId,
     redirect_uri: opts.redirectUri,
     response_type: "code",
-    scope: SCOPES.join(" "),
+    scope: (opts.scopes ?? SCOPES).join(" "),
     state: opts.state,
     access_type: "online",
     prompt: "select_account",
