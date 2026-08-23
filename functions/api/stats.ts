@@ -12,6 +12,7 @@
 
 import { Env } from "../lib/auth";
 import { BUILT_TOTAL_CHAPTERS, BUILT_CONTRIBUTORS } from "../lib/built-stats";
+import { jsonResponse, errorResponse } from "../lib/response";
 
 interface SubjectRow {
   label: string | null;
@@ -31,28 +32,6 @@ interface MonthlyRow {
 interface TierRow {
   donation_badge: string;
   count: number;
-}
-
-function jsonResponse(data: unknown): Response {
-  return new Response(JSON.stringify(data), {
-    status: 200,
-    headers: {
-      "Content-Type": "application/json",
-      // 5 min at the edge; browsers re-validate after that. Stats don't need
-      // to be second-by-second fresh.
-      "Cache-Control": "public, max-age=300",
-    },
-  });
-}
-
-function errorResponse(message: string, status: number): Response {
-  return new Response(JSON.stringify({ error: message }), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
 }
 
 function isoMonth(d: Date): string {
@@ -175,32 +154,40 @@ async function handleStats(env: Env): Promise<Response> {
     })),
   };
 
-  return jsonResponse({
-    generated_at: new Date().toISOString(),
-    content: {
-      total_books: totalBooks,
-      total_chapters: totalChapters,
-      avg_chapters_per_book: avgChaptersPerBook,
-      by_subject: (subjectsResult.results ?? []).map((r) => ({
-        label: r.label ?? "—",
-        count: r.count,
-      })),
+  return jsonResponse(
+    {
+      generated_at: new Date().toISOString(),
+      content: {
+        total_books: totalBooks,
+        total_chapters: totalChapters,
+        avg_chapters_per_book: avgChaptersPerBook,
+        by_subject: (subjectsResult.results ?? []).map((r) => ({
+          label: r.label ?? "—",
+          count: r.count,
+        })),
+      },
+      engagement: {
+        total_views: totalViews,
+        published_this_month: publishedThisMonth,
+        first_release: rangeRow?.first_release ?? null,
+        last_release: rangeRow?.last_release ?? null,
+        monthly_timeline: monthlyTimeline,
+      },
+      donations: {
+        gold,
+        silver,
+        bronze,
+        total_badge_holders: totalBadgeHolders,
+      },
+      contributors,
     },
-    engagement: {
-      total_views: totalViews,
-      published_this_month: publishedThisMonth,
-      first_release: rangeRow?.first_release ?? null,
-      last_release: rangeRow?.last_release ?? null,
-      monthly_timeline: monthlyTimeline,
-    },
-    donations: {
-      gold,
-      silver,
-      bronze,
-      total_badge_holders: totalBadgeHolders,
-    },
-    contributors,
-  });
+    200,
+    {
+      // 5 min at the edge; browsers re-validate after that. Stats don't need
+      // to be second-by-second fresh.
+      "Cache-Control": "public, max-age=300",
+    }
+  );
 }
 
 export const onRequest: PagesFunction<Env> = async (context) => {

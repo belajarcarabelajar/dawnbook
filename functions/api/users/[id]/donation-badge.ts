@@ -19,6 +19,7 @@
 import { verifySession, type Env } from "../../../lib/auth";
 import { setDonationBadge, getUserById } from "../../../lib/db";
 import { enforceRateLimit } from "../../../lib/rate-limit";
+import { jsonResponse, errorResponse } from "../../../lib/response";
 
 interface PatchBody {
   tier?: unknown;
@@ -26,32 +27,22 @@ interface PatchBody {
 
 const ALLOWED_TIERS = new Set(["Gold", "Silver", "Bronze"]);
 
-function jsonResponse(data: unknown, status = 200): Response {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
-}
-
 export const onRequestPatch: PagesFunction<Env> = async (context) => {
   const { request, env, params } = context;
   const userId = (params as Record<string, string | string[] | undefined>).id as
     | string
     | undefined;
   if (!userId) {
-    return jsonResponse({ error: "Missing user id" }, 400);
+    return errorResponse("Missing user id", 400);
   }
 
   // Auth: must be an admin session.
   const session = await verifySession(request, env);
   if (!session) {
-    return jsonResponse({ error: "Unauthorized" }, 401);
+    return errorResponse("Unauthorized", 401);
   }
   if (session.role !== "admin") {
-    return jsonResponse({ error: "Forbidden" }, 403);
+    return errorResponse("Forbidden", 403);
   }
 
   // Cap admin writes per user.
@@ -68,15 +59,15 @@ export const onRequestPatch: PagesFunction<Env> = async (context) => {
   try {
     body = (await request.json()) as PatchBody;
   } catch {
-    return jsonResponse({ error: "Invalid JSON body" }, 400);
+    return errorResponse("Invalid JSON body", 400);
   }
   const { tier } = body;
   if (tier !== null && typeof tier !== "string") {
-    return jsonResponse({ error: "tier must be a string or null" }, 400);
+    return errorResponse("tier must be a string or null", 400);
   }
   if (tier !== null && !ALLOWED_TIERS.has(tier)) {
-    return jsonResponse(
-      { error: `tier must be one of: Gold, Silver, Bronze, null` },
+    return errorResponse(
+      "tier must be one of: Gold, Silver, Bronze, null",
       400
     );
   }
@@ -84,7 +75,7 @@ export const onRequestPatch: PagesFunction<Env> = async (context) => {
   // Confirm target user exists before writing — gives a clean 404.
   const target = await getUserById(env.DB, userId);
   if (!target) {
-    return jsonResponse({ error: "User not found" }, 404);
+    return errorResponse("User not found", 404);
   }
 
   const ok = await setDonationBadge(env.DB, {
@@ -92,7 +83,7 @@ export const onRequestPatch: PagesFunction<Env> = async (context) => {
     tier: tier as string | null,
   });
   if (!ok) {
-    return jsonResponse({ error: "Update failed" }, 500);
+    return errorResponse("Update failed", 500);
   }
 
   return jsonResponse({ ok: true, tier });

@@ -8,6 +8,7 @@
 
 import { Env, verifySession } from "../../lib/auth";
 import { enforceRateLimit } from "../../lib/rate-limit";
+import { jsonResponse, errorResponse } from "../../lib/response";
 
 interface BookRow {
   id: string;
@@ -26,20 +27,6 @@ interface PublishPayload {
   chapterTitle: string;
   markdownContent: string;
   subjectLabel?: string;
-}
-
-function jsonResponse(data: unknown, status = 200): Response {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
-}
-
-function errorResponse(message: string, status: number): Response {
-  return jsonResponse({ error: message }, status);
 }
 
 /**
