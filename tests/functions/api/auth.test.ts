@@ -1,4 +1,4 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, spyOn } from "bun:test";
 import { onRequestGet as loginHandler } from "../../../functions/api/auth/login";
 import { onRequestGet as callbackHandler } from "../../../functions/api/auth/callback";
 import { onRequestPost, onRequestGet as logoutGet } from "../../../functions/api/auth/logout";
@@ -270,8 +270,9 @@ describe("/api/auth/callback", () => {
     expect(res.headers.get("Location")).toContain("error=config");
   });
 
-  test("redirects with error=google_exchange when Google code exchange throws error", async () => {
+  test("redirects with error=google_exchange and clears cookies when Google code exchange throws error", async () => {
     const originalFetch = global.fetch;
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
     global.fetch = async () => new Response("exchange failed", { status: 400 });
 
     try {
@@ -282,21 +283,65 @@ describe("/api/auth/callback", () => {
       const res = await callbackHandler({ request: req, env } as any);
       expect(res.status).toBe(302);
       expect(res.headers.get("Location")).toContain("error=google_exchange");
+      const setCookie = res.headers.get("Set-Cookie")!;
+      expect(setCookie).toContain("oauth_state=");
+      expect(setCookie).toContain("Max-Age=0");
+      expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] Google exchange failed:", expect.any(Error));
     } finally {
       global.fetch = originalFetch;
+      consoleSpy.mockRestore();
+    }
+  });
+
+  test("redirects with error=google_exchange when fetchUserInfo fails after token exchange", async () => {
+    const originalFetch = global.fetch;
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+
+    global.fetch = async (input: RequestInfo | URL) => {
+      const urlStr = typeof input === "string" ? input : input instanceof URL ? input.toString() : input.url;
+      if (urlStr.includes("oauth2.googleapis.com/token")) {
+        return new Response(JSON.stringify({ access_token: "mock_token", expires_in: 3600, token_type: "Bearer" }), {
+          status: 200,
+          headers: { "Content-Type": "application/json" },
+        });
+      }
+      // Userinfo endpoint failure
+      return new Response("Unauthorized profile request", { status: 401 });
+    };
+
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      setEnvHandlers(env);
+      const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=google_exchange");
+      const setCookie = res.headers.get("Set-Cookie")!;
+      expect(setCookie).toContain("oauth_state=");
+      expect(setCookie).toContain("Max-Age=0");
+      expect(consoleSpy).toHaveBeenCalledWith("[auth/callback] Google exchange failed:", expect.any(Error));
+    } finally {
+      global.fetch = originalFetch;
+      consoleSpy.mockRestore();
     }
   });
 
   test("redirects with error=server when D1 operation throws exception", async () => {
-    const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
-    env.DB.prepare = mock(() => {
-      throw new Error("Fatal D1 Error");
-    });
-    const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
-    const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
-    const res = await callbackHandler({ request: req, env } as any);
-    expect(res.status).toBe(302);
-    expect(res.headers.get("Location")).toContain("error=server");
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv(ENV_OVERRIDES) as unknown as Env;
+      env.DB.prepare = mock(() => {
+        throw new Error("Fatal D1 Error");
+      });
+      const url = `${baseUrl}?code=valid_code&state=${STATE_HEX}`;
+      const req = new Request(url, { headers: { Cookie: `oauth_state=${STATE_HEX}` } });
+      const res = await callbackHandler({ request: req, env } as any);
+      expect(res.status).toBe(302);
+      expect(res.headers.get("Location")).toContain("error=server");
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 });
 
