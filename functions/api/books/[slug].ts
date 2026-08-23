@@ -8,6 +8,7 @@
 
 import { verifySession, type Env as AuthEnv } from "../../lib/auth";
 import { enforceRateLimit } from "../../lib/rate-limit";
+import { jsonResponse, errorResponse } from "../../lib/response";
 
 interface Env extends AuthEnv {}
 
@@ -21,20 +22,6 @@ interface BookRow {
   updated_at: string;
   subject_label?: string | null;
   view_count: number;
-}
-
-function jsonResponse(data: unknown, status = 200): Response {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
-}
-
-function errorResponse(message: string, status: number): Response {
-  return jsonResponse({ error: message }, status);
 }
 
 export const onRequest: PagesFunction<Env> = async (context) => {

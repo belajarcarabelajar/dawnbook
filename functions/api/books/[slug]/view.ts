@@ -6,23 +6,10 @@
  */
 
 import { enforceRateLimit } from "../../../lib/rate-limit";
+import { jsonResponse, errorResponse } from "../../../lib/response";
 
 interface Env {
   DB: D1Database;
-}
-
-function jsonResponse(data: unknown, status = 200): Response {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
-}
-
-function errorResponse(message: string, status: number): Response {
-  return jsonResponse({ error: message }, status);
 }
 
 export const onRequest: PagesFunction<Env> = async (context) => {

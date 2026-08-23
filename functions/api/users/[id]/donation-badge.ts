@@ -19,22 +19,13 @@
 import { verifySession, type Env } from "../../../lib/auth";
 import { setDonationBadge, getUserById } from "../../../lib/db";
 import { enforceRateLimit } from "../../../lib/rate-limit";
+import { jsonResponse } from "../../../lib/response";
 
 interface PatchBody {
   tier?: unknown;
 }
 
 const ALLOWED_TIERS = new Set(["Gold", "Silver", "Bronze"]);
-
-function jsonResponse(data: unknown, status = 200): Response {
-  return new Response(JSON.stringify(data), {
-    status,
-    headers: {
-      "Content-Type": "application/json",
-      "Cache-Control": "no-store",
-    },
-  });
-}
 
 export const onRequestPatch: PagesFunction<Env> = async (context) => {
   const { request, env, params } = context;
