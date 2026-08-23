@@ -31,33 +31,34 @@ export interface BuiltStats {
  * scripts/builder/metadata.ts.
  */
 async function countTotalChapters(booksDir: string): Promise<number> {
-  let total = 0;
   let entries: string[];
   try {
     entries = await readdir(booksDir);
   } catch {
     return 0;
   }
-  for (const entry of entries) {
-    const bookPath = join(booksDir, entry);
-    try {
-      const s = await stat(bookPath);
-      if (!s.isDirectory()) continue;
-    } catch {
-      continue;
-    }
-    if (entry.startsWith("_")) continue; // skip _template, etc.
-    try {
-      const summary = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
-      const count = summary
-        .split("\n")
-        .filter((line) => line.trim().startsWith("- [")).length;
-      total += count;
-    } catch {
-      // No SUMMARY.md → skip silently
-    }
-  }
-  return total;
+  const counts = await Promise.all(
+    entries.map(async (entry) => {
+      if (entry.startsWith("_")) return 0; // skip _template, etc.
+      const bookPath = join(booksDir, entry);
+      try {
+        const s = await stat(bookPath);
+        if (!s.isDirectory()) return 0;
+      } catch {
+        return 0;
+      }
+      try {
+        const summary = await readFile(join(bookPath, "src", "SUMMARY.md"), "utf8");
+        return summary
+          .split("\n")
+          .filter((line) => line.trim().startsWith("- [")).length;
+      } catch {
+        // No SUMMARY.md → skip silently
+        return 0;
+      }
+    }),
+  );
+  return counts.reduce((acc, count) => acc + count, 0);
 }
 
 /**
@@ -101,28 +102,31 @@ async function readAuthorsByBookCount(
 ): Promise<ContributorSummary> {
   let entries: string[];
   try {
-  entries = await readdir(booksDir);
+    entries = await readdir(booksDir);
   } catch {
     return { total: 0, top: [] };
   }
+  const authorsList = await Promise.all(
+    entries.map(async (entry) => {
+      if (entry.startsWith("_")) return [];
+      const bookPath = join(booksDir, entry);
+      try {
+        const s = await stat(bookPath);
+        if (!s.isDirectory()) return [];
+      } catch {
+        return [];
+      }
+      try {
+        const bookToml = await readFile(join(bookPath, "book.toml"), "utf8");
+        return parseAuthors(bookToml);
+      } catch {
+        return [];
+      }
+    }),
+  );
+
   const counts = new Map<string, number>();
-  for (const entry of entries) {
-    if (entry.startsWith("_")) continue;
-    const bookPath = join(booksDir, entry);
-    try {
-      const s = await stat(bookPath);
-      if (!s.isDirectory()) continue;
-    } catch {
-      continue;
-    }
-    let bookToml: string;
-    try {
-      bookToml = await readFile(join(bookPath, "book.toml"), "utf8");
-    } catch {
-      continue;
-    }
-    const authors = parseAuthors(bookToml);
-    if (authors.length === 0) continue;
+  for (const authors of authorsList) {
     for (const name of authors) {
       counts.set(name, (counts.get(name) ?? 0) + 1);
     }
