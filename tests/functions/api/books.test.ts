@@ -1,4 +1,4 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, spyOn } from "bun:test";
 
 let mockSession: any = null;
 mock.module("../../../functions/lib/auth", () => {
@@ -242,12 +242,32 @@ describe("API: /api/books", () => {
   });
 
   test("returns 500 Internal Server Error on unexpected exception", async () => {
-    const env = createMockEnv();
-    env.DB.prepare = mock(() => {
-      throw new Error("Fatal DB Error");
-    });
-    const req = mockRequest("https://example.com/api/books", { method: "GET" });
-    const response = await onRequest({ request: req, env } as any);
-    expect(response.status).toBe(500);
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      env.DB.prepare = mock(() => {
+        throw new Error("Fatal DB Error");
+      });
+
+      // GET request error handling
+      const reqGet = mockRequest("https://example.com/api/books", { method: "GET" });
+      const responseGet = await onRequest({ request: reqGet, env } as any);
+      expect(responseGet.status).toBe(500);
+      expect(await responseGet.json()).toEqual({ error: "Internal server error" });
+
+      // POST request error handling
+      mockSession = { sub: "user_123", role: "admin" };
+      const reqPost = mockRequest("https://example.com/api/books", {
+        method: "POST",
+        body: JSON.stringify({ bookSlug: "slug", chapterTitle: "t", markdownContent: "c" }),
+      });
+      const responsePost = await onRequest({ request: reqPost, env } as any);
+      expect(responsePost.status).toBe(500);
+      expect(await responsePost.json()).toEqual({ error: "Internal server error" });
+
+      expect(consoleSpy).toHaveBeenCalled();
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 });
