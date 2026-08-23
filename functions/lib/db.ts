@@ -11,6 +11,18 @@
  * failure (e.g. surface a 500).
  */
 
+export interface BookRow {
+  id: string;
+  slug: string;
+  title: string;
+  status: string;
+  content_md: string;
+  created_at: string;
+  updated_at: string;
+  subject_label?: string | null;
+  view_count: number;
+}
+
 export interface UserRow {
   id: string;
   google_sub: string;
