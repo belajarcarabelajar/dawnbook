@@ -1,4 +1,4 @@
-import { expect, test, describe, mock, afterEach } from "bun:test";
+import { expect, test, describe, mock, afterEach, spyOn } from "bun:test";
 import { onRequest } from "../../functions/_middleware";
 import { createMockEnv, mockRequest, setQueryHandler } from "../helpers/mocks";
 import { __setDnsFetcherForTests, clearBotCache } from "../../functions/lib/bot-verify";
@@ -311,63 +311,117 @@ describe("Cloudflare Pages Edge Middleware (functions/_middleware.ts)", () => {
     expect(response.headers.get("Permissions-Policy")).toBe("fullscreen=()");
   });
 
-  test("internal error in middleware catches exception and returns 500 JSON", async () => {
-    const env = createMockEnv();
-    const validSessionId =
-      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+  test("internal error in middleware catches exception and returns 500 JSON with security headers", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      const validSessionId =
+        "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
 
-    const req = mockRequest("https://example.com/admin/secret", {
-      headers: {
-        Accept: "text/html",
-        Cookie: `session_id=${validSessionId}`,
-      },
-    });
+      const req = mockRequest("https://example.com/admin/secret", {
+        headers: {
+          Accept: "text/html",
+          Cookie: `session_id=${validSessionId}`,
+        },
+      });
 
-    // Cause DB prepare to throw
-    env.DB.prepare = mock(() => {
-      throw new Error("Fatal DB Error");
-    });
+      // Cause DB prepare to throw
+      const fatalError = new Error("Fatal DB Error");
+      env.DB.prepare = mock(() => {
+        throw fatalError;
+      });
 
-    const context = {
-      request: req,
-      env: env,
-      next: mock(async () => new Response("Gated")),
-    };
+      const context = {
+        request: req,
+        env: env,
+        next: mock(async () => new Response("Gated")),
+      };
 
-    const response = await onRequest(context as any);
-    expect(response.status).toBe(500);
-    expect(response.headers.get("Content-Type")).toBe("application/json");
+      const response = await onRequest(context as any);
+      expect(response.status).toBe(500);
+      expect(response.headers.get("Content-Type")).toBe("application/json");
+      expect(response.headers.get("Cache-Control")).toBe("private, no-store");
+      expect(response.headers.get("X-Frame-Options")).toBe("DENY");
+      expect(response.headers.get("X-Content-Type-Options")).toBe("nosniff");
+      expect(response.headers.get("Content-Security-Policy")).toBeTruthy();
 
-    const json = await response.json();
-    expect(json.error).toBe("Internal Server Error");
-    expect(json.message).toContain("unexpected error");
+      const json = await response.json();
+      expect(json.error).toBe("Internal Server Error");
+      expect(json.message).toBe("An unexpected error occurred at the edge.");
+
+      expect(consoleSpy).toHaveBeenCalledWith("Middleware error:", fatalError);
+    } finally {
+      consoleSpy.mockRestore();
+    }
+  });
+
+  test("next() throwing unexpected error in middleware catches exception and returns 500 JSON", async () => {
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      const req = mockRequest("https://example.com/");
+
+      const nextError = new Error("Downstream handler failure");
+      const context = {
+        request: req,
+        env: env,
+        next: mock(async () => {
+          throw nextError;
+        }),
+      };
+
+      const response = await onRequest(context as any);
+      expect(response.status).toBe(500);
+      expect(response.headers.get("Content-Type")).toBe("application/json");
+      expect(response.headers.get("Cache-Control")).toBe("private, no-store");
+      expect(response.headers.get("X-Frame-Options")).toBe("DENY");
+      expect(response.headers.get("X-Content-Type-Options")).toBe("nosniff");
+      expect(response.headers.get("Referrer-Policy")).toBe("strict-origin-when-cross-origin");
+      expect(response.headers.get("Permissions-Policy")).toBe("camera=(), microphone=(), geolocation=()");
+      expect(response.headers.get("Content-Security-Policy")).toBeTruthy();
+
+      const json = await response.json();
+      expect(json.error).toBe("Internal Server Error");
+      expect(json.message).toBe("An unexpected error occurred at the edge.");
+
+      expect(consoleSpy).toHaveBeenCalledWith("Middleware error:", nextError);
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 
   test("URIError in middleware is caught and returns 400 Bad Request JSON", async () => {
-    const env = createMockEnv();
-    const validSessionId =
-      "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
+    const consoleSpy = spyOn(console, "error").mockImplementation(() => {});
+    try {
+      const env = createMockEnv();
+      const validSessionId =
+        "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef";
 
-    // %E0%A4%A causes URIError when passed to decodeURIComponent
-    const req = mockRequest("https://example.com/admin/secret/%E0%A4%A", {
-      headers: {
-        Accept: "text/html",
-        Cookie: `session_id=${validSessionId}`,
-      },
-    });
+      // %E0%A4%A causes URIError when passed to decodeURIComponent
+      const req = mockRequest("https://example.com/admin/secret/%E0%A4%A", {
+        headers: {
+          Accept: "text/html",
+          Cookie: `session_id=${validSessionId}`,
+        },
+      });
 
-    const context = {
-      request: req,
-      env: env,
-      next: mock(async () => new Response("Gated")),
-    };
+      const context = {
+        request: req,
+        env: env,
+        next: mock(async () => new Response("Gated")),
+      };
 
-    const response = await onRequest(context as any);
-    expect(response.status).toBe(400);
-    expect(response.headers.get("Content-Type")).toBe("application/json");
+      const response = await onRequest(context as any);
+      expect(response.status).toBe(400);
+      expect(response.headers.get("Content-Type")).toBe("application/json");
 
-    const json = await response.json();
-    expect(json.error).toBe("Bad Request");
-    expect(json.message).toContain("Malformed URI component");
+      const json = await response.json();
+      expect(json.error).toBe("Bad Request");
+      expect(json.message).toContain("Malformed URI component");
+
+      expect(consoleSpy).toHaveBeenCalled();
+    } finally {
+      consoleSpy.mockRestore();
+    }
   });
 });
