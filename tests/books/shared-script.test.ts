@@ -140,6 +140,35 @@ describe("Shared Script Client-Side Logic Execution", () => {
     expect(fetchedUrls.some((u) => u.includes("/api/books/my-book/view"))).toBe(true);
   });
 
+  test("does NOT save progress when on root index.html page and progress fetch returns no redirect", async () => {
+    const { mockWin } = setupMockWindow("/books/my-book/index.html");
+
+    let saveProgressPostCalled = false;
+    global.fetch = mock(async (url: string, init?: RequestInit) => {
+      if (url.includes("/api/auth/me")) {
+        return new Response(JSON.stringify({ id: "user_1" }));
+      }
+      if (url.includes("/api/books/my-book/view")) {
+        return new Response(JSON.stringify({ success: true }));
+      }
+      if (url.includes("/api/progress")) {
+        if (init?.method === "POST") {
+          saveProgressPostCalled = true;
+          return new Response(JSON.stringify({ success: true }));
+        }
+        return new Response(JSON.stringify({ completed_paths: [], path: "/books/my-book/index.html" }));
+      }
+      return new Response("{}");
+    });
+
+    Function(scriptContent)();
+
+    await new Promise((r) => setTimeout(r, 10));
+
+    expect(mockWin.checkpointHandled).toBe(true);
+    expect(saveProgressPostCalled).toBe(false);
+  });
+
   test("saveProgress sends POST request to /api/progress with bookSlug and path", async () => {
     const { mockWin } = setupMockWindow("/books/my-book/chapter-1.html");
 

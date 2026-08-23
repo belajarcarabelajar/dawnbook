@@ -153,10 +153,10 @@ window.MathJax = {
                 })
                 .then(function(res) { return res.json(); })
                 .then(function(data) {
-                    if (data.completed_paths && window.updateBookProgress) {
+                    if (data && data.completed_paths && window.updateBookProgress) {
                         window.updateBookProgress(data.completed_paths);
                     }
-                    if (data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
+                    if (data && data.path && data.path !== currentPath && !data.path.endsWith('/books/' + bookSlug + '/')) {
                         // Redirect to the saved chapter path with canonical .html extension!
                         var targetPath = data.path;
                         if (!targetPath.endsWith('.html') && targetPath.indexOf('/content/') !== -1) {
@@ -164,13 +164,19 @@ window.MathJax = {
                         }
                         window.location.replace(targetPath + '?redirected=true');
                     } else {
-                        window.checkpointHandled = true;
-                    }
-                })
-                .catch(function(e) { 
-                    console.error('Failed to load progress', e);
                     window.checkpointHandled = true;
-                });
+                    if (!isRoot) {
+                        window.saveProgress();
+                    }
+                }
+            })
+            .catch(function(e) {
+                console.error('Failed to load progress', e);
+                window.checkpointHandled = true;
+                if (!isRoot) {
+                    window.saveProgress();
+                }
+            });
             } else {
                 window.checkpointHandled = true;
             }
