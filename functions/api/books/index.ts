@@ -7,19 +7,8 @@
  */
 
 import { Env, verifySession } from "../../lib/auth";
+import { type BookRow } from "../../lib/db";
 import { enforceRateLimit } from "../../lib/rate-limit";
-
-interface BookRow {
-  id: string;
-  slug: string;
-  title: string;
-  status: string;
-  content_md: string;
-  created_at: string;
-  updated_at: string;
-  subject_label?: string | null;
-  view_count: number;
-}
 
 interface PublishPayload {
   bookSlug: string;
