@@ -9,6 +9,17 @@ import subprocess
 import os
 import sys
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
+
+def get_repo_path(relative_path: str) -> str:
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    repo_root = os.path.dirname(script_dir)
+    primary_path = os.path.join(repo_root, relative_path)
+    if os.path.exists(primary_path) or os.path.exists(os.path.dirname(primary_path)):
+        return primary_path
+    legacy_path = os.path.join("/home/belajarcarabelajar/dawnbook", relative_path)
+    return legacy_path
 
 def base64url_encode(data: bytes) -> str:
     return base64.b64encode(data).decode('utf-8').replace('=', '').replace('+', '-').replace('/', '_')
@@ -59,9 +70,75 @@ def get_access_token(sa: dict, scope: str) -> str:
         res_json = json.loads(response.read().decode('utf-8'))
         return res_json["access_token"]
 
+def send_indexing_notification(url: str, token: str, stop_event: threading.Event, idx_endpoint: str = "https://indexing.googleapis.com/v3/urlNotifications:publish"):
+    if stop_event.is_set():
+        return url, False, False, "stopped"
+
+    payload = {
+        "url": url,
+        "type": "URL_UPDATED"
+    }
+    req = urllib.request.Request(
+        idx_endpoint,
+        data=json.dumps(payload).encode('utf-8'),
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json"
+        },
+        method="POST"
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            if resp.status == 200:
+                return url, True, False, None
+            return url, False, False, f"Status {resp.status}"
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            stop_event.set()
+            return url, False, True, "429 Quota Exceeded"
+        return url, False, False, str(e)
+    except Exception as e:
+        return url, False, False, str(e)
+
+def process_indexing_batch(target_urls: list, token: str, max_workers: int = 10, idx_endpoint: str = "https://indexing.googleapis.com/v3/urlNotifications:publish"):
+    success_count = 0
+    error_count = 0
+    processed_count = 0
+    total_urls = len(target_urls)
+    stop_event = threading.Event()
+
+    if total_urls == 0:
+        return 0, 0
+
+    print(f"\n📡 Sending Indexing API notifications for {total_urls} URLs (Parallel workers: {max_workers})...")
+
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(send_indexing_notification, url, token, stop_event, idx_endpoint): (idx, url)
+            for idx, url in enumerate(target_urls, 1)
+        }
+
+        for future in as_completed(futures):
+            processed_count += 1
+            url, is_success, is_quota, err = future.result()
+
+            if is_success:
+                success_count += 1
+            elif err != "stopped":
+                error_count += 1
+
+            if is_quota:
+                idx, _ = futures[future]
+                print(f"⚠️ Daily quota reached at item {idx} (URL: {url}). Stopping batch.")
+
+            if processed_count % 50 == 0 or processed_count == total_urls:
+                print(f"  Processed {processed_count}/{total_urls} URLs (Success: {success_count}, Quota/Note: {error_count})...")
+
+    return success_count, error_count
+
 def main():
     env_vars = {}
-    env_path = "/home/belajarcarabelajar/dawnbook/.env"
+    env_path = get_repo_path(".env")
     if os.path.exists(env_path):
         with open(env_path) as f:
             for line in f:
@@ -70,7 +147,7 @@ def main():
                     k, v = line.split('=', 1)
                     env_vars[k] = v.strip('\"\'')
 
-    sa_path = "/home/belajarcarabelajar/dawnbook/service-account.json"
+    sa_path = get_repo_path("service-account.json")
     sa = None
     if env_vars.get("GSC_CLIENT_EMAIL") and env_vars.get("GSC_PRIVATE_KEY"):
         sa = {
@@ -95,8 +172,8 @@ def main():
 
     # Check for --resume or --offset argument
     offset = 0
+    checkpoint_path = get_repo_path("docs/indexing_checkpoint.json")
     if "--resume" in sys.argv or "--offset" in sys.argv:
-        checkpoint_path = "/home/belajarcarabelajar/dawnbook/docs/indexing_checkpoint.json"
         if os.path.exists(checkpoint_path):
             with open(checkpoint_path) as f:
                 cp = json.load(f)
@@ -119,50 +196,17 @@ def main():
         print("⚠️ Sitemap submission note:", e)
 
     # 2. Read sitemap.xml and send URL_UPDATED notifications to Google Indexing API
-    sitemap_file = "/home/belajarcarabelajar/dawnbook/output/sitemap.xml"
+    sitemap_file = get_repo_path("output/sitemap.xml")
     if os.path.exists(sitemap_file):
         tree = ET.parse(sitemap_file)
         all_urls = [u.find('{http://www.sitemaps.org/schemas/sitemap/0.9}loc').text for u in tree.findall('{http://www.sitemaps.org/schemas/sitemap/0.9}url')]
         target_urls = all_urls[offset:]
 
-        print(f"\n📡 Sending Indexing API notifications for {len(target_urls)} URLs (Offset {offset} to {len(all_urls)})...")
-        
-        success_count = 0
-        error_count = 0
-        
-        idx_endpoint = "https://indexing.googleapis.com/v3/urlNotifications:publish"
-        for i, url in enumerate(target_urls, 1):
-            payload = {
-                "url": url,
-                "type": "URL_UPDATED"
-            }
-            req = urllib.request.Request(
-                idx_endpoint,
-                data=json.dumps(payload).encode('utf-8'),
-                headers={
-                    "Authorization": f"Bearer {token}",
-                    "Content-Type": "application/json"
-                },
-                method="POST"
-            )
-            try:
-                with urllib.request.urlopen(req) as resp:
-                    if resp.status == 200:
-                        success_count += 1
-            except urllib.error.HTTPError as e:
-                error_count += 1
-                if e.code == 429:
-                    print(f"⚠️ Daily quota reached at item {i} (URL: {url}). Stopping batch.")
-                    break
-            except Exception as e:
-                error_count += 1
-
-            if i % 50 == 0 or i == len(target_urls):
-                print(f"  Processed {i}/{len(target_urls)} URLs (Success: {success_count}, Quota/Note: {error_count})...")
+        max_workers = int(os.environ.get("GSC_MAX_WORKERS", "10"))
+        success_count, error_count = process_indexing_batch(target_urls, token, max_workers=max_workers)
                 
         print(f"\n🎉 Indexing Notification Batch Complete! {success_count} URLs directly pushed to Google Indexing API queue.")
 
-        checkpoint_path = "/home/belajarcarabelajar/dawnbook/docs/indexing_checkpoint.json"
         sent_count = offset + success_count
         cp_data = {
             "updated_at": time.strftime("%Y-%m-%dT%H:%M:%S%z"),
