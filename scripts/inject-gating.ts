@@ -31,6 +31,8 @@ export interface InjectSeoOptions {
   gaId?: string;
   bookTitle?: string;
   bookUrl?: string;
+  bookDescription?: string;
+  isBookRoot?: boolean;
 }
 
 export function extractLeadText(html: string): string {
@@ -64,18 +66,18 @@ export function normalizeInternalLinks(html: string): string {
 }
 
 export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
-  const { pageTitle, url, isGatedClientSide, gaId } = options;
+  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot } = options;
 
   let content = normalizeInternalLinks(html);
 
   // 1. Strip any pre-existing meta description to eliminate duplicates
   content = content.replace(/<meta\s+name=["']description["'][^>]*>\s*/gi, "");
 
-  // 2. Extract lead paragraph text for rich, unique snippet
+  // 2. Extract lead paragraph text for rich, unique snippet without repeating the title
   const lead = extractLeadText(content);
-  let finalDescription = lead
-    ? `${pageTitle}. ${lead}`
-    : `${pageTitle} - Buku edukasi terbuka Dawnbook. Pelajari ringkasan materi dan pembahasan lengkap bab ini.`;
+  let finalDescription = (isBookRoot && bookDescription)
+    ? bookDescription
+    : (lead || `${pageTitle} - Buku edukasi terbuka Dawnbook. Pelajari ringkasan materi dan pembahasan lengkap bab ini.`);
 
   // Trim to 160 chars max for optimal Google Search snippet CTR
   if (finalDescription.length > 160) {
@@ -268,12 +270,30 @@ async function processDirectory(
       const gaId = process.env.GA_MEASUREMENT_ID;
 
       let isGatedClientSide = false;
+      let bookDescription = "";
+      let isBookRoot = false;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
       if (bookMatch) {
         const slug = bookMatch[1];
         const page = decodeURIComponent(bookMatch[2] ?? "");
+
+        try {
+          const tomlContent = await readFile(
+            join(process.cwd(), `books/${slug}/book.toml`),
+            "utf-8",
+          );
+          const descMatch = tomlContent.match(/description\s*=\s*"(.*?)"/s);
+          if (descMatch) {
+            bookDescription = descMatch[1].replace(/\\"/g, '"');
+          }
+        } catch {}
+
+        if (page === "" || page === "index.html") {
+          isBookRoot = true;
+        }
+
         if (
           page !== "" &&
           page !== "index.html" &&
@@ -301,6 +321,8 @@ async function processDirectory(
         url,
         isGatedClientSide,
         gaId,
+        bookDescription,
+        isBookRoot,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");

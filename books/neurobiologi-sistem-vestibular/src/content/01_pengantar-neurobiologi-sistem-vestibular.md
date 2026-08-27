@@ -1,4 +1,4 @@
-## Pengantar Neurobiologi Sistem Vestibular
+## Pengantar Sistem Vestibular
 
 Selamat datang di penjelajahan mendalam mengenai salah satu sistem sensorik paling vital namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **siapa dan di mana kita berada dalam ruang**.
 

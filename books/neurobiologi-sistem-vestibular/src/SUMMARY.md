@@ -1,6 +1,6 @@
 # Summary
 
-- [Pengantar Neurobiologi Sistem Vestibular](content/01_pengantar-neurobiologi-sistem-vestibular.md)
+- [Pengantar Sistem Vestibular](content/01_pengantar-neurobiologi-sistem-vestibular.md)
 - [Anatomi Makroskopis: Labyrinth Tulang dan Membran](content/02_anatomi-makroskopis-labyrinth-tulang-dan-membran.md)
 - [Kanalis Semisirkularis: Mekanisme Pendeteksi Rotasi](content/03_kanalis-semisirkularis-mekanisme-pendeteksi-rotasi.md)
 - [Organ Otolit: Sakulus dan Utrikulus Sang Navigator Gravitasi](content/04_organ-otolit-sakulus-dan-utrikulus.md)
