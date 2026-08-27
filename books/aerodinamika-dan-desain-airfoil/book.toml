@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Aerodinamika dan Desain Airfoil"
+description = "Buku Aerodinamika dan Desain Airfoil membahas prinsip gaya angkat, hambatan udara, geometri sayap, kontrol aerodinamis, dan simulasi CFD."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Penerbangan"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
