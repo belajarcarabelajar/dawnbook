@@ -37,10 +37,14 @@ This file contains critical architectural decisions and strict rules for the Daw
 
 
 
-## 8. Mandatory SEO Meta Descriptions
+## 8. Mandatory SEO Meta Descriptions & Google SERP Compliance
 - **Mandatory Description Key:** Every book's `book.toml` MUST explicitly define a concise, SEO-optimized `description` field under `[book]` (100–160 characters).
-- **Automatic Tag Generation:** mdBook uses this `description` key to inject `<meta name="description" content="...">` into the `<head>` of every compiled chapter HTML page.
-- **Rule:** Never create or scaffold a book without adding its specific metadescription in `book.toml`.
+- **Google SERP Standard (110–160 Characters):** Meta descriptions MUST strictly adhere to Google SERP snippet guidelines:
+  1. **Root Book Page (`index.html`):** MUST use the authentic, curated `description` from `book.toml`.
+  2. **Chapter Pages (`content/*.html`):** MUST extract the lead opening sentence directly without duplicating the page or book title.
+  3. **Sentence & Word-Boundary Integrity:** Meta descriptions must NEVER truncate words in half (e.g. `m...`). Priority 1 is a complete, grammatically sound sentence within 160 characters. If a sentence exceeds 160 characters, truncate cleanly at the last complete word boundary before appending `...`.
+  4. **Punctuation & Cleanliness:** No stray whitespace before punctuation marks (e.g., no ` .` or ` ,`).
+- **Rule:** Never create, scaffold, or compile a book without verifying that all pages satisfy these Google SERP meta description standards.
 
 ## 9. Mandatory AI Brain Model Line-by-Line File Inspection (No Script-Only Formalities for LaTeX)
 - **STRICT MANDATE — AI BRAIN MODEL INSPECTION ONLY:** Every LaTeX audit and verification MUST be performed using the AI Agent's cognitive brain model through direct, line-by-line file reading (`view_file`) and manual inspection. Relying ONLY on automated scripts (like `check-latex-support.ts`) as a formality or lazy shortcut is STRICTLY FORBIDDEN. Automated check scripts are ONLY post-flight verification safety nets, NEVER a replacement for manual AI reading.

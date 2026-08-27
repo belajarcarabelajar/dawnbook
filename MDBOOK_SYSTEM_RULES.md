@@ -674,6 +674,20 @@ When authoring or editing the `Referensi` chapter:
 
 ---
 
+**R26 — Google SERP Meta Description Compliance Rule**
+
+*Statement:*
+All `<meta name="description">` tags across Dawnbook MUST strictly adhere to Google SERP snippet guidelines:
+1. **Length Target:** Length between 110–160 characters.
+2. **Root Book Landing Pages (`index.html`):** MUST use the exact, authentic `description` from `book.toml`.
+3. **Chapter Content Pages (`content/*.html`):** MUST extract the lead paragraph text directly WITHOUT prepending or duplicating the chapter or book title.
+4. **Sentence and Word Boundary Integrity:** Never truncate words in half (e.g. `m...`). Priority 1 is a complete, grammatically sound sentence within 160 characters. If a sentence exceeds 160 characters, truncate cleanly at the last complete word boundary before appending `...`.
+5. **Whitespace and Punctuation Cleanliness:** Ensure all whitespace before punctuation marks (e.g. ` .` or ` ,`) is normalized.
+
+*Acceptance check:* All generated HTML pages in `output/books/` contain a valid `<meta name="description">` satisfying length, non-duplication, and sentence/word-boundary standards.
+
+---
+
 
 ## 6. Security and Process Rules
 

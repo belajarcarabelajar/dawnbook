@@ -35,6 +35,40 @@ export interface InjectSeoOptions {
   isBookRoot?: boolean;
 }
 
+export function formatSerpDescription(text: string, maxLen = 160): string {
+  if (!text) return "";
+  let clean = text
+    .replace(/\\\(|\\\)/g, "")
+    .replace(/\[\^[^\]]+\]/g, "")
+    .replace(/\s+/g, " ")
+    .replace(/\s+([.,;:!?])/g, "$1")
+    .trim();
+
+  if (clean.length <= maxLen) {
+    return clean;
+  }
+
+  // 1. Prioritize complete sentence boundary (. ! ?) within maxLen
+  const firstChunk = clean.substring(0, maxLen);
+  const sentenceEndMatches = [...firstChunk.matchAll(/[.!?](?:\s|$)/g)];
+  if (sentenceEndMatches.length > 0) {
+    const lastSentenceEnd = sentenceEndMatches[sentenceEndMatches.length - 1];
+    const sentenceCut = clean.substring(0, lastSentenceEnd.index! + 1).trim();
+    if (sentenceCut.length >= 70) {
+      return sentenceCut;
+    }
+  }
+
+  // 2. Otherwise truncate cleanly at word boundary
+  const targetSub = clean.substring(0, maxLen - 3);
+  const lastSpaceIdx = targetSub.lastIndexOf(" ");
+  if (lastSpaceIdx > 60) {
+    return targetSub.substring(0, lastSpaceIdx).trim() + "...";
+  }
+
+  return targetSub.trim() + "...";
+}
+
 export function extractLeadText(html: string): string {
   const bodyMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
   if (!bodyMatch) return "";
@@ -44,6 +78,7 @@ export function extractLeadText(html: string): string {
   const clean = pMatch[1]
     .replace(/<[^>]+>/g, " ")
     .replace(/\s+/g, " ")
+    .replace(/\s+([.,;:!?])/g, "$1")
     .trim();
   return clean;
 }
@@ -73,16 +108,14 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
   // 1. Strip any pre-existing meta description to eliminate duplicates
   content = content.replace(/<meta\s+name=["']description["'][^>]*>\s*/gi, "");
 
-  // 2. Extract lead paragraph text for rich, unique snippet without repeating the title
+  // 2. Determine raw description based on page type
   const lead = extractLeadText(content);
-  let finalDescription = (isBookRoot && bookDescription)
+  const rawDescription = (isBookRoot && bookDescription)
     ? bookDescription
     : (lead || `${pageTitle} - Buku edukasi terbuka Dawnbook. Pelajari ringkasan materi dan pembahasan lengkap bab ini.`);
 
-  // Trim to 160 chars max for optimal Google Search snippet CTR
-  if (finalDescription.length > 160) {
-    finalDescription = finalDescription.substring(0, 157) + "...";
-  }
+  // 3. Format according to strict Google SERP guidelines (sentence & word-boundary aware, 110-160 chars)
+  const finalDescription = formatSerpDescription(rawDescription, 160);
 
   const escapedTitle = escapeHtml(pageTitle);
   const escapedDesc = escapeHtml(finalDescription);
