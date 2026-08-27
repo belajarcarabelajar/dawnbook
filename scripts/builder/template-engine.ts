@@ -107,7 +107,13 @@ ${gaTag}    <meta charset="UTF-8">
     <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
     <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,400..900;1,400..900&family=Syne:wght@400..800&display=swap"></noscript>
         <script src="/pake-compat.js" defer></script>
-    <link rel="icon" type="image/svg+xml" href="${isHome ? "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌅</text></svg>" : "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📓</text></svg>"}">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48x48.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/manifest.webmanifest">
     <link rel="stylesheet" href="/typography.css?v=${Date.now()}">
     <link rel="stylesheet" href="/tokens.css?v=${Date.now()}">
     <link rel="stylesheet" href="/HubLayout.css?v=${Date.now()}">
@@ -146,6 +152,7 @@ ${gaTag}    <meta charset="UTF-8">
                 <a href="/statistics.html" class="${title === "Statistics" ? "active" : ""}" ${title === "Statistics" ? 'aria-current="page"' : ""} data-i18n="hub.statistics">Statistics</a>
                 <a href="/contribute.html" class="${title === "Contribute" ? "active" : ""}" ${title === "Contribute" ? 'aria-current="page"' : ""} data-i18n="hub.contribute">Contribute</a>
                 <a href="/donate.html" class="${title === "Donate" ? "active" : ""}" ${title === "Donate" ? 'aria-current="page"' : ""} data-i18n="hub.donate">Donate</a>
+                <a href="/dmca.html" class="${title === "DMCA Notice" ? "active" : ""}" ${title === "DMCA Notice" ? 'aria-current="page"' : ""} data-i18n="hub.dmca">DMCA</a>
             </nav>
         </aside>
         <main id="main-content" class="hub-main">
@@ -257,6 +264,42 @@ ${gaTag}    <meta charset="UTF-8">
                 </div>
             </div>
         </div>
+    </div>
+  `;
+
+  const dmcaContent = `
+    <div class="content-panel">
+        <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="dmca.title">DMCA Notice & Copyright Policy</h2>
+        <p data-i18n="dmca.intro">Dawnbook respects the intellectual property rights of others and expects its users and contributors to do the same. This policy outlines our compliance with the Digital Millennium Copyright Act (17 U.S.C. § 512) and our notice-and-takedown procedures.</p>
+
+        <h3 style="color: var(--color-primary); margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm)" data-i18n="dmca.fairuse.title">1. Educational Mission & Fair Use</h3>
+        <p data-i18n="dmca.fairuse.body">Dawnbook is a non-profit, open-access educational platform. Content published on this platform may include brief quotations, scholarly citations, diagrams, and formulas utilized strictly for educational analysis, commentary, criticism, and scholarship under the Fair Use doctrine (17 U.S.C. § 107) and applicable copyright exceptions.</p>
+
+        <h3 style="color: var(--color-primary); margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm)" data-i18n="dmca.notice.title">2. Submitting a DMCA Takedown Notice</h3>
+        <p data-i18n="dmca.notice.body">If you are a copyright owner or an authorized agent thereof and believe that any content hosted on Dawnbook infringes upon your copyright, you may submit a formal notification in writing containing the following requirements:</p>
+        <ul style="padding-left: var(--spacing-lg); line-height: 1.7;">
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item1.strong">Authorized Signature:</strong> <span data-i18n="dmca.notice.item1.text">A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.</span></li>
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item2.strong">Identification of Work:</strong> <span data-i18n="dmca.notice.item2.text">Identification of the copyrighted work claimed to have been infringed, or a representative list of such works.</span></li>
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item3.strong">Location (URL):</strong> <span data-i18n="dmca.notice.item3.text">Identification of the material that is claimed to be infringing, including specific URLs on Dawnbook.</span></li>
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item4.strong">Contact Information:</strong> <span data-i18n="dmca.notice.item4.text">Your full legal name, physical mailing address, telephone number, and active email address.</span></li>
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item5.strong">Good Faith Statement:</strong> <span data-i18n="dmca.notice.item5.text">A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.</span></li>
+            <li style="margin-bottom: var(--spacing-xs)"><strong data-i18n="dmca.notice.item6.strong">Perjury & Accuracy Statement:</strong> <span data-i18n="dmca.notice.item6.text">A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner.</span></li>
+        </ul>
+
+        <h3 style="color: var(--color-primary); margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm)" data-i18n="dmca.agent.title">3. Designated Copyright Agent</h3>
+        <p data-i18n="dmca.agent.body">Please deliver all DMCA notifications to our designated copyright agent:</p>
+        <div style="background: var(--color-surface); border: 1px solid var(--color-secondary); padding: var(--spacing-md); border-radius: 8px; margin: var(--spacing-md) 0;">
+            <p style="margin: 0 0 var(--spacing-xs) 0;"><strong>Dawnbook Copyright Agent</strong></p>
+            <p style="margin: 0 0 var(--spacing-xs) 0;">BelajarCaraBelajar Open Knowledge Initiative</p>
+            <p style="margin: 0 0 var(--spacing-xs) 0;">Email: <a href="mailto:dmca@dawnbook.belajarcarabelajar.com" style="color: var(--color-primary); font-weight: 600;">dmca@dawnbook.belajarcarabelajar.com</a></p>
+            <p style="margin: 0;">Alternative Contact: <a href="mailto:iwan@dawnbook.belajarcarabelajar.com" style="color: var(--color-primary);">iwan@dawnbook.belajarcarabelajar.com</a></p>
+        </div>
+
+        <h3 style="color: var(--color-primary); margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm)" data-i18n="dmca.counter.title">4. Counter-Notification Procedure</h3>
+        <p data-i18n="dmca.counter.body">If your content was removed or disabled as a result of a DMCA notice and you believe this was due to mistake or misidentification, you may send a written counter-notification pursuant to 17 U.S.C. § 512(g)(3) containing your contact details, identification of the removed material, consent to jurisdiction, and statement under penalty of perjury.</p>
+
+        <h3 style="color: var(--color-primary); margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm)" data-i18n="dmca.repeat.title">5. Repeat Infringer Policy</h3>
+        <p data-i18n="dmca.repeat.body">In accordance with the DMCA and other applicable laws, Dawnbook maintains a policy of terminating, in appropriate circumstances, contributor privileges or account access for users who are deemed to be repeat infringers.</p>
     </div>
   `;
 
@@ -793,6 +836,10 @@ ${turnstileWidget}        <a id="google-signin-btn" href="#" style="display: inl
   await writeFile(
     join(outputDir, "sign-up.html"),
     generatePage("Sign Up", signUpContent),
+  );
+  await writeFile(
+    join(outputDir, "dmca.html"),
+    generatePage("DMCA Notice", dmcaContent),
   );
 
   const manifestData = {

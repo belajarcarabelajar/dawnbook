@@ -23,6 +23,9 @@ async function syncTemplate() {
     for (const entry of entries) {
         if (entry.isDirectory() && entry.name !== "_template" && !entry.name.startsWith(".")) {
             const bookTomlPath = join(booksDir, entry.name, "book.toml");
+            const hasToml = await stat(bookTomlPath).then(() => true).catch(() => false);
+            if (!hasToml) continue;
+
             try {
                 const bookContent = await readFile(bookTomlPath, "utf-8");
                 let newContent: string | null = null;
@@ -47,24 +50,26 @@ async function syncTemplate() {
                 // Ignore if book.toml doesn't exist
             }
 
-            // Sync theme/head.hbs for MathJax Rocket Loader bypass
-            try {
-                const templateHeadPath = join(booksDir, "_template", "theme", "head.hbs");
-                const headContent = await readFile(templateHeadPath, "utf-8");
-                const bookThemeDir = join(booksDir, entry.name, "theme");
-                const targetHeadPath = join(bookThemeDir, "head.hbs");
-                const existingHead = await readFile(targetHeadPath, "utf-8").catch(() => null);
+            // Sync theme assets (head.hbs, favicon.png, favicon.svg)
+            for (const asset of ["head.hbs", "favicon.png", "favicon.svg"]) {
+                try {
+                    const templateAssetPath = join(booksDir, "_template", "theme", asset);
+                    const assetBuffer = await readFile(templateAssetPath);
+                    const bookThemeDir = join(booksDir, entry.name, "theme");
+                    const targetAssetPath = join(bookThemeDir, asset);
+                    const existingBuffer = await readFile(targetAssetPath).catch(() => null);
 
-                if (existingHead !== headContent) {
-                    const prevHeadStat = await stat(targetHeadPath).catch(() => null);
-                    await mkdir(bookThemeDir, { recursive: true });
-                    await writeFile(targetHeadPath, headContent);
-                    if (prevHeadStat) {
-                        await utimes(targetHeadPath, prevHeadStat.atime, prevHeadStat.mtime);
+                    if (!existingBuffer || !existingBuffer.equals(assetBuffer)) {
+                        const prevAssetStat = await stat(targetAssetPath).catch(() => null);
+                        await mkdir(bookThemeDir, { recursive: true });
+                        await writeFile(targetAssetPath, assetBuffer);
+                        if (prevAssetStat) {
+                            await utimes(targetAssetPath, prevAssetStat.atime, prevAssetStat.mtime);
+                        }
                     }
+                } catch (e) {
+                    // Ignore if asset missing
                 }
-            } catch (e) {
-                // Ignore if head.hbs missing
             }
         }
     }
