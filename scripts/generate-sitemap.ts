@@ -15,6 +15,7 @@ export async function generateSitemap() {
   urls.push(`${baseUrl}/donate`);
   urls.push(`${baseUrl}/appreciation`);
   urls.push(`${baseUrl}/statistics`);
+  urls.push(`${baseUrl}/dmca`);
 
   async function scanDirectory(dir: string) {
     const entries = await readdir(dir, { withFileTypes: true });

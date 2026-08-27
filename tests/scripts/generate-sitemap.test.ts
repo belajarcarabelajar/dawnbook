@@ -16,6 +16,8 @@ describe("Generate Sitemap (scripts/generate-sitemap.ts)", () => {
 
     // Check that it includes the base URL
     expect(script).toContain("https://dawnbook.belajarcarabelajar.com");
+    // Check that it includes static hub pages
+    expect(script).toContain("${baseUrl}/dmca");
     // Check that it generates urlset XML
     expect(script).toContain("<urlset");
   });

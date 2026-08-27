@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Sistem Peringatan Dini (Early Warning System)"
+description = "Panduan komprehensif Sistem Peringatan Dini untuk mitigasi bencana, teknologi pemantauan, diseminasi informasi, dan kesiapsiagaan komunitas di Indonesia."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Keselamatan"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]

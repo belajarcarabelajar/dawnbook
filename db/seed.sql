@@ -1210,8 +1210,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2640,8 +2640,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -3721,8 +3721,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4916,8 +4916,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6101,8 +6101,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7215,8 +7215,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8135,8 +8135,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9400,8 +9400,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10446,8 +10446,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12049,8 +12049,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13101,8 +13101,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14372,8 +14372,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15625,8 +15625,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16597,8 +16597,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17852,8 +17852,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18467,8 +18467,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20304,8 +20304,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21669,8 +21669,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22775,8 +22775,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24112,8 +24112,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25754,8 +25754,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26786,8 +26786,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28238,8 +28238,915 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'sistem-peringatan-dini-early-warning-system',
+  'sistem-peringatan-dini-early-warning-system',
+  'Sistem Peringatan Dini (Early Warning System)',
+  'published',
+  'Keselamatan',
+  '<!-- Chapter: 01_pengantar-sistem-peringatan-dini -->
+
+## Pengantar Sistem Peringatan Dini
+
+Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat untuk menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
+
+Pertanyaan yang sering muncul: *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
+
+> Sistem peringatan dini yang efektif bukan tentang teknologi paling mahal, melainkan tentang orang terakhir di desa yang menerima info tepat waktu dan tahu apa yang harus dilakukan.
+
+Buku ini membantu kamu melihat gambaran besar tersebut tanpa jargon berlebih, mulai dari cara kerja peringatan sampai contoh penerapan di Indonesia.
+
+### Apa Itu Sistem Peringatan Dini
+
+*United Nations Office for Disaster Risk Reduction* (UNDRR) mendefinisikan sistem peringatan dini sebagai sistem terpadu untuk *pemantauan ancaman, penilaian risiko, diseminasi informasi, dan aktivasi respons*. Sensor saja tidak cukup. Tanpa jalur komunikasi yang jelas dan latihan respons, data secanggih apa pun tidak menyelamatkan siapa pun.
+
+Kamu dapat membayangkan sistem peringatan dini sebagai rantai dengan empat mata rantai:
+
+* **Pemantauan dan deteksi.** Sensor seismik, radar cuaca, satelit, dan laporan warga menangkap sinyal awal. Jaringan harus saling mencadangkan, jadi satu sensor mati tidak melumpuhkan sistem.
+* **Analisis dan pemodelan.** Data mentah diolah menjadi info ancaman, seperti estimasi tinggi gelombang atau peta rendaman banjir, lalu diuji dengan data historis.
+* **Diseminasi dan komunikasi.** Pesan dibuat singkat dan dapat ditindaklanjuti, disebar lewat sirene, SMS broadcast, radio komunitas, dan aplikasi ponsel.
+* **Kesiapsiagaan dan respons.** Sekolah, rumah sakit, dan pemerintah daerah sudah tahu rute evakuasi dan peran masing-masing sebelum sirene berbunyi.
+
+Jika satu mata rantai putus, seluruh rantai gagal. Evaluasi sistem peringatan dini selalu menilai keempat komponen sekaligus.
+
+#### Perbedaan Istilah yang Sering Tertukar
+
+Banyak orang menyamakan *advisory*, *watch*, dan *warning*. Padahal tingkatannya beda. *Advisory* memberi tahu potensi, *watch* meminta kamu bersiap, *warning* menuntut tindakan segera. Pemahaman ini membantu kamu menafsirkan pesan resmi tanpa menunda.
+
+### Mengapa Indonesia Membutuhkan Sistem Peringatan Dini yang Kuat
+
+Indonesia duduk di *Ring of Fire*, pertemuan Lempeng Indo-Australia, Eurasia, dan Pasifik, dengan 127 gunung api aktif dan zona megathrust di selatan Jawa dan Sumatera. Curah hujan tropis menambah risiko hidrometeorologi. Pesisir barat Sumatera rawan tsunami, lereng Merapi rawan aliran piroklastik, Jakarta dan Semarang rawan banjir rob.
+
+Data Badan Nasional Penanggulangan Bencana (BNPB) menegaskan urgensi. Sepanjang 2023, BNPB mencatat lebih dari 5.400 kejadian bencana, didominasi banjir dan longsor. Tahun 2021 dan 2022 menunjukkan pola serupa. Tren sepuluh tahun terakhir memperlihatkan frekuensi hidrometeorologi naik. Jeda antar kejadian memendek, jadi tanpa sistem peringatan dini yang andal, korban dan kerugian akan terus bertambah.
+
+Di wilayah dengan waktu rambat tsunami 20 sampai 40 menit, telat lima menit saja dapat menghapus peluang evakuasi. Di daerah aliran sungai padat, peringatan banjir yang telat satu jam membuat pompa tidak sempat aktif.
+
+### Analogi Sistem Imun Tubuh
+
+Bayangkan sistem peringatan dini seperti sistem imun tubuh kamu.
+
+Kulit dan selaput lendir adalah *sensor* yang merasakan penyusup pertama kali. Sel darah putih adalah *pusat analisis* yang mengenali apakah itu virus ringan atau patogen berbahaya. Otak dan saraf adalah *jaringan komunikasi* yang menyebar sinyal agar kamu bertindak. Memori imun adalah *kesiapsiagaan*, catatan infeksi lama yang membuat respons berikutnya lebih cepat.
+
+Sistem peringatan dini bekerja serupa. Seismometer dan tide gauge adalah kulit yang sensitif. BMKG, PVMBG, dan BNPB adalah sel darah putih yang menilai ancaman. Sirene, radio, dan grup WhatsApp warga adalah saraf pembawa pesan. Gladi evakuasi rutin adalah memori imun komunitas. Tanpa gladi, pengetahuan rute evakuasi memudar seperti antibodi yang menurun tanpa paparan ulang.
+
+### Bagaimana Risiko Dihitung Secara Sederhana
+
+Peringatan dini selalu terkait penilaian risiko. Model sederhana yang dipakai di pedoman nasional dan internasional merumuskan risiko sebagai fungsi ancaman, kerentanan, dan kapasitas.
+
+\\[ \text{Risiko} = \frac{\text{Ancaman} \times \text{Kerentanan}}{\text{Kapasitas}} \\]
+
+Dalam rumus ini, \\(\text{Ancaman}\\) adalah potensi bahaya seperti gempa besar atau hujan ekstrem. \\(\text{Kerentanan}\\) adalah kondisi yang membuat kamu mudah terdampak, misalnya hunian di bantaran sungai. \\(\text{Kapasitas}\\) adalah sumber daya untuk mengurangi dampak, seperti sistem peringatan dini, jalur evakuasi, atau dana darurat.
+
+Maknanya praktis. Kamu tidak selalu dapat mengecilkan ancaman, tetapi dapat menurunkan kerentanan dan menaikkan kapasitas, misalnya memindahkan arsip ke lantai atas atau ikut pelatihan evakuasi.
+
+### Waktu Respons Penentu Keselamatan
+
+Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai \\( T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi}} \\).
+
+Jika satu komponen membengkak, total waktu melewati jendela aman. Deteksi cepat tidak berguna bila diseminasi macet karena jaringan padat, atau warga ragu akibat peringatan palsu sebelumnya. Perbaikan sering bukan menambah sensor, melainkan memangkas \\( T_{\text{diseminasi}} \\) dengan jalur redundan dan memangkas \\( T_{\text{reaksi}} \\) dengan latihan.
+
+| Jenis Ancaman | Sensor Utama | Waktu Rambat Khas | Saluran Diseminasi yang Sering Dipakai |
+|---|---|---|---|
+| Gempa dan tsunami | Seismometer, tide gauge, buoy | 10 sampai 60 menit untuk tsunami dekat | Sirene, SMS broadcast, radio, pengeras masjid |
+| Erupsi gunung api | Seismik gunung, GPS deformasi, kamera termal | Jam sampai hari | HT, sirene desa, papan pos pantau |
+| Banjir | Radar cuaca, pos hujan, tinggi muka air | 1 sampai 6 jam di sungai menengah | Aplikasi peringatan, grup warga, kentongan |
+| Tanah longsor | Ekstensometer, curah hujan harian | Menit sampai jam setelah hujan lebat | Pengeras keliling, lonceng desa |
+
+Ancaman cepat butuh pesan pendek dan imperatif, ancaman lambat dapat memuat peta dan estimasi ketinggian.
+
+### Tujuan Buku Ini untuk Kamu
+
+Buku ini tidak mencetak kamu menjadi teknisi sensor. Tujuannya praktis: membantu kamu membaca sistem peringatan dini sebagai warga, relawan, guru, atau pengambil keputusan di kelurahan.
+
+1. Memberi kerangka utuh dari pemantauan sampai evakuasi, supaya kamu dapat menilai kelengkapan sistem di lingkungan kamu.
+2. Mengenalkan teknologi pemantauan dan pemodelan dengan bahasa membumi, termasuk batasannya.
+3. Menunjukkan cara menyusun pesan peringatan yang jelas dan membangun jalur cadangan saat listrik padam.
+4. Membekali kamu dengan latihan di rumah dan sekolah, seperti membuat peta evakuasi sederhana dan uji sirene.
+5. Mengajak kamu belajar dari studi kasus Indonesia, dari InaTEWS, sistem Merapi, hingga banjir Jakarta.
+
+Setiap bab ditutup dengan tindakan kecil untuk kamu coba minggu ini.
+
+### Jawaban untuk Pertanyaan yang Sering Diajukan
+
+**Apa itu sistem peringatan dini secara praktis?** Kesepakatan dan alur kerja yang membuat info ancaman sampai kepada kamu dengan cepat dan memicu tindakan yang sudah dilatih.
+
+**Apakah sistem peringatan dini dapat mencegah bencana?** Tidak. Fenomena alam tetap terjadi. Yang dapat dicegah adalah jatuhnya korban dan membengkaknya kerugian lewat evakuasi dini.
+
+**Mengapa peringatan terkadang meleset?** Karena ketidakpastian data, ambang batas sensitif, dan gangguan komunikasi. Sistem yang baik mengurangi meleset lewat kalibrasi dan evaluasi.
+
+**Apa yang dapat kamu lakukan hari ini?** Kenali sumber resmi di wilayah kamu, simpan dua saluran cadangan, hafalkan rute evakuasi terdekat, dan ajak satu anggota keluarga untuk gladi sepuluh menit.
+
+Dengan bekal ini, kamu punya peta jalan untuk menyelami anatomi ancaman di bab berikutnya, sehingga peringatan terasa konkret dan terhubung dengan keputusan kamu.
+
+
+<!-- Chapter: 02_konsep-dasar-ancaman-kerentanan-dan-risiko -->
+
+## Konsep Dasar Ancaman Kerentanan dan Risiko Bencana
+
+Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak, melainkan hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
+
+### Mengapa Empat Pilar Ini Penting
+
+Kerangka risiko modern bertumpu pada empat komponen: *ancaman*, *keterpaparan*, *kerentanan*, dan *kapasitas*. Risiko hanya muncul ketika keempatnya bertemu dalam ruang dan waktu yang sama. Jika satu komponen nol, risiko ikut nol.
+
+> **Definisi UNDRR:** *Ancaman* adalah proses, fenomena, atau aktivitas manusia yang dapat menyebabkan hilangnya nyawa, cedera, kerusakan properti, gangguan sosial ekonomi, atau degradasi lingkungan. *Kerentanan* adalah kondisi yang ditentukan oleh faktor fisik, sosial, ekonomi, dan lingkungan yang meningkatkan kepekaan terhadap dampak ancaman. *Keterpaparan* adalah keberadaan orang, aset, dan sistem di lokasi yang berpotensi terkena ancaman. *Kapasitas* adalah kombinasi kekuatan dan sumber daya yang tersedia untuk mengelola risiko.
+
+### Ancaman (Hazard): Sumber Potensi Bahaya
+
+Ancaman menggambarkan *potensi*, bukan kepastian. Sesar aktif di bawah laut adalah ancaman, begitu pula tumpahan bahan kimia di kawasan industri. Ancaman belum menjadi bencana sampai bertemu elemen yang rentan dan terpapar.
+
+Karakter ancaman meliputi lokasi, intensitas seperti magnitudo atau tinggi banjir, frekuensi, durasi, dan probabilitas periode ulang. Contoh di Indonesia meliputi gempa megathrust di Sumatra, letusan Gunung Merapi, banjir di daerah aliran sungai Ciliwung, dan kekeringan di Nusa Tenggara Timur.
+
+### Keterpaparan (Exposure): Siapa di Jalur Bahaya
+
+Keterpaparan menjawab pertanyaan *apa dan siapa yang berada di tempat bahaya terjadi*. Tanpa keterpaparan, tidak ada risiko. Pesisir padat permukiman dengan ancaman tsunami yang sama memiliki risiko jauh lebih tinggi daripada hutan lindung tanpa penduduk.
+
+Unsur keterpaparan mencakup penduduk dan kepadatan, aset ekonomi seperti rumah dan infrastruktur, layanan penting seperti rumah sakit dan jaringan listrik, serta aset lingkungan seperti mangrove. Peta keterpaparan membantu kamu menentukan siapa yang harus diperingatkan lebih dulu dan jalur evakuasi prioritas.
+
+### Kerentanan (Vulnerability): Mengapa Dampak Tidak Merata
+
+Kerentanan menjelaskan mengapa dua keluarga dengan tinggi banjir sama bisa pulih dengan kecepatan berbeda. Satu pulih seminggu, yang lain kehilangan mata pencaharian berbulan-bulan.
+
+#### Dimensi Kerentanan
+
+**1. Kerentanan fisik**
+Rumah tidak tahan gempa, permukiman di bantaran sungai tanpa tanggul, atau jalan mudah terputus saat longsor.
+
+**2. Kerentanan sosial**
+Lansia, anak-anak, penyandang disabilitas, atau komunitas tanpa akses informasi peringatan dini.
+
+**3. Kerentanan ekonomi**
+Rumah tangga berpendapatan harian tanpa tabungan atau asuransi lebih sulit pulih. Usaha kecil dengan aset terkonsentrasi mudah lumpuh.
+
+**4. Kerentanan lingkungan**
+Hilangnya hutan hulu meningkatkan limpasan banjir, rusaknya terumbu karang mengurangi perlindungan gelombang, alih fungsi rawa menghilangkan resapan.
+
+### Kapasitas (Capacity): Penyeimbang Risiko
+
+Kapasitas mencakup pengetahuan, keterampilan, kelembagaan, dan sumber daya untuk mencegah, mengurangi, merespons, dan pulih. Contohnya sistem peringatan dini yang berfungsi, tim siaga desa, dana cadangan, peta evakuasi yang dipahami warga, dan akses informasi cuaca.
+
+### Rumus Risiko: Menghubungkan Semua Variabel
+
+Secara konseptual, hubungan antar pilar sering ditulis sebagai perkalian. Bentuk paling sederhana adalah \\( \text{Risiko} \approx \text{Ancaman} \times \text{Kerentanan} \\).
+
+Model yang lebih lengkap memasukkan keterpaparan dan kapasitas:
+
+\\[ \text{Risiko} = \frac{\text{Ancaman} \times \text{Kerentanan} \times \text{Keterpaparan}}{\text{Kapasitas}} \\]
+
+Rumus ini adalah kerangka berpikir, bukan kalkulator angka tunggal. Jika \\( \text{Keterpaparan} = 0 \\) maka \\( \text{Risiko} = 0 \\) meski ancaman besar. Jika \\( \text{Kerentanan} \\) tinggi maka risiko melonjak bahkan pada ancaman sedang. Jika \\( \text{Kapasitas} \\) naik maka risiko turun tanpa harus menghilangkan ancaman seperti gempa.
+
+Untuk analisis kuantitatif, pendekatan probabilistik sering dipakai: \\[ \text{Risiko} = \text{Probabilitas Ancaman} \times \text{Konsekuensi} \\]
+
+### Tabel Perbandingan: Ancaman Alam vs Ancaman Antropogenik
+
+| Aspek | Ancaman Alam | Ancaman Antropogenik |
+| :--- | :--- | :--- |
+| **Sumber** | Proses geologi, hidrometeorologi, biologi | Aktivitas manusia, teknologi |
+| **Contoh di Indonesia** | Gempa bumi, tsunami, letusan gunung api, banjir, kekeringan | Kebakaran hutan akibat pembukaan lahan, banjir akibat alih fungsi lahan, kecelakaan industri |
+| **Keterprediksian** | Pola musiman atau siklus geologi dapat dipantau, waktu pasti sulit ditentukan | Terkait keputusan manusia sehingga dapat dicegah lewat regulasi, onset bisa sangat cepat |
+| **Pemicu berantai** | Gempa memicu tsunami dan longsor | Deforestasi memicu banjir dan longsor |
+| **Peran peringatan dini** | Sensor seismik, radar cuaca, pemantauan deformasi gunung api | Pemantauan hotspot, sensor kualitas air, inspeksi keselamatan industri |
+
+### Contoh Nyata di Indonesia
+
+#### Gempa Padang 2009
+
+Gempa magnitudo 7,6 mengguncang Sumatra Barat pada 30 September 2009. Ancaman dari zona patahan sudah dipetakan. Keterpaparan tinggi karena Kota Padang padat penduduk di pesisir.
+
+Perbedaan kerusakan ditentukan kerentanan fisik. Bangunan tanpa desain tahan gempa dan rumah bata tanpa perkuatan di atas tanah lunak rusak berat, sementara bangunan dengan standar tahan gempa tetap berdiri. Kapasitas saat itu masih terbatas dan informasi tsunami belum spesifik sehingga memicu kepanikan.
+
+#### Banjir Jakarta
+
+Jakarta menghadapi ancaman banjir tahunan dari luapan Ciliwung, hujan ekstrem, dan rob di pesisir utara. Keterpaparan sangat tinggi karena jutaan penduduk dan pusat ekonomi berada di dataran rendah.
+
+Kerentanan diperbesar permukiman padat di bantaran sungai, drainase yang tidak sebanding dengan pertumbuhan kawasan, dan penurunan muka tanah akibat ekstraksi air tanah. Kapasitas seperti Kanal Banjir Timur, pompa, dan telemetri membantu menahan risiko, tetapi ketika kapasitas tumbuh lebih lambat dari keterpaparan, risiko tetap tinggi.
+
+### Hubungan Dinamis Antar Konsep
+
+Keempat pilar saling mengunci:
+
+*   **Ancaman tanpa keterpaparan** tidak menjadi bencana. Letusan di pulau tak berpenghuni tetap ancaman.
+*   **Keterpaparan dengan kerentanan rendah** relatif aman. Kawasan terpapar banjir dengan bangunan terangkat dan peringatan terlatih rugi lebih kecil.
+*   **Kapasitas memotong rantai kerentanan.** Pengetahuan evakuasi dan akses peringatan mengubah dampak tinggi menjadi terkendali.
+*   **Risiko bersifat lokal dan temporal.** Risiko satu kelurahan berbeda dengan sebelah, dan risiko hari ini berbeda setelah perubahan tata guna lahan.
+
+### Pertanyaan yang Sering Muncul
+
+**Apa beda ancaman dan risiko?**
+Ancaman adalah potensi bahaya, risiko adalah peluang dan besaran kerugian ketika ancaman bertemu keterpaparan dan kerentanan. Ancaman kamu petakan, risiko kamu kelola.
+
+**Apakah risiko nol mungkin?**
+Tidak. Selama ancaman alam ada dan manusia bermukim, risiko tidak pernah nol. Tujuan pengelolaan adalah menekan risiko ke tingkat yang dapat diterima.
+
+**Mengapa banjir sama merusak satu kampung tetapi tidak kampung lain?**
+Karena perbedaan kerentanan dan kapasitas. Kualitas bangunan, kepadatan, akses informasi, dan kesiapan warga membuat dampak bervariasi meski tinggi air sama.
+
+**Bagaimana peringatan dini masuk dalam rumus?**
+Peringatan dini meningkatkan \\( \text{Kapasitas} \\). Dengan waktu tambahan beberapa menit hingga jam, kamu dapat mengurangi keterpaparan lewat evakuasi dan menurunkan kerentanan lewat tindakan antisipasi.
+
+Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko. Bab berikutnya membahas penerjemahan keempat pilar ini ke sistem peringatan dini operasional.
+
+
+<!-- Chapter: 03_sejarah-dan-evolusi-early-warning-system -->
+
+## Sejarah dan Evolusi Early Warning System Global
+
+Memahami *sejarah early warning system* membantu kamu melihat transisi dari kentongan dan pranata mangsa ke satelit dan sirene digital. Bab ini merunut evolusi dari kearifan lokal hingga kerangka global Hyogo dan Sendai, agar kamu menempatkan teknologi modern dalam konteks yang benar.
+
+### Akar Tradisional: Ketika Alam Dibaca Tanpa Sensor
+
+Jauh sebelum istilah *early warning* populer, komunitas pesisir dan pegunungan sudah membangun sistem peringatan berbasis pengalaman kolektif.
+
+#### Kentongan dan Sistem Bunyi Komunal
+
+Di Jawa dan banyak wilayah Indonesia, **kentongan** adalah protokol darurat. Pola pukulan membedakan ancaman, misalnya pukulan bertalu untuk kebakaran dan pukulan lambat untuk banjir. Efektivitasnya bergantung pada tiga hal:
+
+* **jangkauan suara** terbatas pada radius dusun
+* **kesepakatan makna** yang dipahami semua warga
+* **kesiagaan penjaga** yang siap memukul tanpa jeda
+
+Sistem ini murah dan tanpa listrik, tetapi lemah pada malam hari atau hujan lebat.
+
+#### Pranata Mangsa dan Pengetahuan Iklim Lokal
+
+*Pranata mangsa* membagi tahun menjadi 12 musim berdasar posisi bintang, arah angin, dan perilaku flora fauna. Nelayan membaca warna langit, petani mengamati migrasi capung, dan warga pesisir mencatat pasang surut untuk memprediksi paceklik atau banjir. Ini adalah *early warning* berbasis **observasi jangka panjang**. Kekuatannya pada kedekatan dengan alam, kelemahannya pada presisi waktu. Tidak ada angka pasti untuk jeda peringatan, padahal teori modern menghitungnya sebagai
+
+\\[ T_{\text{lead}} = T_{\text{kejadian}} - T_{\text{deteksi}} \\]
+
+dan sistem hanya berguna jika \\( T_{\text{lead}} > 0 \\) dengan margin cukup untuk evakuasi.
+
+### Instrumentalisasi Awal 1940-1990: Dari Sirene Perang ke Jaringan Meteorologi
+
+Perang Dunia II mempercepat kebutuhan peringatan dini:
+
+* **1940-an:** Sirene mekanik dan radar awal untuk peringatan serangan udara di Eropa.
+* **1950-an:** Pembentukan WMO 1950 mendorong standarisasi observasi cuaca via radio tiap tiga jam.
+* **1960-an:** Satelit *TIROS-1* 1960 membuka era penginderaan jarak jauh, siklon dapat dipantau sebelum mencapai darat.
+* **1970-an:** Telemetri muka air sungai otomatis di Jepang dan Amerika Serikat via kabel telepon.
+* **1980-an:** Jaringan seismograf global diperluas, waktu deteksi gempa turun menjadi beberapa menit, namun diseminasi masih via radio dan televisi.
+
+Akurasi naik, tetapi rantai informasi masih panjang.
+
+### Kerangka Global: Hyogo, Sendai, dan Empat Pilar UNESCO
+
+Dunia sepakat teknologi saja tidak cukup tanpa tata kelola.
+
+#### Hyogo Framework for Action 2005-2015
+
+Setelah tsunami Samudra Hindia 2004, 168 negara berkumpul di Kobe dan melahirkan **Hyogo Framework for Action (HFA)**. HFA menempatkan *early warning* sebagai prioritas kedua dari lima aksi. Pesan utamanya, peringatan dini harus *berpusat pada manusia*. Kamu tidak hanya memasang sensor, tetapi memastikan warga paham apa yang harus dilakukan saat alarm berbunyi.
+
+#### Sendai Framework 2015-2030 dan Target G
+
+Penerus HFA adalah **Sendai Framework for Disaster Risk Reduction 2015-2030** yang disahkan di Sendai Maret 2015. Dari tujuh target global, target G berbunyi:
+
+> Meningkatkan ketersediaan dan akses masyarakat terhadap sistem peringatan dini multi-ancaman serta informasi dan asesmen risiko bencana pada tahun 2030.
+
+Target ini mendorong negara berpindah dari sistem bahaya tunggal ke *multi-hazard*, satu platform untuk gempa, tsunami, banjir, longsor, dan cuaca ekstrem.
+
+#### Empat Pilar UNESCO-ISDR
+
+UNESCO bersama *International Strategy for Disaster Reduction* merumuskan empat pilar rujukan hingga kini:
+
+1.  ***Risk knowledge***, pemetaan bahaya dan kerentanan berbasis data.
+2.  ***Monitoring and warning service***, pemantauan berkelanjutan dengan ambang batas tervalidasi.
+3.  ***Dissemination and communication***, penyebaran pesan yang *jelas, konsisten, dan dapat dipahami* lewat banyak kanal.
+4.  ***Response capability***, kapasitas komunitas untuk bertindak, termasuk jalur evakuasi dan latihan rutin.
+
+Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan ada pada komunikasi dan respons, bukan deteksi.
+
+### Titik Balik Indonesia: Tsunami 2004 dan Lahirnya InaTEWS
+
+Gempa dan tsunami 26 Desember 2004 di Aceh menjadi titik balik Indonesia. Gelombang di atas 15 meter menewaskan lebih dari 160 ribu jiwa di Aceh dan lebih dari 230 ribu di Samudra Hindia. Saat itu Indonesia belum memiliki sistem peringatan tsunami operasional. Data gempa ada di BMKG, tetapi tidak ada kanal resmi untuk mengubah data menjadi perintah evakuasi dalam menit.
+
+Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar \\( T_{\text{lead}} \\) minimal 5 menit setelah gempa:
+
+* **Seismic network:** lebih dari 160 seismometer broadband ke BMKG Jakarta dalam kurang dari 2 menit.
+* **Sea level network:** *tide gauge* dan *buoy* untuk validasi gelombang.
+* **Decision Support System (DSS):** pemodelan cepat dengan basis skenario tsunami.
+* **Diseminasi berlapis:** sirene pesisir, *Warning Receiver System* di pemda, SMS blast, TV, radio, dan aplikasi *InfoBMKG*.
+
+Pelajaran bagi kamu, InaTEWS tidak berhenti pada alat. BMKG membangun *Standard Operating Procedure* berjenjang dan BNPB mendorong desa tangguh bencana untuk latihan rutin.
+
+### Evolusi Teknologi: Satelit, Sirene Digital, dan Peringatan Berbasis Seluler
+
+Perkembangan 2010-an hingga kini memperhalus keempat pilar sekaligus.
+
+**Penginderaan satelit** menyediakan data *near real time* seperti curah hujan *Global Precipitation Measurement*, deformasi tanah *InSAR*, dan tinggi muka laut altimetri. Data ini membuat \\( T_{\text{deteksi}} \\) lebih awal sehingga \\( T_{\text{lead}} \\) bertambah.
+
+**Sirene digital generasi baru** tidak lagi bernada tunggal. Sirene di Bali, Padang, dan Cilacap memutar pesan *“Peringatan tsunami, segera evakuasi ke tempat tinggi”* disertai lampu strobe.
+
+**Cell broadcast dan aplikasi** mengubah diseminasi dari *pull* menjadi *push*. Pesan muncul di layar bahkan saat jaringan sibuk karena memakai kanal terpisah dari SMS. Sensor banjir *LoRaWAN* di Jakarta membuat peringatan granular hingga kelurahan.
+
+Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 mm”* tetapi *“hujan 100 mm akan merendam 3 kelurahan sedalam 40 sampai 80 cm dalam 2 jam”*.
+
+### Tabel Timeline Evolusi EWS 1940-2024
+
+| Periode | Tonggak Utama | Ciri Teknologi | Capaian untuk Peringatan |
+| :--- | :--- | :--- | :--- |
+| 1940-1959 | Sirene perang, radar awal, WMO 1950 | Mekanik, analog | Peringatan bunyi, standarisasi cuaca |
+| 1960-1979 | TIROS-1 1960, jaringan seismograf global | Satelit optik, telemetri kabel | Deteksi siklon dari angkasa, monitoring gempa menit-an |
+| 1980-1999 | Telemetri sungai otomatis, Pacific Tsunami Warning Center diperkuat | Sensor elektronik, radio VHF | Peringatan banjir jam-an, koordinasi regional |
+| 2000-2005 | Tsunami Aceh 2004 | Seismometer broadband | Kesadaran global, komitmen HFA 2005 |
+| 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | \\( T_{\text{lead}} \\) 5 menit untuk tsunami, SOP nasional |
+| 2015-2024 | Sendai Framework 2015-2030, 4 pilar UNESCO, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
+
+### Apa Artinya Bagi Kamu
+
+Sejarah menunjukkan pola berulang. Kentongan gagal jika warga tidak sepakat arti bunyi, sirene gagal jika warga tidak tahu rute evakuasi, dan aplikasi gagal jika baterai habis saat gempa. Ketika kamu mengevaluasi EWS, tanyakan: *apakah risiko sudah dipahami, apakah pesan sampai dalam bahasa yang dimengerti, dan apakah warga sudah berlatih*. Jika ya, teknologi apapun dari kentongan hingga satelit akan memberi kamu waktu untuk selamat.
+
+
+<!-- Chapter: 04_kerangka-hukum-dan-kelembagaan-ews-di-indonesia -->
+
+## Kerangka Hukum dan Kelembagaan EWS di Indonesia
+
+Kerangka hukum dan kelembagaan menjadi tulang punggung sistem peringatan dini yang efektif di Indonesia. Tanpa landasan regulasi yang jelas, teknologi secanggih apa pun tidak akan mampu menyelamatkan nyawa karena alur komando menjadi kabur dan pembagian peran tumpang tindih. Kamu perlu memahami bagaimana negara merancang payung hukum dan jejaring lembaga agar peringatan dapat bergerak cepat dari sensor ke masyarakat.
+
+Pertanyaan kunci: *siapa yang berwenang mengeluarkan peringatan dini bencana di Indonesia dan apa dasar hukumnya?* Jawaban singkatnya ada pada dua undang-undang utama dan satu sistem nasional terpadu. Mari uraikan satu per satu.
+
+### 1. Landasan Hukum Utama
+
+Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada celah tanggung jawab.
+
+**Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana** menjadi undang-undang payung. Pasal 6 dan 46 menegaskan bahwa pencegahan termasuk peringatan dini adalah tanggung jawab pemerintah pusat dan daerah.
+
+> "Penyelenggaraan penanggulangan bencana meliputi tahap prabencana, saat tanggap darurat, dan pascabencana. Pencegahan dan kesiapsiagaan pada tahap prabencana wajib mengintegrasikan sistem peringatan dini."
+
+**Undang-Undang Nomor 31 Tahun 2009 tentang Meteorologi, Klimatologi, dan Geofisika** memberi mandat eksklusif kepada Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) untuk observasi, pengolahan, dan diseminasi informasi meteorologi, klimatologi, dan geofisika, termasuk peringatan dini cuaca ekstrem, gempa bumi, dan tsunami.
+
+**Peraturan Presiden Nomor 8 Tahun 2008 tentang Badan Nasional Penanggulangan Bencana (BNPB)** membentuk BNPB sebagai koordinator operasional penanggulangan bencana, sementara BPBD di tingkat provinsi dan kabupaten kota menjadi ujung pelaksana di daerah.
+
+#### Tabel Peran Lembaga Kunci
+
+| Lembaga | Mandat Hukum | Peran dalam EWS | Output |
+| --- | --- | --- | --- |
+| BMKG | UU 31/2009 | Pemantauan, analisis, dan penerbitan peringatan dini geofisika dan hidrometeorologi | Info gempa, tsunami, cuaca ekstrem |
+| BNPB | Perpres 8/2008 | Koordinasi nasional, pusat pengendalian operasi, dan diseminasi ke daerah | Perintah siaga dan mobilisasi |
+| BPBD | UU 24/2007 Pasal 18 | Pelaksana EWS di daerah, pengelolaan sirene lokal dan jalur evakuasi | Aksi evakuasi komunitas |
+| PVMBG | Kepmen ESDM | Pengamatan gunung api dan gerakan tanah | Level aktivitas gunung api |
+| Basarnas TNI Polri | UU terkait | Pencarian, pertolongan, dan pengamanan saat peringatan | Respons cepat |
+
+### 2. Arsitektur Kelembagaan InaTEWS
+
+Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun pasca tsunami Aceh 2004 melalui Instruksi Presiden, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai.
+
+Alur InaTEWS dapat kamu pahami sebagai rantai komando empat jam:
+
+1. **Deteksi:** Jaringan seismometer dan GPS BMKG menangkap gempa dalam 2 sampai 3 menit.
+2. **Analisis:** Decision Support System BMKG menghitung magnitudo dan potensi tsunami dalam 5 menit.
+3. **Diseminasi:** Peringatan diteruskan ke BNPB, BPBD, media, dan operator telekomunikasi untuk SMS blast dan TV overlay.
+4. **Respons:** Kepala daerah dan komunitas memutuskan evakuasi berdasarkan SOP lokal.
+
+Kecepatan rantai ini dapat dirumuskan secara sederhana sebagai
+
+\\[ T_{\text{total}} = T_{\text{deteksi}} + T_{\text{analisis}} + T_{\text{diseminasi}} + T_{\text{respons}} \\]
+
+dengan target \\( T_{\text{total}} < 5 \text{ menit} \\) untuk tsunami lokal. Jika salah satu mata rantai terlambat, seluruh sistem gagal meski magnitudo terdeteksi akurat.
+
+### 3. SOP dan Tantangan Koordinasi
+
+Setiap daerah wajib memiliki Standar Operasional Prosedur (SOP) yang selaras dengan SOP nasional, namun disesuaikan dengan karakteristik ancaman lokal. SOP yang baik memuat peta risiko, ambang batas evakuasi, daftar kontak berjenjang, dan latihan rutin.
+
+Tantangan yang sering muncul meliputi:
+
+- **Tumpang tindih kewenangan** antara pusat dan daerah saat peringatan dikeluarkan bersamaan.
+- **Keterbatasan anggaran daerah** untuk pemeliharaan sirene dan repeater.
+- **Literasi aparat desa** yang belum merata dalam membaca pesan peringatan teknis.
+
+Untuk mengatasi ini, BNPB mendorong program Desa Tangguh Bencana dan integrasi InAWARE sebagai dashboard bersama.
+
+> **Prinsip:** Hukum tanpa kelembagaan adalah teks mati, kelembagaan tanpa latihan adalah struktur kosong. Keduanya harus diuji lewat simulasi rutin.
+
+### 4. Apa yang Bisa Kamu Pelajari
+
+Sebagai warga, kamu tidak perlu menghafal pasal, namun kamu perlu tahu ke mana harus merujuk. Simpan nomor BPBD setempat, unduh aplikasi InfoBMKG dan InaRISK, dan kenali sirene di lingkungan kamu. Ketika pesan peringatan datang, rantai hukum sudah bekerja, tugas kamu adalah melengkapi rantai terakhir: bertindak cepat dan tertib.
+
+
+<!-- Chapter: 05_empat-pilar-utama-early-warning-system -->
+
+## Empat Pilar Utama Early Warning System
+
+Memahami **empat pilar early warning system** membantu kamu melihat mengapa sistem peringatan dini tidak bisa direduksi menjadi sensor dan sirene saja. Banyak kegagalan EWS bukan karena teknologi tidak ada, tapi karena satu pilar dibiarkan lemah sementara pilar lain diperkuat berlebihan. UNESCO melalui kerangka *people-centred EWS* menegaskan bahwa EWS efektif harus ditopang empat pilar yang saling terkait dan tidak terpisahkan.
+
+> Sistem peringatan dini yang berpusat pada manusia terdiri dari empat elemen yang saling berhubungan: pengetahuan risiko bencana, pemantauan dan layanan peringatan, diseminasi dan komunikasi, serta kemampuan respons. Kegagalan pada satu elemen dapat menyebabkan kegagalan seluruh sistem.
+> - UNESCO, *Early Warning Systems: A Checklist*
+
+Empat pilar bekerja sebagai rantai. Kekuatan sistem ditentukan pilar terlemah:
+
+\\[ P_{\text{sukses}} = P_{\text{risiko}} \times P_{\text{monitoring}} \times P_{\text{diseminasi}} \times P_{\text{respons}} \\]
+
+Jika \\( P_{\text{diseminasi}} \\) mendekati nol, maka \\( P_{\text{sukses}} \\) juga mendekati nol, seberapa pun canggih sensor yang kamu pasang.
+
+### Pilar 1: Pengetahuan Risiko (*Risk Knowledge*)
+
+Pilar pertama adalah fondasi. Pengetahuan risiko menggabung *bahaya*, *kerentanan*, dan *kapasitas*. Bahaya menjelaskan karakter ancaman seperti sumber gempa atau zona banjir kala ulang 25 tahun. Kerentanan menjelaskan siapa paling terdampak, termasuk kepadatan penduduk dan kualitas bangunan. Kapasitas menjelaskan sumber daya lokal yang bisa dimobilisasi.
+
+Langkah praktis:
+
+* **Inventarisasi bahaya** berbasis data historis seperti katalog gempa 50 tahun.
+* **Analisis kerentanan spesifik lokasi**. Di pesisir, kerentanan ditentukan elevasi dan akses jalan, bukan hanya jarak dari pantai.
+* **Pemetaan paparan** untuk sekolah, puskesmas, dan permukiman padat.
+* **Pembaruan berkala**, karena urbanisasi dapat mengubah peta risiko dalam 5 sampai 10 tahun.
+
+Di Jepang, peta risiko tsunami berbasis skenario megathrust menentukan penempatan sensor dan tinggi tanggul. Kegagalan umum adalah peta hanya tersedia di level kabupaten dan tidak turun ke skala desa.
+
+### Pilar 2: Pemantauan dan Layanan Peringatan (*Monitoring and Warning Service*)
+
+Pilar kedua adalah sistem saraf EWS. Tugasnya mendeteksi anomali dan memutuskan kapan peringatan dikeluarkan.
+
+Fungsinya terbagi dua: *monitoring* kontinu dan *forecasting* prediktif. Monitoring mengumpulkan data real time dari seismometer, tide gauge, atau radar cuaca. Forecasting mengolahnya menjadi prakiraan dengan *lead time* cukup untuk bertindak.
+
+Karakteristik layanan yang kuat:
+
+* **Akurasi dan kecepatan**. BMKG menargetkan peringatan gempa kurang dari 5 menit. Keterlambatan 10 menit bisa menghapus waktu evakuasi di dekat pantai.
+* **Ambang kuantitatif**. Status *waspada* ke *siaga* harus berdasar angka jelas, misalnya curah hujan \\( 100 \, mm \\) dalam 3 jam atau kenaikan muka air \\( 50 \, cm \\) per jam.
+* **Redundansi**. Satu sensor mati tidak boleh membuat sistem buta.
+* **Validasi silang** untuk menekan *false alarm*.
+
+*InaTEWS* mengintegrasi data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan: baterai tidak diganti atau jaringan putus.
+
+### Pilar 3: Diseminasi dan Komunikasi (*Dissemination and Communication*)
+
+Pilar ketiga menentukan apakah peringatan akurat benar-benar sampai dan dipahami. Tujuannya memastikan pesan *diterima*, *dipahami*, dan *dipercaya* dengan prinsip *clear, consistent, credible*.
+
+Elemen kunci:
+
+* **Saluran berlapis**. Kombinasi sirene, SMS broadcast, radio komunitas, pengeras suara masjid, dan grup WhatsApp.
+* **Pesan spesifik**. Ganti *waspada banjir* menjadi *TMA Katulampa 180 cm siaga 2, warga RW 03 dan 04 evakuasi ke aula kelurahan dalam 60 menit*.
+* **Bahasa dan format lokal**. Gunakan bahasa daerah dan simbol visual untuk wilayah literasi terbatas.
+* **Kepercayaan sumber**. Warga lebih patuh pada kepala desa atau relawan yang dikenal.
+
+Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio dan kentongan. Model serupa ada di lereng Merapi, di mana HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
+
+### Pilar 4: Kapasitas Respons (*Response Capability*)
+
+Pilar keempat menentukan apakah warga mampu bertindak benar setelah menerima peringatan. Kapasitas ini mencakup rencana, infrastruktur, dan latihan.
+
+Komponen utama:
+
+* **Rencana kontingensi dan SOP** spesifik per dusun, mencakup titik kumpul, jalur, dan tugas relawan.
+* **Infrastruktur** seperti rambu evakuasi dan shelter dengan akses bagi penyandang disabilitas.
+* **Edukasi dan simulasi rutin**. Tanpa latihan, waktu evakuasi bisa dua kali lebih lama.
+* **Pendataan kelompok rentan** dengan daftar *by name by address* di level RT.
+
+Di Kamaishi, Jepang, siswa selamat tinggi saat tsunami 2011 karena program *Tsunami Tendenko* yang melatih evakuasi mandiri. Di Indonesia, Desa Tangguh Bencana yang berlatih tiap 6 bulan mencatat waktu evakuasi lebih cepat. Pilar ini sering dianggap tugas BPBD saja, padahal tanpa partisipasi warga, rencana di kertas tidak berjalan saat sirene berbunyi malam hari.
+
+### Hubungan Antar Pilar Sebagai Rantai
+
+Keempat pilar bukan urutan linear, tapi *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
+
+Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
+
+#### Tabel Indikator Kematangan Tiap Pilar
+
+Gunakan tabel berikut sebagai *checklist* cepat. Beri skor 1 sampai 4 untuk tiap indikator.
+
+| Pilar | Indikator Kunci | Bukti Verifikasi | Target Minimal |
+| :--- | :--- | :--- | :--- |
+| **1. Risk Knowledge** | Peta bahaya skala desa diperbarui 5 tahunan | Dokumen peta + SK | Semua desa rawan punya peta |
+| **1. Risk Knowledge** | Data kerentanan kelompok rentan terdokumentasi | Daftar by name di RT | 100% kelompok rentan terdata |
+| **2. Monitoring Warning** | Sensor uptime >95% | Log operasional | Blank data <2 jam |
+| **2. Monitoring Warning** | SOP status berbasis ambang | Dokumen SOP + tabletop | SOP diuji 2 kali per tahun |
+| **3. Dissemination Communication** | Pesan diuji keterpahaman | Survei keterpahaman | >80% warga paham tindakan |
+| **3. Dissemination Communication** | Minimal 3 saluran aktif | Daftar saluran + uji | Sirene, radio, grup warga aktif |
+| **4. Response Capability** | Jalur evakuasi bertanda | Foto + peta jalur | Rambu di semua jalur |
+| **4. Response Capability** | Simulasi partisipatif | Berita acara | 1 simulasi per 6 bulan |
+
+Saat kamu mengisi tabel ini bersama BPBD dan perwakilan warga, kesenjangan antar pilar langsung terlihat. Dengan begitu **empat pilar early warning system** tidak berhenti sebagai konsep, tapi menjadi sistem yang memberi waktu menyelamatkan nyawa.
+
+
+<!-- Chapter: 06_teknologi-pemantauan-dan-sensor-kebencanaan -->
+
+## Teknologi Pemantauan dan Sensor Kebencanaan
+
+Teknologi pemantauan dan sensor adalah mata dan telinga sistem peringatan dini. Tanpa sensor yang andal, peringatan hanya akan menjadi dugaan, bukan keputusan berbasis data. Kamu akan melihat bagaimana Indonesia merangkai jaringan sensor dari dasar laut hingga atmosfer untuk menangkap tanda bahaya sedini mungkin.
+
+Pertanyaan awal yang relevan: *alat apa yang sebenarnya mendeteksi gempa, tsunami, atau banjir sebelum manusia merasakannya?* Jawaban terletak pada kombinasi fisika gelombang, radar, dan sistem satelit.
+
+### 1. Sensor Seismik dan Geodesi
+
+Untuk gempa bumi, BMKG mengoperasikan lebih dari 400 seismometer broadband yang tersebar dari Sabang sampai Merauke. Seismometer merekam getaran tanah dengan sensitivitas mikron, lalu mengirim data real time ke pusat pengolahan melalui VSAT.
+
+Prinsip dasar pengukuran kecepatan gelombang seismik dapat ditulis sebagai
+
+\\[ v = \frac{d}{t} \\]
+
+di mana \\( v \\) adalah kecepatan gelombang, \\( d \\) jarak, dan \\( t \\) waktu tempuh. Dari selisih waktu gelombang P dan S, sistem menghitung lokasi dan kedalaman gempa.
+
+Selain seismometer, jaringan GPS CORS mengukur pergeseran lempeng dalam orde milimeter per tahun. Data ini penting untuk memetakan daerah yang terkunci dan berpotensi menghasilkan gempa besar.
+
+> "Seismometer tidak memprediksi gempa, ia memberi tahu kita bahwa gempa baru saja terjadi dengan sangat cepat sehingga peringatan tsunami masih mungkin dikeluarkan."
+
+### 2. Sensor Tsunami dan Muka Air Laut
+
+Tsunami dipantau melalui tide gauge di pantai dan buoy DART di laut dalam. Tide gauge mengukur perubahan muka air setiap menit, sementara buoy DART mendeteksi perubahan tekanan air di dasar laut akibat lewatnya gelombang tsunami.
+
+#### Tabel Perbandingan Sensor Utama
+
+| Sensor | Besaran Diukur | Cakupan | Kecepatan Data | Keterbatasan |
+| --- | --- | --- | --- | --- |
+| Seismometer broadband | Getaran tanah | Nasional | Detik | Tidak mengukur tsunami langsung |
+| GPS CORS | Deformasi lempeng | Nasional | Menit | Perlu koreksi atmosfer |
+| Tide gauge | Muka air pantai | Pantai | Menit | Terpengaruh pasang surut |
+| Buoy DART | Tekanan dasar laut | Samudra Hindia | Menit | Biaya tinggi, vandalisme |
+| Radar Doppler | Curah hujan | Regional | 5 menit | Jangkauan 250 km |
+| AWS | Suhu, hujan, angin | Lokal | Menit | Perlu perawatan |
+
+### 3. Radar, Satelit, dan Sensor Hidrometeorologi
+
+Untuk banjir dan cuaca ekstrem, BMKG mengoperasikan radar Doppler C-Band yang memindai awan hujan setiap 10 menit. Data radar dikombinasikan dengan satelit Himawari-8 yang memberi citra awan setiap 10 menit dengan resolusi 500 meter.
+
+Magnitudo hujan dari radar diturunkan melalui hubungan empiris
+
+\\[ Z = a R^{b} \\]
+
+di mana \\( Z \\) adalah reflektivitas radar dan \\( R \\) laju hujan, dengan \\( a \\) dan \\( b \\) konstanta kalibrasi.
+
+Di darat, Automatic Weather Station (AWS) dan Automatic Rain Gauge (ARG) merekam hujan lokal yang kemudian diasimilasi ke model numerik WRF untuk prakiraan 3 harian.
+
+### 4. Internet of Things dan Sensor Komunitas
+
+Inovasi terbaru adalah sensor murah berbasis IoT: sensor tinggi muka air berbasis ultrasonik di sungai, sensor longsor berbasis inklinometer, dan pemancar LoRa yang mengirim data tanpa jaringan seluler. Sensor ini dapat dipasang warga bersama BPBD dengan biaya sepersepuluh sistem konvensional.
+
+Tantangan utama bukan pada kecanggihan alat, melainkan pada perawatan, kalibrasi, dan keberlanjutan daya di lokasi terpencil. Sensor yang mati karena baterai habis sama berbahayanya dengan tidak ada sensor sama sekali. Oleh karena itu, setiap pemasangan harus disertai skema pemeliharaan dan redundansi komunikasi.
+
+Sebagai penutup, teknologi tidak menggantikan kearifan. Sensor memberi angka, namun keputusan evakuasi tetap membutuhkan konteks lokal dan kepercayaan komunitas.
+
+
+<!-- Chapter: 07_sistem-peringatan-dini-gempa-dan-tsunami-inatews -->
+
+## Sistem Peringatan Dini Gempa Bumi dan Tsunami InaTEWS
+
+Sistem peringatan dini gempa tsunami InaTEWS merupakan tulang punggung perlindungan pesisir Indonesia yang dirancang untuk memberi peringatan dalam hitungan menit setelah gempa besar di laut. Indonesia berada pada pertemuan tiga lempeng aktif sehingga risiko gempa bawah laut dan tsunami tinggi di zona subduksi Sumatra, Jawa, Nusa Tenggara, Maluku, dan Papua. Dalam konteks itu sistem peringatan dini gempa tsunami InaTEWS tidak hanya berfungsi sebagai jaringan sensor melainkan sebagai rantai pengambilan keputusan yang menghubungkan deteksi seismik, analisis potensi tsunami, pemodelan perambatan gelombang, hingga penyampaian informasi kepada pemerintah daerah dan masyarakat pesisir.
+
+Arsitektur InaTEWS dibangun dengan target sekitar lima menit untuk penyebaran peringatan awal setelah gempa. Target tersebut ditetapkan Badan Meteorologi Klimatologi dan Geofisika sebagai pemegang mandat nasional. Jaringan mencakup lebih dari 160 stasiun seismometer broadband yang terhubung real time ke pusat pengolahan di Jakarta. Di pusat, perangkat lunak SeisComP melakukan picking otomatis fase P dan S, melokalisasi episenter, menghitung magnitudo, dalam kurang dari tiga menit. Penjalaran dapat diperkirakan dengan \\[ T_{\text{tsunami}} = \frac{D}{v} \\] dimana D adalah jarak sumber ke pantai dan v adalah kecepatan gelombang. Secara umum \\( v \approx 700 \text{ km/jam} \\) di laut dalam, sehingga jarak 150 kilometer ditempuh dalam kurang dari 15 menit. Karena itu target lima menit bersifat kritis.
+
+Setelah parameter gempa diperoleh, Decision Support System BMKG mengambil alih analisis tsunami. Sistem ini mengintegrasikan basis data skenario pra-hitung, deformasi dasar laut, batimetri, dan estimasi tinggi gelombang di segmen pantai terancam. Basis data berisi ribuan skenario untuk berbagai lokasi sumber, magnitudo, dan mekanisme patahan di zona megathrust dan sesar aktif lain. Sistem mencocokkan parameter real time dengan skenario terdekat untuk memperkirakan potensi dan dampak per wilayah. Operator kemudian memverifikasi kualitas sinyal, konsistensi magnitudo antarsensor, kedalaman, dan jenis sesar. Langkah ini menekan kesalahan magnitudo awal yang sering direvisi. Keputusan didasarkan pada ambang magnitudo di atas 7,0, kedalaman dangkal, dan lokasi di bawah laut.
+
+Hasil keputusan diterjemahkan ke dalam tiga tingkatan InaTEWS. Tingkat Awas menandakan perkiraan tinggi gelombang lebih dari tiga meter dan memerlukan evakuasi penuh di zona pesisir dan sempadan sungai. Tingkat Siaga menandakan perkiraan antara setengah meter hingga tiga meter dan tetap memerlukan evakuasi dari pantai serta muara sungai karena arus kuat berbahaya. Tingkat Waspada menandakan perkiraan kurang dari setengah meter yang tetap berbahaya bagi aktivitas di pantai dan pelayaran sehingga warga diminta menjauhi bibir pantai dan perahu tidak melaut sementara. Setiap produk BMKG menyebutkan eksplisit wilayah yang masuk Awas, Siaga, dan Waspada beserta perkiraan waktu tiba gelombang pertama dan rekomendasi.
+
+Penyebaran peringatan dari pusat ke daerah menggunakan jalur berlapis. BMKG mengirimkan peringatan melalui Warning Receiver System di kantor BPBD, pemerintah provinsi dan kabupaten kota, TNI, Polri, serta lembaga terkait melalui satelit dan internet dengan konfirmasi penerimaan. Jalur lain mencakup SMS broadcast, email, web, aplikasi InfoBMKG, serta sambungan ke televisi dan radio. Di tingkat lokal, pemerintah daerah meneruskan peringatan melalui sirene tsunami di kawasan padat pesisir, pengeras suara masjid dan kantor desa, radio komunitas,. Sirene dirancang menjangkau beberapa kilometer dan dilengkapi catu daya cadangan, namun efektivitasnya bergantung pada pemeliharaan rutin dan uji fungsi berkala.
+
+Komponen pemantauan muka laut melengkapi jaringan seismik untuk verifikasi. InaTEWS mengoperasikan tide gauge di pelabuhan dan pantai serta buoy di laut dalam. Tide gauge merekam perubahan muka air tiap menit dan mengonfirmasi anomali. Buoy dengan sensor tekanan dasar laut mendeteksi perubahan tekanan akibat lewatnya gelombang melalui satelit. Dalam praktik jumlah buoy yang beroperasi penuh sering terbatas karena cuaca ekstrem, hanyut, dan biaya tinggi. Karena itu prosedur BMKG menegaskan bahwa keputusan evakuasi tidak menunggu konfirmasi alat muka laut. Peringatan awal berbasis seismik tetap menjadi dasar utama untuk bertindak, sementara data muka laut digunakan untuk pembaruan dan pengakhiran peringatan.
+
+Studi kasus Aceh 2004 menggambarkan kondisi sebelum InaTEWS beroperasi. Gempa magnitudo 9,1 di zona subduksi barat Sumatra pada 26 Desember 2004 menghasilkan tsunami yang tiba di Banda Aceh dalam sekitar 15 sampai 20 menit. Pada saat itu Indonesia belum memiliki sistem peringatan tsunami nasional terintegrasi sehingga tidak ada peringatan resmi yang sampai ke masyarakat pesisir. Dampaknya sangat luas dengan korban jiwa besar dan kerusakan infrastruktur di banyak wilayah. Peristiwa ini mendorong pembentukan InaTEWS tahun 2005.
+
+Gempa Lombok 5 Agustus 2018 menunjukkan tantangan rangkaian gempa beruntun. Gempa magnitudo 7,0 di Lombok Utara pada kedalaman dangkal memicu peringatan tingkat Waspada untuk sebagian pesisir Lombok dan Bali. Peringatan kemudian diakhiri setelah tide gauge tidak menunjukkan tsunami signifikan. Kejadian ini menimbulkan diskusi publik karena warga merasakan guncangan kuat dan mengharapkan informasi lebih tegas. Evaluasi menunjukkan ambang prosedur telah diterapkan, namun komunikasi makna Waspada perlu diperkuat agar masyarakat memahami status tersebut tetap berarti menjauhi pantai.
+
+Gempa Palu 28 September 2018 memberi pelajaran tentang keterbatasan untuk sumber dekat. Gempa magnitudo 7,4 di darat dekat Teluk Palu memicu tsunami lokal yang tiba dalam sekitar 3 sampai 6 menit dengan tinggi beberapa meter di dalam teluk sempit. BMKG menerbitkan peringatan berbasis parameter awal, namun gelombang tiba hampir bersamaan dengan proses diseminasi. Karakter teluk sempit dan kemungkinan longsoran bawah laut membuat skenario berbasis subduksi kurang menangkap amplifikasi lokal. Beberapa tide gauge dan sirene di sekitar Palu tidak berfungsi optimal sehingga penyebaran lokal terhambat. Kasus ini menegaskan bahwa untuk sumber sangat dekat, peringatan formal tidak dapat menjadi satu-satunya andalan. Guncangan kuat harus langsung diikuti evakuasi mandiri.
+
+Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Prosedur menyatakan analisis parameter dilakukan dalam dua sampai tiga menit setelah gempa terekam, diikuti penentuan potensi tsunami melalui Decision Support System dalam satu sampai dua menit berikutnya, kemudian penerbitan produk informasi awal dalam total sekitar lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
+
+Alur end to end InaTEWS adalah perpindahan informasi dari sensor hingga tindakan tanpa jeda terputus. Tahap pertama adalah deteksi oleh jaringan seismometer dan pengiriman data real time ke pusat pengolahan. Tahap kedua adalah pengolahan otomatis dengan SeisComP dan verifikasi operator untuk menghasilkan parameter gempa andal. Tahap ketiga adalah analisis Decision Support System yang mencocokkan parameter dengan skenario dan menetapkan tingkat peringatan per wilayah. Tahap keempat adalah diseminasi melalui Warning Receiver System dan saluran publik ke pemerintah daerah, lembaga terkait, media, dan masyarakat. Tahap kelima adalah penerusan di daerah melalui sirene dan pengeras suara disertai keputusan evakuasi oleh bupati dan wali kota. Tahap keenam adalah pemantauan berkelanjutan dengan tide gauge, buoy, dan laporan lapangan untuk pembaruan, pengakhiran, dan evaluasi. Keberhasilan diukur dari apakah penduduk pesisir menerima pesan yang jelas dan bergerak ke tempat aman sebelum gelombang tiba.
+
+
+<!-- Chapter: 08_sistem-peringatan-dini-hidrometeorologi -->
+
+## Sistem Peringatan Dini Hidrometeorologi Banjir Longsor dan Cuaca Ekstrem
+
+Sistem peringatan dini hidrometeorologi banjir menjadi sistem yang paling sering diaktifkan dalam kalender bencana Indonesia karena curah hujan tinggi, topografi beragam, serta interaksi monsun dan sirkulasi ekuator yang memicu awan konvektif. Berbeda dengan gempabumi yang hampir tanpa jeda, ancaman hidrometeorologi memberi jendela beberapa jam hingga beberapa hari yang dapat dimanfaatkan untuk evakuasi apabila observasi, pemodelan, dan diseminasi terhubung tanpa putus. Bab ini membahas Flood Early Warning System dan Multi Hazard Early Warning System secara terpadu.
+
+Flood Early Warning System atau FEWS mengintegrasikan data hujan, tinggi muka air, dan prakiraan cuaca untuk proyeksi debit dan waktu tiba banjir di titik pantau. FEWS menghubungkan pos hujan telemetri, pos duga air otomatis, data satelit, dan keluaran model cuaca ke model hidrologi daerah aliran sungai. Di Indonesia FEWS dikelola Balai Besar Wilayah Sungai untuk daerah aliran sungai prioritas seperti Ciliwung, Bengawan Solo, Brantas, dan Kapuas. Kenaikan hujan di hulu diterjemahkan menjadi prakiraan muka air di hilir.
+
+Multi Hazard Early Warning System atau MEWS memperluas FEWS dengan menggabungkan beberapa ancaman yang dipicu hujan yang sama. Hujan ekstrem sering memicu banjir, banjir bandang, longsor, dan angin kencang bersamaan sehingga peringatan terpisah per sektor membingungkan pemerintah daerah. MEWS menyatukan keluaran BMKG, Pusat Vulkanologi dan Mitigasi Bencana Geologi, dan instansi sumber daya air dalam satu kerangka ambang dan pesan. Dengan MEWS, peringatan banjir untuk suatu kecamatan dapat dirilis bersamaan dengan peringatan longsor dan cuaca ekstrem.
+
+Radar cuaca memberi keunggulan waktu untuk prakiraan sangat pendek. Konsep radar cuaca berbasis Doppler mendeteksi reflektivitas hujan dan struktur sel konvektif dengan resolusi sekitar satu kilometer dan pembaruan setiap enam hingga sepuluh menit. Produk radar memungkinkan nowcasting dua sampai tiga jam ke depan, penting untuk hujan lokal yang tumbuh cepat dan sering luput dari model kasar. BMKG mengoperasikan lebih dari tiga puluh unit radar di Sumatera, Jawa, Kalimantan, Sulawesi, dan Papua untuk layanan radar cuaca operasional.
+
+Model Weather Research and Forecasting atau WRF mengubah kondisi awal atmosfer menjadi proyeksi beberapa hari ke depan. WRF yang dijalankan BMKG mengasimilasi data satelit Himawari, radiosonde, dan stasiun permukaan untuk menghasilkan prakiraan akumulasi hujan, tekanan permukaan, profil angin, dan indeks ketidakstabilan terkait pembentukan cumulonimbus. Resolusi beberapa kilometer memungkinkan WRF menangkap pengaruh orografi dan konvergensi angin di wilayah kepulauan. Keluaran WRF dipakai sebagai panduan probabilistik, bukan angka pasti di titik tertentu.
+
+Skala banjir diperlukan agar peringatan memiliki bahasa seragam antara petugas dan warga. Konsep skala banjir pada pos duga air mengacu pada tinggi muka air yang dikaitkan dengan status siaga. Siaga empat menandakan kondisi normal tanpa potensi luapan. Siaga tiga menunjukkan kenaikan yang perlu diwaspadai dengan debit yang mulai memenuhi bantaran. Siaga dua menandakan potensi banjir yang memerlukan kesiapan evakuasi bagi permukiman rendah. Siaga satu berarti banjir dipastikan terjadi dan memerlukan evakuasi segera.
+
+Untuk daerah aliran sungai kecil hingga menengah yang belum memiliki model hidrologi rinci, metode rasional masih dipakai sebagai pendekatan awal untuk memperkirakan debit puncak. Formula ditulis sebagai \\[ Q = C \times I \times A \\] dimana \\( I \\) adalah intensitas hujan dalam milimeter per jam, C adalah koefisien limpasan yang mencerminkan tutupan lahan, dan A adalah luas daerah aliran sungai. Metode ini membantu menilai apakah hujan jam-jaman yang teramati akan melampaui kapasitas saluran.
+
+Peringatan dini longsor menggunakan logika berbeda karena dipengaruhi kondisi bawah permukaan. Konsep susceptibility atau kerentanan longsor memetakan wilayah yang secara bawaan lebih mudah bergerak berdasarkan kemiringan lereng, jenis batuan, struktur geologi, tutupan vegetasi, dan riwayat kejadian. Pusat Vulkanologi dan Mitigasi Bencana Geologi menerbitkan peta kerentanan gerakan tanah dengan klasifikasi rendah, menengah, dan tinggi. Peta ini dihubungkan dengan prakiraan hujan akumulasi untuk menentukan wilayah yang masuk daftar peringatan. Zona kerentanan tinggi yang menerima hujan di atas ambang tersebut masuk kategori waspada.
+
+Layanan cuaca ekstrem tiga harian BMKG merupakan hulu resmi rantai peringatan hidrometeorologi. Setiap hari BMKG merilis peta dan narasi yang mengidentifikasi provinsi yang berpotensi mengalami hujan lebat di atas lima puluh milimeter per hari, hujan sangat lebat di atas seratus milimeter per hari, angin kencang, dan gelombang tinggi untuk tujuh puluh dua jam ke depan. Layanan ini memberi waktu bagi pemerintah daerah untuk membersihkan drainase, memeriksa pompa, dan menyiapkan tempat pengungsian.
+
+Kasus Jakarta 2020 menggambarkan bagaimana rantai peringatan dan tindak lanjut diuji hujan ekstrem pada awal Januari 2020. Interaksi monsun Asia yang kuat, gelombang atmosfer ekuator, dan daerah konvergensi di Laut Jawa memicu pertumbuhan awan konvektif masif selama beberapa hari. Pos Halim mencatat hujan harian lebih dari tiga ratus tujuh puluh milimeter pada satu Januari, jauh melampaui kapasitas drainase. FEWS Ciliwung merekam kenaikan tinggi muka air dari Katulampa hingga Manggarai yang bergerak dari siaga empat menuju siaga satu.
+
+Kasus Banjarnegara pada Desember 2014 memberi pelajaran untuk dimensi longsor. Longsor di Dusun Jemblung Desa Sampang menimbun permukiman setelah hujan intensitas tinggi berlangsung beberapa hari pada lereng dengan kerentanan menengah hingga tinggi dan perubahan tata guna lahan yang mengurangi resapan. Peta kerentanan sebelumnya telah menandai wilayah tersebut sebagai rawan, namun peringatan berbasis ambang hujan belum diterjemahkan menjadi pengosongan sementara atau relokasi musiman. Kejadian ini menegaskan bahwa peringatan longsor tidak cukup tanpa penegakan tata ruang dan pemantauan lereng.
+
+Penerjemahan hujan menjadi keputusan siaga mengacu pada ambang batas yang disepakati secara lokal. Hujan harian di bawah dua puluh milimeter umumnya masih aman untuk sebagian besar daerah aliran sungai. Rentang dua puluh hingga lima puluh milimeter masuk waspada karena drainase mulai terbebani dan lereng dengan kerentanan menengah perlu dipantau. Rentang lima puluh hingga seratus milimeter masuk siaga karena potensi banjir lokal dan longsor pada zona kerentanan tinggi meningkat. Hujan di atas seratus milimeter per hari masuk kategori awas.
+
+Contoh narasi peringatan dini BMKG yang sering dirilis pada musim hujan menyebutkan potensi hujan intensitas sedang hingga lebat yang dapat disertai kilat dan angin kencang di wilayah Jawa Barat, Jawa Tengah, dan Jawa Timur pada dua hingga tiga hari ke depan, disertai imbauan agar masyarakat di daerah aliran sungai dan lereng perbukitan meningkatkan kewaspadaan terhadap banjir dan longsor serta agar nelayan memperhatikan gelombang tinggi di perairan selatan. Struktur pesan yang konsisten memudahkan tindak lanjut di daerah.
+
+Integrasi seluruh komponen menentukan apakah sistem peringatan dini hidrometeorologi benar benar melindungi warga. FEWS memberi angka tinggi muka air, radar memberi kepastian spasial, WRF memberi jendela beberapa hari, skala siaga memberi bahasa bersama, peta susceptibility memberi konteks lereng, dan layanan tiga harian memberi waktu untuk bersiap. Tanpa prosedur tetap yang menghubungkan keluaran tersebut ke pengambil keputusan lokal, peringatan akan berhenti di ruang monitor. Penguatan yang diperlukan meliputi latihan evakuasi berbasis ambang dan pemeliharaan telemetri rutin.
+
+<!-- Chapter: 09_sistem-peringatan-dini-gunung-api-dan-kekeringan -->
+
+## Sistem Peringatan Dini Gunung Api Kekeringan dan Multi Ancaman
+
+Sistem peringatan dini gunung api kekeringan menjadi komponen kunci manajemen risiko bencana Indonesia karena negeri ini memiliki lebih dari seratus gunung api aktif dan wilayah dengan keragaman iklim yang memicu kekeringan musiman. Ancaman letusan dan kekeringan tampak bertolak belakang dari sisi kecepatan, namun keduanya menuntut pemantauan berkelanjutan, ambang jelas, dan informasi yang dapat diterjemahkan menjadi tindakan di tingkat kabupaten dan desa. Pemahaman tentang sistem peringatan dini gunung api kekeringan membantu menjelaskan mengapa peringatan vulkanik bergerak dalam hari hingga minggu sementara peringatan kekeringan bergerak dalam hitungan bulan, dan mengapa keduanya perlu dihubungkan dalam kerangka multi ancaman yang terpadu.
+
+Pusat Vulkanologi dan Mitigasi Bencana Geologi atau PVMBG memegang mandat nasional untuk pemantauan gunung api. PVMBG mengelola pos pengamatan di setiap gunung api aktif yang dilengkapi seismograf, GPS kontinu, tiltmeter, dan peralatan gas. Data dikirim real time ke Bandung untuk analisis lintas parameter. Keputusan kenaikan atau penurunan tingkat diambil melalui evaluasi harian yang menilai tren. Informasi resmi diterbitkan melalui aplikasi MAGMA Indonesia yang menjadi rujukan pemerintah daerah dan warga.
+
+Tingkat aktivitas gunung api di Indonesia terdiri dari empat level. Level satu Normal menandakan aktivitas pada latar belakang tanpa anomali sehingga aktivitas warga berjalan biasa dengan tetap memperhatikan jarak aman kawah. Level dua Waspada menandakan aktivitas di atas latar belakang seperti peningkatan gempa vulkanik atau deformasi kecil sehingga pembatasan di sekitar kawah diberlakukan. Level tiga Siaga menandakan peningkatan lebih jelas menuju letusan dengan gempa yang semakin intens atau perubahan gas signifikan sehingga persiapan evakuasi parsial dan perluasan radius bahaya dilakukan. Level empat Awas menandakan letusan akan segera terjadi atau sedang berlangsung sehingga evakuasi penuh di dalam zona bahaya harus dilaksanakan.
+
+Metode deformasi menjadi indikator awal karena naiknya magma menekan batuan sekitar. GPS kontinu mengukur pergeseran milimeter hingga sentimeter, tiltmeter merekam perubahan kemiringan akibat pengembangan tubuh magma, dan interferometri radar satelit memetakan pola deformasi luas. Inflasi beberapa sentimeter selama minggu hingga bulan sering mendahului peningkatan seismisitas. Data diinterpretasikan dengan model sumber tekanan untuk memperkirakan kedalaman dan volume intrusi.
+
+Metode seismik memberi gambaran langsung tentang pergerakan fluida. Klasifikasi meliputi vulkanik dalam, vulkanik dangkal, tremor harmonik, tektonik lokal, dan guguran. Peningkatan vulkanik dalam menandakan suplai dari kedalaman, sedangkan peningkatan vulkanik dangkal dan tremor menunjukkan pergerakan magma di conduit. Jumlah kejadian per hari, energi kumulatif, dan kedalaman dipakai sebagai ambang untuk menaikkan tingkat. Aktivitas yang semula puluhan per minggu dapat meningkat menjadi ratusan per hari pada fase Siaga.
+
+Metode gas melengkapi deformasi dan seismik karena komposisi gas mencerminkan kedalaman magma. Pengukuran sulfur dioksida dengan spektrometer ultraviolet dan rasio gas dilakukan di kawah atau melalui wahana udara. Kenaikan fluks sulfur dioksida dari ratusan menjadi ribuan ton per hari sering menandakan magma yang semakin dangkal. Perubahan rasio karbon dioksida terhadap sulfur dioksida membantu membedakan degassing dalam dan dangkal. Kombinasi tiga metode mengurangi kesalahan tafsir.
+
+Karakter besar letusan sering dikaitkan dengan volume material piroklastik yang dikeluarkan. Hubungan tersebut dapat dinyatakan sebagai \\[ \text{VEI} = \log_{10} V + k \\] dimana \\( V \\) adalah volume tephra dalam meter kubik dan k adalah konstanta kalibrasi skala indeks letusan vulkanik. Nilai VEI dipakai untuk komunikasi bahaya relatif, perencanaan zona, dan perbandingan antar letusan, bukan sebagai ambang harian. Letusan dengan VEI lebih tinggi memerlukan radius evakuasi lebih luas dan durasi status Awas lebih lama.
+
+Kekeringan berkembang lambat dan dampaknya kumulatif sehingga memerlukan indikator berbeda. Kekeringan meteorologis berarti defisit curah hujan, hidrologis berarti penurunan debit sungai dan waduk, dan pertanian berarti kekurangan lengas tanah. BMKG menggunakan Standardized Precipitation Index atau SPI untuk menyeragamkan penilaian. SPI menghitung deviasi curah hujan terhadap rata rata historis sehingga nilai negatif menandakan lebih kering dari normal. SPI satu dan tiga bulan dipakai untuk peringatan pertanian, sedangkan SPI enam dan dua belas bulan dipakai untuk perencanaan air baku. Nilai nol hingga minus satu menandakan ringan, minus satu hingga minus dua menandakan sedang hingga berat, dan di bawah minus dua menandakan ekstrem.
+
+Konsep multi hazard early warning menyatukan peringatan gunung api, kekeringan, dan hidrometeorologi. Satu musim dapat memicu rangkaian risiko yang saling terkait. Musim kering panjang meningkatkan kekeringan dan membuat endapan abu yang belum terkonsolidasi mudah tererosi saat hujan pertama sehingga risiko lahar meningkat. Sistem multi ancaman menyelaraskan ambang, kalender musim, dan protokol evakuasi. PVMBG, BMKG, dan Badan Nasional Penanggulangan Bencana berbagi data melalui platform bersama sehingga pemerintah daerah menerima narasi yang konsisten.
+
+Erupsi Merapi 2010 menjadi rujukan efektivitas peringatan bertingkat. Sejak September 2010 deformasi terukur beberapa sentimeter, gempa vulkanik meningkat tajam, dan emisi gas naik. PVMBG menaikkan status dari Waspada menjadi Siaga pada akhir September, lalu menjadi Awas pada 25 Oktober 2010 dengan perluasan zona bahaya hingga dua puluh kilometer di sektor selatan. Letusan eksplosif terjadi 26 Oktober dan berlanjut dengan awan panas besar pada awal November yang mencapai lebih dari lima belas kilometer di alur Kali Gendol. Peringatan berjenjang memberi waktu evakuasi puluhan ribu warga. Evaluasi memperkuat prosedur perluasan zona dinamis berbasis arah bukaan kawah dan pemodelan awan panas.
+
+Sinabung di Karo Sumatera Utara memberi pelajaran tentang gunung api yang kembali aktif setelah sekitar empat ratus tahun istirahat. Meletus pada 2010 dan kembali memasuki fase panjang sejak 2013, Sinabung sering berada pada status Siaga dan Awas dalam durasi bulan hingga tahun dengan pertumbuhan kubah lava, guguran awan panas, dan lahar hujan. PVMBG menyesuaikan zona bahaya dengan arah guguran kubah dan sebaran abu. Tantangan utama adalah kejenuhan informasi pada warga yang lama di pengungsian dan keraguan untuk kembali. Kasus Sinabung menunjukkan bahwa peringatan dini harus dilengkapi komunikasi risiko tentang arti durasi status serta dukungan penghidupan selama pengungsian.
+
+Kekeringan di Nusa Tenggara Timur menggambarkan peran SPI dalam peringatan yang dapat ditindaklanjuti. Pada tahun El Nino kuat, SPI tiga bulan di banyak kabupaten NTT turun ke kategori sedang hingga berat sejak awal kemarau, diikuti prakiraan curah hujan di bawah normal. BMKG merilis buletin iklim yang mengidentifikasi wilayah dengan potensi kekeringan ekstrem dan merekomendasikan penyesuaian pola tanam, percepatan panen, dan penghematan air waduk. Daerah yang menindaklanjuti dengan benih tahan kering, pengaturan giliran air, dan penundaan tanam padi sawah mampu menekan gagal panen lebih rendah. Kasus ini menegaskan bahwa peringatan kekeringan efektif bila diterjemahkan menjadi kalender tanam dan alokasi air yang disepakati sebelum puncak musim kering.
+
+Matriks level PVMBG menghubungkan makna dan tindakan. Normal berarti aktivitas dasar dengan pemantauan rutin. Waspada berarti anomali terukur dengan pembatasan di kawah. Siaga berarti tren menuju letusan dengan persiapan evakuasi. Awas berarti letusan akan atau sedang berlangsung dengan evakuasi penuh. Informasi resmi melalui MAGMA Indonesia memuat imbauan agar masyarakat tidak memasuki zona bahaya, pemerintah daerah meningkatkan kesiapsiagaan, dan warga hanya merujuk pada PVMBG dan BMKG. Integrasi peringatan gunung api dan kekeringan juga menuntut latihan dengan horizon berbeda yang dapat digabung pada kalender kesiapsiagaan tahunan kabupaten.
+
+
+<!-- Chapter: 10_diseminasi-informasi-dan-komunikasi-risiko -->
+
+## Diseminasi Informasi dan Komunikasi Risiko
+
+Diseminasi informasi komunikasi risiko bencana menentukan apakah peringatan dini benar-benar menyelamatkan nyawa. Rantai peringatan hanya berhasil bila pesan dari pusat pemantauan sampai kepada penerima yang tepat dalam waktu cukup untuk bertindak. diseminasi informasi komunikasi risiko bencana sering gagal bukan karena sensor atau model, melainkan karena pesan berhenti di perantara atau tiba dalam format yang tidak dipahami. Bab ini membahas arsitektur diseminasi dari hulu ke hilir, peran last mile, standar pertukaran data, ragam kanal, prinsip komunikasi risiko, serta pelajaran dari Palu dan Merapi.
+
+Pesan peringatan memiliki ekonomi waktu. Nilai peringatan turun cepat bila terlambat, tidak jelas, atau tidak konsisten. Efektivitas diseminasi dapat digambarkan melalui hubungan \\[ R_{\text{efektif}} = R_{\text{pesan}} \times R_{\text{saluran}} \times R_{\text{penerima}} \\] dimana \\( R_{\text{efektif}} \\) adalah peluang penerima melakukan tindakan protektif, \\( R_{\text{pesan}} \\) adalah kejelasan isi, \\( R_{\text{saluran}} \\) adalah keandalan kanal, dan \\( R_{\text{penerima}} \\) adalah kesiapan penerima. Jika salah satu komponen rendah, hasil keseluruhan ikut rendah meski komponen lain kuat.
+
+### Last Mile dan Tantangan Hilir
+
+Last mile adalah segmen paling kritis antara titik terakhir infrastruktur resmi dan individu yang harus mengambil keputusan. Di Indonesia last mile mencakup kelurahan, kepala desa, pengelola pesisir, pengurus masjid, relawan Destana, serta kelompok nelayan dan petani. Karakter last mile sangat heterogen, meliputi wilayah seluler baik, blank spot, kawasan wisata musiman, serta permukiman padat bantaran sungai. Tantangan hilir meliputi keterlambatan penerusan, perubahan redaksi tiap simpul, kelelahan akibat false alarm, serta hambatan bahasa dan literasi.
+
+Pendekatan last mile yang efektif bertumpu pada pemetaan aktor sebelum bencana, daftar kontak yang diperbarui, dan latihan rutin. Pemberdayaan relawan lokal meningkatkan kepercayaan karena pesan datang dari figur yang dikenal. Latihan skenario memastikan warga memahami beda informasi, peringatan, dan perintah evakuasi, sementara umpan balik dua arah membantu pusat mengetahui titik buta.
+
+### Common Alerting Protocol dan Interoperabilitas
+
+Common Alerting Protocol atau CAP adalah standar terbuka berbasis XML untuk pertukaran peringatan lintas platform. CAP memungkinkan satu pesan master diterjemahkan otomatis ke berbagai kanal tanpa pengetikan ulang. Struktur CAP berisi pengenal, urgensi, keparahan, kepastian, wilayah dalam geocode dan polygon, instruksi tindakan, serta masa berlaku. Dengan CAP, pesan InaTEWS, BMKG, dan PVMBG dapat diformat seragam dan diteruskan ke TV, radio, aplikasi, dan sirene via gateway yang sama.
+
+Di Indonesia, interoperabilitas menjadi kunci karena banyak lembaga menghasilkan peringatan. CAP mengurangi duplikasi. Ketika BMKG merilis peringatan potensi tsunami, pesan CAP yang sama dapat memicu WRS New Generation, running text televisi, pemotongan siaran radio, notifikasi push InfoBMKG dan InaRISK, serta sirene di zona rawan. Penerapan CAP menuntut sinkronisasi daftar istilah ancaman dan peta wilayah agar mesin dan manusia menafsirkan pesan identik.
+
+### Kanal Diseminasi di Indonesia
+
+Indonesia mengoperasikan kombinasi kanal lama dan baru. SMS blast dan cell broadcast menjangkau ponsel massal tanpa aplikasi. Sirene pesisir memberi sinyal akustik untuk evakuasi segera di zona yang sudah dilatih. Televisi dan radio tetap vital karena jangkauan dan otoritasnya, terutama RRI dan TVRI yang wajib menyiarkan peringatan. Aplikasi InfoBMKG, InaRISK, dan MAGMA Indonesia menyediakan peta bahaya sesuai lokasi. WRS BMKG di kantor pemerintah, bandara, dan pelabuhan memastikan peringatan prioritas diterima.
+
+Setiap kanal memiliki profil kinerja berbeda sehingga perencanaan diseminasi memakai prinsip redundansi. Kombinasi kanal meningkatkan probabilitas penerimaan dan memberi alternatif bila satu infrastruktur terganggu oleh pemadaman listrik atau gangguan jaringan.
+
+| Kanal | Kelebihan | Kekurangan |
+| --- | --- | --- |
+| SMS blast dan cell broadcast | Jangkauan massal cepat, tidak butuh aplikasi | Tergantung jaringan seluler, isi terbatas |
+| Sirene pesisir | Sinyal instan di zona rawan, efektif untuk perintah evakuasi | Tidak bawa informasi rinci, perlu pemeliharaan |
+| Televisi | Jangkauan luas, visual peta jelas, kredibel | Butuh listrik dan perangkat, tidak mobile |
+| Radio | Tahan saat listrik terbatas, jangkauan lokal kuat | Tanpa visual, perlu penyiar siaga |
+| Aplikasi InfoBMKG dan InaRISK | Detail spasial interaktif, pembaruan berkala | Perlu smartphone dan data |
+| WRS BMKG | Jalur khusus pemerintah dan media, prioritas tinggi | Distribusi perangkat terbatas |
+
+Pemilihan kanal mempertimbangkan urgensi, sebaran geografis, dan ketahanan infrastruktur. Untuk tsunami belasan menit, sirene dan cell broadcast menjadi kanal pertama, diikuti radio dan televisi. Untuk banjir jam, aplikasi dan radio komunitas memberi pembaruan progresif. Untuk kekeringan bulan, buletin dan pertemuan desa lebih relevan.
+
+### Prinsip Komunikasi Risiko
+
+Komunikasi risiko mengikuti prinsip kecepatan, kejelasan, dan konsistensi. Kecepatan berarti pesan pertama dikirim segera setelah ambang terpenuhi, meski dengan ketidakpastian yang dinyatakan jujur. Kejelasan berarti bahasa sederhana, struktur baku, dan instruksi spesifik tentang wilayah, waktu, dan tindakan. Konsistensi berarti semua lembaga menyampaikan narasi selaras dan pembaruan diberi nomor urut.
+
+Prinsip tambahan meliputi transparansi dan segmentasi audiens. Segmentasi memastikan pesan untuk nelayan berbeda dengan warga pesisir. Evaluasi memakai indikator keterjangkauan, keterpahaman, dan ketertindakan.
+
+Daftar periksa redaksi pesan yang baik meliputi:
+
+- Sumber resmi disebut di awal
+- Jenis ancaman, lokasi, dan waktu kejadian atau perkiraan
+- Tingkat urgensi, keparahan, dan kepastian
+- Instruksi tindakan yang konkret dan batas waktu
+- Kanal untuk pembaruan dan kontak verifikasi
+
+### Studi Kasus Kegagalan dan Keberhasilan
+
+Gempa dan tsunami Palu 2018 menjadi contoh kegagalan hilir. Gempa magnitudo 7,4 memicu tsunami lokal yang tiba dalam menit di Teluk Palu. BMKG menerbitkan peringatan dalam lima menit pertama, kemudian mengakhiri setelah observasi. Di lapangan, listrik padam dan jaringan rusak menghambat penerusan, sirene tidak merata, dan banyak warga salah tafsir pengakhiran sebagai tanda aman lalu kembali ke pesisir padahal gelombang mendekat. Rantai last mile terputus dan latihan evakuasi belum membumi.
+
+Kontras terlihat pada Merapi 2010 sebagai keberhasilan bertingkat. Peningkatan deformasi, seismisitas, dan gas sejak September 2010 diterjemahkan menjadi kenaikan status dari Waspada ke Siaga lalu Awas dengan perluasan zona bahaya yang diumumkan berulang via radio komunitas, pertemuan desa, dan MAGMA. Pesan PVMBG konsisten, peta kawasan rawan disosialisasikan jauh sebelum krisis, dan jalur evakuasi dilatih. Saat erupsi 26 Oktober dan awan panas awal November tiba, puluhan ribu warga telah mengungsi. Keberhasilan Merapi berasal dari pemantauan andal, keputusan berbasis ambang, dan komunikasi yang dirawat bertahun-tahun.
+
+Pelajaran yang ditarik adalah teknologi hulu tidak menggantikan kerja sosial hilir. Palu menunjukkan peringatan tanpa kanal tahan gangguan dan literasi akan kehilangan daya. Merapi menunjukkan peringatan bertahap memberi waktu belajar dan meningkatkan kepatuhan.
+
+> Komunikasi peringatan yang efektif bukan hanya soal mengirim pesan lebih cepat, melainkan memastikan pesan dipahami, dipercaya, dan diterjemahkan menjadi tindakan oleh mereka yang paling berisiko. UNESCO menekankan bahwa sistem peringatan dini berpusat pada manusia menempatkan pendidikan publik, latihan, dan umpan balik komunitas sebagai inti, bukan pelengkap.
+
+Penguatan ke depan mencakup perluasan cell broadcast berbasis lokasi, integrasi CAP lintas kementerian, peremajaan sirene mandiri, serta dashboard kabupaten yang menggabungkan WRS, InaRISK, dan data lokal. Indikator keberhasilan perlu digeser dari kecepatan penerbitan ke persentase warga yang menerima, memahami, dan bertindak dalam window time tersedia.
+
+
+<!-- Chapter: 11_peran-komunitas-dan-kesiapsiagaan-masyarakat -->
+
+## Peran Komunitas dan Kesiapsiagaan Berbasis Masyarakat
+
+Sistem peringatan dini tidak akan efektif bila berhenti pada sensor dan sirene tanpa respons manusia di tingkat tapak. Karena itu peran komunitas kesiapsiagaan masyarakat bencana menjadi penentu apakah informasi ancaman benar-benar diterjemahkan menjadi tindakan penyelamatan. Teknologi mampu mendeteksi anomali seismik atau kenaikan muka air dalam hitungan detik, tetapi keputusan untuk bergerak, membantu tetangga, dan menuju titik kumpul tetap berada pada komunitas. Kesiapsiagaan berbasis masyarakat menempatkan warga bukan sebagai objek penerima bantuan, melainkan sebagai aktor utama yang mengenali risiko lokal, mengelola sumber daya, dan menjalankan rencana evakuasi secara mandiri sebelum bantuan eksternal tiba.
+
+### Pergeseran Menuju Community-Based Early Warning System
+
+Pendekatan konvensional yang bersifat *top-down* sering mengalami *last mile gap*. Informasi dari pusat peringatan sampai ke kabupaten, namun gagal dipahami atau dipercaya warga. *Community-based early warning system* menjawab kesenjangan tersebut dengan empat prinsip: partisipasi, desentralisasi, pemahaman konteks lokal, dan keberlanjutan.
+
+Dalam model ini, komunitas terlibat sejak pemetaan risiko. Warga mengidentifikasi daerah rawan banjir, jalur longsor, dan lokasi warga rentan melalui pemetaan partisipatif. Hasil tersebut dipadukan dengan data teknis BMKG, BNPB, atau BPBD untuk menyusun peta evakuasi yang realistis. Komunitas juga menentukan alat peringatan yang sesuai, mulai dari kentongan hingga pengeras suara masjid, sehingga peringatan terasa familiar.
+
+Kesiapan komunitas dapat dinyatakan secara sederhana melalui hubungan pengetahuan, latihan, dan sumber daya:
+
+\\[ K_{\text{siap}} = \frac{P_{\text{pengetahuan}} + P_{\text{latihan}} + P_{\text{sumberdaya}}}{3} \\]
+
+Nilai \\( K_{\text{siap}} \\) tinggi hanya bila ketiga komponen berkembang seimbang. Pengetahuan tanpa latihan menimbulkan kepanikan, latihan tanpa sumber daya menimbulkan kelelahan, dan sumber daya tanpa pengetahuan menimbulkan salah respons.
+
+### Struktur Formal di Tingkat Desa dan Kelurahan
+
+Kesiapsiagaan dilembagakan melalui tiga wadah utama: **Desa Tangguh Bencana (Destana)**, **Siaga Bencana Berbasis Masyarakat (Sibat) Palang Merah Indonesia (PMI)**, dan **Kelurahan Madani Pasti (KMP)** serta varian kelurahan tangguh di wilayah urban.
+
+*Destana* yang difasilitasi BNPB dan BPBD berfokus pada pembentukan forum pengurangan risiko bencana, kajian risiko desa, rencana kontinjensi, dan tim siaga. Keberhasilan Destana diukur dari kemampuan forum mengaktifkan pos komando saat status waspada, bukan sekadar kelengkapan dokumen.
+
+*Sibat PMI* menekankan relawan dusun dengan spesialisasi pertolongan pertama, dapur umum, penampungan, dan pemantauan ancaman. Keunggulan Sibat terletak pada jaringan relawan lintas desa dan pembinaan berjenjang yang memungkinkan mobilisasi cepat.
+
+*KMP* menyesuaikan konsep Destana untuk konteks perkotaan dengan kepadatan tinggi dan mobilitas penduduk. Penekanan berada pada komunikasi warga melalui grup pesan, pemetaan penghuni kos dan kontrakan, serta kerja sama dengan pengelola gedung.
+
+Ketiga model saling melengkapi: Destana pada tata kelola, Sibat pada relawan, dan KMP pada adaptasi urban. Integrasi di tingkat kecamatan menciptakan lapisan kesiapsiagaan berlapis.
+
+### Kearifan Lokal sebagai Penguat Peringatan
+
+Teknologi modern optimal bila selaras dengan pengetahuan lokal. Contoh paling terdokumentasi adalah ***smong*** dari Pulau Simeulue, Aceh. Kosakata smong merangkum gempa kuat, surut mendadak, dan dentuman yang diikuti perintah lari ke bukit. Pengetahuan yang ditransmisikan melalui *nandong* menyelamatkan ribuan jiwa pada tsunami 1907 dan 2004, sementara wilayah tanpa narasi serupa mengalami korban lebih besar.
+
+Di Jawa, **kentongan** menunjukkan adaptasi alat sederhana menjadi kode peringatan presisi. Pola pukulan membedakan jenis ancaman dan tingkat urgensi, misalnya pukulan *tintir* berulang untuk banjir atau pukulan cepat bertalu untuk kebakaran. Kentongan berada di pos ronda dan masjid sehingga jangkauannya merata dan tidak bergantung pada listrik atau sinyal seluler. Ketika kentongan dipadukan dengan pengeras suara dan grup WhatsApp warga, redundansi saluran justru meningkatkan kepercayaan.
+
+Pelajaran dari smong dan kentongan adalah kearifan lokal merupakan protokol evakuasi teruji lapangan. Tugas fasilitator adalah mendokumentasikan dan mengintegrasikannya ke prosedur operasi standar desa tanpa menghilangkan makna budaya.
+
+### Inklusivitas dan Kelompok Rentan
+
+Kesiapsiagaan yang mengabaikan difabel, lanjut usia, anak, dan ibu hamil akan gagal pada momen kritis. Inklusivitas mensyaratkan empat penyesuaian:
+
+- Pemetaan warga difabel berdasarkan jenis kebutuhan, termasuk pengguna kursi roda, tunanetra, tunarungu, dan difabel intelektual.
+- Penunjukan pendamping atau *buddy system* untuk setiap warga yang memerlukan bantuan mobilitas, dengan rotasi pendamping agar tidak bergantung pada satu orang.
+- Alat peringatan multi-modal: sirene dan kentongan untuk tunanetra, lampu strobo atau bendera warna untuk tunarungu, serta pesan sederhana dengan bahasa isyarat lokal.
+- Jalur dan titik kumpul yang dapat diakses, termasuk ramp, pegangan, dan permukaan tidak licin.
+
+Simulasi yang melibatkan warga difabel sejak perencanaan mengungkap hambatan tak terlihat, seperti selokan tanpa jembatan atau pintu terlalu sempit untuk kursi roda. Inklusivitas adalah tolok ukur mutu sistem.
+
+### Latihan Simulasi: Tabletop Exercise dan Full-Scale Drill
+
+Rencana yang tidak diuji hanya menjadi arsip. Dua metode latihan yang saling melengkapi adalah *tabletop exercise* dan *drill* lapangan.
+
+*Tabletop exercise* dilakukan di ruangan dengan skenario tertulis. Peserta terdiri atas kepala desa, tim siaga, perwakilan puskesmas, dan relawan Sibat yang mendiskusikan alur keputusan: siapa menerima informasi BMKG, siapa membunyikan kentongan, siapa membuka jalur evakuasi, dan siapa mendata warga di titik kumpul. Metode ini murah, fokus pada koordinasi, dan cocok untuk menyempurnakan prosedur tanpa mengerahkan massa.
+
+*Drill* melibatkan pengerahan fisik warga menuju titik aman sesuai target waktu. Di sini diuji kecepatan, ketertiban, dan fungsi alat. Kelebihan drill adalah mengukur waktu evakuasi aktual dan menemukan bottleneck seperti jembatan sempit atau persimpangan tanpa petugas. Kekurangannya membutuhkan sumber daya besar dan dapat menimbulkan kecemasan bila tidak disosialisasikan.
+
+Praktik terbaik menggabungkan keduanya berurutan: *tabletop* untuk menyepakati peran, lalu *drill* untuk menguji kesepakatan. Evaluasi mencatat waktu respons hingga warga terakhir tiba, jumlah warga rentan yang berhasil dievakuasi, dan kejelasan komunikasi antar pos.
+
+> Kerangka Aksi Hyogo 2005-2015 menegaskan bahwa peran komunitas merupakan inti pengurangan risiko bencana. Komunitas yang terinformasi, termotivasi, dan terlibat adalah kunci untuk memperkuat kapasitas lokal dalam mengantisipasi, menanggulangi, dan pulih dari dampak bencana melalui pengelolaan pengetahuan dan sumber daya yang partisipatif.
+
+### Indikator Desa Tangguh dan Keberlanjutan
+
+Untuk menilai apakah kesiapsiagaan telah melembaga, diperlukan indikator yang dapat diverifikasi. Tabel berikut merangkum indikator Desa Tangguh Bencana yang digunakan BPBD dan PMI sebagai acuan penilaian mandiri.
+
+| Dimensi | Indikator Verifikasi | Bukti Fisik |
+|---|---|---|
+| Tata Kelola | Forum PRB aktif dan SK Kepala Desa | SK, notulensi rapat |
+| Kajian Risiko | Peta ancaman dan kapasitas partisipatif | Peta dinding, data rentan |
+| Rencana | Rencana kontinjensi dan SOP peringatan | Dokumen, alur komando |
+| Sumber Daya | Tim siaga, logistik, dana cadangan | Daftar personel, gudang |
+| Peringatan | Alat redundan dan uji fungsi rutin | Kentongan, sirene, log mingguan |
+| Latihan | Tabletop dan drill tahunan | Laporan evaluasi, dokumentasi |
+| Inklusi | Data dan pendamping difabel | Daftar buddy system, jalur aksesibel |
+
+Desa yang memenuhi sebagian besar indikator mampu mempertahankan kesiapsiagaan meski terjadi pergantian kepala desa. Keberlanjutan dijaga melalui peraturan desa tentang penanggulangan bencana, alokasi dana desa untuk pemeliharaan alat dan pelatihan, serta regenerasi relawan melalui karang taruna.
+
+Ketika komunitas mampu membunyikan kentongan, memandu warga difabel, dan menindaklanjuti evaluasi drill, sistem peringatan dini bertransformasi dari proyek menjadi budaya.
+
+
+<!-- Chapter: 12_evaluasi-simulasi-dan-masa-depan-ews-berbasis-teknologi -->
+
+## Evaluasi Simulasi dan Masa Depan EWS Berbasis Teknologi
+
+Masa depan sistem peringatan dini ditentukan oleh seberapa jujur kita mengevaluasi kinerja masa lalu dan seberapa berani kita mengadopsi teknologi baru. Evaluasi tanpa data adalah opini, teknologi tanpa evaluasi adalah spekulasi. Bab ini mengajak kamu melihat sisi pengukuran dan proyeksi ke depan.
+
+Pertanyaan panduan: *bagaimana kita tahu bahwa sistem peringatan dini kita benar-benar bekerja dan apa yang akan mengubahnya dalam sepuluh tahun ke depan?*
+
+### 1. Metrik Kinerja: POD, FAR, dan Lead Time
+
+Tiga metrik utama digunakan secara internasional:
+
+- **Probability of Detection**
+
+\\[ \text{POD} = \frac{\text{Hit}}{\text{Hit} + \text{Miss}} \\]
+
+- **False Alarm Ratio**
+
+\\[ \text{FAR} = \frac{\text{False}}{\text{Hit} + \text{False}} \\]
+
+- **Lead Time**
+
+\\[ T_{\text{lead}} = T_{\text{kejadian}} - T_{\text{peringatan}} \\]
+
+di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \text{Miss} \\) kejadian terlewat, dan \\( \text{False} \\) peringatan tanpa kejadian. Idealnya \\( \text{POD} \\) mendekati 1, \\( \text{FAR} \\) mendekati 0, dan \\( T_{\text{lead}} \\) selama mungkin tanpa mengorbankan akurasi.
+
+> "Peringatan yang selalu benar namun datang terlambat sama tidak bergunanya dengan peringatan cepat yang selalu salah. Keseimbangan keduanya adalah inti Evaluasi."
+
+#### Tabel Target Kinerja Ideal vs Realita
+
+| Metrik | Target Sendai | Realita Indonesia 2020-2024 | Catatan |
+| --- | --- | --- | --- |
+| POD gempa >5 SR | >0.95 | 0.98 | Jaringan seismik padat |
+| FAR tsunami | <0.3 | 0.35 | Masih tinggi karena skenario konservatif |
+| Lead time tsunami lokal | 3 sampai 5 menit | 4 menit rata-rata | Perlu 2 menit lagi |
+| POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
+
+### 2. Simulasi: Tabletop hingga Full Scale
+
+Evaluasi tidak lengkap tanpa simulasi. Tiga tingkat latihan umum:
+
+1. **Tabletop Exercise:** Diskusi skenario di meja tanpa pengerahan fisik, menguji SOP dan alur komunikasi.
+2. **Drill:** Latihan parsial seperti uji sirene dan evakuasi satu dusun.
+3. **Full Scale Exercise:** Simulasi penuh dengan pengerahan BPBD, TNI, PMI, dan masyarakat selama berjam-jam.
+
+Setiap simulasi harus mencatat waktu tempuh evakuasi, kepatuhan warga, dan titik macet. Hasilnya menjadi masukan untuk merevisi peta jalur dan penempatan rambu.
+
+### 3. Masa Depan: AI, IoT, dan Digital Twin
+
+Tiga gelombang teknologi akan mengubah EWS:
+
+**Kecerdasan buatan untuk nowcasting.** Model machine learning dapat memprediksi hujan 1 sampai 2 jam ke depan dengan resolusi 1 km, lebih cepat dari model fisik konvensional. AI juga membantu memilah sinyal gempa dari derau industri.
+
+**Internet of Things masif.** Sensor murah di sungai, lereng, dan atap rumah warga akan mengalirkan data setiap detik melalui LoRa dan satelit LEO. Tantangannya adalah kurasi data dan daya tahan.
+
+**Digital twin kota.** Replika virtual kota yang mensimulasikan banjir atau tsunami secara real time memungkinkan kamu melihat dampak skenario sebelum terjadi dan menguji jalur evakuasi alternatif di layar.
+
+Peringatan personal melalui cell broadcast yang menargetkan ponsel di area terdampak spesifik, bukan seluruh provinsi, akan mengurangi kelelahan peringatan dan meningkatkan kepatuhan.
+
+### 4. Jalan Menuju 2030
+
+Target Kerangka Sendai G adalah meningkatkan ketersediaan sistem peringatan dini multi ancaman untuk semua orang pada 2030. Untuk Indonesia, ini berarti memperluas cakupan ke wilayah timur, memastikan perawatan sensor berkelanjutan, dan memperkuat literasi warga agar teknologi diterima bukan ditakuti. Masa depan EWS bukan sekadar alat lebih canggih, melainkan ekosistem di mana data, regulasi, komunitas, dan teknologi saling menguatkan.
+
+
+<!-- Chapter: 13_referensi -->
+
+## Referensi
+
+Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untuk studi, sitasi, dan pengembangan sistem operasional. Semua entri memakai format **APA 7th** dan setiap judul terhubung ke **tautan dalam** berupa DOI atau halaman resmi penerbit/lembaga. Jika kamu menulis skripsi atau laporan teknis, kamu bisa langsung klik tautan untuk verifikasi naskah sumber, bukan sekadar laman beranda. Daftar ini sengaja dikelompokkan agar kamu mudah menelusur kategori regulasi, kerangka global, pedoman UNESCO, dokumen BMKG/BNPB, dan jurnal tentang **InaTEWS**.
+
+> Tips sitasi: untuk regulasi Indonesia tulis tahun penetapan; untuk dokumen UNDRR/WMO/UNESCO cantumkan organisasi sebagai penulis korporat; untuk jurnal IOP/Springer gunakan DOI sebagai URL utama.
+
+### A. Peraturan dan Kebijakan Nasional
+
+- Indonesia. (2007). *Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana* (Lembaran Negara RI Tahun 2007 Nomor 66). Sekretariat Negara. [Undang-Undang Nomor 24 Tahun 2007 tentang Penanggulangan Bencana](https://peraturan.bpk.go.id/Details/244626/uu-no-24-tahun-2007)
+
+- Indonesia. (2009). *Undang-Undang Nomor 31 Tahun 2009 tentang Meteorologi, Klimatologi, dan Geofisika* (Lembaran Negara RI Tahun 2009 Nomor 139). Sekretariat Negara. [Undang-Undang Nomor 31 Tahun 2009 tentang Meteorologi, Klimatologi, dan Geofisika](https://peraturan.bpk.go.id/Details/39451/uu-no-31-tahun-2009)
+
+- Indonesia. (2008). *Peraturan Pemerintah Nomor 21 Tahun 2008 tentang Penyelenggaraan Penanggulangan Bencana*. Sekretariat Negara. [Peraturan Pemerintah Nomor 21 Tahun 2008](https://peraturan.bpk.go.id/Details/15899/pp-no-21-tahun-2008)
+
+- Badan Nasional Penanggulangan Bencana. (2008). *Peraturan Kepala BNPB Nomor 3 Tahun 2008 tentang Pedoman Pembentukan Badan Penanggulangan Bencana Daerah*. BNPB. [Perka BNPB No. 3 Tahun 2008](https://jdih.bnpb.go.id/dokumen/Peraturan/perka-nomor-3-tahun-2008)
+
+### B. Kerangka Global: Sendai dan Early Warnings for All
+
+- United Nations Office for Disaster Risk Reduction. (2015). *Sendai Framework for Disaster Risk Reduction 2015-2030* (A/RES/69/283). UN General Assembly. [Sendai Framework for Disaster Risk Reduction 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
+
+- United Nations Office for Disaster Risk Reduction, World Meteorological Organization, International Telecommunication Union, & International Federation of Red Cross and Red Crescent Societies. (2022). *Early warnings for all: Executive action plan 2023-2027*. WMO/UNDRR. [Early Warnings for All: Executive Action Plan 2023-2027](https://www.preventionweb.net/publication/early-warnings-all-executive-action-plan-2023-2027)
+
+- World Meteorological Organization. (2018). *Multi-hazard early warning systems: A checklist*. WMO. [Multi-Hazard Early Warning Systems Checklist](https://library.wmo.int/records/item/55800-multi-hazard-early-warning-systems-a-checklist)
+
+- United Nations Office for Disaster Risk Reduction & World Meteorological Organization. (2023). *Global status of multi-hazard early warning systems 2023*. UNDRR/WMO. [Global Status of Multi-Hazard Early Warning Systems 2023](https://www.undrr.org/reports/global-status-MHEWS-2023)
+
+### C. Pedoman UNESCO dan IOC untuk Sistem Peringatan Tsunami
+
+- UNESCO Intergovernmental Oceanographic Commission. (2024). *End-to-end tsunami early warning systems: Tsunami Programme*. IOC/UNESCO. [End-to-End Warning Systems - Tsunami Programme](https://tsunami.ioc.unesco.org/en/warningsystems)
+
+- UNESCO Intergovernmental Oceanographic Commission. (2013). *How to plan, conduct and evaluate UNESCO/IOC tsunami wave exercises* (IOC Manuals and Guides No. 58). UNESCO. [How to Plan, Conduct and Evaluate UNESCO/IOC Tsunami Wave Exercises](https://legacy2.ctic.ioc-unesco.org/sites/default/files/2022-04/How_to_Conduct_Exercises-English.pdf)
+
+- UNESCO Intergovernmental Oceanographic Commission. (2022). *Tsunami ready recognition programme: Guidelines for community preparedness*. IOC/UNESCO. [UNESCO-IOC Tsunami Ready Guidelines](https://unesdoc.unesco.org/ark:/48223/pf0000381494)
+
+### D. Dokumen Teknis InaTEWS, BMKG, dan BNPB
+
+- Badan Meteorologi, Klimatologi, dan Geofisika. (2010). *InaTEWS: Indonesia tsunami early warning system - Konsep dan implementasi*. BMKG & GITEWS. [InaTEWS - Konsep dan Implementasi](https://www.gitews.org/tsunami-kit/id/E2/sumber_lainnya/InaTEWS%20-%20Konsep%20dan%20Implementasi.pdf)
+
+- Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://cdn.bmkg.go.id/Web/INATEWS_Buku_Pedoman_Edisi_Kedua.pdf)
+
+- Badan Nasional Penanggulangan Bencana. (2023). *Katalog data kebencanaan Indonesia*. Pusat Data, Informasi dan Komunikasi Kebencanaan BNPB. [Data Bencana Indonesia BNPB](https://data.bnpb.go.id/)
+
+### E. Jurnal dan Publikasi Ilmiah tentang InaTEWS dan Peringatan Dini
+
+- Husrin, S., Annunziato, A., Prasetya, G. S., & Hidayat, R. (2022). *IDSL for tsunami early warning system in Indonesia*. *IOP Conference Series: Earth and Environmental Science*, *1117*(1), 012028. IOP Publishing. [IDSL for Tsunami Early Warning System in Indonesia](https://doi.org/10.1088/1755-1315/1117/1/012028)
+
+- Priohutomo, K., Setiawan, A., & Ikhwani, H. (2022). *Fatigue life prediction of mooring line on Indonesian tsunami early warning systems (Ina-TEWS) buoy*. *IOP Conference Series: Earth and Environmental Science*, *972*(1), 012011. IOP Publishing. [Fatigue Life Prediction of Mooring Line on Ina-TEWS Buoy](https://doi.org/10.1088/1755-1315/972/1/012011)
+
+- Atika, R., Aziz, A., & Prasetyo, Y. (2019). *Automatic tsunami early warning system based on open data of Indonesia Agency for Meteorological, Climatological, and Geophysics*. *Journal of Physics: Conference Series*, *1413*(1), 012012. IOP Publishing. [Automatic Tsunami Early Warning System Based on Open Data of BMKG](https://doi.org/10.1088/1742-6596/1413/1/012012)
+
+- Harig, S., Immerz, A., Weniza, W., Griffin, J., Weber, B., Babeyko, A., Rakowsky, N., Hartanto, D., Nurokhim, A., Handayani, T., & Weber, R. (2020). *The tsunami scenario database of the Indonesia tsunami early warning system (InaTEWS): Evolution of the coverage and the involved modeling approaches*. *Pure and Applied Geophysics*, *177*(3), 1379-1401. Springer Nature. [The Tsunami Scenario Database of InaTEWS](https://doi.org/10.1007/s00024-019-02305-1)
+
+- Angove, M., Arcas, D., Bailey, R., Carrasco, P., Coquit, E., Eblé, M. C., Fryer, G., Gica, E., Greer, S., Groen, M., Hebden, S., Hirsch, A., Jens, F., Kong, L., Le Goarant, C., Li, W., Masetti, R., McCreery, C., McKinney, A., ... & Titov, V. (2019). *Ocean observations required to minimize uncertainty in global tsunami forecasts, warnings, and emergency response*. *Frontiers in Marine Science*, *6*, 350. Frontiers. [Ocean Observations Required to Minimize Uncertainty in Global Tsunami Forecasts](https://doi.org/10.3389/fmars.2019.00350)
+
+- Basher, R. (2006). *Global early warning systems for natural hazards: Systematic and people-centred*. *Philosophical Transactions of the Royal Society A*, *364*(1845), 2167-2182. Royal Society Publishing. [Global Early Warning Systems for Natural Hazards](https://doi.org/10.1098/rsta.2006.1819)
+
+### Cara Memakai Daftar Ini
+
+- Untuk regulasi, cek *status berlaku* di **peraturan.bpk.go.id** dan **jdih.bmkg.go.id** karena perubahan peraturan bisa terbit setelah buku ini.
+- Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
+- Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
+- Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28950,8 +29857,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30302,8 +31209,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31595,8 +32502,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32647,8 +33554,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33750,8 +34657,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34471,8 +35378,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35679,8 +36586,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36980,8 +37887,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38030,8 +38937,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39094,8 +40001,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41124,8 +42031,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42309,8 +43216,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43479,8 +44386,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44610,8 +45517,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45828,8 +46735,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46989,8 +47896,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48695,8 +49602,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49558,8 +50465,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50765,8 +51672,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51718,8 +52625,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -52968,8 +53875,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54250,8 +55157,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55186,8 +56093,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56475,8 +57382,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-08-21T06:44:43.895Z',
-  '2026-08-21T06:44:43.895Z'
+  '2026-08-21T08:57:34.263Z',
+  '2026-08-21T08:57:34.263Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

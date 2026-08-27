@@ -11,6 +11,8 @@ describe("isPublicPath — public path matching", () => {
     expect(isPublicPath("/contribute.html")).toBe(true);
     expect(isPublicPath("/donate.html")).toBe(true);
     expect(isPublicPath("/appreciation.html")).toBe(true);
+    expect(isPublicPath("/dmca")).toBe(true);
+    expect(isPublicPath("/dmca.html")).toBe(true);
   });
 
   test("sign-in / sign-up pages are public", () => {
