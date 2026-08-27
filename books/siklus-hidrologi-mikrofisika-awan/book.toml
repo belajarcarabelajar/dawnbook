@@ -3,7 +3,7 @@ authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
 title = "Siklus Hidrologi & Mikrofisika Awan"
-description = "Buku Siklus Hidrologi & Mikrofisika Awan karya Iwan Kurniawan membahas dinamika air bumi, termodinamika atmosfer, pembentukan awan, dan mikrofisika presipitasi."
+description = "Buku Siklus Hidrologi dan Mikrofisika Awan membahas dinamika air bumi, termodinamika atmosfer, pembentukan awan, dan mikrofisika presipitasi."
 
 [preprocessor.dawnbook]
 optional = true

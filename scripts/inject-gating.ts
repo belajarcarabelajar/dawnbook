@@ -35,9 +35,19 @@ export interface InjectSeoOptions {
   isBookRoot?: boolean;
 }
 
-export function formatSerpDescription(text: string, maxLen = 160): string {
+export function decodeHtmlEntities(str: string): string {
+  return str
+    .replace(/&amp;/g, "&")
+    .replace(/&lt;/g, "<")
+    .replace(/&gt;/g, ">")
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, " ");
+}
+
+export function formatSerpDescription(text: string, maxLen = 155): string {
   if (!text) return "";
-  let clean = text
+  let clean = decodeHtmlEntities(text)
     .replace(/\\\(|\\\)/g, "")
     .replace(/\[\^[^\]]+\]/g, "")
     .replace(/\s+/g, " ")
@@ -60,27 +70,44 @@ export function formatSerpDescription(text: string, maxLen = 160): string {
   }
 
   // 2. Otherwise truncate cleanly at word boundary
-  const targetSub = clean.substring(0, maxLen - 3);
+  let targetSub = clean.substring(0, maxLen - 3);
   const lastSpaceIdx = targetSub.lastIndexOf(" ");
   if (lastSpaceIdx > 60) {
-    return targetSub.substring(0, lastSpaceIdx).trim() + "...";
+    targetSub = targetSub.substring(0, lastSpaceIdx).trim();
   }
 
-  return targetSub.trim() + "...";
+  // Strip trailing dangling prepositions/conjunctions before ellipsis
+  targetSub = targetSub
+    .replace(/\s+(di|ke|dari|pada|untuk|dengan|dan|atau|yang|ini|itu|sebagai|adalah|akan|telah|sudah|bisa|dapat|oleh)$/i, "")
+    .trim();
+
+  return targetSub + "...";
 }
 
 export function extractLeadText(html: string): string {
   const bodyMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
   if (!bodyMatch) return "";
   const body = bodyMatch[1];
-  const pMatch = body.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
-  if (!pMatch) return "";
-  const clean = pMatch[1]
-    .replace(/<[^>]+>/g, " ")
-    .replace(/\s+/g, " ")
-    .replace(/\s+([.,;:!?])/g, "$1")
-    .trim();
-  return clean;
+  const pMatches = [...body.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)];
+  if (pMatches.length === 0) return "";
+
+  let combined = "";
+  for (const m of pMatches) {
+    const cleanP = m[1]
+      .replace(/<[^>]+>/g, " ")
+      .replace(/\s+/g, " ")
+      .replace(/\s+([.,;:!?])/g, "$1")
+      .trim();
+    if (cleanP.length > 0) {
+      if (combined.length === 0) {
+        combined = cleanP;
+      } else {
+        combined += " " + cleanP;
+      }
+      if (combined.length >= 100) break;
+    }
+  }
+  return decodeHtmlEntities(combined);
 }
 
 export function normalizeInternalLinks(html: string): string {
@@ -115,10 +142,14 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
     : (lead || `${pageTitle} - Buku edukasi terbuka Dawnbook. Pelajari ringkasan materi dan pembahasan lengkap bab ini.`);
 
   // 3. Format according to strict Google SERP guidelines (sentence & word-boundary aware, 110-160 chars)
-  const finalDescription = formatSerpDescription(rawDescription, 160);
+  let finalDescription = formatSerpDescription(rawDescription, 155);
+  let escapedDesc = escapeHtml(finalDescription);
+  if (escapedDesc.length > 160) {
+    finalDescription = formatSerpDescription(rawDescription, 145);
+    escapedDesc = escapeHtml(finalDescription);
+  }
 
   const escapedTitle = escapeHtml(pageTitle);
-  const escapedDesc = escapeHtml(finalDescription);
   const escapedUrl = escapeHtml(url);
   const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
 

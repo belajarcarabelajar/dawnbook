@@ -49,18 +49,43 @@ async function checkSeo() {
             return;
           }
 
-          // R1: Title & Meta Description
+          // R1 & R26: Title & Meta Description (Google SERP Standard)
           if (!content.includes("<title>") || !content.includes("</title>")) {
             console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
             hasErrors = true;
           }
-          const descMatches = content.match(/<meta\s+name=["']description["'][^>]*>/gi) || [];
-          if (descMatches.length === 0) {
+          const descMatches = content.match(/<meta\s+name=["']description["']\s+content=["'](.*?)["'][^>]*>/i);
+          if (!descMatches) {
             console.error(`❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`);
             hasErrors = true;
-          } else if (descMatches.length > 1) {
-            console.error(`❌ [FAIL] ${relativePath} contains ${descMatches.length} duplicate <meta name="description"> tags! (R1)`);
-            hasErrors = true;
+          } else {
+            const desc = descMatches[1];
+            const allDescTags = content.match(/<meta\s+name=["']description["'][^>]*>/gi) || [];
+            if (allDescTags.length > 1) {
+              console.error(`❌ [FAIL] ${relativePath} contains ${allDescTags.length} duplicate <meta name="description"> tags! (R1)`);
+              hasErrors = true;
+            }
+
+            // R26 Check 1: Length check (160 char max)
+            if (desc.length > 160) {
+              console.error(`❌ [FAIL] ${relativePath} description exceeds 160 chars (${desc.length} chars): "${desc}" (R26)`);
+              hasErrors = true;
+            } else if (desc.length < 60) {
+              console.error(`❌ [FAIL] ${relativePath} description is too short (${desc.length} chars): "${desc}" (R26)`);
+              hasErrors = true;
+            }
+
+            // R26 Check 2: No stray spaces before punctuation
+            if (/\s+[.,;:!?]/.test(desc)) {
+              console.error(`❌ [FAIL] ${relativePath} description has stray space before punctuation: "${desc}" (R26)`);
+              hasErrors = true;
+            }
+
+            // R26 Check 3: No chopped single-letter word fragments (e.g. " m..." or " p...")
+            if (/\s[a-zA-Z]\.\.\.$/.test(desc)) {
+              console.error(`❌ [FAIL] ${relativePath} description truncates in the middle of a word: "${desc}" (R26)`);
+              hasErrors = true;
+            }
           }
 
           // R2: Canonical and Hreflang
