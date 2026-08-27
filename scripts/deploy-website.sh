@@ -28,9 +28,9 @@ if [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
   echo "❌ Error: CLOUDFLARE_ACCOUNT_ID environment variable is not set."
   exit 1
 fi
-CI=true PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin npx wrangler d1 migrations apply dawnbook-db --remote
+CI=true bunx wrangler d1 migrations apply dawnbook-db --remote
 
 echo "☁️  4. Deploying to Cloudflare Pages (dawnbook.pages.dev)..."
-PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin npx wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true
+bunx wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true
 
 echo "✅ Deployment complete! D1 binding 'DB' is active."

@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Neurobiologi Sistem Vestibular"
+description = "Panduan neurobiologi sistem vestibular, anatomi labirin, fisiologi sel rambut, jalur saraf, refleks keseimbangan, hingga patofisiologi klinis."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Kedokteran"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = true
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
