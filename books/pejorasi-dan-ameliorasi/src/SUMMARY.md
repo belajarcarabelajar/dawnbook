@@ -1,0 +1,15 @@
+# Summary
+
+- [Pengantar Perubahan Makna Kata](content/01_pengantar-perubahan-makna-kata.md)
+- [Konsep Dasar Ameliorasi](content/02_konsep-dasar-ameliorasi.md)
+- [Studi Kasus Ameliorasi dalam Bahasa Indonesia](content/03_studi-kasus-ameliorasi-dalam-bahasa-indonesia.md)
+- [Konsep Dasar Pejorasi](content/04_konsep-dasar-pejorasi.md)
+- [Studi Kasus Pejorasi dalam Bahasa Indonesia](content/05_studi-kasus-pejorasi-dalam-bahasa-indonesia.md)
+- [Faktor Sosial dan Budaya dalam Pergeseran Makna](content/06_faktor-sosial-dan-budaya-dalam-pergeseran-makna.md)
+- [Peran Politik dan Rekayasa Bahasa](content/07_peran-politik-dan-rekayasa-bahasa.md)
+- [Hubungan dengan Eufemisme dan Disfemisme](content/08_hubungan-dengan-eufemisme-dan-disfemisme.md)
+- [Proses Psikologis di Balik Perubahan Makna](content/09_proses-psikologis-di-balik-perubahan-makna.md)
+- [Analisis Diakronis](content/10_analisis-diakronis.md)
+- [Dampak Pergeseran Makna pada Etika Berbahasa](content/11_dampak-pergeseran-makna-pada-etika-berbahasa.md)
+- [Kesimpulan](content/12_kesimpulan.md)
+- [Referensi](content/13_referensi.md)

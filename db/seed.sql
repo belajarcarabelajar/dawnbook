@@ -1210,8 +1210,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2640,8 +2640,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -3721,8 +3721,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4916,8 +4916,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6101,8 +6101,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7215,8 +7215,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8135,8 +8135,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9400,8 +9400,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10446,8 +10446,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12049,8 +12049,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13101,8 +13101,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13120,7 +13120,7 @@ VALUES (
   'Kedokteran',
   '<!-- Chapter: 01_pengantar-neurobiologi-sistem-vestibular -->
 
-## Pengantar Neurobiologi Sistem Vestibular
+## Pengantar Sistem Vestibular
 
 Selamat datang di penjelajahan mendalam mengenai salah satu sistem sensorik paling vital namun sering kali terlupakan: **Sistem Vestibular**. Jika penglihatan memberi tahu kita di mana benda berada, dan pendengaran memberi tahu kita apa yang terjadi di sekitar, maka sistem vestibular memberi tahu kita **siapa dan di mana kita berada dalam ruang**.
 
@@ -14317,8 +14317,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15588,8 +15588,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16841,8 +16841,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17813,8 +17813,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19068,8 +19068,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19683,8 +19683,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21520,8 +21520,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22885,8 +22885,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23991,8 +23991,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25328,8 +25328,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26970,8 +26970,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28002,8 +28002,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29454,8 +29454,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30361,8 +30361,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31073,8 +31073,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32425,8 +32425,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33718,8 +33718,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34770,8 +34770,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35873,8 +35873,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36594,8 +36594,1138 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'pejorasi-dan-ameliorasi',
+  'pejorasi-dan-ameliorasi',
+  'Pejorasi dan Ameliorasi',
+  'published',
+  'Sastra',
+  '<!-- Chapter: 01_pengantar-perubahan-makna-kata -->
+
+## Pengantar Perubahan Makna Kata
+
+Perubahan makna kata mencerminkan evolusi peradaban manusia melalui pergeseran nilai rasa, fungsi sosial, dan konteks penggunaan bahasa dari masa ke masa. Fenomena ini terlihat jelas ketika kata "bapak", yang mulanya bermakna hubungan kekerabatan biologis, meluas menjadi sebutan penghormatan bagi pria yang lebih tua atau berkedudukan tinggi. Demikian pula kata "pelayan" yang dalam konteks niaga modern kerap digantikan oleh istilah "pramuniaga" demi memberikan kesan yang lebih profesional.
+
+Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
+
+### Memahami Semantik: Fondasi Makna
+
+Sebelum mendalami mekanisme pergeseran makna, pemahaman mengenai hakikat makna itu sendiri menjadi landasan utama. Semantik mengkaji relasi antara tanda kebahasaan (lambang) dengan konsep atau objek yang diwakilinya.
+
+Salah satu model klasik yang menjelaskan relasi ini adalah Segitiga Semiotik yang dikemukakan oleh C.K. Ogden dan I.A. Richards (1923):
+
+1. **Simbol (*Symbol*):** Bentuk bunyi, fonem, atau grafem tertulis (misalnya kata "kucing").
+2. **Pikiran atau Konsep (*Thought/Reference*):** Representasi mental dan pemahaman kognitif mengenai hewan mamalia karnivor berkaki empat yang mengeong.
+3. **Referen (*Referent*):** Entitas fisik atau objek nyata yang ada di dunia empiris.
+
+Hubungan antara simbol kebahasaan dan referen bersifat arbitrer atau manasuka. Tidak terdapat ikatan hukum alam yang mengharuskan hewan tersebut dinamai "kucing" dalam bahasa Indonesia atau *cat* dalam bahasa Inggris. Sifat arbitrer inilah yang membuka ruang luas bagi makna sebuah kata untuk bergeser, menyempit, meluas, atau bertukar nilai rasa sepanjang sejarah pemakaiannya.
+
+### Hakikat Perubahan Makna
+
+Perubahan makna merupakan proses evolusi semantis pada kosakata, sehingga makna yang dipahami pada era kontemporer dapat berbeda jauh dari makna aslinya pada masa lampau. Kajian terhadap fenomena ini ditinjau secara diakronis, yakni menelusuri perkembangan bahasa dalam lintasan waktu historis yang panjang.
+
+#### Analogi Nilai Tukar Kata
+
+Kosakata dalam suatu bahasa bekerja menyerupai mata uang dalam sistem ekonomi. Nilai tukar sebuah kata dapat menguat atau melemah seturut dinamika sosial budaya penuturnya:
+
+* Kosakata yang mulanya berposisi netral atau berkonotasi rendah dapat terangkat status sosialnya menjadi kata yang terhormat.
+* Kosakata yang awalnya memiliki derajat tinggi atau sakral dapat mengalami penurunan derajat hingga dinilai kasar atau peyoratif dalam percakapan sehari-hari.
+
+### Komponen Utama: Nilai Rasa dan Konotasi
+
+Kajian semantik membedakan antara makna leksikal yang tercantum secara objektif dalam kamus (**denotasi**) dan muatan afektif tambahan yang menyertai kata tersebut (**konotasi** atau nilai rasa).
+
+Nilai rasa merupakan asosiasi emosional, kultural, dan sosial yang melekat pada suatu bentuk kata. Faktor nilai rasa inilah yang menjadi motor penggerak utama dalam dua proses semantis penting, yaitu ameliorasi (peningkatan nilai rasa) dan pejorasi (penurunan nilai rasa).
+
+| Komponen Makna | Karakteristik Utama | Ilustrasi Contoh |
+| :--- | :--- | :--- |
+| **Denotasi** | Makna literal, objektif, bebas dari muatan emosional langsung. | Kata "babi" merujuk secara biologis pada hewan mamalia berkuku genap dari famili Suidae. |
+| **Konotasi** | Makna tambahan, asosiatif, subjektif, dan bermuatan nilai sosial. | Kata "babi" memuat nilai rasa peyoratif berupa umpatan, asosiasi ketamakan, atau kekotoran. |
+
+> Pergeseran makna kosakata umumnya bermula dari perubahan konotasi yang berlangsung secara luas di tengah masyarakat tutur. Ketika konotasi baru tersebut terinstitusionalisasi secara konsisten, ia akan mengkristal menjadi makna denotatif yang baru dalam leksikon bahasa.
+
+### Faktor Pendorong Pergeseran Makna
+
+Transformasi makna kosakata tidak berlangsung secara terisolasi, melainkan dipicu oleh interaksi berbagai faktor:
+
+1. **Perubahan Norma Sosial dan Budaya:** Pergeseran pandangan kolektif dapat mengubah kata yang mulanya biasa menjadi tabu, atau sebaliknya menjadikan istilah tertentu lebih dihargai.
+2. **Kebutuhan Eufemisme dan Penghalusan Bahasa:** Dorongan untuk menghindari ungkapan yang dinilai vulgar, menyakitkan, atau tabu melahirkan kosakata pengganti yang lebih santun.
+3. **Perkembangan Ilmu Pengetahuan dan Teknologi:** Kehadiran inovasi baru menuntut penamaan baru, sering kali dengan meminjam kata lama lalu memperluas cakupan maknanya (seperti penggunaan kata "tetikus" untuk peranti penunjuk komputer).
+4. **Kontak Bahasa dan Serapan Budaya:** Persentuhan dengan bahasa daerah maupun bahasa asing memperkaya variasi asosiasi dan mengubah persepsi penutur terhadap kata tertentu.
+
+### Dinamika Historis dalam Bahasa Indonesia
+
+Dalam lintasan sejarah bahasa Indonesia dan bahasa Melayu sebagai akarnya, pergeseran nilai kata dapat diamati melalui beberapa fase perkembangan:
+
+* **Periode Tradisional dan Feodal:** Penggunaan leksikon tertentu diatur secara ketat berdasarkan stratifikasi sosial istana dan hierarki kebangsawanan.
+* **Periode Kolonial:** Penyerapan kosakata dari bahasa Eropa (Belanda dan Portugis) membawa asosiasi prestise dan modernitas pada lapisan masyarakat tertentu.
+* **Periode Kemerdekaan dan Modern:** Perkembangan administrasi negara, pendidikan massal, dan media massa mendorong demokratisasi bahasa serta penataan kembali peristilahan formal.
+
+### Penerapan Praktis dan Relevansi Sosial
+
+Pemahaman terhadap dinamika semantis memberikan kepekaan pragmatis dalam komunikasi publik dan profesional.
+
+Sebagai contoh, dalam bidang komunikasi organisasi dan manajemen sumber daya manusia, pilihan kata untuk menyebut tenaga kerja membawa implikasi relasional yang berbeda. Penggunaan istilah "buruh", "karyawan", "pegawai", atau "mitra kerja" memiliki titik berat denotatif yang beririsan, tetapi menghasilkan resonansi konotatif yang berlainan terhadap:
+
+* Tingkat penghormatan dan pengakuan profesi.
+* Pembentukan iklim dan budaya kerja organisasi.
+* Respons psikologis serta persepsi masyarakat luas.
+
+### Rangkuman dan Arah Pembahasan
+
+Bahasa bekerja sebagai cermin yang merefleksikan peradaban penuturnya. Setiap pergeseran makna mencatat sejarah pemikiran, perubahan norma, dan dinamika interaksi antarmanusia.
+
+Pada bab-bab berikutnya, pembahasan akan membedah secara sistematis proses ameliorasi (peningkatan nilai rasa kata) dan pejorasi (penurunan nilai rasa kata), disertai analisis historis, etimologis, dan sosiolinguistis yang menyertainya.
+
+
+<!-- Chapter: 02_konsep-dasar-ameliorasi -->
+
+## Konsep Dasar Ameliorasi
+
+Ameliorasi merupakan proses perubahan semantik yang mengangkat nilai rasa suatu kata menjadi lebih sopan, terhormat, dan bermartabat dalam masyarakat.
+
+Dalam dinamika sejarah bahasa, kata-kata bukanlah entitas yang kaku dan statis. Kosakata terus beradaptasi mengikuti perkembangan peradaban, nilai sosial, dan kesepakatan kolektif para penuturnya. Suatu leksem yang pada masa lampau bernilai netral atau bahkan berkonotasi rendah dapat mengalami peningkatan derajat nilai rasa sehingga menempati posisi yang lebih santun dalam ragam resmi.
+
+### 1. Definisi dan Konsep Semantik
+
+Secara etimologis, istilah **ameliorasi** berakar dari bahasa Latin *melior* yang bermakna "lebih baik". Dalam bidang semantik leksikal, ameliorasi didefinisikan sebagai pergeseran makna kata yang menghasilkan nilai rasa lebih positif, halus, atau bernilai sosial lebih tinggi dibandingkan dengan makna terdahulu.
+
+Ibarat jenjang karier dalam organisasi profesi:
+
+- **Makna Awal:** Leksem berstatus netral atau berada pada hierarki sosial biasa.
+- **Proses Ameliorasi:** Terjadi pergeseran persepsi kultural dan apresiasi sosial di tengah masyarakat.
+- **Makna Baru:** Leksem menempati derajat kehormatan yang lebih tinggi dengan nilai rasa positif.
+
+Secara formal, apabila $V$ melambangkan fungsi nilai rasa (*value*) dari suatu leksem $K$, maka proses ameliorasi dirumuskan sebagai:
+
+<div>
+$$
+V(K_{\text{baru}}) > V(K_{\text{lama}})
+$$
+</div>
+
+> **Intisari Semantik:** Ameliorasi merupakan wujud transformasi evaluatif leksikal yang merefleksikan peningkatan martabat sosial suatu konsep dalam kesadaran penutur.
+
+### 2. Faktor Pendorong Terjadinya Ameliorasi
+
+Perubahan nilai rasa leksikal selalu berpijak pada dinamika sosiokultural masyarakat tuturnya. Faktor-faktor yang melandasi terjadinya ameliorasi antara lain:
+
+- **Perkembangan Norma Sosial:** Masyarakat memberikan apresiasi yang lebih tinggi terhadap kelompok atau profesi tertentu, sehingga memunculkan istilah baru yang lebih bermartabat.
+- **Tuntutan Kesantunan Berbahasa:** Komunikasi antarwarga masyarakat memerlukan pilihan kata yang menghargai lawan tutur guna menciptakan relasi yang harmonis.
+- **Institusionalisasi Bentuk Halus:** Bentuk penghalus yang awalnya digunakan sebagai ragam santun perlahan dibakukan menjadi istilah standar menggantikan leksem lama.
+
+### 3. Perbandingan Ameliorasi dan Eufemisme
+
+Ameliorasi dan eufemisme sama-sama berkenaan dengan kehalusan berbahasa, namun keduanya memiliki perbedaan mendasar dari sudut pandang linguistik historis:
+
+| Dimensi | Ameliorasi | Eufemisme |
+| :--- | :--- | :--- |
+| **Sifat Waktu** | Bersifat permanen dan terintegrasi dalam sistem leksikon historis. | Bersifat situasional sebagai strategi tuturan dalam konteks tertentu. |
+| **Mekanisme** | Kenaikan derajat nilai rasa secara diakronis pada leksem. | Pemilihan kata pengganti untuk melunakkan tabu atau kekasaran. |
+| **Contoh Kasus** | Kata *istri* yang kini berderajat resmi dan terhormat melampaui *bini*. | Penggunaan frasa *kamar kecil* sebagai pengganti *kakus* atau *WC*. |
+
+Analogi yang tepat: eufemisme berfungsi sebagai perangkat penyesuaian nada bicara sesaat, sedangkan ameliorasi merupakan penetapan status nilai rasa permanen dalam kamus mental masyarakat.
+
+### 4. Tahapan Mekanisme Pergeseran Makna
+
+Proses ameliorasi berlangsung secara bertahap melalui mekanisme psikososial dan kebahasaan yang berkesinambungan:
+
+1. **Fase Penggunaan Awal:** Suatu kata digunakan secara luas dalam tataran makna denotatif dasar tanpa muatan penghormatan khusus.
+2. **Fase Tuntutan Etis:** Muncul kesadaran sosial atau pertimbangan kemanusiaan untuk menyematkan rasa hormat yang lebih proporsional.
+3. **Fase Substitusi:** Bentuk leksikal baru atau bentukan morfemis afiksasi diperkenalkan ke dalam wacana publik.
+4. **Fase Pemantapan:** Masyarakat menyepakati penggunaan bentuk baru tersebut sebagai standar baku yang bernilai luhur.
+
+Dalam representasi teori himpunan, misalkan $S$ adalah himpunan leksem berkonotasi santun. Apabila leksem $x \notin S$ pada periode awal, maka melalui proses ameliorasi berlaku $x \in S$ pada periode mutakhir.
+
+### 5. Penerapan Bentuk Amelioratif dalam Komunikasi Resmi
+
+Penguasaan leksem hasil ameliorasi menunjang efektivitas komunikasi profesional, korespondensi kedinasan, dan penulisan ilmiah. Pilihan kata yang tepat mencerminkan kesantunan dan kecakapan pragmatik penuturnya.
+
+Sebagai ilustrasi dalam wacana administrasi kepegawaian:
+
+- **Ragam Netral / Kasual:** "Pencarian **pelayan** untuk kafetaria kantor."
+- **Ragam Amelioratif:** "Pembukaan formasi untuk posisi **pramusaji** atau **staf layanan**."
+
+Meskipun merujuk pada deskripsi tugas yang serupa, bentuk amelioratif menghadirkan penghargaan terhadap profesi yang bersangkutan sekaligus memperkuat citra kelembagaan.
+
+### 6. Contoh Riil Perubahan Nilai Rasa
+
+Beberapa contoh leksem yang telah mengalami pergeseran amelioratif dalam bahasa Indonesia:
+
+1. **Istri versus Bini:** Dahulu kata *bini* lazim dipakai secara netral. Dalam perkembangan bahasa Indonesia modern, kata *istri* menempati kedudukan yang lebih resmi, terhormat, dan santun.
+2. **Afiksasi *Tuna-*:** Penggunaan bentuk terikat *tuna-* (seperti *tunanetra*, *tunarungu*, *tunawisma*) menggantikan kata-kata yang dirasakan bernada peyoratif atau diskriminatif.
+
+> **Catatan Etika:** Penerapan kata hasil ameliorasi bertujuan menegakkan etika komunikasi dan memelihara martabat sesama manusia dalam tata pergaulan sosial.
+
+
+<!-- Chapter: 03_studi-kasus-ameliorasi-dalam-bahasa-indonesia -->
+
+## Studi Kasus Ameliorasi dalam Bahasa Indonesia
+
+Proses pergeseran makna amelioratif mengangkat nilai rasa kata menjadi lebih terhormat, sopan, dan beradab dalam dinamika sosial masyarakat Indonesia. Transformasi linguistik ini mencerminkan bagaimana sebuah kata mengalami peningkatan status rasa, dari bentuk yang awalnya bernilai netral atau bahkan berkonotasi rendah menjadi kosakata yang diterima di ruang-ruang formal dan terhormat.
+
+Bahasa berfungsi layaknya panggung sosial. Sejumlah kosakata yang pada masa lampau dianggap biasa atau bernilai rasa rendah, seiring berjalannya waktu memperoleh penghormatan khusus dan dilembagakan dalam ranah resmi. Perkembangan ini dapat ditelusuri melalui beberapa studi kasus utama berikut.
+
+### 1. Kata ''Wanita'': Dari Sansekerta ke Status Sosial
+
+Salah satu contoh klasik ameliorasi dalam bahasa Indonesia tampak pada penggunaan kata **wanita**. Untuk memahami peningkatan nilai rasanya, kata ini perlu diperbandingkan dengan kata **perempuan**.
+
+**Latar Belakang Sejarah:** Secara etimologis, kata *wanita* diserap dari bahasa Sansekerta *vanita*, yang bermakna "yang diinginkan" atau "dicintai". Sementara itu, kata *perempuan* berakar dari kata dasar *empu*, yang bermakna "tuan", "orang yang pandai", "kepala", atau "pemilik".
+
+Kendati secara etimologis kata *perempuan* memiliki landasan makna yang sangat kuat (seperti pada bentuk *puan* atau *mampu*), dinamika sosiopolitik pada masa Orde Baru melahirkan pergeseran nilai rasa:
+
+- **Perempuan** pada masa itu kerap diasosiasikan dengan gerakan politik tertentu dan dipersepsikan terlalu menitikberatkan aspek biologis.
+- **Wanita** diangkat sebagai kosakata resmi yang dinilai lebih halus, anggun, dan berkelas, sehingga diprioritaskan dalam tata persuratan formal, organisasi kemasyarakatan, dan forum kenegaraan.
+
+> **Catatan Historis:** Ameliorasi kerap digerakkan oleh kebijakan politik institusional dan konvensi kesopanan pada zamannya. Pembentukan organisasi kenegaraan seperti Kongres Wanita Indonesia (KOWANI) memperkokoh posisi amelioratif kata tersebut pada era kepemimpinan terkait.
+
+### 2. Kata ''Pramuniaga'': Eufemisme yang Melembaga
+
+Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk menggantikan sebutan lama di pusat-pusat perdagangan. Tulisan lowongan kerja kini hampir selalu mencantumkan sebutan "Dibutuhkan Pramuniaga", bukan "Dibutuhkan Pelayan Toko".
+
+**Analisis Perubahan:** Dahulu, pekerja yang bertugas melayani pembeli di toko disebut sebagai **pelayan toko** atau **penjaga toko**. Namun, kata *pelayan* kerap memicu konotasi subordinatif sebagai pihak yang semata-mata menjalankan perintah pada strata sosial bawah.
+
+Guna mengangkat harkat profesi tersebut, disusunlah istilah serapan **pramuniaga** (dari unsur *pramu-* yang berarti pelayan profesional dan *niaga* yang berarti perdagangan). Penggunaan sebutan *pramusaji* untuk menggantikan *pelayan restoran* atau *pramugara/pramugari* untuk awak kabin pesawat terbang memperlihatkan pola ameliorasi yang konsisten dalam mengangkat martabat profesi layanan.
+
+### 3. Deret Istilah Berprefiks ''Tuna-'': Kepekaan Budaya dan Empati Sosial
+
+Dalam sistem tata bahasa Indonesia, pemanfaatan prefiks **tuna-** (serapan bahasa Jawa Kuno/Sansekerta yang bermakna rugi, kekurangan, atau tidak memiliki) merupakan contoh ameliorasi berskala luas yang berlandaskan empati sosial dan penghormatan kemanusiaan.
+
+| Kosakata Lama (Netral/Kasar) | Kosakata Baru (Amelioratif) | Perubahan Nilai Rasa |
+| :--- | :--- | :--- |
+| Buta | **Tunanetra** | Lebih bernuansa medis dan santun |
+| Tuli | **Tunarungu** | Menghindari pelabelan kekurangan fisik |
+| Gelandangan | **Tunawisma** | Menitikberatkan pada kebutuhan fasilitas hunian |
+| Pelacur | **Tunasusila** | Menghaluskan rujukan perilaku dan moralitas |
+| Pengangguran | **Tunakarya** | Menghargai martabat pencari kerja |
+
+Perubahan istilah di atas ditetapkan secara terencana oleh lembaga bahasa dan pembuat kebijakan publik untuk menempatkan setiap warga negara pada posisi yang setara dan bermartabat, sehingga individu tidak lagi dipandang rendah akibat stigma bahasa.
+
+### 4. Pilihan Kata ''Istri'' versus ''Bini''
+
+Dalam ranah percakapan santai sehari-hari, kedua kata ini mungkin digunakan secara bergantian. Namun, dalam laras bahasa formal dan tulisan resmi, **istri** menempati posisi amelioratif yang mapan.
+
+- **Bini:** Tergolong ragam nonformal atau vernakular yang bernuansa percakapan akrab, namun terasa kurang pantas bila dipakai dalam forum resmi kenegaraan.
+- **Istri:** Diserap dari bahasa Sansekerta *stri*, memberikan nilai rasa yang terhormat, anggun, dan berkesan sah secara hukum tata negara maupun keagamaan.
+
+Perbedaan nilai rasa ini menunjukkan bahwa pemilihan kosakata tidak hanya bertumpu pada kesamaan arti referensial, melainkan juga menuntut kesesuaian derajat kesantunan dengan laras sosial tempat tuturan berlangsung.
+
+### Penerapan Kontekstual dalam Komunikasi Publik
+
+Pemahaman studi kasus ameliorasi menumbuhkan kepekaan sosiolinguistik dan kecerdasan etis dalam berkomunikasi sehari-hari maupun profesional:
+
+1. **Dunia Profesional dan Manajemen Sumber Daya Manusia:** Dunia kerja memilih istilah *Asisten Rumah Tangga* (ART) ketimbang *pembantu*. Perubahan ini mengangkat penghargaan atas kontribusi profesi dan membangun hubungan kerja yang lebih profesional.
+2. **Hukum dan Pembinaan Kemasyarakatan:** Pemakaian frasa *Warga Binaan Pemasyarakatan* untuk menggantikan kata *narapidana* atau *orang hukuman* mencerminkan pergeseran paradigma dari penghukuman retributif menuju pembinaan dan rehabilitasi kemanusiaan.
+3. **Inklusi Sosial:** Penggunaan istilah ramah inklusi seperti *Penyandang Disabilitas* atau *Difabel* (*Different Ability*) membantu mengalihkan fokus masyarakat dari keterbatasan fisik menuju pengakuan atas potensi serta hak-hak kesetaraan.
+
+> **Prinsip Utama:** Ameliorasi menegaskan bahwa bahasa Indonesia merupakan sistem yang dinamis, senantiasa beradaptasi untuk menjunjung tinggi etika kesantunan dan tata krama linguistik masyarakat.
+
+### Refleksi dan Formulasi
+
+Pemelajar dapat mengamati dinamika bahasa di lingkungan sekitar. Berbagai nama profesi atau kondisi sosial terus mengalami penghalusan makna demi menghadirkan relasi sosial yang lebih setara dan saling menghargai.
+
+<div>
+$$
+\text{Kata Baru} = \text{Makna Dasar} + \text{Nilai Rasa Positif}
+$$
+</div>
+
+Pergeseran makna melalui ameliorasi menjadi bukti nyata bahwa peradaban masyarakat terus berkembang ke arah kematangan etika tutur dan penghormatan kemanusiaan.
+
+
+<!-- Chapter: 04_konsep-dasar-pejorasi -->
+
+## Konsep Dasar Pejorasi
+
+Perubahan makna kata dalam kajian semantik kerap menurunkan nilai rasa dari yang semula terkesan netral atau terhormat menjadi bernada kasar dan merendahkan. Dalam dunia linguistik, fenomena penurunan derajat makna ini bukanlah suatu kebetulan acak, melainkan proses sistematis yang dikenal sebagai pejorasi.
+
+Jika ameliorasi merupakan proses peningkatan nilai rasa bagi sebuah kata, pejorasi adalah kebalikannya, yaitu pergeseran menuju penurunan nilai rasa. Kajian semantik historis menelusuri bagaimana sebuah kata mengalami degradasi makna akibat perubahan persepsi sosial penuturnya.
+
+### 1. Hakikat dan Definisi Pejorasi
+
+Secara etimologis, istilah pejorasi berakar dari bahasa Latin *peior* yang bermakna "lebih buruk". Dalam studi semantik, pejorasi didefinisikan sebagai pergeseran makna ketika sebuah leksem memperoleh konotasi yang lebih rendah, tidak menyenangkan, atau bernada menghina dibandingkan makna asalnya.
+
+> **Definisi Pejorasi:** Perubahan makna suatu leksem atau ungkapan yang mengakibatkan nilai rasa baru dirasakan lebih rendah, lebih kasar, atau memiliki konotasi negatif jika dibandingkan dengan nilai rasa pada masa lampau.
+
+Proses pejoratif ini menyebabkan kata yang semula berstatus netral atau bahkan bermartabat terdegradasi menjadi bernilai rasa tabu, ejekan, atau penghinaan sosial.
+
+#### Formula Penurunan Nilai Rasa
+
+Jika digambarkan dalam model perbandingan skala nilai rasa ($V$):
+
+<div>
+$$
+V_{\text{awal}} > V_{\text{akhir}}
+$$
+</div>
+
+Keterangan:
+- $V_{\text{awal}}$ menunjukkan bobot nilai rasa awal yang berada pada tingkat netral atau positif.
+- $V_{\text{akhir}}$ menunjukkan bobot nilai rasa akhir setelah mengalami degradasi semantik di masyarakat.
+
+### 2. Analogi: Besi yang Mengalami Korosi
+
+Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
+
+Setelah mengalami korosi, pandangan publik terhadap objek tersebut berubah total dari simbol kemewahan menjadi barang buangan (makna pejoratif). Kosakata dalam bahasa manusia mengalami lintasan serupa; kata dapat berkarat akibat akumulasi asosiasi sosial dan frekuensi pemakaian dalam konteks yang merendahkan.
+
+### 3. Faktor Penyebab Terjadinya Pejorasi
+
+Pejorasi tidak terjadi secara instan, melainkan hasil dari sedimentasi sosiolinguistik yang berlangsung dalam kurun waktu tertentu. Beberapa faktor utama meliputi:
+
+1. **Asosiasi Kontekstual Negatif**: Leksem yang terus-menerus dilekatkan pada kondisi buruk, pelaku kriminal, atau kelompok yang dimarjinalkan akan menyerap stigma lingkungan tersebut.
+2. **Pergeseran Standar Etika dan Nilai Sosial**: Nilai kesopanan masyarakat yang berkembang membuat istilah-istilah yang dahulu lumrah dinilai terlalu vulgar atau melanggar kesantunan.
+3. **Penggunaan Sarkasme dan Ironi**: Pemakaian kata-kata bernada positif secara berulang untuk menyindir atau mengejek lambat laun melunturkan makna aslinya hingga hanya menyisakan nuansa peyoratif.
+
+### 4. Karakteristik Leksem yang Mengalami Pejorasi
+
+Identifikasi terhadap leksem yang telah terdegradasi secara semantik dapat dikenali melalui beberapa indikator linguistik:
+
+- **Pergeseran Konotasi Tanpa Mengubah Denotasi Dasar**: Definisi objektif dalam kamus kerap masih merujuk pada referen yang sama, namun muatan emotif yang menyertainya telah berubah menjadi negatif.
+- **Transisi Menjadi Bahan Umpatan atau Olok-Olok**: Leksem mulai kerap difungsikan sebagai label stigmatisasi dalam percakapan informal.
+- **Penyusutan Ranah Formal**: Kata yang mengalami pejorasi perlahan ditinggalkan dalam forum resmi, naskah akademik, dan pidato kenegaraan karena dinilai mencederai asas kesantunan berbahasa.
+
+| Leksem | Nilai Rasa Historis | Makna Pejoratif Saat Ini | Ranah Penggunaan Modern |
+| :--- | :--- | :--- | :--- |
+| **Gerombolan** | Netral (sekadar kawanan atau rombongan) | Negatif (kelompok perusuh atau pengacau) | Dihindari untuk kelompok resmi |
+| **Bunting** | Netral (kondisi mengandung bagi makhluk hidup) | Kasar/Peyoratif jika ditujukan pada manusia | Terbatas untuk fauna atau ragam kasar |
+| **Kroni** | Netral (sahabat karib atau kawan dekat) | Negatif (rekanan dalam persekongkolan korupsi) | Diskursus politik dan hukum |
+| **Oknum** | Terhormat (pribadi dalam teologi/person) | Negatif (pelaku pelanggaran dalam institusi) | Berita kriminal dan penegakan hukum |
+
+### 5. Skenario Nyata: Dampak Pejorasi dalam Komunikasi
+
+Pejorasi memiliki konsekuensi nyata dalam interaksi sosiokultural dan tata kelola hubungan antarmanusia.
+
+#### Kasus 1: Pelabelan Kelompok Sosial
+
+Penggunaan kata **"gerombolan"** memberikan gambaran jelas mengenai pergeseran ini:
+
+- **Masa Lampau:** Merujuk secara denotatif pada sekumpulan entitas manusia atau hewan tanpa konotasi kriminal.
+- **Masa Kini:** Jika seorang penutur menyebut sekelompok rekan kerja yang sedang berkumpul sebagai "gerombolan", tuturan tersebut berpotensi memicu ketersinggungan karena leksem tersebut telah menyerap stigma kelompok perusuh bersenjata atau pengacau keamanan.
+
+#### Kasus 2: Profesionalisme dan Sebutan Profesi
+
+Degradasi nilai rasa pada sebutan profesi kerap mendorong lahirnya istilah baru melalui proses eufemisme atau ameliorasi demi melindungi martabat pekerja. Sebagai contoh, pergeseran nilai rasa pada sebutan "babu" atau "pembantu" yang dirasakan semakin pejoratif memicu penggunaan sebutan yang lebih terhormat seperti "pramuwisma" atau "asisten rumah tangga".
+
+### 6. Penerapan Praktis dan Etika Berbahasa
+
+Pemahaman terhadap dinamika pejorasi melatih kepekaan pragmatik dalam bertutur kata. Langkah-langkah penerapannya meliputi:
+
+1. **Kepekaan terhadap Konteks Sosial**: Penutur perlu menyadari bahwa kata yang diyakini netral oleh diri sendiri mungkin telah mengalami pejorasi di telinga mitra tutur.
+2. **Pembaruan Kosakata secara Berkala**: Memantau perkembangan makna kata membantu menghindari kesalahan pemilihan istilah dalam forum formal maupun komunikasi lintas budaya.
+3. **Pencegahan Pelabelan Sembarangan**: Menghindari pemakaian kata yang berkonotasi pejoratif untuk merujuk pada kelompok tertentu demi menjaga iklim komunikasi yang sehat.
+
+> **Wawasan Linguistik:** Bahasa merupakan sistem yang senantiasa bergerak bersama dinamika penuturnya. Setiap kata mengemban jejak sejarah sosial, dan pejorasi menjadi bukti bahwa nilai rasa suatu kata dibentuk oleh konvensi masyarakat pemakainya.
+
+
+<!-- Chapter: 05_studi-kasus-pejorasi-dalam-bahasa-indonesia -->
+
+## Studi Kasus Pejorasi dalam Bahasa Indonesia
+
+Proses pergeseran makna pejoratif dapat ditelusuri secara nyata melalui dinamika sosial politik dan pemakaian bahasa sehari-hari di Indonesia. Pergeseran konotasi memperlihatkan bagaimana kata yang awalnya netral atau bernilai rasa positif mengalami degradasi nilai rasa hingga dipandang buruk oleh masyarakat tutur.
+
+Sebuah kata dapat diumpamakan seperti jenama (*brand*). Pada masa awal pemakaiannya, kata tersebut memiliki reputasi netral atau terhormat. Namun, akibat asosiasi berulang dengan peristiwa buruk, perilaku tercela, atau kejahatan, reputasi leksikalnya merosot drastis. Fenomena penurunan derajat makna ini tampak jelas pada sejumlah leksikon dalam bahasa Indonesia.
+
+### 1. Kata "Oknum"
+
+Kata **"oknum"** merupakan contoh klasik dari pejorasi dalam bahasa Indonesia modern. Pergeserannya menarik karena bersentuhan langsung dengan ranah hukum, birokrasi, dan media massa.
+
+#### Asal-Usul dan Makna Asli
+
+Dalam Kamus Besar Bahasa Indonesia (KBBI), lema *oknum* memiliki makna dasar yang sepenuhnya netral:
+
+1. Penyelenggara (dalam konteks teologi tertentu).
+2. Orang seorang; perseorangan; pribadi.
+3. Anasir atau unsur pembentuk.
+
+Secara teknis linguistik, *oknum* merujuk pada unit individu. Pada konteks dokumen hukum lama dan literatur formal, kata ini digunakan secara murni untuk menyebut pribadi tanpa muatan prasangka buruk.
+
+#### Proses Pejorasi
+
+Pergeseran makna kata ini dipicu oleh pola pemberitaan media massa serta siaran pers institusi resmi. Ketika seorang anggota institusi (seperti kepolisian, militer, atau aparatur sipil negara) melakukan pelanggaran hukum, pihak institusi kerap memakai istilah "oknum" guna memisahkan tindakan tercela individu tersebut dari integritas organisasi.
+
+> **Pola Penalaran Pejorasi Oknum:**
+> Jika \\( X \\) adalah anggota dari institusi \\( A \\), dan \\( X \\) melakukan tindak pidana, maka \\( X \\) dilabeli sebagai **oknum**. Tujuannya adalah melokalisasi kesalahan personal agar tidak dipersepsikan sebagai kegagalan sistemik institusi \\( A \\).
+
+#### Makna Saat Ini
+
+Akibat penggunaan berulang dalam konteks berita kriminal, asosiasi masyarakat terhadap kata *oknum* bergeser secara permanen. Kini, kata tersebut langsung diidentikkan dengan pelaku pelanggaran hukum atau pihak yang menyalahgunakan wewenang dan seragam dinas, bukan lagi sekadar individu biasa.
+
+### 2. Kata "Gerombolan"
+
+Kata **"gerombolan"** memperlihatkan bagaimana peristiwa sejarah politik dapat mengubah konotasi suatu leksikon secara permanen.
+
+#### Asal-Usul dan Makna Asli
+
+Akar kata leksikon ini adalah *gerombol*, yang bermakna berkumpul atau berkelompok. Dalam struktur semantik aslinya, *gerombolan* adalah bentuk nominal yang menyatakan sekumpulan makhluk hidup yang berada dalam satu tempat.
+
+* *Penggunaan klasik:* "Gerombolan pemuda itu sedang asyik bermain bola di lapangan." (Netral)
+
+#### Proses Pejorasi
+
+Setelah era kemerdekaan Indonesia, narasi resmi negara dan pemberitaan surat kabar secara konsisten menggunakan istilah "gerombolan" untuk melabeli kelompok pemberontak bersenjata atau pengacau stabilitas keamanan (seperti peristiwa DI/TII serta PRRI/Permesta). Frekuensi pemakaian dalam konteks teror dan konflik bersenjata mengikis nilai rasa netralnya hingga menyisakan konotasi kekerasan.
+
+#### Makna Saat Ini
+
+Penggunaan kata *gerombolan* pada masa kini bermuatan peyoratif kuat dan dipandang sebagai bentuk delegitimasi terhadap kelompok tertentu.
+
+* **Kelompok:** Bermakna netral hingga positif, mengindikasikan struktur yang tertata.
+* **Gerombolan:** Bermakna pejoratif, mencerminkan kawanan kacau, berbahaya, liar, atau tidak sah.
+
+Sebagai ilustrasi, penyebutan reuni sekolah dengan frasa *Gerombolan Alumni* akan memicu ketersinggungan karena leksikon tersebut membawa muatan makna kumpulan orang yang bermasalah.
+
+### 3. Studi Kasus Leksikon Lain
+
+Di samping kata *oknum* dan *gerombolan*, beberapa leksikon lain dalam bahasa Indonesia juga mengalami degradasi nilai rasa serupa:
+
+| Kata | Makna Asli (Etimologis) | Makna Pejoratif Saat Ini |
+| :--- | :--- | :--- |
+| **Kaki Tangan** | Pembantu tepercaya atau asisten yang sangat diandalkan (netral). | Orang yang membantu pihak lain melakukan kejahatan (komplotan kriminal). |
+| **Antek** | Pengikut setia atau anak buah (netral). | Pengikut yang menjadi kepanjangan tangan pihak musuh atau asing (sangat negatif). |
+| **Bini** | Kata formal dan wajar untuk menyebut pasangan wanita (istri). | Dianggap kasar atau bernilai rasa rendah dibandingkan sebutan *istri*. |
+
+### Penerapan Praktis dalam Komunikasi
+
+Pemahaman mengenai pergeseran pejoratif berfungsi sebagai panduan penting dalam etika berbahasa dan analisis teks sosial:
+
+1. **Etika Komunikasi Formal**: Penutur dapat memilih padanan kata yang tepat dan menghindari leksikon terpejorasi (seperti *gerombolan*) agar tidak menyinggung mitra tutur dalam forum resmi.
+2. **Analisis Wacana Kritis**: Pembaca mampu menelaah secara kritis strategi bahasa media ketika membingkai suatu berita melalui leksikon pelindung (seperti *oknum*).
+3. **Penulisan Kreatif**: Penulis dapat memanfaatkan leksikon pejoratif secara terukur untuk mempertegas karakter tokoh yang antagonis atau membangun suasana narasi yang tegang.
+
+### Analogi Perubahan Nilai Rasa
+
+Dinamika pejorasi dapat dianalogikan dengan buah segar:
+
+* **Fase Awal (Netral):** Buah segar di dahan pohon yang dapat dipetik dan dikonsumsi tanpa prasangka.
+* **Fase Pejorasi:** Buah tersebut jatuh ke kubangan kotor dan dibiarkan terpapar limbah selama berminggu-minggu, sehingga terbentuk asosiasi visual dan bau yang tidak menyenangkan.
+* **Hasil Akhir:** Kendati secara biologis objek tersebut tetaplah buah, masyarakat tutur enggan mengategorikannya lagi sebagai santapan lezat karena memori buruk yang melekat padanya.
+
+### Refleksi Dinamika Bahasa
+
+> **Kesimpulan Konseptual:** Pergeseran makna membuktikan bahwa bahasa bersifat cair serta berakar kuat pada memori kolektif masyarakat. Sebuah kata tidak semata-mata membawa definisi kamus, melainkan menyerap riwayat sosial, prasangka kultural, dan dinamika sejarah para penuturnya.
+
+
+<!-- Chapter: 06_faktor-sosial-dan-budaya-dalam-pergeseran-makna -->
+
+## Faktor Sosial dan Budaya dalam Pergeseran Makna
+
+Pergeseran nilai rasa kata dalam semantik selalu dipengaruhi oleh transformasi norma sosial, perkembangan budaya, dan dinamika struktur kekuasaan masyarakat. Perubahan nilai rasa, baik ameliorasi maupun pejorasi, tidak berlangsung dalam ruang hampa, melainkan bertumpu pada cara pandang kolektif yang terus berevolusi seiring berjalannya waktu.
+
+Sering kali muncul fenomena saat sebuah kata yang pada masa lampau terdengar wajar, kini dihindari karena dinilai kurang sopan. Sebaliknya, kata yang dahulu berkedudukan rendah kini dapat bergeser menjadi sebutan terhormat karena adanya perubahan apresiasi kultural.
+
+### Norma Sosial dan Perubahan Standar Kesopanan
+
+Norma sosial merupakan kesepakatan kolektif yang mengatur etika interaksi dalam masyarakat. Standar mengenai kepantasan atau ketabuan suatu ujaran bergerak dinamis mengikuti pemahaman etika pada tiap zaman.
+
+#### Perubahan Nilai Moral dan Etika
+
+Peningkatan kesadaran terhadap hak asasi manusia serta kesetaraan sosial mendorong banyak kosakata mengalami pejorasi jika dipandang mereduksi martabat individu.
+
+Sebagai analogi, pakaian yang lazim dikenakan pada dekade 1920-an terasa janggal apabila dipakai saat berbelanja santai di era modern. Hal serupa berlaku pada bahasa; nilai rasa kata dapat menjadi usang atau berganti muatan emosional sesuai konvensi masa kini.
+
+| Kosakata Awal | Nilai Rasa Awal | Kosakata Eufemistis Baru | Arah Pergeseran |
+| :--- | :--- | :--- | :--- |
+| **Buta** | Denotatif medis netral | **Tunanetra** | Pejorasi istilah lama, ameliorasi bentuk baru |
+| **Tuli** | Denotatif fisiologis | **Tunarungu** | Pejorasi istilah lama, ameliorasi bentuk baru |
+| **Bisu** | Denotatif wicara | **Tunawicara** | Pejorasi istilah lama, ameliorasi bentuk baru |
+
+Kata *buta* atau *tuli* secara teknis adalah rujukan biologis yang akurat. Namun, etika sosial kontemporer yang menekankan inklusivitas menilai istilah tersebut terlalu menonjolkan keterbatasan fisik, sehingga masyarakat lebih mengutamakan bentukan eufemistis berawalan *tuna-* guna menghormati martabat penyandang disabilitas.
+
+### Perkembangan Budaya, Modernisasi, dan Teknologi
+
+Kebudayaan mencakup tata cara hidup, sistem kerja, serta medium interaksi manusia. Peralihan tatanan peradaban dari corak agraris ke era industri, lalu menuju lanskap digital, membawa dampak langsung pada nilai rasa kosakata.
+
+#### Pergeseran Gaya Hidup dan Prestise Kultural
+
+Kosakata kerap mengalami ameliorasi ketika objek, kebiasaan, atau aktivitas yang dirujuk memperoleh peningkatan status dalam sistem nilai budaya masyarakat.
+
+> **Perubahan Konotasi Kata *Canggih*:**  
+> Pada naskah dan penggunaan masa lampau, kata *canggih* berkonotasi negatif dengan arti banyak cakap, cerewet, suka membantah, atau gemar mengganggu. Seiring maraknya kemajuan perangkat modern, kata ini bertransformasi menjadi representasi keunggulan teknologi, kepiawaian rancangan, dan kemutakhiran fungsi.
+
+Budaya menyematkan dimensi apresiasi baru pada kosakata lama. Apabila sebuah istilah terhubung erat dengan kemajuan dan pencapaian modern, kecenderungan ameliorasi akan berlangsung lebih cepat.
+
+### Struktur Masyarakat, Hierarki, dan Kekuasaan
+
+Relasi kelas sosial dan stratifikasi kekuasaan sangat menentukan bagaimana suatu istilah diterima. Perubahan sistem feodal menuju tatanan masyarakat yang lebih terbuka dan demokratis turut mengubah apresiasi terhadap gelar maupun sebutan profesi.
+
+#### Transisi dari Feodalisme Menuju Egalitarianisme
+
+Pada masyarakat dengan sistem hierarki tertutup, pembedaan kelas tampak sangat tegas. Pergeseran pusat kendali sosial membuat istilah-istilah yang mulanya mencerminkan subordinasi mengalami pejorasi atau direstrukturisasi demi kesetaraan.
+
+* **Buruh:** Secara historis merujuk pada penyedia tenaga kerja. Sebagian kalangan memandangnya mengalami pejorasi karena diasosiasikan dengan pekerjaan fisik tingkat bawah.
+* **Karyawan atau Pegawai:** Mengalami ameliorasi karena diasosiasikan dengan ranah kerja perkantoran, tata kelola formal, dan keamanan status profesi.
+* **Rekan Kerja (*Team Member*):** Diperkenalkan oleh organisasi modern untuk menggantikan kata *bawahan*, menciptakan atmosfer relasi kerja yang lebih kolaboratif dan setara.
+
+### Faktor Gender dan Rekonstruksi Identitas
+
+Perubahan pandangan masyarakat terhadap kesetaraan gender menjadi salah satu penggerak utama dalam dinamika semantik modern.
+
+#### Redefinisi Peran dan Terminologi Sosial
+
+Banyak istilah yang pada masa lalu menyematkan subordinasi terhadap kelompok gender tertentu kini ditinjau ulang, direklamasi, atau digantikan dengan padanan yang lebih berbobot etis.
+
+1. **Dinamika Kata *Wanita*:** Pada masa tertentu, sebutan ini dipromosikan sebagai bentuk sopan dan anggun. Namun, sebagian pemerhati bahasa mengidentifikasi asosiasi domestikasi serta etimologi rakyat (*wani ditata* atau berani diatur) yang bernada membatasi peran.
+2. **Dinamika Kata *Perempuan*:** Memiliki pertalian historis dengan kata *empu* yang melambangkan keutamaan, kehormatan, dan kemandirian. Kosakata ini kini sering dipilih dalam diskursus akademik dan pergerakan hak sosial karena menegaskan kedudukan yang setara dan berdaya.
+
+### Penerapan dalam Komunikasi Profesional
+
+Dalam komunikasi organisasi dan ruang publik, kepekaan terhadap pergeseran nilai rasa berperan besar dalam menjaga etika serta keharmonisan hubungan kerja.
+
+#### Skenario Pemilihan Diksi Manajerial
+
+Perhatikan perbedaan dampak psikologis dan sosial dari dua rumusan pengumuman internal perusahaan:
+
+* **Pendekatan Kasar (Pejoratif):**  
+  *"Perusahaan memutuskan untuk memecat sejumlah pembantu operasional gudang."*  
+  Diksi *memecat* dan *pembantu* memicu stigma negatif serta menurunkan moralitas kerja.
+* **Pendekatan Santun (Eufemistis):**  
+  *"Perusahaan melakukan penyesuaian alokasi terhadap staf pendukung operasional gudang."*  
+  Diksi *penyesuaian alokasi* dan *staf pendukung* menyampaikan informasi manajerial secara objektif tanpa merendahkan martabat personel terkait.
+
+#### Model Relasi Faktor dalam Pergeseran Makna
+
+Dinamika pergeseran nilai rasa dapat digambarkan melalui representasi relasional berikut:
+
+<div>
+$$
+N_{\text{baru}} = N_{\text{lama}} + F_{\text{sosial}} + F_{\text{budaya}}
+$$
+</div>
+
+Keterangan parameter:
+* $N_{\text{baru}}$: Nilai rasa kata pada era terkini.
+* $N_{\text{lama}}$: Nilai rasa asal menurut riwayat historis.
+* $F_{\text{sosial}}$: Variabel pengaruh kesepakatan norma, etika, dan kesetaraan hak.
+* $F_{\text{budaya}}$: Variabel pengaruh tren teknologi, modernisasi, dan gaya hidup.
+
+### Rangkuman
+
+Pergeseran makna melalui ameliorasi dan pejorasi membuktikan bahwa bahasa berfungsi sebagai cerminan peradaban manusia. Pemahaman semantik yang utuh tidak hanya bertumpu pada dokumentasi kamus statis, melainkan menuntut kepekaan terhadap denyut perubahan sosial, konvensi etika, dan relasi antarwarga.
+
+> Pemahaman terhadap faktor sosial dan budaya dalam bahasa memperkuat empati komunikatif. Mengetahui nilai rasa kata memungkinkan penutur menghargai martabat mitra tutur sekaligus merawat kesantunan dalam ruang publik.
+
+*Refleksi: Telusuri kembali kosakata yang pada masa lampau lazim digunakan, tetapi kini mengalami pergeseran rasa menjadi kurang pantas atau janggal dalam percakapan modern.*
+
+
+<!-- Chapter: 07_peran-politik-dan-rekayasa-bahasa -->
+
+## Peran Politik dan Rekayasa Bahasa
+
+Rekayasa bahasa dalam dinamika politik memperlihatkan bagaimana pergeseran makna leksikal dirancang secara sengaja untuk mengarahkan persepsi publik. Jika perubahan semantik pada umumnya berlangsung secara alamiah seiring pergeseran budaya, rekayasa bahasa membuktikan bahwa perubahan nilai rasa dapat diproduksi secara sadar dan terstruktur.
+
+Dalam arena kekuasaan, bahasa bekerja sebagai instrumen pengendali sosial dan pembentuk realitas. Melalui ameliorasi (penghalusan makna) dan pejorasi (perendahan makna), pemegang otoritas membingkai suatu peristiwa, memengaruhi sentimen publik, serta melegitimasi kebijakan politik tertentu.
+
+### 1. Politik sebagai Arsitek Makna
+
+Bahasa memiliki fleksibilitas tinggi yang memungkinkan struktur dan maknanya diarahkan sesuai kepentingan kelompok dominan. Dalam kajian linguistik kritis, praktik ini dikenal sebagai rekayasa bahasa (*linguistic engineering*).
+
+> Rekayasa bahasa merupakan upaya sistematis untuk merekonstruksi asosiasi emosional dan kognitif masyarakat terhadap kata tertentu demi melayani kepentingan ideologis atau politis.
+
+Bahasa dapat dianalogikan seperti lensa penyaring visual. Melalui penggantian lensa tersebut, fenomena yang sama dapat ditampilkan lebih menarik dan dapat diterima (ameliorasi) atau digambarkan penuh ancaman dan penolakan (pejorasi), tanpa mengubah fakta material yang mendasarinya.
+
+#### Model Relasi Pergeseran Makna Politis
+
+Pergeseran nilai rasa kata dalam wacana politis dapat digambarkan melalui formulasi konseptual:
+
+<div>
+$$
+N_{\text{akhir}} = N_{\text{awal}} + (I \times K)
+$$
+</div>
+
+Keterangan variabel:
+
+- $N$: Nilai rasa kata (konotasi afektif dalam masyarakat)
+- $I$: Kepentingan politik (*political interest*)
+- $K$: Otoritas dan jangkauan penyebaran narasi
+
+### 2. Ameliorasi Strategis: Menghaluskan Kebijakan
+
+Dalam wacana kekuasaan, ameliorasi diterapkan untuk membungkus kenyataan sosioekonomi yang berat dengan istilah teknokratis atau modern. Pendekatan ini bertujuan meredam potensi penolakan sosial dan menjaga stabilitas politik.
+
+| Istilah Asli | Istilah Amelioratif | Efek Persepsi Publik |
+| :--- | :--- | :--- |
+| **Kenaikan Harga** | Penyesuaian Harga | Memberi impresi prosedur teknis yang wajar, terukur, dan berimbang. |
+| **Pemutusan Hubungan Kerja (PHK)** | Dirumahkan | Mengurangi beban psikologis kehilangan mata pencaharian menjadi status jeda sementara. |
+| **Keluarga Miskin** | Keluarga Prasejahtera | Mengalihkan fokus dari kegagalan struktural menuju fase persiapan kesejahteraan. |
+| **Penggusuran** | Penataan Pemukiman | Menghapus konotasi kekerasan ruang dan menampilkan kesan perbaikan tata kota. |
+
+Perubahan sebutan dari kata ''miskin'' menjadi ''prasejahtera'' tidak serta-merta meningkatkan daya beli masyarakat. Perubahan leksikal ini lebih berperan dalam menata kenyamanan psikologis penutur dan audiens ketika mendiskusikan ketimpangan ekonomi.
+
+### 3. Pejorasi Politik: Sarana Delegitimasi
+
+Pejorasi politik difungsikan untuk mendiskreditkan kelompok oposisi atau pihak yang berseberangan dengan menyematkan label berkonotasi negatif. Stigma leksikal ini mendorong masyarakat menjauhi atau mencurigai gagasan kelompok sasaran.
+
+Mekanisme operasional pejorasi dalam wacana kekuasaan mencakup:
+
+1. **Pelabelan (*Labeling*):** Menautkan kata netral dengan perilaku menyimpang atau ancaman keamanan.
+2. **Generalisasi Semantik:** Memperluas cakupan istilah pejoratif ke seluruh anggota kelompok tanpa pembedaan.
+3. **Dehumanisasi:** Memakai leksikon yang merendahkan martabat kemanusiaan agar tindakan represif dipandang lumrah.
+
+Sebagai contoh historis, kata "aktivis" atau "mahasiswa kritis" dalam periode politik tertentu pernah diberi muatan makna negatif sebagai "pengacau ketertiban" atau "antikeberlanjutan". Pemaknaan ulang ini mempermudah aparatur negara meredam kritik publik atas dasar pemeliharaan ketertiban umum.
+
+### 4. Analisis Wacana Media Massa
+
+Dua media dengan haluan editorial berbeda dapat memberitakan peristiwa demonstrasi yang sama dengan pilihan diksi yang bertolak belakang:
+
+- **Wacana Afirmatif Otoritas:**
+  > "Pemerintah mengimbau kelompok kerumunan massa agar membubarkan diri demi menjaga kondusivitas ruang publik ibu kota."
+  
+  *Analisis Linguistik:* Penggunaan kata "kerumunan" (konotasi pejoratif atau tidak tertib) dan "kondusivitas" (ameliorasi ketertiban) membingkai aksi massa sebagai bentuk gangguan ketenteraman.
+
+- **Wacana Kritis Alternatif:**
+  > "Para pejuang keadilan menyuarakan aspirasi rakyat guna menolak regulasi yang memberatkan kehidupan warga."
+  
+  *Analisis Linguistik:* Pemilihan frasa "pejuang keadilan" dan kata "aspirasi" (ameliorasi tingkat tinggi) memberikan legitimasi moral dan etis terhadap gerakan protes.
+
+### 5. Dampak Sosial Rekayasa Bahasa
+
+Penerapan rekayasa bahasa secara berkepanjangan menghadirkan konsekuensi sosial yang nyata:
+
+- **Erosi Makna:** Kata kehilangan ketajaman semantis ketika sebuah label dilekatkan secara serampangan ke berbagai kelompok berbeda.
+- **Desensitisasi Empati:** Penggunaan eufemisme berlebihan membuat masyarakat kurang peka terhadap penderitaan dan persoalan struktural.
+- **Polarisasi Wacana:** Masyarakat terkotak-kotak akibat pelekatan stigma pejoratif terhadap kelompok yang memiliki sudut pandang berbeda.
+
+> "Jika pikiran merusak bahasa, bahasa juga dapat merusak pikiran." - **George Orwell**, *Politics and the English Language* (1946).
+
+### Ikhtisar Pembahasan
+
+Dinamika politik dan rekayasa bahasa menegaskan bahwa kosakata kerap menjadi instrumen pergulatan nilai. Ameliorasi berfungsi meredam keresahan publik, sedangkan pejorasi bekerja mendiskreditkan pihak penantang.
+
+Pemelajar bahasa yang cermat dituntut untuk mendekonstruksi setiap istilah yang beredar di ruang publik. Analisis kritis tidak berhenti pada pemahaman arti harfiah kata, melainkan meneliti kepentingan sosial politik di balik pemilihan istilah tersebut.
+
+
+<!-- Chapter: 08_hubungan-dengan-eufemisme-dan-disfemisme -->
+
+## Hubungan dengan Eufemisme dan Disfemisme
+
+Pemahaman mengenai dinamika nilai rasa bahasa menuntut pemilahan tegas antara pergeseran makna historis dan pilihan gaya tutur saat berkomunikasi. Dalam telaah semantik, kerap muncul pertanyaan mendasar: apakah suatu kata memang sedang mengalami pergeseran makna leksikal, atau penuturnya hanya sedang menerapkan strategi kesantunan berbahasa?
+
+Di sinilah batas konseptual antara **ameliorasi/pejorasi** dan **eufemisme/disfemisme** perlu ditarik secara jernih. Kendati keempat konsep tersebut sama-sama bersinggungan dengan nilai rasa suatu leksem, masing-masing beroperasi pada dimensi linguistik yang berbeda. Ameliorasi dan pejorasi berkaitan dengan evolusi historis leksikal dalam rentang waktu panjang, sedangkan eufemisme dan disfemisme merupakan pilihan stilistika pragmatis penutur pada saat peristiwa tutur berlangsung.
+
+### Mengenal Eufemisme dan Disfemisme
+
+Sebelum menelaah komparasi keduanya, penting untuk memahami batasan dari kedua piranti gaya bahasa tersebut:
+
+#### Eufemisme: Pilihan Penghalus Makna
+
+Eufemisme adalah pemanfaatan kata atau ungkapan yang lebih halus, sopan, atau berkonotasi netral guna menggantikan bentuk leksikal yang dirasa kasar, menyinggung, tabu, atau menimbulkan ketidaknyamanan psikologis.
+
+- **Tujuan Pemanfaatan:** Menjaga keharmonisan sosial, menghormati mitra tutur, serta meredam ketegangan emosional akibat topik pembicaraan yang sensitif.
+- **Contoh Kasus:** Pemakaian frasa *dirumahkan* untuk menggantikan istilah *dipecat* atau *pemutusan hubungan kerja (PHK)* secara sepihak.
+
+#### Disfemisme: Pilihan Penajam Makna
+
+Disfemisme merupakan kebalikan dari eufemisme, yakni penggunaan kata atau frasa yang lebih kasar, tajam, vulgar, atau bernada merendahkan untuk menggantikan kata yang sebenarnya bermakna netral atau baku.
+
+- **Tujuan Pemanfaatan:** Memberikan penekanan emosional yang kuat, mengejek, mendiskreditkan lawan bicara, atau menimbulkan efek dramatis bernada sinis.
+- **Contoh Kasus:** Penggunaan kata *mampus*, *modar*, atau *koit* guna menggantikan kata netral *meninggal dunia* atau *wafat*.
+
+### Perbedaan Utama: Perubahan Makna versus Gaya Bahasa
+
+Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal kedua gejala tersebut memiliki mekanisme operasional yang sangat berlainan.
+
+#### Analogi: Arsitektur Bangunan dan Tata Cahaya
+
+> Perbedaan ini dapat dianalogikan dengan bangunan fisik:
+>
+> **Ameliorasi dan Pejorasi** serupa dengan **renovasi arsitektur struktural**. Ketika gudang kumuh dirombak total menjadi paviliun elegan, terjadi perubahan fisik yang permanen (ameliorasi). Sebaliknya, apabila hunian megah dibiarkan terbengkalai hingga runtuh menjadi puing, terjadi degradasi struktural yang menetap (pejorasi).
+>
+> **Eufemisme dan Disfemisme** bekerja layaknya **tata cahaya (*lighting*)**. Struktur ruangannya tetap sama, tetapi penutur memasang lampu bernuansa hangat (eufemisme) agar ruangan terkesan ramah, atau menyalakan lampu sorot dingin yang tajam (disfemisme) untuk menciptakan kesan mencekam. Tata cahaya tersebut dapat diganti seketika sesuai kebutuhan panggung komunikasi.
+
+#### Tabel Perbandingan Selektif
+
+| Dimensi Pembeda | Ameliorasi dan Pejorasi | Eufemisme dan Disfemisme |
+| :--- | :--- | :--- |
+| **Sifat Kajian** | **Diakronis** (berlangsung melintasi rentang waktu historis panjang). | **Sinkronis** (terjadi sesaat pada konteks peristiwa komunikasi). |
+| **Status Makna** | **Permanen** di dalam leksikon dan kamus mental masyarakat tutur. | **Kontekstual** bergantung pada pilihan stilistika penutur. |
+| **Tingkat Kesadaran** | Berlangsung secara kolektif dan alami (sering kali tanpa disadari). | Digunakan secara sadar dan sengaja sebagai alat retorika. |
+| **Fokus Linguistik** | Hasil akhir dari evolusi semantis suatu kata. | Strategi pragmatik dan majas dalam pemakaian bahasa. |
+
+### Pola Interaksi Eufemisme dan Disfemisme dengan Perubahan Makna
+
+Kendati berbeda ranah, terdapat relasi berkesinambungan antara gaya bahasa dan evolusi semantis. Sebuah bentuk eufemisme yang dipakai secara berulang dan meluas selama beberapa generasi oleh seluruh lapisan masyarakat dapat mengendap menjadi ameliorasi leksikal yang permanen.
+
+Tahapan transmisi tersebut berlangsung melalui proses bertingkat:
+
+1. **Fase Eufemisme:** Frasa *tunanetra* diperkenalkan untuk menghaluskan kata *buta* dalam interaksi publik.
+2. **Fase Konsolidasi:** Masyarakat tutur secara bertahap membatasi pemakaian kata *buta* karena dinilai terlalu lugas dan kurang empatik.
+3. **Fase Ameliorasi:** Secara leksikal dalam tata bahasa, frasa *tunanetra* resmi memperoleh kedudukan yang lebih tinggi dan terhormat secara permanen dibandingkan kata asalnya.
+
+Dinamika serupa berlaku pada pejorasi. Sebuah disfemisme yang dilancarkan secara masif untuk melabeli kelompok sosial tertentu dapat mengubah leksem yang semula netral menjadi berkonotasi peyoratif secara permanen.
+
+Pertanyaan menarik muncul ketika mencermati kata *koruptor*: apakah kata tersebut kini terdengar lebih berkonotasi buruk dibandingkan *pencuri* karena proses pejorasi historis, ataukah murni akibat akumulasi pemakaian disfemisme secara konsisten dalam diskursus publik?
+
+### Penerapan Praktis dalam Bahasa Politik dan Media
+
+Dalam interaksi sosial dan wacana media massa, kemampuan membedakan kedua ranah ini sangat berharga agar publik tidak terjebak dalam rekayasa makna manipulatif.
+
+#### Skenario 1: Eufemisme dalam Bidang Ekonomi
+
+Pemerintah atau korporasi kerap memilih frasa **"Penyesuaian Tarif"** daripada menggunakan ungkapan **"Kenaikan Tarif"**.
+
+- **Analisis Linguistik:** Fenomena ini merupakan bentuk **eufemisme**. Makna leksikal kata *naik* tidak mengalami pejorasi, melainkan penutur sengaja memilih kata *penyesuaian* demi meredam gejolak psikologis serta resistensi publik.
+
+#### Skenario 2: Disfemisme dalam Ruang Debat Publik
+
+Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan lawan bicaranya sebagai **"ocehan"** atau **"celoteh kosong"** alih-alih menyebutnya sebagai **"argumen"**.
+
+- **Analisis Linguistik:** Pilihan kata ini tergolong **disfemisme**. Penutur secara sadar memanfaatkan leksem bernilai rasa rendah guna mendelegitimasi bobot intelektual dan kredibilitas lawan bicara.
+
+#### Skenario 3: Pejorasi yang Telah Mengendap Permanen
+
+Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
+
+- **Analisis Linguistik:** Kasus ini bukan lagi sekadar penerapan disfemisme pragmatis, melainkan telah bermutasi menjadi **pejorasi** penuh. Konotasi negatifnya telah terlembagakan secara mantap dalam leksikon bahasa Indonesia kontemporer.
+
+### Mengukur Nilai Rasa Melalui Formula Konotasi
+
+Secara konseptual, relasi antara nilai leksikal dasar dan intensi kontekstual dapat dipetakan melalui formula skor konotasi (\(\text{CS}\)):
+
+<div>
+$$
+\text{CS} = V + K
+$$
+</div>
+
+Keterangan variabel:
+
+- \(V\) = *Value* (nilai semantis inheren dalam kamus leksikal).
+- \(K\) = *Context* (faktor situasi, register tutur, dan intensi pragmatis penutur).
+
+Pada fenomena **ameliorasi dan pejorasi**, variabel dasar \(V\) itu sendiri yang mengalami transformasi permanen seiring waktu. Sebaliknya, pada **eufemisme dan disfemisme**, nilai \(V\) relatif konstan, sementara penutur mengolah variabel \(K\) demi memproduksi impresi psikologis tertentu.
+
+### Refleksi Kritis dan Implikasi Komunikasi
+
+Penguasaan terhadap distingsi konseptual ini melatih pembaca menjadi pemakai bahasa yang analitis dan berdaya kritis. Pemelajar dapat memilah secara objektif antara kata yang memang telah mengalami pergeseran nilai historis dalam korpus bahasa dan pilihan kata yang dirancang demi membingkai wacana tertentu.
+
+> **Poin Kunci:** Pejorasi dan ameliorasi merekam **jejak sejarah dan evolusi leksikal**, sedangkan eufemisme dan disfemisme mencerminkan **strategi etis serta retorika komunikasi**.
+
+Pengamatan terhadap wacana berita harian dapat melatih kepekaan linguistik dalam mengidentifikasi eufemisme kontemporer, sekaligus menakar apakah pilihan kata tersebut berpotensi mengendap menjadi ameliorasi di masa depan atau sebatas penghalus sementara.
+
+
+<!-- Chapter: 09_proses-psikologis-di-balik-perubahan-makna -->
+
+## Proses Psikologis di Balik Perubahan Makna
+
+Perubahan makna kata dalam bahasa berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
+
+Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu namun kini menjadi sebutan terhormat.
+
+Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) tidak berlangsung di ruang hampa. Fenomena ini merupakan manifestasi dari kerja kognitif di dalam benak manusia. Bahasa melampaui tumpukan definisi leksikal kamus; bahasa merupakan sistem dinamis yang berakar kuat pada psikologi massa serta persepsi individu.
+
+### 1. Mekanisme Asosiasi: Label dan Isi di Dalam Otak
+
+Secara psikologis, otak bekerja menyerupai sistem pengarsipan konseptual. Setiap kata memiliki folder mental tersendiri. Di dalam folder tersebut, tersimpan definisi teknis (denotasi) sekaligus rekaman emosional, nilai budaya, dan asosiasi visual (konotasi).
+
+> **Analogi Catatan Tempel (Sticky Notes):** Bayangkan pikiran manusia sebagai sebuah dinding galeri yang dipenuhi foto representasi konsep. Kata berperan sebagai foto tersebut. Setiap kali kata itu terdengar dalam konteks buruk, benak kita menempelkan catatan tempel merah bernada negatif pada foto bersangkutan. Ketika ribuan penutur menempelkan catatan merah serupa secara konsisten, representasi kata tersebut secara kolektif bergeser menjadi buruk. Pola inilah yang mengawali proses **pejorasi**.
+
+#### Pembentukan Asosiasi Mental
+
+1. **Pengalaman Berulang:** Ketika kata *oknum* terus-menerus muncul dalam pemberitaan kasus pelanggaran hukum, benak publik secara otomatis mengaitkan kata tersebut dengan pelaku kejahatan, kendati secara etimologis dan leksikal *oknum* bermakna ''orang seorang'' atau ''pribadi''.
+2. **Kekuatan Konteks Emosional:** Sistem kognitif memproses informasi bermuatan afektif secara lebih intensif. Kata-kata yang bersinggungan dengan rasa takut, amarah, prestise, atau penghormatan mengalami pergeseran makna jauh lebih cepat dibandingkan kosakata teknis yang netral.
+
+### 2. Pengondisian Klasik dalam Dinamika Bahasa
+
+Konsep pengondisian klasik (*classical conditioning*) yang dipopulerkan oleh Ivan Pavlov berlaku pula pada ranah semantik. Otak manusia menghubungkan stimulus linguistik dengan respons lingkungan sosial.
+
+<div>
+$$
+\text{Kata (Stimulus)} + \text{Konteks Sosial (Respons)} \rightarrow \text{Makna Baru}
+$$
+</div>
+
+Ketika sebuah kata (stimulus) secara ajek dipasangkan dengan situasi yang tidak menyenangkan (respons negatif), lambat laun kata itu sendiri memicu impresi negatif pada pendengar.
+
+| Pola Perubahan | Kata Asal | Konteks Pengondisian | Hasil Pergeseran |
+| :--- | :--- | :--- | :--- |
+| **Pejorasi** | *Pembantu* | Asosiasi dengan subordinasi sosial dan posisi rentan | Menciptakan beban konotasi negatif; digantikan oleh istilah *asisten rumah tangga*. |
+| **Ameliorasi** | *Wanita* | Digunakan dalam wacana penghormatan dan ranah publik | Memperoleh nilai rasa yang lebih terhormat dan santun dalam konteks formal kenegaraan. |
+
+### 3. Teori Skema Kognitif dan Kategorisasi Mental
+
+Otak manusia menghemat energi kognitif melalui pembentukan **skema**, yaitu jalan pintas mental untuk mengorganisasikan dan menginterpretasikan informasi dunia sekitar. Begitu sebuah kata terpatri ke dalam skema negatif, pemaknaan netralnya menjadi sulit dipulihkan.
+
+Perhatikan perbandingan persepsi antara sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
+
+Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berdasi, birokrasi, dan ruang kantor, sementara *maling* langsung mengaktifkan skema kejahatan jalanan. Pergeseran makna di sini sangat dipengaruhi oleh **persepsi visual** dan **hierarki status sosial** yang tersimpan di dalam memori jangka panjang.
+
+### 4. Konformitas Sosial dan Psikologi Massa
+
+Perubahan makna tidak berlangsung secara terisolasi pada individu tunggal. Bahasa merupakan produk kesepakatan sosial. Secara psikologis, manusia memiliki kecenderungan bawaan menuju **konformitas**, yaitu dorongan untuk menyelaraskan perilaku dan pilihan kata dengan kelompok sosialnya.
+
+Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pelecehan atau perendahan, penutur lain akan menghindari kata tersebut agar tidak dicap tidak beradab. Tekanan konformitas sosial inilah yang mendorong adopsi istilah-istilah amelioratif baru, seperti peralihan dari sebutan *cacat* menuju *difabel* atau *penyandang disabilitas*.
+
+### 5. Penerapan Nyata: Strategi Pemasaran dan Penjenamaan
+
+Dalam dunia profesional dan komunikasi strategis, pemahaman atas psikologi perubahan semantik menjadi fondasi keberhasilan penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
+
+**Skenario Penjenamaan Produk:**
+Sebuah produsen pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (pejorasi). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (ameliorasi) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
+
+```python
+# Simulasi Pemilihan Diksi Berdasarkan Skor Nilai Rasa Emosional
+def tentukan_diksi(konteks: str, opsi_kata: list[str]) -> str:
+    # Bobot psikologis: skala 1 (sangat pejoratif) hingga 10 (sangat amelioratif)
+    skor_konotasi = {
+        "asisten": 8,
+        "pembantu": 3,
+        "difabel": 9,
+        "cacat": 2,
+        "wanita": 8,
+        "betina": 1
+    }
+    
+    pilihan_optimal = max(opsi_kata, key=lambda kata: skor_konotasi.get(kata, 5))
+    return f"Pada konteks {konteks}, diksi terpilih adalah: ''{pilihan_optimal}''"
+
+# Contoh Eksekusi
+print(tentukan_diksi("Formal", ["asisten", "pembantu"]))
+# Output: Pada konteks Formal, diksi terpilih adalah: ''asisten''
+```
+
+### 6. Bias Kognitif: Pengaruh *Negativity Bias*
+
+Manusia memiliki kecenderungan psikologis yang dikenal sebagai *negativity bias* (bias negativitas), yaitu kecenderungan untuk memproses, mengingat, dan merespons stimulus negatif secara lebih kuat daripada stimulus positif.
+
+Bias kognitif ini menjelaskan mengapa proses **pejorasi** kerap berlangsung lebih cepat dan masif dibandingkan **ameliorasi**. Sebuah kosakata positif dapat tercemar dengan cepat hanya karena satu peristiwa kontroversial, sedangkan pemulihan kata yang berkonotasi buruk memerlukan waktu bertahun-tahun melalui rekayasa wacana yang berkesinambungan.
+
+> **Poin Kunci:** Perubahan makna kata merupakan cerminan nyata dari evolusi empati, persepsi sosial, dan nilai peradaban manusia. Memahami dinamika psikologis di balik bahasa melatih kepekaan dalam memilih tuturan yang membangun martabat bersama.
+
+*Refleksi: Perhatikan bagaimana sebuah kata yang pada masa lalu dianggap bergengsi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*
+
+
+<!-- Chapter: 10_analisis-diakronis -->
+
+## Analisis Diakronis
+
+Analisis diakronis meneliti perkembangan dan perubahan makna kata dari masa ke masa guna mengungkap evolusi bahasa dalam lintasan sejarah. Kata-kata yang digunakan dalam percakapan sehari-hari menyimpan rekam jejak peradaban yang terbentuk selama berabad-abad. Bahasa tidak pernah bersifat statis, melainkan terus bertumbuh, beradaptasi, dan mengalami pergeseran bentuk serta makna.
+
+Secara etimologis, istilah diakronis berakar dari bahasa Yunani *dia* yang berarti ''melalui'' dan *chronos* yang berarti ''waktu''. Berbeda dengan analisis sinkronis yang memotret kondisi bahasa pada satu kurun waktu tertentu secara statis, analisis diakronis menelusuri alur perubahan semantik secara kronologis, mulai dari perluasan makna, penyempitan makna, hingga pergeseran nilai rasa baik pejorasi maupun ameliorasi.
+
+### 1. Metodologi Pelacakan Evolusi Kata
+
+Pelacakan sejarah leksikal bertumpu pada metodologi ilmiah yang sistematis untuk merekam transformasi makna dari naskah klasik hingga diskursus digital kontemporer.
+
+| Tahap Metodologis | Fokus Penyelidikan | Sumber Data Utama |
+| :--- | :--- | :--- |
+| **Heuristik & Filologi** | Penemuan dan autentikasi dokumen teks tertua | Prasasti, manuskrip lontar, naskah kuno |
+| **Kontekstualisasi** | Perbandingan makna kalimat lintas zaman | Arsip surat dinas, traktat hukum, risalah sejarah |
+| **Linguistik Komputasi** | Pengukuran kuantitatif frekuensi kata | Korpus digital, pangkalan data teks masif |
+
+#### A. Filologi dan Penelusuran Naskah (Heuristik)
+
+Langkah awal dalam kajian diakronis berfokus pada penemuan bukti tertulis tertua melalui sumber-sumber primer:
+
+- **Prasasti dan Manuskrip Klasik:** Mengidentifikasi penggunaan leksikon dalam teks kuno, seperti naskah *Adiparwa* pada era Jawa Kuno atau *Hikayat Raja-Raja Pasai* dalam tradisi Melayu Klasik.
+- **Kamus Etimologi:** Memetakan akar kata ke rumpun bahasa proto, seperti Sanskerta, Arab, Portugis, Belanda, atau Austronesia.
+
+#### B. Perbandingan Konteks Lintas Abad (Kontekstualisasi)
+
+Setelah data leksikal teridentifikasi, peneliti membandingkan penggunaan kata dalam struktur kalimat pada berbagai babak sejarah:
+
+- **Abad ke-17:** Penggunaan kata "Tuan" dalam korespondensi diplomatik dan dokumen perdagangan antarkerajaan.
+- **Tahun 1945:** Penempatan kata "Tuan" dalam teks pidato kebangsaan dan risalah kemerdekaan.
+- **Era Kontemporer:** Pergeseran status kata "Tuan" dari sapaan umum menjadi bentuk yang lebih formal atau cenderung arkais.
+
+#### C. Analisis Korpus Digital (Linguistik Komputasi)
+
+Kajian modern memanfaatkan korpus digital berbasis komputasi untuk mengukur dinamika kemunculan kata dalam kumpulan data tekstual secara kuantitatif.
+
+<div>
+$$
+F(w) = \frac{n}{T}
+$$
+</div>
+
+Keterangan rumus:
+- \( F(w) \) melambangkan frekuensi kemunculan relatif kata target dalam korpus.
+- \( n \) melambangkan jumlah kemunculan kata target pada periode waktu tertentu.
+- \( T \) melambangkan total keseluruhan kata dalam korpus pada periode yang sama.
+
+### 2. Dinamika Evolusi Leksikal
+
+Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti aliran sungai. Saat pertama kali muncul di hulunya (naskah kuno), sebuah kata memiliki makna yang murni dan spesifik. Seiring mengalirnya waktu melewati berbagai lapisan peradaban, leksikon tersebut menyerap sedimen makna baru, bersinggungan dengan dialek lain, atau beralih fokus fungsi.
+
+#### Tiga Tahap Utama Pergeseran Makna:
+
+1. **Etimon (*Etymon*):** Bentuk dan makna asal yang menjadi landasan leksikal awal.
+2. **Pergeseran Primer:** Transformasi semantik akibat kontak budaya, perjumpaan teknologi baru, atau pergantian struktur sosial.
+3. **Rekristalisasi:** Penetapan makna baru yang terstandardisasi serta diakui secara formal dalam kamus rujukan seperti KBBI.
+
+> **Catatan Telaah:** Kajian diakronis memperlihatkan bahwa variasi penggunaan bahasa pada masa lalu dapat mengkristal menjadi kaidah baku di masa depan saat diterima secara konsisten oleh masyarakat tutur.
+
+### 3. Studi Kasus: Evolusi Makna Kata "Canggih"
+
+Penerapan metode diakronis pada kata "canggih" memberikan gambaran nyata mengenai proses ameliorasi semantik:
+
+| Periode Waktu | Konteks Penggunaan | Nilai Rasa & Makna Semantik |
+| :--- | :--- | :--- |
+| **Abad ke-19 hingga Awal Abad ke-20** | Sastra Melayu Klasik | Negatif: banyak cakap, cerewet, suka membantah, atau gemar mengganggu. |
+| **Pertengahan Abad ke-20** | Transisi & Penerjemahan Istilah | Netral ke Positif: dipadankan dengan kata bahasa Inggris *sophisticated* karena asosiasi kecerdasan berpikir. |
+| **Era Digital Kontemporer** | Teknologi & Sains | Positif: mutakhir, berkemampuan tinggi, rumit, dan berdaya guna modern. |
+
+Jika seorang penutur pada abad ke-19 mendengar sebutan "canggih", ungkapan tersebut akan dianggap sebagai teguran atas sikap yang menjengkelkan, sangat bertolak belakang dengan pujian mutakhir pada abad ke-21.
+
+### 4. Penerapan Praktis Analisis Diakronis
+
+Metode analisis diakronis memberikan kontribusi nyata dalam berbagai disiplin profesional dan kehidupan sosial:
+
+1. **Leksikografi dan Kodifikasi Kamus:** Penyusun kamus menentukan batas waktu kemapanan makna baru sebelum menetapkannya sebagai lema atau definisi utama.
+2. **Kajian Hukum dan Yurisprudensi:** Praktisi hukum menelusuri *original intent* atau maksud asli perumusan pasal undang-undang lama berdasarkan makna leksikal pada era pembentukannya.
+3. **Strategi Merek (*Branding*):** Perancang identitas visual dan penamaan produk memastikan nama merek tidak memuat riwayat konotasi pejoratif di kawasan tertentu.
+4. **Jembatan Komunikasi Lintas Generasi:** Mengurai kesenjangan pemaknaan istilah antara kelompok usia yang memiliki asosiasi emotif berbeda terhadap leksikon yang sama.
+
+### 5. Latihan Penelusuran Jejak Semantik
+
+Penerapan penelusuran diakronis dapat dipraktikkan secara mandiri pada kata **"Sarjana"**:
+
+1. **Akar Sanskerta (*Sajjana*):** Merujuk pada sosok orang yang berbudi luhur, bijaksana, atau saleh.
+2. **Era Klasik Nusantara:** Digunakan untuk menyebut kaum cerdik pandai atau cendekiawan secara umum.
+3. **Era Pendidikan Modern:** Mengalami spesialisasi makna menjadi gelar akademik resmi bagi lulusan jenjang perguruan tinggi strata satu (S1).
+
+Kajian diakronis senantiasa memerlukan kejelian dalam mengamati tonggak sejarah, seperti era kolonial, masa awal kemerdekaan, atau revolusi digital, yang menjadi pemicu percepatan pergeseran makna leksikal.
+
+### Rangkuman dan Refleksi
+
+Analisis diakronis membuka pemahaman mendalam mengenai dinamika bahasa sebagai cerminan peradaban. Menelusuri sejarah perubahan kata memperkaya wawasan tentang perkembangan pola pikir masyarakat dan perjalanan kebudayaan manusia.
+
+*Refleksi: Kata apa yang sedang mengalami pergeseran nilai rasa di media sosial dan ruang publik digital saat ini? Apakah pergeseran tersebut bergerak ke arah ameliorasi atau pejorasi?*
+
+
+<!-- Chapter: 11_dampak-pergeseran-makna-pada-etika-berbahasa -->
+
+## Dampak Pergeseran Makna pada Etika Berbahasa
+
+Perubahan konotasi kata menuntut kepekaan sosial tinggi agar interaksi antarpenutur tetap menjunjung martabat kemanusiaan dan terhindar dari kesalahpahaman. Berkomunikasi dengan bahasa yang mengalami pergeseran makna, baik pejorasi maupun ameliorasi, ibarat melintasi bentang alam yang strukturnya senantiasa berubah. Tanpa pembaruan peta pemahaman kebahasaan, penutur berisiko terjatuh dalam kesalahpahaman atau menyinggung perasaan lawan bicara.
+
+Dinamika pergeseran makna leksikal merupakan cerminan etika berinteraksi sosial di tengah masyarakat yang majemuk.
+
+### 1. Nilai Rasa dalam Interaksi Sosial
+
+Setiap kata tidak hanya memuat arti harfiah (denotasi), tetapi juga membawa muatan emosional dan derajat kesantunan (konotasi atau nilai rasa). Kesantunan berbahasa sangat bergantung pada kecakapan penutur dalam menangkap nilai rasa tersebut.
+
+| Dimensi Pergeseran | Dampak Komunikasi | Konsekuensi Etis |
+| :--- | :--- | :--- |
+| **Pejorasi** | Menjadi jebakan komunikasi yang merendahkan lawan bicara. | Menggunakan kata yang menurun nilai rasanya dalam forum resmi dapat dianggap sebagai pelecehan martabat. |
+| **Ameliorasi** | Menjadi jembatan penghormatan yang memuliakan martabat. | Memilih kosakata yang terangkat nilai rasanya memperkuat respek, kesopanan, dan profesionalisme. |
+
+> **Catatan Konseptual:** Etika berbahasa tidak hanya bertumpu pada ketepatan informasi faktual, melainkan pada penerimaan rasa kolektif masyarakat terhadap kata yang dituturkan.
+
+### 2. Risiko Kebutaan Semantik (*Semantic Blindness*)
+
+Ketidaktahuan terhadap pergeseran makna kata melahirkan kondisi kebutaan semantik (*semantic blindness*) yang dapat merusak relasi sosial.
+
+#### A. Pelanggaran Tak Disengaja (*Unintended Offense*)
+
+Seseorang mungkin menggunakan istilah yang dahulu bermakna netral, padahal kini telah bergeser ke arah pejoratif.
+
+- **Studi Kasus:** Penggunaan kata *gerombolan* untuk menyebut kelompok pertemanan. Pada masa lampau, leksikon ini sekadar merujuk pada kawanan atau perkumpulan. Kini, kata *gerombolan* berkonotasi negatif dengan asosiasi kelompok pelaku kejahatan atau pemberontak, sehingga penggunaannya dalam percakapan santai dapat memicu ketersinggungan mendadak.
+
+#### B. Kesenjangan Profesionalisme (*Professionalism Gap*)
+
+Dalam lingkungan kerja formal, kegagalan mengadopsi kosakata yang telah mengalami ameliorasi dapat menampilkan kesan kurang takzim atau minim kepekaan budaya.
+
+- **Studi Kasus:** Penggunaan istilah *pramuniaga* atau *pramugriya* menggantikan sebutan lama yang berkonotasi rendah mampu mengangkat harkat tenaga kerja serta mencerminkan standar etika institusi.
+
+### 3. Logika Etis Perubahan Makna
+
+Secara konseptual, relasi antara pergeseran semantik dan etika komunikasi dirumuskan dalam model hubungan berikut:
+
+<div>
+$$
+\text{Etika} = (\text{Pilihan Kata} \times \text{Konteks}) + \text{Nilai Rasa Saat Ini}
+$$
+</div>
+
+Ketika seorang penutur menggunakan kosakata yang telah mengalami pejorasi atas dalih makna historis, nilai rasa saat ini bernilai negatif sehingga merusak hasil akhir etika komunikasi.
+
+### 4. Prinsip Navigasi Kesantunan Berbahasa
+
+Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis dapat diterapkan:
+
+1. **Peka Konteks Temporal:** Kosakata bersifat dinamis seiring waktu. Bentuk tuturan yang wajar beberapa dekade lalu mungkin telah memiliki bobot rasa yang berbeda pada masa kini.
+2. **Menghormati Pilihan Komunitas:** Perhatikan identifikasi diri yang dipilih oleh kelompok masyarakat tertentu. Adopsi istilah baru yang lebih bermartabat (ameliorasi) sebagai wujud penghormatan nyata.
+3. **Menghindari Egosentrisme Linguistik:** Argumen bahwa suatu kata memiliki makna historis yang berbeda tidak dapat membenarkan penggunaannya apabila kata tersebut kini merendahkan martabat orang lain.
+4. **Menerapkan Prinsip Humanisme:** Kosakata yang telah bergeser ke ranah pejoratif dan merendahkan harkat kemanusiaan perlu ditinggalkan dari pergaulan sehari-hari.
+
+### 5. Penerapan pada Skenario Nyata
+
+Perbedaan pemilihan kata membawa implikasi langsung terhadap suasana relasi sosial:
+
+#### Skenario A: Forum Musyawarah dan Diskusi Kerja
+
+- **Penggunaan Kurang Tepat (Pejorasi tak disadari):** *"Kita perlu mewaspadai antek-antek yang berupaya menghambat perubahan ini."*
+  - **Dampak:** Leksikon *antek* memiliki konotasi sangat rendah sebagai kaki tangan kejahatan, sehingga berpotensi memicu permusuhan antaranggota kelompok.
+- **Penggunaan Tepat (Konstruktif):** *"Kita perlu merangkul rekan-rekan yang masih memiliki pertimbangan mendalam terhadap rancangan perubahan ini."*
+  - **Dampak:** Membuka ruang dialog yang santun dan menjunjung kebersamaan.
+
+#### Skenario B: Pelayanan Publik dan Industri Keramahan
+
+- **Konteks:** Koordinasi kerja perhotelan mengenai pengelolaan tata graha.
+- **Pilihan Kata:** Menggunakan sebutan *pramugriya* atau *staf tata graha* alih-alih istilah lawas yang bernilai rasa rendah.
+- **Hasil:** Memperkuat rasa percaya diri karyawan serta menunjukkan tata krama organisasi yang berbudaya di hadapan publik.
+
+### Intisari Etika Semantik
+
+Memahami dinamika pejorasi dan ameliorasi merupakan bagian dari ikhtiar merawat kemanusiaan dalam berbahasa. Penghargaan terhadap nilai rasa setiap kata membangun landasan peradaban tutur yang harmonis, minim gesekan, dan saling memuliakan.
+
+> **Prinsip Utama:** Pilihan kata mencerminkan cara penutur memandang sesama. Menuturkan kosakata bernilai rasa luhur merupakan langkah nyata dalam memperindah interaksi sosial.
+
+
+<!-- Chapter: 12_kesimpulan -->
+
+## Kesimpulan
+
+Dinamika semantik melalui pejorasi dan ameliorasi membuktikan bahwa bahasa merupakan cermin peradaban yang terus berevolusi seiring perubahan nilai budaya. Perjalanan menelusuri bagaimana kosakata hidup, berkembang, dan bergeser dalam strata sosial bahasa memperlihatkan bahwa kata dapat mendaki tangga kehormatan melalui **ameliorasi**, atau terperosok ke dalam konotasi negatif melalui **pejorasi**.
+
+Bagian penutup ini merangkum esensi dari dinamika semantik sekaligus menyajikan gambaran mengenai peran teknologi serta budaya digital dalam membentuk masa depan interaksi kebahasaan.
+
+### 1. Rangkuman: Bahasa sebagai Organisme yang Dinamis
+
+Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak tersimpan beku dalam ruang kedap udara, melainkan berdenyut di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
+
+> **Intisari Utama:** Pergeseran makna, baik ameliorasi maupun pejorasi, bukan merupakan tanda kerusakan bahasa, melainkan refleksi dari pergeseran nilai sosial, perkembangan kebudayaan, dan dinamika kekuasaan dalam masyarakat.
+
+Secara formal, pergeseran makna leksikal dapat dimodelkan sebagai fungsi dari makna asal, matriks sosiokultural, dan dimensi temporal:
+
+<div>
+$$
+\text{Makna}_{\text{Baru}} = f(\text{Makna}_{\text{Asal}}, \text{Konteks}_{\text{Sosial}}, \text{Waktu})
+$$
+</div>
+
+Keterangan parameter:
+
+- **Ameliorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah positif: \(V_{t1} < V_{t2}\).
+- **Pejorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah negatif: \(V_{t1} > V_{t2}\).
+
+| Dimensi | Ameliorasi | Pejorasi |
+| :--- | :--- | :--- |
+| **Arah Pergeseran** | Peningkatan derajat konotasi (positif/hormat) | Penurunan derajat konotasi (negatif/kasar) |
+| **Pemicu Utama** | Kebutuhan eufemisme, diplomasi, prestise sosial | Tabu sosial, polarisasi politik, prasangka kelas |
+| **Contoh Historis** | *Wanita*, *tunanetra*, *pembantu* $\to$ *asisten* | *Bini*, *oknum*, *kaki tangan* |
+
+### 2. Dinamika Semantik di Era Digital
+
+Pada era pra-internet, evolusi makna kata umumnya memerlukan proses diakronis yang berlangsung puluhan hingga ratusan tahun. Sebaliknya, ekosistem digital mempercepat pergeseran semantik hingga dapat berlangsung dalam hitungan bulan atau pekan.
+
+#### Fenomena Algospeak dan Eufemisme Algoritmik
+
+Kehadiran sistem moderasi konten otomatis memicu munculnya fenomena **algospeak**, yaitu modifikasi leksikal yang sengaja dibentuk oleh warganet guna menghindari pembatasan algoritma (*shadowban*).
+
+- **Eufemisme Baru:** Kata yang dinilai sensitif digantikan oleh frasa metaforis seperti *menjadi tidak hidup* atau *log out* untuk merujuk pada kematian. Pola ini membentuk varian ameliorasi situasional yang didorong oleh restriksi teknis platform digital.
+- **Kamuflase Leksikal:** Penggunaan homofon atau variasi tipografi untuk menetralkan kata bermuatan tabu agar tetap lolos dari filter teks otomatis.
+
+#### Demokratisasi dan Kecepatan Adopsi Bahasa
+
+Kamus formal seperti KBBI berperan mencatat dan membakukan penggunaan, sementara media sosial (seperti X/Twitter, TikTok, dan forum daring) kerap menjadi inkubator awal pergeseran makna leksikal.
+
+- **Sultan:** Bermula dari gelar kebangsawanan monarki (netral-tinggi), kata ini mengalami perluasan makna sekaligus ameliorasi populer sebagai metafora figur yang dermawan atau berkecukupan materi.
+- **Wibu:** Berawal dari lema pejoratif untuk merendahkan penggemar fanatik budaya pop Jepang, istilah ini kemudian direklamasi (*reclaimed*) oleh komunitas penggemar secara bangga sehingga bergeser menuju konotasi netral hingga positif di ruang internal.
+
+### 3. Proyeksi Masa Depan Dinamika Semantik
+
+Mencermati pola kebahasaan kontemporer, terdapat beberapa arah tren yang membentuk masa depan leksikologi:
+
+#### A. Polarisasi dan Politisasi Kosakata
+
+Kata yang semula berstatus netral semakin rentan mengalami pejorasi cepat ketika terikat pada wacana kelompok politik tertentu. Istilah seperti *kritis*, *aktivis*, atau sebutan kelompok tertentu kerap mengalami pembelokan konotasi menjadi label perendahan dalam perang opini digital.
+
+#### B. Pengaruh Kecerdasan Buatan terhadap Nilai Rasa
+
+Algoritma pemrosesan bahasa alami (*Natural Language Processing*) yang bertugas mendeteksi ujaran kebencian (*hate speech*) dapat tanpa sengaja mempercepat pejorasi kata tertentu apabila model bahasa terus mengaitkan lema tersebut dengan korpus bernada permusuhan.
+
+#### C. Reklamasi Leksikal sebagai Strategi Sosial
+
+Kelompok marjinal diproyeksikan akan semakin aktif mengambil alih istilah pejoratif yang semula digunakan untuk mendiskreditkan mereka, lalu mentransformasikannya menjadi lambang solidaritas dan emansipasi (ameliorasi strategis).
+
+*Pertanyaan Reflektif: Apakah terdapat leksikon yang saat ini berkonotasi pejoratif, namun berpotensi mengalami ameliorasi menjadi istilah populer dan prestisius pada dekade mendatang?*
+
+### 4. Penerapan dalam Rekayasa Pemrosesan Bahasa Alami
+
+Dalam bidang data science dan komputasi linguistik, pemahaman mengenai dinamika pejorasi dan ameliorasi memegang peranan penting dalam perancangan model analisis sentimen yang akurat.
+
+Berikut ilustrasi penyederhanaan deteksi pergeseran nilai rasa berbasis konteks kalimat:
+
+```python
+# Simulasi deteksi sentimen kontekstual untuk lema multifaset
+def analyze_sentiment(word: str, context: str) -> str:
+    # Lema seperti "anjay" memiliki polaritas ganda tergantung konteks
+    context_lower = context.lower()
+    
+    if any(k in context_lower for k in ["kagum", "hebat", "keren", "indah"]):
+        return "Amelioratif/Positif: Mengekspresikan kekaguman intens."
+    elif any(k in context_lower for k in ["marah", "kesal", "benci", "rusak"]):
+        return "Pejoratif/Negatif: Berfungsi sebagai umpatan."
+    else:
+        return "Netral/Ambigu: Membutuhkan analisis konteks diskursus lanjutan."
+
+# Pengujian inferensi
+sample_text = "Wah, anjay keren sekali inovasi arsitekturnya!"
+print(analyze_sentiment("anjay", sample_text))
+```
+
+Implementasi industri dari pemodelan ini mencakup:
+
+1. **Pemantauan Reputasi Jenama (*Brand Monitoring*):** Mendeteksi tanda awal pergeseran konotasi nama jenama ke arah pejorasi dalam percakapan publik daring.
+2. **Moderasi Konten Berbasis Konteks:** Membedakan ekspresi keakraban antaranggota komunitas dari ujaran perundungan (*cyberbullying*).
+
+### 5. Menjadi Penutur Bahasa yang Kritis dan Berempati
+
+Kajian semantik mengingatkan bahwa setiap kata menyimpan muatan sejarah, relasi kuasa, dan bobot emosional.
+
+> **Pesan Penutup:** Transformasi makna adalah bukti daya adaptasi manusia dalam berbahasa. Tanggung jawab penutur bukanlah membendung arus evolusi bahasa, melainkan memahami nuansa konteks agar pertukaran gagasan tetap berlangsung jernih, santun, dan bermartabat.
+
+- Gunakan pilihan kata dengan kesadaran penuh terhadap dampak psikologis dan sosialnya.
+- Pahami bahwa pemaknaan setiap individu dapat berbeda akibat perbedaan latar belakang kultural, komunitas, atau generasi.
+- Sambut keterbukaan evolusi bahasa sebagai ladang kreativitas daya cipta manusia.
+
+*Refleksi Akhir: Pemahaman terhadap dinamika semantik menuntun setiap penutur untuk lebih cermat dan berempati dalam merangkai kata di ruang publik digital.*
+
+
+<!-- Chapter: 13_referensi -->
+
+## Referensi
+
+Daftar pustaka komprehensif ini menghimpun literatur rujukan teoretis dan studi empiris mengenai semantik, linguistik historis, dan pergeseran nilai rasa kata.
+
+Badudu, J. S. (1983). *Pelik-Pelik Bahasa Indonesia*. Pustaka Prima. [https://onesearch.id/Record/IOS3253.11182](https://onesearch.id/Record/IOS3253.11182)
+
+Bloomfield, L. (1933). *Language*. Henry Holt and Company. [https://archive.org/details/language0000leon_u3e7](https://archive.org/details/language0000leon_u3e7)
+
+Campbell, L. (2013). *Historical Linguistics: An Introduction* (3rd ed.). Edinburgh University Press. [https://edinburghuniversitypress.com/book-historical-linguistics-third-edition.html](https://edinburghuniversitypress.com/book-historical-linguistics-third-edition.html)
+
+Chaer, A. (2013). *Pengantar Semantik Bahasa Indonesia*. Rineka Cipta. [https://opac.perpusnas.go.id/DetailOpac.aspx?id=960136](https://opac.perpusnas.go.id/DetailOpac.aspx?id=960136)
+
+Djajasudarma, T. F. (2010). *Semantik 2: Pemahaman Ilmu Makna*. PT Refika Aditama. [https://opac.perpusnas.go.id/DetailOpac.aspx?id=233486](https://opac.perpusnas.go.id/DetailOpac.aspx?id=233486)
+
+Geeraerts, D. (2010). *Theories of Lexical Semantics*. Oxford University Press. [https://doi.org/10.1093/acprof:oso/9780198700302.001.0001](https://doi.org/10.1093/acprof:oso/9780198700302.001.0001)
+
+Kridalaksana, H. (2008). *Kamus Linguistik* (Edisi Keempat). Gramedia Pustaka Utama. [https://opac.perpusnas.go.id/DetailOpac.aspx?id=438848](https://opac.perpusnas.go.id/DetailOpac.aspx?id=438848)
+
+Moeliono, A. M., Lapoliwa, H., Alwi, H., Sasangka, S. S. T. W., & Sugiyono. (2017). *Tata Bahasa Baku Bahasa Indonesia* (Edisi Keempat). Badan Pengembangan dan Pembinaan Bahasa, Kementerian Pendidikan dan Kebudayaan. [https://badanbahasa.kemdikbud.go.id/](https://badanbahasa.kemdikbud.go.id/)
+
+Parera, J. D. (2004). *Teori Semantik* (Edisi Kedua). Penerbit Erlangga. [https://opac.perpusnas.go.id/DetailOpac.aspx?id=461016](https://opac.perpusnas.go.id/DetailOpac.aspx?id=461016)
+
+Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analisis Ameliorasi dan Peyorasi Kosakata Bahasa Indonesia. *Widyaparwa*, *49*(1), 45-58. [https://doi.org/10.26499/wdprw.v49i1.692](https://doi.org/10.26499/wdprw.v49i1.692)
+
+Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
+
+Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37802,8 +38932,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39103,8 +40233,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40153,8 +41283,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41217,8 +42347,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43247,8 +44377,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44432,8 +45562,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45602,8 +46732,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46733,8 +47863,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47951,8 +49081,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49112,8 +50242,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50818,8 +51948,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51681,8 +52811,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -52888,8 +54018,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53841,8 +54971,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55091,8 +56221,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56373,8 +57503,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57309,8 +58439,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58598,8 +59728,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-08-27T11:26:50.910Z',
-  '2026-08-27T11:26:50.910Z'
+  '2026-08-27T12:01:08.141Z',
+  '2026-08-27T12:01:08.141Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
