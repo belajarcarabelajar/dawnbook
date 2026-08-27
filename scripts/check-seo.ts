@@ -19,6 +19,10 @@ async function checkSeo() {
   let sitemapContent = "";
   try {
     sitemapContent = await readFile(sitemapPath, "utf-8");
+    if (!sitemapContent.includes("<lastmod>")) {
+      console.error("❌ [FAIL] output/sitemap.xml missing <lastmod> timestamps. (R3)");
+      hasErrors = true;
+    }
   } catch (err) {
     console.error("❌ [FAIL] output/sitemap.xml missing. (R3)");
     hasErrors = true;
@@ -50,10 +54,12 @@ async function checkSeo() {
             console.error(`❌ [FAIL] ${relativePath} missing <title>. (R1)`);
             hasErrors = true;
           }
-          if (!content.includes('<meta name="description"')) {
-            console.error(
-              `❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`,
-            );
+          const descMatches = content.match(/<meta\s+name=["']description["'][^>]*>/gi) || [];
+          if (descMatches.length === 0) {
+            console.error(`❌ [FAIL] ${relativePath} missing <meta name="description">. (R1)`);
+            hasErrors = true;
+          } else if (descMatches.length > 1) {
+            console.error(`❌ [FAIL] ${relativePath} contains ${descMatches.length} duplicate <meta name="description"> tags! (R1)`);
             hasErrors = true;
           }
 
@@ -74,12 +80,27 @@ async function checkSeo() {
             hasErrors = true;
           }
 
-          // R6: Structured Data
+          // R6: Structured Data (Valid JSON & BreadcrumbList)
           if (!content.includes("application/ld+json")) {
             console.error(
               `❌ [FAIL] ${relativePath} missing JSON-LD structured data. (R6)`,
             );
             hasErrors = true;
+          } else {
+            const scriptMatches = content.match(/<script\s+type=["']application\/ld\+json["']>([\s\S]*?)<\/script>/gi) || [];
+            for (const scriptTag of scriptMatches) {
+              const innerJson = scriptTag.replace(/<script[^>]*>/i, "").replace(/<\/script>/i, "").trim();
+              try {
+                const parsed = JSON.parse(innerJson);
+                if (parsed.headline && typeof parsed.headline === "string" && parsed.headline.startsWith('"')) {
+                  console.error(`❌ [FAIL] ${relativePath} JSON-LD headline contains double-escaped quotes: ${parsed.headline}`);
+                  hasErrors = true;
+                }
+              } catch (jsonErr) {
+                console.error(`❌ [FAIL] ${relativePath} contains invalid JSON-LD: ${jsonErr}`);
+                hasErrors = true;
+              }
+            }
           }
 
           // R7: Image alt text

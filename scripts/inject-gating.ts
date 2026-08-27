@@ -1,7 +1,7 @@
 import { readdir, readFile, writeFile, stat } from "node:fs/promises";
 import { join } from "node:path";
 
-function escapeHtml(unsafe: string): string {
+export function escapeHtml(unsafe: string): string {
   return unsafe.replace(/[&<>"']/g, (m) => {
     switch (m) {
       case "&":
@@ -20,8 +20,212 @@ function escapeHtml(unsafe: string): string {
   });
 }
 
-function escapeJson(unsafe: string): string {
-  return JSON.stringify(unsafe).replace(/</g, "\\u003c");
+export function serializeJsonLd(data: unknown): string {
+  return JSON.stringify(data, null, 2).replace(/</g, "\\u003c");
+}
+
+export interface InjectSeoOptions {
+  pageTitle: string;
+  url: string;
+  isGatedClientSide: boolean;
+  gaId?: string;
+  bookTitle?: string;
+  bookUrl?: string;
+}
+
+export function extractLeadText(html: string): string {
+  const bodyMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+  if (!bodyMatch) return "";
+  const body = bodyMatch[1];
+  const pMatch = body.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+  if (!pMatch) return "";
+  const clean = pMatch[1]
+    .replace(/<[^>]+>/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  return clean;
+}
+
+export function normalizeInternalLinks(html: string): string {
+  return html.replace(
+    /href="([^":?#\s]+)\.html(#[^"]*)?"/g,
+    (match, path, hash) => {
+      const fileName = path.split("/").pop();
+      if (fileName === "print" || fileName === "404" || fileName === "toc") {
+        return match;
+      }
+      if (path.endsWith("index")) {
+        const prefix = path.slice(0, -"index".length);
+        return `href="${prefix || "./"}${hash || ""}"`;
+      }
+      return `href="${path}${hash || ""}"`;
+    },
+  );
+}
+
+export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
+  const { pageTitle, url, isGatedClientSide, gaId } = options;
+
+  let content = normalizeInternalLinks(html);
+
+  // 1. Strip any pre-existing meta description to eliminate duplicates
+  content = content.replace(/<meta\s+name=["']description["'][^>]*>\s*/gi, "");
+
+  // 2. Extract lead paragraph text for rich, unique snippet
+  const lead = extractLeadText(content);
+  let finalDescription = lead
+    ? `${pageTitle}. ${lead}`
+    : `${pageTitle} - Buku edukasi terbuka Dawnbook. Pelajari ringkasan materi dan pembahasan lengkap bab ini.`;
+
+  // Trim to 160 chars max for optimal Google Search snippet CTR
+  if (finalDescription.length > 160) {
+    finalDescription = finalDescription.substring(0, 157) + "...";
+  }
+
+  const escapedTitle = escapeHtml(pageTitle);
+  const escapedDesc = escapeHtml(finalDescription);
+  const escapedUrl = escapeHtml(url);
+  const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
+
+  const articleData: any = {
+    "@type": "Article",
+    headline: pageTitle,
+    url: url,
+    description: finalDescription,
+    isAccessibleForFree: isGatedClientSide ? "false" : "true",
+    publisher: {
+      "@type": "Organization",
+      name: "Dawnbook",
+      url: "https://dawnbook.belajarcarabelajar.com",
+    },
+  };
+
+  if (isGatedClientSide) {
+    articleData.hasPart = {
+      "@type": "WebPageElement",
+      isAccessibleForFree: "false",
+      cssSelector: ".content",
+    };
+  }
+
+  const breadcrumbItems: any[] = [
+    {
+      "@type": "ListItem",
+      position: 1,
+      name: "Beranda",
+      item: "https://dawnbook.belajarcarabelajar.com/",
+    },
+  ];
+
+  const bookTitle = options.bookTitle;
+  const bookUrl = options.bookUrl;
+
+  if (bookTitle && bookUrl) {
+    breadcrumbItems.push({
+      "@type": "ListItem",
+      position: 2,
+      name: bookTitle,
+      item: bookUrl,
+    });
+    if (url !== bookUrl && url !== bookUrl.replace(/\/$/, "")) {
+      breadcrumbItems.push({
+        "@type": "ListItem",
+        position: 3,
+        name: pageTitle,
+        item: url,
+      });
+    }
+  } else {
+    const match = url.match(/^https?:\/\/[^\/]+\/books\/([^\/]+)/);
+    if (match) {
+      const slug = match[1];
+      const inferredBookUrl = `https://dawnbook.belajarcarabelajar.com/books/${slug}/`;
+      const inferredBookTitle = slug.replace(/-/g, " ").replace(/\b\w/g, (l) => l.toUpperCase());
+      breadcrumbItems.push({
+        "@type": "ListItem",
+        position: 2,
+        name: inferredBookTitle,
+        item: inferredBookUrl,
+      });
+      if (!url.endsWith(`/books/${slug}/`) && !url.endsWith(`/books/${slug}`)) {
+        breadcrumbItems.push({
+          "@type": "ListItem",
+          position: 3,
+          name: pageTitle,
+          item: url,
+        });
+      }
+    }
+  }
+
+  const breadcrumbData = {
+    "@type": "BreadcrumbList",
+    itemListElement: breadcrumbItems,
+  };
+
+  const schemaGraph = {
+    "@context": "https://schema.org",
+    "@graph": [articleData, breadcrumbData],
+  };
+
+  const gaTag = gaId
+    ? `
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '${gaId}');
+    </script>
+`
+    : "";
+
+  const seoTags = `
+        <meta name="theme-color" content="#000000" />
+        <link rel="manifest" href="/manifest.webmanifest" />
+        <script src="/register-sw.js" defer></script>
+        <script src="/pake-compat.js" defer></script>
+        <link rel="canonical" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
+        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
+        <meta name="description" content="${escapedDesc}" />
+        <meta property="og:title" content="${escapedTitle}" />
+        <meta property="og:description" content="${escapedDesc}" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="${escapedUrl}" />
+        <meta property="og:image" content="${defaultImage}" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="${escapedTitle}" />
+        <meta name="twitter:description" content="${escapedDesc}" />
+        <meta name="twitter:image" content="${defaultImage}" />
+        <script type="application/ld+json">
+        ${serializeJsonLd(schemaGraph)}
+        </script>
+  `;
+
+  if (content.includes("<head>")) {
+    content = content.replace("<head>", "<head>" + gaTag);
+  } else if (content.match(/<head[^>]*>/i)) {
+    content = content.replace(/<head[^>]*>/i, "$&" + gaTag);
+  }
+
+  if (content.includes("</head>")) {
+    content = content.replace("</head>", seoTags + "\n</head>");
+  }
+
+  if (isGatedClientSide) {
+    const script = `
+        <script>!function(){var e=window.location.pathname,t=null;try{t=sessionStorage.getItem("free_chapter_viewed")}catch(e){}if(t&&t!==e){document.documentElement.style.opacity="0";document.documentElement.style.visibility="hidden"}else{try{sessionStorage.setItem("free_chapter_viewed",e)}catch(e){}}}();</script>
+        <noscript><style>html{opacity:1!important;visibility:visible!important;}</style></noscript>
+    `;
+    if (content.includes("</head>")) {
+      content = content.replace("</head>", script + "\n</head>");
+    }
+  }
+
+  return content;
 }
 
 async function processDirectory(
@@ -45,7 +249,7 @@ async function processDirectory(
       const slug = baseSlug || entry;
       await processDirectory(fullPath, slug, manifestData);
     } else if (fullPath.endsWith(".html")) {
-      let content = await readFile(fullPath, "utf-8");
+      const content = await readFile(fullPath, "utf-8");
 
       // Extract title from HTML
       const titleMatch = content.match(/<title>(.*?)<\/title>/i);
@@ -61,23 +265,7 @@ async function processDirectory(
       }
       const url = `https://dawnbook.belajarcarabelajar.com${cleanRelativePath}`;
 
-      // GA is only injected when GA_MEASUREMENT_ID is provided; there is no
-      // hardcoded fallback (F-106) so a misconfigured build never ships a bogus
-      // or foreign measurement ID.
       const gaId = process.env.GA_MEASUREMENT_ID;
-      const gaTag = gaId
-        ? `
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=${gaId}"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', '${gaId}');
-    </script>
-`
-        : "";
 
       let isGatedClientSide = false;
       const bookMatch = relativePath.match(
@@ -108,77 +296,18 @@ async function processDirectory(
         }
       }
 
-      const escapedTitle = escapeHtml(pageTitle);
-      const escapedUrl = escapeHtml(url);
-      const defaultImage =
-        "https://dawnbook.belajarcarabelajar.com/icon-512.png";
+      const updatedContent = injectSeoAndGating(content, {
+        pageTitle,
+        url,
+        isGatedClientSide,
+        gaId,
+      });
 
-      const jsonLdData: any = {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        headline: escapeJson(pageTitle),
-        url: escapeJson(url),
-        isAccessibleForFree: isGatedClientSide ? "false" : "true",
-        publisher: {
-          "@type": "Organization",
-          name: "Dawnbook",
-          url: "https://dawnbook.belajarcarabelajar.com",
-        },
-      };
-
-      if (isGatedClientSide) {
-        jsonLdData.hasPart = {
-          "@type": "WebPageElement",
-          isAccessibleForFree: "false",
-          cssSelector: ".content",
-        };
-      }
-
-      const seoTags = `
-        <meta name="theme-color" content="#000000" />
-        <link rel="manifest" href="/manifest.webmanifest" />
-        <script src="/register-sw.js" defer></script>
-        <script src="/pake-compat.js" defer></script>
-        <link rel="canonical" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="en" href="${escapedUrl}" />
-        <link rel="alternate" hreflang="id" href="${escapedUrl}" />
-        <meta name="description" content="${escapedTitle}" />
-        <meta property="og:title" content="${escapedTitle}" />
-        <meta property="og:type" content="article" />
-        <meta property="og:url" content="${escapedUrl}" />
-        <meta property="og:image" content="${defaultImage}" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="${escapedTitle}" />
-        <meta name="twitter:image" content="${defaultImage}" />
-        <script type="application/ld+json">
-        ${JSON.stringify(jsonLdData, null, 2)}
-        </script>
-      `;
-
-      if (content.includes("<head>")) {
-        content = content.replace("<head>", "<head>" + gaTag);
-      } else if (content.match(/<head[^>]*>/i)) {
-        content = content.replace(/<head[^>]*>/i, "$&" + gaTag);
-      }
-
-      if (content.includes("</head>")) {
-        content = content.replace("</head>", seoTags + "\n</head>");
-      }
-
-      if (isGatedClientSide) {
-        // Inject head script to prevent FOUC with dynamic SEO-first gating
-        const script = `
-        <script>!function(){var e=window.location.pathname,t=null;try{t=sessionStorage.getItem("free_chapter_viewed")}catch(e){}if(t&&t!==e){document.documentElement.style.opacity="0";document.documentElement.style.visibility="hidden"}else{try{sessionStorage.setItem("free_chapter_viewed",e)}catch(e){}}}();</script>
-        <noscript><style>html{opacity:1!important;visibility:visible!important;}</style></noscript>
-        `;
-        if (content.includes("</head>")) {
-          content = content.replace("</head>", script + "\n</head>");
-        }
-      }
-
-      await writeFile(fullPath, content, "utf-8");
+      await writeFile(fullPath, updatedContent, "utf-8");
     }
   }
 }
 
-processDirectory(join(process.cwd(), "output/books")).catch(console.error);
+if (import.meta.main) {
+  processDirectory(join(process.cwd(), "output/books")).catch(console.error);
+}

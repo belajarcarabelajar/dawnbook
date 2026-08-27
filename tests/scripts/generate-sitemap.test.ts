@@ -43,6 +43,8 @@ describe("Generate Sitemap (scripts/generate-sitemap.ts)", () => {
 
       expect(sitemapContent).toContain("<urlset");
       expect(sitemapContent).toContain("https://dawnbook.belajarcarabelajar.com/books/test-book/chapter1");
+      expect(sitemapContent).toContain("<lastmod>");
+      expect(sitemapContent).toMatch(/<lastmod>\d{4}-\d{2}-\d{2}<\/lastmod>/);
       expect(sitemapContent).not.toContain("404.html");
 
       expect(robotsContent).toContain("User-agent: *");

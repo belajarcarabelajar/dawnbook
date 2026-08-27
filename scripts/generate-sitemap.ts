@@ -1,26 +1,34 @@
-import { readdir, writeFile } from "node:fs/promises";
+import { readdir, writeFile, stat } from "node:fs/promises";
 import { join } from "node:path";
+
+export interface SitemapItem {
+  loc: string;
+  lastmod: string;
+  changefreq?: string;
+  priority?: string;
+}
 
 export async function generateSitemap() {
   const rootDir = process.cwd();
   const outputDir = join(rootDir, "output");
   const baseUrl = "https://dawnbook.belajarcarabelajar.com";
+  const todayIso = new Date().toISOString().split("T")[0];
 
-  let urls: string[] = [];
+  let entries: SitemapItem[] = [];
 
   // Add static public hub pages
-  urls.push(`${baseUrl}/`);
-  urls.push(`${baseUrl}/about`);
-  urls.push(`${baseUrl}/contribute`);
-  urls.push(`${baseUrl}/donate`);
-  urls.push(`${baseUrl}/appreciation`);
-  urls.push(`${baseUrl}/statistics`);
-  urls.push(`${baseUrl}/dmca`);
+  entries.push({ loc: `${baseUrl}/`, lastmod: todayIso, changefreq: "daily", priority: "1.0" });
+  entries.push({ loc: `${baseUrl}/about`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
+  entries.push({ loc: `${baseUrl}/contribute`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
+  entries.push({ loc: `${baseUrl}/donate`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
+  entries.push({ loc: `${baseUrl}/appreciation`, lastmod: todayIso, changefreq: "monthly", priority: "0.7" });
+  entries.push({ loc: `${baseUrl}/statistics`, lastmod: todayIso, changefreq: "weekly", priority: "0.7" });
+  entries.push({ loc: `${baseUrl}/dmca`, lastmod: todayIso, changefreq: "monthly", priority: "0.5" });
 
   async function scanDirectory(dir: string) {
-    const entries = await readdir(dir, { withFileTypes: true });
+    const dirEntries = await readdir(dir, { withFileTypes: true });
     await Promise.all(
-      entries.map(async (entry) => {
+      dirEntries.map(async (entry) => {
         const fullPath = join(dir, entry.name);
         if (entry.isDirectory()) {
           await scanDirectory(fullPath);
@@ -37,12 +45,30 @@ export async function generateSitemap() {
           }
 
           let cleanPath = relativePath;
+          let priority = "0.8";
           if (cleanPath.endsWith("/index.html")) {
             cleanPath = cleanPath.replace(/\/index\.html$/, "/");
+            priority = "0.9";
           } else if (cleanPath.endsWith(".html")) {
             cleanPath = cleanPath.replace(/\.html$/, "");
           }
-          urls.push(`${baseUrl}${cleanPath}`);
+
+          let fileLastmod = todayIso;
+          try {
+            const fileStat = await stat(fullPath);
+            if (fileStat.mtime) {
+              fileLastmod = new Date(fileStat.mtime).toISOString().split("T")[0];
+            }
+          } catch {
+            // fallback to todayIso
+          }
+
+          entries.push({
+            loc: `${baseUrl}${cleanPath}`,
+            lastmod: fileLastmod,
+            changefreq: "weekly",
+            priority,
+          });
         }
       })
     );
@@ -56,11 +82,20 @@ export async function generateSitemap() {
 
   const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((url) => `  <url>\n    <loc>${url}</loc>\n    <changefreq>weekly</changefreq>\n  </url>`).join("\n")}
+${entries
+  .map(
+    (e) => `  <url>
+    <loc>${e.loc}</loc>
+    <lastmod>${e.lastmod}</lastmod>
+    <changefreq>${e.changefreq || "weekly"}</changefreq>
+    <priority>${e.priority || "0.8"}</priority>
+  </url>`,
+  )
+  .join("\n")}
 </urlset>`;
 
   await writeFile(join(outputDir, "sitemap.xml"), sitemapContent);
-  console.log("✅ sitemap.xml generated with", urls.length, "URLs.");
+  console.log("✅ sitemap.xml generated with", entries.length, "URLs.");
 
   const robotsContent = `User-agent: *
 Allow: /

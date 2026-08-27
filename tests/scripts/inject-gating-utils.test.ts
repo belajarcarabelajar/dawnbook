@@ -20,8 +20,8 @@ function escapeHtml(unsafe: string): string {
   });
 }
 
-function escapeJson(unsafe: string): string {
-  return JSON.stringify(unsafe).replace(/</g, "\\u003c");
+export function serializeJsonLd(data: unknown): string {
+  return JSON.stringify(data, null, 2).replace(/</g, "\\u003c");
 }
 
 describe("Inject Gating XSS Prevention Utilities", () => {
@@ -38,18 +38,32 @@ describe("Inject Gating XSS Prevention Utilities", () => {
     });
   });
 
-  describe("escapeJson", () => {
+  describe("serializeJsonLd", () => {
     test("escapes angle brackets to prevent script breakout in JSON-LD", () => {
-      const input = 'Title with <script>tag</script>';
-      const output = escapeJson(input);
-      expect(output).toContain('\\u003cscript>tag\\u003c/script>');
+      const payload = {
+        title: "Title with <script>alert(1)</script>",
+        url: "https://dawnbook.belajarcarabelajar.com/test",
+      };
+      const output = serializeJsonLd(payload);
+      expect(output).toContain('\\u003cscript>alert(1)\\u003c/script>');
       expect(output).not.toContain('<script>');
+      const parsed = JSON.parse(output);
+      expect(parsed.title).toBe("Title with <script>alert(1)</script>");
+      expect(parsed.url).toBe("https://dawnbook.belajarcarabelajar.com/test");
     });
 
-    test("returns valid JSON string encoding", () => {
-      const input = 'Line 1\nLine "2"';
-      const output = escapeJson(input);
-      expect(JSON.parse(output)).toBe(input);
+    test("does not double-quote string values in serialized JSON-LD object", () => {
+      const payload = {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        headline: "Bab 1: Pendahuluan",
+        url: "https://dawnbook.belajarcarabelajar.com/books/sample/content/01_intro",
+      };
+      const output = serializeJsonLd(payload);
+      const parsed = JSON.parse(output);
+      expect(parsed.headline).toBe("Bab 1: Pendahuluan");
+      expect(parsed.url).toBe("https://dawnbook.belajarcarabelajar.com/books/sample/content/01_intro");
+      expect(output).not.toContain('"\\"Bab 1: Pendahuluan\\""');
     });
   });
 
