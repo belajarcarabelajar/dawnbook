@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar rujukan ini menyajikan sumber-sumber primer dan sekunder yang menjadi fondasi konseptual dalam pembahasan eksistensialisme, kehendak bebas, tanggung jawab moral, dan pencarian makna hidup. Seluruh referensi disusun berdasarkan standar APA (*American Psychological Association*) Edisi ke-7, mencakup teks klasik para filsuf utama serta studi akademis kontemporer yang relevan.
+Daftar rujukan ini menyajikan sumber primer dan sekunder berstandar APA Edisi ke-7 sebagai fondasi teoretis kajian eksistensialisme dan kehendak bebas. Seluruh referensi mencakup teks kanonik para filsuf utama serta monograf akademis kontemporer yang relevan, lengkap dengan tautan digital resmi dan Digital Object Identifier (DOI).
 
 ### Karya Primer
 
