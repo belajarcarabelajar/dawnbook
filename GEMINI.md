@@ -138,6 +138,15 @@ This file contains critical architectural decisions and strict rules for the Daw
   2. **Book Content Writing & Editing:** Writing cleaned chapter files using `write_to_file` and performing targeted edits via `replace_file_content`.
   3. **Mandatory Post-Writing AI Verification:** Line-by-line verification of headings, 0 pronouns ("Anda"/"kamu"), 0 em-dashes (`—`), 0 emojis, and `<div>` display math.
 
+## 18. Mandatory Author Git Commit & Push Identity Rule
+- **Iwan Kurniawan Identity (Default):**
+  - Full Name: `Iwan Kurniawan`
+  - Git Commit/Push Email: `iwan@belajarcarabelajar.com`
+- **Kania Salsabila Identity:**
+  - Full Name: `Kania Salsabila`
+  - Git Commit/Push Email: `kaniasalsabila639@gmail.com`
+- **Rule:** When committing and pushing changes or authoring books specifically attributed to Kania Salsabila, agents and workflows MUST set or pass Git author identity as `Kania Salsabila <kaniasalsabila639@gmail.com>` (e.g. `git commit --author="Kania Salsabila <kaniasalsabila639@gmail.com>"` or setting `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For general repository maintenance and books authored by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
