@@ -30,7 +30,7 @@ $$
 <div>
 
 $$
-\text{Tanggung Jawab Mutlak} \rightarrow \text{Kecemasan Ontologis (\text{Angst})}
+\text{Tanggung Jawab Mutlak} \rightarrow \text{Kecemasan Ontologis (Angst)}
 $$
 
 </div>

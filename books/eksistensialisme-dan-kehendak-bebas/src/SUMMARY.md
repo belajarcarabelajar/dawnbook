@@ -6,7 +6,7 @@
 - [Dunia yang Absurd dan Pemberontakan Manusia](content/04_dunia-yang-absurd-dan-pemberontakan-manusia.md)
 - [Kecemasan sebagai Konsekuensi Kebebasan](content/05_kecemasan-sebagai-konsekuensi-kebebasan.md)
 - [Otentisitas vs Iktikad Buruk: Menjadi Sutradara Atas Hidup Sendiri](content/06_otentisitas-vs-iktikad-buruk-menjadi-sutradara-atas-hidup-sendiri.md)
-- [Filosofi 'Raja Bajak Laut': Kebebasan Tanpa Batas](content/07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas.md)
+- [Filosofi 'Raja Bajak Laut': Kebebasan Tanpa Batas dalam Narasi One Piece](content/07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas.md)
 - [Kehendak untuk Berkuasa dan Menaklukkan Diri](content/08_kehendak-untuk-berkuasa-dan-menaklukkan-diri.md)
 - [Tanggung Jawab Moral dalam Kebebasan Radikal](content/09_tanggung-jawab-moral-dalam-kebebasan-radikal.md)
 - [Menciptakan Makna di Tengah Ketidakpastian](content/10_menciptakan-makna-di-tengah-ketidakpastian.md)

@@ -43,7 +43,7 @@ Dalam kerangka ontologi eksistensial, disparitas kategoris antara benda mati (ob
 | Dimensi Analisis | Entitas Objek (Benda Mati) | Entitas Subjek (Manusia) |
 | :--- | :--- | :--- |
 | **Urutan Ontologis** | Esensi Mendahului Eksistensi | Eksistensi Mendahului Esensi |
-| **Formulasi Notasi** | \( \text{Esensi} \rightarrow \text{Produksi} \rightarrow \text{Eksistensi} \) | \( \text{Eksistensi} \rightarrow \text{Pilihan} \rightarrow \text{Esensi} \) |
+| **Formulasi Notasi** | $\text{Esensi} \rightarrow \text{Produksi} \rightarrow \text{Eksistensi}$ | $\text{Eksistensi} \rightarrow \text{Pilihan} \rightarrow \text{Esensi}$ |
 | **Sumber Signifikasi** | Perancang Eksternal / Pembuat | Subjek Otonom Melalui Tindakan |
 | **Karakter Keberadaan** | Deterministik dan Pasif | Bebas, Sadar, dan Otentik |
 

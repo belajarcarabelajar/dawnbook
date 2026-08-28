@@ -19,7 +19,7 @@ Masyarakat industri dan pasca-industri kerap menjebak individu ke dalam reduksio
 
 #### Primasi Eksistensi atas Fungsi Ekonomi
 
-Prinsip ontologis bahwa \( \text{Eksistensi} > \text{Esensi} \) menegaskan bahwa manusia mendahului segala kategori profesi. Pekerjaan adalah salah satu sarana ekspresi praksis kebebasan, bukan sangkar ontologis yang mendefinisikan totalitas martabat individu.
+Prinsip ontologis bahwa $\text{Eksistensi} > \text{Esensi}$ menegaskan bahwa manusia mendahului segala kategori profesi. Pekerjaan adalah salah satu sarana ekspresi praksis kebebasan, bukan sangkar ontologis yang mendefinisikan totalitas martabat individu.
 
 Ketika seseorang memandang profesinya sebagai peran instrumental belaka dan menolak menjadikan dirinya budak atas ekspektasi korporasi yang destruktif, langkah tersebut mencerminkan penegasan otentisitas: subjek menegaskan bahwa kedaulatan eksistensialnya melampaui utilitas fungsional pasar kerja.
 
@@ -35,7 +35,7 @@ $$
 
 </div>
 
-Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai bentuk ketidakotentikan. Asumsi bahwa akumulasi ekspektasi eksternal secara mekanis menghasilkan kebermaknaan hidup (\( \sum \text{Ekspektasi} = \text{Makna} \)) merupakan ilusi struktural. Makna hidup yang otentik lahir dari keselarasan antara praksis tindakan konkret dan nilai-nilai yang dipilih secara otonom.
+Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai bentuk ketidakotentikan. Asumsi bahwa akumulasi ekspektasi eksternal secara mekanis menghasilkan kebermaknaan hidup ($\sum \text{Ekspektasi} = \text{Makna}$) merupakan ilusi struktural. Makna hidup yang otentik lahir dari keselarasan antara praksis tindakan konkret dan nilai-nilai yang dipilih secara otonom.
 
 ### 4. Matriks Evaluasi Praksis Eksistensial Modern
 

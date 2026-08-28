@@ -51,12 +51,12 @@ $$
 </div>
 
 Di mana variabel formulasi mencakup:
-- \( P(t) \): Potensi eksistensial yang teraktualisasi pada kurun waktu \( t \).
-- \( P_0 \): Kapasitas awal subjek.
-- \( k \): Koefisien efisiensi internalisasi pengalaman.
-- \( s \): Derajat penaklukkan diri (*self-overcoming*).
+- $P(t)$: Potensi eksistensial yang teraktualisasi pada kurun waktu $t$.
+- $P_0$: Kapasitas awal subjek.
+- $k$: Koefisien efisiensi internalisasi pengalaman.
+- $s$: Derajat penaklukkan diri (*self-overcoming*).
 
-Formulasi ini menegaskan bahwa peningkatan derajat penaklukkan diri (\( s \)) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
+Formulasi ini menegaskan bahwa peningkatan derajat penaklukkan diri ($s$) secara konsisten melipatgandakan kapasitas aktualisasi eksistensial manusia.
 
 ### 5. Kontekstualisasi Etika Penaklukkan Diri
 

@@ -24,6 +24,8 @@ Nietzsche, F. (2006a). *[On the Genealogy of Morality](https://doi.org/10.1017/C
 
 Nietzsche, F. (2006b). *[Thus Spoke Zarathustra: A Book for All and None](https://doi.org/10.1017/CBO9780511812040)* (A. Del Caro & R. Pippin, Ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511812040
 
+Oda, E. (1997–sekarang). *[One Piece](https://www.shonenjump.com/j/rensai/onepiece.html)*. Shueisha.
+
 Sartre, J.-P. (1956). *[Being and Nothingness: A Phenomenological Essay on Ontology](https://www.routledge.com/Being-and-Nothingness-An-Essay-on-Phenomenological-Ontology/Sartre/p/book/9780415529112)* (H. E. Barnes, Penerj.). Philosophical Library.
 
 Sartre, J.-P. (2007). *[Existentialism Is a Humanism](https://yalebooks.yale.edu/book/9780300115468/existentialism-is-a-humanism/)* (C. Macomber, Penerj.; A. Elkaïm-Sartre, Ed.). Yale University Press.
