@@ -2,6 +2,8 @@
 
 This file contains critical architectural decisions and strict rules for the Dawnbook platform. Any AI assistant working on this repository **MUST** adhere to these rules to prevent regressions and maintain system consistency.
 
+> **Single source of truth (synced):** `AGENTS.md` and `CLAUDE.md` at the repo root are **symlinks to this file** (`GEMINI.md`). Editing any one of the three edits the same underlying content, so all AI tools (Gemini, Claude, OpenCode/agents) read identical guidance. Do NOT "fix" the symlinks by turning them into separate files. Caveat: an editor that saves via atomic rename can replace a symlink with a regular file, breaking the sync, recreate with `ln -s GEMINI.md AGENTS.md && ln -s GEMINI.md CLAUDE.md` if that happens. (Note: `.agents/AGENTS.md` is a separate, older file and is not part of this symlink set.)
+
 ## 1. Centralized mdBook Templating
 - **Master Template:** The file `books/_template/book.toml` is the absolute source of truth for all mdBook configurations.
 - **Auto-Sync:** The `scripts/sync-template.ts` script automatically forces all other `book.toml` files to inherit configurations (like `additional-css`, `additional-js`, and `mathjax-support`) from the master template during the build process.
