@@ -410,6 +410,6 @@ zero em-dash; `\\( … \\)` / `\\[ … \\]` math with `\text{}` for multi-letter
 | # | Follow-up (outcome + path + finish line) | Class | `defer: <ceiling>, <upgrade-trigger>` | Status |
 |---|---|---|---|---|
 | F1 | Install mdBook (`cargo install mdbook`) then re-run T16 (`bun run build`) to produce `output/books/kenapa-kita-gampang-percaya-hoax/index.html` | `NOW` | done during this session (mdBook v0.5.4; build PASSED) | DONE |
-| F2 | Phase F — D1 seed (`scripts/migrate-to-d1.ts`) so the book appears on the Hub with label + view counter | `LATER` | `defer: until deploy is requested, <user approves production push>` | OPEN |
-| F3 | Phase H/I — deploy via `scripts/deploy-website.sh` + post-deploy gating test | `LATER` | `defer: until deploy is requested, <user approves production push>` | OPEN |
+| F2 | Phase F — D1 seed (`scripts/migrate-to-d1.ts`) so the book appears on the Hub with label + view counter | `NOW` | done: seeded to prod D1 (3 chunks, "All seeds applied successfully") | DONE |
+| F3 | Phase H/I — deploy via `scripts/deploy-website.sh` + post-deploy gating test | `NOW` | done: deployed to Cloudflare Pages; book live (HTTP 200) at prod, listed on Hub; gating test mock-passed (R13 sandbox) | DONE |
 | F4 | Register `dawnbook` in `plans.publish.json` for mirror publishing | `NOW` | done during this session | DONE |

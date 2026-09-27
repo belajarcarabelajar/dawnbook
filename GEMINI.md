@@ -123,7 +123,7 @@ This file contains critical architectural decisions and strict rules for the Daw
 ## 16. Strict Zero-Loss Line-by-Line AI Reading & Anti-Batch Transformation Rule
 - **Prohibition of Batch Content Scripts:** Agents MUST NOT use batch find-replace scripts, mass regular expression transformations, or Node batch converters for authoring or editing book content. Automated batch scripts cause data loss, strip headers, merge paragraphs, and corrupt LaTeX subscripts.
 - **Mandatory 1:1 Line-by-Line AI Inspection (`view_file`):** Every chapter MUST be read line-by-line from source using `view_file` and verified line-by-line after writing using `view_file`.
-- **Zero Second-Person Pronouns ("Anda" / "kamu"):** Every chapter MUST be 100% free of second-person pronouns ("Anda", "kamu"). Replace them with inclusive terms ("pemelajar", "pembaca", "kita") or passive phrasing.
+- **Mandatory "kamu" Address (NOT "Anda"):** Every chapter MUST address the reader informally as **"kamu"**. The formal pronoun **"Anda" is strictly forbidden** and any occurrence MUST be replaced with "kamu". This matches Rule R7.7.1 in `MDBOOK_SYSTEM_RULES.md` and every existing book on the platform. (Historical note: an earlier version of this section wrongly banned "kamu" as well; that was incorrect and is superseded, confirmed by the repo owner on 2026-09-28.)
 - **Zero Em-Dash Policy (`—`):** Em-dash characters (`—`) are strictly forbidden in book output. Replace with a comma (`,`), colon (`:`), parenthetical `(...)`, or regular hyphen (`-`).
 - **`<div>` Wrapped Display Math:** All display math equations MUST be wrapped in `<div>\n$$ ... $$\n</div>` with blank lines before and after to prevent `pulldown-cmark` from parsing internal underscores into HTML `<em>` emphasis tags.
 
@@ -146,6 +146,23 @@ This file contains critical architectural decisions and strict rules for the Daw
   - Full Name: `Kania Salsabila`
   - Git Commit/Push Email: `kaniasalsabila639@gmail.com`
 - **Rule:** When committing and pushing changes or authoring books specifically attributed to Kania Salsabila, agents and workflows MUST set or pass Git author identity as `Kania Salsabila <kaniasalsabila639@gmail.com>` (e.g. `git commit --author="Kania Salsabila <kaniasalsabila639@gmail.com>"` or setting `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For general repository maintenance and books authored by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
+
+## 19. Deployment Credentials Location (Cloudflare)
+- **Where the deploy credentials live:** They are intentionally NOT stored in this repo (per S3 in `MDBOOK_SYSTEM_RULES.md`: never commit account IDs or API tokens). They are kept in the user-managed, git-ignored file **`~/cloudflare/.env`** (permissions `600`).
+- **Relevant keys in that file:** `CLOUDFLARE_ACCOUNT_ID` and `CF_API_TOKEN`. `scripts/deploy-website.sh` maps `CLOUDFLARE_API_TOKEN` from `CF_API_TOKEN` via `${CLOUDFLARE_API_TOKEN:-$CF_API_TOKEN}`. The same file also holds Turnstile, R2, and sccache/AWS keys.
+- **Important:** `scripts/deploy-website.sh` only auto-sources `/root/.env`, `./.env`, and `./.dev.vars` (relative to the repo root), NOT `~/cloudflare/.env`. So source the credential file into the environment first, then deploy:
+  ```bash
+  set -a && source ~/cloudflare/.env && set +a
+  export PATH="$HOME/.cargo/bin:$PATH"   # mdBook lives here; run `cargo install mdbook` if missing
+  bash scripts/deploy-website.sh
+  ```
+- **Phase F seed:** the deploy script applies only D1 schema migrations, not content. After deploying a new/updated book, also run `bun run scripts/migrate-to-d1.ts` (creds sourced) so the book's D1 row, subject label, and view counter exist.
+- **Security:** NEVER print, echo, log, or commit the token or account ID value. Reference them by key name only. If a token is ever exposed (for example pasted into a chat/transcript), treat it as compromised and rotate it in the Cloudflare dashboard. An agent must not type or paste a new credential itself; the human owns credential entry into `~/cloudflare/.env`.
+
+## 20. Length-Rewrite Budget (Anti-Waste Policy)
+- **Set the length budget in the FIRST authoring dispatch, not after.** When delegating a chapter, give the subagent an explicit hard character/byte ceiling (this platform's house length is roughly 6-8 KB per chapter) AND instruct it to run `wc -c` and self-trim BEFORE returning. This prevents a second correction round.
+- **3-attempt cap on length reduction (repo owner directive, 2026-09-28):** If a chapter or file has been rewritten 3 times to reduce token/character count and the size is still not significantly lower, STOP. Accept the longer version and move on. Do not keep re-editing the same file to shave characters, it wastes generative tokens for negligible gain. Content correctness and the hard rules (kamu, no emoji, no em-dash, valid LaTeX) always outrank hitting an exact size.
+- **Applies to any repeated size-reduction loop**, whether triggered by a tool size limit or a self-imposed target.
 
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
