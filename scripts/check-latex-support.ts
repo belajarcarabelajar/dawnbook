@@ -218,9 +218,16 @@ async function checkLatexSupport() {
         
         const hasMathjax = tomlContent.includes("mathjax-support = true");
         const hasKatex = tomlContent.includes("mdbook-katex");
-        
-        if (!hasMathjax && !hasKatex) {
-          console.error(`❌ [FAIL] ${entry.name}/book.toml is missing 'mathjax-support = true' under [output.html]`);
+        // Manual MathJax via theme/head.hbs (defer, Rule 10) is the canonical
+        // provider when mdBook's async injection is disabled (mathjax-support = false).
+        let hasManualMathjax = false;
+        try {
+          const headHbs = await readFile(join(bookPath, "theme", "head.hbs"), "utf-8");
+          hasManualMathjax = headHbs.includes("MathJax.js") && headHbs.includes("defer");
+        } catch { /* no theme override */ }
+
+        if (!hasMathjax && !hasKatex && !hasManualMathjax) {
+          console.error(`❌ [FAIL] ${entry.name}/book.toml is missing 'mathjax-support = true' under [output.html] and theme/head.hbs has no manual MathJax`);
           hasErrors = true;
         } else {
           console.log(`✅ [PASS] ${entry.name} has LaTeX support enabled in book.toml.`);

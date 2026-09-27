@@ -251,7 +251,6 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
   const seoTags = `
         <meta name="theme-color" content="#000000" />
         <link rel="manifest" href="/manifest.webmanifest" />
-        <script src="/register-sw.js" defer></script>
         <script src="/pake-compat.js" defer></script>
         <link rel="canonical" href="${escapedUrl}" />
         <link rel="alternate" hreflang="en" href="${escapedUrl}" />

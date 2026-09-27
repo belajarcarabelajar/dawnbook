@@ -23,9 +23,11 @@ window.MathJax = {
 // navigations (next/prev buttons, swipe gestures, bfcache restoration, popstate):
 //   1. Runs on DOMContentLoaded / readyState
 //   2. Runs on window load
-//   3. Runs unconditionally on ALL `pageshow` events (swipe navigation / bfcache)
+//   3. Runs on `pageshow` ONLY when e.persisted (bfcache restore, Rule 10)
 //   4. Runs on `popstate` and `hashchange` (history navigation)
 //   5. Registers MathJax Startup Hook for initial load
+// Debounce (~100ms trailing) guards against double typeset on rapid
+// navigation events (load + pageshow + popstate firing together).
 (function() {
     function retypeset() {
         if (window.MathJax && window.MathJax.Hub) {
@@ -47,16 +49,33 @@ window.MathJax = {
         }
     }
 
+    // Trailing debounce (~100ms): collapse bursts of nav events into one typeset.
+    var retypesetTimer = null;
+    function debouncedRetypeset() {
+        if (retypesetTimer) { clearTimeout(retypesetTimer); }
+        retypesetTimer = setTimeout(retypeset, 100);
+    }
+
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', retypeset);
     } else {
         retypeset();
     }
 
-    window.addEventListener('load', retypeset);
-    window.addEventListener('pageshow', retypeset);
-    window.addEventListener('popstate', retypeset);
-    window.addEventListener('hashchange', retypeset);
+    window.addEventListener('load', function() {
+        if (window.MathJax && window.MathJax.Hub) {
+            window.MathJax.Hub.Queue(['Typeset', window.MathJax.Hub]);
+        } else {
+            debouncedRetypeset();
+        }
+    });
+    window.addEventListener('pageshow', function(e) {
+        if (e && e.persisted) {
+            debouncedRetypeset();
+        }
+    });
+    window.addEventListener('popstate', debouncedRetypeset);
+    window.addEventListener('hashchange', debouncedRetypeset);
 })();
 
 
@@ -84,10 +103,14 @@ window.MathJax = {
     try { freeChapter = sessionStorage.getItem('free_chapter_viewed'); } catch(e) { console.error('sessionStorage getItem error', e); }
     var isPublic = (freeChapter === currentPath) || (freeChapter && decodeURIComponent(freeChapter) === path) || basename === 'index.html' || basename === '' || basename === 'toc.html' || basename === '404.html';
 
-    if (!isPublic) {
-        document.documentElement.style.opacity = '0';
-        document.documentElement.style.visibility = 'hidden';
-    }
+    // Internal chapter-to-chapter navigation detection (same pattern as
+    // isInternalNavigation in handleCheckpoint below): if the referrer is a
+    // page of the same book, this is a chapter hop, not a cold entry.
+    // Computed here so the hide decision below can use it synchronously.
+    var gatingPathParts = currentPath.split('/').filter(Boolean);
+    var gatingBookIndex = gatingPathParts.indexOf('books');
+    var gatingBookSlug = (gatingBookIndex !== -1 && gatingPathParts.length > gatingBookIndex + 1) ? gatingPathParts[gatingBookIndex + 1] : null;
+    var isInternalChapterNav = !!(gatingBookSlug && document.referrer && document.referrer.indexOf('/books/' + gatingBookSlug + '/') !== -1);
 
     function reveal() {
         if (!isPublic) {
@@ -215,6 +238,18 @@ window.MathJax = {
             });
     }
 
+    // Gating rule: dynamic SEO-first gating based on entry point.
+    // Public pages reveal immediately; gated pages stay hidden until the
+    // auth check resolves — EXCEPT on internal chapter-to-chapter hops
+    // within the same book, where the page is never hidden (no white flash
+    // while checkAuth resolves async). checkAuth still runs and redirects
+    // to /sign-in when the session is invalid; the edge middleware
+    // (functions/_middleware.ts:143-155) remains the real enforcer.
+    if (!isPublic && !isInternalChapterNav) {
+        document.documentElement.style.opacity = '0';
+        document.documentElement.style.visibility = 'hidden';
+    }
+
     checkAuth();
 })();
 
@@ -316,3 +351,79 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('resize', updateProgress, { passive: true });
     updateProgress();
 });
+
+// T2 visual bridge + next/prev prefetch hints (progressive enhancement).
+// NOTE (honest): prefetch hints are best-effort under the platform no-store
+// CDN policy (Rule 3); the browser may still revalidate or skip the
+// prefetched response, so this only shortens DNS/TCP/TLS setup in the best
+// case and does not guarantee instant chapter loads.
+(function() {
+    var prefetchedUrls = new Set();
+
+    function addPrefetch(href) {
+        if (!href || prefetchedUrls.has(href)) return;
+        prefetchedUrls.add(href);
+        try {
+            var link = document.createElement('link');
+            link.rel = 'prefetch';
+            link.href = href;
+            document.head.appendChild(link);
+        } catch (err) {
+            console.warn('prefetch hint error:', err);
+        }
+    }
+
+    function ensureOverlay() {
+        var overlay = document.getElementById('chapter-loading-overlay');
+        if (overlay) return overlay;
+        overlay = document.createElement('div');
+        overlay.id = 'chapter-loading-overlay';
+        overlay.setAttribute('aria-hidden', 'true');
+        var spinner = document.createElement('span');
+        spinner.className = 'chapter-spinner';
+        overlay.appendChild(spinner);
+        document.body.appendChild(overlay);
+        return overlay;
+    }
+
+    function showChapterOverlay() {
+        try {
+            ensureOverlay().classList.add('is-visible');
+        } catch (err) {
+            console.warn('chapter overlay error:', err);
+        }
+    }
+
+    function prefetchNavChapters() {
+        var next = document.querySelector('a.nav-chapters.next');
+        var prev = document.querySelector('a.nav-chapters.prev, a.nav-chapters.previous');
+        if (next && next.href) addPrefetch(next.href);
+        if (prev && prev.href) addPrefetch(prev.href);
+    }
+
+    document.addEventListener('click', function(e) {
+        var link = e.target && e.target.closest
+            ? e.target.closest('a[rel="next"], a[rel="prev"], .sidebar a, a.nav-chapters')
+            : null;
+        if (link && link.href) showChapterOverlay();
+    });
+
+    document.addEventListener('mouseover', function(e) {
+        var link = e.target && e.target.closest
+            ? e.target.closest('.sidebar a')
+            : null;
+        if (link && link.href) addPrefetch(link.href);
+    });
+    document.addEventListener('focusin', function(e) {
+        var link = e.target && e.target.closest
+            ? e.target.closest('.sidebar a')
+            : null;
+        if (link && link.href) addPrefetch(link.href);
+    });
+
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', prefetchNavChapters);
+    } else {
+        prefetchNavChapters();
+    }
+})();

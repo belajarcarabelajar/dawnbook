@@ -99,3 +99,45 @@ img {
   z-index: 9998;
   transition: width 0.3s ease-out;
 }
+
+/* T2 visual bridge: fade reveal on documentElement plus chapter loading overlay. */
+html {
+  transition: opacity 0.18s ease;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    transition: none;
+  }
+  #chapter-loading-overlay .chapter-spinner {
+    animation: none;
+  }
+}
+#chapter-loading-overlay {
+  position: fixed;
+  top: 12px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10000;
+  display: none;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 12px;
+  border-radius: 999px;
+  background: var(--bg);
+  border: 1px solid var(--links);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+#chapter-loading-overlay.is-visible {
+  display: inline-flex;
+}
+#chapter-loading-overlay .chapter-spinner {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  border: 2px solid var(--links);
+  border-top-color: transparent;
+  animation: chapter-spin 0.8s linear infinite;
+}
+@keyframes chapter-spin {
+  to { transform: rotate(360deg); }
+}
