@@ -111,7 +111,11 @@
 
 | # | Follow-up (outcome + path + finish line) | Class | `defer: <ceiling>, <upgrade-trigger>` | Status |
 |---|---|---|---|---|
-| F1 | (diisi saat sweep) | — | — | `OPEN` |
+| F1 | Strengthen INV-UI-3 to assert conditional hide (`isInternalChapterNav`) in `transition-repro.test.ts`; finish line: test fails if hide unconditional, passes now | `NOW` | — | `DONE` (8/8 GREEN, 17 expects; 0 hits pre-fix proven) |
+| F2 | Force `reveal()` on `pageshow` persisted in gating IIFE `books/shared-script.js` (close bfcache cold-opacity window); finish line: repro GREEN + manual reasoning note | `NOW` | — | `DECLINED` by user 2026-09-28, kept in backlog |
+| F3 | Fix auth suite ordering flake `tests/functions/lib/auth.test.ts` (passes solo, fails in suite) | `LATER` | `defer: tests/functions/*, next auth-area change` | `OPEN` |
+| F4 | Media CLS audit for image-heavy books (C8 sampled imageless book only) | `LATER` | `defer: books/*/src/content with images, next media audit` | `OPEN` |
+| F5 | Publish plan mirror to vault (`plan-publish.mjs`; no vault in this env) | `LATER` | `defer: vault availability, next plan execution` | `OPEN` |
 
 ---
 

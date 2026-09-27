@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-09-28-module-transition-fix
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 defaults:
