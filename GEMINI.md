@@ -166,6 +166,14 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **3-attempt cap on length reduction (repo owner directive, 2026-09-28):** If a chapter or file has been rewritten 3 times to reduce token/character count and the size is still not significantly lower, STOP. Accept the longer version and move on. Do not keep re-editing the same file to shave characters, it wastes generative tokens for negligible gain. Content correctness and the hard rules (kamu, no emoji, no em-dash, valid LaTeX) always outrank hitting an exact size.
 - **Applies to any repeated size-reduction loop**, whether triggered by a tool size limit or a self-imposed target.
 
+## 21. Anti-Template: Varied, Human-Sounding Structure (No Repeated Scaffolding)
+- **The problem this prevents (observed 2026-09-28):** all 11 content chapters of a book ended with the identical heading `## Rangkuman`. Same words, same position, 11 times. Readers notice the template, not the content.
+- **Rule: no structural element may repeat verbatim across chapters of one book.** This covers closing section titles, opening hooks, transition sentences into the next module, and any other recurring scaffold. Same function is fine, same wording is not.
+- **Closing sections:** each chapter's recap keeps its summarizing function but MUST carry a different title. The orchestrator assigns one distinct closing title per chapter in the dispatch prompt itself (examples: `Ringkasan`, `Inti Pembahasan`, `Poin Penting`, `Benang Merah`, `Recap`, `Yang Perlu Kamu Ingat`, `Intisari`, `Poin Kunci`, `Kesimpulan Bab`, `Key Takeaways`, `Penutup` for the final chapter). Never leave the choice to each subagent independently, independent agents converge on the same default word.
+- **Same principle for openers and transitions:** vary the first-paragraph device (scenario, question, paradox, data point) and the bridge sentence to the next module. If two chapters open with the same rhetorical move, rewrite one.
+- **Verification (mandatory, before pre-flight):** extract all `## ` headings per chapter and fail the review if any non-topical heading (closers, recurring scaffolds) is identical across two or more chapters, e.g. `grep -h '^## ' books/<slug>/src/content/*.md | sort | uniq -d` must return nothing except genuinely shared headings.
+- **Priority note:** variety never overrides correctness. A varied heading that misdescribes its section is worse than a repeated one; pick a different accurate title, not a random synonym.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
