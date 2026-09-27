@@ -248,7 +248,7 @@ ${gaTag}    <meta charset="UTF-8">
         <h2 style="color: var(--color-primary); margin-bottom: var(--spacing-md)" data-i18n="contribute.contributors.title">Main Contributors</h2>
         <div class="contributors-grid">
             <div class="contributor-card">
-                <img src="https://snipset.belajarcarabelajar.com/images/creator.webp" alt="Iwan Kurniawan" class="contributor-avatar">
+                <img src="https://media.dawnbook.belajarcarabelajar.com/site/images/creator.webp" alt="Iwan Kurniawan" class="contributor-avatar">
                 <div class="contributor-info">
                     <h3 class="contributor-name"><a href="https://github.com/belajarcarabelajar" target="_blank" rel="noopener noreferrer" data-i18n="contribute.contributor1.name">Iwan Kurniawan</a></h3>
                     <p class="contributor-role" data-i18n="contribute.contributor1.role">Content Creator, Developer, and Founder @belajarcarabelajar</p>
