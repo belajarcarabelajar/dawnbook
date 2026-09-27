@@ -49,7 +49,7 @@ Hoaks jarang langsung besar. Ia melewati tahap-tahap yang bisa kamu kenali. Mema
 
 Perhatikan bahwa mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
 
-## Rangkuman
+## Inti Pembahasan
 
 - **Kekacauan informasi** terbagi tiga: misinformasi (salah, tanpa niat jahat), disinformasi (salah, sengaja menyesatkan), dan malinformasi (benar, tapi disalahgunakan untuk merugikan).
 - Orang yang menyebar misinformasi sering justru merasa peduli, jadi menyerang orangnya jarang berhasil.

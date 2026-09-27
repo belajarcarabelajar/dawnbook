@@ -67,7 +67,7 @@ Semua teori di atas tidak berguna kalau tidak masuk ke keseharian. Beberapa kebi
 
 Literasi digital bukan berarti kamu curiga pada segala hal sampai lelah sendiri. Justru sebaliknya: dengan sedikit kebiasaan memeriksa, kamu bisa lebih tenang, karena kamu tahu cara mengecek dan tidak lagi digiring oleh setiap kabar yang lewat.
 
-## Rangkuman
+## Key Takeaways
 
 Berpikir kritis bukan bakat langka, melainkan kebiasaan memanggil System 2 dengan sengaja: bertanya siapa sumbernya, apa buktinya, apa motifnya, dan kenapa kamu percaya. Alih-alih menilai situs dari tampilannya (membaca vertikal), pemeriksa fakta profesional **membaca lateral**, keluar dari halaman untuk melihat apa kata sumber lain. Metode **SIFT** memberi empat gerakan yang bisa diulang: berhenti, selidiki sumber, cari liputan lebih baik, dan lacak klaim ke konteks aslinya. Tambahkan **click restraint**, kebiasaan menahan diri dari hasil pertama, dan sejumlah kebiasaan harian seperti mengecek sebelum meneruskan ke grup keluarga. Penelitian menunjukkan kebiasaan analitis dan pengetahuan yang relevan memang meningkatkan kemampuan membedakan yang benar dari yang palsu.
 

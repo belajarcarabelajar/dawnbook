@@ -41,7 +41,7 @@ Judul dan narasi hoaks nyaris selalu dirancang emosional: **menakut-nakuti** (ba
 
 Kabar baiknya, memahami mekanisme ini memberimu keunggulan. Lain kali sebuah konten membuatmu langsung ingin membagikan karena marah atau muak, dorongan kuat itu justru bisa jadi tanda: bukan bahwa konten itu pasti palsu, tapi bahwa penalaranmu sedang paling mudah dilewati.
 
-## Rangkuman
+## Yang Perlu Kamu Ingat
 
 - Konten yang membangkitkan emosi kuat (marah, jijik, takut, kagum) lebih mudah dibagikan; yang paling menggerakkan bukan positif-negatifnya, tapi seberapa besar emosi itu mendorong kita bertindak.
 - **Kemarahan moral** adalah campuran marah dan jijik atas pelanggaran moral. Ia sangat mengundang keterlibatan, sehingga algoritma ikut memperkuatnya lewat penularan moral (Brady 2017; Crockett 2017).

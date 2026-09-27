@@ -75,6 +75,6 @@ Tidak ada satu peluru perak. Ketahanan terhadap hoaks paling kuat kalau dibangun
 
 Lapis individu paling bisa kamu kendalikan hari ini. Lapis sosial mengingatkan bahwa cara kita mengoreksi sama pentingnya dengan koreksinya: menyerang orang hanya membuatnya makin defensif. Lapis sistemik adalah pekerjaan bersama yang dimulai dari orang-orang yang sadar seperti kamu.
 
-## Rangkuman
+## Penutup
 
 Percaya hoaks itu manusiawi. Otak kita dirancang untuk mengambil jalan pintas, dan dunia informasi hari ini memanfaatkannya tanpa ampun. Tapi manusiawi bukan berarti tak berdaya. Kamu punya alat reaktif: cek ke pemeriksa fakta, telusuri gambar dan video, waspadai tautan mencurigakan. Kamu punya kebiasaan preventif: berhenti sejenak dan bertanya apakah sesuatu itu akurat sebelum membagikannya. Dan kamu punya inokulasi psikologis: dengan mengenali teknik manipulasi, pikiranmu membangun antibodi yang bekerja lintas topik dan lintas ideologi. Kejernihan berpikir bukan bakat, melainkan keterampilan yang bisa dilatih. Untuk mendalami setiap gagasan dan riset yang disinggung sepanjang buku ini, silakan lanjut ke daftar Referensi di halaman berikutnya.

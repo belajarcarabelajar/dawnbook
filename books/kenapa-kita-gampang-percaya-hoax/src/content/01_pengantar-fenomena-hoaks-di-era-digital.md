@@ -56,7 +56,7 @@ Perjalanannya kira-kira begini:
 
 Tujuannya satu: membangun **ketahanan informasi**. Bukan supaya kamu curiga pada semua hal, tapi supaya kamu punya rem yang bisa diinjak saat sebuah kabar terlalu cepat memancing reaksi. Anggap saja ini semacam latihan otot, bukan untuk menang berdebat, tapi untuk lebih jarang tertipu.
 
-## Rangkuman
+## Ringkasan
 
 - Kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar benar, dan yang menyebarkan sering kali manusia biasa, bukan robot.
 - Melimpahnya akses informasi tidak otomatis membuat kita lebih akurat, ini paradoks era digital.

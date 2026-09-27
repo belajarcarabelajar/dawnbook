@@ -80,7 +80,7 @@ Jawaban intuitif Rp1.000 muncul karena Sistem 1 memotong "Rp11.000 dikurangi Rp1
 
 Jangan salah tangkap. Intuisi tidak selalu keliru. Sistem 1 yang terlatih bisa sangat akurat: dokter berpengalaman yang langsung merasa ada yang tidak beres, atau montir yang tahu sumber suara mesin dari sekilas dengar. Masalahnya bukan punya intuisi, melainkan **gagal menyalakan Sistem 2 di saat yang menentukan**, terutama saat sebuah informasi memancing emosi, terlalu pas dengan keyakinanmu, atau menuntutmu ikut menyebarkan. Justru di momen "terasa benar" yang paling meyakinkan itulah kamu paling perlu berhenti dan bertanya.
 
-## Rangkuman
+## Poin Penting
 
 - Kita berpikir lewat dua sistem: **Sistem 1** yang cepat, otomatis, dan hemat energi, serta **Sistem 2** yang lambat, analitis, dan penuh usaha.
 - Otak memilih Sistem 1 sebagai setelan bawaan karena hemat energi, tahan banjir informasi, dan cepat untuk bertahan hidup.

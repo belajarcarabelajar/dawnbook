@@ -61,7 +61,7 @@ Kabar baiknya, efek ini bukan takdir. Ada dua hal yang terbukti menekannya, dan 
 
 **Kedua, label "salah" yang eksplisit.** Ketika informasi keliru diberi tanda jelas bahwa ia keliru, dampak pengulangannya bisa ditekan. Koreksi yang tegas bekerja lebih baik daripada membiarkan klaim mengambang tanpa bantahan.
 
-## Rangkuman
+## Recap
 
 Efek kebenaran ilusi adalah kecenderungan menilai pernyataan yang diulang sebagai lebih benar, semata karena diulang. Mesinnya adalah kefasihan pemrosesan: otak salah membaca yang familiar dan mudah dicerna sebagai yang benar. Efek ini bandel, ia mengenai klaim benar maupun salah, bertahan meski kamu tahu jawaban sebenarnya, muncul cuma dari satu kali paparan judul palsu, dan tidak pandang bulu soal kecerdasan. Karena rasa benar mendorong niat membagikan, terbentuk lingkaran paparan, percaya, dan sebar yang jadi bahan bakar utama propaganda, iklan, dan politik. Ukuran efeknya kecil namun sangat konsisten lintas puluhan studi, dan justru konsistensi itulah yang membuatnya berbahaya di skala jutaan paparan. Untungnya, menilai akurasi sejak awal dan koreksi yang tegas terbukti bisa menekannya.
 

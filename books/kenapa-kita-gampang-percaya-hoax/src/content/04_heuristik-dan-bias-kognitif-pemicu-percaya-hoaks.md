@@ -65,7 +65,7 @@ Perhatikan bahwa tidak satu pun dari bias di atas berhubungan dengan **kecerdasa
 
 Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
 
-## Rangkuman
+## Benang Merah
 
 - Otak mengandalkan **heuristik**, jalan pintas mental yang efisien tapi rawan bias (Tversky & Kahneman, 1974).
 - **Bias konfirmasi** membuat kamu memeluk hoaks yang sesuai selera dan menolak yang bertentangan. Ini pemicu utama.

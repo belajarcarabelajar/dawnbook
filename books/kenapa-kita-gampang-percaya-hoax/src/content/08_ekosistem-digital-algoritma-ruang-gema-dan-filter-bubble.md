@@ -71,7 +71,7 @@ Hoaks unggul secara ekonomi karena:
 
 Ada orang yang benar-benar mencari nafkah dari memproduksi kebohongan viral. Bagi mereka, kebenaran kadang malah merugikan, karena fakta yang membosankan tidak menghasilkan uang. Selama perhatian bisa diuangkan, akan selalu ada insentif untuk membuat kebohongan yang menarik.
 
-## Rangkuman
+## Poin Kunci
 
 Ekosistem digital bukan wadah netral. Algoritma rekomendasi mengejar engagement, bukan kebenaran, sehingga konten yang memicu emosi diuntungkan. Filter bubble menyaring pandangan berbeda dari layarmu, sementara ruang gema memantulkan klaim yang sama berulang kali sampai efek kebenaran ilusi dan bias konfirmasi menguat. Tapi jujurlah: penelitian menunjukkan pilihan pribadi kita sering menyaring lebih banyak daripada algoritma. Manusia dan mesin saling menguatkan, bukan salah satu saja. Ditambah kecepatan berbagi, grup tertutup, bot, dan ekonomi perhatian yang membuat hoaks murah sekaligus menguntungkan, lingkungan ini praktis dirancang untuk menyuburkan keyakinan yang keliru.
 

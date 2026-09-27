@@ -50,7 +50,7 @@ Jadi jawaban yang jujur bukan "semua hoaks soal identitas", bukan pula "identita
 
 Saat sebuah kabar terasa "pas sekali" dengan keyakinanmu tentang kelompokmu atau kelompok yang kamu benci, justru di situ kamu perlu paling waspada: rasa cocok yang instan bukan tanda kebenaran, sering kali justru tanda penalaran termotivasi. Pertanyaan yang berguna bukan "apakah ini sesuai dengan pihakku?", melainkan "seandainya kabar ini menyerang pihakku, apakah aku semudah ini memercayainya?".
 
-## Rangkuman
+## Intisari
 
 - **Penalaran termotivasi** (Kunda, 1990): kita cenderung menalar menuju kesimpulan yang kita inginkan, lalu mencari alasan yang terdengar wajar untuk membenarkannya.
 - **Kognisi pelindung-identitas** (Kahan): saat fakta mengancam citra kelompok, loyalitas sering menang atas akurasi.

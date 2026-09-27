@@ -57,7 +57,7 @@ Kalau kamu perhatikan, semua ini menegaskan satu hal yang agak tidak enak: mengo
 
 Justru karena itu, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
-## Rangkuman
+## Kesimpulan Bab
 
 Efek pengaruh berkelanjutan menjelaskan kenapa hoaks tetap memengaruhi cara kita berpikir walau sudah diralat: koreksi meninggalkan lubang dalam model mental kita, dan otak lebih suka mengisi lubang itu dengan cerita lama yang utuh daripada membiarkannya kosong. Ditambah lagi, mengulang mitos saat mengoreksi bisa membuatnya terasa makin akrab dan makin dipercaya. Kabar baiknya, kekhawatiran lama soal *backfire effect* ternyata dibesar-besarkan: koreksi umumnya tetap membantu, jadi jangan takut mengoreksi. Yang penting adalah caranya: pimpin dengan fakta, beri peringatan sebelum menyebut mitos, sebut mitos sekali saja, jelaskan kenapa ia salah, dan sediakan penjelasan alternatif yang mengisi lubang.
 
