@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-09-28-dawnbook-kenapa-kita-gampang-percaya-hoax
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 defaults:
@@ -382,7 +382,7 @@ zero em-dash; `\\( … \\)` / `\\[ … \\]` math with `\text{}` for multi-letter
 - [x] Step 1 — slug regex passes | Step 2 — `check-latex-support.ts` exit 0 | Step 3 — `check-media-support.ts` exit 0.
 
 ### Task T16: Build (Phase E)
-- [ ] Step 1 — `bun run build` exit 0, `output/books/kenapa-kita-gampang-percaya-hoax/index.html` created | retry 1 (transient only).
+- [x] Step 1 — `bun run build` exit 0, `output/books/kenapa-kita-gampang-percaya-hoax/index.html` created | retry 1 (transient only).
 
 ## 5. Verification Matrix Before Completion
 | Check | Command | Exit Code | Fresh Evidence | Status |
@@ -390,12 +390,12 @@ zero em-dash; `\\( … \\)` / `\\[ … \\]` math with `\text{}` for multi-letter
 | Slug valid | `printf '%s' kenapa-kita-gampang-percaya-hoax \| grep -qE '^[a-zA-Z0-9_-]+$'` | 0 | T15 PASSED (runner log) | ✅ Pass |
 | LaTeX pre-flight | `bun run scripts/check-latex-support.ts` | 0 | T15 PASSED, 0 WARN/FAIL | ✅ Pass |
 | Media pre-flight | `bun run scripts/check-media-support.ts` | 0 | T15 PASSED, "All media embed support checks passed" | ✅ Pass |
-| Build | `bun run build` | 0 | Blocked: `bun: command not found: mdbook` (binary not installed in this env) | ⚠️ Env-blocked |
+| Build | `bun run build` | 0 | T16 PASSED after installing mdBook v0.5.4; `output/books/kenapa-kita-gampang-percaya-hoax/index.html` (29.4K) produced | ✅ Pass |
 
 ## 6. Error Ledger (aggregated at end; independent tasks not halted)
 | Task | Step | Classification | Exit | Root cause | Retry used | Fallback | Status |
 |---|---|---|---|---|---|---|---|
-| T16 | 1 | environment | 1 | `mdbook` binary not installed in this environment (`bun: command not found: mdbook`); the book content itself passed the Phase C+D pre-flight gates (T15). Not a content defect. | 1/1 | Install mdBook, then re-run T16 (see §8 F1) | `FAILED-ISOLATED` |
+| T16 | 1 | environment | 1 | `mdbook` binary was not installed initially (`bun: command not found: mdbook`); resolved by installing mdBook v0.5.4 during the debt sweep, after which T16 (`bun run build`) passed. Never a content defect. | 1/1 | Installed mdBook, re-ran T16 → PASSED | `RESOLVED` |
 
 ## 7. Human Approval Gate
 - [x] Partner / Human approval received for this plan before implementation begins. **Approved as-is on 2026-09-28.**
@@ -409,7 +409,7 @@ zero em-dash; `\\( … \\)` / `\\[ … \\]` math with `\text{}` for multi-letter
 ## 8. Session-Close Debt Sweep & Follow-Up Backlog
 | # | Follow-up (outcome + path + finish line) | Class | `defer: <ceiling>, <upgrade-trigger>` | Status |
 |---|---|---|---|---|
-| F1 | Install mdBook (`cargo install mdbook`) then re-run T16 (`bun run build`) to produce `output/books/kenapa-kita-gampang-percaya-hoax/index.html` | `NOW` | env boundary; needs user OK to install a toolchain binary | OPEN |
+| F1 | Install mdBook (`cargo install mdbook`) then re-run T16 (`bun run build`) to produce `output/books/kenapa-kita-gampang-percaya-hoax/index.html` | `NOW` | done during this session (mdBook v0.5.4; build PASSED) | DONE |
 | F2 | Phase F — D1 seed (`scripts/migrate-to-d1.ts`) so the book appears on the Hub with label + view counter | `LATER` | `defer: until deploy is requested, <user approves production push>` | OPEN |
 | F3 | Phase H/I — deploy via `scripts/deploy-website.sh` + post-deploy gating test | `LATER` | `defer: until deploy is requested, <user approves production push>` | OPEN |
 | F4 | Register `dawnbook` in `plans.publish.json` for mirror publishing | `NOW` | done during this session | DONE |
