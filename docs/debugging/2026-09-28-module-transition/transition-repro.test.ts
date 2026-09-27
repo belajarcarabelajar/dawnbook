@@ -34,6 +34,10 @@ test("INV-UI-3: page reveal is not gated on a blocking network fetch", async () 
   const hidesBeforeFetch =
     hideIdx !== -1 && fetchIdx !== -1 && hideIdx < fetchIdx;
   expect(hidesBeforeFetch).toBe(false);
+  // Semantic guard (F1): the hide must be conditional on internal
+  // chapter-to-chapter navigation, not unconditional for all gated pages.
+  expect(js).toMatch(/isInternalChapterNav\s*=/);
+  expect(js).toMatch(/if\s*\(\s*!isPublic\s*&&\s*!isInternalChapterNav\s*\)/);
 });
 
 test("INV-UI-4: head template ships prefetch/preload hints for chapter assets", async () => {
