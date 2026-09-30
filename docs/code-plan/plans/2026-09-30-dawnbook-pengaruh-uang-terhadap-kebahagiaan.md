@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-09-30-dawnbook-pengaruh-uang-terhadap-kebahagiaan
-status: Approved
+status: Complete
 version: 2
 runner_contract: true
 defaults:
@@ -497,72 +497,72 @@ flowchart TD
 ### Task T1: Scaffold from template (Phase A)
 - Consumes `books/_template/`, produces `books/pengaruh-uang-terhadap-kebahagiaan/` skeleton.
 - Idempotency: `skip_if` re-runs `test -f book.toml`; SKIPPED-IDEMPOTENT prevents re-`cp` nesting.
-- [ ] Step 1 — `cp -r books/_template books/pengaruh-uang-terhadap-kebahagiaan` | expect 0 | retry 0
-- [ ] Step 2 — verify `src/SUMMARY.md` exists | expect 0 | retry 0
+- [x] Step 1 — `cp -r books/_template books/pengaruh-uang-terhadap-kebahagiaan` | expect 0 | retry 0
+- [x] Step 2 — verify `src/SUMMARY.md` exists | expect 0 | retry 0
 
 ### Task T2: Configure book.toml, icon.txt, SUMMARY.md, release-dates.json (Phase B)
 - Edits `book.toml` (title, authors, `language = "id"`, `subject_label = "Psikologi"`, `mathjax-support = true`, SEO description 100-160 chars), writes `icon.txt` (💰), writes `SUMMARY.md` (12 entries, first `01_`, last Referensi), deletes `src/introduction.md`, appends slug key to `release-dates.json` (pinnedMs = authoring date epoch ms).
-- [ ] Step 1 — `icon.txt` exists | Step 2 — `introduction.md` absent | Steps 3-6 — title, authors, subject_label, language in `book.toml` | Step 7 — MathJax present in `theme/head.hbs` | Steps 8-9 — description length in (100, 160) | Step 10 — exactly 12 `- [` entries | Step 11 — `jq` release-dates key > 0. Each expect 0, retry 0.
+- [x] Step 1 — `icon.txt` exists | Step 2 — `introduction.md` absent | Steps 3-6 — title, authors, subject_label, language in `book.toml` | Step 7 — MathJax present in `theme/head.hbs` | Steps 8-9 — description length in (100, 160) | Step 10 — exactly 12 `- [` entries | Step 11 — `jq` release-dates key > 0. Each expect 0, retry 0.
 
 ### Task T3: Ch01 Pengantar: Uang dan Pertanyaan Tua tentang Kebahagiaan
 - Module contract: research report section 1-2 anchors; closing section title `Benang Merah`; opener device is a relatable money-happiness paradox scenario.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T4: Ch02 Bagaimana Ilmu Mengukur Kebahagiaan
 - Module contract: SWB components, Cantril ladder, experience sampling; closing title `Inti Pembahasan`; opener device is a question.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T5: Ch03 Bukti Utama: Uang dan Kesejahteraan Berjalan Beriringan
 - Module contract: positive income-well-being evidence, log-linear form (Killingsworth 2021); closing title `Poin Kunci`; opener device is a data point; may carry the log display formula (div-wrapped).
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T6: Ch04 Kontroversi Plateau 75 Ribu Dolar
 - Module contract: Kahneman-Deaton 2010 vs Killingsworth 2021, adversarial collaboration 2023; closing title `Ringkasan`; opener device is the two-headline paradox.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T7: Ch05 Paradoks Easterlin: Negara Kaya Belum Tentu Bahagia
 - Module contract: Easterlin 1974, Stevenson-Wolfers 2008, aspiration explanation; closing title `Kesimpulan Bab`; opener device is a country-comparison observation.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T8: Ch06 Uang Itu Relatif: Tetangga, Status, dan Perbandingan
 - Module contract: Luttmer 2005 neighbors effect, income rank, positional goods; closing title `Yang Perlu Kamu Ingat`; opener device is a neighbor scenario.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T9: Ch07 Adaptasi Hedonis: Nikmat yang Selalu Mengendur
 - Module contract: Brickman 1978 lottery winners, hedonic treadmill, focusing illusion (Kahneman 2006); closing title `Intisari`; opener device is the lottery-winner paradox.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T10: Ch08 Kelangkaan Finansial: Ketika Kurang Uang Menyita Pikiran
 - Module contract: scarcity, Mani 2013 sugarcane farmers, bandwidth tax, financial stress; closing title `Recap`; opener device is a month-end budget scenario.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T11: Ch09 Membeli Pengalaman, Bukan Barang
 - Module contract: Van Boven-Gilovich 2003, why experiences win (identity, memory, comparison); closing title `Poin Penting`; opener device is a purchase-regret anecdote.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T12: Ch10 Membeli Kebaikan dan Membeli Waktu
 - Module contract: Dunn-Aknin-Norton 2008 prosocial spending, Whillans 2017 buying time; closing title `Key Takeaways`; opener device is a 5-dollar experiment.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T13: Ch11 Materialisme: Harga dari Mengejar Harta
 - Module contract: Kasser-Ryan 1993, extrinsic goals crowding out intrinsic ones, practical financial well-being synthesis; closing title `Penutup` (final content chapter); opener device is a contradiction between desire and outcome.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — no em-dash | Step 4 — no "Anda" | Step 5 — size >= 3500 B | Step 6 — size <= 12000 B. Each expect 0, retry 0.
 
 ### Task T14: Ch12 Referensi
 - APA-7 entries, every citation web-verified with deep link/DOI (Rule 15). GREEN adds the `](http` link check.
-- [ ] Step 1 — file exists | Step 2 — H2 opener | Step 3 — contains `](http` | Step 4 — no em-dash. Each expect 0, retry 0.
+- [x] Step 1 — file exists | Step 2 — H2 opener | Step 3 — contains `](http` | Step 4 — no em-dash. Each expect 0, retry 0.
 
 ### Task T15: Pre-flight content audit (Phase C + D)
-- [ ] Step 1 — slug regex passes | Step 2 — zero duplicate `## ` headings across content files (Rule 21) | Step 3 — `detect-emojis.ts` clean | Step 4 — `check-latex-support.ts` exit 0 | Step 5 — `check-media-support.ts` exit 0. Steps 4-5 retry 1 (transient), others retry 0.
+- [x] Step 1 — slug regex passes | Step 2 — zero duplicate `## ` headings across content files (Rule 21) | Step 3 — `detect-emojis.ts` clean | Step 4 — `check-latex-support.ts` exit 0 | Step 5 — `check-media-support.ts` exit 0. Steps 4-5 retry 1 (transient), others retry 0.
 
 ### Task T16: Build (Phase E)
-- [ ] Step 1 — `bun run build` exit 0 | retry 1 (transient only)
-- [ ] Step 2 — `output/books/pengaruh-uang-terhadap-kebahagiaan/index.html` exists | expect 0 | retry 0
+- [x] Step 1 — `bun run build` exit 0 | retry 1 (transient only)
+- [x] Step 2 — `output/books/pengaruh-uang-terhadap-kebahagiaan/index.html` exists | expect 0 | retry 0
 
 ### Task T17: Conventional commit
-- [ ] Step 1 — `git add` book dir, `release-dates.json`, research report, plan file | expect 0 | retry 0
-- [ ] Step 2 — commit as `Iwan Kurniawan <iwan@belajarcarabelajar.com>`, no co-author trailer | expect 0 | retry 0
-- [ ] Step 3 — verify `git log -1` author identity | expect 0 | retry 0
+- [x] Step 1 — `git add` book dir, `release-dates.json`, research report, plan file | expect 0 | retry 0
+- [x] Step 2 — commit as `Iwan Kurniawan <iwan@belajarcarabelajar.com>`, no co-author trailer | expect 0 | retry 0
+- [x] Step 3 — verify `git log -1` author identity | expect 0 | retry 0
 
 ## 6. Acceptance Criteria & Verification Matrix
 
@@ -585,13 +585,19 @@ flowchart TD
 
 ## 8. Error Ledger (aggregated at end; independent tasks not halted)
 
+Historical failures across the three `--execute` runs (final run: all 17 tasks green, empty ledger above reflects the final pass; rows below are the session record):
+
 | Task | Step | Classification | Exit | Root cause | Retry used | Fallback | Status |
 |---|---|---|---|---|---|---|---|
+| T1 (run 1) | pre | contract | - | Runner resolved `files.test` relative to invocation CWD (`~/ai-skills`), not repo root; precondition saw `books/_template/book.toml` absent | 0/0 | Re-ran runner from dawnbook repo root | `RESOLVED` |
+| T17 (run 2) | 2 | environment | 128 | Committer identity unset in repo-local git config; `git commit` aborted | 0/1 | Set `user.name`/`user.email` to the Rule 18 identity, re-ran | `RESOLVED` |
+| T2 (run 3) | 7 | contract | 1 | Plan defect: step asserted `mathjax-support = true` in book.toml, but `sync-template.ts` (run inside `bun run build` during run 2) forces the `[output.html]` section from the master template, and MathJax actually loads via `theme/head.hbs` | 0/1 | Plan v2: step now asserts MathJax presence in `theme/head.hbs`; documented in §7 | `RESOLVED` |
 
 ## 9. Session-Close Debt Sweep & Follow-Up Backlog
 
 | # | Follow-up (outcome + path + finish line) | Class | `defer: <ceiling>, <upgrade-trigger>` | Status |
 |---|---|---|---|---|
-| F1 | Phase F D1 seed: `set -a && source ~/cloudflare/.env && set +a && bun run scripts/migrate-to-d1.ts` so the book row, subject label, and view counter exist | `NOW` | deferred until plan execution completes; trigger: deploy session | Pending |
-| F2 | Phase H/I deploy + post-deploy verification: `bash scripts/deploy-website.sh` then HTTP 200 check and Hub listing | `NOW` | same trigger as F1 | Pending |
-| F3 | GSC reindex push: `python3 scripts/gsc_trigger_reindex.py` | `NOW` | after F2 | Pending |
+| F1 | Phase F D1 seed: `set -a && source ~/cloudflare/.env && set +a && bun run scripts/migrate-to-d1.ts` so the book row, subject label, and view counter exist | `NOW` | done this session: "All seeds applied successfully" (last_row_id 53); books API returns the row (slug, title, subject_label Psikologi) | DONE |
+| F2 | Phase H/I deploy + post-deploy verification: `bash scripts/deploy-website.sh` then HTTP 200 check and Hub listing | `NOW` | done this session: deployment complete (30 new files); index 200 with exact curated meta description; Hub lists the book; ch01 public preview 200; ch02+ gated 401 for unverifiable requests, identical to existing books (F-104 verified-bot policy, not a regression) | DONE |
+| F3 | GSC reindex push: `python3 scripts/gsc_trigger_reindex.py` | `NOW` | defer: 1 deploy cycle, trigger: next scheduled GSC batch or sitemap refresh request | Deferred |
+| F4 | Commit `plans.publish.json` registry fix (dawnbook root path) in the ai-skills repo; local commit only, push needs owner authorization | `NOW` | defer: 1 session, trigger: next ai-skills commit round or owner go-ahead | Deferred |
