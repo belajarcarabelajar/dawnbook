@@ -48,3 +48,14 @@ Specifically:
     - Commit/Push Email: `kaniasalsabila639@gmail.com`
   - **Enforcement:** Whenever authoring, committing, or pushing changes specifically for books authored by Kania Salsabila, the Git author and committer identity MUST be explicitly set to `Kania Salsabila <kaniasalsabila639@gmail.com>` (via `git commit --author="Kania Salsabila <kaniasalsabila639@gmail.com>"` or environment variables `GIT_AUTHOR_NAME`/`GIT_AUTHOR_EMAIL` & `GIT_COMMITTER_NAME`/`GIT_COMMITTER_EMAIL`). For all other changes or books by Iwan Kurniawan, use `Iwan Kurniawan <iwan@belajarcarabelajar.com>`.
 
+## Cloudflare CLI — `cf`, bukan `wrangler`
+
+Untuk setiap operasi Cloudflare (D1, KV, R2, Workers, Pages, zones, DNS,
+cache, Access), **wajib pakai `cf`**. Jangan pakai `wrangler` / `npx wrangler`
+/ `bunx wrangler`, kecuali tiga kondisi yang tercantum di `AGENTS.md`:
+CI/GitHub Actions, `wrangler pages dev`, dan worker esbuild/Rust/Python.
+
+Aturan lengkap, jebakan yang sudah terukur, dan cara revert ada di
+`AGENTS.md`, bagian "Cloudflare — WAJIB pakai `cf`".
+
+Revert blok ini: hapus bagian ini, atau `cp -p <file>.bak-cf-20260929 <file>`.
