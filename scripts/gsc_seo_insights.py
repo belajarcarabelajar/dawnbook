@@ -8,6 +8,10 @@ import subprocess
 import os
 import tempfile
 
+# Repo moved from ~/dawnbook to ~/Proyek/dawnbook on 2026-09-30.
+# Paths are derived from this file's location instead of hardcoded absolute paths.
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 def base64url_encode(data: bytes) -> str:
     return base64.b64encode(data).decode('utf-8').replace('=', '').replace('+', '-').replace('/', '_')
 
@@ -88,7 +92,7 @@ def query_search_analytics(token: str, site_url: str, dimensions: list, row_limi
         return []
 
 def main():
-    sa_path = "/home/belajarcarabelajar/dawnbook/service-account.json"
+    sa_path = os.path.join(REPO_ROOT, "service-account.json")
     sa = None
     if os.environ.get("GSC_CLIENT_EMAIL") and os.environ.get("GSC_PRIVATE_KEY"):
         sa = {
@@ -198,7 +202,7 @@ def main():
     report_md += f"2. **CTR Optimization**: Rewrite `<meta name=\"description\">` in `book.toml` for low-CTR pages to include clear action benefits.\n"
     report_md += f"3. **Internal Link Juicing**: Link from high-impression chapters to newly published chapters.\n"
 
-    report_path = "/home/belajarcarabelajar/dawnbook/docs/GSC_SEO_OPPORTUNITIES_REPORT.md"
+    report_path = os.path.join(REPO_ROOT, "docs", "GSC_SEO_OPPORTUNITIES_REPORT.md")
     os.makedirs(os.path.dirname(report_path), exist_ok=True)
     with open(report_path, "w", encoding="utf-8") as f:
         f.write(report_md)

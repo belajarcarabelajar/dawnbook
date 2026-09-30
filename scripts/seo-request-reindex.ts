@@ -1,5 +1,10 @@
 import fs from "fs";
+import path from "path";
 import crypto from "crypto";
+
+// Repo moved from ~/dawnbook to ~/Proyek/dawnbook on 2026-09-30.
+// Paths are derived from this file's location instead of hardcoded absolute paths.
+const REPO_ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
 
 function base64url(str: string | Buffer): string {
   return Buffer.from(str)
@@ -157,7 +162,7 @@ async function pingIndexNow(): Promise<void> {
   const host = "dawnbook.belajarcarabelajar.com";
   const keyLocation = `https://${host}/${key}.txt`;
 
-  const sitemapPath = "/home/belajarcarabelajar/dawnbook/output/sitemap.xml";
+  const sitemapPath = path.join(REPO_ROOT, "output", "sitemap.xml");
   let urlList: string[] = [];
   try {
     const content = await fs.promises.readFile(sitemapPath, "utf8");
@@ -191,7 +196,7 @@ async function pingIndexNow(): Promise<void> {
 }
 
 async function main() {
-  const saPath = "/home/belajarcarabelajar/dawnbook/service-account.json";
+  const saPath = path.join(REPO_ROOT, "service-account.json");
   await purgeCloudflareCache();
   await pingIndexNow();
 

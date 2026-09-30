@@ -8,6 +8,10 @@ import subprocess
 import os
 import tempfile
 
+# Repo moved from ~/dawnbook to ~/Proyek/dawnbook on 2026-09-30.
+# Paths are derived from this file's location instead of hardcoded absolute paths.
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 def base64url_encode(data: bytes) -> str:
     return base64.b64encode(data).decode('utf-8').replace('=', '').replace('+', '-').replace('/', '_')
 
@@ -72,7 +76,7 @@ def submit_sitemap_gsc(token: str, site_url: str, sitemap_url: str):
 
 def main():
     env_vars = {}
-    env_path = "/home/belajarcarabelajar/dawnbook/.env"
+    env_path = os.path.join(REPO_ROOT, ".env")
     if os.path.exists(env_path):
         with open(env_path) as f:
             for line in f:
@@ -81,7 +85,7 @@ def main():
                     k, v = line.split('=', 1)
                     env_vars[k.trim() if hasattr(k, "trim") else k.strip()] = v.strip('\"\'')
 
-    sa_path = "/home/belajarcarabelajar/dawnbook/service-account.json"
+    sa_path = os.path.join(REPO_ROOT, "service-account.json")
     sa = None
     client_email = os.environ.get("GSC_CLIENT_EMAIL") or env_vars.get("GSC_CLIENT_EMAIL")
     private_key = os.environ.get("GSC_PRIVATE_KEY") or env_vars.get("GSC_PRIVATE_KEY")

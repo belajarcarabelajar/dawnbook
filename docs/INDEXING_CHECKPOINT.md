@@ -24,13 +24,13 @@ python3 scripts/gsc_batch_indexing_ping.py --resume
 ```
 
 ### Apa yang akan dilakukan perintah di atas?
-1. Otomatis membaca checkpoint dari [`docs/indexing_checkpoint.json`](file:///home/belajarcarabelajar/dawnbook/docs/indexing_checkpoint.json).
+1. Otomatis membaca checkpoint dari [`docs/indexing_checkpoint.json`](./indexing_checkpoint.json).
 2. Melompati 200 URL yang sudah sukses terkirim hari ini.
 3. Melanjutkan pengiriman **325 URL tersisa** (dari URL ke-201 hingga ke-525) langsung ke Google Indexing API.
 
 ---
 
 ## 📁 Berkas Terkait Checkpoint
-* **Laporan JSON Checkpoint:** [`docs/indexing_checkpoint.json`](file:///home/belajarcarabelajar/dawnbook/docs/indexing_checkpoint.json)
-* **Skrip Eksekutor Auto-Resume:** [`scripts/gsc_batch_indexing_ping.py`](file:///home/belajarcarabelajar/dawnbook/scripts/gsc_batch_indexing_ping.py)
-* **Status Auditing Live:** [`scripts/audit-full-gsc-index.ts`](file:///home/belajarcarabelajar/dawnbook/scripts/audit-full-gsc-index.ts)
+* **Laporan JSON Checkpoint:** [`docs/indexing_checkpoint.json`](./indexing_checkpoint.json)
+* **Skrip Eksekutor Auto-Resume:** [`scripts/gsc_batch_indexing_ping.py`](../scripts/gsc_batch_indexing_ping.py)
+* **Status Auditing Live:** [`scripts/audit-full-gsc-index.ts`](../scripts/audit-full-gsc-index.ts)

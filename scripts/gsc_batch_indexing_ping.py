@@ -15,11 +15,9 @@ import threading
 def get_repo_path(relative_path: str) -> str:
     script_dir = os.path.dirname(os.path.abspath(__file__))
     repo_root = os.path.dirname(script_dir)
-    primary_path = os.path.join(repo_root, relative_path)
-    if os.path.exists(primary_path) or os.path.exists(os.path.dirname(primary_path)):
-        return primary_path
-    legacy_path = os.path.join("/home/belajarcarabelajar/dawnbook", relative_path)
-    return legacy_path
+    # Repo moved from ~/dawnbook to ~/Proyek/dawnbook on 2026-09-30.
+    # Legacy hardcoded fallback removed; repo_root is derived from __file__.
+    return os.path.join(repo_root, relative_path)
 
 def base64url_encode(data: bytes) -> str:
     return base64.b64encode(data).decode('utf-8').replace('=', '').replace('+', '-').replace('/', '_')
