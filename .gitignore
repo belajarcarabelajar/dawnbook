@@ -49,6 +49,10 @@ lerna-debug.log*
 # Backups & Archives
 # ==========================================
 *.bak
+# Dated backup copies: `foo.md.bak-cf-20260929`. Not matched by `*.bak`.
+# The `*` after `bak-` is deliberate: a bare `*.bak*` would also swallow
+# book content files whose slugs contain "bahan bakar" / "bakteri".
+*.bak-*
 *.zip
 
 # ==========================================
