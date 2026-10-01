@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Pengaruh Uang terhadap Kebahagiaan"
+description = "Membedah bukti ilmiah hubungan uang dan kebahagiaan: plateau pendapatan, paradoks Easterlin, adaptasi hedonis, belanja bijak, dan materialisme."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
