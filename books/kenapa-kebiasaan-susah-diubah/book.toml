@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Kenapa Kebiasaan Susah Diubah?"
+description = "Membedah sains kenapa kebiasaan susah diubah: loop otak otomatis, mitos 21 hari, kekuatan konteks, hingga strategi mengganti kebiasaan."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
