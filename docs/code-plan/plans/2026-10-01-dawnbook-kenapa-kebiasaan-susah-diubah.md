@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-01-dawnbook-kenapa-kebiasaan-susah-diubah
-status: In Progress
+status: Complete
 version: 1
 runner_contract: true
 skill: super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/ai-skills/Super Ultra Code Plan Implementation.md)
@@ -107,4 +107,13 @@ Setiap subagent menerima: worktree path (absolut), target file (satu file saja),
 
 ## Follow-up Backlog
 
-(filled by debt sweep; format `defer: <ceiling>, <upgrade-trigger>`)
+Debt sweep 2026-10-01: keempat kandidat dipilih user dan dieksekusi.
+
+- [x] FU-1 audit emoji otomatis: `bun run scripts/detect-emojis.ts books/kenapa-kebiasaan-susah-diubah` exit 0, 0 emoji. (commit ini)
+- [x] FU-2 sinkronisasi format: `scripts/builder/metadata.ts` kini menerima objek `{pinnedMs}` selain angka polos (AGENTS.md Rule 12); diverifikasi via `bun run build` exit 0 dan kartu hub memakai nilai pinned. (commit ini)
+- [x] FU-3 cek kartu hub & manifest: manifest.json books[0] = slug baru, 12 chapter; kartu hub memuat penulis Kania Salsabila, timestamp PUEBI "1 Oktober 2026, 23.32 WIB", data-created-at = 1790872339899. (commit ini)
+- [ ] FU-4 seed D1 buku baru pasca-merge: `bun run scripts/migrate-to-d1.ts` dengan kredensial ~/cloudflare/.env. defer: dieksekusi setelah merge, upgrade-trigger: kartu buku error atau /api/progress tidak mengenali slug baru.
+
+Catatan lain yang tidak dijadwalkan:
+- `mdbook-dawnbook` preprocessor tidak terpasang di lokal (warning non-fatal). `defer: 1 sesi, upgrade-trigger: fitur preprocessor dibutuhkan buku`
+- Standalone `tsc --noEmit` tidak berlaku di repo ini (tidak ada script typecheck; error module-resolution berasal dari lingkungan, bukan diff). Verifikasi lewat eksekusi runtime `bun run build` exit 0.

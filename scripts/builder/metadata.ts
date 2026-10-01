@@ -107,8 +107,13 @@ export async function parseBookMetadata(
   try {
     const releaseDatesText = await readFile(join(process.cwd(), "release-dates.json"), "utf8");
     const releaseDates = JSON.parse(releaseDatesText);
-    if (releaseDates[bookName] && typeof releaseDates[bookName] === "number") {
-      pinnedMs = releaseDates[bookName];
+    // AGENTS.md Rule 12 documents the pinnedMs object form; plain numbers are
+    // the legacy form kept for every existing entry.
+    const entry = releaseDates[bookName];
+    if (typeof entry === "number" && entry > 0) {
+      pinnedMs = entry;
+    } else if (entry && typeof entry === "object" && typeof entry.pinnedMs === "number" && entry.pinnedMs > 0) {
+      pinnedMs = entry.pinnedMs;
     }
   } catch (e) {}
 
