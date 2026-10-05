@@ -1,0 +1,15 @@
+# Summary
+
+- [Kalkulator Bukan Kamu: Kenapa Keputusan Uang Jarang Rasional](content/01_kalkulator-bukan-kamu.md)
+- [Dua Sistem di Balik Setiap Keputusan Uang](content/02_dua-sistem-di-balik-keputusan-uang.md)
+- [Akuntansi Mental: Uang Tidak Sama Semua Harganya](content/03_akuntansi-mental-anggaran-di-kepala.md)
+- [Rasa Sakit Membayar: Kenapa Kartu Terasa Lebih Murah](content/04_rasa-sakit-membayar.md)
+- [Bias Masa Kini: Masa Depan Selalu Kalah](content/05_bias-masa-kini-masa-depan-selalu-kalah.md)
+- [Rasa Takut Kehilangan: Ketika Kerugian Terasa Dua Kali Lipat](content/06_rasa-takut-kehilangan.md)
+- [Menjual Pemenang, Mengikuti Pengalah](content/07_menjual-pemenang-mengikuti-pengalah.md)
+- [Angka Pertama yang Membelenggu](content/08_angka-pertama-yang-membelenggu.md)
+- [Terlalu Percaya Diri: Trader Aktif Justru Rugi](content/09_terlalu-percaya-diri-di-pasar.md)
+- [Ikut Arus: FOMO dan Kekuatan Kerumunan](content/10_ikut-arus-fomo-dan-kekuatan-kerumunan.md)
+- [Jebakan Status Quo dan Kekuatan Default](content/11_jebakan-status-quo-dan-kekuatan-default.md)
+- [Merancang Pertahanan: Membuat Keputusan Baik Otomatis](content/12_merancang-pertahanan-keputusan-baik-otomatis.md)
+- [Referensi](content/13_referensi.md)
