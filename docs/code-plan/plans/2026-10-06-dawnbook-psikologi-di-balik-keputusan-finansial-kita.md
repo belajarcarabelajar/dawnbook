@@ -107,8 +107,14 @@ Setiap subagent menerima: worktree path (absolut), target file (satu file saja),
 - [x] V2: Verifikasi AI line-by-line (uniq -d kosong; 0 Anda/em-dash/en-dash/emoji di content+book.toml; 13 entri SUMMARY = disk; kalimat pembuka 137-159 char; built-stats.ts auto-generated +13 bab ikut diff) 13 bab: heading `## ` penutup unik (uniq -d kosong), 0 em-dash, 0 emoji (kecuali icon.txt), 0 "Anda", kalimat pembuka lengkap, referensi hyperlink, deskripsi 100-160 char, angka sesuai research notes.
 - [x] V3: Build lokal (sync-template.ts exit 0 tanpa diff liar; bun run build exit 0, SEO Validation R1-R7 passed, sitemap 762 URL, manifest books[0] = slug baru, meta description bab diekstrak dari kalimat pembuka): `bun run scripts/sync-template.ts` exit 0; `bun run build` exit 0 dengan SEO Validation passed.
 - [x] V4: Commit b20884d (author+committer Kania Salsabila + trailer), push, PR #127 via --body-file, registry pr --number 127 (state verified lalu open). Bukti: gh pr view 127 state=OPEN additions=958.
-- [ ] V5: Debt sweep + follow-up injection.
+- [x] V5: Debt sweep + follow-up injection (4 kandidat: seed D1, GSC reindex, deploy, preprocessor lokal; learning ledger di docs/code-plan/artifacts/2026-10-06-dawnbook-psikologi-learning-ledger.md; 3 aturan KEEP terdistil; review report verdict correct tanpa temuan P0/P1).
 
 ## Follow-up Backlog
 
-(kosong; diisi saat debt sweep)
+Debt sweep 2026-10-06: kandidat dieksekusi sesuai pilihan user pada question set akhir sesi.
+
+- [ ] FU-A seed D1 buku baru pasca-merge: `set -a && source ~/cloudflare/.env && set +a && bun run scripts/migrate-to-d1.ts`. defer: butuh merge PR #127 dan kredensial user, upgrade-trigger: kartu buku error di Hub atau /api/progress tidak mengenali slug.
+- [ ] FU-B trigger reindex GSC pasca-deploy: `python3 scripts/gsc_trigger_reindex.py`. defer: butuh deploy production, upgrade-trigger: sitemap 762 URL belum terindeks Google.
+- [ ] FU-C deploy production: `set -a && source ~/cloudflare/.env && set +a && export PATH="$HOME/.cargo/bin:$PATH" && bash scripts/deploy-website.sh`. defer: aksi milik user, upgrade-trigger: user meminta go-live.
+- [ ] FU-D pasang mdbook-dawnbook preprocessor lokal (hilangkan WARN build). defer: 1 sesi, upgrade-trigger: fitur preprocessor dibutuhkan buku berikutnya.
+- [x] FU-E hygiene gitignore: `graphify-out/` ditambahkan ke .gitignore agar graph lokal tidak bocor ke diff PR (preseden *.bak-*).
