@@ -31,7 +31,15 @@ Menambahkan buku ke-49 Dawnbook, `books/psikologi-di-balik-keputusan-finansial-k
 
 ## 4. Local Verification Evidence
 
-(dilengkapi setelah build; semua dijalankan di worktree sebelum push)
+| Gate | Command | Exit | Result |
+|---|---|---|---|
+| Ukuran bab | `wc -c *.md` (13 file) | 0 | 6.544-9.051 byte per bab, total 103.455 |
+| Heading unik | `grep -h '^## ' *.md \| sort \| uniq -d` | 0 | output kosong (12 judul penutup + Referensi semuanya unik) |
+| Konten bersih | `grep -c 'Anda' *.md; grep -c '—' *.md; grep -cP '[emoji]' *.md` | 0 | semua 0 di 13 bab, book.toml, SUMMARY |
+| Meta description | ekstraksi dari HTML hasil build | 0 | index memakai deskripsi book.toml (134 char); bab memakai kalimat pembuka (137-159 char) |
+| Sinkron template | `bun run scripts/sync-template.ts` | 0 | exit 0, tidak ada diff di buku lain |
+| Build penuh | `bun run build` | 0 | SEO Validation passed! All rules (R1-R7) satisfied; sitemap 762 URL; manifest.json books[0] = slug baru; 13 halaman HTML buku baru ada |
+| Statistik build | `git diff functions/lib/built-stats.ts` | 0 | hanya +13 bab (687 ke 700) dan buku Kania 9 ke 10, auto-generated |
 
 ## 5. Sumber dan Integritas
 

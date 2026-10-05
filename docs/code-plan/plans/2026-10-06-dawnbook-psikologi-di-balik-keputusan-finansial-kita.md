@@ -106,7 +106,7 @@ Setiap subagent menerima: worktree path (absolut), target file (satu file saja),
 - [x] V1: Parent diff audit gate: hanya books/psikologi-di-balik-keputusan-finansial-kita/**, release-dates.json, docs/code-plan/plans/*.md yang berubah.
 - [x] V2: Verifikasi AI line-by-line (uniq -d kosong; 0 Anda/em-dash/en-dash/emoji di content+book.toml; 13 entri SUMMARY = disk; kalimat pembuka 137-159 char; built-stats.ts auto-generated +13 bab ikut diff) 13 bab: heading `## ` penutup unik (uniq -d kosong), 0 em-dash, 0 emoji (kecuali icon.txt), 0 "Anda", kalimat pembuka lengkap, referensi hyperlink, deskripsi 100-160 char, angka sesuai research notes.
 - [x] V3: Build lokal (sync-template.ts exit 0 tanpa diff liar; bun run build exit 0, SEO Validation R1-R7 passed, sitemap 762 URL, manifest books[0] = slug baru, meta description bab diekstrak dari kalimat pembuka): `bun run scripts/sync-template.ts` exit 0; `bun run build` exit 0 dengan SEO Validation passed.
-- [ ] V4: Commit (author Kania Salsabila + trailer), push, gh pr create --body-file, record pr + state open.
+- [x] V4: Commit b20884d (author+committer Kania Salsabila + trailer), push, PR #127 via --body-file, registry pr --number 127 (state verified lalu open). Bukti: gh pr view 127 state=OPEN additions=958.
 - [ ] V5: Debt sweep + follow-up injection.
 
 ## Follow-up Backlog
