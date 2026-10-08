@@ -48,6 +48,14 @@ function fail(message: string): never {
   process.exit(1);
 }
 
+async function resolveD1Id(name: string): Promise<string> {
+  const listed = (await $`cf d1 list`.quiet()).stdout.toString();
+  const dbs = JSON.parse(listed) as { name: string; uuid: string }[];
+  const hit = dbs.find((d) => d.name === name);
+  if (!hit) fail(`D1 database "${name}" not found via \`cf d1 list\`.`);
+  return hit.uuid;
+}
+
 async function main() {
   if (!process.env.CLOUDFLARE_API_TOKEN && !process.env.CF_API_TOKEN) {
     fail(
@@ -72,14 +80,15 @@ async function main() {
     `🗑️  Deleting fully-expired rate_limits rows (expires_at < ${now}, ${new Date(now * 1000).toISOString()})…`,
   );
 
+  const dbId = await resolveD1Id(DB_NAME);
   let raw: string;
   try {
     raw = (
-      await $`npx wrangler d1 execute ${DB_NAME} --remote --json --command=${sql}`.quiet()
+      await $`cf d1 query ${dbId} --sql ${sql}`.quiet()
     ).stdout.toString();
   } catch (err) {
     fail(
-      `wrangler d1 execute failed: ${
+      `cf d1 query failed: ${
         (err as Error).message.split("\n").slice(0, 3).join(" ")
       }`,
     );
@@ -89,10 +98,10 @@ async function main() {
   try {
     parsed = JSON.parse(raw);
   } catch {
-    fail("could not parse wrangler JSON output");
+    fail("could not parse cf d1 query JSON output");
   }
   if (!Array.isArray(parsed)) {
-    fail(`unexpected wrangler JSON output (expected an array): ${raw.slice(0, 200)}`);
+    fail(`unexpected cf d1 query JSON output (expected an array): ${raw.slice(0, 200)}`);
   }
 
   const results = parsed as D1StatementResult[];

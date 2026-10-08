@@ -3,7 +3,7 @@
  *
  * One-time seed script that traverses books/ (skipping _-prefixed dirs),
  * reads each book.toml and src/*.md, and emits idempotent INSERT ... ON CONFLICT
- * SQL applied via `wrangler d1 execute dawnbook-db`.
+ * SQL applied via `cf d1 query` against the dawnbook-db database.
  *
  * Usage:  bun run scripts/migrate-to-d1.ts
  */
@@ -188,10 +188,21 @@ ON CONFLICT(slug) DO UPDATE SET
     );
   }
 
+  let dbIdPromise: Promise<string> | undefined;
   const execFn =
     options.executeCommand ??
     (async (commandSql: string) => {
-      await $`npx wrangler d1 execute dawnbook-db --remote --command=${commandSql}`;
+      dbIdPromise ??= (async () => {
+        const dbs = JSON.parse((await $`cf d1 list`.quiet()).stdout.toString()) as {
+          name: string;
+          uuid: string;
+        }[];
+        const hit = dbs.find((d) => d.name === "dawnbook-db");
+        if (!hit) throw new Error('D1 database "dawnbook-db" not found via `cf d1 list`.');
+        return hit.uuid;
+      })();
+      const dbId = await dbIdPromise;
+      await $`cf d1 query ${dbId} --sql ${commandSql}`;
     });
 
   console.log("🚀 Applying seed to D1 (dawnbook-db) book-by-book...");
