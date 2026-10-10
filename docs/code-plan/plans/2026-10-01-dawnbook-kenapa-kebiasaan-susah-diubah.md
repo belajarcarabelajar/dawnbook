@@ -4,11 +4,11 @@ plan_id: 2026-10-01-dawnbook-kenapa-kebiasaan-susah-diubah
 status: Complete
 version: 1
 runner_contract: true
-skill: super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/ai-skills/Super Ultra Code Plan Implementation.md)
-session: dawnbook-kebiasaan (pr-registry: ai/2026-10-01-dawnbook-kenapa-kebiasaan-susah-diubah/dawnbook-kenapa-kebiasaan-susah-diubah)
+skill: "super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/ai-skills/Super Ultra Code Plan Implementation.md)"
+session: "dawnbook-kebiasaan (pr-registry: ai/2026-10-01-dawnbook-kenapa-kebiasaan-susah-diubah/dawnbook-kenapa-kebiasaan-susah-diubah)"
 worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-kenapa-kebiasaan-susah-diubah
 author: Kania Salsabila <kaniasalsabila639@gmail.com>
-coauthor_trailer: Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>
+coauthor_trailer: "Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>"
 research_notes: docs/code-plan/plans/research-kenapa-kebiasaan-susah-diubah.md
 defaults:
   retry_transient_max: 1
