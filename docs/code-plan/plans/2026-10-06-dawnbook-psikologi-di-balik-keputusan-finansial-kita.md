@@ -4,11 +4,11 @@ plan_id: 2026-10-06-dawnbook-psikologi-di-balik-keputusan-finansial-kita
 status: Complete
 version: 1
 runner_contract: true
-skill: super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)
-session: dawnbook-psikologi-di-balik-keputusan-finansial-kita (pr-registry: 2026-10-06-dawnbook-psikologi-di-balik-keputusan-finansial-kita/dawnbook-psikologi-di-balik-keputusan-finansial-kita)
+skill: "super-ultra-code-plan (file pertama yang ditemukan pada chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
+session: "dawnbook-psikologi-di-balik-keputusan-finansial-kita (pr-registry: 2026-10-06-dawnbook-psikologi-di-balik-keputusan-finansial-kita/dawnbook-psikologi-di-balik-keputusan-finansial-kita)"
 worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-psikologi-di-balik-keputusan-finansial-kita
 author: Kania Salsabila <kaniasalsabila639@gmail.com>
-coauthor_trailer: Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>
+coauthor_trailer: "Co-authored-by: Iwan Kurniawan <iwan@belajarcarabelajar.com>"
 research_notes: docs/code-plan/plans/research-psikologi-di-balik-keputusan-finansial-kita.md
 defaults:
   retry_transient_max: 1
