@@ -86,7 +86,7 @@ Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi pilar utama:
 * **Karya Nyata yang Terukur**: Hasil akhir proyek harus berwujud nyata, baik berupa purwarupa fisik, aplikasi digital, pameran publik, maupun laporan kebijakan.
 * **Penilaian Menyeluruh**: Evaluasi tidak hanya menyasar produk akhir tetapi juga prosesnya, seperti perencanaan, riset, kolaborasi, dan presentasi. Rubrik terintegrasi sering digunakan dalam PBE.
 
-#### Studi Kasus Sederhana: Proyek "Kota Berkelanjutan"
+#### Proyek "Kota Berkelanjutan"
 
 * **Tujuan Multidisiplin**
   Peserta didik diminta merancang model kota kecil yang berkelanjutan dengan mempertimbangkan aspek lingkungan, sosial, dan ekonomi secara seimbang.
