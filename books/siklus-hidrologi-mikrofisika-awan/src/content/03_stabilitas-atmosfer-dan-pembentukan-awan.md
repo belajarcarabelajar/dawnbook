@@ -6,7 +6,7 @@ Pada bagian ini, kita akan mempelajari bagaimana udara bergerak secara vertikal,
 
 ---
 
-### 1. Mekanisme Udara Naik (Uplift): Pemicu Terbentuknya Awan
+### 1. Mekanisme Udara Naik (Uplift)
 
 Udara tidak naik begitu saja tanpa sebab. Karena gaya gravitasi menarik massa udara ke bawah, atmosfer membutuhkan dorongan mekanis atau termis untuk mengangkat paket udara ke atas. Terdapat empat mekanisme utama yang menjadi pemicu pengangkatan:
 
@@ -19,7 +19,7 @@ Udara tidak naik begitu saja tanpa sebab. Karena gaya gravitasi menarik massa ud
 
 ---
 
-### 2. Termodinamika Udara yang Naik: Pendinginan Adiabatik
+### 2. Pendinginan Adiabatik
 
 Ketika sebuah paket udara (*parcel*) naik, paket tersebut bergerak menuju lapisan dengan tekanan atmosfer yang lebih rendah. Akibat penurunan tekanan lingkungan, paket udara tersebut memuai (ekspansi). Untuk memuai, paket udara memerlukan energi kerja, dan energi tersebut diambil dari energi dalam (suhu termal) paket itu sendiri.
 
@@ -39,7 +39,7 @@ Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
 
 ---
 
-### 3. Stabilitas Atmosfer: Penentu Nasib Paket Udara
+### 3. Stabilitas Atmosfer
 
 Stabilitas atmosfer ditentukan dengan membandingkan suhu paket udara yang naik (berdasarkan perhitungan $\text{DALR}$ atau $\text{SALR}$) terhadap suhu atmosfer lingkungan di sekitarnya ($\text{ELR}$).
 
@@ -89,7 +89,7 @@ Ketinggian di mana dasar awan mulai terbentuk dinamakan **Lifting Condensation L
 
 Dalam meteorologi terapan dan teknik penerbangan, perhitungan ketinggian $\text{LCL}$ digunakan untuk memprediksi ketinggian dasar awan serta potensi cuaca buruk.
 
-#### Perhitungan Ketinggian LCL (Pendekatan Rumus Espy):
+#### Perhitungan Ketinggian LCL (Pendekatan Rumus Espy)
 
 Ketinggian $\text{LCL}$ (dalam satuan meter di atas permukaan tanah) dapat diestimasi melalui persamaan berikut:
 
@@ -101,7 +101,7 @@ $$h_{\text{LCL}} \approx 125 \times (T - T_d)$$
 
 *Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
 
-#### Snippet Kode (Python): Estimasi Dasar Awan
+#### Estimasi Dasar Awan dengan Python
 
 ```python
 def estimate_cloud_base(temp, dew_point):
@@ -123,7 +123,7 @@ print(f"Estimasi ketinggian dasar awan: {height} meter di atas permukaan laut.")
 
 ---
 
-### 6. Real-World Application: Fenomena Angin Fohn
+### 6. Fenomena Angin Fohn
 
 Salah satu contoh penerapan nyata dari stabilitas atmosfer dan perubahan fase uap air adalah fenomena **Angin Fohn** (di Indonesia dikenal sebagai Angin Bahorok di Sumatra Utara atau Angin Gending di Jawa Timur).
 

@@ -1,4 +1,4 @@
-## Mekanisme Pembentukan Hujan Es dan Salju: Dari Kristal Mikroskopis ke Presipitasi Padat
+## Mekanisme Pembentukan Hujan Es dan Salju
 
 Setelah kita memahami bagaimana **Proses Bergeron-Findeisen** menciptakan kristal es awal di awan dingin, pertanyaan selanjutnya adalah: bagaimana kristal yang sangat kecil itu berubah menjadi kepingan salju yang indah atau bongkahan es (*hail*) yang merusak?
 
@@ -58,7 +58,7 @@ Tidak semua kristal es yang bertabrakan akan menyatu. Keberhasilan agregasi sang
 
 **Karakteristik Hasil Agregasi:** Kristal yang dihasilkan melalui agregasi biasanya berbentuk kompleks dan memiliki estetika dendritik yang dikenal sebagai kepingan salju klasik. Ukurannya bisa mencapai beberapa sentimeter jika kondisi atmosfer mendukung.
 
-## Ringkasan Perbedaan: Graupel, Hail, dan Salju
+## Ringkasan Perbedaan Graupel, Hail, dan Salju
 
 | Fitur | Graupel | Hail (Hujan Es) | Salju (*Snowflake*) |
 | --- | --- | --- | --- |
@@ -69,14 +69,14 @@ Tidak semua kristal es yang bertabrakan akan menyatu. Keberhasilan agregasi sang
 
 ## Aplikasi Dunia Nyata & Skenario
 
-### Kasus 1: Keselamatan Penerbangan (Aircraft Icing)
+### Keselamatan Penerbangan (Aircraft Icing)
 
 Proses **akresi** adalah faktor pembatas utama dalam penerbangan. Ketika pesawat melewati awan yang mengandung tetesan air superdingin, air tersebut dapat melakukan akresi pada sayap pesawat (mirip proses pembentukan graupel).
 
 - **Dampaknya:** Mengubah profil aerodinamis sayap, menambah berat, dan dapat menyebabkan kehilangan daya angkat (*stall*).
 - **Solusi:** Pilot menggunakan sistem *de-icing* (pemanas sayap) untuk mencegah air superdingin membeku saat bersentuhan dengan badan pesawat.
 
-### Kasus 2: Kerusakan Pertanian akibat Hail
+### Kerusakan Pertanian akibat Hail
 
 Petani di daerah beriklim sedang sering menghadapi risiko hujan es. Hail dengan diameter hanya $2\text{ cm}$ sudah cukup untuk menghancurkan ladang jagung atau memecahkan kaca rumah kaca.
 

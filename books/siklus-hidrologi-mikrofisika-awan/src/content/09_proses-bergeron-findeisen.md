@@ -1,4 +1,4 @@
-## Proses Bergeron-Findeisen: Transfer Molekul Uap di Awan Cold Phase
+## Proses Bergeron-Findeisen
 
 Bagaimana hujan dapat terbentuk di wilayah beriklim dingin saat musim dingin, atau di puncak awan kumulonimbus yang menjulang tinggi di kawasan khatulistiwa? Di mana suhu berada jauh di bawah titik beku, pembentukan presipitasi tidak hanya bergantung pada mekanisme tumbukan dan penggabungan (*collision-coalescence*) tetes air cair. Pada temperatur subnol, mekanisme dominan yang mendorong pertumbuhan partikel presipitasi adalah pembekuan dan transfer massa uap air yang dikenal sebagai **Proses Bergeron-Findeisen** (atau proses Tor Bergeron dan Walter Findeisen).
 
@@ -17,7 +17,7 @@ Pada lapisan awan dengan rentang temperatur antara $0^\circ\text{C}$ hingga $-40
 
 > **Pertanyaan Analisis:** Mengapa populasi kristal es jauh lebih sedikit dibandingkan tetesan air superdingin pada rentang temperatur ini? Hal ini terjadi karena atmosfer bumi secara alami memiliki konsentrasi Inti Kondensasi Awan ($\text{CCN}$) yang jauh lebih melimpah dibandingkan Inti Es ($\text{IN}$) yang efektif pada temperatur hangat di atas $-40^\circ\text{C}$.
 
-### Fisika Termodinamika: Perbedaan Tekanan Uap Jenuh
+### Perbedaan Tekanan Uap Jenuh
 
 Prinsip dasar yang menggerakkan Proses Bergeron-Findeisen terletak pada perbedaan besarnya **Tekanan Uap Jenuh** ($e_s$) di atas permukaan air cair dibandingkan dengan di atas permukaan es padat pada temperatur subnol yang sama.
 
@@ -87,7 +87,7 @@ Setelah kristal es bertambah besar melalui deposisi uap hingga mencapai kecepata
 
 Ketika kepingan salju atau graupel jatuh melewati garis-lintar pembekuan ($T > 0^\circ\text{C}$) pada atmosfer bagian bawah, partikel padat tersebut mencair sepenuhnya dan berubah menjadi presipitasi berbentuk **hujan cair**.
 
-### Penerapan Modifikasi Cuaca: Penyemaian Awan (*Cloud Seeding*)
+### Penyemaian Awan (*Cloud Seeding*)
 
 Pemahaman mengenai termodinamika fase campuran dan Proses Bergeron-Findeisen menjadi landasan ilmiah utama bagi teknologi modifikasi cuaca atau penyemaian awan (*cloud seeding*).
 

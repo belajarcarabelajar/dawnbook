@@ -1,4 +1,4 @@
-## Klasifikasi dan Morfologi Awan: Wajah Visual Mikrofisika Atmosfer
+## Klasifikasi dan Morfologi Awan
 
 Menatap langit sering kali memunculkan pertanyaan tentang alasan beberapa awan terlihat seperti gumpalan kapas yang lembut, sementara awan lainnya tampak seperti selimut abu-abu yang menutupi seluruh cakrawala.
 
@@ -63,7 +63,7 @@ Awan ini merupakan tipe awan konvektif raksasa yang menampung seluruh spektrum p
 - **Morfologi:** Membentang dari dekat permukaan bumi hingga mencapai lapisan tropopause (berkisar antara 12–18 km). Puncaknya sering kali memipih dan melebar membentuk landasan (*anvil*) akibat tertahan oleh lapisan inversi stratosfer.
 - **Proses Mikrofisika:** Mekanisme kolisi-koalesensi mendominasi bagian bawah awan (proses hujan hangat), sedangkan proses fase es seperti akresi dan pembentukan *riming* terjadi di bagian atas. Dinamika ini memicu pemisahan muatan listrik yang menghasilkan kilat dan petir.
 
-### 4. Analogi: Awan sebagai Adonan Atmosfer
+### 4. Awan sebagai Adonan Atmosfer
 
 Proses pembentukan awan dapat dianalogikan dengan pembuatan adonan kue di dapur:
 
@@ -73,7 +73,7 @@ Proses pembentukan awan dapat dianalogikan dengan pembuatan adonan kue di dapur:
 
 Pemanggangan adonan menggunakan suhu rendah yang merata (kondisi atmosfer stabil) memicu pembentukan kue lapis yang lebar dan tipis (*Stratus*). Sebaliknya, pemberian pasokan panas yang kuat dari dasar (konveksi mendalam) membuat adonan mengembang pesat ke atas menyerupai *popcorn* atau *soufflé* (*Cumulus* atau *Cumulonimbus*).
 
-### 5. Aplikasi Praktis: Membaca Dinamika Langit
+### 5. Membaca Dinamika Langit
 
 Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang vital bagi berbagai bidang industri:
 

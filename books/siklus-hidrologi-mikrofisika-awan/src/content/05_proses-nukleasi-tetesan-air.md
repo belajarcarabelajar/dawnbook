@@ -1,4 +1,4 @@
-## Proses Nukleasi Tetesan Air: Dari Uap Menjadi Titik Embun
+## Proses Nukleasi Tetesan Air
 
 Bayangkan ketika berada di dalam kamar mandi yang penuh uap setelah mandi air hangat. Cermin mulai berkabut, dan perlahan tetesan air mulai mengalir turun. Apa yang sebenarnya terjadi pada skala mikroskopis? Mengapa uap air yang tadinya tidak terlihat tiba-tiba bisa berkumpul menjadi tetesan cair?
 
@@ -45,7 +45,7 @@ Keterangan variabel:
 
 > **Prinsip Utama:** Semakin kecil nilai jari-jari ($r$), semakin tinggi derajat lewat jenuh yang dibutuhkan untuk mempertahankan tetesan agar tidak menguap. Kendala fisik ini dikenal sebagai **Hambatan Nukleasi**.
 
-### 3. Nukleasi Homogen: Kondisi Ekstrem di Alam
+### 3. Nukleasi Homogen
 
 **Nukleasi homogen** terjadi apabila molekul-molekul uap air murni saling bertabrakan dan bergabung membentuk tetesan tanpa bantuan partikel asing sebagai fondasi.
 
@@ -55,7 +55,7 @@ Keterangan variabel:
 
 > **Catatan Konseptual:** Nukleasi homogen ibarat mendirikan bangunan tinggi di udara tanpa adanya fondasi dasar. Proses tersebut membutuhkan energi yang sangat besar dan kondisi yang hampir mustahil terpenuhi di alam bebas.
 
-### 4. Nukleasi Heterogen: Kunci Utama Pembentukan Awan
+### 4. Nukleasi Heterogen
 
 Karena nukleasi homogen sangat sulit terjadi, pembentukan awan di alam bertumpu pada **Nukleasi Heterogen**. Pada proses ini, uap air mengembun di atas permukaan partikel padat atau cair yang melayang di udara, yang dikenal sebagai **Aerosol** atau **Inti Kondensasi Awan** (*Cloud Condensation Nuclei* / $\text{CCN}$).
 
@@ -83,7 +83,7 @@ Dalam analisis nukleasi, terdapat parameter penentu yang disebut **Radius Kritis
 
 Pada nukleasi heterogen, keberadaan partikel $\text{CCN}$ memungkinkan embrio air langsung memulai pertumbuhan pada ukuran di atas $r_c$, atau secara efektif menurunkan nilai $r_c$ sehingga mudah dicapai pada tingkat kejenuhan rendah.
 
-### 6. Aplikasi Praktis: Modifikasi Cuaca (*Cloud Seeding*)
+### 6. Modifikasi Cuaca (*Cloud Seeding*)
 
 Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenihan awan atau **Hujan Buatan**.
 
