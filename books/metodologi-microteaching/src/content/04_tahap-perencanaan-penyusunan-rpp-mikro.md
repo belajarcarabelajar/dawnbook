@@ -1,10 +1,10 @@
-# Tahap Perencanaan: Penyusunan RPP Mikro
+# Tahap Perencanaan RPP Mikro
 
 Selamat datang di tahap yang paling krusial dalam siklus *microteaching*. Jika diibaratkan sebuah perjalanan, Rencana Pelaksanaan Pembelajaran (RPP) Mikro adalah **peta navigasi** kamu. Tanpa peta yang jelas, waktu 10-15 menit yang kamu miliki akan habis begitu saja tanpa mencapai tujuan pembelajaran yang diinginkan.
 
 Dalam modul ini, kita akan membedah cara menyusun RPP yang "ramping" namun tetap "berotot", artinya, ringkas secara administratif namun kuat secara substansi pedagogis.
 
-## 1. Filosofi RPP Mikro: "Less is More"
+## 1. Filosofi "Less is More"
 
 Berbeda dengan RPP normal yang dirancang untuk satu jam pelajaran (45-90 menit), RPP Mikro adalah sebuah **mikrokosmos**. Kamu tidak sedang mencoba mengajarkan seluruh bab, melainkan satu fragmen kecil dari konsep atau satu keterampilan spesifik.
 
@@ -77,7 +77,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | 2-8' | Inti | Menjelaskan konsep gaya apung menggunakan rumus $F_a = \rho \cdot g \cdot V_{\text{bf}}$. Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
 | 8-10' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
-## 6. Real-World Application: Mengapa Perencanaan Mikro itu Penting?
+## 6. Mengapa Perencanaan Mikro itu Penting?
 
 Dalam dunia nyata, guru sering kali menghadapi situasi di mana mereka hanya memiliki waktu sedikit untuk menjelaskan konsep yang sangat kompleks, misalnya saat melakukan pengayaan atau memberikan penjelasan singkat di sela-sela ujian.
 

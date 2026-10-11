@@ -8,7 +8,7 @@ Dalam dunia pendidikan, **monotoni adalah musuh utama pembelajaran.** Guru yang 
 
 Variasi stimulus adalah upaya guru untuk mengubah perilaku dalam proses interaksi belajar mengajar yang bertujuan untuk mengatasi kebosanan siswa, sehingga siswa memiliki antusiasme yang tinggi dan penuh perhatian.
 
-### Analogi: Efek Radio vs. Konser Langsung
+### Efek Radio vs. Konser Langsung
 
 Bayangkan mendengarkan radio dengan statis yang konstan; telinga kamu akan segera mengabaikannya. Namun, bayangkan sebuah konser musik di mana ada lampu sorot yang berpindah, dentuman bass yang tiba-tiba melambat, dan penyanyi yang berinteraksi dengan penonton. Variasi stimulus adalah "efek konser" dalam ruang kelas kamu.
 
@@ -73,7 +73,7 @@ $$
 		- *Ketepatan:* "Bagaimana jika variabel $x$ kita ubah menjadi $y$?"
 - **Meningkatkan Tuntutan Kognitif:** Mengubah pertanyaan dari "Apa" menjadi "Bagaimana jika" atau "Apa hubungan antara A dan B".
 
-## Real-world Application: Skenario Pembelajaran Mikro
+## Guru Biologi Menjelaskan Ekosistem
 
 **Skenario: Guru Biologi menjelaskan tentang Ekosistem.**
 

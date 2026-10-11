@@ -1,4 +1,4 @@
-# Evaluasi Akhir dan Portofolio Mengajar: Puncak Perjalanan Microteaching
+# Evaluasi Akhir dan Portofolio Mengajar
 
 Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah fase kritis di mana kita menyatukan semua kepingan pengalaman menjadi sebuah narasi perkembangan profesional yang utuh.
 
@@ -61,17 +61,17 @@ Setelah menyelesaikan seluruh rangkaian microteaching, lakukan analisis SWOT ter
 
 > **Insight Penting:** Jangan takut menunjukkan kegagalan dalam portofolio kamu. Seorang pendidik yang hebat tidak dinilai dari ketiadaan kesalahan, tetapi dari kemampuannya untuk mendeteksi kesalahan tersebut dan memperbaikinya secara sadar.
 
-## 4. Real-World Application: Dari Lab ke Kelas Nyata
+## 4. Dari Lab ke Kelas Nyata
 
 Bagaimana evaluasi akhir ini berguna di dunia nyata? Portofolio bukan hanya untuk syarat kelulusan mata kuliah.
 
-### Skenario Penggunaan Portofolio:
+### Skenario Penggunaan Portofolio
 
 - **Rekrutmen Guru**: Saat melamar di sekolah berkualitas, membawa portofolio digital (seperti website pribadi atau LinkedIn yang tertaut hasil microteaching) akan memberi nilai plus dibandingkan kandidat yang hanya membawa ijazah.
 - **Sertifikasi Pendidik**: Dokumentasi sistematis sejak masa kuliah memudahkan kamu saat harus menempuh sertifikasi guru (PPG) atau kenaikan pangkat di masa depan.
 - **Komunitas Praktisi**: kamu bisa membagikan RPP dan media yang telah "teruji" di laboratorium microteaching kepada rekan sejawat sebagai bahan kolaborasi.
 
-### Contoh Implementasi dalam Laporan Akhir:
+### Contoh Implementasi dalam Laporan Akhir
 
 Dalam laporan kamu, alih-alih menulis *"Saya sudah bisa mengajar dengan baik"*, gunakan pendekatan berbasis data:
 

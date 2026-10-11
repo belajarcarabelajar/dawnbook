@@ -1,10 +1,10 @@
-# Pemberian Umpan Balik Konstruktif: Jantung dari Transformasi Pendidik
+# Pemberian Umpan Balik Konstruktif
 
 Dalam siklus *microteaching*, tahap pemberian umpan balik (*feedback*) adalah momen yang paling krusial. Jika simulasi mengajar adalah "panggung" untuk mencoba, maka umpan balik adalah "cermin" yang jujur. Tanpa umpan balik yang tepat, seorang calon guru mungkin akan terus mengulangi kesalahan yang sama tanpa menyadarinya.
 
 Materi ini akan membahas bagaimana memberikan dan menerima kritik dengan cara yang memberdayakan, bukan menjatuhkan, guna memastikan setiap sesi *microteaching* menghasilkan peningkatan kompetensi yang nyata.
 
-### 1. Filosofi Umpan Balik: Bukan Penghakiman, Tapi Kompas
+### 1. Umpan Balik Bukan Penghakiman, Tapi Kompas
 
 Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan anak panah, kamu tidak akan pernah tahu apakah kamu perlu menggeser busur ke kiri atau ke kanan. Umpan balik dalam *microteaching* berfungsi seperti instruktur panah yang mengatakan, *"Anak panahmu jatuh 5 cm di sebelah kanan sasaran karena posisi bahumu terlalu tegang."*
 
@@ -60,7 +60,7 @@ Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai
 
 *Refleksi Lingkungan Simulasi:* *Menerima evaluasi perbaikan di lingkungan simulasi jauh lebih konstruktif dibandingkan harus menghadapi kendala pengelolaan kelas secara mendadak di hadapan 40 siswa nyata.*
 
-### 5. Real-World Application: Skenario Simulasi
+### 5. Memberi Umpan Balik kepada Andi
 
 **Skenario:** Seorang rekan (Andi) baru saja selesai melakukan praktik keterampilan membuka pelajaran. Andi terlihat sangat gugup, suaranya kecil, dan dia lupa menyampaikan tujuan pembelajaran.
 

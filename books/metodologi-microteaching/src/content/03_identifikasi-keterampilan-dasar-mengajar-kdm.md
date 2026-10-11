@@ -106,7 +106,7 @@ Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran men
 
 > **Pesan Penting:** Menutup pelajaran adalah momen "menyimpan" data ke dalam memori jangka panjang siswa. Jangan pernah menutup kelas dengan terburu-buru saat bel berbunyi.
 
-## Real-World Application: Skenario di Kelas
+## Pak Budi Mengajar Fotosintesis
 
 Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nyata:
 

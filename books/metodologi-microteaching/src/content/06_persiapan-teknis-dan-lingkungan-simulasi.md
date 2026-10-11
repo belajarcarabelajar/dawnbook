@@ -1,10 +1,10 @@
-# Persiapan Teknis dan Lingkungan Simulasi: Menata Panggung Keberhasilan Mengajar
+# Persiapan Teknis dan Lingkungan Simulasi
 
 Bayangkan seorang sutradara film sebelum memulai syuting. Ia tidak hanya mengandalkan kemampuan akting para aktornya, tetapi ia memastikan tata cahaya tepat, mikrofon berfungsi, dan set ruangan mendukung suasana cerita. Begitu pula dengan **Microteaching**.
 
 Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa tersebut akan terhambat jika lingkungan fisik dan teknisnya berantakan. Persiapan teknis adalah "fondasi" yang memungkinkan "bangunan" instruksional kamu berdiri tegak.
 
-### 1. Arsitektur Ruang Mikro: Menata Layout yang Efektif
+### 1. Arsitektur Ruang Mikro
 
 Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan keintiman namun tetap mempertahankan struktur kelas formal.
 
@@ -25,7 +25,7 @@ Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena 
 
 Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efisiensi**. Ingat, durasi kamu hanya 10-15 menit. Jangan habiskan 5 menit hanya untuk menyalakan proyektor!
 
-#### Kriteria Pemilihan Media yang Relevan:
+#### Kriteria Pemilihan Media yang Relevan
 
 1. **Instan:** Media harus siap digunakan dalam hitungan detik (contoh: *slide* sudah di-load, alat peraga sudah di meja).
 2. **Keterbacaan:** Jika menggunakan media visual, pastikan teks dapat dibaca dari sudut paling belakang ruangan.
@@ -34,7 +34,7 @@ Media pembelajaran dalam *microteaching* harus dipilih berdasarkan prinsip **efi
 		- **Auditori:** Rekaman suara atau penjelasan lisan yang jelas.
 		- **Kinestetik:** Alat peraga yang bisa disentuh atau dipindahkan oleh siswa.
 
-#### Contoh Penggunaan Media:
+#### Contoh Penggunaan Media
 
 - *Teknologi Rendah:* Papan tulis (Whiteboard) – Pastikan spidol tidak kering dan kamu memiliki penghapus.
 - *Teknologi Tinggi:* Canva/PowerPoint – Gunakan maksimal 3-5 slide untuk satu sesi mikro.
@@ -65,13 +65,13 @@ Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa ber
 | **Siswa** | Apakah jumlah siswa model sudah sesuai (5-10 orang)? | [ ] |
 | **Waktu** | Apakah ada jam dinding atau *timer* yang terlihat oleh kamu? | [ ] |
 
-### Analogi: Mengajar Seperti Memasak di Dapur Restoran
+### Mengajar Seperti Memasak di Dapur Restoran
 
 Persiapan teknis *microteaching* mirip dengan **"Mise en Place"** dalam dunia kuliner profesional. Sebelum kompor dinyalakan, koki sudah memotong bawang, menyiapkan bumbu dalam wadah kecil, dan menajamkan pisau.
 
 Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu pula dalam mengajar: jika kamu baru mencari spidol atau memperbaiki kabel HDMI saat waktu simulasi berjalan, "makanan" (materi pelajaran) kamu tidak akan tersaji dengan sempurna kepada siswa.
 
-### Real-World Application: Skenario Simulasi
+### Menyiapkan Simulasi Hukum Newton
 
 **Skenario:** kamu akan mengajar topik "Hukum Newton" selama 10 menit untuk kelas 8 SMP.
 
