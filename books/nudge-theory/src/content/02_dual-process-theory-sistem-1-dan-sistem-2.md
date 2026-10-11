@@ -15,7 +15,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 - Mengandalkan emosi, perasaan, serta asosiasi dari masa lalu.
 - Cenderung asosiatif, yaitu menghubungkan informasi baru dengan pola atau stereotip yang sudah ada.
 
-**Analogi: Sang Pilot Otomatis**
+**Analogi Sang Pilot Otomatis**
 
 > Bayangkan Sistem 1 seperti fitur *cruise control* pada kendaraan. Sistem ini menjaga kestabilan perjalanan tanpa menuntut kamu untuk menyetir secara manual setiap detiknya. Tanpa bantuan Sistem 1, kita akan cepat lelah karena harus terus berpikir sadar saat melangkah, berkedip, atau mengenali wajah seseorang.
 
@@ -37,7 +37,7 @@ Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita m
 - Mengutamakan logika untuk melakukan perhitungan rumit dan perencanaan masa depan.
 - Memiliki kapasitas terbatas, sehingga hanya bisa fokus pada satu tugas kompleks dalam satu waktu.
 
-**Analogi: Sang Detektif**
+**Analogi Sang Detektif**
 
 > Jika Sistem 1 bertindak sebagai pilot otomatis, Sistem 2 mirip detektif yang memecahkan kasus rumit. Karakternya teliti, skeptis, dan membutuhkan banyak energi mental agar tetap fokus. Namun, karena aktivitas ini menguras energi otak, Sistem 2 cenderung malas dan sering menyerahkan tugas kepada Sistem 1 jika dirasa aman.
 
