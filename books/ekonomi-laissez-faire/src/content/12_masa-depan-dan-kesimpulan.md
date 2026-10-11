@@ -1,10 +1,10 @@
-## Masa Depan dan Kesimpulan: Relevansi Laissez-faire di Abad ke-21
+## Masa Depan dan Kesimpulan
 
 Setelah menelusuri perjalanan panjang dari akar filosofis kaum Fisiokrat hingga implementasi neoliberal di era modern, kita sampai pada babak akhir: memahami apa yang tersisa dari **Laissez-faire** dan ke mana arahnya di masa depan.
 
 Bagian ini tidak hanya menutup diskusi kita, tetapi juga membuka cakrawala tentang bagaimana prinsip "biarkan terjadi" beradaptasi dengan tantangan abad ke-21 seperti kecerdasan buatan, krisis iklim, dan ekonomi digital.
 
-## 1. Rangkuman Warisan: Lebih dari Sekadar Teori Ekonomi
+## 1. Rangkuman Warisan
 
 Laissez-faire telah meninggalkan jejak permanen pada struktur masyarakat modern. Warisannya lebih dari sekadar angka pertumbuhan, melainkan pergeseran mendasar dalam cara manusia memandang kebebasan dan tanggung jawab.
 
@@ -26,19 +26,19 @@ Meskipun murni Laissez-faire jarang diterapkan secara ekstrem saat ini, prinsip-
 | **Kebijakan Fiskal** | Sisi Penawaran (*Supply-Side*) | Pemotongan pajak dan pemangkasan regulasi (*red tape*) untuk mendorong investasi swasta. |
 | **Kebijakan Moneter** | Aturan Pasar & Disiplin | Independensi bank sentral dan pengawasan diri (*self-regulation*) dari intervensi politik. |
 
-### Kebijakan Fiskal: Sisi Penawaran (*Supply-Side*)
+### Kebijakan Fiskal Sisi Penawaran (*Supply-Side*)
 
 Di masa depan, perdebatan fiskal akan terus berkisar pada efektivitas pemotongan pajak untuk mendorong investasi. Logikanya tetap sama: membiarkan modal tetap di tangan swasta akan menghasilkan pertumbuhan yang lebih besar daripada dikelola oleh negara.
 
 - **Deregulasi:** Upaya untuk mengurangi *red tape* atau hambatan birokrasi adalah napas modern dari Laissez-faire agar bisnis bisa bergerak lebih lincah.
 
-### Kebijakan Moneter: Independensi dan Aturan Pasar
+### Kebijakan Moneter Independen dan Aturan Pasar
 
 Prinsip Laissez-faire tecermin dalam tuntutan agar bank sentral tetap independen dari intervensi politik. Kepercayaan bahwa nilai mata uang harus ditentukan oleh mekanisme pasar dan disiplin moneter adalah bentuk modern dari pengawasan diri (*self-regulation*).
 
 *Coba renungkan: Jika pemerintah terus mencetak uang untuk membiayai pengeluaran, apakah itu melanggar prinsip tangan tak terlihat yang seharusnya mengatur nilai uang secara alami?*
 
-## 3. Proyeksi Masa Depan: Laissez-faire di Era Digital
+## 3. Laissez-faire di Era Digital
 
 Dunia sedang menyaksikan kebangkitan kembali semangat Laissez-faire di wilayah-wilayah baru yang belum tersentuh regulasi ketat.
 
@@ -52,7 +52,7 @@ Mata uang kripto adalah eksperimen Laissez-faire paling murni di abad ini. Tanpa
 
 Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang sangat fleksibel. Ini adalah pasar bebas tenaga kerja di mana harga ditentukan secara *real-time* oleh algoritma, mencerminkan keseimbangan instan antara penyedia jasa dan pelanggan.
 
-## 4. Tantangan dan Adaptasi: "Laissez-faire Hijau"?
+## 4. Tantangan dan Adaptasi bagi "Laissez-faire Hijau"?
 
 Masa depan Laissez-faire akan sangat bergantung pada kemampuannya menjawab tantangan eksternalitas, terutama perubahan iklim.
 
@@ -64,7 +64,7 @@ Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkun
 - **Pajak Karbon dan Perdagangan Emisi:** Menggunakan mekanisme harga untuk mengurangi polusi, bukannya sekadar larangan pemerintah.
 - **Inovasi Teknologi sebagai Penyelamat:** Keyakinan bahwa pasar akan menciptakan teknologi hijau yang lebih murah daripada energi fosil karena tuntutan efisiensi.
 
-## 5. Kesimpulan Akhir: Sintesis yang Dinamis
+## 5. Sintesis yang Dinamis
 
 Ekonomi Laissez-faire tidak akan pernah mati; ia hanya berevolusi. Dari meja-meja kopi para ekonom abad ke-18, prinsip ini kini berpindah ke baris-baris kode di Silicon Valley dan kebijakan pajak di ibu kota negara.
 

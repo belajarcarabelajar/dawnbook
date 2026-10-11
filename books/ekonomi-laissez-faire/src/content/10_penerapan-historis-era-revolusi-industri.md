@@ -1,10 +1,10 @@
-## Penerapan Historis: Era Revolusi Industri
+## Penerapan Historis Era Revolusi Industri
 
 Selamat datang di laboratorium sejarah ekonomi yang paling dinamis! Jika pada bagian sebelumnya kamu telah mempelajari teori **Laissez-faire**, sekarang kita akan melihat bagaimana teori tersebut bekerja di dunia nyata.
 
 Bayangkan sebuah arena balap tanpa wasit, di mana setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, dunia menyaksikan ledakan inovasi dan akumulasi kekayaan yang melimpah dalam sejarah manusia.
 
-## 1. Inggris: Episentrum Laissez-faire Dunia
+## 1. Inggris sebagai Episentrum Laissez-faire Dunia
 
 Inggris adalah negara pertama yang memeluk prinsip **Laissez-faire**. Transisi dari sistem **Merkantilisme** (saat pemerintah mengontrol ketat perdagangan) menuju pasar bebas dimulai berkat pengaruh pemikiran Adam Smith.
 
@@ -21,7 +21,7 @@ Tanpa adanya aturan mengenai standar produksi atau upah minimum, pengusaha Inggr
 
 > "Laissez-faire di Inggris bukan hanya sebuah kebijakan, tetapi sebuah keyakinan bahwa kemajuan hanya dapat dicapai jika tangan pemerintah tetap berada di saku, bukan di kemudi industri."
 
-## 2. Amerika Serikat: Era "Gilded Age" dan Ekspansi Tanpa Batas
+## 2. Era "Gilded Age" Amerika Serikat
 
 Di seberang Atlantik, Amerika Serikat menerapkan Laissez-faire dengan gaya yang lebih agresif, terutama setelah Perang Saudara (pasca-1865). Periode ini dikenal sebagai era **Gilded Age**.
 
@@ -39,7 +39,7 @@ Meskipun pemerintah memberikan hibah tanah, operasi dan pengembangan jalur keret
 
 > **Analogi Kebun Liar:** Ekonomi Laissez-faire ibarat kebun yang dibiarkan tumbuh tanpa dipangkas oleh tukang kebun (pemerintah). Tanaman paling kuat (perusahaan paling efisien) tumbuh sangat tinggi mendominasi sinar matahari. Kebun menghasilkan oksigen (pertumbuhan ekonomi) yang melimpah, namun tanaman kecil di bawahnya kesulitan mendapatkan cahaya.
 
-## 3. Dampak Ekonomi: Antara Inovasi dan Eksploitasi
+## 3. Dampak Ekonomi antara Inovasi dan Eksploitasi
 
 Penerapan Laissez-faire selama Revolusi Industri bak pedang bermata dua. Berikut perbandingan dampaknya:
 
@@ -59,7 +59,7 @@ $$
 
 Di mana $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumulasi laba yang tidak dipajaki.
 
-## 4. Penggunaan dalam Konteks Teknis: Simulasi Pertumbuhan
+## 4. Simulasi Pertumbuhan
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
@@ -91,7 +91,7 @@ simulasi_pertumbuhan()
 
 Hasil simulasi di atas menunjukkan bahwa dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Hal ini menjelaskan alasan industri pada abad ke-19 mampu berkembang pesat.
 
-## 5. Penerapan Dunia Nyata: Pelajaran untuk Masa Kini
+## 5. Pelajaran untuk Masa Kini
 
 Bagaimana sejarah ini relevan dengan kondisi sekarang?
 

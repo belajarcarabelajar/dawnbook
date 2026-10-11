@@ -1,10 +1,10 @@
-## Perbandingan: Laissez-faire vs Intervensionisme
+## Perbandingan Laissez-faire vs Intervensionisme
 
 Selamat datang di medan pertempuran ideologi ekonomi terbesar dalam sejarah modern. Di satu sisi, kita memiliki **Laissez-faire**, yang percaya bahwa ekonomi bekerja paling baik jika dibiarkan sendiri. Di sisi lain, kita memiliki **Intervensionisme** (termasuk Keynesianisme), yang berpendapat bahwa tangan pemerintah diperlukan untuk menjaga agar mesin ekonomi tidak meledak atau mogok.
 
 Mari kita bedah perbedaan mendalam antara membiarkan pasar bebas bekerja secara alami dengan upaya sadar untuk mengarahkannya.
 
-## 1. Filosofi Dasar: Hutan Belantara vs. Taman Kota
+## 1. Hutan Belantara vs. Taman Kota
 
 Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 
@@ -13,7 +13,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 
 > **Intisari:** Laissez-faire mengutamakan **kebebasan negatif** (kebebasan dari gangguan), sementara intervensionisme mengutamakan **kesejahteraan kolektif** dan stabilitas.
 
-## 2. Tabel Komparatif: Laissez-faire vs. Intervensionisme
+## 2. Tabel Komparatif Laissez-faire vs. Intervensionisme
 
 | Fitur | Ekonomi Laissez-faire | Ekonomi Intervensionis (Campuran) |
 | --- | --- | --- |
@@ -23,7 +23,7 @@ Untuk memahami perbedaan ini, bayangkan sebuah ekosistem.
 | **Harga & Upah** | Ditentukan sepenuhnya oleh suplai dan permintaan. | Bisa dipengaruhi oleh upah minimum atau subsidi. |
 | **Fokus Utama** | Efisiensi dan pertumbuhan jangka panjang. | Keadilan sosial, stabilitas, dan lapangan kerja. |
 
-## 3. Masuknya Keynesianisme: "Tangan yang Terlihat" ️
+## 3. Masuknya Keynesianisme
 
 Salah satu bentuk intervensionisme yang paling berpengaruh adalah **Keynesianisme**, yang dipelopori oleh John Maynard Keynes. Keynes berpendapat bahwa dalam masa depresi ekonomi, pasar tidak bisa bangkit sendiri karena kurangnya permintaan.
 
@@ -44,7 +44,7 @@ Di mana:
 
 Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
 
-### Skenario: Resesi (Penurunan Ekonomi)
+### Resesi (Penurunan Ekonomi)
 
 1. **Pendekatan Laissez-faire:**
    - **Tindakan:** Tidak ada tindakan drastis.
@@ -64,7 +64,7 @@ Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Interv
 
 > **Prinsip:** "Pasar jika memungkinkan, negara jika diperlukan."
 
-## 6. Aplikasi Dunia Nyata: Respon Pandemi COVID-19
+## 6. Respon Pandemi COVID-19
 
 Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata:
 
@@ -75,12 +75,12 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 ## 7. Analisis Pro dan Kontra
 
-### Keunggulan Laissez-faire:
+### Keunggulan Laissez-faire
 
 - **Inovasi Cepat:** Kompetisi yang ketat memaksa perusahaan untuk terus berinovasi.
 - **Efisiensi:** Sumber daya dialokasikan ke tempat yang paling menguntungkan, bukan yang paling politis.
 
-### Keunggulan Intervensionisme:
+### Keunggulan Intervensionisme
 
 - **Stabilitas:** Mengurangi dampak buruk dari siklus *booming* dan *crash* ekonomi.
 - **Keadilan:** Memastikan kebutuhan dasar (kesehatan, pendidikan) tersedia bagi mereka yang kalah dalam kompetisi pasar.

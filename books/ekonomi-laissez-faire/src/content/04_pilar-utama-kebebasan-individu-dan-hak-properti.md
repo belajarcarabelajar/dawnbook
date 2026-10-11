@@ -1,14 +1,14 @@
-## Pilar Utama: Kebebasan Individu dan Hak Properti
+## Pilar Utama Kebebasan Individu dan Hak Properti
 
 Bayangkan kamu sedang berdiri di tengah pasar yang sangat ramai. Orang-orang bertukar barang, bernegosiasi harga, dan menciptakan inovasi baru setiap saat. Namun, bayangkan jika di pasar tersebut, barang yang kamu bawa bisa diambil siapa saja tanpa izin, atau janji yang dibuat seseorang untuk membayar kamu besok bisa diingkari tanpa konsekuensi.
 
 Apakah pasar itu akan tetap berjalan? Tentu tidak. Dalam sistem ekonomi **Laissez-faire**, kebebasan individu dan hak properti adalah **fondasi mutlak** yang menopang seluruh struktur ekonomi, bukan sekadar pelengkap.
 
-### 1. Hak Properti Pribadi: Mengapa "Milik Saya" Itu Penting?
+### 1. Hak Properti Pribadi
 
 Dalam ekonomi Laissez-faire, hak properti (hak milik) adalah hak eksklusif individu untuk menentukan bagaimana sumber daya yang mereka miliki digunakan. Ini mencakup tanah, bangunan, alat produksi, hingga ide intelektual.
 
-#### Analogi: Taman Umum vs. Kebun Pribadi
+#### Taman Umum vs. Kebun Pribadi
 
 Pernahkah kamu memperhatikan bahwa taman umum sering kali lebih cepat rusak atau kotor dibandingkan kebun di halaman rumah seseorang? Fenomena ini dikenal sebagai *Tragedy of the Commons*.
 
@@ -28,7 +28,7 @@ Dalam Laissez-faire, karena intervensi pemerintah seperti pajak atau regulasi sa
 
 > **Poin Penting:** Hak properti mengubah energi kreatif manusia menjadi aset produktif. Tanpa kepastian hukum atas hak milik, ekonomi akan terjebak dalam kondisi subsisten (hanya cukup untuk makan hari ini).
 
-### 2. Kebebasan Berkontrak: Mesin Pertukaran Sukarela
+### 2. Kebebasan Berkontrak
 
 Jika hak properti adalah bahan bakarnya, maka **kebebasan berkontrak** adalah mesinnya. Ini adalah hak bagi setiap individu untuk membuat kesepakatan dengan pihak lain tanpa paksaan dari pihak ketiga (termasuk pemerintah).
 
@@ -49,7 +49,7 @@ $$
 U_{\text{penjual}}(\text{Uang}) > U_{\text{penjual}}(\text{Barang})
 $$
 
-#### Komponen Utama Kebebasan Berkontrak:
+#### Komponen Utama Kebebasan Berkontrak
 
 - **Otonomi Kehendak:** Tidak ada yang boleh dipaksa untuk bekerja atau menjual barang jika mereka tidak menginginkannya.
 - **Kejelasan Hukum:** Pemerintah hanya hadir sebagai "wasit" yang memastikan bahwa kontrak yang telah disepakati secara sukarela dipatuhi oleh kedua pihak.
@@ -57,7 +57,7 @@ $$
 
 > **Bahan Pemikiran:** Apakah sebuah kontrak benar-benar bebas jika salah satu pihak menghadapi keterbatasan pilihan? Pendukung Laissez-faire berpendapat bahwa intervensi pemerintah justru mempersempit pilihan tersebut di masa depan.
 
-### 3. Sinergi: Bagaimana Keduanya Membentuk Pasar yang Berhasil
+### 3. Sinergi Dua Pilar
 
 Hak properti dan kebebasan berkontrak bekerja secara simbiotis. Mari kita lihat alurnya dalam skenario dunia nyata:
 
@@ -68,7 +68,7 @@ Hak properti dan kebebasan berkontrak bekerja secara simbiotis. Mari kita lihat 
 
 Jika salah satu pilar ini runtuh, misalnya ketika pemerintah tiba-tiba membatasi harga jual produk atau mengambil alih pabrik, seluruh siklus ini akan berhenti.
 
-### Aplikasi Dunia Nyata: Ekonomi Digital dan Kekayaan Intelektual
+### Ekonomi Digital dan Kekayaan Intelektual
 
 Di era modern, prinsip Laissez-faire tentang hak properti meluas ke dunia digital.
 

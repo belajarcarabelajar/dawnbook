@@ -1,4 +1,4 @@
-## Kegagalan Pasar dan Perlunya Intervensi: Ketika "Tangan Tak Terlihat" Tergelincir
+## Kegagalan Pasar dan Perlunya Intervensi
 
 Dalam dunia ideal **Laissez-faire**, mekanisme pasar dianggap sebagai konduktor orkestra yang sempurna. Setiap individu yang mengejar kepentingan pribadinya secara otomatis menciptakan harmoni ekonomi bagi masyarakat. Namun, kenyataan tidak selalu seindah teori tersebut. Ada kalanya "tangan tak terlihat" (*Invisible Hand*) kehilangan cengkeramannya, mengakibatkan sumber daya terbuang sia-sia atau terdistribusi secara tidak adil.
 
@@ -16,7 +16,7 @@ $$
 
 Jika $\text{SMC} \neq \text{SMB}$, maka terjadilah kegagalan pasar. Mari kita bedah penyebab utama fenomena ini.
 
-### 2. Eksternalitas: Efek Samping yang Terabaikan
+### 2. Eksternalitas
 
 **Eksternalitas** terjadi ketika tindakan produsen atau konsumen memberikan dampak (baik atau buruk) kepada pihak ketiga yang tidak terlibat dalam transaksi, tanpa adanya kompensasi atau pembayaran.
 
@@ -49,7 +49,7 @@ Jika sebuah perusahaan swasta mencoba menjual jasa lampu jalan, siapa yang berse
 
 Inilah yang memicu **Masalah Penumpang Gelap (*Free Rider Problem*)**: semua orang menunggu pihak lain untuk membayar, sehingga barang tersebut tidak pernah disediakan oleh pasar bebas.
 
-### 4. Informasi Asimetris: Ketidakseimbangan Pengetahuan
+### 4. Informasi Asimetris
 
 Pasar yang efisien membutuhkan informasi simetris. Namun, sering kali salah satu pihak memegang informasi lebih banyak dibanding pihak lain.
 
@@ -79,7 +79,7 @@ Saat pasar mengalami kegagalan, intervensi pemerintah diperlukan untuk memperbai
 | **Regulasi Anti-Monopoli** | Membatasi merger dan melarang praktik monopoli predatoris | Mempertahankan iklim persaingan sehat |
 | **Penyediaan Langsung** | Membiayai barang publik lewat APBN/pajak | Mengatasi *free rider problem* |
 
-#### Simulation Code: Dampak Pajak terhadap Eksternalitas
+#### Dampak Pajak terhadap Eksternalitas
 
 Berikut simulasi teknis menggunakan Python untuk memodelkan bagaimana pajak menginternalisasi biaya polusi ke dalam keseimbangan pasar:
 
@@ -103,7 +103,7 @@ print(f"Produksi Setelah Pajak Lingkungan: {q_with_intervention} unit")
 # Output menunjukkan penyesuaian volume produksi ke tingkat yang berkelanjutan
 ```
 
-### 7. Aplikasi Dunia Nyata: Krisis Finansial 2008
+### 7. Krisis Finansial 2008
 
 Krisis finansial global 2008 menjadi bukti nyata bagaimana kegagalan pasar dapat melumpuhkan perekonomian dunia:
 
@@ -112,7 +112,7 @@ Krisis finansial global 2008 menjadi bukti nyata bagaimana kegagalan pasar dapat
 
 Krisis ini memicu perdebatan mendalam: Apakah pasar gagal karena minimnya regulasi, ataukah intervensi pemerintah sebelumnya yang justru merusak struktur insentif pasar?
 
-### Kesimpulan: Menemukan Titik Keseimbangan
+### Menemukan Titik Keseimbangan
 
 Meskipun kegagalan pasar menjadi landasan bagi intervensi publik, kita harus tetap mewaspadai **Kegagalan Pemerintah (Government Failure)**. Hambatan birokrasi dan kebijakan yang ditunggangi kepentingan politik kerap memperburuk distorsi pasar.
 

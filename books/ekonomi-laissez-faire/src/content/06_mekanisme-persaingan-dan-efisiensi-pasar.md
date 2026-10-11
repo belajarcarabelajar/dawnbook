@@ -2,13 +2,13 @@
 
 Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan sebuah orkestra yang disiplin. Tanpa adanya dirigen pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Bagian ini mengupas bagaimana pertarungan di pasar bebas justru menjadi kunci utama kemakmuran masyarakat.
 
-## Persaingan: Mesin Penggerak Inovasi
+## Persaingan sebagai Mesin Penggerak Inovasi
 
 Bayangkan sebuah perlombaan lari tanpa garis finis. Setiap pelari harus terus berlari lebih cepat karena jika mereka melambat, pelari lain akan menyalip dan mengambil hadiahnya. Itulah esensi persaingan dalam ekonomi Laissez-faire.
 
 Dalam pasar yang bebas dari hambatan regulasi, setiap produsen memiliki insentif yang sangat kuat untuk menjadi yang terbaik. Mengapa? Karena dalam sistem ini, **keuntungan adalah sinyal keberhasilan**, dan **kerugian adalah hukuman bagi ketidakefisienan**.
 
-### 1. Efisiensi Produksi: Melakukan Lebih dengan Lebih Sedikit
+### 1. Efisiensi Produksi
 
 Dalam upaya mengejar laba, perusahaan dipaksa untuk menekan biaya produksi serendah mungkin. Jika Perusahaan A bisa memproduksi sepatu dengan biaya Rp100.000, sementara Perusahaan B menghabiskan Rp150.000 untuk kualitas yang sama, maka Perusahaan A memiliki keunggulan kompetitif.
 
@@ -26,7 +26,7 @@ Di mana:
 
 Karena dalam pasar persaingan sempurna produsen sering kali tidak bisa menentukan harga sesuka hati (mereka adalah *price takers*), satu-satunya cara untuk meningkatkan $\pi$ adalah dengan meminimalkan $\text{TC}$. Hal ini mendorong pemanfaatan sumber daya (bahan baku, tenaga kerja, waktu) secara optimal, sehingga tidak ada yang terbuang percuma.
 
-### 2. Inovasi Teknologi: Evolusi dalam Bisnis
+### 2. Inovasi Teknologi
 
 Persaingan memicu apa yang disebut para ekonom sebagai "penghancuran kreatif". Perusahaan tidak hanya bersaing lewat harga, tetapi juga lewat **kebaruan**.
 
@@ -49,7 +49,7 @@ Persaingan bukan hanya soal harga murah. Jika dua produk memiliki harga yang sam
 
 > "Bukan dari kemurahan hati tukang daging, tukang pembuat bir, atau tukang roti kita mengharapkan makan malam kita, tetapi dari penghargaan mereka terhadap kepentingan diri mereka sendiri." - **Adam Smith**
 
-## Efisiensi Alokatif: Sumber Daya di Tempat yang Tepat
+## Efisiensi Alokatif
 
 Salah satu keajaiban mekanis dari persaingan bebas adalah **Efisiensi Alokatif**. Ini terjadi ketika sumber daya masyarakat dialokasikan untuk menghasilkan barang dan jasa yang paling diinginkan oleh masyarakat tersebut.
 
@@ -68,7 +68,7 @@ $$
 
 Artinya, **Harga ($P$)** yang dibayar konsumen sama dengan **Biaya Marjinal ($\text{MC}$)** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik di mana kesejahteraan sosial maksimal tercapai secara alami.
 
-## Penerapan Dunia Nyata: Revolusi Industri Digital
+## Revolusi Industri Digital
 
 Mari kita lihat fenomena industri perangkat lunak (*software*) dan aplikasi ponsel saat ini sebagai cerminan prinsip Laissez-faire pada area yang minim regulasi berat.
 
