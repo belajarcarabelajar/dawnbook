@@ -4,7 +4,7 @@ Menghadapi masalah besar sering kali terasa seperti mencoba mengurai benang kusu
 
 Pemecahan masalah secara sistematis adalah kemampuan untuk membedah tantangan yang kompleks menjadi bagian-bagian kecil yang dapat dikelola, lalu menerapkan logika untuk menemukan solusi yang paling efektif dan rasional.
 
-### 1. Mendefinisikan Masalah: "Masalah yang Terdefinisi dengan Baik adalah Setengah Masalah yang Terselesaikan"
+### 1. Mendefinisikan Masalah
 
 Langkah pertama yang paling utama adalah memahami apa sebenarnya masalahnya. Seringkali kita terjebak menangani **gejala** (symptoms), bukan **akar penyebab** (root cause).
 
@@ -81,7 +81,7 @@ Solusi hanyalah sebuah teori sampai ia dieksekusi. Gunakan siklus **PDCA (Plan-D
 3. **Check**: Evaluasi hasilnya. Apakah sesuai dengan metrik keberhasilan yang ditetapkan di awal?
 4. **Act**: Jika berhasil, standarisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
 
-### Real-World Application: Engineering Scenario
+### Situs Perusahaan yang Melambat
 
 Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perusahaan mengalami perlambatan (latensi tinggi).
 
@@ -96,7 +96,7 @@ Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perus
 4. **Keputusan**: Menggunakan Matriks Keputusan, opsi C dipilih karena menyeimbangkan kecepatan pemulihan dan pengalaman pengguna.
 5. **Implementasi**: Mengubah konfigurasi DNS. **Evaluasi**: Latensi turun kembali ke 300ms.
 
-#### Contoh Implementasi Logika Pemilihan Solusi (Python):
+#### Contoh Implementasi Logika Pemilihan Solusi (Python)
 
 ```python
 # Sederhana: Memilih solusi terbaik berdasarkan skor tertinggi

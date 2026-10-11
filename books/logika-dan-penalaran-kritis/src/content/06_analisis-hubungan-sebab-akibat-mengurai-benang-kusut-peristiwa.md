@@ -1,10 +1,10 @@
-## Analisis Hubungan Sebab-Akibat: Mengurai Benang Kusut Peristiwa
+## Analisis Hubungan Sebab-Akibat
 
 Sering kali, ketika kamu membawa payung, hujan tidak kunjung turun. Namun, saat kamu meninggalkannya di rumah, langit justru tumpah dengan derasnya. Secara intuitif, otak kita cenderung menghubungkan dua kejadian yang terjadi berdekatan ini sebagai hubungan sebab-akibat. Dalam penalaran kritis, asumsi terburu-buru seperti ini adalah jebakan yang bisa berakibat fatal.
 
 Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi fondasi penting untuk mengambil keputusan yang akurat, baik dalam sains, bisnis, maupun keputusan personal sehari-hari.
 
-## 1. Korelasi vs Kausalitas: Dua Hal yang Berbeda
+## 1. Korelasi vs Kausalitas
 
 Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya bertolak belakang:
 

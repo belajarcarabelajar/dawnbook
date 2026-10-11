@@ -1,10 +1,10 @@
-## Logika Deduktif vs Induktif: Memahami Kepastian dan Probabilitas
+## Logika Deduktif vs Induktif
 
 Pernahkah kamu bertanya-tanya mengapa Sherlock Holmes sering berkata, *"Setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran"*? Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
 
 Di sinilah peran penting memahami perbedaan antara **Logika Deduktif** dan **Logika Induktif**. Memahami keduanya adalah kunci untuk membangun argumen yang kokoh dan membuat keputusan yang tepat.
 
-## 1\. Penalaran Deduktif: Jalur Menuju Kepastian
+## 1\. Penalaran Deduktif
 
 Penalaran deduktif sering disebut sebagai pendekatan **"Top-Down"** (dari atas ke bawah). Ia bekerja dengan mengambil pernyataan umum (premis) dan menarik kesimpulan spesifik yang logis dari sana.
 
@@ -39,7 +39,7 @@ $$
 \text{Validitas} + \text{Kebenaran Premis} = \text{Soundness}
 $$
 
-## 2\. Penalaran Induktif: Jalur Menuju Probabilitas
+## 2\. Penalaran Induktif
 
 Berbeda dengan deduksi, penalaran induktif adalah pendekatan **"Bottom-Up"** (dari bawah ke atas). Kita mulai dengan observasi spesifik, melihat pola, dan kemudian membangun generalisasi atau kesimpulan yang mungkin.
 
@@ -56,7 +56,7 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 - **Analogi** bekerja dengan membandingkan dua hal. Jika keduanya memiliki kemiripan dalam beberapa aspek, kita mengasumsikan mereka juga mirip dalam aspek lainnya.
 - **Hubungan Kausalitas**, di mana kita menyimpulkan adanya hubungan sebab-akibat ketika melihat urutan kejadian yang konsisten.
 
-## 3\. Perbedaan Mendasar: Tabel Perbandingan
+## 3\. Perbedaan Mendasar
 
 | Fitur | Penalaran Deduktif | Penalaran Induktif |
 | --- | --- | --- |
@@ -68,11 +68,11 @@ Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebalikny
 
 Menghakimi seseorang berdasarkan perilaku satu kelompoknya adalah contoh nyata dari induksi yang lemah, sebuah generalisasi terburu-buru yang sering kita temukan sehari-hari.
 
-## 4\. Real-World Application: Logika dalam Teknologi & Sains
+## 4\. Logika dalam Teknologi & Sains
 
 Dalam dunia teknik dan sains, kedua logika ini digunakan secara bergantian dalam sebuah siklus yang disebut **Metode Hipotesis-Deduktif**.
 
-### Skenario: Debugging Perangkat Lunak
+### Debugging Perangkat Lunak
 
 Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
 

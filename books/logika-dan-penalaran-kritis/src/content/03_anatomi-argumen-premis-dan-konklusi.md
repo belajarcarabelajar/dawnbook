@@ -1,4 +1,4 @@
-## Anatomi Argumen: Premis dan Konklusi
+## Anatomi Argumen
 
 Dalam kehidupan sehari-hari, kita sering mendengar kata "argumen". Sayangnya, banyak orang mengartikan argumen sebagai sebuah pertengkaran atau debat kusir yang penuh emosi. Dalam dunia penalaran kritis, **argumen** memiliki makna yang jauh lebih spesifik: argumen adalah sekumpulan pernyataan yang disusun sedemikian rupa untuk membuktikan kebenaran suatu gagasan.
 
@@ -62,7 +62,7 @@ Sebelum menyusun argumen yang kuat, kita harus mampu membedakan bahan baku penyu
 
 Untuk menguji kekuatan sebuah argumen, para pemikir kritis sering menggunakan "Bentuk Standar" (Standard Form). Ini adalah cara menuliskan argumen secara berurutan agar alur logikanya terlihat jelas.
 
-### Contoh Kasus: Pemilihan Teknologi di Kantor
+### Pemilihan Teknologi di Kantor
 
 Seorang manajer TI ingin meyakinkan perusahaan untuk beralih ke *cloud computing*.
 
@@ -75,7 +75,7 @@ Seorang manajer TI ingin meyakinkan perusahaan untuk beralih ke *cloud computing
 - **Premis 3:** Cloud computing memfasilitasi akses data jarak jauh secara real-time. (Fakta Teknis)
 - **Konklusi:** Perusahaan harus segera beralih ke sistem cloud. (Tindakan yang diusulkan)
 
-## 5\. Penerapan Praktis: Analisis Argumen dalam Coding
+## 5\. Analisis Argumen dalam Coding
 
 Dalam dunia pemrograman dan rekayasa perangkat lunak, struktur premis dan konklusi mirip dengan struktur *conditional logic*.
 
@@ -98,7 +98,7 @@ def evaluasi_keputusan(biaya_perawatan, butuh_remote):
 # Output didasarkan pada kebenaran premis yang diberikan
 ```
 
-## 6\. Latihan Mandiri: Uji Ketajaman Logika
+## 6\. Latihan Mandiri
 
 Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
 

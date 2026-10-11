@@ -1,4 +1,4 @@
-## Memahami Bias Kognitif: Kacamata Buram Otak Kita
+## Memahami Bias Kognitif
 
 Pernahkah kamu merasa sangat yakin akan sesuatu, namun belakangan menyadari bahwa kamu hanya melihat apa yang ingin kamu lihat? Atau pernahkah kamu membeli barang yang sebenarnya mahal hanya karena label "diskon 50%" membuat harganya terlihat murah?
 
@@ -29,7 +29,7 @@ Bias kognitif terjadi ketika Sistem 1 mengambil alih situasi yang seharusnya dia
 
 Kita tidak bertindak seperti hakim yang objektif, melainkan seperti pengacara yang membela satu sisi. Jika kita percaya bahwa "Kopi itu sehat", kita akan dengan semangat membaca artikel tentang manfaat antioksidan dalam kopi dan melewati berita tentang efek kafein terhadap kecemasan.
 
-#### Contoh Skenario:
+#### Rina dan Saham A
 
 Rina sangat yakin bahwa investasi saham A akan naik tajam. Ia hanya mengikuti grup diskusi yang memuji saham tersebut dan memblokir akun-akun yang memberikan analisis risiko (bearish). Saat harga saham mulai turun, ia menganggapnya sebagai "gejolak sementara" daripada sinyal peringatan yang valid.
 
@@ -64,7 +64,7 @@ Selain dua di atas, terdapat beberapa bias lain yang sering memengaruhi penalara
 - **Dunning-Kruger Effect:** Kondisi di mana orang yang memiliki kompetensi rendah justru merasa sangat ahli karena mereka tidak memiliki pengetahuan yang cukup untuk menyadari kekurangan mereka.
 - **Sunk Cost Fallacy:** Terus melakukan sesuatu karena kita sudah menginvestasikan waktu, uang, atau tenaga di sana, meskipun secara logika menghentikannya adalah pilihan terbaik.
 
-### Real-World Application: Bias dalam Kehidupan Profesional
+### Bias dalam Kehidupan Profesional
 
 Memahami bias kognitif bukan sekadar teori, ini adalah alat bertahan hidup di dunia nyata:
 
