@@ -2,7 +2,7 @@
 
 Kecemasan eksistensial atau Angst dipahami sebagai kesadaran mendalam subjek akan kedaulatan kebebasan memilih dan beban tanggung jawab yang menyertainya. Berbeda dari kecemasan psikologis yang dipicu oleh stimulus patologis, kecemasan eksistensial merupakan kondisi ontologis niscaya yang dialami oleh kesadaran saat berhadapan dengan keluasan kemungkinan masa depan.
 
-### 1. Distingsi Konseptual: Rasa Takut (*Furcht*) vs Kecemasan (*Angst*)
+### 1. Rasa Takut (*Furcht*) vs Kecemasan (*Angst*)
 
 Dalam tradisi filsafat eksistensial, khususnya melalui pemikiran Søren Kierkegaard dan Martin Heidegger, terdapat distingsi kategoris yang tegas antara rasa takut dan kecemasan:
 
@@ -37,11 +37,11 @@ $$
 
 Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya membentuk esensi dirinya, tetapi juga mencerminkan suatu model pilihan bagi kemanusiaan secara universal. Ketiadaan rujukan otoritas eksternal menjadikan subjek sebagai penanggung jawab tunggal atas konsekuensi tindakannya.
 
-### 3. Doktrin Sartre: Manusia Dikutuk untuk Bebas
+### 3. Manusia Dikutuk untuk Bebas menurut Sartre
 
 Jean-Paul Sartre merumuskan paradoks fundamental bahwa manusia "dikutuk untuk bebas" (*condamné à être libre*). Manusia tidak menghendaki kelahirannya ke dunia, namun begitu terlempar ke dalam eksistensi, ia bertanggung jawab secara penuh atas seluruh praksis kehidupannya.
 
-#### Karakteristik Kecemasan Eksistensial menurut Sartre:
+#### Karakteristik Kecemasan Eksistensial menurut Sartre
 1. **Ketiadaan Sandaran Metafisik:** Tidak tersedianya tata nilai objektif yang inheren pada kosmos, sehingga subjek memikul tugas mandiri dalam menciptakan makna.
 2. **Urgensi Temporal:** Setiap momen temporal adalah titik bifurkasi keputusan yang mendefinisikan masa depan.
 3. **Solitudo Keputusan:** Kendati individu meminta pertimbangan pihak lain, tindakan memilih penasihat mana yang akan dipercaya tetap merupakan keputusan soliter dari subjek yang bersangkutan.

@@ -1,8 +1,8 @@
-## Kesimpulan: Hidup dengan Pilihan Sadar
+## Hidup dengan Pilihan Sadar
 
 Sintesis filsafat eksistensialisme menegaskan bahwa hidup dengan pilihan sadar merupakan bentuk perayaan tertinggi atas martabat dan kedaulatan manusia. Melintasi pemikiran fundamental para filsuf eksistensialis, mulai dari doktrin ontologis bahwa eksistensi mendahului esensi, dinamika kecemasan (*Angst*) sebagai pusingnya kebebasan, hingga pemberontakan terhadap absurditas dan penegasan kehendak berkuasa, filsafat ini bermuara pada satu imperatif: kedaulatan subjek dalam mengukir makna hidup secara otentik.
 
-### 1. Rekapitulasi Konseptual: Sintesis Ontologi Eksistensial
+### 1. Rekapitulasi Konseptual
 
 Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi kosmis menjadi panggilan keberanian praksis. Pokok-pokok pikiran yang menjadi fondasi bangunan pemikiran ini mencakup:
 

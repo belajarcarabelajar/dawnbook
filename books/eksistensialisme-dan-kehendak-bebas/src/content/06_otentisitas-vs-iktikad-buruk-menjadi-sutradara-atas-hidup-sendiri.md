@@ -1,8 +1,8 @@
-## Otentisitas vs Iktikad Buruk: Menjadi Sutradara Atas Hidup Sendiri
+## Otentisitas vs Iktikad Buruk
 
 Dialektika antara otentisitas dan iktikad buruk atau mauvaise foi menggambarkan ketegangan etis manusia dalam memeluk kebebasan atau melarikan diri darinya. Dalam filsafat eksistensialisme Jean-Paul Sartre, persoalan ini menempati posisi sentral dalam menguji integritas kesadaran subjek di hadapan tuntutan sosial dan kecemasan ontologis.
 
-### 1. Hakikat Otentisitas: Kedaulatan Tindakan dan Penciptaan Diri
+### 1. Hakikat Otentisitas
 
 Otentisitas bukanlah proses penemuan substansi esensial yang tersembunyi di kedalaman batin, melainkan praksis penciptaan diri yang dinamis melalui pilihan-pilihan sadar. Karena manusia hadir tanpa kodrat tetap, menjadi otentik menuntut kesadaran kritis atas tiga pilar utama:
 
@@ -18,7 +18,7 @@ Kebalikan dari otentisitas adalah iktikad buruk (*mauvaise foi* / *bad faith*), 
 
 Ketiadaan fondasi metafisik absolut kerap memicu disorientasi eksistensial. Sebagai mekanisme pertahanan psikologis, individu kerap mengadopsi narasi bahwa tindakannya sepenuhnya didikte oleh determinisme situasi atau keharusan peran sosial.
 
-#### Studi Fenomenologis: Pelayan Kafe (*Le Garçon de Café*)
+#### Pelayan Kafe (*Le Garçon de Café*)
 
 Sartre menyajikan ilustrasi kanonik mengenai seorang pelayan kafe yang memperagakan gerak-gerik secara mekanis, kaku, dan berlebihan. Sosok tersebut berusaha meleburkan kesadaran otonomnya (*pour-soi*) ke dalam identitas benda padat (*en-soi*), seolah-olah takdirnya sejak lahir adalah menjadi pelayan kafe.
 

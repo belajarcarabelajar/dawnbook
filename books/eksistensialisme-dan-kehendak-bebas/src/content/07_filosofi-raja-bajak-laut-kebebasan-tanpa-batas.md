@@ -1,8 +1,8 @@
-## Filosofi 'Raja Bajak Laut': Kebebasan Tanpa Batas dalam Narasi One Piece
+## Filosofi 'Raja Bajak Laut' dalam One Piece
 
 Eksplorasi filosofis atas konsep Raja Bajak Laut (*Pirate King*) dalam karya naratif *One Piece* karya Eiichiro Oda menghadirkan eksperimen pemikiran mengenai pencarian kedaulatan individu dan kebebasan non-dominatif. Melalui figurasi Monkey D. Luffy dan warisan Gol D. Roger, konsepsi abstrak kebebasan eksistensial diuji dalam lanskap sosial yang sarat dengan hegemoni absolut Pemerintah Dunia (*World Government*), hegemoni kaum bangsawan dunia (*Tenryuubito*), dan determinisme takdir mitologis.
 
-### 1. Rekonseptualisasi Kedaulatan: Kebebasan (*Freedom*) vs Dominasi (*Power-Over*)
+### 1. Kebebasan (*Freedom*) vs Dominasi (*Power-Over*)
 
 Dalam diskursus konvensional mengenai kekuasaan politik, status kedaulatan tertinggi kerap diidentikkan dengan akumulasi kapital material, ekspansi teritorial, dan wewenang untuk menundukkan entitas lain. Figur antagonis seperti Kaido, Big Mom, maupun Pemerintah Dunia merepresentasikan paradigma kekuasaan dominatif (*Power-Over*) yang berusaha mengontrol dan memaksakan kehendak ke atas subjek lain.
 
@@ -31,7 +31,7 @@ $$
 
 Di mana $K_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
 
-### 3. Dekonstruksi Fatalisme: Kedaulatan Tindakan di Hadapan Nubuat (*Will of D*)
+### 3. Dekonstruksi Fatalisme di Hadapan Nubuat (*Will of D*)
 
 Dalam semesta *One Piece*, hadir mitologi mengenai "Kehendak D" (*Will of D*), nubuat kembalinya Joy Boy, dan penguraian rahasia Abad Kekosongan (*Void Century*). Kendati narasi mitologis mengeklaim hadirnya garis takdir masa lalu, karakter eksistensialis Luffy secara konsisten menolak untuk direduksi menjadi sekadar instrumen takdir kosmis:
 

@@ -47,7 +47,7 @@ Ketika subjek menghadapi krisis kehampaan di hadapan kesunyian alam semesta, pen
 | **Kelumpuhan Pilihan (*Angst*)** | Keraguan berlebih saat menghadapi berbagai alternatif jalur hidup. | Mengambil komitmen pada tindakan bertahap untuk memecah kebuntuan analisis. |
 | **Kelelahan Moral** | Kelelahan batin akibat menanggung beban kebebasan yang berat. | Mengakui batasan faktisitas jasmani dan menyusun jeda reflektif yang proporsional. |
 
-### 4. Studi Kasus: Rekonstruksi Identitas Pasca-Krisis
+### 4. Rekonstruksi Identitas Pasca-Krisis
 
 Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (seperti kegagalan karier atau kehilangan peran sosial), respons eksistensial membedakan antara keterpurukan pasif dan regenerasi otonom:
 - **Respon Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.

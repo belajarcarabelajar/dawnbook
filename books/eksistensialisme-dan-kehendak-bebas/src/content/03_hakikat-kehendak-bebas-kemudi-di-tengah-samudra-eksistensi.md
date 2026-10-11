@@ -1,4 +1,4 @@
-## Hakikat Kehendak Bebas: Kemudi di Tengah Samudra Eksistensi
+## Hakikat Kehendak Bebas
 
 Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas tanpa paksaan determinisme. Kehendak bebas bukan sekadar konsep metafisika teoretis, melainkan kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
 

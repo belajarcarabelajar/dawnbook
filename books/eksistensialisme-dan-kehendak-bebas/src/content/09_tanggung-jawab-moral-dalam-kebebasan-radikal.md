@@ -2,7 +2,7 @@
 
 Tanggung jawab moral dalam eksistensialisme radikal menegaskan bahwa kebebasan bertindak senantiasa memikul konsekuensi etis terhadap seluruh umat manusia. Dalam ketiadaan hukum moral transenden atau kodrat kodrati yang baku, manusia tidak lantas memperoleh lisensi untuk bertindak nir-etika. Sebaliknya, ketiadaan rujukan eksternal menjadikan beban tanggung jawab setiap subjek bersifat mutlak dan tak terbatas.
 
-### 1. Dialektika Tak Terpisahkan: Kebebasan dan Tanggung Jawab
+### 1. Dialektika Kebebasan dan Tanggung Jawab
 
 Dalam ontologi eksistensialisme Jean-Paul Sartre, kebebasan dan tanggung jawab merupakan dua sisi dari satu koin ontologis yang tak terpisahkan. Kebebasan yang radikal (*radix*) menandakan bahwa manusia adalah sumber primer dari seluruh praksis tindakannya:
 

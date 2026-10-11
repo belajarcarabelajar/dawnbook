@@ -2,7 +2,7 @@
 
 Konsep absurdisme Albert Camus menelaah ketegangan eksistensial saat hasrat manusia akan makna berbenturan dengan kesunyian alam semesta yang irasional. Jika Jean-Paul Sartre menekankan bahwa kebebasan merupakan kondisi ontologis niscaya, Camus mengajak penelaahan terhadap realitas yang lebih mendasar: disonansi antara kerinduan rasional manusia akan kejelasan dan realitas kosmik yang sepenuhnya membisu.
 
-### 1. Epistemologi Absurdisme: Benturan Dua Realitas
+### 1. Epistemologi Absurdisme
 
 Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari-hari, melainkan sebuah kategori epistemologis yang spesifik. Absurditas lahir secara eksklusif dari relasi benturan antara dua elemen:
 
@@ -19,7 +19,7 @@ $$
 
 Absurditas tidak berada di dalam diri subjek semata, tidak pula bersemayam di alam semesta secara terisolasi. Kondisi absurd terartikulasi secara murni dalam jalinan relasi ketegangan antara keduanya.
 
-### 2. Mitos Sisifus: Alegori Eksistensi Manusia
+### 2. Mitos Sisifus
 
 Camus mengangkat figur mitologi Yunani, **Sisifus**, sebagai metafora kondisi eksistensial manusia. Para dewa menjatuhkan kutukan kepada Sisifus untuk mendorong sebongkah batu besar ke puncak gunung, hanya untuk menyaksikan batu tersebut berguling kembali ke dasar lembah, memaksanya mengulangi siklus tersebut tanpa akhir.
 
@@ -55,7 +55,7 @@ Aktualisasi pemberontakan dalam praksis kehidupan ditopang oleh tiga pilar utama
 2. **Kebebasan (*Freedom*):** Pelepasan dari ilusi takdir metafisik yang membuka ruang kedaulatan bagi individu untuk menentukan tindakannya sendiri pada masa kini.
 3. **Gairah (*Passion*):** Memaksimalkan kualitas dan intensitas pengalaman hidup pada momen kekinian (*here and now*).
 
-### 5. Sintesis: Membayangkan Sisifus Bahagia
+### 5. Membayangkan Sisifus Bahagia
 
 Pernyataan kanonik Albert Camus berbunyi: *"Seseorang harus membayangkan Sisifus bahagia."*
 
