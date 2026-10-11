@@ -1,8 +1,8 @@
-## Pendekatan Trait: Sifat-sifat Kepribadian
+## Pendekatan Trait
 
 Pendekatan *trait* berupaya mencari, mengklasifikasikan, serta mengukur sifat-sifat dasar yang terus berulang dalam perilaku individu. Sifat atau *trait* dilihat sebagai disposisi yang relatif stabil. Pendekatan ini berpijak pada asumsi bahwa kepribadian tersusun dari berbagai karakteristik terukur yang mengatur cara seseorang berpikir, merasa, dan bertindak di berbagai situasi berbeda.
 
-## Gordon Allport: Psikologi Individu
+## Psikologi Individu Gordon Allport
 
 Gordon Allport menempatkan keunikan individu sebagai titik berat pendekatan *trait*. Ia mendefinisikan kepribadian sebagai "organisasi dinamis dalam sistem psikofisik individu yang menentukan penyesuaian yang unik dengan lingkungannya". Baginya, sifat kepribadian itu sangat nyata, menetap di dalam diri kita, dan bertindak sebagai penentu perilaku.
 
@@ -18,7 +18,7 @@ Konsep penting lain dari Allport meliputi **Proprium**, yang mewakili inti dari 
 
 Ada juga konsep **Functional Autonomy** (*otonomi fungsional*), sebuah gagasan orisinal yang menyebutkan bahwa motif perilaku orang dewasa bisa terlepas sepenuhnya dari alasan awal kemunculannya. Perilaku yang dulunya punya motif eksternal bisa berubah wujud menjadi motif internal yang mandiri. Allport membaginya jadi dua: *perseverative functional autonomy* (perilaku karena murni kebiasaan berulang) dan *propriate functional autonomy* (motif kompleks yang menyatu dengan nilai dan tujuan hidup).
 
-## Raymond Cattell: Model Faktor 16 Kepribadian
+## Model 16 Faktor Kepribadian Raymond Cattell
 
 Raymond Cattell amat mengandalkan pendekatan kuantitatif, khususnya analisis faktor (*factor analysis*), untuk membedah struktur dasar kepribadian. Ia menyortir ribuan kata sifat menjadi kelompok yang lebih padat dan terukur. 
 
@@ -30,7 +30,7 @@ Dari sekian banyak kombinasi, Cattell merumuskan 16 *source traits* primer yang 
 
 Selain itu, Cattell juga mengelompokkan sifat menjadi *ability traits* (kemampuan mencapai tujuan), *temperament traits* (gaya dan irama perilaku emosional), dan *dynamic traits* (penggerak dasar perilaku).
 
-## Hans Eysenck: Dimensi Kepribadian Biologis
+## Dimensi Kepribadian Biologis Hans Eysenck
 
 Hans J. Eysenck membangun teori kepribadian yang mengakar pada aspek biologis dan genetik. Melalui analisis faktor yang ketat, Eysenck merumuskan tiga dimensi kepribadian utama (sering dikenal sebagai model PEN):
 
@@ -43,7 +43,7 @@ Dimensi neurotisisme melihat seberapa mudah seseorang merasakan emosi negatif se
 **Psychoticism vs. Impulse Control**
 Psikotisisme tidak merujuk pada patologi klinis secara langsung, melainkan karakter seperti agresivitas, sikap dingin, impulsivitas, dan kreativitas ekstrem. Meski punya genetik yang kuat di dimensi ini, seseorang tidak selalu berakhir dengan gangguan mental kecuali tertimpa stres yang teramat berat. Individu dengan kontrol impuls yang baik justru terlihat kooperatif, berhati hangat, dan sabar.
 
-## Model Lima Besar (Big Five: OCEAN)
+## Model Lima Besar (Big Five)
 
 *Five-Factor Model* (FFM) alias *Big Five* menjadi salah satu pijakan ilmiah terkuat dalam psikologi kontemporer untuk mengurai kepribadian. Model ini mengukur lima faktor yang berdiri sendiri dalam skala yang berkelanjutan.
 

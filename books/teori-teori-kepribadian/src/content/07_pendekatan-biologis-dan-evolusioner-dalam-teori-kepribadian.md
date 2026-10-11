@@ -32,7 +32,7 @@ Hans Eysenck lewat teori aktivasi kortikal berpendapat bahwa individu ekstravert
 
 Jeffrey Gray menawarkan perspektif lain melalui *Reinforcement Sensitivity Theory* (RST). Gray membagi sirkuit otak ke dalam dua mesin. *Behavioral Activation System* (BAS) bertugas mengejar ganjaran hadiah dan memproduksi antusiasme yang identik dengan *extraversion*. Satunya lagi, *Behavioral Inhibition System* (BIS), bertindak pasif dengan terus mewaspadai potensi bahaya atau hukuman, sebuah mekanisme bertahan hidup yang mendasari munculnya *neuroticism*.
 
-### Temperamen: Fondasi Biologis Kepribadian
+### Temperamen
 
 Temperamen merupakan perbedaan bawaan sejak lahir dalam hal reaktivitas serta kemampuan regulasi diri. Pola instingtual yang muncul sejak fase bayi ini menjadi material dasar bagi tumbuhnya kepribadian yang kompleks seiring kedewasaan. 
 

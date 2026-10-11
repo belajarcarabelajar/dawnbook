@@ -1,10 +1,10 @@
-## Pendekatan Humanistik: Aktualisasi Diri dan Pertumbuhan
+## Pendekatan Humanistik
 
 Pendekatan humanistik muncul sebagai "kekuatan ketiga" dalam psikologi, menyusul psikoanalisis dan behaviorisme. Sudut pandang ini menolak gagasan deterministik psikoanalisis yang terlalu terpaku pada dorongan bawah sadar, serta menentang behaviorisme yang mereduksi manusia sekadar menjadi respons atas stimulus lingkungan. Sebaliknya, psikologi humanistik berfokus pada potensi khas setiap individu untuk tumbuh, meraih *self-actualization*, memiliki kehendak bebas, dan mengeksplorasi makna hidup.
 
 Pusat dari aliran ini adalah asumsi dasar bahwa manusia secara kodrati mempunyai daya dorong untuk menjadi versi paling utuh dari dirinya sendiri. Fokusnya diarahkan pada pengalaman subjektif, ruang otonomi pribadi, dan kemampuan mengambil pilihan dengan penuh tanggung jawab. Dua tokoh yang meletakkan dasar kuat bagi tradisi humanistik ini adalah Carl Rogers dan Abraham Maslow.
 
-### Carl Rogers: Self-Concept dan Conditions of Worth
+### Teori Self-Concept Carl Rogers
 
 Carl Rogers merumuskan *person-centered therapy*, sebuah landasan konseling yang berangkat dari keyakinan bahwa manusia pada dasarnya bergerak ke arah yang positif. Setiap orang diyakini memiliki kecenderungan alami untuk mewujudkan semua potensi yang dimilikinya, suatu fenomena psikologis yang ia sebut *actualizing tendency*.
 
@@ -49,7 +49,7 @@ Dalam ruang konseling, terapis yang memakai pendekatan *person-centered therapy*
 
 Di bidang pendidikan, konsep ini menuntun pengajar untuk memperlakukan siswa tanpa syarat-syarat yang mengekang. Saat guru menghargai anak didik sebagai individu merdeka, motivasi belajar organik akan tumbuh. Pola semacam ini juga menggeser iklim belajar menjadi lebih berpusat pada siswa.
 
-### Abraham Maslow: Hierarchy of Needs
+### Hierarchy of Needs Abraham Maslow
 
 Nama Abraham Maslow identik dengan cetak biru motivasi yang terangkum dalam *hierarchy of needs*. Ia merumuskan bahwa perilaku kita dipacu oleh berlapis-lapis kebutuhan yang memiliki urutan khusus, mulai dari yang sifatnya insting bertahan hidup dasar sampai pada kebutuhan filosofis tertinggi.
 

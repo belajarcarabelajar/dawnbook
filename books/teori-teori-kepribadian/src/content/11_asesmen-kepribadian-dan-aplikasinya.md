@@ -21,21 +21,21 @@ Metode asesmen kepribadian dibagi ke dalam beberapa kategori utama yang memiliki
 
 Tes proyektif meminta individu merespons stimulus ambigu dengan interpretasi bebas. Premis dasarnya adalah respons tersebut akan memproyeksikan aspek-aspek kepribadian bawah sadar, termasuk motif, konflik, dan keinginan yang mungkin tidak disadari. Pendekatan ini berakar dari teori psikodinamik.
 
-#### 1. Karakteristik Umum:
+#### 1. Karakteristik Umum
 
 - **Stimulus Ambigu**: Menggunakan gambar, bercak tinta, atau kalimat yang tidak memiliki makna tunggal.
 - **Respons Bebas**: Tidak memuat jawaban benar atau salah.
 - **Fokus Bawah Sadar**: Menggali dimensi kepribadian yang berada di luar kesadaran.
 - **Interpretasi Subjektif**: Proses penilaian bergantung pada keahlian dan pengalaman penguji.
 
-#### 2. Contoh Tes Proyektif:
+#### 2. Contoh Tes Proyektif
 
 - **Rorschach Inkblot Test**: Dikembangkan oleh psikolog Hermann Rorschach pada 1921, tes ini menyajikan 10 bercak tinta simetris (hitam-putih, berwarna, abu-abu). Individu diminta menyampaikan apa yang mereka lihat atau direpresentasikan oleh bercak tersebut. Respons dianalisis berdasarkan lokasi, determinan (bentuk, warna, bayangan), dan konten. Tes ini sering digunakan untuk mendeteksi masalah psikologis seperti gangguan pikiran saat pasien enggan terbuka.
 - **Thematic Apperception Test (TAT)**: Dikembangkan oleh Henry Murray dan Christiana Morgan pada 1930-an. Tes ini memakai serangkaian kartu bergambar adegan sosial yang ambigu. Individu diinstruksikan menyusun cerita tentang gambar tersebut, termasuk apa yang terjadi sebelumnya, saat ini, pikiran karakter, dan hasilnya. Cerita tersebut dianalisis guna mengungkap tema berulang, *needs* (kebutuhan), konflik, serta persepsi interpersonal.
 - **Draw-a-Person Test (DAP)** dan **Kinetic Family Drawing (KFD)**: Menggunakan media menggambar manusia atau keluarga untuk memetakan kondisi mental. Analisis terfokus pada detail gambar, proporsi, lokasi, ekspresi wajah, serta aspek simbolis. Hal ini memberikan wawasan mengenai *body image* (citra tubuh), emosionalitas, kecemasan, atau tingkat agresi.
 - **Sentence Completion Test**: Individu melengkapi awalan kalimat yang rumpang (contoh: "Hal yang paling saya takuti adalah..."). Respons ini membantu menyingkap sikap, emoi, dan konflik pribadi.
 
-#### 3. Kritik dan Keunggulan:
+#### 3. Kritik dan Keunggulan
 
 - **Keunggulan**: Dapat mengungkap area yang mungkin tidak disadari, meminimalisasi kemungkinan individu memalsukan respons, serta menghasilkan data kualitatif yang kaya.
 - **Kritik**: Reliabilitas dan validitas masih sering diperdebatkan. Tes ini sangat mengandalkan interpretasi subjektif klinisi, menyita banyak waktu, dan rentan terhadap bias penguji.
@@ -44,14 +44,14 @@ Tes proyektif meminta individu merespons stimulus ambigu dengan interpretasi beb
 
 Inventori kepribadian merupakan kuesioner terstruktur yang menuntut laporan diri (*self-report*) mengenai karakteristik, emosi, dan perilaku. Tes ini disebut objektif karena memuat format respons tetap (misalnya skala benar/salah atau *Likert scale*) dengan sistem skoring standar untuk memangkas bias interpretasi. Pendekatan ini banyak digunakan dalam kerangka *trait theories* atau kognitif sosial.
 
-#### 1. Karakteristik Umum:
+#### 1. Karakteristik Umum
 
 - **Struktur Terstandar**: Pertanyaan dan opsi jawaban sudah dipatok spesifik.
 - **Skoring Objektif**: Mengkalkulasi skor berdasarkan kunci jawaban baku.
 - **Fokus Laporan Diri**: Mengukur hal-hal yang disadari atau diyakini individu tentang diri mereka sendiri.
 - **Data Kuantitatif**: Menghasilkan angka normatif yang dapat dibandingkan secara populasi.
 
-#### 2. Contoh Inventori Kepribadian:
+#### 2. Contoh Inventori Kepribadian
 
 - **Minnesota Multiphasic Personality Inventory (MMPI)**: Salah satu instrumen paling umum untuk mengevaluasi sifat kepribadian dan psikopatologi orang dewasa. Dikembangkan oleh Starke R. Hathaway dan J.C. McKinley (1943), tes ini membantu perencanaan perawatan, diagnosis diferensial, hingga asesmen forensik. Versi terbaru (MMPI-3, dirilis 2020) berisi 335 item benar/salah.
 - **Big Five Personality Test**: Mengukur lima dimensi utama berdasarkan *Five-Factor Model* (FFM): *Openness to experience*, *Conscientiousness*, *Extraversion*, *Agreeableness*, dan *Neuroticism* (OCEAN).
@@ -59,7 +59,7 @@ Inventori kepribadian merupakan kuesioner terstruktur yang menuntut laporan diri
 - **16 Personality Factor Questionnaire (16PF)**: Disusun oleh Raymond Cattell, mengukur 16 faktor kepribadian primer hasil analisis faktor.
 - **Holland Code (RIASEC)**: Kuesioner yang lebih spesifik pada *vocational interest* (minat kejuruan) dengan enam dimensi: *Realistic, Investigative, Artistic, Social, Enterprising*, dan *Conventional*.
 
-#### 3. Kritik dan Keunggulan:
+#### 3. Kritik dan Keunggulan
 
 - **Keunggulan**: Memiliki reliabilitas dan validitas yang lebih terukur (untuk instrumen terstandardisasi), skoring efisien, dapat diadministrasikan dalam skala besar, serta kemudahan analisis data kuantitatif.
 - **Kritik**: Rentan terhadap *faking good* (berpura-pura baik) atau *faking bad*, bergantung pada akurasi kesadaran diri (*self-insight*) subjek, dan hanya memetakan apa yang bersedia dilaporkan.
