@@ -52,7 +52,7 @@ Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kre
 
 Di dunia nyata, diversifikasi konten ini memadukan aspek artistik dengan strategi bisnis yang matang.
 
-**Studi Kasus: Data-Driven Content Production**
+**Studi Kasus Data-Driven Content Production**
 
 Platform global seperti Netflix or Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
 

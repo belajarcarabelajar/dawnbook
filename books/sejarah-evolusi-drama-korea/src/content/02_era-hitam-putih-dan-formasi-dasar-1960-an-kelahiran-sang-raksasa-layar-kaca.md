@@ -8,7 +8,7 @@ Pada dekade ini, K-Drama tidak lahir dari kemegahan sinematografi atau penampila
 
 Pasca-Perang Korea, pemerintah menyadari potensi besar televisi sebagai medium komunikasi massa yang sangat kuat. Maka, pada 31 Desember 1961, KBS (Korean Broadcasting System) resmi mengudara sebagai stasiun televisi milik negara.
 
-**Analogi: Radio dengan Mata**
+**Analogi Radio dengan Mata**
 
 > Jika drama radio pada dekade 1950-an menjadi "teater pikiran" (*theater of the mind*) tempat pendengar membayangkan sendiri wajah para tokoh, drama televisi era 1960-an hadir sebagai "radio dengan mata". Pada awal perjalanannya, teknik pengambilan gambar masih terasa kaku karena hanya merekam adegan layaknya panggung teater yang difilmkan.
 
