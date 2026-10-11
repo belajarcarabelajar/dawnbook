@@ -70,19 +70,19 @@ Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pert
 * **Untuk Tipe Menghindar:** Cobalah untuk melakukan "transparansi terencana". Bagikan pembaruan kecil tentang pekerjaanmu secara rutin sebelum orang lain bertanya. Ini membangun kepercayaan tanpa membuatmu merasa kehilangan kendali.
 * **Untuk Pemimpin:** Sadarilah bahwa kebutuhan anggota tim berbeda-beda. Anggota tim yang cemas butuh lebih banyak pujian, sementara yang menghindar butuh ruang untuk bekerja sendiri.
 
-## Kesimpulan
+## Dari Reaksi Otomatis ke Respons Sadar
 
 Memahami gaya kelekatan di lingkungan sosial dan profesional bukan tentang memberi label negatif pada diri sendiri atau orang lain. Ini adalah alat untuk meningkatkan kecerdasan emosional (EQ). Dengan mengenali pola-pola ini, kita bisa beralih dari reaksi otomatis menuju respons yang sadar dan konstruktif, menciptakan lingkungan kerja yang tidak hanya produktif tetapi juga sehat secara psikologis.
 
 "Cara kita memperlakukan orang lain dalam pekerjaan adalah cerminan dari bagaimana kita merasa aman di dalam diri kita sendiri."
 
-## Membangun Relasi yang Bermakna
+## Kejujuran dan Investasi Waktu dalam Relasi
 
 Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
-### Pilar Utama Relasi yang Bermakna
+### Pilar Penumbuh Koneksi yang Dalam
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Mendengarkan aktif berarti menangkap emosi di balik kata-kata yang diucapkan. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapanmu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Hal ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, alih-alih hanya menampilkan sisi "sempurna" yang ingin kamu perlihatkan.
@@ -101,7 +101,7 @@ $$
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 
-### Langkah Praktis untuk Memulai
+### Pertanyaan Terbuka dan Apresiasi Spesifik
 
 * **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
 * **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

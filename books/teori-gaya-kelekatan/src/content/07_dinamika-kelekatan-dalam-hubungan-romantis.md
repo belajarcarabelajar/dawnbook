@@ -83,13 +83,13 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 2. **Kenali Sinyal Tubuh:** Sadari kapan tubuhmu mulai merasa "sesak" atau tertekan agar kamu tidak langsung mematikan emosi atau melarikan diri begitu saja.
 3. **Mulai dari Hal Kecil:** Latihlah keterbukaan dengan membagikan satu hal kecil yang kamu rasakan atau alami setiap hari demi menjaga keintiman tetap hidup.
 
-## Kesimpulan
+## Dinamika Kelekatan Bukan Takdir
 
 Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir mati yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
 
 Mengenali peran kita dalam 'tarian' hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk menciptakan harmoni baru. Kesadaran inilah kunci utama untuk bertransformasi. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
 
-## Membangun Relasi yang Bermakna
+## Menciptakan Koneksi yang Mendalam
 
 Membangun hubungan yang mendalam adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi semacam ini melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 

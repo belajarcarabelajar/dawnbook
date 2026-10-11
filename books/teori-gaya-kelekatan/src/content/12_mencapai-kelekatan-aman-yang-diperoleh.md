@@ -74,7 +74,7 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
 
 **Hasil:** Lima tahun kemudian, Sari tidak lagi panik jika pesannya tidak langsung dibalas. Dia telah berhasil mencapai *Earned Security*. Ingatan akan rasa cemas itu masih ada, tetapi sistem sarafnya tidak lagi bereaksi secara berlebihan.
 
-## Kesimpulan
+## Menjadi Earned Secure Tanpa Harus Sempurna
 
 Menjadi *Earned Secure* bukan berarti kamu harus menjadi orang sempurna yang terbebas dari masalah. Ini menandakan bahwa kamu bertransformasi menjadi individu yang:
 
@@ -84,13 +84,13 @@ Menjadi *Earned Secure* bukan berarti kamu harus menjadi orang sempurna yang ter
 
 **Pesan untukmu:** Keamanan emosional bukanlah hadiah eksklusif yang hanya diberikan kepada orang-orang beruntung. Ini adalah keterampilan yang dapat dipelajari, diperjuangkan, dan akhirnya dimiliki. Masa lalu kamu adalah bab awal dari buku kehidupanmu, tetapi kamulah yang memegang pena untuk menulis bab-bab selanjutnya.
 
-## Membangun Relasi yang Bermakna
+## Keterampilan Sosial untuk Hubungan yang Bermakna
 
 Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bermakna melampaui percakapan basa-basi (*small talk*) serta menyentuh aspek nilai, impian, dan dukungan timbal balik.
 
 Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
-### Pilar Utama Relasi yang Bermakna
+### Pilar Penting Koneksi yang Dalam
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Hal ini melibatkan pemahaman emosi di balik kata-kata yang terucap, bukan hanya mendengarkan suara. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) bukan hanya sisi "sempurna" yang ingin kamu tampilkan.
@@ -99,7 +99,7 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown.
 
-### Langkah Praktis untuk Memulai
+### Analogi Persamaan dan Contoh Tindakan
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa menggunakan analogi persamaan sederhana berikut:
 

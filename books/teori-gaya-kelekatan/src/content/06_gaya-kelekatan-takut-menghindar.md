@@ -84,11 +84,11 @@ Kunci utama menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dal
 
 *Catatan: Pembahasan mendalam mengenai bagaimana menyembuhkan pola ini akan dibahas secara detail pada bagian "Proses Penyembuhan dan Transformasi".*
 
-## 8. Membangun Relasi yang Bermakna
+## 8. Nilai, Impian, dan Dukungan Timbal Balik
 
 Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
-### Pilar Utama Relasi yang Bermakna
+### Fondasi Relasi yang Kokoh
 
 1. **Mendengarkan secara aktif (*active listening*):** Cobalah memahami emosi di balik ucapan pasangan bicara, bukan hanya menangkap kata-katanya saja. Fokuslah sepenuhnya tanpa menyela atau sibuk menyiapkan jawaban kamu berikutnya.
 2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya topeng "sempurna" yang ingin kamu perlihatkan.
@@ -97,7 +97,7 @@ Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial 
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
 
-### Langkah Praktis untuk Memulai
+### Dari Persamaan Relasi ke Tindakan Nyata
 
 Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita perhatikan "persamaan" sederhana tentang kedalaman relasi berikut:
 

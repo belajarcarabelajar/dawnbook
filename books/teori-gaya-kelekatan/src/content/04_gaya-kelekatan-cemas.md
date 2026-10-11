@@ -25,7 +25,7 @@ Mengapa seseorang mengembangkan gaya ini? Jawabannya sering kali terletak pada h
 
 Gaya cemas biasanya terbentuk dari pola asuh yang kurang konsisten. Ada kalanya orang tua sangat hangat dan perhatian, tetapi di hari lain mereka mendadak dingin, cuek, atau mengabaikan anak tanpa alasan yang jelas.
 
-**Analogi: Mesin Slot Kasino**
+**Analogi Mesin Slot Kasino**
 
 Jika kamu menekan tombol dan selalu mendapatkan hadiah secara konsisten, kamu akan tenang. Jika kamu menekan tombol dan tidak pernah mendapat apa-apa, kamu akan berhenti mencoba. Namun, jika kamu menekan tombol dan *kadang-kadang* mendapat hadiah secara acak, kamu akan menjadi penasaran dan terus-menerus menekan tombol tersebut. Inilah yang terjadi pada anak dengan pengasuh yang tidak konsisten; mereka terus mencari perhatian karena takut jika berhenti berupaya, mereka akan kehilangan kesempatan untuk disayangi.
 
@@ -92,7 +92,7 @@ Berikut adalah pilar utama dalam membangun koneksi yang kuat:
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
 
-## Langkah Praktis untuk Memulai
+## Rumus Kedalaman Relasi dan Tindakan Pertama
 
 Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, mari kita lihat rumus sederhana ini:
 
