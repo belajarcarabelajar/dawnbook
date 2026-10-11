@@ -11,7 +11,7 @@ Empat pilar bekerja sebagai rantai. Kekuatan sistem ditentukan pilar terlemah:
 
 Jika \\( P_{\text{diseminasi}} \\) mendekati nol, maka \\( P_{\text{sukses}} \\) juga mendekati nol, seberapa pun canggih sensor yang kamu pasang.
 
-### Pilar 1: Pengetahuan Risiko (*Risk Knowledge*)
+### 1. Pengetahuan Risiko (*Risk Knowledge*)
 
 Pilar pertama adalah fondasi. Pengetahuan risiko menggabung *bahaya*, *kerentanan*, dan *kapasitas*. Bahaya menjelaskan karakter ancaman seperti sumber gempa atau zona banjir kala ulang 25 tahun. Kerentanan menjelaskan siapa paling terdampak, termasuk kepadatan penduduk dan kualitas bangunan. Kapasitas menjelaskan sumber daya lokal yang bisa dimobilisasi.
 
@@ -24,7 +24,7 @@ Langkah praktis:
 
 Di Jepang, peta risiko tsunami berbasis skenario megathrust menentukan penempatan sensor dan tinggi tanggul. Kegagalan umum adalah peta hanya tersedia di level kabupaten dan tidak turun ke skala desa.
 
-### Pilar 2: Pemantauan dan Layanan Peringatan (*Monitoring and Warning Service*)
+### 2. Pemantauan dan Layanan Peringatan (*Monitoring and Warning Service*)
 
 Pilar kedua adalah sistem saraf EWS. Tugasnya mendeteksi anomali dan memutuskan kapan peringatan dikeluarkan.
 
@@ -39,7 +39,7 @@ Karakteristik layanan yang kuat:
 
 *InaTEWS* mengintegrasi data seismik, buoy, dan tide gauge untuk estimasi tinggi gelombang tsunami. Untuk banjir, sistem di DAS Bengawan Solo memakai radar dan model hidrologi untuk prediksi 6 sampai 12 jam sebelumnya. Kelemahan sering ada pada pemeliharaan: baterai tidak diganti atau jaringan putus.
 
-### Pilar 3: Diseminasi dan Komunikasi (*Dissemination and Communication*)
+### 3. Diseminasi dan Komunikasi (*Dissemination and Communication*)
 
 Pilar ketiga menentukan apakah peringatan akurat benar-benar sampai dan dipahami. Tujuannya memastikan pesan *diterima*, *dipahami*, dan *dipercaya* dengan prinsip *clear, consistent, credible*.
 
@@ -52,7 +52,7 @@ Elemen kunci:
 
 Di Filipina, peringatan siklon dari PAGASA disederhanakan menjadi kode warna per dusun dan disebar via radio dan kentongan. Model serupa ada di lereng Merapi, di mana HT dan kentongan menjadi cadangan saat listrik padam. Ukur keberhasilan bukan dari jumlah SMS terkirim, tapi dari *waktu tiba pesan* dan *persentase warga yang tahu tindakan yang harus dilakukan*.
 
-### Pilar 4: Kapasitas Respons (*Response Capability*)
+### 4. Kapasitas Respons (*Response Capability*)
 
 Pilar keempat menentukan apakah warga mampu bertindak benar setelah menerima peringatan. Kapasitas ini mencakup rencana, infrastruktur, dan latihan.
 

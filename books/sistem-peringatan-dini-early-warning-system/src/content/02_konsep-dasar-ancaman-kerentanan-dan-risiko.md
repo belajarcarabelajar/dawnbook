@@ -8,19 +8,19 @@ Kerangka risiko modern bertumpu pada empat komponen: *ancaman*, *keterpaparan*, 
 
 > **Definisi UNDRR:** *Ancaman* adalah proses, fenomena, atau aktivitas manusia yang dapat menyebabkan hilangnya nyawa, cedera, kerusakan properti, gangguan sosial ekonomi, atau degradasi lingkungan. *Kerentanan* adalah kondisi yang ditentukan oleh faktor fisik, sosial, ekonomi, dan lingkungan yang meningkatkan kepekaan terhadap dampak ancaman. *Keterpaparan* adalah keberadaan orang, aset, dan sistem di lokasi yang berpotensi terkena ancaman. *Kapasitas* adalah kombinasi kekuatan dan sumber daya yang tersedia untuk mengelola risiko.
 
-### Ancaman (Hazard): Sumber Potensi Bahaya
+### Ancaman (Hazard)
 
 Ancaman menggambarkan *potensi*, bukan kepastian. Sesar aktif di bawah laut adalah ancaman, begitu pula tumpahan bahan kimia di kawasan industri. Ancaman belum menjadi bencana sampai bertemu elemen yang rentan dan terpapar.
 
 Karakter ancaman meliputi lokasi, intensitas seperti magnitudo atau tinggi banjir, frekuensi, durasi, dan probabilitas periode ulang. Contoh di Indonesia meliputi gempa megathrust di Sumatra, letusan Gunung Merapi, banjir di daerah aliran sungai Ciliwung, dan kekeringan di Nusa Tenggara Timur.
 
-### Keterpaparan (Exposure): Siapa di Jalur Bahaya
+### Keterpaparan (Exposure)
 
 Keterpaparan menjawab pertanyaan *apa dan siapa yang berada di tempat bahaya terjadi*. Tanpa keterpaparan, tidak ada risiko. Pesisir padat permukiman dengan ancaman tsunami yang sama memiliki risiko jauh lebih tinggi daripada hutan lindung tanpa penduduk.
 
 Unsur keterpaparan mencakup penduduk dan kepadatan, aset ekonomi seperti rumah dan infrastruktur, layanan penting seperti rumah sakit dan jaringan listrik, serta aset lingkungan seperti mangrove. Peta keterpaparan membantu kamu menentukan siapa yang harus diperingatkan lebih dulu dan jalur evakuasi prioritas.
 
-### Kerentanan (Vulnerability): Mengapa Dampak Tidak Merata
+### Kerentanan (Vulnerability)
 
 Kerentanan menjelaskan mengapa dua keluarga dengan tinggi banjir sama bisa pulih dengan kecepatan berbeda. Satu pulih seminggu, yang lain kehilangan mata pencaharian berbulan-bulan.
 
@@ -38,11 +38,11 @@ Rumah tangga berpendapatan harian tanpa tabungan atau asuransi lebih sulit pulih
 **4. Kerentanan lingkungan**
 Hilangnya hutan hulu meningkatkan limpasan banjir, rusaknya terumbu karang mengurangi perlindungan gelombang, alih fungsi rawa menghilangkan resapan.
 
-### Kapasitas (Capacity): Penyeimbang Risiko
+### Kapasitas (Capacity)
 
 Kapasitas mencakup pengetahuan, keterampilan, kelembagaan, dan sumber daya untuk mencegah, mengurangi, merespons, dan pulih. Contohnya sistem peringatan dini yang berfungsi, tim siaga desa, dana cadangan, peta evakuasi yang dipahami warga, dan akses informasi cuaca.
 
-### Rumus Risiko: Menghubungkan Semua Variabel
+### Rumus Risiko
 
 Secara konseptual, hubungan antar pilar sering ditulis sebagai perkalian. Bentuk paling sederhana adalah \\( \text{Risiko} \approx \text{Ancaman} \times \text{Kerentanan} \\).
 
@@ -54,7 +54,7 @@ Rumus ini adalah kerangka berpikir, bukan kalkulator angka tunggal. Jika \\( \te
 
 Untuk analisis kuantitatif, pendekatan probabilistik sering dipakai: \\[ \text{Risiko} = \text{Probabilitas Ancaman} \times \text{Konsekuensi} \\]
 
-### Tabel Perbandingan: Ancaman Alam vs Ancaman Antropogenik
+### Ancaman Alam vs Ancaman Antropogenik
 
 | Aspek | Ancaman Alam | Ancaman Antropogenik |
 | :--- | :--- | :--- |
