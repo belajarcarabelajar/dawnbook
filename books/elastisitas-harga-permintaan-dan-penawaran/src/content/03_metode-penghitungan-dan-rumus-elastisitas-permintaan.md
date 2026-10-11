@@ -1,7 +1,7 @@
 ## Metode Penghitungan dan Rumus Elastisitas Permintaan
 Setelah memahami apa itu elastisitas permintaan secara konseptual, tantangan berikutnya adalah bagaimana kita mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
 Dalam bagian ini, kita akan membahas teknik penghitungan elastisitas permintaan menggunakan dua metode utama: **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
-## 1. Fondasi: Koefisien Elastisitas
+## 1. Koefisien Elastisitas
 Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Hasil dari penghitungan elastisitas disebut sebagai **Koefisien Elastisitas ($E_d$)**. Angka ini memberi tahu kita seberapa besar persentase perubahan jumlah permintaan jika harga berubah sebesar 1\%.
 Secara umum, rumusnya adalah:
 
@@ -15,7 +15,7 @@ $$
 > **Catatan Penting:** Karena hukum permintaan menyatakan bahwa harga dan jumlah permintaan bergerak ke arah yang berlawanan (jika harga naik, permintaan turun), hasil penghitungan biasanya negatif. Namun, dalam ekonomi, kita sering menggunakan **nilai mutlak (absolute value)** untuk menyederhanakan interpretasi. Jadi, jika hasilnya $-2$, kita menyebutnya $2$.
 ## 2. Metode Elastisitas Titik (Point Elasticity)
 Metode ini digunakan untuk menghitung elastisitas pada satu titik tertentu pada kurva permintaan. Metode ini sangat berguna jika perubahan harga yang terjadi relatif kecil atau jika kita memiliki data harga awal dan jumlah awal yang spesifik.
-### Rumus Matematis:
+### Rumus Elastisitas Titik
 
 $$
 E_d = \frac{\Delta Q}{\Delta P} \times \frac{P}{Q}
@@ -26,7 +26,7 @@ Di mana:
 - $\Delta P = P_2 - P_1$ (Perubahan harga)
 - $P$ = Harga awal
 - $Q$ = Jumlah permintaan awal
-### Langkah-langkah Penghitungan:
+### Langkah-langkah Penghitungan Elastisitas Titik
 1. Identifikasi harga awal ($P_1$) dan jumlah awal ($Q_1$).
 2. Identifikasi harga baru ($P_2$) dan jumlah baru ($Q_2$).
 3. Hitung selisihnya ($\Delta Q$ dan $\Delta P$).
@@ -44,7 +44,7 @@ Nilai mutlak $E_d = 2$.
 Ada satu masalah utama dengan metode elastisitas titik: hasilnya bisa berbeda tergantung apakah kita menghitung dari titik A ke B atau dari B ke A. Inilah yang disebut dengan **masalah arah (direction problem)**.
 *Analogi: Bayangkan kamu sedang mendaki bukit. Jika kamu naik dari kaki bukit setinggi 100 meter ke puncak 200 meter, kenaikannya adalah 100%. Tapi jika kamu turun dari 200 meter ke 100 meter, penurunannya 50%. Padahal, jarak yang ditempuh sama.*
 Untuk menghindari kebingungan ini, para ekonom menggunakan **Metode Nilai Tengah**. Metode ini menghitung persentase perubahan berdasarkan rata-rata (nilai tengah) dari titik awal dan akhir.
-### Rumus Matematis:
+### Rumus Nilai Tengah
 
 $$
 \text{\%} \Delta Q = \frac{Q_2 - Q_1}{(Q_1 + Q_2) / 2} \times 100 \text{\%}
@@ -58,7 +58,7 @@ $$
 E_d = \frac{\frac{Q_2 - Q_1}{(Q_1 + Q_2) / 2}}{\frac{P_2 - P_1}{(P_1 + P_2) / 2}}
 $$
 
-### Langkah-langkah Penghitungan:
+### Langkah-langkah Penghitungan Nilai Tengah
 1. **Hitung perubahan jumlah ($Q_2 - Q_1$)** dan bagi dengan **rata-rata jumlah** [$(Q_1 + Q_2) / 2$].
 2. **Hitung perubahan harga ($P_2 - P_1$)** dan bagi dengan **rata-rata harga** [$(P_1 + P_2) / 2$].
 3. Bagi hasil langkah 1 dengan hasil langkah 2.
@@ -79,7 +79,7 @@ E_d = \frac{-0{,}222}{0{,}095} \approx -2{,}33
 $$
 
 Nilai mutlak $E_d = 2{,}33$.
-## Aplikasi Dunia Nyata: Strategi Penetapan Harga
+## Strategi Penetapan Harga
 Bayangkan kamu adalah seorang Manajer Pemasaran di sebuah perusahaan aplikasi streaming musik. Kamu ingin menaikkan biaya langganan bulanan.
 - **Skenario A:** Jika elastisitas permintaan pelanggan kamu adalah $0,5$ (inelastis), maka kenaikan harga 10\% hanya akan menurunkan jumlah pelanggan sebesar 5%. Total pendapatan kamu akan **naik**.
 - **Skenario B:** Jika elastisitasnya adalah $2,5$ (elastis), maka kenaikan harga 10\% akan membuat 25% pelanggan berhenti berlangganan. Total pendapatan kamu akan **anjlok**.

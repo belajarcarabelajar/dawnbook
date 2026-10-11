@@ -4,13 +4,13 @@ Dalam bab ini, kita akan mempelajari bagaimana konsep elastisitas bertransformas
 ## 1. Elastisitas dan Kebijakan Pajak (Tax Incidence)
 Salah satu penerapan terpenting dari elastisitas adalah menentukan **Insiden Pajak (Tax Incidence)**, yaitu pembagian beban pajak yang sebenarnya antara pembeli dan penjual.
 Banyak orang mengira jika pemerintah membebankan pajak Rp1.000 kepada penjual, maka beban tersebut otomatis ditanggung penjual. Kenyataannya, siapa yang menanggung beban lebih besar sangat bergantung pada **elastisitas relatif** antara permintaan dan penawaran.
-### Prinsip Utama:
+### Prinsip Utama Insiden Pajak
 > "Beban pajak akan lebih banyak jatuh pada pihak yang memiliki kurva **paling inelastis** (kurang sensitif terhadap perubahan harga)."
-### Skenario A: Permintaan Inelastis (Contoh: Rokok atau Bahan Bakar)
+### A. Permintaan Inelastis (Rokok atau Bahan Bakar)
 Jika permintaan suatu barang inelastis (konsumen sangat butuh dan sulit beralih), maka ketika pajak dikenakan:
 - Penjual dapat menaikkan harga dengan mudah tanpa takut kehilangan banyak pelanggan.
 - **Hasilnya:** Konsumen menanggung sebagian besar beban pajak tersebut. Inilah alasan mengapa pajak rokok (cukai) sangat efektif untuk meningkatkan pendapatan negara.
-### Skenario B: Permintaan Elastis (Contoh: Barang Mewah atau Hiburan)
+### B. Permintaan Elastis (Barang Mewah atau Hiburan)
 Jika permintaan elastis (konsumen sensitif terhadap harga dan punya banyak pilihan lain):
 - Jika penjual mencoba membebankan pajak ke harga jual, konsumen akan berhenti membeli.
 - **Hasilnya:** Penjual terpaksa "menelan" sebagian besar beban pajak tersebut agar barangnya tetap laku.
@@ -26,7 +26,7 @@ Subsidi adalah kebalikan dari pajak. Pemerintah memberikan bantuan dana untuk me
 - **Permintaan Inelastis:** Jika pemerintah memberikan subsidi pada barang dengan permintaan inelastis (seperti beras), maka penurunan harga akan sangat dirasakan oleh **konsumen**. Harga pasar akan turun drastis, sehingga pengeluaran rumah tangga berkurang.
 - **Penawaran Inelastis:** Jika penawaran yang inelastis (misalnya kapasitas produksi pabrik sudah maksimal), maka subsidi lebih banyak dinikmati oleh **produsen** dalam bentuk peningkatan keuntungan, karena jumlah barang di pasar sulit bertambah meskipun ada bantuan dana.
 Sebagai ilustrasi, jika pemerintah ingin menyejahterakan petani sementara penawaran hasil tani bersifat sangat elastis, pemberian subsidi harga tidak secara otomatis meningkatkan pendapatan mereka dalam jangka panjang.
-## 3. Pengendalian Harga: Price Ceiling dan Price Floor
+## 3. Pengendalian Harga
 Otoritas publik sering kali melakukan intervensi harga untuk melindungi pihak tertentu. Elastisitas menentukan seberapa besar dampak "gangguan" yang tercipta dari kebijakan ini.
 ### A. Price Ceiling (Harga Eceran Tertinggi - HET)
 Pemerintah menetapkan harga maksimum di bawah harga keseimbangan untuk melindungi konsumen (misalnya: harga obat-obatan atau tarif sewa apartemen).
@@ -36,7 +36,7 @@ Pemerintah menetapkan harga maksimum di bawah harga keseimbangan untuk melindung
 Pemerintah menetapkan harga minimum di atas harga keseimbangan untuk melindungi produsen (misalnya: Upah Minimum atau harga dasar gabah).
 - **Dampaknya:** Terjadi surplus (kelebihan pasokan).
 - **Peran Elastisitas:** Jika penawaran tenaga kerja sangat **elastis**, penetapan upah minimum yang terlalu tinggi akan menyebabkan lonjakan pengangguran (surplus tenaga kerja) yang jauh lebih besar dibandingkan jika penawarannya inelastis.
-## Real-World Application: Kasus Pajak Minuman Berpemanis
+## Pajak Minuman Berpemanis
 Banyak negara kini menerapkan "Sugar Tax" atau pajak pada minuman berpemanis dalam kemasan (MBDK) untuk menekan angka obesitas.
 1. **Tujuan:** Mengurangi konsumsi gula masyarakat.
 2. **Analisis Elastisitas:** Agar kebijakan ini efektif mengurangi konsumsi, permintaan terhadap MBDK harus bersifat **elastis**. Jika elastis, kenaikan harga akibat pajak akan membuat orang beralih ke air mineral (substitusi).

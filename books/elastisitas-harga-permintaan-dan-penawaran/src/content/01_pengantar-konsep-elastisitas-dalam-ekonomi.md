@@ -13,7 +13,7 @@ $$
 
 ### Mengapa Menggunakan Persentase?
 Kita menggunakan persentase, bukan unit absolut, agar kita bisa membandingkan hal yang berbeda. Misalnya, kita bisa membandingkan bagaimana kenaikan harga mobil sebesar 10% (jutaan rupiah) mempengaruhi permintaan dibandingkan dengan kenaikan harga permen sebesar 10% (ratusan rupiah).
-## Analogi: Karet Gelang vs. Kawat Beton
+## Karet Gelang vs. Kawat Beton
 Untuk memahami sensitivitas ini, mari kita gunakan perbandingan visual:
 1. **Barang Elastis (Karet Gelang):** Beberapa barang sangat sensitif terhadap harga. Sedikit saja harga ditarik ke atas (naik), jumlah permintaan akan "meregang" atau menyusut dengan drastis. *Contoh:* Tiket pesawat liburan. Jika harga naik sedikit, orang dengan mudah menunda liburan atau mencari alternatif transportasi lain.
 2. **Barang Inelastis (Kawat Beton):** Barang ini kaku. Meskipun harga ditarik ke atas dengan kuat, jumlah permintaan hanya berubah sedikit sekali. *Contoh:* Obat insulin bagi penderita diabetes. Berapa pun harganya, pasien tetap membutuhkannya untuk bertahan hidup.
@@ -28,7 +28,7 @@ Pemerintah menggunakan konsep elastisitas untuk menentukan barang mana yang akan
 - **Kasus Rokok:** Pemerintah mengenakan pajak tinggi pada rokok karena rokok bersifat adiktif (inelastis). Meskipun harga naik karena pajak, orang tetap akan membelinya, sehingga pendapatan negara dari pajak meningkat tanpa mematikan industri tersebut secara mendadak.
 ### 3. Prediksi Keseimbangan Pasar
 Dalam mikroekonomi, kita mempelajari bagaimana pasar mencapai keseimbangan. Elastisitas membantu kita memprediksi seberapa cepat pasar akan kembali ke titik normal setelah terjadi guncangan (seperti bencana alam atau perubahan teknologi).
-## Penerapan Nyata: Perang Harga Supermarket
+## Perang Harga Supermarket
 Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
 - **Skenario A (Garam):** Garam tidak punya banyak substitusi dan hanya menyerap sebagian kecil anggaran bulanan kamu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin akan tetap membelinya dalam jumlah yang sama. **Garam memiliki elastisitas rendah (inelastis).**
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**

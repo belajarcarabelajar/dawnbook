@@ -14,7 +14,7 @@ Di mana:
 - $P$ = Price (Harga per unit)
 - $Q$ = Quantity (Jumlah unit yang terjual)
 > **Insight Penting:** Perubahan dalam $\text{TR}$ sangat bergantung pada mana yang lebih dominan: **kenaikan harga ($P$)** atau **penurunan jumlah permintaan ($Q$)**. Hukum permintaan menyatakan bahwa jika $P$ naik, $Q$ pasti turun. Elastisitas memberi tahu kita *seberapa besar* penurunan $Q$ tersebut.
-### 2. Tiga Skenario Utama: Elastisitas vs. Total Revenue
+### 2. Elastisitas vs. Total Revenue
 Efek perubahan harga terhadap total penerimaan akan berbeda-beda tergantung pada derajat elastisitas barang tersebut.
 #### A. Permintaan Elastis
 Pada kondisi ini, konsumen sangat sensitif terhadap perubahan harga. Perubahan harga yang sedikit saja akan memicu perubahan jumlah permintaan yang jauh lebih besar.
@@ -36,7 +36,7 @@ Untuk memudahkan pengambilan keputusan, perhatikan tabel strategi di bawah ini:
 | **Harga Naik ($\uparrow$)** | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Tetap |
 | **Harga Turun ($\downarrow$)** | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Tetap |
 Sebagai contoh, jika seseorang menjadi manajer pemasaran produk garam dapur, menyarankan diskon besar-besaran untuk meningkatkan total pendapatan bukanlah langkah yang tepat, karena konsumen tidak akan memasak lebih asin hanya karena harga garam turun.
-### 4. Analisis Grafis: Kurva Total Revenue
+### 4. Kurva Total Revenue
 Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena yang menarik. Kurva Total Revenue biasanya berbentuk seperti huruf "U" terbalik (parabola).
 1. **Bagian Atas (Elastis):** Saat harga masih tinggi, permintaan berada di wilayah elastis. Menurunkan harga akan meningkatkan $\text{TR}$.
 2. **Titik Puncak (Unitary):** Total Revenue mencapai titik **maksimum** tepat ketika elastisitas permintaan sama dengan satu ($E_d = 1$).
@@ -47,11 +47,11 @@ Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena y
    $$
 
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
-#### Kasus 1: Industri Maskapai Penerbangan
+#### Industri Maskapai Penerbangan
 Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ tetap naik.
-#### Kasus 2: Tarif Tol
+#### Tarif Tol
 Pemerintah atau pengelola jalan tol sering menaikkan tarif tol. Karena jalan tol sering kali tidak memiliki substitusi yang sepadan (jalan arteri yang macet), permintaannya cenderung inelastis. Kenaikan tarif biasanya berujung pada kenaikan total pendapatan bagi pengelola tol.
-#### Kasus 3: Produk Teknologi (Smartphone)
+#### Produk Teknologi (Smartphone)
 Saat sebuah model smartphone baru diluncurkan, produsen menyasar kelompok *early adopters* (inelastis). Namun, setelah beberapa bulan, mereka mulai memberikan potongan harga atau paket *bundling* untuk menarik massa yang lebih luas (segmen elastis), guna memaksimalkan sisa penerimaan dari model tersebut.
 ### 6. Kesimpulan untuk Strategi Penetapan Harga
 Memahami hubungan ini membantu produsen menghindari kesalahan dalam penetapan harga:

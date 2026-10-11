@@ -1,4 +1,4 @@
-## Faktor-Faktor Penentu Elastisitas Penawaran: Mengapa Produsen Bereaksi Berbeda?
+## Faktor-Faktor Penentu Elastisitas Penawaran
 Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, pabrik-pabrik bisa langsung memproduksi jutaan unit dalam sekejap, namun ketika harga durian meroket, jumlah durian di pasar tetap terbatas?
 Perbedaan kecepatan dan kemampuan produsen untuk merespons perubahan harga inilah yang kita sebut sebagai **Elastisitas Penawaran**. Namun, apa sebenarnya yang membuat penawaran sebuah produk sangat fleksibel (elastis) sementara produk lainnya sangat kaku (inelastis)?
 Mari kita bedah faktor-faktor kunci yang menentukan "kelincahan" produsen dalam merespons pasar.
@@ -38,7 +38,7 @@ Semua faktor produksi bersifat variabel. Perusahaan bisa membangun pabrik baru, 
 | **Faktor Produksi** | Mudah dipindahkan/didapat | Langka atau sangat spesifik |
 | **Stok Barang** | Mudah disimpan (Tahan lama) | Sulit disimpan (Mudah busuk) |
 | **Waktu** | Jangka Panjang | Jangka Pendek |
-### Aplikasi Dunia Nyata: Krisis Chip Semikonduktor
+### Krisis Chip Semikonduktor
 Mari kita lihat fenomena kelangkaan chip global beberapa waktu lalu. Ketika permintaan barang elektronik melonjak (dan harga chip naik), mengapa produsen chip tidak bisa langsung menambah pasokan?
 1. **Kapasitas Produksi:** Pabrik chip (Fabs) sudah beroperasi pada kapasitas hampir 100%.
 2. **Mobilitas Faktor Produksi:** Membangun pabrik chip memerlukan investasi miliaran dolar dan teknologi yang sangat canggih (mobilitas rendah).
