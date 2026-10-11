@@ -67,7 +67,7 @@ Apabila salah satu dari ketiga variabel di atas bernilai nol, maka motivasi seca
 
 ## 4. Memulihkan Semangat Tim Pengembang
 
-**Studi Kasus: Tim Pengembang Perangkat Lunak Menjelang Batas Waktu**
+**Studi Kasus Tim Pengembang Perangkat Lunak Menjelang Batas Waktu**
 
 Sebuah tim pengembang sedang berkejaran dengan tenggat waktu penyelesaian aplikasi baru dalam dua minggu. Namun, semangat tim menurun akibat beban kerja lembur yang terus-menerus.
 

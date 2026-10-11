@@ -95,7 +95,7 @@ Mari kita lihat bagaimana Planning bekerja pada sebuah perusahaan startup fiktif
 
 **Mengapa ini penting?** Tanpa *Planning* di atas, Eco-Ride mungkin hanya akan merekrut driver tanpa memikirkan stasiun pengisian daya baterai. Akibatnya, operasional akan terhenti dan kelangsungan bisnis terancam terhenti secara cepat.
 
-### Kesimpulan
+### Poin Penting
 
 Planning merupakan langkah pertama yang mendasar dalam kerangka POAC. Tanpa perencanaan yang matang, fungsi *Organizing, Actuating,* dan *Controlling* akan kehilangan pijakan. Perencanaan yang terarah membantu mengurangi dampak ketidakpastian, meminimalkan pemborosan sumber daya, dan menetapkan standar dasar untuk proses pengawasan nanti.
 

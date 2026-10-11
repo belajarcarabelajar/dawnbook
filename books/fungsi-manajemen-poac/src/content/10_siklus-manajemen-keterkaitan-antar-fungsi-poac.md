@@ -92,7 +92,7 @@ while organisasi_masih_berdiri:
         lanjutkan_dan_skala_up(plan)
 ```
 
-## Kesimpulan
+## Yang Perlu Kamu Ingat
 
 Siklus POAC adalah sebuah **lingkaran yang dinamis**. Keberhasilan seorang manajer dinilai dari kemampuannya menjahit keempat fungsi tersebut menjadi satu kesatuan gerak yang harmonis, bukan dari pelaksanaan fungsi secara terisolasi. Dengan memahami keterkaitan ini, organisasi tidak hanya mencapai tujuan jangka pendek, tetapi juga memiliki daya tahan (resiliensi) untuk terus tumbuh di tengah perubahan zaman.
 

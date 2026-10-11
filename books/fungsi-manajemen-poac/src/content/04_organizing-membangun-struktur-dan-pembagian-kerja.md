@@ -84,7 +84,7 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 
 **Hasilnya:** Komunikasi menjadi lebih teratur, CEO memiliki waktu untuk memikirkan strategi jangka panjang (Planning), dan setiap karyawan memiliki jalur karir serta tanggung jawab yang jelas.
 
-## Kesimpulan
+## Benang Merah
 
 Organizing adalah tentang menciptakan **keteraturan di tengah kompleksitas**. Dengan struktur yang tepat, setiap individu tahu di mana posisi mereka, apa yang diharapkan dari mereka, dan kepada siapa mereka harus meminta bantuan. Struktur yang baik tidak bersifat kaku, melainkan harus mampu beradaptasi dengan perubahan rencana dan tantangan pasar.
 
