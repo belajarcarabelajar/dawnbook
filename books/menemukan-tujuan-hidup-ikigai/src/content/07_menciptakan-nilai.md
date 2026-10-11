@@ -1,4 +1,4 @@
-## Menciptakan Nilai
+## Menciptakan Nilai dari Apa yang Dapat Menghasilkan Uang
 
 Pilar 'Apa yang Dapat Menghasilkan Uang' dalam kerangka Ikigai berfokus pada bagaimana minat, bakat, dan kontribusi kamu kepada dunia dapat diubah menjadi sumber pendapatan yang berkelanjutan. Ini adalah aspek penting karena memungkinkan kamu mempertahankan gaya hidup sambil mengejar tujuan yang bermakna. Tanpa komponen ini, Ikigai mungkin akan tetap menjadi hasrat atau hobi tanpa dukungan finansial, yang pada akhirnya bisa sulit dipertahankan dalam jangka panjang.
 
