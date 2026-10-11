@@ -157,6 +157,19 @@ describe("check-heading-colons", () => {
       expect(r.exempted).toEqual([{ line: 3, text: "Analogi: Pilot", reason: "kutipan judul resmi" }]);
     });
 
+    it("scanContent flags a bold title that holds italic emphasis, and keeps two bold blocks alone", () => {
+      const md = [
+        "**Skenario: *Burnout* di Tempat Kerja**",
+        "> **Refleksi Kritis: Alokasi Modal Manusia vs *Brain Drain***",
+        "**Satu: bold** dan **Dua: bold**",
+        "",
+      ].join("\n");
+      expect(scanContent(md).violations).toEqual([
+        { line: 1, text: "Skenario: *Burnout* di Tempat Kerja" },
+        { line: 2, text: "Refleksi Kritis: Alokasi Modal Manusia vs *Brain Drain*" },
+      ]);
+    });
+
     it("scanContent leaves inline bold lead-ins, trailing-colon labels, long callouts and fences alone", () => {
       const long = `**Penting: ${"kalimat panjang ".repeat(8)}**`;
       const md = [

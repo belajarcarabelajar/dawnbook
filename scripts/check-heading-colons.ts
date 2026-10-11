@@ -38,7 +38,15 @@ const CONTAINER = String.raw`(?:>[ \t]*)*(?:(?:[-*+]|\d+[.)])[ \t]+)?`;
 const HEADING = new RegExp(String.raw`^ {0,3}${CONTAINER}#{1,6}(?:[ \t]+(.*))?$`);
 // A paragraph that is only bold text works as a sub-title, so it follows the same colon rule.
 // Longer lines are callouts, not titles, and inline lead-ins such as `**Penting:** teks` do not match.
-const BOLD_TITLE = /^ {0,3}(?:>[ \t]*)*\*\*([^*\n]{1,100})\*\*[ \t]*(?:<!--.*-->)?[ \t]*$/;
+// Italic emphasis may sit inside the bold (`**Skenario: *Burnout* di Kantor**`), so only a second `**` disqualifies it.
+const BOLD_TITLE = /^ {0,3}(?:>[ \t]*)*\*\*(.+?)\*\*[ \t]*(?:<!--.*-->)?[ \t]*$/;
+const BOLD_TITLE_MAX = 100;
+
+export function boldTitleInner(line: string): string | null {
+  const m = BOLD_TITLE.exec(line);
+  if (!m || m[1].length > BOLD_TITLE_MAX || m[1].includes("**")) return null;
+  return m[1];
+}
 // Matches only a single-line <hN>...</hN>, optionally followed by an exemption comment.
 const HTML_HEADING = new RegExp(
   String.raw`^ {0,3}${CONTAINER}<h([1-6])(?:[ \t][^>]*)?>(.*)</h\1[ \t]*>[ \t]*(?:<!--.*?-->)?[ \t]*$`,
@@ -155,9 +163,9 @@ export function scanContent(md: string): ScanResult {
       classify(s.text, lines[i - 1], s.top + 1, out);
       return;
     }
-    const b = BOLD_TITLE.exec(line);
+    const b = boldTitleInner(line);
     // A trailing colon (`**Contoh Soal:**`) is a plain label; only `Label: Subjudul` is the pattern.
-    if (b && /[:：]\s*\S/.test(b[1])) classify(b[1], line, i + 1, out);
+    if (b !== null && /[:：]\s*\S/.test(b)) classify(b, line, i + 1, out);
   });
   return out;
 }
@@ -386,7 +394,7 @@ export function diffGuard(
   const allowed = (file: string, text: string, side: "old" | "new", lineNo: number): boolean => {
     if (bodyOk.has(file)) return true;
     if (CONTENT_PATH.test(file)) {
-      return (HEADING.test(text) || BOLD_TITLE.test(text)) && !maskFor(side, file)[lineNo - 1];
+      return (HEADING.test(text) || boldTitleInner(text) !== null) && !maskFor(side, file)[lineNo - 1];
     }
     if (/^books\/[^/]+\/src\/SUMMARY\.md$/.test(file)) return SUMMARY_ENTRY.test(text);
     if (/^books\/[^/]+\/book\.toml$/.test(file)) return TOML_TITLE.test(text);
