@@ -4,13 +4,13 @@ Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah K-
 
 Kita akan melihat bagaimana sebuah serial televisi bisa menjadi instrumen politik yang lebih kuat daripada kekuatan militer, bagaimana ia mendongkrak perekonomian negara, serta bagaimana teknologi masa depan seperti *Artificial Intelligence* (AI) dan metaverse akan mengubah cara kita menikmati cerita.
 
-## 1. K-Drama sebagai Instrumen Soft Power: Diplomasi Tanpa Senjata
+## 1. K-Drama sebagai Instrumen Soft Power
 
 Pernahkah kamu bertanya-tanya mengapa tiba-tiba banyak orang di seluruh dunia ingin belajar bahasa Korea, memakai produk kecantikan Korea, atau mencicipi *tteokbokki*? Inilah yang disebut dengan *soft power*.
 
 > **Definisi:** *Soft power* adalah kemampuan suatu negara untuk memengaruhi pihak lain melalui daya tarik budaya, nilai-nilai politik, dan kebijakan luar negeri, alih-alih menggunakan paksaan militer atau ekonomi (*hard power*).
 
-### Analogi: Magnet vs. Palu
+### Magnet vs. Palu
 
 Bayangkan sebuah negara ingin memperluas pengaruhnya. *Hard power* bekerja seperti **palu**; kekuatan ini memaksa orang untuk patuh melalui tekanan. Sebaliknya, *soft power* bekerja seperti **magnet**. K-drama adalah magnet tersebut; alih-alih memaksa kamu menyukai Korea, magnet ini membuatmu ingin menjadi bagian dari dunia tersebut secara sukarela.
 
@@ -26,13 +26,13 @@ Selain dinikmati sebagai karya seni, K-drama telah bertransformasi menjadi pengg
 
 Keberhasilan sebuah serial drama secara berantai memicu peningkatan ekspor produk seperti kuliner (*K-food*) dan kosmetik (*K-beauty*). Sebagai contoh, lipstik yang dikenakan oleh aktris utama atau mi instan yang disantap dalam adegan tertentu sering kali mengalami lonjakan penjualan hingga ribuan persen di pasar internasional. Dampak berantai ini juga merambah ke sektor pariwisata melalui tren *set-jetting*, yaitu fenomena ketika pelancong sengaja mendatangi lokasi syuting drama favorit mereka.
 
-### Studi Kasus: Lokasi Syuting sebagai Destinasi Utama
+### Lokasi Syuting sebagai Destinasi Utama
 
 Beberapa lokasi syuting kini bertransformasi menjadi destinasi wisata utama. Pulau Nami, misalnya, menjadi sangat populer secara global berkat drama legendaris *Winter Sonata*. Demikian pula dengan Pohang yang kini dipadati turis berkat keindahan lanskapnya dalam *Hometown Cha-Cha-Cha*, serta Desa Budaya Gamcheon di Busan yang menjadi ikon pariwisata internasional setelah sering menghiasi layar kaca.
 
 Saat kamu menonton sebuah serial dan mendadak ingin memesan ramyun atau membeli pakaian yang dikenakan karakter utamanya, kamu sebenarnya sedang menjadi bagian dari ekosistem ekonomi Hallyu yang bergerak dinamis.
 
-## 3. Masa Depan: Integrasi AI dan Metaverse dalam Produksi K-Drama
+## 3. Masa Depan Produksi K-Drama dengan AI dan Metaverse
 
 Kita sedang berada di ambang revolusi teknologi yang akan merombak total cara produksi drama Korea, membawa industri ke era saat batas antara realitas fisik dan ruang digital kian kabur.
 
@@ -48,7 +48,7 @@ Sebelumnya, kru produksi harus melakukan perjalanan ke berbagai negara untuk men
 
 Dalam waktu dekat, interaksi kita dengan drama favorit tidak akan lagi bersifat satu arah. Penggemar dapat memasuki dunia metaverse untuk bercengkerama dengan avatar digital dari karakter kesayangan mereka. Selain itu, ekosistem *non-fungible token* (NFT) membuka peluang kepemilikan aset digital unik dari drama tersebut, mulai dari busana ikonik hingga barang-barang langka yang ada di dalam cerita, sebagai barang koleksi digital.
 
-### Real-World Application: Strategi "V-Commerce"
+### Strategi "V-Commerce"
 
 Dalam pemasaran digital, K-drama menjadi pelopor *video commerce* (V-commerce), sebuah konsep yang mengintegrasikan hiburan dan belanja secara langsung.
 

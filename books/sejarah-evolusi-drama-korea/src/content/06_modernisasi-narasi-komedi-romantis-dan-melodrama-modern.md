@@ -1,8 +1,8 @@
-## Modernisasi Narasi: Romantic Comedy dan Cinematic Melodrama
+## Modernisasi Narasi Romantic Comedy dan Cinematic Melodrama
 
 Perkembangan pertelevisian Korea Selatan mencapai titik balik estetika yang menarik. Berbeda dengan era sebelumnya yang didominasi melodrama penuh air mata dan konflik kelas sosial yang berat, periode modernisasi melahirkan tren baru yang dikenal sebagai *trendy drama*. Pada era ini, fokus narasi bergeser dari sekadar bertahan hidup ke arah penggambaran gaya hidup perkotaan, estetika visual yang modis, serta dinamika hubungan yang terasa lebih ringan namun tetap menyentuh emosi.
 
-## Pergeseran Paradigma: Dari Air Mata ke Tawa dan Gaya
+## Dari Air Mata ke Tawa dan Gaya
 
 Modernisasi drama Korea bermula ketika para produser menyadari bahwa pemirsa tidak hanya ingin larut dalam kesedihan karakter, tetapi juga ingin meniru gaya hidup mereka. Hal ini memicu integrasi yang kuat antara kisah romansa dan representasi tren modern.
 
@@ -23,7 +23,7 @@ Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak b
 
 > **Insight:** Evolusi cerita ini tidak menghilangkan konflik emosional, tetapi mengemasnya melalui dialog yang cerdas (*witty*) serta situasi sehari-hari yang dekat (*relatable*) dengan kehidupan masyarakat urban.
 
-## Standar Estetika: Sinematografi sebagai Bahasa Visual
+## Sinematografi sebagai Bahasa Visual
 
 Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyerupai film layar lebar. Kamera tidak lagi diposisikan sebagai alat dokumentasi statis, melainkan medium penuturan cerita yang aktif.
 
@@ -35,13 +35,13 @@ Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyeru
 
 Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura tampak gugur dengan sangat presisi dalam adegan romantis? Efek visual tersebut dirancang secara sengaja melalui perencanaan estetika yang matang untuk membangun kedalaman emosi.
 
-## Fashion & Lifestyle: Karakter sebagai Trendsetter
+## Karakter sebagai Trendsetter Fashion & Lifestyle
 
 Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini sangat kuat hingga memicu fenomena *sold out*, di mana produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
 
 Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *custom-fit* tidak sekadar memamerkan kekayaan. Pilihan pakaian tersebut secara visual membangun wibawa, otoritas, dan ketegasan karakter tanpa memerlukan dialog penjelasan yang panjang lebar.
 
-## Struktur Cerita Modern: Pembaruan Tropes Klasik
+## Pembaruan Tropes Klasik
 
 | Tropes Klasik | Modernisasi Narasi |
 | :--- | :--- |
@@ -49,7 +49,7 @@ Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *cus
 | *Enemies-to-Lovers* | Hubungan yang diwarnai dialog sarkastik, humor segar, dan *power play* yang seimbang. |
 | *Love Triangle* | Konflik yang berfokus pada pendewasaan diri masing-masing karakter, bukan sekadar persaingan memperebutkan hati. |
 
-## Aplikasi Praktis: Menciptakan Mood dalam Produksi
+## Menciptakan Mood dalam Produksi
 
 Jika kamu seorang kreator konten atau pembuat film, teknik estetika drama Korea ini bisa diterapkan melalui langkah-langkah teknis berikut:
 

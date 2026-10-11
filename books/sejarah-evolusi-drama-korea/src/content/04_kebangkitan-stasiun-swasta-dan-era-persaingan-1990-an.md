@@ -2,7 +2,7 @@
 
 Selamat datang di dekade yang mengubah segalanya! Jika tahun 1970-an dan 1980-an adalah masa pertumbuhan, maka **tahun 1990-an adalah masa "ledakan" bagi industri televisi Korea Selatan**. Ini adalah periode ketika K-Drama mulai bertransformasi dari hiburan layar kaca domestik menjadi produk industri yang sangat kompetitif, provokatif, dan berani secara estetika.
 
-### 1. Runtuhnya Duopoli: Munculnya SBS
+### 1. Munculnya SBS dan Runtuhnya Duopoli
 
 Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **KBS** (milik pemerintah) dan **MBC** (semi-publik). Namun, pada tahun 1990 (siaran dimulai penuh tahun 1991), lahirlah **SBS (Seoul Broadcasting System)** sebagai stasiun televisi swasta komersial pertama.
 
@@ -14,7 +14,7 @@ Hingga akhir 1980-an, pemirsa Korea Selatan hanya memiliki dua pilihan utama: **
 
 > **Analogi Sederhana:** Bayangkan sebuah pasar yang selama puluhan tahun hanya menjual dua jenis roti yang rasanya sama. Tiba-tiba, sebuah toko roti baru buka dengan menu yang lebih berani, topping yang melimpah, dan dekorasi toko yang sangat modern. Toko lama tidak punya pilihan lain selain merombak resep mereka atau mereka akan kehilangan pelanggan selamanya. Itulah yang dilakukan SBS terhadap KBS dan MBC.
 
-### 2. Sandglass (1995): Drama yang "Menghentikan" Sebuah Bangsa
+### 2. Sandglass (1995) yang "Menghentikan" Sebuah Bangsa
 
 Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya adalah **Sandglass (Moraesigye)**. Drama ini tumbuh menjadi fenomena sosiopolitik yang nyata, melampaui fungsinya sebagai tontonan biasa.
 
@@ -26,7 +26,7 @@ Jika kita harus menunjuk satu drama yang mendefinisikan era 90-an, jawabannya ad
 
 Fenomena saat seluruh negeri seolah berhenti beraktivitas demi menyaksikan drama ini menegaskan bahwa *Sandglass* telah tumbuh melampaui fungsi hiburan biasa dan menjadi cermin sejarah yang mendalam bagi bangsanya.
 
-### 3. Evolusi Narasi: Dari Tradisional ke Urban Modern
+### 3. Evolusi Narasi Menuju Urban Modern
 
 Selain drama sejarah yang berat, 1990-an juga melahirkan tren **"Urban Trendy Drama"**. Drama-drama ini fokus pada kehidupan anak muda di kota besar, karier, dan cinta segitiga yang rumit.
 
@@ -45,7 +45,7 @@ Persaingan antar stasiun TV memicu kemajuan teknis yang nyata dalam produksi:
 | **Musik (OST)** | Musik latar instrumental sederhana. | Lagu-lagu pop yang diproduksi khusus (Lahirnya industri OST). |
 | **Tempo Cerita** | Lambat dan bertele-tele. | Lebih cepat dengan *cliffhanger* di setiap episode. |
 
-### 5. Real-World Application: Mengapa Era Ini Penting bagi Kita?
+### 5. Mengapa Era Ini Penting bagi Kita?
 
 Memahami era 1990-an membantu kita menghargai standar tinggi K-Drama saat ini. Tanpa kompetisi sengit yang dipicu oleh SBS dan keberanian *Sandglass* dalam mendobrak batas sensor, K-Drama mungkin masih akan terjebak dalam format opera sabun keluarga yang monoton.
 

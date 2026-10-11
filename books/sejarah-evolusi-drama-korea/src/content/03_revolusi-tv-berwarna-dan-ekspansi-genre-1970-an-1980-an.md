@@ -2,7 +2,7 @@
 
 Selamat datang di periode penuh perkembangan besar dalam sejarah penyiaran Korea Selatan. Jika era 1960-an adalah masa perkenalan awal, maka dekade 1970-an hingga 1980-an menjadi saksi saat K-Drama menemukan jati dirinya. Pada masa inilah teknologi visual berkembang pesat dan narasi mulai menyentuh realitas sosial yang lebih rumit.
 
-## 1. Keajaiban Spektrum: Kedatangan Televisi Berwarna
+## 1. Kedatangan Televisi Berwarna
 
 Bayangkan kamu selama bertahun-tahun melihat dunia melalui lensa abu-abu, hitam, dan putih, lalu tiba-tiba seseorang memberikan kamu kacamata yang mampu memperlihatkan merahnya kelopak bunga mawar atau birunya langit Seoul. Itulah yang dirasakan penonton Korea pada **1 Desember 1980**, saat siaran berwarna pertama kali diluncurkan secara resmi.
 
@@ -15,7 +15,7 @@ Teknologi baru ini menuntut adaptasi besar-besaran di berbagai lini produksi:
 - **Psikologi warna**: Sutradara kini bisa memanfaatkan palet warna untuk membangun atmosfer. Warna merah pekat digunakan demi memicu ketegangan, sedangkan warna pastel memperkuat nuansa romantis.
 - Tata rias wajah harus dibuat lebih halus dan alami karena kamera berwarna menangkap detail kulit dengan sangat tajam. Selain itu, kru produksi juga harus mengalokasikan anggaran lebih untuk tata cahaya rumit dan dekorasi set yang realistis agar tidak terlihat buatan di layar kaca.
 
-## 2. Kelahiran Dinasti Layar Kaca: Evolusi Sageuk
+## 2. Evolusi Sageuk
 
 Meskipun drama sejarah sudah ada sejak era radio, periode 1970-an dan 1980-an menandai lahirnya **Sageuk Modern**.
 
@@ -39,7 +39,7 @@ Latar cerita K-Drama tidak lagi melulu berkutat di wilayah pedesaan atau lingkun
 - Kompleks apartemen padat penduduk yang menggambarkan gesekan sosial masyarakat perkotaan.
 - Lahirnya drama detektif legendaris seperti ***Chief Inspector* (Susa Banjang)** yang mengudara sepanjang tahun 1971 hingga 1989. Serial ini tidak hanya berfokus pada pengejaran pelaku kriminal, tetapi juga menyajikan potret kemiskinan dan ketimpangan sosial yang membayangi kemajuan kota besar.
 
-## 4. Persaingan Ketat: KBS vs MBC
+## 4. Persaingan Ketat KBS vs MBC
 
 Tahun 1980 juga ditandai dengan reorganisasi media secara besar-besaran oleh pemerintah. Langkah ini menciptakan lanskap persaingan baru yang memicu kreativitas di stasiun televisi:
 
@@ -49,13 +49,13 @@ Tahun 1980 juga ditandai dengan reorganisasi media secara besar-besaran oleh pem
 | **Target Audiens** | Mulai menargetkan penonton muda dan wanita karier, tidak lagi terbatas pada ibu rumah tangga. |
 | **Kualitas Skenario** | Penulis skenario mulai mendapatkan apresiasi tinggi sebagai arsitek utama di balik kesuksesan drama. |
 
-## Relevansi Industri Modern: Dampak Jangka Panjang
+## Dampak Jangka Panjang bagi Industri Modern
 
 Memahami perkembangan sejarah era ini membantu kita melihat alasan mengapa K-Drama modern menaruh perhatian sangat besar pada estetika visual (*visual aesthetics*) serta mode (*fashion*):
 1. **Pengaruh tren mode (*fashion influence*)**: Pola penonton era 1980-an yang meniru gaya rambut bintang televisi berwarna terus berlanjut hingga hari ini, saat penonton global berburu produk kecantikan dan pakaian yang muncul di drama.
 2. **Sageuk sebagai merek (*brand*) global**: Keberhasilan besar drama sejarah seperti *Jewel in the Palace* pada era 2000-an sangat bergantung pada fondasi riset sejarah yang kuat dan estetika warna yang dirintis selama era 1980-an.
 
-## Studi Kasus: Susa Banjang (Chief Inspector)
+## Susa Banjang (Chief Inspector)
 
 Mari kita teliti bagaimana serial legendaris ini mengubah pandangan masyarakat:
 - **Skenario utama**: Kisahnya berfokus pada perjuangan seorang detektif jujur yang menegakkan keadilan di tengah masyarakat transisi.

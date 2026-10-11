@@ -4,7 +4,7 @@ Selamat datang di era di mana batasan antara layar kaca dan layar lebar semakin 
 
 Masuknya pemain global seperti Netflix, yang kemudian diikuti oleh Disney+, Apple TV+, serta platform lokal seperti TVING dan Wavve, tidak hanya mengubah cara kita menonton, tetapi juga merevolusi "resep" di balik pembuatan sebuah drama.
 
-### 1. Masuknya Raksasa: "The Netflix Effect"
+### 1. Masuknya Netflix dan "The Netflix Effect"
 
 Tahun 2016 adalah tahun fundamental ketika Netflix secara resmi meluncurkan layanannya di Korea Selatan. Awalnya, platform ini hanya berperan sebagai perpustakaan konten. Namun, segalanya berubah ketika mereka mulai berinvestasi dalam **Original Content**.
 
@@ -44,7 +44,7 @@ Dimana:
 
 Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar $1,78 juta (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
 
-### 4. Perubahan Model Narasi: Dari Cliffhanger ke Binge-Watching
+### 4. Perubahan Model Narasi dari Cliffhanger ke Binge-Watching
 
 Model OTT mengubah struktur penulisan skenario. Penulis tidak lagi harus menulis cerita yang terputus-putus demi jeda iklan.
 
@@ -52,7 +52,7 @@ Tanpa tuntutan jeda iklan, alur cerita berjalan lebih cepat dan meminimalkan ade
 
 Pacing yang intens ini memengaruhi psikologi penonton, yang kini cenderung lebih terikat secara emosional ketika menonton maraton (binge-watching) dibandingkan saat menyimak tayangan mingguan yang tersebar selama beberapa bulan.
 
-### 5. Real-World Application: Dampak Ekonomi dan Budaya
+### 5. Dampak Ekonomi dan Budaya
 
 Revolusi OTT bukan hanya soal hiburan, tetapi juga strategi bisnis global.
 

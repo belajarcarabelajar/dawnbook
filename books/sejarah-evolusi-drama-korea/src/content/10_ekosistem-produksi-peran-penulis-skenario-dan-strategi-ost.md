@@ -1,10 +1,10 @@
-## Ekosistem Produksi: Peran Penulis Skenario dan Strategi OST
+## Peran Penulis Skenario dan Strategi OST dalam Ekosistem Produksi
 
 Pernahkah kamu bertanya-tanya mengapa sebuah drama Korea bisa membuat kamu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Rahasianya ada pada kerja presisi sistem di balik layar, bukan hanya pada penampilan menawan dari para aktornya.
 
 Dalam bagian ini, kita akan membedah dua pilar utama yang membentuk identitas K-Drama: kekuasaan penulis skenario (*star writer*) yang dominan dan strategi OST (*Original Soundtrack*) yang dirancang secara psikologis untuk mengikat emosi penonton.
 
-## 1. Sang Arsitek Narasi: Dominasi Penulis Skenario (Star Writer)
+## 1. Dominasi Penulis Skenario (Star Writer)
 
 Di industri film Hollywood, sutradara kerap dianggap sebagai pengambil keputusan utama (sistem *auteur*). Namun, di dunia K-Drama, penulis skenario memegang kendali tertinggi.
 
@@ -18,7 +18,7 @@ Dalam ekosistem produksi di Korea Selatan, naskah berfungsi sebagai blueprint me
 
 > **Insight Penting:** Di Korea Selatan, penonton sering kali memilih tontonan berdasarkan reputasi penulisnya, bukan hanya deretan bintang yang bermain. Nama besar seperti Kim Eun-sook atau Park Ji-eun menjadi jaminan perolehan *rating* yang tinggi.
 
-### Analogi: Penulis Sebagai Kepala Juru Masak
+### Penulis Sebagai Kepala Juru Masak
 
 Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang menyajikan hidangan dan menata ruangan, sementara aktor menjadi bahan-bahan masakannya. Namun, penulis skenario adalah kepala juru masak (*chef de cuisine*) yang meracik formula rasa. Tanpa resep yang kuat, bahan berkualitas tinggi sekalipun akan terasa hambar.
 
@@ -30,7 +30,7 @@ Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang meny
 | **Noh Hee-kyung** | *Our Blues, It's Okay That's Love* | Sentuhan humanisme yang peka, berfokus pada pemulihan luka batin dan kesehatan mental. |
 | **Park Ji-eun** | *Crash Landing on You, My Love from the Star* | Premis cerita yang unik (seperti kisah cinta dengan tentara Korea Utara atau alien) yang dikemas dengan humor segar. |
 
-## 2. Strategi OST: Lebih dari Sekadar Musik Latar
+## 2. Strategi OST sebagai Instrumen Emosional
 
 Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack* atau OST) berfungsi sebagai denyut nadinya. Musik dalam K-Drama dirancang sebagai instrumen emosional yang sangat efektif, melampaui peran musik latar biasa.
 
@@ -38,7 +38,7 @@ Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack
 
 K-Drama kerap menerapkan taktik mengulang satu lagu tema tertentu pada momen-momen spesifik, misalnya saat kedua tokoh utama berpapasan. Lewat pola ini, ketika mendengar intro lagunya saja, memori emosional penonton akan langsung terbangun, bahkan sebelum adegan sedih atau bahagia itu dimulai.
 
-### Strategi Produksi dan Pemasaran Lagu Tema:
+### Strategi Produksi dan Pemasaran Lagu Tema
 
 1. **Peluncuran Berkala (Part-by-Part):** Lagu tema tidak dirilis sekaligus dalam satu album utuh. Pihak produksi merilisnya lagu per lagu setiap minggu (Part 1, Part 2, dan seterusnya) untuk menjaga eksistensi drama di tangga musik digital.
 2. **Kolaborasi dengan Vokalis Ternama:** Mengundang penyanyi spesialis OST seperti Gummy, Lyn, atau Davichi hampir selalu berhasil mendongkrak lagu tersebut ke puncak popularitas.
@@ -46,7 +46,7 @@ K-Drama kerap menerapkan taktik mengulang satu lagu tema tertentu pada momen-mom
 
 Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari drama yang sudah lama tamat masih sanggup membangkitkan getaran emosional yang sama di hati pendengarnya.
 
-## 3. Sinergi Produksi: Keseimbangan Formula
+## 3. Sinergi Produksi dan Keseimbangan Formula
 
 Keberhasilan sebuah drama sering kali dapat dirumuskan secara sederhana melalui keseimbangan antara narasi dan atmosfer audio:
 
@@ -60,12 +60,12 @@ Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan t
 
 ## 4. Aplikasi Nyata dan Studi Kasus
 
-### Kasus A: "Goblin" (*Guardian: The Lonely and Great God*)
+### "Goblin" (*Guardian: The Lonely and Great God*) <!-- heading-colon-ok: judul internasional karya Guardian: The Lonely and Great God dikutip apa adanya -->
 
 - **Sentuhan Emas Kim Eun-sook:** Penulis meracik ulang legenda rakyat tentang *Dokkaebi* (leluhur gaib) ke dalam latar modern, melahirkan mitologi urban yang segar.
 - **Daya Pikat Lagu Pengiring:** Kolaborasi Chanyeol dan Punch dalam *Stay With Me* menyajikan paduan rap dan vokal yang membekas di ingatan. Lagu ini meledak di YouTube dan menjadi identitas audio-visual ikonik yang langsung mengingatkan orang pada drama tersebut.
 
-### Kasus B: "Hospital Playlist"
+### "Hospital Playlist"
 
 - **Konsep Bermusik Lee Woo-jung:** Penulis meleburkan lagu-lagu legendaris langsung ke dalam jalan cerita, dengan cara melatih para pemeran utama agar benar-benar bisa membawakan aransemen musik tersebut sebagai sebuah band.
 - **Pencapaian Emosional:** Lagu-lagu lama yang dinyanyikan ulang ini tidak sekadar menghiasi latar belakang, melainkan menjadi motor penggerak cerita yang membuat penonton merasa seperti ikut tumbuh bersama persahabatan mereka.
