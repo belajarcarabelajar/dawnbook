@@ -4,7 +4,7 @@ Selamat datang di modul pertama dari perjalanan kamu menuju pengelolaan kelas ya
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
-## 1. Filosofi Dasar: Dari "Pemadam Kebakaran" Menjadi "Arsitek"
+## 1. Dari "Pemadam Kebakaran" Menjadi "Arsitek"
 
 Kebanyakan guru pemula terjebak dalam peran sebagai **pemadam kebakaran**. Mereka berkeliling kelas hanya untuk memadamkan "api" perilaku buruk yang muncul secara tiba-tiba. Pendekatan ini melelahkan, membuat stres, dan seringkali tidak efektif dalam jangka panjang.
 
@@ -18,14 +18,14 @@ Secara filosofis, pendekatan ini berakar pada keyakinan bahwa:
 2. Lingkungan yang terstruktur dengan baik akan meminimalkan peluang terjadinya gangguan.
 3. Hubungan yang kuat adalah fondasi dari kepatuhan yang sukarela.
 
-### Analogi: Inspektur Bangunan vs. Petugas Pemadam Kebakaran
+### Inspektur Bangunan vs. Petugas Pemadam Kebakaran
 
 Bayangkan kamu sedang membangun sebuah gedung.
 
 - **Pendekatan Reaktif** adalah membiarkan gedung dibangun sembarangan, lalu sibuk memadamkan api saat terjadi korsleting listrik.
 - **Pendekatan Proaktif** adalah memasang sistem kabel yang standar, alarm asap, dan jalur evakuasi sejak awal. kamu memastikan "kebakaran" kecil sekalipun tidak akan menghanguskan seluruh gedung.
 
-## 2. Proaktif vs. Reaktif: Memahami Perbedaan Mendasar
+## 2. Proaktif vs. Reaktif
 
 Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan manajemen reaktif yang masih banyak dipraktikkan.
 
@@ -66,7 +66,7 @@ Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang 
 3. **Membangun Kemandirian Siswa:** Dalam lingkungan yang proaktif, siswa tahu persis apa yang diharapkan dari mereka. Ini membantu mereka mengembangkan keterampilan regulasi diri.
 4. **Keamanan Psikologis:** Siswa merasa lebih aman di kelas yang prediktif (mudah ditebak). Ketika siswa merasa aman, amigdala mereka tetap tenang, memungkinkan korteks prefrontal bekerja maksimal untuk berpikir kritis.
 
-## 5. Aplikasi Nyata: Skenario Transisi Kelas
+## 5. Transisi Kelas Menuju Area Diskusi
 
 Mari kita lihat perbedaan penerapan kedua pendekatan ini dalam situasi nyata.
 

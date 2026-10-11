@@ -1,10 +1,10 @@
-## Akar Awal: Era Drama Radio dan Kelahiran Televisi
+## Akar Awal Era Drama Radio dan Kelahiran Televisi
 
 Sebelum jutaan orang di seluruh dunia terpaku pada layar *smartphone* untuk menyaksikan episode terbaru drama Korea, fondasi industri hiburan Korea Selatan dibangun di atas frekuensi suara dan kekuatan imajinasi. Jauh sebelum efek visual CGI yang canggih hadir, Korea telah memiliki tradisi bercerita yang kuat melalui media audio.
 
 Bagian ini akan membawa kamu menelusuri perkembangan drama audio dari tahun 1920-an hingga siaran televisi pertama di Seoul pada akhir 1950-an.
 
-## 1. Theater of the Mind: Kelahiran Drama Radio (1920-an - 1940-an)
+## 1. Kelahiran Drama Radio (1920-an - 1940-an)
 
 Bayangkan sebuah masa di mana tidak ada layar untuk ditatap. Satu-satunya jendela menuju dunia luar adalah sebuah kotak kayu besar yang mengeluarkan suara statis. Inilah era drama radio, sebuah medium yang menuntut pendengarnya menjadi "sutradara" bagi imajinasi mereka sendiri.
 
@@ -25,11 +25,11 @@ Setelah kemerdekaan pada tahun 1945 dan berakhirnya Perang Korea (1950–1953), 
 
 Pada tahun 1956, drama radio berjudul **"Cheongsilhongsil"** (Benang Biru, Benang Merah) menjadi hit besar. Karya ini menciptakan standar baru bagi elemen-elemen khas K-Drama modern: kisah melodrama cinta yang rumit dan penuh air mata membuat pendengar sangat terikat secara emosional. Pada masa itu, orang-orang rela berkerumun di sekitar satu-satunya radio di desa demi menyimak kelanjutan cerita. Kepopuleran ini juga melahirkan fenomena baru, di mana para pengisi suara (*voice actor*) menjadi selebritas pertama di Korea bahkan sebelum wajah mereka dikenal publik.
 
-## 3. Cahaya Pertama: Kelahiran Televisi (1956 - 1959)
+## 3. Kelahiran Televisi (1956 - 1959)
 
 Transisi dari suara ke gambar tidak terjadi dalam semalam. Ini adalah proses teknis yang penuh tantangan dan kegagalan awal yang cukup dramatis.
 
-### HLKZ-TV: Pionir yang Terlupakan
+### Pionir HLKZ-TV yang Terlupakan
 
 Pada **12 Mei 1956**, stasiun televisi pertama di Korea, **HLKZ-TV** (Daehan Broadcasting Network), mulai mengudara.
 
@@ -39,7 +39,7 @@ Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *Th
 
 Pada masa itu, televisi adalah barang mewah yang sangat mahal, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 3.000 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
 
-## 4. Perbandingan Transisi: Radio vs. Televisi Awal
+## 4. Radio vs. Televisi Awal
 
 Berikut adalah perbedaan mendasar dalam produksi drama pada masa transisi tersebut:
 
@@ -51,14 +51,14 @@ Berikut adalah perbedaan mendasar dalam produksi drama pada masa transisi terseb
 | **Imajinasi Penonton** | Sangat Tinggi (Membayangkan visual) | Terfokus pada ekspresi wajah aktor |
 | **Aksesibilitas** | Luas (Radio murah dan terjangkau) | Sangat Terbatas (Hanya untuk kalangan elit) |
 
-## 5. Hubungan Antar-Era: Bagaimana Radio Membentuk TV
+## 5. Bagaimana Radio Membentuk TV
 
 Meskipun medianya berbeda, DNA dari drama radio mengalir deras ke dalam drama televisi pertama. Ada beberapa pola kesinambungan utama yang patut dicatat:
 - Format narasi yang episodik (bersambung) telah dikembangkan secara matang di radio sebelum diadopsi oleh stasiun televisi.
 - Karena keterbatasan visual pada kamera awal, naskah drama televisi pertama sangat bergantung pada dialog yang kuat dan puitis, sebuah warisan langsung dari era radio.
 - Banyak aktor drama televisi generasi pertama merupakan mantan pengisi suara radio. Mereka harus belajar cara mengekspresikan karakter menggunakan bahasa tubuh, bukan lagi sekadar mengandalkan vokal.
 
-## Real-World Application: Mengapa Sejarah Ini Penting Sekarang?
+## Mengapa Sejarah Ini Penting Sekarang?
 
 Memahami akar awal ini membantu kita memahami mengapa K-Drama modern sangat ahli dalam dua hal: **Dialog Emosional** dan **Efek Suara (OST)**.
 

@@ -1,4 +1,4 @@
-## Pengantar Etika Kebajikan: Menjadi Pribadi yang Baik
+## Pengantar Etika Kebajikan
 
 Selamat datang dalam perjalanan eksplorasi moral yang paling mendalam dalam sejarah filsafat. Jika biasanya kita belajar tentang etika sebagai daftar "boleh" dan "tidak boleh", atau "dosa" dan "pahala", maka **Etika Kebajikan (Virtue Ethics)** mengajak kamu melihat ke arah yang berbeda: ke dalam diri kamu sendiri.
 
@@ -16,7 +16,7 @@ Dalam pandangan ini, menjadi orang baik tidak cuma diukur dari seberapa patuh ka
 
 > "Kita adalah apa yang kita kerjakan berulang kali. Keunggulan itu wujud kebiasaan, bukan satu tindakan acak." , *Aristoteles*
 
-### Karakter vs. Aturan: Mengapa Karakter Lebih Utama?
+### Karakter vs. Aturan
 
 Mari kita pakai contoh nyata di dunia memasak. 
 
@@ -46,7 +46,7 @@ Untuk memahami cara menumbuhkan karakter yang kokoh ini, kita akan melewati peta
 7. **Konteks Sosial**: Mengingat bahwa kita tidak bisa menjadi pribadi utuh sendirian; peran komunitas sangat menentukan.
 8. **Perbandingan & Kebangkitan**: Melihat posisi etika klasik ini di tengah peradaban modern.
 
-### Real-World Application: Skenario Kejujuran
+### Dilema Kejujuran
 
 Mari lihat bagaimana etika ini bekerja dalam keseharian.
 

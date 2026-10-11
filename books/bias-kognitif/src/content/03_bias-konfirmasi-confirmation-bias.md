@@ -36,7 +36,7 @@ Mengapa evolusi membiarkan kita memiliki "cacat" berpikir seperti ini?
 
 Dalam dunia rekayasa perangkat lunak atau sains data, bias konfirmasi bisa menjadi sangat berbahaya. Seorang pengembang mungkin menulis kode dan hanya menguji skenario yang mereka tahu akan berhasil (*Happy Path*), alih-alih mencoba mencari cara untuk merusaknya.
 
-### Contoh Skenario: "Debugging yang Terbias"
+### Debugging yang Terbias
 
 Seorang programmer yakin bahwa *bug* di aplikasinya disebabkan oleh masalah jaringan.
 

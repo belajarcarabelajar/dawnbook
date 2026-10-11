@@ -1,4 +1,4 @@
-## Rumus Penundaan: Motivasi, Harapan, dan Waktu
+## Rumus Penundaan
 
 Ada paradoks kecil yang hampir semua orang alami. Tugas yang paling berarti justru terasa paling tidak menarik untuk disentuh hari ini. Misalnya menyusun proposal besar atau menyiapkan berkas pajak. Sebaliknya, pekerjaan remeh seperti merapikan laci, membalas pesan lama, atau mencuci piring yang sebenarnya bisa menunggu mendadak terasa mendesak dan menyenangkan. Kalau motivasi hanya soal seberapa penting sebuah tugas, pola ini tidak masuk akal. Karena itu para peneliti mencari penjelasan yang lebih rapi, dan salah satu yang paling berpengaruh dirumuskan sebagai persamaan.
 
@@ -59,7 +59,7 @@ Petanya kira-kira begini, dan sebagian merupakan tafsir kasar penulis buku ini:
 
 Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah dengan teori, bukan bukti bahwa tiap faktor menyebabkan penundaan.
 
-### Batasnya: model, bukan stopwatch
+### Model, bukan stopwatch
 
 Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-kutik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain, dan akan kita bahas di bab-bab berikutnya.
 

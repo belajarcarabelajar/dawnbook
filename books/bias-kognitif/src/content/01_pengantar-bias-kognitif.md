@@ -12,7 +12,7 @@ Secara sederhana, **cognitive bias** adalah kesalahan sistematis dalam berpikir 
 
 Cognitive bias bertindak sebagai *rule of thumb* yang tidak tepat. Meskipun otak kita adalah mesin paling kompleks di alam semesta, ia memiliki keterbatasan dalam memproses informasi.
 
-## Sejarah Penemuan: Revolusi Kahneman dan Tversky
+## Revolusi Kahneman dan Tversky
 
 Sebelum tahun 1970-an, dunia ekonomi dan psikologi sebagian besar percaya bahwa manusia adalah makhluk yang rasional (**Homo Economicus**). Diasumsikan bahwa jika diberikan data yang cukup, manusia akan selalu mengambil keputusan yang paling menguntungkan secara logis.
 
@@ -48,7 +48,7 @@ Dunia menyediakan jutaan bit informasi setiap detik. Otak kita harus menyaring i
 
 Dalam banyak situasi, mengambil keputusan yang "cukup baik" secara cepat jauh lebih berharga daripada mengambil keputusan "sempurna" namun terlambat.
 
-## Dasar Teoretis: Dual Process Theory
+## Dual Process Theory
 
 Untuk memahami dari mana bias berasal, kita perlu mengenal konsep dua sistem dalam otak kita:
 

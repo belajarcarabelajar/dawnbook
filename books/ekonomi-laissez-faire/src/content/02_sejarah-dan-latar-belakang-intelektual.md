@@ -1,10 +1,10 @@
-## Sejarah dan Latar Belakang Intelektual: Akar Kelahiran Kebebasan Ekonomi
+## Sejarah dan Latar Belakang Intelektual
 
 Selamat datang di perjalanan melintasi waktu. Untuk memahami mengapa sistem **Laissez-faire** begitu dominan dalam pemikiran ekonomi modern, kita harus kembali ke abad ke-18. Ini adalah masa di mana dunia sedang bertransformasi, beralih dari kekuasaan monarki yang absolut menuju fajar pencerahan intelektual.
 
 Ide bahwa pemerintah harus "lepas tangan" tidak muncul begitu saja. Ia lahir sebagai bentuk pemberontakan intelektual terhadap sistem **Merkantilisme** yang mencekik, di mana negara mengontrol setiap aspek perdagangan demi menimbun emas dan perak.
 
-## 1. Kaum Fisiokrat: Para Pionir dari Prancis
+## 1. Kaum Fisiokrat Prancis
 
 Jauh sebelum Adam Smith menulis mahakaryanya, sekelompok pemikir di Prancis yang menyebut diri mereka **Les Physiocrates** (Kaum Fisiokrat) telah meletakkan batu pertama. Dipimpin oleh **François Quesnay**, dokter pribadi Raja Louis XV, mereka percaya pada konsep *Ordre Naturel* atau "Hukum Alam".
 
@@ -12,7 +12,7 @@ Jauh sebelum Adam Smith menulis mahakaryanya, sekelompok pemikir di Prancis yang
 
 Quesnay, sebagai seorang dokter, melihat ekonomi seperti sistem peredaran darah manusia. Jika darah (kekayaan) dibiarkan mengalir tanpa sumbatan (regulasi berlebih), maka tubuh (negara) akan sehat. Namun, jika aliran tersebut dihambat oleh pajak yang rumit atau monopoli negara, maka ekonomi akan jatuh sakit.
 
-### Kontribusi Utama Fisiokrat:
+### Kontribusi Utama Fisiokrat
 
 - **Tableau Économique**: Diagram pertama yang mencoba menjelaskan aliran kekayaan dalam ekonomi.
 - **Produit Net (Produk Bersih)**: Mereka berpendapat bahwa hanya sektor pertanian yang benar-benar menghasilkan nilai tambah. Sektor industri dan perdagangan dianggap sebagai "kelas steril" yang hanya mengubah bentuk barang.
@@ -36,7 +36,7 @@ Berbeda dengan Fisiokrat yang mengagungkan tanah, Smith berpendapat bahwa **tena
 
 > "Bukan dari kemurahan hati tukang daging, pembuat bir, atau tukang roti kita mengharapkan makan malam kita, tetapi dari perhatian mereka terhadap kepentingan mereka sendiri." - Adam Smith
 
-## 3. Evolusi Pemikiran: Dari Tanah ke Modal
+## 3. Evolusi Pemikiran dari Tanah ke Modal
 
 Mari kita lihat perbedaan mendasar antara kedua tonggak sejarah ini untuk melihat bagaimana pemikiran Laissez-faire berkembang:
 
@@ -47,7 +47,7 @@ Mari kita lihat perbedaan mendasar antara kedua tonggak sejarah ini untuk meliha
 | **Pandangan Industri** | Dianggap "steril" atau tidak produktif | Dianggap sebagai penggerak kemajuan |
 | **Slogan Utama** | *Laissez-faire* (Biarkan mereka berbuat) | *The Invisible Hand* (Tangan Tak Terlihat) |
 
-## 4. Aplikasi Dunia Nyata: Runtuhnya Merkantilisme
+## 4. Runtuhnya Merkantilisme
 
 Pada abad ke-18, Inggris dan Prancis menerapkan aturan ketat seperti **Navigation Acts**, yang memaksa koloni hanya boleh berdagang dengan negara induk menggunakan kapal negara tersebut.
 

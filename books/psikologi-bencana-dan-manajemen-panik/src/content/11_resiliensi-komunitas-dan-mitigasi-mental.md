@@ -6,7 +6,7 @@ Prinsip bio-mekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas
 
 ---
 
-### Memahami Resiliensi: Melampaui Sekadar Bertahan
+### Resiliensi Melampaui Sekadar Bertahan
 
 Resiliensi kerap disederhanakan sebagai upaya pasif untuk memulihkan keadaan kembali persis seperti semula (*restitution*). Namun, dalam diskursus psikologi bencana kontemporer, resiliensi dipahami sebagai kapasitas dinamis suatu entitas sosial untuk **beradaptasi secara positif** terhadap disrupsi ekstrem, memitigasi distres massal, dan melakukan transformasi fungsional pascakrisis.
 
@@ -29,7 +29,7 @@ $$
 
 ---
 
-### Mitigasi Mental: Imunisasi Psikologis Pra-Bencana
+### Imunisasi Psikologis Pra-Bencana
 
 Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dirancang guna membangun ketahanan kognitif dan afektif sebelum disrupsi terjadi. Pendekatan ini mengadopsi prinsip profilaksis atau imunisasi: paparan terkontrol terhadap simulasi stresor memperkuat respon koping psikologis kolektif.
 
@@ -91,7 +91,7 @@ Transformasi kesiapsiagaan mental memerlukan langkah-langkah praktis yang menyat
 
 ---
 
-### Studi Kasus: Ketangguhan Kolektif Desa Lereng Vulkanik
+### Ketangguhan Kolektif Desa Lereng Vulkanik
 
 Sebuah pemukiman pedesaan di kawasan rawan bencana letusan gunung api merancang integrasi mitigasi fisik dan psikososial secara berkelanjutan.
 

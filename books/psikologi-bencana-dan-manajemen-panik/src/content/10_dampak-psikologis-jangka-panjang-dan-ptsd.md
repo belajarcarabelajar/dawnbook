@@ -40,7 +40,7 @@ Dalam klasifikasi diagnostik klinis, simptom PTSD dikelompokkan ke dalam empat k
 
 Sebagai analogi neurobiologis, kondisi PTSD menyerupai sistem alarm kebakaran gedung yang mengalami kerusakan sirkuit, sehingga terus-menerus berdering memekakkan telinga kendati tidak terdapat api atau ancaman nyata. Amigdala penyintas terus mengirimkan sinyal bahaya dan mengaktifkan respons *fight-or-flight*, meskipun peristiwa bencana telah lama berlalu.
 
-## 3. Lintasan Pemulihan Komunitas: Model Zunin & Myers
+## 3. Model Pemulihan Komunitas Zunin & Myers
 
 Pemulihan psikososial pasca-bencana bukanlah proses linier yang bergerak stabil ke arah positif, melainkan lintasan dinamik dengan fluktuasi emosional yang tajam. Model Zunin & Myers memetakan fase-fase psikologis komunitas penyintas:
 
@@ -55,7 +55,7 @@ $$
 $$
 </div>
 
-## 4. Komorbiditas: Kecemasan dan Depresi Sekunder
+## 4. Kecemasan dan Depresi Sekunder
 
 Selain PTSD, penyintas bencana kerap mengalami spektrum gangguan penyerta (*comorbidity*) yang saling memperberat:
 
@@ -63,7 +63,7 @@ Selain PTSD, penyintas bencana kerap mengalami spektrum gangguan penyerta (*como
 - **Rasa Bersalah Penyintas (*Survivor Guilt*):** Beban moral yang mendalam dan melumpuhkan akibat selamat dari bencana sementara anggota keluarga atau rekan terdekat tewas. Fenomena ini sering menjadi hambatan terbesar dalam proses penerimaan diri dan terapi.
 - **Penyalahgunaan Zat (*Substance Use Disorder*):** Penggunaan alkohol atau obat sedatif sebagai mekanisme koping maladaptif untuk membungkam memori intrusif yang menyiksa.
 
-## 5. Studi Kasus Aplikasi Klinis: Rekonstruksi Pasca-Tsunami
+## 5. Penerapan Klinis pada Rekonstruksi Pasca-Tsunami
 
 **Skenario Kasus:** Santi merupakan seorang penyintas tsunami 2004. Dua tahun pasca-peristiwa, hunian fisiknya telah selesai dibangun kembali. Kendati demikian, ia menolak keras untuk mendekati area pesisir pantai, termasuk untuk keperluan mata pencaharian. Setiap kali mendengar deru mesin truk berat (yang menyerupai frekuensi suara gemuruh gelombang tsunami), frekuensi denyut jantungnya melonjak drastis, tubuhnya gemetar, dan ia mengalami serangan panik akut dengan sensasi tercekik.
 

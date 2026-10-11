@@ -1,4 +1,4 @@
-## Fondasi Teoretis: Bahasa, Kekuasaan, dan Ideologi
+## Fondasi Teoretis Bahasa, Kekuasaan, dan Ideologi
 
 Selamat datang di jantung Analisis Wacana Kritis (AWK). Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
 
@@ -10,7 +10,7 @@ Dalam pandangan tradisional, bahasa dianggap sebagai cermin realitas, ia hanya m
 
 > **Wawasan Utama:** Bahasa tidak hanya mendeskripsikan dunia; bahasa secara aktif mengonstruksi dan membentuk realitas sosial.
 
-#### Analogi: Lensa Kamera
+#### Lensa Kamera
 
 Bayangkan bahasa sebagai sebuah lensa kamera. Tergantung pada lensa yang digunakan (pilihan kata, tata bahasa, serta struktur narasi), objek yang sama dapat diposisikan dan diperlihatkan secara sangat berbeda:
 
@@ -19,7 +19,7 @@ Bayangkan bahasa sebagai sebuah lensa kamera. Tergantung pada lensa yang digunak
 
 Pilihan "lensa" ini bukanlah hal yang kebetulan atau netral, melainkan hasil dari pengaruh dan relasi kekuasaan yang bekerja di balik layar.
 
-### 2. Relasi Kuasa: Perspektif Michel Foucault
+### 2. Relasi Kuasa Michel Foucault
 
 Michel Foucault, seorang pemikir besar asal Prancis, merevolusi cara memandang kekuasaan. Baginya, kekuasaan bukan hanya sesuatu yang dimiliki raja atau pemerintah secara terpusat (*top-down*), melainkan sesuatu yang menyebar seperti jaringan kapiler di seluruh institusi dan praktik masyarakat.
 
@@ -40,7 +40,7 @@ Pihak yang memiliki otoritas untuk mendefinisikan istilah-istilah ini memegang k
 
 > **Refleksi Analitis:** Perasaan terintimidasi saat berhadapan dengan istilah-istilah hukum yang rumit merupakan bentuk nyata dari relasi kuasa yang bekerja secara tak kasat mata melalui bahasa.
 
-### 3. Hegemoni: Kekuasaan Melalui Persetujuan (Antonio Gramsci)
+### 3. Hegemoni Antonio Gramsci sebagai Kekuasaan melalui Persetujuan
 
 Jika Foucault menekankan penyebaran kekuasaan melalui wacana dan pengetahuan, Antonio Gramsci memperkenalkan konsep **Hegemoni**. Hegemoni adalah cara kelas penguasa mempertahankan dominasi dan kontrol sosial bukan melalui alat pemaksa fisik (seperti polisi atau militer), melainkan melalui **persetujuan spontan** (*spontaneous consent*) dari masyarakat yang dikuasai.
 
@@ -51,7 +51,7 @@ Hegemoni bekerja dengan menyusupkan cara pandang penguasa hingga berubah menjadi
 - **Konstruksi Institusional:** Masyarakat secara umum menyetujui bahwa pemenjaraan (*incarceration*) adalah satu-satunya solusi logis untuk menangani kejahatan. Pertanyaan mendasar seperti *"Apakah ada alternatif pemulihan selain memenjarakan seseorang?"* jarang sekali mengemuka.
 - **Dampak Diskursif:** Ketika suatu gagasan telah menjelma menjadi "akal sehat", gagasan tersebut berhenti dipertanyakan. Kondisi ini merupakan puncak pencapaian dari kekuasaan hegemonik.
 
-### 4. Ideologi: Mesin di Balik Teks
+### 4. Mesin Ideologi di Balik Teks
 
 Ideologi adalah sekumpulan gagasan, nilai, dan keyakinan terselubung yang membentuk cara pandang terhadap dunia. Dalam AWK, ideologi beroperasi melalui teks untuk melegitimasi dan mempertahankan kontrol sosial.
 
@@ -73,7 +73,7 @@ Keterangan variabel:
 - $K$: Kepentingan Kekuasaan (*Power Interest*)
 - $L$: Legitimasi Sosial (*Social Legitimacy*)
 
-### 5. Aplikasi Praktis: Analisis Narasi "Perang Terhadap Narkoba"
+### 5. Analisis Narasi "Perang Terhadap Narkoba"
 
 Untuk memahami keterkaitan konsep-konsep di atas, perhatikan analisis terhadap narasi kebijakan kriminologi berikut:
 
@@ -100,7 +100,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, perhatikan analisis terhadap n
 
 > **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah seluruh konstruksi kekuasaan dalam persepsi publik.
 
-### 7. Linguistik Forensik: Menangkap Kriminal Lewat Jejak Teks
+### 7. Linguistik Forensik
 
 Linguistik forensik merupakan cabang ilmu bahasa terapan yang menerapkan analisis linguistik untuk kepentingan investigasi kriminal dan pembuktian hukum. Berbeda dari detektif konvensional yang mencari sidik jari fisik, ahli linguistik forensik mengeksplorasi **"sidik jari linguistik"** yang terekam dalam struktur kalimat, pilihan leksikal, hingga konvensi tanda baca.
 

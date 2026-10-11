@@ -1,4 +1,4 @@
-## Mindfulness: Seni Menyadari Momen Kini
+## Mindfulness
 
 Pernahkah kamu sedang mengemudi atau berjalan kaki, lalu tiba-tiba sampai di tujuan tanpa benar-benar mengingat proses perjalanannya? Atau mungkin kamu sedang makan siang sambil membalas pesan WhatsApp, sehingga tidak benar-benar merasakan bumbu pada makanan tersebut?
 
@@ -10,7 +10,7 @@ Secara harfiah, **Mindfulness** adalah kesadaran penuh. Jon Kabat-Zinn, pelopor 
 
 > "Kesadaran yang muncul dengan mengarahkan perhatian pada tujuan, di momen saat ini, dan dilakukan tanpa memberikan penilaian (non-judgmental)."
 
-#### Analogi: Menonton Kereta di Stasiun
+#### Menonton Kereta di Stasiun
 
 Bayangkan pikiranmu adalah sebuah stasiun kereta api yang sangat sibuk. Setiap kereta yang lewat adalah pikiran, emosi, atau sensasi fisik tertentu.
 
@@ -70,7 +70,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 
 ### Penerapan di Dunia Nyata (Real-World Application)
 
-#### Skenario: Menghadapi Kritik dari Atasan
+#### Menghadapi Kritik dari Atasan
 
 **Respon Tanpa Mindfulness:** Begitu mendengar kritik, jantungmu berdebar ($\text{HR} \uparrow$). Kamu langsung berpikir, "Aku akan dipecat," atau "Dia selalu membenciku." Kamu membalas dengan nada defensif atau justru murung seharian.
 

@@ -1,10 +1,10 @@
-## Kanalis Semisirkularis: Mekanisme Pendeteksi Rotasi
+## Kanalis Semisirkularis Pendeteksi Rotasi
 
 Pernahkah timbul pertanyaan mengapa seseorang merasa dunia masih berputar sesaat setelah berhenti berputar-putar di tempat? Atau bagaimana seorang pesenam lantai dapat melakukan *backflip* dan mendarat dengan tegak tanpa kehilangan arah? Jawabannya terletak di dalam telinga bagian dalam manusia, tepatnya pada tiga struktur berbentuk cincin yang disebut **Kanalis Semisirkularis**.
 
 Jika organ otolit (yang akan dibahas di bagian selanjutnya) adalah "detektor gravitasi dan garis lurus", maka Kanalis Semisirkularis adalah "detektor rotasi" canggih yang bekerja dalam tiga dimensi.
 
-### 1. Arsitektur Tiga Dimensi: Geometri Keseimbangan
+### 1. Arsitektur Tiga Dimensi
 
 Kanalis semisirkularis terdiri dari tiga saluran berbentuk setengah lingkaran yang saling tegak lurus satu sama lain, mirip dengan sudut-sudut di pojok ruangan yang mewakili sumbu X, Y, dan Z. Struktur ini memungkinkan otak kita untuk mendeteksi gerakan rotasi kepala dalam bidang apa pun.
 
@@ -16,7 +16,7 @@ Ketiga saluran tersebut adalah:
 
 > **Analogi:** Bayangkan terdapat tiga buah *hula hoop* kecil yang diletakkan di dalam kepala. Satu berdiri tegak menghadap depan, satu berdiri tegak menghadap samping, dan satu lagi tidur mendatar. Ke mana pun kepala berputar, setidaknya satu dari lingkaran ini akan merasakan gerakannya.
 
-### 2. Anatomi Internal: Ampula dan Kupula
+### 2. Ampula dan Kupula
 
 Di setiap ujung kanalis yang membesar, terdapat area yang disebut **Ampula**. Di dalam ampula inilah "mesin" pendeteksi sebenarnya berada.
 
@@ -26,7 +26,7 @@ Di setiap ujung kanalis yang membesar, terdapat area yang disebut **Ampula**. Di
 
 > **Penting:** Kupula memiliki berat jenis yang sama dengan endolimfe di sekitarnya. Artinya, kupula tidak terpengaruh oleh gravitasi (tidak seperti otolit), tetapi sangat sensitif terhadap dorongan cairan.
 
-### 3. Mekanisme Deteksi: Inersia dan Defleksi
+### 3. Inersia dan Defleksi Kupula
 
 Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses ini melibatkan prinsip fisika sederhana: **Inersia**.
 
@@ -81,7 +81,7 @@ Saat kepala berputar ke kanan:
 
 Otak membandingkan perbedaan input dari kedua sisi ini. Jika ada ketidaksesuaian (misalnya karena infeksi pada satu sisi), otak akan mengalami kebingungan sinyal dan timbullah gejala **vertigo**.
 
-### 6. Real-World Application: Simulasi Sensorik
+### 6. Simulasi Sensorik
 
 Dalam teknik robotika dan pengembangan *Virtual Reality* (VR), prinsip kanalis semisirkularis ditiru menggunakan sensor yang disebut **Gyroscope**.
 

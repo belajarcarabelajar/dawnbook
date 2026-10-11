@@ -2,7 +2,7 @@
 
 Selamat datang di jantung dari mesin cuaca Bumi! Jika atmosfer dianggap sebagai sebuah mesin, maka uap air adalah bahan bakarnya. Dalam bagian ini, pembahasan berfokus pada bagaimana air berubah wujud serta bagaimana proses tersebut melepaskan atau menyerap energi dalam jumlah besar yang memicu badai, membentuk awan, dan mengatur suhu planet ini.
 
-### 1. Air: Sang Bunglon Molekuler
+### 1. Air Sang Bunglon Molekuler
 
 Di atmosfer, air merupakan satu-satunya zat yang dapat ditemukan dalam tiga fase sekaligus: **padat (es)**, **cair (air)**, dan **gas (uap air)**. Perubahan dari satu fase ke fase lainnya disebut sebagai **perubahan fase**.
 
@@ -14,7 +14,7 @@ Analogi sederhana untuk molekul air adalah sekelompok orang di sebuah ruang pert
 
 Untuk mengubah susunan molekul ini, diperlukan energi. Interaksi energi dan wujud zat inilah yang menjadi inti dari termodinamika atmosfer.
 
-### 2. Panas Laten: Energi yang Tersembunyi
+### 2. Panas Laten
 
 Salah satu konsep utama dalam mikrofisika awan adalah **Panas Laten (Latent Heat)**. Istilah "laten" berasal dari bahasa Latin *latere* yang berarti "tersembunyi".
 
@@ -74,11 +74,11 @@ Keterangan variabel:
 
 **Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi; terdapat ketersediaan energi laten yang sangat melimpah.
 
-### 5. Aplikasi Dunia Nyata: Efek Pendinginan Evaporatif
+### 5. Efek Pendinginan Evaporatif
 
 Alasan lingkungan hutan terasa sejuk tidak hanya berasal dari rimbunnya naungan pohon, melainkan juga akibat proses **Evapotranspirasi**. Tanaman melepaskan uap air melalui stomata. Penguapan ini menyerap panas dari udara sekitar (panas laten), sehingga menurunkan suhu lingkungan setempat.
 
-#### Skenario Teknis: Pembentukan Awan
+#### Pembentukan Awan
 
 Saat parsel udara naik, suhunya turun akibat ekspansi adiabatik. Berdasarkan hubungan Clausius-Clapeyron, penurunan suhu ($T$) mengakibatkan tekanan uap jenuh ($e_s$) ikut menurun. Ketika nilai $e_s$ turun hingga menyamai tekanan uap aktual ($e$), udara mencapai kondisi jenuh ($\text{RH} = 100\text{\%}$).
 

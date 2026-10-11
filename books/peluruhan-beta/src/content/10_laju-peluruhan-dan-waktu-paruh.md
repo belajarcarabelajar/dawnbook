@@ -4,7 +4,7 @@ Pernahkah muncul pertanyaan, jika kita memiliki satu gram zat radioaktif yang me
 
 Dalam dunia fisika nuklir, kita tidak bisa memprediksi kapan **satu atom spesifik** akan meluruh. Namun, kita bisa memprediksi dengan sangat akurat bagaimana **sekelompok besar atom** akan berperilaku. Inilah keindahan dari statistik peluruhan radioaktif.
 
-### 1. Konsep Dasar: Probabilitas dalam Ketidakpastian
+### 1. Probabilitas dalam Ketidakpastian
 
 Peluruhan beta adalah proses stokastik (acak). Bayangkan kita memiliki satu juta buah dadu. Setiap kali mengocoknya, dadu yang memunculkan angka 6 dianggap meluruh dan dikeluarkan dari permainan.
 
@@ -116,7 +116,7 @@ print(f"Setelah {t_simulasi} tahun, sisa atom: {sisa:.2f}")
 # Output yang diharapkan: 250.00
 ```
 
-### 7. Aplikasi Dunia Nyata: Mengapa Kita Perlu Menghitung Ini?
+### 7. Mengapa Laju Peluruhan Perlu Dihitung?
 
 **Skenario Medis (Brachytherapy):** Dokter menggunakan isotop pemancar beta untuk membunuh sel kanker. Mereka harus menghitung laju peluruhan dengan sangat presisi. Jika laju peluruhan tidak dihitung dengan benar:
 

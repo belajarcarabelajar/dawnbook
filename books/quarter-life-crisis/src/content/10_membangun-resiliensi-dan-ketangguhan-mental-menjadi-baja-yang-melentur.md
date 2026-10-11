@@ -1,4 +1,4 @@
-## Membangun Resiliensi dan Ketangguhan Mental: Menjadi "Baja" yang Melentur
+## Membangun Resiliensi dan Ketangguhan Mental
 
 Pernahkah kamu memperhatikan sebuah bola tenis dan sebuah telur yang dijatuhkan ke lantai? Telur akan hancur berkeping-keping saat menghadapi benturan, sementara bola tenis akan memantul kembali, bahkan terkadang lebih tinggi dari posisi awalnya.
 
@@ -16,7 +16,7 @@ $$
 
 Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi tetap terjaga.
 
-#### Tiga Pilar Ketangguhan Mental:
+#### Tiga Pilar Ketangguhan Mental
 
 1. **Resiliensi Kognitif:** Bagaimana kita memproses informasi dan menafsirkan kegagalan. Apakah kita melihat hambatan sebagai jalan buntu atau sebagai teka-teki yang harus dipecahkan?
 2. **Resiliensi Emosional:** Kemampuan untuk tetap tenang di tengah badai perasaan. Caranya dengan mengenali emosi tanpa membiarkannya mengambil alih kendali hidup kita.
@@ -54,11 +54,11 @@ Pahami perbedaan antara hal-hal yang bisa kamu kendalikan dan yang di luar kenda
 - **Internal (bisa dikendalikan):** Upayamu, responsmu, rutinitas pagimu.
 - **Eksternal (di luar kendali):** Kondisi ekonomi, keputusan rekruter, opini orang lain di media sosial.
 
-### 4. Teknik Reframing: Mengubah Narasi Kegagalan
+### 4. Teknik Reframing
 
 Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat suatu keadaan.
 
-### 5. Studi Kasus: Skenario "The Pivot"
+### 5. Andi dan Startup yang Gagal
 
 **Cerita Singkat:** Andi (25 tahun) merasa hancur setelah proyek startup yang ia bangun selama dua tahun gagal total. Ia merasa kehilangan identitas dan malu bertemu teman-temannya.
 
@@ -71,7 +71,7 @@ Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat
 
 **Hasil:** Enam bulan kemudian, Andi tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut justru memberinya sudut pandang unik dalam mengelola risiko.
 
-### 6. Latihan Mandiri: Membangun "Tas Darurat Mental"
+### 6. Membangun "Tas Darurat Mental"
 
 Sebagai langkah praktis, buatlah daftar (digital atau fisik) yang berisi hal-hal berikut untuk digunakan saat situasi terasa sangat berat:
 

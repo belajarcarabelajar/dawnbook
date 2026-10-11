@@ -1,4 +1,4 @@
-## Teori Permainan Algoritmik dan AI: Ketika Kecerdasan Bertemu Strategi
+## Teori Permainan Algoritmik dan AI
 
 Selamat datang di titik temu antara matematika, ekonomi, dan ilmu komputer! Jika sebelumnya kita telah mempelajari bagaimana manusia mengambil keputusan strategis, sekarang kita akan mengeksplorasi apa yang terjadi ketika **algoritma** dan **kecerdasan buatan (AI)** menjadi pemainnya.
 
@@ -13,7 +13,7 @@ Teori permainan klasik sering kali berasumsi bahwa pemain memiliki kecerdasan ta
 
 > **Wawasan Penting:** Teori Permainan Algoritmik adalah studi tentang desain dan analisis sistem ketika partisipan yang bertindak demi kepentingan pribadi (*selfish*) berinteraksi dalam lingkungan komputasi.
 
-### Analogi: Kemacetan Lalu Lintas Digital
+### Kemacetan Lalu Lintas Digital
 
 Bayangkan aplikasi GPS seperti Google Maps atau Waze. Setiap pengemudi (agen) ingin rute tercepat untuk dirinya sendiri. Jika semua orang mengambil rute tercepat yang sama, jalan tersebut akan macet.
 
@@ -36,7 +36,7 @@ Jika $\text{PoA}$ mendekati 1, maka perilaku individualistis pemain tidak merusa
 
 Dalam AI, kita sering tidak hanya membangun satu model, melainkan ekosistem ketika banyak agen berinteraksi.
 
-### Karakteristik MAS:
+### Karakteristik MAS
 
 - **Otonomi**: Setiap agen mengambil keputusan sendiri.
 - **Interaksi**: Hasil satu agen bergantung pada tindakan agen lain.
@@ -58,7 +58,7 @@ Salah satu pencapaian besar dalam desain mekanisme adalah lelang harga kedua.
 - **Aturan**: Pemenang adalah penawar tertinggi, tetapi harga yang dibayar adalah tawaran tertinggi kedua.
 - **Mengapa AI menyukai ini?**: Dalam mekanisme ini, strategi dominan bagi setiap agen adalah menawar tepat sesuai nilai asli barang tersebut. Tidak perlu menebak-nebak lawan!
 
-## 5. Implementasi Teknis: AI di Papan Permainan
+## 5. AI di Papan Permainan
 
 Dalam pengembangan AI modern, teori permainan digunakan untuk melatih model agar bisa mengalahkan manusia atau mencapai efisiensi tinggi.
 
@@ -97,7 +97,7 @@ Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji co
 3. **Keamanan Siber**: AI digunakan untuk memodelkan interaksi antara penyerang (*hacker*) dan pertahanan sistem sebagai permainan stokastik untuk memprediksi titik serangan.
 4. **Ekonomi Kripto (Tokenomics)**: Protokol blockchain seperti Ethereum menggunakan teori permainan untuk memastikan validator bertindak jujur melalui sistem imbalan (*reward*) dan penalti (*slashing*).
 
-## 7. Tantangan Masa Depan: AI vs AI
+## 7. Tantangan Masa Depan ketika AI Berhadapan dengan AI
 
 Apa yang terjadi jika AI menjadi terlalu pintar dalam bernegosiasi? Ada risiko di mana algoritma secara tidak sengaja belajar untuk melakukan **kolusi** (bekerja sama secara rahasia) untuk menaikkan harga bagi konsumen.
 

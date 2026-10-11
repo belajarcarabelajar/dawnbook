@@ -4,7 +4,7 @@ Situasi krisis sering kali datang tanpa peringatan awal. Bayangkan seorang kapte
 
 Inilah dinamika utama dalam *High-Pressure Decision Making* (Pengambilan Keputusan di Bawah Tekanan Tinggi). Di tengah situasi bencana, sistem kognitif manusia tidak beroperasi seperti saat memilih menu santap siang. Otak secara otomatis beralih ke mode bertahan hidup (*survival mode*), yang kerap mendistorsi ketajaman analisis rasional yang sesungguhnya paling dibutuhkan.
 
-## 1. Memahami Musuh Kognitif: Tunnel Vision dan Bias Informasi
+## 1. Memahami Tunnel Vision dan Bias Informasi
 
 Saat tingkat stres melonjak drastis, kapasitas pemrosesan kognitif mengalami penyempitan signifikan. Secara evolusioner, mekanisme ini dirancang untuk memusatkan atensi pada ancaman langsung. Namun, dalam lingkungan modern yang kompleks, mekanisme adaptif masa purba ini kerap berubah menjadi bumerang yang membahayakan keselamatan.
 
@@ -22,7 +22,7 @@ Terdapat tiga bias kognitif yang paling sering melumpuhkan pertimbangan saat men
 2. **Bias Konfirmasi (*Confirmation Bias*):** Kecenderungan selektif untuk hanya menyerap informasi yang selaras dengan harapan pribadi, seperti terus mencari kabar bahwa debit air banjir akan segera surut, kendati fakta lapangan menunjukkan ketinggian air kian meluap.
 3. **Bias Kelalaian (*Omission Bias*):** Ketakutan untuk mengambil tindakan aktif karena khawatir membuat keputusan keliru, yang pada akhirnya berujung pada kelumpuhan keputusan (*decisional paralysis*).
 
-## 2. Model Keputusan Cepat: Siklus OODA (OODA Loop)
+## 2. Siklus OODA (OODA Loop)
 
 Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang sangat teruji adalah **Siklus OODA (OODA Loop)** yang digagas oleh Kolonel John Boyd. Strategi ini menguraikan kekacauan situasi menjadi empat siklus berkelanjutan:
 
@@ -76,7 +76,7 @@ $$
 
 Formulasi ini menegaskan bahwa rencana $70\text{\%}$ yang segera dieksekusi pada saat krisis berlangsung jauh lebih menyelamatkan nyawa dibandingkan rencana $100\text{\%}$ yang baru siap dirumuskan ketika jendela waktu evakuasi telah tertutup rapat.
 
-## 5. Studi Kasus Lapangan: Skenario Kebakaran Gedung Bertingkat
+## 5. Keputusan saat Kebakaran Gedung Bertingkat
 
 Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 10 sebuah gedung bertingkat saat alarm kebakaran berbunyi dan asap pekat mulai memasuki lorong:
 

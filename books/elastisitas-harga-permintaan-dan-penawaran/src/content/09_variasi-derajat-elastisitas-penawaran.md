@@ -46,7 +46,7 @@ E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
 $$
 
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
-### Kode Snippet (Python): Klasifikasi Elastisitas Otomatis
+### Kode Python untuk Klasifikasi Elastisitas Otomatis
 Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:
 ```python
 def classify_supply_elasticity(price_change_pct, quantity_change_pct):

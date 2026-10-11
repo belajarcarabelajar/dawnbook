@@ -10,11 +10,11 @@ Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita memilik
 
 **Insight Penting:** Perbedaan antara individu yang "Aman Sejak Lahir" (Continuous Secure) dan "Aman yang Diperoleh" (Earned Secure) bukan terletak pada sejarah masa lalu mereka, tetapi pada cara mereka memahami dan memaknai sejarah tersebut.
 
-### Analogi: Seni Kintsugi
+### Seni Kintsugi
 
 Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip dengan **Kintsugi**, yaitu seni Jepang memperbaiki keramik pecah menggunakan emas cair. Alih-alih menyembunyikan retakannya, guratan emas tersebut justru membuat keramik lebih kuat dan indah. Retakan atau luka masa lalu itu tetap ada, tetapi tidak lagi mendefinisikan kerapuhan; ia justru menjadi simbol ketangguhan.
 
-## Kunci Utama: Narasi yang Koheren (Coherent Narrative)
+## Narasi yang Koheren (Coherent Narrative) sebagai Kunci Utama
 
 Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan pada tingkat "kesempurnaan" masa kecil mereka, tetapi pada kemampuan menceritakan kisah hidup secara **koheren**.
 
@@ -48,7 +48,7 @@ Terapis bertindak sebagai pangkalan aman (*secure base*) sementara. Melalui ruan
 * Mulai menantang keyakinan inti yang negatif, seperti anggapan bahwa diri tidak layak dicintai.
 * Mengembangkan keterampilan regulasi emosi yang lebih stabil untuk keseharian.
 
-## Neurobiologi Perubahan: Plastisitas Otak
+## Plastisitas Otak
 
 Kabar baiknya secara ilmiah adalah otak manusia bersifat plastis. Melalui proses mencapai *Earned Security*, kita secara aktif membangun jalur saraf baru di dalam otak.
 
@@ -58,7 +58,7 @@ $$
 
 Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti jalan tol yang lebar, latihan konsisten dan hubungan yang sehat akan membantu kita merintis jalan setapak baru menuju rasa aman. Semakin sering dilewati, jalan setapak ini lama-kelamaan akan menjadi jalan utama yang baru.
 
-## Langkah Praktis: Latihan Menuju Keamanan
+## Latihan Menuju Keamanan
 
 1. **Inventarisasi Pemicu:** Tuliskan tiga hal yang biasanya membuat kamu merasa tidak aman dalam hubungan, lalu identifikasi reaksi otomatis kamu.
 2. **Menamai Perasaan:** Saat merasa terpicu, katakan pada diri sendiri: *"Aku sedang merasa [Emosi], dan perasaan ini valid, tetapi reaksi otomatis [Reaksi] mungkin tidak membantu untuk saat ini."*
@@ -66,7 +66,7 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
    * *Bukan:* "Kamu selalu cuek!"
    * *Tetapi:* "Aku merasa agak cemas hari ini, bolehkah aku minta waktu sebentar untuk mengobrol?"
 
-## Kasus Nyata: Transformasi Sari
+## Transformasi Sari
 
 **Skenario:** Sari tumbuh dengan gaya kelekatan cemas karena ayahnya yang sering pergi tanpa kabar. Memasuki usia 20-an, ia kerap membombardir pasangannya dengan puluhan pesan singkat jika tidak segera dibalas.
 

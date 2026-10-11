@@ -2,7 +2,7 @@
 
 Pendekatan behavioristik dan belajar sosial menawarkan perspektif tentang bagaimana kepribadian dibentuk oleh interaksi dengan lingkungan. Pendekatan ini menekankan peran pembelajaran dan pengalaman dalam membentuk pola perilaku, berbeda dari teori yang berfokus pada dorongan bawah sadar atau sifat bawaan.
 
-### 1. *Classical Behaviorism*: Fondasi Pembelajaran
+### 1. *Classical Behaviorism*
 
 Behaviorisme berpendapat bahwa perilaku dapat dipahami sepenuhnya melalui studi tentang hubungan antara stimulus dan respons, tanpa perlu merujuk pada proses mental internal. Dua tokoh utama dalam aliran ini adalah Ivan Pavlov dan B.F. Skinner.
 

@@ -8,7 +8,7 @@ Dalam Rust, modul berfungsi sebagai wadah untuk mengelompokkan berbagai item sep
 
 Fokus pembahasan kali ini adalah *inline modules*, yaitu modul yang dideklarasikan langsung di dalam satu file (biasanya `main.rs` atau `lib.rs`).
 
-### Analogi: Folder di Desktop
+### Folder di Desktop
 
 Menyimpan ratusan file secara berserakan di desktop tentu tidak rapi. Folder seperti "Pekerjaan" atau "Kuliah" dibuat untuk mengelompokkannya secara spesifik:
 - Folder berfungsi sebagai modul (`mod`).
@@ -88,7 +88,7 @@ Pada struktur ini, `depan_restoran` bertindak sebagai modul utama, sedangkan `pe
 
 ## Kasus Penggunaan Nyata
 
-### Skenario: Pemrosesan Gambar
+### Pemrosesan Gambar
 
 Saat membangun pengolah gambar, logika filter sebaiknya dipisahkan dari logika manajemen berkas agar kode lebih mudah dikelola:
 

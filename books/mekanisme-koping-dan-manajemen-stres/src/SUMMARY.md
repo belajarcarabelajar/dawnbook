@@ -1,10 +1,10 @@
 # Summary
 
 - [Pengantar Manajemen Stres dan Koping](content/01_pengantar-manajemen-stres-dan-koping.md)
-- [Memahami Sistem Saraf: Fight or Flight](content/02_memahami-sistem-saraf-fight-or-flight.md)
-- [Mindfulness: Seni Menyadari Momen Kini](content/03_mindfulness-seni-menyadari-momen-kini.md)
-- [Teknik Pernapasan 4-7-8: Obat Penenang Alami](content/04_teknik-pernapasan-4-7-8.md)
-- [Grounding: Teknik Membumi saat Terjadi Panik](content/05_grounding-teknik-membumi-saat-panik.md)
+- [Memahami Sistem Saraf Fight or Flight](content/02_memahami-sistem-saraf-fight-or-flight.md)
+- [Mindfulness](content/03_mindfulness-seni-menyadari-momen-kini.md)
+- [Teknik Pernapasan 4-7-8](content/04_teknik-pernapasan-4-7-8.md)
+- [Teknik Membumi (Grounding) saat Terjadi Panik](content/05_grounding-teknik-membumi-saat-panik.md)
 - [Restrukturisasi Kognitif dan Manajemen Pikiran](content/06_restrukturisasi-kognitif-dan-manajemen-pikiran.md)
 - [Regulasi Emosi dan Penyaluran Perasaan](content/07_regulasi-emosi-dan-penyaluran-perasaan.md)
 - [Pilar Gaya Hidup untuk Ketahanan Stres](content/08_pilar-gaya-hidup-untuk-ketahanan-stres.md)

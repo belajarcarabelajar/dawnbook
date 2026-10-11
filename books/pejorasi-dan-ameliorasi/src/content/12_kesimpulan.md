@@ -4,7 +4,7 @@ Dinamika semantik melalui pejorasi dan ameliorasi membuktikan bahwa bahasa merup
 
 Bagian penutup ini merangkum esensi dari dinamika semantik sekaligus menyajikan gambaran mengenai peran teknologi serta budaya digital dalam membentuk masa depan interaksi kebahasaan.
 
-### 1. Rangkuman: Bahasa sebagai Organisme yang Dinamis
+### 1. Bahasa sebagai Organisme yang Dinamis
 
 Pelajaran mendasar dari studi semantik historis adalah sifat kebahasaan yang lentur dan senantiasa beradaptasi. Bahasa tidak tersimpan beku dalam ruang kedap udara, melainkan berdenyut di ruang percakapan sehari-hari, kolom interaksi media sosial, dan struktur kognitif kolektif masyarakat.
 

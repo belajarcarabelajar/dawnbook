@@ -1,4 +1,4 @@
-## Dampak Metakognisi: Meningkatkan Pemahaman dan Prestasi Akademik
+## Dampak Metakognisi
 
 Metakognisi, atau "berpikir tentang berpikir", merupakan kemampuan yang sangat berpengaruh pada proses belajar kamu. Punya kesadaran metakognitif bikin kamu sadar soal *apa* yang sedang dipelajari, *bagaimana* proses belajarnya berjalan, dan *kapan* atau *mengapa* sebuah strategi lebih cocok dipakai. Kemampuan ini berhubungan langsung dengan tingkat pemahaman materi, seberapa awet ingatanmu, keahlian memecahkan masalah, nilai akademik, hingga menurunkan rasa cemas saat belajar.
 

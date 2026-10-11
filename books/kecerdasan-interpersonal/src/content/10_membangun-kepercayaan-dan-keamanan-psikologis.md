@@ -4,7 +4,7 @@ Bayangkan sebuah tim akrobat sirkus yang sedang melakukan atraksi *trapeze* di k
 
 Dalam dunia profesional, **Psychological Safety** bertindak sebagai jaring pengaman ini. Ini adalah ruang kerja di mana setiap orang merasa aman mengambil risiko interpersonal (seperti mengakui kesalahan atau mengusulkan ide eksperimental) tanpa takut dipermalukan atau dihukum.
 
-## 1. Perbedaan Mendasar: Trust vs. Psychological Safety
+## 1. Trust vs. Psychological Safety
 
 Sering kali kita mencampuradukkan kedua istilah ini. Meskipun saling mendukung, keduanya beroperasi pada tingkat interaksi yang berbeda.
 
@@ -66,17 +66,17 @@ Sikap diam dari anggota tim sering kali disebabkan oleh keraguan akan hak bicara
 
 *   **Caranya**: Ajukan pertanyaan terbuka yang terarah, misalnya: "Saya ingin mendengar perspektif dari tim produk. Menurut kalian, bagian mana yang berpotensi menjadi kendala terbesar?"
 
-## 4. Studi Kasus: Respons terhadap Kegagalan
+## 4. Respons terhadap Kegagalan
 
 Bagaimana reaksi sebuah tim terhadap kegagalan menentukan tingkat produktivitas dan inovasi jangka panjang mereka. Mari kita bandingkan dua situasi berikut:
 
-### Skenario A: Blame Culture
+### Blame Culture
 
 Saat terjadi gangguan sistem akibat peluncuran fitur baru, respons pertama pemimpin adalah melacak pembuat kode tersebut dan menegurnya di hadapan forum publik.
 
 *   **Dampaknya**: Anggota tim menjadi sangat pasif. Mereka menghindari eksperimen baru karena takut berbuat salah, serta cenderung menutupi kekeliruan kecil agar tidak menjadi sasaran kritik berikutnya.
 
-### Skenario B: Psychological Safety
+### Tim dengan Psychological Safety
 
 Menghadapi masalah yang sama, sang manajer memilih mengumpulkan tim dan berdiskusi dengan tenang: *"Mari kita bedah alur tinjauan kode kita agar celah seperti ini bisa kita cegah bersama ke depannya. Apa pelajaran utama yang bisa kita ambil?"*
 

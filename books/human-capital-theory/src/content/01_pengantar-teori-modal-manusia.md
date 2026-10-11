@@ -1,4 +1,4 @@
-# Pengantar Teori Modal Manusia: Manusia Sebagai Investasi Terbesar
+# Pengantar Teori Modal Manusia
 
 Pernahkah kamu bertanya-tanya mengapa seorang dokter spesialis mendapatkan pendapatan jauh lebih tinggi dibanding seorang pekerja administrasi dasar? Atau mengapa berbagai negara maju berlomba-lomba mengalokasikan porsi anggaran besar untuk sektor pendidikan dan kesehatan? Jawabannya terletak pada satu konsep fundamental ekonomi: **Human Capital** (Modal Manusia).
 
@@ -29,13 +29,13 @@ Untuk memahami struktur dari modal manusia, kita dapat mengklasifikasikannya ke 
 
 Perkembangan Teori Modal Manusia tidak terjadi secara mendadak. Meskipun pemikiran awal mengenai nilai ekonomis manusia telah disentuh oleh Adam Smith dalam *The Wealth of Nations* (1776), pemodelan ilmiah modernnya dibentuk pada pertengahan abad ke-20 oleh dua ekonom penerima Hadiah Nobel.
 
-### 1. Theodore Schultz: Sang Pionir Ekonomi Pertanian dan Pendidikan
+### 1. Theodore Schultz Memelopori Analisis Modal Manusia
 
 Theodore Schultz memelopori analisis modal manusia pada dekade 1960-an. Ia mengamati bahwa lonjakan pertumbuhan ekonomi pasca-Perang Dunia II di negara-negara maju tidak dapat dijelaskan semata-mata oleh penambahan modal fisik atau akumulasi jam kerja kasar.
 
 Schultz menegaskan bahwa **pendidikan adalah bentuk investasi produktif**. Dalam studi ekonomi pertaniannya di negara berkembang, ia menemukan bahwa petani yang mengenyam pendidikan formal mampu beradaptasi lebih cepat terhadap teknologi pertanian baru, memilih pupuk secara efektif, dan mengoptimalkan hasil panen dibanding petani tanpa pendidikan.
 
-### 2. Gary Becker: Analisis Mikroekonomi dan Perilaku Individu
+### 2. Analisis Mikroekonomi Gary Becker atas Perilaku Individu
 
 Jika Schultz memberikan dasar makroekonomi, **Gary Becker** meletakkan fondasi mikroekonomi dalam karyanya yang monumental, *Human Capital* (1964). Becker menganalisis keputusan individu dalam mengalokasikan waktu dan biaya untuk pendidikan menggunakan kerangka optimasi rasional.
 
@@ -43,7 +43,7 @@ Dalam pandangan Becker, keputusan individu untuk menempuh pendidikan tinggi atau
 
 Pertanyaan reflektif: Apakah kamu mengambil program sertifikasi atau kuliah saat ini demi kepuasan akademis semata, atau karena kamu memperhitungkan peningkatan nilai jual (*marketability*) keahlianmu di pasar kerja pada masa depan?
 
-## Pergeseran Paradigma: Dari Beban (*Cost*) Menjadi Aset (*Asset*)
+## Pergeseran Paradigma dari Beban (*Cost*) Menjadi Aset (*Asset*)
 
 Kemunculan Teori Modal Manusia memicu perubahan mendasar dalam tata kelola manajemen sumber daya manusia dan kebijakan publik.
 

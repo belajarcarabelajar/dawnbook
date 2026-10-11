@@ -14,7 +14,7 @@ $$
 
 Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan agar sistem tidak runtuh.
 
-#### Langkah-Langkah Membangun Rencana Jangka Panjang:
+#### Langkah-Langkah Membangun Rencana Jangka Panjang
 
 1. **Audit Energi Mingguan**: Setiap akhir pekan, tinjau aktivitas mana yang menguras energi kamu dan mana yang mengisinya kembali.
 2. **Integrasi Ritual Mikro**: Jangan menunggu liburan panjang untuk pulih. Masukkan teknik pernapasan atau *grounding* dalam jadwal harian (misalnya 5 menit setelah makan siang).
@@ -24,13 +24,13 @@ Jika beban stressor meningkat, sumber daya dan dukungan kamu harus ditingkatkan 
 
 ---
 
-### 2. Mengenali "Red Flags": Kapan Harus Mencari Bantuan Profesional?
+### 2. Mengenali "Red Flags"
 
 Ada titik di mana mekanisme koping mandiri tidak lagi cukup. Ini bukan tanda kelemahan, tetapi sinyal bahwa tantangan yang kamu hadapi memerlukan keahlian khusus.
 
 > **Analogi Kesehatan:** Jika kaki kamu patah, kamu tidak akan mencoba menyembuhkannya hanya dengan berpikir positif. Kamu pasti pergi ke dokter spesialis bedah tulang. Kesehatan mental bekerja dengan prinsip yang persis sama.
 
-#### Tanda-Tanda Kamu Memerlukan Bantuan Profesional:
+#### Tanda-Tanda Kamu Memerlukan Bantuan Profesional
 
 - **Gangguan Fungsi Harian**: Stres membuat kamu tidak bisa bekerja, belajar, atau merawat diri sendiri.
 - **Durasi**: Gejala kecemasan, kesedihan mendalam, atau keputusasaan berlangsung lebih dari **2 minggu** berturut-turut.
@@ -56,7 +56,7 @@ Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prose
 
 ---
 
-### 4. Real-World Application: Skenario Pemulihan Jangka Panjang
+### 4. Pemulihan Jangka Panjang Andi
 
 **Skenario:** Andi adalah seorang manajer proyek yang baru saja menyelesaikan proyek besar selama 6 bulan yang sangat penuh tekanan. Meskipun proyek selesai, Andi merasa "kosong", sulit tidur, dan mudah marah pada keluarganya.
 
@@ -69,7 +69,7 @@ Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prose
 
 ---
 
-### 5. Implementasi Teknis: Template Rencana Ketahanan Diri
+### 5. Template Rencana Ketahanan Diri
 
 Kamu dapat menggunakan format sederhana ini untuk mendokumentasikan strategi kamu:
 

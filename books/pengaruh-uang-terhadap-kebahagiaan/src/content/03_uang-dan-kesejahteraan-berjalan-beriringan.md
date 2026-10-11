@@ -1,4 +1,4 @@
-## Bukti Utama: Uang dan Kesejahteraan Berjalan Beriringan
+## Bukti Utama tentang Uang dan Kesejahteraan
 
 Coba bayangkan ini: lebih dari satu juta kali, orang-orang yang sedang menjalani hari biasa mendadak berhenti karena ponsel mereka berbunyi. Di layar muncul pertanyaan pendek: bagaimana perasaanmu saat ini, di sini, sekarang? Mereka menjawab sambil menunggu taksi, sambil duduk di rapat, sambil menghadapi tagihan yang jatuh tempo, sambil bersantai di akhir pekan. Inilah cara Matthew Killingsworth, peneliti dari University of Pennsylvania, mengumpulkan data lewat aplikasi Track Your Happiness. Hasil studinya diterbitkan di jurnal *PNAS* pada 2021, dan ukurannya sungguh masif: sekitar 1,7 juta laporan kesejahteraan real-time dari lebih dari 33.000 orang dewasa di Amerika Serikat.
 
@@ -10,7 +10,7 @@ Temuan ini bukan cerita dari satu aplikasi saja. Jauh sebelum ponsel pintar ada,
 
 Jadi kalau ada yang bilang "orang kaya dan orang miskin sama-sama bahagia kok", data tidak mendukungnya sebagai aturan umum. Kecenderungannya jelas, berulang, dan muncul di banyak konteks: pendapatan yang lebih tinggi berjalan beriringan dengan kesejahteraan yang lebih tinggi.
 
-### Bentuk Hubungannya: Naik, tapi Makin Landai
+### Naik, tapi Makin Landai
 
 Di sini bagian yang paling menarik. Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap dolar tambahan membeli kebahagiaan sedikit lebih sedikit daripada dolar sebelumnya. Konsekuensinya menarik sekali: yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
 

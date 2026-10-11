@@ -1,10 +1,10 @@
-## Penghambat Utama Kondisi Flow: Mengidentifikasi sang 'Flow Killers'
+## Penghambat Utama Kondisi Flow
 
 Bayangkan kamu sedang mengendarai mobil balap di lintasan yang mulus dengan kecepatan tinggi. Segalanya terasa sinkron, mesin menderu harmonis, dan kamu merasa menyatu dengan kendaraan. Tiba-tiba, seseorang menumpahkan sekotak paku di tengah jalan atau menarik rem tangan secara mendadak. Itulah yang terjadi ketika **Flow Killers** masuk ke dalam ruang kerja mental kamu.
 
 Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivitas luar biasa, ia membutuhkan lingkungan dan kondisi mental yang spesifik untuk tetap bertahan. Dalam bagian ini, kita akan membedah musuh-musuh utama yang mencegah kamu mencapai atau mempertahankan kondisi alir tersebut.
 
-## 1\. Gangguan Digital: Pencuri Perhatian di Saku Kamu
+## 1\. Gangguan Digital yang Mencuri Perhatian
 
 Di era modern, gangguan digital adalah penghambat nomor satu. Setiap kali ponsel kamu bergetar atau muncul notifikasi di sudut layar komputer, otak kamu mengalami apa yang disebut sebagai **Orienting Response**.
 
@@ -20,7 +20,7 @@ $$
 
 Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam pekerjaan.
 
-## 2\. Mitos Multitasking: Paradoks Produktivitas
+## 2\. Mitos Multitasking
 
 Banyak orang bangga bisa melakukan *multitasking*, namun secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
 
@@ -73,7 +73,7 @@ Salah satu pemicu utama *flow* adalah **tujuan yang jelas** dan **umpan balik se
 
 Ketidakpastian ini menciptakan gesekan mental. Dalam psikologi, ini disebut sebagai **Cognitive Friction**. Tanpa struktur yang jelas, pikiran akan cenderung melantur (*mind-wandering*), yang merupakan antitesis dari kondisi alir.
 
-## Aplikasi Dunia Nyata: Audit "Flow Killer"
+## Audit "Flow Killer"
 
 Mari kita terapkan ini dalam skenario profesional. Bayangkan seorang desainer grafis bernama Maya yang sulit menyelesaikan proyeknya.
 

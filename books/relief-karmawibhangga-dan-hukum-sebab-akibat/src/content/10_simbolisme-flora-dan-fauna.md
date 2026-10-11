@@ -1,10 +1,10 @@
-## Simbolisme Flora dan Fauna: Pesan Tersirat di Balik Alam
+## Simbolisme Flora dan Fauna
 
 Pernahkah kamu memperhatikan bahwa dalam sebuah film, cuaca atau latar belakang sering kali mencerminkan perasaan karakternya? Hujan turun saat sedih, atau matahari bersinar cerah saat bahagia. Para pemahat relief Karmawibhangga di kaki Borobudur telah menggunakan teknik serupa lebih dari seribu tahun yang lalu.
 
 Flora (tumbuh-tumbuhan) dan Fauna (hewan) dalam relief Karmawibhangga bukan sekadar hiasan untuk mengisi ruang kosong. Mereka adalah "bahasa visual" yang memberikan konteks moral, emosional, dan spiritual terhadap hukum sebab-akibat yang sedang diceritakan.
 
-## 1. Flora: Simbol Kesuburan dan Kesucian
+## 1. Makna Simbolis Flora
 
 Dalam relief Karmawibhangga, tumbuh-tumbuhan sering kali muncul untuk menunjukkan lokasi cerita, apakah itu di hutan belantara, pedesaan, atau lingkungan istana. Namun, beberapa tumbuhan memiliki makna simbolis yang sangat dalam.
 
@@ -28,7 +28,7 @@ Pohon-pohon ini sering muncul di panel yang menggambarkan kehidupan pedesaan yan
 
 - **Makna:** Menunjukkan kemakmuran dan ketertiban sosial sebagai hasil dari perilaku masyarakat yang mematuhi dharma (kebenaran).
 
-## 2. Fauna: Cermin Perilaku dan Alam Reinkarnasi
+## 2. Peran Ganda Fauna
 
 Hewan dalam relief Karmawibhangga memiliki peran ganda. Pertama, sebagai bagian dari ekosistem kehidupan Jawa Kuno. Kedua, sebagai representasi dari **Tiryag-yoni** (alam binatang), salah satu alam rendah dalam siklus reinkarnasi bagi mereka yang memiliki karma buruk.
 
@@ -51,7 +51,7 @@ Burung sering digambarkan terbang di atas atau hinggap di pohon.
 
 - **Makna:** Melambangkan kebebasan jiwa atau penghuni alam yang lebih tinggi. Khususnya *Hamsa* (angsa), sering dianggap sebagai simbol kebijaksanaan karena kemampuannya memisahkan susu dari air (membedakan baik dari buruk).
 
-## 3. Identifikasi Visual: Membaca Kode Alam
+## 3. Membaca Kode Alam
 
 Untuk memahami narasi moral melalui flora dan fauna, kita perlu memperhatikan komposisi visualnya. Berikut adalah tabel panduan cepat:
 
@@ -62,7 +62,7 @@ Untuk memahami narasi moral melalui flora dan fauna, kita perlu memperhatikan ko
 | **Ikan & Makhluk Air** | Danau/Sungai | Kelimpahan sumber daya sebagai upah kedermawanan. |
 | **Monyet** | Lingkungan Hutan | Sifat pikiran manusia yang gelisah dan sulit dikendalikan. |
 
-## 4. Analogi: "Cermin di Balik Semak"
+## 4. "Cermin di Balik Semak"
 
 Bayangkan flora dan fauna ini sebagai **cermin**. Jika sebuah panel relief menunjukkan seseorang yang kasar, maka hewan di sekitarnya mungkin digambarkan gelisah atau ganas. Sebaliknya, jika panel tersebut menunjukkan seorang guru yang bijak, tanaman di sekitarnya akan terlihat subur dan burung-burung hinggap dengan tenang.
 
@@ -70,7 +70,7 @@ Alam dalam Karmawibhangga bereaksi terhadap kualitas moral manusia di pusat ceri
 
 > **Insight Memorable:** Dalam filosofi Karmawibhangga, alam semesta bukanlah panggung yang mati. Ia adalah entitas yang beresonansi dengan tindakan kita. Saat kita menanam kebajikan, "taman" kehidupan kita akan berbunga; saat kita menanam keburukan, "hutan" di sekitar kita akan menjadi gelap dan mengancam.
 
-## 5. Real-world Application: Simbolisme Modern
+## 5. Simbolisme Modern
 
 Meskipun kita tidak lagi memahat relief di dinding batu, kita masih menggunakan flora dan fauna sebagai simbol moral dalam kehidupan sehari-hari:
 

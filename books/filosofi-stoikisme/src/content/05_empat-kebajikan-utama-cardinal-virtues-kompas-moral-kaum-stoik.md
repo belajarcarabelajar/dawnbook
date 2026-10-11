@@ -1,4 +1,4 @@
-## Empat Kebajikan Utama (Cardinal Virtues): Kompas Moral Kaum Stoik
+## Empat Kebajikan Utama (Cardinal Virtues)
 
 Bagi para filosof Stoik, tujuan hidup bukanlah kekayaan, ketenaran, atau sekadar menghindari rasa sakit. Tujuan utamanya adalah hidup dalam **Eudaimonia** (kebahagiaan yang timbul dari perkembangan jiwa) melalui **Arete** (kebajikan atau keunggulan karakter).
 
@@ -57,7 +57,7 @@ Kaum Stoik percaya pada konsep **Kesatuan Kebajikan**. Artinya, kamu tidak bisa 
 
 Jika seseorang "berani" merampok bank, itu bukanlah kebajikan *Keberanian*, karena ia kekurangan *Keadilan* (merugikan orang lain) dan *Kebijaksanaan* (melakukan tindakan bodoh). Keempat pilar ini saling mengunci dan memperkuat satu sama lain.
 
-## Aplikasi Dunia Nyata: Skenario Konflik di Tempat Kerja
+## Konflik di Tempat Kerja
 
 Mari kita lihat bagaimana keempat kebajikan ini bekerja dalam satu situasi praktis:
 

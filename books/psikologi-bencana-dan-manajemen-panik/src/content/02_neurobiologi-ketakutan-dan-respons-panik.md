@@ -4,25 +4,25 @@ Bayangkan seseorang sedang melintasi jalur hutan yang sunyi, lalu tiba-tiba sema
 
 Reaksi kilat ini merupakan manifestasi dari mekanisme pertahanan biologis purba. Dalam dinamika krisis dan bencana alam, memahami arsitektur neurobiologis di dalam tempurung kepala manusia bukan sekadar diskursus biomedis teoretis, melainkan fondasi utama untuk merebut kembali kendali kognitif tatkala lingkungan sekitar berada dalam kekacauan.
 
-### Arsitektur Otak: Pertarungan Si Penjaga dan Si Pemikir
+### Pertarungan Si Penjaga dan Si Pemikir di Otak
 
 Untuk mengurai dinamika kepanikan, perlu dipahami relasi timbal balik dan ketegangan fungsional antara dua wilayah kunci di dalam sistem saraf pusat:
 
-#### Amigdala: Detektor Bahaya Instan
+#### Amigdala Pendeteksi Bahaya
 
 Amigdala merupakan struktur seukuran kacang almon yang bersemayam di kedalaman sistem limbik. Struktur ini berfungsi sebagai pusat komando pengolahan emosi, terutama rasa takut dan ancaman kelangsungan hidup.
 
 - **Karakteristik Operasional:** Amigdala bekerja menyerupai sensor pendeteksi asap (*smoke detector*). Sensor ini tidak menganalisis secara mendalam apakah asap tersebut berasal dari kobaran api yang mengancam gedung atau hanya panggangan roti yang sedikit hangus. Prioritas tunggalnya adalah membunyikan alarm tanda bahaya secepat mungkin.
 - **Kecepatan Transmisi:** Dalam rentang hitungan milidetik, amigdala mampu mengerahkan respons otonom ke seluruh tubuh bahkan sebelum korteks kognitif menerima sinyal penuh dari panca indra.
 
-#### Korteks Prefrontal (PFC): Pusat Evaluasi Eksekutif
+#### Pusat Evaluasi Eksekutif Korteks Prefrontal (PFC)
 
 Terletak di bagian anterior lobus frontal, *Prefrontal Cortex* ($\text{PFC}$) memegang otoritas atas fungsi eksekutif, regulasi emosi, perencanaan strategis, dan pengambilan keputusan rasional.
 
 - **Karakteristik Operasional:** Jika amigdala bertindak sebagai sensor alarm, $\text{PFC}$ berfungsi sebagai analis yang memverifikasi keabsahan ancaman, menilai risiko secara objektif, serta memutuskan tindakan korektif yang terukur.
 - **Pembajakan Amigdala (*Amygdala Hijack*):** Ketika intensitas stres melewati batas kritis (misalnya saat guncangan gempa bumi dahsyat atau ledakan besar), amigdala melepaskan luapan neurotransmiter yang dapat mendominasi serta memutus transmisi kognitif dari $\text{PFC}$. Fenomena ini melumpuhkan pertimbangan logis dan menggantikannya dengan dorongan bertahan hidup primitif.
 
-### Jalur Ganda Pemrosesan Ancaman: The Low Road vs The High Road
+### Low Road dan High Road dalam Pemrosesan Ancaman
 
 Penelitian neurobiologis oleh Joseph LeDoux mengidentifikasi dua lintasan sirkuit saraf dalam memproses stimulus bahaya:
 
@@ -48,7 +48,7 @@ Penelitian neurobiologis oleh Joseph LeDoux mengidentifikasi dua lintasan sirkui
 
 > **Prinsip Utama:** Keberhasilan mitigasi panik saat kondisi darurat ditentukan oleh seberapa cepat individu mampu mengaktifkan kembali *Jalur Lambat* ($\text{The High Road}$) agar kendali rasional kognitif segera mengambil alih kendali motorik.
 
-### Sistem Saraf Otonom: Keseimbangan Pedal Gas dan Rem
+### Pedal Gas dan Rem Sistem Saraf Otonom
 
 Reaksi fisiologis tubuh terhadap bencana dimediasi oleh Sistem Saraf Otonom (*Autonomic Nervous System*), yang terbagi menjadi dua divisi fungsional:
 
@@ -66,7 +66,7 @@ Aktivasi amigdala memicu kaskade simpatoadrenal yang mempersiapkan organisme unt
 
 Cabang parasimpatik, yang didominasi oleh aktivitas Nervus Vagus, berfungsi sebagai sistem pemulihan (*rest and digest*). Sistem ini menurunkan denyut nadi, merelaksasi otot, dan menormalkan kembali tekanan darah setelah fase kritis terlewati. Dalam protokol pertolongan pertama psikologis, manipulasi pernapasan ritmis bertindak sebagai stimulasi langsung terhadap tonus vagal guna menginjak "rem" fisiologis ini secara sadar.
 
-### Spektrum Respons Defensif: Fight, Flight, dan Freeze
+### Fight, Flight, dan Freeze
 
 Ketika terpapar ancaman yang mengancam integritas fisik, sirkuit saraf secara otomatis menetapkan salah satu dari tiga pola respons adaptif:
 
@@ -93,7 +93,7 @@ Kortisol dalam takaran optimal menjaga ketersediaan energi seluler dan modulasi 
 - **Penyempitan Lapang Pandang (*Tunnel Vision*):** Persepsi visual mereduksi informasi periferal dan hanya terpaku pada satu titik bahaya, sehingga individu kerap melewatkan rambu jalur evakuasi yang berada di dekatnya.
 - **Pembekuan Kognitif (*Cognitive Freezing*):** Gangguan memori kerja jangka pendek (*working memory*) yang mengakibatkan ketidakmampuan memproses instruksi keselamatan verbal sederhana.
 
-### Studi Komparatif Respons: Skenario Krisis Gempa Bumi
+### Respons Warga dan Relawan saat Gempa Bumi
 
 Pertimbangan mengapa personel penyelamat dan pemadam kebakaran dilatih melalui simulasi berulang kali berakar pada plastisitas sinaptik sistem saraf. Pengulangan skenario membentuk respons motorik otomatis yang memotong ketergantungan pada deliberasi sadar yang lambat.
 

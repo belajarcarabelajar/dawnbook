@@ -1,4 +1,4 @@
-## Kecerdasan Emosional dalam Krisis: Menavigasi Badai Tanpa Kehilangan Arah
+## Kecerdasan Emosional dalam Krisis
 
 Bayangkan kamu adalah seorang kapten kapal yang sedang memimpin pelayaran di tengah samudra yang tenang. Tiba-tiba, badai besar datang menerjang. Gelombang setinggi rumah menghantam lambung kapal, dan angin kencang mulai merobek layar. Di saat seperti ini, apa yang paling dibutuhkan oleh kapal tersebut? Mesin yang kuat? Mungkin. Kompas yang akurat? Tentu. Namun, yang paling menentukan keselamatan kapal adalah **ketenangan dan ketajaman mental sang kapten.**
 
@@ -20,7 +20,7 @@ $$
 
 Artinya, semakin tinggi emosimu (marah, takut, panik), semakin kecil ruang yang tersisa untuk logika.
 
-### 2. Teknik Mengenali Emosi: "Name It to Tame It"
+### 2. Teknik "Name It to Tame It"
 
 Langkah pertama dalam mengelola emosi di bawah tekanan adalah dengan **mengenalinya**, bukan menekannya. Penelitian menunjukkan bahwa menyebutkan nama emosi yang dirasakan dapat menurunkan aktivitas di pusat ketakutan otak.
 
@@ -31,7 +31,7 @@ Langkah pertama dalam mengelola emosi di bawah tekanan adalah dengan **mengenali
 
 **Penting:** Hindari mengatakan "Saya marah." Sebaliknya, katakan **"Saya menyadari ada perasaan marah dalam diri saya."** Perubahan kecil dalam bahasa ini menciptakan jarak antara identitasmu dan emosi tersebut.
 
-### 3. Memproses Emosi: Menemukan Ruang di Antara Stimulus dan Respons
+### 3. Ruang di Antara Stimulus dan Respons
 
 Viktor Frankl, seorang psikolog dan penyintas Holocaust, pernah menulis:
 
@@ -57,7 +57,7 @@ Setelah kamu mengenali dan memberi ruang pada emosi, tujuannya adalah kembali ke
 
 ### Aplikasi di Dunia Nyata
 
-#### Skenario: Presentasi Kerja yang Gagal Total
+#### Presentasi Kerja yang Gagal Total
 
 Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan mengkritik habis-habisan di depan rekan kerja. Kamu merasa wajah memanas, detak jantung meningkat, dan ingin sekali membalas dengan kata-kata tajam atau langsung keluar dari ruangan.
 
@@ -68,7 +68,7 @@ Kamu baru saja mempresentasikan ide besar di depan direksi, namun seorang atasan
 3. **Manage:** Sadari bahwa membalas dengan emosi akan merusak profesionalismemu. Katakan, "Terima kasih atas masukannya, Pak. Saya butuh waktu untuk menelaah poin-poin tersebut agar bisa memberikan revisi yang lebih baik."
 4. **Rational Decision:** Setelah pertemuan selesai dan emosi mereda, kamu menganalisis kritik tersebut. Kamu menemukan bahwa 20% kritiknya valid dan bisa memperbaiki proyekmu, sementara 80% sisanya mungkin hanya gaya komunikasinya yang kurang baik.
 
-### ️ Latihan Mandiri: Membangun "Otot" Kecerdasan Emosional
+### Membangun "Otot" Kecerdasan Emosional
 
 Ingatlah satu kejadian dalam seminggu terakhir di mana kamu merasa sangat tertekan atau kesal.
 

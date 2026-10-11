@@ -1,4 +1,4 @@
-## Etika Periklanan dan Privasi Data: Menemukan Keseimbangan di Tengah Algoritma
+## Etika Periklanan dan Privasi Data
 
 Bayangkan kamu sedang berjalan di sebuah mal. Tiba-tiba, seorang pelayan toko mendekati kamu dan berkata, *"Halo, saya tahu kamu tadi pagi baru saja menghabiskan sereal terakhir di rumah, dan saya juga tahu kamu sedang mencari sepatu lari ukuran 42 berwarna biru yang tahan air. Ini pilihannya."*
 
@@ -6,7 +6,7 @@ Di satu sisi, ini sangat membantu (**kenyamanan**). Di sisi lain, ini sangat men
 
 Inilah inti dari perdebatan etika dalam periklanan digital saat ini. Kita berada di persimpangan antara teknologi yang mampu memprediksi keinginan kita dan hak dasar kita untuk tetap anonim.
 
-## 1. Dilema Etis: Kenyamanan vs. Privasi
+## 1. Kenyamanan vs. Privasi
 
 Dunia periklanan digital modern digerakkan oleh pertukaran nilai. Namun, seringkali pengguna tidak menyadari apa yang sebenarnya mereka "bayar" untuk layanan gratis yang mereka nikmati.
 
@@ -45,11 +45,11 @@ Untuk menjaga kepercayaan konsumen, pengiklan dan pengembang teknologi harus mem
 - **Purpose Limitation (Batasan Tujuan):** Jika data dikumpulkan untuk tujuan pengiriman barang, data tersebut tidak boleh dijual ke pihak ketiga untuk profil iklan politik.
 - **Accountability (Akuntabilitas):** Perusahaan harus bertanggung jawab penuh jika terjadi kebocoran data dan memiliki protokol pemulihan yang jelas.
 
-## 4. Implementasi Teknis: Mekanisme Persetujuan
+## 4. Consent Management Platform (CMP)
 
 Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Berikut adalah logika sederhana bagaimana sebuah situs web harus menangani skrip pelacakan berdasarkan pilihan pengguna.
 
-### Contoh Kode (JavaScript):
+### Contoh Kode JavaScript
 
 ```javascript
 // Fungsi untuk memuat tracker iklan hanya jika pengguna setuju
@@ -79,7 +79,7 @@ document.getElementById('btn-decline').addEventListener('click', () => {
 });
 ```
 
-## 5. Aplikasi Dunia Nyata: Skandal Cambridge Analytica
+## 5. Skandal Cambridge Analytica
 
 Salah satu contoh paling kelam dalam etika data adalah kasus **Cambridge Analytica**.
 
@@ -87,7 +87,7 @@ Salah satu contoh paling kelam dalam etika data adalah kasus **Cambridge Analyti
 - **Dampak:** Data tersebut digunakan untuk membuat profil psikologis (micro-targeting) guna memengaruhi pilihan pemilih dalam pemilu.
 - **Pelajaran:** Kasus ini membuktikan bahwa pelanggaran privasi data iklan bukan hanya soal "iklan sepatu yang mengganggu", tetapi bisa mengancam demokrasi dan stabilitas sosial.
 
-## 6. Keseimbangan Matematis: Nilai vs. Privasi
+## 6. Nilai vs. Privasi
 
 Secara teoritis, kita bisa melihat hubungan antara personalisasi dan privasi sebagai sebuah fungsi optimasi. Misalkan $U$ adalah kegunaan (utility) bagi pengguna, $P$ adalah tingkat personalisasi, dan $V$ adalah tingkat privasi:
 
@@ -99,7 +99,7 @@ Seringkali terdapat *trade-off*: $\uparrow P\implies\downarrow V$
 
 Tujuan dari etika periklanan modern adalah mencari titik optimal di mana $P$ cukup tinggi untuk memberikan nilai, namun $V$ tidak turun di bawah ambang batas hak asasi manusia.
 
-## Kesimpulan: Tanggung Jawab Bersama
+## Tanggung Jawab Bersama
 
 Etika periklanan bukan hanya tugas regulator atau pemerintah.
 

@@ -1,4 +1,4 @@
-## Kecerdasan Interpersonal: Seni Berinteraksi
+## Kecerdasan Interpersonal
 
 Bayangkan kamu berada dalam sebuah ruangan yang penuh dengan orang-orang yang sedang berdebat panas. Di tengah kekacauan itu, ada satu orang yang mampu masuk, mendengarkan tanpa memotong, membaca bahasa tubuh setiap individu, dan dalam beberapa menit berhasil meredakan ketegangan serta membuat semua orang setuju pada sebuah solusi. Orang tersebut tidak berhenti pada kepandaian merangkai kata. Ia sebenarnya sedang mempraktikkan kecerdasan interpersonal yang tinggi.
 
@@ -40,7 +40,7 @@ Di arena negosiasi atau penjualan, praktisi yang ulung tidak sibuk memaparkan sp
 
 Hal serupa berlaku di bidang pendidikan. Guru yang efektif menggunakan sensitivitas sosialnya untuk mendeteksi rasa frustrasi siswa, bahkan ketika siswa tersebut tidak mengatakan apa-apa. Lewat empati, sang guru kemudian menciptakan ruang yang aman bagi siswanya untuk perlahan-lahan berkembang.
 
-## Skenario Teknikal: Algoritma Pengambilan Keputusan Sosial
+## Algoritma Pengambilan Keputusan Sosial
 
 Bagi kamu yang terbiasa berpikir prosedural, dinamika ini bisa dibayangkan layaknya sistem logika percabangan yang berjalan otomatis.
 

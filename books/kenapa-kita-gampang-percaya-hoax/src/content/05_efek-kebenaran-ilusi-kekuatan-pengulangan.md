@@ -1,4 +1,4 @@
-## Efek Kebenaran Ilusi: Kekuatan Pengulangan
+## Efek Kebenaran Ilusi
 
 Ingat kalimat "kita cuma pakai 10 persen otak kita." Itu keliru; otak dipakai hampir seluruhnya, bahkan saat tidur. Tapi karena diulang di film, buku motivasi, dan obrolan warung kopi selama puluhan tahun, ia terasa benar, padahal salah sejak awal. Di bab ini kita bongkar kenapa sesuatu yang cuma sering kamu dengar bisa terasa lebih benar daripada yang baru, walau keduanya sama-sama belum kamu cek.
 
@@ -8,7 +8,7 @@ Ingat kalimat "kita cuma pakai 10 persen otak kita." Itu keliru; otak dipakai ha
 
 Efek ini pertama kali ditunjukkan secara sistematis oleh Hasher, Goldstein, dan Toppino pada tahun 1977. Mereka memberi peserta serangkaian pernyataan untuk dinilai kebenarannya, dan sebagian muncul berulang di sesi berikutnya. Hasilnya konsisten: pernyataan yang diulang dinilai lebih benar daripada yang baru, terlepas dari benar atau tidaknya. Otak tidak menyimpan label "aku pernah dengar ini dari sumber tepercaya" bersama informasinya; yang tersimpan sering cuma rasa familiar, dan itu gampang tertukar dengan rasa benar.
 
-### Mekanismenya: otak suka yang gampang diproses
+### Otak suka yang gampang diproses
 
 Kenapa pengulangan bisa menipu? Kuncinya ada pada **kefasihan pemrosesan** (*processing fluency*). Setiap kali bertemu informasi, otakmu harus memprosesnya: membaca, mengurai makna, mencocokkan dengan yang sudah kamu tahu. Kalau informasi itu baru dan asing, proses ini terasa berat; kalau sudah pernah lewat, ia jadi ringan dan cepat. Otak lalu memakai kelancaran itu sebagai petunjuk: kalau sesuatu terasa mudah dicerna, berarti aku sudah pernah tahu; kalau sudah pernah tahu, berarti benar.
 

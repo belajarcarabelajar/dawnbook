@@ -4,7 +4,7 @@ Sejak diperkenalkan oleh Howard Gardner pada tahun 1983, Teori Kecerdasan Majemu
 
 Halaman ini akan membawa kamu menelusuri medan perdebatan intelektual ini, memahami tantangan teknis dalam pengukurannya, dan melihat bagaimana teori ini bertransformasi untuk menjawab tantangan abad ke-21.
 
-## 1\. Debat Ilmiah: Kritik Terhadap Validitas Teori
+## 1\. Kritik Terhadap Validitas Teori
 
 Meskipun populer di sekolah-sekolah, Teori Kecerdasan Majemuk menghadapi tantangan besar dalam komunitas psikologi eksperimental. Berikut adalah beberapa poin utama kritiknya.
 
@@ -52,7 +52,7 @@ Di era di mana AI mampu menyelesaikan masalah logis-matematis dan linguistik den
 
 Dengan bantuan pemrosesan data berskala besar, masa depan pendidikan memungkinkan adanya profil kecerdasan yang dinamis. Berbagai algoritma dapat dimanfaatkan untuk melacak bagaimana seorang siswa memproses informasi melalui berbagai modalitas secara langsung.
 
-## Real-World Application: Skenario Dilema Pendidikan
+## Dilema Pendidikan
 
 Sebuah sekolah dasar di Jakarta menerapkan kurikulum berbasis Kecerdasan Majemuk secara utuh. Namun, saat ujian nasional yang mengandalkan standar logis-matematis dan linguistik tiba, peringkat sekolah tersebut menurun drastis dibandingkan sekolah tradisional.
 

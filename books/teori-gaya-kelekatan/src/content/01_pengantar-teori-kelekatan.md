@@ -1,4 +1,4 @@
-## Pengantar Teori Kelekatan: Fondasi Emosional Manusia
+## Pengantar Teori Kelekatan
 
 Selamat datang di awal perjalanan untuk memahami diri kamu dan orang-orang di sekitar kamu dengan lebih mendalam. Pernahkah kamu bertanya-tanya mengapa beberapa orang sangat tenang dalam hubungan, sementara yang lain merasa sangat gelisah atau justru ingin menjauh saat keintiman mulai terbentuk?
 
@@ -32,7 +32,7 @@ Jika pengasuh responsif, anak menyimpulkan: *"Saya berharga dan orang lain bisa 
 
 Saat bayi merasa stres (takut, lapar, atau sakit), sistem saraf mereka berada dalam kondisi "waspada". Pengasuh yang menenangkan berfungsi sebagai **regulator eksternal**. Seiring waktu, pengalaman ditenangkan oleh orang lain membantu otak anak belajar cara menenangkan diri sendiri saat beranjak dewasa.
 
-## Analogi: Laboratorium dan Penjelajah
+## Penjelajah dan Pangkalan Aman
 
 Bayangkan seorang anak kecil di taman bermain sebagai **penjelajah** dan pengasuhnya sebagai **pangkalan aman (secure base)**.
 
@@ -49,7 +49,7 @@ Pola yang terbentuk di masa bayi tidak serta-merta berhenti saat kita beranjak d
 * **Pola Asuh:** Cara kita mendidik anak, yang sering kali mencerminkan (atau justru merupakan reaksi ekstrem terhadap) cara kita diasuh dahulu.
 * **Kesehatan Mental:** Tingkat kerentanan terhadap kecemasan, depresi, serta metode kita dalam mengelola stres sehari-hari.
 
-## Aplikasi Nyata: Mengapa Mempelajari Ini Sekarang?
+## Mengapa Mempelajari Ini Sekarang?
 
 Memahami teori kelekatan bukan bertujuan untuk menyalahkan orang tua atas masa lalu kita. Tujuan utamanya adalah membangun **kesadaran diri (self-awareness)**.
 

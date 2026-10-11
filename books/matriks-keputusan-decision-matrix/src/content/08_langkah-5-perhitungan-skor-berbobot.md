@@ -1,4 +1,4 @@
-## Langkah 5: Perhitungan Skor Berbobot (Weighted Score)
+## Perhitungan Skor Berbobot (Weighted Score)
 
 Di sinilah inti dari matriks keputusan (decision matrix) bekerja. Setelah menentukan kriteria penilaian dan menetapkan bobot pada langkah sebelumnya, **Langkah 5** adalah proses integrasinya. Kita mengubah penilaian subjektif maupun objektif menjadi angka-angka presisi berupa skor berbobot (*weighted score*) untuk memandu kamu menuju pilihan terbaik.
 
@@ -42,7 +42,7 @@ Proses perhitungan dapat dilakukan secara sistematis melalui langkah berikut:
 
 > **Tips Praktis:** Pastikan satuan bobot yang kamu gunakan konsisten. Jika menggunakan persentase, total dari seluruh bobot kriteria harus berjumlah tepat 100% atau 1.0.
 
-### 4. Analogi: Menentukan MVP (Most Valuable Player)
+### 4. Menentukan MVP (Most Valuable Player)
 
 Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan siapa pemain terbaik musim ini.
 
@@ -57,7 +57,7 @@ Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4)
 
 Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah kekuatan nyata dari *Weighted Score*.
 
-### 5. Contoh Kasus: Pemilihan Vendor Software Cloud
+### 5. Pemilihan Vendor Software Cloud
 
 Mari kita terapkan metode ini pada skenario bisnis nyata. Sebuah perusahaan sedang memilih antara dua vendor layanan cloud (Vendor A dan Vendor B).
 

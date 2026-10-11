@@ -4,7 +4,7 @@ Pernahkah kamu merasa sangat setuju dengan sebuah pidato atau tulisan, namun saa
 
 Itulah kekuatan **bahasa dan retorika**. Dalam penalaran kritis, bahasa bukan sekadar alat komunikasi yang netral. Bahasa adalah lensa yang bisa memperjelas kebenaran atau justru mengaburkannya dengan kabut emosi dan manipulasi.
 
-## 1. Bahasa: Lebih dari Sekadar Kata-Kata
+## 1. Bahasa dan Dua Lapisan Maknanya
 
 Secara mendasar, setiap kata yang kita pilih membawa dua lapisan makna:
 
@@ -13,7 +13,7 @@ Secara mendasar, setiap kata yang kita pilih membawa dua lapisan makna:
 
 Dalam penalaran, manipulasi sering terjadi pada tingkat **konotasi**. Seorang pembicara yang mahir akan memilih kata-kata dengan konotasi yang kuat untuk memicu reaksi emosional, sehingga audiens berhenti menganalisis struktur logis dari argumen tersebut.
 
-## 2. Eufemisme dan Disfemisme: "Menghias" Realitas
+## 2. Eufemisme dan Disfemisme
 
 Salah satu teknik paling umum dalam retorika adalah mengubah label suatu peristiwa untuk mengubah persepsi terhadapnya.
 
@@ -82,13 +82,13 @@ Secara emosional, sulit untuk membantah karena siapa yang ingin dibilang tidak m
 
 ## 5. Aplikasi Dunia Nyata dan Kasus Praktis
 
-### Kasus 1: Pemasaran (Marketing)
+### Pemasaran (Marketing)
 
 Sebuah produk makanan ringan melabeli kemasannya dengan tulisan: *"Hanya mengandung bahan-bahan alami."*
 
 - **Analisis:** Kata "Alami" sering digunakan sebagai eufemisme untuk "Sehat". Padahal, gula, garam, dan lemak jenuh juga merupakan bahan alami. Di sini, retorika digunakan untuk menyembunyikan fakta bahwa produk tersebut mungkin tidak sehat.
 
-### Kasus 2: Debat Politik
+### Debat Politik
 
 Seorang kandidat berkata: *"Lawan saya ingin melakukan eksperimen berbahaya terhadap ekonomi kita."*
 
@@ -98,7 +98,7 @@ Seorang kandidat berkata: *"Lawan saya ingin melakukan eksperimen berbahaya terh
 
 Dalam kehidupan sehari-hari, media sosial sering menggunakan bahasa tertentu untuk membuat penggunanya terus menggulir (*scrolling*). Penggunaan kata-kata seperti "Viral", "Mengejutkan", atau "Wajib Tahu" dirancang untuk memicu rasa penasaran tanpa memberikan substansi yang nyata.
 
-### Strategi Menghadapi Manipulasi Bahasa:
+### Strategi Menghadapi Manipulasi Bahasa
 
 1. **Menerjemahkan ke Bahasa Netral:** Saat mendengar kalimat yang sangat emotif, coba tulis kembali kalimat tersebut dengan kata-kata yang paling netral dan faktual. Periksa apakah argumennya masih masuk akal.
 2. **Mencari Definisi Operasional:** Jika seseorang menggunakan kata abstrak seperti "Keadilan" atau "Kemerdekaan", tanyakan: "Apa definisi spesifikmu mengenai hal ini dalam konteks sekarang?"

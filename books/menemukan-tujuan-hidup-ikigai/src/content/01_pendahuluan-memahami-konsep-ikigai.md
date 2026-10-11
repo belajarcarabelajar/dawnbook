@@ -1,4 +1,4 @@
-## Pendahuluan: Memahami Konsep Ikigai
+## Memahami Konsep Ikigai
 
 Mari mulai perjalanan mengenali filosofi Jepang tentang menemukan makna: Ikigai. Di bagian ini, kita membedah inti Ikigai, alasan filosofi ini sangat relevan di tengah tuntutan hidup modern, dan pengaruhnya terhadap kesejahteraan diri.
 

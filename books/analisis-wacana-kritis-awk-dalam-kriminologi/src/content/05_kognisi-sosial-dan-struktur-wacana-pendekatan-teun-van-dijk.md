@@ -1,10 +1,10 @@
-## Kognisi Sosial dan Struktur Wacana: Pendekatan Teun van Dijk
+## Kognisi Sosial dan Struktur Wacana menurut Teun van Dijk
 
 Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang sangat ketat seringkali diterima dengan tangan terbuka oleh masyarakat, meskipun kebijakan tersebut mungkin membatasi kebebasan sipil? Jawabannya seringkali tidak terletak pada fakta-fakta statistik kejahatan, melainkan pada bagaimana pesan tersebut dikonstruksi dalam pikiran publik.
 
 Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
 
-## 1. Segitiga Emas Van Dijk: Wacana, Kognisi, dan Masyarakat
+## 1. Segitiga Emas Van Dijk
 
 Berbeda dengan pemikir lain yang mungkin langsung menghubungkan teks dengan struktur sosial, Van Dijk berpendapat bahwa tidak ada hubungan langsung antara wacana dan masyarakat. Hubungan tersebut dimediasi oleh kognisi manusia.
 
@@ -22,7 +22,7 @@ $$
 
 > **Wawasan Penting:** Kekuasaan (*power*) tidak hanya bekerja dengan memaksa tubuh manusia, tetapi dengan mengelola pikiran mereka melalui wacana. Jika elit dapat mengontrol apa yang orang pikirkan tentang kejahatan, mereka dapat mengontrol bagaimana orang tersebut akan bertindak.
 
-## 2. Struktur Wacana: Bagaimana Pesan Disusun?
+## 2. Struktur Wacana
 
 Van Dijk membagi analisis teks ke dalam tiga tingkatan hierarkis yang membantu kita melihat bagaimana manipulasi isu keamanan dilakukan secara halus:
 
@@ -46,7 +46,7 @@ Di sinilah detail bahasa berperan. Ini mencakup:
 2. **Sintaksis:** Penggunaan kalimat aktif/pasif untuk menyembunyikan atau menonjolkan aktor.
 3. **Retoris:** Penggunaan metafora atau hiperbola (misalnya "Perang melawan kejahatan").
 
-## 3. Kognisi Sosial: Mesin di Dalam Kepala Kita
+## 3. Kognisi Sosial di Dalam Kepala Kita
 
 Mengapa masyarakat percaya pada narasi elit? Van Dijk menjelaskan melalui konsep **Model Mental**.
 
@@ -69,7 +69,7 @@ Elit kekuasaan (politisi, petinggi penegak hukum, pemilik media) memiliki akses 
 
 > **Bahan Refleksi:** Siapa yang lebih sering diwawancarai oleh media saat terjadi kerusuhan? Warga yang memprotes ketidakadilan, atau pejabat yang berbicara tentang "ketertiban umum"?
 
-### Cara Kerja Manipulasi:
+### Cara Kerja Manipulasi
 
 1. **Praanggapan (Presupposition):** Menyisipkan asumsi yang tidak perlu diperdebatkan lagi.
    - *Kalimat:* "Bagaimana cara terbaik untuk menumpas terorisme di kota ini?"
@@ -77,7 +77,7 @@ Elit kekuasaan (politisi, petinggi penegak hukum, pemilik media) memiliki akses 
 2. **Generalisasi:** Mengambil satu kasus kriminal dan menjadikannya representasi seluruh kelompok atau etnis tertentu.
 3. **Delegitimasi:** Meruntuhkan kredibilitas pihak-pihak yang mengkritik kebijakan keamanan dengan melabeli mereka sebagai "simpatisan penjahat" atau "anti-pemerintah".
 
-## 5. Penerapan Nyata: Kasus "War on Drugs"
+## 5. "War on Drugs" dalam Pendekatan Van Dijk
 
 Berikut dibedah bagaimana pendekatan Van Dijk bekerja dalam skenario nyata kebijakan narkoba:
 
@@ -100,13 +100,13 @@ Amati potongan berita fiktif di bawah ini dan identifikasi strukturnya menggunak
 2. **Eufemisme:** Makna di balik frasa "tindakan tegas dan terukur".
 3. **Kognisi:** Perasaan yang ingin dibangkitkan pada pembaca (rasa takut atau rasa aman).
 
-## 7. Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+## 7. Linguistik Forensik untuk Pembuktian Hukum
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang detektif dalam konteks ini tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
-### A. Idiolek: Sidik Jari dalam Kata
+### A. Idiolek Unik Setiap Individu
 
 Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 

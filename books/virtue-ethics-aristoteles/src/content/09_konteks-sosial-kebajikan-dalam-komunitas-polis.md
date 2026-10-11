@@ -1,4 +1,4 @@
-## Konteks Sosial: Kebajikan dalam Komunitas (Polis)
+## Konteks Sosial Kebajikan
 
 Pernahkah kamu membayangkan pahlawan yang hidup sendirian di pulau terpencil tanpa orang lain untuk diselamatkan, dibantu, atau diajak bicara? Apakah ia tetap bisa disebut "baik" atau "berani"? Dalam Etika Kebajikan, jawabannya tidak sesederhana itu. Kebajikan tidak tumbuh di ruang hampa. Karakter kita terbentuk dalam ekosistem sosial yang disebut Aristoteles sebagai **Polis**.
 

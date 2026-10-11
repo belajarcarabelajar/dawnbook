@@ -1,10 +1,10 @@
-# Analisis Refleksi Berbasis Video: Menemukan Diri dalam Rekaman
+# Analisis Refleksi Berbasis Video
 
 Pernahkah kamu merasa sebuah sesi mengajar berjalan sangat sempurna, namun ketika melihat hasil ujian siswa, ternyata banyak yang tidak paham? Atau sebaliknya, kamu merasa gugup dan kacau, tetapi siswa justru merasa sangat terbantu? Fenomena ini disebut dengan **kesenjangan persepsi**.
 
 Dalam metodologi microteaching, video bukan sekadar dokumentasi, melainkan sebuah "cermin jujur" yang memungkinkan kita melihat realita di lapangan tanpa bias memori. Analisis refleksi berbasis video adalah proses sistematis untuk membedah kinerja mengajar kita sendiri guna menemukan celah antara apa yang kita rencanakan (das sollen) dengan apa yang sebenarnya terjadi (das sein).
 
-## Analogi: Mengapa Harus Video?
+## Mengapa Harus Video?
 
 Bayangkan seorang atlet lari Olimpiade. Setelah perlombaan, ia tidak hanya mengandalkan perasaannya tentang seberapa cepat ia berlari. Ia akan duduk bersama pelatihnya dan menonton rekaman *slow-motion* untuk melihat sudut pendaratan kaki, posisi bahu, dan efisiensi napasnya.
 
@@ -20,13 +20,13 @@ Sebelum menekan tombol *play*, lepaskan ego kamu. Sangat wajar jika kamu merasa 
 
 > **Insight:** Fokuslah pada peran kamu sebagai "pengamat profesional", bukan sebagai "kritikus diri" yang kejam. Lihatlah sosok di video tersebut sebagai orang lain yang sedang kamu bantu untuk berkembang.
 
-### 2. Pengamatan Pertama: Kesan Menyeluruh (Holistik)
+### 2. Kesan Menyeluruh (Holistik)
 
 Tonton video dari awal hingga akhir tanpa berhenti. Jangan mencatat dulu. Gunakan fase ini untuk merasakan alur dan "energi" kelas.
 
 - *Pikirkan tentang ini: Bagaimana suasana perasaan (mood) yang terbangun di kelas tersebut? Apakah tampak membosankan, tegang, atau menyenangkan?*
 
-### 3. Pengamatan Kedua: Analisis Terfokus (Kodifikasi)
+### 3. Analisis Terfokus (Kodifikasi)
 
 Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan Pembelajaran) kamu. Gunakan teknik **Stop-and-Note**:
 
@@ -44,7 +44,7 @@ Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP deng
 | **Pertanyaan** | Menunggu 5 detik setelah bertanya (Wait Time). | Langsung menjawab pertanyaan sendiri setelah 1 detik. | Kurang sabar dalam memberikan ruang berpikir bagi siswa. |
 | **Gerak Tubuh** | Berkeliling kelas untuk memantau siswa. | Hanya berdiri di belakang meja guru sepanjang sesi. | Kurang membangun kedekatan (proximity) dengan siswa. |
 
-## Fokus Analisis: Apa yang Harus Dilihat?
+## Tiga Aspek yang Harus Dilihat
 
 Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga aspek utama:
 
@@ -63,7 +63,7 @@ Untuk membantu kamu melakukan refleksi yang tajam, fokuskan pengamatan pada tiga
 - **Alur Logika:** Apakah transisi dari materi A ke materi B terdengar halus?
 - **Respon terhadap Siswa:** Bagaimana cara kamu menanggapi jawaban salah dari siswa? Apakah kamu membesarkan hati mereka atau justru mematikan motivasi mereka?
 
-## Real-World Application: Skenario Kasus
+## Demonstrasi Ibu Sarah yang Memakan Waktu 15 Menit
 
 **Skenario:** Ibu Sarah mengajar tentang hukum Newton. Dalam RPP-nya, ia merencanakan metode demonstrasi selama 5 menit. Namun, saat menonton video refleksinya, ia menemukan bahwa demonstrasi tersebut memakan waktu 15 menit karena ia kesulitan merakit alat di depan kelas.
 

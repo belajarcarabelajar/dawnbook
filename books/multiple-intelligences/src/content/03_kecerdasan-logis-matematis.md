@@ -1,4 +1,4 @@
-## Kecerdasan Logis-Matematis: Sang Arsitek Pola dan Nalar
+## Kecerdasan Logis-Matematis
 
 Pernahkah kamu mengamati bagaimana beberapa orang begitu cepat menangkap kejanggalan dalam sebuah argumen? Atau melihat seorang programmer yang memelototi ribuan baris kode dan hampir instan menyadari di mana letak cacat logikanya? Inilah wujud nyata dari **Kecerdasan Logis-Matematis**.
 
@@ -12,7 +12,7 @@ Selain itu, ada semacam dorongan alamiah untuk mengklasifikasi sesuatu. Informas
 
 > **Analogi:** Coba bayangkan cara kerja detektif semacam Sherlock Holmes. Saat ia masuk ke sebuah ruangan, ia tidak sekadar memandang perabotan. Ruangan itu langsung terbaca sebagai urutan kejadian. Noda tanah di ujung sepatu dikaitkan dengan rute jalan tertentu, hingga tersusun sebuah rentetan kronologi utuh. Realitas bagi pikiran analitis adalah rantai sebab dan akibat yang terus menyambung.
 
-### 2. Mesin Penalaran: Induksi dan Deduksi
+### 2. Induksi dan Deduksi
 
 Dua roda gigi penopang pijakan matematis ini adalah deduksi dan induksi.
 
@@ -20,7 +20,7 @@ Dua roda gigi penopang pijakan matematis ini adalah deduksi dan induksi.
 
 Di sisi lain, **Penalaran Induktif (Bottom-Up)** merangkai kejadian-kejadian parsial demi mencetak dalil umum. Kita merekam pengamatan harian, misalnya kenyataan bahwa matahari muncul dari balik ufuk timur sejak hari-hari sebelumnya. Dari akumulasi fenomena terpisah itu, ditariklah postulat bahwa secara konstan matahari terbit di arah timur.
 
-### 3. Bentuk Nyata dalam Sistem: Pemikiran Algoritmik
+### 3. Pemikiran Algoritmik
 
 Dalam ranah rekayasa teknologi, pondasi ini bermetamorfosis menjadi kemampuan berpikir algoritmis, yaitu menerjemahkan rumusan mentah ke rentetan instruksi paling masuk akal demi menuntaskan tugas.
 

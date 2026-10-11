@@ -1,4 +1,4 @@
-## Memahami Pathe: Ketika Emosi Menjadi "Penyakit" Jiwa
+## Memahami Pathe
 
 Dalam terminologi Stoik, emosi yang merusak disebut sebagai **Pathe** (jamak: *pathê*). Kata ini secara etimologis berakar dari bahasa Yunani yang berarti "penderitaan" atau "sesuatu yang menimpa".
 
@@ -6,7 +6,7 @@ Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yan
 
 > "Manusia tidak terganggu oleh hal-hal yang terjadi, tetapi oleh pendapat mereka tentang hal-hal tersebut." , **Epictetus**
 
-## Anatomi Emosi: Bagaimana Perasaan Terbentuk
+## Anatomi Emosi
 
 Kaum Stoik memiliki model psikologi yang sangat canggih untuk menjelaskan bagaimana sebuah stimulus berubah menjadi emosi yang meledak. Proses ini dapat digambarkan melalui rumus sederhana berikut:
 
@@ -35,7 +35,7 @@ Stoikisme mengklasifikasikan emosi destruktif ke dalam empat kategori besar yang
 
 **Penting:** Stoikisme tidak mengajarkan kita untuk menjadi robot tanpa perasaan. Tujuan mereka adalah mengganti *Pathe* dengan **Eupatheia** (perasaan baik/sehat) yang berlandaskan pada akal budi, seperti kegembiraan yang tenang, kehendak baik, dan kewaspadaan yang rasional.
 
-## Teknik Stoik: Mengubah Lensa Pandang
+## Mengubah Lensa Pandang
 
 Untuk tidak diperbudak oleh nafsu impulsif, kita perlu menerapkan teknik identifikasi dan transformasi berikut:
 
@@ -56,7 +56,7 @@ Lihatlah hal-hal sebagaimana adanya, tanpa label nilai yang kita tempelkan.
 
 Tanyakan pada diri sendiri: *"Apakah hal ini benar-benar di bawah kendaliku? Apakah penilaianku bahwa ini 'buruk' benar-benar akurat?"*
 
-## Implementasi Teknis: Algoritma Pengelola Emosi
+## Algoritma Pengelola Emosi
 
 Jika kita memandang pikiran manusia seperti sebuah sistem operasi, kita bisa menggunakan struktur logika untuk memproses emosi sebelum ia menjadi *output* yang merusak.
 
@@ -79,7 +79,7 @@ def proses_kejadian(peristiwa):
     return "Respon Rasional"
 ```
 
-## Real-World Application: Menghadapi Kritik Pedas
+## Kritik Pedas dari Atasan
 
 **Skenario:** Atasan kamu mengkritik pekerjaan kamu di depan rekan kerja dengan nada tinggi.
 
@@ -89,7 +89,7 @@ def proses_kejadian(peristiwa):
 		2. **Uji Persetujuan:** "Apakah kata-katanya merusak karakter saya? Tidak, kecuali saya membalas dengan kata-kata kasar juga. Apakah saya bisa mengendalikan mulutnya? Tidak."
 		3. **Transformasi:** Ubah fokus dari "Saya dihina" menjadi "Ada informasi tentang pekerjaan saya yang bisa diperbaiki, meskipun cara penyampaiannya tidak ideal."
 
-## Kesimpulan: Menjadi Tuan bagi Diri Sendiri
+## Menjadi Tuan bagi Diri Sendiri
 
 Mengelola emosi dalam Stoikisme bukanlah tentang menekan atau memendam perasaan (*suppression*), melainkan tentang **mengedukasi perasaan** kita melalui akal sehat. Dengan mengubah cara kita menilai sebuah peristiwa, kita secara otomatis mengubah perasaan yang muncul dari peristiwa tersebut.
 

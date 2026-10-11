@@ -1,4 +1,4 @@
-## Fase 1: Tahap Bulan Madu (The Honeymoon Phase)
+## Tahap Bulan Madu (The Honeymoon Phase)
 
 Pernahkah kamu merasa begitu bersemangat saat pertama kali menginjakkan kaki di tempat baru sehingga segala sesuatunya tampak sempurna? Aroma udaranya terasa berbeda, arsitektur bangunannya terlihat menakjubkan, bahkan kemacetan jalannya pun terasa seperti "pengalaman autentik" yang menarik.
 
@@ -39,7 +39,7 @@ Secara evolusioner dan psikologis, fase bulan madu berfungsi sebagai "bantalan" 
 2. **Pemrosesan Informasi Selektif:** Otak kita secara tidak sadar menyaring informasi negatif dan lebih fokus pada hal-hal yang memvalidasi keputusan kita untuk pindah. Kita ingin membuktikan pada diri sendiri bahwa "keputusanku pindah ke sini adalah keputusan terbaik!"
 3. **Durasi Periode Bulan Madu:** Biasanya berlangsung antara **2 minggu hingga 6 bulan**, tergantung pada seberapa besar perbedaan budaya dan tingkat persiapan individu tersebut.
 
-## 4. Skenario Dunia Nyata: Kisah Aris di Tokyo
+## 4. Kisah Aris di Tokyo
 
 Mari kita lihat contoh nyata bagaimana fase ini bermanifestasi:
 

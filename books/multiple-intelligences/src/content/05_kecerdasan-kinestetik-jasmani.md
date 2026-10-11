@@ -1,4 +1,4 @@
-## Kecerdasan Kinestetik-Jasmani: Keahlian Gerak
+## Kecerdasan Kinestetik-Jasmani
 
 Pernahkah kamu memperhatikan seorang penari yang bergerak lincah seolah tak bertulang, atau ahli bedah dengan tangan yang bekerja sangat presisi tanpa gemetar sedikit pun? Itulah wujud nyata dari **Kecerdasan Kinestetik-Jasmani**.
 
@@ -26,7 +26,7 @@ Selain itu, mereka memiliki *proprioception* yang sangat peka. Ini adalah kemamp
 
 Mereka juga sangat mengandalkan ingatan otot (*muscle memory*) untuk menyimpan pola gerakan, seperti urutan koreografi atau teknik bela diri. Tidak heran jika saat diwajibkan duduk diam berlama-lama, mereka sering kali butuh aktivitas kecil atau *fidgeting* sekadar untuk menjaga tingkat fokus.
 
-## Perspektif Teknis: Fisika dalam Gerakan
+## Fisika Gerakan Tubuh
 
 Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E_k$) menjadi energi potensial gravitasi ($E_p$).
 

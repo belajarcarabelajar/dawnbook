@@ -6,13 +6,13 @@ Rasa ngeri tersebut tidak berasal dari luar. Ia bersumber dari dalam diri, saat 
 
 Kecemasan tidak selalu mewakili gangguan mental yang harus disembuhkan. Sering kali, rasa tidak nyaman ini adalah panggilan mendalam untuk menyadari bahwa kamu benar-benar hidup, bebas, dan bertanggung jawab atas dirimu sendiri.
 
-## 1\. Søren Kierkegaard: Pusing karena Kebebasan
+## 1\. Pusing karena Kebebasan menurut Søren Kierkegaard
 
 Søren Kierkegaard, pelopor eksistensialisme, membedakan secara jelas antara "ketakutan" (fear) dan "kecemasan" (anxiety/angst).
 
 Menurut Kierkegaard, ketakutan selalu tertuju pada objek yang jelas: kamu takut pada anjing galak, takut jatuh miskin, atau takut pada jarum suntik. Sebaliknya, kecemasan bersifat abstrak dan tidak memiliki objek konkret.
 
-### Analogi: Vertigo di Ketinggian
+### Vertigo di Ketinggian
 
 Kierkegaard menjelaskan kecemasan melalui analogi seseorang yang berdiri di tepi jurang. Saat orang tersebut merasa pusing, sensasi itu muncul bukan hanya karena ia takut jatuh akibat bahaya eksternal, tetapi karena ia menyadari bahwa ia memiliki daya untuk menjatuhkan dirinya sendiri ke bawah.
 
@@ -24,7 +24,7 @@ Saat kecemasan melanda, jiwa kita sebenarnya sedang menyadari dua realitas:
 
 Ingatkah saat kamu harus memilih jurusan kuliah atau pekerjaan? Rasa sesak di dada itu muncul bukan karena pilihannya buruk, tetapi karena kamu sadar bahwa pilihan tersebut sepenuhnya berada di tanganmu sendiri.
 
-## 2\. Martin Heidegger: Menemukan Diri dalam Ketidakbetahan
+## 2\. Menemukan Diri dalam Ketidakbetahan menurut Martin Heidegger
 
 Jika Kierkegaard melihat kecemasan secara psikologis-spiritual, Martin Heidegger mengamatinya dari sudut pandang **ontologis**, yaitu terkait dengan hakikat keberadaan kita.
 
@@ -43,7 +43,7 @@ Heidegger menggunakan istilah *Unheimlich*, yang secara harfiah berarti "tidak b
 
 Saat merasa "tidak nyaman" dengan rutinitas duniawi, kita terdorong untuk berhenti mengekor pada kerumunan (*Das Man*) dan mulai bertanya pada diri sendiri: *"Siapa aku sebenarnya di luar ekspektasi masyarakat?"*
 
-## 3\. Perbedaan Perspektif: Kierkegaard vs. Heidegger
+## 3\. Kierkegaard vs. Heidegger
 
 | Aspek | Søren Kierkegaard | Martin Heidegger |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ Kecemasan mengungkapkan dua hal mendasar:
 
 ## 5\. Aplikasi Praktis dan Skenario
 
-### Skenario: Krisis Seperempat Abad (Quarter-Life Crisis)
+### Krisis Seperempat Abad (Quarter-Life Crisis)
 
 Bayangkan seorang profesional muda bernama Budi. Budi memiliki gaji besar dan karier stabil, namun setiap malam ia merasa cemas dan hampa. Secara medis, ia mungkin dianggap mengalami stres kerja. Namun, secara eksistensial:
 

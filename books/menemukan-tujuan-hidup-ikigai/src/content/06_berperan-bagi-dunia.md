@@ -1,4 +1,4 @@
-## Berperan bagi Dunia: 'Apa yang Dibutuhkan Dunia'
+## Berperan bagi Dunia
 
 Dalam perjalanan menemukan Ikigai, salah satu pilar penting adalah memahami elemen 'Apa yang Dibutuhkan Dunia'. Memahami elemen ini berarti mengenali masalah yang ada sekaligus menemukan titik temu antara keahlian dan minatmu dengan kebutuhan mendesak di sekitarmu. Ini merupakan panggilan untuk berkontribusi secara nyata.
 

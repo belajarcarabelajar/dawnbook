@@ -4,7 +4,7 @@ Selamat datang di pembahasan tentang salah satu gaya kelekatan yang paling kompl
 
 Bayangkan kamu sedang berdiri di depan pintu rumah yang hangat saat badai salju, namun setiap kali kamu menyentuh gagang pintunya, kamu merasa tanganmu terbakar. Itulah inti dari dunia emosional individu dengan gaya *Fearful-Avoidant*.
 
-## 1. Paradoks "Mendekat tapi Takut": Inti dari Fearful-Avoidant
+## 1. Paradoks "Mendekat tapi Takut"
 
 Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Mereka memiliki keinginan yang mendalam untuk koneksi emosional dan keintiman (seperti gaya *Anxious*), namun pada saat yang sama, mereka memiliki rasa tidak percaya yang ekstrem terhadap orang lain dan ketakutan akan disakiti (seperti gaya *Dismissive-Avoidant*).
 
@@ -17,7 +17,7 @@ Individu dengan gaya kelekatan ini hidup dalam konflik internal yang konstan. Me
 
 "Aku ingin kamu mencintaiku, tapi aku takut jika kamu benar-benar mengenalku, kamu akan menyakitiku atau meninggalkanku."
 
-## 2. Akar Penyebab: Paradoks Biologis di Masa Kecil
+## 2. Paradoks Biologis di Masa Kecil
 
 Mengapa seseorang bisa mengembangkan gaya yang begitu kontradiktif? Jawabannya biasanya terletak pada lingkungan masa kecil yang tidak terprediksi atau traumatis.
 
@@ -50,7 +50,7 @@ Bagian dari diri mereka sangat ahli dalam membaca mikro-ekspresi atau perubahan 
 
 * *Contoh:* Pasangan hanya menghela napas karena lelah bekerja, namun individu *Fearful-Avoidant* mungkin mengartikannya sebagai "Dia sedang marah padaku dan pasti akan memutusiku."
 
-## 4. Analogi: Kaktus di Tengah Padang Pasir
+## 4. Kaktus di Tengah Padang Pasir
 
 Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air (cinta). Mereka sangat membutuhkannya untuk bertahan hidup. Namun, mereka telah belajar bahwa siapa pun yang datang membawa air biasanya juga membawa parang untuk melukai mereka. Maka, mereka menumbuhkan duri yang sangat tajam. Saat seseorang mendekat untuk memberi air, mereka secara tidak sengaja menusuk orang tersebut, dan saat orang itu mundur karena terluka, si kaktus merasa terkonfirmasi bahwa "tidak ada yang benar-benar peduli padaku."
 

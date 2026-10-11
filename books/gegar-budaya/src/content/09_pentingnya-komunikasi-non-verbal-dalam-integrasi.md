@@ -14,7 +14,7 @@ $$
 
 > **Insight Penting:** Saat kamu berada di fase awal adaptasi budaya, kemampuan bahasa verbal kamu mungkin masih terbatas. Di sinilah komunikasi non-verbal menjadi "jembatan darurat" yang memungkinkan kamu membangun koneksi sebelum kamu mahir berbicara bahasa lokal.
 
-### 2\. Proksemik: Memahami "Gelembung" Ruang Personal
+### 2\. Proksemik dan "Gelembung" Ruang Personal
 
 **Proksemik** adalah studi tentang bagaimana manusia menggunakan ruang saat berkomunikasi. Setiap budaya memiliki "gelembung" tak kasat mata yang menentukan seberapa dekat seseorang boleh berdiri sebelum merasa terancam atau tidak nyaman.
 
@@ -23,7 +23,7 @@ $$
 
 Jika kamu pindah dari Indonesia (yang cenderung komunal) ke Finlandia, apakah kamu siap jika orang-orang di halte bus berdiri dengan jarak 2 meter satu sama lain?
 
-### 3\. Kinesik: Saat Tubuh Berbicara Lebih Keras dari Kata-kata
+### 3\. Kinesik dan Tubuh yang Berbicara Lebih Keras
 
 Kinesik mencakup gerak tubuh, ekspresi wajah, dan postur. Masalah terbesar dalam integrasi adalah **gestur universal yang ternyata tidak universal.**
 
@@ -32,7 +32,7 @@ Kinesik mencakup gerak tubuh, ekspresi wajah, dan postur. Masalah terbesar dalam
 
 **Analogi:** Menggunakan gestur yang salah di negara baru seperti menggunakan steker listrik tipe A di lubang stopkontak tipe C. Energinya ada, tetapi tidak akan ada koneksi yang terjadi.
 
-### 4\. Okulesik: Kekuatan dan Makna Tatapan Mata
+### 4\. Okulesik dan Makna Tatapan Mata
 
 Kontak mata (Okulesik) adalah salah satu aspek komunikasi non-verbal yang paling sensitif secara budaya.
 
@@ -41,14 +41,14 @@ Kontak mata (Okulesik) adalah salah satu aspek komunikasi non-verbal yang paling
 
 **Contoh Skenario:** Seorang mahasiswa internasional dari Asia Timur sedang ditegur oleh dosennya di Amerika. Mahasiswa tersebut menundukkan kepala sebagai tanda hormat. Namun, sang dosen merasa mahasiswa tersebut tidak mendengarkan atau menyembunyikan sesuatu karena tidak mau menatap matanya. Ini adalah **kegagalan integrasi non-verbal**.
 
-### 5\. Kronemik: Memahami Bahasa Waktu
+### 5\. Kronemik dan Bahasa Waktu
 
 Waktu adalah pesan non-verbal yang sangat kuat. Bagaimana kamu memperlakukan waktu menentukan seberapa cepat kamu akan diterima di lingkungan profesional.
 
 - **Waktu Monokronik (Linear):** Di Jerman atau Swiss, "Waktu adalah uang". Datang terlambat 5 menit adalah penghinaan besar.
 - **Waktu Polikronik (Sirkular):** Di banyak budaya Afrika atau Amerika Latin, hubungan manusia lebih penting daripada jadwal. Rapat mungkin dimulai terlambat, tetapi tidak ada yang merasa stres karenanya.
 
-### Real-World Application: Strategi Integrasi Cepat
+### Strategi Integrasi Cepat
 
 Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The Mirror and Observe" (Cermin dan Observasi)**:
 

@@ -10,7 +10,7 @@ Secara teknis, membingkai ulang adalah teknik psikologis yang membantu kita meng
 
 > "Bukan peristiwa itu sendiri yang membuat kita menderita, tetapi penilaian kita terhadap peristiwalah yang menentukan perasaan kita." , Terinspirasi dari Filosofi Stoik.
 
-### Mengubah Kegagalan: Dari "Tembok Besar" Menjadi "Titik Data"
+### Mengubah Kegagalan dari "Tembok Besar" Menjadi "Titik Data"
 
 Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap identitas diri. Kita cenderung berpikir: *"Saya gagal, berarti saya pecundang."* Dalam seni membingkai ulang, kita mengubah struktur kalimat tersebut menjadi sesuatu yang lebih analitis dan produktif.
 
@@ -22,7 +22,7 @@ Mari kita gunakan pendekatan matematis sederhana untuk memahami pergeseran ini:
 
 Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu, melainkan sebuah **umpan balik (feedback)**.
 
-### Analogi: Sang Ilmuwan di Laboratorium
+### Sang Ilmuwan di Laboratorium
 
 Bayangkan seorang ilmuwan yang sedang mencoba menciptakan obat baru. Dia mencampurkan dua zat kimia, dan tiba-tiba tabung reaksinya mengeluarkan asap hitam,eksperimennya gagal.
 
@@ -43,7 +43,7 @@ Untuk menguasai seni ini, kamu bisa mengikuti langkah-langkah sistematis berikut
 4. **Tulis Ulang Naskahnya (The Rewrite)** Ubah pernyataan tersebut menjadi berorientasi pada tindakan di masa depan.
 	- *Reframing:* "Bisnis ini tidak berjalan karena model distribusinya lemah. Sekarang saya tahu cara mana yang harus dihindari untuk proyek berikutnya."
 
-### Real-World Application: Skenario Karier
+### Promosi Jabatan yang Tidak Didapat
 
 **Skenario:** Kamu tidak mendapatkan promosi jabatan yang sangat kamu harapkan, meskipun kamu sudah bekerja lembur selama berbulan-bulan.
 
@@ -53,7 +53,7 @@ Untuk menguasai seni ini, kamu bisa mengikuti langkah-langkah sistematis berikut
 	- **Lensa Peluang:** "Ini adalah kesempatan untuk meminta umpan balik langsung dari atasan tentang apa yang harus saya kembangkan, yang mungkin tidak akan saya tanyakan jika saya langsung dipromosikan."
 	- **Hasil:** Kamu tetap memiliki harga diri yang utuh dan memiliki rencana aksi yang jelas untuk tahun depan.
 
-### Perbedaan Utama: Optimisme vs. Reframing
+### Optimisme vs. Reframing
 
 Sering kali orang bingung membedakan antara berpikir positif (optimisme) dengan membingkai ulang.
 
@@ -66,7 +66,7 @@ Sering kali orang bingung membedakan antara berpikir positif (optimisme) dengan 
 
 **Penting:** Membingkai ulang bukan berarti kamu tidak boleh merasa sedih atau kecewa. Izinkan dirimu merasakan emosi tersebut, namun jangan biarkan emosi tersebut menulis narasi permanen tentang siapa dirimu.
 
-### Latihan Mandiri: Mengubah "Beban" Menjadi "Latihan"
+### Mengubah "Beban" Menjadi "Latihan"
 
 Cobalah teknik sederhana ini hari ini. Ambil satu hal yang kamu anggap sebagai hambatan minggu ini, lalu gunakan tabel berikut untuk membingkainya ulang:
 

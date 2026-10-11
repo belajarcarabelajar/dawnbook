@@ -1,4 +1,4 @@
-## Membangun Fondasi: Faktor Eksternal yang Mengatur Dopamin
+## Membangun Fondasi Dopamin
 
 Pernahkah kamu terbangun di pagi hari merasa sangat malas, tidak bersemangat, dan seolah-olah "mesin" motivasi kamu mogok, padahal kamu memiliki rencana besar hari itu? Sering kali, kita menyalahkan kurangnya *willpower* atau disiplin mental. Namun, secara neurobiologis, motivasi kamu sangat bergantung pada ketersediaan bahan baku kimia dan kondisi lingkungan fisik kamu.
 
@@ -6,7 +6,7 @@ Bayangkan otak kamu sebagai sebuah mobil balap berperforma tinggi. Kamu bisa mem
 
 Dalam bagian ini, kita akan membedah bagaimana tiga pilar biologis utama (**Nutrisi, Tidur, dan Cahaya**) menentukan seberapa banyak dopamin yang bisa kamu produksi dan seberapa sensitif otak kamu terhadap molekul motivasi ini.
 
-## 1. Nutrisi: Bahan Baku Produksi Dopamin
+## 1. Nutrisi
 
 Dopamin tidak muncul begitu saja dari udara. Ia adalah produk dari proses kimiawi yang kompleks di dalam neuron kamu. Jika kamu tidak mengonsumsi bahan dasarnya, otak kamu secara fisik tidak mampu memproduksi dopamin dalam jumlah optimal.
 
@@ -32,7 +32,7 @@ Untuk menjaga "pabrik" dopamin tetap beroperasi, pastikan diet kamu mengandung n
 
 > **Penting:** Mengonsumsi protein di pagi hari terbukti secara klinis dapat meningkatkan kewaspadaan dan motivasi sepanjang hari karena memberikan suplai asam amino yang stabil untuk sintesis neurotransmiter.
 
-## 2. Tidur: Mengatur Ulang Sensitivitas Reseptor
+## 2. Tidur
 
 Jika nutrisi adalah tentang "bahan bakar", maka tidur adalah tentang "pemeliharaan mesin". Hubungan antara tidur dan dopamin bersifat dua arah dan sangat krusial.
 
@@ -50,7 +50,7 @@ Saat kamu kurang tidur, masalah utamanya bukan hanya jumlah dopamin yang kamu mi
 
 *Coba renungkan: Pernahkah kamu merasa jauh lebih sulit menolak godaan makanan tidak sehat saat kamu sedang mengantuk berat? Itu adalah hasil langsung dari disregulasi dopamin akibat kurang tidur.*
 
-## 3. Paparan Cahaya: Jam Biologis dan Pelepasan Dopamin
+## 3. Paparan Cahaya
 
 Salah satu penemuan paling menarik dalam neurosains modern adalah betapa kuatnya pengaruh cahaya matahari terhadap kimia otak kita. Cahaya bukan hanya untuk melihat, melainkan sinyal biologis yang mengatur ritme sirkadian.
 
@@ -72,7 +72,7 @@ Sebaliknya, paparan cahaya terang (terutama cahaya biru dari layar HP atau lampu
 | **Dampak Dopamin** | Merangsang pelepasan dopamin & fokus | Menekan sensitivitas & pelepasan dopamin esok hari |
 | **Efek Melatonin** | Mengatur *timer* pelepasan 14–16 jam lagi | Menekan produksi melatonin (tidur terganggu) |
 
-## Real-World Application: Protokol Optimalisasi Dopamin
+## Protokol Optimalisasi Dopamin
 
 Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah rutinitas yang dirancang untuk memaksimalkan sistem dopamin kamu secara alami:
 
@@ -81,7 +81,7 @@ Bagaimana kita menerapkan sains ini dalam kehidupan sehari-hari? Berikut adalah 
 3. **The "No-Screen" Buffer:** Matikan atau redupkan lampu di rumah kamu 1 jam sebelum tidur. Hindari layar HP atau gunakan filter cahaya biru jika terpaksa. Ini melindungi sensitivitas reseptor dopamin kamu untuk keesokan harinya.
 4. **Hidrasi & Garam:** Dopamin membutuhkan lingkungan elektrolit yang stabil. Dehidrasi ringan sering kali disalahartikan sebagai kekurangan motivasi atau kelelahan mental.
 
-## Contoh Skenario: Perbandingan Dua Pagi
+## Perbandingan Dua Pagi
 
 | Dimensi | Skenario A (Dopamin Terganggu) | Skenario B (Dopamin Teroptimalisasi) |
 | :--- | :--- | :--- |

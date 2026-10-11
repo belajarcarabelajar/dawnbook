@@ -1,10 +1,10 @@
-## Eksistensialisme Feminis: Menjadi Perempuan
+## Eksistensialisme Feminis
 
 Selamat datang di salah satu sudut paling provokatif dan transformatif dalam filsafat eksistensialisme. Jika sebelumnya kita telah membahas bagaimana Jean-Paul Sartre menekankan bahwa "eksistensi mendahului esensi," maka **Simone de Beauvoir** membawa prinsip ini ke dalam realitas yang sangat spesifik dan personal: **pengalaman hidup sebagai seorang perempuan.**
 
 Filsafat ini membedah bagaimana konstruksi sosial membentuk identitas gender, sekaligus menawarkan cara bagi kita untuk merebut kembali kendali atas diri sendiri.
 
-### 1. Fondasi: "On ne naît pas femme, on le devient"
+### 1. "On ne naît pas femme, on le devient"
 
 Pernyataan paling terkenal dalam sejarah feminisme eksistensialis ditulis oleh Beauvoir dalam magnum opusnya, *The Second Sex* (1949):
 
@@ -45,7 +45,7 @@ Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi 
 - **Melibatkan Diri dalam Proyek Kreatif:** Melalui aktivitas intelektual, seni, atau sosial, kamu menciptakan makna baru bagi dunia di luar cangkang dirimu sendiri.
 - **Melawan Keyakinan Buruk (*Bad Faith*):** Penting untuk berhenti bersembunyi di balik alasan "memang sudah kodratnya begini." Sadarilah bahwa apa yang dilabeli sebagai "kodrat" sering kali hanyalah alat sosial untuk melanggengkan penindasan.
 
-### 5. Aplikasi Nyata: Skenario Kehidupan Modern
+### 5. Skenario Kehidupan Modern
 
 Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
 

@@ -10,7 +10,7 @@ Sistem vestibular adalah sistem sensorik yang bertanggung jawab untuk memberikan
 
 Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, namun dengan presisi yang jauh lebih luar biasa.
 
-#### Analogi: Sang Pilot di Balik Layar
+#### Sang Pilot di Balik Layar
 
 Bayangkan tubuh manusia sebagai sebuah pesawat terbang yang canggih. Mata adalah jendela kokpit, otot adalah kemudi, tetapi **sistem vestibular adalah instrumen navigasi internal**. Tanpa instrumen ini, sang pilot (otak) tidak akan tahu apakah pesawat sedang menanjak, menukik, atau miring, terutama saat terbang di dalam awan tebal (seperti saat berjalan di ruangan gelap).
 
@@ -32,7 +32,7 @@ Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk m
 
 Ketika mencoba merekam video sambil berlari, hasilnya biasanya berguncang dan tidak stabil. Namun, saat seseorang berlari, pandangan matanya tetap stabil. Mengapa? Karena sistem vestibular mengirimkan sinyal super cepat ke otot mata untuk bergerak berlawanan arah dengan gerakan kepala. Mekanisme ini memastikan bayangan objek tetap jatuh tepat di fovea (pusat ketajaman mata).
 
-### 3. Komponen Sensorik Utama: Sebuah Gambaran Umum
+### 3. Komponen Sensorik Utama
 
 Sistem vestibular mendeteksi dua jenis gerakan utama melalui struktur khusus di telinga dalam:
 
@@ -71,4 +71,4 @@ Fenomena merasa masih "terombang-ambing" di daratan setelah menghabiskan waktu s
 | **Gravitasi** | Memberikan referensi "bawah" yang konstan bagi tubuh. |
 | **Integrasi** | Bekerja sama dengan mata dan otot untuk koordinasi gerakan. |
 
-> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar masuk ke dalam laboratorium alami tubuh manusia untuk melihat **Anatomi Makroskopis: Labirin Tulang dan Membran**, tempat keajaiban mekanis ini dimulai.
+> **Langkah Selanjutnya:** Setelah memahami gambaran besarnya, bagian berikutnya akan membawa pemelajar masuk ke dalam laboratorium alami tubuh manusia untuk melihat **Anatomi Makroskopis Labyrinth Tulang dan Membran**, tempat keajaiban mekanis ini dimulai.

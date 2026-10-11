@@ -6,7 +6,7 @@ Sekarang bandingkan dengan liburan singkat tahun lalu. Mungkin cuma dua hari di 
 
 Pola ini bukan ilusi. Karena bab-bab sebelumnya bicara soal kenapa uang sering terasa tidak cukup dan kenapa kepuasan memudar, rangkaian bab tentang cara membelanjakan ini pantas dibuka dengan temuan yang menenangkan: ada cara belanja yang meninggalkan rasa lebih tahan lama.
 
-### Pertanyaan sederhana: to do or to have?
+### To do or to have?
 
 Tahun 2003, Leaf Van Boven dan Thomas Gilovich menerbitkan studi berjudul "To do or to have? That is the question" di Journal of Personality and Social Psychology. Pertanyaannya persis seperti yang muncul tiap kali gajian: lebih baik membeli sesuatu untuk dilakukan, atau untuk dimiliki?
 
@@ -22,19 +22,19 @@ Hasilnya konsisten di ketiga pintu: pembelian pengalaman unggul, dan bukan hanya
 
 Kenapa? Ada tiga alasan yang saling menguatkan.
 
-### Alasan pertama: barang menua lebih cepat dari kenangan
+### Barang menua lebih cepat dari kenangan
 
 Kamu sudah mengenal mekanismenya dari bab adaptasi hedonis: nikmat apa pun mengendur seiring waktu, dan barang adalah medan tempat mekanisme itu bekerja paling rakus. Sepeda baru terasa seru seminggu, lalu menjadi alat transportasi biasa. Sofa baru terlihat mahal sebulan, lalu menyatu dengan dinding.
 
 Kenangan bekerja hampir ke arah sebaliknya. Liburan tidak bisa dipakai setiap hari, tapi bisa diputar ulang berkali-kali. Detail mengganggu seperti pesawat tertunda memudar lebih dulu, sementara momen terbaiknya menetap. Barang kehilangan kilau setiap hari; kenangan justru menyaring bagian menjengkelkannya sendiri.
 
-### Alasan kedua: pengalaman menyatu dengan cerita kamu
+### Pengalaman menyatu dengan cerita kamu
 
 Kamu adalah rangkuman dari pengalaman yang pernah kamu jalani. Pernah mendaki sampai puncak, pernah ikut lomba lari pertama, pernah menemani sahabat yang patah hati: semua menempel pada jawaban atas pertanyaan "siapa aku". Barang jarang punya kekuatan itu; orang jarang memperkenalkan diri sebagai pemilik mesin cuci dua tabung.
 
 Makanya pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reunian maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
 
-### Alasan ketiga: pengalaman hidup bersama orang lain
+### Pengalaman hidup bersama orang lain
 
 Perhatikan contoh di dua bagian tadi: hampir semuanya melibatkan orang lain. Konser bersama ribuan orang, makan malam bersama keluarga, kelas bersama teman baru. Pengalaman sering bersifat sosial, dan hubungan yang hangat adalah salah satu sumber kebahagiaan paling awet.
 

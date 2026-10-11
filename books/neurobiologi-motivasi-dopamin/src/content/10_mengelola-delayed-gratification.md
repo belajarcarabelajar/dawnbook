@@ -4,7 +4,7 @@ Bayangkan kamu duduk di sebuah ruangan kecil. Di depan kamu, ada sebuah piring b
 
 Inilah inti dari **Delayed Gratification**: kemampuan untuk menolak godaan kesenangan instan demi mendapatkan imbalan yang jauh lebih besar di masa depan. Dalam modul ini, kita akan mempelajari bagaimana melatih "otot" otak kita untuk memenangkan pertempuran melawan impulsivitas.
 
-## Pertempuran di Dalam Batok Kepala: PFC vs. Sistem Limbik
+## PFC vs. Sistem Limbik
 
 Secara neurobiologis, kemampuan untuk menunda kepuasan adalah hasil dari tarik-ulur antara dua sistem utama di otak kamu:
 
@@ -13,11 +13,11 @@ Secara neurobiologis, kemampuan untuk menunda kepuasan adalah hasil dari tarik-u
 
 > **Wawasan Penting:** Kegagalan dalam menunda kepuasan bukanlah tanda kelemahan karakter, melainkan tanda bahwa Sistem Limbik kamu sedang membajak Prefrontal Cortex kamu.
 
-### Analogi: Penunggang dan Gajah
+### Penunggang dan Gajah
 
 Bayangkan PFC sebagai seorang **Penunggang** kecil yang duduk di atas seekor **Gajah** raksasa (Sistem Limbik). Sang Penunggang mungkin tahu ke mana arah yang benar (tujuan jangka panjang), tetapi jika si Gajah melihat setumpuk tebu di pinggir jalan (kesenangan instan) dan memutuskan untuk mengejarnya, si Penunggang yang kecil akan kesulitan menahannya kecuali ia memiliki kendali yang sangat kuat.
 
-## Logika Matematika di Balik Pilihan Kita: Temporal Discounting
+## Temporal Discounting
 
 Mengapa otak kita cenderung memilih hal yang buruk bagi kita dalam jangka panjang? Fenomena ini disebut **Temporal Discounting** (Penyusutan Nilai Seiring Waktu). Otak secara otomatis menurunkan nilai sebuah imbalan jika imbalan tersebut datangnya lama.
 
@@ -59,14 +59,14 @@ Penelitian menunjukkan bahwa orang yang merasa "terkoneksi" dengan diri mereka d
 
 - **Latihan:** Bayangkan diri kamu 5 atau 10 tahun dari sekarang. Jika kamu menyerah pada kesenangan instan hari ini, bagaimana dampaknya pada "dia"? Tulislah surat singkat untuk diri kamu di masa depan untuk mempererat ikatan emosional ini.
 
-### 4. Mengubah Narasi: "Saya Tidak" vs. "Saya Tidak Bisa"
+### 4. "Saya Tidak" vs. "Saya Tidak Bisa"
 
 Gunakan bahasa yang menunjukkan kendali, bukan keterbatasan.
 
 - Katakan: *"Saya tidak makan gorengan"* (Identitas, memperkuat PFC).
 - Jangan katakan: *"Saya tidak bisa makan gorengan"* (Larangan, memicu stres pada Sistem Limbik).
 
-## Aplikasi Dunia Nyata: Membangun Kesuksesan Jangka Panjang
+## Membangun Kesuksesan Jangka Panjang
 
 Mari kita lihat bagaimana prinsip ini diterapkan dalam berbagai skenario kehidupan:
 

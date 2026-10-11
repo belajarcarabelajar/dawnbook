@@ -1,4 +1,4 @@
-## Mikro-Penargetan di Platform Media Sosial: Seni Menemukan Jarum dalam Jerami Digital
+## Mikro-Penargetan di Platform Media Sosial
 
 Bayangkan kamu sedang berjalan di tengah pasar raksasa yang berisi satu miliar orang. Tanpa teknologi, sangat mustahil untuk menemukan sepuluh orang yang secara spesifik menyukai "kopi organik dari pegunungan Gayo yang dipanggang dengan teknik *light roast* dan memiliki hobi memelihara kura-kura."
 
@@ -6,7 +6,7 @@ Namun, di era mikro-penargetan, menemukan sepuluh orang tersebut semudah menekan
 
 **Mikro-penargetan** adalah teknik pemasaran yang menggunakan data konsumen dan algoritma canggih untuk membagi audiens ke dalam segmen-segmen yang sangat kecil dan spesifik. Tujuannya bukan lagi menjangkau "semua orang", melainkan menjangkau "orang yang tepat" dengan pesan yang terasa sangat personal.
 
-### 1. Meta (Facebook & Instagram): Sang Penguasa Graf Sosial
+### 1. Meta (Facebook & Instagram)
 
 Meta membangun kekuatannya melalui **Social Graph**, yaitu pemetaan hubungan antara pengguna, minat, dan aktivitas mereka. Strategi mikro-penargetan Meta berpusat pada tiga pilar utama:
 
@@ -26,7 +26,7 @@ Ini adalah "senjata rahasia" Meta. Dengan algoritma *machine learning*, Meta dap
 
 > **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling mirip dengan 1.000 pembeli tersebut dalam hal perilaku digital.
 
-### 2. TikTok: Revolusi Penargetan Berbasis Minat Spontan
+### 2. Graf Minat TikTok
 
 Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graph Minat (Interest Graph)**. TikTok tidak peduli siapa temanmu; ia peduli pada apa yang membuatmu terus menonton (*watch time*).
 
@@ -35,7 +35,7 @@ Berbeda dengan Meta yang berbasis hubungan sosial, TikTok menggunakan **Graph Mi
 1. **Sub-kultur (The "Toks"):** TikTok membagi pengguna ke dalam komunitas mikro seperti #BookTok (pecinta buku), #CleanTok (pembersihan rumah), atau #MechanicalKeyboards.
 2. **Analisis Konten Frame-by-Frame:** Algoritma TikTok menganalisis objek, musik, dan kata kunci dalam video yang kamu tonton untuk menentukan segmen mikromu secara *real-time*.
 
-### 3. Google: Menargetkan Niat (Intent-based Targeting)
+### 3. Google dan Penargetan Niat (Intent-based Targeting)
 
 Google memetakan segmen pasar melalui apa yang orang **cari** dan **lakukan**. Jika Meta tahu siapa kamu, Google tahu apa yang kamu butuhkan saat ini.
 
@@ -43,7 +43,7 @@ Google memetakan segmen pasar melalui apa yang orang **cari** dan **lakukan**. J
 - **Afinitas & In-Market:** Google mengelompokkan pengguna berdasarkan kebiasaan jangka panjang (Afinitas) atau niat membeli yang mendesak (In-Market).
 - **Konteks Video (YouTube):** Penargetan mikro pada saluran YouTube yang sangat spesifik (misal: hanya beriklan di kanal yang membahas restorasi jam tangan antik).
 
-### Mekanisme Teknis: Di Balik Layar Algoritma
+### Mekanisme Teknis Cosine Similarity
 
 Secara teknis, platform ini menggunakan model matematika untuk menghitung seberapa dekat seorang pengguna dengan profil target. Salah satu metode yang digunakan adalah **Cosine Similarity**.
 
@@ -79,7 +79,7 @@ print(f"Audiens Terpilih: {target_list}")
 
 ### Studi Kasus & Aplikasi Dunia Nyata
 
-#### Skenario: Peluncuran Produk Vegan Dog Food Khusus Anjing Senior
+#### Peluncuran Produk Vegan Dog Food Khusus Anjing Senior
 
 Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang sudah tua di wilayah perkotaan.
 

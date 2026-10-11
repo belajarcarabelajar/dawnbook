@@ -6,7 +6,7 @@ Lama-lama, menuliskan alamat sepanjang itu di setiap surat undangan tentu melela
 
 Dalam Rust, kata kunci `use` berfungsi seperti membuat "pintasan" atau "nama panggilan" tersebut. Ia membawa sebuah path ke dalam scope saat ini, sehingga kamu tidak perlu menuliskan path absolut yang panjang berulang kali.
 
-## Masalah: Path yang Terlalu Panjang
+## Path yang Terlalu Panjang
 
 Sebelum kita masuk ke solusi, mari kita lihat masalahnya. Perhatikan contoh struktur modul untuk sebuah restoran di bawah ini:
 
@@ -28,7 +28,7 @@ fn eat_at_restaurant() {
 
 Menulis `crate::front_of_house::hosting::add_to_waitlist()` setiap kali kita membutuhkannya akan membuat kode menjadi kotor dan sulit dibaca.
 
-## Solusi: Menggunakan Kata Kunci use
+## Menggunakan Kata Kunci use
 
 Dengan `use`, kita bisa membawa modul ke dalam scope fungsi atau modul saat ini. Ini mirip dengan membuat *symbolic link* di sistem operasi atau melakukan `import` di bahasa pemrograman lain.
 
@@ -57,11 +57,11 @@ fn eat_at_restaurant() {
 
 Meskipun kamu bisa membawa fungsi secara langsung ke dalam scope, Rust memiliki konvensi tertentu agar kode tetap mudah dipahami:
 
-### 1. Untuk Fungsi: Bawa Parent Module
+### 1. Parent Module untuk Fungsi
 
 Sangat disarankan untuk membawa **parent module** dari fungsi tersebut ke dalam scope, alih-alih mengimpor fungsinya secara langsung. Sebagai contoh, disarankan untuk menggunakan `use crate::front_of_house::hosting;` lalu memanggil `hosting::add_to_waitlist();`, daripada mengimpor fungsinya secara langsung dengan `use crate::front_of_house::hosting::add_to_waitlist;` kemudian memanggil `add_to_waitlist();`. Hal ini memberikan kejelasan visual bahwa fungsi tersebut didefinisikan di luar scope saat ini, bukan merupakan fungsi lokal.
 
-### 2. Untuk Struct, Enum, dan Item Lainnya: Bawa Path Lengkap
+### 2. Path Lengkap untuk Struct, Enum, dan Item Lainnya
 
 Sebaliknya, untuk tipe data seperti struct atau enum, biasanya kita mengimpor item tersebut secara langsung.
 
@@ -132,7 +132,7 @@ use std::collections::*;
 
 Peringatan: Gunakan operator glob dengan sangat hati-hati. Operator glob dapat mempersulit pembaca kode untuk mengetahui asal-usul suatu item, serta berisiko menimbulkan konflik nama jika modul tersebut menambahkan fungsi baru di masa mendatang. Biasanya, operator glob digunakan dalam file pengujian (testing) atau saat menyiapkan prelude.
 
-## Real-world Application: Penanganan Data JSON
+## Penanganan Data JSON
 
 Dalam pengembangan aplikasi web menggunakan Rust, kita sering menggunakan library `serde`. Penggunaan `use` sangat krusial di sini agar logika bisnis tidak terganggu oleh path modul yang panjang.
 

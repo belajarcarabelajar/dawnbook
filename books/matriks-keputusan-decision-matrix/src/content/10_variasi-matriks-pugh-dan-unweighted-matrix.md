@@ -1,4 +1,4 @@
-## Variasi Matriks: Matriks Pugh dan Unweighted Matrix
+## Variasi Matriks Pugh dan Unweighted Matrix
 
 Setelah memahami anatomi dasar dan cara menghitung bobot dalam matriks keputusan, mungkin kamu bertanya: *"Apakah aku selalu harus menghitung bobot yang rumit untuk setiap keputusan?"* Jawabannya adalah tidak.
 
@@ -33,7 +33,7 @@ $$
 
 Diciptakan oleh **Stuart Pugh**, seorang desainer industri ternama, Matriks Pugh (sering disebut *Pugh Concept Selection*) berbeda secara fundamental dari matriks lainnya. Alih-alih memberikan skor absolut (seperti 1-10), kamu membandingkan setiap alternatif terhadap sebuah **baseline** (tolok ukur).
 
-#### Konsep Dasar: "The Datum"
+#### Memilih Datum (Titik Referensi)
 
 Dalam Matriks Pugh, kamu harus memilih satu alternatif sebagai **datum** (titik referensi). Biasanya, datum adalah solusi yang sudah ada saat ini (*status quo*) atau kompetitor terkuat di pasar.
 
@@ -66,7 +66,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 2. **Peluang Hibrida**: Memungkinkan kamu melihat potensi penggabungan fitur positif dari Alternatif A dan B untuk menciptakan solusi baru yang lebih baik.
 3. **Berorientasi pada Perbaikan**: Sangat efektif dalam pengembangan produk (R&D) dengan fokus melampaui standar yang sudah ada.
 
-### Perbandingan Cepat: Kapan Menggunakan yang Mana?
+### Perbandingan Cepat Ketiga Matriks
 
 | Fitur | Unweighted Matrix | Matriks Pugh | Weighted Matrix |
 | --- | --- | --- | --- |
@@ -75,7 +75,7 @@ Jika kamu ingin mengganti perangkat lunak manajemen proyek (datum: Software Lama
 | **Input Penilaian** | Angka absolut (1-5) | Simbol relatif (+, -, S) | Skor berbobot |
 | **Waktu Pengerjaan** | Sangat Cepat | Cepat - Sedang | Cukup Lama |
 
-### Real-World Application: Skenario Perusahaan Teknologi
+### Perusahaan Teknologi Memilih Bahasa Pemrograman Baru
 
 **Skenario:** Sebuah perusahaan rintisan (*startup*) ingin memilih bahasa pemrograman baru untuk sistem *backend* mereka.
 

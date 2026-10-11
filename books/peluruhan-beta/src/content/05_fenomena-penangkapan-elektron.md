@@ -14,7 +14,7 @@ Berbeda dengan peluruhan Beta Plus ($\beta^+$) yang memancarkan positron, pada p
 
 Mengapa sebuah inti atom melakukan ini? Alasannya serupa dengan peluruhan Beta Plus: inti atom memiliki **rasio proton yang terlalu tinggi** dibandingkan neutron (terlalu banyak muatan positif).
 
-#### Proses di Tingkat Subatomik:
+#### Proses di Tingkat Subatomik
 
 Dalam proses ini, interaksi lemah menyebabkan proton ($p$) bereaksi dengan elektron ($e^-$). Hasil dari reaksi ini adalah sebuah neutron ($n$) dan sebuah partikel hantu yang disebut **neutrino** ($\nu_e$).
 
@@ -46,7 +46,7 @@ Ada faktor **Energi Ambang (Threshold Energy)**:
 
 *Hipotesis Fisika Nuklir: Tanpa mekanisme penangkapan elektron, sejumlah isotop radioaktif akan terperangkap dalam status tidak stabil secara permanen akibat ketiadaan ambang energi yang memadai untuk peluruhan beta plus.*
 
-### Efek Domino: Sinar-X Karakteristik dan Elektron Auger
+### Sinar-X Karakteristik dan Elektron Auger
 
 Penangkapan elektron menyisakan sebuah lubang pada kulit atom bagian dalam (biasanya di kulit K). Hal ini menciptakan ketidakstabilan pada awan elektron atom. Untuk memperbaikinya, elektron dari kulit yang lebih luar (seperti kulit L atau M) akan turun mengisi kekosongan tersebut.
 
@@ -57,7 +57,7 @@ Proses perpindahan elektron ini menghasilkan dua fenomena deteksi yang sangat pe
 
 **Penting:** Karena penangkapan elektron tidak memancarkan partikel beta yang mudah dideteksi, para ilmuwan biasanya mendeteksi fenomena ini dengan mengamati **Sinar-X** yang dipancarkan setelah proses tersebut terjadi.
 
-### Real-World Application: Penggunaan dalam Sains dan Medis
+### Penggunaan dalam Sains dan Medis
 
 Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luar biasa:
 

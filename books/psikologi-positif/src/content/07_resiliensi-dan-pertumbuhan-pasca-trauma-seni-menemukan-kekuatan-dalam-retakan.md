@@ -1,10 +1,10 @@
-## Resiliensi dan Pertumbuhan Pasca Trauma: Seni Menemukan Kekuatan dalam Retakan
+## Resiliensi dan Pertumbuhan Pasca Trauma
 
 Kehidupan tidak selalu berjalan mulus. Kadang-kadang, badai yang begitu hebat datang menghantam hingga fondasi diri terasa retak. Psikologi Positif memandang krisis ini dari sudut pandang yang berbeda. Alih-alih hanya berfokus pada upaya bertahan hidup, kita didorong untuk memanfaatkan tekanan tersebut agar bisa bertransformasi menjadi pribadi yang lebih tangguh dan bijaksana.
 
 Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit kembali) dan **Post-Traumatic Growth** (kemampuan untuk tumbuh melampaui kondisi sebelum krisis).
 
-### 1. Memahami Resiliensi: Sistem Imun Psikologis
+### 1. Memahami Resiliensi
 
 **Resiliensi** adalah kapasitas seseorang untuk beradaptasi secara positif saat menghadapi kesulitan, trauma, tragedi, atau tekanan hidup yang berat.
 
@@ -35,7 +35,7 @@ Penelitian oleh Tedeschi dan Calhoun menunjukkan ada lima area utama di mana ses
 - **Terbukanya kemungkinan baru dalam hidup**, seperti keberanian untuk berganti karier atau mengejar mimpi yang sebelumnya ragu dicoba.
 - **Transformasi spiritual atau eksistensial**: Pemahaman yang lebih utuh mengenai makna hidup dan kedamaian batin.
 
-### 3. Dari Trauma Menuju Pertumbuhan: Proses Kognitif
+### 3. Proses Kognitif dari Trauma Menuju Pertumbuhan
 
 Trauma itu sendiri tidak otomatis membuat seseorang tumbuh. Pertumbuhan terjadi melalui **cara individu memproses dan memaknai trauma tersebut.**
 

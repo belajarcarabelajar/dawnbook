@@ -10,7 +10,7 @@ Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menj
 
 > "Struktur pasar menentukan seberapa besar kekuatan yang dimiliki perusahaan untuk mengendalikan harga produk yang mereka jual."
 
-### Analogi: Arena Olahraga
+### Arena Olahraga
 
 Bayangkan struktur pasar sebagai sebuah jenis olahraga:
 
@@ -46,7 +46,7 @@ Seberapa mudah perusahaan baru untuk bergabung dalam industri ini?
 
 Apakah pembeli dan penjual memiliki informasi yang sempurna tentang harga dan kualitas? Dalam dunia nyata, sering terjadi **asimetri informasi**, di mana salah satu pihak tahu lebih banyak daripada pihak lain.
 
-## Klasifikasi Struktur Pasar: Spektrum Persaingan
+## Spektrum Persaingan
 
 Struktur pasar sering divisualisasikan sebagai sebuah spektrum, bergerak dari tingkat persaingan yang sangat tinggi hingga tidak ada persaingan sama sekali.
 
@@ -69,7 +69,7 @@ Memahami struktur pasar bukan hanya teori akademis. Hal ini memiliki dampak lang
 
 Sebagai contoh sehari-hari, coba perhatikan penyedia layanan internet di daerahmu. Berapa banyak pilihan yang kamu miliki? Berdasarkan jumlah penjualnya, kamu dapat mengidentifikasi struktur pasar yang sedang beroperasi di sana.
 
-## Penerapan di Dunia Nyata: Industri Transportasi
+## Klasifikasi pada Evolusi Industri Transportasi
 
 Mari kita terapkan klasifikasi ini pada evolusi transportasi:
 

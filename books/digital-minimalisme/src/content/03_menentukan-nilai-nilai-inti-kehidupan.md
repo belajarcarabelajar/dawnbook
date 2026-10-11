@@ -12,7 +12,7 @@ Digital Minimalisme adalah filosofi untuk **mengagungkan hal-hal yang kamu harga
 
 Bayangkan nilai-nilai inti kamu sebagai sebuah filter. Tanpa filter ini, setiap notifikasi, berita viral, dan tren terbaru akan masuk ke dalam hidup kamu tanpa hambatan. Dengan filter yang kuat, kamu hanya mengizinkan teknologi yang memberikan dampak nyata terhadap tujuan hidup kamu.
 
-#### Analogi: Kompas vs. Peta
+#### Kompas vs. Peta
 
 Peta digital (teknologi) menunjukkan kepada kamu ribuan jalan yang bisa ditempuh. Namun, tanpa **kompas** (nilai-nilai inti), kamu hanya akan berputar-putar tanpa arah, kelelahan mengikuti rute yang ditentukan oleh algoritma orang lain. Kompas tidak memberi tahu kamu setiap langkah, tetapi ia memberi tahu kamu **ke arah mana** kamu harus berjalan.
 
@@ -20,15 +20,15 @@ Peta digital (teknologi) menunjukkan kepada kamu ribuan jalan yang bisa ditempuh
 
 Langkah awal menentukan teknologi yang pantas dipertahankan adalah dengan mengidentifikasi nilai-nilai pribadimu.
 
-#### Langkah 1: Refleksi Pengalaman Puncak
+#### 1. Merefleksikan Pengalaman Puncak
 
 Ingatlah kembali tiga momen dalam hidup kamu di mana kamu merasa paling hidup, paling bangga, atau paling puas. Tanyakan pada diri sendiri apa yang sedang dikerjakan, siapa yang menemani, dan kualitas apa yang hadir dalam momen tersebut,seperti koneksi mendalam, kreativitas, ketenangan, atau tantangan fisik.
 
-#### Langkah 2: Memilih dari Daftar Nilai
+#### 2. Memilih Nilai dari Daftar
 
 Ambil 5-10 nilai yang paling beresonansi dengan kondisimu saat ini,apa yang *benar-benar* penting, bukan apa yang *seharusnya* penting. Nilai-nilai ini bisa berupa **kesehatan** fisik dan mental, **koneksi** mendalam dengan orang terdekat, **kreativitas** dalam berkarya, **pembelajaran** yang terus berkembang, **ketenangan** batin, **otonomi** untuk memegang kendali atas waktumu, atau **kontribusi** nyata bagi lingkungan sekitar.
 
-#### Langkah 3: Kategorisasi dan Prioritas
+#### 3. Kategorisasi dan Prioritas
 
 Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan bertindak sebagai "Tritunggal" penentu nasib setiap aplikasi di ponsel kamu.
 
@@ -51,7 +51,7 @@ Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat ting
 | **Kesehatan** | Strava | Memotivasi untuk lari dan melacak kemajuan fisik. | Pertahankan sebagai alat pendukung. |
 | **Ketenangan** | Berita Online | Memicu kecemasan dengan berita-berita sensasional. | Batasi akses hanya 15 menit sehari. |
 
-### Contoh Kasus: Maya, sang Desainer Grafis
+### Maya, sang Desainer Grafis
 
 Maya merasa selalu sibuk tapi tidak produktif. Setelah berefleksi, dia menemukan tiga nilai intinya: **Keahlian (Mastery)**, **Keluarga**, dan **Keheningan**.
 

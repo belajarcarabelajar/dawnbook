@@ -1,4 +1,4 @@
-## Pendekatan Kognitif: Peran Pikiran dalam Kepribadian
+## Pendekatan Kognitif
 
 Pendekatan kognitif dalam kepribadian berfokus pada bagaimana proses berpikir, interpretasi, dan konstruksi pribadi memengaruhi cara individu memahami dunia dan bertindak di dalamnya. Alih-alih melihat kepribadian sebagai kumpulan sifat atau hasil pengkondisian, pendekatan ini menekankan peran aktif pikiran dalam membentuk realitas subjektif seseorang beserta kepribadiannya. Manusia dipandang layaknya seorang ilmuwan yang terus-menerus menguji dan merevisi berbagai hipotesis tentang dunia demi merancang prediksi atas kejadian di masa depan.
 

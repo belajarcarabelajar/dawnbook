@@ -4,11 +4,11 @@ Selamat datang di dekade yang mengubah segalanya. Jika dekade 2000-an berfokus p
 
 Bayangkan K-drama pada awal tahun 2000-an bagaikan butik eksklusif yang hanya bisa kamu kunjungi jika kamu tahu persis lokasinya. Namun, memasuki era 2010-an, butik tersebut tiba-tiba membuka cabang di setiap sudut internet melalui platform *streaming* dan media sosial. Inilah masa ketika hambatan bahasa mulai runtuh oleh kekuatan interaksi digital dan koneksi internet cepat.
 
-## 1. Runtuhnya Batas Geografis: Peran Platform Streaming
+## 1. Platform Streaming dan Runtuhnya Batas Geografis
 
 Sebelum tahun 2010, penggemar K-drama di luar Asia harus bergantung pada DVD fisik yang mahal atau situs bajakan dengan kualitas video rendah serta terjemahan yang membingungkan.
 
-### Munculnya Platform Legal: Viki dan DramaFever
+### Munculnya Platform Legal Viki dan DramaFever
 
 Dua nama besar muncul sebagai pionir yang mengubah lanskap distribusi ini: **Viki** dan **DramaFever**.
 
@@ -28,7 +28,7 @@ $$
 
 Peningkatan pada aspek **Aksesibilitas Digital** (seperti kecepatan internet dan ketersediaan aplikasi) membuat efek dari **Kualitas Produksi** berlipat ganda secara eksponensial.
 
-## 2. Studi Kasus I: My Love from the Star (2013-2014)
+## 2. My Love from the Star (2013-2014)
 
 *Fenomena Alien dan Budaya Pop*
 
@@ -38,7 +38,7 @@ Ada beberapa faktor utama yang memicu ledakan kepopulerannya. Pertama, perpaduan
 
 Fenomena ini menunjukkan bagaimana *soft power* bekerja secara nyata dalam kehidupan sehari-hari, ketika keputusan konsumsi penonton terpengaruh langsung oleh apa yang mereka lihat di layar kaca.
 
-## 3. Studi Kasus II: Descendants of the Sun (2016)
+## 3. Descendants of the Sun (2016)
 
 *Revolusi Sistem Produksi*
 
@@ -52,13 +52,13 @@ Langkah berani ini diambil agar drama bisa lulus sensor ketat di China, sehingga
 
 Pencapaian utama DOTS sangat luar biasa. Drama ini mencetak rating fantastis di atas 30% di Korea Selatan. Lebih dari itu, kepopulerannya mendominasi lini masa media sosial global, membuktikan bahwa kisah bertema militer dan kemanusiaan memiliki daya tarik universal yang melintasi batas budaya.
 
-## 4. Media Sosial: Bahan Bakar Viralitas
+## 4. Media Sosial sebagai Bahan Bakar Viralitas
 
 Twitter (kini X), Facebook, dan Instagram berfungsi sebagai "ruang keluarga digital" bagi komunitas global. Penggemar tidak lagi menonton secara terisolasi; mereka aktif berdiskusi, membuat meme, dan membagikan cuplikan video secara langsung (*real-time*).
 
 Tagar di media sosial berfungsi layaknya daya tarik instan yang memicu rasa penasaran atau FOMO (*fear of missing out*) bagi mereka yang belum menonton. Di saat yang sama, YouTube diramaikan oleh maraknya *reaction videos* dari kreator Barat saat merespons berbagai *plot twist* K-drama. Hal ini secara tidak langsung mempercepat proses asimilasi budaya pop Korea ke dalam arus utama audiens global.
 
-## 5. Dampak Nyata: Ekonomi, K-beauty, dan Diplomasi Budaya
+## 5. Dampak Ekonomi, K-beauty, dan Diplomasi Budaya
 
 Dampak kesuksesan era 2010-an meluas jauh melampaui angka kepenontonan hingga merambah ke sektor riil perekonomian Korea Selatan.
 

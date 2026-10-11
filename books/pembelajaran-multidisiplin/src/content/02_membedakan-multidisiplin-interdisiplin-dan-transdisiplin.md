@@ -51,7 +51,7 @@ Bagaimana wujud nyatanya?
 *   **Clean Water Crisis Management di Pedesaan**
     Untuk mengatasi kelangkaan air, sebuah tim tidak hanya mengandalkan kolaborasi akademis antara *hydrologists* (Natural Sciences), *sociologists* (Social Sciences), dan *engineers* (Applied Sciences). Mereka juga bekerja sama dengan pembuat kebijakan setempat, tokoh adat, dan warga desa. Mulai dari pemetaan masalah hingga perancangan infrastruktur, semua keputusan diambil bersama. Kolaborasi ini melahirkan sistem pengelolaan air yang ramah budaya, berkelanjutan secara ekonomi, dan melampaui batas ilmu murni.
 
-### Perbandingan Kunci: Multidisciplinary, Interdisciplinary, dan Transdisciplinary
+### Perbandingan Kunci Ketiga Pendekatan
 
 Guna memudahkan kamu memetakan perbedaan ketiganya, perhatikan tabel perbandingan ringkas berikut:
 

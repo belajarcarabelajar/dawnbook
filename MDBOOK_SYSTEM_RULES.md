@@ -309,6 +309,8 @@ OrchestratorAgent
 | **Success gate** | `book.toml` contains `mathjax-support = true`, `language = "id"`, and `subject_label`. `SUMMARY.md` has >= 1 `- [` entry. First chapter filename begins with `01`. No emoji in `SUMMARY.md`. `book.toml` includes `additional-css` and `additional-js`. All chapter files are in `src/content/` (NOT `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/`. All chapters open with `##` (H2), not `#` (H1). `src/introduction.md` deleted. |
 | **Failure/rollback** | Report which success gate was not met. OrchestratorAgent re-invokes with corrected inputs. |
 
+- **Heading rule in every authoring prompt:** OrchestratorAgent MUST copy the heading anti-colon rule (no `:` in chapter headings, SUMMARY.md entries, or a new book's `book.toml` title; no dash or "dan" disguise; scaffold-label cap) into every AuthoringAgent dispatch prompt. The agent must then confirm `bun run scripts/check-heading-colons.ts` exits 0 before reporting. Source of truth: `GEMINI.md` section 24.
+
 ### 4.4 ValidationAgent
 
 | Field | Value |
@@ -843,6 +845,10 @@ If a subagent fails to respond or becomes stuck on a large file, OrchestratorAge
 
 Use exclusively `bash scripts/deploy-website.sh` for release. Direct manual `wrangler` commands forbidden. *(Cross-ref: R4, S6)*
 
+**7.11 No Colons in Headings (Heading Anti-Colon Rule)**
+
+No chapter heading (`##` to `######`), no `SUMMARY.md` entry title, and no new book's `book.toml` `title` may contain `:`. Rewrite `Label: Subjudul` into one natural phrase; replacing the colon with a dash, semicolon, parentheses, or a hollow "dan" is forbidden. A generic scaffold label (for example `Analogi`, `Studi Kasus`) may open at most 2 headings per book. A verbatim cited-work title may carry `<!-- heading-colon-ok: <reason> -->`. Verify with `bun run scripts/check-heading-colons.ts`. *(Cross-ref: `GEMINI.md` section 24, section 4.3, section 8 checklist)*
+
 ---
 
 ## 8. Self-Verification Checklist
@@ -862,6 +868,7 @@ Run this checklist before declaring a new book deployment "complete". Every item
 [ ] Phase B: src/introduction.md has been DELETED (not inherited from template).
 [ ] Phase B: SUMMARY.md has at least one '- [' line.
 [ ] Phase B: SUMMARY.md contains no emoji characters.
+[ ] Phase B: No chapter heading, SUMMARY.md entry, or book.toml title contains ':'. 'bun run scripts/check-heading-colons.ts' exits 0. (GEMINI.md section 24)
 [ ] Phase B: First entry in SUMMARY.md targets a file beginning with '01'.
 [ ] Phase B: icon.txt exists and contains a single emoji.
 [ ] Phase C: Slug matches /^[a-zA-Z0-9_-]+$/ and does not begin with '_'. (R2)

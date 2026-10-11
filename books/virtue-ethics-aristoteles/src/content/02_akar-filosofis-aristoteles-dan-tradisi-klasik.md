@@ -1,16 +1,16 @@
-## Akar Filosofis: Aristoteles dan Tradisi Klasik ️
+## Akar Filosofis Aristoteles
 
 Selamat datang di perjalanan kita menuju akar dari Etika Kebajikan. Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
 
 Dalam bagian ini, kita akan menyelami karya monumentalnya, *Nicomachean Ethics*, dan memahami mengapa perspektifnya mengubah cara manusia memandang kebaikan selama lebih dari dua milenium.
 
-### Pengantar: Mengapa Aristoteles?
+### Mengapa Aristoteles?
 
 Bayangkan kamu sedang melihat seorang pengukir kayu yang sangat mahir. Apakah dia menjadi mahir karena dia menghafal buku panduan tentang cara memahat? Ataukah karena dia telah melatih tangannya, matanya, dan seleranya selama bertahun-tahun hingga kemampuan itu menjadi bagian dari dirinya?
 
 Aristoteles percaya bahwa menjadi "orang baik" mirip dengan menjadi pengukir mahir tersebut. Moralitas bukanlah tentang mengikuti daftar panjang aturan "Jangan lakukan ini" atau "Lakukan itu". Sebaliknya, moralitas adalah tentang **menjadi jenis orang tertentu**.
 
-### Nicomachean Ethics: Manual Kehidupan yang Baik
+### Nicomachean Ethics
 
 Karya utama Aristoteles tentang etika disebut *Ethica Nicomachea* (Nicomachean Ethics). Nama ini diambil dari putranya (atau ayahnya), Nicomachus, yang menyunting catatan kuliah Aristoteles.
 
@@ -18,11 +18,11 @@ Dalam buku ini, Aristoteles tidak bertanya, *"Apa kewajiban saya?"* melainkan be
 
 > "Apa tujuan akhir dari hidup manusia (Telos)?" dan "Karakter seperti apa yang harus saya miliki untuk mencapainya?"
 
-### Konsep Utama: Teleologi (Tujuan Segala Sesuatu)
+### Teleologi (Tujuan Segala Sesuatu)
 
 Aristoteles adalah seorang **Teleologis** (dari kata Yunani *Telos* yang berarti "tujuan" atau "akhir"). Ia percaya bahwa segala sesuatu di alam semesta memiliki tujuan atau fungsi spesifik.
 
-### Pergeseran Fokus: Dari Tindakan ke Karakter
+### Dari Tindakan ke Karakter
 
 Dalam tradisi klasik yang dibangun Aristoteles, terdapat perbedaan mendasar dengan etika modern:
 
@@ -54,7 +54,7 @@ Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama 
 \text{Karakter} = (\text{Akal Budi} + \text{Emosi}) \times \text{Kebiasaan}
 \end{aligned}$$
 
-### Real-World Application: Kepemimpinan Berbasis Karakter
+### Kepemimpinan Berbasis Karakter
 
 Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key Performance Indicators) or kepatuhan terhadap SOP. Namun, ajaran Aristoteles mengingatkan kita bahwa **integritas pemimpin lebih penting daripada aturan tertulis.**
 

@@ -1,4 +1,4 @@
-## Gaya Kelekatan Aman (Secure Attachment): Sang Pelabuhan Emosional
+## Gaya Kelekatan Aman (Secure Attachment)
 
 Selamat datang di dasar kesehatan emosional manusia. Bila mengibaratkan perkembangan psikologis sebagai sebuah bangunan, maka gaya kelekatan aman (secure attachment) adalah fondasi beton yang paling kokoh. Individu dengan gaya ini tidak sekadar bertahan hidup dalam hubungan; mereka bertumbuh subur (thrive).
 
@@ -10,14 +10,14 @@ Gaya kelekatan aman adalah pola hubungan ketika seseorang merasa nyaman dengan k
 
 **Intinya:** Individu dengan kelekatan aman memiliki pandangan positif terhadap diri sendiri ("Saya layak dicintai") dan pandangan positif terhadap orang lain ("Orang lain secara umum dapat diandalkan dan baik").
 
-### Analogi: Kapal di Pelabuhan
+### Kapal di Pelabuhan
 
 Bayangkan sebuah kapal. Seorang individu dengan kelekatan aman adalah kapal yang memiliki sauh (jangkar) yang kuat dan pelabuhan yang ramah.
 
 * Saat badai datang, mereka tahu ada pelabuhan tempat mereka bisa pulang dan merasa aman (**Safe Haven**).
 * Saat cuaca cerah, mereka berani berlayar jauh ke samudera luas untuk bereksplorasi karena tahu pelabuhan itu akan selalu ada saat mereka kembali (**Secure Base**).
 
-## 2. Fondasi Pembentuk: Pola Asuh Responsif
+## 2. Pola Asuh Responsif
 
 Kelekatan aman tidak terjadi secara kebetulan. Ini adalah hasil dari ribuan interaksi kecil antara bayi dan pengasuh utamanya (biasanya orang tua). Kata kuncinya adalah responsivitas yang konsisten.
 
@@ -64,17 +64,17 @@ $$
 
 Di mana $K$ (kebutuhan akan orang lain) tidak mendominasi $M$ (kebutuhan akan otonomi), dan sebaliknya. Jika $K > M$ secara ekstrem, kita menuju kelekatan cemas. Jika $M > K$ secara ekstrem, kita menuju kelekatan menghindar.
 
-## 5. Aplikasi Dunia Nyata: Skenario Kehidupan
+## 5. Situasi Konflik Nyata
 
 Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyata:
 
-### Skenario A: Konflik Hubungan Romantis
+### Konflik Hubungan Romantis
 
 **Situasi:** Pasangan lupa mengabari bahwa mereka akan pulang terlambat dari kantor.
 
 * **Respons Individu Aman:** "Mungkin dia sangat sibuk atau baterai ponselnya habis. Saya akan menunggunya pulang dan bertanya baik-baik." Saat pasangan pulang, mereka berkata, *"Aku sempat khawatir tadi karena tidak ada kabar. Lain kali tolong kabari ya agar aku tenang."* (Tanpa drama, tanpa serangan personal).
 
-### Skenario B: Di Lingkungan Kerja
+### Kritik Tajam dari Atasan
 
 **Situasi:** Mendapat kritik tajam dari atasan saat presentasi.
 

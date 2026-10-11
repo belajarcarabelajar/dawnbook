@@ -1,4 +1,4 @@
-## Verifikasi Fakta dan Inokulasi: Membangun Ketahanan
+## Verifikasi Fakta dan Inokulasi
 
 Sepanjang buku ini kamu sudah melihat kenapa otak kita gampang tergelincir: bias kognitif, emosi yang dibajak, gema ruang media sosial, sampai motif orang yang sengaja menyebar kebohongan. Bab terakhir ini tidak lagi soal "kenapa", melainkan soal "lalu apa". Kabar baiknya, percaya hoaks bukan takdir. Kita akan bahas dua lapis pertahanan: yang reaktif, memeriksa sesuatu yang sudah terlanjur sampai ke tanganmu, dan yang preventif, "memvaksin" pikiranmu supaya lebih tahan sejak awal.
 
@@ -29,7 +29,7 @@ Kalau sebuah video memicu emosi kuat tapi sumber aslinya kabur, itu justru alasa
 
 Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Perhatikan alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
 
-### Dorongan akurasi: berhenti sejenak sebelum membagikan
+### Dorongan akurasi untuk berhenti sejenak sebelum membagikan
 
 Ada temuan yang mengejutkan sekaligus melegakan. Pennycook dan rekan-rekannya (2021), dalam riset di jurnal *Nature*, menunjukkan bahwa banyak orang menyebarkan misinformasi bukan karena benar-benar percaya, melainkan karena perhatian mereka teralih. Media sosial mendorong kita memikirkan apakah ini lucu, apakah akan disukai, apakah bikin aku terlihat pintar. Soal akurasi malah lupa ditanyakan.
 
@@ -39,7 +39,7 @@ Intervensinya sederhana. Cukup mengingatkan orang untuk memikirkan akurasi sebel
 
 Jadikan itu kebiasaan. Kamu tidak perlu jadi detektif untuk setiap unggahan, cukup memberi otakmu kesempatan berpikir.
 
-### Inokulasi psikologis: memvaksin pikiran
+### Inokulasi psikologis
 
 Semua teknik di atas bersifat reaktif: kamu bertindak setelah hoaks datang. Bagaimana kalau kita bisa membuat pikiran lebih tahan sebelum hoaks itu tiba? Di sinilah inokulasi psikologis masuk.
 
@@ -50,7 +50,7 @@ Idenya berasal dari William McGuire pada 1961 dan dikembangkan peneliti seperti 
 
 Pendekatan ini juga disebut *prebunking*: membekali orang sebelum kebohongan sempat menancap. Ia cenderung lebih efektif daripada *debunking* karena tidak melawan keyakinan yang sudah terbentuk.
 
-### Inokulasi berbasis teknik: kenali polanya, bukan cuma topiknya
+### Inokulasi berbasis teknik untuk mengenali pola, bukan cuma topik
 
 Membantah hoaks satu per satu itu melelahkan dan tak akan pernah selesai, karena hoaks baru terbit tiap hari. Pendekatan yang lebih ampuh adalah mengenali *teknik* yang dipakai, bukan menghafal klaimnya. Sekali paham polanya, kamu bisa mengenalinya di topik apa pun. Beberapa teknik yang paling sering muncul:
 

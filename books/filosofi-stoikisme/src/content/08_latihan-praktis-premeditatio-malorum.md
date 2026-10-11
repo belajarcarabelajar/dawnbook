@@ -1,4 +1,4 @@
-## Latihan Praktis: Premeditatio Malorum
+## Latihan Praktis Premeditatio Malorum
 
 Bayangkan kamu sedang merencanakan liburan impian ke pantai. kamu sudah membayangkan sinar matahari yang hangat, suara ombak yang menenangkan, dan es kelapa muda di tangan. Namun, begitu kamu tiba di bandara, penerbangan dibatalkan, koper kamu hilang, dan hujan badai diprediksi akan berlangsung seminggu penuh.
 
@@ -34,7 +34,7 @@ Sebagai manusia, kita sangat cepat terbiasa dengan hal-hal baik. Mobil baru, pro
 
 kamu bisa melakukan latihan ini setiap pagi (sebagai persiapan hari) atau secara berkala untuk hal-hal besar dalam hidup.
 
-### Langkah 1: Pilih Skenario
+### 1\. Pilih Skenario
 
 Mulai dari hal kecil hingga yang lebih menantang.
 
@@ -42,7 +42,7 @@ Mulai dari hal kecil hingga yang lebih menantang.
 - **Menengah:** Mendapat kritik tajam dari atasan atau kehilangan gawai (HP/Laptop).
 - **Besar:** Kehilangan pekerjaan atau mengalami masalah kesehatan.
 
-### Langkah 2: Visualisasikan Secara Detail
+### 2\. Visualisasikan Secara Detail
 
 Jangan hanya berpikir "mungkin saya akan gagal." Bayangkan detailnya. Jika kamu membayangkan kehilangan pekerjaan:
 
@@ -50,14 +50,14 @@ Jangan hanya berpikir "mungkin saya akan gagal." Bayangkan detailnya. Jika kamu 
 - Bagaimana kamu akan menjelaskan hal ini kepada keluarga?
 - Apa makanan yang akan kamu makan saat anggaran sangat terbatas?
 
-### Langkah 3: Gunakan Dikotomi Kendali
+### 3\. Gunakan Dikotomi Kendali
 
 Ini adalah bagian terpenting. Saat skenario buruk terjadi dalam pikiran kamu, tanyakan:
 
 - *"Apa yang tetap berada di bawah kendali saya dalam situasi ini?"*
 - *"Bagaimana saya bisa merespons dengan kebajikan (Virtue)?"*
 
-### Langkah 4: Buat Rencana Cadangan Mental
+### 4\. Buat Rencana Cadangan Mental
 
 Jika kamu membayangkan ban bocor di tengah jalan tol, bayangkan kamu keluar dari mobil dengan tenang, menghubungi bantuan, dan menggunakan waktu menunggu untuk membaca buku atau mendengarkan podcast bermanfaat, alih-alih memukul kemudi dengan marah.
 
@@ -84,21 +84,21 @@ def stoic_response(event, is_negative):
 stoic_response("Internet mati", True)
 ```
 
-## Real-World Application: Kasus Penggunaan Praktis
+## Penggunaan Praktis
 
-### Skenario A: Presentasi Bisnis
+### A. Presentasi Bisnis
 
 **Latihan:** Bayangkan proyektor rusak, audiens tidak tertarik, atau kamu lupa poin utama. **Hasil:** kamu akan menyiapkan salinan cetak materi (solusi praktis) dan mental kamu tetap stabil jika seseorang melontarkan pertanyaan sulit.
 
-### Skenario B: Hubungan Asmara
+### B. Hubungan Asmara
 
 **Latihan:** Bayangkan orang yang kamu cintai suatu saat akan pergi, baik karena perpisahan atau kematian (sejalan dengan *Memento Mori*). **Hasil:** Bukannya menjadi sedih, kamu justru akan berhenti bermain HP saat makan malam bersama mereka dan benar-benar menghargai kehadiran mereka malam ini.
 
-### Skenario C: Perjalanan Udara
+### C. Perjalanan Udara
 
 **Latihan:** Bayangkan antrean panjang, kursi yang tidak nyaman, dan tangisan bayi di sebelah kamu. **Hasil:** Saat itu benar-benar terjadi, kamu akan tersenyum dan berpikir, *"Ah, persis seperti yang saya bayangkan,"* dan ketenangan kamu tetap terjaga.
 
-## Perbedaan: Visualisasi Negatif vs. Kecemasan (Anxiety)
+## Visualisasi Negatif vs. Kecemasan (Anxiety)
 
 Banyak orang salah paham dan menganggap latihan ini sama dengan rasa cemas. Mari kita bedakan:
 

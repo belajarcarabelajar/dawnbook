@@ -1,4 +1,4 @@
-## Strategi Belajar Berbasis Neuroplastisitas: Mengukir Jalur Saraf yang Permanen
+## Strategi Belajar Berbasis Neuroplastisitas
 
 Selamat datang di inti operasional dari perjalanan neuroplastisitas kamu. Jika bab-bab sebelumnya telah menjelaskan *mengapa* otak bisa berubah, bagian ini akan fokus pada *bagaimana* kamu secara sengaja melakukan perubahan tersebut.
 
@@ -6,7 +6,7 @@ Bayangkan otak kamu adalah sebuah hutan belantara yang rimbun. Belajar hal baru 
 
 Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguatan sinapsis** yang dirancang untuk bekerja selaras dengan biologi otak kamu.
 
-### 1\. Active Recall: Memaksa Otak untuk Bekerja
+### 1\. Active Recall
 
 **Active Recall** (Pemanggilan Aktif) adalah praktik menguji diri sendiri untuk mengambil informasi dari memori, alih-alih sekadar membaca ulang atau meninjau materi secara pasif.
 
@@ -21,7 +21,7 @@ Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguat
 
 > **Penting:** Semakin sulit kamu berusaha mengingat, semakin kuat sinyal yang dikirimkan ke otak bahwa informasi ini sangat penting untuk dipertahankan.
 
-### 2\. Spaced Repetition: Melawan Kurva Melupakan
+### 2\. Spaced Repetition
 
 **Spaced Repetition** (Pengulangan Berjarak) adalah teknik mendistribusikan sesi belajar dalam interval waktu yang meningkat.
 
@@ -38,7 +38,7 @@ Strategi berikut bukan sekadar tips belajar biasa; ini adalah **protokol penguat
 3. **Review 3:** 10 hari kemudian.
 4. **Review 4:** 30 hari kemudian.
 
-### 3\. Interleaving: Mengacak Pola Belajar
+### 3\. Interleaving
 
 Kebanyakan orang belajar dengan cara *blocked practice* (belajar topik A sampai selesai, lalu B, lalu C). **Interleaving** adalah teknik mencampur berbagai topik atau jenis masalah dalam satu sesi belajar.
 
@@ -47,7 +47,7 @@ Kebanyakan orang belajar dengan cara *blocked practice* (belajar topik A sampai 
 
 *Analogi Ilusi Kemajuan: Belajar satu subjek selama berjam-jam sering memberikan rasa nyaman, namun rasa nyaman tersebut bisa jadi merupakan ilusi kemajuan kognitif. Rasa tertantang saat beralih antar topik justru menandakan bahwa sirkuit otak sedang aktif membentuk pola pemahaman baru.*
 
-### Real-world Application: Strategi Belajar Pemrograman
+### Strategi Belajar Pemrograman
 
 Mari kita lihat bagaimana teknik ini diterapkan dalam skenario nyata, misalnya belajar bahasa pemrograman Python.
 

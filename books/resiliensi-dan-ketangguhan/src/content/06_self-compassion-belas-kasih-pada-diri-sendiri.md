@@ -1,4 +1,4 @@
-## Self-Compassion: Belas Kasih pada Diri Sendiri
+## Self-Compassion
 
 Bayangkan seorang sahabat baikmu datang dengan wajah lesu dan bercerita bahwa ia baru saja melakukan kesalahan fatal di kantor yang membuatnya merasa gagal total. Apa yang akan kamu katakan padanya? Apakah kamu akan membentaknya, menyebutnya "bodoh", atau menyuruhnya untuk "menyerah saja karena memang tidak berbakat"?
 
@@ -48,7 +48,7 @@ Banyak orang ragu untuk menerapkan self-compassion karena takut akan menjadi pri
 | Self-compassion membuat kita malas atau tidak ambisius. | Penelitian menunjukkan self-compassion justru meningkatkan motivasi intrinsik karena kita tidak lagi takut akan kegagalan yang menghancurkan harga diri. |
 | Ini adalah bentuk kelemahan. | Membutuhkan keberanian besar untuk menghadapi rasa sakit dan kegagalan dengan kelembutan alih-alih pelarian atau kemarahan. |
 
-## Latihan Praktis: "Surat dari Sahabat Bijak"
+## Latihan "Surat dari Sahabat Bijak"
 
 Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu.
 
@@ -61,7 +61,7 @@ Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu
 
 *Jika kamu tidak akan mengatakan kata-kata kasar seperti itu kepada orang yang kamu cintai, mengapa kamu merasa pantas mengatakannya kepada dirimu sendiri?*
 
-## Real-World Application: Menghadapi Kegagalan Profesional
+## Menghadapi Kegagalan Profesional
 
 **Skenario:** Andi adalah seorang pengembang perangkat lunak yang secara tidak sengaja menghapus database utama perusahaan di hari Jumat sore. Sistem *down* selama 5 jam.
 
@@ -73,7 +73,7 @@ Ini adalah teknik kinestetik dan reflektif untuk melatih otot self-compassion-mu
 2. **Common Humanity:** "Setiap senior *developer* pasti pernah melakukan kesalahan teknis besar setidaknya sekali dalam karier mereka. Saya tidak sendirian."
 3. **Self-Kindness:** "Saya akan fokus memperbaiki sistem sekarang. Setelah ini, saya akan beristirahat karena otak saya butuh kejernihan untuk membuat laporan evaluasi yang jujur tanpa menghancurkan diri sendiri."
 
-## Kesimpulan: Kekuatan dalam Kelembutan
+## Kekuatan dalam Kelembutan
 
 Self-compassion tidak berarti memaafkan perilaku buruk atau mengabaikan tanggung jawab. Sebaliknya, ini adalah tentang memberikan dirimu **ruang aman** untuk belajar dari kesalahan tanpa harus hancur oleh kritik internal yang destruktif.
 

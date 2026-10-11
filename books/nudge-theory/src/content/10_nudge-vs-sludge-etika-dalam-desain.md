@@ -1,10 +1,10 @@
-## Nudge vs Sludge: Etika dalam Desain
+## Nudge vs Sludge dan Etika dalam Desain
 
 Dalam dunia *choice architecture*, kita belajar bahwa tidak ada desain yang netral. Setiap elemen dalam sebuah sistem (mulai dari urutan menu di kantin hingga tombol di aplikasi ponsel) akan memengaruhi keputusan seseorang. Namun, kekuatan untuk memengaruhi ini membawa tanggung jawab besar.
 
 Apakah kita sedang membantu orang mencapai tujuan mereka (*nudge*), atau kita justru mempersulit hidup mereka demi keuntungan kita sendiri (*sludge*)?
 
-## 1\. Memahami Perbedaan: Nudge vs. Sludge
+## 1\. Memahami Perbedaan Nudge vs. Sludge
 
 Secara sederhana, perbedaan antara *nudge* dan *sludge* terletak pada *intent* (tujuan) dan *friction* (hambatan).
 
@@ -20,7 +20,7 @@ Secara sederhana, perbedaan antara *nudge* dan *sludge* terletak pada *intent* (
 > 
 > *Nudge* berupa papan petunjuk jelas yang mengarahkanmu ke pintu keluar tercepat. Sementara itu, *sludge* ibarat tumpukan lumpur dan duri yang sengaja diletakkan di jalan tersebut agar kamu merasa lelah, lalu memutuskan untuk tetap tinggal di dalam taman lebih lama dan mungkin membeli camilan di sana.
 
-## 2\. Karakteristik Etis: Kapan Nudge Menjadi Manipulasi?
+## 2\. Kapan Nudge Menjadi Manipulasi?
 
 Untuk membedakan apakah sebuah desain bersifat etis atau manipulatif, kita dapat menggunakan tiga prinsip utama yang dirumuskan oleh Richard Thaler dan Cass Sunstein:
 
@@ -37,11 +37,11 @@ Untuk membedakan apakah sebuah desain bersifat etis atau manipulatif, kita dapat
 | **Gesekan (*Friction*)** | Mengurangi hambatan untuk kebaikan | Menambah hambatan untuk mencegah pilihan bebas |
 | **Hasil Akhir** | Membantu orang mencapai target mereka | Membuat orang merasa terjebak atau menyesal |
 
-## 3\. Dark Patterns: Wajah Digital dari Sludge
+## 3\. Dark Patterns sebagai Wajah Digital dari Sludge
 
 Dalam desain UI/UX, *sludge* sering bermanifestasi sebagai *dark patterns*. Ini adalah teknik manipulasi psikologis yang digunakan dalam situs web atau aplikasi.
 
-### Beberapa Contoh Kasus Teknis:
+### Beberapa Contoh Kasus Teknis
 
 1. **Roach Motel:** Sangat mudah untuk masuk ke dalam suatu situasi (seperti berlangganan), tetapi sangat sulit untuk keluar (berhenti berlangganan).
 2. **Sneak into Basket:** Menambahkan biaya tambahan atau item tambahan ke keranjang belanja secara otomatis tanpa persetujuan eksplisit.
@@ -81,13 +81,13 @@ Etika tidak hanya tentang menghindari hal buruk, tetapi juga aktif memperbaiki s
 
 Langkah pertama adalah melakukan *sludge audit* untuk mengidentifikasi di mana pelanggan atau karyawanmu mengalami hambatan yang tidak perlu, seperti formulir panjang atau birokrasi berbelit-belit. Selain itu, buatlah *default option* yang membantu dengan memastikan pilihan standar selalu menjadi opsi paling aman dan menguntungkan bagi pengguna awam.
 
-## 5\. Real-World Application: Perang Melawan Sludge
+## 5\. Perang Melawan Sludge
 
-### Kasus 1: Pendaftaran Universitas (Sludge)
+### Sludge pada Pendaftaran Universitas
 
 Di beberapa negara, formulir *financial aid* mahasiswa sangat rumit sehingga banyak anak dari keluarga prasejahtera menyerah sebelum menyelesaikannya. Hambatan ini menjadi *sludge* nyata yang menghalangi mobilitas sosial. Untuk mengatasinya, solusi *nudge* diterapkan dengan mengisi data secara otomatis (*pre-filling*) menggunakan data pajak yang sudah ada.
 
-### Kasus 2: Privasi Data (Sludge vs Nudge)
+### Sludge vs Nudge dalam Privasi Data
 
 Penerapan *sludge* biasanya terlihat saat tombol "Terima Semua Cookies" dibuat sangat mencolok, sementara opsi menolak disembunyikan di balik berlapis-lapis menu. Sebaliknya, *nudge* yang etis akan menyajikan dua pilihan dengan bobot visual yang seimbang sejak awal: "Terima Semua" dan "Atur Preferensi Saya".
 

@@ -1,4 +1,4 @@
-## Grounding: Teknik Membumi saat Terjadi Panik
+## Teknik Membumi (Grounding) saat Terjadi Panik
 
 Pernahkah kamu merasa seolah-olah pikiranmu "melayang" menjauh, atau terjebak dalam pusaran kecemasan yang membuat dunia di sekitarmu terasa tidak nyata? Dalam psikologi, fenomena ini sering disebut sebagai disosiasi (*dissociation*) atau *detachment*. Saat panik menyerang, otak cenderung beralih ke mode bertahan hidup yang ekstrem, mengabaikan realitas fisik demi ancaman yang ada dalam pikiran.
 
@@ -18,7 +18,7 @@ $$
 
 > **Intisari Membumi:** *Grounding* bertujuan menurunkan intensitas emosi sehingga kamu dapat kembali berpikir dengan jernih, tanpa harus memaksakan kecemasan hilang seketika.
 
-### Metode Sensory Grounding: Teknik 5-4-3-2-1
+### Metode Sensory Grounding 5-4-3-2-1
 
 Ini adalah teknik *grounding* yang sangat populer dan efektif karena melibatkan kelima indra. Metode *5-4-3-2-1 technique* membantu otak berhenti memproses skenario buruk di masa depan dan kembali fokus pada lingkungan fisik saat ini.
 
@@ -53,7 +53,7 @@ Jika panik terasa sangat kuat, manfaatkan sensasi fisik yang kontras. Ambil sebu
 
 - **Mekanisme Kerja:** Sensasi dingin yang kuat dari es batu menarik perhatian otak secara instan. Perhatianmu berpindah dari pikiran yang kalut menuju sensasi fisik di tangan.
 
-#### 2. Metode Kognitif: Kategorisasi
+#### 2. Menyebutkan Anggota Kategori
 
 Pilih satu kategori (seperti jenis hewan, nama kota, merek mobil, atau buah-buahan). Sebutkan sebanyak mungkin anggota kategori tersebut di dalam hati atau bersuara.
 
@@ -66,13 +66,13 @@ Hentakkan telapak kaki ke lantai dengan mantap. Rasakan pijakan kokoh antara tel
 
 - Saat rasa kecemasan membuat tubuh terasa melayang, menghentakkan kaki memberikan sinyal fisik yang kuat kepada otak bahwa kamu berdiri di atas permukaan yang aman dan nyata.
 
-### Analogi: Jangkar di Tengah Badai
+### Jangkar di Tengah Badai
 
 Bayangkan kamu sedang berada di perahu kecil di tengah lautan. Tiba-tiba badai panik datang dan gelombang laut bergulung tinggi. Fokus yang terpaku hanya pada gelombang akan memicu rasa pusing dan takut tenggelam.
 
 ***Grounding* bekerja seperti melempar jangkar ke dasar laut.** Jangkar tidak langsung menghentikan badai, tetapi menjaga perahu tetap stabil dan tidak terbawa arus hingga cuaca kembali tenang.
 
-### Penerapan Nyata: Skenario Praktis
+### Panik Sebelum Presentasi
 
 **Skenario: Panik Sebelum Presentasi**  
 Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jantungnya berdebar kencang, telapak tangannya dingin, dan kepalanya terasa pening. Dunia di sekitarnya seolah-olah berputar.

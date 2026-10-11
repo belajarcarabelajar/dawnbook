@@ -10,11 +10,11 @@ Dalam meta-analisisnya atas 691 korelasi, Steel (2007) memperlakukan perfeksioni
 
 Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23; 43 sampel; total N = 10.000) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22; 38 sampel; total N = 9.544). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
 
-#### Perfectionistic concerns: takut salah, cemas dinilai
+#### Perfectionistic concerns
 
 Ini sisi perfeksionisme yang berisi kekhawatiran. Isinya takut membuat kesalahan, merasa hasil kerja tidak pernah cukup, dan cemas terhadap penilaian orang lain. Karena setiap hasil terasa seperti ujian atas nilai diri, memulai pun terasa berisiko. Tidak heran kalau hubungannya dengan penundaan positif: semakin tinggi kekhawatiran ini, semakin cenderung seseorang menunda.
 
-#### Perfectionistic strivings: standar tinggi pribadi
+#### Perfectionistic strivings
 
 Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja sebaik-baiknya karena itu penting bagimu sendiri. Hubungannya dengan penundaan justru negatif: semakin kuat dorongan ini, cenderung semakin sedikit menunda.
 

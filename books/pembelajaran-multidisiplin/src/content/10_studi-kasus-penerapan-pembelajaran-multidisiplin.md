@@ -2,7 +2,7 @@
 
 Pembelajaran multidisiplin adalah pendekatan yang semakin penting dalam menghadapi kompleksitas dunia modern. Melalui integrasi berbagai disiplin ilmu, individu dan organisasi dapat mengembangkan pemahaman yang lebih menyeluruh serta menemukan solusi inovatif untuk berbagai tantangan. Bagian ini menyajikan beberapa studi kasus nyata yang menunjukkan bagaimana penerapan pembelajaran lintas disiplin ini menghasilkan dampak nyata di berbagai sektor.
 
-### 1. Pendidikan Tinggi: Menciptakan Lulusan Adaptif dan Berwawasan Luas
+### 1. Pendidikan Tinggi
 
 Pendidikan tinggi mulai merangkul pendekatan multidisiplin guna menyiapkan mahasiswa menghadapi dinamika dunia kerja serta tantangan global yang terus berkembang.
 
@@ -24,7 +24,7 @@ Pemerintah India meluncurkan Kebijakan Pendidikan Nasional (NEP) 2020 untuk meru
 
 Implementasi kebijakan ini membawa dampak positif yang besar. Mahasiswa merasakan kemerdekaan belajar yang lebih luas, yang secara langsung mempercepat kemampuan mereka dalam memecahkan masalah kompleks serta berpikir kritis. Pola pengajaran yang cair ini terbukti efektif dalam memupuk kerja sama tim, keterampilan berkomunikasi, dan pemahaman dunia yang tidak lagi terkotak-kotak.
 
-### 2. Riset Ilmiah: Mengatasi Tantangan Kompleks Melalui Kolaborasi
+### 2. Riset Ilmiah
 
 Ketika para ilmuwan berkolaborasi melintasi batas-batas bidang studi konvensional, mereka mampu melahirkan terobosan atas persoalan rumit yang mustahil diselesaikan oleh satu disiplin ilmu saja.
 
@@ -48,7 +48,7 @@ Integrasi keilmuan ini mempercepat inovasi dalam penanganan kanker. Hasilnya ter
 
 > "Kolaborasi interdisipliner telah membuka jalan bagi masa depan yang lebih baik, mulai dari memperluas pemahaman kita tentang otak hingga memengaruhi kebijakan untuk mengatasi perubahan iklim, meningkatkan eksplorasi ruang angkasa, menyingkap rahasia genom manusia, dan memajukan perjuangan kita melawan kanker."
 
-### 3. Pengembangan Produk Industri: Inovasi Terpadu Berorientasi Pengguna
+### 3. Pengembangan Produk Industri
 
 Dalam industri manufaktur dan teknologi, penerapan metode multidisiplin membantu tim mengintegrasikan seluruh proses pengembangan produk (sejak konsep awal desain hingga strategi pemasaran) sehingga produk yang dihasilkan lebih inovatif dan diterima pasar.
 
@@ -75,7 +75,7 @@ Pembuatan produk konsumen modern kini mengandalkan kolaborasi erat tim lintas fu
 
 Integrasi kerja ini memberikan perspektif menyeluruh terhadap seluruh rantai manufaktur. Perusahaan dapat mengidentifikasi kendala produksi lebih awal, mengoptimalkan efisiensi kerja, serta mengurangi sisa bahan produksi. Dampaknya sangat nyata: waktu rilis produk ke pasar (*time-to-market*) dapat dipercepat hingga 20% dibanding metode konvensional, sembari menghemat biaya operasional dan mendongkrak kualitas akhir produk.
 
-### 4. Inovasi Sosial: Solusi Berkelanjutan untuk Masyarakat
+### 4. Inovasi Sosial
 
 Masalah sosial jarang sekali berdiri sendiri. Karena memiliki keterkaitan erat dengan dimensi ekonomi, budaya, dan lingkungan, penanganan isu sosial menuntut pendekatan terintegrasi yang melibatkan banyak keahlian sekaligus.
 
@@ -91,13 +91,13 @@ Grameen Bank di Bangladesh, yang didirikan oleh ekonom Muhammad Yunus, memadukan
 
 Inovasi keuangan sosial ini berhasil membantu jutaan pelaku usaha kecil, yang sebagian besar adalah perempuan, untuk mandiri secara ekonomi dan keluar dari jerat kemiskinan. Keberhasilan Grameen Bank membuktikan bahwa penyesuaian instrumen keuangan dengan realitas sosial sanggup memicu perubahan kesejahteraan yang masif dan berkelanjutan di tingkat akar rumput.
 
-#### c. Kampung Flory, Sleman: Agrowisata Berbasis Komunitas
+#### c. Agrowisata Berbasis Komunitas Kampung Flory, Sleman
 
 Kampung Flory di Sleman, Daerah Istimewa Yogyakarta, menunjukkan bagaimana lahan pertanian konvensional dapat disulap menjadi destinasi agrowisata ramah lingkungan yang inklusif. Transformasi ini terwujud berkat kolaborasi erat antara warga desa, pemerintah daerah, pelaku usaha, dan akademisi, yang didukung oleh pemanfaatan teknologi digital untuk promosi dan manajemen.
 
 Keberhasilan Kampung Flory tidak hanya mendongkrak perekonomian lokal dan menciptakan lapangan kerja baru bagi generasi muda, tetapi juga mempererat ikatan sosial antarwarga. Proyek agrowisata ini menjadi bukti konkret bahwa perencanaan wilayah yang melibatkan berbagai pemangku kepentingan mampu melahirkan nilai ekonomi sekaligus melestarikan lingkungan.
 
-#### d. InnoCentive: Crowdsourcing untuk Pemecahan Masalah Global
+#### d. Platform Crowdsourcing InnoCentive
 
 InnoCentive merupakan platform daring yang memfasilitasi organisasi, termasuk lembaga nirlaba seperti *Rockefeller Foundation*, untuk melempar berbagai tantangan sosial maupun ilmiah kepada publik. Melalui wadah ini, jaringan global yang beranggotakan ratusan ribu ilmuwan, insinyur, dan desainer dapat menyumbangkan keahlian mereka.
 

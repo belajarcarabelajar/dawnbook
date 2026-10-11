@@ -1,4 +1,4 @@
-## Otak Pengotomat: Basal Ganglia dan Dopamin
+## Otak Pengotomat di Basal Ganglia dan Dopamin
 
 Pernah sampai di rumah, lalu sadar bahwa kamu hampir tidak ingat perjalanan tadi? Lampu merah dilewati seperti seharusnya, belokan khas diambil di tempat yang biasa, jalan berlubang dihindari tanpa berpikir. Semuanya tuntas rapi, sementara kepalamu sedang jauh, sibuk merencanakan pekan depan atau mengulang dialog kemarin. Yang bikin merinding bukan jalannya, tapi ketidakhadiranmu di dalamnya. Kalau kamu yang sadar tidak ikut menyetir, lalu siapa yang menyetir?
 

@@ -1,4 +1,4 @@
-## Ketegangan Perang Dingin: Blok Barat vs Blok Timur di Lapangan Hijau
+## Ketegangan Perang Dingin di Lapangan Hijau
 
 Bayangkan papan catur raksasa dengan atlet-atlet elit sebagai bidak hidup yang berlari di atas rumput hijau. Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Turnamen ini menjelma sebagai palagan "perang tanpa peluru" antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
 
@@ -12,7 +12,7 @@ Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemai
 
 Upaya ini berfokus pada dua hal. Pertama, legitimasi sistem. Kemenangan di Piala Dunia membuktikan bahwa rakyat di bawah bendera komunisme lebih sehat, tangguh, dan terorganisir dibandingkan masyarakat Barat yang dicap dekaden. Kedua, propaganda domestik. Skor pertandingan dipajang sebagai berita utama surat kabar guna mengalihkan perhatian dari kesulitan ekonomi di dalam negeri.
 
-### 1974: Pertarungan Dua Saudara (Jerman Barat vs Jerman Timur)
+### Pertarungan Dua Saudara 1974 (Jerman Barat vs Jerman Timur)
 
 Salah satu momen paling ikonik dalam sejarah geopolitik sepak bola terjadi pada Piala Dunia 1974. Untuk pertama dan terakhir kalinya dalam sejarah, **Jerman Barat (BRD)** dan **Jerman Timur (DDR)** bertemu di babak penyisihan grup.
 
@@ -32,7 +32,7 @@ Semua bermula ketika kudeta militer pimpinan Jenderal Augusto Pinochet, yang did
 
 **Hasilnya?** FIFA tetap memerintahkan pertandingan berjalan. Uni Soviet tidak datang. Chile turun ke lapangan tanpa lawan, menendang bola ke gawang kosong, dan dinyatakan menang. Pertandingan ini selamanya dikenal sebagai **"The Game of Ghosts"** (Pertandingan Hantu).
 
-### Rivalitas di Luar Lapangan: Spionase dan Defeksi
+### Spionase dan Defeksi di Luar Lapangan
 
 Dalam atmosfer Perang Dingin, perpindahan pemain ke seberang blok dianggap sebagai tindakan **Defeksi** (pelarian politik), jauh melampaui transaksi transfer klub komersial.
 
@@ -40,7 +40,7 @@ Salah satu contoh legendaris terjadi saat Revolusi Hungaria ditumpas oleh tank-t
 
 Guna mencegah insiden serupa, tim-tim Blok Timur yang bertanding di negara Barat selalu dikawal ketat oleh agen rahasia seperti Stasi atau KGB. Pengawasan melekat ini bertujuan memastikan tidak ada pemain yang mencoba mencari suaka politik di tengah turnamen.
 
-### Tabel Perbandingan: Pendekatan Sepak Bola Perang Dingin
+### Perbandingan Pendekatan Sepak Bola Perang Dingin
 
 | Fitur | Blok Barat (AS & Sekutu) | Blok Timur (Uni Soviet & Satelit) |
 | --- | --- | --- |
@@ -49,7 +49,7 @@ Guna mencegah insiden serupa, tim-tim Blok Timur yang bertanding di negara Barat
 | **Gaya Permainan** | Berfokus pada Kreativitas Individu | Berfokus pada Sistem dan Fisik |
 | **Dukungan Dana** | Sponsor Swasta & Penjualan Tiket | Anggaran Pendapatan Negara (APN) |
 
-### Real-world Application: Dampak yang Masih Terasa
+### Dampak yang Masih Terasa
 
 Meskipun era ketegangan geopolitik tersebut telah berlalu, warisannya masih membekas kuat di lapangan hijau. Pertandingan yang mempertemukan Rusia, sebagai ahli waris Uni Soviet, dengan negara-negara bekas Blok Timur seperti Polandia atau Ukraina hampir selalu diselimuti ketegangan psikologis yang berakar dari memori kolektif masa lalu. Di sisi lain, metode latihan fisik super keras yang dahulu dikembangkan Blok Timur kini banyak diadopsi oleh akademi sepak bola modern di seluruh dunia untuk melahirkan pemain berkondisi fisik prima.
 

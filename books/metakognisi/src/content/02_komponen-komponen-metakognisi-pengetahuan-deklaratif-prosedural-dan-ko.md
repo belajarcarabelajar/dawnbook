@@ -1,8 +1,8 @@
-## Komponen-Komponen Metakognisi: Pengetahuan Deklaratif, Prosedural, dan Kondisional
+## Komponen-Komponen Metakognisi
 
 Metakognisi sering disebut sebagai "berpikir tentang berpikir". Sebenarnya, ini adalah kemampuan dasar yang membuat kita sadar, mampu mengontrol, sekaligus mengevaluasi cara kita sendiri dalam memproses informasi. Istilah ini pertama kali dikenalkan oleh John Flavell pada tahun 1976. Kalau kita mau membedah metakognisi lebih dalam, ada tiga komponen utama yang membentuk kesadaran metakognitif: pengetahuan deklaratif, prosedural, dan kondisional. Ketiga hal inilah yang nantinya sangat menentukan seberapa efektif cara belajar seseorang.
 
-## 1. Pengetahuan Deklaratif: "Apa yang Saya Ketahui"
+## 1. Pengetahuan Deklaratif
 
 Pengetahuan deklaratif adalah aspek "apa" dari metakognisi. Bagian ini berfokus pada pemahaman tentang fakta, konsep, dan informasi yang kamu miliki. Ini juga termasuk seberapa jauh kamu mengenali diri sendiri sebagai seorang pembelajar. Pengetahuan semacam ini sifatnya eksplisit, artinya kamu bisa mengungkapkannya secara langsung lewat kata-kata atau tulisan.
 
@@ -16,7 +16,7 @@ Contoh sederhananya begini:
 - Seorang mahasiswa tahu betul bahwa menghadapi ujian pilihan ganda butuh pendekatan yang beda dibanding soal esai.
 - Kamu paham kalau bikin jadwal belajar yang teratur itu ampuh buat membantu mengingat materi lebih lama.
 
-## 2. Pengetahuan Prosedural: "Bagaimana Saya Tahu"
+## 2. Pengetahuan Prosedural
 
 Kalau deklaratif bicara soal "apa", pengetahuan prosedural adalah tentang "bagaimana" kamu melakukan sesuatu. Di sini, fokusnya ada pada langkah-langkah konkret atau cara mengeksekusi sebuah strategi belajar.
 
@@ -30,7 +30,7 @@ Contoh penerapan prosedural:
 - Seorang programmer tahu persis *langkah-langkah* melakukan *debugging* saat kodenya error.
 - Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus $\text{momentum} = \text{massa} \times \text{kecepatan}$.
 
-## 3. Pengetahuan Kondisional: "Kapan dan Mengapa Saya Menggunakannya"
+## 3. Pengetahuan Kondisional
 
 Nah, pengetahuan kondisional ini yang paling strategis sifatnya. Bagian ini menjawab pertanyaan "kapan" dan "mengapa" sebuah teknik atau strategi harus dipakai. Tanpa ini, pengetahuan tentang "apa" dan "bagaimana" bisa jadi kurang maksimal karena kamu mungkin salah memilih strategi untuk situasi tertentu.
 

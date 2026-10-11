@@ -28,7 +28,7 @@ Dari persamaan di atas terlihat jelas bahwa untuk memperkecil kecepatan pendarat
 
 > **Prinsip Utama:** Perangkat *high-lift* bekerja melalui tiga mekanisme fundamental: menambah kelengkungan garis tengah airfoil (*camber*), meningkatkan luas efektif sayap ($S$), serta menyuntikkan energi kinetik ke lapisan batas (*boundary layer control*) untuk menunda separasi aliran pada sudut serang (*Angle of Attack* / $\text{AoA}$) tinggi.
 
-### 2. Perangkat Tepi Depan: Slats dan Slots
+### 2. Slats dan Slots di Tepi Depan
 
 Perangkat *leading edge* berlokasi di bagian depan sayap dan berfungsi mengondisikan struktur aliran udara sebelum melintasi bagian atas sayap (*suction side*).
 
@@ -40,7 +40,7 @@ Perangkat *leading edge* berlokasi di bagian depan sayap dan berfungsi mengondis
 #### Slots
 *Slots* memiliki fungsi fisik yang identik dengan *slats*, namun berupa celah tetap (*fixed slot*) yang terpasang permanen pada struktur sayap. Struktur ini umum diaplikasikan pada pesawat latih ringan atau pesawat komuter berkecepatan rendah (STOL - *Short Take-Off and Landing*) demi keandalan mekanis tanpa beban aktuator tambahan.
 
-### 3. Perangkat Tepi Belakang: Varian Flaps
+### 3. Varian Flaps di Tepi Belakang
 
 *Flaps* terletak di tepi belakang (*trailing edge*) sayap dan merupakan mekanisme penambah gaya angkat yang paling dominan digunakan dalam penerbangan:
 
@@ -53,11 +53,11 @@ Perangkat *leading edge* berlokasi di bagian depan sayap dan berfungsi mengondis
 
 > **Pertimbangan Perancangan:** Pesawat transport sipil modern umumnya memilih varian *slotted* atau *Fowler flap* multi-elemen karena kombinasi perluasan luas sayap dan kontrol lapisan batas memberikan rasio efisiensi aerodinamika ($L/D$) yang terkontrol pada setiap tahapan defleksi.
 
-### 4. Spoilers: Pereduksi Gaya Angkat dan Peningkat Drag
+### 4. Spoilers
 
 Jika *flaps* dan *slats* bertugas melipatgandakan gaya angkat, **spoilers** bekerja dengan prinsip sebaliknya. Terpasang di permukaan atas sayap, *spoiler* adalah pelat mekanis yang dapat diangkat ke atas untuk merusak (*spoil*) kontur aliran udara laminer di atas sayap.
 
-#### Fungsi Utama Spoiler:
+#### Fungsi Utama Spoiler
 - **Lift Dumping (Pendaratan):** Sesaat setelah roda utama menyentuh landasan pacu (*touchdown*), seluruh panel *ground spoiler* akan membuka penuh secara otomatis. Hal ini melenyapkan gaya angkat seketika sehingga seluruh bobot pesawat bertumpu pada roda pendarat (*landing gear*), memaksimalkan gaya gesek dan efisiensi pengereman mekanis/antiskid.
 - **In-Flight Speed Brakes:** Membuka sebagian panel *spoiler* saat terbang jelajah atau fase desensus meningkatkan gaya hambat (*drag*) secara signifikan tanpa mengganggu kestabilan pitch, memungkinkan laju penurunan (*descent rate*) yang curam tanpa terjadi penambahan kecepatan berlebih.
 - **Roll Assist (Kontrol Guling):** Beroperasi secara asimetris bersama bidang kendali *aileron* untuk meningkatkan respon belok pesawat pada kecepatan rendah maupun tinggi.

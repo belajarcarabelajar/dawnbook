@@ -1,10 +1,10 @@
-## Logoterapi: Menemukan Makna dalam Penderitaan
+## Logoterapi dan Makna dalam Penderitaan
 
 Pernahkah kamu bertanya-tanya, apa yang membuat seseorang mampu bertahan di tengah badai kehidupan yang paling dahsyat, sementara yang lain menyerah? Viktor Frankl, seorang psikiater asal Wina dan penyintas Holocaust, menemukan jawabannya di tengah kekejaman barak-barak kamp konsentrasi Nazi, bukan di dalam laboratorium steril.
 
 Logoterapi, yang sering disebut sebagai "Aliran Psikoterapi Wina Ketiga", berfokus pada satu keyakinan fundamental: dorongan utama manusia adalah pencarian makna, bukan kesenangan (seperti teori Freud) atau kekuasaan (seperti teori Adler).
 
-### 1. Sosok di Balik Teori: Viktor Frankl dan Kamp Konsentrasi
+### 1. Viktor Frankl dan Kamp Konsentrasi
 
 Untuk memahami Logoterapi, kita harus melihat konteks kelahirannya. Viktor Frankl menghabiskan tiga tahun di berbagai kamp konsentrasi, termasuk Auschwitz. Di sana, ia kehilangan segalanya: keluarga, identitas, harta benda, hingga naskah bukunya yang sangat berharga.
 
@@ -22,7 +22,7 @@ Logoterapi dibangun di atas tiga landasan filosofis yang saling berkaitan:
 2. **Kehendak untuk Bermakna (*Will to Meaning*):** Motivasi utama manusia adalah mencari makna. Jika kehendak ini terhambat, manusia akan mengalami "kekosongan eksistensial" yang sering berujung pada depresi, agresi, atau kecanduan.
 3. **Makna Hidup (*Meaning in Life*):** Makna itu objektif; ia ada di dunia untuk kita temukan, bukan sesuatu yang kita ciptakan secara bebas tanpa dasar (berbeda sedikit dengan pandangan Sartre yang lebih radikal).
 
-### 3. Cara Menemukan Makna: Tiga Jalan Utama
+### 3. Tiga Jalan Utama Menemukan Makna
 
 Frankl berpendapat bahwa kita dapat menemukan makna melalui tiga pintu utama. Mari kita gunakan analogi sebuah **perjalanan mendaki gunung**:
 
@@ -72,7 +72,7 @@ Frankl merancang metode praktis untuk membebaskan pasien dari lingkaran setan ke
 
 ### 6. Aplikasi Dunia Nyata dan Skenario
 
-#### Skenario: Menghadapi Kehilangan Pekerjaan
+#### Menghadapi Kehilangan Pekerjaan
 
 Bayangkan seseorang yang kehilangan pekerjaan yang telah ia rintis selama dua dekade.
 

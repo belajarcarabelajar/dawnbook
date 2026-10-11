@@ -4,7 +4,7 @@ Pernahkah seseorang terbangun di tengah malam dalam ruangan yang gelap gulita, n
 
 Kesadaran spasial ini bukanlah kebetulan, melainkan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
 
-### 1. Gerbang Kesadaran: Peran Thalamus
+### 1. Peran Thalamus
 
 Sebelum informasi dari telinga dalam mencapai kesadaran di korteks serebri, sinyal saraf harus melewati stasiun relai utama otak, yaitu **Thalamus**.
 
@@ -15,7 +15,7 @@ Informasi yang berasal dari nukleus vestibularis di batang otak tidak langsung d
 
 > **Analogi Sederhana:** Thalamus dapat diibaratkan sebagai **meja resepsionis** di sebuah gedung pertemuan. Sebelum para tamu (sinyal saraf) memasuki ruangan khusus (korteks), resepsionis memverifikasi data dan menentukan ruangan tujuan yang tepat agar pemrosesan informasi berlangsung teratur tanpa kekacauan sinyal.
 
-### 2. Korteks Vestibular: Sebuah Jaringan, Bukan Satu Titik
+### 2. Jaringan Korteks Vestibular
 
 Berbeda dengan sistem penglihatan yang memiliki pusat primer terpusat seperti Korteks Visual Primer (V1), sistem vestibular tidak memiliki satu area kortikal tunggal yang mendominasi secara eksklusif. Persepsi ruang terbentuk melalui **jaringan multisensorik** yang tersebar di beberapa area korteks.
 

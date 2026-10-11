@@ -1,4 +1,4 @@
-## Dopamin Tonik vs. Fasik: Memahami Baseline
+## Dopamin Tonik vs. Fasik
 
 Pernahkah kamu terbangun di pagi hari merasa sangat bersemangat dan siap menaklukkan dunia tanpa alasan yang jelas? Atau sebaliknya, merasa lesu dan tidak bermotivasi meskipun tidak ada hal buruk yang terjadi? Kunci dari fluktuasi perasaan ini terletak pada bagaimana otak kamu mengelola "stok" dopaminnya.
 
@@ -6,7 +6,7 @@ Dalam memahami neurobiologi motivasi, kita harus membedakan antara dua cara dopa
 
 ---
 
-### Analogi Samudra: Ketinggian Air vs. Gelombang
+### Ketinggian Air vs. Gelombang
 
 Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
@@ -29,11 +29,11 @@ Untuk memahami perbedaan ini, bayangkan sebuah samudra:
 
 ---
 
-### 1. Dopamin Tonik: Bahan Bakar Dasar Kehidupan
+### 1. Dopamin Tonik
 
 **Dopamin Tonik** merujuk pada jumlah dopamin yang terus-menerus bersirkulasi di otak kamu setiap saat. Ini adalah "latar belakang" dari kondisi mental kamu.
 
-#### Karakteristik Dopamin Tonik:
+#### Karakteristik Dopamin Tonik
 
 - **Stabilitas:** Tidak berubah secara drastis dalam hitungan detik; ia cenderung stabil selama berjam-jam atau berhari-hari.
 - **Fungsi:** Mengatur ambang batas (*threshold*) motivasi, kesiapan untuk bergerak, dan suasana hati secara umum.
@@ -50,11 +50,11 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### 2. Dopamin Fasik: Ledakan Ambisi Sesaat
+### 2. Dopamin Fasik
 
 **Dopamin Fasik** adalah pelepasan dopamin dalam jumlah besar secara tiba-tiba sebagai respons terhadap isyarat atau imbalan (*reward*).
 
-#### Karakteristik Dopamin Fasik:
+#### Karakteristik Dopamin Fasik
 
 - **Kecepatan:** Terjadi dalam hitungan milidetik hingga detik.
 - **Pemicu:** Hal-hal baru (*novelty*), makanan lezat, notifikasi media sosial, atau pencapaian target.
@@ -64,7 +64,7 @@ Jika $B$ (Tonik) kamu sangat rendah, bahkan $S$ (fasik/stimulus) yang besar pun 
 
 ---
 
-### 3. Dinamika Hubungan: Mengapa "High" Diikuti "Low"?
+### 3. Mengapa "High" Diikuti "Low"?
 
 Salah satu hukum paling krusial dalam neurobiologi adalah **homeostasis**. Otak selalu berusaha menyeimbangkan kadar dopamin.
 
@@ -72,7 +72,7 @@ Ketika kamu mengalami lonjakan dopamin fasik yang sangat tinggi (misalnya memena
 
 > **Hukum Homeostasis:** Semakin tinggi lonjakan fasik yang kamu kejar secara tidak alami, semakin rendah baseline tonik kamu akan merosot di kemudian hari.
 
-#### Visualisasi Proses Downregulation:
+#### Visualisasi Proses Downregulation
 
 $$
 \text{Baseline Normal} = 100\text{\%}
@@ -94,17 +94,17 @@ Setelah siklus ini terjadi, kamu merasa hampa dan sedih karena baseline baru yan
 
 ---
 
-### ️ Aplikasi Dunia Nyata: Mengelola Energi dan Mood
+### Mengelola Energi dan Mood
 
 Bagaimana pengetahuan ini bisa membantu produktivitas kamu?
 
-#### Kasus 1: Ketergantungan Kafein
+#### Ketergantungan Kafein
 
 Kopi meningkatkan dopamin secara fasik. Jika dikonsumsi berlebihan, otak akan menurunkan baseline tonik kamu agar tidak "terlalu bersemangat". Akibatnya, kamu butuh kopi hanya untuk merasa "normal" (kembali ke baseline lama). 
 
 - **Strategi:** Gunakan *caffeine cycling* (istirahat konsumsi kopi secara periodik) untuk memulihkan baseline tonik.
 
-#### Kasus 2: Maraton Media Sosial
+#### Maraton Media Sosial
 
 Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Hal ini menguras "cadangan" dopamin kamu. Itulah sebabnya setelah berjam-jam di media sosial, kamu merasa sangat sulit untuk mulai mengerjakan tugas yang membutuhkan fokus tinggi (seperti menulis laporan atau belajar).
 

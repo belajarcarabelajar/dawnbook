@@ -1,4 +1,4 @@
-## Etika Kebajikan vs Teori Etika Modern: Karakter, Aturan, atau Hasil?
+## Etika Kebajikan vs Teori Etika Modern
 
 Pernahkah kamu terjebak dalam dilema moral dan bertanya pada diri sendiri: *"Apa yang seharusnya saya lakukan?"*
 
@@ -52,7 +52,7 @@ Pendekatan ini juga mengakui bahwa kehidupan itu rumit. Tindakan berani di medan
 
 Selain itu, teori modern lebih sering terpusat pada momen saat ini mengenai apa yang harus dilakukan segera. Etika Kebajikan melihat ke masa depan dan mempertimbangkan bagaimana tindakan hari ini akan membentuk diri di kemudian hari.
 
-### 6. Skenario Real-World: Krisis di Perusahaan
+### 6. Krisis di Perusahaan
 
 Sebagai contoh, bayangkan seorang manajer menemukan produk perusahaannya memiliki cacat kecil yang mengurangi umur pakai. Melaporkan hal ini akan menurunkan keuntungan perusahaan secara drastis.
 

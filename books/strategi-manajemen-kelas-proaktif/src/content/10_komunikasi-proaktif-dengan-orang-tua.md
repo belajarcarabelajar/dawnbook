@@ -1,16 +1,16 @@
-# Komunikasi Proaktif dengan Orang Tua: Membangun Jembatan Keberhasilan Siswa
+# Komunikasi Proaktif dengan Orang Tua
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 
 **Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana namun kuat: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
 
-## 1. Paradigma Baru: Dari Reaktif ke Proaktif
+## 1. Dari Reaktif ke Proaktif
 
 Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
 
 **Analogi Jembatan:** Bayangkan komunikasi adalah sebuah jembatan. Jika kamu baru mulai membangun jembatan saat badai (masalah siswa) datang, kemungkinan besar jembatan itu akan roboh. Namun, jika jembatan dibangun dengan kokoh saat cuaca cerah (sejak awal semester), jembatan itu akan mampu menahan beban seberat apa pun saat krisis terjadi.
 
-### Perbedaan Utama:
+### Perbedaan Utama
 
 | Aspek | Komunikasi Reaktif | Komunikasi Proaktif |
 | --- | --- | --- |
@@ -29,15 +29,15 @@ Jangan menunggu nilai ujian 100 untuk menghubungi orang tua. Laporkan perubahan 
 
 - *Contoh:* "Bapak/Ibu, hari ini Budi sangat berinisiatif membantu merapikan kursi setelah kelas usai. Saya sangat menghargai perkembangan tanggung jawabnya."
 
-### Menggunakan Rumus 3:13:1
+### Menggunakan Rumus Rasio 3 banding 1
 
 Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. $\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}$ *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
 
-## 3. Menciptakan Konsistensi Perilaku: Sekolah vs Rumah
+## 3. Menciptakan Konsistensi Perilaku Sekolah vs Rumah
 
 Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
 
-### Langkah Kolaborasi Berkelanjutan:
+### Langkah Kolaborasi Berkelanjutan
 
 1. **Penyamaan Ekspektasi:** Bagikan norma kelas yang telah dibuat bersama siswa kepada orang tua di awal semester.
 2. **Bahasa yang Seragam:** Jika di kelas kita menggunakan istilah "Gunakan Suara Level 2" untuk diskusi kelompok, ajarkan istilah ini kepada orang tua agar bisa digunakan saat anak belajar di rumah.
@@ -63,7 +63,7 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 2. **Isi (Masalah):** Sampaikan fakta perilaku yang perlu diperbaiki secara objektif (tanpa menghakimi).
 3. **Roti Bawah (Solusi & Optimisme):** Ajakan untuk bekerja sama mencari solusi.
 
-### Contoh Skenario:
+### Contoh Pesan Sandwich
 
 **Konteks:** Seorang siswa sering mengganggu teman saat jam pelajaran.
 
@@ -85,7 +85,7 @@ untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas
 agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya."
 ```
 
-## 6. Real-World Application: Rencana Aksi 30 Hari
+## 6. Rencana Aksi 30 Hari
 
 Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah praktisnya:
 

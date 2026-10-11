@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan sebuah "obat ajaib" yang terbukti secara ilmiah dapa
 
 Rasa syukur tidak sebatas ucapan "terima kasih" demi sopan santun. Praktik ini merupakan bentuk pengakuan mendalam terhadap kebaikan dalam hidup kita dan kesadaran bahwa sumber kebaikan tersebut sering kali berada di luar diri kita.
 
-### 1. Memahami Syukur: Lebih dari Sekadar Kata-Kata
+### 1. Memahami Syukur
 
 Menurut Robert Emmons, pakar ilmiah terkemuka yang meneliti tentang syukur, praktik ini memiliki dua komponen utama:
 
@@ -13,7 +13,7 @@ Menurut Robert Emmons, pakar ilmiah terkemuka yang meneliti tentang syukur, prak
 
 > "Syukur adalah emosi yang membuat kita merasa terhubung dengan orang lain dan dunia di sekitar kita." - Robert Emmons
 
-#### Analogi: Lensa Kamera
+#### Lensa Kamera
 
 Bayangkan pikiranmu seperti lensa kamera. Secara alami, otak manusia cenderung menggunakan **lensa wide-angle** untuk memindai ancaman sekitar, sebuah mekanisme yang dikenal sebagai *negativity bias*. Di sinilah rasa syukur berperan sebagai **lensa makro** yang membantu kita melakukan *zoom-in* pada detail-detail indah yang biasanya luput dari perhatian karena kita terlalu sibuk memikirkan masalah besar.
 
@@ -74,7 +74,7 @@ Tulis surat apresiasi kepada seseorang yang pernah memberikan pengaruh positif d
 
 Siapkan sebuah wadah atau toples kosong. Setiap kali mendapati momen kecil yang membuatmu tersenyum, tuliskan pada secarik kertas kecil lalu masukkan ke dalam toples. Buka dan baca kembali catatan-catatan tersebut saat kamu merasa sedang menghadapi hari yang berat.
 
-### 5. Menghadapi Hambatan: Adaptasi Hedonik
+### 5. Hambatan Adaptasi Hedonik
 
 Salah satu rintangan terbesar dalam mempertahankan rasa syukur adalah *Hedonic Adaptation* (Adaptasi Hedonik). Ini merupakan kecenderungan alami manusia untuk cepat terbiasa dengan kenyamanan atau pencapaian baru, sehingga hal-hal tersebut segera terasa biasa saja.
 
@@ -82,7 +82,7 @@ Sebagai ilustrasi, ingat kembali saat pertama kali kamu mendapatkan ponsel baru 
 
 Rasa syukur berfungsi sebagai penawar alami untuk melawan adaptasi hedonik. Dengan melatih diri menghargai apa yang sudah kita miliki, kita menjaga agar hal-hal berharga tersebut tidak sekadar menjadi latar belakang yang membosankan dalam keseharian kita.
 
-### 6. Aplikasi Dunia Nyata: Skenario Kasus
+### 6. Sari dan Kelelahan Kerja
 
 **Skenario:** Sari adalah seorang manajer proyek yang sering mengalami kelelahan kerja. Tugas-tugasnya terasa menumpuk tanpa henti, ditambah dengan rekan kerja yang kurang suportif. Keadaan ini membuatnya lelah secara emosional.
 

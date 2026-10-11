@@ -6,7 +6,7 @@ Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersi
 
 *Microteaching* adalah "Flight Simulator" bagi para pendidik. Mari kita bedah bagaimana penyederhanaan ini bekerja melalui karakteristik dan prinsip utamanya.
 
-### 1. Karakteristik Utama: Konsep Penyederhanaan
+### 1. Konsep Penyederhanaan
 
 Pembelajaran mikro bukan sekadar mengajar dalam durasi pendek, melainkan sebuah desain instruksional yang sengaja diperkecil skalanya (*scaled-down teaching*). Ada tiga aspek utama dalam penyederhanaan ini:
 
@@ -42,7 +42,7 @@ Agar proses simulasi ini bermakna, terdapat beberapa prinsip yang harus dipegang
 
 > **Insight Penting:** Pembelajaran mikro adalah lingkungan yang "aman untuk gagal". Di sini, kesalahan bukan merupakan kegagalan, melainkan data untuk perbaikan sebelum kamu terjun ke sekolah yang sebenarnya.
 
-### 3. Analogi: Latihan Dasar Pemain Basket
+### 3. Latihan Dasar Pemain Basket
 
 Untuk memahami mengapa kita harus memecah-mencah keterampilan mengajar, mari gunakan analogi olahraga.
 
@@ -54,7 +54,7 @@ Seorang pemain basket profesional tidak hanya berlatih dengan cara bertanding 5-
 
 Ketika semua keterampilan yang telah "disederhanakan" dan dilatih secara terpisah itu digabungkan, mereka menjadi pemain yang hebat di lapangan sesungguhnya. **Microteaching adalah "Drill Spesifik" bagi guru.**
 
-### 4. Real-World Application: Skenario Praktik
+### 4. Sarah Melatih Variasi Stimulus
 
 Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nyata:
 

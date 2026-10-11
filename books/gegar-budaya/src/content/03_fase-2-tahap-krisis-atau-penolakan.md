@@ -1,8 +1,8 @@
-## Fase 2: Tahap Krisis atau Penolakan (The Crisis Phase)
+## Tahap Krisis atau Penolakan (The Crisis Phase)
 
 Setelah euforia di Fase Bulan Madu perlahan memudar, kamu akan memasuki wilayah yang lebih menantang: **Tahap Krisis**. Jika Fase Bulan Madu adalah tentang "melihat pemandangan", maka Fase Krisis adalah tentang "mencoba hidup di dalamnya." Di sinilah realitas mulai terasa menggigit, dan perbedaan budaya yang dulunya tampak eksotis kini mulai terasa membebani.
 
-## 1. Selamat Datang di Realitas: Mengapa Krisis Terjadi?
+## 1. Mengapa Krisis Terjadi?
 
 Tahap krisis biasanya muncul setelah beberapa minggu atau bulan di lingkungan baru. Hal ini terjadi karena energi mental yang kamu gunakan untuk terus-menerus beradaptasi mulai terkuras.
 
@@ -10,11 +10,11 @@ Dalam psikologi, hal ini sering dikaitkan dengan hilangnya **isyarat-isyarat akr
 
 > "Krisis bukan tanda kegagalan dalam beradaptasi, tetapi penanda bahwa proses pembelajaran yang sesungguhnya sedang dimulai."
 
-### Analogi: Sepatu Baru yang Sempit
+### Sepatu Baru yang Sempit
 
 Mencoba budaya baru di fase ini seperti memakai sepatu baru yang sangat cantik (Fase Bulan Madu). Awalnya kamu bangga memakainya. Namun, setelah berjalan beberapa kilometer, sepatu itu mulai membuat kaki lecet. Kamu mulai merasa perih, tidak nyaman, dan ingin sekali melepasnya untuk kembali memakai sandal jepit lama yang sudah usang namun nyaman di rumah.
 
-## 2. Manifestasi Utama: Frustrasi, Kebingungan, dan Homesickness
+## 2. Frustrasi, Kebingungan, dan Homesickness
 
 Fase ini ditandai dengan tiga pilar emosional yang sering kali muncul secara bersamaan:
 
@@ -37,7 +37,7 @@ Kamu mulai merasa lelah secara mental karena harus memikirkan hal-hal kecil yang
 
 Muncul keinginan kuat untuk pulang atau kembali ke zona nyaman. Di fase ini, kamu cenderung memuja-muja negara asal secara berlebihan (**idealization**) dan melupakan kekurangan-kekurangannya. Rumah tiba-tiba tampak seperti surga yang tanpa cela.
 
-## 3. Dinamika Krisis: Formula Tekanan Adaptasi
+## 3. Formula Tekanan Adaptasi
 
 Secara konseptual, beratnya krisis yang dirasakan dapat diilustrasikan dengan pemikiran matematis sederhana:
 
@@ -54,7 +54,7 @@ Di mana:
 
 Jika perbedaan budaya ($D$) sangat besar, namun dukungan sosialmu ($S$) mendekati nol, maka ketegangan ($T$) akan meningkat secara eksponensial.
 
-## 4. Scenario: "Hari Buruk di Berlin" (Studi Kasus)
+## 4. "Hari Buruk di Berlin"
 
 Andi adalah seorang mahasiswa Indonesia yang baru dua bulan berada di Jerman.
 
@@ -74,7 +74,7 @@ Beberapa bentuk penolakan dalam fase ini:
 2. **Penarikan Diri:** Hanya ingin bergaul dengan sesama ekspatriat atau orang dari negara asal (membuat "gelembung" budaya).
 3. **Hostilitas:** Menunjukkan sikap bermusuhan terhadap norma-norma lokal.
 
-## 6. Aplikasi Nyata: Cara Mengenali dan Menghadapi Fase Ini
+## 6. Cara Mengenali dan Menghadapi Fase Ini
 
 Jika kamu atau rekanmu sedang mengalami hal ini, langkah pertama adalah **kesadaran (awareness)**.
 

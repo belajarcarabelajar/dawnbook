@@ -6,7 +6,7 @@ Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar 
 
 Pergeseran makna seperti **ameliorasi** (peningkatan nilai rasa) dan **pejorasi** (penurunan nilai rasa) tidak berlangsung di ruang hampa. Fenomena ini merupakan manifestasi dari kerja kognitif di dalam benak manusia. Bahasa melampaui tumpukan definisi leksikal kamus; bahasa merupakan sistem dinamis yang berakar kuat pada psikologi massa serta persepsi individu.
 
-### 1. Mekanisme Asosiasi: Label dan Isi di Dalam Otak
+### 1. Mekanisme Asosiasi antara Label dan Isi di Dalam Otak
 
 Secara psikologis, otak bekerja menyerupai sistem pengarsipan konseptual. Setiap kata memiliki folder mental tersendiri. Di dalam folder tersebut, tersimpan definisi teknis (denotasi) sekaligus rekaman emosional, nilai budaya, dan asosiasi visual (konotasi).
 
@@ -48,7 +48,7 @@ Perubahan makna tidak berlangsung secara terisolasi pada individu tunggal. Bahas
 
 Ketika mayoritas masyarakat memandang penggunaan kata tertentu sebagai bentuk pelecehan atau perendahan, penutur lain akan menghindari kata tersebut agar tidak dicap tidak beradab. Tekanan konformitas sosial inilah yang mendorong adopsi istilah-istilah amelioratif baru, seperti peralihan dari sebutan *cacat* menuju *difabel* atau *penyandang disabilitas*.
 
-### 5. Penerapan Nyata: Strategi Pemasaran dan Penjenamaan
+### 5. Strategi Pemasaran dan Penjenamaan
 
 Dalam dunia profesional dan komunikasi strategis, pemahaman atas psikologi perubahan semantik menjadi fondasi keberhasilan penjenamaan (*branding*). Praktisi komunikasi merancang pilihan kata secara cermat demi menghindari asosiasi pejoratif yang tidak disengaja.
 
@@ -76,7 +76,7 @@ print(tentukan_diksi("Formal", ["asisten", "pembantu"]))
 # Output: Pada konteks Formal, diksi terpilih adalah: 'asisten'
 ```
 
-### 6. Bias Kognitif: Pengaruh *Negativity Bias*
+### 6. *Negativity Bias*
 
 Manusia memiliki kecenderungan psikologis yang dikenal sebagai *negativity bias* (bias negativitas), yaitu kecenderungan untuk memproses, mengingat, dan merespons stimulus negatif secara lebih kuat daripada stimulus positif.
 

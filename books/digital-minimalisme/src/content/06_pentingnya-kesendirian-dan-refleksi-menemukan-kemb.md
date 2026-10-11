@@ -1,4 +1,4 @@
-## Pentingnya Kesendirian dan Refleksi: Menemukan Kembali Diri di Tengah Kebisingan Digital
+## Pentingnya Kesendirian dan Refleksi
 
 Pernahkah kamu merasa tetap lelah meskipun sudah menghabiskan waktu berjam-jam bersantai sambil *scrolling* media sosial? Atau mungkin kamu merasa sulit untuk memikirkan ide orisinal karena kepalamu sudah penuh dengan pendapat orang lain dari podcast atau Twitter?
 
@@ -13,7 +13,7 @@ Banyak orang menyalahartikan kesendirian sebagai kesepian (*loneliness*). Padaha
 
 > **Definisi Kunci:** Solitude tidak bergantung pada lokasi fisik. Kamu bisa berada sendirian di hutan atau di tengah kafe yang ramai. Yang terpenting adalah apa yang terjadi di dalam pikiranmu. Kamu berada dalam kondisi *solitude* jika pikiranmu dibiarkan mengolah ide tanpa gangguan luar.
 
-### Analoginya: Gelas yang Terus Diisi
+### Gelas yang Terus Diisi
 
 Bayangkan pikiranmu adalah sebuah gelas. Setiap kali mengecek notifikasi, mendengarkan podcast, atau membaca berita, kamu menuangkan air ke dalam gelas tersebut. Jika air terus dituangkan tanpa henti, air yang sudah ada di dalam (pemikiran aslimu) akan tumpah atau tertimbun. Tanpa jeda untuk meminum atau mengosongkan gelas tersebut, kamu tidak akan pernah tahu apa rasa air yang sebenarnya milikmu.
 
@@ -48,7 +48,7 @@ Menjauhkan diri dari kebisingan digital memberikan ruang bagi diri sendiri untuk
 - Masalah yang terlihat rumit seringkali menemukan solusinya saat berjalan kaki tanpa ponsel karena pikiran bawah sadar bekerja paling efektif saat tidak diganggu.
 - Ironisnya, kemampuan menikmati kesendirian justru meningkatkan kualitas interaksi dengan orang lain. Kita berhenti mencari validasi instan dan lebih menghargai kehadiran yang bermakna.
 
-## Strategi Praktis: Melatih Kesendirian
+## Melatih Kesendirian
 
 Untuk membangun kembali otot kesendirianmu, cobalah beberapa langkah berikut:
 
@@ -61,7 +61,7 @@ Menulis mengubah pikiran abstrak menjadi bentuk fisik. Tuliskan tiga hal yang me
 ### Menetapkan "Zona Bebas Input"
 Tentukan waktu atau tempat tertentu di mana tidak boleh ada input digital sama sekali. Misalnya, larangan membawa ponsel ke meja makan, atau aturan tidak membuka media sosial sebelum jam 9 pagi.
 
-## Real-world Application: Skenario Kehidupan Nyata
+## Budi dan Sari Menghadapi Stres yang Sama
 
 **Skenario A (Tanpa Refleksi):** Budi merasa stres dengan pekerjaannya. Setiap kali merasa cemas, ia langsung membuka TikTok untuk "menenangkan diri". Akibatnya, kecemasan tersebut hanya tertutup sementara. Ia tidak pernah mencari tahu apa penyebab stresnya. Di akhir bulan, Budi mengalami *burnout* parah.
 

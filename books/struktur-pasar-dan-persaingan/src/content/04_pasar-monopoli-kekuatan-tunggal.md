@@ -1,10 +1,10 @@
-## Pasar Monopoli: Kekuatan Tunggal
+## Pasar Monopoli
 
 Bayangkan kamu berada di sebuah kota kecil di tengah gurun. Di kota itu, terdapat satu-satunya sumur air. Pemilik sumur tersebut tidak memiliki pesaing; tidak ada orang lain yang bisa menggali sumur karena kondisi tanah yang ekstrem. Jika kamu haus, kamu harus membeli air darinya dengan harga berapa pun yang ia tetapkan.
 
 Inilah esensi dari **Pasar Monopoli**. Dalam struktur pasar ini, satu perusahaan berdiri sebagai penguasa tunggal, menjadi produsen utama di wilayahnya tanpa ada penantang yang berarti.
 
-## 1. Karakteristik Utama: Sang Penguasa Pasar
+## 1. Karakteristik Utama Sang Penguasa Pasar
 
 Kata "Monopoli" berasal dari bahasa Yunani, *monos* (satu) dan *polein* (menjual). Dalam ilmu ekonomi, pasar monopoli memiliki ciri khas yang kontras dengan Pasar Persaingan Sempurna:
 
@@ -59,7 +59,7 @@ Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permi
 
 Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
-## 4. Simulasi Sederhana: Logika Monopoli
+## 4. Simulasi Logika Monopoli
 
 Berikut adalah simulasi sederhana menggunakan kode Python untuk memahami bagaimana monopolis menentukan tingkat harga dan produksi guna mengoptimalkan keuntungan:
 
@@ -89,21 +89,21 @@ for s in skenario:
 # bukan pada harga pasar tertinggi.
 ```
 
-## 5. Studi Kasus Dunia Nyata: PLN dan Inovasi Farmasi
+## 5. PLN dan Inovasi Farmasi
 
-### Kasus 1: PT PLN (Persero) di Indonesia
+### PT PLN (Persero) di Indonesia
 
 Di Indonesia, transmisi dan distribusi listrik dikelola oleh PLN. Ini merupakan bentuk **Monopoli Negara** yang dilindungi undang-undang (Pasal 33 UUD 1945), mengingat listrik merupakan komoditas vital yang menguasai hajat hidup masyarakat banyak.
 
 - **Tujuan Utama:** Menjamin keterjangkauan harga dan pemerataan pasokan hingga ke pelosok daerah yang secara komersial kurang menguntungkan bagi swasta.
 
-### Kasus 2: Industri Farmasi dan Hak Paten
+### Industri Farmasi dan Hak Paten
 
 Ketika perusahaan farmasi menemukan formula obat baru, mereka mendaftarkan **Hak Paten**. Selama masa paten berlaku (misalnya 20 tahun), tidak ada produsen lain yang diizinkan membuat obat serupa.
 
 - **Dampak Ekonomi:** Harga obat pada masa paten cenderung tinggi demi menutup investasi penelitian dan pengembangan (*R&D*) yang bernilai besar. Ini adalah imbalan atas dorongan inovasi.
 
-## 6. Sisi Gelap Monopoli: Inefisiensi Pasar
+## 6. Inefisiensi Pasar Monopoli
 
 Meskipun monopoli mendatangkan keuntungan besar bagi pemilik usaha, dari sudut pandang ketersediaan barang bagi masyarakat sering timbul beban kerugian yang disebut **Beban Bobot Hilang (*Deadweight Loss* / DWL)**.
 

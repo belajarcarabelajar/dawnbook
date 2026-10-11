@@ -1,4 +1,4 @@
-# Instrumen Observasi dan Penilaian Sejawat: Menjadi Cermin Objektif bagi Rekan Pendidik
+# Instrumen Observasi dan Penilaian Sejawat
 
 Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun kemudian terkejut saat mengetahui siswa kamu sebenarnya kebingungan? Dalam *microteaching*, perasaan subjektif pengajar sering kali menipu. Di sinilah **Instrumen Observasi dan Penilaian Sejawat** berperan sebagai "kotak hitam" pesawat atau cermin yang tidak memihak.
 
@@ -22,7 +22,7 @@ Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utam
 2. **Indikator Kinerja:** Daftar keterampilan spesifik yang sedang dilatih (misalnya: Keterampilan Membuka Pelajaran).
 3. **Skala Penilaian atau Kolom Komentar:** Tempat di mana data dicatat.
 
-### Analogi: Juri MasterChef vs. Pengamat Mengajar
+### Juri MasterChef vs. Pengamat Mengajar
 
 Seorang juri memasak tidak hanya mengatakan "makanan ini enak". Mereka memiliki rubrik: *Presentasi, Kematangan Protein, Keseimbangan Rasa, dan Tekstur*. Jika salah satu kurang, mereka tahu persis di bagian mana kontestan harus memperbaiki diri. Instrumen observasi mengajar bekerja dengan cara yang persis sama.
 
@@ -50,11 +50,11 @@ Berupa deskripsi kualitatif tentang peristiwa spesifik yang terjadi selama menga
 
 - **Contoh:** *"Pada menit ke-4, guru gagal merespons pertanyaan siswa B sehingga fokus kelas teralihkan selama 2 menit."*
 
-## 4. Rubrik Observasi: Jantung Penilaian yang Adil
+## 4. Rubrik Observasi
 
 **Rubrik** adalah panduan skoring yang menjabarkan ekspektasi spesifik untuk setiap level kemampuan. Tanpa rubrik, angka "3" bagi Pengamat A bisa berarti berbeda dengan angka "3" bagi Pengamat B.
 
-### Contoh Struktur Rubrik Keterampilan Bertanya:
+### Contoh Struktur Rubrik Keterampilan Bertanya
 
 | Indikator | Skor 1 (Perlu Perbaikan) | Skor 2 (Cukup) | Skor 3 (Baik) | Skor 4 (Sangat Baik) |
 | --- | --- | --- | --- | --- |
@@ -73,7 +73,7 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai
 
 *Analisis Kompetensi Penilaian: Apakah skor kuantitatif 75 sudah memadai untuk mengonfirmasi kompetensi mengajar? Ataukah terdapat indikator prasyarat mutlak (seperti penguasaan materi) yang jika bernilai rendah akan menggugurkan indikator lainnya?*
 
-## 6. Skenario Real-World: Simulasi Penilaian Sejawat
+## 6. Simulasi Penilaian Sejawat
 
 **Skenario:** Andi sedang mempraktikkan keterampilan "Mengadakan Variasi". Rekan sejawatnya, Budi, bertugas sebagai pengamat menggunakan instrumen yang telah disepakati.
 

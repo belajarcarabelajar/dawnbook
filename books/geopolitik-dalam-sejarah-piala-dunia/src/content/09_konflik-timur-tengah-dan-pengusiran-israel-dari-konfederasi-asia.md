@@ -4,13 +4,13 @@ Sepak bola sering kali dianggap sebagai "bahasa universal", namun sejarah menunj
 
 Bagaimana mungkin sebuah negara yang secara geografis terletak di jantung Asia harus bertanding memperebutkan tiket Piala Dunia melawan negara-negara seperti Inggris, Spanyol, dan Jerman di Eropa? Jawabannya ada pada ruang-ruang diplomasi dan konflik bersenjata di Timur Tengah, bukan di atas rumput hijau.
 
-## 1. Akar Sejarah: Israel sebagai Pendiri AFC
+## 1. Israel sebagai Pendiri AFC
 
 Pada awalnya, hubungan Israel dengan sepak bola Asia sangatlah harmonis. Israel merupakan salah satu dari 12 negara pendiri **Asian Football Confederation (AFC)** pada tahun 1954. Pada masa itu, Israel adalah kekuatan besar di sepak bola Asia, memenangkan Piala Asia 1964 dan secara rutin menjadi penantang utama di kawasan tersebut.
 
 Namun, ketegangan politik dengan negara-negara Arab, yang berakar dari konflik Arab-Israel tahun 1948, mulai merembet ke lapangan hijau. Sepak bola menjadi alat bagi negara-negara tetangga Israel untuk menunjukkan solidaritas mereka terhadap Palestina melalui kebijakan **boikot**.
 
-## 2. Krisis Kualifikasi 1958: "Juara Tanpa Bertanding"
+## 2. Krisis Kualifikasi 1958 dan "Juara Tanpa Bertanding"
 
 Peristiwa paling unik sekaligus memalukan bagi FIFA terjadi pada kualifikasi Piala Dunia 1958. Ini adalah contoh nyata bagaimana politik dapat melumpuhkan sistem kompetisi.
 
@@ -44,11 +44,11 @@ Selama hampir dua dekade (1974-1991), Israel menjadi tim "tunawisma" dalam kuali
 - Pada tahun **1982**, mereka terpaksa berkompetisi di bawah naungan zona **UEFA** (Eropa).
 - Memasuki kualifikasi **1986 & 1990**, mereka dipindahkan ke zona **OFC** (Oseania), yang mengharuskan para pemain menempuh perjalanan udara sangat jauh menuju Australia dan Selandia Baru demi memainkan laga kandang-tandang.
 
-### Analogi: Tamu yang Tidak Diinginkan
+### Tamu yang Tidak Diinginkan
 
 Bayangkan kamu adalah seorang siswa yang ingin bermain basket di lingkungan rumahmu. Namun, semua tetangga mengunci pagar mereka karena tidak menyukaimu. Akhirnya, kamu harus naik bus sejauh 50 kilometer hanya untuk bisa ikut bertanding di liga basket komplek seberang kota yang sama sekali tidak mengenalmu. Itulah posisi Israel di sepak bola dunia saat itu.
 
-## 5. Integrasi ke UEFA: Rumah Permanen di Eropa
+## 5. Integrasi ke UEFA
 
 Pada tahun 1991, klub-klub Israel mulai diizinkan berkompetisi di turnamen UEFA. Pada tahun 1994, Israel secara resmi diterima sebagai anggota penuh **UEFA**.
 
@@ -57,7 +57,7 @@ Pada tahun 1991, klub-klub Israel mulai diizinkan berkompetisi di turnamen UEFA.
 - **Kualitas Kompetisi**: Mereka harus berhadapan dengan kekuatan sepak bola dunia seperti Prancis, Italia, atau Jerman, yang memperkecil peluang mereka lolos ke putaran final Piala Dunia.
 - **Pergeseran Dominasi Asia**: Keluarnya Israel memuluskan jalan bagi raksasa baru seperti Jepang, Korea Selatan, dan Arab Saudi untuk menguasai panggung sepak bola Asia tanpa kehadiran salah satu rival terkuat mereka.
 
-## Real-World Application: Olahraga sebagai Proyeksi Konflik
+## Olahraga sebagai Proyeksi Konflik
 
 Kasus Israel di AFC adalah pelajaran klasik bahwa olahraga tidak bisa dipisahkan dari kebijakan luar negeri.
 

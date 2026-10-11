@@ -10,11 +10,11 @@ Secara teknis, **Gegar Budaya** adalah perasaan disorientasi, kecemasan, dan keb
 
 > **Insight:** Gegar budaya terjadi karena hilangnya "tanda-tanda" (cues) sosial yang biasa kita gunakan dalam interaksi sehari-hari. Tanda-tanda ini mencakup ribuan cara kita berinteraksi: kapan harus berjabat tangan, bagaimana cara menawar di pasar, kapan harus serius, atau bagaimana cara menunjukkan rasa setuju.
 
-### Analogi: Masalah Sistem Operasi
+### Masalah Sistem Operasi
 
 Bayangkan otak kamu adalah sebuah komputer yang terbiasa menjalankan **Windows**. Tiba-tiba, kamu dipaksa menggunakan **macOS**. Tombol "Close" yang biasanya di kanan atas pindah ke kiri atas. Pintasan keyboard yang kamu hafal tidak lagi berfungsi. Kamu tetap bisa bekerja, tetapi setiap tugas sederhana membutuhkan usaha mental ekstra yang melelahkan. Inilah yang dirasakan otak kita saat mengalami gegar budaya.
 
-## Sejarah Istilah: Dari Penyakit ke Proses Adaptasi
+## Dari Penyakit ke Proses Adaptasi
 
 Istilah *Culture Shock* pertama kali diperkenalkan oleh antropolog **Kalervo Oberg** pada tahun 1954. Pada awalnya, Oberg memandang fenomena ini hampir seperti sebuah "penyakit pekerjaan" (*occupational disease*).
 
@@ -38,7 +38,7 @@ Banyak orang yang merasa "gagal" atau "depresi" saat berada di luar negeri tanpa
 
 Gegar budaya adalah "tekanan" yang memaksa kita tumbuh. Seperti otot yang harus ditarik agar menjadi lebih kuat, fleksibilitas mental kita diuji saat kita menghadapi perbedaan nilai yang mendasar.
 
-## Memahami Akar Penyebab: Teori Ketidakpastian
+## Teori Ketidakpastian
 
 Mengapa kita merasa tertekan? Secara ilmiah, ini berkaitan dengan tingkat ketidakpastian ($U$) dan kecemasan ($A$).
 
@@ -52,7 +52,7 @@ Di mana $U$ adalah ketidakpastian dan $I$ adalah jumlah informasi atau isyarat b
 
 Semakin sedikit isyarat budaya yang kita pahami ($I$ mengecil), maka tingkat ketidakpastian ($U$) akan meningkat. Otak manusia membenci ketidakpastian karena dianggap sebagai ancaman, sehingga memicu respons *fight-or-flight*.
 
-## Aplikasi Nyata: Skenario "Ruang Personal"
+## Ruang Personal di Halte Bus
 
 Mari kita lihat sebuah contoh sederhana tentang bagaimana perbedaan budaya kecil bisa memicu kebingungan:
 

@@ -2,7 +2,7 @@ Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kema
 
 Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase sangat penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
 
-## 1\. Memahami Anatomi Plateu: Mengapa Kita "Stuck"?
+## 1\. Memahami Anatomi Plateu
 
 Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur sinaptik. Pada awalnya, kemajuan terasa sangat cepat karena otak sedang membangun fondasi. Namun, setelah beberapa saat, kemajuan melambat.
 
@@ -19,7 +19,7 @@ Banyak pembelajar menyerah saat mereka mulai melakukan kesalahan. Padahal, dalam
 
 Saat kamu membuat kesalahan dan menyadarinya, otak melepaskan neuromodulator seperti **Epinefrin** (meningkatkan kewaspadaan) dan **Asetilkolin** (mempertajam fokus). Kombinasi kimiawi ini menandai sinapsis yang perlu diubah.
 
-### Proses Kalibrasi Saraf:
+### Proses Kalibrasi Saraf
 
 1. **Prediksi:** Otak memprediksi hasil dari suatu tindakan.
 2. **Kesalahan (Error):** Hasil tidak sesuai ekspektasi.
@@ -48,7 +48,7 @@ Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi 
 
 - **Teknik:** Saat sedang intens belajar, berhentilah selama 10-20 detik. Jangan lihat HP. Cukup duduk diam. Ini memberi kesempatan bagi sirkuit saraf untuk melakukan kompresi data.
 
-## 4\. Matematika Perubahan: Hubungan Fokus dan Error
+## 4\. Hubungan Fokus dan Error
 
 Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Frekuensi Kesalahan yang disadari ($E$):
 
@@ -64,7 +64,7 @@ Di mana:
 
 Jika $\Delta E = 0$ (tidak ada kesalahan), maka $L$ mendekati nol, tidak peduli seberapa besar fokus kamu.
 
-## 5\. Aplikasi Dunia Nyata: Skenario Pemrograman
+## 5\. Pengembang yang Mengalami Plateau dalam Debugging
 
 Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging* -nya tidak berkembang.
 

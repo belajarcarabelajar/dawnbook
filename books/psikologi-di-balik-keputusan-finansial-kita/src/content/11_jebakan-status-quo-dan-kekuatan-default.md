@@ -20,7 +20,7 @@ Hasilnya dramatis. Di bawah sistem pendaftaran otomatis, sekitar 86 persen karya
 
 Ini pikiran yang perlu kamu bawa pulang: default itu netral secara teknik, tapi tidak netral secara akibat. Merancang default adalah memilih untuk jutaan orang tanpa mereka sadari, dan karena itu kejujuran tentang siapa yang menaruh default di sana jadi penting. Untungnya, mekanisme yang sama bisa dipakai untuk kebaikanmu sendiri, dan buktinya spektakuler.
 
-### Save More Tomorrow: meminjam kekuatan jebakan
+### Kekuatan jebakan yang dipinjam Save More Tomorrow
 
 Richard Thaler dan Shlomo Benartzi (2004) mendesain program yang bekerja bersama psikologi manusia, bukan melawannya, dengan nama Save More Tomorrow. Ide kuncinya tiga lapis. Pertama, karyawan diminta berkomitmen sekarang untuk menyisihkan sebagian kenaikan gaji di masa depan, jadi dirimu hari ini tidak pernah merasa kehilangan apa-apa (bias masa kini di bab lima tertangani). Kedua, kenaikan tabungan otomatis berjalan seiring kenaikan gaji, jadi uang yang "hilang" ke tabungan tidak pernah sempat terasa hadir di rekening (mental accounting di bab tiga tertangani). Ketiga, karyawan bisa keluar kapan saja, jadi ada rasa kendali.
 

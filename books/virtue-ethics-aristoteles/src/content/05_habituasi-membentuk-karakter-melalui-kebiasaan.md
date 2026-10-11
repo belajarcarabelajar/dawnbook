@@ -1,4 +1,4 @@
-## Habituasi: Membentuk Karakter Melalui Kebiasaan
+## Habituasi
 
 Bayangkan kamu ingin menjadi seorang pianis ulung. Apakah kamu bisa mencapainya hanya dengan membaca buku teori musik selama sepuluh tahun tanpa pernah menyentuh tuts piano? Tentu tidak. Kamu harus duduk, berlatih tangga nada berulang kali, membuat kesalahan, memperbaikinya, dan melakukannya lagi setiap hari sampai jari-jarimu bergerak secara otomatis dengan presisi dan keindahan.
 
@@ -26,7 +26,7 @@ Hexis adalah kondisi mental atau fisik yang menetap, sebuah disposisi karakter. 
 
 Transformasi karakter berawal dari tahap pemula, di mana kita melakukan tindakan baik seperti berbagi karena menaati aturan atau disuruh orang lain. Rasanya masih berat dan dipaksakan. Setelah itu, kita masuk ke tahap latihan dengan mengulangi tindakan tersebut di berbagai situasi menantang secara konsisten. Pada akhirnya, tindakan baik tersebut berubah menjadi spontan, menetap, dan memunculkan kepuasan batin tersendiri saat kita melakukannya. Tahap akhir inilah yang disebut karakter sejati (hexis).
 
-## 3\. Analogi Magang: Belajar dengan Melakukan
+## 3\. Belajar dengan Melakukan
 
 Aristoteles menyamakan pembentukan karakter dengan proses menguasai keahlian teknis (*techne*).
 
@@ -51,11 +51,11 @@ $$
 
 Di sini, $n$ mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
 
-## 5\. Aplikasi Dunia Nyata: Membangun Budaya Integritas
+## 5\. Membangun Budaya Integritas
 
 Habituasi berlaku untuk individu, sekaligus dapat diterapkan dalam lingkup komunitas dan organisasi.
 
-### Skenario: Kejujuran di Tempat Kerja
+### Kejujuran Karyawan Baru
 
 Sebagai contoh, ada karyawan baru di sebuah perusahaan. Pada minggu pertama, ia melihat rekan-rekannya jujur melaporkan setiap pengeluaran, lalu ia ikut-ikutan mematuhi aturan main. Masuk bulan keenam, ia terbiasa mencatat transaksi dengan teliti tanpa perlu ditegur atasan. Setelah dua tahun berjalan, kejujuran sudah menjadi hexis. Sekalipun ada celah untuk memanipulasi data tanpa ketahuan, ia enggan melakukannya karena ia sudah utuh menjadi pribadi yang jujur.
 

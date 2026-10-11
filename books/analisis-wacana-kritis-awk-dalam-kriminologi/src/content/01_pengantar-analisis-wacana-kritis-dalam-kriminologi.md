@@ -60,7 +60,7 @@ Dalam sistem peradilan pidana, penggunaan bahasa hukum yang sarat jargon teknis 
 > **Prinsip Utama AWK:**
 > Bahasa tidak sekadar mencerminkan realitas yang sudah ada; bahasa **membentuk dan membangun** realitas sosial itu sendiri.
 
-## Aplikasi Nyata: Perang Diksi dalam Media Massa
+## Perang Diksi dalam Media Massa
 
 Konstruksi realitas kriminalitas kerap terlihat dalam pembingkaian (*framing*) media massa. Peristiwa yang sama dapat menghasilkan representasi sosial yang bertolak belakang tergantung pada diksi yang dipilih.
 
@@ -83,7 +83,7 @@ $$
 
 Persamaan di atas menunjukkan bahwa teks tidak pernah berdiri secara netral, melainkan selalu terinfeksi oleh orientasi nilai dan kepentingan ideologis pembuatnya.
 
-## Analogi Kriminologi Kritis: Kapital Linguistik dan Akses Keadilan
+## Kapital Linguistik dan Akses Keadilan
 
 Terdapat pepatah klasik bahwa sejarah ditulis oleh pihak yang menang. Dalam kriminologi kritis, narasi mengenai suatu "kejahatan" di ruang sidang kerap dikuasai oleh pihak yang memiliki **kapital linguistik** (*linguistic capital*), yakni penguasaan terhadap tata bahasa formal, istilah hukum teknis, dan retorika institusional.
 
@@ -110,13 +110,13 @@ Dalam ranah praktik penegakan hukum dan investigasi kriminal, AWK menjadi instru
 > **Latihan Refleksi Pembaca:**
 > Analisis satu artikel berita kriminal di media massa saat ini. Cermati penggunaan kata sifat (*adjektiva*) dan kata kerja (*verba*) yang melekat pada pihak pelaku maupun korban. Amatilah apakah pemilihan kata tersebut menggiring pemelajar untuk menghakimi salah satu pihak sebelum terdapat putusan hukum yang berkekuatan tetap.
 
-## Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+## Linguistik Forensik
 
 Linguistik forensik merupakan cabang ilmu bahasa terapan yang mengaplikasikan analisis kebahasaan untuk kepentingan pembuktian hukum dan investigasi kriminal. Ibarat penyidik yang mengumpulkan jejak DNA fisik, ahli linguistik forensik mengidentifikasi **"sidik jari linguistik"** (*linguistic fingerprint*) yang tertinggal pada struktur kalimat, pilihan leksikal, dan konsistensi tanda baca.
 
 Dalam sains kriminologi, perilaku berbahasa diposisikan sebagai manifestasi perilaku psikologis dan sosiologis individu.
 
-### 1. Idiolek: Sidik Jari Kebahasaan
+### 1. Idiolek
 
 Sebagaimana pola garis jemari atau pola pita DNA, setiap individu mengembangkan **idiolek**, yakni gaya kebahasaan unik yang terbentuk oleh latar belakang pendidikan, dialek regional, kelompok usia, serta preferensi profesi.
 

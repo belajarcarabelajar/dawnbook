@@ -2,7 +2,7 @@ Ketika proyek Rust berkembang dari sekadar "Hello World" menjadi aplikasi berska
 
 Para praktisi Rust (Rustaceans) menggunakan pola standar dan praktik terbaik tertentu untuk menjaga basis kode tetap bersih, modular, dan mudah dipelihara.
 
-## Filosofi Organisasi: Analogi Perpustakaan Kota
+## Filosofi Organisasi ala Perpustakaan Kota
 
 Bayangkan kamu sedang mengelola sebuah perpustakaan.
 
@@ -95,7 +95,7 @@ Rust memisahkan pengujian menjadi dua kategori utama agar kode tetap rapi dan te
 1. **Unit Tests**: Letakkan langsung di file yang sama dengan kode yang diuji. Tulis di bagian paling bawah di dalam modul `mod tests` dengan penanda atribut `#[cfg(test)]`. Hal ini dilakukan karena unit test di Rust diizinkan mengakses fungsi internal yang bersifat privat, sehingga kamu bisa menguji logika internal dengan mudah tanpa harus mengeksposnya secara publik.
 2. **Integration Tests**: Tempatkan di folder khusus bernama `tests/` pada root proyek (sejajar dengan folder `src`). Folder ini akan diperlakukan sebagai crate terpisah oleh Cargo, sehingga hanya bisa menguji API publik dari library milikmu.
 
-## Contoh Implementasi: Struktur Proyek E-Commerce
+## Struktur Proyek E-Commerce
 
 Penerapan seluruh teknik organisasi ini bisa kita lihat pada struktur backend e-commerce berikut.
 

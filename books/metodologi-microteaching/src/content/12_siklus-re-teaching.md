@@ -1,4 +1,4 @@
-# Siklus Re-teaching: Menyempurnakan Seni Mengajar melalui Iterasi
+# Siklus Re-teaching
 
 Dalam dunia pengembangan perangkat lunak, terdapat istilah "Beta Testing" dan "Patching" untuk memperbaiki *bug* sebelum produk benar-benar siap. Dalam dunia pendidikan, khususnya *microteaching*, proses ini disebut dengan **Re-teaching** (Mengajar Kembali).
 
@@ -44,7 +44,7 @@ Pada tahap ini, kamu kembali ke "laboratorium" mengajar.
 - **Fokus Mental:** Fokuslah pada poin-poin revisi. Jika target kamu adalah memperbaiki *eye contact*, sadarilah setiap kali mata kamu mulai terpaku pada catatan.
 - **Konsistensi Materi:** Tetap gunakan materi yang sama. Mengganti materi akan menghilangkan fungsi kontrol dari eksperimen perbaikan ini.
 
-## Perbandingan: RPP Awal vs RPP Re-teaching
+## RPP Awal vs RPP Re-teaching
 
 Berikut adalah ilustrasi bagaimana sebuah revisi dilakukan dalam struktur RPP Mikro:
 
@@ -55,11 +55,11 @@ Berikut adalah ilustrasi bagaimana sebuah revisi dilakukan dalam struktur RPP Mi
 | **Media** | Slide PowerPoint penuh teks. | Alat peraga sederhana (gelas dan kertas) + Slide gambar. |
 | **Manajemen Waktu** | Penutup terburu-buru (1 menit). | Mengurangi durasi ceramah sebanyak 3 menit untuk evaluasi. |
 
-## Analogi: Mengasah Pisau
+## Mengasah Pisau
 
 Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut akan tetap tumpul selamanya.
 
-## Real-world Application: Skenario Perbaikan
+## Re-teaching Materi Sumpah Pemuda
 
 **Skenario:** Seorang calon guru sejarah mengajar tentang "Sumpah Pemuda". Pada sesi pertama, siswa terlihat mengantuk karena guru hanya membacakan teks dari buku selama 10 menit. Feedback dari supervisor adalah: *"Kurang melibatkan siswa dan stimulasi visual minim."*
 

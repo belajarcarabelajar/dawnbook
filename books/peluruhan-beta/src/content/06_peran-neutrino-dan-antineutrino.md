@@ -1,8 +1,8 @@
-## Peran Neutrino dan Antineutrino: Si Partikel Hantu dalam Peluruhan Beta
+## Peran Neutrino dan Antineutrino
 
 Pernahkah terbayang sebuah partikel yang bisa menembus dinding beton setebal satu tahun cahaya tanpa menyentuh satu atom pun? Selamat datang di dunia **Neutrino** dan **Antineutrino**. Dalam bab ini, kita akan menelusuri jejak partikel hantu yang kehadirannya sempat dianggap sebagai solusi putus asa namun akhirnya menjadi kunci pembuka rahasia alam semesta.
 
-### 1. Krisis Hukum Kekekalan: Teka-Teki yang Hilang
+### 1. Krisis Hukum Kekekalan
 
 Pada awal abad ke-20, para fisikawan menghadapi dilema besar. Dalam peluruhan alfa, partikel yang dipancarkan selalu memiliki energi yang pasti. Namun, dalam peluruhan beta, elektron yang keluar memiliki energi yang bervariasi (spektrum kontinu).
 
@@ -30,11 +30,11 @@ Neutrino ($\nu$) dan antineutrino ($\bar{\nu}$) adalah anggota keluarga **lepton
 - **Interaksi Lemah:** Mereka hanya berinteraksi melalui **Gaya Nuklir Lemah** dan gravitasi. Inilah alasan mengapa mereka bisa menembus bumi secara utuh tanpa hambatan.
 - **Spin $\frac{1}{2}$:** Mereka adalah fermion yang mengikuti prinsip eksklusi Pauli.
 
-#### Analogi Sederhana:
+#### Analogi Sederhana
 
 > Bayangkan sebuah pesta dansa yang sangat ramai (materi/atom). Jika seorang raksasa (partikel bermuatan) masuk, dia akan menabrak orang-orang dan berhenti dengan cepat. Namun, neutrino adalah seperti **angin sepoi-sepoi** yang berhembus melewati sela-sela penari tanpa ada yang menyadari kehadirannya.
 
-### 4. Perbedaan: Neutrino vs. Antineutrino
+### 4. Neutrino vs. Antineutrino
 
 Dalam peluruhan beta, jenis partikel yang dipancarkan bergantung pada jenis peluruhannya. Hal ini berkaitan dengan hukum kekekalan **bilangan lepton**.
 
@@ -65,7 +65,7 @@ $$
 
 Ketika antineutrino menabrak proton dalam tangki air besar, ia menghasilkan neutron dan positron. Positron akan segera bertemu elektron dan menghasilkan kilatan cahaya gamma khas (anihilasi), sementara neutron akan ditangkap oleh inti atom lain dan menghasilkan kilatan cahaya kedua beberapa mikrodetik kemudian. Tanda tangan dua kilatan cahaya inilah yang membuktikan keberadaan mereka.
 
-### Aplikasi Dunia Nyata: Kegunaan Praktis "Partikel Hantu"
+### Kegunaan Praktis "Partikel Hantu"
 
 Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 

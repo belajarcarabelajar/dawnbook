@@ -26,7 +26,7 @@ Keterangan:
 - $V_{\text{awal}}$ menunjukkan bobot nilai rasa awal yang berada pada tingkat netral atau positif.
 - $V_{\text{akhir}}$ menunjukkan bobot nilai rasa akhir setelah mengalami degradasi semantik di masyarakat.
 
-### 2. Analogi: Besi yang Mengalami Korosi
+### 2. Besi yang Mengalami Korosi
 
 Untuk memahami mekanisme pejorasi, proses ini dapat dianalogikan seperti kendaraan baru yang baru keluar dari pabrik. Pada fase awal, kendaraan tersebut berkilau, bernilai ekonomis tinggi, dan dipandang sebagai simbol prestise (makna asal yang netral atau positif). Namun seiring berjalannya waktu, kendaraan tersebut tidak terawat, digunakan mengangkut limbah secara terus-menerus, hingga akhirnya berkarat dan berakhir di tempat pembuangan rongsokan.
 
@@ -55,18 +55,18 @@ Identifikasi terhadap leksem yang telah terdegradasi secara semantik dapat diken
 | **Kroni** | Netral (sahabat karib atau kawan dekat) | Negatif (rekanan dalam persekongkolan korupsi) | Diskursus politik dan hukum |
 | **Oknum** | Terhormat (pribadi dalam teologi/person) | Negatif (pelaku pelanggaran dalam institusi) | Berita kriminal dan penegakan hukum |
 
-### 5. Skenario Nyata: Dampak Pejorasi dalam Komunikasi
+### 5. Dampak Nyata Pejorasi dalam Komunikasi
 
 Pejorasi memiliki konsekuensi nyata dalam interaksi sosiokultural dan tata kelola hubungan antarmanusia.
 
-#### Kasus 1: Pelabelan Kelompok Sosial
+#### Pelabelan Kelompok Sosial
 
 Penggunaan kata **"gerombolan"** memberikan gambaran jelas mengenai pergeseran ini:
 
 - **Masa Lampau:** Merujuk secara denotatif pada sekumpulan entitas manusia atau hewan tanpa konotasi kriminal.
 - **Masa Kini:** Jika seorang penutur menyebut sekelompok rekan kerja yang sedang berkumpul sebagai "gerombolan", tuturan tersebut berpotensi memicu ketersinggungan karena leksem tersebut telah menyerap stigma kelompok perusuh bersenjata atau pengacau keamanan.
 
-#### Kasus 2: Profesionalisme dan Sebutan Profesi
+#### Profesionalisme dan Sebutan Profesi
 
 Degradasi nilai rasa pada sebutan profesi kerap mendorong lahirnya istilah baru melalui proses eufemisme atau ameliorasi demi melindungi martabat pekerja. Sebagai contoh, pergeseran nilai rasa pada sebutan "babu" atau "pembantu" yang dirasakan semakin pejoratif memicu penggunaan sebutan yang lebih terhormat seperti "pramuwisma" atau "asisten rumah tangga".
 

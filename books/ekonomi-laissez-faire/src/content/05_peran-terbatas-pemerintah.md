@@ -1,4 +1,4 @@
-## Peran Terbatas Pemerintah: Sang "Penjaga Malam" dalam Ekonomi
+## Peran Terbatas Pemerintah
 
 Bayangkan sebuah pertandingan sepak bola. Di sana ada pemain, bola, dan penonton. Di pinggir lapangan, ada wasit. Wasit tidak ikut menendang bola, tidak menentukan strategi tim, dan tidak mencetak gol. Namun, tanpa wasit, pertandingan akan berubah menjadi kekacauan. Wasit hanya meniup peluit jika ada pelanggaran aturan atau untuk memastikan permainan berjalan adil.
 
@@ -51,14 +51,14 @@ Para pendukung *Laissez-faire* berargumen bahwa intervensi pemerintah yang berle
 
 > Coba pertimbangkan: Jika pemerintah memberikan subsidi kepada perusahaan yang hampir bangkrut, apakah langkah itu benar-benar membantu ekonomi secara keseluruhan, atau justru menghalangi perusahaan lain yang lebih inovatif untuk berkembang?
 
-### Analogi: Tukang Kebun vs. Pemahat
+### Tukang Kebun vs. Pemahat
 
 Pemerintah dalam sistem *Laissez-faire* bertindak seperti **tukang kebun**, bukan **pemahat**.
 
 - Seorang **pemahat** memaksakan bentuk tertentu pada batu (pemerintah mengatur hasil ekonomi secara paksa).
 - Seorang **tukang kebun** hanya menyiapkan tanah yang subur, menyiram air (infrastruktur), dan mencabut gulma (penegakan hukum), lalu membiarkan tanaman tumbuh sesuai kodratnya (pasar berkembang secara alami).
 
-### Real-World Application: Peran Pemerintah dalam Ekonomi Modern
+### Peran Pemerintah dalam Ekonomi Modern
 
 Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prinsip peran terbatas ini tetap terlihat dalam beberapa skenario:
 

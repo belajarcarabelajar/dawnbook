@@ -1,4 +1,4 @@
-## Re-exporting dengan pub use: Menciptakan Antarmuka yang Elegan
+## Re-exporting dengan pub use
 
 Bayangkan kamu sedang mengunjungi sebuah restoran mewah. Sebagai pelanggan, kamu tidak perlu tahu di mana letak gudang penyimpanan bumbu, bagaimana piring dicuci, atau di rak mana koki menyimpan pisau pemotong daging. Kamu hanya ingin melihat **menu** yang bersih dan memesan makanan.
 
@@ -18,7 +18,7 @@ Ini tidak efisien dan membocorkan detail implementasi internal kamu. Jika suatu 
 
 > **Wawasan Penting:** Struktur internal kode kamu (bagaimana kamu mengaturnya) tidak harus sama dengan struktur publik kode kamu (bagaimana orang lain menggunakannya).
 
-### Analogi: Toko Ritel vs. Gudang
+### Toko Ritel vs. Gudang
 
 Pikirkan sebuah toko furnitur.
 
@@ -34,13 +34,13 @@ Secara default, kata kunci `use` hanya membawa item ke dalam scope saat ini seca
 1. Memasukkan item ke dalam scope aktif saat ini.
 2. Memberikan hak akses kepada siapa saja yang mengimpor modul ini agar bisa menggunakan item tersebut secara langsung.
 
-#### Sintaks Dasar:
+#### Sintaks Dasar
 
 ```rust
 pub use self::modul_internal::ItemPenting;
 ```
 
-### Contoh Kasus: Membangun Library Seni
+### Membangun Library Seni
 
 Mari kita lihat contoh nyata. Misalkan kita membuat library bernama `seni`. Secara internal, kita membaginya menjadi dua modul: `macam` (untuk warna) dan `utilitas` (untuk fungsi bantuan).
 
@@ -53,7 +53,7 @@ src/
  └── utilitas.rs
 ```
 
-#### Isi src/macam.rs:
+#### Isi src/macam.rs
 
 ```rust
 pub enum WarnaPrimer {
@@ -69,7 +69,7 @@ pub enum WarnaSekunder {
 }
 ```
 
-#### Isi src/utilitas.rs:
+#### Isi src/utilitas.rs
 
 ```rust
 use crate::macam::WarnaPrimer;
@@ -80,7 +80,7 @@ pub fn campur(warna1: WarnaPrimer, warna2: WarnaPrimer) {
 }
 ```
 
-#### Isi src/lib.rs (Tanpa Re-export):
+#### Isi src/lib.rs (Tanpa Re-export)
 
 Jika kita hanya menulis seperti ini:
 
@@ -91,7 +91,7 @@ pub mod utilitas;
 
 Maka pengguna harus memanggilnya dengan cara yang panjang: `seni::macam::WarnaPrimer` dan `seni::utilitas::campur`.
 
-#### Isi src/lib.rs (Dengan Re-export):
+#### Isi src/lib.rs (Dengan Re-export)
 
 Sekarang kita gunakan `pub use` untuk menyederhanakan API:
 
@@ -130,12 +130,12 @@ Tanyakan pada diri sendiri: apakah pengguna library kamu perlu tahu bahwa suatu 
 
 Jika jawabannya tidak, maka fungsi tersebut sangat layak untuk di-re-export ke tingkat yang lebih tinggi.
 
-#### Praktik Terbaik:
+#### Praktik Terbaik
 
 * **Pada Level Root:** Tarik tipe data serta fungsi yang paling sering dipakai ke tingkat atas (`lib.rs`).
 * **Membuat Modul Fasad:** Ketika proyekmu punya banyak submodul berukuran kecil, satukan semuanya ke dalam satu modul publik yang rapi demi kenyamanan pengguna.
 
-### Real-world Application: Library API
+### Handler Web API
 
 Dalam pengembangan web API menggunakan Rust (misalnya dengan `Axum` atau `Actix`), kamu mungkin memiliki struktur seperti ini:
 

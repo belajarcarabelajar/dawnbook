@@ -1,4 +1,4 @@
-## Analisis Sensitivitas dan Validasi Hasil: Menguji Ketangguhan Keputusanmu
+## Analisis Sensitivitas dan Validasi Hasil
 
 Setelah menyusun **matriks keputusan** (*decision matrix*), angka-angka telah dijumlahkan dan menghasilkan pemenang yang jelas. Namun, muncul sebuah keraguan: *"Bagaimana jika estimasi biayaku sedikit meleset?"* atau *"Apakah pilihan ini tetap yang terbaik jika prioritas kecepatan pengerjaan tiba-tiba menjadi lebih penting?"*
 
@@ -56,7 +56,7 @@ Setelah menguji sensitivitas matriks, lakukan validasi akhir dengan memeriksa ti
 2.  **Validitas Data:** Pastikan data mentah untuk penilaian (seperti kuotasi harga terbaru dari vendor) memang akurat dan mutakhir.
 3.  **Kepatuhan Ambang Batas (*Must-Haves*):** Pemenang matriks harus lolos syarat mutlak. Tidak ada gunanya skor total tinggi jika opsi tersebut melanggar batas anggaran maksimal yang tersedia.
 
-### 5. Studi Kasus Nyata: Pemilihan Lokasi Gudang Baru
+### 5. Pemilihan Lokasi Gudang Baru
 
 Sebuah perusahaan logistik sedang memilih antara dua opsi: **Lokasi A** (dekat pusat kota, harga sewa mahal) dan **Lokasi B** (jauh dari kota, harga sewa murah).
 

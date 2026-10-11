@@ -1,10 +1,10 @@
-## Masa Depan Geopolitik Piala Dunia: Ekspansi dan Multipolarisme
+## Masa Depan Geopolitik Piala Dunia Menghadapi Ekspansi dan Multipolarisme
 
 Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah geopolitik sepak bola. Jika bab-bab sebelumnya membahas bagaimana Piala Dunia menjadi cermin dari perang, ideologi, dan konflik masa lalu, bab ini akan mengajak kamu melihat ke depan.
 
 Kita sedang memasuki era saat sepak bola bertransformasi dari instrumen diplomasi negara tunggal menjadi ekosistem **multipolar**. Fenomena ini mencerminkan pergeseran kekuatan ekonomi global dari Barat menuju Timur dan Selatan.
 
-## 1. Logika Ekspansi: Dari 32 ke 48 Peserta
+## 1. Logika Ekspansi dari 32 ke 48 Peserta
 
 Mulai tahun 2026, kita akan menyaksikan perubahan format paling drastis dalam sejarah modern FIFA: penambahan jumlah peserta dari 32 menjadi **48 tim**. Secara administratif, langkah ini menghadirkan tantangan logistik yang besar. Namun secara geopolitik, ekspansi tersebut mengirimkan pesan kuat tentang **demokratisasi dan inklusi**.
 
@@ -22,7 +22,7 @@ Ekspansi ini bertujuan membuka akses pasar baru secara global, melebihi sekadar 
 
 > "Dalam politik sepak bola, satu suara dari Kepulauan Cook memiliki nilai yang sama dengan satu suara dari Jerman. Ekspansi adalah mata uang yang digunakan untuk membeli loyalitas politik global."
 
-## 2. Tren Tuan Rumah Bersama: Diplomasi Lintas Batas
+## 2. Tren Tuan Rumah Bersama
 
 Piala Dunia 2026 (AS, Kanada, Meksiko) dan rencana ambisius untuk 2030 (Spanyol, Portugal, Maroko, dengan pertandingan pembuka di Uruguay, Argentina, dan Paraguay) menandai berakhirnya era "Satu Negara, Satu Tuan Rumah".
 
@@ -32,11 +32,11 @@ Piala Dunia 2026 (AS, Kanada, Meksiko) dan rencana ambisius untuk 2030 (Spanyol,
 2. **Stabilitas Regional:** Proyek tuan rumah bersama sering kali berfungsi sebagai sarana integrasi politik. Sebagai contoh, kolaborasi Amerika Serikat, Meksiko, dan Kanada bergulir di tengah ketegangan isu migrasi serta perdagangan, bertindak sebagai perekat diplomatik lewat sepak bola.
 3. **Konektivitas Antarbenua:** Piala Dunia 2030 yang melintasi tiga benua (Eropa, Afrika, dan Amerika Selatan) menggambarkan realitas dunia saat ini: sangat terkoneksi secara digital dan ekonomi, tetapi tetap terbelah oleh ketegangan politik.
 
-## 3. Multipolarisme: Pudarnya Eurosentrisme
+## 3. Multipolarisme dan Pudarnya Eurosentrisme
 
 Sepanjang abad ke-20, peta kekuatan sepak bola dunia cenderung bersifat **unipolar** atau paling banyak **bipolar** karena terpusat di Eropa dan Amerika Selatan. Kini, peta itu bergeser menuju ekosistem global yang multipolar.
 
-### Kekuatan Baru di Panggung Dunia:
+### Kekuatan Baru di Panggung Dunia
 
 - **Blok Timur Dekat dan Tengah:** Investasi masif dari Arab Saudi (calon kuat tuan rumah 2034) dan Qatar menunjukkan pergeseran pusat gravitasi kekuasaan ke Teluk. Upaya ini berfokus pada diversifikasi ekonomi pasca-minyak dan tidak terbatas pada pencitraan olahraga (*sportswashing*).
 - **Kebangkitan Kolektif Global South:** Negara-negara berkembang menolak menjadi penonton pasif. Mereka menuntut hak untuk mengatur agenda sepak bola dunia, daripada sekadar tunduk pada aturan yang dirancang di Zurich atau Paris.
@@ -62,7 +62,7 @@ Di balik inklusivitas yang ditawarkan oleh ekspansi ini, terdapat sejumlah tanta
 
 Ketika Piala Dunia melibatkan 48 tim dan tersebar di tiga benua, makna "tuan rumah" terancam kehilangan kekuatan emosional nasionalisnya seperti saat turnamen berlangsung di Uruguay pada 1930 atau Inggris pada 1966.
 
-## Penerapan Nyata: Skenario 2034 dan Visi Arab Saudi
+## Skenario 2034 dan Visi Arab Saudi
 
 Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dunia 2034. Langkah ini menjadi contoh konkret dari dinamika yang kita bahas:
 

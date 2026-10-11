@@ -1,10 +1,10 @@
-## Mekanisme Algoritma Penargetan: Di Balik "Mesin Pembaca Pikiran" Digital
+## Mekanisme Algoritma Penargetan
 
 Pernahkah kamu merasa seolah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas tentang keinginan membeli sepatu lari baru, dan tiba-tiba, iklan sepatu lari muncul di feed media sosial kamu.
 
 Meskipun terdengar seperti sihir atau penyadapan, kenyataannya jauh lebih teknis: ini adalah hasil kerja **algoritma penargetan** yang sangat canggih. Bagian ini akan membedah "kotak hitam" teknologi yang memproses miliaran titik data untuk memprediksi keinginan kamu bahkan sebelum kamu menyadarinya.
 
-### 1. Fondasi Utama: Data Menjadi Vektor
+### 1. Mengubah Data Menjadi Vektor
 
 Algoritma tidak memahami "minat" atau "hobi" dalam bentuk kata-kata seperti manusia. Mereka memahami angka. Proses pertama dalam mekanisme ini adalah mengubah perilaku kamu menjadi representasi matematis yang disebut **Vektor Pengguna**.
 
@@ -52,7 +52,7 @@ Salah satu keajaiban teknis algoritma penargetan adalah kecepatannya. Seluruh pr
 4. **Selection:** Iklan dengan skor tertinggi (dan bid tertinggi) dipilih.
 5. **Rendering:** Iklan muncul di layar kamu.
 
-### 4. Implementasi Kode: Sederhananya Skor Penargetan
+### 4. Contoh Kode Skor Penargetan
 
 Berikut adalah contoh logika sederhana dalam Python tentang bagaimana sebuah sistem memberikan skor pada sebuah iklan untuk pengguna tertentu:
 
@@ -92,7 +92,7 @@ print(calculate_ad_relevance(user_profile, ads_inventory))
 
 Dalam skenario di atas, meskipun iklan "Luxury Watch" memiliki bayaran (bid) tertinggi, iklan "Smartphone X" mungkin menang karena skor minat pengguna terhadap gadget sangat tinggi (0.9).
 
-### 5. Aplikasi Dunia Nyata: Dinamika Prediksi Perilaku
+### 5. Keranjang Belanja yang Ditinggalkan
 
 **Skenario: Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
 

@@ -21,7 +21,7 @@ Sebelum merumuskan pesan yang efektif, pemelajar perlu memahami mekanisme pemros
 
 ---
 
-### 2. Kualitas Vokal: Membangun Otoritas Penenang
+### 2. Kualitas Vokal yang Menenangkan
 
 Untuk memandu massa yang sedang panik, petugas tanggap darurat harus memproyeksikan stabilitas melalui karakter vokal. Komunikasi krisis yang efektif bukan diukur dari seberapa keras seseorang berteriak, melainkan dari kualitas akustik dan ketenangan vokal yang dipancarkan.
 
@@ -33,7 +33,7 @@ Praktik vokal standar dapat diamati pada protokol komunikasi darurat awak kabin 
 
 ---
 
-### 3. Struktur Instruksi Darurat: Model ADR dan Prinsip 3C
+### 3. Model ADR dan Prinsip 3C untuk Instruksi Darurat
 
 Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan ambiguitas penafsiran. Kerangka kerja yang terbukti efektif adalah formula **Action-Direction-Reason** (Aksi, Arah, Alasan).
 
@@ -96,7 +96,7 @@ Ketika kebisingan suara alarm atau dentuman fisik menenggelamkan artikulasi verb
 
 ---
 
-### 6. Aplikasi Lapangan: Protokol Evakuasi Gedung Bertingkat
+### 6. Protokol Komando Evakuasi Gedung Bertingkat
 
 Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
 

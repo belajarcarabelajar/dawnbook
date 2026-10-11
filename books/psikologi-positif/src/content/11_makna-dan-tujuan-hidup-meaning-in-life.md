@@ -50,7 +50,7 @@ Transendensi diri merupakan kondisi saat perhatian kita teralihkan dari ego prib
 - **Pengalaman atau Pertemuan:** Merasakan keindahan alam, mengapresiasi seni, atau mencintai orang lain dengan tulus.
 - **Sikap dalam Menghadapi Penderitaan:** Menemukan makna di balik situasi sulit yang tidak bisa diubah dengan cara menggeser perspektif serta sikap kita terhadap penderitaan tersebut.
 
-#### Latihan Praktis: Menemukan Ikigai
+#### Menemukan Ikigai
 
 Salah satu metode visual yang sangat membantu untuk memetakan tujuan hidup adalah konsep Jepang yang dikenal sebagai **Ikigai** (alasan untuk bangun di pagi hari). Cobalah renungkan dan jawab empat pertanyaan dasar berikut:
 
@@ -61,7 +61,7 @@ Salah satu metode visual yang sangat membantu untuk memetakan tujuan hidup adala
 
 *Titik temu dari keempat aspek ini adalah Ikigaimu.*
 
-### 4. Aplikasi Nyata: Makna di Dalam Pekerjaan
+### 4. Makna di Dalam Pekerjaan
 
 Banyak orang keliru menganggap bahwa makna hidup hanya bisa ditemukan lewat aksi sosial berskala besar. Faktanya, kamu bisa menghadirkan makna dalam rutinitas sehari-hari melalui teknik yang disebut **Job Crafting**.
 

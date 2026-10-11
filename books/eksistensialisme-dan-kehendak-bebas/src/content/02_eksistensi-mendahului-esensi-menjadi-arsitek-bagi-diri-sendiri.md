@@ -1,8 +1,8 @@
-## Eksistensi Mendahului Esensi: Menjadi Arsitek bagi Diri Sendiri
+## Eksistensi Mendahului Esensi
 
 Prinsip eksistensi mendahului esensi menegaskan bahwa manusia hadir di dunia sebelum mendefinisikan hakikat dirinya melalui tindakan dan pilihan sadar. Konsepsi yang dirumuskan oleh Jean-Paul Sartre melalui frasa *l'existence précède l'essence* ini meruntuhkan pandangan esensialisme klasik bahwa manusia memiliki cetak biru teleologis atau kodrat baku yang mendikte arah kehidupannya.
 
-### 1. Dekonstruksi Esensialisme: Distingsi Objek dan Subjek
+### 1. Dekonstruksi Esensialisme
 
 Untuk menjelaskan distingsi ontologis antara artefak buatan manusia dan subjek kesadaran, Sartre mengetengahkan perbandingan fenomenologis mengenai pisau pemotong kertas (*the paper knife*).
 
@@ -34,7 +34,7 @@ $$
 
 Tidak ada determinisme biologis absolut, kodrat metafisik bawaan, atau takdir eksternal yang menentukan esensi manusia. Eksistensi manusia adalah sebuah keterbukaan (*open-ended project*) yang terus bergerak ke masa depan.
 
-### 2. Ontologi Sartre: *En-soi* versus *Pour-soi*
+### 2. Ontologi Sartre tentang *En-soi* versus *Pour-soi*
 
 Sartre membagi struktur ontologis realitas menjadi dua kategori fundamental kesadaran:
 

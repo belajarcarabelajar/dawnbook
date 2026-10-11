@@ -75,7 +75,7 @@ Untuk mempertahankan gaya angkat aerodinamis yang optimal, aliran udara idealnya
 
 Sebagai analogi mekanika, fluida yang bergerak melawan kenaikan tekanan menyerupai gerak bola menaiki tanjakan. Tanpa momentum awal yang cukup, gerak bola melambat, berhenti, dan berbalik menggelinding ke bawah.
 
-### 4. Fenomena Stall: Dampak Separasi Aliran
+### 4. Fenomena Stall
 
 *Stall* adalah kondisi aerodinamis ketika sudut serang (*angle of attack*, $\alpha$) dinaikkan melampaui batas kritis tertentu ($\alpha_{\text{cr}}$), sehingga daerah separasi aliran meluas ke sebagian besar permukaan atas sayap.
 

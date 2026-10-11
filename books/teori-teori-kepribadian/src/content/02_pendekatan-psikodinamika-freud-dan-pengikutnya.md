@@ -1,12 +1,12 @@
-## Pendekatan Psikodinamika: Freud dan Pengikutnya
+## Pendekatan Psikodinamika Freud dan Pengikutnya
 
 Pendekatan psikodinamika merupakan salah satu teori kepribadian yang cukup kuat dalam sejarah psikologi, menekankan pada motif dan konflik alam bawah sadar. Berawal dari buah pemikiran Sigmund Freud, pendekatan ini berasumsi bahwa kepribadian adalah wujud dari berbagai dinamika internal yang sebagian besar berada di luar kesadaran kita.
 
-### Sigmund Freud: Pondasi Teori Psikodinamika
+### Psikoanalisis Sigmund Freud
 
 Seorang ahli saraf Austria, Sigmund Freud (1856-1939), dikenal sebagai bapak psikoanalisis. Pemikirannya mengubah cara orang memandang pikiran manusia, terutama dalam melihat peran alam bawah sadar, dorongan insting, dan memori masa kanak-kanak.
 
-#### Struktur Kepribadian: Id, Ego, dan Superego
+#### Id, Ego, dan Superego
 
 Freud melihat bahwa kepribadian ditopang oleh tiga elemen yang terus berinteraksi. Dinamika di antara ketiganya sering kali memicu konflik internal yang akhirnya memengaruhi apa yang kita lakukan.
 
@@ -46,7 +46,7 @@ Saat Ego kewalahan menangani konflik kuat antara Id, realitas, dan Superego, mun
 
 **Regression:** Sikap mundur ke pola perilaku kekanak-kanakan di tengah stres berat, seperti remaja yang tanpa sadar kembali mengisap jempol atau menggigit kuku saat ujian akhir.
 
-### Carl Jung: Psikologi Analitis
+### Psikologi Analitis Carl Jung
 
 Sebagai salah satu kerabat kerja terdekat Freud, Carl Jung (1875-1961) pada akhirnya membangun jalannya sendiri yang disebut Psikologi Analitis. Ia tidak sependapat dengan dominasi unsur seksual dan membatasi alam bawah sadar sekadar pada ranah pengalaman pribadi.
 
@@ -62,7 +62,7 @@ Konsep-konsep sentral Jung meliputi:
 
 **Individuation:** Jung meyakini bahwa target seumur hidup manusia adalah proses memadukan segala sisi sadar dan tidak sadar ini untuk menjadi individu yang utuh.
 
-### Alfred Adler: Psikologi Individual
+### Psikologi Individual Alfred Adler
 
 Berangkat dari kelompok awal Freud, Alfred Adler (1870-1937) juga mengambil arah berbeda. Melalui Psikologi Individual, ia menggeser fokus dari dorongan insting biologis menuju dorongan pencapaian dan ikatan sosial.
 
@@ -74,7 +74,7 @@ Berangkat dari kelompok awal Freud, Alfred Adler (1870-1937) juga mengambil arah
 
 **Birth Order:** Posisi kelahiran anak sering disoroti oleh Adler. Anak sulung cenderung mengambil beban tanggung jawab tinggi tapi gampang merasa tersingkir, anak tengah sering terjebak dalam rasa kompetisi karena terhimpit di tengah, anak bungsu terbiasa menjadi pusat perhatian dan bebas berkreasi, sementara anak tunggal sangat lekat dengan perfeksionisme.
 
-### Erik Erikson: Tahap Perkembangan Psikososial
+### Teori Psikososial Erik Erikson
 
 Erik Erikson (1902-1994) mengembangkan pandangan Freud lebih jauh dengan memasukkan elemen tuntutan masyarakat dan lingkungan budaya di berbagai rentang usia. Alih-alih berhenti di masa pubertas, siklus psikososial Erikson berlangsung seumur hidup.
 

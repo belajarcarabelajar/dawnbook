@@ -6,7 +6,7 @@ Dalam bab ini, kita akan membedah bagaimana wacana media massa mengonstruksi ket
 
 ---
 
-### 1. Media sebagai Cermin Cembung: Distorsi Realitas Kriminal
+### 1. Media sebagai Cermin Cembung Realitas Kriminal
 
 Bayangkan media massa sebagai sebuah cermin. Namun, ia bukan cermin datar yang memantulkan bayangan apa adanya, melainkan **cermin cembung** yang mendistorsi proporsi. Kejahatan kekerasan yang langka sering kali diperbesar hingga memenuhi seluruh layar kaca, sementara kejahatan kerah putih (*white-collar crime*) yang berdampak sistemik sering kali tampak kecil atau bahkan tidak terlihat.
 
@@ -68,7 +68,7 @@ Analisis Wacana Kritis (AWK) membantu membongkar bagaimana bahasa digunakan untu
 
 ---
 
-### 4. Penerapan Skenario Nyata: Analisis Wacana Berita "Begal"
+### 4. Analisis Wacana Berita "Begal"
 
 Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Begal" di perkotaan.
 
@@ -82,7 +82,7 @@ Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Be
 2. **Ideologi Punitif**: Mendorong pendekatan penghukuman keras. Frasa *"Rakyat yang bertindak"* secara implisit melegitimasi aksi main hakim sendiri (*vigilantism*).
 3. **Stereotipisasi**: Kata *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosio-ekonomi.
 
-#### Implementasi Kode: Analisis Sentimen Diksi Berita Kriminal
+#### Analisis Sentimen Diksi Berita Kriminal
 
 Para peneliti kriminologi modern dapat memanfaatkan analisis teks komputasional untuk memetakan tren diksi ketakutan. Berikut adalah contoh skrip Python sederhana untuk mengekstrak frekuensi kata kunci berkonotasi ancaman dari tajuk berita:
 
@@ -114,7 +114,7 @@ for word in fear_keywords:
 
 ---
 
-### 5. Dampak Sosial: Dari Layar Kaca ke Kebijakan Publik
+### 5. Dari Layar Kaca ke Kebijakan Publik
 
 Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkret pada ranah kebijakan hukum dan dinamika sosial:
 
@@ -125,7 +125,7 @@ Ketakutan yang dikonstruksi secara masif oleh media massa memiliki dampak konkre
 
 ---
 
-### 6. Linguistik Forensik: Menangkap Kriminal Melalui Jejak Teks
+### 6. Melacak Jejak Teks lewat Linguistik Forensik
 
 Linguistik forensik merupakan cabang ilmu bahasa terapan yang memanfaatkan analisis linguistik untuk kepentingan investigasi kriminal dan pembuktian hukum. Seorang ahli linguistik forensik bekerja melacak **"sidik jari linguistik"** yang tertinggal dalam struktur kalimat, pilihan kata, hingga pola tanda baca.
 

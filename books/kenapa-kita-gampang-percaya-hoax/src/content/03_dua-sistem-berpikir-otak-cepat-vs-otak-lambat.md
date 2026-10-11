@@ -1,4 +1,4 @@
-## Dua Sistem Berpikir: Otak Cepat dan Otak Lambat
+## Dua Sistem Berpikir
 
 Coba jawab cepat, tanpa menghitung di kertas:
 

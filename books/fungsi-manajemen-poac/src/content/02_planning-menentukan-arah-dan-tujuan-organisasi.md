@@ -1,4 +1,4 @@
-## Planning: Menentukan Arah dan Tujuan Organisasi
+## Planning untuk Menentukan Arah dan Tujuan Organisasi
 
 Bayangkan kamu sedang berdiri di tengah hutan belantara tanpa peta, kompas, atau aplikasi navigasi di ponselmu. Apa yang akan kamu lakukan? Kamu mungkin akan berjalan berputar-putar, membuang energi, dan akhirnya kelelahan tanpa pernah sampai ke tujuan.
 
@@ -12,7 +12,7 @@ Jika manajemen diibaratkan sebagai sebuah bangunan, perencanaan adalah **cetak b
 
 > **Pesan Utama:** Perencanaan menjembatani celah antara "di mana kita berada sekarang" dengan "di mana kita ingin berada di masa depan".
 
-### 2. Fondasi Utama: Visi dan Misi
+### 2. Visi dan Misi
 
 Setiap rencana besar dimulai dari dua pernyataan fundamental yang menjadi "bintang utara" bagi organisasi.
 
@@ -30,7 +30,7 @@ Misi adalah alasan mengapa organisasi itu ada. Ia menjelaskan bisnis inti organi
 
 Sebagai gambaran sederhana, jika visi merupakan destinasi liburan impianmu (seperti mencapai puncak Everest), maka misi adalah cara yang kamu tempuh untuk mendakinya (misalnya dengan menggunakan peralatan standar keselamatan dan bantuan pemandu profesional).
 
-### 3. Hierarki Tujuan: Jangka Pendek vs. Jangka Panjang
+### 3. Hierarki Tujuan Jangka Pendek vs. Jangka Panjang
 
 Tujuan (goals) adalah hasil akhir yang ingin dicapai. Dalam perencanaan, kita membaginya berdasarkan dimensi waktu:
 
@@ -78,7 +78,7 @@ Untuk menyusun rencana yang kokoh, seorang manajer biasanya mengikuti alur logis
 6. **Mengimplementasikan Rencana dan Melakukan Peninjauan**
    Menjalankan rencana yang terpilih di lapangan sembari terus memantau dan melakukan penyesuaian jika situasi berubah.
 
-### 6. Real-World Application: Skenario Startup "Eco-Ride"
+### 6. Startup Ojek Listrik "Eco-Ride"
 
 Mari kita lihat bagaimana Planning bekerja pada sebuah perusahaan startup fiktif bernama **Eco-Ride**, sebuah jasa transportasi ojek listrik.
 

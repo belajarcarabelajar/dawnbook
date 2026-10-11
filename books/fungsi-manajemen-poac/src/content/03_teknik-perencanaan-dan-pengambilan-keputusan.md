@@ -4,11 +4,11 @@ Bayangkan kamu sedang berdiri di depan sebuah labirin besar. Di tangan kamu terd
 
 Jika bagian sebelumnya membahas *apa* itu perencanaan, bagian ini membahas aspek teknis agar visi organisasi berubah dari sekadar mimpi di atas kertas menjadi target nyata yang siap dieksekusi.
 
-## 1. Menentukan Target dengan Presisi: Metode SMART Goals
+## 1. Metode SMART Goals
 
 Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang ditetapkan terlalu kabur. Mengatakan "kita harus sukses tahun ini" memang berniat baik, tetapi itu belum bisa disebut rencana kerja. Di sinilah metode **SMART** hadir untuk memandu penetapan sasaran secara terarah.
 
-### Komponen SMART:
+### Komponen SMART
 
 - **S - Specific (Spesifik):** Target harus jelas tanpa menyisakan ruang untuk ambiguitas. Kamu perlu memperjelas apa yang ingin dicapai serta siapa saja pihak yang terlibat di dalamnya.
 - **M - Measurable (Terukur):** Pencapaian wajib memiliki indikator atau angka numerik yang jelas. Tanpa alat ukur yang tepat, performa sulit untuk dikendalikan dan dievaluasi.
@@ -21,11 +21,11 @@ Banyak rencana gagal bukan karena kurangnya semangat, tetapi karena target yang 
 - *Buruk:* "Meningkatkan penjualan produk."
 - *SMART:* "Meningkatkan volume penjualan produk X sebesar 15% di wilayah Jawa Barat melalui kampanye media sosial dalam kurun waktu 6 bulan (Januari - Juni)."
 
-## 2. Memetakan Medan Perang: Analisis SWOT
+## 2. Analisis SWOT
 
 Sebelum melangkah, seorang manajer harus memahami posisi organisasinya dibandingkan lingkungan sekitar. **Analisis SWOT** adalah alat diagnostik yang membagi faktor-faktor menjadi dua dimensi: Internal (Kekuatan & Kelemahan) dan Eksternal (Peluang & Ancaman).
 
-### Matriks SWOT:
+### Matriks SWOT
 
 1. **Strengths (Kekuatan):** Keunggulan internal organisasi yang mempermudah pencapaian target, seperti kepemilikan teknologi mutakhir atau reputasi merek yang kuat.
 2. **Weaknesses (Kelemahan):** Hambatan internal yang membatasi performa, contohnya adalah keterbatasan modal kerja atau minimnya staf ahli di bidang tertentu.
@@ -38,7 +38,7 @@ Sebelum melangkah, seorang manajer harus memahami posisi organisasinya dibanding
 
 Mengambil keputusan adalah tugas inti seorang manajer. Keputusan yang baik tidak lahir dari firasat semata, tetapi didasarkan pada proses logis yang terstruktur dalam **Model Pengambilan Keputusan Rasional**.
 
-### Langkah-langkah Rasional:
+### Langkah-langkah Rasional
 
 1. **Identifikasi Masalah:** Menemukan akar permasalahan yang sebenarnya, bukan sekadar melihat gejala permukaan.
 2. **Menentukan Kriteria Keputusan:** Menetapkan faktor-faktor penting yang memengaruhi hasil, seperti biaya, standar kualitas, serta waktu pengerjaan.
@@ -54,7 +54,7 @@ Mengambil keputusan adalah tugas inti seorang manajer. Keputusan yang baik tidak
 
 Dunia nyata jauh lebih kompleks daripada model matematika. Manajer seringkali harus mengambil keputusan dengan informasi yang tidak lengkap atau kondisi pasar yang fluktuatif. Kondisi ini disebut **Decision Making under Uncertainty**.
 
-### Konsep Penting:
+### Konsep Penting
 
 - **Bounded Rationality (Rasionalitas Terbatas):** Gagasan dari Herbert Simon yang menjelaskan bahwa keterbatasan waktu dan kemampuan berpikir membuat manusia jarang menghasilkan keputusan yang benar-benar optimal. Sebaliknya, kita cenderung memilih opsi yang dirasa cukup memuaskan (*satisficing*).
 - **Intuisi yang Terdidik:** Kemampuan ini melampaui tebakan biasa karena bersumber dari pengenalan pola bawah sadar yang terbentuk lewat pengalaman bertahun-tahun di lapangan.
@@ -63,7 +63,7 @@ Dunia nyata jauh lebih kompleks daripada model matematika. Manajer seringkali ha
 
 Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data terbatas menunjukkan penerapan rasionalitas terbatas ini dalam situasi nyata.
 
-## Real-world Application: Skenario Ekspansi Bisnis
+## Ekspansi Bisnis Kopi Nusantara
 
 **Konteks:** Sebuah perusahaan kopi lokal, "Kopi Nusantara", ingin membuka cabang baru di tengah ketatnya persaingan dengan gerai kopi internasional.
 

@@ -1,6 +1,6 @@
 
 
-## Neurogenesis: Kelahiran Sel Saraf Baru
+## Neurogenesis
 
 Selama puluhan tahun, dunia sains meyakini sebuah dogma yang cukup suram: kita terlahir dengan jumlah sel otak tertentu, dan seiring bertambahnya usia, sel-sel tersebut akan mati tanpa pernah bisa digantikan. Namun, memasuki akhir abad ke-20, paradigma ini runtuh. Para ilmuwan menemukan bahwa otak orang dewasa bukanlah sebuah patung batu yang statis, melainkan sebuah taman yang dinamis di mana benih-benih kehidupan baru terus tumbuh.
 
@@ -14,7 +14,7 @@ Fenomena luar biasa ini disebut **Neurogenesis**.
 
 Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat sangat penting bagi fungsi kognitif kita.
 
-### Tempat Kelahiran: Pabrik Neuron di Otak Kita
+### Pabrik Neuron di Otak Kita
 
 Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 
@@ -46,7 +46,7 @@ Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan ment
 
 *Indikator Regenerasi Otak: Sensasi pikiran yang terasa lebih jernih serta suasana hati yang membaik pasca mempelajari hal baru atau berolahraga merupakan indikasi fisik bahwa jaringan otak sedang melakukan regenerasi.*
 
-### Mekanisme Biologis: Dari Sel Punca ke Neuron Fungsional
+### Dari Sel Punca ke Neuron Fungsional
 
 Proses ini tidak terjadi dalam sekejap. Ini adalah perjalanan perkembangan yang sistematis:
 
@@ -61,7 +61,7 @@ $$
 \text{BDNF} \rightarrow \text{Mendukung Kelangsungan Hidup Neuron} + \text{Memicu Neurogenesis}
 $$
 
-### Kasus Nyata: Studi Supir Taksi London
+### Studi Supir Taksi London
 
 Salah satu bukti paling terkenal tentang kekuatan neurogenesis dan plastisitas adalah studi terhadap supir taksi di London. Untuk mendapatkan lisensi, mereka harus menghafal "The Knowledge", peta rumit dari 25.000 jalan di London.
 
@@ -70,7 +70,7 @@ Salah satu bukti paling terkenal tentang kekuatan neurogenesis dan plastisitas a
 - Supir taksi yang berhasil menghafal peta tersebut memiliki volume hippocampus posterior yang jauh lebih besar dibandingkan rata-rata orang biasa.
 - Pertumbuhan ini terjadi karena tuntutan kognitif yang intens secara terus-menerus memicu kelahiran dan integrasi neuron baru untuk memproses navigasi spasial yang kompleks.
 
-### Aplikasi Praktis: Bagaimana Memacu Kelahiran Neuron Baru?
+### Bagaimana Memacu Kelahiran Neuron Baru?
 
 Meskipun mekanisme mendalam akan dibahas di bagian selanjutnya, kamu bisa mulai menerapkan prinsip neurogenesis dalam rutinitas belajar kamu:
 

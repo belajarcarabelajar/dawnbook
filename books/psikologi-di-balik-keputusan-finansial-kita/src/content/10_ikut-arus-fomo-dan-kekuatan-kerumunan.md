@@ -1,4 +1,4 @@
-## Ikut Arus: FOMO dan Kekuatan Kerumunan
+## Ikut Arus
 
 Saat semua orang membeli dan harga terus naik, ikut arus terasa waras, padahal kerumunan itu bisa dibentuk oleh sinyal sekecil satu keputusan orang asing.
 
@@ -20,7 +20,7 @@ Untuk memahami kenapa teori ini berbahaya, masuklah ke kepala pengantri. Setiap 
 
 Kalimat terakhir tadi adalah inti masalahnya. Dalam cascade, tidak ada yang tahu persis apa yang dulu memicu kerumunan. Pembeli pertama mungkin punya alasan yang sangat pribadi dan sepele, bukan analisis yang mendalam. Tapi bagi pengikut kedua, tindakan itu terbaca sebagai informasi. Bagi pengikut kesepuluh, ia sudah menjadi bukti. Di pasar, pola ini melengkung menjadi lingkaran yang kamu kenal: harga naik karena semua orang membeli, dan semua orang membeli karena harga naik. Tidak perlu konspirasi, tidak perlu dalang. Cukup satu keputusan kecil yang terlihat, lalu strategi hemat tenaga yang sama dijalankan ribuan kepala sekaligus.
 
-### FOMO: keraguanmu pribadi, kerumunan publik
+### FOMO dan keraguan yang kalah oleh kerumunan
 
 Sekarang masuk ke bagian yang terasa di dada. FOMO lahir ketika kamu melihat orang lain memperoleh sesuatu dan kamu tidak. Ketertinggalan itu terasa seperti kerugian, dan kamu sudah tahu dari bab-bab sebelumnya betapa kerasnya rasa kehilangan dibanding kenikmatan mendapatkan. Cascade memberi FOMO kostum yang terlihat cerdas. Kamu bukan sedang serakah, kata kepalamu, kamu sedang membaca sinyal. Semua orang tidak mungkin salah.
 

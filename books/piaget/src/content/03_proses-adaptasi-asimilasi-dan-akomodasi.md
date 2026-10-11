@@ -1,4 +1,4 @@
-## Proses Adaptasi: Asimilasi dan Akomodasi
+## Proses Adaptasi
 
 Pernahkah kamu bertanya-tanya bagaimana seorang anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan antara anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
 
@@ -15,33 +15,33 @@ Proses ini terjadi melalui dua jalur yang saling melengkapi:
 1. **Asimilasi:** Mengambil informasi baru ke dalam skema yang sudah ada.
 2. **Akomodasi:** Mengubah skema yang ada karena informasi baru tidak cocok.
 
-### 2\. Asimilasi: "Mencocokkan Dunia ke Dalam Pikiran"
+### 2\. Asimilasi
 
 **Asimilasi** adalah proses kognitif di mana seseorang memasukkan informasi atau pengalaman baru ke dalam skema yang sudah mereka miliki. Dalam proses ini, individu tidak mengubah struktur mentalnya, melainkan "memaksa" informasi baru tersebut agar muat ke dalam kategori yang sudah ada.
 
-#### Analogi: Folder Komputer
+#### Folder Komputer
 
 Bayangkan kamu memiliki folder di komputer berjudul "Lagu Rock". Ketika kamu mengunduh lagu baru dari band yang belum pernah kamu dengar tetapi instrumennya terdengar seperti rock, kamu langsung memasukkannya ke folder tersebut tanpa ragu. Kamu mengasimilasi lagu baru itu ke dalam kategori "Rock" yang sudah ada.
 
-#### Contoh Nyata:
+#### Balita dan Burung Gereja
 
 Seorang balita memiliki skema tentang "burung" sebagai "sesuatu yang kecil, punya sayap, dan bisa terbang". Ketika ia melihat seekor burung gereja di taman, ia menunjuk dan berteriak, *"Burung!"*. Ia berhasil mengasimilasi objek baru tersebut ke dalam skema burungnya.
 
 *Pertanyaan Kunci: Apakah asimilasi selalu akurat? Apa yang terjadi jika balita tersebut melihat sebuah pesawat terbang dan berteriak "Burung!"?*
 
-### 3\. Akomodasi: "Mengubah Pikiran untuk Mengikuti Dunia"
+### 3\. Akomodasi
 
 **Akomodasi** terjadi ketika informasi baru yang diterima sangat berbeda atau bertentangan dengan skema yang ada, sehingga skema tersebut harus diubah atau bahkan dibuat skema baru. Ini adalah tanda terjadinya perkembangan intelektual yang nyata.
 
-#### Analogi: Memahat Patung
+#### Memahat Patung
 
 Jika asimilasi seperti mengisi air ke dalam gelas, maka akomodasi seperti memahat ulang tanah liat. Jika tanah liat yang kamu bentuk sebagai "kucing" ternyata terlalu besar dan punya belalai, kamu harus merombak bentuknya untuk menciptakan kategori baru bernama "gajah".
 
-#### Contoh Nyata:
+#### Burung Unta di Kebun Binatang
 
 Melanjutkan contoh balita tadi: Ia melihat seekor burung unta di kebun binatang. Ia mencoba mengasimilasi burung unta itu ke dalam skemanya ("burung harus bisa terbang"). Namun, ia melihat burung unta itu sangat besar dan hanya berlari. Sang ibu berkata, *"Itu burung unta, nak. Dia burung, tapi tidak bisa terbang."* Anak tersebut sekarang harus melakukan **akomodasi**: Ia mengubah skema "burung"-nya dari "semua burung terbang" menjadi "sebagian besar burung terbang, tapi ada juga yang tidak".
 
-### 4\. Perbedaan Visual: Asimilasi vs Akomodasi
+### 4\. Asimilasi vs Akomodasi
 
 Untuk mempermudah pemahaman, mari kita lihat perbandingannya dalam logika sederhana:
 
@@ -77,7 +77,7 @@ if info_baru_asing != "Hewan Darat":
     print("Struktur mental berubah/diperbarui.")
 ```
 
-### 6\. Aplikasi Dunia Nyata: Belajar Teknologi Baru
+### 6\. Belajar Teknologi Baru
 
 Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya terus bekerja sepanjang hayat.
 

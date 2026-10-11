@@ -1,16 +1,16 @@
-## Organizing: Membangun Struktur dan Pembagian Kerja
+## Organizing untuk Membangun Struktur dan Pembagian Kerja
 
 Setelah sebuah organisasi menentukan arah dan tujuannya dalam tahap **Planning**, langkah selanjutnya adalah menentukan bagaimana cara mencapai tujuan tersebut secara efisien. Di sinilah fungsi **Organizing** (Pengorganisasian) masuk ke dalam permainan.
 
 Jika *Planning* adalah sebuah cetak biru (blueprint) sebuah gedung, maka *Organizing* adalah proses mendirikan kerangka bangunan, memasang pipa, kabel listrik, dan menentukan ruang mana yang akan digunakan untuk apa. Tanpa pengorganisasian yang baik, rencana hebat sekalipun akan berantakan karena tidak adanya kejelasan mengenai siapa melakukan apa dan siapa bertanggung jawab kepada siapa.
 
-## 1. Esensi Pengorganisasian: Mengubah Rencana Menjadi Struktur
+## 1. Mengubah Rencana Menjadi Struktur
 
 Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia serta sumber daya lainnya agar rencana yang telah dibuat dapat dilaksanakan secara efektif.
 
 > **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
-### Analogi: Dapur Restoran Bintang Lima ‍
+### Dapur Restoran Bintang Lima
 
 Bayangkan sebuah dapur restoran besar. Tanpa pengorganisasian, semua orang mungkin mencoba memasak steak di saat yang sama, sementara tidak ada yang mencuci piring atau menyiapkan bumbu.
 
@@ -72,7 +72,7 @@ Agar aktivitas selaras dengan rencana, manajer harus mengikuti alur sistematis:
 4. **Membagikan tugas** kepada individu yang dinilai kompeten.
 5. **Mendelegasikan wewenang** agar individu bersangkutan memiliki hak mengambil keputusan dan menggunakan fasilitas pendukung.
 
-## 5. Real-World Application: Transformasi Perusahaan Teknologi
+## 5. Transformasi Perusahaan Teknologi
 
 **Skenario:** Sebuah startup bernama "TechSolve" awalnya memiliki struktur **Flat** di mana 20 karyawan semuanya melapor langsung ke CEO. Seiring pertumbuhan mencapai 100 karyawan, terjadi kekacauan: CEO kelelahan karena harus menyetujui setiap pengeluaran kecil, dan proyek sering terlambat karena komunikasi yang tidak teratur.
 

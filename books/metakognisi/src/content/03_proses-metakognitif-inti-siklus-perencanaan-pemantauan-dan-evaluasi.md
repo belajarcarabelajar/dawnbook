@@ -1,4 +1,4 @@
-## Proses Metakognitif Inti: Siklus Perencanaan, Pemantauan, dan Evaluasi
+## Proses Metakognitif Inti
 
 Metakognisi adalah tentang "belajar bagaimana belajar" – sebuah kesadaran sekaligus kontrol atas proses kognitif kamu sendiri. Secara mendasar, metakognisi berputar pada tiga proses kunci yang bekerja secara berulang: **perencanaan**, **pemantauan**, dan **evaluasi**. Memahami siklus ini membuat proses belajar menjadi jauh lebih efektif, adaptif, serta mandiri. Di bagian ini, kita akan membongkar setiap proses tersebut dan melihat cara ketiganya saling terhubung.
 
@@ -10,7 +10,7 @@ Fase perencanaan adalah langkah awal dalam siklus metakognitif, di mana pembelaj
 
 Perencanaan metakognitif merupakan langkah awal untuk menetapkan tujuan, mencari strategi yang pas, serta mengaktifkan ingatan lama sebelum sesi belajar dimulai. Proses proaktif ini sangat membantu kamu saat mengarahkan fokus belajar.
 
-### Elemen Kunci dalam Perencanaan:
+### Elemen Kunci Perencanaan
 
 - **Menetapkan Tujuan Belajar:** Menentukan apa yang ingin dicapai dari sesi belajar atau tugas tertentu. Tujuan harus spesifik, terukur, dapat dicapai, relevan, dan terikat waktu (SMART).
 	- *Contoh:* Alih-alih "Saya mau belajar Biologi," tujuannya bisa diubah menjadi "Saya akan mampu menjelaskan proses fotosintesis dan respirasi seluler secara tepat dalam 30 menit ke depan."
@@ -29,7 +29,7 @@ Memasuki fase pemantauan, orang yang belajar mulai mengamati sekaligus mengatur 
 
 Secara sederhana, pemantauan metakognitif berarti kamu sadar penuh dalam mengawasi tingkat pemahaman sendiri saat belajar. Fase ini mencakup evaluasi kemajuan, pencarian titik kesulitan, hingga penyesuaian strategi di tengah jalan.
 
-### Elemen Kunci dalam Pemantauan:
+### Elemen Kunci Pemantauan
 
 - **Memeriksa Pemahaman:** Menilai secara berkala apakah materi tersebut benar-benar sudah dipahami. Praktiknya bisa berupa bertanya pada diri sendiri atau mengulang konsep memakai gaya bahasa kamu sendiri.
 	- *Contoh:* Usai menelaah paragraf yang rumit, kamu mungkin mulai bertanya, "Apakah saya sanggup menjelaskan ide utamanya ke orang lain?" atau "Bagian mana yang bikin bingung?"
@@ -50,7 +50,7 @@ Fase evaluasi adalah langkah akhir dalam siklus, yang terjadi setelah tugas bela
 
 Evaluasi metakognitif adalah proses reflektif di mana pembelajar menilai efektivitas strategi yang digunakan dan hasil belajar yang dicapai. Ini adalah kesempatan untuk belajar dari pengalaman dan menginformasikan perencanaan di masa depan.
 
-### Elemen Kunci dalam Evaluasi:
+### Elemen Kunci Evaluasi
 
 - **Menilai Efektivitas Strategi:** Merefleksikan strategi pembelajaran yang digunakan. Apa yang berhasil? Apa yang tidak berhasil? Mengapa?
 	- *Contoh:* "Apakah membuat *mind map* benar-benar membantu saya mengingat informasi ini lebih baik daripada membaca ulang?"
@@ -63,7 +63,7 @@ Evaluasi metakognitif adalah proses reflektif di mana pembelajar menilai efektiv
 
 > Evaluasi yang jujur menjadi fondasi kuat untuk terus meningkatkan kapasitas belajar. Tanpa hal itu, kamu rentan jatuh ke lubang kesalahan yang sama.
 
-## Siklus Metakognitif: Perencanaan, Pemantauan, Evaluasi yang Berulang
+## Siklus Metakognitif yang Berulang
 
 Ketiga proses ini sebenarnya tidak berjalan searah (linear), melainkan membentuk satu siklus yang dinamis, interaktif, dan adaptif.
 
@@ -77,7 +77,7 @@ Ini berarti siklus dapat diulang dalam skala mikro (selama satu sesi belajar) ma
 
 *Coba pikirkan:* Bagaimana cara paling nyaman untuk menyelipkan rutinitas perencanaan, pemantauan, dan evaluasi ini ke dalam kebiasaan belajarmu sehari-hari?
 
-### Contoh Penggunaan Nyata: Mempelajari Bahasa Pemrograman Baru
+### Siklus Metakognitif dalam Belajar Python
 
 Sekarang kita bisa melihat cara kerja siklus metakognitif lewat skenario praktis, misalnya saat mempelajari bahasa pemrograman Python.
 

@@ -24,7 +24,7 @@ Aerosol berasal dari berbagai sumber yang dapat dibagi menjadi dua kategori besa
 
 > **Analogi Sederhana:** Uap air di atmosfer diibaratkan seperti sekumpulan penari di atas lantai licin. Tanpa adanya tempat pijakan yang stabil (aerosol), molekul air akan terus bergerak tanpa berkumpul. Aerosol menyediakan permukaan bagi molekul air untuk menempel dan mulai membentuk tetesan awan.
 
-### 2. Ukuran Aerosol: Dari Nano ke Mikro
+### 2. Ukuran Aerosol
 
 Aerosol tidak memiliki ukuran yang seragam. Distribusi ukurannya menentukan seberapa lama partikel dapat bertahan di atmosfer dan seberapa efektif partikel tersebut menjadi benih awan.
 
@@ -40,7 +40,7 @@ Mengapa udara di pegunungan terasa lebih segar? Salah satu alasannya adalah kons
 
 Tidak semua aerosol dapat menjadi $\text{CCN}$. Hanya sebagian partikel yang memiliki kemampuan memicu kondensasi pada tingkat kejenuhan air di atmosfer (biasanya sedikit di atas 100%).
 
-#### Sifat Kimia: Hidroskopisitas
+#### Hidroskopisitas
 
 Kunci utama sebuah aerosol menjadi $\text{CCN}$ adalah sifat **hidroskopis** (kemampuan menyerap air).
 
@@ -60,7 +60,7 @@ $$
 
 **Catatan:** Partikel $\text{CCN}$ yang berukuran besar dan mudah larut (seperti garam laut) mengatasi hambatan kelengkungan lebih cepat dibandingkan partikel kecil yang tidak larut.
 
-### 4. Simulasi Teknis: Distribusi Ukuran Aerosol
+### 4. Distribusi Ukuran Aerosol
 
 Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Berikut adalah contoh program Python untuk memvisualisasikan penurunan konsentrasi partikel seiring bertambahnya ukuran.
 
@@ -90,12 +90,12 @@ plt.show()
 
 ### 5. Aplikasi Dunia Nyata dan Skenario
 
-#### Kasus A: Udara Laut vs. Udara Darat
+#### Udara Laut vs. Udara Darat
 
 - **Di Samudra:** Konsentrasi $\text{CCN}$ relatif rendah tetapi ukurannya besar (garam laut). Hasilnya, tetesan awan yang terbentuk berjumlah lebih sedikit dengan ukuran relatif besar, sehingga awan di atas samudra lebih cepat menghasilkan curah hujan.
 - **Di Daratan (Wilayah Terpolusi):** Konsentrasi $\text{CCN}$ sangat tinggi akibat aktivitas industri dan kendaraan. Akibatnya, uap air terbagi ke jutaan $\text{CCN}$ kecil. Terbentuklah banyak tetesan awan yang sangat kecil. Awan ini tampak lebih putih (memantulkan radiasi surya), tetapi lebih sulit menghasilkan hujan karena tetesannya terlalu ringan untuk jatuh.
 
-#### Kasus B: Penyemaian Awan (Cloud Seeding)
+#### Penyemaian Awan (Cloud Seeding)
 
 Upaya modifikasi cuaca dilakukan dengan menembakkan **Perak Iodida ($\text{AgI}$)** atau garam higroskopis ke dalam awan. Tujuannya adalah menambah jumlah $\text{CCN}$ (atau inti es, $\text{INP}$) secara buatan agar uap air memiliki permukaan untuk berkondensasi dan jatuh sebagai hujan di daerah terpencil atau wilayah terdampak kekeringan.
 

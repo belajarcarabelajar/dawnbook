@@ -4,7 +4,7 @@ Selamat datang di masa depan. Jika bab-bab sebelumnya telah membawa kamu memaham
 
 Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa di mana kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
 
-## 1\. Teknologi Induksi Flow: Dari Biofeedback ke Antarmuka Otak
+## 1\. Teknologi Induksi Flow
 
 Riset masa depan tidak lagi hanya bertanya "Apa itu *flow*?", melainkan "Bagaimana kita bisa memicu *flow* dengan menekan satu tombol?". Beberapa teknologi mutakhir yang sedang dikembangkan meliputi:
 
@@ -26,7 +26,7 @@ Di masa depan, jam tangan pintar atau cincin pintar tidak hanya menghitung langk
 
 - **Aplikasi:** Saat HRV kamu menunjukkan tingkat stres tertentu yang menghalangi *flow*, lampu ruangan atau musik di sekitar kamu akan berubah secara otomatis untuk menurunkan tingkat kecemasan (anxiety) dan membawa kamu kembali ke *Flow Channel*.
 
-## 2\. Flow dalam Desain Game Modern: Dynamic Difficulty Adjustment (DDA)
+## 2\. Dynamic Difficulty Adjustment (DDA) dalam Desain Game Modern
 
 Industri game adalah pelopor dalam penerapan teori *flow*. Namun, masa depannya terletak pada **Hiper-personalisasi**.
 
@@ -38,7 +38,7 @@ Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru te
 
 Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hancur. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
 
-## 3\. Revolusi Pendidikan: Flow-Centric Learning
+## 3\. Revolusi Pendidikan lewat Flow-Centric Learning
 
 Pendidikan konvensional sering kali menjadi pembunuh *flow* karena pendekatan *one-size-fits-all*. Masa depan pendidikan sedang bergeser menuju model yang memprioritaskan keterlibatan mendalam (deep engagement).
 
@@ -52,7 +52,7 @@ Dengan **Virtual Reality (VR)**, seorang siswa sejarah tidak lagi membaca tentan
 
 > **Penting:** Imersi total dalam VR meminimalkan gangguan eksternal (distraksi), yang merupakan musuh utama *flow*. Saat seluruh bidang pandang dan pendengaran kamu terkunci pada satu tugas, ambang batas untuk masuk ke kondisi alir menjadi jauh lebih rendah.
 
-## 4\. Studi Kasus Real-World: "The Flow Hub"
+## 4\. Ruang Kerja "The Flow Hub"
 
 Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ini bukan sekadar kantor *open-space*, melainkan lingkungan yang adaptif secara biologis.
 
@@ -72,7 +72,7 @@ Meskipun terdengar luar biasa, riset masa depan juga menghadapi dilema etis yang
 - **Ketimpangan Kognitif:** Apakah teknologi induksi *flow* hanya akan tersedia bagi mereka yang mampu membelinya, menciptakan "kelas super" manusia yang jauh lebih produktif?
 - **Privasi Mental:** Sejauh mana kita mengizinkan perusahaan atau institusi membaca gelombang otak kita demi alasan "produktivitas"?
 
-## Kesimpulan: Flow sebagai Literasi Baru
+## Flow sebagai Literasi Baru
 
 Masa depan riset *state of flow* tidak lagi memandang kondisi ini sebagai sesuatu yang mistis. Kita sedang bergerak menuju dunia di mana **kemampuan untuk masuk ke dalam flow dianggap sebagai literasi dasar**, sama pentingnya dengan membaca atau berhitung.
 

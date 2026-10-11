@@ -2,7 +2,7 @@
 
 Bab ini menyajikan sintesis akhir dari keseluruhan pembahasan mengenai sistem pengendalian topik dalam wacana pedagogi di sekolah dasar, sekaligus menghimpun rujukan akademik utama yang menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
 
-### Sintesis Akhir: Struktur dan Pengendalian Wacana Kelas SD
+### Struktur dan Pengendalian Wacana Kelas SD
 
 Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hirarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hirarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
 

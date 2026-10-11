@@ -1,10 +1,10 @@
-## Mekanisme Sinkronisasi Kernel: Menjaga Ketertiban di Tengah Kekacauan Konkurensi
+## Mekanisme Sinkronisasi Kernel
 
 Bayangkan kernel Linux sebagai dapur restoran yang sangat sibuk dengan banyak koki (CPU/core) yang bekerja secara bersamaan. Jika dua koki mencoba memotong wortel yang sama di atas talenan yang sama pada saat yang sama, kekacauan pasti terjadi. Dalam dunia sistem operasi, kekacauan ini dikenal sebagai **race condition**.
 
 Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel untuk memastikan bahwa data bersama (shared data) diakses secara tertib, mencegah korupsi data, dan menjaga integritas sistem.
 
-## 1. Memahami Masalah: Race Condition
+## 1. Memahami Masalah Race Condition
 
 **Race condition** terjadi ketika dua atau lebih alur eksekusi (thread, interrupt handler, atau proses) mengakses data bersama secara konkuren, dan hasil akhirnya bergantung pada urutan eksekusi yang tidak terduga.
 
@@ -17,11 +17,11 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
-## 2. Spinlock: Si Penjaga yang Gigih
+## 2. Spinlock Si Penjaga yang Gigih
 
 **Spinlock** adalah mekanisme penguncian paling dasar dalam kernel Linux. Ketika sebuah thread mencoba mendapatkan spinlock yang sudah dipegang oleh thread lain, thread tersebut akan terus berputar (**spin**) dalam sebuah loop kecil, berulang kali memeriksa apakah kunci sudah tersedia.
 
-### Karakteristik Utama:
+### Ciri Spinlock
 
 - **Busy Waiting:** CPU tetap aktif bekerja (berputar) saat menunggu kunci.
 - **Sangat Cepat:** Cocok untuk penguncian durasi singkat karena tidak ada overhead *context switching*.
@@ -47,11 +47,11 @@ spin_lock(&my_lock);
 spin_unlock(&my_lock);
 ```
 
-## 3. Mutex: Si Penjaga yang Sabar
+## 3. Mutex Si Penjaga yang Sabar
 
 **Mutex (Mutual Exclusion)** adalah mekanisme penguncian yang membuat thread tidur jika kunci tidak tersedia.
 
-### Karakteristik Utama:
+### Ciri Mutex
 
 - **Sleeping Lock:** Jika kunci sedang digunakan, proses yang meminta akan dimasukkan ke dalam antrean tunggu dan CPU dialihkan untuk mengerjakan tugas lain.
 - **Efisien untuk Durasi Lama:** Menghemat daya CPU jika waktu tunggu diperkirakan lama.
@@ -73,11 +73,11 @@ mutex_lock(&my_mutex);
 mutex_unlock(&my_mutex);
 ```
 
-## 4. Semaphore: Mengelola Kapasitas
+## 4. Semaphore Pengelola Kapasitas
 
 **Semaphore** mirip dengan mutex, namun memiliki hitungan (counter). Jika mutex hanya mengizinkan satu akses (biner), semaphore bisa mengizinkan beberapa akses sekaligus hingga batas tertentu.
 
-### Jenis Semaphore:
+### Jenis Semaphore
 
 1. **Binary Semaphore:** Nilainya 0 atau 1 (identik dengan mutex, namun lebih tua dan kurang dioptimasi di Linux modern).
 2. **Counting Semaphore:** Digunakan untuk membatasi akses ke sumber daya yang berjumlah banyak (misalnya membatasi hanya 5 proses yang boleh mengakses database secara bersamaan).
@@ -87,11 +87,11 @@ mutex_unlock(&my_mutex);
 - Operasi $P(S)$ (Procurar/Wait): Jika $S > 0$, maka $S = S - 1$. Jika $S = 0$, tunggu.
 - Operasi $V(S)$ (Verhogen/Signal): $S = S + 1$.
 
-## 5. RCU (Read-Copy-Update): Teknik Tanpa Kunci untuk Reader
+## 5. RCU (Read-Copy-Update) Tanpa Kunci untuk Reader
 
 **RCU** adalah mekanisme sinkronisasi tingkat lanjut yang sangat populer di kernel Linux karena performanya yang luar biasa pada sistem dengan banyak CPU (SMP). RCU sangat efektif untuk struktur data yang sering dibaca tetapi jarang dimodifikasi (seperti routing table).
 
-### Cara Kerja RCU:
+### Cara Kerja RCU
 
 1. **Read:** Reader mengakses data secara bebas tanpa kunci apa pun. Ini sangat cepat.
 2. **Copy:** Writer tidak mengubah data di tempat. Ia menyalin data lama ke area memori baru dan mengubah salinan tersebut.
@@ -109,7 +109,7 @@ mutex_unlock(&my_mutex);
 | **Overhead** | Rendah (untuk waktu singkat) | Tinggi (karena context switch) | Sangat rendah untuk reader |
 | **Kegunaan Utama** | Critical section pendek | Critical section panjang | Data yang sering dibaca |
 
-## Implementasi Nyata: Driver Sensor Suhu
+## Menulis Driver untuk Sensor Suhu
 
 Bayangkan kamu sedang menulis driver untuk sensor suhu yang datanya dibaca oleh ribuan aplikasi setiap detik, tetapi hanya diperbarui oleh satu interrupt handler perangkat keras setiap satu menit.
 

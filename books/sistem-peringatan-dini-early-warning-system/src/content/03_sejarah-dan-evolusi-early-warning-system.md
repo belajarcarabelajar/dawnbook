@@ -2,7 +2,7 @@
 
 Memahami *sejarah early warning system* membantu kamu melihat transisi dari kentongan dan pranata mangsa ke satelit dan sirene digital. Bab ini merunut evolusi dari kearifan lokal hingga kerangka global Hyogo dan Sendai, agar kamu menempatkan teknologi modern dalam konteks yang benar.
 
-### Akar Tradisional: Ketika Alam Dibaca Tanpa Sensor
+### Akar Tradisional
 
 Jauh sebelum istilah *early warning* populer, komunitas pesisir dan pegunungan sudah membangun sistem peringatan berbasis pengalaman kolektif.
 
@@ -24,7 +24,7 @@ Sistem ini murah dan tanpa listrik, tetapi lemah pada malam hari atau hujan leba
 
 dan sistem hanya berguna jika \\( T_{\text{lead}} > 0 \\) dengan margin cukup untuk evakuasi.
 
-### Instrumentalisasi Awal 1940-1990: Dari Sirene Perang ke Jaringan Meteorologi
+### Instrumentalisasi Awal 1940-1990
 
 Perang Dunia II mempercepat kebutuhan peringatan dini:
 
@@ -36,7 +36,7 @@ Perang Dunia II mempercepat kebutuhan peringatan dini:
 
 Akurasi naik, tetapi rantai informasi masih panjang.
 
-### Kerangka Global: Hyogo, Sendai, dan Empat Pilar UNESCO
+### Hyogo, Sendai, dan Empat Pilar UNESCO
 
 Dunia sepakat teknologi saja tidak cukup tanpa tata kelola.
 
@@ -63,7 +63,7 @@ UNESCO bersama *International Strategy for Disaster Reduction* merumuskan empat 
 
 Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan ada pada komunikasi dan respons, bukan deteksi.
 
-### Titik Balik Indonesia: Tsunami 2004 dan Lahirnya InaTEWS
+### Tsunami 2004 dan Lahirnya InaTEWS
 
 Gempa dan tsunami 26 Desember 2004 di Aceh menjadi titik balik Indonesia. Gelombang di atas 15 meter menewaskan lebih dari 160 ribu jiwa di Aceh dan lebih dari 230 ribu di Samudra Hindia. Saat itu Indonesia belum memiliki sistem peringatan tsunami operasional. Data gempa ada di BMKG, tetapi tidak ada kanal resmi untuk mengubah data menjadi perintah evakuasi dalam menit.
 
@@ -76,7 +76,7 @@ Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)**
 
 Pelajaran bagi kamu, InaTEWS tidak berhenti pada alat. BMKG membangun *Standard Operating Procedure* berjenjang dan BNPB mendorong desa tangguh bencana untuk latihan rutin.
 
-### Evolusi Teknologi: Satelit, Sirene Digital, dan Peringatan Berbasis Seluler
+### Satelit, Sirene Digital, dan Peringatan Berbasis Seluler
 
 Perkembangan 2010-an hingga kini memperhalus keempat pilar sekaligus.
 

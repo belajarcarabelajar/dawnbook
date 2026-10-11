@@ -1,10 +1,10 @@
-## Teori Permainan Evolusioner: Saat Biologi Bertemu Strategi
+## Teori Permainan Evolusioner
 
 Selamat datang di persimpangan yang memukau antara biologi molekuler, perilaku hewan, dan matematika strategis. Jika sebelumnya kita membahas bagaimana manusia yang "rasional" mengambil keputusan, kali ini kita akan membuang asumsi "rasionalitas" tersebut.
 
 Dalam **Teori Permainan Evolusioner (Evolutionary Game Theory - EGT)**, kita tidak bertanya "Apa yang akan dipikirkan pemain?", melainkan "Strategi mana yang akan bertahan hidup dan mendominasi populasi?"
 
-### 1. Dasar Pemikiran: Mengapa Evolusi Membutuhkan Teori Permainan?
+### 1. Mengapa Evolusi Membutuhkan Teori Permainan?
 
 Dalam teori permainan klasik, kita berasumsi pemain memiliki kecerdasan untuk memilih langkah terbaik. Namun, alam tidak bekerja seperti itu. Seekor burung tidak menghitung matriks keuntungan sebelum memperebutkan wilayah.
 
@@ -16,7 +16,7 @@ Di sini, konsep-konsep kunci berubah:
 
 > **Analogi Strategi sebagai Warisan:** Bayangkan sebuah strategi adalah sebuah "resep masakan" yang tertanam dalam DNA. Jika resep itu membuat kamu kenyang dan panjang umur, kamu akan memiliki banyak anak dan mewariskan resep tersebut kepada mereka. Seiring waktu, seluruh populasi akan memasak dengan resep yang sama.
 
-### 2. Konsep Utama: Evolutionary Stable Strategy (ESS)
+### 2. Evolutionary Stable Strategy (ESS) sebagai Konsep Utama
 
 Konsep paling fundamental dalam EGT dikembangkan oleh **John Maynard Smith** dan **George R. Price**, yang dikenal sebagai **Evolutionary Stable Strategy (ESS)**.
 
@@ -29,7 +29,7 @@ Secara matematis, misalkan $E(S, T)$ adalah *payoff* (kebugaran) yang didapat ol
 
 *Mengapa syarat kedua diperlukan? Hal itu karena jika strategi mutan $J$ memiliki performa yang sama baiknya dengan $I$ saat melawan $I$, maka satu-satunya cara agar $I$ tetap dominan adalah jika $I$ lebih unggul saat melawan si mutan $J$ itu sendiri.*
 
-### 3. Model Klasik: Hawk-Dove (Elang vs. Merpati)
+### 3. Model Klasik Hawk-Dove (Elang vs. Merpati)
 
 Mari kita lihat skenario paling terkenal untuk memahami bagaimana perilaku sosial hewan terbentuk. Bayangkan dua individu memperebutkan sumber daya bernilai $V$ (misalnya makanan). Jika mereka bertarung dan terluka, ada biaya sebesar $C$.
 
@@ -81,7 +81,7 @@ Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara in
 
 Dalam medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
 
-### 6. Contoh Kode: Simulasi Sederhana EGT
+### 6. Kode untuk Simulasi Sederhana EGT
 
 Berikut adalah cuplikan logika (Python-like pseudocode) untuk mensimulasikan perubahan populasi Hawk-Dove sederhana:
 
@@ -105,7 +105,7 @@ for generation in range(100):
     print(f"Gen {generation}: Hawk {hawk_ratio:.2f}, Dove {dove_ratio:.2f}")
 ```
 
-### 7. Kesimpulan: Pentingnya Sudut Pandang Evolusioner
+### 7. Pentingnya Sudut Pandang Evolusioner
 
 Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak logis" pada tingkat individu (seperti mengalah atau mengorbankan diri) sering kali merupakan strategi yang sangat stabil dan cerdas pada tingkat populasi.
 

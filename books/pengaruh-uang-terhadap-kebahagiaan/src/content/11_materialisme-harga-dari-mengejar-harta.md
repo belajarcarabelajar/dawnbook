@@ -1,4 +1,4 @@
-## Materialisme: Harga dari Mengejar Harta
+## Materialisme
 
 Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi perhatikan juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
 
@@ -14,7 +14,7 @@ Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan R
 
 > Mengukur harga diri dengan harta itu seperti mengukur tinggi badan dengan penggaris karet. Setiap kali kamu berdiri lebih tegak, penggarisnya ikut melar. Angkanya terus berubah, bukan karena kamu bertumbuh, tapi karena alat ukurnya tidak pernah diam.
 
-### Dua jenis keinginan: yang selalu kurang dan yang cukup
+### Keinginan yang selalu kurang dan yang cukup
 
 Kasser dan Ryan memberi kerangka yang menjelaskan kenapa ini terjadi. Ada dua jenis tujuan hidup. Pertama, tujuan ekstrinsik: uang, ketenaran, dan citra. Cirinya satu, nilainya ditentukan oleh penilaian orang lain. Gajimu bermakna karena bisa dibandingkan, ketenaramu ada karena ada yang melirik, citramu hidup karena ada yang menilai. Karena hakimnya berada di luar dirimu, kepuasan dari tujuan jenis ini tidak pernah tuntas. Selalu ada yang lebih kaya, lebih terkenal, lebih tampak sukses. Kepuasan itu terus mundur seperti garis finis yang kita kenal sejak bab pertama.
 

@@ -1,4 +1,4 @@
-## Gegar Budaya Balik (Reverse Culture Shock): Seni Menemukan Jalan Pulang
+## Gegar Budaya Balik (Reverse Culture Shock)
 
 Pernahkah kamu membayangkan bahwa pulang ke rumah sendiri bisa terasa lebih asing daripada saat kamu pertama kali menginjakkan kaki di negeri orang? Jika kamu merasa seperti orang asing di tanah kelahiran sendiri, tenanglah, kamu tidak sedang kehilangan akal. Kamu sedang mengalami **Gegar Budaya Balik** (*Reverse Culture Shock*).
 
@@ -30,7 +30,7 @@ Di mana:
 - $\Delta C$: Perbedaan budaya antara negara asal dan negara tujuan.
 - $t$: Durasi waktu tinggal di luar negeri.
 
-## Dinamika Psikologis: Model Kurva-W
+## Model Kurva-W
 
 Jika gegar budaya saat berangkat mengikuti Kurva-U, maka pengalaman total seorang perantau biasanya membentuk **Kurva-W**. Gegar budaya balik adalah bagian kedua dari "lembah" dalam kurva tersebut.
 
@@ -47,7 +47,7 @@ Gegar budaya balik tidak selalu berupa kesedihan; ia bisa muncul dalam berbagai 
 - **"Reverse Homesickness":** Merasa rindu (kangen) pada negara tempat kamu merantau sebelumnya.
 - **Kritik Berlebih:** Menjadi sangat vokal terhadap kekurangan negara asal (misalnya: "Kalau di London, busnya tidak pernah terlambat seperti ini!").
 
-## Analogi: Sepatu Lama yang Kekecilan
+## Sepatu Lama yang Kekecilan
 
 Bayangkan kamu memiliki sepasang sepatu favorit yang kamu tinggalkan di gudang selama 5 tahun. Selama 5 tahun itu, kakimu tumbuh dan bentuknya sedikit berubah karena kamu sering mendaki gunung.
 
@@ -57,11 +57,11 @@ Saat kamu pulang dan mencoba memakai sepatu itu kembali, sepatu tersebut tetapla
 
 ## Skenario Nyata & Kasus Penggunaan
 
-### Kasus 1: Mahasiswa "Fresh Graduate" yang Pulang
+### Mahasiswa "Fresh Graduate" yang Pulang
 
 Budi baru saja menyelesaikan S2 di Belanda selama 2 tahun. Di sana, ia terbiasa dengan diskusi yang blak-blakan (*direct communication*). Saat kembali bekerja di Indonesia, ia dianggap tidak sopan oleh seniornya karena terlalu berani menyanggah ide di depan umum. Budi merasa frustrasi dan merasa "pintar sendiri", padahal ia hanya sedang mengalami benturan gaya komunikasi.
 
-### Kasus 2: Profesional Ekspatriat
+### Profesional Ekspatriat
 
 Sari bekerja di Jepang selama 5 tahun di mana ketepatan waktu adalah segalanya. Saat kembali ke Jakarta dan menghadapi kemacetan serta budaya "jam karet", ia mengalami stres fisik berupa sakit kepala setiap kali harus menghadiri rapat yang terlambat.
 

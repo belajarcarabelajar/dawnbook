@@ -6,7 +6,7 @@ Secara sederhana, **Elastisitas Harga Penawaran (Price Elasticity of Supply atau
 Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, pertanyaannya adalah: **Mampukah mereka?**
 > **Insight:** Elastisitas penawaran berfokus pada kemampuan produsen dalam menyesuaikan jumlah produksi ketika harga berubah, bukan sekadar kemauan untuk menjual.
 Jika produsen dapat dengan mudah meningkatkan produksi saat harga naik sedikit saja, maka penawaran dikatakan **elastis**. Sebaliknya, jika produsen sulit menambah produksi meskipun harga melonjak tinggi, maka penawaran dikatakan **inelastis**.
-## Analogi: Karet Gelang vs. Kawat Baja
+## Karet Gelang vs. Kawat Baja
 Untuk memahami konsep ini, bayangkan dua jenis respon produksi:
 1. **Si Karet Gelang (Elastis):** Bayangkan sebuah pabrik percetakan kaos digital. Jika harga kaos tiba-tiba naik, mereka hanya perlu membeli lebih banyak kaos polos dan menjalankan mesin lebih lama. Produksi bisa "melar" dengan cepat mengikuti harga.
 2. **Si Kawat Baja (Inelastis):** Bayangkan sebuah perkebunan jati. Jika harga kayu jati naik hari ini, petani tidak bisa langsung memanen lebih banyak pohon karena pohon jati butuh waktu puluhan tahun untuk tumbuh. Produksi "kaku" dan sulit berubah dalam jangka pendek.
@@ -29,13 +29,13 @@ $$
 Karena arah perubahan harga dan jumlah penawaran searah (keduanya naik atau keduanya turun), maka nilai $E_s$ akan selalu **positif**.
 - Jika $E_s > 1$: Penawaran sangat responsif (Elastis).
 - Jika $E_s < 1$: Penawaran kurang responsif (Inelastis).
-## Aplikasi Dunia Nyata: Uber dan "Surge Pricing"
+## Uber dan "Surge Pricing"
 Salah satu contoh paling modern dari konsep elastisitas penawaran adalah sistem **Surge Pricing** (kenaikan harga saat permintaan tinggi) pada aplikasi transportasi online seperti Uber atau Grab.
 **Skenarionya:** Saat hujan deras, permintaan meningkat. Uber menaikkan harga secara otomatis. Mengapa?
 1. **Insentif bagi Produsen:** Harga yang lebih tinggi menarik pengemudi yang sedang beristirahat untuk segera masuk ke jalan (meningkatkan penawaran).
 2. **Respons Cepat:** Karena pengemudi memiliki mobilitas tinggi, mereka bisa merespons perubahan harga dalam hitungan menit. Ini adalah contoh layanan dengan penawaran yang sangat **elastis**.
 Jika Uber tidak menaikkan harga saat hujan, jumlah pengemudi di jalan tidak akan bertambah karena tidak ada insentif tambahan untuk menembus kemacetan dan hujan.
-## Perbandingan Cepat: Responsivitas Produk
+## Perbandingan Responsivitas Produk
 | Jenis Produk | Karakteristik Penawaran | Mengapa? |
 | --- | --- | --- |
 | **Produk Manufaktur (Paku, Kertas)** | Cenderung Elastis | Bisa diproduksi massal dan disimpan sebagai stok. |

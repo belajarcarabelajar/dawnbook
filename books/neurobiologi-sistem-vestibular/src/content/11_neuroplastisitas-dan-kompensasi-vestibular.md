@@ -8,14 +8,14 @@ Kemampuan pemulihan ajaib ini bukan karena organ yang rusak itu sembuh dengan se
 
 Kompensasi vestibular adalah proses pemulihan fungsional yang terjadi setelah adanya kerusakan pada sistem vestibular perifer (misalnya, akibat peradangan saraf atau trauma). Karena sel rambut vestibular pada manusia tidak dapat beregenerasi secara signifikan, otak harus belajar untuk mengabaikan sinyal yang salah dan mengandalkan sumber informasi lain.
 
-#### Analogi: Pesawat dengan Dua Mesin
+#### Pesawat dengan Dua Mesin
 
 Bayangkan sebuah pesawat terbang dengan dua mesin (telinga kiri dan kanan) yang memberikan daya dorong seimbang. Jika mesin kiri mati mendadak, pesawat akan miring dan berputar ke satu sisi secara liar.
 
 - **Fase Akut:** Pilot (otak) panik saat mencoba menstabilkan pesawat yang tidak seimbang.
 - **Kompensasi:** Pilot menyesuaikan kemudi (*re-weighting*) dan menggunakan instrumen lain seperti GPS dan pandangan visual untuk tetap terbang lurus, meskipun hanya dengan satu mesin yang tersisa.
 
-### 2. Mekanisme Neurobiologis: Bagaimana Otak Beradaptasi?
+### 2. Bagaimana Otak Beradaptasi?
 
 Proses ini terjadi terutama di **Nukleus Vestibularis (VN)** di batang otak. Kompensasi terbagi menjadi dua tahapan kritis:
 
@@ -67,11 +67,11 @@ Otak menggunakan tiga strategi utama untuk mengatasi hilangnya fungsi vestibular
 2. **Substitusi:** Menggunakan input non-vestibular. Contohnya, saat gelap (input visual hilang), orang dengan kerusakan vestibular akan lebih mengandalkan otot leher dan sendi (proprioseptif).
 3. **Habituasi:** Pengurangan respons terhadap stimulasi berulang. Otak "belajar" bahwa sinyal pusing tersebut tidak berbahaya dan mulai mengabaikannya.
 
-### 5. Aplikasi Dunia Nyata: Vestibular Rehabilitation Therapy (VRT)
+### 5. Vestibular Rehabilitation Therapy (VRT)
 
 Pengetahuan tentang neuroplastisitas ini menjadi dasar dari **Vestibular Rehabilitation Therapy (VRT)**. Tanpa latihan, kompensasi bisa terhambat atau tidak sempurna.
 
-#### Skenario Kasus: Pasien dengan Neuronitis Vestibularis
+#### Pasien dengan Neuronitis Vestibularis
 
 Seorang pasien mengalami kerusakan saraf vestibular kanan. Pasien merasa dunia berputar ke kiri.
 

@@ -1,10 +1,10 @@
-# Monitoring dan Refleksi Iklim Kelas: Kompas Menuju Kelas yang Berkelanjutan
+# Monitoring dan Refleksi Iklim Kelas
 
 Bayangkan kamu adalah seorang kapten kapal yang sedang melintasi samudra luas. kamu telah menetapkan rute (prosedur), mengatur awak kapal (norma), dan memastikan mesin bekerja dengan baik (keterlibatan aktif). Namun, tanpa melihat kompas, radar, atau mendengarkan laporan dari kru, bagaimana kamu tahu bahwa kapal tetap berada di jalur yang benar?
 
 Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen navigasi kamu. Tanpanya, strategi yang kamu terapkan hanyalah tebakan. Bagian ini akan membahas bagaimana kamu dapat menggunakan data objektif dan suara siswa untuk menyempurnakan atmosfer belajar secara terus-menerus.
 
-## 1. Memahami "Iklim Kelas": Lebih dari Sekadar Suasana
+## 1. Memahami "Iklim Kelas"
 
 Iklim kelas adalah kualitas sosial, emosional, dan fisik dari kehidupan sekolah. Ini bukan hanya tentang apakah siswa "tenang", tetapi tentang apakah mereka merasa aman, dihargai, dan tertantang untuk belajar.
 
@@ -30,7 +30,7 @@ kamu dapat menggunakan skala 1-5 ($1 = \text{Sangat Jarang}$, $5 = \text{Sangat 
 | Manajemen Transisi | 3 | Transisi dari istirahat ke pelajaran matematika terlalu bising. |
 | Penguatan Positif | 5 | Berhasil memberikan apresiasi pada kelompok belakang. |
 
-## 3. Mendengarkan Suara Siswa: Umpan Balik sebagai Data
+## 3. Mendengarkan Suara Siswa
 
 Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsung efektivitas strategi yang kamu terapkan. Mengumpulkan umpan balik dari mereka bukan berarti menyerahkan kendali kelas, melainkan membangun kemitraan.
 
@@ -61,14 +61,14 @@ $$
 
 Jika hasil monitoring menunjukkan skor $E$ rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
 
-### Siklus Refleksi Proaktif:
+### Siklus Refleksi Proaktif
 
 1. **Collect (Kumpulkan):** Ambil data dari lembar observasi atau survei siswa.
 2. **Analyze (Analisis):** Cari pola. Apakah gangguan selalu terjadi di hari Kamis jam terakhir?
 3. **Adjust (Sesuaikan):** Ubah satu variabel (misal: mengubah tempat duduk atau memperpendek durasi ceramah).
 4. **Re-evaluate (Evaluasi Ulang):** Lihat hasilnya dalam dua minggu ke depan.
 
-## 5. Aplikasi Dunia Nyata: Skenario Perbaikan
+## 5. Perbaikan Kelas Pak Budi
 
 **Skenario:** Pak Budi merasa kelasnya mulai tidak terkendali saat diskusi kelompok. Ia melakukan evaluasi diri dan menyadari bahwa ia sering membiarkan satu kelompok terlalu berisik tanpa teguran (inkonsistensi). Ia kemudian memberikan survei singkat kepada siswa.
 

@@ -30,7 +30,7 @@ Kita sering merasa bahwa jika kita berhenti sekarang, semua investasi sebelumnya
 
 Tidak ada orang yang ingin terlihat sebagai "orang yang mudah menyerah" atau plin-plan. Tekanan sosial sering kali memaksa kita untuk menyelesaikan apa yang sudah dimulai, meskipun secara objektif itu merugikan.
 
-## 3. Concorde Effect: Contoh Sejarah Paling Terkenal
+## 3. Concorde Effect
 
 Sunk Cost Fallacy sering disebut juga sebagai **Concorde Effect**. Pada tahun 1950-an hingga 1970-an, pemerintah Inggris dan Prancis bekerja sama membangun pesawat supersonik bernama Concorde.
 
@@ -42,7 +42,7 @@ Di tengah jalan, mereka menyadari bahwa pesawat ini tidak akan pernah menguntung
 
 Dalam dunia rekayasa perangkat lunak atau manajemen proyek, bias ini sering muncul saat kita terjebak pada teknologi lama atau fitur yang tidak relevan.
 
-### Skenario Proyek Perangkat Lunak:
+### Proyek Perangkat Lunak Berbasis Framework A
 
 Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggunakan *Framework A*. Di bulan ke-7, muncul teknologi baru yang jauh lebih efisien, dan data menunjukkan bahwa melanjutkan dengan *Framework A* akan membuat biaya *maintenance* membengkak di masa depan.
 
@@ -55,7 +55,7 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 
-### Contoh Kode (Logika Pengambilan Keputusan):
+### Logika Pengambilan Keputusan dalam Kode
 
 Berikut adalah simulasi sederhana dalam Python untuk membantu menentukan apakah sebuah proyek layak dilanjutkan:
 
@@ -96,7 +96,7 @@ Banyak orang bertahan dalam hubungan yang beracun (*toxic*) hanya karena mereka 
 
 Seorang mahasiswa tetap melanjutkan jurusan yang tidak ia sukai hingga lulus hanya karena "sudah semester 6". Meskipun gelar tersebut mungkin tidak akan pernah ia gunakan di masa depan.
 
-## 6. Teknik Mitigasi: Bagaimana Cara Menghindarinya?
+## 6. Teknik Mitigasi Sunk Cost Fallacy
 
 Untuk melawan Sunk Cost Fallacy, kamu perlu melatih cara berpikir objektif:
 

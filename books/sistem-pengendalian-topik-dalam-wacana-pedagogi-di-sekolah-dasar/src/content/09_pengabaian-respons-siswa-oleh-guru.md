@@ -22,7 +22,7 @@ Beberapa ciri utama dari pola pengabaian respons ini meliputi:
 
 ---
 
-### Analisis Transkrip Wacana: Pelajaran "Menanam Ubi Kayu"
+### Transkrip Wacana Pelajaran "Menanam Ubi Kayu"
 
 Untuk memahami bagaimana pengabaian respons berlangsung secara nyata di ruang kelas, mari kita cermati kutipan transkrip wacana interaksi antara guru (G) dan siswa (S) dalam pelajaran membaca dan pemahaman teks bertema "Menanam Ubi Kayu" berikut.
 

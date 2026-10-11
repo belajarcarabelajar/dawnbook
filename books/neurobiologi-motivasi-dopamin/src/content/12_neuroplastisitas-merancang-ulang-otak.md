@@ -1,6 +1,6 @@
-## Neuroplastisitas: Merancang Ulang Otak dan Sistem Motivasi
+## Merancang Ulang Otak dengan Neuroplastisitas
 
-### Kabar Baik: Otak Kamu Tidak Bersifat Statis
+### Otak Kamu Tidak Bersifat Statis
 
 Setelah mempelajari bagaimana dopamin bekerja, bagaimana sistem *reward* bisa "rusak" akibat stimulasi berlebih, dan bagaimana siklus adiksi terbentuk, kamu mungkin merasa cemas. Kamu mungkin bertanya: *"Apakah otak saya sudah rusak selamanya?"* atau *"Apakah saya akan selalu terjebak dalam motivasi yang rendah?"*
 
@@ -16,7 +16,7 @@ Secara etimologis, "neuro" merujuk pada sel saraf (neuron) dan "plastisitas" mer
 
 Dahulu, para ilmuwan percaya bahwa otak berhenti berkembang setelah masa kanak-kanak. Namun, penelitian modern membuktikan bahwa hingga usia tua pun, otak kita terus membentuk koneksi baru dan memangkas koneksi yang tidak digunakan. Dalam konteks motivasi, ini berarti **sirkuit motivasi yang lemah dapat diperkuat, dan jalur adiksi yang kuat dapat dilemahkan.**
 
-### Mekanisme di Balik Perubahan: LTP dan LTD
+### LTP dan LTD
 
 Bagaimana sebenarnya otak "belajar" untuk berubah? Ada dua proses utama yang terjadi di tingkat sinapsis (celah antar sel saraf):
 
@@ -64,11 +64,11 @@ Otak tidak berubah karena satu ledakan aktivitas besar, melainkan karena pengula
 
 - *Perbandingan:* Melakukan meditasi 5 menit setiap hari selama sebulan jauh lebih efektif untuk mengubah struktur otak daripada meditasi 5 jam hanya dalam satu hari.
 
-#### 3. Myelination: Mempercepat Koneksi
+#### 3. Myelination dan Percepatan Koneksi
 
 Setiap kali kamu mengulang perilaku positif, sel-sel saraf kamu akan mulai dibungkus oleh **Myelin**, lapisan lemak isolasi. Myelin berfungsi seperti kabel serat optik yang mempercepat transmisi sinyal saraf. Semakin banyak myelin, semakin "otomatis" dan "ringan" sebuah kebiasaan terasa.
 
-### Skenario Nyata: Dari *Scrolling* ke *Deep Work*
+### Dari *Scrolling* ke *Deep Work*
 
 Mari kita lihat skenario nyata bagaimana neuroplastisitas bekerja dalam memulihkan sistem motivasi seseorang yang kecanduan media sosial.
 

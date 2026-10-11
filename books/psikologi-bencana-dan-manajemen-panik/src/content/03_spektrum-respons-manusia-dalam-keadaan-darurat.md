@@ -4,7 +4,7 @@ Bayangan umum mengenai respons individu saat menghadapi gempa bumi besar atau ke
 
 Perilaku manusia saat krisis bukanlah fenomena biner. Reaksi individu tidak sekadar terbagi menjadi tenang versus panik, melainkan bergerak dinamis pada kontinum kognitif dan motorik yang dipengaruhi oleh tingkat persepsi ancaman, riwayat latihan kedaruratan (*stress inoculation*), serta kapasitas regulasi sistem saraf otonom.
 
-### 1. Model Distribusi Perilaku: Teori 10-80-10 John Leach
+### 1. Teori Distribusi 10-80-10 John Leach
 
 Salah satu landasan teoretis paling berpengaruh dalam psikologi kelangsungan hidup (*survival psychology*) dirumuskan oleh Dr. John Leach melalui observasi bencana maritim, kecelakaan penerbangan, dan kebakaran massal. Leach menemukan bahwa saat dihadapkan pada ancaman mematikan yang datang mendadak, populasi secara konsisten terdistribusi ke dalam tiga kategori utama:
 
@@ -74,7 +74,7 @@ Posisi seorang individu dalam kontinum respons darurat ditentukan oleh interaksi
 2. **Pusat Kendali Diri (*Internal Locus of Control*):** Keyakinan bahwa keselamatan diri bergantung pada tindakan nyata yang diambil, bukan pada pasrah terhadap takdir pasif.
 3. **Kebugaran Neurofisiologis:** Kelelahan kronis atau deprivasi tidur menurunkan kapasitas ambang batas korteks prefrontal, mempercepat transisi menuju kondisi *cognitive freezing*.
 
-### Analisis Kasus Komparatif: Skenario Darurat Pusat Perbelanjaan
+### Ragam Respons Pengunjung saat Kebakaran di Pusat Perbelanjaan
 
 Penerapan konsep spektrum respons dapat diamati secara jelas melalui simulasi kebakaran pada area publik yang padat:
 

@@ -1,8 +1,8 @@
-## Manajemen Konflik dan Resolusi Masalah: Mengubah Gesekan Menjadi Kekuatan
+## Manajemen Konflik dan Resolusi Masalah
 
 Dalam perjalanan karier seorang profesional T-shaped, konflik bukanlah tanda kegagalan tim. Perbedaan pendapat justru menjadi sinyal bahwa berbagai perspektif sedang berproses mencari jalan keluar terbaik. Oleh karena itu, manajemen konflik bukan sekadar taktik untuk memenangkan perdebatan. Fokus utamanya adalah mengarahkan perbedaan pendapat tersebut agar melahirkan solusi yang jauh lebih solid dibanding ide awal.
 
-## 1. Memahami Konflik: Gesekan yang Menggerakkan Roda
+## 1. Memahami Konflik
 
 Bayangkan sebuah mesin. Tanpa gesekan antara ban dan jalan, mobil tidak akan pernah bisa melaju. Sebaliknya, jika gesekan terlalu besar tanpa pelumas, mesin akan cepat aus dan terbakar.
 
@@ -13,7 +13,7 @@ Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 
 > **Insight Utama:** Peranmu bukan untuk meredam atau menghilangkan perbedaan pendapat sepenuhnya. Tantangan sebenarnya adalah menyalurkan benturan opini tersebut menjadi energi kreatif melalui resolusi yang profesional.
 
-## 2. Model Thomas-Kilmann: Memilih Strategi yang Tepat
+## 2. Model Thomas-Kilmann
 
 Untuk menangani konflik secara profesional, kamu perlu memahami lima gaya manajemen konflik. Model ini didasarkan pada dua dimensi utama: **Asertivitas** (sejauh mana kamu memperjuangkan kepentingan sendiri) dan **Kooperatif** (sejauh mana kamu memprioritaskan kepentingan orang lain).
 
@@ -29,11 +29,11 @@ $$
 
 Ada kalanya mengalah atau berkompromi secara sadar menjadi langkah taktis yang tepat demi menjaga stabilitas tim, asalkan tidak mengorbankan integritas sistem atau hasil akhir proyek.
 
-## 3. Teknik Resolusi Masalah: Metode Interest-Based Relational (IBR)
+## 3. Metode Interest-Based Relational (IBR)
 
 Metode IBR sangat efektif di lingkungan profesional karena secara tegas memisahkan hubungan personal dari kendala teknis yang dihadapi.
 
-### Langkah Praktis Penerapan IBR:
+### Langkah Praktis Penerapan IBR
 
 1. **Menempatkan relasi sebagai prioritas utama.** Tegaskan sejak awal bahwa kamu menghargai rekan kerja tersebut secara personal, meskipun opini kalian saat ini berseberangan.
 2. **Memisahkan individu dari masalah teknis.** Hindari kalimat menyerang seperti, "Kamu lambat mengirim data." Sebagai gantinya, gunakan deskripsi objektif: "Keterlambatan pasokan data menghambat integrasi sistem."
@@ -43,7 +43,7 @@ Metode IBR sangat efektif di lingkungan profesional karena secara tegas memisahk
 4. **Mendengar aktif sebelum merespons.** Gunakan empati untuk menangkap alasan mendasar di balik argumen mereka sebelum kamu mulai menjelaskan sudut pandangmu sendiri.
 5. **Menemukan opsi *win-win*.** Cari alternatif ketiga yang memuaskan kebutuhan bersama tanpa ada pihak yang merasa dirugikan.
 
-## 4. Mengubah Konflik Menjadi Inovasi: Creative Abrasion
+## 4. Mengubah Konflik Menjadi Inovasi
 
 Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk melahirkan solusi baru yang segar.
 
@@ -53,7 +53,7 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 - **Memvisualisasikan akar masalah.** Manfaatkan papan tulis atau *tools* kolaborasi digital. Langkah ini secara psikologis mengubah sudut pandang dari posisi "Saya vs Kamu" menjadi "Kita bersama melawan masalah."
 - **Menjadikan data sebagai penengah objektif.** Jika perdebatan mulai bias atau terlalu emosional, kembalikan fokus diskusi pada metrik kinerja atau data riil di lapangan.
 
-## 5. Studi Kasus: Skenario Teknis
+## 5. *Microservices* vs. *Monolith*
 
 **Skenario:** Andi (seorang *Lead Developer*) ingin menerapkan arsitektur *microservices* yang kompleks. Di sisi lain, Budi (seorang *Project Manager*) mendesak penggunaan arsitektur *monolith* agar rilis produk bisa lebih cepat karena tenggat waktu yang sangat ketat.
 

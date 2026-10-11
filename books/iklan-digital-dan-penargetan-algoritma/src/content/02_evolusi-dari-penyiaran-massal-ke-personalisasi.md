@@ -4,7 +4,7 @@ Dahulu, sebuah merek yang ingin mempromosikan produk baru harus berteriak sekera
 
 Selamat datang di era **Personalisasi**, sebuah pergeseran paradigma yang mengubah wajah industri periklanan selamanya.
 
-### 1. Era Penyiaran Massal (Mass Broadcasting): "Satu Pesan untuk Semua"
+### 1. Era Penyiaran Massal (Mass Broadcasting)
 
 Pada pertengahan abad ke-20, model utama periklanan adalah **Mass Broadcasting**. Media utama seperti televisi, radio, dan papan reklame (billboard) digunakan untuk mengirimkan satu pesan tunggal kepada audiens seluas mungkin.
 
@@ -16,7 +16,7 @@ Pada pertengahan abad ke-20, model utama periklanan adalah **Mass Broadcasting**
 
 > **Analogi Megafon di Stadion:** Bayangkan kamu berdiri di tengah stadion sepak bola yang penuh sesak menggunakan megafon. Kamu berteriak menawarkan "Sepatu Lari Ukuran 42". Ribuan orang mendengar kamu, tetapi sebagian besar dari mereka mungkin tidak sedang mencari sepatu, atau ukuran kakinya berbeda. Kamu membuang banyak energi untuk hasil yang sedikit.
 
-### 2. Tahap Transisi: Segmentasi Pasar
+### 2. Segmentasi Pasar
 
 Seiring berkembangnya media, pengiklan mulai beralih ke **Segmentasi**. Alih-alih satu pesan untuk seluruh dunia, mereka mulai membagi audiens ke dalam kelompok-kelompok besar berdasarkan kesamaan tertentu (demografi).
 
@@ -25,11 +25,11 @@ Seiring berkembangnya media, pengiklan mulai beralih ke **Segmentasi**. Alih-ali
 
 Meskipun lebih baik daripada penyiaran massal, segmentasi tetap memiliki kelemahan: ia memperlakukan semua orang dalam kelompok tersebut sebagai individu yang identik.
 
-### 3. Era Personalisasi: "Satu Pesan untuk Satu Individu"
+### 3. Era Personalisasi
 
 Masuknya internet dan teknologi algoritma menciptakan ledakan data yang memungkinkan transisi ke **Personalisasi** (sering disebut *One-to-One Marketing*). Di sini, iklan bukan lagi tentang "siapa kamu" (demografi), melainkan tentang "apa yang kamu lakukan" (perilaku).
 
-#### Pergeseran Fokus:
+#### Tiga Pergeseran Fokus
 
 1. **Dari Demografi ke Psikografi & Perilaku:** Bukan lagi menargetkan "Wanita, 25-35 tahun", melainkan "Seseorang yang baru saja mencari resep makanan sehat dan sering mengunjungi gym".
 2. **Dari Statis ke Dinamis:** Iklan dapat berubah secara *real-time* berdasarkan preferensi pengguna.
@@ -48,7 +48,7 @@ Pergeseran ini tidak terjadi begitu saja. Ada tiga pendorong utama:
 - **Ekspektasi Konsumen:** Konsumen kini *mengharapkan* merek untuk memahami kebutuhan mereka. Studi menunjukkan bahwa sebagian besar konsumen merasa frustrasi ketika konten situs web tidak dipersonalisasi.
 - **Efisiensi Ekonomi:** Bagi perusahaan, biaya perolehan pelanggan (Customer Acquisition Cost) menjadi jauh lebih murah jika mereka hanya menargetkan orang yang memiliki niat beli (intent) yang tinggi.
 
-### 5. Real-World Application: Skenario Perubahan
+### 5. Iklan Kopi Literan Dulu dan Kini
 
 Mari kita lihat bagaimana sebuah bisnis "Kopi Literan" berubah dari masa ke masa dalam cara mereka beriklan:
 

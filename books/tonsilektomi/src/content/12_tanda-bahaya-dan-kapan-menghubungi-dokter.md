@@ -2,7 +2,7 @@
 
 Meskipun tonsilektomi tergolong prosedur rutin yang aman, pemulihan di rumah tetap membutuhkan perhatian cermat. Bayangkan seperti merenovasi lorong yang sempit: tenggorokanmu sedang memulihkan diri, dan sewaktu-waktu bisa muncul kendala kecil yang butuh penanganan medis. Oleh karena itu, penting untuk mengenali perbedaan antara rasa tidak nyaman yang wajar dan tanda bahaya (*red flags*) yang memerlukan tindakan darurat.
 
-## 1. Pendarahan Pasca-Operasi: Prioritas Utama
+## 1. Pendarahan Pasca-Operasi sebagai Prioritas Utama
 
 Pendarahan merupakan risiko yang paling diwaspadai setelah operasi amandel. Secara medis, pendarahan ini terbagi dalam dua fase waktu:
 - **Pendarahan primer**, yang terjadi dalam 24 jam pertama pasca-operasi.
@@ -17,7 +17,7 @@ Segera pergi ke UGD jika mendapati tanda-tanda berikut:
 
 > **Analogi Sederhana:** Bayangkan luka operasi ini seperti luka lecet di lutut yang sedang mengering. Ketika mulai sembuh, terbentuk lapisan putih di tenggorokan. Jika lapisan ini terkelupas terlalu cepat karena gesekan makanan keras atau kurang minum, pembuluh darah di bawahnya bisa terbuka kembali dan memicu pendarahan.
 
-## 2. Dehidrasi: Musuh Tersembunyi
+## 2. Tanda-Tanda Dehidrasi
 
 Rasa sakit saat menelan sering kali membuat orang enggan minum. Padahal, kekurangan cairan justru memperlambat pemulihan jaringan tenggorokan dan meningkatkan risiko pendarahan sekunder.
 

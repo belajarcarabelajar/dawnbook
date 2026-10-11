@@ -4,7 +4,7 @@ Mengetahui apa itu *Flow* secara teori adalah satu hal, namun mampu memasukinya 
 
 Bagian ini dirancang untuk membekali kamu dengan "peralatan" mental dan fisik agar *State of Flow* bukan lagi sebuah kebetulan yang jarang terjadi, melainkan sebuah kondisi yang bisa kamu panggil kapan saja.
 
-## 1\. Manajemen Lingkungan: Membangun "Kapsul" Fokus
+## 1\. Manajemen Lingkungan
 
 Otak kita sangat sensitif terhadap isyarat lingkungan. Jika meja kamu berantakan atau notifikasi ponsel terus berkedip, otak akan membagi energinya untuk memproses gangguan tersebut.
 
@@ -23,7 +23,7 @@ Ini adalah medan tempur yang sesungguhnya di era modern.
 - **Mode Pesawat Digital:** Gunakan aplikasi *blocker* (seperti Freedom atau Cold Turkey) untuk mematikan akses ke media sosial.
 - **Satu Tab, Satu Tugas:** Jangan biarkan 20 tab terbuka di browser. Jika kamu sedang menulis, tutup tab email dan berita.
 
-## 2\. Ritual Pre-Work: Memanaskan Mesin Mental
+## 2\. Ritual Pre-Work
 
 Sama seperti atlet profesional yang melakukan pemanasan sebelum bertanding, kamu memerlukan ritual untuk memberi tahu otak bahwa "pertunjukan akan segera dimulai." Ritual ini membantu menurunkan hambatan masuk (*barrier to entry*) ke kondisi fokus.
 
@@ -58,11 +58,11 @@ kamu tidak bisa mengharapkan fokus yang tajam jika sepanjang hari kamu membiarka
 - **Single-Tasking:** Berlatihlah melakukan satu hal pada satu waktu, bahkan untuk hal sepele seperti makan atau berjalan. Jangan gunakan ponsel saat sedang makan.
 - **Meditasi Fokus (Anapanasati):** Fokus pada napas selama 10 menit setiap pagi. Setiap kali pikiran melantur (dan itu pasti terjadi), bawa kembali dengan lembut ke napas. Ini adalah latihan "menangkap" perhatian yang terdistraksi.
 
-## 5\. Penerapan Nyata: Skenario Engineer & Kreatif
+## 5\. Alur Kerja Seorang Programmer
 
 Mari kita lihat bagaimana teknik ini diterapkan dalam dunia nyata melalui perumpamaan teknis.
 
-### Kasus: Pemrograman (Software Engineering)
+### Pemrograman (Software Engineering)
 
 Seorang programmer ingin menyelesaikan modul logika yang kompleks. Berikut adalah alur kerjanya:
 

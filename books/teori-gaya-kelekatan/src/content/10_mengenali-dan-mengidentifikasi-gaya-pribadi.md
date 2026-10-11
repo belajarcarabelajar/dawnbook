@@ -33,7 +33,7 @@ Perhatikan juga reaksi kamu dalam situasi intim saat ini:
 * **Saat Keintiman:** Apakah kamu merasa nyaman berbagi rahasia, atau justru merasa sesak ketika seseorang mencoba mendekat?
 * **Saat Membutuhkan Bantuan:** Apakah kamu ragu meminta tolong karena takut ditolak, atau merasa orang lain tidak akan pernah tulus membantu?
 
-## 3. Latihan Praktis: Identifikasi Melalui "Pemicu" (Triggers)
+## 3. Mengenali "Pemicu" (Triggers)
 
 Gaya kelekatan paling mudah terlihat saat kamu berada di bawah tekanan emosional. Mari gunakan skenario sederhana ini untuk melihat kecenderunganmu:
 
@@ -72,7 +72,7 @@ Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi ka
 3. **Narasi Masa Kecil:** Jika kamu mendeskripsikan hubungan dengan orang tua menggunakan lima kata sifat, apa saja kata tersebut? Apakah kata-kata itu mencerminkan rasa aman atau kecemasan?
 4. **Pola Berulang:** Masalah apa yang terus-menerus muncul dalam hubungan romantis atau persahabatanmu? Misalnya, selalu merasa diabaikan, atau sebaliknya, merasa ruang pribadimu terlalu dibatasi.
 
-## 6. Kasus Nyata: Mengidentifikasi Pola dalam Pekerjaan
+## 6. Mengidentifikasi Pola dalam Pekerjaan
 
 Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat dalam dinamika pekerjaan.
 
@@ -80,7 +80,7 @@ Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat d
 
 **Analisis Pola:** Perilaku Budi menunjukkan gaya **Cemas-Preoccupied**. Kebutuhannya terhadap validasi luar sangat tinggi. Kritik baginya terasa seperti penolakan, memicu ketakutan mendalam akan ketidakmampuan diri. Pola ini sering kali berakar dari masa kecil ketika apresiasi hanya diberikan saat anak menunjukkan prestasi.
 
-## 7. Penting: Fleksibilitas dan Kesadaran
+## 7. Fleksibilitas dan Kesadaran
 
 Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa saja merasa dominan aman, namun tetap memiliki kecenderungan menghindar dalam situasi konflik tertentu.
 

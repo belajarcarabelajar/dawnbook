@@ -35,10 +35,10 @@ Analisis ini memiliki beberapa manfaat, baik teoretis maupun praktis.
 
 Dengan demikian, analisis ini dapat memberikan kontribusi penting dalam memahami novel *9 Summers 10 Autumns* dari perspektif strukturalisme dan ekspresifisme.
 
-### Implementasi Metodologi: Pemetaan Rumusan Masalah
+### Pemetaan Rumusan Masalah
 
 Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks operasional yang menghubungkan setiap rumusan masalah dengan unit analisis data. Sebagai contoh, untuk menjawab rumusan masalah ketiga mengenai cerminan kejiwaan Iwan Setyawan, kutipan-kutipan teks yang merekam kecemasan batin tokoh 'Aku' di New York dipetakan secara langsung dan disejajarkan dengan konteks latar belakang autobiografis Iwan Setyawan. Metodologi ini membuktikan hubungan korespondensi yang erat antara kondisi mental pengarang saat menulis dengan representasi kejiwaan tokoh fiksi dalam teks.
 
-### Langkah Berikutnya: Memasuki Ranah Struktural
+### Memasuki Ranah Struktural
 
 Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini. Mari kita beralih ke bab berikutnya untuk membahas teori strukturalisme dan bagaimana tema utama novel ini terbentuk.

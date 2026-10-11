@@ -1,4 +1,4 @@
-# Analisis Biaya dan Manfaat Pendidikan: Mengapa Kita Memilih Sekolah?
+# Analisis Biaya dan Manfaat Pendidikan
 
 Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal, sementara mereka bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang?
 
@@ -6,7 +6,7 @@ Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan seka
 
 ---
 
-### 1. Kerangka Dasar: Investasi vs. Konsumsi
+### 1. Apakah Pendidikan Itu Investasi atau Konsumsi?
 
 Secara tradisional, masyarakat sering menganggap sekolah sebagai kegiatan sosial atau aktivitas konsumsi. Namun, dalam analisis ekonomi, pendidikan adalah bentuk pembentukan modal (*capital accumulation*) dalam stok modal manusia.
 
@@ -21,7 +21,7 @@ Secara tradisional, masyarakat sering menganggap sekolah sebagai kegiatan sosial
 
 ---
 
-### 2. Komponen Biaya: Apa yang Sebenarnya Harus Dibayar?
+### 2. Komponen Biaya yang Sebenarnya Harus Dibayar
 
 Banyak orang mengira bahwa biaya sekolah hanya terbatas pada pembayaran SPP dan pembelian buku. Dalam ekonomi pendidikan, total biaya investasi terbagi menjadi dua komponen utama:
 
@@ -33,7 +33,7 @@ Biaya langsung mencakup seluruh pengeluaran riil yang keluar dari dompetmu:
 - **Bahan Ajar:** Buku teks, perangkat lunak khusus, dan peralatan laboratorium.
 - **Biaya Administrasi:** Pendaftaran, ujian, dan ijazah.
 
-#### Biaya Peluang (*Opportunity Costs*): "Si Pencuri Tak Terlihat"
+#### Biaya Peluang (*Opportunity Costs*) sebagai "Si Pencuri Tak Terlihat"
 
 Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya kerap menjadi **biaya terbesar** dalam keputusan pendidikan. **Biaya peluang** (*opportunity cost*) adalah potensi pendapatan yang *seharusnya* kamu terima jika kamu memilih untuk bekerja penuh waktu daripada bersekolah.
 
@@ -41,7 +41,7 @@ Biaya peluang merupakan komponen yang paling sering diabaikan, padahal nilainya 
 
 ---
 
-### 3. Komponen Manfaat: Apa yang Diperoleh?
+### 3. Komponen Manfaat yang Diperoleh
 
 Manfaat utama dari pendidikan dalam perspektif modal manusia adalah peningkatan produktivitas individu. Karena keterampilan dan pengetahuanmu meningkat, pemberi kerja bersedia membayarmu dengan tingkat kompensasi yang lebih tinggi.
 
@@ -79,7 +79,7 @@ Jika tingkat suku bunga ($r$) melonjak tinggi, nilai sekarang dari pendapatan ma
 
 ---
 
-### 5. Skenario Nyata: Simulasi Investasi Andi vs. Budi
+### 5. Simulasi Investasi Andi vs. Budi
 
 Mari bandingkan alur finansial dua lulusan SMA dengan pilihan jalur yang berbeda:
 
@@ -108,7 +108,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 ---
 
-### 7. Aplikasi Dunia Nyata: Fenomena Brain Drain
+### 7. Fenomena Brain Drain
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 

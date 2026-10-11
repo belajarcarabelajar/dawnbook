@@ -1,4 +1,4 @@
-## Terlalu Percaya Diri: Trader Aktif Justru Rugi
+## Terlalu Percaya Diri
 
 Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru memperoleh hasil paling rendah, dan data itu tercatat selama enam tahun penuh.
 

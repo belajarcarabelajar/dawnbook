@@ -1,10 +1,10 @@
-## Pengantar Ekonomi Laissez-faire: "Biarkan Saja Terjadi"
+## Pengantar Ekonomi Laissez-faire
 
 Selamat datang di titik awal penjelajahan kamu mengenai salah satu konsep paling berpengaruh dalam sejarah ekonomi modern. Bayangkan sebuah pasar yang hiruk-pikuk di mana setiap pedagang dan pembeli berinteraksi tanpa ada polisi harga, tanpa subsidi dari raja, dan tanpa aturan rumit dari pemerintah. Inilah inti dari **Laissez-faire**.
 
 Dalam bagian ini, kita akan membedah akar kata, definisi, dan pondasi filosofis yang membuat sistem ini menjadi tulang punggung pemikiran ekonomi klasik.
 
-## 1. Etimologi: Sebuah Teriakan dari Masa Lalu
+## 1. Etimologi Laissez-faire
 
 Istilah **Laissez-faire** (diucapkan: *le-se-fer*) berasal dari bahasa Prancis. Secara harfiah, istilah ini berarti **"biarkan terjadi"** atau **"biarkan berbuat."**
 
@@ -30,7 +30,7 @@ Secara teknis, **Laissez-faire** adalah doktrin ekonomi yang menyatakan bahwa si
 
 > **Penting:** Dalam sistem ini, pasar dianggap sebagai organisme yang memiliki kemampuan untuk menyembuhkan dan mengatur dirinya sendiri (*self-regulating*).
 
-## 3. Filosofi Inti: Fondasi Pemikiran
+## 3. Filosofi Inti
 
 Mengapa kita harus membiarkan pasar berjalan sendiri? Para pendukung Laissez-faire mendasarkan argumen mereka pada tiga pilar filosofis utama:
 
@@ -48,7 +48,7 @@ Filosofi ini memandang individu sebagai unit terkecil dan terpenting dalam masya
 
 Sistem ini berasumsi bahwa manusia adalah makhluk rasional. Kita akan selalu berusaha memaksimalkan keuntungan dan meminimalkan kerugian. Jika setiap orang melakukan ini, maka secara kolektif, masyarakat akan mencapai hasil yang paling efisien.
 
-## 4. Analogi: Wasit vs. Pelatih
+## 4. Wasit vs. Pelatih
 
 Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi pertandingan sepak bola:
 
@@ -67,14 +67,14 @@ Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi
 
 Meskipun saat ini hampir tidak ada negara yang menerapkan Laissez-faire 100%, prinsip-prinsipnya sering muncul dalam kebijakan tertentu.
 
-### Skenario: Industri Teknologi Baru
+### Industri Teknologi Baru
 
 Bayangkan sebuah teknologi baru muncul, misalnya **Kecerdasan Buatan (AI)**.
 
 - **Pendekatan Laissez-faire:** Pemerintah tidak langsung membuat aturan ketat. Perusahaan bebas berinovasi, bersaing, dan menentukan harga. Jika ada perusahaan yang produknya buruk, pasar akan "menghukumnya" dengan cara tidak membeli produk tersebut, dan perusahaan itu akan bangkrut secara alami tanpa perlu dibantu pemerintah.
 - **Hasil yang Diharapkan:** Inovasi melesat cepat karena tidak terhambat birokrasi, dan harga turun karena persaingan yang sengit.
 
-### Kasus Nyata: Era Awal Internet
+### Era Awal Internet
 
 Pada akhir 1990-an, pertumbuhan internet sangat pesat sebagian besar karena pemerintah di seluruh dunia (terutama Amerika Serikat) mengambil pendekatan yang relatif "lepas tangan". Hal ini memungkinkan perusahaan seperti Google, Amazon, dan eBay tumbuh tanpa harus menghadapi ribuan regulasi tradisional sejak hari pertama mereka berdiri.
 

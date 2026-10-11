@@ -1,4 +1,4 @@
-## Merancang Pertahanan: Membuat Keputusan Baik Otomatis
+## Merancang Pertahanan
 
 Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arahnya: komitmen yang mengikat, otomatisasi, dan default yang dipilih untuk dirimu sendiri.
 

@@ -4,13 +4,13 @@ Pernahkah timbul pertanyaan mengapa tubuh secara otomatis menegang dan menyesuai
 
 Inilah sistem "pilot otomatis" tubuh manusia. **Jalur Vestibulo-Spinal** adalah jembatan saraf yang menghubungkan informasi keseimbangan dari telinga dalam langsung ke otot-otot tubuh kita. Tanpa jalur ini, gravitasi akan menjadi musuh yang tak terkalahkan bagi manusia.
 
-### 1. Filosofi "Tali Tak Terlihat": Analogi Penyeimbang
+### 1. Filosofi "Tali Tak Terlihat"
 
 Bayangkan tubuh manusia seperti sebuah boneka marionet. Namun, alih-alih digerakkan oleh tangan manusia, tali-tali yang mengikat otot dikendalikan oleh sistem pengolah sinyal yang canggih di batang otak (Nukleus Vestibularis), yang menerima data waktu nyata (*real-time*) dari sensor kemiringan (labirin vestibular).
 
 Ketika tubuh miring ke kiri, pusat kendali ini menarik serat pada otot-otot sisi kanan agar tubuh tidak jatuh. Proses ini berlangsung sangat cepat, di bawah ambang kesadaran kita, sehingga dinamakan sebagai **kontrol postur otomatis**.
 
-### 2. Dua Jalur Utama: Lateral dan Medial
+### 2. Dua Jalur Utama Lateral dan Medial
 
 Sinyal dari organ vestibular tidak dikirim secara acak. Terdapat dua jalur utama yang membawa perintah dari nukleus vestibularis di batang otak menuju sumsum tulang belakang (*spinal cord*).
 
@@ -65,11 +65,11 @@ Mekanisme ini bekerja saat tubuh hendak menginisiasi suatu gerakan volunter tere
 
 ### 5. Aplikasi Dunia Nyata dan Skenario Klinis
 
-#### Skenario: Berjalan di Atas Geladak Kapal
+#### Berjalan di Atas Geladak Kapal
 
 Saat geladak kapal miring ke kanan, cairan endolimf di dalam organ telinga dalam bergeser. Secara refleks, Traktus Vestibulospinalis Lateralis ($\text{LVST}$) meningkatkan kontraksi otot ekstensor pada tungkai kanan. Kaki kanan seketika memberikan dorongan kompensasi yang lebih kokoh ke permukaan geladak. Seluruh mekanisme kompensasi ini berlangsung otomatis tanpa memerlukan instruksi sadar dari korteks serebri.
 
-#### Aplikasi Klinis: Rigiditas Deserebrasi
+#### Rigiditas Deserebrasi
 
 Pada kasus trauma kepala atau lesi struktural berat di batang otak bagian atas, pengaruh inhibisi dari korteks serebri terputus sementara jalur vestibulo-spinal di batang otak bawah tetap intak. Kondisi ini memicu manifestasi klinis yang dikenal sebagai **rigiditas deserebrasi** (*decerebrate posturing*).
 

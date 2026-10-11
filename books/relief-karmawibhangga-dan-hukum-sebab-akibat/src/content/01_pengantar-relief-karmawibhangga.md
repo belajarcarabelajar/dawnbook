@@ -1,4 +1,4 @@
-## Pengantar Relief Karmawibhangga: Cermin Kehidupan di Kaki Borobudur
+## Pengantar Relief Karmawibhangga
 
 Pernahkah kamu membayangkan sebuah "buku raksasa" yang terbuat dari batu, yang mencatat setiap detail perilaku manusia, mulai dari gosip di pasar hingga tindakan mulia seorang raja? Di dasar Candi Borobudur, terdapat sebuah mahakarya yang melakukan tepat hal tersebut.
 
@@ -19,7 +19,7 @@ $$
 \text{Niat (Intensi)} + \text{Tindakan} = \text{Hasil (Vipaka)}
 $$
 
-## 2\. Letak Geografis dan Spiritual: Kamadhatu
+## 2\. Letak Geografis dan Spiritual Kamadhatu
 
 Candi Borobudur dibangun dengan konsep **Triloka** (Tiga Dunia). Relief Karmawibhangga terletak di bagian paling bawah yang disebut **Kamadhatu**.
 
@@ -42,7 +42,7 @@ Tujuan utamanya adalah menunjukkan bahwa tidak ada tindakan yang luput dari kons
 
 Relief ini menggambarkan siklus kelahiran kembali yang tak berujung. Dengan melihat gambaran neraka dan penderitaan, pengunjung diingatkan untuk segera memperbaiki perilaku agar bisa keluar dari siklus *Samsara*.
 
-## 4\. Analogi: Cermin Retak dan Cermin Jernih
+## 4\. Cermin Retak dan Cermin Jernih
 
 Untuk memahami konsep Karmawibhangga, bayangkan sebuah **cermin**.
 
@@ -60,7 +60,7 @@ Meskipun terdiri dari 160 panel, secara umum struktur cerita di setiap panel Kar
 1. **Sisi Kiri/Tengah**: Menggambarkan **perbuatan** (misalnya: orang yang suka bergunjing atau menyiksa binatang).
 2. **Sisi Kanan**: Menggambarkan **hasil/akibat** dari perbuatan tersebut di kehidupan mendatang (misalnya: dilahirkan di alam neraka atau menderita penyakit tertentu).
 
-## 6\. Real-world Application: Relevansi Masa Kini
+## 6\. Relevansi Masa Kini
 
 Meskipun dipahat ribuan tahun lalu, pesan dari Pengantar Karmawibhangga ini sangat relevan dalam kehidupan modern:
 

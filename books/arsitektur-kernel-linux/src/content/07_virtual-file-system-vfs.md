@@ -1,10 +1,10 @@
-## Virtual File System (VFS): Sang Penerjemah Universal.
+## Virtual File System (VFS)
 
 Pernahkah kamu membayangkan bagaimana perintah `ls` atau `cp` yang sama dapat bekerja dengan lancar baik saat kamu mengakses data di hard drive (ext4), flashdisk (FAT32), hingga penyimpanan jaringan (NFS)? Di balik layar, Linux tidak menulis kode khusus untuk setiap jenis penyimpanan tersebut setiap kali aplikasi ingin membaca file. Rahasianya terletak pada **Virtual File System (VFS)**.
 
 VFS adalah lapisan abstraksi di dalam kernel Linux yang bertindak sebagai antarmuka seragam antara aplikasi user dan berbagai jenis file system. Tanpa VFS, pengembang aplikasi harus menulis logika yang berbeda-beda hanya untuk membuka sebuah file pada media penyimpanan yang berbeda.
 
-## 1. Analogi: Adaptor Colokan Listrik Universal
+## 1. Adaptor Colokan Listrik Universal
 
 Bayangkan kamu sedang bepergian keliling dunia. Setiap negara memiliki standar colokan listrik yang berbeda (Tipe A, Tipe G, atau Tipe C). Tanpa adaptor, kamu harus membawa pengisi daya khusus yang berbeda untuk setiap negara.
 
@@ -47,7 +47,7 @@ Merepresentasikan file yang sedang dibuka oleh suatu proses atau aplikasi.
 - **Detail objek:** Menjaga posisi kursor pembacaan saat ini (*offset*), mode akses yang digunakan (misalnya read-only atau write), dan pointer yang merujuk kembali ke dentry-nya.
 - **Masa hidup:** Berbeda dengan inode yang selalu ada di disk selama file belum dihapus, objek File hanya aktif di dalam memori selama aplikasi membuka file tersebut.
 
-## 3. Alur Kerja VFS: Dari Aplikasi ke Disk
+## 3. Alur Kerja VFS
 
 Mari kita amati apa yang terjadi ketika suatu aplikasi memanggil operasi `read()`:
 
@@ -60,7 +60,7 @@ Mari kita amati apa yang terjadi ketika suatu aplikasi memanggil operasi `read()
 
 *Bagaimana jika Linux tidak memiliki VFS? Tanpa lapisan ini, setiap kali ada file system baru (seperti Apple APFS atau Microsoft ReFS), kita harus memodifikasi kode program dan mengompilasi ulang semua aplikasi, mulai dari teks editor hingga web browser, agar bisa mengenali format penyimpanan baru tersebut.*
 
-## 4. Implementasi Kode: Struktur file_operations
+## 4. Struktur file_operations dalam Kode
 
 Struktur `file_operations` merupakan "kontrak" atau interface yang wajib dipenuhi oleh pembuat file system. Setiap file system harus memetakan fungsi-fungsi spesifik mereka ke dalam struktur ini.
 

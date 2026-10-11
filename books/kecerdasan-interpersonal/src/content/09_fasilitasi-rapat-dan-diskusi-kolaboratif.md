@@ -4,7 +4,7 @@ Pernahkah kamu terjebak dalam rapat yang berlangsung berjam-jam tanpa hasil jela
 
 Dalam ekosistem kerja *T-shaped professional*, rapat berfungsi sebagai mesin kolaborasi, sedangkan fasilitasi menjadi bahan bakarnya. Tanpa fasilitasi yang mumpuni, mesin tersebut akan macet atau bahkan tidak berfungsi. Materi ini akan membekali kamu dengan teknik mengelola pertemuan agar lebih produktif, inklusif, dan menghasilkan keputusan konkret.
 
-## 1. Peran Fasilitator: Sang Konduktor Orkestra
+## 1. Peran Fasilitator
 
 Bayangkan sebuah orkestra. Fasilitator berperan sebagai konduktor, bukan pemain biola utama atau pianis tunggal. Konduktor tidak menghasilkan suara dari instrumennya sendiri, tetapi memandu setiap musisi agar masuk pada waktu yang tepat, menjaga tempo, dan menyelaraskan harmoni agar simfoni terdengar indah.
 
@@ -17,7 +17,7 @@ Sebagai fasilitator, peranmu berpusat pada beberapa aspek berikut:
 
 > "Fasilitasi berasal dari bahasa Latin *facilis*, yang berarti 'mempermudah'. Tugas kamu adalah memandu proses diskusi agar tim dapat menemukan solusinya sendiri secara kolaboratif."
 
-## 2. Fase Persiapan: Sebelum Kata "Halo" Diucapkan
+## 2. Fase Persiapan
 
 Sekitar 70% keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanpa persiapan sama saja dengan merencanakan kegagalan.
 
@@ -103,7 +103,7 @@ Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan ya
 | Finalisasi desain UI *landing page* | Ahmad | 28 Jan 2026 |
 | Riset harga vendor server | Siti | 30 Jan 2026 |
 
-## 6. Studi Kasus: Skenario Konflik Kepentingan Proyek
+## 6. Konflik Kepentingan Proyek
 
 **Skenario**: Tim lintas divisi (IT, Pemasaran, dan Legal) berkumpul untuk merapatkan peluncuran aplikasi baru. Tim IT membutuhkan waktu dua minggu lagi demi stabilitas sistem, divisi Pemasaran mendesak perilisan besok pagi, sedangkan departemen Legal mengkhawatirkan celah privasi data.
 

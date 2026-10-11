@@ -1,4 +1,4 @@
-## Bias Masa Kini: Masa Depan Selalu Kalah
+## Bias Masa Kini
 
 Tagihan di meja sudah tiga hari, dan jawabanmu masih sama seperti kemarin: besok baru diurus, padahal kamu tahu besok kalimat itu akan terulang lagi.
 

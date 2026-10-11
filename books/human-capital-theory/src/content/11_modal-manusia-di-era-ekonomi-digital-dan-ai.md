@@ -4,7 +4,7 @@ Selamat datang di garis depan evolusi ekonomi. Jika pada bab-bab sebelumnya kita
 
 Bayangkan modal manusia (*Human Capital*) sebagai sebuah perangkat lunak (*software*). Di era industri, pekerja mungkin hanya memerlukan satu kali instalasi besar (seperti pendidikan tinggi) untuk bekerja selama 30 tahun. Namun, di era digital, sistem operasi dunia kerja diperbarui secara kontinu. Tanpa pembaruan berkala, modal manusia akan mengalami depresiasi teknis yang sangat cepat.
 
-### 1. Pergeseran Paradigma: Dari Tugas Rutin ke Kreativitas Digital
+### 1. Pergeseran dari Tugas Rutin ke Kreativitas Digital
 
 Transformasi teknologi tidak berarti tenaga kerja manusia digantikan secara penuh oleh mesin. Sebaliknya, terjadi pergeseran fokus pada bentuk keterampilan yang dinilai tinggi oleh pasar kerja.
 
@@ -42,7 +42,7 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 - **Upskilling**: Memperdalam atau memperbarui keterampilan yang telah dimiliki agar sejalan dengan perkembangan teknologi (contoh: akuntan yang mempelajari alur kerja AI untuk pengujian audit).
 - **Reskilling**: Mempelajari himpunan keterampilan baru untuk berpindah ke peran kerja yang berbeda (contoh: staf administrasi yang menguasai analisis data untuk beralih profesi).
 
-### 4. Perspektif Teknis: Produktivitas di Era Digital
+### 4. Produktivitas di Era Digital dalam Perspektif Teknis
 
 Secara sistematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}_{\text{adapt}}$:
 
@@ -59,7 +59,7 @@ Di mana:
 
 Jika variabel $\text{S}_{\text{adapt}}$ bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal $H$ yang dimiliki relatif tinggi.
 
-#### Skenario Aplikasi: Pengembangan Perangkat Lunak
+#### Pengembangan Perangkat Lunak
 
 Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu (*AI Assistant*) dapat menyelesaikan penulisan kode dengan tingkat efisiensi yang lebih tinggi.
 
@@ -83,7 +83,7 @@ def process_big_data(dataset):
 - **Sektor Perbankan dan Keuangan**: Dahulu, modal manusia utama perbankan berpusat pada petugas *teller* untuk transaksi kasian dan administrasi fisik. Saat ini, perbankan bertransformasi menjadi lembaga keuangan berbasis teknologi. Bank dialokasikan untuk merekrut *Data Scientist* dan memfasilitasi *reskilling* pegawai lama menjadi konsultan keuangan pribadi, beralih dari fungsi transaksional ke layanan relasional bernilai tambah tinggi.
 - **Industri Kreatif dan Desain**: Desainer grafis mengintegrasikan kecerdasan buatan generatif (*Generative AI*) untuk pembuatan draf visual awal. Alur kerja yang sebelumnya membutuhkan 10 jam untuk satu ilustrasi manual kini bergeser menjadi 1 jam penyusunan *prompt* dan 2 jam kurasi artistik. Modal manusia desainer berpindah dari kecepatan teknis mengeksekusi gambar menuju kekuatan visi estetika dan pengarahan kreatif.
 
-### 6. Tantangan: Kesenjangan Digital (The Digital Divide)
+### 6. Tantangan Kesenjangan Digital (The Digital Divide)
 
 Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ketimpangan sosial. Apabila akses terhadap teknologi pendukung dan pelatihan berteknologi tinggi hanya terakumulasi pada kelompok masyarakat tertentu, maka risiko **Digital Divide** akan semakin melebar.
 

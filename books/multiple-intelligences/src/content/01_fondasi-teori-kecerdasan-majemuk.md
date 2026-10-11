@@ -55,7 +55,7 @@ Sebuah kemampuan harus bisa dilacak letaknya di otak. Ini dibuktikan saat terjad
 
 Selain itu, jejak evolusi manusia juga dipertimbangkan, seperti kemampuan navigasi purba atau insting bertahan hidup, untuk memastikan bahwa kemampuan tersebut memang punya akar biologis yang panjang. Semua temuan ini kemudian harus bisa divalidasi dan diuji ulang lewat tugas-tugas eksperimental di ranah psikologi.
 
-## 6. Implementasi Sehari-hari: Menggeser Label Menjadi Potensi
+## 6. Menggeser Label Menjadi Potensi
 
 Pemahaman tentang kecerdasan majemuk punya dampak langsung dalam cara kita berinteraksi sehari-hari.
 

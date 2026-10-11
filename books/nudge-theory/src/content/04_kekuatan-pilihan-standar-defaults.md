@@ -33,7 +33,7 @@ Penerapan pilihan standar memiliki beberapa bentuk berbeda tergantung pada tujua
 3. **Pilihan Pintar (Smart Defaults):** Sistem memanfaatkan data pengguna untuk menentukan opsi bawaan yang paling relevan. Sebagai contoh, aplikasi pengantaran makanan mendeteksi koordinat GPS untuk mengisi alamat pengiriman secara otomatis.
 4. **Adaptive Defaults:** Pengaturan bawaan yang dinamis dan menyesuaikan diri secara bertahap mengikuti riwayat kebiasaan pengguna.
 
-## 3\. Kekuatan Statistik: Contoh Donor Organ
+## 3\. Kekuatan Statistik dalam Contoh Donor Organ
 
 Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perbandingan tingkat donor organ di berbagai negara Eropa.
 
@@ -52,7 +52,7 @@ Perbedaan partisipasi yang sangat kontras ini terjadi karena kekuatan pilihan ba
 
 Sebagai pengembang atau desainer produk, caramu menyusun kode dan antarmuka (UI) akan memengaruhi perilaku pengguna secara langsung.
 
-### Contoh Kasus: Pengaturan Privasi Data
+### Contoh Pengaturan Privasi Data
 
 Bayangkan kamu sedang membangun formulir pendaftaran. Kamu ingin mendorong pengguna menyetujui kebijakan privasi yang mendukung analitik data, tetapi tetap memberikan mereka kebebasan memilih.
 
@@ -78,7 +78,7 @@ Bayangkan kamu sedang membangun formulir pendaftaran. Kamu ingin mendorong pengg
 
 **Analisis Teknikal:** Secara teknis, menambahkan atribut `checked` pada elemen input mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
 
-## 5\. Real-World Application: Penggunaan Praktis
+## 5\. Penggunaan Praktis Pilihan Standar
 
 Penerapan pilihan standar ini banyak dijumpai dalam berbagai skenario praktis:
 

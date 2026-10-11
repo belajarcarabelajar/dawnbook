@@ -1,10 +1,10 @@
-## Digital Minimalisme dalam Lingkungan Kerja: Mengubah Kebisingan Menjadi Nilai
+## Digital Minimalisme dalam Lingkungan Kerja
 
 Di dunia kerja modern, kita sering terjebak dalam ilusi produktivitas. Kita merasa sibuk karena membalas ratusan pesan Slack, memeriksa email setiap lima menit, dan menghadiri rapat virtual berturut-turut. Namun, di akhir hari, kita sering bertanya: *"Apa yang sebenarnya sudah saya selesaikan hari ini?"*
 
 Digital minimalisme di tempat kerja mengajarkan kita untuk mengabaikan ilusi kesibukan dan mulai **menggunakan teknologi secara intensional** demi menghasilkan karya yang bermakna.
 
-## 1\. Konsep Deep Work: Inti dari Produktivitas Minimalis
+## 1\. Konsep Deep Work
 
 Istilah **Deep Work**, yang dipopulerkan oleh Cal Newport, adalah kemampuan untuk fokus tanpa gangguan pada tugas yang menuntut secara kognitif. Ini adalah lawan dari *Shallow Work*, tugas-tugas administratif yang bisa dilakukan sambil mengantuk.
 
@@ -24,7 +24,7 @@ Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil 
 
 Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata 20 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
 
-### Strategi Praktis Mengurangi Gangguan:
+### Strategi Praktis Mengurangi Gangguan
 
 Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada sistem operasi atau aplikasi kerja agar masuk ke mode *Do Not Disturb* pada jam-jam sibuk. Daripada membalas pesan secara langsung saat masuk, tetapkan jendela waktu tertentu, misalnya pagi, siang, dan sore, khusus untuk memproses email dan obrolan. Di luar urusan komunikasi, pastikan juga desktop kamu bersih dari tab browser yang berserakan. Lingkungan digital yang berantakan sama melelahkannya dengan meja fisik yang penuh tumpukan kertas.
 
@@ -60,13 +60,13 @@ print("Pembersihan selesai! Fokuslah pada hal yang lebih penting.")
 
 Dengan mengotomatiskan hal-hal kecil, kamu mengurangi *cognitive load* dalam mengelola perangkat kerjamu.
 
-## 4\. Implementasi Strategis: Time-Blocking
+## 4\. Time-Blocking
 
 Minimalisme dalam kerja membuatmu sangat protektif terhadap waktu. Salah satu pendekatan yang paling bisa diandalkan adalah **Time-Blocking**.
 
 Anggaplah kalender kamu sebagai ruang fisik; jika sebuah tugas tidak masuk ke dalamnya, kemungkinan besar tugas itu tidak akan diselesaikan dengan fokus penuh. Kamu bisa memulai dengan menjadwalkan blok *deep work* selama 90-120 menit di pagi hari ketika energi otak sedang maksimal. Sisa-sisa pekerjaan administratif seperti mengurus balasan email atau mengisi *timesheet* kemudian digabungkan ke dalam satu sesi singkat di sore hari. Saat sedang berada di blok fokus utama, batasi akses internet seketat mungkin dan gunakan aplikasi pemblokir situs web agar godaan internet bisa diredam.
 
-## 5\. Real-World Application: Skenario Tim Proyek
+## 5\. Tim Proyek Perangkat Lunak
 
 Mari kita lihat skenario tim pengembang perangkat lunak yang menerapkan digital minimalisme. Awalnya, mereka terjebak dalam siklus rapat yang molor, rentetan notifikasi Slack tentang *bug* sepele, dan tumpukan email tanpa henti. Dampaknya, semua orang merasa lelah sementara perkembangan fitur utama jalan di tempat. 
 

@@ -1,4 +1,4 @@
-## Siklus Manajemen: Keterkaitan Antar Fungsi POAC
+## Siklus Manajemen dan Keterkaitan Antar Fungsi POAC
 
 Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul pertanyaan: *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
 
@@ -8,7 +8,7 @@ Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tid
 
 Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **interaktif**. Setiap fungsi memberikan input bagi fungsi berikutnya, dan hasil dari fungsi terakhir akan menjadi bahan evaluasi untuk memulai kembali siklus dari awal.
 
-### Analogi: Perjalanan Menuju Puncak Gunung
+### Perjalanan Menuju Puncak Gunung
 
 - **Planning (P):** Menetapkan puncak tujuan pendakian, rute perjalanan, serta kebutuhan logistik selama perjalanan.
 - **Organizing (O):** Pembagian beban bawaan, penunjukan pemegang kompas atau peta, serta pembagian peran seperti juru masak dan pemimpin barisan.
@@ -48,7 +48,7 @@ Keberlanjutan organisasi sangat bergantung pada seberapa cepat informasi mengali
 
 Sebagai contoh, jika sebuah perusahaan ponsel pintar tetap menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 
-## 4. Real-World Application: Peluncuran Produk Startup
+## 4. Peluncuran Produk Startup
 
 Mari kita lihat skenario sebuah startup teknologi bernama **"EcoDrive"** yang membuat aplikasi berbagi kendaraan listrik.
 

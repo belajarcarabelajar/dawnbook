@@ -1,4 +1,4 @@
-## Eksplorasi Diri: Menemukan 'Apa yang Kamu Cintai'
+## Eksplorasi Diri
 
 Di sini kita fokus pada pilar pertama dari Ikigai: **Apa yang Kamu Cintai** (*What You Love*). Area ini merupakan sumber energi utama. Mencari tahu apa yang benar-benar kamu nikmati adalah langkah awal untuk memetakan tujuan hidupmu.
 
@@ -8,7 +8,7 @@ Pilar "Apa yang Kamu Cintai" berfungsi sebagai pemberi makna. Tanpa gairah ini, 
 
 > **Catatan:** Fokuslah murni pada perasaan senang dan ketertarikan pribadimu. Abaikan sejenak pertanyaan tentang seberapa jago kamu di bidang itu atau apakah hal tersebut bisa menghasilkan uang.
 
-## Latihan Refleksi: Menggali Gairah
+## Menggali Gairah
 
 Mari kita bedah beberapa sudut pandang untuk membantumu mengenali percikan kegembiraan yang sesungguhnya.
 

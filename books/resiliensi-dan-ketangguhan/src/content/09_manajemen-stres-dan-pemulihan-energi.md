@@ -4,7 +4,7 @@ Bayangkan dirimu seperti sebuah baterai ponsel pintar tercanggih di dunia. Seheb
 
 Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan adalah kemampuan untuk mengenali kapan "daya"-mu menipis dan tahu persis bagaimana cara mengisinya kembali secara efektif.
 
-### 1. Memahami Biologi Stres: Teman atau Lawan?
+### 1. Biologi Stres
 
 Stres seringkali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **Kortisol** dan **Adrenalin**.
 
@@ -14,7 +14,7 @@ Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membant
 
 *Kapan terakhir kali kamu merasa stres namun justru merasa produktif? Dan kapan stres tersebut mulai terasa melumpuhkan?*
 
-### 2. Strategi Manajemen Stres: Teknik "Grounding" dan Pernapasan
+### 2. Teknik "Grounding" dan Pernapasan
 
 Untuk mengelola stres secara instan, kita perlu menginterupsi respons fisiologis tubuh. Berikut adalah dua teknik berbasis sains yang bisa kamu gunakan di mana saja:
 
@@ -39,7 +39,7 @@ Teknik ini memaksa otakmu kembali ke saat ini (*present moment*) dan menghentika
 - **2** aroma yang bisa kamu **cium**.
 - **1** hal yang bisa kamu **rasakan/kecap**.
 
-### 3. Pemulihan Energi: Lebih dari Sekadar Tidur
+### 3. Lebih dari Sekadar Tidur
 
 Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi yang sejati mencakup beberapa dimensi. Dr. Saundra Dalton-Smith mengidentifikasi bahwa manusia membutuhkan setidaknya tiga jenis istirahat utama untuk menjaga resiliensi:
 
@@ -61,7 +61,7 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 
 **Latihan Micro-Mindfulness:** Cobalah untuk melakukan satu aktivitas rutin, seperti mencuci piring atau berjalan menuju parkiran, dengan kesadaran penuh. Rasakan tekstur air, suhu udara, dan sensasi kaki menyentuh tanah. Ini melatih otot otak untuk kembali ke kendali diri saat stres melanda.
 
-### 5. Real-World Application: Skenario Manajemen Energi
+### 5. Deadline Proyek Besar
 
 **Kasus: Deadline Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
 

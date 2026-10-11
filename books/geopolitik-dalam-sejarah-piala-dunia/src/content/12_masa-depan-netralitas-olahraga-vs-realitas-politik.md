@@ -1,8 +1,8 @@
-## Masa Depan: Netralitas Olahraga vs Realitas Politik
+## Masa Depan Netralitas Olahraga vs Realitas Politik
 
 Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau berubah menjadi panggung teater bagi ambisi global. Dari tribun yang dipenuhi fasisme di Italia 1934 hingga gemerlap *soft power* di padang pasir Qatar 2022, Piala Dunia tidak pernah sebatas permainan di lapangan hijau. Namun, saat kita menatap masa depan, sebuah pertanyaan besar membayangi: **Mungkinkah olahraga tetap netral di dunia yang semakin terbelah?**
 
-### Evolusi Peran Politik: Dari Propaganda ke "Sportswashing"
+### Evolusi Peran Politik dari Propaganda ke "Sportswashing"
 
 Sejarah menunjukkan bahwa hubungan politik dan Piala Dunia bersifat dinamis serta terus berevolusi mengikuti perkembangan zaman. Mari kita lihat transformasinya dalam sebuah formula sederhana:
 
@@ -16,7 +16,7 @@ Kemudian masuk ke **Era Eksklusi dan Boikot (1960 - 1990-an)**. Politik menjadi 
 
 Di **Era Soft Power dan Branding (2000-an - Sekarang)**, fokus bergeser dari dominasi ideologis ke pencucian citra (*sportswashing*) dan pembangunan citra negara (*nation branding*). Daya tarik budaya dan pengaruh ekonomi kini menjadi instrumen utama.
 
-### Dilema FIFA: Antara Piagam dan Kenyataan
+### Dilema FIFA antara Piagam dan Kenyataan
 
 FIFA selalu memegang prinsip **Netralitas Politik**. Dalam aturan resminya, mereka melarang intervensi pemerintah dalam urusan federasi sepak bola nasional dan melarang simbol-simbol politik di lapangan.
 
@@ -34,7 +34,7 @@ Dalam lanskap geopolitik modern, netralitas sering kali dianggap sebagai keberpi
 
 Masa depan Piala Dunia bergeser dari satu negara tuan rumah menjadi kolaborasi antar-negara dan benua. Ini adalah strategi cerdik namun penuh risiko politik.
 
-#### 1\. Piala Dunia Multi-Negara (Contoh: 2026 & 2030)
+#### 1\. Piala Dunia Multi-Negara (2026 & 2030)
 
 Piala Dunia 2026 (AS, Kanada, Meksiko) dan 2030 (Maroko, Spanyol, Portugal, dengan pertandingan pembuka di Amerika Selatan) menunjukkan tren desentralisasi.
 
@@ -47,7 +47,7 @@ Kekuatan finansial dari negara-negara Teluk atau Asia Timur akan terus menantang
 
 Jika sebuah negara dengan catatan HAM yang buruk menawarkan infrastruktur terbaik dan dana tak terbatas, apakah integritas olahraga harus dikorbankan demi kelangsungan finansial turnamen?
 
-### Aplikasi Dunia Nyata: Studi Kasus Rusia 2022
+### Penangguhan Rusia 2022
 
 Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (bersama UEFA) mengambil langkah drastis dengan menangguhkan semua tim Rusia dari kompetisi mereka.
 
@@ -57,7 +57,7 @@ Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (be
 - Keputusan ini menciptakan **preseden hukum** yang kuat. Ke depan, publik global akan menuntut keadilan serupa apabila konflik militer terjadi di belahan dunia lain.
 - **Tekanan Sponsor**: Di balik argumen moral, keputusan penangguhan ini juga didorong oleh keprihatinan komersial. Para sponsor besar enggan merek mereka dikaitkan dengan negara yang tengah melakukan agresi militer.
 
-### Kesimpulan: Menuju Diplomasi Sepak Bola yang Baru
+### Menuju Diplomasi Sepak Bola yang Baru
 
 Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. FIFA mungkin tidak akan pernah bisa benar-benar netral, tetapi mereka harus belajar menyeimbangkan kepentingan politik tanpa menghancurkan esensi sepak bola itu sendiri.
 

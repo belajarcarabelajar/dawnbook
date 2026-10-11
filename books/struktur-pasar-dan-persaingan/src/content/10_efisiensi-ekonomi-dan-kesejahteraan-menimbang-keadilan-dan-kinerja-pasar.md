@@ -1,4 +1,4 @@
-## Efisiensi Ekonomi dan Kesejahteraan: Menimbang Keadilan dan Kinerja Pasar
+## Efisiensi Ekonomi dan Kesejahteraan
 
 Dalam perjalanan kamu memahami struktur pasar, kamu telah melihat bagaimana perusahaan berperilaku, dari yang tunduk pada harga pasar hingga yang berkuasa menentukan harga sendiri. Namun, pertanyaan besarnya: **Manakah dari struktur pasar ini yang paling menguntungkan bagi masyarakat?**
 
@@ -20,7 +20,7 @@ Efisiensi ini tercapai ketika sumber daya dialokasikan untuk menghasilkan barang
 
 - **Analogi:** Pabrik roti mungkin sangat efisien memproduksi roti rasa "bawang mentah", tetapi jika masyarakat lebih menginginkan roti cokelat, sumber daya tersebut **tidak efisien secara alokatif**.
 
-## 2. Mengukur Kesejahteraan: Surplus Konsumen dan Produsen
+## 2. Mengukur Kesejahteraan lewat Surplus Konsumen dan Produsen
 
 Untuk memahami dampak struktur pasar terhadap masyarakat, kamu dapat menggunakan konsep **Surplus Ekonomi**.
 
@@ -55,7 +55,7 @@ Monopoli cenderung tidak efisien bagi kesejahteraan masyarakat.
 - **Persaingan Monopolistik:** Mengalami sedikit inefisiensi karena diferensiasi produk $P > \text{MC}$. Meskipun demikian, konsumen memperoleh kompensasi berupa keragaman produk.
 - **Oligopoli:** Jika produsen berkolusi, tingkat efisiensinya menyerupai monopoli. Sebaliknya, jika terjadi persaingan harga ketat, efisiensinya mendekati pasar persaingan sempurna.
 
-## 4. Visualisasi Matematika: Deadweight Loss
+## 4. Visualisasi Matematika dari Deadweight Loss
 
 Efisiensi sering kali terdistorsi dalam pasar tidak sempurna. Jika pada persaingan sempurna titik keseimbangan berada pada $(Q_{\text{pc}}, P_{\text{pc}})$, monopoli memilih titik keseimbangan $(Q_m, P_m)$ dengan kondisi $Q_m < Q_{\text{pc}}$ dan $P_m > P_{\text{pc}}$.
 
@@ -67,7 +67,7 @@ $$
 
 > **Pertimbangan Kebijakan:** Apakah harga tinggi selalu merugikan masyarakat? Dalam industri farmasi, misalnya, margin keuntungan yang tinggi kerap dimanfaatkan perusahaan untuk membiayai riset dan pengembangan obat baru yang menyelamatkan banyak nyawa.
 
-## 5. Aplikasi Dunia Nyata: Dampak Privatisasi
+## 5. Dampak Privatisasi pada Perusahaan Air Minum
 
 **Skenario: Transformasi Perusahaan Air Minum**
 

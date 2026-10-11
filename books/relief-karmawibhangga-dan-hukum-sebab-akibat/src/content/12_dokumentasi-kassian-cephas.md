@@ -1,4 +1,4 @@
-## Dokumentasi Kassian Cephas: Mata yang Menembus Tembok Batu
+## Dokumentasi Kassian Cephas
 
 Bayangkan kamu memiliki sebuah buku cerita yang sangat indah, tetapi untuk memastikan rumah kamu tetap berdiri kokoh, kamu terpaksa menimbun buku tersebut di dalam fondasi semen. Cerita di dalamnya akan hilang selamanya, kecuali jika seseorang sempat memotret setiap halamannya sebelum semen itu dituang.
 
@@ -14,7 +14,7 @@ Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer 
 - Reputasinya dalam menghasilkan detail gambar yang tajam.
 - Kemampuannya bekerja dalam kondisi lapangan yang sulit.
 
-## Misi Penyelamatan Visual: 1890-1891
+## Misi Penyelamatan Visual 1890-1891
 
 Ketika kaki asli Borobudur ditemukan, para arkeolog menghadapi dilema besar. Membiarkan kaki itu terbuka akan membahayakan stabilitas struktur seluruh candi (risiko longsor atau runtuh). Namun, menutupnya kembali tanpa dokumentasi berarti menghilangkan data sejarah yang tak ternilai.
 

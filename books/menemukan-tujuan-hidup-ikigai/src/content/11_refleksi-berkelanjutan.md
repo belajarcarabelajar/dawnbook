@@ -1,4 +1,4 @@
-## Refleksi Berkelanjutan: Ikigai sebagai Perjalanan
+## Refleksi Berkelanjutan dalam Perjalanan Ikigai
 
 Ikigai sering kali disalahpahami sebagai garis akhir yang statis, seolah setelah ditemukan akan tetap sama selamanya. Padahal, esensi Ikigai terletak pada sifatnya yang dinamis dan evolusioner. Ikigai merupakan sebuah perjalanan panjang yang menuntut refleksi diri secara berkala, adaptasi terhadap perubahan, dan komitmen terhadap pertumbuhan pribadi.
 
@@ -40,7 +40,7 @@ Pembelajaran seumur hidup, baik melalui buku, kursus, maupun diskusi dengan berb
 
 Semakin dalam kamu memahami kekuatan, kelemahan, nilai-nilai, serta keinginan terdalam, semakin utuh pula gambaran Ikigai yang kamu miliki. Perubahan yang terjadi dalam diri merupakan tanda bahwa Ikigai mungkin memerlukan penyelarasan ulang.
 
-### Studi Kasus: Evolusi Ikigai Seorang Desainer Grafis
+### Evolusi Ikigai Seorang Desainer Grafis
 
 Mari kita lihat contoh perjalanan Ayu, seorang desainer grafis.
 

@@ -1,4 +1,4 @@
-## Tahap Operasional Formal: Gerbang Menuju Pemikiran Tanpa Batas (11 Tahun ke Atas)
+## Tahap Operasional Formal (11 Tahun ke Atas)
 
 Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi pemikiran mereka masih terbatas pada objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 
@@ -33,7 +33,7 @@ Maka kita bisa menyimpulkan $Q$ pasti benar.
 
 Saat memecahkan masalah, remaja mulai terorganisir. Mereka berhenti memakai cara coba-coba acak (*trial and error*) dan beralih menguji variabel satu per satu.
 
-## 3\. Eksperimen Klasik: Masalah Pendulum
+## 3\. Eksperimen Pendulum
 
 Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah masuk ke operasional formal.
 
@@ -94,7 +94,7 @@ def check_connection(router_status, isp_status):
 ## Remaja operasional formal bisa mensimulasikan percabangan logika (if-else) ini di kepala mereka sebelum mulai bertindak.
 ```
 
-## 6\. Sisi Lain: Egosentrisme Remaja
+## 6\. Egosentrisme Remaja
 
 Uniknya, lonjakan kecerdasan ini juga memunculkan egosentrisme jenis baru. Karena mereka sekarang bisa memikirkan "apa yang orang lain pikirkan", remaja sering salah mengira bahwa semua orang selalu memperhatikan mereka.
 

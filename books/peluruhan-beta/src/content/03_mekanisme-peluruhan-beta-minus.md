@@ -15,7 +15,7 @@ Untuk mencapai keseimbangan, inti tersebut mengubah salah satu neutronnya menjad
 
 > **Analogi Sederhana:** Bayangkan seorang pemain sepak bola yang kelebihan berat badan (neutron) sehingga gerakannya lambat dan tidak stabil. Untuk menjadi pemain yang lincah dan stabil (proton), ia harus melepaskan beban ekstra (elektron) dan keringat yang tak terlihat (antineutrino). Pemain tersebut tetap orang yang sama di tim, tetapi sifatnya berubah.
 
-## Mekanisme Transformasi: Dari Neutron ke Proton
+## Dari Neutron ke Proton
 
 Mari kita bedah apa yang terjadi di tingkat subatomik. Proses ini digerakkan oleh **Gaya Nuklir Lemah** (*Weak Nuclear Force*), salah satu dari empat gaya fundamental di alam semesta.
 
@@ -57,7 +57,7 @@ Sebelum tahun 1930-an, para ilmuwan bingung karena energi yang dilepaskan dalam 
 
 Partikel ini disebut **Antineutrino**. Ia tidak membawa muatan listrik dan memiliki massa yang sangat kecil sehingga bisa menembus bumi tanpa menabrak satu atom pun! Inilah alasan mengapa partikel beta (elektron) yang kita deteksi memiliki spektrum energi yang bervariasi, bukan satu angka tetap.
 
-## Contoh Kasus: Peluruhan Karbon-14
+## Peluruhan Karbon-14
 
 Salah satu contoh paling terkenal dari peluruhan $\beta^-$ adalah isotop Karbon-14 yang digunakan dalam penanggalan arkeologi.
 

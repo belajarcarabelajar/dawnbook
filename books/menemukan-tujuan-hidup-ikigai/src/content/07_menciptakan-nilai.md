@@ -1,4 +1,4 @@
-## Menciptakan Nilai: 'Apa yang Dapat Menghasilkan Uang'
+## Menciptakan Nilai
 
 Pilar 'Apa yang Dapat Menghasilkan Uang' dalam kerangka Ikigai berfokus pada bagaimana minat, bakat, dan kontribusi kamu kepada dunia dapat diubah menjadi sumber pendapatan yang berkelanjutan. Ini adalah aspek penting karena memungkinkan kamu mempertahankan gaya hidup sambil mengejar tujuan yang bermakna. Tanpa komponen ini, Ikigai mungkin akan tetap menjadi hasrat atau hobi tanpa dukungan finansial, yang pada akhirnya bisa sulit dipertahankan dalam jangka panjang.
 
@@ -14,7 +14,7 @@ Setelah itu, lakukan riset pasar awal. Lihat apakah ada permintaan di pasar untu
 
 Sebuah cara praktis adalah membuat daftar 'Masalah & Solusi'. Di satu sisi, tuliskan masalah yang bisa kamu selesaikan. Di sisi lain, tuliskan solusi yang bisa ditawarkan berdasarkan keahlianmu, lalu temukan titik temunya.
 
-## 2. Jalur Karier: Menemukan Pekerjaan yang Selaras
+## 2. Menemukan Pekerjaan yang Selaras
 
 Bekerja sebagai karyawan adalah rute paling umum untuk menghasilkan uang. Namun dalam konteks Ikigai, kamu didorong untuk mencari atau menciptakan pekerjaan yang tidak asal membayar tagihan. Pekerjaan tersebut idealnya memanfaatkan apa yang kamu cintai dan kuasai, sembari menjawab apa yang dibutuhkan dunia.
 
@@ -24,7 +24,7 @@ Pasar kerja akan terus berubah. Kamu perlu terus mengembangkan keterampilan yang
 
 > **Contoh Kasus:** Seseorang yang mencintai alam, jago fotografi, dan melihat kebutuhan akan kesadaran lingkungan, bisa mencari pekerjaan sebagai fotografer dokumenter untuk organisasi konservasi. Pilihan lainnya adalah menjadi fotografer lanskap yang menjual karyanya guna mendanai kampanye lingkungan.
 
-## 3. Kewirausahaan: Mengubah Ide Menjadi Bisnis
+## 3. Mengubah Ide Menjadi Bisnis
 
 Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan bentuk paling murni dari Ikigai yang dimonetisasi, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
 

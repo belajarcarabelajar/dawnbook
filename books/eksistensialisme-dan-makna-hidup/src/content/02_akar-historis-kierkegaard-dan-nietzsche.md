@@ -1,10 +1,10 @@
-## Akar Historis: Kierkegaard dan Nietzsche
+## Akar Historis Kierkegaard dan Nietzsche
 
 Selamat datang di titik awal perjalanan eksistensialisme. Sebelum Jean-Paul Sartre mempopulerkan istilah ini di kafe-kafe Paris pada abad ke-20, dua pemikir besar abad ke-19 telah meletakkan fondasinya. Meskipun mereka tidak pernah bertemu dan memiliki latar belakang yang sangat berbeda (yang satu seorang Kristen taat dan yang lainnya pengkritik keras agama), keduanya sepakat pada satu hal: **Individu adalah pusat dari kebenaran.**
 
 Mari kita telusuri bagaimana kegelisahan Søren Kierkegaard dan pemberontakan Friedrich Nietzsche membentuk cara kita memahami makna hidup hari ini.
 
-## 1. Søren Kierkegaard: Bapak Eksistensialisme dan Kesatria Iman
+## 1. Søren Kierkegaard sebagai Bapak Eksistensialisme dan Kesatria Iman
 
 Søren Kierkegaard (1813–1855) adalah seorang filsuf Denmark yang merasa muak dengan filsafat sistematis zamannya yang mencoba menjelaskan segalanya secara logis. Bagi Kierkegaard, hidup bukanlah teka-teki logika untuk dipecahkan. Hidup adalah kenyataan yang mesti kamu jalani.
 
@@ -26,7 +26,7 @@ Kierkegaard berpendapat bahwa manusia bergerak melalui tiga tahap dalam pencaria
 
 Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika $2 + 2 = 4$. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
 
-## 2. Friedrich Nietzsche: Kematian Tuhan dan Kelahiran Nilai Baru
+## 2. Kematian Tuhan dan Kelahiran Nilai Baru menurut Friedrich Nietzsche
 
 Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900) melihat bahwa peradaban Barat sedang menuju krisis besar karena kehilangan landasan moral tradisionalnya.
 
@@ -39,7 +39,7 @@ Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. D
 
 Nihilisme adalah kondisi ketika hidup terasa hampa, tanpa tujuan, arti, atau nilai bawaan.
 
-### Ubermensch: Manusia Unggul
+### Ubermensch
 
 Nietzsche tidak ingin manusia terpuruk dalam nihilisme. Sebagai penawarnya, dia menggagas konsep **Übermensch** (Manusia Unggul). Konsep ini merujuk pada sosok individu mandiri yang:
 
@@ -53,7 +53,7 @@ Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala 
 
 > **Penting:** Dalam konteks ini, kehendak untuk berkuasa merujuk pada penguasaan atas diri sendiri (*self-mastery*), bukan dominasi untuk menindas orang lain.
 
-## Perbandingan: Kierkegaard vs Nietzsche
+## Kierkegaard vs Nietzsche
 
 | Konsep | Søren Kierkegaard | Friedrich Nietzsche |
 | --- | --- | --- |
@@ -62,14 +62,14 @@ Nietzsche percaya dorongan dasar manusia melampaui sekadar pertahanan hidup ala 
 | **Pandangan tentang Individu** | Individu yang berdiri sendiri di hadapan Tuhan. | Individu yang mengatasi diri sendiri di dunia. |
 | **Fokus Utama** | Subjektivitas dan Iman. | Kehendak untuk Berkuasa dan Kreativitas. |
 
-## Real-world Application: Mengapa Mereka Relevan Sekarang?
+## Mengapa Mereka Relevan Sekarang?
 
 Gagasan kedua pemikir ini bukan sekadar warisan masa lalu. Kita bisa memanfaatkannya sebagai panduan praktis untuk mengarungi dinamika dunia modern:
 
 - **Menjinakkan FOMO (Fear of Missing Out)**: Gagasan Kierkegaard tentang kecemasan mengingatkan kita bahwa bingung memilih arah adalah tanda kebebasan yang nyata. Alih-alih cemas dan menghindar, kita ditantang mengambil keputusan secara utuh.
 - **Navigasi Krisis Makna di Era Digital**: Nietzsche menawarkan jalan keluar dari kehampaan modern lewat konsep *Übermensch*. Kita didorong menolak arus tren media sosial secara buta, lalu merumuskan sendiri prinsip hidup yang berharga, misalnya memprioritaskan integritas dibanding popularitas.
 
-### Skenario Singkat: Karier vs Panggilan
+### Karier vs Panggilan
 
 Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 

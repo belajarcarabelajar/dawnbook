@@ -1,8 +1,8 @@
-## Implementasi Eksistensialisme di Era Modern: Navigasi Kebebasan di Tengah Kebisingan Digital
+## Implementasi Eksistensialisme di Era Modern
 
 Implementasi eksistensialisme di era kontemporer menuntut ketahanan kritis subjek dalam menavigasi determinisme algoritma dan tekanan konformitas digital. Di tengah pesatnya perkembangan teknologi informasi, ancaman terhadap kedaulatan kehendak bebas tidak lagi berwujud koersi fisik langsung, melainkan hadir melalui kurasi data perilaku, optimasi keterlibatan algoritmis, dan standarisasi persepsi sosial.
 
-### 1. Fenomenologi Ruang Digital: "Tatapan" Sartre (*Le Regard*) di Era Algoritma
+### 1. "Tatapan" Sartre (*Le Regard*) di Era Algoritma
 
 Konsepsi Jean-Paul Sartre mengenai tatapan orang lain (*le regard*) menyingkap bagaimana kesadaran subjek dapat tereduksi menjadi objek pasif saat berada di bawah pengawasan pihak luar. Pernyataan terkenal Sartre bahwa "neraka adalah orang lain" (*l'enfer, c'est les autres*) memperoleh relevansi mendalam dalam arsitektur media digital:
 

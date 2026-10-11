@@ -16,7 +16,7 @@ Kamu mungkin ingat roda keberuntungan dari bab pertama: angka acak 10 dan 65 men
 
 Di dunia belanja, versi jangkarnya lebih licin lagi. Harga lama yang dicoret, harga produk termahal yang dipajang paling depan, cicilan termurah yang ditonjolkan, angka "pergi ke dua juta orang" di iklan, semua itu adalah roda keberuntungan yang dipasang dengan sengaja. Kamu tidak diberi tahu bahwa angka itu jangkar; ia disajikan sebagai informasi biasa. Dan karena Sistem 1 yang kita kenal di bab kedua bekerja cepat dan hemat, angka pertama itu langsung dipakai sebagai titik mulai pertimbangan, bukan sebagai kandidat yang perlu diperiksa relevansinya.
 
-### Jangkar yang paling mahal: minimum payment
+### Jangkar minimum payment yang mahal
 
 Jika ada contoh di mana jangkar berhubungan langsung dengan tagihanmu, ini dia. Neil Stewart (2009) meneliti apa yang terjadi pada pembayaran kartu kredit ketika tagihan mencantumkan angka minimum payment. Dalam surveinya terhadap 75 pemegang kartu yang membayar parsial, ada korelasi positif yang kuat antara besaran minimum payment dan besaran yang benar-benar dibayarkan (koefisien Spearman 0,57). Orang yang tagihannya mencantumkan minimum lebih besar, membayar lebih besar; yang minimumnya kecil, membayar kecil. Sepertinya tidak masalah, karena pilihan tetap ada.
 

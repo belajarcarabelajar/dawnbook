@@ -86,7 +86,7 @@ Terdapat perbedaan mendasar antara perspektif individu dan masyarakat dalam meng
 
 ---
 
-## 5. Penerapan Dunia Nyata: Skenario Bootcamp Coding
+## 5. Siska dan Keputusan Mengikuti Bootcamp Coding
 
 Untuk memahami kalkulasi imbal hasil modal manusia, mari pelajari skenario berikut:
 
@@ -110,7 +110,7 @@ Untuk memahami kalkulasi imbal hasil modal manusia, mari pelajari skenario berik
 
 ---
 
-## 6. Implikasi Kebijakan: Mengapa Rate of Return Penting?
+## 6. Mengapa Rate of Return Penting bagi Kebijakan?
 
 Bagi pembuat kebijakan publik, analisis perbandingan antara pengembalian pribadi dan sosial menjadi landasan penting dalam menentukan **alokasi subsidi pemerintah**:
 

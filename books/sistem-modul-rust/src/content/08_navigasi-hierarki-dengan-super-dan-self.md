@@ -8,11 +8,11 @@ Rust menyediakan dua keyword, yaitu **`self`** dan **`super`**, yang berfungsi s
 
 Keyword **`self`** merujuk pada modul tempat kode tersebut ditulis. Secara teknis, menggunakan `self` di awal path sering kali bersifat opsional karena Rust akan mencari di scope saat ini secara default. Namun, `self` menjadi sangat berguna untuk memperjelas bahwa kita merujuk pada item di dalam modul yang sama, atau saat kita ingin melakukan *re-exporting*.
 
-#### Analogi: "Ruangan yang Sama"
+#### "Ruangan yang Sama"
 
 Bayangkan kamu sedang berada di dalam dapur. Jika kamu berkata, "Ambilkan sapu yang ada di *sini* (dapur ini)", itu adalah analogi dari `self`. Kamu tidak perlu menyebutkan alamat lengkap rumahmu hanya untuk mengambil barang di ruangan yang sama.
 
-#### Contoh Kode:
+#### Contoh Kode self
 
 ```rust
 fn fungsi_luar() {
@@ -44,7 +44,7 @@ fn main() {
 
 Keyword **`super`** memungkinkan kita untuk mengakses item yang berada di parent module. Ini sangat berguna ketika kamu mengorganisasi kode dalam submodule yang dalam, namun tetap perlu berinteraksi dengan fungsi atau data structure yang didefinisikan satu tingkat di atasnya.
 
-#### Analogi: "Lantai Atas"
+#### "Lantai Atas"
 
 Jika kamu berada di lantai 1 sebuah gedung dan membutuhkan peralatan yang ada di lantai 2 (lantai di atasmu), kamu tidak perlu keluar gedung lalu masuk lagi lewat pintu depan. Kamu cukup naik tangga ke arah parent (lantai di atasmu). Itulah fungsi `super`.
 
@@ -53,7 +53,7 @@ Jika kamu berada di lantai 1 sebuah gedung dan membutuhkan peralatan yang ada di
 - **Menghindari Redundancy**: Kamu tidak perlu mengetik path panjang seperti `crate::...` untuk mengakses modul terdekat.
 - **Refactoring yang aman**: Ketika memindahkan folder modul ke tempat lain, relative path dengan `super` tidak akan rusak selama struktur internal hubungan parent-child tetap sama.
 
-#### Contoh Kode:
+#### Contoh Kode super
 
 ```rust
 fn sajikan_makanan() {
@@ -81,7 +81,7 @@ fn main() {
 }
 ```
 
-### 3. Perbandingan Path: Absolut vs Relatif
+### 3. Path Absolut vs Relatif
 
 Berikut perbedaan penggunaannya dalam struktur modul:
 
@@ -93,11 +93,11 @@ Berikut perbedaan penggunaannya dalam struktur modul:
 
 Jika kamu menulis kode di dalam modul yang sangat dalam, mana yang lebih mudah dikelola jika suatu saat nama crate-mu berubah: absolute path atau relative path?
 
-### 4. Real-world Application: Unit Testing
+### 4. Unit Testing
 
 Salah satu penggunaan `super` yang paling umum dan standar di dunia nyata adalah pada penulisan **unit test** di Rust. Secara konvensi, developer Rust membuat modul `tests` di dalam file yang sama dengan kode yang diuji.
 
-#### Skenario: Modul Kalkulator
+#### Modul Kalkulator
 
 Tanpa `super`, modul `tests` tidak akan bisa mengakses fungsi yang ingin diuji karena fungsi tersebut berada di luar scope modul `tests`.
 

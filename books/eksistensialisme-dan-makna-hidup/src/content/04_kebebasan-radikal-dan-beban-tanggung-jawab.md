@@ -18,7 +18,7 @@ Istilah ini dipopulerkan oleh **Jean-Paul Sartre**. Sekilas, kata "dihukum" dan 
 
 **Analogi: Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
 
-## 2\. Pilihan Radikal: Tidak Ada Alasan untuk Berdalih
+## 2\. Tidak Ada Alasan untuk Berdalih
 
 Dalam eksistensialisme, tidak ada tempat untuk bersembunyi di balik alasan-alasan seperti:
 
@@ -30,7 +30,7 @@ Sartre berargumen bahwa setiap tindakan adalah **pilihan sadar**. Jika kamu meng
 
 Berkata "Aku tidak punya pilihan lain" sering kali hanyalah cara kita menghindari beratnya tanggung jawab, bukan kenyataan yang sebenarnya.
 
-## 3\. Beban Tanggung Jawab: Memilih untuk Semua Orang
+## 3\. Memilih untuk Semua Orang
 
 Ini adalah bagian yang paling mendalam. Menurut kaum eksistensialist, ketika seseorang memilih, ia tidak hanya memilih untuk dirinya sendiri, tetapi ia seolah-olah menetapkan standar bagi **seluruh umat manusia**.
 
@@ -38,7 +38,7 @@ Jika kita menggunakan logika formal untuk menggambarkan tanggung jawab ini: Misa
 
 Ketika kamu memilih untuk menjadi orang yang jujur dalam bisnis, kamu seolah-olah menyatakan bahwa: *"Inilah cara yang seharusnya dilakukan oleh semua manusia."* Itulah sebabnya setiap keputusan kita membawa beban moral yang sangat besar. Kita adalah pemahat wajah kemanusiaan melalui tindakan kita sehari-hari.
 
-## 4\. Studi Kasus: Dilema Sang Murid (Sartre)
+## 4\. Dilema Sang Murid (Sartre)
 
 Sartre menceritakan tentang seorang muridnya pada masa Perang Dunia II. Murid ini menghadapi dua pilihan:
 
@@ -51,7 +51,7 @@ Sartre menceritakan tentang seorang muridnya pada masa Perang Dunia II. Murid in
 - Poin Sartre: Tidak ada "tanda" di dunia ini yang bisa membantunya. Murid itu harus memilih sendiri. Dan dengan memilih, ia **menciptakan nilainya sendiri**.
 - Kebebasan radikal berarti kamu adalah pencipta hukum moral bagi dirimu sendiri di tengah situasi yang ambigu.
 
-## 5\. Aplikasi Nyata: Kebebasan di Era Modern
+## 5\. Kebebasan di Era Modern
 
 ### A. Karier dan Panggilan Hidup
 

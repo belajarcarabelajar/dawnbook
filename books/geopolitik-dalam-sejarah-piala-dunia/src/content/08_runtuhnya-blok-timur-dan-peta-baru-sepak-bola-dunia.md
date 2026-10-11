@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan apa yang terjadi jika sebuah band legendaris tiba-ti
 
 Runtuhnya Tembok Berlin tidak hanya mengakhiri Perang Dingin secara simbolis, tetapi juga menjadi ledakan geopolitik yang mengubah wajah FIFA dan peta kekuatan sepak bola dunia selamanya. Dari satu negara besar yang pecah menjadi belasan negara baru, hingga penyatuan kembali kekuatan yang sempat terpisah, bab ini akan membedah bagaimana fragmen-fragmen politik ini membentuk ulang sejarah Piala Dunia.
 
-## 1. Penyatuan Jerman: Kekuatan Ganda yang Menyatu
+## 1. Penyatuan Jerman
 
 Sebelum 1990, Jerman terbagi menjadi dua entitas: **Jerman Barat (BRD)** yang demokratis dan **Jerman Timur (DDR)** yang sosialis. Jerman Barat adalah raksasa sepak bola dengan tiga gelar juara dunia, sementara Jerman Timur dikenal dengan sistem pelatihan atletnya yang sangat saintifik dan disiplin.
 
@@ -16,7 +16,7 @@ Proses reunifikasi ini memengaruhi tim nasional dan kompetisi domestik secara be
 
 > Penyatuan Jerman tidak hanya menambah jumlah talenta yang tersedia. Peristiwa ini menggabungkan dua filosofi besar: mentalitas juara Jerman Barat berpadu dengan disiplin fisik Jerman Timur.
 
-## 2. Fragmentasi Uni Soviet: Runtuhnya Sang Raksasa Merah
+## 2. Fragmentasi Uni Soviet
 
 Uni Soviet (USSR) adalah kekuatan dominan di Blok Timur. Tim nasional mereka sering disebut sebagai "Mesin Merah" karena permainan kolektif yang sangat terorganisir. Namun, pada Desember 1991, Uni Soviet resmi bubar menjadi 15 negara merdeka.
 
@@ -34,7 +34,7 @@ Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari se
 
 Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 
-## 3. Tragedi dan Kejayaan: Pecahnya Yugoslavia
+## 3. Tragedi dan Kejayaan dari Pecahnya Yugoslavia
 
 Berbeda dengan Uni Soviet yang bubar relatif damai, fragmentasi Yugoslavia diwarnai oleh perang saudara yang brutal. Yugoslavia sering disebut sebagai "Brasil-nya Eropa" karena teknik individu pemainnya yang sangat tinggi.
 
@@ -58,13 +58,13 @@ Sebelum tahun 1990, UEFA hanya memiliki sekitar 33 anggota. Namun setelah tahun 
 
 Fragmentasi ini membawa dampak ganda. Di satu sisi, negara-negara kecil seperti Slovenia, Slovakia (pasca-pecahnya Cekoslovakia), dan Latvia akhirnya memiliki kesempatan emas untuk mengibarkan bendera mereka sendiri di kualifikasi Piala Dunia. Di sisi lain, peningkatan jumlah peserta membuat FIFA harus menambah grup kualifikasi. Untuk mengakomodasi gelombang negara baru ini, FIFA akhirnya memperluas jumlah peserta putaran final Piala Dunia dari 24 tim menjadi 32 tim mulai edisi 1998.
 
-## Real-World Application: Kasus Kroasia dan Jerman
+## Kroasia dan Jerman
 
-### Skenario 1: Jerman 2014 (Kesuksesan Integrasi)
+### Jerman 2014 (Kesuksesan Integrasi)
 
 Keberhasilan Jerman menjuarai Piala Dunia 2014 adalah puncak dari proses integrasi yang dimulai pada 1990. Pemain seperti Toni Kroos (lahir di Jerman Timur) menjadi pilar penting. Tanpa runtuhnya Tembok Berlin, struktur pembinaan pemain yang menghasilkan talenta seperti Kroos mungkin tidak akan pernah bersentuhan dengan sistem kompetisi Jerman Barat yang elit.
 
-### Skenario 2: Luka Modrić dan Identitas Nasional
+### Luka Modrić dan Identitas Nasional
 
 Luka Modrić, kapten Kroasia, adalah seorang pengungsi perang saat kecil akibat pecahnya Yugoslavia. Keberhasilannya membawa Kroasia ke final Piala Dunia 2018 adalah manifestasi dari bagaimana fragmentasi politik menciptakan identitas nasional yang sangat kuat, yang seringkali diterjemahkan menjadi daya juang ekstra di lapangan bola.
 

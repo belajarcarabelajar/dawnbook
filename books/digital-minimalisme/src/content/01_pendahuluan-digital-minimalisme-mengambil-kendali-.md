@@ -1,4 +1,4 @@
-## Pendahuluan Digital Minimalisme: Mengambil Kendali di Dunia yang Berisik
+## Pendahuluan Digital Minimalisme
 
 Pernahkah kamu merasa kesepian justru di saat sedang "terhubung" dengan ratusan orang di media sosial? Atau mungkin kamu merasa 24 jam sehari tidak pernah cukup, namun saat melihat *screen time*, kamu kaget mendapati 4 jam habis hanya untuk *scrolling* tanpa tujuan.
 
@@ -16,7 +16,7 @@ Bayangkan pikiran kamu sebagai sebuah ruang tamu. Saat ini, ruang tersebut mungk
 
 Pendekatan minimalis mengajak kamu mengunci pintu. Buang barang-barang tak berguna, lalu undang hanya orang-orang yang kamu cintai. Bawa masuk barang yang terbukti memberi manfaat nyata. Hasilnya, ruang tamu kembali lega, tenang, dan bisa difungsikan dengan baik.
 
-## Sejarah Singkat: Bagaimana Kita Sampai di Sini?
+## Bagaimana Kita Sampai di Sini?
 
 Hubungan kita dengan teknologi berubah melalui pergeseran halus namun berskala masif.
 
@@ -50,7 +50,7 @@ Di sisi lain, seorang digital minimalis akan membiarkan ponsel tetap di saku. Wa
 
 Kasus lainnya terjadi saat menggunakan GPS. Banyak orang menyetir dengan arahan GPS sembari membaca notifikasi WhatsApp atau berita yang muncul di layar, sehingga sering salah belok karena pecah fokus. Berbeda dengan pendekatan minimalis: rute diatur sebelum mesin menyala, mode *Do Not Disturb* diaktifkan, dan layar murni berfungsi sebagai pemandu jalan tanpa interupsi komunikasi.
 
-## Langkah Awal: Refleksi Diri
+## Refleksi Diri
 
 Ambil waktu sejenak untuk menjawab pertanyaan-pertanyaan ini secara jujur:
 

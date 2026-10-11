@@ -10,11 +10,11 @@ Gaya kelekatan **Dismissive-Avoidant** ditandai dengan upaya aktif untuk menjaga
 
 **Wawasan Penting:** Inti dari gaya ini adalah pandangan positif terhadap diri sendiri ("Saya baik-baik saja"), tetapi memiliki pandangan skeptis terhadap ketergantungan pada orang lain ("Orang lain tidak bisa diandalkan atau hanya akan mengekang saya").
 
-### Analogi: Benteng dengan Parit yang Dalam
+### Benteng dengan Parit yang Dalam
 
 Bayangkan sebuah kastil yang megah namun terisolasi. Di dalamnya, sang penghuni memiliki segalanya untuk bertahan hidup sendirian. Untuk mencegah orang asing masuk, mereka tidak hanya mengunci gerbang, tetapi juga membangun parit yang sangat dalam di sekelilingnya. Jika ada seseorang yang mencoba menyeberang, sang penghuni kastil akan segera menarik jembatan gantung. Mereka merasa lebih aman berada di dalam benteng sendirian daripada membiarkan seseorang masuk dan berisiko mengacaukan tatanan yang sudah mereka buat.
 
-## Akar Penyebab: Bagaimana Pola Ini Terbentuk?
+## Bagaimana Pola Ini Terbentuk?
 
 Gaya kelekatan ini biasanya berakar dari interaksi dengan pengasuh di masa kecil. Berbeda dengan tipe cemas yang pengasuhannya tidak konsisten, tipe menghindar sering kali tumbuh dalam lingkungan dengan kondisi berikut:
 

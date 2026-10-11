@@ -18,7 +18,7 @@ Dalam microteaching, kompleksitas pengajaran di kelas yang sebenarnya dikurangi 
 - **Waktu:** Dibatasi sekitar 10-15 menit.
 - **Fokus:** Hanya melatih satu atau dua keterampilan spesifik (misalnya: hanya cara membuka pelajaran atau cara memberikan penguatan).
 
-## Akar Sejarah: Dari Stanford ke Seluruh Dunia
+## Dari Stanford ke Seluruh Dunia
 
 Microteaching tidak muncul begitu saja. Ia lahir dari kebutuhan akan efektivitas dalam pendidikan guru.
 
@@ -68,7 +68,7 @@ Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya u
 
 **Skenario 2: Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
 
-## Kesimpulan: Filosofi di Balik Layar
+## Filosofi Utama Microteaching
 
 Filosofi utama microteaching adalah **"Simple to Complex"**. Kita tidak belajar mengendarai mobil langsung di jalan tol; kita mulai dari lapangan kosong. Dengan menyederhanakan situasi mengajar, kita memberikan kesempatan bagi otak dan tubuh kita untuk membentuk "muscle memory" dalam mengajar.
 

@@ -83,7 +83,7 @@ $$
 
 *Hasil: Hukum kekekalan bilangan lepton terpenuhi!* Inilah alasan mengapa peluruhan beta minus selalu menghasilkan *antineutrino*, bukan neutrino biasa.
 
-## Aplikasi Dunia Nyata: Pendeteksian Reaktor Nuklir
+## Pendeteksian Reaktor Nuklir
 
 Hukum kekekalan ini bukan sekadar teori di atas kertas. Kita menggunakannya untuk aplikasi praktis seperti **Monitoring Reaktor Nuklir**.
 

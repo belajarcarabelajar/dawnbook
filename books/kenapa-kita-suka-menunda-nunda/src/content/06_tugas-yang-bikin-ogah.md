@@ -22,7 +22,7 @@ Tiga temuan itu cocok dengan kerangka *temporal motivation theory* dari bab 2 (S
 
 Rumus populer yang sering beredar, motivasi sama dengan ekspektansi kali nilai dibagi jeda, hanyalah versi sederhana untuk membantu ingatan. Intinya sama: tugas yang kamu yakini bisa, kamu hargai, dan hasilnya dekat akan lebih mudah dimulai.
 
-### Pembacaan penulis: fitur yang bikin ogah
+### Fitur yang bikin ogah menurut penulis
 
 Bagian ini murni pembacaan praktis penulis atas kehidupan sehari-hari, bukan temuan penelitian. Meta-analisis Steel hanya menyebut aversiveness sebagai satu kategori besar, sedangkan rinciannya di bawah adalah tebakan terdidik.
 
@@ -34,7 +34,7 @@ Satu tugas bisa membawa beberapa fitur sekaligus. Laporan keuangan tadi membosan
 
 Perasaan tidak enak itu sendiri juga punya peran, seperti yang sudah kita bahas di bab 5: menjauh dari tugas yang aversif memberi kelegaan sekarang. Karena itu dua tugas dengan "nilai" yang sama di atas kertas bisa terasa sangat berbeda ketika kamu benar-benar duduk di depannya.
 
-### Tabel diagnosis: rasa ogah apa yang sedang kamu hadapi
+### Diagnosis rasa ogah yang sedang kamu hadapi
 
 Tabel berikut juga pembacaan penulis, alat bantu berpikir, bukan hasil pengukuran.
 

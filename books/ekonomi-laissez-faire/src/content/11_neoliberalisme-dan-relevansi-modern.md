@@ -1,4 +1,4 @@
-## Neoliberalisme dan Relevansi Modern: Evolusi Sang "Tangan Tak Terlihat"
+## Neoliberalisme dan Relevansi Modern
 
 Setelah memahami fondasi klasik **Laissez-faire**, kita kini sampai pada babak modernnya: **Neoliberalisme**. Jika **Laissez-faire** adalah "leluhur" yang lahir di era Revolusi Industri, maka **Neoliberalisme** adalah "keturunan" yang beradaptasi dengan dunia digital, finansial, dan globalisasi saat ini.
 
@@ -25,7 +25,7 @@ Untuk memahami relevansinya, kita harus membedah empat pilar utama yang sering d
 3. **Austerity (Penghematan Fiskal):** Memotong anggaran belanja pemerintah (terutama bantuan sosial) untuk mengurangi utang negara dan menstabilkan mata uang.
 4. **Liberalisasi Perdagangan:** Menurunkan tarif dan hambatan ekspor-impor guna menciptakan pasar global yang terintegrasi.
 
-## 3. Kebangkitan Global: Dari Teori ke Kebijakan Nyata
+## 3. Dari Teori ke Kebijakan Nyata
 
 Neoliberalisme bukan sekadar teori di atas kertas, melainkan mesin penggerak ekonomi dunia melalui berbagai peristiwa sejarah penting:
 
@@ -37,7 +37,7 @@ Margaret Thatcher (Inggris) dan Ronald Reagan (AS) merupakan arsitek utama neoli
 
 Ini adalah sekumpulan resep kebijakan ekonomi yang dipromosikan oleh IMF, Bank Dunia, dan Departemen Keuangan AS kepada negara-negara yang mengalami krisis ekonomi (termasuk Indonesia pasca-1998). Kebijakan ini menekankan disiplin fiskal dan privatisasi skala besar.
 
-## 4. Analisis Matematis: Ketimpangan dan Efisiensi
+## 4. Analisis Matematis Ketimpangan dan Efisiensi
 
 Dalam perspektif neoliberal, efisiensi sering diukur melalui pertumbuhan Produk Domestik Bruto ($\text{GDP}$). Namun, para pengkritik sering mengevaluasinya melalui **Koefisien Gini ($G$)**, yang mengukur tingkat ketimpangan pendapatan.
 
@@ -53,14 +53,14 @@ Di mana $A$ adalah area antara garis kesetaraan sempurna dan kurva Lorenz. Dalam
 
 Bagaimana neoliberalisme bekerja di sekitar kita saat ini?
 
-### Skenario 1: *Gig Economy* (Ekonomi Serabutan)
+### *Gig Economy* (Ekonomi Serabutan)
 
 Perusahaan seperti Grab, Uber, atau Gojek merupakan manifestasi neoliberalisme modern.
 
 - **Konsep:** Setiap individu diposisikan sebagai "pengusaha bagi dirinya sendiri."
 - **Realita:** Perusahaan menekan biaya dengan tidak menyediakan tunjangan kesehatan atau jaminan pensiun, serta memindahkan seluruh risiko kepada individu. Ini adalah bentuk murni dari fleksibilitas pasar tenaga kerja.
 
-### Skenario 2: Privatisasi Layanan Kesehatan
+### Privatisasi Layanan Kesehatan
 
 Di beberapa negara, layanan kesehatan dikelola penuh oleh mekanisme pasar.
 
@@ -77,7 +77,7 @@ Saat ini, dominasi neoliberalisme mulai dipertanyakan kembali akibat beberapa fe
 
    $$\text{Eksternalitas Negatif} = \text{Biaya Sosial} > \text{Biaya Privat}$$
 
-## 7. Studi Kasus: Transformasi Ekonomi Indonesia
+## 7. Transformasi Ekonomi Indonesia
 
 Indonesia sempat menerapkan prinsip neoliberalisme secara intensif pasca krisis 1997/1998 melalui perjanjian dengan IMF (*Letter of Intent*).
 

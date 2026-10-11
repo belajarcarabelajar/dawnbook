@@ -1,4 +1,4 @@
-## Pendahuluan: Memahami Kepribadian
+## Memahami Kepribadian
 
 Memahami kepribadian menjadi dasar dalam psikologi untuk mengenali perilaku, pikiran, dan perasaan manusia. Bagian ini membahas definisi kepribadian, alasan di balik pentingnya studi ini, konsep dan dimensi dasar yang membentuk individualitas, hingga tinjauan singkat sejarah perkembangannya.
 

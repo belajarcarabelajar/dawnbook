@@ -1,4 +1,4 @@
-## Doktrin Jalan Tengah (The Golden Mean): Seni Menemukan Keseimbangan Moral
+## Doktrin Jalan Tengah (The Golden Mean)
 
 Bayangkan kamu sedang menyetem sebuah gitar. Jika senarnya terlalu kendur, gitar tersebut tidak akan menghasilkan nada yang jelas. Sebaliknya, jika kamu memutarnya terlalu kencang, senar itu akan putus. Keindahan musik hanya tercipta ketika senar berada pada tegangan yang **tepat**, tidak kurang, tidak lebih.
 
@@ -12,7 +12,7 @@ Menurut Aristoteles, keburukan atau maksiat (*vice*) muncul ketika kita gagal me
 
 > "Kebajikan adalah keadaan karakter yang berkaitan dengan pilihan, yang terletak pada jalan tengah, yaitu jalan tengah yang relatif terhadap kita, yang ditentukan oleh prinsip rasional." - **Aristoteles**
 
-## 2\. Anatomi Jalan Tengah: Tiga Titik Moral
+## 2\. Anatomi Jalan Tengah
 
 Untuk memahami konsep ini, kita bisa melihat setiap sifat karakter sebagai sebuah spektrum. Berbagai kebajikan utama bisa kita letakkan dalam spektrum ini untuk melihat posisi idealnya:
 
@@ -51,13 +51,13 @@ Aristoteles menegaskan bahwa ada beberapa tindakan yang pada dasarnya sudah buru
 
 Tidak ada konsep mencuri dalam jumlah yang pas atau membunuh dengan takaran yang bijak. Tindakan-tindakan semacam ini sejak awal sudah merupakan sebuah ekstrem yang salah.
 
-## 5\. Aplikasi Dunia Nyata: Profesionalisme di Tempat Kerja
+## 5\. Menegur Rekan Kerja yang Keliru
 
 Kita bisa melihat bagaimana Doktrin Jalan Tengah membantu pengambilan keputusan dalam dunia kerja saat ini.
 
 Misalnya, seorang rekan kerjamu melakukan kesalahan fatal dalam presentasi proyek. Sikap masa bodoh (defisiensi) akan membuatmu tidak mengatakan apa-apa karena takut menyinggung perasaan, yang berujung pada kegagalan proyek. Di sisi lain, agresi (eksesi) seperti memaki di depan umum hanya akan menghancurkan moral tim. Pendekatan kebajikan yang tepat adalah kejujuran atau diplomasi: kamu mengajaknya berbicara secara privat dan memberikan kritik konstruktif sambil tetap menghargai martabatnya. Kamu fokus pada perbaikan, bukan penghinaan.
 
-## 6\. Cara Menemukan Jalan Tengah: Tips Praktis
+## 6\. Cara Menemukan Jalan Tengah
 
 Mencapai keseimbangan memang sulit. Aristoteles sendiri mengakui bahwa berbuat baik itu sulit karena menemukan titik pusanya sangat menantang. Berikut beberapa cara untuk melatihnya:
 

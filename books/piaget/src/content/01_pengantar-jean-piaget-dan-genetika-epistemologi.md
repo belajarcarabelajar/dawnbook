@@ -11,7 +11,7 @@ Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kec
 
 > **Wawasan Penting:** Piaget memandang kecerdasan bukan sebagai angka (IQ), melainkan sebagai bentuk **adaptasi biologis** yang memungkinkan manusia bertahan hidup dan berfungsi dalam lingkungannya.
 
-## 2\. Titik Balik: Dari Tes IQ ke Pola Pikir
+## 2\. Dari Tes IQ ke Pola Pikir
 
 Pada tahun 1920-an, Piaget bekerja di laboratorium Theodore Simon di Paris, membantu menstandarisasi tes kecerdasan (IQ). Di sinilah ia menemukan sesuatu yang revolusioner.
 
@@ -29,7 +29,7 @@ Istilah **Genetika Epistemologi** mungkin terdengar sangat teknis, namun maknany
 
 Jadi, **Genetika Epistemologi** adalah studi tentang bagaimana pengetahuan berkembang dalam diri manusia seiring dengan pertumbuhan mereka.
 
-### Konsep Kunci dalam Genetika Epistemologi:
+### Konsep Kunci Genetika Epistemologi
 
 Piaget ingin memetakan transisi dari pengetahuan tingkat rendah ke pengetahuan tingkat tinggi. Ia percaya bahwa pengetahuan adalah sebuah **proses**, bukan sebuah **benda**.
 
@@ -40,7 +40,7 @@ $\text{Pengetahuan} = \text{Aksi} \times \text{Objek}$
 
 *Coba Amati Fenomena Ini: Pernahkah terlihat seorang bayi yang terus-menerus menjatuhkan mainannya dari kursi tinggi? Bagi Piaget, bayi tersebut bukan sedang nakal, melainkan sedang melakukan eksperimen "epistemologi" tentang gravitasi dan keberadaan benda.*
 
-## 4\. Analogi: Arsitektur Pikiran
+## 4\. Arsitektur Pikiran
 
 Bayangkan pikiran manusia seperti sebuah **bangunan yang terus direnovasi**.
 
@@ -49,7 +49,7 @@ Bayangkan pikiran manusia seperti sebuah **bangunan yang terus direnovasi**.
 
 Anak kecil mungkin memiliki "rumah satu lantai" (logika sederhana), sementara remaja mulai membangun "pencakar langit" (logika abstrak).
 
-## 5\. Real-World Application: Mengapa Ini Penting?
+## 5\. Mengapa Genetika Epistemologi Penting?
 
 Memahami Genetika Epistemologi mengubah cara kita memperlakukan proses belajar-mengajar:
 

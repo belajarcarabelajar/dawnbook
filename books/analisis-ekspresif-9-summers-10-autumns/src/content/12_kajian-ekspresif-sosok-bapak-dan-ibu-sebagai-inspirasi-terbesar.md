@@ -1,4 +1,4 @@
-## Kajian Ekspresif: Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
+## Kajian Ekspresif Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
 
 Keluarga merupakan jangkar emosional yang mengikat seluruh rangkaian ingatan dan perjuangan hidup. Dalam novel *9 Summers 10 Autumns*, latar belakang kedua orang tua menjadi sumbu inspirasi ekspresif terbesar bagi pengarang untuk menuangkan pergulatan batin serta rasa syukurnya.
 
@@ -22,10 +22,10 @@ Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan
 
 > “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
 
-### Studi Komparatif: Sinergi Ketangguhan Bapak dan Manajemen Ibu
+### Sinergi Ketangguhan Bapak dan Manajemen Ibu
 
 Studi komparatif terhadap watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan mental bapak dan disiplin administratif ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk fondasi etos kerja profesionalnya yang sukses menembus dunia korporasi global di New York.
 
-### Lingkaran Terdekat: Peran Saudara Kandung
+### Dari Orang Tua ke Saudara Kandung
 
 Selain kedua orang tuanya, saudara-saudara kandung Iwan juga menjadi rantai motivasi yang tidak terputus. Pembahasan berikutnya akan menganalisis peran saudara kandung sebagai dorongan moral pengarang.

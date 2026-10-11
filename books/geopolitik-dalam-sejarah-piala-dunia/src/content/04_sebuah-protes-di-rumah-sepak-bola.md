@@ -6,7 +6,7 @@ Seluruh benua Afrika memutuskan untuk **melakukan boikot total**. Sebanyak 31 ne
 
 > "Sepak bola tanpa keadilan hanyalah perpanjangan dari penindasan." - Prinsip yang mendasari gerakan negara-negara Afrika pada 1966.
 
-## Ketidakadilan Matematis: Masalah Jatah Kualifikasi
+## Ketidakadilan Matematis Jatah Kualifikasi
 
 Untuk memahami kemarahan negara-negara Afrika, kita perlu melihat bagaimana FIFA (saat itu dipimpin oleh Sir Stanley Rous dari Inggris) membagi kursi peserta Piala Dunia 1966.
 
@@ -27,7 +27,7 @@ Secara praktis, sebuah tim terbaik dari Afrika harus mengalahkan tim-tim terbaik
 
 Bagaimana perasaanmu jika kamu diundang ke sebuah turnamen global, tetapi aturan mainnya dirancang sedemikian rupa sehingga peluangmu untuk masuk ke arena pertandingan hampir nol?
 
-## Akar Masalah: Neo-kolonialisme di Tubuh FIFA
+## Neo-kolonialisme di Tubuh FIFA
 
 Tahun 1960-an adalah era dekolonisasi. Banyak negara Afrika baru saja meraih kemerdekaan dari penjajah Eropa (Inggris, Prancis, Belgia). Namun, di dalam organisasi FIFA, mentalitas kolonial masih sangat terasa.
 
@@ -38,7 +38,7 @@ Ada dua alasan utama mengapa kebijakan FIFA dianggap neo-kolonial:
 1. **Sentralisasi Kekuatan di Eropa.** FIFA beranggapan bahwa kualitas permainan di luar Eropa dan Amerika Selatan belum cukup layak untuk bersaing secara otomatis di putaran final.
 2. **Sikap lembek terhadap Apartheid Afrika Selatan.** Ketika negara-negara Afrika menuntut agar Afrika Selatan dikeluarkan dari keanggotaan karena kebijakan segregasi rasialnya, kepemimpinan Stanley Rous di FIFA malah membelanya.
 
-## Ohene Djan: Arsitek Perlawanan
+## Ohene Djan dan Gerakan Boikot
 
 Tokoh sentral dalam boikot ini adalah **Ohene Djan**, direktur olahraga Ghana dan anggota komite eksekutif FIFA. Ghana saat itu adalah kekuatan sepak bola utama di Afrika ("The Black Stars").
 
@@ -48,7 +48,7 @@ Djan mengirimkan telegram protes yang sangat tajam kepada FIFA:
 
 Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya mengejutkan dunia: 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
 
-## Dampak dan Transformasi: Pelajaran dari Sejarah
+## Dampak dan Transformasi
 
 Boikot 1966 lebih dari aksi mogok biasa; tindakan ini merupakan pernyataan martabat. Aksi ini memaksa FIFA untuk menyadari bahwa mereka tidak bisa lagi mengabaikan aspirasi global.
 
@@ -60,7 +60,7 @@ Hasil jangka pendek yang langsung terlihat adalah berkurangnya keragaman global 
 
 Untuk jangka panjang, perjuangan ini membuahkan hasil nyata pada Piala Dunia 1970 saat FIFA akhirnya memberikan satu jatah lolos otomatis bagi benua Afrika, yang kemudian direbut oleh Maroko. Di samping itu, tekanan politik ini mendorong reformasi struktur turnamen secara bertahap, memicu ekspansi jumlah peserta dari semula 16 tim hingga kini terus bertambah.
 
-## Real-World Application: Representasi di Era Modern
+## Relevansi Boikot 1966 bagi Dunia Kini
 
 Pelajaran dari aksi boikot tahun 1966 ini tetap relevan hingga hari ini, melampaui batas arena olahraga:
 

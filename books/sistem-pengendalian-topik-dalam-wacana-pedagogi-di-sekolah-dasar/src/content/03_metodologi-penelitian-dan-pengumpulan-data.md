@@ -20,13 +20,13 @@ Fokus utama analisis terletak pada sistem pengendalian topik, yaitu bagaimana gu
 | **Teknik Pengumpulan Data** | Rekam-Catat (Audio/Video Recording) dan Transkripsi Teks |
 | **Unit Analisis** | Pasangan Tuturan, Giliran Bicara, dan Pengendalian Topik |
 
-### Konteks Observasi: Tiga Sekolah Dasar di Bogor Timur
+### Tiga Sekolah Dasar di Bogor Timur
 
 Penelitian ini dilaksanakan pada tiga sekolah dasar yang berlokasi di wilayah Bogor Timur, yaitu SDN Bangka I, SDN Bangka III, dan SD Padjajaran. Pemilihan lokasi ini memberikan gambaran bervariasi mengenai penerapan wacana pedagogi pada konteks sekolah dasar di lingkungan perkotaan.
 
 Subjek penelitian terdiri atas tiga guru mata pelajaran Bahasa Indonesia yang masing-masing memiliki pengalaman mengajar di atas lima tahun. Pengalaman mengajar ini memastikan bahwa pola komunikasi yang terbangun di kelas merupakan bentuk praktik pedagogi yang telah terbentuk relatif stabil. Sementara itu, siswa yang terlibat berada pada rentang usia 10 hingga 12 tahun (siswa kelas 4 hingga 6 SD). Pada tahap usia ini, anak-anak sudah memiliki pemahaman berbahasa yang matang untuk merespons instruksi guru, mengajukan pertanyaan, serta berpartisipasi dalam diskusi kelas.
 
-### Teknik Pengumpulan Data: Rekam dan Catat
+### Teknik Pengumpulan Data
 
 Data dalam penelitian ini berwujud tuturan lisan yang disampaikan oleh guru dan siswa selama kegiatan pembelajaran Bahasa Indonesia berlangsung. Untuk mengumpulkan data secara akurat, pengumpulan data dilakukan melalui dua prosedur utama:
 

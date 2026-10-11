@@ -1,4 +1,4 @@
-## Uang Itu Relatif: Tetangga, Status, dan Perbandingan
+## Uang Itu Relatif
 
 Gaji kamu naik cukup besar tahun ini. Kamu menghitung-ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
 
@@ -26,7 +26,7 @@ Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluar
 
 Permainan lamanya sama, arena barunya tidak berpinggir: alatnya masih otak zaman batu.
 
-### Positional good: sebagian nilai uang itu posisi
+### Positional good
 
 Ada konsep ekonomi yang menjelaskan kenapa rasanya selalu kurang meski angka terus naik: *positional good*, barang posisi, istilah yang dipopulerkan ekonom Fred Hirsch pada akhir 1970-an. Idenya sederhana: sebagian nilai dari apa yang kita beli bukan dari fungsinya, tapi dari posisi yang dibawanya.
 

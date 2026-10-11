@@ -1,10 +1,10 @@
-# Pelaksanaan Simulasi Mengajar: Saatnya Beraksi di Panggung Kelas
+# Pelaksanaan Simulasi Mengajar
 
 Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya adalah tentang persiapan dan perencanaan, maka bagian ini adalah tentang **eksekusi**. Di sinilah teori bertemu dengan praktik.
 
 Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu menghargai setiap detik yang berlalu.
 
-## 1. Kendali Suara: Instrumen Utama Sang Pendidik
+## 1. Kendali Suara
 
 Suara adalah alat musik utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi sangat krusial.
 
@@ -30,7 +30,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 
 > "Suara yang dikelola dengan baik dapat mengubah informasi yang membosankan menjadi petualangan yang menarik."
 
-## 2. Bahasa Tubuh: Pesan Tanpa Kata
+## 2. Bahasa Tubuh
 
 Penelitian menunjukkan bahwa lebih dari 60% komunikasi manusia bersifat non-verbal. Dalam simulasi mengajar, bahasa tubuh kamu menentukan *teacher presence* atau kewibawaan kamu di depan kelas.
 
@@ -57,13 +57,13 @@ Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
 
 Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Mengelola waktu ini adalah tantangan teknis terbesar.
 
-### Distribusi Waktu Ideal (Contoh Sesi 15 Menit):
+### Distribusi Waktu Ideal (Contoh Sesi 15 Menit)
 
 1. **Pendahuluan (2-3 Menit):** Salam, apersepsi, dan penyampaian tujuan pembelajaran.
 2. **Kegiatan Inti (10 Menit):** Penyampaian materi utama, demonstrasi, dan interaksi/tanya jawab.
 3. **Penutup (2-3 Menit):** Kesimpulan, evaluasi singkat, dan salam penutup.
 
-### Strategi Kontrol Waktu:
+### Strategi Kontrol Waktu
 
 - **Gunakan Jam Wajah (Face Clock):** Letakkan jam tangan atau *stopwatch* di meja yang mudah terlihat tanpa kamu harus mengangkat tangan secara mencolok.
 - **Prioritas Konten:** Jika waktu tinggal 2 menit dan materi inti belum selesai, segera lakukan ringkasan dan lompat ke penutup. Jangan memaksakan semua slide selesai tapi kehilangan bagian penutup yang penting.
@@ -78,7 +78,7 @@ Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan 
 - **Mindset:** Anggap rekan sejawat kamu benar-benar sebagai siswa yang butuh ilmu, bukan sebagai pengamat yang mencari kesalahan.
 - **Simulasi Mental:** Bayangkan skenario mengajar kamu dari awal sampai akhir di dalam pikiran sebelum benar-benar melakukannya.
 
-## Real-World Application: Skenario Praktik
+## Simulasi Hukum Newton 12 Menit
 
 **Skenario:** kamu sedang mensimulasikan materi "Hukum Newton" dalam waktu 12 menit.
 

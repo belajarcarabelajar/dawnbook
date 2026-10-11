@@ -1,4 +1,4 @@
-## Penalaran Etis dan Pengambilan Keputusan: Di Mana Logika Bertemu Nurani
+## Penalaran Etis dan Pengambilan Keputusan
 
 Bayangkan kamu adalah seorang insinyur perangkat lunak di sebuah perusahaan *startup* transportasi besar. Kamu menemukan bahwa algoritma penentuan harga yang baru dikembangkan secara tidak sengaja memberikan harga lebih mahal kepada pengguna yang baterai ponselnya lemah, karena sistem mendeteksi mereka lebih cenderung menerima harga tinggi demi segera mendapatkan tumpangan. Secara logika bisnis, ini menguntungkan (maksimalisasi profit). Namun, secara moral, apakah ini benar?
 
@@ -51,7 +51,7 @@ Fokus pada menjadi orang seperti apa kita jika mengambil keputusan tersebut. Ali
 
 Dilema etika muncul ketika dua nilai moral yang benar saling bertabrakan. Misalnya, antara **Kejujuran** vs **Loyalitas**.
 
-#### Langkah-langkah Sistematis dalam Pengambilan Keputusan:
+#### Langkah-langkah Sistematis dalam Pengambilan Keputusan
 
 1. **Kumpulkan Fakta:** Jangan terburu-buru menghakimi. Pastikan kamu tahu siapa yang terlibat dan apa dampaknya.
 2. **Identifikasi Stakeholder:** Siapa saja yang akan terkena dampak? (Karyawan, pelanggan, lingkungan, pemegang saham).
@@ -62,7 +62,7 @@ Dilema etika muncul ketika dua nilai moral yang benar saling bertabrakan. Misaln
 4. **Pertimbangkan Alternatif:** Seringkali kita terjebak dalam pilihan "A atau B". Carilah pilihan "C" yang mungkin bisa mengakomodasi kedua nilai tersebut.
 5. **Evaluasi Diri (The Mirror Test):** Jika keputusan ini dipublikasikan di berita utama besok pagi, apakah kamu akan merasa bangga atau malu?
 
-### 5\. Aplikasi Dunia Nyata: Etika dalam Kecerdasan Buatan (AI)
+### 5\. Etika dalam Kecerdasan Buatan (AI)
 
 Dunia teknologi adalah medan tempur penalaran etis yang sangat relevan saat ini.
 

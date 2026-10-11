@@ -1,4 +1,4 @@
-## Memento Mori: Kesadaran akan Kefanaan
+## Memento Mori
 
 Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori** ,frasa Latin yang berarti "Ingatlah bahwa engkau akan mati",adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
@@ -14,7 +14,7 @@ Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektu
 
 Dalam Stoikisme, kematian dikategorikan sebagai *indifferent* (netral) secara moral, namun kesadaran akan kematian adalah katalisator untuk kebajikan. Tanpa batas akhir, pilihan kita tidak memiliki bobot. Jika hidup abadi, tidak ada urgensi untuk menjadi orang baik *hari ini*.
 
-## 2\. Perspektif Waktu: Matematika Kehidupan
+## 2\. Matematika Kehidupan
 
 Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rata-rata umur manusia adalah 80 tahun, kita dapat memodelkan sisa waktu kita dengan variabel berikut:
 
@@ -35,7 +35,7 @@ Jika kamu berusia 30 tahun: $W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33
 
 Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
 
-## 3\. Analogi: Tamu di Jamuan Makan
+## 3\. Tamu di Jamuan Makan
 
 Epictetus sering menggunakan analogi untuk menjelaskan bagaimana kita harus bersikap terhadap kehidupan dan kematian.
 
@@ -45,11 +45,11 @@ Kematian adalah saat di mana tuan rumah berkata, *"Waktunya pulang."* Seorang St
 
 *Jika hari ini adalah hidangan terakhir dalam perjamuan hidupmu, apakah kamu akan menghabiskannya dengan mengeluh tentang rasa makanannya, atau menikmatinya dengan rasa syukur?*
 
-## 4\. Implementasi Praktis: Filter Memento Mori
+## 4\. Filter Memento Mori
 
 Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada stres atau konflik, ajukan pertanyaan ini: *"Apakah hal ini akan tetap penting saat aku berada di tempat tidur kematianku?"*
 
-### Real-world Application: Skenario Konflik
+### Konflik Lalu Lintas
 
 **Skenario:** Seseorang memotong jalur kamu saat berkendara, dan kamu merasa sangat marah.
 
@@ -85,7 +85,7 @@ Untuk mengintegrasikan konsep ini, Stoikisme menyarankan latihan rutin:
 2. **Malam Hari:** Saat akan tidur, katakan: *"Aku telah hidup, dan aku telah menyelesaikan perjalanan yang diberikan takdir kepadaku."* (Sejajar dengan kutipan Seneca). Jika kamu bangun besok pagi, itu adalah bonus.
 3. **Interaksi Sosial:** Saat berpisah dengan orang yang dicintai, sadarilah dalam hati bahwa ini *bisa jadi* pertemuan terakhir. Kesadaran ini akan menghilangkan keinginan untuk bertengkar dan meningkatkan rasa kasih sayang.
 
-## 6\. Manfaat Psikologis: Dari Kecemasan Menuju Kejelasan
+## 6\. Manfaat Psikologis
 
 Banyak orang menghindari topik kematian karena **Death Anxiety** (Kecemasan akan Kematian). Ironisnya, Stoikisme mengajarkan bahwa kecemasan muncul karena kita mencoba memegang teguh sesuatu yang tidak bisa kita kendalikan (durasi hidup).
 

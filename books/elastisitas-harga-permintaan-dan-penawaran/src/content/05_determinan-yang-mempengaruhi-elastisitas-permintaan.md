@@ -6,7 +6,7 @@ Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *foo
 - **Banyak Substitusi = Lebih Elastis:** Semakin banyak barang pengganti yang tersedia dan mirip fungsinya, permintaan akan semakin elastis. Konsumen memiliki banyak pilihan untuk "kabur" saat harga naik.
 - **Sedikit/Tidak Ada Substitusi = Inelastis:** Jika suatu barang unik atau tidak ada penggantinya (seperti bensin atau obat-obatan tertentu), konsumen terpaksa tetap membeli meskipun harga melonjak.
 > **Analogi:** Bayangkan pintu keluar di sebuah gedung. Jika gedung memiliki 10 pintu keluar (substitusi), saat satu pintu ditutup/dihambat, orang akan dengan mudah lewat pintu lain. Namun jika hanya ada satu pintu (monopoli/tanpa substitusi), orang akan tetap mengantre di sana sesulit apa pun aksesnya.
-## 2. Tingkat Kepentingan Barang: Kebutuhan vs. Kemewahan
+## 2. Barang Kebutuhan vs. Barang Mewah
 Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu terhadap harganya.
 - **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang tetap akan membelinya karena sulit untuk bertahan hidup tanpanya.
 - **Barang Mewah (Luxuries):** Barang seperti jam tangan mahal, liburan ke luar negeri, atau perhiasan cenderung **elastis**. Jika harganya naik, orang bisa dengan mudah menunda pembelian atau membatalkannya karena barang tersebut bukan prioritas utama untuk bertahan hidup.
@@ -38,7 +38,7 @@ Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya
 | **Porsi Pendapatan** | Murah/Porsi kecil dari anggaran | Mahal/Porsi besar dari anggaran |
 | **Waktu** | Jangka pendek (mendadak) | Jangka panjang (adaptasi) |
 | **Definisi Barang** | Luas (misal: Pakaian) | Spesifik (misal: Jaket Denim Levi's) |
-## Aplikasi Dunia Nyata: Strategi Bisnis
+## Strategi Bisnis Kedai Kopi Lokal
 **Skenario: Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
 1. **Substitusi:** Apakah di sebelah kedai kamu ada Starbucks atau Point Cafe? Jika ada, permintaan kamu **elastis**. Hati-hati menaikkan harga!
 2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.

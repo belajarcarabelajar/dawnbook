@@ -1,4 +1,4 @@
-## Konsep Utama: Dikotomi Kendali
+## Konsep Utama Dikotomi Kendali
 
 Pernahkah kamu merasa sangat stres karena terjebak macet saat akan menghadiri pertemuan penting? Atau mungkin kamu merasa cemas luar biasa memikirkan pendapat orang lain tentang presentasi kamu? Jika iya, kamu sedang mengalami konflik batin yang menurut para Stoik bersumber dari satu kesalahan fatal: **mencampuradukkan apa yang bisa kamu kendalikan dengan apa yang tidak.**
 
@@ -53,17 +53,17 @@ Jika kamu mengaitkan kebahagiaan kamu dengan "mendapatkan promosi" (eksternal), 
 
 ## Penerapan dalam Kehidupan Nyata
 
-### Skenario 1: Menghadapi Kritik di Media Sosial
+### 1\. Menghadapi Kritik di Media Sosial
 
 - **Luar Kendali:** Komentar jahat, jumlah *likes*, atau orang yang salah paham.
 - **Dalam Kendali:** Menentukan apakah kritik itu benar (untuk perbaikan diri), membalas dengan sopan, atau memilih untuk mengabaikannya sama sekali.
 
-### Skenario 2: Terjebak Kemacetan Saat Janji Temu
+### 2\. Terjebak Kemacetan Saat Janji Temu
 
 - **Luar Kendali:** Volume kendaraan, kecelakaan di depan, atau lampu merah yang lama.
 - **Dalam Kendali:** Memberi kabar kepada rekan janji temu (tindakan), mendengarkan podcast edukatif agar waktu tidak terbuang (respon), dan tidak memaki-maki keadaan yang tidak akan berubah karena amarah kita (emosi).
 
-## Langkah Praktis: Latihan "Lingkaran Kendali"
+## Latihan "Lingkaran Kendali"
 
 Untuk mulai menerapkan Dikotomi Kendali hari ini, lakukan langkah-langkah berikut:
 

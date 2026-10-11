@@ -1,4 +1,4 @@
-## Paradoks Easterlin: Negara Kaya Belum Tentu Bahagia
+## Paradoks Easterlin
 
 Coba perhatikan gambaran ini. Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade. Pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam dari tahun ke tahun. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
 
@@ -19,7 +19,7 @@ Kombinasi keduanya dikenal sebagai **paradoks Easterlin**: dua kebenaran yang sa
 
 > Bayangkan tribun stadion ketika momen penting terjadi. Satu orang berdiri supaya lebih jelas melihat, dan berhasil. Tapi begitu semua orang ikut berdiri, posisi relatif mereka kembali seperti semula: semua berdiri, sama pegal, dan tidak ada yang melihat lebih jelas dari sebelumnya.
 
-### Penjelasan Easterlin: perbandingan sosial dan aspirasi yang ikut naik
+### Perbandingan sosial dan aspirasi yang ikut naik
 
 Easterlin menunjuk dua mesin di balik paradoks ini, dan keduanya saling berkait.
 

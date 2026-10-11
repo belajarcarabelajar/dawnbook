@@ -1,4 +1,4 @@
-## Pertumbuhan Tetesan melalui Difusi Uap: Masa Remaja Tetesan Awan
+## Pertumbuhan Tetesan melalui Difusi Uap
 
 Setelah tetesan air berhasil melewati fase kritis pembentukannya (nukleasi) pada Inti Kondensasi Awan (*Cloud Condensation Nuclei* atau CCN), tetesan tersebut tidak langsung berubah menjadi tetes hujan berukuran besar. Tetesan memasuki fase pertumbuhan awal yang dikenal sebagai **Pertumbuhan melalui Difusi Uap**.
 
@@ -6,7 +6,7 @@ Fase ini menyerupai "masa pertumbuhan" bagi tetesan awan. Apabila proses nukleas
 
 ---
 
-### 1. Mekanisme Fisika: Perpindahan Massa akibat Gradien Tekanan
+### 1. Perpindahan Massa akibat Gradien Tekanan
 
 Difusi uap terjadi akibat perbedaan konsentrasi atau tekanan uap air di atmosfer. Secara alami, sistem fisik bergerak menuju kesetimbangan. Molekul uap air berpindah dari area bertakanan uap tinggi (udara di sekitar tetesan) menuju area bertakanan uap lebih rendah (permukaan tetesan air).
 
@@ -53,7 +53,7 @@ $$
 
 ---
 
-### 3. Hambatan Termodinamika: Efek Panas Laten Kondensasi
+### 3. Hambatan Panas Laten Kondensasi
 
 Proses pertumbuhan melalui difusi uap mengalami hambatan alami berupa **Panas Laten Kondensasi**.
 
@@ -67,7 +67,7 @@ Ketika molekul uap air mengembun menjadi cair di permukaan tetesan, energi panas
 
 ---
 
-### 4. Teori Köhler: Keseimbangan Kelengkungan dan Efek Larutan
+### 4. Teori Köhler
 
 Pada skala mikroskopis, dua efek fisika berinteraksi menentukan apakah tetesan berkembang atau menguap kembali:
 

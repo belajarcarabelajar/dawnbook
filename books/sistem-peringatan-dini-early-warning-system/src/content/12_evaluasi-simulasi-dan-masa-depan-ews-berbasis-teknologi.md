@@ -4,7 +4,7 @@ Masa depan sistem peringatan dini ditentukan oleh seberapa jujur kita mengevalua
 
 Pertanyaan panduan: *bagaimana kita tahu bahwa sistem peringatan dini kita benar-benar bekerja dan apa yang akan mengubahnya dalam sepuluh tahun ke depan?*
 
-### 1. Metrik Kinerja: POD, FAR, dan Lead Time
+### 1. POD, FAR, dan Lead Time
 
 Tiga metrik utama digunakan secara internasional:
 
@@ -33,7 +33,7 @@ di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \tex
 | Lead time tsunami lokal | 3 sampai 5 menit | 4 menit rata-rata | Perlu 2 menit lagi |
 | POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
 
-### 2. Simulasi: Tabletop hingga Full Scale
+### 2. Simulasi Tabletop hingga Full Scale
 
 Evaluasi tidak lengkap tanpa simulasi. Tiga tingkat latihan umum:
 
@@ -43,7 +43,7 @@ Evaluasi tidak lengkap tanpa simulasi. Tiga tingkat latihan umum:
 
 Setiap simulasi harus mencatat waktu tempuh evakuasi, kepatuhan warga, dan titik macet. Hasilnya menjadi masukan untuk merevisi peta jalur dan penempatan rambu.
 
-### 3. Masa Depan: AI, IoT, dan Digital Twin
+### 3. AI, IoT, dan Digital Twin
 
 Tiga gelombang teknologi akan mengubah EWS:
 

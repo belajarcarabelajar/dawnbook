@@ -1,10 +1,10 @@
-## Prinsip Optimalisasi Penggunaan Alat: Seni Menajamkan Pedang
+## Prinsip Optimalisasi Penggunaan Alat
 
 Setelah kamu melewati tahap pembersihan (Digital Declutter), kamu mungkin mendapati diri kamu hanya memiliki segelintir aplikasi dan perangkat yang tersisa. Namun, tantangannya tidak berhenti di sana. Memiliki sedikit alat tidak otomatis membuat kamu menjadi produktif atau tenang.
 
 **Optimalisasi penggunaan alat** adalah seni memastikan bahwa setiap teknologi yang "lolos seleksi" bekerja secara maksimal untuk melayani nilai-nilai inti kamu. Jika *Digital Declutter* diibaratkan membuang sampah, *Optimalisasi* adalah proses mengasah pedang agar setajam mungkin.
 
-### 1. Filosofi "Pisau Koki": Mengapa Sedikit Lebih Baik
+### 1. Mengapa Sedikit Lebih Baik
 
 Bayangkan seorang koki profesional. Ia jarang membutuhkan 50 jenis gadget dapur otomatis yang masing-masing hanya punya satu fungsi, seperti pemotong alpukat atau pengupas bawang elektrik. Sebaliknya, ia mengandalkan satu **Pisau Koki (Chef’s Knife)** berkualitas tinggi yang dirawat dengan sangat baik. Lewat satu pisau itu, hampir semua urusan dapur bisa diselesaikan.
 
@@ -12,7 +12,7 @@ Dalam digital minimalisme, prinsipnya serupa. Setiap alat baru membawa biaya per
 
 > "Alat yang hebat tidak hanya membantu kamu melakukan pekerjaan, tetapi juga mendukung pikiran untuk bekerja lebih jernih."
 
-### 2. Strategi Optimalisasi: Menyesuaikan Alat dengan Nilai
+### 2. Menyesuaikan Alat dengan Nilai
 
 Optimalisasi fokus pada membatasi fungsi sebuah alat agar sejajar dengan tujuan spesifik kamu, tanpa harus memaksanya menjadi alat yang serba bisa.
 
@@ -28,7 +28,7 @@ Manfaatkan fitur perangkat untuk mempercepat akses ke hal-hal yang sejalan denga
 
 Buat hambatan tambahan untuk aktivitas yang kurang selaras dengan prioritas kamu. Misalnya, jika tetap butuh Facebook demi grup hobi, jangan simpan kata sandinya di browser. Tuntutan untuk selalu mengetik ulang sandi memberi jeda bagi otak kamu merenung sejenak, *"Apakah saya benar-benar ingin melakukan ini sekarang?"*
 
-### 3. Implementasi Teknis: Mengoptimalkan Perangkat
+### 3. Mengoptimalkan Perangkat
 
 Beberapa konfigurasi praktis berikut bisa langsung diterapkan pada perangkat kamu saat ini:
 
@@ -54,11 +54,11 @@ $$
 
 ### 4. Kasus Penggunaan Dunia Nyata
 
-#### Skenario 1: Penulis yang Mengoptimalkan Laptop
+#### Penulis yang Mengoptimalkan Laptop
 
 Seorang penulis yang menjadikan laptop sebagai instrumen utama berkarya (Nilai: Kreativitas) dapat memasang aplikasi penulisan yang menutupi seluruh layar seperti Ulysses atau FocusWriter. Ditambah ekstensi pemblokir internet selama sesi menulis, laptop tersebut beralih fungsi dari portal dunia maya menjadi mesin tik modern yang sangat terfokus.
 
-#### Skenario 2: Menggunakan Smartphone Sebagai Alat Navigasi Saja
+#### Smartphone sebagai Alat Navigasi Saja
 
 Ketika kamu membutuhkan ponsel cerdas sebagai GPS di perjalanan (Nilai: Petualangan), aktifkan mode "Do Not Disturb" secara otomatis selama mengemudi. Matikan seluruh notifikasi kecuali panggilan masuk dari kontak darurat. Lewat cara ini, kamu tetap mendapat manfaat panduan arah tanpa dirusak oleh notifikasi email pekerjaan.
 

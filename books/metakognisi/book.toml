@@ -2,7 +2,7 @@
 authors = ["Iwan Kurniawan"]
 language = "id"
 src = "src"
-title = "Metakognisi: Belajar Bagaimana Belajar"
+title = "Metakognisi"
 description = "Buku metakognisi & teknik belajar efektif: pahami cara kerja kesadaran kognitif, evaluasi strategi belajar mandiri, dan tingkatkan retensi memori."
 
 [preprocessor.dawnbook]

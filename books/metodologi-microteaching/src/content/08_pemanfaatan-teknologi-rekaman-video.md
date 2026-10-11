@@ -1,4 +1,4 @@
-# Pemanfaatan Teknologi Rekaman Video: Mata Kedua Sang Pendidik
+# Pemanfaatan Teknologi Rekaman Video
 
 Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
 
@@ -63,7 +63,7 @@ Gunakan format yang konsisten untuk memudahkan pencarian di masa depan: `TANGGAL
 - **Resolusi:** Minimal 720p (HD) untuk keseimbangan antara kejernihan dan ukuran file.
 - **Format:** `.mp4` (H.264) karena kompatibel dengan hampir semua perangkat dan platform evaluasi.
 
-## 5. Real-World Application: Skenario Simulasi
+## 5. Ibu Sarah Merekam Latihan Menjelaskan
 
 **Skenario:** Ibu Sarah sedang berlatih "Keterampilan Menjelas" dalam durasi 10 menit. Ia menggunakan smartphone yang diletakkan di tripod.
 

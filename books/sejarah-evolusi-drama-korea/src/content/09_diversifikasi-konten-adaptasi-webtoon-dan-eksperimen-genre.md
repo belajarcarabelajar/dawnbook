@@ -1,10 +1,10 @@
-## Diversifikasi Konten: Adaptasi Webtoon dan Eksperimen Genre
+## Diversifikasi Konten Adaptasi Webtoon dan Eksperimen Genre
 
 Selamat datang di fase paling dinamis dalam sejarah drama Korea! Jika sebelumnya K-Drama identik dengan romansa manis dan melodrama yang menguras air mata, era sekarang telah bergeser ke wilayah yang lebih berani, gelap, dan imajinatif.
 
 Di bab ini, kita akan membedah bagaimana webtoon menjadi "tambang emas" ide segar. Kita juga akan melihat bagaimana eksperimen genre seperti *thriller*, horor, dan *sci-fi* berhasil mengubah wajah industri hiburan Korea di mata dunia.
 
-### 1. Revolusi Webtoon: Dari Panel Digital ke Layar Kaca
+### 1. Revolusi Webtoon
 
 Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *storyboard* yang sudah teruji popularitasnya. Fenomena *One Source Multi-Use* (OSMU) kini menjadi strategi utama di mana satu *intellectual property* (IP) dikembangkan ke berbagai format media.
 
@@ -16,13 +16,13 @@ Webtoon tidak hanya berfungsi sebagai komik digital biasa, tetapi juga menjadi *
 
 > **Analogi:** Memproduksi drama dari webtoon ibarat membangun rumah dengan cetak biru yang sudah divalidasi oleh ribuan arsitek (pembaca). Risiko kegagalan struktural menjadi jauh lebih kecil dibandingkan dengan membangun tanpa perencanaan matang.
 
-#### Contoh Transformasi Ikonik:
+#### Contoh Transformasi Ikonik
 
 - *Itaewon Class* (2020) sukses mengemas kisah balas dendam dan persaingan bisnis menjadi simbol perjuangan anak muda.
 - Melalui *Moving* (2023), industri membuktikan bahwa kisah *superhero* bermuatan kearifan lokal mampu bersaing dengan skala produksi Hollywood.
 - Sementara itu, *Sweet Home* (2020) mendobrak batasan *visual effects* (VFX) dalam menghidupkan karakter monster yang rumit.
 
-### 2. Eksplorasi Genre Gelap: Dystopian Thriller, Horor, dan Sci-Fi
+### 2. Eksplorasi Genre Gelap
 
 Selama puluhan tahun, K-Drama dibatasi oleh aturan sensor televisi penyiaran yang ketat, seperti larangan menampilkan darah berlebih atau senjata tajam tanpa sensor. Kehadiran platform OTT (*over-the-top*) meruntuhkan sekat-sekat batasan tersebut.
 
@@ -48,7 +48,7 @@ Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kre
 
 **Formula Kesuksesan Eksperimen Genre:** $\\text{Popularitas} = (\\text{Kearifan Lokal} \\times \\text{Tema Universal}) + \\text{Kualitas Produksi OTT}$
 
-### 4. Real-World Application: Strategi Industri
+### 4. Strategi Industri
 
 Di dunia nyata, diversifikasi konten ini memadukan aspek artistik dengan strategi bisnis yang matang.
 

@@ -1,6 +1,6 @@
-## Kajian Ekspresif: Karakter Saudara Kandung sebagai Motivasi
+## Kajian Ekspresif Karakter Saudara Kandung sebagai Motivasi
 
-### Keharmonisan Keluarga: Dukungan Moral Saudara Kandung
+### Dukungan Moral Saudara Kandung
 
 Prestasi dan pengorbanan saudara kandung Iwan Setyawan menjadi pemicu dorongan ekspresif (*expressive drive*) yang sangat kuat dalam novel ini. 
 
@@ -22,14 +22,14 @@ Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartednes
 
 > “Mira, hatinya begitu lunak. Ia mudah tersentuh. Di tengah kesedihan dan kebahagiaan, air mata adalah bahasanya. Mira adalah kejujuran yang tak pernah retak. Tapi, ia kadang retak karena menggenggam masa lalu terlalu kuat.” (Hlm. 55)
 
-### Analisis Persaudaraan: Rantai Motivasi dan Tanggung Jawab Moral
+### Rantai Motivasi dan Tanggung Jawab Moral
 
 Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
 
-### Refleksi Keluarga: Hangatnya Rumah Mungil 6x7 Meter
+### Hangatnya Rumah Mungil 6x7 Meter
 
 *Bagaimana kehangatan hubungan persaudaraan di dalam rumah mungil ukuran 6 x 7 meter dapat mengompensasi keterbatasan ruang fisik dan ekonomi yang dihadapi keluarga Iwan?*
 
-### Jembatan Keilmuan: Logika Statistik (*Statistical Logic*) dalam Sastra
+### Dari Keluarga ke Logika Statistik (*Statistical Logic*) dalam Sastra
 
 Dorongan moral dari keluarga ini kemudian menemukan jalannya lewat pencapaian akademis yang cemerlang. Di bab selanjutnya, kita akan meneliti bagaimana latar belakang pendidikan tinggi pengarang di bidang Statistika secara ekspresif membentuk cara ia berkarya.

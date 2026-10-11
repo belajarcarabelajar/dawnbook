@@ -1,4 +1,4 @@
-## Adaptasi Neurobiologis: Keseimbangan Homeostasis Otak
+## Adaptasi Neurobiologis
 
 Pernahkah kamu bertanya-tanya mengapa potongan pizza pertama terasa seperti surga, namun potongan kelima terasa biasa saja? Atau mengapa sebuah video game yang dulu membuat kamu terjaga semalaman, kini hanya membuat kamu merasa lelah dan bosan?
 
@@ -6,7 +6,7 @@ Selamat datang di mekanisme pertahanan tercanggih otakmu: **Adaptasi Neurobiolog
 
 ---
 
-### 1. Homeostasis: Hukum Keseimbangan Otak
+### 1. Homeostasis
 
 Otak manusia adalah penganut setia prinsip **Homeostasis**, yaitu kecenderungan biologis untuk mempertahankan kondisi internal yang stabil meskipun lingkungan eksternal berubah.
 
@@ -16,7 +16,7 @@ Bayangkan otakmu memiliki termostat internal. Jika ruangan terlalu panas, AC aka
 
 ---
 
-### 2. Downregulation: Ketika Reseptor Mulai Bersembunyi
+### 2. Downregulation
 
 Untuk melindungi dirinya dari stimulasi berlebih yang dapat merusak neuron, otak melakukan proses penyesuaian yang disebut ***Downregulation*** (penurunan jumlah dan sensitivitas reseptor).
 
@@ -40,7 +40,7 @@ Bayangkan kamu berada di dalam kamar dengan radio yang disetel pada volume maksi
 
 ---
 
-### 3. Toleransi: Mengejar Bayangan yang Semakin Jauh
+### 3. Toleransi
 
 Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupakan kondisi di mana kamu membutuhkan stimulus yang lebih besar, lebih sering, atau lebih intens hanya untuk mendapatkan tingkat kepuasan yang sama seperti saat pertama kali memulainya.
 
@@ -58,7 +58,7 @@ Dampak langsung dari *downregulation* adalah lahirnya **Toleransi**. Ini merupak
 
 ---
 
-### 4. Dampak Psikologis: Anhedonia dan Garis Basal yang Rendah
+### 4. Anhedonia dan Garis Basal yang Rendah
 
 Ketika reseptor dopaminmu berkurang drastis, aktivitas sehari-hari yang biasanya memberikan kepuasan sederhana (seperti melihat matahari terbenam, mengobrol dengan teman, atau membaca buku) tidak lagi mampu memicu respons di otakmu.
 
@@ -68,7 +68,7 @@ Kondisi ini dikenal sebagai **Anhedonia ringan**, suatu keadaan di mana spektrum
 
 ---
 
-### 5. Aplikasi Dunia Nyata: Fenomena "Binge-Watching"
+### 5. Fenomena "Binge-Watching"
 
 Mari kita amati bagaimana adaptasi neurobiologis bekerja dalam kehidupan sehari-hari melalui skenario menonton serial maraton (*binge-watching*).
 
@@ -79,7 +79,7 @@ Mari kita amati bagaimana adaptasi neurobiologis bekerja dalam kehidupan sehari-
 
 ---
 
-### 6. Pemulihan: Bisakah Reseptor Kembali Normal?
+### 6. Bisakah Reseptor Kembali Normal?
 
 Kabar baiknya, otak manusia memiliki sifat **neuroplastisitas**. Reseptor dopamin yang sempat berkurang dapat kembali pulih jika kita memberikan waktu bagi otak untuk melakukan kalibrasi ulang.
 

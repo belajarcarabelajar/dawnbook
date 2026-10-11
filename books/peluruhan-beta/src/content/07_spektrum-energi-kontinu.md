@@ -1,10 +1,10 @@
-## Spektrum Energi Kontinu: Misteri Hilangnya Energi
+## Spektrum Energi Kontinu
 
 Bayangkan sebuah petasan yang selalu meledak menjadi tepat dua bagian dengan ukuran yang sama. Setiap kali meledak, kedua bagian itu akan terlempar dengan kecepatan yang selalu identik. Inilah yang terjadi pada **Peluruhan Alfa**. Namun, dalam **Peluruhan Beta**, ceritanya sangat berbeda. Ibarat petasan yang pecah, potongannya bisa terlempar dengan kecepatan yang berubah-ubah setiap saat, seolah-olah ada pencuri yang mengambil sebagian energinya.
 
 Fenomena inilah yang kita sebut sebagai **Spektrum Energi Kontinu**.
 
-### 1. Perbedaan Fundamental: Spektrum Garis vs. Kontinu
+### 1. Spektrum Garis vs. Kontinu
 
 Untuk memahami spektrum beta, kita harus membandingkannya dengan peluruhan alfa yang lebih tertib.
 
@@ -57,7 +57,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 - Jika partikel beta membawa energi maksimal ($E_{\text{max}}$), maka neutrino membawa energi mendekati nol.
 - Total energi keduanya selalu tetap, sehingga **Hukum Kekekalan Energi tetap tegak berdiri.**
 
-### 4. Perbandingan Visual: Alfa vs Beta
+### 4. Perbandingan Visual Alfa vs Beta
 
 | Fitur | Peluruhan Alfa | Peluruhan Beta |
 | --- | --- | --- |
@@ -66,7 +66,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 | **Energi Partikel** | Selalu sama untuk isotop yang sama | Bervariasi dari $0$ hingga $E_{\text{max}}$ |
 | **Prediktabilitas** | Sangat pasti | Probabilistik (distribusi) |
 
-### 5. Real-world Application: Spektroskopi Beta
+### 5. Spektroskopi Beta
 
 Dalam dunia nyata, pemahaman tentang spektrum kontinu ini sangat krusial dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
 

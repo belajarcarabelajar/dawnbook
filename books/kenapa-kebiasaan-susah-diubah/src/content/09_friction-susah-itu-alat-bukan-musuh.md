@@ -1,4 +1,4 @@
-## Friction: Susah Itu Alat, Bukan Musuh
+## Friction sebagai Alat, Bukan Musuh
 
 Kenapa kita rela berjuang keras menambah daya tahan mental, tapi segan sekali berpindah tempat charger? Kamu mungkin pernah mengulang mantra tekad di depan cermin atau memasang alarm berlapis, sementara ponsel yang membuatmu begadang masih tergeletak di samping bantal, siap dijangkau tanpa mengangkat kepala. Solusinya cuma satu gerakan kecil: pindahkan charger ke seberang kamar. Tapi langkah sesederhana itu terasa seperti kecurangan, sedangkan perjuangan batin yang menyiksa terasa seperti jalan yang benar.
 

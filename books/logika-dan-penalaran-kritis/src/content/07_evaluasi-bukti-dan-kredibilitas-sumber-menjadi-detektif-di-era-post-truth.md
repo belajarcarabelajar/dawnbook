@@ -1,10 +1,10 @@
-## Evaluasi Bukti dan Kredibilitas Sumber: Menjadi Detektif di Era Post-Truth
+## Evaluasi Bukti dan Kredibilitas Sumber
 
 Bayangkan kamu adalah seorang detektif yang berdiri di depan tumpukan berkas kasus. Beberapa berkas berisi kesaksian saksi mata yang jujur, namun yang lain berisi rumor tak berdasar atau bahkan kebohongan yang disengaja. Di era informasi digital ini, kita semua adalah detektif tersebut. Setiap hari, kita dibombardir oleh ribuan potongan data, berita, dan klaim.
 
 Kemampuan untuk **mengevaluasi bukti** dan **menilai kredibilitas sumber** bukan lagi sekadar keterampilan akademis, melainkan survival skill untuk menjaga kewarasan dan integritas logika kita.
 
-## 1. Memahami Bukti: Fondasi Kebenaran
+## 1. Memahami Bukti
 
 Bukti adalah segala sesuatu yang digunakan untuk mendukung atau membuktikan suatu klaim. Namun, tidak semua bukti diciptakan sama. Dalam penalaran kritis, kita harus membedakan kualitas bukti tersebut.
 
@@ -26,7 +26,7 @@ Untuk menilai bukti secara teknis, kita menggunakan dua parameter utama:
 
 Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$ Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
 
-## 2. Menilai Kredibilitas Sumber: Metode CRAAP
+## 2. Kredibilitas Sumber dan Metode CRAAP
 
 Bagaimana kita tahu sebuah sumber bisa dipercaya? Salah satu kerangka kerja yang paling efektif adalah **CRAAP method** (dikembangkan oleh California State University).
 
@@ -67,11 +67,11 @@ Sebagai analogi, jangan bertanya pada seorang penjual apakah barangnya bagus. Ta
 3. **F**ind (Cari): Temukan liputan yang lebih lengkap atau dari sumber yang lebih tepercaya.
 4. **T**race (Lacak): Lacak klaim kembali ke konteks aslinya (misalnya, mencari video asli dari sebuah potongan klip pendek).
 
-## 4. Penerapan Teknis: Verifikasi Data Digital
+## 4. Verifikasi Data Digital
 
 Dalam dunia teknik atau data science, evaluasi bukti sering kali melibatkan pemeriksaan integritas data.
 
-### Contoh Kasus: Memverifikasi Integritas File
+### Memverifikasi Integritas File
 
 Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipulasi saat transmisi? Kita menggunakan fungsi *hashing*.
 
@@ -101,14 +101,14 @@ Dalam pengembangan AI, bukti (data) musti dievaluasi untuk menghindari bias. Jik
 
 ## 5. Aplikasi Dunia Nyata dan Skenario
 
-### Skenario 1: Pesan Berantai WhatsApp
+### Pesan Berantai WhatsApp
 
 **Klaim:** "Menghirup uap air garam bisa membunuh virus X."
 
 - **Evaluasi Bukti:** Cari di Google Scholar atau situs kesehatan resmi (WHO/Kemenkes). Apakah ada jurnal medis yang mendukung? (Hasil: Tidak ada).
 - **Kredibilitas Sumber:** Siapa yang mengirim? Apakah ada nama dokter atau institusi yang bisa diverifikasi? Seringkali pesan ini menggunakan otoritas palsu ("Dokter dari RS Ternama").
 
-### Skenario 2: Laporan Keuangan Perusahaan
+### Laporan Keuangan Perusahaan
 
 **Klaim:** "Perusahaan kami tumbuh 200% tahun ini!"
 

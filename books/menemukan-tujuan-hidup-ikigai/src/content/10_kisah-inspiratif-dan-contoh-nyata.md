@@ -4,15 +4,15 @@ Mencari *Ikigai* adalah perjalanan personal. Melihat bagaimana orang lain menemu
 
 > *Ikigai* secara harfiah berarti "alasan untuk hidup" atau "alasan untuk bangun di pagi hari", sebuah pedoman untuk mengintegrasikan kebahagiaan sejati ke dalam kegiatan sehari-hari.
 
-### Jiro Ono: Sang Maestro Sushi
+### Jiro Ono Menekuni Sushi
 
 Jiro Ono adalah gambaran nyata tentang *Ikigai* sebagai pengabdian. Ia tidak menciptakan sesuatu dari nol, melainkan menyempurnakan hal yang sudah ia cintai dan kuasai. Ia menjalankan restoran sushi kecil dengan hanya 10 kursi di Tokyo, namun ketekunannya membuahkan penghargaan tiga bintang Michelin. Dedikasinya terhadap kesempurnaan rasa dan teknik pembuatan sushi yang diasah selama puluhan tahun menjawab keinginan penikmat kuliner akan mutu tinggi. Keahlian tingkat master ini pada akhirnya membawa kesuksesan finansial. Perjalanan Jiro Ono mengajarkan bahwa *Ikigai* lahir dari kesabaran, latihan berulang-ulang, dan keinginan untuk terus berkembang.
 
-### Jane Goodall: Penjaga Simpanse
+### Jane Goodall Menjaga Simpanse
 
 Kisah Jane Goodall bermula dari rasa ingin tahu dan kepeduliannya terhadap hewan, khususnya simpanse. Sebagai primatolog, ia mengubah minat tersebut menjadi jalan pengabdian. Keterampilan observasinya menghasilkan temuan baru dalam bidang etologi. Dunia sangat membutuhkan orang yang peduli pada pelestarian habitat dan kelangsungan satwa liar. Melalui penelitian, publikasi, dan pendirian lembaga konservasi, ia mendapatkan dukungan finansial yang memastikan misinya tetap berjalan dalam jangka panjang.
 
-### J.K. Rowling: Penulis Legendaris
+### J.K. Rowling dan Harry Potter
 
 J.K. Rowling membuktikan bahwa *Ikigai* bisa lahir di masa-masa paling sulit. Menulis cerita fiksi dan membangun dunia imajinatif adalah minatnya sejak lama. Saat menjadi ibu tunggal dengan kondisi ekonomi terbatas, ia mengandalkan bakat menulisnya untuk menciptakan kisah *Harry Potter*. Tulisan tersebut ternyata mendapat tempat di hati jutaan pembaca seluruh dunia karena menawarkan hiburan sekaligus nilai persahabatan. Penjualan karyanya menunjukkan bahwa fokus pada bakat alami dan hal yang dicintai dapat mendatangkan stabilitas materi yang tak terbayangkan sebelumnya.
 

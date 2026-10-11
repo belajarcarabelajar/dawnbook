@@ -1,4 +1,4 @@
-## Ekosistem AdTech dan Iklan Programatik: Pasar Saham di Balik Layar Ponsel Kamu
+## Ekosistem AdTech dan Iklan Programatik
 
 Selamat datang di jantung mesin periklanan modern. Pernahkah kamu bertanya-tanya mengapa setelah mencari "sepatu lari" di mesin pencari, tiba-tiba iklan sepatu tersebut muncul di blog berita yang kamu baca hanya beberapa detik kemudian?
 
@@ -21,7 +21,7 @@ Untuk memahami cara kerja sistem ini, kita perlu mengenal para aktor di balik la
 3. **Ad Exchange:** "Lantai bursa" digital tempat DSP dan SSP bertemu. Di sinilah proses lelang terjadi secara otomatis.
 4. **Data Management Platform (DMP):** Gudang data yang memberi tahu sistem siapa audiens tersebut (misal: "Pria, 25 tahun, suka lari, tinggal di Jakarta").
 
-### Real-Time Bidding (RTB): Lelang Secepat Kilat
+### Real-Time Bidding (RTB)
 
 **Real-Time Bidding (RTB)** adalah protokol di mana ruang iklan dijual dan dibeli melalui lelang instan. Seluruh proses ini terjadi dalam waktu kurang dari **100 milidetik**, lebih cepat dari satu kedipan mata manusia ($\approx 300-400$ ms).
 
@@ -55,7 +55,7 @@ $$
 
 dengan $\epsilon$ adalah unit terkecil mata uang (misalnya USD 0,01).
 
-### Representasi Teknis: Struktur Bid Request
+### Struktur Bid Request
 
 Bagi kamu yang tertarik pada sisi teknis, berikut adalah contoh sederhana bagaimana data dikirimkan dari situs web ke sistem lelang dalam format JSON:
 
@@ -94,7 +94,7 @@ Tidak semua iklan dibeli melalui lelang terbuka (RTB). Ada beberapa metode lain:
 - **Private Marketplace (PMP):** Lelang eksklusif yang hanya bisa diikuti oleh pengiklan undangan. Biasanya untuk situs web premium.
 - **Programmatic Direct:** Pembelian ruang iklan secara otomatis tanpa lelang, dengan harga yang sudah disepakati di depan (seperti memesan meja di restoran).
 
-### Aplikasi Dunia Nyata: Skenario Retargeting
+### Retargeting Sepatu Lari Santi
 
 **Skenario:** Santi mengunjungi situs e-commerce "TokoSepatu" dan memasukkan sepatu lari ke keranjang belanja, tetapi tidak jadi membeli (*cart abandonment*).
 

@@ -1,4 +1,4 @@
-## Nukleus Vestibularis: Pusat Integrasi Sensorimotor
+## Nukleus Vestibularis sebagai Pusat Integrasi Sensorimotor
 
 Bayangkan saat kita sedang berada di dalam kereta api yang mulai bergerak perlahan. Mata melihat peron stasiun menjauh, telinga dalam merasakan percepatan halus, dan otot-otot kaki menyesuaikan ketegangan agar tubuh tetap seimbang. Bagaimana otak mengetahui bahwa tubuh yang bergerak, dan bukan stasiunnya yang bergeser?
 
@@ -6,7 +6,7 @@ Jawabannya terletak pada sebuah pusat kendali lalu lintas canggih di batang otak
 
 Nukleus vestibularis bukan sekadar stasiun pengulang (*relay station*) yang meneruskan sinyal dari telinga dalam ke otak. Struktur ini berfungsi sebagai prosesor komputasi biologis yang mengintegrasikan informasi dari berbagai modalitas sensorik untuk menciptakan gambaran akurat tentang posisi dan gerakan tubuh di ruang tiga dimensi.
 
-### 1. Anatomi dan Topografi: Empat Pilar Utama
+### 1. Anatomi dan Topografi
 
 Nukleus vestibularis terletak di bagian bawah pons dan bagian atas medulla oblongata, tepat di lantai ventrikel keempat. Kompleks ini dibagi menjadi empat sub-nukleus utama yang masing-masing memiliki spesialisasi fungsional:
 
@@ -17,7 +17,7 @@ Nukleus vestibularis terletak di bagian bawah pons dan bagian atas medulla oblon
 
 > **Analogi:** Bayangkan Nukleus Vestibularis sebagai **Menara Pengawas Bandara**. Struktur ini tidak hanya menerima laporan dari pilot (organ telinga dalam), melainkan juga memantau radar (sistem visual) dan kondisi landasan (sensor proprioseptif tubuh) sebelum memberikan instruksi terkoordinasi bagi pendaratan.
 
-### 2. Integrasi Multisensorik: Konvergensi Tiga Jalur
+### 2. Integrasi Multisensorik Tiga Jalur
 
 Keunikan mendasar dari nukleus vestibularis terletak pada kemampuannya melakukan **konvergensi multisensorik**. Nukleus ini tidak pernah bekerja hanya dengan satu modalitas data. Tiga sumber input utama yang diolah secara simultan meliputi:
 
@@ -52,7 +52,7 @@ $$
 
 Jika $\Delta V \neq 0$, sistem saraf pusat menerjemahkannya sebagai dinamika gerakan rotasi kepala.
 
-### 4. Output: Distribusi Instruksi Motorik
+### 4. Distribusi Instruksi Motorik
 
 Setelah menyelesaikan komputasi dan integrasi seluruh input, nukleus vestibularis mendistribusikan sinyal keluaran ke empat jalur proyeksi utama:
 
@@ -61,7 +61,7 @@ Setelah menyelesaikan komputasi dan integrasi seluruh input, nukleus vestibulari
 - **Serebelum:** Untuk koordinasi motorik halus, kalibrasi adaptif, dan pembelajaran motorik keseimbangan.
 - **Thalamus dan Korteks Serebri:** Menghantarkan proyeksi asenden menuju korteks parieto-insular vestibular (PIVC) guna membangun kesadaran spasial dan navigasi tubuh.
 
-### 5. Aplikasi Klinis: Fenomena Mabuk Perjalanan (Motion Sickness)
+### 5. Fenomena Mabuk Perjalanan (Motion Sickness)
 
 Mabuk perjalanan (*motion sickness*) terjadi akibat ketidaksesuaian interpretasi data sensorik pada nukleus vestibularis.
 

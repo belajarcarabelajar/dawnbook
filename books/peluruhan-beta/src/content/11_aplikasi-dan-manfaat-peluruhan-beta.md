@@ -6,7 +6,7 @@ Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya adal
 
 Mari kita jelajahi bagaimana partikel kecil berkecepatan tinggi ini bekerja untuk kita.
 
-## 1. Bidang Medis: Senjata Presisi Melawan Kanker
+## 1. Bidang Medis
 
 Dalam dunia medis, peluruhan beta dimanfaatkan karena sifatnya yang setengah kuat. Partikel beta cukup kuat untuk merusak DNA sel kanker, namun jangkauannya di dalam jaringan tubuh sangat terbatas (hanya beberapa milimeter). Hal ini memungkinkan dokter untuk melakukan serangan lokal tanpa merusak organ sehat di sekitarnya.
 
@@ -34,7 +34,7 @@ Alat pemindai dapat melacak distribusi isotop tersebut untuk mendeteksi adanya k
 
 > **Penting:** Sifat jarak pendek partikel beta adalah kunci keamanan dalam brakiterapi. Hal ini memastikan bahwa dosis radiasi yang mematikan bagi sel kanker tidak menyebar ke seluruh tubuh pasien.
 
-### 2. Bidang Industri: Penjaga Kualitas Tanpa Sentuhan
+### 2. Bidang Industri
 
 Pernahkah muncul pertanyaan bagaimana pabrik kertas atau plastik memastikan ketebalan produk mereka konsisten hingga skala mikrometer di sepanjang ribuan meter gulungan? Jawabannya adalah **Thickness Gauging** (Pengukuran Ketebalan) menggunakan partikel beta.
 
@@ -54,7 +54,7 @@ Bayangkan sorotan senter di balik selembar kertas. Jika kertasnya tipis, cahaya 
 - **Partikel Alfa** terlalu lemah; mereka akan terhenti bahkan oleh kertas yang paling tipis.
 - **Sinar Gamma** terlalu kuat; mereka akan menembus semuanya tanpa mengalami perubahan jumlah yang signifikan, sehingga tidak sensitif terhadap perubahan ketebalan yang kecil.
 
-### 3. Bidang Arkeologi: Jam Geologis Karbon-14
+### 3. Bidang Arkeologi
 
 Salah satu aplikasi peluruhan beta yang paling terkenal adalah **Penanggalan Radiokarbon** (*Radiocarbon Dating*). Teknik ini memungkinkan ilmuwan menentukan usia fosil atau artefak kayu yang berumur hingga 50.000 tahun.
 
@@ -77,7 +77,7 @@ Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begi
 
 *Studi Kasus Penanggalan Radiokarbon: Apabila ditemukan fosil kayu dengan konsentrasi ${}^{14}\text{C}$ sebesar seperempat dari jumlah normal organisme hidup, berapakah estimasi usia fosil tersebut? (Petunjuk: Satu periode waktu paruh mengurangi konsentrasi menjadi separuhnya).*
 
-### Real-World Application: Sensor Asap Modern
+### Sensor Asap Modern
 
 Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mirip dengan aplikasi beta, meskipun lebih sering menggunakan partikel alfa. Namun, dalam aplikasi industri khusus, peluruhan beta digunakan dalam **kromatografi gas** untuk mendeteksi polutan di udara atau residu pestisida pada makanan. Elektron dari peluruhan beta menabrak molekul udara dan menciptakan arus listrik; jika ada molekul polutan yang lewat, arus tersebut akan berubah, memicu alarm atau pencatatan data.
 

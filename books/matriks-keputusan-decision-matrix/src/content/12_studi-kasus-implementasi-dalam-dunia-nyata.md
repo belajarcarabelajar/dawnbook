@@ -1,10 +1,10 @@
-## Studi Kasus: Implementasi dalam Dunia Nyata
+## Tiga Kasus Nyata Matriks Keputusan
 
 Selamat datang di bagian akhir dari perjalanan kita mempelajari **matriks keputusan** (*decision matrix*). Setelah memahami teori dasar, kriteria penilaian, hingga cara menentukan skor berbobot, kini saatnya melihat bagaimana alat bantu ini bekerja secara riil di lapangan.
 
 Teori tanpa praktik sering kali terasa abstrak. Ibarat mempelajari mesin mobil, kamu baru akan benar-benar memahaminya saat mencoba mengemudikannya langsung di jalan raya. Bagian ini mengeksplorasi tiga skenario dunia nyata: dunia bisnis, manajemen sumber daya manusia, dan keuangan pribadi.
 
-### 1. Skenario Bisnis: Memilih Vendor Logistik Utama
+### 1. Memilih Vendor Logistik Utama
 
 Bayangkan kamu menduduki posisi sebagai Manajer Operasional di perusahaan *e-commerce* yang sedang berkembang pesat. Kamu harus memilih satu dari tiga perusahaan logistik (Vendor A, B, dan C) untuk menjadi mitra utama. Keputusan ini sangat menentukan karena langsung memengaruhi kepuasan pelanggan dan margin keuntungan perusahaan.
 
@@ -38,7 +38,7 @@ $$
 
 Berdasarkan perhitungan di atas, **Vendor B** terpilih sebagai mitra utama. Meskipun Vendor A menawarkan biaya terendah, keunggulan Vendor B pada aspek kecepatan pengiriman dan integrasi teknologi memberikan nilai tambah yang lebih besar bagi bisnis.
 
-### 2. Skenario HR: Rekrutmen Senior Software Engineer
+### 2. Rekrutmen Senior Software Engineer
 
 Divisi HR sering kali dihadapkan pada dilema saat menyeleksi kandidat yang masing-masing memiliki keunggulan berbeda. Penggunaan matriks keputusan membantu meminimalkan bias subjektif atau kesan pertama (*halo effect*) yang sering memengaruhi penilaian pewawancara.
 
@@ -56,7 +56,7 @@ Sebagai gambaran, jika keterampilan teknis diibaratkan sebagai mesin mobil yang 
 
 Berdasarkan hasil penilaian, Citra memperoleh skor tertinggi. Pada posisi kepemimpinan, kapasitas mengelola tim serta keselarasan budaya organisasi sering kali membawa dampak positif jangka panjang yang jauh lebih besar dibanding kapasitas menulis kode secara individu. Matriks ini menegaskan bahwa kandidat yang paling mahir di bidang teknis tidak selalu menjadi pilihan paling tepat untuk kebutuhan tim saat ini.
 
-### 3. Skenario Pribadi: Memilih Apartemen untuk Investasi
+### 3. Memilih Apartemen untuk Investasi
 
 Kamu memiliki dana simpanan dan berencana membeli apartemen pertama untuk disewakan kembali. Langkah ini merupakan keputusan finansial besar yang rentan dipengaruhi emosi. Di sinilah matriks keputusan membantu menjaga penilaian tetap objektif dan logis.
 
@@ -69,7 +69,7 @@ Kamu memiliki dana simpanan dan berencana membeli apartemen pertama untuk disewa
 
 Sering kali seseorang tergoda membeli unit properti hanya karena tampilan fisiknya yang estetik. Dengan menggunakan matriks ini, kamu dipaksa untuk menguji apakah aspek estetika tersebut memang memiliki bobot yang cukup besar untuk memengaruhi keberhasilan investasimu.
 
-### Implementasi Teknis: Otomasi dengan Python
+### Otomasi dengan Python
 
 Ketika menghadapi banyak pilihan (misalnya lebih dari sepuluh opsi), melakukan perhitungan secara manual tentu memakan waktu. Cuplikan kode Python di bawah ini mempermudah otomatisasi proses penghitungan matriks keputusan.
 
@@ -104,7 +104,7 @@ for rank, (name, score) in enumerate(sorted_results, 1):
     print(f"Ranking {rank}: {name} dengan skor {score}")
 ```
 
-### Real-World Application: Kapan Menggunakan Matriks Ini?
+### Kapan Menggunakan Matriks Ini?
 
 Dalam dunia profesional, matriks keputusan sering digunakan dalam rapat direksi atau komite pengadaan untuk:
 

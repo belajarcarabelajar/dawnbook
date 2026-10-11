@@ -22,7 +22,7 @@ Pernahkah kamu duduk di meja kerja, menyelesaikan tugas dengan baik, namun meras
 
 Itulah **Sindrom Imposter**. Di awal masa dewasa, fenomena ini menguat karena kita sedang bertransisi dari lingkungan akademis (yang terstruktur dengan nilai) ke dunia profesional (yang penuh ambiguitas).
 
-### Gejala Umum di Tempat Kerja:
+### Gejala Umum di Tempat Kerja
 
 - **Over-preparing:** Bekerja jauh lebih keras dari yang dibutuhkan untuk memastikan tidak ada kesalahan.
 - **Meremehkan Pencapaian:** Menganggap kesuksesan hanya karena "kebetulan" atau "faktor keberuntungan".
@@ -34,7 +34,7 @@ Itulah **Sindrom Imposter**. Di awal masa dewasa, fenomena ini menguat karena ki
 
 Dalam ekonomi digital saat ini, ambisi seringkali menjadi beban. Kita tidak hanya ingin sukses, kita ingin sukses **secepat mungkin**.
 
-### Persamaan Ketidakbahagiaan Karier:
+### Persamaan Ketidakbahagiaan Karier
 
 Secara matematis, tingkat kecemasan karier dapat digambarkan sebagai berikut:
 
@@ -48,7 +48,7 @@ Semakin tinggi ekspektasimu dan semakin sering kamu membandingkan diri dengan pe
 
 Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mungkin bekerja di satu perusahaan selama 30 tahun, generasi saat ini mungkin akan berganti karier (bukan hanya pindah tempat kerja) sebanyak 3-5 kali seumur hidup.
 
-### Strategi Menghadapi Ketidakpastian:
+### Strategi Menghadapi Ketidakpastian
 
 1. **Iterasi, Bukan Finalisasi:** Anggap pekerjaan pertamamu sebagai "Versi Beta". Tujuannya bukan untuk menjadi sempurna, tetapi untuk mengumpulkan data tentang apa yang kamu sukai dan apa yang kamu kuasai.
 2. **Fokus pada Skill, Bukan Jabatan:** Jabatan bisa hilang karena otomatisasi atau perubahan pasar, tetapi keahlian (seperti *problem solving*, komunikasi, atau koding) akan selalu relevan.
@@ -56,21 +56,21 @@ Dunia kerja saat ini tidak lagi bersifat linear. Jika generasi orang tua kita mu
 
 ## 5\. Aplikasi Dunia Nyata & Skenario
 
-### Kasus A: Insinyur Perangkat Lunak Muda (Technical Context)
+### A. Insinyur Perangkat Lunak Muda (Technical Context)
 
 **Skenario:** Budi baru saja diterima di sebuah perusahaan teknologi besar (*Big Tech*). Setiap hari dia merasa cemas saat melakukan *code review*. Dia merasa kodingannya berantakan dibandingkan seniornya dan takut dipecat setiap kali ada *bug* yang muncul.
 
 - **Masalah:** Sindrom Imposter dan tekanan "Pekerjaan Impian".
 - **Solusi:** Budi perlu menyadari bahwa seniornya memiliki waktu 10.000 jam lebih banyak darinya. Dia harus mengubah pola pikirnya dari "Saya harus tahu segalanya" menjadi "Saya adalah mesin pembelajar".
 
-### Kasus B: Lulusan Komunikasi yang Menjadi Admin
+### B. Lulusan Komunikasi yang Menjadi Admin
 
 **Skenario:** Sari merasa gagal karena bekerja sebagai staf administrasi, sementara teman-temannya sudah menjadi *Influencer* atau *Manager* di agensi ternama.
 
 - **Masalah:** Perbandingan sosial dan beban ambisi.
 - **Solusi:** Sari dapat menggunakan metode **Job Crafting**, yaitu mencari cara untuk menyisipkan keahlian komunikasinya dalam tugas administratifnya, sembari membangun portofolio di luar jam kantor tanpa tekanan finansial.
 
-## 6\. Praktik Mandiri: Membedah Kecemasanmu
+## 6\. Membedah Kecemasanmu
 
 Gunakan tabel di bawah ini untuk memetakan apa yang sebenarnya kamu rasakan saat ini:
 

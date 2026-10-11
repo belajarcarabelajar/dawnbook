@@ -1,4 +1,4 @@
-## Phronesis: Sang Navigasi dalam Labirin Kehidupan
+## Phronesis
 
 Kadang kita tahu persis apa yang benar secara teori, tapi eksekusinya di dunia nyata jauh dari kata mudah. Misalnya, kita ingin jujur kepada teman yang sedang bersedih, tapi di saat bersamaan kita tidak ingin melukai perasaannya. Tarik-menarik antara mengatakan kebenaran pahit atau berbohong demi kebaikan ini adalah makanan sehari-hari.
 

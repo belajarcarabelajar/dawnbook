@@ -4,7 +4,7 @@ Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer 
 
 Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Esensinya terletak pada seni menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target besar. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang sangat berharga.
 
-## 1. Meruntuhkan Menara Gading: Memahami Fenomena Silo
+## 1. Memahami Fenomena Silo
 
 Silo organisasi terjadi ketika departemen-departemen di dalam perusahaan beroperasi secara independen tanpa berbagi informasi atau tujuan dengan departemen lain.
 
@@ -16,7 +16,7 @@ Silo organisasi terjadi ketika departemen-departemen di dalam perusahaan beroper
 - **Jargon yang Terlalu Spesifik:** Penggunaan istilah teknis dari masing-masing bidang sering kali membuat komunikasi dengan departemen lain menjadi canggung dan sulit dipahami.
 - **Minimnya Transparansi:** Kebiasaan menyimpan informasi untuk kelompok sendiri demi mempertahankan pengaruh atau kendali dalam organisasi.
 
-## 2. Mengenal Tiga Pilar Utama: Teknis, Kreatif, dan Bisnis
+## 2. Tiga Pilar Utama Kolaborasi Teknis, Kreatif, dan Bisnis
 
 Untuk berkolaborasi secara produktif, kamu harus memahami apa yang menggerakkan masing-masing kelompok ini. Setiap departemen memiliki fokus nilai yang berbeda:
 
@@ -69,7 +69,7 @@ Keterangan variabel:
 
 Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancang dengan baik, keberadaan ego sektoral atau silo yang tinggi akan secara drastis menurunkan peluang keberhasilan kolaborasi tersebut.
 
-## 5. Studi Kasus: Peluncuran Fitur "QuickPay"
+## 5. Peluncuran Fitur "QuickPay"
 
 **Skenario:** Sebuah perusahaan *fintech* menargetkan peluncuran fitur pembayaran instan dalam waktu 4 minggu.
 
@@ -83,7 +83,7 @@ Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancan
 2. **Negosiasi Trade-off:** Semua pihak sepakat meluncurkan versi MVP (*Minimum Viable Product*) di minggu keempat dengan fokus pada fungsi keamanan utama, sementara modifikasi visual yang berat ditunda untuk pembaruan berikutnya.
 3. **Kanal Informasi Bersama:** Membuka grup khusus di platform komunikasi internal agar koordinasi berjalan transparan bagi semua departemen.
 
-## 6. Aplikasi Praktis: Checklist Kolaborasi
+## 6. Checklist Kolaborasi
 
 Jika kamu ditunjuk untuk memimpin atau bergabung dalam proyek lintas fungsi, gunakan panduan praktis berikut:
 

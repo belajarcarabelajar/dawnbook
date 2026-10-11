@@ -4,7 +4,7 @@ Selamat datang di penelusuran bagian yang paling mencekam namun penuh pelajaran 
 
 Relief-relief ini bukan sekadar gambar mati; mereka adalah peringatan keras tentang bagaimana setiap tindakan negatif, sekecil apa pun, memiliki gaung yang akan kembali kepada pelakunya.
 
-## Logika Visual: Sebab di Kiri, Akibat di Kanan
+## Sebab di Kiri, Akibat di Kanan
 
 Sebelum kita membedah panel-panel tertentu, penting untuk memahami "bahasa visual" yang digunakan. Secara umum, panel Karmawibhangga mengikuti struktur komposisi yang konsisten:
 
@@ -35,7 +35,7 @@ Pencurian (*Adinnadana*) atau mengambil apa yang tidak diberikan juga mendapat p
 - **Tindakan:** Panel menggambarkan seseorang yang menyelinap ke rumah orang lain atau merampas barang milik orang miskin. Ada juga penggambaran penipuan dalam perdagangan (seperti timbangan yang tidak jujur).
 - **Konsekuensi:** Pelakunya digambarkan mengalami kemiskinan yang ekstrem di masa depan. Mereka terlihat kelaparan, berpakaian compang-camping, dan seringkali menjadi sasaran perampokan kembali.
 
-## 3. Perilaku Buruk Lainnya: Fitnah dan Kata-kata Kasar
+## 3. Fitnah dan Kata-kata Kasar
 
 Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapan yang memecah belah atau menyakitkan hati digambarkan memiliki dampak yang sangat pedih.
 

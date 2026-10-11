@@ -8,7 +8,7 @@ Barbara Fredrickson, seorang peneliti terkemuka dalam psikologi positif, memberi
 
 Secara harfiah, *broaden* berarti meluaskan, sedangkan *build* berarti membangun. Teori ini menjelaskan bahwa emosi positif memiliki peran yang jauh lebih besar daripada sekadar membuat perasaan kita nyaman. Emosi ini secara aktif mengubah cara kerja otak dan mempersiapkan diri kita menghadapi masa depan dengan lebih baik.
 
-### Konsep Dasar: Evolusi Emosi
+### Evolusi Emosi
 
 Berikut perbandingan sederhana antara mekanisme emosi negatif dan positif:
 
@@ -17,7 +17,7 @@ Berikut perbandingan sederhana antara mekanisme emosi negatif dan positif:
 
 > "Emosi positif lebih dari sekadar indikator kesejahteraan, mereka berperan aktif sebagai katalisator pertumbuhan dan resiliensi manusia." - Barbara Fredrickson
 
-## 2. Fase Pertama: Meluaskan (Broaden)
+## 2. Meluaskan (Broaden)
 
 Bayangkan pikiranmu seperti sebuah **senter**. Saat stres melanda (emosi negatif), sorot lampu senter tersebut menyempit dan hanya menyoroti satu masalah secara tajam. Namun, begitu kamu merasakan emosi positif, sorot lampu itu melebar menjadi **lampu taman (floodlight)** yang menerangi area sekeliling dengan lebih luas.
 
@@ -31,7 +31,7 @@ Di bawah pengaruh emosi positif, cara kerja otak kita mengalami perubahan pentin
 
 **Analogi:** *Bayangkan kamu sedang menyusun puzzle. Saat frustrasi (negatif), kamu cenderung memaksakan satu kepingan ke tempat yang salah secara berulang-ulang karena fokusmu menyempit. Sebaliknya, saat merasa tenang dan tertarik (positif), pandanganmu meluas sehingga kamu dapat melihat pola warna di seluruh meja dan menemukan posisi kepingan yang tepat dengan jauh lebih mudah.*
 
-## 3. Fase Kedua: Membangun (Build)
+## 3. Membangun (Build)
 
 Efek pelebaran (*broaden*) dari emosi positif memang bersifat sementara, namun dampak jangka panjangnya permanen. Di sinilah fase membangun (*build*) terjadi. Eksplorasi dan kreativitas yang muncul saat pikiran meluas membantu kita mengumpulkan **sumber daya pribadi yang tahan lama**.
 

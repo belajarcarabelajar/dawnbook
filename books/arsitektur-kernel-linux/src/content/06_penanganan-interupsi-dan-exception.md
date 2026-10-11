@@ -1,10 +1,10 @@
-## Penanganan Interupsi dan Exception: "Sistem Alarm" sang Kernel
+## Penanganan Interupsi dan Exception
 
 Bayangkan kamu sedang asyik membaca buku di ruang tamu, dan tiba-tiba bel pintu berbunyi. Kamu menandai halaman buku tersebut, berdiri, membukakan pintu, menerima paket, lalu kembali duduk dan melanjutkan membaca dari baris yang sama.
 
 Dalam arsitektur Linux, **Interupsi** adalah bel pintu tersebut. Tanpa mekanisme ini, CPU akan terjebak dalam "polling", yaitu terus-menerus memeriksa setiap perangkat keras (seperti mouse, keyboard, atau kartu jaringan) untuk melihat apakah ada data baru, yang mana sangat tidak efisien.
 
-## 1. Definisi: Interupsi vs. Exception
+## 1. Interupsi vs. Exception
 
 Meskipun keduanya memaksa CPU untuk menghentikan aliran instruksi saat ini dan beralih ke kernel space, mereka memiliki asal-usul yang berbeda:
 
@@ -13,7 +13,7 @@ Meskipun keduanya memaksa CPU untuk menghentikan aliran instruksi saat ini dan b
 
 > **Catatan:** Interupsi berurusan dengan dunia luar, sedangkan exception menangani masalah internal saat eksekusi kode.
 
-## 2. Mekanisme Kerja: Dari Sinyal ke Eksekusi
+## 2. Dari Sinyal ke Eksekusi
 
 Bagaimana kernel tahu apa yang harus dilakukan saat interupsi datang? Jawabannya ada pada **Interrupt Descriptor Table (IDT)**.
 
@@ -33,7 +33,7 @@ ISR adalah fungsi khusus di dalam kernel yang dirancang untuk menangani interups
 - **Tidak Boleh "Tidur" (Blocking):** Berada di interrupt context berarti tidak ada scheduler yang bisa memindahkan tugas. Oleh karena itu, ISR dilarang keras memanggil fungsi yang memicu *sleep*, seperti menunggu input pengguna atau mengunci mutex.
 - **Reentrant:** Kode ISR harus dirancang agar aman jika interupsi yang sama terjadi lagi secara berturut-turut.
 
-## 4. Strategi Efisiensi: Top Half dan Bottom Half
+## 4. Top Half dan Bottom Half
 
 Menangani interupsi yang kompleks (seperti memproses paket data jaringan yang besar) di dalam ISR akan membuat sistem lambat. Oleh karena itu, Linux membagi penanganan menjadi dua bagian:
 
@@ -99,7 +99,7 @@ module_init(my_driver_init);
 module_exit(my_driver_exit);
 ```
 
-## 7. Aplikasi Dunia Nyata: Pengetikan Keyboard
+## 7. Pengetikan Keyboard
 
 Mari kita lihat apa yang terjadi saat kamu menekan tombol "A" di keyboard:
 

@@ -1,4 +1,4 @@
-## Amor Fati: Mencintai Takdir
+## Amor Fati
 
 Pernahkah kamu berada dalam situasi di mana segalanya tampak berjalan berlawanan dengan rencana kamu? Ban mobil bocor saat ingin rapat penting, hujan turun tepat saat kamu mengadakan acara *outdoor*, atau kegagalan proyek yang sudah dikerjakan berbulan-bulan. Reaksi spontan kita biasanya adalah mengeluh, marah, atau merasa menjadi korban keadaan.
 
@@ -40,11 +40,11 @@ $$
 
 Jika $\text{Perlawanan} = 0$ (melalui Amor Fati), maka berapa pun besarnya $\text{Kejadian}$ yang menimpa, $\text{Penderitaan}$ akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
-## Latihan Praktis: Mengubah Hambatan Menjadi Bahan Bakar
+## Mengubah Hambatan Menjadi Bahan Bakar
 
 Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse the Perspective"** (Membalikkan Perspektif).
 
-### Skenario Real-World: Kegagalan Mendapatkan Promosi
+### Kegagalan Mendapatkan Promosi
 
 - **Pikiran Awal:** "Saya sudah bekerja keras, tapi bos malah memilih orang lain. Ini tidak adil!"
 - **Penerapan Amor Fati:**

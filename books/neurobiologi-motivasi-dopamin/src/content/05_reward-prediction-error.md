@@ -1,4 +1,4 @@
-## Reward Prediction Error: Ilmu di Balik Ekspektasi
+## Reward Prediction Error
 
 Pernahkah kamu memesan secangkir kopi di kedai baru tanpa ekspektasi tinggi, lalu terkejut karena rasanya sangat luar biasa? Kamu merasa sangat senang, bahkan mungkin ingin kembali lagi besok. Sebaliknya, bayangkan kamu pergi ke restoran berbintang lima dengan ekspektasi selangit, namun makanannya terasa biasa saja. Kamu merasa kecewa, padahal makanannya tidak buruk.
 
@@ -32,7 +32,7 @@ Otak merespons hasil perhitungan RPE dalam tiga skenario utama:
 
 ---
 
-### Mekanisme Biologis: Peran Neuron Dopamin
+### Peran Neuron Dopamin
 
 Bagaimana otak menjalankan kalkulasi ini secara kuantitatif? Fokus utamanya ada pada neuron dopaminergik di area **Ventral Tegmental Area (VTA)**.
 
@@ -70,7 +70,7 @@ Seorang pendidik yang memanfaatkan metode bervariasi serta memberikan tantangan 
 
 ---
 
-### Dampak Psikologis: Jebakan Ekspektasi Tinggi
+### Jebakan Ekspektasi Tinggi
 
 Mengapa seseorang yang sangat sukses terkadang tetap merasa hampa?
 

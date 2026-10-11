@@ -1,4 +1,4 @@
-## Kajian Ekspresif: Pengaruh Latar Akademik terhadap Gaya Penulisan
+## Kajian Ekspresif Pengaruh Latar Akademik terhadap Gaya Penulisan
 
 ### Pengaruh Keilmuan Statistika terhadap Struktur Diksi
 
@@ -23,14 +23,14 @@ Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertan
 
 Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi, logika analitis, dan presisi data statistik, yang kemudian ia kawinkan dengan sensitivitas estetis dalam menyajikan kisah otobiografisnya secara logis dan faktual.
 
-### Studi Stilistika Kuantitatif: Angka dan Presisi dalam Sastra
+### Angka dan Presisi dalam Stilistika Kuantitatif
 
 Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \\times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0,5 \\times 1,5$ meter (Hlm. 9) bukan hanya sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
 
-### Diskusi Estetika: Saat Logika Data Menjadi Puitis
+### Logika Data yang Menjadi Puitis
 
 *Mengapa latar belakang pendidikan sains atau kuantitatif seperti Statistika tetap dapat melahirkan karya sastra yang sangat emosional dan menyentuh hati? Bagaimana logika data dapat memperkuat kebenaran artistik dalam sebuah tulisan?*
 
-### Langkah Akhir: Menuju Kesimpulan dan Rangkuman
+### Menuju Kesimpulan dan Rangkuman
 
 Setelah menelusuri seluruh dimensi struktural dan ekspresif dari perjalanan hidup pengarang, kita telah sampai pada akhir analisis ini. Di bab penutup berikutnya, kita akan merangkum kesimpulan akhir, memberikan saran akademis, serta menyajikan daftar referensi ilmiah yang mendukung kajian ini.

@@ -14,7 +14,7 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 - Badan Nasional Penanggulangan Bencana. (2008). *Peraturan Kepala BNPB Nomor 3 Tahun 2008 tentang Pedoman Pembentukan Badan Penanggulangan Bencana Daerah*. BNPB. [Perka BNPB No. 3 Tahun 2008](https://jdih.bnpb.go.id/dokumen/Peraturan/perka-nomor-3-tahun-2008)
 
-### B. Kerangka Global: Sendai dan Early Warnings for All
+### B. Sendai dan Early Warnings for All
 
 - United Nations Office for Disaster Risk Reduction. (2015). *Sendai Framework for Disaster Risk Reduction 2015-2030* (A/RES/69/283). UN General Assembly. [Sendai Framework for Disaster Risk Reduction 2015-2030](https://www.undrr.org/publication/sendai-framework-disaster-risk-reduction-2015-2030)
 

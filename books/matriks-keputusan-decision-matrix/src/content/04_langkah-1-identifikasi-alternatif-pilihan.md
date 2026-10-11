@@ -1,4 +1,4 @@
-## Langkah 1: Identifikasi Alternatif Pilihan
+## Identifikasi Alternatif Pilihan
 
 Bayangkan kamu berdiri di depan sebuah mesin penjual otomatis (*vending machine*). Sebelum kamu memasukkan koin, matamu memindai seluruh rak untuk melihat pilihan yang tersedia: kopi, teh, soda, atau air mineral. Dalam konteks **matriks keputusan** (*decision matrix*), proses memindai rak ini setara dengan langkah pertama, yaitu **Identifikasi Alternatif**.
 
@@ -38,7 +38,7 @@ $$
 \text{Anggaran} \leq \text{Rp10.000.000}
 $$
 
-### Teknik Penyaringan (*Filtering*): Memilih yang Relevan
+### Teknik Penyaringan (*Filtering*)
 
 Terlalu banyak pilihan bisa menyebabkan *analysis paralysis*. Kita perlu menyaring daftar panjang tersebut menjadi daftar pendek yang berkualitas.
 
@@ -59,7 +59,7 @@ Gunakan tes ini untuk membuang opsi yang tidak relevan sejak awal:
 
 ### Contoh Skenario & Kasus Nyata
 
-#### Skenario: Memilih *Framework* Pengembangan Web untuk Proyek Baru
+#### Memilih *Framework* Pengembangan Web untuk Proyek Baru
 
 Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untuk proyek *e-commerce* berskala besar.
 
@@ -84,7 +84,7 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 2. **Vue.js** yang menawarkan kurva pembelajaran relatif cepat.
 3. **Angular** karena memiliki struktur kuat yang cocok untuk skala korporasi.
 
-### Aplikasi Praktis: Penggunaan Kode dalam Dokumentasi
+### Penggunaan Kode dalam Dokumentasi
 
 Dalam sistem manajemen keputusan otomatis, alternatif sering kali direpresentasikan dalam bentuk *array* atau *list* objek sebelum diproses ke dalam matriks.
 

@@ -45,7 +45,7 @@ Kesiapsiagaan yang mengabaikan difabel, lanjut usia, anak, dan ibu hamil akan ga
 
 Simulasi yang melibatkan warga difabel sejak perencanaan mengungkap hambatan tak terlihat, seperti selokan tanpa jembatan atau pintu terlalu sempit untuk kursi roda. Inklusivitas adalah tolok ukur mutu sistem.
 
-### Latihan Simulasi: Tabletop Exercise dan Full-Scale Drill
+### Tabletop Exercise dan Full-Scale Drill
 
 Rencana yang tidak diuji hanya menjadi arsip. Dua metode latihan yang saling melengkapi adalah *tabletop exercise* dan *drill* lapangan.
 

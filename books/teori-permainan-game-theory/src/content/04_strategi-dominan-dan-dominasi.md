@@ -1,4 +1,4 @@
-## Strategi Dominan dan Dominasi: Kunci Menuju Keputusan Rasional
+## Strategi Dominan dan Dominasi
 
 Dalam hiruk-pikuk pengambilan keputusan strategis, sering kali kita merasa pusing dengan banyaknya kemungkinan langkah yang bisa diambil oleh lawan. Namun, bagaimana jika ada sebuah langkah yang **selalu** lebih baik dari langkah lainnya, apa pun yang dilakukan orang lain? Inilah inti dari **Strategi Dominan**.
 
@@ -57,7 +57,7 @@ Jika strategi dominan adalah "pemenang mutlak", maka **Strategi yang Didominasi*
 
 Ini adalah teknik detektif dalam teori permainan. **Iterated Elimination of Strictly Dominated Strategies (IESDS)** adalah proses menghapus strategi yang didominasi secara bertahap untuk menemukan solusi permainan.
 
-#### Langkah-langkah IESDS:
+#### Langkah-langkah IESDS
 
 1. Lihat dari perspektif Pemain 1: Adakah strategi yang selalu memberikan hasil lebih buruk daripada strategi lainnya? Jika ada, hapus baris tersebut.
 2. Lihat dari perspektif Pemain 2: Dengan sisa strategi yang ada, adakah strategi yang selalu memberikan hasil lebih buruk? Jika ada, hapus kolom tersebut.
@@ -81,7 +81,7 @@ Kesimpulan: Strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi
 
 Karena Perusahaan B juga rasional dan memiliki struktur payoff yang sama, mereka juga akan mengeliminasi "Tidak Iklan". Hasil akhirnya adalah (50, 50).
 
-### 5. Implementasi Kode: Mendeteksi Dominasi
+### 5. Mendeteksi Dominasi dengan Kode
 
 Berikut adalah contoh sederhana menggunakan Python untuk memeriksa apakah suatu strategi dalam matriks payoff mendominasi strategi lainnya.
 

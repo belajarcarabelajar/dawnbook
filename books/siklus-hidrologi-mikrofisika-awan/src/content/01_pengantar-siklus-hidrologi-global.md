@@ -1,10 +1,10 @@
-## Pengantar Siklus Hidrologi Global: Mesin Abadi Planet Bumi
+## Pengantar Siklus Hidrologi Global
 
 Selamat datang di awal perjalanan memahami salah satu sistem pendukung kehidupan paling mendasar di planet ini. Bumi dapat diandaikan sebagai sebuah mesin raksasa yang bekerja tanpa henti. Bahan bakarnya berasal dari energi radiasi matahari, sementara cairan yang mengalir dan menggerakkan seluruh sistem ini adalah air.
 
 Siklus hidrologi melingkupi sirkulasi air yang berlangsung secara konstan dan tertutup antara atmosfer, daratan, serta lautan. Dalam bab ini, kita akan mempelajari bagaimana molekul air melakukan perjalanan ribuan kilometer, berpindah wujud dari fase cair ke gas lalu kembali lagi, serta menjaga jumlah total air di Bumi tetap relatif konstan selama jutaan tahun.
 
-### 1. Konsep Dasar: Sistem Tertutup dan Dinamis
+### 1. Sistem Tertutup dan Dinamis
 
 Secara global, siklus hidrologi merupakan sebuah sistem tertutup. Artinya, jumlah total massa air di Bumi tidak bertambah maupun berkurang secara nyata dari waktu ke waktu. Air hanya berpindah tempat antar-reservoir dan mengalami perubahan fase fisik.
 
@@ -77,7 +77,7 @@ Meskipun siklus hidrologi berlangsung terus-menerus, keberadaan air tidak terdis
 
 Jika seluruh uap air yang melayang di atmosfer mendadak mengembun dan jatuh sebagai hujan secara merata di seluruh muka Bumi pada saat bersamaan, air tersebut hanya akan membentuk lapisan tipis setebal $2{,}5\text{ cm}$. Walaupun volumenya relatif kecil dibanding reservoir lain, fraksi uap air atmosfer inilah yang mengendalikan sistem cuaca dan iklim di seluruh dunia.
 
-### 5. Aplikasi Dunia Nyata: Relevansi Praktis
+### 5. Relevansi Praktis
 
 Studi mengenai siklus hidrologi global memberikan fondasi penting bagi berbagai sektor kehidupan masyarakat:
 
@@ -85,7 +85,7 @@ Studi mengenai siklus hidrologi global memberikan fondasi penting bagi berbagai 
 2. **Manajemen Bencana Alam:** Perubahan pada siklus hidrologi akibat peningkatan suhu global mempercepat laju evaporasi, yang dapat memicu kekeringan di satu wilayah sekaligus banjir bandang di wilayah lain.
 3. **Pemanfaatan Energi Terbarukan:** Pembangkit Listrik Tenaga Air (PLTA) mengandalkan kestabilan pola presipitasi dan debit aliran sungai secara berkelanjutan.
 
-#### Skenario Singkat: Hutan yang Mengatur Hujan
+#### Hutan yang Mengatur Hujan
 
 Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) mengurangi tingkat **transpirasi** vegetasi secara langsung. Penurunan ini menyebabkan kelembapan udara di atas kawasan tersebut berkurang, sehingga mengurangi pembentukan awan hujan dan menaikkan suhu permukaan lokal. Fenomena ini menunjukkan bagaimana gangguan pada satu komponen siklus dapat memengaruhi kestabilan sirkulasi air regional.
 

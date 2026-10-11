@@ -10,7 +10,7 @@ Pembentukan kristal es memerlukan penyusunan molekul-molekul $\text{H}_2\text{O}
 
 > **Analogi:** Bayangkan kelompok pembelajar yang bergerak acak di lapangan. Untuk membentuk barisan kisi yang teratur, diperlukan penanda atau instruksi pemicu di lapangan. Tanpa pemicu tersebut, pergerakan acak tetap berlangsung meskipun kondisi lingkungan sangat sepi dan dingin.
 
-### 2. Nukleasi Es: Mekanisme Pembentukan Kristal Pertama
+### 2. Nukleasi Es
 
 Proses transisi fase yang mengawali pembentukan kristal es dari fase uap atau cair dinamakan **nukleasi es** (*ice nucleation*). Nukleasi es terbagi menjadi dua mekanisme utama:
 
@@ -29,7 +29,7 @@ Nukleasi heterogen dipicu oleh keberadaan partikel aerosol padat yang dikenal se
 - **Suhu Aktivasi:** Berlangsung pada rentang suhu yang jauh lebih hangat, yaitu antara $0^\circ\text{C}$ hingga $-38^\circ\text{C}$.
 - **Mekanisme:** Permukaan kisi dari partikel $\text{IN}$ bertindak sebagai templat geometris yang menurunkan energi bebas aktivasi pembentukan kisi es, memfasilitasi molekul air untuk menempel dan menyusun struktur es pada suhu yang lebih tinggi.
 
-### 3. Karakteristik Inti Es (Ice Nuclei): Aerosol Langka di Atmosfer
+### 3. Karakteristik Inti Es (Ice Nuclei)
 
 Meskipun Inti Kondensasi Awan ($\text{CCN}$) melimpah di troposfer, partikel Inti Es ($\text{IN}$) tergolong sangat langka di atmosfer.
 
@@ -70,7 +70,7 @@ Molekul air ($\text{H}_2\text{O}$) membentuk ikatan hidrogen yang mencapai tingk
 
 > **Catatan Kristalografi:** Jika ditemukan penggambaran kepingan salju yang memiliki 5 atau 8 cabang pada ilustrasi dekoratif, hal tersebut merupakan ketidaksesuaian dengan prinsip fisika atmosfer. Fisika ikatan molekul air memastikan bahwa pertumbuhan kristal es di alam selalu mempertahankan simetri heksagonal.
 
-### Real-World Application: Teknologi Penyemaian Awan (Cloud Seeding)
+### Teknologi Penyemaian Awan (Cloud Seeding)
 
 Pemahaman mendalam mengenai dinamika $\text{IN}$ melandasi penerapan teknologi modifikasi cuaca berbasis penyemaian awan (*cloud seeding*). Ketika awan campuran mengandung air superdingin melimpah namun kekurangan $\text{IN}$ alami, agen penyemai buatan diintroduksikan ke dalam massa awan.
 

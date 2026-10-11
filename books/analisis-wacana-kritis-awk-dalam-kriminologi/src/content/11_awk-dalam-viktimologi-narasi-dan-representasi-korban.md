@@ -1,4 +1,4 @@
-## AWK dalam Viktimologi: Narasi dan Representasi Korban
+## AWK dalam Viktimologi
 
 Dalam studi kriminologi dan viktimologi, analisis terhadap posisi korban tidak hanya berfokus pada dampak fisik atau finansial dari kejahatan, melainkan juga pada bagaimana bahasa konstruktif membentuk status sosial dan hukum korban. Bahasa bukan sekadar medium netral untuk menyampaikan fakta, melainkan instrumen kekuasaan tempat status seseorang sebagai korban yang sah diakui, diragukan, atau bahkan dipreteli.
 
@@ -27,7 +27,7 @@ Sebelum melangkah pada analisis tekstual, penting untuk memahami konsep teoretis
 
 **Viktimisasi Sekunder** (*Secondary Victimization*) merujuk pada proses di mana institusi penegak hukum, sistem peradilan, media, atau masyarakat kembali menimbulkan dampak psikologis negatif pada korban melalui sikap, prosedur formal, atau (yang paling krusial) penggunaan struktur bahasa.
 
-#### Analisis Linguistik: Pilihan Kata dan Agensi
+#### Pilihan Kata dan Agensi
 
 Dalam analisis tata bahasa AWK, konsep **agensi** (siapa yang ditaruh sebagai pelaku tindakan aktif) merupakan instrumen utama untuk melihat distribusi tanggung jawab moral dan hukum dalam teks:
 
@@ -53,7 +53,7 @@ Semakin lama narasi yang membawa bias linguistik ini dibiarkan berproduksi dalam
 
 ---
 
-### 3. Narasi dalam Teks Hukum: Dokumen Sidang dan Putusan
+### 3. Narasi dalam Dokumen Sidang dan Putusan
 
 Dalam ruang sidang pengadilan, bahasa berfungsi sebagai alat uji kredibilitas pembuktian. Namun, AWK menunjukkan bahwa proses peradilan sering kali bergeser menjadi pembunuhan karakter korban (*character assassination*).
 
@@ -70,7 +70,7 @@ Dalam kasus tindak pidana kekerasan seksual, pengacara terdakwa sering memanfaat
 
 ---
 
-### 4. Representasi Korban di Media Massa: Antara Simpati dan Sensasi
+### 4. Representasi Korban di Media Massa
 
 Media massa memegang peranan sentral dalam membentuk persepsi kolektif masyarakat terhadap korban. Dalam industri media komersial, kerap terjadi **komodifikasi penderitaan** demi meningkatkan daya tarik berita.
 
@@ -86,13 +86,13 @@ Media massa memegang peranan sentral dalam membentuk persepsi kolektif masyaraka
 
 ---
 
-### 5. Praktik Analisis: Bedah Teks Sederhana
+### 5. Bedah Teks Sederhana
 
 Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
 
 > *"Seorang pria paruh baya nekat mengakhiri hidupnya karena depresi terlilit hutang pinjol. Pria yang dikenal tertutup ini jarang bersosialisasi dengan tetangga."*
 
-#### Bedah Analisis AWK:
+#### Bedah Analisis AWK
 
 1. **Pilihan Kata (Diksi):** Penggunaan kata *"nekat"* memberikan konotasi negatif dan impulsif, seolah-olah seluruh sumber masalah berakar pada keputusan emosional individu korban.
 2. **Representasi Karakter:** Keterangan *"jarang bersosialisasi"* mengonstruksi stereotipe bahwa korban adalah sosok antisosial. Narasi ini secara halus merenggangkan kedekatan emosional pembaca sehingga menurunkan tingkat empati publik.
@@ -100,7 +100,7 @@ Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
 
 ---
 
-### 6. Implementasi Teknis: Kriminologi Digital
+### 6. Word Cloud untuk Kriminologi Digital
 
 Bagi peneliti kriminologi digital yang ingin memetakan persepsi publik dan narasi korban di media sosial (seperti Twitter/X atau portal berita), pemrosesan bahasa alami (*Natural Language Processing*) dan analisis frekuensi kata (*word cloud*) dapat digunakan untuk mengekstrak data teks secara komputasional.
 
@@ -128,11 +128,11 @@ plt.show()
 
 ---
 
-### 7. Linguistik Forensik: Persimpangan Bahasa dan Hukum
+### 7. Linguistik Forensik dalam Penyelidikan Kriminal
 
 Linguistik forensik merupakan cabang ilmu bahasa terapan yang mengaplikasikan analisis tekstual untuk kepentingan penyelidikan kriminal dan proses peradilan. Jika kriminologi konvensional melacak bukti fisik, ahli linguistik forensik menganalisis **sidik jari linguistik** (*linguistic fingerprint*) yang tertinggal dalam teks, struktur kalimat, pilihan leksikal, dan gaya penulisan.
 
-#### 7.1 Idiolek: Sidik Jari dalam Kata
+#### 7.1 Parameter Linguistik Idiolek
 
 Setiap individu memiliki **idiolek**, yaitu variasi bahasa unik yang terbentuk dari latar belakang pendidikan, geografis, profesi, dan kebiasaan kognitif.
 

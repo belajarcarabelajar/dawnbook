@@ -1,4 +1,4 @@
-## Mikrofisika Awan Hangat: Tabrakan dan Penyatuan (Collision-Coalescence)
+## Mikrofisika Awan Hangat
 
 Pernahkah timbul pertanyaan mengapa awan di daerah tropis, seperti di Indonesia, dapat menghasilkan hujan yang sangat lebat meskipun suhu di dalam awan tersebut tidak pernah mencapai titik beku? Di sinilah **Mikrofisika Awan Hangat** memegang peran utama.
 
@@ -20,7 +20,7 @@ $$ \frac{\text{d}r}{\text{d}t} \propto \frac{1}{r} $$
 
 Artinya, saat $r$ membesar, nilai $\frac{\text{d}r}{\text{d}t}$ semakin mengecil. Untuk mencapai ukuran tetes hujan hanya dengan mengandalkan difusi, diperlukan waktu berhari-hari, padahal awan kumulus mampu menghasilkan hujan hanya dalam waktu 20–30 menit.
 
-### 2. Kecepatan Terminal: Kunci Terjadinya Tabrakan
+### 2. Kecepatan Terminal
 
 Inti dari proses *collision-coalescence* adalah perbedaan **kecepatan terminal** ($V_{\text{t}}$) antar tetesan air. Tetesan yang lebih besar jatuh lebih cepat daripada tetesan yang lebih kecil karena gaya gravitasi yang bekerja padanya lebih besar dibandingkan dengan gaya hambat udara (*drag force*).
 
@@ -64,7 +64,7 @@ Faktor-faktor yang memengaruhi penyatuan meliputi:
 
 $$ E_{\text{c}} = E_{\text{coll}} \times \epsilon $$
 
-### 5. Simulasi Sederhana: Kecepatan Terminal
+### 5. Menghitung Selisih Kecepatan Jatuh
 
 Berikut adalah skrip Python sederhana untuk menghitung perbedaan kecepatan jatuh antara tetes pengumpul (radius $50\ \mu\text{m}$) dan tetes awan biasa (radius $10\ \mu\text{m}$).
 
@@ -98,7 +98,7 @@ print(f"Selisih kecepatan: {v_large - v_small:.4f} m/s")
 
 Di wilayah tropis seperti Indonesia, puncak awan sering kali tidak mencapai suhu $0^\circ\text{C}$ (awan hangat). Hujan di kawasan ini murni merupakan hasil dari proses *collision-coalescence*. Hal inilah yang menyebabkan hujan tropis dapat terjadi secara mendadak dengan suhu tetesan yang hangat.
 
-#### Skenario: "The Great Collector"
+#### "The Great Collector"
 
 Dalam perkembangan awan *Cumulus*, beberapa tetesan dapat tumbuh lebih cepat karena terbentuk di atas **Inti Kondensasi Awan (CCN)** berukuran raksasa, seperti partikel garam laut.
 

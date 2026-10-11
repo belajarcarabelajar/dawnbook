@@ -17,7 +17,7 @@ Dalam wacana pedagogi sekolah dasar, perlakuan dan penguatan terhadap respons si
 
 ---
 
-### Analisis Wacana: Otoritas dan Pengendalian Topik oleh Guru
+### Otoritas dan Pengendalian Topik oleh Guru
 
 Pemberian umpan balik oleh guru mencerminkan bentuk otoritas dan dominasi guru dalam percakapan kelas. Guru memiliki wewenang penuh untuk memilih bentuk respons yang akan diberikan, apakah akan memuji, mengulang jawaban, atau justru mengabaikannya.
 
@@ -35,7 +35,7 @@ Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan wacana kelas) 
 
 Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, perhatikan contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
 
-#### Contoh 1: Penguatan Berupa Pujian Verbal
+#### Penguatan Berupa Pujian Verbal
 
 | Pertukaran | Gerakan (*Move*) | Penutur | Ujaran / Tindakan |
 | :---: | :--- | :---: | :--- |
@@ -46,7 +46,7 @@ Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, perhat
 
 Pada contoh di atas, ujaran *"Bagus! Tepat sekali"* pada pertukaran 1 berfungsi sebagai penguatan positif sekaligus penutup (*evaluative move*). Begitu penguatan diberikan, guru langsung mengambil alih giliran bicara (*turn-taking*) untuk memulai topik turunan pada pertukaran 2.
 
-#### Contoh 2: Perlakuan Respons Melalui Pengulangan Jawaban
+#### Perlakuan Respons Melalui Pengulangan Jawaban
 
 | Pertukaran | Gerakan (*Move*) | Penutur | Ujaran / Tindakan |
 | :---: | :--- | :---: | :--- |
@@ -59,7 +59,7 @@ Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh k
 
 ---
 
-> ### Panduan Pedagogis: Mengoptimalkan Penguatan Respons
+> ### Panduan Pedagogis untuk Mengoptimalkan Penguatan Respons
 >
 > 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
 > 2. **Berikan Umpan Balik Spesifik:** Hindari hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.

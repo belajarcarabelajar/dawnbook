@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan apa yang terjadi dalam sepersekian milidetik ketika 
 
 Networking Stack (tumpukan protokol jaringan) di Linux adalah salah satu mahakarya rekayasa perangkat keras dan lunak yang paling efisien di dunia. Bagian ini akan membawa kamu menelusuri jalur "perjalanan paket" dari saat ia menyentuh perangkat keras hingga diterjemahkan menjadi informasi yang bermakna bagi aplikasi.
 
-## 1. Analogi: Sistem Logistik Internasional
+## 1. Sistem Logistik Internasional
 
 Bayangkan Networking Stack sebagai sistem pengiriman paket internasional:
 
@@ -14,7 +14,7 @@ Bayangkan Networking Stack sebagai sistem pengiriman paket internasional:
 4. **Lapisan Transport (TCP/UDP)**: Bertindak seperti kurir pengantar. Lapisan ini memastikan seluruh isi kontainer utuh tanpa kerusakan, lalu membuka segelnya.
 5. **Socket**: Titik akhir pengiriman, layaknya pintu rumahmu di mana kurir menyerahkan paket secara langsung.
 
-## 2. Struktur Data Utama: sk_buff (Socket Buffer)
+## 2. sk_buff (Socket Buffer)
 
 Sebelum kita membahas jalurnya, kita harus mengenal **`sk_buff`**. Ini adalah struktur data inti dalam subsistem jaringan kernel.
 
@@ -57,7 +57,7 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 1. **Penyimpanan di Buffer**: Setelah terbebas dari seluruh header protokol, payload data bersih ditempatkan pada **Receive Buffer** milik socket yang bersangkutan.
 2. **Pemanggilan oleh Aplikasi**: Aplikasi di *user space* yang sedang menunggu dengan sistem panggilan (*system call*) seperti `read()` atau `recv()` akan dibangunkan (*woken up*) guna menyalin data dari *kernel space* ke *user space*.
 
-## 4. Arsitektur Netfilter: "Polisi" di Tengah Jalan
+## 4. Netfilter Si "Polisi" di Tengah Jalan
 
 Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 
@@ -81,7 +81,7 @@ Proses ini adalah kebalikan dari Ingress:
 5. **QDisc (Queuing Discipline)**: Sebelum diteruskan ke driver kartu jaringan, paket ditempatkan dalam antrean penjadwalan. Di sinilah kernel melakukan manajemen lalu lintas (*traffic control*), seperti memprioritaskan paket VoIP yang sensitif terhadap latensi dibandingkan transfer berkas berukuran besar.
 6. **Driver & NIC**: Data dipindahkan ke *ring buffer* pada kartu jaringan sebelum akhirnya ditransmisikan secara fisik ke media kabel atau nirkabel.
 
-## 6. Contoh Teknis: Mengintip Statistik Stack
+## 6. Mengintip Statistik Stack
 
 Kita dapat memantau bagaimana kernel memproses paket melalui sistem berkas `/proc`.
 
@@ -96,7 +96,7 @@ cat /proc/net/dev
 cat /proc/net/sockstat
 ```
 
-### Real-World Use Case: High-Performance Web Server
+### Kernel Tuning untuk High-Performance Web Server
 
 Pada server dengan trafik sangat tinggi (seperti Nginx atau Node.js), pengembang sering melakukan **Kernel Tuning** pada networking stack:
 

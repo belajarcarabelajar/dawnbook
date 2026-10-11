@@ -1,10 +1,10 @@
-## Masa Depan AWK dalam Kriminologi Digital: Menavigasi Labirin Bit dan Algoritma
+## Masa Depan AWK dalam Kriminologi Digital
 
 Dunia kriminologi tidak lagi hanya berpijak pada ruang interogasi fisik atau lembaran koran cetak. Kita telah memasuki era di mana kejahatan, kontrol sosial, dan konstruksi tentang "siapa yang berbahaya" diproduksi melalui baris kode dan interaksi di media sosial. Analisis Wacana Kritis (AWK) kini menghadapi tantangan sekaligus peluang terbesar dalam sejarahnya: **Kriminologi Digital**.
 
 Dalam bab ini, pemelajar akan mengeksplorasi bagaimana AWK beradaptasi untuk membongkar relasi kuasa yang tersembunyi di balik layar gawai, algoritma yang tidak terlihat, dan sistem pengawasan yang semakin canggih.
 
-### 1. Pergeseran Paradigma: Dari Teks Cetak ke Arus Data
+### 1. Pergeseran Paradigma dari Teks Cetak ke Arus Data
 
 Tradisionalnya, AWK menganalisis teks yang statis seperti pidato, berita cetak, atau undang-undang. Namun, dalam kriminologi digital, wacana bersifat **likuid, masif, dan instan**.
 
@@ -20,13 +20,13 @@ Tradisionalnya, AWK menganalisis teks yang statis seperti pidato, berita cetak, 
 | **Aktor Utama** | Media arus utama, pejabat negara | Algoritma, warganet, akun anonim, *bot* |
 | **Bentuk Pengawasan** | Fisik, institusional, terpusat | Algoritmik, *panopticon* digital, terdistribusi |
 
-### 2. Algoritma sebagai Wacana: Kekuasaan di Balik Kode
+### 2. Algoritma sebagai Wacana
 
 Salah satu tantangan baru dalam AWK adalah memahami bahwa **algoritma bukanlah alat netral**. Dalam kriminologi digital, algoritma berperan sebagai "kurator realitas" yang menentukan narasi kriminalitas mana yang muncul di beranda publik.
 
 > **Definisi:** Dalam perspektif AWK, algoritma adalah bentuk **wacana teknologis**. Ia membawa ideologi penciptanya dan memperkuat bias sistemik yang ada di masyarakat.
 
-#### Kasus: Predictive Policing (Kepolisian Prediktif)
+#### Predictive Policing (Kepolisian Prediktif)
 
 Banyak kepolisian modern menggunakan perangkat lunak untuk memprediksi di mana kejahatan akan terjadi. AWK dalam konteks ini tidak hanya menganalisis laporan polisi, tetapi juga menganalisis "logika" di balik kode tersebut.
 
@@ -55,7 +55,7 @@ Negara dan korporasi kini memiliki kemampuan untuk mengawasi warga secara total.
 
 > **Catatan Reflektif:** Apakah masyarakat merasa lebih aman karena diawasi oleh ribuan CCTV bermuatan kecerdasan buatan, atau sekadar telah terbiasa dengan narasi bahwa "jika tidak bersalah, tidak perlu takut"?
 
-### 4. Metodologi Baru: AWK Komputasional
+### 4. AWK Komputasional
 
 Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data science*). Peneliti tidak bisa lagi hanya membaca 10 artikel berita secara manual jika terdapat 10 juta cuitan di media sosial tentang sebuah kasus kejahatan.
 
@@ -87,13 +87,13 @@ Masa depan AWK dalam kriminologi digital juga membawa sejumlah tantangan etis me
 2. **Ruang Gema (*Filter Bubbles* / *Echo Chambers*):** Bagaimana AWK dapat memberikan kritik yang efektif jika audiens yang dituju terjebak dalam ruang gema yang hanya memperkuat keyakinan mereka sendiri?
 3. **Rekayasa Media (*Deepfakes*) dan Pasca-Kebenaran (*Post-Truth*):** Dalam dunia di mana bukti visual dapat dimanipulasi, AWK harus melampaui teks dan gambar untuk mempertanyakan otoritas dari sumber informasi itu sendiri.
 
-### 6. Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+### 6. Pilar Pembuktian Linguistik Forensik
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti atau investigator tidak hanya mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
-#### 6.1 Idiolek: Sidik Jari dalam Kata
+#### 6.1 Idiolek dan Kebiasaan Berbahasa
 
 Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
@@ -112,7 +112,7 @@ Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan 
 - Keberadaan niat (*intent*) yang jelas dalam teks.
 - Tingkat risiko berdasarkan pola komunikasi yang digunakan.
 
-### Ringkasan Praktis: Strategi AWK Digital
+### Strategi Praktis AWK Digital
 
 Untuk menerapkan AWK di era digital, peneliti harus memperhatikan tiga elemen kunci:
 

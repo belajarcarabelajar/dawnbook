@@ -4,7 +4,7 @@ Dalam dunia kerja, *feedback* sering kali dianggap sebagai momok yang menakutkan
 
 Tanpa adanya *feedback*, kita ibarat pilot yang terbang menembus kabut tebal tanpa instrumen navigasi. Kita merasa sudah terbang ke arah yang benar, padahal perlahan-lahan sedang menjauh dari tujuan asli.
 
-## 1. Psikologi di Balik Feedback: Mengapa Terasa Sulit?
+## 1. Mengapa Feedback Terasa Sulit?
 
 Secara biologis, otak memproses kritik sosial di area yang sama dengan rasa sakit fisik. Itu sebabnya saat seseorang memberi tahu bahwa presentasimu kurang memuaskan, detak jantung langsung meningkat dan telapak tangan berkeringat. Tubuh secara otomatis mengaktifkan respons *fight-or-flight*.
 
@@ -16,7 +16,7 @@ Untuk membangun hubungan interpersonal yang sehat di tempat kerja, kamu perlu me
 
 Memberikan masukan bukan berarti menumpahkan kejujuran secara serampangan tanpa penyaringan. Diperlukan seni dan struktur yang tepat agar masukanmu tidak sekadar didengar, tetapi benar-benar dijalankan oleh rekan kerjamu.
 
-### A. Model SBI: Situation, Behavior, Impact
+### A. Model SBI
 
 Model SBI sangat membantu karena berfokus pada fakta objektif, bukan pada penilaian karakter seseorang.
 
@@ -48,20 +48,20 @@ Menerima masukan menuntut kematangan emosional yang lebih besar dibanding saat m
 3. **Saring Masukan (*The Sifting Process*)**: Sadarilah bahwa tidak semua *feedback* sepenuhnya objektif atau akurat. Bayangkan seperti mendulang emas. Ambil butiran emas berupa pelajaran berharganya, lalu buang pasir kasarnya, seperti cara penyampaian yang kurang ramah atau bias subjektif dari si pemberi masukan.
 4. **Ucapkan Terima Kasih**: Langkah ini menunjukkan bahwa kamu adalah rekan kerja yang aman dan terbuka untuk diajak berdiskusi secara jujur.
 
-## 4. Aplikasi di Dunia Nyata: Skenario dan Studi Kasus
+## 4. Dua Situasi Kerja Pemberian Feedback
 
-### Skenario 1: *Code Review* dalam Tim Developer
+### *Code Review* dalam Tim Developer
 
 Dalam tim rekayasa perangkat lunak, pemberian *feedback* berjalan setiap hari lewat peninjauan kode.
 
 * **Pendekatan yang Salah**: "Kode ini berantakan sekali. Mengapa menggunakan logika serumit ini?"
 * **Pendekatan SBI**: "Pada bagian fungsi `calculateTax` tadi (Situation), aku melihat ada penggunaan *nested loop* tiga lapis (Behavior). Dampaknya, kecepatan respons aplikasi melambat drastis saat memproses data dalam volume besar (Impact). Bagaimana kalau kita ganti dengan pendekatan *hash map*?"
 
-### Skenario 2: Menyampaikan Feedback untuk Manajer yang Melakukan *Micromanagement*
+### Menyampaikan Feedback untuk Manajer yang Melakukan *Micromanagement*
 
 * **Feedback**: "Saya sangat menghargai dukunganmu dalam proyek ini (*Care Personally*). Namun, saat kamu meminta laporan perkembangan setiap dua jam sekali (Situation/Behavior), saya merasa kurang memiliki ruang fokus untuk eksekusi tugas. Hal ini justru memperlambat progres pekerjaan saya (*Challenge Directly*)."
 
-## 5. Analogi: Kaca Spion dan GPS
+## 5. Kaca Spion dan GPS
 
 Bayangkan kamu sedang mengemudikan mobil menuju kota yang baru pertama kali kamu kunjungi (tujuan profesionalmu).
 

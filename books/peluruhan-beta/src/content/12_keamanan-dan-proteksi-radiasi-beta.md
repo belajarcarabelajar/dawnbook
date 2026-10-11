@@ -31,7 +31,7 @@ Karena partikel beta dapat menembus lapisan kulit, paparan eksternal yang kuat d
 
 Risiko terbesar muncul jika isotop pemancar beta masuk ke dalam tubuh melalui pernapasan, makanan, atau luka terbuka. Di dalam tubuh, partikel beta akan melepaskan energinya langsung ke sel-sel organ yang sensitif tanpa ada penghalang kulit, yang dapat menyebabkan kerusakan DNA dan peningkatan risiko kanker.
 
-### 3. Strategi Perisai: Mengapa Timbal Bukan Selalu Jawabannya?
+### 3. Mengapa Timbal Bukan Selalu Perisai Terbaik?
 
 Dalam dunia proteksi radiasi gamma, timbal ($\text{Pb}$) adalah standar emas karena nomor atomnya ($Z$) yang tinggi. Namun, **untuk radiasi beta, menggunakan timbal secara langsung bisa berbahaya.**
 
@@ -72,13 +72,13 @@ Sama seperti jenis radiasi lainnya, keselamatan terhadap radiasi beta bergantung
 
 ### 5. Aplikasi Dunia Nyata & Skenario Keselamatan
 
-#### Skenario 1: Laboratorium Medis (Isotop ${}^{32}\text{P}$)
+#### 1. Laboratorium Medis (Isotop ${}^{32}\text{P}$)
 
 Isotop Fosfor-32 (${}^{32}\text{P}$) adalah pemancar beta murni yang sering digunakan dalam riset biologi.
 
 - **Tindakan Aman:** Peneliti bekerja di balik layar akrilik setebal 1 cm dan menggunakan kacamata pelindung untuk menjaga mata dari radiasi yang mungkin memantul.
 
-#### Skenario 2: Industri Pengukuran Ketebalan (Isotop ${}^{90}\text{Sr}$)
+#### 2. Industri Pengukuran Ketebalan (Isotop ${}^{90}\text{Sr}$)
 
 Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secara otomatis.
 

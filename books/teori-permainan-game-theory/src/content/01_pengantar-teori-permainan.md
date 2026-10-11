@@ -12,13 +12,13 @@ Dalam bahasa yang lebih sederhana:
 
 > Teori Permainan adalah ilmu tentang strategi. Ia membantu kita memahami mengapa orang, perusahaan, atau bahkan hewan membuat keputusan tertentu ketika mereka tahu bahwa keputusan tersebut akan memengaruhi (dan dipengaruhi oleh) pihak lain.
 
-### Analogi: Menyetir di Jalan Raya
+### Menyetir di Jalan Raya
 
 Bayangkan kamu sedang mengemudi. Jika kamu ingin sampai di tujuan lebih cepat, kamu mungkin berpikir untuk mengebut. Namun, kamu sadar bahwa pengemudi lain juga memiliki tujuan yang sama. Jika semua orang mengebut dan saling serobot, risiko kecelakaan meningkat dan semua orang justru akan terhambat.
 
 Pilihan kamu (mengebut atau santai) sangat bergantung pada perkiraan kamu tentang apa yang akan dilakukan pengemudi lain. Inilah inti dari **interaksi strategis**.
 
-## Sejarah Singkat: Dari Kasino ke Perang Dingin
+## Sejarah Singkat dari Kasino hingga Perang Dingin
 
 Teori permainan tidak muncul begitu saja. Ia berevolusi dari sekadar rasa ingin tahu tentang perjudian menjadi alat analisis kebijakan tingkat tinggi.
 
@@ -40,7 +40,7 @@ Dalam interaksi manusia, "keputusan terbaik" sering kali bersifat relatif. Teori
 
 *Pernahkah kamu berada dalam situasi di mana kamu tahu kerja sama adalah jalan terbaik, tetapi kamu takut dikhianati sehingga kamu memilih untuk egois? Itu adalah dilema klasik dalam teori permainan.*
 
-## Real-World Application: Perang Harga Supermarket
+## Perang Harga Supermarket
 
 Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
 
@@ -52,7 +52,7 @@ Mari kita lihat contoh nyata bagaimana teori permainan bekerja di dunia bisnis.
 
 **Hasilnya?** Seringkali, tanpa adanya komunikasi langsung, kedua toko terjebak dalam "perang harga" yang sebenarnya merugikan keduanya dibandingkan jika mereka tetap di harga normal. Teori permainan membantu manajer memahami risiko ini sebelum mereka mulai memotong harga.
 
-## Konsep Fundamental: Keputusan vs. Permainan
+## Membedakan Teori Keputusan dari Teori Permainan
 
 Penting untuk membedakan antara **Teori Keputusan** dan **Teori Permainan**.
 

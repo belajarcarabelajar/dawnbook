@@ -1,4 +1,4 @@
-## Pola Pikir Berkembang (Growth Mindset): Pondasi Utama Resiliensi
+## Pola Pikir Berkembang (Growth Mindset)
 
 Pernahkah kamu merasa bahwa bakat adalah sesuatu yang dibawa sejak lahir? Bahwa jika kamu tidak mahir dalam matematika atau seni sekarang, maka kamu tidak akan pernah bisa mahir selamanya? Pemikiran seperti ini adalah awal dari apa yang kita sebut sebagai hambatan mental.
 
@@ -36,7 +36,7 @@ Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah ko
 
 *Apa satu hal yang selama ini kamu katakan "Saya tidak bisa" pada diri sendiri? Coba tambahkan kata "belum" di akhir kalimat tersebut dan rasakan perbedaannya di pikiranmu.*
 
-### 4. Neuroplastisitas: Dasar Ilmiah Pertumbuhan
+### 4. Dasar Ilmiah Neuroplastisitas
 
 Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia sangat adaptif. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antar neuron (sinapsis) di otak kita menjadi lebih kuat.
 
@@ -65,7 +65,7 @@ Mengubah pola pikir tidak terjadi semalam. Ini adalah proses "re-wiring" otakmu.
 
 ### 6. Penerapan Nyata & Skenario
 
-#### Kasus A: Dunia Pemrograman (Software Engineering)
+#### Dunia Pemrograman (Software Engineering)
 
 Seorang junior developer menghadapi *bug* yang tidak kunjung selesai selama dua hari.
 
@@ -82,14 +82,14 @@ while not success:
         continue # Coba lagi dengan data baru
 ```
 
-#### Kasus B: Kepemimpinan di Kantor
+#### Kepemimpinan di Kantor
 
 Kamu menerima umpan balik negatif dari atasan mengenai presentasimu.
 
 - **Respon Fixed:** Merasa malu, menghindari atasan, dan menganggap atasan tidak menyukaimu secara pribadi.
 - **Respon Growth:** Mencatat poin-poin kekurangan, meminta saran spesifik untuk perbaikan, dan berlatih berbicara di depan cermin untuk presentasi berikutnya.
 
-### 7. Latihan Mandiri: Membingkai Ulang Kegagalan
+### 7. Latihan Membingkai Ulang Kegagalan
 
 Cobalah isi latihan singkat ini untuk melatih otot *Growth Mindset* kamu:
 

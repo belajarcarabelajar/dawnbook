@@ -1,4 +1,4 @@
-## Langkah 3: Pemberian Bobot pada Kriteria
+## Pemberian Bobot pada Kriteria
 
 Setelah kamu berhasil mengidentifikasi berbagai pilihan (alternatif) dan menentukan kriteria apa saja yang akan dinilai, kini saatnya masuk ke tahap yang paling menentukan objektivitas analisismu: **Pemberian Bobot (Weighting)**.
 
@@ -52,7 +52,7 @@ $$
    - *Tips penting:* Hindari memberikan nilai bobot yang seragam untuk semua kriteria. Jika semuanya dianggap sama penting, esensi dari analisis terstruktur ini akan hilang.
 4. **Uji Kelayakan Logika:** Lakukan evaluasi ulang. Apakah kriteria dengan bobot tertinggi benar-benar mencerminkan faktor penentu keputusanmu? Misalnya, jika kriteria "Biaya" mendapatkan bobot $70 \text{\%}$, artinya kamu sangat sensitif terhadap harga dan siap mengabaikan faktor kualitas demi menekan pengeluaran.
 
-### Real-World Application: Memilih Vendor Software IT
+### Memilih Vendor Software IT
 
 Mari kita lihat bagaimana sebuah perusahaan memberikan bobot saat memilih vendor perangkat lunak untuk sistem manajemen inventaris mereka.
 

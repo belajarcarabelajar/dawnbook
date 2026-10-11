@@ -4,7 +4,7 @@ Bentuk potongan melintang sayap pesawat memiliki geometri melengkung yang sangat
 
 Dalam bab ini, pembahasan berfokus pada pembedahan anatomi airfoil, parameter geometris penentu performa, standarisasi penamaan NACA, serta korelasi langsung antara bentuk fisik sayap dan karakteristik aerodinamikanya.
 
-### 1. Anatomi Dasar: Membedah Tubuh Airfoil
+### 1. Anatomi Dasar Airfoil
 
 Untuk memahami mekanisme kerja aerodinamika sayap, pengenalan terhadap bagian-bagian utama geometri airfoil menjadi fondasi yang sangat krusial. Struktur penampang airfoil didefinisikan oleh komponen-komponen berikut:
 
@@ -44,7 +44,7 @@ Kategori ketebalan relatif dan karakteristik penggunaannya:
 
 > **Pertanyaan Reflektif:** Mengapa pesawat kargo berbadan lebar seperti Boeing 747 memiliki profil pangkal sayap yang jauh lebih tebal dibandingkan profil sayap tipis pada jet tempur supersonik seperti F-16? Jawabannya terletak pada kompromi antara kebutuhan kekuatan lentur struktural, kapasitas tangki avtur, dan mitigasi hambatan kompresibilitas.
 
-### 3. Klasifikasi NACA: Standarisasi Bentuk Airfoil
+### 3. Klasifikasi NACA
 
 Pada dekade 1930-an, *National Advisory Committee for Aeronautics* (NACA, pendahulu NASA) memelopori standarisasi geometri airfoil secara parametrik. Salah satu keluarga yang paling fundamental adalah **NACA 4-Digit Series**. Penomoran empat digit ini mendefinisikan geometri secara langsung. Sebagai contoh, pada profil **NACA 2412**:
 
@@ -77,7 +77,7 @@ Setiap modifikasi minor pada kontur permukaan airfoil memberikan dampak signifik
 | **Peningkatan Ketebalan ($t/c$)** | Volume struktur dan kekakuan lentur meningkat | Hambatan bentuk (*form drag*) meningkat pada bilangan Mach tinggi |
 | **Tepi Belakang (*Trailing Edge*) Tajam** | Memenuhi Kondisi Kutta, memastikan sirkulasi stabil | Membutuhkan presisi fabrikasi tinggi agar tidak mudah terdeformasi |
 
-### 5. Aplikasi Dunia Nyata: Dari Glider hingga Pesawat Jet Komersial
+### 5. Dari Glider hingga Pesawat Jet Komersial
 
 Penerapan geometri airfoil di industri kedirgantaraan disesuaikan dengan spektrum misi penerbangan:
 

@@ -2,7 +2,7 @@
 
 Banyak orang langsung memandang negatif utang dalam keuangan pribadi. Kenyataannya, tidak semua utang membawa dampak buruk. Mengetahui jenis utang, risikonya, serta cara mengelolanya menjadi kunci mencapai stabilitas finansial. Di sinilah pentingnya manajemen utang. Bagian ini akan membantumu mengelola pinjaman secara sehat dan membangun kebiasaan yang lebih bertanggung jawab terhadap utang.
 
-## 1. Memahami Utang: Produktif vs Konsumtif
+## 1. Memahami Utang Produktif vs Konsumtif
 
 Utang pada dasarnya adalah kewajiban membayar sejumlah uang kepada pihak lain sesuai waktu yang disepakati. Membedakan jenis utang amat penting agar kamu tahu dampaknya terhadap kondisi keuanganmu.
 

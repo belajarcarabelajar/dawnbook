@@ -10,7 +10,7 @@ Sesat pikir sering kali terdengar sangat meyakinkan. Mereka seperti "ilusi optik
 
 Pikiran manusia secara alami mencari jalan pintas (*heuristics*) untuk memproses informasi dengan cepat. Para manipulator, pengiklan, dan politisi sering memanfaatkan celah ini untuk membujuk kita tanpa menyodorkan bukti yang kokoh. Dengan mengenali polanya, kamu akan memiliki perisai mental untuk melindungi diri dari berbagai manipulasi.
 
-## Galeri Sesat Pikir: Jenis dan Contohnya
+## Galeri Sesat Pikir
 
 Berikut adalah beberapa jenis sesat pikir yang paling sering kita jumpai dalam kehidupan sehari-hari:
 
@@ -76,7 +76,7 @@ Dalam sesat pikir (Mengafirmasi Konsekuensi):
 
 *Mengapa tidak valid? Karena jalanan bisa saja basah akibat hal lain, misalnya sedang disiram air oleh warga atau ada pipa saluran air yang bocor.*
 
-## Aplikasi Dunia Nyata: Mendeteksi Manipulasi
+## Mendeteksi Manipulasi
 
 Mari kita lihat bagaimana sesat pikir bekerja dalam sebuah skenario rapat perusahaan:
 

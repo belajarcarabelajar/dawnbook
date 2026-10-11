@@ -1,4 +1,4 @@
-## Peran Pemerintah dan Kebijakan Anti-Monopoli: Wasit dalam Pertandingan Ekonomi
+## Peran Pemerintah dan Kebijakan Anti-Monopoli
 
 Bayangkan sebuah pertandingan sepak bola di mana salah satu tim memiliki wewenang untuk menentukan harga tiket, memilih wasitnya sendiri, dan bahkan melarang tim lain untuk masuk ke lapangan. Pertandingan tersebut pasti akan menjadi tidak adil, membosankan, dan merugikan penonton.
 
@@ -14,7 +14,7 @@ Secara teoritis, pasar sering kali gagal mencapai alokasi sumber daya yang optim
 
 > **Wawasan Penting:** Kebijakan anti-monopoli hadir untuk melindungi proses persaingan, bukan untuk membendung pertumbuhan perusahaan besar.
 
-### 2. Landasan Hukum: UU No. 5 Tahun 1999 (Perspektif Indonesia)
+### 2. UU No. 5 Tahun 1999
 
 Di Indonesia, instrumen hukum utama untuk mengatur hal ini adalah **Undang-Undang Nomor 5 Tahun 1999** tentang Larangan Praktik Monopoli dan Persaingan Usaha Tidak Sehat.
 
@@ -50,7 +50,7 @@ Mewajibkan konsumen membeli produk yang tidak mereka inginkan sebagai syarat unt
 
 - *Contoh:* Kamu ingin membeli Printer Merk X, tapi toko mewajibkan kamu juga harus membeli kertas khusus dari mereka yang harganya mahal.
 
-### 4. Alat Ukur: Indeks Herfindahl-Hirschman (HHI)
+### 4. Indeks Herfindahl-Hirschman (HHI)
 
 Pemerintah menggunakan perangkat matematis untuk menentukan apakah sebuah pasar sudah terlalu terkonsentrasi (mendekati monopoli) atau masih kompetitif. Salah satu indikator yang paling umum dipakai adalah **HHI**.
 
@@ -68,7 +68,7 @@ $$
 
 *Contoh Perhitungan: Jika ada 4 perusahaan di sebuah pasar dengan pangsa masing-masing 25%, berapa nilai HHI-nya? Apakah pasar tersebut tergolong sehat menurut kriteria di atas?*
 
-### 5. Aplikasi Dunia Nyata: Kasus-Kasus Besar
+### 5. Kasus-Kasus Besar
 
 **Skenario 1: Industri Maskapai Penerbangan**  
 Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga tiket pesawat. Ketika harga tiket dari berbagai maskapai naik secara bersamaan dan tetap tinggi meskipun biaya operasional turun, pemerintah melalui KPPU melakukan investigasi untuk memastikan tidak ada kesepakatan rahasia di balik meja.
@@ -76,7 +76,7 @@ Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga ti
 **Skenario 2: Teknologi Global**  
 Uni Eropa sering kali mendenda perusahaan teknologi raksasa (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, memaksa sistem operasi tertentu untuk selalu menggunakan *browser* bawaan mereka tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
 
-### 6. Dilema Regulasi: Monopoli Alami
+### 6. Dilema Regulasi pada Monopoli Alami
 
 Tidak semua monopoli merugikan. Ada yang disebut **Monopoli Alami (Natural Monopoly)**, yaitu industri di mana biaya investasi awalnya sangat besar sehingga lebih efisien jika hanya dikelola oleh satu perusahaan (misal: PLN untuk listrik atau PDAM untuk air).
 
@@ -87,7 +87,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 1. **Marginal Cost Pricing $P = \text{MC}$:** Memaksa perusahaan menjual pada harga efisien. Namun, pendekatan ini sering membuat perusahaan rugi karena tidak menutupi biaya tetap.
 2. **Average Cost Pricing $P = \text{ATC}$:** Perusahaan tidak mendapatkan laba super normal, tetapi tetap bisa beroperasi tanpa merugi (Laba Normal).
 
-### ️ Aktivitas Pembelajaran: Analisis Cepat
+### Aktivitas Analisis Cepat
 
 Cobalah perhatikan lingkungan di sekitar kamu:
 

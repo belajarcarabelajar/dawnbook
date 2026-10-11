@@ -35,7 +35,7 @@ Ketika serangan panik terjadi, tubuh secara otomatis mengadopsi pola napas dangk
 
 Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf Vagus** (*Nervus Vagus*), komponen utama dari sistem saraf parasimpatis. Stimulasi vagal melepaskan asetilkolin yang bekerja langsung menurunkan frekuensi denyut jantung, meredakan ketegangan otot lurik, serta mengembalikan perfusi oksigen optimal ke korteks serebral.
 
-#### Protokol Latihan: Metode Kotak (Box Breathing)
+#### Latihan Metode Kotak (Box Breathing)
 
 Protokol ini menggunakan ritme seimbang dengan rasio waktu \\( 4 - 4 - 4 - 4 \\) detik:
 
@@ -101,7 +101,7 @@ Instruksi mandiri yang efektif harus memenuhi kriteria singkat, imperatif, dan b
 
 ---
 
-### 4. Studi Kasus dan Penerapan Lapangan: Skenario Pasca-Gempa
+### 4. Penerapan Lapangan pada Penyintas Pasca-Gempa
 
 Sebagai gambaran praktis, tinjau situasi seorang penyintas yang berada di lantai lima sebuah gedung bertingkat saat gempa tektonik berkekuatan besar melanda. Setelah getaran utama mereda, pasokan listrik terputus dan alarm darurat menyala. Terjadi manifestasi panik akut yang ditandai oleh kelemahan motorik ekstrem, penyempitan lapang pandang (*tunnel vision*), dan kebingungan spasial.
 

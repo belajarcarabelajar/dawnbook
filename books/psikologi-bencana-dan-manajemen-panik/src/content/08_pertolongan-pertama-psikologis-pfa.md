@@ -12,7 +12,7 @@ Sama seperti luka fisik yang membutuhkan perban dan pembersihan antiseptik seger
 
 > "PFA berpusat pada pemberian dukungan yang manusiawi, suportif, dan praktis kepada sesama manusia yang sedang mengalami penderitaan akibat situasi krisis luar biasa."
 
-#### Batasan Operasional: Apa yang Bukan Termasuk PFA
+#### Apa yang Bukan Termasuk PFA
 
 Untuk menjaga keselamatan psikologis penyintas dan integritas penolong, penting untuk memahami batasan mendasar dari intervensi PFA:
 
@@ -31,7 +31,7 @@ Penolong di garis depan tidak bertugas "menjahit luka emosional" (psikoterapi), 
 
 ---
 
-### Tiga Pilar Tindakan WHO: Lihat, Dengar, Hubungkan
+### Lihat, Dengar, Hubungkan
 
 Organisasi Kesehatan Dunia (*World Health Organization* / WHO) merumuskan tiga prinsip tindakan inti (*Action Principles*) yang menjadi panduan utama dalam pelaksanaan PFA di lapangan:
 
@@ -110,7 +110,7 @@ Melalui intervensi PFA di fase akut, kapasitas sumber daya psikososial ($R$) dil
 
 ---
 
-### Studi Kasus Lapangan: Kebakaran Kompleks Pasar Tradisional
+### Mendampingi Penyintas Kebakaran Kompleks Pasar Tradisional
 
 **Skenario Lapangan:**
 Seorang relawan bertugas di tenda pengungsian darurat beberapa jam pascakebakaran hebat yang menghanguskan seluruh kios pedagang. Tampak seorang pedagang wanita duduk menyendiri di sudut tenda, memeluk tas dagangannya sangat erat, tatapan matanya terpaku ke lantai, dan terus menggumamkan kepanikan tak jelas.
@@ -144,7 +144,7 @@ Seorang relawan bertugas di tenda pengungsian darurat beberapa jam pascakebakara
 
 Mendampingi individu yang terpapar tragedi kemanusiaan membawa beban emosional yang tinggi bagi para penolong. Paparan berkelanjutan terhadap penderitaan orang lain dapat memicu **Trauma Sekunder** (*Secondary Traumatic Stress*) dan kejenuhan empati (*Compassion Fatigue*).
 
-#### Protokol Perawatan Diri (*Self-Care*) bagi Relawan:
+#### Protokol Perawatan Diri (*Self-Care*) bagi Relawan
 
 - **Mengenali Batas Kapasitas Diri:** Jika relawan mulai merasakan mati rasa emosional (*emotional numbness*), iritabilitas tinggi, atau kelelahan mental ekstrem, segera delegasikan tugas dan ambil jeda istirahat.
 - **Sesi Pembahasan Pascatugas (*Defusing & Peer Support*):** Luangkan waktu bersama tim atau supervisor untuk saling berbagi refleksi emosional tanpa penghakiman setelah menyelesaikan giliran tugas lapangan.

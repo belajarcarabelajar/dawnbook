@@ -1,4 +1,4 @@
-## Actuating: Menggerakkan Roda Organisasi
+## Actuating untuk Menggerakkan Roda Organisasi
 
 Bayangkan kamu memiliki sebuah peta harta karun yang sangat detail (**Planning**) dan kamu telah mengumpulkan tim ahli dengan peralatan penggalian tercanggih (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur selamanya.
 
@@ -65,7 +65,7 @@ Agar fungsi penggerakan tidak menimbulkan konflik, ada beberapa prinsip yang har
 3. **Harmonisasi Antara Tujuan Individu dan Organisasi:** Karyawan akan bergerak lebih cepat jika mereka merasa bahwa kesuksesan perusahaan sejalan dengan perkembangan karier mereka.
 4. Membuka komunikasi dua arah: manajer tidak hanya memberikan perintah, tetapi juga aktif mendengarkan kendala nyata di lapangan.
 
-## 5. Analogi: Actuating Seperti Mesin Mobil
+## 5. Actuating Seperti Mesin Mobil
 
 Untuk memahami Actuating, bayangkan sebuah mobil:
 
@@ -75,7 +75,7 @@ Untuk memahami Actuating, bayangkan sebuah mobil:
 
 Tanpa menginjak gas (Actuating), mobil yang canggih dan peta yang akurat tidak akan membawa kamu ke mana pun. Kamu hanya akan duduk diam di garasi.
 
-## 6. Real-world Application: Peluncuran Produk Baru di Perusahaan Teknologi
+## 6. Peluncuran Produk Baru di Perusahaan Teknologi
 
 Mari kita lihat bagaimana fungsi Actuating bekerja dalam skenario nyata di sebuah perusahaan *Startup*:
 

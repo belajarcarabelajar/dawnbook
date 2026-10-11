@@ -1,4 +1,4 @@
-## Pendahuluan Peluruhan Beta: Sang Penyeimbang Inti Atom
+## Pendahuluan Peluruhan Beta
 
 Pernahkah terbayang sebuah timbangan yang terus-menerus bergoyang karena beban di sisi kiri dan kanan tidak sama? Di dunia atom, ketidakseimbangan ini sering terjadi di dalam inti atom. Untuk mencapai ketenangan atau stabilitas, inti atom tersebut harus melakukan sesuatu. Salah satu cara yang paling menarik adalah dengan melakukan **Peluruhan Beta**.
 
@@ -12,7 +12,7 @@ Berbeda dengan peluruhan alfa yang mengeluarkan paket besar berupa inti Helium (
 
 > **Wawasan Penting:** Dalam peluruhan beta, identitas atom berubah. Jika jumlah proton dalam inti berubah, maka nama unsur tersebut di tabel periodik juga ikut berubah. Inilah alasan mengapa peluruhan beta sering disebut sebagai alkimia alam.
 
-## Analogi: Kursi yang Tidak Stabil
+## Kursi yang Tidak Stabil
 
 Bayangkan sebuah kursi dengan empat kaki, tetapi salah satu kakinya jauh lebih panjang dari yang lain. Kursi itu akan goyah dan tidak nyaman diduduki. Untuk memperbaikinya, perlu memotong sedikit bagian kaki yang panjang atau menambahkan ganjalan pada kaki yang pendek.
 
@@ -49,7 +49,7 @@ Inti atom dijaga oleh gaya nuklir kuat. Namun, gaya ini hanya bekerja efektif ji
 
 *Teka-teki Fisika Nuklir: Apabila seluruh atom di alam semesta sudah berada dalam kondisi stabil sejak awal, akankah keragaman unsur kimia seperti sekarang dapat terbentuk? Ataukah peluruhan radioaktif merupakan mekanisme transmutasi alami untuk menciptakan variasi unsur di alam semesta?*
 
-## Aplikasi Dunia Nyata: Carbon Dating
+## Carbon Dating
 
 Salah satu contoh peluruhan beta yang paling terkenal dan berguna bagi sejarah manusia adalah peluruhan **Karbon-14 (${}^{14}\text{C}$)**.
 

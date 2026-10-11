@@ -1,4 +1,4 @@
-## Arete: Definisi dan Jenis-Jenis Keutamaan
+## Arete
 
 Selamat datang kembali dalam perjalanan kita mendalami **Etika Kebajikan**. Setelah sebelumnya kita memahami bahwa tujuan akhir manusia adalah *Eudaimonia* (kebahagiaan yang bermakna), muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
 
@@ -14,7 +14,7 @@ Arete berarti menjadi versi terbaik dari sesuatu sesuai dengan fungsinya (*ergon
 
 Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan luar biasa.
 
-## 2\. Pembagian Keutamaan: Intelektual vs. Moral
+## 2\. Keutamaan Intelektual vs. Moral
 
 Aristoteles membagi Arete menjadi dua kategori besar berdasarkan dua bagian jiwa manusia: bagian yang berpikir (intelektual) dan bagian yang merasakan atau berkeinginan (karakter/moral).
 
@@ -41,7 +41,7 @@ Contoh utama kebajikan moral (Keutamaan Kardinal):
 3. **Keadilan (Justice):** Kemampuan memberikan hak kepada orang lain secara proporsional.
 4. **Kemurahan Hati (Generosity):** Sikap yang tepat dalam memberi dan menerima materi.
 
-## 3\. Hubungan Simbiotis: Mengapa Kita Butuh Keduanya?
+## 3\. Hubungan Simbiotis
 
 Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka bekerja seperti perangkat keras (*hardware*) dan perangkat lunak (*software*) pada komputer.
 
@@ -50,7 +50,7 @@ Dalam Etika Kebajikan, kedua jenis Arete ini tidak bisa dipisahkan. Mereka beker
 
 Tanpa kebajikan intelektual, niat baik kita bisa menjadi bumerang. Tanpa kebajikan moral, kecerdasan kita bisa digunakan untuk tujuan yang jahat.
 
-## 4\. Real-World Application: Arete di Dunia Modern
+## 4\. Arete di Dunia Modern
 
 Bagaimana kita menerapkan konsep Arete dalam kehidupan sehari-hari? Mari kita lihat skenario profesional berikut:
 
@@ -72,4 +72,4 @@ Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 
 > "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan (*Arete*) bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , Sering diatribusikan pada Aristoteles (Will Durant).
 
-*Catatan: Pembahasan mengenai bagaimana tepatnya kita membentuk kebiasaan-kebiasaan baik ini akan dibahas secara mendalam pada bagian selanjutnya: **Habituasi: Membentuk Karakter Melalui Kebiasaan**.*
+*Catatan: Pembahasan mengenai bagaimana tepatnya kita membentuk kebiasaan-kebiasaan baik ini akan dibahas secara mendalam pada bagian selanjutnya: **Habituasi**.*

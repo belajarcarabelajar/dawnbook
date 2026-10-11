@@ -28,7 +28,7 @@ Pada kasus Eugene, kebiasaan menemukan kue kering mengikuti pola yang sama denga
 
 > Coba bedah kebiasaan ponselmu pakai cetakan ini. Cue-nya mungkin suasana hening sesaat di antara dua pekerjaan, routine-nya menggulir layar, reward-nya hiburan singkat plus rasa tidak ketinggalan. Niatmu berdiri di luar loop ini, berteriak dari kejauhan, sementara loop sudah selesai berputar sebelum kamu sempat bersuara.
 
-### Craving: langkah yang tidak pernah muncul di kesadaran
+### Langkah craving yang luput dari kesadaran
 
 Model tiga unsur Duhigg kemudian diperbarui. James Clear dalam Atomic Habits (2018) membedah loop menjadi empat langkah: cue, craving, response, dan reward. Yang ditambahkan adalah craving, dorongan yang muncul tepat saat cue muncul, jembatan antara pemicu dan aksi.
 
@@ -36,7 +36,7 @@ Craving inilah bagian yang paling sering luput dari kesadaran. Kamu biasanya han
 
 Dari empat langkah ini pula Clear menurunkan empat hukum membentuk dan memecah kebiasaan: buat pemicunya jelas, buat dorongannya menarik, buat responsnya mudah, dan buat imbalannya memuaskan, beserta kebalikannya untuk memutus kebiasaan. Kita tidak akan memakai keempat hukum itu sekarang, karena alat paling dasarnya masih harus kita bongkar lebih dulu.
 
-### Golden rule: jangan hapus loop, ganti rutinitasnya
+### Golden rule untuk mengganti rutinitas, bukan menghapus loop
 
 Duhigg menyebut satu prinsip yang menjadi tulang punggung hampir semua upaya perubahan kebiasaan: golden rule of habit change. Bunyinya sederhana. Pertahankan cue dan reward, lalu ganti routine-nya.
 

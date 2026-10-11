@@ -1,7 +1,7 @@
 ## Klasifikasi dan Derajat Elastisitas Permintaan
 Setelah memahami bagaimana cara menghitung koefisien elastisitas pada materi sebelumnya, pertanyaan besar berikutnya adalah: **"Apa arti dari angka-angka tersebut?"**
 Dalam dunia ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung "terjun bebas" saat harganya naik sedikit saja, namun ada juga barang yang permintaannya tetap kokoh meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
-### Analogi: Karet Gelang vs. Kawat Besi
+### Karet Gelang vs. Kawat Besi
 Bayangkan permintaan konsumen adalah sebuah benda yang ditarik oleh kekuatan bernama "Perubahan Harga".
 - Beberapa benda bersifat seperti **karet gelang yang sangat lentur**: ditarik sedikit saja, ia akan meregang sangat panjang (Elastis).
 - Beberapa benda seperti **karet yang kaku**: butuh tenaga besar untuk membuatnya berubah sedikit (Inelastis).
@@ -41,7 +41,7 @@ Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia m
 | **Unitary** | $|\text{E}_d| = 1$ | Perubahan proporsional | Melengkung (*Hyperbola*) |
 | **Inelastis Sempurna** | $|\text{E}_d| = 0$ | Tidak ada respon | Vertikal |
 | **Elastis Sempurna** | $|\text{E}_d| = \infty$ | Respon tak terhingga | Horizontal |
-### Penerapan Nyata: Strategi Diskon
+### Strategi Diskon
 Mengapa toko baju (fashion) sering memberikan diskon besar-besaran (misalnya 70%), sedangkan perusahaan listrik (PLN) atau penyedia air minum (PDAM) hampir tidak pernah melakukannya?
 1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis ($|\text{E}_d| > 1$), sehingga total keuntungan meningkat karena volume penjualan yang masif.
 2. **Kebutuhan Publik (Inelastis):** Air dan listrik adalah kebutuhan pokok tanpa banyak alternatif. Jika PDAM memberikan diskon 50%, orang mungkin tidak akan menggunakan air dua kali lebih banyak dari biasanya karena kebutuhan manusia akan air terbatas. Penurunan harga hanya akan menurunkan total penerimaan perusahaan tanpa meningkatkan volume konsumsi secara bertambah banyak.

@@ -10,7 +10,7 @@ Secara ontologis, eksistensialisme berfokus pada dinamika pengalaman partikular 
 
 > Dalam perspektif eksistensial, keberadaan manusia dianalogikan seperti seorang aktor yang melangkah ke atas panggung pementasan tanpa naskah tertulis dan tanpa arahan sutradara. Seluruh gestur, artikulasi, dan tindakan panggung merupakan konsekuensi langsung dari keputusan otonom sang aktor. Hal ini menegaskan postulat fundamental bahwa setiap individu merupakan penulis, pengarah, sekaligus eksekutor atas jalan hidupnya sendiri.
 
-### 2. Genealogi Historis: Muncul dari Krisis Rasionalisme
+### 2. Genealogi Historis
 
 Eksistensialisme berkembang secara bertahap melalui respon kritis terhadap sistem filsafat idealisme dan krisis sosio-historis peradaban modern:
 
@@ -36,7 +36,7 @@ Penyelidikan eksistensialisme bertumpu pada persoalan-persoalan ontologis yang m
 - **Batasan Kematian:** Mortalitas dipahami sebagai batas final yang memberikan urgensi eksistensial dan bobot nilai bagi setiap keputusan hidup.
 - **Derajat Otonomi:** Penilaian kritis mengenai sejauh mana keputusan individu lahir dari kehendak otonom atau sekadar reproduksi konformitas sosial.
 
-### 5. Landasan Komparatif: Logika Objek vs Subjek
+### 5. Logika Objek vs Subjek
 
 Dalam kerangka ontologi eksistensial, disparitas kategoris antara benda mati (objek) dan manusia (subjek kesadaran) dirumuskan dalam model komparasi berikut:
 

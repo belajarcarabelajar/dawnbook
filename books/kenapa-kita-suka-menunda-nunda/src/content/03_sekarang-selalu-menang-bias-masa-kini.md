@@ -1,4 +1,4 @@
-## Sekarang Selalu Menang: Bias Masa Kini
+## Sekarang Selalu Menang karena Bias Masa Kini
 
 Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, bukan studi, dan tidak ada jawaban yang benar. Jawab saja dengan jujur di kepalamu.
 
@@ -32,7 +32,7 @@ Biar gampang dibayangkan, anggap ada dua versi dirimu. *Kamu yang merencanakan* 
 
 Dua versi itu tidak bohong. Keduanya jujur pada pandangannya masing-masing. Yang berubah adalah jarak ke hadiah dan biaya, dan jarak itulah yang memutar timbangan.
 
-### Naif atau canggih: apa kamu tahu dirimu bias?
+### Naif atau canggih soal bias dirimu
 
 O'Donoghue dan Rabin (1999) membedakan dua tipe orang. Orang **naif** tidak menyadari bahwa preferensinya akan berbalik; ia mengira kelak ia akan bertindak persis seperti yang direncanakannya hari ini. Orang **canggih** (*sophisticated*) paham bahwa dirinya di masa depan akan tergoda, dan memperhitungkannya sejak sekarang.
 

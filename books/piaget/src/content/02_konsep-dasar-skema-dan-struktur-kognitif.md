@@ -1,4 +1,4 @@
-## Konsep Dasar: Skema dan Struktur Kognitif
+## Konsep Dasar Skema dan Struktur Kognitif
 
 Teori Jean Piaget bertumpu pada satu pertanyaan mendasar: bagaimana anak-anak memproses dunia di sekitar mereka? Jawabannya ada pada "perangkat lunak" mental bernama skema. Kumpulan skema ini nantinya membentuk struktur kognitif yang lebih utuh.
 
@@ -18,7 +18,7 @@ Paling gampang, anggap skema seperti folder di dalam laptop kamu:
 
 Tiap kali kamu melihat benda asing, otak otomatis membongkar arsipnya. Ia mencari folder (skema) paling cocok untuk menyimpan data objek baru tersebut.
 
-## 2. Karakteristik Skema: Bergerak dan Tumbuh
+## 2. Skema yang Bergerak dan Tumbuh
 
 Skema tidak pernah diam. Ia selalu berubah, meluas, dan makin spesifik. Cara anak membangun skema ini terbagi ke dalam dua fase utama:
 
@@ -30,7 +30,7 @@ Contohnya skema "menggenggam". Di kepala bayi, sebuah mainan cuma berarti benda 
 Saat anak beranjak besar, skema mulai beralih dari sekadar tindakan fisik menjadi representasi di kepala. Anak bisa memikirkan suatu benda tanpa perlu melihat atau menyentuhnya langsung.
 Contohnya konsep keadilan. Keadilan tidak memiliki wujud fisik. Konsep ini sepenuhnya berupa struktur berpikir tentang bagaimana manusia harus saling memperlakukan satu sama lain.
 
-## 3. Struktur Kognitif: Sistem Organisasi
+## 3. Struktur Kognitif
 
 Jika skema diibaratkan satu folder file, **Struktur Kognitif** adalah keseluruhan sistem operasi komputer tersebut. Kita punya semacam dorongan alami untuk merapikan skema-skema yang berserakan ini menjadi satu sistem utuh.
 

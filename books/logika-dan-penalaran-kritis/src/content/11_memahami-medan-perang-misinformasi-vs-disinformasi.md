@@ -1,10 +1,10 @@
-## Memahami Medan Perang: Misinformasi vs. Disinformasi
+## Memahami Medan Perang Misinformasi vs. Disinformasi
 
 Di tengah lautan informasi yang tidak terbatas, kemampuan untuk memproses data bukan lagi sekadar keunggulan, melainkan mekanisme pertahanan diri. Jika informasi adalah makanan bagi pikiran kita, maka era digital telah menyajikan "prasmanan raksasa" yang sayangnya juga berisi makanan kedaluwarsa, beracun, atau sekadar hiasan plastik yang tampak lezat.
 
 Selamat datang di bagian akhir dari perjalanan Logika dan Penalaran Kritis kita. Di sini, kita akan mengubah teori-teori logika yang telah dipelajari menjadi perisai digital yang kokoh.
 
-## 1. Memahami Medan Perang: Misinformasi vs. Disinformasi
+## 1. Misinformasi vs. Disinformasi
 
 Sebelum kita menyaring informasi, kita harus tahu apa yang sedang kita hadapi. Tidak semua informasi salah dibuat dengan niat yang sama.
 
@@ -14,7 +14,7 @@ Sebelum kita menyaring informasi, kita harus tahu apa yang sedang kita hadapi. T
 
 **Analogi:** Bayangkan sebuah sungai. Misinformasi adalah ranting yang jatuh secara alami dan menghambat aliran; sedangkan disinformasi adalah limbah kimia yang sengaja dibuang ke sungai untuk meracuni ekosistem di hilir.
 
-## 2. Di Balik Layar: Algoritma dan Arsitektur Pilihan
+## 2. Algoritma dan Arsitektur Pilihan
 
 Media sosial tidak dirancang untuk membuatmu cerdas; platform tersebut dikembangkan agar kamu **bertahan lama di aplikasi**. Inilah yang disebut dengan *Attention Economy* (Ekonomi Perhatian).
 
@@ -28,7 +28,7 @@ Algoritma bekerja dengan cara mempelajari apa yang kamu sukai dan memberikan leb
 
 Ini adalah isolasi intelektual. Algoritma menyaring pandangan yang berlawanan dengan keyakinanmu karena hal itu dianggap "mengganggu kenyamanan" pengguna. Akibatnya, otot kritis kita menjadi lemah karena jarang dilatih menghadapi argumen yang berbeda.
 
-## 3. Strategi Praktis: Metode SIFT
+## 3. Metode SIFT
 
 Untuk menjaga kejernihan berpikir di tengah banjir informasi, gunakan kerangka kerja **SIFT** yang dikembangkan oleh Mike Caulfield:
 
@@ -60,7 +60,7 @@ Secara matematis, kita bisa melihat kredibilitas sumber ($K$) sebagai fungsi dar
 
 Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya transparan, kredibilitasnya tetap rendah.
 
-## 6. Real-World Application: Mendeteksi Deepfake dan Manipulasi Media
+## 6. Mendeteksi Deepfake dan Manipulasi Media
 
 **Skenario:** Kamu melihat video seorang tokoh publik memberikan pernyataan yang sangat kontroversial dan tidak biasa.
 
@@ -84,7 +84,7 @@ def saring_informasi(berita):
     return "Informasi dapat dipertimbangkan setelah verifikasi lateral."
 ```
 
-## 7. Mempertahankan Kejernihan Berpikir: Digital Hygiene
+## 7. Kejernihan Berpikir dan Digital Hygiene
 
 Untuk tetap menjadi pemikir kritis, kamu perlu menjaga kesehatan mental digitalmu:
 

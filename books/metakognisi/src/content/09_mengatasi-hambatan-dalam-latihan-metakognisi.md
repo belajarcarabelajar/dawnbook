@@ -58,7 +58,7 @@ Inti dari metakognisi adalah menyadari proses berpikirmu sendiri. Kalau kesadara
 
 Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini beberapa solusi yang bisa langsung dipraktikkan:
 
-### Mengatasi Kurangnya Motivasi:
+### Mengatasi Kurangnya Motivasi
 
 1. **Cari Makna dan Relevansi**
    Coba hubungkan materi yang sedang dipelajari dengan target pribadi atau kariermu. Pikirkan alasan utama kenapa kamu harus menguasai topik tersebut. Misalnya, kalau kamu sedang belajar *coding*, bayangkan proyek impian yang bisa kamu bangun nanti.
@@ -69,7 +69,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 4. **Ganti Suasana Belajar**
    Terkadang, pindah tempat belajar bisa memberi suntikan semangat baru. Coba sesekali berpindah ke perpustakaan, kafe terdekat, atau sekadar pindah ke ruangan lain di rumah.
 
-### Memperbaiki Kebiasaan Belajar:
+### Memperbaiki Kebiasaan Belajar
 
 1. **Praktikkan Active Learning**
    Tinggalkan kebiasaan sekadar membaca materi berulang kali. Ganti dengan metode *active recall*, membuat rangkuman memakai bahasa sendiri, menjelaskan materi ke teman, atau memperbanyak latihan soal. Contoh gampangnya: selesai membaca satu paragraf, tutup bukunya lalu coba tulis ulang ide utamanya dari ingatan.
@@ -80,7 +80,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 4. **Lakukan Refleksi Setelah Belajar**
    Selesai mengerjakan tugas, sisihkan 5-10 menit buat berpikir: "Apa yang tadi berjalan lancar? Bagian mana yang masih kurang? Strategi apa yang pas? Apa yang harus diubah untuk sesi berikutnya?" Inilah praktik metakognisi yang sebenarnya.
 
-### Menghindari Bias Kognitif:
+### Menghindari Bias Kognitif
 
 1. **Pahami Jenis Bias**
    Kenali berbagai macam bias kognitif yang ada supaya kamu lebih peka saat pikiranmu mulai terpengaruh. Menyadari kalau diri kita bisa saja bias adalah langkah pertama untuk menetralisirnya.
@@ -91,7 +91,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 4. **Latihan Prediksi dan Kalibrasi**
    Sebelum mengerjakan tugas atau ujian, tebak kira-kira seberapa bagus nilaimu nanti. Setelah hasilnya keluar, bandingkan dengan prediksi awalmu. Cara ini sangat membantu agar tingkat kepercayaan diri kita lebih selaras dengan kemampuan aslinya.
 
-### Mengatasi Kesulitan Mengatur Diri:
+### Mengatasi Kesulitan Mengatur Diri
 
 1. **Atur Waktu Lebih Baik**
    Gunakan kalender atau aplikasi *to-do list* untuk menyusun jadwal belajar dan menentukan tugas mana yang menjadi prioritas. Kamu juga bisa memakai *Eisenhower Matrix* untuk memisahkan tugas berdasarkan tingkat urgensi dan kepentingannya.
@@ -102,7 +102,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 4. **Buat Batasan Diri**
    Tentukan aturan tegas tentang kapan waktunya mulai belajar, kapan harus serius, dan kapan jadwalnya istirahat. Disiplin itu bukan sebatas memaksa diri melakukan hal yang tidak disuka, tapi lebih ke memilih hal yang paling prioritas saat ini.
 
-### Meningkatkan Kesadaran Diri:
+### Meningkatkan Kesadaran Diri
 
 1. **Rutin Mengisi Jurnal Belajar**
    Biasakan mencatat pengalaman belajarmu. Tulis apa saja yang baru dipelajari, bagaimana cara memahaminya, bagian mana yang susah, dan bagaimana kamu mengatasinya.
@@ -117,7 +117,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 4. **Diskusi Bareng Teman**
    Mengobrol tentang proses belajar masing-masing dengan teman sebaya bisa membuka wawasan. Terkadang, mendengar pengalaman orang lain membuat kita lebih sadar akan kebiasaan diri sendiri.
 
-## Studi Kasus: Mengalahkan Prokrastinasi Lewat Metakognisi
+## Mengalahkan Prokrastinasi Lewat Metakognisi
 
 Biar lebih tergambar, coba kita lihat skenario ini. Amir sering banget menunda tugas yang dirasa susah atau butuh berpikir keras, contohnya seperti menulis esai.
 

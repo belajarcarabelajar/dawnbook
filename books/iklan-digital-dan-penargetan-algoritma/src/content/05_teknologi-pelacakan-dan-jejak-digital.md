@@ -4,7 +4,7 @@ Pernahkah kamu merasa seolah-olah internet "mengikuti" kamu? Kamu baru saja meli
 
 Dalam bagian ini, kita akan membongkar mekanisme di balik "mata-mata digital" ini dan memahami bagaimana setiap langkah yang kamu ambil di internet meninggalkan jejak yang dapat dibaca oleh algoritma.
 
-### 1. Cookies: Si "Remah Roti" Digital
+### 1. Cookies
 
 **Cookie** adalah file teks berukuran kecil yang disimpan oleh situs web di perangkatmu (komputer atau ponsel) melalui peramban (browser).
 
@@ -17,7 +17,7 @@ Dalam dunia periklanan digital, kita membedakan cookie menjadi dua kategori utam
 1. **First-Party Cookies (Cookie Pihak Pertama):** Dibuat oleh situs yang sedang kamu kunjungi langsung. Fungsinya sangat berguna, seperti mengingat isi keranjang belanja atau status *login*-mu. Tanpa ini, internet akan terasa sangat merepotkan karena kamu harus masuk log setiap kali berpindah halaman.
 2. **Third-Party Cookies (Cookie Pihak Ketiga):** Dibuat oleh domain selain situs yang kamu kunjungi. Biasanya dipasang oleh jaringan periklanan (seperti Google atau Meta). Inilah aktor utama di balik iklan yang "mengejar" kamu dari satu situs ke situs lainnya (retargeting).
 
-### 2. Pixel Tracking: Mata yang Tak Terlihat
+### 2. Pixel Tracking
 
 Jika cookie adalah file teks, **Pixel Tracking** (sering disebut *web beacon* atau *tracking pixel*) adalah elemen visual yang nyaris tidak terlihat.
 
@@ -49,7 +49,7 @@ Setiap perangkat seluler memiliki ID unik yang digunakan oleh pengiklan untuk me
 
 > **Penting:** Berbeda dengan nama aslimu, ID ini bersifat anonim (berupa rangkaian angka dan huruf panjang). Namun, karena ID ini tetap sama, pengiklan dapat membangun profil minat yang sangat akurat tentang siapa "pemilik" ID tersebut berdasarkan aplikasi yang diunduh dan digunakan.
 
-### 4. Browser Fingerprinting: Teknik Pelacakan Tanpa Jejak
+### 4. Browser Fingerprinting
 
 Seiring dengan meningkatnya kesadaran privasi dan pemblokiran cookie, muncul teknik yang lebih agresif bernama **Browser Fingerprinting**.
 
@@ -63,7 +63,7 @@ Alih-alih menyimpan file di perangkatmu, teknik ini mengumpulkan puluhan informa
 
 Meskipun satu informasi (seperti "resolusi layar") dimiliki jutaan orang, kombinasi dari 20-30 informasi teknis ini hampir pasti bersifat unik bagimu. Probabilitas dua orang memiliki sidik jari browser yang identik sangatlah kecil, dinyatakan dalam rasio yang sangat ekstrem: $P(\text{match}) \approx \frac{1}{2^{33}}$
 
-### Real-World Application: Skenario Perjalanan Data
+### Perjalanan Data Andi Mencari Tenda
 
 Mari kita lihat bagaimana teknologi ini bekerja bersama dalam sebuah skenario nyata:
 

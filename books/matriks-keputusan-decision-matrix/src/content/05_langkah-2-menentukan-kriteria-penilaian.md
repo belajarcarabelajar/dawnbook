@@ -1,4 +1,4 @@
-## Langkah 2: Menentukan Kriteria Penilaian
+## Penentuan Kriteria Penilaian
 
 Setelah kamu berhasil mengidentifikasi semua alternatif pilihan pada langkah sebelumnya, kini saatnya menentukan alat ukur untuk menilai pilihan-pilihan tersebut. Dalam penyusunan **matriks keputusan** atau **decision matrix**, alat ukur ini dikenal dengan istilah **kriteria penilaian**.
 
@@ -20,7 +20,7 @@ Selanjutnya, gunakan metode **brainstorming & mind mapping**. Tuliskan semua fak
 
 Terakhir, petakan **analisis batasan (constraints)**. Identifikasi batasan nyata yang tidak bisa ditawar. Jika kamu memiliki anggaran maksimal Rp10 juta, "biaya" otomatis menjadi kriteria mutlak yang wajib dimasukkan ke dalam matriks.
 
-### Syarat Kriteria yang Efektif: Prinsip MECE
+### Prinsip MECE bagi Kriteria yang Efektif
 
 Agar matriks keputusanmu berfungsi optimal, kriteria yang disusun sebaiknya memenuhi prinsip **MECE** (*Mutually Exclusive, Collectively Exhaustive*).
 
@@ -47,7 +47,7 @@ Pastikan kriteriamu memenuhi kualifikasi berikut:
 
 Misalkan kamu sedang mencari rumah tinggal. Apakah warna cat dinding luar rumah merupakan kriteria yang sama pentingnya dengan akses transportasi? Tentu tidak. Dalam matriks keputusan, relevansi membantu memfokuskan energimu pada kriteria-kriteria yang berdampak langsung pada kualitas keputusan, alih-alih terdistraksi oleh informasi yang kurang penting.
 
-### Contoh Skenario: Memilih Vendor Software CRM
+### Memilih Vendor Software CRM
 
 Untuk melihat bagaimana kriteria penilaian diterapkan dalam situasi nyata, mari kita ambil contoh pemilihan vendor software CRM (*Customer Relationship Management*) oleh sebuah perusahaan.
 
@@ -92,7 +92,7 @@ Bagi kamu yang mengembangkan aplikasi pendukung keputusan atau menggunakan *spre
 }
 ```
 
-### Aplikasi Dunia Nyata: Membeli Rumah Pertama
+### Membeli Rumah Pertama
 
 Bayangkan kamu dan pasangan sedang berencana membeli rumah pertama. Saat ini, ada 3 kandidat rumah yang menjadi alternatif pilihan. Sebelum mulai melakukan survei fisik, kamu harus menentukan kriteria penilaian terlebih dahulu agar tidak mudah terpikat oleh aspek sekunder seperti "taman yang asri", padahal lokasinya sangat jauh dari tempat kerja.
 
@@ -105,4 +105,4 @@ Berikut adalah contoh identifikasi kriteria penilaian yang bisa kamu buat:
 
 Dengan menentukan kriteria sejak awal, kamu mengunci logika berpikir sebelum faktor emosional memengaruhi penilaian objektif.
 
-Setelah kriteria ini ditetapkan dengan jelas dan dipastikan tidak ada parameter yang tumpang tindih, kamu siap melangkah ke tahap berikutnya: **Langkah 3: Pemberian Bobot pada Kriteria**. Di tahap tersebut, kamu akan menentukan mana kriteria yang memiliki prioritas paling tinggi bagimu.
+Setelah kriteria ini ditetapkan dengan jelas dan dipastikan tidak ada parameter yang tumpang tindih, kamu siap melangkah ke tahap berikutnya: **Pemberian Bobot pada Kriteria**. Di tahap tersebut, kamu akan menentukan mana kriteria yang memiliki prioritas paling tinggi bagimu.

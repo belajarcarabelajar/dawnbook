@@ -4,7 +4,7 @@ Bayangkan kamu sedang berdiri di kaki Candi Borobudur yang megah. Di hadapanmu, 
 
 Untuk memahami pesan moral di balik 160 panel yang ada di kaki tersembunyi (*Kamadhatu*), kita memerlukan "kunci" teknis untuk membuka kode visualnya. Bab ini akan memandumu memahami struktur fisik panel dan metode pembacaan yang telah dipraktikkan selama berabad-abad.
 
-### 1. Arah Pembacaan: Pradaksina
+### 1. Arah Pembacaan Pradaksina
 
 Dalam tradisi Buddhisme, sebuah monumen suci tidak dikunjungi secara acak. Ada aturan navigasi yang disebut **Pradaksina**.
 
@@ -16,7 +16,7 @@ Dalam tradisi Buddhisme, sebuah monumen suci tidak dikunjungi secara acak. Ada a
 
 > **Insight Memorable:** Membaca relief dengan cara Pradaksina berarti kamu menempatkan "pusat kebenaran" (candi) sebagai kompas di sisi kanan hidupmu saat melangkah maju.
 
-### 2. Komposisi Visual Panel: Sebab dan Akibat
+### 2. Komposisi Visual Panel Sebab dan Akibat
 
 Setiap panel relief Karmawibhangga bukanlah satu adegan tunggal yang statis. Para pemahat Jawa Kuno menggunakan teknik narasi visual yang sangat cerdas untuk menggambarkan hukum karma.
 
@@ -28,7 +28,7 @@ Secara umum, satu panel relief sering kali dibagi menjadi dua atau tiga bagian k
 2. **Sisi Kanan (Akibat/Konsekuensi):** Menggambarkan hasil dari perbuatan di sisi kiri. Jika di kiri ia berburu, di kanan ia digambarkan menderita sakit atau berada di alam neraka.
 3. **Elemen Pemisah:** Untuk memisahkan satu adegan dengan adegan lainnya dalam satu panel, pemahat sering menggunakan pohon, pilar bangunan, atau sosok orang yang berdiri membelakangi adegan sebelumnya.
 
-#### Analogi Visual: Komik Tanpa Kata
+#### Komik Tanpa Kata
 
 Pikirkan panel relief ini seperti sebuah **Strip Komik** modern.
 
@@ -74,7 +74,7 @@ Para seniman Shailendra menggunakan teknik visual tertentu untuk menunjukkan sta
 - **Perspektif Hierarki:** Tokoh yang lebih penting (raja, biksu, atau dewa) biasanya digambarkan duduk di tempat yang lebih tinggi (balai-balai) atau memiliki ukuran tubuh yang sedikit lebih besar dan proporsional dibandingkan rakyat jelata.
 - **Posisi Tubuh:** Tokoh yang sedang melakukan "sebab" biasanya digambarkan aktif bergerak, sedangkan tokoh yang menerima "akibat" sering kali digambarkan dalam posisi pasif, merenung, atau menderita.
 
-### 5. Real-world Application: Storyboarding dan UX Design
+### 5. Storyboarding dan UX Design
 
 Prinsip pembagian panel Karmawibhangga sebenarnya masih sangat relevan dalam dunia profesional modern, terutama dalam bidang kreatif:
 

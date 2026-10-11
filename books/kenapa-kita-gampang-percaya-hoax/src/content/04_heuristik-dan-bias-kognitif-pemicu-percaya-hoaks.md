@@ -4,7 +4,7 @@ Otak kamu tidak punya waktu untuk menimbang setiap informasi yang lewat dengan t
 
 Di bab ini kamu akan berkenalan dengan mesin pengambilan keputusan cepat di kepalamu, dan kenapa mesin yang sama yang membuatmu efisien juga membuatmu rentan.
 
-### Heuristik: jalan pintas yang berguna tapi bocor
+### Heuristik sebagai jalan pintas yang berguna tapi bocor
 
 Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Kita justru mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
 
@@ -14,7 +14,7 @@ Masalahnya, jalan pintas yang berguna untuk memilih warung juga dipakai untuk me
 
 > Heuristik bukan cacat. Ia adalah fitur yang membuat manusia sanggup hidup di dunia yang kelewat rumit. Persoalannya, fitur ini bisa dibajak.
 
-### Bias konfirmasi: kita percaya yang cocok dengan selera
+### Bias konfirmasi
 
 Dari sekian banyak bias, satu ini adalah pemicu utama kenapa hoaks tertentu terasa begitu meyakinkan. **Bias konfirmasi** (dirangkum secara luas oleh **Nickerson**, 1998) adalah kecenderungan untuk mencari, menerima, dan mengingat informasi yang **mengonfirmasi keyakinan yang sudah kamu pegang**, sambil mengabaikan atau menolak yang bertentangan.
 
@@ -25,7 +25,7 @@ Perhatikan pola ini dalam keseharian:
 
 Hoaks yang "sesuai selera" adalah yang paling gampang menyebar, karena ia tidak menantang keyakinanmu, ia **memeluknya**. Kamu tidak merasa sedang ditipu. Kamu merasa sedang dibenarkan. Inilah kenapa hoaks politik, hoaks kesehatan, dan hoaks berbau kelompok begitu lengket: mereka membidik keyakinan yang sudah ada, bukan menciptakan keyakinan baru.
 
-### Heuristik ketersediaan: yang mudah teringat terasa lebih benar
+### Heuristik ketersediaan saat yang mudah teringat terasa lebih benar
 
 **Heuristik ketersediaan** (*availability heuristic*) membuat kamu menilai sesuatu lebih mungkin terjadi atau lebih benar kalau contohnya **mudah muncul di kepala**.
 
@@ -33,7 +33,7 @@ Kalau kamu baru saja membaca banyak cerita dramatis soal penculikan anak lewat m
 
 Hoaks memanfaatkan ini dengan **cerita yang dramatis dan gampang dibayangkan**. Pesan berantai "waspada, ada komplotan yang menyuntik korban di angkot" jauh lebih lengket ketimbang penjelasan medis yang membosankan, karena ia memberi gambar yang tajam dan mudah dipanggil ulang. Setiap kali kamu mengingatnya, rasa "ini pasti benar" ikut menguat.
 
-### Familiaritas dan source heuristic: yang terasa akrab dan "resmi"
+### Familiaritas dan source heuristic
 
 Ada dua jalan pintas kembar yang bekerja di sini.
 
@@ -41,7 +41,7 @@ Ada dua jalan pintas kembar yang bekerja di sini.
 
 **Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Yang dinilai bukan isi klaimnya, melainkan **kemasannya yang terlihat sah**.
 
-### Kefasihan pemrosesan: yang mudah dibaca terasa lebih benar
+### Kefasihan pemrosesan
 
 Ini bias yang jarang disadari tapi kuat. **Kefasihan pemrosesan** (*processing fluency*) berarti otak menafsirkan **kemudahan** dalam memproses sesuatu sebagai tanda kebenaran.
 
@@ -49,7 +49,7 @@ Pesan yang ditulis dengan kalimat sederhana, font yang jelas, nama yang gampang 
 
 Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak dibaca sekali lewat. Kelancaran membacamu disalahartikan otak sebagai kelayakan untuk dipercaya.
 
-### Tabel: bagaimana hoaks membajak tiap bias
+### Bagaimana hoaks membajak tiap bias
 
 | Bias / Heuristik | Definisi singkat | Bagaimana hoaks mengeksploitasinya |
 | --- | --- | --- |

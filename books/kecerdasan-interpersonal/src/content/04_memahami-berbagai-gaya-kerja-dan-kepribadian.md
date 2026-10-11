@@ -1,4 +1,4 @@
-## Memahami Berbagai Gaya Kerja dan Kepribadian: Seni Menjadi Bunglon Profesional
+## Memahami Berbagai Gaya Kerja dan Kepribadian
 
 Pernahkah kamu merasa begitu mudah berbicara dengan rekan setim dari divisi desain, tetapi mendadak merasa seperti menggunakan bahasa asing ketika berdiskusi dengan tim finance? Atau mungkin kamu merasa frustrasi saat atasan hanya ingin melihat angka-angka mentah, sementara kamu ingin menjabarkan visi kreatif di balik proyek tersebut?
 

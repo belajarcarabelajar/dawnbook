@@ -18,7 +18,7 @@ Hukum tidak bekerja di ruang hampa. Sebelum sebuah pasal diketok palu, ada perde
 
 ---
 
-### 2. Teknik Analisis: Mendeteksi Bias dalam Teks Kebijakan
+### 2. Mendeteksi Bias dalam Teks Kebijakan
 
 Untuk mendekonstruksi dokumen kebijakan kriminal, kita perlu memperhatikan beberapa elemen linguistik kunci:
 
@@ -60,7 +60,7 @@ Setiap kebijakan kriminal membawa **ideologi** tertentu. AWK membedah agenda ter
 
 ---
 
-### 4. Contoh Kasus: Dekonstruksi Narasi "War on Drugs"
+### 4. Dekonstruksi Narasi "War on Drugs"
 
 Kebijakan narkotika dapat dibedah dengan pendekatan AWK sebagai berikut:
 
@@ -70,7 +70,7 @@ Kebijakan narkotika dapat dibedah dengan pendekatan AWK sebagai berikut:
 
 ---
 
-### 5. Aplikasi Praktis: Langkah-langkah Melakukan Dekonstruksi
+### 5. Langkah-langkah Melakukan Dekonstruksi
 
 Bagi seorang peneliti atau praktisi hukum, langkah-langkah berikut dapat digunakan untuk menganalisis sebuah draf undang-undang (UU):
 
@@ -89,7 +89,7 @@ $$
 
 ---
 
-### 6. Studi Kasus Nyata: Kebijakan Keamanan Siber
+### 6. Kebijakan Keamanan Siber
 
 Dalam banyak draf regulasi siber di berbagai negara, sering ditemukan frasa:
 

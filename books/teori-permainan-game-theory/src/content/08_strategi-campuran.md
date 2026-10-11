@@ -1,4 +1,4 @@
-## Strategi Campuran (Mixed Strategies): Seni Menjadi Tidak Terduga
+## Strategi Campuran (Mixed Strategies)
 
 Bayangkan kamu sedang bermain **Batu-Gunting-Kertas**. Jika kamu selalu mengeluarkan "Batu", lawan kamu akan dengan mudah mengalahkan kamu dengan "Kertas". Jika kamu beralih ke pola yang terbaca (misalnya: Batu, lalu Gunting, lalu Kertas), lawan yang cerdas akan segera menyadari pola tersebut dan mengeksploitasinya.
 
@@ -35,7 +35,7 @@ Bagaimana kita menentukan probabilitas yang tepat? Kuncinya adalah **Prinsip Ind
 
 Agar sebuah strategi campuran menjadi Ekuilibrium Nash, probabilitas yang kamu pilih harus membuat lawan kamu merasa **sama saja** (*indifferent*) antara pilihan-pilihan yang mereka miliki. Jika lawan merasa satu pilihan lebih menguntungkan daripada yang lain, mereka akan mengeksploitasi pilihan itu, dan strategi kamu belum optimal.
 
-#### Contoh Kasus: Permainan "Matching Pennies"
+#### Permainan "Matching Pennies"
 
 Dua pemain, A dan B, masing-masing menaruh koin di meja secara sembunyi-sembunyi (Angka atau Gambar).
 

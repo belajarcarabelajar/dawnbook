@@ -31,7 +31,7 @@ Manusia secara alami adalah makhluk emosional. Saat mengambil keputusan, kita se
 
 Di sinilah matriks keputusan bertindak sebagai filter penyaring yang objektif. Metode ini membantu otak kita untuk beristirahat sejenak dari mode intuitif yang serba cepat (System 1) dan berpindah ke cara berpikir yang lebih analitis dan terstruktur (System 2).
 
-### Contoh Nyata: Membeli Laptop Baru
+### Membeli Laptop Baru
 
 Bayangkan kamu ingin membeli laptop baru.
 
@@ -54,7 +54,7 @@ Ketika kamu memberikan skor untuk setiap kriteria secara terpisah, kamu mencegah
 
 Terkadang kita dihadapkan pada pilihan yang sangat bertolak belakang. Matriks keputusan menyamakan skala penilaian dari berbagai faktor yang berbeda, sehingga kamu bisa membandingkannya dengan adil (misalnya dalam skala 1-5 atau 1-10).
 
-## Skenario Dunia Nyata: Memilih Lokasi Kantor Baru
+## Memilih Lokasi Kantor Baru
 
 Mari kita perhatikan bagaimana matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusahaan rintisan (startup) sedang mengevaluasi tiga lokasi calon kantor baru:
 

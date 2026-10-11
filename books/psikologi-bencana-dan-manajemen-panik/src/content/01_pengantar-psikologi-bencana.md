@@ -12,7 +12,7 @@ Sejarah penanganan bencana dan riset empiris membuktikan bahwa dalam banyak kasu
 
 > "Bencana merupakan hasil interaksi antara ancaman fisik lingkungan dan kerentanan manusia. Psikologi bencana hadir untuk menjembatani dan memperkuat ketahanan di antara kedua aspek tersebut."
 
-#### Analogi: Perangkat Keras vs. Sistem Operasi Kognitif
+#### Perangkat Keras dan Sistem Operasi Kognitif
 
 Tubuh manusia serta infrastruktur fisik perkotaan dapat diibaratkan sebagai **perangkat keras (*hardware*)**. Sehebat dan sekuat apa pun perangkat keras tersebut, seluruh pergerakannya dikendalikan oleh **sistem operasi (*software*)**, yaitu fungsi kognitif, emosi, dan mekanisme saraf pusat. 
 

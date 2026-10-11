@@ -1,10 +1,10 @@
-## Psikologi Perkembangan Dewasa Muda: Memahami Fase 'Emerging Adulthood'
+## Psikologi Perkembangan Dewasa Muda
 
 Pernahkah kamu merasa seperti sedang mengendarai mobil di tengah kabut tebal tanpa peta, sementara semua orang di media sosial tampaknya sudah sampai di tujuan mereka? Jika iya, kamu tidak sendirian. Apa yang kamu rasakan bukan cuma "galau" biasa; ada penjelasan ilmiah dan psikologis yang mendalam di baliknya.
 
 Dalam bagian ini, kita akan membedah apa yang sebenarnya terjadi di dalam kepala dan hatimu selama rentang usia 20 hingga 30 tahun. Kita akan mengeksplorasi mengapa fase ini begitu membingungkan, namun juga sangat menentukan bagi pembentukan dirimu di masa depan.
 
-## 1\. Mengenal 'Emerging Adulthood': Jembatan Menuju Kedewasaan
+## 1\. Mengenal 'Emerging Adulthood'
 
 Dahulu, psikologi membagi transisi hidup secara kaku: masa remaja lalu langsung masa dewasa. Namun, Psikolog **Jeffrey Jensen Arnett** menyadari adanya celah besar di antaranya yang ia sebut sebagai **Emerging Adulthood**, biasanya terjadi pada usia 18 hingga 29 tahun.
 
@@ -20,11 +20,11 @@ Arnett mengidentifikasi lima fitur utama dari fase ini:
 
 Apakah kamu merasa lebih sering menjawab "Iya dan Tidak" secara bersamaan ketika ditanya apakah kamu sudah merasa dewasa? Itulah esensi dari emerging adulthood.
 
-## 2\. Neurobiologi: Otak yang Masih 'Dalam Perbaikan'
+## 2\. Otak yang Masih 'Dalam Perbaikan'
 
 Seringkali kita menyalahkan kurangnya motivasi atau karakter yang lemah saat menghadapi *Quarter-Life Crisis*. Padahal, ada faktor biologis yang sangat berpengaruh: **Otak manusia belum sepenuhnya matang hingga usia pertengahan 20-an.**
 
-### Prefrontal Cortex: Sang CEO yang Belum Dilantik
+### Prefrontal Cortex Sang CEO yang Belum Dilantik
 
 Bagian otak yang bertanggung jawab atas perencanaan masa depan, pengendalian impuls, dan pengambilan keputusan logis disebut **Prefrontal Cortex (PFC)**.
 
@@ -44,11 +44,11 @@ $$
 
 Saat $\text{Kematangan}_{\text{PFC}}$ masih rendah, $\text{R}_{\text{emosi}}$ (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
 
-## 3\. Perkembangan Emosi: Menavigasi Badai Ketidakpastian
+## 3\. Perkembangan Emosi
 
 Di rentang usia 20-30 tahun, perkembangan emosi kita mengalami pergeseran dari "mencari validasi luar" menjadi "membangun integritas dalam".
 
-### Konflik Erik Erikson: Intimacy vs. Isolation
+### Intimacy vs. Isolation menurut Erik Erikson
 
 Menurut psikolog perkembangan Erik Erikson, tugas utama di masa dewasa awal adalah membangun hubungan yang intim dengan orang lain. Namun, sebelum bisa membangun hubungan yang sehat dengan orang lain, kamu harus memiliki identitas yang stabil.
 
@@ -62,11 +62,11 @@ Kemampuan mengelola emosi (emotional regulation) berkembang pesat di fase ini. K
 - Perasaan tidak nyaman adalah sinyal untuk tumbuh, bukan sinyal untuk berhenti.
 - Ketidakpastian adalah bagian permanen dari kehidupan dewasa.
 
-## 4\. Real-World Application: Strategi Berbasis Psikologi
+## 4\. Strategi Berbasis Psikologi
 
 Memahami teori saja tidak cukup. Bagaimana cara menerapkan pengetahuan tentang perkembangan otak dan emosi ini dalam keseharianmu?
 
-### Skenario: Menghadapi Analysis Paralysis
+### Menghadapi Analysis Paralysis
 
 Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh karena takut salah pilih.
 
@@ -78,7 +78,7 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 		- *Besok: Hanya berbicara dengan satu teman yang bekerja di sana.*
 3. **Self-Compassion**: Gunakan dialog internal yang mendukung. Mengatakan "Saya sedang berproses" secara kimiawi menurunkan kadar kortisol dibandingkan mengatakan "Saya payah karena tidak tahu harus berbuat apa."
 
-### Contoh Kode (Logika Pengambilan Keputusan):
+### Contoh Kode (Logika Pengambilan Keputusan)
 
 Jika kita membayangkan otak kita bekerja seperti sebuah fungsi program dalam menghadapi pilihan:
 
@@ -97,7 +97,7 @@ def make_decision(options, pfc_maturity_level):
 # Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang 'low' atau emosi sedang 'high'.
 ```
 
-## 5\. Ringkasan: Mengapa Ini Penting?
+## 5\. Mengapa Fase Ini Penting?
 
 Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk berhenti menyalahkan diri sendiri. Kamu bukan sedang gagal; kamu sedang **berkembang**.
 

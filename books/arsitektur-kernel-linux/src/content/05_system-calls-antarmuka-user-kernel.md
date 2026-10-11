@@ -1,4 +1,4 @@
-## System Calls: Antarmuka User-Kernel
+## System Calls
 
 Bayangkan kamu berada di sebuah restoran mewah. Sebagai pelanggan, kamu tidak diperbolehkan masuk ke dapur untuk memasak makanan sendiri karena alasan keamanan dan kebersihan. Kamu harus duduk di meja dan menyampaikan pesananmu kepada pelayan. Pelayan tersebut kemudian membawa pesananmu ke dapur, dan setelah makanan siap, pelayan akan mengantarkannya kembali kepadamu.
 
@@ -10,7 +10,7 @@ Dalam dunia sistem operasi, **kamu adalah aplikasi pengguna**, **dapur adalah ke
 
 > **Catatan Penting:** System call adalah pintu gerbang tunggal yang dikontrol ketat bagi aplikasi untuk berinteraksi dengan dunia luar melalui bantuan kernel.
 
-## Dual-Mode Operation: User Mode vs. Kernel Mode
+## Dual-Mode Operation
 
 Untuk melindungi sistem, CPU modern mendukung setidaknya dua mode operasi:
 
@@ -50,7 +50,7 @@ Kernel menjalankan tugas yang diminta (misalnya, membaca data dari disk).
 
 Setelah selesai, kernel menempatkan nilai kembalian (return value) ke register, lalu mengeksekusi instruksi untuk kembali ke User Mode dan melanjutkan eksekusi program pengguna.
 
-## Arsitektur Layer: Standard Library vs System Call
+## Standard Library vs System Call
 
 Hampir tidak ada programmer yang menulis instruksi `syscall` secara manual dalam bahasa Assembly. Sebaliknya, kita menggunakan **Standard C Library (glibc)**.
 
@@ -60,7 +60,7 @@ Hampir tidak ada programmer yang menulis instruksi `syscall` secara manual dalam
 | **Library (glibc)** | `write()` | Wrapper yang menyiapkan register dan memicu syscall. |
 | **Kernel Interface** | `sys_write` | Fungsi internal kernel yang mengelola hardware. |
 
-## Contoh Kode: High-Level vs Low-Level
+## High-Level vs Low-Level
 
 Mari kita bandingkan penggunaan library API standar dengan pemanggilan system call secara langsung.
 
@@ -131,7 +131,7 @@ exit_group(0)                           = ?
 - `write`: Mengirimkan output teks (daftar berkas) ke `stdout` (layar).
 - `exit_group`: Menghentikan seluruh thread dalam proses dan keluar dari program.
 
-## Overhead System Call: Konsekuensi Keamanan
+## Overhead System Call
 
 Setiap kali aplikasi melakukan system call, ada beban performa (overhead) yang harus dibayar. Transisi mode dari User Mode ke Kernel Mode memerlukan siklus CPU tambahan untuk menyimpan status register dan memvalidasi parameter.
 

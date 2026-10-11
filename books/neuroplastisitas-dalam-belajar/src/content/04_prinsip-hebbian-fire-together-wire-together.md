@@ -1,10 +1,10 @@
-## Prinsip Hebbian: Fire Together, Wire Together
+## Prinsip Hebbian
 
 Pernahkah kamu bertanya-tanya mengapa setelah berulang kali berlatih alat musik atau menghafal kosa kata asing, jari-jari atau pikiran kamu seolah-olah bergerak secara otomatis? Fenomena ini bukan sekadar "kebiasaan", melainkan manifestasi fisik dari hukum paling fundamental dalam neurosains: **Prinsip Hebbian**.
 
 Dalam bagian ini, kita akan menjelajahi bagaimana aktivitas sinkron antara sel-sel saraf mengubah arsitektur otak kita dan menjadi fondasi utama bagi pembentukan memori jangka panjang.
 
-## 1\. Asal-usul: Siapa itu Donald Hebb?
+## 1\. Siapa itu Donald Hebb?
 
 Pada tahun 1949, seorang psikolog asal Kanada bernama **Donald Hebb** menerbitkan buku revolusioner berjudul *The Organization of Behavior*. Di tengah teori-teori saat itu yang menganggap otak sebagai mesin statis, Hebb mengusulkan sebuah mekanisme biologis tentang bagaimana pembelajaran terjadi.
 
@@ -14,7 +14,7 @@ Ia menulis sebuah postulat yang kini dikenal sebagai **Hukum Hebb**:
 
 Dalam bahasa yang lebih populer dan mudah diingat, ahli neurosains Carla Shatz merangkumnya menjadi: **"Neurons that fire together, wire together."** (Neuron yang menyala bersama, akan terhubung bersama).
 
-## 2\. Analogi: Jalan Setapak di Hutan Belantara
+## 2\. Jalan Setapak di Hutan Belantara
 
 Bayangkan otak kamu adalah sebuah hutan belantara yang sangat lebat. Saat kamu mempelajari sesuatu yang baru, itu seperti kamu mencoba berjalan menembus semak belukar dari titik A ke titik B.
 
@@ -24,7 +24,7 @@ Bayangkan otak kamu adalah sebuah hutan belantara yang sangat lebat. Saat kamu m
 
 **Prinsip Hebbian** adalah proses biologis yang "mengeraskan" tanah di jalan setapak tersebut. Semakin sering neuron "A" memicu neuron "B", semakin kuat "jembatan" (sinapsis) di antara mereka.
 
-## 3\. Mekanisme Biologis: Long-Term Potentiation (LTP)
+## 3\. Long-Term Potentiation (LTP)
 
 Secara teknis, Prinsip Hebbian adalah dasar dari fenomena yang disebut **Long-Term Potentiation (LTP)**. Ini adalah penguatan jangka panjang dalam transmisi sinyal antara dua neuron yang dihasilkan dari stimulasi sinkron.
 
@@ -44,7 +44,7 @@ Di mana:
 
 **Penting:** Proses ini memerlukan **sinkronisitas**. Jika sel A menyala tetapi sel B tidak merespons, atau jika sel B menyala tanpa pengaruh dari sel A, maka koneksi tidak akan menguat.
 
-## 4\. Fire Together, Wire Together: Langkah demi Langkah
+## 4\. Langkah demi Langkah Proses Fire Together, Wire Together
 
 Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat belajar kata baru dalam bahasa asing (Contoh: "Apple" = "Apel").
 

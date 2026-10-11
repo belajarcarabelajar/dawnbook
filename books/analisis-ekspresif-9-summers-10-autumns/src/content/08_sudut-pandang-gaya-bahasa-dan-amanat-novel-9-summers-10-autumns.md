@@ -14,14 +14,14 @@ Gaya bahasa adalah bahasa indah yang digunakan untuk meningkatkan efek cerita. G
 
 Amanat adalah pesan dari pengarang yang disampaikan melalui cerita. Amanat dapat berbentuk tersirat atau tersurat. Amanat secara tersirat dapat berupa tingkah laku tokoh, jalan pikiran tokoh, atau perasaan tokoh. Amanat secara tersurat dapat disampaikan di bagian tengah atau akhir cerita dengan cara pengarang menyampaikan saran, nasihat, dan pemikirannya. Dalam novel 9 Summers 10 Autumns, amanat yang terkandung adalah bahwa kemiskinan bukanlah tembok, melainkan tantangan yang bisa ditembus dengan kerja keras dan restu orang tua.
 
-### Analisis Stilistika: Membedah Personifikasi dan Metafora
+### Membedah Personifikasi dan Metafora
 
 Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi dan metafora secara dominan untuk menggambarkan kerinduan. Pengarang menuliskan, *'Ibuku, hatinya putih, ia adalah puisi hidupku'* (Hlm. 35) sebagai metafora ketulusan, serta *'keringatnya menetes di atas atap rumah mungilku'* (Hlm. 51) yang mempersonifikasikan pengorbanan saudara perempuannya. Pilihan majas puitis ini secara langsung mengomunikasikan rasa sentimental dan keintiman emosional yang mendalam kepada pembaca.
 
-### Refleksi Estetis: Keintiman Sudut Pandang Orang Pertama
+### Keintiman Sudut Pandang Orang Pertama
 
 *Bagaimana penggunaan sudut pandang orang pertama ('Aku') membantu penulis mengekspresikan trauma dan pergulatan batinnya secara lebih jujur dibandingkan jika ia menggunakan sudut pandang orang ketiga?*
 
-### Memasuki Kajian Ekspresif: Menghubungkan Karya dan Jiwa
+### Menghubungkan Karya dan Jiwa
 
 Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang. Bab berikutnya akan memulai pembahasan mendalam mengenai ekspresi batin Iwan Setyawan.

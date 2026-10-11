@@ -6,7 +6,7 @@ Dalam kriminologi kritis, peneliti bukan sekadar penonton yang duduk di menara g
 
 ---
 
-### 1. Tanggung Jawab Etis: Meneliti dengan Keberpihakan
+### 1. Meneliti dengan Keberpihakan
 
 Dalam riset konvensional, "objektivitas" sering kali diartikan sebagai netralitas total. Namun, dalam AWK, netralitas justru dipandang sebagai bentuk dukungan implisit terhadap status quo.
 
@@ -36,7 +36,7 @@ Etika penelitian AWK dalam kriminologi melibatkan tiga pilar utama:
 
 ---
 
-### 2. Mengkritik Kekuasaan: Risiko dan Keberanian Intelektual
+### 2. Risiko Mengkritik Kekuasaan dan Keberanian Intelektual
 
 Mengkritik institusi seperti kepolisian, kejaksaan, atau pembuat undang-undang memiliki konsekuensi etis dan praktis. Peneliti AWK sering kali berhadapan dengan narasi institusional yang dianggap sebagai kebenaran mutlak.
 
@@ -49,7 +49,7 @@ Gunakan kerangka berpikir ini saat mengevaluasi etika kritik:
 
 ---
 
-### 3. Implementasi: Dari Analisis Menuju Reformasi Hukum
+### 3. Dari Analisis Menuju Reformasi Hukum
 
 AWK tidak berhenti pada laporan penelitian. Tujuan akhirnya adalah **Praksis**, yaitu teori yang diwujudkan dalam tindakan untuk mengubah struktur sosial.
 
@@ -80,7 +80,7 @@ Di mana:
 
 ---
 
-### 4. Kasus Dunia Nyata: Reformasi Bahasa dalam Regulasi Kekerasan Seksual
+### 4. Reformasi Bahasa dalam Regulasi Kekerasan Seksual
 
 **Skenario:** Dalam banyak dokumen hukum lama, istilah yang digunakan sering kali menyudutkan korban (misalnya, menggunakan kata "persetubuhan" yang berkonteks netral alih-alih "pemerkosaan" yang menegaskan adanya paksaan).
 
@@ -122,13 +122,13 @@ def evaluasi_etis(teks_analisis, kepentingan_publik, risiko_pribadi):
 
 ---
 
-### 6. Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+### 6. Linguistik Forensik dan Sidik Jari Linguistik
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang peneliti tidak sekadar mencari sidik jari pada benda fisik, melainkan **sidik jari linguistik** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah pilar utama bagaimana kata-kata menjadi alat bukti:
 
-#### 1. Idiolek: Sidik Jari dalam Kata
+#### 1. Idiolek dan Ciri Tulisan Individu
 
 Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 

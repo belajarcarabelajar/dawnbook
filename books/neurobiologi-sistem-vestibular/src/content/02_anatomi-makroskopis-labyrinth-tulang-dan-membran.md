@@ -1,10 +1,10 @@
-## Anatomi Makroskopis: Labyrinth Tulang dan Membran
+## Anatomi Makroskopis Labyrinth Tulang dan Membran
 
 Selamat datang di inti dari sistem keseimbangan kita. Jika otak adalah pusat komando, maka telinga dalam adalah markas intelijen yang sangat canggih dan terlindungi dengan ketat. Tersembunyi jauh di dalam bagian petrosa tulang temporal (tulang tengkorak yang paling keras), terdapat sebuah labirin rumit yang menentukan bagaimana kita merasakan dunia dan posisi kita di dalamnya.
 
 Dalam bagian ini, kita akan membedah struktur "rumah" bagi sensor keseimbangan kita, memahami perbedaan antara dinding luar yang keras dan saluran dalam yang lunak, serta cairan yang menghidupinya.
 
-### 1. Konsep Dasar: Labirin di Dalam Tulang
+### 1. Labirin di Dalam Tulang
 
 Bayangkan sebuah kastil kuno yang memiliki sistem pipa rahasia di dalam dinding-dinding batunya. Kastil itu sendiri adalah **Labyrinth Tulang**, sedangkan sistem pipa air yang fleksibel di dalamnya adalah **Labyrinth Membran**.
 
@@ -25,7 +25,7 @@ Meskipun keduanya menyatu secara anatomis, mereka memiliki fungsi sensorik yang 
 - **Kanalis Semisirkularis Tulang:** Tiga saluran melengkung (anterior, posterior, dan lateral) yang terletak pada bidang yang saling tegak lurus ($90^\circ$ satu sama lain).
 - **Cochlea (Koklea):** Bagian berbentuk rumah siput yang bertanggung jawab untuk pendengaran.
 
-#### Cairan Pelindung: Perilymph
+#### Cairan Pelindung Perilymph
 
 Ruang di antara dinding tulang dan membran di dalamnya diisi oleh cairan yang disebut **Perilymph**:
 
@@ -43,7 +43,7 @@ Terletak di dalam labyrinth tulang, terdapat **Labyrinth Membran**. Ini adalah s
 - **Ductus Semicircularis:** Saluran membran yang berada di dalam kanalis semisirkularis tulang.
 - **Ductus Cochlearis (Scala Media):** Bagian membran di dalam koklea yang berisi organ Corti untuk pendengaran.
 
-#### Cairan Aktif: Endolymph
+#### Cairan Aktif Endolymph
 
 Di dalam labyrinth membran terdapat cairan yang sangat unik bernama **Endolymph**:
 
@@ -62,7 +62,7 @@ Di dalam labyrinth membran terdapat cairan yang sangat unik bernama **Endolymph*
 | **Analogi Cairan** | Seperti cairan ekstraseluler / CSF | Seperti cairan intraseluler |
 | **Potensial Listrik** | Relatif netral ($0\text{ mV}$) | Sangat positif ($+80\text{ mV}$ di koklea) |
 
-### 5. Analogi: Selang di Dalam Pipa Besi
+### 5. Selang di Dalam Pipa Besi
 
 Untuk memahami struktur ini dengan mudah, bayangkan sebuah **pipa besi** yang kokoh (Labyrinth Tulang). Di dalam pipa besi tersebut, kita memasukkan sebuah **selang karet** yang lentur (Labyrinth Membran).
 
@@ -70,7 +70,7 @@ Untuk memahami struktur ini dengan mudah, bayangkan sebuah **pipa besi** yang ko
 2. Isi bagian dalam selang karet dengan air garam yang sangat pekat (Endolymph).
 3. Di dalam selang karet inilah terdapat sensor-sensor halus yang akan bereaksi jika air di dalamnya bergoyang.
 
-### 6. Aplikasi Klinis: Hidrops Endolimfatik (Penyakit Meniere)
+### 6. Hidrops Endolimfatik (Penyakit Meniere)
 
 Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam keseimbangan yang sempurna. Namun, pada kondisi yang disebut **Hidrops Endolimfatik** (sering dikaitkan dengan Penyakit Meniere), terjadi kelebihan volume endolymph di dalam labyrinth membran.
 

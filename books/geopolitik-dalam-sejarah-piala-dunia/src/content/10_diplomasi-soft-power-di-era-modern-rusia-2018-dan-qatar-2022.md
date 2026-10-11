@@ -1,10 +1,10 @@
-## Diplomasi Soft Power di Era Modern: Rusia 2018 dan Qatar 2022
+## Diplomasi Soft Power Rusia 2018 dan Qatar 2022
 
 Bayangkan sebuah panggung megah dengan lampu sorot dunia yang tertuju sepenuhnya pada satu titik. Selama sebulan penuh, cerita tentang suatu negara tidak lagi didikte oleh kerasnya kebijakan luar negeri atau sengketa wilayah. Narasi itu kini dibentuk oleh kemeriahan stadion, kehangatan penduduk setempat, dan keindahan permainan di lapangan hijau. Inilah esensi dari kekuatan lunak (**soft power**) dalam sepak bola modern.
 
 Dalam bab ini, kita akan membedah bagaimana Rusia (2018) dan Qatar (2022) menjadikan Piala Dunia lebih dari sekadar kompetisi olahraga. Bagi kedua negara tersebut, ajang ini berfungsi sebagai instrumen strategis untuk memoles persepsi publik global sekaligus memperkuat posisi geopolitik mereka.
 
-## 1. Memahami Konsep: Soft Power dan Sportswashing
+## 1. Konsep Soft Power dan Sportswashing
 
 Sebelum masuk ke studi kasus, kita perlu memahami dua pilar utama diplomasi olahraga modern:
 
@@ -24,11 +24,11 @@ $$
 
 > **Analogi:** Bayangkan seseorang yang dikenal sebagai tetangga pemarah dan kasar, tiba-tiba menggelar pesta taman paling megah di lingkungannya. Dia membagikan makanan gratis dan tersenyum ramah kepada semua orang. Langkah ini bertujuan agar para tetangga melupakan perselisihan masa lalu dan mulai mengaguminya sebagai tuan rumah yang murah hati.
 
-## 2. Rusia 2018: "The Warm Welcome" Pasca-Krimea
+## 2. "The Warm Welcome" Rusia 2018 Pasca-Krimea
 
 Pada tahun 2018, Rusia berada dalam posisi yang sulit di panggung diplomatik. Setelah pencaplokan Krimea pada 2014 dan tuduhan intervensi pemilu di berbagai negara Barat, citra Rusia berada di titik terendah sejak berakhirnya Perang Cold War (Perang Dingin).
 
-### Strategi Geopolitik Rusia:
+### Strategi Geopolitik Rusia
 
 - **Destigmatisasi**: Langkah untuk menghapus citra Rusia sebagai negara yang "dingin dan agresif" di mata publik.
 - **Pembangunan Infrastruktur**: Mereka mendirikan stadion-stadion futuristik guna memamerkan stabilitas serta kekuatan ekonomi modern Rusia.
@@ -36,7 +36,7 @@ Pada tahun 2018, Rusia berada dalam posisi yang sulit di panggung diplomatik. Se
 
 **Bagaimana hasilnya?** Sepanjang turnamen, media sosial diramaikan oleh foto-foto suporter yang berpesta di Red Square. Narasi negatif seputar sanksi ekonomi tertutupi oleh berita kenyamanan transportasi serta ketatnya keamanan Rusia. Melalui perhelatan ini, Rusia berhasil memoles citranya di mata dunia sebelum konflik geopolitik kembali memanas pada tahun-tahun berikutnya.
 
-## 3. Qatar 2022: Eksistensi dan Visi 2030
+## 3. Qatar 2022 demi Eksistensi dan Visi 2030
 
 Penyelenggaraan di Qatar pada tahun 2022 menjadi proyek kekuatan lunak yang sangat ambisius. Bagi negara kecil dengan jumlah warga asli yang relatif sedikit, menjadi tuan rumah Piala Dunia merupakan langkah strategis demi menjaga kelangsungan hidup (**survival**) negara.
 
@@ -44,7 +44,7 @@ Penyelenggaraan di Qatar pada tahun 2022 menjadi proyek kekuatan lunak yang sang
 
 Bagi Qatar yang mungil, memiliki pengaruh dan dikenal luas di tingkat global adalah jaminan keamanan nasional. Jika dunia luar mengenal dan memiliki ketergantungan pada kamu, potensi agresi dari negara tetangga akan lebih mudah dicegah karena besarnya sorotan dunia.
 
-### Tantangan dan Kontroversi:
+### Tantangan dan Kontroversi
 
 Qatar menghadapi gelombang penolakan dan kritik keras yang belum pernah terjadi sebelumnya terkait beberapa hal:
 
@@ -52,13 +52,13 @@ Qatar menghadapi gelombang penolakan dan kritik keras yang belum pernah terjadi 
 2. **Hak LGBTQ+**: Terjadinya benturan antara nilai-nilai lokal yang konservatif dengan standar hak asasi global.
 3. **Dampak Lingkungan**: Kekhawatiran atas penggunaan teknologi pendingin udara berlebih di stadion gurun pasir.
 
-### Strategi Menyajikan Turnamen Terbaik:
+### Strategi Menyajikan Turnamen Terbaik
 
 Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro super cepat, serta merancang jarak antardua stadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
 
 > **Wawasan:** Qatar tidak berusaha meniru gaya hidup Barat. Mereka memanfaatkan Piala Dunia untuk membuktikan bahwa dunia Arab sanggup menjadi pusat peradaban modern tanpa harus menanggalkan nilai-nilai tradisional dan budaya mereka.
 
-## 4. Efektivitas Sportswashing: Apakah Berhasil?
+## 4. Apakah Sportswashing Berhasil?
 
 Pertanyaan besarnya adalah: *Apakah investasi yang bernilai fantastis ini benar-benar mampu membalikkan sudut pandang publik?*
 
@@ -67,7 +67,7 @@ Pertanyaan besarnya adalah: *Apakah investasi yang bernilai fantastis ini benar-
 
 Jika Qatar tidak pernah menjadi tuan rumah Piala Dunia, apakah kamu akan pernah mendengar atau menaruh perhatian pada isu sistem 'Kafala' di Timur Tengah?
 
-## 5. Aplikasi Dunia Nyata: Mengapa Ini Relevan bagi Kita?
+## 5. Mengapa Strategi Ini Relevan bagi Kita?
 
 Strategi kekuatan lunak ini kini meluas ke berbagai bidang kehidupan, tidak lagi terbatas pada hubungan diplomatik resmi antarnegara:
 

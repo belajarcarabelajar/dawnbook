@@ -1,10 +1,10 @@
-## Anatomi dan Komponen Utama: Membedah Struktur Matriks Keputusan
+## Anatomi dan Komponen Utama Matriks Keputusan
 
 Pernahkah kamu merasa kewalahan saat harus memilih di antara beberapa opsi yang sama-sama menarik? Bayangkan kamu sedang berdiri di depan rak laptop. Ada yang baterainya tahan lama tetapi berat, ada yang sangat ringan tetapi mahal, dan ada yang performanya tinggi tetapi desainnya biasa saja. Pikiran kita sering kali macet karena mencoba memproses semua variabel ini secara bersamaan. Di sinilah **matriks keputusan** (*decision matrix*) berperan sebagai *exoskeleton* bagi otak kita. Alat ini membantu menstrukturkan pilihan berdasarkan berbagai **kriteria penilaian** untuk menghasilkan **skor berbobot** yang objektif.
 
 Untuk menguasai metode ini, mari kita bedah anatomi dan komponen utamanya terlebih dahulu.
 
-### Kerangka Dasar: Baris dan Kolom
+### Baris dan Kolom
 
 Secara visual, *decision matrix* berupa sebuah tabel terstruktur di mana setiap elemen memiliki peran spesifik:
 
@@ -13,13 +13,13 @@ Secara visual, *decision matrix* berupa sebuah tabel terstruktur di mana setiap 
 
 Sebagai analogi sederhana, jika kamu sedang membangun tim sepak bola, pilihan alternatifnya adalah para kandidat pemain yang ingin bergabung, sedangkan kriteria penilaiannya meliputi kecepatan lari, akurasi tendangan, serta ketahanan fisik mereka.
 
-### Komponen 1: Alternatif
+### 1. Alternatif
 
 **Alternatif** adalah daftar opsi atau solusi yang sedang kamu pertimbangkan dalam pengambilan keputusan. Di dalam struktur matriks, alternatif ini diposisikan pada kolom pertama di setiap baris.
 
 Setiap alternatif harus bersifat *comparable* (sebanding). Sebagai contoh, kamu tidak bisa menyejajarkan keputusan "membeli mobil baru" dengan "memilih menu makan siang" dalam satu matriks yang sama. Jika sedang mengevaluasi lokasi kantor baru, pilihan alternatifnya bisa berupa: *Lokasi A (Sudirman)*, *Lokasi B (BSD)*, atau *Lokasi C (Kemang)*.
 
-### Komponen 2: Kriteria Penilaian
+### 2. Kriteria Penilaian
 
 **Kriteria** adalah standar, syarat, atau faktor spesifik yang digunakan untuk mengevaluasi setiap alternatif. Kriteria ini ditempatkan pada baris *column header*.
 
@@ -27,7 +27,7 @@ Kriteria wajib relevan dan dapat diukur dengan jelas agar penilaian tetap objekt
 
 Apakah semua kriteria memiliki tingkat kepentingan yang sama bagimu? Jika kamu sering bekerja secara *remote* di luar ruangan, daya tahan baterai tentu jauh lebih penting dibandingkan kapasitas RAM yang super besar. Perbedaan tingkat kepentingan inilah yang melahirkan komponen berikutnya.
 
-### Komponen 3: Bobot (*Weight*)
+### 3. Bobot (*Weight*)
 
 Tidak semua kriteria memiliki nilai kepentingan yang setara. **Bobot (*weight*)** adalah nilai numerik yang menunjukkan tingkat kepentingan suatu kriteria dibandingkan dengan kriteria lainnya.
 
@@ -41,13 +41,13 @@ $$
 \sum_{i=1}^{n} w_i = 1 \text{ atau } 100 \text{\%}
 $$
 
-### Komponen 4: Skor Penilaian (*Rating*)
+### 4. Skor Penilaian (*Rating*)
 
 **Skor** merupakan nilai numerik yang kamu berikan pada setiap alternatif berdasarkan pemenuhan kriteria tertentu.
 
 Kamu bisa menggunakan skala penilaian yang konsisten, misalnya 1–5 atau 1–10. Skor terendah (1) mencerminkan performa alternatif yang sangat buruk pada kriteria terkait, sedangkan skor tertinggi melambangkan performa yang sangat baik.
 
-### Hasil Akhir: Skor Berbobot (*Weighted Score*)
+### Skor Berbobot (*Weighted Score*)
 
 Bagian ini merupakan inti analisis dari matriks keputusan. Untuk mendapatkan hasil yang adil, kita tidak menjumlahkan skor mentah begitu saja, melainkan mengalikan skor setiap alternatif dengan bobot masing-masing kriteria terlebih dahulu sebelum dijumlahkan.
 
@@ -78,7 +78,7 @@ Berikut adalah representasi visual dari struktur matriks keputusan:
 | **Opsi A** | Skor (1–5) | Skor (1–5) | $(\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6)$ |
 | **Opsi B** | Skor (1–5) | Skor (1–5) | $(\text{Skor}_1 \times 0.4) + (\text{Skor}_2 \times 0.6)$ |
 
-### Aplikasi Praktis: Rekrutmen *Software Engineer*
+### Rekrutmen *Software Engineer*
 
 Mari kita lihat penerapannya pada skenario nyata. Bayangkan seorang manajer HR ingin merekrut seorang *software engineer* baru untuk timnya dari 3 kandidat yang tersedia.
 

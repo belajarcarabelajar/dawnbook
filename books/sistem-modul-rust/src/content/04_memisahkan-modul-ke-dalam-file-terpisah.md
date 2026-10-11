@@ -4,7 +4,7 @@ Bayangkan kamu sedang membangun sebuah rumah. Awalnya, kamu menyimpan semua pera
 
 Dalam Rust, memindahkan isi modul dari satu file besar (`main.rs` atau `lib.rs`) ke file terpisah adalah cara kita "merapikan laci" kode agar lebih mudah dikelola, dibaca, dan dikembangkan secara tim.
 
-## Analogi: Dari Satu Gulungan Kertas ke Sebuah Buku
+## Dari Satu Gulungan Kertas ke Sebuah Buku
 
 Jika `main.rs` yang sangat panjang adalah sebuah **gulungan perkamen raksasa**, maka memisahkan modul adalah proses mengubahnya menjadi sebuah **buku**. Setiap file `.rs` adalah satu bab. Daftar isi buku tersebut tetap berada di bagian depan (file utama), tetapi detail ceritanya ada di halaman masing-masing.
 
@@ -14,7 +14,7 @@ Jika `main.rs` yang sangat panjang adalah sebuah **gulungan perkamen raksasa**, 
 2. **Kolaborasi tim lebih lancar**: Setiap anggota tim bisa mengedit file berbeda secara bersamaan, sehingga meminimalkan risiko *merge conflict*.
 3. **Navigasi IDE yang cepat**: IDE seperti VS Code dapat memproses struktur yang terfragmentasi dengan baik, membuat navigasi kode terasa lebih responsif.
 
-## Langkah demi Langkah: Memindahkan Modul
+## Memindahkan Modul
 
 Mari kita asumsikan kita memiliki kode awal di `src/main.rs` seperti ini:
 
@@ -34,7 +34,7 @@ fn main() {
 }
 ```
 
-### Langkah 1: Deklarasikan Modul di File Utama
+### 1. Deklarasikan Modul di File Utama
 
 Ubah deklarasi modul di `src/main.rs`. Alih-alih menggunakan kurung kurawal `{ }`, kita gunakan **titik koma** `;`.
 
@@ -52,7 +52,7 @@ fn main() {
 
 > **Penting:** Baris `mod pembersihan_data;` memberi tahu Rust: *"Cari modul bernama 'pembersihan\_data' di file lain dengan nama yang sama."*
 
-### Langkah 2: Buat File Modul Baru
+### 2. Buat File Modul Baru
 
 Buat file baru di dalam folder `src/` dengan nama yang sesuai dengan nama modul, yaitu `pembersihan_data.rs`. Struktur folder kamu akan terlihat seperti ini:
 
@@ -64,7 +64,7 @@ my_project/
     └── pembersihan_data.rs
 ```
 
-### Langkah 3: Pindahkan Isi Modul
+### 3. Pindahkan Isi Modul
 
 Pindahkan fungsi dari dalam kurung kurawal di `main.rs` ke dalam file `pembersihan_data.rs`.
 
@@ -84,7 +84,7 @@ Meskipun kode telah dipindah ke file berbeda, aturan privasi Rust tetap berlaku.
 
 Jika kamu memindahkan fungsi ke file baru tapi lupa menambahkan `pub`, Rust akan memberikan error "function is private". Ini seperti memindahkan barang ke kamar terkunci tanpa memberikan kuncinya kepada orang lain.
 
-## Skenario Dunia Nyata: Sistem Notifikasi
+## Sistem Notifikasi
 
 Bayangkan kamu sedang membangun aplikasi e-commerce. Kamu memiliki modul untuk mengirim email dan SMS. Daripada menumpuk semuanya di `main.rs`, kamu memisahkannya:
 

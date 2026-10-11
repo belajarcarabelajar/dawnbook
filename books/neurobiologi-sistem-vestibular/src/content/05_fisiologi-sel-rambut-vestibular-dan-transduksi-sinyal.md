@@ -4,7 +4,7 @@ Bagaimana otak dapat mengetahui secara presisi ke mana arah kepala miring, bahka
 
 Dalam bagian ini, kita akan menyelami mekanisme tingkat seluler tentang bagaimana gerakan fisik yang halus pada rambut-rambut kecil ini memicu rentetan aktivitas kimia dan listrik yang memungkinkan tubuh tetap tegak dan seimbang.
 
-### 1. Arsitektur Sel Rambut: Antena Mekanosensorik
+### 1. Arsitektur Sel Rambut
 
 Sel rambut vestibular memiliki struktur yang sangat terspesialisasi di bagian apikalnya (ujung atas). Karakteristik struktural ini tersusun rapi menyerupai deretan pipa dengan gradasi ketinggian tertentu.
 
@@ -14,18 +14,18 @@ Sel rambut vestibular memiliki struktur yang sangat terspesialisasi di bagian ap
 
 > **Analogi:** Bayangkan sekelompok orang berdiri berderet dari yang paling pendek hingga yang paling tinggi. Setiap orang memegang tali yang terhubung ke kerah baju orang yang lebih tinggi di sampingnya. Jika orang yang paling tinggi ditarik menjauh, tali tersebut akan menarik kerah baju semua orang di deretan tersebut.
 
-### 2. Mekanotransduksi: Mengubah Gerakan Menjadi Listrik
+### 2. Mekanotransduksi
 
 Proses pengubahan energi mekanik menjadi sinyal listrik disebut **mekanotransduksi**. Keunikan sistem vestibular dan pendengaran terletak pada kecepatannya yang luar biasa karena tidak bergantung pada kurir kimiawi sekunder yang lambat, melainkan pada pembukaan gerbang saluran ion secara fisik langsung.
 
-#### Tahap 1: Defleksi dan Pembukaan Kanal
+#### Defleksi dan Pembukaan Kanal
 
 Ketika kepala bergerak, inersia cairan di telinga dalam (endolimfe) menggerakkan stereosilia.
 
 - **Eksitasi (Depolarisasi):** Jika stereosilia membengkok **ke arah kinocilium**, *tip links* akan meregang. Peregangan ini secara mekanis menarik terbuka saluran ion sensitif regangan ($\text{MET}$, *mechano-electrical transduction channels*) di ujung stereosilia.
 - **Inhibisi (Hiperpolarisasi):** Jika stereosilia membengkok **menjauhi kinocilium**, *tip links* mengendur, menyebabkan saluran $\text{MET}$ yang biasanya terbuka sebagian pada saat istirahat menjadi tertutup rapat.
 
-#### Tahap 2: Arus Ionik
+#### Arus Ionik
 
 Berbeda dengan mayoritas sel saraf yang memanfaatkan gradien natrium ($\text{Na}^+$), sel rambut berada dalam lingkungan **endolimfe** apikal yang sangat kaya akan kalium ($\text{K}^+$).
 
@@ -33,7 +33,7 @@ Berbeda dengan mayoritas sel saraf yang memanfaatkan gradien natrium ($\text{Na}
 - Akibat gradien elektrokimia yang sangat curam ini, saat saluran $\text{MET}$ terbuka, ion $\text{K}^+$ mengalir masuk dengan sangat cepat ke dalam sel.
 - Selain $\text{K}^+$, ion kalsium ($\text{Ca}^{2+}$) juga masuk melalui kanal yang sama, memainkan peranan esensial dalam modulasi adaptasi dan pelepasan neurotransmitter.
 
-#### Tahap 3: Potensial Reseptor dan Pelepasan Neurotransmitter
+#### Potensial Reseptor dan Pelepasan Neurotransmitter
 
 Masuknya kation ($\text{K}^+$ dan $\text{Ca}^{2+}$) memicu **depolarisasi** membran sel reseptor.
 
@@ -42,7 +42,7 @@ Masuknya kation ($\text{K}^+$ dan $\text{Ca}^{2+}$) memicu **depolarisasi** memb
 3. Influx $\text{Ca}^{2+}$ memicu eksositosis vesikel sinaptik yang melepaskan neurotransmitter utama, yaitu **glutamat**.
 4. Glutamat berdifusi melintasi celah sinaptik dan mengaktivasi reseptor postsinaptik pada terminal saraf vestibular (Nervus Kranialis VIII), membangkitkan potensial aksi.
 
-### 3. Logika Sinyal: Eksitasi vs. Inhibisi
+### 3. Eksitasi vs. Inhibisi
 
 Sistem vestibular bekerja dengan **laju penembakan basal** (*resting firing rate*). Artinya, bahkan saat kepala dalam posisi diam statis, sel rambut secara kontinu melepaskan sejumlah kecil neurotransmitter.
 
@@ -52,13 +52,13 @@ Sistem vestibular bekerja dengan **laju penembakan basal** (*resting firing rate
 
 Mengapa sel rambut mempertahankan aktivitas penembakan basal saat istirahat? Mekanisme ini memungkinkan sistem vestibular melaporkan vektor gerakan dua arah (kiri atau kanan, akselerasi positif atau negatif) hanya melalui modulasi frekuensi penembakan impuls di atas atau di bawah laju basal, menghasilkan sensitivitas sensorik yang jauh lebih tinggi.
 
-### 4. Adaptasi: Bagaimana Sel Mempertahankan Sensitivitas
+### 4. Adaptasi Sel Rambut
 
 Ketika posisi kepala dimiringkan dan dipertahankan dalam posisi tersebut, sel rambut tidak terus-menerus memancarkan sinyal maksimal. Sel menjalankan proses **adaptasi**.
 
 Melalui aktivitas protein motorik berbasis miosin (seperti Myosin VIIa), titik penjangkaran *tip link* pada stereosilia dapat bergeser ke arah bawah. Pergeseran ini merelaksasi kembali ketegangan mekanis pada saluran $\text{MET}$ meskipun berkas stereosilia masih berada dalam posisi terdefleksi. Mekanisme ini memastikan sel rambut selalu siap merespons perubahan akselerasi baru tanpa mengalami kejenuhan (*saturation*) sinyal pada posisi statis yang berkepanjangan.
 
-### 5. Aplikasi Klinis: Mabuk Perjalanan (Motion Sickness)
+### 5. Mabuk Perjalanan (Motion Sickness)
 
 **Skenario:** Seseorang sedang membaca buku di dalam kendaraan yang melaju di jalanan berliku.
 
