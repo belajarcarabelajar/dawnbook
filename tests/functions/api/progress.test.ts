@@ -1,9 +1,12 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, afterAll } from "bun:test";
 
 // Force `verifySession` to be a no-op that we control per-test. mock.module
 // is global across the bun test runner, so this declaration overrides any
 // earlier override from sibling test files (slug.test.ts, books.test.ts).
 let mockSession: any = null;
+// bun's mock.module is process-global: snapshot the real module first and
+// restore it in afterAll so later files (lib/auth.test.ts) see real code.
+const realAuth = { ...(await import("../../../functions/lib/auth")) };
 mock.module("../../../functions/lib/auth", () => {
   return {
     verifySession: async () => mockSession,
@@ -495,4 +498,8 @@ describe("API: /api/progress", () => {
     const response = await onRequest({ request: req, env } as any);
     expect(response.status).toBe(500);
   });
+});
+
+afterAll(() => {
+  mock.module("../../../functions/lib/auth", () => realAuth);
 });

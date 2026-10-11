@@ -1,6 +1,9 @@
-import { expect, test, describe, mock, beforeEach } from "bun:test";
+import { expect, test, describe, mock, beforeEach, afterAll } from "bun:test";
 
 let mockSession: any = null;
+// bun's mock.module is process-global: snapshot the real module first and
+// restore it in afterAll so later files (lib/auth.test.ts) see real code.
+const realAuth = { ...(await import("../../../functions/lib/auth")) };
 mock.module("../../../functions/lib/auth", () => {
   return {
     verifySession: async () => mockSession,
@@ -110,4 +113,8 @@ describe("API: /api/books/[slug]", () => {
       expect(await response.json()).toEqual({ error: "Database deletion failed" });
     });
   });
+});
+
+afterAll(() => {
+  mock.module("../../../functions/lib/auth", () => realAuth);
 });
