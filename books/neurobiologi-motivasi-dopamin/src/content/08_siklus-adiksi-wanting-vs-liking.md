@@ -1,4 +1,4 @@
-## Siklus Adiksi: Perbedaan Antara Wanting dan Liking
+## Siklus Adiksi dan Perbedaan Wanting vs. Liking
 
 Pernahkah kamu mendapati dirimu terus-menerus menekan tombol "Next Episode" di Netflix atau menggeser layar Instagram selama berjam-jam, padahal kamu sudah merasa bosan, lelah, dan tidak lagi benar-benar menikmati konten yang kamu lihat?
 
@@ -6,7 +6,7 @@ Secara logika, jika kita tidak menikmati sesuatu, kita seharusnya berhenti. Namu
 
 ---
 
-### 1. Paradoks Adiksi: Mengapa Kita Mengejar yang Tidak Kita Nikmati?
+### 1. Mengapa Kita Mengejar yang Tidak Kita Nikmati?
 
 Tradisionalnya, para ilmuwan menganggap bahwa kita menginginkan sesuatu karena kita menyukainya. Namun, penelitian dari **Dr. Kent Berridge** di University of Michigan mengubah paradigma ini. Ia menemukan bahwa sistem saraf yang mengatur "keinginan" berbeda secara anatomis dan kimiawi dengan sistem yang mengatur "kenikmatan".
 
@@ -14,7 +14,7 @@ Tradisionalnya, para ilmuwan menganggap bahwa kita menginginkan sesuatu karena k
 
 ---
 
-### 2. *Wanting* vs *Liking*: Bedah Neurobiologis
+### 2. *Wanting* vs *Liking*
 
 Mari kita lihat perbedaan mendalam antara kedua sistem ini:
 
@@ -56,7 +56,7 @@ Jika nilai *Wanting* jauh melampaui *Liking*, yang tersisa hanyalah **dorongan o
 
 ---
 
-### 4. Studi Kasus: Fenomena "Doomscrolling"
+### 4. "Doomscrolling" Malam Hari
 
 Perhatikan skenario nyata berikut:
 
@@ -68,7 +68,7 @@ Perhatikan skenario nyata berikut:
 
 ---
 
-### 5. Penerapan Nyata: Cara Menghentikan Siklus Adiksi
+### 5. Cara Menghentikan Siklus Adiksi
 
 Memahami perbedaan ini adalah kunci untuk mendapatkan kembali kendali atas perilaku kita. Berikut adalah strategi berbasis neurosains:
 

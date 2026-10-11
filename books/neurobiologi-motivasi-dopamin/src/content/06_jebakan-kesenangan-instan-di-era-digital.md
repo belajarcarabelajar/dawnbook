@@ -4,7 +4,7 @@ Pernahkah kamu berniat membuka ponsel hanya untuk mengecek jam, namun tiba-tiba 
 
 Selamat datang di era **Supernormal Stimuli**, sebuah masa di mana teknologi dan industri makanan telah berhasil meretas sirkuit purba di otak kita untuk mendapatkan perhatian dan kesenangan instan secara terus-menerus.
 
-## Evolusi vs. Revolusi Digital: Ketimpangan Biologis
+## Evolusi vs. Revolusi Digital
 
 Otak manusia berevolusi di lingkungan yang langka sumber daya. Di masa lalu, mendapatkan makanan manis atau interaksi sosial adalah hal yang sulit dan membutuhkan usaha besar. Oleh karena itu, otak kita mengembangkan sistem motivasi yang sangat sensitif terhadap **imbalan (reward)**.
 
@@ -12,7 +12,7 @@ Masalahnya, evolusi biologi berjalan sangat lambat, sementara evolusi teknologi 
 
 > **Insight Penting:** Masalahnya bukan pada dopamin itu sendiri, melainkan pada kecepatan, kemudahan, dan intensitas stimulasi yang kita terima di era digital.
 
-## 1. Media Sosial: Mesin Slot di Dalam Saku Kamu
+## 1. Media Sosial
 
 Media sosial dirancang menggunakan prinsip psikologi perilaku yang sama dengan mesin judi di Las Vegas. Fitur-fitur seperti *infinite scroll* (guliran tanpa batas) dan *pull-to-refresh* menciptakan apa yang disebut sebagai **Variable Reward Schedule**.
 
@@ -62,7 +62,7 @@ Di mana:
 
 *Coba renungkan: Semakin besar nilai $k$ (impulsivitas) seseorang akibat stimulasi digital berlebih, semakin kecil nilai imbalan masa depan di mata mereka.*
 
-## Real-world Application: Mengenali "Zombie Mode"
+## Mengenali "Zombie Mode"
 
 Mari kita lihat perbandingan antara perilaku sehat dan perilaku yang terjebak dalam stimulasi instan:
 

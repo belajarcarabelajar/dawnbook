@@ -6,7 +6,7 @@ Sistem ini bukanlah satu organ tunggal, melainkan jaringan kompleks dari berbaga
 
 ---
 
-### Jalur Mesolimbik: "Jalan Tol" Motivasi
+### Jalur Mesolimbik sebagai "Jalan Tol" Motivasi
 
 Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesolimbik**. Bayangkan ini sebagai jalan tol utama tempat pesan-pesan kimiawi, terutama **dopamin**, mengalir cepat untuk menggerakkan perilaku kita.
 
@@ -14,7 +14,7 @@ Sebelum membedah organ-organnya satu per satu, kita perlu mengenal **Jalur Mesol
 
 ---
 
-### 1. Ventral Tegmental Area (VTA): Pabrik Dopamin Utama
+### 1. Ventral Tegmental Area (VTA)
 
 Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)** adalah titik awal dari segala keinginan dan motivasi. Jika sistem reward diibaratkan sebuah kendaraan, maka VTA adalah mesin utamanya.
 
@@ -25,7 +25,7 @@ Terletak jauh di bagian tengah otak (*midbrain*), **Ventral Tegmental Area (VTA)
 
 ---
 
-### 2. Nucleus Accumbens (NAc): Pusat Motivasi dan Eksekusi Aksi
+### 2. Nucleus Accumbens (NAc)
 
 Dari VTA, dopamin mengalir melalui jalur mesolimbik menuju sebuah struktur bulat kecil di otak bagian bawah yang disebut **Nucleus Accumbens (NAc)**. Di sinilah terjadi integrasi antara dorongan emosional dan instruksi gerakan fisik.
 
@@ -37,7 +37,7 @@ Dari VTA, dopamin mengalir melalui jalur mesolimbik menuju sebuah struktur bulat
 
 ---
 
-### 3. Prefrontal Cortex (PFC): Sang CEO dan Pengendali Eksekutif
+### 3. Prefrontal Cortex (PFC)
 
 Di bagian paling depan tempurung kepala manusia terdapat **Prefrontal Cortex (PFC)**. Struktur inilah yang membedakan manusia dari spesies lain dalam hal kapasitas perencanaan jangka panjang dan pengendalian diri.
 
@@ -71,7 +71,7 @@ Selain tiga struktur utama di atas, terdapat beberapa komponen pendukung yang me
 
 ---
 
-### Aplikasi Dunia Nyata: Memahami Penajaman dan "Hijacking" Otak
+### Penajaman dan "Hijacking" Otak
 
 Mengapa kita sering kali sulit berhenti menggulir media sosial meskipun menyadari ada tugas penting yang harus diselesaikan?
 

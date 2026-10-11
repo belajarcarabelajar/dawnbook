@@ -14,7 +14,7 @@ Dopamin adalah neurotransmiter yang selalu ada di otak dan sangat penting untuk 
 
 > **Insight Utama:** Dopamine Fasting bukanlah tentang menghilangkan dopamin dari otak, melainkan tentang **mengurangi stimulasi eksternal yang berlebihan dan impulsif** untuk memulihkan sensitivitas reseptor dopamin (terutama reseptor $\text{D}_2$).
 
-#### Analogi: Sensor Cahaya di Kamar Gelap
+#### Sensor Cahaya di Kamar Gelap
 
 Bayangkan kamu berada di sebuah konser musik dengan lampu *strobe* yang sangat terang. Mata kamu akan menyesuaikan diri dengan cahaya yang menyilaukan itu. Namun, ketika kamu keluar ke ruangan dengan cahaya lampu biasa, ruangan itu akan terasa sangat gelap gulita. Kamu tidak bisa melihat detail apa pun sampai mata kamu beradaptasi kembali.
 
@@ -36,7 +36,7 @@ Jika $S$ (stimulasi) terus meningkat secara ekstrem, otak akan menurunkan $R$ (s
 
 ---
 
-### 3. Protokol Dopamine Fasting: Dari Ringan hingga Total
+### 3. Tiga Tingkat Protokol Dopamine Fasting
 
 Berikut adalah ringkasan tingkatan strategi yang bisa kamu terapkan sesuai dengan kebutuhan dan kesiapan mentalmu:
 
@@ -89,9 +89,9 @@ Jika kamu memutuskan untuk melakukan *24-hour reset*, ikuti langkah-langkah prak
 
 ---
 
-### 5. Aplikasi Dunia Nyata: Studi Kasus
+### 5. Studi Kasus
 
-#### Studi Kasus: Mahasiswa yang Kehilangan Fokus
+#### Mahasiswa yang Kehilangan Fokus
 
 - **Subjek:** Budi, seorang mahasiswa yang menghabiskan 6 jam sehari di TikTok dan merasa sangat sulit belajar meski ujian sudah dekat.
 - **Strategi Pengaturan Ulang:**
@@ -101,7 +101,7 @@ Jika kamu memutuskan untuk melakukan *24-hour reset*, ikuti langkah-langkah prak
 
 ---
 
-### 6. Integrasi Pasca-Puasa: Menjaga Sensitivitas
+### 6. Menjaga Sensitivitas Pasca-Puasa
 
 Puasa dopamin tidak akan berguna jika setelah selesai, kamu langsung kembali ke kebiasaan lama secara ekstrem. Kuncinya adalah **re-entry** yang terkontrol.
 

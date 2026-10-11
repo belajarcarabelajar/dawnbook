@@ -1,4 +1,4 @@
-## Mengenal Dopamin: Molekul Motivasi, Bukan Kesenangan
+## Mengenal Dopamin sebagai Molekul Motivasi, Bukan Kesenangan
 
 Selama puluhan tahun, dopamin sering kali disalahpahami oleh publik. Media populer kerap menjuluki dopamin sebagai "molekul kesenangan" (*pleasure chemical*). Kamu mungkin sering mendengar seseorang berkata, "Aku sedang dapat *dopamine hit*" saat mereka menikmati cokelat manis atau melihat jumlah *like* bertambah di media sosial.
 
@@ -26,7 +26,7 @@ Untuk memahami bedanya pengejaran dan rasa nikmat, bayangkan kamu sedang sangat 
 
 ---
 
-## Neurobiologi Antisipasi: "The Molecule of More"
+## Neurobiologi Antisipasi
 
 Dalam buku *The Molecule of More*, Dr. Daniel Z. Lieberman dan Michael E. Long menjelaskan bahwa fungsi utama dopamin adalah mengarahkan perhatian kita pada apa yang **belum** kita miliki, tetapi **bisa** kita dapatkan di masa depan.
 
@@ -38,7 +38,7 @@ $$
 
 Jika otak memprediksi bahwa suatu tindakan (misalnya belajar tekun untuk ujian minggu depan) akan menghasilkan imbalan yang bernilai tinggi, dopamin akan dilepaskan untuk membekali kamu dengan energi serta fokus yang dibutuhkan.
 
-### Tiga Peran Vital Dopamin dalam Pengejaran:
+### Tiga Peran Vital Dopamin dalam Pengejaran
 
 - **Arah:** Menentukan ke mana perhatian dan sumber daya mental kamu harus difokuskan.
 - **Intensitas:** Menentukan seberapa besar usaha serta daya juang yang akan kamu keluarkan.
@@ -46,7 +46,7 @@ Jika otak memprediksi bahwa suatu tindakan (misalnya belajar tekun untuk ujian m
 
 ---
 
-## Analogi: Wortel di Depan Keledai
+## Wortel di Depan Keledai
 
 Untuk memvisualisasikan kerja dopamin secara konkret, bayangkan analogi klasik keledai yang berjalan mengejar wortel gantung:
 
@@ -60,7 +60,7 @@ Dalam eksperimen neurosains laboratorium, tikus yang kadar dopamin di otaknya di
 
 ---
 
-## Penerapan di Dunia Nyata: Bagaimana Dopamin Memengaruhi Hidup Kamu?
+## Bagaimana Dopamin Memengaruhi Hidup Kamu?
 
 Memahami bahwa dopamin adalah molekul pengejaran akan mengubah caramu memandang produktivitas, kebiasaan, hingga prokrastinasi.
 
@@ -83,7 +83,7 @@ Secara evolusioner, desain sirkuit dopamin sangat krusial bagi kelangsungan hidu
 
 Oleh karena itu, dopamin dirancang untuk **tidak pernah terpuaskan secara permanen**. Ia adalah mesin pendorong alami yang menjaga spesies manusia agar terus berevolusi, membangun peradaban, menciptakan teknologi, dan menjelajahi hal-hal baru.
 
-### Ringkasan Poin Kunci:
+### Ringkasan Poin Kunci
 
 - **Dopamin adalah Bahan Bakar Pendorong:** Ia memberi energi dan dorongan untuk bergerak menuju target, bukan sekadar penikmat hasil.
 - **Puncak Dopamin Ada pada Antisipasi:** Pelepasan dopamin tertinggi terjadi tepat *sebelum* imbalan diperoleh.

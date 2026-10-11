@@ -4,13 +4,13 @@ Pernahkah kamu bertanya-tanya mengapa sangat mudah untuk menghabiskan waktu berj
 
 Jawaban dari pertanyaan-pertanyaan ini tidak terletak pada kemauan semata, melainkan pada mekanisme biologis di dalam otak kita. Selamat datang di penjelajahan **Neurobiologi Motivasi**.
 
-## Memahami Motivasi: Lebih dari Sekadar Keinginan
+## Motivasi Lebih dari Sekadar Keinginan
 
 Secara psikologis, kita sering mendefinisikan motivasi sebagai dorongan untuk melakukan sesuatu. Namun, secara **neurobiologis**, motivasi adalah proses kalkulasi biaya dan imbalan (*cost-benefit analysis*) yang berlangsung secara terus-menerus di bawah sadar kita.
 
 Motivasi menjadi jembatan utama antara **persepsi** (apa yang kita lihat dan rasakan) serta **aksi** (apa yang kita lakukan).
 
-### Analogi: Mobil dan Sistem Kemudi
+### Mobil dan Sistem Kemudi
 
 Bayangkan tubuh kamu sebagai sebuah mobil:
 
@@ -65,11 +65,11 @@ Memahami mekanisme di balik motivasi akan mengubah cara kamu memandang diri send
 
 > **Renungan:** Jika kamu memahami tombol-tombol biologis di otak kamu, tentu akan lebih mudah merancang pola hidup produktif tanpa tergantung pada dorongan emosional yang pasang surut.
 
-## Aplikasi Nyata: Mengelola Inersia Mental
+## Mengelola Inersia Mental
 
 Dalam dunia fisika dan teknik, kita mengenal konsep **inersia**, yaitu kecenderungan benda diam untuk tetap diam. Untuk menggerakkan benda yang diam, diperlukan energi awal yang lebih besar daripada mempertahankan gerakannya. Hal yang sama berlaku pada otak manusia.
 
-### Skenario Lapangan: Aturan 2 Menit
+### Aturan 2 Menit
 
 Bayangkan kamu menghadapi tugas berat seperti menulis esai atau laporan. Otak kamu melihat tugas ini sebagai biaya ($C$) yang sangat tinggi, sehingga nilai dorongan ($V$) menjadi rendah.
 
