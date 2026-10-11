@@ -1,4 +1,4 @@
-## Kalkulator Bukan Kamu: Kenapa Keputusan Uang Jarang Rasional
+## Kalkulator Bukan Kamu
 
 Di kasir, harga yang diberi coret besar sering menang daripada harga termurah, dan itu bukan kebodohan berhitung, melainkan cara otak manusia bekerja.
 

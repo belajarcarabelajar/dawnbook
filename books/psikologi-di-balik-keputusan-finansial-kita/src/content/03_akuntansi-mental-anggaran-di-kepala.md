@@ -1,4 +1,4 @@
-## Akuntansi Mental: Uang Tidak Sama Semua Harganya
+## Akuntansi Mental
 
 Bonus Rp500.000 dan gaji Rp500.000 punya nilai tukar yang sama, tapi hampir semua orang memperlakukannya seolah-olah dua jenis uang yang berbeda.
 
@@ -47,4 +47,4 @@ Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup
 - Eksperimen tiket teater Tversky dan Kahneman (1981) menunjukkan akibatnya: 88 persen tetap membeli tiket setelah kehilangan 10 dolar tunai, tapi hanya 46 persen setelah kehilangan tiket 10 dolar, karena tiket baru masuk ke akun pertunjukan yang sama sehingga menonton terasa 20 dolar.
 - Label yang menolak rugi membuat orang nekat menghadapi badai demi tiket basket yang sudah dibayar, dan menjadikan kartu kredit alat pemisah terbaik antara menikmati dan membayar.
 
-Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Bab berikutnya, "Rasa Sakit Membayar: Kenapa Kartu Terasa Lebih Murah", menelusuri momen ketika uang benar-benar berpindah tangan, dan kenapa bentuk uangnya menentukan seberapa besar rasa sakit yang menyertainya.
+Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Bab berikutnya, "Rasa Sakit Membayar", menelusuri momen ketika uang benar-benar berpindah tangan, dan kenapa bentuk uangnya menentukan seberapa besar rasa sakit yang menyertainya.

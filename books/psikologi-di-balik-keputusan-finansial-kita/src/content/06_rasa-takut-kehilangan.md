@@ -1,4 +1,4 @@
-## Rasa Takut Kehilangan: Ketika Kerugian Terasa Dua Kali Lipat
+## Rasa Takut Kehilangan
 
 Hilangnya uang Rp500.000 menggores perasaanmu jauh lebih dalam daripada kegembiraan saat kamu menang atau menemukan jumlah yang sama persis.
 

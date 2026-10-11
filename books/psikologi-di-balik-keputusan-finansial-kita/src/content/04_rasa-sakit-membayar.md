@@ -1,4 +1,4 @@
-## Rasa Sakit Membayar: Kenapa Kartu Terasa Lebih Murah
+## Rasa Sakit Membayar
 
 Membayar dengan uang tunai itu terasa seperti dicabut giginya, sedangkan kartu hanya lewat sekali gigitan kecil yang hampir tidak terasa.
 
