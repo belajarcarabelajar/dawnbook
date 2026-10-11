@@ -23,7 +23,7 @@ Peneliti AWK memiliki komitmen etis untuk **emansipasi**, yaitu upaya membebaska
 | **Definisi Objektivitas** | Bebas dari bias personal | Transparansi posisi & ketepatan bukti tekstual |
 | **Tujuan Akhir** | Deskripsi dan eksplanasi fenomena | Transformasi sosial dan praksis penegakan hukum |
 
-> **Analogi: Pendaki dan Peta**
+> **Analogi Pendaki dan Peta**
 > Bayangkan sebuah hutan (sistem hukum) di mana jalan setapak hanya dibuat untuk kendaraan besar (penguasa), sementara pejalan kaki (kaum marginal) harus bersusah payah di semak belukar. Peneliti tradisional mungkin hanya memetakan jalan tersebut. Peneliti AWK akan bertanya: *"Siapa yang membuat jalan ini? Mengapa pejalan kaki diabaikan? Dan di mana trotoar harus dibangun?"*
 
 #### Komitmen terhadap Subjek Penelitian
@@ -136,11 +136,11 @@ Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek 
 * **Sintaksis:** Struktur kalimat yang dominan, seperti kecenderungan penggunaan kalimat pasif dibanding kalimat aktif.
 * **Ortografi:** Kebiasaan penggunaan tanda baca, kapitalisasi, dan pola singkatan.
 
-#### 2. Atribusi Kepenulisan (*Authorship Attribution*)
+#### 2. Atribusi Kepenulisan Teks Anonim dengan Sampel Pembanding
 
 Teknik untuk menentukan penulis asli dari teks anonim (seperti surat ancaman, pesan teror, atau dokumen palsu) dengan membandingkan sampel teks bukti terhadap teks pembanding yang telah terverifikasi.
 
-#### 3. Analisis Konten dan Ancaman
+#### 3. Menguji Niat Eksplisit dan Konteks Situasional Ancaman
 
 Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan dengan menguji:
 
@@ -153,7 +153,7 @@ Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan den
 
 Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuji melalui berbagai dinamika pembuktian:
 
-#### A. Tantangan Manipulasi Gaya Bahasa
+#### A. Kebiasaan Bawah Sadar yang Sulit Dipalsukan
 Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen bahasa yang paling sulit dipalsukan secara konsisten adalah kebiasaan bawah sadar (*unconscious linguistic habits*), seperti frekuensi penempatan koma, penggunaan kata hubung, dan pola mikrosintaksis.
 
 #### B. Dinamika Teks Digital
@@ -170,7 +170,7 @@ Kombinasi penggunaan istilah teknis medis yang presisi dengan tata bahasa yang t
 
 ---
 
-### Kesimpulan
+### Yang Perlu Kamu Ingat tentang Etika AWK
 
 Etika dalam Analisis Wacana Kritis bukan sekadar tentang mengisi formulir persetujuan penelitian (*informed consent*). Etika adalah tentang **keberanian moral** untuk menyingkap selubung bahasa yang melindungi ketidakadilan. Sebagai peneliti kriminologi, kata-kata adalah alat advokasi untuk meruntuhkan tembok stigma dan membangun jembatan menuju sistem hukum yang lebih manusiawi dan berkeadilan.
 

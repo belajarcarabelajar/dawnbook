@@ -10,7 +10,7 @@ Dekonstruksi dalam konteks ini adalah proses membongkar lapisan-lapisan bahasa u
 
 Hukum tidak bekerja di ruang hampa. Sebelum sebuah pasal diketok palu, ada perdebatan ideologis, lobi politik, dan kepentingan ekonomi yang membentuknya. AWK memandang produk hukum sebagai **praktik diskursif**.
 
-> **Analogi: Arsitektur Bangunan**
+> **Analogi Arsitektur Bangunan**
 > 
 > Bayangkan sebuah gedung pengadilan. Arsitekturnya yang megah dengan pilar besar dirancang untuk membuat individu merasa kecil dan patuh. Dokumen hukum bekerja dengan cara yang sama. Pilihan kata yang formal dan rumit berfungsi sebagai "pilar bahasa" yang menciptakan jarak antara otoritas hukum dan rakyat biasa, sehingga hukum sulit digugat oleh mereka yang tidak memahami terminologinya.
 

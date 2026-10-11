@@ -114,11 +114,11 @@ Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek 
 - **Sintaksis:** Struktur kalimat yang cenderung menggunakan bentuk pasif atau aktif.
 - **Ortografi:** Cara penggunaan tanda baca atau singkatan (misalnya "yg" dibanding "yang", atau penggunaan tanda seru).
 
-### B. Atribusi Kepenulisan (*Authorship Attribution*)
+### B. Atribusi Kepenulisan pada Surat Ancaman dan Pesan Teror
 
 Teknik ini digunakan untuk menentukan penulis asli dari sebuah teks yang tidak diketahui identitasnya (seperti surat ancaman, pesan teror, atau dokumen palsu). Ahli bahasa membandingkan teks bukti dengan teks pembanding yang sudah pasti penulisnya.
 
-### C. Analisis Konten dan Ancaman
+### C. Analisis Konten untuk Menilai Niat dan Risiko
 
 Dalam kriminologi, membedakan antara **ancaman nyata** dan sekadar **luapan emosi** sangat krusial. Linguistik forensik membantu menentukan:
 
@@ -139,7 +139,7 @@ Untuk memahami bagaimana kriminolog menggunakan bahasa sebagai alat bukti, berik
    Pernyataan A merupakan penilaian subjektif terhadap kualitas layanan (opini), sedangkan Pernyataan B memuat tuduhan tindakan pidana yang spesifik tanpa pembuktian hukum (pencemaran nama baik).
 4. **Hubungan dengan Profiling Kriminal:** Jika sebuah surat tuntutan tebusan menggunakan istilah medis yang sangat spesifik namun dengan tata bahasa yang berantakan, profil kriminologi yang dapat disusun menunjuk pada latar belakang tersangka yang memiliki pengetahuan teknis/medis tetapi mencoba mengaburkan identitas melalui penyimpangan tata bahasa.
 
-## Kesimpulan
+## Benang Merah Pendekatan Van Dijk
 
 Pendekatan Teun van Dijk mengingatkan bahwa kriminologi bukan hanya tentang apa yang terjadi di jalanan, tetapi tentang apa yang terjadi di dalam ruang redaksi, ruang sidang, dan podium politik. Dengan memahami bagaimana wacana memengaruhi kognisi sosial, pemelajar dapat lebih kritis terhadap narasi "keamanan" yang seringkali digunakan untuk melegitimasi kontrol sosial yang berlebihan.
 
