@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pas
 
 Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat di mana **persaingan** menjadi pengatur utama aktivitas manusia.
 
-> **Analogi: Pembaruan Sistem Operasi (OS Update)**
+> **Analogi Pembaruan Sistem Operasi (OS Update)**
 > Bayangkan **Laissez-faire** klasik adalah sistem operasi komputer versi 1.0 yang sederhana (biarkan komputer berjalan tanpa intervensi). **Neoliberalisme** adalah "OS 2.0". Sistem ini lebih kompleks, dirancang untuk jaringan global, dan secara aktif menghapus program pemerintah (seperti subsidi atau perlindungan pekerja) yang dianggap memperlambat kinerja sistem.
 
 ### Perbedaan Kunci dengan Laissez-faire Klasik

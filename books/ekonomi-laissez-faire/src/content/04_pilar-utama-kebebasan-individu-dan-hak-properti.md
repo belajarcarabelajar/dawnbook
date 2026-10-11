@@ -72,7 +72,7 @@ Jika salah satu pilar ini runtuh, misalnya ketika pemerintah tiba-tiba membatasi
 
 Di era modern, prinsip Laissez-faire tentang hak properti meluas ke dunia digital.
 
-**Skenario: Pengembangan Software Open Source vs. Komersial**
+**Skenario Pengembangan Software Open Source vs. Komersial**
 
 - **Software Komersial:** Perusahaan seperti Microsoft atau Adobe sangat bergantung pada hak kekayaan intelektual (sebuah bentuk hak properti). Keamanan hukum bahwa kode mereka tidak boleh dibajak memungkinkan mereka menginvestasikan miliaran dolar untuk riset dan pengembangan.
 - **Ekosistem Freelance:** Platform seperti Upwork atau Fiverr adalah perwujudan modern dari kebebasan berkontrak. Individu dari Indonesia bisa membuat kontrak kerja dengan perusahaan di Amerika Serikat. Keberhasilan sistem ini bergantung pada kepastian bahwa kontrak akan dibayar dan hasil kerja (properti intelektual) akan berpindah tangan secara sah.

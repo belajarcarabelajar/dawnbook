@@ -56,7 +56,7 @@ Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang sa
 
 Masa depan Laissez-faire akan sangat bergantung pada kemampuannya menjawab tantangan eksternalitas, terutama perubahan iklim.
 
-> **Analogi: Taman dan Hutan**  
+> **Analogi Taman dan Hutan**  
 > Jika ekonomi Laissez-faire klasik diibaratkan seperti hutan rimba yang tumbuh liar tanpa gangguan, maka Laissez-faire masa depan mungkin lebih menyerupai taman yang luas: tanaman dibiarkan tumbuh bebas, namun pagar-pagar regulasi lingkungan dipasang agar hutan tersebut tidak membakar dirinya sendiri.
 
 Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkungan, seperti:
