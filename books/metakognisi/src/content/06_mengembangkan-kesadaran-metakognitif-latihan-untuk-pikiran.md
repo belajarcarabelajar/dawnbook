@@ -1,4 +1,4 @@
-## Mengembangkan Kesadaran Metakognitif: Latihan untuk Pikiran
+## Mengembangkan Kesadaran Metakognitif
 
 Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar yang bikin kita bisa mengerti, memantau, dan mengatur cara belajar kita sendiri. Kalau kita punya kesadaran metakognitif yang baik, kita jadi lebih peka sama cara pikiran bekerja. Kita tahu mana strategi yang pas dan kapan harus ganti pendekatan. Tentu saja kemampuan ini tidak muncul tiba-tiba. Butuh latihan dan pembiasaan. Kalau kita sering refleksi, lama-lama kemampuan belajar dan memecahkan masalah bakal ikut naik.
 
@@ -6,17 +6,17 @@ Metakognisi, atau "berpikir tentang berpikir," adalah keterampilan dasar yang bi
 
 Di bawah ini ada beberapa langkah praktis buat melatih keterampilan metakognitif sehari-hari.
 
-## 1\. Jurnal Belajar: Peta Jalan Pikiran Kamu
+## 1\. Jurnal Belajar
 
 Jurnal belajar adalah alat sederhana tapi berdampak besar untuk melacak progres belajar dan emosi kamu selama prosesnya. Kalau kamu rutin menulis pikiranmu, perlahan kamu bakal mengenali pola, kelebihan, dan bagian mana dari gaya belajarmu yang masih perlu diperbaiki.
 
-### Cara Memulainya:
+### Cara Memulainya
 
 1. **Pilih Format yang Nyaman:** Boleh pakai buku tulis biasa, catatan di laptop, atau aplikasi jurnal di HP.
 2. **Jadwalkan Waktu Khusus:** Sempatkan 5-10 menit setiap hari, atau sehabis sesi belajar yang lumayan berat.
 3. **Gunakan Pertanyaan Pemandu:** Pertanyaan-pertanyaan ini akan bantu kamu fokus pada sisi metakognitif.
 
-### Contoh Pertanyaan Jurnal Belajar:
+### Contoh Pertanyaan Jurnal Belajar
 
 - **Sebelum Belajar:**
 	- Apa targetku untuk sesi belajar ini?
@@ -43,11 +43,11 @@ Jurnal belajar adalah alat sederhana tapi berdampak besar untuk melacak progres 
 - Memberikan gambaran progres yang sudah dicapai.
 - Membantu mengatur jadwal dan melatih kebiasaan menulis.
 
-## 2\. Refleksi Pasca-Tugas: Belajar dari Pengalaman
+## 2\. Refleksi Pasca-Tugas
 
 Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelajari, gimana prosesnya tadi, dan apa yang bisa diperbaiki ke depannya. Kegiatan ini sangat berguna untuk memetik wawasan berharga dari setiap tugas atau proyek yang sudah kamu kerjakan.
 
-### Langkah-langkah Melakukan Refleksi Pasca-Tugas:
+### Langkah-langkah Melakukan Refleksi Pasca-Tugas
 
 1. **Deskripsikan Tugas dan Hasilnya:** Tuliskan singkat tugas yang baru saja selesai dan apa hasilnya (misal: nilai ujian, atau sekadar berhasil paham materi).
 2. **Analisis Proses:**
@@ -68,7 +68,7 @@ Refleksi pasca-tugas itu intinya mengevaluasi lagi apa yang baru saja kamu pelaj
 
 > **Penting:** Refleksi setelah belajar itu bakal banget ningkatin metakognisi kamu. Kamu jadi tahu apakah strategi yang dipakai efektif atau butuh penyesuaian buat sesi berikutnya.
 
-### Contoh Penerapan:
+### Contoh Penerapan
 
 Setelah mengerjakan soal ujian matematika:
 
@@ -80,7 +80,7 @@ Setelah mengerjakan soal ujian matematika:
 
 Mind map itu sifatnya visual dan sangat ngebantu kalau kamu mau menata informasi yang berantakan di kepala. Buat urusan metakognitif, alat ini pas banget buat bikin rencana belajar atau *problem-solving*. Kamu bisa memetakan strategi, target, sampai nebak masalah apa yang kira-kira bakal muncul nanti. Mind map bikin pikiran kita lebih gampang nangkep pola secara keseluruhan.
 
-### Cara Menggunakan Mind Map untuk Perencanaan:
+### Cara Menggunakan Mind Map untuk Perencanaan
 
 1. **Tentukan Tujuan Utama:** Tulis target belajar atau masalah yang mau diselesaikan di bagian tengah mind map. Misalnya, "Paham Konsep X" atau "Beresin Proyek Y".
 2. **Cabang Utama (Aspek Kognitif):** Bikin cabang-cabang yang isinya bagian penting dari rencanamu. Contoh:
@@ -135,18 +135,18 @@ Mind map itu sifatnya visual dan sangat ngebantu kalau kamu mau menata informasi
         └── Eksternal: Diskusi dengan teman, Kuis online
 ```
 
-## 4\. Diskusi Kelompok Reflektif: Memperluas Perspektif
+## 4\. Diskusi Kelompok Reflektif
 
 Ngobrol dan diskusi bareng teman itu ngasih pengaruh gede buat mendalami suatu materi. Tapi diskusi reflektif ini sedikit beda dari kerja kelompok biasa. Di sini, fokus utamanya adalah nge-bedah proses berpikir, nyari tahu strategi belajar satu sama lain, dan cerita soal tantangan masing-masing. Kegiatan ini ngasih kesempatan buat lihat gimana cara orang lain menangani masalah, yang ujung-ujungnya bisa ngasih kamu ide pendekatan metakognitif yang baru.
 
-### Elemen Kunci Diskusi Kelompok Reflektif:
+### Elemen Kunci Diskusi Kelompok Reflektif
 
 1. **Tujuan Jelas:** Sebelum mulai, sepakati dulu target diskusinya. Mau bahas konsep yang susah, ngevaluasi strategi belajar buat PR kelompok, atau cuma sekadar bagi-bagi pengalaman?
 2. **Lingkungan yang Aman:** Bikin suasana jadi senyaman mungkin supaya semua orang berani cerita soal kegagalan atau kebingungan tanpa takut di-judge.
 3. **Pertanyaan Pemicu Reflektif:** Siapkan pertanyaan yang mancing teman-teman buat introspeksi dan menganalisis proses belajarnya.
 4. **Fokus pada Proses, Bukan Cuma Hasil:** Ajak kelompok buat ngebahas *gimana* mereka bisa dapat jawaban atau pemahaman itu, bukan sekadar bahas *apa* kunci jawabannya.
 
-### Contoh Pertanyaan untuk Diskusi Kelompok Reflektif:
+### Contoh Pertanyaan untuk Diskusi Kelompok Reflektif
 
 - "Waktu belajar topik X, kamu pakai cara apa, dan kenapa pilih cara itu?"
 - "Pas ngerjain tugas ini, kamu paling mentok di mana? Terus ngakalinnya gimana?"

@@ -1,8 +1,8 @@
-## Strategi Metakognitif Praktis: Mengasah Keterampilan Belajar ️
+## Strategi Metakognitif Praktis
 
 Metakognisi pada dasarnya adalah kemampuan memahami dan mengatur proses berpikirmu sendiri. Orang sering menyebutnya "belajar bagaimana cara belajar". Di bagian ini, kita akan membahas beberapa strategi praktis yang bisa langsung diterapkan buat meningkatkan cara belajarmu sehari-hari. Kalau kamu sudah terbiasa dengan strategi-strategi ini, proses belajar akan terasa lebih masuk akal dan efisien.
 
-## 1. Menetapkan Tujuan SMART: Belajar Lebih Terarah
+## 1. Menetapkan Tujuan SMART
 
 Punya tujuan itu langkah awal yang sangat penting saat merencanakan sesuatu. Kalau tujuannya jelas, kamu bisa lebih fokus dan tahu persis sejauh mana progres belajarmu. Salah satu cara yang cukup masuk akal untuk dipakai adalah teknik SMART.
 

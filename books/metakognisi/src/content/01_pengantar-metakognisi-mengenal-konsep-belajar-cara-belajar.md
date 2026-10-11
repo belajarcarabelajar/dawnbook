@@ -1,4 +1,4 @@
-# Pengantar Metakognisi: Mengenal Konsep "Belajar Cara Belajar"
+# Pengantar Metakognisi
 
 Bagian ini membahas sebuah konsep dasar dalam pembelajaran yang dinamakan metakognisi. Intinya, kemampuan ini adalah keterampilan tentang "belajar bagaimana belajar". Metakognisi tidak hanya berfokus pada materi apa yang sedang kamu pelajari. Lebih dari itu, konsep ini menyoroti cara kamu memproses, mencerna, dan mempertahankan informasi tersebut. Saat kamu mulai paham pola kerja pemikiranmu sendiri, proses belajar akan terasa jauh lebih masuk akal dan tertata.
 

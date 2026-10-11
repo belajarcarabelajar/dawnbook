@@ -1,10 +1,10 @@
-## Studi Kasus dan Aplikasi Nyata: Metakognisi dalam Aksi
+## Studi Kasus dan Aplikasi Nyata Metakognisi
 
 Metakognisi, atau "berpikir tentang berpikir", pada dasar-dasarnya adalah kemampuan untuk menyadari sekaligus mengarahkan cara otak kita memproses informasi. Proses ini mencakup perencanaan, pemantauan, hingga evaluasi. Kemampuan ini berguna baik di sekolah, kampus, maupun dunia kerja. Saat terbiasa memantau cara berpikir sendiri, kamu bisa meningkatkan performa belajar, menimbang keputusan dengan lebih tajam, serta menyelesaikan masalah tanpa harus merasa tertekan.
 
 Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam berbagai situasi.
 
-## Studi Kasus 1: Mengatasi Nilai yang Macet
+## 1. Mengatasi Nilai yang Macet
 
 **Skenario Awal:** Seorang mahasiswa bernama Ardi sedang pusing menghadapi kelas statistika. Padahal dia sudah sering membaca materi dan belajar hingga larut malam, tetapi nilai ujiannya terus-terusan berada di bawah rata-rata. Perasaannya mulai frustrasi karena merasa jerih payahnya menguap begitu saja.
 
@@ -23,7 +23,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 **Hasil dan Pembelajaran:** Cara belajar Ardi tidak lagi membabi buta. Nilai ujiannya mulai merangkak naik dan stabil. Ia tidak cuma hafal rumus statistika, tapi juga menemukan ritme belajar yang cocok untuk dirinya. Rasa cemas saat ujian pun turun drastis karena ia tahu betul sejauh mana persiapan yang sudah dilakukan.
 
-## Studi Kasus 2: Merumuskan Keputusan di Lingkungan Kerja
+## 2. Merumuskan Keputusan di Lingkungan Kerja
 
 **Tantangan:** Rina, seorang manajer proyek di sebuah perusahaan teknologi, ditugaskan untuk memilih arah pengembangan produk. Timnya bimbang antara melanjutkan produk A yang punya potensi besar tapi sangat berisiko, atau pindah ke produk B yang lebih aman meski pasar peminatnya lebih kecil.
 
@@ -42,7 +42,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 **Dampak:** Proses yang transparan ini membuat tim Rina lebih percaya diri mengeksekusi rencana. Keputusannya diambil secara rasional dan terukur, dan Rina mendapat apresiasi karena tidak memaksakan egonya sendiri selama rapat penentuan produk.
 
-## Studi Kasus 3: Mempelajari Bahasa Pemrograman Baru
+## 3. Mempelajari Bahasa Pemrograman Baru
 
 **Tujuan Pembelajaran:** Budi, seorang programmer senior, ingin menguasai bahasa pemrograman Rust. Meski sudah terbiasa dengan Python, ia butuh memperbarui keterampilannya agar selaras dengan tren industri terkini.
 
@@ -61,7 +61,7 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 
 **Pencapaian:** Budi berhasil menembus tenggat waktu 3 bulan dengan merilis aplikasi sederhana. Ia menyadari bahwa cara terbaik untuk beradaptasi dengan teknologi baru bukanlah dengan menghafal sintaks, tapi memahami pola pikir bahasa tersebut. Ia jadi punya pola yang jelas saat nanti harus mempelajari hal lain.
 
-## Studi Kasus 4: Menengahi Ego dalam Kerja Tim
+## 4. Menengahi Ego dalam Kerja Tim
 
 **Konflik Proyek:** Sebuah tim pemasaran ditugaskan mengeksekusi kampanye peluncuran produk. Sayangnya, miskomunikasi sering terjadi. Setiap anggota merasa idenya paling benar dan mereka jarang mau meluangkan waktu mendengarkan pandangan orang lain.
 
