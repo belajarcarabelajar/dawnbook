@@ -28,11 +28,11 @@ Gunakan metode ini saat kamu mengalami kejadian spesifik yang menekan atau membu
 
 > **Penting:** Konsistensi lebih berharga daripada durasi. Menulis selama 5 menit setiap hari jauh lebih efektif daripada menulis 2 jam namun hanya dilakukan sebulan sekali.
 
-## 2. Teknik Visualisasi: "The Resilient Self"
+## 2. Visualisasi "The Resilient Self"
 
 Visualisasi berbeda dengan lamunan kosong (daydreaming). Bagi otak, visualisasi yang mendalam mengaktifkan sirkuit saraf yang hampir sama dengan tindakan nyata.
 
-### Latihan: Reverse Mental Rehearsal
+### Reverse Mental Rehearsal
 
 Biasanya, kita memvisualisasikan kegagalan (kecemasan). Kali ini, kita akan membalikkan arusnya:
 
@@ -50,7 +50,7 @@ Gunakan pertanyaan-pertanyaan ini sebagai kompas saat kamu merasa tersesat dalam
 - *Jika sahabat saya mengalami hal yang sama, kata-kata penyemangat apa yang akan saya berikan kepadanya? (Gunakan ini untuk melatih Self-Compassion).*
 - *Kekuatan pribadi apa yang pernah saya gunakan di masa lalu yang bisa membantu saya sekarang?*
 
-## 4. Implementasi Teknis: Tracking Resiliensi
+## 4. Tracking Resiliensi
 
 Bagi kamu yang menyukai data dan struktur, kamu bisa membuat resilience tracker sederhana. Resiliensi dapat dikuantifikasi secara subjektif untuk melihat tren perkembanganmu.
 
@@ -80,7 +80,7 @@ $$
 
 **Real-world Application:** Dengan melihat data di atas, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres ($\text{stress\_level}$) cukup tinggi (7), waktu pemulihan ($\text{recovery\_time\_min}$) kamu jauh lebih cepat (45 menit) dibanding tanggal 25. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
 
-## 5. Aplikasi Dunia Nyata: Skenario "Gagal Proyek"
+## 5. Gagal Memenangkan Tender
 
 **Cerita:** Andi baru saja gagal memenangkan tender proyek besar yang sudah ia persiapkan selama tiga bulan. Perasaan kecewa dan tidak berdaya mulai muncul.
 

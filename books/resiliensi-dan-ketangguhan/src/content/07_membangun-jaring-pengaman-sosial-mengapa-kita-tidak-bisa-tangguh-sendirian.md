@@ -1,4 +1,4 @@
-## Membangun Jaring Pengaman Sosial: Mengapa Kita Tidak Bisa Tangguh Sendirian
+## Membangun Jaring Pengaman Sosial
 
 Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia sangat terampil, memiliki keseimbangan luar biasa, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
 
@@ -6,7 +6,7 @@ Jaring itulah yang kita sebut sebagai **Jaring Pengaman Sosial**.
 
 Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan kecerdasan emosional memang sangat penting. Namun, manusia adalah makhluk sosial secara biologis. Membangun ketangguhan tanpa melibatkan orang lain ibarat mencoba membangun benteng di atas pasir hisap. Materi ini akan mengeksplorasi bagaimana komunitas, teman sebaya, dan hubungan yang sehat menjadi pilar eksternal utama yang menopang kita saat badai hidup menerjang.
 
-### 1. Peran Komunitas: Lebih dari Sekadar Kerumunan
+### 1. Peran Komunitas
 
 Komunitas lebih dari sekumpulan orang yang tinggal di tempat yang sama atau menyukai hobi yang sama. Dalam konteks resiliensi, komunitas merupakan sistem pendukung yang memberikan rasa **memiliki (belonging)** dan **tujuan bersama**.
 
@@ -18,7 +18,7 @@ Komunitas lebih dari sekumpulan orang yang tinggal di tempat yang sama atau meny
 
 > "Resiliensi kolektif terjadi ketika komunitas menggunakan sumber daya bersama untuk beradaptasi dan tumbuh setelah mengalami kesulitan."
 
-### 2. Dukungan Teman Sebaya (Peer Support): Cermin Ketangguhan
+### 2. Dukungan Teman Sebaya (Peer Support)
 
 Ada kekuatan unik yang muncul ketika kita berbicara dengan seseorang yang pernah "berada di posisi kita." Inilah inti dari dukungan teman sebaya.
 
@@ -54,7 +54,7 @@ Dimana:
 
 **Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi ($\text{K} \\times \text{T}$) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
 
-### 4. Aplikasi Dunia Nyata: Membangun Jaring Sebelum Jatuh
+### 4. Membangun Jaring Sebelum Jatuh
 
 Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut saat kamu masih berdiri tegak di atas tali.
 

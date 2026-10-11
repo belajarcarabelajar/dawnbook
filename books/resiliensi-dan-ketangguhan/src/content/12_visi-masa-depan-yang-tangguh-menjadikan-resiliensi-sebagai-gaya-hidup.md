@@ -1,10 +1,10 @@
-## Visi Masa Depan yang Tangguh: Menjadikan Resiliensi Sebagai Gaya Hidup
+## Visi Masa Depan yang Tangguh
 
 Selamat datang di puncak perjalananmu dalam membangun resiliensi. Jika bagian-bagian sebelumnya telah membekalimu dengan "alat" dan "teknik" untuk menghadapi badai, bagian ini akan membantumu membangun **peta navigasi jangka panjang**.
 
 Membangun visi masa depan yang tangguh bukan berarti menciptakan rencana yang kaku di mana segala sesuatunya harus berjalan sempurna. Sebaliknya, ini adalah tentang merancang hidup yang memiliki struktur kuat namun cukup fleksibel untuk menari bersama ketidakpastian.
 
-## 1\. Dari Reaktif Menuju Proaktif: Resiliensi sebagai Identitas
+## 1\. Dari Reaktif Menuju Proaktif
 
 Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat keadaan darurat. Namun, untuk benar-benar tangguh, kita harus mengubah paradigma tersebut.
 
@@ -18,7 +18,7 @@ $$
 
 Jika kapasitas ($\\text{C}$) kamu selalu lebih besar dari tantangan ($\\text{T}$) melalui persiapan jangka panjang, maka hasil pertumbuhan ($\\text{G}$) akan selalu positif, bahkan di tengah masa sulit.
 
-### Analogi: Pohon Bambu vs. Pohon Ek
+### Pohon Bambu vs. Pohon Ek
 
 Pohon ek sangat kuat dan keras, namun ia bisa tumbang dalam badai besar karena ia kaku. Bambu, di sisi lain, sangat fleksibel. Ia merunduk saat angin kencang menerjang, tetapi akarnya sangat dalam dan saling terhubung di bawah tanah. Membangun visi masa depan yang tangguh adalah proses menjadi "Bambu" yang memiliki sistem akar (fondasi) yang tak tergoyahkan.
 
@@ -26,13 +26,13 @@ Pohon ek sangat kuat dan keras, namun ia bisa tumbang dalam badai besar karena i
 
 Bagaimana kita merencanakan masa depan ketika dunia terus berubah? Jawabannya bukan dengan prediksi yang presisi, melainkan dengan **Scenario Planning** (Perencanaan Skenario).
 
-### Langkah 1: Identifikasi "True North" (Nilai Inti)
+### Identifikasi "True North" (Nilai Inti)
 
 Visi yang tangguh berakar pada nilai-nilai yang tidak berubah meskipun situasi berubah.
 
 - *Coba renungkan:* Jika pekerjaan atau status sosialmu hilang besok, nilai apa yang tetap mendefinisikan siapa dirimu? (Contoh: Integritas, Kreativitas, Pengabdian).
 
-### Langkah 2: Teknik "Pre-Mortem"
+### Teknik "Pre-Mortem"
 
 Alih-alih hanya membayangkan kesuksesan, lakukan latihan mental ini:
 
@@ -40,7 +40,7 @@ Alih-alih hanya membayangkan kesuksesan, lakukan latihan mental ini:
 2. Tanyakan: "Apa yang mungkin menyebabkan kegagalan tersebut?"
 3. Bangun sistem mitigasi sekarang untuk risiko-risiko tersebut.
 
-### Langkah 3: Portofolio Keterampilan yang Adaptif
+### Portofolio Keterampilan yang Adaptif
 
 Jangan menaruh semua "telur" resiliensimu pada satu bidang. Miliki diversifikasi keterampilan:
 
@@ -67,7 +67,7 @@ Terkadang, terus-menerus menjadi kuat itu melelahkan. Gaya hidup tangguh mengaku
 
 ## 4\. Aplikasi Nyata dan Skenario
 
-### Kasus: Transisi Karier yang Tidak Terduga
+### Transisi Karier yang Tidak Terduga
 
 Bayangkan Budi, seorang manajer yang divisinya tiba-tiba ditutup karena otomatisasi AI.
 
@@ -77,7 +77,7 @@ Bayangkan Budi, seorang manajer yang divisinya tiba-tiba ditutup karena otomatis
 	2. **Jaring Sosial:** Ia segera menghubungi mentor dan komunitasnya (Bagian 7).
 	3. **Visi Jangka Panjang:** Karena Budi telah membangun *meta-skill* (belajar cepat), ia menggunakan rencana aksinya untuk bertransisi ke bidang baru dalam 6 bulan.
 
-### Contoh Rencana Aksi (Action Plan) Sederhana:
+### Contoh Rencana Aksi (Action Plan) Sederhana
 
 | Area | Tindakan Jangka Panjang | Frekuensi |
 | --- | --- | --- |
@@ -95,7 +95,7 @@ Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga
 
 > "Kita tidak naik ke tingkat harapan kita, kita jatuh ke tingkat sistem kita." , Archilochus
 
-## Kesimpulan: Hidup yang "Antifragile"
+## Hidup yang "Antifragile"
 
 Sebagai penutup dari seluruh topik ini, tujuannya adalah menjadi **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur saat ditekan, dan sesuatu yang *resilient* (tangguh) mampu bertahan saat ditekan, maka sesuatu yang **antifragile** justru menjadi lebih kuat saat menghadapi tekanan dan kekacauan.
 

@@ -1,4 +1,4 @@
-## Menemukan Makna di Balik Tantangan: Seni Bertumbuh Melalui Badai
+## Menemukan Makna di Balik Tantangan
 
 Pernahkah kamu melihat sebuah pohon besar yang batangnya meliuk-liuk tidak beraturan, namun akarnya menancap sangat dalam ke bumi? Seringkali, liukan itu terbentuk karena pohon tersebut harus beradaptasi dengan angin kencang atau rintangan bebatuan saat ia tumbuh. Manusia pun demikian.
 
@@ -38,7 +38,7 @@ Bagaimana mungkin penderitaan menghasilkan pertumbuhan? Bayangkan keyakinanmu te
 
 *Apakah ada keyakinan lamamu yang harus "runtuh" terlebih dahulu sebelum kamu bisa melihat perspektif yang lebih luas hari ini?*
 
-## 4. Logoterapi: Menemukan "Mengapa" di Tengah Penderitaan
+## 4. Logoterapi Viktor Frankl
 
 Viktor Frankl, seorang psikiater dan penyintas kamp konsentrasi Nazi, dalam bukunya *Man’s Search for Meaning*, merumuskan bahwa motivasi utama manusia adalah **pencarian makna**, bukan kesenangan.
 
@@ -56,7 +56,7 @@ Di mana:
 
 **Penting:** Jika penderitaan tidak memiliki makna, hasilnya adalah keputusasaan murni. Namun, ketika kita memberikan **makna $\text{M}$** pada penderitaan tersebut, penderitaan itu berhenti menjadi beban yang menghancurkan dan berubah menjadi tugas untuk diselesaikan.
 
-## 5. Analogi Visual: Kintsugi (Seni Memperbaiki dengan Emas)
+## 5. Kintsugi (Seni Memperbaiki dengan Emas)
 
 Dalam tradisi Jepang, ada seni bernama **Kintsugi**. Ketika sebuah keramik pecah, pengrajin tidak membuangnya atau mencoba menyembunyikan retakannya. Mereka menyatukan kembali kepingan tersebut menggunakan pernis yang dicampur dengan bubuk emas cair.
 
@@ -64,7 +64,7 @@ Hasilnya? Keramik tersebut menjadi lebih kuat dan secara estetika jauh lebih ind
 
 **Pesan moralnya:** Lukamu bukan untuk ditutupi. Luka tersebut adalah bagian dari sejarah pertumbuhanmu yang membuatmu menjadi pribadi yang unik dan bernilai tinggi.
 
-## 6. Aplikasi Praktis: Mengubah Narasi
+## 6. Mengubah Narasi
 
 Untuk beralih dari trauma menuju pertumbuhan, kita perlu melakukan **pemrosesan kognitif yang disengaja**. Berikut adalah langkah-langkah praktisnya:
 
@@ -90,7 +90,7 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
   - Pembentukan komunitas bagi sesama pencari kerja untuk saling mendukung.
   - **Hasil:** Mendapatkan pekerjaan baru yang lebih sesuai dengan nilai-nilainya dan memiliki empati yang jauh lebih besar sebagai pemimpin di masa depan.
 
-## 7. Kesimpulan: Menjadi Lebih dari Sekadar Penyintas
+## 7. Kedaulatan atas Penderitaan
 
 Menemukan makna di balik tantangan bukan berarti kita mensyukuri kejadian buruk yang terjadi. Kita tidak harus menyukai penderitaan tersebut. Namun, kita memiliki kedaulatan untuk menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
 

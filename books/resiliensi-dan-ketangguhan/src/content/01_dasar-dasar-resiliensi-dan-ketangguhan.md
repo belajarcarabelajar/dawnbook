@@ -12,7 +12,7 @@ Secara etimologis, **resiliensi** berasal dari bahasa Latin *resilire*, yang ber
 
 > "Resiliensi bukan tentang tidak pernah jatuh, tetapi tentang seberapa cepat dan kuat kita bangkit setiap kali kita jatuh."
 
-## 2\. Memahami Perbedaan: Ketahanan Mental vs. Ketangguhan
+## 2\. Ketahanan Mental vs. Ketangguhan
 
 Sering kali kita menggunakan istilah "tahan banting" dan "tangguh" secara bergantian. Namun, dalam konteks pengembangan diri, keduanya memiliki nuansa yang berbeda namun saling melengkapi.
 
@@ -58,7 +58,7 @@ Untuk membangun fondasi yang kuat, kita perlu memahami elemen-elemen yang memben
 - **Efikasi Diri:** Keyakinan pada kemampuan diri sendiri untuk memecahkan masalah.
    $$\text{Resiliensi} \approx (\text{Kekuatan Internal} + \text{Dukungan Eksternal}) \times \text{Adaptabilitas}$$
 
-## 5\. Real-World Application: Skenario Kegagalan Proyek
+## 5\. Kegagalan Proyek Peluncuran Produk
 
 Mari kita lihat bagaimana resiliensi dan ketangguhan bekerja dalam praktik nyata.
 

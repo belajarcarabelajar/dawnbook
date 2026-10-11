@@ -1,10 +1,10 @@
-## Fleksibilitas Kognitif dan Adaptasi: Seni Menjadi "Air" di Dunia yang Terus Berubah
+## Fleksibilitas Kognitif dan Adaptasi
 
 Bayangkan kamu sedang mengemudi menuju pertemuan penting menggunakan aplikasi GPS. Tiba-tiba, jalan utama ditutup karena perbaikan darurat. Apa yang kamu lakukan? Apakah kamu berhenti di tengah jalan, marah pada aspal, dan menyerah? Ataukah kamu membiarkan GPS melakukan *recalculating* dan mengikuti rute alternatif dengan tenang?
 
 **Fleksibilitas Kognitif** adalah kemampuan "recalculating" dalam otak kita. Ini adalah kapasitas mental untuk beralih di antara konsep yang berbeda, atau menyesuaikan strategi ketika aturan main dalam hidup tiba-tiba berubah.
 
-## 1. Memahami Fleksibilitas Kognitif: Pohon Oak vs. Bambu
+## 1. Pohon Oak vs. Bambu
 
 Dalam dunia resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan sebatang Bambu saat menghadapi badai besar:
 
@@ -23,7 +23,7 @@ Di era modern, perubahan terjadi dengan kecepatan eksponensial. Keahlian yang re
 2. Lebih kreatif dalam memecahkan masalah (*problem-solving*).
 3. Lebih cepat pulih dari kegagalan karena segera mencari "Rencana B".
 
-## 2. Mekanisme Adaptasi: Siklus OODA
+## 2. Siklus OODA
 
 Untuk melatih kecepatan dalam mencari solusi alternatif, kita bisa meminjam strategi militer yang dikembangkan oleh Kolonel John Boyd, yaitu **Siklus OODA (Observe, Orient, Decide, Act)**.
 
@@ -61,7 +61,7 @@ Otak menjadi malas jika selalu berada di jalur yang sama.
 - Ubah urutan kerja harianmu.
 - **Mengapa?** Ini membangun *neuroplastisitas*, membuat otak terbiasa dengan ketidaknyamanan kecil sehingga siap menghadapi perubahan besar.
 
-## 4. Real-World Application: Skenario Teknik & Bisnis
+## 4. Pivot ke Teknologi Baru
 
 Dalam dunia rekayasa perangkat lunak atau manajemen proyek, fleksibilitas kognitif adalah perbedaan antara sistem yang *fragile* (rapuh) dan *resilient* (tangguh).
 
@@ -107,7 +107,7 @@ Di mana:
 - $A_i$ adalah efektivitas dari alternatif ke-$i$.
 - Semakin banyak alternatif ($n$) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
-## Kesimpulan: Menjadi Cair
+## Menjadi Cair
 
 **Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misal: sampai ke tujuan), namun rute yang kamu ambil bisa berubah seribu kali.
 
