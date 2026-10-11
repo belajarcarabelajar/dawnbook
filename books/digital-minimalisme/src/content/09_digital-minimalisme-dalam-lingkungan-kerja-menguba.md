@@ -38,7 +38,7 @@ Digital minimalis tidak anti-teknologi. Mereka justru memanfaatkan alat bantu di
 
 Jika kamu mendapati dirimu melakukan hal yang sama berulang kali (misalnya, memindahkan data dari email ke spreadsheet), sudah saatnya beralih ke alat otomatisasi.
 
-**Contoh Kasus Teknikal: Otomasi Organisasi File**
+**Contoh Kasus Teknikal Otomasi Organisasi File**
 Seorang profesional kreatif mungkin menghabiskan 15 menit sehari hanya untuk merapikan folder unduhan. Dengan script sederhana (Python), tugas ini bisa dihilangkan selamanya:
 
 ```python

@@ -63,7 +63,7 @@ Selain psikologi internal, ada teknik desain visual yang digunakan untuk memanen
 
 Mari kita lihat bagaimana teori-teori di atas bekerja dalam skenario nyata:
 
-**Skenario: Siang hari yang membosankan di kantor.**
+**Skenario Siang Hari yang Membosankan di Kantor**
 
 1. **Pemicu (Trigger):** Kamu merasa sedikit bosan atau stres (ketidaknyamanan emosional).
 2. **Tindakan (Action):** Secara otomatis, tanganmu merogoh saku dan membuka Instagram.
