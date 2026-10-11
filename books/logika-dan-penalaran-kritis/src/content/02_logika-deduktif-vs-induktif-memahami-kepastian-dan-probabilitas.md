@@ -12,7 +12,7 @@ Penalaran deduktif sering disebut sebagai pendekatan **"Top-Down"** (dari atas k
 
 Jika premis-premisnya benar dan struktur argumennya valid, maka kesimpulannya **pasti** benar. Tidak ada ruang untuk keraguan dalam deduksi yang sempurna.
 
-> **Analogi: Puzzle yang Sempurna**
+> **Analogi Puzzle yang Sempurna**
 > Bayangkan kamu memiliki sebuah kotak puzzle. Kamu tahu pasti ada 100 keping (Premis 1). Kamu telah memasang 99 keping (Premis 2). Maka, secara deduktif, kepingan terakhir yang tertinggal di lantai **pasti** adalah bagian dari puzzle tersebut. Kamu tidak perlu menebak; strukturnya menjamin kebenarannya.
 
 ### Struktur Silogisme
@@ -47,7 +47,7 @@ Berbeda dengan deduksi, penalaran induktif adalah pendekatan **"Bottom-Up"** (da
 
 Kesimpulan dalam penalaran induktif tidak pernah bersifat mutlak 100%. Sebaliknya, ia bersifat **probabilistik** (berdasarkan peluang). Kita berbicara tentang seberapa "kuat" atau "lemah" sebuah argumen, bukan benar atau salah secara mutlak.
 
-> **Analogi: Ramalan Cuaca**
+> **Analogi Ramalan Cuaca**
 > Kamu melihat awan mendung gelap (Observasi 1), merasakan angin kencang (Observasi 2), dan melihat aplikasi cuaca menunjukkan kelembaban tinggi (Observasi 3). Kamu menyimpulkan: "Kemungkinan besar akan hujan." Ini adalah induksi. Apakah pasti hujan? Tidak selalu, tapi sangat mungkin.
 
 ### Jenis-Jenis Induksi
