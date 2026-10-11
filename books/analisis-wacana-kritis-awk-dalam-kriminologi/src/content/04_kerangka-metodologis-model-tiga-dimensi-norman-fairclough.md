@@ -136,11 +136,11 @@ Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek 
 * **Sintaksis:** Bagaimana struktur kalimatnya? Apakah cenderung menggunakan kalimat pasif atau aktif?
 * **Ortografi:** Bagaimana pola penggunaan tanda baca atau singkatan (misalnya: "yg" vs "yang", atau penggunaan tanda seru secara berlebihan).
 
-### 2. Atribusi Kepenulisan (Authorship Attribution)
+### 2. Atribusi Kepenulisan dan Pembandingan Teks Bukti
 
 Atribusi kepenulisan adalah teknik untuk menentukan penulis asli dari sebuah teks yang tidak diketahui identitasnya (seperti surat ancaman, pesan teror, atau dokumen palsu). Ahli bahasa membandingkan teks bukti dengan teks pembanding yang sudah terverifikasi penulisnya.
 
-### 3. Analisis Konten dan Ancaman
+### 3. Analisis Konten untuk Membedakan Ancaman Nyata dari Luapan Emosi
 
 Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 
@@ -153,7 +153,7 @@ Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan 
 
 Untuk memahami cara kriminolog menggunakan bahasa sebagai alat bukti, berikut adalah beberapa skenario analisis mendalam yang dapat dipelajari:
 
-### 1. Tantangan Manipulasi Gaya Bahasa
+### 1. Menjebak Orang Lain lewat Tiruan Gaya Menulis
 Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa yang paling sulit untuk dipalsukan secara konsisten adalah kebiasaan bawah sadar, seperti penempatan koma, struktur kalimat imperatif, atau pola penggunaan kata hubung.
 
 ### 2. Analisis Teks Digital dan Singkatan

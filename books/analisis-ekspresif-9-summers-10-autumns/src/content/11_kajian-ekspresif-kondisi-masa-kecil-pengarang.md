@@ -1,4 +1,4 @@
-## Kajian Ekspresif Kondisi Masa Kecil Pengarang
+## Kondisi Masa Kecil Pengarang
 
 Masa kecil sering kali menjadi tanah humus tempat akar-akar kepribadian dan impian masa depan tumbuh. Bagi Iwan Setyawan, kenangan masa kecil di Batu bukan hanya nostalgia tentang keindahan alam pegunungan, tetapi juga sebuah ruang refleksi yang dipenuhi kesederhanaan dan keprihatinan hidup. Melalui kacamata ekspresif, setiap sudut ingatan masa kanak-kanak ini menyingkap bagaimana benturan realitas ekonomi membentuk daya juang yang membekas kuat dalam karya sastra yang ia lahirkan.
 

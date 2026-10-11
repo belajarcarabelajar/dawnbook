@@ -105,7 +105,7 @@ Melalui pemahaman atas budaya perusahaan, jejaring internal, serta metodologi ke
 
 Memahami dinamika antara pelatihan umum dan spesifik memberikan sudut pandang taktis bagi pekerja maupun pengambil keputusan organisasi dalam mengelola modal manusia.
 
-> **Wawasan Kunci: Keamanan Karir vs Keamanan Kerja**  
+> **Wawasan Kunci tentang Keamanan Karir vs Keamanan Kerja**  
 > Pelatihan spesifik memberikan **keamanan kerja (*job security*)** karena perusahaan enggan melepaskan pekerja yang telah menyerap investasi internal bernilai tinggi. Sebaliknya, pelatihan umum memberikan **keamanan karir (*career security*)** karena keterampilan kamu tidak bergantung pada keberlangsungan satu perusahaan tertentu untuk mempertahankan nilai ekonomis di pasar kerja.
 
 Pertanyaan strategis bagi setiap individu dan manajer:

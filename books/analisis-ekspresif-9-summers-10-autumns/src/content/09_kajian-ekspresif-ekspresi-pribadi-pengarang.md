@@ -1,4 +1,4 @@
-## Kajian Ekspresif tentang Ekspresi Pribadi Pengarang
+## Ekspresi Pribadi Pengarang
 
 Sebuah karya sastra lahir dari kedalaman jiwa penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita melangkah lebih jauh ke dalam ruang batin pengarang melalui pendekatan ekspresif. Dalam ruang ini, novel *9 Summers 10 Autumns* tampil sebagai gerbang nyata yang menyingkap jejak emosional dan perjalanan hidup asli Iwan Setyawan.
 

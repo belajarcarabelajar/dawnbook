@@ -71,7 +71,7 @@ Industri perawatan kulit (*skin care*) adalah contoh sempurna dari persaingan mo
 | **Hambatan Masuk** | Tidak ada | Rendah | Sangat Tinggi |
 | **Iklan** | Tidak diperlukan | **Sangat Penting** | Terbatas (Hanya informasi) |
 
-### Ringkasan Strategis
+### Kunci Tampil Beda di Pasar Monopolistik
 
 Bagi seorang pengusaha di pasar persaingan monopolistik, kunci keberhasilan terletak pada **kemampuan untuk tampil beda**, bukan sekadar mengandalkan efisiensi biaya.
 

@@ -115,7 +115,7 @@ Dalam pengembangan AI, bukti (data) musti dievaluasi untuk menghindari bias. Jik
 - **Evaluasi Bukti:** Lihat basis pertumbuhannya. Jika tahun lalu untung USD 1 dan tahun ini USD 3, itu memang tumbuh 200%, namun secara nominal nilainya tidak seberapa.
 - **Kredibilitas:** Apakah laporan ini diaudit oleh akuntan publik independen (The Big Four)?
 
-## Kesimpulan
+## Poin Kunci
 
 Evaluasi bukti adalah tentang **skeptisisme yang sehat**, bukan sinisme. Sinisme berarti tidak percaya pada apa pun, sedangkan skeptisisme berarti menunda keyakinan sampai ada bukti yang memadai.
 

@@ -8,7 +8,7 @@ Bab ini mengajak pemelajar memahami bahwa kata-kata dalam formulasi hukum, pembe
 
 Secara konseptual, AWK adalah pendekatan interdisipliner yang mempelajari cara kekuasaan sosial, dominasi, dan ketimpangan diproduksi, direproduksi, serta dilawan melalui teks dan ucapan dalam konteks sosial maupun politik.
 
-> **Analogi: Kaca Pembesar dan Filter Warna**
+> **Analogi Kaca Pembesar dan Filter Warna**
 > 
 > Ketika mengamati sebuah berita tentang konflik atau tawuran remaja:
 > 
@@ -124,7 +124,7 @@ Sebagaimana pola garis jemari atau pola pita DNA, setiap individu mengembangkan 
 - **Sintaksis:** Dominasi pemakaian struktur kalimat pasif atau aktif serta kompleksitas klausa.
 - **Ortografi:** Kebiasaan penggunaan tanda baca, pemotongan kata, hingga gaya penyingkatan (seperti *"yg"* versus *"yang"*).
 
-### 2. Atribusi Kepenulisan (Authorship Attribution)
+### 2. Atribusi Kepenulisan untuk Mengidentifikasi Penulis Teks Anonim
 
 Atribusi kepenulisan adalah metodologi ilmiah untuk mengidentifikasi figur penulis asli dari suatu teks anonim (misalnya surat ancaman pemerasan, risalah teror, atau dokumen transaksi elektronik yang dipalsukan). Metode ini bekerja dengan membandingkan teks bukti (*questioned text*) terhadap sampel teks pembanding (*known text*) milik terduga.
 

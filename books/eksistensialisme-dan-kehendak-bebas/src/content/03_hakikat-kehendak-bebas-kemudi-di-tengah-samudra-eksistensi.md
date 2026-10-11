@@ -62,6 +62,6 @@ Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognit
 | **Konsekuensi Etis** | Ketiadaan alibi moral untuk melepaskan tanggung jawab atas tindakan pribadi. |
 | **Tujuan Eksistensial** | Pencapaian otentisitas diri dan penegakan kedaulatan subjek. |
 
-### 7. Sintesis Bab
+### 7. Kehendak Bebas sebagai Fondasi Kedaulatan
 
 Kehendak bebas adalah fondasi kedaulatan eksistensial manusia. Tanpa kehendak bebas, manusia tereduksi menjadi objek mekanis yang sekadar bereaksi terhadap impuls lingkungan. Melalui kehendak bebas, manusia mentransformasikan dirinya menjadi subjek berdaulat yang mengukir makna di tengah luasnya samudra eksistensi.

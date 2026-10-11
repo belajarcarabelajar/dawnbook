@@ -129,7 +129,7 @@ Investasi Asing (FDI) Meningkat ◄── Peningkatan Inovasi & Kapasitas Indust
 3. **Daya Tarik Investasi Asing:** Investor global (*Foreign Direct Investment*) cenderung menanamkan modal pada wilayah yang memiliki pasokan tenaga kerja terampil.
 4. **Ekspansi Penerimaan Negara:** Pertumbuhan PDB meningkatkan pendapatan pajak daerah dan nasional, yang kemudian dialokasikan kembali untuk mendanai riset serta fasilitas publik.
 
-> **Refleksi Kritis: Alokasi Modal Manusia vs *Brain Drain***
+> **Refleksi Kritis tentang Alokasi Modal Manusia vs *Brain Drain***
 > Ketika sebuah negara mendanai pendidikan tinggi bagi warganya namun gagal menyediakan lapangan kerja yang relevan, risiko terjadinya *Brain Drain* (migrasi tenaga terampil ke luar negeri) akan meningkat. Fenomena ini menunjukkan bahwa akumulasi *Human Capital* harus diimbangi dengan penyerapan pasar kerja agar memberi dampak optimal bagi perekonomian domestik.
 
 ---

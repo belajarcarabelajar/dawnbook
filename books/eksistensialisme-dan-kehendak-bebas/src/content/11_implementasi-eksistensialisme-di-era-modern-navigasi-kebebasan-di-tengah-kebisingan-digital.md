@@ -45,6 +45,6 @@ Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai be
 | **Konsumsi Digital** | "Algoritma memaksa atensi tercurah pada konten digital tanpa henti." | "Menegakkan batas otonom dan memikul tanggung jawab atas waktu yang dialokasikan." |
 | **Ekspektasi Sosial** | "Menjalani standar konvensional semata demi menghindari penghakiman sosial." | "Merumuskan haluan hidup secara mandiri dan siap menanggung risiko diferensiasi." |
 
-### 5. Sintesis Bab
+### 5. Kebebasan Sejati di Era Digital
 
 Penerapan eksistensialisme dalam realitas kontemporer bukanlah seruan untuk mengasingkan diri dari teknologi, melainkan ajakan untuk merevolusi disposisi kesadaran. Kebebasan sejati di era digital terartikulasi tatkala manusia berani mempertahankan kedudukannya sebagai subjek pencipta makna di hadapan arus kebisingan informasi yang tak henti-hentinya berusaha mereduksi dirinya menjadi sekadar objek kalkulasi data.

@@ -44,7 +44,7 @@ fn main() {
 
 Berbeda dengan beberapa bahasa pemrograman lain, memberikan `pub` pada sebuah `struct` di Rust **tidak secara otomatis** membuat field (bidang) di dalamnya menjadi publik. Kamu harus menentukan visibilitas setiap field secara individual.
 
-**Analogi: Mesin ATM**  
+**Analogi Mesin ATM**  
 Sebuah ATM adalah objek publik yang bisa kamu lihat dan sentuh. Namun, brankas uang di dalamnya tetap terkunci rapat secara privat. Hanya slot kartu dan layar yang bersifat publik.
 
 ```rust

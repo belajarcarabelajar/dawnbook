@@ -75,7 +75,7 @@ Mari kita lihat bagaimana konsep manajemen ini diterapkan pada skenario nyata:
 3. **Actuating:** Budi memberikan pelatihan cara menyeduh kopi yang nikmat dan cara menyapa pelanggan dengan ramah. Ia memberikan bonus jika target harian tercapai untuk memotivasi karyawan.
 4. **Controlling:** Di akhir bulan, Budi mengecek catatan keuangan. Ternyata hanya terjual 30 cangkir per hari. Budi mengevaluasi: apakah lokasinya kurang ramai? Apakah rasanya kurang konsisten? Budi kemudian memperbaiki rencana untuk bulan depan.
 
-## Kesimpulan
+## Inti Pembahasan
 
 Manajemen tidak hanya sebatas teori di buku teks. Ini adalah instrumen praktis yang membantu manusia mencapai hal-hal besar secara terorganisasi. Dengan memahami **POAC**, kamu memiliki kompas untuk mengelola apa pun, mulai dari tugas kuliah, organisasi mahasiswa, hingga perusahaan rintisan (*startup*) milikmu sendiri.
 

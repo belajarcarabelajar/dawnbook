@@ -102,11 +102,11 @@ Perlu diingat bahwa pulih bukan berarti kamu tidak akan pernah lagi merasakan ke
 
 Cobalah menulis sebuah 'Kontrak Keamanan' kecil untuk dirimu sendiri. Catatlah tiga langkah konkret yang akan kamu lakukan saat mendadak merasa terpicu oleh pasangan atau teman dekat. Simpan catatan tersebut di gawai agar mudah dibaca kembali sebagai pengingat nyata saat situasi sedang terasa sulit.
 
-## Membangun Relasi yang Bermakna
+## Perpaduan Seni dan Keterampilan Sosial dalam Relasi
 
 Membangun relasi yang bermakna merupakan perpaduan antara seni dan keterampilan sosial yang membutuhkan kedalaman emosi, kejujuran, serta investasi waktu yang tulus. Koneksi yang mendalam ini melampaui obrolan basa-basi dan menyentuh nilai-nilai kehidupan, impian besar, serta dukungan timbal balik.
 
-### Pilar Utama Relasi yang Bermakna
+### Empat Pilar Koneksi yang Tulus
 
 - **Mendengarkan secara aktif (Active Listening)**: Hal ini melampaui ucapan yang terdengar, karena kamu juga berupaya menangkap emosi di balik kata-kata tersebut. Dengarkan tanpa menyela atau sibuk memikirkan tanggapan berikutnya.
 - **Keberanian untuk menunjukkan kerentanan (Vulnerability)**: Brené Brown menulis bahwa kerentanan adalah jembatan menuju koneksi yang tulus. Ini berarti berani memperlihatkan diri apa adanya (termasuk ketakutan dan kegagalanmu) bukan hanya menampilkan versi diri yang seolah tanpa cela.
@@ -115,7 +115,7 @@ Membangun relasi yang bermakna merupakan perpaduan antara seni dan keterampilan 
 
 Brené Brown menggambarkan hal ini dengan indah: "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."
 
-### Langkah Praktis untuk Memulai
+### Model Kedalaman Hubungan dan Langkah Kecil
 
 Untuk memberikan gambaran yang lebih jelas tentang bagaimana sebuah hubungan dapat bertumbuh, kita bisa melihat model sederhana berikut:
 

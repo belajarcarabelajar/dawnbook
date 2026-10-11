@@ -48,6 +48,6 @@ Relevansi etika eksistensial terbukti nyata dalam merespons krisis kontemporer, 
 - **Tanggung Jawab Kolektif:** Sekalipun tindakan destruktif terhadap lingkungan dilakukan dalam skala mikro individual, tindakan tersebut menyiratkan validasi atas pola konsumsi yang merusak bumi secara universal.
 - **Ketiadaan Alibi:** Subjek tidak dapat mengeklaim ketidakberdayaan di hadapan sistem, karena sistem global itu sendiri merupakan hasil agregasi dari pilihan-pilihan individual.
 
-### 6. Sintesis Bab
+### 6. Kebebasan Radikal sebagai Imperatif Moral
 
 Kebebasan radikal bukanlah pembenaran atas egoisme subjektif, melainkan sebuah imperatif moral yang menuntut kewaspadaan etis tertinggi. Setiap keputusan individu merupakan kontribusi langsung terhadap perumusan hakikat kemanusiaan. Dengan memikul tanggung jawab penuh atas tindakannya, manusia membuktikan martabat moralnya sebagai makhluk yang berdaulat dan beradab.

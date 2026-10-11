@@ -12,7 +12,7 @@ Dalam bagian ini, kita akan membedah dua raksasa industri (satu dari panggung gl
 
 Apple adalah contoh nyata bagaimana implementasi POAC dijalankan dengan disiplin tinggi namun tetap inovatif. Mari kita bedah bagaimana mereka menggunakan kerangka kerja ini untuk bangkit dari ambang kebangkrutan di tahun 1997 menjadi perusahaan bernilai triliunan dolar.
 
-### A. Fokus dan Diferensiasi
+### A. Planning lewat Fokus dan Diferensiasi
 
 Saat Steve Jobs kembali ke Apple pada tahun 1997, langkah pertama yang ia lakukan adalah memangkas 70% lini produk yang membingungkan.
 
@@ -20,21 +20,21 @@ Saat Steve Jobs kembali ke Apple pada tahun 1997, langkah pertama yang ia lakuka
 - **Strategi:** Memangkas portofolio produk dan berfokus hanya pada empat kategori utama (desktop dan laptop untuk pasar profesional serta konsumen biasa).
 - **Target jangka panjang:** Membangun ekosistem terintegrasi yang mengunci pengguna dalam layanan terpadu seperti iCloud, iPhone, dan Mac.
 
-### B. Struktur Berbasis Keahlian
+### B. Organizing lewat Struktur Berbasis Keahlian
 
 Berbeda dengan perusahaan besar lainnya yang menggunakan struktur divisional (berdasarkan produk), Apple menggunakan **struktur fungsional**.
 
 - **Keahlian di atas segalanya:** Para pemimpin divisi wajib menguasai aspek teknis bidang mereka. Sebagai contoh, kepala desain harus merupakan desainer terbaik, tidak hanya bertindak sebagai administrator.
 - **Kolaborasi lintas fungsi:** Tim-tim kecil dibentuk dengan fokus spesifik guna menjaga kerahasiaan sekaligus mempercepat pengembangan produk.
 
-### C. Kepemimpinan yang Inspiratif
+### C. Actuating lewat Kepemimpinan yang Inspiratif
 
 Di Apple, pelaksanaan digerakkan oleh budaya perfeksionisme dan inovasi.
 
 - **Gaya kepemimpinan:** Steve Jobs dikenal dengan kemampuan memotivasi tim hingga melampaui batas kemampuan biasa, sementara Tim Cook menyempurnakan efisiensi rantai pasok dengan presisi tinggi.
 - **Saluran komunikasi:** Penyelenggaraan pertemuan rutin internal (Town Hall) serta presentasi produk baru yang dikemas secara teatrikal memastikan seluruh elemen perusahaan memahami visi bersama.
 
-### D. Standar Kualitas yang Kejam
+### D. Controlling lewat Standar Kualitas yang Kejam
 
 Apple memiliki kontrol yang sangat ketat terhadap rantai pasokan dan kualitas produk.
 
@@ -45,22 +45,22 @@ Apple memiliki kontrol yang sangat ketat terhadap rantai pasokan dan kualitas pr
 
 Gojek menunjukkan bagaimana fungsi POAC diterapkan secara dinamis dalam lingkungan bisnis yang bergerak sangat cepat.
 
-### A. Memecahkan Masalah Nyata
+### A. Planning dengan Memecahkan Masalah Nyata
 
 - **Pemecahan masalah di lapangan:** Nadiem Makarim mengidentifikasi ketidakefisienan ojek pangkalan, seperti waktu tunggu yang lama dan tarif tidak pasti.
 - **Rencana strategis:** Menciptakan ekosistem digital terpadu yang mempertemukan penyedia jasa dengan konsumen secara langsung dan instan.
 
-### B. Skalabilitas dan Agilitas
+### B. Organizing untuk Skalabilitas dan Agilitas
 
 - **Struktur tim lincah (agile):** Organisasi dipecah menjadi kelompok kerja mandiri seperti "Tribes" dan "Squads" (mengadopsi pola kerja Spotify) untuk mengelola unit bisnis terpisah seperti GoFood dan GoPay.
 - **Akuisisi talenta:** Merekrut tenaga ahli teknologi berpengalaman dari pusat teknologi global seperti India dan Singapura untuk memperkuat infrastruktur sistem.
 
-### C. Budaya "Growth Mindset"
+### C. Actuating lewat Budaya "Growth Mindset"
 
 - **Insentif dan kesejahteraan mitra:** Menyusun sistem bonus harian serta fasilitas asuransi kesehatan demi menjaga loyalitas pengemudi di jalanan.
 - **Budaya eksperimen cepat:** Mendorong tim internal untuk berani mencoba ide baru dan memetik pelajaran dari kegagalan tanpa takut disalahkan (*fail fast, learn faster*).
 
-### D. Pengawasan Berbasis Data (Data-Driven)
+### D. Controlling lewat Pengawasan Berbasis Data (Data-Driven)
 
 Gojek menggunakan algoritma canggih untuk melakukan pengawasan.
 

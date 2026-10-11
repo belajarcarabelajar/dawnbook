@@ -58,7 +58,7 @@ Ketika semua keterampilan yang telah "disederhanakan" dan dilatih secara terpisa
 
 Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nyata:
 
-**Skenario: Latihan Keterampilan Variasi Stimulus**
+**Skenario Latihan Keterampilan Variasi Stimulus**
 
 - **Subjek:** Ibu Sarah, calon guru Biologi.
 - **Topik:** Proses Fotosintesis.

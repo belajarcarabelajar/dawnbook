@@ -45,7 +45,7 @@ Selain skor Aldrete yang memadai, pemindahan dari PACU juga mensyaratkan beberap
 
 ## Pengalaman Pasien di PACU
 
-**Skenario: Budi, 8 Tahun, Pasca-Tonsilektomi**
+**Skenario Budi Berusia 8 Tahun Pasca-Tonsilektomi**
 
 *   **Menit 0–15**: Budi dipindahkan ke PACU dengan masker oksigen dalam kondisi tertidur lelap. Perawat memantau nadinya setiap 5 menit sekali.
 *   **Menit 15–45**: Saat pengaruh bius mulai berkurang, Budi tampak gelisah dan mencoba menarik masker oksigennya. Perawat dengan sigap membantu memiringkan posisi tubuhnya ke arah lateral untuk mengamankan jalan napas sekaligus memeriksa rembesan darah di sekitar leher.

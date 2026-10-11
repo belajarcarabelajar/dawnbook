@@ -53,6 +53,6 @@ Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (sepert
 - **Respon Pasif:** Mengidentifikasikan esensi diri secara kaku dengan status fungsional masa lalu, sehingga kehilangan peran sosial dianggap sebagai kehancuran eksistensi.
 - **Respon Eksistensial Otentik:** Menyadari bahwa peran masa lalu hanyalah faktisitas historis. Subjek menggunakan ruang kebebasan baru untuk merumuskan ulang proyek eksistensialnya melalui praksis yang selaras dengan nilai-nilai otentik.
 
-### 5. Sintesis Bab
+### 5. Makna sebagai Konstruksi Sadar
 
 Makna bukanlah artefak metafisik yang tertanam di kosmos untuk ditemukan secara pasif. Makna adalah konstruksi sadar yang dirajut oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek sejati atas keberadaannya.

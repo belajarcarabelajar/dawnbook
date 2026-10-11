@@ -75,7 +75,7 @@ $$
 
 ## Guru Biologi Menjelaskan Ekosistem
 
-**Skenario: Guru Biologi menjelaskan tentang Ekosistem.**
+**Skenario Penjelasan Ekosistem oleh Guru Biologi**
 
 1. **Variasi Stimulus (Gaya):** Guru memulai kelas dengan berdiri di tengah siswa (bukan di depan). Ia berbicara dengan nada misterius (Variasi Suara) tentang hutan hujan Amazon.
 2. **Variasi Stimulus (Media):** Guru menunjukkan sebuah botol berisi ekosistem mini (terrarium) agar siswa bisa melihat langsung (Media Taktil).

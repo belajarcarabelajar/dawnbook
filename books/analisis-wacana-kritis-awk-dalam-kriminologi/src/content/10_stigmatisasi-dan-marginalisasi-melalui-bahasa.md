@@ -118,11 +118,11 @@ Sama seperti sidik jari atau DNA, setiap orang memiliki **idiolek**. Idiolek ada
 - **Sintaksis:** Struktur kalimat yang digunakan, apakah cenderung dominan kalimat pasif atau aktif.
 - **Ortografi:** Kebiasaan penggunaan tanda baca atau singkatan (misalnya "yg" vs "yang", atau penggunaan tanda seru berlebihan).
 
-#### 2. Atribusi Kepenulisan (Authorship Attribution)
+#### 2. Atribusi Kepenulisan pada Teks Tanpa Identitas Penulis
 
 Atribusi kepenulisan adalah teknik untuk menentukan siapa penulis asli dari sebuah teks yang tidak diketahui identitasnya (seperti surat ancaman, pesan teror, atau dokumen palsu). Ahli bahasa membandingkan teks bukti dengan teks pembanding yang sudah dipastikan penulisnya.
 
-#### 3. Analisis Konten dan Ancaman
+#### 3. Memilah Ancaman Serius dari Ungkapan Emosional
 
 Dalam kriminologi, penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 

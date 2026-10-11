@@ -16,7 +16,7 @@ $$
 \text{Daya Beli} \ (\text{Purchasing Power}) = \frac{\text{Pendapatan} \ (I)}{\text{Tingkat Harga} \ (P)}
 $$
 
-**Analogi: Ember yang Bocor**
+**Analogi Ember yang Bocor**
 
 > Bayangkan kemandirian finansialmu adalah sebuah ember yang ingin kamu isi penuh dengan air (tabungan). Namun, ember tersebut memiliki lubang-lubang kecil (biaya langganan, kenaikan harga sewa, kenaikan harga pangan). Masalahnya, di era sekarang, lubang-lubang tersebut membesar lebih cepat daripada debit air yang kamu tuangkan ke dalamnya.
 

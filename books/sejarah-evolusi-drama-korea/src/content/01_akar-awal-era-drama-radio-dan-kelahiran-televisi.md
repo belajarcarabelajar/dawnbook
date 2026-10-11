@@ -14,7 +14,7 @@ Sejarah drama Korea dimulai pada **16 Februari 1927**, dengan berdirinya stasiun
 
 Konteks sejarah saat itu cukup rumit karena Korea berada di bawah penjajahan Jepang. Akibatnya, siaran harus dilakukan dalam dua bahasa, yaitu Jepang dan Korea. Di tengah situasi inilah lahir drama radio pertama berjudul *Kkot-jang-su* (Penjual Bunga) pada tahun 1927. Bagi masyarakat setempat, drama radio berfungsi sebagai sarana hiburan langka sekaligus cara gerilya untuk melestarikan identitas budaya dan bahasa Korea dari represi penjajah.
 
-> **Analogi: Theater of the Mind**
+> **Analogi Theater of the Mind**
 > Drama radio ibarat sebuah *theater of the mind*. Tanpa dekorasi panggung atau kostum mewah, aktor harus menyampaikan emosi, jarak, dan tindakan hanya melalui intonasi suara dan efek suara manual (seperti meremas kertas untuk suara api atau memukul kelapa untuk menirukan suara langkah kuda).
 
 ## 2. Zaman Keemasan Radio (Pasca-Kemerdekaan & 1950-an)

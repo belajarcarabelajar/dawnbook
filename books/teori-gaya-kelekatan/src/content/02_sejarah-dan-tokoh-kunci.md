@@ -75,7 +75,7 @@ Jika kita mengamati interaksi anak dan orang tua di sekitar kita, pola *base cam
 
 Riset dari Bowlby dan Ainsworth menunjukkan bahwa kebutuhan untuk merasa aman adalah kebutuhan dasar manusia. Rasa aman inilah yang menjadi dasar bagi kita untuk membangun hubungan yang lebih sehat dan mendalam saat dewasa.
 
-## Membangun Relasi yang Bermakna
+## Dari Obrolan Ringan ke Hubungan yang Mendalam
 
 Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang mendalam melampaui obrolan ringan (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 

@@ -65,7 +65,7 @@ Italia akhirnya memenangkan Piala Dunia 1934 setelah mengalahkan Cekoslowakia di
 
 **Penting:** Kemenangan ini digunakan Mussolini untuk memperkuat persatuan domestik. Rakyat Italia merasa bangga, dan bagi Mussolini, hal itu membuktikan bahwa di bawah kepemimpinannya, Italia telah kembali menjadi "Penguasa Dunia".
 
-## Kesimpulan
+## Poin Penting
 
 Piala Dunia 1934 mengajarkan kita bahwa sepak bola tidak pernah steril dari politik. Di tangan seorang diktator seperti Mussolini, bola sepak berubah menjadi alat komunikasi massa yang sangat efektif untuk menanamkan ideologi fasisme.
 

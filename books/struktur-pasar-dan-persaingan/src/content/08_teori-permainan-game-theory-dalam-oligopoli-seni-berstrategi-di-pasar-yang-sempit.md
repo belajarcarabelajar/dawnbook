@@ -93,7 +93,7 @@ Dinamika persaingan di industri telekomunikasi (seperti Telkomsel, XL, dan Indos
 
 Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang relatif setara. Mereka telah mencapai titik keseimbangan di mana setiap pemain enggan menurunkan harga secara drastis karena menyadari bahwa tindakan tersebut akan langsung direspon oleh pesaing.
 
-### Ringkasan Strategis
+### Inti Teori Permainan dalam Oligopoli
 
 - **Interdependensi** merupakan karakteristik utama dari struktur pasar oligopoli.
 - **Dilema Narapidana** menjelaskan penyebab sulitnya mempertahankan kerja sama akibat adanya dorongan individual untuk berkhianat.

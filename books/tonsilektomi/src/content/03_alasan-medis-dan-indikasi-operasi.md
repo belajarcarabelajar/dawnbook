@@ -72,12 +72,12 @@ Selain faktor infeksi dan ukuran amandel, ada beberapa kondisi mendesak lain yan
 
 Mari kita ulas contoh kasus nyata agar kamu bisa melihat bagaimana kriteria di atas diterapkan:
 
-**Kasus A: Budi (7 tahun)**  
+**Kasus Budi (7 tahun)**  
 Budi mendengkur keras setiap malam saat tidur. Ibunya menyadari bahwa napas Budi kerap kali tampak berhenti selama beberapa detik sebelum akhirnya ia tersentak bangun. Guru di sekolah juga mengeluhkan bahwa Budi sulit berkonsentrasi dan sering mengantuk di kelas. Berdasarkan pemeriksaan medis, amandel Budi membengkak hingga **Grade +4**.
 
 - **Keputusan:** Tindakan operasi sangat direkomendasikan karena kondisi **Obstructive Sleep Apnea (OSA)** yang dialaminya berpotensi menghambat tumbuh kembang fisik dan mental.
 
-**Kasus B: Siska (25 tahun)**  
+**Kasus Siska (25 tahun)**  
 Siska sempat mengeluhkan sakit tenggorokan sebanyak dua kali sepanjang tahun lalu. Terkadang ia merasa amandelnya mengganjal, tetapi ia tidak pernah mengalami demam tinggi atau kesulitan bernapas saat tidur.
 
 - **Keputusan:** Prosedur pembedahan **tidak disarankan** karena gejala tersebut belum memenuhi kriteria medis yang kuat, sehingga risiko operasi dianggap melebihi potensi manfaatnya.

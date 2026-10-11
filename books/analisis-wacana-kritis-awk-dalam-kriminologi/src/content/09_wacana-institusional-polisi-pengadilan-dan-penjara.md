@@ -87,7 +87,7 @@ Sama halnya dengan karakter fisik sidik jari atau DNA, setiap individu memiliki 
 - **Sintaksis:** Kecenderungan pola struktur kalimat (dominasi kalimat aktif versus pasif).
 - **Ortografi:** Kebiasaan penggunaan tanda baca, tata tulis, dan gaya pemendekan kata.
 
-#### 2. Atribusi Kepenulisan (*Authorship Attribution*)
+#### 2. Atribusi Kepenulisan pada Dokumen Anonim
 
 Teknik statistik dan kebahasaan untuk mengidentifikasi penulis asli dari dokumen anonim (seperti surat ancaman, pesan pemerasan, atau pemalsuan dokumen) dengan membandingkan teks bukti terhadap sampel teks autentik pembanding.
 
@@ -115,7 +115,7 @@ Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis ber
 4. **Korelasinya dengan Profiling Kriminal (*Criminal Profiling*):**  
    Penggunaan istilah medis yang sangat spesifik berdampingan dengan tata bahasa yang berantakan pada dokumen ancaman atau pemerasan menunjukkan profil tersangka yang memiliki paparan pengetahuan teknis khusus, namun sedang berada di bawah tekanan emosional tinggi atau mencoba mengaburkan latar belakang pendidikannya.
 
-### Kesimpulan
+### Inti Pembahasan Wacana Institusional
 
 Wacana institusional dan linguistik forensik dalam kriminologi membuktikan bahwa bahasa bukan sekadar sarana penyampaian pesan. Bahasa adalah medan pertarungan kekuasaan, alat bukti ilmiah, sekaligus cermin dari relasi otoritas negara terhadap masyarakat. Melalui Analisis Wacana Kritis, ketidakadilan yang terselubung di balik bahasa formal birokrasi dapat diurai dan dikritisasi secara objektif.
 

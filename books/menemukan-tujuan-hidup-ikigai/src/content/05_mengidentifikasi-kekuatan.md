@@ -1,4 +1,4 @@
-## Mengidentifikasi Kekuatan
+## Mengidentifikasi Kekuatan dari Apa yang Kamu Kuasai
 
 Perjalanan Ikigai terus berlanjut. Setelah menggali apa yang kamu cintai, sekarang waktunya masuk ke pilar kedua: **Apa yang Kamu Kuasai**. Di sini kita akan mengenali bakat alami, keterampilan yang sudah terbentuk, serta area keahlian unik milikmu. Mengenali kekuatan-kekuatan ini menjadi fondasi untuk membangun tujuan hidup yang terarah.
 

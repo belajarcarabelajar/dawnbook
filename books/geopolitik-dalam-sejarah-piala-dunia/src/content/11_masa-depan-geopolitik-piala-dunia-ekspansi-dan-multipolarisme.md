@@ -88,7 +88,7 @@ analyze_shift(influence_2000, influence_2034_forecast)
 
 *Hasil simulasi di atas menunjukkan penurunan dominasi tradisional dan redistribusi kekuatan ke wilayah-wilayah yang sedang berkembang.*
 
-## Kesimpulan
+## Benang Merah
 
 Masa depan turnamen ini bertumpu pada **skala dan konektivitas**. Perkembangan dari 13 tim di Uruguay hingga mencapai 48 tim di Amerika Utara mencerminkan bagaimana hubungan antarbangsa berevolusi dari sekat-sekat isolasi menuju jaringan global yang rumit.
 

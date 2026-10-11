@@ -67,13 +67,13 @@ Memahami teori kelekatan bukan bertujuan untuk menyalahkan orang tua atas masa l
 * Hubungan awal masa kecil membentuk peta mental dasar kita dalam memandang dunia.
 * Peta mental ini tidak bersifat permanen. Gaya kelekatan bisa berubah dan disembuhkan seiring bertambahnya usia, kedewasaan, dan kesadaran diri.
 
-## Membangun Relasi yang Bermakna
+## Relasi Bermakna sebagai Seni dan Keterampilan Sosial
 
 Membangun relasi yang bermakna adalah perpaduan seni dan keterampilan sosial yang memerlukan kedalaman emosional, kejujuran, serta investasi waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) untuk menyentuh aspek nilai kehidupan, impian, dan dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
-### Pilar Utama Relasi yang Bermakna
+### Empat Pilar Koneksi yang Mendalam
 
 * **Mendengarkan Secara Aktif (*Active Listening*):** Mendengarkan secara aktif berarti menangkap emosi di balik setiap ucapan, bukan hanya mendengar kata-katanya. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
 * **Kerentanan (*Vulnerability*):** Peneliti Brené Brown menyebutkan bahwa kerentanan adalah jembatan menuju koneksi. Hal ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya menampilkan citra "sempurna".
@@ -82,7 +82,7 @@ Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
 > "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
 
-## Langkah Praktis untuk Memulai
+## Persamaan Kedalaman Relasi dan Contoh Tindakan
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa membayangkan sebuah "persamaan" sederhana tentang kedalaman relasi:
 

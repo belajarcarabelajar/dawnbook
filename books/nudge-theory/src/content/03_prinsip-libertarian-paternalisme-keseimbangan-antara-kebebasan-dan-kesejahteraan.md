@@ -48,13 +48,13 @@ Untuk dikategorikan sebagai tindakan Libertarian Paternalisme, sebuah intervensi
 
 Mari kita lihat bagaimana prinsip ini bekerja dalam skenario pendaftaran dana pensiun karyawan.
 
-**Skenario A: Pendekatan Tradisional (Laissez-faire)**  
+**Pendekatan Tradisional (Laissez-faire)**  
 Perusahaan memberikan formulir kosong. Karyawan harus proaktif mengisi data untuk menabung. Hasilnya, banyak orang menunda karena malas berurusan dengan dokumen, meskipun mereka tahu menabung itu penting. Pendekatan ini menghargai kebebasan, tetapi gagal mendorong kesejahteraan.
 
-**Skenario B: Pendekatan Otoriter (Mandat)**  
+**Pendekatan Otoriter (Mandat)**  
 Pemerintah mewajibkan setiap karyawan memotong 10% gaji tanpa terkecuali. Langkah ini menjamin kesejahteraan, tetapi melanggar kebebasan individu untuk mengelola uangnya sendiri.
 
-**Skenario C: Libertarian Paternalisme (Automatic Enrollment)**  
+**Pendekatan Libertarian Paternalisme (Automatic Enrollment)**  
 Karyawan secara otomatis terdaftar untuk menabung 5% dari gaji mereka. Namun, di formulir tersebut ada kotak kecil yang bisa dicentang jika mereka ingin berhenti atau mengubah jumlahnya.
 
 Hasilnya sangat menarik. Tingkat tabungan karyawan melonjak drastis karena sebagian besar orang cenderung mengikuti pengaturan bawaan. Namun, kebebasan mereka tidak hilang. Siapa saja yang membutuhkan uang tunai dalam waktu dekat bisa membatalkan kepesertaan mereka dengan mudah.

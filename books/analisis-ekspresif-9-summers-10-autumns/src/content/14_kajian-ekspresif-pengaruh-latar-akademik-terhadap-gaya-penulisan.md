@@ -1,4 +1,4 @@
-## Kajian Ekspresif Pengaruh Latar Akademik terhadap Gaya Penulisan
+## Pengaruh Latar Akademik terhadap Gaya Penulisan
 
 ### Pengaruh Keilmuan Statistika terhadap Struktur Diksi
 

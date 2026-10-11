@@ -52,7 +52,7 @@ Herzberg membagi faktor motivasi menjadi dua bagian penting:
 - **Hygiene Factors (Faktor Kesehatan):** Meliputi gaji, kenyamanan tempat kerja, dan kebijakan organisasi. Jika faktor-faktor ini tidak terpenuhi dengan baik, karyawan akan merasa tidak puas. Namun, terpenuhinya faktor ini hanya membuat karyawan berada di posisi netral (tidak tidak puas), belum tentu membuat mereka termotivasi.
 - **Motivator Factors:** Meliputi kesempatan berprestasi, pengakuan, tanggung jawab, serta pengembangan diri. Faktor-faktor inilah yang benar-benar memicu dorongan internal untuk berkinerja lebih baik.
 
-### C. Teori Harapan (Expectancy Theory) - Victor Vroom
+### C. Teori Harapan Victor Vroom (Expectancy Theory)
 Teori ini menggambarkan motivasi $M$ secara matematis sebagai hasil perkalian dari tiga elemen:
 $$
 M = E \times I \times V
@@ -67,7 +67,7 @@ Apabila salah satu dari ketiga variabel di atas bernilai nol, maka motivasi seca
 
 ## 4. Memulihkan Semangat Tim Pengembang
 
-**Studi Kasus: Tim Pengembang Perangkat Lunak Menjelang Batas Waktu**
+**Studi Kasus Tim Pengembang Perangkat Lunak Menjelang Batas Waktu**
 
 Sebuah tim pengembang sedang berkejaran dengan tenggat waktu penyelesaian aplikasi baru dalam dua minggu. Namun, semangat tim menurun akibat beban kerja lembur yang terus-menerus.
 

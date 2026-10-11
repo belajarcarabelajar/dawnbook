@@ -112,7 +112,7 @@ Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis d
 
 Sebagai latihan tambahan, cobalah perhatikan satu iklan di televisi atau media sosial hari ini. Identifikasi konklusi yang mereka tawarkan (biasanya mengajak membeli produk) dan premis-premis yang mereka gunakan untuk membujukmu. Evaluasi apakah premis tersebut berupa fakta atau sekadar opini yang dikemas seolah-olah fakta.
 
-## Kesimpulan
+## Intisari
 
 Memahami anatomi argumen adalah langkah pertama untuk menjadi seorang pemikir kritis yang tidak mudah dimanipulasi. Dengan mampu memisahkan premis dari konklusi, dan fakta dari opini, kamu bisa melihat kerangka berpikir seseorang dengan lebih jernih.
 

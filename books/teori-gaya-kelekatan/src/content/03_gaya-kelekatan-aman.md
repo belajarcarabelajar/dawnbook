@@ -96,13 +96,13 @@ Memahami gaya kelekatan aman memberikan kita peta tentang arah yang perlu dituju
 
 Otak kita bersifat dinamis (plastis). Melalui kesadaran diri dan hubungan yang sehat di masa dewasa, seseorang dapat mencapai apa yang disebut dengan **Earned Security** (Keamanan yang Diperoleh).
 
-## 8. Membangun Relasi yang Bermakna
+## 8. Kedalaman Emosional, Kejujuran, dan Waktu
 
 Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi ini melampaui obrolan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
-### Pilar Utama Relasi yang Bermakna
+### Mendengarkan, Kerentanan, Kehadiran, dan Empati
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Mendengarkan secara aktif berarti menangkap emosi di balik kata-kata yang diucapkan. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapanmu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) daripada sekadar memamerkan sisi "sempurna" dirimu.
@@ -111,7 +111,7 @@ Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
 
-### Langkah Praktis untuk Memulai
+### Persamaan Sederhana dan Dua Tindakan Kecil
 
 Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
 

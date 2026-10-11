@@ -82,7 +82,7 @@ cat halo_dunia.txt
 
 Tanpa peran kernel, pembuat aplikasi `cat` harus menulis kode khusus untuk setiap merek dan tipe penyimpanan yang ada di dunia, suatu pekerjaan yang hampir mustahil dilakukan.
 
-## Ringkasan Konsep
+## Intisari
 
 Untuk memastikan pemahamanmu, mari kita tinjau kembali beberapa poin penting yang telah dibahas:
 

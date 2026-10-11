@@ -83,7 +83,7 @@ Perancang aerodinamika mengandalkan komputasi dinamika fluida (*Computational Fl
 
 ### 5. Studi Kasus dan Aplikasi Lapangan
 
-**Studi Operasional: Efisiensi Armada Komersial**
+**Studi Operasional Efisiensi Armada Komersial**
 
 Ketika sebuah maskapai penerbangan melakukan modifikasi *retrofit* dengan memasang *Split Scimitar Winglets* pada armada pesawat lorong tunggal (*narrow-body*):
 

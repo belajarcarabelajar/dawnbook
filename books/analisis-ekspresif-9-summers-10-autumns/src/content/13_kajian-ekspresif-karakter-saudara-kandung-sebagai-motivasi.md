@@ -1,4 +1,4 @@
-## Kajian Ekspresif Karakter Saudara Kandung sebagai Motivasi
+## Karakter Saudara Kandung sebagai Motivasi
 
 ### Dukungan Moral Saudara Kandung
 

@@ -66,7 +66,7 @@ Ini adalah aturan yang lebih spesifik dalam fisika partikel. Partikel seperti el
 
 Hukum ini menyatakan bahwa total bilangan lepton harus tetap sama di kedua sisi persamaan.
 
-**Studi Kasus: Peluruhan Beta Minus ($\beta^-$)**
+**Studi Kasus Peluruhan Beta Minus ($\beta^-$)**
 
 <div>
 $$

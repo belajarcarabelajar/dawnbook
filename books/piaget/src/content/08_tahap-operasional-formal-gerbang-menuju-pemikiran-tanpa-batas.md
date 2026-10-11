@@ -73,7 +73,7 @@ Remaja mulai kritis terhadap aturan dan otoritas. Mereka sering membayangkan ver
 
 Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau merancang sistem.
 
-**Contoh Kasus: Troubleshooting Jaringan**
+**Contoh Kasus Troubleshooting Jaringan**
 Seorang teknisi remaja memakai logika deduktif saat internet rumah mati:
 1. **Hipotesis 1:** Masalah ada di router. (Cara tes: lihat lampu indikator).
 2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Cara tes: cek koneksi rumah tetangga).

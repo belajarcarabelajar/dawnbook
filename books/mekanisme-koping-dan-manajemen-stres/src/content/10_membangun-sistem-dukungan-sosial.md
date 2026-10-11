@@ -65,7 +65,7 @@ Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan
 
 Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata:
 
-**Skenario: *Burnout* di Tempat Kerja**
+**Skenario *Burnout* di Tempat Kerja**
 *Andi merasa sangat tertekan karena beban kerja yang berlebihan dan tenggat waktu yang ketat.*
 
 | Pendekatan | Tindakan Andi | Hasil yang Dirasakan |

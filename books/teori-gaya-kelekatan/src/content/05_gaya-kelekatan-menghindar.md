@@ -80,7 +80,7 @@ Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah
 | **Kebutuhan Utama** | Kebebasan, otonomi, ruang pribadi. |
 | **Ketakutan Terbesar** | Kehilangan kemandirian, penolakan jika menunjukkan kerentanan. |
 
-## Membangun Relasi yang Bermakna
+## Hubungan Bernilai Tinggi Melampaui Basa-Basi
 
 Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
 
@@ -97,7 +97,7 @@ Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
 > "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
 
-## Langkah Praktis untuk Memulai
+## Menerapkan Rumus Relasi lewat Tindakan Nyata
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
 

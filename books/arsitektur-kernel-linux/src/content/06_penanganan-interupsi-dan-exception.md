@@ -111,7 +111,7 @@ Mari kita lihat apa yang terjadi saat kamu menekan tombol "A" di keyboard:
 
 Semua ini terjadi dalam hitungan milidetik, memberikan ilusi bahwa komputer melakukan segalanya secara bersamaan.
 
-## Ringkasan Konsep
+## Perbandingan Interupsi dan Exception
 
 | Fitur | Interupsi (Hardware) | Exception (Software) |
 | --- | --- | --- |

@@ -85,6 +85,6 @@ Seringkali, saat menghadapi masalah moral, kita terjebak dalam kesalahan logika:
 
 > **Pesan Penting:** Penalaran etis yang kuat membutuhkan kejujuran intelektual untuk mengakui bias kita sendiri sebelum menghakimi orang lain.
 
-### Kesimpulan
+### Yang Perlu Kamu Ingat
 
 Penalaran etis bukan tentang menjadi "paling suci," melainkan tentang menjadi **paling sadar**. Dengan mengintegrasikan logika yang tajam dan pertimbangan nilai yang mendalam, kita bisa mengambil keputusan yang tidak hanya cerdas secara strategis, tetapi juga bertanggung jawab secara moral.

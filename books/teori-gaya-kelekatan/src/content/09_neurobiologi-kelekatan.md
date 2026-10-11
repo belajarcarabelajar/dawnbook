@@ -84,7 +84,7 @@ Seperti ungkapan bahwa luka yang lahir dari sebuah hubungan hanya bisa dipulihka
 
 Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bagian tubuh mana kamu merasakan ketegangan tersebut. Menyadari reaksi fisik ini membantu kamu memahami bahwa tubuh kamu sedang menjalankan pola pertahanan lama. Dengan kesadaran ini, kamu memiliki kemampuan untuk melatih kembali respons sistem saraf tersebut melalui kehadiran diri yang tenang.
 
-## Membangun Relasi yang Bermakna
+## Seni dan Keterampilan di Balik Relasi yang Mendalam
 
 Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang mendalam melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
@@ -97,7 +97,7 @@ Berikut adalah pilar utama dalam membangun koneksi yang dalam:
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
 
-### Langkah Praktis untuk Memulai
+### Dua Kebiasaan Kecil untuk Memperdalam Relasi
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
 

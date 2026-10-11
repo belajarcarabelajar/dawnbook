@@ -142,11 +142,11 @@ Setiap individu memiliki **idiolek**, yaitu variasi bahasa unik yang terbentuk d
 | **Sintaksis & Tata Bahasa** | Kecenderungan penyusunan pola kalimat dan klausa. | Dominasi penggunaan pola kalimat pasif, kompleksitas anak kalimat. |
 | **Ortografi & Tipografi** | Pola kebiasaan penulisan tanda baca dan singkatan. | Kebiasaan menggunakan singkatan khas (*"yg"*, *"dgn"*), atau pola tanda baca khusus. |
 
-#### 7.2 Atribusi Kepenulisan (Authorship Attribution)
+#### 7.2 Atribusi Kepenulisan Dokumen yang Diragukan Autentisitasnya
 
 Teknik ini digunakan untuk mengidentifikasi penulis asli dari dokumen yang anonim atau diragukan autentisitasnya (seperti surat ancaman, pesan pemerasan, atau dokumen elektronik palsu). Ahli bahasa membandingkan sampel teks bukti dengan teks referensi pembanding dari terduga penulis.
 
-#### 7.3 Analisis Konten dan Evaluasi Ancaman
+#### 7.3 Analisis Konten untuk Membedakan Ancaman Pidana dan Hiperbola
 
 Linguistik forensik membedakan antara ancaman pidana yang nyata (*true threat*) dengan ungkapan emosional tanpa niat pidana (*hyperbole*):
 

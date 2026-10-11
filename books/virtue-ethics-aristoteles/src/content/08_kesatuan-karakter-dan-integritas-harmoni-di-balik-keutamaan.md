@@ -10,7 +10,7 @@ Dalam pandangan Aristotelian, keutamaan-keutamaan itu saling mengimplikasikan sa
 
 Mengapa demikian? Mari kita lihat sebuah skenario:
 
-> **Skenario: Si Pemberani yang Ceroboh**
+> **Skenario Si Pemberani yang Ceroboh**
 > Bayangkan seseorang yang sangat "berani" dalam menghadapi bahaya, tetapi ia tidak memiliki "kebijaksanaan praktis" (*Phronesis*) dan "pengendalian diri" (*Temperance*). Tanpa kedua hal itu, keberaniannya akan berubah menjadi kenekatan yang bodoh yang justru membahayakan diri sendiri dan orang lain.
 
 Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat karakter, bukan kebajikan sejati. Kebajikan membutuhkan dukungan dari kebajikan lainnya agar tetap berada di "Jalan Tengah" (*The Golden Mean*).

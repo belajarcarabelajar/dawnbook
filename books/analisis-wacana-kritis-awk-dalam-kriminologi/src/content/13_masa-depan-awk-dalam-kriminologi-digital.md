@@ -59,7 +59,7 @@ Negara dan korporasi kini memiliki kemampuan untuk mengawasi warga secara total.
 
 Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data science*). Peneliti tidak bisa lagi hanya membaca 10 artikel berita secara manual jika terdapat 10 juta cuitan di media sosial tentang sebuah kasus kejahatan.
 
-**Aplikasi Dunia Nyata: Analisis Sentimen dan Narasi**
+**Aplikasi Dunia Nyata dalam Analisis Sentimen dan Narasi**
 
 Seorang kriminolog digital dapat menggunakan bahasa pemrograman Python untuk melakukan *web scraping* dan menganalisis bagaimana suatu kelompok minoritas dikonstruksikan sebagai "ancaman" dalam skala besar.
 
@@ -101,11 +101,11 @@ Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek 
 - **Sintaksis:** Struktur kalimat yang dominan, seperti kecenderungan penggunaan kalimat pasif atau aktif.
 - **Ortografi:** Pola penggunaan tanda baca atau singkatan (misalnya "yg" versus "yang", atau penggunaan tanda seru yang berlebihan).
 
-#### 6.2 Atribusi Kepenulisan (*Authorship Attribution*)
+#### 6.2 Atribusi Kepenulisan dan Verifikasi Teks Pembanding
 
 Teknik ini digunakan untuk menentukan penulis asli dari sebuah teks yang tidak diketahui identitasnya, seperti surat ancaman, pesan teror, atau dokumen palsu. Ahli bahasa membandingkan teks bukti dengan teks pembanding yang sudah terverifikasi kepenulisannya.
 
-#### 6.3 Analisis Konten dan Ancaman
+#### 6.3 Menimbang Niat dan Risiko dalam Teks Ancaman
 
 Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan sekadar **luapan emosi**. Linguistik forensik membantu menentukan:
 

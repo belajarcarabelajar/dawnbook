@@ -12,7 +12,7 @@ Sejak kecil, kita sering ditanya, *"Kalau besar mau jadi apa?"*. Pertanyaan ini 
 
 Banyak dari kita terjebak dalam pemikiran bahwa jika kita belum menemukan "Pekerjaan Impian", maka kita telah gagal. Padahal, karier lebih mirip dengan **LEGO** daripada sebuah patung marmer yang sekali jadi. Karier dibangun balok demi balok, seringkali dengan bongkar pasang yang berantakan.
 
-**Analogi: Restoran All-You-Can-Eat**
+**Analogi Restoran All-You-Can-Eat**
 
 > Memilih karier di usia 20-an seperti berada di restoran *all-you-can-eat*. Kamu merasa cemas karena ingin mengambil piring yang "paling benar" dan takut kenyang sebelum sempat mencoba hidangan terbaik. Padahal, kuncinya tidak terletak pada menemukan satu hidangan sempurna. Yang terpenting adalah proses mencicipi dan belajar apa yang sebenarnya cocok dengan lidah (minat) kamu.
 

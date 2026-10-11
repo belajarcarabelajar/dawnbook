@@ -81,7 +81,7 @@ if info_baru_asing != "Hewan Darat":
 
 Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya terus bekerja sepanjang hayat.
 
-**Skenario: Berpindah dari Windows ke MacOS**
+**Skenario Perpindahan dari Windows ke MacOS**
 
 - **Asimilasi:** Saat kamu pertama kali membuka MacBook, kamu mencari tombol "X" untuk menutup jendela. Kamu mengasimilasi konsep "menutup jendela" dari pengalaman Windows kamu.
 - **Akomodasi:** Kamu menyadari bahwa tombol tutup di Mac ada di sebelah kiri (merah), bukan di kanan atas. Kamu harus melakukan akomodasi,mengubah skema operasional komputer kamu untuk memahami bahwa tata letak antarmuka bisa berbeda.

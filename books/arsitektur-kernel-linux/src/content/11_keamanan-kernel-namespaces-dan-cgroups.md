@@ -122,7 +122,7 @@ Kernel Linux terus berkembang. Saat ini, industri sedang beralih ke **Cgroups v2
 - **Cgroups v1:** Memiliki hierarchy terpisah untuk setiap controller (CPU sendiri, Memory sendiri), yang sering kali menyebabkan inkonsistensi.
 - **Cgroups v2:** Menggunakan "Unified Hierarchy". Semua controller berada dalam satu struktur tree yang sama. Ini lebih sederhana, lebih aman, dan memungkinkan koordinasi yang lebih baik antara pembatasan memori dan I/O.
 
-## Ringkasan Konsep
+## Benang Merah
 
 | Fitur | Fungsi Utama | Fokus Keamanan |
 | --- | --- | --- |
