@@ -1,4 +1,4 @@
-import { expect, test, describe, beforeEach, mock } from "bun:test";
+import { expect, test, describe, beforeEach, mock, afterAll } from "bun:test";
 
 import { onRequestPatch } from "../../../../../functions/api/users/[id]/donation-badge";
 import { setDonationBadge } from "../../../../../functions/lib/db";
@@ -9,6 +9,9 @@ import { createMockEnv, setQueryHandler } from "../../../../helpers/mocks";
 // override from sibling test files (slug.test.ts, books.test.ts).
 let mockSession: { sub: string; role: "reader" | "admin" } | null = null;
 
+// bun's mock.module is process-global: snapshot the real module first and
+// restore it in afterAll so later files (lib/auth.test.ts) see real code.
+const realAuth = { ...(await import("../../../../../functions/lib/auth")) };
 mock.module("../../../../../functions/lib/auth", () => ({
   verifySession: async () => mockSession,
 }));
@@ -222,4 +225,8 @@ describe("setDonationBadge helper", () => {
     const ok = await setDonationBadge(env.DB, { userId: TARGET_USER_ID, tier: "Gold" });
     expect(ok).toBe(true);
   });
+});
+
+afterAll(() => {
+  mock.module("../../../../../functions/lib/auth", () => realAuth);
 });

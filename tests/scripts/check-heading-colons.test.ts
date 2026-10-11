@@ -183,6 +183,153 @@ describe("check-heading-colons", () => {
     });
   });
 
+  describe("detector gaps", () => {
+    describe("setext headings", () => {
+      it("flags a colon in a text line underlined with = or -", () => {
+        expect(scanContent("Judul: X\n=======\n").violations).toEqual([{ line: 1, text: "Judul: X" }]);
+        expect(scanContent("Isi.\n\nSub: Y\n---\n").violations).toEqual([{ line: 3, text: "Sub: Y" }]);
+        expect(scanContent("Judul: X\n=\n").violations).toEqual([{ line: 1, text: "Judul: X" }]);
+      });
+
+      it("passes a setext heading without a colon or with the colon in code or math", () => {
+        expect(scanContent("Judul Bersih\n=======\n").violations).toEqual([]);
+        expect(scanContent("Pakai `a: b`\n---\n").violations).toEqual([]);
+        expect(scanContent("Fungsi $f: A$\n---\n").violations).toEqual([]);
+      });
+
+      it("joins a multi-line paragraph and reports its first line", () => {
+        const md = "Awal paragraf\nJudul: X\n---\n";
+        expect(scanContent(md).violations).toEqual([{ line: 1, text: "Awal paragraf Judul: X" }]);
+      });
+
+      it("ignores a --- that has a blank line or nothing above it", () => {
+        expect(scanContent("Teks: biasa\n\n---\n").violations).toEqual([]);
+        expect(scanContent("---\n\nIsi.\n").violations).toEqual([]);
+        expect(scanContent("---\n---\n").violations).toEqual([]);
+      });
+
+      it("ignores YAML front matter", () => {
+        expect(scanContent("---\ntitle: x\nbab: 1\n---\n\n# Bab\n").violations).toEqual([]);
+      });
+
+      it("ignores fenced code and the line after an ATX heading", () => {
+        expect(scanContent("```\nJudul: X\n---\n```\n").violations).toEqual([]);
+        expect(scanContent("~~~\nJudul: X\n===\n~~~\n").violations).toEqual([]);
+        expect(scanContent("## Bersih\n---\n").violations).toEqual([]);
+      });
+
+      it("does not read table rows, list items, quotes, link definitions, HTML or code as setext", () => {
+        const cases = [
+          "| a: b | c |\n|---|---|\n| 1 | 2 |\n",
+          "| a: b |\n---\n",
+          "- item: a\n---\n",
+          "1. item: a\n---\n",
+          "> kutipan: a\n---\n",
+          "[ref]: http://example.invalid\n---\n",
+          "[^1]: catatan: a\n---\n",
+          "<div>a: b</div>\n---\n",
+          "    kode: x\n---\n",
+          "- item\nlanjutan: a\n---\n",
+        ];
+        for (const md of cases) expect(scanContent(md).violations).toEqual([]);
+      });
+
+      it("honours the exemption marker on the text line", () => {
+        const r = scanContent("Judul: X <!-- heading-colon-ok: kutipan resmi -->\n===\n");
+        expect(r.violations).toEqual([]);
+        expect(r.exempted).toEqual([{ line: 1, text: "Judul: X", reason: "kutipan resmi" }]);
+      });
+
+      it("keeps ordering by line next to ATX headings", () => {
+        const md = ["# A: satu", "", "B: dua", "===", "", "### C: tiga"].join("\n");
+        expect(scanContent(md).violations.map((v) => v.line)).toEqual([1, 3, 6]);
+      });
+    });
+
+    describe("HTML headings", () => {
+      it("flags a one-line <hN> heading with a colon", () => {
+        expect(scanContent("<h2>Label: Sub</h2>\n").violations).toEqual([{ line: 1, text: "Label: Sub" }]);
+        expect(scanContent('<h3 id="x">A: B</h3>\n').violations).toEqual([{ line: 1, text: "A: B" }]);
+        expect(scanContent("<H1>A: B</H1>\n").violations).toEqual([{ line: 1, text: "A: B" }]);
+        expect(scanContent("> <h4>A: B</h4>\n").violations).toEqual([{ line: 1, text: "A: B" }]);
+      });
+
+      it("ignores colons in attributes, tags and <code>, and clean headings", () => {
+        expect(scanContent('<h2><a href="http://example.invalid"></a>Bersih</h2>\n').violations).toEqual([]);
+        expect(scanContent("<h2>Bersih</h2>\n").violations).toEqual([]);
+        expect(scanContent("<h2>Pakai <code>a: b</code></h2>\n").violations).toEqual([]);
+      });
+
+      it("does not treat other tags, mismatched tags or fenced lines as headings", () => {
+        expect(scanContent("<h7>a: b</h7>\n").violations).toEqual([]);
+        expect(scanContent("<h2>a: b</h3>\n").violations).toEqual([]);
+        expect(scanContent("<p>a: b</p>\n").violations).toEqual([]);
+        expect(scanContent("```html\n<h2>a: b</h2>\n```\n").violations).toEqual([]);
+      });
+
+      it("honours the exemption marker after the closing tag", () => {
+        const r = scanContent("<h2>A: B</h2> <!-- heading-colon-ok: kutipan resmi -->\n");
+        expect(r.violations).toEqual([]);
+        expect(r.exempted).toEqual([{ line: 1, text: "A: B", reason: "kutipan resmi" }]);
+      });
+    });
+
+    describe("fullwidth colon", () => {
+      it("counts U+FF1A as a colon", () => {
+        expect(headingViolates("Judul：X")).toBe(true);
+        expect(headingViolates("Judul：")).toBe(true);
+        expect(scanContent("## Judul： X\n").violations).toEqual([{ line: 1, text: "Judul： X" }]);
+      });
+
+      it("still ignores it inside code or math", () => {
+        expect(headingViolates("Pakai `a：b`")).toBe(false);
+        expect(headingViolates("Fungsi $f： A$")).toBe(false);
+      });
+    });
+
+    describe("inline math boundaries", () => {
+      it("keeps money-like dollar signs as plain text", () => {
+        expect(stripNonText("Harga $5: murah dan $10")).toBe("Harga $5: murah dan $10");
+        expect(headingViolates("Harga $5: murah dan $10")).toBe(true);
+        expect(headingViolates("Biaya $5-$10: murah")).toBe(true);
+        expect(headingViolates("Harga \\$5: murah")).toBe(true);
+        expect(scanContent("## Harga $5: murah dan $10\n").violations).toEqual([
+          { line: 1, text: "Harga $5: murah dan $10" },
+        ]);
+      });
+
+      it("does not open math before a space or close it after a space", () => {
+        expect(headingViolates("A $ x: y $ B")).toBe(true);
+        expect(headingViolates("A $x: y $ B")).toBe(true);
+      });
+
+      it("still strips real inline math, including one-character math", () => {
+        expect(headingViolates("Fungsi $f: A \\to B$")).toBe(false);
+        expect(stripNonText("Nilai $x$ dan $y: z$ selesai")).toBe("Nilai  dan  selesai");
+        expect(headingViolates("Biaya $5$: murah")).toBe(true);
+      });
+    });
+
+    it("self-test fixtures cover the closed gaps", () => {
+      const blind = runSelfTest(() => false).join(" ");
+      expect(blind).toContain("Judul: X");
+      expect(blind).toContain("<h2>");
+      expect(blind).toContain("：");
+      expect(blind).toContain("$5");
+      expect(runSelfTest()).toEqual([]);
+    });
+
+    it("the scan CLI exits 1 and names a setext and an HTML heading", () => {
+      writeBook(tmp, "gap", {
+        chapters: { "01_a.md": "# Bab\n\nIsi.\n\nJudul: X\n======\n\n<h2>Label: Sub</h2>\n" },
+      });
+      const r = run(["--root", tmp]);
+      expect(r.code).toBe(1);
+      expect(r.out).toContain("01_a.md:5");
+      expect(r.out).toContain("01_a.md:8");
+    });
+  });
+
   describe("scan CLI", () => {
     it("exits 0 for a clean book", () => {
       writeBook(tmp, "bersih");

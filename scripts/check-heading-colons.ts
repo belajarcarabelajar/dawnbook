@@ -36,6 +36,16 @@ const MARKER = /<!--\s*heading-colon-ok:\s*(.*?)\s*-->\s*$/;
 // A heading may sit inside blockquotes or a list item, and mdBook still renders it as one.
 const CONTAINER = String.raw`(?:>[ \t]*)*(?:(?:[-*+]|\d+[.)])[ \t]+)?`;
 const HEADING = new RegExp(String.raw`^ {0,3}${CONTAINER}#{1,6}(?:[ \t]+(.*))?$`);
+// Matches only a single-line <hN>...</hN>, optionally followed by an exemption comment.
+const HTML_HEADING = new RegExp(
+  String.raw`^ {0,3}${CONTAINER}<h([1-6])(?:[ \t][^>]*)?>(.*)</h\1[ \t]*>[ \t]*(?:<!--.*?-->)?[ \t]*$`,
+  "i",
+);
+const SETEXT_UNDERLINE = /^ {0,3}(?:=+|-+)[ \t]*$/;
+const THEMATIC_BREAK = /^ {0,3}(?:(?:\*[ \t]*){3,}|(?:-[ \t]*){3,}|(?:_[ \t]*){3,})$/;
+// Lines that start a container or non-paragraph block. A paragraph that reaches one is not
+// a plain setext candidate, so the scan gives up instead of guessing.
+const NON_PARAGRAPH = /^\s*(?:>|(?:[-*+]|\d+[.)])(?:[ \t]|$)|\||<|\[[^\]]*\]:)/;
 const FENCE = new RegExp(String.raw`^ {0,3}(?:>[ \t]*)*(\`{3,}|~{3,})(.*)$`);
 const SUMMARY_ENTRY = /^\s*[-*+]\s+\[(.*?)\]\(([^)]*)\)/;
 const TOML_TITLE = /^\s*title\s*=\s*"((?:[^"\\]|\\.)*)"/;
@@ -45,16 +55,19 @@ const DETAIL_PER_BOOK = 3;
 
 const DEFAULT_ROOT = path.resolve(import.meta.dir, "..");
 
-// Code spans go first so a `$` inside backticks cannot open a math span.
+// Code spans go first so a `$` inside backticks cannot open a math span. Inline math follows
+// the Pandoc rule: the opening `$` is not followed by a space, the closing `$` is not preceded
+// by a space and not followed by a digit, so "$5: murah dan $10" stays plain text.
 export function stripNonText(text: string): string {
   return text
     .replace(/(`+)(.+?)\1(?!`)/g, "")
     .replace(/\$\$.+?\$\$/g, "")
-    .replace(/\$[^$\n]+\$/g, "");
+    .replace(/(?<!\\)\$(?=\S)[^$\n]*?(?<=[^\s\\])\$(?!\d)/g, "");
 }
 
+// U+FF1A is the fullwidth colon and reads as a colon in a heading.
 export function headingViolates(text: string): boolean {
-  return stripNonText(text).includes(":");
+  return /[:\uFF1A]/.test(stripNonText(text));
 }
 
 // Marks every line that is a fence delimiter or sits inside a fenced block.
@@ -91,14 +104,51 @@ function classify(text: string, fullLine: string, line: number, out: ScanResult)
   }
 }
 
+// Index of the closing delimiter of a YAML front matter block, or -1 when there is none.
+function frontMatterEnd(lines: string[]): number {
+  if (!/^---[ \t]*$/.test(lines[0] ?? "")) return -1;
+  for (let j = 1; j < lines.length; j++) {
+    if (/^(?:---|\.\.\.)[ \t]*$/.test(lines[j])) return j;
+  }
+  return -1;
+}
+
+// If lines[i] underlines a plain paragraph, returns that paragraph's first line index and text.
+function setextAt(lines: string[], skip: boolean[], i: number): { top: number; text: string } | null {
+  if (skip[i] || !SETEXT_UNDERLINE.test(lines[i])) return null;
+  const para: string[] = [];
+  let top = i;
+  for (let k = i - 1; k >= 0; k--) {
+    const l = lines[k];
+    if (skip[k] || l.trim() === "" || HEADING.test(l) || THEMATIC_BREAK.test(l) || SETEXT_UNDERLINE.test(l)) break;
+    if (NON_PARAGRAPH.test(l)) return null;
+    para.unshift(l.trim());
+    top = k;
+  }
+  if (para.length === 0 || /^(?: {4}|\t)/.test(lines[top])) return null;
+  return { top, text: para.join(" ") };
+}
+
 export function scanContent(md: string): ScanResult {
   const lines = md.split(/\r?\n/);
   const mask = fenceMask(lines);
+  const fm = frontMatterEnd(lines);
+  const skip = mask.map((m, i) => m || i <= fm);
   const out: ScanResult = { violations: [], exempted: [] };
   lines.forEach((line, i) => {
     if (mask[i]) return;
     const m = HEADING.exec(line);
-    if (m) classify(m[1] ?? "", line, i + 1, out);
+    if (m) {
+      classify(m[1] ?? "", line, i + 1, out);
+      return;
+    }
+    const h = HTML_HEADING.exec(line);
+    if (h) {
+      classify(h[2].replace(/<code\b[^>]*>.*?<\/code>/gi, "").replace(/<[^>]*>/g, ""), line, i + 1, out);
+      return;
+    }
+    const s = setextAt(lines, skip, i);
+    if (s) classify(s.text, lines[i - 1], s.top + 1, out);
   });
   return out;
 }
@@ -143,6 +193,11 @@ const SELF_TEST_FIXTURES: { md: string; flagged: boolean }[] = [
   { md: "## Harga yang Dibayar", flagged: false },
   { md: "## Memakai `dict: str` di Python", flagged: false },
   { md: "```\n## Di dalam: kode\n```", flagged: false },
+  { md: "Judul: X\n=======", flagged: true },
+  { md: "<h2>Label: Sub</h2>", flagged: true },
+  { md: "## Judul\uFF1A Sub", flagged: true },
+  { md: "## Harga $5: murah dan $10", flagged: true },
+  { md: "## Fungsi $f: A \\to B$", flagged: false },
 ];
 
 export function runSelfTest(

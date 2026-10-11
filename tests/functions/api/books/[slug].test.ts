@@ -1,6 +1,9 @@
-import { describe, it, expect, beforeEach, mock } from "bun:test";
+import { describe, it, expect, beforeEach, mock, afterAll } from "bun:test";
 
 let mockSession: any = null;
+// bun's mock.module is process-global: snapshot the real module first and
+// restore it in afterAll so later files (lib/auth.test.ts) see real code.
+const realAuth = { ...(await import("../../../../functions/lib/auth")) };
 mock.module("../../../../functions/lib/auth", () => {
   return {
     verifySession: async () => mockSession,
@@ -165,4 +168,8 @@ describe("DELETE /api/books/:slug", () => {
       error: "Forbidden: Administrator access required",
     });
   });
+});
+
+afterAll(() => {
+  mock.module("../../../../functions/lib/auth", () => realAuth);
 });
