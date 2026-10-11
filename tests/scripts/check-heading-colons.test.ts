@@ -115,6 +115,33 @@ describe("check-heading-colons", () => {
       expect(scanContent(md).violations).toEqual([{ line: 4, text: "c: d" }]);
     });
 
+    it("scanContent sees headings inside blockquotes and list items", () => {
+      const md = [
+        "> ### Panduan: Respons",
+        "> > ## Dalam: Kutipan Bersarang",
+        "- ## Daftar: Satu",
+        "1. ### Nomor: Dua",
+        "> ### Bersih",
+        "",
+      ].join("\n");
+      expect(scanContent(md).violations).toEqual([
+        { line: 1, text: "Panduan: Respons" },
+        { line: 2, text: "Dalam: Kutipan Bersarang" },
+        { line: 3, text: "Daftar: Satu" },
+        { line: 4, text: "Nomor: Dua" },
+      ]);
+    });
+
+    it("scanContent ignores a fence opened inside a blockquote", () => {
+      const md = ["> ```bash", "> # catatan: skrip", "> ```", "> ### Nyata: Judul"].join("\n");
+      expect(scanContent(md).violations).toEqual([{ line: 4, text: "Nyata: Judul" }]);
+    });
+
+    it("scanContent does not treat hashtags or list text as headings", () => {
+      const md = ["- #hashtag: ramai", "- item: biasa", "> kutipan: biasa", "#tanpa-spasi: x"].join("\n");
+      expect(scanContent(md).violations).toEqual([]);
+    });
+
     it("scanContent exempts only with a non-empty reason", () => {
       const md = [
         "## A: B <!-- heading-colon-ok: kutipan judul resmi -->",

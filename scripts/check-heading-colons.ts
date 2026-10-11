@@ -33,8 +33,10 @@ interface SummaryEntry {
 export class UsageError extends Error {}
 
 const MARKER = /<!--\s*heading-colon-ok:\s*(.*?)\s*-->\s*$/;
-const HEADING = /^ {0,3}#{1,6}(?:[ \t]+(.*))?$/;
-const FENCE = /^ {0,3}(`{3,}|~{3,})(.*)$/;
+// A heading may sit inside blockquotes or a list item, and mdBook still renders it as one.
+const CONTAINER = String.raw`(?:>[ \t]*)*(?:(?:[-*+]|\d+[.)])[ \t]+)?`;
+const HEADING = new RegExp(String.raw`^ {0,3}${CONTAINER}#{1,6}(?:[ \t]+(.*))?$`);
+const FENCE = new RegExp(String.raw`^ {0,3}(?:>[ \t]*)*(\`{3,}|~{3,})(.*)$`);
 const SUMMARY_ENTRY = /^\s*[-*+]\s+\[(.*?)\]\(([^)]*)\)/;
 const TOML_TITLE = /^\s*title\s*=\s*"((?:[^"\\]|\\.)*)"/;
 const CONTENT_PATH = /^books\/([^/]+)\/src\/content\/[^/]+\.md$/;
