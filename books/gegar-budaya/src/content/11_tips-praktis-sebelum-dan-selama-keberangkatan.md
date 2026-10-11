@@ -96,7 +96,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 
 ## Persiapan Andi Menuju Jerman
 
-**Kasus: Andi, Mahasiswa yang Pindah ke Jerman**
+**Kasus Andi, Mahasiswa yang Pindah ke Jerman**
 
 - **Sebelum Berangkat:** Andi tidak hanya belajar bahasa Jerman, tapi dia juga meriset cara memilah sampah di Jerman yang sangat ketat. Dia menonton video YouTube tentang "10 hal yang mengejutkan orang Indonesia di Jerman".
 - **Strategi Barang:** Andi membawa satu botol kecil kecap manis kegemarannya dan foto wisuda keluarga.
