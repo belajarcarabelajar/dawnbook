@@ -4,7 +4,7 @@ Pernahkah teramati bentuk ujung sayap pesawat komersial modern saat duduk di dek
 
 Pembahasan ini mengupas tuntas aspek fisika dan matematika di balik **Desain Wingtip dan Reduksi Vorteks**, menguraikan bagaimana fenomena kebocoran aliran udara di ujung sayap dapat dikendalikan dan diubah menjadi keuntungan aerodinamis.
 
-### 1. Masalah: Kebocoran Tekanan dan Pembentukan Vorteks
+### 1. Kebocoran Tekanan dan Pembentukan Vorteks
 
 Untuk memahami urgensi rekayasa geometri pada ujung sayap, fenomena aliran fluida tiga dimensi di sekitar sayap berbentang terbatas (*finite wing*) perlu ditelaah secara mendalam.
 
@@ -25,7 +25,7 @@ Fenomena aliran melingkar tiga dimensi pada ujung sayap ini dikenal sebagai **Pu
 2. **Disipasi Energi Kinetik:** Energi mekanik dari sistem propulsi pesawat terbuang sia-sia untuk memutar massa udara di belakang sayap alih-alih digunakan murni untuk mengatasi hambatan parasit (*parasite drag*) dan mendorong laju pesawat.
 3. **Turbulensi Jejak (*Wake Turbulence*):** Pusaran vorteks di belakang pesawat berbobot besar memiliki intensitas sirkulasi ($\Gamma$) yang sangat tinggi dan dapat bertahan selama beberapa menit di atmosfer, menimbulkan bahaya turbulensi jejak bagi pesawat lain yang melintas di koridor udara yang sama.
 
-### 2. Solusi Aerodinamis: Inovasi Winglet dan Sharklet
+### 2. Winglet dan Sharklet
 
 **Winglet** merupakan perangkat aerodinamis vertikal atau bersudut miring (*canted*) yang dipasang pada ujung sayap untuk memitigasi pembentukan dan intensitas pusaran vorteks.
 

@@ -97,7 +97,7 @@ Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gay
 
 > **Refleksi Kritis:** Mengapa pesawat komersial modern jarang mengadopsi sayap elips murni jika bentuk tersebut paling efisien secara teoritis? Hal ini disebabkan oleh batasan manufaktur komponen komposit berskala besar, kebutuhan volume internal untuk tangki bahan bakar di sepanjang sayap, serta pertimbangan penempatan mekanisme *flap* dan *slat* yang memerlukan garis engsel lurus.
 
-### 5. Implementasi Komputasi: Menghitung Karakteristik Planform dengan Python
+### 5. Menghitung Karakteristik Planform dengan Python
 
 Berikut implementasi kode Python untuk menghitung parameter geometris sayap meruncing (*tapered wing*), termasuk luas sayap ($S$), *aspect ratio* ($\text{AR}$), dan *mean aerodynamic chord* ($\text{MAC}$):
 

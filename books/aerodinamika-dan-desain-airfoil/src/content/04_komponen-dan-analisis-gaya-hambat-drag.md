@@ -74,7 +74,7 @@ Besaran gaya hambat total menentukan berbagai limitasi performa wahana:
 
 ### 5. Komparasi Desain dan Implementasi Komputasi
 
-#### Studi Kasus: Optimasi Sayap Komersial vs. Pesawat Akrobatik
+#### Optimasi Sayap Komersial vs. Pesawat Akrobatik
 
 - **Pesawat Penumpang Transonik (misal Boeing 787):** Beroperasi pada bilangan Mach tinggi. Pendekatan desain memprioritaskan sayap ber-rasio aspek tinggi ($\text{AR}$ besar) yang dilengkapi *raked wingtip* untuk mereduksi *induced drag*, serta penerapan material komposit halus untuk menjaga stabilitas lapisan batas laminar.
 - **Pesawat Akrobatik (misal Extra 330):** Membutuhkan laju guling (*roll rate*) yang sangat cepat dan kekuatan struktur beban g-tinggi, sehingga menggunakan sayap berspan pendek ($\text{AR}$ rendah) dengan profil simetris, menerima penalti *induced drag* yang lebih tinggi demi agilitas manuver.

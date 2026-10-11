@@ -35,7 +35,7 @@ Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara 
 
 ---
 
-### 1. Computational Fluid Dynamics (CFD): Laboratorium Virtual
+### 1. Computational Fluid Dynamics (CFD)
 
 **Computational Fluid Dynamics (CFD)** merupakan cabang mekanika fluida numerik yang memanfaatkan algoritma komputasi dan pemrosesan paralel komputer untuk menganalisis, memvisualisasikan, dan memprediksi perilaku aliran fluida di sekitar benda padat.
 
@@ -112,7 +112,7 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 
 ---
 
-### 3. Pengujian Terowongan Angin: Realitas Fisik Terkendali
+### 3. Pengujian Terowongan Angin
 
 Meskipun perangkat lunak simulasi semakin canggih, terowongan angin (*wind tunnel*) tetap menjadi standar kebenaran eksperimental (*ground truth*) dalam dunia aerodinamika dan sertifikasi kelaikudaraan.
 
@@ -152,7 +152,7 @@ Pengujian terowongan angin modern mengandalkan instrumentasi presisi tinggi:
 
 ---
 
-### 4. Perbandingan Karakteristik: CFD vs. Terowongan Angin
+### 4. CFD vs. Terowongan Angin
 
 Kedua metodologi memiliki keunggulan dan keterbatasan tersendiri yang saling melengkapi dalam siklus rekayasa:
 
@@ -166,7 +166,7 @@ Kedua metodologi memiliki keunggulan dan keterbatasan tersendiri yang saling mel
 
 ---
 
-### 5. Implementasi Algoritma: Integrasi Tekanan Permukaan
+### 5. Integrasi Tekanan Permukaan
 
 Dalam pasca-pemrosesan CFD maupun data eksperimen *pressure taps*, koefisien gaya angkat $C_l$ dan koefisien momen $C_{m,c/4}$ dihitung dengan mengintegrasikan distribusi koefisien tekanan $C_p$ di sepanjang permukaan atas (*upper*) dan bawah (*lower*) airfoil:
 

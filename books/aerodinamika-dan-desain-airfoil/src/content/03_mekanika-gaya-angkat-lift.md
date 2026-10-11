@@ -2,7 +2,7 @@
 
 Sering kali muncul pertanyaan mengenai bagaimana sebuah pesawat besi berbobot ratusan ton dapat melayang di udara yang tampak kosong. Fenomena ini bukan keajaiban, melainkan interaksi fisika yang presisi antara fluida udara, geometri penampang sayap, dan kecepatan gerak. Bab ini membedah mekanisme fundamental di balik **Gaya Angkat (*Lift*)**, yaitu gaya aerodinamika yang melawan gaya gravitasi dan memungkinkan penerbangan berlangsung secara stabil.
 
-### 1. Esensi Gaya Angkat: Perbedaan Tekanan
+### 1. Gaya Angkat dari Perbedaan Tekanan
 
 Secara mendasar, gaya angkat tercipta akibat adanya perbedaan distribusi tekanan fluida antara permukaan atas (*upper surface*) dan permukaan bawah (*lower surface*) sayap atau airfoil.
 
@@ -12,7 +12,7 @@ Ketika aliran udara bertemu dengan airfoil yang bergerak maju, aliran tersebut t
 
 > Bayangkan aliran fluida yang mengalir melalui penyempitan saluran pipa. Ketika luas penampang menyempit, fluida dipaksa menambah kecepatannya untuk menjaga laju aliran massa tetap konstan. Fenomena serupa terjadi di atas permukaan atas airfoil, di mana kelengkungan geometri menciptakan percepatan aliran lokal.
 
-### 2. Dua Sisi Pemahaman: Bernoulli dan Newton
+### 2. Bernoulli dan Newton
 
 Dalam literatur aerodinamika klasik, mekanisme pembangkitan gaya angkat kerap ditinjau dari dua sudut pandang: Prinsip Bernoulli dan Hukum Ketiga Newton. Kedua pendekatan ini saling melengkapi dan mendeskripsikan realitas fisis yang sama dari kerangka kerja berbeda.
 

@@ -4,7 +4,7 @@ Pernahkah terbayang saat berdiri di samping Boeing 747 atau Airbus A380 rasa tak
 
 Secara etimologi, Aerodinamika berasal dari kata Yunani *Aero* (udara) dan *Dynamics* (kekuatan atau perubahan). Bidang ini merupakan studi tentang bagaimana gas (khususnya udara) berinteraksi dengan benda padat yang bergerak melaluinya.
 
-## 1. Udara sebagai Fluida: Media Tak Terlihat
+## 1. Udara sebagai Fluida
 
 Sebelum memahami gaya angkat, satu konsep mendasar perlu disepakati: **Udara adalah fluida**. Sama seperti air, udara dapat mengalir, berubah bentuk, dan memberikan tekanan.
 
@@ -18,7 +18,7 @@ Dalam aerodinamika, terdapat tiga variabel utama udara yang menjadi perhatian:
 
 > **Wawasan Penting:** Udara mungkin terasa "kosong", namun fluida ini memiliki massa. Bayangkan situasi saat seseorang berenang di kolam raksasa yang berisi molekul udara; setiap gerakan akan memindahkan molekul-molekul tersebut.
 
-## 2. Prinsip Bernoulli: Kecepatan vs. Tekanan
+## 2. Prinsip Bernoulli
 
 Salah satu pilar utama aerodinamika adalah prinsip yang dirumuskan oleh Daniel Bernoulli pada abad ke-18.
 
@@ -52,7 +52,7 @@ Bayangkan situasi di dalam gerbong kereta api yang melaju sangat cepat. Jika jen
 
 **Penerapannya pada Sayap:** Profil sayap dirancang sedemikian rupa sehingga udara yang melintas di atas sayap bergerak **lebih cepat** dibandingkan udara di bawah sayap. Akibatnya, tekanan di atas sayap menjadi **lebih rendah** daripada tekanan di bawah sayap. Perbedaan tekanan inilah yang menghasilkan dorongan atau daya hisap ke atas.
 
-## 3. Hukum Ketiga Newton: Aksi dan Reaksi
+## 3. Hukum Ketiga Newton
 
 Jika Bernoulli menjelaskan gaya angkat melalui distribusi tekanan, Sir Isaac Newton menjelaskannya melalui perubahan momentum. Hukum Ketiga Newton menyatakan bahwa:
 
@@ -69,13 +69,13 @@ Berdasarkan Hukum Ketiga Newton:
 
 Sebagai ilustrasi praktis: ketika telapak tangan dikeluarkan dari jendela mobil yang sedang melaju lalu dimiringkan sedikit ke atas, telapak tangan akan terdorong ke atas oleh aliran udara. Fenomena tersebut merupakan manifestasi langsung dari Hukum Ketiga Newton.
 
-## 4. Sintesis: Bagaimana Gaya Angkat (Lift) Tercipta?
+## 4. Bagaimana Gaya Angkat (Lift) Tercipta?
 
 Sering kali muncul pertanyaan: *"Mana penjelasan yang benar, Bernoulli atau Newton?"* Jawabannya adalah: **Keduanya benar dan saling melengkapi secara fisika.**
 
 Tidak mungkin tercipta perbedaan tekanan (Bernoulli) tanpa adanya pembelokan aliran massa udara (Newton), demikian pula sebaliknya. Keduanya merupakan dua sudut pandang matematis dan fisis yang mendeskripsikan satu kesatuan fenomena fluida yang sama.
 
-### Tahapan Pembentukan Gaya Angkat (Lift):
+### Tahapan Pembentukan Gaya Angkat (Lift)
 
 1. **Gerakan Maju (*Thrust*):** Propulsi menggerakkan pesawat ke depan, mengalirkan udara melewati kontur sayap.
 2. **Pembelokan Aliran:** Kelengkungan profil sayap (*camber*) memandu partikel fluida mengikuti konturnya.
@@ -104,7 +104,7 @@ $$
 
 Dengan demikian, sistem aerodinamika harus mampu menghasilkan perbedaan tekanan rata-rata minimal $40 \text{ Pa}$ antara permukaan bawah dan permukaan atas sayap agar drone dapat melayang seimbang.
 
-## 6. Simulasi Kode: Menghitung Tekanan Berdasarkan Bernoulli
+## 6. Menghitung Tekanan Berdasarkan Bernoulli
 
 Berikut adalah skrip Python untuk menghitung perubahan tekanan statis fluida akibat perubahan kecepatan aliran berdasarkan persamaan Bernoulli:
 

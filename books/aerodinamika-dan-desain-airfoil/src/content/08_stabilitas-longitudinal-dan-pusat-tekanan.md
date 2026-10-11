@@ -14,7 +14,7 @@ $$
 M_{\text{CP}} = 0
 $$
 
-#### Karakteristik Utama $\text{CP}$:
+#### Karakteristik Utama $\text{CP}$
 
 - **Posisi yang Berubah-ubah:** Berbeda dengan pusat massa (*Center of Gravity*) yang posisinya relatif tetap selama massa tidak berpindah, posisi $\text{CP}$ bersifat dinamis. Posisinya bergeser seiring perubahan **Sudut Serang (*Angle of Attack* - $\text{AoA}$)**.
 - **Arah Pergeseran:** Pada profil airfoil konvensional melengkung (*cambered airfoil*), saat sudut serang bertambah pada rentang pra-*stall*, $\text{CP}$ akan **bergerak maju** mendekati tepi depan (*leading edge*). Sebaliknya, saat sudut serang berkurang, $\text{CP}$ akan **bergerak mundur** menjauhi tepi depan.
@@ -82,18 +82,18 @@ Keterangan variabel:
 - $L_{\text{tail}}$: Gaya aerodinamika yang dihasilkan penyeimbang ekor
 - $l_t$: Lengan momen jarak horizontal dari $\text{CG}$ ke titik tangkap ekor
 
-### 5. Penerapan Nyata: Distribusi Beban dan Manuver
+### 5. Distribusi Beban dan Manuver
 
 Pemahaman posisi $\text{CP}$, $\text{AC}$, dan $\text{CG}$ merupakan pertimbangan operasional harian bagi operator darat (*loadmaster*) dan penerbang.
 
-#### Studi Kasus 1: Distribusi Muatan Kargo
+#### Distribusi Muatan Kargo
 
 Pada armada kargo berbadan lebar seperti Boeing 747-8F, pengaturan penempatan palet kargo wajib diperhitungkan secara presisi:
 
 - Jika muatan berat diletakkan terlalu jauh ke belakang sehingga $\text{CG}$ mendekati atau melampaui $\text{AC}$, stabilitas statis berkurang drastis (*aft CG limit*). Pesawat menjadi sangat sensitif terhadap input kendali dan rentan mengalami *stall* saat lepas landas.
 - Jika muatan berat terkonsentrasi terlalu jauh ke depan sehingga $\text{CG}$ berada jauh di depan $\text{AC}$ (*forward CG limit*), momen menunduk menjadi sangat besar. Hal ini menuntut defleksi kendali kemudi tukik (*elevator*) maksimal, yang dapat menghabiskan otoritas kendali saat fase pendaratan (*flare*).
 
-#### Studi Kasus 2: Pesawat Tempur Manuver Tinggi
+#### Pesawat Tempur Manuver Tinggi
 
 Pesawat tempur modern generasi ke-4 dan ke-5 (seperti F-16 Falcon atau F-22 Raptor) sengaja dirancang dengan konfigurasi stabilitas statis santai (*Relaxed Static Stability* - RSS), yaitu menempatkan posisi $\text{CG}$ di belakang $\text{AC}$. Konfigurasi ini secara alamiah tidak stabil, tetapi dikendalikan secara terus-menerus oleh komputer kendali terbang digital (*Fly-by-Wire*). Rancangan ini dipilih karena ketidakstabilan statis memberikan laju respons rotasi (*pitch rate*) yang sangat cepat untuk manuver tempur ekstrem.
 
