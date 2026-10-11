@@ -1,4 +1,4 @@
-## Cahaya Biru yang Misterius: Pemicu Radiasi Cherenkov
+## Cahaya Biru yang Misterius dari Radiasi Cherenkov
 
 Pernahkah terlihat foto kolam pendingin reaktor nuklir yang memancarkan pendaran cahaya biru neon yang cantik namun terkesan berbahaya? Cahaya itu bukan sekadar efek lampu hias, melainkan sebuah fenomena fisika luar biasa yang disebut **Radiasi Cherenkov**.
 
@@ -20,7 +20,7 @@ Di dalam air, indeks biasnya sekitar $1.33$, yang berarti cahaya hanya bergerak 
 
 > **Insight Utama:** Radiasi Cherenkov terjadi ketika sebuah partikel bermuatan (seperti elektron beta) bergerak melewati medium dielektrik dengan kecepatan yang melebihi kecepatan cahaya di dalam medium tersebut.
 
-### 2. Analogi: Sonic Boom Cahaya
+### 2. Sonic Boom Cahaya
 
 Untuk memahami mengapa fenomena ini menghasilkan cahaya, mari kita gunakan analogi **Sonic Boom** (dentuman sonik).
 

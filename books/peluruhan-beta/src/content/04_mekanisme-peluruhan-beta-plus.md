@@ -36,7 +36,7 @@ $$
 - **Nomor Atom ($Z$):** Berkurang 1 (karena satu proton hilang berganti menjadi neutron).
 - **Identitas Unsur:** Berubah (karena jumlah proton menentukan jenis unsur).
 
-### 3. Syarat Energi: Mengapa Tidak Semua Atom Bisa Melakukannya?
+### 3. Syarat Energi yang Tidak Semua Atom Penuhi
 
 Berbeda dengan peluruhan Beta Minus, peluruhan Beta Plus membutuhkan ongkos energi yang lebih besar. Mengapa? Karena massa sebuah neutron sebenarnya lebih besar daripada massa sebuah proton.
 
@@ -50,7 +50,7 @@ Secara alami, sesuatu yang ringan sulit berubah menjadi sesuatu yang lebih berat
 
 *Penjelasan Energi Ikat: Jika massa neutron lebih berat daripada proton, dari manakah asal energi tambahan untuk konversi tersebut? Energi tersebut bersumber dari **energi ikat inti (binding energy)** yang dilepaskan ketika konfigurasi inti bertransisi menuju keadaan yang lebih stabil.*
 
-### 4. Nasib Sang Positron: Anihilasi
+### 4. Anihilasi Positron
 
 Positron adalah **antimateri**. Di dunia yang didominasi oleh materi (elektron), positron tidak akan bertahan lama. Segera setelah terpancar dari inti atom, positron akan bertemu dengan elektron bebas di sekitarnya.
 
@@ -66,7 +66,7 @@ e^+ + e^- \rightarrow \gamma + \gamma
 $$
 </div>
 
-### 5. Aplikasi Dunia Nyata: Keajaiban PET Scan
+### 5. Keajaiban PET Scan
 
 Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang abstrak. Teknologi ini menyelamatkan ribuan nyawa setiap hari melalui **PET Scan (Positron Emission Tomography)**.
 

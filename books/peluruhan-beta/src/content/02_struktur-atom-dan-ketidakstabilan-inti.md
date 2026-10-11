@@ -1,10 +1,10 @@
-## Struktur Atom dan Ketidakstabilan Inti: Mencari Keseimbangan di Jantung Materi
+## Struktur Atom dan Ketidakstabilan Inti
 
 Pernahkah muncul pertanyaan mengapa beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara yang lain perlahan-lahan berubah menjadi unsur yang berbeda? Jawabannya terletak jauh di dalam jantung atom, pada **nukleus** atau inti atom.
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana arsitektur inti atom menentukan nasibnya: apakah ia akan menjadi fondasi yang kokoh bagi materi, atau justru menjadi bom waktu mikroskopis yang memicu peluruhan beta.
 
-### 1. Komposisi Inti: Pertarungan Dua Gaya
+### 1. Pertarungan Dua Gaya di Inti Atom
 
 Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis nukleon (partikel penyusun inti): **Proton** yang bermuatan positif ($p^+$) dan **Neutron** yang bermuatan netral ($n^0$).
 
@@ -15,7 +15,7 @@ Kehidupan di dalam inti atom adalah hasil dari tarik-ulur antara dua gaya fundam
 
 > **Analogi Sederhana:** Bayangkan inti atom adalah sebuah ruangan kecil yang penuh dengan magnet-magnet kuat yang saling menolak (proton). Agar ruangan itu tidak meledak, kita membutuhkan perekat khusus (neutron) yang memberikan gaya tarik tambahan tanpa menambah gaya tolak.
 
-### 2. Rasio N/Z: Kunci Stabilitas Nuklir
+### 2. Rasio N/Z Penentu Stabilitas Nuklir
 
 Kestabilan sebuah atom tidak ditentukan oleh seberapa banyak jumlah proton atau neutronnya secara terpisah, melainkan oleh **perbandingan atau rasio jumlah neutron ($N$) terhadap jumlah proton ($Z$)**, yang dikenal sebagai **Rasio N/Z**.
 
@@ -57,7 +57,7 @@ Ketidakstabilan terjadi jika: $\frac{A - Z}{Z} \neq \text{Rasio Stabil}$
 
 Untuk isotop berat, energi pengikat rata-rata per nukleon ($\text{BE}/A$) juga memainkan peran. Jika perubahan melalui peluruhan beta menghasilkan inti baru dengan energi ikat yang lebih tinggi (lebih negatif/stabil), maka proses tersebut secara termodinamika akan terjadi secara spontan.
 
-### 5. Real-World Application: Karbon-14 dalam Arkeologi
+### 5. Karbon-14 dalam Arkeologi
 
 Salah satu contoh paling nyata dari ketidakstabilan akibat rasio N/Z adalah **Karbon-14**.
 
