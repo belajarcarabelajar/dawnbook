@@ -53,7 +53,7 @@ $$
 
 Artinya, bergiliran berkhianat tidak boleh lebih menguntungkan daripada kerja sama yang konsisten.
 
-### Aplikasi Dunia Nyata
+### Kegagalan Kerja Sama di Bisnis, Politik, dan Lingkungan
 
 Dilema Tahanan bukan sekadar teka-teki logika; ini adalah model untuk memahami kegagalan kerja sama di berbagai bidang.
 

@@ -71,7 +71,7 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 
 **Total:** $3.333 + 8.333 + 18.333 \approx 30.000$.
 
-## 5. Aplikasi Dunia Nyata
+## 5. Nilai Shapley untuk Biaya Bandara, Explainable AI, dan Kekuatan Suara
 
 Konsep kooperatif dan Nilai Shapley bukan hanya teori di atas kertas. Ini digunakan di berbagai bidang canggih:
 

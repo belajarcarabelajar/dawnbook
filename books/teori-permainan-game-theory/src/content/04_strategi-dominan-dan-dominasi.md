@@ -120,7 +120,7 @@ payoffs_A = [
 check_dominance(payoffs_A)
 ```
 
-### 6. Aplikasi Dunia Nyata
+### 6. Strategi Dominan dalam Perang Harga, Perlombaan Senjata, dan Lelang
 
 #### A. Perang Harga di Supermarket
 

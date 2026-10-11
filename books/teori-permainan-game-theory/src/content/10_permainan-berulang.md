@@ -119,7 +119,7 @@ def repeated_game_simulation(rounds):
 repeated_game_simulation(5)
 ```
 
-## 6. Aplikasi Dunia Nyata
+## 6. Permainan Berulang pada Maskapai, Perjanjian Internasional, dan Langganan
 
 ### Perang Harga di Industri Maskapai
 

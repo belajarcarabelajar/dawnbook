@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membongkar apa itu Ekuilibrium Nash, mengapa ia dise
 
 Bayangkan kamu dan seorang teman sedang bermain. **Ekuilibrium Nash** adalah sebuah situasi di mana tidak ada satu pun pemain yang dapat meningkatkan keuntungannya dengan mengubah strateginya sendirian, sementara pemain lain tetap pada pilihan mereka.
 
-**Analogi Sederhana: Pertemuan di Mal**
+**Analogi Sederhana Pertemuan di Mal**
 
 Kamu dan temanmu berencana bertemu di sebuah mal besar yang memiliki dua pintu masuk: Pintu Utara dan Pintu Selatan. Ponsel kalian berdua mati, sehingga kalian tidak bisa berkomunikasi.
 
@@ -71,9 +71,9 @@ Seperti contoh iklan di atas, Ekuilibrium Nash sering kali membawa pemain pada h
 
 Terkadang, dalam permainan seperti Batu-Gunting-Kertas, tidak ada satu titik stabil tunggal. Jika kamu selalu memilih Batu, lawan akan memilih Kertas. Kamu lalu pindah ke Gunting. Tidak ada titik diam. (Masalah ini akan dibahas lebih dalam di bagian **Strategi Campuran**).
 
-### 5. Aplikasi Dunia Nyata
+### 5. Ekuilibrium Nash pada Perlombaan Senjata dan Lokasi Bisnis
 
-**Skenario: Perlombaan Senjata (Arms Race)**
+**Skenario Perlombaan Senjata (Arms Race)**
 
 Dua negara yang bersaing harus memutuskan apakah akan menambah hulu ledak nuklir atau melakukan pelucutan senjata.
 
@@ -81,7 +81,7 @@ Dua negara yang bersaing harus memutuskan apakah akan menambah hulu ledak nuklir
 - Ketakutan akan didominasi memaksa kedua negara untuk terus menambah senjata.
 - **Ekuilibrium Nash:** Kedua negara terus menambah senjata, meskipun keduanya akan jauh lebih makmur dan aman jika uang tersebut digunakan untuk pendidikan atau kesehatan.
 
-**Skenario: Lokasi Bisnis (Hukum Hotelling)**
+**Skenario Lokasi Bisnis (Hukum Hotelling)**
 
 Pernahkah kamu bertanya-tanya mengapa gerai Alfamart dan Indomaret sering kali berada tepat bersebelahan?
 

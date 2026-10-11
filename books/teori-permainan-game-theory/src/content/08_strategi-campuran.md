@@ -8,7 +8,7 @@ Dalam situasi ini, satu-satunya cara untuk tidak bisa dikalahkan secara konsiste
 
 Dalam bab sebelumnya, kita mempelajari **Strategi Murni** (*Pure Strategies*), di mana seorang pemain memilih satu tindakan spesifik dengan kepastian 100%. Namun, dalam banyak permainan kompetitif, terutama yang bersifat *zero-sum* (keuntungan satu pihak adalah kerugian pihak lain), Ekuilibrium Nash dalam strategi murni sering kali tidak ditemukan.
 
-**Analogi: Penjaga Gawang vs. Penendang Penalti**  
+**Analogi Penjaga Gawang vs. Penendang Penalti**  
 Seorang penendang penalti (*Striker*) bisa menendang ke kiri atau ke kanan. Seorang kiper bisa melompat ke kiri atau ke kanan.
 
 - Jika kiper tahu striker akan menendang ke kiri, kiper akan melompat ke kiri.

@@ -42,7 +42,7 @@ Dalam AI, kita sering tidak hanya membangun satu model, melainkan ekosistem keti
 - **Interaksi**: Hasil satu agen bergantung pada tindakan agen lain.
 - **Tujuan Berbeda**: Agen bisa bekerja sama (kooperatif) atau bersaing (kompetitif).
 
-**Contoh Skenario: Lelang Iklan Real-Time**
+**Contoh Skenario Lelang Iklan Real-Time**
 Saat kamu membuka halaman web, di balik layar terjadi lelang instan untuk menentukan iklan mana yang muncul. Ribuan algoritma penawar (*bidding agents*) bertarung dalam hitungan milidetik. Di sini, AI harus memutuskan berapa nilai penawaran yang optimal tanpa mengetahui penawaran lawan, menggunakan prinsip-prinsip teori permainan.
 
 ## 4. Desain Mekanisme (Mechanism Design)
@@ -90,7 +90,7 @@ def minimax(node, depth, maximizingPlayer):
 
 Dalam **Multi-Agent Reinforcement Learning (MARL)**, agen belajar melalui uji coba (*trial-and-error*). Tantangannya adalah "target yang bergerak": saat Agen A belajar, lingkungan Agen B berubah karena perilaku Agen A berubah. Ini sering diselesaikan dengan mencari **Ekuilibrium Nash** dalam proses pelatihan.
 
-## 6. Aplikasi Dunia Nyata
+## 6. Teori Permainan pada Iklan Digital, Spektrum Radio, Keamanan Siber, dan Kripto
 
 1. **Google Ads & Meta Ads**: Menggunakan desain mekanisme tingkat lanjut untuk mengalokasikan ruang iklan secara efisien kepada jutaan pengiklan.
 2. **Frekuensi Radio & Spektrum**: Pemerintah menggunakan lelang kombinatorial (berdasarkan AGT) untuk menjual hak frekuensi seluler senilai miliaran dolar.
