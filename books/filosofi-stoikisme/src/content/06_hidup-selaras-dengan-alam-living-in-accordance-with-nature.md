@@ -4,7 +4,7 @@ Selamat datang di jantung filosofi Stoikisme. Jika kamu pernah mendengar slogan 
 
 Namun, jangan salah sangka. Bagi kaum Stoik, ini bukan berarti kamu harus pindah ke hutan, berhenti menggunakan teknologi, atau menjadi seorang naturalis. Hidup "selaras dengan alam" memiliki makna metafisika dan etika yang jauh lebih dalam, yang berkaitan dengan peran kita sebagai manusia di tengah keteraturan semesta.
 
-## 1\. Memahami Konsep Logos: "Sistem Operasi" Semesta
+## 1\. Memahami Konsep Logos
 
 Untuk memahami apa artinya hidup selaras dengan alam, kita harus terlebih dahulu memahami apa itu **Logos**.
 
@@ -12,7 +12,7 @@ Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau
 
 **Analogi: Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
 
-### Karakteristik Logos:
+### Karakteristik Logos
 
 - **Universal:** Berlaku di seluruh penjuru semesta tanpa kecuali.
 - **Rasional:** Segala sesuatu terjadi karena ada sebab-akibat yang logis ($P \rightarrow Q$).
@@ -49,7 +49,7 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 
 *Dalam hidup kamu, momen apa yang terasa seperti kamu sedang "menolak terseret gerobak" dan justru menyakiti diri sendiri?*
 
-## 4\. Matematika Penerimaan: Kehendak vs. Realitas
+## 4\. Kehendak vs. Realitas
 
 Kita dapat menggambarkan kedamaian batin dalam Stoikisme dengan rumus sederhana:
 
@@ -65,22 +65,22 @@ Ketika kita menolak alam (menginginkan sesuatu yang di luar kendali kita atau me
 
 Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut adalah beberapa skenario nyata:
 
-### Skenario 1: Menghadapi Kemacetan
+### 1\. Menghadapi Kemacetan
 
 - **Melawan Alam:** Marah-marah, memukul setir, dan stres karena "seharusnya tidak macet". kamu sedang melawan hukum sebab-akibat (banyak kendaraan di ruang terbatas = macet).
 - **Selaras dengan Alam:** Mengakui bahwa kemacetan adalah bagian dari realitas saat ini. kamu menggunakan nalar untuk tetap tenang (karena marah tidak akan menghilangkan mobil di depan kamu) dan menggunakan waktu tersebut untuk mendengarkan *audiobook* atau merenung.
 
-### Skenario 2: Proses Penuaan
+### 2\. Proses Penuaan
 
 - **Melawan Alam:** Menghabiskan energi dan kebahagiaan untuk membenci kerutan atau penurunan stamina, mencoba melawan hukum biologis yang tak terelakkan.
 - **Selaras dengan Alam:** Menerima bahwa pertumbuhan dan peluruhan adalah siklus alami ($\text{Birth} \rightarrow \text{Growth} \rightarrow \text{Decay}$). Fokus pada kebijaksanaan yang datang seiring usia, bukan pada fisik yang memudar.
 
-### Skenario 3: Kegagalan dalam Pekerjaan
+### 3\. Kegagalan dalam Pekerjaan
 
 - **Melawan Alam:** Merasa semesta tidak adil dan terus-menerus bertanya "Mengapa saya?".
 - **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
 
-## 6\. Contoh Teknis: Algoritma Keputusan Stoik
+## 6\. Algoritma Keputusan Stoik
 
 Jika kita menerjemahkan hidup selaras dengan alam ke dalam logika pemrograman sederhana, bentuknya akan seperti ini:
 

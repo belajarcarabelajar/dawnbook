@@ -1,4 +1,4 @@
-## Pengenalan Stoikisme: Seni Menavigasi Badai Kehidupan
+## Pengenalan Stoikisme
 
 Pernahkah kamu merasa bahwa dunia ini terlalu berisik, terlalu cepat, dan sering kali tidak adil? Di tengah ketidakpastian ekonomi, tekanan media sosial, dan drama kehidupan pribadi, banyak orang mencari "pegangan" agar tidak hancur oleh keadaan. Di sinilah **Stoikisme** hadir.
 
@@ -16,7 +16,7 @@ Secara etimologis, Stoikisme berasal dari kata Yunani **"Stoa Poikile"** (Seramb
 
 Bagi masyarakat modern, filsafat sering dianggap sebagai perdebatan rumit mengenai hal-hal abstrak. Namun bagi kaum Stoik, filsafat adalah seperti **pelatihan atletik atau praktik medis**.
 
-### Analogi: Dokter Jiwa
+### Dokter Jiwa
 
 Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan kecewa. Stoikisme berperan sebagai dokter yang memberikan "obat" berupa cara berpikir yang benar. Belajar Stoikisme tanpa mempraktikkannya sama seperti membaca resep dokter tanpa meminum obatnya,tidak akan ada perubahan yang terjadi.
 
@@ -25,7 +25,7 @@ Bayangkan jiwa kita sedang "sakit" karena terus-menerus merasa cemas, marah, dan
 - **Teoritis:** Membahas "Apa itu keadilan secara metafisika?"
 - **Stoikisme (Praktis):** Membahas "Bagaimana saya tetap bersikap adil saat rekan kerja mengkhianati saya?"
 
-## Tujuan Utama: Mencapai Ketenangan Batin
+## Mencapai Ketenangan Batin
 
 Dua konsep utama yang menjadi tujuan akhir dari perjalanan seorang Stoik adalah **Eudaimonia** dan **Ataraxia**.
 
@@ -39,7 +39,7 @@ Ini adalah kondisi batin yang bebas dari gangguan emosi negatif. Bayangkan kamu 
 
 **Rumus Sederhana Stoikisme:** $\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir}$
 
-## Real-world Application: Stoikisme dalam Logika Pemrograman
+## Logika Pemrograman ala Stoik
 
 Meskipun Stoikisme adalah filsafat kuno, logikanya sangat mirip dengan struktur pemrograman komputer. Seorang Stoik belajar untuk melakukan *filtering* terhadap input yang masuk.
 

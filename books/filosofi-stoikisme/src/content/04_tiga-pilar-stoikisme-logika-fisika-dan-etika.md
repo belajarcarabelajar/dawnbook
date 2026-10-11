@@ -1,4 +1,4 @@
-## Tiga Pilar Stoikisme: Logika, Fisika, dan Etika
+## Tiga Pilar Stoikisme
 
 Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutipan motivasi untuk tetap tenang di bawah tekanan. Namun, bagi para filosof kuno di Stoa, ini adalah sebuah sistem ilmu pengetahuan yang sangat terstruktur. Mereka tidak melihat filsafat sebagai hobi akhir pekan, melainkan sebagai kurikulum menyeluruh untuk memahami realitas dan menguasai seni hidup.
 
@@ -14,7 +14,7 @@ Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) sangat me
 
 > **Pesan Utama:** Tanpa pagar (Logika), taman akan hancur. Tanpa tanah (Fisika), tidak ada yang bisa tumbuh. Namun, tanpa buah (Etika), seluruh usaha tersebut menjadi sia-sia.
 
-## 1\. Logika: Sang Penjaga Gerbang Pikiran
+## 1\. Logika
 
 Dalam konteks Stoik, **Logika** bukan hanya rumus matematika atau silogisme formal. Ia mencakup teori pengetahuan (*epistemologi*), retorika, dan dialektika.
 
@@ -24,7 +24,7 @@ Logika adalah alat untuk memproses **Kesan (Impressions)**. Setiap hari, dunia m
 
 Stoikisme mengajarkan kita untuk tidak langsung menerima kesan tersebut sebagai kebenaran. Logika membantu kita memberikan **Persetujuan (Assent)** hanya pada hal-hal yang benar secara objektif.
 
-### Konsep Kunci: Prohairesis
+### Prohairesis
 
 Ini adalah kemampuan rasional manusia untuk mengevaluasi kesan. Kita belajar memisahkan antara:
 
@@ -33,11 +33,11 @@ Ini adalah kemampuan rasional manusia untuk mengevaluasi kesan. Kita belajar mem
 
 *Refleksi Batin: Berapa banyak penderitaan dalam hidup yang sebenarnya bukan berasal dari kejadian itu sendiri, melainkan dari persepsi subjektif dalam menilainya?*
 
-## 2\. Fisika: Memahami Hukum Alam Semesta
+## 2\. Fisika
 
 Bagi Stoik, **Fisika** bukan hanya belajar tentang gravitasi atau atom, melainkan studi tentang *Physis* (Alam). Ini adalah upaya untuk memahami struktur alam semesta dan posisi manusia di dalamnya.
 
-### Logos: Nafas Alam Semesta
+### Logos
 
 Stoik percaya bahwa alam semesta tidak kacau, melainkan diatur oleh rasionalitas ilahi yang disebut **Logos**. Alam semesta adalah satu organisme hidup yang saling terhubung.
 
@@ -51,7 +51,7 @@ Dalam pandangan Fisika Stoik:
 
 Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni yang presisi. Secara metaforis, jika $U$ adalah Universe dan $p$ adalah bagian kecil (manusia), maka: $U = \sum_{i=1}^{n} p_i$ Di mana setiap $p$ harus berfungsi sesuai dengan fungsinya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
 
-## 3\. Etika: Seni Menjalani Hidup
+## 3\. Etika
 
 Inilah puncak dari filsafat Stoik. **Etika** adalah jawaban atas pertanyaan: *"Bagaimana saya harus hidup?"*
 
@@ -67,7 +67,7 @@ Etika Stoik memerintahkan kita untuk "Hidup sesuai dengan alam." Artinya:
 
 **Penting:** Bagi Stoik, kebajikan adalah satu-satunya kebaikan sejati. Hal-hal lain seperti kekayaan, kesehatan, atau reputasi disebut sebagai *indifferents* (hal yang netral/tidak berpengaruh pada karakter inti kita).
 
-## Real-World Application: Menghadapi Kegagalan Proyek
+## Kegagalan Proyek Besar di Kantor
 
 Mari kita lihat bagaimana ketiga pilar ini bekerja dalam skenario nyata ketika kamu gagal dalam sebuah proyek besar di kantor:
 

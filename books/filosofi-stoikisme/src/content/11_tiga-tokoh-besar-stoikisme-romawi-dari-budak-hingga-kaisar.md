@@ -1,14 +1,14 @@
-## Tiga Tokoh Besar Stoikisme Romawi: Dari Budak hingga Kaisar
+## Tiga Tokoh Besar Stoikisme Romawi
 
 Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang dengan latar belakang yang sangat kontras? Bayangkan seorang penasihat kaisar yang sangat kaya raya, seorang budak yang cacat fisik, dan seorang kaisar yang menguasai hampir seluruh dunia yang dikenal saat itu.
 
 Meskipun status sosial mereka bagaikan bumi dan langit, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
 
-## 1\. Seneca: Sang Negarawan (4 SM−65 M4 \\text{ SM} - 65 \\text{ M})
+## 1\. Seneca (4 SM−65 M4 \\text{ SM} - 65 \\text{ M})
 
 Lucius Annaeus Seneca adalah sosok yang penuh kontras. Ia adalah salah satu orang terkaya di Roma, seorang dramawan terkenal, dan penasihat utama Kaisar Nero. Namun, ia juga seorang praktisi Stoikisme yang tekun.
 
-### Inti Pemikiran: Kebijaksanaan dalam Kemakmuran dan Kesengsaraan
+### Kebijaksanaan dalam Kemakmuran dan Kesengsaraan
 
 Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan-tulisannya yang berbentuk surat (*Epistulae Morales ad Lucilium*) terasa sangat pribadi dan penuh empati.
 
@@ -19,11 +19,11 @@ Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan
 
 **Analogi Seneca:** Bayangkan hidup seperti sebuah perjamuan makan malam. Seorang Stoik seperti Seneca akan menikmati hidangan mewah jika tersedia, tetapi ia tidak akan menangis jika pelayan mengambil piringnya, karena ia tahu sejak awal bahwa hidangan itu bukan miliknya selamanya.
 
-## 2\. Epictetus: Sang Mantan Budak (55 M−135 M55 \\text{ M} - 135 \\text{ M})
+## 2\. Epictetus (55 M−135 M55 \\text{ M} - 135 \\text{ M})
 
 Jika Seneca mengajarkan bagaimana tetap menjadi Stoik di tengah kekayaan, Epictetus mengajarkan bagaimana menjadi merdeka di tengah perbudakan. Ia lahir sebagai budak di Hierapolis dan memiliki kaki yang pincang akibat siksaan atau penyakit.
 
-### Inti Pemikiran: Kehendak Bebas (Prohairesis)
+### Kehendak Bebas (Prohairesis)
 
 Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang benar-benar kita miliki adalah **kehendak bebas** atau cara kita merespons sesuatu.
 
@@ -33,11 +33,11 @@ Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang 
 
 > **Pesan Utama Epictetus:** "Bukan hal-hal yang terjadi pada kita yang mencemaskan kita, melainkan opini kita tentang hal-hal tersebut."
 
-## 3\. Marcus Aurelius: Sang Kaisar (121 M−180 M121 \\text{ M} - 180 \\text{ M})
+## 3\. Marcus Aurelius (121 M−180 M121 \\text{ M} - 180 \\text{ M})
 
 Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit: wabah penyakit (Plague Antonine), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
 
-### Inti Pemikiran: Kewajiban dan Kesadaran Kosmik
+### Kewajiban dan Kesadaran Kosmik
 
 Berbeda dengan Seneca yang menulis untuk orang lain, Marcus menulis untuk mendisiplinkan dirinya sendiri.
 
@@ -58,7 +58,7 @@ Berbeda dengan Seneca yang menulis untuk orang lain, Marcus menulis untuk mendis
 | **Fokus Utama** | Penggunaan waktu & emosi | Kehendak bebas & kendali | Tugas, tanggung jawab & takdir |
 | **Kekuatan** | Retorika & Inspirasi | Ketajaman Logika | Kedalaman Spiritual |
 
-## Aplikasi Dunia Nyata: Menggunakan "Kacamata" Tiga Tokoh
+## Menggunakan "Kacamata" Tiga Tokoh
 
 Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (misalnya: gagal mendapatkan promosi jabatan)?
 
