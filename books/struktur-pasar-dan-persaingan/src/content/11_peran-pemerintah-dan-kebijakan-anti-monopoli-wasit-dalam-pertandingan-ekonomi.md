@@ -70,10 +70,10 @@ $$
 
 ### 5. Kasus-Kasus Besar
 
-**Skenario 1: Industri Maskapai Penerbangan**  
+**Skenario 1 Industri Maskapai Penerbangan**  
 Beberapa tahun lalu di Indonesia, KPPU pernah menyelidiki dugaan kartel harga tiket pesawat. Ketika harga tiket dari berbagai maskapai naik secara bersamaan dan tetap tinggi meskipun biaya operasional turun, pemerintah melalui KPPU melakukan investigasi untuk memastikan tidak ada kesepakatan rahasia di balik meja.
 
-**Skenario 2: Teknologi Global**  
+**Skenario 2 Teknologi Global**  
 Uni Eropa sering kali mendenda perusahaan teknologi raksasa (seperti Google atau Microsoft) karena dianggap menyalahgunakan posisi dominan mereka. Misalnya, memaksa sistem operasi tertentu untuk selalu menggunakan *browser* bawaan mereka tanpa memberikan pilihan mudah bagi pengguna untuk beralih ke pesaing.
 
 ### 6. Dilema Regulasi pada Monopoli Alami

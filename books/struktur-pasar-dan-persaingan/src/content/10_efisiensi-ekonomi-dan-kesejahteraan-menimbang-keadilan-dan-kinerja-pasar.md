@@ -69,7 +69,7 @@ $$
 
 ## 5. Dampak Privatisasi pada Perusahaan Air Minum
 
-**Skenario: Transformasi Perusahaan Air Minum**
+**Skenario Transformasi Perusahaan Air Minum**
 
 Di sebuah kota, layanan air minum awalnya dikelola oleh pemerintah dengan harga terjangkau mendekati $P = \text{MC}$ untuk memaksimalkan efisiensi alokatif. Namun, akibat ketiadaan kompetisi, biaya operasional membengkak sehingga timbul inefisiensi produktif.
 

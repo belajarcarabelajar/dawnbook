@@ -77,7 +77,7 @@ Mari kita terapkan klasifikasi ini pada evolusi transportasi:
 2. **Transportasi Online (Awal Muncul):** Menciptakan pasar *Oligopoli*. Hanya ada beberapa pemain besar (Go-Jek, Grab, Uber pada masanya). Persaingan sangat ketat pada harga dan promo karena mereka memperebutkan pangsa pasar yang sama.
 3. **KAI (Kereta Api Indonesia):** Contoh *Monopoli*. Tidak ada perusahaan swasta lain yang menyediakan jasa transportasi kereta api antar kota di jalur yang sama di Indonesia.
 
-## Ringkasan Singkat
+## Poin Penting
 
 - **Struktur pasar** ditentukan oleh jumlah perusahaan, jenis produk, dan kemudahan akses masuk.
 - **Persaingan Sempurna** dan **Monopoli** adalah dua titik ekstrem dalam spektrum ekonomi.

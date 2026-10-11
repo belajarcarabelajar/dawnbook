@@ -69,7 +69,7 @@ Mari kita lihat bagaimana interdependensi bekerja di dunia nyata, khususnya pada
 
 Inilah alasan mengapa maskapai lebih suka bersaing lewat layanan, ketepatan waktu (*on-time performance*), atau kenyamanan kursi daripada sekadar adu murah yang merusak industri.
 
-## Ringkasan Strategis
+## Ciri Oligopoli dan Dampaknya pada Perusahaan
 
 | Fitur | Dampak pada Perusahaan |
 | --- | --- |

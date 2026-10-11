@@ -93,7 +93,7 @@ print(f"Nilai dengan 200 pengguna: {hitung_nilai_jaringan(pengguna_baru)}")
 # Perhatikan bahwa ketika pengguna hanya naik 2x lipat, nilainya naik 4x lipat!
 ```
 
-## Ringkasan Singkat
+## Perbandingan Pasar Tradisional dan Pasar Digital
 
 | Fitur | Pasar Tradisional | Pasar Ekonomi Digital |
 | --- | --- | --- |
