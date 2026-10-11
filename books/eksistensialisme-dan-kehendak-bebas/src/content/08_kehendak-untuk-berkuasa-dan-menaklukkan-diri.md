@@ -66,6 +66,6 @@ Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena p
 - **Pembersihan Resentimen:** Menolak mentalitas korban yang menyalahkan struktur luar, dan mengalihkan energi untuk membangun kompetensi otonom.
 - **Afirmasi *Amor Fati*:** Mencintai realitas secara utuh beserta segala dinamika dan tantangan yang menyertainya tanpa penyesalan destruktif.
 
-### 6. Sintesis Bab
+### 6. Menguasai Kelemahan Diri Sendiri
 
 Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan luhur masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.

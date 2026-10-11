@@ -51,6 +51,6 @@ Dalam ranah sosiologi kelompok, komunitas bajak laut Topi Jerami dan aliansi Arm
 
 Ketika para komandan aliansi hendak bersumpah setia sebagai bawahan pasca-peristiwa Dressrosa, Luffy menolak tradisi cawan sumpah komandan-bawahan dan menegaskan bahwa relasi mereka dibangun atas dasar kesukarelaan untuk saling membantu tatkala dibutuhkan, bukan kepatuhan komando hierarkis.
 
-### 5. Sintesis Bab
+### 5. Kebebasan Non-Dominatif Raja Bajak Laut
 
 Filosofi Raja Bajak Laut dalam semesta *One Piece* menegaskan bahwa esensi kemerdekaan sejati bukan terletak pada hasrat untuk menguasai atau menundukkan orang lain, melainkan pada keberanian menjadi tuan atas kehendak diri sendiri sembari membuka jalan bagi kebebasan sesama. Melalui praksis kebebasan non-dominatif ini, sosok Raja Bajak Laut menjadi simbol kemerdekaan jiwa manusia di hadapan samudra eksistensi yang terbentang luas.

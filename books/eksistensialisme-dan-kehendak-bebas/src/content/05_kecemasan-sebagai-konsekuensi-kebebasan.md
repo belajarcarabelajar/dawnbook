@@ -81,6 +81,6 @@ def eksekusi_pilihan_eksistensial(kumpulan_opsi):
         return "Iktikad Buruk (Mauvaise Foi)"
 ```
 
-### 7. Sintesis Bab
+### 7. Harga Ontologis dari Kebebasan
 
 Kecemasan adalah harga ontologis yang harus dibayar demi kepemilikan atas kebebasan. Menolak kecemasan berarti menolak kedaulatan diri sebagai manusia bebas. Dengan merangkul kecemasan sebagai konsekuensi wajar dari kebebasan, individu dapat melangkah dengan penuh kesadaran dan keteguhan dalam mengarungi dinamika eksistensi.

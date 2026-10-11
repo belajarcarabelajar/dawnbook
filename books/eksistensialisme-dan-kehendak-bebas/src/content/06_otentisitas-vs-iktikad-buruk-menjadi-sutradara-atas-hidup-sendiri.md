@@ -75,6 +75,6 @@ Dalam dinamika kebudayaan kontemporer, manifestasi *mauvaise foi* teramati dalam
 - **Kurasi Identitas Digital:** Mengidentifikasikan diri secara total dengan persona media sosial, sehingga subjek terperangkap menjadi objek bagi tatapan orang lain (*the Look / le regard d'autrui*).
 - **Relasi Interpersonal:** Bertahan dalam hubungan destruktif atas nama determinisme takdir atau harapan pasif.
 
-### 6. Sintesis Bab
+### 6. Otentisitas sebagai Perjuangan Berkesinambungan
 
 Menjalani eksistensi secara otentik adalah perjuangan berkesinambungan yang menuntut kejujuran batiniah secara radikal. Iktikad buruk menawarkan ilusi kenyamanan mental dengan menanggalkan kedaulatan diri. Namun, hanya melalui pembongkaran topeng-topeng kepalsuan dan penerimaan tanggung jawab kebebasan, manusia dapat mengukuhkan dirinya sebagai pencipta naskah kehidupannya sendiri.

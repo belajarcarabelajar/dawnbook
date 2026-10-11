@@ -86,6 +86,6 @@ Eksistensialisme mengkritik keras kecenderungan manusia untuk menjadikan label p
 
 Banyak individu mengalami kelumpuhan eksistensial akibat keyakinan bahwa terdapat satu "panggilan hidup" (*calling*) tersembunyi yang harus dicari. Eksistensialisme mendemistifikasi ilusi ini dengan menegaskan bahwa tidak ada panggilan objektif yang tertanam di kosmos. Panggilan hidup adalah apa pun jalan hidup yang dipilih, diperjuangkan, dan diisi dengan makna secara otentik oleh subjek yang bersangkutan.
 
-### 7. Sintesis Bab
+### 7. Manusia sebagai Arsitek Makna Keberadaan
 
 Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan yang tak terbatas.
