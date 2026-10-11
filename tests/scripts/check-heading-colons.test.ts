@@ -142,6 +142,37 @@ describe("check-heading-colons", () => {
       expect(scanContent(md).violations).toEqual([]);
     });
 
+    it("scanContent flags a whole-line bold title that carries a colon", () => {
+      const md = [
+        "**Skenario: Siang hari yang membosankan**",
+        "> **Studi Kasus: Tim Pengembang**",
+        "**Analogi: Pilot** <!-- heading-colon-ok: kutipan judul resmi -->",
+        "",
+      ].join("\n");
+      const r = scanContent(md);
+      expect(r.violations).toEqual([
+        { line: 1, text: "Skenario: Siang hari yang membosankan" },
+        { line: 2, text: "Studi Kasus: Tim Pengembang" },
+      ]);
+      expect(r.exempted).toEqual([{ line: 3, text: "Analogi: Pilot", reason: "kutipan judul resmi" }]);
+    });
+
+    it("scanContent leaves inline bold lead-ins, trailing-colon labels, long callouts and fences alone", () => {
+      const long = `**Penting: ${"kalimat panjang ".repeat(8)}**`;
+      const md = [
+        "**Penting:** teks sesudahnya di baris yang sama",
+        "**Contoh Soal:**",
+        "**Tanpa colon sama sekali**",
+        "**Awal: bold** lalu teks lain",
+        long,
+        "```",
+        "**Di dalam: kode**",
+        "```",
+        "",
+      ].join("\n");
+      expect(scanContent(md).violations).toEqual([]);
+    });
+
     it("scanContent exempts only with a non-empty reason", () => {
       const md = [
         "## A: B <!-- heading-colon-ok: kutipan judul resmi -->",
@@ -465,6 +496,18 @@ describe("check-heading-colons", () => {
       );
       const r = run(["--root", tmp, "--diff-guard", "HEAD"]);
       expect(r.code).toBe(0);
+    });
+
+    it("passes when only a whole-line bold title changed", () => {
+      writeBook(tmp, "b", {
+        chapters: { "01_a.md": "# Bab\n\n**Skenario: Lama**\n\nTeks.\n" },
+      });
+      commitBase(tmp);
+      fs.writeFileSync(
+        path.join(tmp, "books/b/src/content/01_a.md"),
+        "# Bab\n\n**Skenario Baru**\n\nTeks.\n",
+      );
+      expect(run(["--root", tmp, "--diff-guard", "HEAD"]).code).toBe(0);
     });
 
     it("passes for SUMMARY entry and book.toml title changes", () => {

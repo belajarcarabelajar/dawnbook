@@ -36,6 +36,9 @@ const MARKER = /<!--\s*heading-colon-ok:\s*(.*?)\s*-->\s*$/;
 // A heading may sit inside blockquotes or a list item, and mdBook still renders it as one.
 const CONTAINER = String.raw`(?:>[ \t]*)*(?:(?:[-*+]|\d+[.)])[ \t]+)?`;
 const HEADING = new RegExp(String.raw`^ {0,3}${CONTAINER}#{1,6}(?:[ \t]+(.*))?$`);
+// A paragraph that is only bold text works as a sub-title, so it follows the same colon rule.
+// Longer lines are callouts, not titles, and inline lead-ins such as `**Penting:** teks` do not match.
+const BOLD_TITLE = /^ {0,3}(?:>[ \t]*)*\*\*([^*\n]{1,100})\*\*[ \t]*(?:<!--.*-->)?[ \t]*$/;
 // Matches only a single-line <hN>...</hN>, optionally followed by an exemption comment.
 const HTML_HEADING = new RegExp(
   String.raw`^ {0,3}${CONTAINER}<h([1-6])(?:[ \t][^>]*)?>(.*)</h\1[ \t]*>[ \t]*(?:<!--.*?-->)?[ \t]*$`,
@@ -148,7 +151,13 @@ export function scanContent(md: string): ScanResult {
       return;
     }
     const s = setextAt(lines, skip, i);
-    if (s) classify(s.text, lines[i - 1], s.top + 1, out);
+    if (s) {
+      classify(s.text, lines[i - 1], s.top + 1, out);
+      return;
+    }
+    const b = BOLD_TITLE.exec(line);
+    // A trailing colon (`**Contoh Soal:**`) is a plain label; only `Label: Subjudul` is the pattern.
+    if (b && /[:：]\s*\S/.test(b[1])) classify(b[1], line, i + 1, out);
   });
   return out;
 }
@@ -377,7 +386,7 @@ export function diffGuard(
   const allowed = (file: string, text: string, side: "old" | "new", lineNo: number): boolean => {
     if (bodyOk.has(file)) return true;
     if (CONTENT_PATH.test(file)) {
-      return HEADING.test(text) && !maskFor(side, file)[lineNo - 1];
+      return (HEADING.test(text) || BOLD_TITLE.test(text)) && !maskFor(side, file)[lineNo - 1];
     }
     if (/^books\/[^/]+\/src\/SUMMARY\.md$/.test(file)) return SUMMARY_ENTRY.test(text);
     if (/^books\/[^/]+\/book\.toml$/.test(file)) return TOML_TITLE.test(text);
