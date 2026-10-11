@@ -1,4 +1,4 @@
-## Risiko dan Komplikasi Tonsilektomi: Memahami Sisi Lain Perjalanan Bedah
+## Risiko dan Komplikasi Tonsilektomi
 
 Setiap prosedur bedah, sekecil apa pun, adalah sebuah perjalanan bagi tubuh. Meskipun tonsilektomi (pengangkatan amandel) telah menjadi prosedur rutin yang sangat aman dengan tingkat keberhasilan tinggi, tubuh manusia bukanlah mesin yang selalu bisa diprediksi secara mekanis.
 
@@ -28,7 +28,7 @@ Jika keropeng ini lepas sebelum waktunya, misalnya karena tergesek makanan yang 
 
 > **Insight Penting:** Pendarahan sekunder sering kali diawali dengan tetesan darah segar berwarna merah terang. Jika kamu melihat darah merah segar (bukan bercak kecokelatan), segera cari bantuan medis tanpa menunda.
 
-## 3. Dehidrasi: Musuh Tersembunyi Pemulihan
+## 3. Dehidrasi dan Lingkaran Setan Rasa Sakit
 
 Dehidrasi merupakan komplikasi yang paling sering menyebabkan pasien harus kembali dirawat di rumah sakit setelah tonsilektomi.
 
@@ -57,13 +57,13 @@ Salah satu kondisi yang dapat terjadi adalah dysgeusia, yaitu munculnya rasa pah
 | **Pendarahan** | Hari 5-10 | Potensial Darurat | Kompres es, segera ke IGD jika masif |
 | **Dehidrasi** | Kapan saja | Sedang | Minum sedikit-sedikit tapi sering |
 
-## Skenario Nyata: Belajar dari Pengalaman Budi
+## Belajar dari Pengalaman Budi
 
 Budi, seorang remaja berusia 16 tahun, merasa sangat lapar pada hari ketujuh pasca-operasi. Karena merasa nyeri sudah berkurang, ia nekat memakan keripik kentang yang bertekstur tajam. Sesaat kemudian, ia merasakan ada cairan hangat di tenggorokannya, dan saat meludah, tampak darah merah segar.
 
 Goresan dari potongan keripik kentang yang tajam tersebut telah merobek keropeng (scab) yang sebenarnya belum matang untuk terkelupas secara alami. Kejadian ini memberi pelajaran penting bahwa mematuhi panduan makanan lunak merupakan langkah keselamatan utama untuk menghindari pendarahan mekanis, di samping menjaga kenyamanan tenggorokan.
 
-## Manajemen Risiko: Langkah Pencegahan yang Bisa Kamu Lakukan
+## Langkah Pencegahan yang Bisa Kamu Lakukan
 
 Meskipun risiko di atas nyata, sebagian besar kondisi tersebut dapat dicegah dengan langkah-langkah berikut:
 

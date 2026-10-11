@@ -8,21 +8,21 @@ Anggaplah luka bekas operasi amandel ini seperti **semen basah pada trotoar yang
 
 Masa pemulihan setelah operasi amandel umumnya berlangsung selama 10 hingga 14 hari. Kondisi yang dirasakan bisa berbeda-beda setiap harinya:
 
-### Fase 1: Istirahat Total (Hari ke-1 - ke-3)
+### 1. Istirahat Total (Hari ke-1 - ke-3)
 
 Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya mencapai puncaknya. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar $30^\circ - 45^\circ$. Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
 
-### Fase 2: Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
+### 2. Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
 
 Pada fase ini, lapisan putih keabu-abuan (*slough*) akan terbentuk di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. 
 
 Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari gerakan mendadak yang bisa menaikkan tekanan darah. Harap berhati-hati karena keropeng ini mulai mengelupas pada hari ke-5 hingga ke-10, yang dapat memicu risiko perdarahan.
 
-### Fase 3: Transisi (Hari ke-8 - ke-14)
+### 3. Transisi (Hari ke-8 - ke-14)
 
 Rasa nyeri biasanya mulai mereda, meskipun terkadang muncul sensasi nyeri yang menjalar ke telinga. Kamu boleh mulai bergerak lebih aktif di dalam rumah, tetapi tetap hindari olahraga berat. Makanan yang sedikit lebih padat juga sudah bisa dicoba secara bertahap.
 
-## Batasan Aktivitas Fisik: Apa yang Boleh dan Tidak?
+## Batasan Aktivitas Fisik
 
 Mengapa pembatasan fisik ini begitu penting? Jawabannya terletak pada tekanan darah $P$. Gerakan atau aktivitas fisik yang melelahkan bisa memicu lonjakan tekanan darah sistemik. Tekanan tinggi ini dapat mendorong sumbat darah pada luka yang baru mulai mengering, sehingga memicu perdarahan hebat yang berbahaya.
 
@@ -53,7 +53,7 @@ Secara umum, kamu atau anakmu sudah bisa kembali beraktivitas normal setelah 10 
 
 Jika kamu seorang atlet atau pekerja lapangan, diskusikan dengan dokter untuk memperpanjang masa istirahat hingga 3 minggu demi memastikan pemulihan total.
 
-## Skenario Nyata: Kisah Pemulihan Andi (10 Tahun)
+## Kisah Pemulihan Andi (10 Tahun)
 
 Mari kita lihat bagaimana proses pemulihan berjalan pada Andi, seorang anak berusia 10 tahun yang menjalani operasi pada hari Senin.
 

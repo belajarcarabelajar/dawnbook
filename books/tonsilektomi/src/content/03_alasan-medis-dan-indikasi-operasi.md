@@ -1,4 +1,4 @@
-## Alasan Medis dan Indikasi Operasi: Kapan Amandel Harus Diangkat?
+## Alasan Medis dan Indikasi Operasi
 
 Banyak orang menduga bahwa radang atau sakit tenggorokan biasa sudah cukup menjadi alasan untuk menjalani tonsilektomi. Padahal, dalam dunia medis modern, keputusan untuk melakukan operasi tidak diambil secara sembarangan.
 
@@ -68,7 +68,7 @@ Selain faktor infeksi dan ukuran amandel, ada beberapa kondisi mendesak lain yan
 - **Bau mulut kronis (Halitosis):** Terjadi karena sisa makanan tersangkut di celah atau lubang amandel (kripta) dan mengeras menjadi batu amandel (*tonsilloliths*). Jika bau tajam ini terus bertahan dan tidak membaik dengan pembersihan biasa, tonsilektomi bisa menjadi solusi akhir.
 - **Sindrom PFAPA:** Singkatan dari *Periodic Fever, Aphthous Stomatitis, Pharyngitis, and Adenitis*. Ini merupakan gangguan langka pada anak yang ditandai dengan demam tinggi berulang setiap beberapa minggu secara berkala.
 
-## Real-World Application: Skenario Kasus
+## Kasus Budi dan Siska
 
 Mari kita ulas contoh kasus nyata agar kamu bisa melihat bagaimana kriteria di atas diterapkan:
 

@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan sebuah prosedur medis yang telah dilakukan manusia s
 
 Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 
-## Memahami Tonsilektomi: Definisi dan Esensi
+## Definisi dan Esensi Tonsilektomi
 
 Tonsilektomi adalah operasi pengangkatan **tonsil palatina** secara keseluruhan. Meskipun sering dianggap sebagai "operasi anak-anak", prosedur ini juga dilakukan pada orang dewasa dengan indikasi medis tertentu.
 
@@ -12,21 +12,21 @@ Bayangkan amandelmu sebagai **pos penjagaan keamanan** di gerbang tenggorokan. T
 
 > **Intisari:** Prosedur tonsilektomi merupakan langkah medis strategis guna meningkatkan kualitas hidup pasien. Tindakan ini bertujuan menghilangkan sumber infeksi kronis atau mengatasi hambatan fisik pada saluran pernapasan.
 
-## Evolusi Medis: Dari Jari Tangan ke Teknologi Plasma
+## Evolusi Medis dari Jari Tangan ke Teknologi Plasma
 
 Sejarah tonsilektomi adalah perjalanan panjang yang luar biasa. Teknik yang kita gunakan hari ini sangat jauh berbeda dengan apa yang dilakukan ribuan tahun lalu.
 
-### 1. Era Kuno: Keberanian yang Menyakitkan
+### 1. Era Kuno
 
 Catatan pertama mengenai tonsilektomi ditemukan dalam literatur Hindu sekitar tahun 1000 SM. Namun, deskripsi paling terkenal berasal dari **Cornelius Celsus** pada tahun 50 M di Romawi.
 
 Pada masa kuno tersebut, amandel dipisahkan dari jaringan sekitarnya menggunakan kuku jari tangan atau pengait besi sebelum akhirnya dipotong. Tanpa adanya pembiusan (anestesi) serta alat pembeku darah yang memadai, tindakan ini menjadi prosedur dengan risiko pendarahan sangat tinggi.
 
-### 2. Era Abad Pertengahan hingga Abad ke-19: Evolusi Instrumen
+### 2. Era Abad Pertengahan hingga Abad ke-19
 
 Muncul alat yang disebut *Tonsillotome* or *Guillotine* amandel. Alat ini bekerja mirip alat pemotong cerutu yang menjepit dan memotong amandel dalam waktu singkat. Walaupun durasi tindakan menjadi lebih cepat, risiko pendarahan pascaoperasi tetap saja tinggi.
 
-### 3. Era Modern: Presisi dan Keamanan
+### 3. Era Modern
 
 Memasuki abad ke-20 dan ke-21, fokus pembedahan bergeser dari sekadar mengangkat jaringan menjadi upaya meminimalkan kerusakan pada area sekitar.
 
@@ -35,13 +35,13 @@ Beberapa metode modern yang sering digunakan antara lain:
 - **Elektrokauter (Hot Dissection):** Teknik ini menggunakan energi panas untuk memotong amandel sekaligus menyumbat pembuluh darah guna mencegah pendarahan.
 - **Coblation (Cold Ablation) yang lebih modern:** Teknologi radiofrekuensi ini memutus ikatan molekul jaringan pada suhu rendah, berkisar antara $40^\circ \text{C}$ hingga $70^\circ \text{C}$, guna memperingan rasa nyeri pascaoperasi jika dibandingkan dengan pembedahan panas konvensional.
 
-## Real-World Application: Mengapa Prosedur Ini Penting?
+## Mengapa Prosedur Ini Penting?
 
 Dalam praktik klinis, tonsilektomi sering kali merupakan solusi akhir untuk masalah kesehatan yang tidak merespons pengobatan konservatif.
 
 **Skenario Kasus:** Bayangkan seorang anak berusia 6 tahun yang mengalami *Sleep Apnea* (henti napas saat tidur) akibat ukuran amandelnya yang sangat besar. Setiap malam, kadar oksigen $\text{O}_2$ dalam darahnya menurun karena saluran napas tersumbat. Setelah menjalani tonsilektomi, saluran napas terbuka lebar, anak tersebut dapat tidur nyenyak, dan pertumbuhan fisiknya meningkat pesat karena kualitas istirahat yang membaik.
 
-## Perbandingan Cepat: Dulu vs Sekarang
+## Dulu vs Sekarang
 
 | Aspek | Teknik Kuno | Teknik Modern (Contoh: Coblation) |
 | --- | --- | --- |

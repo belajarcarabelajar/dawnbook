@@ -1,4 +1,4 @@
-## Prosedur di Ruang Operasi: Langkah demi Langkah Menuju Kesembuhan
+## Prosedur di Ruang Operasi
 
 Selamat datang di "jantung" dari seluruh proses tonsilektomi. Bagi banyak orang, ruang operasi mungkin terasa misterius atau bahkan menakutkan. Namun, sebenarnya ruang operasi adalah lingkungan yang sangat terkendali, terorganisir, dan didesain khusus untuk keamanan pasien.
 
@@ -12,7 +12,7 @@ Perawat pertama-tama akan memasang sensor pada tubuh untuk memantau tanda-tanda 
 
 Sebelum tindakan dimulai, seluruh tim medis akan melakukan **Time-Out Bedah**. Prosedur keselamatan standar ini memastikan identitas pasien, jenis operasi, dan lokasi pembedahan (dalam hal ini, kedua amandel) sudah benar.
 
-## 2. Induksi Anestesi: "Tidur yang Nyenyak"
+## 2. Induksi Anestesi
 
 Tonsilektomi hampir selalu dilakukan di bawah **Anestesi Umum**. Ini berarti pasien akan tertidur sepenuhnya dan tidak merasakan apa pun selama prosedur berlangsung.
 
@@ -36,7 +36,7 @@ Dokter bedah akan memegang tonsil menggunakan klem, menariknya perlahan ke arah 
 
 Tonsilektomi sebenarnya adalah salah satu operasi tertua di dunia. Bedanya, teknologi medis saat ini memungkinkan penggunaan alat presisi tinggi untuk meminimalkan kerusakan jaringan.
 
-## 5. Hemostasis: Menghentikan Pendarahan
+## 5. Hemostasis
 
 Area amandel kaya akan pembuluh darah kecil. Oleh karena itu, langkah paling penting setelah amandel diangkat adalah **Hemostasis** (penghentian pendarahan).
 
@@ -50,7 +50,7 @@ Setelah kedua amandel diangkat dan area bedah dipastikan kering, dokter bedah me
 - **Pelepasan Alat:** Pembuka mulut dilepaskan secara perlahan dan hati-hati.
 - **Ekstubasi:** Dokter anestesi mulai mengurangi dosis obat tidur, dan selang pernapasan akan dicabut begitu kamu bisa kembali bernapas sendiri secara stabil.
 
-## Real-World Application: Skenario di Ruang Operasi
+## Operasi Anak 7 Tahun Menit demi Menit
 
 Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 

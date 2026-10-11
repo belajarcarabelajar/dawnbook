@@ -1,4 +1,4 @@
-## Pemulihan Awal di Rumah Sakit: Fase Krusial di Ruang PACU
+## Pemulihan Awal di Rumah Sakit
 
 Setelah bedah tonsilektomi selesai, perjalanan kesembuhanmu atau anakmu baru saja dimulai. Tahap awal setelah keluar dari meja operasi berlangsung di **PACU (Post-Anesthesia Care Unit)** atau Ruang Pemulihan. Di unit ini, tim medis mendampingi transisi dari kondisi tidak sadar akibat bius menuju kondisi stabil secara aman.
 
@@ -43,7 +43,7 @@ Selain skor Aldrete yang memadai, pemindahan dari PACU juga mensyaratkan beberap
 - Area operasi (fauces) bersih dari tanda-tanda perdarahan aktif.
 - Keluhan nyeri serta rasa mual atau muntah berada dalam tingkat minimal yang dapat ditoleransi dengan baik.
 
-## Skenario Real-World: Pengalaman Pasien di PACU
+## Pengalaman Pasien di PACU
 
 **Skenario: Budi, 8 Tahun, Pasca-Tonsilektomi**
 

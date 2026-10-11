@@ -1,10 +1,10 @@
-## Persiapan Sebelum Operasi: Langkah Penting Menuju Pemulihan yang Sukses
+## Persiapan Sebelum Operasi
 
 Bayangkan kamu sedang bersiap mendaki gunung yang tinggi. Tentu kamu tidak akan langsung berangkat tanpa mengecek isi tas, memastikan fisik dalam kondisi prima, dan mempelajari rute perjalanan.
 
 Hal serupa berlaku untuk **Tonsilektomi**. Langkah persiapan sebelum operasi berfungsi sebagai panduan utama untuk meminimalkan risiko dan mempercepat pemulihan. Bagian ini akan membahas langkah-langkah praktis mulai dari pemeriksaan medis di laboratorium hingga penyiapan kondisi psikologis.
 
-## 1. Pemeriksaan Laboratorium: Memastikan Tubuh Siap "Bertempur"
+## 1. Pemeriksaan Laboratorium
 
 Sebelum pembedahan dimulai, tim medis wajib memastikan organ-organ tubuhmu berada dalam kondisi stabil. Amandel dikelilingi oleh banyak jaringan pembuluh darah, sehingga pemeriksaan laboratorium akan menitikberatkan pada fungsi pembekuan darah.
 
@@ -16,7 +16,7 @@ Beberapa tes yang biasanya diminta meliputi:
 
 > **Pesan Penting:** Jika kamu memiliki riwayat keluarga dengan gangguan pembekuan darah atau sering mengalami memar tanpa sebab, segera informasikan kepada dokter bedahmu pada tahap ini.
 
-## 2. Konsultasi Anestesi: Bertemu Dokter Spesialis Anestesi
+## 2. Konsultasi Anestesi
 
 Rasa cemas menjelang operasi sering kali dipicu oleh proses pembiusan, bukan tindakan bedahnya sendiri. Oleh sebab itu, rumah sakit menjadwalkan pertemuan khusus dengan dokter spesialis anestesi sebelum hari operasi tiba.
 
@@ -28,7 +28,7 @@ Dalam sesi konsultasi ini, dokter anestesi akan mengevaluasi beberapa aspek kese
 
 Pernahkah kamu atau keluargamu mengalami mual hebat setelah operasi sebelumnya? Jangan ragu untuk menyampaikannya kepada dokter anestesi agar mereka dapat mengantisipasinya dengan obat anti-mual tambahan selama prosedur.
 
-## 3. Aturan Puasa: Mengapa Begitu Ketat?
+## 3. Mengapa Aturan Puasa Begitu Ketat?
 
 Menjalani puasa sebelum operasi memang menantang, terlebih bagi pasien anak-anak. Bagaimanapun, aturan ini merupakan standar keselamatan medis yang wajib dipatuhi tanpa pengecualian.
 
@@ -47,7 +47,7 @@ Demi menekan risiko komplikasi medis, terdapat instruksi pemakaian obat yang har
 - **Hentikan Obat Pengencer Darah:** Kamu harus menghindari obat sejenis Aspirin, Ibuprofen, serta suplemen minyak ikan atau Vitamin E selama 7 hingga 10 hari sebelum operasi. Jenis obat ini berpotensi memicu perdarahan berlebih.
 - **Waspadai Gejala Flu atau Demam:** Apabila tiba-tiba terserang batuk berdahak, demam tinggi, atau pilek menjelang hari H, segera hubungi pihak rumah sakit. Operasi terkadang perlu dijadwal ulang demi menjaga keselamatan jalan napasmu.
 
-## 5. Persiapan Mental: Mengelola Kecemasan
+## 5. Persiapan Mental
 
 Kesiapan mental memiliki pengaruh yang sama besarnya dengan kesiapan fisik dalam menunjang pemulihan. Pendekatan pengelolaan stres ini disesuaikan berdasarkan kategori usia pasien:
 
@@ -63,7 +63,7 @@ Gunakan pendekatan kejujuran yang lembut. Jangan katakan "hanya pergi jalan-jala
 - **Membaca Informasi Prosedur:** Memahami proses operasi secara medis (seperti membaca buku ini) terbukti membantu menurunkan kadar kortisol (hormon stres).
 - **Mempersiapkan Pendamping:** Pastikan ada anggota keluarga atau teman dewasa yang siap mengantar pulang dan menemanimu di rumah selama minimal 24 jam pertama pascaoperasi.
 
-## Real-World Application: Skenario Persiapan "Budi"
+## Persiapan "Budi" 24 Jam Sebelum Operasi
 
 Budi adalah seorang pria berusia 28 tahun yang akan menjalani tonsilektomi karena *sleep apnea*. Berikut adalah *checklist* yang dilakukan Budi 24 jam sebelum operasinya:
 

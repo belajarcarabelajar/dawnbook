@@ -14,7 +14,7 @@ Setelah tonsil diangkat, area tersebut akan membentuk keropeng (scab) putih yang
 
 > **Insight Penting:** Tenggorokan yang lembap akan jauh lebih nyaman daripada tenggorokan yang kering. Hydration yang baik menjaga tissue tetap elastis dan mengurangi risiko keropeng lepas sebelum waktunya.
 
-## 1. Hydration: Prioritas Utama
+## 1. Menjaga Hydration Tubuh
 
 Molecule air $\text{H}_2\text{O}$ adalah sahabat terbaik kamu saat ini. Menjaga tubuh tetap hydrated membantu mengencerkan lendir di tenggorokan dan menjaga area operasi tetap basah.
 
@@ -35,7 +35,7 @@ Selama 24-48 jam pertama, fokus utamanya adalah kenyamanan. Suhu dingin sangat d
   - Es krim (hindari yang mengandung kacang, cokelat batangan, atau topping keras).
   - Bubur dingin yang lembut.
 
-## 3. Phase Transisi: Makanan Progressive Lunak
+## 3. Phase Transisi ke Makanan Lunak
 
 Setelah melewati dua hari pertama, kamu bisa secara gradual memperkenalkan makanan lunak lainnya (soft diet) yang disajikan dalam suhu dingin atau room temperature:
 
@@ -57,7 +57,7 @@ Selama masa pemulihan, hindari kategori makanan berikut untuk mencegah komplikas
 | **Suhu Panas** | Memicu dilation of blood vessels (risiko bleeding). | Sup panas, kopi/teh panas. |
 | **Lengket** | Sulit ditelan dan bisa menempel di area operasi. | Selai kacang kental, permen karet. |
 
-## Real-World Application: Skenario Makan Harian
+## Contoh Menu Aman Hari Keempat
 
 Bayangkan ini adalah hari keempat pemulihanmu. Berikut adalah contoh menu aman yang bisa diterapkan:
 

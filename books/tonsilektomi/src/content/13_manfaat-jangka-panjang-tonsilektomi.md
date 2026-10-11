@@ -1,4 +1,4 @@
-## Manfaat Jangka Panjang Tonsilektomi: Menuju Kualitas Hidup yang Lebih Baik
+## Manfaat Jangka Panjang Tonsilektomi
 
 Setelah melewati masa pemulihan yang menantang, banyak pasien bertanya-tanya: *"Apakah semua rasa sakit ini sepadan?"* Jawabannya, bagi sebagian besar orang yang menderita infeksi kronis atau gangguan pernapasan, adalah **ya**. Tonsilektomi adalah langkah medis untuk mengangkat jaringan bermasalah, sekaligus investasi jangka panjang bagi kesehatan fisik serta mentalmu.
 
@@ -50,13 +50,13 @@ Penelitian medis menunjukkan kekhawatiran jangka panjang ini tidak terbukti kare
 - Amandel yang telanjur rusak akibat infeksi berulang justru kehilangan fungsinya dan berubah menjadi sarang bakteri yang merugikan tubuh.
 - Berbagai studi klinis mengonfirmasi bahwa pasien yang telah menjalani operasi tidak menjadi lebih rentan terhadap serangan penyakit atau gangguan imun di masa mendatang.
 
-## Aplikasi Dunia Nyata: Skenario Pasca-Operasi
+## Dua Pasien Pasca-Operasi
 
-### Kasus 1: Profesional yang Produktif
+### Profesional yang Produktif
 
 Budi (32 tahun) mengalami radang amandel 6 kali setahun. Setiap kali sakit, ia harus izin kerja selama 3 hari. Setelah tonsilektomi, dalam dua tahun terakhir, Budi hanya mengalami satu kali flu ringan. Produktivitasnya meningkat, dan ia tidak lagi merasa "lemas sepanjang waktu".
 
-### Kasus 2: Siswa yang Berprestasi
+### Siswa yang Berprestasi
 
 Santi (7 tahun) sering terbangun di malam hari karena sesak napas dan selalu terlihat mengantuk di kelas. Setelah operasi pengangkatan amandel yang membesar, tidurnya menjadi tenang tanpa suara. Guru di sekolah melaporkan bahwa Santi sekarang lebih waspada dan nilai akademisnya meningkat pesat karena ia tidak lagi berjuang melawan rasa kantuk.
 

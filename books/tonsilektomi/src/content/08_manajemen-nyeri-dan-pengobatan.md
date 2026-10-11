@@ -1,4 +1,4 @@
-## Manajemen Nyeri dan Pengobatan: Menaklukkan Masa Pemulihan
+## Manajemen Nyeri dan Pengobatan
 
 Setelah prosedur tonsilektomi selesai, tantangan terbesar yang dihadapi pasien adalah masa pemulihan di rumah, bukan operasi itu sendiri. Rasa nyeri di tenggorokan adalah hal yang tak terelakkan, namun dengan strategi yang tepat, rasa tidak nyaman ini bisa dikendalikan dengan sangat efektif.
 
@@ -10,7 +10,7 @@ Rasa nyeri pasca-tonsilektomi ini dipicu oleh dua hal utama. Pertama, area bekas
 
 > **Wawasan Penting:** Nyeri sering kali tidak hanya terasa di tenggorokan, melainkan menjalar hingga ke telinga (disebut nyeri rujukan). Hal ini wajar terjadi karena saraf *Glossopharyngeal* melayani area tenggorokan sekaligus telinga. Jadi, jangan panik jika telingamu terasa sakit; itu adalah bagian normal dari proses pemulihan.
 
-### Strategi Farmakologi: Menggunakan Obat-obatan
+### Strategi Farmakologi
 
 Kunci utama manajemen nyeri medis adalah konsistensi. Jangan menunggu nyeri menjadi hebat baru meminum obat. Langkah terbaik adalah mendahului rasa sakit sebelum memuncak.
 
@@ -32,7 +32,7 @@ Kortikosteroid seperti Deksametason kadang diberikan dalam dosis tunggal atau ja
 
 Obat kumur atau spray kebas yang mengandung lidokain juga sering diresepkan untuk memberikan efek mati rasa sementara di tenggorokan. Efek anestesi lokal ini sangat membantu jika digunakan sesaat sebelum makan.
 
-### Strategi Non-Farmakologi: Teknik Pendukung
+### Strategi Non-Farmakologi
 
 Selain obat medis, kamu juga bisa mempercepat pemulihan dengan beberapa langkah sederhana di rumah:
 
@@ -41,7 +41,7 @@ Selain obat medis, kamu juga bisa mempercepat pemulihan dengan beberapa langkah 
 - **Tidur dengan Kepala Lebih Tinggi:** Gunakan 2–3 bantal tambahan saat berbaring. Memosisikan kepala di atas level jantung memanfaatkan gravitasi untuk mengurangi tekanan darah dan pembengkakan di area leher.
 - **Memasang Humidifier:** Alat pelembap udara di kamar tidur sangat membantu menjaga kelembapan tenggorokan, terutama jika kamu tidak sengaja bernapas lewat mulut saat tidur malam.
 
-### Pola Grafik Nyeri: "Lembah dan Puncak"
+### Pola Grafik Nyeri
 
 Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membaik secara instan hari demi hari.
 
@@ -51,7 +51,7 @@ Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membai
 
 Jika kamu merasa nyeri bertambah parah pada hari kelima, jangan cemas. Itu adalah pertanda alami bahwa lapisan pelindung lama mulai mengelupas untuk memberi ruang bagi jaringan baru yang sedang tumbuh, bukan tanda kondisi tubuhmu memburuk.
 
-### Aplikasi Dunia Nyata: Jadwal "Anti-Nyeri" Budi
+### Jadwal "Anti-Nyeri" Budi
 
 Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa, mengelola jadwal pemulihannya di rumah:
 

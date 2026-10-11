@@ -1,4 +1,4 @@
-## Pengenalan Amandel (Tonsil): Garda Terdepan Pertahanan Tubuh
+## Pengenalan Amandel (Tonsil)
 
 Seringkali kita hanya membicarakan amandel saat mereka sedang meradang atau terasa sakit. Namun, tahukah kamu bahwa organ kecil di tenggorokan ini sebenarnya adalah "pahlawan tanpa tanda jasa" yang bekerja 24 jam sehari untuk melindungi kesehatanmu?
 
@@ -10,20 +10,20 @@ Amandel, atau dalam istilah medis disebut sebagai **tonsil**, adalah kumpulan ja
 
 > **Intisari:** Amandel adalah organ tubuh yang normal, bukan sebuah penyakit. Ketika amandel meradang, kondisi ini disebut *tonsilitis*.
 
-## Letak Anatomi: Di Mana Mereka Berada?
+## Letak Anatomi Amandel
 
 Jika kamu membuka mulut lebar-lebar di depan cermin, kamu mungkin bisa melihat dua gumpalan jaringan berbentuk oval di sisi kiri dan kanan belakang tenggorokan. Namun, anatomi amandel sebenarnya lebih kompleks daripada itu.
 
 Dokter mengenal struktur ini sebagai bagian dari **Cincin Waldeyer** (*Waldeyer's Ring*), sebuah lingkaran jaringan pelindung di pintu masuk saluran pernapasan dan pencernaan.
 
-### Komponen Cincin Waldeyer:
+### Komponen Cincin Waldeyer
 
 1. **Tonsila Palatina:** Ini adalah bagian yang paling kita kenal sebagai "amandel". Kamu bisa melihat sepasang organ oval ini langsung di sisi kiri dan kanan tenggorokan tengah (orofaring).
 2. **Tonsila Faringeal (Adenoid):** Posisinya tersembunyi lebih tinggi di belakang rongga hidung. Karena letaknya ini, kamu tidak bisa melihatnya secara langsung hanya dengan membuka mulut di depan cermin.
 3. **Tonsila Lingual:** Jaringan limfoid ini terletak jauh di belakang, tepat di dasar lidah.
 4. **Tonsila Tubal:** Ukurannya kecil dan terletak di dekat saluran tuba eustachius, yaitu saluran penghubung antara telinga bagian tengah dan tenggorokan.
 
-### Struktur Permukaan: Kripta Tonsil
+### Kripta Tonsil
 
 Permukaan amandel tidaklah rata atau licin, melainkan dipenuhi oleh lekukan dan lubang-lubang kecil yang dalam yang disebut **kripta**. 
 
@@ -36,7 +36,7 @@ $$
 
 Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar. Hal ini secara otomatis meningkatkan peluang $P$ bagi amandel untuk mendeteksi dan melumpuhkan patogen sebelum mereka masuk lebih jauh ke dalam tubuh.
 
-## Fungsi Amandel: "Satpam" Sistem Kekebalan Tubuh
+## Fungsi Amandel bagi Sistem Kekebalan Tubuh
 
 Amandel bertindak sebagai garda terdepan dalam sistem pertahanan tubuh, terutama pada masa kanak-kanak. Berikut adalah fungsi utamanya:
 
@@ -54,7 +54,7 @@ Amandel berperan layaknya ruang kelas bagi sistem pertahanan tubuh. Di sini, sis
 
 Mengingat peran penting amandel bagi kekebalan tubuh, wajar jika muncul pertanyaan: mengapa ada kondisi di mana organ ini justru harus diangkat? Pertanyaan ini akan kita bahas secara mendalam di bagian "Alasan Medis dan Indikasi Operasi".
 
-## Analogi: Pos Pemeriksaan Perbatasan
+## Pos Pemeriksaan Perbatasan
 
 Bayangkan tubuhmu sebagai sebuah negara yang makmur, dengan mulut dan hidung sebagai gerbang perbatasan utamanya. Di gerbang ini, amandel bertindak sebagai petugas bea cukai atau penjaga perbatasan yang bersiaga siang dan malam.
 
@@ -67,7 +67,7 @@ Peran amandel tidaklah konstan sepanjang hidup, melainkan berubah seiring bertam
 1. **Masa Kanak-kanak:** Pada fase ini, amandel mencapai ukuran maksimal dan bekerja dengan intensitas tertinggi. Tubuh anak yang sedang tumbuh membutuhkan proteksi ekstra karena sistem imun mereka masih belajar mengenali dan melawan berbagai jenis kuman baru di lingkungannya.
 2. **Memasuki Pubertas hingga Usia Dewasa:** Setelah melewati masa pubertas, amandel perlahan-lahan menyusut (mengalami atrofi). Pada fase dewasa, organ pertahanan tubuh yang lain sudah berkembang matang, sehingga tugas amandel sebagai benteng pertahanan utama tidak lagi sedominan dahulu.
 
-## Aplikasi Nyata: Mengapa Amandel Membengkak?
+## Mengapa Amandel Membengkak?
 
 Pernahkah kamu bertanya mengapa amandel membengkak saat kita sakit? Itu sebenarnya adalah tanda bahwa amandel sedang bekerja keras!
 

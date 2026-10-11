@@ -1,10 +1,10 @@
-## Teknik Bedah Tonsilektomi: Dari Pisau Bedah hingga Teknologi Energi
+## Teknik Bedah Tonsilektomi
 
 Membayangkan operasi amandel mungkin memicu ingatan tentang pisau bedah kecil di tangan dokter. Namun, instrumen bedah THT modern kini telah melampaui alat potong manual klasik, mengadopsi teknologi mulai dari getaran ultrasonik hingga aliran plasma dingin.
 
 Setiap metode yang digunakan dokter spesialis THT (Telinga, Hidung, Tenggorok) untuk mengangkat amandel dirancang untuk tujuan tertentu, mulai dari meminimalkan kerusakan jaringan hingga mengendalikan perdarahan.
 
-## 1. Memahami Dua Filosofi Utama: Teknik "Dingin" vs "Panas"
+## 1. Teknik "Dingin" vs "Panas"
 
 Sebelum membahas detail alatnya, kita perlu memahami dua pendekatan utama dalam tonsilektomi berdasarkan suhu instrumen yang digunakan:
 
@@ -14,7 +14,7 @@ Metode ini mengandalkan instrumen *surgical steel* untuk melepas tonsil secara f
 **Teknik Panas (Hot Techniques)**
 Metode ini menggunakan energi termal dari listrik, laser, atau gelombang suara untuk memotong sekaligus menyegel pembuluh darah yang terbuka (kauterisasi). Pendekatan ini menyerupai *hot wire cutter* yang memotong sekaligus merekatkan bagian pinggirannya secara instan.
 
-## 2. Metode Konvensional: Cold Knife Dissection
+## 2. Cold Knife Dissection
 
 Sebagai metode yang menjadi *gold standard* selama lebih dari satu abad, *cold knife dissection* dilakukan dengan pisau bedah (*scalpel*) serta gunting atau *dissector* untuk memisahkan tonsil secara fisik.
 
