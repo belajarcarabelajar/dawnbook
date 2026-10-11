@@ -6,7 +6,7 @@ Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pa
 
 ---
 
-### 1. Kegagalan Pasar: Alasan Utama Intervensi Pemerintah
+### 1. Kegagalan Pasar Membenarkan Intervensi Pemerintah
 
 Intervensi pemerintah dalam pengembangan modal manusia berlandaskan pada analisis ekonomi murni, yaitu adanya **Market Failure** (kegagalan pasar). Tanpa campur tangan negara, tingkat investasi individu dan perusahaan pada pendidikan serta pelatihan akan selalu berada di bawah batas optimal sosial (sub-optimal).
 
@@ -64,7 +64,7 @@ Berikut adalah perbandingan karakteristik, efisiensi, dan risiko dari masing-mas
 
 ---
 
-### 4. Analogi: Jembatan Pengembangan Talenta
+### 4. Jembatan Pengembangan Talenta
 
 Pengembangan modal manusia dapat diibaratkan sebagai pembangunan sebuah **Jembatan**:
 
@@ -76,7 +76,7 @@ Pengembangan modal manusia dapat diibaratkan sebagai pembangunan sebuah **Jembat
 
 ---
 
-### 5. Aplikasi Dunia Nyata: Program Kartu Prakerja di Indonesia
+### 5. Program Kartu Prakerja di Indonesia
 
 Program **Kartu Prakerja** di Indonesia menjadi studi kasus mengenai penerapan kebijakan publik berbasis **Active Labor Market Policies (ALMP)** yang memanfaatkan teknologi digital untuk mengatasi kegagalan pasar.
 
@@ -116,7 +116,7 @@ print(evaluasi_efisiensi_kebijakan(pendapatan_pasca=5000000, pendapatan_pra=3500
 
 ---
 
-### 6. Tantangan Masa Depan: Reskilling, Upskilling, dan Lifelong Learning
+### 6. Reskilling, Upskilling, dan Lifelong Learning sebagai Tantangan Masa Depan
 
 Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah struktur kebutuhan keahlian pasar kerja secara dramatis. Kebijakan publik tidak lagi dapat terbatas pada pengelolaan jalur pendidikan formal usia muda.
 

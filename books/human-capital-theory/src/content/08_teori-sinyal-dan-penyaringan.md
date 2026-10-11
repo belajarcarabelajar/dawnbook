@@ -1,10 +1,10 @@
-# Kritik: Teori Sinyal dan Penyaringan (Signaling vs Screening)
+# Kritik Teori Sinyal dan Penyaringan (Signaling vs Screening)
 
 Bayangkan kamu adalah seorang manajer HR yang harus memilih satu dari 500 pelamar kerja untuk posisi analis data. Kamu tidak punya waktu untuk mengamati kinerja mereka selama satu bulan penuh sebelum memutuskan. Apa yang kamu lihat pertama kali? **Ijazah.**
 
 Dalam bab-bab sebelumnya, kita mempelajari Teori Modal Manusia (*Human Capital Theory*) yang menyatakan bahwa pendidikan meningkatkan produktivitas seseorang. Namun, apakah benar bangku kuliah menciptakan keterampilan baru, atau ia hanya bertindak sebagai stempel yang memisahkan antara kandidat unggul dan kandidat biasa? Inilah inti dari kritik **Teori Sinyal (Signaling)** dan **Penyaringan (Screening)**.
 
-### 1. Inti Kritik: Produktivitas vs. Informasi
+### 1. Pendidikan Menaikkan Produktivitas atau Sekadar Memberi Informasi?
 
 Teori Modal Manusia (*Human Capital Theory*) berasumsi bahwa pendidikan adalah sebuah **pabrik**: kamu masuk sebagai bahan baku, diproses melalui pembelajaran, dan keluar sebagai produk yang lebih bernilai serta produktif.
 
@@ -12,7 +12,7 @@ Sebaliknya, Teori Sinyal yang dipelopori oleh **Michael Spence (1973)** berargum
 
 > **Insight Utama:** Jika *Human Capital Theory* melihat pendidikan sebagai proses **transformasi** (mengubah kapasitas seseorang), Teori Sinyal melihat pendidikan sebagai proses **identifikasi** (menemukan kandidat dengan potensi yang sudah ada sebelumnya).
 
-### 2. Analogi: Lari Maraton dan Stamina Fisik
+### 2. Lari Maraton dan Stamina Fisik
 
 Mari kita gunakan analogi untuk memperjelas perbedaan perspektif ini:
 
@@ -55,17 +55,17 @@ Meski sering digunakan secara bergantian, keduanya memiliki sudut pandang dan ak
 
 ### 6. Aplikasi Dunia Nyata dan Skenario
 
-#### Kasus A: Rekrutmen Perusahaan Konsultan Manajemen
+#### Rekrutmen Perusahaan Konsultan Manajemen
 
 Perusahaan papan atas seperti McKinsey & Company atau Boston Consulting Group (BCG) sering kali memfokuskan rekrutmen dari universitas ternama (*top-tier universities*). Apakah kurikulum di kampus tersebut jauh lebih hebat? Belum tentu. Perusahaan memanfaatkan reputasi dan tingkat kesulitan seleksi kampus sebagai alat penyaring (*screening tool*). Mahasiswa yang berhasil masuk dan lulus dari sana terbukti memiliki kecerdasan dan ketahanan kerja yang tinggi sebelum mereka masuk ke dunia kerja.
 
-#### Kasus B: Fenomena *Credential Inflation* (Inflasi Ijazah)
+#### Fenomena *Credential Inflation* (Inflasi Ijazah)
 
 Lowongan pekerjaan untuk posisi administrasi dasar yang mensyaratkan gelar Sarjana (S1) merupakan bentuk **Credential Inflation**. Ketika semakin banyak populasi memiliki gelar S1, nilai sinyal dari gelar tersebut menurun. Akibatnya, individu terdorong mengambil gelar Magister (S2) bukan semata-mata demi ilmu baru, melainkan untuk tetap menonjol di tengah persaingan pasar kerja.
 
 > **Dampak Sosial:** Jika pendidikan hanya berfungsi sebagai sinyal tanpa meningkatkan produktivitas riil, subsidi publik yang besar untuk pendidikan tinggi dapat memicu inefisiensi alokasi sumber daya secara sosial (*credential treadmill*).
 
-### 7. Perbandingan Peran Pendidikan: Modal Manusia vs. Sinyal / Penyaringan
+### 7. Peran Pendidikan dalam Modal Manusia vs. Sinyal dan Penyaringan
 
 | Dimensi Perbandingan | Teori Modal Manusia (*Human Capital Theory*) | Teori Sinyal & Penyaringan (*Signaling vs Screening*) |
 | --- | --- | --- |

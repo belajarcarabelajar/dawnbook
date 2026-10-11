@@ -1,4 +1,4 @@
-# Pelatihan di Tempat Kerja: Umum vs Spesifik
+# Pelatihan Umum dan Spesifik di Tempat Kerja
 
 Dalam kerangka Teori Modal Manusia (*Human Capital Theory*), pengembangan keterampilan tidak berhenti setelah seseorang menyelesaikan pendidikan formal. Sebagian besar akumulasi modal manusia justru terjadi saat seseorang melangkah ke dunia kerja melalui **Pelatihan di Tempat Kerja (On-the-Job Training/OJT)**.
 
@@ -58,7 +58,7 @@ Karena keahlian ini tidak laku di tempat lain, pekerja tidak bisa mengancam untu
 - **Pihak yang Menanggung Biaya:** Perusahaan dan pekerja berbagi biaya pelatihan. Perusahaan menanggung sebagian besar pengeluaran langsung, sementara pekerja menerima upah yang sedikit di bawah produktivitas aslinya selama pelatihan.
 - **Dampak Terhadap Pola Upah:** Setelah pelatihan, upah pekerja berada di atas nilai tawaran pasar luar (sehingga mencegah *turnover*), tetapi di bawah nilai produktivitas penuhnya di perusahaan tersebut (memungkinkan perusahaan memperoleh tingkat pengembalian atas investasinya).
 
-### 4. Analisis Dinamika Ekonomi: Pemodelan Upah dan Produktivitas
+### 4. Pemodelan Upah dan Produktivitas dalam Dinamika Ekonomi
 
 Secara matematis, hubungan antara Produktivitas Marginal ($\text{VMP}$), Upah Pekerja ($W$), dan Biaya Pelatihan ($C$) dapat dirumuskan melalui alokasi struktur pembiayaan pada setiap fase:
 
@@ -91,12 +91,12 @@ $$\begin{aligned}
 
 ### 5. Aplikasi Praktis dan Implikasi Manajerial
 
-#### Kasus A: Perusahaan Teknologi dan Pengembangan Perangkat Lunak
+#### Perusahaan Teknologi dan Pengembangan Perangkat Lunak
 Sebuah perusahaan teknologi yang sedang berkembang memberikan program pelatihan intensif yang mencakup dua ranah:
 1. **Bahasa Pemrograman Python dan Arsitektur Cloud (Pelatihan Umum):** Meningkatkan nilai pasar insinyur perangkat lunak secara luas. Jika perusahaan mengalami krisis, karyawan memiliki mobilitas tinggi untuk berpindah pekerjaan.
 2. **Arsitektur Data Internal dan Prosedur Keamanan Proprietary (Pelatihan Spesifik):** Hanya berguna di lingkungan infrastruktur perusahaan tersebut. Pengetahuan ini menjaga kelancaran sistem internal, namun tidak menambah nilai tawar langsung di perusahaan lain.
 
-#### Kasus B: Program Management Trainee sebagai Strategi Retensi
+#### Strategi Retensi dengan Program Management Trainee
 Banyak korporasi besar merancang program *Management Trainee* (MT) dengan kombinasi kurikulum yang sengaja ditimbang ke arah pelatihan spesifik.
 
 Melalui pemahaman atas budaya perusahaan, jejaring internal, serta metodologi kerja spesifik, organisasi berhasil menciptakan *lock-in effect* yang halus. Karyawan merasa sangat efektif dan dihargai tinggi di dalam organisasi tersebut, tetapi menghadapi *switching cost* yang besar jika memilih pindah ke pesaing karena keahlian khusus mereka tidak dapat dipindahkan secara utuh.

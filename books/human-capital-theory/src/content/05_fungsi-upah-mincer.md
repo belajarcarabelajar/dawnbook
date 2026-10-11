@@ -1,4 +1,4 @@
-# Fungsi Upah Mincer: Jantung Analisis Pendapatan dalam Ekonomi Tenaga Kerja
+# Fungsi Upah Mincer
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 
@@ -47,7 +47,7 @@ Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh ta
 
 Secara visual, jika kita memetakan pendapatan terhadap akumulasi pengalaman atau usia kerja, grafiknya membentuk **parabola cekung (terbalik)**. Pendapatan melonjak pesat pada usia muda, mencapai titik puncak (*peak earnings*) pada usia paruh baya, lalu mendatar atau menurun perlahan saat mendekati masa pensiun akibat depresiasi keterampilan (*skill obsolescence*) dan penurunan kapasitas fisik.
 
-### 3. Interpretasi Ekonomi: Membaca Angka Imbal Hasil
+### 3. Membaca Makna Ekonomi dari Angka Imbal Hasil
 
 Ketika analisis regresi menghasilkan estimasi koefisien $\beta_1 = 0.10$, apa makna ekonomisnya?
 
@@ -58,7 +58,7 @@ Koefisien $\beta_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private
 
 Jika kamu memilih kuliah selama 4 tahun daripada langsung bekerja, kamu kehilangan potensi pendapatan selama 4 tahun tersebut. Fungsi Mincer membantu kita menghitung secara rasional apakah peninggian upah di masa depan cukup untuk mengompensasi pengorbanan pendapatan saat ini.
 
-### 4. Studi Kasus Empiris: Menghitung Bonus Pendidikan dengan Python
+### 4. Menghitung Bonus Pendidikan dengan Python
 
 Berikut adalah contoh simulasi pengolahan data pasar kerja menggunakan metode *Ordinary Least Squares* (OLS) dalam bahasa Python untuk mengestimasi Fungsi Upah Mincer.
 

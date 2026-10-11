@@ -6,7 +6,7 @@ Bayangkan diri kamu sebagai sebuah perangkat lunak (*software*). Pendidikan form
 
 ---
 
-### 1. Pendidikan Formal: Fondasi Utama
+### 1. Pendidikan Formal Menjadi Fondasi Utama
 
 Pendidikan formal adalah bentuk investasi modal manusia yang paling terlihat dan terstruktur. Ini mencakup alur pembelajaran dari sekolah dasar hingga perguruan tinggi (*higher education*).
 
@@ -100,11 +100,11 @@ Apabila nilai $\text{Net Gain} > 0$, keputusan migrasi secara ekonomis merupakan
 
 ---
 
-### Aplikasi Nyata: Simulasi ROI Investasi Modal Manusia
+### Simulasi ROI Investasi Modal Manusia
 
 Berikut adalah model simulasi perhitungan sederhana untuk mengevaluasi kelayakan finansial investasi sertifikasi keterampilan (*Return on Investment* / ROI):
 
-#### Skenario Kasus:
+#### Sertifikasi Advanced AI bagi Seorang Analis Data
 Seorang analis data merencanakan sertifikasi *Advanced AI* seharga Rp15.000.000 dengan durasi pelatihan 3 bulan. Pasca sertifikasi, proyeksi peningkatan gaji tercatat sebesar Rp2.000.000 per bulan.
 
 ```python

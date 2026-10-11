@@ -10,7 +10,7 @@ Kesenjangan modal manusia terjadi ketika individu atau kelompok tidak memiliki k
 
 > "Rendahnya investasi pada modal manusia menyebabkan produktivitas rendah, yang berujung pada pendapatan rendah, yang pada akhirnya membatasi kemampuan untuk berinvestasi pada modal manusia di masa depan."
 
-### Analogi: Perpustakaan vs. Gudang Kosong
+### Perpustakaan vs. Gudang Kosong
 
 Bayangkan dua orang anak dengan potensi kecerdasan yang sama.
 
@@ -25,7 +25,7 @@ Meskipun keduanya memiliki "kapasitas otak" awal yang sama, **investasi** yang m
 | **Asupan Nutrisi** | Protein tinggi & gizi seimbang | Gizi buruk (berisiko stunting) | Perbedaan daya tahan & perkembangan kognitif |
 | **Hasil Produktivitas** | Penguasaan keterampilan tinggi | Keterampilan dasar & terbatas | Upah kerja (*earnings*) berbeda eksponensial |
 
-## 2. Pendidikan: Kualitas di Atas Kuantitas
+## 2. Kualitas Pendidikan di Atas Kuantitas
 
 Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apakah anak sekolah atau tidak", melainkan **"apa yang mereka dapatkan di sekolah"**.
 
@@ -48,14 +48,14 @@ $$
 
 Jika kelompok mampu memiliki $q$ yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai $s$ (tahun sekolah) mereka sama, pendapatan $Y$ mereka akan menunjukkan perbedaan yang eksponensial.
 
-## 3. Kesehatan: Fondasi Tersembunyi dari Produktivitas
+## 3. Kesehatan sebagai Fondasi Tersembunyi Produktivitas
 
 Kesehatan sering kali diabaikan dalam diskusi modal manusia, padahal ia adalah dasar dari segala bentuk pembelajaran.
 
 - **Masalah Stunting:** Secara biologis, anak yang mengalami kekurangan gizi kronis di 1.000 hari pertama kehidupan akan memiliki perkembangan otak yang tidak optimal. Ini menjadi hambatan ekonomi seumur hidup karena mereka akan sulit bersaing di masa dewasa.
 - **Akses Layanan Kesehatan:** Kelompok mampu dapat mendeteksi penyakit lebih dini dan kembali bekerja lebih cepat. Sebaliknya, bagi masyarakat kurang mampu, satu episode sakit parah dapat menghabiskan seluruh aset mereka (dekapitalisasi), yang memperdalam ketimpangan.
 
-## 4. Ketimpangan Wilayah: Urban vs. Rural
+## 4. Ketimpangan Wilayah antara Perkotaan dan Pedesaan
 
 Kesenjangan modal manusia sering kali bersifat geografis. Fenomena **Brain Drain** internal terjadi ketika individu-individu terbaik dari daerah pedesaan berpindah ke kota besar untuk mencari pendidikan dan pekerjaan yang lebih baik.
 
@@ -65,7 +65,7 @@ Dampaknya bagi wilayah asal:
 2. Menurunnya insentif bagi perusahaan untuk berinvestasi di daerah tersebut karena kurangnya talenta.
 3. Melebarnya kesenjangan PDB antar wilayah.
 
-## 5. Transmisi Intergenerasi: Warisan yang Tak Terlihat
+## 5. Warisan Tak Terlihat dalam Transmisi Intergenerasi
 
 Kesenjangan modal manusia cenderung bersifat turun-temurun. Orang tua yang memiliki modal manusia tinggi tidak hanya mewariskan uang, tetapi juga **Cultural Capital** (Modal Budaya).
 
@@ -73,7 +73,7 @@ Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal i
 
 > **Poin Penting:** Tanpa intervensi kebijakan yang tepat, modal manusia akan mengelompok (*cluster*) pada kelas sosial tertentu dan memperkaku struktur masyarakat, sehingga mobilitas vertikal menjadi sangat terbatas.
 
-## Aplikasi Dunia Nyata: Skenario Perbandingan Wilayah
+## Perbandingan Wilayah Industri Maju dan Wilayah Terisolasi
 
 | Dimensi | Skenario A (Kawasan Industri Maju) | Skenario B (Wilayah Terisolasi / Komoditas) |
 | :--- | :--- | :--- |
@@ -81,15 +81,15 @@ Mengapa anak dari keluarga profesional cenderung menjadi profesional juga? Hal i
 | **Adaptabilitas Tenaga Kerja** | Fleksibel terhadap dinamika pasar kerja modern | Kaku dan rentan terhadap gejolak harga komoditas |
 | **Dampak Ekonomi** | Pengangguran rendah, distribusi pendapatan lebih merata | Risiko terjebak dalam kemiskinan sistematis |
 
-### Skenario A: Kawasan Industri Maju
+### Kawasan Industri Maju
 
 Di sebuah kota satelit dengan sistem sekolah vokasi yang terintegrasi dengan pabrik teknologi tinggi, penduduk lokal dilatih sesuai kebutuhan pasar. Hasilnya: tingkat pengangguran rendah dan pertumbuhan ekonomi merata di tingkat lokal.
 
-### Skenario B: Wilayah Terisolasi
+### Wilayah Terisolasi
 
 Di wilayah yang hanya bergantung pada komoditas mentah tanpa investasi pada pendidikan teknik, penduduknya hanya menjadi buruh kasar. Ketika harga komoditas jatuh, wilayah ini jatuh ke dalam kemiskinan karena modal manusia mereka tidak cukup fleksibel untuk berpindah ke industri lain.
 
-## Studi Kasus: Dampak Pandemi Global terhadap Kesenjangan
+## Dampak Pandemi Global terhadap Kesenjangan
 
 Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia dapat melebar drastis dalam waktu singkat:
 

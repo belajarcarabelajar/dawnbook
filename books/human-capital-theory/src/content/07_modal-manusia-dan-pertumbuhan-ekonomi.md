@@ -6,7 +6,7 @@ Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebaga
 
 ---
 
-### 1. Pergeseran Paradigma: Dari Pertumbuhan Eksogen ke Endogen
+### 1. Paradigma Pertumbuhan yang Bergeser dari Eksogen ke Endogen
 
 Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern.
 
@@ -62,7 +62,7 @@ Pengetahuan memiliki sifat **non-rivalrous**: pemanfaatan suatu ide atau rumus m
 
 ---
 
-### 3. Landasan Matematis: Model Lucas dan Romer
+### 3. Landasan Matematis dalam Model Lucas dan Romer
 
 Dalam analisis makroekonomi, peran **Human Capital** dirumuskan melalui penyesuaian fungsi produksi agregat.
 
@@ -91,7 +91,7 @@ Romer berfokus pada peran sektor riset dan pengembangan (R&D). Ia menyatakan bah
 
 ---
 
-### 4. Studi Kasus Nyata: *The Miracle on the Han River*
+### 4. Korea Selatan dan *The Miracle on the Han River*
 
 Pada awal 1960-an, Korea Selatan dan Ghana berada pada tingkat PDB per kapita yang relatif setara. Sebagian besar pengamat ekonomi saat itu memprediksi Ghana akan tumbuh lebih cepat karena melimpahnya sumber daya alam berupa tambang dan komoditas pertanian.
 
