@@ -1,4 +1,4 @@
-## Prinsip Libertarian Paternalisme: Keseimbangan Antara Kebebasan dan Kesejahteraan
+## Prinsip Libertarian Paternalisme
 
 Pernahkah kamu merasa bahwa istilah "Libertarian" dan "Paternalisme" terdengar seperti minyak dan air yang tidak mungkin bersatu? Yang satu menjunjung tinggi kebebasan mutlak individu (**Libertarian**), sementara yang lain menyarankan intervensi demi kebaikan individu tersebut (**Paternalisme**).
 
@@ -13,7 +13,7 @@ Untuk memahami konsep ini, mari kita bedah kedua katanya:
 
 > **Insight Utama:** Libertarian Paternalisme adalah pendekatan yang mencoba memengaruhi pilihan dengan cara yang akan membuat pemilih lebih baik, menurut penilaian mereka sendiri, sambil tetap menjaga kebebasan setiap orang untuk memilih jalan lain.
 
-#### Analogi: GPS Navigasi
+#### GPS Navigasi sebagai Perumpamaan
 
 Bayangkan kamu menggunakan aplikasi GPS di ponsel.
 
@@ -44,7 +44,7 @@ Untuk dikategorikan sebagai tindakan Libertarian Paternalisme, sebuah intervensi
 
 *Jika sebuah kafetaria menaruh buah di depan dan menyembunyikan gorengan di sudut, apakah itu melanggar kebebasanmu? Kamu tetap bisa membeli gorengan, hanya saja kamu harus berjalan sedikit lebih jauh.*
 
-### Aplikasi Dunia Nyata: Skenario Perencanaan Masa Depan
+### Pendaftaran Dana Pensiun Karyawan
 
 Mari kita lihat bagaimana prinsip ini bekerja dalam skenario pendaftaran dana pensiun karyawan.
 
@@ -65,7 +65,7 @@ Meskipun terdengar ideal, prinsip ini sering diperdebatkan. Beberapa kritikus be
 
 Untuk menjawab ini, arsitek pilihan harus bertindak secara transparan. Tujuan utamanya adalah mendampingi individu agar mencapai apa yang sebenarnya mereka inginkan (seperti ingin lebih sehat, hemat, atau produktif) tanpa memanipulasi mereka secara terselubung.
 
-#### Tabel Perbandingan: Berbagai Jenis Intervensi
+#### Perbandingan Berbagai Jenis Intervensi
 
 | Jenis Intervensi | Menghilangkan Pilihan? | Mengubah Harga/Insentif? | Contoh |
 | --- | --- | --- | --- |

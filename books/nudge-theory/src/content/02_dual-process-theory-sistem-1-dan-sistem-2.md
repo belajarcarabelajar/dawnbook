@@ -1,10 +1,10 @@
-## Dual Process Theory: Sistem 1 dan Sistem 2
+## Dua Sistem Berpikir menurut Dual Process Theory
 
 Bayangkan kamu sedang menyetir pulang kerja dan tiba-tiba sudah sampai di rumah tanpa mengingat kapan harus berbelok atau mengerem di setiap persimpangan. Di hari lain, kamu mungkin merasa lelah luar biasa setelah membagi tagihan makan malam yang rumit bersama teman secara manual.
 
 Kedua situasi ini menggambarkan bagaimana otak kita bekerja menggunakan dua sistem berbeda, sebuah konsep yang dikenal sebagai **Dual Process Theory** (Teori Proses Ganda). Daniel Kahneman menjelaskan sistem ini secara mendalam di bukunya, *Thinking, Fast and Slow*. Memahami cara kerja keduanya akan membuka tabir mengapa **Arsitektur Pilihan (Nudge Theory)** bisa begitu ampuh dalam mengarahkan tindakan kita.
 
-## Sistem 1: Si Pilot Otomatis (Berpikir Cepat)
+## Sistem 1 sebagai Pilot Otomatis yang Berpikir Cepat
 
 Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perlu usaha sadar. Inilah wilayah insting dan intuisi kita bekerja.
 
@@ -26,7 +26,7 @@ Sistem 1 berjalan di latar belakang pikiran secara otomatis dan cepat tanpa perl
 - Membaca tulisan di papan reklame besar di pinggir jalan saat berkendara.
 - Melengkapi frasa umum seperti "garam dan..." secara spontan.
 
-## Sistem 2: Si Analis yang Malas (Berpikir Lambat)
+## Sistem 2 sebagai Analis Malas yang Berpikir Lambat
 
 Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita mendengar suara di dalam pikiran yang menimbang-nimbang keputusan, itulah cerminan Sistem 2 yang sedang bekerja.
 
@@ -78,15 +78,15 @@ Dalam merancang pilihan, para arsitek pilihan menggunakan asumsi dasar berikut:
 
 > **Pesan Penting:** Intervensi pilihan yang efektif biasanya membidik Sistem 1 dengan cara menyederhanakan informasi atau menyajikan isyarat visual, sehingga Sistem 2 tidak perlu memeras tenaga untuk mengambil keputusan yang benar.
 
-## ️ Aplikasi Dunia Nyata: Sistem 1 & 2 dalam Aksi
+## Sistem 1 & 2 dalam Aksi
 
-### Skenario 1: Kantin Perusahaan
+### Kantin Perusahaan
 
 - **Kendala yang dihadapi:** Karyawan terbiasa memilih makanan yang kurang sehat selama jam istirahat.
 - **Bila mengedukasi Sistem 2:** Pihak kantin membagikan brosur nutrisi atau memasang poster informasi kalori. Cara ini kerap gagal karena Sistem 2 sudah kelelahan setelah bekerja setengah hari.
 - **Bila mengarahkan Sistem 1:** Meletakkan buah segar di rak setinggi mata dan menempatkan gorengan di wadah tertutup yang sulit dijangkau. Hasilnya, Sistem 1 akan spontan mengambil pilihan yang paling mudah diraih.
 
-### Skenario 2: Menghemat Energi di Kamar Hotel
+### Menghemat Energi di Kamar Hotel
 
 - **Kendala yang dihadapi:** Banyak tamu hotel lupa mematikan lampu atau pendingin ruangan saat pergi ke luar.
 - **Bila mengedukasi Sistem 2:** Memasang stiker pengingat hemat energi di dekat pintu. Pendekatan ini kurang efektif karena memerlukan perhatian sadar dari tamu yang sedang terburu-buru.

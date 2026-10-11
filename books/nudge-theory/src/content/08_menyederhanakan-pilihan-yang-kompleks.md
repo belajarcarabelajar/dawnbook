@@ -17,7 +17,7 @@ $$
 
 Ketika $n$ meningkat drastis, beban kognitif kita melampaui ambang batas Sistem 2 (berpikir reflektif), memaksa kita untuk mengandalkan heuristik sederhana atau menyerah sama sekali.
 
-## 2. Strategi 1: Kategorisasi (Structuring Choice)
+## 2. Kategorisasi (Structuring Choice)
 
 Saat menghadapi ratusan opsi, manusia kesulitan membandingkan satu per satu secara linear. Cara terbaik untuk membantu mereka adalah dengan **mengelompokkan** pilihan-pilihan tersebut ke dalam kategori yang bermakna.
 
@@ -27,7 +27,7 @@ Kategorisasi bertindak sebagai "peta" mental. Alih-alih memproses 100 item indiv
 
 **Contoh Analoginya:** Bayangkan sebuah perpustakaan tanpa kategori. Semua buku fiksi, sains, dan sejarah dicampur begitu saja berdasarkan tanggal kedatangan. Kamu pasti akan tersesat. Begitu ada label seperti "Sejarah" atau "Teknologi", kamu bisa langsung memangkas sebagian besar pilihan yang tidak relevan.
 
-## 3. Strategi 2: Penyaringan (Filtering) dan Eliminasi
+## 3. Penyaringan (Filtering) dan Eliminasi
 
 Setelah kategori dibuat, langkah berikutnya adalah membantu pengguna menyingkirkan opsi yang tidak mereka inginkan. Dalam dunia digital, proses ini dilakukan melalui fitur penyaringan (filter).
 
@@ -56,7 +56,7 @@ const recommendedPlans = allInsurancePlans.filter(plan => {
 const finalDisplay = recommendedPlans.slice(0, 3);
 ```
 
-## 4. Strategi 3: Mengurangi Jumlah Atribut (Information Slimming)
+## 4. Mengurangi Jumlah Atribut (Information Slimming)
 
 Sering kali, kompleksitas tidak melulu muncul dari banyaknya pilihan yang disajikan, melainkan dari jumlah informasi yang harus dibaca pada setiap pilihan tersebut.
 
@@ -68,7 +68,7 @@ Sering kali, kompleksitas tidak melulu muncul dari banyaknya pilihan yang disaji
 - Cara pertama: "Produk ini mengandung 12 gram lemak jenuh, setara dengan 60% asupan harian berdasarkan diet 2000 kalori."
 - Cara kedua: Menampilkan label berwarna merah mencolok bertuliskan **"TINGGI LEMAK"**.
 
-## 5. Studi Kasus: Cara Industri Menyederhanakan Pilihan
+## 5. Cara Industri Menyederhanakan Pilihan
 
 ### A. Industri Keuangan (Dana Pensiun)
 

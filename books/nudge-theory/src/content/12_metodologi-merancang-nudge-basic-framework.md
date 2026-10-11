@@ -6,7 +6,7 @@ Merancang intervensi perilaku tidak bisa mengandalkan tebakan atau insting semat
 
 BASIC merupakan akronim dari lima tahapan utama: **B**ehaviour (Perilaku), **A**nalysis (Analisis), **S**trategy (Strategi), **I**ntervention (Intervensi), dan **C**hange (Perubahan). Mari kita bedah penerapannya.
 
-## 1. Behaviour (Perilaku): Menentukan Target dengan Presisi
+## 1. Behaviour (Perilaku)
 
 Langkah pertama dimulai dengan mendefinisikan masalah dalam bentuk **perilaku nyata**, bukan langsung melompat mencari solusi. Kesalahan umum pembuat kebijakan atau manajer adalah menetapkan tujuan yang terlalu abstrak.
 
@@ -20,7 +20,7 @@ Untuk memulai perancangan, jawablah beberapa poin berikut:
 
 Sebagai analogi, bayangkan kamu adalah pelatih panahan. Jika target sasaranmu hanya "menembak dengan lebih baik", kamu tidak akan pernah tahu ke mana harus membidik anak panah. Kamu memerlukan titik pusat (*bullseye*) yang konkret agar keberhasilan tembakan bisa diukur.
 
-## 2. Analysis (Analisis): Memahami Hambatan dan Pendorong
+## 2. Analysis (Analisis) Hambatan dan Pendorong
 
 Setelah target ditentukan, langkah berikutnya adalah memahami alasan masyarakat belum melakukannya saat ini. Kita dapat memakai pendekatan psikologi perilaku untuk memetakan titik sumbat (*bottlenecks*) atau hambatan yang ada.
 
@@ -32,7 +32,7 @@ Beberapa alat analisis yang sering digunakan meliputi:
 
 Sebagai contoh, seseorang mungkin ingin mulai berolahraga tetapi mengurungkan niatnya hanya karena tas gym miliknya disimpan di gudang yang gelap. Hambatan fisik yang tampak sepele sering kali memicu hambatan mental yang besar.
 
-## 3. Strategy (Strategi): Memilih Pendekatan yang Tepat
+## 3. Strategy (Strategi)
 
 Ketika hambatan utama telah teridentifikasi, kita bisa menentukan strategi *nudge* yang paling sesuai. Kita tidak perlu memakai semua teknik sekaligus, melainkan memilih yang paling relevan dengan temuan analisis sebelumnya.
 
@@ -45,7 +45,7 @@ Ketika hambatan utama telah teridentifikasi, kita bisa menentukan strategi *nudg
 
 Pada tahap ini, kita merumuskan hipotesis kerja: *"Jika kita mengubah [X], maka orang akan cenderung melakukan [Y] karena [Z]."*
 
-## 4. Intervention (Intervensi): Eksperimen dan Pengujian
+## 4. Intervention (Intervensi) dan Pengujian
 
 Jangan langsung menerapkan desainmu secara massal. Dalam metodologi BASIC, tahap intervensi difokuskan pada **pengujian**. Kita harus memastikan *nudge* tersebut bekerja secara efektif tanpa menimbulkan dampak samping yang merugikan.
 
@@ -56,7 +56,7 @@ Metode standar emas yang digunakan adalah **Randomized Controlled Trial (RCT)**.
 
 Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}_{\text{eksperimen}} > \bar{x}_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
 
-## 5. Change (Perubahan): Implementasi dan Evaluasi Berkelanjutan
+## 5. Change (Perubahan) dan Evaluasi Berkelanjutan
 
 Tahap akhir ini bertujuan memastikan perubahan perilaku berjalan secara konsisten dan dapat diperluas jangkauannya (*scaling up*).
 
@@ -66,7 +66,7 @@ Langkah-langkah yang dijalankan dalam tahap ini meliputi:
 - **Penyebarluasan (Scaling):** Mengadaptasi dan menerapkan intervensi ke populasi atau wilayah yang lebih luas jika terbukti berhasil.
 - **Evaluasi Etis (Ethical Review):** Memastikan intervensi tetap menghargai kebebasan memilih serta tidak bergeser menjadi *sludge* yang memanipulasi dan merugikan pengguna.
 
-## Studi Kasus: Mengurangi Keterlambatan Pembayaran Pajak
+## Mengurangi Keterlambatan Pembayaran Pajak
 
 Berikut adalah contoh bagaimana BASIC Framework diterapkan dalam skenario nyata:
 
@@ -76,7 +76,7 @@ Berikut adalah contoh bagaimana BASIC Framework diterapkan dalam skenario nyata:
 - **Intervention (Intervensi):** Menguji pesan baru tersebut kepada kelompok sampel berisi 5.000 warga. Setengah dari kelompok menerima surat pemberitahuan standar, sementara setengah sisanya menerima surat dengan tambahan pesan norma sosial.
 - **Change (Perubahan):** Terjadi kenaikan pembayaran pajak sebesar 15% pada kelompok eksperimen yang menerima pesan baru. Karena terbukti berhasil, intervensi ini kemudian diintegrasikan ke dalam kebijakan nasional.
 
-## Praktik Mandiri: Merancang Nudge Sederhana
+## Praktik Mandiri Merancang Nudge Sederhana
 
 Kamu bisa mencoba menerapkan kerangka BASIC untuk menyelesaikan masalah kecil di sekitarmu, misalnya: **mendorong rekan kerja agar bersedia mencuci piring mereka sendiri di kantor.**
 

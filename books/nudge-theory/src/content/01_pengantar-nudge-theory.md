@@ -19,7 +19,7 @@ Seorang **Arsitek Pilihan** adalah siapa saja yang bertanggung jawab untuk menyu
 
 > "Seorang arsitek pilihan memiliki tanggung jawab untuk menyusun konteks keputusan sedemikian rupa sehingga pengguna tetap memiliki kebebasan memilih, namun diarahkan menuju hasil yang lebih baik bagi diri mereka sendiri."
 
-## Analogi: Sang Manajer Kantin
+## Sang Manajer Kantin
 
 Bayangkan kamu adalah seorang manajer kantin di sekolah besar. Kamu ingin para siswa makan lebih sehat tanpa harus melarang mereka membeli *junk food*. Dalam hal ini, kamu memegang kendali penuh atas tata letak makanan.
 
@@ -64,7 +64,7 @@ Dalam pengembangan web, seorang *front-end developer* bertindak sebagai arsitek 
 </div>
 ```
 
-## Prinsip Utama: Tidak Ada Desain yang Netral
+## Tidak Ada Desain yang Netral
 
 Salah satu konsep paling mendasar dalam pengantar ini adalah pemahaman bahwa **kenetralan itu mustahil**.
 
@@ -84,7 +84,7 @@ Sepanjang kursus ini, kita akan membedah bagaimana arsitektur pilihan bekerja me
 - **Etika dan Tanggung Jawab**: Penting untuk membedakan mana dorongan yang menolong (*Nudge*) dan mana manipulasi yang merugikan (*Sludge*).
 - **Aplikasi Nyata**: Penerapan teori ini pada berbagai sektor penting seperti kesehatan, pengelolaan keuangan pribadi, serta pelestarian lingkungan.
 
-## Penerapan Nyata: Tombol "Tutup" pada Lift
+## Ilusi Kendali pada Tombol "Tutup" di Lift
 
 Di banyak negara, tombol "Tutup Pintu" di lift sering kali tidak terhubung ke sistem mekanis (alias tidak berfungsi) namun tetap dipasang di sana. Ini adalah contoh arsitektur pilihan yang memberikan **ilusi kendali**.
 

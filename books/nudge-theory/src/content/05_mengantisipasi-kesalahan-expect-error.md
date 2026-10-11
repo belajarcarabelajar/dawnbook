@@ -38,7 +38,7 @@ Alih-alih memaksa manusia mengikuti format kaku komputer, biarkan sistem yang me
 
 - **Contoh:** Saat mengisi nomor telepon, pengguna mungkin menulis `0812-3456`, `08123456`, atau `+628123456`. Desain yang antisipatif akan menerima semua format tersebut dan membersihkannya secara otomatis di sisi *backend*, daripada memberikan pesan kesalahan (*error message*) yang menjengkelkan.
 
-## Penerapan di Dunia Nyata: Dari Medis hingga Digital
+## Penerapan dari Dunia Medis hingga Digital
 
 ### Dunia Medis
 
@@ -52,7 +52,7 @@ Pernahkah kamu menulis email yang menyebutkan "Saya lampirkan dokumen...", lalu 
 
 **Nudge pada Gmail:** Sistem mendeteksi kata "lampirkan" atau "attachment" di badan email. Jika kamu menekan *send* tanpa file, muncul kotak dialog: *"Kamu menyebutkan lampiran tetapi tidak ada file yang dilampirkan. Kirim saja?"* Ini adalah penerapan *Choice Architecture* yang mengantisipasi kelalaian *System 1* manusia.
 
-## Implementasi Kode: *Anticipatory Validation*
+## *Anticipatory Validation* dalam Kode
 
 Bagi para pengembang perangkat lunak atau insinyur, prinsip *Expect Error* diwujudkan dalam kode yang proaktif. Berikut adalah contoh sederhana dalam JavaScript untuk memvalidasi input pengguna secara *real-time* guna mencegah kesalahan pengiriman formulir.
 

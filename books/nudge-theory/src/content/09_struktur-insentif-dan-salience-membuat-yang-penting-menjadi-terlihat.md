@@ -1,16 +1,16 @@
-## Struktur Insentif dan Salience: Membuat yang Penting Menjadi Terlihat
+## Struktur Insentif dan Salience agar yang Penting Menjadi Terlihat
 
 Pernahkah kamu bertanya-tanya mengapa kita sering kali mengabaikan diskon besar di akhir bulan, tetapi langsung bereaksi saat melihat label "Sisa 1 Barang!" berwarna merah menyala di situs belanja online? Atau mengapa kita tetap menggunakan listrik secara boros padahal kita tahu tagihannya akan mahal di akhir bulan?
 
 Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus "berteriak" cukup keras agar didengar oleh **Sistem 1** kita yang intuitif dan cepat.
 
-## 1. Memahami Salience: "Lampu Neon" dalam Pikiran Kita
+## 1. Memahami Salience sebagai "Lampu Neon" dalam Pikiran Kita
 
 **Salience** merujuk pada kecenderungan manusia untuk lebih memperhatikan informasi yang mencolok, relevan, dan mudah diingat. Dalam dunia yang penuh dengan gangguan, otak kita (khususnya Sistem 1) bertindak seperti filter yang sangat ketat.
 
 > **Insight:** Insentif yang tidak terlihat (not salient) sama saja dengan insentif yang tidak ada.
 
-### Analogi: Sensor Parkir vs. Buku Manual
+### Sensor Parkir vs. Buku Manual
 
 Bayangkan kamu sedang memarkir mobil.
 
@@ -45,7 +45,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 2. **Menyederhanakan Informasi.** Kita perlu menyingkirkan detail yang tidak perlu (*noise*) agar fokus tertuju pada satu angka atau dampak paling utama.
 3. **Umpan Balik Seketika (Real-Time Feedback).** Informasi penting sebaiknya disodorkan tepat saat keputusan diambil, bukan sebulan setelahnya ketika efeknya sudah terlambat.
 
-### Tabel: Mengubah Insentif Menjadi Salient
+### Mengubah Insentif Menjadi Salient
 
 | Konteks | Insentif Tersembunyi (Lemah) | Insentif Salient (Kuat) |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 | **Pajak Lingkungan** | Pajak karbon yang sudah termasuk dalam harga bensin. | Label harga yang memisahkan "Harga Bahan Bakar" dan "Biaya Kerusakan Lingkungan". |
 | **Kesehatan** | Tabel kalori kecil di belakang kemasan. | Sistem "Traffic Light" (Hijau, Kuning, Merah) di bagian depan kemasan. |
 
-## 4. Real-World Application: "The Visible Tax"
+## 4. "The Visible Tax" dalam Kebijakan Publik
 
 Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
 
@@ -79,7 +79,7 @@ Dalam dunia rekayasa perangkat lunak, kita bisa membuat "biaya" atau "manfaat" l
 </div>
 ```
 
-## 5. Skenario Praktis: Mendorong Efisiensi Bahan Bakar
+## 5. Mendorong Efisiensi Energi lewat Dashboard Mobil Listrik
 
 *Bayangkan kamu adalah desainer dashboard mobil listrik.*
 
@@ -97,4 +97,4 @@ Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Perhatikan ba
 
 > **Pesan Utama:** Jika kamu ingin mempermudah suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
 
-**Langkah Berikutnya:** Setelah memahami cara menonjolkan insentif, kita akan membedah sisi etika dari pendekatan ini dalam bab **Nudge vs Sludge: Etika dalam Desain**. Tanpa panduan etis, dorongan visual ini bisa dengan mudah berubah menjadi manipulasi yang merugikan.
+**Langkah Berikutnya:** Setelah memahami cara menonjolkan insentif, kita akan membedah sisi etika dari pendekatan ini dalam bab **Nudge vs Sludge dan Etika dalam Desain**. Tanpa panduan etis, dorongan visual ini bisa dengan mudah berubah menjadi manipulasi yang merugikan.

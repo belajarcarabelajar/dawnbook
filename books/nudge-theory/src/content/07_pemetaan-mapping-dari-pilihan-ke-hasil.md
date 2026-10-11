@@ -1,4 +1,4 @@
-## Pemetaan (Mapping): Dari Pilihan ke Hasil
+## Pemetaan (Mapping) dari Pilihan ke Hasil
 
 Pernahkah kamu berdiri di depan rak supermarket, menatap dua botol deterjen, dan mencoba mencari tahu mana yang lebih hemat? Satu botol berisi 1,5 liter seharga Rp45.000, sementara yang lain adalah paket isi ulang 800ml seharga Rp26.000 dengan promo "Beli 2 Gratis 1".
 
@@ -45,7 +45,7 @@ $$
 
 Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga $r$ dan jangka waktu $n$ bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, menunjukkan kalimat konkret: "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
 
-### Studi Kasus: Memilih Skema Asuransi Kesehatan
+### Memilih Skema Asuransi Kesehatan
 
 Bayangkan seorang karyawan harus memilih antara tiga paket asuransi:
 
@@ -57,7 +57,7 @@ Banyak orang kebingungan mengambil keputusan karena tidak bisa memprediksi seber
 
 **Solusi Nudge (Mapping):** Perusahaan menyediakan alat bantu berupa "Kalkulator Riwayat Medis". Sistem ini secara otomatis memproyeksikan pengeluaran kesehatan dari rekam medis tahun lalu ke dalam ketiga paket yang tersedia, lalu menampilkan estimasi konkret: *"Berdasarkan pola pengobatanmu tahun lalu, kamu akan menghemat Rp2.500.000 jika memilih Paket B."*
 
-### Aplikasi Dunia Nyata: Dashboard Kendaraan Listrik
+### Dashboard Kendaraan Listrik
 
 Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Perhatikan bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
 

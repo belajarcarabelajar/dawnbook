@@ -1,14 +1,14 @@
-## Studi Kasus: Kesehatan, Keuangan, dan Lingkungan
+## Studi Kasus di Bidang Kesehatan, Keuangan, dan Lingkungan
 
 Setelah memahami berbagai teori dan prinsip dalam arsitektur pilihan, sekarang saatnya kita melihat bagaimana teori-teori tersebut bekerja di dunia nyata. Arsitektur pilihan lebih dari sekadar eksperimen laboratorium. Penerapannya telah mengubah kebijakan berbagai negara, membantu menyelamatkan ribuan nyawa, serta mempermudah jutaan orang dalam mengelola masa depan mereka.
 
 Bagian ini akan membedah tiga bidang utama tempat penerapan *Nudge Theory* telah membawa perubahan besar.
 
-## 1\. Sektor Kesehatan: Misteri Donor Organ
+## 1\. Misteri Donor Organ di Sektor Kesehatan
 
 Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah pendaftaran donor organ. Masalahnya sederhana: banyak orang menyatakan dukungan terhadap donor organ, tetapi hanya sebagian kecil yang benar-benar mendaftar.
 
-### Kasus: Opt-in vs. Opt-out
+### Opt-in vs. Opt-out di Jerman dan Austria
 
 Di Eropa, terdapat perbedaan drastis dalam tingkat partisipasi donor organ antarnegara yang secara budaya mirip. Sebagai contoh, di Jerman, tingkat partisipasi hanya sekitar $12\text{\%}$, sementara di negara tetangganya, Austria, tingkat partisipasinya mencapai hampir $99\text{\%}$.
 
@@ -19,19 +19,19 @@ Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, buka
 
 > **Insight:** Inersia manusia sangat kuat. Kebanyakan orang akan mengikuti pilihan bawaan yang sudah ditentukan secara otomatis oleh sistem daripada melakukan upaya kognitif untuk mengubahnya.
 
-### Aplikasi Nyata: Desain Formulir SIM
+### Desain Formulir SIM
 
 Di beberapa negara bagian di Amerika Serikat, arsitektur pilihan diubah dengan menerapkan metode **Pilihan Terpaksa (Mandated Choice)**. Saat memperbarui SIM, warga wajib memberikan jawaban "Ya" atau "Tidak" pada pertanyaan mengenai donor organ tanpa adanya pilihan default. Langkah ini memaksa Sistem 2 (berpikir reflektif) untuk bekerja, yang pada akhirnya mendongkrak tingkat pendaftaran secara drastis.
 
-## 2\. Sektor Keuangan: Program "Save More Tomorrow" (SMarT)
+## 2\. Program "Save More Tomorrow" (SMarT) di Sektor Keuangan
 
 Menabung untuk masa pensiun adalah tantangan psikologis yang berat. Kita sering terjebak dalam *Present Bias*, yaitu kecenderungan untuk membelanjakan uang hari ini daripada menyimpannya untuk masa depan yang terasa abstrak.
 
-### Masalah: Loss Aversion
+### Loss Aversion sebagai Masalah
 
 Manusia merasakan kepedihan akibat kehilangan Rp1.000.000 dua kali lebih kuat daripada kesenangan saat mendapatkan Rp1.000.000. Ketika kita diminta untuk mulai menabung saat ini, otak kita mendeteksinya sebagai sebuah "kerugian" langsung pada pendapatan yang siap dibelanjakan hari ini.
 
-### Solusi: Intervensi SMarT
+### Intervensi SMarT sebagai Solusi
 
 Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi dengan mengintegrasikan beberapa prinsip psikologi perilaku secara cerdas:
 
@@ -48,11 +48,11 @@ $$
 
 Dalam formula di atas, $G_t$ merepresentasikan gaji pada tahun ke-$t$, sementara $R_t$ adalah rasio tabungan yang terus meningkat secara otomatis. Pada uji coba pertamanya, pendekatan ini terbukti mendongkrak rata-rata tingkat tabungan dari **3,5% menjadi 13,6%** dalam kurun waktu kurang dari empat tahun.
 
-## 3\. Sektor Lingkungan: Mengubah Perilaku Konsumsi
+## 3\. Mengubah Perilaku Konsumsi di Sektor Lingkungan
 
 Isu lingkungan sering kali dirasa terlalu besar untuk ditangani sendiri. Di sinilah arsitektur pilihan hadir untuk menghubungkan niat baik dengan tindakan nyata secara praktis.
 
-### Kasus A: Norma Sosial di Hotel
+### Norma Sosial di Hotel
 
 Kamu mungkin pernah melihat kartu petunjuk di kamar hotel yang meminta tamu untuk menggunakan kembali handuk mereka.
 
@@ -61,7 +61,7 @@ Kamu mungkin pernah melihat kartu petunjuk di kamar hotel yang meminta tamu untu
 
 Manusia secara alami cenderung mengikuti apa yang dianggap wajar oleh kelompok sosialnya. Berdasarkan penelitian, pesan yang menyoroti norma sosial ini berhasil meningkatkan penggunaan kembali handuk sebesar **26%** dibandingkan dengan imbauan lingkungan yang standar.
 
-### Kasus B: Pengurangan Limbah Plastik (Default Bias)
+### Pengurangan Limbah Plastik lewat Default Bias
 
 Beberapa kantin universitas dan perkantoran mengubah tata letak peralatan makan sekali pakai untuk mengurangi limbah:
 
@@ -78,7 +78,7 @@ Sering kali kita mengambil sedotan plastik hanya karena benda tersebut diletakka
 | **Keuangan** | *Loss Aversion* & *Present Bias* | Program *SMarT* | Peningkatan drastis dana pensiun |
 | **Lingkungan** | Kurangnya motivasi individu | *Social Proof* (Norma Sosial) | Pengurangan konsumsi sumber daya |
 
-## Real-world Application: Merancang Kebijakan Publik
+## Merancang Kebijakan Publik
 
 Bayangkan kamu adalah seorang manajer fasilitas di sebuah gedung perkantoran besar yang ingin mengurangi konsumsi listrik. Berdasarkan studi kasus tadi, ada beberapa pilihan desain yang bisa kamu terapkan:
 

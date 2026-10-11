@@ -38,13 +38,13 @@ Dalam skenario pertama, kamu menimbang badan sebulan sekali di puskesmas setempa
 
 Skenario kedua tentu jauh lebih berhasil. Pantulan diri di cermin saat makan menjadi umpan balik visual instan atas pilihan menumu, sedangkan grafik harian menyajikan data perkembangan yang memotivasimu untuk tetap konsisten.
 
-## 4\. Implementasi Teknis: Feedback dalam Desain Digital
+## 4\. Feedback dalam Desain Digital
 
 Dalam rekayasa perangkat lunak dan desain UI/UX, umpan balik berperan mencegah kesalahan atau meningkatkan keamanan. Salah satu contoh klasiknya adalah indikator kekuatan kata sandi (*password strength meter*).
 
 Tanpa umpan balik ini, pengguna cenderung memilih kata sandi sederhana seperti `123456`. Keberadaan indikator visual langsung mendorong mereka untuk merancang kombinasi karakter yang lebih aman.
 
-### Contoh Kode: Visual Feedback untuk Keamanan
+### Contoh Kode Visual Feedback untuk Keamanan
 
 Berikut adalah cuplikan kode sederhana tentang bagaimana memberikan umpan balik visual secara langsung kepada pengguna:
 
@@ -80,19 +80,19 @@ passwordInput.addEventListener('input', (e) => {
 
 ## 5\. Penerapan di Dunia Nyata
 
-### Konsumsi Energi: The Ambient Orb
+### The Ambient Orb untuk Konsumsi Energi
 
 Di Amerika Serikat, sebuah perusahaan merancang bola lampu kristal kecil bernama *Ambient Orb*. Bola ini menyala merah saat penggunaan listrik rumah tangga sedang melonjak tinggi (ketika tarif mahal) dan berganti hijau jika konsumsi daya tergolong rendah. Hasilnya luar biasa: para pengguna berhasil menekan pemakaian energi pada jam sibuk hingga 40%. Langkah ini jauh lebih berhasil dibandingkan sekadar mengirimkan rincian tagihan kertas di akhir bulan.
 
-### Keselamatan Berkendara: Rumble Strips
+### Rumble Strips demi Keselamatan Berkendara
 
 Garis bergerigi di tepi jalan tol (*rumble strips*) menghasilkan getaran kuat dan suara bising saat terlindas ban mobil. Ini menjadi umpan balik fisik seketika yang memperingatkan pengemudi agar tersadar ketika mulai keluar dari lajur akibat kantuk atau kehilangan fokus.
 
-### ‍️ Kesehatan: Gamifikasi Langkah Kaki
+### Gamifikasi Langkah Kaki untuk Kesehatan
 
 Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainya berhasil menyentuh target 10.000 langkah. Apresiasi instan terhadap pencapaian kecil ini memperkuat kebiasaan sehat lewat stimulasi pusat kepuasan di otak.
 
-## 6\. Matematika di Balik Feedback: Akurasi dan Koreksi
+## 6\. Matematika di Balik Feedback untuk Akurasi dan Koreksi
 
 Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error ($E$) antara Target ($T$) dan Kondisi Saat Ini ($C$).
 
