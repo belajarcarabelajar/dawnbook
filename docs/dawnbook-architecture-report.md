@@ -620,16 +620,7 @@ dawnbook
 │   │   ├── 0003_progress_completion.sql
 │   │   ├── 0004_book_subject_label.sql
 │   │   └── 0005_book_view_count.sql
-│   ├── seed.sql
-│   ├── seed_0.sql
-│   ├── seed_2.sql
-│   ├── seed_3.sql
-│   ├── seed_4.sql
-│   ├── seed_5.sql
-│   ├── seed_6.sql
-│   ├── seed_7.sql
-│   ├── seed_8.sql
-│   └── seed_9.sql
+│   └── seed.sql
 ├── docs
 │   ├── ADMIN_AUDIT.md
 │   ├── ADMIN_DESIGN_REQUIREMENTS_MAP.md
