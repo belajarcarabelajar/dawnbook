@@ -185,6 +185,19 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **The mistake this prevents:** the post-deploy GSC reindex was reported as "blocked, service account lacks permission" after running only `gsc_trigger_reindex.py`. The working path (owner OAuth refresh token from `~/cloudflare/.env`, then `PUT` on the sitemap) was already documented in `docs/code-plan/artifacts/2026-10-06-dawnbook-psikologi-merge-evidence.md`.
 - **Rule:** before telling the owner a step failed or cannot be done, search `docs/code-plan/artifacts/` and `docs/code-plan/plans/` for how an earlier session did it (`rg -n -i '<step name>' docs/code-plan`). Repo scripts can print a 403 and still exit 0, so judge by their output, never by `$?`.
 
+## 24. Heading Anti-Colon Rule (No "Judul: Subjudul" Headings)
+- **Forbidden pattern (observed 2026-10-11):** a colon (`:`) in any heading of a chapter file (`##` to `######`), in any `SUMMARY.md` entry title, or in the `title` value of `book.toml` for a NEW book. This covers `Label: Subjudul`, a numbered `4. Label: Subjudul`, and a trailing colon such as `Komponen SMART:`. A scan on 2026-10-11 found 2,516 such headings across 56 books (613 of 712 chapter files). The two-part title is a recognizable AI tell, and readers see the template instead of the content.
+- **Do not disguise the pattern.** Never swap the colon for a dash, semicolon, parentheses, or a hollow "dan". That is the same two-part title in a different costume. Rewrite the heading into one natural phrase, picking one of four ways:
+  1. **Keep the specific part.** If the subtitle carries the real meaning, use it and drop the generic label (`Analogi: Antrean di Kasir` becomes `Antrean di Kasir`).
+  2. **Keep the label.** If the subtitle only restates the label, use the label alone.
+  3. **Fuse both.** If both parts matter, merge them into one noun phrase, verb phrase, or question.
+  4. **Trailing colon.** Drop the colon, and turn a list lead-in into a noun phrase (`Komponen SMART:` becomes `Komponen SMART`, or a fuller noun phrase when the heading introduces a list).
+- **Scaffold-label cap (extends section 21):** a generic label such as `Analogi`, `Real-World Application`, `Aplikasi Dunia Nyata`, `Studi Kasus`, `Skenario`, `Kasus`, or `Kesimpulan` may be the first word of at most 2 headings per book. If a section is plainly an analogy or a case, the label can be dropped entirely. Keep the number prefix, heading level, language, and meaning of the original heading, and add no new claims.
+- **Exemption marker:** the verbatim title of a cited work that contains a colon (for example a book title) may stay if the heading line ends with `<!-- heading-colon-ok: <reason> -->`. The reason is mandatory, and every use must be listed in the report. Do not use the marker to avoid a rewrite. A colon inside a code span or math is not counted.
+- **Owner-approved one-time exception to section 1 (2026-10-11):** the owner allowed editing ONLY the `title` line of `books/metakognisi/book.toml`, `books/pembelajaran-multidisiplin/book.toml`, and `books/quarter-life-crisis/book.toml` to remove the colon. Every other `book.toml` edit stays forbidden, including any other key in those three files.
+- **Dispatch requirement:** every authoring or subagent dispatch prompt that writes or edits chapter headings, `SUMMARY.md`, or a `book.toml` title MUST carry this rule in the prompt text itself. Do not assume the subagent has read this file.
+- **Verification (mandatory):** `bun run scripts/check-heading-colons.ts` (read-only detector, exit 1 on any violation, exit 0 when clean). It also lists every `heading-colon-ok` marker so exemptions stay visible.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
