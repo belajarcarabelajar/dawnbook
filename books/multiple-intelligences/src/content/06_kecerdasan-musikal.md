@@ -1,4 +1,4 @@
-## Kecerdasan Musikal: Irama dan Harmoni
+## Kecerdasan Musikal
 
 Pernahkah kamu berjalan di tengah kota yang bising, namun alih-alih merasa terganggu, kamu justru mendengar sebuah simfoni? Suara klakson mobil yang bersahutan membentuk ritme tertentu, desis angin di antara gedung menciptakan harmoni, dan langkah kaki pejalan kaki menjadi ketukan drum yang konstan. Jika kamu sering mengalami hal ini, kamu mungkin memiliki kecerdasan musikal yang tinggi.
 
@@ -62,7 +62,7 @@ Pembelajar tipe ini dapat memanfaatkan pola suara dalam proses belajar. Mendenga
 
 Metode belajar lainnya meliputi pembuatan rima, sajak, atau mnemonic dari deretan istilah sulit. Menyinkronkan memori otot dan auditori juga efektif untuk mengunci konsentrasi, contohnya dengan mengetukkan jari tiap kali menelusuri poin penting di modul pelajaran.
 
-## 6. Contoh Kasus: Pemrograman Berbasis Suara
+## 6. Pemrograman Berbasis Suara
 
 Penerapan kecerdasan musikal sangat relevan di dalam penulisan kode. Contohnya, menulis skrip untuk menghasilkan bunyi dari fungsi gelombang menggunakan bahasa Python:
 

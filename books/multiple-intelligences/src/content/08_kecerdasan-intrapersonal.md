@@ -1,4 +1,4 @@
-## Kecerdasan Intrapersonal: Memahami Diri Sendiri
+## Kecerdasan Intrapersonal
 
 Bayangkan kamu memiliki sebuah kompas internal yang sangat canggih. Kompas ini tidak menunjukkan arah utara atau selatan, melainkan menunjukkan siapa kamu sebenarnya, apa yang kamu rasakan, dan ke mana arah hidup yang paling sesuai dengan nilai-nilaimu. Itulah inti dari Kecerdasan Intrapersonal.
 
@@ -20,7 +20,7 @@ Daftar prinsip yang menjadi pegangan hidup. Ketika seseorang sangat memahami nil
 
 Kapasitas untuk menetapkan target yang selaras dengan kemampuan dan keinginan terdalam, alih-alih ikut-ikutan tren yang sedang ramai.
 
-## 2. Analogi: Navigasi GPS vs. Kompas Manual
+## 2. Navigasi GPS vs. Kompas Manual
 
 Untuk memahami perbedaan kecerdasan ini dengan yang lain, kita bisa menggunakan analogi navigasi:
 
@@ -37,7 +37,7 @@ Individu yang menonjol dalam kecerdasan ini biasanya menunjukkan beberapa ciri:
 - **Resilien:** Pemahaman mendalam tentang kekuatan dan kelemahan pribadi membuat mereka lebih cepat bangkit setelah jatuh.
 - **Suka Menyendiri (Solitude):** Menghargai waktu sendirian untuk memproses pikiran dan mengisi ulang energi, bukan karena anti-sosial.
 
-## 4. Perspektif Logis: Algoritma Pengambilan Keputusan
+## 4. Algoritma Pengambilan Keputusan
 
 Secara teknis, kecerdasan intrapersonal bisa dilihat sebagai fungsi evaluasi internal. Rumus sederhananya adalah:
 
@@ -58,12 +58,12 @@ Seseorang dengan kecerdasan intrapersonal tinggi mampu meminimalkan variabel $\t
 
 Kecerdasan ini berperan sebagai mesin di balik pencapaian di banyak bidang, dan keberadaannya amat penting dalam profesi tertentu.
 
-### Skenario: Menghadapi Kegagalan Proyek
+### Menghadapi Kegagalan Proyek
 
 - **Tanpa Kecerdasan Intrapersonal:** Seseorang mungkin langsung menyalahkan rekan kerja (eksternalisasi) atau merasa dirinya sama sekali tidak berguna (generalisasi berlebihan).
 - **Dengan Kecerdasan Intrapersonal:** Ia akan melakukan audit batin. Ia menyadari, "Saya merasa malu karena ego saya terluka. Kegagalan ini terjadi karena saya kurang teliti di bagian teknis, namun saya tahu saya kuat di bagian konsep. Saya akan memperbaiki cara kerja saya untuk proyek berikutnya."
 
-### Karier yang Cocok:
+### Karier yang Cocok
 
 - **Psikolog atau Terapis:** Perlu berdamai dan memahami diri sendiri secara tuntas sebelum bisa membantu orang lain menyelesaikan masalah mereka.
 - **Penulis dan Filsuf:** Pekerjaannya berpusat pada upaya menggali kedalaman emosi manusia melalui jalur refleksi personal yang intens.

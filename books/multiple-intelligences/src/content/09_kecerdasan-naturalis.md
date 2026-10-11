@@ -1,4 +1,4 @@
-## Kecerdasan Naturalis: Koneksi dengan Alam
+## Kecerdasan Naturalis
 
 Selamat datang di penjelajahan kecerdasan kedelapan dalam teori Howard Gardner. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela, ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
 
@@ -10,7 +10,7 @@ Pada awalnya, Gardner mengusulkan tujuh kecerdasan. Namun, pada tahun 1995, ia m
 
 Individu dengan kecerdasan naturalis yang tinggi memiliki semacam indra tambahan terhadap perubahan di lingkungan mereka. Mereka adalah penyusun kategori yang ulung dalam dunia fisik.
 
-### Analogi: Sang Pustakawan Ekosistem
+### Sang Pustakawan Ekosistem
 
 > Bayangkan otak seorang naturalis seperti sebuah perpustakaan raksasa yang isinya berupa katalog organisme dan fenomena alam, alih-alih deretan buku biasa. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir: kategori pohon *Dipterocarpaceae*, strata kanopi, kelembapan tanah, hingga jejak hewan di permukaan tanah. Mereka tidak sekadar melihat, mereka **membaca** alam.
 
@@ -32,7 +32,7 @@ $$
 
 Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tutul dan kijang, atau tidak memahami pola migrasi hewan, maka risiko kematian menjadi lebih tinggi. Di era modern, sirkuit saraf yang sama kerap digunakan untuk membedakan merek mobil, gaya busana, atau pola data dalam riset saintifik.
 
-## Spektrum Kecerdasan Naturalis: Dari Pemula ke Ahli
+## Spektrum Kecerdasan Naturalis dari Pemula ke Ahli
 
 Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tahap awal, seseorang mulai mengenali perbedaan antarspesies yang umum, seperti membedakan kucing dari anjing atau mawar dari melati. Seiring berjalannya waktu, pemahamannya naik ke tingkat menengah, di mana ia mampu mencerna siklus hidup organisme dan menyesuaikan tindakannya, seperti petani yang tahu persis kapan mulai menanam padi dengan melihat rasi bintang atau pola cuaca.
 
@@ -46,7 +46,7 @@ Dalam dunia kuliner dan gastronomi, seorang chef andal sering menggunakan ketaja
 
 Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantung pada pengamatan alam. Seorang arsitek bisa mengklasifikasikan mekanisme ventilasi sarang rayap dan menerapkannya untuk merancang gedung hemat energi.
 
-## Contoh Skenario: Si Detektif Hutan
+## Si Detektif Hutan
 
 Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai merasakan ritme sekitarnya.
 

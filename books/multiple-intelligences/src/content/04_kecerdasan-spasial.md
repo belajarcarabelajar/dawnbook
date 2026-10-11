@@ -1,4 +1,4 @@
-## Kecerdasan Spasial: Visualisasi Tanpa Batas
+## Kecerdasan Spasial
 
 Pernahkah kamu bertanya-tanya bagaimana seorang arsitek bisa membayangkan sebuah gedung pencakar langit yang megah hanya dari selembar kertas kosong? Atau bagaimana seorang pilot dapat menemukan jalan di tengah gumpalan awan tebal tanpa kehilangan arah?
 
@@ -10,7 +10,7 @@ Kecerdasan Spasial-Visual merupakan salah satu elemen dalam Teori Kecerdasan Maj
 
 Individu dengan kemampuan ini seolah memiliki mata batin yang tajam. Mereka dapat melihat objek, mempertimbangkan sudut pandang berbeda, dan membayangkan interaksi objek tersebut dengan ruang di sekitarnya. Terdapat dua komponen utama yang menopangnya. Pertama adalah persepsi akurat, yaitu kemampuan mengenali bentuk, garis, warna, dan hubungan antarruang dengan presisi tinggi. Komponen kedua berupa transformasi mental, yakni keahlian memanipulasi gambar di dalam kepala tanpa perlu melihat wujud fisiknya secara langsung, seperti merotasi objek 3D dalam pikiran.
 
-## 2\. Di Balik Layar: Bagaimana Cara Kerjanya?
+## 2\. Bagaimana Kecerdasan Spasial Bekerja?
 
 Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{dan } z$. 
 
@@ -73,7 +73,7 @@ plt.show()
 
 Mengeksekusi kode di atas dapat memperlihatkan secara langsung bagaimana persamaan matematika dikonversi menjadi bentuk ruang yang nyata.
 
-## 6\. Skenario: Sang Penjelajah Hutan
+## 6\. Sang Penjelajah Hutan
 
 Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi digital. Pada tahap awal, ia memperhatikan pola lumut di pepohonan yang menunjukkan arah utara serta mengevaluasi kemiringan tanah. Selanjutnya, proses transformasi mental terjadi ketika ia membayangkan peta topografi yang sempat dibacanya di kamp, lalu memadukan situasi aktual di depannya dengan peta di dalam ingatannya. Berdasarkan perhitungan visual tersebut, ia merancang jalur alternatif melingkari bukit untuk mencapai sumber air terdekat.
 

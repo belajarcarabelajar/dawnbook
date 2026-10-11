@@ -4,7 +4,7 @@ Sejauh ini, kamu telah mempelajari berbagai jenis kecerdasan yang diusulkan oleh
 
 Bagian ini akan mengajak kamu melihat sisi lain dari teori ini melalui kacamata kritis para ilmuwan. Kita akan membedah mengapa teori yang begitu dicintai di dunia pendidikan ini sering mendapat sorotan tajam di laboratorium psikologi.
 
-## 1. Masalah Validitas Empiris: Di Mana Buktinya?
+## 1. Masalah Validitas Empiris
 
 Kritik yang paling sering dilontarkan oleh para psikolog kognitif adalah kurangnya bukti empiris. Dalam dunia sains, sebuah teori kecerdasan biasanya divalidasi melalui tes psikometri dan analisis statistik. Gardner tidak merancang serangkaian tes formal untuk mengukur berbagai kecerdasan tersebut, dan lebih banyak mengandalkan observasi antropologis maupun biologis. 
 
@@ -34,7 +34,7 @@ Dalam tinjauan terhadap literatur *Multiple Intelligences*, psikolog kognitif se
 
 Selain itu, muncul kebingungan di lapangan dengan konsep Gaya Belajar (*Learning Styles* seperti visual, auditori, atau kinestetik). Gardner sendiri menolak gagasan Gaya Belajar tersebut. Namun, teorinya sering disalahpahami oleh praktisi pendidikan untuk membenarkan metode pengajaran tertentu tanpa dasar bukti empiris, misalnya memaksa pengajaran matematika lewat tarian semata untuk memfasilitasi murid kinestetik.
 
-## 4. *Real-World Application*: Dampak Kritik dalam Praktik
+## 4. Dampak Kritik terhadap Penerapan Teori
 
 Mengetahui sisi kritis teori ini membantu kita menghindari penerapan yang kurang tepat. Sebagai contoh di ranah rekrutmen, bayangkan sebuah perusahaan yang mencoba menggunakan Teori Kecerdasan Majemuk untuk mencari manajer baru dengan memberikan tes musik atau tes naturalis.
 

@@ -28,7 +28,7 @@ Siswa dengan kecerdasan musikal cenderung lebih cepat paham jika rumus atau fakt
 
 Bagi profil interpersonal, metode pembelajaran kooperatif, pengajaran sejawat (*peer teaching*), dan proyek komunitas sangat efektif karena memfasilitasi interaksi sosial. Sebaliknya, siswa intrapersonal lebih menghargai kegiatan yang reflektif, seperti penulisan jurnal harian, penetapan tujuan pribadi (*goal setting*), serta sesi belajar mandiri yang tenang.
 
-## 3. Penilaian Otentik: Mengukur Tanpa Menghakimi
+## 3. Penilaian Otentik
 
 Menerapkan beragam metode pengajaran mengharuskan adanya variasi dalam bentuk evaluasi, tidak lagi terbatas pada format pilihan ganda. Penilaian semestinya bersifat otentik dan mampu mencerminkan kemampuan di dunia nyata.
 
@@ -41,7 +41,7 @@ Rubrik penilaian yang terukur sangat diperlukan agar standar kompetensi tetap te
 | Demonstrasi Langsung | Kinestetik | Daftar periksa keterampilan (*Checklist*) |
 | Analisis Data/Laporan | Logis-Matematis | Skor akurasi dan logika |
 
-## 4. Aplikasi Dunia Nyata: Skenario Pembelajaran
+## 4. Unit Pelajaran Siklus Air
 
 Sebagai ilustrasi, Teori MI dapat diterapkan secara menyeluruh dalam satu unit pelajaran mengenai Siklus Air (*Water Cycle*). 
 

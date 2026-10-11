@@ -1,4 +1,4 @@
-## Strategi Mengembangkan Berbagai Kecerdasan: Menuju Potensi Diri yang Utuh
+## Strategi Mengembangkan Berbagai Kecerdasan
 
 Setelah memahami berbagai jenis kecerdasan dalam Teori Kecerdasan Majemuk, muncul satu pertanyaan nyata: **"Bagaimana saya bisa menggunakan pengetahuan ini untuk meningkatkan kualitas hidup saya?"**
 
