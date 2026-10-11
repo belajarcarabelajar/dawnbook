@@ -1,4 +1,4 @@
-## Efek Jangkar (Anchoring Effect): Pesona Informasi Pertama
+## Efek Jangkar (Anchoring Effect)
 
 Pernahkah kamu bertanya-tanya mengapa toko ritel selalu mencoret harga tinggi dan menampilkan harga "diskon" di sampingnya? Atau mengapa dalam negosiasi gaji, pihak yang menyebutkan angka pertama kali sering kali memiliki kendali lebih besar atas hasil akhirnya?
 
@@ -10,13 +10,13 @@ Selamat datang di dunia **Efek Jangkar (Anchoring Effect)**, salah satu bias kog
 
 > **Intisari:** Sekali sebuah angka atau informasi masuk ke dalam pikiran kita, kita cenderung menggunakannya sebagai titik referensi absolut, bahkan jika angka tersebut sebenarnya tidak relevan dengan tugas yang sedang dihadapi.
 
-### Analogi: Kapal dan Jangkarnya
+### Kapal dan Jangkarnya
 
 Bayangkan sebuah kapal di tengah laut yang menurunkan jangkar. Kapal tersebut masih bisa bergerak tertiup angin atau arus, tetapi pergerakannya akan terbatas pada radius tertentu di sekitar titik jangkar tersebut dijatuhkan.
 
 Sama halnya dengan pikiran kita: ketika kita diberi sebuah angka (jangkar), estimasi atau keputusan kita mungkin berubah, tetapi jarang sekali kita bisa "berlayar" jauh meninggalkan pengaruh angka awal tersebut.
 
-## Eksperimen Klasik: Kekuatan Angka Acak
+## Kekuatan Angka Acak
 
 Dua tokoh pionir psikologi kognitif, **Amos Tversky** dan **Daniel Kahneman**, mendemonstrasikan fenomena ini dalam sebuah eksperimen yang sangat terkenal.
 
@@ -74,7 +74,7 @@ Dalam dunia profesional, siapa pun yang menyebutkan angka pertama kali biasanya 
 
 Toko grosir sering menggunakan tanda: *"Maksimal 12 kaleng per orang"*. Jangkar angka "12" membuat konsumen secara tidak sadar berpikir untuk membeli lebih banyak daripada jika tanda tersebut tidak ada, karena otak menjangkarkan jumlah konsumsi pada angka maksimum tersebut.
 
-## Skenario Kasus: Jual Beli Properti
+## Jual Beli Properti
 
 **Konteks:** Kamu adalah seorang pembeli rumah. Kamu melihat sebuah rumah dengan harga penawaran (Listing Price) sebesar **Rp2.000.000.000**.
 

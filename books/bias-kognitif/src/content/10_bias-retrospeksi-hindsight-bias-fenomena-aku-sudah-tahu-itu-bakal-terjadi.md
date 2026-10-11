@@ -1,4 +1,4 @@
-## Bias Retrospeksi (Hindsight Bias): Fenomena "Aku Sudah Tahu Itu Bakal Terjadi!"
+## Bias Retrospeksi (Hindsight Bias)
 
 Pernahkah kamu menonton pertandingan sepak bola di mana tim favorit kamu kalah, lalu teman kamu berkata, *"Sudah kuduga mereka bakal kalah, taktiknya saja sudah salah sejak awal"*? Padahal, sebelum pertandingan dimulai, teman kamu tersebut sangat yakin timnya akan menang.
 
@@ -24,7 +24,7 @@ Menurut penelitian psikologi, bias ini terjadi dalam tiga lapisan yang semakin m
 2. **Keniscayaan (Inevitability):** Kita percaya bahwa peristiwa itu *pasti* terjadi karena urutan kejadiannya terlihat sangat logis setelah semua fakta terungkap.
 3. **Kemampuan Prediksi (Predictability):** Kita secara pribadi percaya bahwa kita *bisa* atau *seharusnya* memprediksi peristiwa tersebut.
 
-## Analogi: Spion Kendaraan vs. Kaca Depan
+## Spion Kendaraan vs. Kaca Depan
 
 Bayangkan kamu sedang mengendarai mobil di tengah kabut tebal (**Masa Depan**). Kamu hanya bisa melihat beberapa meter di depan dan merasa sangat tidak pasti arah mana yang harus diambil.
 
@@ -40,7 +40,7 @@ Bias ini bisa sangat berbahaya dalam berbagai aspek kehidupan karena:
 - **Menyalahkan Orang Lain (Blaming):** Kita sering menghakimi pembuat keputusan (pemimpin politik, dokter, atau manajer) karena hasil yang buruk, dengan asumsi bahwa mereka "seharusnya tahu" apa yang akan terjadi.
 - **Overconfidence:** Merasa memiliki kemampuan prediksi yang hebat dapat membuat kita mengambil risiko yang terlalu besar di masa depan.
 
-## Real-World Application: Kasus Nyata
+## Kasus Nyata Bias Retrospeksi
 
 ### 1\. Dunia Investasi dan Saham
 
@@ -54,7 +54,7 @@ Dalam malapraktik medis, jika seorang dokter melewatkan diagnosis penyakit langk
 
 Kita sering melihat peristiwa besar seperti jatuhnya Uni Soviet atau serangan 11 September sebagai peristiwa yang "tak terelakkan". Padahal, bagi orang-orang yang hidup di masa itu, masa depan terasa sangat kabur dan penuh dengan kemungkinan lain yang tidak terjadi.
 
-## Perspektif Teknis: Probabilitas Bayes
+## Probabilitas Bayes
 
 Dalam statistik, kita bisa melihat fenomena ini sebagai perubahan pada probabilitas subjektif. Misalkan $P(A)$ adalah probabilitas peristiwa $A$ terjadi menurut prediksi kamu.
 

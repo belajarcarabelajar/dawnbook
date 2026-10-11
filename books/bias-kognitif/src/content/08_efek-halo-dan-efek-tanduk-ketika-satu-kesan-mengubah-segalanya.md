@@ -1,4 +1,4 @@
-# Efek Halo dan Efek Tanduk: Ketika Satu Kesan Mengubah Segalanya
+# Efek Halo dan Efek Tanduk
 
 Pernahkah kamu bertemu seseorang yang sangat menawan secara fisik dan secara otomatis berasumsi bahwa mereka juga cerdas, baik hati, dan jujur? Atau sebaliknya, pernahkah kamu melihat seseorang yang berpakaian sangat berantakan dan langsung menyimpulkan bahwa mereka malas atau tidak kompeten di tempat kerja?
 
@@ -16,7 +16,7 @@ Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahu
 
 Otak manusia menyukai efisiensi. Menilai setiap sifat seseorang secara mendalam membutuhkan energi mental yang besar. Dengan Efek Halo, otak kita menggunakan "jalan pintas" dengan mengambil satu informasi yang tersedia dan membangun profil lengkap di sekitarnya agar kita bisa membuat keputusan cepat.
 
-## 2. Kebalikannya: Efek Tanduk (Horns Effect)
+## 2. Efek Tanduk (Horns Effect)
 
 Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tanduk** memberikan "tanduk iblis". Ini terjadi ketika satu kesan negatif atau sifat buruk yang terlihat menyebabkan kita memandang seluruh karakter seseorang secara negatif.
 
@@ -52,7 +52,7 @@ Mengapa perusahaan membayar jutaan dolar untuk *celebrity endorsement*?
 
 Penelitian menunjukkan bahwa terdakwa yang dianggap menarik secara fisik cenderung menerima hukuman yang lebih ringan dibandingkan mereka yang dianggap kurang menarik untuk kejahatan yang sama. Kecantikan menciptakan "Halo" moralitas dan kejujuran.
 
-## 5. Studi Kasus: "The Look of Leadership"
+## 5. "The Look of Leadership"
 
 Bayangkan dua orang manajer baru, **Andi** dan **Budi**.
 
@@ -61,7 +61,7 @@ Bayangkan dua orang manajer baru, **Andi** dan **Budi**.
 
 Kedua orang ini melakukan kesalahan yang identik, namun interpretasi tim terhadap mereka sangat berbeda berdasarkan kesan awal yang mereka bangun.
 
-## 6. Real-world Application: Cara Menghindari Bias Ini
+## 6. Menghindari Bias Halo dalam Penilaian
 
 Meskipun sulit untuk sepenuhnya menghilangkan bias ini karena sudah "terprogram" dalam evolusi kita, kita bisa memitigasinya dengan langkah-langkah praktis:
 

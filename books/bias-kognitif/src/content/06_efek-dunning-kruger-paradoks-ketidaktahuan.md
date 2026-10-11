@@ -1,4 +1,4 @@
-## Efek Dunning-Kruger: Paradoks Ketidaktahuan
+## Efek Dunning-Kruger
 
 Pernahkah kamu bertemu dengan seseorang yang baru saja mempelajari dasar-dasar suatu bidang (misalnya, investasi kripto atau strategi sepak bola) namun berbicara dengan keyakinan seolah-olah mereka adalah seorang ahli tingkat dunia? Atau sebaliknya, pernahkah kamu melihat seorang ahli yang sangat kompeten justru merasa bahwa kemampuan mereka "biasa-biasa saja"?
 
@@ -10,7 +10,7 @@ Selamat datang di dunia **Dunning-Kruger Effect**, sebuah fenomena di mana semak
 
 Fenomena ini pertama kali dipelajari secara formal oleh psikolog sosial **David Dunning** dan **Justin Kruger** pada tahun 1999 di Universitas Cornell.
 
-### Akar Masalah: Metacognition
+### Kurangnya Metacognition
 
 Alasan utama di balik bias ini adalah kurangnya **metacognition**.
 
@@ -38,7 +38,7 @@ Perjalanan ini biasanya mengikuti empat tahap utama:
 
 *Di titik manakah kamu berada dalam keterampilan yang sedang kamu pelajari saat ini? Apakah kamu benar-benar tahu, atau kamu hanya "merasa" tahu?*
 
-## 3\. Contoh Kasus Nyata: Kisah McArthur Wheeler
+## 3\. Kisah McArthur Wheeler
 
 Ini adalah kisah klasik yang menginspirasi Dunning dan Kruger. Pada tahun 1995, seorang pria bernama McArthur Wheeler merampok dua bank di Pittsburgh tanpa topeng. Dia justru tersenyum ke arah kamera CCTV.
 
@@ -50,7 +50,7 @@ Ketika polisi menangkapnya, dia terkejut dan bergumam: *"Tapi saya sudah memakai
 
 Dalam dunia teknis, bias ini sering muncul saat seseorang mempelajari bahasa pemrograman atau teknologi baru.
 
-### Skenario: Junior vs. Senior Developer
+### Junior vs. Senior Developer
 
 Bayangkan sebuah tugas untuk mengoptimalkan kode pengolah data.
 
@@ -90,7 +90,7 @@ def find_duplicates_expert(arr):
 2. **Ketidakmampuan Menerima Kritik:** Karena mereka merasa sudah tahu segalanya, masukan dari orang lain dianggap sebagai serangan atau tanda bahwa orang lain yang tidak kompeten.
 3. **Menghambat Inovasi:** Di tempat kerja, suara yang paling keras (biasanya yang terkena Dunning-Kruger Effect) sering kali mengalahkan suara yang lebih kompeten namun lebih ragu-ragu.
 
-## 6\. Aplikasi Praktis: Bagaimana Cara Menghindarinya?
+## 6\. Cara Menghindari Jebakan Dunning-Kruger
 
 Meskipun kita semua rentan terhadap bias ini, ada langkah-langkah untuk meminimalisirnya:
 

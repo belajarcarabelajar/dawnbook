@@ -4,11 +4,11 @@ Bayangkan otak kita adalah seorang hakim di dalam ruang sidang yang sangat sibuk
 
 Inilah realitas pengambilan keputusan manusia. Bias kognitif lebih dari sekadar istilah psikologi di buku teks. Ia adalah kekuatan tidak terlihat yang membentuk sejarah, meruntuhkan bisnis bernilai miliaran dolar, dan memengaruhi cara kita menyukai atau membenci orang lain.
 
-## 1. Dunia Bisnis: Ketika Intuisi Menipu Korporasi
+## 1. Dunia Bisnis
 
 Dalam dunia profesional, keputusan yang didorong oleh bias sering kali bersembunyi di balik istilah "pengalaman" atau "insting bisnis". Namun, data sejarah menunjukkan hasil yang berbeda.
 
-### Kasus: Kejatuhan Blockbuster Video
+### Kejatuhan Blockbuster Video
 
 Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada CEO Blockbuster, John Antioco, seharga $50 juta. Antioco menolak tawaran itu mentah-mentah. Mengapa?
 
@@ -17,17 +17,17 @@ Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada
 
 **Dampaknya:** Blockbuster akhirnya bangkrut pada 2010, sedangkan Netflix berkembang menjadi raksasa media global.
 
-### Real-world Application: Rekrutmen Karyawan
+### Rekrutmen Karyawan
 
 Banyak manajer terjebak dalam **Halo Effect**. Saat melihat kandidat lulusan universitas ternama (misalnya Harvard atau UI), manajer cenderung langsung menganggap mereka punya etika kerja yang baik dan kepemimpinan yang hebat. Padahal, lulusan kampus terkenal tidak selalu menjamin kemampuan tersebut.
 
 > **Catatan:** Bias dalam rekrutmen membuat perusahaan kehilangan talenta terbaik hanya karena penampilan atau kesan mereka tidak cocok dengan gambaran ideal di kepala perekrut.
 
-## 2. Ranah Politik: Polarisasi dan "Ruang Gema"
+## 2. Ranah Politik
 
 Politik adalah tempat di mana **In-group Bias** dan **Confirmation Bias** bekerja paling kuat.
 
-### Analisis Fenomena: Filter Bubble di Media Sosial
+### Filter Bubble di Media Sosial
 
 Algoritma media sosial dirancang untuk memberi kamu apa yang kamu sukai. Jika kamu cenderung menyukai satu kubu politik, algoritma akan terus menyajikan informasi yang serupa.
 
@@ -39,7 +39,7 @@ Algoritma media sosial dirancang untuk memberi kamu apa yang kamu sukai. Jika ka
 
 Efek bias dalam hukum bisa menentukan nasib seseorang antara kebebasan dan penjara. Salah satu yang paling berbahaya adalah **Anchoring Effect** dalam tuntutan hukum.
 
-### Contoh Kasus: Penentuan Vonis
+### Penentuan Vonis
 
 Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kasus yang sama. Sebelum menetapkan vonis, mereka diminta melempar dadu yang sudah diatur untuk memunculkan angka tinggi atau rendah.
 
@@ -72,7 +72,7 @@ Kita cenderung menilai kesalahan diri sendiri berdasarkan **situasi**, tetapi me
 | **Kesehatan** | *Availability Heuristic* | Takut berlebihan pada penyakit langka yang viral, tetapi mengabaikan risiko penyakit jantung yang jauh lebih umum. |
 | **Teknologi** | *Overconfidence Bias* | Gagal meluncurkan produk karena merasa paling tahu kebutuhan pengguna tanpa riset. |
 
-## Skenario Dunia Nyata: "Rapat Direksi yang Bias"
+## Rapat Direksi yang Bias
 
 Mari kita lihat bagaimana berbagai bias berkumpul dalam satu ruangan rapat:
 

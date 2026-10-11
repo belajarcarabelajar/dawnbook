@@ -1,16 +1,16 @@
-## Teknik Mitigasi dan Debiasing: Melawan Arus Insting untuk Keputusan Lebih Jernih
+## Teknik Mitigasi dan Debiasing
 
 Setelah memahami berbagai jenis bias yang sering menjebak pikiran kita, muncul sebuah pertanyaan mendasar: *Jika otak kita secara alami dirancang untuk memiliki bias, apakah kita bisa memperbaikinya?*
 
 Kabar baiknya, meskipun kita tidak bisa menghapus bias sepenuhnya (karena itu adalah bagian dari evolusi otak), kita bisa melakukan **mitigasi** dan **debiasing**. Bayangkan cognitive bias seperti ilusi optik; meskipun mata kamu tetap melihat garis yang sama panjangnya sebagai berbeda, dengan menggunakan penggaris, kamu bisa tahu kenyataan yang sebenarnya dan bertindak berdasarkan data tersebut, bukan berdasarkan ilusi tersebut.
 
-## 1\. Fondasi Debiasing: Mengaktifkan Sistem 2
+## 1\. Mengaktifkan Sistem 2
 
 Dalam psikologi kognitif, Daniel Kahneman memperkenalkan konsep **System 1** (cepat, otomatis, emosional) dan **System 2** (lambat, logis, penuh usaha). Cognitive bias mayoritas bersarang di System 1.
 
 > **Insight Utama:** Inti dari teknik debiasing adalah memaksa otak kita untuk beralih dari System 1 yang instinktif ke System 2 yang analitis.
 
-### Analogi: Pilot dan Autopilot
+### Pilot dan Autopilot
 
 Bayangkan kamu sedang menerbangkan pesawat. Kebanyakan waktu, pesawat berada dalam mode *autopilot* (System 1) yang efisien. Namun, saat cuaca buruk atau mendarat, pilot harus mengambil alih kendali secara manual (System 2). Debiasing adalah momen di mana kamu memutuskan untuk mematikan *autopilot* karena kamu tahu sensor pesawat mungkin terganggu oleh awan bias.
 
@@ -60,7 +60,7 @@ Sangat sulit melihat bias dalam diri sendiri, namun sangat mudah melihatnya pada
 
 - **Teknik:** Gunakan "Peer Review" or mintalah rekan kerja untuk memeriksa keputusan kamu secara anonim tanpa memberitahu mereka apa preferensi kamu di awal.
 
-## 4\. Real-World Application: Rekrutmen Karyawan
+## 4\. Mitigasi dalam Rekrutmen Karyawan
 
 Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk melawan **Halo Effect** dan **Group Bias**.
 
@@ -72,7 +72,7 @@ Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk m
 | Wawancara dilakukan secara bebas tanpa struktur tetap. | **Structured Interview:** Memberikan pertanyaan yang sama persis dengan bobot nilai yang sudah ditentukan sebelumnya. |
 | Penilaian berdasarkan "kecocokan budaya" yang subjektif. | **Work Sample Test:** Memberikan tugas nyata (misal: buat rencana kampanye) untuk menilai kompetensi teknis secara objektif. |
 
-## 5\. Implementasi Teknis: Kerangka Keputusan (Pseudocode)
+## 5\. Kerangka Keputusan (Pseudocode)
 
 Bagi kamu yang menyukai pendekatan sistematis, berikut adalah algoritma sederhana yang bisa kamu gunakan sebelum mengetuk palu sebuah keputusan penting:
 

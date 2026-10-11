@@ -1,4 +1,4 @@
-## Heuristik: Akar dari Bias
+## Heuristik sebagai Akar Bias
 
 Bayangkan kamu sedang berada di supermarket yang sangat luas untuk membeli sebungkus garam. Kamu punya dua pilihan cara untuk menemukannya:
 
@@ -42,7 +42,7 @@ Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)_{\t
 
 Di mana $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
 
-## 4\. Dari Heuristik Menuju Bias: Titik Kerusakan
+## 4\. Dari Heuristik Menuju Bias
 
 Heuristik menjadi **Bias Kognitif** ketika jalan pintas tersebut menyebabkan kesalahan sistematis yang dapat diprediksi dalam situasi tertentu.
 
@@ -52,9 +52,9 @@ Jika heuristik adalah "alat", maka bias adalah "cacat produksi" yang muncul akib
 2. **Keterbatasan Data:** Heuristik hanya bekerja berdasarkan informasi yang ada di ingatan jangka pendek atau yang paling mencolok secara emosional.
 3. **Konteks yang Tidak Relevan:** Menggunakan insting "lawan atau lari" di zaman purba untuk mengambil keputusan finansial modern di pasar saham.
 
-## 5\. Contoh Nyata: Heuristik dalam Dunia Teknik & Bisnis
+## 5\. Heuristik dalam Dunia Teknik & Bisnis
 
-### Skenario: Estimasi Proyek Perangkat Lunak
+### Estimasi Proyek Perangkat Lunak
 
 Seorang Senior Developer diminta memberikan estimasi waktu untuk fitur baru yang belum pernah dibuat sebelumnya.
 
@@ -79,7 +79,7 @@ def ambil_keputusan(data_kompleks):
     #     hitung_risiko_jangka_panjang(data)
 ```
 
-## 6\. Aplikasi Praktis: Bagaimana Cara Mengatasinya?
+## 6\. Cara Mengatasi Bias Heuristik
 
 Meskipun kita tidak bisa menghapus heuristik dari otak kita, kita bisa belajar untuk melakukan "intervensi manual".
 

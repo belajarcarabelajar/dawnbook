@@ -1,4 +1,4 @@
-## Bias Kelompok (In-group Bias): Dinamika "Kita" vs "Mereka"
+## Bias Kelompok (In-group Bias)
 
 Pernahkah kamu merasa lebih akrab dengan seseorang hanya karena mereka mendukung tim sepak bola yang sama, lulus dari universitas yang sama, atau bahkan sekadar menggunakan merek ponsel yang sama dengan kamu? Perasaan instan bahwa "orang ini adalah bagian dari saya" adalah inti dari **Bias Kelompok** atau *In-group Bias*.
 
@@ -38,7 +38,7 @@ Ini adalah sisi gelapnya. Kita cenderung melihat orang di luar kelompok sebagai 
 - **Out-group Homogeneity Effect:** Kita cenderung menganggap semua orang di luar kelompok kita adalah sama (stereotip), sementara melihat kelompok kita sendiri sangat beragam.
 	- *"Ah, semua orang dari departemen pemasaran itu cuma bisa bicara besar,"* tetapi saat melihat departemen sendiri, kamu berkata, *"Tim IT kita punya berbagai macam kepribadian yang unik."*
 
-## Dampak: Polarisasi dan Konflik
+## Polarisasi dan Konflik
 
 Bias kelompok adalah bahan bakar utama di balik **polarisasi**. Ketika kita hanya berinteraksi dengan kelompok sendiri (sering diperparah oleh algoritme media sosial), kita menciptakan "ruang gema" (*echo chambers*).
 
@@ -84,7 +84,7 @@ Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objekt
 2. **Tujuan Superordinat:** Kerjakan proyek bersama kelompok lain yang mengharuskan kerja sama untuk mencapai target yang lebih besar. Saat kita berjuang demi tujuan yang sama, "mereka" menjadi "kita".
 3. **Latihan Empati Kognitif:** Tanyakan pada diri sendiri, *"Jika ide ini diusulkan oleh sahabat saya, apakah saya akan tetap menolaknya?"*
 
-### Refleksi Diri:
+### Refleksi Diri
 
 *Coba ingat kembali saat terakhir kali kamu merasa kesal dengan sebuah kelompok (bisa jadi kelompok politik, pendukung klub bola, atau departemen lain di kantor). Apakah kekesalan kamu didasarkan pada data objektif, ataukah itu hanya cara otak kamu untuk merasa lebih bangga dengan kelompok kamu sendiri?*
 

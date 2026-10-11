@@ -10,7 +10,7 @@ Bias Ketersediaan adalah kecenderungan kognitif di mana seseorang mengandalkan i
 
 Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Daniel Kahneman** pada tahun 1973. Mereka menemukan bahwa manusia sering kali menggunakan "kemudahan pemanggilan memori" sebagai pengganti (proxy) untuk menghitung probabilitas yang sebenarnya.
 
-### Logika Sederhana Otak Kita:
+### Logika Sederhana Otak Kita
 
 > "Jika saya bisa mengingatnya dengan mudah, maka peristiwa itu pasti penting atau sering terjadi."
 
@@ -27,7 +27,7 @@ Bayangkan pikiran kamu adalah sebuah **perpustakaan raksasa**.
 
 Saat seseorang bertanya, "Buku apa yang paling populer?", kamu cenderung mengambil buku yang ada di meja depan karena itulah yang paling mudah dijangkau, bukan karena buku itu yang paling banyak dibaca oleh semua orang dalam sejarah perpustakaan tersebut.
 
-### Faktor-faktor yang Memicu "Kemudahan Mengingat":
+### Faktor-faktor yang Memicu "Kemudahan Mengingat"
 
 1. **Kebaruan (*Recency*)**: Peristiwa yang baru saja terjadi (misal: berita tadi pagi) lebih mudah diingat daripada peristiwa tahun lalu.
 2. **Dramatisasi & Visualisasi (*Vividness*)**: Kejadian yang traumatis, spektakuler, atau sangat visual (misal: ledakan) lebih membekas daripada statistik angka yang kering.

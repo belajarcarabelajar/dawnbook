@@ -1,4 +1,4 @@
-## Membangun Objektivitas Berkelanjutan: Seni Melihat Dunia Tanpa Filter
+## Membangun Objektivitas Berkelanjutan
 
 Selamat! Kamu telah menelusuri lorong-lorong gelap pikiran manusia, mulai dari memahami akar heuristics hingga membongkar berbagai jebakan cognitive bias yang sering kali mengaburkan penilaian kita. Namun, mengetahui adanya bias hanyalah langkah pertama. Pengetahuan tanpa penerapan ibarat memiliki peta di tengah hutan tetapi tidak pernah melangkah untuk keluar.
 
@@ -37,7 +37,7 @@ Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap berge
 
 Kamu harus menjadi kritikus paling tajam bagi diri sendiri. Tanyakan: *"Apakah saya menginginkan hal ini menjadi benar, atau apakah ini memang benar?"*
 
-### 3. Strategi Praktis: "Mental Gym" Harian
+### 3. "Mental Gym" Harian
 
 Agar otot objektivitas kamu tetap kuat, lakukan latihan berikut dalam kehidupan sehari-hari:
 
@@ -45,7 +45,7 @@ Agar otot objektivitas kamu tetap kuat, lakukan latihan berikut dalam kehidupan 
 2. **Falsification Test (Uji Pemalsuan)**: Alih-alih mencari bukti yang mendukung pendapat kamu (Confirmation Bias), tanyakan: *"Bukti apa yang jika muncul, akan membuat saya berubah pikiran?"* Jika kamu tidak bisa memikirkan satu pun bukti, maka kamu sedang tidak berpikir objektif, kamu sedang beriman pada prasangka.
 3. **The 10-Second Gap (Jeda Refleksi)**: Saat menerima informasi yang memicu emosi kuat (marah, senang luar biasa, atau benci), berikan jeda 10 detik sebelum merespons. Emosi adalah sinyal bahwa sistem limbik kamu (otak emosional) sedang mencoba mengambil alih kendali dari korteks prefrontal (otak rasional).
 
-### 4. Real-World Application: Kepemimpinan di Era Informasi
+### 4. Kepemimpinan di Era Informasi
 
 Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyata:
 
@@ -80,7 +80,7 @@ keyakinan_baru = evaluasi_opini(keyakinan_awal, bukti_kontra, bobot_bukti)
 print(f"Keyakinan setelah update: {keyakinan_baru:.2f}")
 ```
 
-### 5. Kesimpulan: Menjadi Pengamat yang Jernih
+### 5. Menjadi Pengamat yang Jernih
 
 Dunia tidak akan pernah berhenti mencoba membingungkan kamu dengan informasi yang bias, narasi yang memihak, dan manipulasi emosional. Namun, dengan memahami mekanisme kerja otak sendiri, kamu memiliki "baju zirah" mental.
 
