@@ -4,6 +4,7 @@
   "description": "Platform open-source untuk kolaborasi dan publikasi buku edukasi berbasis Markdown dan mdBook.",
   "scripts": {
     "build": "bun run scripts/build.ts",
+    "check:headings": "bun run scripts/check-heading-colons.ts",
     "check:d1": "bun run scripts/check-d1-rate-limit.ts",
     "test:audit": "bun test",
     "pr:integrate": "bun run scripts/pr-integration-agent.ts",

@@ -5,6 +5,7 @@ import { loadEnv } from "./builder/env";
 import { buildAllBooks } from "./builder/mdbook-runner";
 import { writeBuiltStats } from "./builder/stats-aggregator";
 import { generateSitePages, copyAssets, buildHeaders } from "./builder/template-engine";
+import { runHeadingGate } from "./heading-gate";
 
 async function build() {
   await loadEnv();
@@ -37,6 +38,13 @@ async function build() {
 
   console.log("Generating security headers...");
   await buildHeaders(outputDir);
+
+  console.log("Checking heading colons...");
+  const headingGate = runHeadingGate(rootDir);
+  if (!headingGate.ok) {
+    console.error(headingGate.output);
+    process.exit(1);
+  }
 
   console.log("Generating sitemap...");
   await $`bun run scripts/generate-sitemap.ts`;
