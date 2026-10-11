@@ -1,10 +1,10 @@
-## Mihaly Csikszentmihalyi dan Sejarah Flow: Menelusuri Jejak Pengalaman Optimal
+## Mihaly Csikszentmihalyi dan Sejarah Flow
 
 Pernahkah kamu begitu tenggelam dalam suatu aktivitas sehingga dunia di sekitar kamu seolah menghilang? Jam berlalu terasa seperti menit, dan kamu merasa memegang kendali penuh tanpa perlu bersusah payah? Kondisi inilah yang kita kenal sebagai **Flow**. Namun, sebelum menjadi istilah populer di dunia produktivitas dan olahraga, *Flow* adalah hasil dari pencarian mendalam seorang pria untuk memahami apa yang membuat hidup manusia benar-benar berharga.
 
 Pria itu adalah **Mihaly Csikszentmihalyi** (diucapkan: *Me-high Chick-sent-me-high*), seorang psikolog kelahiran Hungaria yang sering dijuluki sebagai salah satu pilar psikologi positif.
 
-## 1\. Sosok di Balik Layar: Siapakah Mihaly Csikszentmihalyi?
+## 1\. Siapakah Mihaly Csikszentmihalyi?
 
 Mihaly tidak memulai risetnya di laboratorium yang nyaman. Ketertarikannya pada kebahagiaan dan kepuasan hidup berakar dari pengalaman masa kecilnya yang kelam selama Perang Dunia II. Ia melihat orang-orang dewasa yang kehilangan segalanya - harta, status, dan keamanan - menjadi hancur secara mental.
 
@@ -14,7 +14,7 @@ Namun, ia juga melihat sebagian kecil orang yang tetap tangguh dan mampu mempert
 
 Pencarian ini membawanya ke Amerika Serikat, di mana ia mulai mempelajari proses kreatif dan pengalaman manusia yang paling memuaskan.
 
-## 2\. Riset Pionir: Fenomena "Pelukis yang Lupa Makan"
+## 2\. Fenomena "Pelukis yang Lupa Makan"
 
 Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seniman, khususnya pelukis. Ia mengamati sesuatu yang sangat aneh namun konsisten:
 
@@ -25,7 +25,7 @@ Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seni
 
 Mihaly menyimpulkan bahwa motivasi tersebut bersifat **Autotelik** (dari bahasa Yunani: *auto* berarti diri sendiri, dan *telos* berarti tujuan). Artinya, aktivitas tersebut dilakukan karena aktivitas itu sendiri adalah tujuannya, bukan karena imbalan eksternal seperti uang atau ketenaran.
 
-## 3\. Ekspansi Riset: Dari Atlet hingga Ahli Bedah
+## 3\. Dari Atlet hingga Ahli Bedah
 
 Untuk memastikan bahwa fenomena ini bukan hanya milik para seniman, Csikszentmihalyi memperluas studinya ke berbagai profesi dan hobi. Ia mewawancarai ribuan orang dari latar belakang yang sangat kontras:
 
@@ -44,7 +44,7 @@ Nama "Flow" (Alir) tidak muncul dari teori akademis yang kaku, melainkan dari me
 
 Mihaly secara resmi menggunakan istilah ini untuk menggambarkan kondisi mental di mana seseorang sepenuhnya terlibat dalam apa yang ia lakukan, menghasilkan perasaan energi yang terfokus, keterlibatan penuh, dan keberhasilan dalam proses aktivitas tersebut.
 
-## 5\. Konsep Dasar: Pengalaman Optimal
+## 5\. Pengalaman Optimal
 
 Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optimal**. Ini bukan sekadar relaksasi (seperti menonton TV atau berjemur di pantai), melainkan keterlibatan aktif.
 
@@ -56,7 +56,7 @@ $$
 
 *Dimana $\text{E}_o$ adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan ($C$) dan Keterampilan ($S$) selama periode waktu tertentu.*
 
-## Real-World Application: Belajar dari Sejarah
+## Belajar dari Sejarah
 
 Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
 

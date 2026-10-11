@@ -15,7 +15,7 @@ Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "kokt
 
 > **Penting:** Flow bersifat *autotelic* (memiliki tujuan dalam dirinya sendiri). Risikonya adalah ketika aktivitas tersebut menjadi begitu memikat sehingga mengaburkan tujuan hidup yang lebih luas.
 
-### 2\. "The Dark Flow": Ketika Fokus Digunakan untuk Hal Negatif
+### 2\. "The Dark Flow" saat Fokus Dipakai untuk Hal Negatif
 
 Kondisi flow bersifat **bebas nilai (value-neutral)**. Artinya, otak tidak membedakan apakah kamu sedang menulis novel yang menginspirasi atau sedang melakukan aktivitas yang merugikan.
 
@@ -27,14 +27,14 @@ Kondisi flow bersifat **bebas nilai (value-neutral)**. Artinya, otak tidak membe
 
 Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran diri**. Dalam jangka pendek, ini luar biasa. Dalam jangka panjang dan berlebihan, ini bisa menjadi bencana.
 
-#### Dampak Fisik dan Sosial:
+#### Dampak Fisik dan Sosial
 
 1. **Kesehatan Fisik:** Seseorang yang sedang flow sering mengabaikan sinyal lapar, haus, atau kelelahan.
 	- *Contoh:* Seorang programmer yang tidak beranjak dari kursi selama 12 jam bisa mengalami dehidrasi kronis atau cedera regangan berulang (RSI).
 2. **Isolasi Sosial:** Karena flow membutuhkan fokus tunggal yang mendalam, interaksi dengan orang lain dianggap sebagai gangguan. Ini bisa merusak hubungan dengan keluarga atau pasangan jika tidak dikomunikasikan dengan baik.
 3. **Burnout (Kelelahan Hebat):** Menguras sumber daya kognitif secara terus-menerus tanpa fase pemulihan yang cukup akan menyebabkan kelelahan mental yang parah.
 
-### 4\. Matematika Keseimbangan: Keberlanjutan Flow
+### 4\. Matematika Keberlanjutan Flow
 
 Untuk menghindari sisi gelap ini, kita harus memahami bahwa flow membutuhkan biaya energi biologis. Kita bisa menggambarkannya secara konseptual dengan rumus keberlanjutan sederhana:
 
@@ -52,7 +52,7 @@ Dimana:
 
 **Pesan utamanya:** Jika $R$ (pemulihan) mendekati nol, maka $S$ (keberlanjutan) juga akan hancur, tidak peduli seberapa tinggi intensitas flow kamu.
 
-### Real-World Use Case: Kasus "The Crunch" di Industri Kreatif
+### Kasus "The Crunch" di Industri Kreatif
 
 Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode di mana karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
 

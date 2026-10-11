@@ -69,7 +69,7 @@ Flow tidak hanya terjadi secara individu. Pernahkah kamu berada dalam tim di man
 3. **Partisipasi yang Setara:** Setiap anggota tim memiliki keterampilan yang relevan dan berkontribusi secara nyata.
 4. **Rasa Kontrol:** Anggota tim merasa memiliki otonomi atas tugas mereka di dalam kelompok.
 
-## Real-World Application: Skenario Pemrograman
+## Skenario Pemrograman
 
 Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk masuk ke dalam kondisi flow saat memperbaiki bug kritis.
 
@@ -91,7 +91,7 @@ def test_validate_payment():
     assert validate_payment(-5) == False # Jika ini gagal, saya langsung tahu
 ```
 
-## Tips Praktis: Membuat "Ritual Pemicu"
+## Membuat "Ritual Pemicu"
 
 Untuk memudahkan kamu masuk ke dalam flow, kamu bisa merancang ritual sebelum bekerja:
 

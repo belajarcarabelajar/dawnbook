@@ -1,4 +1,4 @@
-## Pengantar State of Flow: Menemukan "Zona" di Balik Performa Puncak
+## Pengantar State of Flow
 
 Pernahkah kamu melakukan sesuatu - mungkin melukis, menulis kode program, bermain gim, atau berolahraga - dan tiba-tiba menyadari bahwa waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir dengan sempurna ke tindakan berikutnya tanpa perlu berpikir keras.
 
@@ -12,7 +12,7 @@ Bayangkan sebuah sungai yang mengalir deras namun tenang. Airnya tidak dipaksa u
 
 > **Definisi Inti:** *Flow* adalah kondisi kesadaran yang optimal di mana kita merasakan yang terbaik dan memberikan performa terbaik kita.
 
-### Analogi: Sang Dirigen Orkestra
+### Sang Dirigen Orkestra
 
 Bayangkan seorang dirigen orkestra di tengah pertunjukan yang megah. Dia tidak lagi memikirkan gerakan tangannya secara mekanis. Dia tidak mencemaskan apa yang akan dimakan untuk makan malam. Dia *menjadi* musik itu sendiri. Tongkatnya, para pemain musik, dan partitur melebur menjadi satu kesatuan yang koheren. Inilah esensi dari *flow*: hilangnya pemisahan antara "diri" dan "aktivitas".
 
@@ -44,7 +44,7 @@ Pernahkah kamu merasa malu atau terlalu kritis terhadap diri sendiri saat berbic
 
 Ini adalah fenomena yang paling sering dilaporkan. Waktu bisa terasa melambat (seperti atlet yang melihat bola bergerak sangat lambat) atau, yang lebih umum, waktu terasa berlalu sangat cepat. Satu jam bisa terasa seperti lima menit karena perhatian kita tidak lagi terikat pada jam dinding, melainkan pada ritme aktivitas.
 
-## Real-World Application: Flow dalam Berbagai Bidang
+## Flow dalam Berbagai Bidang
 
 Kondisi ini tidak eksklusif untuk seniman atau atlet elit. *Flow* adalah kemampuan universal manusia yang dapat diaplikasikan di mana saja:
 

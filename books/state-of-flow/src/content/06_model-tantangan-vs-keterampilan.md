@@ -1,4 +1,4 @@
-## Model Tantangan vs Keterampilan: Menemukan "Sweet Spot" Produktivitas
+## Model Tantangan vs Keterampilan
 
 Pernahkah kamu merasa begitu tenggelam dalam sebuah tugas sehingga waktu seakan berhenti, namun di lain waktu kamu merasa sangat frustrasi hingga ingin menyerah, atau justru merasa sangat bosan hingga mengantuk? Perbedaan perasaan ini bukan terjadi secara acak. Hal ini ditentukan oleh hubungan matematis dan psikologis antara seberapa sulit tugas tersebut (**Tantangan**) dan seberapa hebat kamu dalam melakukannya (**Keterampilan**).
 
@@ -58,7 +58,7 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 
 ## 4\. Aplikasi Nyata dan Skenario
 
-### Kasus 1: Pengembangan Perangkat Lunak (Software Engineering)
+### Pengembangan Perangkat Lunak (Software Engineering)
 
 Seorang programmer junior diminta membangun arsitektur *microservices* yang kompleks sendirian.
 
@@ -80,7 +80,7 @@ def check_mental_state(challenge, skill):
 print(check_mental_state(9, 5)) # Output: Anxiety
 ```
 
-### Kasus 2: Bermain Video Game
+### Bermain Video Game
 
 Desainer game menggunakan model ini untuk menjaga pemain tetap setia. Jika level 1 terlalu sulit, pemain berhenti (*Anxiety*). Jika level 50 tetap mudah, pemain bosan (*Boredom*).
 
@@ -90,13 +90,13 @@ Desainer game menggunakan model ini untuk menjaga pemain tetap setia. Jika level
 
 Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berikut:
 
-### Jika kamu di Zona Kecemasan (Tantangan Terlalu Tinggi):
+### Jalan Keluar dari Zona Kecemasan (Tantangan Terlalu Tinggi)
 
 1. **Dekomposisi Tugas:** Pecah proyek besar menjadi langkah-langkah kecil yang tidak mengintimidasi.
 2. **Tingkatkan Resource:** Cari tutorial, mentor, atau alat bantu yang bisa meningkatkan kemampuan kamu secara instan.
 3. **Turunkan Ekspektasi:** Fokus pada penyelesaian (*done*), bukan kesempurnaan (*perfect*).
 
-### Jika kamu di Zona Kebosanan (Tantangan Terlalu Rendah):
+### Jalan Keluar dari Zona Kebosanan (Tantangan Terlalu Rendah)
 
 1. **Tambahkan Kendala (Constraints):** Jika tugas terasa mudah, coba selesaikan dalam waktu separuh dari biasanya.
 2. **Tingkatkan Kualitas:** Jika menulis laporan terasa membosankan, tantang diri kamu untuk menggunakan kosakata yang lebih kaya atau analisis yang lebih mendalam.

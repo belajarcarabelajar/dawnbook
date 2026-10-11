@@ -1,10 +1,10 @@
-## Neurobiologi di Balik Kondisi Alir: Mesin di Balik Keajaiban
+## Neurobiologi di Balik Kondisi Alir
 
 Pernahkah kamu merasa seolah-olah dunia di sekitar kamu memudar, waktu melambat atau justru melesat cepat, dan kamu menjadi satu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat tarian biologis yang sangat presisi di dalam otak kita.
 
 Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
 
-## 1\. Transient Hypofrontality: Saat "CEO" Otak Beristirahat
+## 1\. Transient Hypofrontality saat "CEO" Otak Beristirahat
 
 Banyak orang mengira bahwa saat berada dalam kondisi flow, otak kita bekerja lebih keras dan menyalakan lebih banyak area. Kenyataannya justru **sebaliknya**. Fenomena ini dikenal sebagai **Transient Hypofrontality**.
 
@@ -26,7 +26,7 @@ Saat kamu masuk ke dalam flow, otak melakukan efisiensi energi. Ia menonaktifkan
 2. **Distorsi Waktu:** Karena PFC yang memproses integrasi waktu melambat, kamu bisa merasa 2 jam berlalu seperti 2 menit.
 3. **Aksi Menjadi Instingtif:** Keputusan diambil lebih cepat karena tidak perlu melewati proses filter logika yang panjang.
 
-## 2\. Koktail Kimiawi: 5 Neurotransmiter Utama
+## 2\. Koktail Kimiawi 5 Neurotransmiter Utama
 
 Kondisi flow adalah satu-satunya saat di mana otak manusia melepaskan lima bahan kimia "pembangkit gairah" secara bersamaan. Steven Kotler, seorang pakar flow, menyebutnya sebagai **The Performance Cocktail**.
 
@@ -54,21 +54,21 @@ Kondisi flow terjadi di perbatasan antara $\text{Alpha}$ dan $\text{Theta}$.
 
 $$\text{Kondisi Ideal} = \text{Alpha-Theta Border}$$
 
-## 4\. Real-World Application: Flow dalam Berbagai Bidang
+## 4\. Mekanisme Neurobiologis pada Programmer dan Atlet
 
 Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nyata:
 
-### Skenario A: Programmer Menghadapi Bug Kompleks
+### Programmer Menghadapi Bug Kompleks
 
 - **Mekanisme:** Saat dia mulai fokus, **Norepinefrin** membantunya memblokir gangguan suara sekitar. Begitu dia masuk lebih dalam, **Transient Hypofrontality** mematikan rasa lapar dan lelahnya.
 - **Hasil:** Dia menulis ribuan baris kode dengan presisi tinggi tanpa merasa terbebani secara mental.
 
-### Skenario B: Atlet Basket di Menit Terakhir
+### Atlet Basket di Menit Terakhir
 
 - **Mekanisme:** **Endorfin** menutupi rasa sakit di ototnya. **Anandamide** membantunya memprediksi gerakan lawan secara intuitif (pemikiran lateral).
 - **Hasil:** Dia melakukan gerakan yang belum pernah dia latih secara sadar, namun terasa sangat tepat pada saat itu.
 
-## 5\. Ringkasan Visual: Proses Neurobiologis Flow
+## 5\. Proses Neurobiologis Flow
 
 1. **Pemicu:** Tugas yang menantang memicu pelepasan **Dopamin** & **Norepinefrin**.
 2. **Transisi:** Otak berpindah dari gelombang $\text{Beta}$ ke $\text{Alpha}$.

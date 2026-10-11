@@ -1,4 +1,4 @@
-## Flow dalam Konteks Tim dan Organisasi: Mencapai Simfoni Kolektif
+## Flow dalam Konteks Tim dan Organisasi
 
 Bayangkan sebuah band jazz yang sedang berimprovisasi di atas panggung. Tanpa partitur yang kaku, setiap pemain menanggapi nada dari pemain lain secara instan. Tidak ada yang mendominasi, namun musik yang dihasilkan terdengar sangat harmonis dan jauh lebih indah daripada jika mereka bermain sendiri-sendiri. Itulah yang kita sebut sebagai **Group Flow** (Aliran Kelompok).
 
@@ -8,7 +8,7 @@ Dalam konteks organisasi, *Group Flow* adalah kondisi di mana sebuah tim bekerja
 
 Jika *Individual Flow* adalah tentang "berada dalam zona" secara pribadi, maka **Group Flow** adalah pengalaman kolektif saat seluruh anggota tim berada dalam "zona" yang sama secara bersamaan. Peneliti Keith Sawyer, dalam bukunya *Group Genius*, mendefinisikan ini sebagai kondisi puncak performa kolaboratif.
 
-### Analogi: Tim Dayung vs. Tim Penarik Tambang
+### Tim Dayung vs. Tim Penarik Tambang
 
 Dalam tarik tambang, kamu hanya perlu kekuatan kasar. Jika satu orang berhenti, yang lain bisa menarik lebih keras. Namun dalam **tim dayung (rowing)**, jika satu orang kehilangan ritme meski hanya satu detik, seluruh perahu akan bergoyang dan kehilangan kecepatan. *Group Flow* mirip dengan tim dayung: setiap gerakan harus selaras secara presisi untuk mencapai momentum maksimal.
 
@@ -45,11 +45,11 @@ Organisasi harus memastikan bahwa proyek yang diberikan cukup sulit untuk menant
 
 > **Penting:** Group Flow lebih mungkin terjadi ketika tim menghadapi tantangan yang sedikit di atas tingkat keterampilan kolektif mereka saat ini.
 
-## Implementasi Teknis: "Flow-Ready" Workflow
+## "Flow-Ready" Workflow
 
 Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan script atau protokol komunikasi untuk mengurangi "gesekan" dan memicu flow.
 
-### Contoh Kasus: Otomatisasi Feedback
+### Otomatisasi Feedback
 
 Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integrasi kode yang rumit. Menggunakan CI/CD (Continuous Integration/Continuous Deployment) membantu menjaga momentum.
 
@@ -74,7 +74,7 @@ def trigger_group_workflow(tasks):
 # tanpa harus bertanya "Apakah ini sudah selesai?"
 ```
 
-## Real-World Application: Tim Medis Darurat (ER)
+## Tim Medis Darurat (ER)
 
 Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep semata - ini adalah pembeda antara hidup dan mati. Saat pasien kritis datang:
 
@@ -85,7 +85,7 @@ Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep semata - ini adalah 
 
 ## Refleksi untuk kamu
 
-### Langkah Praktis untuk Pemimpin Tim:
+### Langkah Praktis untuk Pemimpin Tim
 
 1. **Hapus Gangguan:** Berikan waktu 3-4 jam tanpa rapat setiap hari (Deep Work blocks).
 2. **Definisikan "Menang":** Pastikan setiap pagi tim tahu persis apa indikator keberhasilan hari itu.
