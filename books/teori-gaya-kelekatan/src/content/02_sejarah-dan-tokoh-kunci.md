@@ -1,14 +1,14 @@
-## Sejarah dan Tokoh Kunci: Bowlby dan Ainsworth
+## Sejarah dan Tokoh Kunci
 
 Mari kita menengok kembali akar pemahaman tentang hubungan manusia. Sebelum masuk ke pembahasan gaya kelekatan secara mendalam, kita perlu mengenal para perintis teori ini. Mereka berhasil membuktikan bahwa ikatan ibu dan anak bukan cuma urusan makan-memakan, melainkan landasan penting bagi kelangsungan hidup emosional si anak.
 
-## ‍ John Bowlby: Sang Pionir dan Teori Evolusi Kelekatan
+## Pionir Teori Evolusi Kelekatan John Bowlby
 
 Ibarat sebuah bangunan, teori kelekatan diletakkan fondasinya oleh **John Bowlby** (1907-1990). Psikolog dan psikiater asal Inggris ini berani menantang gagasan utama yang dipercaya para ahli pada masanya.
 
 Pada dekade 1940-an, kaum behavioris meyakini bahwa bayi menempel pada ibunya semata-mata karena urusan makanan. Namun, Bowlby mengamati hal yang sangat berbeda ketika menangani anak-anak yang terpisah dari orang tua mereka selama berkecamuknya Perang Dunia II.
 
-### Konsep Utama Bowlby: "The Secure Base" (Basis Aman)
+### Konsep "The Secure Base" (Basis Aman) dari Bowlby
 
 Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** bawaan. Sama seperti rasa lapar atau haus, dorongan untuk dekat dengan pengasuh utama merupakan insting dasar untuk bertahan hidup.
 
@@ -16,7 +16,7 @@ Bowlby mengajukan gagasan bahwa kelekatan adalah **sistem motivasi biologis** ba
 
 **Analogi "Base Camp" Pendaki:** Bayangkan balita sebagai pendaki gunung pemula, sedangkan pengasuhnya adalah *base camp* (tempat berlindung yang aman). Jika *base camp* itu kokoh dan selalu siap sedia, si pendaki kecil akan percaya diri menjelajahi area baru. Sebaliknya, jika *base camp* tidak stabil atau sering tutup, pendaki akan cemas dan takut melangkah terlalu jauh.
 
-## ‍ Mary Ainsworth: Sang Peneliti dan Eksperimen 'Strange Situation'
+## Peneliti Eksperimen 'Strange Situation' Mary Ainsworth
 
 Jika Bowlby adalah perancang teorinya, **Mary Ainsworth** (1913-1999) adalah sosok yang mengujinya secara empiris di laboratorium. Ia membawa gagasan Bowlby dari sekadar pengamatan klinis menjadi penelitian terukur yang sistematis.
 

@@ -10,7 +10,7 @@ Gaya kelekatan cemas-preokupasi ditandai dengan keinginan kuat untuk dekat secar
 
 Dalam psikologi, orang dengan gaya ini biasanya memiliki model kerja internal (*internal working model*) yang memandang diri sendiri negatif (tidak layak dicintai) dan memandang orang lain positif (sulit diprediksi tetapi sangat dibutuhkan).
 
-### Karakteristik Utama:
+### Karakteristik Utama Kelekatan Cemas
 
 Orang dengan gaya kelekatan cemas biasanya menunjukkan beberapa ciri khas berikut:
 
@@ -19,7 +19,7 @@ Orang dengan gaya kelekatan cemas biasanya menunjukkan beberapa ciri khas beriku
 * Kewaspadaan berlebih (*hyper-vigilance*) terhadap perubahan kecil, seperti nada suara pasangan yang mendatar atau chat yang dibalas lebih lambat dari biasanya.
 * Ketergantungan emosional yang tinggi, membuat mereka sulit fokus berkegiatan tanpa adanya kabar dari pasangan.
 
-## Akar Penyebab: Pola Asuh yang Inkonsisten
+## Pola Asuh yang Inkonsisten
 
 Mengapa seseorang mengembangkan gaya ini? Jawabannya sering kali terletak pada hubungan awal dengan orang tua atau pengasuh utama.
 
@@ -42,7 +42,7 @@ Untuk meredakan kecemasan tersebut, mereka sering melakukan perilaku protes, yai
 3. **Sengaja membalas lama** sebagai aksi balas dendam karena chat sebelumnya tidak langsung dibalas.
 4. **Mencoba membuat cemburu,** misalnya sengaja memuji orang lain di depan pasangan untuk memancing reaksi.
 
-## Skenario Dunia Nyata: "Menunggu Balasan Pesan"
+## Menunggu Balasan Pesan
 
 Mari kita lihat bagaimana gaya kelekatan cemas bekerja dalam situasi sehari-hari:
 

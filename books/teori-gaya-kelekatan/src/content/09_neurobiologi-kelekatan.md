@@ -1,10 +1,10 @@
-## Neurobiologi Kelekatan: Arsitektur Otak di Balik Hubungan Manusia
+## Neurobiologi Kelekatan
 
 Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya tidak hanya terletak di "hati", tetapi tertanam jauh di dalam sirkuit saraf kita.
 
 Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar konsep psikologis abstrak. Hubungan awal kita dengan pengasuh berperan sebagai arsitek yang membangun struktur fisik otak kita.
 
-## 1. Otak sebagai Organ Sosial: Konsep Plastisitas
+## 1. Plastisitas Otak sebagai Organ Sosial
 
 Otak bayi yang baru lahir adalah organ yang paling tidak matang dibandingkan mamalia lainnya. Kondisi ini sebenarnya menjadi keuntungan alamiah karena memungkinkan otak untuk dibentuk oleh lingkungan tempat ia dibesarkan. Fenomena ini dikenal sebagai plastisitas yang bergantung pada pengalaman (*Experience-Dependent Plasticity*).
 
@@ -16,31 +16,31 @@ Bayangkan otak bayi seperti sebuah rumah yang sedang dibangun. Genetik menyediak
 
 Ada tiga wilayah utama di otak yang bekerja sama untuk memproses kelekatan:
 
-### A. Amigdala: Sang Detektor Ancaman
+### A. Amigdala
 
 Amigdala adalah pusat pemrosesan emosi, terutama rasa takut. Bagian ini berfungsi menilai apakah lingkungan sekitar aman atau berbahaya. Pada anak dengan kelekatan tidak aman (*insecure*), amigdala cenderung menjadi hiper-reaktif. Jika mereka sering merasa terancam atau diabaikan saat kecil, amigdala akan terus-menerus mengirim sinyal bahaya, membuat mereka tumbuh menjadi orang dewasa yang sangat waspada terhadap penolakan.
 
-### B. Korteks Prefrontal (PFC): Sang CEO Otak
+### B. Korteks Prefrontal (PFC)
 
 Korteks Prefrontal bertanggung jawab atas logika, perencanaan, dan regulasi emosi. Bagian ini bertindak sebagai penenang amigdala saat terjadi kepanikan. Ketika seorang anak tumbuh dalam hubungan yang aman, jalur saraf dari PFC ke amigdala akan berkembang dengan baik, layaknya jembatan kokoh yang membantu logika mengendalikan kepanikan atau ledakan emosi.
 
-### C. Sistem Limbik: Pusat Hubungan Emosional
+### C. Sistem Limbik
 
 Di sinilah memori implisit (memori bawah sadar) tentang bagaimana rasanya dicintai disimpan. Sistem ini memproses kehangatan dan kenyamanan dalam hubungan.
 
-## 3. Kimiawi Kelekatan: Hormon dan Neurotransmiter
+## 3. Kimiawi Kelekatan
 
 Interaksi kelekatan memicu pelepasan zat kimia tertentu yang mengubah cara kita merasa dan berperilaku.
 
-### Oksitosin: Molekul Koneksi
+### Oksitosin
 
 Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia $\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2$. Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
 
-### Kortisol: Hormon Stres
+### Kortisol
 
 Kortisol bekerja sebagai hormon stres. Ketika seorang bayi menangis tanpa henti dan tidak ditenangkan, tubuhnya dibanjiri oleh zat ini. Kadar kortisol yang tinggi secara terus-menerus di masa kecil dapat mengganggu perkembangan hippocampus (pusat memori), membuat sistem saraf menjadi sulit kembali ke keadaan tenang bahkan setelah stres berlalu.
 
-### Dopamin: Sistem Reward
+### Dopamin
 
 Dopamin mengaktifkan sistem penghargaan (*reward system*) di otak. Saat pengasuh tersenyum dan berinteraksi secara hangat dengan bayi, otak bayi melepaskan dopamin. Proses ini melatih otak untuk memahami bahwa hubungan sosial adalah hal yang menyenangkan dan aman.
 
@@ -66,9 +66,9 @@ $$
 \\text{Regulasi Emosi} = \\frac{\\text{Kekuatan PFC}}{\\text{Reaktivitas Amigdala}}
 $$
 
-## Aplikasi Nyata: Mengapa Ini Penting?
+## Mengapa Ini Penting?
 
-### Skenario: Konflik Pasangan
+### Konflik Pasangan
 
 Sebagai contoh, mari kita bayangkan situasi konflik antara Andi, yang memiliki kelekatan cemas, dan Budi, yang memiliki kelekatan menghindar.
 
@@ -76,7 +76,7 @@ Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekh
 
 Memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti, sangatlah penting. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
 
-## Kesimpulan: Harapan dalam Neuroplastisitas
+## Harapan dalam Neuroplastisitas
 
 Kabar baiknya, otak manusia memiliki kemampuan untuk terus berubah sepanjang hidup. Meskipun hubungan awal kamu membentuk "jalur tol" saraf tertentu, interaksi sehat yang kamu bangun di masa dewasa serta pendampingan profesional dapat membantu menciptakan jalur baru yang lebih aman.
 

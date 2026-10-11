@@ -4,7 +4,7 @@ Pernahkah kamu merasa bahwa semakin kamu mengejar pasangan untuk mendapatkan kej
 
 Selamat datang di dunia **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Mereka berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
 
-## 1. Magnetisme Ketidakamanan: Mengapa Kita Menarik "Lawan" Kita?
+## 1. Magnetisme Ketidakamanan
 
 Sebuah fenomena menarik dalam psikologi hubungan adalah kecenderungan individu dengan gaya kelekatan **Cemas (Anxious)** untuk tertarik pada individu dengan gaya kelekatan **Menghindar (Avoidant)**. Fenomena ini sering disebut sebagai *Anxious-Avoidant Trap*.
 
@@ -13,7 +13,7 @@ Sebuah fenomena menarik dalam psikologi hubungan adalah kecenderungan individu d
 * **Si Cemas** merasa harus terus berjuang demi mendapatkan cinta. Hal ini secara tidak sadar mengonfirmasi keyakinannya bahwa ia tidak cukup berharga dan selalu dibayangi ketakutan akan penolakan.
 * **Si Menghindar** cenderung melihat orang lain sebagai sosok yang membatasi ruang gerak, sehingga ia segera menjaga jarak untuk mempertahankan kemandiriannya.
 
-### Analogi: Termostat Emosional
+### Termostat Emosional
 
 Bayangkan sebuah ruangan dengan dua orang dan satu termostat. Si Cemas merasa kedinginan dan terus menaikkan suhu untuk mencari kedekatan, sementara Si Menghindar merasa kepanasan dan terus membuka jendela untuk mencari ruang. Keduanya bertindak berdasarkan insting bertahan hidup, namun tindakan mereka justru membuat pihak lain merasa tidak nyaman.
 
@@ -32,7 +32,7 @@ $\\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan aka
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 
-## 3. Skenario Real-World: Kisah Sinta dan Budi
+## 3. Kisah Sinta dan Budi
 
 Mari kita lihat bagaimana dinamika ini bermain dalam kehidupan nyata:
 
@@ -71,13 +71,13 @@ Kedua belah pihak terus-menerus menuntut kepastian dan validasi dari pasangannya
 
 Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah berhenti menyalahkan karakter pasangan dan mulai melihat pola interaksi tersebut sebagai musuh bersama yang sebenarnya.
 
-### Strategi untuk Si Cemas:
+### Strategi untuk Si Cemas
 
 1. **Latih Self-Soothing:** Saat rasa panik mulai melanda, cobalah menenangkan diri sendiri terlebih dahulu sebelum menuntut penjelasan dari pasangan.
 2. **Beri Ruang untuk Bernapas:** Sadari bahwa keputusan pasangan untuk menarik diri biasanya terjadi karena mereka merasa kewalahan (*overwhelmed*), bukan karena rasa sayangnya telah hilang.
 3. **Fokus pada Perasaan Sendiri (*I-Statement*):** Sampaikan perasaanmu secara jujur tanpa menyudutkan. Misalnya, *"Aku merasa kesepian saat kita jarang mengobrol,"* alih-alih menuduh dengan *"Kamu selalu mengabaikanku!"*
 
-### Strategi untuk Si Menghindar:
+### Strategi untuk Si Menghindar
 
 1. **Komunikasikan Kebutuhan Ruang:** Jika kamu membutuhkan waktu sendiri, sampaikan dengan jelas agar pasangan tidak panik. Gunakan kalimat penenang seperti, *"Aku butuh waktu sekitar 30 menit untuk menenangkan diri, setelah itu aku janji kita akan mengobrol lagi."*
 2. **Kenali Sinyal Tubuh:** Sadari kapan tubuhmu mulai merasa "sesak" atau tertekan agar kamu tidak langsung mematikan emosi atau melarikan diri begitu saja.

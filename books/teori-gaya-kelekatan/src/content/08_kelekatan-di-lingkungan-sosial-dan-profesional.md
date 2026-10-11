@@ -54,7 +54,7 @@ Di luar pekerjaan teknis, gaya kelekatan memengaruhi bagaimana kita membangun je
   + *Anxious:* "Apakah kamu marah padaku? Maafkan aku jika aku salah (meski tidak tahu salahnya di mana)."
   + *Avoidant:* "Aku tidak punya waktu untuk drama ini," lalu menghilang (*ghosting*).
 
-## Aplikasi Dunia Nyata: Skenario Rapat Proyek
+## Skenario Rapat Proyek
 
 Bayangkan sebuah tim sedang menghadapi tenggat waktu (deadline) yang ketat dan terjadi kesalahan teknis yang besar.
 

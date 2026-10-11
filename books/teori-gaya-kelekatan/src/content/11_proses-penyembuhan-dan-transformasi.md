@@ -8,11 +8,11 @@ Penyembuhan kelekatan tidak bertujuan mengubah masa lalu yang mustahil untuk dip
 
 Penyembuhan dimulai dengan keberanian untuk menoleh ke belakang. Banyak dari kita membawa beban emosional masa lalu tanpa pernah benar-benar menyelesaikannya.
 
-### Analogi: Merenovasi Rumah Tua
+### Merenovasi Rumah Tua
 
 Bayangkan dirimu seperti sebuah rumah tua yang indah namun memiliki fondasi yang retak karena guncangan di masa kecil (seperti trauma atau pola pengasuhan yang tidak konsisten). Kamu bisa saja mengecat dindingnya berkali-kali agar terlihat cantik dari luar (misalnya lewat perilaku selalu ingin menyenangkan orang lain), tetapi retakan di fondasi akan tetap membuat bangunan itu goyah saat badai datang. Penyembuhan adalah proses untuk berani memeriksa retakan tersebut langsung ke dasarnya, lalu memperkuatnya kembali agar kokoh.
 
-### Langkah Praktis: Reparenting (Mengasuh Diri Sendiri)
+### Reparenting (Mengasuh Diri Sendiri)
 
 *Reparenting* adalah sebuah metode untuk memberikan perhatian, kasih sayang, dan batasan sehat kepada dirimu yang sekarang (hal-hal yang mungkin tidak kamu dapatkan dari pengasuhmu saat kecil dahulu).
 
@@ -47,7 +47,7 @@ Contoh penerapannya dalam kehidupan sehari-hari:
 
 Batasan dibuat bukan untuk menjauhkan orang lain, melainkan untuk menjaga agar kamu tetap utuh saat berinteraksi dengan mereka.
 
-### Analogi: Pagar dan Gerbang
+### Pagar dan Gerbang
 
 Batasan yang sehat bekerja layaknya pagar dengan gerbang yang bisa dikunci. Kamu memegang kunci tersebut untuk menentukan siapa yang boleh bertamu, kapan mereka bisa berkunjung, dan perilaku apa saja yang tidak kamu toleransi di dalam rumahmu.
 
@@ -59,7 +59,7 @@ Batasan yang sehat bekerja layaknya pagar dengan gerbang yang bisa dikunci. Kamu
 
 Banyak orang merasa bersalah saat menolak permintaan orang lain atau berkata tidak. Rasa bersalah ini sebenarnya merupakan sisa-sisa dari pola kelekatan lama, di mana kamu merasa harus selalu mengalah dan mengabaikan kenyamanan pribadi demi mempertahankan keharmonisan hubungan.
 
-## 4. Regulasi Emosi: Menenangkan Sistem Saraf
+## 4. Regulasi Emosi
 
 Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya pun perlu melibatkan tubuh secara langsung. Ketika kamu merasa terpicu (*triggered*), sistem sarafmu otomatis masuk ke mode *fight-or-flight* (lawan atau lari).
 
@@ -75,7 +75,7 @@ Salah satu cara meredakannya adalah dengan metode *grounding* 5-4-3-2-1 untuk me
 
 Latihan sederhana ini mengirimkan sinyal penenang ke amigdala (bagian otak yang memproses rasa takut) bahwa kamu saat ini berada dalam kondisi aman, bukan sedang terancam seperti di masa lalu.
 
-## Aplikasi Nyata: Skenario Transformasi
+## Skenario Transformasi
 
 Mari kita lihat bagaimana proses transformasi ini berjalan dalam kehidupan sehari-hari melalui contoh kasus berikut:
 
@@ -98,7 +98,7 @@ Penyembuhan adalah proses yang dinamis dan berliku, bukan sebuah garis lurus. Ad
 
 Perlu diingat bahwa pulih bukan berarti kamu tidak akan pernah lagi merasakan kecemasan atau keinginan untuk menarik diri. Pulih berarti kamu kini memiliki pemahaman dan alat bantu untuk mengelola emosi tersebut, sehingga tidak sampai merusak hubungan yang tengah kamu bangun.
 
-### Tips Praktis: Membuat Kontrak Keamanan Mandiri
+### Membuat Kontrak Keamanan Mandiri
 
 Cobalah menulis sebuah 'Kontrak Keamanan' kecil untuk dirimu sendiri. Catatlah tiga langkah konkret yang akan kamu lakukan saat mendadak merasa terpicu oleh pasangan atau teman dekat. Simpan catatan tersebut di gawai agar mudah dibaca kembali sebagai pengingat nyata saat situasi sedang terasa sulit.
 
