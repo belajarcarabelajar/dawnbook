@@ -1,4 +1,4 @@
-## Big Data: Bahan Bakar Utama Algoritma
+## Big Data sebagai Bahan Bakar Algoritma
 
 Bayangkan sebuah mesin jet yang paling canggih di dunia. Tanpa bahan bakar berkualitas tinggi, mesin tersebut hanyalah tumpukan besi tua yang diam. Dalam ekosistem periklanan digital, **Algoritma** adalah mesin jetnya, dan **Big Data** adalah bahan bakarnya.
 
@@ -16,7 +16,7 @@ Sebelum masuk ke jenis datanya, kita perlu memahami mengapa data ini disebut "Bi
 
 > "Data adalah minyak baru, tetapi seperti minyak, ia tidak berguna jika tidak dimurnikan. Big Data dalam iklan adalah proses pemurnian perilaku manusia menjadi prediksi yang dapat dijual."
 
-### 2. Taksonomi Data: Apa Saja yang Mereka Ketahui?
+### 2. Taksonomi Data
 
 Algoritma membangun profil digital kamu (sering disebut sebagai *User Persona*) dengan menggabungkan berbagai lapisan data berikut:
 
@@ -62,7 +62,7 @@ Tidak semua data didapatkan dengan cara yang sama. Industri membaginya menjadi e
 | **Second-party Data** | First-party data milik perusahaan lain yang dibagikan atau dijual kepada kamu. | Maskapai penerbangan berbagi data dengan penyedia asuransi perjalanan. |
 | **Third-party Data** | Data yang dikumpulkan oleh agregator dari berbagai sumber di seluruh internet. | Data dari broker data yang melacak aktivitas kamu di ribuan situs web. |
 
-### 4. Representasi Teknis: Bagaimana Algoritma Melihat Kamu?
+### 4. Bagaimana Algoritma Melihat Kamu?
 
 Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan kode dan angka dalam sebuah basis data. Berikut adalah gambaran sederhana bagaimana sebuah profil pengguna disimpan dalam format JSON untuk diproses oleh algoritma:
 
@@ -91,7 +91,7 @@ $$
 P(\text{Click}) = f(\text{Demografi}, \text{Minat}, \text{Perilaku}, \text{Konteks})
 $$
 
-### 5. Aplikasi Dunia Nyata: Skenario "The Ghost Ad"
+### 5. Iklan "The Ghost Ad" yang Seolah Mendengarkan
 
 Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan produk tersebut muncul di media sosial kamu? Meskipun sering dianggap "mendengarkan pembicaraan", kenyataannya algoritma sering kali hanya menggunakan **Big Data** secara sangat cerdas:
 

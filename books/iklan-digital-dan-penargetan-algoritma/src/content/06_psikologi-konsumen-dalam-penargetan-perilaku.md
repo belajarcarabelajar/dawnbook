@@ -12,7 +12,7 @@ Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal p
 
 > "Iklan yang paling efektif tidak terasa seperti iklan; ia terasa seperti solusi tepat waktu untuk masalah yang baru saja kamu sadari."
 
-## 2. Memanfaatkan Bias Kognitif: Jalan Pintas Otak
+## 2. Memanfaatkan Bias Kognitif
 
 Otak manusia berevolusi untuk mengambil keputusan cepat menggunakan "jalan pintas" mental yang disebut **Bias Kognitif**. Pengiklan menggunakan algoritma untuk memicu bias ini secara sistematis.
 
@@ -37,7 +37,7 @@ Kita cenderung mencari informasi yang mendukung keyakinan kita sendiri.
 - **Cara Kerja**: Algoritma menyajikan iklan yang selaras dengan nilai atau identitas diri kamu (misalnya, iklan produk ramah lingkungan untuk orang yang sering mencari isu perubahan iklim).
 - **Dampak Psikologis**: Iklan tersebut terasa seperti validasi pribadi, sehingga meningkatkan tingkat konversi secara drastis.
 
-## 3. Pemicu Emosional: Menggerakkan Hati Sebelum Dompet
+## 3. Pemicu Emosional
 
 Data mungkin memberi tahu algoritma *siapa* kamu, tetapi emosi adalah apa yang membuat kamu *bertindak*.
 
@@ -52,7 +52,7 @@ Manusia adalah makhluk sosial yang mencari petunjuk dari orang lain. Iklan yang 
 
 Algoritma sering menampilkan iklan yang mencerminkan "versi ideal" dari diri kita. Jika data menunjukkan kamu sering melihat konten kebugaran, kamu akan diberikan iklan suplemen dengan visual atlet yang sukses. Ini memicu emosi **aspirasi**.
 
-## 4. Mekanisme Teknis: Memetakan Probabilitas Konversi
+## 4. Memetakan Probabilitas Konversi
 
 Secara matematis, algoritma menghitung kemungkinan seorang pengguna melakukan klik berdasarkan variabel psikologis.
 
@@ -70,7 +70,7 @@ Di mana:
 
 Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke dalam variabel $B$, semakin akurat prediksi iklan tersebut.
 
-## 5. Real-World Application: Skenario Retargeting yang Cerdas
+## 5. Retargeting yang Cerdas
 
 **Skenario: Perjalanan Membeli Sepatu Lari**
 
@@ -80,7 +80,7 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 4. **Konversi (Conversion):** Keesokan harinya, muncul iklan dengan kode promo 10% yang berlaku hanya hari ini (Memicu: *Scarcity* dan mengurangi *Pain of Paying*).
 5. **Hasil:** Budi membeli. Iklan tersebut berhasil karena menyerang hambatan psikologis Budi di waktu yang tepat.
 
-## 6. Sisi Gelap: Manipulasi vs. Persuasi
+## 6. Manipulasi vs. Persuasi
 
 Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan memanipulasi kerentanan mereka.
 

@@ -4,24 +4,24 @@ Selamat datang di modul ini! Setelah sebelumnya kita membahas bagaimana data dik
 
 Di bagian ini, kita akan membedah "sabuk pengaman" dan "rambu-rambu" hukum yang membatasi sejauh mana data kamu boleh diambil dan digunakan untuk iklan.
 
-## 1. Pergeseran Paradigma: Dari "Wild West" Menuju Regulasi Ketat
+## 1. Dari "Wild West" Menuju Regulasi Ketat
 
 Dahulu, dunia periklanan digital sering dianggap sebagai *Wild West*, wilayah tanpa hukum di mana data pribadi dipanen secara masif tanpa izin. Namun, kesadaran akan privasi mengubah segalanya.
 
 > **Insight Utama:** Privasi bukan lagi sekadar fitur tambahan, melainkan hak asasi manusia yang kini dilindungi oleh undang-undang yang memiliki sanksi finansial sangat berat.
 
-### Analogi Sederhana: Restoran dan Data Kamu
+### Restoran dan Data Kamu
 
 Bayangkan kamu masuk ke sebuah restoran.
 
 - **Dulu:** Pelayan diam-diam mengambil dompet kamu, melihat riwayat belanja kamu, lalu menyajikan makanan yang mereka *pikir* kamu suka tanpa bertanya.
 - **Sekarang (Dengan Regulasi):** Pelayan harus menyapa, menjelaskan menu apa saja yang mereka punya, dan meminta izin secara tertulis sebelum mereka mencatat bahwa kamu tidak suka kacang atau sedang diet rendah kalori.
 
-## 2. GDPR: Standar Emas Regulasi Global
+## 2. GDPR Uni Eropa
 
 **General Data Protection Regulation (GDPR)** adalah peraturan privasi paling ketat di dunia yang diterapkan oleh Uni Eropa sejak Mei 2018. Meskipun ini aturan Eropa, dampaknya bersifat global karena berlaku bagi perusahaan mana pun yang melayani warga Uni Eropa.
 
-### Prinsip Utama GDPR dalam Periklanan:
+### Prinsip Utama GDPR dalam Periklanan
 
 1. **Lawfulness, Fairness, and Transparency:** Pengolahan data harus memiliki dasar hukum yang jelas dan transparan kepada pengguna.
 2. **Purpose Limitation:** Jika data dikumpulkan untuk pengiriman barang, data tersebut tidak boleh tiba-tiba dijual ke broker iklan tanpa izin baru.
@@ -37,16 +37,16 @@ $$
 
 Angka ini cukup untuk membuat raksasa teknologi berpikir dua kali sebelum menyalahgunakan data.
 
-## 3. UU PDP: Benteng Privasi Indonesia
+## 3. UU PDP Indonesia
 
 Indonesia telah resmi memiliki **Undang-Undang Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi (UU PDP)**. Ini adalah tonggak sejarah bagi ekosistem digital di tanah air.
 
-### Klasifikasi Data menurut UU PDP:
+### Klasifikasi Data menurut UU PDP
 
 - **Data Pribadi yang Bersifat Umum:** Nama lengkap, jenis kelamin, kewarganegaraan, agama, dan data pribadi yang dikombinasikan untuk mengidentifikasi seseorang.
 - **Data Pribadi yang Bersifat Spesifik:** Data kesehatan, data biometrik, genetika, catatan kejahatan, data anak, data keuangan pribadi, dan data lainnya sesuai ketentuan peraturan perundang-undangan.
 
-### Kewajiban Pengendali Data (Platform Iklan/Brand):
+### Kewajiban Pengendali Data (Platform Iklan/Brand)
 
 1. **Memperoleh Persetujuan Eksplisit:** Tidak boleh lagi ada kotak centang yang sudah terisi otomatis (*pre-ticked boxes*).
 2. **Menunjukkan Bukti Persetujuan:** Perusahaan harus bisa membuktikan bahwa pengguna memang setuju datanya diolah.
@@ -60,7 +60,7 @@ Regulasi ini mengubah cara kerja *AdTech* (Advertising Technology) secara fundam
 - **Transparansi Algoritma:** Pengguna berhak tahu "Kenapa saya melihat iklan ini?". Platform seperti Facebook kini memiliki fitur *“Why am I seeing this ad?”* untuk mematuhi aturan transparansi.
 - **Pembatasan Profiling:** Penargetan otomatis yang mengevaluasi aspek pribadi (seperti kondisi ekonomi atau kesehatan) untuk tujuan iklan kini diawasi sangat ketat.
 
-## 5. Real-World Application: Skenario Kepatuhan UU PDP
+## 5. Kepatuhan UU PDP pada Kampanye TokoCepat
 
 Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak agar tidak melanggar hukum saat menjalankan kampanye iklan.
 

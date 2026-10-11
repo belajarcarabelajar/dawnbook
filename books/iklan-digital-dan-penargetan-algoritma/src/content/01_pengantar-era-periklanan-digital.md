@@ -10,11 +10,11 @@ Berbeda dengan iklan tradisional, iklan digital tidak hanya sekadar "memberi tah
 
 > "Iklan digital bukan lagi tentang mencari audiens, melainkan tentang ditemukan oleh audiens yang tepat di saat yang paling tepat."
 
-### Analogi: Siaran Radio vs. Asisten Pribadi
+### Siaran Radio vs. Asisten Pribadi
 
 Bayangkan iklan tradisional seperti seseorang yang berteriak menggunakan **megafon** di tengah pasar yang ramai. Dia berteriak kepada semua orang, berharap ada satu atau dua orang yang tertarik dengan dagangannya. Sebaliknya, iklan digital ibarat seorang **asisten pribadi** yang berbisik di telinga kamu, "Saya tahu kamu sedang mencari sepatu lari yang nyaman untuk maraton bulan depan, ini ada diskon 20% untuk merek favorit kamu."
 
-## Sejarah Singkat: Dari Cetak ke Piksel
+## Sejarah Singkat dari Cetak ke Piksel
 
 Transisi dari media tradisional ke digital tidak terjadi dalam semalam. Mari kita lihat lini masa transformasinya:
 
@@ -50,7 +50,7 @@ $$
 
 Dalam iklan tradisional, variabel "Laba Bersih dari Iklan" seringkali menjadi tebak-tebakan. Namun dalam iklan digital, setiap sen yang dihabiskan dapat dilacak jejaknya.
 
-### Perbedaan Utama: Tradisional vs. Digital
+### Tradisional vs. Digital
 
 | Fitur | Media Tradisional (Cetak/TV) | Media Digital (Online) |
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Dalam iklan tradisional, variabel "Laba Bersih dari Iklan" seringkali menjadi te
 | **Pengukuran** | Perkiraan (rating/estimasi) | Real-time & Akurat (metrik pasti) |
 | **Kecepatan** | Butuh waktu produksi lama | Bisa diubah dalam hitungan detik |
 
-## Real-world Application: Skenario Kedai Kopi "Aroma"
+## Kedai Kopi "Aroma" dari Brosur ke Instagram
 
 Mari kita lihat bagaimana transisi ini membantu sebuah bisnis kecil bernama *Kedai Kopi Aroma*.
 
