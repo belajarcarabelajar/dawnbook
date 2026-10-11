@@ -48,7 +48,7 @@ Salah satu paradoks QLC adalah merasa sangat kesepian di tengah dunia yang sanga
 - **Merasa Tidak Dimengerti:** Muncul pemikiran bahwa semua orang lain tampak "baik-baik saja" dan "sukses", sementara hanya kamu yang berjuang sendirian.
 - **Perbandingan yang Melelahkan:** Setiap kali melihat pencapaian orang lain, kamu merasa perlu menarik diri karena merasa diri sendiri gagal.
 
-### Real-World Application: Skenario Kasus
+### Maya Sang Akuntan yang Merasa Tertinggal
 
 **Kisah Maya (26 tahun)** Maya adalah seorang akuntan di perusahaan ternama. Secara objektif, hidupnya sukses. Namun, setiap hari Minggu sore, Maya merasakan sesak di dada (kecemasan). Ia merasa terjebak dalam angka-angka yang menurutnya tidak membantu siapa pun (hilangnya motivasi).
 
@@ -60,7 +60,7 @@ Lama-kelamaan, Maya mulai mematikan notifikasi WhatsApp dan jarang berkumpul den
 2. **Identifikasi Dominasi Gejala:** Gunakan skala 1-10 untuk menilai gejala mana yang paling mengganggu kamu saat ini.
 3. **Journaling:** Tuliskan kapan biasanya perasaan "terjebak" itu muncul paling kuat.
 
-### Kesimpulan Kecil: Diagnosis Diri Bukan untuk Menghakimi
+### Diagnosis Diri Bukan untuk Menghakimi
 
 **Penting:** Tujuan mengenali tanda-tanda di atas bukan untuk melabeli diri sebagai "produk gagal". Anggaplah gejala-gejala ini sebagai **sistem peringatan dini (early warning system)** tubuhmu.
 

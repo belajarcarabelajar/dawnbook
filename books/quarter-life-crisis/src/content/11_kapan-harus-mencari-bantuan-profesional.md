@@ -4,7 +4,7 @@ Memasuki usia 20-an sering kali terasa seperti mengemudikan kapal di tengah bada
 
 Dalam bagian ini, kita akan belajar membedakan antara **kecemasan transisi** (yang merupakan bagian alami dari pertumbuhan) dengan **gejala gangguan kesehatan mental** yang memerlukan intervensi profesional.
 
-## 1\. Analogi: Lampu Indikator pada Dasbor Mobil
+## 1\. Lampu Indikator pada Dasbor Mobil
 
 Bayangkan kesehatan mentalmu seperti dasbor mobil.
 
@@ -15,7 +15,7 @@ Bayangkan kesehatan mentalmu seperti dasbor mobil.
 
 Sangat penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perkembangan, bukan diagnosis medis. Namun, QLC dapat memicu atau menutupi gangguan klinis seperti Depresi Mayor atau Gangguan Kecemasan Umum (*Generalized Anxiety Disorder*).
 
-### Tabel Perbandingan: Kapan Harus Waspada?
+### Kapan Harus Waspada?
 
 | Aspek | Kecemasan Transisi (Normal) | Gangguan Klinis (Perlu Bantuan) |
 | --- | --- | --- |
@@ -24,7 +24,7 @@ Sangat penting untuk memahami bahwa *Quarter-Life Crisis* (QLC) adalah fase perk
 | **Intensitas** | Mengganggu kenyamanan tetapi tetap bisa berfungsi. | Melumpuhkan; membuatmu tidak mampu melakukan tugas dasar. |
 | **Kendali** | Masih bisa ditenangkan dengan hobi atau teman. | Terasa di luar kendali; teknik *self-help* tidak lagi mempan. |
 
-## 3\. Parameter "The Big Three": Durasi, Intensitas, dan Fungsi
+## 3\. Parameter Durasi, Intensitas, dan Fungsi
 
 Untuk menentukan apakah kamu memerlukan psikolog atau psikiater, gunakan rumus sederhana ini untuk mengevaluasi kondisimu:
 
@@ -62,21 +62,21 @@ Jika kamu mengalami salah satu dari hal berikut, segera jadwalkan pertemuan deng
 - **Penyalahgunaan Zat:** Menggunakan alkohol atau obat-obatan sebagai satu-satunya cara untuk "mematikan" rasa sakit emosional.
 - **Kelelahan Ekstrem:** Merasa lelah secara fisik meski sudah tidur cukup, atau merasa berat hanya untuk sekadar bangun dari tempat tidur.
 
-## 5\. Skenario Dunia Nyata: Kapan Mereka Memutuskan Mencari Bantuan?
+## 5\. Kapan Mereka Memutuskan Mencari Bantuan?
 
-### Kasus A: Rina (24 tahun)
+### A. Rina (24 tahun)
 
 Rina merasa bingung dengan kariernya. Ia sering menangis setelah pulang kerja karena merasa tidak kompeten. Namun, ia masih bisa bersosialisasi di akhir pekan, makan dengan teratur, dan bisa tidur nyenyak setelah curhat dengan sahabatnya.
 
 - **Analisis:** Rina mengalami **Kecemasan Transisi**. Ia mungkin butuh mentor atau *career coach*, namun belum mendesak butuh terapi klinis kecuali kondisinya memburuk.
 
-### Kasus B: Budi (26 tahun)
+### B. Budi (26 tahun)
 
 Budi merasa "kosong". Ia berhenti membalas pesan teman-temannya selama sebulan. Ia sering absen kerja karena merasa tidak punya energi untuk mandi. Ia merasa dunia akan lebih baik tanpa dirinya.
 
 - **Analisis:** Budi mengalami **Gejala Depresi Klinis**. Budi memerlukan bantuan **Psikolog atau Psikiater** segera karena fungsinya sudah lumpuh dan ada risiko keselamatan diri.
 
-## 6\. Menavigasi Sistem Bantuan: Siapa yang Harus Dihubungi?
+## 6\. Siapa yang Harus Dihubungi?
 
 Sering kali, orang ragu mencari bantuan karena bingung harus ke mana. Berikut adalah panduan singkatnya:
 
@@ -86,7 +86,7 @@ Sering kali, orang ragu mencari bantuan karena bingung harus ke mana. Berikut ad
 
 > **Langkah Praktis:** Jika kamu bingung, mulailah dengan menemui **Psikolog Klinis**. Jika mereka menilai kamu memerlukan bantuan medis (obat-obatan), mereka akan merujukmu ke Psikiater.
 
-## 7\. Mengatasi Stigma: Mencari Bantuan adalah Bentuk Kekuatan
+## 7\. Mengatasi Stigma dengan Memandang Bantuan sebagai Kekuatan
 
 Banyak anak muda menahan diri untuk mencari bantuan karena takut dianggap "lemah" atau "gila". Padahal, mengenali batasan diri adalah tanda **kecerdasan emosional yang tinggi**.
 

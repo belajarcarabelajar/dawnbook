@@ -1,4 +1,4 @@
-## Coping Strategy dan Manajemen Stres: Navigasi di Tengah Badai Quarter-Life Crisis
+## Coping Strategy dan Manajemen Stres
 
 Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompasmu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapalmu menuju ketenangan disebut dengan **Coping Strategy**.
 
@@ -16,7 +16,7 @@ $$
 
 Jika pembilang (tekanan) jauh lebih besar daripada penyebut (sumber daya), krisis pun terjadi. Coping Strategy bertujuan untuk memperbesar angka penyebut tersebut.
 
-## 2. Praktik Mindfulness: Menambatkan Diri pada Masa Kini
+## 2. Praktik Mindfulness
 
 Kecemasan QLC sering kali bersifat **antisipatoris** ,kita takut akan masa depan yang belum terjadi. Mindfulness adalah teknik untuk menarik kesadaran kembali ke saat ini (*the present moment*).
 
@@ -68,7 +68,7 @@ Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sed
 - **Energi Emosional:** Berinteraksi dengan orang-orang yang memberikan dukungan, bukan yang menguras energi (*energy vampire*).
 - **Energi Spiritual:** Melakukan hal yang sesuai dengan nilai-nilai pribadi (*values*).
 
-## 5. Real-World Application: Skenario Kasus
+## 5. Andi yang Cemas Melihat Unggahan Temannya
 
 **Skenario:** Andi (24 tahun) merasa sesak napas dan cemas setiap kali melihat unggahan temannya yang baru saja membeli rumah. Ia merasa gagal karena tabungannya masih sedikit.
 
@@ -78,7 +78,7 @@ Banyak anak muda terjebak dalam *productivity porn* ,berusaha mengatur waktu sed
 2. **Digital Detox:** Andi menonaktifkan notifikasi media sosial selama 2 jam setelah bangun tidur untuk fokus pada rutinitas paginya.
 3. **Aksi Terukur:** Alih-alih meratapi nasib, Andi mengalokasikan $X\text{\%}$ dari gajinya untuk dana darurat secara otomatis (mengubah kecemasan menjadi aksi nyata).
 
-## 6. Jurnal Refleksi: Mengeluarkan Isi Kepala
+## 6. Jurnal Refleksi
 
 Menulis adalah cara terbaik untuk melihat pola pikir kita dari perspektif luar. Cobalah menjawab pertanyaan ini malam ini:
 

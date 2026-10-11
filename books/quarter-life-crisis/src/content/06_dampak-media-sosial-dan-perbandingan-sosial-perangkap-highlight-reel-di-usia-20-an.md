@@ -1,4 +1,4 @@
-## Dampak Media Sosial dan Social Comparison: Perangkap "Highlight Reel" di Usia 20-an
+## Dampak Media Sosial dan Social Comparison
 
 Pernahkah kamu mendapati dirimu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
 
@@ -41,7 +41,7 @@ Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara se
 
 *Coba ingat-ingat kembali unggahan terakhir kamu. Apakah kamu menampilkan kesulitan yang kamu alami saat mengambil foto tersebut, atau hanya hasil akhirnya yang tampak sempurna? Jika kamu melakukannya, kemungkinan besar orang lain juga melakukan hal yang sama.*
 
-### 4\. Real-World Scenario: Dampak Psikologis Dewasa Muda
+### 4\. Dampak Psikologis Dewasa Muda
 
 **Short Story: Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
 
@@ -51,7 +51,7 @@ Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara se
 - **Emotional Burnout:** Kelelahan karena terus-menerus mencoba "mengejar" standar orang lain.
 - **Social Isolation:** Ironisnya, semakin banyak waktu yang dihabiskan di media sosial, semakin kita merasa kesepian di dunia nyata karena hilangnya koneksi yang autentik.
 
-### 5\. Strategi Navigasi: Mengambil Kendali Digital
+### 5\. Mengambil Kendali Digital
 
 Bagaimana cara kita memutus rantai social comparison yang merusak ini? Berikut adalah langkah-langkah praktisnya:
 

@@ -10,7 +10,7 @@ Secara harfiah, **Quarter-Life Crisis** adalah krisis seperempat abad. Ini merup
 
 Berbeda dengan "Krisis Paruh Baya" (*Mid-life Crisis*) yang biasanya terjadi karena merasa "tua" atau takut akan kematian, QLC adalah krisis tentang **awal mula**. Ini adalah kegelisahan yang muncul saat seseorang beralih dari dunia pendidikan yang terstruktur ke dunia dewasa yang penuh ketidakpastian.
 
-### Analogi: "GPS yang Kehilangan Sinyal"
+### "GPS yang Kehilangan Sinyal"
 
 Bayangkan hidupmu selama 20 tahun pertama adalah sebuah perjalanan dengan GPS yang sangat akurat. Orang tua, guru, dan sistem sekolah adalah pemandunya. Mereka memberi tahu kapan harus belok (ujian), di mana harus berhenti (istirahat semester), dan ke mana tujuan akhirnya (kelulusan).
 
@@ -40,7 +40,7 @@ Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau
 
 Dibandingkan 40 tahun lalu, orang dewasa muda saat ini membutuhkan waktu lebih lama untuk mencapai kemandirian finansial, memiliki rumah, atau menikah. Hal ini menciptakan perasaan "terlambat" atau "tertinggal" dibandingkan standar kesuksesan tradisional.
 
-## Storytelling: Kisah Maya di Persimpangan
+## Kisah Maya di Persimpangan
 
 > Maya adalah seorang lulusan Desain Grafis berusia 24 tahun yang bekerja di sebuah agensi periklanan ternama. Secara objektif, Maya "berhasil". Namun, setiap hari Minggu sore, ia merasakan sesak di dada (biasa disebut *Sunday Scaries*).
 > 
@@ -59,7 +59,7 @@ Memahami definisi dan konteks QLC adalah langkah pertama untuk melewatinya. Tanp
 
 *Jika kamu saat ini merasa bingung, mungkinkah itu sebenarnya tanda bahwa kamu sedang menolak untuk hidup dengan cara "autopilot" dan ingin mencari jalan yang lebih autentik?*
 
-## Aplikasi Praktis: Langkah Awal Menghadapi QLC
+## Langkah Awal Menghadapi QLC
 
 Jika kamu merasa sedang berada di fase ini, mulailah dengan langkah-langkah dasar berikut:
 

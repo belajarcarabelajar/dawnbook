@@ -1,10 +1,10 @@
-## Krisis Identitas dan Pencarian Makna Hidup: Menemukan Kompas di Tengah Badai Pilihan
+## Krisis Identitas dan Pencarian Makna Hidup
 
 Pernahkah kamu terbangun di tengah malam, menatap langit-langit kamar, dan tiba-tiba dihantam pertanyaan: *"Siapa saya sebenarnya? Apakah hidup yang saya jalani ini benar-benar keinginan saya, atau sekadar mengikuti naskah yang ditulis orang lain?"*
 
 Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas lebih dari sekadar kebingungan remaja tentang gaya rambut atau selera musik; ini tentang **rekonstruksi eksistensial**. Kamu berada di persimpangan jalan di mana peta yang diberikan oleh orang tua, sekolah, dan masyarakat tidak lagi akurat untuk menavigasi wilayah dewasa yang sebenarnya.
 
-### 1. Memahami Paradoks Pilihan: Mengapa Terlalu Banyak Opsi Justru Menyiksa?
+### 1. Memahami Paradoks Pilihan
 
 Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*),bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
 
@@ -14,7 +14,7 @@ Dalam psikologi, ini disebut **The Paradox of Choice**. Semakin banyak pilihan h
 
 > "Kebebasan tanpa tujuan adalah jenis penjara yang berbeda."
 
-### 2. Membedah "Siapa Saya?": Identitas Inti vs. Identitas Sosial
+### 2. Identitas Inti vs. Identitas Sosial
 
 Krisis identitas terjadi ketika ada jarak yang lebar antara **Identitas Proyeksi** (apa yang kamu tunjukkan pada dunia) dan **Identitas Otentik** (apa yang benar-benar kamu rasakan).
 
@@ -22,7 +22,7 @@ Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: $\\text{Ke
 
 Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidupmu akan mendekati nol, seberapa besar pun aksi nyata yang kamu lakukan.
 
-#### Komponen Pembentuk Identitas:
+#### Komponen Pembentuk Identitas
 
 - **Nilai (Values):** Apa yang kamu anggap benar dan penting (misal: kebebasan, kejujuran, stabilitas).
 - **Minat (Interests):** Apa yang membuat kamu lupa waktu saat melakukannya.
@@ -41,7 +41,7 @@ Dalam konteks *Quarter-Life Crisis*, kita sering terjebak mencari "kebahagiaan" 
 2. **Pengalaman atau Pertemuan:** Melalui mencintai seseorang atau merasakan keindahan (seni, alam).
 3. **Sikap Terhadap Penderitaan:** Bagaimana kita merespons situasi yang tidak bisa kita ubah.
 
-### 4. Framework Praktis: Menemukan "Ikigai" Kamu
+### 4. Menemukan "Ikigai" Kamu
 
 Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah dengan memetakan irisan antara kebutuhan dunia dan kapasitas diri. Konsep Jepang **Ikigai** (Alasan untuk Bangun di Pagi Hari) adalah alat yang sangat berguna.
 
@@ -60,7 +60,7 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 - Kuasai + Dibayar = **Profesi**
 - **Ikigai** berada tepat di tengah-tengah keempatnya.
 
-### 5. Real-world Application: Skenario Perubahan Haluan
+### 5. Perubahan Haluan Maya
 
 **Studi Kasus: Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
 
