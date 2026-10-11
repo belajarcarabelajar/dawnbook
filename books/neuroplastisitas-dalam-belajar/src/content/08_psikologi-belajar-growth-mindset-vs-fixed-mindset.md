@@ -1,10 +1,10 @@
-## Psikologi Belajar: Growth Mindset vs Fixed Mindset
+## Psikologi Belajar Growth Mindset vs Fixed Mindset
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan tingkat kecerdasan yang sama, namun mencapai hasil yang sangat berbeda dalam hidup mereka? Atau mengapa ada siswa yang langsung menyerah saat menghadapi soal matematika yang sulit, sementara siswa lainnya justru terlihat semakin bersemangat?
 
 Jawabannya seringkali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Selamat datang di dunia *Growth Mindset* dan *Fixed Mindset*, sebuah konsep revolusioner dalam psikologi belajar yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
 
-## 1\. Akar Konsep: Penelitian Carol Dweck
+## 1\. Penelitian Carol Dweck
 
 Selama puluhan tahun, Carol Dweck terobsesi untuk memahami bagaimana manusia menghadapi kegagalan. Dalam penelitiannya terhadap ribuan anak sekolah, ia menemukan pola perilaku yang mengejutkan. Sebagian anak menganggap kegagalan sebagai akhir dari dunia, sementara sebagian lainnya menganggapnya sebagai undangan untuk belajar.
 
@@ -44,7 +44,7 @@ Berikut adalah tabel perbandingan bagaimana kedua pola pikir ini merespons berba
 | **Kritik** | Merasa terancam dan defensif. | Belajar dari masukan yang diberikan. |
 | **Kesuksesan Orang Lain** | Merasa iri atau terancam. | Menjadikannya sebagai inspirasi. |
 
-## 4\. Matematika Mindset: Formula Pertumbuhan
+## 4\. Matematika Mindset
 
 Secara konseptual, kita bisa melihat perbedaan hasil belajar melalui pendekatan matematis sederhana. Jika $H$ adalah Hasil Belajar, $B$ adalah Bakat bawaan, dan $U$ adalah Usaha, maka:
 
@@ -60,9 +60,9 @@ Persepsi individu terhadap kecerdasan memengaruhi sirkuit psikologis mereka dala
 - **The "Tyranny of Now" vs "Power of Yet":** Siswa dengan *Fixed Mindset* merasa terhukum oleh masa sekarang. Jika mereka mendapat nilai buruk sekarang, itu berarti mereka bodoh selamanya. Siswa dengan *Growth Mindset* menggunakan kata **"Belum"**. "Saya **belum** mengerti algoritma ini." Kata "belum" memberikan lintasan masa depan; itu menyiratkan bahwa pemahaman sedang dalam perjalanan.
 - **Atribusi Kegagalan:** Dalam psikologi belajar, individu *Growth Mindset* melakukan atribusi internal yang dapat dikontrol. Mereka tidak menyalahkan "otak yang kurang" (tidak dapat dikontrol), melainkan menyalahkan "kurangnya latihan" atau "strategi yang salah" (keduanya dapat diperbaiki).
 
-## 6\. Aplikasi Nyata: Skenario Pembelajaran
+## 6\. Dua Mahasiswa dan Nilai D Pertama
 
-### Skenario: Menghadapi Kelas Pemrograman yang Sulit
+### Menghadapi Kelas Pemrograman yang Sulit
 
 Bayangkan Budi dan Iwan mengambil mata kuliah "Struktur Data". Keduanya mendapatkan nilai D pada kuis pertama.
 

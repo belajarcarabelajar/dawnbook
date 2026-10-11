@@ -1,10 +1,10 @@
-## Anatomi Pembelajaran: Neuron dan Sinapsis
+## Anatomi Neuron dan Sinapsis dalam Pembelajaran
 
 Bayangkan otak kamu adalah sebuah kota metropolitan yang sangat sibuk, namun alih-alih kabel tembaga atau fiber optik, kota ini dihubungkan oleh miliaran sel hidup yang terus-menerus "berbicara" satu sama lain. Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik baru dalam olahraga, kamu sebenarnya sedang melakukan rekayasa infrastruktur biologis di dalam kepala kamu.
 
 Materi ini akan membawa kamu menyelami fondasi fisik dari belajar: **Neuron** dan **Sinapsis**.
 
-## 1\. Neuron: Unit Dasar Komunikasi Otak
+## 1\. Neuron sebagai Unit Dasar Komunikasi Otak
 
 **Neuron** adalah sel saraf khusus yang berfungsi sebagai unit pemrosesan informasi utama di otak. Jika otak adalah sebuah komputer raksasa, maka neuron adalah prosesornya. Namun, tidak seperti prosesor silikon yang statis, neuron bersifat dinamis dan dapat berubah bentuk.
 
@@ -32,7 +32,7 @@ $$
 
 Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
 
-## 3\. Sinapsis: Celah Keajaiban Pembelajaran
+## 3\. Sinapsis
 
 Di sinilah bagian yang paling menarik. Antara terminal akson satu neuron dengan dendrit neuron lainnya, ternyata **tidak ada sentuhan fisik**. Terdapat celah sempit yang disebut **Celah Sinapsis (Synaptic Cleft)**.
 
@@ -55,11 +55,11 @@ Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa akt
 - **GABA:** Neurotransmitter "rem" atau inhibitori. Berfungsi menenangkan otak agar tidak terjadi kelebihan informasi (*overload*).
 - **Dopamin:** Hormon "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
 
-## 5\. Aplikasi Dunia Nyata: Mengapa Belajar Itu Melelahkan?
+## 5\. Mengapa Belajar Itu Melelahkan?
 
 Pernahkah kamu merasa lelah secara fisik setelah belajar intensif selama dua jam? Itu bukan perasaan kamu saja. Secara biologis, proses pengiriman pesan di sinapsis membutuhkan energi (ATP) yang besar.
 
-### Skenario: Belajar Instrumen Musik
+### Belajar Instrumen Musik
 
 Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longgar". Sinyal kimiawi sering tersendat atau tidak sampai ke tujuan dengan tepat. Akibatnya, jari kamu terasa kaku.
 
@@ -76,7 +76,7 @@ Untuk membantu pemahaman visual, perhatikan alur informasi berikut:
 4. **Loncatan Sinapsis:** Glutamat dilepaskan di celah sinapsis menuju neuron di area memori (hipokampus).
 5. **Output:** kamu memahami konsep dan mampu menuliskannya kembali.
 
-### Pikirkan tentang ini:
+### Pikirkan tentang ini
 
 *Jika setiap kali kamu mempelajari hal baru, terjadi perubahan fisik berupa penguatan sinapsis di otak kamu, apakah kamu sekarang melihat diri kamu sebagai sosok yang "statis" atau sosok yang terus "terpahat" oleh pengalaman?*
 

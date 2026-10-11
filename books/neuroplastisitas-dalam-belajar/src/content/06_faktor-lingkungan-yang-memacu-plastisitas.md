@@ -4,7 +4,7 @@ Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe yang baru, atau me
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana dunia di sekitar kita,apa yang kita lihat, dengar, dan alami,secara fisik mengubah arsitektur otak kita melalui konsep yang dikenal sebagai **Enriched Environment** (Lingkungan yang Diperkaya).
 
-## 1\. Konsep "Enriched Environment": Gimnasium untuk Otak
+## 1\. Konsep "Enriched Environment"
 
 Bayangkan dua tanaman yang identik. Tanaman A diletakkan di dalam lemari gelap dengan sedikit air. Tanaman B diletakkan di taman yang subur, mendapatkan sinar matahari yang cukup, nutrisi tanah yang kaya, dan ruang untuk tumbuh. Manakah yang akan memiliki akar lebih kuat dan daun lebih banyak?
 
@@ -52,7 +52,7 @@ Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, 
 
 *Refleksi Peran Pemula: Kapan terakhir kali seseorang benar-benar memosisikan diri sebagai pemula dalam suatu bidang? Perasaan canggung atau tidak nyaman saat memulainya merupakan penanda langsung bahwa proses plastisitas otak sedang aktif bekerja.*
 
-## 4\. Aplikasi Praktis: Menciptakan Lingkungan yang Memacu Belajar
+## 4\. Menciptakan Lingkungan yang Memacu Belajar
 
 kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. kamu dapat "merekayasa" lingkungan kamu saat ini:
 
@@ -62,7 +62,7 @@ kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. kamu dapat
 2. **Multisensory Learning:** Integrasikan berbagai indra. Jika belajar sejarah, jangan hanya membaca (visual). Dengarkan podcast terkait (auditori) atau buat model fisik/peta pikiran manual (kinestetik).
 3. **Paparan Sosial yang Beragam:** Bergabunglah dengan komunitas atau diskusi yang memiliki sudut pandang berbeda dari kamu. Ini memaksa otak untuk melakukan fleksibilitas kognitif.
 
-### Contoh Kasus: Optimasi Tempat Kerja Teknik
+### Optimasi Tempat Kerja Teknik
 
 ```python
 # Analogi sederhana: Lingkungan Statis vs Dinamis dalam Kode

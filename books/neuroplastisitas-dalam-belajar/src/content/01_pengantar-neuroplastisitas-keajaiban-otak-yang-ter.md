@@ -1,4 +1,4 @@
-## Pengantar Neuroplastisitas: Keajaiban Otak yang Terus Berubah
+## Pengantar Neuroplastisitas
 
 Selamat datang di awal perjalanan kamu memahami salah satu penemuan paling revolusioner dalam sejarah sains modern: **Neuroplastisitas**. Selama berabad-abad, manusia percaya bahwa otak kita adalah sebuah "mesin" yang sudah dipasang mati (hardwired) sejak lahir atau masa kanak-kanak. Namun, sains terbaru memberitahu kita hal yang jauh lebih optimis: otak kamu adalah sebuah organ yang dinamis, hidup, dan terus berubah setiap detiknya.
 
@@ -15,11 +15,11 @@ Secara etimologis, kata **Neuroplastisitas** berasal dari dua kata:
 
 Sederhananya, neuroplastisitas adalah alasan mengapa kita bisa belajar keterampilan baru, melupakan kebiasaan lama, dan pulih dari cedera otak. Otak kamu hari ini secara fisik berbeda dengan otak kamu kemarin, karena pengalaman yang kamu lalui telah "memahat" sirkuit saraf yang baru.
 
-## 2\. Pergeseran Paradigma: Dari Statis ke Dinamis
+## 2\. Pergeseran Paradigma dari Statis ke Dinamis
 
 Sejarah pemahaman kita tentang otak telah mengalami transformasi yang luar biasa. Mari kita lihat bagaimana para ilmuwan mengubah cara pandang mereka:
 
-### Masa Lalu: Paradigma Otak Statis (The Hardwired Brain)
+### Paradigma Otak Statis (The Hardwired Brain)
 
 Hingga pertengahan abad ke-20, konsensus ilmiah menyatakan bahwa otak orang dewasa bersifat **statis**. Keyakinan populer saat itu adalah:
 
@@ -28,7 +28,7 @@ Hingga pertengahan abad ke-20, konsensus ilmiah menyatakan bahwa otak orang dewa
 - Jika sel otak mati atau rusak (misalnya karena stroke), sel tersebut tidak bisa digantikan, dan fungsi yang hilang dianggap hilang selamanya.
 - *Analogi Komparatif: Dahulu, otak manusia sering disamakan dengan sirkuit komputer yang sudah terpatri; jika terdapat satu jalur yang terputus, sirkuit dianggap rusak secara permanen.*
 
-### Masa Kini: Paradigma Otak Dinamis (The Plastic Brain)
+### Paradigma Otak Dinamis (The Plastic Brain)
 
 Mulai tahun 1960-an dan 1970-an, penelitian mulai menunjukkan bukti yang mematahkan teori otak statis. Para ilmuwan menemukan bahwa:
 

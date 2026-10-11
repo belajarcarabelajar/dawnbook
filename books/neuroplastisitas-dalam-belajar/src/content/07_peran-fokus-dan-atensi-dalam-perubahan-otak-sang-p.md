@@ -1,6 +1,6 @@
 
 
-## Peran Fokus dan Atensi dalam Perubahan Otak: Sang Penjaga Gerbang Neuroplastisitas
+## Peran Fokus dan Atensi dalam Perubahan Otak
 
 Pernahkah kamu mencoba belajar sambil mendengarkan musik, membalas pesan teks, dan sesekali melirik televisi? kamu mungkin merasa bisa melakukan semuanya, tetapi secara biologis, otak kamu sedang melakukan perlawanan. Dalam dunia neuroplastisitas, **fokus bukanlah sekadar pilihan etika belajar, melainkan syarat mutlak terjadinya perubahan fisik pada otak.**
 
@@ -16,7 +16,7 @@ Bayangkan otak kamu adalah sebuah ruangan yang sangat besar dan gelap, penuh den
 
 > **Poin Penting:** Neuroplastisitas pada orang dewasa sangat sulit terjadi secara pasif. Ia membutuhkan usaha sadar dan perhatian yang intens.
 
-## 2\. Sistem Neuromodulator: Bahan Kimia Perubah Otak
+## 2\. Sistem Neuromodulator
 
 Agar sirkuit saraf berubah secara fisik, otak perlu melepaskan bahan kimia tertentu yang disebut **neuromodulator**. Tiga pemain utama dalam proses ini adalah:
 
@@ -35,7 +35,7 @@ Ini adalah kunci utama dari fokus. Ketika kamu memusatkan perhatian pada satu ha
 
 Dopamin dilepaskan saat kita merasa mencapai sesuatu atau berada di jalur yang benar. Dopamin membantu memperkuat koneksi yang telah ditandai oleh asetilkolin.
 
-## 3\. Mekanisme Biologis: Bagaimana Fokus Mengubah Saraf
+## 3\. Bagaimana Fokus Mengubah Saraf
 
 Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Ketika kita fokus, terjadi peningkatan konsentrasi kalsium ($Ca^{2+}$) di dalam neuron yang sedang aktif.
 
@@ -52,9 +52,9 @@ Otak kita terus-menerus dibombardir oleh jutaan bit informasi. Mekanisme atensi 
 - Saat kamu fokus pada suara guru, otak kamu secara aktif **menekan** sinyal dari suara kipas angin, gatal di kaki, atau percakapan di luar kelas.
 - Jika fokus kamu lemah, "noise" ini akan ikut ditandai oleh sistem saraf, sehingga sirkuit yang terbentuk menjadi kacau dan lemah.
 
-## 5\. Aplikasi Dunia Nyata: Deep Work vs. Multitasking
+## 5\. Deep Work vs. Multitasking
 
-### Skenario: Belajar Pemrograman (Coding)
+### Belajar Pemrograman (Coding)
 
 Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python.
 

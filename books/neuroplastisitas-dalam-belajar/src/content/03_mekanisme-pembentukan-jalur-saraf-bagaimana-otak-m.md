@@ -1,12 +1,12 @@
 
 
-## Mekanisme Pembentukan Jalur Saraf: Bagaimana Otak "Membangun" Diri Sendiri
+## Mekanisme Pembentukan Jalur Saraf
 
 Pernahkah kamu membayangkan otak kamu sebagai sebuah kota yang sangat sibuk namun belum memiliki peta jalan yang tetap? Setiap kali kamu mempelajari kata baru dalam bahasa asing atau mencoba teknik melakukan *dribble* bola basket, kota tersebut mulai membangun jalan setapak baru. Jika kamu terus melakukannya, jalan setapak itu berubah menjadi jalan raya yang lebar dan cepat.
 
 Mekanisme ini bukan sekadar kiasan; ini adalah proses biologis nyata yang disebut **neuroplastisitas struktural**. Mari kita bedah bagaimana otak kita secara fisik berubah bentuk saat kita belajar.
 
-### 1\. Sinaptogenesis: "Jabat Tangan" Antar Sel Saraf
+### 1\. Sinaptogenesis
 
 Inti dari pembentukan jalur saraf adalah **sinaptogenesis**, yaitu proses penciptaan sinapsis (titik temu) baru antara neuron. Bayangkan neuron sebagai kabel listrik yang ingin terhubung satu sama lain untuk mengirimkan pesan.
 
@@ -18,7 +18,7 @@ Proses ini terjadi dalam beberapa tahap yang menakjubkan:
 
 > **Insight Memorable:** Otak kita tidak lahir dengan kabel yang sudah terpasang mati. Kita adalah arsitek dari sirkuit kita sendiri melalui setiap pengalaman yang kita pilih untuk ditekuni.
 
-### 2\. Myelinasi: Membangun Jalan Tol Informasi
+### 2\. Myelinasi sebagai Jalan Tol Informasi
 
 Setelah koneksi atau jalur saraf terbentuk, jalur tersebut awalnya masih sangat lambat dan rapuh. Di sinilah peran **Myelin** masuk.
 
@@ -29,7 +29,7 @@ Myelin adalah lapisan lemak yang membungkus akson, berfungsi mirip dengan isolat
 
 **Analogi Kehidupan Nyata:** Bayangkan kamu sedang belajar bermain gitar. Awalnya, jari kamu terasa kaku dan lambat (jalur saraf belum bermyelin). Setelah berlatih berminggu-minggu, jari kamu bergerak secara otomatis dengan sangat cepat. Itu adalah hasil dari lapisan myelin yang semakin menebal pada jalur saraf khusus "bermain gitar" kamu.
 
-### 3\. Synaptic Pruning: Efisiensi Melalui Pemangkasan
+### 3\. Synaptic Pruning
 
 Mungkin terdengar kontraintuitif, tetapi bagian dari "belajar" juga melibatkan **penghapusan** koneksi. Proses ini disebut **Synaptic Pruning** (Pemangkasan Sinapsis).
 
@@ -40,13 +40,13 @@ Otak memiliki prinsip ekonomi yang ketat: *"Gunakan atau Hilangkan"* (*Use it or
 
 *Fenomena Pemangkasan Sinaptik: Seseorang yang pernah mahir bermain catur saat kecil namun berhenti selama 10 tahun akan merasa canggung saat memainkannya kembali. Hal ini terjadi karena otak secara alami memangkas jalur saraf yang jarang diaktifkan demi efisiensi energi bagi aktivitas harian saat ini.*
 
-### 4\. Reorganisasi Kortikal: Pemetaan Ulang Wilayah Otak
+### 4\. Reorganisasi Kortikal
 
 Ketika kita mempelajari keterampilan baru secara intensif, otak melakukan **reorganisasi kortikal**. Area di otak yang bertanggung jawab atas keterampilan tersebut benar-benar bisa "memperluas wilayahnya" dengan mengambil alih area di sekitarnya yang kurang aktif.
 
 **Contoh Kasus:** Pada pemain instrumen musik gesek (seperti biola), area di korteks motorik yang mengontrol jari-jari tangan kiri (yang menekan senar) terbukti lebih luas dan lebih kompleks dibandingkan dengan orang yang tidak bermain musik. Otak secara fisik menjajah ruang lebih banyak untuk mendukung kebutuhan aktivitas tersebut.
 
-### Representasi Teknis: Algoritma Sederhana Pembentukan Jalur
+### Algoritma Sederhana Pembentukan Jalur
 
 Jika kita melihatnya dari sudut pandang logika pemrograman, pembentukan jalur saraf mengikuti pola berikut:
 
@@ -71,7 +71,7 @@ def learn_new_skill(repetition_count, focus_level):
         return "Jalur Lemah (Rentan Pruning)"
 ```
 
-### Aplikasi Praktis: Bagaimana Mempercepat Proses Ini?
+### Bagaimana Mempercepat Pembentukan Jalur Saraf?
 
 Memahami biologi ini memberi kita strategi nyata untuk belajar lebih efektif:
 

@@ -4,7 +4,7 @@ Pernahkah kamu merasa bahwa setelah berolahraga pagi atau tidur yang cukup, otak
 
 Dalam bab ini, kita akan mengeksplorasi bagaimana rutinitas harian, apa yang kamu makan, seberapa banyak kamu bergerak, dan bagaimana kamu beristirahat, berinteraksi langsung dengan protein ajaib bernama **BDNF** untuk menentukan efisiensi sinaptik kamu.
 
-## 1\. BDNF: "Pupuk" bagi Otak kamu
+## 1\. Mengenal BDNF
 
 Sebelum kita membahas aktivitas spesifik, kita harus mengenal aktor utamanya: **Brain-Derived Neurotrophic Factor (BDNF)**.
 
@@ -19,7 +19,7 @@ Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat
 
 > **Insight Penting:** Tanpa kadar BDNF yang cukup, otak kita menjadi kaku. Kita mungkin belajar keras, tetapi sinapsis kita sulit untuk "mengunci" informasi tersebut karena kurangnya dukungan protein ini.
 
-## 2\. Aktivitas Fisik: Booster Alami BDNF
+## 2\. Booster Alami BDNF dari Aktivitas Fisik
 
 Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang paling kuat untuk meningkatkan efisiensi belajar.
 
@@ -33,13 +33,13 @@ $$
 \end{aligned}
 $$
 
-### Real-World Application: Strategi "Priming"
+### Strategi "Priming"
 
 - **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sangat sulit.
 - **Strategi:** Alih-alih belajar 4 jam nonstop, ia melakukan olahraga intensitas sedang selama 20 menit *sebelum* membuka buku.
 - **Hasilnya:** Olahraga tersebut memicu lonjakan BDNF, menempatkan otak dalam kondisi "siap serap". Sinapsis menjadi lebih fleksibel dan siap untuk membentuk koneksi baru (Long-Term Potentiation).
 
-## 3\. Tidur: Sistem Pembersihan dan Konsolidasi
+## 3\. Sistem Pembersihan dan Konsolidasi saat Tidur
 
 Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas sangat sangat penting bagi efisiensi sinaptik melalui dua mekanisme utama:
 
@@ -56,11 +56,11 @@ Selama fase tidur REM dan *Slow Wave Sleep*, otak melakukan dua hal:
 
 *Refleksi Konsolidasi Memori: Fenomena lupa materi pasca begadang terjadi karena tanpa durasi tidur yang memadai, celah sinapsis mengalami kejenuhan dan kehilangan kesempatan mengonsolidasikan informasi dari memori jangka pendek ke jangka panjang.*
 
-## 4\. Nutrisi: Bahan Baku Struktur Saraf
+## 4\. Nutrisi sebagai Bahan Baku Struktur Saraf
 
 Otak adalah organ yang paling lapar energi, menghabiskan sekitar 20% dari total kalori tubuh. Apa yang kamu konsumsi adalah bahan baku yang digunakan otak untuk membangun membran sinapsis.
 
-### Nutrisi Kunci untuk Efisiensi Sinaptik:
+### Nutrisi Kunci untuk Efisiensi Sinaptik
 
 1. **Asam Lemak Omega-3 (DHA):**
 	- **Analogi:** Jika neuron adalah kabel listrik, Omega-3 adalah isolator berkualitas tinggi yang memastikan sinyal tidak bocor.
@@ -81,7 +81,7 @@ Ketiga faktor ini tidak bekerja secara terpisah, melainkan saling memperkuat dal
 | **Tidur** | Membersihkan toksin & mengunci memori | Memfasilitasi kerja BDNF dalam memperkuat sinapsis |
 | **Nutrisi** | Menyediakan blok bangunan fisik (lipid) | Mendukung kelangsungan hidup neuron yang dipicu BDNF |
 
-## Ringkasan Praktis: Protokol Optimalisasi Sinapsis
+## Protokol Optimalisasi Sinapsis
 
 Untuk memaksimalkan kapasitas belajar kamu berdasarkan sains neuroplastisitas, terapkan langkah-langkah berikut:
 
