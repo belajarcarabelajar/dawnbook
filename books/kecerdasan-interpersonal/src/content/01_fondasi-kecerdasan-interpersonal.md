@@ -1,4 +1,4 @@
-## Fondasi Kecerdasan Interpersonal: Jembatan Menuju Profesional T-Shaped
+## Fondasi Kecerdasan Interpersonal
 
 Teknologi boleh berkembang secepat kilat, tetapi ada satu hal yang tetap membedakan antara mereka yang kariernya stagnan dengan yang melesat: kemampuan berinteraksi, memahami, dan berkolaborasi dengan manusia lain. 
 
@@ -12,7 +12,7 @@ Dalam teori *Multiple Intelligences* yang dirumuskan oleh psikolog **Howard Gard
 
 Jika kecerdasan **intrapersonal** berfokus pada pemahaman diri sendiri, kecerdasan **interpersonal** berfungsi sebagai antena luar. Perannya adalah menangkap sinyal dari rekan kerja, atasan, atau klien, lalu menyesuaikan frekuensi komunikasi kamu agar selaras dengan mereka.
 
-### Komponen Utama Fondasi Ini:
+### Komponen Utama Fondasi Ini
 
 1. **Sensitivitas Sosial (*Social Sensitivity*)**  
    Kepekaan untuk menyadari kebutuhan dan perasaan orang lain, bahkan sebelum mereka mengungkapkannya secara verbal.
@@ -23,7 +23,7 @@ Jika kecerdasan **intrapersonal** berfokus pada pemahaman diri sendiri, kecerdas
 3. **Pengaruh Sosial (*Social Influence*)**  
    Kecakapan menyampaikan gagasan secara persuasif sehingga orang lain merasa terdorong dan terinspirasi untuk bergerak bersama.
 
-## Analogi: Kecerdasan Interpersonal sebagai *Universal Adapter*
+## Kecerdasan Interpersonal Layaknya *Universal Adapter*
 
 Bayangkan kamu adalah sebuah perangkat elektronik canggih dengan spesifikasi tertinggi. Daya komputasimu luar biasa, tetapi kamu mencoba menyambungkannya ke stopkontak di negara asing yang memiliki tipe colokan berbeda. Tanpa bantuan sebuah *adapter*, secanggih apa pun perangkatmu, arus listrik tidak akan mengalir dan perangkat tersebut tidak akan pernah menyala.
 
@@ -66,7 +66,7 @@ Di dalam lingkungan organisasi, kecerdasan interpersonal menjadi fondasi karena 
 3. **Efisiensi Operasional**  
    Komunikasi yang buruk sering menjadi biang keladi rapat yang bertele-tele atau kesalahpahaman dalam bertukar pesan. Kecerdasan interpersonal hadir untuk memangkas gesekan (*friction*) sosial tersebut, sehingga alur kerja menjadi lebih lancar.
 
-## Aplikasi Nyata: Skenario di Tempat Kerja
+## Andi dan Tim Product Manager
 
 **Skenario:** Andi adalah seorang *software developer* yang andal. Namun, ia sering merasa frustrasi karena tim *product manager* (PM) selalu mengajukan permintaan fitur yang menurutnya tidak masuk akal dari sudut pandang teknis.
 

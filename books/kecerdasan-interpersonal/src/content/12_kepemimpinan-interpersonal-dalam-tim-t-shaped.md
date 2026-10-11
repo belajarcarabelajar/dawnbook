@@ -1,10 +1,10 @@
-## Kepemimpinan Interpersonal dalam Tim T-Shaped: Menjadi Konduktor dalam Orkestra Spesialis
+## Kepemimpinan Interpersonal dalam Tim T-Shaped
 
 Selamat datang di modul penutup! Setelah kita mempelajari berbagai elemen kecerdasan interpersonal, mulai dari mendengar aktif hingga membangun keamanan psikologis, kini saatnya kita menyatukan semua kepingan tersebut.
 
 Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menjadi perekat yang menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
 
-## 1. Filosofi Kepemimpinan T-Shaped: Sang Konduktor
+## 1. Filosofi Kepemimpinan T-Shaped
 
 Bayangkan sebuah orkestra. Di sana ada pemain biola yang piawai, pemain perkusi yang presisi, dan pemain tiup yang berbakat. Masing-masing adalah spesialis (*I-shaped*). Jika mereka semua bermain sekeras mungkin tanpa koordinasi, yang tercipta hanyalah kebisingan.
 
@@ -24,7 +24,7 @@ Di sini, **Faktor Integrasi** diwakili oleh kecerdasan interpersonal kamu. Jika 
 
 Tantangan terbesar dalam memimpin para spesialis (seperti *software engineer*, *data scientist*, atau *legal expert*) adalah kecenderungan mereka untuk tenggelam dalam *rabbit hole* teknis masing-masing. Tugas kamu adalah membantu mereka melihat gambaran besar yang lebih luas secara berkala.
 
-### Langkah-langkah Integrasi:
+### Langkah-langkah Integrasi
 
 - **Menerjemahkan Bahasa Teknis ke Bahasa Nilai (Value):** Daripada membahas "*database refactoring*" secara rumit di depan tim pemasaran, lebih baik jelaskan dampaknya pada "peningkatan kecepatan aplikasi demi kenyamanan pelanggan."
 - **Menghubungkan Titik-Titik (Connecting the Dots):** Kamu perlu menunjukkan bagaimana kontribusi seorang *UI designer* secara langsung mempermudah pekerjaan harian tim operasional di lapangan.
@@ -63,7 +63,7 @@ THEN
     Komunikasi = 'Jelaskan pada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis masuk pasar.'
 ```
 
-## 4. Aplikasi Praktis: Peluncuran Fitur Baru
+## 4. Peluncuran Fitur Baru
 
 Mari kita lihat bagaimana kepemimpinan interpersonal bekerja dalam situasi nyata:
 
@@ -83,7 +83,7 @@ Pemimpin langsung memaksakan tenggat waktu (*deadline*). Hasilnya? *AI Engineer*
 **Hasil Akhir:**
 Fitur inti berhasil dirilis tepat waktu dengan sistem yang stabil. Hubungan kerja antaranggota tim tetap harmonis tanpa meninggalkan rasa kesal satu sama lain.
 
-## 5. Ringkasan: Menjadi Pemimpin yang Utuh
+## 5. Menjadi Pemimpin yang Utuh
 
 Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini berfungsi sebagai sistem operasi utama bagi perkembangan karier kamu.
 

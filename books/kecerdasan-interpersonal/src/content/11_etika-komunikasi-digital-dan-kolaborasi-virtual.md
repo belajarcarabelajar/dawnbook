@@ -1,4 +1,4 @@
-## Etika Komunikasi Digital dan Kolaborasi Virtual: Navigasi di Dunia Kerja Modern
+## Etika Komunikasi Digital dan Kolaborasi Virtual
 
 Bayangkan kamu sedang berjalan di koridor kantor yang gelap. Kamu tidak bisa melihat ekspresi wajah rekan kerja, tidak bisa mendengar nada suara mereka, dan hanya bisa mengandalkan secarik memo yang mereka selipkan di bawah pintu. Inilah analogi tantangan utama dalam **komunikasi digital**.
 
@@ -56,7 +56,7 @@ $$
 
 Coba evaluasi kembali jadwal kerja kamu selama seminggu terakhir. Berapa banyak rapat di kalender kamu yang sebenarnya bisa digantikan dengan satu dokumen kolaboratif yang disusun dengan matang?
 
-## 4. Studi Kasus: Mengatasi Kesalahpahaman di Ruang Digital
+## 4. Mengatasi Kesalahpahaman di Ruang Digital
 
 **Skenario Konflik:** 
 Andi, seorang *developer*, melihat komentar baru dari Siska (sang *Product Manager*) pada tautan *Pull Request* (PR) miliknya:  

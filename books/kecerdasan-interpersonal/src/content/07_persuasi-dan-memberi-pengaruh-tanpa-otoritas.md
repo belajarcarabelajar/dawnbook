@@ -4,7 +4,7 @@ Pernahkah kamu memiliki ide brilian untuk meningkatkan efisiensi kerja, tetapi i
 
 Selamat datang di dunia ***Influence without Authority*** (memengaruhi tanpa wewenang formal). Di era organisasi yang semakin datar (*flat*) dan kolaboratif, kemampuan untuk meyakinkan orang lain tanpa harus menggunakan jabatan adalah salah satu keterampilan paling penting bagi seorang profesional *T-shaped*.
 
-### 1. Fondasi Psikologis: Mengapa Orang Mengikuti Kamu?
+### 1. Mengapa Orang Mengikuti Kamu?
 
 Dalam struktur hierarki tradisional, orang mengikuti perintah karena terpaksa atau menghindari konsekuensi negatif. Namun, dalam persuasi tanpa otoritas, orang mengikutimu karena keinginan mereka sendiri.
 
@@ -42,11 +42,11 @@ Psikolog Robert Cialdini mengidentifikasi enam jalan pintas mental yang digunaka
 5. **Liking (Rasa Suka):** Hubungan interpersonal yang hangat memperkuat persuasi. Temukan kesamaan minat dan sampaikan apresiasi yang tulus.
 6. **Social Proof (Bukti Sosial):** Perlihatkan bahwa rekan kerja atau departemen lain juga mendukung gagasan tersebut.
 
-### 4. Strategi Taktis: Membingkai Ide (*Framing*)
+### 4. Membingkai Ide (*Framing*)
 
 Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. Gunakan teknik **"WIIFM" (*What’s In It For Me?*)** untuk menyelaraskan ide dengan kepentingan setiap pemangku kepentingan.
 
-#### Langkah-langkah Membangun Dukungan:
+#### Langkah-langkah Membangun Dukungan
 
 1. **Identifikasi Pemangku Kepentingan (*Stakeholders*):** Cari tahu siapa saja yang memiliki wewenang untuk menyetujui atau menolak ide tersebut.
 2. **Analisis Kebutuhan Riil:** Pelajari target (KPI) bulanan mereka serta tantangan terbesar yang sedang mereka hadapi.

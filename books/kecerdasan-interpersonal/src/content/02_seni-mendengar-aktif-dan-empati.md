@@ -1,4 +1,4 @@
-## Seni Mendengar Aktif dan Empati: Melampaui Sekadar Kata-kata
+## Seni Mendengar Aktif dan Empati
 
 Kebanyakan orang tidak mendengarkan dengan niat untuk memahami; mereka mendengarkan dengan niat untuk menjawab. Dalam dunia profesional yang bergerak cepat, komunikasi sering kali dianggap sebagai transmisi informasi satu arah. Namun, kecerdasan interpersonal yang sejati dimulai saat kamu berhenti menyusun argumen di kepalamu dan mulai benar-benar "hadir" untuk lawan bicara.
 
@@ -43,13 +43,13 @@ Ini adalah teknik penting untuk memastikan tidak ada miskomunikasi. Ulangi apa y
 
 Hindari pertanyaan tertutup yang hanya membutuhkan jawaban "Ya/Tidak". Gunakan pertanyaan yang mengundang eksplorasi mendalam. Sebagai perbandingan, alih-alih bertanya secara tertutup seperti, *"Apakah kamu sudah selesai?"*, kamu bisa membuka ruang diskusi dengan bertanya, *"Apa tantangan terbesar yang kamu hadapi saat menyelesaikan tugas ini?"*
 
-## 3. Membangun Empati Lintas Departemen: Meruntuhkan Silo
+## 3. Membangun Empati Lintas Departemen
 
 Dalam struktur organisasi, setiap departemen memiliki "bahasa" dan "prioritas" yang berbeda. Tim Engineering fokus pada stabilitas, Marketing fokus pada kecepatan pasar, dan Finance fokus pada efisiensi biaya. Tanpa empati, perbedaan ini menjadi sumber konflik.
 
 **Analogi Gajah dan Orang Buta:** Ingatkah kamu cerita tentang beberapa orang buta yang menyentuh bagian berbeda dari seekor gajah? Satu memegang belalai dan mengira itu ular, yang lain memegang kaki dan mengira itu pohon. Empati dalam konteks profesional adalah kemampuan untuk melangkah mundur dan melihat "seluruh gajah" tersebut melalui mata departemen lain.
 
-### Cara Membangun Empati Antar Tim:
+### Cara Membangun Empati Antar Tim
 
 * **Gunakan lensa mereka**: Cobalah bertanya, *"Indikator kinerja utama (KPI) apa yang ingin mereka kejar?"* sebelum kamu telanjur mengkritik permintaan dari divisi lain.
 * **Validasi emosi, bukan sekadar logika**: Akui rasa frustrasi mereka jika ada kendala mendadak. Contohnya: *"Saya mengerti perubahan mendadak ini sangat mengganggu jadwal padat tim desain."*
@@ -57,9 +57,9 @@ Dalam struktur organisasi, setiap departemen memiliki "bahasa" dan "prioritas" y
 
 Bayangkan saat kamu merasa kesal karena permintaan teknis kepada tim IT terasa lambat diproses. Sebelum mengirimkan surel tindak lanjut yang menuntut, cobalah bayangkan tumpukan antrean tiket masalah yang sedang mereka selesaikan serta tekanan sistem yang harus mereka jaga agar tidak mati.
 
-## 4. Kasus Nyata: Skenario di Tempat Kerja
+## 4. Tenggat Rilis Dua Minggu
 
-### Skenario: Konflik Antara Product Manager (PM) dan Lead Engineer
+### Konflik Antara Product Manager (PM) dan Lead Engineer
 
 **Situasi:** PM ingin meluncurkan fitur baru dalam dua minggu. Lead Engineer mengatakan itu tidak mungkin secara teknis.
 
@@ -74,7 +74,7 @@ Bayangkan saat kamu merasa kesal karena permintaan teknis kepada tim IT terasa l
 - **Engineer:** "Masalahnya di integrasi API pihak ketiga yang belum stabil. Jika dipaksakan, user akan mengalami error saat checkout."
 - **PM:** "Jadi risiko utamanya adalah di proses checkout. Mengingat target pasar kita sangat menentukan di akhir bulan, apakah ada versi minimal (MVP) yang bisa kita rilis tanpa menyentuh modul checkout tersebut?" *(Hasil: Solusi kolaboratif yang menghargai kedua perspektif)*
 
-## 5. Latihan Mandiri: "*The 80/20 Listening Rule*"
+## 5. Latihan Mandiri dengan Aturan *The 80/20 Listening Rule*
 
 Untuk mengasah kemampuan ini, cobalah terapkan aturan 80/20 dalam pertemuanmu berikutnya:
 
