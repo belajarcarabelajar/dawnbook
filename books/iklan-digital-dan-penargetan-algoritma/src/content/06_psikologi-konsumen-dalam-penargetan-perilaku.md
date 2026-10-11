@@ -72,7 +72,7 @@ Semakin banyak data psikologis (minat, emosi, waktu aktif) yang dimasukkan ke da
 
 ## 5. Retargeting yang Cerdas
 
-**Skenario: Perjalanan Membeli Sepatu Lari**
+**Skenario Perjalanan Membeli Sepatu Lari**
 
 1. **Kesadaran (Awareness):** Budi mencari "cara mulai lari marathon" di Google. Algoritma mencatat minat pada "kesehatan" dan "marathon".
 2. **Pertimbangan (Consideration):** Budi mengunjungi situs sepatu lari namun tidak membeli karena harganya mahal (Hambatan Psikologis: *Pain of Paying*).
