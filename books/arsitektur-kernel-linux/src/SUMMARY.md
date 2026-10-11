@@ -10,6 +10,6 @@
 - [Arsitektur Device Driver](content/08_arsitektur-device-driver.md)
 - [Networking Stack di dalam Kernel](content/09_networking-stack-di-dalam-kernel.md)
 - [Mekanisme Sinkronisasi Kernel](content/10_mekanisme-sinkronisasi-kernel.md)
-- [Keamanan Kernel: Namespaces dan Cgroups](content/11_keamanan-kernel-namespaces-dan-cgroups.md)
+- [Keamanan Kernel melalui Namespaces dan Cgroups](content/11_keamanan-kernel-namespaces-dan-cgroups.md)
 - [Proses Booting dan Inisialisasi Sistem](content/12_proses-booting-dan-inisialisasi-sistem.md)
 - [Referensi](content/13_referensi.md)

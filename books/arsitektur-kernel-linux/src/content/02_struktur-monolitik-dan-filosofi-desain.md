@@ -8,20 +8,20 @@ Linux menggunakan pendekatan arsitektur yang dikenal sebagai **Monolithic Kernel
 
 Dalam arsitektur monolitik, seluruh sistem operasi berjalan di dalam **kernel space** (ruang kernel). Ini berarti manajemen memori, penjadwalan proses, sistem berkas (VFS), dan driver perangkat keras semuanya berada di dalam satu berkas biner besar yang berjalan dengan hak akses penuh terhadap perangkat keras.
 
-### Analogi: Ruang Kantor Terbuka (Open-Plan Office)
+### Ruang Kantor Terbuka (Open-Plan Office)
 
 Bayangkan sebuah kantor besar tanpa sekat. Direktur (Manajemen Proses), Akuntan (Manajemen Memori), dan Resepsionis (Driver Perangkat) semuanya duduk di ruangan yang sama.
 
 - **Keuntungannya:** Jika Direktur membutuhkan data dari Akuntan, ia cukup menoleh dan berbicara langsung. Komunikasi berlangsung sangat cepat tanpa birokrasi.
 - **Risikonya:** Jika satu orang terserang flu (terjadi bug atau crash), kemungkinan besar semua orang di ruangan tersebut akan ikut tertular (sistem tumbang atau terjadi kernel panic).
 
-### Karakteristik Utama:
+### Karakteristik Utama
 
 - **Single Address Space:** Seluruh komponen kernel berbagi ruang alamat memori yang sama tanpa pemisah.
 - **High Performance:** Kinerja tinggi karena semua layanan berada di ruang yang sama, sehingga meminimalkan latensi komunikasi antar-komponen (IPC).
 - **Direct Hardware Access:** Kernel memegang kontrol penuh atas perangkat keras tanpa lapisan perantara yang memperlambat.
 
-## 2. Monolitik vs. Mikrokernel: Debat Klasik
+## 2. Debat Klasik Monolitik vs. Mikrokernel
 
 Dunia sistem operasi memiliki sejarah perdebatan terkenal antara Linus Torvalds (pencipta Linux) dan Andrew S. Tanenbaum (pencipta MINIX). Tanenbaum berpendapat bahwa masa depan sistem operasi adalah **Mikrokernel**, sedangkan Linus tetap mempertahankan pendekatan **Monolitik**.
 
@@ -35,7 +35,7 @@ Dunia sistem operasi memiliki sejarah perdebatan terkenal antara Linus Torvalds 
 > [!IMPORTANT]
 > Meskipun secara teori mikrokernel menawarkan tingkat keamanan yang lebih tinggi, Linux memenangkan persaingan ini berkat performanya yang unggul serta kemampuannya untuk beradaptasi melalui sistem modular.
 
-## 3. Filosofi Desain Linux: "Modular Monolithic"
+## 3. Desain Linux yang "Modular Monolithic"
 
 Meskipun Linux menggunakan arsitektur monolitik, sistem ini tidak bersifat statis. Linux mengadopsi filosofi **Loadable Kernel Modules (LKM)** yang membuatnya sangat fleksibel.
 
@@ -49,7 +49,7 @@ LKM merupakan potongan kode yang dapat dimasukkan ke dalam kernel secara dinamis
 
 Jika Linux benar-benar menggunakan desain monolitik murni tanpa dukungan modul, ukuran file kernelmu akan membengkak hingga gigabyte karena harus menyertakan semua driver yang pernah dibuat!
 
-## 4. Implementasi Teknis: Struktur Modul
+## 4. Struktur Dasar Modul Kernel
 
 Dalam tataran teknis, modul kernel ditulis menggunakan bahasa pemrograman C. Berikut adalah struktur dasar sebuah modul kernel sederhana untuk memberikan gambaran bagaimana kode tersebut berintegrasi dengan kernel:
 
@@ -75,7 +75,7 @@ MODULE_AUTHOR("Admin Linux");
 MODULE_DESCRIPTION("Contoh Modul Kernel Sederhana");
 ```
 
-### Penjelasan Kode:
+### Penjelasan Kode
 
 - **`__init`**: Penanda fungsi yang hanya dijalankan saat modul pertama kali dimuat. Setelah eksekusi selesai, memori yang digunakan oleh fungsi ini akan langsung dibebaskan.
 - **`printk`**: Serupa dengan `printf` pada user space, tetapi fungsi ini mencetak pesan ke log sistem kernel (bisa dipantau menggunakan perintah `dmesg`).
@@ -83,19 +83,19 @@ MODULE_DESCRIPTION("Contoh Modul Kernel Sederhana");
 
 ## 5. Keuntungan dan Tantangan Desain Monolitik
 
-### Keuntungan:
+### Keuntungan
 
 1. **Efisiensi Eksekusi:** Menghilangkan beban overhead akibat transisi berlebih antara *user mode* dan *kernel mode* untuk fungsi-fungsi dasar.
 2. **Optimasi Kolektif:** Compiler mampu melakukan optimasi pada seluruh kode kernel secara menyeluruh karena semuanya berada dalam satu kesatuan unit.
 3. **Pemanfaatan Shared Resources:** Berbagi struktur data secara langsung antar-komponen tanpa perlu melakukan penyalinan data (zero-copy).
 
-### Tantangan:
+### Tantangan
 
 1. **Kompleksitas Manajemen:** Mengelola basis kode dengan jutaan baris dalam satu ruang alamat menjadi tantangan logistik yang sangat besar bagi para pemelihara.
 2. **Risiko Keamanan:** Celah keamanan pada satu driver perangkat keras dapat mengekspos seluruh sistem secara langsung karena memiliki hak akses penuh.
 3. **Pencarian Bug (Debugging) yang Rumit:** Kesalahan di dalam kernel sering kali memicu hang total pada sistem, tidak seperti aplikasi user space yang bisa dihentikan begitu saja tanpa mengganggu kestabilan OS.
 
-## 6. Real-World Application: Mengapa Ini Penting?
+## 6. Mengapa Struktur Monolitik Penting dalam Praktik?
 
 Pengetahuan tentang struktur monolitik ini sangat penting dalam berbagai skenario nyata:
 

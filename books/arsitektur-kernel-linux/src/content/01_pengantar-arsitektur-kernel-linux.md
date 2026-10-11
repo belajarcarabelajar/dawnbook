@@ -8,7 +8,7 @@ Bagian ini membahas definisi dasar kernel, sejarah singkat kelahirannya, serta p
 
 Secara teknis, kernel adalah program komputer yang menjadi inti dari sistem operasi. Program ini merupakan bagian pertama yang dimuat ke dalam memori saat komputer melakukan *booting*, dan tetap berjalan di latar belakang hingga sistem dimatikan.
 
-### Analogi: Konduktor Orkestra
+### Konduktor Orkestra
 
 Bayangkan sebuah orkestra besar yang terdiri dari pemain biola, pianis, dan pemain perkusi (yang merepresentasikan perangkat keras seperti CPU, RAM, dan media penyimpanan). Di sisi lain, skor musik yang ingin dimainkan adalah aplikasi. Tanpa kehadiran seorang konduktor seperti kernel, para pemain bisa saling tumpang tindih, berebut giliran, atau menghasilkan suara yang kacau.
 
@@ -17,7 +17,7 @@ Kernel memastikan seluruh komponen berjalan selaras dengan cara:
 2. **Memory Management**: Mengalokasikan ruang RAM dengan presisi agar data satu aplikasi tidak menimpa data aplikasi lainnya.
 3. **Perangkat Keras**: Mengelola antrean komunikasi dan memastikan respons diberikan secara tertib.
 
-## Sejarah Singkat: Dari Hobi Menjadi Kekuatan Dunia
+## Dari Hobi Menjadi Kekuatan Dunia
 
 Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki, Finlandia, bernama Linus Torvalds, merasa tidak puas dengan Minix (sistem UNIX sederhana untuk pendidikan). Ia ingin membangun sesuatu yang lebih baik, meski awalnya hanya dianggap sebagai proyek sampingan untuk mengisi waktu luang.
 
@@ -31,7 +31,7 @@ Kisah Linux dimulai pada tahun 1991. Seorang mahasiswa dari Universitas Helsinki
 
 Bagaimana sebuah proyek hobi mahasiswa dapat melampaui dominasi perusahaan teknologi raksasa di pasar server dan infrastruktur cloud? Jawabannya terletak pada kekuatan kolaborasi terbuka serta komunitas global yang solid.
 
-## Peran Utama: Jembatan Antara Software dan Hardware
+## Jembatan Antara Software dan Hardware
 
 Kernel bertindak sebagai lapisan abstraksi. Pengembang aplikasi tidak perlu memusingkan cara menggerakkan jarum pada piringan hard disk atau mengirim sinyal listrik ke kartu jaringan. Cukup ajukan permintaan melalui kernel, dan kernel yang akan mengurus detail teknisnya.
 
@@ -63,7 +63,7 @@ Jika sebuah aplikasi di user space mendadak mengalami *crash*, kegagalan tersebu
 
 > **Poin Penting**: Kernel berjalan dalam mode istimewa (*privileged mode* atau Ring 0), sedangkan aplikasi biasa dibatasi pada mode pengguna (*user mode* atau Ring 3).
 
-## Real-World Application: Membaca File dari Disk
+## Membaca File dari Disk dalam Praktik
 
 Mari kita lihat bagaimana peran kernel saat kamu menjalankan perintah sederhana untuk membaca file di terminal:
 

@@ -1,10 +1,10 @@
-## Proses Booting dan Inisialisasi Sistem: Dari Biner ke Operasional.
+## Proses Booting dan Inisialisasi Sistem
 
 Bayangkan sebuah gedung pencakar langit yang gelap gulita. Proses booting adalah saat sakelar utama dinyalakan, lift mulai diprogram, petugas keamanan menempati posnya, dan akhirnya pintu depan dibuka untuk umum. Dalam dunia Linux, proses ini merupakan rangkaian alur yang sangat presisi, dimulai dari kode mesin tingkat rendah hingga terbentuknya user space yang interaktif.
 
 Bab ini membahas perjalanan kernel Linux sejak dimuat di memori hingga menjalankan proses pertama yang mengendalikan seluruh sistem.
 
-## 1. Titik Awal: Serah Terima dari Bootloader
+## 1. Serah Terima dari Bootloader
 
 Sebelum kernel mengambil kendali, **bootloader** (seperti GRUB atau systemd-boot) bertugas menyiapkan lingkungan awal. Bootloader memuat file kernel (biasanya bernama `vmlinuz`) dan file system sementara bernama **initramfs** (*initial RAM file system*) ke dalam memori RAM.
 
@@ -20,7 +20,7 @@ File kernel `vmlinuz` biasanya disimpan dalam keadaan terkompresi untuk menghema
 - **Dekompresi**: Rutinitas dekompresi mengekstrak image kernel yang sebenarnya ke dalam memori.
 - Pesan `Uncompressing Linux... Ok, booting the kernel` menandakan bahwa proses ekstraksi ini sedang berlangsung.
 
-## 3. Fungsi start_kernel(): Jantung Inisialisasi
+## 3. Fungsi start_kernel()
 
 Setelah kernel selesai diekstrak, eksekusi beralih ke fungsi `start_kernel()` pada berkas `init/main.c`. Ini merupakan fungsi terpenting dalam arsitektur Linux karena menjadi pusat dimulainya inisialisasi seluruh subsistem kernel.
 
@@ -44,7 +44,7 @@ Untuk mengatasi kendala tersebut, Linux memanfaatkan **initramfs**:
 - Kernel menggunakan lingkungan sementara ini untuk memuat driver esensial, seperti driver NVMe atau RAID.
 - Setelah driver penyimpanan aktif, kernel menjalankan **switch root** untuk memindahkan direktori root (`/`) ke partisi *file system* utama di harddisk (misalnya ext4 atau xfs).
 
-## 5. Kelahiran Proses Pertama: PID 1
+## 5. Kelahiran PID 1
 
 Begitu inisialisasi selesai, kernel memanggil fungsi `rest_init()`. Fungsi ini membuat sebuah *kernel thread* baru yang ditugaskan menjadi **Proses Nomor 1 (PID 1)**.
 
@@ -57,7 +57,7 @@ Kernel mencari file eksekusi init secara berurutan pada lokasi berikut:
 
 > **Catatan Penting:** PID 1 merupakan induk dari seluruh proses yang berjalan di Linux. Jika PID 1 terhenti atau gagal dieksekusi, sistem akan langsung mengalami **kernel panic**.
 
-## Aplikasi Praktis: Menganalisis Urutan Booting
+## Menganalisis Urutan Booting
 
 Sebagai administrator sistem atau pengembang kernel, kamu perlu memantau proses inisialisasi ini untuk memastikan semua berjalan lancar.
 
@@ -98,7 +98,7 @@ ps -p 1 -o comm=
 7. **Eksekusi init**: Kernel menjalankan program `/sbin/init` sebagai PID 1.
 8. Layanan sistem lainnya (jaringan, GUI, daemon) mulai dijalankan oleh PID 1 di tingkat user space.
 
-## Hambatan Sistem: Kernel Panic
+## Kernel Panic
 
 Apabila salah satu tahapan di atas gagal (misalnya karena kernel tidak mendeteksi root partition atau berkas init mengalami kerusakan), sistem tidak dapat melanjutkan proses.
 

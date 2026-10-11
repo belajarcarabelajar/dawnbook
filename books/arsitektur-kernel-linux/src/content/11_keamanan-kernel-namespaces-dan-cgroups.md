@@ -1,10 +1,10 @@
-## Keamanan Kernel: Namespaces dan Cgroups
+## Keamanan Kernel melalui Namespaces dan Cgroups
 
 Selamat datang di jantung teknologi containerization modern. Jika kamu pernah bertanya-tanya bagaimana Docker atau Kubernetes dapat menjalankan ratusan aplikasi pada satu mesin tanpa saling mengganggu, jawabannya bukan karena sihir, melainkan berkat dua fitur fundamental dalam Kernel Linux: **Namespaces** dan **Control Groups (Cgroups)**.
 
 Dalam arsitektur kernel, keamanan bukan hanya soal enkripsi atau password, tetapi juga tentang **isolasi** dan **pembatasan**. Mari kita bedah bagaimana kernel membangun dinding virtual serta mengatur alokasi resource untuk menciptakan lingkungan yang aman dan efisien.
 
-## 1. Konsep Dasar: Si Dinding dan Si Akuntan
+## 1. Si Dinding dan Si Akuntan
 
 Untuk memahami perbedaan peran keduanya, bayangkan sebuah gedung apartemen:
 
@@ -13,7 +13,7 @@ Untuk memahami perbedaan peran keduanya, bayangkan sebuah gedung apartemen:
 
 > **Insight Utama:** Namespaces menentukan **apa yang bisa dilihat** oleh sebuah proses, sedangkan Cgroups menentukan **seberapa banyak resource** yang bisa digunakan oleh proses tersebut.
 
-## 2. Linux Namespaces: Isolasi Pandangan
+## 2. Namespaces Mengisolasi Pandangan
 
 Namespaces membungkus resource system global ke dalam abstraksi yang membuatnya tampak eksklusif bagi proses di dalamnya. Saat ini, ada beberapa jenis namespace utama di Kernel Linux:
 
@@ -45,18 +45,18 @@ Jenis yang paling penting untuk keamanan. Ini memungkinkan sebuah proses memilik
 
 Memungkinkan isolasi hostname dan domain name.
 
-## 3. Control Groups (Cgroups): Pembatasan Resource
+## 3. Control Groups Membatasi Resource
 
 Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses menggunakan seluruh memori atau CPU system. Cgroups bekerja melalui mekanisme **Controllers**.
 
-### Controller Utama dalam Cgroups:
+### Controller Utama dalam Cgroups
 
 1. **Memory Controller:** Membatasi alokasi RAM. Ketika proses melewati batas tersebut, kernel akan menghentikannya (lewat OOM killer) demi menjaga kestabilan system.
 2. **CPU Controller:** Mengatur pembagian waktu CPU untuk sekelompok proses.
 3. **BlkIO Controller:** Membatasi bandwidth saat mengakses disk (Input/Output).
 4. **PIDs Controller:** Membatasi jumlah maksimal proses baru yang bisa dibuat untuk mencegah *fork bomb*.
 
-### Rumus Pembagian CPU Sederhana:
+### Rumus Pembagian CPU Sederhana
 
 Jika kita memiliki dua grup (A dan B) dengan bobot CPU ($w$):
 
@@ -66,7 +66,7 @@ $$
 
 Dengan Cgroups, kernel memastikan distribusi ini ditepati dengan presisi milidetik.
 
-## 4. Implementasi Teknis: Praktik Langsung
+## 4. Praktik Langsung
 
 Mari kita lihat bagaimana kernel mengeksekusi isolasi ini menggunakan perintah tingkat rendah.
 
@@ -103,7 +103,7 @@ echo $$ | sudo tee /sys/fs/cgroup/limit_edukasi/cgroup.procs
 
 Sekarang, apa pun yang kamu jalankan di shell tersebut tidak akan bisa menggunakan memori lebih dari 100MB.
 
-## 5. Real-World Application: Bagaimana Docker Menggunakannya?
+## 5. Bagaimana Docker Menggunakannya?
 
 Teknologi container seperti Docker sebenarnya merupakan wrapper yang elegan di atas Namespaces dan Cgroups.
 
@@ -115,7 +115,7 @@ Skenario: Kamu menjalankan sebuah aplikasi microservice berbasis Node.js.
 
 > **Penting:** Tanpa kedua fitur ini, biaya menjalankan cloud computing akan sangat mahal karena setiap aplikasi harus berjalan di atas Virtual Machine (VM) yang berat dan memakan banyak kernel resource.
 
-## 6. Evolusi: Cgroups v1 vs Cgroups v2
+## 6. Cgroups v1 vs Cgroups v2
 
 Kernel Linux terus berkembang. Saat ini, industri sedang beralih ke **Cgroups v2**.
 

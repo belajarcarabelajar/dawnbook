@@ -1,4 +1,4 @@
-## Sistem Manajemen Memori: Sang Maestro Pengatur Ruang
+## Sistem Manajemen Memori
 
 Bayangkan kamu adalah pengelola gudang raksasa yang menerima ribuan paket setiap detik. Kamu harus memutuskan di mana setiap paket diletakkan, memastikan paket yang sering digunakan mudah dijangkau, dan yang terpenting: memastikan tidak ada dua pengirim yang mencoba menaruh barang di kotak yang sama.
 
@@ -12,13 +12,13 @@ Mengapa aplikasi tidak langsung menulis data ke alamat fisik RAM? Jika itu terja
 
 > **Analogi:** Bayangkan virtual memory seperti buku alamat pribadi untuk setiap penduduk kota. Setiap orang memiliki catatan alamat "Rumah No. 1". Namun, pada kenyataan fisiknya, Rumah No. 1 milik warga A terletak di Jalan Melati, sedangkan Rumah No. 1 milik warga B berada di Jalan Mawar.
 
-### Keuntungan Virtual Memory:
+### Keuntungan Virtual Memory
 
 1. **Isolasi Keamanan:** Setiap proses memiliki ruang steril masing-masing, sehingga Proses A tidak dapat mengintip atau mengganggu isi memori milik Proses B.
 2. **Alamat yang Kontinu:** Proses melihat memori sebagai satu blok alamat yang berurutan secara logis, meskipun letak fisiknya di RAM terpencar-pencar di berbagai lokasi.
 3. **Kapasitas Memori Lebih Luas:** Memungkinkan pemanfaatan *swap space* di media penyimpanan untuk bertindak sebagai RAM tambahan saat kapasitas fisik mulai menipis.
 
-## 2. Paging: Membagi Memori Menjadi Potongan Kecil
+## 2. Paging Membagi Memori Jadi Potongan Kecil
 
 Linux tidak mengelola memori dalam satuan bita per bita karena prosesnya akan sangat lambat. Sebagai gantinya, kernel menerapkan mekanisme **paging**.
 
@@ -46,7 +46,7 @@ $$
 
 Jika sistem terus-menerus mengalami *page fault* akibat RAM yang terlalu penuh, komputer akan terjebak dalam kondisi *thrashing*. Pada kondisi ini, sistem menghabiskan lebih banyak waktu dan daya untuk memindahkan data secara bolak-balik antara RAM dan disk ketimbang mengeksekusi instruksi aplikasi yang sesungguhnya.
 
-## 3. Segmentasi: Perspektif Logis
+## 3. Segmentasi Secara Logis
 
 Meskipun Linux modern lebih mengandalkan paging, konsep **segmentasi** tetap dipertahankan, terutama untuk menjaga kompatibilitas dengan arsitektur x86. Segmentasi membagi memori berdasarkan unit logika, seperti:
 
@@ -56,7 +56,7 @@ Meskipun Linux modern lebih mengandalkan paging, konsep **segmentasi** tetap dip
 
 Dalam arsitektur Linux, model segmentasi umumnya dibuat rata (*flat model*). Seluruh segmen menunjuk ke rentang alamat virtual yang sama, memungkinkan mekanisme paging untuk mengambil alih kendali penuh atas manajemen memori.
 
-## 4. Alokasi Memori Kernel: SLAB dan SLUB
+## 4. SLAB dan SLUB di Kernel
 
 Di dalam kernel, berbagai objek (seperti deskriptor proses atau struktur file) sangat sering dialokasikan dan dilepaskan. Jika kernel memakai metode alokasi umum setiap kali membutuhkan memori berukuran kecil, fragmentasi memori akan cepat terjadi.
 
@@ -73,7 +73,7 @@ Cara kerja SLAB mirip dengan nampan cetakan kue. Kernel menyediakan cetakan memo
 
 > **Penting:** Mekanisme SLAB dan SLUB menjamin memori tidak sekadar dialokasikan, melainkan juga didaur ulang dengan cepat tanpa perlu mencari ruang kosong baru dari awal setiap kali objek dibuat.
 
-## 5. Implementasi Teknis: Contoh Kode
+## 5. Contoh Kode kmalloc
 
 Saat mengembangkan driver atau modul kernel, kamu tidak dapat menggunakan fungsi standar `malloc()` layaknya pada aplikasi di *user space*. Sebagai gantinya, kamu harus menggunakan fungsi khusus seperti `kmalloc()` atau `vmalloc()`.
 
@@ -105,7 +105,7 @@ void example_allocation(void) {
 }
 ```
 
-## 6. Aplikasi Dunia Nyata: Memahami OOM Killer
+## 6. Memahami OOM Killer
 
 Pernahkah kamu menjalankan terlalu banyak aplikasi (seperti membuka puluhan tab peramban secara bersamaan) hingga salah satu aplikasi tiba-tiba tertutup sendiri? Peristiwa tersebut merupakan hasil kerja dari **Out-Of-Memory (OOM) Killer**.
 
@@ -124,4 +124,4 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 - **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 
-Di bab berikutnya, kita akan mempelajari bagaimana aplikasi berinteraksi dengan kernel melalui **System Calls: Antarmuka User-Kernel**.
+Di bab berikutnya, kita akan mempelajari bagaimana aplikasi berinteraksi dengan kernel melalui **System Calls**.

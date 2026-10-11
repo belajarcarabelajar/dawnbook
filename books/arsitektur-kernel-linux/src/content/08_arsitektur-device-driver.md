@@ -1,10 +1,10 @@
-## Arsitektur Device Driver: Jembatan Menuju Dunia Fisik
+## Arsitektur Device Driver
 
 Bayangkan kernel Linux sebagai seorang konduktor orkestra yang sangat cerdas. Ia tahu persis bagaimana musik harus dimainkan, tetapi tidak bisa memainkan biola, meniup trompet, atau memukul drum secara langsung. Ia membutuhkan musisi yang ahli di bidangnya masing-masing untuk menerjemahkan instruksinya menjadi suara.
 
 Dalam sistem operasi, **device driver** adalah musisi tersebut. Mereka merupakan kode spesifik yang bertugas menerjemahkan bahasa tingkat tinggi kernel ke bahasa elektrik yang rumit dari perangkat keras (*hardware*).
 
-## 1. Filosofi: "Everything is a File"
+## 1. Filosofi "Everything is a File"
 
 Sebelum masuk ke jenis-jenis driver, kita harus memahami prinsip fundamental Linux: **"Everything is a file"** (semua hal adalah file).
 
@@ -51,7 +51,7 @@ Driver ini memiliki sifat yang unik. Berbeda dengan dua tipe di atas, driver jar
   - Mengandalkan struktur data `sk_buff` (*socket buffer*) untuk mentransmisikan data antar-lapisan.
   - Contoh: Kartu Ethernet (NIC) dan adaptor Wi-Fi.
 
-## 3. Anatomi Driver: Struktur file_operations
+## 3. Anatomi Driver
 
 Bagi pengembang kernel, jantung dari sebuah driver karakter adalah struktur data yang disebut `file_operations`. Struktur ini berfungsi memetakan *system calls* standar ke fungsi kustom yang kamu buat di dalam driver.
 
@@ -78,7 +78,7 @@ static struct file_operations fops = {
 
 Sebagai gambaran, jika kamu ingin membuat driver untuk sensor lampu kustom, kamu cukup mengisi fungsi `.read` dengan logika untuk mengambil data dari pin hardware perangkat tersebut.
 
-## 4. Mekanisme Komunikasi: Major dan Minor Numbers
+## 4. Major dan Minor Numbers
 
 Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus memanggil driver konsol dan bukan driver hard disk? Jawabannya terletak pada **Major** dan **Minor Numbers**.
 
@@ -86,7 +86,7 @@ Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus 
 2. **Minor Number:** Digunakan oleh driver tersebut untuk membedakan unit perangkat fisik yang spesifik (misalnya, disk A adalah Minor 0, disk B adalah Minor 1).
    $$\text{Perangkat} = (\text{Major}, \text{Minor})$$
 
-## 5. Alur Kerja: Dari Aplikasi ke Hardware
+## 5. Dari Aplikasi ke Hardware
 
 Mari kita lihat skenario dunia nyata: **Menyimpan dokumen ke USB Drive.**
 

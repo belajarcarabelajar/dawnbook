@@ -1,4 +1,4 @@
-## Manajemen Proses dan Task Scheduling: Jantung dari Multitasking Linux.
+## Bagaimana Linux Mengelola Proses dan Task Scheduling?
 
 Pernahkah kamu membayangkan bagaimana komputermu bisa memutar lagu di Spotify, mengunduh file besar di browser, dan mengedit dokumen di Word secara bersamaan tanpa terasa tersendat? Di balik layar, kernel Linux bekerja seperti seorang konduktor orkestra yang sangat sibuk namun sangat terorganisir.
 
@@ -47,7 +47,7 @@ Linux menciptakan proses baru melalui system call `fork()`.
 
 Mekanisme ini membuat pembuatan proses di Linux sangat cepat dan efisien dalam penggunaan memori.
 
-## 3. Task Scheduling: Mencapai Efisiensi CPU
+## 3. Task Scheduling dan Efisiensi CPU
 
 **Scheduler** dalam kernel bertugas memilih proses berikutnya yang akan dieksekusi oleh CPU. Hal ini dilakukan untuk mengoptimalkan throughput CPU sekaligus menjaga agar latency sistem tetap rendah bagi pengguna.
 
@@ -71,7 +71,7 @@ Untuk mencari proses dengan $\text{vruntime}$ terkecil secara cepat, CFS menyimp
 
 Mari kita lihat bagaimana pengetahuan ini diterapkan dalam administrasi sistem dan pengembangan aplikasi.
 
-### Skenario: Mengoptimalkan Web Server
+### Mengoptimalkan Web Server
 
 Misalkan kamu menjalankan server database yang sangat berat dan web server yang harus merespons pengguna dengan cepat.
 
@@ -88,7 +88,7 @@ nice -n 10 ./start_database.sh
 renice -n -5 -p 1234
 ```
 
-### Implementasi Kode: Membuat Child Process
+### Kode untuk Membuat Child Process
 
 Berikut adalah contoh sederhana dalam bahasa C bagaimana sebuah proses membuat proses baru menggunakan `fork()`.
 
