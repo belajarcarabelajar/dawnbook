@@ -17,7 +17,7 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
-## 2. Spinlock Si Penjaga yang Gigih
+## 2. Spinlock sebagai Penjaga yang Gigih
 
 **Spinlock** adalah mekanisme penguncian paling dasar dalam kernel Linux. Ketika sebuah thread mencoba mendapatkan spinlock yang sudah dipegang oleh thread lain, thread tersebut akan terus berputar (**spin**) dalam sebuah loop kecil, berulang kali memeriksa apakah kunci sudah tersedia.
 
