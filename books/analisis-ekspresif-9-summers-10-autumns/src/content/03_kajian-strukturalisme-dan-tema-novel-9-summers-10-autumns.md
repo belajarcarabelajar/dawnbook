@@ -22,7 +22,7 @@ Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra itu hadir d
 
 Dalam bab ini, fokus utama kita adalah memahami bagaimana tema besar novel dirumuskan dan diletakkan sebagai dasar struktur intrinsik.
 
-### Eksplorasi Tema Utama: Pendidikan dan Cinta Keluarga
+### Tema Utama Pendidikan dan Cinta Keluarga
 
 Tema utama novel *9 Summers 10 Autumns* berdiri kokoh di atas dua pilar utama: **pendidikan sebagai tangga perubahan sosial** dan **kekuatan cinta keluarga**. 
 
@@ -34,14 +34,14 @@ Tema ini tidak dihadirkan secara abstrak, melainkan dioperasionalkan melalui per
 
 ---
 
-### Aplikasi Sastrawi: Membedah Kerangka Intrinsik
+### Membedah Kerangka Intrinsik
 
 Analisis struktural terhadap tema utama novel ini mengungkapkan bagaimana konsep 'Pendidikan sebagai Tangga Perubahan Sosial' dijalin secara sistematis bersama 'Kekuatan Cinta Keluarga'. Jalinan ini dibuktikan melalui data struktural dalam teks di mana setiap pencapaian akademis tokoh utama (seperti keberhasilan masuk IPB dan bekerja di korporasi multinasional) selalu dipasangkan dengan narasi pengorbanan orang tuanya (seperti Ibu yang menjual cincin kawin atau Bapak yang menyetir angkot tanpa lelah), membentuk satu kesatuan makna struktural yang utuh.
 
-### Diskusi Teoretis: Menemukan Inti Tema Pendidikan
+### Menemukan Inti Tema Pendidikan
 
 *Bagaimana cara kamu membedakan antara tema utama sebuah novel dengan sekadar ringkasan alur cerita? Mengapa tema pendidikan begitu dominan dalam novel otobiografis Indonesia?*
 
-### Jembatan Alur: Menelusuri Dimensi Waktu
+### Menelusuri Dimensi Waktu
 
 Tema besar mengenai pendidikan dan cinta keluarga ini dijalin melalui rangkaian peristiwa yang tidak linier. Di bab selanjutnya, kita akan membedah bagaimana alur campuran (maju-mundur) digunakan pengarang untuk membangun ketegangan emosional cerita.

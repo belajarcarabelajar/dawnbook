@@ -1,4 +1,4 @@
-## Kajian Ekspresif: Ekspresi Pribadi Pengarang
+## Kajian Ekspresif tentang Ekspresi Pribadi Pengarang
 
 Sebuah karya sastra lahir dari kedalaman jiwa penciptanya, bukan dari ruang hampa. Setelah menelusuri elemen-elemen formal seperti alur, penokohan, dan latar, kini kita melangkah lebih jauh ke dalam ruang batin pengarang melalui pendekatan ekspresif. Dalam ruang ini, novel *9 Summers 10 Autumns* tampil sebagai gerbang nyata yang menyingkap jejak emosional dan perjalanan hidup asli Iwan Setyawan.
 
@@ -14,10 +14,10 @@ Kota megapolitan tersebut memaksanya menanggalkan kenyamanan karir sebelumnya da
 
 Ekspresi pribadi ini memperlihatkan bagaimana novel berfungsi sebagai wadah katarsis pengarang untuk mengolah trauma masa lalu, kerinduan mendalam pada keluarga, serta pencarian kedamaian hidup.
 
-### Refleksi Biografis: Novel sebagai Katarsis Emosional
+### Novel sebagai Katarsis Emosional
 
 Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel memperlihatkan keakuratan pendekatan ekspresif. Pengalaman kejiwaan riil berupa kerinduan mendalam pada kampung halaman dan perasaan terasing di perantauan diekspresikan secara jujur dalam novel melalui narasi batin tokoh 'Aku': *'Di New York aku bukan siapa-siapa... Aku adalah Iwan dari Batu'* (Hlm. 3). Penyejajaran ini mengonfirmasi bahwa penulisan novel ini berfungsi sebagai media katarsis emosional bagi pengarang untuk menyalurkan seluruh beban emosional selama menetap di New York.
 
-### Dimensi Religius: Kekuatan Iman di Perantauan
+### Dari Emosi Pribadi ke Kekuatan Iman di Perantauan
 
 Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan. Di bab berikutnya, kita akan menelaah bagaimana nilai religi dan ketaatan kepada Tuhan terefleksikan secara mendalam dalam karya ini.

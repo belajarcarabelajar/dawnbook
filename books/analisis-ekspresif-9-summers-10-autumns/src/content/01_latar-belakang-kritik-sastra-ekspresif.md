@@ -25,14 +25,14 @@ Melalui lensa ekspresif, novel *9 Summers 10 Autumns* tampil melampaui batas nar
 
 ---
 
-### Eksperimen Analisis: Membandingkan Biografi dan Fiksi
+### Membandingkan Biografi dan Fiksi
 
 Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fiksi dalam bab-bab awal novel, kita dapat mengidentifikasi bagaimana penulis memproyeksikan memori masa kecilnya di Batu secara langsung ke dalam teks. Batu yang dingin dan agraris dikonstruksikan tidak hanya sebagai koordinat geografis, melainkan sebagai metafora bagi kehangatan batin keluarga yang melindungi mereka dari badai kemiskinan ekonomi. Kontras biografis ini terlihat jelas ketika kita membandingkannya dengan novel otobiografis lain seperti *Laskar Pelangi* karya Andrea Hirata, di mana kemiskinan Belitung digambarkan lewat perjuangan kolektif di sekolah dasar yang reyot, sedangkan dalam *9 Summers 10 Autumns*, perjuangan Iwan lebih difokuskan pada dinamika domestik rumah mungilnya.
 
-### Ruang Perenungan: Batas Antara Penulis dan Karya
+### Batas Antara Penulis dan Karya
 
 *Sejauh mana pengetahuan tentang biografi seorang penulis dapat mengubah atau memperkaya pemahaman pembaca terhadap konflik-konflik yang disajikan dalam sebuah novel? Apakah mungkin sebuah karya sastra dinilai secara objektif tanpa melibatkan sosok penulisnya?*
 
-### Jembatan Teori: Merumuskan Arah Kajian
+### Merumuskan Arah Kajian
 
 Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini. Pada bab berikutnya, kita akan menyusun rumusan masalah, tujuan, dan manfaat penelitian secara terstruktur.

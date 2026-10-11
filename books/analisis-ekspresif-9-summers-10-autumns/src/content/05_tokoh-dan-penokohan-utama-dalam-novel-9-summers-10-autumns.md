@@ -22,10 +22,10 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi sangat dipengar
    
    > “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
 
-### Studi Karakter: Perkembangan Tokoh Iwan dari Batu ke New York
+### Perkembangan Tokoh Iwan dari Batu ke New York
 
 Analisis komparatif terhadap perkembangan karakter tokoh Iwan menunjukkan kontras psikologis yang tajam. Di masa kecilnya di Batu, ia digambarkan sebagai anak sopir angkot yang minder namun memiliki tekad belajar yang luar biasa akibat ketakutannya akan kegagalan. Setelah ia bertransformasi menjadi direktur riset di New York, watak tekunnya tetap bertahan, namun diiringi dengan munculnya rasa kesepian eksistensial dan keterasingan sosial (*alienation*). Titik balik perkembangan karakter ini terjadi ketika ia menyadari bahwa kesuksesan material di New York tidak dapat menggantikan kehangatan komunal keluarga di Batu.
 
-### Langkah Berikutnya: Menilik Tokoh di Sekitar Iwan
+### Menilik Tokoh di Sekitar Iwan
 
 Selain tokoh utama, kehadiran tokoh-tokoh pendukung di sekitar Iwan juga memberikan warna tersendiri dalam jalinan cerita. Pada bab selanjutnya, kita akan mengidentifikasi peran penting para tokoh pembantu tersebut.

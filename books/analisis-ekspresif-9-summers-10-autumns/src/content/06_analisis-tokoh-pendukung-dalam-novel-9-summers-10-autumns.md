@@ -43,10 +43,10 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
    
    > “Setelah saling bertukar beberapa e-mail siang itu, keesokan harinya, seperti tak mau menunda lagi, aku bertemu dengan Audrey seusai yoga. Kami berbincang selama berjam-jam tentang hidup, yoga, dan spirituality di Blue Ribbon, restoran Jepang favoritnya di West Village. Sangat mudah untuk terus menggulirkan bola perbincangan dengannya. This is quite Connection, pikirku. Mungkin kami berada di jalur pencarian hidup yang sama saat itu. Mulai dari yoga sampai Barneys.” (Hlm. 81)
 
-### Eksplorasi Tokoh: Peran Lingkungan Akademik dan Kerja
+### Peran Lingkungan Akademik dan Kerja
 
 Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Audrey di New York atau Mas Mul) tidak sekadar menjadi pelengkap cerita. Mereka bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey di kelas yoga West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
 
-### Menuju Analisis Latar: Ruang dan Lingkungan Cerita
+### Menuju Ruang dan Lingkungan Cerita
 
 Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial, mulai dari kesejukan Batu hingga belantara beton New York, yang melingkupi perjalanan hidup mereka.

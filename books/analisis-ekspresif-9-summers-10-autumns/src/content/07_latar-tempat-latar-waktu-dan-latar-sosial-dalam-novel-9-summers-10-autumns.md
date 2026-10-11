@@ -2,7 +2,7 @@
 
 Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers 10 Autumns*, unsur latar (spasial, temporal, dan sosiopsikologis) tidak sekadar berfungsi sebagai dekorasi atau tempat peristiwa berlangsung. Latar bekerja secara aktif sebagai cerminan sekaligus pembentuk dinamika psikologis tokoh utama, merekam setiap jejak emosi dari kesederhanaan masa kecil hingga kesunyian di tengah kemegahan kota megapolitan.
 
-### Eksplorasi Latar: Dari Kota Apel hingga Belantara Beton
+### Latar dari Kota Apel hingga Belantara Beton
 
 Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi mendasar untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
 
@@ -37,7 +37,7 @@ Aspek sosial dalam novel ini menggambarkan transisi kelas sosial tokoh utama dar
 
 ---
 
-### Studi Kasus: Kontras Spasial Batu vs New York
+### Kontras Spasial Batu vs New York
 
 Untuk memahami kontras spasial ini secara lebih terstruktur, perhatikan perbandingan matriks latar berikut yang memengaruhi kondisi kejiwaan tokoh utama:
 
@@ -50,10 +50,10 @@ Untuk memahami kontras spasial ini secara lebih terstruktur, perhatikan perbandi
 
 Kontras ini menjadi motor penggerak utama konflik batin tokoh Iwan. Keberadaannya di New York memicu kerinduan mendalam (*nostalgia*) terhadap Kota Batu, membuktikan bahwa identitas sejatinya tidak ditentukan oleh kemewahan Manhattan, melainkan oleh nilai-nilai kesederhanaan yang ia pelajari di kaki Gunung Panderman.
 
-### Ruang Perenungan: Nilai Sosial Kemiskinan dan Kemakmuran
+### Nilai Sosial Kemiskinan dan Kemakmuran
 
 *Bagaimana latar sosial kemiskinan di Kota Batu di tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York? Apakah kemakmuran finansial melunturkan nilai-nilai moral kesederhanaan yang diajarkan oleh ibunya?*
 
-### Langkah Selanjutnya: Pilihan Kata dan Sudut Pandang
+### Menuju Pilihan Kata dan Sudut Pandang
 
 Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas. Mari kita lanjutkan ke bab berikutnya untuk menganalisis sudut pandang dan gaya bahasa puitis yang digunakan penulis.
