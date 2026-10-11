@@ -51,7 +51,7 @@ Meskipun menyusun matriks membutuhkan waktu lebih di awal, metode ini menghemat 
 1. **Mencegah Debat Berulang:** Begitu kriteria dan bobot disepakati bersama, perdebatan mengenai hal mendasar selesai. Diskusi selanjutnya hanya berfokus pada pemberian skor untuk masing-masing opsi.
 2. **Identifikasi Cepat Opsi yang Gagal:** Kamu bisa langsung melihat jika suatu alternatif memiliki skor sangat rendah pada kriteria wajib (misalnya anggaran melampaui batas), sehingga kamu tidak perlu membuang waktu untuk menganalisis keunggulan lainnya.
 
-### Studi Kasus: Pemilihan Vendor IT
+### Pemilihan Vendor IT
 
 Bayangkan sebuah tim kerja ingin memilih penyedia layanan *cloud hosting*. Ada tiga variabel utama yang harus dinilai: **Harga**, **Keamanan Data**, dan **Layanan Pelanggan**.
 

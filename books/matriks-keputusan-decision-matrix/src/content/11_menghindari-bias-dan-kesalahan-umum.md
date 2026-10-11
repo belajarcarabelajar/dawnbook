@@ -4,7 +4,7 @@ Matriks keputusan sering kali dianggap sebagai alat bantu objektif karena menggu
 
 Jika kamu memasukkan data yang bias atau penilaian subjektif secara berlebihan ke dalam matriks, hasil akhirnya tetaplah keputusan buruk yang dibungkus format tabel profesional (prinsip *Garbage In, Garbage Out*).
 
-## 1. Memahami Musuh Tersembunyi: Cognitive Bias
+## 1. Memahami Cognitive Bias
 
 Cognitive bias adalah kesalahan sistematis dalam berpikir yang memengaruhi cara kita memproses informasi. Dalam konteks matriks keputusan, bias ini sering kali menyusup tanpa kita sadari.
 
@@ -53,7 +53,7 @@ $\text{Total Skor} \neq \sum (\text{Skor}_{A} \times \text{Bobot}) + \sum (\text
 
 *Catatan: Rumus di atas tidak valid jika Skala A berbeda dengan Skala B.*
 
-## 3. Strategi Mitigasi: Cara Melawan Bias
+## 3. Strategi Melawan Bias
 
 Bagaimana cara memastikan matriks keputusan milikmu tetap objektif? Berikut adalah langkah-langkah praktisnya:
 
@@ -81,7 +81,7 @@ Di mana $n$ adalah jumlah penilai.
 
 Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata salah di masa depan, apa alasan utamanya?"* Sering kali, jawaban dari pertanyaan ini akan menunjukkan kriteria yang kamu abaikan atau skor yang kamu manipulasi secara tidak sadar.
 
-## 4. Kasus Nyata: Jebakan dalam Pemilihan Software
+## 4. Jebakan dalam Pemilihan Software
 
 **Skenario:** Sebuah tim IT sedang memilih software CRM baru. Manajer IT sangat menyukai Software "TechPlus" karena dia pernah menggunakannya di perusahaan lama.
 

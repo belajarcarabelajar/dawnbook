@@ -1,4 +1,4 @@
-## Langkah 4: Menentukan Skala dan Sistem Penilaian
+## Penentuan Skala dan Sistem Penilaian
 
 Setelah menentukan kriteria penilaian dan bobotnya, tantangan berikutnya dalam menyusun **matriks keputusan (decision matrix)** adalah menentukan skala dan **sistem penilaian (scoring system)** secara adil. Tanpa standarisasi yang tepat, perbandingan antar-alternatif akan menjadi bias dan tidak konsisten.
 
@@ -73,17 +73,17 @@ $$
 
 Sebagai gambaran, jika kamu menilai "Kenyamanan Kantor", bagaimana cara memastikan skor '4' yang kamu berikan memiliki standar yang sama dengan skor '4' dari rekan kerjamu? Di sinilah deskripsi tertulis pada setiap angka skala memainkan peran penting untuk menyamakan persepsi.
 
-### 5. Studi Kasus: Pemilihan Vendor Software-as-a-Service (SaaS)
+### 5. Pemilihan Vendor Software-as-a-Service (SaaS)
 
 Sebuah tim ingin mengevaluasi platform CRM baru menggunakan skala penilaian 1–5. Berikut adalah perbandingan rubrik untuk kriteria kualitatif dan kuantitatif:
 
-#### Kriteria Kualitatif: Kemudahan Penggunaan (User Experience)
+#### Kemudahan Penggunaan (User Experience)
 
 - **Skor 1:** Sistem memiliki antarmuka yang kaku dan rumit, sehingga membutuhkan waktu pelatihan intensif lebih dari dua minggu bagi pengguna baru.
 - **Skor 3:** Antarmuka standar dan fungsional, dengan perkiraan waktu orientasi mandiri sekitar tiga hari.
 - **Skor 5:** Desain sangat intuitif dan modern, sehingga anggota tim bisa langsung mengoperasikannya tanpa perlu sesi pelatihan khusus.
 
-#### Kriteria Kuantitatif: Biaya Langganan Bulanan
+#### Biaya Langganan Bulanan
 
 - **Skor 1:** Biaya langganan sangat tinggi, yaitu di atas USD 500 per bulan.
 - **Skor 3:** Biaya investasi bulanan sedang, berkisar antara USD 200 hingga USD 500.
