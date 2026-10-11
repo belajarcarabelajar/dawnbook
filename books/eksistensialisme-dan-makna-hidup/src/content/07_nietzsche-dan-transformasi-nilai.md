@@ -12,7 +12,7 @@ Nietzsche melihat bahwa di akhir abad ke-19, ilmu pengetahuan dan rasionalitas t
 
 > "Tuhan telah mati. Tuhan tetap mati. Dan kita telah membunuhnya."
 
-**Analogi: Runtuhnya Mercusuar**
+**Analogi Runtuhnya Mercusuar**
 Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusuar (Tuhan/Agama). Tiba-tiba, lampu mercusuar itu padam. Kapal tersebut masih mengapung, tetapi ia kehilangan arah kompas absolutnya. Inilah kondisi manusia modern: kita bebas, tetapi kita tersesat di tengah samudera tanpa batas.
 
 ## 2. Jurang Nihilisme
