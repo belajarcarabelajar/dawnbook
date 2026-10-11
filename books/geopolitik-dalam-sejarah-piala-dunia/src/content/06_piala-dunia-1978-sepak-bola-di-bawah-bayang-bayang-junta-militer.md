@@ -22,7 +22,7 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 Meskipun istilah *sportswashing* (pencucian citra melalui olahraga) baru populer belakangan ini, Jenderal Videla adalah salah satu praktisi paling ulung di abad ke-20.
 
-**Analogi: "Mengecat Rumah yang Terbakar"**
+**Analogi "Mengecat Rumah yang Terbakar"**
 
 > Bayangkan sebuah rumah yang struktur fondasinya sedang terbakar hebat dan penghuninya sedang disiksa di ruang bawah tanah. Alih-alih memadamkan api, sang pemilik rumah justru mengecat dinding luar dengan warna emas yang berkilau dan mengundang seluruh tetangga untuk berpesta di halaman depan agar tidak ada yang melihat asap keluar dari jendela. Itulah Piala Dunia 1978 bagi Junta Militer Argentina.
 

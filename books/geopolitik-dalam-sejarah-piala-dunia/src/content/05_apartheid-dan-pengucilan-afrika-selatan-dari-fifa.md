@@ -71,7 +71,7 @@ Kasus Afrika Selatan mengajarkan kita bagaimana olahraga dapat digunakan sebagai
 
 > "Olahraga memiliki kekuatan untuk mengubah dunia. Ia memiliki kekuatan untuk menginspirasi. Ia memiliki kekuatan untuk menyatukan orang dengan cara yang tidak dimiliki hal lain." - **Nelson Mandela**
 
-### Kesimpulan
+### Inti Pembahasan
 
 Pengucilan Afrika Selatan dari FIFA merupakan pernyataan moral dunia bahwa diskriminasi rasial tidak memiliki tempat di atas lapangan hijau, bukan hanya persoalan teknis organisasi. Perjalanan dari pengusiran tahun 1976 hingga menjadi tuan rumah Piala Dunia 2010 adalah simbol kemenangan kemanusiaan atas segregasi, membuktikan bahwa sepak bola adalah cermin dari keadilan sosial global.
 
