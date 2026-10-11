@@ -4,11 +4,11 @@ Pernahkah kamu merasa seolah-olah sedang berlari di atas treadmill yang kecepata
 
 > "Perbedaan antara orang sukses dan orang yang sangat sukses adalah bahwa orang yang sangat sukses mengatakan 'tidak' pada hampir semua hal." - Warren Buffett
 
-### 1. Seni Mengatur Prioritas: Memisahkan "Penting" dari "Mendesak"
+### 1. Memisahkan "Penting" dari "Mendesak"
 
 Sering kali, stres muncul bukan terjadi karena kita memiliki terlalu banyak hal untuk dikerjakan, tetapi karena kita mencoba menyelesaikan semuanya sekaligus tanpa urutan yang jelas.
 
-#### Analogi: Toples Kehidupan
+#### Toples Kehidupan
 
 Bayangkan kamu memiliki sebuah toples kosong, beberapa batu besar, kerikil, dan pasir.
 
@@ -24,7 +24,7 @@ Untuk menentukan mana yang merupakan "batu besar" kamu, gunakan kerangka kerja b
 | **Penting (Important)** | **LAKUKAN SEGERA:** Krisis, tenggat waktu proyek, masalah mendesak. | **RENCANAKAN:** Pengembangan diri, membangun hubungan, perencanaan strategis. |
 | **Tidak Penting (Not Important)** | **DELEGASIKAN:** Gangguan, beberapa rapat, email yang tidak relevan. | **ELIMINASI:** Aktivitas membuang waktu, scroll media sosial berlebih. |
 
-### 2. Teknik Delegasi: Melepaskan Kendali untuk Keseimbangan
+### 2. Teknik Delegasi
 
 Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang kerjakan, hasilnya tidak akan bagus." Pemikiran ini adalah resep instan menuju *burnout*.
 
@@ -49,7 +49,7 @@ Berkata "tidak" sering kali terasa tidak sopan atau egois. Namun, secara psikolo
 
 Batasan atau *boundaries* adalah garis imajiner yang kita buat untuk melindungi ruang fisik, emosional, dan mental kita. Tanpa batasan, orang lain akan menentukan agenda hidup kamu dan mengganggu *work-life balance* kamu.
 
-#### Jenis-jenis Batasan:
+#### Jenis-jenis Batasan
 
 - **Batasan Waktu:** Menentukan kapan kamu bekerja dan kapan kamu beristirahat. Contoh: "Saya tidak mengecek email setelah jam 7 malam."
 - **Batasan Emosional:** Membedakan antara masalah orang lain dan emosi kamu sendiri. Kamu bisa empati tanpa harus ikut "tenggelam" dalam drama orang lain.
@@ -57,15 +57,15 @@ Batasan atau *boundaries* adalah garis imajiner yang kita buat untuk melindungi 
 
 **Penting:** Batasan bukanlah tembok untuk mengisolasi diri, melainkan **gerbang** yang memungkinkan hal-hal baik masuk dan menahan hal-hal buruk tetap di luar.
 
-### 5. Aplikasi Dunia Nyata: Skenario Profesional dan Pribadi
+### 5. Situasi Profesional dan Pribadi
 
-#### Skenario A: Di Kantor
+#### Di Kantor
 
 Rekan kerja kamu sering datang ke meja kamu (atau mengirim chat) untuk mengobrol saat kamu sedang fokus pada laporan penting.
 
 - **Aksi:** Gunakan "Isyarat Visual". Pakailah headphone sebagai tanda kamu sedang fokus, atau pasang status "Do Not Disturb". Jika mereka tetap menyapa, katakan: "Saya sangat ingin dengar ceritamu, tapi saya harus menyelesaikan ini dalam 30 menit. Bisa kita bicara saat makan siang?"
 
-#### Skenario B: Di Rumah
+#### Di Rumah
 
 Keluarga atau teman sering meminta bantuan mendadak di waktu kamu seharusnya beristirahat.
 

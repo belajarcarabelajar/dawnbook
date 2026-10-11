@@ -4,7 +4,7 @@ Bayangkan tubuhmu adalah sebuah benteng. Teknik koping seperti pernapasan atau *
 
 Dalam bagian ini, kita akan membedah bagaimana aspek biologis tubuh, terutama hormon **kortisol**, sangat dipengaruhi oleh rutinitas harian.
 
-### 1. Memahami Musuh dan Kawan: Kortisol dan Keseimbangan Biologis
+### 1. Kortisol dan Keseimbangan Biologis
 
 Sebelum kita membahas aktivitas fisik atau nutrisi, kita harus mengenal "aktor utama" dalam drama stres kita: **Kortisol**.
 
@@ -12,7 +12,7 @@ Kortisol adalah hormon steroid yang diproduksi oleh kelenjar adrenal. Rumus kimi
 
 > **Pesan Utama:** Gaya hidup sehat tak sebatas penampilan fisik, tetapi bertugas menjaga agar grafik kortisolmu tidak menyerupai pegunungan yang curam, melainkan gelombang yang tenang.
 
-### 2. Pilar Pertama: Aktivitas Fisik sebagai "Tombol Reset"
+### 2. Aktivitas Fisik sebagai "Tombol Reset"
 
 Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan hormon stres. Saat kamu bergerak, tubuhmu beralih dari mode "waspada" ke mode "aksi".
 
@@ -30,7 +30,7 @@ Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan ho
 
 > Pernahkah kamu merasa sangat marah atau frustrasi, lalu perasaan itu berkurang jauh setelah kamu berjalan cepat selama 15 menit? Itu adalah metabolisme kortisol yang sedang bekerja.
 
-### 3. Pilar Kedua: Nutrisi dan Sumbu Usus-Otak (*Gut-Brain Axis*)
+### 3. Nutrisi dan Sumbu Usus-Otak (*Gut-Brain Axis*)
 
 Ada pepatah yang mengatakan, *"Kamu adalah apa yang kamu makan."* Dalam konteks stres, hal ini terbukti secara ilmiah. Sekitar 95% serotonin (hormon kebahagiaan) diproduksi di saluran pencernaan.
 
@@ -42,14 +42,14 @@ $$
 \text{Gula Tinggi} \rightarrow \uparrow \text{Insulin} \rightarrow \downarrow \text{Gula Darah Drastis} \rightarrow \uparrow \text{Kortisol}
 $$
 
-#### Nutrisi Penunjang Ketahanan Stres:
+#### Nutrisi Penunjang Ketahanan Stres
 
 - **Kompleks Karbohidrat (Gandum utuh, ubi):** Menjaga kadar gula darah tetap stabil.
 - **Omega-3 (Ikan, biji chia):** Mengurangi peradangan di otak yang dipicu oleh stres.
 - **Magnesium (Bayam, cokelat hitam):** Sering disebut sebagai "mineral relaksasi" karena membantu otot dan saraf rileks.
 - **Probiotik (Yogurt, tempe):** Menjaga kesehatan mikroba usus yang berkomunikasi langsung dengan otak melalui saraf vagus.
 
-### 4. Pilar Ketiga: Kualitas Tidur sebagai Pemulihan Utama
+### 4. Kualitas Tidur sebagai Pemulihan Utama
 
 Tidur bukanlah waktu kosong. Saat kamu tidur, otakmu melakukan "pembersihan limbah" melalui sistem glimfatik.
 
@@ -65,7 +65,7 @@ Kurang tidur adalah pemicu stres fisiologis yang besar. Tanpa tidur yang cukup, 
 2. **Blokir Cahaya Biru:** Matikan layar 60 menit sebelum tidur untuk membiarkan Melatonin ($C_{13}H_{16}N_2O_2$) bekerja.
 3. **Suhu Dingin:** Tubuh perlu menurunkan suhu inti sekitar $1\text{--}2^\circ\text{C}$ untuk memulai tidur yang dalam.
 
-### Aplikasi Nyata: Skenario Perubahan Gaya Hidup
+### Perubahan Gaya Hidup Budi
 
 **Subjek:** Budi, seorang manajer proyek yang bekerja 10 jam sehari, sering mengonsumsi kopi berlebih, dan tidur kurang dari 5 jam.
 

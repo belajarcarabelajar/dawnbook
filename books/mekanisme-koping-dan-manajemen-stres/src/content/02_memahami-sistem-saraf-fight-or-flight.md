@@ -1,10 +1,10 @@
-## Memahami Sistem Saraf: Fight or Flight
+## Memahami Sistem Saraf Fight or Flight
 
 Pernahkah kamu merasa jantung berdegup kencang, napas memburu, dan telapak tangan berkeringat saat harus berbicara di depan umum atau ketika hampir mengalami kecelakaan di jalan raya? Reaksi tersebut bukan cuma rasa gugup biasa, tetapi sebuah mekanisme biologis yang telah menjaga nenek moyang kita tetap selamat selama ribuan tahun.
 
 Selamat datang di pusat kendali otomatis tubuh kamu: **Sistem Saraf Otonom**.
 
-### 1. Sistem Saraf Otonom: Pilot Otomatis Tubuh
+### 1. Sistem Saraf Otonom
 
 Bayangkan tubuh kamu seperti sebuah kendaraan canggih. Kamu tidak perlu memikirkan cara memompa darah atau mencerna makanan, karena semuanya berjalan secara otomatis di latar belakang. Inilah fungsi dari **Sistem Saraf Otonom (SSO)** (*Autonomic Nervous System*).
 
@@ -16,7 +16,7 @@ SSO terbagi menjadi dua divisi utama yang bekerja saling melengkapi seperti peda
 > [!NOTE]
 > **Homeostasis:** Keseimbangan antara sistem simpatik dan parasimpatik disebut *homeostasis*. Saat stres melanda, keseimbangan ini bergeser secara drastis ke arah sistem simpatik.
 
-### 2. Sistem Saraf Simpatik: Mekanisme *Fight or Flight*
+### 2. Sistem Saraf Simpatik
 
 Ketika otak kamu (khususnya bagian bernama *amygdala*) mendeteksi ancaman, ia mengirimkan sinyal bahaya ke *hipotalamus*. Hipotalamus kemudian mengaktifkan sistem saraf simpatik.
 
@@ -40,7 +40,7 @@ $$
 \text{Stres} \rightarrow \text{Hipotalamus} \rightarrow \text{Kelenjar Adrenal} \rightarrow \text{Adrenalin} \uparrow
 $$
 
-### 3. Sistem Saraf Parasimpatik: Sang Penenang
+### 3. Sistem Saraf Parasimpatik
 
 Setelah ancaman berlalu, sistem saraf parasimpatik mengambil alih. Ini adalah sistem *rest-and-digest* yang berfungsi memulihkan energi dan menenangkan tubuh.
 
@@ -53,7 +53,7 @@ Setelah ancaman berlalu, sistem saraf parasimpatik mengambil alih. Ini adalah si
 
 Pernahkah kamu merasa sangat lelah atau mengantuk setelah melewati situasi yang sangat menegangkan? Reaksi tersebut menandakan sistem parasimpatik kamu sedang bekerja keras memulihkan energi yang terkuras.
 
-### 4. Analogi: Alarm Kebakaran dan Detektor Asap
+### 4. Alarm Kebakaran yang Terlalu Sensitif
 
 Untuk memahami mengapa kita merasa stres di dunia modern, mari gunakan analogi berikut:
 
@@ -61,13 +61,13 @@ Sistem *fight-or-flight* kamu bekerja seperti sebuah **alarm kebakaran**. Di zam
 
 **Masalah utamanya:** Tubuh kamu tidak bisa membedakan antara ancaman fisik yang membahayakan nyawa dengan tekanan psikologis. Keduanya memicu reaksi kimia yang sama kuatnya.
 
-### 5. Reaksi Ketiga: *Freeze* (Membeku)
+### 5. *Freeze* (Membeku)
 
 Selain melawan (*fight*) atau lari (*flight*), ada reaksi otomatis ketiga yang sering terjadi: ***Freeze*** (membeku).
 
 Reaksi ini terjadi ketika sistem saraf menilai bahwa melawan atau lari tidak mungkin dilakukan. Seperti rusa yang terpaku di depan lampu mobil, manusia dapat mengalami kelumpuhan sementara atau perasaan hampa (*dissociation*) saat tingkat stres melampaui batas kemampuan kopingnya.
 
-### 6. Aplikasi Real-World: Skenario Presentasi Kerja
+### 6. Presentasi Kerja Penting
 
 Mari kita perhatikan bagaimana sistem ini bekerja dalam situasi sehari-hari:
 

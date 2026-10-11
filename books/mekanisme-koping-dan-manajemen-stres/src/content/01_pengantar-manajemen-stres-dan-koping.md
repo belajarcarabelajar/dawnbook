@@ -20,7 +20,7 @@ $$
 
 Jika **Tuntutan** lebih besar daripada **Sumber Daya** yang kamu miliki, maka tingkat stres akan meningkat. Sebaliknya, dengan memperkuat sumber daya (mekanisme *coping*), beban stres akan terasa lebih ringan.
 
-### Eustress vs. Distress: Tidak Semua Stres Itu Buruk
+### Eustress vs. Distress
 
 Banyak orang beranggapan bahwa stres selalu bersifat negatif. Faktanya, para ahli psikologi membagi stres menjadi dua kategori utama berdasarkan dampaknya terhadap individu:
 
@@ -61,7 +61,7 @@ Memiliki "kotak peralatan" koping yang sehat sangat penting karena:
 2. **Menjaga Kesehatan Fisik:** Stres kronis melepaskan hormon kortisol secara berlebihan. Koping membantu menenangkan sistem hormonal kita.
 3. **Meningkatkan Resiliensi (*Resilience*):** Semakin baik kemampuan koping kamu, semakin cepat kamu bangkit kembali (*bounce back*) setelah mengalami kegagalan atau kesulitan.
 
-### Aplikasi Dunia Nyata: Skenario Perbandingan
+### Perbandingan Koping Andi dan Budi
 
 Mari kita lihat bagaimana perbedaan koping memengaruhi hasil akhir dalam situasi yang sama.
 
@@ -72,7 +72,7 @@ Mari kita lihat bagaimana perbedaan koping memengaruhi hasil akhir dalam situasi
 
 **Pelajaran:** Situasinya identik, namun persepsi (*eustress* vs *distress*) dan mekanisme koping yang dipilih membuat hasil akhirnya berbeda total.
 
-### Kesimpulan: Langkah Selanjutnya
+### Langkah Selanjutnya
 
 Memahami bahwa stres adalah reaksi alami dan koping adalah keterampilan yang bisa dipelajari merupakan kunci utama manajemen diri. Stres bukan musuh untuk ditakuti, melainkan sinyal yang perlu dikelola dengan bijak.
 

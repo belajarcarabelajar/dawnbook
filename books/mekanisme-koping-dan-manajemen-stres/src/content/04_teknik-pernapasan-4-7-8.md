@@ -1,4 +1,4 @@
-## Teknik Pernapasan 4-7-8: Obat Penenang Alami
+## Teknik Pernapasan 4-7-8
 
 Pernahkah kamu merasa jantung berdebar kencang sebelum presentasi penting, atau merasa pikiran sulit berhenti berputar saat mencoba tidur di malam hari? Dalam momen-momen penuh tekanan seperti itu, tubuh sering kali terjebak dalam mode *fight-or-flight* (lawan atau lari).
 
@@ -42,7 +42,7 @@ Empat tahap di atas dihitung sebagai **satu siklus**. Ulangi hingga total **empa
 
 Cobalah perhatikan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
 
-## Analogi: Mengatur Ulang Komputer (Reset)
+## Mengatur Ulang Komputer (Reset)
 
 Bayangkan pikiranmu adalah sebuah komputer yang memiliki terlalu banyak aplikasi terbuka secara bersamaan, menyebabkan sistem menjadi panas dan lambat (*lag*).
 

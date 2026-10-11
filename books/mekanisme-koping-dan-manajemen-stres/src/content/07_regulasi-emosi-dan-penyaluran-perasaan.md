@@ -4,7 +4,7 @@ Pernahkah kamu merasa seperti bendungan yang hampir jebol karena debit air terla
 
 Regulasi emosi (*emotion regulation*) memfokuskan perhatian pada pengelolaan arus perasaan agar tetap terkendali dan tersalurkan secara produktif, bukan menekan atau meniadakan emosi tersebut. Bab ini membahas seni mengenali, memberi nama, dan melepaskan emosi melalui teknik yang teruji secara neurosains dan psikologis.
 
-### 1. Fondasi Regulasi Emosi: "Name It to Tame It"
+### 1. Prinsip "Name It to Tame It"
 
 Langkah awal mengelola emosi mendalam adalah menyadari keberadaannya. Dalam struktur otak, **Amigdala** (*amygdala*) berperan memicu respons emosional instingtif. Saat emosi kewalahan datang, Amigdala bekerja sangat aktif.
 
@@ -20,11 +20,11 @@ Hindari sekadar mengelompokkan perasaan menjadi "saya merasa buruk". Gunakan *Em
 
 Kapan terakhir kali kamu berhenti sejenak untuk bertanya pada diri sendiri, *"Apa nama emosi yang sedang saya rasakan saat ini?"*
 
-### 2. Journaling: Mengubah Pikiran Menjadi Tulisan
+### 2. Journaling
 
 Menulis jurnal (*journaling*) merupakan salah satu mekanisme koping (*coping mechanism*) yang efektif karena memaksa otak memproses ide abstrak menjadi struktur bahasa yang nyata.
 
-#### Teknik Journaling yang Efektif:
+#### Teknik Journaling yang Efektif
 
 1. **Brain Dump (Pembersihan Pikiran):**
    Tuliskan seluruh isi pikiran ke atas kertas tanpa memikirkan tata bahasa, struktur, atau sensor mandiri. Proses ini mengalirkan beban kognitif keluar dari memori kerja.
@@ -42,7 +42,7 @@ $$
 \text{Emosi Mentah} \rightarrow \text{Proses Menulis} \rightarrow \text{Kejelasan Kognitif}
 $$
 
-### 3. Ekspresi Kreatif: Melampaui Kata-kata
+### 3. Ekspresi Kreatif
 
 Ketika kata-kata belum mampu mewakili sesaknya perasaan, ekspresi kreatif hadir sebagai media penyaluran non-verbal (*catharsis*).
 
@@ -66,7 +66,7 @@ Andi baru saja menerima umpan balik negatif dari atasannya di hadapan rekan kerj
 4. **Hasil Akhir:**
    Andi terhindar dari tindakan impulsif yang berpotensi merusak karier dan berhasil memperoleh kejelasan kognitif untuk mengevaluasi kinerjanya secara rasional.
 
-### 5. Latihan Mandiri: Kotak Pertolongan Pertama Emosional
+### 5. Kotak Pertolongan Pertama Emosional
 
 Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan diri berikut:
 

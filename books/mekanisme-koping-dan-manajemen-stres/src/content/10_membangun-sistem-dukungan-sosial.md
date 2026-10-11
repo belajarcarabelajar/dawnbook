@@ -61,7 +61,7 @@ Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan
 * **Grup Pendukung (*Support Groups*):** Jika kamu mengalami stres spesifik (misalnya kehilangan orang tercinta atau mengelola kondisi medis kronis), bergabung dengan orang-orang yang mengalami hal serupa dapat memberikan efek penyembuhan emosional.
 * **Kegiatan Sukarela (*Volunteering*):** Membantu orang lain terbukti secara ilmiah dapat menurunkan tingkat stres diri sendiri. Ini memberikan perspektif baru dan rasa kebermaknaan hidup.
 
-### 5. Aplikasi Dunia Nyata: Skenario Manajemen Stres
+### 5. *Burnout* di Tempat Kerja
 
 Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata:
 

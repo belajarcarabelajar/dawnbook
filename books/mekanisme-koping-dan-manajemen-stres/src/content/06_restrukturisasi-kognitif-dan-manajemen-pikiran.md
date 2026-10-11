@@ -6,7 +6,7 @@ Pernahkah kamu merasa bahwa satu kegagalan kecil berarti seluruh hidup kamu hanc
 
 ---
 
-### 1. Memahami Distorsi Kognitif: Si Penipu di Dalam Kepala
+### 1. Memahami Distorsi Kognitif
 
 Sebelum kita bisa mengubah pikiran, kita harus mengenali pola pikir yang salah atau bias. Dalam psikologi, ini disebut **Distorsi Kognitif** (*cognitive distortions*). Ini adalah pintasan mental yang diambil otak kita saat berada di bawah tekanan, namun sering kali justru memperburuk stres.
 
@@ -35,7 +35,7 @@ Dalam kondisi stres, distorsi kognitif membuat $P$ (persepsi beban) terlihat san
 
 ---
 
-### 3. Teknik 5 Langkah: Menjadi Detektif Pikiran
+### 3. Teknik 5 Langkah Model ABCDE
 
 Untuk mengubah pola pikir, kita bisa menggunakan pendekatan sistematis yang disebut **Model ABCDE** (bagian dari lembar *thought records*). Mari kita bedah langkah demi langkah:
 
@@ -69,7 +69,7 @@ Ganti pikiran lama dengan perspektif yang lebih seimbang.
 
 ---
 
-### 4. Latihan Praktis: Tabel Restrukturisasi
+### 4. Tabel Latihan Restrukturisasi
 
 Gunakan format tabel *thought records* berikut untuk berlatih secara mandiri saat kamu merasakan emosi yang kuat:
 
@@ -80,7 +80,7 @@ Gunakan format tabel *thought records* berikut untuk berlatih secara mandiri saa
 
 ---
 
-### 5. Aplikasi Dunia Nyata: Skenario Profesional
+### 5. Bug yang Menjatuhkan Sistem Produksi
 
 **Skenario:** Kamu adalah seorang pengembang perangkat lunak yang tidak sengaja menyebabkan *bug* pada sistem produksi perusahaan (*production down*).
 
