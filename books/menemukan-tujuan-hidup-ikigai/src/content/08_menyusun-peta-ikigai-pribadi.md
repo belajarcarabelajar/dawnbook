@@ -6,7 +6,7 @@ Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendala
 
 Menyusun peta Ikigai adalah sebuah proses sintesis. Proses ini merangkum pemahaman keempat pilar untuk melihat bagaimana elemen-elemen tersebut saling berhubungan, berinteraksi, dan akhirnya membentuk inti tujuan hidup. Peta ini menjadi representasi visual dari perjalanan penemuan diri, memungkinkan kamu melihat gambaran besar dan menemukan titik temu.
 
-### Kerangka Kerja Visual: Diagram Venn Ikigai
+### Diagram Venn Ikigai
 
 Kerangka kerja yang paling umum untuk memvisualisasikan Ikigai adalah melalui Diagram Venn empat lingkaran yang saling tumpang tindih. Setiap lingkaran mewakili satu pilar, dan irisan antar lingkaran mengungkapkan area yang mengarah pada Ikigai kamu.
 
@@ -16,7 +16,7 @@ Kerangka kerja yang paling umum untuk memvisualisasikan Ikigai adalah melalui Di
 
 Mari mulai menyusun peta ini. Siapkan alat tulis atau dokumen digital untuk mencatat dan menggambar.
 
-#### Langkah 1: Tinjau Kembali Penemuan Sebelumnya
+#### 1. Tinjau Kembali Penemuan Sebelumnya
 
 Kumpulkan semua catatan, daftar, dan hasil refleksi dari bagian-bagian sebelumnya. Bahan-bahan ini akan menjadi fondasi utama.
 
@@ -30,7 +30,7 @@ Terakhir, petakan **Value** (nilai ekonomi) dengan memikirkan keterampilan yang 
 
 Coba ringkas setiap pilar tersebut ke dalam frasa kunci untuk memudahkan langkah selanjutnya.
 
-#### Langkah 2: Visualisasikan Persimpangan pada Diagram Venn
+#### 2. Visualisasikan Persimpangan pada Diagram Venn
 
 Gambarlah Diagram Venn empat lingkaran kosong. Beri label setiap lingkaran dengan satu pilar:
 - Lingkaran pertama untuk hal yang dicintai.
@@ -40,7 +40,7 @@ Gambarlah Diagram Venn empat lingkaran kosong. Beri label setiap lingkaran denga
 
 Tuliskan poin-poin kunci dari langkah pertama ke dalam lingkaran yang sesuai agar interaksi antar elemen mulai terlihat.
 
-#### Langkah 3: Identifikasi Area Persimpangan
+#### 3. Identifikasi Area Persimpangan
 
 Fokuskan pada area tempat dua lingkaran saling tumpang tindih untuk menemukan *Passion*, *Mission*, *Vocation*, dan *Profession* pribadimu.
 
@@ -52,13 +52,13 @@ Untuk menemukan *Vocation* (panggilan hidup), temukan titik temu antara kebutuha
 
 Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu dengan aktivitas yang dicintai. Fotografer acara atau seni bisa menjadi profesi yang tepat bagi mereka yang mencintai fotografi sekaligus mampu menjadikannya mata pencaharian.
 
-#### Langkah 4: Temukan Inti Ikigai
+#### 4. Temukan Inti Ikigai
 
 Setelah memetakan persimpangan dua lingkaran, arahkan perhatian ke pusat Diagram Venn, titik temu keempat lingkaran tersebut. Di sinilah letak Ikigai kamu.
 
 Cari benang merah dari keempat pilar dan area persimpangan. Temukan kegiatan, peran, atau tujuan yang mampu merangkul semua elemen ini. Jika kamu suka menulis, jago memecahkan masalah, dunia butuh inspirasi, dan konten tulisan bisa mendatangkan penghasilan, maka Ikigai kamu mungkin menggunakan tulisan untuk menginspirasi dan memecahkan masalah, yang juga memberdayakan secara finansial.
 
-#### Langkah 5: Rumuskan Pernyataan Ikigai Pribadi
+#### 5. Rumuskan Pernyataan Ikigai Pribadi
 
 Langkah terakhir adalah merumuskan inti Ikigai ke dalam pernyataan yang ringkas. Pernyataan ini harus mencerminkan tujuan hidup yang paling dalam, sesuatu yang memberikan dorongan semangat setiap pagi.
 
