@@ -4,7 +4,7 @@ Proses pergeseran makna amelioratif mengangkat nilai rasa kata menjadi lebih ter
 
 Bahasa berfungsi layaknya panggung sosial. Sejumlah kosakata yang pada masa lampau dianggap biasa atau bernilai rasa rendah, seiring berjalannya waktu memperoleh penghormatan khusus dan dilembagakan dalam ranah resmi. Perkembangan ini dapat ditelusuri melalui beberapa studi kasus utama berikut.
 
-### 1. Kata 'Wanita': Dari Sansekerta ke Status Sosial
+### 1. Perjalanan Kata 'Wanita' dari Sansekerta ke Status Sosial
 
 Salah satu contoh klasik ameliorasi dalam bahasa Indonesia tampak pada penggunaan kata **wanita**. Untuk memahami peningkatan nilai rasanya, kata ini perlu diperbandingkan dengan kata **perempuan**.
 
@@ -17,7 +17,7 @@ Kendati secara etimologis kata *perempuan* memiliki landasan makna yang sangat k
 
 > **Catatan Historis:** Ameliorasi kerap digerakkan oleh kebijakan politik institusional dan konvensi kesopanan pada zamannya. Pembentukan organisasi kenegaraan seperti Kongres Wanita Indonesia (KOWANI) memperkokoh posisi amelioratif kata tersebut pada era kepemimpinan terkait.
 
-### 2. Kata 'Pramuniaga': Eufemisme yang Melembaga
+### 2. Kata 'Pramuniaga' sebagai Eufemisme yang Melembaga
 
 Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk menggantikan sebutan lama di pusat-pusat perdagangan. Tulisan lowongan kerja kini hampir selalu mencantumkan sebutan "Dibutuhkan Pramuniaga", bukan "Dibutuhkan Pelayan Toko".
 
@@ -25,7 +25,7 @@ Perubahan orientasi pelayanan ritel modern mendorong adopsi istilah baru untuk m
 
 Guna mengangkat harkat profesi tersebut, disusunlah istilah serapan **pramuniaga** (dari unsur *pramu-* yang berarti pelayan profesional dan *niaga* yang berarti perdagangan). Penggunaan sebutan *pramusaji* untuk menggantikan *pelayan restoran* atau *pramugara/pramugari* untuk awak kabin pesawat terbang memperlihatkan pola ameliorasi yang konsisten dalam mengangkat martabat profesi layanan.
 
-### 3. Deret Istilah Berprefiks 'Tuna-': Kepekaan Budaya dan Empati Sosial
+### 3. Deret Istilah Berprefiks 'Tuna-' yang Berlandaskan Kepekaan Budaya dan Empati Sosial
 
 Dalam sistem tata bahasa Indonesia, pemanfaatan prefiks **tuna-** (serapan bahasa Jawa Kuno/Sansekerta yang bermakna rugi, kekurangan, atau tidak memiliki) merupakan contoh ameliorasi berskala luas yang berlandaskan empati sosial dan penghormatan kemanusiaan.
 

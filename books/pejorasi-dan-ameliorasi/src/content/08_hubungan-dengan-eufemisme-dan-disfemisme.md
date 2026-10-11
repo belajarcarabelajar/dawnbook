@@ -8,25 +8,25 @@ Di sinilah batas konseptual antara **ameliorasi/pejorasi** dan **eufemisme/disfe
 
 Sebelum menelaah komparasi keduanya, penting untuk memahami batasan dari kedua piranti gaya bahasa tersebut:
 
-#### Eufemisme: Pilihan Penghalus Makna
+#### Eufemisme
 
 Eufemisme adalah pemanfaatan kata atau ungkapan yang lebih halus, sopan, atau berkonotasi netral guna menggantikan bentuk leksikal yang dirasa kasar, menyinggung, tabu, atau menimbulkan ketidaknyamanan psikologis.
 
 - **Tujuan Pemanfaatan:** Menjaga keharmonisan sosial, menghormati mitra tutur, serta meredam ketegangan emosional akibat topik pembicaraan yang sensitif.
 - **Contoh Kasus:** Pemakaian frasa *dirumahkan* untuk menggantikan istilah *dipecat* atau *pemutusan hubungan kerja (PHK)* secara sepihak.
 
-#### Disfemisme: Pilihan Penajam Makna
+#### Disfemisme
 
 Disfemisme merupakan kebalikan dari eufemisme, yakni penggunaan kata atau frasa yang lebih kasar, tajam, vulgar, atau bernada merendahkan untuk menggantikan kata yang sebenarnya bermakna netral atau baku.
 
 - **Tujuan Pemanfaatan:** Memberikan penekanan emosional yang kuat, mengejek, mendiskreditkan lawan bicara, atau menimbulkan efek dramatis bernada sinis.
 - **Contoh Kasus:** Penggunaan kata *mampus*, *modar*, atau *koit* guna menggantikan kata netral *meninggal dunia* atau *wafat*.
 
-### Perbedaan Utama: Perubahan Makna versus Gaya Bahasa
+### Perubahan Makna versus Gaya Bahasa
 
 Banyak pemerhati bahasa pemula menyamakan eufemisme dengan ameliorasi, padahal kedua gejala tersebut memiliki mekanisme operasional yang sangat berlainan.
 
-#### Analogi: Arsitektur Bangunan dan Tata Cahaya
+#### Arsitektur Bangunan dan Tata Cahaya
 
 > Perbedaan ini dapat dianalogikan dengan bangunan fisik:
 >
@@ -61,19 +61,19 @@ Pertanyaan menarik muncul ketika mencermati kata *koruptor*: apakah kata tersebu
 
 Dalam interaksi sosial dan wacana media massa, kemampuan membedakan kedua ranah ini sangat berharga agar publik tidak terjebak dalam rekayasa makna manipulatif.
 
-#### Skenario 1: Eufemisme dalam Bidang Ekonomi
+#### Eufemisme dalam Bidang Ekonomi
 
 Pemerintah atau korporasi kerap memilih frasa **"Penyesuaian Tarif"** daripada menggunakan ungkapan **"Kenaikan Tarif"**.
 
 - **Analisis Linguistik:** Fenomena ini merupakan bentuk **eufemisme**. Makna leksikal kata *naik* tidak mengalami pejorasi, melainkan penutur sengaja memilih kata *penyesuaian* demi meredam gejolak psikologis serta resistensi publik.
 
-#### Skenario 2: Disfemisme dalam Ruang Debat Publik
+#### Disfemisme dalam Ruang Debat Publik
 
 Dalam perdebatan sengit di media sosial, seorang pengguna dapat menyebut gagasan lawan bicaranya sebagai **"ocehan"** atau **"celoteh kosong"** alih-alih menyebutnya sebagai **"argumen"**.
 
 - **Analisis Linguistik:** Pilihan kata ini tergolong **disfemisme**. Penutur secara sadar memanfaatkan leksem bernilai rasa rendah guna mendelegitimasi bobot intelektual dan kredibilitas lawan bicara.
 
-#### Skenario 3: Pejorasi yang Telah Mengendap Permanen
+#### Pejorasi yang Telah Mengendap Permanen
 
 Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada "pribadi", "unsur", atau "perseorangan" (sebagaimana akar kata teologisnya). Namun, tatkala frasa *ada oknum yang terlibat* diucapkan dalam wacana berita hukum, masyarakat secara spontan memahaminya sebagai perujuk pelaku kejahatan atau pelanggar aturan.
 

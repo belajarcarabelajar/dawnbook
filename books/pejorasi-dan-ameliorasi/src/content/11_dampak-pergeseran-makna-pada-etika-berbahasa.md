@@ -56,14 +56,14 @@ Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis
 
 Perbedaan pemilihan kata membawa implikasi langsung terhadap suasana relasi sosial:
 
-#### Skenario A: Forum Musyawarah dan Diskusi Kerja
+#### Forum Musyawarah dan Diskusi Kerja
 
 - **Penggunaan Kurang Tepat (Pejorasi tak disadari):** *"Kita perlu mewaspadai antek-antek yang berupaya menghambat perubahan ini."*
   - **Dampak:** Leksikon *antek* memiliki konotasi sangat rendah sebagai kaki tangan kejahatan, sehingga berpotensi memicu permusuhan antaranggota kelompok.
 - **Penggunaan Tepat (Konstruktif):** *"Kita perlu merangkul rekan-rekan yang masih memiliki pertimbangan mendalam terhadap rancangan perubahan ini."*
   - **Dampak:** Membuka ruang dialog yang santun dan menjunjung kebersamaan.
 
-#### Skenario B: Pelayanan Publik dan Industri Keramahan
+#### Pelayanan Publik dan Industri Keramahan
 
 - **Konteks:** Koordinasi kerja perhotelan mengenai pengelolaan tata graha.
 - **Pilihan Kata:** Menggunakan sebutan *pramugriya* atau *staf tata graha* alih-alih istilah lawas yang bernilai rasa rendah.

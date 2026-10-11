@@ -28,7 +28,7 @@ Keterangan variabel:
 - $I$: Kepentingan politik (*political interest*)
 - $K$: Otoritas dan jangkauan penyebaran narasi
 
-### 2. Ameliorasi Strategis: Menghaluskan Kebijakan
+### 2. Ameliorasi Strategis untuk Menghaluskan Kebijakan
 
 Dalam wacana kekuasaan, ameliorasi diterapkan untuk membungkus kenyataan sosioekonomi yang berat dengan istilah teknokratis atau modern. Pendekatan ini bertujuan meredam potensi penolakan sosial dan menjaga stabilitas politik.
 
@@ -41,7 +41,7 @@ Dalam wacana kekuasaan, ameliorasi diterapkan untuk membungkus kenyataan sosioek
 
 Perubahan sebutan dari kata 'miskin' menjadi 'prasejahtera' tidak serta-merta meningkatkan daya beli masyarakat. Perubahan leksikal ini lebih berperan dalam menata kenyamanan psikologis penutur dan audiens ketika mendiskusikan ketimpangan ekonomi.
 
-### 3. Pejorasi Politik: Sarana Delegitimasi
+### 3. Pejorasi Politik
 
 Pejorasi politik difungsikan untuk mendiskreditkan kelompok oposisi atau pihak yang berseberangan dengan menyematkan label berkonotasi negatif. Stigma leksikal ini mendorong masyarakat menjauhi atau mencurigai gagasan kelompok sasaran.
 

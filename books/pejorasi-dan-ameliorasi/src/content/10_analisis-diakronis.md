@@ -48,7 +48,7 @@ Keterangan rumus:
 
 Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti aliran sungai. Saat pertama kali muncul di hulunya (naskah kuno), sebuah kata memiliki makna yang murni dan spesifik. Seiring mengalirnya waktu melewati berbagai lapisan peradaban, leksikon tersebut menyerap sedimen makna baru, bersinggungan dengan dialek lain, atau beralih fokus fungsi.
 
-#### Tiga Tahap Utama Pergeseran Makna:
+#### Tiga Tahap Utama Pergeseran Makna
 
 1. **Etimon (*Etymon*):** Bentuk dan makna asal yang menjadi landasan leksikal awal.
 2. **Pergeseran Primer:** Transformasi semantik akibat kontak budaya, perjumpaan teknologi baru, atau pergantian struktur sosial.
@@ -56,7 +56,7 @@ Perjalanan kata dari masa klasik menuju era modern dapat diibaratkan seperti ali
 
 > **Catatan Telaah:** Kajian diakronis memperlihatkan bahwa variasi penggunaan bahasa pada masa lalu dapat mengkristal menjadi kaidah baku di masa depan saat diterima secara konsisten oleh masyarakat tutur.
 
-### 3. Studi Kasus: Evolusi Makna Kata "Canggih"
+### 3. Evolusi Makna Kata "Canggih"
 
 Penerapan metode diakronis pada kata "canggih" memberikan gambaran nyata mengenai proses ameliorasi semantik:
 

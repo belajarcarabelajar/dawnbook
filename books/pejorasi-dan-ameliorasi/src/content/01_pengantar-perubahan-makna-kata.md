@@ -4,7 +4,7 @@ Perubahan makna kata mencerminkan evolusi peradaban manusia melalui pergeseran n
 
 Semantik sebagai cabang linguistik membedah bagaimana bahasa bekerja bukan sebagai struktur yang kaku, melainkan sebagai sistem dinamis yang terus bertransformasi seiring perkembangan masyarakat penuturnya.
 
-### Memahami Semantik: Fondasi Makna
+### Semantik sebagai Fondasi Makna
 
 Sebelum mendalami mekanisme pergeseran makna, pemahaman mengenai hakikat makna itu sendiri menjadi landasan utama. Semantik mengkaji relasi antara tanda kebahasaan (lambang) dengan konsep atau objek yang diwakilinya.
 
@@ -27,7 +27,7 @@ Kosakata dalam suatu bahasa bekerja menyerupai mata uang dalam sistem ekonomi. N
 * Kosakata yang mulanya berposisi netral atau berkonotasi rendah dapat terangkat status sosialnya menjadi kata yang terhormat.
 * Kosakata yang awalnya memiliki derajat tinggi atau sakral dapat mengalami penurunan derajat hingga dinilai kasar atau peyoratif dalam percakapan sehari-hari.
 
-### Komponen Utama: Nilai Rasa dan Konotasi
+### Nilai Rasa dan Konotasi
 
 Kajian semantik membedakan antara makna leksikal yang tercantum secara objektif dalam kamus (**denotasi**) dan muatan afektif tambahan yang menyertai kata tersebut (**konotasi** atau nilai rasa).
 
