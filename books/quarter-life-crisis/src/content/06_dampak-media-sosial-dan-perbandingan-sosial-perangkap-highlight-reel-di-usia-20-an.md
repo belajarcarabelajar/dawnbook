@@ -13,7 +13,7 @@ Ada dua jenis social comparison:
 1. **Upward Social Comparison:** Membandingkan diri dengan mereka yang kita anggap "lebih baik". Di media sosial, ini terjadi 24/7. Hal ini memicu perasaan tidak mampu dan rendah diri.
 2. **Downward Social Comparison:** Membandingkan diri dengan mereka yang kita anggap "kurang beruntung". Meski bisa meningkatkan rasa syukur sesaat, ini bukanlah fondasi yang sehat untuk harga diri.
 
-**Analogi: On-Stage vs. Backstage**
+**Analogi On-Stage vs. Backstage**
 
 > Bayangkan hidupmu adalah sebuah teater. Kamu sangat memahami kekacauan di **backstage** kamu: kabel yang berantakan, aktor yang lupa naskah, dan kostum yang robek. Namun, saat kamu melihat media sosial orang lain, kamu hanya melihat **pertunjukan on-stage** mereka yang sudah dipoles, diberi pencahayaan sempurna, dan dilatih berbulan-bulan. Menilai backstage-mu dengan pertunjukan on-stage orang lain adalah perbandingan yang tidak adil.
 
