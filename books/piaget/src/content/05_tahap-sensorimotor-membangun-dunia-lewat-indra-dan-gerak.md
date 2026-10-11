@@ -1,16 +1,16 @@
-## Tahap Sensorimotor (Lahir - 2 Tahun): Membangun Dunia Lewat Indra dan Gerak
+## Tahap Sensorimotor (Lahir - 2 Tahun)
 
 Bayangkan kamu terbangun di planet asing tanpa peta, bahasa, atau pemahaman cara kerja benda. Itulah kondisi bayi yang baru lahir.
 
 Pada tahap **Sensorimotor**, bayi tidak "berpikir" menggunakan simbol atau bahasa. Mereka memahami dunia lewat koordinasi pengalaman sensorik (melihat, mendengar) dengan tindakan motorik (menggapai, mengisap). Pengetahuan mereka benar-benar hasil dari aksi fisik.
 
-## 1\. Inti Sensorimotor: Belajar Melalui Aksi
+## 1\. Belajar Melalui Aksi
 
 Istilah "Sensorimotor" berasal dari kata **Sensori** (indra) dan **Motorik** (gerakan). Di dua tahun pertama kehidupan, kecerdasan anak murni berbentuk tindakan praktis.
 
 > **Insight:** Bagi bayi, "memahami" bola bukan berarti tahu kata "bola", tapi tahu benda itu bisa digenggam, diputar, dan membal kalau dijatuhkan.
 
-### Analogi: Penjelajah Tanpa Kompas
+### Penjelajah Tanpa Kompas
 
 Bayi seperti penjelajah di hutan tanpa buku panduan. Satu-satunya cara tahu buah itu manis adalah memakannya. Tahu duri tajam dengan menyentuhnya. Pemahaman mereka sepenuhnya bertumpu pada ujung jari dan lidah.
 
@@ -55,7 +55,7 @@ Anak mulai mengembangkan kemampuan untuk menggunakan simbol mental sederhana dan
 
 - **Contoh:** Seorang anak melihat orang dewasa membuka kotak, lalu beberapa jam kemudian ia mencoba meniru gerakan tersebut dengan tangannya sendiri (imitasi tertunda).
 
-## 3\. Pencapaian Terbesar: Objek Permanen
+## 3\. Objek Permanen
 
 Pencapaian terbesar dalam tahap ini adalah pemahaman tentang **Objek Permanen**, yaitu kesadaran bahwa benda tetap ada meski sudah tidak terlihat, terdengar, atau disentuh.
 

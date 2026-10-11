@@ -2,7 +2,7 @@ Jean Piaget memang raksasa dalam dunia psikologi perkembangan. Namun, tidak ada 
 
 Bagian ini membahas sisi kritis teori Piaget. Kita juga akan melihat cara pemikir **Neo-Piagetian** memperbarui "perangkat lunak" teori ini agar sesuai dengan penemuan baru.
 
-## 1\. Kritik Terhadap Teori Piaget: Mengapa Tidak Selalu Akurat?
+## 1\. Mengapa Teori Piaget Tidak Selalu Akurat?
 
 Mengkritik Piaget bukan berarti membuang teorinya sama sekali. Tujuannya adalah penyempurnaan. Piaget itu ibarat penemu mobil pertama. Mobil ciptaannya memang luar biasa, tapi ilmuwan generasi selanjutnya tahu cara membuat mobil itu melaju lebih cepat. Atau mungkin, butuh jenis bahan bakar yang berbeda.
 
@@ -26,28 +26,28 @@ Bagi penganut pendekatan sosiokultural (seperti Lev Vygotsky), ini adalah titik 
 - **Mengabaikan Interaksi:** Piaget lupa menghitung faktor bimbingan orang dewasa. Padahal bahasa, interaksi sosial, dan norma budaya sangat menentukan seberapa cepat anak berpikir.
 - **Bias Barat:** Sampel penelitian Piaget berpusat pada anak-anak Eropa Barat yang bersekolah. Kalau kita ke budaya non-Barat, urutan perkembangan kognitifnya bisa sangat berbeda, menyesuaikan dengan nilai-nilai lokal masyarakat.
 
-## 2\. Perspektif Neo-Piagetian: Upgrade Menuju Modernitas
+## 2\. Perspektif Neo-Piagetian
 
 Tokoh-tokoh **Neo-Piagetian** seperti Robbie Case, Juan Pascual-Leone, dan Kurt Fischer mengambil jalan tengah. Mereka tetap memakai struktur kuat buatan Piaget, tapi menyuntikkan konsep **Psikologi Kognitif** dan **Pemrosesan Informasi** ke dalamnya.
 
-### Konsep Kunci: Kapasitas Memori Kerja
+### Kapasitas Memori Kerja
 
 Piaget biasanya sibuk mencari tahu *apa* yang bisa dilakukan anak. Kelompok Neo-Piagetian lebih penasaran *mengapa* anak bisa melakukannya. Jawaban mereka adalah peningkatan kapasitas **Memori Kerja (Working Memory)**.
 
 > **Analogi Komputer:** Anggap otak anak adalah komputer. Piaget hanya peduli soal *update* Sistem Operasi (OS). Di sisi lain, Neo-Piagetian sadar OS baru percuma kalau "RAM"-nya tidak di-*upgrade*. Semakin bertambah usia, RAM atau memori kerja anak makin besar. Mereka pun sanggup memproses banyak informasi sekaligus.
 
-### Kontribusi Robbie Case: Struktur Konseptual Pusat
+### Robbie Case dan Struktur Konseptual Pusat
 
 Robbie Case melihat anak-anak membangun struktur mental di area yang spesifik saja, entah itu angka, pemahaman ruang, atau cerita sosial. Ada dua motor penggeraknya:
 
 1. **Efisiensi Pemrosesan:** Sering berlatih menghitung membuat otak bekerja lebih enteng. Energi mental yang terkuras jauh lebih sedikit.
 2. **Otomatisasi:** Karena sudah otomatis, ada ruang kosong di memori kerja. Sisa memori ini bisa dipakai untuk memahami hal-hal yang lebih rumit.
 
-### Kontribusi Kurt Fischer: Teori Keterampilan Dinamis
+### Teori Keterampilan Dinamis Kurt Fischer
 
 Kurt Fischer menyoroti pentingnya konteks. Menurutnya, kemampuan anak tidak datar begitu saja. Ada saatnya mereka berada di "tingkat optimal" ketika dibantu orang lain. Namun saat dilepas sendiri, kemampuannya turun ke "tingkat fungsional".
 
-## 3\. Perbandingan Singkat: Piaget vs Neo-Piagetian
+## 3\. Piaget vs Neo-Piagetian
 
 | Aspek | Pandangan Piaget | Pandangan Neo-Piagetian |
 | --- | --- | --- |

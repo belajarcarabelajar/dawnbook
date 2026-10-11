@@ -57,11 +57,11 @@ Lingkungan fisik harus menyediakan tantangan yang sesuai dengan tingkat perkemba
 - **Masa Kanak-kanak Awal (Praoperasional):** Alat-alat permainan simbolik (seperti telepon mainan atau balok kayu yang dianggap sebagai mobil) membantu perkembangan kemampuan representasi mental.
 - **Masa Sekolah Dasar (Operasional Konkret):** Alat peraga seperti sempoa, timbangan, atau eksperimen sains sederhana (mencampur warna) sangat penting karena mereka belum bisa berpikir sepenuhnya abstrak tanpa bantuan benda nyata.
 
-## 5\. Aplikasi Dunia Nyata: Lingkungan Pembelajaran yang Kaya
+## 5\. Lingkungan Pembelajaran yang Kaya
 
 Bagaimana kita menerapkan pemahaman tentang peran lingkungan fisik ini dalam pendidikan dan pengasuhan?
 
-### Skenario: Belajar Tentang Volume
+### Belajar Tentang Volume
 
 Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang menerapkan prinsip Piaget akan:
 
@@ -74,7 +74,7 @@ Alih-alih memberikan rumus $V = p \times l \times t$ di papan tulis, guru yang m
 - Siswa mengalami "kejutan" fisik yang memicu akomodasi.
 - Pengetahuan tersimpan lebih lama karena dibangun dari pengalaman langsung, bukan hafalan.
 
-## 6\. Analogi: Arsitek dan Material Bangunan
+## 6\. Arsitek dan Material Bangunan
 
 Bayangkan perkembangan kognitif anak adalah proses membangun sebuah gedung (kecerdasan).
 

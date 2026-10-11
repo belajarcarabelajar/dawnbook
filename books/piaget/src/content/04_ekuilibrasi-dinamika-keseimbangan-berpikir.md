@@ -1,4 +1,4 @@
-## Ekuilibrasi: Dinamika Keseimbangan Berpikir
+## Ekuilibrasi
 
 Pernah bingung belajar sesuatu yang benar-benar baru? Rasanya otak seperti mendidih. Sampai akhirnya, *klik!* Semua mendadak masuk akal. Piaget menyebut momen ajaib itu **ekuilibrasi**.
 
@@ -24,7 +24,7 @@ Pola ekuilibrasi menyerupai spiral yang makin naik, makin rumit:
 	- Jika mentok, bongkar laci lama atau bikin laci baru (**Akomodasi**).
 5. **Keseimbangan Baru (New Equilibrium):** Pikiran direorganisasi. Tingkat pemahamannya sekarang jauh lebih stabil dan kompleks.
 
-### 3\. Analogi: Termostat Kognitif
+### 3\. Termostat Kognitif
 
 Bayangkan isi kepala kita berfungsi macam **termostat AC**.
 
@@ -48,7 +48,7 @@ $$
 
 *Coba pikir: Pernah ketemu orang super keras kepala (overdosis asimilasi)? Atau orang yang plin-plan nggak punya prinsip (overdosis akomodasi)? Menurut kacamata Piaget, mesin ekuilibrasi di otak mereka sedang rusak atau macet.*
 
-### 5\. Skenario: Mengapa Langit Berwarna Biru?
+### 5\. Mengapa Langit Berwarna Biru?
 
 Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
@@ -62,7 +62,7 @@ Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
 **Tahap 5: New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
 
-### 6\. Aplikasi Praktis: Pentingnya "Kebingungan"
+### 6\. Pentingnya "Kebingungan"
 
 Bagi dunia pendidik dan pengasuhan, ekuilibrasi membawa satu pesan frontal: **sedikit kebingungan itu menyehatkan.**
 

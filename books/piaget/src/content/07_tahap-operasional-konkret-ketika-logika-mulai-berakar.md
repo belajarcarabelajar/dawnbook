@@ -1,14 +1,14 @@
-## Tahap Operasional Konkret: Ketika Logika Mulai Berakar (Usia 7 - 11 Tahun)
+## Tahap Operasional Konkret (Usia 7 - 11 Tahun)
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 
 Anak usia 7-11 tahun mengalami semacam revolusi di otak mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**,tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
 
-## 1. Karakteristik Utama: Dari Intuisi ke Logika Konkret
+## 1. Dari Intuisi ke Logika Konkret
 
 Kuncinya ada di kata **"Konkret"**. Iya, mereka memang udah bisa mikir logis, tapi logikanya masih nempel erat sama benda fisik yang kelihatan, bisa dipegang, dan diutak-atik. Kalau dikasih konsep abstrak atau hipotesis yang murni di angan-angan, mereka masih kewalahan.
 
-### Analogi: "Si Detektif Cilik"
+### "Si Detektif Cilik"
 
 Coba bayangkan mereka ini kayak detektif pemula. Nggak cuma modal tebak-tebak buah manggis atau firasat doang, mereka udah mulai cari bukti, ngukur ini-itu, dan nyambungin petunjuk. Tapi ya itu tadi, detektif cilik ini cuma bisa bongkar kasus kalau barang buktinya beneran ada di depan mata. Suruh mereka mikirin kasus khayalan tanpa bukti fisik? Dijamin mentok.
 
@@ -52,14 +52,14 @@ Salah satu lompatan terbesarnya adalah kemampuan **Desentrasi**.
 
 Kalau dulu si anak cuma fokus ke "tingginya air", sekarang mereka ngeh juga soal "lebarnya wadah". Efeknya juga merembet ke ranah sosial. Mereka perlahan sadar kalau orang lain itu punya sudut pandang, perasaan, dan pikiran yang beda. Sifat egosentrisnya mulai luntur.
 
-## 4. Batasan: Mengapa Masih Disebut "Konkret"?
+## 4. Mengapa Masih Disebut "Konkret"?
 
 Biarpun udah logis, cara mikirnya masih mentok di realitas fisik. Coba perhatiin bedanya:
 
 - **Konkret:** "Kalau Budi lebih tinggi dari Ani, terus Ani lebih tinggi dari Caca, siapa yang paling tinggi?" (Kadang mereka perlu coret-coret atau ngebayangin fisik orangnya langsung biar yakin).
 - **Abstrak:** Kasih mereka rumus murni kayak $A > B$ and $B > C$ tanpa wujud nyata. Bingung deh mereka. Logika "Gimana kalau..." yang nggak ada fisiknya masih susah banget buat dicerna.
 
-## 5. Aplikasi Dunia Nyata: Belajar Melalui Manipulasi
+## 5. Belajar Melalui Manipulasi
 
 Terus, gimana praktiknya buat ngajar atau ngasuh anak di usia ini?
 
