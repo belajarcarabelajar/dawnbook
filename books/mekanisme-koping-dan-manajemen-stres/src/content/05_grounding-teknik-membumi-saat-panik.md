@@ -74,7 +74,7 @@ Bayangkan kamu sedang berada di perahu kecil di tengah lautan. Tiba-tiba badai p
 
 ### Panik Sebelum Presentasi
 
-**Skenario: Panik Sebelum Presentasi**  
+**Skenario Panik Sebelum Presentasi**  
 Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jantungnya berdebar kencang, telapak tangannya dingin, dan kepalanya terasa pening. Dunia di sekitarnya seolah-olah berputar.
 
 **Langkah Grounding yang Dilakukan Budi:**
