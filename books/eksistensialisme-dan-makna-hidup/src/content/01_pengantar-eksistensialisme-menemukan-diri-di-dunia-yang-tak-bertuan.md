@@ -1,4 +1,4 @@
-## Pengantar Eksistensialisme: Menemukan Diri di Dunia yang Tak Bertuan
+## Pengantar Eksistensialisme
 
 Pernahkah kamu terbangun di tengah malam dan bertanya-tanya, *"Apa sebenarnya tujuan saya ada di sini?"* atau *"Apakah hidup ini hanyalah rangkaian rutinitas tanpa makna yang lebih dalam?"* Jika ya, kamu tidak sendirian. Pertanyaan-pertanyaan ini adalah pintu gerbang menuju salah satu aliran filsafat yang paling berpengaruh dan personal dalam sejarah manusia: **Eksistensialisme**.
 
@@ -8,13 +8,13 @@ Secara sederhana, **Eksistensialisme** adalah tradisi filsafat yang berfokus pad
 
 > "Eksistensialisme tidak berputar di lingkup teori akademis kelas saja, tetapi menjelma menjadi seruan untuk hidup secara autentik di tengah dunia yang kerap terasa tidak masuk akal."
 
-### Analogi: Resep Masakan vs. Kanvas Kosong
+### Resep Masakan vs. Kanvas Kosong
 
 Bayangkan sebuah pisau dapur. Sebelum pisau itu dibuat, sang pengrajin sudah memiliki tujuan (esensi) di pikirannya: pisau itu harus tajam dan bisa memotong. Di sini, **esensi mendahului eksistensi**.
 
 Namun, bagi kaum eksistensialis, manusia adalah pengecualian. Kita lahir tanpa "buku petunjuk" atau tujuan yang sudah ditentukan oleh alam semesta. Kita ada terlebih dahulu (**eksistensi**), baru kemudian kita mendefinisikan siapa kita melalui pilihan-pilihan kita (**esensi**). Kita adalah **kanvas kosong** yang harus melukis gambarnya sendiri.
 
-## 2. Sejarah Kemunculan: Kelahiran dari Kegelisahan
+## 2. Sejarah Kemunculan
 
 Eksistensialisme tidak lahir di ruang hampa. Ia muncul sebagai reaksi terhadap perubahan besar dalam sejarah manusia.
 

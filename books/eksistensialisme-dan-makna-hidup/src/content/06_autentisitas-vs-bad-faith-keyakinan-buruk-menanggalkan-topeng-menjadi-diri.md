@@ -1,4 +1,4 @@
-## Autentisitas vs Bad Faith (Keyakinan Buruk): Menanggalkan Topeng, Menjadi Diri
+## Autentisitas vs Bad Faith (Keyakinan Buruk)
 
 Pernahkah kamu merasa bahwa hidup yang kamu jalani sekarang hanyalah sebuah pertunjukan? Bahwa kamu sedang memainkan peran sebagai "anak yang berbakti", "karyawan yang teladan", atau "pasangan yang sempurna", sementara di dalam hati, kamu merasa asing dengan semua itu?
 
@@ -10,7 +10,7 @@ Konsep *Bad Faith* dipopulerkan oleh Jean-Paul Sartre. Secara sederhana, *bad fa
 
 Kita melakukan *bad faith* karena kebebasan itu menakutkan. Mengakui bahwa kita bebas berarti mengakui bahwa kita sepenuhnya bertanggung jawab atas kegagalan kita. Untuk menghindari rasa cemas ini, kita sering berpura-pura bahwa kita adalah sebuah "objek" yang sudah memiliki takdir atau aturan tetap.
 
-#### Analogi Terkenal: Pelayan Kafe Sartre
+#### Pelayan Kafe Sartre
 
 Sartre memberikan contoh tentang seorang pelayan di sebuah kafe. Pelayan ini bergerak dengan cara yang sedikit terlalu kaku, terlalu sopan, dan terlalu presisi. Dia seolah-olah sedang "bermain peran" menjadi pelayan.
 

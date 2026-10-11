@@ -1,10 +1,10 @@
-## Relasi Antarmanusia: Antara Konflik dan Kehadiran
+## Relasi Antarmanusia
 
 Dalam perjalanan memahami eksistensialisme, kita sering terjebak pada pemikiran bahwa filosofi ini hanya tentang "diri sendiri": kebebasan individu, pilihan pribadi, dan kecemasan internal. Namun, manusia tidak hidup di ruang hampa. Kita adalah makhluk sosial yang dilemparkan ke dunia yang sudah penuh dengan orang lain.
 
 Bagian ini akan mengeksplorasi dinamika yang rumit, terkadang menyakitkan, namun tak terhindarkan dalam hubungan sosial. Kita akan membedah mengapa kehadiran orang lain bisa terasa seperti ancaman bagi kebebasan kita, namun di saat yang sama, menjadi satu-satunya cermin untuk mengenali siapa diri kita sebenarnya.
 
-## 1. "Tatapan" (The Look): Saat Subjek Menjadi Objek
+## 1. "Tatapan" (The Look)
 
 Jean-Paul Sartre, salah satu tokoh utama eksistensialisme, memperkenalkan konsep yang sangat kuat bernama **"The Look" (Le Regard)**. Untuk memahaminya, mari kita bayangkan sebuah skenario:
 
@@ -20,7 +20,7 @@ Ketika orang lain memandang kita, mereka "membekukan" kebebasan kita. Mereka mem
 
 Perubahan perilaku saat seseorang yang dihormati atau dibenci memasuki ruangan menunjukkan betapa besarnya kendali orang lain terhadap identitas kita.
 
-## 2. Membedah Makna: "Neraka adalah Orang Lain"
+## 2. "Neraka adalah Orang Lain"
 
 Kutipan Sartre yang paling terkenal, *"L'enfer, c'est les autres"* (Neraka adalah orang lain), sering kali disalahpahami sebagai ungkapan kebencian terhadap orang lain atau sifat antisosial. Namun, maknanya jauh lebih mendalam.
 
@@ -28,7 +28,7 @@ Sartre tidak bermaksud mengatakan bahwa hubungan sosial selalu buruk. Ia ingin m
 
 > **Sudut Pandang Utama:** Istilah "neraka" di sini tidak merujuk pada kejahatan orang lain. Ini menggambarkan kondisi ketika kita membiarkan diri menjadi **tawanan** dari persepsi mereka. Saat hubungan sosial memburuk, pandangan mereka otomatis menjelma menjadi penjara bagi kesadaran kita.
 
-## 3. Pencarian Pengakuan: Perjuangan Antar Kesadaran
+## 3. Pencarian Pengakuan
 
 Mengapa kita begitu peduli dengan apa yang dipikirkan orang lain? Eksistensialisme melihat ini sebagai **Pencarian Pengakuan** (*Struggle for Recognition*).
 
@@ -40,7 +40,7 @@ Jika $A$ ingin diakui sebagai manusia yang bebas, ia harus mendapatkan pengakuan
 
 Inilah paradox hubungan manusia: **Kita ingin dicintai (diakui sebagai subjek yang berharga) oleh seseorang yang kita kuasai (kita jadikan objek).** Namun, jika orang tersebut sudah kita kuasai sepenuhnya, cintanya tidak lagi memiliki makna.
 
-## 4. Kehadiran dan Intersubjektivitas: Apakah Ada Jalan Keluar?
+## 4. Kehadiran dan Intersubjektivitas
 
 Meskipun Sartre menekankan konflik, filsuf eksistensial lain seperti **Gabriel Marcel** dan **Martin Buber** menawarkan sudut pandang yang lebih optimis tentang "Kehadiran" (*Presence*).
 
@@ -48,7 +48,7 @@ Hubungan pertama adalah **I-It (Aku-Itu)**, yaitu kecenderungan memperlakukan or
 
 Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih membuka diri untuk menyambut kehadiran mereka secara tulus.
 
-## Real-World Application: Dinamika Media Sosial
+## Dinamika Media Sosial
 
 Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi sangat relevan.
 
@@ -56,7 +56,7 @@ Sebagai contoh, perhatikan dinamika Instagram. Saat mengunggah foto, kamu sedang
 
 Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah menyadari objektifikasi tersebut. Sadarilah bahwa profilmu hanyalah representasi objek, bukan dirimu yang sesungguhnya. Selanjutnya, mulailah membangun kehadiran autentik dengan mengalihkan energi dari pencarian pengakuan massa (I-It) menuju hubungan mendalam bersama segelintir orang yang menghargai subjektivitasmu (I-Thou).
 
-## Kesimpulan: Menemukan Keseimbangan
+## Menemukan Keseimbangan
 
 Relasi antarmanusia dalam pandangan eksistensialisme adalah tarian antara ketegangan dan kebutuhan. Kita akan selalu mengalami konflik karena setiap orang adalah subjek yang merdeka. Namun, melalui pengakuan yang tulus dan kesadaran akan tanggung jawab sosial, kita dapat mengubah "tatapan" yang menghakimi menjadi "kehadiran" yang menguatkan.
 

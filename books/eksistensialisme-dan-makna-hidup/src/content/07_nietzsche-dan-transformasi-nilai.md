@@ -2,7 +2,7 @@
 
 Friedrich Nietzsche adalah seorang filsuf sekaligus pembedah kebudayaan yang menggunakan "palu" sebagai alat berfilsafatnya. Jika bagian sebelumnya membahas bagaimana eksistensialisme berakar dari krisis nilai, di sini kita akan masuk ke jantung badai tersebut. Nietzsche tidak hanya mengamati runtuhnya nilai-nilai lama, ia merayakannya sebagai peluang bagi manusia untuk mencapai potensi tertingginya.
 
-## 1. "Tuhan Telah Mati": Sebuah Diagnosis Zaman
+## 1. "Tuhan Telah Mati"
 
 Banyak yang menyalahartikan kutipan paling terkenal Nietzsche, *Gott ist tot* (Tuhan telah mati), sebagai pernyataan ateistik yang sombong. Namun, bagi Nietzsche, ini adalah sebuah diagnosis sosiologis dan budaya.
 
@@ -15,7 +15,7 @@ Nietzsche melihat bahwa di akhir abad ke-19, ilmu pengetahuan dan rasionalitas t
 **Analogi: Runtuhnya Mercusuar**
 Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusuar (Tuhan/Agama). Tiba-tiba, lampu mercusuar itu padam. Kapal tersebut masih mengapung, tetapi ia kehilangan arah kompas absolutnya. Inilah kondisi manusia modern: kita bebas, tetapi kita tersesat di tengah samudera tanpa batas.
 
-## 2. Jurang Nihilisme: Bahaya dan Peluang
+## 2. Jurang Nihilisme
 
 Runtuhnya nilai-nilai absolut membawa manusia ke hadapan **Nihilisme**: keyakinan bahwa hidup tidak memiliki makna, tujuan, atau nilai intrinsik. Nietzsche membagi nihilisme menjadi dua bentuk:
 
@@ -33,7 +33,7 @@ Untuk keluar dari lubang nihilisme, Nietzsche menawarkan konsep revaluasi nilai.
 
 Nietzsche menyerukan kita untuk menjadi "Filsuf dengan Palu" guna menghancurkan berhala-berhala lama (ideologi yang membatasi potensi manusia) dan menciptakan nilai baru yang berasal dari dalam diri sendiri, bukan dari luar.
 
-## 4. Menjadi *Übermensch*: Manusia Unggul
+## 4. Menjadi *Übermensch*
 
 Siapakah yang mampu menciptakan nilai-nilai baru di atas reruntuhan tradisi? Nietzsche menyebutnya sebagai ***Übermensch*** (Manusia Unggul atau *Overman*).
 
@@ -45,11 +45,11 @@ Siapakah yang mampu menciptakan nilai-nilai baru di atas reruntuhan tradisi? Nie
 | **Tahap 2** | **Singa** | Memberontak melawan otoritas, menghancurkan nilai lama dengan teriakan "Aku Mau". Ini adalah tahap kebebasan *dari* sesuatu. |
 | **Tahap 3** | **Anak Kecil** | Tahap penciptaan. Simbol kepolosan, awal yang baru, dan permainan. Ia menciptakan nilai sendiri tanpa beban masa lalu. |
 
-## 5. Aplikasi Nyata: Transformasi Nilai di Era Modern
+## 5. Transformasi Nilai di Era Modern
 
 Bagaimana konsep Nietzsche yang radikal ini bisa kita terapkan dalam kehidupan sehari-hari?
 
-### Skenario: Karier dan Ekspektasi Sosial
+### Karier dan Ekspektasi Sosial
 
 Bayangkan seseorang bernama Budi. Selama 10 tahun, Budi bekerja sebagai akuntan hanya karena orang tuanya mengatakan itu adalah "pekerjaan yang aman" (Tahap Unta). Budi merasa hampa.
 

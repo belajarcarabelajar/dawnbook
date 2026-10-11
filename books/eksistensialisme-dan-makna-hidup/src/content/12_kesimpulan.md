@@ -4,7 +4,7 @@ Kita telah menempuh perjalanan panjang melalui labirin pemikiran eksistensialism
 
 Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi tak ternilai harganya.
 
-### 1. Keindahan dalam Keterbatasan: Metafora Jam Pasir
+### 1. Keindahan dalam Keterbatasan
 
 Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan keindahan aliran pasir tersebut saat ia melewati celah sempit: **momen saat ini.**
 
@@ -35,7 +35,7 @@ Merayakan hidup yang fana berarti berhenti hidup dalam mode "autopilot." Ini ada
 2. **Kehadiran Otentik:** Berinteraksi dan terlibat secara jujur dengan orang lain, melepaskan topeng sosial yang sering kali membelenggu diri.
 3. **Amor Fati:** Konsep dari Nietzsche untuk mencintai takdir. Kita diajak untuk menerima kenyataan hidup secara utuh dan merangkul seluruh penderitaan serta tantangan yang menyertainya.
 
-### 4. Real-World Application: Strategi "Eksistensialisme Harian"
+### 4. Strategi "Eksistensialisme Harian"
 
 Bagaimana menerapkan rangkuman filsafat ini dalam kehidupan modern yang serba cepat?
 
@@ -45,7 +45,7 @@ Bagaimana menerapkan rangkuman filsafat ini dalam kehidupan modern yang serba ce
 | **Rutinitas Membosankan** | Menjalani hari demi hari tanpa tujuan, menunggu akhir pekan. | Menyadari bahwa hari ini adalah bagian dari waktu yang fana; mencari makna kecil dalam interaksi atau karya. |
 | **Kritik Sosial** | Berusaha keras menyesuaikan diri agar diterima lingkungan. | Menyadari bahwa "Neraka adalah orang lain" jika kita membiarkan mereka mendefinisikan esensi kita. |
 
-#### Skenario Nyata: Menghadapi Pilihan Sulit
+#### Menghadapi Pilihan Sulit
 
 Bayangkan kamu harus memilih antara pekerjaan yang stabil tapi membosankan, atau mengejar mimpi yang berisiko tinggi.
 
