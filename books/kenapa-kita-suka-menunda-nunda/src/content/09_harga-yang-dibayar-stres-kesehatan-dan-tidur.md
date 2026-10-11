@@ -1,4 +1,4 @@
-## Harga yang Dibayar: Stres, Kesehatan, dan Tidur
+## Stres, Kesehatan, dan Tidur sebagai Harga yang Dibayar
 
 Bayangkan seorang mahasiswa bernama Raka (tokoh rekaan, hanya untuk ilustrasi). Minggu kedua semester, tugas esai baru diumumkan dan tenggatnya masih jauh. Raka santai. Ia tidur cukup, sempat ikut futsal, dan merasa hidupnya ringan. Teman-temannya yang sudah mulai mencicil terlihat sedikit tegang, dan ia diam-diam merasa lebih pintar mengatur hidup.
 

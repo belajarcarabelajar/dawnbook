@@ -1,4 +1,4 @@
-## Mengikat Diri: Deadline dan Rencana Jika-Maka
+## Mengikat Diri dengan Deadline dan Rencana Jika-Maka
 
 Kapan terakhir kali sebuah tenggat membuatmu bekerja? Mungkin laporan yang baru terbuka malam sebelum dikumpulkan. Atau kamar yang akhirnya dibereskan lima belas menit sebelum tamu datang. Tugas itu sudah ada berhari-hari, dan tiba-tiba kamu bisa mengerjakannya dengan fokus yang aneh. Tugasnya tidak berubah. Yang berubah hanya jaraknya.
 
@@ -28,7 +28,7 @@ Bagian ini adalah saran dari penulis buku ini, bukan temuan penelitian. Tidak ad
 
 Satu catatan jujur: tenggat buatan sendiri hanya sekuat penegakannya. Kalau kamu bisa menggesernya tanpa konsekuensi apa pun, ia cepat berubah menjadi hiasan. Janji pada orang lain pun melemah bila orang itu tidak pernah menanyakannya. Pengikat yang baik adalah yang membuat menunda terasa lebih mahal daripada mengerjakan.
 
-### Rencana jika-maka: satu kalimat yang bekerja
+### Rencana jika-maka
 
 Pengikat luar punya keterbatasan: ia hanya menolong pada tugas yang sempat kamu pasangi tenggat. Cara kedua bekerja dari dalam dan jauh lebih murah. Gollwitzer (1999) menyebutnya *implementation intention*, atau rencana jika-maka. Bentuknya sederhana: "Whenever situation x arises, I will initiate goal-directed response y." Dalam bahasa kita: **jika** situasi tertentu terjadi, **maka** aku melakukan tindakan tertentu.
 

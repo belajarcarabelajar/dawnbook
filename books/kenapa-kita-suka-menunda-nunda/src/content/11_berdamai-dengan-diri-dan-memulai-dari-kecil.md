@@ -20,7 +20,7 @@ Untuk panduan praktis yang ringkas, ada buku Pychyl (2013), *Solving the Procras
 
 > Ilustrasi dari penulis, bukan temuan: bayangkan dua orang yang sama-sama menunda laporan. Yang pertama berkata, "Aku memang pemalas," lalu membuka media sosial supaya perasaan itu hilang. Yang kedua berkata, "Aku menunda lagi, dan itu tidak enak. Apa langkah terkecil yang bisa kulakukan sekarang?" Tugasnya sama, tetapi beban emosi yang harus dipikul sebelum mulai berbeda jauh.
 
-### Mulai dari kecil: protokol praktis
+### Protokol praktis memulai dari kecil
 
 Bagian ini **saran praktis dari penulis**, disusun dari bab-bab sebelumnya. Ia bukan temuan penelitian dan belum diuji sebagai satu paket. Anggap saja sebagai bahan percobaan yang boleh kamu ubah sesukamu.
 
