@@ -4,7 +4,7 @@ Setelah sel rambut vestibular berhasil mengubah gerakan mekanis menjadi sinyal l
 
 Dalam sistem vestibular, jalur transmisi ini dibentuk oleh **Saraf Vestibular**, yang merupakan bagian vestibular dari Saraf Kranial ke-VIII (*Nervus Vestibulocochlearis*). Bagian ini menghubungkan reseptor perifer di telinga dalam menuju nukleus vestibularis di batang otak.
 
-### 1. Neuron Bipolar: Jembatan Informasi Pertama
+### 1. Neuron Bipolar
 
 Saraf vestibular tersusun atas sel-sel saraf khusus bertipe **neuron bipolar**. Neuron ini memiliki dua percabangan utama:
 
@@ -33,7 +33,7 @@ Saraf vestibular tidak berjalan sebagai satu berkas tunggal yang seragam, melain
 
 **Relevansi Klinis Pembagian Cabang:** Kerusakan selektif pada salah satu cabang (misalnya akibat neuritis vestibularis superior) dapat memicu manifestasi klinis yang spesifik, seperti vertigo pada orientasi gerakan tertentu dengan fungsi organ otolit sakulus atau kanalis posterior yang tetap intak.
 
-### 3. Transmisi Bioelektrik: Bahasa Frekuensi
+### 3. Bahasa Frekuensi dalam Transmisi Bioelektrik
 
 Transmisi informasi dari telinga dalam ke otak dikodekan melalui **Frekuensi Tembakan Potensial Aksi** (*Action Potential Firing Rate*).
 
@@ -52,7 +52,7 @@ Saat kepala mengalami pergerakan atau akselerasi, frekuensi tembakan dasar akan 
 
 > **Refleksi Konseptual:** Mengapa sistem vestibular memerlukan sinyal tonik konstan saat kepala diam? Adanya frekuensi dasar memungkinkan sistem saraf mendeteksi perubahan dinamis ke dua arah secara simetris, baik peningkatan eksitasi maupun penurunan inhibisi. Mekanisme ini memberikan resolusi temporal dan sensitivitas yang jauh lebih tinggi dibandingkan sistem ambang yang hanya aktif saat timbul stimulus.
 
-### 4. Karakteristik Serat Saraf: Reguler vs. Irreguler
+### 4. Serat Saraf Reguler vs. Irreguler
 
 Serat aferen saraf vestibular diklasifikasikan menjadi dua populasi fungsional berdasarkan keteraturan interval antarpotensial aksi:
 
@@ -77,7 +77,7 @@ Lintasan anatomis saraf ini meliputi tiga zona penting:
 
 Di persimpangan batang otak ini, serat aferen primer memasuki **Kompleks Nukleus Vestibularis** untuk diproses dan didistribusikan ke sirkuit motorik mata, spinal, serta korteks serebri.
 
-### 6. Aplikasi Klinis: Neuroma Akustik (Vestibular Schwannoma)
+### 6. Neuroma Akustik (Vestibular Schwannoma)
 
 **Skenario Klinis:** Seorang pasien datang dengan keluhan instabilitas postural progresif, gangguan keseimbangan saat berjalan di tempat gelap, serta tinitus unilateral bertahap. Pemeriksaan MRI fosa posterior menunjukkan massa jinak homogen yang tumbuh pada selubung mielin saraf kranial ke-VIII di meatus akustikus internus.
 

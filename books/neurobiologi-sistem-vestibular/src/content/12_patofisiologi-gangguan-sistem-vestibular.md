@@ -4,7 +4,7 @@ Pernahkah seseorang turun dari komidi putar dan merasa dunia masih berputar mesk
 
 Setelah mempelajari bagaimana sistem vestibular bekerja secara normal, mulai dari deteksi rotasi di kanalis semisirkularis hingga integrasi di batang otak, sekarang kita akan mengeksplorasi apa yang terjadi ketika sistem yang presisi ini mengalami kegagalan fungsi.
 
-### 1. Vertigo: Ilusi Gerakan
+### 1. Vertigo
 
 **Vertigo** bukanlah sebuah penyakit, melainkan sebuah gejala. Secara neurobiologis, vertigo adalah manifestasi dari ketidakseimbangan (asimetri) sinyal saraf antara telinga kanan dan kiri, atau antara sistem vestibular perifer dan pusat.
 
@@ -20,11 +20,11 @@ Pada kondisi patologis, terjadi **asimetri tonik**:
 
 > **Analogi:** Kondisi ini serupa dengan mengendarai mobil saat roda kiri berputar lebih cepat dibandingkan roda kanan; meskipun kemudi dipegang lurus, kendaraan akan tetap membelok dengan sendirinya.
 
-### 2. Benign Paroxysmal Positional Vertigo (BPPV): "Batu" di Tempat yang Salah
+### 2. Benign Paroxysmal Positional Vertigo (BPPV)
 
 **BPPV** merupakan penyebab paling umum dari vertigo perifer. Kondisi ini memberikan gambaran jelas mengenai bagaimana gangguan mekanis sederhana dapat mengacaukan neurobiologi yang kompleks.
 
-#### Patogenesis: Otoconia yang Tersesat
+#### Patogenesis Otoconia yang Tersesat
 
 Sebagaimana telah dibahas pada pembahasan Organ Otolit, makula utrikulus mengandung kristal kalsium karbonat ($\text{CaCO}_3$) yang disebut **otoconia**.
 
@@ -35,11 +35,11 @@ Sebagaimana telah dibahas pada pembahasan Organ Otolit, makula utrikulus mengand
 
 > **Catatan Klinis:** Mengapa penderita BPPV umumnya hanya merasakan pusing selama 30-60 detik? Durasi tersebut merupakan rentang waktu yang dibutuhkan oleh partikel kristal untuk berhenti bergerak dan mengendap kembali di titik terendah kanal akibat tarikan gravitasi.
 
-### 3. Penyakit Meniere: Masalah Tekanan Hidrolik
+### 3. Tekanan Hidrolik pada Penyakit Meniere
 
 Jika BPPV merupakan persoalan "partikel", maka **Penyakit Meniere** adalah persoalan "tekanan cairan". Kondisi ini ditandai dengan triad gejala: vertigo episodik, tinnitus (telinga berdenging), dan gangguan pendengaran fluktuatif.
 
-#### Mekanisme: Endolymphatic Hydrops
+#### Endolymphatic Hydrops
 
 Kondisi ini disebabkan oleh akumulasi cairan endolimfe yang berlebihan di dalam labirin membran, yang dikenal sebagai **Hydrops Endolimfatik**.
 
@@ -57,7 +57,7 @@ Kondisi ini disebabkan oleh akumulasi cairan endolimfe yang berlebihan di dalam 
 | **Gejala Pendengaran** | Tidak ada | Tinnitus dan tuli fluktuatif | Biasanya tidak ada |
 | **Pemicu** | Perubahan posisi kepala | Spontan / Diet tinggi natrium | Spontan / Pasca-infeksi saluran napas |
 
-### Penerapan Klinis: Manuver Reposisi
+### Manuver Reposisi
 
 Pemahaman mendalam mengenai patofisiologi BPPV memungkinkan klinisi melakukan koreksi mekanis secara efektif tanpa bergantung pada terapi obat-obatan.
 

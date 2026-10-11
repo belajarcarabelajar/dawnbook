@@ -4,7 +4,7 @@ Pernahkah kita mencoba membaca pesan teks di ponsel saat sedang berjalan cepat a
 
 VOR adalah salah satu refleks tercepat dalam tubuh manusia. Fungsinya sangat spesifik: menghasilkan gerakan mata yang berlawanan arah dengan gerakan kepala untuk menjaga bayangan objek tetap stabil di pusat retina (**fovea**).
 
-## Analogi: Gimbal Biologis
+## Gimbal Biologis
 
 Bayangkan seorang sinematografer yang sedang merekam adegan aksi. Jika kamera dipegang langsung dengan tangan sambil berlari, hasil rekaman akan sangat goyang dan buram (*motion blur*). Untuk mengatasinya, sinematografer menggunakan **gimbal** atau **Steadicam** yang secara otomatis mengompensasi setiap guncangan tangan sehingga kamera tetap stabil.
 
@@ -23,19 +23,19 @@ Sistem visual kita sebenarnya cukup lambat. Jika kita hanya mengandalkan pemrose
 - **Latensi VOR:** Kurang dari 10 milidetik.
 - Hal ini dimungkinkan karena VOR menggunakan **Jalur Tiga Neuron (Three-Neuron Arc)** yang sangat efisien dan terhubung langsung dari sensor di telinga ke otot mata tanpa harus mampir ke korteks serebri yang kompleks.
 
-## Sirkuit Saraf: Jalur Tiga Neuron
+## Sirkuit Saraf Tiga Neuron
 
 Untuk memahami bagaimana VOR bekerja, mari kita bedah jalurnya saat kepala menoleh ke arah **kiri**. Agar pandangan tetap stabil, mata harus bergerak ke **kanan** dengan kecepatan yang sama.
 
-### 1. Neuron Pertama: Aferen Primer (Ganglion Scarpa)
+### 1. Aferen Primer (Ganglion Scarpa)
 
 Ketika kepala menoleh ke kiri, cairan endolymph di kanalis semisirkularis horizontal kiri menekan kupula dan mendepolarisasi sel rambut. Sinyal listrik ini dibawa oleh saraf kranial ke-VIII (Vestibulocochlear) menuju batang otak.
 
-### 2. Neuron Kedua: Nukleus Vestibularis
+### 2. Nukleus Vestibularis
 
 Sinyal tiba di **Nukleus Vestibularis Medialis** di medula/pons. Dari sini, neuron mengirimkan proyeksi (akson) yang menyilang ke sisi berlawanan (kontralateral) menuju **Nukleus Abducens** (Saraf VI).
 
-### 3. Neuron Ketiga: Neuron Motorik Okular
+### 3. Neuron Motorik Okular
 
 Nukleus Abducens memiliki dua tugas simultan:
 
@@ -61,9 +61,9 @@ $$
 
 Fase mengukur ketepatan waktu. Jika mata bergerak tepat saat kepala bergerak, maka fase berada pada 180 derajat (berlawanan sempurna).
 
-## Skenario Dunia Nyata: Memahami VOR dalam Aksi
+## VOR dalam Aksi
 
-### Kasus: Membaca di Dalam Bus
+### Membaca di Dalam Bus
 
 Bayangkan saat menumpangi bus yang melintasi jalanan berlubang. Kepala terhentak ke atas dan ke bawah secara tiba-tiba.
 
@@ -72,7 +72,7 @@ Bayangkan saat menumpangi bus yang melintasi jalanan berlubang. Kepala terhentak
 3. **Aksi:** Otot-otot rektus superior dan inferior mata bergerak secara otomatis untuk melawan arah hentakan bus.
 4. **Hasil:** Huruf-huruf di buku yang sedang dibaca tetap tajam, meskipun tubuh berguncang hebat.
 
-## Signifikansi Klinis: Bagaimana Dokter Menguji VOR?
+## Bagaimana Dokter Menguji VOR?
 
 Dalam dunia medis, integritas jalur VOR sangat penting untuk mendiagnosis gangguan keseimbangan.
 

@@ -1,10 +1,10 @@
-## Organ Otolit: Sakulus dan Utrikulus Sang Navigator Gravitasi
+## Organ Otolit Sakulus dan Utrikulus
 
 Pernahkah timbul pertanyaan bagaimana otak mengetahui tubuh sedang bergerak maju di dalam mobil yang gelap, atau bagaimana manusia bisa merasakan lift yang tiba-tiba bergerak naik meskipun tidak melihat ke luar? Jawabannya terletak pada dua struktur mungil namun luar biasa di telinga dalam: **Utrikulus** dan **Sakulus**, yang secara kolektif dikenal sebagai **Organ Otolit**.
 
 Jika kanalis semisirkularis berfungsi sebagai "giroskop" untuk mendeteksi rotasi, maka Organ Otolit adalah "akselerometer" dan "sensor gravitasi" biologis kita.
 
-### 1. Anatomi Makula: Jantung dari Organ Otolit
+### 1. Anatomi Makula
 
 Di dalam sakulus dan utrikulus terdapat area sensorik khusus yang disebut **makula**. Makula adalah sebuah lapisan epitel sensorik yang sangat sensitif. Makula dapat dianalogikan sebagai sebuah "karpet" sensorik yang mendeteksi setiap perubahan posisi kepala.
 
@@ -16,18 +16,18 @@ Struktur makula terdiri dari tiga komponen utama yang bekerja secara sinergis:
 
 > **Analogi Sederhana:** Bayangkan sebuah nampan berisi jeli (Membran Otolitik). Di atas jeli tersebut ditaburkan butiran pasir atau kerikil kecil (Otoconia). Di bawah jeli, terdapat ribuan sikat halus (Sel Rambut). Ketika nampan digerakkan secara tiba-tiba, berat dari kerikil akan menyebabkan jeli bergeser, yang kemudian membengkokkan sikat-sikat di bawahnya.
 
-#### Otoconia: "Batu Telinga" yang Penting
+#### Otoconia sebagai "Batu Telinga"
 
 Otoconia memberikan massa pada membran otolitik. Karena kristal kalsium karbonat ini lebih padat daripada cairan di sekitarnya (endolimf), struktur ini memiliki **inersia**. Artinya, otoconia cenderung mempertahankan posisinya saat terjadi gerakan, yang memungkinkan deteksi akselerasi yang sangat halus.
 
-### 2. Utrikulus vs. Sakulus: Perbedaan Orientasi
+### 2. Orientasi Utrikulus vs. Sakulus
 
 Meskipun keduanya memiliki struktur mikroskopis yang serupa, perbedaan utama antara utrikulus dan sakulus terletak pada **orientasi spasial** masing-masing. Perbedaan ini memungkinkan sistem saraf pusat untuk membedakan arah gerakan dalam ruang tiga dimensi.
 
 - **Utrikulus (Posisi Horizontal):** Makula utrikulus terletak hampir secara horizontal di dasar utrikulus. Struktur ini paling sensitif terhadap **akselerasi linear horizontal** (seperti saat mobil mulai melaju atau mengerem) dan **kemiringan kepala (tilt)** saat kepala berada dalam posisi tegak.
 - **Sakulus (Posisi Vertikal):** Makula sakulus terletak secara vertikal di dinding sakulus. Struktur ini dirancang untuk mendeteksi **akselerasi linear vertikal** (seperti naik-turunnya lift) dan posisi kepala terhadap gravitasi saat tubuh berbaring.
 
-### 3. Mekanisme Deteksi: Inersia dan Gravitasi
+### 3. Inersia dan Gravitasi
 
 Bagaimana sebenarnya organ ini mengubah gerakan fisik menjadi sinyal listrik? Proses ini melibatkan dua fenomena fisika utama:
 
@@ -59,14 +59,14 @@ Susunan ini memastikan bahwa gerakan apa pun akan merangsang beberapa sel rambut
 
 ### 5. Aplikasi Dunia Nyata dan Kasus Praktis
 
-#### Skenario: "The Elevator Effect"
+#### "The Elevator Effect"
 
 Pernahkah timbul sensasi seolah-olah berat badan bertambah saat lift tiba-tiba bergerak naik?
 
 - **Proses:** Saat lift melesat ke atas, inersia menyebabkan otoconia di **sakulus** menekan membran otolitik ke bawah lebih kuat.
 - **Hasil:** Sel rambut membengkok secara maksimal, mengirimkan sinyal "beban berat/akselerasi ke atas" ke otak. Sebaliknya, saat lift turun dengan cepat, timbul sensasi seolah-olah "melayang" karena tekanan otoconia pada sel rambut berkurang.
 
-#### Kasus Klinis: Perpindahan Otoconia (BPPV)
+#### Perpindahan Otoconia (BPPV)
 
 Meskipun pembahasan patofisiologi secara mendalam ada di bagian akhir, penting untuk mengetahui bahwa otoconia harus tetap berada di makula. Jika kristal ini terlepas dan masuk ke dalam kanalis semisirkularis, terjadilah kondisi yang disebut *Benign Paroxysmal Positional Vertigo* (BPPV). Pasien akan merasakan pusing berputar hebat hanya dengan mengubah posisi kepala, karena "batu" yang salah tempat tersebut memicu sinyal palsu bahwa kepala sedang berputar.
 
