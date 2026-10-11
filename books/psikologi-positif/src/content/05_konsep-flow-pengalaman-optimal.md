@@ -1,4 +1,4 @@
-## Konsep Flow: Pengalaman Optimal
+## Konsep Flow
 
 Pernahkah kamu tenggelam dalam suatu aktivitas (seperti menulis, bermain musik, atau menyusun kode program) lalu tiba-tiba menyadari bahwa beberapa jam telah berlalu tanpa terasa? Rasa lapar tidak lagi dihiraukan, suara bising di sekitar seakan memudar, dan jemarimu bergerak sendiri menyelesaikan tugas dengan presisi yang luar biasa.
 
@@ -34,7 +34,7 @@ Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan
 - **Kondisi Flow:** Terbentuk saat $C \approx S$ berada pada level yang cukup tinggi.
    $$\text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}$$
 
-#### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan:
+#### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan
 
 - **Apathy (Apati):** Tantangan rendah dan keterampilan rendah (contoh: menonton televisi tanpa minat).
 - **Relaxation (Relaksasi):** Tantangan rendah namun keterampilan tinggi (contoh: menyelesaikan pekerjaan administratif rutin yang sangat familier).
@@ -62,7 +62,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 3. **Batasi intervensi luar**: Otak membutuhkan waktu sekitar 15 hingga 20 menit untuk masuk ke dalam kondisi *flow*. Setiap dering atau notifikasi ponsel akan mereset proses adaptasi ini kembali ke titik awal.
 4. **Sesuaikan tingkat kesulitan secara berkala**: Tantangan yang terlalu mudah memicu kebosanan, sementara yang terlalu sulit memicu stres. Kuncinya adalah memecah tugas berat menjadi bagian kecil atau menaikkan standar kesulitan saat mulai terbiasa.
 
-### 5. Penerapan Praktis: Flow dalam Rekayasa Perangkat Lunak
+### 5. Flow dalam Rekayasa Perangkat Lunak
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 

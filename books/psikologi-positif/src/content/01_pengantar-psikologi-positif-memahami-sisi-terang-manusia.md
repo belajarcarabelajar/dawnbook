@@ -1,4 +1,4 @@
-# Pengantar Psikologi Positif: Memahami Sisi Terang Manusia
+# Pengantar Psikologi Positif
 
 Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita benar-benar berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
@@ -8,7 +8,7 @@ Selamat datang dalam perjalanan untuk memahami apa yang membuat hidup kita benar
 
 Secara sederhana, **Psikologi Positif adalah studi ilmiah tentang fungsi manusia yang optimal.** Ini adalah cabang psikologi yang fokus pada penemuan dan pengembangan faktor-faktor yang memungkinkan individu, komunitas, dan institusi untuk berkembang (*flourish*).
 
-### Analogi: Taman dan Gulma
+### Taman dan Gulma
 
 Bayangkan pikiran kita seperti sebuah taman.
 
@@ -16,7 +16,7 @@ Dalam analogi ini, psikologi tradisional berperan aktif mencabut gulma, seperti 
 
 Mencabut gulma memang penting agar tanaman tidak mati, tetapi taman yang indah tidak hanya tercipta dari ketiadaan gulma; ia membutuhkan usaha aktif untuk menumbuhkan keindahan.
 
-## 2. Pergeseran Paradigma: Dari "Sakit" ke "Sejahtera"
+## 2. Pergeseran Paradigma dari "Sakit" ke "Sejahtera"
 
 Untuk memahami mengapa psikologi positif muncul, kita perlu melihat sejarah singkat evolusi ilmu ini.
 
@@ -56,7 +56,7 @@ Menurut para ahli, fokus studi ini terbagi menjadi tiga tingkatan utama:
 - **Level Individual (Sifat Positif):** Menggali karakter personal, mulai dari kapasitas mencintai, keberanian, hingga ketekunan dan kebijaksanaan praktis.
 - **Level Kelompok (Institusi Positif):** Mengeksplorasi bagaimana lembaga sosial, seperti sekolah, tempat kerja, dan komunitas, bisa mendorong tanggung jawab sosial serta menciptakan lingkungan yang kondusif untuk tumbuh bersama.
 
-## 5. Miskonsepsi: Apa yang Bukan Psikologi Positif
+## 5. Apa yang Bukan Psikologi Positif
 
 Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Untuk meluruskannya, mari kita perhatikan batasan-batasan berikut:
 
@@ -64,7 +64,7 @@ Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara
 - **Berbeda dari Motivasi Instan:** Sebagai cabang ilmu ilmiah, seluruh teori di dalamnya didasarkan pada eksperimen, analisis statistik, dan penelitian empiris, bukan kalimat motivasi tanpa landasan ilmiah.
 - **Bukan Formula yang Seragam:** Apa yang membuat satu orang bahagia belum tentu berlaku bagi orang lain. Pendekatan ini memetakan pola-pola kesejahteraan umum sambil tetap menghormati keunikan konteks kehidupan setiap orang.
 
-## 6. Penerapan Nyata: Kasus di Tempat Kerja
+## 6. Dua Pendekatan Evaluasi Tahunan
 
 Sebagai gambaran pergeseran paradigma ini, mari kita bandingkan dua pendekatan evaluasi tahunan di kantor:
 

@@ -4,11 +4,11 @@ Selamat! Kamu telah mempelajari berbagai pilar teori dalam Psikologi Positif, mu
 
 Bagian ini dirancang untuk mengonversi teori menjadi tindakan nyata. Kita akan menelusuri bagaimana prinsip-prinsip ini bekerja di tiga ranah utama kehidupan: tempat kerja, dunia pendidikan, dan kesehatan fisik.
 
-## 1. Positive Psychology di Tempat Kerja: Dari Rutinitas Menuju Karya Nyata
+## 1. Positive Psychology di Tempat Kerja
 
 Banyak orang menganggap pekerjaan sebagai beban atau sarana mencari nafkah belaka. Namun, psikologi positif menawarkan perspektif berbeda melalui konsep **Job Crafting** dan **Positive Leadership**.
 
-### Job Crafting: Mendesain Ulang Peranmu
+### Job Crafting
 
 Bayangkan pekerjaanmu seperti tanah liat. Kamu bukan penerima bentuk yang pasif, tetapi pembuat bentuk itu sendiri. *Job crafting* adalah upaya proaktif menyesuaikan tugas dan hubungan kerja agar selaras dengan kekuatan karaktermu.
 
@@ -16,13 +16,13 @@ Bayangkan pekerjaanmu seperti tanah liat. Kamu bukan penerima bentuk yang pasif,
 - **Relational Crafting (Menyelaraskan Interaksi):** Menyesuaikan kualitas hubungan sosial di kantor. Contoh: Menginisiasi makan siang bersama untuk membangun kedekatan emosional yang lebih sehat.
 - **Cognitive Crafting (Menyelaraskan Sudut Pandang):** Mengubah cara memaknai pekerjaan. Contoh: Seorang petugas kebersihan rumah sakit melihat dirinya sebagai bagian vital dari kesembuhan pasien lewat sterilitas ruangan yang ia jaga, bukan cuma petugas penyapu lantai.
 
-### Skenario Dunia Nyata: Budaya Positive Feedback
+### Budaya Positive Feedback
 
 Sebagai contoh, sebuah perusahaan teknologi menerapkan analisis rasio **Losada**. Hasil riset menunjukkan bahwa tim dengan kinerja unggul memiliki rasio emosi positif terhadap emosi negatif sekitar $5:1$.
 
 > **Insight:** Untuk setiap satu kritik atau evaluasi negatif, berikan setidaknya lima bentuk apresiasi atau pengakuan terhadap keberhasilan kecil tim.
 
-## 2. Positive Education: Membangun Karakter, Bukan Sekadar Nilai
+## 2. Positive Education
 
 Dunia pendidikan tradisional kerap kali terlalu fokus pada upaya memperbaiki kelemahan siswa. Sebaliknya, **Positive Education** menggeser sudut pandang ini dengan fokus menumbuhkan kesejahteraan (*well-being*) sekaligus prestasi akademik secara beriringan.
 
@@ -39,7 +39,7 @@ Alih-alih bertanya, "Apa yang salah dengan nilai matematikamu?", pendidik yang m
 
 *Sebagai pendidik atau orang tua, bayangkan jika rapor anak tidak hanya berisi angka kognitif, tetapi juga laporan perkembangan keberanian, kejujuran, serta rasa syukurnya.*
 
-## 3. Psikologi Positif dan Kesehatan Fisik: Koneksi Pikiran-Tubuh
+## 3. Psikologi Positif dan Kesehatan Fisik
 
 Psikologi positif melampaui perasaan senang belaka. Ada bukti biologis konkret yang menunjukkan bahwa kondisi mental yang positif memengaruhi fungsi fisiologis tubuh kita.
 
@@ -56,11 +56,11 @@ Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol ($\tex
 - **Body Gratitude:** Menghargai apa yang mampu dilakukan oleh tubuhmu saat ini, seperti paru-paru yang membantumu bernapas lega, alih-alih terus mencemaskan kekurangan fisik.
 - **Mindful Movement:** Melakukan aktivitas fisik atau olahraga sebagai bentuk perayaan atas kekuatan tubuh untuk bergerak, bukan sebagai "hukuman" atas makanan yang kamu konsumsi.
 
-## Strategi Integrasi Harian: Panduan Praktis
+## Strategi Integrasi Harian
 
 Untuk membiasakan prinsip-prinsip ini dalam keseharianmu, kamu bisa menerapkan "Protokol Kesejahteraan" berikut:
 
-### A. Ritual Pagi: Set Intentions (Kognitif)
+### A. Set Intentions (Kognitif)
 
 Sebelum memulai hari atau membuka media sosial, tentukan satu kekuatan karakter yang ingin kamu gunakan sepanjang hari.
 
@@ -94,13 +94,13 @@ Praktikkan teknik ini saat merasa cemas atau tertekan untuk mengaktifkan sistem 
 2. Tahan napasmu selama **7 detik**.
 3. Hembuskan napas dengan kuat melalui mulut selama **8 detik**.
 
-## Real-World Application: Studi Kasus "Resiliensi di Masa Krisis"
+## Positivity Portals di Masa Krisis
 
 Di masa krisis kesehatan global, sebuah rumah sakit merintis program **"Positivity Portals"**. Mereka meluncurkan platform digital khusus agar tenaga medis dapat membagikan momen keberhasilan kecil atau pesan apresiasi dari para pasien yang sembuh.
 
 **Dampaknya:** Meskipun beban kerja fisik sangat berat, tingkat kejenuhan kerja (*burnout*) menurun drastis. Langkah ini membuktikan bahwa meskipun situasi luar tidak bisa diubah seketika, penguatan *internal resources* atau sumber daya batin tim lewat emosi positif dan pemaknaan kerja (*Meaning*) mampu menjaga ketahanan mental mereka.
 
-## Kesimpulan: Kebahagiaan adalah Keterampilan
+## Kebahagiaan sebagai Keterampilan
 
 Psikologi positif tidak mengajak kita menutup mata dari kesulitan hidup, tetapi melatih kapasitas diri agar tetap bertumbuh di tengah badai. Layaknya melatih kekuatan otot, kesejahteraan mental adalah sebuah keterampilan yang memerlukan latihan konsisten setiap hari.
 

@@ -1,4 +1,4 @@
-## Hubungan Sosial yang Positif: Jembatan Menuju Kesejahteraan
+## Hubungan Sosial yang Positif
 
 Pernahkah kamu memperhatikan bahwa kabar buruk terasa lebih ringan saat dibagi, dan kabar baik terasa berlipat ganda bahagianya saat dirayakan bersama orang lain? Dalam **Psikologi Positif**, fenomena ini bukan kebetulan belaka.
 
@@ -18,7 +18,7 @@ Penelitian menunjukkan bahwa kualitas hubungan sosial kita memiliki pengaruh yan
 
 > **Fakta Penting:** Dampak kesehatan dari kesepian kronis setara dengan merokok 15 batang sehari. Hubungan sosial yang hangat adalah kebutuhan biologis dasar kita, jauh dari sekadar pelengkap gaya hidup.
 
-### 2. Teknik Membangun Hubungan: Active Constructive Responding (ACR)
+### 2. Active Constructive Responding (ACR)
 
 Salah satu kontribusi terbesar psikologi positif dalam hubungan adalah teori dari **Shelly Gable** tentang cara kita merespons kabar baik orang lain. Ternyata, bagaimana reaksi kita saat orang lain mendapatkan kabar baik atau meraih sukses lebih menentukan kualitas hubungan dibandingkan respons kita saat mereka menghadapi kesulitan.
 
@@ -37,7 +37,7 @@ Ada empat cara kita merespons kabar baik, namun hanya satu yang memperkuat hubun
 
 Hubungan yang sehat berakar pada **Empati**, kemampuan untuk memahami dan merasakan apa yang dirasakan orang lain tanpa menghakimi.
 
-#### Teknik Mendengarkan Empatis:
+#### Teknik Mendengarkan Empatis
 
 1. **Hadir Sepenuhnya:** Singkirkan ponsel dan berikan perhatian penuh. Tatap matanya dengan lembut untuk menunjukkan bahwa kamu mendengarkan.
 2. **Validasi, Bukan Solusi:** Banyak orang hanya butuh ruang untuk meluapkan perasaan, bukan nasihat yang belum diminta. Kamu bisa merespons dengan: *"Aku paham kenapa situasi ini terasa sangat berat buatmu."*
@@ -55,14 +55,14 @@ Hubungan positif bukan berarti selalu menyetujui segalanya. Hubungan yang suport
 
 ### 5. Aplikasi Dunia Nyata dan Skenario
 
-#### Skenario A: Di Tempat Kerja
+#### Presentasi Sulit Rekan Kerja
 
 Rekan kerjamu baru saja menyelesaikan presentasi yang sulit.
 
 - **Tindakan Positif:** Alih-alih hanya berkata "Kerja bagus", gunakan teknik ACR: "Presentasimu tadi sangat jelas, terutama bagian visualnya. Bagaimana kamu menyiapkan data serumit itu dalam waktu singkat?"
 - **Hasil:** Meningkatkan kepercayaan diri rekan kerja dan membangun aliansi profesional yang kuat.
 
-#### Skenario B: Dalam Hubungan Pasangan/Keluarga
+#### Konflik Rencana Liburan
 
 Terjadi konflik karena perbedaan pendapat mengenai rencana liburan.
 

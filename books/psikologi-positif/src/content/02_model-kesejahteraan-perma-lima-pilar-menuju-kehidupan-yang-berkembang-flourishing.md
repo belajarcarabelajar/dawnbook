@@ -1,10 +1,10 @@
-## Model Kesejahteraan PERMA: Lima Pilar Menuju Kehidupan yang Berkembang (Flourishing)
+## Model Kesejahteraan PERMA
 
 Selamat datang di inti dari Psikologi Positif. Jika sebelumnya kita telah memahami bahwa psikologi tidak hanya berfokus pada penyembuhan luka mental, maka **Model PERMA** adalah cetak biru untuk membangun "rumah" kesejahteraan yang kokoh.
 
 Dirumuskan oleh **Martin Seligman**, pelopor Psikologi Positif modern, model ini menggeser fokus dari sekadar "kebahagiaan" (yang sering kali bersifat sementara) menuju **kesejahteraan (well-being)** yang berkelanjutan. Seligman percaya bahwa kesejahteraan tidak bersumber dari satu hal tunggal, melainkan hasil dari lima elemen independen yang saling mendukung.
 
-## Filosofi di Balik PERMA: Dari Kebahagiaan ke "Flourishing"
+## Filosofi PERMA dari Kebahagiaan ke "Flourishing"
 
 Dahulu, Seligman menganggap kebahagiaan adalah tujuan utama manusia. Namun, ia menyadari bahwa kata "bahagia" terlalu identik dengan suasana hati yang ceria semata. Kenyataannya, seseorang bisa tetap memiliki tingkat kesejahteraan yang tinggi meskipun sedang tidak tertawa atau tersenyum.
 
@@ -72,7 +72,7 @@ $$
 \text{Pencapaian} = \text{Keterampilan} \times \text{Upaya}
 $$
 
-## Studi Kasus: Mengaplikasikan PERMA di Tempat Kerja
+## Mengaplikasikan PERMA di Tempat Kerja
 
 Mari kita ambil contoh Maya, seorang arsitek. Bagaimana ia bisa mempraktikkan kelima pilar ini dalam kesehariannya di kantor?
 
@@ -82,7 +82,7 @@ Mari kita ambil contoh Maya, seorang arsitek. Bagaimana ia bisa mempraktikkan ke
 - **Meaning**: Saat lelah, Maya mengingatkan dirinya bahwa gedung yang ia rancang kelak menjadi tempat berteduh yang aman bagi banyak keluarga, tidak hanya tumpukan beton dan baja.
 - **Accomplishment**: Maya membuat daftar pencapaian mingguan yang realistis, lalu merayakan selesainya setiap tahapan desain sebagai bentuk apresiasi diri.
 
-## Latihan Praktis: Mengukur Profil Kesejahteraanmu
+## Mengukur Profil Kesejahteraanmu
 
 Cobalah mengukur kondisimu dengan memberikan skor 1-10 untuk setiap elemen PERMA dalam satu minggu terakhir:
 

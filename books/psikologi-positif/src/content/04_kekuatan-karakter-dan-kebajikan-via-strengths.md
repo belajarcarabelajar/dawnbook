@@ -15,7 +15,7 @@ Bayangkan sebuah pohon. **Kebajikan (Virtues)** adalah akar dan batang utamanya,
 - **Bakat (Talents)** biasanya bersifat bawaan sejak lahir dan bekerja secara otomatis, seperti kemampuan mendengar nada dengan presisi (*perfect pitch*) atau kecepatan berlari alami.
 - **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Menariknya, kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
 
-## 2. Klasifikasi VIA: 6 Kebajikan & 24 Kekuatan
+## 2. Klasifikasi VIA
 
 Para peneliti mengidentifikasi 24 kekuatan karakter yang dikelompokkan ke dalam 6 kebajikan utama. Berikut adalah pembagian lengkapnya:
 
@@ -106,7 +106,7 @@ Salah satu intervensi psikologi positif yang paling efektif adalah memilih satu 
 
 ## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 
-### Kasus: Di Tempat Kerja
+### Kreativitas dan Humor Budi
 
 **Budi** adalah seorang manajer proyek yang merasa jenuh dengan rutinitasnya. Setelah melakukan tes VIA, ia menemukan bahwa kekuatan utamanya adalah **Kreativitas** dan **Humor**. Namun, pekerjaannya saat ini terasa sangat administratif dan kaku.
 
@@ -117,11 +117,11 @@ Salah satu intervensi psikologi positif yang paling efektif adalah memilih satu 
 
 **Hasil:** Skor keterlibatan (*engagement*) Budi meningkat pesat karena ia merasa kembali menjadi manusia seutuhnya, bebas mengekspresikan sisi unik dirinya dalam menjalankan tugas harian alih-alih merasa tertekan bagai mesin.
 
-### Kasus: Dalam Hubungan
+### Apresiasi Keindahan dalam Hubungan Romantis
 
 Dalam hubungan romantis, kamu bisa mengoptimalkan kekuatan **Apresiasi terhadap Keindahan** untuk menangkap hal-hal kecil yang dilakukan pasanganmu, lalu tulus mengapresiasinya secara lisan. Langkah sederhana ini perlahan menggeser dinamika hubungan yang biasanya diwarnai saling mencari kesalahan, menjadi saling merayakan kelebihan.
 
-## 6. Latihan Mandiri: Pemetaan Kekuatan
+## 6. Pemetaan Kekuatan
 
 Mari mulai memetakan kekuatanmu secara mandiri. Cobalah membuat tabel sederhana seperti di bawah ini untuk melacak aktivitas harian yang selaras dengan kekuatan karaktermu:
 

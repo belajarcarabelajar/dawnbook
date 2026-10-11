@@ -1,10 +1,10 @@
-## Growth Mindset: Rahasia di Balik Potensi Tanpa Batas
+## Growth Mindset
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan bakat yang sama, namun mencapai hasil yang jauh berbeda? Atau mengapa kegagalan membuat sebagian orang terpuruk, sementara yang lain justru semakin terpacu? Jawabannya sering kali terletak pada *mindset* (pola pikir) mereka, bukan pada tingkat IQ atau faktor keberuntungan semata.
 
 Konsep *Growth Mindset* (Pola Pikir Berkembang), yang dipopulerkan oleh psikolog Stanford, Carol Dweck, telah merevolusi cara kita memahami kesuksesan, motivasi, dan ketahanan manusia, mulai dari dunia pendidikan, bisnis, hingga hubungan personal.
 
-### Memahami Dikotomi: Fixed vs. Growth Mindset
+### Dikotomi Fixed vs. Growth Mindset
 
 Untuk memahami *growth mindset*, kita harus terlebih dahulu mengenali lawannya: *fixed mindset* (pola pikir tetap). Bayangkan kedua cara pandang ini sebagai lensa yang menentukan cara kamu melihat dunia dan dirimu sendiri.
 
@@ -18,7 +18,7 @@ Sebaliknya, individu dengan *growth mindset* percaya bahwa kemampuan dasar selal
 
 > **Analogi Patung vs. Otot:** Bayangkan kemampuanmu seperti sebuah patung. Jika kamu memiliki *fixed mindset*, kamu akan sangat takut patung tersebut retak atau cacat, karena kerusakan itu bersifat permanen. Namun, jika kamu memiliki *growth mindset*, kemampuanmu bekerja seperti otot. Ketika otot terasa pegal setelah berlatih menghadapi tantangan, itu bukan berarti ada yang rusak; rasa sakit tersebut justru menunjukkan bahwa ototmu sedang bertumbuh menjadi lebih kuat.
 
-### Anatomi Perbedaan: Bagaimana Keduanya Merespons Dunia
+### Cara Keduanya Merespons Dunia
 
 | Aspek | Fixed Mindset | Growth Mindset |
 | --- | --- | --- |
@@ -28,7 +28,7 @@ Sebaliknya, individu dengan *growth mindset* percaya bahwa kemampuan dasar selal
 | **Kritik** | Mengabaikan kritik yang berguna atau merasa terancam. | Belajar dari kritik dan menggunakannya untuk perbaikan. |
 | **Kesuksesan Orang Lain** | Merasa terancam oleh kesuksesan orang lain. | Merasa terinspirasi dan belajar dari kesuksesan orang lain. |
 
-### Landasan Ilmiah: Neuroplastisitas
+### Landasan Ilmiah Neuroplastisitas
 
 Mengapa *growth mindset* secara ilmiah masuk akal? Jawabannya ada pada neuroplastisitas. Otak kita tidak seperti perangkat keras yang kaku. Organ ini merupakan jaringan dinamis yang sangat adaptif.
 
@@ -61,7 +61,7 @@ Dalam *growth mindset*, kegagalan hanyalah sebuah peristiwa sementara. Pikiran m
 - **Andi (Fixed Mindset):** Merasa cemas. Ia takut jika proyek ini gagal, atasan akan menganggapnya tidak kompeten. Ia cenderung mengerjakan bagian yang ia kuasai saja dan menunda bagian yang sulit.
 - **Budi (Growth Mindset):** Merasa tertantang. Ia sadar ia belum tahu teknologinya, maka ia segera mencari kursus daring dan bertanya pada rekan senior. Ia melihat proyek ini sebagai cara tercepat untuk mendapatkan promosi di masa depan.
 
-#### Skenario dalam Pendidikan: Kekuatan Kata "Belum"
+#### Kekuatan Kata "Belum"
 
 Di sebuah sekolah di Chicago, siswa yang tidak lulus mata pelajaran tertentu tidak diberikan nilai "Gagal" (Fail), melainkan **"Not Yet" (Belum)**.
 
