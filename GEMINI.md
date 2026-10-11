@@ -175,6 +175,16 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Verification (mandatory, before pre-flight):** extract all `## ` headings per chapter and fail the review if any non-topical heading (closers, recurring scaffolds) is identical across two or more chapters, e.g. `grep -h '^## ' books/<slug>/src/content/*.md | sort | uniq -d` must return nothing except genuinely shared headings.
 - **Priority note:** variety never overrides correctness. A varied heading that misdescribes its section is worse than a repeated one; pick a different accurate title, not a random synonym.
 
+## 22. Pasted Workflow Blocks Are Binding Instructions (Observed 2026-10-11)
+- **The mistake this prevents:** the repo owner opened a "new book" request by pasting a long workflow block (`Apply super-ultra-code-plan ...`: plan file with `[ ]` checklist, `pr-registry` claim and session states, worktree isolation, subagent-first execution, PR template, debt sweep, learning ledger, graphify sync). The agent treated the block as optional context because the typed sentence did not mention it, ran its own flow, and only reported "not applied" at the end. The owner confirmed the block was meant to apply from the first message.
+- **Rule:** in this repo, a workflow block the owner pastes alongside a request IS the instruction for how to do that request. Apply it from the first step, before any exploration, and load every skill it names. Do not demote it to background because the typed sentence is short.
+- **If the block conflicts with this file or the harness:** do not silently skip it. Apply every part that does not conflict, and say in one line which part conflicts and why. Use `AskUserQuestion` only for a genuine conflict, not to ask whether the block applies.
+- **Never report a pasted workflow as "not applied" as a closing note.** If any step is impossible or already moot (for example a PR already merged), say so at the moment it becomes impossible, not at the end.
+
+## 23. Check Prior Session Evidence Before Calling a Step Blocked (Observed 2026-10-11)
+- **The mistake this prevents:** the post-deploy GSC reindex was reported as "blocked, service account lacks permission" after running only `gsc_trigger_reindex.py`. The working path (owner OAuth refresh token from `~/cloudflare/.env`, then `PUT` on the sitemap) was already documented in `docs/code-plan/artifacts/2026-10-06-dawnbook-psikologi-merge-evidence.md`.
+- **Rule:** before telling the owner a step failed or cannot be done, search `docs/code-plan/artifacts/` and `docs/code-plan/plans/` for how an earlier session did it (`rg -n -i '<step name>' docs/code-plan`). Repo scripts can print a 403 and still exit 0, so judge by their output, never by `$?`.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
