@@ -4,7 +4,7 @@ Selamat datang di pembahasan mengenai aspek estetika dari Relief Karmawibhangga.
 
 Gaya seni masa Wangsa Shailendra (abad ke-8 hingga ke-9 Masehi) bukan sekadar teknik memahat, melainkan sebuah manifestasi spiritual. Bayangkan para seniman zaman dahulu tidak hanya melihat bongkahan batu andesit yang keras, tetapi melihat sosok-sosok yang "terperangkap" di dalamnya dan tugas mereka adalah membebaskannya.
 
-### 1. Karakteristik Estetika Shailendra: "Local Genius" di Atas Batu
+### 1. Karakteristik Estetika Shailendra
 
 Seni rupa masa Shailendra sering disebut sebagai puncak keemasan seni rupa Jawa Kuno. Meskipun mendapatkan pengaruh kuat dari gaya **Gupta** dan **Post-Gupta** dari India, para seniman Jawa (yang sering disebut *Shilpin*) melakukan adaptasi yang sangat jenius.
 
@@ -13,7 +13,7 @@ Seni rupa masa Shailendra sering disebut sebagai puncak keemasan seni rupa Jawa 
 
 > **Intisari Estetika:** Gaya Shailendra mengutamakan harmoni antara volume (isi) dan garis (kontur), menciptakan kesan bahwa karakter di dalam relief seolah-olah bernapas.
 
-### 2. Anatomi dan Proporsi Tubuh: Idealisme vs. Realitas
+### 2. Idealisme vs. Realitas Proporsi Tubuh
 
 Dalam Relief Karmawibhangga, kita bisa melihat bagaimana para pemahat membedakan status sosial dan kondisi moral seseorang melalui proporsi tubuhnya.
 
@@ -32,7 +32,7 @@ Sebaliknya, pada panel yang menggambarkan penderitaan akibat karma buruk:
 - **Proporsi yang Lebih Kasar:** Tubuh mungkin digambarkan lebih kurus atau justru sangat buncit (tergantung jenis kesengsaraannya).
 - **Pose yang Asimetris:** Menunjukkan kegelisahan atau rasa sakit fisik.
 
-### 3. Ekspresi Wajah: Bahasa Tanpa Kata
+### 3. Ekspresi Wajah
 
 Salah satu pencapaian terbesar teknik pemahatan Shailendra pada Karmawibhangga adalah kemampuan menangkap **Bhava** (suasana hati/emosi). Karena relief ini berada di bagian kaki yang awalnya direncanakan untuk dilihat oleh masyarakat umum, ekspresi wajahnya dibuat sangat komunikatif.
 
@@ -40,7 +40,7 @@ Salah satu pencapaian terbesar teknik pemahatan Shailendra pada Karmawibhangga a
 - **Penderitaan dan Ketakutan:** Pada panel-panel neraka atau hukuman, kita dapat melihat alis yang berkerut, mulut yang terbuka, atau mata yang melotot. Ini adalah teknik pemahatan yang sangat detail mengingat media yang digunakan adalah batu andesit yang keras dan berpori besar.
 - **Detail Rambut dan Perhiasan:** Meskipun wajah menjadi pusat emosi, detail seperti sanggul rambut, mahkota (kirita-makuta), dan anting-anting dipahat dengan sangat presisi, menunjukkan ketelitian tingkat tinggi.
 
-### 4. Teknik Pemahatan: Menaklukkan Batu Andesit
+### 4. Teknik Memahat Batu Andesit
 
 Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **Batu Andesit**, sejenis batuan vulkanik yang jauh lebih keras dibandingkan marmer yang digunakan seniman Eropa seperti Michelangelo.
 
@@ -51,11 +51,11 @@ Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **Batu Ande
 3. **Teknik High Relief (Relief Tinggi):** Pemahat Shailendra cenderung menggunakan teknik di mana figur-figur menonjol cukup jauh dari latar belakangnya. Hal ini menciptakan bayangan yang kuat saat terkena sinar matahari, memberikan efek tiga dimensi yang dramatis.
 4. **Penghalusan:** Menggunakan batu yang lebih halus atau pasir untuk menghilangkan bekas pahatan yang kasar.
 
-### 5. Analogi: "Fotografi dalam Batu"
+### 5. "Fotografi dalam Batu"
 
 Bayangkan setiap panel relief Karmawibhangga adalah sebuah jepretan kamera pada abad ke-8. Teknik pemahatannya memungkinkan kita melihat "kedalaman lapangan" (depth of field). Tokoh utama dipahat lebih menonjol ke depan, sementara latar belakang seperti pohon, rumah, atau awan dipahat lebih tipis di belakang. Ini menciptakan perspektif ruang yang luar biasa bagi pengamat yang berdiri di depannya.
 
-### Penerapan Dunia Nyata: Inspirasi Desain Modern
+### Inspirasi Desain Modern
 
 Pengetahuan tentang gaya seni Shailendra ini tidak hanya berhenti di buku sejarah. Saat ini, prinsip-prinsip tersebut diaplikasikan dalam berbagai bidang:
 

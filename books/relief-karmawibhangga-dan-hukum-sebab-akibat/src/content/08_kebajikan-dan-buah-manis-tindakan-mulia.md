@@ -1,10 +1,10 @@
-## Kebajikan dan Buah Manis Tindakan Mulia: Sisi Terang Hukum Karma
+## Kebajikan dan Buah Manis Tindakan Mulia
 
 Setelah sebelumnya kita melihat bagaimana tindakan negatif berujung pada penderitaan, kini kita akan membalik lembaran relief Karmawibhangga untuk melihat sisi yang penuh harapan dan cahaya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini adalah bagian yang memantulkan wajah terbaik kemanusiaan.
 
 Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual sangat kontras dengan panel hukuman. Suasananya lebih tenang, komposisinya lebih harmonis, dan ekspresi tokoh-tokohnya memancarkan kedamaian. Inilah visualisasi dari **Kusala Karma** (perbuatan baik).
 
-## 1. Konsep Dasar: Menanam Benih di Tanah yang Subur
+## 1. Menanam Benih di Tanah yang Subur
 
 Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai sebuah sistem agrikultur kosmik. Setiap tindakan kita adalah benih yang ditanam di ladang kesadaran.
 
@@ -54,7 +54,7 @@ Relief Karmawibhangga seringkali menggunakan teknik **Komposisi Sinkronis**, di 
 1. **Sisi Kiri (Sebab):** Menampilkan aksi kebajikan. Misalnya, seorang bangsawan memberikan pakaian kepada rakyat jelata.
 2. **Sisi Kanan (Akibat):** Menampilkan hasil dari aksi tersebut. Seringkali digambarkan tokoh tersebut berada di lingkungan yang sangat indah (mirip taman surga) atau dikelilingi oleh harta benda (simbol *Kalpataru* atau pohon pengabul keinginan).
 
-## 4. Real-World Application: Etika dalam Tindakan
+## 4. Etika dalam Tindakan
 
 Meskipun relief ini dibuat pada abad ke-8, pesan moralnya tetap relevan dalam kehidupan modern. Berikut adalah bagaimana "Buah Manis" ini diterjemahkan dalam konteks masa kini:
 
@@ -64,7 +64,7 @@ Meskipun relief ini dibuat pada abad ke-8, pesan moralnya tetap relevan dalam ke
 | **Khanti** (Sabar) | Tidak terpancing emosi oleh komentar negatif di media sosial. | Kesehatan mental terjaga, reputasi yang stabil, dan hubungan interpersonal yang lebih baik. |
 | **Apacayana** (Hormat) | Menghargai privasi rekan kerja atau etika terhadap senior. | Terbangunnya budaya kerja yang sehat dan dihargai balik oleh lingkungan. |
 
-## 5. Skenario: "Si Penolong yang Rendah Hati"
+## 5. "Si Penolong yang Rendah Hati"
 
 Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang petani sederhana.
 
@@ -72,7 +72,7 @@ Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang peta
 
 Ini mengilustrasikan bahwa karma bukan hanya tentang "kehidupan nanti", tetapi juga tentang bagaimana energi baik yang kita pancarkan menciptakan lingkungan yang suportif bagi diri kita sendiri di masa kini.
 
-## Kesimpulan: Kebahagiaan sebagai Hasil Alami
+## Kebahagiaan sebagai Hasil Alami
 
 Pesan utama dari bagian relief ini adalah bahwa kebahagiaan bukanlah keberuntungan atau kebetulan. Kebahagiaan adalah **konsekuensi logis** dari tindakan yang didasari oleh cinta kasih dan kebijaksanaan.
 

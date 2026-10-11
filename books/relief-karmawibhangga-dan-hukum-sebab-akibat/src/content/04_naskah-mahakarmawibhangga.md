@@ -1,4 +1,4 @@
-## Naskah Mahakarmawibhangga: Cetak Biru di Balik Pahatan Batu
+## Naskah Mahakarmawibhangga
 
 Pernahkah kamu membayangkan bagaimana para pemahat di abad ke-8 dapat menciptakan 160 panel relief yang begitu konsisten dalam menceritakan hukum sebab-akibat yang kompleks? Mereka tidak bekerja hanya berdasarkan imajinasi semata. Ada sebuah "skenario" atau panduan tertulis yang menjadi acuan utama mereka. Panduan itu adalah naskah **Mahakarmawibhangga**.
 
@@ -24,7 +24,7 @@ $$
 \text{Tindakan (Karma)} \implies \text{Buah/Hasil (Vipaka)}
 $$
 
-### Pola Penyajian dalam Teks:
+### Pola Penyajian dalam Teks
 
 1. **Identifikasi Perbuatan**: Teks menyebutkan satu perilaku spesifik (misal: menghormati orang tua).
 2. **Penjelasan Variasi**: Kadang dijelaskan intensitas perbuatan tersebut.
@@ -41,7 +41,7 @@ Lévi menemukan sebuah naskah Sanskerta di Nepal yang isinya sangat identik deng
 - **Inskripsi Pendek**: Di atas beberapa panel relief yang belum selesai, ditemukan coretan instruksi singkat dalam aksara Kawi/Jawa Kuno (misal: *virupa* yang berarti "wajah buruk"). Kata-kata ini ternyata adalah kata kunci yang diambil langsung dari teks Mahakarmawibhangga.
 - **Urutan Panel**: Urutan 160 panel di kaki Borobudur ternyata mengikuti sistematika bab demi bab yang ada dalam naskah tersebut.
 
-## 4. Mahakarmawibhangga: Dari Teks ke Visual
+## 4. Mahakarmawibhangga dari Teks ke Visual
 
 Mengubah naskah filosofis menjadi gambar di batu bukanlah tugas mudah. Para pemahat (yang dipimpin oleh seorang *Sutradhara* atau perancang arsitektur) harus melakukan interpretasi visual terhadap konsep abstrak.
 
@@ -69,7 +69,7 @@ Mari kita lihat bagaimana satu baris teks diterjemahkan menjadi sebuah mahakarya
 
 **Implementasi Visual (Relief):** Pemahat tidak hanya menggambar orang diam, melainkan sebuah adegan dinamis di mana seseorang sedang membebaskan burung dari sangkar (melepas nyawa/ *fangshen*) atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
 
-## Real-world Application: "Storyboard" dalam Konstruksi
+## "Storyboard" dalam Konstruksi
 
 Dalam dunia modern, peran Mahakarmawibhangga bagi Borobudur sangat mirip dengan **Script** dalam pembuatan film atau **Detailed Engineering Design (DED)** dalam proyek konstruksi.
 

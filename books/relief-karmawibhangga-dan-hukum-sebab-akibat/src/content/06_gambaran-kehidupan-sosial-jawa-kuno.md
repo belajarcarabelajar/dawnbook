@@ -1,10 +1,10 @@
-## Gambaran Kehidupan Sosial Jawa Kuno: Jendela Menuju Abad ke-8
+## Gambaran Kehidupan Sosial Jawa Kuno
 
 Meskipun relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, bagi para arkeolog dan sejarawan, 160 panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi mereka memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
 
 Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang sangat halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain ribuan tahun yang lalu.
 
-## 1. Busana dan Perhiasan: Simbol Status Sosial
+## 1. Busana dan Perhiasan sebagai Simbol Status Sosial
 
 Busana pada masa Jawa Kuno bukan sekadar penutup tubuh, melainkan indikator hierarki sosial yang sangat jelas.
 
@@ -24,7 +24,7 @@ Detail perhiasan dalam relief Karmawibhangga sangat memukau. Kita dapat menemuka
 
 > **Wawasan Penting:** Kekayaan detail ini menunjukkan bahwa pada abad ke-8, masyarakat Jawa sudah memiliki keahlian metalurgi (pengolahan logam) yang sangat maju untuk menciptakan perhiasan yang rumit dan estetis.
 
-## 2. Arsitektur Jawa Kuno: Rumah Panggung dan Pendopo
+## 2. Arsitektur Jawa Kuno
 
 Relief Karmawibhangga memberikan bukti visual yang kuat tentang bagaimana bentuk hunian masyarakat Jawa sebelum pengaruh arsitektur modern masuk.
 
@@ -62,13 +62,13 @@ Masyarakat Jawa Kuno adalah pecinta seni. Relief menunjukkan:
 - **Darat:** Penggunaan tandu (palanquin) untuk kaum bangsawan yang dipikul oleh beberapa orang. Kereta kuda juga muncul dalam beberapa panel.
 - **Laut:** Meski lebih banyak di relief Borobudur bagian atas, di Karmawibhangga juga terdapat penggambaran perahu cadik yang sederhana, menunjukkan ketergantungan masyarakat pada jalur air.
 
-## 4. Analogi: Relief sebagai "CCTV" Masa Lalu
+## 4. Relief sebagai "CCTV" Masa Lalu
 
 Untuk memahami betapa pentingnya detail ini, bayangkan jika 1.000 tahun dari sekarang, semua komputer dan foto digital musnah. Satu-satunya yang tersisa adalah sebuah dinding batu yang berisi ukiran orang-orang sedang memegang *smartphone*, duduk di kafe dengan cangkir kopi, dan memakai sepatu *sneakers*.
 
 Bagi orang di masa depan, ukiran itu adalah sumber sejarah utama. Itulah peran relief Karmawibhangga bagi kita sekarang. Ia adalah "CCTV" yang membeku, menangkap gerakan dan kebiasaan masyarakat Jawa sebelum mereka mengenal pengaruh budaya Barat atau modernisasi.
 
-## 5. Aplikasi Nyata: Rekonstruasi Sejarah
+## 5. Kegunaan Praktis Pengetahuan Sosial Relief
 
 Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi usang. Berikut adalah kegunaan praktisnya saat ini:
 

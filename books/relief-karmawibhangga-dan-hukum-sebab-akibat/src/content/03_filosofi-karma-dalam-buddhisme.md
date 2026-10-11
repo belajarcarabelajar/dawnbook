@@ -1,16 +1,16 @@
-## Filosofi Karma dalam Buddhisme: Benih, Akar, dan Buah Kehidupan
+## Filosofi Karma dalam Buddhisme
 
 Pernahkah kamu bertanya-tanya mengapa kehidupan setiap orang tampak begitu berbeda? Mengapa ada yang lahir dalam kelimpahan sementara yang lain dalam kekurangan? Di dasar Candi Borobudur, tepatnya pada bagian **Kamadhatu**, terdapat 160 panel relief yang tidak sekadar menceritakan dongeng, melainkan sebuah hukum alam yang sangat fundamental dalam ajaran Buddha: **Hukum Karma**.
 
 Sebelum kita membedah isi dari naskah *Mahakarmawibhangga* atau teknik pemahatannya, kita harus memahami terlebih dahulu "mesin" yang menggerakkan seluruh cerita di relief tersebut. Tanpa memahami filosofi Karma, relief-relief itu hanya akan terlihat seperti potongan gambar acak.
 
-## 1. Definisi Karma: Bukan Nasib, Melainkan Aksi
+## 1. Karma sebagai Aksi, Bukan Nasib
 
 Dalam bahasa Sansekerta, **Karma** (atau *Kamma* dalam bahasa Pali) secara harfiah berarti **"perbuatan"** atau **"tindakan"**. Banyak orang salah kaprah menganggap karma sebagai "nasib buruk" atau "hukuman". Namun, dalam Buddhisme, Karma adalah hukum kausalitas (sebab-akibat) yang impersonal.
 
 > **Insight Utama:** Karma bukanlah sistem penghargaan dan hukuman dari "Tuhan" atau kekuatan eksternal. Karma adalah hukum alam yang bekerja secara otomatis, seperti hukum gravitasi. Jika kamu menjatuhkan gelas, gelas itu pecah karena hukum fisika, bukan karena gravitasi sedang marah kepadamu.
 
-### Komponen Utama: Cetana (Niat)
+### Cetana (Niat)
 
 Sesuatu disebut sebagai "Karma" jika dan hanya jika terdapat **Cetana** atau niat/kehendak di baliknya. Buddha bersabda: *"Cetanāhaṃ bhikkhave kammaṃ vadāmi"* (O, para bhikkhu, kehendaklah yang kunamakan Karma).
 
@@ -74,7 +74,7 @@ Hukum Karma adalah bahan bakar dari roda **Samsara** (siklus kelahiran dan kemat
 
 > "Sesuai dengan benih yang ditanam, demikian pula buah yang dituai. Pembuat kebajikan akan menuai kebahagiaan, pembuat kejahatan akan menuai penderitaan."
 
-## Real-world Application: Menerapkan Filosofi Karma
+## Menerapkan Filosofi Karma
 
 Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, melainkan alat untuk navigasi hidup modern:
 
@@ -82,6 +82,6 @@ Memahami filosofi di balik relief Karmawibhangga bukan sekadar studi sejarah, me
 2. **Kesadaran Niat (Mindfulness):** Sebelum bertindak atau berbicara, tanyakan: *"Apakah niat saya didasari oleh keserakahan, kebencian, atau kasih sayang?"*
 3. **Harapan dalam Kesulitan:** Jika kita sedang mengalami masa sulit (akibat karma masa lalu), kita tahu bahwa dengan menanam benih baik sekarang, kita sedang mengubah arah masa depan kita.
 
-### Skenario Singkat:
+### Pebisnis Sukses yang Kasar kepada Karyawan
 
 Bayangkan seseorang yang sukses dalam bisnis tetapi sangat kasar kepada karyawannya. Secara finansial (buah karma masa lalu), dia berlimpah. Namun, dengan kekasarannya (niat buruk saat ini), dia sedang menanam benih "kesepian" atau "permusuhan" yang akan matang di masa depan. Relief Karmawibhangga mengajarkan kita untuk melihat melampaui apa yang tampak di permukaan saat ini.
