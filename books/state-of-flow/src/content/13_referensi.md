@@ -4,7 +4,7 @@ Daftar referensi berikut memuat seluruh sumber ilmiah - baik artikel jurnal *pee
 
 ---
 
-### Karya Foundational - Teori Flow
+### Karya Foundational Teori Flow
 
 Csikszentmihalyi, M. (1975). *Beyond boredom and anxiety: Experiencing flow in work and play*. Jossey-Bass.
 
