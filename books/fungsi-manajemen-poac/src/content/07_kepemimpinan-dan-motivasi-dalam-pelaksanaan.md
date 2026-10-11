@@ -1,10 +1,10 @@
-## Kepemimpinan dan Motivasi dalam Pelaksanaan: Menggerakkan Roda Organisasi dengan Manusia sebagai Bahan Bakarnya
+## Kepemimpinan dan Motivasi dalam Pelaksanaan
 
 Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai to tujuan.
 
 Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi yang paling hebat sekalipun akan tetap diam atau bergerak tanpa arah.
 
-## 1. Gaya Kepemimpinan: Menemukan Pendekatan yang Tepat
+## 1. Gaya Kepemimpinan
 
 Kepemimpinan bertumpu pada pengaruh yang diberikan, bukan pada jabatan yang disandang. Setiap manajer memiliki cara tersendiri dalam mengarahkan timnya. Dibandingkan mencari satu gaya yang sempurna untuk segala situasi, pemimpin yang cakap akan menyesuaikan pendekatannya dengan kondisi tim (Kepemimpinan Situasional).
 
@@ -24,7 +24,7 @@ Pemimpin transformasional menginspirasi tim untuk melampaui target pribadi demi 
 
 > **Catatan Penting:** Pemimpin yang baik memastikan semua orang di belakangmu memahami arah tujuan dan alasan mereka melangkah ke sana, bukan hanya menonjolkan diri di posisi terdepan.
 
-## 2. Teknik Komunikasi Efektif: Jembatan Menuju Eksekusi
+## 2. Teknik Komunikasi Efektif
 
 Komunikasi menjadi penghubung utama dalam pelaksanaan rencana. Tanpa penyampaian yang jelas, instruksi akan membingungkan dan akhirnya menurunkan semangat kerja tim.
 
@@ -65,7 +65,7 @@ Penjelasan dari masing-masing variabel tersebut adalah:
 
 Apabila salah satu dari ketiga variabel di atas bernilai nol, maka motivasi secara keseluruhan juga akan menjadi nol.
 
-## 4. Aplikasi Dunia Nyata: Skenario Implementasi
+## 4. Memulihkan Semangat Tim Pengembang
 
 **Studi Kasus: Tim Pengembang Perangkat Lunak Menjelang Batas Waktu**
 

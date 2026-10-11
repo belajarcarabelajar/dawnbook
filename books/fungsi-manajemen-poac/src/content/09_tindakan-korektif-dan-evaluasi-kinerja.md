@@ -1,10 +1,10 @@
-## Tindakan Korektif dan Evaluasi Kinerja: Menutup Celah Menuju Kesempurnaan
+## Tindakan Korektif dan Evaluasi Kinerja
 
 Bayangkan kamu sedang mengendarai mobil dengan bantuan GPS menuju sebuah lokasi yang belum pernah kamu kunjungi. Di tengah jalan, kamu mengambil belokan yang salah. Apa yang dilakukan GPS? Ia tidak hanya diam, ia akan berkata, *"Recalculating..."* dan memberikan rute baru untuk membawa kamu kembali ke jalur yang benar.
 
 Dalam manajemen, **Tindakan Korektif dan Evaluasi Kinerja** adalah fungsi "GPS" tersebut. Jika fungsi *Controlling* sebelumnya adalah tentang mendeteksi adanya simpangan, maka bagian ini adalah tentang bagaimana kita memperbaiki arah dan memastikan organisasi tetap sampai di tujuan.
 
-## 1. Evaluasi Kinerja: Memahami "Mengapa" di Balik Data
+## 1. Evaluasi Kinerja
 
 Evaluasi kinerja adalah proses sistematis untuk menilai sejauh mana hasil kerja aktual selaras dengan standar yang telah ditetapkan.
 
@@ -50,7 +50,7 @@ Tindakan korektif dapat dibagi menjadi dua pendekatan utama:
 
 Dalam beberapa kasus, penyimpangan terjadi akibat penetapan standar yang kurang realistis, bukan karena penurunan kinerja tim. Jika analisis menunjukkan bahwa standar tersebut mustahil dicapai akibat perubahan kondisi pasar, maka standar atau rencana $S$ perlu disesuaikan agar tetap relevan.
 
-## 3. Audit Internal: Mata Ketiga Organisasi
+## 3. Audit Internal
 
 Audit internal adalah pemeriksaan independen dan objektif terhadap seluruh aktivitas operasional organisasi.
 
@@ -67,7 +67,7 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 3. **Check:** Mengamati dan mengevaluasi hasil uji coba.
 4. **Act:** Menerapkan solusi secara menyeluruh jika terbukti berhasil, atau merancang ulang rencana baru jika hasil belum sesuai harapan.
 
-## Real-World Application: Skenario Bisnis E-Commerce
+## Lonjakan Pengembalian Barang E-Commerce
 
 **Skenario:** Sebuah perusahaan e-commerce menyadari bahwa tingkat pengembalian barang (*return rate*) meningkat sebesar 15% dalam satu bulan terakhir.
 
@@ -79,7 +79,7 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Sedangkan untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.
 5. **Mekanisme Umpan Balik:** Memasukkan tolok ukur 'Kualitas Pengemasan' ke dalam KPI tim logistik agar kualitas pengiriman selalu terpantau.
 
-## Implementasi Teknis: Logika Pemantauan Sederhana
+## Logika Pemantauan Sederhana
 
 Dalam pengelolaan data atau sistem otomatis, pemantauan kinerja dapat dilakukan menggunakan program sederhana. Berikut adalah contoh logika (pseudo-code) dalam Python untuk memberikan peringatan dini terhadap penyimpangan kinerja:
 
@@ -103,7 +103,7 @@ hasil_hari_ini = 940
 print(f"Hasil: {hasil_hari_ini} unit -> Status: {evaluasi_kinerja(hasil_hari_ini)}")
 ```
 
-## Kesimpulan: Lingkaran yang Tak Pernah Putus
+## Lingkaran yang Tak Pernah Putus
 
 Tindakan korektif dan evaluasi bertujuan untuk membangun ketahanan (*resilience*), bukan untuk menghukum kegagalan. Organisasi yang hebat tidak terhindar dari kesalahan, tetapi mereka mampu belajar dengan cepat dari kesalahan tersebut melalui evaluasi yang jujur serta tindakan korektif yang tepat sasaran.
 

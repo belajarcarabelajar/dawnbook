@@ -1,4 +1,4 @@
-## Pendahuluan: Memahami Esensi Manajemen dan POAC
+## Memahami Esensi Manajemen dan POAC
 
 Selamat datang di langkah pertama perjalananmu memahami dunia manajemen! Pernahkah kamu membayangkan bagaimana sebuah konser musik besar dengan ribuan penonton bisa berjalan dengan sangat rapi? Atau bagaimana perusahaan teknologi raksasa bisa meluncurkan produk baru di seluruh dunia secara bersamaan?
 
@@ -10,11 +10,11 @@ Secara sederhana, manajemen adalah seni menyelesaikan pekerjaan melalui orang la
 
 > **Manajemen** adalah sebuah proses yang khas, yang terdiri dari tindakan-tindakan perencanaan, pengorganisasian, penggerakan, dan pengendalian yang dilakukan untuk menentukan serta mencapai sasaran-sasaran yang telah ditetapkan melalui pemanfaatan sumber daya manusia dan sumber daya lainnya.
 
-### Analogi: Sang Konduktor Orkes
+### Sang Konduktor Orkes
 
 Bayangkan sebuah orkes simfoni. Ada pemain biola, pemain trompet, dan pemain drum. Masing-masing sangat ahli di bidangnya. Namun, tanpa seorang **Konduktor (Manajer)**, mereka mungkin akan bermain dengan tempo yang berbeda-beda. Manajer tidak memainkan alat musiknya sendiri; tugasnya adalah memastikan semua pemain "berbunyi" secara harmonis untuk menghasilkan musik yang indah.
 
-## 2. Pilar Utama: Efektivitas dan Efisiensi
+## 2. Efektivitas dan Efisiensi
 
 Dalam manajemen, bekerja keras saja tidak cukup. Kamu harus bekerja dengan **Cerdas** dan **Tepat**. Dua kata kunci yang selalu menjadi ukuran keberhasilan seorang manajer adalah **Efisiensi** dan **Efektivitas**.
 
@@ -64,7 +64,7 @@ Rencana tidak akan berjalan tanpa aksi nyata. Di sinilah aspek kepemimpinan berp
 
 Tahap terakhir adalah memastikan semua aktivitas berjalan sesuai rencana yang telah ditetapkan. Di sini, kamu harus mengevaluasi: "Apakah pekerjaan sudah berada di jalur yang benar?". Pengawasan ini menghasilkan laporan evaluasi kinerja, standar kualitas, serta langkah perbaikan jika terjadi penyimpangan.
 
-## 4. Real-World Application: Membuka Kedai Kopi "Kopi Digital"
+## 4. Membuka Kedai Kopi "Kopi Digital"
 
 Mari kita lihat bagaimana konsep manajemen ini diterapkan pada skenario nyata:
 

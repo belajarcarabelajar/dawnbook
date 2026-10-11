@@ -1,4 +1,4 @@
-## Controlling: Memastikan Kesesuaian dengan Rencana
+## Controlling untuk Memastikan Kesesuaian dengan Rencana
 
 Bayangkan kamu sedang mengendarai mobil menuju sebuah kota yang belum pernah kamu kunjungi. Kamu memiliki peta (Planning), mobil yang prima (Organizing), dan kamu sudah mulai menginjak gas (Actuating). Namun, tanpa melihat speedometer, indikator bensin, atau papan penunjuk jalan, bagaimana kamu tahu bahwa kamu masih berada di jalur yang benar? Atau bagaimana jika kamu ternyata melaju terlalu lambat sehingga tidak akan sampai tepat waktu?
 
@@ -12,7 +12,7 @@ Secara formal, **Controlling** adalah proses pemantauan aktivitas untuk memastik
 
 > **Insight Utama:** Tanpa pengawasan, perencanaan yang paling hebat sekalipun bisa berakhir sia-sia karena tidak ada mekanisme untuk mendeteksi kegagalan sebelum terlambat.
 
-## 2\. Esensi Pengawasan: Tiga Langkah Utama
+## 2\. Tiga Langkah Utama Pengawasan
 
 Proses pengawasan tidak terjadi secara acak. Terdapat alur logis yang harus diikuti manajer untuk memastikan organisasi tetap berada di jalur yang benar.
 
@@ -54,7 +54,7 @@ $$
 
 **Prinsip Pengecualian (Management by Exception):** Manajer tidak perlu memeriksa setiap detail kecil. Manajer cukup memusatkan perhatian pada penyimpangan yang bernilai besar. Jika target penjualan adalah 100 unit dan kamu menjual 99 unit, itu mungkin bukan masalah besar. Namun, jika kamu hanya menjual 50 unit, ini adalah indikasi masalah serius yang membutuhkan perhatian segera.
 
-## 3\. Analogi: Termostat Ruangan
+## 3\. Termostat Ruangan
 
 Untuk memahami *Controlling*, bayangkan sebuah termostat di ruangan ber-AC:
 
@@ -72,7 +72,7 @@ Agar pengawasan tidak terasa mengekang namun tetap efektif, sistem tersebut haru
 - **Objektif:** Penilaian bersandar pada fakta aktual, bukan subjektivitas atau perasaan pribadi.
 - **Fleksibel:** Sistem harus mampu menyesuaikan diri dengan cepat saat terjadi perubahan rencana atau gejolak pasar secara mendadak.
 
-## 5\. Penerapan Nyata: Manajemen Restoran Cepat Saji
+## 5\. Manajemen Restoran Cepat Saji
 
 Mari kita lihat bagaimana fungsi *Controlling* bekerja di restoran seperti McDonald's atau KFC:
 
@@ -83,7 +83,7 @@ Mari kita lihat bagaimana fungsi *Controlling* bekerja di restoran seperti McDon
 | **Perbandingan** | Di akhir shift, manajer melihat laporan harian. Ditemukan bahwa rata-rata waktu pelayanan adalah 4,5 menit. |
 | **Identifikasi** | Terjadi selisih (variansi) sebesar $1,5$ menit dari standar. Manajer kini tahu ada masalah di bagian kecepatan pelayanan. |
 
-## 6\. Skenario Teknis: Dasbor dalam Rekayasa Perangkat Lunak
+## 6\. Dasbor dalam Rekayasa Perangkat Lunak
 
 Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui dasbor pemantauan secara *real-time*.
 

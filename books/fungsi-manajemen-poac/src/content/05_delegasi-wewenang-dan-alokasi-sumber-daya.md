@@ -1,4 +1,4 @@
-## Delegasi Wewenang dan Alokasi Sumber Daya: Menghidupkan Struktur Organisasi
+## Delegasi Wewenang dan Alokasi Sumber Daya
 
 Setelah sebuah organisasi memiliki visi yang jelas (Planning) dan struktur yang kokoh (Organizing), langkah penting berikutnya adalah menentukan siapa yang akan melakukan apa, dengan alat apa, dan seberapa besar tanggung jawab yang mereka emban. Di sinilah prinsip **Delegasi Wewenang** dan **Alokasi Sumber Daya** menjadi jembatan antara rencana di atas kertas dengan aksi nyata di lapangan.
 
@@ -15,7 +15,7 @@ Prinsip ini tidak hanya berfokus pada mempekerjakan individu yang cerdas, tetapi
 
 > **Insight Penting:** Penempatan yang salah berdampak buruk pada finansial perusahaan sekaligus menurunkan moral karyawan karena mereka merasa tidak mampu atau kurang berkembang.
 
-## 2. Delegasi Wewenang: Seni Melepaskan Kendali
+## 2. Delegasi Wewenang
 
 Banyak manajer terjebak dalam kecenderungan untuk menyelesaikan semua hal sendiri. **Delegasi** merupakan proses penyerahan wewenang dari atasan kepada bawahan untuk melaksanakan tugas tertentu secara bertanggung jawab.
 
@@ -33,7 +33,7 @@ Sebagai contoh, kamu tidak bisa meminta seseorang bertanggung jawab atas sebuah 
 
 Secara konseptual, hubungan ini dapat digambarkan sebagai berikut: $\text{Wewenang} \approx \text{Tanggung Jawab}$. Jika $\text{Wewenang} > \text{Tanggung Jawab}$, ada risiko penyalahgunaan kekuasaan. Jika $\text{Wewenang} < \text{Tanggung Jawab}$, akan terjadi frustrasi dan inefisiensi.
 
-## 3. Alokasi Sumber Daya: Bahan Bakar Organisasi
+## 3. Alokasi Sumber Daya
 
 Tanpa bahan bakar, kendaraan tercanggih sekalipun tidak akan dapat bergerak. Dalam manajemen, sumber daya bertindak sebagai bahan bakar tersebut. Manajer harus mampu mendistribusikan sumber daya secara adil dan strategis berdasarkan prioritas yang telah ditentukan pada tahap perencanaan (*planning*).
 
@@ -49,7 +49,7 @@ Meliputi mesin, perangkat lunak, ruang kantor, hingga bahan baku. Langkah utaman
 
 Aspek ini tidak hanya menyangkut jumlah personel, tetapi juga pengelolaan waktu mereka secara efisien. Pengalokasian waktu (*time allocation*) yang tepat sangat diperlukan untuk memastikan anggota tim tidak mengalami kelelahan ekstrem (*burnout*) akibat beban kerja yang timpang antar-departemen.
 
-## 4. Real-World Application: Skenario Perusahaan E-Commerce
+## 4. Peluncuran Fitur Flash Sale
 
 Mari kita lihat bagaimana prinsip ini bekerja di sebuah perusahaan rintisan (*startup*) *e-commerce* yang sedang berkembang dengan kasus peluncuran fitur "Flash Sale" baru.
 
