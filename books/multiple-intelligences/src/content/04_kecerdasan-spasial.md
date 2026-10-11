@@ -14,7 +14,7 @@ Individu dengan kemampuan ini seolah memiliki mata batin yang tajam. Mereka dapa
 
 Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{dan } z$. 
 
-**Analogi: Kanvas Internal**
+**Analogi Kanvas Internal**
 
 > Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya $180^\circ$, mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
 
