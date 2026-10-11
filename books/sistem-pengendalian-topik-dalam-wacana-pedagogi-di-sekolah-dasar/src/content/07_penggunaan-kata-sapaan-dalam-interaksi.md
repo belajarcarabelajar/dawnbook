@@ -97,6 +97,6 @@ Kata sapaan *"Bu"* di awal kalimat berfungsi sebagai pemutus alur wacana guru (*
 
 Penggunaan kata sapaan dalam interaksi kelas sekolah dasar merupakan instrumen kebahasaan yang efektif untuk mengarahkan alur topik dan mengelola tata tertib komunikasi. Kata sapaan kolektif membangun kebersamaan dan membuka topik baru, sementara sapaan individual mengalokasikan giliran bicara serta menegaskan fokus pemahaman. Di sisi lain, tata cara siswa menyapa guru mencerminkan kesantunan dan norma penghormatan dalam wacana pedagogi.
 
-#### Pertanyaan Refleksi untuk Kamu:
+#### Pertanyaan Refleksi untuk Kamu
 1. **Refleksi Praktis**: Ketika kamu mengamati atau mempraktikkan pembelajaran di kelas SD, bagaimana perubahan penggunaan sapaan dari *"Anak-anak"* menjadi sapaan nama pribadi siswa memengaruhi tingkat perhatian dan rasa percaya diri siswa?
 2. **Analisis Interaksi**: Mengapa sapaan siswa kepada guru (*Pak/Bu*) selalu mengawali usaha siswa untuk mengusulkan topik atau bertanya? Apa dampaknya jika guru merespons sapaan tersebut dengan ramah dibandingkan dengan respons yang dingin?
