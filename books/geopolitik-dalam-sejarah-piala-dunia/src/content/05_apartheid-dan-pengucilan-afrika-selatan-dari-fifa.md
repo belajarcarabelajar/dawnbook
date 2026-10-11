@@ -23,7 +23,7 @@ Dinamika mulai memanas ketika:
 1. Berdirinya Konfederasi Sepak Bola Afrika (CAF) pada tahun 1957 memicu suara lantang anti-kolonialisme. Negara-negara Afrika yang baru merdeka dengan tegas menolak bertanding melawan Afrika Selatan jika mereka hanya menurunkan skuad kulit putih.
 2. Tuntutan kesetaraan terus mengalir kepada FIFA dari blok Afrika dan Asia, mendesak peninjauan ulang keanggotaan FASA karena melanggar asas non-diskriminasi dalam statuta organisasi.
 
-### 3. Kronologi Pengucilan: Dari Peringatan hingga Pengusiran
+### 3. Kronologi Pengucilan dari Peringatan hingga Pengusiran
 
 Proses pengucilan Afrika Selatan tidak terjadi dalam semalam. Ini adalah hasil dari tarik-ulur diplomatik yang panjang di dalam tubuh FIFA.
 
@@ -36,7 +36,7 @@ Proses pengucilan Afrika Selatan tidak terjadi dalam semalam. Ini adalah hasil d
 
 **Poin Penting:** Selama periode 1964 hingga 1992, Afrika Selatan benar-benar "hilang" dari peta sepak bola dunia. Mereka tidak bisa ikut kualifikasi Piala Dunia, dan tim manapun yang nekat bertanding melawan mereka akan dijatuhi sanksi oleh FIFA.
 
-### 4. Pertarungan Kekuasaan: Sir Stanley Rous vs. João Havelange
+### 4. Pertarungan Kekuasaan Sir Stanley Rous vs. João Havelange
 
 Pengucilan Afrika Selatan juga mencerminkan pergeseran kekuatan di dalam FIFA.
 
@@ -60,7 +60,7 @@ Pada awal 1990-an, seiring dengan pembebasan Nelson Mandela dan negosiasi untuk 
 2. Setahun berikutnya, yaitu tahun 1992, FIFA memulihkan status keanggotaan Afrika Selatan secara resmi.
 3. Sebagai laga bersejarah pertama pasca-isolasi, tim nasional Afrika Selatan yang dijuluki "Bafana Bafana" (Anak-Anak Laki-Laki) bertanding melawan Kamerun pada Juli 1992.
 
-### 7. Real-World Application: Diplomasi Olahraga (Sports Diplomacy)
+### 7. Diplomasi Olahraga (Sports Diplomacy)
 
 Kasus Afrika Selatan mengajarkan kita bagaimana olahraga dapat digunakan sebagai **instrumen tekanan internasional (Soft Power)**.
 

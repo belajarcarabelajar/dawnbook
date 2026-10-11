@@ -1,8 +1,8 @@
-## Fasisme dan Propaganda: Piala Dunia Italia 1934
+## Fasisme dan Propaganda Piala Dunia Italia 1934
 
 Selamat datang di salah satu bab paling kelam sekaligus penting dalam sejarah olahraga dunia. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana si kulit bundar diubah menjadi peluru ideologi oleh rezim fasis Benito Mussolini.
 
-## Pendahuluan: Panggung untuk Si Diktator
+## Panggung bagi Si Diktator
 
 Pada awal 1930-an, Italia berada di bawah cengkeraman ketat **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, sepak bola jauh melampaui permainan sebelas lawan sebelas di lapangan hijau. Olahraga ini adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
 
@@ -16,7 +16,7 @@ Mussolini memahami bahwa untuk melegitimasi kekuasaannya secara internasional, i
 
 Rezim fasis membangun dan merenovasi stadion-stadion megah seperti **Stadio Nazionale PNF** di Roma. Arsitektur stadion ini dirancang dengan gaya neoklasik yang monumental, memberikan kesan bahwa fasisme adalah kelanjutan dari kejayaan Kekaisaran Romawi kuno.
 
-### 2. Identitas Nasional: "Azzurri" dan Manusia Fasis
+### 2. Identitas Nasional "Azzurri" dan Manusia Fasis
 
 Tim nasional Italia diposisikan sebagai representasi dari "Manusia Fasis Baru" yang kuat, disiplin, dan patuh. Para pemain diwajibkan melakukan hormat fasis (*saluto fascista*) sebelum pertandingan dimulai.
 
@@ -26,7 +26,7 @@ Tim nasional Italia diposisikan sebagai representasi dari "Manusia Fasis Baru" y
 
 Mussolini mengontrol narasi melalui radio dan surat kabar. Setiap kemenangan Italia diglorifikasi sebagai bukti superioritas sistem politik fasisme dibandingkan demokrasi liberal yang dianggap "lemah".
 
-## "Vincere o Morire": Tekanan untuk Menang
+## Tekanan untuk Menang
 
 Dalam sebuah turnamen yang dirancang sebagai alat propaganda, kekalahan bukanlah pilihan. Ada beban berat yang dipikul oleh pelatih legendaris **Vittorio Pozzo** dan para pemainnya.
 
@@ -44,7 +44,7 @@ $$
 \\text{Kemenangan} = \\text{Legitimasi Politik}
 $$
 
-## Real-world Application: Sportswashing di Era Modern
+## Sportswashing sejak 1934 hingga Kini
 
 Apa yang dilakukan Mussolini di tahun 1934 menciptakan pola yang masih kita lihat hingga hari ini. Konsep menggunakan olahraga untuk mengalihkan perhatian dari isu hak asasi manusia atau untuk membangun *soft power* disebut sebagai **Sportswashing**.
 
