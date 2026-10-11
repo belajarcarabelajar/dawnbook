@@ -54,7 +54,7 @@ Tanpa kebajikan intelektual, niat baik kita bisa menjadi bumerang. Tanpa kebajik
 
 Bagaimana kita menerapkan konsep Arete dalam kehidupan sehari-hari? Mari kita lihat skenario profesional berikut:
 
-**Skenario: Seorang Pengembang Perangkat Lunak (Software Developer)**
+**Skenario Seorang Pengembang Perangkat Lunak (Software Developer)**
 
 Seorang pengembang yang memiliki Arete akan menunjukkan dua jenis keunggulan:
 
