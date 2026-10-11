@@ -1,10 +1,10 @@
-## Kebangkitan Etika Kebajikan Kontemporer: Menemukan Kembali "Jiwa" dalam Moralitas
+## Kebangkitan Etika Kebajikan Kontemporer
 
 Selama berabad-abad, dunia filsafat moral didominasi oleh dua raksasa: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme** (yang berfokus pada konsekuensi dan hasil akhir). Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang amat mendasar: manusia itu sendiri.
 
 Bagian ini mengeksplorasi bagaimana tradisi Aristotelian yang sempat "tertidur" bangkit kembali melalui pemikiran tajam tokoh-tokoh seperti Elizabeth Anscombe dan Alasdair MacIntyre.
 
-### 1\. Titik Balik: Kritik Elizabeth Anscombe terhadap Etika Modern
+### 1\. Kritik Elizabeth Anscombe terhadap Etika Modern
 
 Pada tahun 1958, G.E.M. Anscombe menerbitkan sebuah esai provokatif berjudul *"Modern Moral Philosophy"*. Esai ini kerap dianggap sebagai pemicu utama yang membidani kebangkitan etika kebajikan di era modern.
 
@@ -18,7 +18,7 @@ Anscombe berargumen bahwa konsep moral modern seperti "kewajiban" (*duty*) atau 
 
 Anscombe menyarankan agar kita berhenti sejenak dari filsafat moral yang hanya mengabdi pada aturan abstrak. Ia mendorong pergeseran fokus menuju psikologi filosofis, yakni memahami secara mendalam apa itu niat, keinginan, dan tindakan manusia. Lebih jauh, kita diajak kembali merenungkan konsep kebajikan (*virtue*). Ketimbang terus-menerus bertanya "Aturan apa yang harus saya patuhi?", pertanyaan yang lebih relevan adalah "Orang seperti apa saya jika memilih tindakan ini?"
 
-### 2\. Alasdair MacIntyre: Etika di Tengah Reruntuhan
+### 2\. Pemikiran Alasdair MacIntyre
 
 Jika Anscombe memantik percikan apinya, maka Alasdair MacIntyre adalah sosok yang kembali membangun "rumahnya" melalui buku yang sangat berpengaruh, *After Virtue* (1981).
 
@@ -49,7 +49,7 @@ Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui ke
 | **Sumber Otoritas** | Prinsip rasional yang universal | Praktik dan tradisi dalam komunitas |
 | **Tujuan Akhir** | Kepatuhan mutlak atau maksimalisasi utilitas | *Eudaimonia* (pencapaian kodrat manusia) |
 
-### Penerapan di Dunia Nyata: Etika Profesional
+### Etika Profesional
 
 Gema kebangkitan etika kebajikan ini sangat terasa di ranah praktik, misalnya dalam profesi kedokteran. Bayangkan skenario seorang dokter yang harus menyampaikan diagnosis berat kepada pasien penderita penyakit terminal.
 

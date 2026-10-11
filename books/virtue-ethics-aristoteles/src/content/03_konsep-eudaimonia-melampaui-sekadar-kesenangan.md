@@ -1,4 +1,4 @@
-## Konsep Eudaimonia: Melampaui Sekadar Kesenangan
+## Konsep Eudaimonia
 
 Pernahkah kamu merasa sangat puas setelah membeli barang mewah terbaru, namun sensasi euforia itu menguap dalam hitungan hari? Di sisi lain, kamu mungkin pernah mengalami rasa lelah yang luar biasa seusai membantu keluarga melewati krisis, tetapi di penghujung malam, ada ketenangan batin dan rasa utuh yang mengendap kuat di dada.
 

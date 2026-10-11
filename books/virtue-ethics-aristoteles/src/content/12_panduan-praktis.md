@@ -6,7 +6,7 @@ Etika kebajikan bukanlah sebuah buku resep yang memberikan instruksi kaku, melai
 
 Berikut adalah panduan praktis untuk mengubah konsep-konsep filosofis tersebut menjadi kualitas hidup yang nyata.
 
-### 1. Audit Karakter: Memetakan Kondisi Awal
+### 1. Audit Karakter
 
 Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etika kebajikan, ini disebut dengan evaluasi diri terhadap **Doktrin Jalan Tengah**.
 
@@ -18,7 +18,7 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
   - Ekses: Nekat (mengambil risiko tanpa perhitungan).
 - **Refleksi:** *Di mana posisi saya dalam sebulan terakhir saat menghadapi tantangan di kantor atau sekolah?*
 
-### 2. Strategi "Micro-Virtues": Kekuatan Habituasi
+### 2. Strategi "Micro-Virtues"
 
 Karakter tidak dibangun dalam satu malam melalui satu keputusan heroik. Karakter adalah akumulasi dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
 
@@ -30,7 +30,7 @@ $$
 
 Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
 
-#### Cara Melatihnya:
+#### Cara Melatihnya
 
 1. **Pilih Satu Fokus:** Jangan mencoba menjadi sempurna dalam segala hal sekaligus. Pilih satu kebajikan per bulan (misalnya: Kesabaran).
 2. **Cari Pemicu (Cue):** Saat kamu merasa kesal karena antrean panjang atau internet lambat, lihat itu sebagai "Gym Mental".
@@ -48,7 +48,7 @@ Dalam situasi yang rumit, aturan seringkali gagal. Di sinilah **Kebijaksanaan Pr
 
 > **Catatan:** Kebajikan adalah melakukan hal yang tepat, kepada orang yang tepat, pada waktu yang tepat, dengan cara yang tepat, dan untuk alasan yang tepat.
 
-### 4. Jurnal Refleksi Malam: Menutup Loop Pembelajaran
+### 4. Jurnal Refleksi Malam
 
 Aristoteles menekankan bahwa manusia adalah makhluk yang rasional. Untuk memastikan habituasi berjalan efektif, kita memerlukan evaluasi.
 
@@ -58,7 +58,7 @@ Sebelum tidur, tanyakan pada diri sendiri tiga pertanyaan ini:
 2. *Apakah tindakan saya sudah mendekati "Jalan Tengah" atau masih melenceng ke arah ekstrem?*
 3. *Jika situasi yang sama terjadi besok, apa satu hal kecil yang akan saya ubah agar lebih baik?*
 
-### Real-World Application: Kebajikan di Era Digital
+### Kebajikan di Era Digital
 
 Bagaimana etika kebajikan menjawab tantangan modern seperti media sosial?
 

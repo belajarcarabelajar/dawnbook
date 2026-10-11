@@ -1,4 +1,4 @@
-## Kesatuan Karakter dan Integritas: Harmoni di Balik Keutamaan
+## Kesatuan Karakter dan Integritas
 
 Bayangkan sebuah orkestra simfoni. Kamu mungkin memiliki seorang pemain biola yang luar biasa, seorang peniup oboe yang jenius, dan seorang perkusionis yang andal. Namun, jika masing-masing dari mereka bermain sesuai kehendak hati tanpa mempedulikan satu sama lain, yang dihasilkan adalah kebisingan.
 
@@ -21,13 +21,13 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 2. **Tujuan yang Sama:** Semua kebajikan diarahkan pada tujuan akhir yang sama, yaitu *Eudaimonia* (kebahagiaan atau kesejahteraan yang bermakna).
 3. **Akar yang Sama:** Semua kebajikan moral bersumber pada satu kemampuan pusat, yaitu kemampuan untuk membuat pilihan rasional yang baik.
 
-## 2. Integritas: "Zat Perekat" Karakter
+## 2. Integritas sebagai Perekat Karakter
 
 Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita,pikiran, perkataan, dan tindakan,selaras dengan nilai-nilai moral yang kita anut.
 
 Integritas adalah kondisi di mana semua kebajikan kita terintegrasi secara kokoh.
 
-### Analogi: Struktur Bangunan
+### Struktur Bangunan
 
 Pikirkan karaktermu sebagai sebuah gedung. Kebajikan (Keberanian, Keadilan, dan sebagainya) adalah pilar-pilarnya, sementara Integritas adalah semen dan kerangka baja yang mengikat pilar-pilar tersebut sehingga gedung tetap tegak meskipun diterjang badai. Tanpa integritas, seseorang mungkin terlihat baik saat situasi mudah, tetapi akan runtuh saat menghadapi tekanan atau godaan.
 
@@ -39,7 +39,7 @@ Seseorang yang memiliki integritas tinggi selalu melibatkan *Phronesis* untuk me
 
 > "Seseorang yang memiliki integritas tidak memiliki 'wajah' yang berbeda-beda untuk situasi yang berbeda. Mereka adalah pribadi yang sama di ruang rapat, di meja makan keluarga, maupun saat sendirian."
 
-## 4. Implementasi Teknis: Pemodelan Karakter dalam Sistem
+## 4. Pemodelan Karakter dalam Sistem
 
 Dalam dunia rekayasa sistem atau pemrograman, kita bisa melihat konsep kesatuan ini melalui prinsip **ketergantungan objek (dependency)**. Jika kita mencoba mengodekan sebuah "Karakter yang Berintegritas", kodenya mungkin terlihat seperti ini:
 
@@ -65,7 +65,7 @@ class KarakterUtuh:
 # seluruh sistem karakter kehilangan integritasnya.
 ```
 
-## 5. Aplikasi Dunia Nyata: Kepemimpinan dan Profesionalisme
+## 5. Kepemimpinan dan Profesionalisme
 
 Di dunia profesional, kesatuan karakter adalah hal yang membedakan seorang ahli yang kompeten dengan seorang pemimpin yang berintegritas.
 
