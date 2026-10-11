@@ -1,4 +1,4 @@
-## Identitas: Satu Kemenangan Kecil
+## Identitas dari Kemenangan Kecil
 
 Sebentar saja kamu sudah berada di modul terakhir. Coba luangkan satu detik untuk melihat ke belakang. Sebelas modul lalu, kamu masuk ke buku ini mungkin sambil membawa satu pertanyaan yang sudah lama mengganjal: kenapa ya, niatku kuat tapi kebiasaanku tetap tidak berubah? Sekarang kamu tidak lagi membawa pertanyaan itu dalam bentuk kebingungan. Kamu membawa sesuatu yang jauh lebih berguna: seperangkat alat yang diuji di laboratorium dan di lapangan, ditambah satu cara pandang yang mungkin belum pernah kamu pakai sebelumnya.
 

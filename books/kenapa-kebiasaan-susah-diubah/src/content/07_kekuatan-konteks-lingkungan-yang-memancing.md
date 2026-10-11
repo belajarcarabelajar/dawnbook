@@ -1,4 +1,4 @@
-## Kekuatan Konteks: Lingkungan yang Memancing
+## Kekuatan Konteks
 
 Bayangkan kamu baru saja pindah kota karena pekerjaan. Semua serba baru: apartemen sempit di lantai tiga, rute kantor yang belum hafal, warung makan yang menunya masih asing. Untuk beberapa minggu pertama, kamu menemukan sesuatu yang mengejutkan: ternyata kamu bisa jadi orang yang berbeda. Kamu tidur lebih awal karena ponsel sengaja ditaruh jauh dari kasur. Kamu sarapan layak, bukan sekadar kopi yang dihabiskan sambil berdiri. Niat-niat lama yang selama ini selalu kalah, seperti olahraga pagi, tiba-tiba terasa ringan dijalankan.
 

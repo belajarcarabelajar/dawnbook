@@ -1,4 +1,4 @@
-## Niat Tidak Cukup: Mesin Otomatis di Dalam Diri
+## Niat Tidak Cukup
 
 Pukul dua pagi, layar ponselmu masih menyala, padahal sore tadi kamu sudah bersumpah bahwa malam ini akan berbeda.
 

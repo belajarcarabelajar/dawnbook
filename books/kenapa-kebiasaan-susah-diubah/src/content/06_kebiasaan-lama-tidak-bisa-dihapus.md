@@ -34,7 +34,7 @@ Dan panggilan itu bisa datang lagi. Ini ilustrasi yang sering muncul dalam kisah
 
 Sisi gelap kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia fisika dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
 
-### Yang bisa dilakukan: mengelola, bukan memerangi
+### Mengelola arena, bukan memerangi kebiasaan
 
 Kalau kamu merasa kabar bab ini berat, tahan dulu. Justru karena kebiasaan tidak bisa dihapus, strategi yang pintar bukan memeranginya, melainkan mengelola arena tempat ia muncul. Tiga tuas yang disebut Wood dan Rünger (2016), yaitu konteks, imbalan, dan perencanaan, adalah daftar kerja yang konkret: jauhi konteks yang memanggil, pastikan kebiasaan pengganti memberi imbalan yang layak, dan rencanakan responsmu sebelum pemicu datang.
 

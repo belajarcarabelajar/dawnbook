@@ -1,10 +1,10 @@
-## Jebakan Niat: Kenapa Niat Baik Gugur
+## Jebakan Niat
 
 Bayangkan kota tuamu sebagai sebuah kota tua yang jalananinya sudah lama ditata. Di setiap persimpangan besar berdiri papan iklan raksasa yang baru, bercahaya terang, terpasang kemarin malam. Iklan itu berkata: "Mulai besok, ambil jalan baru yang lebih sehat." Iklan itu buatanmu. Kamu yang memesannya, kamu yang membayarnya dengan seluruh semangatmu. Tapi di bawah aspal kota itu, sudah puluhan tahun tertanam rel kereta yang mengarah ke tujuan lama. Setiap pagi, tanpa kamu sadari, kereta itu berangkat tepat waktu, dan kamu ikut naik ke dalamnya. Iklan mewah itu tetap terpasang, terang, dan tidak pernah sekalipun mengubah rute kereta.
 
 Iklan itu adalah niat. Rel di bawah tanah adalah kebiasaan. Bab sebelumnya sudah menunjukkan mesin pengotomat di basal ganglia dan dopamin yang mencatat setiap imbalan. Bab ini membedah pertanyaan yang lebih tajam lagi: kalau niat saja tidak cukup, seberapa persis tidak cukupnya? Dan kenapa otak justru mendesain dirinya seperti itu?
 
-### Bukti angka: niat besar, perubahan kecil
+### Niat besar, perubahan kecil
 
 Pertanyaan "apakah menaikkan niat mengubah perilaku" sebenarnya bisa diuji di laboratorium. Para peneliti mengacak orang menjadi dua kelompok, lalu meningkatkan niat satu kelompok dengan berbagai cara: informasi baru, ajakan, peringatan kesehatan, atau pesan persuasif. Kalau niat benar-benar mesin penggerak perilaku, kelompok yang niatnya naik harus berubah perilakunya jauh lebih besar.
 

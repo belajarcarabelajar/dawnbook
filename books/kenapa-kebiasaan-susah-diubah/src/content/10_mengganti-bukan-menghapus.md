@@ -6,7 +6,7 @@ Kisah seperti ini bukan fiksi. Ia terdokumentasi dalam jurnal riset. Pada 1973, 
 
 Satu sesi. Tanpa obat. Tanpa pemahaman mendalam tentang asal-usul kebiasaan masa kecil. Apa yang mereka lakukan? Jawabannya bukan melawan kebiasaan dengan kekuatan kehendak, melainkan sesuatu yang jauh lebih cerdik: memasang aksi pengganti di dalam loop yang sama. Bab ini akan membongkar metode itu sampai ke resepnya, supaya kamu bisa memakainya untuk kebiasaanmu sendiri.
 
-### Golden rule: cue dan reward kekal, routine diganti
+### Golden rule yang mempertahankan cue dan reward
 
 Kalau kamu mengikuti buku ini dari awal, sebenarnya kamu sudah bertemu jembatan lewatnya. Di bab anatomi loop, kita membedah bahwa setiap kebiasaan tersusun dari cue, routine, dan reward. Di bab ke enam, kita menutup pintu harapan palsu: kebiasaan lama tidak bisa dihapus dari otak, jalur sarafnya hanya bisa dielakkan atau diganti. Dua keping puzzle itu menyisakan satu pertanyaan, dan Charles Duhigg dalam The Power of Habit (2012) memberi namanya: golden rule of habit change.
 
@@ -36,7 +36,7 @@ Langkah ketiga: tuliskan implementation intention, kalimat rencana berformat "Ji
 
 Langkah keempat: latih respons kompetitif sampai cepat. Seperti klien Azrin dan Nunn, praktekkan gerakan penggantimu secara sengaja, berulang, sampai ia keluar secepat kebiasaan lama. Respons kompetitif yang belum terlatih kalah lomba dari routine lama yang sudah puluhan kali dilintasi.
 
-### Batas jujur: di mana metode ini berhenti
+### Batas jujur metode ini
 
 Fakta-fakta di bab ini mudah dibaca berlebihan, jadi mari tarik garis batasnya. Data Azrin dan Nunn datang dari dua belas klien dengan kebiasaan saraf motorik, gerakan yang jelas bentuknya dan jelas momennya, seperti menggigit kuku atau menyentak otot. Sampelnya kecil, dan keberhasilan bertahan justru pada mereka yang mengikuti instruksi, artinya latihan tetap diperlukan.
 

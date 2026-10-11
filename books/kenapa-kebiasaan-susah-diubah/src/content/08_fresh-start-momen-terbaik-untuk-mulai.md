@@ -1,4 +1,4 @@
-## Fresh Start: Momen Terbaik untuk Mulai
+## Momen Mulai dan Efek Fresh Start
 
 Coba perhatikan satu pemandangan yang hampir semua orang kenal. Setiap awal Januari, pusat kebugaran di mana-mana tiba-tiba penuh. Alat lari antre, kelas senam padat, kasur yoga tak kebagian. Para pelatih bercanda bahwa member baru datang serombongan dan orang lama harus rela menunggu. Lalu tanpa diumumkan siapa-siapa, bulan Maret datang, dan ruangannya kembali lega seperti biasa. Fenomena ini begitu umum sampai menjadi bahan lelucon tahunan, meski tidak ada yang pernah merancangnya.
 
