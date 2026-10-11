@@ -356,6 +356,115 @@ describe("check-heading-colons", () => {
     });
   });
 
+  describe("--diff-guard --allow-body", () => {
+    const A = "books/b/src/content/01_a.md";
+    const B = "books/b/src/content/02_b.md";
+    const twoChapters = {
+      summary: "# Summary\n\n- [A](content/01_a.md)\n- [B](content/02_b.md)\n",
+      chapters: {
+        "01_a.md": "# Bab A\n\nIsi lama A.\n",
+        "02_b.md": "# Bab B\n\nIsi lama B.\n",
+      },
+    };
+    const edit = (rel: string, body: string) => fs.writeFileSync(path.join(tmp, rel), body);
+    const guard = (...extra: string[]) => run(["--root", tmp, "--diff-guard", "HEAD", ...extra]);
+
+    it("passes a body line change in an allowed file and lists it", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit(A, "# Bab A\n\nIsi baru A.\n");
+      const r = guard("--allow-body", A);
+      expect(r.code).toBe(0);
+      expect(r.out).toContain(`diff-guard: ok (body edits allowed in: ${A})`);
+    });
+
+    it("still fails the same change in a file that is not allowed", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit(A, "# Bab A\n\nIsi baru A.\n");
+      edit(B, "# Bab B\n\nIsi baru B.\n");
+      const r = guard("--allow-body", A);
+      expect(r.code).toBe(1);
+      expect(r.out).toContain(B);
+      expect(r.out).not.toContain(`${A}:`);
+    });
+
+    it("accepts an allowed file whose diff has only heading changes", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit(A, "# Bab A Baru\n\nIsi lama A.\n");
+      const r = guard("--allow-body", A);
+      expect(r.code).toBe(0);
+      expect(r.out).toContain("body edits allowed in");
+    });
+
+    it("allows two files and lists both", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit(A, "# Bab A\n\nIsi baru A.\n");
+      edit(B, "# Bab B\n\nIsi baru B.\n");
+      const r = guard("--allow-body", A, "--allow-body", B);
+      expect(r.code).toBe(0);
+      expect(r.out).toContain(A);
+      expect(r.out).toContain(B);
+      expect(r.out).toContain("body edits allowed in");
+    });
+
+    it("exits 2 when the allowed path is not in the diff", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit(A, "# Bab A\n\nIsi baru A.\n");
+      const r = guard("--allow-body", A, "--allow-body", B);
+      expect(r.code).toBe(2);
+      expect(r.err).toContain(B);
+    });
+
+    it("exits 2 for a path that is not a chapter under books/*/src/content", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit("books/b/src/SUMMARY.md", "# Summary\n\n- [A Baru](content/01_a.md)\n- [B](content/02_b.md)\n");
+      for (const bad of [
+        "books/b/src/SUMMARY.md",
+        "books/b/book.toml",
+        "books/b/src/content/note.txt",
+        "books/b/src/content/sub/01_a.md",
+        "scripts/x.md",
+      ]) {
+        const r = guard("--allow-body", bad);
+        expect(r.code).toBe(2);
+        expect(r.err).toContain(bad);
+      }
+    });
+
+    it("exits 2 when the flag has no value", () => {
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      const r = guard("--allow-body");
+      expect(r.code).toBe(2);
+      expect(r.err).toContain("--allow-body");
+    });
+
+    it("exits 2 when used without --diff-guard", () => {
+      writeBook(tmp, "b", twoChapters);
+      const r = run(["--root", tmp, "--allow-body", A]);
+      expect(r.code).toBe(2);
+      expect(r.err).toContain("--diff-guard");
+      expect(run(["--root", tmp, "--parity-base", "HEAD", "--allow-body", A]).code).toBe(2);
+    });
+
+    it("works with --books and rejects a path outside the selected books", () => {
+      writeBook(tmp, "a", { chapters: { "01_a.md": "# Bab\n\nIsi lama.\n" } });
+      writeBook(tmp, "b", twoChapters);
+      commitBase(tmp);
+      edit("books/a/src/content/01_a.md", "# Bab\n\nIsi baru.\n");
+      edit(A, "# Bab A\n\nIsi baru A.\n");
+      expect(guard("--books", "b", "--allow-body", A).code).toBe(0);
+      const r = guard("--books", "b", "--allow-body", "books/a/src/content/01_a.md");
+      expect(r.code).toBe(2);
+      expect(r.err).toContain("books/a/src/content/01_a.md");
+    });
+  });
+
   describe("--parity-base", () => {
     const paired = {
       summary: "# Summary\n\n- [Bab Satu: Awal](content/01_a.md)\n",

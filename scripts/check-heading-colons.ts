@@ -37,6 +37,7 @@ const HEADING = /^ {0,3}#{1,6}(?:[ \t]+(.*))?$/;
 const FENCE = /^ {0,3}(`{3,}|~{3,})(.*)$/;
 const SUMMARY_ENTRY = /^\s*[-*+]\s+\[(.*?)\]\(([^)]*)\)/;
 const TOML_TITLE = /^\s*title\s*=\s*"((?:[^"\\]|\\.)*)"/;
+const CONTENT_PATH = /^books\/([^/]+)\/src\/content\/[^/]+\.md$/;
 const TABLE_CAP = 60;
 const DETAIL_PER_BOOK = 3;
 
@@ -265,8 +266,23 @@ function baseFiles(root: string, ref: string): string[] {
 
 const clip = (s: string) => (s.length > 100 ? `${s.slice(0, 100)}...` : s);
 
-export function diffGuard(root: string, ref: string, slugs: string[] | null): string[] {
+export function diffGuard(
+  root: string,
+  ref: string,
+  slugs: string[] | null,
+  allowBody: string[] = [],
+): string[] {
   verifyRef(root, ref);
+  for (const p of allowBody) {
+    const slug = CONTENT_PATH.exec(p)?.[1];
+    if (slug === undefined || slug.startsWith("_")) {
+      throw new UsageError(`--allow-body needs a chapter path under books/*/src/content: ${p}`);
+    }
+    if (slugs && !slugs.includes(slug)) {
+      throw new UsageError(`--allow-body path is outside the selected books: ${p}`);
+    }
+  }
+  const bodyOk = new Set(allowBody);
   const paths = slugs ? slugs.map((s) => `books/${s}`) : ["books"];
   const diff = git(root, [
     "-c",
@@ -302,7 +318,8 @@ export function diffGuard(root: string, ref: string, slugs: string[] | null): st
   };
 
   const allowed = (file: string, text: string, side: "old" | "new", lineNo: number): boolean => {
-    if (/^books\/[^/]+\/src\/content\/[^/]+\.md$/.test(file)) {
+    if (bodyOk.has(file)) return true;
+    if (CONTENT_PATH.test(file)) {
       return HEADING.test(text) && !maskFor(side, file)[lineNo - 1];
     }
     if (/^books\/[^/]+\/src\/SUMMARY\.md$/.test(file)) return SUMMARY_ENTRY.test(text);
@@ -314,10 +331,12 @@ export function diffGuard(root: string, ref: string, slugs: string[] | null): st
   let inHunk = false;
   let oldNo = 0;
   let newNo = 0;
+  const inDiff = new Set<string>();
   for (const line of diff.split("\n")) {
     if (line.startsWith("diff --git ")) {
       const m = /^diff --git a\/.* b\/(.*)$/.exec(line);
       file = m ? m[1] : "";
+      inDiff.add(file);
       inHunk = false;
       continue;
     }
@@ -342,6 +361,10 @@ export function diffGuard(root: string, ref: string, slugs: string[] | null): st
       if (!allowed(file, text, "old", oldNo)) failures.push(`${file}:${oldNo} -${clip(text)}`);
       oldNo++;
     }
+  }
+  // A stale allowance must fail loudly instead of silently widening a later guard run.
+  for (const p of bodyOk) {
+    if (!inDiff.has(p)) throw new UsageError(`--allow-body path is not in the diff against ${ref}: ${p}`);
   }
   return failures;
 }
@@ -468,12 +491,13 @@ interface Options {
   json: boolean;
   selfTest: boolean;
   diffGuard?: string;
+  allowBody: string[];
   parityBase?: string;
   dupGuard?: string;
 }
 
 export function parseArgs(argv: string[]): Options {
-  const opts: Options = { root: DEFAULT_ROOT, books: null, json: false, selfTest: false };
+  const opts: Options = { root: DEFAULT_ROOT, books: null, json: false, selfTest: false, allowBody: [] };
   const value = (i: number, flag: string): string => {
     const v = argv[i + 1];
     if (v === undefined || v.startsWith("--")) throw new UsageError(`${flag} needs a value`);
@@ -498,6 +522,10 @@ export function parseArgs(argv: string[]): Options {
         break;
       case "--diff-guard":
         opts.diffGuard = value(i, a);
+        i++;
+        break;
+      case "--allow-body":
+        opts.allowBody.push(value(i, a));
         i++;
         break;
       case "--parity-base":
@@ -583,11 +611,11 @@ function resolveSlugs(opts: Options): string[] {
   return opts.books;
 }
 
-function reportGuard(opts: Options, mode: string, failures: string[]): number {
+function reportGuard(opts: Options, mode: string, failures: string[], note = ""): number {
   if (opts.json) {
     console.log(JSON.stringify({ mode, ok: failures.length === 0, failures }, null, 2));
   } else if (failures.length === 0) {
-    console.log(`${mode}: ok`);
+    console.log(`${mode}: ok${note}`);
   } else {
     console.log(`${mode}: FAILED (${failures.length})`);
     for (const f of failures) console.log(`  ${f}`);
@@ -598,6 +626,9 @@ function reportGuard(opts: Options, mode: string, failures: string[]): number {
 export function main(argv: string[]): number {
   try {
     const opts = parseArgs(argv);
+    if (opts.allowBody.length > 0 && opts.diffGuard === undefined) {
+      throw new UsageError("--allow-body only works together with --diff-guard");
+    }
 
     if (opts.selfTest) {
       const failures = runSelfTest();
@@ -620,8 +651,10 @@ export function main(argv: string[]): number {
 
     let code = 0;
     for (const [ref, mode, fn] of active) {
-      const failures = fn(opts.root, ref as string, opts.books);
-      code = Math.max(code, reportGuard(opts, mode, failures));
+      const allowBody = mode === "diff-guard" ? [...new Set(opts.allowBody)] : [];
+      const failures = fn(opts.root, ref as string, opts.books, allowBody);
+      const note = allowBody.length > 0 ? ` (body edits allowed in: ${allowBody.join(", ")})` : "";
+      code = Math.max(code, reportGuard(opts, mode, failures, note));
     }
     return code;
   } catch (error) {
