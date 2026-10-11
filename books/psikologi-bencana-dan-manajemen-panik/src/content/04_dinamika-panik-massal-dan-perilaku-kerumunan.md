@@ -53,7 +53,7 @@ Fenomena peniruan gerak ini kerap teramati dalam kehidupan sehari-hari, misalnya
 
 ---
 
-### 3. Deindividuasi: Reduksi Kesadaran Personal
+### 3. Deindividuasi
 
 Ketika seseorang melebur ke dalam kerumunan yang padat, mereka rentan mengalami **deindividuasi**, yaitu penurunan tingkat kesadaran diri (*self-awareness*) dan hilangnya evaluasi moral individual.
 
@@ -91,7 +91,7 @@ Ambiguitas situasi merupakan katalis utama yang melipatgandakan kepanikan.
 
 ---
 
-### Aplikasi Konkret: Skenario Evakuasi Pusat Perbelanjaan
+### Evakuasi Pusat Perbelanjaan saat Asap Memicu Kepanikan
 
 **Skenario:** Di sebuah pusat perbelanjaan bertingkat yang ramai pengunjung, kepulan asap tebal terdeteksi dari salah satu gerai. Sebagian pengunjung mulai berteriak dan berhamburan menuju eskalator serta pintu masuk utama yang sempit.
 

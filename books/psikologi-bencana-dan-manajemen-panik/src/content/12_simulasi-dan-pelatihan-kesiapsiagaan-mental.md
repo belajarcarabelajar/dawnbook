@@ -137,7 +137,7 @@ def evaluasi_respons_gempa(magnitudo_sensor: float, opsi_input: str) -> dict:
 
 ### 6. Studi Kasus dan Aplikasi Lapangan
 
-#### Studi Kasus: Ketahanan Prosedural pada Pendaratan Darurat Sungai Hudson (2009)
+#### Ketahanan Prosedural pada Pendaratan Darurat Sungai Hudson (2009)
 Pada 15 Januari 2009, US Airways Penerbangan 1549 kehilangan daya dorong kedua mesin akibat tabrakan kawanan burung (*bird strike*) sesaat setelah lepas landas dari New York. Kapten Chesley "Sully" Sullenberger bersama First Officer Jeffrey Skiles berhasil mendaratkan pesawat di atas permukaan Sungai Hudson tanpa menimbulkan korban jiwa.
 
 Keberhasilan luar biasa ini bukan semata-mata produk intuisi spontan, melainkan kristalisasi dari ribuan jam pelatihan berbasis simulator, pemahaman mendalam atas prinsip *Crew Resource Management* (CRM), dan kepatuhan pada daftar periksa (*emergency checklist*) yang telah terotomatisasi. Alih-alih membuang kapasitas kognitif untuk panik, seluruh energi mental dialokasikan secara presisi pada pengendalian aerodinamika pesawat dan kalkulasi opsi pendaratan yang realistis.

@@ -10,7 +10,7 @@ Kepemimpinan psikologis tidak bertumpu pada jabatan struktural atau otoritas for
 
 Dalam sosiologi bencana, dikenal fenomena *emergent leadership*, yaitu kondisi ketika individu tanpa jabatan formal muncul ke garis depan untuk mengisi kekosongan kepemimpinan fungsional. Otoritas spontan ini tidak ditegakkan melalui koersi fisik, melainkan melalui proyeksi kehadiran (*command presence*).
 
-#### A. Sinyal Nonverbal: Bahasa Tubuh Berwibawa
+#### A. Bahasa Tubuh Berwibawa
 
 Ketika sistem saraf manusia terperangkap dalam mode *fight-flight-freeze*, kapasitas kognitif analitis menurun drastis. Individu secara bawah sadar memindai figur lingkungan sekitar yang memperlihatkan sinyal stabilitas biologis.
 
@@ -73,7 +73,7 @@ Kondisi panik ekstrem sering memicu pembekuan kognitif (*cognitive freeze*). Mem
 
 ### 4. Aplikasi Nyata dan Simulasi Skenario Krisis
 
-#### Skenario: Evakuasi Kebakaran Gedung Bertingkat
+#### Memimpin Evakuasi Kebakaran Gedung Bertingkat
 
 **Kondisi Lapangan:** Alarm kebakaran berbunyi di lantai sepuluh perkantoran, asap tebal mulai merayapi koridor, elevator terhenti otomatis, dan kerumunan orang mulai berebut di depan tangga darurat.
 
