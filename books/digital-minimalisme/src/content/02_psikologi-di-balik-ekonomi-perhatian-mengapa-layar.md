@@ -1,4 +1,4 @@
-## Psikologi di Balik Attention Economy (Ekonomi Perhatian): Mengapa Layar Begitu Memikat?
+## Psikologi di Balik Attention Economy (Ekonomi Perhatian)
 
 Selamat datang di inti dari permasalahan digital kita. Jika kamu pernah merasa ingin membuka Instagram "hanya untuk lima menit" namun tiba-tiba tersadar satu jam telah berlalu, kamu tidak sedang berhalusinasi. Kamu juga tidak sedang menunjukkan kelemahan karakter.
 
@@ -12,7 +12,7 @@ Dalam ekonomi tradisional, kita bertukar uang untuk barang atau jasa. Namun, di 
 
 Bayangkan perhatianmu seperti sebidang tanah yang subur. Perusahaan teknologi adalah "petani" yang berusaha memanen hasil dari tanah tersebut. Semakin lama mereka bisa membuat kamu menatap layar, semakin banyak data yang mereka kumpulkan, dan semakin mahal harga yang bisa mereka tawarkan kepada pengiklan.
 
-## 2\. Neurobiologi Pencarian: Peran Dopamin
+## 2\. Peran Dopamin
 
 Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara teknis, dopamin lebih tepat disebut sebagai hormon "pencarian" atau "antisipasi".
 
@@ -28,7 +28,7 @@ Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika 
 
 *Coba Amati Respons Diri: Pernahkah muncul rasa cemas saat ponsel berada di ruangan lain? Hal tersebut merupakan manifestasi fisik dari sinyal dopamin yang memicu dorongan pemeriksaan perangkat.*
 
-## 3\. Efek Slot Machine: Intermittent Variable Rewards
+## 3\. Efek Slot Machine
 
 Mengapa kita terus melakukan *scrolling* meskipun kontennya membosankan? Jawabannya terletak pada eksperimen psikolog B.F. Skinner tentang **Variable Rewards** (Hadiah Variabel).
 
@@ -51,7 +51,7 @@ Manusia adalah makhluk sosial yang secara evolusioner takut dikucilkan dari kelo
 2. **Read Receipts (Centang Biru):** Menciptakan tekanan psikologis untuk segera membalas agar tidak dianggap tidak sopan.
 3. **Tags dan Mentions:** Memaksa kita untuk kembali ke aplikasi karena nama kita disebut (identitas kita terlibat).
 
-## 5\. Arsitektur Manipulatif: Dark Patterns
+## 5\. Dark Patterns
 
 Selain psikologi internal, ada teknik desain visual yang digunakan untuk memanen perhatian secara agresif:
 

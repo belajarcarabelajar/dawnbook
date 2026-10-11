@@ -1,4 +1,4 @@
-## Metode Digital Declutter: Pembersihan Total
+## Metode Digital Declutter
 
 Bayangkan otak kamu adalah sebuah ruangan yang terus dijejali dengan barang-barang selama bertahun-tahun. Sebagian mungkin berguna, tapi lebih banyak berupa tumpukan majalah lama, kabel kusut, dan pernak-pernik yang tak pernah disentuh. Digital Declutter bertugas mengosongkan seluruh ruangan tersebut, mengecat ulang dindingnya, lalu hanya memasukkan barang yang benar-benar kamu butuhkan dan sukai.
 
@@ -8,7 +8,7 @@ Cal Newport mempopulerkan metode transformasi ini untuk memutus rantai adiksi di
 
 Proses ini merupakan *reset* sistem selama 30 hari di mana kamu berhenti sejenak dari berbagai aktivitas digital opsional. Tujuannya sederhana: mencari tahu teknologi mana yang memberi nilai nyata untuk hidupmu, dan mana yang sekadar mencuri perhatian.
 
-## Langkah 1: Menentukan Aturan Main 
+## 1. Menentukan Aturan Main 
 
 Sebelum masa 30 hari dimulai, tentukan dulu aplikasi, situs web, atau perangkat yang masuk kategori "opsional". Sesuatu dianggap opsional kecuali jika saat dihentikan akan:
 
@@ -26,7 +26,7 @@ Alasan seperti "takut ketinggalan berita terkini" atau sekadar pelarian saat bos
 | Hiburan | Netflix, YouTube, Games | **Opsional** | Bisa diganti dengan aktivitas analog. |
 | Utilitas | Google Maps, M-Banking | **Tetap Digunakan** | Penting untuk fungsi harian. |
 
-## Langkah 2: Masa Puasa 30 Hari
+## 2. Masa Puasa 30 Hari
 
 Setelah menyusun daftar larangan, jalani komitmen ini selama 30 hari penuh. Waktu sepanjang ini dibutuhkan oleh otak untuk melepaskan diri dari siklus dopamin instan akibat notifikasi.
 
@@ -37,7 +37,7 @@ Fase yang biasa dialami:
 
 Cobalah ingat, kapan terakhir kali kamu duduk santai selama 15 menit penuh tanpa menyentuh layar ponsel? 
 
-## Langkah 3: Menyaring Kembali Teknologi
+## 3. Menyaring Kembali Teknologi
 
 Tahap ini sangat menentukan keberhasilan *declutter*. Saat masa puasa berakhir, tahan keinginan untuk langsung mengunduh semua aplikasi lama. Kamu wajib memakai filter ketat terhadap teknologi apapun yang ingin diaktifkan kembali.
 

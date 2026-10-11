@@ -1,4 +1,4 @@
-## Keberlanjutan Gaya Hidup Minimalis: Menjaga Api Tetap Menyala
+## Keberlanjutan Gaya Hidup Minimalis lewat Sistem Audit dan Guard Rail
 
 Setelah melewati proses *digital declutter* dan menata ulang perangkat kamu, tantangan sebenarnya dimulai: **bagaimana menjaganya agar tetap bertahan selamanya?**
 
@@ -12,7 +12,7 @@ Bayangkan minimalisme digital seperti mengurus kebun. Mencabut rumput liar sekal
 
 Kita wajib beralih dari pendekatan yang mengandalkan motivasi menjadi pendekatan sistematis agar bisa bertahan lama.
 
-## 2\. Sistem Audit Berkala: Menjaga Batasan
+## 2\. Sistem Audit Berkala
 
 Prinsip minimalisme butuh ritme evaluasi supaya tidak pudar. "Kerak digital" gampang sekali menumpuk tanpa jadwal pemeriksaan rutin.
 
@@ -24,7 +24,7 @@ Sisihkan 10 menit setiap akhir pekan untuk mengecek laporan *Screen Time* kamu. 
 
 Lakukan evaluasi menyeluruh pada ekosistem alat digital kamu setiap tiga bulan. Lihat apakah perangkat dan aplikasi yang ada masih selaras dengan nilai-nilai hidup. Cek juga ketersediaan teknologi baru yang mungkin bisa meringkas fungsi beberapa aplikasi lama sekaligus.
 
-## 3\. Matriks Keputusan: Memfilter Teknologi Baru
+## 3\. Matriks Keputusan
 
 Industri teknologi akan terus merilis gadget atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
 
@@ -48,11 +48,11 @@ Hampir semua minimalis digital akan menjumpai masa-masa kambuh. Ada kalanya kamu
 
 Langkah pertama adalah berhenti menyalahkan diri sendiri. Rasa bersalah justru kerap memancing lebih banyak konsumsi digital sebagai bentuk pelarian emosional. Kemudian, cari tahu pemicunya: apakah kamu sedang stres, bosan, atau kesepian? Terakhir, terapkan jeda total selama 24 jam penuh untuk menormalkan kembali sistem dopamin otak kamu.
 
-## 5\. Implementasi Teknis: "The Minimalism Guard Rail"
+## 5\. "The Minimalism Guard Rail"
 
 Kamu bisa memanfaatkan automasi dasar untuk memastikan sistem berjalan lancar. 
 
-### Contoh Skenario: "The Weekend Lockdown"
+### "The Weekend Lockdown"
 
 Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan keluarga tanpa interupsi obrolan grup kantor. Gunakan fitur iOS Shortcuts atau Android Tasker.
 
@@ -66,7 +66,7 @@ else:
     allow_scheduled_access()
 ```
 
-## 6\. Aplikasi Dunia Nyata: Studi Kasus "The Sustainable Minimalist"
+## 6\. Budi sebagai "The Sustainable Minimalist"
 
 **Profil: Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 

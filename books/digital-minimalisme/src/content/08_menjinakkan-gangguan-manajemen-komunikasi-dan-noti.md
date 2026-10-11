@@ -1,10 +1,10 @@
-## Menjinakkan Gangguan: Manajemen Komunikasi dan Notifikasi
+## Menjinakkan Gangguan Komunikasi dan Notifikasi
 
 Bayangkan kamu sedang membaca buku di sebuah ruangan. Tiba-tiba, seseorang masuk, menepuk bahumu, dan membisikkan hal sepele seperti kabar diskon sepatu atau pembaruan status teman.
 
 Inilah yang dilakukan ponselmu setiap hari lewat notifikasi. Bagian ini akan membahas cara mengambil alih kendali perhatian dengan mengubah perangkat tersebut menjadi alat fungsional.
 
-### 1\. Filosofi Notifikasi: Gangguan vs. Informasi
+### 1\. Notifikasi Itu Gangguan atau Informasi?
 
 Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peringatan ini sengaja dirancang memicu respons dopamin agar kamu ketagihan membuka aplikasi.
 
@@ -19,7 +19,7 @@ $$
 
 Dimana $T$ adalah waktu dan $F$ mewakili tingkat fokus. Saat fokus terganggu ($F$ mengecil), efektivitasmu anjlok secara kuadratik.
 
-### 2\. Strategi Praktis: Menjinakkan Notifikasi
+### 2\. Menjinakkan Notifikasi
 
 Langkah pertama digital minimalisme adalah mengatur jalur masuk informasi.
 
@@ -49,7 +49,7 @@ Cara termudah memulainya adalah dengan merampingkan *Home Screen*. Sisakan fitur
 
 Sebagai langkah tambahan, atur layar ke mode hitam putih (*Grayscale*). Ketiadaan warna cerah akan menekan dorongan alamiah otak untuk terus menggeser layar (*scrolling*).
 
-### 5\. Aplikasi Dunia Nyata: Skenario Kasus
+### 5\. Andi dan Grup WhatsApp
 
 Mari kita amati kasus Andi, seorang desainer grafis. Pekerjaannya sering tertunda akibat keramaian grup WhatsApp dan rentetan komentar Instagram.
 

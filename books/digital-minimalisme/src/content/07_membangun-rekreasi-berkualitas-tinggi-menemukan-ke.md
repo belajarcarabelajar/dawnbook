@@ -1,4 +1,4 @@
-## Membangun Rekreasi Berkualitas Tinggi: Menemukan Kembali Makna Waktu Luang
+## Membangun Rekreasi Berkualitas Tinggi
 
 Pernahkah kamu merasa sangat lelah setelah dua jam *scrolling* di media sosial, padahal secara fisik kamu hanya duduk diam? Ironi hiburan digital modern memang begitu: energi mental terkuras habis tanpa ada pemulihan jiwa sedikit pun. Mengosongkan waktu dari layar hanyalah langkah awal dalam digital minimalisme. Langkah selanjutnya adalah mengisi ruang kosong itu dengan kegiatan yang benar-benar memuaskan.
 
@@ -23,7 +23,7 @@ Aktivitas analog memberikan umpan balik secara instan. Saat kamu memperbaiki sep
 
 Kamu bisa mulai mengeksplorasi kegiatan seperti pertukangan kayu, merestorasi barang lama, atau bahkan fotografi film. Tidak perlu sesuatu yang rumit, menjahit pakaian yang robek atau melukis di akhir pekan juga bisa menjadi awal yang baik.
 
-## 3. Interaksi Tatap Muka: Koneksi di Atas Komunikasi
+## 3. Koneksi di Atas Komunikasi
 
 Dunia digital sering kali mereduksi "koneksi" menjadi sekadar "komunikasi". Saling bertukar pesan teks memang praktis, tetapi kita kehilangan bahasa tubuh, intonasi suara, dan kehadiran fisik yang sesungguhnya. Kapan terakhir kali kamu duduk mengobrol santai dengan teman tanpa ada satu pun ponsel di meja?
 
