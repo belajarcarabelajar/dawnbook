@@ -54,7 +54,7 @@ Dukungan sosial terbagi menjadi dua jenis utama:
 
 **Penting:** Terlalu banyak bergaul hanya dengan sesama orang dari negara asal (disebut sebagai *Expat Bubble*) mungkin terasa nyaman di awal, namun justru dapat **memperlambat** adaptasi jangka panjang dan memperpanjang masa krisis.
 
-## Model Analisis Data: Profil Risiko Adaptasi
+## Profil Risiko Adaptasi
 
 Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah objek data untuk memprediksi tingkat kesulitan yang mungkin dihadapi seseorang.
 
@@ -81,7 +81,7 @@ Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah 
 }
 ```
 
-## Aplikasi Dunia Nyata: Skenario Perbandingan
+## Perbandingan Siti dan Budi
 
 **Skenario A: Siti (Pekerja Migran di Malaysia)** Siti adalah seorang perawat dari Medan yang pindah ke Kuala Lumpur.
 

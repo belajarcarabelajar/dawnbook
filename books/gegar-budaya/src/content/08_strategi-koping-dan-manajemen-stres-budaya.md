@@ -22,7 +22,7 @@ Di mana:
 
 **Penting:** Untuk menurunkan nilai $S$ (Stres), kamu tidak selalu bisa mengubah $P$ atau $D$, tetapi kamu memiliki kendali penuh untuk meningkatkan $R$ (Resiliensi) dan $S_p$ (Dukungan Sosial).
 
-### 2. Strategi Koping Kognitif: Mengubah Pola Pikir
+### 2. Strategi Koping Kognitif
 
 Koping kognitif melibatkan perubahan cara kamu memproses informasi tentang budaya baru.
 
@@ -48,11 +48,11 @@ Menghadapi gegar budaya membutuhkan "otot emosional" yang kuat. Berikut adalah t
 
 *Kapan terakhir kali kamu memberikan izin kepada diri sendiri untuk merasa tidak baik-baik saja di tempat baru?*
 
-### 4. Strategi Sosial: Membangun Jaringan Pendukung
+### 4. Membangun Jaringan Pendukung
 
 Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "bantalan" yang menahan kamu saat jatuh.
 
-#### Strategi Jaringan Tiga Lapis:
+#### Strategi Jaringan Tiga Lapis
 
 1. **Lapis Lokal (The Local Guides):** Berteman dengan penduduk asli. Mereka adalah pintu gerbang menuju pemahaman norma yang tak tertulis.
 2. **Lapis Senasib (The Expat Community):** Orang-orang yang juga sedang beradaptasi. Mereka memberikan validasi bahwa perasaan kamu normal.
@@ -64,7 +64,7 @@ Manusia adalah makhluk sosial. Di lingkungan baru, jaringan sosial adalah "banta
 - Gunakan aplikasi pertemuan komunitas (seperti Meetup atau komunitas lokal di media sosial).
 - Jangan takut untuk menjadi orang pertama yang menyapa.
 
-### 5. Strategi Fisik: Efek Jangkar (The Anchor Effect)
+### 5. Efek Jangkar (The Anchor Effect)
 
 Stres budaya seringkali termanifestasi dalam gejala fisik. Untuk melawannya, buatlah "Jangkar Rutinitas".
 
@@ -72,7 +72,7 @@ Stres budaya seringkali termanifestasi dalam gejala fisik. Untuk melawannya, bua
 - **Nutrisi dan Tidur:** Otak yang kekurangan tidur jauh lebih rentan terhadap kecemasan. Pastikan asupan magnesium dan vitamin B kompleks cukup untuk membantu sistem saraf.
 - **Aktivitas Fisik:** Olahraga melepaskan endorfin yang secara alami menurunkan hormon kortisol (hormon stres).
 
-### Real-World Application: Skenario Kasus
+### Sari Menghadapi Stres Akulturatif
 
 **Kisah Sari di Tokyo**
 

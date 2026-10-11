@@ -48,7 +48,7 @@ Kemampuan untuk mengubah perilaku verbal dan non-verbal.
 - Kapan harus menggunakan gerakan tangan tertentu?
 - Kapan harus mengikuti protokol kesopanan lokal?
 
-## 3. Mengubah Krisis Menjadi Pertumbuhan: Rumus Transformasi
+## 3. Mengubah Krisis Menjadi Pertumbuhan
 
 Gegar budaya seringkali terasa menyakitkan karena ada benturan antara ekspektasi dan kenyataan. Namun, dalam psikologi pertumbuhan, kita dapat merumuskannya secara sederhana:
 
@@ -58,7 +58,7 @@ $$
 
 Tanpa **Tantangan**, kamu tidak akan berkembang. Tanpa **Refleksi**, tantangan hanya akan menjadi stres yang sia-sia.
 
-### Proses Transformasi:
+### Proses Transformasi
 
 1. **Disorientasi:** Kamu merasa bingung karena cara lama kamu tidak berhasil.
 2. **Eksplorasi:** Kamu mulai mencari tahu "mengapa" orang lokal bertindak demikian.
@@ -76,7 +76,7 @@ Kecerdasan Lintas Budaya yang berkelanjutan membutuhkan perpindahan dari *Fixed 
 | **Menghadapi Kegagalan** | "Saya tidak cocok di sini, saya ingin pulang." | "Saya salah paham kali ini, apa yang bisa saya perbaiki?" |
 | **Interaksi** | Menghindari orang lokal dan berkumpul dengan sesama ekspatriat. | Aktif mencari interaksi untuk belajar. |
 
-## 5. Aplikasi Dunia Nyata: Mengapa CQ Penting?
+## 5. Mengapa CQ Penting?
 
 ### Skenario Bisnis Global
 

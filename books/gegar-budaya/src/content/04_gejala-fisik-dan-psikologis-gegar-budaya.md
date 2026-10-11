@@ -4,7 +4,7 @@ Pernahkah kamu merasa sangat lelah setelah seharian berada di tempat baru, padah
 
 Gegar budaya lebih dari sekadar "perasaan asing". Ini adalah reaksi sistemik yang melibatkan pikiran dan tubuh kita saat mencoba memproses banjir informasi baru yang tidak dikenal. Bayangkan otak kamu seperti sebuah komputer yang mencoba menjalankan perangkat lunak (software) baru yang sangat berat; kipas pendingin akan berputar kencang, baterai cepat habis, dan terkadang sistem menjadi *lag* atau macet. Begitulah cara kerja gejala fisik dan psikologis saat kita mengalami gegar budaya.
 
-## 1. Gejala Psikologis: Perang di Dalam Pikiran
+## 1. Gejala Psikologis
 
 Gejala psikologis sering kali menjadi tanda pertama yang muncul, namun paling sulit diidentifikasi karena sifatnya yang subjektif.
 
@@ -22,7 +22,7 @@ Muncul pikiran seperti, *"Tidak ada yang mengerti saya di sini,"* atau *"Saya ti
 
 > **Pesan Penting:** Reaksi emosional yang meluap-luap bukan tanda kelemahan karakter, melainkan tanda bahwa kapasitas kognitif kamu sedang bekerja di ambang batas maksimal.
 
-## 2. Gejala Fisik: Saat Tubuh Mulai Berbicara
+## 2. Gejala Fisik
 
 Ketika pikiran stres, tubuh akan mengirimkan sinyal peringatan. Gejala fisik ini nyata dan sering kali disalahartikan sebagai penyakit medis biasa.
 
@@ -52,7 +52,7 @@ Terkadang, stres bermanifestasi dalam bentuk nyeri fisik yang tidak memiliki pen
 - Gangguan pencernaan (sakit perut atau diare).
 - Ketegangan otot di bahu dan leher.
 
-## Analogi: "Baterai Mental"
+## "Baterai Mental"
 
 Mari kita gunakan pendekatan matematis sederhana untuk memahami mengapa gejala ini muncul. Bayangkan kapasitas energi harian kamu adalah sebuah variabel $E$.
 
@@ -70,7 +70,7 @@ $$
 
 Jika $\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}}) > E_{\text{total}}$, maka $E_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
-## Real-World Application: Skenario Kasus
+## Kisah Budi di Jerman
 
 **Kisah Budi di Jerman** Budi baru pindah ke Berlin untuk bekerja. Pada bulan kedua, ia mulai sering mengalami sakit kepala hebat setiap sore. Ia juga merasa sangat marah ketika kasir supermarket menegurnya karena tidak menyusun belanjaan dengan cepat. Budi mengira ia sakit fisik, namun setelah berkonsultasi, ia menyadari bahwa ia mengalami gejala gegar budaya. Tubuhnya bereaksi terhadap stres karena terus-menerus harus menerjemahkan bahasa Jerman dan memahami etika antrean yang ketat.
 
@@ -79,7 +79,7 @@ Jika $\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}}) 
 - **Psikologis:** Iritabilitas (marah pada kasir).
 - **Fisik:** Nyeri psikosomatis (sakit kepala akibat ketegangan mental).
 
-## Identifikasi Mandiri: Apakah Kamu Mengalaminya?
+## Apakah Kamu Mengalaminya?
 
 *Coba refleksikan pertanyaan-pertanyaan berikut dalam hati:*
 

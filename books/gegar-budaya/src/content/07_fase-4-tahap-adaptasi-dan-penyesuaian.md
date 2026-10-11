@@ -1,4 +1,4 @@
-## Fase 4: Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)
+## Tahap Adaptasi dan Penyesuaian (The Adjustment Phase)
 
 Setelah melewati badai emosional di tahap krisis dan mulai mendaki perlahan di tahap pemulihan, kamu akhirnya sampai pada sebuah dataran tinggi yang stabil: **Tahap Adaptasi dan Penyesuaian**. Jika tahap-tahap sebelumnya terasa seperti perjuangan untuk bertahan hidup, fase ini adalah momen ketika kamu mulai benar-benar "hidup" dan menikmati keberadaan kamu di lingkungan yang baru.
 
@@ -8,7 +8,7 @@ Dalam fase ini, keanehan budaya lokal tidak lagi terasa mengancam atau menjengke
 
 Inti dari fase keempat ini adalah pencapaian **Keseimbangan Fungsional**. Ini tidak berarti kamu melupakan budaya asal atau menjadi warga lokal sepenuhnya, melainkan kamu telah menemukan cara untuk beroperasi secara efektif tanpa tekanan mental yang berlebihan.
 
-### Analogi: Mengemudi di Negara Berbeda
+### Mengemudi di Negara Berbeda
 
 Bayangkan kamu terbiasa menyetir di sisi kiri jalan, lalu pindah ke negara yang menyetir di sisi kanan.
 
@@ -37,7 +37,7 @@ $$
 
 Pada Fase Adaptasi, nilai $\text{Input}$ menjadi sangat kecil karena tindakan sosial telah menjadi **otomatisasi psikologis**, sehingga $\text{E}_{\text{fisiensi}}$ mencapai titik tertingginya.
 
-## Real-World Application: Skenario Kasus
+## Perjalanan Maya dari Krisis ke Adaptasi
 
 ### Kisah Maya di Berlin
 
@@ -56,7 +56,7 @@ Mencapai fase ini adalah prestasi besar, namun perawatan mental tetap diperlukan
 - **Refleksi Diri:** Secara berkala, tinjau kembali seberapa jauh kamu telah berkembang.
 	- *Apa hal yang dulu membuat kamu stres di negara ini, tapi sekarang terasa sangat biasa saja bagi kamu?*
 
-## Perbedaan Penting: Adaptasi vs. Asimilasi
+## Adaptasi vs. Asimilasi
 
 Banyak orang takut bahwa beradaptasi berarti kehilangan jati diri. Penting untuk membedakan keduanya:
 
@@ -68,7 +68,7 @@ Banyak orang takut bahwa beradaptasi berarti kehilangan jati diri. Penting untuk
 
 > **Penting:** Tahap Adaptasi dalam Gegar Budaya tidak menuntut kamu untuk "menjadi" orang lain, tetapi mendorong kamu menjadi versi diri yang lebih luas dan mampu berfungsi di berbagai spektrum budaya.
 
-## Evaluasi Mandiri: Apakah Kamu Sudah Di Sini?
+## Apakah Kamu Sudah Di Sini?
 
 Coba jawab pertanyaan berikut untuk mengetahui posisi kamu:
 

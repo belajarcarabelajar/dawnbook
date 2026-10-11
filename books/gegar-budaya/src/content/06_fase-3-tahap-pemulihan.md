@@ -1,4 +1,4 @@
-## Fase 3: Tahap Pemulihan (The Recovery Phase)
+## Tahap Pemulihan (The Recovery Phase)
 
 Setelah melewati badai emosi pada **Fase Krisis**, kamu kini mulai memasuki wilayah yang lebih tenang. Jika Fase Krisis diibaratkan sebagai tersesat di tengah kabut tebal, maka **Tahap Pemulihan** adalah saat kabut tersebut mulai terangkat, dan kamu mulai melihat jalan setapak yang jelas di depan mata.
 
@@ -16,7 +16,7 @@ Pada tahap ini, individu mulai mengembangkan rutinitas dan merasa lebih mampu me
 
 > "Pemulihan bukan berarti hilangnya perbedaan, tetapi tumbuhnya kemampuan untuk menavigasi perbedaan tersebut tanpa stres yang melumpuhkan."
 
-## 2. Dinamika Kemajuan: Analogi dan Logika Adaptasi
+## 2. Analogi dan Logika Adaptasi
 
 Bayangkan kamu sedang belajar mengendarai mobil manual:
 
@@ -53,7 +53,7 @@ Bahasa tidak hanya mencakup kosakata, tetapi juga konteks. Di tahap pemulihan, o
 
 Rasa percaya diri yang sempat hancur di Fase Krisis mulai pulih. Kamu merasa bangga ketika berhasil menyelesaikan urusan birokrasi yang rumit atau ketika seorang warga lokal bertanya arah jalan kepadamu (dan kamu bisa menjawabnya!).
 
-## 4. Kasus Nyata: Skenario "Kemenangan Kecil"
+## 4. "Kemenangan Kecil" Andi
 
 **Subjek:** Andi, seorang mahasiswa Indonesia di Tokyo, Jepang.
 

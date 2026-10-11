@@ -4,7 +4,7 @@ Pernahkah kamu membayangkan bahwa berpindah ke luar negeri atau daerah baru sepe
 
 Mempersiapkan diri menghadapi gegar budaya (culture shock) bertujuan untuk memperkecil "guncangan" saat kamu mendarat, sebab tantangan itu pasti akan selalu ada. Bagian ini akan membekali kamu dengan peta navigasi mental dan teknis sebelum kakimu melangkah di bandara tujuan.
 
-## 1. Persiapan Mental: Membangun Resiliensi dari Dalam
+## 1. Persiapan Mental
 
 Persiapan mental adalah hal paling berharga yang bisa kamu lakukan. Gegar budaya sering kali dipicu oleh perbedaan antara **ekspektasi** dan **realitas**.
 
@@ -30,11 +30,11 @@ Di mana:
 
 > "Gegar budaya bukan berarti kamu lemah; itu adalah tanda bahwa kamu sedang tumbuh melampaui batas kenyamanan lamamu."
 
-## 2. Riset Awal: Menjadi Detektif Budaya
+## 2. Riset Awal
 
 Riset lebih dari sekadar membaca Wikipedia. Ini adalah tentang memahami "aturan tak tertulis" dari lingkungan barumu.
 
-### Gunakan Metode Lima Indra untuk Riset:
+### Metode Lima Indra untuk Riset
 
 1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Perhatikan bagaimana mereka berpakaian dan berinteraksi di ruang publik.
 2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Bukan hanya "Halo", tapi kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
@@ -84,7 +84,7 @@ Jika kamu adalah orang yang terorganisir secara teknis, buatlah sebuah "Database
 }
 ```
 
-## 4. Selama Keberangkatan: Strategi 48 Jam Pertama
+## 4. Strategi 48 Jam Pertama
 
 Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalanan (jet lag) sering kali memperburuk gejala awal gegar budaya.
 
@@ -94,7 +94,7 @@ Transisi yang mulus dimulai saat kamu mendarat. Kelelahan fisik karena perjalana
 - **Aturan Tidur Lokal:** Segera ikuti zona waktu tujuan. Jika mendarat jam 10 pagi, jangan tidur sampai malam hari. Ini adalah disiplin pertama dalam adaptasi.
 - **Eksplorasi Lingkungan Terdekat:** Dalam 24 jam pertama, berjalanlah keluar rumah/asrama dalam radius 500 meter. Cari toko kelontong terdekat. Merasa tahu di mana harus membeli air minum atau roti akan memberikan rasa kendali (sense of control).
 
-## Aplikasi Dunia Nyata: Skenario Kasus
+## Persiapan Andi Menuju Jerman
 
 **Kasus: Andi, Mahasiswa yang Pindah ke Jerman**
 
