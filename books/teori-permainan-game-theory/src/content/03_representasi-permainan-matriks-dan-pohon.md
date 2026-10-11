@@ -1,4 +1,4 @@
-## Representasi Permainan: Matriks dan Pohon
+## Representasi Permainan lewat Matriks dan Pohon
 
 Dalam Teori Permainan, cara kita menyajikan sebuah masalah menentukan seberapa mudah kita dapat menyelesaikannya. Bayangkan kamu sedang mencoba menjelaskan strategi bisnis yang kompleks atau taktik dalam sebuah olahraga. Jika kamu menjelaskannya hanya dengan kata-kata, risiko terjadinya salah paham sangat besar.
 
@@ -16,7 +16,7 @@ Sebuah permainan dalam bentuk normal terdiri dari tiga elemen dasar ($N, S, P$):
 2. **Strategi ($S$):** Daftar lengkap tindakan yang tersedia bagi setiap pemain.
 3. **Payoff/Hasil ($P$):** Nilai numerik (utilitas) yang diterima pemain untuk setiap kombinasi strategi yang mungkin.
 
-### Visualisasi: Matriks Payoff
+### Matriks Payoff
 
 Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
 
@@ -62,7 +62,7 @@ Meskipun setiap permainan bentuk ekstensif dapat dikonversi menjadi bentuk norma
 | **Visualisasi** | Tabel dua dimensi | Struktur hierarkis |
 | **Kompleksitas** | Mudah untuk 2 pemain, sulit untuk >2 | Lebih fleksibel untuk banyak pemain |
 
-## 4. Kasus Dunia Nyata: Masuknya Perusahaan ke Pasar
+## 4. Masuknya Perusahaan ke Pasar
 
 Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan apakah akan masuk ke pasar yang dikuasai **Perusahaan B** (Petahana).
 

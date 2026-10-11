@@ -1,10 +1,10 @@
-## Permainan Berulang (Repeated Games): Membangun Kepercayaan Melalui Interaksi Berkelanjutan
+## Permainan Berulang (Repeated Games)
 
 Dalam modul sebelumnya, kita telah mempelajari **Dilema Tahanan (Prisoner's Dilemma)** di mana dua pihak sering kali berakhir dengan hasil buruk karena mereka tidak bisa saling percaya dalam satu kali interaksi. Namun, dalam kehidupan nyata, kita jarang berinteraksi dengan orang lain hanya sekali. Kita bertemu rekan bisnis yang sama, berbelanja di toko yang sama, dan bekerja dengan tim yang sama selama bertahun-tahun.
 
 **Permainan Berulang (Repeated Games)** adalah cabang dari teori permainan yang mempelajari bagaimana perilaku manusia berubah ketika interaksi terjadi berkali-kali. Di sini, dimensi waktu dan masa depan menjadi faktor penentu keputusan kita.
 
-## 1. Konsep Dasar: Bayangan Masa Depan (The Shadow of the Future)
+## 1. Bayangan Masa Depan (The Shadow of the Future) sebagai Konsep Dasar
 
 Apa yang membedakan satu kali pertemuan dengan pertemuan yang berulang? Jawabannya adalah **Reputasi** dan **Pembalasan**.
 
@@ -76,7 +76,7 @@ Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulan
 
 Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung sangat jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
 
-## 5. Implementasi Kode: Simulasi Tit-for-Tat
+## 5. Simulasi Tit-for-Tat dengan Kode
 
 Mari kita lihat bagaimana strategi ini bekerja dalam simulasi sederhana menggunakan Python.
 

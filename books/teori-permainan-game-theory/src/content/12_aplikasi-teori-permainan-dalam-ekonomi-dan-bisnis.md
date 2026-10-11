@@ -4,7 +4,7 @@ Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana Teori Permainan menjadi alat navigasi utama dalam memahami persaingan pasar, dinamika harga, dan kecerdasan di balik sistem lelang.
 
-## 1. Persaingan Oligopoli: Catur Antar Raksasa
+## 1. Catur Antar Raksasa
 
 Oligopoli adalah struktur pasar di mana hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
 
@@ -31,7 +31,7 @@ Berbeda dengan Cournot, model Bertrand berasumsi bahwa perusahaan bersaing melal
 
 > **Insight Penting:** Dalam dunia nyata, perusahaan berusaha menghindari Paradoks Bertrand dengan melakukan **diferensiasi produk** (merek, fitur, atau layanan) sehingga mereka tidak hanya bersaing di harga.
 
-## 2. Perang Harga: Dilema Tahanan di Rak Supermarket
+## 2. Perang Harga sebagai Dilema Tahanan di Rak Supermarket
 
 Mengapa perang harga sering kali merugikan semua orang yang terlibat? Kita bisa melihat ini sebagai aplikasi dari **Dilema Tahanan (Prisoner's Dilemma)**.
 
@@ -50,11 +50,11 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 *Coba perhatikan: Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
 
-## 3. Mekanisme Lelang: Seni Menentukan Harga
+## 3. Seni Menentukan Harga lewat Mekanisme Lelang
 
 Lelang adalah salah satu aplikasi Teori Permainan yang paling canggih, digunakan mulai dari menjual lukisan kuno hingga mengalokasikan frekuensi 5G dan iklan digital (Google Ads).
 
-### Jenis-Jenis Lelang Utama:
+### Jenis-Jenis Lelang Utama
 
 1. **Lelang Inggris (Ascending-Price):** Harga naik terus sampai hanya tersisa satu penawar. Strategi optimal: Berhenti saat harga melebihi nilai subjektif kamu terhadap barang tersebut.
 2. **Lelang Belanda (Descending-Price):** Juru lelang memulai dengan harga sangat tinggi dan menurunkannya sampai ada orang yang berteriak "Beli!". Ini sangat mengandalkan kecepatan dan nyali.
@@ -67,7 +67,7 @@ Lelang adalah salah satu aplikasi Teori Permainan yang paling canggih, digunakan
 
 Dalam lelang di mana nilai barang tidak pasti (misalnya hak pengeboran minyak), pemenang sering kali adalah orang yang paling melebih-lebihkan nilai barang tersebut. Akibatnya, pemenang lelang seringkali justru menjadi pihak yang merugi karena membayar terlalu mahal.
 
-## Real-World Application: Bagaimana Google Mendapatkan Uang?
+## Bagaimana Google Mendapatkan Uang?
 
 Setiap kali kamu mencari sesuatu di Google, terjadi lelang Teori Permainan dalam hitungan milidetik. Google menggunakan variasi dari **Lelang Vickrey** untuk menentukan iklan mana yang muncul di atas.
 

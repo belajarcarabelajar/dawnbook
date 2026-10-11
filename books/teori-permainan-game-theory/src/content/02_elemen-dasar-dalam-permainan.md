@@ -41,7 +41,7 @@ Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini 
 
 **Analogi Sederhana:** Bayangkan pemain sebagai **koki** (*Players*), strategi sebagai **resep** (*Strategies*), dan imbalan sebagai **rating bintang** dari juri (*Payoffs*). Rating yang diterima koki A tidak hanya tergantung pada bumbu yang dia pakai, tapi juga apakah koki B memasak hidangan yang lebih enak atau justru hidangan yang saling melengkapi.
 
-### Contoh Dunia Nyata: Perang Harga Antar Toko
+### Perang Harga Antar Toko
 
 Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
 

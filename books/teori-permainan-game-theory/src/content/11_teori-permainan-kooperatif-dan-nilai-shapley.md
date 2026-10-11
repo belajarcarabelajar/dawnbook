@@ -1,4 +1,4 @@
-## Teori Permainan Kooperatif dan Nilai Shapley: Seni Berbagi Secara Adil
+## Teori Permainan Kooperatif dan Nilai Shapley
 
 Dalam bagian-bagian sebelumnya, kita banyak belajar tentang bagaimana pemain bersaing untuk mendapatkan hasil terbaik bagi diri mereka sendiri. Namun, di dunia nyata, sering kali jauh lebih menguntungkan jika kita bekerja sama daripada saling menjatuhkan.
 
@@ -8,7 +8,7 @@ Selamat datang di dunia **Teori Permainan Kooperatif**. Di sini, fokus kita berg
 
 Berbeda dengan permainan non-kooperatif (seperti Dilema Tahanan) di mana pemain tidak bisa membuat kesepakatan yang mengikat, dalam **permainan kooperatif**, pemain dapat berkomunikasi, membentuk kelompok yang disebut **koalisi**, dan membuat perjanjian yang berkekuatan hukum atau moral.
 
-### Konsep Utama: Fungsi Karakteristik
+### Fungsi Karakteristik
 
 Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu yang bisa mereka capai jika bekerja sama. Ini disebut sebagai **Fungsi Karakteristik**, dilambangkan dengan $v(S)$, di mana $S$ adalah sebuah koalisi.
 
@@ -21,7 +21,7 @@ Dalam permainan kooperatif, setiap kelompok (koalisi) memiliki nilai tertentu ya
 > - Budi punya telur.
 > - Caca punya oven. Secara individu, mereka tidak bisa membuat kue. Namun, jika mereka membentuk koalisi besar, mereka bisa membuat kue raksasa seharga Rp100.000. Masalahnya: **Siapa yang berhak mendapatkan berapa bagian dari Rp100.000 tersebut?**
 
-## 2. Nilai Shapley: Definisi Keadilan
+## 2. Nilai Shapley sebagai Definisi Keadilan
 
 Pertanyaan tentang "pembagian yang adil" adalah inti dari karya **Lloyd Shapley**, yang memenangkan Hadiah Nobel Ekonomi pada tahun 2012. **Nilai Shapley (Shapley Value)** adalah cara untuk membagi total keuntungan di antara para pemain berdasarkan kontribusi rata-rata mereka terhadap semua kemungkinan koalisi yang ada.
 
@@ -53,7 +53,7 @@ $$
 
 *Apakah adil jika seseorang yang bergabung terakhir mendapatkan bagian yang sama dengan orang yang merintis dari awal? Nilai Shapley menjawab ini dengan merata-ratakan semua urutan kedatangan yang mungkin.*
 
-## 4. Contoh Perhitungan: Masalah Taksi
+## 4. Perhitungan pada Masalah Taksi
 
 Mari kita lihat skenario dunia nyata yang sering kita alami.
 

@@ -1,4 +1,4 @@
-## Permainan Sekuensial dan Induksi Mundur: Menatap Masa Depan untuk Menentukan Masa Kini
+## Permainan Sekuensial dan Induksi Mundur
 
 Bayangkan kamu sedang bermain catur. Sebelum kamu menggerakkan bidak, kamu tidak hanya memikirkan posisi saat ini, tetapi kamu mencoba membayangkan: *"Jika saya melangkah ke A, lawan akan melangkah ke B. Jika lawan melangkah ke B, saya akan membalas dengan C."*
 
@@ -23,7 +23,7 @@ Sebelum kita melakukan analisis, kita harus memahami struktur "peta" permainan i
 3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil ditentukan.
 4. **Hasil (Payoffs):** Angka yang menunjukkan keuntungan/kerugian bagi setiap pemain di akhir jalur tertentu.
 
-## 3. Induksi Mundur (Backward Induction): Logika Detektif
+## 3. Induksi Mundur (Backward Induction) sebagai Logika Detektif
 
 Teknik paling ampuh untuk memecahkan permainan sekuensial adalah **Induksi Mundur (Backward Induction)**.
 
@@ -33,7 +33,7 @@ Teknik paling ampuh untuk memecahkan permainan sekuensial adalah **Induksi Mundu
 
 Karena untuk mengetahui apa yang harus kamu lakukan sekarang (langkah pertama), kamu harus tahu bagaimana lawanmu akan bereaksi nanti. Dan untuk tahu bagaimana lawan bereaksi, kamu harus tahu bagaimana kamu akan menanggapi reaksi tersebut, dan seterusnya hingga permainan berakhir.
 
-### Langkah-langkah Melakukan Induksi Mundur:
+### Langkah-langkah Melakukan Induksi Mundur
 
 1. Pergilah ke simpul keputusan terakhir dalam pohon permainan (paling kanan atau paling bawah).
 2. Tentukan tindakan mana yang akan diambil oleh pemain di simpul tersebut untuk memaksimalkan hasil (*payoff*) mereka sendiri.
@@ -41,7 +41,7 @@ Karena untuk mengetahui apa yang harus kamu lakukan sekarang (langkah pertama), 
 4. Anggap hasil dari pilihan optimal tersebut sebagai hasil dari simpul itu.
 5. Bergerak mundur ke simpul keputusan sebelumnya dan ulangi proses tersebut hingga mencapai awal permainan.
 
-## 4. Studi Kasus: Permainan Masuk Pasar (Market Entry)
+## 4. Permainan Masuk Pasar (Market Entry)
 
 Mari kita gunakan skenario nyata untuk memahami konsep ini.
 
@@ -56,7 +56,7 @@ Mari kita gunakan skenario nyata untuk memahami konsep ini.
 - Jika P Masuk dan B Bertarung: $(-2, -1)$
 - Jika P Masuk dan B Akomodasi: $(2, 5)$
 
-### Analisis dengan Induksi Mundur:
+### Analisis dengan Induksi Mundur
 
 1. **Lihat Langkah Terakhir:** Langkah terakhir ada di tangan **Petahana (B)** jika P masuk.
    - Jika B Bertarung, hasilnya $-1$.
@@ -77,7 +77,7 @@ Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Eq
 
 Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
-## 6. Contoh Teknis: Kode Logika Sederhana
+## 6. Kode Logika Sederhana
 
 Dalam pemrograman atau AI, kita sering menggunakan algoritma **Minimax** (bentuk dari induksi mundur) untuk permainan seperti Tic-Tac-Toe.
 
@@ -113,7 +113,7 @@ Meskipun secara teori sangat kuat, induksi mundur memiliki kelemahan dalam prakt
 - **Kompleksitas Komputasi:** Dalam permainan seperti Catur atau Go, jumlah kemungkinan langkah sangat besar sehingga tidak mungkin melakukan induksi mundur hingga ke akhir yang absolut bagi otak manusia (dan bahkan komputer super).
 - **Masalah Kepercayaan:** Jika ada ketidakpastian informasi, induksi mundur menjadi jauh lebih sulit dilakukan.
 
-### Bahan Pertimbangan:
+### Bahan Pertimbangan
 
 > Jika kamu sedang bernegosiasi dengan seseorang yang dikenal sangat emosional dan tidak rasional, apakah teknik Induksi Mundur masih bisa diandalkan sepenuhnya? Mengapa strategi "ancaman gila" terkadang berhasil dalam politik internasional meskipun secara matematis tidak rasional?
 
