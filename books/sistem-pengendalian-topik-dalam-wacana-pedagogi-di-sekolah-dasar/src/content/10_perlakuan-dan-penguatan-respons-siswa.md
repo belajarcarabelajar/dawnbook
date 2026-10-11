@@ -59,7 +59,7 @@ Dalam interaksi ini, pengulangan kata *"Kambing"* oleh guru memastikan seluruh k
 
 ---
 
-> ### Panduan Pedagogis: Mengoptimalkan Penguatan Respons
+> ### Panduan Pedagogis untuk Mengoptimalkan Penguatan Respons
 >
 > 1. **Variasikan Bentuk Penguatan:** Kombinasikan pujian verbal dengan penguatan nonverbal (seperti senyuman atau anggukan) untuk menciptakan suasana kelas yang hangat.
 > 2. **Berikan Umpan Balik Spesifik:** Hindari hanya mengucapkan *"Bagus"*, tetapi jelaskan aspek mana dari jawaban siswa yang sudah tepat.
