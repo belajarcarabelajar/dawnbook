@@ -4,7 +4,7 @@ Selamat datang di inti pembahasan Analisis Wacana Kritis (AWK) dalam kriminologi
 
 Bagian ini memperlihatkan bagaimana bahasa bukan sekadar alat untuk melaporkan peristiwa, melainkan pahat yang membentuk persepsi masyarakat tentang benar dan salah, normal dan menyimpang.
 
-### 1. Kejahatan: Sebuah Produk Budaya, Bukan Fakta Alamiah
+### 1. Kejahatan sebagai Produk Budaya, Bukan Fakta Alamiah
 
 Bayangkan ketika melihat tanaman liar di tengah taman bunga yang tertata rapi. Apakah tanaman itu secara biologis adalah "hama"? Tidak. Secara biologis, ia hanyalah tumbuhan. Ia menjadi "hama" hanya karena manusia memutuskan bahwa ia tumbuh di tempat yang salah dan mengganggu estetika taman tersebut.
 
@@ -62,7 +62,7 @@ Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan memben
 | **Kejahatan Jalanan (*Street Crime*)** | Menggunakan bahasa yang penuh ketakutan, urgensi, dan ancaman fisik. | Ditujukan pada individu pelaku. | Sangat tinggi (*pelabelan kriminal*). |
 | **Kejahatan Kerah Putih (*White-Collar Crime*)** | Menggunakan bahasa teknis, administratif, atau "kekhilafan prosedur". | Dialihkan dari individu ke sistem. | Rendah (mengurangi stigma "penjahat"). |
 
-### 4. Aplikasi Dunia Nyata: Studi Kasus Perang Terhadap Narkoba
+### 4. Narasi Perang Terhadap Narkoba
 
 Mari perhatikan bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
 
@@ -87,7 +87,7 @@ Untuk memahami bagaimana konstruksi wacana bekerja secara praktis, cobalah langk
 3. **Identifikasi "Suara yang Hilang":** Apakah pelaku diberi kesempatan berbicara untuk menjelaskan konteks sosialnya, atau apakah narasi tersebut sepenuhnya dikendalikan oleh pihak kepolisian?
 4. **Ubah narasinya:** Coba tulis ulang berita tersebut dengan mengganti kata "Kriminal" menjadi "Warga negara yang gagal mendapatkan akses kesejahteraan". Rasakan bagaimana persepsi masyarakat terhadap orang tersebut berubah hanya karena perubahan pilihan kata.
 
-### 6. Linguistik Forensik: Menangkap Kriminal Lewat Jejak Teks
+### 6. Jejak Teks dalam Linguistik Forensik
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Seorang analis forensik bekerja seperti detektif yang tidak hanya mencari sidik jari fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 

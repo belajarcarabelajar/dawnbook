@@ -1,18 +1,18 @@
-## Wacana Institusional: Polisi, Pengadilan, dan Penjara
+## Wacana Institusional Polisi, Pengadilan, dan Penjara
 
 Bahasa dalam kriminologi bukan sekadar alat komunikasi, melainkan instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan terbelenggu. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi tembok kekuasaan birokratis.
 
-### 1. Memahami Wacana Institusional: "Bahasa sebagai Benteng"
+### 1. Bahasa sebagai Benteng Wacana Institusional
 
 Wacana institusional adalah cara berkomunikasi yang khas dalam suatu lembaga yang memiliki aturan, struktur, dan hierarki tertentu. Dalam konteks kepolisian, pengadilan, dan penjara, bahasa berfungsi sebagai "benteng" yang memisahkan antara **pemegang otoritas** (pihak yang menguasai aturan main) dan **subjek hukum** (pihak yang diproses secara hukum).
 
 > **Analogi:** Wacana institusional dapat dianalogikan seperti "bahasa sandi" di sebuah klub eksklusif. Tanpa mengetahui sandi tersebut, seseorang tidak dapat masuk dan tidak dapat membela diri secara efektif. Institusi menggunakan istilah teknis (*legalese*) untuk memastikan bahwa hanya pihak berwenang atau ahli yang dapat menginterpretasikan kebenaran.
 
-### 2. Kepolisian: Bahasa Laporan dan Objektivitas Semu
+### 2. Objektivitas Semu Bahasa Kepolisian
 
 Di kepolisian, wacana sering kali dikemas dalam bentuk Laporan Polisi, Berita Acara Pemeriksaan (BAP), dan perintah administratif. Fokus utamanya adalah menciptakan kesan **objektivitas** dan **netralitas**.
 
-#### Karakteristik Utama Wacana Kepolisian:
+#### Karakteristik Utama Wacana Kepolisian
 
 - **Penggunaan Kalimat Pasif:** Polisi sering menggunakan konstruksi kalimat pasif untuk mengaburkan aktor penindak atau menghilangkan tanggung jawab personal.
   - *Contoh:* "Tersangka berhasil dilumpuhkan" terdengar lebih objektif dan impersonal dibandingkan "Petugas memukul tersangka hingga jatuh."
@@ -21,11 +21,11 @@ Di kepolisian, wacana sering kali dikemas dalam bentuk Laporan Polisi, Berita Ac
 
 > **Pesan Kunci:** Penggunaan bahasa yang teknis dan dingin ini berfungsi melepaskan beban emosional dari petugas dan membuat tindakan kekerasan negara terlihat sebagai prosedur standar yang legal.
 
-### 3. Pengadilan: Ritualisme dan Dominasi Simbolis
+### 3. Ritualisme dan Dominasi Simbolis Pengadilan
 
 Pengadilan merupakan arena tempat wacana mencapai puncak formalitasnya. Di ruang sidang, bahasa dipergunakan untuk menegaskan kontrol penuh atas penetapan kebenaran hukum.
 
-#### Mekanisme Kekuasaan dalam Wacana Sidang:
+#### Mekanisme Kekuasaan Wacana Sidang
 
 1. **Monopoli Interpretasi:** Hanya hakim dan jaksa yang memiliki hak otoritatif untuk menentukan interpretasi undang-undang. Kesaksian terdakwa sering kali "diterjemahkan" ulang oleh penasihat hukum agar sesuai dengan format perundang-undangan, yang terkadang mengeliminasi konteks kemanusiaan yang sebenarnya.
 2. **Ritual Komunikasi:** Aturan ketat mengenai tata cara dan alokasi waktu bicara memperkuat struktur hierarki. Pelanggaran terhadap tata cara wacana sidang dapat dikategorikan sebagai *Contempt of Court* (penghinaan terhadap pengadilan).
@@ -34,18 +34,18 @@ Pengadilan merupakan arena tempat wacana mencapai puncak formalitasnya. Di ruang
 **Aplikasi Dunia Nyata (Skenario Hukum):**  
 Dalam persidangan kasus pencurian kecil, Jaksa Penuntut Umum secara konsisten merujuk pada ketetapan \(\text{Pasal 362 KUHP}\). Ketika terdakwa berusaha menjelaskan latar belakang ekonomi dan kelaparan yang dialaminya, penjelasan tersebut sering dihentikan karena dinilai "tidak relevan dengan unsur pidana." Dalam situasi ini, wacana formal hukum mengalahkan wacana kemanusiaan demi menjaga status quo hukum.
 
-### 4. Penjara: Eufemisme dan Kontrol Total
+### 4. Eufemisme dan Kontrol Total di Penjara
 
 Di balik lembaga pemasyarakatan, bahasa berfungsi mendisiplinkan dan menormalisasi pembatasan kebebasan. Di Indonesia, terdapat transisi linguistik dalam penggunaan istilah yang mencerminkan pergeseran wacana ideologis.
 
-#### Transformasi Wacana: Dari "Penjara" ke "Lembaga Pemasyarakatan"
+#### Transformasi Wacana dari "Penjara" ke "Lembaga Pemasyarakatan"
 
 Perubahan istilah dari "Penjara" menjadi "Lembaga Pemasyarakatan" (Lapas) serta dari "Narapidana" menjadi "Warga Binaan Pemasyarakatan" (WBP) merupakan bentuk **eufemisme ideologis**.
 
 - **Tujuan Institusional:** Membangun citra bahwa lembaga bersifat mendidik dan merehabilitasi (rehabilitatif), bukan sekadar menghukum (retributif).
 - **Perspektif AWK:** Analisis Wacana Kritis mempertanyakan apakah perubahan peristilahan ini berbanding lurus dengan perubahan substansi perlakuan, ataukah sebatas cara halus untuk menjustifikasi kontrol total negara terhadap individu.
 
-#### Bahasa Kontrol Internal:
+#### Bahasa Kontrol Internal
 
 - **Pemeriksaan Rutin:** Diistilahkan sebagai "sidak" (inspeksi mendadak).
 - **Ruang Isolasi:** Diistilahkan sebagai "sel tutupan sunyi".  
@@ -73,13 +73,13 @@ Ketika mengamati pemberitaan kriminal di media massa, perhatikan seberapa sering
 
 ---
 
-### 6. Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+### 6. Linguistik Forensik sebagai Alat Bukti Kebahasaan
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang memanfaatkan analisis kebahasaan untuk kepentingan bukti hukum dan investigasi kriminal. Analisis ini bekerja layaknya "sidik jari linguistik" yang terekam dalam susunan kalimat, pilihan kata, hingga tata tanda baca.
 
 Dalam kriminologi, bahasa diposisikan sebagai manifestasi perilaku individu. Terdapat tiga pilar utama analisis kebahasaan sebagai alat bukti:
 
-#### 1. Idiolek: Sidik Jari Kebahasaan
+#### 1. Idiolek dan Latar Belakang Penutur
 
 Sama halnya dengan karakter fisik sidik jari atau DNA, setiap individu memiliki **idiolek**, yaitu karakter dan gaya bahasa khas yang dipengaruhi latar belakang pendidikan, dialek regional, usia, serta profesi.
 

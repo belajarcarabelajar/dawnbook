@@ -1,10 +1,10 @@
-## Kerangka Metodologis: Model Tiga Dimensi Norman Fairclough
+## Kerangka Metodologis Model Tiga Dimensi Norman Fairclough
 
 Selamat datang di jantung teknis dari Analisis Wacana Kritis (AWK). Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop canggih yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
 
 Norman Fairclough memandang wacana bukan sekadar kata-kata yang diucapkan, melainkan sebuah **praktik sosial**. Untuk membedahnya, ia menawarkan kerangka kerja tiga dimensi yang saling berkaitan: **Teks**, **Praktik Diskursif**, dan **Praktik Sosial-Budaya**.
 
-### Analogi: Membedah Sebuah Bangunan
+### Membedah Sebuah Bangunan
 
 Bayangkan situasi ketika sedang menganalisis sebuah bangunan penjara:
 
@@ -16,7 +16,7 @@ Mari kita bedah masing-masing dimensi ini dalam konteks kriminologi.
 
 ---
 
-## 1. Dimensi Mikro: Analisis Teks (Deskripsi)
+## 1. Dimensi Mikro Analisis Teks
 
 Pada level ini, analisis linguistik dilakukan secara mendetail. Fokus utamanya bukan pada apa yang "dimaksud" oleh penulis, melainkan pada apa yang secara eksplisit "tertulis".
 
@@ -39,7 +39,7 @@ Pada level ini, analisis linguistik dilakukan secara mendetail. Fokus utamanya b
 
 ---
 
-## 2. Dimensi Meso: Praktik Diskursif (Interpretasi)
+## 2. Dimensi Meso Praktik Diskursif
 
 Dimensi ini menjembatani teks dengan masyarakat. Analisis difokuskan pada bagaimana teks itu **diproduksi** (dibuat) dan bagaimana teks itu **dikonsumsi** (diterima oleh publik).
 
@@ -55,7 +55,7 @@ Dimensi ini menjembatani teks dengan masyarakat. Analisis difokuskan pada bagaim
 
 ---
 
-## 3. Dimensi Makro: Praktik Sosial-Budaya (Eksplanasi)
+## 3. Dimensi Makro Praktik Sosial-Budaya
 
 Ini adalah level tertinggi di mana teks dihubungkan dengan konteks sosial yang lebih luas, terutama terkait dengan **kekuasaan** dan **ideologi**.
 
@@ -69,7 +69,7 @@ Ini adalah level tertinggi di mana teks dihubungkan dengan konteks sosial yang l
 
 ---
 
-## Penerapan Praktis: Analisis Kasus "Begal"
+## Analisis Kasus "Begal"
 
 Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa melalui tiga tahap:
 
@@ -79,7 +79,7 @@ Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa
 
 ---
 
-## Studi Kasus Teknis: Analisis Putusan Pengadilan
+## Analisis Putusan Pengadilan
 
 Dalam dokumen hukum, berlakunya model Fairclough dapat diamati melalui struktur argumen:
 
@@ -122,13 +122,13 @@ Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati jud
 
 ---
 
-## Linguistik Forensik: Persimpangan Antara Bahasa dan Hukum
+## Linguistik Forensik di Persimpangan Bahasa dan Hukum
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Ibarat seorang detektif yang tidak mencari sidik jari pada benda fisik, ahli linguistik forensik mencari **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
-### 1. Idiolek: Sidik Jari dalam Kata
+### 1. Idiolek sebagai Sidik Jari Kata
 
 Sama seperti sidik jari atau DNA, setiap individu memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki seseorang, dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 

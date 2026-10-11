@@ -31,7 +31,7 @@ Bahasa dalam interogasi sering kali dirancang untuk membatasi ruang gerak lingui
 
 ---
 
-### 2. Retorika Ruang Sidang: Teater Kebenaran
+### 2. Retorika Ruang Sidang
 
 Ruang sidang adalah sebuah panggung di mana pengacara dan jaksa bertindak sebagai sutradara narasi. Setiap pilihan kata bertujuan untuk memengaruhi persepsi hakim atau juri.
 
@@ -72,7 +72,7 @@ Sering kali, saksi dibuat merasa terpojok atau tidak konsisten melalui teknik:
 
 ---
 
-### 4. Penerapan Dunia Nyata: Analisis Kasus Kekerasan Seksual
+### 4. Analisis Kasus Kekerasan Seksual
 
 Mari melihat bagaimana manipulasi bahasa terjadi dalam skenario nyata persidangan kekerasan seksual, di mana sering terjadi **"Victim Blaming"** melalui wacana.
 
@@ -102,13 +102,13 @@ Di mana jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi v
 
 ---
 
-### 6. Linguistik Forensik: Menangkap Kriminal Lewat Jejak Teks dan Anatomi Kata
+### 6. Anatomi Kata dalam Linguistik Forensik
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Bayangkan seorang detektif yang tidak mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 
 Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah beberapa pilar utama bagaimana kata-kata menjadi alat bukti:
 
-#### Idiolek: Sidik Jari dalam Kata
+#### Idiolek sebagai Gaya Bahasa Unik
 
 Sama seperti sidik jari atau DNA, setiap orang memiliki **idiolek**. Idiolek adalah gaya bahasa unik yang dimiliki individu, yang dipengaruhi oleh latar belakang pendidikan, dialek regional, usia, hingga profesi.
 
