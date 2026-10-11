@@ -76,7 +76,7 @@ def evaluasi_ide(ide):
         return "Perlu ditinjau ulang (mencari-cari kesalahan)."
 ```
 
-## ️ Cara Mengenali dan Mengurangi Bias Kelompok
+## Cara Mengenali dan Mengurangi Bias Kelompok
 
 Meskipun bias ini bersifat instingtif, kita bisa melatih otak untuk lebih objektif:
 

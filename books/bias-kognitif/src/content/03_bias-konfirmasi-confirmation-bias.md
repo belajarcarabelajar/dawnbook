@@ -6,7 +6,7 @@ Selamat, kamu baru saja mengalami **Bias Konfirmasi**.
 
 Bias konfirmasi adalah salah satu bias kognitif yang paling kuat dan meresap dalam kehidupan manusia. Ini adalah kecenderungan kita untuk mencari, menafsirkan, dan mengingat informasi dengan cara yang memperkuat keyakinan atau hipotesis awal kita, sambil mengabaikan informasi yang bertentangan dengannya.
 
-## ️ Tiga Pilar Bias Konfirmasi
+## Tiga Pilar Bias Konfirmasi
 
 Otak kita tidak bekerja seperti hakim yang tidak memihak dalam mencari kebenaran. Sebaliknya, otak kita sering bertindak seperti **pengacara** yang hanya mencari bukti untuk memenangkan kasusnya. Ada tiga cara utama bagaimana bias ini beroperasi:
 
@@ -85,7 +85,7 @@ Seorang dokter mungkin secara tidak sadar membentuk diagnosis awal dalam beberap
 1. *Kapan terakhir kali kamu secara sengaja mencari argumen dari pihak yang berseberangan denganmu?*
 2. *Apakah kamu membaca argumen tersebut untuk memahaminya, atau hanya untuk mencari celah agar bisa membantahnya?*
 
-## ️ Cara Menghadapi Bias Konfirmasi
+## Cara Menghadapi Bias Konfirmasi
 
 Meskipun kita tidak bisa menghapus bias ini sepenuhnya (karena ini adalah bagian dari "hardware" otak kita), kita bisa memitigasi dampaknya:
 
