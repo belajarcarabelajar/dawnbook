@@ -1,10 +1,10 @@
-# Prosedur dan Rutinitas Harian: Membangun "Autopilot" dalam Pembelajaran
+# Prosedur dan Rutinitas Harian
 
 Pernahkah kamu memperhatikan bagaimana kru *pit stop* Formula 1 bekerja? Hanya dalam hitungan detik, ban diganti, bahan bakar diisi (pada era tertentu), dan mobil kembali melaju. Tidak ada instruksi yang diteriakkan di tengah kebisingan; setiap orang tahu persis apa yang harus dilakukan, kapan melakukannya, dan bagaimana melakukannya.
 
 Dalam manajemen kelas proaktif, **Prosedur dan Rutinitas Harian** adalah "kru pit stop" kamu. Tujuannya bukan untuk menciptakan lingkungan yang kaku seperti militer, melainkan untuk mengotomatiskan hal-hal teknis sehingga energi kognitif guru dan siswa dapat sepenuhnya difokuskan pada satu hal: **Pembelajaran**.
 
-## 1. Memahami Perbedaan: Aturan vs. Prosedur
+## 1. Aturan vs. Prosedur
 
 Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaannya adalah langkah pertama menuju kelas yang efisien.
 
@@ -73,7 +73,7 @@ Untuk mengurangi ketergantungan pada guru, terapkan aturan ini:
 
 Ini mendorong kolaborasi dan memastikan guru hanya menjawab pertanyaan yang benar-benar penting terkait materi pelajaran.
 
-## 5. Implementasi: Metode T-R-R (Teach, Rehearse, Reinforce)
+## 5. Metode T-R-R (Teach, Rehearse, Reinforce)
 
 Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya sebuah materi pelajaran.
 
@@ -83,7 +83,7 @@ Mengumumkan prosedur satu kali tidaklah cukup. Prosedur harus diajarkan layaknya
 
 *Pertimbangkan hal berikut: Jika sebuah prosedur gagal, tanyakan pada diri sendiri: "Apakah saya sudah melatih mereka dengan cukup, atau saya hanya sekadar memberitahu mereka?"*
 
-## Real-World Application: Skenario Kasus
+## Transisi Kelas 5 SD yang Gaduh
 
 **Skenario:** Kelas 5 SD seringkali sangat bising dan kacau saat berpindah dari kegiatan belajar di meja ke kegiatan diskusi kelompok di karpet.
 

@@ -92,7 +92,7 @@ def check_engagement(student_response, time_taken):
         return "Coba lagi! Ingat konsep X yang baru kita bahas."
 ```
 
-## 6. Real-world Application: Studi Kasus
+## 6. Kelas Sejarah Ibu Ratna
 
 **Kasus:** Ibu Ratna mengajar Sejarah di jam terakhir hari Jumat. Siswa cenderung gelisah, sering meminta izin ke belakang, dan mulai membuat kegaduhan kecil.
 
@@ -116,7 +116,7 @@ Agar keterlibatan bersifat inklusif, gunakan pendekatan yang mengakomodasi berba
 | **Kinestetik** | *Gallery Walk* (berjalan keliling kelas untuk mengamati karya teman), simulasi fisik, dan penggunaan alat peraga. |
 | **Membaca/Menulis** | Jurnal refleksi, membuat anotasi pada teks, dan menulis surat dari perspektif tokoh sejarah. |
 
-## Kesimpulan: Keterlibatan adalah Pencegahan
+## Keterlibatan adalah Pencegahan
 
 Keterlibatan siswa aktif bukan hanya tentang metode mengajar, tetapi tentang menghargai martabat intelektual siswa. Ketika kita memberikan tanggung jawab kepada siswa untuk menjadi partisipan aktif dalam pembelajaran mereka sendiri, kita secara otomatis membangun lingkungan kelas yang penuh rasa hormat dan minim konflik.
 

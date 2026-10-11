@@ -1,4 +1,4 @@
-# Intervensi Non-Verbal dan Edukatif: Seni Mengelola Kelas Tanpa Suara
+# Intervensi Non-Verbal dan Edukatif
 
 Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa, namun tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
@@ -54,7 +54,7 @@ Alih-alih menegur dari depan kelas (yang membuat siswa merasa dipermalukan dan c
 
 Jika kamu tidak ingin menghentikan pembicaraan sama sekali, bawalah tumpukan *sticky notes*. Tuliskan instruksi singkat (misal: "Halaman 42, kerjakan nomor 1") dan tempelkan di meja siswa yang tidak fokus sambil kamu terus mengajar.
 
-### Aplikasi Nyata: Skenario di Kelas
+### Pendekatan Reaktif vs. Proaktif
 
 Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervensi non-verbal proaktif:
 
@@ -82,7 +82,7 @@ Di mana:
 
 Semakin kecil $D$ (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 
-### Real-World Application: Strategi "Non-Stop"
+### Strategi "Non-Stop"
 
 Berikut adalah langkah-langkah praktis yang bisa kamu terapkan mulai besok:
 

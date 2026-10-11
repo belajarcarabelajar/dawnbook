@@ -1,8 +1,8 @@
-# Penetapan Norma dan Kontrak Sosial: Membangun Fondasi Kepemilikan Bersama
+# Penetapan Norma dan Kontrak Sosial
 
 Bayangkan kamu sedang membangun sebuah rumah. Aturan kelas yang dibuat sepihak oleh guru ibarat instruksi kaku dari seorang mandor yang tidak pernah menempati rumah tersebut. Sebaliknya, **Kontrak Sosial** adalah desain arsitektur yang dirancang bersama oleh seluruh penghuninya. Ketika siswa merasa memiliki "saham" dalam menentukan bagaimana kelas berjalan, mereka tidak lagi sekadar menaati aturan karena takut dihukum, melainkan karena mereka menghargai kesepakatan yang mereka buat sendiri.
 
-## 1. Filosofi: Dari Kepatuhan Menuju Komitmen
+## 1. Dari Kepatuhan Menuju Komitmen
 
 Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun, dalam manajemen kelas proaktif, kita bergeser dari **Aturan** ke **Norma**.
 
@@ -15,14 +15,14 @@ Banyak guru terjebak dalam paradigma pembuatan "Daftar Larangan" (Rules). Namun,
 
 Melibatkan siswa dalam pembuatan aturan bukan berarti memberikan kendali penuh tanpa arah. Ini adalah proses fasilitasi yang terstruktur. Berikut adalah langkah-langkahnya:
 
-### Langkah 1: Eksplorasi Nilai (The "Why")
+### 1. Eksplorasi Nilai (The "Why")
 
 Mulailah dengan pertanyaan reflektif. Mintalah siswa membayangkan kelas impian mereka.
 
 - *Pikirkan tentang ini:* "Seperti apa suasana kelas yang membuatmu merasa aman dan semangat untuk belajar?"
 - *Aktivitas:* Gunakan *sticky notes* (visual & kinestetik). Setiap siswa menuliskan satu kata sifat (misal: "Ramah", "Tenang", "Seru").
 
-### Langkah 2: Kategorisasi dan Sintesis
+### 2. Kategorisasi dan Sintesis
 
 Kumpulkan semua ide dan kelompokkan ke dalam tema besar. Biasanya, ide-ide siswa akan mengerucut pada empat pilar utama:
 
@@ -31,7 +31,7 @@ Kumpulkan semua ide dan kelompokkan ke dalam tema besar. Biasanya, ide-ide siswa
 3. Hormat terhadap lingkungan/barang.
 4. Hormat terhadap diri sendiri.
 
-### Langkah 3: Mengubah Nilai Menjadi Perilaku Konkrit
+### 3. Mengubah Nilai Menjadi Perilaku Konkrit
 
 Nilai "Saling Menghormati" terlalu abstrak bagi beberapa siswa. Kita perlu menurunkannya menjadi perilaku yang bisa diamati. Gunakan rumus sederhana ini:
 
@@ -44,7 +44,7 @@ $$
 - Hormat + Mendengarkan = "Kita memberikan perhatian penuh saat seseorang berbicara di depan kelas."
 - Tanggung Jawab + Kebersihan = "Kita merapikan alat tulis masing-masing sebelum keluar kelas."
 
-### Langkah 4: Konsensus dan Penandatanganan
+### 4. Konsensus dan Penandatanganan
 
 Setelah draf disepakati, buatlah dokumen fisik yang menarik. Ini bukan sekadar kertas, ini adalah **Kontrak Sosial**. Mintalah setiap siswa (dan guru!) menandatanganinya. Penandatanganan secara fisik melibatkan aspek psikologis yang kuat terhadap komitmen.
 
@@ -67,16 +67,16 @@ Dalam kontrak sosial, jika terjadi pelanggaran, kita tidak menggunakan "hukuman"
 | Mengganggu teman | Disetrap/Keluar kelas | Pindah tempat duduk sementara untuk refleksi |
 | Tidak piket | Menulis "Saya janji..." 100x | Melakukan piket di hari berikutnya |
 
-## 4. Real-World Application: Skenario Praktis
+## 4. Norma Kelas Dasar dan Menengah
 
-### Skenario A: Kelas Dasar (Elementary)
+### Kelas Dasar (Elementary)
 
 Guru menggunakan boneka atau cerita untuk memicu diskusi.
 
 - **Guru:** "Lihat si Kancil, dia sedih karena saat bicara, teman-temannya asyik bermain sendiri. Apa yang harus kita lakukan agar tidak ada 'Kancil' lain di kelas kita?"
 - **Hasil:** Norma "Telinga Mendengar, Mata Menatap" terbentuk.
 
-### Skenario B: Kelas Menengah (Secondary)
+### Kelas Menengah (Secondary)
 
 Guru menggunakan pendekatan profesional seperti kontrak kerja di perusahaan teknologi.
 

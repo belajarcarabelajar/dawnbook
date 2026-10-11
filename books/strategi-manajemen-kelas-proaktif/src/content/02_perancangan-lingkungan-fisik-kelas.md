@@ -1,4 +1,4 @@
-# Perancangan Lingkungan Fisik Kelas: Arsitektur Keberhasilan Pembelajaran
+# Perancangan Lingkungan Fisik Kelas
 
 Bayangkan kamu masuk ke sebuah restoran. Jika meja-meja disusun terlalu rapat, kamu akan merasa sesak. Jika pelayan sulit menjangkau meja kamu karena terhalang dekorasi, layanan akan lambat. Sebaliknya, restoran yang dirancang dengan baik membuat aliran pergerakan terasa alami dan suasana menjadi nyaman.
 
@@ -10,7 +10,7 @@ Dalam dunia pendidikan, terdapat konsep bahwa lingkungan adalah **"Guru Ketiga"*
 
 > **Pesan Inti:** Jika kelas berantakan, siswa cenderung berperilaku kacau. Jika kelas terorganisir dengan akses sumber daya yang jelas, siswa akan merasa mandiri dan bertanggung jawab.
 
-### Prinsip Utama Perancangan:
+### Prinsip Utama Perancangan
 
 1. **Visibilitas:** Guru harus bisa melihat semua siswa, dan semua siswa harus bisa melihat area instruksi utama.
 2. **Aksesibilitas:** Siswa harus bisa mengambil materi tanpa mengganggu teman lainnya.
@@ -26,7 +26,7 @@ Tidak ada satu ukuran untuk semua. Tata letak meja harus mengikuti **tujuan inst
 
 Gangguan sering terjadi saat siswa bergerak (transisi). Misalnya, saat mengambil buku atau membuang sampah. Untuk meminimalisir ini, kita bisa menggunakan "Logika Supermarket".
 
-### Rumus Efisiensi Ruang:
+### Rumus Efisiensi Ruang
 
 Dalam teknik industri, kita bisa membayangkan efisiensi pergerakan ($E$) sebagai fungsi dari jarak ($d$) dan hambatan ($o$): $E \propto \frac{1}{\sum (d \cdot o)}$ *Semakin besar jarak dan hambatan, semakin rendah efisiensi dan semakin tinggi peluang terjadinya kekacauan.*
 
@@ -56,7 +56,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu flouresens yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
 - **Area "Cool Down":** Sediakan satu pojok kecil dengan kursi nyaman atau karpet untuk siswa yang merasa kewalahan secara emosional.
 
-## 6. Skenario Kasus: Transformasi Ruang
+## 6. Transformasi Ruang
 
 **Masalah:** Ibu Sari memiliki kelas yang sangat aktif. Setiap kali ia meminta siswa mengumpulkan tugas ke mejanya di depan, terjadi aksi saling dorong dan kelas menjadi gaduh selama 5 menit.
 
