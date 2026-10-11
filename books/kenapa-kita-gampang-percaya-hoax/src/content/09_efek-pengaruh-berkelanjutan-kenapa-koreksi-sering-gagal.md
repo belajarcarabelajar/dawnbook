@@ -1,4 +1,4 @@
-## Efek Pengaruh Berkelanjutan: Kenapa Koreksi Sering Gagal
+## Efek Pengaruh Berkelanjutan
 
 Bayangkan kamu membaca kabar bahwa sebuah gudang terbakar karena ada kaleng cat dan gas yang disimpan sembarangan. Beberapa hari kemudian keluar klarifikasi resmi: ternyata gudang itu kosong, tidak ada cat, tidak ada gas. Kamu membaca ralatnya, mengangguk, lalu lupa. Tapi seminggu kemudian, saat ada yang bertanya kenapa kebakaran itu bisa begitu besar, jawaban yang muncul di kepalamu tetap: "Kan ada kaleng cat sama gasnya."
 
@@ -22,7 +22,7 @@ Karena itulah info lama tetap dipakai. Ia mengisi lubang yang ditinggalkan korek
 
 Ada faktor kedua yang bikin masalah ini lebih licin: **familiaritas**. Saat kamu mengoreksi sebuah mitos, mau tidak mau kamu mengulang mitos itu. "Vaksin tidak menyebabkan autisme" tetap mengandung kata "vaksin" dan "autisme" berdampingan. Setiap pengulangan membuat kaitan itu terasa makin akrab, dan otak sering menyamakan "terasa akrab" dengan "terasa benar". Jadi koreksi yang ceroboh bisa tanpa sengaja memperkuat justru hal yang ingin dibantah.
 
-### Soal "backfire effect": jangan takut mengoreksi
+### "Backfire effect" dan alasan tak perlu takut mengoreksi
 
 Di sini ada satu hal yang perlu diluruskan, karena mitosnya sendiri sempat beredar luas di kalangan yang peduli literasi informasi.
 

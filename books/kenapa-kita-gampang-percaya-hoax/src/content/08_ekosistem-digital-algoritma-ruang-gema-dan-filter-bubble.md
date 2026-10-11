@@ -1,4 +1,4 @@
-## Ekosistem Digital: Algoritma, Ruang Gema, dan Filter Bubble
+## Ekosistem Digital
 
 Sejauh ini kita membahas apa yang terjadi di dalam kepala: bias konfirmasi, efek kebenaran ilusi, emosi yang membajak nalar. Tapi kepala kamu tidak bekerja di ruang hampa. Setiap hari ia terhubung ke mesin raksasa yang memilih apa yang kamu lihat, kapan kamu melihatnya, dan seberapa sering. Mesin itu punya tujuannya sendiri, dan tujuan itu bukan kebenaran.
 
@@ -18,7 +18,7 @@ Perhatikan bahwa tidak ada satu pun metrik itu bernama "benar". Algoritma tidak 
 
 Jadi bukan algoritma sengaja menyebar hoaks. Algoritma hanya mengejar sinyal engagement, dan kebetulan hoaks yang menyentak emosi memancarkan sinyal itu paling kuat. Kejujuran kalah bukan karena dilarang, tapi karena dia jarang seheboh kebohongan.
 
-### Filter bubble: dunia yang dipangkas untukmu
+### Filter bubble dan dunia yang dipangkas untukmu
 
 Istilah **filter bubble** dipopulerkan Eli Pariser pada 2011. Idenya sederhana: karena platform mempersonalisasi apa yang kamu lihat berdasarkan perilaku masa lalu, lama-lama kamu tinggal di dalam gelembung informasi yang disesuaikan. Kamu makin sering ketemu hal yang sudah kamu sukai, dan makin jarang ketemu pandangan yang menantang.
 
@@ -26,7 +26,7 @@ Bahayanya halus. Kamu tidak merasa sedang disaring. Bagimu, gelembung itu terasa
 
 Personalisasi ini memberi makan bias konfirmasi. Kalau kamu cenderung mencari yang membenarkan keyakinanmu, dan platform dengan senang hati menyodorkan lebih banyak dari itu, lingkaran tertutup pun terbentuk: kamu memberi sinyal, algoritma memantulkan balik, kamu makin yakin.
 
-### Ruang gema: gaung yang terus dipantulkan
+### Ruang gema
 
 Kalau filter bubble soal apa yang **disaring untukmu**, ruang gema (**echo chamber**) soal **siapa yang mengelilingimu**. Ketika jaringan sosialmu homogen, orang-orang dengan pandangan serupa, klaim yang sama akan dipantulkan berulang kali dari berbagai arah.
 
@@ -39,7 +39,7 @@ Ingat kembali dua mekanisme dari bab sebelumnya:
 
 Ruang gema membuat konsensus palsu terasa nyata. Sepuluh orang yang mengulang satu sumber terlihat seperti sepuluh bukti terpisah. Padahal itu satu klaim yang digemakan sepuluh kali.
 
-### Nuansa yang jujur: jangan salahkan algoritma sepenuhnya
+### Jangan salahkan algoritma sepenuhnya
 
 Di sini penulis harus jujur, karena membesar-besarkan "filter bubble" sebagai satu-satunya biang keladi justru menyesatkan.
 
@@ -59,7 +59,7 @@ Selain apa yang disaring, **bagaimana informasi mengalir** juga penting. Ekosist
 
 Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soal waktu. Ia sudah menyebar dan diyakini sebelum koreksi sempat mengejar. Dan bahkan ketika koreksi datang, ia harus menembus dinding grup tertutup yang tidak menghendaki kehadirannya.
 
-### Ekonomi perhatian: hoaks itu murah dan menguntungkan
+### Hoaks yang murah dan menguntungkan dalam ekonomi perhatian
 
 Ada alasan ekonomi yang dingin di balik semua ini. Dalam ekonomi perhatian, perhatian manusia adalah komoditas yang diperjualbelikan. Siapa yang bisa menahan mata, dia yang untung.
 

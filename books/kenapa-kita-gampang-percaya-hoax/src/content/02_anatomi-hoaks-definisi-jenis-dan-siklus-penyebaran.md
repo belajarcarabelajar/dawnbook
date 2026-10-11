@@ -1,4 +1,4 @@
-## Anatomi Hoaks: Definisi, Jenis, dan Siklus Penyebaran
+## Anatomi Hoaks
 
 Kata "hoaks" sering dipakai untuk apa saja yang kita anggap salah. Padahal di baliknya ada beberapa hal berbeda yang punya niat, isi, dan cara kerja yang tidak sama. Kalau kamu bisa membedakannya, kamu jadi lebih tenang saat membaca dan tidak buru-buru menuduh atau ikut menyebar. Bab ini membedah bagian-bagian hoaks: apa definisinya, ada berapa bentuknya, dan bagaimana ia berkembang dari satu unggahan kecil sampai jadi keyakinan banyak orang.
 

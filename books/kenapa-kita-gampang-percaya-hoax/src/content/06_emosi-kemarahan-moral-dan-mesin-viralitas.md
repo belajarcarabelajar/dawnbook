@@ -8,13 +8,13 @@ Penelitian tentang perilaku berbagi menunjukkan pola konsisten: konten yang memb
 
 Ini penting karena hoaks jarang ditulis dengan nada tenang. Judulnya dirancang menekan tombol emosi: huruf kapital, tanda seru, kata-kata yang memancing, dan bingkai "mereka menyembunyikan ini darimu".
 
-### Kemarahan moral: bahan bakar paling ampuh
+### Kemarahan moral
 
 Emosi yang paling kuat mendorong penyebaran adalah **kemarahan moral** (*moral outrage*): campuran marah dan jijik yang muncul ketika kita merasa ada aturan moral yang dilanggar, apalagi kalau pelanggarnya kelompok lain. Ini membuatnya sangat "engaging": ia terasa **benar secara moral** (kamu merasa menegakkan keadilan, bukan bergosip), ia **mengundang keterlibatan** (orang lain ikut marah, mengecam, membagikan), dan ia **memperkuat identitas** (dengan ikut marah, kamu menunjukkan kamu di pihak yang "benar").
 
 Karena mengundang banyak reaksi, konten ini diperkuat algoritma yang menampilkan hal paling banyak disukai, dibagikan, dan dikomentari. Terbentuklah putaran: makin banyak interaksi, makin luas algoritma menyebarkannya, makin banyak orang ikut marah dan membagikan. Peneliti menyebut penyebaran muatan moral-emosional ini *moral contagion*, penularan moral (Brady dkk., 2017; Crockett, 2017 tentang kemarahan moral di era digital).
 
-### Yang bikin repot: misinformasi memancing lebih banyak amarah
+### Misinformasi memancing lebih banyak amarah
 
 Di sinilah masalahnya bertemu hoaks. Penelitian terbaru menemukan **misinformasi cenderung memancing lebih banyak kemarahan moral dibanding sumber tepercaya** (McLoughlin, Brady, dkk., 2024, terbit di *Science*). Masuk akal: kabar palsu tidak terikat kenyataan, jadi bebas dibuat seprovokatif mungkin. Temuan itu punya dua lapisan: konten pemancing amarah **lebih mudah menyebar** (dorongannya untuk misinformasi setidaknya setara dengan berita tepercaya), dan banyak orang **membagikan konten pemicu amarah tanpa membacanya dulu**, bereaksi pada judul, bukan isi.
 
@@ -31,7 +31,7 @@ Ini menjelaskan teka-teki: kenapa mengingatkan orang untuk "cek dulu akurasinya"
 | Epistemik | Apakah ini benar? | Cukup efektif |
 | Non-epistemik | Apakah ini mewakili sikapku? | Sering kurang mempan |
 
-### Sekilas soal otak: reaksi cepat mendahului nalar
+### Reaksi cepat mendahului nalar
 
 Kenapa emosi bisa mendahului pikiran? Otak kita punya sistem yang bereaksi cepat terhadap ancaman dan pelanggaran, jauh lebih cepat daripada bagian yang menimbang dengan tenang. Ketika sebuah konten terasa mengancam atau melanggar sesuatu yang kita anggap sakral, respons emosional menyala lebih dulu, sebelum kita sempat menalar. Ini bukan berarti kita "dibajak" satu bagian otak tertentu, dan kita perlu berhati-hati untuk tidak melebih-lebihkan penjelasan neurosains. Yang bisa dikatakan cukup aman: **reaksi emosional bisa datang lebih dulu, dan penalaran menyusul, kadang hanya untuk membenarkan apa yang sudah kita rasakan.** Jeda antara "merasa" dan "berpikir" itulah celah yang dimanfaatkan konten viral.
 

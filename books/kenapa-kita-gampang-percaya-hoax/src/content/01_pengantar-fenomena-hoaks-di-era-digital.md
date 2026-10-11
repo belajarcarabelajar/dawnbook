@@ -1,4 +1,4 @@
-## Pengantar: Fenomena Hoaks di Era Digital
+## Fenomena Hoaks di Era Digital
 
 Jam sebelas malam, grup WhatsApp keluarga tiba-tiba ramai. Om kamu mengirim pesan dengan huruf kapital semua: "AWAS!! Mulai besok air keran mengandung zat kimia berbahaya, tolong sebarkan ke semua orang yang kamu sayang." Ada foto buram, ada logo instansi yang kelihatan resmi, ada kalimat penutup "dari teman yang kerja di dalam". Dalam sepuluh menit, tante kamu sudah meneruskannya ke tiga grup lain. Ibu kamu ikut panik dan mulai menampung air galon. Besok paginya, ternyata kabar itu bohong. Instansinya sudah membantah sejak seminggu lalu. Tapi pesannya sudah berlari jauh, mampir ke ribuan ponsel, dan tidak ada yang benar-benar meminta maaf.
 

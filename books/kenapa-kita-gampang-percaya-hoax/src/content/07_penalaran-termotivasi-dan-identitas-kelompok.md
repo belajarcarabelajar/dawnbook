@@ -29,7 +29,7 @@ Hoaks memanfaatkan dinamika ini lewat dua resep yang hampir selalu manjur:
 
 Konten begini lolos dari kewaspadaan bukan karena buktinya kuat, tapi karena cocok dengan peta "kita versus mereka" di kepala. Ormas yang bersaing, komunitas hobi yang saling mengejek, sampai fandom yang berseteru, sama rentannya.
 
-### Myside Sharing: Berbagi yang Sepihak
+### Myside Sharing
 
 Riset Antoine Marie, Michael Bang Petersen, dan kolega menyoroti **myside sharing**: kecenderungan membagikan berita yang berpihak pada kelompoknya, terlepas dari benar atau palsu. Dua hal terutama mendorongnya:
 
