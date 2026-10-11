@@ -1,4 +1,4 @@
-## Kajian Ekspresif Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
+## Sosok Bapak dan Ibu sebagai Inspirasi Terbesar
 
 Keluarga merupakan jangkar emosional yang mengikat seluruh rangkaian ingatan dan perjuangan hidup. Dalam novel *9 Summers 10 Autumns*, latar belakang kedua orang tua menjadi sumbu inspirasi ekspresif terbesar bagi pengarang untuk menuangkan pergulatan batin serta rasa syukurnya.
 

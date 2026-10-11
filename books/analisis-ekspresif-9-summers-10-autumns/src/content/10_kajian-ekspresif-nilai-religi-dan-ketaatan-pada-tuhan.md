@@ -1,4 +1,4 @@
-## Kajian Ekspresif Nilai Religi dan Ketaatan pada Tuhan
+## Nilai Religi dan Ketaatan pada Tuhan
 
 ### Ketaatan Spiritual di Tengah Perubahan Budaya
 
