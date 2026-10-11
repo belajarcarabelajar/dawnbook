@@ -1,10 +1,10 @@
-## Mengelola Kompleksitas: Hierarki Modul dengan Folder
+## Mengelola Kompleksitas Hierarki Modul dengan Folder
 
 Bayangkan kamu sedang membangun perpustakaan digital yang sangat besar. Awalnya, kamu mungkin hanya membutuhkan satu rak buku. Namun, seiring bertambahnya koleksi, satu rak tentu tidak lagi cukup. Kamu pun mulai membagi buku berdasarkan kategori (Fiksi, Sains, Sejarah). Di dalam kategori Sains, buku-buku tersebut dibagi lagi menjadi Fisika, Biologi, dan Kimia.
 
 Dalam dunia Rust, ketika kode programmu tumbuh dari puluhan menjadi ribuan baris, menumpuk semua file di dalam satu folder `src/` akan membuat proyek berantakan. Di sinilah **Hierarki Modul dengan Folder** mulai memainkan peran penting.
 
-### Analogi: Struktur Organisasi Perusahaan
+### Struktur Organisasi Perusahaan
 
 Untuk memahami konsep hierarki ini, kita bisa membayangkan struktur sebuah perusahaan:
 
@@ -14,7 +14,7 @@ Untuk memahami konsep hierarki ini, kita bisa membayangkan struktur sebuah perus
 
 Tanpa adanya pembagian folder, semua anggota tim dari setiap departemen akan berkumpul di satu ruangan besar. Hal ini tentu memicu kekacauan ketika ada yang ingin mencari informasi spesifik.
 
-### Pola Modern: File dan Folder Berdampingan
+### Pola File dan Folder Berdampingan
 
 Sejak Rust edisi 2018, cara standar untuk membuat submodul yang kompleks adalah dengan menggunakan pola **File-dan-Folder**. Aturannya cukup sederhana:
 
@@ -107,7 +107,7 @@ pub fn upload(name: &str) { ... }
 
 Kalau diperhatikan, struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Menariknya, sistem modul Rust mencerminkan struktur pohon ini secara identik.
 
-### Kasus Nyata: Pengembangan Game Engine
+### Pengembangan Game Engine
 
 Dalam pengembangan game, kerapian organisasi kode menjadi sangat krusial. Perhatikan bagaimana hierarki folder berikut mempermudah proses navigasi:
 

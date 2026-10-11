@@ -23,7 +23,7 @@ Absolute Path adalah cara merujuk ke sebuah item dengan memulai dari crate root 
 
 Gunakan Absolute Path ketika kamu ingin merujuk ke suatu item yang letaknya jauh dalam hierarki module, atau ketika kamu ingin pemanggilan tersebut tetap valid meskipun kamu memindahkan kode pemanggilnya ke module lain.
 
-### Contoh Kode:
+### Contoh Kode Absolute Path
 
 ```rust
 mod ruang_makan {
@@ -78,7 +78,7 @@ mod dapur {
 }
 ```
 
-## Perbandingan Visual: Absolute vs Relative Paths
+## Absolute vs Relative Paths
 
 Mari kita lihat bagaimana sebuah function dipanggil dengan kedua cara tersebut dalam struktur yang lebih kompleks:
 
@@ -113,7 +113,7 @@ Rust secara default menyembunyikan isi module (private). Agar sebuah path bisa d
 
 Ketika Absolute Path yang digunakan sangat panjang, seperti `crate::area::bangunan::lantai::ruangan::meja::laci::kunci()`, mengetiknya berulang kali tentu akan sangat melelahkan. Rust menyediakan cara praktis untuk menyederhanakan penulisan ini, yang akan kita bahas di bagian `use` nanti.
 
-## Kasus Penggunaan di Dunia Nyata: Struktur Proyek Web
+## Struktur Proyek Web
 
 Dalam pengembangan web application, sering kali kita memisahkan database logic dan API logic.
 

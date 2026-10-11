@@ -1,4 +1,4 @@
-## Perbandingan Struktur: mod.rs vs Pola Modern
+## Perbandingan Struktur mod.rs vs Pola Modern
 
 Saat mulai mendalami Rust, kamu mungkin akan menemukan dua cara berbeda dalam menyusun folder dan file modul. Jika kamu melihat tutorial lama atau proyek yang sudah berumur, kamu akan sering menemui file bernama `mod.rs`. Namun, pada proyek modern, file tersebut seolah menghilang.
 
@@ -15,11 +15,11 @@ Di Rust, compiler memiliki dua cara untuk mendeteksi bahwa folder **"Auth"** mer
 
 > **Insight Penting:** Kedua pola ini masih didukung demi menjaga kompatibilitas ke belakang (*backward compatibility*). Meski begitu, komunitas sangat menyarankan penggunaan pola modern untuk proyek baru.
 
-## 1\. Pola Klasik: Pendekatan mod.rs
+## 1\. Pola Klasik
 
 Sebelum edisi Rust 2018, jika kamu ingin sebuah folder dianggap sebagai modul, kamu wajib menaruh file `mod.rs` di dalamnya. File ini berfungsi sebagai pintu masuk utama modul tersebut.
 
-### Struktur File:
+### Struktur File Klasik
 
 ```
 src/
@@ -41,15 +41,15 @@ Selanjutnya, deklarasikan sub-modul di dalam `src/auth/mod.rs`:
 pub mod login; // Mencari file login.rs di folder yang sama
 ```
 
-### Analogi: "Resepsionis di Dalam Ruangan"
+### "Resepsionis di Dalam Ruangan"
 
 Sebagai analogi, bayangkan setiap departemen di kantor memiliki pintu tertutup. Untuk mengetahui isi departemen "Auth", kamu harus masuk terlebih dahulu ke dalam ruangan tersebut dan menemui resepsionis yang bertugas di meja `mod.rs`.
 
-## 2\. Pola Modern: Nama File dan Folder Berdampingan
+## 2\. Pola Modern
 
 Edisi Rust 2018 menghadirkan cara yang lebih rapi. Alih-alih menyembunyikan deklarasi di dalam folder, kamu meletakkan file deklarasi sejajar dengan folder tersebut.
 
-### Struktur File:
+### Struktur File Modern
 
 ```
 src/
@@ -61,7 +61,7 @@ src/
 
 Di sini, `auth.rs` berpasangan dengan folder `auth/`. File `auth.rs` memberi tahu compiler tentang keberadaan modul `auth`, sedangkan folder `auth/` menampung sub-modulnya.
 
-### Analogi: "Papan Nama di Luar Pintu"
+### "Papan Nama di Luar Pintu"
 
 Dengan pola baru ini, papan informasi (`auth.rs`) digantung tepat di luar pintu sebelum kamu masuk ke folder `auth`. Jadi, daftar isi langsung terlihat tanpa harus membuka folder terlebih dahulu.
 
@@ -82,7 +82,7 @@ Inilah masalah kegunaan utama yang dipecahkan oleh pola modern. Saat menangani p
 
 Kamu harus mengarahkan kursor ke setiap tab hanya untuk memastikan apakah file itu milik modul `user`, `payment`, atau `inventory`. Sebaliknya, pola modern membuat nama tab editor langsung terbaca jelas, seperti `user.rs`, `payment.rs`, atau `inventory.rs`.
 
-## Skenario Dunia Nyata: Refactoring ke Pola Modern
+## Refactoring ke Pola Modern
 
 Misalkan kamu mempunyai kode lama yang ingin dirapikan.
 

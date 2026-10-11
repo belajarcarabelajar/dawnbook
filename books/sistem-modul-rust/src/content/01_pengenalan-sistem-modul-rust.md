@@ -19,7 +19,7 @@ Kondisi serupa terjadi dalam pemrograman. Seiring bertambahnya fitur aplikasi, c
 
 > **Insight:** Module system tidak sekadar merapikan struktur file, tetapi juga memegang kendali penuh atas **scope** dan **privacy** kode kamu.
 
-## Komponen Utama: Package, Crate, dan Module
+## Package, Crate, dan Module
 
 Sebagai gambaran praktis, kita bisa menggunakan analogi sebuah **kota** untuk memahami bagaimana Rust mengorganisasi kode:
 

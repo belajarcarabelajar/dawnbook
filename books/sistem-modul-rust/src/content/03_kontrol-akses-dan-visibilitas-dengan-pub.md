@@ -116,7 +116,7 @@ mod rahasia_perusahaan {
 }
 ```
 
-### Real-World Application: Merancang API Library
+### Merancang API Library
 
 Saat membangun sebuah library (misalnya library pengolah gambar), kamu mungkin memiliki ratusan fungsi untuk manipulasi pixel. Namun, kamu tentu tidak ingin pengguna library-mu pusing dengan detail teknis tersebut.
 

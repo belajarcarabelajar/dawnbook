@@ -31,7 +31,7 @@ Dalam skenario nyata, teknik ini memungkinkan kamu merestrukturisasi folder inte
 
 Untuk aplikasi berskala menengah hingga besar, komunitas Rust cenderung mengikuti pola yang memisahkan tanggung jawab berdasarkan domain atau lapisan logika.
 
-### Contoh Struktur Folder:
+### Contoh Struktur Folder
 
 ```
 src/
