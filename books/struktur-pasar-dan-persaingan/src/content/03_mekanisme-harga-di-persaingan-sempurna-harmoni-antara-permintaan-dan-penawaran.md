@@ -1,14 +1,14 @@
-## Mekanisme Harga di Persaingan Sempurna: Harmoni Antara Permintaan dan Penawaran
+## Mekanisme Harga di Persaingan Sempurna
 
 Pernahkah kamu membayangkan sebuah pasar di mana tidak ada satu pun penjual yang bisa mendikte harga? Di pasar ini, harga seolah-olah turun dari langit, dan semua orang, baik penjual besar maupun kecil, harus menerimanya apa adanya. Inilah inti dari **Mekanisme Harga dalam Pasar Persaingan Sempurna (PPS)**.
 
 Dalam bagian ini, kita akan membedah bagaimana interaksi jutaan keputusan individu menciptakan satu harga keseimbangan tunggal dan mengapa dalam jangka panjang, perusahaan-perusahaan di pasar ini hanya bisa memperoleh "laba yang cukup untuk bertahan hidup."
 
-## 1. Pembentukan Harga: Kekuatan Kolektif Pasar
+## 1. Pembentukan Harga oleh Kekuatan Kolektif Pasar
 
 Dalam Pasar Persaingan Sempurna, harga tidak ditentukan oleh satu perusahaan seperti monopoli, melainkan oleh **kekuatan pasar secara keseluruhan** (permintaan pasar dan penawaran pasar).
 
-### Analogi: Timbangan Raksasa
+### Pasar Ibarat Timbangan Raksasa
 
 Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik di mana timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergeming sedikit pun.
 
@@ -32,7 +32,7 @@ $$
 
 > **Intisari:** Di pasar ini, perusahaan adalah **Price Taker** (Penerima Harga). Mereka tidak punya kekuatan untuk mengubah harga pasar. Jika mereka menaikkan harga sedikit saja, konsumen akan lari ke ribuan penjual lain yang menjual produk identik.
 
-## 2. Kurva Permintaan Perusahaan: Garis Horizontal yang Unik
+## 2. Garis Horizontal yang Unik pada Kurva Permintaan Perusahaan
 
 Karena perusahaan harus menerima harga pasar, maka kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna).
 
@@ -62,7 +62,7 @@ $$
 \text{Keuntungan Maksimum tercapai saat } \text{MR} = \text{MC}
 $$
 
-## 4. Implikasi Jangka Panjang: Kondisi Laba Nol (*The Zero Profit Condition*)
+## 4. Kondisi Laba Nol (*The Zero Profit Condition*)
 
 Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini disebabkan oleh tidak adanya hambatan untuk masuk dan keluar pasar (*Free Entry and Exit*).
 
@@ -93,7 +93,7 @@ Mekanisme harga di PPS mendorong terciptanya dua jenis efisiensi:
 1. **Efisiensi Produktif:** Perusahaan memproduksi pada tingkat biaya per unit yang paling minimum $P = \text{AC}_{\text{min}}$. Tidak ada sumber daya yang terbuang sia-sia.
 2. **Efisiensi Alokatif:** Sumber daya dialokasikan sedemikian rupa sehingga manfaat marginal bagi masyarakat (harga yang mereka bayar) sama dengan biaya marginal untuk memproduksinya $P = \text{MC}$.
 
-## 6. Aplikasi Dunia Nyata: Pasar Komoditas Pertanian
+## 6. Pasar Komoditas Pertanian
 
 Mari kita lihat pasar beras atau gandum sebagai contoh nyata.
 

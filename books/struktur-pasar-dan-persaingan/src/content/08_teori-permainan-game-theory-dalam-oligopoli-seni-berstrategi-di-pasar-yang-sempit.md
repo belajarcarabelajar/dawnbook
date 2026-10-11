@@ -1,4 +1,4 @@
-## Teori Permainan (Game Theory) dalam Oligopoli: Seni Berstrategi di Pasar yang Sempit
+## Teori Permainan (Game Theory) dalam Oligopoli
 
 Dalam pasar oligopoli, perusahaan tidak bisa cuma menentukan harga lalu duduk tenang. Setiap langkah yang mereka ambil, seperti meluncurkan iklan baru atau memotong harga, akan memicu reaksi dari pesaing. Inilah yang disebut dengan **interdependensi strategis**.
 
@@ -20,7 +20,7 @@ Dalam konteks oligopoli, ada tiga elemen kunci dalam sebuah "permainan":
 
 Model paling terkenal dalam teori permainan untuk menjelaskan perilaku oligopoli adalah **Dilema Narapidana**. Model ini menunjukkan alasan mengapa dua pihak sering kali gagal bekerja sama, meskipun kerja sama tersebut sebenarnya memberikan hasil terbaik bagi keduanya.
 
-#### Skenario Klasik:
+#### Skenario Klasik
 
 Dua tersangka, Andi dan Budi, ditangkap atas dugaan kejahatan. Polisi tidak memiliki cukup bukti kuat, sehingga menginterogasi keduanya di ruangan terpisah. Mereka berdua diberi penawaran yang sama:
 
@@ -35,7 +35,7 @@ Dua tersangka, Andi dan Budi, ditangkap atas dugaan kejahatan. Polisi tidak memi
 
 **Hasilnya?** Meskipun pilihan terbaik secara kolektif adalah sama-sama diam (masing-masing 1 tahun), secara individual Andi dan Budi akan memilih untuk **mengaku**. Mengapa? Karena apa pun yang dilakukan Budi, keputusan paling aman bagi Andi adalah mengaku agar terhindar dari kemungkinan hukuman 10 tahun. Kondisi ini melahirkan apa yang disebut **Strategi Dominan**.
 
-### 3. Aplikasi dalam Oligopoli: Perang Harga vs. Kolusi
+### 3. Perang Harga vs. Kolusi
 
 Dilema narapidana dapat diterapkan langsung pada pasar oligopoli dengan mengganti "Narapidana" menjadi "Perusahaan A" dan "Perusahaan B". Pilihan strategis mereka adalah menetapkan **Harga Tinggi** (bekerja sama/kolusi) atau **Harga Rendah** (berkhianat/perang harga).
 
@@ -82,7 +82,7 @@ Interaksi dalam pasar oligopoli nyata berlangsung secara berulang dari waktu ke 
 
 Strategi ini terbukti efektif dalam memelihara stabilitas pasar serta mencegah **Perang Harga** yang merugikan semua pihak.
 
-### 6. Penerapan Praktis: Perang Tarif Operator Seluler
+### 6. Perang Tarif Operator Seluler
 
 Dinamika persaingan di industri telekomunikasi (seperti Telkomsel, XL, dan Indosat) memberikan gambaran nyata mengenai teori permainan.
 

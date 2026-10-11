@@ -1,4 +1,4 @@
-## Diskriminasi Harga dalam Monopoli: Seni Menangkap Surplus Konsumen
+## Diskriminasi Harga dalam Monopoli
 
 Pernahkah kamu bertanya-tanya mengapa harga tiket pesawat untuk rute yang sama bisa berbeda bagi setiap penumpang? Atau mengapa pelajar mendapatkan harga lebih murah untuk lisensi perangkat lunak dibandingkan profesional? Di dunia monopoli, fenomena ini terjadi melalui strategi yang terukur, yaitu **Diskriminasi Harga**.
 
@@ -53,7 +53,7 @@ Ini adalah jenis yang paling umum. Harga dibedakan berdasarkan karakteristik kel
 
 > **Contoh Kasus:** Harga tiket bioskop di hari kerja sering kali lebih murah daripada akhir pekan. Biaya operasional bioskop tidak berubah, namun penonton hari kerja biasanya lebih sensitif terhadap harga (elastis) dibandingkan penonton akhir pekan.
 
-## 4. Analisis Ekonomi: Perbandingan Keuntungan
+## 4. Perbandingan Keuntungan
 
 Mari kita lihat perbedaan antara kebijakan harga tunggal dengan diskriminasi harga melalui ilustrasi sederhana:
 

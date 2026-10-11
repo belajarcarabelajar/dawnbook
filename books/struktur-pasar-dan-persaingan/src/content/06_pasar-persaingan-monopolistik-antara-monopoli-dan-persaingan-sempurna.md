@@ -1,4 +1,4 @@
-## Pasar Persaingan Monopolistik: Antara Monopoli dan Persaingan Sempurna
+## Pasar Persaingan Monopolistik
 
 Pernahkah kamu bertanya-tanya mengapa ada puluhan merek sabun mandi di supermarket? Semuanya berfungsi sama (untuk membersihkan tubuh), namun masing-masing memiliki aroma, kemasan, dan janji manfaat yang berbeda. Ada yang menawarkan kelembutan kulit, ada yang fokus pada perlindungan kuman, dan ada pula yang menonjolkan aroma mewah.
 
@@ -10,14 +10,14 @@ Pasar persaingan monopolistik adalah struktur pasar di mana terdapat **banyak pr
 
 > **Analogi Sederhana:** Bayangkan sebuah pusat jajanan (food court). Ada banyak pedagang nasi goreng. Semuanya menjual nasi goreng (produk serupa), tetapi rasa nasi goreng Pak Kumis berbeda dengan nasi goreng Level Pedas (diferensiasi). Karena rasanya unik, Pak Kumis punya "monopoli" kecil atas pelanggan yang menyukai racikan bumbunya, tetapi ia tetap harus bersaing dengan pedagang lain di sebelahnya.
 
-#### Karakteristik Utama:
+#### Karakteristik Utama
 
 1. **Banyak Penjual (Large Number of Sellers):** Tidak sebanyak persaingan sempurna, tetapi cukup banyak sehingga tindakan satu perusahaan tidak secara drastis memengaruhi pesaingnya secara langsung.
 2. **Diferensiasi Produk:** Ini adalah ciri paling utama. Produk dibedakan melalui kualitas, desain, lokasi, atau merek. Produk-produk ini adalah **substitusi dekat** (close substitutes), tetapi bukan **substitusi sempurna**.
 3. **Kebebasan Masuk dan Keluar (Low Barriers to Entry):** Perusahaan baru cukup mudah untuk masuk ke industri jika mereka melihat ada peluang keuntungan, meski tidak semudah di pasar persaingan sempurna.
 4. **Kekuatan Menentukan Harga yang Terbatas:** Karena produknya unik, perusahaan memiliki sedikit kendali atas harga (price maker skala kecil). Namun, jika harga terlalu mahal, konsumen akan dengan mudah pindah ke merek lain.
 
-### Jantung Strategi: Diferensiasi Produk
+### Diferensiasi Produk
 
 Dalam pasar ini, produsen tidak ingin bersaing hanya lewat harga. Mengapa? Karena perang harga hanya akan menghabiskan keuntungan semua orang. Sebaliknya, mereka melakukan **diferensiasi**.
 
@@ -54,7 +54,7 @@ $$
 
 Namun, karena hambatan masuk yang rendah, keuntungan ini akan mengundang pemain baru. Akibatnya, dalam **jangka panjang**, perusahaan di pasar ini cenderung hanya mendapatkan **laba normal** (break-even), karena permintaan akan terbagi ke lebih banyak pesaing.
 
-### Penerapan Dunia Nyata: Industri Perawatan Kulit
+### Industri Perawatan Kulit
 
 Industri perawatan kulit (*skin care*) adalah contoh sempurna dari persaingan monopolistik.
 

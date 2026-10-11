@@ -1,4 +1,4 @@
-## Hambatan Masuk dan Keluar Pasar: Sang Penjaga Gerbang Ekonomi
+## Hambatan Masuk dan Keluar Pasar
 
 Pernahkah kamu bertanya-tanya mengapa membuka warung kopi kecil di pinggir jalan terasa mudah, tetapi membuat perusahaan baru untuk menyaingi raksasa penerbangan seperti Boeing atau Airbus hampir mustahil?
 
@@ -12,7 +12,7 @@ Hambatan pasar adalah rintangan yang menghalangi perusahaan baru masuk ke suatu 
 
 Jika hambatan masuk tidak ada sama sekali, setiap kali sebuah bisnis memperoleh untung besar, pendatang baru akan berbondong-bondong masuk sampai margin keuntungan itu habis tergerus.
 
-## 2. Hambatan Masuk: Mengapa Sulit Menjadi Pemain Baru?
+## 2. Mengapa Sulit Menjadi Pemain Baru?
 
 Hambatan masuk dapat dikategorikan menjadi beberapa kelompok utama, seperti hambatan struktural, hambatan legal, dan hambatan strategis.
 
@@ -54,7 +54,7 @@ Pemerintah juga dapat membatasi jumlah pemain lewat aturan resmi:
 
 Pelanggan sering kali memiliki loyalitas emosional pada merek yang sudah dikenal. Perusahaan ponsel baru, misalnya, harus mengeluarkan biaya pemasaran raksasa hanya untuk membujuk pengguna setia Apple atau Samsung agar mau beralih ke produk mereka.
 
-## 3. Hambatan Keluar: Terjebak di Dalam Industri
+## 3. Hambatan Keluar
 
 Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun dalam industri berat, keluar dari pasar bisa menimbulkan kerugian besar.
 
@@ -63,14 +63,14 @@ Banyak orang mengira keluar dari pasar itu mudah (tinggal tutup toko). Namun dal
 - **Interdependensi Strategis:** Unit bisnis yang rugi tetap dipertahankan karena menyuplai komponen penting bagi unit bisnis lain dalam grup perusahaan.
 - **Faktor Emosional:** Kebanggaan pendiri atau sejarah panjang perusahaan yang membuat manajemen enggan menutup operasional meskipun sudah tidak layak secara finansial.
 
-## 4. Analogi: Pasar Tradisional vs. Laboratorium Nuklir
+## 4. Pasar Tradisional vs. Laboratorium Nuklir
 
 Guna memperjelas gambaran, bayangkan dua skenario berikut:
 
 - **Pasar Persaingan Sempurna** ibarat **Pasar Tradisional**: Siapa pun bisa menggelar dagangan dengan modal kecil (hambatan masuk rendah) dan bebas pergi kapan saja bila jualan tidak laku (hambatan keluar rendah).
 - **Pasar Berhambatan Tinggi** ibarat **Laboratorium Nuklir**: Kamu membutuhkan izin khusus, investasi raksasa, serta sertifikasi keahlian untuk bisa masuk (hambatan masuk tinggi). Saat ingin keluar pun, kamu tidak bisa asal menutup pintu karena pembersihan limbah radioaktif memerlukan biaya sangat besar (hambatan keluar tinggi).
 
-## 5. Aplikasi Dunia Nyata: Industri Farmasi
+## 5. Hambatan Pasar pada Industri Farmasi
 
 Mari kita lihat bagaimana hambatan ini bekerja dalam satu industri nyata:
 

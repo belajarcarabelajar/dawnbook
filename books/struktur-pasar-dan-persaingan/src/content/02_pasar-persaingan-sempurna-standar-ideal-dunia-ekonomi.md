@@ -1,4 +1,4 @@
-## Pasar Persaingan Sempurna: Standar Ideal Dunia Ekonomi
+## Pasar Persaingan Sempurna
 
 Bayangkan kamu berada di sebuah pasar tradisional yang sangat luas di mana terdapat ribuan petani yang menjual beras dengan jenis dan kualitas yang persis sama. Jika kamu bertanya harga kepada satu petani dan dia menawarkan harga yang lebih mahal dari harga pasar, kamu cukup bergeser satu langkah ke penjual di sebelahnya untuk mendapatkan harga yang lebih murah. Di sisi lain, jika petani tersebut menurunkan harganya, dia hanya akan merugi karena dia bisa menjual seluruh stoknya pada harga pasar yang berlaku.
 
@@ -50,18 +50,18 @@ $$
 
 > **Insight Penting:** Di pasar ini, satu-satunya keputusan yang bisa diambil oleh manajer perusahaan adalah **berapa banyak $Q$ yang harus diproduksi**, bukan pada harga berapa barang tersebut akan dijual.
 
-## 3. Aplikasi Dunia Nyata: Apakah Benar-Benar Ada?
+## 3. Apakah Benar-Benar Ada di Dunia Nyata?
 
 Meskipun sulit menemukan pasar yang 100% memenuhi kriteria di atas, beberapa sektor mendekati model ini:
 
-### Skenario: Pasar Pertanian (Komoditas)
+### Pasar Pertanian (Komoditas)
 
 Seorang petani jagung di sebuah desa besar adalah contoh klasik.
 
 - **Situasi:** Harga jagung ditentukan di bursa komoditas. Jika harga pasar adalah Rp5.000/kg, si petani tidak bisa menjual di harga Rp5.500 karena pembeli akan lari ke ribuan petani lainnya.
 - **Tindakan:** Petani tersebut hanya akan fokus pada cara menekan biaya produksi agar tetap untung pada harga Rp5.000 tersebut.
 
-### Skenario: Pasar Valuta Asing (Forex)
+### Pasar Valuta Asing (Forex)
 
 Perdagangan mata uang global mendekati persaingan sempurna.
 

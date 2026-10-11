@@ -12,11 +12,11 @@ Platform digital bertindak sebagai perantara yang menghubungkan dua atau lebih k
 
 > **Insight Utama:** Dalam pasar platform, nilai produk bertambah seiring banyaknya pengguna yang bergabung, tidak hanya ditentukan oleh fitur atau kualitas fisik produk itu sendiri.
 
-### Analogi: Pasar Malam vs. Supermarket
+### Pasar Malam vs. Supermarket
 
 Bayangkan sebuah supermarket tradisional yang berjalan secara linear. Pengelola membeli stok barang, memajangnya di rak, lalu kamu membelinya. Sekarang bayangkan "Pasar Malam Digital" (platform). Penyelenggara pasar malam tidak menjual barang secara langsung, melainkan menyediakan lahan, penerangan, dan keamanan agar pedagang serta pembeli dapat berinteraksi. Semakin ramai pembeli yang berkunjung, semakin banyak pedagang yang berminat menyewa lapak, dan berlaku pula sebaliknya.
 
-## 2. Network Effects (Efek Jaringan): Jantung Ekonomi Digital
+## 2. Network Effects (Efek Jaringan)
 
 Mengapa Facebook, WhatsApp, atau Gojek begitu sulit dikalahkan? Jawabannya adalah **Efek Jaringan**. Ini adalah fenomena di mana nilai suatu layanan bagi seorang pengguna bergantung pada jumlah pengguna lain yang menggunakan layanan tersebut.
 
@@ -36,7 +36,7 @@ Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pe
 
 Terjadi ketika peningkatan jumlah pengguna di satu sisi platform meningkatkan nilai bagi pengguna di sisi lain. *Contoh:* Semakin banyak pengguna Android (sisi A), semakin banyak pengembang aplikasi (sisi B) yang ingin membuat aplikasi untuk Android. Hal ini, pada gilirannya, membuat Android semakin menarik bagi pengguna.
 
-## 3. Struktur Biaya: Biaya Marginal Nol $\text{MC} \approx 0$
+## 3. Biaya Marginal Nol $\text{MC} \approx 0$
 
 Dalam manufaktur tradisional, memproduksi mobil ke-1.000.000 membutuhkan biaya yang hampir sama dengan mobil ke-1. Namun, dalam ekonomi digital:
 
@@ -61,13 +61,13 @@ Beberapa faktor yang mendorong hal ini:
 
 Sebagai contoh, ketika seseorang mencoba berpindah dari Google ke mesin pencari lain selama seminggu, hambatan utama yang dirasakan adalah keterbiasaan hasil pencarian dan integrasi akun mereka yang sudah terkunci pada ekosistem tersebut.
 
-## 5. Perubahan Perilaku Persaingan: Co-opetition
+## 5. Co-opetition
 
 Di era digital, garis antara kawan dan lawan menjadi kabur. Muncul istilah **Co-opetition** (kerjasama sekaligus persaingan).
 
 *Contoh:* Samsung adalah pesaing utama Apple di pasar ponsel pintar. Namun, di saat yang sama, Samsung adalah salah satu pemasok komponen layar utama untuk iPhone. Mereka bersaing di pasar produk akhir, namun bekerja sama di rantai pasokan.
 
-## 6. Real-World Application: Ekosistem Super-App (Gojek/Grab)
+## 6. Ekosistem Super-App (Gojek/Grab)
 
 Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* di Asia Tenggara.
 
