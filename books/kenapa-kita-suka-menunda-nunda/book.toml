@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Kenapa Kita Suka Menunda-nunda?"
+description = "Membedah psikologi penundaan: kenapa kita menunda tugas penting, dari bias masa kini, mood, dan takut gagal, sampai cara memulai tanpa menyiksa diri."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Psikologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
