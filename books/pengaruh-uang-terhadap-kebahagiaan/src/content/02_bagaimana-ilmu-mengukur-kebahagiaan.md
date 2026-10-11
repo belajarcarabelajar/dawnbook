@@ -4,7 +4,7 @@ Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar ot
 
 Pertanyaan itulah yang menggantung di akhir bab sebelumnya, dan bab ini hadir untuk menjawabnya. Para peneliti memang serius mengukur kebahagiaan, tapi mereka tidak memperlakukannya sebagai satu benda padat. Mereka membedahnya menjadi beberapa lapis, lalu mengukur tiap lapis dengan alat yang berbeda. Memahami alat ukurnya itu penting, karena begitu masuk ke topik utama buku ini, uang, hampir semua perdebatan sengit lahir dari alat ukur yang tak sengaja dicampuradukkan.
 
-### Nama ilmiahnya: subjective well-being
+### Subjective well-being
 
 Di dunia riset, kata "kebahagiaan" jarang dipakai sendirian. Istilah yang dipakai adalah **subjective well-being**, atau kesejahteraan subjektif. Kata "subjektif" di sini bukan berarti asal-asalan, melainkan menegaskan bahwa sumber kebenarannya adalah penilaian orang itu sendiri, bukan tekanan darah, bukan gaji, bukan tetangga.
 

@@ -1,4 +1,4 @@
-## Pengantar: Uang dan Pertanyaan Tua tentang Kebahagiaan
+## Uang dan Pertanyaan Tua tentang Kebahagiaan
 
 Coba perhatikan pola yang berulang di sekitar kita. Ada orang yang rela lembur sampai larut malam, mengambil proyek ekstra, dan memangkas liburan, semuanya demi satu alasan yang ia ucapkan dengan lantang: supaya bahagia. Lalu suatu hari kamu bertanya, "berapa sih angka yang membuat kamu merasa cukup?" Jawabannya hampir selalu sama, dan biasanya diucapkan sambil tersenyum malu, "sedikit lagi." Kalau gajinya naik dua juta, garis cukup itu pindah ke lima juta. Kalau lima juta tercapai, ia melirik teman satu kantornya yang baru dipromosikan, dan garisnya mundur lagi. Ia berlari mengejar uang demi bahagia, tapi garis finis yang ia kejar selalu mundur beberapa langkah tepat saat ia merasa sudah hampir sampai.
 
@@ -16,7 +16,7 @@ Kalimat "uang tidak bisa membeli kebahagiaan" paling sering diucapkan orang yang
 
 Jadi kalau kedua jawaban populer itu sama-sama goyah, jawaban yang sebenarnya apa?
 
-### Jawaban yang lebih jujur: berhubungan, tapi tidak sederhana
+### Jawaban yang lebih jujur
 
 Buku ini berdiri di satu posisi yang mungkin terdengar kurang dramatis, tapi paling jujur: **uang terbukti berhubungan dengan kesejahteraan, namun hubungannya tidak sederhana**. Ini bukan sikap mengambang. Kesimpulan ini lahir dari puluhan tahun riset ekonomi dan psikologi yang akan kita telusuri bersama.
 

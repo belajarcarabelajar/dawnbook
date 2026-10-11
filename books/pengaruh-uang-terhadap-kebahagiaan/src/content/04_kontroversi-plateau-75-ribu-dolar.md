@@ -6,7 +6,7 @@ Kedua headline itu tidak ditulis oleh tabloid yang sedang kehabisan bahan. Kedua
 
 Kalau kurva kesejahteraan memang naik terus tanpa plafon seperti di bab sebelumnya, dari mana asalnya angka ajaib 75.000 dolar yang dikutip di mana-mana? Bab ini membedah kisah bagaimana sains menyelesaikan perselisihan data paling terkenal dalam topik uang dan kebahagiaan.
 
-### Temuan 2010: satu survei, dua wajah kesejahteraan
+### Satu survei 2010, dua wajah kesejahteraan
 
 Studi pertama datang dari Daniel Kahneman, psikolog peraih Nobel, dan Angus Deaton, ekonom peraih Nobel. Mereka menganalisis sekitar 450.000 respons survei harian Gallup dari penduduk Amerika Serikat, yang tiap hari menjawab pertanyaan tentang hidup dan perasaan mereka kemarin.
 
@@ -21,7 +21,7 @@ Jadi temuan aslinya sebenarnya jauh lebih halus daripada slogan "uang tidak memb
 
 Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide seminar, dan ribuan artikel dengan kalimat serempak: "Sudah, di titik ini uang berhenti menambah kebahagiaan." Yang jarang disebutkan, peneliti aslinya tidak pernah bicara sekuat itu, dan temuan ini belum tentu satu-satunya kebenaran.
 
-### Temuan 2021: kebalikan yang mengguncang
+### Kebalikan yang mengguncang tahun 2021
 
 Sebelas tahun kemudian, Matthew Killingsworth dari Wharton, Universitas Pennsylvania, mengambil pendekatan yang berbeda. Alih-alih meminta orang mengingat perasaan mereka kemarin, ia memakai aplikasi yang mengirim pertanyaan secara acak di tengah hari dan menanyakan perasaanmu saat ini juga.
 

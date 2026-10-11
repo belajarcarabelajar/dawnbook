@@ -1,4 +1,4 @@
-## Kelangkaan Finansial: Ketika Kurang Uang Menyita Pikiran
+## Kelangkaan Finansial
 
 Tanggal dua puluh lima. Kamu duduk di warung kopi bersama pasangan, tapi sebagian kepalamu tidak ikut di sana. Di meja ada dua cangkir dan satu piring kue yang kamu bagi dua. Di kepala ada kalkulator yang tidak bisa dimatikan: cicilan jatuh tempo tiga hari lagi, bensin harus cukup sampai akhir pekan, uang saku sekolah belum disisihkan, tagihan listrik entah sudah masuk atau belum. Pasanganmu bercerita, kamu mengangguk di tempat yang tepat, tapi secara teknis sedang berhitung. Bukan hitungan yang sulit, tapi hitungan yang melelahkan, dan dia jalan terus tanpa diminta.
 

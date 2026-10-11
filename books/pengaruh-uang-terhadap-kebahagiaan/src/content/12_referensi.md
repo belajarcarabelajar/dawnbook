@@ -25,7 +25,7 @@ Di tingkat negara, pertumbuhan ekonomi tidak selalu berjalan seirama dengan kepu
 - Easterlin, R. A. (1974). Does economic growth improve the human lot? Some empirical evidence. Dalam [*Nations and Households in Economic Growth*](https://mpra.ub.uni-muenchen.de/111773/).
 - Stevenson, B., & Wolfers, J. (2008). [Economic growth and subjective well-being: Reassessing the Easterlin paradox](https://www.brookings.edu/wp-content/uploads/2008/03/2008a_bpea_stevenson.pdf). *Brookings Papers on Economic Activity*.
 
-### Kontroversi: Perbandingan Sosial, Keberuntungan, dan Aspirasi
+### Perbandingan Sosial, Keberuntungan, dan Aspirasi
 
 Sisi relatif dari uang tampil di sini: kepuasan kita turun saat tetangga berpenghasilan lebih tinggi, pemenang lotere perlahan kembali ke titik semula, dan menjadikan kesuksesan finansial sebagai tujuan utama hidup justru berkorelasi dengan kesejahteraan yang lebih rendah.
 

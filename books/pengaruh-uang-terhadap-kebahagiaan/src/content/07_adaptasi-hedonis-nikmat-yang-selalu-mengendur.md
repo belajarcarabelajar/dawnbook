@@ -1,4 +1,4 @@
-## Adaptasi Hedonis: Nikmat yang Selalu Mengendur
+## Adaptasi Hedonis
 
 Coba bayangkan momen ini: kamu memenangkan lotere. Hadiahnya ratusan ribu dolar, cukup untuk menghapus semua utang sekaligus membeli rumah baru. Kamera televisi mengarah ke wajahmu, dan rekeningmu mendadak berisi uang yang tidak pernah kamu pegang seumur hidup. Kalau seseorang bertanya apakah kamu kini lebih bahagia, jawaban yang wajar seharusnya: tentu saja, dan selamanya.
 
@@ -20,13 +20,13 @@ Nama ilmiahnya adaptasi hedonis; banyak psikolog menyebut gejalanya *hedonic tre
 
 Inilah penjelasan kenapa keinginan sering terasa tanpa dasar. Bukan karena kamu rakus, tapi karena otak dirancang untuk membiasakan diri. Sistem saraf lebih tertarik pada perubahan daripada kondisi stabil, dan sesuatu yang konstan perlahan tidak dilaporkan lagi, seperti jam di pergelangan tangan yang berhenti terasa setelah lima menit.
 
-### Koreksi penting: tidak semua kembali ke nol
+### Tidak semua kembali ke nol
 
 Sebelum kamu menyimpulkan hidup ini sia-sia, ada nuansa jujur dari riset modern. Adaptasi itu kuat, tapi tidak total. Studi awal tahun 1978 memang dramatis, tapi penelitian yang lebih baru menunjukkan beberapa peristiwa hidup meninggalkan jejak yang tidak sepenuhnya hilang. Ada pengalaman yang menggeser garis dasar emosi secara permanen, dan mengelak dari fakta itu sama saja berbohong pada diri sendiri.
 
 Untuk pendapatan, adaptasinya juga tidak 100 persen. Riset modern yang sudah kita bahas di bab 3 menunjukkan korelasi antara pendapatan dan kesejahteraan tetap ada. Uang tidak membuat semua perasaan terguling kembali ke titik awal; sebagian manfaatnya memang bertahan setelah sensasi pertama meredup. Jadi polanya bukan naik lalu lenyap, tapi naik tinggi, turun sebagian, lalu berhenti di garis yang lebih tinggi dari sebelumnya. Dua kesalahan di sini sama saja berbahaya: percaya uang membawa kebahagiaan abadi, atau percaya uang tidak berpengaruh sama sekali.
 
-### Focusing illusion: imajinasi yang memilih-milih
+### Focusing illusion
 
 Sekarang pertanyaan yang lebih tajam: kalau adaptasi selalu mengendurkan nikmat, kenapa kita tetap yakin bahwa nanti kalau gajiku naik, pasti bahagia? Jawabannya ada pada bias bernama focusing illusion, dibahas Daniel Kahneman bersama Alan Krueger, David Schkade, Norbert Schwarz, dan Arthur Stone dalam artikel *Would You Be Happier If You Were Richer? A Focusing Illusion* di jurnal *Science* tahun 2006.
 

@@ -22,7 +22,7 @@ Kritik paling wajar terhadap temuan semacam ini terdengar seperti ini: mungkin i
 
 Ini penting untuk kamu yang sedang menunggu "kaya dulu, baru berbagi". Temuannya bilang sebaliknya: efeknya justru bisa dirasakan lewat nominal kecil yang nyata hari ini, bukan menunggu nominal besar yang suatu saat terasa "akan cukup".
 
-### Lever kedua: membeli waktu
+### Membeli waktu
 
 Bab sebelumnya diakhiri dengan dua petunjuk, dan lever pertama, uang untuk kebaikan orang lain, sudah kita bahas di atas. Lever kedua jauh lebih jarang dipakai orang: memakai uang untuk membebaskan waktu.
 
