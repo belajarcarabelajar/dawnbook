@@ -65,7 +65,7 @@ Salah satu metode visual yang sangat membantu untuk memetakan tujuan hidup adala
 
 Banyak orang keliru menganggap bahwa makna hidup hanya bisa ditemukan lewat aksi sosial berskala besar. Faktanya, kamu bisa menghadirkan makna dalam rutinitas sehari-hari melalui teknik yang disebut **Job Crafting**.
 
-**Skenario Perbandingan: Petugas Kebersihan Rumah Sakit**
+**Skenario Perbandingan Petugas Kebersihan Rumah Sakit**
 
 - **Sudut Pandang A (Sekadar Pekerjaan):** "Tugas saya hanyalah mengepel lantai dan membuang sampah." (Menghasilkan tingkat pemaknaan yang rendah)
 - **Sudut Pandang B (Tujuan yang Lebih Luas):** "Saya sedang menciptakan lingkungan yang steril dan higienis agar pasien bisa pulih lebih cepat. Saya adalah bagian penting dari tim medis yang membantu menyelamatkan nyawa." (Menghasilkan pemaknaan hidup yang mendalam)
