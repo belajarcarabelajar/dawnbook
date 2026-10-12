@@ -16,6 +16,8 @@
 
 Menambahkan buku `books/memahami-algoritma-x-untuk-pembaca/`, "Memahami Algoritma X untuk Pembaca" karya Iwan Kurniawan: 11 bab konten plus bab Referensi (12 entri SUMMARY), subject label Teknologi, ikon 🧭, dan pin tanggal rilis di `release-dates.json`. Materi berasal dari panduan Notion "Mengatur bacaan di X" dan diverifikasi ulang pada 12 Oktober 2026 (catatan riset di `docs/code-plan/plans/research-memahami-algoritma-x-untuk-pembaca.md`). Tiga koreksi utama terhadap dokumen sumber: (1) salinan kode yang dipakai sumber ternyata pembaruan 3 September 2025 dari `twitter/the-algorithm`, bukan kode 2023; (2) X merilis repositori baru `xai-org/x-algorithm` (Januari 2026), yang kini dibahas di bab 3 dan bab 6 beserta bobot publiknya per sinkronisasi 8 Oktober 2026; (3) sembilan klaim fitur disesuaikan dengan halaman X Help yang berlaku (antara lain jalur muted words yang terdokumentasi, Topics yang pasti publik, dan urutan kronologis Following yang hanya bersumber dari README Home Mixer lama). Widget interaktif Notion diubah menjadi teks dan tabel statis. `functions/lib/built-stats.ts` ikut berubah karena dibuat ulang oleh build (+12 bab, Iwan Kurniawan 46 menjadi 47 buku).
 
+Tindak lanjut dari debt sweep (commit `ec3302b`) ikut di PR ini: GEMINI.md bagian 8 mencatat batas 155 karakter untuk kalimat pembuka bab (`formatSerpDescription` di `scripts/inject-gating.ts`), GEMINI.md bagian 9 mencatat hasil ukur bahwa pembungkus `<div>` tidak mencegah mdBook 0.5.4 membuang backslash pada `\,` dan `\\` di dalam math, `MDBOOK_SYSTEM_RULES.md` fase B, D, dan E disesuaikan dengan `scripts/build.ts`, dan bab 3 kini menelusuri Tweet Mixer serta UTEG ke README utama repositori. Plan ditutup `Complete` sebelum merge (commit `27c5519`).
+
 **Non-goals:** tidak menyentuh buku lain, template bersama, CSS, atau fungsi Cloudflare. Seeding D1, deploy, dan reindex GSC dijalankan setelah merge.
 
 ## 3. Acceptance Criteria
@@ -61,9 +63,11 @@ Peringatan yang muncul di build hanya pemberitahuan opsional `mdbook-dawnbook` p
 
 ## 7. Pre-Existing Issues and Deferred Debt
 
-- `books/*/book.toml` `[preprocessor.dawnbook]`: binary `mdbook-dawnbook` tidak terpasang di mesin lokal, sehingga build mencetak 57 peringatan opsional. `defer: environment setup, saat preprocessor dibutuhkan untuk fitur yang dirender`
-- `MDBOOK_SYSTEM_RULES.md` Phase E menyebut build admin SPA di `apps/admin`, tetapi direktori itu tidak ada dan `scripts/build.ts` tidak memanggilnya. `defer: dokumentasi, saat MDBOOK_SYSTEM_RULES.md disentuh berikutnya`
-- GEMINI.md bagian 9 dan 16: pembungkus `<div>` untuk display math tidak melindungi backslash. Diukur pada mdBook v0.5.4: `\,` menjadi koma dan `\\` kehilangan satu backslash di dalam `$$`. Buku lama yang memakai pola itu bisa salah render. `defer: audit LaTeX lintas buku, sebelum buku bermatematika berikutnya`
+- `books/*/book.toml` `[preprocessor.dawnbook]`: binary `mdbook-dawnbook` tidak terpasang di mesin lokal, sehingga build mencetak 57 peringatan opsional. `defer: environment setup, saat output preprocessor dibutuhkan`
+- Audit LaTeX lintas buku: sekitar 11 file bab memuat `\,` atau `\\` di dekat math, yang dirender mdBook 0.5.4 tanpa backslash. Aturannya sudah dicatat di GEMINI.md bagian 9; perbaikan per buku tetap manual. `defer: satu sesi per buku, sebelum buku bermatematika berikutnya`
+- Pemeriksaan struktur konten lintas buku (SUMMARY sama dengan disk, judul pertama sama dengan SUMMARY, pembuka paling banyak 155 karakter) sebagai skrip repo. `defer: sesi gerbang baru, saat buku berikutnya terbit dengan meta terpotong`
+- Tabel bobot bab 6 adalah potret `param.rs` per 8 Oktober 2026, sedangkan `xai-org/x-algorithm` diperbarui hampir setiap hari. `defer: penyegaran konten, saat bobot berubah atau pada 2027-01-12`
+- `MDBOOK_SYSTEM_RULES.md` masih menyebut `shared-header-v3.css` dan `shared-script-v3.js` yang tidak ada. `defer: sesi dokumen aturan, saat file itu disentuh berikutnya`
 
 ## 8. Checklist
 
