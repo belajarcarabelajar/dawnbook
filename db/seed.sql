@@ -1270,8 +1270,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2400,8 +2400,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4031,8 +4031,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4984,8 +4984,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5718,8 +5718,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7019,8 +7019,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7955,8 +7955,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8846,8 +8846,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10054,8 +10054,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11086,8 +11086,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12923,8 +12923,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14054,8 +14054,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15157,8 +15157,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16422,8 +16422,874 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'memahami-algoritma-x-untuk-pembaca',
+  'memahami-algoritma-x-untuk-pembaca',
+  'Memahami Algoritma X untuk Pembaca',
+  'published',
+  'Teknologi',
+  '<!-- Chapter: 01_tentukan-apa-yang-ingin-kamu-baca -->
+
+## Tentukan Dulu Apa yang Ingin Kamu Baca
+
+Kamu membuka X dengan niat mencari kabar teknologi, tetapi beberapa menit kemudian layarmu penuh pertengkaran, promosi, dan topik yang tidak kamu cari. Sebagian datang dari akun yang kamu ikuti sendiri. Sebagian lagi muncul sebagai rekomendasi. Sementara itu, setiap gerakanmu selama membaca, dari membuka sebuah post sampai menekan like, ikut menjadi bahan bagi sistem untuk memilih bacaan berikutnya.
+
+Buku ini mengajakmu menata sumber bacaan, memahami sinyal yang kamu kirim, dan mengurangi rekomendasi yang melenceng. Contoh-contohnya memakai kebutuhan informasi teknologi, tetapi kamu bebas menggantinya dengan bidang yang sedang kamu tekuni, entah desain, kesehatan, atau keuangan. Langkah pertamanya bukan membuka pengaturan, melainkan menjawab satu pertanyaan sederhana: sebenarnya kamu ingin membaca apa?
+
+### Teknologi Terlalu Luas untuk Jadi Tujuan
+
+Kata "teknologi" terdengar seperti tujuan, padahal isinya terlalu lebar. Kamu mungkin senang mengikuti pengumuman gawai baru, sementara yang sedang kamu butuhkan adalah cara mengamankan akun. Keduanya sama-sama masuk kategori teknologi, tetapi menuntut kebiasaan baca yang berbeda: yang satu cukup dinikmati sambil lalu, yang lain perlu diperiksa sumber dan tanggalnya.
+
+Karena itu, sebelum mengubah daftar follow atau kebiasaan like, tuliskan dulu pertanyaan yang ingin kamu jawab lewat X. Pertanyaan yang jelas memudahkanmu menilai apakah sebuah post layak dibaca sampai habis atau cukup dilewati. Tabel berikut memberi gambaran untuk tiga kebutuhan yang sering muncul.
+
+| Kebutuhan | Bacaan yang layak dicari | Bacaan yang perlu dibatasi |
+| --- | --- | --- |
+| Memilih alat AI untuk kerja | Dokumentasi resmi produk, uji coba dengan metode yang jelas, informasi biaya, batasan, dan privasi | Klaim bahwa satu alat bisa menggantikan seluruh pekerjaan tanpa contoh atau bukti |
+| Memahami keamanan digital | Peringatan dari sumber primer, penjelasan dampaknya, langkah perlindungan yang bisa dijalankan | Tangkapan layar menakutkan yang tidak disertai tautan dan tanggal |
+| Mengikuti perkembangan perangkat lunak | Catatan rilis, cerita penerapan di proyek nyata, perubahan kompatibilitas | Perdebatan antarmerek yang tidak membantu keputusanmu |
+
+Perhatikan pola di kolom kanan. Yang perlu dibatasi bukan topiknya, melainkan bentuk bacaan yang tidak bisa kamu periksa atau tidak menolongmu mengambil keputusan. Kamu bisa menambah baris sendiri untuk kebutuhan lain, asalkan setiap baris berangkat dari pertanyaan yang benar-benar ingin kamu jawab.
+
+### Memisahkan Belajar dan Bersantai
+
+Menata bacaan tidak berarti melarang hiburan. Meme, olahraga, atau obrolan santai tetap boleh mengisi waktumu. Yang membantu adalah memisahkan sesinya, atau menaruh sumber hiburan di List tersendiri, supaya kamu sadar kapan sedang belajar dan kapan sedang bersantai. [List di X](https://help.x.com/en/using-x/x-lists) mengumpulkan post dari akun-akun yang kamu masukkan ke dalamnya.
+
+Satu hal perlu diingat sejak awal: List membantumu memilih apa yang dibaca, tetapi tidak memisahkan semua sinyal akunmu. Aktivitasmu di bagian mana pun di X masih bisa tercatat. Jadi, List adalah alat untuk mengatur perhatianmu sendiri, bukan sekat yang membuat sistem lupa pada kebiasaanmu di tempat lain.
+
+### Menulis Tujuan dengan Kata-katamu
+
+Pertanyaan tadi akan lebih berguna kalau kamu ubah menjadi tujuan yang ditulis dengan bahasamu sendiri. Tidak perlu panjang. Contohnya seperti ini:
+
+> "Aku ingin memahami perkembangan AI yang relevan untuk pekerjaanku, memeriksa sumbernya, lalu menyimpan satu catatan yang bisa kupakai."
+
+Tujuan seperti ini memuat tiga hal sekaligus: topik yang dicari, cara memperlakukan sumber, dan hasil yang bisa kamu periksa di akhir sesi. Kalau di tengah jalan kamu ragu apakah sebuah post layak dibaca, kembalikan saja ke kalimat itu.
+
+Kalau kamu menetapkan angka atau durasi, misalnya membatasi sesi baca atau memeriksa sejumlah post, ingat bahwa itu batas pribadimu, bukan syarat dari algoritma. Hal yang sama berlaku untuk rencana evaluasi tujuh hari dan sampel 20 post yang nanti dipakai di buku ini. Keduanya pilihan praktik yang boleh kamu sesuaikan, dan rinciannya dibahas di bab 10.
+
+### Kalau Ingin Langsung Mencoba
+
+Kalau kamu ingin mulai hari ini juga, empat langkah ini sudah cukup sebagai awal:
+
+1. Buat satu List berisi sumber yang kamu pilih sendiri, lalu mulai setiap sesi baca dari List itu.
+2. Follow sebuah akun setelah memeriksa beberapa post-nya. Beri like dan bookmark pada bacaan yang betul-betul berguna, tanpa mengejar jumlah tindakan tertentu.
+3. Untuk rekomendasi yang tidak relevan, pakai Not interested. Untuk gangguan yang berulang dari akun atau kata tertentu, pakai mute yang sesuai.
+4. Nilai hasilnya dari bacaan yang kamu pahami dan gunakan, bukan dari seberapa menarik feed terasa.
+
+### Pijakan Buku Ini
+
+Penjelasan dalam buku ini bersandar pada repositori publik [twitter/the-algorithm](https://github.com/twitter/the-algorithm), yang pertama kali dipublikasikan pada Maret 2023 dan terakhir diperbarui pada September 2025, repositori yang lebih baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) yang dibuat pada Januari 2026, serta halaman Pusat Bantuan X. Tidak satu pun dari kedua repositori itu memperlihatkan seluruh konfigurasi dan eksperimen yang aktif, dan nama menu pun bisa berbeda menurut perangkat, wilayah, dan versi aplikasi. Karena itu, yang kamu dapatkan di sini adalah kebiasaan membaca yang bisa diuji sendiri, bukan rumus untuk mengendalikan feed.
+
+## Intisari
+
+- "Teknologi" terlalu luas, jadi mulailah dari pertanyaan spesifik yang ingin kamu jawab lewat X.
+- Bedakan bacaan yang layak dicari dari bacaan yang perlu dibatasi berdasarkan bisa atau tidaknya diperiksa dan dipakai.
+- Hiburan tetap boleh, tetapi pisahkan sesi atau List-nya, sambil ingat bahwa List tidak mengisolasi semua sinyal akunmu.
+- Angka dan durasi yang kamu tetapkan adalah batas pribadi, bukan tuntutan algoritma.
+
+Setelah tujuanmu tertulis, jalur baca apa saja yang sebenarnya tersedia di X selain For You, dan kapan masing-masing paling cocok dipakai?
+
+
+<!-- Chapter: 02_jalur-baca-selain-for-you -->
+
+## Jalur Baca Selain For You
+
+Mengapa kebanyakan orang hanya pernah membaca tab yang terbuka pertama kali di X, padahal ada beberapa jalur bacaan lain yang bisa dipilih dengan sengaja? Sebagian jawabannya adalah kebiasaan. Menurut [halaman bantuan X tentang For You dan Following](https://help.x.com/en/using-x/x-timeline), Home punya dua tab, For You dan Following, dan X membuka kembali tab yang terakhir kamu pakai. Kalau sejak awal kamu hanya menggulir For You, aplikasi akan terus menyambutmu di sana, sampai tab itu terasa seperti satu-satunya pintu. Bab ini memetakan pintu-pintu lain, menjelaskan cara kerjanya sejauh yang bisa diperiksa, lalu membantumu memilih sesuai kebutuhan.
+
+### Peta Lima Jalur Baca
+
+Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X dengan implementasi lama yang pernah dibuka ke publik, jadi perhatikan dari mana setiap klaim berasal.
+
+| Jalur | Cara kerjanya | Cocok saat |
+| --- | --- | --- |
+| **For You** | Menggabungkan post dari akun yang kamu ikuti dengan rekomendasi dari luar jaringanmu, lalu menilai dan mengurutkannya | Kamu ingin menemukan sumber baru dan siap memilah hasilnya |
+| **Following** | Menurut X Help, hanya menampilkan post dari akun yang kamu ikuti | Kamu ingin mengikuti sumber yang sudah kamu pilih sendiri |
+| **Lists** | Menampilkan post dari anggota sebuah List | Kamu ingin membaca satu bidang dari sekumpulan akun tertentu |
+| **Search** | Mencari post berdasarkan kata, akun, tempat, dan tanggal, dengan tab Top dan Latest | Kamu sudah punya pertanyaan atau peristiwa yang ingin ditelusuri |
+| **Explore dan Trends** | Menampilkan percakapan yang sedang naik, dalam versi personal dan versi berbasis lokasi | Kamu ingin tahu apa yang sedang ramai, lalu memeriksa konteksnya |
+
+### Benarkah Following Selalu Kronologis
+
+Banyak orang menyebut Following sebagai tab kronologis. Klaim itu perlu diletakkan pada sumber yang tepat. Halaman bantuan X hanya mengatakan bahwa Following menampilkan post dari akun yang kamu ikuti. Halaman itu tidak menyebut urutan kronologis dan tidak menawarkan pilihan cara mengurutkan.
+
+Urutan dari yang terbaru justru berasal dari [README Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md) di repositori lama twitter/the-algorithm. Di sana Home Mixer, komponen penyusun timeline, punya tiga produk: For You (post dari dalam dan luar jaringanmu), Following (post akun yang kamu ikuti, terbaru di atas), dan Lists (post anggota List, terbaru di atas). README yang sama menyebut iklan bisa muncul di ketiganya, sementara saran akun untuk diikuti muncul di For You dan Following, tetapi tidak di Lists. Artinya, kronologis tidak sama dengan bebas iklan.
+
+Ada satu batas lagi. Repositori baru xai-org/x-algorithm, yang dibuat pada Januari 2026, hanya membahas For You dan tidak menjelaskan Following maupun Lists. Kedua repositori juga bukan salinan utuh sistem produksi, jadi perlakukan keterangan urutan ini sebagai gambaran implementasi lama, bukan janji tentang aplikasi yang kamu buka hari ini.
+
+### List dan Search sebagai Alat Utama
+
+List adalah cara paling langsung untuk memegang kendali atas siapa yang kamu baca. Menurut [panduan Lists di X Help](https://help.x.com/en/using-x/x-lists), List baru bersifat publik secara bawaan. Kalau ingin hanya kamu yang bisa melihatnya, aktifkan pilihan Private. List yang disematkan akan muncul di samping tab For You dan Following, jadi berpindah ke sana cukup satu ketukan. Nama List paling panjang 25 karakter dan tidak boleh diawali angka. Letak menunya bisa berbeda menurut perangkat, wilayah, dan versi aplikasi, jadi wajar kalau tampilan di layarmu tidak persis sama.
+
+Search melayani kebutuhan yang lain lagi: kamu datang membawa pertanyaan, bukan menunggu disodori. Pencarian lanjutan bisa menyaring berdasarkan kata (semua kata, frasa persis, salah satu kata, kata yang dikecualikan, tagar, dan bahasa), akun, tempat, serta tanggal. Fitur ini memerlukan sesi login di x.com. Hasil pencarian juga terbagi ke beberapa tab, termasuk Top dan Latest, jadi biasakan membuka keduanya sebelum menarik kesimpulan.
+
+### Explore dan Trends dengan Kacamata Kritis
+
+Explore sering disangka sama dengan For You di beranda, padahal berbeda. Menurut penjelasan resmi X tentang rekomendasi Explore, tab For You di Explore merekomendasikan Trends, Events, Topics, dan Videos secara personal. Tab Trending terikat pada lokasi tertentu dan dijelaskan sebagai tidak dipersonalisasi untuk setiap akun.
+
+[Halaman rekomendasi Trends](https://help.x.com/en/resources/recommender-systems/trends-recommendations) menyebut empat hal yang memengaruhi Trends yang kamu lihat: Topics yang kamu ikuti, engagement terbarumu, minat yang sama dengan kelompok pengguna serupa, dan lokasi. Karena campurannya seluas itu, Trends personal tetap bisa memuat hal di luar minatmu. Di Uni Eropa, kotak What''s happening tidak dipersonalisasi.
+
+Ada dua jenis umpan balik dengan efek yang sangat berbeda:
+
+- **Not interested** hanya mengubah Trends yang kamu lihat sendiri.
+- **Harmful or spammy** adalah laporan yang memengaruhi Trends di seluruh X. Pakai hanya bila alasannya memang benar, bukan sekadar karena topiknya tidak kamu sukai.
+
+Yang perlu terus diingat, tren yang tinggi bukan bukti bahwa sesuatu penting atau benar. Sebelum ikut menyebarkannya, periksa apa yang sebenarnya terjadi, siapa sumber pertamanya, dan kapan informasi itu muncul.
+
+### Rutinitas Baca yang Sederhana
+
+Kamu tidak perlu menunggu For You membaik untuk mulai membaca sesuai kebutuhan. Coba pola tiga langkah ini:
+
+1. Buka List untuk kebutuhan utamamu, misalnya bidang kerja atau topik yang sedang kamu pelajari.
+2. Pakai Search ketika muncul pertanyaan atau peristiwa yang ingin kamu telusuri.
+3. Buka For You hanya saat kamu memang ingin menemukan sumber baru, dengan sadar bahwa isinya adalah tebakan sistem.
+
+Following dan List memberimu kendali lebih langsung atas kumpulan penulis, tetapi kebenaran isinya tetap perlu kamu periksa sendiri.
+
+## Ringkasan
+
+- For You hanyalah salah satu jalur, dan karena X membuka kembali tab terakhir yang kamu pakai, kebiasaan mudah mengunci pilihanmu.
+- X Help hanya menyebut Following berisi post dari akun yang kamu ikuti; urutan terbaru dan penempatan iklan di Following serta Lists berasal dari README Home Mixer di repositori lama.
+- List memberi kendali atas sumber, bisa dibuat Private, dan bisa disematkan di samping tab Home, sedangkan Search menjawab pertanyaan dengan filter yang presisi.
+- Trends dipengaruhi minat, engagement, dan lokasi, jadi bukan ukuran penting atau benarnya sebuah kabar.
+
+Setelah tahu ada banyak pintu masuk, saatnya mengintip mesin For You dari dekat dengan mengikuti perjalanan sebuah post, dari saat ia diterbitkan sampai mendarat di layarmu.
+
+
+<!-- Chapter: 03_perjalanan-post-menuju-for-you -->
+
+## Perjalanan Sebuah Post Menuju For You
+
+Bayangkan sebuah post yang baru diunggah sebagai pesanan di dapur restoran yang sibuk, yang harus melewati beberapa meja sebelum tersaji di depanmu. Ada meja yang mengambil bahan, meja yang menakar bumbu, juru masak yang menebak selera tamu, petugas yang memeriksa piring, lalu pelayan yang menata semuanya. Post yang sampai di tab For You menempuh perjalanan serupa, hanya saja dapurnya berupa server dan juru masaknya berupa model. Bab ini mengikuti perjalanan itu supaya kamu tahu meja mana yang bisa kamu pengaruhi dan mana yang tidak.
+
+### Lima Meja di Dapur Rekomendasi
+
+Peta paling sederhana dari perjalanan itu terdiri dari lima tahap:
+
+1. **Mencari calon post.** Sistem mengumpulkan kandidat dari beberapa sumber, baik dari akun yang kamu ikuti maupun dari luar jaringanmu.
+2. **Mengisi fitur (feature hydration).** Setiap kandidat dilengkapi informasi pendukung, seperti hubungan antarpengguna, konteks post, dan riwayat aktivitas. README Home Mixer menyebut sekitar 6.000 fitur.
+3. **Memprediksi respons.** Model menebak respons apa yang mungkin kamu berikan pada setiap kandidat.
+4. **Menyaring dan mengatur ulang.** Kandidat yang tidak layak dikeluarkan, dan urutan disesuaikan agar layar tidak dikuasai satu hal saja.
+5. **Menyusun layar.** Post yang lolos dicampur dengan komponen lain, misalnya iklan dan saran akun, lalu dikirim ke aplikasimu.
+
+Daftar ini adalah peta konsep, bukan urutan eksekusi yang persis. Sebagian filter sudah berjalan sebelum penilaian, dan kode juga punya jalur cadangan serta jalur bersyarat, misalnya pipeline kronologis terbalik yang dipakai bila penilaian gagal. Ada satu hal yang membuat dapur ini berbeda dari restoran biasa: setelah kamu membaca atau berinteraksi dengan sebuah post, aktivitas itu bisa menjadi bahan untuk permintaan feed berikutnya. Tamunya ikut menulis resep pesanan selanjutnya.
+
+### Dari Mana Calon Post Datang
+
+Di repositori [twitter/the-algorithm](https://github.com/twitter/the-algorithm) (pembaruan September 2025), [README Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md) menyebut beberapa sumber kandidat:
+
+- **Earlybird**, indeks pencarian yang menyimpan post agar bisa ditemukan kembali. Dari sinilah post akun yang kamu ikuti (in-network) diambil, dan README utama repositori menyebut sekitar separuh post berasal dari indeks pencarian ini.
+- **UTEG** (User Tweet Entity Graph), peta hubungan antara pengguna dan post berdasarkan interaksi mereka, yang menurut README utama dibangun di atas kerangka GraphJet. Lewat jalur ini, aktivitas orang di sekitar jaringanmu bisa membawa post dari akun yang tidak kamu ikuti.
+- **Cr Mixer**, sumber kandidat lain yang juga tercantum di README tersebut.
+- **Tweet Mixer**, yang oleh README utama repositori disebut sebagai lapisan koordinasi untuk mengambil kandidat dari luar jaringan.
+- **FRS** (Follow Recommendations Service), layanan rekomendasi akun yang juga menjadi salah satu sumber kandidat.
+
+Di luar daftar itu, pola follow dan interaksi bisa diolah menjadi representasi minat lewat metode bernama SimClusters, yang dibahas di bab 5. Gabungan jalur ini menjelaskan mengapa post dari akun asing bisa muncul di layarmu. Kamu tidak perlu pernah menyukai akun tersebut, karena kandidatnya bisa masuk lewat jaringan atau kemiripan perilaku.
+
+### Istilah yang Sering Muncul
+
+- **Candidate sourcing**: mengambil sekumpulan calon post sebelum memilih yang akan ditampilkan.
+- **Feature**: informasi yang dipakai model, misalnya hubungan pengguna, konteks post, atau riwayat aktivitas.
+- **Feature hydration**: melengkapi kandidat dengan feature yang diambil dari layanan lain.
+- **Ranking**: memberi skor untuk menentukan prioritas kandidat.
+- **Rescoring**: menyesuaikan skor, misalnya agar satu penulis tidak memenuhi layar.
+- **Filtering**: mengeluarkan atau membatasi kandidat berdasarkan aturan tertentu.
+- **Mixing**: menata post bersama komponen lain, termasuk iklan dan rekomendasi akun.
+
+### Feed Bukan Daftar Skor Tertinggi
+
+Kalau dapur hanya menyajikan hidangan bernilai tertinggi, kamu bisa saja menerima sepuluh piring dari juru masak yang sama. Home Mixer punya penyesuaian untuk mencegahnya: keragaman penulis, keseimbangan konten, kelelahan umpan balik (feedback fatigue), penghapusan duplikat dan konten yang sudah pernah kamu lihat, serta penyaringan visibilitas. Setelah itu, layar akhir masih dicampur dengan iklan, saran akun, dan modul lain seperti percakapan.
+
+Akibatnya, dua post dengan prediksi berbeda belum tentu muncul dalam urutan yang bisa kamu tebak dari satu tindakan saja. Screenshot sebuah feed juga tidak bisa membuka bobot algoritma, karena yang terlihat hanya piring yang sudah tersaji, bukan resep dan takarannya.
+
+### Dapur Baru di xai-org/x-algorithm
+
+Repositori kedua, [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm), dibuat pada Januari 2026 dan [diumumkan @Engineering](https://x.com/Engineering/status/2013471689087086804) pada 20 Januari 2026 sebagai sistem yang memakai arsitektur transformer yang sama dengan model Grok milik xAI. Pembaruan besar datang pada 15 Mei 2026, dan sejak Agustus 2026 repositori ini diperbarui nyaris setiap hari. Dalam bahasa sederhana, alurnya begini:
+
+1. Post dari akun yang kamu ikuti datang dari Thunder, tempat penyimpanan post terbaru akun-akun tersebut. Post dari luar jaringan datang dari Phoenix retrieval, SimClusters, dan post populer.
+2. Sebelum dinilai, kandidat disaring. Yang dibuang antara lain post yang lebih tua dari 48 jam, post milikmu sendiri, post dari akun yang kamu blokir atau bisukan, post yang memuat kata yang kamu bisukan, serta post yang sudah pernah kamu lihat atau sudah dikirim kepadamu.
+3. Phoenix memprediksi tindakan yang mungkin kamu lakukan dengan membaca sekitar seribu aktivitas terbarumu.
+4. Prediksi itu dikalikan dengan bobot, lalu VMRanker menyusun ulang urutan demi keragaman. Bobot mengalikan peluang tindakan yang diprediksi, bukan memberi poin per tindakan.
+5. Kandidat teratas melewati penyaringan visibilitas, kemudian tahap blending menyisipkan iklan dan saran akun.
+
+Tetap ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi itu tetap bukan keseluruhan sistem.
+
+### Apa yang Berubah bagi Pembaca
+
+- **Masih berlaku.** For You tetap mencampur post dari akun yang kamu ikuti dengan post rekomendasi.
+- **Masih berlaku.** Alur besarnya sama, yaitu mengumpulkan, menyaring, menilai, menyaring visibilitas, lalu mencampur.
+- **Masih berlaku.** Mute, blokir, kata yang dibisukan, dan "not interested" tetap menjadi kendali utamamu sebagai pembaca.
+- **Berubah.** Nama Earlybird dan UTEG tidak muncul di README baru. Jalur akun yang kamu ikuti kini dilayani Thunder, dan prediksi dikerjakan Phoenix.
+- **Berubah.** Di repositori baru, kandidat dibatasi usia 48 jam, dan model membaca urutan aktivitas terbarumu, sehingga kebiasaan baca belakangan ini ikut menentukan apa yang ditebak.
+
+## Benang Merah
+
+- Post di For You melewati lima tahap: dicari, dilengkapi fitur, diprediksi, disaring dan diatur ulang, lalu disusun di layar.
+- Kandidat datang dari akun yang kamu ikuti dan dari luar jaringan, jadi akun asing bisa muncul tanpa pernah kamu sukai.
+- Urutan feed bukan daftar skor tertinggi, dan screenshot tidak bisa membuka bobotnya.
+- Repositori baru mengganti nama komponen, tetapi alur besar dan kendali utama pembaca tetap sama.
+
+Sisi dapur sudah kita telusuri dari meja ke meja, sementara separuh cerita lainnya ada di tanganmu, yaitu sinyal yang kamu kirim setiap kali membaca, berhenti, atau menggulir lewat.
+
+
+<!-- Chapter: 04_sinyal-saat-kamu-membaca -->
+
+## Sinyal yang Terkirim Saat Kamu Membaca
+
+Kamu bisa memberi tahu sistem rekomendasi bahwa sebuah topik menarik bagimu tanpa pernah sekali pun menekan tombol like pada post tentang topik itu. Cukup buka percakapannya, baca balasan demi balasan, lalu kembali lagi besok. Dari luar kamu tampak diam, padahal dari sisi mesin kamu sedang bicara cukup lantang. Bab ini memetakan apa saja yang bisa terbaca dari aktivitasmu menurut kode yang dibuka untuk publik, dengan satu catatan: kode itu bukan salinan utuh sistem yang berjalan hari ini.
+
+### Tombol yang Ditekan dan Jejak yang Tertinggal
+
+Tindakan eksplisit adalah hal yang kamu lakukan dengan sengaja dan terlihat, seperti like, repost, reply, atau follow. Tindakan implisit muncul begitu saja selama membaca: mengklik post, menonton video, atau mampir ke profil seseorang. Dalam implementasi lama (repositori twitter/the-algorithm, pembaruan September 2025), dokumentasi User Signal Service (USS) menyebut kedua jenis ini sebagai bahan untuk mencari calon post dan menyusun fitur penilaian. Contoh sinyal eksplisit di sana adalah like, repost, dan reply, sedangkan contoh sinyal implisitnya klik post, tontonan video, dan kunjungan profil.
+
+Ada juga Unified User Actions (UUA), aliran data real-time terpusat yang menghimpun berbagai tindakan pengguna, termasuk bookmark. USS dan UUA adalah nama komponen perangkat lunak di balik layar, bukan menu atau pengaturan yang bisa kamu nyalakan dan matikan.
+
+### Dicatat, Dipakai, dan Diprediksi
+
+Satu tindakan bisa memegang tiga peran berbeda. Ia bisa sekadar **dicatat** sebagai data. Ia bisa **dipakai sebagai masukan**, misalnya muncul di [tabel sinyal pencarian calon post](https://github.com/twitter/the-algorithm/blob/main/RETREIVAL_SIGNALS.md) yang memetakan 18 jenis sinyal ke enam komponen. Ia juga bisa **diprediksi oleh model**: [berkas keluaran model](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/model/PredictedScoreFeature.scala) di implementasi lama mendaftar 15 jenis keluaran prediksi, sebagian besar berupa perkiraan peluang kamu melakukan sesuatu terhadap sebuah post. Tercatat tidak otomatis berarti menjadi faktor utama. Kolom terakhir tabel berikut berisi saran, bukan bobot resmi.
+
+| Aktivitas kamu | Peran dalam implementasi lama | Cara memakainya sebagai pembaca |
+| --- | --- | --- |
+| Follow | Masukan bagi semua komponen di tabel sinyal kecuali Light Ranking | Ikuti sumber yang berguna berulang kali, bukan karena satu post viral |
+| Unfollow | Hanya tercantum di kolom USS | Lepaskan akun yang tak lagi kamu perlukan, tanpa berharap riwayat lama ikut lenyap |
+| Like | Dipakai keenam komponen dan diprediksi model | Berikan pada tulisan yang memang layak kamu temui lagi |
+| Unlike | Tercantum di kolom USS dan SimClusters | Koreksi like yang keliru, bukan penghapus minat |
+| Reply | Dipakai semua komponen kecuali SimClusters; model memprediksi reply dan reply yang ditanggapi penulis | Balas saat ada pertanyaan atau diskusi nyata, bukan untuk "melatih" feed |
+| Repost / quote | Keduanya dipakai semua komponen kecuali SimClusters; model memprediksi repost | Bagikan setelah klaimnya kamu periksa; quote untuk mengejek tetap interaksi |
+| Share | Tercantum di kolom USS dan FRS; model memprediksi share | Kirim ke orang yang memang membutuhkan bacaannya |
+| Bookmark | Hanya di kolom USS, dicatat UUA, dan diprediksi model | Simpan untuk dipakai, dan jangan anggap bebas sinyal |
+| Klik post | Sinyal implisit USS; di tabel muncul di kolom USS, FRS, dan sebagai label Light Ranking; ada dua prediksi "good click" | Buka untuk memahami isi atau mengecek sumber, bukan setiap utas yang memancing penasaran |
+| Kunjungan profil | Tidak ada di tabel sinyal; disebut di dokumentasi USS dan menjadi masukan Real Graph; ada prediksi "good profile click" | Nilai sumber sebelum follow; kunjungan berulang karena kesal tetap tercatat |
+| Dwell (lama berhenti di sebuah post) | Model memprediksi dwell | Baca sewajarnya, tidak perlu menahan layar sekian detik |
+| Menonton video | Di kolom USS, SimClusters, dan label Light Ranking; ada beberapa prediksi terkait video | Matikan autoplay bila ingin sesi yang fokus pada teks |
+| Not interested | Hanya di kolom USS; model memprediksi umpan balik negatif | Pakai saat rekomendasi melenceng dari tujuanmu |
+| Mute / block | Tercantum di kolom USS dan FRS | Beri batas pada akun tertentu, lalu cek cakupannya di kebijakan X terbaru |
+
+Report juga hanya tercantum di kolom USS, dan tidak masuk daftar utama keluaran prediksi model.
+
+### Kesal pun Tetap Bersuara
+
+Bayangkan sebuah utas yang membuatmu jengkel. Kamu tidak memberi like, tetapi kamu membukanya lagi dan lagi, membaca setiap balasan, lalu mengetik bantahan. Klik, waktu baca, dan reply itu tetap bisa masuk ke riwayat aktivitasmu. Komentar marah tidak selalu berujung pada lebih banyak post bertopik sama, tetapi sistem mencatat interaksinya tanpa memahami alasannya. Bagi mesin, membuka berulang kali untuk menolak dan membuka berulang kali karena suka bisa tampak serupa.
+
+Kalau ingin topik itu berkurang, pilih umpan balik yang sesuai dan pangkas keterlibatan yang tidak perlu. Kamu tetap boleh meluruskan informasi yang salah atau membela seseorang. Sebelumnya, timbang tujuannya, berapa lama waktu yang akan habis, dan kenyataan bahwa interaksi itu ikut menjadi bagian dari riwayatmu.
+
+### Bookmark untuk Bahan Riset
+
+Bookmark terasa privat karena tidak tampil sebagai dukungan publik, tetapi ia tidak bebas sinyal. Di implementasi lama, bookmark tercantum di kolom USS, dicatat UUA, dan menjadi salah satu keluaran yang diprediksi model. Kode itu menunjukkan bahwa keluarannya ada, bukan seberapa besar pengaruhnya pada akunmu.
+
+Kalau kamu hanya ingin menyimpan bukti sebuah klaim yang belum kamu percayai, salin tautannya ke catatan pribadi. Cara ini menghindari tindakan bookmark, tetapi klik yang sudah terjadi tidak ikut batal, dan menyimpan di luar X juga bukan mode anonim. Di mana pun kamu menyimpan, beri setiap tautan status: belum dicek, sudah dicek, atau siap digunakan. Tumpukan simpanan yang tidak pernah dibuka lagi tidak menolong tujuan belajarmu.
+
+### Catatan Kode tentang Interaksi di Home
+
+Repositori baru, xai-org/x-algorithm, memuat [komentar kode](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/params/param.rs) yang memberi batas tegas: sebuah tindakan baru dihitung untuk rekomendasi bila terjadi pada post yang disajikan di timeline Home, sedangkan membuka post secara langsung tidak berpengaruh pada peringkat. Itu komentar dalam kode, bukan janji tentang seluruh sistem produksi, tetapi ia mengingatkan bahwa tempat kamu membaca ikut menentukan arti sebuah tindakan.
+
+## Poin Penting
+
+- Kamu mengirim sinyal lewat tindakan eksplisit seperti like dan follow, juga lewat tindakan implisit seperti klik, tontonan video, dan kunjungan profil.
+- Dicatat, dipakai sebagai masukan, dan diprediksi model adalah tiga peran berbeda, dan tercatat belum tentu menjadi faktor utama.
+- Membuka utas yang menjengkelkan berulang kali tetap meninggalkan jejak, karena sistem membaca interaksinya, bukan niatmu.
+- Bookmark tidak bebas sinyal, dan menyimpan tautan di luar X tidak membatalkan klik yang sudah terjadi.
+
+Semua jejak itu tidak berhenti sebagai catatan, sebab sistem meraciknya menjadi perkiraan tentang minatmu, dan cara racikan itu bekerja layak kita bongkar sesudah ini.
+
+
+<!-- Chapter: 05_cara-sistem-menebak-minat -->
+
+## Cara Sistem Menebak Minatmu
+
+Pustakawan yang sudah lama bertugas sering bisa menebak buku yang kamu sukai hanya dari apa yang dipinjam pembaca lain dengan selera serupa. Ia tidak perlu membaca isi kepalamu. Cukup melihat bahwa orang yang meminjam buku sejarah maritim juga sering meminjam catatan perjalanan, lalu menyodorkan keduanya kepadamu. Sistem rekomendasi di X bekerja dengan logika yang mirip, hanya saja raknya berisi jutaan akun dan catatan peminjamannya berupa follow, like, dan kunjungan. Bab ini membedah dua mekanisme dari repositori twitter/the-algorithm (pembaruan September 2025), yaitu SimClusters dan Real Graph, lalu melihat sekilas apa yang berubah di repositori baru xai-org/x-algorithm. Ingat juga bahwa kedua repositori bukan salinan lengkap sistem produksi: konfigurasi per permintaan, model terlatih, dan banyak eksperimen yang sedang berjalan tidak bisa dibaca siapa pun.
+
+### Komunitas dari Pola Follow
+
+[SimClusters](https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/simclusters_v2/README.md) mengelompokkan akun berdasarkan siapa yang mengikutinya. Kalau sekumpulan akun cenderung diikuti oleh pembaca yang sama, akun-akun itu dianggap satu komunitas. Komunitas di sini bukan grup resmi yang bisa kamu masuki, melainkan pola yang muncul dari data. README SimClusters menyebut skalanya sekitar 20 juta akun produsen, yaitu akun yang diikuti pembaca, dan sekitar 145 ribu komunitas.
+
+Satu pembaca tidak harus masuk satu kotak saja. Kamu bisa dekat dengan komunitas pemrograman, sepak bola, dan kuliner sekaligus, dengan kadar yang berbeda untuk masing-masing. Kadar inilah yang dihitung.
+
+### Matriks sebagai Tabel Angka
+
+Untuk menghitung kadar itu, SimClusters memakai matriks. Bayangkan matriks sebagai tabel: setiap baris mewakili satu hal, setiap kolom mewakili hal lain, dan setiap sel berisi angka yang menunjukkan seberapa kuat hubungan keduanya. Dua tabel yang ukurannya cocok bisa dikalikan untuk menghasilkan tabel baru. Rumus intinya adalah:
+
+<div>
+
+$$
+U = A V
+$$
+
+</div>
+
+- $A$ adalah tabel follow: baris berisi pembaca, kolom berisi akun produsen, dan selnya menandai siapa mengikuti siapa.
+- $V$ adalah tabel KnownFor: baris berisi akun produsen, kolom berisi komunitas, dan selnya menunjukkan komunitas yang membuat akun itu dikenal.
+- $U$ adalah hasilnya, tabel InterestedIn: baris berisi pembaca, kolom berisi komunitas, dan selnya memperkirakan seberapa tertarik seorang pembaca pada tiap komunitas.
+
+Satu baris di tabel $U$, yaitu deretan angka minatmu terhadap semua komunitas, disebut vektor. Kembali ke perpustakaan: $A$ adalah catatan buku yang kamu pinjam, $V$ adalah label rak tempat buku itu biasa diletakkan, dan $U$ adalah tebakan rak mana yang paling sering kamu datangi. Rumus ini hanya satu tahap pembentukan perkiraan minat, bukan seluruh perhitungan For You.
+
+Post juga punya representasi sendiri. Saat baru terbit, representasinya kosong. Setiap kali seseorang menyukainya, vektor InterestedIn milik orang itu ditambahkan ke representasi post. Artinya, like-mu ikut menentukan ke komunitas mana sebuah post dianggap condong. Karena itu, like yang selektif lebih masuk akal daripada menyukai apa saja yang kebetulan bertema sama, sebab satu topik bisa mencakup berita, promosi, humor, dan perdebatan sekaligus.
+
+### Arti Mirip dalam Hitungan
+
+Setelah pembaca, akun, dan post punya vektor, sistem perlu cara membandingkannya. Salah satu ukuran yang dipakai SimClusters adalah cosine similarity:
+
+<div>
+
+$$
+\cos(a,b)=\frac{a\cdot b}{\lVert a\rVert \lVert b\rVert}
+$$
+
+</div>
+
+Pembilang $a\cdot b$ (dot product) mengalikan komponen kedua vektor yang sepadan lalu menjumlahkannya. Penyebut berisi panjang masing-masing vektor, sehingga yang tersisa adalah kesamaan arah, bukan besar angkanya. Karena ada pembagian, rumus ini hanya berlaku jika $a$ dan $b$ sama-sama bukan vektor nol. Hasilnya makin besar ketika dua pola makin searah.
+
+Di SimClusters, cosine similarity dipakai untuk membangun graf kemiripan antarakun produsen. Komunitasnya sendiri kemudian ditemukan dengan metode pengambilan sampel bernama Metropolis-Hastings. Jadi, kemiripan adalah bahan bakunya, bukan langsung jawabannya.
+
+Mirip dalam hitungan ini berarti pola datanya searah. Dua post yang mirip belum tentu mengatakan hal yang sama, belum tentu sama benarnya, dan belum tentu sama bermanfaatnya bagimu. Kamu juga tidak bisa mengetik vektor minatmu sendiri. Pengaruhmu datang lewat sumber yang kamu pilih, aktivitas yang kamu lakukan, dan kontrol produk yang tersedia.
+
+### Akun yang Sering Kamu Datangi
+
+SimClusters membaca minat dari komunitas. [Real Graph](https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/interaction_graph/README.md) melihat hal yang lebih personal, yaitu seberapa mungkin kamu berinteraksi dengan akun tertentu. Ia adalah model jenis gradient boosted yang menebak apakah satu pengguna akan berinteraksi dengan pengguna lain. Bahannya ada dua macam. Yang publik berupa like, repost, dan follow. Yang privat berupa kunjungan profil, klik pada post, dan data buku alamat.
+
+Riwayat interaksi itu digabung sebagai jumlah yang meluruh (decayed sum). Aktivitas lama tetap dihitung, tetapi bobotnya makin kecil seiring waktu, dan tidak lenyap begitu saja pada tanggal tertentu. Mirip pustakawan yang masih ingat kamu dulu rajin meminjam novel detektif, meski kini kamu lebih sering terlihat di rak sains.
+
+Konsekuensinya sederhana: perhatikan siapa yang kamu baca berulang kali, bukan hanya topiknya. Sebuah akun bisa sesekali membahas teknologi, tetapi lebih sering mengajak debat yang tidak kamu butuhkan. Kunjungan profil yang kamu lakukan diam-diam pun ikut menjadi bahan perkiraan.
+
+### Yang Berubah di Repositori Baru
+
+Repositori xai-org/x-algorithm memakai pendekatan lain untuk mencari kandidat. Tahap retrieval bernama [Phoenix](https://github.com/xai-org/x-algorithm/blob/main/phoenix/README.md) mencari post dengan pencarian embedding dua menara (two-tower), dan kamu direpresentasikan oleh apa yang pernah kamu interaksikan, tanpa embedding khusus untuk ID pengguna. Dengan kata lain, sistem mengenalmu dari jejakmu, bukan dari nomor anggotamu. SimClusters pun belum pensiun: sejak Agustus 2026, ia masih dipakai sebagai sumber tambahan untuk post dari luar jaringan follow-mu.
+
+## Inti Pembahasan
+
+- SimClusters membentuk komunitas dari pola follow, dan satu pembaca bisa condong ke beberapa komunitas sekaligus.
+- Tabel follow dikalikan dengan tabel KnownFor menghasilkan tabel InterestedIn, yaitu perkiraan minatmu per komunitas.
+- Representasi post dimulai kosong dan diisi vektor minat para penyukanya, jadi like yang selektif ikut menentukan arah sebuah post.
+- Mirip berarti polanya searah, bukan sama benar atau sama bermanfaat.
+- Real Graph menebak interaksimu dengan akun lain dari sinyal publik dan privat, dengan riwayat lama yang bobotnya meluruh.
+
+Tebakan minat ini baru menentukan post mana yang layak dipertimbangkan, sedangkan urutan yang akhirnya muncul di layarmu bergantung pada skor yang diberikan kepada setiap post.
+
+
+<!-- Chapter: 06_skor-rekomendasi-bukan-ukuran-manfaat -->
+
+## Skor Rekomendasi Bukan Ukuran Manfaat
+
+Coba ingat post yang paling lama menahan jempolmu kemarin, karena kemungkinan besar post itu tidak mengajarkan satu hal pun yang sedang kamu cari.
+
+Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu tonton dua kali sambil menunggu makanan datang. Kamu bertahan, mungkin juga ikut membalas, tetapi setelah aplikasi ditutup tidak ada pengetahuan baru yang tertinggal. Bagi sistem rekomendasi, sesi seperti itu tetap tampak berhasil. Alasannya sederhana: skor yang menyusun urutan For You dibangun dari tebakan tentang responsmu, bukan dari penilaian apakah sebuah post berguna bagimu.
+
+### Respons yang Ditebak Model
+
+Pada implementasi lama, yaitu repositori twitter/the-algorithm (pembaruan September 2025), ada [berkas kode yang mendaftar jenis respons yang diprediksi](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/model/PredictedScoreFeature.scala). Isinya mencakup like, reply, repost, bookmark, share, dwell (lamanya kamu berhenti di sebuah post), beberapa jenis klik tertentu, tontonan video, dan umpan balik negatif. Report tidak termasuk dalam daftar utama itu.
+
+Perhatikan sudut pandangnya. Model tidak bertanya apakah post ini benar atau apakah post ini membantumu belajar. Pertanyaannya adalah seberapa mungkin kamu memberi respons tertentu terhadap kandidat ini. Semua angka sesudahnya berangkat dari pertanyaan tersebut.
+
+### Rumus Sederhana Bagian Positif
+
+Cara paling ringkas memahami bagian positif dari penggabungan skor lama adalah rumus berikut.
+
+<div>
+
+$$
+S_{+}=\sum_{i:w_i\geq 0} w_i p_i
+$$
+
+</div>
+
+Di sini $p_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p_i$ punya arti yang sama.
+
+Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi terhadap sebuah kandidat post. Kode tidak sedang memberimu satu poin setiap kali kamu menekan like. Aktivitasmu memang bisa menjadi masukan bagi tebakan berikutnya, tetapi hubungan itu bukan tabel poin tetap.
+
+### Bobot Lama yang Tidak Pernah Tetap
+
+Rumus di atas sengaja disederhanakan. Berkas HomeGlobalParams menyimpan sekitar 30 parameter bobot yang nilai awalnya 0,0. Nilai sebenarnya diisi lewat konfigurasi permintaan dan sebuah optimizer yang memberi set bobot per pengguna. Jadi angka 0,0 itu bukan pengaruh nyata like atau bookmark di akunmu.
+
+Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
+
+### Bobot yang Kini Dibuka
+
+Repositori baru, xai-org/x-algorithm, menuliskan skor akhir dengan lebih terbuka: untuk setiap aksi, bobot dikalikan peluang prediksinya, lalu semuanya dijumlahkan. Aksi positif mendapat bobot positif, aksi negatif mendapat bobot negatif.
+
+<div>
+
+$$
+\text{Skor akhir}=\sum_{i} w_i P(a_i)
+$$
+
+</div>
+
+Bobotnya tercantum di [berkas parameter peringkat](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/params/param.rs). Berikut sebagian nilai bawaan per sinkronisasi 8 Oktober 2026.
+
+| Aksi yang diprediksi | Bobot bawaan |
+|---|---|
+| Like | 0,5 |
+| Reply | 5 |
+| Repost | 1 |
+| Quote | 5 |
+| Share | 2 |
+| Share lewat DM | 5 |
+| Share lewat salin tautan | 20 |
+| Follow penulis | 4 |
+| Not interested | -47,52 |
+| Block penulis | -31,2 |
+| Mute penulis | -58,8 |
+| Report | -234 |
+
+Tabel ini menggoda untuk dibaca sebagai daftar poin, dan [README repositori itu](https://github.com/xai-org/x-algorithm) sendiri memperingatkan agar kamu tidak melakukannya. Bobot dikalikan dengan peluang prediksi bahwa kamu akan melakukan sebuah aksi, bukan dengan jumlah aksi yang terjadi. Kesimpulan seperti "satu report menghapus 468 like" adalah salah baca. Komentar di kodenya menjelaskan bahwa bobot mencampur dua hal, yaitu seberapa berharga sebuah aksi dan seberapa jarang aksi itu terjadi. Peluang dasar report lebih dari 1.000 kali lebih kecil daripada like, sehingga bobotnya harus besar agar prediksinya berpengaruh sama sekali. Nilai-nilai ini disalin dari konfigurasi produksi dan bisa berubah, jadi anggap tabel di atas sebagai potret per 8 Oktober 2026.
+
+Skor akhir pun belum langsung menjadi urutan. Sesudahnya masih ada pengali keragaman penulis yang menurun untuk post berikutnya dari penulis yang sama, potongan untuk post dari luar jaringanmu (juga untuk reply dan repost dari akun yang kamu ikuti), dorongan bagi penulis baru, lalu penataan ulang demi keragaman oleh VMRanker.
+
+### Manfaat Tetap Kamu yang Menilai
+
+Kembali ke post yang menahanmu kemarin. Post semacam itu bisa mendapat prediksi respons yang tinggi, misalnya peluang reply atau dwell yang besar, tanpa membantu pekerjaan atau belajarmu sedikit pun. Skor mengukur kemungkinan reaksi, sedangkan manfaat adalah urusan lain.
+
+Karena itu, buat ukuranmu sendiri dengan tiga pertanyaan. Apakah ada pengetahuan baru yang kamu dapat? Apakah ada sumber yang bisa kamu periksa? Apakah ada keputusan yang menjadi lebih jelas? Kalau ketiganya dijawab tidak, lamanya kamu bertahan tidak mengubah apa-apa.
+
+Tidak ada pula kuota interaksi yang perlu dikejar, entah sekian like atau sekian reply per hari. Bobot di tabel tadi tidak bisa diterjemahkan menjadi rasio pengaruh yang berlaku di akunmu. Pilih interaksi karena kegunaannya: like karena kamu menghargai isinya, bookmark karena akan memakainya lagi, reply karena memang ada yang perlu kamu sampaikan.
+
+## Yang Perlu Kamu Ingat
+
+- Model menebak responsmu terhadap sebuah kandidat post, bukan menilai apakah post itu berguna.
+- Rumus $S_{+}$ hanya penyederhanaan, karena di implementasi lama bobot diisi konfigurasi dan optimizer, lalu skornya dikalikan lagi oleh faktor penyesuaian.
+- Bobot di repositori baru mengalikan peluang, bukan jumlah aksi, dan nilainya bisa berubah sewaktu-waktu.
+- Ukuran manfaat ada di tanganmu: pengetahuan baru, sumber yang bisa diperiksa, dan keputusan yang lebih jelas.
+
+Karena yang ditebak adalah responsmu, tiga alat yang paling dekat dengan jempolmu, yaitu Not interested, mute, dan unfollow, layak kamu kenali cara kerjanya satu per satu.
+
+
+<!-- Chapter: 07_not-interested-mute-dan-unfollow -->
+
+## Not Interested, Mute, dan Unfollow
+
+Beberapa minggu lalu kamu meminta X menampilkan lebih sedikit post dari seorang penulis, tetapi kini namanya perlahan muncul lagi di berandamu. Wajar kalau kamu curiga tombolnya rusak atau permintaanmu diabaikan. Penjelasannya bisa lebih sederhana: setiap kontrol di X mengubah hal yang berbeda, dan setidaknya di kode lama, ada jenis permintaan yang memang dirancang untuk memudar. Bab ini memetakan kontrol yang cocok untuk tiap masalah, lalu membedah satu mekanisme "tampilkan lebih sedikit" yang menjelaskan kenapa efeknya bisa melemah.
+
+### Pilih Kontrol Sesuai Masalahnya
+
+Tidak semua gangguan perlu ditangani dengan tombol yang sama. Isi tabel di bawah bersandar pada halaman bantuan X tentang [pendekatan rekomendasi](https://help.x.com/en/rules-and-policies/recommendations), [mute akun](https://help.x.com/en/using-x/x-mute), dan [opsi mute lanjutan](https://help.x.com/en/using-x/advanced-x-mute-options). Nama dan letak menu bisa berbeda menurut perangkat, wilayah, dan versi aplikasi.
+
+| Masalah | Tindakan paling langsung | Batas yang perlu diingat |
+| --- | --- | --- |
+| Satu rekomendasi tidak relevan | Not interested in this post, atau Not interested in this Topic | X akan merekomendasikan lebih sedikit konten sejenis, bukan menjamin seluruh topik hilang |
+| Penulis yang direkomendasikan terus berulang | Opsi tampilkan lebih sedikit dari penulis itu, jika tersedia | Efeknya bisa memudar, seperti dibahas di bawah |
+| Satu akun terus mengganggu | Mute akun | Akun itu tidak diberi tahu; kalau kamu mengikutinya, balasan dan mention-nya tetap masuk Notifications dan balasannya tetap tampil di dalam percakapan; DM tidak terpengaruh |
+| Akun di Following tidak lagi kamu perlukan | Unfollow, atau mute jika ingin tetap mengikuti tanpa melihat post-nya | Unfollow berhenti mengikuti, sedangkan mute menyembunyikan post tanpa berhenti mengikuti |
+| Frasa, nama, atau hashtag mengganggu | Muted words untuk Home timeline dan/atau Notifications | Juga menyembunyikan post di balasan serta notifikasi push, SMS, dan email; durasinya Forever (bawaan), 24 jam, 7 hari, atau 30 hari; notifikasi seluler yang kamu nyalakan untuk akun yang kamu ikuti tetap lolos; cara kerjanya mencocokkan kata, bukan memahami topik |
+| Percakapan mengirim notifikasi terus-menerus | Mute this conversation | Notifikasinya berhenti, tetapi post di percakapan itu masih bisa muncul di timeline |
+| Ada pelanggaran aturan | Report dengan alasan yang jujur dan sesuai | Jangan memakai report massal untuk konten yang sekadar tidak kamu sukai |
+| Kamu butuh batas interaksi dengan satu akun | Block | Periksa kebijakan block yang berlaku saat ini sebelum menyimpulkan efeknya |
+
+Satu catatan soal mute: X menyebut bahwa mute hanya berlaku untuk notifikasi dan Home timeline. Jadi jangan berharap kata yang kamu bisukan lenyap dari semua tempat, termasuk hasil pencarian.
+
+### Jejak SeeFewer di Implementasi Lama
+
+Kembali ke penulis yang muncul lagi tadi. Repositori twitter/the-algorithm (pembaruan September 2025) memberi gambaran konkret tentang cara permintaan semacam itu melemah. Di sana, SeeFewer adalah nama kode untuk satu jenis umpan balik yang meminta lebih sedikit rekomendasi dari sumber tertentu. Nama itu belum tentu tampil persis di menu aplikasi.
+
+Komponen bernama `FeedbackFatigueScorer` ([berkas kodenya](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/scorer/FeedbackFatigueScorer.scala)) hanya menghitung entri SeeFewer yang berusia di bawah 140 hari. Untuk satu faktor yang cocok, pengali skornya dimulai dari 0,2 lalu naik 0,2 setiap 35 hari.
+
+| Usia entri SeeFewer | Pengali satu faktor |
+| --- | --- |
+| Hari 0 | 0,2 |
+| Hari 35 | 0,4 |
+| Hari 70 | 0,6 |
+| Hari 105 | 0,8 |
+| Hari 140 | 1,0, netral karena entri keluar dari jendela hitungan |
+
+Jika $t$ adalah usia entri dalam hari, rumus di kode itu berupa garis lurus yang melewati kelima titik di tabel:
+
+<div>
+
+$$
+m(t)=0{,}2+0{,}8\times\frac{t}{140}\quad\text{untuk } 0\leq t<140
+$$
+
+</div>
+
+Mulai hari ke-140, entri itu tidak lagi dihitung, sehingga pengalinya menjadi 1 dan tidak ada potongan sama sekali.
+
+Ada syarat yang menyertainya. Jenis umpan baliknya harus SeeFewer, dan entrinya harus cocok dengan kandidat post. Kode juga memisahkan faktor untuk penulis asli, liker, follower, dan akun yang me-repost. Faktor-faktor itu saling dikalikan, tetapi masing-masing hanya berlaku bila syaratnya sendiri terpenuhi: faktor liker hanya jika semua liker yang ditampilkan terkena potongan, faktor follower hanya jika semua follower yang ditampilkan terkena potongan dan tidak ada liker, dan faktor reposter hanya untuk repost.
+
+Angka 0,2 juga mudah disalahpahami. Pada skor dasar yang positif, $m(t)$ sebesar 0,2 mempertahankan 20% skor dari faktor tersebut. Itu bukan peluang 20% bagi post untuk muncul.
+
+### Penyaring Bukan Pengurang Skor
+
+Implementasi lama juga punya `FeedbackFatigueFilter`, yang hanya membaca SeeFewer dengan durasi bawaan 14 hari dan bisa diatur dari 0 sampai 100 hari. Penyaring menyingkirkan kandidat, sedangkan scorer hanya menurunkan skornya, jadi keduanya mekanisme berbeda dengan jam masing-masing. Tidak satu pun mengatur ulang riwayat minatmu. Ingat juga, semua ini menggambarkan jalur SeeFewer di kode tersebut, bukan cara kerja setiap tombol Not interested.
+
+Kalau X masih memakai mekanisme serupa, potongan skor itu menipis dari minggu ke minggu, sehingga wajar bila penulis tadi pelan-pelan kembali. Meski begitu, repositori lama tidak membuktikan bahwa sistem produksi hari ini bekerja persis seperti itu.
+
+### Repositori Baru Menyaring Lebih Dulu
+
+Repositori xai-org/x-algorithm memakai urutan yang berbeda. Akun yang kamu block dan mute, serta kata kunci yang kamu bisukan, disaring sebelum tahap penilaian, sehingga post semacam itu tidak ikut dinilai. Di tahap penilaian, prediksi bahwa kamu akan menekan not interested, mute, block, atau report diberi bobot negatif. Angka bobotnya sudah dibahas di bab 6.
+
+### Batas Jangka Panjang dengan Satu Akun
+
+Kalau kamu ingin menjaga jarak dari satu akun dalam waktu lama, mute atau unfollow lebih langsung daripada mengandalkan satu umpan balik lama. Untuk kata yang ramai sesaat, misalnya istilah dari satu peristiwa, durasi 24 jam, 7 hari, atau 30 hari membuat mute itu berakhir sendiri. Sesekali, buka juga daftar mute-mu, karena akun atau kata yang dulu mengganggu bisa saja kini menjadi sumber berguna yang ikut tertutup.
+
+## Kesimpulan Bab
+
+- Pilih kontrol menurut masalahnya: Not interested untuk satu rekomendasi, mute atau unfollow untuk akun, muted words untuk frasa, dan report hanya untuk pelanggaran.
+- Mute berlaku pada notifikasi dan Home timeline, dengan pengecualian yang perlu kamu kenali.
+- Di implementasi lama, pengali SeeFewer naik dari 0,2 ke 1,0 dalam 140 hari, sementara penyaringnya berdurasi bawaan 14 hari, dan keduanya tidak menghapus riwayat minat.
+- Repositori baru menyaring akun dan kata yang kamu bisukan sebelum penilaian, lalu memberi bobot negatif pada prediksi reaksi negatif.
+
+Mengenal tombol-tombol ini baru separuh jalan, dan separuh sisanya adalah benar-benar menata Lists, Following, dan daftar mute di akunmu sendiri.
+
+
+<!-- Chapter: 08_menata-ulang-pengaturan-akun -->
+
+## Menata Ulang Pengaturan Akun
+
+Cukup satu malam yang tenang dan secangkir teh untuk merapikan beberapa pengaturan kecil yang akan membuat minggu-minggu bacaanmu berikutnya lebih kalem. Kamu tidak perlu mengubah semuanya sekaligus. Bab-bab sebelumnya menjelaskan apa yang dicatat sistem dan bagaimana rekomendasi disusun. Sekarang saatnya memakai pemahaman itu untuk menata tujuh hal yang paling terasa di layarmu.
+
+Beberapa catatan sebelum mulai. Nama menu ditulis dalam bahasa Inggris supaya mudah dicocokkan dengan aplikasi. Letak dan nama menu bisa berbeda menurut perangkat, wilayah, dan versi aplikasi, jadi anggap jalur di bawah sebagai peta, bukan janji tampilan yang persis sama. Kalau sebuah opsi tidak ada, pakai alternatif yang disebutkan. Jangan tergoda aplikasi pihak ketiga yang meminta akses ke akunmu tanpa alasan yang jelas. Contoh nama List dan pilihan sumber di bab ini adalah saran, bukan aturan X.
+
+### 1. Satu List untuk Kebutuhan Utama
+
+Mulailah dari kebutuhan yang kamu tulis di bab pertama. Buka **Lists**, buat List baru, dan beri nama yang spesifik, misalnya *AI untuk kerja* atau *Keamanan digital*. Menurut [panduan Lists dari X](https://help.x.com/en/using-x/x-lists), nama List paling panjang 25 karakter dan tidak boleh diawali angka. Panduan yang sama menyebut List baru bersifat publik secara default. Kalau kamu tidak ingin kurasi ini terlihat orang lain, aktifkan tombol **Private** supaya List hanya terlihat olehmu.
+
+Isi List dengan campuran tiga jenis sumber: sumber primer, orang yang menjelaskan penerapan, dan penguji kritis yang rajin mencari celah. Periksa identitas, contoh tulisan, dan kebiasaan mereka menyertakan bukti. Hindari mengumpulkan akun yang hanya saling mengutip, karena sepuluh akun yang memantulkan satu klaim tetap hanya satu klaim. Terakhir, pin List itu agar muncul di samping tab For You dan Following, sehingga membukanya semudah membuka feed biasa.
+
+### 2. Merapikan Akun yang Kamu Ikuti
+
+Lihat akun yang paling sering memenuhi Following, lalu tanyakan apakah post mereka membantu tujuan bacamu. Mulailah dari yang paling jelas tidak cocok. Kalau akun itu memang sudah tidak relevan, unfollow. Kalau kamu ingin tetap mengikuti tetapi tidak mau membaca post-nya, mute bisa jadi jalan tengah. Dokumentasi X menyebut mute menyembunyikan post akun itu tanpa unfollow atau blokir, dan akun tersebut tidak diberi tahu. Kerjakan bertahap. Follow dan unfollow massal dalam satu malam hanya membuatmu lupa alasan di balik setiap keputusan.
+
+### 3. Menolak Rekomendasi yang Melenceng
+
+Saat For You menyodorkan post yang jauh dari kebutuhanmu, buka menu tiga titik pada post itu dan pilih **Not interested in this post**. Kalau masalahnya bukan satu post tetapi seluruh tema, pilih **Not interested in this Topic** bila opsi itu tersedia. Menurut dokumentasi X, sistem lalu merekomendasikan lebih sedikit konten sejenis. Kamu tidak perlu membuka semua balasan dulu untuk memastikan. Kalau post itu ternyata memuat konteks penting, periksa secukupnya, lalu kembali ke tujuan bacamu.
+
+### 4. Muted Words yang Spesifik
+
+Jalur yang didokumentasikan di [halaman advanced muting](https://help.x.com/en/using-x/advanced-x-mute-options) dimulai dari tab **Notifications**. Ketuk ikon roda gigi, pilih **Muted**, lalu **Muted words**. Tambahkan kata, frasa, atau hashtag, kemudian tentukan apakah pembisuan berlaku di **Home timeline**, **Notifications**, atau keduanya. Pilihan durasinya **Forever**, 24 jam, 7 hari, dan 30 hari.
+
+Mulailah dengan durasi sementara untuk gangguan yang kemungkinan cepat berlalu, misalnya perdebatan yang sedang ramai, lalu lihat hasilnya sebelum menambah daftar. Pilih kata dengan cermat. Membisukan kata *AI* padahal kamu butuh berita AI sama saja dengan menutup jendela yang ingin kamu pakai, jadi bisukan frasa gangguan yang lebih sempit. Ingat juga batasnya: teks di dalam gambar, istilah lain untuk hal yang sama, dan post yang tidak memuat kata itu tetap bisa lolos. Notifikasi seluler yang sengaja kamu aktifkan untuk post akun yang kamu ikuti juga menjadi pengecualian. Halaman pendekatan rekomendasi X menyebut muting berlaku untuk notifikasi dan Home timeline, jadi jangan berharap kata yang dibisukan hilang dari semua tempat, termasuk hasil pencarian.
+
+### 5. Menengok Topics dan Interests
+
+Kalau akunmu masih menampilkan Topics, periksa daftar yang kamu ikuti dan lepaskan yang tidak lagi sesuai. Ada satu hal yang sering terlewat. Menurut [halaman Topics dari X](https://help.x.com/en/using-x/follow-and-unfollow-topics), Topics yang kamu ikuti bersifat publik bagi siapa saja yang bisa melihat profil lengkapmu, atau hanya bagi pengikutmu bila post-mu dilindungi. Di bagian **Your X data**, kamu juga bisa menghapus centang pada **Interests from X** yang tidak cocok.
+
+Daftar minat itu adalah tebakan sistem. Mengoreksinya membantu menyampaikan preferensimu, tetapi tidak menghapus riwayat perilaku dan tidak menjamin For You langsung berubah. Kalau menu Topics tidak muncul di akunmu, jangan menunggu. Lanjutkan dengan List, follow yang selektif, pencarian, dan umpan balik rekomendasi.
+
+### 6. Mematikan Autoplay dan Pemicu Kembali
+
+Video yang langsung berputar adalah cara cepat menarik perhatian menjauh dari tujuan baca. Untuk aplikasi iOS dan Android, [panduan video X](https://help.x.com/en/using-x/x-videos) menjelaskan jalurnya: **Settings and privacy** > **Accessibility, display, and languages** > **Data usage** > **Video autoplay** > **Never**. Di web, pengaturannya bernama **Autoplay** dengan pilihan **On cellular or Wi-Fi** atau **Never**. Pengaturan web dan aplikasi berdiri sendiri, jadi ulangi di setiap perangkat yang kamu pakai.
+
+Sekalian, buka pengaturan Notifications dan pangkas notifikasi rekomendasi atau percakapan yang tidak kamu perlukan. Sisakan notifikasi hanya untuk sumber yang memang harus kamu pantau. Langkah ini mengurangi gangguan saat membaca, bukan bukti bahwa personalisasi berhenti bekerja.
+
+### 7. Mencari dengan Pertanyaan
+
+Bandingkan dua pencarian: kata *AI* saja, dan pertanyaan seperti *bagaimana alat ini memakai data pelanggan?* Yang pertama mengundang apa pun yang sedang ramai, yang kedua mengarahkanmu ke jawaban. Persempit lagi dengan nama produk, frasa yang persis, akun sumber, bahasa, dan rentang tanggal lewat pencarian lanjutan, yang membutuhkan sesi login di x.com. Tab **Latest** membantumu menelusuri urutan terbaru, sedangkan hasil yang diprioritaskan sistem cocok untuk penemuan awal. Keduanya tetap bisa memuat promosi atau klaim yang belum benar.
+
+Untuk informasi teknologi, jalur berikut bisa kamu pakai:
+
+1. Cari nama produk atau peristiwa ditambah frasa yang kamu butuhkan, misalnya *privacy policy* atau *release notes*.
+2. Temukan post yang menautkan dokumentasi aslinya.
+3. Buka dokumen itu, lalu cek tanggal dan batas klaimnya.
+4. Cari penjelasan independen atau pengalaman pemakaian yang menyebut metodenya.
+5. Catat secara terpisah mana fakta, mana klaim penulis, dan mana pertanyaan yang belum terjawab.
+
+Utas yang enak dibaca boleh menjadi pintu masuk. Namun untuk keputusan yang menyangkut biaya, keamanan, atau pekerjaan, teruskan langkahmu sampai ke sumber primer.
+
+## Poin Kunci
+
+- List privat yang di-pin, berisi sumber primer, penjelas, dan penguji kritis, memberimu jalur baca hasil kurasimu sendiri.
+- Rapikan following secara bertahap, pakai Not interested untuk rekomendasi yang melenceng, dan bisukan frasa sempit dengan durasi sementara lebih dulu.
+- Topics yang kamu ikuti terlihat oleh orang lain, dan koreksi Interests hanya menyampaikan preferensi, bukan menghapus riwayat.
+- Mematikan autoplay dan memangkas notifikasi mengurangi gangguan, tetapi tidak menghentikan personalisasi.
+
+Pengaturan semalam itu hanyalah fondasi, sebab sesudahnya yang tersisa adalah pilihan kecil yang kamu ambil dari detik ke detik setiap kali sebuah post muncul di layar.
+
+
+<!-- Chapter: 09_memilih-tindakan-saat-membaca -->
+
+## Memilih Tindakan di Tengah Sesi Baca
+
+Di tengah scroll, kamu bertemu post yang separuh isinya berguna dan separuh lagi jelas dibuat untuk memancing keributan di kolom balasan. Ada tautan riset yang ingin kamu baca, tetapi kalimat pembukanya menyindir satu kelompok dan balasannya sudah memanas. Jempolmu berhenti. Kamu menekan like karena tautannya bagus, menyimpannya untuk nanti, membalas untuk meluruskan sindiran itu, atau lewat saja? Keraguan kecil seperti ini bisa muncul berkali-kali dalam satu sesi, dan jawabannya jarang sama untuk setiap situasi.
+
+Bab ini merangkum enam situasi yang paling sering muncul saat membaca. Untuk masing-masing ada tindakan yang masuk akal beserta alasannya, dan catatan singkat tentang hubungannya dengan sistem rekomendasi. Cari baris yang paling mirip dengan pengalamanmu.
+
+### Enam Situasi dan Pilihannya
+
+| Situasi | Tindakan yang masuk akal | Hubungannya dengan sistem |
+|---|---|---|
+| Ada tulisan yang berguna | Baca, buka sumbernya, like kalau kamu memang menghargainya, bookmark kalau akan dipakai lagi, follow setelah menilai beberapa post penulisnya | Like, bookmark, klik, dan follow tercatat sebagai sinyal atau keluaran yang diprediksi, tetapi pengaruhnya pada feed-mu tidak bisa dihitung dari kode publik |
+| Perlu disimpan, tetapi belum diverifikasi | Simpan tautannya di catatan pribadi; bookmark boleh dipakai, asal kamu tahu ia tidak bebas sinyal | Klik pertama untuk membuka post tetap bisa tercatat |
+| Terpancing debat | Lewati kalau tidak ada yang perlu dibalas, pakai Not interested pada rekomendasi yang tidak kamu inginkan, dan kalau harus meluruskan informasi, lakukan dengan sadar | Reply, klik ke percakapan, dan lama kamu berhenti membaca (dwell) bisa menjadi masukan, tetapi kode tidak membuktikan bahwa setiap komentar marah menambah topik yang sama |
+| Satu akun terus mengganggu | Mute untuk mengurangi post-nya, unfollow kalau akun itu tidak lagi termasuk sumbermu, block untuk membatasi interaksi (cek kebijakan terbarunya) | Mute dan unfollow adalah dua hal berbeda; aturan visibilitas menyaring akun yang kamu mute |
+| Satu tema terus muncul | Pilih Not interested pada rekomendasinya, lalu pakai muted words untuk frasa yang spesifik dan pastikan opsi Home timeline dipilih saat menambahkannya | Umpan balik minat dan pencocokan kata adalah dua mekanisme yang berbeda |
+| Ingin membaca tanpa penemuan acak | Buka List yang sudah kamu kurasi, Following untuk akun yang kamu ikuti, atau search untuk pertanyaan yang spesifik | Urutan kronologis tidak menjamin kebenaran, tidak menghapus iklan, dan aktivitasmu tetap tercatat |
+
+Nama dan letak menu bisa berbeda menurut perangkat, wilayah, dan versi aplikasi, jadi anggap nama tombol di tabel sebagai petunjuk arah, bukan alamat yang pasti.
+
+### Batas yang Perlu Kamu Pegang
+
+Tabel di atas adalah alat bantu memutuskan, bukan simulator feed dan bukan taksiran bobot. Ia tidak bisa memberitahumu bahwa satu like akan menambah sekian post serupa besok pagi. Repositori lama twitter/the-algorithm (pembaruan September 2025) maupun repositori baru [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) bukan salinan lengkap sistem produksi: konfigurasi per permintaan, model yang sudah dilatih, data pengguna, dan banyak eksperimen yang sedang berjalan berada di luar jangkauan pembaca. README repositori baru pun mengingatkan bahwa bobot di kode mengalikan peluang suatu tindakan yang diprediksi model, bukan poin yang ditambahkan setiap kali kamu menekan tombol.
+
+Artinya, tidak ada orang yang bisa menghitung dampak satu tindakanmu terhadap feed-mu dari kode publik. Yang bisa kamu lakukan adalah memilih tindakan yang sesuai dengan niatmu saat itu, lalu menilai hasilnya dari bacaanmu sendiri.
+
+### Kabar AI untuk Pekerjaan
+
+Misalkan pekerjaanmu menuntut kamu mengikuti perkembangan AI. Mulailah dari sebuah List yang berisi tiga jenis sumber: dokumentasi produk, penjelasan penerapan, dan pengujian kritis. Saat ada kabar fitur baru, buka sumber aslinya, jangan berhenti di tangkapan layar atau ringkasan orang lain. Catat tiga hal: apakah fitur itu sudah tersedia untuk akunmu, bagaimana biaya atau batasannya, dan apa yang bisa langsung kamu coba.
+
+Soal tombol, pisahkan fungsinya. Like kalau kamu memang mengapresiasi tulisannya. Bookmark kalau kamu akan memakainya lagi. Follow penulisnya setelah beberapa post-nya terbukti bagus. Reply ketika kamu perlu bertanya. Share ketika kamu sudah tahu siapa yang membutuhkan informasi itu. Semua tindakan itu tidak harus terjadi pada satu post yang sama.
+
+Lalu ada sisi sebaliknya. Saat For You menyodorkan debat merek yang tidak membantu pekerjaanmu, pilih Not interested. Kalau penulis yang sama terus menjadi sumber gangguan, pertimbangkan mute. Satu hal yang sebaiknya dihindari adalah membisukan semua kritik terhadap alat yang kamu pakai. Kritik yang disertai bukti justru membantumu melihat di mana batas alat itu.
+
+### Kalau Akunmu Sudah Bercampur
+
+Akun yang sudah lama dipakai biasanya berisi campuran minat: pekerjaan, hobi, teman, dan sisa topik yang dulu sempat menarik. Kamu tidak perlu menghapus semua follow atau membuat akun baru hanya untuk memulai. Cukup mulai dari satu List untuk sesi belajar dan satu aturan berhenti, misalnya menutup aplikasi setelah List itu selesai dibaca. Setelah itu, rapikan daftar follow sedikit demi sedikit.
+
+Akun terpisah memang bisa membantu memisahkan kebiasaan, misalnya satu untuk kerja dan satu untuk hiburan. Namun akun kedua menambah pekerjaan pengelolaan dan tidak menjamin isolasi yang sempurna. Karena itu, menata sumber di akun yang sudah ada biasanya lebih mudah dicoba lebih dulu.
+
+## Recap
+
+Setiap tindakan saat membaca punya fungsi sendiri: like untuk apresiasi, bookmark untuk dipakai ulang, follow untuk sumber yang sudah teruji, serta mute dan Not interested untuk dua jenis gangguan yang berbeda. Panduan enam situasi membantumu memilih, tetapi tidak menghitung dampak apa pun pada feed-mu, karena kode publik memang tidak memungkinkan perhitungan itu. Untuk kebutuhan kerja, List yang terkurasi dan kebiasaan membuka sumber asli lebih berguna daripada menekan semua tombol pada satu post. Akun yang sudah bercampur cukup dirapikan bertahap, dimulai dari satu List dan satu aturan berhenti.
+
+Setelah semua pilihan ini kamu jalankan beberapa hari, bagaimana kamu tahu bahwa bacaanmu benar-benar membaik, bukan sekadar terasa lebih tertata?
+
+
+<!-- Chapter: 10_evaluasi-satu-minggu -->
+
+## Evaluasi Satu Minggu
+
+Anggap tujuh hari ke depan sebagai percobaan kecil atas kebiasaan bacamu sendiri, lengkap dengan satu pengukuran di awal dan satu lagi di akhir. Kamu adalah peneliti sekaligus subjeknya. Hipotesisnya sederhana: setelah sumber, jalur baca, dan cara berinteraksi ditata seperti di bab-bab sebelumnya, porsi bacaan yang benar-benar membantu kebutuhanmu akan naik, dan kamu lebih mudah berhenti. Percobaan ini tidak butuh aplikasi khusus, cukup catatan, sedikit disiplin, dan kesediaan menerima hasil yang mungkin tidak sesuai harapan.
+
+Satu minggu di sini adalah periode awal, bukan batas waktu. Kalau tujuh hari terasa terlalu singkat untuk melihat pola, perpanjang saja. Rencana ini mencatat perubahan pengalamanmu, bukan memberi tenggat kepada sistem rekomendasi untuk menyesuaikan diri. Angka tujuh hari dan ukuran sampel di bawah adalah pilihan praktis untuk latihan, bukan nilai yang tertulis di kode algoritma.
+
+### Jadwal Tujuh Hari
+
+Bagi minggu itu menjadi lima tahap. Setiap tahap punya pekerjaan dan satu pertanyaan yang kamu jawab sebelum lanjut.
+
+| Waktu | Yang kamu kerjakan | Yang kamu periksa |
+| --- | --- | --- |
+| Hari pertama | Tulis kebutuhan bacaan, ambil sampel feed pertama, buat List, periksa pengaturan autoplay | Seperti apa titik awal bacaanmu, relevan atau didominasi satu kategori saja? |
+| Hari kedua dan ketiga | Baca lewat List, cari sumber primer, rapikan akun yang paling jelas melenceng | Apakah sumber pilihanmu sungguh membantu? |
+| Hari keempat dan kelima | Beri umpan balik pada rekomendasi yang tidak cocok, pakai mute yang spesifik bila perlu | Gangguan paling sering datang dari akun, tema, kata, iklan, atau notifikasi? |
+| Hari keenam | Buka lagi catatan dan bookmark | Mana yang dibaca atau dipakai, mana yang cuma ditimbun? |
+| Hari ketujuh | Ambil sampel dengan cara yang sama persis, lalu pilih satu perubahan berikutnya | Apakah bacaan lebih berguna, dan apakah kamu lebih gampang berhenti? |
+
+Sampel diambil dua kali, di hari pertama dan hari ketujuh. Itulah pengukuran sebelum dan sesudah dalam percobaanmu.
+
+### Cara Mengambil Sampel
+
+Pengukuran yang baik harus bisa diulang. Misalnya, ambil 20 post organik pertama di For You dalam satu sesi. Organik berarti iklan dilewati, begitu juga modul yang menyarankan akun untuk diikuti. Satu post dihitung satu unit, dan kalau kamu membuka sebuah percakapan, balasan di dalamnya tidak dihitung sebagai unit tambahan. Untuk setiap post, catat asalnya: dari akun yang kamu ikuti, atau direkomendasikan dari luar jaringan. Catat juga tanggal, jam, dan tab yang kamu periksa supaya sampel akhir bisa diambil dalam kondisi yang mirip.
+
+Di hari ketujuh, pakai jumlah post yang sama agar perbandingannya adil. Kalau sesi akhirmu ternyata hanya sempat memeriksa 17 post, tidak masalah, asalkan kamu menyimpan penyebut yang sebenarnya dan tidak memaksakan angka 20. Angka 20 sendiri hanya ukuran sampel yang praktis untuk template, bukan parameter algoritma.
+
+### Tiga Kelompok dan Satu Proporsi
+
+Setiap post masuk ke tepat satu dari tiga kelompok berikut.
+
+- **Berguna**, yaitu post yang membantu pertanyaan atau kebutuhan yang kamu tulis di hari pertama.
+- **Sesuai minat tapi belum berguna**, yaitu post yang menarik bagimu, tetapi tidak menolong kebutuhanmu saat ini.
+- **Di luar kebutuhan dan minat**, yaitu gangguan atau bacaan yang memang tidak kamu cari.
+
+Jumlah ketiga kelompok harus sama dengan total post yang kamu periksa. Catatan asal post adalah hitungan terpisah, jadi jangan dijumlahkan dengan kelompok relevansi. Satu post bisa saja berguna sekaligus datang dari luar jaringan, dan keduanya dicatat di kolom yang berbeda. Dari tiga kelompok itu, hitung satu angka ringkas.
+
+<div>
+
+$$
+\text{Proporsi berguna}=\frac{\text{post berguna}}{\text{post organik yang diperiksa}}\times 100\text{\%}
+$$
+
+</div>
+
+Contohnya, kalau 9 dari 20 post yang kamu periksa masuk kelompok berguna, proporsi bergunamu 45%. Angka ini dipakai untuk membandingkan pengalamanmu sendiri dari waktu ke waktu, bukan untuk diadu dengan feed orang lain.
+
+### Batas Sebuah Angka
+
+Dua puluh post adalah sampel kecil, jadi hasilnya mudah bergeser. Waktu akses, peristiwa besar yang sedang ramai, dan sumber yang kebetulan sedang aktif bisa mengubah isi feed tanpa ada kaitannya dengan pengaturanmu. Karena itu, catat juga peristiwa besar yang terjadi pada hari pengambilan sampel. Kalau proporsi berguna naik setelah kamu mengubah pengaturan, itu belum membuktikan satu tombol tertentu menjadi penyebabnya. Dalam seminggu kamu mengubah banyak hal sekaligus, sementara isi feed juga dipengaruhi hal-hal di luar kendalimu.
+
+Jadi jangan jadikan feed satu-satunya alat ukur. Tambahkan ukuran yang tidak bergantung padanya: berapa catatan yang benar-benar kamu pahami, berapa sumber yang berhasil kamu verifikasi, dan keputusan apa yang terbantu oleh bacaanmu minggu ini. Pertanyaan apakah kamu berhasil berhenti sesuai batas sesi juga layak masuk catatan.
+
+Kalau porsi post teknologi naik tetapi kamu masih terseret scroll tanpa henti, masalahnya ada pada rutinitas baca. Perbaiki rutinitas itu, bukan malah menambah engagement dengan harapan feed makin pas.
+
+### Kalau Hasilnya Belum Membaik
+
+Percobaan yang jujur kadang memberi hasil yang mengecewakan. Ada enam pola yang sering muncul, masing-masing dengan langkah yang bisa kamu coba.
+
+- **Following masih berisik.** Periksa akun yang kamu ikuti dan repost yang mereka bagikan. Ini persoalan sumber, bukan sekadar rekomendasi dari luar jaringan.
+- **For You kembali menampilkan topik lama.** Lihat interaksi terbarumu, hubunganmu dengan akun terkait, dan apakah kamu masih terus membuka konten semacam itu. Beri umpan balik yang sesuai tanpa buru-buru menyimpulkan algoritmanya sudah "reset".
+- **Muted words ikut menutup informasi berguna.** Buat frasanya lebih spesifik atau persingkat durasinya.
+- **Trends terasa tidak nyambung.** Bedakan For You di Explore dengan Trending yang berbasis lokasi. Untuk tujuan yang lebih pasti, pakai List atau Search.
+- **Fitur yang dicari tidak tersedia.** Gunakan jalur alternatif dan catat perubahan antarmukanya. Menu bisa berbeda antarperangkat, wilayah, dan versi aplikasi, jadi jangan habiskan sesi belajar untuk berburu menu yang mungkin sudah pindah.
+- **Feed lebih menarik, tetapi kamu sulit berhenti.** Kurangi waktu di For You, matikan pemicu yang tidak perlu, dan tetapkan pertanyaan sebelum membuka aplikasi.
+
+## Gagasan Utama
+
+- Satu minggu adalah periode awal yang bisa diperpanjang, bukan tenggat bagi sistem rekomendasi.
+- Sampel yang sama di awal dan akhir, dengan aturan hitung yang konsisten dan penyebut yang jujur, membuat perbandingan bisa dipercaya.
+- Tiga kelompok relevansi selalu berjumlah sama dengan total post yang diperiksa, sedangkan asal post dicatat terpisah.
+- Kenaikan proporsi berguna tidak membuktikan satu pengaturan sebagai penyebab, jadi lengkapi dengan ukuran di luar feed.
+
+Angka-angka ini hanya alat bantu, sebab yang sebenarnya ingin kamu pertahankan setelah minggu percobaan berakhir adalah kebiasaan membaca yang kamu pilih dengan sadar.
+
+
+<!-- Chapter: 11_rencana-bacaan-pribadi -->
+
+## Rencana Bacaan Pribadi
+
+Banyak orang merasa lebih tenang membuka platform yang didominasi tulisan, seolah membaca huruf otomatis lebih menyehatkan daripada menonton video. Perasaan itu wajar, tetapi belum tentu tepat. X memang kaya teks, namun di dalamnya juga ada video, gambar, notifikasi, dan aliran rekomendasi yang terus berlanjut. Format teks saja tidak cukup untuk menyimpulkan bahwa sebuah platform memicu respons dopamin yang lebih rendah. Klaim seperti itu butuh penelitian tentang respons pengguna, bukan sekadar penjelasan cara kerja mesin rekomendasi, dan buku ini tidak membuat klaim semacam itu. Yang bisa kamu kendalikan adalah kebiasaanmu sendiri, dan bab ini merangkum semua yang sudah kamu pelajari menjadi satu rencana yang siap disalin.
+
+### Menilai Kebiasaan, Bukan Format
+
+Daripada bertanya apakah X sehat, ajukan tiga pertanyaan yang lebih bisa dijawab. Apakah kamu memahami apa yang baru dibaca? Apakah kamu memeriksa sumbernya? Apakah kamu bisa berhenti sesuai rencana? Jumlah post yang sudah lewat di layar tidak menjawab satu pun dari ketiganya.
+
+Teks pendek paling berguna kalau diperlakukan sebagai pintu, bukan ruangan. Sebuah post bisa mengantarmu ke artikel atau dokumentasi yang lebih lengkap. Setelah membacanya, tulis ulang satu gagasan dengan kalimatmu sendiri. Kalau kamu bisa menjelaskannya tanpa melihat sumber, bacaan tadi benar-benar masuk.
+
+### Tahu Kapan Berhenti
+
+Aliran rekomendasi terus berlanjut, jadi menunggu feed kehabisan hal menarik bukan cara berhenti yang bisa diandalkan. Sesi belajar butuh garis akhir yang kamu tentukan sebelum mulai. Pakai tiga tanda ini, mana pun yang datang lebih dulu:
+
+1. Pertanyaan awalmu sudah terjawab.
+2. Sumber utama sudah kamu periksa.
+3. Batas waktu yang kamu tetapkan sudah tercapai.
+
+Begitu salah satunya terpenuhi, tutup aplikasinya. Sisa post yang belum terbaca tidak hilang dari dunia, hanya belum kamu butuhkan hari ini. Tulis tanda yang kamu pilih di baris batas sesi pada lembar rencana, supaya keputusan berhenti sudah dibuat sebelum godaan menggulir datang.
+
+### Sumber yang Menguji Pandanganmu
+
+Feed yang relevan belum tentu mendukung belajar. Kalau semua yang muncul hanya mengulang keyakinan lamamu, kamu merasa makin paham padahal tidak ada yang sedang diuji. Sisakan tempat untuk akun yang menantang pandanganmu dengan bukti, bukan dengan suara paling keras. Di lembar rencana berikut, peran ini punya baris sendiri, yaitu penguji kritis. Akun yang hanya membuatmu kesal tanpa membawa bukti tidak masuk baris itu; tempatnya di baris akun yang mengganggu.
+
+### Lembar Rencana untuk Disalin
+
+Salin bagian ini ke catatanmu, ganti semua isian dalam kurung siku, dan hapus baris yang tidak relevan. Tabel evaluasi awal dan akhir sengaja tidak diulang karena sudah ada di Bab 10, jadi pakai tabel itu untuk mengukur apakah rencana ini membantu.
+
+#### Kebutuhan Saya
+
+**Saya memakai X untuk** [pertanyaan atau kebutuhan spesifik]
+
+**Informasi ini membantu saya dalam** [pekerjaan, keputusan, atau keterampilan]
+
+**Selesai membaca berarti** [hasil yang bisa diperiksa]
+
+**Batas sesi saya** [durasi atau kondisi berhenti]
+
+#### Sumber dan Jalur Baca
+
+**List utama** [nama List]
+
+**Jalur pembuka sesi** [List, Following, atau Search]
+
+**Saya memakai For You saat** [tujuan penemuan, bukan sekadar kebiasaan]
+
+| Akun atau sumber | Mengapa layak dibaca | Tindakan | Tanggal tinjau ulang |
+| --- | --- | --- | --- |
+| [sumber primer] | [bukti atau kebutuhan] | [masuk List atau follow] | [tanggal] |
+| [penjelas penerapan] | [bukti atau kebutuhan] | [masuk List atau follow] | [tanggal] |
+| [penguji kritis] | [bukti yang dibawanya] | [masuk List atau follow] | [tanggal] |
+| [akun yang mengganggu] | [alasan dibatasi] | [mute atau unfollow] | [tanggal] |
+
+#### Aturan Interaksi Saya
+
+- [ ] Saya memberi like karena isinya layak diapresiasi, bukan untuk mengejar kuota.
+- [ ] Saya memakai bookmark untuk bacaan yang akan dipakai, lengkap dengan status pemeriksaannya.
+- [ ] Saya menulis reply ketika punya pertanyaan atau kontribusi yang jelas.
+- [ ] Saya memeriksa sumber sebelum repost, quote, atau share.
+- [ ] Saat terganggu, saya memilih umpan balik atau mute yang sesuai, bukan debat tanpa tujuan.
+- [ ] Saya tidak menebar like, reply, bookmark, atau report demi mengubah feed.
+
+#### Batas Akun, Kata, dan Notifikasi
+
+| Gangguan | Kontrol | Cakupan atau durasi | Tinjau ulang |
+| --- | --- | --- | --- |
+| [akun] | [mute atau unfollow] | [cakupan] | [tanggal] |
+| [frasa atau hashtag] | [muted words] | [Home atau notifikasi, durasi] | [tanggal] |
+| [percakapan] | [mute conversation] | [notifikasi] | [tanggal] |
+
+Catat juga risikonya, karena kata yang dibisukan terlalu luas bisa ikut menutup bacaan yang berguna. Letak menu bisa berbeda menurut perangkat, wilayah, dan versi aplikasi.
+
+- [ ] Saya memeriksa autoplay di perangkat yang dipakai membaca.
+- [ ] Saya mengurangi notifikasi rekomendasi yang tidak diperlukan.
+- [ ] Saya mengecek Topics dan Interests bila fiturnya tersedia, dan ingat bahwa Topics yang saya ikuti terlihat publik.
+- [ ] Saya memeriksa apakah List utama perlu dibuat Private.
+
+#### Catatan Bacaan yang Bisa Dipakai
+
+**Tautan** [sumber]
+
+**Tanggal informasi** [tanggal]
+
+**Klaim utama** [apa yang dikatakan]
+
+**Bukti atau sumber primer** [apa yang mendukung]
+
+**Yang belum pasti** [pertanyaan terbuka]
+
+**Kegunaannya untuk saya** [keputusan atau tindakan]
+
+### Daftar Periksa Penerapan
+
+- [ ] Saya menulis kebutuhan sebelum mengubah pengaturan.
+- [ ] Saya mengambil sampel awal dengan penyebut yang jelas.
+- [ ] Saya membuat satu List untuk kebutuhan utama dan memeriksa visibilitasnya.
+- [ ] Saya menilai sumber primer, penjelas, dan penguji kritis sebelum memasukkannya.
+- [ ] Saya merapikan akun yang paling jelas tidak relevan.
+- [ ] Saya memakai Not interested untuk rekomendasi yang melenceng, bila tersedia.
+- [ ] Saya memakai mute akun atau kata sesuai masalahnya dan mencatat tanggal tinjau ulang.
+- [ ] Saya mengurangi autoplay dan notifikasi yang mengganggu sesi.
+- [ ] Saya membaca satu sumber lengkap dan menulis catatan dengan bahasa sendiri.
+- [ ] Saya membandingkan hasil dengan cara sampel yang sama, lalu memilih satu perbaikan berikutnya.
+
+## Penutup
+
+Kode rekomendasi X terus diperbarui, jadi sebagian detail teknis di buku ini suatu hari akan tertinggal. Yang tidak ikut usang adalah kebiasaan yang kamu bangun: tahu apa yang dicari, memilih jalur baca dengan sengaja, memeriksa sumber, dan berhenti saat tujuan tercapai. Mesin rekomendasi boleh menebak minatmu, tetapi hanya kamu yang bisa menilai apakah sebuah bacaan benar-benar berguna. Mulailah dari satu List, satu catatan, dan satu sesi yang selesai tepat waktu, lalu biarkan rencana ini tumbuh bersamamu.
+
+
+<!-- Chapter: 12_referensi -->
+
+## Referensi
+
+Halaman ini mengumpulkan kode publik sistem rekomendasi X dan halaman resmi X Help yang menjadi dasar penjelasan di seluruh bab buku ini. Setiap entri menautkan langsung ke berkas atau halaman yang dibaca, jadi kamu bisa memeriksa ulang klaim mana pun dari sumber aslinya.
+
+### Repositori twitter/the-algorithm
+
+Ini implementasi lama. Tautan berkas mengarah ke cabang `main`, yang per 12 Oktober 2026 terakhir diperbarui pada September 2025.
+
+- [Repositori twitter/the-algorithm di GitHub](https://github.com/twitter/the-algorithm). Kode rekomendasi yang pertama kali dipublikasikan 31 Maret 2023, masih daring dan tidak diarsipkan, dengan pembaruan terakhir 3 September 2025.
+- [Penjelasan layanan Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md). README yang menguraikan produk For You, Following, dan Lists, tahap pengumpulan kandidat sampai penilaian, serta heuristik seperti keragaman penulis dan *feedback fatigue*.
+- [Tabel sinyal retrieval `RETREIVAL_SIGNALS.md`](https://github.com/twitter/the-algorithm/blob/main/RETREIVAL_SIGNALS.md). Tabel 18 baris yang memetakan aksi seperti like, follow, bookmark, mute, dan report ke komponen yang memakainya, ditambahkan 28 April 2023. Ejaan nama berkasnya memang demikian di repositori.
+- [Penjelasan User Signal Service](https://github.com/twitter/the-algorithm/blob/main/user-signal-service/README.md). README tentang sinyal eksplisit (favorite, retweet, reply) dan sinyal implisit (klik tweet, tontonan video, kunjungan profil).
+- [Penjelasan Unified User Actions](https://github.com/twitter/the-algorithm/blob/main/unified_user_actions/README.md). README tentang aliran aksi pengguna yang terpusat dan berjalan secara real-time di atas Kafka.
+- [Penjelasan SimClusters](https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/simclusters_v2/README.md). README tentang matriks KnownFor dan InterestedIn yang memetakan akun ke sekitar 145 ribu komunitas.
+- [Penjelasan Real Graph (`interaction_graph`)](https://github.com/twitter/the-algorithm/blob/main/src/scala/com/twitter/interaction_graph/README.md). README tentang pengklasifikasi yang memprediksi apakah seorang pengguna akan berinteraksi dengan pengguna lain.
+- [Daftar keluaran prediksi `PredictedScoreFeature.scala`](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/model/PredictedScoreFeature.scala). Berkas yang memuat 15 jenis keluaran prediksi model pada salinan September 2025.
+- [Penggabungan skor `RerankerUtil.scala`](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/util/RerankerUtil.scala). Berkas yang menggabungkan prediksi dengan bobot, termasuk aturan ambang untuk prediksi negatif.
+- [Parameter bobot `HomeGlobalParams.scala`](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/param/HomeGlobalParams.scala). Berkas berisi sekitar 30 parameter bobot dengan nilai bawaan 0,0 yang ditimpa oleh konfigurasi permintaan.
+- [Pengurang skor `FeedbackFatigueScorer.scala`](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/scorer/FeedbackFatigueScorer.scala). Berkas yang menurunkan skor setelah umpan balik SeeFewer dan memulihkannya bertahap selama 140 hari.
+- [Tulisan blog engineering "Twitter''s Recommendation Algorithm"](https://web.archive.org/web/20260310113313/https://blog.x.com/engineering/en_us/topics/open-source/2023/twitter-recommendation-algorithm). Tulisan 31 Maret 2023 yang mengumumkan pembukaan kode. Alamat aslinya di blog.x.com sudah tidak tersedia, jadi tautan ini mengarah ke salinan di Internet Archive.
+
+### Repositori xai-org/x-algorithm
+
+- [Repositori xai-org/x-algorithm beserta README-nya](https://github.com/xai-org/x-algorithm). Kode sistem rekomendasi For You yang dibuat 19 Januari 2026, terutama ditulis dalam Rust dan Python, berlisensi Apache-2.0. README yang dibaca memuat catatan pembaruan hingga 18 September 2026.
+- [Bobot peringkat `param.rs`](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/params/param.rs). Nilai bawaan bobot tiap aksi yang disalin dari konfigurasi produksi, terakhir disinkronkan 8 Oktober 2026 dan bisa berubah sewaktu-waktu.
+- [Penjelasan model Phoenix](https://github.com/xai-org/x-algorithm/blob/main/phoenix/README.md). README tentang retrieval dua menara dan model ranking yang membaca sekitar seribu aktivitas terbarumu.
+- [Pengumuman akun @Engineering](https://x.com/Engineering/status/2013471689087086804). Post 20 Januari 2026 yang memperkenalkan repositori baru dan menyebut arsitektur transformer yang sama dengan model Grok milik xAI.
+
+### Dokumentasi resmi X
+
+Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Oktober 2026.
+
+- [Timeline For You dan Following](https://help.x.com/en/using-x/x-timeline). Dua tab di Home dan isi tab Following.
+- [Pendekatan X terhadap rekomendasi](https://help.x.com/en/rules-and-policies/recommendations). Pilihan "Not interested" dan cakupan mute pada notifikasi serta timeline Home.
+- [Panduan Lists](https://help.x.com/en/using-x/x-lists). List publik secara bawaan, opsi Private, dan cara menyematkan List.
+- [Membisukan akun](https://help.x.com/en/using-x/x-mute). Efek mute tanpa unfollow atau blokir, beserta jalur pengaturannya.
+- [Opsi mute lanjutan](https://help.x.com/en/using-x/advanced-x-mute-options). Kata yang dibisukan, cakupannya, dan pilihan durasi.
+- [Mengikuti dan berhenti mengikuti Topics](https://help.x.com/en/using-x/follow-and-unfollow-topics). Topik yang kamu ikuti bersifat publik, plus pengaturan Interests from X.
+- [Rekomendasi di Explore](https://help.x.com/en/resources/recommender-systems/explore-recommendations). Tab For You dan Trending di Explore.
+- [Rekomendasi Trends](https://help.x.com/en/resources/recommender-systems/trends-recommendations). Faktor yang membentuk Trends dan dua jenis umpan baliknya.
+- [Video dan putar otomatis](https://help.x.com/en/using-x/x-videos). Cara mematikan autoplay di aplikasi dan di web.
+- [Pencarian lanjutan](https://help.x.com/en/using-x/x-advanced-search). Filter kata, akun, tempat, dan tanggal.
+- [Tanya jawab hasil pencarian teratas](https://help.x.com/en/using-x/top-search-results-faqs). Tab Top dan Latest pada hasil pencarian.
+
+### Cakupan pemeriksaan
+
+Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18025,8 +18891,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19131,8 +19997,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20195,8 +21061,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21102,8 +21968,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22287,8 +23153,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23472,8 +24338,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24522,8 +25388,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25692,8 +26558,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26622,8 +27488,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28328,8 +29194,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29442,8 +30308,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30660,8 +31526,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31855,8 +32721,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32936,8 +33802,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33908,8 +34774,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34568,8 +35434,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35861,8 +36727,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36781,8 +37647,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37942,8 +38808,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39195,8 +40061,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40560,8 +41426,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41175,8 +42041,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42382,8 +43248,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43428,8 +44294,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44055,8 +44921,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45326,8 +46192,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46189,8 +47055,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46981,8 +47847,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48033,8 +48899,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49463,8 +50329,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51105,8 +51971,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -52557,8 +53423,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53609,8 +54475,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54946,8 +55812,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56235,8 +57101,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57451,8 +58317,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58706,8 +59572,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60736,8 +61602,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61457,8 +62323,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62809,8 +63675,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63521,8 +64387,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64743,8 +65609,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-11T04:16:03.450Z',
-  '2026-10-11T04:16:03.450Z'
+  '2026-10-12T14:07:38.159Z',
+  '2026-10-12T14:07:38.159Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
