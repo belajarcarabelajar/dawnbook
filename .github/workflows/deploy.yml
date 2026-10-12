@@ -32,9 +32,9 @@ jobs:
           TURNSTILE_SITE_KEY: ${{ vars.TURNSTILE_SITE_KEY }}
         run: bun run build
       - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        # Same command as scripts/deploy-website.sh; cloudflare/pages-action no longer exists upstream.
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: dawnbook
-          directory: output
+          command: pages deploy output --project-name=dawnbook --branch=main --commit-dirty=true
