@@ -65,7 +65,8 @@ Compiled 2026-10-12 for plan `2026-10-12-dawnbook-mengatur-bacaan-x`. Every fact
 ### Ch03 Perjalanan sebuah post menuju For You (source lines 75-113) plus the 2026 section
 Old implementation (S2, S12):
 - Stages: candidate sourcing, feature hydration (Home Mixer README mentions about 6,000 features), scoring with a model, filters and heuristics, mixing with ads, who-to-follow, prompts. Some filters run before scoring; there are backup and conditional paths (for example a backup reverse-chron pipeline if scoring fails).
-- Candidate sources named in the README: Earlybird (search index, in-network), UTEG (User Tweet Entity Graph), Cr Mixer, FRS (Follow Recommendations Service). Tweet Mixer appears as a pipeline name. Do not list Tweet Mixer as a README-named candidate source; Cr Mixer is the README's name.
+- Candidate sources named in the Home Mixer README (S2): Earlybird (search index, in-network), UTEG (User Tweet Entity Graph), Cr Mixer, FRS (Follow Recommendations Service). In S2, Tweet Mixer appears only as a pipeline name; the root README (next bullet) is the source that describes tweet-mixer.
+- Root README (S1, https://github.com/twitter/the-algorithm, table of components): search-index (Earlybird) finds and ranks in-network posts, and "~50% of posts come from this candidate source"; tweet-mixer is the coordination layer for fetching out-of-network tweet candidates from underlying compute services; user-tweet-entity-graph (UTEG) maintains an in-memory user-to-post interaction graph and finds candidates by traversing it, built on the GraphJet framework; follow-recommendation-service (FRS) recommends accounts to follow and posts from those accounts. The restriction in the previous bullet applies to the Home Mixer README only; Tweet Mixer may be named when attributed to the root README.
 - Heuristics: author diversity, content balance, feedback fatigue, dedup and previously seen, visibility filtering (S2). Conversation modules belong to serving features.
 - Feed is not a sorted list of top scores (diversity adjustments, seen content, feedback, visibility filtering, ads).
 
@@ -160,7 +161,7 @@ Widget "pilihan-baca-x" situations (decision aid, not a feed simulator):
 ## 3. Corrections against the source document
 
 1. "Kode 2023" is wrong for weights, RerankerUtil, Phoenix, FeedbackFatigue: those are in the September 2025 update of the old repo.
-2. Candidate source named in the Home Mixer README is Cr Mixer; Tweet Mixer is only a pipeline name.
+2. The Home Mixer README (S2) names Cr Mixer as a candidate source, while the root README (S1) describes tweet-mixer as the coordination layer for out-of-network candidates. Both names are valid when attributed to the right README.
 3. RETREIVAL_SIGNALS.md has no profile-visit row.
 4. Following being chronological is from the old Home Mixer README, not X Help.
 5. Muted-words web path in the source is not the documented one; use S20's path.

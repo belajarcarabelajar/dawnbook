@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-12-dawnbook-mengatur-bacaan-x
-status: Verification
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -155,8 +155,29 @@ tasks:
     idempotency_key: "D1:pull-request"
     skip_if: "false"
     verify_exit: 0
-  - id: M1
+  - id: F1
     depends_on: [D1]
+    impacts: ["every agent reading GEMINI.md, CLAUDE.md, AGENTS.md (symlinks) - test -L CLAUDE.md && test -L AGENTS.md"]
+    files: { create: [], modify: [GEMINI.md], test: [] }
+    idempotency_key: "F1:gemini-sections-8-9"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F2
+    depends_on: [D1]
+    impacts: ["agents following MDBOOK_SYSTEM_RULES.md Phase A-E - bun run build"]
+    files: { create: [], modify: [MDBOOK_SYSTEM_RULES.md], test: [] }
+    idempotency_key: "F2:mdbook-rules-stale"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F3
+    depends_on: [D1]
+    impacts: ["chapter 03 text and AC-4 traceability - bun run build"]
+    files: { create: [], modify: [docs/code-plan/plans/research-memahami-algoritma-x-untuk-pembaca.md, books/memahami-algoritma-x-untuk-pembaca/src/content/03_perjalanan-post-menuju-for-you.md], test: [] }
+    idempotency_key: "F3:trace-uteg-tweet-mixer"
+    skip_if: "false"
+    verify_exit: 0
+  - id: M1
+    depends_on: [D1, F1, F2, F3]
     impacts: ["production site dawnbook (Cloudflare Pages), D1 books table, Google Search Console sitemap - post-deploy curl checks"]
     files: { create: [docs/code-plan/artifacts/2026-10-12-dawnbook-memahami-algoritma-x-merge-evidence.md], modify: [], test: [] }
     idempotency_key: "M1:merge-deploy"
@@ -173,7 +194,7 @@ tasks:
 
 # Plan: Dawnbook book "Memahami Algoritma X untuk Pembaca" (source: Notion export zip)
 
-Status: Verification
+Status: InProgress (follow-ups F1-F3)
 Session: dawnbook-mengatur-bacaan-x
 Branch: 2026-10-12-dawnbook-mengatur-bacaan-x/dawnbook-mengatur-bacaan-x
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-mengatur-bacaan-x
@@ -194,7 +215,10 @@ Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no co-author trailer (GEMI
 - [x] Gates (V2): check-heading-colons, check-repeated-headings, bun run build exit 0 with 0 errors. Evidence (second run, after the meta fixes): `bun run check:headings` exit 0 (0 violations, 57 books); `bun run scripts/check-repeated-headings.ts` exit 0 (0 repeated); `bun run build` exit 0, `Successfully built: memahami-algoritma-x-untuk-pembaca`, sitemap 788 URLs, `SEO Validation passed! All rules (R1-R7)`; 0 warnings besides the pre-existing optional `mdbook-dawnbook` preprocessor notice (57, one per book, environment); `bun run scripts/sync-template.ts` exit 0 with no diff outside the new book; build regenerated functions/lib/built-stats.ts (+12 chapters, Iwan Kurniawan 46 -> 47 books).
 - [x] Meta: every page meta description satisfies GEMINI.md section 8. Evidence: 13 built pages checked (index uses the book.toml description, 142 chars; chapters 137-154 chars, complete sentences, no space before punctuation, BAD_COUNT 0). The SERP extractor caps at 155 (scripts/inject-gating.ts:48 `formatSerpDescription(text, maxLen = 155)`), so ch01 and ch08 openers were trimmed from 158 to 151 and 153 chars; rebuilt output shows both as full sentences.
 - [x] Review (V3): independent reviewer audit of the diff, findings resolved. Evidence: reviewer verdict `correct` (0 P0, 0 P1, 2 P3); both P3 fixed (ch12 config-scope claim, em dash character in this plan) plus 3 non-blocking items (experiments nuance in ch03/ch05/ch09, ch03 48-hour attribution, ch04 heading); re-run after fixes: audit exit 0, check:headings exit 0, check-repeated-headings exit 0, `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca; report at docs/code-plan/artifacts/2026-10-12-dawnbook-memahami-algoritma-x-review-report.md.
-- [ ] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry
+- [x] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry. Evidence: commit 70a7c6c (author and committer Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer, 24 files staged by explicit path); `git push -u origin <branch>` new branch; `gh pr create --body-file` -> https://github.com/belajarcarabelajar/dawnbook/pull/140; `pr-registry pr dawnbook-mengatur-bacaan-x --number 140` recorded, state open; `gh pr view 140` state OPEN, mergeable MERGEABLE, +1556/-3.
+- [x] Follow-up F1: GEMINI.md sections 8 and 9 updated, symlinks intact. Evidence: `git diff --stat -- GEMINI.md` 3 insertions (155-char opener cap in section 8 citing inject-gating.ts:48; measured backslash-stripping rule in section 9); `readlink CLAUDE.md` and `readlink AGENTS.md` = GEMINI.md; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
+- [x] Follow-up F2: MDBOOK_SYSTEM_RULES.md stale statements corrected. Evidence: 9 lines changed, each marked (corrected 2026-10-12): Phase B gate now `mathjax-support = false`; Phase D gate only check-media-support.ts; Phase E steps match scripts/build.ts and scripts/builder/mdbook-runner.ts:40-45 (sync-template, check-media, .build-tmp; no latex check, no admin SPA, no _redirects); parent re-read build.ts imports to confirm; one pre-existing em dash on the touched line rewritten as U+2014; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
+- [x] Follow-up F3: UTEG and Tweet Mixer traced in research notes and chapter 3. Evidence: research notes cite the root README (S1) table (search index ~50% in-network, tweet-mixer out-of-network coordination layer, UTEG on GraphJet) and correction 2 now scopes the Cr Mixer rule to the Home Mixer README; chapter 3 names Tweet Mixer and the two facts, 7910 B; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
 - [ ] Merge and deploy (M1): owner-approved merge, deploy, D1 seed, GSC reindex with evidence
 - [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision
 
@@ -245,7 +269,13 @@ flowchart TD
     V1 --> V2["V2: gates"]
     V2 --> V3["V3: independent review"]
     V3 --> D1["D1: pull request"]
+    D1 --> F1["F1: GEMINI sections 8 and 9"]
+    D1 --> F2["F2: MDBOOK rules fix"]
+    D1 --> F3["F3: trace UTEG and Tweet Mixer"]
     D1 --> M1{{"M1: owner-gated merge and deploy"}}
+    F1 --> M1
+    F2 --> M1
+    F3 --> M1
     M1 --> S1["S1: debt sweep"]
 ```
 
@@ -357,6 +387,15 @@ Independent reviewer (staid) audits the diff and the facts against the research 
 ### Task D1
 Commit as Iwan Kurniawan without a co-author trailer, push the session branch, open the PR with `--body-file`, register the PR number.
 
+### Task F1
+Follow-up selected in the debt sweep. Add to GEMINI.md section 9 the measured mdBook 0.5.4 rule (backslash before ASCII punctuation is stripped inside `$$` even with the `<div>` wrapper; avoid those macros and `cases`), and to section 8 the 155-character extractor cap. AC-F1: both notes present, symlinks CLAUDE.md and AGENTS.md still point to GEMINI.md, no em dash.
+
+### Task F2
+Follow-up. Correct the stale statements in MDBOOK_SYSTEM_RULES.md (admin SPA build step and directory that no longer exist; the `mathjax-support = true` success gate that contradicts books/_template/book.toml). AC-F2: statements match scripts/build.ts and the template.
+
+### Task F3
+Follow-up. Add the root README candidate-source facts (search index ~50% in-network, tweet-mixer as out-of-network coordination layer, UTEG built on GraphJet) to the research notes and name Tweet Mixer in chapter 3. AC-F3: audit, heading gates, and build stay green.
+
 ### Task M1
 Owner-gated merge, then deploy (GEMINI.md section 19), D1 seed, GSC reindex using the OAuth path recorded in docs/code-plan/artifacts/2026-10-06-dawnbook-psikologi-merge-evidence.md.
 
@@ -385,4 +424,11 @@ Snapshot taken 2026-10-12 at origin/main 7b8d41a.
 
 ## Follow-up Backlog
 
-(empty)
+Debt sweep 2026-10-12: 10 debts found (9 plus 1 from the re-pass), 4 closed by F1-F3, 6 deferred.
+
+- [ ] L1 Optional `mdbook-dawnbook` preprocessor is not installed locally; every book prints a WARN during `bun run build` (57 lines). `defer: environment setup, when the preprocessor output is needed or the warning hides a real one`
+- [ ] L2 Cross-book LaTeX audit: about 11 chapter files contain `\,` or `\\` near math, which mdBook 0.5.4 renders without the backslash. Fix manually per GEMINI.md section 9. `defer: one session per affected book, before the next math-heavy book ships`
+- [ ] L3 Structural content check across books (SUMMARY entries equal files, first heading equals SUMMARY title, opener at most 155 chars) as a repo script. `defer: new gate session, when a book next ships with a truncated meta or mismatched heading`
+- [ ] L4 Weights table in chapter 6 is a snapshot of param.rs synced 2026-10-08; xai-org/x-algorithm updates nearly daily. `defer: content refresh, when param.rs weights change or on 2027-01-12`
+- [ ] L6 MDBOOK_SYSTEM_RULES.md still references `books/shared-header-v3.css` and `books/shared-script-v3.js` (lines near 115, 153, 320, 468, 734-896); only the unversioned files exist (found by the sweep re-pass). `defer: rules-doc session, next time MDBOOK_SYSTEM_RULES.md is edited`
+- [ ] L5 Scratch directories in /tmp from this session (source extract, 2025 repo copy, probes, audit script) cannot be deleted by the agent because `rm` is denied. `defer: owner action, any time`

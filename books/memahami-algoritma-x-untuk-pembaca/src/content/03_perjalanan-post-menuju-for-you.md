@@ -18,9 +18,10 @@ Daftar ini adalah peta konsep, bukan urutan eksekusi yang persis. Sebagian filte
 
 Di repositori [twitter/the-algorithm](https://github.com/twitter/the-algorithm) (pembaruan September 2025), [README Home Mixer](https://github.com/twitter/the-algorithm/blob/main/home-mixer/README.md) menyebut beberapa sumber kandidat:
 
-- **Earlybird**, indeks pencarian yang menyimpan post agar bisa ditemukan kembali. Dari sinilah post akun yang kamu ikuti (in-network) diambil.
-- **UTEG** (User Tweet Entity Graph), peta hubungan antara pengguna dan post berdasarkan interaksi mereka. Lewat jalur ini, aktivitas orang di sekitar jaringanmu bisa membawa post dari akun yang tidak kamu ikuti.
+- **Earlybird**, indeks pencarian yang menyimpan post agar bisa ditemukan kembali. Dari sinilah post akun yang kamu ikuti (in-network) diambil, dan README utama repositori menyebut sekitar separuh post berasal dari indeks pencarian ini.
+- **UTEG** (User Tweet Entity Graph), peta hubungan antara pengguna dan post berdasarkan interaksi mereka, yang menurut README utama dibangun di atas kerangka GraphJet. Lewat jalur ini, aktivitas orang di sekitar jaringanmu bisa membawa post dari akun yang tidak kamu ikuti.
 - **Cr Mixer**, sumber kandidat lain yang juga tercantum di README tersebut.
+- **Tweet Mixer**, yang oleh README utama repositori disebut sebagai lapisan koordinasi untuk mengambil kandidat dari luar jaringan.
 - **FRS** (Follow Recommendations Service), layanan rekomendasi akun yang juga menjadi salah satu sumber kandidat.
 
 Di luar daftar itu, pola follow dan interaksi bisa diolah menjadi representasi minat lewat metode bernama SimClusters, yang dibahas di bab 5. Gabungan jalur ini menjelaskan mengapa post dari akun asing bisa muncul di layarmu. Kamu tidak perlu pernah menyukai akun tersebut, karena kandidatnya bisa masuk lewat jaringan atau kemiripan perilaku.

@@ -121,7 +121,7 @@ cp -r books/_template books/<slug>
 7. **Clean Up Original/Temporary Files:** Ensure that any original, raw, or temporary chapter files (such as `1.md`, `2.md`, etc., or files with temporary/unformatted names) are completely removed from the `books/<slug>/src/` root directory and other directories under `books/<slug>/`. Only the final, zero-padded kebab-cased chapter files under `books/<slug>/src/content/` must remain. Leaving temporary files in `src/` will cause mdBook to compile them alongside the final files, resulting in duplicate pages in the build output.
 8. **Header Level Rule:** Chapter markdown files MUST begin with `##` (H2) instead of `#` (H1). mdBook automatically generates an H1 title from `SUMMARY.md`; using `#` inside the chapter creates duplicate/nested H1 tags that ruin UI alignment and SEO.
 
-**Success gate:** `book.toml` contains `title = "..."`, `language = "id"` (**not "en"**), `mathjax-support = true`, and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`. All chapter `.md` files are inside `src/content/` (NOT in `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/` (zero-padded number + underscore + lowercase kebab-case). All chapter files open with `##` heading (H2), never `#` (H1). `src/introduction.md` and any raw/temporary markdown files (such as `1.md`, `2.md`, etc.) in the `src/` root do NOT exist. All chapter files must not contain the em-dash (`—`) character.
+**Success gate:** `book.toml` contains `title = "..."`, `language = "id"` (**not "en"**), `mathjax-support = false` (inherited from the template and re-applied by `sync-template.ts`; MathJax loads with `defer` from `theme/head.hbs`), and a `[preprocessor.dawnbook]` section with a `subject_label` strictly matching `data/subject-labels.json`. `SUMMARY.md` has >= 1 `- [` entry. First entry targets a file beginning with `01`. All chapter `.md` files are inside `src/content/` (NOT in `src/` root). All chapter filenames match `/^\d{2}_[a-z0-9][a-z0-9-]*\.md$/` (zero-padded number + underscore + lowercase kebab-case). All chapter files open with `##` heading (H2), never `#` (H1). `src/introduction.md` and any raw/temporary markdown files (such as `1.md`, `2.md`, etc.) in the `src/` root do NOT exist. All chapter files must not contain the em-dash (U+2014) character. (corrected 2026-10-12)
 
 ---
 
@@ -142,17 +142,17 @@ echo "<slug>" | grep -qE '^[a-zA-Z0-9_-]+$' && echo "VALID" || echo "INVALID"
 
 ### Phase D — Content Pre-Flight Checks
 
-**Trigger commands (both must pass):**
+**Trigger commands (`check-media-support.ts` must pass; per GEMINI.md section 9, `check-latex-support.ts` is no longer a blocking gate and is only an optional post-flight safety net after line-by-line AI inspection of every formula) (corrected 2026-10-12):**
 ```bash
 bun run scripts/check-latex-support.ts
 bun run scripts/check-media-support.ts
 ```
 
-**What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (verifying `mathjax-support = true`), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and failing on unformatted multi-letter variables). Exits 1 on failure or warning.
+**What `check-latex-support.ts` does:** Reads every `books/*/book.toml` (passing a book that has `mathjax-support = true`, `mdbook-katex`, or a deferred MathJax script in `theme/head.hbs`) (corrected 2026-10-12), validates CSP headers, and parses/verifies all mathematical formulas in chapter Markdown files via the KaTeX compiler (flagging raw single `$` delimiters, math syntax/rendering errors, and failing on unformatted multi-letter variables). Exits 1 on failure or warning.
 
 **What `check-media-support.ts` does:** Verifies `books/shared-header-v3.css` has `.embed-responsive` and responsive `img`. Scans for forbidden `no-html = true`. Fails on `youtube.com/embed` (must use `youtube-nocookie.com`). Fails on unwrapped `<iframe>`. Verifies CSP directives. Exits 1 on error or warning.
 
-**Success gate:** Both scripts exit code 0. Zero `[WARN]` or `[FAIL]` emitted. Any warnings will cause the scripts to exit 1 and block the pipeline.
+**Success gate:** `check-media-support.ts` exits code 0. Zero `[WARN]` or `[FAIL]` emitted. Any warnings will cause the script to exit 1 and block the pipeline. (corrected 2026-10-12)
 
 **Failure/rollback:** Phase E must not start. AuthoringAgent re-activated to fix content issues.
 
@@ -167,14 +167,14 @@ bun run build
 
 **What `scripts/build.ts` does (in order):**
 1. Creates `output/` and `output/books/`.
-2. Runs `check-latex-support.ts` and `check-media-support.ts` (internal guards).
-3. For each `books/<slug>/` (skipping `_`-prefixed and invalid slugs): `mdbook build books/<slug>/ -d output/books/<slug>/`.
-4. Reads `book.toml` for title, `SUMMARY.md` for chapter count (`- [` lines), `icon.txt` for emoji.
+2. Runs `sync-template.ts`, then `check-media-support.ts` (internal guard). `check-latex-support.ts` is not run. (corrected 2026-10-12)
+3. For each `books/<slug>/` (skipping `_`- or `.`-prefixed and invalid slugs): copies it to `.build-tmp/<slug>/` and runs `mdbook build .build-tmp/<slug> -d output/books/<slug>/`. (corrected 2026-10-12)
+4. Reads `book.toml` for title, `SUMMARY.md` for chapter count (`- [` lines), `icon.txt` for emoji, then writes build-time stats to `functions/lib/built-stats.ts`. (corrected 2026-10-12)
 5. Generates `output/index.html`, `output/about.html`, `output/contribute.html`, `output/sign-in.html`, `output/manifest.json`.
 6. Copies hub CSS (`typography.css`, `tokens.css`, `HubLayout.css`) into `output/`.
 7. Runs `scripts/inject-gating.ts` — injects `opacity:0; visibility:hidden` into `<head>` of non-public chapter HTML.
-8. Builds admin SPA: `cd apps/admin && bun run build`, copies to `output/admin`.
-9. Writes `output/_redirects` and `output/_headers` (with CSP).
+8. Writes `output/_headers` (with CSP). No admin SPA is built (`apps/` holds only `hub`) and no `_redirects` file is written. (corrected 2026-10-12)
+9. Runs the heading gate (`check-heading-colons.ts` and `check-repeated-headings.ts`, exit 1 on any violation), then `generate-sitemap.ts`, `generate-llmstxt.ts`, and `check-seo.ts`. (corrected 2026-10-12)
 
 **Success gate:** Exit code 0. `output/books/<slug>/index.html` exists. `output/_headers` exists.
 
