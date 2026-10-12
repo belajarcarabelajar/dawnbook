@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-12-dawnbook-mengatur-bacaan-x
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -194,7 +194,7 @@ tasks:
 
 # Plan: Dawnbook book "Memahami Algoritma X untuk Pembaca" (source: Notion export zip)
 
-Status: InProgress (follow-ups F1-F3)
+Status: Complete
 Session: dawnbook-mengatur-bacaan-x
 Branch: 2026-10-12-dawnbook-mengatur-bacaan-x/dawnbook-mengatur-bacaan-x
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-mengatur-bacaan-x
@@ -219,8 +219,8 @@ Author: Iwan Kurniawan <iwan@belajarcarabelajar.com>, no co-author trailer (GEMI
 - [x] Follow-up F1: GEMINI.md sections 8 and 9 updated, symlinks intact. Evidence: `git diff --stat -- GEMINI.md` 3 insertions (155-char opener cap in section 8 citing inject-gating.ts:48; measured backslash-stripping rule in section 9); `readlink CLAUDE.md` and `readlink AGENTS.md` = GEMINI.md; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
 - [x] Follow-up F2: MDBOOK_SYSTEM_RULES.md stale statements corrected. Evidence: 9 lines changed, each marked (corrected 2026-10-12): Phase B gate now `mathjax-support = false`; Phase D gate only check-media-support.ts; Phase E steps match scripts/build.ts and scripts/builder/mdbook-runner.ts:40-45 (sync-template, check-media, .build-tmp; no latex check, no admin SPA, no _redirects); parent re-read build.ts imports to confirm; one pre-existing em dash on the touched line rewritten as U+2014; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
 - [x] Follow-up F3: UTEG and Tweet Mixer traced in research notes and chapter 3. Evidence: research notes cite the root README (S1) table (search index ~50% in-network, tweet-mixer out-of-network coordination layer, UTEG on GraphJet) and correction 2 now scopes the Cr Mixer rule to the Home Mixer README; chapter 3 names Tweet Mixer and the two facts, 7910 B; audit exit 0; `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run build` exit 0 with SEO R1-R7 passed and manifest books[0] = memahami-algoritma-x-untuk-pembaca (fresh run after all three follow-ups).
-- [ ] Merge and deploy (M1): owner-approved merge, deploy, D1 seed, GSC reindex with evidence
-- [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision
+- [ ] (post-plan, owner decision 2026-10-12) Merge and deploy (M1): owner-approved merge, deploy, D1 seed, GSC reindex with evidence
+- [x] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision. Evidence: 10 debts found, 4 closed by F1-F3 (commit ec3302b), 6 deferred with `defer:` lines in the backlog; learning ledger docs/code-plan/artifacts/2026-10-12-dawnbook-memahami-algoritma-x-learning-ledger.md (5 KEEP rules, written to project memory); Close plan gate answered Mark Complete. Graphify sync runs after this commit (post-plan, recorded in the merge evidence).
 
 ## 1. Intent and Scope
 
@@ -432,3 +432,9 @@ Debt sweep 2026-10-12: 10 debts found (9 plus 1 from the re-pass), 4 closed by F
 - [ ] L4 Weights table in chapter 6 is a snapshot of param.rs synced 2026-10-08; xai-org/x-algorithm updates nearly daily. `defer: content refresh, when param.rs weights change or on 2027-01-12`
 - [ ] L6 MDBOOK_SYSTEM_RULES.md still references `books/shared-header-v3.css` and `books/shared-script-v3.js` (lines near 115, 153, 320, 468, 734-896); only the unversioned files exist (found by the sweep re-pass). `defer: rules-doc session, next time MDBOOK_SYSTEM_RULES.md is edited`
 - [ ] L5 Scratch directories in /tmp from this session (source extract, 2025 repo copy, probes, audit script) cannot be deleted by the agent because `rm` is denied. `defer: owner action, any time`
+
+## Closeout status
+
+- Decision: Mark Complete (owner, `Close plan` gate, 2026-10-12), before the merge of PR #140.
+- Readiness: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-12-dawnbook-mengatur-bacaan-x.md` exit 3, verdict `NEEDS-HUMAN`, open NOW follow-ups 0. All 23 tasks are `UNPROVEN` because every task uses the `skip_if: "false"` sentinel (content work has no machine probe); the evidence for each task is in the checklist above.
+- Post-plan operations by owner decision: M1 (merge PR #140, deploy, D1 seed, GSC reindex) and the graphify sync. Their evidence goes to docs/code-plan/artifacts/2026-10-12-dawnbook-memahami-algoritma-x-merge-evidence.md.
