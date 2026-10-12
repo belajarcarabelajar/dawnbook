@@ -11,7 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.3
       - name: Install mdBook
         # Match the local toolchain version (mdbook v0.5.3) so the generated
         # output/ is deterministic between local builds and CI.
