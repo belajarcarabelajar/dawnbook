@@ -1,0 +1,18 @@
+[book]
+authors = ["Iwan Kurniawan"]
+language = "id"
+src = "src"
+title = "Memahami Algoritma X untuk Pembaca"
+description = "Panduan memahami algoritma rekomendasi X dari sisi pembaca, dari sinyal yang kamu kirim sampai kontrol untuk menata bacaan yang lebih berguna."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Teknologi"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
