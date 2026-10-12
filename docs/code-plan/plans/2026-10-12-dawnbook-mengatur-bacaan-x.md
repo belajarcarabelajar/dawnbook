@@ -424,13 +424,14 @@ Snapshot taken 2026-10-12 at origin/main 7b8d41a.
 
 ## Follow-up Backlog
 
-Debt sweep 2026-10-12: 10 debts found (9 plus 1 from the re-pass), 4 closed by F1-F3, 6 deferred.
+Debt sweep 2026-10-12: 11 debts found (9, plus 1 from the re-pass, plus 1 flaky remote test), 4 closed by F1-F3, 7 deferred.
 
 - [ ] L1 Optional `mdbook-dawnbook` preprocessor is not installed locally; every book prints a WARN during `bun run build` (57 lines). `defer: environment setup, when the preprocessor output is needed or the warning hides a real one`
 - [ ] L2 Cross-book LaTeX audit: about 11 chapter files contain `\,` or `\\` near math, which mdBook 0.5.4 renders without the backslash. Fix manually per GEMINI.md section 9. `defer: one session per affected book, before the next math-heavy book ships`
 - [ ] L3 Structural content check across books (SUMMARY entries equal files, first heading equals SUMMARY title, opener at most 155 chars) as a repo script. `defer: new gate session, when a book next ships with a truncated meta or mismatched heading`
 - [ ] L4 Weights table in chapter 6 is a snapshot of param.rs synced 2026-10-08; xai-org/x-algorithm updates nearly daily. `defer: content refresh, when param.rs weights change or on 2027-01-12`
 - [ ] L6 MDBOOK_SYSTEM_RULES.md still references `books/shared-header-v3.css` and `books/shared-script-v3.js` (lines near 115, 153, 320, 468, 734-896); only the unversioned files exist (found by the sweep re-pass). `defer: rules-doc session, next time MDBOOK_SYSTEM_RULES.md is edited`
+- [ ] L7 Flaky timing assertion `self.assertLess(par_time, seq_time)` in tests/scripts/test_gsc_batch_indexing_ping.py:108-124 (50 requests against a local mock server). Failed once on the PR #140 remote run (job 114844163948) while passing 5 of 5 local runs and on main 7b8d41a; this PR touches no Python. `defer: test-reliability session, when it fails again on a remote run`
 - [ ] L5 Scratch directories in /tmp from this session (source extract, 2025 repo copy, probes, audit script) cannot be deleted by the agent because `rm` is denied. `defer: owner action, any time`
 
 ## Closeout status
