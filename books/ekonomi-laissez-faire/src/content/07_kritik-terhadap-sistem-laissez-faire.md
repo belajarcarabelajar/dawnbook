@@ -33,6 +33,21 @@ Dalam sosiologi dan ekonomi, fenomena ini sering disebut sebagai kecenderungan "
 
 Tanpa adanya jaring pengaman sosial atau pajak progresif yang dikelola pemerintah, ketimpangan ini dapat menyebabkan **instabilitas sosial**. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas akan menurun, yang pada akhirnya dapat memicu krisis ekonomi.
 
+Bagan berikut merangkum bagaimana Efek Matius bisa berujung pada instabilitas sosial dan krisis ekonomi.
+
+```mermaid
+flowchart TD
+    accTitle: Efek Matius dan dampaknya
+    accDescr: Mereka yang memiliki modal dapat berinvestasi pada teknologi dan pendidikan yang lebih baik, sedangkan mereka yang mulai dari nol terjebak dalam upah rendah karena tidak memiliki daya tawar. Keduanya membentuk ketimpangan, yang kaya makin kaya. Tanpa jaring pengaman sosial atau pajak progresif, ketimpangan ini dapat menyebabkan instabilitas sosial. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas menurun dan pada akhirnya dapat memicu krisis ekonomi.
+    MODAL["Memiliki modal"] --> INVESTASI["Investasi pada teknologi dan pendidikan yang lebih baik"]
+    NOL["Mulai dari nol"] -->|"tanpa daya tawar"| UPAH["Terjebak dalam upah rendah"]
+    INVESTASI --> TIMPANG["Ketimpangan, yang kaya makin kaya"]
+    UPAH --> TIMPANG
+    TIMPANG -->|"tanpa jaring pengaman sosial atau pajak progresif"| INSTABIL["Instabilitas sosial"]
+    TIMPANG -->|"sebagian kecil menguasai sebagian besar sumber daya"| DAYABELI["Daya beli masyarakat luas menurun"]
+    DAYABELI -->|"pada akhirnya dapat memicu"| KRISIS["Krisis ekonomi"]
+```
+
 ## 3. Pengabaian Eksternalitas Negatif
 
 Dalam model Laissez-faire klasik, transaksi hanya melibatkan penjual dan pembeli. Sering kali ada pihak ketiga yang menanggung beban dari transaksi tersebut tanpa mendapatkan kompensasi. Inilah yang disebut sebagai **eksternalitas negatif**.

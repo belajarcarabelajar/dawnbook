@@ -55,6 +55,27 @@ Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
    - **Logika:** Pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli.
    - **Risiko:** Dapat menyebabkan utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
 
+Kedua jalur respons itu bisa kamu bandingkan berdampingan pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Respons Laissez-faire dan Keynesian terhadap resesi
+    accDescr: Saat resesi, pendekatan Laissez-faire tidak mengambil tindakan drastis dan membiarkan upah turun hingga tenaga kerja murah kembali, sehingga perusahaan mulai merekrut lagi secara alami, dengan risiko proses bertahun-tahun dan penderitaan manusia yang berat. Pendekatan Keynesian memberi stimulus fiskal berupa penurunan pajak atau belanja infrastruktur, sehingga pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli, dengan risiko utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
+    RESESI["Resesi"]
+    subgraph LF["Pendekatan Laissez-faire"]
+        L1["Tidak ada tindakan drastis"] --> L2["Upah dibiarkan turun hingga tenaga kerja murah kembali"]
+        L2 -->|"sehingga"| L3["Perusahaan mulai merekrut lagi secara alami"]
+        L2 -.->|"risiko"| L4["Memakan waktu bertahun-tahun, penderitaan manusia yang berat"]
+    end
+    subgraph KY["Pendekatan Intervensionis (Keynesian)"]
+        K1["Stimulus fiskal, pajak turun atau belanja infrastruktur naik"] --> K2["Pemerintah menyuntikkan uang ke pasar"]
+        K2 -->|"untuk"| K3["Menciptakan lapangan kerja dan meningkatkan daya beli"]
+        K2 -.->|"risiko jika tidak dikelola dengan baik"| K4["Utang negara membengkak dan inflasi"]
+    end
+    RESESI --> L1
+    RESESI --> K1
+```
+
 ## 5. Model Ekonomi Campuran (Mixed Economy)
 
 Di dunia nyata, hampir tidak ada negara yang 100% Laissez-faire atau 100% Intervensionis. Kebanyakan negara modern menggunakan **Ekonomi Campuran**.
