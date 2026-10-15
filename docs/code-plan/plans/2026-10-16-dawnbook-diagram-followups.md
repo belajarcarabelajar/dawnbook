@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagram-followups
-status: Approved
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -63,6 +63,50 @@ tasks:
       - cmd: "bun run check:headings"
         expect_exit: 0
         retry: 0
+  - id: F1
+    depends_on: [C5]
+    impacts: ["meta descriptions of ikigai chapters 03, 07, 08 - bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai"]
+    files: { create: [], modify: [books/menemukan-tujuan-hidup-ikigai/src/content/03_zona-persimpangan-mengurai-makna-ikigai.md], test: [] }
+    idempotency_key: "F1:ikigai-openers"
+    skip_if: "bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai"
+    verify_exit: 0
+    run:
+      - cmd: "bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai"
+        expect_exit: 0
+        retry: 0
+  - id: F2
+    depends_on: [C5]
+    impacts: ["meta descriptions of tonsilektomi chapters 02, 13, 14 and the chapter 05/13 closers - bun run scripts/check-book-structure.ts tonsilektomi"]
+    files: { create: [], modify: [books/tonsilektomi/src/content/02_apa-itu-tonsilektomi.md], test: [] }
+    idempotency_key: "F2:tonsillectomy-openers-closers"
+    skip_if: "bun run scripts/check-book-structure.ts tonsilektomi"
+    verify_exit: 0
+    run:
+      - cmd: "bun run scripts/check-book-structure.ts tonsilektomi"
+        expect_exit: 0
+        retry: 0
+  - id: F3
+    depends_on: [C5]
+    impacts: ["meta descriptions of EWS chapters 01, 02, 07, 08, 09 - bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system"]
+    files: { create: [], modify: [books/sistem-peringatan-dini-early-warning-system/src/content/01_pengantar-sistem-peringatan-dini.md], test: [] }
+    idempotency_key: "F3:ews-openers"
+    skip_if: "bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system"
+    verify_exit: 0
+    run:
+      - cmd: "bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system"
+        expect_exit: 0
+        retry: 0
+  - id: F4
+    depends_on: [C5]
+    impacts: ["meta descriptions of pedagogy chapters 03, 07, 09, 12 and the chapter 01/09 closers - bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar"]
+    files: { create: [], modify: [books/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar/src/content/03_metodologi-penelitian-dan-pengumpulan-data.md], test: [] }
+    idempotency_key: "F4:pedagogy-openers-closers"
+    skip_if: "bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar"
+    verify_exit: 0
+    run:
+      - cmd: "bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar"
+        expect_exit: 0
+        retry: 0
   - id: C5
     depends_on: [C1, C2, C3, C4]
     impacts: ["build and full suite that CI and deploy run - bun run build"]
@@ -87,8 +131,8 @@ tasks:
 - [x] S2 Plan: tasks written, runner prints `Validation: OK`, plan approved through the question tool. Evidence: runner `Validation: OK`; `Plan` gate approved 2026-10-16
 - [x] S3 Execute: each chapter fix applied line by line, parent diff audit per chunk. Evidence: C1 `65b5071`, C2 `8ac278c`, C3 `58c36bf`, C4 `794cb4d`; parent word-diff audit of all 12 files; five one-phrase leftovers reported by the chunks fixed inline by the parent (pedagogy 05:11 "sebagian besar", ikigai 02:30 and 02:63, EWS 03:99 and 07:9)
 - [x] S4 Verify: heading, diagram and book gates, `bun run build`, `bun test` exit 0 with 0 failures. Evidence: `bun run check:headings` exit 0 (0 violations, 58 books); `check-book-structure.ts` identical to the baseline for all four books; `bun run build` exit 0 (diagram gate 0, SEO passed); `bun test` 658 pass, 13 skip, 0 fail after `bun install --frozen-lockfile` (the first run failed 87 tests only because the fresh worktree had no node_modules)
-- [ ] S5 Deliver: PR opened from a body file and registered; merge only through the `Merge` gate
-- [ ] S6 After deploy: `bun run scripts/migrate-to-d1.ts` with credentials sourced, live and D1 checks, regenerated `db/seed.sql` and merge evidence committed in the seed PR
+- [x] S5 Deliver: PR opened from a body file and registered; merge only through the `Merge` gate. Evidence: PR #150 opened from the body file and registered; `Merge` gate answered "Merge setelah CI hijau"; remote `test` passed; merged as `0300e07`
+- [x] S6 After deploy: `bun run scripts/migrate-to-d1.ts` with credentials sourced, live and D1 checks, regenerated `db/seed.sql` and merge evidence committed in the seed PR. Evidence: Deploy success on `0300e07`; `migrate-to-d1.ts` exit 0, 58 books, "All seeds applied successfully."; `cf d1 query` confirms the new tonsillectomy text and the absence of the old EWS and pedagogy phrases; `docs/code-plan/artifacts/2026-10-16-dawnbook-diagram-followups-merge-evidence.md`
 - [ ] S7 Sweep: debt sweep, learning ledger, plan closeout, graphify sync
 
 ## Research manifest (read-only, budget 25 tool calls each)
@@ -123,6 +167,10 @@ flowchart TD
     C3 --> C5
     C4 --> C5
     C5 --> PR{{"PR, merge gate, deploy, D1 seed"}}
+    C5 --> F1["F1 ikigai openers"]
+    C5 --> F2["F2 tonsillectomy openers and closers"]
+    C5 --> F3["F3 EWS openers"]
+    C5 --> F4["F4 pedagogy openers and closers"]
 ```
 
 ## Global Constraints
@@ -171,3 +219,32 @@ Baseline `check-book-structure.ts` problems before any edit: ikigai 3 (openers o
 ## After the merge (S6)
 
 The merge deploys through CI. Then, with `~/cloudflare/.env` sourced: `bun run scripts/migrate-to-d1.ts` (refreshes `content_md` for every book, including the two diagram pilots and the four fixed books, and regenerates `db/seed.sql`), a live check of one fixed public chapter, and a seed PR that commits `db/seed.sql`, this session's merge evidence and the parent session's merge evidence (already copied into this worktree).
+
+## Debt-sweep follow-ups (owner selected both NOW items, 2026-10-16)
+
+The 15 chapter openers longer than 155 characters (GEMINI.md section 8) and the two repeated closing headings (section 21) in these four books. Each task's `skip_if` and `run` is the book checker, which exits 0 only when the book has no structural problem left.
+
+### Task F1: Ikigai openers (chapters 03, 07, 08)
+
+- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai` | expect: exit 0 | retry: 0
+
+### Task F2: Tonsillectomy openers (02, 13, 14) and the 05/13 closers
+
+- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts tonsilektomi` | expect: exit 0 | retry: 0
+
+### Task F3: EWS openers (01, 02, 07, 08, 09)
+
+- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
+
+### Task F4: Pedagogy openers (03, 07, 09, 12) and the 01/09 closers
+
+- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | expect: exit 0 | retry: 0
+
+Deferred (LATER): EWS chapter 12 "Target Sendai" header and the unsourced "4 menit rata-rata" (`defer: EWS retrofit session RF5, needs a source`); EWS chapter 07 "formed 2005" versus chapter 03 "launched 2008", chapter 04 GPS as a current detector and "Instruksi Presiden" (`defer: RF5, needs BMKG sources`); Marliana DOI with a doubled prefix (`defer: publisher`); Chrome 155 cache in `~/.cache/puppeteer` blocked by the owner's rm hook (`defer: owner runs the rm`).
+
+## Resume state (2026-10-16, written before a possible context compaction)
+
+- Seed session worktree: `/home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-seed-after-diagram-followups` (branch `2026-10-16-dawnbook-diagram-followups/dawnbook-seed-after-diagram-followups`, registry `active`), `bun install` done.
+- Done: PR #150 merged (`0300e07`), deployed, D1 seeded and verified; `db/seed.sql`, #150 merge evidence and the learning ledger staged in this worktree; F1 committed.
+- In flight: F2 (tonsilektomi), F3 (EWS), F4 (pedagogy) subagents.
+- Next: audit and commit F2-F4; `bun run build` and `bun test`; rerun `migrate-to-d1.ts` with `~/cloudflare/.env` sourced so `db/seed.sql` matches the shortened openers; commit seed.sql, plan, ledger, evidence; readiness and `Close plan` gate; PR via body file; register; `Merge` gate; after merge: `plan-issue-sync`, publish, registry `merged` for both `dawnbook-diagram-followups` and `dawnbook-seed-after-diagram-followups`, graphify sync in the main checkout (the untracked parent merge-evidence copy there must be moved before `git pull`).
