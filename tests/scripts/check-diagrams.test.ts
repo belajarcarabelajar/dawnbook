@@ -373,6 +373,58 @@ describe("checkDiagrams rules", () => {
   });
 });
 
+// Label rows shaped like mermaid-cli output with htmlLabels false: one outer tspan per row, one inner tspan
+// per word with later words prefixed by a space, plus an empty self-closing row like an unlabeled edge.
+function labelSvg(...rows: string[]): string {
+  const inner = (word: string, j: number) =>
+    `<tspan font-style="normal" class="text-inner-tspan" font-weight="normal">${j === 0 ? word : " " + word}</tspan>`;
+  const row = (text: string, i: number) =>
+    `<tspan class="text-outer-tspan row" x="0" y="${i - 0.1}em" dy="1.1em">${text.split(" ").map(inner).join("")}</tspan>`;
+  const emptyEdge = '<text y="-10.1" text-anchor="middle"><tspan class="text-outer-tspan row" x="0" y="-0.1em" dy="1.1em" text-anchor="middle"/></text>';
+  return `<svg id="dbd-uji" viewBox="0 0 400 300">${emptyEdge}<text y="-10.1" style="">${rows.map(row).join("")}</text></svg>`;
+}
+
+describe("checkDiagrams split-word", () => {
+  const check = (extra: string, svg: string) => {
+    const source = flowWith(extra);
+    const root = single(chapter(source), [source], svg);
+    return { violations: checkDiagrams(root).violations, file: `${diagramKey(source, root)}.svg` };
+  };
+
+  it.each([
+    ["a word cut into character chunks", '    C --> D["Mesin menyeimbangkan beban"]', ["Mesin", "menyeimbangk", "an beban"], "menyeimbangkan"],
+    ["a path cut before its extension", '    C --> D["Salin ke /media/usb/data.txt."]', ["Salin ke", "/media/usb/dat", "a.txt."], "/media/usb/data.txt."],
+    ["an entity-encoded word", '    C --> D["Hitung untung&rugi"]', ["Hitung", "untung&amp;ru", "gi"], "untung&rugi"],
+  ])("reports %s, naming the joined word and the cached SVG", (_label, extra, rows, word) => {
+    const { violations, file } = check(extra, labelSvg(...rows));
+    expect(violations.map((v) => v.rule)).toEqual(["split-word"]);
+    expect(violations[0].message).toContain(`"${word}"`);
+    expect(violations[0].message).toContain(file);
+    expect(violations[0].message).toContain("110 px");
+  });
+
+  it("passes the same label when every row break falls at a space", () => {
+    const { violations } = check('    C --> D["Mesin menyeimbangkan beban"]', labelSvg("Mesin", "menyeimbangkan", "beban"));
+    expect(violations).toEqual([]);
+  });
+
+  it("passes a normal break at a space before a symbol word", () => {
+    const svg = labelSvg("Loncatan Iman", "= Solusi Absurditas");
+    expect(check('    C --> D["Loncatan Iman = Solusi Absurditas"]', svg).violations).toEqual([]);
+  });
+
+  it("reports a lone punctuation row that belongs to the word before it", () => {
+    const svg = labelSvg("Bertahan", "bertahun-tahun", ",", "lalu menyerah");
+    const { violations } = check('    C --> D["Bertahan bertahun-tahun, lalu menyerah"]', svg);
+    expect(violations.map((v) => v.rule)).toEqual(["split-word"]);
+    expect(violations[0].message).toContain('"bertahun-tahun,"');
+  });
+
+  it("matches label text only, never a node id", () => {
+    expect(check('    C --> AkarMasalah["Akar Masalah"]', labelSvg("Akar", "Masalah")).violations).toEqual([]);
+  });
+});
+
 describe("checkDiagrams scope", () => {
   it("scans src/**/*.md and reports files relative to the book folder", () => {
     const root = makeRoot();
