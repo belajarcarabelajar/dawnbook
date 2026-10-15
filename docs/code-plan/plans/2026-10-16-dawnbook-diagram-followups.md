@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagram-followups
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -146,7 +146,7 @@ tasks:
 
 ## Status
 
-- Status: Approved (`Plan` gate answered "Setujui dan eksekusi" on 2026-10-16)
+- Status: Complete (owner answered the `Close plan` gate with Mark Complete on 2026-10-16)
 - Approved scope: the four open items listed at the end of the parent session (contradictions FU1-FU4, D1 seed, merge evidence commit, Chrome cache); owner instruction 2026-10-16: "lakukan yang terbaik sisanya". The Chrome cache deletion is blocked by the owner's `rm-tmp-guard` hook and was handed back to the owner.
 - Completed: claim (exit 0), worktree from `origin/main` at `9229357`, state `active`, parent merge evidence copied in
 - Current: S1 Research
@@ -193,28 +193,28 @@ Baseline `check-book-structure.ts` problems before any edit: ikigai 3 (openers o
 
 ### Task C1: Ikigai zone definitions consistent with chapter 03
 
-- [ ] Step 1: apply the Q1 edits to chapter 02 (drop the zone names from the four pillar headings and from L61) and chapter 08 (L49 Mission, L53 Profession); add Winn (2014) and a deep link for Garcia and Miralles to chapter 12
-- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: apply the Q1 edits to chapter 02 (drop the zone names from the four pillar headings and from L61) and chapter 08 (L49 Mission, L53 Profession); add Winn (2014) and a deep link for Garcia and Miralles to chapter 12
+- [x] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task C2: Tonsillectomy pain course by age group
 
-- [ ] Step 1: apply the Q2 edits to chapter 08 L48-49 (also fixes the typo "menyaikkan") and chapter 10 L13, L17; add Lavy (1997) and Medikondu (2025) to chapter 14 and renumber
-- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: apply the Q2 edits to chapter 08 L48-49 (also fixes the typo "menyaikkan") and chapter 10 L13, L17; add Lavy (1997) and Medikondu (2025) to chapter 14 and renumber
+- [x] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task C3: InaTEWS timing chain
 
-- [ ] Step 1: apply the Q3 edits to chapter 04 L33, L36, L44, chapter 07 L9, L21 and chapter 03 L70; replace the dead manual link at chapter 13 L39
-- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: apply the Q3 edits to chapter 04 L33, L36, L44, chapter 07 L9, L21 and chapter 03 L70; replace the dead manual link at chapter 13 L39
+- [x] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task C4: Pedagogy percentages
 
-- [ ] Step 1: delete the 72% total row at chapter 05 L19 and rewrite the two L21 sentences; correct the page range and link of the Marliana entry at chapter 12 L49
-- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: delete the 72% total row at chapter 05 L19 and rewrite the two L21 sentences; correct the page range and link of the Marliana entry at chapter 12 L49
+- [x] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task C5: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## After the merge (S6)
 
@@ -226,19 +226,19 @@ The 15 chapter openers longer than 155 characters (GEMINI.md section 8) and the 
 
 ### Task F1: Ikigai openers (chapters 03, 07, 08)
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts menemukan-tujuan-hidup-ikigai` | expect: exit 0 | retry: 0
 
 ### Task F2: Tonsillectomy openers (02, 13, 14) and the 05/13 closers
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts tonsilektomi` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts tonsilektomi` | expect: exit 0 | retry: 0
 
 ### Task F3: EWS openers (01, 02, 07, 08, 09)
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
 
 ### Task F4: Pedagogy openers (03, 07, 09, 12) and the 01/09 closers
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-book-structure.ts sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | expect: exit 0 | retry: 0
 
 Deferred (LATER): EWS chapter 12 "Target Sendai" header and the unsourced "4 menit rata-rata" (`defer: EWS retrofit session RF5, needs a source`); EWS chapter 07 "formed 2005" versus chapter 03 "launched 2008", chapter 04 GPS as a current detector and "Instruksi Presiden" (`defer: RF5, needs BMKG sources`); Marliana DOI with a doubled prefix (`defer: publisher`); Chrome 155 cache in `~/.cache/puppeteer` blocked by the owner's rm hook (`defer: owner runs the rm`).
 
@@ -248,3 +248,10 @@ Deferred (LATER): EWS chapter 12 "Target Sendai" header and the unsourced "4 men
 - Done: PR #150 merged (`0300e07`), deployed, D1 seeded and verified; `db/seed.sql`, #150 merge evidence and the learning ledger staged in this worktree; F1 committed.
 - In flight: F2 (tonsilektomi), F3 (EWS), F4 (pedagogy) subagents.
 - Next: audit and commit F2-F4; `bun run build` and `bun test`; rerun `migrate-to-d1.ts` with `~/cloudflare/.env` sourced so `db/seed.sql` matches the shortened openers; commit seed.sql, plan, ledger, evidence; readiness and `Close plan` gate; PR via body file; register; `Merge` gate; after merge: `plan-issue-sync`, publish, registry `merged` for both `dawnbook-diagram-followups` and `dawnbook-seed-after-diagram-followups`, graphify sync in the main checkout (the untracked parent merge-evidence copy there must be moved before `git pull`).
+
+## Closeout record
+
+- `ultra-plan-runner.mjs --execute` (2026-10-16): exit 0; C1-C5 PASSED; F1-F4 SKIPPED-IDEMPOTENT (their `skip_if`, the book checker, exits 0).
+- `plan-mark-done.mjs --from runner.log`: 9 considered, 9 ticked.
+- `plan-closeout.mjs --readiness` (2026-10-16): `NEEDS-HUMAN` (exit 3); F1-F4 DONE; C1-C5 UNPROVEN (`skip_if: "false"`); open NOW follow-ups 0; open step boxes 0; other open boxes 0.
+- `Close plan` gate: owner chose Mark Complete (2026-10-16).
