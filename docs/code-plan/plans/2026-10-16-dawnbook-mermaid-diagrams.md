@@ -230,7 +230,7 @@ tasks:
 - [x] S6 Gate 2: plan approved through the question tool. Evidence: `Plan` gate answered "Setujui dan eksekusi" on 2026-10-16; status set to Approved
 - [x] S7 Execute: chunks dispatched per batch manifest, each chunk past the parent diff audit gate. Evidence: T1-T14 integrated in commits 19e800e..1dec947, each re-run by the parent (Execution evidence table)
 - [x] S8 Verify: tests, `bun run build`, heading and content gates run locally with exit codes, 0 failures. Evidence: T12 run 2: `bun run check:diagrams` exit 0; `bun run build` exit 0 (heading gate and SEO validation inside, 3 diagrams inlined per pilot book); `bun test` 596 pass, 13 skip (same 13 as main), 0 fail
-- [ ] S9 Deliver: commit on the session branch, PR body file per template, PR opened and registered
+- [x] S9 Deliver: commit on the session branch, PR body file per template, PR opened and registered. Evidence: `gh pr create --body-file` opened https://github.com/belajarcarabelajar/dawnbook/pull/148; `pr-registry pr dawnbook-mermaid-diagrams --number 148` recorded state open
 - [ ] S10 Sweep: session-close debt sweep, learning ledger, plan closeout decision, graphify sync
 
 ## Approval log
@@ -690,6 +690,26 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 - FU14: the global `mmdc` cannot start (pinned Chromium 155 missing); the project renderer uses `/usr/bin/chromium` instead. `defer: machine setup note in ~/AGENTS.md, owner approval needed for a global file`
 - FU15: the AuthoringAgent spec in `MDBOOK_SYSTEM_RULES.md` says "No shell execution" while line 312 (and now rule 7.7.8) ask authoring agents to run detectors. `defer: next MDBOOK_SYSTEM_RULES.md revision; owner decides whether the orchestrator or the authoring agent runs gates`
 - FU16: `findDiagramBlocks` counts a mermaid fence inside an HTML comment or an HTML block, so a commented-out diagram would still be rendered and inlined. `defer: first commented-out diagram in a chapter, or a gate rule in the next diagram-tooling change`
+- FU17: `markdownFiles`, `toPosix` and `listBooks` are duplicated in `scripts/diagrams/inline.ts`, `scripts/check-diagrams.ts` and `scripts/render-diagrams.ts` (standards review design note). `defer: next diagram-tooling change`
+- FU18: gate gaps reported by T15b: a straight quote in a `stateDiagram-v2` transition label and the edge form `A -- "text" --> B` are not flagged; `check-diagrams --book <unknown>` prints a stack trace instead of one line. `defer: next diagram-tooling change`
+- FU19: Mermaid repeats some ids inside one sequence SVG (top and bottom actor boxes); harmless today because nothing references them. `defer: first diagram that links to an actor id`
+- FU20: when `node_modules` is missing, `Bun.resolveSync("mermaid/package.json")` falls back to Bun's global cache instead of failing. `defer: first build run without bun install`
+- FU21: Puppeteer downloaded Chrome 155 (about 670 MB) into `~/.cache/puppeteer` during the T5 install, before `.puppeteerrc.json` existed; deleting it is a destructive action on a user cache and needs its own confirmation. `defer: owner decision`
+- FU22: the retrofit roadmap RF1-RF6 is the next body of work, not debt; each session starts from this plan's roadmap table and inventory files. `defer: owner starts RF1`
+
+### Debt sweep classification (2026-10-16)
+
+| Debt | Class | Why |
+|---|---|---|
+| FU12 build continues when inject-gating fails | NOW | silent failure on the paywall and SEO injection path; one-line fix plus a test |
+| FU16 + FU18 gate gaps | NOW | same two files as T15b; each gap gets a failing test first |
+| FU10 detect-emojis rewrites inside fences | NOW | would corrupt diagram blocks the first time clean mode runs |
+| FU17 duplicated helpers | NOW | pure refactor covered by existing tests |
+| FU7 + FU13 stale rule line and old em dash | NOW | documentation only |
+| FU9 CI mdBook pin | LATER | CI workflow change; low risk while 0.5.3 and 0.5.4 build the same output |
+| FU1-FU5, FU8, FU11, FU15 | LATER | each needs an owner decision or a manual content session |
+| FU14, FU21 | LATER | global file or user cache; asked separately |
+| FU19, FU20, FU22 | LATER | trigger not reached, or planned work
 
 ## Execution evidence
 
