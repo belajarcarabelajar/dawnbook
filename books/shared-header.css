@@ -141,3 +141,7 @@ html {
 @keyframes chapter-spin {
   to { transform: rotate(360deg); }
 }
+
+/* Inline Mermaid diagrams: scroll sideways on narrow screens instead of shrinking the labels. */
+.dawnbook-diagram { margin: 1.5rem 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.dawnbook-diagram svg { display: block; margin: 0 auto; height: auto; }
