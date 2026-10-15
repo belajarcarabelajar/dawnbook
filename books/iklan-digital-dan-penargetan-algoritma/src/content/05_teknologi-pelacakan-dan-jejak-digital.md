@@ -46,7 +46,7 @@ sequenceDiagram
     and
         P->>S: Kirim data kunjungan
     end
-    Note over S: Alamat IP<br/>Waktu kunjungan<br/>Jenis perangkat dan peramban<br/>Aktivitas spesifik, misalnya tombol “Beli”
+    Note over S: Data yang diterima berupa alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti tombol “Beli”
 ```
 
 **Contoh Kode Sederhana:** Secara teknis, sebuah pixel bisa terlihat sesederhana baris kode HTML berikut:

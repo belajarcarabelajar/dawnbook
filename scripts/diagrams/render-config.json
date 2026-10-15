@@ -29,7 +29,8 @@
   },
   "sequence": {
     "width": 130,
-    "actorMargin": 30
+    "actorMargin": 30,
+    "wrap": true
   },
   "timeline": {
     "leftMargin": 10

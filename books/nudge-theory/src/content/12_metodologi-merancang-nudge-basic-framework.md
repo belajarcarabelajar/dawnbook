@@ -9,7 +9,7 @@ BASIC merupakan akronim dari lima tahapan utama: **B**ehaviour (Perilaku), **A**
 Sebelum membedahnya satu per satu, diagram berikut memperlihatkan urutan kelima tahapan tersebut.
 
 ```mermaid
-flowchart LR
+flowchart TD
     accTitle: Lima tahapan BASIC Framework
     accDescr: Lima tahapan BASIC berjalan berurutan dari Behaviour (Perilaku), Analysis (Analisis), Strategy (Strategi), Intervention (Intervensi), sampai Change (Perubahan).
     T1["Behaviour (Perilaku)"] --> T2["Analysis (Analisis)"]
