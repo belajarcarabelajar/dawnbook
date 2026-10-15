@@ -1,0 +1,15 @@
+# Summary
+
+- [Dari Kekalahan Perang Menuju Kekuatan Budaya](content/01_dari-kekalahan-perang-menuju-kekuatan-budaya.md)
+- [Astro Boy dan Lahirnya Anime Televisi](content/02_astro-boy-dan-lahirnya-anime-televisi.md)
+- [Media Mix dan Komite Produksi](content/03_media-mix-dan-komite-produksi.md)
+- [Akira, Pokémon, dan Gelombang Pertama ke Barat](content/04_akira-pokemon-dan-gelombang-pertama-ke-barat.md)
+- [Penggemar sebagai Duta Tak Resmi](content/05_penggemar-sebagai-duta-tak-resmi.md)
+- [Diplomasi Pop Kementerian Luar Negeri](content/06_diplomasi-pop-kementerian-luar-negeri.md)
+- [Cool Japan dan Uang Negara](content/07_cool-japan-dan-uang-negara.md)
+- [Saat Pasar Luar Negeri Melampaui Pasar Domestik](content/08_saat-pasar-luar-negeri-melampaui-domestik.md)
+- [Manga Digital dan Perang Melawan Pembajakan](content/09_manga-digital-dan-perang-melawan-pembajakan.md)
+- [Dari Layar ke Perjalanan](content/10_dari-layar-ke-perjalanan.md)
+- [Doraemon, Elex, dan Penggemar Indonesia](content/11_doraemon-elex-dan-penggemar-indonesia.md)
+- [Harga di Balik Kesuksesan](content/12_harga-di-balik-kesuksesan.md)
+- [Referensi](content/13_referensi.md)
