@@ -1,0 +1,8 @@
+{
+  "theme": "base",
+  "look": "classic",
+  "layout": "dagre",
+  "htmlLabels": false,
+  "fontFamily": "inherit",
+  "flowchart": { "htmlLabels": false, "useMaxWidth": true, "wrappingWidth": 200 }
+}

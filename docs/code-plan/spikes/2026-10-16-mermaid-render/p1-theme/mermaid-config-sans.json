@@ -1,0 +1,12 @@
+{
+  "theme": "base",
+  "look": "classic",
+  "layout": "dagre",
+  "htmlLabels": false,
+  "fontFamily": "Epilogue, sans-serif",
+  "flowchart": {
+    "htmlLabels": false,
+    "useMaxWidth": true,
+    "wrappingWidth": 200
+  }
+}

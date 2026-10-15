@@ -59,7 +59,7 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **`<div>` Wrapping Does NOT Stop Escape Processing (measured 2026-10-12, mdBook v0.5.4):** The HTML block opened by `<div>` ends at the first blank line, so the `$$` lines are parsed as a normal Markdown paragraph, where a backslash before ASCII punctuation is removed: `\,` renders as a comma, `\\` becomes a single backslash (so `\begin{cases}` rows collapse), and `\{` becomes `{`. `\text{\%}` still works only because it becomes `\text{%}`, which MathJax shows as a literal percent.
   - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
-  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
+  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; MathJax, configured in `books/_template/theme/head.hbs`, renders `$ ... $` in the browser, and the build does not rewrite it.
   2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files.
      - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
        ```markdown
@@ -205,6 +205,55 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **Forms that are NOT the pattern (decided 2026-10-11):** ` vs. ` comparisons, numeric ranges (`(7 - 11 Tahun)`), acronym expansions (`P - Planning`), and parenthetical glosses (`(Center of Pressure - CP)`) are legitimate and must not be rewritten. A dash used as `Label - Subjudul` is the pattern in a different costume; it is not detected mechanically, so reviewers catch it.
 - **Repeated headings (2026-10-11):** the same heading text in 3 or more chapters of one book fails (`bun run scripts/check-repeated-headings.ts`, also run by the build gate). Name each heading from its own section and give each chapter closer a different title (section 21). The mechanical gate starts at 3 chapters so a coincidental pair does not break the build; section 21 still applies in review, so two identical non-topical closers remain a defect to fix at authoring time. Bold sub-titles may hold italic emphasis (`**Skenario: *Burnout* di Kantor**` is flagged too).
 - **Verification (mandatory):** `bun run scripts/check-heading-colons.ts` (read-only detector, exit 1 on any violation, exit 0 when clean). It also lists every `heading-colon-ok` marker so exemptions stay visible. The same check runs inside `bun run build` (the build exits 1 on a colon heading, so deploy is gated too) and as `bun run check:headings`. It scans ATX headings (also inside blockquotes and list items), setext headings, single-line `<h1>` to `<h6>` headings, and counts the fullwidth colon (U+FF1A). Math is stripped by the Pandoc rule: the opening `$` must not be followed by a space and the closing `$` must not be preceded by a space or followed by a digit, so `Harga $5: murah dan $10` is a violation. The title-quality ruler is `bun run scripts/measure-heading-quality.ts <slug> --base <ref>` (dev tool, not part of the build).
+
+## 25. Mermaid Diagrams (Build-Time SVG)
+- **What it is:** a fenced `mermaid` code block in a chapter is rendered on the author's machine into an inline SVG. The page loads no diagram JavaScript.
+- **Cache location:** each rendered SVG lives in `books/<slug>/diagrams/<hash>.svg`, one file per distinct diagram, committed with the chapter. The folder sits outside `src/`, so mdBook never publishes it as a file; the diagram reaches the reader only inline in the chapter HTML and stays behind the paywall. Never copy or link a cached SVG into `src/` (`.svg` is a public asset extension in the gating middleware).
+- **CI never renders:** the build replaces each block with its cached SVG in the `.build-tmp` copy and exits 1 on a cache miss, naming the book, file, line and `bun run diagrams:render`. CI has no browser by design.
+- **When a diagram helps:** only where the chapter text already carries one of these shapes:
+  - a multi-step process, a cycle, or a decision with branches;
+  - a chronology whose dates are in the text;
+  - numbers already stated in the text (`pie`, `xychart`);
+  - a two-axis classification the text describes (`quadrantChart`);
+  - an ASCII-art diagram inside a code fence. Convert it and delete the ASCII version, so a book never carries two drawing styles.
+- **Never required:** most chapters have no diagram, and a chapter with no fitting candidate stays without one. At most 3 per chapter (gate rule `too-many`), and the same diagram twice in one chapter is refused (`duplicate`). Do not repeat the same diagram shape across chapters as scaffolding (section 21).
+- **Grounding (hard rule):** every node, edge, label and number must be stated in the same chapter. Add no new fact, no new number, and no causal arrow the text does not state. One source per chart: never merge figures from two sources into one chart. If two chapters disagree, fix the text first; a diagram never picks a side.
+- **Placement:** put the block after the paragraph it illustrates and introduce it with a prose sentence. Never make it the first block of a chapter (`first-block`), because the chapter meta description comes from the first paragraph (section 8). To drop a diagram, delete the block; never wrap it in `<!-- -->`, because the first `-->` arrow inside ends the HTML comment early and the rest of the block leaks into the page.
+- **Width:** keep the natural width (the third number of the cached SVG's root `viewBox`) at or under 1000 px (gate rule `too-wide`), because the SVG never shrinks below 0.75 of it and the reading column is 750 px. Write chains longer than four nodes as `flowchart TD`, keep sequence diagrams to the participants the text needs, and never use `<br/>` inside a label (sequence diagrams wrap their own text).
+- **Allowed types:** `flowchart` (or `graph`), `sequenceDiagram`, `stateDiagram-v2`, `pie`, `quadrantChart`, `xychart` (`xychart-beta` accepted) and `timeline`. `mindmap` and every other type are refused (`type-not-allowed`); write a mindmap candidate as a flowchart.
+- **Accessibility:** every block declares `accTitle:` and `accDescr:` in Indonesian (`missing-acc-title`, `missing-acc-descr`). The renderer injects them into `timeline`, which Mermaid otherwise drops silently.
+- **Flowchart labels:** quote any node label that contains brackets or punctuation (`A["Biaya (Rp)"]`) and quote every edge label (`A -->|"ya"| B`).
+- **xychart strings and numbers:** quote every title, axis title and category (`xychart-unquoted`). Numbers use a dot decimal and no thousands separator: `2170.2`, never `2.170,2`, which renders wrong values with no error (`xychart-decimal`). A number with a dot and exactly three digits after it (`1.500`) is refused as a thousands separator (`xychart-thousands`). Each series has one value per category (`xychart-count`).
+- **Forbidden inside a block:** `{{` (mdBook processes it even inside the SVG, `double-brace`), a straight double quote inside a label (use curly quotes “ ”; the gate enforces this as `straight-quote` in quoted flowchart labels and in the text after `:` in sequence and timeline lines), a Mermaid directive `%%{...}%%` or a front-matter `config:` key, which would override the locked render config (`config-override`), emoji (`emoji`), em dash (`em-dash`), the word "Anda" (`anda`), and `$` (`dollar`).
+- **Example** (assuming the chapter describes these four steps as a repeating cycle):
+  ````markdown
+  ```mermaid
+  flowchart LR
+      accTitle: Siklus PDCA
+      accDescr: Empat tahap PDCA berjalan berurutan dari rencanakan, kerjakan, periksa, sampai tindak lanjuti, lalu kembali ke rencanakan.
+      A["Rencanakan (Plan)"] --> B["Kerjakan (Do)"]
+      B --> C["Periksa (Check)"]
+      C --> D["Tindak lanjuti (Act)"]
+      D -->|"siklus berikutnya"| A
+  ```
+  ````
+- **Workflow:**
+  1. Write the block in the chapter.
+  2. Run `bun run diagrams:render`. It renders only new or changed diagrams with the local Chromium (`PUPPETEER_EXECUTABLE_PATH`, else `/usr/bin/chromium`) and reports rendered, cached and orphaned entries. `--book <slug>` limits it to one book; `--prune` deletes orphans.
+  3. Run `bun run check:diagrams`. It exits 1 on any violation and lists book, file, line and rule id; orphans are warnings. The same gate runs inside `bun run build`.
+  4. Commit the chapter together with `books/<slug>/diagrams/`.
+- **Locked render config:** `scripts/diagrams/render-config.json` and `scripts/diagrams/theme.css` are part of every cache key, together with the diagram source, the pinned `@mermaid-js/mermaid-cli` version, the installed `mermaid` version (read from `bun.lock`) and the source of `scripts/diagrams/postprocess.ts`. Changing either file, upgrading Mermaid, or changing the post-processor renames every cached SVG, so the same change needs a full `bun run diagrams:render` followed by `--prune`. Never edit them for one book's sake.
+- **One SVG for all themes:** text, lines, shapes and backgrounds take their colours from mdBook CSS variables (`--fg`, `--bg`, `--quote-bg`, `--links`), so one SVG follows light, rust, coal, navy and ayu. The first xychart series follows `--links`; pie slices and further xychart series use a fixed 8-colour palette chosen to keep at least 3:1 contrast in all five themes, so avoid a pie with more than 8 slices.
+- **Dispatch requirement:** every authoring or editing dispatch prompt that may add or change a diagram MUST carry this rule in the prompt text itself. Do not assume the subagent has read this file. Paste this contract paragraph:
+  ```text
+  Diagrams (Dawnbook GEMINI.md section 25). A Mermaid diagram is optional and most chapters have none. Add one (at most 3 per chapter) only where this chapter already states a multi-step process, a cycle, a decision, a dated chronology, numbers, or a two-axis classification, and convert any ASCII-art diagram in a code fence into one.
+  Grounding: every node, edge, label and number must be stated in this chapter. Add no new fact, number or causal arrow, use one source per chart, and if chapters disagree, report it instead of drawing one side. Do not repeat the same diagram shape across chapters.
+  Placement: after the paragraph it illustrates, introduced by a prose sentence, never the first block of the chapter.
+  Syntax: a fenced mermaid block of type flowchart, graph, sequenceDiagram, stateDiagram-v2, pie, quadrantChart, xychart or timeline (never mindmap), with accTitle: and accDescr: in Indonesian. Quote flowchart labels that hold brackets or punctuation, A["Biaya (Rp)"], and every edge label. Quote every xychart title, axis title and category, and write numbers as 2170.2, never 2.170,2. Keep the natural width at or under 1000 px: flowchart TD for long chains, no <br/> in labels.
+  Never inside a block: {{, a straight double quote in label text (use curly quotes), a 1.500-style number, a %%{ directive or config: key, emoji, em dash, the word Anda, or $.
+  After writing: run bun run diagrams:render --book <slug>, then bun run check:diagrams --book <slug> until it exits 0, and report each diagram with the chapter line range it summarizes and the new files under books/<slug>/diagrams/.
+  ```
+- **Revert:** remove section 25 from this file. The rule is enforced by `scripts/check-diagrams.ts` (gate) and fed by `scripts/render-diagrams.ts` (renderer); a full revert also removes them, their `package.json` scripts and the build step.
 
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.

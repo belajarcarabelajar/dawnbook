@@ -54,6 +54,17 @@ Kedua sistem ini terus berkolaborasi di dalam pikiran kita. Sistem 1 biasanya me
 
 Namun, saat Sistem 1 menemui hambatan, misalnya ketika harus menghitung perkalian rumit, ia segera meminta bantuan dari Sistem 2 untuk memprosesnya secara logis.
 
+Diagram berikut merangkum dua jalur kerja sama kedua sistem tersebut.
+
+```mermaid
+flowchart LR
+    accTitle: Interaksi Sistem 1 dan Sistem 2
+    accDescr: Sistem 1 menyodorkan kesan spontan, intuisi, dan perasaan ke Sistem 2. Begitu Sistem 2 menyetujuinya, kesan tadi berubah menjadi keyakinan kuat dan tindakan nyata. Saat menemui hambatan, Sistem 1 meminta bantuan Sistem 2 untuk memprosesnya secara logis.
+    S1["Sistem 1"] -->|"kesan spontan, intuisi, perasaan"| S2["Sistem 2"]
+    S2 -->|"menyetujui"| KT["Keyakinan kuat dan tindakan nyata"]
+    S1 -.->|"menemui hambatan, meminta bantuan"| S2
+```
+
 ### Hukum Usaha Minimum (Law of Least Effort)
 
 Secara biologis, otak kita berevolusi untuk menghemat energi. Jika ada beberapa cara untuk mencapai tujuan yang sama, otak akan memilih cara yang paling sedikit menguras tenaga.

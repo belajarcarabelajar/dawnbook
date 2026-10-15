@@ -1,0 +1,10 @@
+sequenceDiagram
+    accTitle: Alur masuk pembaca
+    accDescr: Pembaca mengirim alamat email, server memeriksa sesi, lalu server mengirim tautan masuk kepada pembaca.
+    participant P as Pembaca
+    participant S as Server
+    P->>S: Kirim alamat email
+    S->>S: Periksa sesi
+    S-->>P: Kirim tautan masuk
+    P->>S: Buka tautan
+    S-->>P: Tampilkan bab

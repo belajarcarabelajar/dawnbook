@@ -38,6 +38,18 @@ Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini memper
 
 Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis di mana konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
 
+Keempat era tadi bisa kamu lihat sekaligus dalam lini masa berikut.
+
+```mermaid
+timeline
+    accTitle: Lini masa dari cetak ke piksel
+    accDescr: Sebelum tahun 1990-an iklan bersifat pasif dan massal di TV, radio, koran, dan majalah. Pada 27 Oktober 1994 HotWired menampilkan banner ad pertama milik AT&T dengan CTR 44%. Pada tahun 2000 Google meluncurkan AdWords yang memperkenalkan iklan kontekstual. Sekarang, di era media sosial, iklan juga berdasarkan siapa kamu, minat, dan perilaku kamu.
+    Sebelum 1990-an : Era pra-digital : Iklan pasif dan massal di TV, radio, koran, majalah
+    27 Oktober 1994 : Banner ad pertama milik AT&T tampil di HotWired : CTR mencapai 44%
+    2000 : Google meluncurkan AdWords : Iklan kontekstual
+    Sekarang : Era media sosial (Facebook, Instagram, TikTok) : Iklan berdasarkan siapa kamu, minat, dan perilaku
+```
+
 ## Mengapa Dunia Berpindah ke Digital?
 
 Perpindahan dari media tradisional (seperti baliho atau TV) ke digital didorong oleh beberapa faktor fundamental yang bisa diukur secara matematis. Salah satu metrik utamanya adalah **Return on Investment (ROI)**.

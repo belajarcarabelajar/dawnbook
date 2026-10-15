@@ -1,0 +1,7 @@
+flowchart TD
+    accTitle: Alur belajar satu bab
+    accDescr: Pembaca membaca bab, mengerjakan latihan, lalu menilai pemahaman. Jika belum paham, pembaca kembali membaca bab yang sama.
+    A[Baca bab] --> B[Kerjakan latihan]
+    B --> C{Sudah paham?}
+    C -->|Ya| D[Lanjut ke bab berikutnya]
+    C -->|Belum| A

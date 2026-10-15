@@ -1,0 +1,38 @@
+{
+  "theme": "base",
+  "look": "classic",
+  "layout": "dagre",
+  "htmlLabels": false,
+  "securityLevel": "strict",
+  "fontFamily": "Epilogue, sans-serif",
+  "themeVariables": {
+    "pie1": "#337acf",
+    "pie2": "#cb5323",
+    "pie3": "#148961",
+    "pie4": "#a66d00",
+    "pie5": "#c94c7a",
+    "pie6": "#008d00",
+    "pie7": "#776ec2",
+    "pie8": "#c35656",
+    "pieOpacity": "1",
+    "pieSectionTextColor": "#000000",
+    "xyChart": {
+      "plotColorPalette": "#337acf, #cb5323, #148961, #a66d00, #c94c7a, #008d00, #776ec2, #c35656"
+    }
+  },
+  "flowchart": {
+    "htmlLabels": false,
+    "useMaxWidth": true,
+    "wrappingWidth": 110,
+    "nodeSpacing": 40,
+    "rankSpacing": 30
+  },
+  "sequence": {
+    "width": 130,
+    "actorMargin": 30,
+    "wrap": true
+  },
+  "timeline": {
+    "leftMargin": 10
+  }
+}

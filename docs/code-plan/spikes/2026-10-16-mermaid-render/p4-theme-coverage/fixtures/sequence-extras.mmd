@@ -1,0 +1,25 @@
+sequenceDiagram
+    accTitle: Pesan bernomor dan aktivasi
+    accDescr: Klien mengirim permintaan bernomor ke server yang aktif, server mengambil data dari basis data, lalu server membalas atau gagal.
+    autonumber
+    participant C as Klien
+    participant S as Server
+    participant D as Basis data
+    C->>+S: Kirim permintaan
+    S->>+D: Ambil data
+    D-->>-S: Data
+    S->>S: Susun jawaban
+    critical Koneksi stabil
+        S-)C: Kirim sebagian
+    option Koneksi putus
+        S-xC: Gagal kirim
+    end
+    break Data kosong
+        S-->>C: Tidak ada data
+    end
+    par Bersamaan
+        S-->>C: Jawaban akhir
+    and
+        S-->>D: Catat log
+    end
+    S-->>-C: Selesai

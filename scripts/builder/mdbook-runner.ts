@@ -2,6 +2,7 @@ import { readdir, stat, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 import { $ } from "bun";
 import { BuiltBook, parseBookMetadata } from "./metadata";
+import { inlineDiagramsInBook } from "../diagrams/inline";
 
 export async function prepareBookForMdbook(
   booksDir: string,
@@ -42,6 +43,9 @@ export async function buildAllBooks(
   console.log("Checking media embed support across all books...");
   await $`bun run scripts/check-media-support.ts`;
 
+  console.log("Checking Mermaid diagram blocks across all books...");
+  await $`bun run scripts/check-diagrams.ts`;
+
   const tmpBooksDir = join(process.cwd(), ".build-tmp");
 
   for (const entry of entries) {
@@ -62,6 +66,14 @@ export async function buildAllBooks(
 
       const tmpBookPath = join(tmpBooksDir, entry.name);
       await prepareBookForMdbook(booksDir, tmpBooksDir, entry.name);
+
+      try {
+        const { replaced } = inlineDiagramsInBook(tmpBookPath, bookPath);
+        if (replaced > 0) console.log(`Inlined ${replaced} diagram(s) for ${entry.name}`);
+      } catch (error) {
+        console.error(`Failed to inline diagrams for book: ${entry.name}\n${error instanceof Error ? error.message : error}`);
+        process.exit(1);
+      }
 
       console.log(`Building book: ${entry.name}`);
       const destPath = join(outputBooksDir, entry.name);

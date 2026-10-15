@@ -10,6 +10,36 @@ export interface EmojiMatch {
   lineNumber: number;
   emoji: string;
   lineContent: string;
+  inCodeFence: boolean;
+}
+
+// CommonMark fenced code: 3+ backticks or tildes after at most 3 spaces of indent.
+const FENCE_OPEN_REGEX = /^ {0,3}(`{3,}|~{3,})(.*)$/;
+const FENCE_CLOSE_REGEX = /^ {0,3}(`{3,}|~{3,})[ \t]*$/;
+
+// Marks each line (fence delimiters included) that belongs to a fenced code block.
+export function codeFenceLineMask(lines: string[]): boolean[] {
+  const mask: boolean[] = [];
+  let open: string | null = null;
+  for (const line of lines) {
+    if (open === null) {
+      const m = line.match(FENCE_OPEN_REGEX);
+      // A backtick fence whose info string holds a backtick is inline code, not a fence.
+      if (m && !(m[1][0] === "`" && m[2].includes("`"))) {
+        open = m[1];
+        mask.push(true);
+      } else {
+        mask.push(false);
+      }
+      continue;
+    }
+    mask.push(true);
+    const close = line.match(FENCE_CLOSE_REGEX);
+    if (close && close[1][0] === open[0] && close[1].length >= open.length) {
+      open = null;
+    }
+  }
+  return mask;
 }
 
 export async function scanAndCleanFile(
@@ -21,6 +51,7 @@ export async function scanAndCleanFile(
   try {
     const content = await fs.promises.readFile(filePath, "utf8");
     const lines = content.split("\n");
+    const inFence = codeFenceLineMask(lines);
     let fileModified = false;
 
     const newLines = lines.map((line, index) => {
@@ -33,10 +64,12 @@ export async function scanAndCleanFile(
             lineNumber: index + 1,
             emoji,
             lineContent: line.trim(),
+            inCodeFence: inFence[index],
           });
         });
 
-        if (shouldFix) {
+        // Fenced lines stay byte-identical: diagram labels are the key of their cached SVG.
+        if (shouldFix && !inFence[index]) {
           fileModified = true;
           // Strip emojis and clean double spaces if left behind
           let cleaned = line.replace(EMOJI_REGEX, "").replace(/  +/g, " ");
@@ -180,7 +213,7 @@ async function main() {
       bookMatches.forEach((m) => {
         const relativePath = path.relative(rootDir, m.filePath);
         console.log(
-          `   - ${relativePath}:${m.lineNumber} -> ${m.emoji} | "${m.lineContent}"`,
+          `   - ${relativePath}:${m.lineNumber} -> ${m.emoji} | "${m.lineContent}"${m.inCodeFence ? (shouldFix ? " [code fence, left unchanged, fix by hand]" : " [code fence]") : ""}`,
         );
       });
       allMatches.push(...bookMatches);
