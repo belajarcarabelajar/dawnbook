@@ -2,7 +2,7 @@
 
 Menurut AJA, sejak 2023 anime Jepang menghasilkan lebih banyak uang di luar negeri daripada di negeri asalnya sendiri.
 
-Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Selama puluhan tahun, penonton di luar Jepang diperlakukan sebagai pasar tambahan, tempat menjual ulang serial yang sudah balik modal di dalam negeri. Data terbaru Association of Japanese Animations (AJA) menunjukkan posisi itu sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Bab ini memeriksa apakah semua itu benar-benar berbuah, dan jawabannya ada di neraca.
+Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utama industri ini. Data terbaru Association of Japanese Animations (AJA) menunjukkan posisi itu sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Bab ini memeriksa apakah semua itu benar-benar berbuah, dan jawabannya ada di neraca.
 
 ### Dua Garis yang Akhirnya Bersilangan
 
@@ -15,7 +15,7 @@ Menurut [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2
 | Domestik | 1.670,5 miliar yen | |
 | Selisih luar negeri atas domestik | 499,7 miliar yen | |
 
-Pendapatan luar negeri pada 2024 naik menjadi 126,0% dari tahun sebelumnya. AJA mencatat pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023. Menurut laporan ScreenDaily yang mengutip data AJA, total pasar 2023 mencapai 3,3465 triliun yen, dengan pendapatan luar negeri 1,72 triliun yen di atas domestik 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pernah unggul sekali sebelumnya, yaitu pada 2020. Yang pasti, pada 2024 jarak keduanya melebar menjadi hampir 500 miliar yen.
+Pendapatan luar negeri pada 2024 naik menjadi 126,0% dari tahun sebelumnya. AJA mencatat pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023. Menurut laporan ScreenDaily yang mengutip data AJA, total pasar 2023 mencapai 3,3465 triliun yen, dengan pendapatan luar negeri 1,72 triliun yen di atas domestik 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pertama kali melampaui domestik pada 2020. Yang pasti, pada 2024 jarak keduanya melebar menjadi hampir 500 miliar yen.
 
 ### Lonjakan dalam Dua Belas Tahun
 
@@ -27,7 +27,7 @@ Jika angka 2012 itu disandingkan dengan 2.170,2 miliar yen pada 2024, pertumbuha
 
 Dulu anime sampai ke luar negeri lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar. Dua perusahaan memperlihatkan pergeseran itu paling jelas.
 
-Yang pertama adalah Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, saat layanan itu baru punya 5 juta pelanggan berbayar. Sony kemudian melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia per akhir Maret 2026. Dengan pembelian itu, kelompok usaha Jepang tidak lagi sekadar menjual lisensi kepada platform asing, karena platformnya kini milik sendiri.
+Yang pertama adalah Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, saat layanan itu baru punya 5 juta pelanggan berbayar. Sony kemudian melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia per akhir Maret 2026. Dengan pembelian itu, salah satu platform anime terbesar berada di tangan kelompok Sony.
 
 Yang kedua adalah Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari 50% anggotanya di seluruh dunia menonton anime. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan jumlah penontonnya naik tiga kali lipat dalam lima tahun. Sebanyak 33 judul anime masuk daftar *Global Top 10* kategori non-Inggris pada 2024.
 

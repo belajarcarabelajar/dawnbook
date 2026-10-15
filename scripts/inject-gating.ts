@@ -88,7 +88,8 @@ export function extractLeadText(html: string): string {
   const bodyMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
   if (!bodyMatch) return "";
   const body = bodyMatch[1];
-  const pMatches = [...body.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)];
+  // Match only <p> itself, not <pre>, <param>, <picture>, etc.
+  const pMatches = [...body.matchAll(/<p(?:\s[^>]*)?>([\s\S]*?)<\/p>/gi)];
   if (pMatches.length === 0) return "";
 
   let combined = "";

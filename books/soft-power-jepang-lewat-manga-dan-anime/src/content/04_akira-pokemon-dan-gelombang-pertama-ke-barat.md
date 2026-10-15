@@ -20,7 +20,7 @@ Pintu kedua dibuka oleh sesuatu yang justru sangat ramah anak. Gim *Pokémon* pe
 
 Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime *Pokémon* mulai tayang di AS pada September 1998 di 111 stasiun televisi. Pada tahun yang sama, gim *Red* dan *Blue* juga diluncurkan di AS. Setahun kemudian, pada November 1999, *Pokémon: The First Movie* masuk bioskop Amerika dan menghasilkan angka yang kamu baca di awal bab.
 
-Perhatikan urutannya. Gim, serial televisi, dan film tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
+Perhatikan urutannya. Gim, serial televisi, dan film tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan kemungkinan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
 
 ### Ratusan Juta Eksemplar Manga Shonen
 

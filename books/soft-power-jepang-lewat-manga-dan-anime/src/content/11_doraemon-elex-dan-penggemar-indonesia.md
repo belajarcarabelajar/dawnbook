@@ -10,7 +10,7 @@ Menurut [laporan detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-
 
 Doraemon bertahan di RCTI sekitar 35 tahun. Lalu, dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi. Hilangnya Doraemon dari jadwal itu terasa janggal justru karena kebiasaannya sudah begitu lama. Dalam rentang 35 tahun, anak yang dulu menonton sambil sarapan bisa saja sudah punya anak sendiri.
 
-Pengulangan seperti inilah yang membuat soft power bekerja pelan tapi dalam. Tidak ada kampanye yang menyuruh kamu menyukai Nobita. Kamu hanya terbiasa melihatnya setiap pekan, dan kebiasaan itu lama-lama menjadi rasa akrab.
+Pengulangan seperti ini bisa jadi cara soft power bekerja, pelan tapi dalam. Tidak ada kampanye yang menyuruh kamu menyukai Nobita. Kamu hanya terbiasa melihatnya setiap pekan, dan kebiasaan itu lama-lama menjadi rasa akrab.
 
 ### Komik Berlisensi dari Penerbit Buku Komputer
 
@@ -36,7 +36,7 @@ Soal jumlah pengunjung, analisis KAORI Nusantara memperkirakan sekitar 20 ribu o
 
 Pengolahan itu juga terlihat pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati menelitinya dalam artikel "Dari Soft Power Jepang hingga Hijab Cosplay" di *Jurnal Masyarakat dan Budaya* 17(3) tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Rastati mencatat bahwa Jepang membangun ulang citranya setelah perang lewat anime, manga, dan cosplay.
 
-Penelitian lapangannya berfokus pada anak muda Muslim yang melakukan cosplay berhijab. Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan tidak berdekatan atau bersentuhan dengan lawan jenis saat berfoto. Temuan ini menunjukkan bahwa daya tarik budaya tidak diterima mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
+Penelitian lapangannya berfokus pada anak muda Muslim yang melakukan cosplay berhijab. Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Temuan ini menunjukkan bahwa daya tarik budaya tidak diterima mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
 
 ### Rekor Pelancong ke Jepang
 
@@ -46,13 +46,13 @@ Angka ini menggoda untuk dikaitkan langsung dengan anime, tetapi belum ada sumbe
 
 ### Tangan Indonesia di Balik Layar Studio
 
-Cerita terakhir bergerak ke arah sebaliknya. Orang Indonesia tidak hanya menonton, tetapi juga ikut bekerja di dalam industri. Menurut laporan Animenomics pada Juni 2025, Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Laporan yang sama menyebut Studio Ubud di Jakarta pernah bekerja sama dengan studio Pierrot untuk *Bleach* dan *One Piece*.
+Cerita terakhir bergerak ke arah sebaliknya. Orang Indonesia tidak hanya menonton, tetapi juga ikut bekerja di dalam industri. Menurut laporan Animenomics pada Juni 2025, Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Laporan yang sama menyebut Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
 
 Bagi soft power Jepang, ini lapisan yang menarik. Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
 
 ### Key Takeaways
 
-- Doraemon tayang di RCTI sejak hak siarnya diambil alih pada 9 Desember 1990 dan bertahan sekitar 35 tahun, cukup lama untuk membentuk rasa akrab lintas generasi.
+- Doraemon tayang di RCTI sejak hak siarnya diambil alih pada 9 Desember 1990 dan bertahan sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
 - Elex Media Komputindo, yang awalnya penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
 - Indonesia menempati peringkat kedua dunia untuk jumlah pelajar bahasa Jepang dan peringkat pertama untuk jumlah lembaganya.
 - Comifuro tumbuh dari sekitar 35 circle pada 2012 menjadi lebih dari 1.500 pada 2026, sementara cosplay berhijab menunjukkan cara penggemar menafsirkan ulang budaya Jepang.

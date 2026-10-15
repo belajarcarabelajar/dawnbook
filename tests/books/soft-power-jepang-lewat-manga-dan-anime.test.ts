@@ -12,6 +12,22 @@ function contentFiles(): string[] {
   return fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".md")).sort() : [];
 }
 
+function sourceTableUrls(notes: string): string[] {
+  const rows = sourceTableSection(notes).filter((l) => l.startsWith("| "));
+  const isSeparator = (l: string) => /^\|[\s:|-]+$/.test(l.trim());
+  const dataRows = rows.slice(1).filter((l) => !isSeparator(l));
+  return extractUrls(dataRows.join("\n"));
+}
+
+function sourceTableSection(notes: string): string[] {
+  const lines = notes.split("\n");
+  const start = lines.findIndex((l) => l.startsWith("## 9. Source table"));
+  if (start < 0) return [];
+  const rest = lines.slice(start + 1);
+  const end = rest.findIndex((l) => l.startsWith("## "));
+  return end < 0 ? rest : rest.slice(0, end);
+}
+
 describe("book soft-power-jepang-lewat-manga-dan-anime", () => {
   test("has 12 content chapters plus Referensi with no structural problems", () => {
     const result = checkBookStructure(BOOK);
@@ -32,8 +48,35 @@ describe("book soft-power-jepang-lewat-manga-dan-anime", () => {
     }
   });
 
+  test("source table allowlist ignores URLs mentioned only in prose", () => {
+    const notes = [
+      "## 8. Prose",
+      "See https://example.com/prose-only for context.",
+      "",
+      "## 9. Source table (only these URLs)",
+      "",
+      "| ID | Source | URL |",
+      "|---|---|---|",
+      "| A1 | First | https://example.com/a1 |",
+      "| B2 | Second | https://example.com/b2 |",
+      "",
+      "Footnote mentioning https://example.com/after-table in prose.",
+      "",
+      "## 10. Later",
+      "| Z9 | Out of section | https://example.com/z9 |",
+    ].join("\n");
+    expect(sourceTableUrls(notes).sort()).toEqual(["https://example.com/a1", "https://example.com/b2"]);
+  });
+
+  test("source table allowlist has one URL per data row of the real notes table", () => {
+    const notes = fs.readFileSync(NOTES, "utf-8");
+    const dataRows = sourceTableSection(notes).filter((l) => /^\| [A-Z][0-9a-z]* \|/.test(l)).length;
+    expect(dataRows).toBe(71);
+    expect(new Set(sourceTableUrls(notes)).size).toBe(dataRows);
+  });
+
   test("every URL in the book comes from the research notes source table", () => {
-    const allowed = new Set(extractUrls(fs.readFileSync(NOTES, "utf-8")));
+    const allowed = new Set(sourceTableUrls(fs.readFileSync(NOTES, "utf-8")));
     const used = contentFiles().flatMap((f) => extractUrls(fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8")));
     expect(used.length).toBeGreaterThan(20);
     expect(used.filter((u) => !allowed.has(u))).toEqual([]);

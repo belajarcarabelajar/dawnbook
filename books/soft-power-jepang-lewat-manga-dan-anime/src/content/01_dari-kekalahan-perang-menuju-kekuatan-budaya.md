@@ -42,7 +42,7 @@ Coba renungkan maknanya. Negara yang dulu dinilai Nye kurang memikat secara buda
 
 ### Sebelas Perhentian Berikutnya
 
-Bab 2 mundur ke awal mula, ketika *Tetsuwan Atom* atau Astro Boy menjadi serial anime televisi. Bab 3 membedah *media mix* dan komite produksi, mesin bisnis yang membuat satu tokoh hidup di komik, layar, dan mainan sekaligus. Bab 4 mengikuti gelombang besar pertama ke arus utama Barat lewat Akira dan Pokémon. Bab 5 menyorot para penggemar yang menyebarkan anime ketika pemegang hak di Jepang sudah meninggalkan pasar Amerika.
+Bab 2 mundur ke awal mula, ketika *Tetsuwan Atom* atau Astro Boy menjadi serial anime televisi. Bab 3 membedah *media mix* dan komite produksi, mesin bisnis yang membuat satu tokoh hidup di komik, layar, dan mainan sekaligus. Bab 4 mengikuti gelombang besar pertama ke arus utama Barat lewat Akira dan Pokémon. Bab 5 menyorot para penggemar yang, menurut peneliti Sean Leonard, menyebarkan anime ketika pemegang hak di Jepang sudah meninggalkan pasar Amerika.
 
 Bab 6 masuk ke diplomasi pop Kementerian Luar Negeri, sementara bab 7 menghitung uang negara di balik program Cool Japan. Bab 8 membaca angka pasar saat luar negeri melampaui domestik, dan bab 9 membahas manga digital serta perang melawan pembajakan. Bab 10 mengikuti penggemar yang berangkat ke lokasi nyata di balik adegan anime. Bab 11 pulang ke Indonesia, dari Doraemon di televisi Minggu pagi sampai penerbit Elex Media. Bab 12 menutup dengan harga di balik semua kesuksesan itu, termasuk yang dibayar para animator.
 

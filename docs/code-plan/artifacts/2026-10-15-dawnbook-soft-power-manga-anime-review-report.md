@@ -47,3 +47,16 @@ The fixes followed the reviewers' suggested replacements; the parent re-read eve
 - `scripts/check-copy-rules.mjs` referenced by the review templates does not exist in this repository.
 
 Not read: second review round on the fixed text (not run; fixes were applied verbatim from the findings and re-gated).
+
+## Second review round (follow-up F1, after PR #145 opened)
+
+A fourth staid reviewer re-read all 13 chapters. Verdict before fixes: not correct (2 P1, 13 P2).
+
+| ID | File | Finding | Resolution |
+|---|---|---|---|
+| S1 (P1) | 05_penggemar-sebagai-duta-tak-resmi.md | Three sentences stated that today's services absorbed the fan-built audience; no notes item links them | Clauses removed or rewritten ("layanan resmi hadir dengan skala yang jauh lebih besar"); section heading renamed to "Layanan Resmi Berskala Besar" |
+| S2 (P1) | 10_dari-layar-ke-perjalanan.md | The term *seichi junrei* and its translation are not in the notes | Term removed in both places; the section now describes the visited places directly |
+
+P2 fixes: chapter 05 opener attributed to Sean Leonard (also in the chapter 01 roadmap) and the "who translated" question no longer contradicts chapters 02 and 04; chapter 08 "pasar tambahan" history, "unggul sekali" and the Sony platform inference replaced with note-backed wording; chapter 07 Spiber amount phrased as related to the loss and the office-to-fund causal link removed; chapter 03 Pokémon introduced as a cross-media launch, not a committee title, and the diplomacy effect hedged; chapter 04 "saling mendorong" hedged; chapter 11 two soft-power claims hedged, the hijab cosplay finding narrowed to "menghindari kontak dekat", and the Studio Ubud sentence no longer implies Pierrot made One Piece; chapter 12 state role phrased as "mencoba ikut mendorong".
+
+Re-verification: the checker caught one regression introduced by the fix (chapter 05 opener grew to 157 characters with the attribution) and it was shortened to 148; then `bun run scripts/check-book-structure.ts soft-power-jepang-lewat-manga-dan-anime` exit 0 (0 problems), `bun run check:headings` exit 0, `bun run scripts/check-repeated-headings.ts` exit 0, `bun run build` exit 0 with SEO R1-R7 passed, full `bun test` exit 0 (465 pass, 0 fail, 478 tests). No third reviewer round was run.

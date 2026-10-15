@@ -40,7 +40,7 @@ Persoalannya menyentuh akar yang sama dengan bagian upah tadi. Gaya visual yang 
 
 ### Penutup
 
-Kalau kamu menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemar: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Negara datang belakangan, memperkuat lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
+Kalau kamu menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemar: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
 
 Kritik Koichi Iwabuchi juga patut diingat. Diplomasi budaya pop Jepang, menurutnya, cenderung menjadi proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh. Daya tarik yang hanya dipancarkan, tanpa mendengar, mudah berubah menjadi sekadar kampanye citra.
 

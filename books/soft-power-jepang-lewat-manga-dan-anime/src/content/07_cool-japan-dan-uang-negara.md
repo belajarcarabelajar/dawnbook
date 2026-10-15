@@ -8,7 +8,7 @@ Bab-bab sebelumnya banyak bicara soal citra dan daya tarik. Di bab ini kamu akan
 
 Langkah kelembagaan awal datang dari Kementerian Ekonomi, Perdagangan, dan Industri (METI). Menurut tajuk rencana *Japan Times* edisi 15 Agustus 2010, METI membentuk Kantor Promosi Industri Kreatif (*Creative Industries Promotion Office*) pada Juni 2010. Kantor ini ditempatkan di Biro Industri Manufaktur dan bertugas mengoordinasikan promosi industri budaya, seperti desain, animasi, mode, dan film, lintas lembaga pemerintah.
 
-Penempatan itu cukup bercerita. Budaya pop diperlakukan sebagai industri, setara dengan barang manufaktur yang bisa diekspor. Logika inilah yang kemudian melahirkan alat yang jauh lebih besar dan jauh lebih mahal.
+Penempatan itu cukup bercerita. Budaya pop diperlakukan sebagai industri, setara dengan barang manufaktur yang bisa diekspor. Tiga tahun kemudian, negara menyiapkan alat yang jauh lebih besar dan jauh lebih mahal.
 
 ### Dana Patungan yang Hampir Seluruhnya Milik Negara
 
@@ -31,7 +31,7 @@ Setelah teguran itu, angkanya tidak membaik.
 | Rugi bersih tahun fiskal 2025 | 15,7 miliar yen |
 | Kerugian kumulatif akhir Maret 2026 | 54 miliar yen |
 
-Salah satu penyebab rugi besar itu adalah investasi sekitar 14 miliar yen di perusahaan Spiber. Lalu, pada 21 Agustus 2026, *Mainichi* melaporkan, dengan mengutip sumber pemerintah, bahwa pemerintah telah memutuskan untuk membubarkan dana tersebut. NHK melaporkan pada 24 Agustus 2026 bahwa keputusan panel ahli diperkirakan keluar sekitar akhir tahun. Jadi pembubaran itu diputuskan menurut sumber pemerintah, tetapi prosesnya belum rampung.
+Salah satu penyebab rugi besar itu, sekitar 14 miliar yen, berkaitan dengan perusahaan Spiber. Lalu, pada 21 Agustus 2026, *Mainichi* melaporkan, dengan mengutip sumber pemerintah, bahwa pemerintah telah memutuskan untuk membubarkan dana tersebut. NHK melaporkan pada 24 Agustus 2026 bahwa keputusan panel ahli diperkirakan keluar sekitar akhir tahun. Jadi pembubaran itu diputuskan menurut sumber pemerintah, tetapi prosesnya belum rampung.
 
 Kegagalan ini tidak otomatis berarti budaya pop Jepang gagal di luar negeri. Yang gagal adalah satu cara tertentu memakai uang negara, yaitu menanam modal langsung dan berharap untung seperti investor swasta.
 

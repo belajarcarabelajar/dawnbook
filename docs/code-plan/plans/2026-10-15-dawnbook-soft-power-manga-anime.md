@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-15-dawnbook-soft-power-manga-anime
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -176,8 +176,44 @@ tasks:
     idempotency_key: "D1:pull-request"
     skip_if: "false"
     verify_exit: 0
-  - id: S1
+  - id: F1
     depends_on: [D1]
+    impacts: ["chapter text of the new book - bun run scripts/check-book-structure.ts soft-power-jepang-lewat-manga-dan-anime"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "F1:second-review"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F2
+    depends_on: [D1]
+    impacts: ["meta description of every built chapter page whose first block is a <pre> - bun run build", "SERP tests - bun test tests/serp-description.test.ts"]
+    files: { create: [], modify: [scripts/inject-gating.ts, tests/serp-description.test.ts], test: [tests/serp-description.test.ts] }
+    idempotency_key: "F2:pre-tag-lead-text"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/serp-description.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: F3
+    depends_on: [D1]
+    impacts: ["URL allowlist of the new book test - bun test tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts"]
+    files: { create: [], modify: [tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts], test: [tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts] }
+    idempotency_key: "F3:allowlist-table-rows"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: F4
+    depends_on: [D1]
+    impacts: ["meta descriptions of 4 chapters of psikologi-di-balik-keputusan-finansial-kita - bun run scripts/check-book-structure.ts psikologi-di-balik-keputusan-finansial-kita"]
+    files: { create: [], modify: [books/psikologi-di-balik-keputusan-finansial-kita/src/content/02_dua-sistem-di-balik-keputusan-uang.md, books/psikologi-di-balik-keputusan-finansial-kita/src/content/09_terlalu-percaya-diri-di-pasar.md, books/psikologi-di-balik-keputusan-finansial-kita/src/content/11_jebakan-status-quo-dan-kekuatan-default.md, books/psikologi-di-balik-keputusan-finansial-kita/src/content/12_merancang-pertahanan-keputusan-baik-otomatis.md], test: [] }
+    idempotency_key: "F4:psikologi-openers"
+    skip_if: "false"
+    verify_exit: 0
+  - id: S1
+    depends_on: [D1, F1, F2, F3, F4]
     impacts: ["learning ledger and memory - docs/code-plan/artifacts/2026-10-15-dawnbook-soft-power-manga-anime-learning-ledger.md"]
     files: { create: [docs/code-plan/artifacts/2026-10-15-dawnbook-soft-power-manga-anime-learning-ledger.md], modify: [], test: [] }
     idempotency_key: "S1:debt-sweep"
@@ -187,7 +223,7 @@ tasks:
 
 # Plan: Dawnbook book on Japan's global cultural promotion through manga and anime
 
-Status: Approved
+Status: Complete
 Session: dawnbook-soft-power-manga-anime
 Branch: 2026-10-15-dawnbook-soft-power-manga-anime/dawnbook-soft-power-manga-anime
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-soft-power-manga-anime
@@ -210,8 +246,12 @@ Classification: Bounded (new book through the existing book flow; plan file requ
 - [x] References: Referensi chapter with verified deep links only, every URL present in the research notes. Evidence: 71 entries = 71 rows of research notes section 9; book test `every URL in the book comes from the research notes source table` passes (0 URLs outside the table); 2008 and 2009 MOFA pages cited via Internet Archive copies (live pages 404).
 - [x] Gates (V2): `bun run check:headings`, `bun run scripts/check-repeated-headings.ts`, `bun run build` exit 0 with SEO validation passed. Evidence: first build exit 0 but the built index.html meta was truncated (book.toml description 156 chars > 155 cap); fixed test-first (new checker test RED 15 pass 1 fail, GREEN after the book.toml check; book test RED on the 156-char description, GREEN after shortening to 154); second run: check:headings exit 0 (0 violations, 58 books), check-repeated-headings exit 0, `bun run build` exit 0 with `Successfully built: soft-power-jepang-lewat-manga-dan-anime` and `SEO Validation passed! All rules (R1-R7)`, warnings only the 58 pre-existing optional `mdbook-dawnbook` notices; built meta: index 154 chars untruncated, chapters 98-143 chars all complete sentences; full `bun test` exit 0, 446 pass 0 fail (459 tests, 52 files); build regenerated functions/lib/built-stats.ts (Iwan Kurniawan 47 -> 48 books).
 - [x] Review (V3): independent reviewer audit, findings resolved, report saved as an artifact. Evidence: 3 parallel staid reviewers (code: correct, 3 P2; chapters 01-06: not correct, 2 P1; chapters 07-13: correct, 13 P2); both P1 fixed (ch05 scanlation paragraph removed, Leonard claim scoped to 1976-1993) plus all P2/P3 text fixes; checker hardened test-first by a chef subagent (31 unit tests, mutation-checked) and parent-audited (read in full, em dash detector escaped as \u2014); re-run: focused tests exit 0 (40 pass, 0 fail), check-book-structure exit 0 (13 chapters, 0 problems), check:headings exit 0, check-repeated-headings exit 0, `bun run build` exit 0 with SEO R1-R7 passed, full `bun test` exit 0 (461 pass, 0 fail, 474 tests), built meta 98-154 chars none truncated; report at docs/code-plan/artifacts/2026-10-15-dawnbook-soft-power-manga-anime-review-report.md.
-- [ ] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry.
-- [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision.
+- [x] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry. Evidence: commit 5ab0743 (author and committer Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer, 28 files staged by explicit path); `git push -u origin <branch>` new branch; `gh pr create --body-file` -> https://github.com/belajarcarabelajar/dawnbook/pull/145; `pr-registry pr dawnbook-soft-power-manga-anime --number 145` exit 0, state open; `gh pr view 145` OPEN, MERGEABLE, +1958/-3, head 5ab0743. Harness attribution lines (Co-Authored-By, Generated with) were not added because GEMINI.md section 18 and the owner's workflow block require no co-author trailer and no footer.
+- [x] Follow-up F1 (N1): second review round on the chapter text. Evidence: staid verdict not correct (2 P1, 13 P2) on the post-review text; all fixed; checker caught a 157-char opener introduced by a fix, shortened to 148; checker exit 0 (13 chapters, 0 problems), check:headings exit 0, check-repeated-headings exit 0, build exit 0 with SEO R1-R7, full `bun test` exit 0 (465 pass, 0 fail); report section "Second review round" in the review-report artifact.
+- [x] Follow-up F2 (N2): extractLeadText reads only <p>, not <pre>. Evidence: reproduction printed "bun install Paragraf pertama." before; RED `bun test tests/serp-description.test.ts` exit 1 (7 pass, 1 fail); GREEN exit 0 (8 pass); regex `/<p(?:\s[^>]*)?>([\s\S]*?)<\/p>/gi`; old vs new function on all 795 built pages: 0 lead-text differences (the 195 pages with a <pre> reach 100 chars before it); build exit 0 with SEO R1-R7; parent `git diff` shows 1 regex line plus 2 tests.
+- [x] Follow-up F3 (N3): book test allowlist built from section 9 table rows only. Evidence: RED with a prose-URL fixture (4 pass, 1 fail, 3 extra URLs admitted), GREEN `bun test tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts` exit 0 (5 pass); allowlist = 71 URLs = 71 data rows.
+- [x] Follow-up F4 (N4): 4 truncated openers in psikologi-di-balik-keputusan-finansial-kita fixed line by line (Edit tool only). Evidence: checker before exit 1 (4 problems), after exit 0 (13 chapters, 0 problems); built metas 106-153 chars, complete sentences; parent diff shows one line changed per file; committed under Kania Salsabila with the Co-authored-by Iwan trailer (GEMINI.md section 18, the book's author).
+- [x] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision. Evidence: 10 debts found, 4 closed by F1-F4 (owner selected all four), 6 deferred as L1-L6 with `defer:` lines; learning ledger docs/code-plan/artifacts/2026-10-15-dawnbook-soft-power-manga-anime-learning-ledger.md (4 KEEP rules written to project memory: chapter-opener-155-cap updated, new-book-authoring-traps added); runner `--execute` exit 0 (T0, V2, F2, F3 PASSED, Error Ledger empty), `plan-mark-done --from` 0 open step boxes; readiness NEEDS-HUMAN (all tasks UNPROVEN, sentinel skip_if); Close plan gate answered Mark Complete. Graphify sync runs after this commit (recorded in the final report).
 
 ## Active Project Profile
 
@@ -278,7 +318,15 @@ flowchart TD
     V1 --> V2["V2: gates"]
     V2 --> V3["V3: independent review"]
     V3 --> D1["D1: pull request"]
-    D1 --> S1["S1: debt sweep"]
+    D1 --> F1["F1: second review"]
+    D1 --> F2["F2: pre tag meta fix"]
+    D1 --> F3["F3: allowlist from table"]
+    D1 --> F4["F4: psikologi openers"]
+    F1 --> S1["S1: debt sweep"]
+    F2 --> S1
+    F3 --> S1
+    F4 --> S1
+    D1 --> S1
 ```
 
 ## 2b. Affected Surfaces
@@ -393,6 +441,18 @@ Independent reviewer (staid) audits the diff and the facts against the research 
 ### Task D1
 Commit as Iwan Kurniawan without a co-author trailer, push the session branch, open the PR with `--body-file`, register the PR number.
 
+### Task F1
+Follow-up N1 (owner selected 2026-10-15): a staid reviewer re-reads the 13 chapters after the review fixes; any P0/P1 is fixed and re-gated.
+
+### Task F2
+Follow-up N2: test-first fix so extractLeadText in scripts/inject-gating.ts reads only <p> elements, not <pre>; build and SEO validation stay green, and the set of built pages whose meta changes is listed.
+
+### Task F3
+Follow-up N3: the new book test reads its URL allowlist from the research notes section 9 table rows only.
+
+### Task F4
+Follow-up N4: line-by-line rewrite of the first sentence of 4 psikologi chapters so the meta description keeps a complete sentence (GEMINI.md sections 8 and 16); checker reports 0 problems for that book.
+
 ### Task S1
 Debt sweep, learning ledger, graphify sync, plan closeout decision.
 
@@ -402,3 +462,24 @@ Debt sweep, learning ledger, graphify sync, plan closeout decision.
 - Yen amounts are written in Indonesian style ("3,84 triliun yen"), USD as "1,175 miliar dolar AS".
 - 2025 JNTO figures are estimates as of 21 Jan 2026 and are labelled as such.
 - The Cool Japan Fund dissolution is reported as a government decision per sources (Mainichi 21 Aug 2026), not as completed.
+
+## Follow-up Backlog
+
+Debt sweep 2026-10-15: 10 debts found. NOW candidates (offered in the sweep question): N1-N4. LATER items carry `defer:` lines.
+
+- [x] N1 Second review round on the fixed chapter text (fixes after V3 were applied from the findings and re-gated, but no reviewer re-read them). Finish line: a staid reviewer reports 0 P0/P1 on the 13 chapters.
+- [x] N2 scripts/inject-gating.ts `extractLeadText` regex `<p[^>]*>` also matches `<pre>`, leaking code into live meta descriptions. Finish line: failing test in tests/serp-description.test.ts, regex fixed, `bun run build` exit 0 with SEO R1-R7.
+- [x] N3 tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts allowlist reads every URL in the notes file, not only section 9 rows (code review P3). Finish line: allowlist parsed from table rows only; test still passes.
+- [x] N4 books/psikologi-di-balik-keputusan-finansial-kita: 4 chapter openers truncated in the meta description (09, 11, 12 and one more). Finish line: `bun run scripts/check-book-structure.ts psikologi-di-balik-keputusan-finansial-kita` reports 0 opener problems.
+- [ ] L1 56 other books fail the new checker (259 truncated openers, 58 title mismatches, 29 headings repeated in two chapters). `defer: per-book cleanup sessions (line-by-line, GEMINI.md section 16), before L2`
+- [ ] L2 Wire scripts/check-book-structure.ts into `bun run build`. `defer: after L1 leaves 0 problems in every book`
+- [ ] L3 Checker blind spots: loose lists (items rendered as <p>), setext headings, images, inline math in the lead. `defer: next checker change, when a book uses one of these in its opener`
+- [ ] L4 58 optional `mdbook-dawnbook` preprocessor warnings during build. `defer: environment setup, when the preprocessor output is needed`
+- [ ] L5 Time-sensitive facts: JNTO 2025 figures are estimates (21 Jan 2026), Cool Japan Fund dissolution is a reported decision, Crunchyroll 21 million (May 2026). `defer: content refresh, when JNTO publishes final 2025 figures or the fund dissolution completes, or on 2027-04-15`
+- [ ] L6 vivera templates reference `scripts/check-copy-rules.mjs`, which does not exist in this repository; scratch files from this session sit in /tmp (rm is denied to the agent). `defer: vivera template session; owner cleanup of /tmp any time`
+
+## Closeout status
+
+- Decision: Mark Complete (owner, `Close plan` gate, 2026-10-15), recorded on the session branch before the merge of PR #145.
+- Readiness: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-15-dawnbook-soft-power-manga-anime.md` exit 3, verdict `NEEDS-HUMAN`, open NOW follow-ups 0, open step boxes 0. All 25 tasks are `UNPROVEN` because every task uses the `skip_if: "false"` sentinel; the evidence for each task is in the checklist above. Runner `--execute` (after `plan-publish.mjs` wrote the vault mirror) exit 0 with T0, V2, F2 and F3 PASSED.
+- Post-plan operations, owner-gated: merge PR #145, deploy (GEMINI.md section 19), D1 seed, GSC reindex, plan-issue-sync.

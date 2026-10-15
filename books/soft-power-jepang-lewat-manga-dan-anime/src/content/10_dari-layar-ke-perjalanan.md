@@ -6,7 +6,7 @@ Bayangkan kamu sendiri berdiri di situ. Kamu datang jauh-jauh bukan untuk kuil a
 
 ### Ziarah ke Tempat yang Pernah Dilihat
 
-Penggemar Jepang punya istilah untuk kebiasaan ini, yaitu *seichi junrei*, secara harfiah "ziarah ke tanah suci". Tentu saja tanah suci yang dimaksud bukan tempat ibadah. Ia adalah stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Bagi penggemar, mengunjunginya adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya ada di layar kini punya alamat yang bisa didatangi.
+Tempat yang didatangi penggemar sering kali bukan tempat istimewa. Ia bisa berupa stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Bagi penggemar, mengunjungi lokasi seperti ini adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya ada di layar kini punya alamat yang bisa didatangi.
 
 Prosesnya bisa berjalan tanpa rencana dari siapa pun. Bayangkan seorang penggemar mengenali latar sebuah adegan, mengunggah foto perbandingan, lalu orang lain mengikuti jejaknya. Lama-lama sebuah kota kecil yang tidak pernah masuk brosur wisata mendapati jalanannya dipenuhi tamu dari jauh. Di titik inilah soft power bisa berubah wujud: daya tarik budaya yang semula abstrak berpotensi menjadi kereta yang penuh, kamar penginapan yang terisi, dan toko yang laku.
 
@@ -38,7 +38,7 @@ Menurut [Asahi Shimbun](https://www.asahi.com/ajw/articles/16224812), Kamakura m
 
 ### Gagasan Utama
 
-*Seichi junrei* menunjukkan bahwa soft power tidak berhenti di layar. Cerita yang disukai membuat orang mau menempuh perjalanan jauh, dan perjalanan itu bisa membawa tamu ke kota yang sebelumnya luput dari perhatian. Gejala ini kemudian mendapat bentuk yang lebih tertata: daftar 88 titik, taman bertema, dan dukungan promosi konten seperti J-LOD.
+Wisata anime menunjukkan bahwa soft power tidak berhenti di layar. Cerita yang disukai membuat orang mau menempuh perjalanan jauh, dan perjalanan itu bisa membawa tamu ke kota yang sebelumnya luput dari perhatian. Gejala ini kemudian mendapat bentuk yang lebih tertata: daftar 88 titik, taman bertema, dan dukungan promosi konten seperti J-LOD.
 
 Namun Kamakura mengingatkan bahwa popularitas punya ongkos. Kota yang menerima tamu juga harus mengatur mereka, dan warga setempat ikut menanggung keramaian. Keberhasilan wisata anime diukur dari seberapa baik keduanya seimbang, bukan hanya dari jumlah kunjungan.
 

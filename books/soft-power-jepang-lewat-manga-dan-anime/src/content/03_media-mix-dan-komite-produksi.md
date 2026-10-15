@@ -34,11 +34,11 @@ Urutan ini tidak harus selalu dimulai dari gim. Pada judul lain, titik awalnya b
 
 ### Mitra yang Mendorong Bersamaan
 
-Ketika banyak mitra berkepentingan pada satu judul, masing-masing bisa mendorongnya lewat salurannya sendiri, termasuk ke luar negeri. Menurut [halaman sejarah The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime Pokémon diluncurkan di Amerika Serikat pada September 1998 di 111 stasiun, berbarengan dengan peluncuran gim Red dan Blue di sana. Anak yang mengenal tokohnya dari televisi bisa langsung menemukannya di konsol, dan sebaliknya.
+Ketika banyak mitra berkepentingan pada satu judul, masing-masing bisa mendorongnya lewat salurannya sendiri, termasuk ke luar negeri. Peluncuran lintas media Pokémon memberi gambaran seperti apa dorongan serentak itu. Menurut [halaman sejarah The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime Pokémon diluncurkan di Amerika Serikat pada September 1998 di 111 stasiun, berbarengan dengan peluncuran gim Red dan Blue di sana. Anak yang mengenal tokohnya dari televisi bisa langsung menemukannya di konsol, dan sebaliknya.
 
 Bandingkan dengan satu studio yang harus menawarkan karyanya sendirian ke pasar asing. Tanpa penerbit, produsen mainan, dan perusahaan gim yang ikut bergerak, sebuah serial hanya punya satu pintu. Dengan komite, satu judul datang membawa banyak pintu sekaligus.
 
-Dari sudut pandang *soft power*, inilah bagian yang paling penting. Penonton di luar Jepang jarang bertemu Jepang lewat satu pengalaman saja. Mereka menonton serialnya, memainkan gimnya, mengoleksi mainannya, lalu menyanyikan lagu temanya. Setiap sentuhan kecil itu menambah rasa akrab, dan rasa akrab adalah bahan baku daya tarik yang dibahas di bab 1. Anggota komite bergerak karena kepentingan dagang, tetapi gerak serentak itu menghasilkan efek yang mirip diplomasi budaya.
+Dari sudut pandang *soft power*, inilah bagian yang paling penting. Penonton di luar Jepang jarang bertemu Jepang lewat satu pengalaman saja. Mereka menonton serialnya, memainkan gimnya, mengoleksi mainannya, lalu menyanyikan lagu temanya. Setiap sentuhan kecil itu menambah rasa akrab, dan rasa akrab adalah bahan baku daya tarik yang dibahas di bab 1. Anggota komite bergerak karena kepentingan dagang, tetapi gerak serentak itu bisa menghasilkan efek yang mirip diplomasi budaya.
 
 ### Benang Merah
 
