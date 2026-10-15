@@ -396,5 +396,9 @@ async function processDirectory(
 }
 
 if (import.meta.main) {
-  processDirectory(join(process.cwd(), "output/books")).catch(console.error);
+  processDirectory(join(process.cwd(), "output/books")).catch((error) => {
+    // A zero exit would let `bun run build` ship pages without SEO and paywall markup.
+    console.error(error);
+    process.exit(1);
+  });
 }
