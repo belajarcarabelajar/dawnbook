@@ -59,7 +59,7 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **`<div>` Wrapping Does NOT Stop Escape Processing (measured 2026-10-12, mdBook v0.5.4):** The HTML block opened by `<div>` ends at the first blank line, so the `$$` lines are parsed as a normal Markdown paragraph, where a backslash before ASCII punctuation is removed: `\,` renders as a comma, `\\` becomes a single backslash (so `\begin{cases}` rows collapse), and `\{` becomes `{`. `\text{\%}` still works only because it becomes `\text{%}`, which MathJax shows as a literal percent.
   - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
-  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; `scripts/build.ts` automatically pre-processes `$ ... $` into `\\( ... \\)` for mdBook compilation.
+  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; MathJax, configured in `books/_template/theme/head.hbs`, renders `$ ... $` in the browser, and the build does not rewrite it.
   2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files.
      - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
        ```markdown

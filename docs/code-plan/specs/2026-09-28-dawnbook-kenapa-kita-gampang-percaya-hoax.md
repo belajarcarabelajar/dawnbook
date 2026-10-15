@@ -49,7 +49,7 @@ Derived from the repository, not asked from the user.
 - Every chapter opens with `##` (H2), never `#` (H1) (Phase B, header rule).
 - `SUMMARY.md`: plain text, no emoji, one `- [` entry per module (R7, R9).
 - Zero emoji in any `src/content/*.md` and `SUMMARY.md`; only `icon.txt` may hold an emoji (R22).
-- Zero em-dash (`—`) anywhere in chapter text (R7.7.7).
+- Zero em-dash (U+2014) anywhere in chapter text (R7.7.7).
 - Inline math `\\( ... \\)`, block math single-line `\\[ ... \\]`, multi-letter vars in `\text{}` (R10, R15).
 - Pronoun "kamu", not "Anda"; avoid AI cliches; rich markdown (tables, blockquotes, lists) (R7.7).
 - `src/introduction.md` and any raw/temporary files deleted after authoring.
@@ -63,29 +63,29 @@ The 12 modules follow a deliberate learning arc: phenomenon → anatomy → cogn
 → amplifiers → persistence → defenses → references. Each module's core theory and anchor
 sources (to be re-verified during authoring):
 
-1. **Pengantar: Fenomena Hoaks di Era Digital** — scope, why the topic matters, how false
+1. **Pengantar: Fenomena Hoaks di Era Digital**: scope, why the topic matters, how false
    news spreads faster than truth online (Vosoughi, Roy & Aral, 2018, *Science*).
-2. **Anatomi Hoaks: Definisi, Jenis, dan Siklus Penyebaran** — misinformation vs
+2. **Anatomi Hoaks: Definisi, Jenis, dan Siklus Penyebaran**: misinformation vs
    disinformation vs malinformation; the information disorder framing (Wardle & Derakhshan, 2017).
-3. **Dua Sistem Berpikir: Otak Cepat vs Otak Lambat** — dual-process theory, System 1 / System 2
+3. **Dua Sistem Berpikir: Otak Cepat vs Otak Lambat**: dual-process theory, System 1 / System 2
    (Kahneman, 2011; Evans & Stanovich, 2013).
-4. **Heuristik dan Bias Kognitif Pemicu Percaya Hoaks** — confirmation bias, availability
+4. **Heuristik dan Bias Kognitif Pemicu Percaya Hoaks**: confirmation bias, availability
    heuristic, source/familiarity heuristics (Tversky & Kahneman, 1974; Pennycook & Rand, 2021, *TiCS*).
-5. **Efek Kebenaran Ilusi: Kekuatan Pengulangan** — illusory truth effect and processing
+5. **Efek Kebenaran Ilusi: Kekuatan Pengulangan**: illusory truth effect and processing
    fluency (Hasher, Goldstein & Toppino, 1977; Dechêne et al., 2010; Fazio et al., 2015).
-6. **Emosi, Kemarahan Moral, dan Mesin Viralitas** — emotion and moral outrage drive sharing
+6. **Emosi, Kemarahan Moral, dan Mesin Viralitas**: emotion and moral outrage drive sharing
    (Brady et al., 2017; McLoughlin, Brady et al., 2024, *Science*).
-7. **Penalaran Termotivasi dan Identitas Kelompok** — motivated reasoning, identity-protective
+7. **Penalaran Termotivasi dan Identitas Kelompok**: motivated reasoning, identity-protective
    cognition, myside sharing (Kahan, 2013; Van Bavel & Pereira, 2018).
-8. **Ekosistem Digital: Algoritma, Ruang Gema, dan Filter Bubble** — recommender systems,
+8. **Ekosistem Digital: Algoritma, Ruang Gema, dan Filter Bubble**: recommender systems,
    selective exposure, echo chambers (Pariser, 2011; Bakshy, Messing & Adamic, 2015, *Science*).
-9. **Efek Pengaruh Berkelanjutan: Kenapa Koreksi Sering Gagal** — continued influence effect,
+9. **Efek Pengaruh Berkelanjutan: Kenapa Koreksi Sering Gagal**: continued influence effect,
    backfire concerns, effective debunking (Lewandowsky et al., 2012; Lewandowsky et al., 2020).
-10. **Literasi Digital dan Berpikir Kritis** — lateral reading, SIFT, analytic reasoning as a
+10. **Literasi Digital dan Berpikir Kritis**: lateral reading, SIFT, analytic reasoning as a
     shield (Wineburg & McGrew, 2019; Pennycook & Rand, 2019).
-11. **Verifikasi Fakta dan Inokulasi: Membangun Ketahanan** — fact-checking, accuracy nudges,
+11. **Verifikasi Fakta dan Inokulasi: Membangun Ketahanan**: fact-checking, accuracy nudges,
     prebunking / inoculation theory (Pennycook et al., 2021, *Nature*; Roozenbeek & van der Linden, 2022).
-12. **Referensi** — APA 7, web-verified deep links / DOIs for every source above.
+12. **Referensi**: APA 7, web-verified deep links / DOIs for every source above.
 
 ## 5. Acceptance Criteria
 
