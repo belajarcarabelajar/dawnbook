@@ -1,6 +1,6 @@
 ## Zona Persimpangan Ikigai
 
-Setelah memahami keempat pilar utama Ikigai secara terpisah, kini saatnya mengeksplorasi bagaimana pilar-pilar ini saling berinteraksi, berpadu, dan menciptakan area persimpangan. Konsep zona persimpangan ini sangat penting karena di sinilah esensi tujuan hidup mulai terungkap.
+Kini, setelah keempat pilar utama Ikigai dipahami secara terpisah, saatnya melihat bagaimana pilar-pilar itu saling berinteraksi dan berpadu. Perpaduan itu menciptakan area persimpangan, dan konsep zona persimpangan ini sangat penting karena di sinilah esensi tujuan hidup mulai terungkap.
 
 > Ikigai adalah sinergi yang muncul dari perpaduan harmonis keempat pilarnya, menghasilkan sesuatu yang jauh lebih bernilai dari sekadar gabungan bagian-bagiannya.
 

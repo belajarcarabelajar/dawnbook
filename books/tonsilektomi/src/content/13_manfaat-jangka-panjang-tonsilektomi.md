@@ -1,6 +1,6 @@
 ## Manfaat Jangka Panjang Tonsilektomi
 
-Setelah melewati masa pemulihan yang menantang, banyak pasien bertanya-tanya: *"Apakah semua rasa sakit ini sepadan?"* Jawabannya, bagi sebagian besar orang yang menderita infeksi kronis atau gangguan pernapasan, adalah **ya**. Tonsilektomi adalah langkah medis untuk mengangkat jaringan bermasalah, sekaligus investasi jangka panjang bagi kesehatan fisik serta mentalmu.
+Setelah melewati masa pemulihan yang menantang, banyak pasien bertanya-tanya: *Apakah semua rasa sakit ini sepadan?* Jawabannya, bagi sebagian besar orang yang menderita infeksi kronis atau gangguan pernapasan, adalah **ya**. Tonsilektomi adalah langkah medis untuk mengangkat jaringan bermasalah, sekaligus investasi jangka panjang bagi kesehatan fisik serta mentalmu.
 
 Bayangkan amandel yang terus-menerus meradang seperti sebuah filter udara yang sudah sangat kotor dan tersumbat. Alih-alih menyaring debu, filter tersebut justru menghambat aliran udara dan menjadi sumber polusi bagi seluruh ruangan. Mengeluarkannya mungkin memerlukan usaha, tetapi setelah itu, sistem akan bekerja jauh lebih efisien.
 

@@ -1,6 +1,6 @@
 ## Pengabaian Respons Siswa dan Dominasi Komunikasi Guru
 
-Ketika berada di dalam kelas sekolah dasar, pernahkah kamu memperhatikan bagaimana seorang guru mengajukan pertanyaan bertubi-tubi tanpa sempat mengulas jawaban yang diberikan oleh murid-muridnya? Dalam wacana pedagogi, fenomena ini dikenal sebagai pengendalian topik melalui pengabaian respons. Guru memegang kendali atas alur percakapan tanpa melarang siswa berbicara, yaitu dengan membiarkan jawaban siswa berlalu begitu saja tanpa tanggapan, pujian, maupun konfirmasi.
+Pernahkah kamu memperhatikan seorang guru sekolah dasar mengajukan pertanyaan bertubi-tubi di kelas tanpa sempat mengulas jawaban murid-muridnya? Dalam wacana pedagogi, fenomena ini dikenal sebagai pengendalian topik melalui pengabaian respons. Guru memegang kendali atas alur percakapan tanpa melarang siswa berbicara, yaitu dengan membiarkan jawaban siswa berlalu begitu saja tanpa tanggapan, pujian, maupun konfirmasi.
 
 Pengabaian respons ini menciptakan dinamika komunikasi yang berat sebelah. Meskipun kelas terlihat ramai oleh interaksi tanya-jawab, sejatinya pembicaraan tersebut digerakkan oleh agenda tunggal guru. Siswa hanya diposisikan sebagai pemenuh instruksi singkat, sementara penguasaan arah wacana berada sepenuhnya di tangan pengajar.
 
@@ -88,6 +88,6 @@ Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons sis
 2. Pola interaksi yang terbentuk memotong tahap umpan balik (Feedback) sehingga menggeser pola IRF menjadi alur pembicaraan yang kaku dan didominasi oleh instruksi guru.
 3. Dampak dari pengabaian ini mencakup pasivitas komunikasi siswa, jawaban yang cenderung serba pendek, serta menurunnya kebiasaan dan keberanian anak dalam mengungkapkan pendapat di kelas.
 
-#### Pertanyaan Refleksi
+#### Renungan tentang Jawaban Siswa yang Terabaikan
 1. Menurut pengamatanmu, apakah bentuk interaksi yang diwarnai pengabaian respons ini masih sering ditemui dalam praktik pembelajaran di sekolah dasar saat ini?
 2. Bagaimana kamu sebagai seorang guru menyusun strategi komunikasi agar setiap jawaban siswa dapat dijadikan pijakan untuk memperdalam topik pembelajaran tanpa membuat durasi kelas terbuang sia-sia?

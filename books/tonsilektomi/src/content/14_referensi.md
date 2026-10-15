@@ -1,6 +1,6 @@
 ## Referensi
 
-Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa merujuk pada beberapa literatur ilmiah dan panduan klinis tepercaya berikut untuk memahami tonsilektomi secara lebih mendalam:
+Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa merujuk pada literatur ilmiah dan panduan klinis tepercaya berikut. Rujukan ini membantumu memahami tonsilektomi secara lebih mendalam.
 
 1. Baugh, R. F., Sanford, S. M., Basso, B. G., Archer, S. M., Altenau, M. M., Bernstein, J. M., Hartnick, C. J., Haydon, R. C., III, Ishman, S. L., Krouse, J. H., Li, G. Y., Morad, A., O'Connor, P. D., Pontell, H. D., Rosenfeld, R. M., Sethi, D. S., & Weisz, M. S. (2011). Clinical practice guideline: Tonsillectomy in children. *Otolaryngology - Head and Neck Surgery*, 144(1_suppl), S1-S30. [https://doi.org/10.1177/0194599810389949](https://doi.org/10.1177/0194599810389949)
 

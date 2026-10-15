@@ -66,12 +66,12 @@ Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan prot
 
 ## Aplikasi Dunia Nyata & Skenario
 
-Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* or *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
+Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* atau *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
 
 Sebaliknya, pasien dewasa yang mengidap tonsilitis kronis berulang dengan riwayat abses peritonsil lebih membutuhkan diseksi tajam (*cold knife dissection*) atau elektrokauter bipolar. Jaringan parut (*fibrosis*) yang terbentuk akibat infeksi berulang sering kali melekatkan tonsil pada jaringan sekelilingnya, sehingga memerlukan diseksi total yang bersih di sepanjang batas kapsul tonsil.
 
 Secara umum, keputusan memilih instrumen bedah dipengaruhi oleh kondisi medis pasien, kelayakan fasilitas rumah sakit, serta kemahiran teknis dokter spesialis THT. Kompleksitas alat tercanggih sekalipun tetap bertumpu pada keahlian operator yang mengendalikannya.
 
-## Kesimpulan
+## Tidak Ada Teknik yang Mutlak Terbaik
 
 Pada akhirnya, tidak ada satu pun teknik bedah yang mutlak terbaik untuk seluruh skenario klinis. Setiap instrumen menawarkan *trade-off* tersendiri antara kecepatan operasi, kontrol perdarahan, dan kenyamanan pemulihan pascatindakan. Sangat penting bagi kamu untuk berdiskusi mendalam dengan dokter spesialis THT guna menentukan pilihan teknik yang paling sesuai dengan kondisi fisik dan kebutuhan pemulihanmu.

@@ -1,6 +1,6 @@
 ## Apa itu Tonsilektomi?
 
-Pernahkah kamu membayangkan sebuah prosedur medis yang telah dilakukan manusia selama ribuan tahun, namun tetap menjadi salah satu operasi paling umum di dunia medis modern saat ini? Itulah **Tonsilektomi**.
+Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan manusia, namun tetap termasuk operasi paling umum di dunia medis modern? Itulah **Tonsilektomi**.
 
 Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 

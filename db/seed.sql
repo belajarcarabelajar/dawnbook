@@ -1270,8 +1270,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2400,8 +2400,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4031,8 +4031,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4984,8 +4984,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5718,8 +5718,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7019,8 +7019,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7955,8 +7955,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8846,8 +8846,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10054,8 +10054,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11086,8 +11086,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12923,8 +12923,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14054,8 +14054,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14112,6 +14112,18 @@ Google meluncurkan **AdWords** (sekarang Google Ads) pada tahun 2000. Ini memper
 ### 4\. Era Media Sosial dan Ekosistem Dinamis (Sekarang)
 
 Dengan munculnya Facebook, Instagram, dan TikTok, iklan tidak lagi hanya berdasarkan *apa yang kamu cari*, tetapi juga *siapa kamu*, *apa minat kamu*, dan *bagaimana perilaku kamu*. Kita telah masuk ke ekosistem yang sangat dinamis di mana konten iklan dibuat secara otomatis untuk menyesuaikan dengan selera individu.
+
+Keempat era tadi bisa kamu lihat sekaligus dalam lini masa berikut.
+
+```mermaid
+timeline
+    accTitle: Lini masa dari cetak ke piksel
+    accDescr: Sebelum tahun 1990-an iklan bersifat pasif dan massal di TV, radio, koran, dan majalah. Pada 27 Oktober 1994 HotWired menampilkan banner ad pertama milik AT&T dengan CTR 44%. Pada tahun 2000 Google meluncurkan AdWords yang memperkenalkan iklan kontekstual. Sekarang, di era media sosial, iklan juga berdasarkan siapa kamu, minat, dan perilaku kamu.
+    Sebelum 1990-an : Era pra-digital : Iklan pasif dan massal di TV, radio, koran, majalah
+    27 Oktober 1994 : Banner ad pertama milik AT&T tampil di HotWired : CTR mencapai 44%
+    2000 : Google meluncurkan AdWords : Iklan kontekstual
+    Sekarang : Era media sosial (Facebook, Instagram, TikTok) : Iklan berdasarkan siapa kamu, minat, dan perilaku
+```
 
 ## Mengapa Dunia Berpindah ke Digital?
 
@@ -14504,6 +14516,23 @@ Jika cookie adalah file teks, **Pixel Tracking** (sering disebut *web beacon* at
    - Jenis perangkat dan peramban yang digunakan.
    - Aktivitas spesifik (misalnya: menekan tombol "Beli").
 
+Jika digambar, pertukaran tak kasatmata antara perambanmu dan server pengiklan tampak seperti ini.
+
+```mermaid
+sequenceDiagram
+    accTitle: Cara kerja pixel tracking
+    accDescr: Saat kamu memuat halaman web, peramban kamu otomatis meminta gambar 1×1 piksel dari server pengiklan, dan bersamaan dengan permintaan itu mengirim alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti menekan tombol Beli.
+    participant P as Peramban kamu
+    participant S as Server pengiklan
+    Note over P: Kamu memuat halaman web
+    par Bersamaan
+        P->>S: Minta gambar 1×1 piksel (otomatis)
+    and
+        P->>S: Kirim data kunjungan
+    end
+    Note over S: Data yang diterima berupa alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti tombol “Beli”
+```
+
 **Contoh Kode Sederhana:** Secara teknis, sebuah pixel bisa terlihat sesederhana baris kode HTML berikut:
 
 ```html
@@ -14696,6 +14725,31 @@ Untuk memahami cara kerja sistem ini, kita perlu mengenal para aktor di balik la
 5. **Penawaran (Bidding):** DSP memeriksa apakah profil kamu cocok dengan kriteria klien mereka. Jika cocok, DSP akan mengajukan penawaran harga.
 6. **Pemenang Dipilih:** Penawar tertinggi memenangkan lelang.
 7. **Penayangan Iklan:** Iklan pemenang dikirim ke situs web dan muncul di layar kamu.
+
+Agar lebih mudah dibayangkan, ketujuh langkah tadi bisa digambarkan sebagai pertukaran pesan di antara para aktor berikut.
+
+```mermaid
+sequenceDiagram
+    accTitle: Alur Real-Time Bidding (RTB)
+    accDescr: Kamu membuka artikel, situs web mengirim permintaan iklan ke SSP, SSP mengirim informasi situs dan data anonim kamu ke Ad Exchange, Ad Exchange menyebarkannya ke berbagai DSP, DSP yang cocok dengan profil kamu mengajukan penawaran, penawar tertinggi menang, lalu iklan pemenang dikirim ke situs web dan muncul di layar kamu. Seluruh proses berlangsung kurang dari 100 milidetik.
+    actor K as Kamu
+    participant W as Situs web
+    participant SSP
+    participant AX as Ad Exchange
+    participant DSP as Berbagai DSP
+    K->>W: Membuka artikel
+    W->>SSP: Permintaan iklan (ruang kosong)
+    SSP->>AX: Info situs dan data anonim kamu
+    AX->>DSP: Lelang dimulai, informasi disebarkan
+    Note over DSP: Cek profil kamu dengan kriteria klien
+    opt Profil cocok
+        DSP->>AX: Penawaran harga (bidding)
+    end
+    Note over AX: Penawar tertinggi menang
+    Note over W,AX: Iklan pemenang dikirim ke situs web
+    W->>K: Iklan muncul di layar kamu
+    Note over K,DSP: Seluruh proses kurang dari 100 milidetik
+```
 
 ### Logika Matematika di Balik Lelang
 
@@ -15157,8 +15211,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16422,8 +16476,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17288,8 +17342,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18891,8 +18945,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19997,8 +20051,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20100,7 +20154,7 @@ Setelah memahami anatomi dan fungsi penting dari amandel, wajar jika kamu bertan
 
 ## Apa itu Tonsilektomi?
 
-Pernahkah kamu membayangkan sebuah prosedur medis yang telah dilakukan manusia selama ribuan tahun, namun tetap menjadi salah satu operasi paling umum di dunia medis modern saat ini? Itulah **Tonsilektomi**.
+Pernahkah kamu membayangkan prosedur medis yang sudah ribuan tahun dilakukan manusia, namun tetap termasuk operasi paling umum di dunia medis modern? Itulah **Tonsilektomi**.
 
 Secara harfiah, Tonsilektomi berasal dari dua kata: *"Tonsil"* (amandel) dan *"Ektomi"* (pembuangan/pengangkatan). Dalam dunia medis, ini adalah prosedur pembedahan untuk mengangkat sepasang jaringan limfoid yang terletak di belakang tenggorokanmu.
 
@@ -20427,13 +20481,13 @@ Meskipun demikian, metode ini menuntut biaya investasi alat yang tinggi dan prot
 
 ## Aplikasi Dunia Nyata & Skenario
 
-Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* or *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
+Penerapan teknologi ini disesuaikan dengan profil klinis masing-masing pasien. Sebagai contoh, pada kasus anak-anak dengan keluhan *sleep apnea* akibat pembesaran amandel, dokter umumnya menyukai teknik *microdebrider* atau *coblation*. Tujuannya adalah mengecilkan ukuran amandel secara cepat dengan trauma minimal, sehingga anak segera mau makan dan minum pascatindakan untuk menghindari risiko dehidrasi.
 
 Sebaliknya, pasien dewasa yang mengidap tonsilitis kronis berulang dengan riwayat abses peritonsil lebih membutuhkan diseksi tajam (*cold knife dissection*) atau elektrokauter bipolar. Jaringan parut (*fibrosis*) yang terbentuk akibat infeksi berulang sering kali melekatkan tonsil pada jaringan sekelilingnya, sehingga memerlukan diseksi total yang bersih di sepanjang batas kapsul tonsil.
 
 Secara umum, keputusan memilih instrumen bedah dipengaruhi oleh kondisi medis pasien, kelayakan fasilitas rumah sakit, serta kemahiran teknis dokter spesialis THT. Kompleksitas alat tercanggih sekalipun tetap bertumpu pada keahlian operator yang mengendalikannya.
 
-## Kesimpulan
+## Tidak Ada Teknik yang Mutlak Terbaik
 
 Pada akhirnya, tidak ada satu pun teknik bedah yang mutlak terbaik untuk seluruh skenario klinis. Setiap instrumen menawarkan *trade-off* tersendiri antara kecepatan operasi, kontrol perdarahan, dan kenyamanan pemulihan pascatindakan. Sangat penting bagi kamu untuk berdiskusi mendalam dengan dokter spesialis THT guna menentukan pilihan teknik yang paling sesuai dengan kondisi fisik dan kebutuhan pemulihanmu.
 
@@ -20633,8 +20687,8 @@ Selain obat medis, kamu juga bisa mempercepat pemulihan dengan beberapa langkah 
 
 Proses pemulihan setelah operasi ini sering kali naik-turun, tidak selalu membaik secara instan hari demi hari.
 
-1. Pada hari pertama dan kedua, nyeri biasanya masih terasa ringan atau sedang karena pengaruh sisa obat bius dari rumah sakit belum sepenuhnya hilang.
-2. Memasuki hari ke-4 hingga ke-7, kamu akan menghadapi fase puncak rasa sakit. Hal ini wajar terjadi karena lapisan fibrin (keropeng putih) di bekas luka mulai mengelupas. Banyak pasien merasa fase ini jauh lebih menyaikkan daripada hari pertama.
+1. Pada hari pertama dan kedua, nyeri biasanya sudah cukup terasa. Pada banyak anak kecil, justru di hari-hari inilah nyeri paling berat.
+2. Sekitar hari ke-5 hingga ke-8, nyeri bisa naik lagi saat lapisan fibrin (keropeng putih) di bekas luka mulai mengelupas, termasuk pada anak-anak. Pada orang dewasa, nyeri bisa paling berat di sekitar hari ke-3 hingga ke-7, sedangkan pada pasien di atas sepuluh tahun nyeri cenderung bertahan hingga sekitar hari ke-9 sebelum mereda.
 3. Setelah melewati hari ke-10, rasa tidak nyaman tersebut biasanya akan berkurang secara drastis dalam waktu singkat.
 
 Jika kamu merasa nyeri bertambah parah pada hari kelima, jangan cemas. Itu adalah pertanda alami bahwa lapisan pelindung lama mulai mengelupas untuk memberi ruang bagi jaringan baru yang sedang tumbuh, bukan tanda kondisi tubuhmu memburuk.
@@ -20754,11 +20808,11 @@ Masa pemulihan setelah operasi amandel umumnya berlangsung selama 10 hingga 14 h
 
 ### 1. Istirahat Total (Hari ke-1 - ke-3)
 
-Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya mencapai puncaknya. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar $30^\circ - 45^\circ$. Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
+Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya sudah cukup berat. Pada anak kecil, nyeri sering paling berat di hari-hari ini. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar $30^\circ - 45^\circ$. Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
 
 ### 2. Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
 
-Pada fase ini, lapisan putih keabu-abuan (*slough*) akan terbentuk di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. 
+Pada fase ini, lapisan putih keabu-abuan (*slough*) yang mulai terbentuk sejak hari-hari pertama terlihat jelas di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. Di fase ini nyeri bisa naik lagi ketika keropeng mulai mengelupas, dan pada orang dewasa nyeri bisa terasa paling berat di fase ini.
 
 Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari gerakan mendadak yang bisa menaikkan tekanan darah. Harap berhati-hati karena keropeng ini mulai mengelupas pada hari ke-5 hingga ke-10, yang dapat memicu risiko perdarahan.
 
@@ -20975,7 +21029,7 @@ Sebagai langkah antisipasi, simpan nomor darurat dokter atau rumah sakit tempat 
 
 ## Manfaat Jangka Panjang Tonsilektomi
 
-Setelah melewati masa pemulihan yang menantang, banyak pasien bertanya-tanya: *"Apakah semua rasa sakit ini sepadan?"* Jawabannya, bagi sebagian besar orang yang menderita infeksi kronis atau gangguan pernapasan, adalah **ya**. Tonsilektomi adalah langkah medis untuk mengangkat jaringan bermasalah, sekaligus investasi jangka panjang bagi kesehatan fisik serta mentalmu.
+Setelah melewati masa pemulihan yang menantang, banyak pasien bertanya-tanya: *Apakah semua rasa sakit ini sepadan?* Jawabannya, bagi sebagian besar orang yang menderita infeksi kronis atau gangguan pernapasan, adalah **ya**. Tonsilektomi adalah langkah medis untuk mengangkat jaringan bermasalah, sekaligus investasi jangka panjang bagi kesehatan fisik serta mentalmu.
 
 Bayangkan amandel yang terus-menerus meradang seperti sebuah filter udara yang sudah sangat kotor dan tersumbat. Alih-alih menyaring debu, filter tersebut justru menghambat aliran udara dan menjadi sumber polusi bagi seluruh ruangan. Mengeluarkannya mungkin memerlukan usaha, tetapi setelah itu, sistem akan bekerja jauh lebih efisien.
 
@@ -21046,23 +21100,29 @@ Menjalani dua minggu masa pemulihan yang kurang nyaman merupakan langkah kecil d
 
 ## Referensi
 
-Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa merujuk pada beberapa literatur ilmiah dan panduan klinis tepercaya berikut untuk memahami tonsilektomi secara lebih mendalam:
+Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa merujuk pada literatur ilmiah dan panduan klinis tepercaya berikut. Rujukan ini membantumu memahami tonsilektomi secara lebih mendalam.
 
 1. Baugh, R. F., Sanford, S. M., Basso, B. G., Archer, S. M., Altenau, M. M., Bernstein, J. M., Hartnick, C. J., Haydon, R. C., III, Ishman, S. L., Krouse, J. H., Li, G. Y., Morad, A., O''Connor, P. D., Pontell, H. D., Rosenfeld, R. M., Sethi, D. S., & Weisz, M. S. (2011). Clinical practice guideline: Tonsillectomy in children. *Otolaryngology - Head and Neck Surgery*, 144(1_suppl), S1-S30. [https://doi.org/10.1177/0194599810389949](https://doi.org/10.1177/0194599810389949)
 
-2. Inuzuka, Y., Kawakita, J., Okazaki, K., & Sugiyama, K. (2020). Risk factors of post-tonsillectomy hemorrhage in adults. *Laryngoscope Investigative Otolaryngology*, 5(6), 1017-1022. [https://doi.org/10.1002/lio2.488](https://doi.org/10.1002/lio2.488)
+2. Bedfordshire Hospitals NHS Foundation Trust. (2025, May 15). *After your tonsillectomy (adults): Patient information*. [https://www.bedfordshirehospitals.nhs.uk/patient-information-leaflets/after-your-tonsillectomy-adults-patient-information/](https://www.bedfordshirehospitals.nhs.uk/patient-information-leaflets/after-your-tonsillectomy-adults-patient-information/)
 
-3. Marcus, C. L., Moore, R. H., Rosen, C. L., Giordani, B., Garetz, S. L., Taylor, H. G., Mitchell, R. B., Windisch, R., Dempsey, J., & Redline, S. (2013). A randomized trial of adenotonsillectomy for childhood sleep apnea. *New England Journal of Medicine*, 368(25), 2366-2376. [https://doi.org/10.1056/NEJMoa1215881](https://doi.org/10.1056/NEJMoa1215881)
+3. Inuzuka, Y., Kawakita, J., Okazaki, K., & Sugiyama, K. (2020). Risk factors of post-tonsillectomy hemorrhage in adults. *Laryngoscope Investigative Otolaryngology*, 5(6), 1017-1022. [https://doi.org/10.1002/lio2.488](https://doi.org/10.1002/lio2.488)
 
-4. Mitchell, R. B., Archer, S. M., Ishman, S. L., Rosenfeld, R. M., Coles, S., Finestone, S. A., Friedman, N. R., Giordano, T., Haynes, W. P., Jones, G. P., Jordan, S. R., Kabil, J. D., Macdonald, J. R., Parikh, P. L., Sycamore, D. R., & Nnacheta, L. C. (2019). Clinical practice guideline: Tonsillectomy in children (update). *Otolaryngology - Head and Neck Surgery*, 160(1_suppl), S1-S42. [https://doi.org/10.1177/0194599818801757](https://doi.org/10.1177/0194599818801757)
+4. Lavy, J. A. (1997). Post-tonsillectomy pain: The difference between younger and older patients. *International Journal of Pediatric Otorhinolaryngology*, 42(1), 11-15. [https://doi.org/10.1016/S0165-5876(97)00107-9](https://doi.org/10.1016/S0165-5876(97)00107-9)
 
-5. Patel, S., & Gysin, C. (2022). Adult tonsillectomy: An evaluation of indications and complications. *American Journal of Otolaryngology*, 43(3), 103403. [https://doi.org/10.1016/j.amjoto.2022.103403](https://doi.org/10.1016/j.amjoto.2022.103403)
+5. Marcus, C. L., Moore, R. H., Rosen, C. L., Giordani, B., Garetz, S. L., Taylor, H. G., Mitchell, R. B., Windisch, R., Dempsey, J., & Redline, S. (2013). A randomized trial of adenotonsillectomy for childhood sleep apnea. *New England Journal of Medicine*, 368(25), 2366-2376. [https://doi.org/10.1056/NEJMoa1215881](https://doi.org/10.1056/NEJMoa1215881)
 
-6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
+6. Medikondu, H., Chen, A., Soliman, D., Yellapragada, S., Sadhasivam, S., & Visoiu, M. (2025). Perioperative pain relief in pediatric tonsillectomy: Current strategies and future directions. *Children*, 12(12), 1619. [https://doi.org/10.3390/children12121619](https://doi.org/10.3390/children12121619)
 
-7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+7. Mitchell, R. B., Archer, S. M., Ishman, S. L., Rosenfeld, R. M., Coles, S., Finestone, S. A., Friedman, N. R., Giordano, T., Haynes, W. P., Jones, G. P., Jordan, S. R., Kabil, J. D., Macdonald, J. R., Parikh, P. L., Sycamore, D. R., & Nnacheta, L. C. (2019). Clinical practice guideline: Tonsillectomy in children (update). *Otolaryngology - Head and Neck Surgery*, 160(1_suppl), S1-S42. [https://doi.org/10.1177/0194599818801757](https://doi.org/10.1177/0194599818801757)
+
+8. Patel, S., & Gysin, C. (2022). Adult tonsillectomy: An evaluation of indications and complications. *American Journal of Otolaryngology*, 43(3), 103403. [https://doi.org/10.1016/j.amjoto.2022.103403](https://doi.org/10.1016/j.amjoto.2022.103403)
+
+9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
+
+10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21082,7 +21142,7 @@ VALUES (
 
 ## Pengantar Sistem Peringatan Dini
 
-Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat untuk menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
+Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
 
 Pertanyaan yang sering muncul: *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
 
@@ -21177,7 +21237,7 @@ Dengan bekal ini, kamu punya peta jalan untuk menyelami anatomi ancaman di bab b
 
 ## Konsep Dasar Ancaman Kerentanan dan Risiko Bencana
 
-Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak, melainkan hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
+Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
 
 ### Mengapa Empat Pilar Ini Penting
 
@@ -21352,7 +21412,7 @@ Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan ada pada komunika
 
 Gempa dan tsunami 26 Desember 2004 di Aceh menjadi titik balik Indonesia. Gelombang di atas 15 meter menewaskan lebih dari 160 ribu jiwa di Aceh dan lebih dari 230 ribu di Samudra Hindia. Saat itu Indonesia belum memiliki sistem peringatan tsunami operasional. Data gempa ada di BMKG, tetapi tidak ada kanal resmi untuk mengubah data menjadi perintah evakuasi dalam menit.
 
-Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar \\( T_{\text{lead}} \\) minimal 5 menit setelah gempa:
+Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar peringatan pertama paling lambat 5 menit setelah gempa:
 
 * **Seismic network:** lebih dari 160 seismometer broadband ke BMKG Jakarta dalam kurang dari 2 menit.
 * **Sea level network:** *tide gauge* dan *buoy* untuk validasi gelombang.
@@ -21381,7 +21441,7 @@ Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 
 | 1960-1979 | TIROS-1 1960, jaringan seismograf global | Satelit optik, telemetri kabel | Deteksi siklon dari angkasa, monitoring gempa menit-an |
 | 1980-1999 | Telemetri sungai otomatis, Pacific Tsunami Warning Center diperkuat | Sensor elektronik, radio VHF | Peringatan banjir jam-an, koordinasi regional |
 | 2000-2005 | Tsunami Aceh 2004 | Seismometer broadband | Kesadaran global, komitmen HFA 2005 |
-| 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | \\( T_{\text{lead}} \\) 5 menit untuk tsunami, SOP nasional |
+| 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | Peringatan pertama paling lambat 5 menit untuk tsunami, SOP nasional |
 | 2015-2024 | Sendai Framework 2015-2030, 4 pilar UNESCO, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
 
 ### Apa Artinya Bagi Kamu
@@ -21423,10 +21483,10 @@ Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada 
 
 Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun pasca tsunami Aceh 2004 melalui Instruksi Presiden, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai.
 
-Alur InaTEWS dapat kamu pahami sebagai rantai komando empat jam:
+Alur InaTEWS dapat kamu pahami sebagai rantai komando empat tahap:
 
 1. **Deteksi:** Jaringan seismometer dan GPS BMKG menangkap gempa dalam 2 sampai 3 menit.
-2. **Analisis:** Decision Support System BMKG menghitung magnitudo dan potensi tsunami dalam 5 menit.
+2. **Analisis:** Decision Support System BMKG menentukan potensi tsunami dan status ancaman, sehingga peringatan pertama terbit paling lambat 5 menit setelah gempa.
 3. **Diseminasi:** Peringatan diteruskan ke BNPB, BPBD, media, dan operator telekomunikasi untuk SMS blast dan TV overlay.
 4. **Respons:** Kepala daerah dan komunitas memutuskan evakuasi berdasarkan SOP lokal.
 
@@ -21434,7 +21494,7 @@ Kecepatan rantai ini dapat dirumuskan secara sederhana sebagai
 
 \\[ T_{\text{total}} = T_{\text{deteksi}} + T_{\text{analisis}} + T_{\text{diseminasi}} + T_{\text{respons}} \\]
 
-dengan target \\( T_{\text{total}} < 5 \text{ menit} \\) untuk tsunami lokal. Jika salah satu mata rantai terlambat, seluruh sistem gagal meski magnitudo terdeteksi akurat.
+dengan target \\( T_{\text{deteksi}} + T_{\text{analisis}} \le 5 \text{ menit} \\) untuk peringatan pertama dari BMKG, sedangkan diseminasi lanjutan dan respons menjadi tanggung jawab lembaga perantara dan pemerintah daerah. Jika salah satu mata rantai terlambat, seluruh sistem gagal meski magnitudo terdeteksi akurat.
 
 ### 3. SOP dan Tantangan Koordinasi
 
@@ -21610,13 +21670,13 @@ Sebagai penutup, teknologi tidak menggantikan kearifan. Sensor memberi angka, na
 
 ## Sistem Peringatan Dini Gempa Bumi dan Tsunami InaTEWS
 
-Sistem peringatan dini gempa tsunami InaTEWS merupakan tulang punggung perlindungan pesisir Indonesia yang dirancang untuk memberi peringatan dalam hitungan menit setelah gempa besar di laut. Indonesia berada pada pertemuan tiga lempeng aktif sehingga risiko gempa bawah laut dan tsunami tinggi di zona subduksi Sumatra, Jawa, Nusa Tenggara, Maluku, dan Papua. Dalam konteks itu sistem peringatan dini gempa tsunami InaTEWS tidak hanya berfungsi sebagai jaringan sensor melainkan sebagai rantai pengambilan keputusan yang menghubungkan deteksi seismik, analisis potensi tsunami, pemodelan perambatan gelombang, hingga penyampaian informasi kepada pemerintah daerah dan masyarakat pesisir.
+Tulang punggung perlindungan pesisir Indonesia adalah sistem peringatan dini gempa tsunami InaTEWS. Sistem ini dirancang untuk memberi peringatan dalam hitungan menit setelah gempa besar di laut. Indonesia berada pada pertemuan tiga lempeng aktif sehingga risiko gempa bawah laut dan tsunami tinggi di zona subduksi Sumatra, Jawa, Nusa Tenggara, Maluku, dan Papua. Dalam konteks itu sistem peringatan dini gempa tsunami InaTEWS tidak hanya berfungsi sebagai jaringan sensor melainkan sebagai rantai pengambilan keputusan yang menghubungkan deteksi seismik, analisis potensi tsunami, pemodelan perambatan gelombang, hingga penyampaian informasi kepada pemerintah daerah dan masyarakat pesisir.
 
 Arsitektur InaTEWS dibangun dengan target sekitar lima menit untuk penyebaran peringatan awal setelah gempa. Target tersebut ditetapkan Badan Meteorologi Klimatologi dan Geofisika sebagai pemegang mandat nasional. Jaringan mencakup lebih dari 160 stasiun seismometer broadband yang terhubung real time ke pusat pengolahan di Jakarta. Di pusat, perangkat lunak SeisComP melakukan picking otomatis fase P dan S, melokalisasi episenter, menghitung magnitudo, dalam kurang dari tiga menit. Penjalaran dapat diperkirakan dengan \\[ T_{\text{tsunami}} = \frac{D}{v} \\] dimana D adalah jarak sumber ke pantai dan v adalah kecepatan gelombang. Secara umum \\( v \approx 700 \text{ km/jam} \\) di laut dalam, sehingga jarak 150 kilometer ditempuh dalam kurang dari 15 menit. Karena itu target lima menit bersifat kritis.
 
 Setelah parameter gempa diperoleh, Decision Support System BMKG mengambil alih analisis tsunami. Sistem ini mengintegrasikan basis data skenario pra-hitung, deformasi dasar laut, batimetri, dan estimasi tinggi gelombang di segmen pantai terancam. Basis data berisi ribuan skenario untuk berbagai lokasi sumber, magnitudo, dan mekanisme patahan di zona megathrust dan sesar aktif lain. Sistem mencocokkan parameter real time dengan skenario terdekat untuk memperkirakan potensi dan dampak per wilayah. Operator kemudian memverifikasi kualitas sinyal, konsistensi magnitudo antarsensor, kedalaman, dan jenis sesar. Langkah ini menekan kesalahan magnitudo awal yang sering direvisi. Keputusan didasarkan pada ambang magnitudo di atas 7,0, kedalaman dangkal, dan lokasi di bawah laut.
 
-Hasil keputusan diterjemahkan ke dalam tiga tingkatan InaTEWS. Tingkat Awas menandakan perkiraan tinggi gelombang lebih dari tiga meter dan memerlukan evakuasi penuh di zona pesisir dan sempadan sungai. Tingkat Siaga menandakan perkiraan antara setengah meter hingga tiga meter dan tetap memerlukan evakuasi dari pantai serta muara sungai karena arus kuat berbahaya. Tingkat Waspada menandakan perkiraan kurang dari setengah meter yang tetap berbahaya bagi aktivitas di pantai dan pelayaran sehingga warga diminta menjauhi bibir pantai dan perahu tidak melaut sementara. Setiap produk BMKG menyebutkan eksplisit wilayah yang masuk Awas, Siaga, dan Waspada beserta perkiraan waktu tiba gelombang pertama dan rekomendasi.
+Hasil keputusan diterjemahkan ke dalam tiga tingkatan InaTEWS. Tingkat Awas menandakan perkiraan tinggi gelombang tiga meter atau lebih dan memerlukan evakuasi penuh di zona pesisir dan sempadan sungai. Tingkat Siaga menandakan perkiraan setengah meter atau lebih tetapi kurang dari tiga meter dan tetap memerlukan evakuasi dari pantai serta muara sungai karena arus kuat berbahaya. Tingkat Waspada menandakan perkiraan kurang dari setengah meter yang tetap berbahaya bagi aktivitas di pantai dan pelayaran sehingga warga diminta menjauhi bibir pantai dan perahu tidak melaut sementara. Setiap produk BMKG menyebutkan eksplisit wilayah yang masuk Awas, Siaga, dan Waspada beserta perkiraan waktu tiba gelombang pertama dan rekomendasi.
 
 Penyebaran peringatan dari pusat ke daerah menggunakan jalur berlapis. BMKG mengirimkan peringatan melalui Warning Receiver System di kantor BPBD, pemerintah provinsi dan kabupaten kota, TNI, Polri, serta lembaga terkait melalui satelit dan internet dengan konfirmasi penerimaan. Jalur lain mencakup SMS broadcast, email, web, aplikasi InfoBMKG, serta sambungan ke televisi dan radio. Di tingkat lokal, pemerintah daerah meneruskan peringatan melalui sirene tsunami di kawasan padat pesisir, pengeras suara masjid dan kantor desa, radio komunitas,. Sirene dirancang menjangkau beberapa kilometer dan dilengkapi catu daya cadangan, namun efektivitasnya bergantung pada pemeliharaan rutin dan uji fungsi berkala.
 
@@ -21628,7 +21688,7 @@ Gempa Lombok 5 Agustus 2018 menunjukkan tantangan rangkaian gempa beruntun. Gemp
 
 Gempa Palu 28 September 2018 memberi pelajaran tentang keterbatasan untuk sumber dekat. Gempa magnitudo 7,4 di darat dekat Teluk Palu memicu tsunami lokal yang tiba dalam sekitar 3 sampai 6 menit dengan tinggi beberapa meter di dalam teluk sempit. BMKG menerbitkan peringatan berbasis parameter awal, namun gelombang tiba hampir bersamaan dengan proses diseminasi. Karakter teluk sempit dan kemungkinan longsoran bawah laut membuat skenario berbasis subduksi kurang menangkap amplifikasi lokal. Beberapa tide gauge dan sirene di sekitar Palu tidak berfungsi optimal sehingga penyebaran lokal terhambat. Kasus ini menegaskan bahwa untuk sumber sangat dekat, peringatan formal tidak dapat menjadi satu-satunya andalan. Guncangan kuat harus langsung diikuti evakuasi mandiri.
 
-Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Prosedur menyatakan analisis parameter dilakukan dalam dua sampai tiga menit setelah gempa terekam, diikuti penentuan potensi tsunami melalui Decision Support System dalam satu sampai dua menit berikutnya, kemudian penerbitan produk informasi awal dalam total sekitar lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
+Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Prosedur menyatakan analisis parameter dilakukan dalam dua sampai tiga menit setelah gempa terekam, diikuti penentuan potensi tsunami melalui Decision Support System dalam satu sampai dua menit berikutnya, kemudian penerbitan produk informasi awal dalam total sekitar lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan, paling cepat dua jam setelah peringatan pertama. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
 
 Alur end to end InaTEWS adalah perpindahan informasi dari sensor hingga tindakan tanpa jeda terputus. Tahap pertama adalah deteksi oleh jaringan seismometer dan pengiriman data real time ke pusat pengolahan. Tahap kedua adalah pengolahan otomatis dengan SeisComP dan verifikasi operator untuk menghasilkan parameter gempa andal. Tahap ketiga adalah analisis Decision Support System yang mencocokkan parameter dengan skenario dan menetapkan tingkat peringatan per wilayah. Tahap keempat adalah diseminasi melalui Warning Receiver System dan saluran publik ke pemerintah daerah, lembaga terkait, media, dan masyarakat. Tahap kelima adalah penerusan di daerah melalui sirene dan pengeras suara disertai keputusan evakuasi oleh bupati dan wali kota. Tahap keenam adalah pemantauan berkelanjutan dengan tide gauge, buoy, dan laporan lapangan untuk pembaruan, pengakhiran, dan evaluasi. Keberhasilan diukur dari apakah penduduk pesisir menerima pesan yang jelas dan bergerak ke tempat aman sebelum gelombang tiba.
 
@@ -21637,7 +21697,7 @@ Alur end to end InaTEWS adalah perpindahan informasi dari sensor hingga tindakan
 
 ## Sistem Peringatan Dini Hidrometeorologi Banjir Longsor dan Cuaca Ekstrem
 
-Sistem peringatan dini hidrometeorologi banjir menjadi sistem yang paling sering diaktifkan dalam kalender bencana Indonesia karena curah hujan tinggi, topografi beragam, serta interaksi monsun dan sirkulasi ekuator yang memicu awan konvektif. Berbeda dengan gempabumi yang hampir tanpa jeda, ancaman hidrometeorologi memberi jendela beberapa jam hingga beberapa hari yang dapat dimanfaatkan untuk evakuasi apabila observasi, pemodelan, dan diseminasi terhubung tanpa putus. Bab ini membahas Flood Early Warning System dan Multi Hazard Early Warning System secara terpadu.
+Dalam kalender bencana Indonesia, sistem peringatan dini hidrometeorologi banjir menjadi sistem yang paling sering diaktifkan. Penyebabnya adalah curah hujan tinggi, topografi beragam, serta interaksi monsun dan sirkulasi ekuator yang memicu awan konvektif. Berbeda dengan gempabumi yang hampir tanpa jeda, ancaman hidrometeorologi memberi jendela beberapa jam hingga beberapa hari yang dapat dimanfaatkan untuk evakuasi apabila observasi, pemodelan, dan diseminasi terhubung tanpa putus. Bab ini membahas Flood Early Warning System dan Multi Hazard Early Warning System secara terpadu.
 
 Flood Early Warning System atau FEWS mengintegrasikan data hujan, tinggi muka air, dan prakiraan cuaca untuk proyeksi debit dan waktu tiba banjir di titik pantau. FEWS menghubungkan pos hujan telemetri, pos duga air otomatis, data satelit, dan keluaran model cuaca ke model hidrologi daerah aliran sungai. Di Indonesia FEWS dikelola Balai Besar Wilayah Sungai untuk daerah aliran sungai prioritas seperti Ciliwung, Bengawan Solo, Brantas, dan Kapuas. Kenaikan hujan di hulu diterjemahkan menjadi prakiraan muka air di hilir.
 
@@ -21669,7 +21729,7 @@ Integrasi seluruh komponen menentukan apakah sistem peringatan dini hidrometeoro
 
 ## Sistem Peringatan Dini Gunung Api Kekeringan dan Multi Ancaman
 
-Sistem peringatan dini gunung api kekeringan menjadi komponen kunci manajemen risiko bencana Indonesia karena negeri ini memiliki lebih dari seratus gunung api aktif dan wilayah dengan keragaman iklim yang memicu kekeringan musiman. Ancaman letusan dan kekeringan tampak bertolak belakang dari sisi kecepatan, namun keduanya menuntut pemantauan berkelanjutan, ambang jelas, dan informasi yang dapat diterjemahkan menjadi tindakan di tingkat kabupaten dan desa. Pemahaman tentang sistem peringatan dini gunung api kekeringan membantu menjelaskan mengapa peringatan vulkanik bergerak dalam hari hingga minggu sementara peringatan kekeringan bergerak dalam hitungan bulan, dan mengapa keduanya perlu dihubungkan dalam kerangka multi ancaman yang terpadu.
+Bagi Indonesia, sistem peringatan dini gunung api kekeringan menjadi komponen kunci manajemen risiko bencana. Alasannya, negeri ini memiliki lebih dari seratus gunung api aktif dan wilayah dengan keragaman iklim yang memicu kekeringan musiman. Ancaman letusan dan kekeringan tampak bertolak belakang dari sisi kecepatan, namun keduanya menuntut pemantauan berkelanjutan, ambang jelas, dan informasi yang dapat diterjemahkan menjadi tindakan di tingkat kabupaten dan desa. Pemahaman tentang sistem peringatan dini gunung api kekeringan membantu menjelaskan mengapa peringatan vulkanik bergerak dalam hari hingga minggu sementara peringatan kekeringan bergerak dalam hitungan bulan, dan mengapa keduanya perlu dihubungkan dalam kerangka multi ancaman yang terpadu.
 
 Pusat Vulkanologi dan Mitigasi Bencana Geologi atau PVMBG memegang mandat nasional untuk pemantauan gunung api. PVMBG mengelola pos pengamatan di setiap gunung api aktif yang dilengkapi seismograf, GPS kontinu, tiltmeter, dan peralatan gas. Data dikirim real time ke Bandung untuk analisis lintas parameter. Keputusan kenaikan atau penurunan tingkat diambil melalui evaluasi harian yang menilai tren. Informasi resmi diterbitkan melalui aplikasi MAGMA Indonesia yang menjadi rujukan pemerintah daerah dan warga.
 
@@ -21874,7 +21934,7 @@ di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \tex
 | --- | --- | --- | --- |
 | POD gempa >5 SR | >0.95 | 0.98 | Jaringan seismik padat |
 | FAR tsunami | <0.3 | 0.35 | Masih tinggi karena skenario konservatif |
-| Lead time tsunami lokal | 3 sampai 5 menit | 4 menit rata-rata | Perlu 2 menit lagi |
+| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 4 menit rata-rata | Sudah dalam rentang target |
 | POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
 
 ### 2. Simulasi Tabletop hingga Full Scale
@@ -21944,7 +22004,7 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 - Badan Meteorologi, Klimatologi, dan Geofisika. (2010). *InaTEWS: Indonesia tsunami early warning system - Konsep dan implementasi*. BMKG & GITEWS. [InaTEWS - Konsep dan Implementasi](https://www.gitews.org/tsunami-kit/id/E2/sumber_lainnya/InaTEWS%20-%20Konsep%20dan%20Implementasi.pdf)
 
-- Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://cdn.bmkg.go.id/Web/INATEWS_Buku_Pedoman_Edisi_Kedua.pdf)
+- Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://www.gitews.de/tsunami-kit/id/E3/perangkat/Pedoman%20Pelayanan%20Peringatan%20Dini%20Tsunami%20InaTEWS%20%282%29.pdf)
 
 - Badan Nasional Penanggulangan Bencana. (2023). *Katalog data kebencanaan Indonesia*. Pusat Data, Informasi dan Komunikasi Kebencanaan BNPB. [Data Bencana Indonesia BNPB](https://data.bnpb.go.id/)
 
@@ -21968,8 +22028,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23153,8 +23213,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24338,8 +24398,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25388,8 +25448,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26558,8 +26618,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27488,8 +27548,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29194,8 +29254,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30308,8 +30368,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31526,8 +31586,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32721,8 +32781,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33802,8 +33862,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33987,7 +34047,7 @@ Analisis wacana pedagogi membuka wawasan bahwa kelas merupakan arena komunikasi 
 
 ## Metodologi Penelitian dan Konteks Tiga SD di Bogor
 
-Memahami dinamika wacana pedagogi di ruang kelas sekolah dasar memerlukan pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk membongkar mekanisme pengendalian topik tersebut, penelitian ini menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
+Memahami dinamika wacana pedagogi di kelas sekolah dasar menuntut pendekatan penelitian yang mampu menangkap keragaman interaksi verbal secara alami. Pembelajaran Bahasa Indonesia di kelas tidak hanya berputar pada penyerapan materi, tetapi juga melibatkan pembagian giliran bicara antara guru dan siswa. Untuk membongkar mekanisme pengendalian topik tersebut, penelitian ini menerapkan pendekatan kualitatif deskriptif berbasis studi kasus.
 
 Melalui pendekatan kualitatif, interaksi lisan yang berlangsung selama proses belajar-mengajar dapat diamati, direkam, serta dianalisis tanpa memanipulasi situasi kelas.
 
@@ -34123,7 +34183,7 @@ Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat 
 
 ### Dinamika Respons Siswa terhadap Pertanyaan Guru
 
-Berdasarkan hasil analisis wacana kelas, sebagian besar pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata tidak langsung mendapat jawaban dari siswa pada kesempatan pertama. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
+Berdasarkan hasil analisis wacana kelas, pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung mendapat jawaban dari siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
 
 Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi pengendalian topik melalui pertanyaan guru:
 
@@ -34131,9 +34191,8 @@ Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi p
 | :--- | :---: | :---: | :--- |
 | **Langsung Direspons** | 28% | 11% | Siswa siap dan langsung mengambil giliran bicara. |
 | **Tidak Langsung Direspons** | 31% | 51% | Perlu pengulangan pertanyaan atau pancingan tambahan. |
-| **Total Pertanyaan Tanpa Respons Seketika** | 72% | - | Guru terpaksa menjawab pertanyaan sendiri atau mengulang berkali-kali. |
 
-Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, guru sangat aktif melontarkan pertanyaan pemancing topik baru (mencapai 51%), tetapi respons balik yang datang secara langsung dari siswa sangat rendah, yaitu hanya 11%. Secara keseluruhan, sebanyak 72% dari total kalimat tanya yang diajukan guru tidak direspons secara langsung. 
+Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, pertanyaan guru yang tidak langsung direspons siswa mencapai 51%, sedangkan yang langsung direspons hanya 11%. Secara keseluruhan, pertanyaan guru yang tidak langsung direspons (31%) lebih banyak daripada yang langsung direspons (28%).
 
 Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung memosisikan diri sebagai penerima pasif yang baru akan bersuara jika pemicunya adalah pertanyaan spesifik dari guru.
 
@@ -34265,7 +34324,7 @@ Kata penanda *ya* mencatatkan frekuensi tertinggi sebesar 13% dalam pengalihan t
 
 ## Penggunaan Kata Sapaan dalam Navigasi Interaksi Kelas
 
-Dalam wacana kelas sekolah dasar, bahasa tidak hanya berfungsi menyampaikan materi pelajaran, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi sebagai kemudi navigasi yang mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
+Dalam wacana kelas sekolah dasar, bahasa tidak hanya menyampaikan materi, tetapi juga mengatur tata tertib komunikasi dan hubungan antarpenutur. Salah satu piranti kebahasaan yang memegang peran mendasar dalam dinamika ini adalah kata sapaan. Bentuk-bentuk sapaan seperti *Pak*, *Bu*, *Anak-anak*, serta pemanggilan nama diri siswa berfungsi sebagai kemudi navigasi yang mengarahkan perhatian, mengalokasikan giliran bicara, dan menjaga alur topik wacana.
 
 Ketika guru berdiri di depan kelas dan mengucapkan kata sapaan tertentu, interaksi sosial langsung terbentuk. Sapaan menetapkan siapa yang berhak berbicara, siapa yang harus mendengarkan, serta bagaimana topik percakapan dimulai atau dialihkan. Oleh karena itu, analisis kata sapaan memberikan gambaran jernih mengenai cara otoritas dan keakraban dikelola dalam wacana pedagogi.
 
@@ -34495,7 +34554,7 @@ Jawablah pertanyaan refleksi berikut untuk menguji pemahaman kamu:
 
 ## Pengabaian Respons Siswa dan Dominasi Komunikasi Guru
 
-Ketika berada di dalam kelas sekolah dasar, pernahkah kamu memperhatikan bagaimana seorang guru mengajukan pertanyaan bertubi-tubi tanpa sempat mengulas jawaban yang diberikan oleh murid-muridnya? Dalam wacana pedagogi, fenomena ini dikenal sebagai pengendalian topik melalui pengabaian respons. Guru memegang kendali atas alur percakapan tanpa melarang siswa berbicara, yaitu dengan membiarkan jawaban siswa berlalu begitu saja tanpa tanggapan, pujian, maupun konfirmasi.
+Pernahkah kamu memperhatikan seorang guru sekolah dasar mengajukan pertanyaan bertubi-tubi di kelas tanpa sempat mengulas jawaban murid-muridnya? Dalam wacana pedagogi, fenomena ini dikenal sebagai pengendalian topik melalui pengabaian respons. Guru memegang kendali atas alur percakapan tanpa melarang siswa berbicara, yaitu dengan membiarkan jawaban siswa berlalu begitu saja tanpa tanggapan, pujian, maupun konfirmasi.
 
 Pengabaian respons ini menciptakan dinamika komunikasi yang berat sebelah. Meskipun kelas terlihat ramai oleh interaksi tanya-jawab, sejatinya pembicaraan tersebut digerakkan oleh agenda tunggal guru. Siswa hanya diposisikan sebagai pemenuh instruksi singkat, sementara penguasaan arah wacana berada sepenuhnya di tangan pengajar.
 
@@ -34583,7 +34642,7 @@ Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons sis
 2. Pola interaksi yang terbentuk memotong tahap umpan balik (Feedback) sehingga menggeser pola IRF menjadi alur pembicaraan yang kaku dan didominasi oleh instruksi guru.
 3. Dampak dari pengabaian ini mencakup pasivitas komunikasi siswa, jawaban yang cenderung serba pendek, serta menurunnya kebiasaan dan keberanian anak dalam mengungkapkan pendapat di kelas.
 
-#### Pertanyaan Refleksi
+#### Renungan tentang Jawaban Siswa yang Terabaikan
 1. Menurut pengamatanmu, apakah bentuk interaksi yang diwarnai pengabaian respons ini masih sering ditemui dalam praktik pembelajaran di sekolah dasar saat ini?
 2. Bagaimana kamu sebagai seorang guru menyusun strategi komunikasi agar setiap jawaban siswa dapat dijadikan pijakan untuk memperdalam topik pembelajaran tanpa membuat durasi kelas terbuang sia-sia?
 
@@ -34721,7 +34780,7 @@ Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran.
 
 ## Referensi Akademik dan Sumber Pustaka Terpilih
 
-Bab ini menyajikan sintesis akhir dari keseluruhan pembahasan mengenai sistem pengendalian topik dalam wacana pedagogi di sekolah dasar, sekaligus menghimpun rujukan akademik utama yang menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
+Bab ini memuat sintesis akhir pembahasan sistem pengendalian topik dalam wacana pedagogi sekolah dasar sekaligus menghimpun rujukan akademik utama. Rujukan tersebut menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
 
 ### Struktur dan Pengendalian Wacana Kelas SD
 
@@ -34767,15 +34826,15 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education.
 - Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge.
 - Fairclough, N. (2006). *Discourse and social change*. Polity Press.
-- Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 58-74. [https://doi.org/10.21009/AKSIS.010105](https://doi.org/10.21009/AKSIS.010105)
+- Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 80-103. [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
 - McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press.
 - Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [https://doi.org/10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)
 - Mercer, N. (1995). *The guided construction of knowledge: Talk amongst teachers and learners*. Multilingual Matters.
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35434,8 +35493,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36727,8 +36786,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37647,8 +37706,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38808,8 +38867,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38983,6 +39042,17 @@ Sistem 2 mengelola konsentrasi, perhatian penuh, dan analisis logis. Saat kita m
 Kedua sistem ini terus berkolaborasi di dalam pikiran kita. Sistem 1 biasanya menjadi garda terdepan dengan menyodorkan berbagai kesan spontan, intuisi, dan perasaan ke Sistem 2. Begitu Sistem 2 menyetujui masukan tersebut, kesan tadi langsung berubah menjadi keyakinan kuat dan tindakan nyata.
 
 Namun, saat Sistem 1 menemui hambatan, misalnya ketika harus menghitung perkalian rumit, ia segera meminta bantuan dari Sistem 2 untuk memprosesnya secara logis.
+
+Diagram berikut merangkum dua jalur kerja sama kedua sistem tersebut.
+
+```mermaid
+flowchart LR
+    accTitle: Interaksi Sistem 1 dan Sistem 2
+    accDescr: Sistem 1 menyodorkan kesan spontan, intuisi, dan perasaan ke Sistem 2. Begitu Sistem 2 menyetujuinya, kesan tadi berubah menjadi keyakinan kuat dan tindakan nyata. Saat menemui hambatan, Sistem 1 meminta bantuan Sistem 2 untuk memprosesnya secara logis.
+    S1["Sistem 1"] -->|"kesan spontan, intuisi, perasaan"| S2["Sistem 2"]
+    S2 -->|"menyetujui"| KT["Keyakinan kuat dan tindakan nyata"]
+    S1 -.->|"menemui hambatan, meminta bantuan"| S2
+```
 
 ### Hukum Usaha Minimum (Law of Least Effort)
 
@@ -39871,6 +39941,18 @@ Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, buka
 - **Jerman (Opt-in):** Pilihan bawaan (*default*) menetapkan bahwa setiap orang secara otomatis berstatus bukan donor. Untuk berpartisipasi, warga harus secara aktif mencentang kotak khusus atau mengisi formulir pendaftaran. Hal ini membutuhkan tindakan nyata.
 - **Austria (Opt-out):** Kebalikannya, status donor adalah pilihan bawaan untuk setiap warga negara. Siapa saja yang keberatan harus secara sadar memilih keluar dengan mencentang kolom penolakan.
 
+Grafik berikut membandingkan tingkat partisipasi donor organ di kedua negara tersebut.
+
+```mermaid
+xychart
+    accTitle: Partisipasi donor organ di Jerman dan Austria
+    accDescr: Tingkat partisipasi donor organ di Jerman dengan sistem opt-in hanya sekitar 12 persen, sedangkan di Austria dengan sistem opt-out mencapai hampir 99 persen.
+    title "Partisipasi donor organ"
+    x-axis ["Jerman (Opt-in)", "Austria (Opt-out)"]
+    y-axis "Persen" 0 --> 100
+    bar [12, 99]
+```
+
 > **Insight:** Inersia manusia sangat kuat. Kebanyakan orang akan mengikuti pilihan bawaan yang sudah ditentukan secara otomatis oleh sistem daripada melakukan upaya kognitif untuk mengubahnya.
 
 ### Desain Formulir SIM
@@ -39956,6 +40038,18 @@ Teori kini bertemu dengan praktik. Setelah memahami Sistem 1 dan Sistem 2, kekua
 Merancang intervensi perilaku tidak bisa mengandalkan tebakan atau insting semata. Agar menghasilkan perubahan yang efektif sekaligus etis, diperlukan kerangka kerja yang terstruktur. Di tingkat internasional, salah satu metodologi yang paling populer dan dikembangkan oleh OECD adalah **BASIC Framework**.
 
 BASIC merupakan akronim dari lima tahapan utama: **B**ehaviour (Perilaku), **A**nalysis (Analisis), **S**trategy (Strategi), **I**ntervention (Intervensi), dan **C**hange (Perubahan). Mari kita bedah penerapannya.
+
+Sebelum membedahnya satu per satu, diagram berikut memperlihatkan urutan kelima tahapan tersebut.
+
+```mermaid
+flowchart TD
+    accTitle: Lima tahapan BASIC Framework
+    accDescr: Lima tahapan BASIC berjalan berurutan dari Behaviour (Perilaku), Analysis (Analisis), Strategy (Strategi), Intervention (Intervensi), sampai Change (Perubahan).
+    T1["Behaviour (Perilaku)"] --> T2["Analysis (Analisis)"]
+    T2 --> T3["Strategy (Strategi)"]
+    T3 --> T4["Intervention (Intervensi)"]
+    T4 --> T5["Change (Perubahan)"]
+```
 
 ## 1. Behaviour (Perilaku)
 
@@ -40061,8 +40155,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41426,8 +41520,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42041,8 +42135,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43248,8 +43342,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44294,8 +44388,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44921,8 +45015,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46192,8 +46286,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47055,8 +47149,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47847,8 +47941,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48899,8 +48993,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50329,8 +50423,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51971,8 +52065,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53423,8 +53517,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54475,8 +54569,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55812,8 +55906,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57101,8 +57195,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58317,8 +58411,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59572,8 +59666,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61602,8 +61696,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62323,8 +62417,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63101,8 +63195,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64453,8 +64547,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64512,7 +64606,7 @@ Ikatan sosial juga mendapat imbas positif. Saat kita menghidupi peran yang sejal
 
 Selamat datang di bagian yang akan membawa kita lebih dalam ke inti filosofi Ikigai. Setelah memahami konsep dasar Ikigai sebagai tujuan hidup dan alasan kita bangun di pagi hari, kini saatnya kita membongkar fondasinya: keempat pilar utama yang membentuk dan menuntun kita dalam perjalanan menemukan Ikigai sejati. Keempat pilar ini adalah ''Apa yang Kamu Cintai'', ''Apa yang Kamu Kuasai'', ''Apa yang Dibutuhkan Dunia'', dan ''Apa yang Dapat Menghasilkan Uang''. Memahami setiap pilar secara mendalam adalah langkah penting sebelum kita menggabungkannya.
 
-## 1\. Apa yang Kamu Cintai (Passion)
+## 1\. Apa yang Kamu Cintai
 
 Pilar pertama ini adalah tentang hati dan jiwamu. Ini adalah tentang hal-hal yang benar-benar membangkitkan gairah, kegembiraan, dan rasa kepuasan mendalam dalam dirimu. Aktivitas yang kamu lakukan karena murni kesenangan, tanpa merasa terbebani, bahkan jika kamu tidak dibayar untuk itu.
 
@@ -64524,7 +64618,7 @@ Aktivitas yang kamu cintai biasanya memiliki beberapa tanda. Kamu melakukannya m
 **Contoh:**
 Sebagai contoh, seseorang yang mencintai musik bisa menghabiskan berjam-jam bermain gitar, menulis lagu, atau mendengarkan berbagai genre tanpa merasa bosan. Musik adalah sumber kegembiraan dan ekspresi diri baginya. Bagi pecinta alam, kedamaian sejati mungkin ditemukan saat mendaki gunung, berkebun, atau sekadar menghabiskan waktu di taman. Sementara itu, seorang penulis amatir mungkin senang menulis cerita pendek, puisi, atau jurnal pribadi, meskipun tulisannya tidak pernah diterbitkan atau dibaca orang lain. Proses menulis itu sendiri sudah menjadi kebahagiaan baginya.
 
-## 2\. Apa yang Kamu Kuasai (Mission)
+## 2\. Apa yang Kamu Kuasai
 
 Pilar kedua berpusat pada bakat, keterampilan, dan kemampuan yang kamu miliki. Pilar ini menyoroti kompetensi dan penguasaanmu. Ini mencakup hal-hal yang dapat kamu kerjakan dengan baik, sekaligus membuatmu senang melakukannya dan selalu ingin meningkatkannya. Pilar ini beririsan dengan ''Apa yang Kamu Cintai'' namun lebih menonjolkan aspek penguasaan keterampilan.
 
@@ -64537,12 +64631,12 @@ Pilar kedua berpusat pada bakat, keterampilan, dan kemampuan yang kamu miliki. P
 - Terdapat rasa puas tersendiri ketika kamu berhasil memanfaatkan keahlian tersebut untuk mencapai sesuatu.
 
 **Contoh:**
-Misalnya, seorang *programmer* yang mahir sangat menyukai logika dan pemecahan masalah (*passion*), sekaligus memiliki pemahaman mendalam tentang berbagai bahasa pemrograman dan algoritma untuk membuat sistem yang efisien. Contoh lain adalah seorang koki berbakat yang punya kepekaan rasa luar biasa dan teknik memasak mumpuni, sehingga mampu menghasilkan hidangan inovatif. Atau, guru yang efektif dengan kemampuan alami menjelaskan konsep sulit menjadi mudah dimengerti, mengelola kelas dengan baik, serta mampu menginspirasi siswanya.
+Misalnya, seorang *programmer* yang mahir sangat menyukai logika dan pemecahan masalah, sekaligus memiliki pemahaman mendalam tentang berbagai bahasa pemrograman dan algoritma untuk membuat sistem yang efisien. Contoh lain adalah seorang koki berbakat yang punya kepekaan rasa luar biasa dan teknik memasak mumpuni, sehingga mampu menghasilkan hidangan inovatif. Atau, guru yang efektif dengan kemampuan alami menjelaskan konsep sulit menjadi mudah dimengerti, mengelola kelas dengan baik, serta mampu menginspirasi siswanya.
 
 > [!IMPORTANT]
 > Menguasai sesuatu tidak selalu berarti menjadi yang terbaik di dunia, melainkan memiliki tingkat kompetensi yang membuatmu percaya diri dan mampu memberikan nilai bagi orang lain.
 
-## 3\. Apa yang Dibutuhkan Dunia (Vocation)
+## 3\. Apa yang Dibutuhkan Dunia
 
 Pilar ketiga ini mengalihkan fokus dari dirimu ke lingkungan sekitar. Tujuannya adalah mengidentifikasi masalah, kebutuhan, atau tantangan di masyarakat yang memanggilmu untuk turun tangan. Pilar ini mendorong kita untuk memikirkan bagaimana kita bisa berkontribusi dan menciptakan perubahan positif.
 
@@ -64555,7 +64649,7 @@ Sebagai gambaran, seorang aktivis lingkungan yang menyadari ancaman perubahan ik
 
 > "Cara terbaik untuk menemukan dirimu adalah dengan kehilangan dirimu dalam pelayanan orang lain." - Mahatma Gandhi. Pilar ini adalah esensi dari pepatah tersebut.
 
-## 4\. Apa yang Dapat Menghasilkan Uang (Profession)
+## 4\. Apa yang Dapat Menghasilkan Uang
 
 Pilar keempat ini merupakan aspek praktis dari Ikigai yang berfokus pada keberlanjutan hidup. Ini membahas cara mengubah minat, keterampilan, dan kontribusimu menjadi sebuah nilai ekonomi, sehingga kamu dapat memenuhi kebutuhan finansial.
 
@@ -64568,9 +64662,9 @@ Pilar keempat ini merupakan aspek praktis dari Ikigai yang berfokus pada keberla
 - Pendapatan tersebut mampu menjadi sumber yang dapat menopang gaya hidupmu secara berkelanjutan.
 
 **Contoh:**
-Seorang desainer grafis mencintai seni (*passion*), menguasai perangkat lunak desain (*mission*), dan menyadari banyaknya bisnis yang membutuhkan identitas visual (*vocation*). Ia kemudian menawarkan jasanya secara profesional, dan klien bersedia membayar hasil karyanya. 
+Seorang desainer grafis mencintai seni, menguasai perangkat lunak desain, dan menyadari banyaknya bisnis yang membutuhkan identitas visual. Ia kemudian menawarkan jasanya secara profesional, dan klien bersedia membayar hasil karyanya. 
 
-Sama halnya dengan pelatih kebugaran pribadi (*personal trainer*) yang menggabungkan gairah untuk gaya hidup sehat, pengetahuan anatomi tubuh, and pengamatannya bahwa banyak orang kesulitan menjaga kebugaran. Ia lalu dibayar atas sesi latihan yang ia berikan. 
+Sama halnya dengan pelatih kebugaran pribadi (*personal trainer*) yang menggabungkan gairah untuk gaya hidup sehat, pengetahuan anatomi tubuh, dan pengamatannya bahwa banyak orang kesulitan menjaga kebugaran. Ia lalu dibayar atas sesi latihan yang ia berikan. 
 
 Contoh lainnya adalah *software engineer* yang menikmati memecahkan masalah lewat kode, punya keahlian tinggi, dan melihat kebutuhan perusahaan akan perangkat lunak khusus. Ia kemudian bekerja dan mendapatkan penghasilan dari proyek-proyeknya.
 
@@ -64580,7 +64674,7 @@ Memahami keempat pilar ini secara terpisah adalah langkah pertama yang kuat. Set
 
 ## Zona Persimpangan Ikigai
 
-Setelah memahami keempat pilar utama Ikigai secara terpisah, kini saatnya mengeksplorasi bagaimana pilar-pilar ini saling berinteraksi, berpadu, dan menciptakan area persimpangan. Konsep zona persimpangan ini sangat penting karena di sinilah esensi tujuan hidup mulai terungkap.
+Kini, setelah keempat pilar utama Ikigai dipahami secara terpisah, saatnya melihat bagaimana pilar-pilar itu saling berinteraksi dan berpadu. Perpaduan itu menciptakan area persimpangan, dan konsep zona persimpangan ini sangat penting karena di sinilah esensi tujuan hidup mulai terungkap.
 
 > Ikigai adalah sinergi yang muncul dari perpaduan harmonis keempat pilarnya, menghasilkan sesuatu yang jauh lebih bernilai dari sekadar gabungan bagian-bagiannya.
 
@@ -64810,7 +64904,7 @@ Ketika kamu duduk berbincang santai dengan salah seorang petani, ia secara terbu
 
 ## Menciptakan Nilai dari Apa yang Dapat Menghasilkan Uang
 
-Pilar ''Apa yang Dapat Menghasilkan Uang'' dalam kerangka Ikigai berfokus pada bagaimana minat, bakat, dan kontribusi kamu kepada dunia dapat diubah menjadi sumber pendapatan yang berkelanjutan. Ini adalah aspek penting karena memungkinkan kamu mempertahankan gaya hidup sambil mengejar tujuan yang bermakna. Tanpa komponen ini, Ikigai mungkin akan tetap menjadi hasrat atau hobi tanpa dukungan finansial, yang pada akhirnya bisa sulit dipertahankan dalam jangka panjang.
+Pilar ''Apa yang Dapat Menghasilkan Uang'' dalam kerangka Ikigai berfokus pada sumber pendapatan yang berkelanjutan. Pilar ini menyoroti bagaimana minat, bakat, dan kontribusi kamu kepada dunia dapat diubah menjadi sumber pendapatan tersebut. Ini adalah aspek penting karena memungkinkan kamu mempertahankan gaya hidup sambil mengejar tujuan yang bermakna. Tanpa komponen ini, Ikigai mungkin akan tetap menjadi hasrat atau hobi tanpa dukungan finansial, yang pada akhirnya bisa sulit dipertahankan dalam jangka panjang.
 
 Memahami pilar ini berarti mengeksplorasi potensi ekonomi dari "apa yang kamu cintai," "apa yang kamu kuasai," dan "apa yang dibutuhkan dunia." Tujuannya adalah menciptakan nilai ekonomi dari sesuatu yang benar-benar selaras dengan dirimu.
 
@@ -64872,7 +64966,7 @@ Menciptakan nilai ekonomi dari Ikigai adalah sebuah perjalanan berkelanjutan. Pr
 
 ## Menyusun Peta Ikigai Pribadi
 
-Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang, kini saatnya memadukan penemuan-penemuan tersebut. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
+Setelah kamu menjelajahi dan mengidentifikasi setiap pilar Ikigai secara mendalam, kini saatnya memadukan penemuan-penemuan tersebut. Keempat pilar itu adalah apa yang kamu cintai, apa yang kamu kuasai, apa yang dibutuhkan dunia, dan apa yang dapat menghasilkan uang. Bagian ini akan membimbing langkah demi langkah untuk menyusun Peta Ikigai pribadi, sebuah kerangka kerja visual yang membantu merumuskan pernyataan Ikigai yang jelas.
 
 ### Mengapa Menyusun Peta Ikigai?
 
@@ -64892,7 +64986,7 @@ Mari mulai menyusun peta ini. Siapkan alat tulis atau dokumen digital untuk menc
 
 Kumpulkan semua catatan, daftar, dan hasil refleksi dari bagian-bagian sebelumnya. Bahan-bahan ini akan menjadi fondasi utama.
 
-Untuk **Passion** (gairah), ingat kembali aktivitas yang membuat gairah memuncak hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
+Untuk **Love** (cinta), ingat kembali aktivitas yang membuat gairah memuncak hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
 
 Selanjutnya, kenali **Strength** (kekuatan) berupa bakat alami atau keterampilan yang telah terasah. Ini biasanya tercermin dari hal-hal yang membuat orang lain sering meminta bantuan atau memujimu. 
 
@@ -64918,11 +65012,11 @@ Fokuskan pada area tempat dua lingkaran saling tumpang tindih untuk menemukan *P
 
 *Passion* adalah gabungan antara hal yang kamu cintai dan kuasai. Misalnya, bila kamu menyukai bercerita dan pandai menulis, *Passion* kamu bisa berwujud penulisan cerita inspiratif. 
 
-*Mission* terbentuk dari keterampilan yang dikuasai dan apa yang dibutuhkan dunia. Contohnya, seseorang yang pandai memecahkan masalah dapat menjadikannya misi untuk mengembangkan teknologi energi bersih karena dunia memang membutuhkan solusi energi terbarukan.
+*Mission* terbentuk dari hal yang kamu cintai dan apa yang dibutuhkan dunia. Contohnya, seseorang yang mencintai alam dapat menjadikannya misi untuk mendorong penggunaan energi bersih karena dunia memang membutuhkan solusi energi terbarukan.
 
 Untuk menemukan *Vocation* (panggilan hidup), temukan titik temu antara kebutuhan dunia dan cara menghasilkan uang. Sebagai contoh, dunia membutuhkan pendidikan yang lebih baik, dan mengajar bisa mendatangkan uang, sehingga panggilan hidupnya adalah menjadi pendidik inovatif.
 
-Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu dengan aktivitas yang dicintai. Fotografer acara atau seni bisa menjadi profesi yang tepat bagi mereka yang mencintai fotografi sekaligus mampu menjadikannya mata pencaharian.
+Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu dengan keterampilan yang dikuasai. Fotografer acara atau seni bisa menjadi profesi yang tepat bagi mereka yang mahir memotret sekaligus mampu menjadikannya mata pencaharian.
 
 #### 4. Temukan Inti Ikigai
 
@@ -65150,7 +65244,7 @@ Cohen, R., Bavishi, C., & Rozanski, A. (2016). Purpose in life and its relations
 
 Frankl, V. E. (1985). *Man''s search for meaning* (Revised and updated ed.). Washington Square Press. (Original work published 1946).
 
-García, H., & Miralles, F. (2017). *Ikigai: The Japanese secret to a long and happy life*. Penguin Books.
+García, H., & Miralles, F. (2017). *Ikigai: The Japanese secret to a long and happy life*. Penguin Books. [https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)
 
 Hill, P. L., & Turiano, N. A. (2014). Purpose in life as a predictor of mortality across adulthood. *Psychological Science, 25*(7), 1482–1486. [https://doi.org/10.1177/0956797614531799](https://doi.org/10.1177/0956797614531799)
 
@@ -65164,9 +65258,11 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
-Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
+
+Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66387,8 +66483,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-15T13:24:16.983Z',
-  '2026-10-15T13:24:16.983Z'
+  '2026-10-15T22:59:47.368Z',
+  '2026-10-15T22:59:47.368Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
