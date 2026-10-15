@@ -244,6 +244,7 @@ tasks:
 | `Section` 1, 2, 3 | Approve render pipeline, authoring rule, retrofit and rollout | 2026-10-16 |
 | `Spec` | Approve `docs/code-plan/specs/2026-10-16-mermaid-diagrams-design.md` | 2026-10-16 |
 | `Plan` | Approve and execute (T1-T12, 3 waves) | 2026-10-16 |
+| Revisions (no new gate) | T13, T14 and T15 added as discovered items inside the approved scope, each to meet an existing acceptance criterion or spec line | 2026-10-16 |
 
 ## Overview
 
@@ -635,7 +636,7 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 | T15c | hoggy | `scripts/diagrams/cache.ts`, its test | key material adds the installed `mermaid` version and the sha256 of `postprocess.ts` (F4, S1) |
 | T15d | chef | `GEMINI.md`, `tests/scripts/render-diagrams.test.ts` | section 25 wording for F2, F3, F5, the new rules and key inputs; renderer suite skips when `CI` is set |
 | T15e | hoggy (after a, c) | chapter 01 of `iklan-digital-dan-penargetan-algoritma`, both `diagrams/` folders | F6 label order, then `diagrams:render --prune` |
-| T15f | parent | plan, spec | F7 superseded constraints and version 2; F8 spec status Approved |
+| T15f | parent | plan, spec | F7 superseded constraints and a revision note (`version:` stamps the plan format, not the revision); F8 spec status Approved |
 
 ## Batch manifest (written before dispatch)
 
