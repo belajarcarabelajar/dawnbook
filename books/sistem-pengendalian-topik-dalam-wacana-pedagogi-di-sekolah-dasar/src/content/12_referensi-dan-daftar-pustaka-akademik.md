@@ -1,6 +1,6 @@
 ## Referensi Akademik dan Sumber Pustaka Terpilih
 
-Bab ini menyajikan sintesis akhir dari keseluruhan pembahasan mengenai sistem pengendalian topik dalam wacana pedagogi di sekolah dasar, sekaligus menghimpun rujukan akademik utama yang menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
+Bab ini memuat sintesis akhir pembahasan sistem pengendalian topik dalam wacana pedagogi sekolah dasar sekaligus menghimpun rujukan akademik utama. Rujukan tersebut menjadi fondasi teoretis dan metodologis penulisan buku ini. Melalui pemahaman terhadap struktur wacana interaksi kelas, kamu dapat melihat gambaran utuh tentang bagaimana hubungan kekuasaan, strategi bahasa guru, serta ruang partisipasi siswa terbentuk di ruang kelas.
 
 ### Struktur dan Pengendalian Wacana Kelas SD
 
