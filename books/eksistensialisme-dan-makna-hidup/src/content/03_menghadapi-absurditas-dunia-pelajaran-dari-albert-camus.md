@@ -51,6 +51,20 @@ Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna y
 
 > **Insight:** "Satu-satunya cara untuk berurusan dengan dunia yang tidak bebas adalah dengan menjadi sangat bebas sehingga keberadaanmu sendiri merupakan tindakan pemberontakan." - Albert Camus.
 
+Ketiga jalan itu, beserta sikap Camus terhadap masing-masing, bisa kamu lihat sekaligus di sini.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga respons terhadap absurditas menurut Camus
+    accDescr: Saat seseorang menyadari hidup ini absurd, ada tiga jalan. Bunuh diri fisik ditolak Camus sebagai kekalahan total. Bunuh diri filosofis melarikan diri lewat loncatan keyakinan dan berhenti memakai akal sehat. Pemberontakan adalah jalan sang pahlawan yang tetap memilih hidup dengan penuh semangat.
+    A["Menyadari hidup ini absurd"] --> B["Bunuh Diri Fisik"]
+    A --> C["Bunuh Diri Filosofis"]
+    A --> D["Memberontak"]
+    B --> B2["Ditolak Camus sebagai kekalahan total"]
+    C --> C2["Melarikan diri lewat Loncatan Keyakinan dan berhenti memakai akal sehat"]
+    D --> D2["Jalan sang pahlawan, tetap memilih hidup dengan penuh semangat"]
+```
+
 ## 4\. Cara Menghadapi Absurditas dalam Praktik
 
 Bagaimana kita menerapkan pemikiran Camus dalam kehidupan sehari-hari? Camus menawarkan tiga konsekuensi dari menerima absurditas:
