@@ -32,6 +32,23 @@ Jika cookie adalah file teks, **Pixel Tracking** (sering disebut *web beacon* at
    - Jenis perangkat dan peramban yang digunakan.
    - Aktivitas spesifik (misalnya: menekan tombol "Beli").
 
+Jika digambar, pertukaran tak kasatmata antara perambanmu dan server pengiklan tampak seperti ini.
+
+```mermaid
+sequenceDiagram
+    accTitle: Cara kerja pixel tracking
+    accDescr: Saat kamu memuat halaman web, peramban kamu otomatis meminta gambar 1×1 piksel dari server pengiklan, dan bersamaan dengan permintaan itu mengirim alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti menekan tombol Beli.
+    participant P as Peramban kamu
+    participant S as Server pengiklan
+    Note over P: Kamu memuat halaman web
+    par Bersamaan
+        P->>S: Minta gambar 1×1 piksel (otomatis)
+    and
+        P->>S: Kirim data kunjungan
+    end
+    Note over S: Alamat IP<br/>Waktu kunjungan<br/>Jenis perangkat dan peramban<br/>Aktivitas spesifik, misalnya tombol “Beli”
+```
+
 **Contoh Kode Sederhana:** Secara teknis, sebuah pixel bisa terlihat sesederhana baris kode HTML berikut:
 
 ```html

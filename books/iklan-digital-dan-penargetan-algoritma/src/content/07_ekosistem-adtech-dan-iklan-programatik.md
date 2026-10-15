@@ -35,6 +35,31 @@ Untuk memahami cara kerja sistem ini, kita perlu mengenal para aktor di balik la
 6. **Pemenang Dipilih:** Penawar tertinggi memenangkan lelang.
 7. **Penayangan Iklan:** Iklan pemenang dikirim ke situs web dan muncul di layar kamu.
 
+Agar lebih mudah dibayangkan, ketujuh langkah tadi bisa digambarkan sebagai pertukaran pesan di antara para aktor berikut.
+
+```mermaid
+sequenceDiagram
+    accTitle: Alur Real-Time Bidding (RTB)
+    accDescr: Kamu membuka artikel, situs web mengirim permintaan iklan ke SSP, SSP mengirim informasi situs dan data anonim kamu ke Ad Exchange, Ad Exchange menyebarkannya ke berbagai DSP, DSP yang cocok dengan profil kamu mengajukan penawaran, penawar tertinggi menang, lalu iklan pemenang dikirim ke situs web dan muncul di layar kamu. Seluruh proses berlangsung kurang dari 100 milidetik.
+    actor K as Kamu
+    participant W as Situs web
+    participant SSP
+    participant AX as Ad Exchange
+    participant DSP as Berbagai DSP
+    K->>W: Membuka artikel
+    W->>SSP: Permintaan iklan (ruang kosong)
+    SSP->>AX: Info situs dan data anonim kamu
+    AX->>DSP: Lelang dimulai, informasi disebarkan
+    Note over DSP: Cek profil kamu dengan kriteria klien
+    opt Profil cocok
+        DSP->>AX: Penawaran harga (bidding)
+    end
+    Note over AX: Penawar tertinggi menang
+    Note over W,AX: Iklan pemenang dikirim ke situs web
+    W->>K: Iklan muncul di layar kamu
+    Note over K,DSP: Seluruh proses kurang dari 100 milidetik
+```
+
 ### Logika Matematika di Balik Lelang
 
 Dalam AdTech, sering digunakan sistem **Second-Price Auction** (meskipun sekarang industri mulai beralih ke *First-Price*). Dalam lelang harga kedua, pemenang membayar harga penawar tertinggi kedua ditambah satu sen.
