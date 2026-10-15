@@ -116,7 +116,11 @@ afterAll(() => {
   for (const r of roots.splice(0)) fs.rmSync(r, { recursive: true, force: true });
 });
 
-describe.skipIf(!fs.existsSync(executablePath))("renderBooks", () => {
+// GitHub's Ubuntu runner ships /usr/bin/chromium, so CI would render although CI never needs to.
+const skipRender =
+  !fs.existsSync(executablePath) || (!!process.env.CI && process.env.DIAGRAMS_RENDER_TEST !== "1");
+
+describe.skipIf(skipRender)("renderBooks", () => {
   let seed = "";
   let first: RenderResult;
 
