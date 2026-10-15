@@ -1,0 +1,27 @@
+sequenceDiagram
+    accTitle: Alur pesanan lima pihak
+    accDescr: Pembeli memesan lewat aplikasi, aplikasi meneruskan ke toko, toko mengecek gudang, gudang mengonfirmasi stok, lalu kurir mengantar paket ke pembeli.
+    actor B as Pembeli
+    participant A as Aplikasi
+    participant T as Toko
+    participant G as Gudang
+    participant K as Kurir
+    B->>A: Pesan barang
+    A->>T: Teruskan pesanan
+    T->>G: Cek stok di gudang utama
+    Note over G: Hitung stok di rak
+    opt Stok tersedia
+        G-->>T: Konfirmasi stok
+    end
+    loop Setiap jam
+        T->>K: Minta jadwal antar
+    end
+    alt Kurir siap
+        K-->>T: Jadwal disetujui
+    else Kurir penuh
+        K-->>T: Tunda ke besok
+    end
+    Note over A,T: Status dikirim ke aplikasi
+    Note right of K: Paket dibawa
+    K->>B: Antar paket
+    Note over B,K: Seluruh proses selesai dalam satu hari

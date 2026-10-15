@@ -1,0 +1,17 @@
+stateDiagram-v2
+    accTitle: Status dengan komposit dan pilihan
+    accDescr: Pesanan masuk ke pemrosesan yang berisi verifikasi dan pengemasan, lalu sebuah pilihan menentukan pesanan dikirim atau dibatalkan.
+    [*] --> Masuk
+    Masuk --> Proses
+    state Proses {
+        [*] --> Verifikasi
+        Verifikasi --> Kemas
+        Kemas --> [*]
+    }
+    state pilih <<choice>>
+    Proses --> pilih
+    pilih --> Dikirim : stok ada
+    pilih --> Batal : stok habis
+    note right of Batal : Dana dikembalikan
+    Dikirim --> [*]
+    Batal --> [*]

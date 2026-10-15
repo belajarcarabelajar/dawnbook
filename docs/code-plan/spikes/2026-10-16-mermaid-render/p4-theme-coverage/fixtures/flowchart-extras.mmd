@@ -1,0 +1,11 @@
+flowchart TD
+    accTitle: Bentuk simpul dan subgraf
+    accDescr: Mulai menuju pemeriksaan, cabang ya masuk ke tahap proses yang menyimpan data dan menulis catatan, cabang tidak langsung ke selesai.
+    M([Mulai]) --> P{Periksa}
+    P -->|Ya| A
+    P -.->|Tidak| Z((Selesai))
+    subgraph G [Tahap proses]
+        A[Langkah satu] ==> B[(Simpan data)]
+        B --> C>Catatan]
+    end
+    C --> Z

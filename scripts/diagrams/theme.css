@@ -1,8 +1,61 @@
 /* Colours come from mdBook theme variables, so one SVG follows every reader theme (light, rust, coal, navy, ayu). Hex fallbacks are the mdBook light theme values. */
+/* Mermaid scopes every rule below as #<svgId> <selector> and places it after its own rules, so each class rule here must match the specificity of the Mermaid rule it replaces. */
 text, tspan, .label text, .cluster-label text, .cluster text, .edgeLabel text { fill: var(--fg, #000000); }
 .node rect, .node circle, .node ellipse, .node polygon, .node path { fill: var(--quote-bg, #f1f6f8); stroke: var(--links, #20609f); stroke-width: 1.5px; }
-.cluster rect { fill: var(--table-alternate-bg, #f7f7f7); stroke: var(--quote-border, #dfecf1); stroke-width: 1px; }
+.cluster rect { fill: var(--table-alternate-bg, #f7f7f7); stroke: var(--links, #20609f); stroke-width: 1px; stroke-dasharray: 5 4; }
 /* --icons is too faint on coal (#43484d on an 8% background), so edges use --fg at reduced opacity instead. */
 .flowchart-link { stroke: var(--fg, #000000); stroke-opacity: 0.6; fill: none; }
 .marker, .marker.cross, .arrowheadPath, .arrowMarkerPath { fill: var(--fg, #000000); stroke: var(--fg, #000000); fill-opacity: 0.6; stroke-opacity: 0.6; }
-.edgeLabel rect, .edgeLabel rect.background, .labelBkg { opacity: 1; fill: var(--bg, #ffffff); background-color: var(--bg, #ffffff); }
+.edgeLabel rect, .edgeLabel rect.background, .edgeLabel .label rect, .labelBkg { opacity: 1; fill: var(--bg, #ffffff); background-color: var(--bg, #ffffff); }
+
+/* sequenceDiagram */
+rect.actor, .actor-man circle { fill: var(--quote-bg, #f1f6f8); stroke: var(--links, #20609f); stroke-width: 1.5px; }
+.actor-man line { stroke: var(--links, #20609f); }
+text.actor, text.actor > tspan, .messageText, .noteText, .noteText > tspan, .labelText, .labelText > tspan, .loopText, .loopText > tspan, .sectionTitle, .sectionTitle > tspan { fill: var(--fg, #000000); stroke: none; }
+.actor-line { stroke: var(--fg, #000000); stroke-opacity: 0.6; stroke-width: 1px; }
+.messageLine0, .messageLine1, .loopLine { stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+[id$="-arrowhead"] path, [id$="-crosshead"] path, [id$="-filled-head"] path, [id$="-solidTopArrowHead"] path, [id$="-solidBottomArrowHead"] path { fill: var(--fg, #000000); stroke: var(--fg, #000000); fill-opacity: 0.6; stroke-opacity: 0.6; }
+[id$="-stickTopArrowHead"] path, [id$="-stickBottomArrowHead"] path { fill: none; stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+[id$="-sequencenumber"], [id$="-sequencenumber"] circle { fill: var(--fg, #000000); stroke: none; }
+.sequenceNumber { fill: var(--bg, #ffffff); }
+.note, .labelBox { fill: var(--quote-bg, #f1f6f8); stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+.activation0, .activation1, .activation2 { fill: var(--table-alternate-bg, #f7f7f7); stroke: var(--links, #20609f); }
+
+/* stateDiagram-v2 */
+g.stateGroup rect, .statediagram-cluster rect, .statediagram-cluster rect.outer { fill: var(--quote-bg, #f1f6f8); stroke: var(--links, #20609f); }
+.statediagram-cluster.statediagram-cluster .inner { fill: var(--bg, #ffffff); }
+.statediagram-cluster.statediagram-cluster-alt .inner { fill: var(--table-alternate-bg, #f7f7f7); }
+.statediagram-state .divider { stroke: var(--links, #20609f); }
+.statediagram-note rect, .state-note { fill: var(--quote-bg, #f1f6f8); stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+g.stateGroup text, g.stateGroup .state-title, .state-note text, .statediagram-note text, .stateLabel text, .edgeLabel .label text, .statediagramTitleText { fill: var(--fg, #000000); }
+.stateLabel .box { fill: var(--quote-bg, #f1f6f8); opacity: 1; }
+.transition { stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+.node circle.state-start, .node .fork-join, .node circle.end-state-inner { fill: var(--fg, #000000); stroke: var(--fg, #000000); }
+.node circle.state-end { fill: var(--bg, #ffffff); stroke: var(--fg, #000000); }
+defs [id$="-barbEnd"], defs [id$="-barbEnd"] path { fill: var(--fg, #000000); stroke: var(--fg, #000000); fill-opacity: 0.6; stroke-opacity: 0.6; }
+
+/* timeline: Mermaid paints each period in a fixed bright hue, which no single text colour can read against in every theme. */
+.timeline-node path.node-bkg { fill: var(--quote-bg, #f1f6f8); stroke: var(--links, #20609f); stroke-width: 1px; }
+.timeline-node line { stroke: var(--links, #20609f); }
+.timeline-node text { fill: var(--fg, #000000); }
+.lineWrapper line { stroke: var(--fg, #000000); stroke-opacity: 0.6; }
+/* Mermaid brightens event boxes with a filter, which would shift the theme colours away from the page palette. */
+.eventWrapper { filter: none; }
+
+/* pie: slice fills come from the validated categorical palette in render-config.json (pie1 to pie8), which reads on every theme, so the slice labels use fixed dark ink. */
+.pieCircle { stroke: var(--bg, #ffffff); stroke-width: 2px; opacity: 1; }
+.pieOuterCircle { stroke: var(--fg, #000000); stroke-opacity: 0.6; stroke-width: 1px; }
+.pieTitleText, .legend text { fill: var(--fg, #000000); }
+.slice { fill: #000000; }
+
+/* quadrantChart: the quadrant fills alternate like a checkerboard; the border lines carry inline styles, so only !important can recolour them. */
+.quadrant:nth-child(odd) rect { fill: var(--quote-bg, #f1f6f8); }
+.quadrant:nth-child(even) rect { fill: var(--table-alternate-bg, #f7f7f7); }
+.border line { stroke: var(--fg, #000000) !important; stroke-opacity: 0.6; }
+.data-point circle { fill: var(--links, #20609f); stroke: var(--bg, #ffffff); stroke-width: 1px; }
+
+/* xychart: the first plot follows the theme link colour; later plots keep the categorical palette from render-config.json. */
+g.main > rect.background { fill: none; }
+.bar-plot-0 rect { fill: var(--links, #20609f); stroke: var(--links, #20609f); }
+.line-plot-0 path { stroke: var(--links, #20609f); }
+.left-axis path, .bottom-axis path, .top-axis path, .right-axis path { stroke: var(--fg, #000000); stroke-opacity: 0.6; }
