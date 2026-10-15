@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-mermaid-diagrams
-status: Approved
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -197,8 +197,63 @@ tasks:
       - cmd: "bun run check:diagrams"
         expect_exit: 0
         retry: 0
+  - id: T16
+    depends_on: [T15]
+    impacts: ["every build now stops when SEO and gating injection fails - bun run build"]
+    files: { create: [tests/scripts/inject-gating-failure.test.ts], modify: [scripts/inject-gating.ts], test: [] }
+    idempotency_key: "T16:inject-failure-exits"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/inject-gating-failure.test.ts tests/scripts/inject-gating.test.ts tests/scripts/inject-gating-utils.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: T17
+    depends_on: [T15]
+    impacts: ["commented-out diagrams are no longer rendered or inlined - bun test tests/scripts/diagrams-extract.test.ts", "gate covers state transition and edge-form quotes - bun test tests/scripts/check-diagrams.test.ts"]
+    files: { create: [], modify: [scripts/diagrams/extract.ts, tests/scripts/diagrams-extract.test.ts, scripts/check-diagrams.ts, tests/scripts/check-diagrams.test.ts], test: [] }
+    idempotency_key: "T17:gate-gaps"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/diagrams-extract.test.ts tests/scripts/check-diagrams.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: T18
+    depends_on: [T15]
+    impacts: ["emoji clean mode no longer edits code fences or diagram blocks - bun test tests/scripts/detect-emojis.test.ts"]
+    files: { create: [], modify: [scripts/detect-emojis.ts, tests/scripts/detect-emojis.test.ts], test: [] }
+    idempotency_key: "T18:emoji-clean-skips-fences"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/detect-emojis.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: T19
+    depends_on: [T15]
+    impacts: ["GEMINI.md section 9 read by every LaTeX session; symlinks must stay - test -L CLAUDE.md"]
+    files: { create: [], modify: [GEMINI.md, docs/code-plan/specs/2026-09-28-dawnbook-kenapa-kita-gampang-percaya-hoax.md], test: [] }
+    idempotency_key: "T19:stale-rule-and-old-em-dash"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "test -L CLAUDE.md"
+        expect_exit: 0
+        retry: 0
+  - id: T20
+    depends_on: [T17]
+    impacts: ["gate, renderer and inliner share one book walker - bun test tests/scripts/check-diagrams.test.ts tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-inline.test.ts"]
+    files: { create: [scripts/diagrams/books.ts], modify: [scripts/diagrams/inline.ts, scripts/check-diagrams.ts, scripts/render-diagrams.ts], test: [] }
+    idempotency_key: "T20:shared-book-walker"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-diagrams.test.ts tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-inline.test.ts"
+        expect_exit: 0
+        retry: 1
   - id: T12
-    depends_on: [T6, T7, T8, T9, T10, T11, T13, T14, T15]
+    depends_on: [T6, T7, T8, T9, T10, T11, T13, T14, T15, T16, T17, T18, T19, T20]
     impacts: ["the CI deploy workflow runs the same build - bun run build", "full test suite run by the CI test workflow - bun test"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T12:integration-verify"
@@ -305,6 +360,16 @@ flowchart TD
     T14 --> T12
     T14 --> T15["T15 review fixes"]
     T15 --> T12
+    T15 --> T16["T16 build fails when injection fails"]
+    T15 --> T17["T17 gate gaps"]
+    T15 --> T18["T18 emoji clean skips fences"]
+    T15 --> T19["T19 stale rule and old em dash"]
+    T17 --> T20["T20 shared book walker"]
+    T16 --> T12
+    T17 --> T12
+    T18 --> T12
+    T19 --> T12
+    T20 --> T12
     T12 --> V["Verify: local gates, diff audit, review"]
     V --> PR{{"PR open, then merge gate"}}
 ```
@@ -745,10 +810,52 @@ Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.801
 
 ## Status
 
-- Status: Approved
+- Status: InProgress (debt-sweep follow-ups T16-T20 selected 2026-10-16: all five NOW items)
 - Revisions after approval: T13 (theme coverage for every type), T14 (width discipline) and T15 (review fixes) were added on 2026-10-16 as discovered items inside the approved scope, each to meet an existing acceptance criterion or spec line; `version:` stays 1 because it stamps the plan format, not the revision
 - Approved scope: intent A, B, C; sections 1-3; spec (2026-10-16)
 - Completed: claim, worktree, research, inventory, spike, spec (`d382d96`); the research wave (R1-R10) and spike (P1-P3) manifests written before their dispatch are in this file as of `d382d96`
 - Current: S7 Execute, wave 1
 - Next: wave 2 (T3, T5)
 - Blockers: none
+
+## Follow-up tasks (debt sweep selections, 2026-10-16)
+
+### Task T16: Build fails when SEO and gating injection fails (FU12)
+
+**Acceptance:** `scripts/inject-gating.ts` exits non-zero when processing throws (today `.catch(console.error)` at line 398 exits 0), so `bun run build` (which runs it through Bun `$` at `scripts/build.ts:37`) stops; a test spawns the script against a failing input and asserts a non-zero exit.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/inject-gating-failure.test.ts tests/scripts/inject-gating.test.ts tests/scripts/inject-gating-utils.test.ts` | expect: exit 0 | retry: 0
+
+### Task T17: Close the diagram gate gaps (FU16, FU18)
+
+**Acceptance:** `findDiagramBlocks` ignores fences inside an HTML comment, so a commented-out diagram is neither rendered nor inlined; the gate flags a straight quote in a `stateDiagram-v2` transition label and in the edge form `A -- "text" --> B`; `check-diagrams --book <unknown>` prints one line and exits 1 without a stack trace.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/diagrams-extract.test.ts tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+
+### Task T18: Emoji clean mode skips code fences (FU10)
+
+**Acceptance:** `scripts/detect-emojis.ts` clean mode leaves every line inside a fenced code block (including diagram blocks) byte-identical while still cleaning prose lines.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/detect-emojis.test.ts` | expect: exit 0 | retry: 0
+
+### Task T19: Stale rule line and old em dash (FU7, FU13)
+
+**Acceptance:** GEMINI.md section 9 item 1 no longer claims `scripts/build.ts` converts `$ ... $` (removed in `b3476ee` on 2026-07-31; MathJax handles `$` in the browser); the 2026-09-28 spec has no em dash; CLAUDE.md and AGENTS.md stay symlinks.
+
+- [ ] Step 1: Run | cmd: `test -L CLAUDE.md` | expect: exit 0 | retry: 0
+
+### Task T20: Shared book walker for the diagram scripts (FU17)
+
+**Acceptance:** one module `scripts/diagrams/books.ts` provides the book listing, Markdown walk and POSIX path helpers used by `inline.ts`, `check-diagrams.ts` and `render-diagrams.ts`; behaviour unchanged (existing suites green).
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-inline.test.ts` | expect: exit 0 | retry: 1
+
+## Follow-up batch manifest (debt sweep, written before dispatch)
+
+| Wave | Chunk | Owner | Permitted files | Verification |
+|---|---|---|---|---|
+| F1 | T16 | chef | `scripts/inject-gating.ts`, `tests/scripts/inject-gating-failure.test.ts` | inject-gating test files pass |
+| F1 | T17 | nappy | `scripts/diagrams/extract.ts`, `scripts/check-diagrams.ts`, their tests | extract and check-diagrams tests pass |
+| F1 | T18 | hoggy | `scripts/detect-emojis.ts`, its test | detect-emojis test passes |
+| F1 | T19 | chef | `GEMINI.md` section 9 item 1, the 2026-09-28 spec | `test -L CLAUDE.md`; em dash scan of both files |
+| F2 | T20 | nappy | new `scripts/diagrams/books.ts`, `inline.ts`, `check-diagrams.ts`, `render-diagrams.ts` | the three diagram suites pass |
