@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-mermaid-diagrams
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -454,11 +454,11 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** pure string fixtures inside the test file.
 
-- [ ] Step 1: port the spike tests into `tests/scripts/diagrams-extract.test.ts` against the new interface, plus a `startLine`/`endLine` case and a CRLF case
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-extract.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `scripts/diagrams/extract.ts`
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-extract.test.ts` | expect: exit 0, 0 failures | retry: 0
-- [ ] Step 5: parent commits `scripts/diagrams/extract.ts tests/scripts/diagrams-extract.test.ts`
+- [x] Step 1: port the spike tests into `tests/scripts/diagrams-extract.test.ts` against the new interface, plus a `startLine`/`endLine` case and a CRLF case
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-extract.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `scripts/diagrams/extract.ts`
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-extract.test.ts` | expect: exit 0, 0 failures | retry: 0
+- [x] Step 5: parent commits `scripts/diagrams/extract.ts tests/scripts/diagrams-extract.test.ts`
 
 ### Task T2: Render config and cache key
 
@@ -482,11 +482,11 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** temp roots from `fs.mkdtempSync` holding a fixture `package.json` and copies of the two config files.
 
-- [ ] Step 1: write `tests/scripts/diagrams-cache.test.ts` (key stability, key sensitivity, id prefix, cache path, missing devDependency error)
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-cache.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: write the two config files and `scripts/diagrams/cache.ts`
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 5: parent commits the four files
+- [x] Step 1: write `tests/scripts/diagrams-cache.test.ts` (key stability, key sensitivity, id prefix, cache path, missing devDependency error)
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-cache.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: write the two config files and `scripts/diagrams/cache.ts`
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 5: parent commits the four files
 
 ### Task T3: Diagram gate
 
@@ -508,11 +508,11 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** one temp book tree per rule, built with `fs.mkdtempSync`, following `tests/scripts/check-repeated-headings.test.ts`.
 
-- [ ] Step 1: write one failing test per rule plus a clean-tree test and an orphan test
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `scripts/check-diagrams.ts`
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 5: parent commits the two files
+- [x] Step 1: write one failing test per rule plus a clean-tree test and an orphan test
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `scripts/check-diagrams.ts`
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 5: parent commits the two files
 
 ### Task T4: SVG post-processor
 
@@ -533,11 +533,11 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** small hand-written SVG strings plus one SVG copied from the spike output shape (strings only, no browser).
 
-- [ ] Step 1: write failing tests (single line, injection, no double injection, width rule, error marker, missing viewBox)
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-postprocess.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `scripts/diagrams/postprocess.ts`
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-postprocess.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 5: parent commits the two files
+- [x] Step 1: write failing tests (single line, injection, no double injection, width rule, error marker, missing viewBox)
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-postprocess.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `scripts/diagrams/postprocess.ts`
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-postprocess.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 5: parent commits the two files
 
 ### Task T5: Local renderer
 
@@ -555,12 +555,12 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** the test builds a temp book with one flowchart and one timeline, renders twice and asserts byte-identical output, no `<foreignObject>`, injected timeline `<title>`; it uses `test.skipIf(!existsSync(executablePath))` so CI without Chromium skips it.
 
-- [ ] Step 1: `bun add -d -E @mermaid-js/mermaid-cli@12.0.0` and add the two scripts to `package.json`
-- [ ] Step 2: write `tests/scripts/render-diagrams.test.ts`; Run, verify fail | cmd: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `scripts/render-diagrams.ts`
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: Run | cmd: `bun run diagrams:render` | expect: exit 0, `rendered 0` before the pilots | retry: 0
-- [ ] Step 6: parent commits the four files
+- [x] Step 1: `bun add -d -E @mermaid-js/mermaid-cli@12.0.0` and add the two scripts to `package.json`
+- [x] Step 2: write `tests/scripts/render-diagrams.test.ts`; Run, verify fail | cmd: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `scripts/render-diagrams.ts`
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/render-diagrams.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: Run | cmd: `bun run diagrams:render` | expect: exit 0, `rendered 0` before the pilots | retry: 0
+- [x] Step 6: parent commits the four files
 
 ### Task T6: Build inliner and diagram CSS
 
@@ -582,12 +582,12 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Test Data & Determinism:** temp source and tmp book dirs with a fixture cache SVG; `tests/scripts/build.test.ts` must stay green.
 
-- [ ] Step 1: write failing tests (replacement, miss error text, untouched book, list indentation, source untouched)
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-inline.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement `scripts/diagrams/inline.ts`, wire `mdbook-runner.ts`, append the CSS
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-inline.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 5: Run | cmd: `bun test tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 6: parent commits the four files
+- [x] Step 1: write failing tests (replacement, miss error text, untouched book, list indentation, source untouched)
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/diagrams-inline.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement `scripts/diagrams/inline.ts`, wire `mdbook-runner.ts`, append the CSS
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/diagrams-inline.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 5: Run | cmd: `bun test tests/scripts/build.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 6: parent commits the four files
 
 ### Task T7: Lead-text guard
 
@@ -597,12 +597,12 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-5):** `extractLeadText` removes `<svg ...>...</svg>` before collecting `<p>` elements, so a `<p>` inside an SVG never reaches the meta description; existing behaviour is unchanged.
 
-- [ ] Step 1: write a failing test with an htmlLabels-style SVG holding `<p>` labels before a short lead paragraph
-- [ ] Step 2: Run, verify fail | cmd: `bun test tests/scripts/inject-gating-svg.test.ts` | expect: exit 1 | retry: 0
-- [ ] Step 3: implement the guard
-- [ ] Step 4: Run, verify pass | cmd: `bun test tests/scripts/inject-gating-svg.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 5: Run | cmd: `bun test tests/scripts/inject-gating-utils.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 6: parent commits the two files
+- [x] Step 1: write a failing test with an htmlLabels-style SVG holding `<p>` labels before a short lead paragraph
+- [x] Step 2: Run, verify fail | cmd: `bun test tests/scripts/inject-gating-svg.test.ts` | expect: exit 1 | retry: 0
+- [x] Step 3: implement the guard
+- [x] Step 4: Run, verify pass | cmd: `bun test tests/scripts/inject-gating-svg.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 5: Run | cmd: `bun test tests/scripts/inject-gating-utils.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 6: parent commits the two files
 
 ### Task T8: GEMINI.md section 25 (authoring rule)
 
@@ -619,10 +619,10 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Verification:** `test -L CLAUDE.md` and `test -L AGENTS.md` exit 0 after the edit; parent reads the diff.
 
-- [ ] Step 1: draft and append section 25
-- [ ] Step 2: Run | cmd: `test -L CLAUDE.md` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: `test -L AGENTS.md` | expect: exit 0 | retry: 0
-- [ ] Step 4: parent commits `GEMINI.md`
+- [x] Step 1: draft and append section 25
+- [x] Step 2: Run | cmd: `test -L CLAUDE.md` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: `test -L AGENTS.md` | expect: exit 0 | retry: 0
+- [x] Step 4: parent commits `GEMINI.md`
 
 ### Task T9: MDBOOK_SYSTEM_RULES.md rule 7.7.8 and AuthoringAgent spec
 
@@ -630,8 +630,8 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-7):** two additions only; no other rule text changes; NEEDS-AGENT task verified by the parent reading the diff.
 
-- [ ] Step 1: add the two lines
-- [ ] Step 2: parent reads `git diff -- MDBOOK_SYSTEM_RULES.md` and commits
+- [x] Step 1: add the two lines
+- [x] Step 2: parent reads `git diff -- MDBOOK_SYSTEM_RULES.md` and commits
 
 ### Task T10: Pilot book `iklan-digital-dan-penargetan-algoritma`
 
@@ -639,10 +639,10 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-6):** each diagram is grounded in the cited lines (candidates in `docs/code-plan/artifacts/2026-10-16-mermaid-inventory/g2.md`), placed after the paragraph it illustrates with an introducing sentence, follows GEMINI.md section 25; the chapter is read line by line before and after the edit; no other line changes.
 
-- [ ] Step 1: read the three chapters line by line, write the diagrams
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book iklan-digital-dan-penargetan-algoritma` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: `bun run scripts/check-diagrams.ts --book iklan-digital-dan-penargetan-algoritma` | expect: exit 0 | retry: 0
-- [ ] Step 4: parent audits the diff against the source lines, commits the chapters and the cache
+- [x] Step 1: read the three chapters line by line, write the diagrams
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book iklan-digital-dan-penargetan-algoritma` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: `bun run scripts/check-diagrams.ts --book iklan-digital-dan-penargetan-algoritma` | expect: exit 0 | retry: 0
+- [x] Step 4: parent audits the diff against the source lines, commits the chapters and the cache
 
 ### Task T11: Pilot book `nudge-theory`
 
@@ -650,19 +650,19 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-6):** as T10, candidates in `docs/code-plan/artifacts/2026-10-16-mermaid-inventory/g4.md`; the xychart uses only the chapter 11 numbers (never mixed with chapter 04's figures).
 
-- [ ] Step 1: read the three chapters line by line, write the diagrams
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book nudge-theory` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: `bun run scripts/check-diagrams.ts --book nudge-theory` | expect: exit 0 | retry: 0
-- [ ] Step 4: parent audits the diff against the source lines, commits the chapters and the cache
+- [x] Step 1: read the three chapters line by line, write the diagrams
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book nudge-theory` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: `bun run scripts/check-diagrams.ts --book nudge-theory` | expect: exit 0 | retry: 0
+- [x] Step 4: parent audits the diff against the source lines, commits the chapters and the cache
 
 ### Task T12: Integration verification (parent)
 
 **Behavior & Acceptance (AC-1, AC-6, AC-8):** in the worktree with `PATH=$HOME/.cargo/bin:$PATH`: `bun run check:diagrams`, `bun run build`, `bun test` all exit 0 with 0 failures (fail lines captured with `rg '^\(fail\)|^ +[0-9]+ (pass|fail)'`); the built pilot chapters hold inline SVG with no `<foreignObject>`; screenshots of one diagram per pilot book in light and coal at 375 px and 1280 px, taken with the spike's puppeteer script, are viewed by the parent; the other 56 books' HTML is byte-identical to a build of `origin/main` apart from `shared-header.css`.
 
-- [ ] Step 1: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: `bun test` | expect: exit 0, 0 failures | retry: 1
-- [ ] Step 4: screenshots viewed; evidence recorded below
+- [x] Step 1: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: `bun test` | expect: exit 0, 0 failures | retry: 1
+- [x] Step 4: screenshots viewed; evidence recorded below
 
 ### Task T13: Theme coverage for every allowed diagram type (added 2026-10-16 after the first T12 run)
 
@@ -672,11 +672,11 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-6):** every allowed type (flowchart, sequenceDiagram, stateDiagram-v2, pie, quadrantChart, xychart bar and line, timeline) keeps readable text against its own background in light, rust, coal, navy and ayu at 1280 px and 375 px; class-level rules (scoped by Mermaid under `#id`, placed after Mermaid's own rules) colour sequence actors, messages, notes and loop boxes, timeline sections, xychart background, bars, lines and axes, pie and quadrant text, and state nodes from mdBook variables; the sequence and xychart sizing in `render-config.json` keeps the two pilot diagrams within about 750 px where the content allows.
 
-- [ ] Step 1: harness renders the P2 fixtures plus the six pilot sources into a built page and screenshots each theme and width
-- [ ] Step 2: extend `theme.css` and `render-config.json` until every screenshot passes
-- [ ] Step 3: Run | cmd: `bun run diagrams:render --prune` | expect: exit 0 | retry: 0
-- [ ] Step 4: Run | cmd: `bun test tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 1
-- [ ] Step 5: parent views screenshots, commits
+- [x] Step 1: harness renders the P2 fixtures plus the six pilot sources into a built page and screenshots each theme and width
+- [x] Step 2: extend `theme.css` and `render-config.json` until every screenshot passes
+- [x] Step 3: Run | cmd: `bun run diagrams:render --prune` | expect: exit 0 | retry: 0
+- [x] Step 4: Run | cmd: `bun test tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 5: parent views screenshots, commits
 
 ### Task T14: Width discipline (added 2026-10-16 after T13)
 
@@ -686,9 +686,9 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 **Behavior & Acceptance (AC-6):** every pilot diagram has natural width at most 1000 px; the gate refuses a wider one; text overflows stay at 0.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
-- [ ] Step 3: parent views the RTB and BASIC screenshots at 1280 px and commits
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+- [x] Step 3: parent views the RTB and BASIC screenshots at 1280 px and commits
 
 ### Task T15: Review fixes (added 2026-10-16 after the two-axis review)
 
@@ -761,6 +761,9 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 - FU20: when `node_modules` is missing, `Bun.resolveSync("mermaid/package.json")` falls back to Bun's global cache instead of failing. `defer: first build run without bun install`
 - FU21: Puppeteer downloaded Chrome 155 (about 670 MB) into `~/.cache/puppeteer` during the T5 install, before `.puppeteerrc.json` existed; deleting it is a destructive action on a user cache and needs its own confirmation. `defer: owner decision`
 - FU22: the retrofit roadmap RF1-RF6 is the next body of work, not debt; each session starts from this plan's roadmap table and inventory files. `defer: owner starts RF1`
+- FU23 (found by the debt-sweep re-pass): the `straight-quote` rule checks `--` edge text but not the thick `==` and dotted `-.` edge forms. `defer: first diagram using a thick or dotted edge with text`
+
+Debt-sweep execution (2026-10-16): the owner selected all five NOW items; closed with evidence in `1fac72e` (FU12, T16), `69f0fd8` (FU16 and FU18, T17), `a86fdf4` (FU10, T18), `1f33801` (FU7 and FU13, T19), `248a068` (FU17, T20), plus `8071325` (section 25 warning against commenting out a diagram, found by T17).
 
 ### Debt sweep classification (2026-10-16)
 
@@ -810,7 +813,7 @@ Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.801
 
 ## Status
 
-- Status: InProgress (debt-sweep follow-ups T16-T20 selected 2026-10-16: all five NOW items)
+- Status: Complete (owner answered the `Close plan` gate with Mark Complete on 2026-10-16)
 - Revisions after approval: T13 (theme coverage for every type), T14 (width discipline) and T15 (review fixes) were added on 2026-10-16 as discovered items inside the approved scope, each to meet an existing acceptance criterion or spec line; `version:` stays 1 because it stamps the plan format, not the revision
 - Approved scope: intent A, B, C; sections 1-3; spec (2026-10-16)
 - Completed: claim, worktree, research, inventory, spike, spec (`d382d96`); the research wave (R1-R10) and spike (P1-P3) manifests written before their dispatch are in this file as of `d382d96`
@@ -824,31 +827,31 @@ Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.801
 
 **Acceptance:** `scripts/inject-gating.ts` exits non-zero when processing throws (today `.catch(console.error)` at line 398 exits 0), so `bun run build` (which runs it through Bun `$` at `scripts/build.ts:37`) stops; a test spawns the script against a failing input and asserts a non-zero exit.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/inject-gating-failure.test.ts tests/scripts/inject-gating.test.ts tests/scripts/inject-gating-utils.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/inject-gating-failure.test.ts tests/scripts/inject-gating.test.ts tests/scripts/inject-gating-utils.test.ts` | expect: exit 0 | retry: 0
 
 ### Task T17: Close the diagram gate gaps (FU16, FU18)
 
 **Acceptance:** `findDiagramBlocks` ignores fences inside an HTML comment, so a commented-out diagram is neither rendered nor inlined; the gate flags a straight quote in a `stateDiagram-v2` transition label and in the edge form `A -- "text" --> B`; `check-diagrams --book <unknown>` prints one line and exits 1 without a stack trace.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/diagrams-extract.test.ts tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/diagrams-extract.test.ts tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
 
 ### Task T18: Emoji clean mode skips code fences (FU10)
 
 **Acceptance:** `scripts/detect-emojis.ts` clean mode leaves every line inside a fenced code block (including diagram blocks) byte-identical while still cleaning prose lines.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/detect-emojis.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/detect-emojis.test.ts` | expect: exit 0 | retry: 0
 
 ### Task T19: Stale rule line and old em dash (FU7, FU13)
 
 **Acceptance:** GEMINI.md section 9 item 1 no longer claims `scripts/build.ts` converts `$ ... $` (removed in `b3476ee` on 2026-07-31; MathJax handles `$` in the browser); the 2026-09-28 spec has no em dash; CLAUDE.md and AGENTS.md stay symlinks.
 
-- [ ] Step 1: Run | cmd: `test -L CLAUDE.md` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `test -L CLAUDE.md` | expect: exit 0 | retry: 0
 
 ### Task T20: Shared book walker for the diagram scripts (FU17)
 
 **Acceptance:** one module `scripts/diagrams/books.ts` provides the book listing, Markdown walk and POSIX path helpers used by `inline.ts`, `check-diagrams.ts` and `render-diagrams.ts`; behaviour unchanged (existing suites green).
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-inline.test.ts` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-inline.test.ts` | expect: exit 0 | retry: 1
 
 ## Follow-up batch manifest (debt sweep, written before dispatch)
 
@@ -859,3 +862,11 @@ Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.801
 | F1 | T18 | hoggy | `scripts/detect-emojis.ts`, its test | detect-emojis test passes |
 | F1 | T19 | chef | `GEMINI.md` section 9 item 1, the 2026-09-28 spec | `test -L CLAUDE.md`; em dash scan of both files |
 | F2 | T20 | nappy | new `scripts/diagrams/books.ts`, `inline.ts`, `check-diagrams.ts`, `render-diagrams.ts` | the three diagram suites pass |
+
+## Closeout record
+
+- `bun scripts/ultra-plan-runner.mjs <plan> --execute` (2026-10-16): exit 0; T1-T8, T10-T20 and T12 PASSED, T9 NEEDS-AGENT (prose task; diff of `MDBOOK_SYSTEM_RULES.md` read by the parent, ticked with `plan-mark-done --task T9`, asserted).
+- `bun scripts/plan-mark-done.mjs <plan> --from runner.log`: 18 ticked, 1 no-op, T9 refused and then ticked by `--task`.
+- `bun scripts/plan-closeout.mjs --readiness <plan>` (2026-10-16): verdict `NEEDS-HUMAN` (exit 3); open NOW follow-ups 0; open step boxes 0; 20 tasks `UNPROVEN` because every task uses `skip_if: "false"`; other open boxes 1 (S10, closed after the merge with the graphify sync).
+- Final local evidence before the merge: `bun run build` exit 0; `bun test` 658 pass, 13 skip, 0 fail; `CI=true bun test` 646 pass, 26 skip, 0 fail; copy rules clean (6703 lines, 34 commit messages).
+- `Close plan` gate: owner chose Mark Complete (2026-10-16).
