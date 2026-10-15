@@ -32,7 +32,7 @@ Beberapa langkah utama di dalam `start_kernel()` meliputi:
 4. **Scheduler (`sched_init`)**: Menginisialisasi *scheduler* utama agar sistem dapat mendukung multitasking.
 5. Fungsi `time_init()` akan mengalibrasi *system clock* untuk menjaga sinkronisasi waktu internal.
 
-Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, setiap aplikasi akan saling tumpang dian dalam RAM, memicu kegagalan sistem secara instan.
+Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, setiap aplikasi akan saling tumpang tindih di dalam RAM, memicu kegagalan sistem secara instan.
 
 ## 4. Mounting Root File System dan Initramfs
 
@@ -117,9 +117,11 @@ flowchart TD
 
 Apabila salah satu tahapan di atas gagal (misalnya karena kernel tidak mendeteksi root partition atau berkas init mengalami kerusakan), sistem tidak dapat melanjutkan proses.
 
+<div>
 $$
-\\\\text{Fungsi Init Gagal} \\\\rightarrow \\\\text{panic('No working init found. Try passing init= bootarg.')}
+\text{Fungsi Init Gagal} \rightarrow \text{panic('No working init found. Try passing init= bootarg.')}
 $$
+</div>
 
 Pada kode sumber kernel, jika panggilan `kernel_execve` gagal mengeksekusi `init`, sistem akan langsung menghentikan seluruh aktivitas. Kondisi kegagalan fatal inilah yang disebut sebagai **kernel panic**.
 
