@@ -2,7 +2,7 @@ import { describe, expect, it, afterEach } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { checkDiagrams } from "../../scripts/check-diagrams";
+import { checkDiagrams, MAX_NATURAL_WIDTH } from "../../scripts/check-diagrams";
 import { diagramKey } from "../../scripts/diagrams/cache";
 
 const repoRoot = path.join(import.meta.dir, "..", "..");
@@ -34,11 +34,14 @@ function addBook(root: string, slug: string, files: Record<string, string>, with
   return bookDir;
 }
 
-// Writes the cached SVG each source would need, so a clean case has no cache-miss.
-function cache(root: string, slug: string, sources: string[]): void {
+// Root element shaped like mermaid-cli output; the negative min-x checks that the third viewBox number is the width.
+const svgOfWidth = (width: number) => `<svg id="dbd-uji" style="max-width:${width}px" viewBox="-50 -10 ${width} 480"></svg>`;
+
+// Writes the cached SVG each source would need, so a clean case has no cache-miss and no too-wide.
+function cache(root: string, slug: string, sources: string[], svg = svgOfWidth(400)): void {
   const dir = path.join(root, "books", slug, "diagrams");
   fs.mkdirSync(dir, { recursive: true });
-  for (const source of sources) fs.writeFileSync(path.join(dir, `${diagramKey(source, root)}.svg`), "<svg></svg>");
+  for (const source of sources) fs.writeFileSync(path.join(dir, `${diagramKey(source, root)}.svg`), svg);
 }
 
 const fence = (source: string) => "```mermaid\n" + source + "\n```";
@@ -92,10 +95,10 @@ const TIMELINE = lines(
 );
 
 // One book, one chapter at src/content/01_a.md, every listed source cached.
-function single(md: string, cached: string[]): string {
+function single(md: string, cached: string[], svg?: string): string {
   const root = makeRoot();
   addBook(root, "buku-uji", { "src/content/01_a.md": md });
-  cache(root, "buku-uji", cached);
+  cache(root, "buku-uji", cached, svg);
   return root;
 }
 
@@ -225,6 +228,39 @@ describe("checkDiagrams rules", () => {
     expect(violations).toEqual([
       expect.objectContaining({ book: "buku-uji", file: "src/content/01_a.md", line: 5, rule: "cache-miss" }),
     ]);
+  });
+
+  it("too-wide reports a cached SVG whose root viewBox is 1001 px wide", () => {
+    const md = chapter(FLOW);
+    const { violations } = checkDiagrams(single(md, [FLOW], svgOfWidth(1001)));
+    expect(violations.map((v) => [v.rule, v.line])).toEqual([["too-wide", fenceLine(md, 0)]]);
+    expect(violations[0].message).toContain("natural width 1001 px exceeds 1000 px");
+  });
+
+  it("too-wide allows a root viewBox exactly 1000 px wide", () => {
+    expect(checkDiagrams(single(chapter(FLOW), [FLOW], svgOfWidth(1000))).violations).toEqual([]);
+  });
+
+  it("too-wide reports a root svg with no viewBox as missing, even when a nested svg has one", () => {
+    const svg = '<svg id="dbd-uji" style="max-width:400px"><svg viewBox="0 0 400 100"></svg></svg>';
+    const { violations } = checkDiagrams(single(chapter(FLOW), [FLOW], svg));
+    expect(violations.map((v) => v.rule)).toEqual(["too-wide"]);
+    expect(violations[0].message).toContain("viewBox");
+    expect(violations[0].message).toContain("missing");
+  });
+
+  it("too-wide ignores a wide nested svg inside a narrow root", () => {
+    const svg = '<svg id="dbd-uji" viewBox="0 0 400 300"><svg viewBox="0 0 5000 100"></svg></svg>';
+    expect(checkDiagrams(single(chapter(FLOW), [FLOW], svg)).violations).toEqual([]);
+  });
+
+  it("too-wide uses the exported 1000 px limit", () => {
+    expect(MAX_NATURAL_WIDTH).toBe(1000);
+  });
+
+  it("a cache miss reports cache-miss only, never too-wide", () => {
+    const { violations } = checkDiagrams(single(chapter(FLOW), []));
+    expect(violations.map((v) => v.rule)).toEqual(["cache-miss"]);
   });
 });
 

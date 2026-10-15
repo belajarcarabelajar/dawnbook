@@ -14,7 +14,18 @@ export interface DiagramViolation {
 const ALLOWED_TYPE =
   /^(?:flowchart|graph|sequenceDiagram|stateDiagram-v2|pie|quadrantChart|xychart|xychart-beta|timeline)(?![\w-])/;
 const MAX_PER_FILE = 3;
+// An inline SVG never shrinks below 0.75 of its natural width, and the reading column is 750 px.
+export const MAX_NATURAL_WIDTH = 1000;
 const EM_DASH = String.fromCodePoint(0x2014);
+
+// Width from the root element's viewBox only; nested svg elements carry their own, unrelated viewBox.
+function rootViewBoxWidth(svg: string): number | null {
+  const root = /<svg\b[^>]*>/i.exec(svg);
+  const viewBox = root && /\sviewBox\s*=\s*["']([^"']*)["']/i.exec(root[0]);
+  if (!viewBox) return null;
+  const width = Number(viewBox[1].trim().split(/[\s,]+/)[2]);
+  return Number.isFinite(width) ? width : null;
+}
 
 // Lines after an optional leading `---` front-matter block, which holds YAML, not diagram syntax.
 function bodyLines(source: string): string[] {
@@ -181,8 +192,20 @@ export function checkDiagrams(root: string, opts: { book?: string } = {}): { vio
           report(block, "too-many", `${blocks.length} diagrams in one file; the limit is ${MAX_PER_FILE}`);
         }
         usedKeys.add(key);
-        if (!fs.existsSync(cachePath(bookDir, key))) {
+        const svgFile = cachePath(bookDir, key);
+        if (!fs.existsSync(svgFile)) {
           report(block, "cache-miss", `no cached SVG ${key}.svg; run bun run diagrams:render --book ${book}`);
+        } else {
+          const width = rootViewBoxWidth(fs.readFileSync(svgFile, "utf8"));
+          if (width === null) {
+            report(block, "too-wide", `cached SVG ${key}.svg is missing its root viewBox, so its natural width is unknown; run bun run diagrams:render --book ${book}`);
+          } else if (width > MAX_NATURAL_WIDTH) {
+            report(
+              block,
+              "too-wide",
+              `natural width ${width} px exceeds ${MAX_NATURAL_WIDTH} px; use flowchart TD for long chains, fewer participants, or shorter labels`,
+            );
+          }
         }
       });
     }
