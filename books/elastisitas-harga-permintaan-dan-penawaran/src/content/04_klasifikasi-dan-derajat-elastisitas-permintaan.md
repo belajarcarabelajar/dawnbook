@@ -41,6 +41,21 @@ Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia m
 | **Unitary** | $|\text{E}_d| = 1$ | Perubahan proporsional | Melengkung (*Hyperbola*) |
 | **Inelastis Sempurna** | $|\text{E}_d| = 0$ | Tidak ada respon | Vertikal |
 | **Elastis Sempurna** | $|\text{E}_d| = \infty$ | Respon tak terhingga | Horizontal |
+
+Dari nilai koefisien yang kamu hitung, diagram berikut menunjukkan ke kelas mana sebuah barang masuk.
+
+```mermaid
+flowchart LR
+    accTitle: Menentukan derajat elastisitas permintaan dari nilai koefisien
+    accDescr: Nilai mutlak koefisien elastisitas permintaan menentukan kelasnya. Nilai 0 berarti inelastis sempurna dengan kurva vertikal. Nilai kurang dari 1 berarti inelastis dengan kurva curam. Nilai sama dengan 1 berarti unitary dengan kurva melengkung atau hyperbola. Nilai lebih dari 1 berarti elastis dengan kurva landai. Nilai tak terhingga berarti elastis sempurna dengan kurva horizontal.
+    D{"Nilai koefisien |E_d|"}
+    D -->|"sama dengan 0"| K1["Inelastis Sempurna, kurva vertikal"]
+    D -->|"kurang dari 1"| K2["Inelastis, kurva curam"]
+    D -->|"sama dengan 1"| K3["Unitary, kurva hyperbola"]
+    D -->|"lebih dari 1"| K4["Elastis, kurva landai"]
+    D -->|"tak terhingga"| K5["Elastis Sempurna, kurva horizontal"]
+```
+
 ### Strategi Diskon
 Mengapa toko baju (fashion) sering memberikan diskon besar-besaran (misalnya 70%), sedangkan perusahaan listrik (PLN) atau penyedia air minum (PDAM) hampir tidak pernah melakukannya?
 1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis ($|\text{E}_d| > 1$), sehingga total keuntungan meningkat karena volume penjualan yang masif.
