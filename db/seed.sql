@@ -1270,8 +1270,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2400,8 +2400,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4031,8 +4031,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4984,8 +4984,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5718,8 +5718,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7019,8 +7019,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7955,8 +7955,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8846,8 +8846,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10054,8 +10054,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11086,8 +11086,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12923,8 +12923,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14054,8 +14054,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15157,8 +15157,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16422,8 +16422,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17288,8 +17288,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18891,8 +18891,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19997,8 +19997,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21061,8 +21061,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 6. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 7. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21968,8 +21968,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23153,8 +23153,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24338,8 +24338,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25388,8 +25388,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26558,8 +26558,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27488,8 +27488,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29194,8 +29194,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30308,8 +30308,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31526,8 +31526,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32721,8 +32721,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33802,8 +33802,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34774,8 +34774,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34845,7 +34845,7 @@ Kalkulator bukan kamu, tapi siapa sebenarnya yang mengambil keputusan di dalam k
 
 ## Dua Sistem di Balik Setiap Keputusan Uang
 
-Kelelawar dan bola seharga Rp1.100, kelelawar Rp1.000 lebih mahal, jawaban pertamamu hampir pasti salah, dan itu pelajaran terbaik tentang cara otakmu bekerja.
+Kelelawar dan bola seharga Rp1.100, kelelawar Rp1.000 lebih mahal, dan jawaban pertamamu hampir pasti salah. Justru itu pelajaran terbaik tentang cara otakmu bekerja.
 
 Kalau kamu sempat menjawab "seratus rupiah", kamu bergabung dengan jutaan orang, termasuk banyak mahasiswa universitas ternama yang mengikuti eksperimen ini. Tapi hitung ulang pelan-pelan. Kalau bolanya seratus rupiah dan kelelawar harus Rp1.000 lebih mahal, kelelawarnya Rp1.100, dan totalnya jadi Rp1.200, bukan Rp1.100. Jawaban yang benar adalah lima puluh rupiah. Soal ini terlihat seperti teka-teki pembagian kue di pesta ulang tahun, tapi Daniel Kahneman menjadikannya pintu masuk bukunya yang terkenal, Thinking, Fast and Slow, dan pesannya menyentuh semua keputusan kita, termasuk keputusan uang: jawaban yang paling cepat datang tidak selalu jawaban yang benar, dan itu bukan kebetulan, melainkan hasil kerja dua sistem yang berbeda di dalam kepala kita.
 
@@ -35201,7 +35201,7 @@ Belenggu jangkar diletakkan oleh orang lain: penjual, penerbit kartu, perancang 
 
 ## Terlalu Percaya Diri
 
-Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru memperoleh hasil paling rendah, dan data itu tercatat selama enam tahun penuh.
+Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru memperoleh hasil paling rendah. Data itu tercatat selama enam tahun penuh.
 
 Kalau kamu pernah mendengar nasihat "yang rajin pasti untung", data dari pasar saham Amerika punya versi cerita yang berlawanan. Brad Barber dan Terrance Odean (2000) meneliti catatan transaksi 66.465 rumah tangga yang memiliki akun di satu perusahaan efek ritel besar, mengikuti mereka dari tahun 1991 sampai 1996. Temuannya jelas dan cukup menyakitkan untuk dibaca pelan-pelan: rumah tangga yang paling aktif berdagang, yang memutar portofolionya paling sering, memperoleh pengembalian tahunan bersih sekitar 11,4 persen, sementara pasar menghasilkan 17,9 persen. Yang jarang berdagang justru memperoleh sekitar 18,5 persen, sedikit di atas pasar. Jadi urutannya terbalik dari intuisi: makin rajin memindahkan posisi, makin tipis hasilnya.
 
@@ -35300,7 +35300,7 @@ Kerumunan bisa memaksa kamu bergerak lebih cepat dari niatmu, tapi ada kekuatan 
 
 ## Jebakan Status Quo dan Kekuatan Default
 
-Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun, dan hampir semuanya tahu pilihannya bisa lebih baik.
+Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun. Padahal hampir semuanya tahu pilihannya bisa lebih baik.
 
 Angka itu bukan slogan, melainkan temuan yang dikutip William Samuelson dan Richard Zeckhauser (1988) dalam studi mereka tentang bias status quo. Di balik jendela yang sama, data riil dari perusahaan yang mengelola rencana dana pensiun TIAA/CREF menunjukkan kurang dari 2,5 persen peserta mengubah distribusi premi antar dana dalam satu tahun. Pola yang sama muncul di bidang yang lebih personal: hanya 3 persen karyawan Harvard pindah rencana kesehatan setiap tahunnya. Padahal biaya pindahnya hampir nol, cuma isi formulir. Kalau kamu pernah setahun, dua tahun, lima tahun memakai rekening bank, paket internet, atau asuransi yang sama tanpa pernah membandingkan ulang, kamu sudah mengalami kekuatan yang mereka ukur ini.
 
@@ -35348,7 +35348,7 @@ Semua bab sejauh ini berakhir di satu titik yang sama: keputusan baik yang berga
 
 ## Merancang Pertahanan
 
-Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arahnya: komitmen yang mengikat, otomatisasi, dan default yang dipilih untuk dirimu sendiri.
+Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arah: komitmen yang mengikat, otomatisasi, dan default yang kamu pilih untuk dirimu.
 
 Kalau kamu membaca buku ini dari awal, ada kemungkinan kamu sempat tersenyum gugup di satu dua bab, karena merasa diceritakan kebiasaanmu sendiri. Cicilan yang ditunda di bab bias masa kini. saldo yang habis di minggu pertama setelah bonus di bab akuntansi mental. Saham yang dipegang bertahun-tahun di merah sambil cepat mengunci untung di bab disposition effect. Aplikasi belanja yang dibuka saat senggang di bab rasa sakit membayar. Semua itu normal, karena setiap bias dalam buku ini ada di dalam semua orang, termasuk di kepala penulisnya. Yang membedakan bukan ada tidaknya bias, melainkan ada tidaknya rancangan pertahanan.
 
@@ -35434,8 +35434,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36727,8 +36727,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37647,8 +37647,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38808,8 +38808,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40061,8 +40061,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41426,8 +41426,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42041,8 +42041,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43248,8 +43248,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44294,8 +44294,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44921,8 +44921,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46192,8 +46192,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47055,8 +47055,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47847,8 +47847,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48899,8 +48899,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50329,8 +50329,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51971,8 +51971,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53423,8 +53423,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54475,8 +54475,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55812,8 +55812,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57101,8 +57101,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58317,8 +58317,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59572,8 +59572,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61602,8 +61602,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62323,8 +62323,786 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'soft-power-jepang-lewat-manga-dan-anime',
+  'soft-power-jepang-lewat-manga-dan-anime',
+  'Soft Power Jepang Lewat Manga dan Anime',
+  'published',
+  'Anime',
+  '<!-- Chapter: 01_dari-kekalahan-perang-menuju-kekuatan-budaya -->
+
+## Dari Kekalahan Perang Menuju Kekuatan Budaya
+
+Jepang pernah kalah perang, tetapi beberapa dekade kemudian negeri itu memenangkan hati banyak orang di dunia lewat kartun dan komik.
+
+Coba pikirkan sebentar betapa ganjil urutan itu. Sebuah negara yang dulu ditakuti tetangganya, yang di banyak tempat citranya lekat dengan pendudukan dan luka sejarah, kini dikenal anak-anak di berbagai benua lewat robot biru berkantong ajaib, bocah pengejar bola naga, dan monster saku yang muat di genggaman. Tidak ada kapal perang yang mengantar tokoh-tokoh itu. Mereka datang lewat layar televisi, rak toko buku, dan belakangan lewat ponsel.
+
+Buku ini membahas bagaimana hal itu terjadi, siapa yang mendorongnya, berapa uang yang berputar, dan apa harganya. Bab pertama ini menyiapkan alat berpikirnya: satu konsep dari ilmu hubungan internasional, dua tulisan yang membentuk perdebatan, dan beberapa angka terbaru yang membuat topik ini sulit diabaikan.
+
+### Kekuatan yang Bekerja Lewat Daya Tarik
+
+Istilah *soft power* berasal dari ilmuwan politik Joseph S. Nye Jr. Menurut halaman profil karyanya, Nye merumuskan istilah itu pada akhir 1980-an, lalu memuatnya dalam artikel ["Soft Power"](https://doi.org/10.2307/1148580) di jurnal *Foreign Policy* nomor 80, edisi musim gugur 1990. Gagasannya sederhana. Ada dua cara membuat pihak lain melakukan apa yang kamu mau. Cara pertama adalah perintah dan paksaan, yang ia sebut *hard power* atau *command power*. Cara kedua adalah membuat pihak lain menginginkan hal yang sama denganmu, yang ia sebut kekuatan kooptif atau *soft power*. Sumbernya, menurut Nye, adalah budaya, ideologi, dan lembaga internasional.
+
+Dalam bukunya *Soft Power: The Means to Success in World Politics* (PublicAffairs), yang menurut catatan penerbit terbit pada 2004, Nye mempertajam definisinya. *Soft power* adalah kemampuan menarik dan membujuk, yang bersumber dari budaya, cita-cita politik, dan kebijakan sebuah negara. Lawannya, *hard power*, adalah kemampuan memaksa yang bersumber dari kekuatan militer atau ekonomi.
+
+Bayangkan perbedaannya di rumah. Seorang kakak bisa menyuruh adiknya membereskan kamar dengan ancaman. Ia juga bisa membuat sang adik ingin meniru kebiasaannya karena kagum. Cara kedua lebih lambat, tetapi tidak perlu diawasi terus dan tidak memancing perlawanan.
+
+### Budaya yang Menghadap ke Dalam
+
+Menariknya, Jepang tidak tampil sebagai contoh sukses dalam artikel Nye tahun 1990. Ia justru mencatat bahwa *soft power* Jepang terbatas karena budayanya berorientasi ke dalam. Ekonominya besar, tetapi budayanya, menurut penilaian itu, belum cukup keluar untuk memikat orang di negeri lain.
+
+Catatan ini layak kamu ingat sepanjang buku. Daya tarik budaya bukan sifat bawaan sebuah bangsa. Ia bisa tumbuh, bisa juga tertahan, tergantung seberapa jauh budaya itu mau keluar dan dipakai orang lain.
+
+### Gross National Cool Versi McGray
+
+Dua belas tahun kemudian, Douglas McGray membalik nada pesimis itu. Dalam artikel ["Japan''s Gross National Cool"](https://doi.org/10.2307/3183487) di *Foreign Policy* nomor 130 (Mei/Juni 2002), ia berargumen bahwa pengaruh budaya Jepang justru membesar ketika ekonominya lesu. Musik pop, elektronik, mode, animasi, dan makanan Jepang menyebar luas, sampai menurutnya Jepang lebih pantas disebut adidaya budaya dibanding pada dekade 1980-an.
+
+McGray secara terang membingkai "kekerenan nasional" itu sebagai *soft power* dalam pengertian Nye. Namun ia juga mengajukan pertanyaan yang belum tuntas sampai sekarang: mampukah Jepang benar-benar memanfaatkan modal itu, mengingat budayanya yang cenderung tertutup? Pertanyaan ini akan muncul lagi ketika kita membahas Kementerian Luar Negeri dan program Cool Japan.
+
+### Akar Diplomasi Budaya di Asia Tenggara
+
+Upaya memakai budaya untuk memperbaiki citra sebenarnya lebih tua dari istilah Nye. Koichi Iwabuchi, dalam artikelnya di *International Journal of Cultural Policy* (2015), menelusuri diplomasi budaya Jepang pascaperang yang bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Dari situ, wacananya bergeser ke *soft power*, lalu ke *nation branding*, dan akhirnya ke Cool Japan.
+
+Bagi pembaca di Indonesia, sejarah ini terasa dekat. Asia Tenggara bukan penonton netral dalam kisah ini, melainkan salah satu alasan diplomasi itu dimulai. Iwabuchi juga kritis. Ia menilai proyek tersebut tetap berupa proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh, dan cenderung mengesampingkan keragaman budaya di dalam Jepang sendiri. Kritik ini akan kita buka lagi di bab 6 dan bab terakhir.
+
+### Ketika Konten Melampaui Semikonduktor
+
+Sekarang lompat ke angka hari ini. Menurut [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) dari asosiasi industri animasi Jepang (AJA), pasar anime Jepang pada 2024 mencapai 3.840,7 miliar yen, atau sekitar 3,84 triliun yen. Pasar luar negeri menyumbang 2.170,2 miliar yen, yaitu 126,0 persen dari angka tahun sebelumnya dan setara 56,5 persen dari total. Sejak 2023, pendapatan anime dari luar negeri sudah lebih besar daripada pasar domestik, dan pada 2024 selisihnya mencapai 499,7 miliar yen.
+
+Gambaran yang lebih luas datang dari Kantor Kabinet Jepang. Pasar luar negeri untuk konten Jepang tercatat 4,7 triliun yen pada 2022 dan 5,8 triliun yen pada 2023, dan salindia Kantor Kabinet menyebut angka itu sudah melampaui ekspor semikonduktor. Menurut laporan BBT University, ekspor semikonduktor Jepang pada 2023 bernilai 5,5 triliun yen dan baja 4,8 triliun yen, sehingga konten hanya kalah dari otomotif yang mencapai 21,6 triliun yen.
+
+Coba renungkan maknanya. Negara yang dulu dinilai Nye kurang memikat secara budaya kini menjual cerita dan gambar ke luar negeri dengan nilai di atas cip komputer.
+
+### Sebelas Perhentian Berikutnya
+
+Bab 2 mundur ke awal mula, ketika *Tetsuwan Atom* atau Astro Boy menjadi serial anime televisi. Bab 3 membedah *media mix* dan komite produksi, mesin bisnis yang membuat satu tokoh hidup di komik, layar, dan mainan sekaligus. Bab 4 mengikuti gelombang besar pertama ke arus utama Barat lewat Akira dan Pokémon. Bab 5 menyorot para penggemar yang, menurut peneliti Sean Leonard, menyebarkan anime ketika pemegang hak di Jepang sudah meninggalkan pasar Amerika.
+
+Bab 6 masuk ke diplomasi pop Kementerian Luar Negeri, sementara bab 7 menghitung uang negara di balik program Cool Japan. Bab 8 membaca angka pasar saat luar negeri melampaui domestik, dan bab 9 membahas manga digital serta perang melawan pembajakan. Bab 10 mengikuti penggemar yang berangkat ke lokasi nyata di balik adegan anime. Bab 11 pulang ke Indonesia, dari Doraemon di televisi Minggu pagi sampai penerbit Elex Media. Bab 12 menutup dengan harga di balik semua kesuksesan itu, termasuk yang dibayar para animator.
+
+### Intisari
+
+*Soft power*, menurut Nye, adalah kemampuan membuat orang lain menginginkan apa yang kamu inginkan lewat budaya, nilai, dan kebijakan, bukan lewat paksaan. Pada 1990 Nye menilai budaya Jepang terlalu berorientasi ke dalam untuk menjadi sumber kekuatan semacam itu, sedangkan pada 2002 McGray melihat Jepang sudah menjadi adidaya budaya justru di tengah kelesuan ekonomi. Iwabuchi mengingatkan bahwa semua ini berakar pada diplomasi pascaperang di Asia Tenggara dan masih bersifat satu arah. Angka terbaru memperlihatkan seberapa jauh perubahannya: lebih dari separuh pasar anime kini datang dari luar negeri, dan ekspor konten sudah melampaui semikonduktor.
+
+Namun jalan anime sendiri bermula dari sebuah serial televisi berdurasi setengah jam dan seorang bocah robot. Bagaimana sebenarnya anime televisi lahir, dan mengapa Astro Boy yang membuka jalannya?
+
+
+<!-- Chapter: 02_astro-boy-dan-lahirnya-anime-televisi -->
+
+## Astro Boy dan Lahirnya Anime Televisi
+
+Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, saat layar televisi menayangkan bocah robot bernama Atom. Anak-anak duduk paling depan, orang tua di belakang, dan selama setengah jam tidak ada yang beranjak. Mereka tidak tahu sedang menyaksikan sebuah awal. Hari itu, 1 Januari 1963, Fuji TV menyiarkan episode pertama *Tetsuwan Atom*, yang kemudian dikenal dunia sebagai *Astro Boy*.
+
+Kalau kamu ingin memahami mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Di bab ini kita melihat bagaimana satu serial sudah memperlihatkan empat kebiasaan industri yang masih bertahan: serial televisi yang tayang rutin, ritme produksi yang cepat, tokoh yang dijual sebagai barang dagangan, dan ekspor yang dimulai sejak tahun pertama.
+
+### Setengah Jam yang Mengubah Layar Kaca
+
+Menurut catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), situs yang mengelola karya Osamu Tezuka, *Tetsuwan Atom* diproduksi oleh Mushi Production dan tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966. Serial ini merupakan serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Totalnya 193 episode.
+
+Angka itu layak direnungkan sebentar. Empat tahun penayangan dengan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, sejak serial anime televisi yang pertama.
+
+Penonton pun membalasnya. Rating tertinggi serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
+
+### Cokelat Meiji Seika dan Lahirnya Waralaba Tokoh
+
+Serial setengah jam setiap pekan butuh biaya, dan di sinilah sponsor masuk. Menurut halaman penerbit buku Marc Steinberg, produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Atom tidak lagi hanya ditonton, tetapi juga dikumpulkan.
+
+Peneliti media Marc Steinberg, dalam bukunya *Anime''s Media Mix* (2012), menganggap momen ini sangat penting. Ia menulis bahwa *media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, "menyala" pada 1 Januari 1963 bersama *Astro Boy*. Menurut Steinberg, pemasaran cokelat Meiji Seika mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
+
+Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangan itu sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
+
+### Jalan Atom Menuju Stasiun TV Amerika
+
+Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdana di Jepang, NBC Enterprises membeli hak *Tetsuwan Atom*. Catatan Tezuka Productions menyebut Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk urusan kontrak itu, dan kontrak untuk 52 episode ditandatangani pada Mei 1963.
+
+Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Satu hal perlu kamu catat dengan cermat. Serial ini tidak ditayangkan di jaringan NBC. Serial ini dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963, menjangkau sekitar 50 stasiun. Sindikasi berarti stasiun lokal membeli hak tayang satu per satu, sehingga Atom muncul di banyak kota tanpa harus bergantung pada satu jaringan nasional.
+
+Selain Amerika, catatan Tezuka Productions menyebut serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi sudah dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
+
+### Robot Ramah dalam Pidato Diplomasi
+
+Empat dekade kemudian, Atom muncul lagi di tempat yang tak terduga, yaitu pidato seorang menteri luar negeri. Pada 28 April 2006, Taro Aso berpidato di Digital Hollywood University tentang diplomasi budaya. Dalam [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html), ia menyebut *Astro Boy* dan Doraemon sebagai tokoh yang membuat robot terlihat ramah, lebih mirip penolong daripada ancaman.
+
+Pernyataan ini menunjukkan sesuatu yang menarik. Sebuah serial kartun dari 1963 dianggap ikut membentuk cara orang memandang teknologi, dan pemerintah Jepang menyadari nilai citra tersebut. Hiburan anak-anak yang dulu ikut dipakai untuk menjual cokelat pada akhirnya dikutip sebagai modal diplomasi.
+
+### Cetakan yang Masih Dipakai Industri Anime
+
+Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*. Ada serial televisi yang tayang secara teratur. Ada tuntutan memproduksi episode dalam jumlah banyak dengan cepat. Ada sponsor dan barang dagangan yang membuat tokoh hidup di luar layar. Ada pula penjualan ke luar negeri yang dimulai hampir bersamaan dengan penayangan di dalam negeri.
+
+Tentu industri sekarang jauh lebih besar dan rumit. Namun pertanyaan dasarnya tetap sama dengan yang dihadapi pada 1963: bagaimana cara membiayai tayangan yang mahal ongkos pembuatannya, dan bagaimana cara agar tokohnya menghasilkan nilai lebih lama daripada masa tayangnya.
+
+### Ringkasan
+
+*Tetsuwan Atom* tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dalam 193 episode, dengan rating tertinggi 40,7 persen. Ia menjadi serial animasi televisi Jepang pertama berdurasi 30 menit. Sponsor Meiji Seika mengubah Atom menjadi waralaba tokoh, momen yang oleh Steinberg disebut sebagai titik nyala *media mix*. Pada tahun yang sama, NBC Enterprises membeli haknya dan memasarkannya secara sindikasi ke sekitar 50 stasiun TV AS mulai September 1963. Puluhan tahun kemudian, Taro Aso menyebut Atom sebagai tokoh yang membuat robot tampak ramah.
+
+Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri. Bab berikutnya membedah model bisnis yang membiayai anime, mulai dari *media mix* sampai komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.
+
+
+<!-- Chapter: 03_media-mix-dan-komite-produksi -->
+
+## Media Mix dan Komite Produksi
+
+Bayangkan kamu membeli sebatang cokelat hanya karena ada stiker tokoh kartun favoritmu di dalam bungkusnya. Cokelatnya mungkin enak, tetapi yang membuatmu kembali ke warung adalah stiker berikutnya. Pada titik itu, cokelat sudah berganti fungsi: ia menjadi pintu masuk ke sebuah cerita.
+
+Bab ini membahas mesin yang tumbuh dari logika sederhana itu, yaitu *media mix*, serta cara industri anime membiayai karyanya lewat *seisaku iinkai* atau komite produksi. Keduanya menjelaskan mengapa satu judul bisa hidup bersamaan di manga, televisi, bioskop, rak mainan, konsol gim, dan lagu tema.
+
+### Tokoh di Pusat, Produk di Sekelilingnya
+
+Di bab 2 kamu sudah bertemu stiker Atom yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg, dalam buku *Anime''s Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), memakai contoh itu untuk menunjukkan sesuatu yang lebih besar dari sekadar promosi. Yang berubah adalah arah hubungannya. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya menjadi pusat, dan setiap produk, dari tayangan sampai camilan, saling menjual satu sama lain.
+
+### Konvergensi ala Jepang
+
+Steinberg menyebut bahwa apa yang di Jepang dikenal sebagai *media mix* pada dasarnya sama dengan yang di Barat disebut *convergence* atau konvergensi media. Menurutnya, keduanya sama-sama bermula dari Astro Boy pada awal 1963, dan garisnya terus berlanjut ke waralaba yang datang belakangan.
+
+Gagasan intinya bisa diringkas begini: cerita dan tokoh tidak dimiliki oleh satu medium. Manga bisa menjadi sumber, anime menjadi pengeras suara, mainan dan gim menjadi cara penggemar "memegang" tokohnya, sementara musik menempel di kepala. Setiap pintu mengarahkan orang ke pintu yang lain.
+
+### Patungan untuk Membiayai Satu Judul
+
+Pertanyaan berikutnya lebih praktis: siapa yang membayar semua itu? Menurut tulisan [Sakuga Blog](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/) pada Mei 2017, komite produksi adalah usaha patungan beberapa perusahaan untuk mendanai sebuah karya. Penerbit, stasiun televisi, produsen mainan, biro iklan, dan distributor film bisa duduk di meja yang sama.
+
+Laporan itu menyebut dua keuntungan. Pertama, risiko dibagi. Kalau sebuah judul gagal, kerugian tiap anggota masih bisa ditanggung, walaupun bagian keuntungan dari judul yang laris juga ikut mengecil. Kedua, model ini menyatukan para spesialis, sehingga tiap anggota mengurus bidang yang paling ia kuasai. Investor yang menanam modal lebih besar biasanya tercantum lebih tinggi di daftar kredit.
+
+Sakuga Blog menyebut *Akira* sebagai salah satu film awal yang dibiayai komite, dengan anggota antara lain Kodansha, MBS, Bandai, Hakuhodo, Toho, dan Tokyo Movie. Masih menurut tulisan yang sama, model ini makin meluas setelah *Evangelion* (1995).
+
+### Studio Animasi di Ujung Meja
+
+Ada satu hal yang sering mengejutkan pembaca baru. Menurut Sakuga Blog, studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, bahkan kerap tidak menjadi anggota sama sekali. Artinya, ketika sebuah judul meledak, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini akan dibahas lebih dalam di bab 12.
+
+### Rantai Pokémon dari Gim ke Layar Lebar
+
+Pokémon memperlihatkan bagaimana *media mix* bekerja sebagai rantai. Gim Pokémon pertama dirilis pada 27 Februari 1996. Pada April 1997, serial animenya mulai tayang di TV Tokyo, lalu pada Juli 1998 film *Mewtwo Strikes Back* dibuka di bioskop Jepang. Setiap mata rantai memperkenalkan tokoh yang sama kepada penonton baru, kemudian mengantar mereka kembali ke gim dan barang dagangan lain.
+
+Urutan ini tidak harus selalu dimulai dari gim. Pada judul lain, titik awalnya bisa manga atau tayangan televisi, seperti Astro Boy yang kemudian merambah bungkus cokelat. Yang penting adalah tiap medium memberi alasan untuk mencoba medium berikutnya.
+
+### Mitra yang Mendorong Bersamaan
+
+Ketika banyak mitra berkepentingan pada satu judul, masing-masing bisa mendorongnya lewat salurannya sendiri, termasuk ke luar negeri. Peluncuran lintas media Pokémon memberi gambaran seperti apa dorongan serentak itu. Menurut [halaman sejarah The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime Pokémon diluncurkan di Amerika Serikat pada September 1998 di 111 stasiun, berbarengan dengan peluncuran gim Red dan Blue di sana. Anak yang mengenal tokohnya dari televisi bisa langsung menemukannya di konsol, dan sebaliknya.
+
+Bandingkan dengan satu studio yang harus menawarkan karyanya sendirian ke pasar asing. Tanpa penerbit, produsen mainan, dan perusahaan gim yang ikut bergerak, sebuah serial hanya punya satu pintu. Dengan komite, satu judul datang membawa banyak pintu sekaligus.
+
+Dari sudut pandang *soft power*, inilah bagian yang paling penting. Penonton di luar Jepang jarang bertemu Jepang lewat satu pengalaman saja. Mereka menonton serialnya, memainkan gimnya, mengoleksi mainannya, lalu menyanyikan lagu temanya. Setiap sentuhan kecil itu menambah rasa akrab, dan rasa akrab adalah bahan baku daya tarik yang dibahas di bab 1. Anggota komite bergerak karena kepentingan dagang, tetapi gerak serentak itu bisa menghasilkan efek yang mirip diplomasi budaya.
+
+### Benang Merah
+
+Stiker cokelat Meiji Seika dan peluncuran Pokémon di 111 stasiun Amerika lahir dari logika yang sama: satu tokoh, banyak pintu. *Media mix* membuat cerita hidup di banyak medium sekaligus, sedangkan komite produksi menyediakan modal dan jaringan mitra untuk mewujudkannya sambil membagi risiko. Harganya, studio yang menggambar sering berada di pinggir pembagian hasil.
+
+Sejauh ini kita melihat cara kerja mesinnya. Bab berikutnya mengikuti langkah selanjutnya, ketika judul-judul ini meninggalkan rumah dan mulai menemukan penonton di seluruh dunia.
+
+
+<!-- Chapter: 04_akira-pokemon-dan-gelombang-pertama-ke-barat -->
+
+## Akira, Pokémon, dan Gelombang Pertama ke Barat
+
+Menurut data Box Office Mojo yang dikutip luas, sebuah film kartun Jepang dibuka di peringkat pertama bioskop Amerika Utara pada November 1999. Film itu adalah *Pokémon: The First Movie*. Menurut laporan yang sama, pendapatannya mencapai 85,7 juta dolar AS di Amerika Utara dan 172 juta dolar AS di seluruh dunia. Bagi animasi dari negara yang bahasanya tidak dipahami sebagian besar penontonnya, itu pencapaian yang patut kamu catat.
+
+Hasil itu tidak muncul tiba-tiba. Sekitar sebelas tahun sebelumnya, sebuah film animasi lain sudah membuka jalan dari arah yang sama sekali berbeda. Ini bukan kedatangan pertama anime di Barat, karena Astro Boy sudah tayang di stasiun TV Amerika sejak 1963, tetapi inilah gelombang pertama yang menembus arus utama. Bab ini menelusuri gelombang yang kira-kira berlangsung dari 1988 sampai 2000-an, ketika anime dan manga berubah dari tontonan segelintir penggemar menjadi bagian dari budaya populer Barat. Menariknya, gelombang ini tidak masuk lewat satu pintu. Ada pintu film seni, pintu waralaba anak, dan pintu komik *shonen* (manga untuk pembaca remaja laki-laki), masing-masing menjangkau penonton yang berbeda.
+
+### Akira Mengguncang Penonton Film Dewasa
+
+*Akira* tayang di Jepang pada 16 Juli 1988. Menurut [liputan khusus Japan Times](https://features.japantimes.co.jp/akira-new/), anggarannya lebih dari 1 miliar yen, angka terbesar untuk film anime sampai saat itu. Film ini tayang perdana di AS pada 25 Desember 1989 lewat Streamline Pictures, lalu diedarkan terbatas sepanjang 1990. Mula-mula ia diputar di beberapa kota, kemudian menyebar ke jaringan bioskop *arthouse* yang lebih luas.
+
+Jalur peredaran itu penting. Jalur *arthouse* menempatkan *Akira* di antara film seni, bukan film keluarga. Japan Times menyebut film ini membantu memicu apresiasi terhadap anime di Barat, sedangkan British Film Institute (BFI) menggambarkannya sebagai film yang mengirim gelombang kejut ke dunia film, baik di Jepang maupun di Barat.
+
+Di Inggris, dampaknya terasa lewat format lain. Helen McCarthy, seperti dikutip Japan Times, mengatakan bahwa rilis video *Akira* di Inggris pada 1991 menjadi pemicu ledakan anime di negara itu. Jadi pintu pertama ini terbuka di dua tempat sekaligus: layar bioskop seni dan rak video.
+
+Dari sudut pandang *soft power*, peran *Akira* bisa dibaca begini: film ini memberi kalangan kritikus dan pencinta film alasan untuk membicarakan animasi Jepang dengan serius, bukan sekadar sebagai hiburan anak.
+
+### Monster Saku Menyerbu Televisi Amerika
+
+Pintu kedua dibuka oleh sesuatu yang justru sangat ramah anak. Gim *Pokémon* pertama dirilis pada 27 Februari 1996. Serial anime-nya mulai tayang di TV Tokyo pada April 1997, dan film layar lebar pertamanya, *Mewtwo Strikes Back*, dibuka di Jepang pada Juli 1998.
+
+Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime *Pokémon* mulai tayang di AS pada September 1998 di 111 stasiun televisi. Pada tahun yang sama, gim *Red* dan *Blue* juga diluncurkan di AS. Setahun kemudian, pada November 1999, *Pokémon: The First Movie* masuk bioskop Amerika dan menghasilkan angka yang kamu baca di awal bab.
+
+Perhatikan urutannya. Gim, serial televisi, dan film tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan kemungkinan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
+
+### Ratusan Juta Eksemplar Manga Shonen
+
+Pintu ketiga lebih senyap, yaitu manga itu sendiri. Angka penjualannya baru bisa diukur belakangan, karena dihitung secara kumulatif selama puluhan tahun.
+
+Menurut siaran pers Toei Animation pada Juni 2022, manga *Dragon Ball* telah terjual 260 juta eksemplar di seluruh dunia. Situs resmi *Naruto* yang dikelola Shueisha mencatat pada Oktober 2022 bahwa manga tersebut sudah terjual lebih dari 250 juta eksemplar di seluruh dunia, termasuk versi digital. Ia beredar di 60 negara dan wilayah, dan lebih dari 100 juta di antaranya merupakan edisi luar negeri. Angka terakhir ini menarik karena langsung menunjukkan seberapa besar pembaca di luar Jepang.
+
+Lalu ada *One Piece* karya Eiichiro Oda. Guinness World Records mencatatnya sebagai seri komik dengan jumlah eksemplar terbanyak yang diterbitkan oleh satu pengarang, yaitu 416.566.000 eksemplar dalam rentang Desember 1997 sampai Juli 2022. Belakangan, Guinness juga melaporkan angka 500 juta eksemplar yang telah dicetak di seluruh dunia. Dua angka ini berasal dari waktu yang berbeda, jadi sebaiknya kamu membacanya terpisah.
+
+### Penonton Berbeda, Arah yang Sama
+
+Kalau ketiga pintu ini dijajarkan, polanya terlihat. *Akira* meyakinkan penonton dewasa dan kritikus. *Pokémon* masuk ke ruang keluarga lewat televisi, gim, dan bioskop. Manga *shonen* membangun pembaca setia yang terus membeli jilid demi jilid selama bertahun-tahun. Tidak ada satu pun yang menjangkau semua kalangan, tetapi bersama-sama mereka membuat anime dan manga hadir bagi penonton yang sangat berbeda.
+
+Inilah yang membuat gelombang ini berbeda dari kampanye promosi biasa. Daya tariknya tidak bertumpu pada satu judul atau satu jenis penonton. Ketika satu pintu meredup, pintu lain masih terbuka.
+
+### Poin Penting
+
+- *Akira* (Jepang 1988, AS sejak akhir 1989) membuka pintu bioskop seni dan, menurut Japan Times, membantu memicu apresiasi terhadap anime di Barat. Menurut Helen McCarthy, rilis videonya pada 1991 memicu ledakan anime di Inggris.
+- *Pokémon* masuk sebagai waralaba anak yang menggabungkan gim, serial televisi di 111 stasiun AS, dan film yang, menurut data Box Office Mojo, dibuka di peringkat pertama Amerika Utara.
+- Manga *shonen* seperti *Dragon Ball*, *Naruto*, dan *One Piece* mencatat penjualan ratusan juta eksemplar. Khusus *Naruto*, lebih dari 100 juta eksemplarnya adalah edisi luar negeri.
+- Kekuatan gelombang ini terletak pada keragaman pintunya, bukan pada satu judul unggulan.
+
+Semua pintu di atas dibuka lewat jalur resmi: distributor film, stasiun televisi, dan penerbit. Namun di sela-sela jalur resmi itu, ada kelompok lain yang bekerja tanpa kontrak dan tanpa bayaran. Di bab berikutnya, kamu akan bertemu para penggemar yang menyebarkan anime dengan tangan mereka sendiri.
+
+
+<!-- Chapter: 05_penggemar-sebagai-duta-tak-resmi -->
+
+## Penggemar sebagai Duta Tak Resmi
+
+Menurut Sean Leonard, anime pernah menyebar di Amerika Serikat lewat tangan penggemar, saat pemilik haknya di Jepang tidak lagi menggarap pasar itu. Coba tanyakan pada dirimu sendiri: sebelum layanan resmi menjangkau banyak judul, siapa yang menerjemahkan sebagian besar serial itu ke bahasa Inggris lalu membagikannya dari satu orang ke orang lain? Sering kali bukan studio atau distributor, dan jelas bukan pemerintah. Pelakunya orang biasa yang terlalu suka pada sebuah tontonan sampai tidak tahan menyimpannya sendiri.
+
+Bab sebelumnya bercerita tentang judul-judul yang menembus Barat lewat jalur dagang. Bab ini melihat jalur yang lebih sunyi dan lebih berantakan: penggemar yang bekerja tanpa izin dan tanpa bayaran.
+
+### Pasar yang Sempat Ditinggalkan
+
+Sean Leonard menulis tentang fenomena ini dalam artikel di *International Journal of Cultural Studies* tahun 2005, berjudul "Progress against the law" ([DOI 10.1177/1367877905055679](https://doi.org/10.1177/1367877905055679)). Ia meneliti rentang waktu yang cukup panjang, dari 1976 sampai 1993, dan menemukan situasi yang terdengar janggal. Menurut Leonard, para pemegang hak di Jepang pada masa itu sudah meninggalkan pasar Amerika. Ruang kosong itu kemudian diisi oleh penggemar.
+
+Cara kerja penggemar pada masa itu mirip orang yang sedang menyebarkan keyakinan. Mereka tidak sekadar menonton; mereka mengajak, membujuk, dan memperkenalkan judul demi judul kepada orang yang belum pernah mendengarnya. Menurut Leonard, semangat menularkan kegemaran inilah yang menyalakan gerakan anime di Amerika Serikat.
+
+Leonard juga mengaitkan seluruh argumennya dengan pertanyaan yang lebih besar, yaitu bagaimana sebuah budaya menjadi global. Kamu tidak perlu menguasai teorinya untuk menangkap intinya: budaya Jepang tidak hanya dikirim dari Tokyo, tetapi juga dijemput dari bawah oleh orang-orang di negeri lain.
+
+### Subtitle Buatan Para Penggemar
+
+Alat utama gerakan ini adalah *fansub*, gabungan kata *fan* dan *subtitle*, yaitu teks terjemahan yang dibuat penggemar untuk tontonan yang belum punya versi resmi. Seseorang yang paham bahasa Jepang menerjemahkan dialog, lalu hasilnya ditempelkan pada video dan disebarkan ke sesama penggemar. Tidak ada kontrak, tidak ada honor, dan tidak ada jaminan mutu selain reputasi kelompok penerjemahnya.
+
+Leonard mencatat bahwa sejak 1998 sebagian besar *fansub* sudah berbentuk berkas digital. Artinya, penyebarannya tidak lagi bergantung pada salinan fisik yang harus berpindah tangan. Berkas digital jauh lebih mudah disalin dan dikirim ulang, sehingga satu terjemahan bisa beredar lebih luas daripada sebelumnya.
+
+### Pelanggaran yang Ikut Membuka Pintu
+
+Di sinilah bagian yang tidak nyaman. Semua kegiatan tadi melanggar hak cipta. Leonard tidak menyembunyikan hal itu, bahkan menjadikannya pusat argumen. Menurutnya, pelanggaran hak cipta yang terus-menerus oleh penggemar selama 1976 sampai 1993 justru mendorong perdagangan dan perkembangan seni. Dalam kerangka Leonard, penonton tanpa izin pada masa itu adalah calon pembeli resmi ketika produknya akhirnya tersedia.
+
+Argumen ini mudah disalahpahami sebagai pembenaran pembajakan, padahal konteksnya spesifik. Leonard berbicara tentang masa ketika pemilik hak tidak hadir di pasar itu. Situasinya berbeda ketika layanan resmi sudah tersedia dan salinan tanpa izin bersaing langsung dengan produk yang bisa dibeli. Ketegangan antara jasa penggemar dan kerugian pemegang hak ini akan dibahas lebih jauh di bab 9, yang menyorot manga digital dan perang melawan pembajakan.
+
+### Layanan Resmi Berskala Besar
+
+Belakangan, layanan resmi hadir dengan skala yang jauh lebih besar. Penonton tidak perlu lagi bergantung pada terjemahan buatan penggemar, karena versi resmi tersedia lewat aplikasi berlangganan.
+
+Ukuran pasarnya terlihat dari Crunchyroll. Pada Agustus 2021, Sony Pictures mengumumkan bahwa Funimation Global Group, usaha bersama Sony Pictures Entertainment dan Aniplex, telah menuntaskan pembelian Crunchyroll dari AT&T senilai 1,175 miliar dolar AS ([siaran pers Sony Pictures](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt)). Saat itu Crunchyroll punya 5 juta pelanggan berbayar dan 120 juta pengguna terdaftar di lebih dari 200 negara dan wilayah. Hitungan sederhana menunjukkan jumlah pengguna terdaftar 24 kali lipat jumlah pelanggan. Artinya, jumlah orang yang mendaftar jauh melampaui jumlah yang membayar.
+
+Manga menempuh jalan serupa. Pada Januari 2019, Shueisha meluncurkan MANGA Plus secara global dengan 50 judul. Bab baru dari serial *Weekly Shonen Jump*, *Jump SQ*, dan *Shonen Jump+* terbit bersamaan dengan Jepang, dan bab pertama serta bab terbaru bisa dibaca gratis. Model ini menawarkan dua hal sekaligus: bab baru tanpa jeda dari Jepang dan akses gratis ke bab pertama serta terbaru.
+
+Data Netflix pada Juli 2025 memperlihatkan skala penontonnya sekarang ([pengumuman Netflix](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom)). Lebih dari separuh anggotanya di seluruh dunia menonton anime, dan 80 sampai 90 persen penonton anime di sana menonton versi sulih suara (*dub*). Penonton anime kini tidak lagi terbatas pada kelompok kecil yang betah membaca teks terjemahan di bagian bawah layar.
+
+### Inti Pembahasan
+
+Penggemar menjadi duta tak resmi anime di Amerika Serikat. Menurut Leonard, mereka menyalakan gerakan anime di sana ketika pemegang hak di Jepang sudah meninggalkan pasar itu, dengan cara yang melanggar hak cipta tetapi ikut mendorong perdagangan. *Fansub* menjadi alat utamanya, dan sejak 1998 sebagian besar berpindah ke bentuk digital. Belakangan, perusahaan membangun layanan resmi berskala besar: Crunchyroll dengan 120 juta pengguna terdaftar saat dibeli Sony, MANGA Plus yang terbit bersamaan dengan Jepang, dan Netflix yang penonton animenya kebanyakan menonton versi sulih suara.
+
+Sampai di titik ini, yang bergerak masih pasar dan komunitas. Namun budaya pop yang tumbuh dari pasar dan komunitas ini akhirnya juga dilirik negara. Di bab berikutnya, kamu akan melihat bagaimana Kementerian Luar Negeri Jepang mulai memandang budaya pop sebagai bagian dari diplomasi.
+
+
+<!-- Chapter: 06_diplomasi-pop-kementerian-luar-negeri -->
+
+## Diplomasi Pop Kementerian Luar Negeri
+
+Pada 19 Maret 2008, seekor kucing robot biru menerima penugasan resmi di gedung Kementerian Luar Negeri Jepang. Yang melantiknya adalah Menteri Luar Negeri Masahiko Koumura, dan jabatan barunya terdengar ganjil di telinga diplomat mana pun, yaitu Duta Anime. Kucing itu tentu saja Doraemon. Pesan dari upacara kecil itu cukup jelas: tokoh kartun kini ikut membawa nama negara.
+
+Bagaimana sebuah kementerian yang biasa mengurus kedutaan dan perundingan sampai mengangkat tokoh anime menjadi duta? Bab ini menelusuri langkah Kementerian Luar Negeri Jepang (MOFA) antara 2006 dan 2009, lalu menimbang kritik akademis yang menyertainya.
+
+### Pidato Aso di Kampus Digital Hollywood
+
+Langkah kementerian itu berawal dari sebuah pidato. Pada 28 April 2006, Menteri Luar Negeri Taro Aso berbicara di Digital Hollywood University dengan judul *A New Look at Cultural Diplomacy: A Call to Japan''s Cultural Practitioners*. Yang ia sapa bukan sesama diplomat, melainkan orang-orang yang bekerja di dunia kreatif. Isi [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html) lebih mirip undangan terbuka ketimbang laporan kebijakan.
+
+Argumen Aso berangkat dari pengamatan sederhana. Diplomasi masa kini sangat bergantung pada opini publik massa di negara lain. Kalau begitu, budaya pop yang disukai banyak orang semestinya menjadi sekutu diplomasi, bukan sekadar hiburan. Ia menyatakan bahwa kementeriannya ingin memasarkan budaya pop, dan ia meminta para kreator ikut menggosok citra merek Jepang.
+
+Aso juga membawa contoh. Menurutnya, *Astro Boy* dan Doraemon membuat robot terasa ramah. Ia pun menyebut serial sepak bola *Captain Tsubasa* sebagai sumber inspirasi bagi Zidane dan Totti. Klaim itu datang dari mulut sang menteri sendiri, jadi wajar dibaca sebagai bagian dari retorika pidato, bukan hasil penelitian.
+
+Satu usulan dari pidato itu kelak menjadi program nyata, yaitu hadiah manga yang ia bandingkan dengan Hadiah Nobel. Ia juga menggagas seniman anime muda sebagai duta budaya.
+
+### Hadiah Manga yang Digelar Tiap Tahun
+
+Usulan hadiah manga terwujud setahun kemudian. Pada Mei 2007, atas prakarsa Aso, MOFA mendirikan [Japan International MANGA Award](https://www.mofa.go.jp/policy/culture/exchange/pop/manga/index.html). Penghargaan ini digelar setiap tahun sejak itu, dan edisi ke-20 membuka pendaftaran pada 2026.
+
+Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, tetapi oleh kementerian yang sehari-hari menangani hubungan antarnegara. Usianya yang hampir dua dekade juga menunjukkan bahwa ia bukan proyek sekali jalan yang ikut hilang ketika menterinya berganti.
+
+### Kucing Robot Naik Pangkat Jadi Duta
+
+Dua tahun setelah pidato itu, Koumura melantik Doraemon sebagai *Anime Ambassador* di kantor MOFA, dan pelantikan itu tercatat dalam siaran pers kementerian serta Buku Biru Diplomatik 2009. Yang diangkat bukan seniman muda seperti gagasan Aso, melainkan seorang tokoh kartun.
+
+Pilihan ini sejalan dengan pidato dua tahun sebelumnya, yang sudah menyebut Doraemon sebagai tokoh yang membuat robot terasa bersahabat. Tokoh fiksi juga punya kelebihan praktis. Ia tidak menua, tidak lelah berkeliling, dan tidak mungkin salah bicara di depan wartawan. Dengan mengangkat kucing robot menjadi duta, kementerian mengakui secara terbuka bahwa wajah Jepang di luar negeri ikut dibentuk oleh tokoh kartun.
+
+### Trio Duta Kawaii dari Dunia Fesyen
+
+Setahun kemudian giliran mode. Siaran pers MOFA tertanggal 25 Februari 2009 mengumumkan tiga orang yang diangkat keesokan harinya, 26 Februari 2009. Gelar resmi mereka panjang sekali, *Trend Communicators of Japanese Pop Culture in the Field of Fashion*, dan mereka dijuluki Duta *Kawaii*.
+
+Masing-masing mewakili satu gaya. Misako Aoki membawa gaya *Lolita*, Yu Kimura mewakili mode *Harajuku*, dan Shizuka Fujioka mewakili gaya seragam sekolah. Penunjukan ini memperlihatkan bahwa diplomasi pop tidak berhenti di layar. Cara anak muda Jepang berpakaian pun dianggap layak dipromosikan oleh negara.
+
+Kalau keempat langkah tadi kamu susun dalam satu garis waktu, polanya terlihat rapi:
+
+- 2006, pidato Aso menyebut budaya pop sebagai sekutu diplomasi;
+- 2007, lahir penghargaan manga internasional;
+- 2008, Doraemon dilantik menjadi Duta Anime;
+- 2009, tiga Duta *Kawaii* mulai bertugas.
+
+Dalam empat tahun, sebuah kementerian luar negeri membangun kosakata baru yang menempatkan manga, anime, dan busana sebagai aset diplomasi.
+
+### Kritik Iwabuchi atas Proyeksi Satu Arah
+
+Tidak semua orang terpesona. Peneliti Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469).
+
+Iwabuchi menelusuri akarnya jauh ke belakang. Menurutnya, diplomasi budaya Jepang pascaperang mula-mula bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Kerangka itu kemudian bergeser ke bahasa *soft power*, lalu *nation branding* atau pencitraan bangsa, dan akhirnya Cool Japan. Labelnya berganti, tetapi logikanya serupa: negara ingin dilihat dengan cara tertentu oleh orang lain.
+
+Dari situ ia mengajukan dua keberatan. Pertama, diplomasi pop semacam ini tetap berupa proyeksi satu arah. Jepang mengirim citra, tetapi tidak sungguh-sungguh membuka dialog lintas batas yang memberi pihak lain ruang untuk berbicara dan didengar. Kedua, citra yang dipromosikan cenderung menyingkirkan keragaman budaya di dalam Jepang sendiri. Yang tampil ke luar adalah versi yang rapi dan mudah dikemas.
+
+Duta berupa tokoh kartun justru memperjelas persoalan itu. Doraemon bisa hadir di mana saja, tetapi ia tidak bisa mendengar. Kamu boleh saja menyukainya dengan tulus sejak kecil. Pertanyaan Iwabuchi bukan apakah kesukaan itu keliru, melainkan apakah hubungan yang terbentuk benar-benar berjalan dua arah.
+
+### Yang Perlu Kamu Ingat
+
+Pidato Taro Aso pada 28 April 2006 merumuskan budaya pop sebagai sekutu diplomasi, dengan alasan bahwa diplomasi bergantung pada opini publik. Gagasan itu lalu menjadi program yang nyata: Japan International MANGA Award sejak Mei 2007, Doraemon sebagai Duta Anime pada 19 Maret 2008, dan tiga Duta *Kawaii* yang diangkat pada 26 Februari 2009.
+
+Iwabuchi mengingatkan sisi lain dari cerita ini. Diplomasi pop berakar pada upaya pascaperang meredakan sentimen anti-Jepang, dan sampai kini masih cenderung satu arah serta mengabaikan keragaman di dalam negeri.
+
+Semua langkah tadi masih berada di wilayah kementerian luar negeri, yang bekerja dengan simbol, gelar, dan penghargaan. Di bab berikutnya, urusannya berpindah ke kementerian ekonomi dan dana publik, tempat budaya pop mulai diperlakukan sebagai industri yang dibiayai negara dan dihitung untung ruginya.
+
+
+<!-- Chapter: 07_cool-japan-dan-uang-negara -->
+
+## Cool Japan dan Uang Negara
+
+Cool Japan Fund diharapkan mengembalikan modal negara yang ditanam di budaya pop Jepang, tetapi kerugian kumulatifnya justru terus membesar. Ironi itu menjadi pintu masuk yang pas untuk melihat sisi lain dari *soft power*: sisi anggaran, target, dan neraca keuangan.
+
+Bab-bab sebelumnya banyak bicara soal citra dan daya tarik. Di bab ini kamu akan melihat bagaimana negara mencoba mengubah daya tarik itu menjadi uang, apa yang berjalan, dan apa yang tersandung. Penilaiannya perlu adil, karena kebijakan Cool Japan bukan satu program tunggal. Ada kantor koordinasi, ada dana investasi, ada subsidi, dan ada target jangka panjang. Hasil masing-masing berbeda.
+
+### Kantor Kecil di Biro Manufaktur
+
+Langkah kelembagaan awal datang dari Kementerian Ekonomi, Perdagangan, dan Industri (METI). Menurut tajuk rencana *Japan Times* edisi 15 Agustus 2010, METI membentuk Kantor Promosi Industri Kreatif (*Creative Industries Promotion Office*) pada Juni 2010. Kantor ini ditempatkan di Biro Industri Manufaktur dan bertugas mengoordinasikan promosi industri budaya, seperti desain, animasi, mode, dan film, lintas lembaga pemerintah.
+
+Penempatan itu cukup bercerita. Budaya pop diperlakukan sebagai industri, setara dengan barang manufaktur yang bisa diekspor. Tiga tahun kemudian, negara menyiapkan alat yang jauh lebih besar dan jauh lebih mahal.
+
+### Dana Patungan yang Hampir Seluruhnya Milik Negara
+
+Cool Japan Fund Inc. berdiri pada November 2013 sebagai dana publik-swasta, dengan upacara peluncuran pada 25 November 2013. Sebagai dana investasi, ia diharapkan mengembalikan modal yang ditanamkan, bahkan dengan keuntungan.
+
+Label "publik-swasta" kurang menggambarkan isinya kalau kamu melihat komposisi modalnya. Menurut Badan Pemeriksa Keuangan Jepang (*Board of Audit*), pada akhir tahun fiskal 2023 modal dana ini 134,3 miliar yen. Dari jumlah itu, 123,6 miliar yen berasal dari pemerintah dan hanya 10,7 miliar yen dari swasta. Artinya sekitar 92 persen uangnya adalah uang negara. Sampai April 2026, menurut data yang dihimpun nippon.com, total modalnya naik menjadi 151,3 miliar yen, dan 140,6 miliar yen di antaranya dari pemerintah.
+
+### Rapor Merah dari Badan Pemeriksa
+
+Laporan [Badan Pemeriksa Keuangan](https://report.jbaudit.go.jp/org/r06/YOUSEI2/2024-r06-Y2019-0.htm) tentang dana-dana publik-swasta menjadi titik balik dalam perdebatan ini. Lembaga itu mencatat kerugian kumulatif Cool Japan Fund sekitar 39,7 miliar yen pada akhir tahun fiskal 2023. Yang lebih mengkhawatirkan adalah rencananya ke depan. Dana ini hanya menargetkan laba kumulatif 1,0 miliar yen sampai tahun fiskal 2033, jauh di bawah biaya modal pemerintah yang besarnya sekitar 15,0 miliar yen. Dengan kata lain, bahkan bila target tercapai, negara tetap tekor. Badan Pemeriksa meminta dana ini menutup kerugian kumulatifnya dan memperbaiki pengelolaan.
+
+Setelah teguran itu, angkanya tidak membaik.
+
+| Indikator | Nilai |
+|---|---|
+| Modal akhir tahun fiskal 2023 | 134,3 miliar yen (123,6 miliar dari pemerintah) |
+| Kerugian kumulatif akhir tahun fiskal 2023 | sekitar 39,7 miliar yen |
+| Target laba kumulatif sampai tahun fiskal 2033 | 1,0 miliar yen |
+| Biaya modal pemerintah | sekitar 15,0 miliar yen |
+| Rugi bersih tahun fiskal 2025 | 15,7 miliar yen |
+| Kerugian kumulatif akhir Maret 2026 | 54 miliar yen |
+
+Salah satu penyebab rugi besar itu, sekitar 14 miliar yen, berkaitan dengan perusahaan Spiber. Lalu, pada 21 Agustus 2026, *Mainichi* melaporkan, dengan mengutip sumber pemerintah, bahwa pemerintah telah memutuskan untuk membubarkan dana tersebut. NHK melaporkan pada 24 Agustus 2026 bahwa keputusan panel ahli diperkirakan keluar sekitar akhir tahun. Jadi pembubaran itu diputuskan menurut sumber pemerintah, tetapi prosesnya belum rampung.
+
+Kegagalan ini tidak otomatis berarti budaya pop Jepang gagal di luar negeri. Yang gagal adalah satu cara tertentu memakai uang negara, yaitu menanam modal langsung dan berharap untung seperti investor swasta.
+
+### Target Lima Puluh Triliun Yen
+
+Di sisi perencanaan, pemerintah justru semakin berani. Strategi Cool Japan Baru yang diputuskan Markas Besar Strategi Kekayaan Intelektual pada 4 Juni 2024 menargetkan industri terkait Cool Japan (konten, pariwisata *inbound*, kuliner, mode, dan kosmetik) mencapai 50 triliun yen atau lebih pada 2033. Titik awalnya 19,1 triliun yen pada 2023, jadi targetnya lebih dari dua setengah kali lipat.
+
+Untuk konten saja ada target tersendiri: pasar luar negeri untuk konten Jepang sebesar 20 triliun yen pada 2033, seperti tercantum dalam materi Kantor Kabinet. Target yang jelas seperti ini punya nilai. Ia memaksa setiap program menjawab pertanyaan sederhana: apakah ini mendorong angka ke arah yang benar? Dana investasi tadi sulit lolos dari pertanyaan itu.
+
+### Subsidi Lokalisasi yang Lebih Membumi
+
+Kalau dana investasi adalah cerita yang tersandung, J-LOD (*Japan content LOcalization and Distribution*) adalah contoh pendekatan yang lebih sederhana. Program subsidi METI ini dijalankan oleh [VIPO](https://www.vipo.or.jp/project/j-lodr3/) dan menanggung sebagian biaya lokalisasi serta promosi ketika sebuah karya dirilis di luar negeri. Tujuannya menciptakan "demam Jepang" di luar negeri yang ikut mengangkat industri terkait dan pariwisata *inbound*.
+
+Bedanya terletak pada peran negara. Dalam J-LOD, pemerintah tidak menjadi pemilik usaha dan tidak perlu menebak proyek mana yang akan laku. Pemerintah hanya ikut menanggung biaya lokalisasi dan promosi, lalu membiarkan karya itu bersaing di pasar. Dalam rancangan seperti ini, risiko bisnis tetap berada di tangan pemilik karya.
+
+### Menengok Model KOCCA Korea
+
+Arah kebijakan berikutnya terlihat dari laporan *Yomiuri* pada 23 Juni 2026. Pemerintah berencana membentuk lembaga pusat komando (*command tower*) untuk industri konten dalam tahun fiskal 2027, dengan model KOCCA milik Korea Selatan. Rencana itu disertai target investasi publik-swasta sekitar 34 triliun yen sampai tahun fiskal 2033, di antaranya untuk gim 24,5 triliun, anime 3,3 triliun, manga 1,6 triliun, dan musik 3 triliun yen.
+
+Kabinet juga menyetujui Strategi Pertumbuhan Jepang pada 21 Juli 2026. Pada 29 September 2026, Keidanren mencatat bahwa permintaan anggaran tahun fiskal 2027 untuk konten melampaui 250 miliar yen, dan mendesak agar dukungan disatukan dalam satu lembaga. Desakan itu bisa dibaca sebagai upaya merapikan dukungan yang selama ini tersebar di banyak program.
+
+### Kesimpulan Bab
+
+Kebijakan Cool Japan punya dua wajah. Wajah yang tersandung adalah Cool Japan Fund, dana yang 92 persen modalnya dari negara, menumpuk kerugian sampai 54 miliar yen, dan kini menurut sumber pemerintah akan dibubarkan. Wajah yang lebih menjanjikan adalah target yang terukur dan subsidi seperti J-LOD, yang dirancang untuk membantu karya menembus pasar tanpa membuat negara bertaruh sebagai investor.
+
+Dari dua wajah itu, ada satu dugaan yang layak kamu uji sendiri: negara mungkin lebih berguna ketika menurunkan hambatan daripada ketika mencoba memilih pemenang. Namun kebijakan hanyalah separuh cerita. Bab berikutnya meninggalkan ruang rapat kementerian dan masuk ke pasar itu sendiri, untuk melihat berapa sebenarnya uang yang dihasilkan anime di dalam dan di luar Jepang.
+
+
+<!-- Chapter: 08_saat-pasar-luar-negeri-melampaui-domestik -->
+
+## Saat Pasar Luar Negeri Melampaui Pasar Domestik
+
+Menurut AJA, sejak 2023 anime Jepang menghasilkan lebih banyak uang di luar negeri daripada di negeri asalnya sendiri.
+
+Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utama industri ini. Data terbaru Association of Japanese Animations (AJA) menunjukkan posisi itu sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Bab ini memeriksa apakah semua itu benar-benar berbuah, dan jawabannya ada di neraca.
+
+### Dua Garis yang Akhirnya Bersilangan
+
+Menurut [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) yang diterbitkan AJA pada Maret 2026, pasar anime Jepang sepanjang 2024 bernilai 3.840,7 miliar yen, atau sekitar 3,84 triliun yen, sebuah rekor. Rinciannya seperti ini.
+
+| Pos tahun 2024 | Nilai | Catatan |
+|---|---|---|
+| Total pasar | 3.840,7 miliar yen | rekor baru |
+| Luar negeri | 2.170,2 miliar yen | 56,5% dari total |
+| Domestik | 1.670,5 miliar yen | |
+| Selisih luar negeri atas domestik | 499,7 miliar yen | |
+
+Pendapatan luar negeri pada 2024 naik menjadi 126,0% dari tahun sebelumnya. AJA mencatat pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023. Menurut laporan ScreenDaily yang mengutip data AJA, total pasar 2023 mencapai 3,3465 triliun yen, dengan pendapatan luar negeri 1,72 triliun yen di atas domestik 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pertama kali melampaui domestik pada 2020. Yang pasti, pada 2024 jarak keduanya melebar menjadi hampir 500 miliar yen.
+
+### Lonjakan dalam Dua Belas Tahun
+
+Untuk merasakan besarnya perubahan, mundurlah ke 2012. Menurut laporan Japan Forward (Sankei) yang mengutip laporan AJA 2018, pendapatan anime dari luar negeri pada 2012 baru 240,8 miliar yen. Pada 2017 angkanya sudah 994,8 miliar yen, dan pada tahun yang sama seluruh pasar anime untuk pertama kalinya menembus 2 triliun yen.
+
+Jika angka 2012 itu disandingkan dengan 2.170,2 miliar yen pada 2024, pertumbuhannya kira-kira sembilan kali lipat. Perkalian itu hitungan penulis buku ini, bukan angka resmi AJA, tetapi arahnya sulit dibantah. Pertanyaan berikutnya, lewat jalur apa penonton luar negeri kini menemukan anime?
+
+### Pintu Masuk Bernama Streaming
+
+Dulu anime sampai ke luar negeri lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar. Dua perusahaan memperlihatkan pergeseran itu paling jelas.
+
+Yang pertama adalah Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, saat layanan itu baru punya 5 juta pelanggan berbayar. Sony kemudian melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia per akhir Maret 2026. Dengan pembelian itu, salah satu platform anime terbesar berada di tangan kelompok Sony.
+
+Yang kedua adalah Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari 50% anggotanya di seluruh dunia menonton anime. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan jumlah penontonnya naik tiga kali lipat dalam lima tahun. Sebanyak 33 judul anime masuk daftar *Global Top 10* kategori non-Inggris pada 2024.
+
+Daftar Top 10 itu layak kamu perhatikan. Judul-judul anime di sana tidak hanya ditonton penggemar setia, tetapi juga bersaing langsung dengan drama dan film dari banyak negara lain untuk perhatian penonton biasa.
+
+### Rekor Bioskop dari Kereta sampai Kastil
+
+Layar bioskop memberi bukti yang sama. Film *Demon Slayer Mugen Train*, yang tayang di Jepang pada 16 Oktober 2020, menjadi film terlaris sepanjang masa di Jepang setelah 73 hari. Ia menggeser *Spirited Away*, pemegang rekor itu selama 19 tahun, dan menjadi film pertama yang melewati 40 miliar yen di Jepang. Pada 2020 film ini juga menjadi film terlaris di dunia.
+
+Kelanjutannya melangkah lebih jauh. Menurut pengumuman Aniplex yang diberitakan Asahi Shimbun, *Demon Slayer Infinity Castle* meraup 106,3 miliar yen di seluruh dunia per 16 November 2025 dari 89,17 juta penonton. Itu menjadikannya film Jepang pertama yang melewati 100 miliar yen secara global. Porsi Jepang 37,9 miliar yen dalam 122 hari, sehingga lebih dari separuh pendapatan datang dari luar negeri, dari peredaran di 157 negara dan wilayah sejak Agustus.
+
+Pengakuan juga datang dari panggung yang lebih bergengsi. *Spirited Away* memenangi Oscar untuk Film Animasi Terbaik di Academy Awards ke-75 pada 23 Maret 2003, dengan penghargaan atas nama Hayao Miyazaki. *The Boy and the Heron* meraih penghargaan yang sama di Academy Awards ke-96 pada 10 Maret 2024, kali ini atas nama Miyazaki dan Toshio Suzuki. Di antara dua malam itu, pasar luar negeri anime berubah dari pelengkap menjadi tulang punggung.
+
+### Poin Kunci
+
+- Pada 2024 pasar anime Jepang bernilai sekitar 3,84 triliun yen, dan 56,5% di antaranya datang dari luar negeri.
+- Menurut AJA, pasar luar negeri lebih besar daripada pasar domestik sejak 2023; selisihnya pada 2024 mencapai 499,7 miliar yen.
+- Pendapatan luar negeri tumbuh kira-kira sembilan kali sejak 2012, menurut hitungan penulis dari angka yang dilaporkan.
+- Streaming memperlihatkan jangkauannya: Crunchyroll di tangan Sony melewati 21 juta pelanggan berbayar, dan lebih dari separuh anggota Netflix menonton anime.
+- Rekor *Demon Slayer* dan dua Oscar menunjukkan daya tarik itu juga terukur di bioskop dan panggung penghargaan.
+
+Semua angka ini berbicara tentang layar. Padahal banyak cerita yang kamu tonton di layanan streaming bermula dari halaman komik, digambar hitam putih dan dibaca dari kanan ke kiri. Bab berikutnya berpindah dari layar ke halaman, untuk melihat apakah manga menempuh jalan yang sama menuju pembaca dunia, atau justru jalan yang sama sekali lain.
+
+
+<!-- Chapter: 09_manga-digital-dan-perang-melawan-pembajakan -->
+
+## Manga Digital dan Perang Melawan Pembajakan
+
+Bab terbaru manga favoritmu bisa dibaca gratis di aplikasi resmi, tetapi situs bajakan menawarkan seluruh arsipnya tanpa bayar. Pilihan mana yang kamu ambil? Pertanyaan sederhana ini sebenarnya menyentuh inti pertarungan industri manga beberapa tahun terakhir. Penerbit Jepang tidak bisa lagi hanya mengandalkan toko buku. Pembaca sudah pindah ke layar, dan situs bajakan ikut menunggu di sana.
+
+Bab ini mengikuti tiga arus sekaligus: perpindahan pembaca dari kertas ke ponsel, perlawanan hukum terhadap situs bajakan, dan cara penerbit merebut kembali pembaca dengan layanan resmi yang gratis. Di ujungnya, ada pesaing baru yang datang dari negara tetangga.
+
+### Ketika Ponsel Mengalahkan Kertas
+
+Angka dari Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, menunjukkan seberapa jauh pergeseran itu. Pada 2025, pasar komik Jepang (cetak dan digital) bernilai 692,5 miliar yen. Nilai itu turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut. Yang menarik adalah komposisinya. Komik digital mencapai 527,3 miliar yen, naik 2,9 persen, dan kini menguasai 76,1 persen pasar. Komik cetak tinggal 165,2 miliar yen setelah anjlok 14,0 persen.
+
+Komik juga bukan sekadar pelengkap bisnis buku di Jepang. Pada tahun yang sama, komik menyumbang 44,8 persen dari seluruh pasar penerbitan. Jadi ketika cara orang membaca manga berubah, seluruh industri penerbitan ikut bergeser.
+
+### Kerugian Triliunan Yen dari Konten Curian
+
+Perpindahan ke layar membawa masalah lama dalam bentuk baru. Salinan digital mudah disebar, dan situs bajakan bisa memuat banyak judul tanpa membayar sepeser pun kepada pengarang. CODA, organisasi antipembajakan konten Jepang, bersama PwC memperkirakan kerugian akibat pembajakan pada 2022 berada di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019.
+
+Perkiraan yang lebih baru, dengan cakupan konten digital, jauh lebih besar. Dalam [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) tanggal 26 Januari 2026, kerugian konten digital akibat pembajakan pada 2025 ditaksir sekitar 5,7 triliun yen.
+
+### Jatuhnya Manga-mura
+
+Kasus paling terkenal adalah Manga-mura, situs bajakan yang beroperasi sejak 2016. CODA memperkirakan kerugian dari situs ini mencapai 319,2 miliar yen hanya dalam periode September 2017 sampai Februari 2018. Situs itu menghilang pada 17 April 2018, setelah pemerintah meminta penyedia layanan internet memblokirnya.
+
+Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019. Pada Juni 2021, Pengadilan Distrik Fukuoka menjatuhkan hukuman tiga tahun penjara, denda 10 juta yen, dan perampasan 62 juta yen. Ceritanya belum selesai di situ. Pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen kepada tiga penerbit besar, yaitu Kadokawa, Shueisha, dan Shogakukan.
+
+Pelajaran dari kasus ini cukup jelas. Penegakan hukum bisa menutup satu situs, tetapi prosesnya bertahun-tahun, dan pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
+
+### Bab Gratis yang Terbit Serentak
+
+Di luar jalur hukum, penerbit juga menawarkan alternatif legal. Seperti disinggung di bab 5, Shueisha meluncurkan MANGA Plus pada Januari 2019, dengan bab baru yang terbit bersamaan dengan Jepang serta bab pertama dan terbaru yang gratis. Pada Agustus 2021, pembatasan wilayahnya dihapus.
+
+Dengan model itu, pembaca di luar Jepang punya pilihan resmi yang tersedia pada hari yang sama, gratis, dan legal. Menurut laporan Anime News Network, MANGA Plus memiliki 6 juta *monthly active users* (pengguna aktif bulanan) pada 2023. Menurut laporan Asahi Shimbun, angkanya sekitar 5,5 juta pada 2025, dengan sekitar 100 judul dalam sembilan bahasa.
+
+### Rak Komik Amerika dan Prancis
+
+Strategi itu bertemu permintaan yang sedang tinggi di luar Jepang. Menurut ICv2, penjualan komik dan novel grafis di Amerika Serikat dan Kanada mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Pada 2024, angkanya 1,94 miliar dolar AS.
+
+Data Circana BookScan memperlihatkan pasang surutnya. Penjualan unit manga pada Januari sampai Agustus 2023 turun 27 persen dibanding periode yang sama tahun 2022, tetapi masih 351 persen lebih tinggi daripada 2019. Dalam 12 bulan sampai Juni 2024, manga bersama *manhwa* (komik Korea) menguasai 40 persen penjualan novel grafis di AS.
+
+Di Prancis, data NielsenIQ-GfK mencatat 39,6 juta eksemplar manga terjual pada 2023, senilai 331 juta euro. Lebih dari separuh komik yang dibeli di sana adalah manga. Menurut laporan ActuaLitté, angka 2024 sekitar 35,9 juta eksemplar.
+
+### Webtoon Korea Ikut Berebut Pembaca
+
+Pembaca digital tidak hanya diincar penerbit Jepang. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Menurut laporan itu, pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi.
+
+Artinya, layanan resmi gratis juga menjadi cara agar manga tetap berada di layar yang sama tempat pesaingnya bersaing.
+
+### Recap
+
+- Pada 2025, komik digital menguasai 76,1 persen pasar komik Jepang, sementara penjualan cetak turun 14,0 persen.
+- Kerugian akibat pembajakan diperkirakan mencapai triliunan yen, dan kasus Manga-mura berakhir dengan hukuman pidana serta ganti rugi 1,7 miliar yen.
+- MANGA Plus menawarkan bab resmi yang gratis dan terbit serentak dengan Jepang, alternatif legal bagi pembaca.
+- Manga kuat di Amerika Utara dan Prancis, tetapi kini bersaing dengan webtoon Korea untuk merebut pembaca digital.
+
+Manga dan anime tidak berhenti di halaman atau layar. Banyak penggemar ingin berdiri di persimpangan, stasiun, dan kota yang mereka kenal dari cerita, lalu memotretnya sendiri. Bab berikutnya mengikuti perjalanan itu, dari halaman komik ke tempat nyata yang kini didatangi penggemar dari berbagai negara.
+
+
+<!-- Chapter: 10_dari-layar-ke-perjalanan -->
+
+## Dari Layar ke Perjalanan
+
+Di dekat sebuah stasiun kecil di Kamakura, ada perlintasan kereta yang kerap dikerumuni orang dengan ponsel terangkat. Bayangkan mereka menunggu kereta jalur Enoden lewat, lalu mengambil gambar yang sama berulang kali. Yang membuat tempat itu ramai bukan bangunan bersejarah, melainkan cerita: penggemar mengaitkan perlintasan dekat Stasiun Kamakura-Koko-mae dengan *Slam Dunk*, manga dan anime basket yang sudah lama mereka kenal.
+
+Bayangkan kamu sendiri berdiri di situ. Kamu datang jauh-jauh bukan untuk kuil atau pantai, tetapi untuk berdiri di titik yang pernah kamu lihat di layar. Bab ini membahas gerak dari layar ke perjalanan itu: bagaimana cerita mengubah tempat biasa menjadi tujuan wisata, apa untungnya bagi kota, dan apa yang terjadi ketika pengunjung datang lebih banyak daripada yang sanggup ditampung jalan sempit.
+
+### Ziarah ke Tempat yang Pernah Dilihat
+
+Tempat yang didatangi penggemar sering kali bukan tempat istimewa. Ia bisa berupa stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Bagi penggemar, mengunjungi lokasi seperti ini adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya ada di layar kini punya alamat yang bisa didatangi.
+
+Prosesnya bisa berjalan tanpa rencana dari siapa pun. Bayangkan seorang penggemar mengenali latar sebuah adegan, mengunggah foto perbandingan, lalu orang lain mengikuti jejaknya. Lama-lama sebuah kota kecil yang tidak pernah masuk brosur wisata mendapati jalanannya dipenuhi tamu dari jauh. Di titik inilah soft power bisa berubah wujud: daya tarik budaya yang semula abstrak berpotensi menjadi kereta yang penuh, kamar penginapan yang terisi, dan toko yang laku.
+
+Bagi pemerintah daerah, kedatangan penggemar bisa membuka peluang. Tamu yang datang sudah punya alasan untuk singgah, dan cerita yang mereka bawa pulang ikut memperkenalkan nama kota itu.
+
+### Peta Delapan Puluh Delapan Titik
+
+Kebiasaan yang awalnya spontan ini kemudian diberi bentuk resmi. Anime Tourism Association (Asosiasi Pariwisata Anime) didirikan pada September 2016. Menurut [Travel Voice](https://www.travelvoice.jp/20170826-95799), asosiasi ini mengumumkan daftar pertamanya, "88 Japanese Anime Spots" edisi 2018, pada 26 Agustus 2017. Di dalamnya ada Kuki, kota yang dikenal penggemar *Lucky Star*, dan Hida, yang terkait dengan *Kimi no Na wa*.
+
+Daftar seperti ini terasa seperti peta perjalanan yang bisa kamu tuntaskan satu per satu. Menurut situs resmi Anime Tourism Association, daftar itu masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
+
+### Tamu Asing yang Terus Bertambah
+
+Gelombang wisata ini terjadi di tengah lonjakan kunjungan asing ke Jepang. Menurut data final JNTO (Organisasi Pariwisata Nasional Jepang), jumlah wisatawan mancanegara pada 2024 mencapai 36.870.148 orang. Untuk 2025, perkiraannya sekitar 42.683.600 orang. Menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan pada 2025 mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
+
+Perlu kamu catat, tidak ada sumber yang menyebut berapa bagian dari puluhan juta tamu itu datang karena anime. Angka ini menunjukkan besarnya arus, bukan alasan setiap orang berangkat. Meski begitu, pemerintah jelas melihat hubungannya. Program J-LOD milik Kementerian Ekonomi, Perdagangan, dan Industri (METI), yang dijalankan VIPO, membiayai sebagian ongkos lokalisasi dan promosi konten Jepang untuk rilis luar negeri. Tujuannya menciptakan "demam Jepang" di luar negeri yang ikut mengangkat industri terkait dan kunjungan wisata ke Jepang.
+
+### Ghibli Park dan Museum Nintendo
+
+Selain lokasi yang muncul tanpa sengaja dalam cerita, kini ada tujuan yang memang dibangun untuk penggemar. Ghibli Park di Nagakute, Prefektur Aichi, dibuka pada 1 November 2022. Dua tahun kemudian, Nintendo Museum di Uji dibuka pada 2 Oktober 2024. Keduanya berangkat dari logika yang sama dengan daftar 88 titik: orang yang tumbuh bersama sebuah dunia rekaan ingin masuk ke dalamnya secara fisik.
+
+Bedanya, taman dan museum seperti ini dirancang untuk menampung pengunjung. Ada tiket, jalur antrean, dan staf. Perlintasan kereta di sebuah kota tidak punya semua itu.
+
+### Saat Perlintasan Kamakura Kewalahan
+
+Kembali ke Kamakura. Kerumunan di perlintasan yang dikaitkan dengan *Slam Dunk* makin besar setelah film *Slam Dunk* dirilis pada Desember 2022. Perlintasan itu tetap jalur kereta dan jalan yang dipakai warga sehari-hari, bukan panggung foto. Inilah wajah lain wisata anime, yang sering disebut *overtourism*: kota menerima tamu, tetapi juga menanggung beban yang tidak ikut dihitung dalam angka belanja.
+
+Menurut [Asahi Shimbun](https://www.asahi.com/ajw/articles/16224812), Kamakura memasang 12 kamera berbasis AI di dekat Stasiun Kamakura-Koko-mae pada pertengahan Desember 2025. Pemasangan itu bagian dari uji coba Badan Pariwisata Jepang dengan anggaran hingga 6 juta yen. Kota juga menyediakan area foto khusus di Taman Koshigoe Rakko, agar penggemar punya tempat memotret tanpa memenuhi perlintasan. Pendekatannya bukan melarang, melainkan mengatur arus supaya daya tarik cerita tidak berubah menjadi gangguan.
+
+### Gagasan Utama
+
+Wisata anime menunjukkan bahwa soft power tidak berhenti di layar. Cerita yang disukai membuat orang mau menempuh perjalanan jauh, dan perjalanan itu bisa membawa tamu ke kota yang sebelumnya luput dari perhatian. Gejala ini kemudian mendapat bentuk yang lebih tertata: daftar 88 titik, taman bertema, dan dukungan promosi konten seperti J-LOD.
+
+Namun Kamakura mengingatkan bahwa popularitas punya ongkos. Kota yang menerima tamu juga harus mengatur mereka, dan warga setempat ikut menanggung keramaian. Keberhasilan wisata anime diukur dari seberapa baik keduanya seimbang, bukan hanya dari jumlah kunjungan.
+
+Sejauh ini kita melihat dampak manga dan anime dari sisi Jepang. Bab berikutnya membawa pembahasan lebih dekat ke rumah: bagaimana semua ini terasa di Indonesia, dari layar kaca masa kecil sampai penggemar yang kini ikut terbang ke Jepang.
+
+
+<!-- Chapter: 11_doraemon-elex-dan-penggemar-indonesia -->
+
+## Doraemon, Elex, dan Penggemar Indonesia
+
+Bagi banyak anak Indonesia, Minggu pagi pernah identik dengan satu tontonan, yaitu robot kucing biru di layar RCTI. Jam dinding menunjuk 08.00 WIB, sarapan belum habis, dan lagu pembuka Doraemon sudah terdengar dari ruang tengah. Mungkin kamu juga punya kenangan seperti itu. Kalau iya, kamu termasuk bagian dari cerita yang lebih besar: bagaimana Indonesia berubah dari penonton yang kebetulan menyalakan televisi menjadi salah satu khalayak penting bagi budaya pop Jepang.
+
+Bab-bab sebelumnya banyak membahas Amerika Serikat dan Eropa. Kali ini kita pulang ke rumah sendiri dan menelusuri jejaknya, dari layar kaca, rak komik, ruang kelas bahasa, sampai aula pameran dan studio animasi.
+
+### Pagi Minggu Bersama RCTI
+
+Menurut [laporan detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia), RCTI mengambil alih hak siar Doraemon pada 9 Desember 1990 dan menayangkannya setiap Minggu pukul 08.00 WIB. Laporan yang sama menyebut serial ini sempat tayang lebih dulu di TVRI.
+
+Doraemon bertahan di RCTI sekitar 35 tahun. Lalu, dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi. Hilangnya Doraemon dari jadwal itu terasa janggal justru karena kebiasaannya sudah begitu lama. Dalam rentang 35 tahun, anak yang dulu menonton sambil sarapan bisa saja sudah punya anak sendiri.
+
+Pengulangan seperti ini bisa jadi cara soft power bekerja, pelan tapi dalam. Tidak ada kampanye yang menyuruh kamu menyukai Nobita. Kamu hanya terbiasa melihatnya setiap pekan, dan kebiasaan itu lama-lama menjadi rasa akrab.
+
+### Komik Berlisensi dari Penerbit Buku Komputer
+
+Televisi membuka pintu, sementara toko buku menahannya tetap terbuka. Elex Media Komputindo didirikan pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik. Kini perusahaan itu menyebut dirinya pelopor komik Jepang di Indonesia.
+
+Ratna Sari, editor Elex, bercerita kepada detikHot pada 2013 bahwa Elex membeli lisensi *Candy Candy* pada 1991. Setelah itu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Karena itu Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan yang pertama menerbitkan manga di sini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
+
+Perbedaan antara terbitan berlisensi dan tidak berlisensi ini penting. Lisensi berarti uang mengalir kembali ke pemegang hak di Jepang.
+
+### Ratusan Ribu Pelajar Bahasa Jepang
+
+Rasa akrab dengan tokoh fiksi bisa berlanjut ke sesuatu yang lebih menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia dalam jumlah pelajar bahasa Jepang. Menurut CNBC Indonesia yang mengutip Japan Foundation Jakarta, jumlahnya 732.914 pelajar.
+
+Menurut sumber yang sama, Indonesia bahkan berada di urutan pertama untuk jumlah lembaga yang mengajarkan bahasa Jepang, yaitu 3.103 lembaga. Di seluruh dunia, pelajarnya sekitar 4 juta orang di 143 negara dan wilayah. Survei ini tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi kamu sebaiknya membacanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
+
+### Comifuro yang Terus Membesar
+
+Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, adalah contoh paling jelas. Menurut Kompas Ohayo Jepang, Comic Frontier 22 digelar pada 16-17 Mei 2026 di ICE BSD City dan menghadirkan lebih dari 1.500 *circle*, kelompok kreator yang menjual karya sendiri, dari Indonesia, Asia Tenggara, dan Jepang. Comifuro pertama pada 2012 hanya diikuti sekitar 35 circle.
+
+Soal jumlah pengunjung, analisis KAORI Nusantara memperkirakan sekitar 20 ribu orang per hari pada 2022-2023. Yang menarik, circle dari Indonesia berdiri sejajar dengan kreator dari Jepang di aula yang sama. Penggemar lokal tidak lagi hanya menerima budaya pop Jepang, tetapi mengolahnya menjadi karya baru.
+
+### Cosplay Berhijab dan Tafsir Lokal
+
+Pengolahan itu juga terlihat pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati menelitinya dalam artikel "Dari Soft Power Jepang hingga Hijab Cosplay" di *Jurnal Masyarakat dan Budaya* 17(3) tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Rastati mencatat bahwa Jepang membangun ulang citranya setelah perang lewat anime, manga, dan cosplay.
+
+Penelitian lapangannya berfokus pada anak muda Muslim yang melakukan cosplay berhijab. Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Temuan ini menunjukkan bahwa daya tarik budaya tidak diterima mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
+
+### Rekor Pelancong ke Jepang
+
+Ada juga yang akhirnya berangkat ke Jepang. Siaran pers JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024. Untuk 2025, JNTO memperkirakan 640.600 pengunjung, naik 23,8 persen dan menjadi rekor, dengan Desember 2025 sebagai bulan tertinggi (81.700 pengunjung).
+
+Angka ini menggoda untuk dikaitkan langsung dengan anime, tetapi belum ada sumber yang membuktikan hubungan itu. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya. Yang bisa dikatakan dengan aman hanyalah bahwa minat orang Indonesia terhadap Jepang terlihat di banyak tempat sekaligus.
+
+### Tangan Indonesia di Balik Layar Studio
+
+Cerita terakhir bergerak ke arah sebaliknya. Orang Indonesia tidak hanya menonton, tetapi juga ikut bekerja di dalam industri. Menurut laporan Animenomics pada Juni 2025, Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Laporan yang sama menyebut Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
+
+Bagi soft power Jepang, ini lapisan yang menarik. Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
+
+### Key Takeaways
+
+- Doraemon tayang di RCTI sejak hak siarnya diambil alih pada 9 Desember 1990 dan bertahan sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
+- Elex Media Komputindo, yang awalnya penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
+- Indonesia menempati peringkat kedua dunia untuk jumlah pelajar bahasa Jepang dan peringkat pertama untuk jumlah lembaganya.
+- Comifuro tumbuh dari sekitar 35 circle pada 2012 menjadi lebih dari 1.500 pada 2026, sementara cosplay berhijab menunjukkan cara penggemar menafsirkan ulang budaya Jepang.
+- Kunjungan orang Indonesia ke Jepang mencetak rekor pada 2025, tetapi hubungannya dengan anime belum terbukti.
+
+Semua cerita ini terdengar seperti kisah sukses, dan memang begitu dari sisi penonton. Namun setiap episode yang kamu tonton dibuat oleh orang-orang dengan jam kerja dan upah tertentu, dan setiap lonjakan wisata membawa beban bagi kota yang didatangi. Bab berikutnya membalik sudut pandang itu dan menghitung harga di balik kesuksesan.
+
+
+<!-- Chapter: 12_harga-di-balik-kesuksesan -->
+
+## Harga di Balik Kesuksesan
+
+Setiap anime yang mendunia lahir dari ribuan jam kerja orang yang namanya jarang kamu ingat setelah kredit penutup selesai bergulir. Jadi, siapa sebenarnya yang membayar sebuah judul laris?
+
+Sebelas bab sebelumnya memperlihatkan bagaimana manga dan anime menjadi wajah Jepang di mata dunia. Bab terakhir ini menengok sisi yang jarang masuk poster promosi: upah, jam kerja, uang publik, pesaing baru, dan teknologi yang mengancam hak para pencipta.
+
+### Upah Animator yang Tertinggal
+
+Menurut survei JAniCA tahun 2023 yang dilaporkan [nippon.com](https://www.nippon.com/en/in-depth/d01174/), animator antara (*douga*), yaitu orang yang menggambar bingkai-bingkai di antara gerakan kunci, rata-rata berpenghasilan 2,63 juta yen setahun. Animator kunci (*genga*) sedikit di bawah 4 juta yen. Sebagai pembanding, rata-rata seluruh industri anime 4,56 juta yen, hampir sama dengan 4,60 juta yen untuk seluruh pegawai sektor swasta Jepang.
+
+Angka rata-rata itu menyembunyikan jurang di bagian bawah, karena animator antara dibayar jauh di bawah rata-rata industrinya sendiri. Memang ada perbaikan: pada 2009 animator antara rata-rata hanya mendapat 1,1 juta yen setahun. Porsi pekerja lepas juga turun dari 69,6 persen pada 2019 menjadi 47,3 persen pada 2023, artinya kini lebih banyak animator yang tidak berstatus lepas.
+
+### Jam Kerja Panjang di Balik Layar
+
+Gambaran dari survei lain lebih suram. Menurut laporan Animehunch tentang survei pertama NAFCA (Desember 2023 sampai Januari 2024, 323 responden), pekerja anime rata-rata bekerja 219 jam sebulan, jauh di atas rata-rata nasional 162,3 jam. Sebanyak 37,7 persen responden mendapat kurang dari 200.000 yen sebulan dari pekerjaan anime.
+
+Yang paling menohok adalah upah per jam. Median upah per jam responden 1.111 yen, sedikit di bawah upah minimum Tokyo yang 1.113 yen. Bayangkan kamu menggambar adegan yang ditonton jutaan orang di berbagai benua, lalu bayaran per jammu kalah dari batas terendah yang diizinkan hukum di kota tempatmu bekerja.
+
+### Regulator Persaingan Usaha Turun Tangan
+
+Masalah ini akhirnya sampai ke meja regulator. Pada 24 Desember 2025, [Komisi Perdagangan yang Adil Jepang](https://www.jftc.go.jp/en/pressreleases/yearly-2025/December/251224.html) (*Japan Fair Trade Commission*, JFTC) merilis laporan pencarian fakta tentang lingkungan transaksi para kreator di lokasi produksi film dan anime. Laporan itu diamanatkan keputusan kabinet 21 Juni 2024 dan dikirim kepada anggota komite produksi serta perusahaan produksi. JFTC menyatakan akan bertindak tegas atas pelanggaran Undang-Undang Antimonopoli, undang-undang transaksi usaha kecil dan menengah, serta undang-undang pekerja lepas.
+
+Anime News Network melaporkan bahwa survei di balik laporan itu mencakup 130 perusahaan dan 165 pekerja lepas. Sebanyak 52,1 persen animator tidak puas dengan bayarannya. Masalah yang muncul antara lain pembayaran yang terlambat atau dipotong, revisi yang tidak dibayar, dan syarat kontrak yang ditentukan sepihak. Ingat juga model komite produksi dari bab 3, tempat studio animasi sering hanya menjadi anggota kecil atau bahkan bukan anggota sama sekali.
+
+### Uang Publik yang Tidak Kembali
+
+Biaya lain ditanggung pembayar pajak. Bab 7 sudah membahas Cool Japan Fund, yang kerugian kumulatifnya mencapai 54 miliar yen pada akhir Maret 2026, dan menurut sumber pemerintah yang dikutip Mainichi, pemerintah telah memutuskan untuk membubarkannya. Pelajarannya sederhana: dana negara tidak otomatis mengubah daya tarik budaya menjadi laba.
+
+### Pesaing dari Seberang Selat Korea
+
+Jepang juga tidak lagi sendirian. Menurut laporan *Japan Times* pada Mei 2019, *webtoon* Korea membuat manga cetak Jepang harus waspada, karena pembaca muda yang tumbuh dengan ponsel beralih ke judul berbasis aplikasi. Korea sendiri mencatat ekspor konten tertinggi sepanjang sejarahnya pada 2024, yaitu 14,08 miliar dolar AS, dengan gim menyumbang 60,4 persen, menurut data Kementerian Kebudayaan yang dikutip *Korea Herald*.
+
+Angka itu tidak bisa dibandingkan langsung dengan data pasar anime Jepang, karena dasar penghitungannya berbeda. Yang bisa dibandingkan adalah pendekatannya. Korea punya KOCCA, dan menurut *Yomiuri*, Jepang kini merencanakan lembaga pusat komando konten yang meniru model itu, seperti kamu baca di bab 7.
+
+### Sora 2 dan Gambar yang Ditiru Mesin
+
+Tantangan terbaru datang dari kecerdasan buatan. OpenAI meluncurkan Sora 2 pada 30 September 2025. Menurut *Japan Times*, Menteri Digital Masaaki Taira menyatakan bahwa pemerintah meminta OpenAI beralih ke sistem *opt-in*, yaitu karya hanya dipakai bila pemiliknya mengizinkan, sekaligus membuat cara untuk membayar pemegang hak. Pada 27 Oktober 2025, CODA mengirim surat kepada OpenAI yang meminta agar konten milik anggotanya tidak dipakai untuk melatih model tanpa izin.
+
+Persoalannya menyentuh akar yang sama dengan bagian upah tadi. Gaya visual yang dikenali dunia dibangun oleh tangan para animator. Bila mesin bisa menirunya tanpa izin dan tanpa bayaran, orang-orang yang paling sedikit dibayar kembali menjadi pihak yang paling dirugikan.
+
+### Penutup
+
+Kalau kamu menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemar: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
+
+Kritik Koichi Iwabuchi juga patut diingat. Diplomasi budaya pop Jepang, menurutnya, cenderung menjadi proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh. Daya tarik yang hanya dipancarkan, tanpa mendengar, mudah berubah menjadi sekadar kampanye citra.
+
+Bagi negara lain, termasuk Indonesia, pelajarannya bukan menyalin Cool Japan. Pelajarannya ada pada urutan: karya yang baik dan komunitas penggemar yang hidup lebih dulu, baru negara mendukung dengan hati-hati. Dan dukungan itu baru bermakna jika ikut menjaga orang-orang yang menggambar, menulis, dan menghidupkan cerita. Lain kali kamu menonton episode favoritmu, coba baca kredit penutupnya sampai habis. Sebagian nama di sana adalah animator antara yang, menurut survei JAniCA 2023, rata-rata berpenghasilan 2,63 juta yen setahun, jauh di bawah rata-rata pegawai swasta Jepang.
+
+
+<!-- Chapter: 13_referensi -->
+
+## Referensi
+
+Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di seluruh bab buku ini. Semua tautan diakses 15 Oktober 2026; tiga DOI jurnal dikutip dari metadatanya karena halaman penerbitnya terblokir.
+
+### Teori Soft Power dan Kajian Akademik
+
+- [Nye, "Soft Power"](https://doi.org/10.2307/1148580). Joseph S. Nye Jr., 1990, Foreign Policy No. 80, artikel yang memperkenalkan konsep soft power.
+- [Nye, *Soft Power*](https://www.hachettebookgroup.com/titles/joseph-s-nye-jr/soft-power/9780786738960/). Halaman penerbit (PublicAffairs, 2004), definisi soft power.
+- [McGray, "Japan''s Gross National Cool"](https://doi.org/10.2307/3183487). Douglas McGray, 2002, Foreign Policy No. 130, tentang Jepang sebagai adidaya budaya.
+- [Iwabuchi, "Pop-culture diplomacy in Japan"](https://doi.org/10.1080/10286632.2015.1042469). Koichi Iwabuchi, 2015, International Journal of Cultural Policy 21(4), kritik atas diplomasi pop.
+- [Leonard, "Progress against the law"](https://doi.org/10.1177/1367877905055679). Sean Leonard, 2005, International Journal of Cultural Studies 8(3), tentang peran fansub.
+
+### Diplomasi Pop Kementerian Luar Negeri Jepang
+
+- [Pidato Taro Aso](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html). MOFA, 28 April 2006, budaya pop sebagai sekutu diplomasi.
+- [Doraemon Duta Anime](https://web.archive.org/web/20081218141326/http://www.mofa.go.jp/announce/announce/2008/3/0319-3.html). Siaran pers MOFA, 19 Maret 2008, salinan Internet Archive karena halaman aslinya sudah tidak ada.
+- [Japan International MANGA Award](https://www.mofa.go.jp/policy/culture/exchange/pop/manga/index.html). MOFA, penghargaan manga gagasan Taro Aso sejak 2007.
+- [Duta Kawaii](https://web.archive.org/web/20100226215741/http://www.mofa.go.jp/announce/event/2009/2/1188515_1152.html). Siaran pers MOFA, 25 Februari 2009, salinan Internet Archive karena halaman aslinya sudah tidak ada.
+
+### Kebijakan Cool Japan dan Dananya
+
+- [Promoting Cool Japan](https://www.japantimes.co.jp/opinion/2010/08/15/editorials/promoting-cool-japan/). Editorial Japan Times, 15 Agustus 2010, kantor industri kreatif METI.
+- [Cool Japan Fund](https://www.cj-fund.co.jp/en/about/cjfund.html). Profil resmi dana publik-swasta yang berdiri November 2013.
+- [Data Cool Japan Fund](https://www.nippon.com/en/japan-data/h02825/). nippon.com, 9 Juli 2026, modal dan kerugian dana itu.
+- [Laporan Board of Audit](https://report.jbaudit.go.jp/org/r06/YOUSEI2/2024-r06-Y2019-0.htm). Badan pemeriksa keuangan Jepang (Reiwa 6), kerugian Cool Japan Fund.
+- [Rencana pembubaran dana](https://mainichi.jp/english/articles/20260821/p2a/00m/0na/015000c). Mainichi, 21 Agustus 2026, mengutip sumber pemerintah.
+- [Strategi Cool Japan Baru](https://www.cao.go.jp/cool_japan/platform/activity/000117043.pdf). Slide Cabinet Office, 3 Oktober 2025, target pasar konten 2033.
+- [Lembaga pusat komando konten](https://www.yomiuri.co.jp/politics/20260623-GYT1T00156/). Yomiuri, 23 Juni 2026, lembaga ala KOCCA dan target investasi.
+- [Usulan Keidanren](https://www.keidanren.or.jp/policy/2026/053.html). Keidanren, 29 September 2026, anggaran konten tahun fiskal 2027.
+- [Program J-LOD](https://www.vipo.or.jp/project/j-lodr3/). VIPO, subsidi METI untuk lokalisasi konten ke luar negeri.
+
+### Pasar Anime dan Layanan Streaming
+
+- [AJA Anime Industry Report 2025 Summary](https://aja.gr.jp/download/air2025samary_en). Association of Japanese Animations, Maret 2026, pasar anime 2024.
+- [Pasar anime 2023](https://www.screendaily.com/news/japanese-anime-industry-generated-record-22bn-in-2023-with-overseas-surpassing-local-takings/5198698.article). ScreenDaily, pasar luar negeri melampaui domestik.
+- [Pasar anime tembus 2 triliun yen](https://japan-forward.com/anime-market-tops-%C2%A52-trillion-mark-for-the-first-time/). Japan Forward, 22 April 2019, angka pasar 2012 sampai 2017.
+- [Akuisisi Crunchyroll](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt). Sony Pictures, 9 Agustus 2021, pembelian senilai 1,175 miliar dolar AS.
+- [Blog Sony](https://www.sony.com/en/SonyInfo/blog/2026/05/08/). Sony, 8 Mei 2026, 21 juta pelanggan berbayar Crunchyroll.
+- [Anime for Every Fan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom). Netflix, 7 Juli 2025, separuh lebih anggotanya menonton anime.
+- [Infinity Castle di Jepang](https://www.cartoonbrew.com/feature-film/demon-slayer-infinity-castle-japan-box-office-252106.html). Cartoon Brew, pendapatan film Demon Slayer di Jepang.
+- [Infinity Castle lewati 100 miliar yen](https://www.asahi.com/ajw/articles/16165306). Asahi AJW, 18 November 2025, rekor pendapatan global.
+- [Oscar 2003](https://www.oscars.org/oscars/ceremonies/2003). Academy, kemenangan Spirited Away.
+- [Oscar 2024](https://www.oscars.org/oscars/ceremonies/2024). Academy, kemenangan The Boy and the Heron.
+
+### Manga, Penerbitan, dan Pembajakan
+
+- [Pasar komik 2025](https://shuppankagaku.com/wp/wp-content/uploads/2026/02/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B92602.pdf). Shuppan Kagaku Kenkyujo, Februari 2026, komik cetak dan digital Jepang.
+- [Langganan MANGA Plus](https://www.animenewsnetwork.com/news/2023-10-04/manga-plus-launches-new-subscription-service/.203091). Anime News Network, 4 Oktober 2023, pengguna aktif MANGA Plus.
+- [Shonen Jump+ dan MANGA Plus](https://www.asahi.com/ajw/articles/15919944). Asahi AJW, 17 Agustus 2025, pembaca dan judul MANGA Plus.
+- [Penjualan komik 2021](https://icv2.com/articles/markets/view/51531/comics-graphic-novel-sales-grew-over-60-2021). ICv2, penjualan AS dan Kanada naik lebih dari 60 persen.
+- [Manga tercepat tumbuh](https://icv2.com/articles/news/view/56250/circana-bookscan-fastest-growing-manga-series). ICv2, data Circana BookScan 2023.
+- [Porsi manga di AS](https://www.animenewsnetwork.com/news/2024-09-14/circana-executive-manga-other-east-asian-style-comics-made-up-largest-share-of-graphic-novel-sales-/.215460). Anime News Network, 14 September 2024, pangsa 40 persen.
+- [Manga di Prancis 2023](https://nielseniq.com/global/fr/news-center/2024/ventes-de-bande-dessinees-et-mangas-en-france-2023/). NielsenIQ, 39,6 juta eksemplar manga terjual.
+- [Kerugian pembajakan 2022](https://internet.watch.impress.co.jp/docs/news/1497478.html). Internet Watch, estimasi CODA dan PwC.
+- [Kerugian pembajakan 2025](https://www.meti.go.jp/english/press/2026/0126_001.html). METI dan CODA, 26 Januari 2026, sekitar 5,7 triliun yen.
+- [Vonis Manga-mura](https://www.animenewsnetwork.com/news/2021-06-02/fukuoka-court-hands-guilty-sentence-to-mangamura-piracy-site-administrator/.173502). Anime News Network, 2 Juni 2021, hukuman pengadilan Fukuoka.
+- [Ganti rugi Manga-mura](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/). Japan Times, 18 April 2024, ganti rugi 1,7 miliar yen.
+- [Rekor One Piece](https://www.guinnessworldrecords.com/world-records/118397-most-copies-published-by-a-single-author-for-the-same-comic-book-series). Guinness World Records, jumlah terbitan karya Eiichiro Oda.
+- [Webtoon Korea](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/). Japan Times, 5 Mei 2019, pembaca muda beralih ke aplikasi.
+- [Dragon Ball](https://corp.toei-anim.co.jp/en/press/press-220615.html). Toei Animation, Juni 2022, 260 juta eksemplar manga.
+- [NARUTO](https://naruto-official.com/news/01_1257). Situs resmi NARUTO, 3 Oktober 2022, lebih dari 250 juta eksemplar.
+
+### Sejarah dan Model Industri Anime
+
+- [Anime Tetsuwan Atom](https://tezukaosamu.net/en/anime/30.html). Tezuka Productions, serial TV 1963-1966 dengan 193 episode.
+- [Linimasa Tezuka 1960-an](https://tezukaosamu.net/en/about/1960.html). Tezuka Productions, siaran di AS mulai September 1963.
+- [Wawancara Fred Ladd](https://www.awn.com/mag/issue1.5/articles/deneroffladd1.5.html). Animation World Magazine, versi Inggris Astro Boy untuk NBC Enterprises.
+- [Steinberg, *Anime''s Media Mix*](https://www.upress.umn.edu/9780816675500/animes-media-mix/). University of Minnesota Press, 2012, konsep media mix.
+- [Komite produksi anime](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/). Sakuga Blog, 2 Mei 2017, model pembiayaan bersama.
+- [Fitur Akira](https://features.japantimes.co.jp/akira-new/). Japan Times, 2018, rilis Akira dan jalannya ke Barat.
+- [30 tahun Akira](https://www.bfi.org.uk/features/30-years-akira-teenage-kicks-anime-style). BFI, 16 Juli 2018, pengaruh Akira di Jepang dan Barat.
+- [Sejarah Pokémon](https://corporate.pokemon.co.jp/en/aboutus/history/). The Pokémon Company, tonggak anime, film, dan gim.
+
+### Jejak di Indonesia
+
+- [Doraemon di TV Indonesia](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia). detikJogja, 8 Januari 2026, Doraemon di RCTI sejak 1990.
+- [Elex Media Komputindo](https://www.elexmedia.id/about-us). Profil resmi Elex, yang mengaku pelopor komik Jepang.
+- [Candy Candy pelopor manga](https://hot.detik.com/art/d-2340596/candy-candy-pelopor-tren-manga-di-indonesia). detikHot, 26 Agustus 2013, lisensi Candy Candy oleh Elex pada 1991.
+- [Minat bahasa Jepang](https://www.cnbcindonesia.com/lifestyle/20251216171114-33-694783/nomor-2-minat-warga-ri-ke-bahasa-jepang-terbesar-dunia). CNBC Indonesia, 16 Desember 2025, Indonesia di posisi kedua dunia.
+- [Comic Frontier 22](https://ohayojepang.kompas.com/read/5994/event-budaya-pop-comic-frontier-kembali-digelar-hadirkan-lebih-dari-1500-circle-kreatif-dari-indonesia-hingga-jepang?page=all). Kompas Ohayo Jepang, 16 Mei 2026, lebih dari 1.500 circle.
+- [Rilis JNTO](https://www.jnto.go.jp/news/_files/20260121_1615.pdf). JNTO, 21 Januari 2026, wisatawan Indonesia ke Jepang 2024 dan 2025.
+- [Rastati, "Dari Soft Power Jepang hingga Hijab Cosplay"](https://doi.org/10.14203/jmb.v17i3.326). Ranny Rastati, 2015, Jurnal Masyarakat dan Budaya 17(3), tentang cosplayer Muslim.
+- [Animator Asia Tenggara](https://news.animenomics.com/p/southeast-asia-animates-the-future-of-anime). Animenomics, 18 Juni 2025, animator dan studio Indonesia.
+
+### Tenaga Kerja, Pariwisata, dan Isu Baru
+
+- [Upah animator](https://www.nippon.com/en/in-depth/d01174/). nippon.com, 30 Oktober 2025, survei JAniCA 2023.
+- [Survei NAFCA](https://animehunch.com/nafcas-2024-survey-shows-anime-industry-staff-are-still-overworked-underpaid/). Animehunch, 28 Maret 2024, jam kerja panjang dan upah rendah.
+- [Laporan JFTC](https://www.jftc.go.jp/en/pressreleases/yearly-2025/December/251224.html). Komisi Perdagangan yang Adil Jepang, 24 Desember 2025, kontrak kreator anime.
+- [Ringkasan laporan JFTC](https://www.animenewsnetwork.com/news/2026-01-17/japan-fair-trade-commission-releases-report-highlighting-transactional-contractual-issues-in-anime-/.232739). Anime News Network, 17 Januari 2026, ketidakpuasan animator soal bayaran.
+- [Kamera AI Kamakura](https://www.asahi.com/ajw/articles/16224812). Asahi AJW, 29 Desember 2025, kepadatan turis Slam Dunk.
+- [88 Tempat Anime Jepang](https://www.travelvoice.jp/20170826-95799). Travel Voice, 26 Agustus 2017, daftar pertama Anime Tourism Association.
+- [Wisatawan 2025](https://www.nippon.com/en/japan-data/h02673/). nippon.com, 23 Januari 2026, 42,7 juta pengunjung ke Jepang.
+- [Ghibli Park](https://ghibli-park.jp/en/). Situs resmi, dibuka 1 November 2022 di Aichi.
+- [Nintendo Museum](https://museum.nintendo.com/en/). Situs resmi, dibuka 2 Oktober 2024 di Uji.
+- [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
+- [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
+- [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63675,8 +64453,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64387,8 +65165,8 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65609,8 +66387,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-12T14:07:38.159Z',
-  '2026-10-12T14:07:38.159Z'
+  '2026-10-15T13:24:16.983Z',
+  '2026-10-15T13:24:16.983Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
