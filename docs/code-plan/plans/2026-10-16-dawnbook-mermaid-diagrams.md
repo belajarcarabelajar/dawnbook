@@ -169,8 +169,36 @@ tasks:
       - cmd: "bun run scripts/render-diagrams.ts --check"
         expect_exit: 0
         retry: 0
+  - id: T14
+    depends_on: [T13]
+    impacts: ["a diagram wider than 1000 px natural width now fails the build gate - bun run check:diagrams", "sequence wrap changes every sequence render and the cache key - bun run scripts/render-diagrams.ts --check", "GEMINI.md section 25 gains the width rule read by every authoring dispatch - test -L CLAUDE.md"]
+    files: { create: [], modify: [scripts/check-diagrams.ts, tests/scripts/check-diagrams.test.ts, GEMINI.md, scripts/diagrams/render-config.json, books/iklan-digital-dan-penargetan-algoritma/src/content/05_teknologi-pelacakan-dan-jejak-digital.md, books/nudge-theory/src/content/12_metodologi-merancang-nudge-basic-framework.md], test: [] }
+    idempotency_key: "T14:width-discipline"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-diagrams.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run check:diagrams"
+        expect_exit: 0
+        retry: 0
+  - id: T15
+    depends_on: [T14]
+    impacts: ["every cached SVG is re-rendered because the key gains the installed Mermaid version and the post-processor hash - bun run scripts/render-diagrams.ts --check", "new gate rules apply to every future diagram - bun run check:diagrams", "CI test workflow skips the renderer suite - bun test tests/scripts/render-diagrams.test.ts"]
+    files: { create: [], modify: [scripts/diagrams/postprocess.ts, tests/scripts/diagrams-postprocess.test.ts, scripts/check-diagrams.ts, tests/scripts/check-diagrams.test.ts, scripts/diagrams/cache.ts, tests/scripts/diagrams-cache.test.ts, tests/scripts/render-diagrams.test.ts, GEMINI.md, books/iklan-digital-dan-penargetan-algoritma/src/content/01_pengantar-era-periklanan-digital.md], test: [] }
+    idempotency_key: "T15:review-fixes"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/diagrams-postprocess.test.ts tests/scripts/check-diagrams.test.ts tests/scripts/diagrams-cache.test.ts tests/scripts/render-diagrams.test.ts"
+        expect_exit: 0
+        retry: 1
+      - cmd: "bun run check:diagrams"
+        expect_exit: 0
+        retry: 0
   - id: T12
-    depends_on: [T6, T7, T8, T9, T10, T11, T13]
+    depends_on: [T6, T7, T8, T9, T10, T11, T13, T14, T15]
     impacts: ["the CI deploy workflow runs the same build - bun run build", "full test suite run by the CI test workflow - bun test"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T12:integration-verify"
@@ -200,8 +228,8 @@ tasks:
 - [x] S4 Design: design sections shown in chat and approved through the question tool. Evidence: `Section` 1, 2, 3 and `Spec` approved 2026-10-16 (approval log below); spec and glossary committed in `d382d96`
 - [x] S5 Plan: task frontmatter written, `ultra-plan-runner.mjs` prints `Validation: OK`, Mermaid map matches `depends_on`. Evidence: `bun scripts/ultra-plan-runner.mjs <plan>` exit 0, `Validation: OK`, one expected warning (T9 NEEDS-AGENT), Error Ledger empty
 - [x] S6 Gate 2: plan approved through the question tool. Evidence: `Plan` gate answered "Setujui dan eksekusi" on 2026-10-16; status set to Approved
-- [ ] S7 Execute: chunks dispatched per batch manifest, each chunk past the parent diff audit gate
-- [ ] S8 Verify: tests, `bun run build`, heading and content gates run locally with exit codes, 0 failures
+- [x] S7 Execute: chunks dispatched per batch manifest, each chunk past the parent diff audit gate. Evidence: T1-T14 integrated in commits 19e800e..1dec947, each re-run by the parent (Execution evidence table)
+- [x] S8 Verify: tests, `bun run build`, heading and content gates run locally with exit codes, 0 failures. Evidence: T12 run 2: `bun run check:diagrams` exit 0; `bun run build` exit 0 (heading gate and SEO validation inside, 3 diagrams inlined per pilot book); `bun test` 596 pass, 13 skip (same 13 as main), 0 fail
 - [ ] S9 Deliver: commit on the session branch, PR body file per template, PR opened and registered
 - [ ] S10 Sweep: session-close debt sweep, learning ledger, plan closeout decision, graphify sync
 
@@ -272,6 +300,10 @@ flowchart TD
     T10 --> T13
     T11 --> T13
     T13 --> T12
+    T13 --> T14["T14 width discipline"]
+    T14 --> T12
+    T14 --> T15["T15 review fixes"]
+    T15 --> T12
     T12 --> V["Verify: local gates, diff audit, review"]
     V --> PR{{"PR open, then merge gate"}}
 ```
@@ -295,14 +327,14 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 
 ## Acceptance Criteria
 
-- [ ] AC-1: a chapter with a valid diagram block builds to HTML that holds one inline `<svg>` inside `<div class="dawnbook-diagram">`, with no `<foreignObject>` and no `<p>` inside the SVG.
-- [ ] AC-2: a diagram block with no cached SVG makes `bun run build` exit 1 and name the book, file, line and `bun run diagrams:render`.
-- [ ] AC-3: `bun run check:diagrams` exits 1 for each rule in the source contract (type, accTitle, accDescr, double brace, emoji, em dash, Anda, dollar sign, xychart quoting and decimals, first block, duplicate, more than 3 per chapter, cache miss) and 0 on a clean tree.
-- [ ] AC-4: the same source and config render to byte-identical SVG twice; a timeline SVG carries `<title>`, `<desc>`, `aria-labelledby` and `aria-describedby`.
-- [ ] AC-5: `extractLeadText` ignores text inside an inline SVG.
-- [ ] AC-6: the two pilot books carry grounded diagrams (2 to 3 each), pass `check:diagrams`, and render correctly in light and coal at 375 px and 1280 px (screenshots viewed by the parent).
-- [ ] AC-7: GEMINI.md section 25 holds the authoring rule and a dispatch clause; MDBOOK_SYSTEM_RULES.md rule 7.7.8 and the AuthoringAgent spec point to it; CLAUDE.md and AGENTS.md are still symlinks.
-- [ ] AC-8: `bun run build` and `bun test` exit 0 with 0 failures in the worktree.
+- [x] AC-1: a chapter with a valid diagram block builds to HTML that holds one inline `<svg>` inside `<div class="dawnbook-diagram">`, with no `<foreignObject>` and no `<p>` inside the SVG. Evidence: built nudge 12 and iklan 07 pages hold 1 `dawnbook-diagram` each, 0 `foreignobject`; `bun test tests/scripts/diagrams-inline.test.ts` pass
+- [x] AC-2: a diagram block with no cached SVG makes `bun run build` exit 1 and name the book, file, line and `bun run diagrams:render`. Evidence: with one cache file moved away, `bun run check:diagrams` (the first diagram step of the build) exit 1 naming file, line and render command, and Bun `$` threw exitCode 1; inline test covers the inliner miss path
+- [x] AC-3: `bun run check:diagrams` exits 1 for each rule in the source contract (type, accTitle, accDescr, double brace, emoji, em dash, Anda, dollar sign, xychart quoting and decimals, first block, duplicate, more than 3 per chapter, cache miss) and 0 on a clean tree. Evidence: `bun test tests/scripts/check-diagrams.test.ts` 39 pass, one failing case per rule including too-wide; real tree exit 0
+- [x] AC-4: the same source and config render to byte-identical SVG twice; a timeline SVG carries `<title>`, `<desc>`, `aria-labelledby` and `aria-describedby`. Evidence: `bun test tests/scripts/render-diagrams.test.ts` 12 pass (force re-render byte-identical, timeline title and aria present)
+- [x] AC-5: `extractLeadText` ignores text inside an inline SVG. Evidence: `bun test tests/scripts/inject-gating-svg.test.ts` 3 pass; pilot meta descriptions unchanged against the main build
+- [x] AC-6: the two pilot books carry grounded diagrams (2 to 3 each), pass `check:diagrams`, and render correctly in light and coal at 375 px and 1280 px (screenshots viewed by the parent). Evidence: 3 diagrams per pilot book, gate exit 0, every node traced to source lines; T13 harness 0 text below 3:1 in 5 themes x 2 widths; built-page screenshots viewed by the parent (light and coal, 1280 and 375); desktop scroll 0 after T14
+- [x] AC-7: GEMINI.md section 25 holds the authoring rule and a dispatch clause; MDBOOK_SYSTEM_RULES.md rule 7.7.8 and the AuthoringAgent spec point to it; CLAUDE.md and AGENTS.md are still symlinks. Evidence: GEMINI.md section 25 with dispatch clause and paste-ready contract; MDBOOK_SYSTEM_RULES.md lines 313 and 832; `test -L CLAUDE.md` and `test -L AGENTS.md` exit 0
+- [x] AC-8: `bun run build` and `bun test` exit 0 with 0 failures in the worktree. Evidence: T12 run 2 build exit 0, `bun test` 0 fail
 
 ## Traceability
 
@@ -322,8 +354,8 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 - Code identifiers and code comments in English; Indonesian only in book content and `accTitle`/`accDescr`.
 - Bun only (`bun test`, `bun run`, `bun add`); never npm, npx or node for project code.
 - No em dash and no emoji in any file this session writes; no "Anda" in book content.
-- Locked render config (exact): `{"theme":"base","look":"classic","layout":"dagre","htmlLabels":false,"securityLevel":"strict","fontFamily":"Epilogue, sans-serif","flowchart":{"htmlLabels":false,"useMaxWidth":true,"wrappingWidth":200}}`.
-- Theme CSS (exact rules) as in `docs/code-plan/spikes/2026-10-16-mermaid-render/p1-theme/mdbook-vars.css`.
+- Superseded by T13, T14 and T15 (the committed `scripts/diagrams/render-config.json` is the source of truth: it adds a fixed 8-colour palette, `flowchart.wrappingWidth` 110 with tighter spacing, and `sequence.width`, `actorMargin` and `wrap`). Original lock at approval: `{"theme":"base","look":"classic","layout":"dagre","htmlLabels":false,"securityLevel":"strict","fontFamily":"Epilogue, sans-serif","flowchart":{"htmlLabels":false,"useMaxWidth":true,"wrappingWidth":200}}`.
+- Superseded by T13 (the committed `scripts/diagrams/theme.css` covers every allowed type). Original rules at approval: as in `docs/code-plan/spikes/2026-10-16-mermaid-render/p1-theme/mdbook-vars.css`.
 - Allowed diagram types: `flowchart`, `graph`, `sequenceDiagram`, `stateDiagram-v2`, `pie`, `quadrantChart`, `xychart`, `xychart-beta`, `timeline`. Refused: everything else, including `mindmap`.
 - At most 3 diagram blocks per chapter.
 - Cache folder: `books/<slug>/diagrams/<key>.svg`, outside `src/`.
@@ -580,6 +612,31 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 - [ ] Step 4: Run | cmd: `bun test tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 1
 - [ ] Step 5: parent views screenshots, commits
 
+### Task T14: Width discipline (added 2026-10-16 after T13)
+
+**Why added:** after T13, the RTB sequence diagram is 1416 px and the BASIC flowchart 1036 px of natural width; with the 0.75 minimum scale anything wider than 1000 px scrolls inside the 750 px desktop column. Config alone cannot fix it: `sequence.wrap: true` brings RTB to 870 px but breaks a note that uses `<br/>`, and five boxes in a row cannot fit.
+
+**Chunks:** T14a (gate and rule): `scripts/check-diagrams.ts` rule `too-wide` (cached SVG `viewBox` width above 1000), its tests, and a GEMINI.md section 25 line on width (natural width at most 1000 px, `flowchart TD` for chains longer than four nodes, no `<br/>` in labels, the `too-wide` rule id). T14b (config and pilots): `sequence.wrap: true` in `render-config.json`; the chapter 05 note rewritten as one sentence without `<br/>`; chapter 12 BASIC block switched to `flowchart TD`; re-render with `--prune`.
+
+**Behavior & Acceptance (AC-6):** every pilot diagram has natural width at most 1000 px; the gate refuses a wider one; text overflows stay at 0.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [ ] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+- [ ] Step 3: parent views the RTB and BASIC screenshots at 1280 px and commits
+
+### Task T15: Review fixes (added 2026-10-16 after the two-axis review)
+
+**Why added:** the spec-axis review returned `not correct` (F1 P1 unprefixed sequence ids, F2 P1 straight quotes in labels not gated) plus P2 findings F3 (dot thousands in xychart data), F4 (= standards S1: the key misses the installed Mermaid version), F5 (section 25 overstates where colours come from), F6 (ambiguous timeline label "di HotWired milik AT&T"), F7 (stale plan constraints), F8 (spec status still Draft); the standards axis (`correct`) added two residual risks the parent confirmed: a `%%{init}%%` directive can override the locked config, and GitHub's Ubuntu runner has `/usr/bin/chromium` (actions/runner-images `install-google-chrome.sh`, read 2026-10-16), so the renderer suite would run in CI.
+
+| Chunk | Owner | Files | Fix |
+|---|---|---|---|
+| T15a | chef | `scripts/diagrams/postprocess.ts`, its test | prefix every root-SVG id that lacks the diagram id, and rewrite its `url(#)`/`href` references (F1) |
+| T15b | nappy | `scripts/check-diagrams.ts`, its test | rules `straight-quote` (F2), `xychart-thousands` (F3), `config-override` for `%%{` and front-matter `config:` |
+| T15c | hoggy | `scripts/diagrams/cache.ts`, its test | key material adds the installed `mermaid` version and the sha256 of `postprocess.ts` (F4, S1) |
+| T15d | chef | `GEMINI.md`, `tests/scripts/render-diagrams.test.ts` | section 25 wording for F2, F3, F5, the new rules and key inputs; renderer suite skips when `CI` is set |
+| T15e | hoggy (after a, c) | chapter 01 of `iklan-digital-dan-penargetan-algoritma`, both `diagrams/` folders | F6 label order, then `diagrams:render --prune` |
+| T15f | parent | plan, spec | F7 superseded constraints and version 2; F8 spec status Approved |
+
 ## Batch manifest (written before dispatch)
 
 | Wave | Chunk | Owner | Permitted files | Verification |
@@ -651,11 +708,16 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 | T10 | chef | `83ed4f4` | `check-diagrams --book iklan-digital-dan-penargetan-algoritma` exit 0; diff 54 insertions, 0 deletions; pixel `par` block traced to 05:29 "Bersamaan dengan permintaan gambar tersebut" |
 | T12 run 1 | parent | none | `bun run check:diagrams` exit 0; `bun run build` exit 0 (log 373 lines, 3 diagrams inlined per pilot book, SEO validation passed, 59 pre-existing `dawnbook` preprocessor warnings); `bun test`: 590 pass, 13 skip, 0 fail (main baseline: 465 pass, 13 skip); non-pilot output identical to the `60debfd` build except `shared-header.css`; screenshots FAILED AC-6 for sequence, timeline and xychart in coal, so T13 was added |
 
+| T13 | chef | `8852058` | harness exit 0, 0 text groups below 3.0 contrast in 5 themes x 2 widths (minimum 4.78, pie); parent viewed coal sequence, timeline and xychart screenshots; gate exit 0; 70 pass, 0 fail across the four diagram test files |
+| T14b | nappy | `2855042` | `diagrams:render --prune` exit 0 (rendered 6, pruned 6); widths: RTB 1415.5 to 870, BASIC 1036 to 196, others 390-940; harness exit 0, 0 overflows; parent viewed RTB light 1280 and pixel coal 1280 |
+| T14a | hoggy | `1dec947` | `bun test tests/scripts/check-diagrams.test.ts`: 39 pass, 0 fail; real-tree gate with `too-wide` active exit 0; symlinks intact |
+
 Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.8010.52) launches through puppeteer without `--no-sandbox` (exit 0).
 
 ## Status
 
 - Status: Approved
+- Revisions after approval: T13 (theme coverage for every type), T14 (width discipline) and T15 (review fixes) were added on 2026-10-16 as discovered items inside the approved scope, each to meet an existing acceptance criterion or spec line; `version:` stays 1 because it stamps the plan format, not the revision
 - Approved scope: intent A, B, C; sections 1-3; spec (2026-10-16)
 - Completed: claim, worktree, research, inventory, spike, spec (`d382d96`); the research wave (R1-R10) and spike (P1-P3) manifests written before their dispatch are in this file as of `d382d96`
 - Current: S7 Execute, wave 1

@@ -1,6 +1,6 @@
 # Spec: Build-time Mermaid diagrams for every Dawnbook
 
-- **Status:** Draft
+- **Status:** Approved (`Spec` gate, 2026-10-16)
 - **Date:** 2026-10-16
 - **Path:** Architectural (a new render subsystem inside the build, a new build gate, a new authoring rule, and content edits across 58 books)
 - **Related:** plan `docs/code-plan/plans/2026-10-16-dawnbook-mermaid-diagrams.md`, research `docs/code-plan/plans/research-mermaid-diagrams.md`, spike `docs/code-plan/spikes/2026-10-16-mermaid-render/report.md`, inventory `docs/code-plan/artifacts/2026-10-16-mermaid-inventory/g1.md` to `g6.md`
@@ -112,4 +112,4 @@ flowchart LR
 | `Section` 1 (render pipeline) | Approve | 2026-10-16 |
 | `Section` 2 (authoring rule) | Approve | 2026-10-16 |
 | `Section` 3 (retrofit and rollout) | Approve | 2026-10-16 |
-| `Spec` | pending | |
+| `Spec` | Approve and write the plan | 2026-10-16 |
