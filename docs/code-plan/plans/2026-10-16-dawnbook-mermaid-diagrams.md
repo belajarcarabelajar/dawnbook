@@ -155,8 +155,22 @@ tasks:
       - cmd: "bun run scripts/render-diagrams.ts --book nudge-theory --check"
         expect_exit: 0
         retry: 0
+  - id: T13
+    depends_on: [T5, T10, T11]
+    impacts: ["every cached SVG is renamed because the theme CSS and config are part of the key - bun run check:diagrams", "the six pilot diagrams are re-rendered and the old files pruned - bun run scripts/render-diagrams.ts --check", "renderer test asserts theme CSS is embedded - bun test tests/scripts/render-diagrams.test.ts"]
+    files: { create: [docs/code-plan/spikes/2026-10-16-mermaid-render/p4-theme-coverage], modify: [scripts/diagrams/theme.css, scripts/diagrams/render-config.json], test: [tests/scripts/render-diagrams.test.ts] }
+    idempotency_key: "T13:theme-coverage-all-types"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-cache.test.ts"
+        expect_exit: 0
+        retry: 1
+      - cmd: "bun run scripts/render-diagrams.ts --check"
+        expect_exit: 0
+        retry: 0
   - id: T12
-    depends_on: [T6, T7, T8, T9, T10, T11]
+    depends_on: [T6, T7, T8, T9, T10, T11, T13]
     impacts: ["the CI deploy workflow runs the same build - bun run build", "full test suite run by the CI test workflow - bun test"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "T12:integration-verify"
@@ -254,6 +268,10 @@ flowchart TD
     T9 --> T12
     T10 --> T12
     T11 --> T12
+    T5 --> T13["T13 theme coverage for all types"]
+    T10 --> T13
+    T11 --> T13
+    T13 --> T12
     T12 --> V["Verify: local gates, diff audit, review"]
     V --> PR{{"PR open, then merge gate"}}
 ```
@@ -548,6 +566,20 @@ Edge convention: `A --> B` means B depends on A. Every task edge above equals th
 - [ ] Step 3: Run | cmd: `bun test` | expect: exit 0, 0 failures | retry: 1
 - [ ] Step 4: screenshots viewed; evidence recorded below
 
+### Task T13: Theme coverage for every allowed diagram type (added 2026-10-16 after the first T12 run)
+
+**Why added:** the first T12 screenshots (`/tmp/mermaid-spike/t12/*.png`, viewed by the parent) showed the spike CSS only covered flowcharts: in coal, sequence message text is dark on a dark page (Mermaid's `#id .messageText` rule outranks our `#id text`), timeline text is light on bright section boxes, and the xychart keeps a fixed light plot background with a pale bar; the RTB sequence diagram is 1505 px wide, so its 0.75 floor (1129 px) scrolls even on desktop.
+
+**Files:** Modify `scripts/diagrams/theme.css`, `scripts/diagrams/render-config.json`; re-render `books/nudge-theory/diagrams/` and `books/iklan-digital-dan-penargetan-algoritma/diagrams/` (prune the renamed files); create the verification harness under `docs/code-plan/spikes/2026-10-16-mermaid-render/p4-theme-coverage/`; `tests/scripts/render-diagrams.test.ts` may change only if an asserted CSS variable name changes.
+
+**Behavior & Acceptance (AC-6):** every allowed type (flowchart, sequenceDiagram, stateDiagram-v2, pie, quadrantChart, xychart bar and line, timeline) keeps readable text against its own background in light, rust, coal, navy and ayu at 1280 px and 375 px; class-level rules (scoped by Mermaid under `#id`, placed after Mermaid's own rules) colour sequence actors, messages, notes and loop boxes, timeline sections, xychart background, bars, lines and axes, pie and quadrant text, and state nodes from mdBook variables; the sequence and xychart sizing in `render-config.json` keeps the two pilot diagrams within about 750 px where the content allows.
+
+- [ ] Step 1: harness renders the P2 fixtures plus the six pilot sources into a built page and screenshots each theme and width
+- [ ] Step 2: extend `theme.css` and `render-config.json` until every screenshot passes
+- [ ] Step 3: Run | cmd: `bun run diagrams:render --prune` | expect: exit 0 | retry: 0
+- [ ] Step 4: Run | cmd: `bun test tests/scripts/render-diagrams.test.ts tests/scripts/diagrams-cache.test.ts` | expect: exit 0 | retry: 1
+- [ ] Step 5: parent views screenshots, commits
+
 ## Batch manifest (written before dispatch)
 
 | Wave | Chunk | Owner | Permitted files | Verification |
@@ -598,6 +630,28 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 - FU12: `inject-gating.ts:398` swallows errors with `.catch(console.error)`, so a failed injection does not fail the build. `defer: next inject-gating change`
 - FU13: pre-existing em dash in `docs/code-plan/specs/2026-09-28-dawnbook-kenapa-kita-gampang-percaya-hoax.md`. `defer: next docs hygiene pass`
 - FU14: the global `mmdc` cannot start (pinned Chromium 155 missing); the project renderer uses `/usr/bin/chromium` instead. `defer: machine setup note in ~/AGENTS.md, owner approval needed for a global file`
+- FU15: the AuthoringAgent spec in `MDBOOK_SYSTEM_RULES.md` says "No shell execution" while line 312 (and now rule 7.7.8) ask authoring agents to run detectors. `defer: next MDBOOK_SYSTEM_RULES.md revision; owner decides whether the orchestrator or the authoring agent runs gates`
+- FU16: `findDiagramBlocks` counts a mermaid fence inside an HTML comment or an HTML block, so a commented-out diagram would still be rendered and inlined. `defer: first commented-out diagram in a chapter, or a gate rule in the next diagram-tooling change`
+
+## Execution evidence
+
+| Task | Owner | Commit | Parent re-run |
+|---|---|---|---|
+| T2 | nappy | `9183b00` | `bun test tests/scripts/diagrams-cache.test.ts`: 15 pass, 0 fail, exit 0 |
+| T7 | chef | `117931d` | `bun test tests/scripts/inject-gating-svg.test.ts tests/scripts/inject-gating-utils.test.ts tests/scripts/inject-gating.test.ts`: 13 pass, 0 fail, exit 0 |
+| T9 | hoggy | `2569a30` | diff 2 insertions, 0 deletions; no em dash in added lines |
+| T8 | nappy | `8176f78` | section 25 read in full; `test -L CLAUDE.md`, `test -L AGENTS.md` exit 0; no em dash in lines 209-256 |
+| T4 | hoggy | `6ec7360` | `bun test tests/scripts/diagrams-postprocess.test.ts`: 17 pass, 0 fail, exit 0 |
+| T1 | chef | `19e800e` | `bun test tests/scripts/diagrams-extract.test.ts`: 24 pass, 0 fail, exit 0 |
+
+| T3 | chef | `3a941e4` | `bun test tests/scripts/check-diagrams.test.ts`: 33 pass, 0 fail, exit 0; real tree `bun run scripts/check-diagrams.ts` exit 0 |
+| T5 | nappy | `4cab6bf` | `bun test tests/scripts/render-diagrams.test.ts`: 12 pass, 0 fail, exit 0; `bun run diagrams:render` exit 0; `bun install --frozen-lockfile` exit 0. Parent added `.puppeteerrc.json` (`skipDownload`) inline after the install pulled about 670 MB of Chrome 155; `PUPPETEER_CACHE_DIR=/tmp/pptr-skip-test bun install.mjs` printed "Skipping downloading browsers", exit 0, nothing written |
+| T6 | hoggy | `169b6d3` | `bun test tests/scripts/diagrams-inline.test.ts tests/scripts/build.test.ts`: 19 pass, 0 fail, exit 0 |
+| T11 | nappy | `442cb38` | `check-diagrams --book nudge-theory` exit 0; render `--check` exit 0; diff 35 insertions, 0 deletions; every node traced to lines 02:53-55, 11:13-18, 12:7 |
+| T10 | chef | `83ed4f4` | `check-diagrams --book iklan-digital-dan-penargetan-algoritma` exit 0; diff 54 insertions, 0 deletions; pixel `par` block traced to 05:29 "Bersamaan dengan permintaan gambar tersebut" |
+| T12 run 1 | parent | none | `bun run check:diagrams` exit 0; `bun run build` exit 0 (log 373 lines, 3 diagrams inlined per pilot book, SEO validation passed, 59 pre-existing `dawnbook` preprocessor warnings); `bun test`: 590 pass, 13 skip, 0 fail (main baseline: 465 pass, 13 skip); non-pilot output identical to the `60debfd` build except `shared-header.css`; screenshots FAILED AC-6 for sequence, timeline and xychart in coal, so T13 was added |
+
+Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.8010.52) launches through puppeteer without `--no-sandbox` (exit 0).
 
 ## Status
 
