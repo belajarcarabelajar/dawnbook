@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf1
-status: Verification
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -172,6 +172,42 @@ tasks:
       - cmd: "bun test"
         expect_exit: 0
         retry: 1
+  - id: F1
+    depends_on: [V1]
+    impacts: ["the diagram gate inside bun run build for every book with diagrams - bun run check:diagrams"]
+    files: { create: [], modify: [scripts/check-diagrams.ts], test: [tests/scripts/check-diagrams.test.ts] }
+    idempotency_key: "F1:split-word-rule"
+    skip_if: "bun test tests/scripts/check-diagrams.test.ts -t split-word 2>&1 | grep -q ' [1-9][0-9]* pass'"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-diagrams.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run check:diagrams"
+        expect_exit: 0
+        retry: 0
+  - id: F2
+    depends_on: [V1]
+    impacts: ["every future diagram dispatch that pastes the section 25 contract paragraph - rg -n 'Paste this contract paragraph' GEMINI.md"]
+    files: { create: [], modify: [GEMINI.md], test: [] }
+    idempotency_key: "F2:section-25-contract"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun run check:headings"
+        expect_exit: 0
+        retry: 0
+  - id: F3
+    depends_on: [V1]
+    impacts: ["chapter pages arsitektur-kernel-linux ch12, bias-kognitif ch07, digital-minimalisme ch02 - bun run build"]
+    files: { create: [], modify: [books/arsitektur-kernel-linux/src/content/12_proses-booting-dan-inisialisasi-sistem.md, books/bias-kognitif/src/content/07_kekeliruan-biaya-tertanam-sunk-cost-fallacy.md, books/digital-minimalisme/src/content/02_psikologi-di-balik-ekonomi-perhatian-mengapa-layar.md], test: [] }
+    idempotency_key: "F3:reported-defects"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'for b in arsitektur-kernel-linux bias-kognitif digital-minimalisme; do bun run scripts/check-book-structure.ts $b | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1/structure-baseline/$b.txt - || exit 1; done'"
+        expect_exit: 0
+        retry: 0
 ---
 
 # Diagram retrofit RF1 (inventory group g1, 10 books)
@@ -213,6 +249,9 @@ flowchart TD
     B9 --> V1
     B10 --> V1
     V1 --> PR{{"Review, seed, PR, merge gate"}}
+    V1 --> F1["F1 split-word gate rule"]
+    V1 --> F2["F2 section 25 contract wording"]
+    V1 --> F3["F3 three reported defects"]
 ```
 
 ## Global Constraints
@@ -276,6 +315,23 @@ flowchart TD
 
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+
+## Follow-up tasks (debt sweep, owner selected all three on 2026-10-16)
+
+Acceptance: F1 a cached SVG whose label row splits a source word fails `check:diagrams` with rule `split-word`, an unsplit label and a normal break at a space pass, and the real books stay at 0 violations. F2 the section 25 contract paragraph tells authors to keep hedges and examples, vary the intro sentence within a book, and reword a label `split-word` reports. F3 the three defects reported by B4, B5 and B6 are fixed line by line, with no new structural problem.
+
+### Task F1: split-word gate rule
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [ ] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+
+### Task F2: section 25 contract wording
+
+- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+
+### Task F3: three reported defects
+
+- [ ] Step 1: Run | cmd: structure diff for the three books against the committed baseline | expect: exit 0 | retry: 0
 
 ## Execution record
 
