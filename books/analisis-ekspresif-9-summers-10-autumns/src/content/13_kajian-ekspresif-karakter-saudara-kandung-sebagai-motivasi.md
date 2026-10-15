@@ -26,6 +26,17 @@ Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartednes
 
 Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
 
+Rantai itu bisa kamu telusuri dari atas ke bawah pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Rantai motivasi dan tanggung jawab moral dalam keluarga Iwan
+    accDescr: Kepintaran akademis alami Mbak Isa, kakak tertua, menjadi mercusuar inspirasi bagi Iwan kecil. Tanggung jawab Iwan sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral untuk segera sukses secara finansial, agar dapat membantu adik-adiknya, Rini dan Mira.
+    ISA["Kepintaran akademis alami Mbak Isa, kakak tertua"] -->|"mercusuar inspirasi"| IWAN["Iwan kecil, satu-satunya anak laki-laki"]
+    IWAN -->|"tanggung jawab melahirkan"| MORAL["Kesadaran moral untuk segera sukses secara finansial"]
+    MORAL -->|"agar dapat membantu"| ADIK["Adik-adiknya, Rini dan Mira"]
+```
+
 ### Hangatnya Rumah Mungil 6x7 Meter
 
 *Bagaimana kehangatan hubungan persaudaraan di dalam rumah mungil ukuran 6 x 7 meter dapat mengompensasi keterbatasan ruang fisik dan ekonomi yang dihadapi keluarga Iwan?*
