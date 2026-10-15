@@ -85,8 +85,8 @@ tasks:
 
 - [x] S1 Research: the four contradictions (FU1-FU4 of the parent plan) read line by line and checked against primary sources with TinyFish, each with a proposed correct text and source. Evidence: Q1-Q4 reports with sources fetched 2026-10-16 (summary under "Research findings"); parent re-read one quoted line per book (ikigai 08:49, tonsilektomi 08:48, EWS 04:33, pedagogy 05:19), all match
 - [x] S2 Plan: tasks written, runner prints `Validation: OK`, plan approved through the question tool. Evidence: runner `Validation: OK`; `Plan` gate approved 2026-10-16
-- [ ] S3 Execute: each chapter fix applied line by line, parent diff audit per chunk
-- [ ] S4 Verify: heading, diagram and book gates, `bun run build`, `bun test` exit 0 with 0 failures
+- [x] S3 Execute: each chapter fix applied line by line, parent diff audit per chunk. Evidence: C1 `65b5071`, C2 `8ac278c`, C3 `58c36bf`, C4 `794cb4d`; parent word-diff audit of all 12 files; five one-phrase leftovers reported by the chunks fixed inline by the parent (pedagogy 05:11 "sebagian besar", ikigai 02:30 and 02:63, EWS 03:99 and 07:9)
+- [x] S4 Verify: heading, diagram and book gates, `bun run build`, `bun test` exit 0 with 0 failures. Evidence: `bun run check:headings` exit 0 (0 violations, 58 books); `check-book-structure.ts` identical to the baseline for all four books; `bun run build` exit 0 (diagram gate 0, SEO passed); `bun test` 658 pass, 13 skip, 0 fail after `bun install --frozen-lockfile` (the first run failed 87 tests only because the fresh worktree had no node_modules)
 - [ ] S5 Deliver: PR opened from a body file and registered; merge only through the `Merge` gate
 - [ ] S6 After deploy: `bun run scripts/migrate-to-d1.ts` with credentials sourced, live and D1 checks, regenerated `db/seed.sql` and merge evidence committed in the seed PR
 - [ ] S7 Sweep: debt sweep, learning ledger, plan closeout, graphify sync
