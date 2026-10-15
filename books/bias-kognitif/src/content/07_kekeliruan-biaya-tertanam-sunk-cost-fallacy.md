@@ -82,6 +82,18 @@ def should_continue_project(sunk_cost, future_cost, expected_benefit):
 print(should_continue_project(100_000_000, 50_000_000, 30_000_000))
 ```
 
+Kalau kamu tidak terbiasa membaca Python, logika fungsi di atas bisa kamu ikuti lewat alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur keputusan melanjutkan atau menghentikan proyek
+    accDescr: Sunk cost diabaikan. Keuntungan bersih dihitung dari estimasi keuntungan masa depan dikurangi biaya tambahan yang dibutuhkan. Jika keuntungan bersih lebih dari nol, proyek dilanjutkan; jika tidak, proyek dihentikan.
+    A["Abaikan sunk cost (investasi yang sudah hilang)"] --> B["Hitung keuntungan bersih, yaitu estimasi keuntungan masa depan dikurangi biaya tambahan"]
+    B --> C{"Keuntungan bersih lebih dari 0?"}
+    C -->|"ya"| D["LANJUTKAN, keuntungan masa depan menutupi biaya masa depan"]
+    C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
+```
+
 ## 5. Real-World Applications (Aplikasi Dunia Nyata)
 
 ### Dalam Bisnis
