@@ -1,6 +1,6 @@
 ## Pengantar Sistem Peringatan Dini
 
-Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat untuk menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
+Sistem peringatan dini adalah rangkaian kemampuan yang membantu kamu mengenali ancaman sebelum dampak meluas dan mengambil keputusan cepat. Tujuannya adalah menyelamatkan nyawa. Di Indonesia, pemahaman tentang sistem peringatan dini bukan pilihan tambahan, melainkan kebutuhan harian, karena posisi negara berada di pertemuan tiga lempeng tektonik dan di dalam cincin api pasifik. Dari gempa bumi, tsunami, erupsi gunung api, banjir, longsor, sampai kekeringan, hampir semua jenis bencana dapat terjadi di sini.
 
 Pertanyaan yang sering muncul: *apa itu sistem peringatan dini dan apa bedanya dengan prakiraan cuaca?* Prakiraan memberi tahu apa yang mungkin terjadi, sementara sistem peringatan dini menghubungkan prakiraan dengan tindakan nyata. Ia memadukan pemantauan, analisis, komunikasi, dan kesiapsiagaan dalam satu alur yang teruji.
 

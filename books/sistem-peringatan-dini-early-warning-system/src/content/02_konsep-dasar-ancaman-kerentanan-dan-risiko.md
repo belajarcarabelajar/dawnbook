@@ -1,6 +1,6 @@
 ## Konsep Dasar Ancaman Kerentanan dan Risiko Bencana
 
-Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak, melainkan hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
+Memahami *ancaman kerentanan risiko bencana* sebagai satu kesatuan membantu kamu melihat bencana bukan sebagai kejadian acak. Bencana adalah hasil pertemuan antara bahaya dan kondisi masyarakat yang terpapar. Banyak orang mengira gempa atau banjir otomatis berarti bencana, padahal tanpa manusia dan aset yang rentan, peristiwa itu hanya fenomena alam. Bab ini mengurai empat pilar dari kerangka UNDRR, rumus risiko, dan contoh nyata di Indonesia.
 
 ### Mengapa Empat Pilar Ini Penting
 
