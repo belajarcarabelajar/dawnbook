@@ -94,6 +94,17 @@ const TIMELINE = lines(
   "    1998 : Reformasi",
 );
 
+const SEQ = lines(
+  "sequenceDiagram",
+  "    accTitle: Alur pembelian",
+  "    accDescr: Pembeli menekan tombol lalu toko mengirim konfirmasi.",
+  "    participant A as Pembeli",
+  "    participant B as Toko",
+);
+
+const OPEN_QUOTE = String.fromCodePoint(0x201c);
+const CLOSE_QUOTE = String.fromCodePoint(0x201d);
+
 // One book, one chapter at src/content/01_a.md, every listed source cached.
 function single(md: string, cached: string[], svg?: string): string {
   const root = makeRoot();
@@ -178,6 +189,48 @@ describe("checkDiagrams rules", () => {
   });
 
   it.each([
+    ["square", '    A["Tombol "Beli" ditekan"]'],
+    ["round", '    C --> D("Tombol "Beli" ditekan")'],
+    ["rhombus", '    C --> D{"Tombol "Beli" ditekan?"}'],
+    ["stadium", '    C --> D(["Tombol "Beli" ditekan"])'],
+    ["subroutine", '    C --> D[["Tombol "Beli" ditekan"]]'],
+    ["circle", '    C --> D(("Tombol "Beli""))'],
+    ["edge", '    C -->|"klik "Beli""| D'],
+  ])("straight-quote flags a straight quote inside a quoted %s label", (_label, extra) => {
+    expect(rulesFor(flowWith(extra))).toEqual(["straight-quote"]);
+  });
+
+  it("straight-quote passes delimiter quotes around flowchart node and edge labels", () => {
+    expect(rulesFor(flowWith('    A["Biaya (Rp)"] -->|"ya"| B'))).toEqual([]);
+  });
+
+  it("straight-quote reports a flowchart once even with two offending labels", () => {
+    expect(rulesFor(flowWith('    C --> D["a "b" c"]\n    D --> E["d "e" f"]'))).toEqual(["straight-quote"]);
+  });
+
+  it.each([
+    ["sequence message", lines(SEQ, '    A->>B: Menekan tombol "Beli"')],
+    ["sequence note", lines(SEQ, '    Note right of B: Status "lunas"')],
+    ["timeline event", lines(TIMELINE, '    2024 : Kampanye "Bangga"')],
+  ])("straight-quote flags a straight quote in a %s", (_label, source) => {
+    expect(rulesFor(source)).toEqual(["straight-quote"]);
+  });
+
+  it("straight-quote passes curly quotes in a sequence message", () => {
+    expect(rulesFor(lines(SEQ, `    A->>B: Menekan tombol ${OPEN_QUOTE}Beli${CLOSE_QUOTE}`))).toEqual([]);
+  });
+
+  it("straight-quote ignores a %% comment line in a sequence diagram", () => {
+    expect(rulesFor(lines(SEQ, '    %% catatan: "draf"', "    A->>B: Bayar"))).toEqual([]);
+  });
+
+  it("straight-quote leaves pie and stateDiagram-v2 delimiter quotes alone, even after a colon", () => {
+    const acc = "    accTitle: Uji\n    accDescr: Diagram uji.";
+    expect(rulesFor(`pie\n${acc}\n    "Biaya: tetap" : 40\n    "Biaya: variabel" : 60`)).toEqual([]);
+    expect(rulesFor(`stateDiagram-v2\n${acc}\n    state "Tahap: bayar" as S1\n    [*] --> S1`)).toEqual([]);
+  });
+
+  it.each([
     ["title", XY.replace('title "Pendapatan 2025"', "title Pendapatan 2025")],
     ["x-axis title", XY.replace('x-axis "Kuartal"', "x-axis Kuartal")],
     ["y-axis title", XY.replace('y-axis "Juta rupiah" 0', "y-axis Rupiah 0")],
@@ -193,6 +246,23 @@ describe("checkDiagrams rules", () => {
     expect(rulesFor(source)).toEqual(["xychart-decimal"]);
   });
 
+  const XY_TWO = lines(XY_HEAD, '    title "Penjualan"', '    x-axis "Bulan" ["Jan", "Feb"]', '    y-axis "Unit" 0 --> 3000');
+
+  it.each([
+    ["bar", lines(XY_TWO, "    bar [1.500, 2.750]")],
+    ["line", lines(XY_TWO, "    line [1.500, 2.750]")],
+  ])("xychart-thousands flags a dot thousands separator in a %s series", (_label, source) => {
+    expect(rulesFor(source)).toEqual(["xychart-thousands"]);
+  });
+
+  it("xychart-thousands passes one and two decimals", () => {
+    expect(rulesFor(lines(XY_TWO, "    bar [2170.2, 3000.5]", "    line [1.25, 3]"))).toEqual([]);
+  });
+
+  it("xychart-thousands reports once for a negative value and a second offending series", () => {
+    expect(rulesFor(lines(XY_TWO, "    bar [-1.500, 2]", "    line [1.500, 2]"))).toEqual(["xychart-thousands"]);
+  });
+
   it("xychart-count flags a series with fewer values than categories", () => {
     expect(rulesFor(XY.replace("bar [2170.2, 2400, 2650.5]", "bar [2170.2, 2400]"))).toEqual(["xychart-count"]);
   });
@@ -200,6 +270,22 @@ describe("checkDiagrams rules", () => {
   it("xychart-count ignores a numeric x-axis", () => {
     const source = XY.replace('x-axis "Kuartal" ["K1", "K2", "K3"]', 'x-axis "Tahun" 2020 --> 2025');
     expect(rulesFor(source)).toEqual([]);
+  });
+
+  it.each([
+    ["init directive", lines('%%{init: {"flowchart": {"htmlLabels": false}} }%%', FLOW)],
+    ["wrap directive", flowWith("    %%{wrap}%%")],
+    ["front matter config key", lines("---", "title: Contoh", "config:", "  theme: dark", "---", FLOW)],
+  ])("config-override flags a %s", (_label, source) => {
+    expect(rulesFor(source)).toEqual(["config-override"]);
+  });
+
+  it("config-override reports once for a directive plus a front matter config key", () => {
+    expect(rulesFor(lines("---", "config:", "  theme: dark", "---", "%%{wrap}%%", FLOW))).toEqual(["config-override"]);
+  });
+
+  it("config-override passes a plain %% comment, title-only front matter and config: in a label", () => {
+    expect(rulesFor(lines("---", "title: Contoh", "---", "%% catatan penulis", FLOW, '    C --> D["config: aktif"]'))).toEqual([]);
   });
 
   it("first-block flags a diagram with only headings before it", () => {

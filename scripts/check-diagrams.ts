@@ -17,6 +17,8 @@ const MAX_PER_FILE = 3;
 // An inline SVG never shrinks below 0.75 of its natural width, and the reading column is 750 px.
 export const MAX_NATURAL_WIDTH = 1000;
 const EM_DASH = String.fromCodePoint(0x2014);
+const OPEN_QUOTE = String.fromCodePoint(0x201c);
+const CLOSE_QUOTE = String.fromCodePoint(0x201d);
 
 // Width from the root element's viewBox only; nested svg elements carry their own, unrelated viewBox.
 function rootViewBoxWidth(svg: string): number | null {
@@ -27,15 +29,15 @@ function rootViewBoxWidth(svg: string): number | null {
   return Number.isFinite(width) ? width : null;
 }
 
-// Lines after an optional leading `---` front-matter block, which holds YAML, not diagram syntax.
-function bodyLines(source: string): string[] {
+// Separates an optional leading `---` front-matter block, which holds YAML, from the diagram syntax after it.
+function splitFrontMatter(source: string): { front: string[]; body: string[] } {
   const lines = source.split("\n");
   let i = 0;
   while (i < lines.length && lines[i].trim() === "") i++;
-  if (lines[i]?.trim() !== "---") return lines;
-  i++;
+  if (lines[i]?.trim() !== "---") return { front: [], body: lines };
+  const start = ++i;
   while (i < lines.length && lines[i].trim() !== "---") i++;
-  return lines.slice(i + 1);
+  return { front: lines.slice(start, i), body: lines.slice(i + 1) };
 }
 
 function firstKeywordLine(body: string[]): string {
@@ -63,11 +65,12 @@ const isQuoted = (text: string) => /^"[^"]*"$/.test(text);
 interface XyFindings {
   unquoted: string[];
   decimal: string[];
+  thousands: string[];
   count: string[];
 }
 
 function checkXychart(body: string[]): XyFindings {
-  const found: XyFindings = { unquoted: [], decimal: [], count: [] };
+  const found: XyFindings = { unquoted: [], decimal: [], thousands: [], count: [] };
   let categories: number | null = null;
   const series: { kind: string; values: number }[] = [];
   for (const raw of body) {
@@ -94,7 +97,12 @@ function checkXychart(body: string[]): XyFindings {
     if (data) {
       // A comma decimal also splits into extra values, so it is reported as a decimal, not a count.
       if (/\d,\d/.test(data[2])) found.decimal.push(`${data[1]} [${data[2]}]`);
-      else series.push({ kind: data[1], values: splitList(data[2]).length });
+      else {
+        const values = splitList(data[2]);
+        // An Indonesian thousands separator such as 1.500 parses as the decimal 1.5.
+        for (const value of values) if (/^-?\d+\.\d{3}$/.test(value)) found.thousands.push(`${data[1]} ${value}`);
+        series.push({ kind: data[1], values: values.length });
+      }
     }
   }
   if (categories !== null) {
@@ -105,9 +113,33 @@ function checkXychart(body: string[]): XyFindings {
   return found;
 }
 
+// A label opens at a quote right after a shape bracket or edge pipe (`[/` and `[\` included) and closes at
+// a quote right before a closing bracket, slash or pipe; any quote between those two is label text.
+function flowLabelHasStraightQuote(line: string): boolean {
+  let inLabel = false;
+  for (let i = 0; i < line.length; i++) {
+    if (line[i] !== '"') continue;
+    if (!inLabel) {
+      const before = line[i - 1] ?? "";
+      inLabel = "[({|>".includes(before) || ("/\\".includes(before) && line[i - 2] === "[");
+    } else if ("])}|/\\".includes(line[i + 1] ?? "")) inLabel = false;
+    else return true;
+  }
+  return false;
+}
+
+function hasStraightQuoteInText(first: string, body: string[]): boolean {
+  const lines = body.map((l) => l.trim()).filter((t) => !t.startsWith("%%"));
+  if (/^(?:flowchart|graph)\b/.test(first)) return lines.some(flowLabelHasStraightQuote);
+  if (/^(?:sequenceDiagram|timeline)\b/.test(first)) {
+    return lines.some((t) => t.includes(":") && t.slice(t.indexOf(":") + 1).includes('"'));
+  }
+  return false;
+}
+
 function blockRules(source: string): [string, string][] {
   const out: [string, string][] = [];
-  const body = bodyLines(source);
+  const { front, body } = splitFrontMatter(source);
   const first = firstKeywordLine(body);
   if (!ALLOWED_TYPE.test(first)) {
     out.push(["type-not-allowed", `"${first.split(/\s/)[0]}" is not an allowed diagram type (GEMINI.md section 25)`]);
@@ -122,11 +154,20 @@ function blockRules(source: string): [string, string][] {
   if (source.includes(EM_DASH)) out.push(["em-dash", "replace the em dash with a comma, colon or hyphen"]);
   if (/\bAnda\b/.test(source)) out.push(["anda", 'use "kamu", never "Anda"']);
   if (source.includes("$")) out.push(["dollar", "remove $, it starts math in the chapter page"]);
+  if (hasStraightQuoteInText(first, body)) {
+    out.push(["straight-quote", `use curly quotes ${OPEN_QUOTE} ${CLOSE_QUOTE} inside label text; a straight " is dropped or breaks the parse`]);
+  }
+  if (source.includes("%%{") || front.some((l) => /^\s*config\s*:/.test(l))) {
+    out.push(["config-override", "remove the directive; the render config in scripts/diagrams/render-config.json is locked"]);
+  }
   if (/^xychart/.test(first)) {
     const xy = checkXychart(body);
     if (xy.unquoted.length > 0) out.push(["xychart-unquoted", `quote every title, axis title and category: ${xy.unquoted.join("; ")}`]);
     if (xy.decimal.length > 0) {
       out.push(["xychart-decimal", `write 2170.2 with a dot decimal, no thousands separator, and ", " between values: ${xy.decimal.join("; ")}`]);
+    }
+    if (xy.thousands.length > 0) {
+      out.push(["xychart-thousands", `write 1500 without a separator, or round the decimal (2 decimals at most): ${xy.thousands.join("; ")}`]);
     }
     if (xy.count.length > 0) out.push(["xychart-count", `one value per category: ${xy.count.join("; ")}`]);
   }
