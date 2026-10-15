@@ -1,4 +1,5 @@
 import { describe, expect, it, afterEach } from "bun:test";
+import { createHash } from "node:crypto";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
@@ -6,13 +7,27 @@ import {
   cachePath,
   diagramId,
   diagramKey,
+  installedPackageVersion,
+  keyMaterial,
   loadRenderConfig,
   normalizeSource,
 } from "../../scripts/diagrams/cache";
 
+const SEP = String.fromCharCode(0);
+
 const repoRoot = path.join(import.meta.dir, "..", "..");
 const realConfig = path.join(repoRoot, "scripts", "diagrams", "render-config.json");
 const realCss = path.join(repoRoot, "scripts", "diagrams", "theme.css");
+const realPostprocess = path.join(repoRoot, "scripts", "diagrams", "postprocess.ts");
+
+function installedMermaidVersion(): string {
+  const pkgPath = path.join(repoRoot, "node_modules", "mermaid", "package.json");
+  return (JSON.parse(fs.readFileSync(pkgPath, "utf8")) as { version: string }).version;
+}
+
+function sha256(data: string | Buffer): string {
+  return createHash("sha256").update(data).digest("hex");
+}
 
 const roots: string[] = [];
 
@@ -94,6 +109,47 @@ describe("diagramKey", () => {
     const changed = makeRoot({ devDependencies: { "@mermaid-js/mermaid-cli": "12.0.1" } });
     expect(diagramKey(source, changed)).not.toBe(diagramKey(source, base));
   });
+
+  it("is the first 12 hex characters of the sha256 of the key material", () => {
+    const root = makeRoot();
+    expect(diagramKey(source, root)).toBe(sha256(keyMaterial(source, loadRenderConfig(root))).slice(0, 12));
+  });
+
+  it("differs from a key built from the source, config, css and cli version alone", () => {
+    const root = makeRoot();
+    const fourInputs = [
+      normalizeSource(source),
+      fs.readFileSync(realConfig, "utf8"),
+      fs.readFileSync(realCss, "utf8"),
+      "12.0.0",
+    ].join(SEP);
+    expect(diagramKey(source, root)).not.toBe(sha256(fourInputs).slice(0, 12));
+  });
+});
+
+describe("keyMaterial", () => {
+  it("joins source, config, css, cli version, mermaid version and post-processor hash in that order", () => {
+    const root = makeRoot();
+    const parts = keyMaterial("flowchart TD  \r\n  A --> B\r\n", loadRenderConfig(root)).split(SEP);
+    expect(parts).toEqual([
+      "flowchart TD\n  A --> B",
+      fs.readFileSync(realConfig, "utf8"),
+      fs.readFileSync(realCss, "utf8"),
+      "12.0.0",
+      installedMermaidVersion(),
+      sha256(fs.readFileSync(realPostprocess)),
+    ]);
+  });
+
+  it("changes when only the mermaid version changes", () => {
+    const loaded = loadRenderConfig(makeRoot());
+    expect(keyMaterial(source, { ...loaded, mermaidVersion: "0.0.1" })).not.toBe(keyMaterial(source, loaded));
+  });
+
+  it("changes when only the post-processor hash changes", () => {
+    const loaded = loadRenderConfig(makeRoot());
+    expect(keyMaterial(source, { ...loaded, postprocessHash: "0".repeat(64) })).not.toBe(keyMaterial(source, loaded));
+  });
 });
 
 describe("loadRenderConfig", () => {
@@ -115,6 +171,28 @@ describe("loadRenderConfig", () => {
   it("throws when the devDependency uses a caret range", () => {
     const root = makeRoot({ devDependencies: { "@mermaid-js/mermaid-cli": "^12.0.0" } });
     expect(() => loadRenderConfig(root)).toThrow("@mermaid-js/mermaid-cli");
+  });
+
+  it("reports the installed mermaid version even for a root without node_modules", () => {
+    const loaded = loadRenderConfig(makeRoot());
+    expect(loaded.mermaidVersion).toMatch(/^\d+\.\d+\.\d+/);
+    expect(loaded.mermaidVersion).toBe(installedMermaidVersion());
+  });
+
+  it("reports the sha256 of the post-processor source", () => {
+    const loaded = loadRenderConfig(makeRoot());
+    expect(loaded.postprocessHash).toMatch(/^[0-9a-f]{64}$/);
+    expect(loaded.postprocessHash).toBe(sha256(fs.readFileSync(realPostprocess)));
+  });
+});
+
+describe("installedPackageVersion", () => {
+  it("reads the installed mermaid version from node_modules, not the declared range", () => {
+    expect(installedPackageVersion("mermaid")).toBe(installedMermaidVersion());
+  });
+
+  it("throws naming the package and bun install when the package cannot be resolved", () => {
+    expect(() => installedPackageVersion("dawnbook-no-such-package")).toThrow(/dawnbook-no-such-package[\s\S]*bun install/);
   });
 });
 
