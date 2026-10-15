@@ -44,7 +44,7 @@ flowchart TD
     accDescr: Perjalanan dimulai di Puncak Gunung Kebodohan dengan kepercayaan diri di titik maksimal, turun ke Lembah Keputusasaan saat seseorang belajar lebih banyak, naik ke Lereng Pencerahan melalui latihan dan studi yang tekun, lalu berakhir di Dataran Tinggi Keberlanjutan saat seseorang menjadi ahli yang sadar batas pengetahuannya.
     A["Puncak Gunung Kebodohan, kepercayaan diri di titik maksimal"] -->|"belajar lebih banyak"| B["Lembah Keputusasaan, kepercayaan diri merosot tajam"]
     B -->|"latihan dan studi yang tekun"| C["Lereng Pencerahan, kepercayaan diri tumbuh kembali secara realistis"]
-    C --> D["Dataran Tinggi Keberlanjutan, ahli yang sadar batas pengetahuannya"]
+    C --> D["Dataran Tinggi Keberlanjutan, ahli yang sadar batas pengetahuan"]
 ```
 
 *Di titik manakah kamu berada dalam keterampilan yang sedang kamu pelajari saat ini? Apakah kamu benar-benar tahu, atau kamu hanya "merasa" tahu?*

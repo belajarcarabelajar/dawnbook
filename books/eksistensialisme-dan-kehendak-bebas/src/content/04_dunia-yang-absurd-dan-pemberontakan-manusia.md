@@ -55,7 +55,7 @@ flowchart TD
     accDescr: Dari realitas absurd, manusia dapat mengakhiri hidup jasmani lewat bunuh diri fisik, memaksakan makna transenden buatan lewat bunuh diri filosofis, atau memelihara ketegangan absurd lewat pemberontakan eksistensial. Dua respons pertama ditolak Camus sebagai pelarian diri, sedangkan pemberontakan adalah sikap otentik yang ia ajukan.
     A0["Realitas absurd"] -->|"mengakhiri hidup jasmani"| A1["Bunuh diri fisik"]
     A0 -->|"memaksakan makna buatan"| A2["Bunuh diri filosofis"]
-    A0 -->|"memelihara ketegangan"| A3["Pemberontakan eksistensial"]
+    A0 -->|"memelihara ketegangan"| A3["Memberontak secara eksistensial"]
     A1 --> T["Ditolak sebagai pelarian diri"]
     A2 --> T
     A3 --> S["Sikap otentik yang diajukan Camus"]

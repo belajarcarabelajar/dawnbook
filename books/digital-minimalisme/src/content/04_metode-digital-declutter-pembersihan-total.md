@@ -61,8 +61,8 @@ flowchart TD
     D --> E["Masa puasa 30 hari"]
     E --> F["Menyaring kembali teknologi"]
     F --> G{"Mendukung sesuatu yang sangat kamu hargai?"}
-    G -->|"Ya"| H{"Cara paling optimal untuk mendukungnya?"}
-    H -->|"Ya"| J{"Tahu persis aturan main menggunakannya?"}
+    G -->|"Ya"| H{"Cara paling optimal untuk mendukung hal itu?"}
+    H -->|"Ya"| J{"Tahu persis aturan main dalam memakainya?"}
     J -->|"Ya"| K["Dipakai lagi"]
     G -->|"Tidak"| L["Tidak diaktifkan kembali"]
     H -->|"Tidak"| L

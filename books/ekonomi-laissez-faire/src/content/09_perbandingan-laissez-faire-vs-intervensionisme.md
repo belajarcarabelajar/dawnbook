@@ -65,7 +65,7 @@ flowchart TD
     subgraph LF["Pendekatan Laissez-faire"]
         L1["Tidak ada tindakan drastis"] --> L2["Upah dibiarkan turun hingga tenaga kerja murah kembali"]
         L2 -->|"sehingga"| L3["Perusahaan mulai merekrut lagi secara alami"]
-        L2 -.->|"risiko"| L4["Memakan waktu bertahun-tahun, penderitaan manusia yang berat"]
+        L2 -.->|"risiko"| L4["Memakan waktu bertahun-tahun dan menyebabkan penderitaan manusia yang berat"]
     end
     subgraph KY["Pendekatan Intervensionis (Keynesian)"]
         K1["Stimulus fiskal, pajak turun atau belanja infrastruktur naik"] --> K2["Pemerintah menyuntikkan uang ke pasar"]

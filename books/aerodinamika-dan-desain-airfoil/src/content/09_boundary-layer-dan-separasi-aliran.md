@@ -80,10 +80,10 @@ flowchart TD
     accTitle: Tahapan terjadinya separasi aliran
     accDescr: Di bagian depan airfoil hingga titik kecepatan puncak, tekanan menurun sehingga partikel fluida dipercepat dan lapisan batas stabil. Setelah titik ketebalan maksimum menuju tepi belakang, tekanan meningkat seiring penurunan kecepatan, energi kinetik partikel dekat dinding melemah akibat disipasi viskos, kecepatan dekat dinding melambat hingga nol di titik separasi, lalu aliran berbalik arah membentuk pusaran resirkulasi.
     subgraph DEPAN["Bagian depan airfoil hingga titik kecepatan puncak"]
-        S1["Gradien tekanan menguntungkan, tekanan menurun"] --> S2["Partikel fluida dipercepat, lapisan batas stabil"]
+        S1["Favorable pressure gradient, tekanan menurun"] --> S2["Partikel fluida dipercepat, lapisan batas stabil"]
     end
     subgraph BELAKANG["Setelah titik ketebalan maksimum menuju tepi belakang"]
-        S3["Gradien tekanan merugikan, tekanan meningkat seiring penurunan kecepatan"] --> S4["Energi kinetik dekat dinding melemah akibat disipasi viskos"]
+        S3["Adverse pressure gradient, tekanan meningkat seiring penurunan kecepatan"] --> S4["Energi kinetik dekat dinding melemah akibat disipasi viskos"]
         S4 --> S5["Titik separasi, kecepatan dekat dinding mencapai nol"]
         S5 --> S6["Aliran berbalik arah membentuk pusaran resirkulasi"]
     end

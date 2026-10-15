@@ -92,7 +92,7 @@ flowchart TD
     L1["Gerakan maju (thrust) mengalirkan udara melewati kontur sayap"] --> L2["Camber memandu aliran mengikuti kontur sayap"]
     L2 --> L3["Aliran sisi atas dipercepat, zona bertekanan rendah (Bernoulli)"]
     L2 --> L4["Aliran didefleksikan ke bawah, dorongan reaksi ke atas (Newton)"]
-    L3 -->|"perbedaan tekanan"| L5["Gaya angkat total menyeimbangkan gaya gravitasi (weight)"]
+    L3 -->|"perbedaan tekanan"| L5["Gaya angkat total (lift) mengimbangi gaya gravitasi (weight)"]
     L4 -->|"reaksi momentum"| L5
 ```
 

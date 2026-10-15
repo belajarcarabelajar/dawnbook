@@ -103,7 +103,7 @@ flowchart TD
     accTitle: Perjalanan write() dari aplikasi ke USB drive
     accDescr: Di user space, aplikasi memanggil write() pada file di USB drive. Di kernel space, VFS mendeteksi bahwa file berada di file system FAT32 pada block device, block layer mengatur antrean penulisan, lalu driver USB storage menerima perintah menulis 4096 byte ke sektor tertentu. Driver mengirim sinyal elektrik melalui bus USB ke pengontrol fisik di flash drive hingga data tersimpan.
     subgraph us["User Space"]
-        A["Aplikasi memanggil write() pada /media/usb/data.txt"]
+        A["Aplikasi memanggil write() pada file di USB drive"]
     end
     subgraph ks["Kernel Space"]
         B["VFS mendeteksi file FAT32 pada block device"]
