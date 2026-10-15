@@ -286,7 +286,7 @@ tasks:
 - [x] S7 Execute: chunks dispatched per batch manifest, each chunk past the parent diff audit gate. Evidence: T1-T14 integrated in commits 19e800e..1dec947, each re-run by the parent (Execution evidence table)
 - [x] S8 Verify: tests, `bun run build`, heading and content gates run locally with exit codes, 0 failures. Evidence: T12 run 2: `bun run check:diagrams` exit 0; `bun run build` exit 0 (heading gate and SEO validation inside, 3 diagrams inlined per pilot book); `bun test` 596 pass, 13 skip (same 13 as main), 0 fail
 - [x] S9 Deliver: commit on the session branch, PR body file per template, PR opened and registered. Evidence: `gh pr create --body-file` opened https://github.com/belajarcarabelajar/dawnbook/pull/148; `pr-registry pr dawnbook-mermaid-diagrams --number 148` recorded state open
-- [ ] S10 Sweep: session-close debt sweep, learning ledger, plan closeout decision, graphify sync
+- [x] S10 Sweep: session-close debt sweep, learning ledger, plan closeout decision, graphify sync. Evidence: debt sweep, learning ledger and readiness recorded in this plan; graphify sync after the merge (nodes 17468 to 17589, `--check` CURRENT) in `docs/code-plan/artifacts/2026-10-16-dawnbook-mermaid-diagrams-merge-evidence.md`
 
 ## Approval log
 
@@ -739,10 +739,10 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 
 ## Follow-up backlog
 
-- FU1: reconcile the ikigai zone definitions between chapters 02, 03 and 08 of `menemukan-tujuan-hidup-ikigai`. `defer: owner decides which definition is correct, before RF3 starts`
-- FU2: reconcile the pain-peak days between `tonsilektomi` 10:11 and 08:48-49. `defer: owner decides the medically correct timeline, before RF6 starts`
-- FU3: reconcile the command-chain timing in `sistem-peringatan-dini-early-warning-system` 04:33-42 with 07:21. `defer: owner decision, before RF5 starts`
-- FU4: fix the percentages in `sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` 05:15-19. `defer: source check, before RF5 starts`
+- FU1: reconcile the ikigai zone definitions between chapters 02, 03 and 08 of `menemukan-tujuan-hidup-ikigai`. `defer: owner decides which definition is correct, before RF3 starts` Resolved 2026-10-16 in session dawnbook-diagram-followups (commit 65b5071): chapters 02 and 08 follow Winn (2014), as chapter 03 already did.
+- FU2: reconcile the pain-peak days between `tonsilektomi` 10:11 and 08:48-49. `defer: owner decides the medically correct timeline, before RF6 starts` Resolved 2026-10-16 in session dawnbook-diagram-followups (commit 8ac278c): young children peak in days 1-3, teenagers and adults around days 3-7.
+- FU3: reconcile the command-chain timing in `sistem-peringatan-dini-early-warning-system` 04:33-42 with 07:21. `defer: owner decision, before RF5 starts` Resolved 2026-10-16 in session dawnbook-diagram-followups (commit 58c36bf): four-message chain, first warning within 5 minutes.
+- FU4: fix the percentages in `sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` 05:15-19. `defer: source check, before RF5 starts` Resolved 2026-10-16 in session dawnbook-diagram-followups (commit 794cb4d): the 72 percent total row removed; 31 versus 28 percent stated.
 - FU5: math backslash and blank-line defects found by the inventory (`nudge-theory` 04:42-45, `arsitektur-kernel-linux` 01:49, `geopolitik-dalam-sejarah-piala-dunia` 01:58-60, `kecerdasan-interpersonal` 05:58-67, `state-of-flow` 11:41-43). `defer: manual LaTeX audit session per GEMINI.md section 9, next content-hygiene session`
 - FU6: content slips found by the inventory (`metakognisi` 07:79-80 example bug, `neurobiologi-motivasi-dopamin` 02:58 numerator vs denominator, `strategi-manajemen-kelas-proaktif` 05:84-99 broken table and 04:45-58 fence labelled `json`). `defer: content-hygiene session, or the retrofit session that touches the book`
 - FU7: GEMINI.md section 9 item 1 still describes the `$ ... $` pre-pass removed on 2026-07-31. `defer: next GEMINI.md edit outside section 25`
