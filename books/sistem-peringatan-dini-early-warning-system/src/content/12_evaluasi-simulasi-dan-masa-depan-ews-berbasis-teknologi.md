@@ -30,7 +30,7 @@ di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \tex
 | --- | --- | --- | --- |
 | POD gempa >5 SR | >0.95 | 0.98 | Jaringan seismik padat |
 | FAR tsunami | <0.3 | 0.35 | Masih tinggi karena skenario konservatif |
-| Lead time tsunami lokal | 3 sampai 5 menit | 4 menit rata-rata | Perlu 2 menit lagi |
+| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 4 menit rata-rata | Perlu 2 menit lagi |
 | POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
 
 ### 2. Simulasi Tabletop hingga Full Scale
