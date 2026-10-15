@@ -209,6 +209,18 @@ describe("checkDiagrams rules", () => {
   });
 
   it.each([
+    ["quotes inside quoted", '    C -- "kata "x" lain" --> D'],
+    ["a quoted word in unquoted", '    C -- teks "x" --> D'],
+    ["a quoted word in open-ended", '    C -- teks "x" --- D'],
+  ])("straight-quote flags %s dash edge text", (_label, extra) => {
+    expect(rulesFor(flowWith(extra))).toEqual(["straight-quote"]);
+  });
+
+  it("straight-quote passes one delimiter pair around dash edge text, plain edge text and bare links", () => {
+    expect(rulesFor(flowWith('    C -- "ya" --> D\n    D -- tidak --- E\n    E --- F\n    F --> G["Akhir"]'))).toEqual([]);
+  });
+
+  it.each([
     ["sequence message", lines(SEQ, '    A->>B: Menekan tombol "Beli"')],
     ["sequence note", lines(SEQ, '    Note right of B: Status "lunas"')],
     ["timeline event", lines(TIMELINE, '    2024 : Kampanye "Bangga"')],
@@ -228,6 +240,17 @@ describe("checkDiagrams rules", () => {
     const acc = "    accTitle: Uji\n    accDescr: Diagram uji.";
     expect(rulesFor(`pie\n${acc}\n    "Biaya: tetap" : 40\n    "Biaya: variabel" : 60`)).toEqual([]);
     expect(rulesFor(`stateDiagram-v2\n${acc}\n    state "Tahap: bayar" as S1\n    [*] --> S1`)).toEqual([]);
+  });
+
+  const STATE_HEAD = "stateDiagram-v2\n    accTitle: Uji\n    accDescr: Diagram uji.\n    [*] --> S1";
+
+  it("straight-quote flags a straight quote in a stateDiagram-v2 transition label", () => {
+    expect(rulesFor(`${STATE_HEAD}\n    S1 --> S2: tekan "Beli"`)).toEqual(["straight-quote"]);
+  });
+
+  it("straight-quote passes a quoted state declaration next to a curly-quoted transition label", () => {
+    const source = `${STATE_HEAD}\n    state "Deskripsi panjang" as S2\n    S1 --> S2: tekan ${OPEN_QUOTE}Beli${CLOSE_QUOTE}`;
+    expect(rulesFor(source)).toEqual([]);
   });
 
   it.each([
@@ -400,8 +423,17 @@ describe("checkDiagrams scope", () => {
 describe("check-diagrams CLI", () => {
   const run = (...args: string[]) => {
     const r = Bun.spawnSync([process.execPath, "run", script, ...args], { stdout: "pipe", stderr: "pipe" });
-    return { code: r.exitCode, out: r.stdout.toString() };
+    return { code: r.exitCode, out: r.stdout.toString(), err: r.stderr.toString() };
   };
+
+  it("--book with an unknown slug prints one line to stderr and exits 1", () => {
+    const root = makeRoot();
+    addBook(root, "ada", { "src/content/01_a.md": "# Bab\n\nTanpa diagram.\n" });
+    const { code, out, err } = run("--root", root, "--book", "hilang");
+    expect(code).toBe(1);
+    expect(err).toBe('no book "hilang" (expected books/hilang/book.toml)\n');
+    expect(out).toBe("");
+  });
 
   it("exits 1 and prints book/file:line [rule] on a violation", () => {
     const root = single(chapter(FLOW), []);

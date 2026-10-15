@@ -86,6 +86,19 @@ function findClose(lines: string[], i: number, opener: Opener): { close: number;
   return { close: -1, resume: lines.length };
 }
 
+const COMMENT_OPEN = /^( *)<!--/;
+
+// Last line of the HTML comment block that starts at line i, or null when none starts there.
+// CommonMark ends that block at the first line holding -->, which may be a mermaid arrow line,
+// and an unclosed comment runs to the end of the document.
+function commentEnd(lines: string[], i: number): number | null {
+  const m = COMMENT_OPEN.exec(lines[i]);
+  if (!m || m[1].length - containerColumn(lines, i, m[1].length) > 3) return null;
+  if (lines[i].includes("-->", m[0].length)) return i;
+  for (let j = i + 1; j < lines.length; j++) if (lines[j].includes("-->")) return j;
+  return lines.length - 1;
+}
+
 function isMermaid(info: string): boolean {
   return /^mermaid(?:\s|$)/.test(info);
 }
@@ -102,7 +115,8 @@ function scan(lines: string[]): DiagramBlock[] {
   while (i < lines.length) {
     const opener = parseOpener(lines, i);
     if (!opener) {
-      i++;
+      const end = commentEnd(lines, i);
+      i = end === null ? i + 1 : end + 1;
       continue;
     }
     // Every fence is skipped whole, so a mermaid example inside a longer non-mermaid fence stays

@@ -212,3 +212,49 @@ describe("a file with zero diagram blocks", () => {
     expect(findDiagramBlocks(input)).toEqual([]);
   });
 });
+
+describe("HTML comments", () => {
+  const arrowDiagram = ["```mermaid", "flowchart LR", "  A --> B", "```"];
+
+  test("a mermaid fence inside a multi-line HTML comment is not a block and the text stays unchanged", () => {
+    const input = lf("Teks.", "", "<!--", "```mermaid", "pie", '  "a" : 1', "```", "-->", "", "Akhir.", "");
+    expect(findDiagramBlocks(input)).toEqual([]);
+    expect(replaceDiagramBlocks(input, wrap)).toBe(input);
+  });
+
+  test("a comment whose markers share their lines with text still hides the fence", () => {
+    const input = lf("<!-- diagram lama", "```mermaid", "pie", '  "a" : 1', "```", "akhir komentar -->", "");
+    expect(findDiagramBlocks(input)).toEqual([]);
+    expect(replaceDiagramBlocks(input, wrap)).toBe(input);
+  });
+
+  // CommonMark ends the comment block at the first line holding -->, here the arrow line, but the
+  // fence opened before that line, so it is still comment text.
+  test("a commented-out fence whose body holds a --> arrow is still not found", () => {
+    const input = lf("<!--", ...arrowDiagram, "-->", "");
+    expect(findDiagramBlocks(input)).toEqual([]);
+    expect(replaceDiagramBlocks(input, wrap)).toBe(input);
+  });
+
+  test("a real fence after a closed comment is found", () => {
+    const input = lf("<!--", "```mermaid", "pie", "```", "-->", "", "```mermaid", "flowchart TD", "```", "");
+    expect(findDiagramBlocks(input)).toEqual([
+      { source: "flowchart TD", info: "mermaid", startLine: 7, endLine: 9, indent: "" },
+    ]);
+  });
+
+  test("a comment opened and closed on one line before a fence does not hide it", () => {
+    const input = lf("<!-- catatan -->", ...arrowDiagram, "");
+    expect(findDiagramBlocks(input).map((b) => b.startLine)).toEqual([2]);
+  });
+
+  test("a comment marker that does not start its line does not hide the next fence", () => {
+    const input = lf("Teks <!-- bukan blok", ...arrowDiagram, "");
+    expect(findDiagramBlocks(input).map((b) => b.startLine)).toEqual([2]);
+  });
+
+  test("a comment inside a nested list item hides a fence in the same item", () => {
+    const input = lf("1. Satu", "   - Dua", "", "     <!--", "     ```mermaid", "     pie", "     ```", "     -->", "");
+    expect(findDiagramBlocks(input)).toEqual([]);
+  });
+});

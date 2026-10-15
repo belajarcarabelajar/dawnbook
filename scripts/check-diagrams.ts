@@ -128,11 +128,32 @@ function flowLabelHasStraightQuote(line: string): boolean {
   return false;
 }
 
+// Edge text of `A -- teks --> B`: a link opens at `--` plus whitespace (the tail of `---` does not
+// count) and closes at the next `-->`, `---`, `--x` or `--o`. Only one pair wrapping all of it is a delimiter.
+const DASH_EDGE_TEXT = /(?<!-)--\s+(.*?)\s*--+[-xo>]/g;
+
+function flowEdgeTextHasStraightQuote(line: string): boolean {
+  for (const m of line.matchAll(DASH_EDGE_TEXT)) {
+    if (m[1].includes('"') && !isQuoted(m[1])) return true;
+  }
+  return false;
+}
+
 function hasStraightQuoteInText(first: string, body: string[]): boolean {
   const lines = body.map((l) => l.trim()).filter((t) => !t.startsWith("%%"));
-  if (/^(?:flowchart|graph)\b/.test(first)) return lines.some(flowLabelHasStraightQuote);
+  if (/^(?:flowchart|graph)\b/.test(first)) {
+    return lines.some((t) => flowLabelHasStraightQuote(t) || flowEdgeTextHasStraightQuote(t));
+  }
   if (/^(?:sequenceDiagram|timeline)\b/.test(first)) {
     return lines.some((t) => t.includes(":") && t.slice(t.indexOf(":") + 1).includes('"'));
+  }
+  // Only a transition label is text; the quotes in `state "Deskripsi" as S` are delimiters.
+  if (/^stateDiagram-v2\b/.test(first)) {
+    return lines.some((t) => {
+      const arrow = t.indexOf("-->");
+      const colon = arrow < 0 ? -1 : t.indexOf(":", arrow + 3);
+      return colon >= 0 && t.slice(colon + 1).includes('"');
+    });
   }
   return false;
 }
@@ -269,7 +290,12 @@ if (import.meta.main) {
     return i >= 0 ? args[i + 1] : undefined;
   };
   const root = path.resolve(valueOf("--root") ?? process.cwd());
-  const { violations, orphans } = checkDiagrams(root, { book: valueOf("--book") });
+  const book = valueOf("--book");
+  if (book !== undefined && !fs.existsSync(path.join(root, "books", book, "book.toml"))) {
+    console.error(`no book "${book}" (expected books/${book}/book.toml)`);
+    process.exit(1);
+  }
+  const { violations, orphans } = checkDiagrams(root, { book });
   for (const v of violations) console.log(`${v.book}/${v.file}:${v.line} [${v.rule}] ${v.message}`);
   for (const o of orphans) console.log(`WARN orphan ${o} (no block uses it; bun run diagrams:render --prune deletes it)`);
   console.log(`TOTAL: ${violations.length} diagram violations, ${orphans.length} orphaned SVGs`);
