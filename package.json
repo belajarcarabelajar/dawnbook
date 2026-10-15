@@ -6,6 +6,8 @@
     "build": "bun run scripts/build.ts",
     "check:headings": "bun run scripts/check-heading-colons.ts",
     "check:d1": "bun run scripts/check-d1-rate-limit.ts",
+    "diagrams:render": "bun run scripts/render-diagrams.ts",
+    "check:diagrams": "bun run scripts/check-diagrams.ts",
     "test:audit": "bun test",
     "pr:integrate": "bun run scripts/pr-integration-agent.ts",
     "pr:integrate:dry": "bun run scripts/pr-integration-agent.ts --dry-run"
@@ -14,6 +16,7 @@
     "wrangler": "^4.120.0"
   },
   "devDependencies": {
+    "@mermaid-js/mermaid-cli": "12.0.0",
     "@types/bun": "1.2.2",
     "katex": "0.17.0",
     "lighthouse": "13.4.0",
