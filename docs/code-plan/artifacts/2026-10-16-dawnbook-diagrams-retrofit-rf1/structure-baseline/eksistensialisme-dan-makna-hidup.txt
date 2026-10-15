@@ -1,0 +1,5 @@
+01_pengantar-eksistensialisme-menemukan-diri-di-dunia-yang-tak-bertuan.md: opener's first sentence would be truncated in the meta description
+09_relasi-antarmanusia-antara-konflik-dan-kehadiran.md: opener's first sentence would be truncated in the meta description
+12_kesimpulan.md: opener's first sentence would be truncated in the meta description
+heading "ringkasan visual" repeated in 02_akar-historis-kierkegaard-dan-nietzsche.md, 03_menghadapi-absurditas-dunia-pelajaran-dari-albert-camus.md
+eksistensialisme-dan-makna-hidup: 13 chapters, 4 problems

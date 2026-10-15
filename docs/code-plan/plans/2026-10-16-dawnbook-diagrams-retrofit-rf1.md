@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf1
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -179,9 +179,9 @@ tasks:
 ## Session checklist
 
 - [x] S1 Plan: tasks B1-B10 and V1 written, runner `Validation: OK`, `Plan` gate approved. Evidence: runner `Validation: OK`; `Plan` gate approved 2026-10-16; baseline `check-book-structure.ts` problem counts 3, 3, 5, 6, 10, 2, 4, 6, 4, 8 (books in task order), saved per book under `/tmp/rf1-base-<slug>.txt`
-- [ ] S2 Execute: one subagent per book adds 0-3 grounded diagrams per chapter from `g1.md`, renders them, gate exit 0; parent diff audit and commit per book
-- [ ] S3 Review: independent grounding review of every diagram against its chapter lines; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, `check-book-structure.ts` for the ten books (no new problem beyond baseline)
+- [x] S2 Execute: one subagent per book adds 0-3 grounded diagrams per chapter from `g1.md`, renders them, gate exit 0; parent diff audit and commit per book. Evidence: 10 subagents (chef, nappy, hoggy) dispatched in one message; parent read every inserted block against its source lines and committed one book per commit (`c579ad7`, `167d018`, `c3ec4ed`, `f891a31`, `cdfea6a`, `6a5047e`, `d2efb6c`, `4675354`, `e19de10`, `b013535`); 27 diagrams in 25 chapters, see Execution record; label fix `cc5ec8b`
+- [x] S3 Review: independent grounding review of every diagram against its chapter lines; findings fixed. Evidence: three `staid` reviewers (standards books 1-5, standards books 6-10, spec axis), each verdict `correct`, 0 P0/P1/P2; the P3 findings are fixed in `e145754` (two source hedges restored, one decision label, four varied intro sentences); report `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1-review.md`
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, `check-book-structure.ts` for the ten books (no new problem beyond baseline; command form: `bun run scripts/check-book-structure.ts <slug> | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1/structure-baseline/<slug>.txt -`, empty diff expected, the script itself exits 1 on the pre-existing problems). Evidence first run on tree `cc5ec8b`, rerun on the final content tree `e145754` with the same results (build exit 0, 658 pass, 13 skip, 0 fail, 27 inline diagrams, the reworded labels present in the built page): `bun run build` exit 0 ("SEO Validation passed", "Premium Hub site generated successfully"); `bun test` 658 pass, 13 skip, 0 fail, exit 0; `bun run check:diagrams` "0 diagram violations, 0 orphaned SVGs"; `check-book-structure.ts` output byte-identical to the baseline for all ten books (3, 3, 5, 6, 10, 2, 4, 6, 4, 8); `bun run check:headings` 0 violations; build output `output/books/<slug>/content/*.html` holds 27 `class="dawnbook-diagram"` (equal to the 27 source blocks), 0 `language-mermaid` fences, 0 `foreignObject`, and no `diagrams/` folder
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -277,7 +277,24 @@ flowchart TD
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Book | Diagrams (chapter: type) | Skipped candidate and reason |
+|---|---|---|---|
+| B1 | aerodinamika-dan-desain-airfoil | ch01 lift stages (flowchart TD, Bernoulli and Newton branches meet), ch09 flow separation (flowchart TD, two subgraphs), ch12 validation flow (flowchart TD, replaces the ASCII-art fence) | none |
+| B2 | analisis-ekspresif-9-summers-10-autumns | ch04 mixed plot (flowchart LR loop), ch12 family milestones 1969, 1976, 1980 (timeline), ch13 motivation chain (flowchart TD) | none; the ch12 timeline the inventory called weak has three dated events in the text |
+| B3 | analisis-wacana-kritis-awk-dalam-kriminologi | ch04 Fairclough's three dimensions (flowchart TD, nested subgraphs, no edges), ch08 moral panic stages (flowchart LR) | none |
+| B4 | arsitektur-kernel-linux | ch05 system call (sequenceDiagram), ch08 write() path (flowchart TD, three subgraphs), ch12 boot order (flowchart TD) | ch03 process states: the text describes five states but states no transition |
+| B5 | bias-kognitif | ch06 Dunning-Kruger stages (flowchart TD), ch07 sunk cost decision (flowchart TD), ch12 five-step debiasing (flowchart TD with a side branch) | none |
+| B6 | digital-minimalisme | ch02 hook cycle (flowchart TD), ch04 declutter decision flow (flowchart TD) | ch04 week timeline: repeats the 30-day step already in the flowchart |
+| B7 | ekonomi-laissez-faire | ch03 price signal (flowchart TD), ch07 Matthew effect (flowchart TD), ch09 recession responses (flowchart TD, two subgraphs) | none |
+| B8 | eksistensialisme-dan-kehendak-bebas | ch04 responses to the absurd (flowchart TD), ch08 three metamorphoses (flowchart TD) | ch10 three stages: no transition stated, and a chain would repeat the ch08 shape |
+| B9 | eksistensialisme-dan-makna-hidup | ch02 Kierkegaard stages (flowchart LR), ch02 roots of existentialism (flowchart TD, replaces the ASCII tree; root label moved to accTitle), ch03 Camus responses (flowchart LR) | none |
+| B10 | elastisitas-harga-permintaan-dan-penawaran | ch04 elasticity classes (flowchart LR decision), ch06 TR curve regions (flowchart LR), ch08 supply analysis flow (flowchart TD) | ch09 supply table: same five-class shape as the ch04 demand diagram |
+
+Parent finding during the diff audit: `scripts/diagrams/render-config.json` sets `flowchart.wrappingWidth` to 110, and Mermaid breaks a word wider than that into character chunks on separate lines. A scratch scan of every cached SVG against the source labels found eight such splits in seven diagrams ("menyeimbangk/an", "menguntungka/n,", "/media/usb/dat/a.txt", "pengetahuann/ya", "menggunakan/nya?", a lone "?", a lone ",", "Pemberontaka/n"); the pilots `nudge-theory` and `iklan-digital-dan-penargetan-algoritma` had none. Commit `cc5ec8b` rewords nine labels for those eight splits (the ninth, "Adverse pressure gradient", keeps the aerodinamika ch09 pair parallel; meaning kept, accDescr unchanged) and prunes the stale SVGs; the rescan finds 0 splits. The commit subject says "eight labels"; nine is the correct count. The gate does not detect this yet (see the debt sweep).
+
 ## Status
 
-- Status: Approved (`Plan` gate answered "Setujui dan eksekusi" on 2026-10-16)
-- Resume: worktree above, `bun install` done; next is the `Plan` gate, then dispatch B1-B10.
+- Status: Verification (S2, S3 and S4 done)
+- Resume: worktree above; next is the D1 seed and the PR (S5).

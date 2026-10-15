@@ -1270,8 +1270,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2400,8 +2400,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2503,6 +2503,19 @@ Tidak mungkin tercipta perbedaan tekanan (Bernoulli) tanpa adanya pembelokan ali
 3. **Gradien Kecepatan dan Tekanan:** Aliran fluida di sisi atas mengalami percepatan (Bernoulli), membentuk zona bertekanan rendah.
 4. **Perubahan Momentum:** Aliran udara didefleksikan ke arah bawah pada bagian buritan sayap (Newton), memberikan dorongan reaksi ke atas.
 5. **Gaya Angkat Efektif:** Resultan perbedaan medan tekanan dan reaksi momentum menghasilkan gaya angkat total (*lift*) yang mampu menyeimbangkan gaya gravitasi (*weight*).
+
+Lewat diagram berikut, kamu bisa melihat jalur Bernoulli dan jalur Newton bertemu pada gaya angkat yang sama.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan pembentukan gaya angkat
+    accDescr: Gerakan maju dari propulsi mengalirkan udara melewati kontur sayap, lalu camber memandu aliran mengikuti kontur. Dari sana, aliran sisi atas dipercepat dan membentuk zona bertekanan rendah (Bernoulli), sementara aliran didefleksikan ke bawah dan memberi dorongan reaksi ke atas (Newton). Resultan perbedaan tekanan dan reaksi momentum menghasilkan gaya angkat total yang menyeimbangkan gaya gravitasi.
+    L1["Gerakan maju (thrust) mengalirkan udara melewati kontur sayap"] --> L2["Camber memandu aliran mengikuti kontur sayap"]
+    L2 --> L3["Aliran sisi atas dipercepat, zona bertekanan rendah (Bernoulli)"]
+    L2 --> L4["Aliran didefleksikan ke bawah, dorongan reaksi ke atas (Newton)"]
+    L3 -->|"perbedaan tekanan"| L5["Gaya angkat total (lift) mengimbangi gaya gravitasi (weight)"]
+    L4 -->|"reaksi momentum"| L5
+```
 
 ## 5. Aplikasi Dunia Nyata dan Skenario Teknik
 
@@ -3482,6 +3495,23 @@ Untuk mempertahankan gaya angkat aerodinamis yang optimal, aliran udara idealnya
 3. **Pelemahan Energi Kinetik:** Partikel fluida di dekat dinding telah kehilangan sebagian besar energi kinetiknya akibat disipasi viskos. Gaya dorong sisa tidak lagi mencukupi untuk mengatasi peningkatan tekanan balik.
 4. **Titik Separasi (*Separation Point*):** Kecepatan aliran di dekat dinding melambat hingga mencapai nol ($\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$), lalu berbalik arah membentuk pusaran resirkulasi (*reverse flow*). Titik saat gradien kecepatan di dinding bernilai nol ini dinamakan titik separasi.
 
+Keempat tahapan itu terbagi ke dua daerah airfoil, yaitu bagian depan dan bagian setelah titik ketebalan maksimum.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan terjadinya separasi aliran
+    accDescr: Di bagian depan airfoil hingga titik kecepatan puncak, tekanan menurun sehingga partikel fluida dipercepat dan lapisan batas stabil. Setelah titik ketebalan maksimum menuju tepi belakang, tekanan meningkat seiring penurunan kecepatan, energi kinetik partikel dekat dinding melemah akibat disipasi viskos, kecepatan dekat dinding melambat hingga nol di titik separasi, lalu aliran berbalik arah membentuk pusaran resirkulasi.
+    subgraph DEPAN["Bagian depan airfoil hingga titik kecepatan puncak"]
+        S1["Favorable pressure gradient, tekanan menurun"] --> S2["Partikel fluida dipercepat, lapisan batas stabil"]
+    end
+    subgraph BELAKANG["Setelah titik ketebalan maksimum menuju tepi belakang"]
+        S3["Adverse pressure gradient, tekanan meningkat seiring penurunan kecepatan"] --> S4["Energi kinetik dekat dinding melemah akibat disipasi viskos"]
+        S4 --> S5["Titik separasi, kecepatan dekat dinding mencapai nol"]
+        S5 --> S6["Aliran berbalik arah membentuk pusaran resirkulasi"]
+    end
+    DEPAN -->|"menuju tepi belakang"| BELAKANG
+```
+
 Sebagai analogi mekanika, fluida yang bergerak melawan kenaikan tekanan menyerupai gerak bola menaiki tanjakan. Tanpa momentum awal yang cukup, gerak bola melambat, berhenti, dan berbalik menggelinding ke bawah.
 
 ### 4. Fenomena Stall
@@ -3764,33 +3794,16 @@ Bayangkan sebuah profil airfoil revolusioner baru saja selesai dirancang di atas
 
 Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dengan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, dunia aerodinamika modern bertumpu pada dua pilar utama validasi: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
 
-```
-       +-------------------------------------------------------+
-       |             Konsep Desain Geometri Airfoil            |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |       Simulasi Komputasional Awal (CFD Cepat)         |
-       |       - Panel Method (XFOIL) & RANS 2D                |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |     Simulasi Komputasional Lanjut (High-Fidelity)     |
-       |     - 3D RANS / DES / LES & Optimasi Numerik          |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |         Eksperimen Terowongan Angin (Wind Tunnel)     |
-       |         - Validasi Gaya ($L, D, M$) & PIV / Asap      |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |        Desain Tervalidasi & Uji Terbang Nyata         |
-       +-------------------------------------------------------+
+Urutan validasi yang perlu kamu tempuh, dari konsep geometri sampai uji terbang nyata, terlihat pada diagram berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan validasi desain airfoil
+    accDescr: Konsep desain geometri airfoil diuji lebih dulu dengan simulasi komputasional awal (CFD cepat, panel method XFOIL dan RANS 2D), lalu simulasi komputasional lanjut (high-fidelity, 3D RANS, DES, LES, dan optimasi numerik), kemudian eksperimen terowongan angin untuk validasi gaya L, D, M dengan PIV atau asap, sampai menjadi desain tervalidasi dan uji terbang nyata.
+    V1["Konsep Desain Geometri Airfoil"] --> V2["Simulasi Komputasional Awal (CFD Cepat): Panel Method (XFOIL) dan RANS 2D"]
+    V2 --> V3["Simulasi Komputasional Lanjut (High-Fidelity): 3D RANS, DES, LES, dan Optimasi Numerik"]
+    V3 --> V4["Eksperimen Terowongan Angin (Wind Tunnel): Validasi Gaya (L, D, M), PIV atau Asap"]
+    V4 --> V5["Desain Tervalidasi dan Uji Terbang Nyata"]
 ```
 
 ---
@@ -4031,8 +4044,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4984,8 +4997,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5718,8 +5731,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6257,6 +6270,17 @@ Perjalanan ini biasanya mengikuti empat tahap utama:
 3. **Lereng Pencerahan (Slope of Enlightenment):** Melalui latihan dan studi yang tekun, kompetensi meningkat, dan kepercayaan diri mulai tumbuh kembali secara realistis.
 4. **Dataran Tinggi Keberlanjutan (Plateau of Sustainability):** Seseorang menjadi ahli. Mereka sadar akan batas-batas pengetahuan mereka namun tetap percaya diri pada kemampuan inti mereka.
 
+Jika disusun sebagai alur, keempat tahap itu membentuk perjalanan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Empat tahap perjalanan pengetahuan dalam Dunning-Kruger Effect
+    accDescr: Perjalanan dimulai di Puncak Gunung Kebodohan dengan kepercayaan diri di titik maksimal, turun ke Lembah Keputusasaan saat seseorang belajar lebih banyak, naik ke Lereng Pencerahan melalui latihan dan studi yang tekun, lalu berakhir di Dataran Tinggi Keberlanjutan saat seseorang menjadi ahli yang sadar batas pengetahuannya.
+    A["Puncak Gunung Kebodohan, kepercayaan diri di titik maksimal"] -->|"belajar lebih banyak"| B["Lembah Keputusasaan, kepercayaan diri merosot tajam"]
+    B -->|"latihan dan studi yang tekun"| C["Lereng Pencerahan, kepercayaan diri tumbuh kembali secara realistis"]
+    C --> D["Dataran Tinggi Keberlanjutan, ahli yang sadar batas pengetahuan"]
+```
+
 *Di titik manakah kamu berada dalam keterampilan yang sedang kamu pelajari saat ini? Apakah kamu benar-benar tahu, atau kamu hanya "merasa" tahu?*
 
 ## 3\. Kisah McArthur Wheeler
@@ -6410,6 +6434,18 @@ def should_continue_project(sunk_cost, future_cost, expected_benefit):
 # Contoh kasus: Proyek aplikasi yang sudah menghabiskan 100 juta
 # Tapi butuh 50 juta lagi untuk selesai, padahal pasarnya sudah hilang (hanya bernilai 30 juta)
 print(should_continue_project(100_000_000, 50_000_000, 30_000_000))
+```
+
+Kalau kamu tidak terbiasa membaca Python, logika fungsi di atas bisa kamu ikuti lewat alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur keputusan melanjutkan atau menghentikan proyek
+    accDescr: Sunk cost diabaikan. Keuntungan bersih dihitung dari estimasi keuntungan masa depan dikurangi biaya tambahan yang dibutuhkan. Jika keuntungan bersih lebih dari nol, proyek dilanjutkan; jika tidak, proyek dihentikan.
+    A["Abaikan sunk cost (investasi yang sudah hilang)"] --> B["Hitung keuntungan bersih, yaitu estimasi keuntungan masa depan dikurangi biaya tambahan"]
+    B --> C{"Keuntungan bersih lebih dari 0?"}
+    C -->|"ya"| D["LANJUTKAN, keuntungan masa depan menutupi biaya masa depan"]
+    C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
 ```
 
 ## 5. Real-World Applications (Aplikasi Dunia Nyata)
@@ -6897,6 +6933,20 @@ def ambil_keputusan_objektif(isu, hipotesis_awal):
     return evaluasi_akhir(hipotesis_awal, kontra_argumen, data_statistik)
 ```
 
+Bagi kamu yang lebih mudah membaca gambar daripada kode, kelima langkah itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Kerangka lima langkah menuju keputusan objektif
+    accDescr: Mulai dari identifikasi potensi bias, lalu consider the opposite dengan mencari bukti berlawanan, lalu pre-mortem yang mengarah ke identifikasi risiko bila ada skenario gagal, lalu konsultasi luar dengan mencari data base rate, dan terakhir keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik.
+    A["Identifikasi potensi bias"] --> B["Consider the Opposite, cari bukti berlawanan"]
+    B --> C{"Pre-mortem, ada skenario gagal?"}
+    C -->|"ya"| R["Identifikasi risiko"]
+    C -->|"tidak"| D["Konsultasi luar (Outside View), cari data base rate"]
+    R --> D
+    D --> E["Keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik"]
+```
+
 ## 6\. Latihan Mandiri untuk Melatih Otak
 
 Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan berikut dalam 24 jam ke depan:
@@ -7019,8 +7069,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7955,8 +8005,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8846,8 +8896,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9070,6 +9120,18 @@ Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berko
 - Jika sebuah barang langka namun banyak dicari, harga akan **naik**.
 - Harga yang tinggi ini memberi sinyal kepada produsen: *"Ayo buat lebih banyak, ada peluang keuntungan di sini!"*
 - Ketika pasokan bertambah, harga perlahan akan **turun** kembali ke titik keseimbangan.
+
+Urutan sinyal harga itu bisa kamu ikuti langkah demi langkah pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Sinyal harga sebagai kompas pasar
+    accDescr: Barang yang langka namun banyak dicari membuat harga naik. Harga tinggi memberi sinyal kepada produsen bahwa ada peluang keuntungan, sehingga produsen diajak membuat lebih banyak. Ketika pasokan bertambah, harga perlahan turun kembali ke titik keseimbangan.
+    LANGKA["Barang langka namun banyak dicari"] --> NAIK["Harga naik"]
+    NAIK -->|"memberi sinyal"| SINYAL["Produsen melihat peluang keuntungan, ayo buat lebih banyak"]
+    SINYAL --> PASOK["Pasokan bertambah"]
+    PASOK -->|"perlahan"| TURUN["Harga turun kembali ke titik keseimbangan"]
+```
 
 #### B. Distribusi Sumber Daya secara Otomatis
 
@@ -9440,6 +9502,21 @@ Dalam sosiologi dan ekonomi, fenomena ini sering disebut sebagai kecenderungan "
 
 Tanpa adanya jaring pengaman sosial atau pajak progresif yang dikelola pemerintah, ketimpangan ini dapat menyebabkan **instabilitas sosial**. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas akan menurun, yang pada akhirnya dapat memicu krisis ekonomi.
 
+Bagan berikut merangkum bagaimana Efek Matius bisa berujung pada instabilitas sosial dan krisis ekonomi.
+
+```mermaid
+flowchart TD
+    accTitle: Efek Matius dan dampaknya
+    accDescr: Mereka yang memiliki modal dapat berinvestasi pada teknologi dan pendidikan yang lebih baik, sedangkan mereka yang mulai dari nol sering kali terjebak dalam upah rendah karena tidak memiliki daya tawar. Keduanya membentuk ketimpangan, yang kaya makin kaya. Tanpa jaring pengaman sosial atau pajak progresif, ketimpangan ini dapat menyebabkan instabilitas sosial. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas menurun dan pada akhirnya dapat memicu krisis ekonomi.
+    MODAL["Memiliki modal"] --> INVESTASI["Investasi pada teknologi dan pendidikan yang lebih baik"]
+    NOL["Mulai dari nol"] -->|"tanpa daya tawar"| UPAH["Sering kali terjebak dalam upah rendah"]
+    INVESTASI --> TIMPANG["Ketimpangan, yang kaya makin kaya"]
+    UPAH --> TIMPANG
+    TIMPANG -->|"tanpa jaring pengaman sosial atau pajak progresif"| INSTABIL["Instabilitas sosial"]
+    TIMPANG -->|"sebagian kecil menguasai sebagian besar sumber daya"| DAYABELI["Daya beli masyarakat luas menurun"]
+    DAYABELI -->|"pada akhirnya dapat memicu"| KRISIS["Krisis ekonomi"]
+```
+
 ## 3. Pengabaian Eksternalitas Negatif
 
 Dalam model Laissez-faire klasik, transaksi hanya melibatkan penjual dan pembeli. Sering kali ada pihak ketiga yang menanggung beban dari transaksi tersebut tanpa mendapatkan kompensasi. Inilah yang disebut sebagai **eksternalitas negatif**.
@@ -9673,6 +9750,27 @@ Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
    - **Tindakan:** Menurunkan pajak atau meningkatkan belanja infrastruktur (stimulus fiskal).
    - **Logika:** Pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli.
    - **Risiko:** Dapat menyebabkan utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
+
+Dijajarkan berdampingan, kedua jalur respons itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Respons Laissez-faire dan Keynesian terhadap resesi
+    accDescr: Saat resesi, pendekatan Laissez-faire tidak mengambil tindakan drastis dan membiarkan upah turun hingga tenaga kerja murah kembali, sehingga perusahaan mulai merekrut lagi secara alami, dengan risiko proses bertahun-tahun dan penderitaan manusia yang berat. Pendekatan Keynesian memberi stimulus fiskal berupa penurunan pajak atau belanja infrastruktur, sehingga pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli, dengan risiko utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
+    RESESI["Resesi"]
+    subgraph LF["Pendekatan Laissez-faire"]
+        L1["Tidak ada tindakan drastis"] --> L2["Upah dibiarkan turun hingga tenaga kerja murah kembali"]
+        L2 -->|"sehingga"| L3["Perusahaan mulai merekrut lagi secara alami"]
+        L2 -.->|"risiko"| L4["Memakan waktu bertahun-tahun dan menyebabkan penderitaan manusia yang berat"]
+    end
+    subgraph KY["Pendekatan Intervensionis (Keynesian)"]
+        K1["Stimulus fiskal, pajak turun atau belanja infrastruktur naik"] --> K2["Pemerintah menyuntikkan uang ke pasar"]
+        K2 -->|"untuk"| K3["Menciptakan lapangan kerja dan meningkatkan daya beli"]
+        K2 -.->|"risiko jika tidak dikelola dengan baik"| K4["Utang negara membengkak dan inflasi"]
+    end
+    RESESI --> L1
+    RESESI --> K1
+```
 
 ## 5. Model Ekonomi Campuran (Mixed Economy)
 
@@ -10054,8 +10152,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10174,6 +10272,16 @@ Kierkegaard berpendapat bahwa manusia bergerak melalui tiga tahap dalam pencaria
 2. **Tahap Etis**: Mulai hidup dengan berpegang pada moralitas, kewajiban, dan tanggung jawab sosial, seperti berkomitmen dalam keluarga atau masyarakat.
 3. **Tahap Religius**: Hubungan langsung antara individu dan Tuhan melalui **"Loncatan Iman" (Leap of Faith)**. Langkah ini melampaui logika rasional demi keyakinan personal yang mendalam.
 
+Kalau ketiga tahap itu kamu baca sebagai satu perjalanan, urutannya seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga tahap eksistensi menurut Kierkegaard
+    accDescr: Dalam pencarian makna, manusia bergerak dari tahap estetik yang mengejar kesenangan dan variasi, ke tahap etis yang berpegang pada moralitas dan kewajiban, lalu ke tahap religius, yaitu hubungan langsung dengan Tuhan melalui loncatan iman.
+    A["Tahap Estetik, kesenangan dan variasi"] --> B["Tahap Etis, moralitas dan kewajiban"]
+    B --> C["Tahap Religius, Loncatan Iman"]
+```
+
 ### Kebenaran adalah Subjektivitas
 
 Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika $2 + 2 = 4$. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
@@ -10230,18 +10338,22 @@ Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 
 ## Ringkasan Visual
 
-```
-AKAR EKSISTENSIALISME
-│
-├── S. Kierkegaard (Religius)
-│   ├── Kecemasan = Pintu Kebebasan
-│   ├── Loncatan Iman = Solusi Absurditas
-│   └── "Kebenaran adalah Subjektivitas"
-│
-└── F. Nietzsche (Sekuler)
-    ├── Kematian Tuhan = Runtuhnya Nilai Lama
-    ├── Nihilisme = Tantangan yang Harus Diatasi
-    └── Ubermensch = Pencipta Makna Baru
+Kedua akar eksistensialisme dalam bab ini bisa kamu rangkum menjadi dua cabang berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Akar eksistensialisme dari Kierkegaard dan Nietzsche
+    accDescr: Akar eksistensialisme bercabang dua. Cabang Kierkegaard yang religius memuat kecemasan sebagai pintu kebebasan, loncatan iman sebagai solusi absurditas, dan kebenaran adalah subjektivitas. Cabang Nietzsche yang sekuler memuat kematian Tuhan sebagai runtuhnya nilai lama, nihilisme sebagai tantangan yang harus diatasi, dan Ubermensch sebagai pencipta makna baru.
+    K["S. Kierkegaard (Religius)"]
+    N["F. Nietzsche (Sekuler)"]
+    K --> K1["Kecemasan = Pintu Kebebasan"]
+    K --> K2["Loncatan Iman = Solusi Absurditas"]
+    K --> K3["“Kebenaran adalah Subjektivitas”"]
+    N --> N1["Kematian Tuhan = Runtuhnya Nilai Lama"]
+    N --> N2["Nihilisme = Tantangan yang Harus Diatasi"]
+    N --> N3["Ubermensch = Pencipta Makna Baru"]
+    K1 ~~~ K2 ~~~ K3
+    N1 ~~~ N2 ~~~ N3
 ```
 
 
@@ -10299,6 +10411,20 @@ Ini adalah kondisi di mana seseorang mencoba "melarikan diri" dari absurditas de
 Inilah jalan sang pahlawan. Kita mengakui bahwa hidup ini tidak memiliki makna yang melekat (inheren), namun kita tetap memilih untuk hidup dengan penuh semangat.
 
 > **Insight:** "Satu-satunya cara untuk berurusan dengan dunia yang tidak bebas adalah dengan menjadi sangat bebas sehingga keberadaanmu sendiri merupakan tindakan pemberontakan." - Albert Camus.
+
+Ketiga jalan itu, beserta sikap Camus terhadap masing-masing, bisa kamu lihat sekaligus di sini.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga respons terhadap absurditas menurut Camus
+    accDescr: Saat seseorang menyadari hidup ini absurd, ada tiga jalan. Bunuh diri fisik ditolak Camus sebagai kekalahan total. Bunuh diri filosofis melarikan diri lewat loncatan keyakinan dan berhenti memakai akal sehat. Pemberontakan adalah jalan sang pahlawan yang tetap memilih hidup dengan penuh semangat.
+    A["Menyadari hidup ini absurd"] --> B["Bunuh Diri Fisik"]
+    A --> C["Bunuh Diri Filosofis"]
+    A --> D["Memberontak"]
+    B --> B2["Ditolak Camus sebagai kekalahan total"]
+    C --> C2["Melarikan diri lewat Loncatan Keyakinan dan berhenti memakai akal sehat"]
+    D --> D2["Jalan sang pahlawan, tetap memilih hidup dengan penuh semangat"]
+```
 
 ## 4\. Cara Menghadapi Absurditas dalam Praktik
 
@@ -11086,8 +11212,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -12923,8 +13049,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14054,8 +14180,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15211,8 +15337,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16476,8 +16602,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17342,8 +17468,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17889,6 +18015,24 @@ Kernel menjalankan tugas yang diminta (misalnya, membaca data dari disk).
 
 Setelah selesai, kernel menempatkan nilai kembalian (return value) ke register, lalu mengeksekusi instruksi untuk kembali ke User Mode dan melanjutkan eksekusi program pengguna.
 
+Kelima langkah itu sebenarnya satu perjalanan bolak-balik antara aplikasi dan kernel, yang bisa kamu ikuti di bawah ini.
+
+```mermaid
+sequenceDiagram
+    accTitle: Perjalanan sebuah system call
+    accDescr: Aplikasi di User Mode menempatkan argumen dan nomor ID system call di register, lalu mengeksekusi instruksi syscall atau int 0x80 sehingga CPU beralih ke Kernel Mode. Kernel memakai nomor ID itu untuk mencari alamat fungsi yang sesuai di System Call Table, menjalankan tugas yang diminta, lalu menempatkan nilai kembalian di register dan kembali ke User Mode sehingga program pengguna berlanjut.
+    participant A as Aplikasi (User Mode)
+    participant K as Kernel (Kernel Mode)
+    participant T as System Call Table
+    Note over A: Argumen dan nomor ID ditaruh di register
+    A->>K: Instruksi syscall (x86_64) atau int 0x80 (x86 lama)
+    K->>T: Cari alamat fungsi dengan nomor ID
+    T-->>K: Alamat fungsi yang sesuai
+    Note over K: Menjalankan tugas yang diminta
+    K-->>A: Nilai kembalian di register, kembali ke User Mode
+    Note over A: Program pengguna berlanjut
+```
+
 ## Standard Library vs System Call
 
 Hampir tidak ada programmer yang menulis instruksi `syscall` secara manual dalam bahasa Assembly. Sebaliknya, kita menggunakan **Standard C Library (glibc)**.
@@ -18347,6 +18491,29 @@ Mari kita lihat skenario dunia nyata: **Menyimpan dokumen ke USB Drive.**
 3. **Block Layer:** Kernel mengatur antrean penulisan agar efisien, misalnya menghindari gerakan berlebih pada *head* mekanis piringan hard disk.
 4. **Block Driver:** Driver *USB storage* menerima perintah untuk menulis data sejumlah 4096 byte ke sektor tertentu.
 5. **Hardware:** Driver mengirimkan sinyal elektrik melalui bus USB ke pengontrol fisik di flash drive hingga data berhasil disimpan.
+
+Satu perintah simpan itu melintasi tiga wilayah, dari aplikasi di user space sampai pengontrol di flash drive.
+
+```mermaid
+flowchart TD
+    accTitle: Perjalanan write() dari aplikasi ke USB drive
+    accDescr: Di user space, aplikasi memanggil write() pada file di USB drive. Di kernel space, VFS mendeteksi bahwa file berada di file system FAT32 pada block device, block layer mengatur antrean penulisan, lalu driver USB storage menerima perintah menulis 4096 byte ke sektor tertentu. Driver mengirim sinyal elektrik melalui bus USB ke pengontrol fisik di flash drive hingga data tersimpan.
+    subgraph us["User Space"]
+        A["Aplikasi memanggil write() pada file di USB drive"]
+    end
+    subgraph ks["Kernel Space"]
+        B["VFS mendeteksi file FAT32 pada block device"]
+        C["Block layer mengatur antrean penulisan"]
+        D["Driver USB storage menerima perintah menulis 4096 byte ke sektor tertentu"]
+    end
+    subgraph hw["Hardware"]
+        E["Pengontrol fisik di flash drive menyimpan data"]
+    end
+    A --> B
+    B --> C
+    C --> D
+    D -->|"sinyal elektrik lewat bus USB"| E
+```
 
 ## 6. Kasus Penggunaan Dunia Nyata
 
@@ -18857,6 +19024,21 @@ ps -p 1 -o comm=
 7. **Eksekusi init**: Kernel menjalankan program `/sbin/init` sebagai PID 1.
 8. Layanan sistem lainnya (jaringan, GUI, daemon) mulai dijalankan oleh PID 1 di tingkat user space.
 
+Kalau kedelapan langkah itu kamu susun dari atas ke bawah, urutannya tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Alur ringkas proses booting Linux
+    accDescr: BIOS atau UEFI menjalankan POST, GRUB memuat kernel dan initramfs ke RAM, kernel membongkar dirinya sendiri di RAM, start_kernel() mengaktifkan alokasi memori, scheduler, CPU, dan interrupt handler, kernel membaca modul driver esensial dari initramfs, sistem beralih ke root file system di disk, kernel menjalankan /sbin/init sebagai PID 1, lalu PID 1 menjalankan layanan sistem di user space.
+    A["BIOS/UEFI menjalankan POST"] --> B["GRUB memuat kernel dan initramfs ke RAM"]
+    B --> C["Kernel membongkar dirinya sendiri di RAM"]
+    C --> D["start_kernel() mengaktifkan alokasi memori, scheduler, CPU, dan interrupt handler"]
+    D --> E["Kernel membaca modul driver esensial dari initramfs"]
+    E --> F["Sistem beralih ke root file system di disk"]
+    F --> G["Kernel menjalankan /sbin/init sebagai PID 1"]
+    G --> H["PID 1 menjalankan layanan sistem (jaringan, GUI, daemon) di user space"]
+```
+
 ## Kernel Panic
 
 Apabila salah satu tahapan di atas gagal (misalnya karena kernel tidak mendeteksi root partition atau berkas init mengalami kerusakan), sistem tidak dapat melanjutkan proses.
@@ -18945,8 +19127,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20051,8 +20233,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21121,8 +21303,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22028,8 +22210,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23213,8 +23395,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24398,8 +24580,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25448,8 +25630,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26618,8 +26800,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26918,6 +27100,20 @@ Sikap otentik yang diajukan oleh Camus, yakni memelihara ketegangan absurd tanpa
 - Menolak pelarian diri melalui bunuh diri fisik maupun ilusi transendensi.
 - Memilih untuk terus hidup, berkarya, dan mengartikulasikan kebebasan secara intensif.
 
+Ketiga sikap itu bisa kamu bandingkan sekaligus dalam bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga respons terhadap absurditas menurut Camus
+    accDescr: Dari realitas absurd, manusia dapat mengakhiri hidup jasmani lewat bunuh diri fisik, memaksakan makna transenden buatan lewat bunuh diri filosofis, atau memelihara ketegangan absurd lewat pemberontakan eksistensial. Dua respons pertama ditolak Camus sebagai pelarian diri, sedangkan pemberontakan adalah sikap otentik yang ia ajukan.
+    A0["Realitas absurd"] -->|"mengakhiri hidup jasmani"| A1["Bunuh diri fisik"]
+    A0 -->|"memaksakan makna buatan"| A2["Bunuh diri filosofis"]
+    A0 -->|"memelihara ketegangan"| A3["Memberontak secara eksistensial"]
+    A1 --> T["Ditolak sebagai pelarian diri"]
+    A2 --> T
+    A3 --> S["Sikap otentik yang diajukan Camus"]
+```
+
 ### 4. Tiga Pilar Pahlawan Absurd
 
 Aktualisasi pemberontakan dalam praksis kehidupan ditopang oleh tiga pilar utama:
@@ -27206,6 +27402,16 @@ Dalam *Thus Spoke Zarathustra*, Nietzsche memetakan proses dialektika evolusi sp
 | **Anak Kecil (*Das Kind*)** | *"Sebuah Roda Berputar"* | Mewakili permulaan baru, kepolosan, afirmasi hidup, dan kreativitas murni. | Tahap kreasi nilai baru tanpa dendam eksistensial (*ressentiment*). |
 
 Kemandirian sejati tercapai tatkala subjek mampu melampaui fase kepatuhan (Unta) dan negasi pemberontakan (Singa) menuju afirmasi penciptaan yang riang gembira (Anak Kecil).
+
+Urutan ketiga transformasi itu bisa kamu ikuti dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga transformasi roh menurut Nietzsche
+    accDescr: Roh bergerak dari Unta dengan imperatif Engkau Harus, melampaui fase kepatuhan menuju Singa dengan imperatif Aku Berkehendak, lalu melampaui negasi pemberontakan menuju Anak Kecil dengan Sebuah Roda Berputar, tahap afirmasi penciptaan.
+    R1["Unta, “Engkau Harus”"] -->|"melampaui fase kepatuhan"| R2["Singa, “Aku Berkehendak”"]
+    R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Sebuah Roda Berputar”"]
+```
 
 ### 4. *Übermensch* dan Pemodelan Pertumbuhan Eksistensial
 
@@ -27548,8 +27754,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29254,8 +29460,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30368,8 +30574,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31586,8 +31792,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32781,8 +32987,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33862,8 +34068,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34833,8 +35039,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35493,8 +35699,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36786,8 +36992,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37706,8 +37912,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38867,8 +39073,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40155,8 +40361,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41520,8 +41726,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41697,6 +41903,16 @@ Teknik ini membuat pembaca tetap terikat untuk terus membaca buku ini. Dengan me
 ### Memetakan Garis Alur Maju-Mundur
 
 Ketika kita menganalisis alur campuran pada bab pertama novel, kita dapat memetakan garis naratif yang melompat secara dinamis antara New York di masa kini dan Batu di masa lalu. Lompatan alur ini tidak acak, melainkan digerakkan oleh asosiasi emosional tokoh utama. Misalnya, ketika tokoh ''Aku'' menatap salju yang turun di New York, memori sensoriknya langsung memicu kilas balik (*flashback*) ke kabut pegunungan Kota Batu di masa kecilnya. Perpindahan alur ini secara estetis berhasil memindahkan pembaca dari atmosfer kesepian profesional di New York menuju kehangatan nostalgia di Batu secara instan.
+
+Gerak maju-mundur itu bisa kamu lihat sebagai satu putaran pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Alur campuran antara New York dan Batu
+    accDescr: Cerita dimulai dari keberhasilan di New York pada masa kini, lalu ditarik mundur ke masa kecil Iwan di Batu lewat kilas balik yang digerakkan asosiasi emosional, misalnya salju di New York yang memicu ingatan akan kabut pegunungan Kota Batu, kemudian bergerak maju lewat proses anak sopir angkot sampai ke titik saat ini.
+    NY["Keberhasilan di New York, masa kini"] -->|"alur mundur, kilas balik lewat asosiasi emosional"| BATU["Masa kecil Iwan di Batu, masa lalu"]
+    BATU -->|"alur maju, proses anak sopir angkot"| NY
+```
 
 ### Memahami Sang Pelaku Cerita
 
@@ -41993,6 +42209,17 @@ Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan
 
 > “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
 
+Tiga tahun yang muncul dalam kutipan-kutipan tadi bisa kamu urutkan menjadi satu garis waktu.
+
+```mermaid
+timeline
+    accTitle: Tonggak hidup keluarga dalam kutipan bab ini
+    accDescr: Tahun 1969 Bapak mendapatkan Surat Izin Mengemudi setelah empat-lima tahun menjadi kenek dan mulai bekerja sebagai sopir angkot. Tahun 1976 rumah kecil keluarga dibangun di atas tanah seluas 7 x 6 meter. Tahun 1980 Bapak membeli mobil bekas seharga sekitar dua juta berkat tabungan berpuluh-puluh tahun, sehingga tak lagi harus menyetorkan sebagian uang hasil kerjanya ke juragannya.
+    1969 : Bapak mendapat Surat Izin Mengemudi setelah empat-lima tahun menjadi kenek : Mulai bekerja sebagai sopir angkot
+    1976 : Rumah kecil dibangun di atas tanah seluas 7 x 6 meter
+    1980 : Bapak membeli mobil bekas seharga sekitar dua juta : Tak lagi menyetor ke juragan
+```
+
 ### Sinergi Ketangguhan Bapak dan Manajemen Ibu
 
 Studi komparatif terhadap watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan mental bapak dan disiplin administratif ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk fondasi etos kerja profesionalnya yang sukses menembus dunia korporasi global di New York.
@@ -42031,6 +42258,17 @@ Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartednes
 ### Rantai Motivasi dan Tanggung Jawab Moral
 
 Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
+
+Dari atas ke bawah, rantai itu berjalan seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Rantai motivasi dan tanggung jawab moral dalam keluarga Iwan
+    accDescr: Kepintaran akademis alami Mbak Isa, kakak tertua, menjadi mercusuar inspirasi bagi Iwan kecil. Tanggung jawab Iwan sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral untuk segera sukses secara finansial, agar dapat membantu adik-adiknya, Rini dan Mira.
+    ISA["Kepintaran akademis alami Mbak Isa, kakak tertua"] -->|"mercusuar inspirasi"| IWAN["Iwan kecil, satu-satunya anak laki-laki"]
+    IWAN -->|"tanggung jawab melahirkan"| MORAL["Kesadaran moral untuk segera sukses secara finansial"]
+    MORAL -->|"agar dapat membantu"| ADIK["Adik-adiknya, Rini dan Mira"]
+```
 
 ### Hangatnya Rumah Mungil 6x7 Meter
 
@@ -42135,8 +42373,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43342,8 +43580,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44388,8 +44626,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45015,8 +45253,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46286,8 +46524,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46442,6 +46680,18 @@ Mari kita lihat bagaimana teori-teori di atas bekerja dalam skenario nyata:
 3. **Hadiah Variabel (Variable Reward):** Kamu melakukan *pull-to-refresh*. Foto pertama biasa saja, foto kedua adalah iklan, tapi foto ketiga adalah foto mantanmu yang baru saja bertunangan. **BOOM!** Dopamin melonjak. Kamu terpaku untuk mencari tahu lebih lanjut.
 4. **Investasi (Investment):** Kamu memberikan *like* or menulis komentar. Sekarang kamu telah "menanam saham" dan akan terus kembali untuk melihat apakah ada orang yang membalas komentarmu.
 
+Kalau digambar, keempat langkah itu membentuk lingkaran yang membuatmu terus kembali.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus sebuah sesi media sosial
+    accDescr: Pemicu berupa rasa bosan atau stres mendorong tindakan membuka Instagram, lalu hadiah variabel dari pull-to-refresh membuat dopamin melonjak, lalu investasi berupa like atau komentar membuatmu terus kembali ke aplikasi untuk melihat balasan komentar.
+    P["Pemicu: bosan atau stres"] --> T["Tindakan: membuka Instagram"]
+    T --> H["Hadiah variabel: pull-to-refresh, dopamin melonjak"]
+    H --> I["Investasi: memberi like atau menulis komentar"]
+    I -->|"terus kembali melihat balasan komentar"| T
+```
+
 ### Perbandingan Efek Psikologis
 
 | Fitur | Mekanisme Psikologi | Dampak pada Pengguna |
@@ -46583,6 +46833,26 @@ $$
 $$
 
 Pastikan setiap aplikasi yang akan dipakai lagi memenuhi tiga syarat berikut. Pertama, aplikasi tersebut harus mendukung sesuatu yang sangat kamu hargai. Kedua, ia menjadi cara paling optimal untuk mendukung hal tersebut (sebagai contoh, menelepon langsung kawan lama lebih berharga daripada sekadar melihat *update* fotonya di Instagram). Terakhir, kamu harus tahu persis aturan main dalam menggunakannya agar tidak menjadi sumber distraksi baru, misalnya membatasi akses LinkedIn hanya lewat browser laptop.
+
+Seluruh metode ini, dari aturan main sampai penyaringan, bisa kamu lihat dalam satu alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur metode Digital Declutter
+    accDescr: Pertama tentukan aturan main, yaitu teknologi yang bila dihentikan mengganggu pekerjaan harian atau fungsi dasar kehidupan pribadi tetap digunakan dan sisanya opsional. Teknologi opsional dihentikan selama masa puasa 30 hari. Setelah itu setiap aplikasi disaring kembali dengan tiga syarat dan baru dipakai lagi bila lolos ketiganya.
+    A["Menentukan aturan main"] --> B{"Bila dihentikan, mengganggu pekerjaan harian atau fungsi dasar kehidupan pribadi?"}
+    B -->|"Ya"| C["Tetap digunakan"]
+    B -->|"Tidak"| D["Opsional"]
+    D --> E["Masa puasa 30 hari"]
+    E --> F["Menyaring kembali teknologi"]
+    F --> G{"Mendukung sesuatu yang sangat kamu hargai?"}
+    G -->|"Ya"| H{"Cara paling optimal untuk mendukung hal itu?"}
+    H -->|"Ya"| J{"Tahu persis aturan main dalam memakainya?"}
+    J -->|"Ya"| K["Dipakai lagi"]
+    G -->|"Tidak"| L["Tidak diaktifkan kembali"]
+    H -->|"Tidak"| L
+    J -->|"Tidak"| L
+```
 
 ## Mengisi Kekosongan
 
@@ -47149,8 +47419,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47941,8 +48211,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48993,8 +49263,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50423,8 +50693,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -52065,8 +52335,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53517,8 +53787,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54569,8 +54839,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55906,8 +56176,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57195,8 +57465,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58411,8 +58681,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59666,8 +59936,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60221,6 +60491,23 @@ $$
 $$
 </div>
 
+Kalau digambar sebagai lapisan dari mikro ke makro, ketiga dimensi itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Model tiga dimensi Norman Fairclough
+    accDescr: Teks pada level mikro dianalisis lewat deskripsi, praktik diskursif pada level meso mencakup produksi dan konsumsi teks dan dianalisis lewat interpretasi, praktik sosial-budaya pada level makro berkaitan dengan kekuasaan dan ideologi dan dianalisis lewat eksplanasi.
+    subgraph makro["Praktik Sosial-Budaya (makro)"]
+        M["Kekuasaan dan ideologi, dianalisis lewat eksplanasi"]
+        subgraph meso["Praktik Diskursif (meso)"]
+            P["Produksi dan konsumsi teks, dianalisis lewat interpretasi"]
+            subgraph mikro["Teks (mikro)"]
+                T["Kosakata, tata bahasa, modalitas, dianalisis lewat deskripsi"]
+            end
+        end
+    end
+```
+
 ### Latihan Analisis Kritis
 
 Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), perhatikan bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
@@ -60748,6 +61035,17 @@ Istilah **Kepanikan Moral** (*Moral Panic*) pertama kali dipopulerkan oleh sosio
 2. **Eksagerasi dan Distorsi**: Penggunaan kata-kata hiperbolis seperti "serangan", "wabah kejahatan", atau "krisis nasional".
 3. **Prediksi Eskalatif**: Narasi implisit maupun eksplisit bahwa jika fenomena ini tidak dihentikan segera, tatanan masyarakat akan runtuh.
 4. **Simbolisasi**: Objek, atribut, atau gaya hidup tertentu (seperti tato, pakaian tertentu, atau gaya berkumpul) dijadikan simbol utama kejahatan.
+
+Urutan keempat tahapan itu bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Tahapan konstruksi kepanikan moral dalam wacana
+    accDescr: Empat tahapan berurutan, yaitu identifikasi folk devils, eksagerasi dan distorsi, prediksi eskalatif, lalu simbolisasi.
+    A["Identifikasi folk devils"] --> B["Eksagerasi dan distorsi"]
+    B --> C["Prediksi eskalatif"]
+    C --> D["Simbolisasi"]
+```
 
 #### Formula Matematika Ketakutan Publik
 
@@ -61696,8 +61994,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61947,6 +62245,21 @@ Kondisi ekstrem lainnya di mana pada tingkat harga tertentu, konsumen bersedia m
 | **Unitary** | $|\text{E}_d| = 1$ | Perubahan proporsional | Melengkung (*Hyperbola*) |
 | **Inelastis Sempurna** | $|\text{E}_d| = 0$ | Tidak ada respon | Vertikal |
 | **Elastis Sempurna** | $|\text{E}_d| = \infty$ | Respon tak terhingga | Horizontal |
+
+Dari nilai koefisien yang kamu hitung, diagram berikut menunjukkan ke kelas mana sebuah barang masuk.
+
+```mermaid
+flowchart LR
+    accTitle: Menentukan derajat elastisitas permintaan dari nilai koefisien
+    accDescr: Nilai mutlak koefisien elastisitas permintaan menentukan kelasnya. Nilai 0 berarti inelastis sempurna dengan kurva vertikal. Nilai kurang dari 1 berarti inelastis dengan kurva curam. Nilai sama dengan 1 berarti unitary dengan kurva melengkung atau hyperbola. Nilai lebih dari 1 berarti elastis dengan kurva landai. Nilai tak terhingga berarti elastis sempurna dengan kurva horizontal.
+    D{"Nilai koefisien |E_d|"}
+    D -->|"sama dengan 0"| K1["Inelastis Sempurna, kurva vertikal"]
+    D -->|"kurang dari 1"| K2["Inelastis, kurva curam"]
+    D -->|"sama dengan 1"| K3["Unitary, kurva hyperbola"]
+    D -->|"lebih dari 1"| K4["Elastis, kurva landai"]
+    D -->|"tak terhingga"| K5["Elastis Sempurna, kurva horizontal"]
+```
+
 ### Strategi Diskon
 Mengapa toko baju (fashion) sering memberikan diskon besar-besaran (misalnya 70%), sedangkan perusahaan listrik (PLN) atau penyedia air minum (PDAM) hampir tidak pernah melakukannya?
 1. **Industri Fashion (Elastis):** Pakaian memiliki banyak substitusi dan model yang cepat berganti. Dengan menurunkan harga sedikit (diskon), jumlah pembeli akan melonjak drastis ($|\text{E}_d| > 1$), sehingga total keuntungan meningkat karena volume penjualan yang masif.
@@ -62055,6 +62368,16 @@ Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena y
    $$
    \text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1
    $$
+
+Urutan wilayah kurva itu saat harga terus diturunkan bisa kamu lihat pada diagram berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Wilayah kurva Total Revenue saat harga diturunkan
+    accDescr: Kurva Total Revenue berbentuk U terbalik. Saat harga masih tinggi, permintaan berada di wilayah elastis dan menurunkan harga meningkatkan TR. TR mencapai titik puncak atau maksimum ketika elastisitas permintaan sama dengan satu. Setelah melewati titik puncak, harga yang terus diturunkan membawa permintaan ke wilayah inelastis dan justru mengurangi TR.
+    A["Harga tinggi, wilayah elastis"] -->|"harga turun, TR naik"| B["Titik puncak, E_d sama dengan 1, TR maksimum"]
+    B -->|"harga terus turun, TR turun"| C["Wilayah inelastis"]
+```
 
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
 #### Industri Maskapai Penerbangan
@@ -62198,6 +62521,21 @@ Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk indus
 - **Pilih Metode:** Gunakan persentase untuk perubahan kecil, gunakan nilai tengah untuk analisis yang lebih formal.
 - **Hitung & Evaluasi:** Peroleh angka koefisien.
 - **Ambil Keputusan:** Gunakan angka tersebut untuk menentukan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
+
+Keempat langkah itu, termasuk cabang pemilihan metodenya, tergambar dalam alur di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Alur kerja analisis elastisitas penawaran
+    accDescr: Langkah pertama adalah mengidentifikasi harga dan kuantitas sebelum dan sesudah perubahan. Lalu pilih metode, yaitu metode persentase untuk perubahan kecil atau metode nilai tengah untuk analisis yang lebih formal. Keduanya bermuara pada penghitungan dan evaluasi angka koefisien, yang kemudian dipakai untuk memutuskan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
+    S1["Identifikasi harga dan kuantitas sebelum dan sesudah"] --> S2{"Pilih metode"}
+    S2 -->|"perubahan kecil"| M1["Metode persentase"]
+    S2 -->|"analisis lebih formal"| M2["Metode nilai tengah"]
+    M1 --> S3["Hitung dan evaluasi angka koefisien"]
+    M2 --> S3
+    S3 --> S4["Putuskan perlu tidaknya menambah kapasitas gudang atau tenaga kerja"]
+```
+
 > **Insight Penutup:** Angka elastisitas penawaran adalah "radar" bagi manajer operasional. Semakin tinggi angkanya, semakin lincah perusahaan kamu berdansa dengan fluktuasi harga pasar.
 
 
@@ -62417,8 +62755,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63195,8 +63533,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64547,8 +64885,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65261,8 +65599,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66483,8 +66821,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-15T22:59:47.368Z',
-  '2026-10-15T22:59:47.368Z'
+  '2026-10-15T23:37:07.851Z',
+  '2026-10-15T23:37:07.851Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

@@ -1,0 +1,5 @@
+03_konsep-the-invisible-hand.md: opener's first sentence would be truncated in the meta description
+07_kritik-terhadap-sistem-laissez-faire.md: opener's first sentence would be truncated in the meta description
+12_masa-depan-dan-kesimpulan.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 06_mekanisme-persaingan-dan-efisiensi-pasar.md, 09_perbandingan-laissez-faire-vs-intervensionisme.md
+ekonomi-laissez-faire: 13 chapters, 4 problems

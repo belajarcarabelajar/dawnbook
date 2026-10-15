@@ -1,0 +1,4 @@
+03_kajian-strukturalisme-dan-tema-novel-9-summers-10-autumns.md: opener's first sentence would be truncated in the meta description
+14_kajian-ekspresif-pengaruh-latar-akademik-terhadap-gaya-penulisan.md: opener's first sentence would be truncated in the meta description
+15_kesimpulan-saran-dan-referensi-ilmiah.md: opener's first sentence would be truncated in the meta description
+analisis-ekspresif-9-summers-10-autumns: 15 chapters, 3 problems

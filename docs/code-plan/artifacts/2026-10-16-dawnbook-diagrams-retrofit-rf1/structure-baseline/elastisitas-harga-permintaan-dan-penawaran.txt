@@ -1,0 +1,9 @@
+03_metode-penghitungan-dan-rumus-elastisitas-permintaan.md: opener's first sentence would be truncated in the meta description
+04_klasifikasi-dan-derajat-elastisitas-permintaan.md: opener's first sentence would be truncated in the meta description
+05_determinan-yang-mempengaruhi-elastisitas-permintaan.md: opener's first sentence would be truncated in the meta description
+06_hubungan-elastisitas-permintaan-dengan-total-penerimaan.md: opener's first sentence would be truncated in the meta description
+07_konsep-dasar-elastisitas-harga-penawaran.md: first heading "Konsep Dasar Elastisitas Harga Penawaran (Price Elasticity of Supply)" differs from SUMMARY title "Konsep Dasar Elastisitas Harga Penawaran"
+08_teknik-penghitungan-koefisien-elastisitas-penawaran.md: opener's first sentence would be truncated in the meta description
+10_faktor-faktor-penentu-elastisitas-penawaran.md: opener's first sentence would be truncated in the meta description
+12_referensi.md: opener's first sentence would be truncated in the meta description
+elastisitas-harga-permintaan-dan-penawaran: 12 chapters, 8 problems

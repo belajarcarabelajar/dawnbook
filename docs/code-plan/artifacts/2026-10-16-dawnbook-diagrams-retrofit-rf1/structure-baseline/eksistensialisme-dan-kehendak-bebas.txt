@@ -1,0 +1,7 @@
+01_dasar-dasar-eksistensialisme.md: opener's first sentence would be truncated in the meta description
+03_hakikat-kehendak-bebas-kemudi-di-tengah-samudra-eksistensi.md: opener's first sentence would be truncated in the meta description
+06_otentisitas-vs-iktikad-buruk-menjadi-sutradara-atas-hidup-sendiri.md: opener's first sentence would be truncated in the meta description
+07_filosofi-raja-bajak-laut-kebebasan-tanpa-batas.md: opener's first sentence would be truncated in the meta description
+08_kehendak-untuk-berkuasa-dan-menaklukkan-diri.md: opener's first sentence would be truncated in the meta description
+10_menciptakan-makna-di-tengah-ketidakpastian.md: opener's first sentence would be truncated in the meta description
+eksistensialisme-dan-kehendak-bebas: 13 chapters, 6 problems
