@@ -75,7 +75,7 @@ Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk indus
 - **Hitung & Evaluasi:** Peroleh angka koefisien.
 - **Ambil Keputusan:** Gunakan angka tersebut untuk menentukan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
 
-Empat langkah itu, termasuk cabang pemilihan metodenya, bisa kamu ikuti pada diagram berikut.
+Keempat langkah itu, termasuk cabang pemilihan metodenya, tergambar dalam alur di bawah ini.
 
 ```mermaid
 flowchart TD
@@ -86,7 +86,7 @@ flowchart TD
     S2 -->|"analisis lebih formal"| M2["Metode nilai tengah"]
     M1 --> S3["Hitung dan evaluasi angka koefisien"]
     M2 --> S3
-    S3 --> S4["Putuskan tambah kapasitas gudang atau rekrut tenaga kerja"]
+    S3 --> S4["Putuskan perlu tidaknya menambah kapasitas gudang atau tenaga kerja"]
 ```
 
 > **Insight Penutup:** Angka elastisitas penawaran adalah "radar" bagi manajer operasional. Semakin tinggi angkanya, semakin lincah perusahaan kamu berdansa dengan fluktuasi harga pasar.

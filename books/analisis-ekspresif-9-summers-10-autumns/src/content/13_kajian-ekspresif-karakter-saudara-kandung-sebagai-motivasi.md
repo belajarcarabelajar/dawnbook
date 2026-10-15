@@ -26,7 +26,7 @@ Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartednes
 
 Analisis terhadap hubungan persaudaraan dalam keluarga Iwan menyingkap struktur rantai motivasi yang saling menguatkan. Kepintaran akademis alami Mbak Isa (kakak tertua) menjadi mercusuar inspirasi bagi Iwan kecil, sementara tanggung jawabnya sebagai satu-satunya anak laki-laki di keluarga melahirkan kesadaran moral yang kuat untuk segera sukses secara finansial agar dapat membantu adik-adiknya (Rini dan Mira). Hubungan erat ini mengekspresikan cinta kasih tanpa syarat (*unconditional love*) sebagai kompensasi atas keterbatasan ekonomi mereka.
 
-Rantai itu bisa kamu telusuri dari atas ke bawah pada bagan berikut.
+Dari atas ke bawah, rantai itu berjalan seperti ini.
 
 ```mermaid
 flowchart TD

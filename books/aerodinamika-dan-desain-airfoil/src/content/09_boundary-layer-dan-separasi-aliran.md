@@ -73,7 +73,7 @@ Untuk mempertahankan gaya angkat aerodinamis yang optimal, aliran udara idealnya
 3. **Pelemahan Energi Kinetik:** Partikel fluida di dekat dinding telah kehilangan sebagian besar energi kinetiknya akibat disipasi viskos. Gaya dorong sisa tidak lagi mencukupi untuk mengatasi peningkatan tekanan balik.
 4. **Titik Separasi (*Separation Point*):** Kecepatan aliran di dekat dinding melambat hingga mencapai nol ($\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$), lalu berbalik arah membentuk pusaran resirkulasi (*reverse flow*). Titik saat gradien kecepatan di dinding bernilai nol ini dinamakan titik separasi.
 
-Lewat diagram berikut, kamu bisa melihat keempat tahapan itu menurut daerahnya pada airfoil.
+Keempat tahapan itu terbagi ke dua daerah airfoil, yaitu bagian depan dan bagian setelah titik ketebalan maksimum.
 
 ```mermaid
 flowchart TD

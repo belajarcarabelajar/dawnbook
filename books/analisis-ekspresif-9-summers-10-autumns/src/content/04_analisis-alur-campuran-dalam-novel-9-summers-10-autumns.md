@@ -21,8 +21,8 @@ Gerak maju-mundur itu bisa kamu lihat sebagai satu putaran pada bagan berikut.
 ```mermaid
 flowchart LR
     accTitle: Alur campuran antara New York dan Batu
-    accDescr: Cerita dimulai dari keberhasilan di New York pada masa kini, lalu ditarik mundur ke masa kecil Iwan di Batu ketika salju di New York memicu kilas balik ke kabut pegunungan Kota Batu, kemudian bergerak maju lewat proses anak sopir angkot sampai ke titik saat ini.
-    NY["Keberhasilan di New York, masa kini"] -->|"alur mundur, salju memicu kilas balik"| BATU["Masa kecil Iwan di Batu, masa lalu"]
+    accDescr: Cerita dimulai dari keberhasilan di New York pada masa kini, lalu ditarik mundur ke masa kecil Iwan di Batu lewat kilas balik yang digerakkan asosiasi emosional, misalnya salju di New York yang memicu ingatan akan kabut pegunungan Kota Batu, kemudian bergerak maju lewat proses anak sopir angkot sampai ke titik saat ini.
+    NY["Keberhasilan di New York, masa kini"] -->|"alur mundur, kilas balik lewat asosiasi emosional"| BATU["Masa kecil Iwan di Batu, masa lalu"]
     BATU -->|"alur maju, proses anak sopir angkot"| NY
 ```
 

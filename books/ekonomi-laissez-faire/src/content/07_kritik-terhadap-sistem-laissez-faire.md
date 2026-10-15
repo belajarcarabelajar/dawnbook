@@ -38,9 +38,9 @@ Bagan berikut merangkum bagaimana Efek Matius bisa berujung pada instabilitas so
 ```mermaid
 flowchart TD
     accTitle: Efek Matius dan dampaknya
-    accDescr: Mereka yang memiliki modal dapat berinvestasi pada teknologi dan pendidikan yang lebih baik, sedangkan mereka yang mulai dari nol terjebak dalam upah rendah karena tidak memiliki daya tawar. Keduanya membentuk ketimpangan, yang kaya makin kaya. Tanpa jaring pengaman sosial atau pajak progresif, ketimpangan ini dapat menyebabkan instabilitas sosial. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas menurun dan pada akhirnya dapat memicu krisis ekonomi.
+    accDescr: Mereka yang memiliki modal dapat berinvestasi pada teknologi dan pendidikan yang lebih baik, sedangkan mereka yang mulai dari nol sering kali terjebak dalam upah rendah karena tidak memiliki daya tawar. Keduanya membentuk ketimpangan, yang kaya makin kaya. Tanpa jaring pengaman sosial atau pajak progresif, ketimpangan ini dapat menyebabkan instabilitas sosial. Ketika sebagian kecil populasi menguasai sebagian besar sumber daya, daya beli masyarakat luas menurun dan pada akhirnya dapat memicu krisis ekonomi.
     MODAL["Memiliki modal"] --> INVESTASI["Investasi pada teknologi dan pendidikan yang lebih baik"]
-    NOL["Mulai dari nol"] -->|"tanpa daya tawar"| UPAH["Terjebak dalam upah rendah"]
+    NOL["Mulai dari nol"] -->|"tanpa daya tawar"| UPAH["Sering kali terjebak dalam upah rendah"]
     INVESTASI --> TIMPANG["Ketimpangan, yang kaya makin kaya"]
     UPAH --> TIMPANG
     TIMPANG -->|"tanpa jaring pengaman sosial atau pajak progresif"| INSTABIL["Instabilitas sosial"]

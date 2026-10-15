@@ -55,7 +55,7 @@ Mari kita lihat bagaimana kedua sistem ini bereaksi terhadap masalah ekonomi:
    - **Logika:** Pemerintah menyuntikkan uang ke pasar untuk menciptakan lapangan kerja dan meningkatkan daya beli.
    - **Risiko:** Dapat menyebabkan utang negara membengkak dan inflasi jika tidak dikelola dengan baik.
 
-Kedua jalur respons itu bisa kamu bandingkan berdampingan pada bagan berikut.
+Dijajarkan berdampingan, kedua jalur respons itu tampak seperti ini.
 
 ```mermaid
 flowchart TD
