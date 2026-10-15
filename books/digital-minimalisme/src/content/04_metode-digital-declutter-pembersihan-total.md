@@ -49,6 +49,26 @@ $$
 
 Pastikan setiap aplikasi yang akan dipakai lagi memenuhi tiga syarat berikut. Pertama, aplikasi tersebut harus mendukung sesuatu yang sangat kamu hargai. Kedua, ia menjadi cara paling optimal untuk mendukung hal tersebut (sebagai contoh, menelepon langsung kawan lama lebih berharga daripada sekadar melihat *update* fotonya di Instagram). Terakhir, kamu harus tahu persis aturan main dalam menggunakannya agar tidak menjadi sumber distraksi baru, misalnya membatasi akses LinkedIn hanya lewat browser laptop.
 
+Seluruh metode ini, dari aturan main sampai penyaringan, bisa kamu lihat dalam satu alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur metode Digital Declutter
+    accDescr: Pertama tentukan aturan main, yaitu teknologi yang bila dihentikan mengganggu pekerjaan harian atau fungsi dasar kehidupan pribadi tetap digunakan dan sisanya opsional. Teknologi opsional dihentikan selama masa puasa 30 hari. Setelah itu setiap aplikasi disaring kembali dengan tiga syarat dan baru dipakai lagi bila lolos ketiganya.
+    A["Menentukan aturan main"] --> B{"Bila dihentikan, mengganggu pekerjaan harian atau fungsi dasar kehidupan pribadi?"}
+    B -->|"Ya"| C["Tetap digunakan"]
+    B -->|"Tidak"| D["Opsional"]
+    D --> E["Masa puasa 30 hari"]
+    E --> F["Menyaring kembali teknologi"]
+    F --> G{"Mendukung sesuatu yang sangat kamu hargai?"}
+    G -->|"Ya"| H{"Cara paling optimal untuk mendukungnya?"}
+    H -->|"Ya"| J{"Tahu persis aturan main menggunakannya?"}
+    J -->|"Ya"| K["Dipakai lagi"]
+    G -->|"Tidak"| L["Tidak diaktifkan kembali"]
+    H -->|"Tidak"| L
+    J -->|"Tidak"| L
+```
+
 ## Mengisi Kekosongan
 
 Banyak orang gagal menuntaskan *declutter* karena absennya rencana untuk mengisi kekosongan waktu. Duduk diam menatap tembok jelas akan mendorong tanganmu kembali mencari ponsel dalam hitungan jam.
