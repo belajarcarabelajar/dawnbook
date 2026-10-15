@@ -133,7 +133,7 @@ tasks:
 - [x] S4 Verify: heading, diagram and book gates, `bun run build`, `bun test` exit 0 with 0 failures. Evidence: `bun run check:headings` exit 0 (0 violations, 58 books); `check-book-structure.ts` identical to the baseline for all four books; `bun run build` exit 0 (diagram gate 0, SEO passed); `bun test` 658 pass, 13 skip, 0 fail after `bun install --frozen-lockfile` (the first run failed 87 tests only because the fresh worktree had no node_modules)
 - [x] S5 Deliver: PR opened from a body file and registered; merge only through the `Merge` gate. Evidence: PR #150 opened from the body file and registered; `Merge` gate answered "Merge setelah CI hijau"; remote `test` passed; merged as `0300e07`
 - [x] S6 After deploy: `bun run scripts/migrate-to-d1.ts` with credentials sourced, live and D1 checks, regenerated `db/seed.sql` and merge evidence committed in the seed PR. Evidence: Deploy success on `0300e07`; `migrate-to-d1.ts` exit 0, 58 books, "All seeds applied successfully."; `cf d1 query` confirms the new tonsillectomy text and the absence of the old EWS and pedagogy phrases; `docs/code-plan/artifacts/2026-10-16-dawnbook-diagram-followups-merge-evidence.md`
-- [ ] S7 Sweep: debt sweep, learning ledger, plan closeout, graphify sync
+- [x] S7 Sweep: debt sweep, learning ledger, plan closeout, graphify sync. Evidence: 6 debts found, owner chose both NOW items (F1-F4, all 0 problems), 4 LATER items deferred with markers; ledger `docs/code-plan/artifacts/2026-10-16-dawnbook-diagram-followups-learning-ledger.md`; memory updated; graphify sync after the merge
 
 ## Research manifest (read-only, budget 25 tool calls each)
 
