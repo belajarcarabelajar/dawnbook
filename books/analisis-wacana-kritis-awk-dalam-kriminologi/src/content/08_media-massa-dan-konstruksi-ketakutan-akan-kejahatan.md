@@ -32,6 +32,17 @@ Istilah **Kepanikan Moral** (*Moral Panic*) pertama kali dipopulerkan oleh sosio
 3. **Prediksi Eskalatif**: Narasi implisit maupun eksplisit bahwa jika fenomena ini tidak dihentikan segera, tatanan masyarakat akan runtuh.
 4. **Simbolisasi**: Objek, atribut, atau gaya hidup tertentu (seperti tato, pakaian tertentu, atau gaya berkumpul) dijadikan simbol utama kejahatan.
 
+Urutan keempat tahapan itu bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Tahapan konstruksi kepanikan moral dalam wacana
+    accDescr: Empat tahapan berurutan, yaitu identifikasi folk devils, eksagerasi dan distorsi, prediksi eskalatif, lalu simbolisasi.
+    A["Identifikasi folk devils"] --> B["Eksagerasi dan distorsi"]
+    B --> C["Prediksi eskalatif"]
+    C --> D["Simbolisasi"]
+```
+
 #### Formula Matematika Ketakutan Publik
 
 Secara konseptual, hubungan antara liputan media dan respons psikologis masyarakat dapat diformulasikan sebagai berikut:
