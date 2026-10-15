@@ -310,6 +310,7 @@ OrchestratorAgent
 | **Failure/rollback** | Report which success gate was not met. OrchestratorAgent re-invokes with corrected inputs. |
 
 - **Heading rule in every authoring prompt:** OrchestratorAgent MUST copy the heading anti-colon rule (no `:` in chapter headings, SUMMARY.md entries, or a new book's `book.toml` title; no dash or "dan" disguise; scaffold-label cap) into every AuthoringAgent dispatch prompt. The agent must then confirm `bun run scripts/check-heading-colons.ts` exits 0 before reporting. Source of truth: `GEMINI.md` section 24.
+- **Mermaid rule in every authoring prompt:** OrchestratorAgent MUST also copy the `GEMINI.md` section 25 dispatch clause (Mermaid diagram rule: allowed types only, mandatory `accTitle`/`accDescr`, every diagram grounded in the chapter's own text with no new facts or numbers, at most 3 per chapter, never required) into every AuthoringAgent dispatch prompt that may add or change a diagram. Source of truth: `GEMINI.md` section 25 "Mermaid Diagrams (Build-Time SVG)".
 
 ### 4.4 ValidationAgent
 
@@ -828,6 +829,7 @@ OrchestratorAgent **must** deploy subagents in 1:1 ratio with chapter files. Eac
   - **Text Formatting** (bold `**` and italics `*`) applied strategically to key terms, core quotes, or definitions.
   - **Consistent Headings**: Ensure H3 (`### `) and H4 (`#### `) are used consistently to represent subsections without skipping levels, and NEVER use raw plain-text lines as fake headings.
   - **Valid LaTeX/KaTeX Formatting**: For inline math, use `\\( ... \\)` (strictly double backslash delimiters) instead of raw `$ ... $`. For block math, use `\\[ ... \\]` or `$$ ... $$`.
+  - **Mermaid Diagrams**: Optional, for a process, cycle, decision, dated chronology, or numbers the chapter already states, and for converting ASCII-art diagrams into a fenced `mermaid` block. Follow `GEMINI.md` section 25 "Mermaid Diagrams (Build-Time SVG)": allowed types only, mandatory `accTitle`/`accDescr`, no new facts or numbers, at most 3 per chapter; render with `bun run diagrams:render`, then confirm `bun run check:diagrams` exits 0.
 - **Rule 7.7.9 — Strict Zero-Emoji Rule:** All chapter markdown content files (`src/content/*.md`) and `SUMMARY.md` MUST be 100% clean and free of emoji characters. The ONLY file permitted to contain an emoji is `icon.txt` (which stores the single cover emoji for the book card). Subagents MUST actively inspect for, strip, and completely remove any emoji characters found in source input or chapter content during processing.
 
 
