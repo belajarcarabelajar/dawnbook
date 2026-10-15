@@ -713,6 +713,14 @@ The two pilot books (`iklan-digital-dan-penargetan-algoritma` from g2, `nudge-th
 | T14b | nappy | `2855042` | `diagrams:render --prune` exit 0 (rendered 6, pruned 6); widths: RTB 1415.5 to 870, BASIC 1036 to 196, others 390-940; harness exit 0, 0 overflows; parent viewed RTB light 1280 and pixel coal 1280 |
 | T14a | hoggy | `1dec947` | `bun test tests/scripts/check-diagrams.test.ts`: 39 pass, 0 fail; real-tree gate with `too-wide` active exit 0; symlinks intact |
 
+| T15a | chef | `3206686` | `bun test tests/scripts/diagrams-postprocess.test.ts`: 25 pass; after re-render 0 cached ids without `dbd-` |
+| T15b | nappy | `b980d6b` | `bun test tests/scripts/check-diagrams.test.ts`: 63 pass, 0 fail |
+| T15c | hoggy | `16fa1e2` | `bun test tests/scripts/diagrams-cache.test.ts tests/scripts/diagrams-inline.test.ts`: 34 pass; key now includes mermaid 12.2.0 and the post-processor hash |
+| T15d | chef | `052a27d` | renderer suite 12 pass locally, all skipped with `CI=true`; symlinks intact; no em dash in section 25 |
+| T15e | parent (inline: one label line plus one command) | `ee88704` | `diagrams:render --prune` exit 0 (rendered 6, pruned 6); gate exit 0; widths 196-940 px |
+| T15 regression | parent (inline: one test path plus a fixture) | `eec51bc` | spec re-check found `diagrams-postprocess` reading a renamed cache file; fixed with a committed fixture |
+| T12 run 3 | parent | none | `bun run build` exit 0 (gate 0 violations, 3 diagrams inlined per pilot, SEO passed); `bun test` 637 pass, 13 skip, 0 fail; `CI=true bun test` 625 pass, 26 skip, 0 fail; non-pilot output identical to the main build except `shared-header.css` |
+
 Wave 2 precondition checked by the parent: `/usr/bin/chromium` (Chrome 153.0.8010.52) launches through puppeteer without `--no-sandbox` (exit 0).
 
 ## Status

@@ -36,6 +36,13 @@ Verdict: `not correct`. Changing conditions named by the reviewer: (1) no cached
 
 Requirement table highlights from the spec axis: user stories 3-6 and 8-14 proven; US1, US2, US7 partial at review time (screenshots and CI not inspected by the reviewer; the parent viewed built-page screenshots in light and coal at 1280 and 375 px and confirmed the CI Chromium path); roadmap RF1-RF6 covers all 58 books exactly once with the two pilots done; FU1-FU4 cover the four contradictory-text books.
 
+## Re-check after the fixes (spec axis, HEAD `ee88704`)
+
+- Both changing conditions pass: no cached SVG id lacks `dbd-` (grep exit 1); the probe tree reports `straight-quote` (exit 1 with the rule at both probe lines).
+- New finding R1 (P1, confidence 0.95): `tests/scripts/diagrams-postprocess.test.ts` read a cached SVG by name, and the re-render in `ee88704` renamed it, so `bun test` failed with ENOENT (the parent reproduced it: 636 pass, 1 fail). Fixed in `eec51bc`: the test reads a committed fixture (`tests/fixtures/diagrams/sequence-unscoped-ids.svg`, the original Mermaid output from `3206686`). After the fix: `bun test` 637 pass, 13 skip, 0 fail, exit 0; with `CI=true` 625 pass, 26 skip, 0 fail, exit 0.
+- Residual P3 wording (spec line 48 colours, plan revision note and approval log) fixed in `902b15a`.
+- Verdict after the fixes: every qualifying finding on both axes is closed with evidence; no P0 or P1 remains open.
+
 ## Parent synthesis
 
 - Overlap: S1 and F4 are the same defect; counted once.
