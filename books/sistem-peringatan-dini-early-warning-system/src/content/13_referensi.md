@@ -36,7 +36,7 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 - Badan Meteorologi, Klimatologi, dan Geofisika. (2010). *InaTEWS: Indonesia tsunami early warning system - Konsep dan implementasi*. BMKG & GITEWS. [InaTEWS - Konsep dan Implementasi](https://www.gitews.org/tsunami-kit/id/E2/sumber_lainnya/InaTEWS%20-%20Konsep%20dan%20Implementasi.pdf)
 
-- Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://cdn.bmkg.go.id/Web/INATEWS_Buku_Pedoman_Edisi_Kedua.pdf)
+- Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://www.gitews.de/tsunami-kit/id/E3/perangkat/Pedoman%20Pelayanan%20Peringatan%20Dini%20Tsunami%20InaTEWS%20%282%29.pdf)
 
 - Badan Nasional Penanggulangan Bencana. (2023). *Katalog data kebencanaan Indonesia*. Pusat Data, Informasi dan Komunikasi Kebencanaan BNPB. [Data Bencana Indonesia BNPB](https://data.bnpb.go.id/)
 

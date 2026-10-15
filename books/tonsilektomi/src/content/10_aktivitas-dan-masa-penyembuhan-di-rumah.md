@@ -10,11 +10,11 @@ Masa pemulihan setelah operasi amandel umumnya berlangsung selama 10 hingga 14 h
 
 ### 1. Istirahat Total (Hari ke-1 - ke-3)
 
-Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya mencapai puncaknya. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar $30^\circ - 45^\circ$. Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
+Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya sudah cukup berat. Pada anak kecil, nyeri sering paling berat di hari-hari ini. Fokus utama kamu adalah tidur dan beristirahat di tempat tidur (*bed rest*). Agar lebih nyaman, gunakan 2-3 bantal untuk menjaga kepala tetap tegak dengan posisi elevasi sekitar $30^\circ - 45^\circ$. Cara ini sangat membantu mengurangi pembengkakan di tenggorokan dan mempermudah pernapasan. Selain itu, batasi berbicara dan gunakan papan tulis atau pesan teks untuk berkomunikasi agar otot tenggorokan bisa beristirahat.
 
 ### 2. Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
 
-Pada fase ini, lapisan putih keabu-abuan (*slough*) akan terbentuk di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. 
+Pada fase ini, lapisan putih keabu-abuan (*slough*) yang mulai terbentuk sejak hari-hari pertama terlihat jelas di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. Di fase ini nyeri bisa naik lagi ketika keropeng mulai mengelupas, dan pada orang dewasa nyeri bisa terasa paling berat di fase ini.
 
 Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari gerakan mendadak yang bisa menaikkan tekanan darah. Harap berhati-hati karena keropeng ini mulai mengelupas pada hari ke-5 hingga ke-10, yang dapat memicu risiko perdarahan.
 

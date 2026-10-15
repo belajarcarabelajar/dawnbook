@@ -6,7 +6,7 @@ Cohen, R., Bavishi, C., & Rozanski, A. (2016). Purpose in life and its relations
 
 Frankl, V. E. (1985). *Man's search for meaning* (Revised and updated ed.). Washington Square Press. (Original work published 1946).
 
-García, H., & Miralles, F. (2017). *Ikigai: The Japanese secret to a long and happy life*. Penguin Books.
+García, H., & Miralles, F. (2017). *Ikigai: The Japanese secret to a long and happy life*. Penguin Books. [https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/](https://www.penguinrandomhouse.com/books/549469/ikigai-by-hector-garcia-and-francesc-miralles/)
 
 Hill, P. L., & Turiano, N. A. (2014). Purpose in life as a predictor of mortality across adulthood. *Psychological Science, 25*(7), 1482–1486. [https://doi.org/10.1177/0956797614531799](https://doi.org/10.1177/0956797614531799)
 
@@ -21,3 +21,5 @@ Ryff, C. D. (1989). Happiness is everything, or is it? Explorations on the meani
 Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., Kikuchi, N., Kuriyama, S., & Tsuji, I. (2008). Sense of life worth living (ikigai) and mortality in Japan: Ohsaki Study. *Psychosomatic Medicine, 70*(6), 709–715. [https://doi.org/10.1097/PSY.0b013e31817e7e64](https://doi.org/10.1097/PSY.0b013e31817e7e64)
 
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
+
+Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)

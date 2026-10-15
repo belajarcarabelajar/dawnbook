@@ -67,7 +67,7 @@ Jika satu pilar lemah, seluruh sistem lumpuh. Banyak kegagalan ada pada komunika
 
 Gempa dan tsunami 26 Desember 2004 di Aceh menjadi titik balik Indonesia. Gelombang di atas 15 meter menewaskan lebih dari 160 ribu jiwa di Aceh dan lebih dari 230 ribu di Samudra Hindia. Saat itu Indonesia belum memiliki sistem peringatan tsunami operasional. Data gempa ada di BMKG, tetapi tidak ada kanal resmi untuk mengubah data menjadi perintah evakuasi dalam menit.
 
-Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar \\( T_{\text{lead}} \\) minimal 5 menit setelah gempa:
+Respons nasional melahirkan **Indonesia Tsunami Early Warning System (InaTEWS)** yang diresmikan 11 November 2008. Arsitekturnya mengejar peringatan pertama paling lambat 5 menit setelah gempa:
 
 * **Seismic network:** lebih dari 160 seismometer broadband ke BMKG Jakarta dalam kurang dari 2 menit.
 * **Sea level network:** *tide gauge* dan *buoy* untuk validasi gelombang.
@@ -96,7 +96,7 @@ Tren selanjutnya adalah **impact-based forecasting**, bukan hanya *“hujan 100 
 | 1960-1979 | TIROS-1 1960, jaringan seismograf global | Satelit optik, telemetri kabel | Deteksi siklon dari angkasa, monitoring gempa menit-an |
 | 1980-1999 | Telemetri sungai otomatis, Pacific Tsunami Warning Center diperkuat | Sensor elektronik, radio VHF | Peringatan banjir jam-an, koordinasi regional |
 | 2000-2005 | Tsunami Aceh 2004 | Seismometer broadband | Kesadaran global, komitmen HFA 2005 |
-| 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | \\( T_{\text{lead}} \\) 5 menit untuk tsunami, SOP nasional |
+| 2005-2015 | Hyogo Framework, InaTEWS 2008, sirene nasional | Buoy, tide gauge, DSS | Peringatan pertama paling lambat 5 menit untuk tsunami, SOP nasional |
 | 2015-2024 | Sendai Framework 2015-2030, 4 pilar UNESCO, cell broadcast | Satelit GPM, InSAR, IoT, AI | Multi-hazard EWS, impact-based forecasting |
 
 ### Apa Artinya Bagi Kamu

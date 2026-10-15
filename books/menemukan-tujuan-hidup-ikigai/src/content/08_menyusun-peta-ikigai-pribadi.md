@@ -20,7 +20,7 @@ Mari mulai menyusun peta ini. Siapkan alat tulis atau dokumen digital untuk menc
 
 Kumpulkan semua catatan, daftar, dan hasil refleksi dari bagian-bagian sebelumnya. Bahan-bahan ini akan menjadi fondasi utama.
 
-Untuk **Passion** (gairah), ingat kembali aktivitas yang membuat gairah memuncak hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
+Untuk **Love** (cinta), ingat kembali aktivitas yang membuat gairah memuncak hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
 
 Selanjutnya, kenali **Strength** (kekuatan) berupa bakat alami atau keterampilan yang telah terasah. Ini biasanya tercermin dari hal-hal yang membuat orang lain sering meminta bantuan atau memujimu. 
 
@@ -46,11 +46,11 @@ Fokuskan pada area tempat dua lingkaran saling tumpang tindih untuk menemukan *P
 
 *Passion* adalah gabungan antara hal yang kamu cintai dan kuasai. Misalnya, bila kamu menyukai bercerita dan pandai menulis, *Passion* kamu bisa berwujud penulisan cerita inspiratif. 
 
-*Mission* terbentuk dari keterampilan yang dikuasai dan apa yang dibutuhkan dunia. Contohnya, seseorang yang pandai memecahkan masalah dapat menjadikannya misi untuk mengembangkan teknologi energi bersih karena dunia memang membutuhkan solusi energi terbarukan.
+*Mission* terbentuk dari hal yang kamu cintai dan apa yang dibutuhkan dunia. Contohnya, seseorang yang mencintai alam dapat menjadikannya misi untuk mendorong penggunaan energi bersih karena dunia memang membutuhkan solusi energi terbarukan.
 
 Untuk menemukan *Vocation* (panggilan hidup), temukan titik temu antara kebutuhan dunia dan cara menghasilkan uang. Sebagai contoh, dunia membutuhkan pendidikan yang lebih baik, dan mengajar bisa mendatangkan uang, sehingga panggilan hidupnya adalah menjadi pendidik inovatif.
 
-Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu dengan aktivitas yang dicintai. Fotografer acara atau seni bisa menjadi profesi yang tepat bagi mereka yang mencintai fotografi sekaligus mampu menjadikannya mata pencaharian.
+Sementara itu, *Profession* muncul saat hal yang menghasilkan uang bertemu dengan keterampilan yang dikuasai. Fotografer acara atau seni bisa menjadi profesi yang tepat bagi mereka yang mahir memotret sekaligus mampu menjadikannya mata pencaharian.
 
 #### 4. Temukan Inti Ikigai
 
