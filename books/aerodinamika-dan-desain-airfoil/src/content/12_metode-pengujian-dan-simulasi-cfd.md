@@ -4,33 +4,16 @@ Bayangkan sebuah profil airfoil revolusioner baru saja selesai dirancang di atas
 
 Dalam mekanika fluida dan aerodinamika terapan, terdapat perbedaan nyata antara formulasi analitis teoretis dengan fenomena aliran fluida nyata yang melibatkan viskositas, turbulensi, separasi, dan efek kompresibilitas. Untuk menjembatani perbedaan tersebut, dunia aerodinamika modern bertumpu pada dua pilar utama validasi: **Computational Fluid Dynamics (CFD)** dan **Pengujian Terowongan Angin (Wind Tunnel Testing)**.
 
-```
-       +-------------------------------------------------------+
-       |             Konsep Desain Geometri Airfoil            |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |       Simulasi Komputasional Awal (CFD Cepat)         |
-       |       - Panel Method (XFOIL) & RANS 2D                |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |     Simulasi Komputasional Lanjut (High-Fidelity)     |
-       |     - 3D RANS / DES / LES & Optimasi Numerik          |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |         Eksperimen Terowongan Angin (Wind Tunnel)     |
-       |         - Validasi Gaya ($L, D, M$) & PIV / Asap      |
-       +-------------------------------------------------------+
-                                  |
-                                  v
-       +-------------------------------------------------------+
-       |        Desain Tervalidasi & Uji Terbang Nyata         |
-       +-------------------------------------------------------+
+Urutan validasi yang perlu kamu tempuh, dari konsep geometri sampai uji terbang nyata, terlihat pada diagram berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan validasi desain airfoil
+    accDescr: Konsep desain geometri airfoil diuji lebih dulu dengan simulasi komputasional awal (CFD cepat, panel method XFOIL dan RANS 2D), lalu simulasi komputasional lanjut (high-fidelity, 3D RANS, DES, LES, dan optimasi numerik), kemudian eksperimen terowongan angin untuk validasi gaya L, D, M dengan PIV atau asap, sampai menjadi desain tervalidasi dan uji terbang nyata.
+    V1["Konsep Desain Geometri Airfoil"] --> V2["Simulasi Komputasional Awal (CFD Cepat): Panel Method (XFOIL) dan RANS 2D"]
+    V2 --> V3["Simulasi Komputasional Lanjut (High-Fidelity): 3D RANS, DES, LES, dan Optimasi Numerik"]
+    V3 --> V4["Eksperimen Terowongan Angin (Wind Tunnel): Validasi Gaya (L, D, M), PIV atau Asap"]
+    V4 --> V5["Desain Tervalidasi dan Uji Terbang Nyata"]
 ```
 
 ---

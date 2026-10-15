@@ -83,6 +83,19 @@ Tidak mungkin tercipta perbedaan tekanan (Bernoulli) tanpa adanya pembelokan ali
 4. **Perubahan Momentum:** Aliran udara didefleksikan ke arah bawah pada bagian buritan sayap (Newton), memberikan dorongan reaksi ke atas.
 5. **Gaya Angkat Efektif:** Resultan perbedaan medan tekanan dan reaksi momentum menghasilkan gaya angkat total (*lift*) yang mampu menyeimbangkan gaya gravitasi (*weight*).
 
+Lewat diagram berikut, kamu bisa melihat jalur Bernoulli dan jalur Newton bertemu pada gaya angkat yang sama.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan pembentukan gaya angkat
+    accDescr: Gerakan maju dari propulsi mengalirkan udara melewati kontur sayap, lalu camber memandu aliran mengikuti kontur. Dari sana, aliran sisi atas dipercepat dan membentuk zona bertekanan rendah (Bernoulli), sementara aliran didefleksikan ke bawah dan memberi dorongan reaksi ke atas (Newton). Resultan perbedaan tekanan dan reaksi momentum menghasilkan gaya angkat total yang menyeimbangkan gaya gravitasi.
+    L1["Gerakan maju (thrust) mengalirkan udara melewati kontur sayap"] --> L2["Camber memandu aliran mengikuti kontur sayap"]
+    L2 --> L3["Aliran sisi atas dipercepat, zona bertekanan rendah (Bernoulli)"]
+    L2 --> L4["Aliran didefleksikan ke bawah, dorongan reaksi ke atas (Newton)"]
+    L3 -->|"perbedaan tekanan"| L5["Gaya angkat total menyeimbangkan gaya gravitasi (weight)"]
+    L4 -->|"reaksi momentum"| L5
+```
+
 ## 5. Aplikasi Dunia Nyata dan Skenario Teknik
 
 Konsep dasar aerodinamika ini tidak hanya diaplikasikan pada pesawat terbang, melainkan juga pada berbagai inovasi teknologi lainnya:
