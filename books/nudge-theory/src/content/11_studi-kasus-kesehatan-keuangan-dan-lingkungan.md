@@ -17,6 +17,18 @@ Perbedaan ekstrem ini terjadi karena desain **Pilihan Standar (Defaults)**, buka
 - **Jerman (Opt-in):** Pilihan bawaan (*default*) menetapkan bahwa setiap orang secara otomatis berstatus bukan donor. Untuk berpartisipasi, warga harus secara aktif mencentang kotak khusus atau mengisi formulir pendaftaran. Hal ini membutuhkan tindakan nyata.
 - **Austria (Opt-out):** Kebalikannya, status donor adalah pilihan bawaan untuk setiap warga negara. Siapa saja yang keberatan harus secara sadar memilih keluar dengan mencentang kolom penolakan.
 
+Grafik berikut membandingkan tingkat partisipasi donor organ di kedua negara tersebut.
+
+```mermaid
+xychart
+    accTitle: Partisipasi donor organ di Jerman dan Austria
+    accDescr: Tingkat partisipasi donor organ di Jerman dengan sistem opt-in hanya sekitar 12 persen, sedangkan di Austria dengan sistem opt-out mencapai hampir 99 persen.
+    title "Partisipasi donor organ"
+    x-axis ["Jerman (Opt-in)", "Austria (Opt-out)"]
+    y-axis "Persen" 0 --> 100
+    bar [12, 99]
+```
+
 > **Insight:** Inersia manusia sangat kuat. Kebanyakan orang akan mengikuti pilihan bawaan yang sudah ditentukan secara otomatis oleh sistem daripada melakukan upaya kognitif untuk mengubahnya.
 
 ### Desain Formulir SIM

@@ -6,6 +6,18 @@ Merancang intervensi perilaku tidak bisa mengandalkan tebakan atau insting semat
 
 BASIC merupakan akronim dari lima tahapan utama: **B**ehaviour (Perilaku), **A**nalysis (Analisis), **S**trategy (Strategi), **I**ntervention (Intervensi), dan **C**hange (Perubahan). Mari kita bedah penerapannya.
 
+Sebelum membedahnya satu per satu, diagram berikut memperlihatkan urutan kelima tahapan tersebut.
+
+```mermaid
+flowchart LR
+    accTitle: Lima tahapan BASIC Framework
+    accDescr: Lima tahapan BASIC berjalan berurutan dari Behaviour (Perilaku), Analysis (Analisis), Strategy (Strategi), Intervention (Intervensi), sampai Change (Perubahan).
+    T1["Behaviour (Perilaku)"] --> T2["Analysis (Analisis)"]
+    T2 --> T3["Strategy (Strategi)"]
+    T3 --> T4["Intervention (Intervensi)"]
+    T4 --> T5["Change (Perubahan)"]
+```
+
 ## 1. Behaviour (Perilaku)
 
 Langkah pertama dimulai dengan mendefinisikan masalah dalam bentuk **perilaku nyata**, bukan langsung melompat mencari solusi. Kesalahan umum pembuat kebijakan atau manajer adalah menetapkan tujuan yang terlalu abstrak.
