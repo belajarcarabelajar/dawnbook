@@ -218,7 +218,8 @@ describe("finalizeSvg id scoping", () => {
   });
 
   test("scopes every id in a real cached sequence diagram", () => {
-    const path = join(import.meta.dir, "../../books/iklan-digital-dan-penargetan-algoritma/diagrams/cc81a1d233cb.svg");
+    // Mermaid output saved before id scoping existed; cache files are renamed on every key change, so they cannot be fixtures.
+    const path = join(import.meta.dir, "../fixtures/diagrams/sequence-unscoped-ids.svg");
     const cached = readFileSync(path, "utf8");
     expect(cached).toContain('id="actor0"');
     const scoped = finalizeSvg(cached, { id: "dbd-cc81a1d233cb", acc: ACC });
