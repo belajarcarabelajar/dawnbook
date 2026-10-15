@@ -45,7 +45,7 @@ timeline
     accTitle: Lini masa dari cetak ke piksel
     accDescr: Sebelum tahun 1990-an iklan bersifat pasif dan massal di TV, radio, koran, dan majalah. Pada 27 Oktober 1994 HotWired menampilkan banner ad pertama milik AT&T dengan CTR 44%. Pada tahun 2000 Google meluncurkan AdWords yang memperkenalkan iklan kontekstual. Sekarang, di era media sosial, iklan juga berdasarkan siapa kamu, minat, dan perilaku kamu.
     Sebelum 1990-an : Era pra-digital : Iklan pasif dan massal di TV, radio, koran, majalah
-    27 Oktober 1994 : Banner ad pertama di HotWired milik AT&T : CTR mencapai 44%
+    27 Oktober 1994 : Banner ad pertama milik AT&T tampil di HotWired : CTR mencapai 44%
     2000 : Google meluncurkan AdWords : Iklan kontekstual
     Sekarang : Era media sosial (Facebook, Instagram, TikTok) : Iklan berdasarkan siapa kamu, minat, dan perilaku
 ```
