@@ -1,6 +1,6 @@
 ## Jebakan Status Quo dan Kekuatan Default
 
-Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun, dan hampir semuanya tahu pilihannya bisa lebih baik.
+Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun. Padahal hampir semuanya tahu pilihannya bisa lebih baik.
 
 Angka itu bukan slogan, melainkan temuan yang dikutip William Samuelson dan Richard Zeckhauser (1988) dalam studi mereka tentang bias status quo. Di balik jendela yang sama, data riil dari perusahaan yang mengelola rencana dana pensiun TIAA/CREF menunjukkan kurang dari 2,5 persen peserta mengubah distribusi premi antar dana dalam satu tahun. Pola yang sama muncul di bidang yang lebih personal: hanya 3 persen karyawan Harvard pindah rencana kesehatan setiap tahunnya. Padahal biaya pindahnya hampir nol, cuma isi formulir. Kalau kamu pernah setahun, dua tahun, lima tahun memakai rekening bank, paket internet, atau asuransi yang sama tanpa pernah membandingkan ulang, kamu sudah mengalami kekuatan yang mereka ukur ini.
 

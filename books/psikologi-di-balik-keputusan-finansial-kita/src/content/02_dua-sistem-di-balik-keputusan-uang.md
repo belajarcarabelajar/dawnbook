@@ -1,6 +1,6 @@
 ## Dua Sistem di Balik Setiap Keputusan Uang
 
-Kelelawar dan bola seharga Rp1.100, kelelawar Rp1.000 lebih mahal, jawaban pertamamu hampir pasti salah, dan itu pelajaran terbaik tentang cara otakmu bekerja.
+Kelelawar dan bola seharga Rp1.100, kelelawar Rp1.000 lebih mahal, dan jawaban pertamamu hampir pasti salah. Justru itu pelajaran terbaik tentang cara otakmu bekerja.
 
 Kalau kamu sempat menjawab "seratus rupiah", kamu bergabung dengan jutaan orang, termasuk banyak mahasiswa universitas ternama yang mengikuti eksperimen ini. Tapi hitung ulang pelan-pelan. Kalau bolanya seratus rupiah dan kelelawar harus Rp1.000 lebih mahal, kelelawarnya Rp1.100, dan totalnya jadi Rp1.200, bukan Rp1.100. Jawaban yang benar adalah lima puluh rupiah. Soal ini terlihat seperti teka-teki pembagian kue di pesta ulang tahun, tapi Daniel Kahneman menjadikannya pintu masuk bukunya yang terkenal, Thinking, Fast and Slow, dan pesannya menyentuh semua keputusan kita, termasuk keputusan uang: jawaban yang paling cepat datang tidak selalu jawaban yang benar, dan itu bukan kebetulan, melainkan hasil kerja dua sistem yang berbeda di dalam kepala kita.
 

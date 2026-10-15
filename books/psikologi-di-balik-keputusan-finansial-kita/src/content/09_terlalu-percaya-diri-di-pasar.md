@@ -1,6 +1,6 @@
 ## Terlalu Percaya Diri
 
-Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru memperoleh hasil paling rendah, dan data itu tercatat selama enam tahun penuh.
+Dari 66.465 rumah tangga investor, kelompok yang paling rajin berdagang justru memperoleh hasil paling rendah. Data itu tercatat selama enam tahun penuh.
 
 Kalau kamu pernah mendengar nasihat "yang rajin pasti untung", data dari pasar saham Amerika punya versi cerita yang berlawanan. Brad Barber dan Terrance Odean (2000) meneliti catatan transaksi 66.465 rumah tangga yang memiliki akun di satu perusahaan efek ritel besar, mengikuti mereka dari tahun 1991 sampai 1996. Temuannya jelas dan cukup menyakitkan untuk dibaca pelan-pelan: rumah tangga yang paling aktif berdagang, yang memutar portofolionya paling sering, memperoleh pengembalian tahunan bersih sekitar 11,4 persen, sementara pasar menghasilkan 17,9 persen. Yang jarang berdagang justru memperoleh sekitar 18,5 persen, sedikit di atas pasar. Jadi urutannya terbalik dari intuisi: makin rajin memindahkan posisi, makin tipis hasilnya.
 

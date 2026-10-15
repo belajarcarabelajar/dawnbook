@@ -64,4 +64,13 @@ describe("Google SERP Meta Description Compliance (Rule R26)", () => {
     expect(resultHtml).not.toContain(`content="Bab 1 Pengantar - Buku Uji.`);
     expect(resultHtml).toContain(`content="Selamat datang di materi pengantar ini.`);
   });
+
+  test("extractLeadText skips <pre> blocks and reads only real <p> paragraphs", () => {
+    const html = "<main><pre><code>bun install</code></pre><p>Paragraf pertama.</p></main>";
+    expect(extractLeadText(html)).toBe("Paragraf pertama.");
+  });
+
+  test("extractLeadText still reads <p> tags that carry attributes", () => {
+    expect(extractLeadText(`<main><p class="x">A.</p></main>`)).toBe("A.");
+  });
 });

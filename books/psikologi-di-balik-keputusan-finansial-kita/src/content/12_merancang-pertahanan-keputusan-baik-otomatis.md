@@ -1,6 +1,6 @@
 ## Merancang Pertahanan
 
-Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arahnya: komitmen yang mengikat, otomatisasi, dan default yang dipilih untuk dirimu sendiri.
+Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arah: komitmen yang mengikat, otomatisasi, dan default yang kamu pilih untuk dirimu.
 
 Kalau kamu membaca buku ini dari awal, ada kemungkinan kamu sempat tersenyum gugup di satu dua bab, karena merasa diceritakan kebiasaanmu sendiri. Cicilan yang ditunda di bab bias masa kini. saldo yang habis di minggu pertama setelah bonus di bab akuntansi mental. Saham yang dipegang bertahun-tahun di merah sambil cepat mengunci untung di bab disposition effect. Aplikasi belanja yang dibuka saat senggang di bab rasa sakit membayar. Semua itu normal, karena setiap bias dalam buku ini ada di dalam semua orang, termasuk di kepala penulisnya. Yang membedakan bukan ada tidaknya bias, melainkan ada tidaknya rancangan pertahanan.
 
