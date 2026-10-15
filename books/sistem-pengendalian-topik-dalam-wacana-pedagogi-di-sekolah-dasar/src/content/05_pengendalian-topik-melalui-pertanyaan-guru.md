@@ -8,7 +8,7 @@ Namun, pengajuan pertanyaan oleh guru tidak selalu menghasilkan tanggapan cepat 
 
 ### Dinamika Respons Siswa terhadap Pertanyaan Guru
 
-Berdasarkan hasil analisis wacana kelas, sebagian besar pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata tidak langsung mendapat jawaban dari siswa pada kesempatan pertama. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
+Berdasarkan hasil analisis wacana kelas, pertanyaan yang diajukan guru untuk mengendalikan topik baru ternyata lebih sering tidak langsung mendapat jawaban dari siswa pada kesempatan pertama daripada langsung dijawab. Guru sering kali harus mengulang pertanyaan, menyederhanakan kalimat, atau bahkan menjawab pertanyaannya sendiri karena ruang kelas yang hening.
 
 Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi pengendalian topik melalui pertanyaan guru:
 
@@ -16,9 +16,8 @@ Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi p
 | :--- | :---: | :---: | :--- |
 | **Langsung Direspons** | 28% | 11% | Siswa siap dan langsung mengambil giliran bicara. |
 | **Tidak Langsung Direspons** | 31% | 51% | Perlu pengulangan pertanyaan atau pancingan tambahan. |
-| **Total Pertanyaan Tanpa Respons Seketika** | 72% | - | Guru terpaksa menjawab pertanyaan sendiri atau mengulang berkali-kali. |
 
-Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, guru sangat aktif melontarkan pertanyaan pemancing topik baru (mencapai 51%), tetapi respons balik yang datang secara langsung dari siswa sangat rendah, yaitu hanya 11%. Secara keseluruhan, sebanyak 72% dari total kalimat tanya yang diajukan guru tidak direspons secara langsung. 
+Data di atas memperlihatkan fenomena menarik. Pada Teks 1, misalnya, pertanyaan guru yang tidak langsung direspons siswa mencapai 51%, sedangkan yang langsung direspons hanya 11%. Secara keseluruhan, pertanyaan guru yang tidak langsung direspons (31%) lebih banyak daripada yang langsung direspons (28%).
 
 Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung memosisikan diri sebagai penerima pasif yang baru akan bersuara jika pemicunya adalah pertanyaan spesifik dari guru.
 
