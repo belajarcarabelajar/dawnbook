@@ -87,7 +87,8 @@ export function formatSerpDescription(text: string, maxLen = 155): string {
 export function extractLeadText(html: string): string {
   const bodyMatch = html.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || html.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
   if (!bodyMatch) return "";
-  const body = bodyMatch[1];
+  // Diagram labels can be rendered as <p> inside an inline SVG and must not become the lead text.
+  const body = bodyMatch[1].replace(/<svg\b[\s\S]*?<\/svg>/gi, "");
   // Match only <p> itself, not <pre>, <param>, <picture>, etc.
   const pMatches = [...body.matchAll(/<p(?:\s[^>]*)?>([\s\S]*?)<\/p>/gi)];
   if (pMatches.length === 0) return "";
