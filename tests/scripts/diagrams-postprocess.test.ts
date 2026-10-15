@@ -1,4 +1,6 @@
 import { describe, expect, test } from "bun:test";
+import { readFileSync } from "node:fs";
+import { join } from "node:path";
 import { finalizeSvg, readAccText } from "../../scripts/diagrams/postprocess";
 
 const FLOW =
@@ -6,6 +8,10 @@ const FLOW =
 
 const TIMELINE =
   '<svg id="dbd-tl" width="100%" xmlns="http://www.w3.org/2000/svg" style="max-width: 1190px; background-color: transparent;" viewBox="100 -64 1190 514.7999877929688" role="graphics-document document" aria-roledescription="timeline"><style>#dbd-tl .x>g{fill:#333}</style><g><text>2020</text></g></svg>';
+
+// Shaped like Mermaid sequence output: actor and root ids carry no diagram id, markers and the title do.
+const SEQ =
+  '<svg aria-roledescription="sequence" role="graphics-document document" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" id="dbd-abc" aria-labelledby="chart-title-dbd-abc" aria-describedby="chart-desc-dbd-abc"><title id="chart-title-dbd-abc">T</title><desc id="chart-desc-dbd-abc">D</desc><style>#dbd-abc .actor{fill:#fff;}#actor0{stroke:#fff}#actor0>rect,#actor01 .x{fill:#fff}#fff{fill:#fff}</style><g id="root-1"><rect id="actor0"/><rect id="fff"/><use href="#actor0"/><use xlink:href="#root-1"/><use href="#actor01"/><path marker-end="url(#root-1)"/><line marker-end="url(#dbd-abc-arrowhead)"/><g aria-labelledby="actor0 actor01 dbd-abc-arrowhead" aria-describedby="root-1" aria-owns="fff  actor0"></g></g><defs><marker id="dbd-abc-arrowhead"/></defs></svg>';
 
 const ACC = { title: "Judul", descr: "Deskripsi" };
 
@@ -160,5 +166,65 @@ describe("finalizeSvg", () => {
       const once = finalizeSvg(svg, { id, acc: ACC });
       expect(finalizeSvg(once, { id, acc: ACC })).toBe(once);
     }
+  });
+});
+
+describe("finalizeSvg id scoping", () => {
+  const out = finalizeSvg(SEQ, { id: "dbd-abc", acc: ACC });
+
+  test("prefixes element ids that lack the diagram id", () => {
+    expect(out).toContain('<g id="dbd-abc-root-1">');
+    expect(out).toContain('<rect id="dbd-abc-actor0"/>');
+    expect(out).toContain('<rect id="dbd-abc-fff"/>');
+    expect(out).not.toContain('id="actor0"');
+    expect(out).not.toContain('id="root-1"');
+  });
+
+  test("rewrites href, xlink:href and url() references to renamed ids", () => {
+    expect(out).toContain('<use href="#dbd-abc-actor0"/>');
+    expect(out).toContain('<use xlink:href="#dbd-abc-root-1"/>');
+    expect(out).toContain('<path marker-end="url(#dbd-abc-root-1)"/>');
+  });
+
+  test("leaves references to ids that are not defined in the SVG alone", () => {
+    expect(out).toContain('<use href="#actor01"/>');
+  });
+
+  test("keeps ids that already contain the diagram id and their references", () => {
+    expect(out).toContain('<marker id="dbd-abc-arrowhead"/>');
+    expect(out).toContain('<line marker-end="url(#dbd-abc-arrowhead)"/>');
+    expect(out).toContain('<title id="chart-title-dbd-abc">T</title>');
+    expect(rootTag(out)).toContain('id="dbd-abc"');
+    expect(rootTag(out)).toContain('aria-labelledby="chart-title-dbd-abc"');
+    expect(out).not.toContain("dbd-abc-dbd-abc");
+    expect(out).not.toContain("dbd-abc-chart-");
+  });
+
+  test("rewrites aria id lists token by token", () => {
+    expect(out).toContain('aria-labelledby="dbd-abc-actor0 actor01 dbd-abc-arrowhead"');
+    expect(out).toContain('aria-describedby="dbd-abc-root-1"');
+    expect(out).toContain('aria-owns="dbd-abc-fff  dbd-abc-actor0"');
+  });
+
+  test("rewrites exact id selectors in style but not colors or longer names", () => {
+    const style = out.match(/<style>(.*?)<\/style>/)?.[1];
+    expect(style).toBe(
+      "#dbd-abc .actor{fill:#fff;}#dbd-abc-actor0{stroke:#fff}#dbd-abc-actor0>rect,#actor01 .x{fill:#fff}#dbd-abc-fff{fill:#fff}",
+    );
+  });
+
+  test("is idempotent", () => {
+    expect(finalizeSvg(out, { id: "dbd-abc", acc: ACC })).toBe(out);
+  });
+
+  test("scopes every id in a real cached sequence diagram", () => {
+    const path = join(import.meta.dir, "../../books/iklan-digital-dan-penargetan-algoritma/diagrams/cc81a1d233cb.svg");
+    const cached = readFileSync(path, "utf8");
+    expect(cached).toContain('id="actor0"');
+    const scoped = finalizeSvg(cached, { id: "dbd-cc81a1d233cb", acc: ACC });
+    const ids = [...scoped.matchAll(/\sid="([^"]*)"/g)].map((m) => m[1]);
+    expect(ids.length).toBeGreaterThan(20);
+    expect(ids.filter((id) => !id.includes("dbd-cc81a1d233cb"))).toEqual([]);
+    expect(finalizeSvg(scoped, { id: "dbd-cc81a1d233cb", acc: ACC })).toBe(scoped);
   });
 });

@@ -54,12 +54,21 @@ function findTagEnd(svg: string, lt: number): number {
   throw new Error("SVG has an unterminated tag");
 }
 
+const ATTR = /([^\s=/>]+)(?:\s*=\s*("[^"]*"|'[^']*'|[^\s>]+))?/g;
+
+const SKIPPED = [
+  ["<!--", "-->"],
+  ["<![CDATA[", "]]>"],
+  ["<?", "?>"],
+  ["<!", ">"],
+] as const;
+
 function parseTag(svg: string, start: number, tagEnd: number): Tag {
   const text = svg.slice(start, tagEnd);
   const name = text.match(/^<([^\s/>]+)/)?.[1] ?? "";
   const body = text.slice(name.length + 1).replace(/\/?>$/, "");
   const attrs: Attr[] = [];
-  for (const m of body.matchAll(/([^\s=/>]+)(?:\s*=\s*("[^"]*"|'[^']*'|[^\s>]+))?/g)) {
+  for (const m of body.matchAll(ATTR)) {
     const quoted = m[2] ?? "";
     const value = /^["']/.test(quoted) ? quoted.slice(1, -1) : quoted;
     attrs.push({ name: m[1], value, raw: m[0] });
@@ -91,12 +100,7 @@ function directChildren(svg: string, from: number): Tag[] {
   for (;;) {
     const lt = svg.indexOf("<", i);
     if (lt < 0) return children;
-    const skip = [
-      ["<!--", "-->"],
-      ["<![CDATA[", "]]>"],
-      ["<?", "?>"],
-      ["<!", ">"],
-    ].find(([opener]) => svg.startsWith(opener, lt));
+    const skip = SKIPPED.find(([opener]) => svg.startsWith(opener, lt));
     if (skip) {
       const close = svg.indexOf(skip[1], lt);
       if (close < 0) return children;
@@ -144,11 +148,116 @@ function viewBoxWidth(root: Tag): number {
   return width;
 }
 
+const ID_LIST_ATTRS = new Set(["aria-labelledby", "aria-describedby", "aria-owns"]);
+
+// Backslash escapes are part of the run so "#a\.b" is never read as "#a".
+const CSS_ID = /#((?:[\w-]|\\.|[^\x00-\x7F])+)/g;
+
+function rewriteUrls(text: string, renames: Map<string, string>): string {
+  return text.replace(/url\(#([^)]*)\)/g, (match, target: string) => {
+    const next = renames.get(target);
+    return next ? `url(#${next})` : match;
+  });
+}
+
+// Only selector text is rewritten: "#name" inside a declaration is a color such as #fff, not an id.
+function rewriteCss(css: string, renames: Map<string, string>): string {
+  const parts = css.split(/([{};])/);
+  for (let i = 0; i < parts.length; i += 2) {
+    if (parts[i + 1] === "{") {
+      parts[i] = parts[i].replace(CSS_ID, (match, name: string) => {
+        const next = renames.get(name);
+        return next ? `#${next}` : match;
+      });
+    } else {
+      parts[i] = rewriteUrls(parts[i], renames);
+    }
+  }
+  return parts.join("");
+}
+
+function rewriteValue(attr: string, value: string, renames: Map<string, string>): string {
+  if (attr === "id") return renames.get(value) ?? value;
+  if ((attr === "href" || attr === "xlink:href") && value.startsWith("#")) {
+    const next = renames.get(value.slice(1));
+    return next ? `#${next}` : value;
+  }
+  if (ID_LIST_ATTRS.has(attr)) {
+    return value
+      .split(/(\s+)/)
+      .map((token) => renames.get(token) ?? token)
+      .join("");
+  }
+  return rewriteUrls(value, renames);
+}
+
+function rewriteTag(text: string, name: string, renames: Map<string, string>): string {
+  const head = name.length + 1;
+  const tail = text.endsWith("/>") ? 2 : 1;
+  const body = text.slice(head, text.length - tail).replace(ATTR, (raw, attr: string, quoted?: string) => {
+    if (!quoted) return raw;
+    const quote = /^["']/.test(quoted) ? quoted[0] : "";
+    const value = quote ? quoted.slice(1, -1) : quoted;
+    const next = rewriteValue(attr, value, renames);
+    return next === value ? raw : `${attr}=${quote}${next}${quote}`;
+  });
+  return text.slice(0, head) + body + text.slice(text.length - tail);
+}
+
+// Mermaid sequence diagrams emit ids such as "actor0" and "root-1" without the svgId, so two diagrams inlined in one page would share them.
+function scopeIds(svg: string, diagramId: string): string {
+  const tags: Tag[] = [];
+  const styles: { start: number; end: number }[] = [];
+  let i = 0;
+  for (;;) {
+    const lt = svg.indexOf("<", i);
+    if (lt < 0) break;
+    const skip = SKIPPED.find(([opener]) => svg.startsWith(opener, lt));
+    if (skip) {
+      const close = svg.indexOf(skip[1], lt);
+      if (close < 0) break;
+      i = close + skip[1].length;
+      continue;
+    }
+    const tagEnd = findTagEnd(svg, lt);
+    i = tagEnd;
+    if (svg.startsWith("</", lt)) continue;
+    const tag = parseTag(svg, lt, tagEnd);
+    tags.push(tag);
+    if (tag.name === "style" && tag.end < 0) {
+      const close = svg.indexOf("</style", tagEnd);
+      if (close < 0) break;
+      styles.push({ start: tagEnd, end: close });
+      i = close;
+    }
+  }
+
+  const renames = new Map<string, string>();
+  for (const tag of tags) {
+    const value = tag.attrs.find((a) => a.name === "id")?.value;
+    if (value && !value.includes(diagramId)) renames.set(value, `${diagramId}-${value}`);
+  }
+  if (renames.size === 0) return svg;
+
+  const edits = [
+    ...tags.map((t) => ({ start: t.start, end: t.tagEnd, text: rewriteTag(svg.slice(t.start, t.tagEnd), t.name, renames) })),
+    ...styles.map((s) => ({ ...s, text: rewriteCss(svg.slice(s.start, s.end), renames) })),
+  ].sort((a, b) => a.start - b.start);
+  let result = "";
+  let cursor = 0;
+  for (const edit of edits) {
+    result += svg.slice(cursor, edit.start) + edit.text;
+    cursor = edit.end;
+  }
+  return result + svg.slice(cursor);
+}
+
 export function finalizeSvg(svg: string, opts: { id: string; acc: AccText }): string {
-  const oneLine = svg.replace(/\r?\n/g, " ");
-  if (oneLine.includes('aria-roledescription="error"')) {
+  const unscoped = svg.replace(/\r?\n/g, " ");
+  if (unscoped.includes('aria-roledescription="error"')) {
     throw new Error('Mermaid rendered an error diagram (aria-roledescription="error")');
   }
+  const oneLine = scopeIds(unscoped, opts.id);
 
   const root = findRoot(oneLine);
   const width = viewBoxWidth(root);
