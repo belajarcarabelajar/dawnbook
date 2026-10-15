@@ -14,7 +14,7 @@ Pada fase ini, efek bius mulai menghilang dan rasa nyeri biasanya sudah cukup be
 
 ### 2. Masa Kritis "Keropeng" (Hari ke-4 - ke-7)
 
-Pada fase ini, lapisan putih keabu-abuan (*slough*) yang mulai terbentuk sejak hari-hari pertama terlihat jelas di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. Di fase ini nyeri bisa naik lagi ketika keropeng mulai mengelupas, dan pada orang dewasa nyeri sering masih terasa paling berat.
+Pada fase ini, lapisan putih keabu-abuan (*slough*) yang mulai terbentuk sejak hari-hari pertama terlihat jelas di bekas lokasi amandel. Lapisan ini berfungsi sebagai keropeng pelindung alami dan bukan merupakan tanda infeksi. Di fase ini nyeri bisa naik lagi ketika keropeng mulai mengelupas, dan pada orang dewasa nyeri bisa terasa paling berat di fase ini.
 
 Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari gerakan mendadak yang bisa menaikkan tekanan darah. Harap berhati-hati karena keropeng ini mulai mengelupas pada hari ke-5 hingga ke-10, yang dapat memicu risiko perdarahan.
 
