@@ -133,4 +133,72 @@ describe("detect-emojis", () => {
       expect(matches[0].emoji).toBe("📖");
     });
   });
+
+  describe("code fences", () => {
+    const ROCKET = String.fromCodePoint(0x1f680);
+    const STAR = String.fromCodePoint(0x2b50);
+    const FENCE = "`".repeat(3);
+
+    async function cleanFile(content: string) {
+      const filePath = path.join(tmpDir, "fenced.md");
+      await fs.promises.writeFile(filePath, content, "utf8");
+      const matches = await scanAndCleanFile(filePath, "test-book", true);
+      const after = await fs.promises.readFile(filePath, "utf8");
+      return { matches, after };
+    }
+
+    it("clean mode leaves a mermaid block byte-identical and still cleans the next prose line", async () => {
+      const block = [
+        `${FENCE}mermaid`,
+        "flowchart LR",
+        `  A["Start ${ROCKET}"]  -->  B   `,
+        FENCE,
+      ];
+      const { after } = await cleanFile(
+        ["Intro", ...block, `Next ${STAR}  prose  `].join("\n"),
+      );
+      expect(after).toBe(["Intro", ...block, "Next prose"].join("\n"));
+    });
+
+    it("clean mode skips a tilde fence", async () => {
+      const block = ["~~~text", `kept ${ROCKET}  here`, "~~~"];
+      const { after } = await cleanFile(
+        [...block, `after ${STAR} line`].join("\n"),
+      );
+      expect(after).toBe([...block, "after line"].join("\n"));
+    });
+
+    it("clean mode treats an unclosed fence as running to the end of the file", async () => {
+      const content = [`before ${STAR} x`, `  ${FENCE}`, `open ${ROCKET}`, `still ${STAR}`].join("\n");
+      const { after } = await cleanFile(content);
+      expect(after).toBe(["before x", `  ${FENCE}`, `open ${ROCKET}`, `still ${STAR}`].join("\n"));
+    });
+
+    it("clean mode does not close a fence on a shorter run, a different character, or an info string", async () => {
+      const block = [
+        "`".repeat(4),
+        FENCE,
+        "~~~~",
+        `${"`".repeat(4)}js`,
+        `inside ${ROCKET}`,
+        "`".repeat(5),
+      ];
+      const { after } = await cleanFile([...block, `out ${STAR}`].join("\n"));
+      expect(after).toBe([...block, "out"].join("\n"));
+    });
+
+    it("detection mode still reports an emoji inside a fence and flags it", async () => {
+      const filePath = path.join(tmpDir, "fenced.md");
+      const content = [`prose ${STAR}`, `${FENCE}mermaid`, `A["${ROCKET}"]`, FENCE].join("\n");
+      await fs.promises.writeFile(filePath, content, "utf8");
+
+      const matches = await scanAndCleanFile(filePath, "test-book", false);
+
+      expect(matches.map((m) => [m.lineNumber, m.emoji, m.inCodeFence])).toEqual([
+        [1, STAR, false],
+        [3, ROCKET, true],
+      ]);
+      expect(await fs.promises.readFile(filePath, "utf8")).toBe(content);
+    });
+  });
 });
