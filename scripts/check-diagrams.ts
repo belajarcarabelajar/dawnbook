@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { findDiagramBlocks, type DiagramBlock } from "./diagrams/extract";
 import { cachePath, diagramKey } from "./diagrams/cache";
+import { listBooks, markdownFiles, toPosix } from "./diagrams/books";
 
 export interface DiagramViolation {
   book: string;
@@ -199,35 +200,6 @@ function isFirstBlock(lines: string[], block: DiagramBlock): boolean {
   return lines.slice(0, block.startLine - 1).every((l) => l.trim() === "" || /^#{1,6}\s/.test(l));
 }
 
-function listBooks(root: string, only?: string): string[] {
-  const booksDir = path.join(root, "books");
-  if (only !== undefined) {
-    if (!fs.existsSync(path.join(booksDir, only, "book.toml"))) {
-      throw new Error(`no book "${only}" (expected ${path.join("books", only, "book.toml")})`);
-    }
-    return [only];
-  }
-  if (!fs.existsSync(booksDir)) return [];
-  return fs
-    .readdirSync(booksDir)
-    .filter((name) => !name.startsWith("_") && !name.startsWith("."))
-    .filter((name) => fs.existsSync(path.join(booksDir, name, "book.toml")))
-    .sort();
-}
-
-function markdownFiles(dir: string): string[] {
-  if (!fs.existsSync(dir)) return [];
-  const out: string[] = [];
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) out.push(...markdownFiles(full));
-    else if (entry.isFile() && entry.name.endsWith(".md")) out.push(full);
-  }
-  return out;
-}
-
-const toPosix = (p: string) => p.split(path.sep).join("/");
-
 export function checkDiagrams(root: string, opts: { book?: string } = {}): { violations: DiagramViolation[]; orphans: string[] } {
   const violations: DiagramViolation[] = [];
   const orphans: string[] = [];
@@ -291,9 +263,14 @@ if (import.meta.main) {
   };
   const root = path.resolve(valueOf("--root") ?? process.cwd());
   const book = valueOf("--book");
-  if (book !== undefined && !fs.existsSync(path.join(root, "books", book, "book.toml"))) {
-    console.error(`no book "${book}" (expected books/${book}/book.toml)`);
-    process.exit(1);
+  // Only the slug lookup is caught: an unknown --book is one stderr line, any other error keeps its stack trace.
+  if (book !== undefined) {
+    try {
+      listBooks(root, book);
+    } catch (error) {
+      console.error((error as Error).message);
+      process.exit(1);
+    }
   }
   const { violations, orphans } = checkDiagrams(root, { book });
   for (const v of violations) console.log(`${v.book}/${v.file}:${v.line} [${v.rule}] ${v.message}`);

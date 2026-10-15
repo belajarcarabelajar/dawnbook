@@ -1,6 +1,7 @@
 import { existsSync, mkdirSync, readdirSync, readFileSync, rmSync, writeFileSync } from "node:fs";
-import { basename, dirname, join, relative, resolve, sep } from "node:path";
+import { basename, dirname, join, relative, resolve } from "node:path";
 import type { Browser } from "puppeteer";
+import { listBooks, markdownFiles, toPosix } from "./diagrams/books";
 import { cachePath, diagramId, diagramKey, loadRenderConfig } from "./diagrams/cache";
 import { findDiagramBlocks } from "./diagrams/extract";
 import { finalizeSvg, readAccText, type AccText } from "./diagrams/postprocess";
@@ -48,34 +49,6 @@ interface BookScan {
 
 const DEFAULT_EXECUTABLE = "/usr/bin/chromium";
 const CONCURRENCY = 3;
-
-function toPosix(path: string): string {
-  return path.split(sep).join("/");
-}
-
-function listBooks(booksDir: string, only?: string): string[] {
-  if (!existsSync(booksDir)) return [];
-  const names = only === undefined ? readdirSync(booksDir).sort() : [only];
-  const books = names.filter(
-    (name) => !name.startsWith("_") && !name.startsWith(".") && existsSync(join(booksDir, name, "book.toml")),
-  );
-  if (only !== undefined && books.length === 0) {
-    throw new Error(`book "${only}" not found under ${booksDir} (needs a book.toml)`);
-  }
-  return books;
-}
-
-function markdownFiles(dir: string): string[] {
-  if (!existsSync(dir)) return [];
-  const files: string[] = [];
-  const entries = readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name));
-  for (const entry of entries) {
-    const full = join(dir, entry.name);
-    if (entry.isDirectory()) files.push(...markdownFiles(full));
-    else if (entry.isFile() && entry.name.endsWith(".md")) files.push(full);
-  }
-  return files;
-}
 
 function scanBook(root: string, booksDir: string, slug: string, problems: string[]): BookScan {
   const bookDir = join(booksDir, slug);
@@ -158,7 +131,7 @@ export async function renderBooks(root: string, opts: RenderOptions = {}): Promi
   const booksDir = join(root, "books");
   const result: RenderResult = { rendered: [], cached: 0, missing: [], orphans: [], pruned: [] };
   const problems: string[] = [];
-  const scans = listBooks(booksDir, opts.book).map((slug) => scanBook(root, booksDir, slug, problems));
+  const scans = listBooks(root, opts.book, { filterOnly: true }).map((slug) => scanBook(root, booksDir, slug, problems));
   // Fail before pruning or rendering, so a block without acc text never changes the cache.
   if (problems.length > 0) throw new DiagramRenderError(problems, result);
 

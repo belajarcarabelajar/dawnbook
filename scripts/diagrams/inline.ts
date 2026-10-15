@@ -2,19 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { findDiagramBlocks, replaceDiagramBlocks } from "./extract";
 import { cachePath, diagramKey } from "./cache";
-
-function markdownFiles(dir: string): string[] {
-  if (!fs.existsSync(dir)) return [];
-  const out: string[] = [];
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true }).sort((a, b) => a.name.localeCompare(b.name))) {
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) out.push(...markdownFiles(full));
-    else if (entry.isFile() && entry.name.endsWith(".md")) out.push(full);
-  }
-  return out;
-}
-
-const toPosix = (p: string) => p.split(path.sep).join("/");
+import { markdownFiles, toPosix } from "./books";
 
 export function inlineDiagramsInBook(
   tmpBookDir: string,
