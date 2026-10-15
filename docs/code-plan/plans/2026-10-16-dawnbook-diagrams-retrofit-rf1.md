@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf1
-status: InProgress
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -218,7 +218,7 @@ tasks:
 - [x] S2 Execute: one subagent per book adds 0-3 grounded diagrams per chapter from `g1.md`, renders them, gate exit 0; parent diff audit and commit per book. Evidence: 10 subagents (chef, nappy, hoggy) dispatched in one message; parent read every inserted block against its source lines and committed one book per commit (`c579ad7`, `167d018`, `c3ec4ed`, `f891a31`, `cdfea6a`, `6a5047e`, `d2efb6c`, `4675354`, `e19de10`, `b013535`); 27 diagrams in 26 chapters, see Execution record; label fix `cc5ec8b`
 - [x] S3 Review: independent grounding review of every diagram against its chapter lines; findings fixed. Evidence: three `staid` reviewers (standards books 1-5, standards books 6-10, spec axis), each verdict `correct`, 0 P0/P1/P2; the P3 findings are fixed in `e145754` (two source hedges restored, one decision label, four varied intro sentences); report `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1-review.md`
 - [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, `check-book-structure.ts` for the ten books (no new problem beyond baseline; command form: `bun run scripts/check-book-structure.ts <slug> | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1/structure-baseline/<slug>.txt -`, empty diff expected, the script itself exits 1 on the pre-existing problems). Evidence first run on tree `cc5ec8b`, rerun on the final content tree `e145754` with the same results (build exit 0, 658 pass, 13 skip, 0 fail, 27 inline diagrams, the reworded labels present in the built page): `bun run build` exit 0 ("SEO Validation passed", "Premium Hub site generated successfully"); `bun test` 658 pass, 13 skip, 0 fail, exit 0; `bun run check:diagrams` "0 diagram violations, 0 orphaned SVGs"; `check-book-structure.ts` output byte-identical to the baseline for all ten books (3, 3, 5, 6, 10, 2, 4, 6, 4, 8); `bun run check:headings` 0 violations; build output `output/books/<slug>/content/*.html` holds 27 `class="dawnbook-diagram"` (equal to the 27 source blocks), 0 `language-mermaid` fences, 0 `foreignObject`, and no `diagrams/` folder
-- [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
+- [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate. Progress: seed run twice (after the review fixes and after F3), each exit 0, D1 mermaid block counts equal the source (27); PR #153 opened with `--body-file` and registered (`pr-registry pr ... --number 153`, state `open`); the `Merge` gate is pending
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
 ## Visual Map
@@ -333,6 +333,21 @@ Acceptance: F1 a cached SVG whose label row splits a source word fails `check:di
 
 - [ ] Step 1: Run | cmd: structure diff for the three books against the committed baseline | expect: exit 0 | retry: 0
 
+### Follow-up evidence
+
+- F1 (`e8c840a`, chef): RED `bun test tests/scripts/check-diagrams.test.ts` exit 1, 73 pass, 4 fail (`Expected ["split-word"]`, `Received []`); GREEN 77 pass, 0 fail. Regression proof: the new checker run with `--root` on an archive of the pre-fix tree `b013535` reports exactly the seven diagrams and eight words of the parent finding below, and not the normal break "Loncatan Iman" / "= Solusi"; on the current tree it reports 0 violations.
+- F2 (`05f817e`, nappy): the section 25 contract paragraph gains three sentences (hedges and examples kept, intro sentence varied within a book, reword what `split-word` reports) and the Width bullet names `split-word`; `AGENTS.md` and `CLAUDE.md` are still symlinks to `GEMINI.md`; em dash count unchanged.
+- F3 (`1f2972e`, hoggy plus two parent punctuation fixes in the same files): kernel ch12 display math uses single backslashes inside `<div>` and the typo reads "tumpang tindih di dalam"; bias-kognitif ch07 math is `\text{Biaya Masa Depan}` with no escaped underscore; digital-minimalisme ch02 "atau"; bias ch07 line 23 gains its full stop and digital-minimalisme ch02 line 59 loses the space before a comma. The built pages show the formulas with single backslashes and no `<em>`; structure output equals the baseline for the three books.
+- Integration after F1-F3 (tree `e8c840a`): `bun run build` exit 0; `bun test` 665 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; `check:headings` 0 violations. D1 seed rerun exit 0 (58 books, 0 failure lines); `cf d1 query` finds "tumpang tindih di dalam RAM" and "Biaya Masa Depan" in D1; `db/seed.sql` regenerated.
+
+### Backlog (LATER)
+
+- `split-word` reads only `text-outer-tspan` rows, so sequence, timeline, pie and xychart text is not checked. `defer: a retrofit that adds a long-label sequence or timeline, or a reported split in one`
+- `split-word` skips a cut piece that ends in punctuation ("/media/usb/" then "data.txt"). `defer: the first such split seen in review`
+- The `split-word` message hardcodes 110 px (the detection itself does not depend on it). `defer: any change to flowchart.wrappingWidth in render-config.json`
+- analisis-wacana-kritis ch05 and ch07 write arrow chains as display math that could become diagrams. `defer: a later retrofit of that book`
+- Existing opener and structure problems of the ten books (the committed baselines). `defer: a content-hygiene session per GEMINI.md sections 8 and 21`
+
 ## Execution record
 
 | Task | Book | Diagrams (chapter: type) | Skipped candidate and reason |
@@ -348,9 +363,9 @@ Acceptance: F1 a cached SVG whose label row splits a source word fails `check:di
 | B9 | eksistensialisme-dan-makna-hidup | ch02 Kierkegaard stages (flowchart LR), ch02 roots of existentialism (flowchart TD, replaces the ASCII tree; root label moved to accTitle), ch03 Camus responses (flowchart LR) | none |
 | B10 | elastisitas-harga-permintaan-dan-penawaran | ch04 elasticity classes (flowchart LR decision), ch06 TR curve regions (flowchart LR), ch08 supply analysis flow (flowchart TD) | ch09 supply table: same five-class shape as the ch04 demand diagram |
 
-Parent finding during the diff audit: `scripts/diagrams/render-config.json` sets `flowchart.wrappingWidth` to 110, and Mermaid breaks a word wider than that into character chunks on separate lines. A scratch scan of every cached SVG against the source labels found eight such splits in seven diagrams ("menyeimbangk/an", "menguntungka/n,", "/media/usb/dat/a.txt", "pengetahuann/ya", "menggunakan/nya?", a lone "?", a lone ",", "Pemberontaka/n"); the pilots `nudge-theory` and `iklan-digital-dan-penargetan-algoritma` had none. Commit `cc5ec8b` rewords nine labels for those eight splits (the ninth, "Adverse pressure gradient", keeps the aerodinamika ch09 pair parallel; meaning kept, accDescr unchanged) and prunes the stale SVGs; the rescan finds 0 splits. The commit subject says "eight labels"; nine is the correct count. The gate does not detect this yet (see the debt sweep).
+Parent finding during the diff audit: `scripts/diagrams/render-config.json` sets `flowchart.wrappingWidth` to 110, and Mermaid breaks a word wider than that into character chunks on separate lines. A scratch scan of every cached SVG against the source labels found eight such splits in seven diagrams ("menyeimbangk/an", "menguntungka/n,", "/media/usb/dat/a.txt", "pengetahuann/ya", "menggunakan/nya?", a lone "?", a lone ",", "Pemberontaka/n"); the pilots `nudge-theory` and `iklan-digital-dan-penargetan-algoritma` had none. Commit `cc5ec8b` rewords nine labels for those eight splits (the ninth, "Adverse pressure gradient", keeps the aerodinamika ch09 pair parallel; meaning kept, accDescr unchanged) and prunes the stale SVGs; the rescan finds 0 splits. The commit subject says "eight labels"; nine is the correct count. The gate now detects this (`split-word`, task F1).
 
 ## Status
 
-- Status: Verification (S2, S3 and S4 done)
-- Resume: worktree above; next is the D1 seed and the PR (S5).
+- Status: Verification (S2, S3, S4 and follow-ups F1-F3 done; PR #153 open)
+- Resume: worktree above; next is the runner log, readiness and the `Close plan` gate, then the `Merge` gate.
