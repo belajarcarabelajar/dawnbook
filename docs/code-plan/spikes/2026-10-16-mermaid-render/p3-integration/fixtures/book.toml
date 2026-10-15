@@ -1,0 +1,14 @@
+# Question: what does mdBook 0.5.4 emit for chapters whose mermaid fences were swapped for inline SVG?
+[book]
+title = "Mermaid Spike P3"
+authors = ["Spike"]
+language = "id"
+src = "src"
+
+[output.html]
+
+[output.html.print]
+enable = false
+
+[output.html.search]
+enable = true

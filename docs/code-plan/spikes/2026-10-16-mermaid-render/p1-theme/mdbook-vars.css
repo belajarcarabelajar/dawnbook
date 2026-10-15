@@ -1,0 +1,8 @@
+/* Can one Mermaid SVG follow all five mdBook themes through mdBook CSS variables? Hex fallbacks are the mdBook light theme values. */
+text, tspan, .label text, .cluster-label text, .cluster text, .edgeLabel text { fill: var(--fg, #000000); }
+.node rect, .node circle, .node ellipse, .node polygon, .node path { fill: var(--quote-bg, #f1f6f8); stroke: var(--links, #20609f); stroke-width: 1.5px; }
+.cluster rect { fill: var(--table-alternate-bg, #f7f7f7); stroke: var(--quote-border, #dfecf1); stroke-width: 1px; }
+/* --icons is too faint on coal (#43484d on an 8% background), so edges use --fg at reduced opacity instead. */
+.flowchart-link { stroke: var(--fg, #000000); stroke-opacity: 0.6; fill: none; }
+.marker, .marker.cross, .arrowheadPath, .arrowMarkerPath { fill: var(--fg, #000000); stroke: var(--fg, #000000); fill-opacity: 0.6; stroke-opacity: 0.6; }
+.edgeLabel rect, .edgeLabel rect.background, .labelBkg { opacity: 1; fill: var(--bg, #ffffff); background-color: var(--bg, #ffffff); }

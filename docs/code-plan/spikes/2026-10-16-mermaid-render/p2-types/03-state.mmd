@@ -1,0 +1,8 @@
+stateDiagram-v2
+    accTitle: Status sebuah bab
+    accDescr: Bab berpindah dari belum dibaca ke sedang dibaca, lalu ke selesai, dan bisa dibaca ulang.
+    [*] --> BelumDibaca
+    BelumDibaca --> SedangDibaca : buka bab
+    SedangDibaca --> Selesai : gulir sampai akhir
+    Selesai --> SedangDibaca : baca ulang
+    Selesai --> [*]
