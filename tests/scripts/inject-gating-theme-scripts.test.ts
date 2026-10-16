@@ -102,4 +102,34 @@ describe("mdBook theme scripts are exempt from Rocket Loader", () => {
 </body></html>`;
     expect(markThemeScriptsCfAsync(page)).toBe(page);
   });
+
+  test("throws and names every missing script when an mdBook page has no theme toggle id and no theme scripts", () => {
+    // An mdBook upgrade could rename the toggle id and change the scripts together; the generator comment still marks the page.
+    const page = `<!DOCTYPE html>
+<html lang="id" class="light sidebar-visible" dir="ltr">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Bab Pertama</title>
+    </head>
+    <body><button id="theme-switcher" type="button"></button><p>Kamu membaca bab pertama.</p></body>
+</html>`;
+    expect(() => markThemeScriptsCfAsync(page)).toThrow(/default-themes script/);
+    expect(() => markThemeScriptsCfAsync(page)).toThrow(/localStorage quote workaround script/);
+    expect(() => markThemeScriptsCfAsync(page)).toThrow(/theme bootstrap script/);
+  });
+
+  test("throws and names only the quote workaround when a themed page lacks the localStorage quote workaround script", () => {
+    const broken = fixture.replace(THEME_SCRIPT_MARKERS.quoteWorkaround, "if (theme.length > 1)");
+    expect(broken).not.toBe(fixture);
+    let message = "";
+    try {
+      markThemeScriptsCfAsync(broken);
+    } catch (error) {
+      message = (error as Error).message;
+    }
+    expect(message).toContain("localStorage quote workaround script");
+    expect(message).not.toContain("default-themes script");
+    expect(message).not.toContain("theme bootstrap script");
+  });
 });

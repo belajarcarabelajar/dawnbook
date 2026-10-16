@@ -157,10 +157,11 @@ export function markThemeScriptsCfAsync(html: string): string {
     },
   );
 
-  if (html.includes('id="mdbook-theme-toggle"')) {
+  // The generator comment keeps the guard alive if an mdBook upgrade renames the toggle id.
+  if (html.includes('id="mdbook-theme-toggle"') || html.includes("<!-- Book generated using mdBook -->")) {
     const missing = MDBOOK_THEME_SCRIPTS.filter((script) => !found.has(script.name)).map((script) => script.name);
     if (missing.length > 0) {
-      throw new Error(`mdBook page has a theme toggle but no ${missing.join(", ")}; check the mdBook markup before deploying`);
+      throw new Error(`mdBook page is missing its ${missing.join(", ")}; check the mdBook markup before deploying`);
     }
   }
 
