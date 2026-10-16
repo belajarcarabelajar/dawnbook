@@ -89,4 +89,19 @@ Tiap transisi ditandai dengan krisis dari dua kutub yang berlawanan. Melaluinya 
 - Paruh baya usia 40-65 tahun (**Generativity vs. Stagnation**) sering menjadi masa evaluasi di mana orang mempertanyakan kontribusi mereka untuk generasi ke depan, membangun jaring pengasuhan dan perhatian (*care*).
 - Pada usia 65 tahun ke atas (**Ego Integrity vs. Despair**), lansia akan memutar kembali memori hidup mereka. Mereka bisa merasa lega dan merengkuh kebijaksanaan (*wisdom*), atau tenggelam dalam amarah dan keputusasaan atas hal-hal yang tidak bisa diubah.
 
+Urutan delapan krisis tersebut dapat kamu lihat sekilas pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Delapan tahap psikososial Erik Erikson
+    accDescr: Delapan krisis psikososial berurutan menurut usia, dari Trust vs. Mistrust pada usia 0-1 tahun sampai Ego Integrity vs. Despair pada usia 65 tahun ke atas. Kata dalam kurung adalah kualitas yang muncul bila krisis itu dilalui dengan baik.
+    A["0-1 tahun: Trust vs. Mistrust (hope)"] --> B["1-3 tahun: Autonomy vs. Shame and Doubt (will)"]
+    B --> C["3-6 tahun: Initiative vs. Guilt (purpose)"]
+    C --> D["6-12 tahun: Industry vs. Inferiority (percaya pada kemampuan diri)"]
+    D --> E["12-18 tahun: Identity vs. Role Confusion (fidelity)"]
+    E --> F["18-40 tahun: Intimacy vs. Isolation (love)"]
+    F --> G["40-65 tahun: Generativity vs. Stagnation (care)"]
+    G --> H["65 tahun ke atas: Ego Integrity vs. Despair (wisdom)"]
+```
+
 Berbeda dari Freud yang mengikat kepribadian pada pengalaman prasekolah, siklus perkembangan ini membuktikan bahwa pembentukan kepribadian adalah proses adaptasi tiada henti dari lahir sampai akhir hayat.

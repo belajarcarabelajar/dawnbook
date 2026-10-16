@@ -78,6 +78,17 @@ Interaksi Tiga Arah: $B \leftrightarrow P \leftrightarrow E$
 * **P (*Person*):** Faktor kognitif (seperti harapan dan *self-efficacy*), afektif, dan biologis.
 * **E (*Environment*):** Faktor eksternal seperti konteks fisik dan sosial.
 
+Supaya hubungan timbal balik ketiga unsur ini lebih mudah kamu bayangkan, perhatikan gambaran interaksinya berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Reciprocal determinism menurut Bandura
+    accDescr: Tiga unsur saling memengaruhi secara timbal balik, yaitu B atau behavior berupa tindakan dan respons individu, P atau person berupa faktor kognitif, afektif, dan biologis, serta E atau environment berupa konteks fisik dan sosial.
+    B["B (Behavior): tindakan dan respons individu"] <--> P["P (Person): faktor kognitif, afektif, dan biologis"]
+    P <--> E["E (Environment): konteks fisik dan sosial"]
+    E <--> B
+```
+
 Sebagai contoh, mahasiswa (P) dengan tingkat *self-efficacy* yang tinggi lebih suka menghabiskan waktu di perpustakaan (B). Lingkungan perpustakaan yang tenang (E) memfasilitasi kebiasaan belajarnya (B). Prestasi akademik yang baik (B) lalu akan semakin menguatkan rasa percaya dirinya (P), sehingga ia terus membiasakan diri berada di lingkungan belajar tersebut (E).
 
 Konsep ini memperlihatkan bahwa manusia secara aktif membentuk dan dibentuk oleh lingkungan serta proses kognisinya sendiri.
