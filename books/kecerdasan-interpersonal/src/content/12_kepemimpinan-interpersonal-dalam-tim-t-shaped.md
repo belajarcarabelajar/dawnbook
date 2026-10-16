@@ -54,6 +54,19 @@ Inilah esensi kepemimpinan *T-Shaped*: menyerap masukan dari berbagai sudut pand
 
 - **Langkah Praktis:** Susun dokumentasi bersama yang mencerminkan hasil integrasi tersebut secara jelas.
 
+Bagan berikut merangkum ketiga tahap kerangka kerja itu bersama langkah praktis masing-masing.
+
+```mermaid
+flowchart TD
+    accTitle: Strategi memimpin inisiatif kolaboratif
+    accDescr: Tiga tahap kerangka kerja, yaitu Kontekstualisasi untuk the why, Orkestrasi untuk the how, dan Sintesis untuk the result, masing-masing dengan langkah praktisnya.
+    A["Tahap konteks (the why)"] --> B["Orkestrasi (the how)"]
+    B --> C["Sintesis (the result)"]
+    A -.->|"langkah praktis"| A1["Sesi kick-off tentang masalah siapa yang diselesaikan"]
+    B -.->|"langkah praktis"| B1["Round-robin brainstorming"]
+    C -.->|"langkah praktis"| C1["Dokumentasi bersama hasil integrasi"]
+```
+
 **Contoh Struktur Logika Integrasi:**
 
 ```text

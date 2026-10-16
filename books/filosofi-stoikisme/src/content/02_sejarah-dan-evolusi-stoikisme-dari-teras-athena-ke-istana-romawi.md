@@ -40,6 +40,18 @@ Inilah era yang paling kita kenal sekarang. Pada periode ini, diskusi teoritis t
 
 - Di sini kita menemukan tiga tokoh raksasa: **Seneca** (negarawan), **Epictetus** (mantan budak), dan **Marcus Aurelius** (kaisar).
 
+Ketiga periode itu, beserta tokoh-tokohnya, terangkum dalam garis waktu ini.
+
+```mermaid
+timeline
+    accTitle: Tiga periode utama Stoikisme
+    accDescr: Garis waktu Stoa Awal pada abad ke-3 sampai ke-2 SM dengan Zeno, Cleanthes dan Chrysippus, Stoa Madya pada abad ke-2 sampai ke-1 SM dengan Panaetius dan Posidonius, lalu Stoa Akhir atau Stoa Romawi pada abad ke-1 sampai ke-2 M dengan Seneca, Epictetus dan Marcus Aurelius.
+    title Tiga Periode Utama Stoikisme
+    Abad ke-3 sampai ke-2 SM : Stoa Awal : Zeno dari Citium : Cleanthes : Chrysippus
+    Abad ke-2 sampai ke-1 SM : Stoa Madya : Panaetius : Posidonius
+    Abad ke-1 sampai ke-2 M : Stoa Akhir atau Stoa Romawi : Seneca : Epictetus : Marcus Aurelius
+```
+
 ## 3\. Transformasi di Kekaisaran Romawi
 
 Mengapa orang Romawi begitu mencintai Stoikisme? Jawabannya ada pada karakter bangsa Romawi itu sendiri: mereka adalah orang-orang yang menghargai tugas (*duty*), disiplin, dan keteguhan hati.

@@ -8,14 +8,17 @@ Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebaga
 
 ### 1. Paradigma Pertumbuhan yang Bergeser dari Eksogen ke Endogen
 
-Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern.
+Untuk memahami peran modal manusia terhadap perekonomian, kita perlu menelusuri evolusi pemikiran ekonomi modern. Pergeseran dua model itu bisa kamu ikuti pada bagan ini.
 
-```text
-Model Pertumbuhan Eksogen (Solow) ───► Menganggap teknologi sebagai "berkah luar"
-                                       Terbentur Hukum Diminishing Returns
-
-Model Pertumbuhan Endogen (Romer/Lucas) ──► Pengetahuan & Human Capital didorong dari dalam
-                                            Menciptakan Increasing Returns & Spillover
+```mermaid
+flowchart TD
+    accTitle: Pergeseran dari model eksogen ke model endogen
+    accDescr: Model pertumbuhan eksogen Solow menganggap teknologi sebagai berkah luar dan terbentur hukum diminishing returns. Paradigma bergeser ke model pertumbuhan endogen Romer dan Lucas, yang menganggap pengetahuan dan human capital didorong dari dalam serta menciptakan increasing returns dan spillover.
+    S["Model eksogen (Solow)"] --> S1["Teknologi dianggap “berkah luar”"]
+    S --> S2["Terbentur hukum diminishing returns"]
+    S -->|"paradigma bergeser"| E["Model endogen (Romer dan Lucas)"]
+    E --> E1["Pengetahuan dan human capital didorong dari dalam"]
+    E1 --> E2["Increasing returns dan spillover"]
 ```
 
 #### Model Pertumbuhan Solow (Eksogen)
@@ -116,12 +119,15 @@ Namun, Korea Selatan menerapkan strategi transformasi berbasis pengetahuan:
 
 ### 5. Efek Pengganda (*Multiplier Effect*) Modal Manusia
 
-Investasi pada kapasitas manusia memicu siklus pertumbuhan positif (*virtuous cycle*) dalam perekonomian:
+Investasi pada kapasitas manusia memicu siklus pertumbuhan positif (*virtuous cycle*) dalam perekonomian. Rantai awalnya tergambar seperti ini.
 
-```text
-Investasi Pendidikan & Kesehatan ──► Peningkatan Keterampilan Tenaga Kerja
-                                             │
-Investasi Asing (FDI) Meningkat ◄── Peningkatan Inovasi & Kapasitas Industri
+```mermaid
+flowchart LR
+    accTitle: Rantai efek pengganda modal manusia
+    accDescr: Investasi pendidikan dan kesehatan meningkatkan keterampilan tenaga kerja, lalu meningkatkan inovasi dan kapasitas industri, lalu investasi asing atau FDI meningkat.
+    A["Investasi pendidikan dan kesehatan"] --> B["Peningkatan keterampilan tenaga kerja"]
+    B --> C["Peningkatan inovasi dan kapasitas industri"]
+    C --> D["Investasi asing (FDI) meningkat"]
 ```
 
 1. **Kualitas Tenaga Kerja Meningkat:** Akses pendidikan tinggi meningkatkan spesialisasi dan keahlian teknis.

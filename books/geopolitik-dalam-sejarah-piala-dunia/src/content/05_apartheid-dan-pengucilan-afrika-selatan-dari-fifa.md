@@ -60,6 +60,20 @@ Pada awal 1990-an, seiring dengan pembebasan Nelson Mandela dan negosiasi untuk 
 2. Setahun berikutnya, yaitu tahun 1992, FIFA memulihkan status keanggotaan Afrika Selatan secara resmi.
 3. Sebagai laga bersejarah pertama pasca-isolasi, tim nasional Afrika Selatan yang dijuluki "Bafana Bafana" (Anak-Anak Laki-Laki) bertanding melawan Kamerun pada Juli 1992.
 
+Kalau tabel kronologi tadi disambung dengan kepulangan ini, seluruh perjalanannya dapat kamu runut dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Afrika Selatan dari penangguhan hingga kembali ke FIFA
+    accDescr: Urutan keanggotaan Afrika Selatan di FIFA, mulai dari penangguhan pertama 1961, pemulihan sementara 1963, penangguhan kembali 1964, pengusiran 1976, pembentukan SAFA 1991, hingga pemulihan keanggotaan 1992 dan laga melawan Kamerun pada Juli 1992.
+    A["1961, penangguhan pertama"] --> B["1963, pemulihan sementara oleh Sir Stanley Rous"]
+    B --> C["1964, penangguhan kembali di Kongres FIFA Tokyo"]
+    C --> D["1976, pengusiran setelah Tragedi Soweto"]
+    D --> E["1991, SAFA dibentuk sebagai wadah non-rasial"]
+    E --> F["1992, FIFA memulihkan keanggotaan"]
+    F --> G["Juli 1992, laga melawan Kamerun"]
+```
+
 ### 7. Diplomasi Olahraga (Sports Diplomacy)
 
 Kasus Afrika Selatan mengajarkan kita bagaimana olahraga dapat digunakan sebagai **instrumen tekanan internasional (Soft Power)**.

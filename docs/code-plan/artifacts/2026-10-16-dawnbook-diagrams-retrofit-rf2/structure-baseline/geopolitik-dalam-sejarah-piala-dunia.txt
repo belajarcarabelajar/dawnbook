@@ -1,0 +1,4 @@
+09_konflik-timur-tengah-dan-pengusiran-israel-dari-konfederasi-asia.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: opener's first sentence would be truncated in the meta description
+heading "ringkasan konsep" repeated in 04_sebuah-protes-di-rumah-sepak-bola.md, 08_runtuhnya-blok-timur-dan-peta-baru-sepak-bola-dunia.md
+geopolitik-dalam-sejarah-piala-dunia: 13 chapters, 3 problems

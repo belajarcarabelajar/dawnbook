@@ -1,0 +1,7 @@
+01_fondasi-kecerdasan-interpersonal.md: opener's first sentence would be truncated in the meta description
+04_memahami-berbagai-gaya-kerja-dan-kepribadian.md: opener's first sentence would be truncated in the meta description
+05_kolaborasi-lintas-departemen-cross-functional.md: opener's first sentence would be truncated in the meta description
+10_membangun-kepercayaan-dan-keamanan-psikologis.md: first heading "Membangun Trust dan Psychological Safety" differs from SUMMARY title "Membangun Kepercayaan dan Keamanan Psikologis"
+13_referensi.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 09_fasilitasi-rapat-dan-diskusi-kolaboratif.md, 11_etika-komunikasi-digital-dan-kolaborasi-virtual.md
+kecerdasan-interpersonal: 13 chapters, 6 problems

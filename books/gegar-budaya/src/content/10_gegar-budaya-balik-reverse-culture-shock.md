@@ -38,6 +38,19 @@ Jika gegar budaya saat berangkat mengikuti Kurva-U, maka pengalaman total seoran
 2. **Tahap Frustrasi (The Distress):** Kamu mulai menyadari bahwa orang-orang tidak terlalu tertarik mendengar cerita perjalananmu. Kamu merasa standar hidup atau efisiensi di rumah lebih rendah dibanding tempat kamu merantau.
 3. **Tahap Penyesuaian Kembali (Readjustment):** Kamu mulai mengintegrasikan identitas "lama" dan "baru" kamu menjadi versi diri yang lebih global.
 
+Ketiga tahap itu, yang menyusul Kurva-U dari masa keberangkatan, tersusun seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Model Kurva-W
+    accDescr: Pengalaman total perantau biasanya membentuk Kurva-W. Setelah Kurva-U saat berangkat, gegar budaya balik menjadi lembah kedua yang berjalan dari tahap euforia, ke tahap frustrasi, lalu ke tahap penyesuaian kembali.
+    A["Kurva-U saat berangkat"] -->|"kembali ke budaya asal"| B
+    subgraph W["Lembah kedua, gegar budaya balik"]
+        B["Euforia"] --> C["Frustrasi"]
+        C --> D["Penyesuaian Kembali"]
+    end
+```
+
 ## Gejala yang Sering Tidak Disadari
 
 Gegar budaya balik tidak selalu berupa kesedihan; ia bisa muncul dalam berbagai bentuk:

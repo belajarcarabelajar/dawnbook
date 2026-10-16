@@ -46,6 +46,18 @@ Keberlanjutan organisasi sangat bergantung pada seberapa cepat informasi mengali
 3. **Output:** Kinerja nyata yang dihasilkan di lapangan.
 4. **Feedback:** Tahap evaluasi (*Controlling*) guna mengumpulkan data penting, yang kemudian dipakai untuk menyempurnakan rencana pada siklus berikutnya.
 
+Perhatikan bagaimana tahap Feedback mengalir kembali ke Input sehingga keempat tahap itu membentuk lingkaran.
+
+```mermaid
+flowchart TD
+    accTitle: Lingkaran umpan balik manajemen adaptif
+    accDescr: Input berupa rencana strategis mengalir ke Process, lalu ke Output berupa kinerja nyata, lalu ke Feedback berupa evaluasi Controlling, yang kembali menyempurnakan rencana pada siklus berikutnya.
+    A["Input (rencana strategis)"] --> B["Process (mengatur dan mengeksekusi)"]
+    B --> C["Output (kinerja nyata)"]
+    C --> D["Feedback (evaluasi Controlling)"]
+    D -->|"menyempurnakan rencana"| A
+```
+
 Sebagai contoh, jika sebuah perusahaan ponsel pintar tetap menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 
 ## 4. Peluncuran Produk Startup

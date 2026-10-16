@@ -1,0 +1,17 @@
+01_pengantar-teori-modal-manusia.md: chapter title must be a level-2 heading (##)
+02_komponen-utama-investasi-modal-manusia.md: chapter title must be a level-2 heading (##)
+03_analisis-biaya-dan-manfaat-pendidikan.md: chapter title must be a level-2 heading (##)
+03_analisis-biaya-dan-manfaat-pendidikan.md: opener's first sentence would be truncated in the meta description
+04_pelatihan-di-tempat-kerja.md: chapter title must be a level-2 heading (##)
+05_fungsi-upah-mincer.md: chapter title must be a level-2 heading (##)
+06_tingkat-pengembalian-investasi-rate-of-return.md: chapter title must be a level-2 heading (##)
+07_modal-manusia-dan-pertumbuhan-ekonomi.md: chapter title must be a level-2 heading (##)
+07_modal-manusia-dan-pertumbuhan-ekonomi.md: opener's first sentence would be truncated in the meta description
+08_teori-sinyal-dan-penyaringan.md: chapter title must be a level-2 heading (##)
+09_kesenjangan-modal-manusia-dan-ketimpangan-ekonomi.md: chapter title must be a level-2 heading (##)
+09_kesenjangan-modal-manusia-dan-ketimpangan-ekonomi.md: opener's first sentence would be truncated in the meta description
+10_peran-kebijakan-publik-dalam-pengembangan-talenta.md: chapter title must be a level-2 heading (##)
+11_modal-manusia-di-era-ekonomi-digital-dan-ai.md: chapter title must be a level-2 heading (##)
+11_modal-manusia-di-era-ekonomi-digital-dan-ai.md: first heading "Modal Manusia di Era Ekonomi Digital dan Artificial Intelligence (AI)" differs from SUMMARY title "Modal Manusia di Era Ekonomi Digital dan Kecerdasan Buatan"
+12_referensi.md: chapter title must be a level-2 heading (##)
+human-capital-theory: 12 chapters, 16 problems

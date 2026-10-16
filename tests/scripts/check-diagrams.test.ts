@@ -423,6 +423,103 @@ describe("checkDiagrams split-word", () => {
   it("matches label text only, never a node id", () => {
     expect(check('    C --> AkarMasalah["Akar Masalah"]', labelSvg("Akar", "Masalah")).violations).toEqual([]);
   });
+
+  it("reports a cut piece that ends in punctuation when the joined string is a label word", () => {
+    const { violations } = check('    C --> D["Salin ke /media/usb/data.txt"]', labelSvg("Salin ke", "/media/usb/", "data.txt"));
+    expect(violations.map((v) => v.rule)).toEqual(["split-word"]);
+    expect(violations[0].message).toContain('"/media/usb/data.txt"');
+  });
+
+  it("passes a normal break after a comma", () => {
+    const svg = labelSvg("Kosakata,", "tata bahasa");
+    expect(check('    C --> D["Kosakata, tata bahasa"]', svg).violations).toEqual([]);
+  });
+
+  it("passes a normal break after a standalone hyphen", () => {
+    const svg = labelSvg("Jeda T -", "t mengecil");
+    expect(check('    C --> D["Jeda T - t mengecil"]', svg).violations).toEqual([]);
+  });
+
+  it("names the wrap width read from scripts/diagrams/render-config.json", () => {
+    const source = flowWith('    C --> D["Mesin menyeimbangkan beban"]');
+    const root = single(chapter(source), [source], labelSvg("Mesin", "menyeimbangk", "an beban"));
+    const configFile = path.join(root, "scripts", "diagrams", "render-config.json");
+    const config = JSON.parse(fs.readFileSync(configFile, "utf8"));
+    config.flowchart.wrappingWidth = 137;
+    fs.writeFileSync(configFile, JSON.stringify(config));
+    // The cache key covers the render config, so the SVG is re-cached under the new key.
+    cache(root, "buku-uji", [source], labelSvg("Mesin", "menyeimbangk", "an beban"));
+    const { violations } = checkDiagrams(root);
+    expect(violations.map((v) => v.rule)).toEqual(["split-word"]);
+    expect(violations[0].message).toContain("137 px");
+  });
+});
+
+// Sequence and timeline text shaped like mermaid-cli output: a sequence message, note or actor puts each
+// wrapped line in its own adjacent <text> with the same x, and its wrap ends every cut piece with "-"; a
+// timeline event puts each line in a direct <tspan>.
+const seqText = (cls: string, x: number, lines: string[], tspan: boolean) =>
+  lines
+    .map((l, i) => `<text x="${x}" y="${100 + 17 * i}" class="${cls}" dy="1em">${tspan ? `<tspan x="${x}">${l}</tspan>` : l}</text>`)
+    .join("");
+const seqSvg = (...groups: string[]) => `<svg id="dbd-uji" viewBox="0 0 400 300">${groups.map((g) => `<g>${g}</g><line x1="0" y1="0" x2="1" y2="1"/>`).join("")}</svg>`;
+const timelineSvg = (...lines: string[]) =>
+  `<svg id="dbd-uji" viewBox="0 0 400 300"><g class="eventWrapper"><text dy="1em" text-anchor="middle">${lines
+    .map((l, i) => `<tspan x="0" dy="${i === 0 ? "1em" : "1.1em"}">${l.split(" ").join("   ")}</tspan>`)
+    .join("")}</text></g></svg>`;
+
+describe("checkDiagrams split-word in sequence and timeline text", () => {
+  const SEQ = lines(
+    "sequenceDiagram",
+    "    accTitle: Uji urutan",
+    "    accDescr: Dua peserta bertukar pesan.",
+    "    participant A as Aplikasi Pengguna",
+    "    participant K as Kernel",
+    "    A->>K: Mesin menyeimbangkan beban",
+    "    Note over A: Program pengguna berjalan",
+  );
+  const TIMELINE = lines(
+    "timeline",
+    "    accTitle: Uji linimasa",
+    "    accDescr: Satu peristiwa.",
+    "    1969 : Bapak mendapat Surat Izin Mengemudi",
+  );
+  const check = (source: string, svg: string) => checkDiagrams(single(chapter(source), [source], svg)).violations;
+
+  it("reports a sequence message split mid-word", () => {
+    const v = check(SEQ, seqSvg(seqText("messageText", 145, ["Mesin menyeimbangk-", "an beban"], false)));
+    expect(v.map((x) => x.rule)).toEqual(["split-word"]);
+    expect(v[0].message).toContain('"menyeimbangkan"');
+  });
+
+  it("reports a sequence note and an actor split mid-word", () => {
+    const svg = seqSvg(
+      seqText("noteText", 65, ["Program peng-", "guna berjalan"], true),
+      seqText("actor actor-box", 65, ["Aplikasi Peng-", "guna"], true),
+    );
+    const v = check(SEQ, svg);
+    expect(v.map((x) => x.rule)).toEqual(["split-word"]);
+    expect(v[0].message).toContain('"pengguna"');
+    expect(v[0].message).toContain('"Pengguna"');
+  });
+
+  it("passes sequence lines that break at a space, and never joins two separate messages", () => {
+    const svg = seqSvg(
+      seqText("messageText", 145, ["Mesin", "menyeimbangkan beban"], false),
+      seqText("messageText", 145, ["Mesin menyeimbangk-"], false) + seqText("noteText", 300, ["an"], true),
+    );
+    expect(check(SEQ, svg)).toEqual([]);
+  });
+
+  it("reports a timeline event split mid-word", () => {
+    const v = check(TIMELINE, timelineSvg("Bapak mendapat", "Surat Izin Mengem", "udi"));
+    expect(v.map((x) => x.rule)).toEqual(["split-word"]);
+    expect(v[0].message).toContain('"Mengemudi"');
+  });
+
+  it("passes a timeline event that breaks at spaces", () => {
+    expect(check(TIMELINE, timelineSvg("Bapak mendapat", "Surat Izin", "Mengemudi"))).toEqual([]);
+  });
 });
 
 describe("checkDiagrams scope", () => {

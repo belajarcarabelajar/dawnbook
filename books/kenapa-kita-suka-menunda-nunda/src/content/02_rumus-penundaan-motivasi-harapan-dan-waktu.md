@@ -41,6 +41,17 @@ Sekarang paradoks tadi bisa dijelaskan. Tugas besar yang hasilnya jauh punya T -
 
 Dari sini muncul akibat logis yang sering kita rasakan sebagai "kekuatan kepepet". Ketika tenggat mendekat, T - t mengecil, penyebut menyusut ke arah Z, dan hasil bagi membesar. Ini konsekuensi dari bentuk persamaannya, bukan temuan terpisah dari eksperimen. Tarikan itu juga tidak naik pelan-pelan: selama jeda masih lebar, perubahannya nyaris tak terasa, lalu melonjak di ujung.
 
+Urutan akibat logis dari bentuk persamaan itu bisa dibaca dari kiri ke kanan.
+
+```mermaid
+flowchart LR
+    accTitle: Kenapa tenggat menarik motivasi
+    accDescr: Akibat logis dari bentuk persamaan, bukan temuan eksperimen. Tenggat mendekat, jeda T dikurangi t mengecil, penyebut menyusut ke arah Z, dan hasil bagi membesar.
+    A["Tenggat mendekat"] --> B["Jeda T - t mengecil"]
+    B --> C["Penyebut menyusut ke arah Z"]
+    C --> D["Hasil bagi membesar"]
+```
+
 > Ilustrasi penulis, bukan temuan: sebuah esai yang tenggatnya sebulan lagi terasa jinak selama tiga minggu, lalu mendadak jadi pusat hidupmu di malam terakhir.
 
 Itu hanya gambaran, tetapi polanya cocok dengan bentuk persamaan. Definisi Steel (2007) yang kita temui di bab pertama menjelaskan kenapa gambaran ini terasa janggal: kita tahu akan rugi, tetapi lonjakan tarikan di ujung datang terlambat untuk menyelamatkan kualitas.

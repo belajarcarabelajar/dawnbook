@@ -196,8 +196,20 @@ function blockRules(source: string): [string, string][] {
   return out;
 }
 
-// flowchart.wrappingWidth in scripts/diagrams/render-config.json; Mermaid cuts a wider word into character chunks.
+// Fallback for flowchart.wrappingWidth in scripts/diagrams/render-config.json; Mermaid cuts a wider word into
+// character chunks.
 const WRAP_PX = 110;
+
+function wrapWidth(root: string): number {
+  try {
+    const config = JSON.parse(fs.readFileSync(path.join(root, "scripts", "diagrams", "render-config.json"), "utf8"));
+    const width = config?.flowchart?.wrappingWidth;
+    if (typeof width === "number") return width;
+  } catch {
+    // A missing or unreadable config keeps the fallback width in the message.
+  }
+  return WRAP_PX;
+}
 
 const decodeXml = (text: string) =>
   text.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, "&");
@@ -212,6 +224,9 @@ function labelTokens(source: string): Set<string> {
   for (const raw of source.split("\n")) {
     const line = raw.trim();
     if (line.startsWith("%%") || /^acc(?:Title|Descr)\b/.test(line)) continue;
+    // A sequence actor box shows its alias, or its id when it has none.
+    const actor = /^(?:participant|actor)\s+(.+?)(?:\s+as\s+(.+))?$/.exec(line);
+    if (actor) add(actor[2] ?? actor[1]);
     const rest = line.replace(/"([^"]*)"/g, (_m, text: string) => (add(text), " "));
     for (const m of rest.matchAll(/\[([^[\]]*)\]|\{([^{}]*)\}|\(([^()]*)\)|\|([^|]*)\|/g)) add(m[1] ?? m[2] ?? m[3] ?? m[4]);
     for (const m of rest.matchAll(DASH_EDGE_TEXT)) add(m[1]);
@@ -222,22 +237,57 @@ function labelTokens(source: string): Set<string> {
 
 const ROW_OPEN = /<tspan\b[^>]*\bclass="[^"]*\btext-outer-tspan\b[^"]*"[^>]*>/;
 const INNER_WORD = /<tspan\b[^>]*\bclass="[^"]*\btext-inner-tspan\b[^"]*"[^>]*>([^<]*)<\/tspan>/g;
+const LINE_TSPAN = /<tspan\b[^>]*>([^<]*)<\/tspan>/g;
+// Sequence text that wraps (sequence.wrap): every line is its own <text>, next to the other lines of its item.
+const SEQUENCE_LINE = /\bclass="([^"]*\b(?:messageText|noteText|actor|loopText|labelText)\b[^"]*)"/;
 
-// Words that Mermaid cut across two rows of one SVG label: the last word of a row plus the first word of
+// The wrapped lines of every text item: flowchart label rows, timeline event tspans, and runs of adjacent
+// sequence <text> lines that share class and x (two messages are always separated by their arrow).
+function wrappedItems(svg: string): string[][] {
+  const items: string[][] = [];
+  let run: { key: string; end: number; rows: string[] } | null = null;
+  for (const m of svg.matchAll(/<text\b([^>]*)>([\s\S]*?)<\/text>/g)) {
+    const [whole, attrs, body] = m;
+    if (ROW_OPEN.test(body)) {
+      items.push(body.split(ROW_OPEN).slice(1).map((row) => [...row.matchAll(INNER_WORD)].map((w) => decodeXml(w[1])).join("").trim()));
+      continue;
+    }
+    const tspans = [...body.matchAll(LINE_TSPAN)];
+    if (tspans.length > 1) {
+      items.push(tspans.map((t) => decodeXml(t[1]).trim()));
+      continue;
+    }
+    const cls = SEQUENCE_LINE.exec(attrs);
+    if (!cls) continue;
+    const key = `${cls[1]} ${/\sx="([^"]*)"/.exec(attrs)?.[1]}`;
+    const line = decodeXml(body.replace(/<[^>]*>/g, "")).trim();
+    if (run && run.key === key && svg.slice(run.end, m.index).trim() === "") run.rows.push(line);
+    else items.push((run = { key, end: 0, rows: [line] }).rows);
+    run.end = m.index + whole.length;
+  }
+  return items;
+}
+
+// Words that Mermaid cut across two lines of one text item: the last word of a line plus the first word of
 // the next equals a source label token. A break at a space joins into a word the source never has.
 function splitWords(svg: string, source: string): string[] {
   const tokens = labelTokens(source);
   const bare = new Set([...tokens].map(stripTrailingPunct));
   const found = new Set<string>();
-  for (const text of svg.matchAll(/<text\b[^>]*>([\s\S]*?)<\/text>/g)) {
-    const rows = text[1].split(ROW_OPEN).slice(1).map((row) => [...row.matchAll(INNER_WORD)].map((m) => decodeXml(m[1])).join("").trim());
+  for (const rows of wrappedItems(svg)) {
     for (let i = 0; i + 1 < rows.length; i++) {
       const last = rows[i].split(/\s+/).pop() ?? "";
       const first = rows[i + 1].split(/\s+/)[0];
-      if (!/[\p{L}\p{N}]$/u.test(last) || first === "") continue;
-      const joined = last + first;
+      if (last === "" || first === "") continue;
       // A punctuation-only row keeps its punctuation, else the source "kata ," would match the bare "kata".
-      if (/^\p{P}+$/u.test(first) ? tokens.has(joined) : bare.has(stripTrailingPunct(joined))) found.add(joined);
+      const matches = (joined: string) => (/^\p{P}+$/u.test(first) ? tokens.has(joined) : bare.has(stripTrailingPunct(joined)));
+      // The sequence wrap ends a cut piece with "-", which the source word does not have; a standalone "-" is
+      // a normal break at a space.
+      const unhyphenated = last.slice(0, -1) + first;
+      const joined = last + first;
+      if (/[\p{L}\p{N}]-$/u.test(last) && matches(unhyphenated)) found.add(unhyphenated);
+      // A piece ending in punctuation must join into an exact token, else "Kosakata," + "tata" would match.
+      else if (/[\p{L}\p{N}]$/u.test(last) ? matches(joined) : tokens.has(joined)) found.add(joined);
     }
   }
   return [...found];
@@ -250,6 +300,7 @@ function isFirstBlock(lines: string[], block: DiagramBlock): boolean {
 export function checkDiagrams(root: string, opts: { book?: string } = {}): { violations: DiagramViolation[]; orphans: string[] } {
   const violations: DiagramViolation[] = [];
   const orphans: string[] = [];
+  const wrapPx = wrapWidth(root);
   for (const book of listBooks(root, opts.book)) {
     const bookDir = path.join(root, "books", book);
     const usedKeys = new Set<string>();
@@ -291,7 +342,7 @@ export function checkDiagrams(root: string, opts: { book?: string } = {}): { vio
           const split = splitWords(svg, block.source);
           if (split.length > 0) {
             const words = split.map((w) => `"${w}"`).join(", ");
-            report(block, "split-word", `cached SVG ${key}.svg breaks ${words} across label rows; reword the label so no word is wider than the ${WRAP_PX} px wrap`);
+            report(block, "split-word", `cached SVG ${key}.svg breaks ${words} across wrapped lines; reword the label so no word is wider than its wrap width (flowchart labels wrap at ${wrapPx} px)`);
           }
         }
       });
