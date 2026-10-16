@@ -69,6 +69,19 @@ Di Kamaishi, Jepang, siswa selamat tinggi saat tsunami 2011 karena program *Tsun
 
 Keempat pilar bukan urutan linear, tapi *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
 
+Arah umpan balik antarpilar itu tergambar pada skema berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Loop umpan balik empat pilar EWS
+    accDescr: Pengetahuan risiko mengarahkan penempatan sensor, data pemantauan memperkaya peta risiko, diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
+    P1["Pengetahuan risiko"] -->|"mengarahkan penempatan sensor"| P2["Pemantauan dan layanan peringatan"]
+    P2 -->|"data memperkaya peta risiko"| P1
+    P3["Diseminasi dan komunikasi"] -->|"efektif, menaikkan kepatuhan evakuasi"| P4["Kapasitas respons"]
+    P4 -->|"pelajaran untuk pesan"| P3
+    P4 -->|"pelajaran untuk peta"| P1
+```
+
 Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
 
 #### Tabel Indikator Kematangan Tiap Pilar

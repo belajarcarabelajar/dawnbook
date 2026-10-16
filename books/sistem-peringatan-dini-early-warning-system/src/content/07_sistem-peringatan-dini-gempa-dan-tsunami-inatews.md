@@ -8,6 +8,20 @@ Setelah parameter gempa diperoleh, Decision Support System BMKG mengambil alih a
 
 Hasil keputusan diterjemahkan ke dalam tiga tingkatan InaTEWS. Tingkat Awas menandakan perkiraan tinggi gelombang tiga meter atau lebih dan memerlukan evakuasi penuh di zona pesisir dan sempadan sungai. Tingkat Siaga menandakan perkiraan setengah meter atau lebih tetapi kurang dari tiga meter dan tetap memerlukan evakuasi dari pantai serta muara sungai karena arus kuat berbahaya. Tingkat Waspada menandakan perkiraan kurang dari setengah meter yang tetap berbahaya bagi aktivitas di pantai dan pelayaran sehingga warga diminta menjauhi bibir pantai dan perahu tidak melaut sementara. Setiap produk BMKG menyebutkan eksplisit wilayah yang masuk Awas, Siaga, dan Waspada beserta perkiraan waktu tiba gelombang pertama dan rekomendasi.
 
+Pembagian tiga tingkat itu bisa kamu baca sebagai percabangan dari perkiraan tinggi gelombang.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga tingkat peringatan InaTEWS
+    accDescr: Perkiraan tinggi gelombang menentukan tingkat Awas untuk tiga meter atau lebih, Siaga untuk setengah meter atau lebih tetapi kurang dari tiga meter, dan Waspada untuk kurang dari setengah meter, masing-masing dengan tindakannya.
+    H["Perkiraan tinggi gelombang"] -->|"tiga meter atau lebih"| A["Awas"]
+    H -->|"setengah meter sampai kurang dari tiga meter"| S["Siaga"]
+    H -->|"kurang dari setengah meter"| W["Waspada"]
+    A --> A1["Evakuasi penuh di zona pesisir dan sempadan sungai"]
+    S --> S1["Evakuasi dari pantai serta muara sungai"]
+    W --> W1["Menjauhi bibir pantai, perahu tidak melaut sementara"]
+```
+
 Penyebaran peringatan dari pusat ke daerah menggunakan jalur berlapis. BMKG mengirimkan peringatan melalui Warning Receiver System di kantor BPBD, pemerintah provinsi dan kabupaten kota, TNI, Polri, serta lembaga terkait melalui satelit dan internet dengan konfirmasi penerimaan. Jalur lain mencakup SMS broadcast, email, web, aplikasi InfoBMKG, serta sambungan ke televisi dan radio. Di tingkat lokal, pemerintah daerah meneruskan peringatan melalui sirene tsunami di kawasan padat pesisir, pengeras suara masjid dan kantor desa, radio komunitas,. Sirene dirancang menjangkau beberapa kilometer dan dilengkapi catu daya cadangan, namun efektivitasnya bergantung pada pemeliharaan rutin dan uji fungsi berkala.
 
 Komponen pemantauan muka laut melengkapi jaringan seismik untuk verifikasi. InaTEWS mengoperasikan tide gauge di pelabuhan dan pantai serta buoy di laut dalam. Tide gauge merekam perubahan muka air tiap menit dan mengonfirmasi anomali. Buoy dengan sensor tekanan dasar laut mendeteksi perubahan tekanan akibat lewatnya gelombang melalui satelit. Dalam praktik jumlah buoy yang beroperasi penuh sering terbatas karena cuaca ekstrem, hanyut, dan biaya tinggi. Karena itu prosedur BMKG menegaskan bahwa keputusan evakuasi tidak menunggu konfirmasi alat muka laut. Peringatan awal berbasis seismik tetap menjadi dasar utama untuk bertindak, sementara data muka laut digunakan untuk pembaruan dan pengakhiran peringatan.
@@ -21,3 +35,16 @@ Gempa Palu 28 September 2018 memberi pelajaran tentang keterbatasan untuk sumber
 Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Prosedur menyatakan analisis parameter dilakukan dalam dua sampai tiga menit setelah gempa terekam, diikuti penentuan potensi tsunami melalui Decision Support System dalam satu sampai dua menit berikutnya, kemudian penerbitan produk informasi awal dalam total sekitar lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan, paling cepat dua jam setelah peringatan pertama. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
 
 Alur end to end InaTEWS adalah perpindahan informasi dari sensor hingga tindakan tanpa jeda terputus. Tahap pertama adalah deteksi oleh jaringan seismometer dan pengiriman data real time ke pusat pengolahan. Tahap kedua adalah pengolahan otomatis dengan SeisComP dan verifikasi operator untuk menghasilkan parameter gempa andal. Tahap ketiga adalah analisis Decision Support System yang mencocokkan parameter dengan skenario dan menetapkan tingkat peringatan per wilayah. Tahap keempat adalah diseminasi melalui Warning Receiver System dan saluran publik ke pemerintah daerah, lembaga terkait, media, dan masyarakat. Tahap kelima adalah penerusan di daerah melalui sirene dan pengeras suara disertai keputusan evakuasi oleh bupati dan wali kota. Tahap keenam adalah pemantauan berkelanjutan dengan tide gauge, buoy, dan laporan lapangan untuk pembaruan, pengakhiran, dan evaluasi. Keberhasilan diukur dari apakah penduduk pesisir menerima pesan yang jelas dan bergerak ke tempat aman sebelum gelombang tiba.
+
+Keenam tahap tersebut dapat kamu ikuti sebagai satu alur berurutan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur end to end InaTEWS
+    accDescr: Enam tahap InaTEWS berurutan dari deteksi seismometer, pengolahan SeisComP dan verifikasi operator, analisis Decision Support System, diseminasi, penerusan di daerah, hingga pemantauan berkelanjutan.
+    T1["Deteksi oleh jaringan seismometer, data dikirim real time ke pusat"] --> T2["Pengolahan otomatis SeisComP dan verifikasi operator"]
+    T2 --> T3["Decision Support System menetapkan tingkat peringatan per wilayah"]
+    T3 --> T4["Diseminasi lewat Warning Receiver System dan saluran publik"]
+    T4 --> T5["Penerusan di daerah lewat sirene dan pengeras suara, disertai keputusan evakuasi"]
+    T5 --> T6["Pemantauan dengan tide gauge, buoy, dan laporan lapangan"]
+```

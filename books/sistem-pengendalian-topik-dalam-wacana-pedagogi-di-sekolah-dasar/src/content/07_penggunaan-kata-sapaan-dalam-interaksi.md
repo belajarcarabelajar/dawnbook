@@ -47,21 +47,16 @@ Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada ger
 
 Penggunaan kata sapaan juga mencerminkan dinamika jarak sosial dan kesantunan (politeness) antara guru dan siswa. Dalam teori sosiolinguistik, pemilihan kata sapaan dipengaruhi oleh dua variabel utama: kekuasaan (*power*) dan solidaritas (*solidarity*).
 
-```
-                      +-----------------------------------+
-                      |   Pilihan Kata Sapaan Guru        |
-                      +-----------------------------------+
-                                        |
-                 +----------------------+----------------------+
-                 |                                             |
-                 v                                             v
-    [Sapaan Kolektif & Hangat]                    [Sapaan Individual & Tegas]
-    Contoh: "Anak-anak", "Anakku"                 Contoh: "Kamu", "Siti", "Rian"
-                 |                                             |
-                 v                                             v
-  - Memperkecil Jarak Sosial                    - Mempertegas Otoritas
-  - Meningkatkan Solidaritas                    - Mengarahkan Fokus Spesifik
-  - Mengajak Partisipasi Aktif                  - Mengendalikan Ketertiban Topik
+Bagan berikut memetakan dua arah pilihan sapaan guru beserta dampak masing-masing.
+
+```mermaid
+flowchart TD
+    accTitle: Pilihan kata sapaan guru dan dampaknya
+    accDescr: Pilihan kata sapaan guru bercabang dua. Sapaan kolektif dan hangat, misalnya Anak-anak dan Anakku, memperkecil jarak sosial, meningkatkan solidaritas, dan mengajak partisipasi aktif. Sapaan individual dan tegas, misalnya Kamu, Siti, dan Rian, mempertegas otoritas, mengarahkan fokus spesifik, dan mengendalikan ketertiban topik.
+    A["Pilihan Kata Sapaan Guru"] --> B["Sapaan Kolektif & Hangat (contoh “Anak-anak”, “Anakku”)"]
+    A --> C["Sapaan Individual & Tegas (contoh “Kamu”, “Siti”, “Rian”)"]
+    B --> D["Memperkecil Jarak Sosial, Meningkatkan Solidaritas, Mengajak Partisipasi Aktif"]
+    C --> E["Mempertegas Otoritas, Mengarahkan Fokus Spesifik, Mengendalikan Ketertiban Topik"]
 ```
 
 * **Sapaan Kehangatan (*Anak-anak*)**: Memperkecil jarak sosial dan menciptakan iklim belajar yang aman secara emosional. Siswa merasa diakui sebagai bagian dari komunitas belajar.

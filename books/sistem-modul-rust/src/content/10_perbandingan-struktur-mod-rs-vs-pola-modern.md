@@ -139,6 +139,18 @@ $$
 
 Jika kedua kondisi di atas terpenuhi $\text{m.rs} \cap \text{m/mod.rs}$, maka akan terjadi konflik: $\text{Error} \leftarrow \text{Ambiguitas struktur}$
 
+Alur keputusan compiler tersebut bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Pencarian file modul m oleh compiler
+    accDescr: Compiler mencari modul m. Jika hanya ada file m.rs, modul diambil dari m.rs. Jika hanya ada folder dengan mod.rs, modul diambil dari m/mod.rs. Jika keduanya ada, terjadi error karena ambiguitas struktur.
+    P["Pencarian modul m"] --> Q{"File apa yang ada?"}
+    Q -->|"hanya m.rs"| A["m.rs"]
+    Q -->|"hanya folder dengan mod.rs"| B["m/mod.rs"]
+    Q -->|"keduanya"| E["Error, ambiguitas struktur"]
+```
+
 ## Kesimpulan
 
 Pola modern (`nama_modul.rs` ditambah folder `nama_modul/`) menjadi standar utama saat ini karena mempermudah navigasi dan merapikan visual editor. Meskipun demikian, pemahaman tentang `mod.rs` tetap diperlukan agar kamu tidak bingung ketika membaca dokumentasi atau menjelajahi kode pustaka pihak ketiga di ekosistem Rust.

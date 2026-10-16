@@ -153,4 +153,16 @@ Maka dari dalam **C**:
 - `super` = Merujuk ke **B**
 - `super::super` = Merujuk ke **A** (`crate`)
 
+Diagram berikut menunjukkan ke mana setiap keyword membawamu ketika kamu menulis kode di dalam C.
+
+```mermaid
+flowchart BT
+    accTitle: Navigasi relatif dari modul C
+    accDescr: Dari dalam mod_c, self merujuk ke mod_c sendiri, super merujuk ke mod_b, dan super::super merujuk ke crate.
+    C["mod_c (C)"] -->|"self"| C
+    C -->|"super"| B["mod_b (B)"]
+    C -->|"super::super"| A["crate (A)"]
+    B ~~~ A
+```
+
 Dengan keyword `self` dan `super`, struktur path modul menjadi fleksibel. Kode lebih mudah di-refactor karena relasi modul bersifat relatif, mempermudah pengelolaan kode saat proyek Rust-mu mulai berkembang pesat.
