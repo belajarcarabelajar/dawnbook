@@ -16,6 +16,18 @@ Kekuatan status quo ini punya konsekuensi yang jauh lebih besar daripada rekenin
 
 Hasilnya dramatis. Di bawah sistem pendaftaran otomatis, sekitar 86 persen karyawan baru berpartisipasi, dibanding sekitar 49 persen pada kohort lama dengan masa kerja serupa. Satu perubahan arah pintu, naik hampir dua kali lipat. Tapi kekuatan default tidak berhenti di situ: mayoritas karyawan yang didaftarkan otomatis juga tidak pernah mengubah tingkat kontribusi bawaan maupun alokasi investasi bawaan, dan 61 persen dari mereka tidak melakukan perubahan apa pun. Default bukan cuma menentukan siapa yang ikut; ia menentukan isi pilihan mereka bertahun-tahun kemudian. Karyawan itu tidak memilih rencana mereka; mereka mewarisinya dari pintu masuk.
 
+Lonjakan partisipasi dari studi Madrian dan Shea itu bisa kamu lihat pada dua batang berikut.
+
+```mermaid
+xychart
+    accTitle: Partisipasi 401(k) sebelum dan sesudah pendaftaran otomatis
+    accDescr: Grafik batang dari studi Madrian dan Shea (2001) di satu perusahaan besar. Partisipasi 401(k) sekitar 49 persen pada kohort lama yang harus mendaftar sendiri, dan sekitar 86 persen pada karyawan baru di bawah pendaftaran otomatis dengan masa kerja serupa.
+    title "Partisipasi 401(k), Madrian dan Shea (2001)"
+    x-axis ["Kohort lama, daftar sendiri", "Karyawan baru, otomatis"]
+    y-axis "Partisipasi, sekitar (persen)" 0 --> 100
+    bar [49, 86]
+```
+
 > Ketika pintunya diseret ke arah tertentu, sebagian besar orang akan berjalan melewatinya, lalu berhenti di sana dan menyebutnya keputusan.
 
 Ini pikiran yang perlu kamu bawa pulang: default itu netral secara teknik, tapi tidak netral secara akibat. Merancang default adalah memilih untuk jutaan orang tanpa mereka sadari, dan karena itu kejujuran tentang siapa yang menaruh default di sana jadi penting. Untungnya, mekanisme yang sama bisa dipakai untuk kebaikanmu sendiri, dan buktinya spektakuler.
