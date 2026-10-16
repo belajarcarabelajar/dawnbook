@@ -1,0 +1,122 @@
+{
+  "svgs": 158,
+  "summary": {
+    "light": {
+      "realLabels": 1314,
+      "realFail": 2,
+      "realOffscreen": 0,
+      "staticLabels": 1314,
+      "staticFail": 2,
+      "fillDiff": 0,
+      "ratioDiff": 0,
+      "htmlLabels": 0
+    },
+    "rust": {
+      "realLabels": 1314,
+      "realFail": 2,
+      "realOffscreen": 0,
+      "staticLabels": 1314,
+      "staticFail": 2,
+      "fillDiff": 0,
+      "ratioDiff": 0,
+      "htmlLabels": 0
+    },
+    "coal": {
+      "realLabels": 1314,
+      "realFail": 0,
+      "realOffscreen": 0,
+      "staticLabels": 1314,
+      "staticFail": 0,
+      "fillDiff": 0,
+      "ratioDiff": 0,
+      "htmlLabels": 0
+    },
+    "navy": {
+      "realLabels": 1314,
+      "realFail": 0,
+      "realOffscreen": 0,
+      "staticLabels": 1314,
+      "staticFail": 0,
+      "fillDiff": 0,
+      "ratioDiff": 0,
+      "htmlLabels": 0
+    },
+    "ayu": {
+      "realLabels": 1314,
+      "realFail": 0,
+      "realOffscreen": 0,
+      "staticLabels": 1314,
+      "staticFail": 0,
+      "fillDiff": 0,
+      "ratioDiff": 0,
+      "htmlLabels": 0
+    }
+  },
+  "fails": [
+    "static light state-of-flow/89fdb4768425.svg \"Arousal\" 1.66",
+    "static light state-of-flow/89fdb4768425.svg \"Boredom\" 1.66",
+    "real   light state-of-flow/89fdb4768425.svg \"Arousal\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "real   light state-of-flow/89fdb4768425.svg \"Boredom\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "static rust state-of-flow/89fdb4768425.svg \"Arousal\" 1.2",
+    "static rust state-of-flow/89fdb4768425.svg \"Boredom\" 1.2",
+    "real   rust state-of-flow/89fdb4768425.svg \"Arousal\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)",
+    "real   rust state-of-flow/89fdb4768425.svg \"Boredom\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)"
+  ],
+  "diffCount": 0,
+  "diffs": [],
+  "states": [
+    {
+      "theme": "light",
+      "pre": "1/visible",
+      "forced": false,
+      "diagrams": 158,
+      "htmlClass": "sidebar-visible js light",
+      "mathjax": true,
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(255,255,255)"
+    },
+    {
+      "theme": "rust",
+      "pre": "1/visible",
+      "forced": false,
+      "diagrams": 158,
+      "htmlClass": "sidebar-visible rust js",
+      "mathjax": true,
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(225,225,219)"
+    },
+    {
+      "theme": "coal",
+      "pre": "1/visible",
+      "forced": false,
+      "diagrams": 158,
+      "htmlClass": "sidebar-visible coal js",
+      "mathjax": true,
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(19,21,22)"
+    },
+    {
+      "theme": "navy",
+      "pre": "1/visible",
+      "forced": false,
+      "diagrams": 158,
+      "htmlClass": "sidebar-visible navy js",
+      "mathjax": true,
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(22,25,35)"
+    },
+    {
+      "theme": "ayu",
+      "pre": "1/visible",
+      "forced": false,
+      "diagrams": 158,
+      "htmlClass": "sidebar-visible ayu js",
+      "mathjax": true,
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(15,20,26)"
+    }
+  ],
+  "rules": [
+    "/books/shared-header.css:146  .dawnbook-diagram  {margin, overflow-x, -webkit-overflow-scrolling}  on: div",
+    "/books/state-of-flow/css/general-e96d0476.css:17  body  [inherited]  {font-size}  on: div | div svg | div svg *",
+    "/books/shared-header.css:49  body  [inherited]  {font-family}  on: div | div svg | div svg *",
+    "/books/state-of-flow/css/general-e96d0476.css:9  html  [inherited]  {font-family, color}  on: div | div svg | div svg *",
+    "/books/state-of-flow/css/general-e96d0476.css:3  :root  [inherited]  {font-size}  on: div | div svg | div svg *",
+    "/books/shared-header.css:147  .dawnbook-diagram svg  {display, margin, height}  on: div svg"
+  ]
+}

@@ -129,10 +129,49 @@ export function normalizeInternalLinks(html: string): string {
   );
 }
 
+const MDBOOK_THEME_SCRIPTS: { name: string; matches: (body: string) => boolean }[] = [
+  {
+    name: "default-themes script",
+    matches: (body) => body.includes("const default_light_theme =") && body.includes("const default_dark_theme ="),
+  },
+  {
+    name: "localStorage quote workaround script",
+    matches: (body) => body.includes("localStorage.getItem('mdbook-theme')") && body.includes("theme.startsWith('\"')"),
+  },
+  {
+    name: "theme bootstrap script",
+    matches: (body) => body.includes("const default_theme ="),
+  },
+];
+
+export function markThemeScriptsCfAsync(html: string): string {
+  const found = new Set<string>();
+  // Rocket Loader defers every script without data-cfasync="false"; these must run before first paint.
+  const result = html.replace(
+    /<script( data-cfasync="false")?>([\s\S]*?)<\/script>/g,
+    (match, marked: string | undefined, body: string) => {
+      const script = MDBOOK_THEME_SCRIPTS.find((candidate) => candidate.matches(body));
+      if (!script) return match;
+      found.add(script.name);
+      return marked ? match : `<script data-cfasync="false">` + match.slice("<script>".length);
+    },
+  );
+
+  // The generator comment keeps the guard alive if an mdBook upgrade renames the toggle id.
+  if (html.includes('id="mdbook-theme-toggle"') || html.includes("<!-- Book generated using mdBook -->")) {
+    const missing = MDBOOK_THEME_SCRIPTS.filter((script) => !found.has(script.name)).map((script) => script.name);
+    if (missing.length > 0) {
+      throw new Error(`mdBook page is missing its ${missing.join(", ")}; check the mdBook markup before deploying`);
+    }
+  }
+
+  return result;
+}
+
 export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
   const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot } = options;
 
-  let content = normalizeInternalLinks(html);
+  let content = markThemeScriptsCfAsync(normalizeInternalLinks(html));
 
   // 1. Strip any pre-existing meta description to eliminate duplicates
   content = content.replace(/<meta\s+name=["']description["'][^>]*>\s*/gi, "");

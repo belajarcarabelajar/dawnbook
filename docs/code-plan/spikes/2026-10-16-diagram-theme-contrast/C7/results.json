@@ -1,0 +1,3924 @@
+{
+  "summary": {
+    "light": {
+      "realLabels": 34,
+      "realFail": 2,
+      "staticLabels": 34,
+      "staticFail": 2,
+      "realOffscreen": 0,
+      "realClipped": 0
+    },
+    "rust": {
+      "realLabels": 34,
+      "realFail": 2,
+      "staticLabels": 34,
+      "staticFail": 2,
+      "realOffscreen": 0,
+      "realClipped": 0
+    },
+    "coal": {
+      "realLabels": 34,
+      "realFail": 0,
+      "staticLabels": 34,
+      "staticFail": 0,
+      "realOffscreen": 0,
+      "realClipped": 0
+    },
+    "navy": {
+      "realLabels": 34,
+      "realFail": 0,
+      "staticLabels": 34,
+      "staticFail": 0,
+      "realOffscreen": 0,
+      "realClipped": 0
+    },
+    "ayu": {
+      "realLabels": 34,
+      "realFail": 0,
+      "staticLabels": 34,
+      "staticFail": 0,
+      "realOffscreen": 0,
+      "realClipped": 0
+    }
+  },
+  "fails": [
+    "static light 06_model-tan text#4 \"Arousal\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "static light 06_model-tan text#8 \"Boredom\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "real light 06_model-tan text#4 \"Arousal\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "real light 06_model-tan text#8 \"Boredom\" 1.66 fg rgb(0, 0, 0) bg rgb(51,51,51)",
+    "static rust 06_model-tan text#4 \"Arousal\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)",
+    "static rust 06_model-tan text#8 \"Boredom\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)",
+    "real rust 06_model-tan text#4 \"Arousal\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)",
+    "real rust 06_model-tan text#8 \"Boredom\" 1.2 fg rgb(38, 38, 37) bg rgb(51,51,51)"
+  ],
+  "fillDiffs": [],
+  "ratioDiffs": [],
+  "ratioDiffCount": 0,
+  "fontDiffs": [],
+  "states": [
+    {
+      "chapter": "04_neurobiol",
+      "theme": "light",
+      "where": "/books/state-of-flow/content/04_neurobiologi-di-balik-kondisi-alir.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible js light",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(255,255,255)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-0c5e175bdc88",
+      "svgSize": "196x558",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "04_neurobiol",
+      "theme": "rust",
+      "where": "/books/state-of-flow/content/04_neurobiologi-di-balik-kondisi-alir.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible rust js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(225,225,219)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-0c5e175bdc88",
+      "svgSize": "196x558",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "04_neurobiol",
+      "theme": "coal",
+      "where": "/books/state-of-flow/content/04_neurobiologi-di-balik-kondisi-alir.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible coal js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(19,21,22)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-0c5e175bdc88",
+      "svgSize": "196x558",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "04_neurobiol",
+      "theme": "navy",
+      "where": "/books/state-of-flow/content/04_neurobiologi-di-balik-kondisi-alir.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible navy js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(22,25,35)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-0c5e175bdc88",
+      "svgSize": "196x558",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "04_neurobiol",
+      "theme": "ayu",
+      "where": "/books/state-of-flow/content/04_neurobiologi-di-balik-kondisi-alir.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible ayu js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(15,20,26)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-0c5e175bdc88",
+      "svgSize": "196x558",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "06_model-tan",
+      "theme": "light",
+      "where": "/books/state-of-flow/content/06_model-tantangan-vs-keterampilan.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible js light",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(255,255,255)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-89fdb4768425",
+      "svgSize": "500x500",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "06_model-tan",
+      "theme": "rust",
+      "where": "/books/state-of-flow/content/06_model-tantangan-vs-keterampilan.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible rust js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(225,225,219)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-89fdb4768425",
+      "svgSize": "500x500",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "06_model-tan",
+      "theme": "coal",
+      "where": "/books/state-of-flow/content/06_model-tantangan-vs-keterampilan.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible coal js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(19,21,22)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-89fdb4768425",
+      "svgSize": "500x500",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "06_model-tan",
+      "theme": "navy",
+      "where": "/books/state-of-flow/content/06_model-tantangan-vs-keterampilan.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible navy js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(22,25,35)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-89fdb4768425",
+      "svgSize": "500x500",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "06_model-tan",
+      "theme": "ayu",
+      "where": "/books/state-of-flow/content/06_model-tantangan-vs-keterampilan.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible ayu js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(15,20,26)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-89fdb4768425",
+      "svgSize": "500x500",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "01_akar-awal",
+      "theme": "light",
+      "where": "/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi.html",
+      "forced": true,
+      "preOpacity": "0",
+      "preVisibility": "hidden",
+      "htmlClass": "sidebar-visible js light",
+      "htmlOpacity": "0",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(255,255,255)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-bc3b71aa195b",
+      "svgSize": "750x415",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "01_akar-awal",
+      "theme": "rust",
+      "where": "/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi.html",
+      "forced": true,
+      "preOpacity": "0",
+      "preVisibility": "hidden",
+      "htmlClass": "sidebar-visible rust js",
+      "htmlOpacity": "0",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(225,225,219)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": false,
+      "svgId": "dbd-bc3b71aa195b",
+      "svgSize": "750x415",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "01_akar-awal",
+      "theme": "coal",
+      "where": "/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi.html",
+      "forced": true,
+      "preOpacity": "0",
+      "preVisibility": "hidden",
+      "htmlClass": "sidebar-visible coal js",
+      "htmlOpacity": "0",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(19,21,22)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-bc3b71aa195b",
+      "svgSize": "750x415",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "01_akar-awal",
+      "theme": "navy",
+      "where": "/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi.html",
+      "forced": true,
+      "preOpacity": "0",
+      "preVisibility": "hidden",
+      "htmlClass": "sidebar-visible navy js",
+      "htmlOpacity": "0",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(22,25,35)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-bc3b71aa195b",
+      "svgSize": "750x415",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "01_akar-awal",
+      "theme": "ayu",
+      "where": "/books/sejarah-evolusi-drama-korea/content/01_akar-awal-era-drama-radio-dan-kelahiran-televisi.html",
+      "forced": true,
+      "preOpacity": "0",
+      "preVisibility": "hidden",
+      "htmlClass": "sidebar-visible ayu js",
+      "htmlOpacity": "0",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(15,20,26)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-bc3b71aa195b",
+      "svgSize": "750x415",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "02_era-hitam",
+      "theme": "light",
+      "where": "/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible js light",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(255,255,255)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-7c710f86e3f6",
+      "svgSize": "750x356",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "02_era-hitam",
+      "theme": "rust",
+      "where": "/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible rust js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(225,225,219)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-7c710f86e3f6",
+      "svgSize": "750x356",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "02_era-hitam",
+      "theme": "coal",
+      "where": "/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible coal js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(19,21,22)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-7c710f86e3f6",
+      "svgSize": "750x356",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "02_era-hitam",
+      "theme": "navy",
+      "where": "/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible navy js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(22,25,35)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-7c710f86e3f6",
+      "svgSize": "750x356",
+      "foreignObjects": 0
+    },
+    {
+      "chapter": "02_era-hitam",
+      "theme": "ayu",
+      "where": "/books/sejarah-evolusi-drama-korea/content/02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca.html",
+      "forced": false,
+      "preOpacity": "1",
+      "preVisibility": "visible",
+      "htmlClass": "sidebar-visible ayu js",
+      "htmlOpacity": "1",
+      "htmlVisibility": "visible",
+      "backdrop": "div#mdbook-page-wrapper.page-wrapper a=1 rgb(15,20,26)",
+      "bodyBg": "rgba(0, 0, 0, 0)",
+      "mathjax": true,
+      "svgId": "dbd-7c710f86e3f6",
+      "svgSize": "750x356",
+      "foreignObjects": 0
+    }
+  ],
+  "rules": {
+    "04_neurobiol": [
+      "/books/shared-header.css:146  .dawnbook-diagram  {margin, overflow-x, -webkit-overflow-scrolling}  on: div",
+      "/books/state-of-flow/css/general-e96d0476.css:17  body  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg rect | div svg path | div svg polygon | div svg circle",
+      "/books/shared-header.css:49  body  [inherited]  {font-family}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg rect | div svg path | div svg polygon | div svg circle",
+      "/books/state-of-flow/css/general-e96d0476.css:9  html  [inherited]  {font-family, color}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg rect | div svg path | div svg polygon | div svg circle",
+      "/books/state-of-flow/css/general-e96d0476.css:3  :root  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg rect | div svg path | div svg polygon | div svg circle",
+      "/books/shared-header.css:147  .dawnbook-diagram svg  {display, margin, height}  on: div svg"
+    ],
+    "06_model-tan": [
+      "/books/shared-header.css:146  .dawnbook-diagram  {margin, overflow-x, -webkit-overflow-scrolling}  on: div",
+      "/books/state-of-flow/css/general-e96d0476.css:17  body  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg rect | div svg line | div svg circle",
+      "/books/shared-header.css:49  body  [inherited]  {font-family}  on: div | div svg | div svg g | div svg text | div svg rect | div svg line | div svg circle",
+      "/books/state-of-flow/css/general-e96d0476.css:9  html  [inherited]  {font-family, color}  on: div | div svg | div svg g | div svg text | div svg rect | div svg line | div svg circle",
+      "/books/state-of-flow/css/general-e96d0476.css:3  :root  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg rect | div svg line | div svg circle",
+      "/books/shared-header.css:147  .dawnbook-diagram svg  {display, margin, height}  on: div svg"
+    ],
+    "01_akar-awal": [
+      "/books/shared-header.css:146  .dawnbook-diagram  {margin, overflow-x, -webkit-overflow-scrolling}  on: div",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:17  body  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/shared-header.css:49  body  [inherited]  {font-family}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:9  html  [inherited]  {font-family, color}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:3  :root  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/shared-header.css:147  .dawnbook-diagram svg  {display, margin, height}  on: div svg"
+    ],
+    "02_era-hitam": [
+      "/books/shared-header.css:146  .dawnbook-diagram  {margin, overflow-x, -webkit-overflow-scrolling}  on: div",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:17  body  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/shared-header.css:49  body  [inherited]  {font-family}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:9  html  [inherited]  {font-family, color}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/sejarah-evolusi-drama-korea/css/general-e96d0476.css:3  :root  [inherited]  {font-size}  on: div | div svg | div svg g | div svg text | div svg tspan | div svg path | div svg line",
+      "/books/shared-header.css:147  .dawnbook-diagram svg  {display, margin, height}  on: div svg"
+    ]
+  },
+  "failedRequests": [
+    "http://127.0.0.1:8807/sign-in?redirect_url=%2Fbooks%2Fsejarah-evolusi-drama-korea%2Fconten net::ERR_ABORTED"
+  ],
+  "pageErrors": [],
+  "raw": {
+    "real": {
+      "04_neurobiologi-di-balik-kondisi-alir|light": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|rust": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|coal": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|navy": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|ayu": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|light": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.66,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.66,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|rust": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.2,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.2,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|coal": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 4.92,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 4.92,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|navy": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 6.82,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 6.82,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|ayu": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 7.32,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 7.32,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|light": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|rust": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|coal": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|navy": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|ayu": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|light": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|rust": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|coal": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|navy": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|ayu": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ]
+    },
+    "static": {
+      "04_neurobiologi-di-balik-kondisi-alir|light": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|rust": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|coal": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|navy": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "04_neurobiologi-di-balik-kondisi-alir|ayu": [
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Pemicu (tugasmenantangmemicuDopamin danN",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Transisi(gelombangBeta ke Alpha)",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Puncak (PFCmelambat,Anandamidedan Endorf",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Pemulihan(Serotoninmenenangkansistem sar",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|light": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.66,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.66,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(247,247,247)",
+          "ratio": 19.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(0, 0, 0)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(255,255,255)",
+          "ratio": 21,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|rust": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.2,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 1.2,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(218,218,211)",
+          "ratio": 10.78,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(38, 38, 37)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(225,225,219)",
+          "ratio": 11.54,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|coal": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 4.92,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 4.92,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(26,29,30)",
+          "ratio": 6.6,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(152, 163, 173)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(19,21,22)",
+          "ratio": 7.13,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|navy": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 6.82,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 6.82,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(27,31,44)",
+          "ratio": 8.86,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(188, 189, 208)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(22,25,35)",
+          "ratio": 9.46,
+          "clipped": false
+        }
+      ],
+      "06_model-tantangan-vs-keterampilan|ayu": [
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Arousal",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 7.32,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "Anxiety",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Worry",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "Apathy",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Boredom",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(51,51,51)",
+          "ratio": 7.32,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "Relaxation",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 10,
+          "text": "Control",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(21,28,35)",
+          "ratio": 9.95,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 11,
+          "text": "Flow",
+          "fill": "rgb(197, 197, 197)",
+          "font": "12px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 12,
+          "text": "Keterampilan rendah",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 13,
+          "text": "Keterampilan tinggi",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 14,
+          "text": "Tantangan rendah",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 15,
+          "text": "Tantangan tinggi",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(15,20,26)",
+          "ratio": 10.72,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|light": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|rust": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|coal": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|navy": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "01_akar-awal-era-drama-radio-dan-kelahiran-televisi|ayu": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1927",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "JODK   berdiri,   16Februari",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "Drama   radiopertamaKkot-jang-su",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "1945",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "Kemerdekaan   Korea",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "1950-1953",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "Perang   Korea",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "1956",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 8,
+          "text": "Drama   radioCheongsilhongsilmenjadi   h",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 9,
+          "text": "HLKZ-TVmengudara,   12   Mei",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|light": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(0, 0, 0)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(241,246,249)",
+          "ratio": 19.29,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|rust": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(38, 38, 37)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(194,194,188)",
+          "ratio": 8.47,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|coal": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(152, 163, 173)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(36,38,56)",
+          "ratio": 5.8,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|navy": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(188, 189, 208)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 7.93,
+          "clipped": false
+        }
+      ],
+      "02_era-hitam-putih-dan-formasi-dasar-1960-an-kelahiran-sang-raksasa-layar-kaca|ayu": [
+        {
+          "kind": "text",
+          "idx": 0,
+          "text": "1961",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 1,
+          "text": "KBS   mengudara,   31Desember",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 2,
+          "text": "1962",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 3,
+          "text": "Drama   mingguanpertama   I   WillBecome",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 4,
+          "text": "1964",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 5,
+          "text": "TBC   diluncurkan",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 6,
+          "text": "1969",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        },
+        {
+          "kind": "text",
+          "idx": 7,
+          "text": "MBC   mulaimengudara",
+          "fill": "rgb(197, 197, 197)",
+          "font": "16px Epilogue, sans-serif",
+          "bg": "rgb(37,40,50)",
+          "ratio": 8.52,
+          "clipped": false
+        }
+      ]
+    }
+  }
+}

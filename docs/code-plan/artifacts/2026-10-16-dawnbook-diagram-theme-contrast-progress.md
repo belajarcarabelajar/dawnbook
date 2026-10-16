@@ -1,0 +1,101 @@
+# Progress Log: diagram theme contrast and per-chapter theme instability
+
+## Task Identity
+
+- Plan: `docs/code-plan/plans/2026-10-16-dawnbook-diagram-theme-contrast.md`
+- Session: `dawnbook-diagram-theme-contrast`, branch `2026-10-16-dawnbook-diagram-theme-contrast/dawnbook-diagram-theme-contrast`, worktree `/home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-diagram-theme-contrast`, base `origin/main` at `7ffe0f9`
+- Skill: `/home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md`; `sucp-rules` and `sucp-tdd-debug` loaded through the skill tool
+- Classification: Bounded, systematic debugging
+
+## Acceptance Criteria
+
+- A red-capable command reproduces the reported symptom on the real delivery path.
+- The root cause names the violated invariant and why it was violated, backed by a differential measurement.
+- No production code changes before the owner approves the RCA.
+
+## Current Focus
+
+- Current: gather the C1 to C10 hypothesis chunks.
+- Next: synthesize, write the RCA log, ask the Root cause gate.
+
+## Decisions & Rejected Options
+
+- Static SVG theming is not the primary cause: `probe.ts` shows 6568 of 6570 labels at or above 3:1 across 158 SVGs and five themes when the theme class is set before measuring.
+
+## Blockers
+
+- TinyFish MCP is not signed in for this session (C4 report, 2026-10-16). External web evidence cannot be fetched until the owner completes the sign-in. Local measurements do not depend on it.
+
+## Error Ledger
+
+| # | Failure | Classification | Status |
+|---|---|---|---|
+| E1 | Live pages paint first with the default theme, not the stored one (F2) | infrastructure (Cloudflare Rocket Loader on the zone) interacting with code (mdBook theme scripts carry no `data-cfasync="false"`) | fixed in the build output (`markThemeScriptsCfAsync`); live check pending deploy |
+| E2 | quadrantChart labels "Arousal" and "Boredom" at 1.2 to 1.7:1 in light and rust (F3) | test (probe counted a `<line>` fill as background) | closed: paint-aware probe 0 of 6570 |
+| E5 | `tests/scrape-shield.test.ts` fails in a fresh worktree (ENOENT `output/contribute.html`) | environment, pre-existing | open, debt |
+| E6 | `tests/scripts/gsc-batch-indexing-ping.test.ts` wall-clock flake (`assertLess(par_time, seq_time)`) | test, pre-existing | open, debt |
+| E7 | mdBook fails with "Permission denied" on the optional `dawnbook` preprocessor on this VPS because `/etc/profile.d/snipset-android.sh` puts `/root/Android/Sdk/platform-tools` on PATH | environment (root-owned, outside the repo) | open, debt; workaround: drop `/root/*` PATH entries for the build |
+| E8 | `probe-theme-paint.ts` false green when no class change precedes FCP (V1) | test | fixed in the spike (`childList: true`) |
+| E3 | C4 and C5 research chunks could not fetch any page: TinyFish not authenticated | environment | open, needs owner sign-in |
+| E4 | `plan-issue-sync.mjs` exit 1: `~/vivera/plan.issues.json` missing on the VPS (machine-local, gitignored); not created here, because an issue number recorded only on the VPS would let a later laptop sync open a duplicate | environment | open; plan valid, vault mirror published (`plan-publish.mjs` exit 0, vault commit `68c5f516` pushed) |
+
+## Evidence Trail
+
+| Id | Command | Exit | Result |
+|---|---|---|---|
+| F1 | `cf zones settings get rocket_loader -z <zone>` | 0 | `value on`, `modified_on 2026-06-21T20:00:33Z` |
+| F1b | live `GET /books/state-of-flow/` script tags | 0 | theme bootstrap delivered as `type="6028af01d7458a3d27015781-text/javascript"`; only MathJax scripts carry `data-cfasync="false"` |
+| F2 | `bun probe-theme-paint.ts https://dawnbook.belajarcarabelajar.com/books/state-of-flow/ --theme navy --runs 4` | 1 | 4/4 runs: theme at FCP `light (no js class)`, final `navy`; class log `1205ms:light sidebar-visible, 1208ms:navy js` with FCP 756 ms |
+| F2c | same probe against `http://localhost:8791/books/state-of-flow/` (old local mdBook build, no Rocket Loader) | 0 | 4/4 runs: theme at FCP `navy` |
+| F3 | `bun probe.ts <variables.css>` over 158 SVGs x 5 themes | 1 | labels per theme 1314; below 3:1: light 2, rust 2, coal 0, navy 0, ayu 0 (all quadrantChart `state-of-flow/89fdb4768425.svg`) |
+| F4 | live `GET /books/state-of-flow/content/04_...` | n/a | HTTP 401 (gated); index pages HTTP 200 |
+
+## Chunk Results (gathered 2026-10-16)
+
+| Chunk | Verdict | Parent check |
+|---|---|---|
+| C1 Rocket Loader replay | H1 confirmed; two scripts (default themes in head, bootstrap in body) must bypass together | re-ran A/B/C: exit 1, 1, 0 |
+| C2 Chromium late switch | H3 disproven, 0 of 768 comparisons differ | report read; harness kept in `C2/` |
+| C3 WebKit late switch | H2 disproven for WPE WebKit 27.2; iOS compositor untested. Used a /tmp-only libevent symlink and `PLAYWRIGHT_SKIP_VALIDATE_HOST_REQUIREMENTS=1`, no root, no install | report read |
+| C4 browser bug research | blocked: TinyFish not signed in | n/a |
+| C5 Rocket Loader docs | blocked: TinyFish not signed in; repo facts only (MathJax fix `992bfbb`) | n/a |
+| C6 theme writer audit | H4 disproven | report read |
+| C7 real chapter cascade | H8 disproven, 0 fill and ratio differences over 6570 labels | report read |
+| C8 unthemed elements | H7 disproven; F3 failures were a probe defect (line fill) | re-ran `--paint-aware`: exit 0 |
+| C9 timeline | nothing theme-related shipped with Mermaid; the release made a pre-existing flash visible | commits spot-checked |
+| C10 fix surfaces | A head.hbs early script, B data-cfasync in the post-build pass, C Cloudflare rule, D index.hbs override | `build.ts:37` and the three markers confirmed |
+
+## Fix Verification (fan-out, 2026-10-16)
+
+| Chunk | Verdict | Evidence |
+|---|---|---|
+| V1 end to end with the real Rocket Loader | green | FIXED 0 of 100 loads mismatched (3 modes x index and chapter); CONTROL red in every mode; no new errors |
+| V2 sibling-caller audit | safe | callers, markup parsers, CSP, script order, const redeclaration; follow-ups F1 to F4 |
+| V3 standards review | correct | no qualifying finding; copy rules clean; design note: divergent change in `inject-gating.ts` |
+| V4 spec review | correct | one P2 (stale plan status and log headings), fixed |
+| V5 full build, mdBook 0.5.3 | green | build exit 0, 853/853 toggle pages marked, byte-identical otherwise; check:headings and check:diagrams exit 0 |
+| V6 suite re-run and mutation | green | new test 7/7 on 4 runs; neighbours 32/32; identity mutant fails 4/7 |
+
+## Follow-Up Backlog (Session-Close Debt Sweep)
+
+Ranked by leftover risk x blast radius x cheapness. `NOW` items are offered in the sweep question; `LATER` items carry a `defer:` line.
+
+| # | Item (finish line) | Class | Source |
+|---|---|---|---|
+| D1 | `scripts/inject-gating.ts`: the guard also keys on `<!-- Book generated using mdBook -->`, so a page with that comment but no toggle and no theme scripts throws; add tests for that case and for a missing quote workaround alone; `bun test tests/scripts/inject-gating-theme-scripts.test.ts` green | NOW | V2 F3, V3, V4 |
+| D2 | `GEMINI.md`: a short section on Rocket Loader (scripts that must run before paint carry `data-cfasync="false"` with every script they read globals from; first-paint checks run on the live page or a Rocket Loader replay) | NOW | RCA, learning rules 1 to 3 |
+| D3 | `tests/scrape-shield.test.ts:8`: skip with a clear message when `output/contribute.html` is missing; `bun test` in a fresh worktree has 0 failures from it | NOW | E5, V2 F4 |
+| D4 | `tests/scripts/test_gsc_batch_indexing_ping.py:124`: replace the wall-clock `assertLess(par_time, seq_time)` with a deterministic concurrency check; 5 concurrent runs pass | NOW | E6, V6 |
+| D5 | paywall hide/reveal scripts (`books/shared-script.js` gating block, anti-FOUC script in `inject-gating.ts`) still deferred: visible-then-blank on direct gated entry. `defer: separate session, owner asks or a gated-chapter flicker report` | LATER | V2 F1 |
+| D6 | mdBook sidebar scripts and `toc.js` still deferred: kept-open sidebar slides in on load. `defer: separate session, a sidebar flash report` | LATER | V2 F2 |
+| D7 | live check after deploy: `C10/probe-paint-bg.ts https://dawnbook.belajarcarabelajar.com/books/state-of-flow/ --theme navy --runs 5`, plus `--dark --theme light` and `--dark --theme none`, 0 mismatches. `defer: after PR #165 merges and CI deploys, same day` | LATER | Phase 4 original scenario |
+| D8 | iOS Safari check of a chapter with a diagram in a dark theme. `defer: after deploy, owner's iPhone` | LATER | C3 limit |
+| D9 | external evidence (Cloudflare Rocket Loader docs, mdBook issues, browser trackers) via TinyFish. `defer: when TinyFish is signed in, only if a doc claim is needed` | LATER | C4, C5 |
+| D10 | issue for this plan: run `plan-issue-sync.mjs` from the laptop. `defer: next laptop session, before the plan closes` | LATER | E4 |
+| D11 | `/etc/profile.d/snipset-android.sh` puts a `/root` path on PATH for every VPS user. `defer: owner with root, next VPS maintenance` | LATER | E7 |
+| D12 | move `markThemeScriptsCfAsync` out of the SEO and gating module. `defer: next change to inject-gating.ts, if a second non-SEO transform lands` | LATER | V3 design note |
+| D13 | MathJax exceptions (`reading 'mml'`, `reading 'Clear'`) on book index pages in every replay, with or without the fix. `defer: separate session, a MathJax rendering report` | LATER | C1, V1 |
+
+## Session Log
+
+- 2026-10-16: claimed session, created worktree, wrote plan checklist, built `probe.ts` and `probe-theme-paint.ts`, ran F1 to F4, wrote the subagent contracts, dispatched C1 to C10 in one batch.

@@ -1,0 +1,1598 @@
+[
+ {
+  "variant": "desktop-dpr1",
+  "type": "flowchart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x152",
+   "any": 0,
+   "gt16": 0,
+   "total": 121600
+  },
+  "freshVsFresh2": {
+   "size": "800x152",
+   "any": 0,
+   "gt16": 0,
+   "total": 121600
+  },
+  "lightVsFresh": {
+   "size": "800x152",
+   "any": 121600,
+   "gt16": 121457,
+   "total": 121600
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "flowchart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x152",
+   "any": 0,
+   "gt16": 0,
+   "total": 121600
+  },
+  "freshVsFresh2": {
+   "size": "800x152",
+   "any": 0,
+   "gt16": 0,
+   "total": 121600
+  },
+  "lightVsFresh": {
+   "size": "800x152",
+   "any": 121600,
+   "gt16": 121497,
+   "total": 121600
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "timeline",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x500",
+   "any": 0,
+   "gt16": 0,
+   "total": 400000
+  },
+  "freshVsFresh2": {
+   "size": "800x500",
+   "any": 0,
+   "gt16": 0,
+   "total": 400000
+  },
+  "lightVsFresh": {
+   "size": "800x500",
+   "any": 400000,
+   "gt16": 399770,
+   "total": 400000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "timeline",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x500",
+   "any": 0,
+   "gt16": 0,
+   "total": 400000
+  },
+  "freshVsFresh2": {
+   "size": "800x500",
+   "any": 0,
+   "gt16": 0,
+   "total": 400000
+  },
+  "lightVsFresh": {
+   "size": "800x500",
+   "any": 400000,
+   "gt16": 397361,
+   "total": 400000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "xychart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "freshVsFresh2": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "lightVsFresh": {
+   "size": "800x535",
+   "any": 428000,
+   "gt16": 427665,
+   "total": 428000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "xychart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "freshVsFresh2": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "lightVsFresh": {
+   "size": "800x535",
+   "any": 428000,
+   "gt16": 426109,
+   "total": 428000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "stateDiagram",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x341",
+   "any": 0,
+   "gt16": 0,
+   "total": 272800
+  },
+  "freshVsFresh2": {
+   "size": "800x341",
+   "any": 0,
+   "gt16": 0,
+   "total": 272800
+  },
+  "lightVsFresh": {
+   "size": "800x341",
+   "any": 272800,
+   "gt16": 272612,
+   "total": 272800
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "stateDiagram",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x341",
+   "any": 0,
+   "gt16": 0,
+   "total": 272800
+  },
+  "freshVsFresh2": {
+   "size": "800x341",
+   "any": 0,
+   "gt16": 0,
+   "total": 272800
+  },
+  "lightVsFresh": {
+   "size": "800x341",
+   "any": 272800,
+   "gt16": 272650,
+   "total": 272800
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "sequence",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x655",
+   "any": 0,
+   "gt16": 0,
+   "total": 524000
+  },
+  "freshVsFresh2": {
+   "size": "800x655",
+   "any": 0,
+   "gt16": 0,
+   "total": 524000
+  },
+  "lightVsFresh": {
+   "size": "800x655",
+   "any": 524000,
+   "gt16": 523557,
+   "total": 524000
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "sequence",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x655",
+   "any": 0,
+   "gt16": 0,
+   "total": 524000
+  },
+  "freshVsFresh2": {
+   "size": "800x655",
+   "any": 0,
+   "gt16": 0,
+   "total": 524000
+  },
+  "lightVsFresh": {
+   "size": "800x655",
+   "any": 524000,
+   "gt16": 522675,
+   "total": 524000
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "quadrantChart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "freshVsFresh2": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "lightVsFresh": {
+   "size": "800x535",
+   "any": 428000,
+   "gt16": 427773,
+   "total": 428000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "quadrantChart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "freshVsFresh2": {
+   "size": "800x535",
+   "any": 0,
+   "gt16": 0,
+   "total": 428000
+  },
+  "lightVsFresh": {
+   "size": "800x535",
+   "any": 428000,
+   "gt16": 425943,
+   "total": 428000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "pie",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "800x486",
+   "any": 0,
+   "gt16": 0,
+   "total": 388800
+  },
+  "freshVsFresh2": {
+   "size": "800x486",
+   "any": 0,
+   "gt16": 0,
+   "total": 388800
+  },
+  "lightVsFresh": {
+   "size": "800x486",
+   "any": 283854,
+   "gt16": 283423,
+   "total": 388800
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "pie",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "800x486",
+   "any": 0,
+   "gt16": 0,
+   "total": 388800
+  },
+  "freshVsFresh2": {
+   "size": "800x486",
+   "any": 0,
+   "gt16": 0,
+   "total": 388800
+  },
+  "lightVsFresh": {
+   "size": "800x486",
+   "any": 283854,
+   "gt16": 283400,
+   "total": 388800
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "flowchart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x304",
+   "any": 0,
+   "gt16": 0,
+   "total": 486400
+  },
+  "freshVsFresh2": {
+   "size": "1600x304",
+   "any": 0,
+   "gt16": 0,
+   "total": 486400
+  },
+  "lightVsFresh": {
+   "size": "1600x304",
+   "any": 486400,
+   "gt16": 486137,
+   "total": 486400
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "flowchart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x304",
+   "any": 0,
+   "gt16": 0,
+   "total": 486400
+  },
+  "freshVsFresh2": {
+   "size": "1600x304",
+   "any": 0,
+   "gt16": 0,
+   "total": 486400
+  },
+  "lightVsFresh": {
+   "size": "1600x304",
+   "any": 486400,
+   "gt16": 485364,
+   "total": 486400
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "timeline",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x1000",
+   "any": 0,
+   "gt16": 0,
+   "total": 1600000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1000",
+   "any": 0,
+   "gt16": 0,
+   "total": 1600000
+  },
+  "lightVsFresh": {
+   "size": "1600x1000",
+   "any": 1600000,
+   "gt16": 1599415,
+   "total": 1600000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "timeline",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x1000",
+   "any": 0,
+   "gt16": 0,
+   "total": 1600000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1000",
+   "any": 0,
+   "gt16": 0,
+   "total": 1600000
+  },
+  "lightVsFresh": {
+   "size": "1600x1000",
+   "any": 1600000,
+   "gt16": 1588288,
+   "total": 1600000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "xychart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "lightVsFresh": {
+   "size": "1600x1070",
+   "any": 1712000,
+   "gt16": 1711564,
+   "total": 1712000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "xychart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "lightVsFresh": {
+   "size": "1600x1070",
+   "any": 1712000,
+   "gt16": 1703555,
+   "total": 1712000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "stateDiagram",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x682",
+   "any": 0,
+   "gt16": 0,
+   "total": 1091200
+  },
+  "freshVsFresh2": {
+   "size": "1600x682",
+   "any": 0,
+   "gt16": 0,
+   "total": 1091200
+  },
+  "lightVsFresh": {
+   "size": "1600x682",
+   "any": 1091200,
+   "gt16": 1090859,
+   "total": 1091200
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "stateDiagram",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x682",
+   "any": 0,
+   "gt16": 0,
+   "total": 1091200
+  },
+  "freshVsFresh2": {
+   "size": "1600x682",
+   "any": 0,
+   "gt16": 0,
+   "total": 1091200
+  },
+  "lightVsFresh": {
+   "size": "1600x682",
+   "any": 1091200,
+   "gt16": 1090371,
+   "total": 1091200
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "sequence",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x1310",
+   "any": 0,
+   "gt16": 0,
+   "total": 2096000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1310",
+   "any": 0,
+   "gt16": 0,
+   "total": 2096000
+  },
+  "lightVsFresh": {
+   "size": "1600x1310",
+   "any": 2096000,
+   "gt16": 2094859,
+   "total": 2096000
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "sequence",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x1310",
+   "any": 0,
+   "gt16": 0,
+   "total": 2096000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1310",
+   "any": 0,
+   "gt16": 0,
+   "total": 2096000
+  },
+  "lightVsFresh": {
+   "size": "1600x1310",
+   "any": 2096000,
+   "gt16": 2085386,
+   "total": 2096000
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "quadrantChart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "lightVsFresh": {
+   "size": "1600x1070",
+   "any": 1712000,
+   "gt16": 1711575,
+   "total": 1712000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "quadrantChart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "freshVsFresh2": {
+   "size": "1600x1070",
+   "any": 0,
+   "gt16": 0,
+   "total": 1712000
+  },
+  "lightVsFresh": {
+   "size": "1600x1070",
+   "any": 1712000,
+   "gt16": 1704084,
+   "total": 1712000
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "pie",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1600x972",
+   "any": 0,
+   "gt16": 0,
+   "total": 1555200
+  },
+  "freshVsFresh2": {
+   "size": "1600x972",
+   "any": 0,
+   "gt16": 0,
+   "total": 1555200
+  },
+  "lightVsFresh": {
+   "size": "1600x972",
+   "any": 1132242,
+   "gt16": 1131201,
+   "total": 1555200
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "desktop-dpr2",
+  "type": "pie",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1600x972",
+   "any": 0,
+   "gt16": 0,
+   "total": 1555200
+  },
+  "freshVsFresh2": {
+   "size": "1600x972",
+   "any": 0,
+   "gt16": 0,
+   "total": 1555200
+  },
+  "lightVsFresh": {
+   "size": "1600x972",
+   "any": 1132242,
+   "gt16": 1131439,
+   "total": 1555200
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "flowchart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2329807,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "flowchart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2329001,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/5",
+  "styleChangedLightVsFinal": "5/5",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(51, 51, 51)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "timeline",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2329739,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "timeline",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2320470,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "xychart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2329976,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "xychart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2322245,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "stateDiagram",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2330126,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "stateDiagram",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2328516,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "sequence",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2328351,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "sequence",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2315677,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/6",
+  "styleChangedLightVsFinal": "6/6",
+  "sampleLate": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.actor",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "quadrantChart",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2328918,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(188, 189, 208)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "quadrantChart",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 2330640,
+   "gt16": 2322902,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/3",
+  "styleChangedLightVsFinal": "3/3",
+  "sampleLate": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text",
+   "fill": "rgb(152, 163, 173)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "pie",
+  "theme": "navy",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 1794605,
+   "gt16": 1793415,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(188, 189, 208)"
+  },
+  "fitsViewport": true
+ },
+ {
+  "variant": "iphone13",
+  "type": "pie",
+  "theme": "coal",
+  "lateVsFresh": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "freshVsFresh2": {
+   "size": "1170x1992",
+   "any": 0,
+   "gt16": 0,
+   "total": 2330640
+  },
+  "lightVsFresh": {
+   "size": "1170x1992",
+   "any": 1794605,
+   "gt16": 1793419,
+   "total": 2330640
+  },
+  "styleMismatchLateVsFresh": "0/4",
+  "styleChangedLightVsFinal": "4/4",
+  "sampleLate": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "sampleFresh": {
+   "sel": "text.slice",
+   "fill": "rgb(0, 0, 0)",
+   "stroke": "none",
+   "color": "rgb(152, 163, 173)"
+  },
+  "fitsViewport": true
+ }
+]

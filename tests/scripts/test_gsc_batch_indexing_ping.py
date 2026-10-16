@@ -19,10 +19,18 @@ from gsc_batch_indexing_ping import (
 
 class MockThreadedHTTPServer(socketserver.ThreadingMixIn, http.server.HTTPServer):
     daemon_threads = True
+    # The default listen backlog of 5 overflows when 10 workers connect at once,
+    # and each dropped SYN costs the client a 1 second retransmit.
+    request_queue_size = 64
 
 class MockGSCServerHandler(http.server.BaseHTTPRequestHandler):
     protocol_version = 'HTTP/1.1'
     quota_trigger_count = 0
+    concurrency_lock = threading.Lock()
+    concurrency_target = 1
+    concurrency_release = threading.Event()
+    in_flight = 0
+    peak_in_flight = 0
 
     def do_POST(self):
         length = int(self.headers.get('Content-Length', 0))
@@ -36,6 +44,23 @@ class MockGSCServerHandler(http.server.BaseHTTPRequestHandler):
                 self.send_header('Content-Length', '0')
                 self.end_headers()
                 return
+
+        if self.path == "/concurrency_test":
+            cls = MockGSCServerHandler
+            release = cls.concurrency_release
+            with cls.concurrency_lock:
+                cls.in_flight += 1
+                cls.peak_in_flight = max(cls.peak_in_flight, cls.in_flight)
+                if cls.in_flight >= cls.concurrency_target:
+                    release.set()
+            # Hold requests until concurrency_target overlap, so the peak does not depend on
+            # scheduling speed; a sequential caller hits the timeout and still ends in seconds.
+            if not release.wait(timeout=5):
+                release.set()
+            # Decrement before the response is sent, so a worker cannot start its
+            # next request while this one is still counted.
+            with cls.concurrency_lock:
+                cls.in_flight -= 1
 
         time.sleep(0.01) # Simulate 10ms network latency
         self.send_response(200)
@@ -61,6 +86,10 @@ class TestGSCBatchIndexingPing(unittest.TestCase):
 
     def setUp(self):
         MockGSCServerHandler.quota_trigger_count = 0
+        MockGSCServerHandler.concurrency_target = 1
+        MockGSCServerHandler.concurrency_release = threading.Event()
+        MockGSCServerHandler.in_flight = 0
+        MockGSCServerHandler.peak_in_flight = 0
 
     def test_get_repo_path(self):
         path = get_repo_path("package.json")
@@ -105,23 +134,24 @@ class TestGSCBatchIndexingPing(unittest.TestCase):
         self.assertEqual(success_count, 0)
         self.assertEqual(error_count, 0)
 
-    def test_parallel_performance_boost(self):
+    def test_process_indexing_batch_runs_requests_concurrently(self):
         target_urls = [f"https://example.com/page{i}" for i in range(50)]
+        max_workers = 10
+        MockGSCServerHandler.concurrency_target = max_workers
+        endpoint = f"http://127.0.0.1:{self.port}/concurrency_test"
 
-        # Measure sequential time
         t0 = time.time()
-        stop_event = threading.Event()
-        for url in target_urls:
-            send_indexing_notification(url, "token123", stop_event, idx_endpoint=self.endpoint)
-        seq_time = time.time() - t0
+        success_count, error_count = process_indexing_batch(
+            target_urls, "token123", max_workers=max_workers, idx_endpoint=endpoint
+        )
+        elapsed = time.time() - t0
+        peak = MockGSCServerHandler.peak_in_flight
 
-        # Measure parallel time with 10 workers
-        t0 = time.time()
-        process_indexing_batch(target_urls, "token123", max_workers=10, idx_endpoint=self.endpoint)
-        par_time = time.time() - t0
-
-        print(f"\n⚡ Performance Benchmark (50 URLs): Sequential={seq_time:.3f}s, Parallel(10 workers)={par_time:.3f}s, Speedup={seq_time/par_time:.2f}x")
-        self.assertLess(par_time, seq_time)
+        print(f"\nConcurrency check (50 URLs, {max_workers} workers): peak in flight={peak}, elapsed={elapsed:.3f}s")
+        self.assertEqual(success_count, 50)
+        self.assertEqual(error_count, 0)
+        self.assertGreater(peak, 1)
+        self.assertLessEqual(peak, max_workers)
 
 if __name__ == '__main__':
     unittest.main()
