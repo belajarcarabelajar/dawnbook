@@ -400,7 +400,13 @@ Acceptance: `check-heading-colons.ts` reports a bold sub-title with a colon insi
 | Y2 | kecerdasan-interpersonal, logika-dan-penalaran-kritis, neurobiologi-motivasi-dopamin | LaTeX escaping; dopamin ch02 sentence agrees with its formula |
 | Y3 | tests/scripts/check-heading-colons.test.ts | guard test; inline-lead-in form "**Label: X** text" (about 48 lines) left for an owner decision under section 24 |
 
+## Closeout status
+
+- Readiness 2026-10-16: `NEEDS-HUMAN` (exit 3); open NOW 0, open step boxes 0; all 14 tasks PASSED in the runner but carry the `"false"` sentinel; S5 and S6 open until the merge.
+- `Close plan` gate: owner chose "Keep it open". Reopen after the merge evidence of #158 is recorded.
+- Debt sweep: owner selected the content slips batch, the book inconsistencies and the section 24 lead-in rule; they run as tasks of the RF5 session.
+
 ## Status
 
 - Status: Verification (S0, S2-S4 done)
-- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
+- Resume: PR #158 open; Close plan reopens in the RF5 PR.

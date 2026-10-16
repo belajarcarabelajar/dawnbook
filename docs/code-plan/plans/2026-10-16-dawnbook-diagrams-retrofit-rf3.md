@@ -338,7 +338,7 @@ flowchart TD
 ## Closeout status
 
 - Readiness `plan-closeout.mjs --readiness` 2026-10-16: `NEEDS-HUMAN` (exit 3); open NOW 0, open step boxes 0; B1-B10 and V1 UNPROVEN by the `"false"` sentinel although all PASSED in the runner log; S5 and S6 open until the merge.
-- `Close plan` gate: owner chose "Keep it open". Reopen the question in the RF4 PR, after the merge evidence of #157 is recorded and S5 and S6 are ticked.
+- `Close plan` gate: owner chose "Keep it open" (2026-10-16, before #157 merged) and again in the RF4 PR after S5 and S6 were ticked; the plan stays open with readiness `NEEDS-HUMAN` from the sentinel tasks only.
 - Debt sweep: owner selected the neurobiologi-motivasi-dopamin ch02:58 wording fix; it runs as a task of the RF4 session.
 
 ## Status
