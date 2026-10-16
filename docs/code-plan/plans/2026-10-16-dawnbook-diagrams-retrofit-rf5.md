@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf5
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -259,9 +259,9 @@ tasks:
 
 - [x] S0 Carry-over from RF4: commit the RF4 merge evidence and tick RF4 S5 and S6. Evidence: this commit
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 6, 6, 8, 3, 5, 11, 8, 0, 0
-- [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g5.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
-- [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
+- [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g5.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: nine book subagents in one message, then six follow-up subagents Z1-Z6 (Z4 in an isolated /tmp worktree); parent audited every block and edit; commits 98463fc, 2f15a40 (books), 9507f4b (Z1), 7afdc25 (Z2), 962c06f (Z3), f9c3bda (Z5), 2889e6f (Z6), c04808f (Z4); 23 diagrams; skips recorded in the review report
+- [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers and one spec reviewer on a frozen worktree at 2f15a40, each `correct`; fixed: siklus ch10 hail edge says the updraft keeps the particle aloft (922a53f), quarter-life ch04 accessible text keeps the code-analogy framing (9f7b92d); Z2 and Z3 content fixes each quote a primary source
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree c04808f: `bun run build` exit 0; `bun test` 676 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; `check:headings` 0 violations under the new lead-in rule; 23 inline diagrams equal 23 source blocks; structure output equal to the RF5 baselines; Z5 and Z6 report no new structure problem in the 22 rewritten books
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -410,7 +410,26 @@ Acceptance: the lead-in lines in the remaining fourteen books are rewritten the 
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Result |
+|---|---|
+| B1 psikologi-positif | ch03 upward spiral, ch05 flow quadrants, ch09 ABCDE |
+| B2 quarter-life-crisis | ch04 code-analogy decision, ch07 50/30/20 pie; ch11 skipped (would invent thresholds) |
+| B3 relief-karmawibhangga | ch02 discovery sequence, ch05 reading guide, ch12 timeline |
+| B4 resiliensi | ch08 OODA loop, ch10 seismic shattering; ch09 box breathing skipped (no loop stated) |
+| B5 sejarah-evolusi-drama-korea | ch01 and ch02 timelines (each chapter's own dates); ch05 chart skipped ("lebih dari 10") |
+| B6 siklus-hidrologi | ch01 water cycle, ch09 Bergeron chain, ch10 hail loop; ch01 pie skipped ("< 0,1%") |
+| B7 sistem-modul-rust | ch01 module tree (ASCII converted), ch08 self/super map, ch10 file decision |
+| B8 pedagogi | ch04 discourse hierarchy, ch07 greeting choice (ASCII converted); ch05 and ch04 IRF skipped (repeat tables) |
+| B9 EWS | ch05 pillar feedback, ch07 warning levels and six-stage chain; ch03 and ch04 skipped (repeat) |
+| Z1 | rust ch10 cases split into two equations; drama ch02 B&W as plain text |
+| Z2 | relief: four uncovered panels (Balai Konservasi Borobudur 2012); psikologi-positif ch05 quadrant model (Abuhamdeh 2020, DOI added) |
+| Z3 | EWS: built from 2005, launched 11 November 2008 (Setneg; BMKG/GITEWS); location within 3 minutes, warning within 5; GPS feeds the DSS; unsourced Instruksi Presiden replaced by the sourced 20 July 2006 directive; two slips |
+| Z4 | detector flags `**Label: X** text`; GEMINI.md section 24 records the owner decision; 78 tests |
+| Z5, Z6 | 48 lead-in lines rewritten in 22 books; neuroplastisitas and vestibular slips |
+
 ## Status
 
-- Status: Approved (`Plan` gate, 2026-10-16, together with the other retrofit plans)
-- Resume: worktree above; the `Plan` gate decides whether the session runs.
+- Status: Verification (S0-S4 done)
+- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
