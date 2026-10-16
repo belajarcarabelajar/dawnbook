@@ -74,4 +74,15 @@ Salah satu contoh paling nyata dari ketidakstabilan akibat rasio N/Z adalah **Ka
 | Terlalu banyak Proton | Di bawah Pita Kestabilan | **Beta Plus ($\beta^+$)**: $p \rightarrow n + e^+$ |
 | Sangat Berat ($Z > 83$) | Di ujung atas pita | **Peluruhan Alfa ($\alpha$)** |
 
+Isi tabel tersebut dapat kamu baca sebagai satu percabangan keputusan.
+
+```mermaid
+flowchart TD
+    accTitle: Kondisi inti dan peluruhan yang menjadi solusinya
+    accDescr: Inti dengan terlalu banyak neutron berada di atas pita kestabilan dan menjalani beta minus. Inti dengan terlalu banyak proton berada di bawah pita dan menjalani beta plus. Inti sangat berat dengan Z lebih dari 83 berada di ujung atas pita dan menjalani peluruhan alfa.
+    A["Kondisi inti"] -->|"terlalu banyak neutron, di atas pita kestabilan"| B["Beta minus, neutron menjadi proton dan elektron"]
+    A -->|"terlalu banyak proton, di bawah pita kestabilan"| C["Beta plus, proton menjadi neutron dan positron"]
+    A -->|"sangat berat, Z lebih dari 83, di ujung atas pita"| D["Peluruhan alfa"]
+```
+
 **Poin Penting:** Peluruhan beta bukanlah sebuah kerusakan, melainkan upaya elegan dari inti atom untuk mencapai konfigurasi energi yang paling rendah dan stabil melalui penyesuaian rasio proton dan neutronnya.

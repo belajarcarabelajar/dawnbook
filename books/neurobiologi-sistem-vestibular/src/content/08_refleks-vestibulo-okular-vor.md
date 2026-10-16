@@ -44,6 +44,22 @@ Nukleus Abducens memiliki dua tugas simultan:
 
 > **Hasil Akhir:** Kedua mata bergerak serempak ke kanan untuk mengompensasi rotasi kepala ke kiri.
 
+Supaya percabangan sinyal di Nukleus Abducens lebih mudah kamu ikuti, berikut jalur yang sama dalam bentuk bagan.
+
+```mermaid
+flowchart TD
+    accTitle: Sirkuit tiga neuron VOR saat kepala menoleh ke kiri
+    accDescr: Kanalis semisirkularis horizontal kiri mengirim sinyal lewat saraf kranial VIII ke Nukleus Vestibularis Medialis, yang menyilang ke Nukleus Abducens. Dari sana sinyal bercabang ke Rectus Lateralis mata kanan dan, lewat MLF, ke Nukleus Okulomotorik yang menggerakkan Rectus Medialis mata kiri, sehingga kedua mata bergerak ke kanan.
+    A["Kepala menoleh ke kiri"] --> B["Kanalis semisirkularis horizontal kiri"]
+    B -->|"saraf kranial VIII"| C["Nukleus Vestibularis Medialis"]
+    C -->|"menyilang ke sisi berlawanan"| D["Nukleus Abducens (Saraf VI)"]
+    D --> E["Rectus Lateralis mata kanan berkontraksi"]
+    D -->|"lewat MLF"| F["Nukleus Okulomotorik (Saraf III)"]
+    F --> G["Rectus Medialis mata kiri berkontraksi"]
+    E --> H["Kedua mata bergerak serempak ke kanan"]
+    G --> H
+```
+
 ## Karakteristik Fisiologis VOR
 
 ### 1. Gain VOR

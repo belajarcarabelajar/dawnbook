@@ -64,6 +64,18 @@ $T_{1/2} = \frac{0.693}{\lambda}$
 
 *Klarifikasi Konsep Waktu Paruh: Apabila sebuah isotop beta memiliki waktu paruh 10 menit dengan sampel awal 1 kg, setelah 10 menit tersisa 500 g. Setelah 20 menit, sampel tidak langsung habis melainkan menyisakan 250 g (setengah dari 500 g).*
 
+Kalau digambar, sisa sampel pada contoh tadi menurun seperti grafik ini.
+
+```mermaid
+xychart
+    accTitle: Sisa sampel isotop beta dengan waktu paruh 10 menit
+    accDescr: Sampel awal 1 kg atau 1000 g tersisa 500 g setelah 10 menit dan 250 g setelah 20 menit, sehingga sampel tidak langsung habis.
+    title "Sisa sampel dengan waktu paruh 10 menit"
+    x-axis "Waktu" ["0 menit", "10 menit", "20 menit"]
+    y-axis "Sisa sampel (g)" 0 --> 1000
+    line [1000, 500, 250]
+```
+
 ### 4. Aktivitas Radiasi
 
 Dalam aplikasi praktis, kita seringkali lebih tertarik pada **Aktivitas ($A$)**, yaitu jumlah peluruhan yang terjadi per detik.

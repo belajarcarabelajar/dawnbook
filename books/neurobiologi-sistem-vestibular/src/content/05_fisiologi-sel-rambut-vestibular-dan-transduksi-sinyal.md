@@ -76,4 +76,18 @@ Melalui aktivitas protein motorik berbasis miosin (seperti Myosin VIIa), titik p
 6. **Eksositosis Neurotransmitter:** Pelepasan glutamat ke celah sinaptik $\rightarrow$
 7. **Pembangkitan Potensial Aksi:** Impuls saraf dihantarkan menuju sistem saraf pusat melalui Nervus Vestibulokoklearis (Nervus VIII).
 
+Bagan berikut merangkum ketujuh langkah tadi sebagai satu alur, dari gerakan kepala sampai potensial aksi.
+
+```mermaid
+flowchart TD
+    accTitle: Ringkasan proses transduksi sel rambut vestibular
+    accDescr: Tujuh langkah berurutan, mulai dari akselerasi kepala yang menggerakkan endolimfe, stereosilia yang membengkok, tip link yang membuka saluran MET, masuknya ion kalium dan kalsium, terbukanya kanal kalsium gerbang tegangan, pelepasan glutamat, sampai impuls saraf yang dihantarkan melalui Nervus VIII.
+    A["1. Akselerasi kepala menggerakkan cairan endolimfe"] --> B["2. Stereosilia membengkok karena pergeseran endolimfe"]
+    B --> C["3. Ketegangan tip link membuka gerbang saluran MET"]
+    C --> D["4. Ion K⁺ dan Ca²⁺ masuk, sel mengalami depolarisasi"]
+    D --> E["5. Depolarisasi membuka kanal Ca²⁺ gerbang tegangan di dasar sel"]
+    E --> F["6. Pelepasan glutamat ke celah sinaptik"]
+    F --> G["7. Impuls saraf menuju sistem saraf pusat melalui Nervus VIII"]
+```
+
 > **Poin Penting:** Hilangnya sel rambut vestibular pada mamalia dewasa bersifat permanen karena keterbatasan kapasitas regenerasi spontan. Kerusakan struktural akibat infeksi labirin, obat-obatan ototoksik (seperti aminoglikosida), atau degenerasi terkait usia (presbistasis) dapat mengakibatkan disfungsi keseimbangan kronis.

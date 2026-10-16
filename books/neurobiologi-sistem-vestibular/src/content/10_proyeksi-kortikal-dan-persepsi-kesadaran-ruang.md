@@ -92,4 +92,21 @@ Ketika seseorang menutup mata lalu memutar kepala secara perlahan ke kiri dan ke
 5. **Pemetaan Multisensorik:** Area 2v, 3a, dan MST.
 6. **Sistem Navigasi:** Hipokampus dan korteks entorhinal (*place cells* dan *head direction cells*).
 
+Kamu bisa melihat tingkatan jalur ini, dengan ketiga area korteks sebagai satu jaringan, pada diagram di bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Struktur jalur proyeksi kortikal vestibular
+    accDescr: Sinyal dari kanalis semisirkularis dan organ otolit naik ke kompleks nukleus vestibularis, lalu ke nukleus talamus VPL dan VPI, kemudian ke jaringan korteks vestibular yang terdiri atas PIVC, area 2v dan 3a, serta area MST, dan proyeksinya meluas hingga hipokampus dan korteks entorhinal.
+    A["Kanalis semisirkularis dan organ otolit"] --> B["Kompleks nukleus vestibularis"]
+    B --> C["Nukleus talamus (VPL dan VPI)"]
+    C --> K
+    subgraph K ["Jaringan korteks vestibular"]
+        D["PIVC"]
+        E["Area 2v dan 3a"]
+        F["Area MST"]
+    end
+    K -.->|"proyeksi meluas"| G["Hipokampus dan korteks entorhinal"]
+```
+
 > **Pesan Utama:** Persepsi kesadaran ruang merupakan hasil orkestrasi antara transduksi fisik di telinga dalam dan interpretasi tingkat tinggi di korteks serebri. Manusia tidak hanya bereaksi terhadap tarikan gravitasi dan gerakan secara mekanis, melainkan memahami keberadaan dan orientasi diri dalam ruang semesta melalui proyeksi kortikal ini.

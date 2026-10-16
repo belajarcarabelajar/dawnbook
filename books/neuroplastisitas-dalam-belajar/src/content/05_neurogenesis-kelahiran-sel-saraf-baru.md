@@ -55,6 +55,18 @@ Proses ini tidak terjadi dalam sekejap. Ini adalah perjalanan perkembangan yang 
 3. **Diferensiasi:** Sel tersebut memilih identitasnya (menjadi neuron, bukan jenis sel otak lainnya).
 4. **Integrasi Sinaptik:** Neuron baru mulai menumbuhkan dendrit dan akson untuk "berjabat tangan" dengan neuron lama.
 
+Perjalanan dari sel punca sampai neuron yang siap bekerja tergambar pada bagan di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Dari sel punca ke neuron fungsional
+    accDescr: Sel punca membelah diri menjadi sel progenitor lewat proliferasi, sel baru bermigrasi ke lokasi yang dibutuhkan, berdiferensiasi menjadi neuron, lalu lewat integrasi sinaptik menumbuhkan dendrit dan akson untuk terhubung dengan neuron lama.
+    S(["Sel punca"]) -->|"proliferasi"| P["Sel progenitor"]
+    P -->|"migrasi"| M["Sel baru di lokasi yang dibutuhkan"]
+    M -->|"diferensiasi"| D["Neuron, bukan jenis sel otak lainnya"]
+    D -->|"integrasi sinaptik"| N(["Neuron baru terhubung dengan neuron lama"])
+```
+
 Dalam bahasa biokimia, proses ini sangat dipengaruhi oleh protein bernama **BDNF** (*Brain-Derived Neurotrophic Factor*), yang sering dijuluki sebagai "pupuk bagi otak".
 
 $$

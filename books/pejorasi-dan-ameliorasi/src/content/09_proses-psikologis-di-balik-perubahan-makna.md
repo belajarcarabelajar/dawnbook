@@ -34,6 +34,18 @@ Ketika sebuah kata (stimulus) secara ajek dipasangkan dengan situasi yang tidak 
 | **Pejorasi** | *Pembantu* | Asosiasi dengan subordinasi sosial dan posisi rentan | Menciptakan beban konotasi negatif; digantikan oleh istilah *asisten rumah tangga*. |
 | **Ameliorasi** | *Wanita* | Digunakan dalam wacana penghormatan dan ranah publik | Memperoleh nilai rasa yang lebih terhormat dan santun dalam konteks formal kenegaraan. |
 
+Bagan ini menerapkan rumus kata ditambah konteks sosial pada kedua contoh dalam tabel.
+
+```mermaid
+flowchart LR
+    accTitle: Pengondisian klasik pada dua kata
+    accDescr: Kata pembantu yang dipasangkan dengan subordinasi sosial dan posisi rentan mengalami pejorasi, sedangkan kata wanita yang digunakan dalam wacana penghormatan dan ranah publik mengalami ameliorasi.
+    K1["Kata pembantu"] --> H1["Pejorasi, konotasi negatif"]
+    S1["Subordinasi sosial dan posisi rentan"] --> H1
+    K2["Kata wanita"] --> H2["Ameliorasi, lebih terhormat dan santun"]
+    S2["Wacana penghormatan dan ranah publik"] --> H2
+```
+
 ### 3. Teori Skema Kognitif dan Kategorisasi Mental
 
 Otak manusia menghemat energi kognitif melalui pembentukan **skema**, yaitu jalan pintas mental untuk mengorganisasikan dan menginterpretasikan informasi dunia sekitar. Begitu sebuah kata terpatri ke dalam skema negatif, pemaknaan netralnya menjadi sulit dipulihkan.
