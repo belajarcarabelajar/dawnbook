@@ -1,0 +1,17 @@
+01_pengantar-dan-filosofi-microteaching.md: chapter title must be a level-2 heading (##)
+02_karakteristik-dan-prinsip-pembelajaran-mikro.md: chapter title must be a level-2 heading (##)
+03_identifikasi-keterampilan-dasar-mengajar-kdm.md: chapter title must be a level-2 heading (##)
+04_tahap-perencanaan-penyusunan-rpp-mikro.md: chapter title must be a level-2 heading (##)
+05_keterampilan-variasi-stimulus-dan-bertanya.md: chapter title must be a level-2 heading (##)
+06_persiapan-teknis-dan-lingkungan-simulasi.md: chapter title must be a level-2 heading (##)
+07_pelaksanaan-simulasi-mengajar.md: chapter title must be a level-2 heading (##)
+08_pemanfaatan-teknologi-rekaman-video.md: chapter title must be a level-2 heading (##)
+09_instrumen-observasi-dan-penilaian-sejawat.md: chapter title must be a level-2 heading (##)
+10_analisis-refleksi-berbasis-video.md: chapter title must be a level-2 heading (##)
+11_pemberian-umpan-balik-konstruktif.md: chapter title must be a level-2 heading (##)
+12_siklus-re-teaching.md: chapter title must be a level-2 heading (##)
+13_evaluasi-akhir-dan-portofolio-mengajar.md: chapter title must be a level-2 heading (##)
+14_referensi.md: chapter title must be a level-2 heading (##)
+14_referensi.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 11_pemberian-umpan-balik-konstruktif.md, 13_evaluasi-akhir-dan-portofolio-mengajar.md
+metodologi-microteaching: 14 chapters, 16 problems

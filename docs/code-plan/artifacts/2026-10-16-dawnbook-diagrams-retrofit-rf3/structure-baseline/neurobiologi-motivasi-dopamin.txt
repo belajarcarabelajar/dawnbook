@@ -1,0 +1,9 @@
+01_mengapa-kita-melakukan-apa-yang-kita-lakukan.md: opener's first sentence would be truncated in the meta description
+02_anatomi-sistem-reward-otak.md: opener's first sentence would be truncated in the meta description
+06_jebakan-kesenangan-instan-di-era-digital.md: opener's first sentence would be truncated in the meta description
+08_siklus-adiksi-wanting-vs-liking.md: opener's first sentence would be truncated in the meta description
+09_strategi-dopamine-fasting.md: opener's first sentence would be truncated in the meta description
+11_membangun-fondasi-dopamin.md: opener's first sentence would be truncated in the meta description
+12_neuroplastisitas-merancang-ulang-otak.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: opener's first sentence would be truncated in the meta description
+neurobiologi-motivasi-dopamin: 13 chapters, 8 problems
