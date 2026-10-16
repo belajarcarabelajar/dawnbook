@@ -48,11 +48,11 @@ Perjalanan naik-turun itu, berikut syarat kapan hail akhirnya jatuh, terangkum d
 ```mermaid
 flowchart TD
     accTitle: Siklus hidup sebuah hailstone
-    accDescr: Embrio dari graupel atau tetesan air besar yang membeku terangkat arus naik ke puncak awan yang sangat dingin dan membentuk lapisan buram, lalu jatuh ke bagian awan yang lebih hangat tetapi tetap di bawah nol dan membentuk lapisan bening. Selama kecepatan arus naik masih lebih besar atau sama dengan kecepatan jatuh terminal, partikel terangkat kembali; setelah terlalu berat, hail jatuh ke permukaan bumi.
+    accDescr: Embrio dari graupel atau tetesan air besar yang membeku terangkat arus naik ke puncak awan yang sangat dingin dan membentuk lapisan buram, lalu jatuh ke bagian awan yang lebih hangat tetapi tetap di bawah nol dan membentuk lapisan bening. Selama kecepatan arus naik masih lebih besar atau sama dengan kecepatan jatuh terminal, partikel tetap ditopang arus naik; setelah terlalu berat, hail jatuh ke permukaan bumi.
     A["Embrio dari graupel atau tetesan besar yang membeku"] --> B["Terangkat ke puncak awan yang sangat dingin, lapisan buram terbentuk"]
     B --> C["Jatuh ke bagian lebih hangat di bawah nol, lapisan bening terbentuk"]
     C --> D{"Arus naik masih lebih besar atau sama dengan kecepatan jatuh terminal?"}
-    D -->|"ya, terangkat kembali"| B
+    D -->|"ya, tetap ditopang arus naik"| B
     D -->|"tidak, terlalu berat"| E["Hail jatuh ke permukaan bumi"]
 ```
 
