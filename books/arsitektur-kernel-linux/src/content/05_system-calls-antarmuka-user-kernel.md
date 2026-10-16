@@ -50,6 +50,24 @@ Kernel menjalankan tugas yang diminta (misalnya, membaca data dari disk).
 
 Setelah selesai, kernel menempatkan nilai kembalian (return value) ke register, lalu mengeksekusi instruksi untuk kembali ke User Mode dan melanjutkan eksekusi program pengguna.
 
+Kelima langkah itu sebenarnya satu perjalanan bolak-balik antara aplikasi dan kernel, yang bisa kamu ikuti di bawah ini.
+
+```mermaid
+sequenceDiagram
+    accTitle: Perjalanan sebuah system call
+    accDescr: Aplikasi di User Mode menempatkan argumen dan nomor ID system call di register, lalu mengeksekusi instruksi syscall atau int 0x80 sehingga CPU beralih ke Kernel Mode. Kernel memakai nomor ID itu untuk mencari alamat fungsi yang sesuai di System Call Table, menjalankan tugas yang diminta, lalu menempatkan nilai kembalian di register dan kembali ke User Mode sehingga program pengguna berlanjut.
+    participant A as Aplikasi (User Mode)
+    participant K as Kernel (Kernel Mode)
+    participant T as System Call Table
+    Note over A: Argumen dan nomor ID ditaruh di register
+    A->>K: Instruksi syscall (x86_64) atau int 0x80 (x86 lama)
+    K->>T: Cari alamat fungsi dengan nomor ID
+    T-->>K: Alamat fungsi yang sesuai
+    Note over K: Menjalankan tugas yang diminta
+    K-->>A: Nilai kembalian di register, kembali ke User Mode
+    Note over A: Program pengguna berlanjut
+```
+
 ## Standard Library vs System Call
 
 Hampir tidak ada programmer yang menulis instruksi `syscall` secara manual dalam bahasa Assembly. Sebaliknya, kita menggunakan **Standard C Library (glibc)**.

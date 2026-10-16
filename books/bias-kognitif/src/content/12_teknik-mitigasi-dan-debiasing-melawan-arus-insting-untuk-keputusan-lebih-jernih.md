@@ -95,6 +95,20 @@ def ambil_keputusan_objektif(isu, hipotesis_awal):
     return evaluasi_akhir(hipotesis_awal, kontra_argumen, data_statistik)
 ```
 
+Bagi kamu yang lebih mudah membaca gambar daripada kode, kelima langkah itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Kerangka lima langkah menuju keputusan objektif
+    accDescr: Mulai dari identifikasi potensi bias, lalu consider the opposite dengan mencari bukti berlawanan, lalu pre-mortem yang mengarah ke identifikasi risiko bila ada skenario gagal, lalu konsultasi luar dengan mencari data base rate, dan terakhir keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik.
+    A["Identifikasi potensi bias"] --> B["Consider the Opposite, cari bukti berlawanan"]
+    B --> C{"Pre-mortem, ada skenario gagal?"}
+    C -->|"ya"| R["Identifikasi risiko"]
+    C -->|"tidak"| D["Konsultasi luar (Outside View), cari data base rate"]
+    R --> D
+    D --> E["Keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik"]
+```
+
 ## 6\. Latihan Mandiri untuk Melatih Otak
 
 Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan berikut dalam 24 jam ke depan:

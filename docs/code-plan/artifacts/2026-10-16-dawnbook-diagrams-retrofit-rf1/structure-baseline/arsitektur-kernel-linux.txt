@@ -1,0 +1,7 @@
+03_manajemen-proses-dan-task-scheduling.md: first heading "Bagaimana Linux Mengelola Proses dan Task Scheduling?" differs from SUMMARY title "Manajemen Proses dan Task Scheduling"
+03_manajemen-proses-dan-task-scheduling.md: opener's first sentence would be truncated in the meta description
+07_virtual-file-system-vfs.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: chapter title must be a level-2 heading (##)
+13_referensi.md: first heading "Referensi dan Sumber Ilmiah Arsitektur Kernel Linux" differs from SUMMARY title "Referensi"
+13_referensi.md: opener's first sentence would be truncated in the meta description
+arsitektur-kernel-linux: 13 chapters, 6 problems

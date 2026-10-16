@@ -1,0 +1,11 @@
+06_efek-dunning-kruger-paradoks-ketidaktahuan.md: opener's first sentence would be truncated in the meta description
+07_kekeliruan-biaya-tertanam-sunk-cost-fallacy.md: opener's first sentence would be truncated in the meta description
+08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.md: chapter title must be a level-2 heading (##)
+09_bias-kelompok-in-group-bias-dinamika-kita-vs-mereka.md: opener's first sentence would be truncated in the meta description
+10_bias-retrospeksi-hindsight-bias-fenomena-aku-sudah-tahu-itu-bakal-terjadi.md: opener's first sentence would be truncated in the meta description
+12_teknik-mitigasi-dan-debiasing-melawan-arus-insting-untuk-keputusan-lebih-jernih.md: opener's first sentence would be truncated in the meta description
+14_referensi.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 02_heuristik-akar-dari-bias.md, 11_dampak-bias-dalam-pengambilan-keputusan.md
+heading "aplikasi di dunia nyata" repeated in 03_bias-konfirmasi-confirmation-bias.md, 04_efek-jangkar-anchoring-effect-pesona-informasi-pertama.md
+heading "mengapa ini terjadi?" repeated in 08_efek-halo-dan-efek-tanduk-ketika-satu-kesan-mengubah-segalanya.md, 10_bias-retrospeksi-hindsight-bias-fenomena-aku-sudah-tahu-itu-bakal-terjadi.md
+bias-kognitif: 14 chapters, 10 problems

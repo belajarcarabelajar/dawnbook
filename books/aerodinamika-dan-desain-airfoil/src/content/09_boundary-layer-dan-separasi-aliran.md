@@ -73,6 +73,23 @@ Untuk mempertahankan gaya angkat aerodinamis yang optimal, aliran udara idealnya
 3. **Pelemahan Energi Kinetik:** Partikel fluida di dekat dinding telah kehilangan sebagian besar energi kinetiknya akibat disipasi viskos. Gaya dorong sisa tidak lagi mencukupi untuk mengatasi peningkatan tekanan balik.
 4. **Titik Separasi (*Separation Point*):** Kecepatan aliran di dekat dinding melambat hingga mencapai nol ($\left.\frac{\partial u}{\partial y}\right|_{y=0} = 0$), lalu berbalik arah membentuk pusaran resirkulasi (*reverse flow*). Titik saat gradien kecepatan di dinding bernilai nol ini dinamakan titik separasi.
 
+Keempat tahapan itu terbagi ke dua daerah airfoil, yaitu bagian depan dan bagian setelah titik ketebalan maksimum.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan terjadinya separasi aliran
+    accDescr: Di bagian depan airfoil hingga titik kecepatan puncak, tekanan menurun sehingga partikel fluida dipercepat dan lapisan batas stabil. Setelah titik ketebalan maksimum menuju tepi belakang, tekanan meningkat seiring penurunan kecepatan, energi kinetik partikel dekat dinding melemah akibat disipasi viskos, kecepatan dekat dinding melambat hingga nol di titik separasi, lalu aliran berbalik arah membentuk pusaran resirkulasi.
+    subgraph DEPAN["Bagian depan airfoil hingga titik kecepatan puncak"]
+        S1["Favorable pressure gradient, tekanan menurun"] --> S2["Partikel fluida dipercepat, lapisan batas stabil"]
+    end
+    subgraph BELAKANG["Setelah titik ketebalan maksimum menuju tepi belakang"]
+        S3["Adverse pressure gradient, tekanan meningkat seiring penurunan kecepatan"] --> S4["Energi kinetik dekat dinding melemah akibat disipasi viskos"]
+        S4 --> S5["Titik separasi, kecepatan dekat dinding mencapai nol"]
+        S5 --> S6["Aliran berbalik arah membentuk pusaran resirkulasi"]
+    end
+    DEPAN -->|"menuju tepi belakang"| BELAKANG
+```
+
 Sebagai analogi mekanika, fluida yang bergerak melawan kenaikan tekanan menyerupai gerak bola menaiki tanjakan. Tanpa momentum awal yang cukup, gerak bola melambat, berhenti, dan berbalik menggelinding ke bawah.
 
 ### 4. Fenomena Stall

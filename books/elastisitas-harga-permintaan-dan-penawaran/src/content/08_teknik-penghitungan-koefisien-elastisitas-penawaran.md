@@ -74,4 +74,19 @@ Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk indus
 - **Pilih Metode:** Gunakan persentase untuk perubahan kecil, gunakan nilai tengah untuk analisis yang lebih formal.
 - **Hitung & Evaluasi:** Peroleh angka koefisien.
 - **Ambil Keputusan:** Gunakan angka tersebut untuk menentukan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
+
+Keempat langkah itu, termasuk cabang pemilihan metodenya, tergambar dalam alur di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Alur kerja analisis elastisitas penawaran
+    accDescr: Langkah pertama adalah mengidentifikasi harga dan kuantitas sebelum dan sesudah perubahan. Lalu pilih metode, yaitu metode persentase untuk perubahan kecil atau metode nilai tengah untuk analisis yang lebih formal. Keduanya bermuara pada penghitungan dan evaluasi angka koefisien, yang kemudian dipakai untuk memutuskan apakah perusahaan perlu menambah kapasitas gudang atau merekrut tenaga kerja tambahan.
+    S1["Identifikasi harga dan kuantitas sebelum dan sesudah"] --> S2{"Pilih metode"}
+    S2 -->|"perubahan kecil"| M1["Metode persentase"]
+    S2 -->|"analisis lebih formal"| M2["Metode nilai tengah"]
+    M1 --> S3["Hitung dan evaluasi angka koefisien"]
+    M2 --> S3
+    S3 --> S4["Putuskan perlu tidaknya menambah kapasitas gudang atau tenaga kerja"]
+```
+
 > **Insight Penutup:** Angka elastisitas penawaran adalah "radar" bagi manajer operasional. Semakin tinggi angkanya, semakin lincah perusahaan kamu berdansa dengan fluktuasi harga pasar.

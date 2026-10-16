@@ -32,7 +32,7 @@ Beberapa langkah utama di dalam `start_kernel()` meliputi:
 4. **Scheduler (`sched_init`)**: Menginisialisasi *scheduler* utama agar sistem dapat mendukung multitasking.
 5. Fungsi `time_init()` akan mengalibrasi *system clock* untuk menjaga sinkronisasi waktu internal.
 
-Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, setiap aplikasi akan saling tumpang dian dalam RAM, memicu kegagalan sistem secara instan.
+Sebagai ilustrasi, jika kernel gagal melakukan inisialisasi *memory management*, setiap aplikasi akan saling tumpang tindih di dalam RAM, memicu kegagalan sistem secara instan.
 
 ## 4. Mounting Root File System dan Initramfs
 
@@ -98,13 +98,30 @@ ps -p 1 -o comm=
 7. **Eksekusi init**: Kernel menjalankan program `/sbin/init` sebagai PID 1.
 8. Layanan sistem lainnya (jaringan, GUI, daemon) mulai dijalankan oleh PID 1 di tingkat user space.
 
+Kalau kedelapan langkah itu kamu susun dari atas ke bawah, urutannya tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Alur ringkas proses booting Linux
+    accDescr: BIOS atau UEFI menjalankan POST, GRUB memuat kernel dan initramfs ke RAM, kernel membongkar dirinya sendiri di RAM, start_kernel() mengaktifkan alokasi memori, scheduler, CPU, dan interrupt handler, kernel membaca modul driver esensial dari initramfs, sistem beralih ke root file system di disk, kernel menjalankan /sbin/init sebagai PID 1, lalu PID 1 menjalankan layanan sistem di user space.
+    A["BIOS/UEFI menjalankan POST"] --> B["GRUB memuat kernel dan initramfs ke RAM"]
+    B --> C["Kernel membongkar dirinya sendiri di RAM"]
+    C --> D["start_kernel() mengaktifkan alokasi memori, scheduler, CPU, dan interrupt handler"]
+    D --> E["Kernel membaca modul driver esensial dari initramfs"]
+    E --> F["Sistem beralih ke root file system di disk"]
+    F --> G["Kernel menjalankan /sbin/init sebagai PID 1"]
+    G --> H["PID 1 menjalankan layanan sistem (jaringan, GUI, daemon) di user space"]
+```
+
 ## Kernel Panic
 
 Apabila salah satu tahapan di atas gagal (misalnya karena kernel tidak mendeteksi root partition atau berkas init mengalami kerusakan), sistem tidak dapat melanjutkan proses.
 
+<div>
 $$
-\\\\text{Fungsi Init Gagal} \\\\rightarrow \\\\text{panic('No working init found. Try passing init= bootarg.')}
+\text{Fungsi Init Gagal} \rightarrow \text{panic('No working init found. Try passing init= bootarg.')}
 $$
+</div>
 
 Pada kode sumber kernel, jika panggilan `kernel_execve` gagal mengeksekusi `init`, sistem akan langsung menghentikan seluruh aktivitas. Kondisi kegagalan fatal inilah yang disebut sebagai **kernel panic**.
 

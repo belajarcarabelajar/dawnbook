@@ -20,7 +20,7 @@ Ada beberapa mekanisme psikologis yang membuat kita sulit melepaskan "biaya tert
 
 Manusia secara alami lebih takut kehilangan sesuatu daripada keinginan untuk mendapatkan sesuatu dengan nilai yang sama. Berhenti dari proyek yang gagal terasa seperti "mengakui kekalahan" atau "membuang uang", sementara terus melanjutkannya memberikan harapan palsu bahwa kita bisa "impas".
 
-Secara matematis, dalam teori prospek, utilitas kerugian ($U$) dirasakan lebih dalam daripada keuntungan: $|U(-x)| > U(x)$ Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
+Secara matematis, dalam teori prospek, utilitas kerugian ($U$) dirasakan lebih dalam daripada keuntungan: $|U(-x)| > U(x)$. Artinya, rasa sakit kehilangan Rp1.000.000 lebih kuat daripada rasa senang mendapatkan Rp1.000.000.
 
 ### B. Menghindari Penyesalan
 
@@ -50,8 +50,8 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 **Logika Rasional:** Mari kita bandingkan dua opsi menggunakan perhitungan sederhana:
 
-1. **Lanjut Framework A:** $\\text{Biaya\\_Masa\\_Depan} = \\text{Rp } 500.000.000$
-2. **Pindah ke Framework Baru:** $\\text{Biaya\\_Adaptasi} + \\text{Biaya\\_Baru} = \\text{Rp } 300.000.000$
+1. **Lanjut Framework A:** $\text{Biaya Masa Depan} = \text{Rp } 500.000.000$
+2. **Pindah ke Framework Baru:** $\text{Biaya Adaptasi} + \text{Biaya Baru} = \text{Rp } 300.000.000$
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 
@@ -80,6 +80,18 @@ def should_continue_project(sunk_cost, future_cost, expected_benefit):
 # Contoh kasus: Proyek aplikasi yang sudah menghabiskan 100 juta
 # Tapi butuh 50 juta lagi untuk selesai, padahal pasarnya sudah hilang (hanya bernilai 30 juta)
 print(should_continue_project(100_000_000, 50_000_000, 30_000_000))
+```
+
+Kalau kamu tidak terbiasa membaca Python, logika fungsi di atas bisa kamu ikuti lewat alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur keputusan melanjutkan atau menghentikan proyek
+    accDescr: Sunk cost diabaikan. Keuntungan bersih dihitung dari estimasi keuntungan masa depan dikurangi biaya tambahan yang dibutuhkan. Jika keuntungan bersih lebih dari nol, proyek dilanjutkan; jika tidak, proyek dihentikan.
+    A["Abaikan sunk cost (investasi yang sudah hilang)"] --> B["Hitung keuntungan bersih, yaitu estimasi keuntungan masa depan dikurangi biaya tambahan"]
+    B --> C{"Keuntungan bersih lebih dari 0?"}
+    C -->|"ya"| D["LANJUTKAN, keuntungan masa depan menutupi biaya masa depan"]
+    C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
 ```
 
 ## 5. Real-World Applications (Aplikasi Dunia Nyata)

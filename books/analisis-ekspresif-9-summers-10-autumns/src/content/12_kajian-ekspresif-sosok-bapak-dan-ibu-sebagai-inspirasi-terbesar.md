@@ -22,6 +22,17 @@ Kebijakan dan pengorbanan Ibu menjadi penyelamat utama di tengah badai kesulitan
 
 > “Kami sering melihat awan gelap di atas rumah, kadang badai. Apalagi setelah kami menginjak besar. Biaya sekolah, seragam, dan buku-buku membengkak. Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
 
+Tiga tahun yang muncul dalam kutipan-kutipan tadi bisa kamu urutkan menjadi satu garis waktu.
+
+```mermaid
+timeline
+    accTitle: Tonggak hidup keluarga dalam kutipan bab ini
+    accDescr: Tahun 1969 Bapak mendapatkan Surat Izin Mengemudi setelah empat-lima tahun menjadi kenek dan mulai bekerja sebagai sopir angkot. Tahun 1976 rumah kecil keluarga dibangun di atas tanah seluas 7 x 6 meter. Tahun 1980 Bapak membeli mobil bekas seharga sekitar dua juta berkat tabungan berpuluh-puluh tahun, sehingga tak lagi harus menyetorkan sebagian uang hasil kerjanya ke juragannya.
+    1969 : Bapak mendapat Surat Izin Mengemudi setelah empat-lima tahun menjadi kenek : Mulai bekerja sebagai sopir angkot
+    1976 : Rumah kecil dibangun di atas tanah seluas 7 x 6 meter
+    1980 : Bapak membeli mobil bekas seharga sekitar dua juta : Tak lagi menyetor ke juragan
+```
+
 ### Sinergi Ketangguhan Bapak dan Manajemen Ibu
 
 Studi komparatif terhadap watak orang tua Iwan menunjukkan adanya sinergi kepribadian yang membentuk etika kerja tokoh utama. Kegigihan fisik Bapak yang bekerja sebagai sopir angkot berpuluh-puluh tahun bersinergi dengan ketegasan manajemen domestik Ibu yang dengan cermat mengatur takaran beras dan pembayaran uang sekolah anak-anaknya. Kombinasi antara ketangguhan mental bapak dan disiplin administratif ibu inilah yang secara ekspresif ditiru oleh Iwan, membentuk fondasi etos kerja profesionalnya yang sukses menembus dunia korporasi global di New York.

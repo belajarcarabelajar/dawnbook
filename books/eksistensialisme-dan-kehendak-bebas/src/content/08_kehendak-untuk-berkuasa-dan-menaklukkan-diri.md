@@ -36,6 +36,16 @@ Dalam *Thus Spoke Zarathustra*, Nietzsche memetakan proses dialektika evolusi sp
 
 Kemandirian sejati tercapai tatkala subjek mampu melampaui fase kepatuhan (Unta) dan negasi pemberontakan (Singa) menuju afirmasi penciptaan yang riang gembira (Anak Kecil).
 
+Urutan ketiga transformasi itu bisa kamu ikuti dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga transformasi roh menurut Nietzsche
+    accDescr: Roh bergerak dari Unta dengan imperatif Engkau Harus, melampaui fase kepatuhan menuju Singa dengan imperatif Aku Berkehendak, lalu melampaui negasi pemberontakan menuju Anak Kecil dengan Sebuah Roda Berputar, tahap afirmasi penciptaan.
+    R1["Unta, “Engkau Harus”"] -->|"melampaui fase kepatuhan"| R2["Singa, “Aku Berkehendak”"]
+    R2 -->|"melampaui negasi pemberontakan"| R3["Anak Kecil, “Sebuah Roda Berputar”"]
+```
+
 ### 4. *Übermensch* dan Pemodelan Pertumbuhan Eksistensial
 
 Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Unggul / *Overman*). Übermensch bukanlah spesies mutan biologis, melainkan idealitas pencapaian eksistensial manusia yang berhasil melampaui nihilisme melalui penegasan hidup total (*Amor Fati*).

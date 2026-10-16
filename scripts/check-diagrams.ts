@@ -196,6 +196,53 @@ function blockRules(source: string): [string, string][] {
   return out;
 }
 
+// flowchart.wrappingWidth in scripts/diagrams/render-config.json; Mermaid cuts a wider word into character chunks.
+const WRAP_PX = 110;
+
+const decodeXml = (text: string) =>
+  text.replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&amp;/g, "&");
+
+const stripTrailingPunct = (word: string) => word.replace(/\p{P}+$/u, "");
+
+// Label text only (quoted strings, unquoted shape, pipe and dash edge labels, text after a colon), so a row
+// break can never join into a node id or arrow.
+function labelTokens(source: string): Set<string> {
+  const tokens = new Set<string>();
+  const add = (text: string) => text.split(/\s+/).forEach((t) => t !== "" && tokens.add(t));
+  for (const raw of source.split("\n")) {
+    const line = raw.trim();
+    if (line.startsWith("%%") || /^acc(?:Title|Descr)\b/.test(line)) continue;
+    const rest = line.replace(/"([^"]*)"/g, (_m, text: string) => (add(text), " "));
+    for (const m of rest.matchAll(/\[([^[\]]*)\]|\{([^{}]*)\}|\(([^()]*)\)|\|([^|]*)\|/g)) add(m[1] ?? m[2] ?? m[3] ?? m[4]);
+    for (const m of rest.matchAll(DASH_EDGE_TEXT)) add(m[1]);
+    if (rest.includes(":")) add(rest.slice(rest.indexOf(":") + 1));
+  }
+  return tokens;
+}
+
+const ROW_OPEN = /<tspan\b[^>]*\bclass="[^"]*\btext-outer-tspan\b[^"]*"[^>]*>/;
+const INNER_WORD = /<tspan\b[^>]*\bclass="[^"]*\btext-inner-tspan\b[^"]*"[^>]*>([^<]*)<\/tspan>/g;
+
+// Words that Mermaid cut across two rows of one SVG label: the last word of a row plus the first word of
+// the next equals a source label token. A break at a space joins into a word the source never has.
+function splitWords(svg: string, source: string): string[] {
+  const tokens = labelTokens(source);
+  const bare = new Set([...tokens].map(stripTrailingPunct));
+  const found = new Set<string>();
+  for (const text of svg.matchAll(/<text\b[^>]*>([\s\S]*?)<\/text>/g)) {
+    const rows = text[1].split(ROW_OPEN).slice(1).map((row) => [...row.matchAll(INNER_WORD)].map((m) => decodeXml(m[1])).join("").trim());
+    for (let i = 0; i + 1 < rows.length; i++) {
+      const last = rows[i].split(/\s+/).pop() ?? "";
+      const first = rows[i + 1].split(/\s+/)[0];
+      if (!/[\p{L}\p{N}]$/u.test(last) || first === "") continue;
+      const joined = last + first;
+      // A punctuation-only row keeps its punctuation, else the source "kata ," would match the bare "kata".
+      if (/^\p{P}+$/u.test(first) ? tokens.has(joined) : bare.has(stripTrailingPunct(joined))) found.add(joined);
+    }
+  }
+  return [...found];
+}
+
 function isFirstBlock(lines: string[], block: DiagramBlock): boolean {
   return lines.slice(0, block.startLine - 1).every((l) => l.trim() === "" || /^#{1,6}\s/.test(l));
 }
@@ -230,7 +277,8 @@ export function checkDiagrams(root: string, opts: { book?: string } = {}): { vio
         if (!fs.existsSync(svgFile)) {
           report(block, "cache-miss", `no cached SVG ${key}.svg; run bun run diagrams:render --book ${book}`);
         } else {
-          const width = rootViewBoxWidth(fs.readFileSync(svgFile, "utf8"));
+          const svg = fs.readFileSync(svgFile, "utf8");
+          const width = rootViewBoxWidth(svg);
           if (width === null) {
             report(block, "too-wide", `cached SVG ${key}.svg is missing its root viewBox, so its natural width is unknown; run bun run diagrams:render --book ${book}`);
           } else if (width > MAX_NATURAL_WIDTH) {
@@ -239,6 +287,11 @@ export function checkDiagrams(root: string, opts: { book?: string } = {}): { vio
               "too-wide",
               `natural width ${width} px exceeds ${MAX_NATURAL_WIDTH} px; use flowchart TD for long chains, fewer participants, or shorter labels`,
             );
+          }
+          const split = splitWords(svg, block.source);
+          if (split.length > 0) {
+            const words = split.map((w) => `"${w}"`).join(", ");
+            report(block, "split-word", `cached SVG ${key}.svg breaks ${words} across label rows; reword the label so no word is wider than the ${WRAP_PX} px wrap`);
           }
         }
       });

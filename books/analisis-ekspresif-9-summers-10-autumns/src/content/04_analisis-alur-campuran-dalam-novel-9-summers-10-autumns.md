@@ -16,6 +16,16 @@ Teknik ini membuat pembaca tetap terikat untuk terus membaca buku ini. Dengan me
 
 Ketika kita menganalisis alur campuran pada bab pertama novel, kita dapat memetakan garis naratif yang melompat secara dinamis antara New York di masa kini dan Batu di masa lalu. Lompatan alur ini tidak acak, melainkan digerakkan oleh asosiasi emosional tokoh utama. Misalnya, ketika tokoh 'Aku' menatap salju yang turun di New York, memori sensoriknya langsung memicu kilas balik (*flashback*) ke kabut pegunungan Kota Batu di masa kecilnya. Perpindahan alur ini secara estetis berhasil memindahkan pembaca dari atmosfer kesepian profesional di New York menuju kehangatan nostalgia di Batu secara instan.
 
+Gerak maju-mundur itu bisa kamu lihat sebagai satu putaran pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Alur campuran antara New York dan Batu
+    accDescr: Cerita dimulai dari keberhasilan di New York pada masa kini, lalu ditarik mundur ke masa kecil Iwan di Batu lewat kilas balik yang digerakkan asosiasi emosional, misalnya salju di New York yang memicu ingatan akan kabut pegunungan Kota Batu, kemudian bergerak maju lewat proses anak sopir angkot sampai ke titik saat ini.
+    NY["Keberhasilan di New York, masa kini"] -->|"alur mundur, kilas balik lewat asosiasi emosional"| BATU["Masa kecil Iwan di Batu, masa lalu"]
+    BATU -->|"alur maju, proses anak sopir angkot"| NY
+```
+
 ### Memahami Sang Pelaku Cerita
 
 Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita. Mari kita melangkah ke bab berikutnya untuk menganalisis tokoh utama dan bagaimana karakter mereka didefinisikan secara mendalam.

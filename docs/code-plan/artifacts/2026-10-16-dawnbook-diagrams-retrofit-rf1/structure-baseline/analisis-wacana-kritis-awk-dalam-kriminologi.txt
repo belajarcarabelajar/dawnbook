@@ -1,0 +1,6 @@
+05_kognisi-sosial-dan-struktur-wacana-pendekatan-teun-van-dijk.md: opener's first sentence would be truncated in the meta description
+07_dekonstruksi-dokumen-kebijakan-kriminal-dan-produk-hukum.md: opener's first sentence would be truncated in the meta description
+08_media-massa-dan-konstruksi-ketakutan-akan-kejahatan.md: opener's first sentence would be truncated in the meta description
+11_awk-dalam-viktimologi-narasi-dan-representasi-korban.md: opener's first sentence would be truncated in the meta description
+14_referensi.md: chapter title must be a level-2 heading (##)
+analisis-wacana-kritis-awk-dalam-kriminologi: 14 chapters, 5 problems

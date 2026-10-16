@@ -33,6 +33,18 @@ Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berko
 - Harga yang tinggi ini memberi sinyal kepada produsen: *"Ayo buat lebih banyak, ada peluang keuntungan di sini!"*
 - Ketika pasokan bertambah, harga perlahan akan **turun** kembali ke titik keseimbangan.
 
+Urutan sinyal harga itu bisa kamu ikuti langkah demi langkah pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Sinyal harga sebagai kompas pasar
+    accDescr: Barang yang langka namun banyak dicari membuat harga naik. Harga tinggi memberi sinyal kepada produsen bahwa ada peluang keuntungan, sehingga produsen diajak membuat lebih banyak. Ketika pasokan bertambah, harga perlahan turun kembali ke titik keseimbangan.
+    LANGKA["Barang langka namun banyak dicari"] --> NAIK["Harga naik"]
+    NAIK -->|"memberi sinyal"| SINYAL["Produsen melihat peluang keuntungan, ayo buat lebih banyak"]
+    SINYAL --> PASOK["Pasokan bertambah"]
+    PASOK -->|"perlahan"| TURUN["Harga turun kembali ke titik keseimbangan"]
+```
+
 #### B. Distribusi Sumber Daya secara Otomatis
 
 Tanpa instruksi pemerintah, modal dan tenaga kerja mengalir secara alami ke sektor-sektor yang paling dibutuhkan masyarakat.

@@ -114,6 +114,23 @@ $$
 $$
 </div>
 
+Kalau digambar sebagai lapisan dari mikro ke makro, ketiga dimensi itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Model tiga dimensi Norman Fairclough
+    accDescr: Teks pada level mikro dianalisis lewat deskripsi, praktik diskursif pada level meso mencakup produksi dan konsumsi teks dan dianalisis lewat interpretasi, praktik sosial-budaya pada level makro berkaitan dengan kekuasaan dan ideologi dan dianalisis lewat eksplanasi.
+    subgraph makro["Praktik Sosial-Budaya (makro)"]
+        M["Kekuasaan dan ideologi, dianalisis lewat eksplanasi"]
+        subgraph meso["Praktik Diskursif (meso)"]
+            P["Produksi dan konsumsi teks, dianalisis lewat interpretasi"]
+            subgraph mikro["Teks (mikro)"]
+                T["Kosakata, tata bahasa, modalitas, dianalisis lewat deskripsi"]
+            end
+        end
+    end
+```
+
 ### Latihan Analisis Kritis
 
 Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), perhatikan bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.

@@ -46,6 +46,16 @@ Jika kita memplot hubungan ini dalam sebuah grafik, kita akan melihat fenomena y
    \text{Pendapatan Maksimum terjadi ketika } \frac{d(\text{TR})}{dQ} = 0 \text{ atau } E_d = 1
    $$
 
+Urutan wilayah kurva itu saat harga terus diturunkan bisa kamu lihat pada diagram berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Wilayah kurva Total Revenue saat harga diturunkan
+    accDescr: Kurva Total Revenue berbentuk U terbalik. Saat harga masih tinggi, permintaan berada di wilayah elastis dan menurunkan harga meningkatkan TR. TR mencapai titik puncak atau maksimum ketika elastisitas permintaan sama dengan satu. Setelah melewati titik puncak, harga yang terus diturunkan membawa permintaan ke wilayah inelastis dan justru mengurangi TR.
+    A["Harga tinggi, wilayah elastis"] -->|"harga turun, TR naik"| B["Titik puncak, E_d sama dengan 1, TR maksimum"]
+    B -->|"harga terus turun, TR turun"| C["Wilayah inelastis"]
+```
+
 ### 5. Aplikasi Dunia Nyata & Kasus Bisnis
 #### Industri Maskapai Penerbangan
 Maskapai menggunakan sistem *dynamic pricing*. Untuk tiket kelas bisnis yang biasanya dibeli oleh pelancong bisnis (permintaan inelastis karena mendesak dan dibayar kantor), harga dipasang tinggi. Menaikkan harga pada segmen ini akan meningkatkan $\text{TR}$ maskapai. Sebaliknya, untuk tiket promo liburan (permintaan elastis), mereka sering memberikan diskon untuk mengisi kursi yang kosong agar $\text{TR}$ tetap naik.

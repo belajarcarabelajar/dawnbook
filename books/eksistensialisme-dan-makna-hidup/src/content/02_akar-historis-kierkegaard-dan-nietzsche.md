@@ -22,6 +22,16 @@ Kierkegaard berpendapat bahwa manusia bergerak melalui tiga tahap dalam pencaria
 2. **Tahap Etis**: Mulai hidup dengan berpegang pada moralitas, kewajiban, dan tanggung jawab sosial, seperti berkomitmen dalam keluarga atau masyarakat.
 3. **Tahap Religius**: Hubungan langsung antara individu dan Tuhan melalui **"Loncatan Iman" (Leap of Faith)**. Langkah ini melampaui logika rasional demi keyakinan personal yang mendalam.
 
+Kalau ketiga tahap itu kamu baca sebagai satu perjalanan, urutannya seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga tahap eksistensi menurut Kierkegaard
+    accDescr: Dalam pencarian makna, manusia bergerak dari tahap estetik yang mengejar kesenangan dan variasi, ke tahap etis yang berpegang pada moralitas dan kewajiban, lalu ke tahap religius, yaitu hubungan langsung dengan Tuhan melalui loncatan iman.
+    A["Tahap Estetik, kesenangan dan variasi"] --> B["Tahap Etis, moralitas dan kewajiban"]
+    B --> C["Tahap Religius, Loncatan Iman"]
+```
+
 ### Kebenaran adalah Subjektivitas
 
 Kierkegaard meyakini kebenaran terpenting tidak bersifat objektif seperti rumus matematika $2 + 2 = 4$. Kebenaran sejati bersifat subjektif, yaitu nilai yang kamu yakini secara personal dan membuatmu rela hidup atau mati untuk mempertahankannya.
@@ -78,16 +88,20 @@ Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 
 ## Ringkasan Visual
 
-```
-AKAR EKSISTENSIALISME
-│
-├── S. Kierkegaard (Religius)
-│   ├── Kecemasan = Pintu Kebebasan
-│   ├── Loncatan Iman = Solusi Absurditas
-│   └── "Kebenaran adalah Subjektivitas"
-│
-└── F. Nietzsche (Sekuler)
-    ├── Kematian Tuhan = Runtuhnya Nilai Lama
-    ├── Nihilisme = Tantangan yang Harus Diatasi
-    └── Ubermensch = Pencipta Makna Baru
+Kedua akar eksistensialisme dalam bab ini bisa kamu rangkum menjadi dua cabang berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Akar eksistensialisme dari Kierkegaard dan Nietzsche
+    accDescr: Akar eksistensialisme bercabang dua. Cabang Kierkegaard yang religius memuat kecemasan sebagai pintu kebebasan, loncatan iman sebagai solusi absurditas, dan kebenaran adalah subjektivitas. Cabang Nietzsche yang sekuler memuat kematian Tuhan sebagai runtuhnya nilai lama, nihilisme sebagai tantangan yang harus diatasi, dan Ubermensch sebagai pencipta makna baru.
+    K["S. Kierkegaard (Religius)"]
+    N["F. Nietzsche (Sekuler)"]
+    K --> K1["Kecemasan = Pintu Kebebasan"]
+    K --> K2["Loncatan Iman = Solusi Absurditas"]
+    K --> K3["“Kebenaran adalah Subjektivitas”"]
+    N --> N1["Kematian Tuhan = Runtuhnya Nilai Lama"]
+    N --> N2["Nihilisme = Tantangan yang Harus Diatasi"]
+    N --> N3["Ubermensch = Pencipta Makna Baru"]
+    K1 ~~~ K2 ~~~ K3
+    N1 ~~~ N2 ~~~ N3
 ```
