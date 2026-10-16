@@ -359,13 +359,13 @@ Acceptance: the ch12 column header names the real source of its values after a s
 
 Acceptance: teori-permainan ch03 names the incumbent's options one way, matching ch09; tonsilektomi ch11's summary table states its pain row consistently with ch08 and ch10 (per source, with hedges); tonsilektomi ch06 step durations and the stated total agree or are hedged; every change cites the chapter's own sources.
 
-- [ ] Step 1: Run | cmd: structure output of the two books equals the RF6 baselines | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the two books equals the RF6 baselines | expect: exit 0 | retry: 0
 
 ### Task Q2: EWS realita values (RF6 debt sweep)
 
 Acceptance: EWS ch12 Realita values 0.98, 0.35 and 0.72 are either sourced (BMKG or peer-reviewed reports, quoted) or clearly labelled as illustrative.
 
-- [ ] Step 1: Run | cmd: structure output of the EWS book equals its RF5 baseline | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the EWS book equals its RF5 baseline | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
