@@ -213,7 +213,7 @@ tasks:
 
 ## Session checklist
 
-- [ ] S0 Carry-over from RF5: commit the RF5 merge evidence and tick RF5 S5 and S6
+- [x] S0 Carry-over from RF5: commit the RF5 merge evidence and tick RF5 S5 and S6. Evidence: this commit
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 0, 5, 15, 4, 1, 3, 3, 0, 3
 - [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g6.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
 - [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
