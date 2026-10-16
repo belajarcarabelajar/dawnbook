@@ -265,74 +265,74 @@ flowchart TD
 
 ### Task B1: soft-power-jepang-lewat-manga-dan-anime
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book soft-power-jepang-lewat-manga-dan-anime` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book soft-power-jepang-lewat-manga-dan-anime --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of soft-power-jepang-lewat-manga-dan-anime equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/soft-power-jepang-lewat-manga-dan-anime.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book soft-power-jepang-lewat-manga-dan-anime` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book soft-power-jepang-lewat-manga-dan-anime --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of soft-power-jepang-lewat-manga-dan-anime equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/soft-power-jepang-lewat-manga-dan-anime.txt` | expect: exit 0 | retry: 0
 
 ### Task B2: state-of-flow
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book state-of-flow` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book state-of-flow --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of state-of-flow equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/state-of-flow.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book state-of-flow` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book state-of-flow --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of state-of-flow equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/state-of-flow.txt` | expect: exit 0 | retry: 0
 
 ### Task B3: strategi-manajemen-kelas-proaktif
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book strategi-manajemen-kelas-proaktif` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book strategi-manajemen-kelas-proaktif --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of strategi-manajemen-kelas-proaktif equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/strategi-manajemen-kelas-proaktif.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book strategi-manajemen-kelas-proaktif` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book strategi-manajemen-kelas-proaktif --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of strategi-manajemen-kelas-proaktif equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/strategi-manajemen-kelas-proaktif.txt` | expect: exit 0 | retry: 0
 
 ### Task B4: struktur-pasar-dan-persaingan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book struktur-pasar-dan-persaingan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book struktur-pasar-dan-persaingan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of struktur-pasar-dan-persaingan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/struktur-pasar-dan-persaingan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book struktur-pasar-dan-persaingan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book struktur-pasar-dan-persaingan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of struktur-pasar-dan-persaingan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/struktur-pasar-dan-persaingan.txt` | expect: exit 0 | retry: 0
 
 ### Task B5: teori-gaya-kelekatan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-gaya-kelekatan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-gaya-kelekatan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of teori-gaya-kelekatan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-gaya-kelekatan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-gaya-kelekatan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-gaya-kelekatan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of teori-gaya-kelekatan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-gaya-kelekatan.txt` | expect: exit 0 | retry: 0
 
 ### Task B6: teori-permainan-game-theory
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-permainan-game-theory` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-permainan-game-theory --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of teori-permainan-game-theory equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-permainan-game-theory.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-permainan-game-theory` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-permainan-game-theory --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of teori-permainan-game-theory equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-permainan-game-theory.txt` | expect: exit 0 | retry: 0
 
 ### Task B7: teori-teori-kepribadian
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-teori-kepribadian` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-teori-kepribadian --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of teori-teori-kepribadian equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-teori-kepribadian.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book teori-teori-kepribadian` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book teori-teori-kepribadian --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of teori-teori-kepribadian equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/teori-teori-kepribadian.txt` | expect: exit 0 | retry: 0
 
 ### Task B8: tonsilektomi
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book tonsilektomi` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book tonsilektomi --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of tonsilektomi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/tonsilektomi.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book tonsilektomi` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book tonsilektomi --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of tonsilektomi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/tonsilektomi.txt` | expect: exit 0 | retry: 0
 
 ### Task B9: virtue-ethics-aristoteles
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book virtue-ethics-aristoteles` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book virtue-ethics-aristoteles --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of virtue-ethics-aristoteles equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/virtue-ethics-aristoteles.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book virtue-ethics-aristoteles` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book virtue-ethics-aristoteles --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of virtue-ethics-aristoteles equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/virtue-ethics-aristoteles.txt` | expect: exit 0 | retry: 0
 
 ### Task W1: diff-guard accepts lead-in rewrites (RF5 debt sweep)
 
 Acceptance: `check-heading-colons.ts --diff-guard` accepts a changed bold lead-in line when only the bold part changed and the body text after it is identical, and still rejects any other body change; test first.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
 
 ### Task W2: EWS Target Sendai header (RF5 debt sweep)
 
 Acceptance: the ch12 column header names the real source of its values after a source check against the Sendai Framework and BMKG documents; values unchanged unless a source says otherwise.
 
-- [ ] Step 1: Run | cmd: structure output of the EWS book equals its RF5 baseline | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the EWS book equals its RF5 baseline | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Execution record
 
