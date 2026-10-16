@@ -1,0 +1,4 @@
+07_permainan-zero-sum-vs-non-zero-sum.md: opener's first sentence would be truncated in the meta description
+10_permainan-berulang.md: opener's first sentence would be truncated in the meta description
+15_referensi.md: opener's first sentence would be truncated in the meta description
+teori-permainan-game-theory: 15 chapters, 3 problems

@@ -1,0 +1,4 @@
+02_pendekatan-psikodinamika-freud-dan-pengikutnya.md: opener's first sentence would be truncated in the meta description
+06_pendekatan-kognitif-peran-pikiran-dalam-kepribadian.md: opener's first sentence would be truncated in the meta description
+08_pengukuran-dan-penilaian-kepribadian.md: opener's first sentence would be truncated in the meta description
+teori-teori-kepribadian: 12 chapters, 3 problems
