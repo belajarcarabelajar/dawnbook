@@ -39,7 +39,7 @@ Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya
 | **Waktu** | Jangka pendek (mendadak) | Jangka panjang (adaptasi) |
 | **Definisi Barang** | Luas (misal: Pakaian) | Spesifik (misal: Jaket Denim Levi's) |
 ## Strategi Bisnis Kedai Kopi Lokal
-**Skenario: Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
+**Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
 1. **Substitusi:** Apakah di sebelah kedai kamu ada Starbucks atau Point Cafe? Jika ada, permintaan kamu **elastis**. Hati-hati menaikkan harga!
 2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.
 3. **Waktu:** Mungkin di minggu pertama kenaikan harga, pelanggan tetap datang (jangka pendek). Namun jika setelah sebulan mereka merasa terlalu mahal, mereka akan mulai membawa kopi sachet dari rumah (jangka panjang).

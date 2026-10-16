@@ -57,7 +57,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
 
-**Kasus: Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
+**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
 2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran penuh saat transaksi. Biaya kecil ini mendadak jadi sangat nyata di detik-detik penting sebelum tindakan dilakukan.

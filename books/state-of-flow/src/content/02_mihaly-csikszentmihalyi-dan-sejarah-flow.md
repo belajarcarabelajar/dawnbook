@@ -21,7 +21,7 @@ Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seni
 - **Konsentrasi Total:** Saat seorang pelukis sedang mengerjakan karyanya, mereka tampak berada dalam kondisi trans. Mereka mengabaikan rasa lapar, lelah, dan bahkan rasa sakit fisik.
 - **Kehilangan Motivasi Setelah Selesai:** Hal yang paling mengejutkan bagi Mihaly adalah ketika lukisan itu selesai. Begitu kanvas terisi penuh, pelukis tersebut seringkali kehilangan minat pada hasil karyanya dan segera memikirkan proyek berikutnya.
 
-**Analogi: Pendaki Gunung vs Puncak** Bayangkan seorang pendaki gunung. Bagi orang luar, "hadiahnya" adalah mencapai puncak. Namun bagi mereka yang berada dalam kondisi *Flow*, hadiah sebenarnya adalah **setiap langkah sulit saat mendaki**. Puncak hanyalah alasan untuk melakukan pendakian itu sendiri.
+**Pendaki Gunung vs Puncak** Bayangkan seorang pendaki gunung. Bagi orang luar, "hadiahnya" adalah mencapai puncak. Namun bagi mereka yang berada dalam kondisi *Flow*, hadiah sebenarnya adalah **setiap langkah sulit saat mendaki**. Puncak hanyalah alasan untuk melakukan pendakian itu sendiri.
 
 Mihaly menyimpulkan bahwa motivasi tersebut bersifat **Autotelik** (dari bahasa Yunani: *auto* berarti diri sendiri, dan *telos* berarti tujuan). Artinya, aktivitas tersebut dilakukan karena aktivitas itu sendiri adalah tujuannya, bukan karena imbalan eksternal seperti uang atau ketenaran.
 
@@ -60,7 +60,7 @@ $$
 
 Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
 
-**Skenario: Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
+**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
 
 **Poin Penting untuk Diingat:**
 

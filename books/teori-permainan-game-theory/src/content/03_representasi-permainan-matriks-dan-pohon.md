@@ -20,7 +20,7 @@ Sebuah permainan dalam bentuk normal terdiri dari tiga elemen dasar ($N, S, P$):
 
 Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
 
-**Contoh: Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
+**Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
 
 | Pemain 1 \ Pemain 2 | Pertunjukan A | Pertunjukan B |
 | --- | --- | --- |

@@ -56,7 +56,7 @@ Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air 
 
 ## 5. Skenario Kasus dalam Keseharian
 
-**Skenario: Proyek Kolaborasi di Kantor** Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
+**Proyek Kolaborasi di Kantor** Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
 
 Siska mulai menghindari rapat, membalas email dengan singkat dan dingin, atau bahkan bersikap defensif saat diberi saran kecil. Atasannya menjadi bingung karena perilaku Siska berubah drastis dari "sangat bersemangat" menjadi "sulit diajak kerja sama".
 

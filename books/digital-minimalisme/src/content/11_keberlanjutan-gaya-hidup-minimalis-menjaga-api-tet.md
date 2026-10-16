@@ -68,7 +68,7 @@ else:
 
 ## 6\. Budi sebagai "The Sustainable Minimalist"
 
-**Profil: Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
+**Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 
 Ia merancang sistem keberlanjutan baru dengan memberi tahu timnya bahwa ia hanya membaca dan membalas pesan instan pada jam 10:00, 14:00, dan 16:00. Jadwal ini ia pajang di status profil. Untuk mengalihkan dorongan mengecek ponsel di malam hari, Budi mengambil kelas pertukangan kayu. 
 

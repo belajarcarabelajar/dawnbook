@@ -58,7 +58,7 @@ Dimana:
 
 Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut saat kamu masih berdiri tegak di atas tali.
 
-**Skenario: Krisis Karier** Budi kehilangan pekerjaannya secara tiba-tiba karena perampingan perusahaan.
+**Krisis Karier** Budi kehilangan pekerjaannya secara tiba-tiba karena perampingan perusahaan.
 
 - **Tanpa Jaring Pengaman:** Budi mengisolasi diri, merasa malu, dan depresi karena merasa sendirian menghadapi masalah finansial.
 - **Dengan Jaring Pengaman:** Budi menghubungi grup alumni (komunitas), berbicara dengan sahabat yang juga pernah di-PHK (dukungan sebaya), dan mendapatkan dukungan emosional dari keluarga (hubungan sehat). Dia mendapatkan info lowongan kerja dalam seminggu dan dukungan mental untuk tetap percaya diri.

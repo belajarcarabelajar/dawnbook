@@ -82,7 +82,7 @@ Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa mera
 
 Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
-**Skenario: Menghadapi Perubahan Karier yang Mendadak** Bayangkan kamu baru saja kehilangan pekerjaan karena perusahaan bangkrut (mirip dengan kapal karam Zeno).
+**Menghadapi Perubahan Karier yang Mendadak** Bayangkan kamu baru saja kehilangan pekerjaan karena perusahaan bangkrut (mirip dengan kapal karam Zeno).
 
 1. **Perspektif Zeno:** Alih-alih melihatnya sebagai bencana, Zeno melihatnya sebagai peluang untuk beralih profesi ke bidang yang lebih ia cintai (filsafat). Ia berkata, *"Perjalanan saya yang paling sukses dimulai saat saya mengalami kecelakaan kapal."*
 2. **Penerapan Modern:** Sejarah evolusi Stoikisme mengajarkan kita bahwa tantangan eksternal hanyalah "bahan mentah" bagi karakter kita. Seperti Stoikisme yang berevolusi dari Yunani ke Romawi untuk menyesuaikan diri dengan zaman, kita juga harus mampu beradaptasi tanpa kehilangan prinsip inti kita.

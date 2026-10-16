@@ -63,7 +63,7 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 
 ### 5. Deadline Proyek Besar
 
-**Kasus: Deadline Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
+***Deadline* Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
 
 - **Pendekatan Kurang Tepat:** Bekerja 18 jam nonstop, mengonsumsi 5 cangkir kopi, dan tidur hanya 3 jam. Hasilnya: Kesalahan fatal di jam-jam terakhir karena kelelahan kognitif.
 - **Pendekatan Resilien (Strategi Pemulihan Energi):**
