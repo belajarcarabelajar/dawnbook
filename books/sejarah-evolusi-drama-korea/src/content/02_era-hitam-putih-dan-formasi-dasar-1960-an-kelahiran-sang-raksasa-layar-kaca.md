@@ -53,6 +53,18 @@ KBS memang memelopori industri ini, namun akhir dekade 1960-an ditandai oleh kem
 
 Kompetisi sengit antarstasiun ini memicu peningkatan kualitas akting dan keragaman cerita. Para penulis skenario mulai berani bereksperimen dengan dialog yang lebih natural, meninggalkan gaya kaku khas teater klasik.
 
+Urutan kemunculan stasiun dan drama mingguan pertama sepanjang dekade ini tersusun seperti di bawah.
+
+```mermaid
+timeline
+    accTitle: Stasiun televisi Korea pada 1960-an
+    accDescr: Garis waktu dekade 1960-an, dari KBS yang mengudara 31 Desember 1961, drama mingguan pertama I Will Become a Human pada 1962, peluncuran TBC pada 1964, hingga MBC yang mulai mengudara pada 1969.
+    1961 : KBS mengudara, 31 Desember
+    1962 : Drama mingguan pertama I Will Become a Human
+    1964 : TBC diluncurkan
+    1969 : MBC mulai mengudara
+```
+
 ## Jejak 1960-an dalam K-Drama Modern
 
 Meski industri kini telah dimanjakan oleh resolusi 4K dan teknologi CGI, fondasi yang diletakkan pada dekade 1960-an tetap membekas kuat dalam lanskap K-Drama modern:

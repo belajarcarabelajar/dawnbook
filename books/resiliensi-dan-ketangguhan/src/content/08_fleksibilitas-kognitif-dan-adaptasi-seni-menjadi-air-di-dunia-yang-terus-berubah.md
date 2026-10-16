@@ -32,6 +32,18 @@ Untuk melatih kecepatan dalam mencari solusi alternatif, kita bisa meminjam stra
 3. **Decide (Memutuskan):** Berdasarkan orientasi baru, pilih opsi terbaik dari berbagai alternatif yang muncul.
 4. **Act (Bertindak):** Eksekusi keputusan tersebut dengan cepat, lalu kembali ke tahap observasi untuk melihat hasilnya.
 
+Keempat tahap itu membentuk putaran yang bisa kamu lihat pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus OODA
+    accDescr: Empat tahap Siklus OODA berjalan berurutan dari observasi, orientasi, memutuskan, sampai bertindak, lalu kembali ke observasi untuk melihat hasilnya.
+    A["Observe (Observasi)"] --> B["Orient (Orientasi)"]
+    B --> C["Decide (Memutuskan)"]
+    C --> D["Act (Bertindak)"]
+    D -->|"lihat hasilnya"| A
+```
+
 *Pernahkah kamu terus melakukan hal yang sama berkali-kali meskipun hasilnya selalu gagal? Itu adalah tanda 'Cognitive Rigidity' (Kekakuan Kognitif). Bagaimana jika kamu mencoba tahap 'Orient' secara berbeda hari ini?*
 
 ## 3. Teknik Melatih Otak yang Fleksibel

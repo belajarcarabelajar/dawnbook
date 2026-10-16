@@ -64,6 +64,18 @@ Kabar baiknya, optimisme merupakan keterampilan yang bisa dilatih (*learned opti
 - **D - Disputation (Sanggahan):** Menantang keyakinan negatif secara aktif menggunakan argumen logis dan bukti empiris yang bertolak belakang. (Contoh: "Tunggu dulu, bulan lalu kinerjaku dipuji saat mengerjakan proyek A. Kritik kali ini hanya ditujukan pada format laporan B.")
 - **E - Energization (Energi Baru):** Merasakan kelegaan mental dan dorongan semangat baru setelah berhasil mematahkan asumsi buruk sebelumnya.
 
+Urutan kelima tahap tersebut bisa kamu ikuti dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Model ABCDE untuk learned optimism
+    accDescr: Lima tahap berurutan, yaitu Adversity atau kesulitan, Belief atau keyakinan yang muncul, Consequence atau dampak dari keyakinan itu, Disputation atau sanggahan terhadap keyakinan negatif, lalu Energization atau energi baru setelah asumsi buruk dipatahkan.
+    A["A, Adversity (Kesulitan)"] --> B["B, Belief (Keyakinan)"]
+    B --> C["C, Consequence (Konsekuensi)"]
+    C --> D["D, Disputation (Sanggahan)"]
+    D --> E["E, Energization (Energi Baru)"]
+```
+
 ### Aplikasi Dunia Nyata
 
 #### Penundaan Jadwal Proyek

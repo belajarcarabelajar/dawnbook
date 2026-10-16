@@ -97,6 +97,20 @@ def make_decision(options, pfc_maturity_level):
 # Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang 'low' atau emosi sedang 'high'.
 ```
 
+Bagi kamu yang tidak terbiasa membaca kode, cabang di dalam fungsi tadi bisa dibaca sebagai alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Logika pengambilan keputusan menurut kematangan PFC
+    accDescr: Jika tingkat kematangan PFC di bawah 0.8, amygdala sedang mendominasi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika tidak, keputusan diambil lewat analisis logis dampak jangka panjang.
+    A["Menghadapi beberapa pilihan"] --> B{"Kematangan PFC di bawah 0.8?"}
+    B -->|"ya"| C["Amygdala sedang mendominasi, emosi sangat tinggi"]
+    C --> D["Bantuan eksternal seperti mentor atau journaling"]
+    B -->|"tidak"| E["Analisis logis dampak jangka panjang"]
+    D --> F["Keputusan"]
+    E --> F
+```
+
 ## 5\. Mengapa Fase Ini Penting?
 
 Memahami psikologi perkembangan di balik Quarter-Life Crisis membantu kamu untuk berhenti menyalahkan diri sendiri. Kamu bukan sedang gagal; kamu sedang **berkembang**.

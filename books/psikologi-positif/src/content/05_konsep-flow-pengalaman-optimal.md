@@ -41,6 +41,20 @@ Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan
 - **Anxiety (Kecemasan):** Tantangan tinggi sementara keterampilan rendah (contoh: ditunjuk secara mendadak untuk mempresentasikan proyek rumit yang belum dipahami).
 - **Flow:** Tantangan tinggi yang diimbangi dengan keterampilan yang mumpuni (contoh: seorang atlet profesional berlaga di pertandingan final).
 
+Keempat kondisi itu bisa kamu bayangkan sebagai empat kuadran pada bidang tantangan dan keterampilan berikut.
+
+```mermaid
+quadrantChart
+    accTitle: Empat kondisi mental menurut tantangan dan keterampilan
+    accDescr: Bidang dua sumbu dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak. Tantangan rendah dan keterampilan rendah menghasilkan apati, tantangan rendah dengan keterampilan tinggi menghasilkan relaksasi, tantangan tinggi dengan keterampilan rendah menghasilkan kecemasan, dan tantangan tinggi dengan keterampilan tinggi menghasilkan flow.
+    x-axis Keterampilan rendah --> Keterampilan tinggi
+    y-axis Tantangan rendah --> Tantangan tinggi
+    quadrant-1 Flow
+    quadrant-2 "Anxiety (Kecemasan)"
+    quadrant-3 "Apathy (Apati)"
+    quadrant-4 "Relaxation (Relaksasi)"
+```
+
 Mari berefleksi sejenak tentang hobi atau pekerjaanmu. Di posisi mana kamu lebih sering berada? Apakah rasa bosan muncul akibat kurangnya tantangan, ataukah kecemasan mendominasi karena kurangnya latihan?
 
 ### 3. Neurobiologi Flow
