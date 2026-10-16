@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf5
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -429,7 +429,13 @@ Acceptance: the lead-in lines in the remaining fourteen books are rewritten the 
 | Z4 | detector flags `**Label: X** text`; GEMINI.md section 24 records the owner decision; 78 tests |
 | Z5, Z6 | 48 lead-in lines rewritten in 22 books; neuroplastisitas and vestibular slips |
 
+## Closeout record
+
+- Runner `--execute` exit 0: all 16 tasks PASSED; `plan-mark-done`: 16 of 16 ticked.
+- Readiness 2026-10-16: `NEEDS-HUMAN` (exit 3), open NOW 0, open step boxes 0, tasks UNPROVEN only by the `"false"` sentinel, other open boxes S5 and S6.
+- `Close plan` gate: owner chose "Mark Complete". Debt sweep: owner selected the diff-guard lead-in support and the EWS Target Sendai header; both run as tasks of the RF6 session.
+
 ## Status
 
-- Status: Verification (S0-S4 done)
-- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
+- Status: Complete (`Close plan` gate, 2026-10-16)
+- Resume: PR #159 waits for the `Merge` gate; S5 and S6 close with the merge evidence in the RF6 PR.
