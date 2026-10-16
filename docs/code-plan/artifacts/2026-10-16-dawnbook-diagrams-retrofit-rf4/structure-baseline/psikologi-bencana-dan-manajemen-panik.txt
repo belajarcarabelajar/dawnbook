@@ -1,0 +1,5 @@
+03_spektrum-respons-manusia-dalam-keadaan-darurat.md: opener's first sentence would be truncated in the meta description
+07_komunikasi-krisis-dan-instruksi-darurat.md: opener's first sentence would be truncated in the meta description
+09_kepemimpinan-psikologis-dalam-krisis.md: opener's first sentence would be truncated in the meta description
+12_simulasi-dan-pelatihan-kesiapsiagaan-mental.md: opener's first sentence would be truncated in the meta description
+psikologi-bencana-dan-manajemen-panik: 13 chapters, 4 problems

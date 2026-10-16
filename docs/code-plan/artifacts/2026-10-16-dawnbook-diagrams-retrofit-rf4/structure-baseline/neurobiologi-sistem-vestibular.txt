@@ -1,0 +1,6 @@
+04_organ-otolit-sakulus-dan-utrikulus.md: opener's first sentence would be truncated in the meta description
+06_saraf-vestibular-dan-transmisi-sinyal-ke-batang-otak.md: opener's first sentence would be truncated in the meta description
+10_proyeksi-kortikal-dan-persepsi-kesadaran-ruang.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: opener's first sentence would be truncated in the meta description
+heading "ringkasan konsep" repeated in 01_pengantar-neurobiologi-sistem-vestibular.md, 12_patofisiologi-gangguan-sistem-vestibular.md
+neurobiologi-sistem-vestibular: 13 chapters, 5 problems

@@ -1,0 +1,7 @@
+02_anatomi-pembelajaran-neuron-dan-sinapsis.md: opener's first sentence would be truncated in the meta description
+04_prinsip-hebbian-fire-together-wire-together.md: opener's first sentence would be truncated in the meta description
+05_neurogenesis-kelahiran-sel-saraf-baru.md: opener's first sentence would be truncated in the meta description
+06_faktor-lingkungan-yang-memacu-plastisitas.md: opener's first sentence would be truncated in the meta description
+12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md: first heading "1\. Memahami Anatomi Plateu" differs from SUMMARY title "Anatomi Plateu"
+13_masa-depan-pendidikan-berbasis-neurosains-merevolu.md: opener's first sentence would be truncated in the meta description
+neuroplastisitas-dalam-belajar: 13 chapters, 6 problems

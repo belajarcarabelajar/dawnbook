@@ -1,0 +1,8 @@
+02_struktur-atom-dan-ketidakstabilan-inti.md: opener's first sentence would be truncated in the meta description
+11_aplikasi-dan-manfaat-peluruhan-beta.md: opener's first sentence would be truncated in the meta description
+12_keamanan-dan-proteksi-radiasi-beta.md: opener's first sentence would be truncated in the meta description
+heading "mengapa peluruhan beta terjadi?" repeated in 01_pendahuluan-peluruhan-beta.md, 02_struktur-atom-dan-ketidakstabilan-inti.md
+heading "2. persamaan reaksi nuklir" repeated in 03_mekanisme-peluruhan-beta-minus.md, 04_mekanisme-peluruhan-beta-plus.md
+heading "ringkasan cepat" repeated in 04_mekanisme-peluruhan-beta-plus.md, 10_laju-peluruhan-dan-waktu-paruh.md
+heading "ringkasan perbandingan" repeated in 05_fenomena-penangkapan-elektron.md, 08_hukum-kekekalan-dalam-proses-nuklir.md
+peluruhan-beta: 13 chapters, 7 problems
