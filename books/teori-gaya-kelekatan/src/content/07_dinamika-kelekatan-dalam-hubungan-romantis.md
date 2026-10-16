@@ -28,6 +28,18 @@ Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pe
 3. **Reaksi Si Menghindar (Deaktivasi):** Menghadapi desakan tersebut, Si Menghindar merasa sangat tertekan. Demi melindungi diri, ia mengaktifkan mode *flight* atau *freeze* dengan cara diam, meninggalkan ruangan, atau mematikan ponsel.
 4. **Eskalasi konflik:** Ketika Si Menghindar menarik diri, kepanikan Si Cemas justru berlipat ganda. Akibatnya, ia mengejar lebih keras, yang kemudian membuat Si Menghindar merasa harus bersembunyi lebih jauh lagi.
 
+Perhatikan pada bagan di bawah bagaimana langkah keempat kembali mendorong Si Menghindar menjauh, sehingga pola ini terus berputar.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus pengejar dan penghindar
+    accDescr: Pemicu awal berupa konflik kecil membuat Si Cemas panik dan mulai mengejar. Desakan itu membuat Si Menghindar menarik diri. Penarikan diri melipatgandakan kepanikan Si Cemas sehingga ia mengejar lebih keras, yang membuat Si Menghindar merasa harus bersembunyi lebih jauh, dan siklus berulang.
+    A["Pemicu awal (konflik kecil atau kebutuhan emosional tak terpenuhi)"] --> B["Si Cemas panik dan mulai mengejar (aktivasi)"]
+    B -->|"desakan"| C["Si Menghindar menarik diri (deaktivasi)"]
+    C -->|"kepanikan berlipat ganda"| D["Si Cemas mengejar lebih keras"]
+    D -->|"merasa harus bersembunyi lebih jauh"| C
+```
+
 $\\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B$
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.

@@ -1,0 +1,5 @@
+02_pasar-persaingan-sempurna-standar-ideal-dunia-ekonomi.md: opener's first sentence would be truncated in the meta description
+09_hambatan-masuk-dan-keluar-pasar-sang-penjaga-gerbang-ekonomi.md: opener's first sentence would be truncated in the meta description
+10_efisiensi-ekonomi-dan-kesejahteraan-menimbang-keadilan-dan-kinerja-pasar.md: opener's first sentence would be truncated in the meta description
+11_peran-pemerintah-dan-kebijakan-anti-monopoli-wasit-dalam-pertandingan-ekonomi.md: opener's first sentence would be truncated in the meta description
+struktur-pasar-dan-persaingan: 13 chapters, 4 problems

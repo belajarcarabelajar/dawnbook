@@ -1,0 +1,6 @@
+01_pengantar-state-of-flow.md: opener's first sentence would be truncated in the meta description
+04_neurobiologi-di-balik-kondisi-alir.md: opener's first sentence would be truncated in the meta description
+05_pemicu-masuk-ke-kondisi-flow.md: first heading "Pemicu (Triggers) Masuk ke Kondisi Flow" differs from SUMMARY title "Pemicu Masuk ke Kondisi Flow"
+06_model-tantangan-vs-keterampilan.md: opener's first sentence would be truncated in the meta description
+07_flow-dan-peningkatan-produktivitas.md: opener's first sentence would be truncated in the meta description
+state-of-flow: 13 chapters, 5 problems

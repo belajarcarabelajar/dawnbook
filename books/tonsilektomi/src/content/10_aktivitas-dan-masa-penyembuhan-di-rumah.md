@@ -22,6 +22,18 @@ Selama periode ini, kamu sebaiknya tetap berada di dalam rumah dan menghindari g
 
 Rasa nyeri biasanya mulai mereda, meskipun terkadang muncul sensasi nyeri yang menjalar ke telinga. Kamu boleh mulai bergerak lebih aktif di dalam rumah, tetapi tetap hindari olahraga berat. Makanan yang sedikit lebih padat juga sudah bisa dicoba secara bertahap.
 
+Ketiga fase itu dirangkum menurut urutan harinya di bawah ini.
+
+```mermaid
+timeline
+    accTitle: Peta jalan pemulihan 14 hari
+    accDescr: Hari ke-1 sampai ke-3 adalah fase istirahat total dengan fokus tidur dan bed rest. Hari ke-4 sampai ke-7 adalah masa kritis keropeng, saat kamu sebaiknya tetap di dalam rumah. Hari ke-8 sampai ke-14 adalah fase transisi, saat kamu boleh bergerak lebih aktif di dalam rumah tetapi tetap menghindari olahraga berat.
+    title Peta jalan pemulihan 14 hari
+    Hari ke-1 sampai ke-3 : Istirahat total : Fokus tidur dan bed rest
+    Hari ke-4 sampai ke-7 : Masa kritis keropeng : Tetap berada di dalam rumah
+    Hari ke-8 sampai ke-14 : Transisi : Bergerak lebih aktif di dalam rumah : Tetap hindari olahraga berat
+```
+
 ## Batasan Aktivitas Fisik
 
 Mengapa pembatasan fisik ini begitu penting? Jawabannya terletak pada tekanan darah $P$. Gerakan atau aktivitas fisik yang melelahkan bisa memicu lonjakan tekanan darah sistemik. Tekanan tinggi ini dapat mendorong sumbat darah pada luka yang baru mulai mengering, sehingga memicu perdarahan hebat yang berbahaya.

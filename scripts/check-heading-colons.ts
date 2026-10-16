@@ -51,12 +51,16 @@ export function boldTitleInner(line: string): string | null {
 // Owner decision 2026-10-16: a bold run with an inner colon that opens a paragraph and is followed by
 // body text (`**Analogi: Klub** Bayangkan ...`) is the same two-part title. The `(?!\*)` keeps a
 // closing `***` (italic inside bold) whole.
-const BOLD_LEADIN = /^ {0,3}(?:>[ \t]*)*\*\*(.+?)\*\*(?!\*)[ \t]*\S/;
+const BOLD_LEADIN = /^( {0,3}(?:>[ \t]*)*)\*\*(.+?)\*\*(?!\*)([ \t]*\S[\s\S]*)$/;
+
+function splitLeadIn(line: string): { prefix: string; inner: string; body: string } | null {
+  const m = BOLD_LEADIN.exec(line);
+  if (!m || m[2].length > BOLD_TITLE_MAX || m[2].includes("**")) return null;
+  return { prefix: m[1], inner: m[2], body: m[3] };
+}
 
 export function boldLeadInInner(line: string): string | null {
-  const m = BOLD_LEADIN.exec(line);
-  if (!m || m[1].length > BOLD_TITLE_MAX || m[1].includes("**")) return null;
-  return m[1];
+  return splitLeadIn(line)?.inner ?? null;
 }
 // Matches only a single-line <hN>...</hN>, optionally followed by an exemption comment.
 const HTML_HEADING = new RegExp(
@@ -412,6 +416,38 @@ export function diffGuard(
     return false;
   };
 
+  // A lead-in line also carries body text, so it is allowed only as a pair: the removed and the
+  // added line at the same position in the hunk keep the same prefix and a byte-identical body.
+  const leadInRewrite = (oldText: string, oldLine: number, newText: string, newLine: number) => {
+    if (!CONTENT_PATH.test(file)) return false;
+    const a = splitLeadIn(oldText);
+    const b = splitLeadIn(newText);
+    if (!a || !b || a.prefix !== b.prefix || a.body !== b.body) return false;
+    return !maskFor("old", file)[oldLine - 1] && !maskFor("new", file)[newLine - 1];
+  };
+
+  type Change = { text: string; no: number };
+  let removed: Change[] = [];
+  let added: Change[] = [];
+  const flush = () => {
+    const paired = new Set<number>();
+    for (let i = 0; i < Math.min(removed.length, added.length); i++) {
+      if (leadInRewrite(removed[i].text, removed[i].no, added[i].text, added[i].no)) paired.add(i);
+    }
+    removed.forEach((c, i) => {
+      if (!paired.has(i) && !allowed(file, c.text, "old", c.no)) {
+        failures.push(`${file}:${c.no} -${clip(c.text)}`);
+      }
+    });
+    added.forEach((c, i) => {
+      if (!paired.has(i) && !allowed(file, c.text, "new", c.no)) {
+        failures.push(`${file}:${c.no} +${clip(c.text)}`);
+      }
+    });
+    removed = [];
+    added = [];
+  };
+
   let file = "";
   let inHunk = false;
   let oldNo = 0;
@@ -419,6 +455,7 @@ export function diffGuard(
   const inDiff = new Set<string>();
   for (const line of diff.split("\n")) {
     if (line.startsWith("diff --git ")) {
+      flush();
       const m = /^diff --git a\/.* b\/(.*)$/.exec(line);
       file = m ? m[1] : "";
       inDiff.add(file);
@@ -432,21 +469,19 @@ export function diffGuard(
     }
     const h = /^@@ -(\d+)(?:,\d+)? \+(\d+)(?:,\d+)? @@/.exec(line);
     if (h) {
+      flush();
       inHunk = true;
       oldNo = Number(h[1]);
       newNo = Number(h[2]);
       continue;
     }
     if (line.startsWith("+")) {
-      const text = line.slice(1);
-      if (!allowed(file, text, "new", newNo)) failures.push(`${file}:${newNo} +${clip(text)}`);
-      newNo++;
+      added.push({ text: line.slice(1), no: newNo++ });
     } else if (line.startsWith("-")) {
-      const text = line.slice(1);
-      if (!allowed(file, text, "old", oldNo)) failures.push(`${file}:${oldNo} -${clip(text)}`);
-      oldNo++;
+      removed.push({ text: line.slice(1), no: oldNo++ });
     }
   }
+  flush();
   // A stale allowance must fail loudly instead of silently widening a later guard run.
   for (const p of bodyOk) {
     if (!inDiff.has(p)) throw new UsageError(`--allow-body path is not in the diff against ${ref}: ${p}`);

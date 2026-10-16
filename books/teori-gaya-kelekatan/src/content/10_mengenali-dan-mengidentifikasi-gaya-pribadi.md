@@ -63,6 +63,20 @@ $$
 * **Citra Diri Negatif + Citra Orang Lain Negatif** = **Takut-Menghindar (Fearful-Avoidant)**
   * *Keyakinan dasar:* "Aku tidak layak dicintai, dan orang lain pasti akan menyakitiku jika hubungan kami terlalu dekat."
 
+Keempat kombinasi tersebut dapat kamu bayangkan sebagai empat kuadran pada dua sumbu.
+
+```mermaid
+quadrantChart
+    accTitle: Empat gaya kelekatan menurut citra diri dan citra orang lain
+    accDescr: Bidang dua sumbu dengan citra diri di sumbu mendatar dan citra orang lain di sumbu tegak. Citra diri positif dan citra orang lain positif adalah gaya aman, citra diri negatif dan citra orang lain positif adalah gaya cemas, citra diri positif dan citra orang lain negatif adalah gaya menghindar, sedangkan citra diri negatif dan citra orang lain negatif adalah gaya takut-menghindar.
+    x-axis Citra diri negatif --> Citra diri positif
+    y-axis Citra orang lain negatif --> Citra orang lain positif
+    quadrant-1 Aman
+    quadrant-2 Cemas
+    quadrant-3 Takut-Menghindar
+    quadrant-4 Menghindar
+```
+
 ## 5. Panduan Jurnal Refleksi Diri
 
 Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi kamu. Kunci utamanya adalah kejujuran pada diri sendiri.

@@ -1,0 +1,4 @@
+11_kebangkitan-etika-kebajikan-kontemporer-menemukan-kembali-jiwa-dalam-moralitas.md: opener's first sentence would be truncated in the meta description
+12_panduan-praktis.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 05_habituasi-membentuk-karakter-melalui-kebiasaan.md, 10_etika-kebajikan-vs-teori-etika-modern.md
+virtue-ethics-aristoteles: 13 chapters, 3 problems

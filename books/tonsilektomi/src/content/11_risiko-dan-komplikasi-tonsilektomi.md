@@ -34,6 +34,20 @@ Dehidrasi merupakan komplikasi yang paling sering menyebabkan pasien harus kemba
 
 Rasa sakit saat menelan kerap membuat pasien, terutama anak-anak, enggan minum sehingga tubuh kekurangan cairan $\text{H}_2\text{O}$. Hal ini dapat memicu lingkaran setan: tenggorokan yang kering akan terasa jauh lebih sakit dibandingkan tenggorokan yang lembap. Rasa sakit yang memburuk tersebut membuat pasien semakin takut untuk minum, yang pada akhirnya memperlambat penyembuhan luka.
 
+Putaran yang saling memperparah itu bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Lingkaran setan dehidrasi dan rasa sakit
+    accDescr: Sakit saat menelan kerap membuat pasien enggan minum sehingga tubuh kekurangan cairan. Hal ini dapat memicu tenggorokan kering yang terasa jauh lebih sakit, membuat pasien semakin takut minum dan kembali kekurangan cairan, yang pada akhirnya memperlambat penyembuhan luka.
+    A["Sakit saat menelan"] -->|"kerap"| B["Enggan minum"]
+    B --> C["Tubuh kekurangan cairan"]
+    C -->|"dapat memicu"| D["Tenggorokan kering terasa jauh lebih sakit"]
+    D --> E["Semakin takut untuk minum"]
+    E -->|"lingkaran setan"| C
+    E -->|"pada akhirnya"| F["Penyembuhan luka melambat"]
+```
+
 Menahan sedikit rasa perih saat minum jauh lebih baik daripada harus menjalani rawat inap kembali hanya untuk dipasang infus akibat tubuh yang lemas.
 
 ## 4. Gangguan Pernapasan dan Pembengkakan
@@ -53,7 +67,7 @@ Salah satu kondisi yang dapat terjadi adalah dysgeusia, yaitu munculnya rasa pah
 | Jenis Komplikasi | Waktu Terjadi | Tingkat Keparahan | Tindakan |
 | --- | --- | --- | --- |
 | **Mual/Muntah** | Hari 0-1 | Ringan - Sedang | Obat anti-mual |
-| **Nyeri Hebat** | Hari 1-7 | Sedang - Berat | Manajemen obat nyeri rutin |
+| **Nyeri Hebat** | Sekitar hari 1-10, puncaknya berbeda menurut usia (lihat bab Manajemen Nyeri dan Pengobatan; Lavy, 1997; Mitchell dkk., 2019; Bedfordshire Hospitals NHS Foundation Trust, 2025) | Sedang - Berat | Manajemen obat nyeri rutin |
 | **Pendarahan** | Hari 5-10 | Potensial Darurat | Kompres es, segera ke IGD jika masif |
 | **Dehidrasi** | Kapan saja | Sedang | Minum sedikit-sedikit tapi sering |
 

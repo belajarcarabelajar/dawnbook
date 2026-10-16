@@ -54,6 +54,21 @@ Strategi ini dipopulerkan oleh Anatol Rapoport dalam kompetisi yang diadakan ole
 - **Ronde 1:** Bekerja sama.
 - **Ronde selanjutnya:** Lakukan apa pun yang dilakukan lawan pada ronde sebelumnya.
 
+Aturan sederhana ini dapat kamu bayangkan sebagai dua keadaan yang berganti mengikuti langkah lawan pada ronde sebelumnya.
+
+```mermaid
+stateDiagram-v2
+    accTitle: Strategi Tit-for-Tat
+    accDescr: Pada ronde 1 pemain bekerja sama. Pada ronde selanjutnya pemain bekerja sama jika lawan bekerja sama pada ronde sebelumnya, dan berbuat curang jika lawan berbuat curang pada ronde sebelumnya.
+    state "Bekerja sama" as Kerja
+    state "Berbuat curang" as Curang
+    [*] --> Kerja : ronde 1
+    Kerja --> Kerja : lawan bekerja sama
+    Kerja --> Curang : lawan curang
+    Curang --> Curang : lawan curang
+    Curang --> Kerja : lawan bekerja sama
+```
+
 **Mengapa Tit-for-Tat sangat efektif?**
 
 - **Ramah:** Tidak pernah menjadi yang pertama untuk berbuat curang.
@@ -67,6 +82,19 @@ Ini adalah strategi yang jauh lebih ekstrem:
 
 - Bekerja sama selama lawan bekerja sama.
 - Jika lawan berbuat curang **satu kali saja**, maka kamu akan berbuat curang selamanya sebagai hukuman.
+
+Bandingkan dengan diagram berikut, di mana satu kecurangan lawan mengunci kamu di keadaan curang tanpa jalan kembali.
+
+```mermaid
+stateDiagram-v2
+    accTitle: Strategi Grim Trigger
+    accDescr: Pemain bekerja sama selama lawan bekerja sama. Jika lawan berbuat curang satu kali saja, pemain berbuat curang selamanya sebagai hukuman.
+    state "Bekerja sama" as Kerja
+    state "Curang selamanya" as Hukuman
+    [*] --> Kerja
+    Kerja --> Kerja : lawan bekerja sama
+    Kerja --> Hukuman : lawan curang satu kali
+```
 
 > **Pelajaran Utama:** Grim Trigger efektif untuk menakut-nakuti lawan agar tidak berbuat curang, namun sangat rapuh karena satu kesalahan kecil atau kesalahpahaman akan menghancurkan hubungan selamanya.
 

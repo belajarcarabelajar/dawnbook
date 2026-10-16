@@ -77,3 +77,14 @@ Mari kita lihat bagaimana mekanisme neurobiologis ini bekerja dalam skenario nya
 		- **Anandamide** & **Endorfin** membanjiri sistem.
 		- Gelombang otak berada di batas $\text{Alpha-Theta}$.
 4. **Pemulihan:** **Serotonin** dilepaskan untuk menenangkan sistem saraf setelah aktivitas selesai.
+
+Urutan keempat tahap itu dapat kamu telusuri pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Empat tahap proses neurobiologis flow
+    accDescr: Tahap pemicu, saat tugas yang menantang memicu pelepasan dopamin dan norepinefrin, berlanjut ke tahap transisi dari gelombang beta ke alpha, lalu ke tahap puncak saat PFC melambat, anandamide dan endorfin membanjiri sistem, dan gelombang otak berada di batas alpha-theta, kemudian ke tahap pemulihan saat serotonin dilepaskan untuk menenangkan sistem saraf.
+    A["Pemicu (tugas menantang memicu Dopamin dan Norepinefrin)"] --> B["Transisi (gelombang Beta ke Alpha)"]
+    B --> C["Puncak (PFC melambat, Anandamide dan Endorfin membanjiri sistem, batas Alpha-Theta)"]
+    C --> D["Pemulihan (Serotonin menenangkan sistem saraf)"]
+```

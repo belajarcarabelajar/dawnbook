@@ -65,6 +65,18 @@ Ada lima anak tangga dalam piramida tersebut:
 - **Esteem Needs:** Kebutuhan untuk merengkuh apresiasi dari dalam maupun luar diri. Secara internal, orang mengejar *self-esteem*, kemandirian, dan perasaan kompeten. Dari luar, mereka membutuhkan pengakuan status, reputasi, atau apresiasi rekan sejawat. Terpenuhinya hal ini melahirkan rasa percaya diri.
 - **Self-Actualization Needs:** Puncak dari piramida kepribadian Maslow adalah dorongan menyadari dan mengejawantahkan kapasitas maksimal diri. Ruang lingkupnya mencakup upaya pencarian makna hidup yang mendalam, kreativitas murni, dan aktualisasi bakat sejati. Maslow mengamati bahwa tidak banyak orang yang bisa bersandar secara menetap di lapisan tertinggi ini.
 
+Bagan di bawah menyusun kelima lapisan itu dari dasar hingga puncak, mengikuti urutan yang dijelaskan Maslow.
+
+```mermaid
+flowchart BT
+    accTitle: Lima lapisan hierarchy of needs Maslow
+    accDescr: Lima lapisan kebutuhan disusun dari bawah ke atas, yaitu physiological, safety, love and belonging, esteem, dan self-actualization. Kebutuhan di lapisan bawah perlu dipenuhi minimal sampai taraf tertentu sebelum fokus beralih ke lapisan di atasnya.
+    A["Physiological Needs (makanan, air, tidur, tempat berteduh)"] --> B["Safety Needs (rasa aman dan stabilitas)"]
+    B --> C["Love and Belonging Needs (afiliasi dan kelompok sosial)"]
+    C --> D["Esteem Needs (self-esteem dan pengakuan)"]
+    D --> E["Kebutuhan aktualisasi diri (kapasitas maksimal diri)"]
+```
+
 #### Perjalanan Menuju Self-Actualization
 
 *Self-actualization* adalah proses memahat diri untuk menjadi versi yang paling paripurna sesuai dengan talenta alamiahnya. Melalui riset kualitatif terhadap sosok-sosok yang dianggap telah mengaktualisasikan dirinya (seperti Abraham Lincoln dan Eleanor Roosevelt), Maslow membedah bagaimana profil psikologis manusia di tahap tertinggi ini.

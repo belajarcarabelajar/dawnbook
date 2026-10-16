@@ -262,8 +262,8 @@ tasks:
 - [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g5.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: nine book subagents in one message, then six follow-up subagents Z1-Z6 (Z4 in an isolated /tmp worktree); parent audited every block and edit; commits 98463fc, 2f15a40 (books), 9507f4b (Z1), 7afdc25 (Z2), 962c06f (Z3), f9c3bda (Z5), 2889e6f (Z6), c04808f (Z4); 23 diagrams; skips recorded in the review report
 - [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers and one spec reviewer on a frozen worktree at 2f15a40, each `correct`; fixed: siklus ch10 hail edge says the updraft keeps the particle aloft (922a53f), quarter-life ch04 accessible text keeps the code-analogy framing (9f7b92d); Z2 and Z3 content fixes each quote a primary source
 - [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree c04808f: `bun run build` exit 0; `bun test` 676 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; `check:headings` 0 violations under the new lead-in rule; 23 inline diagrams equal 23 source blocks; structure output equal to the RF5 baselines; Z5 and Z6 report no new structure problem in the 22 rewritten books
-- [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
-- [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
+- [x] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate. Evidence: `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5-merge-evidence.md`
+- [x] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync. Evidence: `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5-merge-evidence.md` (graphify sync at the end of the series)
 
 ## Visual Map
 

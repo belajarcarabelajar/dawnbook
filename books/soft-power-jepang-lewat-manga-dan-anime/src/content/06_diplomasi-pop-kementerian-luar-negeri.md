@@ -41,6 +41,18 @@ Kalau keempat langkah tadi kamu susun dalam satu garis waktu, polanya terlihat r
 
 Dalam empat tahun, sebuah kementerian luar negeri membangun kosakata baru yang menempatkan manga, anime, dan busana sebagai aset diplomasi.
 
+Keempat tahun itu bisa kamu lihat berderet pada garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Langkah diplomasi pop MOFA 2006 sampai 2009
+    accDescr: Garis waktu empat langkah Kementerian Luar Negeri Jepang. Tahun 2006 pidato Aso menyebut budaya pop sebagai sekutu diplomasi. Tahun 2007 lahir penghargaan manga internasional. Tahun 2008 Doraemon dilantik menjadi Duta Anime. Tahun 2009 tiga Duta Kawaii mulai bertugas.
+    2006 : Pidato Aso menyebut budaya pop sebagai sekutu diplomasi
+    2007 : Lahir penghargaan manga internasional
+    2008 : Doraemon dilantik menjadi Duta Anime
+    2009 : Tiga Duta Kawaii mulai bertugas
+```
+
 ### Kritik Iwabuchi atas Proyeksi Satu Arah
 
 Tidak semua orang terpesona. Peneliti Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469).
