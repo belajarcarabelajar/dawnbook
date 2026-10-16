@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf2
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -205,11 +205,11 @@ tasks:
 
 ## Session checklist
 
-- [ ] S0 Carry-over from RF1: commit `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1-merge-evidence.md` and tick S5 and S6 of the RF1 plan with a pointer to it
+- [x] S0 Carry-over from RF1: commit `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1-merge-evidence.md` and tick S5 and S6 of the RF1 plan with a pointer to it. Evidence: commit after `d7e8317` adds the evidence file and ticks RF1 S5 and S6
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 0, 6, 5, 3, 16, 6, 1, 1, 0
-- [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g2.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
-- [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
+- [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g2.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: ten subagents (9 books, X1 in an isolated /tmp worktree) dispatched in one message; parent audited every block against its source lines and listed intro sentences per book; commits cd7b2a1, f4e7d9e, 0105b6d (books), 0f54713 (X1); parent fixes: human-capital ch07 Solow arrow turned into two attributes (in f4e7d9e), X1 standalone-hyphen false positive guarded with a RED-first test (in 0f54713); 23 diagrams in 22 chapters, see Execution record
+- [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers (books 1-5, 6-9) and one spec reviewer, each verdict `correct`, no P0-P2; fixed: filosofi ch07 edge keeps "dan harus bereaksi" (1b0c14f), split-word message names the flowchart width as such (301b039); recorded without change: see Review notes
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree 0105b6d+0f54713: `bun run build` exit 0; `bun test` 674 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; 23 inline diagrams equal 23 source blocks; structure output equal to the baseline for all nine books; after 1b0c14f and 301b039 `bun test tests/scripts/check-diagrams.test.ts` 86 pass and `check:diagrams` 0 violations
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -318,7 +318,24 @@ Acceptance: `split-word` also checks label text that sequence diagrams and timel
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Book | Diagrams | Skipped |
+|---|---|---|---|
+| B1 | filosofi-stoikisme | ch02 timeline of three periods, ch07 impression-assent-emotion, ch08 four practice steps | ch07 2x2 of passions (rejected in g2) |
+| B2 | fungsi-manajemen-poac | ch03 seven decision steps, ch08 control steps with the exception decision, ch10 feedback loop | none |
+| B3 | gegar-budaya | ch10 W-curve (U-curve node, three return stages) | ch12 "Proses Transformasi": a 3-item list that would repeat the ch10 chain shape |
+| B4 | geopolitik-dalam-sejarah-piala-dunia | ch04 pie of the 16 slots of 1966, ch05 chronology 1961-1992 (flowchart, a timeline was 1340 px), ch12 timeline of three eras | none |
+| B5 | human-capital-theory | ch03 bar chart of the table incomes, ch07 Solow vs endogenous (ASCII converted), ch07 multiplier chain (ASCII converted) | none |
+| B6 | kecerdasan-interpersonal | ch06 IBR steps, ch10 Clark's four levels, ch12 three stages with practical steps | none |
+| B7 | kenapa-kebiasaan-susah-diubah | ch02 habit loop, ch10 golden rule, ch10 four replacement steps | none |
+| B8 | kenapa-kita-gampang-percaya-hoax | ch02 five spreading stages, ch05 repetition loop | none |
+| B9 | kenapa-kita-suka-menunda-nunda | ch02 consequence of the equation, ch05 avoidance loop (caveat kept) | none |
+| X1 | scripts/check-diagrams.ts | split-word reads sequence and timeline lines, punctuation-ended pieces, the configured width; 86 tests | none |
+
+Review notes kept without change: kecerdasan-interpersonal ch12 says "Tahap konteks" because "Kontekstualisasi" is wider than the 110 px wrap (accDescr keeps the term); human-capital-theory ch07 line 121 colon became a full stop because it introduced the deleted ASCII fence; human-capital-theory ch03 uses one bar series because xychart shows no legend; kecerdasan-interpersonal ch06 and ch10 are both chains, each following its own numbered list.
+
 ## Status
 
-- Status: Approved (`Plan` gate, 2026-10-16, together with the other retrofit plans)
-- Resume: worktree above; the `Plan` gate decides whether the session runs.
+- Status: Verification (S2-S4 done)
+- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
