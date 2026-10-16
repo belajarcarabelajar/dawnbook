@@ -14,6 +14,18 @@ Bunyinya singkat. Pertahankan cue dan reward, lalu ganti routine-nya.
 
 Logikanya tegas kalau kamu ingat cara kerja loop. Cue adalah pemicu yang sudah tertanam dalam konteks hidupmu, dan reward adalah imbalan yang membuat otak menganggap siklus ini layak diulang. Keduanya adalah bagian yang membuat kebiasaan menempel. Routine adalah aksinya, bagian yang paling terlihat tapi sebenarnya paling mudah ditukar. Kebanyakan orang mencoba berubah dengan menyerang routine secara langsung sambil membiarkan cue tetap menghantui dan reward tetap tak tergantikan, lalu heran kenapa tangan bergerak kembali ke pola lama. Golden rule membalik arah serangan itu: jangan bunuh loop, pasang kembali isinya.
 
+Dalam bentuk gambar, yang berpindah hanya jalur tengahnya, sementara kedua ujungnya tetap di tempat.
+
+```mermaid
+flowchart LR
+    accTitle: Golden rule of habit change
+    accDescr: Cue dan reward tetap dipertahankan, sedangkan routine lama di antara keduanya diganti dengan routine baru.
+    A["Cue (tetap)"] -.-> B["Routine lama (diganti)"]
+    B -.-> D["Reward (tetap)"]
+    A --> C["Routine baru"]
+    C --> D
+```
+
 ### Dua bahan dari laboratorium Azrin dan Nunn
 
 Metode habit reversal memberi bukti paling murni untuk golden rule, dan resepnya hanya punya dua bahan.
@@ -35,6 +47,17 @@ Langkah kedua: pilih routine pengganti yang memberi reward serupa dan murah. Ini
 Langkah ketiga: tuliskan implementation intention, kalimat rencana berformat "Jika cue Y, maka saya lakukan Z". Peter Gollwitzer dan Paschal Sheeran (2006) menghimpun 94 tes independen dan menemukan bahwa rencana sederhana ini berdampak medium-besar pada pencapaian tujuan, d = 0,65. Mekanismenya cocok persis dengan yang kita butuhkan: kalimat itu membuat pemicu lebih mudah terdeteksi dan mengotomatisasi respons yang dituju. Kamu tidak lagi mengandalkan keputusan di detik kritis, karena keputusannya sudah dibuat sebelumnya.
 
 Langkah keempat: latih respons kompetitif sampai cepat. Seperti klien Azrin dan Nunn, praktekkan gerakan penggantimu secara sengaja, berulang, sampai ia keluar secepat kebiasaan lama. Respons kompetitif yang belum terlatih kalah lomba dari routine lama yang sudah puluhan kali dilintasi.
+
+Urutan keempatnya, dari memetakan loop sampai melatih gerakan pengganti, terangkum seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Empat langkah mengganti kebiasaan
+    accDescr: Empat langkah berurutan untuk mengganti routine kebiasaan, mulai dari memetakan cue dan reward, memilih routine pengganti, menulis rencana jika-maka, sampai melatih respons kompetitif.
+    A["Petakan cue dan reward kebiasaanmu"] --> B["Pilih routine pengganti yang memberi reward serupa dan murah"]
+    B --> C["Tulis rencana “Jika cue Y, maka saya lakukan Z”"]
+    C --> D["Latih respons kompetitif sampai cepat"]
+```
 
 ### Batas jujur metode ini
 

@@ -35,6 +35,18 @@ Hoaks tidak hanya soal dipercaya, ia soal disebarkan. Paparan berulang menaikkan
 3. Karena terasa benar, kamu ikut membagikannya.
 4. Orang lain jadi ikut terpapar, dan siklusnya berulang dengan jangkauan lebih luas.
 
+Kalau empat langkah tadi digambar melingkar, kamu bisa melihat di mana putaran itu menutup dirinya sendiri.
+
+```mermaid
+flowchart TD
+    accTitle: Lingkaran paparan, percaya, dan sebar
+    accDescr: Kamu terpapar sebuah klaim, klaim itu terasa sedikit lebih benar karena familiar, karena terasa benar kamu ikut membagikannya, lalu orang lain ikut terpapar dan siklusnya berulang dengan jangkauan lebih luas.
+    A["Kamu terpapar sebuah klaim"] --> B["Klaim terasa sedikit lebih benar karena familiar"]
+    B --> C["Kamu ikut membagikan klaim itu"]
+    C --> D["Orang lain ikut terpapar"]
+    D -->|"berulang, jangkauan lebih luas"| A
+```
+
 Sebuah kebohongan tidak perlu argumen kuat untuk menang. Ia cukup diulang lebih sering daripada koreksinya.
 
 ### Kenapa propaganda dan iklan doyan mengulang

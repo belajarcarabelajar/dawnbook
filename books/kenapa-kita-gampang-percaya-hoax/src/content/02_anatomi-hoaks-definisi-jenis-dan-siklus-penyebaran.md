@@ -47,6 +47,18 @@ Hoaks jarang langsung besar. Ia melewati tahap-tahap yang bisa kamu kenali. Mema
 4. **Mutasi.** Saat diteruskan, isi berubah. Kalimat dipotong, tangkapan layar dipisahkan dari sumbernya, klaim ditambah bumbu baru. Versi yang beredar akhirnya bisa jauh dari aslinya.
 5. **Normalisasi.** Karena terus muncul di banyak tempat dan dari banyak orang, klaim itu mulai terasa "sudah umum diketahui". Begitu sesuatu terasa normal, kita berhenti mempertanyakannya, dan di sinilah hoaks paling berbahaya.
 
+Urutan lima tahap itu, dari konten dibuat sampai terasa wajar, tersusun seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Lima tahap siklus penyebaran hoaks
+    accDescr: Hoaks bergerak dari produksi, lalu pemicu emosional, amplifikasi, mutasi, sampai normalisasi, dan setiap tahap punya titik di mana penyebaran bisa berhenti.
+    A["Produksi: konten dikarang, diedit, atau diambil dari konteks lain"] --> B["Pemicu: isu hangat, ketakutan bersama, atau emosi kuat"]
+    B --> C["Amplifikasi: share berulang, grup pesan, akun berpengaruh, bot"]
+    C --> D["Mutasi: kalimat dipotong, klaim ditambah bumbu baru"]
+    D --> E["Normalisasi: klaim terasa sudah umum diketahui"]
+```
+
 Perhatikan bahwa mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
 
 ## Inti Pembahasan

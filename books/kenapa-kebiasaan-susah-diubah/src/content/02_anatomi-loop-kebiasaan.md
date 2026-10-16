@@ -34,6 +34,18 @@ Model tiga unsur Duhigg kemudian diperbarui. James Clear dalam Atomic Habits (20
 
 Craving inilah bagian yang paling sering luput dari kesadaran. Kamu biasanya hanya menyadari dua ujungnya: ponsel yang kamu lihat (cue) dan layar yang sudah terbuka (response). Dorongan di tengahnya bekerja cepat dan senyap, muncul sebelum sempat kamu rumuskan dalam pikiran. Sadarmu baru hadir di tengah jalan, saat aksi sudah separuh selesai, dan saat itu membatalkannya terasa seperti melawan arus.
 
+Kalau empat langkah Clear itu dijajarkan, putarannya kira-kira begini.
+
+```mermaid
+flowchart LR
+    accTitle: Empat langkah loop kebiasaan versi Clear
+    accDescr: Cue memicu craving, craving menjembatani ke response, response berujung reward, dan reward membuat siklus layak diulang sehingga loop kembali ke cue.
+    A["Cue (pemicu)"] --> B["Craving (dorongan yang sering luput dari kesadaran)"]
+    B --> C["Response (aksi)"]
+    C --> D["Reward (imbalan)"]
+    D -->|"siklus layak diulang"| A
+```
+
 Dari empat langkah ini pula Clear menurunkan empat hukum membentuk dan memecah kebiasaan: buat pemicunya jelas, buat dorongannya menarik, buat responsnya mudah, dan buat imbalannya memuaskan, beserta kebalikannya untuk memutus kebiasaan. Kita tidak akan memakai keempat hukum itu sekarang, karena alat paling dasarnya masih harus kita bongkar lebih dulu.
 
 ### Golden rule untuk mengganti rutinitas, bukan menghapus loop

@@ -18,6 +18,18 @@ Dari sudut pandang perbaikan *mood*, kita bisa menyusun sebuah lingkaran. Ini **
 
 Tugasnya sendiri tidak ikut hilang. Ia menunggu, dan karena kita makin lama tidak menyentuhnya, ia cenderung terasa makin berat. Lingkaran pun berputar lagi.
 
+Sebagai ringkasan penalaran, bukan hasil eksperimen, putaran itu tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Lingkaran penghindaran dari sudut perbaikan mood
+    accDescr: Ringkasan penalaran penulis, bukan hasil eksperimen. Tugas memunculkan perasaan aversif, menghindar meredakannya seketika, lega terasa seperti ganjaran sehingga menghindar lebih mungkin diulang, sementara tugas tetap menunggu dan cenderung terasa makin berat, lalu lingkaran berputar lagi.
+    A["Tugas memunculkan perasaan aversif (cemas, bosan, malu, bingung)"] --> B["Menghindar meredakan perasaan itu seketika"]
+    B --> C["Lega terasa seperti ganjaran, menghindar jadi lebih mungkin diulang"]
+    C --> D["Tugas tetap menunggu dan cenderung terasa makin berat"]
+    D -->|"lingkaran berputar lagi"| A
+```
+
 Tabel berikut hanya ilustrasi buatan penulis untuk memperlihatkan bagaimana lingkaran itu bisa terasa dari dalam. Ini bukan temuan penelitian.
 
 | Sinyal tubuh | Yang kamu lakukan | Yang sebenarnya terjadi |
