@@ -49,6 +49,18 @@ Pemulihan psikososial pasca-bencana bukanlah proses linier yang bergerak stabil 
 3. **Fase Kekecewaan (*Disillusionment Phase*):** Terjadi antara bulan ke-6 hingga tahun ke-2. Realitas pemulihan yang lambat mulai memicu keputusasaan. Bantuan eksternal menyusut drastis, kelelahan fisik dan mental mencapai titik kulminasi, konflik interpersonal meningkat, dan pada fase inilah manifestasi PTSD serta depresi berat paling banyak meletup.
 4. **Fase Rekonstruksi (*Reconstruction Phase*):** Fase jangka panjang di mana individu dan komunitas mulai menata ulang fondasi kehidupan, memulihkan kemandirian ekonomi, serta mengintegrasikan narasi trauma sebagai bagian dari sejarah hidup yang dapat ditoleransi.
 
+Urutan keempat fase itu beserta rentang waktunya dapat kamu telusuri pada garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Fase pemulihan komunitas model Zunin dan Myers
+    accDescr: Fase heroik berlangsung segera setelah bencana, fase bulan madu dalam beberapa minggu pertama, fase kekecewaan antara bulan ke-6 hingga tahun ke-2, dan fase rekonstruksi berjalan jangka panjang.
+    Segera setelah bencana : Fase Heroik
+    Beberapa minggu pertama : Fase Bulan Madu
+    Bulan ke-6 hingga tahun ke-2 : Fase Kekecewaan
+    Jangka panjang : Fase Rekonstruksi
+```
+
 <div>
 $$
 \text{Pemulihan} = f(\text{Waktu}, \text{Dukungan Sosial}, \text{Resiliensi Individu})

@@ -35,13 +35,17 @@ Mitigasi mental merupakan rangkaian intervensi psikoedukasi terstruktur yang dir
 
 Tujuan utama mitigasi mental adalah menggeser persepsi kelompok masyarakat dari kerangka mental *korban yang tak berdaya* (*helpless victim*) menuju kerangka *penyintas berdaya tangguh* (*empowered survivor*).
 
-```
-[ Ketidaktahuan & Isolasi ] ──> Kerentanan Psikologis ──> Kepanikan Massal
-              │
-    (Mitigasi Mental)
-              │
-              ▼
-[ Literasi + Efikasi + Ikatan ] ──> Kesiapan Kognitif ──> Respon Terarah & Adaptif
+Pergeseran itu memisahkan dua jalur yang berangkat dari titik awal yang sama, satu tanpa mitigasi mental dan satu lagi melaluinya.
+
+```mermaid
+flowchart LR
+    accTitle: Dua jalur dari ketidaktahuan dan isolasi
+    accDescr: Ketidaktahuan dan isolasi menuju kerentanan psikologis lalu kepanikan massal. Melalui mitigasi mental, jalurnya berubah menjadi literasi, efikasi, dan ikatan, lalu kesiapan kognitif, lalu respon terarah dan adaptif.
+    A["Ketidaktahuan & Isolasi"] --> B["Kerentanan Psikologis"]
+    B --> C["Kepanikan Massal"]
+    A -->|"Mitigasi Mental"| D["Literasi + Efikasi + Ikatan"]
+    D --> E["Kesiapan Kognitif"]
+    E --> F["Respon Terarah & Adaptif"]
 ```
 
 Tiga pilar utama dalam konstruksi mitigasi mental mencakup:
@@ -58,17 +62,15 @@ Ketika warga memahami secara presisi arah jalur evakuasi, titik kumpul aman, dan
 
 Dalam fase awal kedaruratan bencana, tetangga dan warga sekitar adalah garda terdepan penyelamatan (*first responders*). Kepadatan dan kualitas jaringan sosial berfungsi sebagai peredam guncangan (*shock absorber*) emosional dan logistik.
 
-```
-       ┌─────────────────────────────────────────────────────────┐
-       │                 MODAL SOSIAL KOMUNITAS                  │
-       └─────────────────────────────────────────────────────────┘
-            │                        │                        │
-            ▼                        ▼                        ▼
-  ┌───────────────────┐    ┌───────────────────┐    ┌───────────────────┐
-  │   Bonding Capital │    │  Bridging Capital │    │  Linking Capital  │
-  │ (Ikatan Horisontal│    │ (Jembatan Lintas  │    │(Relasi Vertikal ke│
-  │    Mikro/Primer)  │    │  Kelompok/Mesos)  │    │    Otoritas)      │
-  └───────────────────┘    └───────────────────┘    └───────────────────┘
+Modal sosial komunitas bercabang menjadi tiga jenis ikatan, masing-masing dengan arah hubungan yang berbeda.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga cabang modal sosial komunitas
+    accDescr: Modal sosial komunitas terbagi menjadi bonding capital berupa ikatan horisontal mikro atau primer, bridging capital berupa jembatan lintas kelompok, dan linking capital berupa relasi vertikal ke otoritas.
+    M["Modal Sosial Komunitas"] --> A["Bonding Capital (Ikatan Horisontal Mikro/Primer)"]
+    M --> B["Bridging Capital (Jembatan Lintas Kelompok / Mesos)"]
+    M --> C["Linking Capital (Relasi Vertikal ke Otoritas)"]
 ```
 
 Tiga tipologi modal sosial yang menopang resiliensi mencakup:
@@ -95,20 +97,20 @@ Transformasi kesiapsiagaan mental memerlukan langkah-langkah praktis yang menyat
 
 Sebuah pemukiman pedesaan di kawasan rawan bencana letusan gunung api merancang integrasi mitigasi fisik dan psikososial secara berkelanjutan.
 
-```
-[ Fase Kesiapsiagaan ]
-  ├─ Registrasi digital & manual warga rentan tiap RT
-  ├─ Simulasi evakuasi berkala terintegrasi jam malam
-  └─ Pembagian tugas tim logistik dapur umum & tim trauma healing desa
+Rincian kegiatan desa itu terbagi ke dalam tiga fase, dan tiap fase memuat tugasnya sendiri.
 
-[ Fase Tanggap Darurat ]
-  ├─ Aktivasi pengeras suara terpusat (bebas hoaks)
-  ├─ Evakuasi prioritas kelompok rentan oleh tim pemuda
-  └─ Dapur umum & ruang ramah anak aktif secara mandiri
-
-[ Fase Pemulihan ]
-  ├─ Rekonstruksi partisipatif berbasis gotong-royong
-  └─ Sesi saling bercerita terfasilitasi tokoh adat/agama
+```mermaid
+flowchart LR
+    accTitle: Kegiatan desa lereng vulkanik per fase
+    accDescr: Fase kesiapsiagaan memuat registrasi warga rentan, simulasi evakuasi, dan pembagian tugas tim. Fase tanggap darurat memuat pengeras suara terpusat, evakuasi prioritas kelompok rentan, serta dapur umum dan ruang ramah anak. Fase pemulihan memuat rekonstruksi partisipatif dan sesi saling bercerita.
+    K["Fase Kesiapsiagaan"] --> K1["Registrasi digital & manual warga rentan tiap RT"]
+    K --> K2["Simulasi evakuasi berkala terintegrasi jam malam"]
+    K --> K3["Pembagian tugas tim logistik dapur umum & tim trauma healing desa"]
+    T["Fase Tanggap Darurat"] --> T1["Aktivasi pengeras suara terpusat (bebas hoaks)"]
+    T --> T2["Evakuasi prioritas kelompok rentan oleh tim pemuda"]
+    T --> T3["Dapur umum & ruang ramah anak aktif secara mandiri"]
+    P["Fase Pemulihan"] --> P1["Rekonstruksi partisipatif berbasis gotong-royong"]
+    P --> P2["Sesi saling bercerita terfasilitasi tokoh adat/agama"]
 ```
 
 * **Fase Kesiapsiagaan Pra-Bencana:**

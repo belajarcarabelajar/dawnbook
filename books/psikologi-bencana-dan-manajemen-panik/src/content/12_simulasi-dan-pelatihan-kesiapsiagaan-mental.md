@@ -12,18 +12,16 @@ Sebagai analogi, seseorang yang mempelajari seluruh buku pedoman renang dan meng
 
 Secara neurobiologis, pemrosesan kognitif rasional berpusat di korteks prefrontal (*Prefrontal Cortex*). Namun, saat ancaman fisik ekstrem terdeteksi, amigdala (*amygdala*) mengambil alih komando melalui jalur pintas subkortikal (*low road*) demi respons pertahanan cepat. Aktivasi masif amigdala menekan fungsi korteks prefrontal, memicu penurunan kapasitas memori kerja (*working memory*) dan penyempitan persepsi (*tunnel vision*).
 
-```
-[ Ancaman Ekstrem Terdeteksi ]
-           |
-   +-------+-------+
-   | (Jalur Cepat) | (Jalur Lambat - Tertekan)
-   v               v
-[ Amigdala ]   [ Korteks Prefrontal ]
-   |               |
-   v               v
-Respons Stres   Analisis Rasional Terhambat
-Akut (Lumpuh/   (Memori Deklaratif Gagal)
-Otomatisasi)
+Begitu ancaman terdeteksi, sinyalnya bercabang ke dua jalur dengan nasib yang berlainan.
+
+```mermaid
+flowchart TD
+    accTitle: Jalur cepat dan jalur lambat saat ancaman ekstrem
+    accDescr: Ancaman ekstrem terdeteksi bercabang ke amigdala lewat jalur cepat dan ke korteks prefrontal lewat jalur lambat yang tertekan. Amigdala menghasilkan respons stres akut, sedangkan korteks prefrontal berujung pada analisis rasional yang terhambat.
+    A["Ancaman Ekstrem Terdeteksi"] -->|"Jalur Cepat"| B["Amigdala"]
+    A -->|"Jalur Lambat - Tertekan"| C["Korteks Prefrontal"]
+    B --> D["Respons Stres Akut (Lumpuh / Otomatisasi)"]
+    C --> E["Analisis Rasional Terhambat (Memori Deklaratif Gagal)"]
 ```
 
 > **Wawasan Neuropsikologi:** Simulasi berulang bertindak sebagai jembatan yang memindahkan protokol keselamatan dari memori deklaratif jangka pendek yang rapuh menuju memori prosedural di ganglia basalis (*basal ganglia*) dan serebelum (*cerebellum*). Memori prosedural memiliki ketahanan tinggi terhadap lonjakan stres dan dapat dieksekusi tanpa beban komputasi kognitif yang tinggi.
@@ -34,23 +32,27 @@ Otomatisasi)
 
 Model pelatihan kesiapsiagaan mental modern banyak mengadopsi kerangka *Stress Inoculation Training* (SIT) yang dikembangkan oleh Donald Meichenbaum. Prinsip kerja SIT menyerupai vaksinasi biologis: sistem kekebalan psikologis dibangun dengan memaparkan individu pada dosis stresor terkontrol secara bertahap sehingga tubuh dan pikiran membentuk antibodi psikologis yang adaptif.
 
-```
-+----------------------------------------------------------------+
-| Tiga Fase Utama Stress Inoculation Training (SIT)             |
-+----------------------------------------------------------------+
-| Fase 1: Edukasi Konseptual (Conceptualization Phase)           |
-|         - Memahami respon somatik (takikardia, hiperventilasi) |
-|         - Rekonseptualisasi stres sebagai alarm kesiapan       |
-+----------------------------------------------------------------+
-| Fase 2: Penguasaan Keterampilan (Skills Acquisition)          |
-|         - Teknik pernapasan taktis (Box Breathing / 4x4)       |
-|         - Dialog internal konstruktif (Self-Talk Regulation)   |
-|         - Protokol komunikasi terstruktur (SBAR / Closed-Loop) |
-+----------------------------------------------------------------+
-| Fase 3: Penerapan dan Simulasi (Application & Follow-Through)  |
-|         - Latihan skenario bertingkat (Graded Exposure)        |
-|         - Simulasi realitas tinggi dengan beban kognitif nyata |
-+----------------------------------------------------------------+
+Isi setiap fase SIT, berikut keterampilan yang dilatih di dalamnya, tersusun dalam tiga kotak bertumpuk ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga Fase Utama Stress Inoculation Training (SIT)
+    accDescr: Fase 1 edukasi konseptual memuat pemahaman respon somatik dan pemaknaan ulang stres. Fase 2 penguasaan keterampilan memuat pernapasan taktis, dialog internal konstruktif, dan protokol komunikasi terstruktur. Fase 3 penerapan dan simulasi memuat latihan skenario bertingkat dan simulasi realitas tinggi.
+    subgraph F1["Fase 1: Edukasi Konseptual (Conceptualization Phase)"]
+        A1["Memahami respon somatik (takikardia, hiperventilasi)"]
+        A2["Memaknai ulang stres sebagai alarm kesiapan"]
+    end
+    subgraph F2["Fase 2: Penguasaan Keterampilan (Skills Acquisition)"]
+        B1["Teknik pernapasan taktis (Box Breathing / 4x4)"]
+        B2["Dialog internal konstruktif (Self-Talk Regulation)"]
+        B3["Protokol komunikasi terstruktur (SBAR / Closed-Loop)"]
+    end
+    subgraph F3["Fase 3: Penerapan dan Simulasi (Application & Follow-Through)"]
+        C1["Latihan skenario bertingkat (Graded Exposure)"]
+        C2["Simulasi realitas tinggi dengan beban kognitif nyata"]
+    end
+    F1 ~~~ F2
+    F2 ~~~ F3
 ```
 
 1. **Fase Edukasi Konseptual (*Conceptualization Phase*):** Pemelajar diajak mengenali manifestasi somatik dari respons stres (peningkatan denyut jantung, ketegangan otot, pernapasan dangkal) dan memahami bahwa gejala tersebut adalah respons fisiologis alami tubuh, bukan tanda kelemahan mental.
