@@ -37,6 +37,29 @@ Metode ini diterapkan pada bayi usia 12 hingga 18 bulan. Fokus utamanya bukan me
 7. Orang asing masuk kembali dan mencoba menenangkan bayi.
 8. **Ibu kembali untuk kedua kalinya.**
 
+Agar kamu lebih mudah melacak siapa yang masuk dan keluar ruangan pada tiap episode, urutannya digambarkan berikut ini.
+
+```mermaid
+sequenceDiagram
+    accTitle: Delapan episode prosedur Strange Situation
+    accDescr: Urutan delapan episode yang melibatkan ibu, bayi, dan orang asing. Ibu dan bayi masuk ruangan asing berisi mainan, bayi bereksplorasi, orang asing masuk lalu mendekati bayi, ibu pergi diam-diam, ibu kembali dan orang asing pergi, ibu pergi lagi sehingga bayi sendirian, orang asing masuk kembali untuk menenangkan bayi, lalu ibu kembali untuk kedua kalinya.
+    participant I as Ibu
+    participant B as Bayi
+    participant O as Orang asing
+    Note over I,B: 1. Ibu dan bayi dimasukkan ke ruangan asing berisi mainan
+    Note over I,B: 2. Bayi mengeksplorasi ruangan, ibu duduk
+    O->>I: 3. Masuk dan berbicara dengan ibu
+    O->>B: 3. Mendekati bayi
+    Note over I: 4. Ibu meninggalkan ruangan diam-diam
+    Note over B,O: Bayi ditinggal bersama orang asing
+    I->>B: 5. Ibu kembali
+    Note over O: 5. Orang asing pergi
+    Note over I: 6. Ibu meninggalkan ruangan lagi
+    Note over B: Bayi sendirian
+    O->>B: 7. Masuk kembali, mencoba menenangkan
+    I->>B: 8. Ibu kembali untuk kedua kalinya
+```
+
 Menariknya, indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
