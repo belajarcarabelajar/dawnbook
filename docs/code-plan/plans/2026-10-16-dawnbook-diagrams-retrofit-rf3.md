@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf3
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -209,9 +209,9 @@ tasks:
 ## Session checklist
 
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 0, 2, 7, 4, 0, 0, 3, 16, 5, 8
-- [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g3.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
-- [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
+- [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g3.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: ten subagents dispatched in one message; parent audited every block against its source lines and listed intro sentences per book; commits 52695d8, 3b4e37c, 2d828b9 (after the rebase onto 741ea78); 23 diagrams; skips: metakognisi ch10 cycle (same shape as ch03), multiple-intelligences 1983/1995 timeline (weak), neurobiologi-motivasi-dopamin ch05 RPE decision (table covers it) and ch11 tyrosine chain (display math already draws it); reported, not drawn: neurobiologi ch02:58 says a weaker PFC raises the numerator while ch02:55 has PFC as the denominator
+- [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers and one spec reviewer, each `correct`, no P0-P2; fixed in 8adc36e: literasi-keuangan ch06 levels drawn as ordered categories (ranges in the nodes, no movement claim), mekanisme-koping ch06 intro without the unstated contrast; kept: logika ch06 root-intermediate-direct chain (role names under the Rantai Kausalitas heading), microteaching ch01 four steps without a return edge (the text states none)
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree 8adc36e+3817b45: `bun run build` exit 0; `bun test` 674 pass, 13 skip, 0 fail; `check:diagrams` 0 violations (including the extended split-word rule); 23 inline diagrams equal 23 source blocks; structure output equal to the baseline for all ten books
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -320,7 +320,22 @@ flowchart TD
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Book | Diagrams |
+|---|---|---|
+| B1 | literasi-keuangan | ch03 budget pie, ch06 collectibility levels, ch07 risk steps and strategies |
+| B2 | logika-dan-penalaran-kritis | ch06 causal chain, ch06 vicious circle, ch09 PDCA with the Act branch |
+| B3 | matriks-keputusan-decision-matrix | ch06 weights pie, ch08 calculation loop, ch12 vendor score bars |
+| B4 | mekanisme-koping-dan-manajemen-stres | ch04 4-7-8 cycle, ch06 thought-feeling-behaviour triangle, ch06 ABCDE |
+| B5 | memahami-algoritma-x-untuk-pembaca | ch03 For You pipeline, ch07 SeeFewer line chart |
+| B6 | menemukan-tujuan-hidup-ikigai | ch03 zone map (FU1 definitions) |
+| B7 | metakognisi | ch03 planning-monitoring-evaluation cycle, ch06 mind map (ASCII converted) |
+| B8 | metodologi-microteaching | ch01 timeline, ch01 four steps, ch03 noise decision |
+| B9 | multiple-intelligences | ch07 emotion decision, ch11 five entry points |
+| B10 | neurobiologi-motivasi-dopamin | ch04 downregulation line chart |
+
 ## Status
 
-- Status: Approved (`Plan` gate, 2026-10-16, together with the other retrofit plans)
-- Resume: worktree above; the `Plan` gate decides whether the session runs.
+- Status: Verification (S2-S4 done)
+- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
