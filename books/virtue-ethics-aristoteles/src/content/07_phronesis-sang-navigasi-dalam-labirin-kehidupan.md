@@ -53,6 +53,19 @@ Setelah realitasnya terbaca, kita masuk ke tahap **integrasi keutamaan**. Di sin
 
 Puncaknya adalah **Prohairesis** atau pengambilan keputusan. Tindakan dieksekusi dengan kesadaran penuh atas segala konsekuensinya. Proses ini tidak lantas berhenti setelah tindakan dilakukan. Tahap akhir yang tak kalah penting adalah **evaluasi**, di mana kita belajar dari hasil akhirnya untuk terus mengasah *Phronesis* kita di kemudian hari.
 
+Alur kelima tahap itu, yang kembali lagi ke awal, dapat kamu ikuti pada siklus berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus pengambilan keputusan dengan Phronesis
+    accDescr: Lima tahap yang terus berulang bagai siklus. Persepsi, integrasi keutamaan, analisis konteks, Prohairesis atau pengambilan keputusan, lalu evaluasi yang kembali ke persepsi.
+    A["Persepsi"] --> B["Integrasi keutamaan"]
+    B --> C["Analisis konteks"]
+    C --> D["Prohairesis (pengambilan keputusan)"]
+    D --> E["Evaluasi"]
+    E -->|"berulang bagai siklus"| A
+```
+
 ## 5\. Kebijaksanaan dalam Praktik
 
 Mari lihat bagaimana konsep ini diterapkan di dunia nyata. Bayangkan seorang manajer yang mendapati karyawan terbaiknya mengalami penurunan performa drastis akibat masalah keluarga yang pelik. Di atas kertas, aturan perusahaan mewajibkan turunnya Surat Peringatan (SP) untuk setiap penurunan target.

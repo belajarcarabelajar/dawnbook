@@ -25,6 +25,17 @@ Seseorang yang kikir atau pelit (*stinginess*) tidak mau berbagi meskipun memili
 ### Kesederhanaan Diri (Temperance)
 Orang yang menolak semua bentuk kesenangan fisik secara ekstrem dikatakan tidak peka (*insensibility*), walau ini jarang terjadi. Pada ekstrem lainnya, rakus atau pemuas diri (*self-indulgence*) mengejar kesenangan fisik secara berlebihan tanpa kendali. Menikmati kesenangan seperti makanan atau hiburan secara wajar adalah bentuk bersahaja atau kesederhanaan diri yang ideal.
 
+Ringkasan ketiga spektrum di atas tergambar dalam diagram di bawah ini, dengan kekurangan di kiri dan kelebihan di kanan.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga spektrum jalan tengah
+    accDescr: Tiga spektrum karakter dari kekurangan ke kelebihan. Penakut, keberanian, nekat. Kikir, dermawan, boros. Tidak peka, bersahaja, rakus. Kebajikan berada di tengah setiap spektrum.
+    A1["Penakut (kekurangan)"] --- A2["Keberanian (jalan tengah)"] --- A3["Nekat (kelebihan)"]
+    B1["Kikir (kekurangan)"] --- B2["Dermawan (jalan tengah)"] --- B3["Boros (kelebihan)"]
+    C1["Tidak peka (kekurangan)"] --- C2["Bersahaja (jalan tengah)"] --- C3["Rakus (kelebihan)"]
+```
+
 ## 3\. Jalan Tengah Bersifat Relatif, Bukan Matematis
 
 Satu hal yang paling penting untuk diingat: **Jalan Tengah bukanlah rata-rata matematika yang kaku.**
