@@ -69,7 +69,7 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 1. **Jika A Masuk:** Perusahaan B bisa memilih untuk "Bertarung" (perang harga) atau "Akomodasi".
 2. **Jika A Tetap Keluar:** Perusahaan B tetap menjadi monopoli.
 
-**Dalam Bentuk Ekstensif:** Awalnya ada satu titik (Perusahaan A). Dua cabang keluar: "Masuk" dan "Keluar". Jika "Masuk", muncul titik baru (Perusahaan B) dengan dua cabang: "Bertarung" atau "Akomodasi".
+**Dalam Bentuk Ekstensif:** Awalnya ada satu titik (Perusahaan A). Dua cabang keluar: "Masuk" dan "Tetap Keluar". Jika "Masuk", muncul titik baru (Perusahaan B) dengan dua cabang: "Bertarung" atau "Akomodasi".
 
 **Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
 

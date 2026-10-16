@@ -67,7 +67,7 @@ Salah satu kondisi yang dapat terjadi adalah dysgeusia, yaitu munculnya rasa pah
 | Jenis Komplikasi | Waktu Terjadi | Tingkat Keparahan | Tindakan |
 | --- | --- | --- | --- |
 | **Mual/Muntah** | Hari 0-1 | Ringan - Sedang | Obat anti-mual |
-| **Nyeri Hebat** | Sekitar hari 1-10, puncaknya berbeda menurut usia (lihat bab Manajemen Nyeri dan Pengobatan; Lavy, 1997; Bedfordshire Hospitals NHS Foundation Trust, 2025) | Sedang - Berat | Manajemen obat nyeri rutin |
+| **Nyeri Hebat** | Sekitar hari 1-10, puncaknya berbeda menurut usia (lihat bab Manajemen Nyeri dan Pengobatan; Lavy, 1997; Mitchell dkk., 2019; Bedfordshire Hospitals NHS Foundation Trust, 2025) | Sedang - Berat | Manajemen obat nyeri rutin |
 | **Pendarahan** | Hari 5-10 | Potensial Darurat | Kompres es, segera ke IGD jika masif |
 | **Dehidrasi** | Kapan saja | Sedang | Minum sedikit-sedikit tapi sering |
 
