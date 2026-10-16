@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf4
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -245,10 +245,10 @@ tasks:
 ## Session checklist
 
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 5, 6, 5, 7, 3, 0, 7, 4, 0
-- [ ] S0 Carry-over from RF3: commit the RF3 merge evidence, tick RF3 S5 and S6, and reopen the RF3 `Close plan` question
-- [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g4.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
-- [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
+- [x] S0 Carry-over from RF3: commit the RF3 merge evidence, tick RF3 S5 and S6, and reopen the RF3 `Close plan` question. Evidence: commit 49cf822 adds the RF3 merge evidence and ticks RF3 S5 and S6; the RF3 Close plan question is reopened together with this PR's gates
+- [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g4.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: thirteen subagents (ten book tasks, Y1, Y2, Y3 in an isolated /tmp worktree) dispatched in one message; parent audited every block and LaTeX edit; commits 6447cdc, f817718, 8c637b5, 7b2b869 (books), 42e0f19 (Y1), df22003 (Y2, plus a parent <div> wrapper on dopamin ch02), b340af2 (Y3 guard test); 33 diagrams; skips: piaget ch12 and pembelajaran-multidisiplin ch02 (repeat their tables), neuroplastisitas ch12 fallback (three others used); Y3 found the detector already correct (the cited lines are inline lead-ins), so only a guard test was added
+- [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: three standards reviewers (books A, books B plus LaTeX, psikologi-bencana) and one spec reviewer, each `correct`; fixed in 852e174: neuroplastisitas ch09 branches keep only stated links, peluruhan-beta ch11 carbon-14 ends as nitrogen instead of returning to the atmosphere, "sekitar" on the ch09 bar axis, pembelajaran-multidisiplin ch08 diagram moved after the steps it summarizes; kept: neuroplastisitas ch04/ch05 (different chain styles), the Y3 next-line test (matches the detector's line-based semantics)
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree 852e174: `bun run build` exit 0; `bun test` 675 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; 33 inline diagrams equal 33 source blocks, 0 raw mermaid fences; structure output equal to the baselines (RF4 books against RF4, Y books against RF2 and RF3)
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -383,7 +383,24 @@ Acceptance: `check-heading-colons.ts` reports a bold sub-title with a colon insi
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Book | Diagrams |
+|---|---|---|
+| B1 | neurobiologi-sistem-vestibular | ch05 transduction steps, ch08 VOR pathway, ch10 cortical projection |
+| B2 | neuroplastisitas-dalam-belajar | ch04 Hebbian chain, ch05 neurogenesis stages, ch09 two mindset responses |
+| B3 | pejorasi-dan-ameliorasi | ch02 amelioration phases, ch09 word plus context, ch10 "canggih" timeline |
+| B4 | peluruhan-beta | ch02 decay decision, ch10 half-life line chart, ch11 carbon-14 path |
+| B5 | pembelajaran-multidisiplin | ch01 era timeline, ch08 four design steps |
+| B6 | pengaruh-uang-terhadap-kebahagiaan | ch04 three studies timeline, ch05 Easterlin mechanisms |
+| B7 | piaget | ch04 equilibration |
+| B8-B9 | psikologi-bencana-dan-manajemen-panik | 14 diagrams; eleven ASCII-art fences converted, plus the 10-80-10 pie, the OODA loop and the phase timeline |
+| B10 | psikologi-di-balik-keputusan-finansial-kita | ch09 and ch11 bar charts (one study each) |
+| Y1 | geopolitik, fungsi-manajemen-poac, kenapa-kita-gampang-percaya-hoax | LaTeX escaping and display wrappers |
+| Y2 | kecerdasan-interpersonal, logika-dan-penalaran-kritis, neurobiologi-motivasi-dopamin | LaTeX escaping; dopamin ch02 sentence agrees with its formula |
+| Y3 | tests/scripts/check-heading-colons.test.ts | guard test; inline-lead-in form "**Label: X** text" (about 48 lines) left for an owner decision under section 24 |
+
 ## Status
 
-- Status: Approved (`Plan` gate, 2026-10-16, together with the other retrofit plans)
-- Resume: worktree above; the `Plan` gate decides whether the session runs.
+- Status: Verification (S0, S2-S4 done)
+- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
