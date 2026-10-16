@@ -92,6 +92,18 @@ $$
 
 Setelah siklus ini terjadi, kamu merasa hampa dan sedih karena baseline baru yang berada di bawah level normal.
 
+Grafik di bawah ini menaruh ketiga angka tadi pada satu garis, sehingga kamu bisa melihat seberapa jauh baseline jatuh setelah lonjakan.
+
+```mermaid
+xychart
+    accTitle: Kadar dopamin sebelum dan sesudah lonjakan fasik
+    accDescr: Kadar dopamin berawal dari baseline normal 100 persen, naik ke 250 persen saat lonjakan fasik, lalu turun ke 70 persen pada baseline post-crash setelah kompensasi homeostasis.
+    title "Proses Downregulation"
+    x-axis ["Baseline normal", "Lonjakan fasik", "Baseline post-crash"]
+    y-axis "Kadar dopamin (%)" 0 --> 260
+    line [100, 250, 70]
+```
+
 ---
 
 ### Mengelola Energi dan Mood

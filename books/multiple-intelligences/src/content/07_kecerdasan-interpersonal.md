@@ -61,6 +61,19 @@ def respon_sosial(status_emosi_lawan, intensitas_argumen):
 print(respon_sosial("Marah", 9))
 ```
 
+Tanpa sintaks Python, percabangan yang sama tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Percabangan respons sosial dalam konflik
+    accDescr: Status emosi lawan bicara menentukan respons. Jika marah dan intensitas argumen di atas 8, dengarkan secara aktif; jika marah dengan intensitas lebih rendah, validasi perasaan lalu ajak bicara pelan; jika sedih, tunjukkan empati; selain itu, lanjutkan komunikasi terbuka.
+    A{"Status emosi lawan bicara?"} -->|"Marah"| B{"Intensitas argumen di atas 8?"}
+    B -->|"ya"| C["Dengarkan secara aktif, jangan membantah sekarang"]
+    B -->|"tidak"| D["Validasi perasaan mereka, lalu ajak bicara pelan"]
+    A -->|"Sedih"| E["Tunjukkan empati dan tawarkan dukungan tanpa menghakimi"]
+    A -->|"Lainnya"| F["Lanjutkan komunikasi terbuka"]
+```
+
 Dalam realitasnya, "kode" semacam ini dieksekusi oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
 
 ## Melatih Otot Interpersonal

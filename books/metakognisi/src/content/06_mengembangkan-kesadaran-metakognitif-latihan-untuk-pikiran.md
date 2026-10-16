@@ -104,35 +104,56 @@ Mind map itu sifatnya visual dan sangat ngebantu kalau kamu mau menata informasi
 
 **Contoh Visualisasi:**
 
-```
-[TUJUAN UTAMA: Menguasai Topik "Metakognisi"]
-    ├── Pengetahuan Awal
-    │   ├── Sudah tahu: Definisi, Komponen (DK, PK, CK)
-    │   └── Perlu diingat: Siklus PME, Manfaat
-    │
-    ├── Strategi Belajar
-    │   ├── Membaca: Buku teks X, Artikel Y
-    │   │   └── Teknik: Catat poin penting, Ajukan pertanyaan diri
-    │   ├── Mendengar: Podcast Z, Diskusi kelompok
-    │   │   └── Teknik: Catat pertanyaan, Simpulkan
-    │   ├── Membuat: Mind map perencanaan, Jurnal refleksi
-    │   │   └── Teknik: Gunakan warna, Kata kunci
-    │   └── Latihan: Soal esai, Diskusi kasus
-    │
-    ├── Sumber Daya
-    │   ├── Buku: "Belajar Bagaimana Belajar"
-    │   ├── Online: Coursera, YouTube
-    │   └── Orang: Dosen, Teman belajar
-    │
-    ├── Potensi Hambatan
-    │   ├── Konsep sulit: "Regulasi Metakognitif"
-    │   │   └── Solusi: Cari contoh nyata, Tanyakan pada mentor
-    │   ├── Prokrastinasi
-    │   │   └── Solusi: Teknik Pomodoro, Target kecil
-    │
-    └── Evaluasi
-        ├── Mandiri: Ulangi konsep, Buat soal
-        └── Eksternal: Diskusi dengan teman, Kuis online
+Dengan topik “Metakognisi” sebagai pusatnya, cabang-cabang mind map itu bisa disusun begini.
+
+```mermaid
+flowchart TD
+    accTitle: Contoh mind map perencanaan belajar metakognisi
+    accDescr: Tujuan utama menguasai topik Metakognisi bercabang ke lima bagian. Pengetahuan awal berisi yang sudah diketahui dan yang perlu diingat. Strategi belajar berisi membaca, mendengar, membuat, dan latihan, masing-masing dengan tekniknya. Sumber daya berisi buku, sumber online, dan orang. Potensi hambatan berisi konsep sulit dan prokrastinasi beserta solusinya. Evaluasi berisi cara mandiri dan eksternal.
+    R["TUJUAN UTAMA: Menguasai Topik “Metakognisi”"]
+    R --> PA
+    R --> SB
+    R --> SD
+    R --> PH
+    R --> EV
+    subgraph PA["Pengetahuan Awal"]
+        direction TB
+        PA1["Sudah tahu: Definisi, Komponen (DK, PK, CK)"]
+        PA2["Perlu diingat: Siklus PME, Manfaat"]
+        PA1 ~~~ PA2
+    end
+    subgraph SB["Strategi Belajar"]
+        direction TB
+        SB1["Membaca: Buku teks X, Artikel Y"] --> SB1T["Teknik: Catat poin penting, Ajukan pertanyaan diri"]
+        SB2["Mendengar: Podcast Z, Diskusi kelompok"] --> SB2T["Teknik: Catat pertanyaan, Simpulkan"]
+        SB3["Membuat: Mind map perencanaan, Jurnal refleksi"] --> SB3T["Teknik: Gunakan warna, Kata kunci"]
+        SB4["Latihan: Soal esai, Diskusi kasus"]
+        SB1T ~~~ SB2
+        SB2T ~~~ SB3
+        SB3T ~~~ SB4
+    end
+    subgraph SD["Sumber Daya"]
+        direction TB
+        SD1["Buku: “Belajar Bagaimana Belajar”"]
+        SD2["Online: Coursera, YouTube"]
+        SD3["Orang: Dosen, Teman belajar"]
+        SD1 ~~~ SD2
+        SD2 ~~~ SD3
+    end
+    subgraph PH["Potensi Hambatan"]
+        direction TB
+        PH1["Konsep sulit: “Regulasi Metakognitif”"] --> PH1S["Solusi: Cari contoh nyata, Tanyakan pada mentor"]
+        PH2["Prokrastinasi"] --> PH2S["Solusi: Teknik Pomodoro, Target kecil"]
+        PH1S ~~~ PH2
+    end
+    subgraph EV["Evaluasi"]
+        direction TB
+        EV1["Mandiri: Ulangi konsep, Buat soal"]
+        EV2["Eksternal: Diskusi dengan teman, Kuis online"]
+        EV1 ~~~ EV2
+    end
+    PA ~~~ PH
+    SD ~~~ EV
 ```
 
 ## 4\. Diskusi Kelompok Reflektif

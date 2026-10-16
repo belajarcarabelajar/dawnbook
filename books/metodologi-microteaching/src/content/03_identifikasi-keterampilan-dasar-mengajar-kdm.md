@@ -94,6 +94,19 @@ else:
     lanjutkan_pembelajaran()
 ```
 
+Bagi kamu yang tidak terbiasa membaca kode, logika yang sama dapat diikuti lewat alur keputusan di bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Logika pengelolaan kelas saat siswa gaduh
+    accDescr: Jika siswa mulai gaduh, guru melakukan kontak mata dan berhenti berbicara sejenak, lalu menegur halus dengan nama siswa bila gaduh berlanjut. Jika siswa tidak gaduh, pembelajaran dilanjutkan.
+    Q1{"Siswa mulai gaduh?"} -->|"ya"| A["Lakukan kontak mata"]
+    A --> B["Berhenti berbicara sejenak"]
+    B --> Q2{"Gaduh berlanjut?"}
+    Q2 -->|"ya"| C["Tegur halus dengan nama siswa"]
+    Q1 -->|"tidak"| D["Lanjutkan pembelajaran"]
+```
+
 ## 8. Keterampilan Menutup Pelajaran
 
 Menutup pelajaran bukan sekadar mengakhiri waktu, tetapi memberikan gambaran menyeluruh tentang apa yang telah dipelajari.
