@@ -6,7 +6,7 @@
 | Plan | `docs/code-plan/plans/2026-10-16-dawnbook-diagrams-retrofit-rf1.md` |
 | Base branch | `main` |
 | Head branch | `2026-10-16-dawnbook-diagrams-retrofit-rf1/dawnbook-diagrams-retrofit-1` |
-| Type of change | book content (ten books), cached SVGs, `db/seed.sql`, docs |
+| Type of change | book content (ten books), cached SVGs, `db/seed.sql`, one gate rule with tests, docs |
 | Reviewer | three independent `staid` reviewers (standards x2, spec x1), each verdict `correct` |
 
 ## 2. What This Changes
@@ -30,6 +30,12 @@ During the diff audit the parent found that `flowchart.wrappingWidth: 110` in th
 
 `db/seed.sql` is regenerated, and the D1 seed already ran from this tree (exit 0, 58 books), so D1 `content_md` holds the diagrams before the site does.
 
+Follow-ups selected in the session's debt sweep, also in this PR:
+
+- **F1, gate rule `split-word`** (`e8c840a`): `scripts/check-diagrams.ts` compares the rows of each cached flowchart label with the source label words and fails when two rows join into one source word. Written test first (RED 4 fail, GREEN 77 pass). Run on an archive of the pre-fix tree `b013535`, it reports exactly the seven diagrams and eight words found by hand, and not a normal break at a space.
+- **F2, section 25 contract** (`05f817e`): the dispatch paragraph now asks to keep the text's hedges and examples, to vary the intro sentence within a book, and to reword what `split-word` reports; the Width bullet names the rule.
+- **F3, reported content defects** (`1f2972e`): arsitektur-kernel-linux chapter 12 display math (quadruple backslashes) and the typo "tumpang dian dalam"; bias-kognitif chapter 07 math escaping (`\text{Biaya Masa Depan}`); digital-minimalisme chapter 02 "or" to "atau"; two punctuation slips in the same files.
+
 **Non-goals:** inventory groups g2 to g6 (RF2 to RF6), changing the render config, and the pre-existing problems listed in section 7.
 
 ## 3. Acceptance Criteria
@@ -44,7 +50,7 @@ During the diff audit the parent found that `flowchart.wrappingWidth: 110` in th
 
 ## 4. Local Verification Evidence
 
-On the final content tree `e145754`:
+After the follow-ups (tree `e8c840a`): `bun run build` exit 0; `bun test` 665 pass, 13 skip, 0 fail; `check:diagrams` and `check:headings` 0 violations; the D1 seed rerun exit 0 and `cf d1 query` finds the F3 fixes in D1; the plan runner reports every task `PASSED` (F1 `SKIPPED-IDEMPOTENT` on its own passing test). The table below is the run on the content tree `e145754` before the follow-ups:
 
 | Gate | Command | Exit | Result |
 |---|---|---|---|
@@ -72,7 +78,7 @@ On the final content tree `e145754`:
 
 | Concern | Answer |
 |---|---|
-| Blast radius | 26 chapter files in ten books, 27 new SVGs, `db/seed.sql`; no code or config. |
+| Blast radius | 26 chapter files in ten books, 27 new SVGs, `db/seed.sql`; `scripts/check-diagrams.ts` (new `split-word` rule, also run by `bun run build`) and its tests; GEMINI.md section 25. No render config change. |
 | Door | Two-way: a revert removes the blocks and SVGs. |
 | Rollout | Merge deploys through CI; CI never renders, it inlines the committed SVGs. D1 is already seeded from this tree. |
 | Health signal | Built chapter pages carry `class="dawnbook-diagram"`; gated pages answer 401 to anonymous clients, so the content is verified in the build output of the identical tree. |
@@ -81,8 +87,7 @@ On the final content tree `e145754`:
 
 ## 7. Pre-Existing Issues and Deferred Debt
 
-- The gate does not detect a mid-word split caused by the 110 px label wrap. `defer: a split-word rule in check-diagrams.ts, offered in this session's debt sweep`
-- arsitektur-kernel-linux chapter 12: display math written with quadruple backslashes and the typo "tumpang dian dalam"; bias-kognitif chapter 07: `$\\text{Biaya\\_Masa\\_Depan}$` with doubled backslashes; digital-minimalisme chapter 02: "*like* or menulis". `defer: a manual LaTeX and typo pass per GEMINI.md section 9, offered in the debt sweep`
+- `split-word` reads only flowchart-style label rows (not sequence, timeline, pie or xychart text) and skips a cut piece that ends in punctuation; its message hardcodes 110 px. `defer: see the plan backlog`
 - analisis-wacana-kritis chapters 05 and 07 write arrow chains as display math; they could become diagrams. `defer: a later retrofit`
 - Existing opener and structure problems of the ten books (the committed baselines). `defer: a content-hygiene session per GEMINI.md sections 8 and 21`
 
@@ -95,5 +100,5 @@ On the final content tree `e145754`:
 - [x] No attribution footer, watermark, badge, or co-author line.
 - [x] No secrets in the diff.
 - [x] PR body written to a file and posted with `--body-file`.
-- [ ] Registered in the registry after the PR opens.
-- [ ] Plan closeout decided before the merge.
+- [x] Registered in the registry after the PR opens.
+- [x] Plan closeout decided before the merge (`Close plan`: Mark Complete on readiness `NEEDS-HUMAN`, 0 open NOW items, 0 open step boxes).

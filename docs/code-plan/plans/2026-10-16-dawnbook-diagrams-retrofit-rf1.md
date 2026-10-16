@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf1
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -263,58 +263,58 @@ flowchart TD
 
 ### Task B1: aerodinamika-dan-desain-airfoil
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book aerodinamika-dan-desain-airfoil` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book aerodinamika-dan-desain-airfoil --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book aerodinamika-dan-desain-airfoil` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book aerodinamika-dan-desain-airfoil --check` | expect: exit 0 | retry: 0
 
 ### Task B2: analisis-ekspresif-9-summers-10-autumns
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book analisis-ekspresif-9-summers-10-autumns` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book analisis-ekspresif-9-summers-10-autumns --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book analisis-ekspresif-9-summers-10-autumns` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book analisis-ekspresif-9-summers-10-autumns --check` | expect: exit 0 | retry: 0
 
 ### Task B3: analisis-wacana-kritis-awk-dalam-kriminologi
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book analisis-wacana-kritis-awk-dalam-kriminologi` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book analisis-wacana-kritis-awk-dalam-kriminologi --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book analisis-wacana-kritis-awk-dalam-kriminologi` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book analisis-wacana-kritis-awk-dalam-kriminologi --check` | expect: exit 0 | retry: 0
 
 ### Task B4: arsitektur-kernel-linux
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book arsitektur-kernel-linux` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book arsitektur-kernel-linux --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book arsitektur-kernel-linux` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book arsitektur-kernel-linux --check` | expect: exit 0 | retry: 0
 
 ### Task B5: bias-kognitif
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book bias-kognitif` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book bias-kognitif --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book bias-kognitif` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book bias-kognitif --check` | expect: exit 0 | retry: 0
 
 ### Task B6: digital-minimalisme
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book digital-minimalisme` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book digital-minimalisme --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book digital-minimalisme` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book digital-minimalisme --check` | expect: exit 0 | retry: 0
 
 ### Task B7: ekonomi-laissez-faire
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book ekonomi-laissez-faire` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book ekonomi-laissez-faire --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book ekonomi-laissez-faire` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book ekonomi-laissez-faire --check` | expect: exit 0 | retry: 0
 
 ### Task B8: eksistensialisme-dan-kehendak-bebas
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book eksistensialisme-dan-kehendak-bebas` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book eksistensialisme-dan-kehendak-bebas --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book eksistensialisme-dan-kehendak-bebas` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book eksistensialisme-dan-kehendak-bebas --check` | expect: exit 0 | retry: 0
 
 ### Task B9: eksistensialisme-dan-makna-hidup
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book eksistensialisme-dan-makna-hidup` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book eksistensialisme-dan-makna-hidup --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book eksistensialisme-dan-makna-hidup` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book eksistensialisme-dan-makna-hidup --check` | expect: exit 0 | retry: 0
 
 ### Task B10: elastisitas-harga-permintaan-dan-penawaran
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book elastisitas-harga-permintaan-dan-penawaran` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book elastisitas-harga-permintaan-dan-penawaran --check` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book elastisitas-harga-permintaan-dan-penawaran` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book elastisitas-harga-permintaan-dan-penawaran --check` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Follow-up tasks (debt sweep, owner selected all three on 2026-10-16)
 
@@ -322,16 +322,16 @@ Acceptance: F1 a cached SVG whose label row splits a source word fails `check:di
 
 ### Task F1: split-word gate rule
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
 
 ### Task F2: section 25 contract wording
 
-- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task F3: three reported defects
 
-- [ ] Step 1: Run | cmd: structure diff for the three books against the committed baseline | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure diff for the three books against the committed baseline | expect: exit 0 | retry: 0
 
 ### Follow-up evidence
 
@@ -365,7 +365,14 @@ Acceptance: F1 a cached SVG whose label row splits a source word fails `check:di
 
 Parent finding during the diff audit: `scripts/diagrams/render-config.json` sets `flowchart.wrappingWidth` to 110, and Mermaid breaks a word wider than that into character chunks on separate lines. A scratch scan of every cached SVG against the source labels found eight such splits in seven diagrams ("menyeimbangk/an", "menguntungka/n,", "/media/usb/dat/a.txt", "pengetahuann/ya", "menggunakan/nya?", a lone "?", a lone ",", "Pemberontaka/n"); the pilots `nudge-theory` and `iklan-digital-dan-penargetan-algoritma` had none. Commit `cc5ec8b` rewords nine labels for those eight splits (the ninth, "Adverse pressure gradient", keeps the aerodinamika ch09 pair parallel; meaning kept, accDescr unchanged) and prunes the stale SVGs; the rescan finds 0 splits. The commit subject says "eight labels"; nine is the correct count. The gate now detects this (`split-word`, task F1).
 
+## Closeout record
+
+- Runner: `bun ~/vivera/scripts/ultra-plan-runner.mjs <plan> --execute > runner.log` exit 0 on tree `eb52574`: B1-B10, V1, F2, F3 `PASSED`; F1 `SKIPPED-IDEMPOTENT` (its `split-word` test passes). `plan-mark-done.mjs --from runner.log`: 14 considered, 14 ticked, 0 not ticked.
+- Readiness: `bun ~/vivera/scripts/plan-closeout.mjs --readiness <plan>` on 2026-10-16, verdict `NEEDS-HUMAN` (exit 3): open NOW follow-ups 0, open step boxes 0; B1-B10, V1, F2 and F3 `UNPROVEN` (the `"false"` sentinel), F1 `DONE`; other open boxes 2 (S5 and S6, which close with the merge evidence).
+- `Close plan` gate: the owner chose "Mark Complete" on that evidence (2026-10-16).
+- S5 and S6 close after the merge: the `Merge` gate answer, the post-merge deploy check, `plan-issue-sync.mjs`, the mirror publish, registry `merged` and the graphify sync go into `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf1-merge-evidence.md`, committed by the next session, as in the earlier diagram sessions.
+
 ## Status
 
-- Status: Verification (S2, S3, S4 and follow-ups F1-F3 done; PR #153 open)
-- Resume: worktree above; next is the runner log, readiness and the `Close plan` gate, then the `Merge` gate.
+- Status: Complete (`Close plan` gate, 2026-10-16)
+- Resume: PR #153 waits for the `Merge` gate; after the merge only the steps in the Closeout record remain.
