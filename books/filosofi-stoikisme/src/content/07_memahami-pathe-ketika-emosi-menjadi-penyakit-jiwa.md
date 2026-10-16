@@ -25,9 +25,9 @@ Urutan tiga komponen tadi tampak seperti ini, dengan persetujuan sebagai letak k
 ```mermaid
 flowchart LR
     accTitle: Anatomi emosi menurut Stoik
-    accDescr: Kesan sebagai data mentah dari panca indra menuju persetujuan, tempat letak kendali kita, dan jika kita menyetujui bahwa kejadian itu buruk, muncullah emosi atau pathe.
+    accDescr: Kesan sebagai data mentah dari panca indra menuju persetujuan, tempat letak kendali kita, dan jika kita menyetujui bahwa kejadian itu buruk dan kita harus bereaksi, muncullah emosi atau pathe.
     A["Kesan (Impression), data mentah dari panca indra"] --> B["Persetujuan (Assent), letak kendali kita"]
-    B -->|"jika disetujui bahwa kejadian itu buruk"| C["Emosi (Pathe)"]
+    B -->|"jika disetujui bahwa kejadian itu buruk dan harus bereaksi"| C["Emosi (Pathe)"]
 ```
 
 *Jika kamu melihat seseorang berteriak pada kamu dalam bahasa yang tidak kamu mengerti, apakah kamu akan merasa terhina? Mungkin tidak, karena kamu tidak memberikan "persetujuan" pada makna kata-katanya. Ini membuktikan bahwa emosi bergantung pada penilaian kamu, bukan pada kejadiannya.*
