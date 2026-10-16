@@ -38,6 +38,17 @@ Sebagai ilustrasi, bayangkan sebuah mesin pabrik mendadak mogok.
 * **Penyebab perantara (*intermediate cause*):** Terjadi beban arus listrik yang berlebih.
 * **Root cause (akar masalah):** Jadwal pemeliharaan mesin berkala yang diabaikan selama satu tahun penuh.
 
+Urutan dari akar masalah sampai mesin berhenti bekerja tersusun seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Rantai kausal mesin pabrik yang mogok
+    accDescr: Jadwal pemeliharaan berkala yang diabaikan selama satu tahun menjadi akar masalah, disusul beban arus listrik berlebih sebagai penyebab perantara, lalu sekring putus sebagai penyebab langsung, hingga mesin pabrik mogok.
+    R["Root cause: jadwal pemeliharaan berkala diabaikan selama satu tahun"] --> I["Penyebab perantara: beban arus listrik berlebih"]
+    I --> L["Penyebab langsung: sekring mesin putus"]
+    L --> M["Mesin pabrik mogok"]
+```
+
 Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, masalah serupa akan terus berulang karena akar masalahnya tidak pernah diselesaikan.
 
 ### B. Feedback Loop (Lingkar Umpan Balik)
@@ -47,6 +58,18 @@ Ada kalanya hubungan bersifat melingkar: $A$ memicu $B$, lalu $B$ berbalik mempe
 $\\text{Kurangnya Investasi} \\rightarrow \\text{Kemiskinan} \\rightarrow \\text{Kurangnya Pendidikan} \\rightarrow \\text{Rendahnya Produktivitas}$
 
 Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berputar jika tidak ada intervensi luar.
+
+Kalau digambar, lingkaran setan itu kembali ke titik awalnya.
+
+```mermaid
+flowchart LR
+    accTitle: Lingkaran setan dalam ekonomi makro
+    accDescr: Kurangnya investasi memicu kemiskinan, kemiskinan memicu kurangnya pendidikan, lalu rendahnya produktivitas, dan siklus kembali ke kurangnya investasi selama tidak ada intervensi luar.
+    A["Kurangnya Investasi"] --> B["Kemiskinan"]
+    B --> C["Kurangnya Pendidikan"]
+    C --> D["Rendahnya Produktivitas"]
+    D -->|"terus berputar tanpa intervensi luar"| A
+```
 
 ## 4. Jebakan dalam Analisis Kausalitas
 

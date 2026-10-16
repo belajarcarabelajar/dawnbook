@@ -45,6 +45,18 @@ $$
 
 Mulai hari ke-140, entri itu tidak lagi dihitung, sehingga pengalinya menjadi 1 dan tidak ada potongan sama sekali.
 
+Garis lurus itu tampak jelas begitu kelima titik dari tabel digambar dalam satu grafik.
+
+```mermaid
+xychart
+    accTitle: Pengali SeeFewer menurut usia entri
+    accDescr: Grafik garis pengali satu faktor SeeFewer di implementasi lama, naik lurus dari 0,2 pada hari 0 ke 0,4 pada hari 35, 0,6 pada hari 70, 0,8 pada hari 105, dan 1,0 pada hari 140 saat entri keluar dari jendela hitungan.
+    title "Pengali SeeFewer menurut usia entri"
+    x-axis "Usia entri SeeFewer" ["Hari 0", "Hari 35", "Hari 70", "Hari 105", "Hari 140"]
+    y-axis "Pengali satu faktor" 0 --> 1
+    line [0.2, 0.4, 0.6, 0.8, 1.0]
+```
+
 Ada syarat yang menyertainya. Jenis umpan baliknya harus SeeFewer, dan entrinya harus cocok dengan kandidat post. Kode juga memisahkan faktor untuk penulis asli, liker, follower, dan akun yang me-repost. Faktor-faktor itu saling dikalikan, tetapi masing-masing hanya berlaku bila syaratnya sendiri terpenuhi: faktor liker hanya jika semua liker yang ditampilkan terkena potongan, faktor follower hanya jika semua follower yang ditampilkan terkena potongan dan tidak ada liker, dan faktor reposter hanya untuk repost.
 
 Angka 0,2 juga mudah disalahpahami. Pada skor dasar yang positif, $m(t)$ sebesar 0,2 mempertahankan 20% skor dari faktor tersebut. Itu bukan peluang 20% bagi post untuk muncul.

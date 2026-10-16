@@ -81,6 +81,19 @@ Solusi hanyalah sebuah teori sampai ia dieksekusi. Gunakan siklus **PDCA (Plan-D
 3. **Check**: Evaluasi hasilnya. Apakah sesuai dengan metrik keberhasilan yang ditetapkan di awal?
 4. **Act**: Jika berhasil, standarisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
 
+Perhatikan bahwa langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus PDCA untuk implementasi solusi
+    accDescr: Plan merencanakan langkah implementasi, Do menjalankan rencana dalam skala kecil, Check mengevaluasi hasil terhadap metrik keberhasilan, lalu Act menstandarisasi solusi jika berhasil atau kembali ke Plan jika gagal.
+    P["Plan: rencanakan langkah implementasi"] --> D["Do: jalankan rencana dalam skala kecil (pilot project)"]
+    D --> C["Check: evaluasi hasil terhadap metrik keberhasilan"]
+    C --> A{"Act: berhasil?"}
+    A -->|"berhasil"| S["Standarisasi solusi"]
+    A -->|"gagal"| P
+```
+
 ### Situs Perusahaan yang Melambat
 
 Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perusahaan mengalami perlambatan (latensi tinggi).

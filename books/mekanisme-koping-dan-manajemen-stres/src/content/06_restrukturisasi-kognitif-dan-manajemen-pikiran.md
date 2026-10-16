@@ -25,6 +25,17 @@ Berikut adalah beberapa "perangkap pikiran" yang paling umum:
 
 Hubungan antara pikiran, perasaan, dan perilaku dapat digambarkan sebagai sebuah siklus. Restrukturisasi kognitif bekerja pada komponen **Pikiran** untuk memutus rantai emosi negatif.
 
+Ketiga komponen itu saling terhubung dalam satu lingkaran:
+
+```mermaid
+flowchart LR
+    accTitle: Siklus pikiran, perasaan, dan perilaku
+    accDescr: Pikiran, perasaan, dan perilaku saling terhubung dalam sebuah siklus. Restrukturisasi kognitif bekerja pada komponen pikiran.
+    P["Pikiran (titik kerja restrukturisasi kognitif)"] --- F["Perasaan"]
+    F --- B["Perilaku"]
+    B --- P
+```
+
 Jika kita melihatnya secara matematis, beban emosional kita ($E$) merupakan hasil dari persepsi kita terhadap beban ($P$) dibagi dengan sumber daya yang kita yakini kita miliki ($S$):
 
 $$
@@ -66,6 +77,20 @@ Di sinilah proses evaluasi diri dimulai. Tantang pikiran kamu dengan pertanyaan 
 
 Ganti pikiran lama dengan perspektif yang lebih seimbang.  
 *Contoh:* "Revisi adalah bagian normal dari pekerjaan. Atasan meminta revisi agar hasilnya maksimal, bukan karena saya tidak kompeten."
+
+Perhatikan bahwa langkah D dan E kembali menyasar keyakinan di langkah B, bukan konsekuensinya:
+
+```mermaid
+flowchart TD
+    accTitle: Lima langkah model ABCDE
+    accDescr: Langkah A kejadian pemicu, B keyakinan atau pikiran otomatis, C konsekuensi akibat pikiran tersebut, D penyanggahan yang menantang pikiran di langkah B, dan E keyakinan baru yang efektif untuk mengganti pikiran lama.
+    A["A, Kejadian Pemicu (fakta objektif)"] --> B["B, Keyakinan atau Pikiran Otomatis"]
+    B -->|"akibat pikiran tersebut"| C["C, Konsekuensi (yang dirasakan dan dilakukan)"]
+    C --> D["D, Penyanggahan"]
+    D --> E["E, Keyakinan Baru yang Efektif"]
+    D -.->|"menantang pikiran"| B
+    E -.->|"mengganti pikiran lama"| B
+```
 
 ---
 

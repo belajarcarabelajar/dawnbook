@@ -38,6 +38,20 @@ Proses ini melibatkan beberapa langkah utama:
    - **Terima risiko:** Tanggung sendiri kerugiannya karena dampaknya kecil. Contohnya risiko kehilangan ponsel yang tidak diasuransikan.
    - **Alihkan risiko:** Pindahkan beban finansial kepada pihak lain. Biasanya lewat asuransi. Misalnya membeli asuransi kesehatan agar biaya rumah sakit ditanggung pihak asuransi.
 
+Kalau disusun sebagai satu alur, tiga tahapan dan empat strategi tadi tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan mengelola risiko keuangan
+    accDescr: Kenali risiko, lalu evaluasi seberapa sering risiko terjadi dan seberapa besar dampaknya, lalu kendalikan risiko dengan salah satu dari empat strategi, yaitu hindari, kurangi, terima, atau alihkan risiko, biasanya lewat asuransi.
+    A["1. Kenali risiko"] --> B["2. Evaluasi risiko (seberapa sering, seberapa besar dampaknya)"]
+    B --> C["3. Kendalikan risiko"]
+    C --> D["Hindari risiko"]
+    C --> E["Kurangi risiko"]
+    C --> F["Terima risiko"]
+    C --> G["Alihkan risiko (biasanya lewat asuransi)"]
+```
+
 > **Catatan:** Asuransi merupakan alat pemindahan risiko yang paling efektif dalam perencanaan keuangan pribadi.
 
 ## Peran Asuransi Sebagai Alat Perlindungan

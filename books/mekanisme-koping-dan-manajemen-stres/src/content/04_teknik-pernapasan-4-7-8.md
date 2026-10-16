@@ -40,6 +40,20 @@ Tempatkan ujung lidahmu tepat di belakang gigi depan atas, pada jaringan gusi ya
 
 Empat tahap di atas dihitung sebagai **satu siklus**. Ulangi hingga total **empat siklus** pada awal latihan.
 
+Urutan satu siklus beserta pengulangannya terangkum seperti ini:
+
+```mermaid
+flowchart TD
+    accTitle: Siklus pernapasan 4-7-8
+    accDescr: Keluarkan napas sepenuhnya lewat mulut, tarik napas lewat hidung selama hitungan 4, tahan selama hitungan 7, buang napas lewat mulut selama hitungan 8, lalu ulangi sampai total empat siklus pada awal latihan.
+    S1["1. Keluarkan napas sepenuhnya lewat mulut (whoosh)"] --> S2["2. Tarik napas lewat hidung, hitungan 4"]
+    S2 --> S3["3. Tahan napas, hitungan 7"]
+    S3 --> S4["4. Buang napas lewat mulut, hitungan 8"]
+    S4 --> Q{"Sudah empat siklus?"}
+    Q -->|"belum"| S1
+    Q -->|"sudah"| E["Selesai untuk awal latihan"]
+```
+
 Cobalah perhatikan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
 
 ## Mengatur Ulang Komputer (Reset)
