@@ -301,87 +301,87 @@ flowchart TD
 
 ### Task B1: neurobiologi-sistem-vestibular
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neurobiologi-sistem-vestibular` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neurobiologi-sistem-vestibular --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of neurobiologi-sistem-vestibular equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/neurobiologi-sistem-vestibular.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neurobiologi-sistem-vestibular` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neurobiologi-sistem-vestibular --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of neurobiologi-sistem-vestibular equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/neurobiologi-sistem-vestibular.txt` | expect: exit 0 | retry: 0
 
 ### Task B2: neuroplastisitas-dalam-belajar
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neuroplastisitas-dalam-belajar` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neuroplastisitas-dalam-belajar --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of neuroplastisitas-dalam-belajar equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/neuroplastisitas-dalam-belajar.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neuroplastisitas-dalam-belajar` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neuroplastisitas-dalam-belajar --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of neuroplastisitas-dalam-belajar equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/neuroplastisitas-dalam-belajar.txt` | expect: exit 0 | retry: 0
 
 ### Task B3: pejorasi-dan-ameliorasi
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pejorasi-dan-ameliorasi` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pejorasi-dan-ameliorasi --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of pejorasi-dan-ameliorasi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pejorasi-dan-ameliorasi.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pejorasi-dan-ameliorasi` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pejorasi-dan-ameliorasi --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of pejorasi-dan-ameliorasi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pejorasi-dan-ameliorasi.txt` | expect: exit 0 | retry: 0
 
 ### Task B4: peluruhan-beta
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book peluruhan-beta` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book peluruhan-beta --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of peluruhan-beta equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/peluruhan-beta.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book peluruhan-beta` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book peluruhan-beta --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of peluruhan-beta equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/peluruhan-beta.txt` | expect: exit 0 | retry: 0
 
 ### Task B5: pembelajaran-multidisiplin
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pembelajaran-multidisiplin` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pembelajaran-multidisiplin --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of pembelajaran-multidisiplin equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pembelajaran-multidisiplin.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pembelajaran-multidisiplin` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pembelajaran-multidisiplin --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of pembelajaran-multidisiplin equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pembelajaran-multidisiplin.txt` | expect: exit 0 | retry: 0
 
 ### Task B6: pengaruh-uang-terhadap-kebahagiaan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pengaruh-uang-terhadap-kebahagiaan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pengaruh-uang-terhadap-kebahagiaan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of pengaruh-uang-terhadap-kebahagiaan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pengaruh-uang-terhadap-kebahagiaan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book pengaruh-uang-terhadap-kebahagiaan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book pengaruh-uang-terhadap-kebahagiaan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of pengaruh-uang-terhadap-kebahagiaan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/pengaruh-uang-terhadap-kebahagiaan.txt` | expect: exit 0 | retry: 0
 
 ### Task B7: piaget
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book piaget` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book piaget --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of piaget equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/piaget.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book piaget` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book piaget --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of piaget equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/piaget.txt` | expect: exit 0 | retry: 0
 
 ### Task B8: psikologi-bencana-dan-manajemen-panik (chapters 03, 05, 06 and 10 only)
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-bencana-dan-manajemen-panik` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-bencana-dan-manajemen-panik --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of psikologi-bencana-dan-manajemen-panik equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-bencana-dan-manajemen-panik.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-bencana-dan-manajemen-panik` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-bencana-dan-manajemen-panik --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of psikologi-bencana-dan-manajemen-panik equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-bencana-dan-manajemen-panik.txt` | expect: exit 0 | retry: 0
 
 ### Task B9: psikologi-bencana-dan-manajemen-panik (chapters 09, 11 and 12 only)
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-bencana-dan-manajemen-panik` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-bencana-dan-manajemen-panik --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of psikologi-bencana-dan-manajemen-panik equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-bencana-dan-manajemen-panik.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-bencana-dan-manajemen-panik` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-bencana-dan-manajemen-panik --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of psikologi-bencana-dan-manajemen-panik equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-bencana-dan-manajemen-panik.txt` | expect: exit 0 | retry: 0
 
 ### Task B10: psikologi-di-balik-keputusan-finansial-kita
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of psikologi-di-balik-keputusan-finansial-kita equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-di-balik-keputusan-finansial-kita.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of psikologi-di-balik-keputusan-finansial-kita equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-di-balik-keputusan-finansial-kita.txt` | expect: exit 0 | retry: 0
 
 ### Task Y1: LaTeX audit part 1 (RF2 debt sweep)
 
 Acceptance: every display or inline formula in the named chapters follows GEMINI.md section 9 (single backslashes, no blank line inside `$`, display math in `<div>`, no escaped punctuation), read and edited line by line; the built pages show the formulas with single backslashes and no `<em>`; structure unchanged.
 
-- [ ] Step 1: Run | cmd: structure output of the three books equals the RF2 baselines | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the three books equals the RF2 baselines | expect: exit 0 | retry: 0
 
 ### Task Y2: LaTeX audit part 2 and the dopamin ch02 sentence (RF2 and RF3 debt sweeps)
 
 Acceptance: as Y1 for kecerdasan-interpersonal ch05 and ch10 and logika-dan-penalaran-kritis ch06 and ch09; neurobiologi-motivasi-dopamin ch02:58 is reworded so the sentence agrees with the formula at ch02:55 (PFC in the denominator).
 
-- [ ] Step 1: Run | cmd: structure output of the three books equals the RF2 and RF3 baselines | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the three books equals the RF2 and RF3 baselines | expect: exit 0 | retry: 0
 
 ### Task Y3: blockquote sub-title detector (RF2 debt sweep)
 
 Acceptance: `check-heading-colons.ts` reports a bold sub-title with a colon inside a blockquote (`> **Analogi: X**`), test first; every violation it then finds is rewritten by the GEMINI.md section 24 rules, or listed for the owner when there are more than ten.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Execution record
 
