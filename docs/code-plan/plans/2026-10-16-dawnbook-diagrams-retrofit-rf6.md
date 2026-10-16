@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf6
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -215,9 +215,9 @@ tasks:
 
 - [x] S0 Carry-over from RF5: commit the RF5 merge evidence and tick RF5 S5 and S6. Evidence: this commit
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 0, 5, 15, 4, 1, 3, 3, 0, 3
-- [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g6.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
-- [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
-- [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
+- [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g6.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: eleven subagents in one message (nine books, W1 in an isolated /tmp worktree, W2); parent audited every block and edit; commits e8fb821 (five books in one commit, a deviation from one commit per book recorded here), 6fec0ec, 091bae5, 3676a09, 21bb8cc (books), 85fbb6b (W1), 975da39 (W2); 23 diagrams; teori-gaya-kelekatan ch10 quadrant chart is an added candidate outside g6 (both axes and all four quadrants are named in ch10:49-64); skips recorded in the review report
+- [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers and one spec reviewer, each `correct`; fixed: EWS ch12 states BMKG timing as delivered time, marks the 2025 figure and scopes the illustrative note (015fbcc), game tree equilibrium path drawn with thick arrows (470e60f); kept: Erikson TD chain and Maslow BT chain (each follows its own text; the book's third diagram is a triangle)
+- [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree 470e60f: `bun run build` exit 0; `bun test` 685 pass, 13 skip, 0 fail; `check:diagrams` 0 violations; `check:headings` 0; 23 inline diagrams equal 23 source blocks; structure output equal to the baselines; W1 end-to-end: on the real lead-in rewrite commit 2889e6f the old guard rejects 48 lines, the new guard only the 2 lines of a genuine body edit
 - [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
 - [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
 
@@ -334,7 +334,23 @@ Acceptance: the ch12 column header names the real source of its values after a s
 - [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
+## Execution record
+
+| Task | Result |
+|---|---|
+| B1 soft-power-jepang | ch06 pop-diplomacy timeline, ch09 Manga-mura chronology; ch08 bar chart skipped (three outlets) |
+| B2 state-of-flow | ch04 four neuro stages, ch06 eight-state quadrant chart; ch09 box breathing skipped |
+| B3 strategi-manajemen-kelas | ch04 task-done decision, ch09 restorative steps, ch11 reflection cycle |
+| B4 struktur-pasar | ch03 entry and exit adjustment, ch08 Tit-for-Tat states |
+| B5 teori-gaya-kelekatan | ch02 Strange Situation sequence, ch07 pursuer-distancer loop, ch10 attachment quadrants (added candidate) |
+| B6 teori-permainan | ch09 entry game tree, ch10 Tit-for-Tat and Grim Trigger; ch03 skipped (same game, self-contradicting labels) |
+| B7 teori-kepribadian | ch02 Erikson stages, ch03 Maslow levels, ch04 reciprocal determinism |
+| B8 tonsilektomi | ch10 recovery phases (no pain curve), ch11 dehydration loop; ch06 skipped (durations mismatch the total) |
+| B9 virtue-ethics | ch05 habituation, ch06 golden-mean spectra, ch07 phronesis cycle |
+| W1 | `--diff-guard` accepts bold-only lead-in rewrites; 87 tests |
+| W2 | EWS ch12 "Target kinerja" with an illustrative note; BMKG 2025 timing sourced; Referensi entry added |
+
 ## Status
 
-- Status: Approved (`Plan` gate, 2026-10-16, together with the other retrofit plans)
-- Resume: worktree above; the `Plan` gate decides whether the session runs.
+- Status: Verification (S0, S2-S4 done)
+- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
