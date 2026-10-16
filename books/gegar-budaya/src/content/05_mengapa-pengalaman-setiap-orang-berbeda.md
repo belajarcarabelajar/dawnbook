@@ -83,12 +83,12 @@ Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah 
 
 ## Perbandingan Siti dan Budi
 
-**Skenario A: Siti (Pekerja Migran di Malaysia)** Siti adalah seorang perawat dari Medan yang pindah ke Kuala Lumpur.
+**Siti (Pekerja Migran di Malaysia)** Siti adalah seorang perawat dari Medan yang pindah ke Kuala Lumpur.
 
 - **Jarak Budaya:** Rendah (Bahasa mirip, makanan serupa, agama mayoritas sama).
 - **Hasil:** Siti mengalami gegar budaya ringan. Dia merasa sedikit rindu rumah, tapi bisa berfungsi normal dalam hitungan minggu.
 
-**Skenario B: Budi (Pelajar Beasiswa di Jepang)** Budi adalah seorang mahasiswa dari desa kecil di Jawa yang langsung pindah ke Tokyo.
+**Budi (Pelajar Beasiswa di Jepang)** Budi adalah seorang mahasiswa dari desa kecil di Jawa yang langsung pindah ke Tokyo.
 
 - **Jarak Budaya:** Tinggi (Bahasa sangat sulit, budaya kerja sangat disiplin, ruang pribadi sangat sempit).
 - **Kepribadian:** Budi sangat introvert dan takut melakukan kesalahan.

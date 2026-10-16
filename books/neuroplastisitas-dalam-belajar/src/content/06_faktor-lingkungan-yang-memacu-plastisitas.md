@@ -44,7 +44,7 @@ Manusia adalah makhluk sosial. Interaksi dengan orang lain adalah salah satu tug
 
 Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat skenario nyata:
 
-**Skenario: Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas yang luar biasa dibandingkan jika ia tetap di rumah. Mengapa?
+**Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas yang luar biasa dibandingkan jika ia tetap di rumah. Mengapa?
 
 1. **Sensorik:** Suara bahasa baru, aroma makanan berbeda, dan pemandangan arsitektur asing membanjiri sistem sensorik.
 2. **Kognitif:** Otak harus bekerja ekstra keras untuk memetakan navigasi transportasi umum dan memahami norma sosial.

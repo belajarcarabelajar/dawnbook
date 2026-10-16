@@ -59,7 +59,7 @@ Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya 
 
 ## Skenario Dunia Nyata
 
-**Skenario: Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
+**Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
 
 - **Kandidat A** datang dengan pakaian sangat rapi, tersenyum lebar, dan memiliki hobi yang sama dengan manajer tersebut (bermain tenis).
 - **Kandidat B** sedikit gugup, pakaiannya biasa saja, namun memiliki data performa kerja masa lalu yang jauh lebih unggul daripada Kandidat A.

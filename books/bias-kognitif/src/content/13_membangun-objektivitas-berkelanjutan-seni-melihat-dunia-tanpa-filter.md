@@ -49,7 +49,7 @@ Agar otot objektivitas kamu tetap kuat, lakukan latihan berikut dalam kehidupan 
 
 Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyata:
 
-**Skenario: Seorang Manajer Produk dan Fitur yang Gagal** Budi telah menghabiskan 6 bulan mengembangkan fitur "X". Setelah diluncurkan, datanya buruk. Pengguna tidak menyukainya.
+**Seorang Manajer Produk dan Fitur yang Gagal** Budi telah menghabiskan 6 bulan mengembangkan fitur "X". Setelah diluncurkan, datanya buruk. Pengguna tidak menyukainya.
 
 - **Tanpa Objektivitas**: Budi terjebak dalam *Sunk Cost Fallacy*. Ia menyalahkan tim pemasaran atau menganggap pengguna "belum paham". Ia terus menghabiskan anggaran untuk fitur tersebut.
 - **Dengan Objektivitas Berkelanjutan**:

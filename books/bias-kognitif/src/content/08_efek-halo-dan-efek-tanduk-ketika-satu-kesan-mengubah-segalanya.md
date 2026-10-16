@@ -10,7 +10,7 @@ Jika ya, kamu sedang mengalami salah satu bias kognitif yang paling kuat dalam i
 
 Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahun 1920 setelah melakukan penelitian pada perwira militer. Ia menemukan bahwa ketika atasan menilai bawahannya, jika mereka memiliki satu kualitas positif yang menonjol (seperti postur tubuh yang tegap), atasan cenderung menilai mereka tinggi dalam kategori lain seperti kepemimpinan, loyalitas, dan kecerdasan, meskipun tidak ada bukti nyata untuk itu.
 
-> **Analogy: Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
+> **Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
 
 ### Mengapa Ini Terjadi?
 

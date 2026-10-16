@@ -8,7 +8,7 @@ Bagian ini akan mengeksplorasi dinamika yang rumit, terkadang menyakitkan, namun
 
 Jean-Paul Sartre, salah satu tokoh utama eksistensialisme, memperkenalkan konsep yang sangat kuat bernama **"The Look" (Le Regard)**. Untuk memahaminya, mari kita bayangkan sebuah skenario:
 
-> **Cerita Pendek: Lubang Kunci** Bayangkan kamu sedang mengintip melalui lubang kunci sebuah pintu karena rasa penasaran yang besar. Pada momen itu, kamu adalah seorang **Subjek**. Kamu bebas, kamu yang menentukan arah pandangan, dan kamu merasa menjadi pusat dari dunia tersebut.
+> **Lubang Kunci** Bayangkan kamu sedang mengintip melalui lubang kunci sebuah pintu karena rasa penasaran yang besar. Pada momen itu, kamu adalah seorang **Subjek**. Kamu bebas, kamu yang menentukan arah pandangan, dan kamu merasa menjadi pusat dari dunia tersebut.
 > 
 > Tiba-tiba, kamu mendengar langkah kaki di koridor. Seseorang melihatmu sedang mengintip.
 > 

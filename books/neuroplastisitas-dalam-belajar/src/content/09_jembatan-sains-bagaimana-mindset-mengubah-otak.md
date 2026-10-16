@@ -42,7 +42,7 @@ Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$)
 
 Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita lihat skenario berikut:
 
-**Skenario: Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
+**Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
 
 - **Respons Otak Fixed Mindset:** Amigdala (pusat rasa takut) aktif. Muncul pikiran "Saya bukan orang IT". Sinyal Pe rendah. Ia menutup laptop. Tidak ada perubahan saraf yang terjadi.
 - **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena ia yakin otaknya bisa berkembang, ia memicu PFC untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.

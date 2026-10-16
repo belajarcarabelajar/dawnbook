@@ -43,7 +43,7 @@ Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara se
 
 ### 4\. Dampak Psikologis Dewasa Muda
 
-**Short Story: Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
+**Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
 
 **Dampak nyata dari perilaku Maya meliputi:**
 

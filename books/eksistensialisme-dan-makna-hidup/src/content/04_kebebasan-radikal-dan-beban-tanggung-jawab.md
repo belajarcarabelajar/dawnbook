@@ -16,7 +16,7 @@ Istilah ini dipopulerkan oleh **Jean-Paul Sartre**. Sekilas, kata "dihukum" dan 
 2. **Ketiadaan Panduan:** Moralitas absolut atau takdir tidak pernah ada untuk mendikte tindakan kita.
 3. **Pilihan yang Mutlak:** Tidak memilih pun sebenarnya adalah sebuah pilihan untuk bersikap pasif.
 
-**Analogi: Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
+**Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
 
 ## 2\. Tidak Ada Alasan untuk Berdalih
 
