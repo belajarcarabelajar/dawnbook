@@ -53,14 +53,10 @@ Kedua respons itu berangkat dari pesan error yang sama, lalu bercabang seperti y
 flowchart TD
     accTitle: Dua respons otak terhadap pesan error
     accDescr: Pesan error yang sama memicu dua jalur. Pada fixed mindset, amigdala aktif, sinyal Pe rendah, laptop ditutup, dan tidak ada perubahan saraf. Pada growth mindset, ACC mendeteksi kesalahan dan memicu PFC menganalisis kode, sinyal Pe tinggi, dopamin dilepas saat letak titik koma ditemukan, dan jalur saraf logika pemrograman menguat.
-    E["Pesan error saat menulis kode"] -->|"fixed mindset"| F1["Amigdala aktif"]
-    F1 --> F2["Sinyal Pe rendah"]
-    F2 --> F3["Menutup laptop"]
-    F3 --> F4["Tidak ada perubahan saraf"]
+    E["Pesan error saat menulis kode"] -->|"fixed mindset"| F["Amigdala aktif, sinyal Pe rendah, laptop ditutup, tidak ada perubahan saraf"]
     E -->|"growth mindset"| G1["ACC mendeteksi kesalahan"]
-    G1 --> G2["PFC menganalisis kode"]
-    G2 --> G3["Sinyal Pe tinggi"]
-    G3 --> G4["Dopamin dilepas saat titik koma yang kurang ditemukan"]
+    G1 -->|"memicu"| G2["PFC menganalisis kode, sinyal Pe tinggi"]
+    G2 --> G4["Titik koma yang kurang ditemukan, otak melepaskan dopamin"]
     G4 --> G5["Jalur saraf logika pemrograman menguat"]
 ```
 

@@ -24,7 +24,7 @@ xychart
     accDescr: Grafik batang dari studi Barber dan Odean (2001) atas lebih dari 35.000 rumah tangga. Perdagangan menggerus pengembalian bersih pria sekitar 2,65 poin persentase per tahun, dibanding 1,72 poin untuk wanita.
     title "Pengembalian bersih tergerus, Barber dan Odean (2001)"
     x-axis ["Pria", "Wanita"]
-    y-axis "Poin persentase per tahun" 0 --> 3
+    y-axis "Poin persentase per tahun, sekitar" 0 --> 3
     bar [2.65, 1.72]
 ```
 

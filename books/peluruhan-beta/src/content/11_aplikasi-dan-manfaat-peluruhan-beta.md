@@ -82,7 +82,7 @@ flowchart TD
     C -->|"dimakan"| D["Hewan"]
     C -->|"mati"| E["Organisme berhenti mengonsumsi karbon"]
     D -->|"mati"| E
-    E -->|"peluruhan beta minus perlahan"| A
+    E -->|"peluruhan beta minus perlahan"| N["Kembali menjadi nitrogen"]
 ```
 
 #### Analogi Jam Pasir

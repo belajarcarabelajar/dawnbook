@@ -22,17 +22,6 @@ Selain itu, fleksibilitas sangat diperlukan untuk mengadopsi perkembangan baru d
 
 Proses perancangan kurikulum multidisiplin mengikuti langkah-langkah sistematis untuk memastikan semua elemen terintegrasi dengan baik.
 
-Urutan keempat langkah yang dibahas di bawah ini bisa kamu lihat sekilas pada bagan berikut.
-
-```mermaid
-flowchart LR
-    accTitle: Langkah perancangan kurikulum multidisiplin
-    accDescr: Empat langkah sistematis perancangan kurikulum multidisiplin, dari penentuan tujuan pembelajaran, pemilihan konten yang relevan, struktur program, sampai metode pengajaran dan penilaian.
-    A["Penentuan tujuan pembelajaran"] --> B["Pemilihan konten yang relevan"]
-    B --> C["Struktur program"]
-    C --> D["Metode pengajaran dan penilaian"]
-```
-
 #### 2.1. Penentuan Tujuan Pembelajaran Multidisiplin
 
 Langkah pertama yang sangat penting adalah mendefinisikan dengan jelas apa yang diharapkan dapat dicapai oleh peserta didik setelah menyelesaikan program. Tujuan pembelajaran multidisiplin ini harus dirancang secara menyeluruh dan mencakup beberapa aspek utama.
@@ -96,6 +85,17 @@ Berikut beberapa bentuk evaluasi yang relevan:
 - **Portofolio Pembelajaran:** Mengumpulkan karya mahasiswa sepanjang program untuk melihat perkembangan kemampuan integratif mereka, lengkap dengan refleksi pribadi.
 
 Untuk mendukung objektivitas, gunakan **Rubrik Terintegrasi** yang memuat kriteria penilaian khusus terkait kemampuan menghubungkan antardisiplin, menyintesis informasi, dan menyusun argumen yang logis. Selain itu, **Presentasi dan Debat Multidisiplin** dapat melatih mahasiswa menyampaikan gagasan kepada audiens dari berbagai latar belakang. Evaluasi juga bisa dilengkapi dengan **Esai Reflektif** agar mahasiswa dapat merenungkan cara mereka memadukan pengetahuan demi memecahkan suatu masalah.
+
+Keempat langkah yang baru dibahas itu bisa kamu lihat sekilas pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Langkah perancangan kurikulum multidisiplin
+    accDescr: Empat langkah sistematis perancangan kurikulum multidisiplin, dari penentuan tujuan pembelajaran, pemilihan konten yang relevan, struktur program, sampai metode pengajaran dan penilaian.
+    A["Penentuan tujuan pembelajaran"] --> B["Pemilihan konten yang relevan"]
+    B --> C["Struktur program"]
+    C --> D["Metode pengajaran dan penilaian"]
+```
 
 ### Ringkasan Poin Kunci
 
