@@ -317,98 +317,98 @@ flowchart TD
 
 ### Task B1: psikologi-positif
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-positif` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-positif --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of psikologi-positif equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/psikologi-positif.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-positif` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-positif --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of psikologi-positif equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/psikologi-positif.txt` | expect: exit 0 | retry: 0
 
 ### Task B2: quarter-life-crisis
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book quarter-life-crisis` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book quarter-life-crisis --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of quarter-life-crisis equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/quarter-life-crisis.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book quarter-life-crisis` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book quarter-life-crisis --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of quarter-life-crisis equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/quarter-life-crisis.txt` | expect: exit 0 | retry: 0
 
 ### Task B3: relief-karmawibhangga-dan-hukum-sebab-akibat
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book relief-karmawibhangga-dan-hukum-sebab-akibat` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book relief-karmawibhangga-dan-hukum-sebab-akibat --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of relief-karmawibhangga-dan-hukum-sebab-akibat equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/relief-karmawibhangga-dan-hukum-sebab-akibat.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book relief-karmawibhangga-dan-hukum-sebab-akibat` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book relief-karmawibhangga-dan-hukum-sebab-akibat --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of relief-karmawibhangga-dan-hukum-sebab-akibat equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/relief-karmawibhangga-dan-hukum-sebab-akibat.txt` | expect: exit 0 | retry: 0
 
 ### Task B4: resiliensi-dan-ketangguhan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book resiliensi-dan-ketangguhan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book resiliensi-dan-ketangguhan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of resiliensi-dan-ketangguhan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/resiliensi-dan-ketangguhan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book resiliensi-dan-ketangguhan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book resiliensi-dan-ketangguhan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of resiliensi-dan-ketangguhan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/resiliensi-dan-ketangguhan.txt` | expect: exit 0 | retry: 0
 
 ### Task B5: sejarah-evolusi-drama-korea
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sejarah-evolusi-drama-korea` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sejarah-evolusi-drama-korea --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of sejarah-evolusi-drama-korea equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sejarah-evolusi-drama-korea.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sejarah-evolusi-drama-korea` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sejarah-evolusi-drama-korea --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of sejarah-evolusi-drama-korea equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sejarah-evolusi-drama-korea.txt` | expect: exit 0 | retry: 0
 
 ### Task B6: siklus-hidrologi-mikrofisika-awan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book siklus-hidrologi-mikrofisika-awan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book siklus-hidrologi-mikrofisika-awan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of siklus-hidrologi-mikrofisika-awan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/siklus-hidrologi-mikrofisika-awan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book siklus-hidrologi-mikrofisika-awan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book siklus-hidrologi-mikrofisika-awan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of siklus-hidrologi-mikrofisika-awan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/siklus-hidrologi-mikrofisika-awan.txt` | expect: exit 0 | retry: 0
 
 ### Task B7: sistem-modul-rust
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-modul-rust` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-modul-rust --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of sistem-modul-rust equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-modul-rust.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-modul-rust` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-modul-rust --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of sistem-modul-rust equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-modul-rust.txt` | expect: exit 0 | retry: 0
 
 ### Task B8: sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-pengendalian-topik-dalam-wacana-pedagogi-di-sekolah-dasar.txt` | expect: exit 0 | retry: 0
 
 ### Task B9: sistem-peringatan-dini-early-warning-system
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-peringatan-dini-early-warning-system --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of sistem-peringatan-dini-early-warning-system equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-peringatan-dini-early-warning-system --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of sistem-peringatan-dini-early-warning-system equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt` | expect: exit 0 | retry: 0
 
 ### Task Z1: content slips (RF4 debt sweep)
 
 Acceptance: sistem-modul-rust ch10 `cases` formula renders both rows (no `\\` inside math; separate equations or the section 9 alternatives) and sejarah-evolusi-drama-korea ch02 math uses single backslashes; manual line edits per GEMINI.md section 9.
 
-- [ ] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
 
 ### Task Z2: relief and flow inconsistencies (RF4 debt sweep)
 
 Acceptance: relief-karmawibhangga ch02:58 (3 uncovered panels) and ch12 (4 panels, 156 covered) agree after a source check; psikologi-positif ch05:33 (Boredom) and ch05:40 (Relaxation) agree with one cited version of the flow channel model; every changed claim cites a verified source.
 
-- [ ] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
 
 ### Task Z3: EWS inconsistencies and slips (RF4 debt sweep, earlier EWS deferrals)
 
 Acceptance: InaTEWS founding year (ch07:15 says 2005, the ch03 table 2008), the 2-3 minute step and GPS sensor (ch04:35 vs ch07:21), and the earlier deferred Instruksi Presiden claim are checked against primary sources and made consistent; ch05 `\\,` in math and the ch07 stray ",." fixed.
 
-- [ ] Step 1: Run | cmd: structure output equals the RF5 baseline | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: structure output equals the RF5 baseline | expect: exit 0 | retry: 0
 
 ### Task Z4: lead-in colon rule (owner decision 2026-10-16)
 
 Acceptance: `check-heading-colons.ts` reports bold text with an inner colon followed by body text on the same line (`**Analogi: X** Bayangkan...`), test first; `**Penting:** teks` (colon at the end of the bold) stays allowed; GEMINI.md section 24 states the rule.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
 
 ### Task Z5: lead-in rewrite part 1
 
 Acceptance: the lead-in lines in piaget, quarter-life-crisis, neuroplastisitas-dalam-belajar, eksistensialisme-dan-makna-hidup, bias-kognitif, metodologi-microteaching, geopolitik-dalam-sejarah-piala-dunia and gegar-budaya are rewritten by the section 24 ways (plus the neuroplastisitas ch05 "sangat sangat" slip); `check:headings` 0 after Z4.
 
-- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task Z6: lead-in rewrite part 2
 
 Acceptance: the lead-in lines in the remaining fourteen books are rewritten the same way (plus the vestibular ch08 `-1{,}0` math slip); `check:headings` 0 after Z4.
 
-- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Execution record
 
