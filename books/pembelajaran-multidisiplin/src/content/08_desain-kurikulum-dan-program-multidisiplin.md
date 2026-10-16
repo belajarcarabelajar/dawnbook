@@ -22,6 +22,17 @@ Selain itu, fleksibilitas sangat diperlukan untuk mengadopsi perkembangan baru d
 
 Proses perancangan kurikulum multidisiplin mengikuti langkah-langkah sistematis untuk memastikan semua elemen terintegrasi dengan baik.
 
+Urutan keempat langkah yang dibahas di bawah ini bisa kamu lihat sekilas pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Langkah perancangan kurikulum multidisiplin
+    accDescr: Empat langkah sistematis perancangan kurikulum multidisiplin, dari penentuan tujuan pembelajaran, pemilihan konten yang relevan, struktur program, sampai metode pengajaran dan penilaian.
+    A["Penentuan tujuan pembelajaran"] --> B["Pemilihan konten yang relevan"]
+    B --> C["Struktur program"]
+    C --> D["Metode pengajaran dan penilaian"]
+```
+
 #### 2.1. Penentuan Tujuan Pembelajaran Multidisiplin
 
 Langkah pertama yang sangat penting adalah mendefinisikan dengan jelas apa yang diharapkan dapat dicapai oleh peserta didik setelah menyelesaikan program. Tujuan pembelajaran multidisiplin ini harus dirancang secara menyeluruh dan mencakup beberapa aspek utama.
