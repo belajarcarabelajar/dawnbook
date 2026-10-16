@@ -31,6 +31,18 @@ Kedua, **kenaikan aspirasi**. Standar pribadi ikut terangkat mengikuti pendapata
 
 Gabungan keduanya menjelaskan paradoks dengan rapi. Dalam silang waktu, orang kaya terlihat lebih bahagia karena posisi relatifnya lebih tinggi. Tapi sepanjang waktu, ketika semua orang naik bersama dan standar hidup ikut naik, rasa puas rata-rata tidak banyak bergeser. Yang berubah adalah isi dompet, bukan posisi kita di antara sesama manusia.
 
+Cara kedua mesin itu bekerja bersamaan terangkum dalam bagan ini.
+
+```mermaid
+flowchart TD
+    accTitle: Dua mesin di balik paradoks Easterlin
+    accDescr: Ketika pendapatan semua orang naik bersamaan, perbandingan sosial membuat posisi relatif praktis tidak berubah dan aspirasi membuat standar pribadi ikut terangkat, sehingga rasa puas rata-rata tidak banyak bergeser.
+    A["Pendapatan semua orang naik bersamaan"] --> B["Perbandingan sosial, posisi relatif praktis tidak berubah"]
+    A --> C["Kenaikan aspirasi, standar pribadi ikut terangkat"]
+    B --> D["Rasa puas rata-rata tidak banyak bergeser"]
+    C --> D
+```
+
 ### Lalu muncul penantang serius
 
 Seperti teori besar lain, paradoks ini tidak luput dari ujian. Tahun 2008, Betsey Stevenson dan Justin Wolfers menerbitkan studi di Brookings Papers on Economic Activity dengan bahan yang jauh lebih kaya: lebih banyak negara, lebih banyak survei, dan data yang lebih panjang dibanding yang bisa diakses Easterlin pada 1974.

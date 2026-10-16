@@ -33,6 +33,18 @@ Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang s
 | **Decide** (Putuskan) | Memilih tindakan terbaik dari opsi yang tersedia secara rasional. | Apa langkah paling efektif yang harus dieksekusi detik ini? |
 | **Act** (Bertindak) | Mengimplementasikan keputusan secara terukur, tegas, dan konsisten. | *Eksekusi tindakan segera tanpa keraguan berlebih.* |
 
+Perhatikan bagaimana keempat tahap itu saling menyambung dan kembali ke awal pada gambar siklus berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus OODA John Boyd
+    accDescr: Observe atau observasi berlanjut ke orient atau orientasi, lalu decide atau putuskan, lalu act atau bertindak, dan siklus berkelanjutan kembali ke observe.
+    O["Observe (Observasi)"] --> R["Orient (Orientasi)"]
+    R --> D["Decide (Putuskan)"]
+    D --> A["Act (Bertindak)"]
+    A -->|"siklus berkelanjutan"| O
+```
+
 > **Prinsip Utama:** Kecepatan rotasi siklus ini sangat menentukan kelangsungan hidup. Semakin cepat fase *Orientasi* diselesaikan, semakin cepat respons taktis dapat melampaui eskalasi perkembangan bencana itu sendiri.
 
 ## 3. Strategi Mengatasi Kelumpuhan Kognitif

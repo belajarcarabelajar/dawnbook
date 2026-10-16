@@ -22,6 +22,18 @@ Tabel berikut menguraikan karakteristik kognitif dan pola tindakan pada masing-m
 | **Kelompok Tertegun (*The Bewildered*)** | $80 \text{\%}$ | Kebingungan kognitif (*cognitive daze*), persepsi menyempit, pasif. | Berdiri terpaku, menunggu instruksi otoritas, sekadar mengikuti arus kerumunan. |
 | **Kelompok Disfungsional** | $10 \text{\%}$ | Kolaps kognitif total, paralisis ekstrem atau histeria destruktif. | Menangis tidak terkontrol, agresi liar, atau tindakan yang membahayakan keselamatan umum. |
 
+Proporsi ketiga kelompok dalam model Leach itu dapat kamu lihat sekilas pada diagram lingkaran berikut.
+
+```mermaid
+pie showData
+    accTitle: Distribusi respons 10-80-10 John Leach
+    accDescr: Saat ancaman mematikan datang mendadak, 10 persen populasi adaptif atau menjadi pemimpin, 80 persen tertegun atau pasif, dan 10 persen disfungsional atau histeris.
+    title Teori Distribusi 10-80-10
+    "Adaptif/Pemimpin" : 10
+    "Tertegun/Pasif" : 80
+    "Disfungsional/Histeris" : 10
+```
+
 > **Wawasan Kritis:** Fakta bahwa $80 \text{\%}$ populasi berada dalam kondisi tertegun menegaskan mengapa kehadiran instruksi yang jelas dan tegas dari figur pemimpin krisis sangat krusial. Tanpa arahan vokal yang terstruktur, kelompok mayoritas ini rentan terjebak dalam inersia mematikan atau meniru perilaku kelompok disfungsional.
 
 ### 2. Dinamika Pembekuan Kognitif (*Cognitive Freezing*)
@@ -54,13 +66,16 @@ Sebagai contoh, pada tragedi runtuhnya gedung perkantoran atau jembatan, banyak 
 
 Naratif populer di media fiksi kerap menggambarkan kerumunan bencana sebagai gerombolan liar yang saling menginjak tanpa rasa kemanusiaan. Studi sosiologi bencana oleh Enrico Quarantelli membuktikan bahwa kepanikan massal yang anarkis (*mass stampede panic*) sebenarnya sangat langka terjadi di dunia nyata.
 
-```
-                    KONTINUM RESPONS PERILAKU BENCANA
-┌─────────────────────────┬──────────────────────────┬────────────────────────┐
-│   Negative Panic        │   Prosocial Normative    │   Adaptive Action      │
-│ (Inersia, Tertegun,     │ (Saling Membantu, Antre, │ (Inisiatif Evakuasi,   │
-│  Penundaan Evakuasi)    │  Menjaga Ikatan Sosial)  │  Instruksi Lapangan)   │
-└─────────────────────────┴──────────────────────────┴────────────────────────┘
+Ketiga titik pada kontinum respons perilaku bencana dapat kamu bandingkan berdampingan dalam bagan di bawah ini.
+
+```mermaid
+flowchart LR
+    accTitle: Kontinum respons perilaku bencana
+    accDescr: Tiga titik kontinum berdampingan, yaitu negative panic berupa inersia, tertegun, dan penundaan evakuasi, prosocial normative berupa saling membantu, antre, dan menjaga ikatan sosial, serta adaptive action berupa inisiatif evakuasi dan instruksi lapangan.
+    subgraph K["Kontinum Respons Perilaku Bencana"]
+        direction LR
+        A["Negative Panic (Inersia, Tertegun, Penundaan Evakuasi)"] ~~~ B["Prosocial Normative (Saling Membantu, Antre, Menjaga Ikatan Sosial)"] ~~~ C["Adaptive Action (Inisiatif Evakuasi, Instruksi Lapangan)"]
+    end
 ```
 
 - **Ketahanan Norma Sosial:** Manusia cenderung mempertahankan ikatan kohesif dan norma prososial bahkan dalam kondisi bahaya tinggi. Seseorang lebih berpeluang berhenti sejenak untuk menolong korban yang terjatuh daripada menginjaknya, kecuali jika akses meloloskan diri terblokir total dan ancaman panas atau api langsung menyentuh tubuh secara fisik.

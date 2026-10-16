@@ -55,8 +55,15 @@ Secara analitis, ketenangan seorang individu di tengah kekacauan mampu memutus r
 
 Kekeliruan fatal dalam manajemen bencana adalah kecenderungan figur penyelamat untuk menangani seluruh beban sendirian. Pemimpin krisis yang efektif bertindak layaknya seorang dirigen orkestra, bukan pelaku tunggal.
 
-```
-[Krisis Mendadak] ──> [Pembekuan Kognitif Kelompok] ──> [Distribusi Tugas Mikro] ──> [Pemulihan Rasa Agensi]
+Peran dirigen itu berjalan dalam empat mata rantai, dari krisis yang membekukan kelompok sampai rasa agensi yang pulih kembali.
+
+```mermaid
+flowchart LR
+    accTitle: Rantai pemulihan agensi saat krisis
+    accDescr: Krisis mendadak memicu pembekuan kognitif kelompok, lalu distribusi tugas mikro membawa kelompok menuju pemulihan rasa agensi.
+    A["Krisis Mendadak"] --> B["Pembekuan Kognitif Kelompok"]
+    B --> C["Distribusi Tugas Mikro"]
+    C --> D["Pemulihan Rasa Agensi"]
 ```
 
 #### Penerapan Tugas Mikro (*Micro-Tasking*)
@@ -77,29 +84,15 @@ Kondisi panik ekstrem sering memicu pembekuan kognitif (*cognitive freeze*). Mem
 
 **Kondisi Lapangan:** Alarm kebakaran berbunyi di lantai sepuluh perkantoran, asap tebal mulai merayapi koridor, elevator terhenti otomatis, dan kerumunan orang mulai berebut di depan tangga darurat.
 
-```
-                     ┌─────────────────────────────────────────┐
-                     │     INTERVENSI VOKAL & VISIBILITAS     │
-                     │  (Menduduki posisi tinggi, suara berat) │
-                     └────────────────────┬────────────────────┘
-                                          │
-                                          ▼
-                     ┌─────────────────────────────────────────┐
-                     │       FOKUS DAN ARAHAN NAVIGASI        │
-                     │  (Penetapan jalur keluar yang valid)    │
-                     └────────────────────┬────────────────────┘
-                                          │
-                                          ▼
-                     ┌─────────────────────────────────────────┐
-                     │            DELEGASI INSTAN              │
-                     │  (Penugasan penjaga pintu & navigator)  │
-                     └────────────────────┬────────────────────┘
-                                          │
-                                          ▼
-                     ┌─────────────────────────────────────────┐
-                     │          PENGAWALAN BARISAN             │
-                     │  (Penyisiran akhir & penutup evakuasi)  │
-                     └─────────────────────────────────────────┘
+Di tengah kerumunan seperti itu, urutan tindakan pemimpin bergerak dari atas ke bawah seperti bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Urutan kepemimpinan evakuasi kebakaran gedung
+    accDescr: Empat tahap berurutan, yaitu intervensi vokal dan visibilitas, fokus dan arahan navigasi, delegasi instan, lalu pengawalan barisan.
+    A["Intervensi Vokal & Visibilitas (Menduduki posisi tinggi, suara berat)"] --> B["Fokus dan Arahan Navigasi (Penetapan jalur keluar yang valid)"]
+    B --> C["Delegasi Instan (Penugasan penjaga pintu & navigator)"]
+    C --> D["Pengawalan Barisan (Penyisiran akhir & penutup evakuasi)"]
 ```
 
 **Protokol Implementasi Kepemimpinan Psikologis:**

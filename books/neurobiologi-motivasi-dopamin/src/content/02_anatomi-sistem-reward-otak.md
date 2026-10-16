@@ -51,11 +51,13 @@ Di bagian paling depan tempurung kepala manusia terdapat **Prefrontal Cortex (PF
 
 Komunikasi antar-struktur saraf ini berlangsung melalui sinapsis (celah antar-sel saraf) memanfaatkan neurotransmiter dopamin. Secara konseptual, dinamika motivasi dapat digambarkan melalui persamaan berikut:
 
+<div>
 $$
 \text{Motivasi} = \text{Sinyal VTA} \times \frac{\text{Aktivitas NAc}}{\text{Kontrol PFC}}
 $$
+</div>
 
-Jika kontrol PFC melemah (misalnya akibat kelelahan fisik, stres kronis, atau kurang tidur), maka pembilang motivasi untuk tindakan impulsif akan meningkat drastis.
+Jika kontrol PFC melemah (misalnya akibat kelelahan fisik, stres kronis, atau kurang tidur), maka penyebut dalam persamaan ini mengecil sehingga nilai motivasi untuk tindakan impulsif akan meningkat drastis.
 
 ---
 

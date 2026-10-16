@@ -53,6 +53,17 @@ Mari kita lihat bagaimana proses ini terjadi dalam skenario nyata, misalnya saat
 3. **Perubahan Struktural:** Otak mulai mengirimkan protein untuk memperkuat sinapsis tersebut. Ibarat membangun jembatan permanen menggantikan tali tambang yang rapuh.
 4. **Asosiasi:** Setelah koneksi "terpatri" (*wired*), hanya dengan melihat gambar apel, otak kamu akan secara otomatis memicu neuron kata "Apel" tanpa perlu usaha sadar yang besar.
 
+Keempat langkah tadi bisa kamu bayangkan sebagai satu rantai berurutan seperti berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Langkah proses fire together, wire together
+    accDescr: Empat langkah berurutan saat belajar kata baru, dari aktivasi ganda neuron visual dan auditoris, sinyal kimiawi yang membuka reseptor seperti NMDA, perubahan struktural yang memperkuat sinapsis, sampai asosiasi otomatis.
+    A["Aktivasi ganda (neuron visual dan auditoris menyala bersamaan)"] --> B["Sinyal kimiawi (reseptor seperti NMDA terbuka)"]
+    B --> C["Perubahan struktural (protein memperkuat sinapsis)"]
+    C --> D["Asosiasi (gambar apel otomatis memicu kata “Apel”)"]
+```
+
 *Pertanyaan Reflektif: Apabila prinsip "Fire Together, Wire Together" mendasari proses belajar, dampak apakah yang terjadi ketika suatu jalur saraf tidak lagi diaktifkan secara berkala? (Petunjuk: Prinsip "Use it or lose it").*
 
 ## 5\. Aplikasi Dunia Nyata dan Kasus Praktis

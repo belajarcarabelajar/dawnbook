@@ -47,6 +47,19 @@ Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita liha
 - **Respons Otak Fixed Mindset:** Amigdala (pusat rasa takut) aktif. Muncul pikiran "Saya bukan orang IT". Sinyal Pe rendah. Ia menutup laptop. Tidak ada perubahan saraf yang terjadi.
 - **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena ia yakin otaknya bisa berkembang, ia memicu PFC untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
 
+Kedua respons itu berangkat dari pesan error yang sama, lalu bercabang seperti yang kamu lihat di sini.
+
+```mermaid
+flowchart TD
+    accTitle: Dua respons otak terhadap pesan error
+    accDescr: Pesan error yang sama memicu dua jalur. Pada fixed mindset, amigdala aktif, sinyal Pe rendah, laptop ditutup, dan tidak ada perubahan saraf. Pada growth mindset, ACC mendeteksi kesalahan dan memicu PFC menganalisis kode, sinyal Pe tinggi, dopamin dilepas saat letak titik koma ditemukan, dan jalur saraf logika pemrograman menguat.
+    E["Pesan error saat menulis kode"] -->|"fixed mindset"| F["Amigdala aktif, sinyal Pe rendah, laptop ditutup, tidak ada perubahan saraf"]
+    E -->|"growth mindset"| G1["ACC mendeteksi kesalahan"]
+    G1 -->|"memicu"| G2["PFC menganalisis kode, sinyal Pe tinggi"]
+    G2 --> G4["Titik koma yang kurang ditemukan, otak melepaskan dopamin"]
+    G4 --> G5["Jalur saraf logika pemrograman menguat"]
+```
+
 **Latihan Praktis untuk Memacu Plastisitas:**
 
 1. **Reframe Kesalahan:** Saat salah, katakan dalam hati: *"Ah, ini adalah sinyal Pe saya sedang bekerja. Otak saya sedang memetakan jalur baru."*

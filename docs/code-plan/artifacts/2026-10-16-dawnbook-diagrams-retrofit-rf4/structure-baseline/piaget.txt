@@ -1,0 +1,8 @@
+03_proses-adaptasi-asimilasi-dan-akomodasi.md: opener's first sentence would be truncated in the meta description
+05_tahap-sensorimotor-membangun-dunia-lewat-indra-dan-gerak.md: first heading "Tahap Sensorimotor (Lahir - 2 Tahun)" differs from SUMMARY title "Tahap Sensorimotor"
+06_tahap-praoperasional-dunia-simbol-dan-imajinasi.md: first heading "Tahap Praoperasional (2 - 7 Tahun)" differs from SUMMARY title "Tahap Praoperasional"
+07_tahap-operasional-konkret-ketika-logika-mulai-berakar.md: first heading "Tahap Operasional Konkret (Usia 7 - 11 Tahun)" differs from SUMMARY title "Tahap Operasional Konkret"
+08_tahap-operasional-formal-gerbang-menuju-pemikiran-tanpa-batas.md: first heading "Tahap Operasional Formal (11 Tahun ke Atas)" differs from SUMMARY title "Tahap Operasional Formal"
+08_tahap-operasional-formal-gerbang-menuju-pemikiran-tanpa-batas.md: opener's first sentence would be truncated in the meta description
+11_kritik-terhadap-teori-piaget.md: first heading "1\. Mengapa Teori Piaget Tidak Selalu Akurat?" differs from SUMMARY title "Kritik Terhadap Teori Piaget"
+piaget: 12 chapters, 7 problems

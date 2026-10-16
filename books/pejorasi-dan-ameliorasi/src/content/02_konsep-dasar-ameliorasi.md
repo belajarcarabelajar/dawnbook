@@ -53,6 +53,17 @@ Proses ameliorasi berlangsung secara bertahap melalui mekanisme psikososial dan 
 3. **Fase Substitusi:** Bentuk leksikal baru atau bentukan morfemis afiksasi diperkenalkan ke dalam wacana publik.
 4. **Fase Pemantapan:** Masyarakat menyepakati penggunaan bentuk baru tersebut sebagai standar baku yang bernilai luhur.
 
+Keempat fase itu dapat kamu ikuti berurutan pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Empat fase ameliorasi
+    accDescr: Ameliorasi berlangsung bertahap dari fase penggunaan awal, fase tuntutan etis, fase substitusi, sampai fase pemantapan sebagai standar baku.
+    A["Penggunaan awal"] --> B["Tuntutan etis"]
+    B --> C["Substitusi bentuk baru"]
+    C --> D["Pemantapan sebagai standar baku"]
+```
+
 Dalam representasi teori himpunan, misalkan $S$ adalah himpunan leksem berkonotasi santun. Apabila leksem $x \notin S$ pada periode awal, maka melalui proses ameliorasi berlaku $x \in S$ pada periode mutakhir.
 
 ### 5. Penerapan Bentuk Amelioratif dalam Komunikasi Resmi

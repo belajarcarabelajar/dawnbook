@@ -28,6 +28,18 @@ Awalnya, pendekatan monodisipliner (fokus pada satu disiplin ilmu) mendominasi p
 
 Perkembangan nyata menuju pendekatan multidisiplin mulai terlihat sejak abad ke-20. Sejarah baru, misalnya, dalam kajian sejarah, menunjukkan pergeseran dari kajian politik yang kaku menuju studi yang lebih bersifat *social scientific*, berorientasi pada masalah, dan menggunakan pendekatan interdisipliner/multidisipliner. Peningkatan interaksi antar disiplin ilmu, terutama di era globalisasi, menjadikan pendekatan multidisiplin sebagai pilihan yang populer dalam kegiatan ilmiah untuk mencari solusi terhadap masalah kompleks yang tidak dapat diatasi oleh satu disiplin saja.
 
+Garis waktu di bawah ini merangkum tahapan perkembangan itu menurut era, bukan tanggal pasti.
+
+```mermaid
+timeline
+    accTitle: Perkembangan pendekatan multidisiplin
+    accDescr: Konsep disiplin sudah ada sejak akhir zaman kuno, pendekatan satu disiplin mendominasi terutama hingga abad ke-19, perkembangan menuju multidisiplin mulai terlihat sejak abad ke-20, dan di era globalisasi multidisiplin menjadi pilihan populer.
+    Akhir zaman kuno : Konsep disiplin sebagai cabang ilmu sudah ada
+    Hingga abad ke-19 : Pendekatan satu disiplin ilmu terutama mendominasi
+    Sejak abad ke-20 : Perkembangan menuju multidisiplin mulai terlihat
+    Era globalisasi : Multidisiplin menjadi pilihan populer
+```
+
 ### Mengapa Multidisiplin Relevan dan Penting di Era Modern yang Kompleks?
 
 Di abad ke-21, yang ditandai dengan perkembangan ilmu pengetahuan dan teknologi yang pesat, kehidupan menjadi semakin kompleks. Tantangan global seperti perubahan iklim, krisis kesehatan, ketimpangan sosial, dan inovasi teknologi memerlukan solusi yang tidak bisa ditangani oleh satu disiplin ilmu saja. Inilah mengapa pembelajaran multidisiplin menjadi semakin relevan dan penting:

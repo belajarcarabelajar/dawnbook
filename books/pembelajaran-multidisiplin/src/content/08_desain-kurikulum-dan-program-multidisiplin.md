@@ -86,6 +86,17 @@ Berikut beberapa bentuk evaluasi yang relevan:
 
 Untuk mendukung objektivitas, gunakan **Rubrik Terintegrasi** yang memuat kriteria penilaian khusus terkait kemampuan menghubungkan antardisiplin, menyintesis informasi, dan menyusun argumen yang logis. Selain itu, **Presentasi dan Debat Multidisiplin** dapat melatih mahasiswa menyampaikan gagasan kepada audiens dari berbagai latar belakang. Evaluasi juga bisa dilengkapi dengan **Esai Reflektif** agar mahasiswa dapat merenungkan cara mereka memadukan pengetahuan demi memecahkan suatu masalah.
 
+Keempat langkah yang baru dibahas itu bisa kamu lihat sekilas pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Langkah perancangan kurikulum multidisiplin
+    accDescr: Empat langkah sistematis perancangan kurikulum multidisiplin, dari penentuan tujuan pembelajaran, pemilihan konten yang relevan, struktur program, sampai metode pengajaran dan penilaian.
+    A["Penentuan tujuan pembelajaran"] --> B["Pemilihan konten yang relevan"]
+    B --> C["Struktur program"]
+    C --> D["Metode pengajaran dan penilaian"]
+```
+
 ### Ringkasan Poin Kunci
 
 - Desain kurikulum multidisiplin mengutamakan **integrasi substantif**, bukan sekadar menumpuk berbagai disiplin ilmu secara terpisah.

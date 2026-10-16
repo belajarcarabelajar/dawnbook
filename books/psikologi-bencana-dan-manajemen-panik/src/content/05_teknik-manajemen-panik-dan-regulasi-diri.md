@@ -4,23 +4,21 @@ Sistem saraf manusia dalam menghadapi bencana dapat diibaratkan sebagai kendaraa
 
 Teknik regulasi diri berfungsi sebagai sistem pengereman manual yang memungkinkan pemulihan kendali atas mekanisme neurofisiologis tersebut. Melalui intervensi somatosensorik dan kognitif yang terstruktur, sistem saraf pusat dapat diarahkan kembali menuju kondisi homeostatis, menjaga kejernihan berpikir di tengah situasi darurat yang kacau.
 
-```
-+-------------------------------------------------------------------+
-|               SKEMA REGULASI SISTEM SARAF OTONOM                  |
-|                                                                   |
-|   [ Ancaman Bencana ] ---> [ Amigdala: Hiperarousal / Panik ]     |
-|                                    |                              |
-|                          (Intervensi Regulasi)                    |
-|                                    v                              |
-|   +-----------------------------------------------------------+   |
-|   | 1. Pernapasan Taktis  --> Stimulasi Nervus Vagus          |   |
-|   | 2. Grounding 5-4-3-2-1 --> Reorientasi Sensorik Kortikal   |   |
-|   | 3. Instructional Talk  --> Rekonstruksi Kognitif Logis    |   |
-|   +-----------------------------------------------------------+   |
-|                                    |                              |
-|                                    v                              |
-|   [ Korteks Prefrontal Teraktivasi ] ---> [ Keputusan Rasional ]  |
-+-------------------------------------------------------------------+
+Skema berikut merangkum jalur regulasi sistem saraf otonom, dari ancaman bencana sampai keputusan rasional.
+
+```mermaid
+flowchart TD
+    accTitle: Skema regulasi sistem saraf otonom
+    accDescr: Ancaman bencana memicu amigdala dalam hiperarousal atau panik. Lewat intervensi regulasi, tiga teknik bekerja, yaitu pernapasan taktis menuju stimulasi nervus vagus, grounding 5-4-3-2-1 menuju reorientasi sensorik kortikal, dan instructional talk menuju rekonstruksi kognitif logis, lalu korteks prefrontal teraktivasi dan menghasilkan keputusan rasional.
+    A["Ancaman Bencana"] --> B["Amigdala (Hiperarousal / Panik)"]
+    B -->|"Intervensi Regulasi"| T
+    subgraph T["Teknik Regulasi"]
+        T1["1. Pernapasan Taktis"] --> H1["Stimulasi Nervus Vagus"]
+        T2["2. Grounding 5-4-3-2-1"] --> H2["Reorientasi Sensorik Kortikal"]
+        T3["3. Instructional Talk"] --> H3["Rekonstruksi Kognitif Logis"]
+    end
+    T --> K["Korteks Prefrontal Teraktivasi"]
+    K --> R["Keputusan Rasional"]
 ```
 
 ---
@@ -39,15 +37,21 @@ Melalui pernapasan taktis dengan ritme terkontrol, individu merangsang **Saraf V
 
 Protokol ini menggunakan ritme seimbang dengan rasio waktu \\( 4 - 4 - 4 - 4 \\) detik:
 
-```
-                  4 Detik: Tahan (Paru Penuh)
-                  +------------------------+
-                  |                        |
-4 Detik: Tarik    |                        | 4 Detik: Buang
-(Inhale Hidung)   |                        | (Exhale Mulut)
-                  |                        |
-                  +------------------------+
-                  4 Detik: Tahan (Paru Kosong)
+Putaran empat tahap metode kotak tampak pada bagan berikut.
+
+```mermaid
+stateDiagram-v2
+    accTitle: Siklus box breathing 4-4-4-4
+    accDescr: Tarik napas lewat hidung 4 detik, tahan dengan paru penuh 4 detik, buang lewat mulut 4 detik, tahan dengan paru kosong 4 detik, lalu memulai siklus berikutnya.
+    state "4 Detik Tarik (Inhale Hidung)" as Tarik
+    state "4 Detik Tahan (Paru Penuh)" as Penuh
+    state "4 Detik Buang (Exhale Mulut)" as Buang
+    state "4 Detik Tahan (Paru Kosong)" as Kosong
+    [*] --> Tarik
+    Tarik --> Penuh
+    Penuh --> Buang
+    Buang --> Kosong
+    Kosong --> Tarik : siklus berikutnya
 ```
 
 1. **Inhalasi (4 Detik):** Tarik udara perlahan melalui rongga hidung. Pastikan diafragma mengembang ke arah luar tanpa mengangkat bahu secara berlebihan.
@@ -105,19 +109,17 @@ Instruksi mandiri yang efektif harus memenuhi kriteria singkat, imperatif, dan b
 
 Sebagai gambaran praktis, tinjau situasi seorang penyintas yang berada di lantai lima sebuah gedung bertingkat saat gempa tektonik berkekuatan besar melanda. Setelah getaran utama mereda, pasokan listrik terputus dan alarm darurat menyala. Terjadi manifestasi panik akut yang ditandai oleh kelemahan motorik ekstrem, penyempitan lapang pandang (*tunnel vision*), dan kebingungan spasial.
 
-```
-                    SEKUENS TINDAKAN REGULASI DARURAT
-                    
-  [ Fase 1: Somatik ]  --> Jalankan 2 siklus Box Breathing (4-4-4-4)
-                           Hasil: Reduksi tunnel vision, pemulihan fokus visual.
-                                     |
-                                     v
-  [ Fase 2: Sensorik ] --> Identifikasi 5 objek visual terdekat (rambu, pintu, tangga)
-                           Hasil: Reorientasi spasial, pencegahan aksi impulsif.
-                                     |
-                                     v
-  [ Fase 3: Kognitif ] --> Ucapkan instruksi: "Struktur stabil. Jalan menuju tangga."
-                           Hasil: Eksekusi evakuasi terarah tanpa histeria massa.
+Urutan tiga fase yang dijalankan penyintas tersebut tersaji pada alur di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Sekuens tindakan regulasi darurat
+    accDescr: Fase 1 somatik menjalankan 2 siklus box breathing dengan hasil reduksi tunnel vision dan pemulihan fokus visual. Fase 2 sensorik mengidentifikasi 5 objek visual terdekat dengan hasil reorientasi spasial dan pencegahan aksi impulsif. Fase 3 kognitif mengucapkan instruksi dengan hasil eksekusi evakuasi terarah tanpa histeria massa.
+    F1["Fase 1: Somatik"] --> A1["Jalankan 2 siklus Box Breathing (4-4-4-4). Hasil: reduksi tunnel vision, pemulihan fokus visual."]
+    A1 --> F2["Fase 2: Sensorik"]
+    F2 --> A2["Identifikasi 5 objek visual terdekat (rambu, pintu, tangga). Hasil: reorientasi spasial, pencegahan aksi impulsif."]
+    A2 --> F3["Fase 3: Kognitif"]
+    F3 --> A3["Ucapkan instruksi “Struktur stabil. Jalan menuju tangga.” Hasil: eksekusi evakuasi terarah tanpa histeria massa."]
 ```
 
 1. **Intervensi Somatik Segera:** Menjalankan dua siklus *Box Breathing*. Tindakan ini meregulasi denyut nadi dan memperluas kembali lapang pandang visual yang sempat menyempit.

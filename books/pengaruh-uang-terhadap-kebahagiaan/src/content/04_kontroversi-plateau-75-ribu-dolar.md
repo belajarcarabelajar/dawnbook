@@ -44,6 +44,22 @@ Kesimpulannya menyelesaikan misteri itu dengan jawaban yang tidak diduga banyak 
 
 Artinya, plateau itu nyata, tapi ia bukan hukum umum. Ia hanya berlaku untuk satu kelompok: mereka yang paling menderita. Dan bagi kelompok itu pun, garis datarnya berada di angka yang lebih tinggi daripada 75.000 dolar yang legendaris.
 
+Supaya ketiga studi itu tidak tertukar, urutan tahunnya bisa kamu lihat di garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Tiga studi tentang plateau pendapatan dan kebahagiaan
+    accDescr: Tahun 2010 Kahneman dan Deaton menemukan kesejahteraan emosional berhenti membaik di sekitar 75 ribu dolar. Tahun 2021 Killingsworth menemukan kesejahteraan yang dialami terus naik tanpa plateau. Tahun 2023 kolaborasi adversarial menemukan mayoritas terus naik, sementara minoritas paling tidak bahagia melandai di sekitar 100 ribu dolar.
+    2010 : Kahneman dan Deaton
+         : Penilaian hidup terus naik tanpa titik jenuh
+         : Kesejahteraan emosional berhenti membaik di sekitar 75 ribu dolar
+    2021 : Killingsworth
+         : Kesejahteraan yang dialami terus naik melewati 75 ribu dolar tanpa plateau
+    2023 : Kolaborasi adversarial dengan Mellers sebagai penengah
+         : Mayoritas terus naik, bahkan di atas 100 ribu dolar
+         : Minoritas paling tidak bahagia, sekitar 15 sampai 20 persen, melandai di sekitar 100 ribu dolar
+```
+
 Pelajaran terpentingnya justru di luar angka-angka: uang tidak bisa memperbaiki kesedihan yang akarnya bukan uang. Kehilangan orang tersayang, depresi klinis, kesepian yang dalam. Untuk luka-luka seperti ini tambahan gaji tidak punya khasiat, dan itu bukan berarti uang gagal, melainkan karena masalahnya memang bukan jenis yang solusinya bisa dibeli.
 
 > Anggap uang itu obat pereda nyeri. Untuk pegal biasa, dosis tambahan memang mengurangi rasa sakit. Tapi kalau sumber rasa sakitnya patah hati, menelan pil tambahan tidak menyembuhkan apa pun, dan itu bukan bukti bahwa pilnya palsu. Obatnya memang tidak dirancang untuk sakit itu.

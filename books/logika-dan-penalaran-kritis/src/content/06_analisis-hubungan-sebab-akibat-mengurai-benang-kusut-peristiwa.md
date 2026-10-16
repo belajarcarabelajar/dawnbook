@@ -24,7 +24,7 @@ Untuk menyimpulkan bahwa $A$ menyebabkan $B$, para pemikir kritis dan peneliti b
 1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika $B$ sudah terjadi sebelum $A$ muncul, maka $A$ mustahil menjadi penyebab bagi $B$.
 2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila $A$ berubah, $B$ juga harus menunjukkan perubahan yang terukur.
 3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor $C$, yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan $A$ dan $B$ secara bersamaan.
-   $$A \\rightarrow B \\text{ (Hanya jika faktor } C, D, \\text{ dan } E \\text{ sudah ditiadakan)}$$
+   $$A \rightarrow B \text{ (Hanya jika faktor } C, D, \text{ dan } E \text{ sudah ditiadakan)}$$
 
 ## 3. Kompleksitas Causal Chain (Rantai Kausalitas)
 
@@ -55,7 +55,7 @@ Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, m
 
 Ada kalanya hubungan bersifat melingkar: $A$ memicu $B$, lalu $B$ berbalik memperkuat $A$. Contoh klasik dalam ekonomi makro: 
 
-$\\text{Kurangnya Investasi} \\rightarrow \\text{Kemiskinan} \\rightarrow \\text{Kurangnya Pendidikan} \\rightarrow \\text{Rendahnya Produktivitas}$
+$\text{Kurangnya Investasi} \rightarrow \text{Kemiskinan} \rightarrow \text{Kurangnya Pendidikan} \rightarrow \text{Rendahnya Produktivitas}$
 
 Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berputar jika tidak ada intervensi luar.
 
@@ -75,7 +75,7 @@ flowchart LR
 
 Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) terkait sebab-akibat yang kerap mengaburkan analisis kita:
 
-* **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira $A \\rightarrow B$, padahal arah aslinya adalah $B \\rightarrow A$.
+* **Reverse Causality (Kausalitas Terbalik):** Kesalahan ketika kita mengira $A \rightarrow B$, padahal arah aslinya adalah $B \rightarrow A$.
   Sebagai contoh, apakah seseorang menjadi optimis karena ia sukses, atau justru sikap optimis itulah yang membawanya menuju kesuksesan?
 * **The Third Variable Problem:** Kondisi di mana ada faktor ketiga (variabel tersembunyi) yang mengendalikan kedua variabel utama.
   Misalnya, statistik menunjukkan lonjakan penjualan es krim berjalan beriringan dengan naiknya frekuensi serangan hiu di pantai. Faktor sebenarnya bukanlah es krim yang mengundang hiu, melainkan musim panas: suhu yang terik mendorong orang membeli es krim sekaligus menarik minat mereka untuk berenang di laut.

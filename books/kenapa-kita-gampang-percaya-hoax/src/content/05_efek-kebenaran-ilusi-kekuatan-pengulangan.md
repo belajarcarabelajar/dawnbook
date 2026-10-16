@@ -63,7 +63,7 @@ Taktiknya sederhana dan brutal: sebut sesuatu berulang-ulang sampai ia terasa se
 
 ### Seberapa besar efeknya
 
-Efek ini **bukan** sihir yang dalam sekejap mengubah orang dari yakin salah menjadi yakin benar. Dirangkum dari puluhan studi, efeknya tergolong kecil sampai sedang untuk sekali putaran. Tapi jangan tertipu kata "kecil". Yang membuatnya berbahaya adalah **konsistensinya**: efek ini muncul berulang lintas puluhan penelitian, lintas topik, lintas jenis orang. Efek kecil yang bekerja terus-menerus, dikalikan jutaan paparan di lini masa media sosial, menjadi kekuatan besar. Kalau besar dorongan itu \\( d \\) per paparan dan paparan terjadi \\( n \\) kali, total dorongannya bergerak seiring \\( n \\). Angka pastinya bukan intinya; yang kecil, kalau diulang cukup sering, berubah jadi arus.
+Efek ini **bukan** sihir yang dalam sekejap mengubah orang dari yakin salah menjadi yakin benar. Dirangkum dari puluhan studi, efeknya tergolong kecil sampai sedang untuk sekali putaran. Tapi jangan tertipu kata "kecil". Yang membuatnya berbahaya adalah **konsistensinya**: efek ini muncul berulang lintas puluhan penelitian, lintas topik, lintas jenis orang. Efek kecil yang bekerja terus-menerus, dikalikan jutaan paparan di lini masa media sosial, menjadi kekuatan besar. Kalau besar dorongan itu $d$ per paparan dan paparan terjadi $n$ kali, total dorongannya bergerak seiring $n$. Angka pastinya bukan intinya; yang kecil, kalau diulang cukup sering, berubah jadi arus.
 
 ### Ada celah harapan
 

@@ -24,6 +24,21 @@ Pola ekuilibrasi menyerupai spiral yang makin naik, makin rumit:
 	- Jika mentok, bongkar laci lama atau bikin laci baru (**Akomodasi**).
 5. **Keseimbangan Baru (New Equilibrium):** Pikiran direorganisasi. Tingkat pemahamannya sekarang jauh lebih stabil dan kompleks.
 
+Kelima langkah itu bisa kamu ikuti sebagai satu alur pada diagram berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus pertumbuhan kognitif
+    accDescr: Dari keadaan seimbang, tantangan baru memicu ketidakseimbangan. Anak lalu beradaptasi, mula-mula dengan asimilasi, dan jika mentok dengan akomodasi, sampai tercapai keseimbangan baru yang lebih stabil dan kompleks.
+    A["1. Keadaan seimbang (equilibrium)"] --> B["2. Tantangan baru"]
+    B --> C["3. Tidak seimbang, batin anak terganggu"]
+    C --> P
+    subgraph P["4. Proses adaptasi"]
+        D["Asimilasi, info baru masuk laci lama"] -->|"jika mentok"| E["Akomodasi, bongkar laci lama atau bikin laci baru"]
+    end
+    P --> F["5. Keseimbangan baru, lebih stabil dan kompleks"]
+```
+
 ### 3\. Termostat Kognitif
 
 Bayangkan isi kepala kita berfungsi macam **termostat AC**.

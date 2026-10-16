@@ -68,6 +68,17 @@ Penerapan metode diakronis pada kata "canggih" memberikan gambaran nyata mengena
 
 Jika seorang penutur pada abad ke-19 mendengar sebutan "canggih", ungkapan tersebut akan dianggap sebagai teguran atas sikap yang menjengkelkan, sangat bertolak belakang dengan pujian mutakhir pada abad ke-21.
 
+Lini masa di bawah merangkum perjalanan nilai rasa kata "canggih" dari periode ke periode.
+
+```mermaid
+timeline
+    accTitle: Evolusi nilai rasa kata canggih
+    accDescr: Kata canggih bernilai negatif pada abad ke-19 hingga awal abad ke-20, bergeser netral ke positif pada pertengahan abad ke-20, dan bernilai positif pada era digital kontemporer.
+    Abad ke-19 hingga awal abad ke-20 : Negatif, banyak cakap dan cerewet
+    Pertengahan abad ke-20 : Netral ke positif, padanan sophisticated
+    Era digital kontemporer : Positif, mutakhir dan berkemampuan tinggi
+```
+
 ### 4. Penerapan Praktis Analisis Diakronis
 
 Metode analisis diakronis memberikan kontribusi nyata dalam berbagai disiplin profesional dan kehidupan sosial:

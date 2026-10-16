@@ -170,6 +170,24 @@ describe("check-heading-colons", () => {
       ]);
     });
 
+    it("scanContent flags a bold sub-title alone on a blockquote line, but not blockquote lead-ins or labels", () => {
+      const md = [
+        "> **Analogi: Klub**",
+        "",
+        "> **Analogi: Klub**",
+        "> Teks kutipan di baris berikutnya.",
+        "",
+        "> **Penting:** teks sesudahnya",
+        "",
+        "> **Contoh Soal:**",
+        "",
+      ].join("\n");
+      expect(scanContent(md).violations).toEqual([
+        { line: 1, text: "Analogi: Klub" },
+        { line: 3, text: "Analogi: Klub" },
+      ]);
+    });
+
     it("scanContent leaves inline bold lead-ins, trailing-colon labels, long callouts and fences alone", () => {
       const long = `**Penting: ${"kalimat panjang ".repeat(8)}**`;
       const md = [

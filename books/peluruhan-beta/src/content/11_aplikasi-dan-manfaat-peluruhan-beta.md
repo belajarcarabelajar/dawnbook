@@ -71,6 +71,20 @@ $$
 - **Saat Makhluk Hidup Masih Hidup:** Tumbuhan menyerap CO₂ (termasuk ${}^{14}\text{C}$) melalui fotosintesis. Hewan memakan tumbuhan. Akibatnya, rasio ${}^{14}\text{C}$ dalam tubuh makhluk hidup sama dengan rasio di atmosfer.
 - **Saat Makhluk Hidup Mati:** Organisme berhenti mengonsumsi karbon. ${}^{14}\text{C}$ yang ada di dalam tubuh mulai meluruh perlahan dengan **waktu paruh sekitar 5.730 tahun**, sementara jumlah karbon stabil (${}^{12}\text{C}$) tetap sama.
 
+Perjalanan Karbon-14 dari atmosfer hingga kembali menjadi nitrogen bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus Karbon-14
+    accDescr: Sinar kosmik mengubah nitrogen di atmosfer menjadi Karbon-14. Tumbuhan menyerapnya lewat fotosintesis, hewan memakan tumbuhan, lalu saat organisme mati ia berhenti mengonsumsi karbon dan Karbon-14 di tubuhnya meluruh secara beta minus kembali menjadi nitrogen.
+    A["Nitrogen di atmosfer"] -->|"diubah sinar kosmik"| B["Karbon-14"]
+    B -->|"diserap lewat fotosintesis"| C["Tumbuhan"]
+    C -->|"dimakan"| D["Hewan"]
+    C -->|"mati"| E["Organisme berhenti mengonsumsi karbon"]
+    D -->|"mati"| E
+    E -->|"peluruhan beta minus perlahan"| N["Kembali menjadi nitrogen"]
+```
+
 #### Analogi Jam Pasir
 
 Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begitu sebuah pohon mati, jam pasir tersebut dibalik. Dengan menghitung sisa pasir (${}^{14}\text{C}$) yang ada dibandingkan dengan jumlah awalnya, arkeolog dapat menghitung sudah berapa lama pasir tersebut mengalir, atau dengan kata lain, kapan organisme tersebut mati.

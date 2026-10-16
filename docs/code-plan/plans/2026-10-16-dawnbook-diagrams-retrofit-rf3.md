@@ -212,8 +212,8 @@ tasks:
 - [x] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g3.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book. Evidence: ten subagents dispatched in one message; parent audited every block against its source lines and listed intro sentences per book; commits 52695d8, 3b4e37c, 2d828b9 (after the rebase onto 741ea78); 23 diagrams; skips: metakognisi ch10 cycle (same shape as ch03), multiple-intelligences 1983/1995 timeline (weak), neurobiologi-motivasi-dopamin ch05 RPE decision (table covers it) and ch11 tyrosine chain (display math already draws it); reported, not drawn: neurobiologi ch02:58 says a weaker PFC raises the numerator while ch02:55 has PFC as the denominator
 - [x] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed. Evidence: two standards reviewers and one spec reviewer, each `correct`, no P0-P2; fixed in 8adc36e: literasi-keuangan ch06 levels drawn as ordered categories (ranges in the nodes, no movement claim), mekanisme-koping ch06 intro without the unstated contrast; kept: logika ch06 root-intermediate-direct chain (role names under the Rantai Kausalitas heading), microteaching ch01 four steps without a return edge (the text states none)
 - [x] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book. Evidence: tree 8adc36e+3817b45: `bun run build` exit 0; `bun test` 674 pass, 13 skip, 0 fail; `check:diagrams` 0 violations (including the extended split-word rule); 23 inline diagrams equal 23 source blocks; structure output equal to the baseline for all ten books
-- [ ] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate
-- [ ] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync
+- [x] S5 Deliver: D1 seed rerun and `db/seed.sql` committed; PR from body file, registered; `Merge` gate. Evidence: `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3-merge-evidence.md`
+- [x] S6 Close: readiness and `Close plan` gate before the merge; after the merge issue sync, publish, registry `merged`, graphify sync. Evidence: `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3-merge-evidence.md` (graphify sync at the end of the series)
 
 ## Visual Map
 
@@ -338,7 +338,7 @@ flowchart TD
 ## Closeout status
 
 - Readiness `plan-closeout.mjs --readiness` 2026-10-16: `NEEDS-HUMAN` (exit 3); open NOW 0, open step boxes 0; B1-B10 and V1 UNPROVEN by the `"false"` sentinel although all PASSED in the runner log; S5 and S6 open until the merge.
-- `Close plan` gate: owner chose "Keep it open". Reopen the question in the RF4 PR, after the merge evidence of #157 is recorded and S5 and S6 are ticked.
+- `Close plan` gate: owner chose "Keep it open" (2026-10-16, before #157 merged) and again in the RF4 PR after S5 and S6 were ticked; the plan stays open with readiness `NEEDS-HUMAN` from the sentinel tasks only.
 - Debt sweep: owner selected the neurobiologi-motivasi-dopamin ch02:58 wording fix; it runs as a task of the RF4 session.
 
 ## Status

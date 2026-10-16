@@ -15,10 +15,11 @@ Sering kali kita mencampuradukkan kedua istilah ini. Meskipun saling mendukung, 
 
 Untuk membedah komponen *trust* secara objektif, kita dapat menggunakan model *The Trust Equation* yang dikembangkan oleh Charles H. Green:
 
+<div>
 $$
-
 T = \frac{C + R + I}{S}
 $$
+</div>
 
 Di mana:
 *   **$C$ (Credibility)**: Kredibilitas profesional (apa yang kamu katakan).

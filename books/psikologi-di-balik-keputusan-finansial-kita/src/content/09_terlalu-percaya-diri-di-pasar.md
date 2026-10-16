@@ -16,6 +16,18 @@ Bukti yang membuat hipotesis kelebihan percaya diri ini semakin kuat datang dari
 
 Data mengikuti prediksi itu dengan rapi. Pria berdagang 45 persen lebih banyak dibanding wanita. Dan karena setiap tambahan perdagangan menambah biaya, konsekuensinya juga terukur: perdagangan tersebut menggerus pengembalian bersih pria sekitar 2,65 poin persentase per tahun, dibanding 1,72 poin untuk wanita. Lebih sering yakin, lebih sering bergerak, lebih banyak biaya, hasil lebih tipis. Pola ini berlaku untuk dua gender sekaligus; selisihnya hanya pada intensitasnya.
 
+Grafik ini membandingkan berapa poin pengembalian bersih yang hilang setiap tahun pada tiap gender.
+
+```mermaid
+xychart
+    accTitle: Pengembalian bersih yang tergerus perdagangan per tahun
+    accDescr: Grafik batang dari studi Barber dan Odean (2001) atas lebih dari 35.000 rumah tangga. Perdagangan menggerus pengembalian bersih pria sekitar 2,65 poin persentase per tahun, dibanding 1,72 poin untuk wanita.
+    title "Pengembalian bersih tergerus, Barber dan Odean (2001)"
+    x-axis ["Pria", "Wanita"]
+    y-axis "Poin persentase per tahun, sekitar" 0 --> 3
+    bar [2.65, 1.72]
+```
+
 > Kepercayaan diri itu seperti garam. Sedikit membuat semuanya lebih baik, dan berlebih membuat seluruh hidangan tidak bisa dimakan, sementara si masak terus menambah karena merasa masih kurang.
 
 ### Menyadari dirimu sedang terlalu yakin
