@@ -47,6 +47,42 @@ $$
 \end{aligned}
 $$
 
+Supaya diagram Venn tadi tidak hanya ada di bayanganmu, berikut setiap zona beserta pilar yang membentuknya, tersusun dari dua pilar sampai inti.
+
+```mermaid
+flowchart TD
+    accTitle: Zona persimpangan Ikigai
+    accDescr: Empat pilar Ikigai membentuk empat zona dua pilar, yaitu Passion, Misi, Profesi, dan Vokasi, lalu tiga zona tiga pilar, yaitu Misi yang Menginspirasi, Panggilan Hidup yang Bergairah, dan Profesi yang Memuaskan, sedangkan keempat pilar bersama-sama membentuk inti Ikigai.
+    subgraph S1["Empat pilar"]
+        C["Apa yang kamu cintai"]
+        K["Apa yang kamu kuasai"]
+        D["Apa yang dibutuhkan dunia"]
+        U["Apa yang dapat menghasilkan uang"]
+    end
+    subgraph S2["Persimpangan dua pilar"]
+        P["Passion (cintai dan kuasai)"]
+        M["Misi (cintai dan dunia)"]
+        PR["Profesi (kuasai dan uang)"]
+        V["Vokasi atau Panggilan Hidup (dunia dan uang)"]
+    end
+    subgraph S3["Persimpangan tiga pilar"]
+        T1["Misi yang Menginspirasi (cintai, kuasai, dunia)"]
+        T2["Panggilan Hidup yang Bergairah (cintai, dunia, uang)"]
+        T3["Profesi yang Memuaskan (kuasai, dunia, uang)"]
+    end
+    subgraph S4["Inti"]
+        I["Ikigai (keempat pilar bertemu)"]
+    end
+    C ~~~ P
+    K ~~~ M
+    D ~~~ PR
+    U ~~~ V
+    M ~~~ T1
+    PR ~~~ T2
+    V ~~~ T3
+    T2 ~~~ I
+```
+
 Menemukan Ikigai berarti kamu bisa menikmati setiap momen karena aktivitasnya sejalan dengan *passion*. Kamu merasa percaya diri lantaran menggunakan keterampilan terbaik. Kamu juga sadar bahwa pekerjaanmu membawa dampak positif bagi dunia yang lebih luas, dan pada saat bersamaan, kamu mampu berkembang secara finansial. 
 
 Kondisi optimal ini memberikan sukacita yang tulus dan sumber kepuasan yang seolah tak ada habisnya. Inilah dorongan batin yang membuatmu bersemangat bangun di pagi hari.
