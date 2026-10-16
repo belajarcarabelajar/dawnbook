@@ -79,7 +79,7 @@ Untuk memahami skala evolusi ini, perhatikan perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |
-| **Warna** | Hitam & Putih ($\\text{B} \& \\text{W}$) | *Ultra High Definition* (UHD) |
+| **Warna** | Hitam & Putih (B&W) | *Ultra High Definition* (UHD) |
 | **Metode** | Mayoritas *Live* atau Rekaman Dasar | *Pre-produced* dengan Editing Canggih |
 | **Distribusi** | Frekuensi Terestrial Terbatas | Global via OTT (Netflix/Disney+) |
 | **Fokus Cerita** | Restorasi Keluarga & Moral | Diversifikasi Genre & Kritik Sosial |

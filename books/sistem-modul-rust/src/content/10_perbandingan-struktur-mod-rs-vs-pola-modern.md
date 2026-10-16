@@ -131,11 +131,21 @@ Walaupun pola modern menjadi standar baru, pola klasik terkadang masih ditemui d
 
 ## Rumus Logika Jalur (Path)
 
-Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul:
+Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul. Jika ada file `m.rs`, hasilnya:
 
+<div>
 $$
-f(m) = \begin{cases} \text{m.rs} & \text{jika ada file} \\ \text{m/mod.rs} & \text{jika ada folder dengan mod.rs} \end{cases}
+f(m) = \text{m.rs}
 $$
+</div>
+
+Jika yang ada adalah folder dengan `mod.rs`, hasilnya:
+
+<div>
+$$
+f(m) = \text{m/mod.rs}
+$$
+</div>
 
 Jika kedua kondisi di atas terpenuhi $\text{m.rs} \cap \text{m/mod.rs}$, maka akan terjadi konflik: $\text{Error} \leftarrow \text{Ambiguitas struktur}$
 
