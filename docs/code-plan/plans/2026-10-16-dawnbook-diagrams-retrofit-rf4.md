@@ -188,8 +188,44 @@ tasks:
       - cmd: "bash -c 'bun run scripts/check-book-structure.ts psikologi-di-balik-keputusan-finansial-kita | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-di-balik-keputusan-finansial-kita.txt -'"
         expect_exit: 0
         retry: 0
+  - id: Y1
+    depends_on: []
+    impacts: ["chapter pages geopolitik ch01 ch04 ch12, fungsi-manajemen-poac ch08, kenapa-kita-gampang-percaya-hoax ch05 - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Y1:latex-audit-part-1"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts geopolitik-dalam-sejarah-piala-dunia | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/geopolitik-dalam-sejarah-piala-dunia.txt - || exit 1; bun run scripts/check-book-structure.ts fungsi-manajemen-poac | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/fungsi-manajemen-poac.txt - || exit 1; bun run scripts/check-book-structure.ts kenapa-kita-gampang-percaya-hoax | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kita-gampang-percaya-hoax.txt - || exit 1'"
+        expect_exit: 0
+        retry: 0
+  - id: Y2
+    depends_on: []
+    impacts: ["chapter pages kecerdasan-interpersonal ch05 ch10, logika-dan-penalaran-kritis ch06 ch09, neurobiologi-motivasi-dopamin ch02 - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Y2:latex-audit-part-2"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts kecerdasan-interpersonal | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kecerdasan-interpersonal.txt - || exit 1; bun run scripts/check-book-structure.ts logika-dan-penalaran-kritis | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/logika-dan-penalaran-kritis.txt - || exit 1; bun run scripts/check-book-structure.ts neurobiologi-motivasi-dopamin | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/neurobiologi-motivasi-dopamin.txt - || exit 1'"
+        expect_exit: 0
+        retry: 0
+  - id: Y3
+    depends_on: []
+    impacts: ["the heading gate inside bun run build for all books - bun run check:headings"]
+    files: { create: [], modify: [scripts/check-heading-colons.ts], test: [tests/scripts/check-heading-colons.test.ts] }
+    idempotency_key: "Y3:blockquote-subtitle-detector"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-heading-colons.test.ts"
+        expect_exit: 0
+        retry: 0
+      - cmd: "bun run check:headings"
+        expect_exit: 0
+        retry: 0
   - id: V1
-    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9, B10]
+    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9, B10, Y1, Y2, Y3]
     impacts: ["build and suite run by CI and deploy - bun run build"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "V1:integration"
@@ -209,6 +245,7 @@ tasks:
 ## Session checklist
 
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 5, 6, 5, 7, 3, 0, 7, 4, 0
+- [ ] S0 Carry-over from RF3: commit the RF3 merge evidence, tick RF3 S5 and S6, and reopen the RF3 `Close plan` question
 - [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g4.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
 - [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
 - [ ] S4 Verify: `bun run build`, `bun test`, `bun run check:diagrams`, structure output equal to the baseline for every book
@@ -242,6 +279,12 @@ flowchart TD
     B8 --> V1["V1 integration verify"]
     B9 --> V1["V1 integration verify"]
     B10 --> V1["V1 integration verify"]
+    G2 --> Y1["Y1 LaTeX audit part 1"]
+    G2 --> Y2["Y2 LaTeX audit part 2 and dopamin ch02"]
+    G2 --> Y3["Y3 blockquote sub-title detector"]
+    Y1 --> V1
+    Y2 --> V1
+    Y3 --> V1
     V1 --> PR{{"Review, seed, PR, merge gate"}}
 ```
 
@@ -315,6 +358,25 @@ flowchart TD
 - [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book psikologi-di-balik-keputusan-finansial-kita --check` | expect: exit 0 | retry: 0
 - [ ] Step 3: Run | cmd: structure output of psikologi-di-balik-keputusan-finansial-kita equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf4/structure-baseline/psikologi-di-balik-keputusan-finansial-kita.txt` | expect: exit 0 | retry: 0
+
+### Task Y1: LaTeX audit part 1 (RF2 debt sweep)
+
+Acceptance: every display or inline formula in the named chapters follows GEMINI.md section 9 (single backslashes, no blank line inside `$`, display math in `<div>`, no escaped punctuation), read and edited line by line; the built pages show the formulas with single backslashes and no `<em>`; structure unchanged.
+
+- [ ] Step 1: Run | cmd: structure output of the three books equals the RF2 baselines | expect: exit 0 | retry: 0
+
+### Task Y2: LaTeX audit part 2 and the dopamin ch02 sentence (RF2 and RF3 debt sweeps)
+
+Acceptance: as Y1 for kecerdasan-interpersonal ch05 and ch10 and logika-dan-penalaran-kritis ch06 and ch09; neurobiologi-motivasi-dopamin ch02:58 is reworded so the sentence agrees with the formula at ch02:55 (PFC in the denominator).
+
+- [ ] Step 1: Run | cmd: structure output of the three books equals the RF2 and RF3 baselines | expect: exit 0 | retry: 0
+
+### Task Y3: blockquote sub-title detector (RF2 debt sweep)
+
+Acceptance: `check-heading-colons.ts` reports a bold sub-title with a colon inside a blockquote (`> **Analogi: X**`), test first; every violation it then finds is rewritten by the GEMINI.md section 24 rules, or listed for the owner when there are more than ten.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+- [ ] Step 2: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
