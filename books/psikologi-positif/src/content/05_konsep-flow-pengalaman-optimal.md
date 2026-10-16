@@ -30,11 +30,13 @@ Mari kita petakan hubungan ini dalam model sederhana:
 Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan).
 
 - Jika $C > S$: Muncul rasa **Anxiety** (Kecemasan). Tantangan terasa terlalu berat untuk tingkat keterampilanmu.
-- Jika $S > C$: Muncul rasa **Boredom** (Kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
+- Jika $S > C$: Muncul rasa **Relaxation** (Relaksasi), yang dalam sebagian kajian juga disebut *boredom* (kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
 - **Kondisi Flow:** Terbentuk saat $C \approx S$ berada pada level yang cukup tinggi.
    $$\text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}$$
 
 #### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan
+
+Pembagian empat kondisi berikut mengikuti model kuadran (*quadrant model*) yang dipopulerkan Csikszentmihalyi bersama rekan-rekannya, misalnya Massimini dan Carli (1988), seperti diulas Abuhamdeh (2020).
 
 - **Apathy (Apati):** Tantangan rendah dan keterampilan rendah (contoh: menonton televisi tanpa minat).
 - **Relaxation (Relaksasi):** Tantangan rendah namun keterampilan tinggi (contoh: menyelesaikan pekerjaan administratif rutin yang sangat familier).

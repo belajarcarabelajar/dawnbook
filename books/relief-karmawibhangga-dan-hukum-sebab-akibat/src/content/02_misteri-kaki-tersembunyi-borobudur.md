@@ -68,7 +68,7 @@ flowchart TD
 
 ### 4. Bagian yang Masih Terbuka
 
-Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **3 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
+Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **4 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
 
 ### Pelajaran dari Kaki Tersembunyi
 
