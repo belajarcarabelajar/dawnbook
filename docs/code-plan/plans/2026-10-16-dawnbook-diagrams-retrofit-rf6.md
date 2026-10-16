@@ -388,7 +388,18 @@ Acceptance: EWS ch12 Realita values 0.98, 0.35 and 0.72 are either sourced (BMKG
 | W1 | `--diff-guard` accepts bold-only lead-in rewrites; 87 tests |
 | W2 | EWS ch12 "Target kinerja" with an illustrative note; BMKG 2025 timing sourced; Referensi entry added |
 
+## Follow-up evidence
+
+- Q1 (`a55cf11`, `8130f23`): game-theory ch03 uses the ch09 option names (Bertarung, Akomodasi, Tetap Keluar); tonsilektomi ch11 pain row points to the per-source course in ch08 and cites Lavy 1997, Mitchell 2019 and the Bedfordshire NHS leaflet, all in Referensi; ch06 drops the contradicted 45-60 minute total and calls the step durations rough estimates.
+- Q2 (`64be945`): no source states the EWS ch12 POD and FAR figures (BMKG releases, the IDRIP article, Lauterjung 2017 checked), so the column and heading say "Ilustrasi kondisi" and a sentence says only the BMKG timing is sourced.
+- Review of Q1 and Q2: `correct`; its two P3 findings fixed in `8130f23`. After the fixes: `bun run build` exit 0, `bun test` 685 pass, 0 fail, `check:diagrams` 0, D1 seed rerun exit 0 with 0 failure lines.
+
+## Closeout status
+
+- Readiness 2026-10-16: `NEEDS-HUMAN` (exit 3); open NOW 0, open step boxes 0; all tasks PASSED in the runner but carry the `"false"` sentinel; S5 and S6 open until the merge.
+- `Close plan` gate: owner chose "Keep it open" for RF6 and again for RF3 and RF4.
+
 ## Status
 
 - Status: Verification (S0, S2-S4 done)
-- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
+- Resume: PR #161 waits for the `Merge` gate; this is the last retrofit session, so its merge evidence stays as an untracked file in the main checkout for the next session to commit.
