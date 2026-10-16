@@ -1,10 +1,19 @@
 import { expect, test, describe } from "bun:test";
+import { existsSync } from "node:fs";
 import { readFile } from "node:fs/promises";
 import { join } from "node:path";
 
+// output/ is a gitignored build artifact, so a fresh checkout or worktree has no contribute.html.
+const contributeHtmlPath = join(process.cwd(), "output/contribute.html");
+const hasLocalBuild = existsSync(contributeHtmlPath);
+if (!hasLocalBuild) {
+  console.warn(
+    `scrape-shield: skipping the local build test because ${contributeHtmlPath} does not exist; run \`bun run build\` to create it.`,
+  );
+}
+
 describe("Cloudflare Scrape Shield (Email Address Obfuscation) Tests", () => {
-  test("Local build output (output/contribute.html) contains valid contributor email addresses before CDN edge obfuscation", async () => {
-    const contributeHtmlPath = join(process.cwd(), "output/contribute.html");
+  test.skipIf(!hasLocalBuild)("Local build output (output/contribute.html) contains valid contributor email addresses before CDN edge obfuscation", async () => {
     const html = await readFile(contributeHtmlPath, "utf8");
 
     // Verify contributor email links are rendered cleanly in local build
