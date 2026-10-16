@@ -171,8 +171,30 @@ tasks:
       - cmd: "bash -c 'bun run scripts/check-book-structure.ts virtue-ethics-aristoteles | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/virtue-ethics-aristoteles.txt -'"
         expect_exit: 0
         retry: 0
+  - id: W1
+    depends_on: []
+    impacts: ["heading gate --diff-guard used by heading rewrite sessions - bun test tests/scripts/check-heading-colons.test.ts"]
+    files: { create: [], modify: [scripts/check-heading-colons.ts], test: [tests/scripts/check-heading-colons.test.ts] }
+    idempotency_key: "W1:diff-guard-lead-ins"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-heading-colons.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: W2
+    depends_on: []
+    impacts: ["EWS ch12 table - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "W2:ews-target-sendai"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt -'"
+        expect_exit: 0
+        retry: 0
   - id: V1
-    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9]
+    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9, W1, W2]
     impacts: ["build and suite run by CI and deploy - bun run build"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "V1:integration"
@@ -191,6 +213,7 @@ tasks:
 
 ## Session checklist
 
+- [ ] S0 Carry-over from RF5: commit the RF5 merge evidence and tick RF5 S5 and S6
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 0, 5, 15, 4, 1, 3, 3, 0, 3
 - [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g6.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
 - [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
@@ -223,6 +246,10 @@ flowchart TD
     B7 --> V1["V1 integration verify"]
     B8 --> V1["V1 integration verify"]
     B9 --> V1["V1 integration verify"]
+    G2 --> W1["W1 diff-guard lead-ins"]
+    G2 --> W2["W2 EWS Target Sendai header"]
+    W1 --> V1
+    W2 --> V1
     V1 --> PR{{"Review, seed, PR, merge gate"}}
 ```
 
@@ -289,6 +316,18 @@ flowchart TD
 - [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book virtue-ethics-aristoteles` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book virtue-ethics-aristoteles --check` | expect: exit 0 | retry: 0
 - [ ] Step 3: Run | cmd: structure output of virtue-ethics-aristoteles equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf6/structure-baseline/virtue-ethics-aristoteles.txt` | expect: exit 0 | retry: 0
+
+### Task W1: diff-guard accepts lead-in rewrites (RF5 debt sweep)
+
+Acceptance: `check-heading-colons.ts --diff-guard` accepts a changed bold lead-in line when only the bold part changed and the body text after it is identical, and still rejects any other body change; test first.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+
+### Task W2: EWS Target Sendai header (RF5 debt sweep)
+
+Acceptance: the ch12 column header names the real source of its values after a source check against the Sendai Framework and BMKG documents; values unchanged unless a source says otherwise.
+
+- [ ] Step 1: Run | cmd: structure output of the EWS book equals its RF5 baseline | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
