@@ -257,68 +257,68 @@ flowchart TD
 
 ### Task B1: literasi-keuangan
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book literasi-keuangan` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book literasi-keuangan --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of literasi-keuangan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/literasi-keuangan.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book literasi-keuangan` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book literasi-keuangan --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of literasi-keuangan equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/literasi-keuangan.txt` | expect: exit 0 | retry: 0
 
 ### Task B2: logika-dan-penalaran-kritis
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book logika-dan-penalaran-kritis` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book logika-dan-penalaran-kritis --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of logika-dan-penalaran-kritis equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/logika-dan-penalaran-kritis.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book logika-dan-penalaran-kritis` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book logika-dan-penalaran-kritis --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of logika-dan-penalaran-kritis equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/logika-dan-penalaran-kritis.txt` | expect: exit 0 | retry: 0
 
 ### Task B3: matriks-keputusan-decision-matrix
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book matriks-keputusan-decision-matrix` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book matriks-keputusan-decision-matrix --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of matriks-keputusan-decision-matrix equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/matriks-keputusan-decision-matrix.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book matriks-keputusan-decision-matrix` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book matriks-keputusan-decision-matrix --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of matriks-keputusan-decision-matrix equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/matriks-keputusan-decision-matrix.txt` | expect: exit 0 | retry: 0
 
 ### Task B4: mekanisme-koping-dan-manajemen-stres
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book mekanisme-koping-dan-manajemen-stres` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book mekanisme-koping-dan-manajemen-stres --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of mekanisme-koping-dan-manajemen-stres equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/mekanisme-koping-dan-manajemen-stres.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book mekanisme-koping-dan-manajemen-stres` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book mekanisme-koping-dan-manajemen-stres --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of mekanisme-koping-dan-manajemen-stres equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/mekanisme-koping-dan-manajemen-stres.txt` | expect: exit 0 | retry: 0
 
 ### Task B5: memahami-algoritma-x-untuk-pembaca
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book memahami-algoritma-x-untuk-pembaca` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book memahami-algoritma-x-untuk-pembaca --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of memahami-algoritma-x-untuk-pembaca equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/memahami-algoritma-x-untuk-pembaca.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book memahami-algoritma-x-untuk-pembaca` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book memahami-algoritma-x-untuk-pembaca --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of memahami-algoritma-x-untuk-pembaca equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/memahami-algoritma-x-untuk-pembaca.txt` | expect: exit 0 | retry: 0
 
 ### Task B6: menemukan-tujuan-hidup-ikigai
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book menemukan-tujuan-hidup-ikigai` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book menemukan-tujuan-hidup-ikigai --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of menemukan-tujuan-hidup-ikigai equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/menemukan-tujuan-hidup-ikigai.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book menemukan-tujuan-hidup-ikigai` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book menemukan-tujuan-hidup-ikigai --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of menemukan-tujuan-hidup-ikigai equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/menemukan-tujuan-hidup-ikigai.txt` | expect: exit 0 | retry: 0
 
 ### Task B7: metakognisi
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book metakognisi` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book metakognisi --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of metakognisi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/metakognisi.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book metakognisi` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book metakognisi --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of metakognisi equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/metakognisi.txt` | expect: exit 0 | retry: 0
 
 ### Task B8: metodologi-microteaching
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book metodologi-microteaching` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book metodologi-microteaching --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of metodologi-microteaching equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/metodologi-microteaching.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book metodologi-microteaching` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book metodologi-microteaching --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of metodologi-microteaching equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/metodologi-microteaching.txt` | expect: exit 0 | retry: 0
 
 ### Task B9: multiple-intelligences
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book multiple-intelligences` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book multiple-intelligences --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of multiple-intelligences equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/multiple-intelligences.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book multiple-intelligences` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book multiple-intelligences --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of multiple-intelligences equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/multiple-intelligences.txt` | expect: exit 0 | retry: 0
 
 ### Task B10: neurobiologi-motivasi-dopamin
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neurobiologi-motivasi-dopamin` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neurobiologi-motivasi-dopamin --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of neurobiologi-motivasi-dopamin equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/neurobiologi-motivasi-dopamin.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book neurobiologi-motivasi-dopamin` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book neurobiologi-motivasi-dopamin --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of neurobiologi-motivasi-dopamin equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf3/structure-baseline/neurobiologi-motivasi-dopamin.txt` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Execution record
 
