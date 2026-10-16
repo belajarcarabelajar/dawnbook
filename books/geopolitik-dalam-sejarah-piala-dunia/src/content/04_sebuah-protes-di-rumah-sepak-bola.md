@@ -17,6 +17,18 @@ Dari total 16 slot yang tersedia di putaran final, pembagiannya adalah sebagai b
 - **Amerika Utara & Tengah (CONCACAF):** 1 slot
 - **Afrika, Asia, dan Oseania:** Gabungan 1 slot
 
+Jika dijadikan diagram lingkaran, pembagian 16 slot itu tampak jelas timpangnya.
+
+```mermaid
+pie showData
+    accTitle: Pembagian 16 slot Piala Dunia 1966
+    accDescr: Dari 16 slot putaran final Piala Dunia 1966, Eropa mendapat 10 slot, Amerika Latin 4 slot, CONCACAF 1 slot, serta Afrika, Asia, dan Oseania gabungan 1 slot.
+    "Eropa" : 10
+    "Amerika Latin" : 4
+    "Amerika Utara dan Tengah (CONCACAF)" : 1
+    "Afrika, Asia, dan Oseania (gabungan)" : 1
+```
+
 Mari kita lihat ketidakadilan ini melalui ekspresi matematis sederhana mengenai peluang kelolosan:
 
 Jika $S$ adalah jumlah slot dan $C$ adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah: $\\text{Jatah per Benua} = \\frac{1 \\text{ Slot}}{3 \\text{ Benua}} \\approx 0,33 \\text{ Slot/Benua}$

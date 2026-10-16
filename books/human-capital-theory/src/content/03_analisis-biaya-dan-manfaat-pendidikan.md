@@ -94,6 +94,18 @@ Mari bandingkan alur finansial dua lulusan SMA dengan pilihan jalur yang berbeda
 
 Pada tahap awal, Andi tampak unggul secara finansial karena langsung memiliki tabungan. Namun, setelah usia 22 tahun, garis pendapatan Budi melampaui Andi. 
 
+Grafik batang berikut menyandingkan pendapatan tahunan keduanya, sesuai angka pada tabel di atas.
+
+```mermaid
+xychart
+    accTitle: Pendapatan tahunan Andi dan Budi
+    accDescr: Pada usia 18 sampai 22 tahun Andi berpendapatan 40 juta rupiah per tahun dan Budi 0 karena kuliah. Setelah usia 22 tahun Andi tetap 40 juta rupiah, sedangkan Budi naik menjadi 70 juta rupiah per tahun.
+    title "Pendapatan tahunan Andi dan Budi"
+    x-axis ["Andi usia 18–22", "Budi usia 18–22", "Andi pasca usia 22", "Budi pasca usia 22"]
+    y-axis "Rp juta per tahun" 0 --> 80
+    bar [40, 0, 40, 70]
+```
+
 Selisih gaji sebesar Rp 30 Juta per tahun ($70 - 40$) akan menutup total investasi sebesar Rp 240 Juta dalam waktu 8 tahun kerja. Titik temu ini menandai akhir dari masa balik modal (*payback period*) investasi pendidikan Budi.
 
 ---

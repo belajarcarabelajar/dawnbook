@@ -43,6 +43,18 @@ Metode IBR sangat efektif di lingkungan profesional karena secara tegas memisahk
 4. **Mendengar aktif sebelum merespons.** Gunakan empati untuk menangkap alasan mendasar di balik argumen mereka sebelum kamu mulai menjelaskan sudut pandangmu sendiri.
 5. **Menemukan opsi *win-win*.** Cari alternatif ketiga yang memuaskan kebutuhan bersama tanpa ada pihak yang merasa dirugikan.
 
+Kelima langkah IBR tadi bisa kamu ringkas menjadi satu alur kerja.
+
+```mermaid
+flowchart TD
+    accTitle: Langkah praktis penerapan IBR
+    accDescr: Lima langkah IBR secara berurutan, yaitu menempatkan relasi sebagai prioritas utama, memisahkan individu dari masalah teknis, menggali kepentingan bukan posisi, mendengar aktif sebelum merespons, dan menemukan opsi win-win.
+    A["1. Tempatkan relasi sebagai prioritas utama"] --> B["2. Pisahkan individu dari masalah teknis"]
+    B --> C["3. Gali kepentingan, bukan sekadar posisi"]
+    C --> D["4. Dengar aktif sebelum merespons"]
+    D --> E["5. Temukan opsi win-win"]
+```
+
 ## 4. Mengubah Konflik Menjadi Inovasi
 
 Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk melahirkan solusi baru yang segar.

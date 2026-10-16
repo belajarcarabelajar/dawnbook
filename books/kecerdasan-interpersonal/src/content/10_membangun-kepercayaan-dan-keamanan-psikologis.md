@@ -37,6 +37,17 @@ Menurut Timothy R. Clark, *psychological safety* berkembang secara bertahap mela
 3.  **Contributor Safety**: Timbulnya rasa percaya diri untuk menggunakan keahlian pribadi dalam menghasilkan karya nyata, didukung oleh otonomi penuh dari tim.
 4.  **Challenger Safety**: Tingkat tertinggi yang memungkinkan kamu menantang status quo, memberikan masukan kritis terhadap ide atasan, atau menyuarakan kekhawatiran tanpa bayang-bayang pembalasan maupun risiko karier.
 
+Urutan empat tingkatan Clark itu, dari fondasi terendah sampai tingkat tertinggi, tampak seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Empat tahapan psychological safety menurut Clark
+    accDescr: Empat tingkatan berurutan dari Inclusion Safety sebagai tahap awal, lalu Learner Safety, Contributor Safety, hingga Challenger Safety sebagai tingkat tertinggi.
+    A["Inclusion Safety, diterima sebagai bagian tim"] --> B["Learner Safety, bebas bertanya dan bereksperimen"]
+    B --> C["Contributor Safety, berkarya dengan keahlian sendiri"]
+    C --> D["Challenger Safety, berani menantang status quo"]
+```
+
 ## 3. Strategi Praktis Membangun Psychological Safety
 
 Menciptakan ruang kerja yang aman membutuhkan konsistensi perilaku setiap harinya. Langkah-langkah konkret berikut dapat diterapkan oleh siapa saja di dalam tim:

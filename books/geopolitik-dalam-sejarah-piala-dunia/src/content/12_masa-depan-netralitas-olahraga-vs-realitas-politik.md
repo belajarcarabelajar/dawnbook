@@ -16,6 +16,20 @@ Kemudian masuk ke **Era Eksklusi dan Boikot (1960 - 1990-an)**. Politik menjadi 
 
 Di **Era Soft Power dan Branding (2000-an - Sekarang)**, fokus bergeser dari dominasi ideologis ke pencucian citra (*sportswashing*) dan pembangunan citra negara (*nation branding*). Daya tarik budaya dan pengaruh ekonomi kini menjadi instrumen utama.
 
+Ketiga era itu, berikut alat politik yang menonjol di masing-masing, terangkum dalam alur ini.
+
+```mermaid
+timeline
+    accTitle: Tiga era peran politik di Piala Dunia
+    accDescr: Peran politik di Piala Dunia bergeser dari Era Legitimasi Ideologi pada 1930 sampai 1970-an, ke Era Eksklusi dan Boikot pada 1960 sampai 1990-an, lalu ke Era Soft Power dan Branding sejak 2000-an.
+    1930 - 1970-an : Era Legitimasi Ideologi
+                   : Memamerkan keunggulan sistem politik
+    1960 - 1990-an : Era Eksklusi dan Boikot
+                   : Politik menjadi senjata moral
+    2000-an - sekarang : Era Soft Power dan Branding
+                       : Sportswashing dan nation branding
+```
+
 ### Dilema FIFA antara Piagam dan Kenyataan
 
 FIFA selalu memegang prinsip **Netralitas Politik**. Dalam aturan resminya, mereka melarang intervensi pemerintah dalam urusan federasi sepak bola nasional dan melarang simbol-simbol politik di lapangan.
