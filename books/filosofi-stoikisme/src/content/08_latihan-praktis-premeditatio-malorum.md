@@ -61,6 +61,17 @@ Ini adalah bagian terpenting. Saat skenario buruk terjadi dalam pikiran kamu, ta
 
 Jika kamu membayangkan ban bocor di tengah jalan tol, bayangkan kamu keluar dari mobil dengan tenang, menghubungi bantuan, dan menggunakan waktu menunggu untuk membaca buku atau mendengarkan podcast bermanfaat, alih-alih memukul kemudi dengan marah.
 
+Keempat langkah tersebut bisa kamu jalankan berurutan mengikuti alur di bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Empat langkah latihan Premeditatio Malorum
+    accDescr: Pilih skenario dari hal kecil hingga yang lebih menantang, visualisasikan secara detail, gunakan dikotomi kendali, lalu buat rencana cadangan mental.
+    A["Pilih skenario, dari hal kecil hingga yang lebih menantang"] --> B["Visualisasikan secara detail"]
+    B --> C["Gunakan dikotomi kendali"]
+    C --> D["Buat rencana cadangan mental"]
+```
+
 ## Algoritma Logika Stoik
 
 Jika kita menerjemahkan *Premeditatio Malorum* ke dalam logika pemrograman untuk memproses emosi, maka bentuknya akan seperti ini:

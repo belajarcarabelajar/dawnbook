@@ -54,6 +54,20 @@ $$
 
 **Prinsip Pengecualian (Management by Exception):** Manajer tidak perlu memeriksa setiap detail kecil. Manajer cukup memusatkan perhatian pada penyimpangan yang bernilai besar. Jika target penjualan adalah 100 unit dan kamu menjual 99 unit, itu mungkin bukan masalah besar. Namun, jika kamu hanya menjual 50 unit, ini adalah indikasi masalah serius yang membutuhkan perhatian segera.
 
+Seluruh alur pengawasan di atas, dari sasaran Planning sampai prinsip pengecualian, terangkum dalam bagan ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga langkah utama pengawasan
+    accDescr: Standar diturunkan dari sasaran Planning, lalu hasil kerja aktual diukur dan dibandingkan dengan standar; variansi kecil mungkin bukan masalah besar, sedangkan variansi besar membutuhkan perhatian segera.
+    P["Sasaran tahap Planning"] -->|"diturunkan menjadi"| A["A. Penetapan standar kinerja"]
+    A --> B["B. Pengukuran hasil kerja aktual"]
+    B --> C["C. Perbandingan hasil dengan standar"]
+    C --> V{"Variansi bernilai besar?"}
+    V -->|"tidak"| K["Mungkin bukan masalah besar"]
+    V -->|"ya"| S["Membutuhkan perhatian segera"]
+```
+
 ## 3\. Termostat Ruangan
 
 Untuk memahami *Controlling*, bayangkan sebuah termostat di ruangan ber-AC:

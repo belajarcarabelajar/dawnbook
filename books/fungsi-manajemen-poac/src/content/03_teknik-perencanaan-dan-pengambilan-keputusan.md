@@ -50,6 +50,20 @@ Mengambil keputusan adalah tugas inti seorang manajer. Keputusan yang baik tidak
 6. **Memilih Solusi Terbaik:** Menentukan opsi dengan skor paling optimal atau tingkat risiko yang paling bisa ditoleransi.
 7. **Eksekusi dan Evaluasi:** Menjalankan keputusan yang telah diambil, lalu mengukur efektivitasnya secara berkala.
 
+Urutan ketujuh langkah itu dapat kamu telusuri dari atas ke bawah pada diagram ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tujuh langkah pengambilan keputusan rasional
+    accDescr: Model rasional bergerak dari identifikasi masalah, menentukan kriteria, pembobotan kriteria, menyusun alternatif, menganalisis pilihan, memilih solusi terbaik, sampai eksekusi dan evaluasi.
+    A["1. Identifikasi masalah"] --> B["2. Menentukan kriteria keputusan"]
+    B --> C["3. Pembobotan kriteria"]
+    C --> D["4. Menyusun alternatif pilihan"]
+    D --> E["5. Menganalisis pilihan"]
+    E --> F["6. Memilih solusi terbaik"]
+    F --> G["7. Eksekusi dan evaluasi"]
+```
+
 ## 4. Mengambil Keputusan di Tengah Ketidakpastian
 
 Dunia nyata jauh lebih kompleks daripada model matematika. Manajer seringkali harus mengambil keputusan dengan informasi yang tidak lengkap atau kondisi pasar yang fluktuatif. Kondisi ini disebut **Decision Making under Uncertainty**.
