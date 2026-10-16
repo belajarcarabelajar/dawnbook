@@ -1,0 +1,324 @@
+[
+ {
+  "variant": "desktop-dpr1",
+  "type": "flowchart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 254.4,
+  "lateLastLum": 24.9,
+  "freshLastLum": 24.9,
+  "lightLastLum": 254.4,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 232.15,
+   "gt40": 99.88
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "timeline",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 253.3,
+  "lateLastLum": 25.7,
+  "freshLastLum": 25.7,
+  "lightLastLum": 253.3,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 230.69,
+   "gt40": 99.76
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "xychart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 247.3,
+  "lateLastLum": 28.1,
+  "freshLastLum": 28.1,
+  "lightLastLum": 247.3,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 223.76,
+   "gt40": 95.69
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "stateDiagram",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 254.5,
+  "lateLastLum": 24.7,
+  "freshLastLum": 24.7,
+  "lightLastLum": 254.5,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 232.51,
+   "gt40": 99.95
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "sequence",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 253.1,
+  "lateLastLum": 25.8,
+  "freshLastLum": 25.8,
+  "lightLastLum": 253.1,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 230.62,
+   "gt40": 99.8
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "quadrantChart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 253,
+  "lateLastLum": 26.1,
+  "freshLastLum": 26.1,
+  "lightLastLum": 253,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 229.9,
+   "gt40": 99.78
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "desktop-dpr1",
+  "type": "pie",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 246.4,
+  "lateLastLum": 29.3,
+  "freshLastLum": 29.3,
+  "lightLastLum": 246.4,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 219.79,
+   "gt40": 94.43
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "iphone13",
+  "type": "flowchart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 252.8,
+  "lateLastLum": 26.2,
+  "freshLastLum": 26.2,
+  "lightLastLum": 252.8,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 230.1,
+   "gt40": 99.68
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "iphone13",
+  "type": "timeline",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 249.8,
+  "lateLastLum": 28.4,
+  "freshLastLum": 28.4,
+  "lightLastLum": 249.8,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 226.68,
+   "gt40": 98.74
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "iphone13",
+  "type": "xychart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 249.4,
+  "lateLastLum": 27.4,
+  "freshLastLum": 27.4,
+  "lightLastLum": 249.4,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 227.03,
+   "gt40": 97.33
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "iphone13",
+  "type": "stateDiagram",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 251.6,
+  "lateLastLum": 26.7,
+  "freshLastLum": 26.7,
+  "lightLastLum": 251.6,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 230.12,
+   "gt40": 99.46
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "iphone13",
+  "type": "sequence",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 242.8,
+  "lateLastLum": 33.7,
+  "freshLastLum": 33.7,
+  "lightLastLum": 242.8,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 221.23,
+   "gt40": 98.42
+  },
+  "switchAfterPaintMs": 301
+ },
+ {
+  "variant": "iphone13",
+  "type": "quadrantChart",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 247.4,
+  "lateLastLum": 31.3,
+  "freshLastLum": 31.3,
+  "lightLastLum": 247.4,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 221.69,
+   "gt40": 99.4
+  },
+  "switchAfterPaintMs": 300
+ },
+ {
+  "variant": "iphone13",
+  "type": "pie",
+  "theme": "navy",
+  "lateFrames": 2,
+  "lateFirstLum": 220.1,
+  "lateLastLum": 44.4,
+  "freshLastLum": 44.4,
+  "lightLastLum": 220.1,
+  "lateLastVsFreshLast": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "freshVsFresh2": {
+   "mad": 0,
+   "gt40": 0
+  },
+  "lightVsFresh": {
+   "mad": 178.89,
+   "gt40": 76.91
+  },
+  "switchAfterPaintMs": 300
+ }
+]
