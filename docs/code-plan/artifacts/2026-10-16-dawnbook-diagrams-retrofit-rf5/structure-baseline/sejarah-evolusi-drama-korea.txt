@@ -1,0 +1,6 @@
+01_akar-awal-era-drama-radio-dan-kelahiran-televisi.md: opener's first sentence would be truncated in the meta description
+06_modernisasi-narasi-komedi-romantis-dan-melodrama-modern.md: first heading "Modernisasi Narasi Romantic Comedy dan Cinematic Melodrama" differs from SUMMARY title "Modernisasi Narasi Komedi Romantis dan Melodrama Modern"
+10_ekosistem-produksi-peran-penulis-skenario-dan-strategi-ost.md: opener's first sentence would be truncated in the meta description
+12_referensi.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 03_revolusi-tv-berwarna-dan-ekspansi-genre-1970-an-1980-an.md, 11_dampak-budaya-diplomasi-soft-power-dan-masa-depan-k-drama.md
+sejarah-evolusi-drama-korea: 12 chapters, 5 problems

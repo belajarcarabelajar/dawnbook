@@ -1,0 +1,9 @@
+01_pengantar-relief-karmawibhangga.md: opener's first sentence would be truncated in the meta description
+02_misteri-kaki-tersembunyi-borobudur.md: opener's first sentence would be truncated in the meta description
+04_naskah-mahakarmawibhangga.md: opener's first sentence would be truncated in the meta description
+06_gambaran-kehidupan-sosial-jawa-kuno.md: opener's first sentence would be truncated in the meta description
+08_kebajikan-dan-buah-manis-tindakan-mulia.md: opener's first sentence would be truncated in the meta description
+09_visualisasi-alam-surga-dan-neraka.md: opener's first sentence would be truncated in the meta description
+12_dokumentasi-kassian-cephas.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: opener's first sentence would be truncated in the meta description
+relief-karmawibhangga-dan-hukum-sebab-akibat: 13 chapters, 8 problems

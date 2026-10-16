@@ -1,0 +1,7 @@
+02_mengenali-gejala-dan-tanda-tanda-utama-quarter-life-crisis.md: opener's first sentence would be truncated in the meta description
+04_psikologi-perkembangan-dewasa-muda-memahami-fase-emerging-adulthood.md: opener's first sentence would be truncated in the meta description
+06_dampak-media-sosial-dan-perbandingan-sosial-perangkap-highlight-reel-di-usia-20-an.md: first heading "Dampak Media Sosial dan Social Comparison" differs from SUMMARY title "Dampak Media Sosial dan Perbandingan Sosial"
+06_dampak-media-sosial-dan-perbandingan-sosial-perangkap-highlight-reel-di-usia-20-an.md: opener's first sentence would be truncated in the meta description
+09_strategi-koping-dan-manajemen-stres-navigasi-di-tengah-badai-quarter-life-crisis.md: first heading "Coping Strategy dan Manajemen Stres" differs from SUMMARY title "Strategi Koping dan Manajemen Stres"
+13_referensi.md: opener's first sentence would be truncated in the meta description
+quarter-life-crisis: 13 chapters, 6 problems
