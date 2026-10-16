@@ -1,0 +1,6 @@
+05_mengapa-pengalaman-setiap-orang-berbeda.md: opener's first sentence would be truncated in the meta description
+07_fase-4-tahap-adaptasi-dan-penyesuaian.md: opener's first sentence would be truncated in the meta description
+08_strategi-koping-dan-manajemen-stres-budaya.md: opener's first sentence would be truncated in the meta description
+12_membangun-kecerdasan-lintas-budaya.md: opener's first sentence would be truncated in the meta description
+13_referensi.md: opener's first sentence would be truncated in the meta description
+gegar-budaya: 13 chapters, 5 problems
