@@ -255,6 +255,14 @@ This file contains critical architectural decisions and strict rules for the Daw
   ```
 - **Revert:** remove section 25 from this file. The rule is enforced by `scripts/check-diagrams.ts` (gate) and fed by `scripts/render-diagrams.ts` (renderer); a full revert also removes them, their `package.json` scripts and the build step.
 
+## 26. Cloudflare Rocket Loader and First-Paint Scripts (Measured 2026-10-16)
+- **What production does:** Rocket Loader is on for the zone. It rewrites every `<script>` that lacks `data-cfasync="false"` into a deferred type and runs it after the page has painted. A local mdBook build never passes through it, so a local check cannot show this.
+- **The failure it caused:** mdBook's theme bootstrap ran 450 to 1000 ms after first paint, so every book page painted the fallback theme (light, or coal on a dark OS) and then switched to the reader's theme. Readers saw it as Mermaid diagrams that did not match the theme, different on each chapter.
+- **Rule:** a script that must run before paint carries `data-cfasync="false"`, and so does every script it reads globals from. Marking only the mdBook bootstrap breaks the page, because it reads `default_light_theme` from the head script. mdBook's three theme scripts are marked in the post-build pass (`markThemeScriptsCfAsync` in `scripts/inject-gating.ts`), and the build fails when a page lacks one of them. MathJax (section 10) and the analytics tags are marked for the same reason.
+- **Verification:** check first-paint behaviour (theme, paywall hide and reveal, sidebar) on the live page or on a replay with the real `rocket-loader.min.js`, never only on `output/`. Judge the painted theme by the resolved `--bg` colour, not the `<html>` class: the dark-OS fallback (`html:not(.js)`) has no theme class. Harnesses: `docs/code-plan/spikes/2026-10-16-diagram-theme-contrast/` (colour probe `C10/probe-paint-bg.ts`).
+- **Still deferred as of 2026-10-16:** the paywall hide and reveal scripts (`books/shared-script.js`, the anti-FOUC script in `scripts/inject-gating.ts`) and mdBook's sidebar scripts. Mark a dependent group together or not at all.
+- **Revert:** remove this section; the code side is `markThemeScriptsCfAsync` and its call in `injectSeoAndGating`.
+
 ---
 **Last Updated:** Ensure you read this file before making sweeping changes to CSS, mdBook configurations, or progress tracking logic to avoid returning the project to "factory defaults" or introducing regressions.
 
