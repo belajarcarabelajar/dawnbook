@@ -33,7 +33,7 @@ Fungsinya terbagi dua: *monitoring* kontinu dan *forecasting* prediktif. Monitor
 Karakteristik layanan yang kuat:
 
 * **Akurasi dan kecepatan**. BMKG menargetkan peringatan gempa kurang dari 5 menit. Keterlambatan 10 menit bisa menghapus waktu evakuasi di dekat pantai.
-* **Ambang kuantitatif**. Status *waspada* ke *siaga* harus berdasar angka jelas, misalnya curah hujan \\( 100 \, mm \\) dalam 3 jam atau kenaikan muka air \\( 50 \, cm \\) per jam.
+* **Ambang kuantitatif**. Status *waspada* ke *siaga* harus berdasar angka jelas, misalnya curah hujan \\( 100 \text{ mm} \\) dalam 3 jam atau kenaikan muka air \\( 50 \text{ cm} \\) per jam.
 * **Redundansi**. Satu sensor mati tidak boleh membuat sistem buta.
 * **Validasi silang** untuk menekan *false alarm*.
 
