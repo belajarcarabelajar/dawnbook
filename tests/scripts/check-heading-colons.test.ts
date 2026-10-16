@@ -615,6 +615,83 @@ describe("check-heading-colons", () => {
       expect(run(["--root", tmp, "--diff-guard", "HEAD", "--books", "b"]).code).toBe(1);
     });
 
+    describe("bold lead-ins followed by body text", () => {
+      const CH = "books/b/src/content/01_a.md";
+      const guard = (before: string, after: string) => {
+        writeBook(tmp, "b", { chapters: { "01_a.md": before } });
+        commitBase(tmp);
+        fs.writeFileSync(path.join(tmp, CH), after);
+        return run(["--root", tmp, "--diff-guard", "HEAD"]);
+      };
+
+      it("passes when only the bold part of a lead-in changed", () => {
+        const r = guard(
+          "# Bab\n\n**Analogi: Klub** Bayangkan sebuah liga.\n\nTeks.\n",
+          "# Bab\n\n**Klub** Bayangkan sebuah liga.\n\nTeks.\n",
+        );
+        expect(r.out + r.err).not.toContain("+**Klub**");
+        expect(r.code).toBe(0);
+      });
+
+      it("passes for a lead-in inside a blockquote", () => {
+        const r = guard(
+          "# Bab\n\n> **Kasus: Toko Kecil** Pemilik toko menghitung stok.\n",
+          "# Bab\n\n> **Toko Kecil** Pemilik toko menghitung stok.\n",
+        );
+        expect(r.code).toBe(0);
+      });
+
+      it("passes when two adjacent lead-ins changed in one hunk", () => {
+        const r = guard(
+          "# Bab\n\n**Analogi: Klub** Satu.\n**Kasus: Toko** Dua.\n",
+          "# Bab\n\n**Klub** Satu.\n**Toko** Dua.\n",
+        );
+        expect(r.code).toBe(0);
+      });
+
+      it("fails when the lead-in rewrite also edits the body", () => {
+        const r = guard(
+          "# Bab\n\n**Analogi: Klub** Bayangkan sebuah liga.\n",
+          "# Bab\n\n**Klub** Bayangkan sebuah kompetisi.\n",
+        );
+        expect(r.code).toBe(1);
+        expect(r.out).toContain(`${CH}:3 +**Klub** Bayangkan sebuah kompetisi.`);
+      });
+
+      it("fails when only the body after an unchanged lead-in changed", () => {
+        const r = guard("# Bab\n\n**Klub** Teks lama.\n", "# Bab\n\n**Klub** Teks baru.\n");
+        expect(r.code).toBe(1);
+      });
+
+      it("fails when a plain body line gains a bold lead-in", () => {
+        const r = guard("# Bab\n\nBayangkan sebuah liga.\n", "# Bab\n\n**Klub** Bayangkan sebuah liga.\n");
+        expect(r.code).toBe(1);
+      });
+
+      it("fails when the lead-in moves out of a blockquote", () => {
+        const r = guard("# Bab\n\n> **Kasus: Toko** Isi.\n", "# Bab\n\n**Toko** Isi.\n");
+        expect(r.code).toBe(1);
+      });
+
+      it("fails when a lead-in inside a fenced block changed", () => {
+        const r = guard(
+          "# Bab\n\n```md\n**Analogi: Klub** Isi.\n```\n",
+          "# Bab\n\n```md\n**Klub** Isi.\n```\n",
+        );
+        expect(r.code).toBe(1);
+      });
+
+      it("still fails on another body line changed next to a valid lead-in rewrite", () => {
+        const r = guard(
+          "# Bab\n\n**Analogi: Klub** Isi.\n\nBadan lama.\n",
+          "# Bab\n\n**Klub** Isi.\n\nBadan baru.\n",
+        );
+        expect(r.code).toBe(1);
+        expect(r.out).toContain(`${CH}:5 +Badan baru.`);
+        expect(r.out).not.toContain("+**Klub**");
+      });
+    });
+
     it("exits 2 for an unknown ref", () => {
       writeBook(tmp, "b");
       commitBase(tmp);
