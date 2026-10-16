@@ -28,12 +28,12 @@ Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada 
 
 ### 2. Arsitektur Kelembagaan InaTEWS
 
-Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun pasca tsunami Aceh 2004 melalui Instruksi Presiden, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai.
+Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun sejak 2005 sebagai respons atas tsunami Aceh 2004 dan diluncurkan Presiden pada 11 November 2008, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai. Pembagian perannya berpijak pada arahan Presiden dalam jumpa pers 20 Juli 2006: lima menit pertama setelah gempa adalah milik BMKG untuk menerbitkan peringatan, sedangkan penyampaian ke masyarakat menjadi tanggung jawab institusi terkait.
 
 Alur InaTEWS dapat kamu pahami sebagai rantai komando empat tahap:
 
-1. **Deteksi:** Jaringan seismometer dan GPS BMKG menangkap gempa dalam 2 sampai 3 menit.
-2. **Analisis:** Decision Support System BMKG menentukan potensi tsunami dan status ancaman, sehingga peringatan pertama terbit paling lambat 5 menit setelah gempa.
+1. **Deteksi:** Jaringan seismometer BMKG merekam gempa, dan lokasi sumbernya dapat ditentukan dalam 3 menit pertama.
+2. **Analisis:** Decision Support System BMKG memadukan data seismik, GPS, buoy, dan tide gauge untuk menentukan potensi tsunami dan status ancaman, sehingga peringatan pertama terbit paling lambat 5 menit setelah gempa.
 3. **Diseminasi:** Peringatan diteruskan ke BNPB, BPBD, media, dan operator telekomunikasi untuk SMS blast dan TV overlay.
 4. **Respons:** Kepala daerah dan komunitas memutuskan evakuasi berdasarkan SOP lokal.
 

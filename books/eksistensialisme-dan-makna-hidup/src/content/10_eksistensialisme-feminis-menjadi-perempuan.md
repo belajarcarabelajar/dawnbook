@@ -49,7 +49,7 @@ Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi 
 
 Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
 
-**Skenario: Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang sangat berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
+**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang sangat berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
 
 Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya demi mematuhi apa yang ia yakini sebagai "kodrat perempuan," ia sesungguhnya sedang terjebak dalam *Bad Faith* atau keyakinan buruk.
 

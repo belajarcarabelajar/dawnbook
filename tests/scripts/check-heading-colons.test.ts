@@ -157,7 +157,7 @@ describe("check-heading-colons", () => {
       expect(r.exempted).toEqual([{ line: 3, text: "Analogi: Pilot", reason: "kutipan judul resmi" }]);
     });
 
-    it("scanContent flags a bold title that holds italic emphasis, and keeps two bold blocks alone", () => {
+    it("scanContent flags a bold title that holds italic emphasis, and only the leading block of two bold blocks", () => {
       const md = [
         "**Skenario: *Burnout* di Tempat Kerja**",
         "> **Refleksi Kritis: Alokasi Modal Manusia vs *Brain Drain***",
@@ -167,7 +167,28 @@ describe("check-heading-colons", () => {
       expect(scanContent(md).violations).toEqual([
         { line: 1, text: "Skenario: *Burnout* di Tempat Kerja" },
         { line: 2, text: "Refleksi Kritis: Alokasi Modal Manusia vs *Brain Drain*" },
+        { line: 3, text: "Satu: bold" },
       ]);
+    });
+
+    it("scanContent flags a bold lead-in with an inner colon followed by body text (owner decision 2026-10-16)", () => {
+      const md = [
+        "**Analogi: Klub Eksklusif yang Rusak** Bayangkan sebuah liga.",
+        "> **Studi Kasus: Tim X** Teks kutipan.",
+        "**Penting:** teks sesudahnya",
+        "**Contoh Soal**: teks sesudahnya",
+        "**Contoh Soal:**",
+        "**Memakai `dict: str` di Python** lalu teks",
+        "**Rumus $a: b$ sederhana** lalu teks",
+        "**Judul Buku: Sub** dikutip apa adanya. <!-- heading-colon-ok: judul karya yang dikutip -->",
+        "",
+      ].join("\n");
+      const r = scanContent(md);
+      expect(r.violations).toEqual([
+        { line: 1, text: "Analogi: Klub Eksklusif yang Rusak" },
+        { line: 2, text: "Studi Kasus: Tim X" },
+      ]);
+      expect(r.exempted).toEqual([{ line: 8, text: "Judul Buku: Sub", reason: "judul karya yang dikutip" }]);
     });
 
     it("scanContent flags a bold sub-title alone on a blockquote line, but not blockquote lead-ins or labels", () => {
@@ -188,13 +209,12 @@ describe("check-heading-colons", () => {
       ]);
     });
 
-    it("scanContent leaves inline bold lead-ins, trailing-colon labels, long callouts and fences alone", () => {
+    it("scanContent leaves trailing-colon lead-ins, trailing-colon labels, long callouts and fences alone", () => {
       const long = `**Penting: ${"kalimat panjang ".repeat(8)}**`;
       const md = [
         "**Penting:** teks sesudahnya di baris yang sama",
         "**Contoh Soal:**",
         "**Tanpa colon sama sekali**",
-        "**Awal: bold** lalu teks lain",
         long,
         "```",
         "**Di dalam: kode**",

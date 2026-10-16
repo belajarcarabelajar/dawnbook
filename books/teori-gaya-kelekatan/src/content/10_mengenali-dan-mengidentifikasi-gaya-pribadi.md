@@ -76,7 +76,7 @@ Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi ka
 
 Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat dalam dinamika pekerjaan.
 
-**Studi Kasus: Budi dan Proyek Tim** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Di saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
+**Budi dan Proyek Tim** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Di saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
 
 **Analisis Pola:** Perilaku Budi menunjukkan gaya **Cemas-Preoccupied**. Kebutuhannya terhadap validasi luar sangat tinggi. Kritik baginya terasa seperti penolakan, memicu ketakutan mendalam akan ketidakmampuan diri. Pola ini sering kali berakar dari masa kecil ketika apresiasi hanya diberikan saat anak menunjukkan prestasi.
 

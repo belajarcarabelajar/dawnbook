@@ -70,7 +70,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 
 Dalam dunia nyata, pemahaman tentang spektrum kontinu ini sangat krusial dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
 
-**Skenario: Medis (Brachytherapy)** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
+**Brachytherapy Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
 
 - Partikel beta dengan energi rendah akan berhenti di permukaan kulit (dosis permukaan tinggi).
 - Partikel beta dengan energi tinggi akan menembus lebih dalam ke tumor. Dengan memahami kurva spektrum energi, fisikawan medis dapat menghitung **Dosis Rata-rata** ($\bar{E}$), yang biasanya bernilai sekitar sepertiga dari $E_{\text{max}}$ ($E_{\text{avg}} \approx \frac{1}{3} E_{\text{max}}$).

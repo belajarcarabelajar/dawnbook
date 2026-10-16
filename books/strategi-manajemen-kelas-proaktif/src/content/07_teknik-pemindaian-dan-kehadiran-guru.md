@@ -59,9 +59,9 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 
 ## Menulis di Papan Tulis dan Membantu Siswa Individual
 
-**Skenario A: Saat Menulis di Papan Tulis** *Salah:* Guru menulis penjelasan panjang di papan tulis selama 5 menit tanpa menoleh ke belakang. Siswa mulai melempar kertas. *Proaktif:* Guru menulis satu kalimat, lalu menoleh sebentar sambil memindai kelas (scanning), memberikan senyuman pada siswa yang mencatat, lalu melanjutkan menulis.
+**Saat Menulis di Papan Tulis** *Salah:* Guru menulis penjelasan panjang di papan tulis selama 5 menit tanpa menoleh ke belakang. Siswa mulai melempar kertas. *Proaktif:* Guru menulis satu kalimat, lalu menoleh sebentar sambil memindai kelas (scanning), memberikan senyuman pada siswa yang mencatat, lalu melanjutkan menulis.
 
-**Skenario B: Membantu Siswa Individual** *Salah:* Guru berlutut di samping meja satu siswa dan memunggungi sisa kelas lainnya. Kelas mulai berisik di sisi lain. *Proaktif:* Guru berlutut atau berdiri di samping siswa tersebut, tetapi memposisikan punggungnya menghadap tembok, sehingga matanya tetap bisa menyapu seluruh ruangan.
+**Saat Membantu Siswa Individual** *Salah:* Guru berlutut di samping meja satu siswa dan memunggungi sisa kelas lainnya. Kelas mulai berisik di sisi lain. *Proaktif:* Guru berlutut atau berdiri di samping siswa tersebut, tetapi memposisikan punggungnya menghadap tembok, sehingga matanya tetap bisa menyapu seluruh ruangan.
 
 ## Strategi Implementasi
 

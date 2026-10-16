@@ -94,7 +94,7 @@ Dalam skenario di atas, meskipun iklan "Luxury Watch" memiliki bayaran (bid) ter
 
 ### 5. Keranjang Belanja yang Ditinggalkan
 
-**Skenario: Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
+**Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
 
 - **Aksi Algoritma:** Algoritma segera memperbarui vektor pengguna dengan tag "Parenting" dan "High Intent".
 - **Prediksi Real-Time:** Dalam hitungan detik, saat pengguna tersebut membuka portal berita, algoritma penargetan bekerja sama dengan jaringan iklan untuk menampilkan iklan diskon popok atau susu formula dari merek kompetitor.

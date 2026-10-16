@@ -59,6 +59,17 @@ Konsep yang tidak kalah menarik dari teori ini adalah **Spiral ke Atas (The Upwa
 - **Pembangunan sumber daya**: Tindakan baik ini mempererat hubungan sosialmu dengan orang lain (*build*).
 - **Kelanjutan spiral**: Relasi yang semakin kuat memicu emosi positif baru, yang kemudian memutar kembali siklus ini ke tingkat yang lebih tinggi.
 
+Perputaran spiral itu tampak pada siklus di bawah ini.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus spiral ke atas
+    accDescr: Emosi positif seperti rasa syukur membuat pikiran meluas dan lebih peka terhadap peluang berbuat baik, tindakan baik mempererat hubungan sosial, lalu relasi yang makin kuat memicu emosi positif baru dan siklus berputar kembali ke tingkat yang lebih tinggi.
+    A["Emosi positif, seperti rasa syukur"] --> B["Pikiran meluas (broaden), lebih peka pada peluang berbuat baik"]
+    B --> C["Tindakan baik mempererat hubungan sosial (build)"]
+    C -->|"relasi yang makin kuat memicu emosi positif baru"| A
+```
+
 Sebagai ilustrasi praktis: bayangkan saat kamu memulai hari dengan obrolan ringan yang menyenangkan di kantor. Secara tidak sadar, kamu menjadi lebih produktif sepanjang hari dan lebih sabar saat menghadapi kemacetan di jalan pulang. Kejadian sederhana tersebut merupakan contoh nyata bagaimana spiral ke atas sedang bekerja.
 
 ## 5. Emosi Positif Utama dan Fungsinya

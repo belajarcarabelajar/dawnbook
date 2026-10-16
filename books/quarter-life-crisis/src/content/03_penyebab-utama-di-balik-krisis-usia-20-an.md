@@ -36,7 +36,7 @@ Transisi dari dunia pendidikan ke dunia profesional adalah salah satu lompatan p
 2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
 3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, menciptakan perasaan tidak kompeten yang mendalam.
 
-**Analogi: Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat total.*
+**Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat total.*
 
 ## 3\. Pergeseran Peran dalam Hubungan Interpersonal
 
@@ -56,7 +56,7 @@ Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban
 
 ## Si Lulusan Terbaik yang Kebingungan
 
-**Skenario: "Si Lulusan Terbaik yang Kebingungan"** *Budi adalah lulusan terbaik di jurusannya. Begitu lulus, ia diterima di perusahaan ternama. Namun, setelah 6 bulan, Budi merasa hampa. Ia merasa pekerjaannya tidak bermakna, ia merindukan teman-teman kuliahnya yang kini tersebar, dan ia merasa tertekan melihat unggahan sepupunya yang sudah membeli rumah.*
+**Kisah Budi** *Budi adalah lulusan terbaik di jurusannya. Begitu lulus, ia diterima di perusahaan ternama. Namun, setelah 6 bulan, Budi merasa hampa. Ia merasa pekerjaannya tidak bermakna, ia merindukan teman-teman kuliahnya yang kini tersebar, dan ia merasa tertekan melihat unggahan sepupunya yang sudah membeli rumah.*
 
 **Analisis Penyebab:**
 

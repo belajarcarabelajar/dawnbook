@@ -36,6 +36,16 @@ Bagaimana mungkin penderitaan menghasilkan pertumbuhan? Bayangkan keyakinanmu te
 - **Guncangan Seismik:** Krisis hebat datang seperti gempa bumi yang meruntuhkan bangunan mental tersebut.
 - **Rekonstruksi:** Di sinilah PTG terjadi. Saat kita berdiri di atas puing-puing, kita terpaksa membangun kembali bangunan mental yang lebih kokoh, lebih luas, dan lebih tahan gempa.
 
+Urutan dari bangunan mental lama hingga rekonstruksinya terangkum dalam alur ini.
+
+```mermaid
+flowchart LR
+    accTitle: Mekanisme The Seismic Shattering
+    accDescr: Dunia yang diasumsikan sebelum krisis diruntuhkan oleh guncangan seismik berupa krisis hebat, lalu disusul rekonstruksi bangunan mental yang lebih kokoh, tempat PTG terjadi.
+    A["Dunia yang Diasumsikan"] -->|"krisis hebat datang"| B["Guncangan Seismik"]
+    B -->|"bangunan mental runtuh"| C["Rekonstruksi (PTG terjadi)"]
+```
+
 *Apakah ada keyakinan lamamu yang harus "runtuh" terlebih dahulu sebelum kamu bisa melihat perspektif yang lebih luas hari ini?*
 
 ## 4. Logoterapi Viktor Frankl

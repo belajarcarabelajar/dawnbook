@@ -86,9 +86,9 @@ flowchart LR
 
 Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 
-**Skenario 1: Calon Pendidik (Pre-service)** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
+**Calon Pendidik (Pre-service)** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
 
-**Skenario 2: Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
+**Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
 
 ## Filosofi Utama Microteaching
 

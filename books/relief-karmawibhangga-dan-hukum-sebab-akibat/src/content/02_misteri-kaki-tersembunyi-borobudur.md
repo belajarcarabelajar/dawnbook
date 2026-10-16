@@ -53,9 +53,22 @@ Setelah ditemukan oleh Ijzerman, pemerintah Hindia Belanda menyadari pentingnya 
 - **Peran Kassian Cephas:** Fotografer pribumi pertama, Kassian Cephas, ditugaskan untuk memotret ke-160 panel tersebut. Inilah satu-satunya catatan visual lengkap yang kita miliki saat ini.
 - **Penutupan Permanen:** Setelah didokumentasikan, batu-batu tersebut disusun kembali menutupi relief hingga hari ini.
 
+Jika dirunut dari penemuan sampai penutupan kembali, urutan kejadiannya tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Dari penemuan sampai penutupan kembali
+    accDescr: Ijzerman mengamati kejanggalan susunan batu pada 1885, menggali kecil di sudut tenggara, dan menemukan relief beserta inskripsi. Pada 1890 sampai 1891 struktur tambahan dibongkar bertahap, Kassian Cephas memotret 160 panel, lalu batu disusun kembali menutupi relief.
+    A["Ijzerman mengamati kejanggalan susunan batu (1885)"] --> B["Penggalian kecil di sudut tenggara"]
+    B --> C["Relief dan inskripsi ditemukan"]
+    C --> D["Pembongkaran bertahap (1890-1891)"]
+    D --> E["Kassian Cephas memotret 160 panel"]
+    E --> F["Batu disusun kembali menutupi relief"]
+```
+
 ### 4. Bagian yang Masih Terbuka
 
-Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **3 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
+Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **4 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
 
 ### Pelajaran dari Kaki Tersembunyi
 

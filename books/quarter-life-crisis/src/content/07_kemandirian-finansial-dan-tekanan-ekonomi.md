@@ -63,6 +63,17 @@ Gunakan prinsip ini untuk mengatur aliran danamu secara sistematis:
 - **30% untuk Keinginan (Wants):** Hiburan dan gaya hidup.
 - **20% untuk Tabungan & Utang (Savings/Debt):** Dana darurat atau cicilan.
 
+Kalau ketiga pos itu kamu gambar dalam satu lingkaran, porsinya tampak seperti ini.
+
+```mermaid
+pie title Aturan 50/30/20
+    accTitle: Pembagian pendapatan menurut aturan 50/30/20
+    accDescr: Lima puluh persen untuk kebutuhan, tiga puluh persen untuk keinginan, dan dua puluh persen untuk tabungan dan utang.
+    "Kebutuhan (Needs)" : 50
+    "Keinginan (Wants)" : 30
+    "Tabungan & Utang" : 20
+```
+
 Jika kamu merasa 50% tidak cukup untuk kebutuhan, mampukah kamu menekan bagian 'Wants' untuk sementara, atau apakah kamu perlu mencari tambahan pendapatan?
 
 ### B. Membangun Dana Darurat (Emergency Fund)

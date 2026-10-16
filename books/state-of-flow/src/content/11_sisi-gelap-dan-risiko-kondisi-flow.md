@@ -8,7 +8,7 @@ Jika tidak dikelola dengan bijak, pengejaran terhadap kondisi flow bisa berubah 
 
 Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf yang sangat kuat: **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
 
-**Analogi: Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan yang luar biasa. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
+**Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan yang luar biasa. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
 
 - **Kecanduan Dopamin:** Karena perasaan yang dihasilkan sangat menyenangkan (euforia), seseorang bisa menjadi "pecandu flow". Mereka mungkin mulai mengabaikan tanggung jawab dasar hanya untuk mengejar sensasi "berada di zona tersebut".
 - **Aktivitas Berisiko:** Untuk mendapatkan level flow yang sama, seseorang mungkin mencari tantangan yang jauh lebih berbahaya (misalnya dalam olahraga ekstrem) karena tantangan lama tidak lagi memberikan stimulasi yang cukup.

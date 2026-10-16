@@ -8,7 +8,7 @@ Selamat datang di dunia **Bias Kognitif**. Jika *logical fallacies* (sesat pikir
 
 **Bias kognitif** adalah kecenderungan psikologis yang menyebabkan penyimpangan dalam pertimbangan dan pengambilan keputusan. Ini adalah jalan pintas mental (*heuristik*) yang digunakan otak untuk memproses informasi dengan cepat.
 
-> **Analogi: Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
+> **Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
 
 Otak kita berevolusi untuk bertahan hidup di alam liar, di mana keputusan cepat lebih penting daripada keputusan yang akurat secara statistik. Namun, di dunia modern yang kompleks, jalan pintas ini sering kali justru menyesatkan kita.
 

@@ -10,7 +10,7 @@ Untuk memahami apa artinya hidup selaras dengan alam, kita harus terlebih dahulu
 
 Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau. Sebaliknya, alam semesta adalah sebuah organisme yang hidup, teratur, dan rasional. Penggerak keteraturan ini disebut *Logos*.
 
-**Analogi: Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
+**Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
 
 ### Karakteristik Logos
 

@@ -62,7 +62,7 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 
 ### 5. Perubahan Haluan Maya
 
-**Studi Kasus: Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
+**Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
 
 **Langkah Navigasi Identitas Maya:**
 

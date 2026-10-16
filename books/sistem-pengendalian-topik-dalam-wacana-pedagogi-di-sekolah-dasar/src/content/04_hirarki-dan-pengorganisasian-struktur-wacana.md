@@ -17,6 +17,18 @@ Sinclair dan Coulthard membagi struktur percakapan kelas menjadi lima tingkatan 
 4. **Gerakan (*Move*)**: Kontribusi individual dalam satu pertukaran, seperti memberi inisiasi, memberikan jawaban, atau mengevaluasi respons.
 5. **Tindak Tutur (*Act*)**: Unit komunikasi terkecil berupa klausa atau kalimat yang memiliki fungsi pragmatis spesifik, seperti menyapa, bertanya, menegaskan, atau memuji.
 
+Susunan kelima tingkatan itu, dari unit tertinggi sampai terkecil, bisa kamu lihat pada diagram ini.
+
+```mermaid
+flowchart TD
+    accTitle: Hierarki struktur wacana Sinclair dan Coulthard
+    accDescr: Lima tingkatan wacana kelas dari yang tertinggi, yaitu pelajaran, transaksi, pertukaran, gerakan, sampai tindak tutur. Setiap tingkatan dibentuk oleh unit di tingkat bawahnya.
+    A["Pelajaran (Lesson)"] -->|"dibentuk oleh"| B["Transaksi (Transaction)"]
+    B -->|"dibentuk oleh"| C["Pertukaran (Exchange)"]
+    C -->|"dibentuk oleh"| D["Gerakan (Move)"]
+    D -->|"dibentuk oleh"| E["Tindak Tutur (Act)"]
+```
+
 ---
 
 ### Pola Pemulai-Respons-Komentar (IRF Pattern)

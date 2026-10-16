@@ -49,17 +49,19 @@ Rust menyusun kode melalui **module tree**. Struktur hierarki ini sangat mirip d
 
 Sebagai contoh, jika kita membangun sistem manajemen restoran, visualisasi module tree akan tampak seperti berikut:
 
-```text
-crate (Root)
- ├── front_of_house (Module)
- │    ├── hosting (Sub-module)
- │    │    └── seat_at_table (Function)
- │    └── serving (Sub-module)
- │         ├── take_order
- │         └── serve_order
- └── back_of_house (Module)
-      ├── cooking
-      └── washing
+```mermaid
+flowchart TD
+    accTitle: Module tree sistem manajemen restoran
+    accDescr: Crate sebagai root membawahi module front_of_house dan back_of_house. Front_of_house berisi sub-module hosting dengan function seat_at_table serta sub-module serving dengan take_order dan serve_order. Back_of_house berisi cooking dan washing.
+    R["crate (Root)"] --> F["front_of_house (Module)"]
+    R --> K["back_of_house (Module)"]
+    F --> H["hosting (Sub-module)"]
+    F --> S["serving (Sub-module)"]
+    H --> HS["seat_at_table (Function)"]
+    S --> ST["take_order"]
+    S --> SO["serve_order"]
+    K --> KC["cooking"]
+    K --> KW["washing"]
 ```
 
 Pemisahan `hosting` dan `serving` ke dalam sub-module yang berbeda di bawah `front_of_house` bertujuan agar tanggung jawab masing-masing bagian terdefinisi dengan jelas. Ketika kamu perlu memperbarui logika pelayanan restoran, kamu cukup berfokus pada module `serving` tanpa harus terganggu oleh kode penerimaan tamu di module `hosting`.

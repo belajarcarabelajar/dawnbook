@@ -36,7 +36,7 @@ timeline
 
 FIFA selalu memegang prinsip **Netralitas Politik**. Dalam aturan resminya, mereka melarang intervensi pemerintah dalam urusan federasi sepak bola nasional dan melarang simbol-simbol politik di lapangan.
 
-**Analogi: Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan di mana para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," namun pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
+**Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan di mana para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," namun pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
 
 **Tantangan Utama FIFA di Masa Depan:**
 

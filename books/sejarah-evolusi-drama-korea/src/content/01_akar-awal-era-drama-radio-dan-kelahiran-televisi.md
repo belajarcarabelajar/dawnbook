@@ -39,6 +39,18 @@ Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *Th
 
 Pada masa itu, televisi adalah barang mewah yang sangat mahal, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 3.000 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
 
+Tonggak-tonggak dari siaran radio pertama sampai televisi pertama itu bisa kamu lihat ringkas pada garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Dari radio JODK ke HLKZ-TV
+    accDescr: Garis waktu tonggak awal siaran Korea, dari berdirinya JODK dan drama radio pertama pada 1927, kemerdekaan 1945, Perang Korea 1950 sampai 1953, hingga drama radio Cheongsilhongsil dan mengudaranya HLKZ-TV pada 1956.
+    1927 : JODK berdiri, 16 Februari : Drama radio pertama Kkot-jang-su
+    1945 : Kemerdekaan Korea
+    1950-1953 : Perang Korea
+    1956 : Drama radio Cheongsilhongsil menjadi hit : HLKZ-TV mengudara, 12 Mei
+```
+
 ## 4. Radio vs. Televisi Awal
 
 Berikut adalah perbedaan mendasar dalam produksi drama pada masa transisi tersebut:

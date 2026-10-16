@@ -40,7 +40,7 @@ Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semaki
 
 Dalam situasi yang rumit, aturan seringkali gagal. Di sinilah **Kebijaksanaan Praktis (Phronesis)** berperan sebagai sistem navigasi kamu.
 
-**Studi Kasus: Dilema Kejujuran** Seorang teman bertanya apakah presentasinya bagus, padahal menurut kamu sangat buruk.
+**Dilema Kejujuran** Seorang teman bertanya apakah presentasinya bagus, padahal menurut kamu sangat buruk.
 
 - **Aturan Kaku (Deontologi):** "Harus jujur, katakan itu buruk." (Mungkin menyakiti perasaan secara tidak perlu).
 - **Etika Kebajikan:** Gunakan *Phronesis*. Tujuannya adalah membantu teman tumbuh (Kebajikan: Kebaikan hati + Kejujuran).

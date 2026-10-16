@@ -70,7 +70,7 @@ $$
 \text{Gain} = \frac{\text{Kecepatan Gerakan Mata}}{\text{Kecepatan Gerakan Kepala}}
 $$
 
-- $\text{Gain}$ yang sempurna bernilai $-1{,}0$ (atau $1{,}0$ dalam nilai mutlak).
+- $\text{Gain}$ yang sempurna bernilai $-1$ (atau $1$ dalam nilai mutlak).
 - Jika $\text{Gain} < 1$, mata tertinggal dari gerakan kepala, dan kita akan mengalami pandangan buram (*oscillopsia*).
 
 ### 2. Fase (Phase)

@@ -12,7 +12,7 @@ Untuk memahami mengapa FIFA (Federasi Sepak Bola Internasional) mengambil langka
 - Pemerintah membatasi hak-hak mayoritas kulit hitam secara drastis, mencakup wilayah tempat tinggal, akses pendidikan, hingga kesempatan kerja.
 - Aturan ketat dalam olahraga melarang pembentukan tim multirasial, melarang pemain kulit hitam dan putih bertanding di satu lapangan, serta memisahkan penonton stadion dengan pagar besi.
 
-> **Analogi: Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola di mana aturan utamanya bukan tentang siapa yang mencetak gol paling banyak, melainkan tentang warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
+> **Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola di mana aturan utamanya bukan tentang siapa yang mencetak gol paling banyak, melainkan tentang warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
 
 ### 2. Awal Mula Ketegangan dengan FIFA (1950-an)
 

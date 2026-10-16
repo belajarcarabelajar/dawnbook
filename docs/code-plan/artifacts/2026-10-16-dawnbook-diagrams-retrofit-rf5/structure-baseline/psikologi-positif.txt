@@ -1,0 +1,7 @@
+01_pengantar-psikologi-positif-memahami-sisi-terang-manusia.md: chapter title must be a level-2 heading (##)
+05_konsep-flow-pengalaman-optimal.md: opener's first sentence would be truncated in the meta description
+08_kekuatan-rasa-syukur-gratitude.md: opener's first sentence would be truncated in the meta description
+10_hubungan-sosial-yang-positif-jembatan-menuju-kesejahteraan.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 02_model-kesejahteraan-perma-lima-pilar-menuju-kehidupan-yang-berkembang-flourishing.md, 08_kekuatan-rasa-syukur-gratitude.md
+heading "skenario di tempat kerja" repeated in 03_emosi-positif-dan-teori-broaden-and-build.md, 06_growth-mindset-rahasia-di-balik-potensi-tanpa-batas.md
+psikologi-positif: 13 chapters, 6 problems

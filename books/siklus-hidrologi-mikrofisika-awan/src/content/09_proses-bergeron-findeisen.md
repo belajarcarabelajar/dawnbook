@@ -50,6 +50,18 @@ Proses transfer massa uap dari tetesan air superdingin ke kristal es berlangsung
 4. **Deposisi Fase Uap (*Deposition*):** Saat molekul uap menyentuh permukaan kristal es, uap air langsung mengalami perubahan fase menjadi padat (deposisi) dan menyatu dengan kisi kristal.
 5. **Pertumbuhan Massa Kristal:** Kristal es bertambah massa dan ukurannya dengan cepat, sedangkan tetesan air superdingin di sekitarnya menyusut hingga menguap sempurna.
 
+Lima tahapan tadi bisa kamu ikuti sebagai satu rantai berurutan pada bagan di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan pertumbuhan kristal es Bergeron-Findeisen
+    accDescr: Tekanan uap jenuh di atas air lebih besar daripada di atas es sehingga terbentuk gradien tekanan uap, tetes air superdingin menguap, uap berdifusi menuju kristal es, uap mengalami deposisi pada kristal, lalu kristal es tumbuh sementara tetes air menyusut hingga habis menguap.
+    A["Gradien tekanan uap terbentuk"] --> B["Tetes air superdingin menguap"]
+    B --> C["Uap air berdifusi menuju kristal es"]
+    C --> D["Deposisi uap menjadi padat pada kristal"]
+    D --> E["Kristal es tumbuh, tetes air menyusut hingga habis"]
+```
+
 > **Catatan Fisika Awan:** Pada fase awal ini, pertumbuhan kristal es terjadi akibat ikatan deposisi uap air langsung dari fase gas ke padat, bukan akibat tumbukan fisik (*impact freezing*) antara kristal es dengan tetesan air superdingin.
 
 ### Pemodelan Laju Pertumbuhan Kristal Es

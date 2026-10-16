@@ -67,6 +67,16 @@ baca_relief("Memberi makan hewan lapar")
 # Output: Terlahir di alam yang berkelimpahan
 ```
 
+Percabangan dalam pseudo-code itu dapat kamu baca sebagai panduan sederhana berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Percabangan pembacaan panel
+    accDescr: Aksi manusia di sisi kiri panel bercabang dua. Jika kebajikan, sisi kanan menunjukkan surga atau kebahagiaan. Jika kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
+    A["Sisi kiri panel, aksi manusia"] -->|"Kebajikan"| B["Sisi kanan, surga atau kebahagiaan"]
+    A -->|"Kejahatan"| C["Sisi kanan, neraka atau penderitaan"]
+```
+
 ### 4. Hirarki dan Perspektif Objek
 
 Para seniman Shailendra menggunakan teknik visual tertentu untuk menunjukkan status sosial atau urgensi spiritual:

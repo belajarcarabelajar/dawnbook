@@ -43,6 +43,24 @@ Presipitasi terjadi ketika uap air di atmosfer mendingin, berkondensasi, dan jat
 
 - **Skala Waktu Tinggal:** Secara rata-rata, sebuah molekul air menghabiskan waktu tinggal (*residence time*) sekitar 9 hari di atmosfer sebelum kembali jatuh ke permukaan Bumi sebagai presipitasi.
 
+Supaya kamu bisa melihat perjalanan air itu sebagai satu putaran utuh, diagram berikut merangkai komponen-komponen di atas.
+
+```mermaid
+flowchart TD
+    accTitle: Putaran siklus hidrologi global
+    accDescr: Radiasi matahari memberi energi bagi evaporasi dari samudra dan tanah, tumbuhan melepas uap lewat transpirasi, uap air di atmosfer mendingin dan berkondensasi lalu jatuh sebagai presipitasi karena gravitasi, dan kelebihan air di daratan mengalir kembali ke samudra sebagai runoff.
+    M["Radiasi matahari"] -->|"energi termal"| E["Evaporasi"]
+    L["Samudra"] --> E
+    D["Daratan"] --> E
+    D -->|"diserap tumbuhan"| V["Transpirasi lewat stomata"]
+    E --> A["Uap air di atmosfer"]
+    V --> A
+    A -->|"mendingin dan mengembun"| P["Presipitasi"]
+    P -->|"gravitasi"| D
+    P -->|"gravitasi"| L
+    D -->|"runoff lewat sungai"| L
+```
+
 ### 3. Neraca Air Global (*Global Water Balance*)
 
 Guna menganalisis sirkulasi air secara kuantitatif, kita dapat menerapkan persamaan neraca air berbasis hukum kekekalan massa. Untuk suatu sistem wilayah atau planet secara keseluruhan, berlaku persamaan dasar:

@@ -1,0 +1,9 @@
+02_deklarasi-modul-dengan-kata-kunci-mod.md: first heading "Deklarasi Modul dengan Kata Kunci mod" differs from SUMMARY title "Deklarasi Modul dengan Kata Kunci 'mod'"
+06_memahami-pohon-modul-module-tree.md: opener's first sentence would be truncated in the meta description
+08_navigasi-hierarki-dengan-super-dan-self.md: opener's first sentence would be truncated in the meta description
+11_filosofi-organisasi-analogi-perpustakaan-kota.md: opener's first sentence would be truncated in the meta description
+heading "praktik terbaik" repeated in 04_memisahkan-modul-ke-dalam-file-terpisah.md, 09_re-exporting-dengan-pub-use-menciptakan-antarmuka-yang-elegan.md
+heading "ringkasan visual" repeated in 04_memisahkan-modul-ke-dalam-file-terpisah.md, 08_navigasi-hierarki-dengan-super-dan-self.md
+heading "ringkasan cepat" repeated in 06_memahami-pohon-modul-module-tree.md, 07_penyederhanaan-scope-dengan-kata-kunci-use.md
+heading "ringkasan praktik terbaik" repeated in 11_filosofi-organisasi-analogi-perpustakaan-kota.md, 12_filosofi-organisasi-kode-di-rust.md
+sistem-modul-rust: 13 chapters, 8 problems

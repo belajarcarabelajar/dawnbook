@@ -8,7 +8,7 @@ Dalam perjalanan membangun resiliensi, **Pola Pikir Berkembang (Growth Mindset)*
 
 Konsep ini dipopulerkan oleh psikolog Stanford, **Carol Dweck**. Secara sederhana, *Growth Mindset* adalah keyakinan bahwa kemampuan dasarmu dapat dikembangkan melalui dedikasi, kerja keras, dan strategi yang tepat.
 
-**Analogi: Otot vs. Patung Batu** Bayangkan kemampuanmu sebagai sebuah **otot**. Semakin sering dilatih dengan beban yang tepat, ia akan semakin kuat dan besar. Sebaliknya, orang dengan *Fixed Mindset* (Pola Pikir Tetap) melihat kemampuan mereka seperti **patung batu**. Sekali dipahat, bentuknya tidak akan pernah berubah. Jika patung itu retak (gagal), maka ia dianggap rusak selamanya.
+**Otot vs. Patung Batu** Bayangkan kemampuanmu sebagai sebuah **otot**. Semakin sering dilatih dengan beban yang tepat, ia akan semakin kuat dan besar. Sebaliknya, orang dengan *Fixed Mindset* (Pola Pikir Tetap) melihat kemampuan mereka seperti **patung batu**. Sekali dipahat, bentuknya tidak akan pernah berubah. Jika patung itu retak (gagal), maka ia dianggap rusak selamanya.
 
 > **Intisari:** Dalam pola pikir berkembang, tantangan tidak mengancam identitas diri kita, melainkan mengundang kita untuk terus bertumbuh.
 

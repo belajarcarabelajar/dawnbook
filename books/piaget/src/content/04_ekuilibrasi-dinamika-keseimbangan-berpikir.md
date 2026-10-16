@@ -67,15 +67,15 @@ $$
 
 Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
-**Tahap 1: Equilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skema: warna ada karena kuas).
+**1. Equilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skema: warna ada karena kuas).
 
-**Tahap 2: Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
+**2. Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
 
-**Tahap 3: Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah luar biasa. Inilah momen sakral saat mesin kognitif mulai menyala panas.
+**3. Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah luar biasa. Inilah momen sakral saat mesin kognitif mulai menyala panas.
 
-**Tahap 4: Ekuilibrasi & Akomodasi.** Budi mati-matian mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser drastis. Warna bukan cuma soal kuas yang dioles. Cahaya ternyata punya magis untuk menciptakan warna.
+**4. Ekuilibrasi & Akomodasi.** Budi mati-matian mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser drastis. Warna bukan cuma soal kuas yang dioles. Cahaya ternyata punya magis untuk menciptakan warna.
 
-**Tahap 5: New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
+**5. New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
 
 ### 6\. Pentingnya "Kebingungan"
 

@@ -55,6 +55,18 @@ Hasil kerja Cephas diterbitkan dalam buku monumental karya Isaac Groneman pada t
 
 Tanpa foto Cephas, upaya restorasi Borobudur oleh Theodoor van Erp (1907-1911) dan restorasi besar UNESCO (1973-1983) tidak akan memiliki referensi visual yang akurat mengenai kondisi asli kaki candi sebelum tertutup tekanan tanah dan waktu.
 
+Tahun-tahun yang tersebar di bab ini bisa kamu lihat berurutan pada linimasa berikut.
+
+```mermaid
+timeline
+    accTitle: Linimasa dokumentasi relief kaki Borobudur
+    accDescr: Relief ditemukan IJzerman pada 1885, dipotret Cephas pada 1890 sampai 1891, fotonya terbit dalam buku Groneman pada 1895, lalu menjadi rujukan restorasi van Erp 1907 sampai 1911 dan restorasi UNESCO 1973 sampai 1983.
+    1885 : J.W. IJzerman menemukan relief
+    1890-1891 : Cephas memotret 160 panel
+    1895 : Foto terbit dalam buku Isaac Groneman
+    Restorasi : Theodoor van Erp, 1907-1911 : UNESCO, 1973-1983
+```
+
 ## Aplikasi Nyata dan Relevansi Saat Ini
 
 Pengetahuan tentang dokumentasi Kassian Cephas memberikan kita pelajaran penting dalam beberapa bidang:

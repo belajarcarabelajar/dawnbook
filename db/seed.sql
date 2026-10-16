@@ -1316,8 +1316,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2480,8 +2480,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4124,8 +4124,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5020,7 +5020,7 @@ Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semaki
 
 Dalam situasi yang rumit, aturan seringkali gagal. Di sinilah **Kebijaksanaan Praktis (Phronesis)** berperan sebagai sistem navigasi kamu.
 
-**Studi Kasus: Dilema Kejujuran** Seorang teman bertanya apakah presentasinya bagus, padahal menurut kamu sangat buruk.
+**Dilema Kejujuran** Seorang teman bertanya apakah presentasinya bagus, padahal menurut kamu sangat buruk.
 
 - **Aturan Kaku (Deontologi):** "Harus jujur, katakan itu buruk." (Mungkin menyakiti perasaan secara tidak perlu).
 - **Etika Kebajikan:** Gunakan *Phronesis*. Tujuannya adalah membantu teman tumbuh (Kebajikan: Kebaikan hati + Kejujuran).
@@ -5077,8 +5077,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5834,8 +5834,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5914,7 +5914,7 @@ Cognitive bias terjadi ketika **System 1** mengambil alih tugas yang seharusnya 
 
 ## Skenario Dunia Nyata
 
-**Skenario: Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
+**Memilih Kandidat Karyawan** Seorang manajer HR sedang mewawancarai dua kandidat.
 
 - **Kandidat A** datang dengan pakaian sangat rapi, tersenyum lebar, dan memiliki hobi yang sama dengan manajer tersebut (bermain tenis).
 - **Kandidat B** sedikit gugup, pakaiannya biasa saja, namun memiliki data performa kerja masa lalu yang jauh lebih unggul daripada Kandidat A.
@@ -6593,7 +6593,7 @@ Jika ya, kamu sedang mengalami salah satu bias kognitif yang paling kuat dalam i
 
 Istilah ini pertama kali dicetuskan oleh psikolog **Edward Thorndike** pada tahun 1920 setelah melakukan penelitian pada perwira militer. Ia menemukan bahwa ketika atasan menilai bawahannya, jika mereka memiliki satu kualitas positif yang menonjol (seperti postur tubuh yang tegap), atasan cenderung menilai mereka tinggi dalam kategori lain seperti kepemimpinan, loyalitas, dan kecerdasan, meskipun tidak ada bukti nyata untuk itu.
 
-> **Analogy: Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
+> **Lampu Sorot Panggung** Bayangkan sebuah lampu sorot besar di atas panggung. Jika lampu itu berwarna emas (kesan positif), semua benda di bawahnya (entah itu kursi tua atau meja rusak) akan tampak berkilau dan mewah. Cahaya tersebut "meluap" ke area di sekitarnya.
 
 ### Mengapa Ini Terjadi?
 
@@ -7119,7 +7119,7 @@ Agar otot objektivitas kamu tetap kuat, lakukan latihan berikut dalam kehidupan 
 
 Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyata:
 
-**Skenario: Seorang Manajer Produk dan Fitur yang Gagal** Budi telah menghabiskan 6 bulan mengembangkan fitur "X". Setelah diluncurkan, datanya buruk. Pengguna tidak menyukainya.
+**Seorang Manajer Produk dan Fitur yang Gagal** Budi telah menghabiskan 6 bulan mengembangkan fitur "X". Setelah diluncurkan, datanya buruk. Pengguna tidak menyukainya.
 
 - **Tanpa Objektivitas**: Budi terjebak dalam *Sunk Cost Fallacy*. Ia menyalahkan tim pemasaran atau menganggap pengguna "belum paham". Ia terus menghabiskan anggaran untuk fitur tersebut.
 - **Dengan Objektivitas Berkelanjutan**:
@@ -7172,8 +7172,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7231,6 +7231,18 @@ Siaran perdana stasiun ini menampilkan drama televisi pertama Korea berjudul *Th
 ### Tantangan Ekonomi
 
 Pada masa itu, televisi adalah barang mewah yang sangat mahal, di mana harga satu unitnya bisa setara dengan harga rumah kecil. Jumlah unit televisi di seluruh Seoul saat itu diperkirakan hanya sekitar 3.000 unit. Akibatnya, banyak orang menonton televisi di tempat umum atau di rumah tetangga yang lebih kaya. Keterbatasan kepemilikan ini melahirkan tradisi komunal menonton bersama, yang nantinya ikut membentuk eratnya budaya menonton bersama di Korea.
+
+Tonggak-tonggak dari siaran radio pertama sampai televisi pertama itu bisa kamu lihat ringkas pada garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Dari radio JODK ke HLKZ-TV
+    accDescr: Garis waktu tonggak awal siaran Korea, dari berdirinya JODK dan drama radio pertama pada 1927, kemerdekaan 1945, Perang Korea 1950 sampai 1953, hingga drama radio Cheongsilhongsil dan mengudaranya HLKZ-TV pada 1956.
+    1927 : JODK berdiri, 16 Februari : Drama radio pertama Kkot-jang-su
+    1945 : Kemerdekaan Korea
+    1950-1953 : Perang Korea
+    1956 : Drama radio Cheongsilhongsil menjadi hit : HLKZ-TV mengudara, 12 Mei
+```
 
 ## 4. Radio vs. Televisi Awal
 
@@ -7321,6 +7333,18 @@ KBS memang memelopori industri ini, namun akhir dekade 1960-an ditandai oleh kem
 
 Kompetisi sengit antarstasiun ini memicu peningkatan kualitas akting dan keragaman cerita. Para penulis skenario mulai berani bereksperimen dengan dialog yang lebih natural, meninggalkan gaya kaku khas teater klasik.
 
+Urutan kemunculan stasiun dan drama mingguan pertama sepanjang dekade ini tersusun seperti di bawah.
+
+```mermaid
+timeline
+    accTitle: Stasiun televisi Korea pada 1960-an
+    accDescr: Garis waktu dekade 1960-an, dari KBS yang mengudara 31 Desember 1961, drama mingguan pertama I Will Become a Human pada 1962, peluncuran TBC pada 1964, hingga MBC yang mulai mengudara pada 1969.
+    1961 : KBS mengudara, 31 Desember
+    1962 : Drama mingguan pertama I Will Become a Human
+    1964 : TBC diluncurkan
+    1969 : MBC mulai mengudara
+```
+
 ## Jejak 1960-an dalam K-Drama Modern
 
 Meski industri kini telah dimanjakan oleh resolusi 4K dan teknologi CGI, fondasi yang diletakkan pada dekade 1960-an tetap membekas kuat dalam lanskap K-Drama modern:
@@ -7335,7 +7359,7 @@ Untuk memahami skala evolusi ini, perhatikan perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |
-| **Warna** | Hitam & Putih ($\\text{B} \& \\text{W}$) | *Ultra High Definition* (UHD) |
+| **Warna** | Hitam & Putih (B&W) | *Ultra High Definition* (UHD) |
 | **Metode** | Mayoritas *Live* atau Rekaman Dasar | *Pre-produced* dengan Editing Canggih |
 | **Distribusi** | Frekuensi Terestrial Terbatas | Global via OTT (Netflix/Disney+) |
 | **Fokus Cerita** | Restorasi Keluarga & Moral | Diversifikasi Genre & Kritik Sosial |
@@ -8108,8 +8132,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9023,8 +9047,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10279,8 +10303,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10610,7 +10634,7 @@ Istilah ini dipopulerkan oleh **Jean-Paul Sartre**. Sekilas, kata "dihukum" dan 
 2. **Ketiadaan Panduan:** Moralitas absolut atau takdir tidak pernah ada untuk mendikte tindakan kita.
 3. **Pilihan yang Mutlak:** Tidak memilih pun sebenarnya adalah sebuah pilihan untuk bersikap pasif.
 
-**Analogi: Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
+**Sang Pilot di Tengah Badai** Bayangkan kamu adalah pilot sebuah pesawat yang mesinnya mati di tengah badai. Kamu tidak memilih untuk berada dalam situasi itu. Namun, di tanganmu ada tuas kendali. Kamu bebas membelokkan pesawat ke mana saja, tetapi kebebasan itu terasa seperti beban yang sangat berat karena nyawa seluruh penumpang (hidupmu) bergantung pada satu tarikan tuas tersebut. Kamu "dihukum" untuk memegang kendali.
 
 ## 2\. Tidak Ada Alasan untuk Berdalih
 
@@ -11023,7 +11047,7 @@ Bagian ini akan mengeksplorasi dinamika yang rumit, terkadang menyakitkan, namun
 
 Jean-Paul Sartre, salah satu tokoh utama eksistensialisme, memperkenalkan konsep yang sangat kuat bernama **"The Look" (Le Regard)**. Untuk memahaminya, mari kita bayangkan sebuah skenario:
 
-> **Cerita Pendek: Lubang Kunci** Bayangkan kamu sedang mengintip melalui lubang kunci sebuah pintu karena rasa penasaran yang besar. Pada momen itu, kamu adalah seorang **Subjek**. Kamu bebas, kamu yang menentukan arah pandangan, dan kamu merasa menjadi pusat dari dunia tersebut.
+> **Lubang Kunci** Bayangkan kamu sedang mengintip melalui lubang kunci sebuah pintu karena rasa penasaran yang besar. Pada momen itu, kamu adalah seorang **Subjek**. Kamu bebas, kamu yang menentukan arah pandangan, dan kamu merasa menjadi pusat dari dunia tersebut.
 > 
 > Tiba-tiba, kamu mendengar langkah kaki di koridor. Seseorang melihatmu sedang mengintip.
 > 
@@ -11131,7 +11155,7 @@ Bagaimana seorang perempuan (atau individu mana pun yang terbelenggu konstruksi 
 
 Mari kita lihat bagaimana teori ini bekerja dalam praktik sehari-hari:
 
-**Skenario: Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang sangat berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
+**Pilihan Karier vs. Ekspektasi Keluarga** Sinta adalah seorang insinyur mesin yang sangat berbakat (Transendensi). Namun, keluarganya terus menekankan bahwa ia harus segera menikah dan berhenti bekerja lembur karena "perempuan seharusnya di rumah menjaga keharmonisan" (Imans).
 
 Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya demi mematuhi apa yang ia yakini sebagai "kodrat perempuan," ia sesungguhnya sedang terjebak dalam *Bad Faith* atau keyakinan buruk.
 
@@ -11339,8 +11363,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11409,17 +11433,19 @@ Rust menyusun kode melalui **module tree**. Struktur hierarki ini sangat mirip d
 
 Sebagai contoh, jika kita membangun sistem manajemen restoran, visualisasi module tree akan tampak seperti berikut:
 
-```text
-crate (Root)
- ├── front_of_house (Module)
- │    ├── hosting (Sub-module)
- │    │    └── seat_at_table (Function)
- │    └── serving (Sub-module)
- │         ├── take_order
- │         └── serve_order
- └── back_of_house (Module)
-      ├── cooking
-      └── washing
+```mermaid
+flowchart TD
+    accTitle: Module tree sistem manajemen restoran
+    accDescr: Crate sebagai root membawahi module front_of_house dan back_of_house. Front_of_house berisi sub-module hosting dengan function seat_at_table serta sub-module serving dengan take_order dan serve_order. Back_of_house berisi cooking dan washing.
+    R["crate (Root)"] --> F["front_of_house (Module)"]
+    R --> K["back_of_house (Module)"]
+    F --> H["hosting (Sub-module)"]
+    F --> S["serving (Sub-module)"]
+    H --> HS["seat_at_table (Function)"]
+    S --> ST["take_order"]
+    S --> SO["serve_order"]
+    K --> KC["cooking"]
+    K --> KW["washing"]
 ```
 
 Pemisahan `hosting` dan `serving` ke dalam sub-module yang berbeda di bawah `front_of_house` bertujuan agar tanggung jawab masing-masing bagian terdefinisi dengan jelas. Ketika kamu perlu memperbarui logika pelayanan restoran, kamu cukup berfokus pada module `serving` tanpa harus terganggu oleh kode penerimaan tamu di module `hosting`.
@@ -12549,6 +12575,18 @@ Maka dari dalam **C**:
 - `super` = Merujuk ke **B**
 - `super::super` = Merujuk ke **A** (`crate`)
 
+Diagram berikut menunjukkan ke mana setiap keyword membawamu ketika kamu menulis kode di dalam C.
+
+```mermaid
+flowchart BT
+    accTitle: Navigasi relatif dari modul C
+    accDescr: Dari dalam mod_c, self merujuk ke mod_c sendiri, super merujuk ke mod_b, dan super::super merujuk ke crate.
+    C["mod_c (C)"] -->|"self"| C
+    C -->|"super"| B["mod_b (B)"]
+    C -->|"super::super"| A["crate (A)"]
+    B ~~~ A
+```
+
 Dengan keyword `self` dan `super`, struktur path modul menjadi fleksibel. Kode lebih mudah di-refactor karena relasi modul bersifat relatif, mempermudah pengelolaan kode saat proyek Rust-mu mulai berkembang pesat.
 
 
@@ -12855,13 +12893,35 @@ Walaupun pola modern menjadi standar baru, pola klasik terkadang masih ditemui d
 
 ## Rumus Logika Jalur (Path)
 
-Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul:
+Secara matematis (dalam logika compiler), pencarian modul dapat direpresentasikan sebagai fungsi $f(m)$ di mana $m$ adalah nama modul. Jika ada file `m.rs`, hasilnya:
 
+<div>
 $$
-f(m) = \begin{cases} \text{m.rs} & \text{jika ada file} \\ \text{m/mod.rs} & \text{jika ada folder dengan mod.rs} \end{cases}
+f(m) = \text{m.rs}
 $$
+</div>
+
+Jika yang ada adalah folder dengan `mod.rs`, hasilnya:
+
+<div>
+$$
+f(m) = \text{m/mod.rs}
+$$
+</div>
 
 Jika kedua kondisi di atas terpenuhi $\text{m.rs} \cap \text{m/mod.rs}$, maka akan terjadi konflik: $\text{Error} \leftarrow \text{Ambiguitas struktur}$
+
+Alur keputusan compiler tersebut bisa kamu ikuti pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Pencarian file modul m oleh compiler
+    accDescr: Compiler mencari modul m. Jika hanya ada file m.rs, modul diambil dari m.rs. Jika hanya ada folder dengan mod.rs, modul diambil dari m/mod.rs. Jika keduanya ada, terjadi error karena ambiguitas struktur.
+    P["Pencarian modul m"] --> Q{"File apa yang ada?"}
+    Q -->|"hanya m.rs"| A["m.rs"]
+    Q -->|"hanya folder dengan mod.rs"| B["m/mod.rs"]
+    Q -->|"keduanya"| E["Error, ambiguitas struktur"]
+```
 
 ## Kesimpulan
 
@@ -13176,8 +13236,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14333,8 +14393,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14743,7 +14803,7 @@ Dalam skenario di atas, meskipun iklan "Luxury Watch" memiliki bayaran (bid) ter
 
 ### 5. Keranjang Belanja yang Ditinggalkan
 
-**Skenario: Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
+**Penargetan Prediktif pada E-commerce** Seorang pengguna memasukkan botol susu bayi ke dalam keranjang belanja tetapi tidak membelinya (*abandoned cart*).
 
 - **Aksi Algoritma:** Algoritma segera memperbarui vektor pengguna dengan tag "Parenting" dan "High Intent".
 - **Prediksi Real-Time:** Dalam hitungan detik, saat pengguna tersebut membuka portal berita, algoritma penargetan bekerja sama dengan jaringan iklan untuk menampilkan iklan diskon popok atau susu formula dari merek kompetitor.
@@ -15490,8 +15550,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15773,6 +15833,17 @@ Konsep yang tidak kalah menarik dari teori ini adalah **Spiral ke Atas (The Upwa
 - **Pembangunan sumber daya**: Tindakan baik ini mempererat hubungan sosialmu dengan orang lain (*build*).
 - **Kelanjutan spiral**: Relasi yang semakin kuat memicu emosi positif baru, yang kemudian memutar kembali siklus ini ke tingkat yang lebih tinggi.
 
+Perputaran spiral itu tampak pada siklus di bawah ini.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus spiral ke atas
+    accDescr: Emosi positif seperti rasa syukur membuat pikiran meluas dan lebih peka terhadap peluang berbuat baik, tindakan baik mempererat hubungan sosial, lalu relasi yang makin kuat memicu emosi positif baru dan siklus berputar kembali ke tingkat yang lebih tinggi.
+    A["Emosi positif, seperti rasa syukur"] --> B["Pikiran meluas (broaden), lebih peka pada peluang berbuat baik"]
+    B --> C["Tindakan baik mempererat hubungan sosial (build)"]
+    C -->|"relasi yang makin kuat memicu emosi positif baru"| A
+```
+
 Sebagai ilustrasi praktis: bayangkan saat kamu memulai hari dengan obrolan ringan yang menyenangkan di kantor. Secara tidak sadar, kamu menjadi lebih produktif sepanjang hari dan lebih sabar saat menghadapi kemacetan di jalan pulang. Kejadian sederhana tersebut merupakan contoh nyata bagaimana spiral ke atas sedang bekerja.
 
 ## 5. Emosi Positif Utama dan Fungsinya
@@ -15988,16 +16059,32 @@ Mari kita petakan hubungan ini dalam model sederhana:
 Misalkan $C$ adalah *Challenge* (Tantangan) dan $S$ adalah *Skill* (Keterampilan).
 
 - Jika $C > S$: Muncul rasa **Anxiety** (Kecemasan). Tantangan terasa terlalu berat untuk tingkat keterampilanmu.
-- Jika $S > C$: Muncul rasa **Boredom** (Kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
+- Jika $S > C$: Muncul rasa **Relaxation** (Relaksasi), yang dalam sebagian kajian juga disebut *boredom* (kebosanan). Kamu merasa terlalu terampil untuk tugas yang terlampau mudah.
 - **Kondisi Flow:** Terbentuk saat $C \approx S$ berada pada level yang cukup tinggi.
    $$\text{Flow} \approx \frac{\text{Challenge (High)}}{\text{Skill (High)}}$$
 
 #### Kondisi Mental Berdasarkan Kombinasi Tantangan dan Keterampilan
 
+Pembagian empat kondisi berikut mengikuti model kuadran (*quadrant model*) yang dipopulerkan Csikszentmihalyi bersama rekan-rekannya, misalnya Massimini dan Carli (1988), seperti diulas Abuhamdeh (2020).
+
 - **Apathy (Apati):** Tantangan rendah dan keterampilan rendah (contoh: menonton televisi tanpa minat).
 - **Relaxation (Relaksasi):** Tantangan rendah namun keterampilan tinggi (contoh: menyelesaikan pekerjaan administratif rutin yang sangat familier).
 - **Anxiety (Kecemasan):** Tantangan tinggi sementara keterampilan rendah (contoh: ditunjuk secara mendadak untuk mempresentasikan proyek rumit yang belum dipahami).
 - **Flow:** Tantangan tinggi yang diimbangi dengan keterampilan yang mumpuni (contoh: seorang atlet profesional berlaga di pertandingan final).
+
+Keempat kondisi itu bisa kamu bayangkan sebagai empat kuadran pada bidang tantangan dan keterampilan berikut.
+
+```mermaid
+quadrantChart
+    accTitle: Empat kondisi mental menurut tantangan dan keterampilan
+    accDescr: Bidang dua sumbu dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak. Tantangan rendah dan keterampilan rendah menghasilkan apati, tantangan rendah dengan keterampilan tinggi menghasilkan relaksasi, tantangan tinggi dengan keterampilan rendah menghasilkan kecemasan, dan tantangan tinggi dengan keterampilan tinggi menghasilkan flow.
+    x-axis Keterampilan rendah --> Keterampilan tinggi
+    y-axis Tantangan rendah --> Tantangan tinggi
+    quadrant-1 Flow
+    quadrant-2 "Anxiety (Kecemasan)"
+    quadrant-3 "Apathy (Apati)"
+    quadrant-4 "Relaxation (Relaksasi)"
+```
 
 Mari berefleksi sejenak tentang hobi atau pekerjaanmu. Di posisi mana kamu lebih sering berada? Apakah rasa bosan muncul akibat kurangnya tantangan, ataukah kecemasan mendominasi karena kurangnya latihan?
 
@@ -16415,6 +16502,18 @@ Kabar baiknya, optimisme merupakan keterampilan yang bisa dilatih (*learned opti
 - **D - Disputation (Sanggahan):** Menantang keyakinan negatif secara aktif menggunakan argumen logis dan bukti empiris yang bertolak belakang. (Contoh: "Tunggu dulu, bulan lalu kinerjaku dipuji saat mengerjakan proyek A. Kritik kali ini hanya ditujukan pada format laporan B.")
 - **E - Energization (Energi Baru):** Merasakan kelegaan mental dan dorongan semangat baru setelah berhasil mematahkan asumsi buruk sebelumnya.
 
+Urutan kelima tahap tersebut bisa kamu ikuti dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Model ABCDE untuk learned optimism
+    accDescr: Lima tahap berurutan, yaitu Adversity atau kesulitan, Belief atau keyakinan yang muncul, Consequence atau dampak dari keyakinan itu, Disputation atau sanggahan terhadap keyakinan negatif, lalu Energization atau energi baru setelah asumsi buruk dipatahkan.
+    A["A, Adversity (Kesulitan)"] --> B["B, Belief (Keyakinan)"]
+    B --> C["C, Consequence (Konsekuensi)"]
+    C --> D["D, Disputation (Sanggahan)"]
+    D --> E["E, Energization (Energi Baru)"]
+```
+
 ### Aplikasi Dunia Nyata
 
 #### Penundaan Jadwal Proyek
@@ -16743,6 +16842,7 @@ Psikologi positif tidak mengajak kita menutup mata dari kesulitan hidup, tetapi 
 
 Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari materi dalam buku ini. Jika kamu ingin mendalami lebih lanjut konsep-konsep Positive Psychology seperti model PERMA, teori Broaden-and-Build, VIA Character Strengths, konsep Flow, Growth Mindset, Resilience, Gratitude, Optimism, positive relationships, serta Meaning in Life, kamu dapat merujuk pada sumber-sumber tepercaya berikut:
 
+*   Abuhamdeh, S. (2020). Investigating the “flow” experience: Key conceptual and operational issues. *Frontiers in Psychology*, *11*, 158. <https://doi.org/10.3389/fpsyg.2020.00158>
 *   Carver, C. S., Scheier, M. F., & Segerstrom, S. C. (2010). Optimism. *Clinical Psychology Review*, *30*(7), 879–889. <https://doi.org/10.1016/j.cpr.2010.01.006>
 *   Csikszentmihalyi, M. (1990). *Flow: The psychology of optimal experience*. Harper & Row.
 *   Dweck, C. S. (2016). *Mindset: The new psychology of success* (Updated ed.). Ballantine Books.
@@ -16755,8 +16855,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17648,8 +17748,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19309,8 +19409,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20448,8 +20548,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21518,8 +21618,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21878,12 +21978,12 @@ Sistem hukum kebencanaan Indonesia dibangun berlapis untuk memastikan tidak ada 
 
 ### 2. Arsitektur Kelembagaan InaTEWS
 
-Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun pasca tsunami Aceh 2004 melalui Instruksi Presiden, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai.
+Indonesia Tsunami Early Warning System (InaTEWS) adalah contoh paling matang dari orkestrasi kelembagaan. Dibangun sejak 2005 sebagai respons atas tsunami Aceh 2004 dan diluncurkan Presiden pada 11 November 2008, InaTEWS menghubungkan sensor seismik BMKG dengan sistem pendukung keputusan hingga sirene di pantai. Pembagian perannya berpijak pada arahan Presiden dalam jumpa pers 20 Juli 2006: lima menit pertama setelah gempa adalah milik BMKG untuk menerbitkan peringatan, sedangkan penyampaian ke masyarakat menjadi tanggung jawab institusi terkait.
 
 Alur InaTEWS dapat kamu pahami sebagai rantai komando empat tahap:
 
-1. **Deteksi:** Jaringan seismometer dan GPS BMKG menangkap gempa dalam 2 sampai 3 menit.
-2. **Analisis:** Decision Support System BMKG menentukan potensi tsunami dan status ancaman, sehingga peringatan pertama terbit paling lambat 5 menit setelah gempa.
+1. **Deteksi:** Jaringan seismometer BMKG merekam gempa, dan lokasi sumbernya dapat ditentukan dalam 3 menit pertama.
+2. **Analisis:** Decision Support System BMKG memadukan data seismik, GPS, buoy, dan tide gauge untuk menentukan potensi tsunami dan status ancaman, sehingga peringatan pertama terbit paling lambat 5 menit setelah gempa.
 3. **Diseminasi:** Peringatan diteruskan ke BNPB, BPBD, media, dan operator telekomunikasi untuk SMS blast dan TV overlay.
 4. **Respons:** Kepala daerah dan komunitas memutuskan evakuasi berdasarkan SOP lokal.
 
@@ -21949,7 +22049,7 @@ Fungsinya terbagi dua: *monitoring* kontinu dan *forecasting* prediktif. Monitor
 Karakteristik layanan yang kuat:
 
 * **Akurasi dan kecepatan**. BMKG menargetkan peringatan gempa kurang dari 5 menit. Keterlambatan 10 menit bisa menghapus waktu evakuasi di dekat pantai.
-* **Ambang kuantitatif**. Status *waspada* ke *siaga* harus berdasar angka jelas, misalnya curah hujan \\( 100 \, mm \\) dalam 3 jam atau kenaikan muka air \\( 50 \, cm \\) per jam.
+* **Ambang kuantitatif**. Status *waspada* ke *siaga* harus berdasar angka jelas, misalnya curah hujan \\( 100 \text{ mm} \\) dalam 3 jam atau kenaikan muka air \\( 50 \text{ cm} \\) per jam.
 * **Redundansi**. Satu sensor mati tidak boleh membuat sistem buta.
 * **Validasi silang** untuk menekan *false alarm*.
 
@@ -21984,6 +22084,19 @@ Di Kamaishi, Jepang, siswa selamat tinggi saat tsunami 2011 karena program *Tsun
 ### Hubungan Antar Pilar Sebagai Rantai
 
 Keempat pilar bukan urutan linear, tapi *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
+
+Arah umpan balik antarpilar itu tergambar pada skema berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Loop umpan balik empat pilar EWS
+    accDescr: Pengetahuan risiko mengarahkan penempatan sensor, data pemantauan memperkaya peta risiko, diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
+    P1["Pengetahuan risiko"] -->|"mengarahkan penempatan sensor"| P2["Pemantauan dan layanan peringatan"]
+    P2 -->|"data memperkaya peta risiko"| P1
+    P3["Diseminasi dan komunikasi"] -->|"efektif, menaikkan kepatuhan evakuasi"| P4["Kapasitas respons"]
+    P4 -->|"pelajaran untuk pesan"| P3
+    P4 -->|"pelajaran untuk peta"| P1
+```
 
 Bayangkan banjir bandang di DAS kecil. Jika pilar 1 tidak mencatat permukiman baru di sempadan sungai, pilar 2 tidak akan memasang sensor di hulu itu. Jika pilar 3 hanya pakai satu aplikasi ponsel, warga tanpa ponsel tidak terjangkau. Jika pilar 4 lemah karena jalur evakuasi tertutup longsor kecil yang tidak pernah disimulasikan, korban tetap jatuh. Karena itu perkuat pilar terlemah dahulu, bukan menambah sensor canggih saat jalur belum jelas.
 
@@ -22075,19 +22188,46 @@ Setelah parameter gempa diperoleh, Decision Support System BMKG mengambil alih a
 
 Hasil keputusan diterjemahkan ke dalam tiga tingkatan InaTEWS. Tingkat Awas menandakan perkiraan tinggi gelombang tiga meter atau lebih dan memerlukan evakuasi penuh di zona pesisir dan sempadan sungai. Tingkat Siaga menandakan perkiraan setengah meter atau lebih tetapi kurang dari tiga meter dan tetap memerlukan evakuasi dari pantai serta muara sungai karena arus kuat berbahaya. Tingkat Waspada menandakan perkiraan kurang dari setengah meter yang tetap berbahaya bagi aktivitas di pantai dan pelayaran sehingga warga diminta menjauhi bibir pantai dan perahu tidak melaut sementara. Setiap produk BMKG menyebutkan eksplisit wilayah yang masuk Awas, Siaga, dan Waspada beserta perkiraan waktu tiba gelombang pertama dan rekomendasi.
 
-Penyebaran peringatan dari pusat ke daerah menggunakan jalur berlapis. BMKG mengirimkan peringatan melalui Warning Receiver System di kantor BPBD, pemerintah provinsi dan kabupaten kota, TNI, Polri, serta lembaga terkait melalui satelit dan internet dengan konfirmasi penerimaan. Jalur lain mencakup SMS broadcast, email, web, aplikasi InfoBMKG, serta sambungan ke televisi dan radio. Di tingkat lokal, pemerintah daerah meneruskan peringatan melalui sirene tsunami di kawasan padat pesisir, pengeras suara masjid dan kantor desa, radio komunitas,. Sirene dirancang menjangkau beberapa kilometer dan dilengkapi catu daya cadangan, namun efektivitasnya bergantung pada pemeliharaan rutin dan uji fungsi berkala.
+Pembagian tiga tingkat itu bisa kamu baca sebagai percabangan dari perkiraan tinggi gelombang.
+
+```mermaid
+flowchart TD
+    accTitle: Tiga tingkat peringatan InaTEWS
+    accDescr: Perkiraan tinggi gelombang menentukan tingkat Awas untuk tiga meter atau lebih, Siaga untuk setengah meter atau lebih tetapi kurang dari tiga meter, dan Waspada untuk kurang dari setengah meter, masing-masing dengan tindakannya.
+    H["Perkiraan tinggi gelombang"] -->|"tiga meter atau lebih"| A["Awas"]
+    H -->|"setengah meter sampai kurang dari tiga meter"| S["Siaga"]
+    H -->|"kurang dari setengah meter"| W["Waspada"]
+    A --> A1["Evakuasi penuh di zona pesisir dan sempadan sungai"]
+    S --> S1["Evakuasi dari pantai serta muara sungai"]
+    W --> W1["Menjauhi bibir pantai, perahu tidak melaut sementara"]
+```
+
+Penyebaran peringatan dari pusat ke daerah menggunakan jalur berlapis. BMKG mengirimkan peringatan melalui Warning Receiver System di kantor BPBD, pemerintah provinsi dan kabupaten kota, TNI, Polri, serta lembaga terkait melalui satelit dan internet dengan konfirmasi penerimaan. Jalur lain mencakup SMS broadcast, email, web, aplikasi InfoBMKG, serta sambungan ke televisi dan radio. Di tingkat lokal, pemerintah daerah meneruskan peringatan melalui sirene tsunami di kawasan padat pesisir, pengeras suara masjid dan kantor desa, serta radio komunitas. Sirene dirancang menjangkau beberapa kilometer dan dilengkapi catu daya cadangan, namun efektivitasnya bergantung pada pemeliharaan rutin dan uji fungsi berkala.
 
 Komponen pemantauan muka laut melengkapi jaringan seismik untuk verifikasi. InaTEWS mengoperasikan tide gauge di pelabuhan dan pantai serta buoy di laut dalam. Tide gauge merekam perubahan muka air tiap menit dan mengonfirmasi anomali. Buoy dengan sensor tekanan dasar laut mendeteksi perubahan tekanan akibat lewatnya gelombang melalui satelit. Dalam praktik jumlah buoy yang beroperasi penuh sering terbatas karena cuaca ekstrem, hanyut, dan biaya tinggi. Karena itu prosedur BMKG menegaskan bahwa keputusan evakuasi tidak menunggu konfirmasi alat muka laut. Peringatan awal berbasis seismik tetap menjadi dasar utama untuk bertindak, sementara data muka laut digunakan untuk pembaruan dan pengakhiran peringatan.
 
-Studi kasus Aceh 2004 menggambarkan kondisi sebelum InaTEWS beroperasi. Gempa magnitudo 9,1 di zona subduksi barat Sumatra pada 26 Desember 2004 menghasilkan tsunami yang tiba di Banda Aceh dalam sekitar 15 sampai 20 menit. Pada saat itu Indonesia belum memiliki sistem peringatan tsunami nasional terintegrasi sehingga tidak ada peringatan resmi yang sampai ke masyarakat pesisir. Dampaknya sangat luas dengan korban jiwa besar dan kerusakan infrastruktur di banyak wilayah. Peristiwa ini mendorong pembentukan InaTEWS tahun 2005.
+Studi kasus Aceh 2004 menggambarkan kondisi sebelum InaTEWS beroperasi. Gempa magnitudo 9,1 di zona subduksi barat Sumatra pada 26 Desember 2004 menghasilkan tsunami yang tiba di Banda Aceh dalam sekitar 15 sampai 20 menit. Pada saat itu Indonesia belum memiliki sistem peringatan tsunami nasional terintegrasi sehingga tidak ada peringatan resmi yang sampai ke masyarakat pesisir. Dampaknya sangat luas dengan korban jiwa besar dan kerusakan infrastruktur di banyak wilayah. Peristiwa ini mendorong pembangunan InaTEWS yang dimulai tahun 2005 dan diluncurkan resmi pada 11 November 2008.
 
 Gempa Lombok 5 Agustus 2018 menunjukkan tantangan rangkaian gempa beruntun. Gempa magnitudo 7,0 di Lombok Utara pada kedalaman dangkal memicu peringatan tingkat Waspada untuk sebagian pesisir Lombok dan Bali. Peringatan kemudian diakhiri setelah tide gauge tidak menunjukkan tsunami signifikan. Kejadian ini menimbulkan diskusi publik karena warga merasakan guncangan kuat dan mengharapkan informasi lebih tegas. Evaluasi menunjukkan ambang prosedur telah diterapkan, namun komunikasi makna Waspada perlu diperkuat agar masyarakat memahami status tersebut tetap berarti menjauhi pantai.
 
 Gempa Palu 28 September 2018 memberi pelajaran tentang keterbatasan untuk sumber dekat. Gempa magnitudo 7,4 di darat dekat Teluk Palu memicu tsunami lokal yang tiba dalam sekitar 3 sampai 6 menit dengan tinggi beberapa meter di dalam teluk sempit. BMKG menerbitkan peringatan berbasis parameter awal, namun gelombang tiba hampir bersamaan dengan proses diseminasi. Karakter teluk sempit dan kemungkinan longsoran bawah laut membuat skenario berbasis subduksi kurang menangkap amplifikasi lokal. Beberapa tide gauge dan sirene di sekitar Palu tidak berfungsi optimal sehingga penyebaran lokal terhambat. Kasus ini menegaskan bahwa untuk sumber sangat dekat, peringatan formal tidak dapat menjadi satu-satunya andalan. Guncangan kuat harus langsung diikuti evakuasi mandiri.
 
-Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Prosedur menyatakan analisis parameter dilakukan dalam dua sampai tiga menit setelah gempa terekam, diikuti penentuan potensi tsunami melalui Decision Support System dalam satu sampai dua menit berikutnya, kemudian penerbitan produk informasi awal dalam total sekitar lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan, paling cepat dua jam setelah peringatan pertama. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
+Prosedur operasi standar BMKG mengutamakan kecepatan dengan tetap menjaga verifikasi. Dalam rancangan InaTEWS, lokasi sumber gempa dapat ditentukan dalam tiga menit pertama, lalu Decision Support System menentukan potensi tsunami sehingga produk informasi awal terbit paling lambat lima menit sejak origin time. Produk awal berisi parameter gempa, status potensi tsunami, daftar wilayah dengan tingkat Awas Siaga dan Waspada beserta perkiraan waktu tiba. Pemantauan muka laut dilakukan intensif, dan pembaruan diterbitkan jika magnitudo direvisi atau tide gauge menunjukkan anomali. Peringatan diakhiri resmi setelah evaluasi menunjukkan tidak ada kenaikan signifikan, paling cepat dua jam setelah peringatan pertama. Selama peringatan aktif BMKG menjadi sumber tunggal informasi resmi.
 
 Alur end to end InaTEWS adalah perpindahan informasi dari sensor hingga tindakan tanpa jeda terputus. Tahap pertama adalah deteksi oleh jaringan seismometer dan pengiriman data real time ke pusat pengolahan. Tahap kedua adalah pengolahan otomatis dengan SeisComP dan verifikasi operator untuk menghasilkan parameter gempa andal. Tahap ketiga adalah analisis Decision Support System yang mencocokkan parameter dengan skenario dan menetapkan tingkat peringatan per wilayah. Tahap keempat adalah diseminasi melalui Warning Receiver System dan saluran publik ke pemerintah daerah, lembaga terkait, media, dan masyarakat. Tahap kelima adalah penerusan di daerah melalui sirene dan pengeras suara disertai keputusan evakuasi oleh bupati dan wali kota. Tahap keenam adalah pemantauan berkelanjutan dengan tide gauge, buoy, dan laporan lapangan untuk pembaruan, pengakhiran, dan evaluasi. Keberhasilan diukur dari apakah penduduk pesisir menerima pesan yang jelas dan bergerak ke tempat aman sebelum gelombang tiba.
+
+Keenam tahap tersebut dapat kamu ikuti sebagai satu alur berurutan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur end to end InaTEWS
+    accDescr: Enam tahap InaTEWS berurutan dari deteksi seismometer, pengolahan SeisComP dan verifikasi operator, analisis Decision Support System, diseminasi, penerusan di daerah, hingga pemantauan berkelanjutan.
+    T1["Deteksi oleh jaringan seismometer, data dikirim real time ke pusat"] --> T2["Pengolahan otomatis SeisComP dan verifikasi operator"]
+    T2 --> T3["Decision Support System menetapkan tingkat peringatan per wilayah"]
+    T3 --> T4["Diseminasi lewat Warning Receiver System dan saluran publik"]
+    T4 --> T5["Penerusan di daerah lewat sirene dan pengeras suara, disertai keputusan evakuasi"]
+    T5 --> T6["Pemantauan dengan tide gauge, buoy, dan laporan lapangan"]
+```
 
 
 <!-- Chapter: 08_sistem-peringatan-dini-hidrometeorologi -->
@@ -22425,8 +22565,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22888,12 +23028,12 @@ Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah 
 
 ## Perbandingan Siti dan Budi
 
-**Skenario A: Siti (Pekerja Migran di Malaysia)** Siti adalah seorang perawat dari Medan yang pindah ke Kuala Lumpur.
+**Siti (Pekerja Migran di Malaysia)** Siti adalah seorang perawat dari Medan yang pindah ke Kuala Lumpur.
 
 - **Jarak Budaya:** Rendah (Bahasa mirip, makanan serupa, agama mayoritas sama).
 - **Hasil:** Siti mengalami gegar budaya ringan. Dia merasa sedikit rindu rumah, tapi bisa berfungsi normal dalam hitungan minggu.
 
-**Skenario B: Budi (Pelajar Beasiswa di Jepang)** Budi adalah seorang mahasiswa dari desa kecil di Jawa yang langsung pindah ke Tokyo.
+**Budi (Pelajar Beasiswa di Jepang)** Budi adalah seorang mahasiswa dari desa kecil di Jawa yang langsung pindah ke Tokyo.
 
 - **Jarak Budaya:** Tinggi (Bahasa sangat sulit, budaya kerja sangat disiplin, ruang pribadi sangat sempit).
 - **Kepribadian:** Budi sangat introvert dan takut melakukan kesalahan.
@@ -23623,8 +23763,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24006,13 +24146,13 @@ Fenomena luar biasa ini disebut **Neurogenesis**.
 
 > "Otak kamu tidak hanya belajar dengan cara mengubah koneksi, tetapi dalam area tertentu, ia belajar dengan cara melahirkan anggota baru dalam tim sel sarafnya."
 
-Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat sangat penting bagi fungsi kognitif kita.
+Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat penting bagi fungsi kognitif kita.
 
 ### Pabrik Neuron di Otak Kita
 
 Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 
-**Analogi: Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan raksasa. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
+**Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan raksasa. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
 
 - **Tanpa Neurogenesis:** Gudang tersebut akan penuh sesak, petugasnya kelelahan, dan buku-buku baru akan berserakan tanpa teratur.
 - **Dengan Neurogenesis:** Otak terus mendatangkan "karyawan baru" (neuron baru) yang segar dan energik untuk membantu memproses arus informasi yang tak henti-hentinya.
@@ -24138,7 +24278,7 @@ Manusia adalah makhluk sosial. Interaksi dengan orang lain adalah salah satu tug
 
 Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat skenario nyata:
 
-**Skenario: Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas yang luar biasa dibandingkan jika ia tetap di rumah. Mengapa?
+**Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas yang luar biasa dibandingkan jika ia tetap di rumah. Mengapa?
 
 1. **Sensorik:** Suara bahasa baru, aroma makanan berbeda, dan pemandangan arsitektur asing membanjiri sistem sensorik.
 2. **Kognitif:** Otak harus bekerja ekstra keras untuk memetakan navigasi transportasi umum dan memahami norma sosial.
@@ -24409,7 +24549,7 @@ Secara matematis, kita bisa melihat hubungan antara usaha ($u$), keyakinan ($k$)
 
 Bagaimana pengetahuan ini diterapkan dalam kehidupan sehari-hari? Mari kita lihat skenario berikut:
 
-**Skenario: Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
+**Mempelajari Bahasa Pemrograman Baru** Seorang pemula mencoba menulis kode dan terus-menerus mendapatkan pesan *error*.
 
 - **Respons Otak Fixed Mindset:** Amigdala (pusat rasa takut) aktif. Muncul pikiran "Saya bukan orang IT". Sinyal Pe rendah. Ia menutup laptop. Tidak ada perubahan saraf yang terjadi.
 - **Respons Otak Growth Mindset:** ACC mendeteksi kesalahan, namun karena ia yakin otaknya bisa berkembang, ia memicu PFC untuk menganalisis kode tersebut. Sinyal Pe tinggi. Saat ia menemukan letak titik koma yang kurang, otak melepaskan dopamin. Jalur saraf untuk logika pemrograman pun menguat.
@@ -24758,7 +24898,7 @@ Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagai
 
 Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
 
-> **Analogi: Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan sifar**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
+> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan sifar**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
 
 ### Transformasi Kurikulum Masa Depan
 
@@ -24844,8 +24984,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25917,8 +26057,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26370,7 +26510,7 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 		- *Apa satu hal yang ingin Bapak/Ibu Guru ketahui tentang caramu belajar?*
 		- *Siapa pahlawanmu di dunia nyata?*
 
-> **Analogi: Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
+> **Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
 
 ## 2. Membangun Kepercayaan Melalui Kehadiran Otentik
 
@@ -26416,7 +26556,7 @@ Semakin rendah nilai kecemasan ($Kz$), maka kesiapan belajar ($K$) akan meningka
 
 Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat, kamu tidak lagi membutuhkan hukuman yang keras untuk mengarahkan perilaku.
 
-**Prinsip Utama: Koneksi Sebelum Koreksi** Sebelum memberikan konsekuensi atas perilaku buruk, pastikan hubungan emosional tetap utuh. Siswa jauh lebih mungkin menerima arahan dari seseorang yang mereka hormati dan sukai.
+**Koneksi Sebelum Koreksi** Sebelum memberikan konsekuensi atas perilaku buruk, pastikan hubungan emosional tetap utuh. Siswa jauh lebih mungkin menerima arahan dari seseorang yang mereka hormati dan sukai.
 
 ### Budi Menolak Mengerjakan Tugas
 
@@ -26645,9 +26785,9 @@ Tubuh kamu berkomunikasi lebih keras daripada suara kamu. Kehadiran guru (*Teach
 
 ## Menulis di Papan Tulis dan Membantu Siswa Individual
 
-**Skenario A: Saat Menulis di Papan Tulis** *Salah:* Guru menulis penjelasan panjang di papan tulis selama 5 menit tanpa menoleh ke belakang. Siswa mulai melempar kertas. *Proaktif:* Guru menulis satu kalimat, lalu menoleh sebentar sambil memindai kelas (scanning), memberikan senyuman pada siswa yang mencatat, lalu melanjutkan menulis.
+**Saat Menulis di Papan Tulis** *Salah:* Guru menulis penjelasan panjang di papan tulis selama 5 menit tanpa menoleh ke belakang. Siswa mulai melempar kertas. *Proaktif:* Guru menulis satu kalimat, lalu menoleh sebentar sambil memindai kelas (scanning), memberikan senyuman pada siswa yang mencatat, lalu melanjutkan menulis.
 
-**Skenario B: Membantu Siswa Individual** *Salah:* Guru berlutut di samping meja satu siswa dan memunggungi sisa kelas lainnya. Kelas mulai berisik di sisi lain. *Proaktif:* Guru berlutut atau berdiri di samping siswa tersebut, tetapi memposisikan punggungnya menghadap tembok, sehingga matanya tetap bisa menyapu seluruh ruangan.
+**Saat Membantu Siswa Individual** *Salah:* Guru berlutut di samping meja satu siswa dan memunggungi sisa kelas lainnya. Kelas mulai berisik di sisi lain. *Proaktif:* Guru berlutut atau berdiri di samping siswa tersebut, tetapi memposisikan punggungnya menghadap tembok, sehingga matanya tetap bisa menyapu seluruh ruangan.
 
 ## Strategi Implementasi
 
@@ -27087,8 +27227,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28041,8 +28181,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28276,7 +28416,7 @@ Sebuah permainan dalam bentuk normal terdiri dari tiga elemen dasar ($N, S, P$):
 
 Dalam permainan dua pemain, kita menggunakan tabel (bi-matriks). Pemain 1 biasanya ditempatkan di baris (Row Player), dan Pemain 2 ditempatkan di kolom (Column Player).
 
-**Contoh: Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
+**Permainan Koordinasi (Battle of the Sexes)** Dua orang ingin bertemu, pilihannya adalah menonton Pertunjukan A atau Pertunjukan B. Mereka lebih suka bersama daripada sendiri.
 
 | Pemain 1 \ Pemain 2 | Pertunjukan A | Pertunjukan B |
 | --- | --- | --- |
@@ -29747,8 +29887,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29953,7 +30093,7 @@ Transisi dari dunia pendidikan ke dunia profesional adalah salah satu lompatan p
 2. **Paradoks Pilihan (The Paradox of Choice):** Saat kuliah, pilihanmu terbatas pada mata kuliah. Saat lulus, dunia menawarkan ribuan jalan. Bukannya merasa bebas, banyaknya pilihan sering membuat kita lumpuh karena takut mengambil keputusan yang salah (*Analysis Paralysis*).
 3. **Kesenjangan Keterampilan:** Apa yang dipelajari di bangku formal sering tidak relevan dengan kebutuhan industri, menciptakan perasaan tidak kompeten yang mendalam.
 
-**Analogi: Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat total.*
+**Peta vs. Kompas** *Pendidikan memberikanmu **Peta** yang statis. Namun, dunia kerja adalah hutan belantara yang terus berubah. Masalahnya, banyak dari kita tidak diajarkan cara menggunakan **Kompas** (intuisi dan adaptabilitas), sehingga saat peta tidak lagi akurat, kita merasa tersesat total.*
 
 ## 3\. Pergeseran Peran dalam Hubungan Interpersonal
 
@@ -29973,7 +30113,7 @@ Pertanyaan "Kapan nikah?" kini telah bergeser dari basa-basi biasa menjadi beban
 
 ## Si Lulusan Terbaik yang Kebingungan
 
-**Skenario: "Si Lulusan Terbaik yang Kebingungan"** *Budi adalah lulusan terbaik di jurusannya. Begitu lulus, ia diterima di perusahaan ternama. Namun, setelah 6 bulan, Budi merasa hampa. Ia merasa pekerjaannya tidak bermakna, ia merindukan teman-teman kuliahnya yang kini tersebar, dan ia merasa tertekan melihat unggahan sepupunya yang sudah membeli rumah.*
+**Kisah Budi** *Budi adalah lulusan terbaik di jurusannya. Begitu lulus, ia diterima di perusahaan ternama. Namun, setelah 6 bulan, Budi merasa hampa. Ia merasa pekerjaannya tidak bermakna, ia merindukan teman-teman kuliahnya yang kini tersebar, dan ia merasa tertekan melihat unggahan sepupunya yang sudah membeli rumah.*
 
 **Analisis Penyebab:**
 
@@ -30089,6 +30229,20 @@ def make_decision(options, pfc_maturity_level):
     return decision
 
 # Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang ''low'' atau emosi sedang ''high''.
+```
+
+Bagi kamu yang tidak terbiasa membaca kode, cabang di dalam fungsi tadi bisa dibaca sebagai alur berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Ilustrasi kode, logika keputusan menurut kematangan PFC
+    accDescr: Dalam analogi otak sebagai fungsi program, jika tingkat kematangan PFC di bawah 0.8, amygdala sedang mendominasi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika tidak, keputusan diambil lewat analisis logis dampak jangka panjang.
+    A["Menghadapi beberapa pilihan"] --> B{"Kematangan PFC di bawah 0.8?"}
+    B -->|"ya"| C["Amygdala sedang mendominasi, emosi sangat tinggi"]
+    C --> D["Bantuan eksternal seperti mentor atau journaling"]
+    B -->|"tidak"| E["Analisis logis dampak jangka panjang"]
+    D --> F["Keputusan"]
+    E --> F
 ```
 
 ## 5\. Mengapa Fase Ini Penting?
@@ -30246,7 +30400,7 @@ Media sosial adalah platform **curation**, bukan dokumentasi. Pengguna secara se
 
 ### 4\. Dampak Psikologis Dewasa Muda
 
-**Short Story: Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
+**Dilema Maya** Maya adalah seorang lulusan baru yang bekerja di sebuah *startup*. Pekerjaannya stabil, namun gajinya standar. Suatu malam, ia melihat unggahan teman kuliahnya yang sedang *business trip* ke Jepang dengan fasilitas kelas satu. Seketika, Maya merasa pekerjaannya tidak berarti. Ia mulai meragukan pilihannya, merasa depresi, dan menghabiskan sisa malamnya dengan mencari lowongan kerja yang sebenarnya tidak ia butuhkan hanya karena rasa cemas "tertinggal".
 
 **Dampak nyata dari perilaku Maya meliputi:**
 
@@ -30352,6 +30506,17 @@ Gunakan prinsip ini untuk mengatur aliran danamu secara sistematis:
 - **30% untuk Keinginan (Wants):** Hiburan dan gaya hidup.
 - **20% untuk Tabungan & Utang (Savings/Debt):** Dana darurat atau cicilan.
 
+Kalau ketiga pos itu kamu gambar dalam satu lingkaran, porsinya tampak seperti ini.
+
+```mermaid
+pie title Aturan 50/30/20
+    accTitle: Pembagian pendapatan menurut aturan 50/30/20
+    accDescr: Lima puluh persen untuk kebutuhan, tiga puluh persen untuk keinginan, dan dua puluh persen untuk tabungan dan utang.
+    "Kebutuhan (Needs)" : 50
+    "Keinginan (Wants)" : 30
+    "Tabungan & Utang" : 20
+```
+
 Jika kamu merasa 50% tidak cukup untuk kebutuhan, mampukah kamu menekan bagian ''Wants'' untuk sementara, atau apakah kamu perlu mencari tambahan pendapatan?
 
 ### B. Membangun Dana Darurat (Emergency Fund)
@@ -30445,7 +30610,7 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 
 ### 5. Perubahan Haluan Maya
 
-**Studi Kasus: Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
+**Maya (26 tahun)** Maya adalah seorang akuntan di firma ternama. Secara finansial, dia stabil. Namun, setiap pagi dia merasa sesak napas saat hendak berangkat kerja. Dia merasa "bukan dirinya sendiri."
 
 **Langkah Navigasi Identitas Maya:**
 
@@ -30861,8 +31026,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32116,8 +32281,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32231,7 +32396,7 @@ Pada tahun 1960-an, Csikszentmihalyi melakukan studi mendalam terhadap para seni
 - **Konsentrasi Total:** Saat seorang pelukis sedang mengerjakan karyanya, mereka tampak berada dalam kondisi trans. Mereka mengabaikan rasa lapar, lelah, dan bahkan rasa sakit fisik.
 - **Kehilangan Motivasi Setelah Selesai:** Hal yang paling mengejutkan bagi Mihaly adalah ketika lukisan itu selesai. Begitu kanvas terisi penuh, pelukis tersebut seringkali kehilangan minat pada hasil karyanya dan segera memikirkan proyek berikutnya.
 
-**Analogi: Pendaki Gunung vs Puncak** Bayangkan seorang pendaki gunung. Bagi orang luar, "hadiahnya" adalah mencapai puncak. Namun bagi mereka yang berada dalam kondisi *Flow*, hadiah sebenarnya adalah **setiap langkah sulit saat mendaki**. Puncak hanyalah alasan untuk melakukan pendakian itu sendiri.
+**Pendaki Gunung vs Puncak** Bayangkan seorang pendaki gunung. Bagi orang luar, "hadiahnya" adalah mencapai puncak. Namun bagi mereka yang berada dalam kondisi *Flow*, hadiah sebenarnya adalah **setiap langkah sulit saat mendaki**. Puncak hanyalah alasan untuk melakukan pendakian itu sendiri.
 
 Mihaly menyimpulkan bahwa motivasi tersebut bersifat **Autotelik** (dari bahasa Yunani: *auto* berarti diri sendiri, dan *telos* berarti tujuan). Artinya, aktivitas tersebut dilakukan karena aktivitas itu sendiri adalah tujuannya, bukan karena imbalan eksternal seperti uang atau ketenaran.
 
@@ -32270,7 +32435,7 @@ $$
 
 Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
 
-**Skenario: Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
+**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
 
 **Poin Penting untuk Diingat:**
 
@@ -33083,7 +33248,7 @@ Jika tidak dikelola dengan bijak, pengejaran terhadap kondisi flow bisa berubah 
 
 Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf yang sangat kuat: **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
 
-**Analogi: Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan yang luar biasa. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
+**Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan yang luar biasa. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
 
 - **Kecanduan Dopamin:** Karena perasaan yang dihasilkan sangat menyenangkan (euforia), seseorang bisa menjadi "pecandu flow". Mereka mungkin mulai mengabaikan tanggung jawab dasar hanya untuk mengejar sensasi "berada di zona tersebut".
 - **Aktivitas Berisiko:** Untuk mendapatkan level flow yang sama, seseorang mungkin mencari tantangan yang jauh lebih berbahaya (misalnya dalam olahraga ekstrem) karena tantangan lama tidak lagi memberikan stimulasi yang cukup.
@@ -33311,8 +33476,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33643,15 +33808,15 @@ $$
 
 Kita pantau ekuilibrasi bekerja lewat kisah Budi si balita.
 
-**Tahap 1: Equilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skema: warna ada karena kuas).
+**1. Equilibrium.** Budi yakin langit biru karena baru saja ada yang mengecatnya. Otaknya mencerna itu sebagai fakta paten (skema: warna ada karena kuas).
 
-**Tahap 2: Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
+**2. Tantangan.** Budi melihat awan jalan-jalan. Nggak ada tanda-tanda tumpahan cat dari langit. Gurunya bilang warna biru itu gara-gara cahaya matahari, bukan tukang cat gaib.
 
-**Tahap 3: Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah luar biasa. Inilah momen sakral saat mesin kognitif mulai menyala panas.
+**3. Disequilibrium.** Budi garuk-garuk kepala. *"Kalau nggak dicat, kok warnanya biru terus? Kenapa nggak luntur pas hujan deras?"* Batinnya gelisah luar biasa. Inilah momen sakral saat mesin kognitif mulai menyala panas.
 
-**Tahap 4: Ekuilibrasi & Akomodasi.** Budi mati-matian mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser drastis. Warna bukan cuma soal kuas yang dioles. Cahaya ternyata punya magis untuk menciptakan warna.
+**4. Ekuilibrasi & Akomodasi.** Budi mati-matian mencerna omongan gurunya soal cahaya. Perlahan skemanya bergeser drastis. Warna bukan cuma soal kuas yang dioles. Cahaya ternyata punya magis untuk menciptakan warna.
 
-**Tahap 5: New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
+**5. New Equilibrium.** Budi kembali tenang. Dunianya masuk akal lagi. Namun kali ini struktur pikirannya sudah naik satu level lebih canggih.
 
 ### 6\. Pentingnya "Kebingungan"
 
@@ -34407,8 +34572,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34668,6 +34833,18 @@ Sinclair dan Coulthard membagi struktur percakapan kelas menjadi lima tingkatan 
 4. **Gerakan (*Move*)**: Kontribusi individual dalam satu pertukaran, seperti memberi inisiasi, memberikan jawaban, atau mengevaluasi respons.
 5. **Tindak Tutur (*Act*)**: Unit komunikasi terkecil berupa klausa atau kalimat yang memiliki fungsi pragmatis spesifik, seperti menyapa, bertanya, menegaskan, atau memuji.
 
+Susunan kelima tingkatan itu, dari unit tertinggi sampai terkecil, bisa kamu lihat pada diagram ini.
+
+```mermaid
+flowchart TD
+    accTitle: Hierarki struktur wacana Sinclair dan Coulthard
+    accDescr: Lima tingkatan wacana kelas dari yang tertinggi, yaitu pelajaran, transaksi, pertukaran, gerakan, sampai tindak tutur. Setiap tingkatan dibentuk oleh unit di tingkat bawahnya.
+    A["Pelajaran (Lesson)"] -->|"dibentuk oleh"| B["Transaksi (Transaction)"]
+    B -->|"dibentuk oleh"| C["Pertukaran (Exchange)"]
+    C -->|"dibentuk oleh"| D["Gerakan (Move)"]
+    D -->|"dibentuk oleh"| E["Tindak Tutur (Act)"]
+```
+
 ---
 
 ### Pola Pemulai-Respons-Komentar (IRF Pattern)
@@ -34916,21 +35093,16 @@ Pada pertukaran di atas, guru menggunakan sapaan kolektif *"anak-anak"* pada ger
 
 Penggunaan kata sapaan juga mencerminkan dinamika jarak sosial dan kesantunan (politeness) antara guru dan siswa. Dalam teori sosiolinguistik, pemilihan kata sapaan dipengaruhi oleh dua variabel utama: kekuasaan (*power*) dan solidaritas (*solidarity*).
 
-```
-                      +-----------------------------------+
-                      |   Pilihan Kata Sapaan Guru        |
-                      +-----------------------------------+
-                                        |
-                 +----------------------+----------------------+
-                 |                                             |
-                 v                                             v
-    [Sapaan Kolektif & Hangat]                    [Sapaan Individual & Tegas]
-    Contoh: "Anak-anak", "Anakku"                 Contoh: "Kamu", "Siti", "Rian"
-                 |                                             |
-                 v                                             v
-  - Memperkecil Jarak Sosial                    - Mempertegas Otoritas
-  - Meningkatkan Solidaritas                    - Mengarahkan Fokus Spesifik
-  - Mengajak Partisipasi Aktif                  - Mengendalikan Ketertiban Topik
+Bagan berikut memetakan dua arah pilihan sapaan guru beserta dampak masing-masing.
+
+```mermaid
+flowchart TD
+    accTitle: Pilihan kata sapaan guru dan dampaknya
+    accDescr: Pilihan kata sapaan guru bercabang dua. Sapaan kolektif dan hangat, misalnya Anak-anak dan Anakku, memperkecil jarak sosial, meningkatkan solidaritas, dan mengajak partisipasi aktif. Sapaan individual dan tegas, misalnya Kamu, Siti, dan Rian, mempertegas otoritas, mengarahkan fokus spesifik, dan mengendalikan ketertiban topik.
+    A["Pilihan Kata Sapaan Guru"] --> B["Sapaan Kolektif & Hangat (contoh “Anak-anak”, “Anakku”)"]
+    A --> C["Sapaan Individual & Tegas (contoh “Kamu”, “Siti”, “Rian”)"]
+    B --> D["Memperkecil Jarak Sosial, Meningkatkan Solidaritas, Mengajak Partisipasi Aktif"]
+    C --> E["Mempertegas Otoritas, Mengarahkan Fokus Spesifik, Mengendalikan Ketertiban Topik"]
 ```
 
 * **Sapaan Kehangatan (*Anak-anak*)**: Memperkecil jarak sosial dan menciptakan iklim belajar yang aman secara emosional. Siswa merasa diakui sebagai bagian dari komunitas belajar.
@@ -35378,8 +35550,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36062,8 +36234,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37393,8 +37565,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38313,8 +38485,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39513,8 +39685,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40419,7 +40591,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
 
-**Kasus: Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
+**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
 2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran penuh saat transaksi. Biaya kecil ini mendadak jadi sangat nyata di detik-detik penting sebelum tindakan dilakukan.
@@ -40801,8 +40973,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42204,8 +42376,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42851,8 +43023,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43512,7 +43684,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 
 Dalam dunia nyata, pemahaman tentang spektrum kontinu ini sangat krusial dalam **Dosimetri Radiasi** dan **Identifikasi Isotop**.
 
-**Skenario: Medis (Brachytherapy)** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
+**Brachytherapy Medis** Dalam pengobatan kanker menggunakan sumber beta seperti Strontium-90 (${}^{90}\text{Sr}$), dokter tidak hanya melihat energi maksimumnya. Karena spektrumnya kontinu, dosis radiasi yang diterima jaringan tidak seragam di seluruh kedalaman.
 
 - Partikel beta dengan energi rendah akan berhenti di permukaan kulit (dosis permukaan tinggi).
 - Partikel beta dengan energi tinggi akan menembus lebih dalam ke tumor. Dengan memahami kurva spektrum energi, fisikawan medis dapat menghitung **Dosis Rata-rata** ($\bar{E}$), yang biasanya bernilai sekitar sepertiga dari $E_{\text{max}}$ ($E_{\text{avg}} \approx \frac{1}{3} E_{\text{max}}$).
@@ -44095,8 +44267,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44476,7 +44648,7 @@ Untuk memahami mengapa FIFA (Federasi Sepak Bola Internasional) mengambil langka
 - Pemerintah membatasi hak-hak mayoritas kulit hitam secara drastis, mencakup wilayah tempat tinggal, akses pendidikan, hingga kesempatan kerja.
 - Aturan ketat dalam olahraga melarang pembentukan tim multirasial, melarang pemain kulit hitam dan putih bertanding di satu lapangan, serta memisahkan penonton stadion dengan pagar besi.
 
-> **Analogi: Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola di mana aturan utamanya bukan tentang siapa yang mencetak gol paling banyak, melainkan tentang warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
+> **Klub Eksklusif yang Rusak** Bayangkan sebuah liga sepak bola di mana aturan utamanya bukan tentang siapa yang mencetak gol paling banyak, melainkan tentang warna sepatu yang kamu kenakan. Jika kamu memakai sepatu hitam, kamu tidak diizinkan masuk ke stadion utama, meskipun kamu adalah pemain terbaik di dunia. Inilah yang terjadi di Afrika Selatan; bakat sehebat apa pun tidak berarti jika ras kamu dianggap "salah" oleh hukum negara.
 
 ### 2. Awal Mula Ketegangan dengan FIFA (1950-an)
 
@@ -45112,7 +45284,7 @@ timeline
 
 FIFA selalu memegang prinsip **Netralitas Politik**. Dalam aturan resminya, mereka melarang intervensi pemerintah dalam urusan federasi sepak bola nasional dan melarang simbol-simbol politik di lapangan.
 
-**Analogi: Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan di mana para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," namun pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
+**Wasit di Tengah Tawuran** Bayangkan FIFA sebagai seorang wasit di tengah pertandingan di mana para penonton dan pemain mulai saling lempar kursi karena masalah di luar stadion. Sang wasit bersikeras bahwa "permainan harus berlanjut" dan "saya hanya peduli pada bola," namun pada titik tertentu, asap gas air mata dari luar akan masuk ke lapangan dan membuat pertandingan mustahil dilanjutkan tanpa mengambil sikap.
 
 **Tantangan Utama FIFA di Masa Depan:**
 
@@ -45186,8 +45358,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45848,8 +46020,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47119,8 +47291,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48003,7 +48175,7 @@ else:
 
 ## 6\. Budi sebagai "The Sustainable Minimalist"
 
-**Profil: Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
+**Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 
 Ia merancang sistem keberlanjutan baru dengan memberi tahu timnya bahwa ia hanya membaca dan membalas pesan instan pada jam 10:00, 14:00, dan 16:00. Jadwal ini ia pajang di status profil. Untuk mengalihkan dorongan mengecek ponsel di malam hari, Budi mengambil kelas pertukangan kayu. 
 
@@ -48014,8 +48186,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48834,8 +49006,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48981,9 +49153,22 @@ Setelah ditemukan oleh Ijzerman, pemerintah Hindia Belanda menyadari pentingnya 
 - **Peran Kassian Cephas:** Fotografer pribumi pertama, Kassian Cephas, ditugaskan untuk memotret ke-160 panel tersebut. Inilah satu-satunya catatan visual lengkap yang kita miliki saat ini.
 - **Penutupan Permanen:** Setelah didokumentasikan, batu-batu tersebut disusun kembali menutupi relief hingga hari ini.
 
+Jika dirunut dari penemuan sampai penutupan kembali, urutan kejadiannya tampak seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Dari penemuan sampai penutupan kembali
+    accDescr: Ijzerman mengamati kejanggalan susunan batu pada 1885, menggali kecil di sudut tenggara, dan menemukan relief beserta inskripsi. Pada 1890 sampai 1891 struktur tambahan dibongkar bertahap, Kassian Cephas memotret 160 panel, lalu batu disusun kembali menutupi relief.
+    A["Ijzerman mengamati kejanggalan susunan batu (1885)"] --> B["Penggalian kecil di sudut tenggara"]
+    B --> C["Relief dan inskripsi ditemukan"]
+    C --> D["Pembongkaran bertahap (1890-1891)"]
+    D --> E["Kassian Cephas memotret 160 panel"]
+    E --> F["Batu disusun kembali menutupi relief"]
+```
+
 ### 4. Bagian yang Masih Terbuka
 
-Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **3 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
+Jika kamu berkunjung ke Borobudur saat ini, kamu masih bisa melihat **4 panel** yang sengaja dibiarkan terbuka di sudut tenggara. Ini dilakukan agar pengunjung dapat menyaksikan sebagian kecil dari keindahan "Kaki Tersembunyi" tersebut tanpa mengorbankan stabilitas struktur.
 
 ### Pelajaran dari Kaki Tersembunyi
 
@@ -49237,6 +49422,16 @@ def baca_relief(panel):
 # Contoh Kasus: Panel 10
 baca_relief("Memberi makan hewan lapar") 
 # Output: Terlahir di alam yang berkelimpahan
+```
+
+Percabangan dalam pseudo-code itu dapat kamu baca sebagai panduan sederhana berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Percabangan pembacaan panel
+    accDescr: Aksi manusia di sisi kiri panel bercabang dua. Jika kebajikan, sisi kanan menunjukkan surga atau kebahagiaan. Jika kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
+    A["Sisi kiri panel, aksi manusia"] -->|"Kebajikan"| B["Sisi kanan, surga atau kebahagiaan"]
+    A -->|"Kejahatan"| C["Sisi kanan, neraka atau penderitaan"]
 ```
 
 ### 4. Hirarki dan Perspektif Objek
@@ -49832,6 +50027,18 @@ Hasil kerja Cephas diterbitkan dalam buku monumental karya Isaac Groneman pada t
 
 Tanpa foto Cephas, upaya restorasi Borobudur oleh Theodoor van Erp (1907-1911) dan restorasi besar UNESCO (1973-1983) tidak akan memiliki referensi visual yang akurat mengenai kondisi asli kaki candi sebelum tertutup tekanan tanah dan waktu.
 
+Tahun-tahun yang tersebar di bab ini bisa kamu lihat berurutan pada linimasa berikut.
+
+```mermaid
+timeline
+    accTitle: Linimasa dokumentasi relief kaki Borobudur
+    accDescr: Relief ditemukan IJzerman pada 1885, dipotret Cephas pada 1890 sampai 1891, fotonya terbit dalam buku Groneman pada 1895, lalu menjadi rujukan restorasi van Erp 1907 sampai 1911 dan restorasi UNESCO 1973 sampai 1983.
+    1885 : J.W. IJzerman menemukan relief
+    1890-1891 : Cephas memotret 160 panel
+    1895 : Foto terbit dalam buku Isaac Groneman
+    Restorasi : Theodoor van Erp, 1907-1911 : UNESCO, 1973-1983
+```
+
 ## Aplikasi Nyata dan Relevansi Saat Ini
 
 Pengetahuan tentang dokumentasi Kassian Cephas memberikan kita pelajaran penting dalam beberapa bidang:
@@ -49886,8 +50093,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51334,8 +51541,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53014,8 +53221,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53667,7 +53874,7 @@ Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air 
 
 ## 5. Skenario Kasus dalam Keseharian
 
-**Skenario: Proyek Kolaborasi di Kantor** Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
+**Proyek Kolaborasi di Kantor** Siska memiliki gaya *Fearful-Avoidant*. Saat atasannya memberikan pujian dan tanggung jawab lebih, Siska awalnya merasa senang (kebutuhan akan validasi terpenuhi). Namun, dua hari kemudian, dia mulai merasa cemas. Dia berpikir, *"Atasanku hanya ingin memanfaatkanku,"* atau *"Jika aku gagal sekarang, dia akan melihat betapa tidak kompetennya aku."*
 
 Siska mulai menghindari rapat, membalas email dengan singkat dan dingin, atau bahkan bersikap defensif saat diberi saran kecil. Atasannya menjadi bingung karena perilaku Siska berubah drastis dari "sangat bersemangat" menjadi "sulit diajak kerja sama".
 
@@ -54152,7 +54359,7 @@ Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi ka
 
 Gaya kelekatan tidak hanya memengaruhi hubungan romantis, tetapi juga terlihat dalam dinamika pekerjaan.
 
-**Studi Kasus: Budi dan Proyek Tim** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Di saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
+**Budi dan Proyek Tim** Budi adalah manajer proyek yang kompeten. Namun, setiap kali menerima kritik membangun dari atasannya, dia merasa hancur secara emosional. Budi mulai bekerja lembur secara obsesif demi membuktikan kemampuannya. Di saat yang sama, timbul rasa kesal kepada sang atasan karena dianggap telah mengancam rasa amannya.
 
 **Analisis Pola:** Perilaku Budi menunjukkan gaya **Cemas-Preoccupied**. Kebutuhannya terhadap validasi luar sangat tinggi. Kritik baginya terasa seperti penolakan, memicu ketakutan mendalam akan ketidakmampuan diri. Pola ini sering kali berakar dari masa kecil ketika apresiasi hanya diberikan saat anak menunjukkan prestasi.
 
@@ -54466,8 +54673,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54652,7 +54859,7 @@ Salah satu bukti luar biasa dari evolusi Stoikisme adalah bagaimana ia bisa mera
 
 Bagaimana sejarah Stoikisme ini membantu kita di dunia modern?
 
-**Skenario: Menghadapi Perubahan Karier yang Mendadak** Bayangkan kamu baru saja kehilangan pekerjaan karena perusahaan bangkrut (mirip dengan kapal karam Zeno).
+**Menghadapi Perubahan Karier yang Mendadak** Bayangkan kamu baru saja kehilangan pekerjaan karena perusahaan bangkrut (mirip dengan kapal karam Zeno).
 
 1. **Perspektif Zeno:** Alih-alih melihatnya sebagai bencana, Zeno melihatnya sebagai peluang untuk beralih profesi ke bidang yang lebih ia cintai (filsafat). Ia berkata, *"Perjalanan saya yang paling sukses dimulai saat saya mengalami kecelakaan kapal."*
 2. **Penerapan Modern:** Sejarah evolusi Stoikisme mengajarkan kita bahwa tantangan eksternal hanyalah "bahan mentah" bagi karakter kita. Seperti Stoikisme yang berevolusi dari Yunani ke Romawi untuk menyesuaikan diri dengan zaman, kita juga harus mampu beradaptasi tanpa kehilangan prinsip inti kita.
@@ -54936,7 +55143,7 @@ Untuk memahami apa artinya hidup selaras dengan alam, kita harus terlebih dahulu
 
 Dalam kosmologi Stoik, alam semesta bukanlah sekumpulan kejadian acak yang kacau. Sebaliknya, alam semesta adalah sebuah organisme yang hidup, teratur, dan rasional. Penggerak keteraturan ini disebut *Logos*.
 
-**Analogi: Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
+**Konduktor Orkestra** Bayangkan alam semesta sebagai sebuah pertunjukan orkestra raksasa. Setiap instrumen (bintang, planet, pohon, hewan, manusia) memiliki bagian untuk dimainkan. *Logos* adalah skor musik sekaligus konduktornya. Selama semua instrumen mengikuti skor tersebut, terciptalah harmoni. Kekacauan hanya terjadi jika instrumen mencoba memainkan lagunya sendiri di luar ritme yang ditentukan.
 
 ### Karakteristik Logos
 
@@ -55551,8 +55758,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56902,8 +57109,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57009,9 +57216,9 @@ flowchart LR
 
 Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 
-**Skenario 1: Calon Pendidik (Pre-service)** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
+**Calon Pendidik (Pre-service)** Seorang mahasiswa keguruan merasa sangat pemalu. Melalui microteaching, ia fokus pada satu keterampilan: **Keterampilan Variasi Stimulus**. Ia berlatih menggerakkan tangan, mengubah nada suara, dan berpindah posisi berdiri. Setelah 3 kali sesi simulasi, ia mulai merasa nyaman dengan bahasa tubuhnya sendiri sebelum terjun ke sekolah formal.
 
-**Skenario 2: Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
+**Guru Profesional (In-service)** Seorang guru senior yang terbiasa mengajar ceramah konvensional ingin beralih ke metode *Problem Based Learning*. Ia melakukan sesi microteaching di depan rekan sejawatnya untuk mendapatkan masukan apakah instruksi masalah yang ia berikan sudah cukup menantang dan jelas bagi siswa milenial.
 
 ## Filosofi Utama Microteaching
 
@@ -58226,8 +58433,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58530,7 +58737,7 @@ print(f"Firing Rate Kanan: {calculate_vestibular_firing_rate(60)} spikes/s")
 print(f"Firing Rate Kiri: {calculate_vestibular_firing_rate(-60)} spikes/s")
 ```
 
-**Kasus Nyata: Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
+**Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
 
 ### Kesimpulan Bagian
 
@@ -58994,7 +59201,7 @@ $$
 \text{Gain} = \frac{\text{Kecepatan Gerakan Mata}}{\text{Kecepatan Gerakan Kepala}}
 $$
 
-- $\text{Gain}$ yang sempurna bernilai $-1{,}0$ (atau $1{,}0$ dalam nilai mutlak).
+- $\text{Gain}$ yang sempurna bernilai $-1$ (atau $1$ dalam nilai mutlak).
 - Jika $\text{Gain} < 1$, mata tertinggal dari gerakan kepala, dan kita akan mengalami pandangan buram (*oscillopsia*).
 
 ### 2. Fase (Phase)
@@ -59489,8 +59696,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59966,7 +60173,7 @@ Selamat datang di dunia **Bias Kognitif**. Jika *logical fallacies* (sesat pikir
 
 **Bias kognitif** adalah kecenderungan psikologis yang menyebabkan penyimpangan dalam pertimbangan dan pengambilan keputusan. Ini adalah jalan pintas mental (*heuristik*) yang digunakan otak untuk memproses informasi dengan cepat.
 
-> **Analogi: Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
+> **Ilusi Optik Mental** Bayangkan bias kognitif seperti ilusi optik. Meskipun matamu melihat dua garis memiliki panjang yang berbeda, penggaris membuktikan keduanya sama. Bias kognitif bekerja dengan cara yang sama: meskipun logika berkata A, "perasaan" atau insting kita bersikeras memilih B.
 
 Otak kita berevolusi untuk bertahan hidup di alam liar, di mana keputusan cepat lebih penting daripada keputusan yang akurat secara statistik. Namun, di dunia modern yang kompleks, jalan pintas ini sering kali justru menyesatkan kita.
 
@@ -60781,8 +60988,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62839,8 +63046,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63156,7 +63363,7 @@ Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya
 | **Waktu** | Jangka pendek (mendadak) | Jangka panjang (adaptasi) |
 | **Definisi Barang** | Luas (misal: Pakaian) | Spesifik (misal: Jaket Denim Levi''s) |
 ## Strategi Bisnis Kedai Kopi Lokal
-**Skenario: Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
+**Perusahaan Kopi Lokal** Bayangkan kamu memiliki kedai kopi "Kopi Kenangan Senja". Kamu ingin menaikkan harga sebesar Rp5.000 per cup. Sebelum melakukannya, kamu harus menganalisis determinannya:
 1. **Substitusi:** Apakah di sebelah kedai kamu ada Starbucks atau Point Cafe? Jika ada, permintaan kamu **elastis**. Hati-hati menaikkan harga!
 2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.
 3. **Waktu:** Mungkin di minggu pertama kenaikan harga, pelanggan tetap datang (jangka pendek). Namun jika setelah sebulan mereka merasa terlalu mahal, mereka akan mulai membawa kopi sachet dari rumah (jangka panjang).
@@ -63600,8 +63807,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64378,8 +64585,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64441,6 +64648,24 @@ Dalam skala luas, proses penguapan dari tanah/perairan (evaporasi) dan penguapan
 Presipitasi terjadi ketika uap air di atmosfer mendingin, berkondensasi, dan jatuh kembali ke permukaan Bumi akibat dorongan gaya gravitasi. Presipitasi dapat berwujud hujan air, salju, maupun es batu (*hail*).
 
 - **Skala Waktu Tinggal:** Secara rata-rata, sebuah molekul air menghabiskan waktu tinggal (*residence time*) sekitar 9 hari di atmosfer sebelum kembali jatuh ke permukaan Bumi sebagai presipitasi.
+
+Supaya kamu bisa melihat perjalanan air itu sebagai satu putaran utuh, diagram berikut merangkai komponen-komponen di atas.
+
+```mermaid
+flowchart TD
+    accTitle: Putaran siklus hidrologi global
+    accDescr: Radiasi matahari memberi energi bagi evaporasi dari samudra dan tanah, tumbuhan melepas uap lewat transpirasi, uap air di atmosfer mendingin dan berkondensasi lalu jatuh sebagai presipitasi karena gravitasi, dan kelebihan air di daratan mengalir kembali ke samudra sebagai runoff.
+    M["Radiasi matahari"] -->|"energi termal"| E["Evaporasi"]
+    L["Samudra"] --> E
+    D["Daratan"] --> E
+    D -->|"diserap tumbuhan"| V["Transpirasi lewat stomata"]
+    E --> A["Uap air di atmosfer"]
+    V --> A
+    A -->|"mendingin dan mengembun"| P["Presipitasi"]
+    P -->|"gravitasi"| D
+    P -->|"gravitasi"| L
+    D -->|"runoff lewat sungai"| L
+```
 
 ### 3. Neraca Air Global (*Global Water Balance*)
 
@@ -65432,6 +65657,18 @@ Proses transfer massa uap dari tetesan air superdingin ke kristal es berlangsung
 4. **Deposisi Fase Uap (*Deposition*):** Saat molekul uap menyentuh permukaan kristal es, uap air langsung mengalami perubahan fase menjadi padat (deposisi) dan menyatu dengan kisi kristal.
 5. **Pertumbuhan Massa Kristal:** Kristal es bertambah massa dan ukurannya dengan cepat, sedangkan tetesan air superdingin di sekitarnya menyusut hingga menguap sempurna.
 
+Lima tahapan tadi bisa kamu ikuti sebagai satu rantai berurutan pada bagan di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tahapan pertumbuhan kristal es Bergeron-Findeisen
+    accDescr: Tekanan uap jenuh di atas air lebih besar daripada di atas es sehingga terbentuk gradien tekanan uap, tetes air superdingin menguap, uap berdifusi menuju kristal es, uap mengalami deposisi pada kristal, lalu kristal es tumbuh sementara tetes air menyusut hingga habis menguap.
+    A["Gradien tekanan uap terbentuk"] --> B["Tetes air superdingin menguap"]
+    B --> C["Uap air berdifusi menuju kristal es"]
+    C --> D["Deposisi uap menjadi padat pada kristal"]
+    D --> E["Kristal es tumbuh, tetes air menyusut hingga habis"]
+```
+
 > **Catatan Fisika Awan:** Pada fase awal ini, pertumbuhan kristal es terjadi akibat ikatan deposisi uap air langsung dari fase gas ke padat, bukan akibat tumbukan fisik (*impact freezing*) antara kristal es dengan tetesan air superdingin.
 
 ### Pemodelan Laju Pertumbuhan Kristal Es
@@ -65541,6 +65778,19 @@ $$
 </div>
 
 Di mana $v_t$ dipengaruhi oleh massa dan luas permukaan hail.
+
+Perjalanan naik-turun itu, berikut syarat kapan hail akhirnya jatuh, terangkum dalam alur ini agar kamu mudah menelusurinya.
+
+```mermaid
+flowchart TD
+    accTitle: Siklus hidup sebuah hailstone
+    accDescr: Embrio dari graupel atau tetesan air besar yang membeku terangkat arus naik ke puncak awan yang sangat dingin dan membentuk lapisan buram, lalu jatuh ke bagian awan yang lebih hangat tetapi tetap di bawah nol dan membentuk lapisan bening. Selama kecepatan arus naik masih lebih besar atau sama dengan kecepatan jatuh terminal, partikel tetap ditopang arus naik; setelah terlalu berat, hail jatuh ke permukaan bumi.
+    A["Embrio dari graupel atau tetesan besar yang membeku"] --> B["Terangkat ke puncak awan yang sangat dingin, lapisan buram terbentuk"]
+    B --> C["Jatuh ke bagian lebih hangat di bawah nol, lapisan bening terbentuk"]
+    C --> D{"Arus naik masih lebih besar atau sama dengan kecepatan jatuh terminal?"}
+    D -->|"ya, tetap ditopang arus naik"| B
+    D -->|"tidak, terlalu berat"| E["Hail jatuh ke permukaan bumi"]
+```
 
 > **Pengamatan:** Apabila batu es hujan (*hailstone*) dibelah, lingkaran-lingkaran konsentris akan terlihat mirip seperti lingkaran tahun pada batang pohon. Setiap lapisan menceritakan perjalanan partikel tersebut naik dan turun di dalam badai.
 
@@ -65730,8 +65980,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66480,8 +66730,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66593,7 +66843,7 @@ Dalam perjalanan membangun resiliensi, **Pola Pikir Berkembang (Growth Mindset)*
 
 Konsep ini dipopulerkan oleh psikolog Stanford, **Carol Dweck**. Secara sederhana, *Growth Mindset* adalah keyakinan bahwa kemampuan dasarmu dapat dikembangkan melalui dedikasi, kerja keras, dan strategi yang tepat.
 
-**Analogi: Otot vs. Patung Batu** Bayangkan kemampuanmu sebagai sebuah **otot**. Semakin sering dilatih dengan beban yang tepat, ia akan semakin kuat dan besar. Sebaliknya, orang dengan *Fixed Mindset* (Pola Pikir Tetap) melihat kemampuan mereka seperti **patung batu**. Sekali dipahat, bentuknya tidak akan pernah berubah. Jika patung itu retak (gagal), maka ia dianggap rusak selamanya.
+**Otot vs. Patung Batu** Bayangkan kemampuanmu sebagai sebuah **otot**. Semakin sering dilatih dengan beban yang tepat, ia akan semakin kuat dan besar. Sebaliknya, orang dengan *Fixed Mindset* (Pola Pikir Tetap) melihat kemampuan mereka seperti **patung batu**. Sekali dipahat, bentuknya tidak akan pernah berubah. Jika patung itu retak (gagal), maka ia dianggap rusak selamanya.
 
 > **Intisari:** Dalam pola pikir berkembang, tantangan tidak mengancam identitas diri kita, melainkan mengundang kita untuk terus bertumbuh.
 
@@ -67092,7 +67342,7 @@ Dimana:
 
 Jaring pengaman tidak bisa dibuat saat kamu sedang terjatuh; ia harus dirajut saat kamu masih berdiri tegak di atas tali.
 
-**Skenario: Krisis Karier** Budi kehilangan pekerjaannya secara tiba-tiba karena perampingan perusahaan.
+**Krisis Karier** Budi kehilangan pekerjaannya secara tiba-tiba karena perampingan perusahaan.
 
 - **Tanpa Jaring Pengaman:** Budi mengisolasi diri, merasa malu, dan depresi karena merasa sendirian menghadapi masalah finansial.
 - **Dengan Jaring Pengaman:** Budi menghubungi grup alumni (komunitas), berbicara dengan sahabat yang juga pernah di-PHK (dukungan sebaya), dan mendapatkan dukungan emosional dari keluarga (hubungan sehat). Dia mendapatkan info lowongan kerja dalam seminggu dan dukungan mental untuk tetap percaya diri.
@@ -67155,6 +67405,18 @@ Untuk melatih kecepatan dalam mencari solusi alternatif, kita bisa meminjam stra
 2. **Orient (Orientasi):** Inilah bagian fleksibilitas kognitif. Singkirkan biasmu. Bagaimana situasi baru ini mengubah posisimu?
 3. **Decide (Memutuskan):** Berdasarkan orientasi baru, pilih opsi terbaik dari berbagai alternatif yang muncul.
 4. **Act (Bertindak):** Eksekusi keputusan tersebut dengan cepat, lalu kembali ke tahap observasi untuk melihat hasilnya.
+
+Keempat tahap itu membentuk putaran yang bisa kamu lihat pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus OODA
+    accDescr: Empat tahap Siklus OODA berjalan berurutan dari observasi, orientasi, memutuskan, sampai bertindak, lalu kembali ke observasi untuk melihat hasilnya.
+    A["Observe (Observasi)"] --> B["Orient (Orientasi)"]
+    B --> C["Decide (Memutuskan)"]
+    C --> D["Act (Bertindak)"]
+    D -->|"lihat hasilnya"| A
+```
 
 *Pernahkah kamu terus melakukan hal yang sama berkali-kali meskipun hasilnya selalu gagal? Itu adalah tanda ''Cognitive Rigidity'' (Kekakuan Kognitif). Bagaimana jika kamu mencoba tahap ''Orient'' secara berbeda hari ini?*
 
@@ -67307,7 +67569,7 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 
 ### 5. Deadline Proyek Besar
 
-**Kasus: Deadline Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
+***Deadline* Proyek Besar di Kantor** Seorang manajer proyek menghadapi *deadline* dalam 48 jam ke depan. Tingkat stresnya berada pada puncaknya.
 
 - **Pendekatan Kurang Tepat:** Bekerja 18 jam nonstop, mengonsumsi 5 cangkir kopi, dan tidur hanya 3 jam. Hasilnya: Kesalahan fatal di jam-jam terakhir karena kelelahan kognitif.
 - **Pendekatan Resilien (Strategi Pemulihan Energi):**
@@ -67386,6 +67648,16 @@ Bagaimana mungkin penderitaan menghasilkan pertumbuhan? Bayangkan keyakinanmu te
 - **Dunia yang Diasumsikan:** Sebelum krisis, kita merasa dunia ini aman dan kita punya kendali penuh.
 - **Guncangan Seismik:** Krisis hebat datang seperti gempa bumi yang meruntuhkan bangunan mental tersebut.
 - **Rekonstruksi:** Di sinilah PTG terjadi. Saat kita berdiri di atas puing-puing, kita terpaksa membangun kembali bangunan mental yang lebih kokoh, lebih luas, dan lebih tahan gempa.
+
+Urutan dari bangunan mental lama hingga rekonstruksinya terangkum dalam alur ini.
+
+```mermaid
+flowchart LR
+    accTitle: Mekanisme The Seismic Shattering
+    accDescr: Dunia yang diasumsikan sebelum krisis diruntuhkan oleh guncangan seismik berupa krisis hebat, lalu disusul rekonstruksi bangunan mental yang lebih kokoh, tempat PTG terjadi.
+    A["Dunia yang Diasumsikan"] -->|"krisis hebat datang"| B["Guncangan Seismik"]
+    B -->|"bangunan mental runtuh"| C["Rekonstruksi (PTG terjadi)"]
+```
 
 *Apakah ada keyakinan lamamu yang harus "runtuh" terlebih dahulu sebelum kamu bisa melihat perspektif yang lebih luas hari ini?*
 
@@ -67702,8 +67974,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-16T01:12:56.000Z',
-  '2026-10-16T01:12:56.000Z'
+  '2026-10-16T01:31:39.058Z',
+  '2026-10-16T01:31:39.058Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

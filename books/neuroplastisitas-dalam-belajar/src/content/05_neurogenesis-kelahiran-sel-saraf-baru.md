@@ -12,13 +12,13 @@ Fenomena luar biasa ini disebut **Neurogenesis**.
 
 > "Otak kamu tidak hanya belajar dengan cara mengubah koneksi, tetapi dalam area tertentu, ia belajar dengan cara melahirkan anggota baru dalam tim sel sarafnya."
 
-Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat sangat penting bagi fungsi kognitif kita.
+Meskipun terjadi secara terbatas di otak dewasa dibandingkan saat masa perkembangan janin, proses ini sangat penting bagi fungsi kognitif kita.
 
 ### Pabrik Neuron di Otak Kita
 
 Di otak manusia dewasa, neurogenesis terutama terjadi di dua lokasi utama, namun yang paling relevan dengan proses belajar dan memori adalah **Hippocampus**, tepatnya di area yang disebut *Gyrus Dentatus*.
 
-**Analogi: Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan raksasa. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
+**Perpustakaan yang Terus Berpindah** Bayangkan Hippocampus sebagai sebuah gudang logistik atau pusat sortir di sebuah perpustakaan raksasa. Tugasnya adalah menerima buku-buku baru (informasi), mengkategorikannya, dan mengirimkannya ke rak yang tepat (memori jangka panjang di korteks).
 
 - **Tanpa Neurogenesis:** Gudang tersebut akan penuh sesak, petugasnya kelelahan, dan buku-buku baru akan berserakan tanpa teratur.
 - **Dengan Neurogenesis:** Otak terus mendatangkan "karyawan baru" (neuron baru) yang segar dan energik untuk membantu memproses arus informasi yang tak henti-hentinya.

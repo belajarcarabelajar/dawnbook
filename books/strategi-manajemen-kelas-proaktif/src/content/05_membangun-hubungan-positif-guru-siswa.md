@@ -18,7 +18,7 @@ Jangan hanya mengandalkan ingatan. Gunakan pendekatan sistematis untuk memetakan
 		- *Apa satu hal yang ingin Bapak/Ibu Guru ketahui tentang caramu belajar?*
 		- *Siapa pahlawanmu di dunia nyata?*
 
-> **Analogi: Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
+> **Rekening Bank Emosional** Bayangkan setiap interaksi positif adalah sebuah **setoran (deposit)** dan setiap teguran atau konflik adalah sebuah **penarikan (withdrawal)**. Jika kamu terus-menerus menarik saldo tanpa pernah menabung, hubungan akan "bangkrut", yang bermanifestasi dalam bentuk perlawanan atau sikap apatis siswa.
 
 ## 2. Membangun Kepercayaan Melalui Kehadiran Otentik
 
@@ -64,7 +64,7 @@ Semakin rendah nilai kecemasan ($Kz$), maka kesiapan belajar ($K$) akan meningka
 
 Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat, kamu tidak lagi membutuhkan hukuman yang keras untuk mengarahkan perilaku.
 
-**Prinsip Utama: Koneksi Sebelum Koreksi** Sebelum memberikan konsekuensi atas perilaku buruk, pastikan hubungan emosional tetap utuh. Siswa jauh lebih mungkin menerima arahan dari seseorang yang mereka hormati dan sukai.
+**Koneksi Sebelum Koreksi** Sebelum memberikan konsekuensi atas perilaku buruk, pastikan hubungan emosional tetap utuh. Siswa jauh lebih mungkin menerima arahan dari seseorang yang mereka hormati dan sukai.
 
 ### Budi Menolak Mengerjakan Tugas
 

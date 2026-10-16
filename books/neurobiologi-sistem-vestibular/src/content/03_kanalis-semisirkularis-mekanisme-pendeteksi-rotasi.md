@@ -107,7 +107,7 @@ print(f"Firing Rate Kanan: {calculate_vestibular_firing_rate(60)} spikes/s")
 print(f"Firing Rate Kiri: {calculate_vestibular_firing_rate(-60)} spikes/s")
 ```
 
-**Kasus Nyata: Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
+**Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
 
 ### Kesimpulan Bagian
 
