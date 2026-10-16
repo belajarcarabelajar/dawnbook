@@ -54,11 +54,11 @@ Karena kelima status itu diurutkan menurut lamanya tunggakan, batas harinya bisa
 ```mermaid
 flowchart TD
     accTitle: Lima tingkatan kolektibilitas di SLIK OJK
-    accDescr: Status bergeser dari Kolektibilitas 1 Lancar ke Kolektibilitas 2 saat terlambat 1 sampai 90 hari, ke Kolektibilitas 3 pada 91 sampai 120 hari, ke Kolektibilitas 4 pada 121 sampai 180 hari, dan ke Kolektibilitas 5 Macet bila lebih dari 180 hari.
-    K1["Kolektibilitas 1 (Lancar)"] -->|"terlambat 1 sampai 90 hari"| K2["Kolektibilitas 2 (Dalam Perhatian Khusus)"]
-    K2 -->|"menunggak 91 hingga 120 hari"| K3["Kolektibilitas 3 (Kurang Lancar)"]
-    K3 -->|"terlambat 121 sampai 180 hari"| K4["Kolektibilitas 4 (Diragukan)"]
-    K4 -->|"lebih dari 180 hari"| K5["Kolektibilitas 5 (Macet)"]
+    accDescr: Kelima status kolektibilitas diurutkan menurut lama tunggakan, yaitu Kolektibilitas 1 Lancar, Kolektibilitas 2 Dalam Perhatian Khusus dengan keterlambatan 1 sampai 90 hari, Kolektibilitas 3 Kurang Lancar dengan tunggakan 91 hingga 120 hari, Kolektibilitas 4 Diragukan dengan keterlambatan 121 sampai 180 hari, dan Kolektibilitas 5 Macet bila lebih dari 180 hari.
+    K1["Kolektibilitas 1 (Lancar)"] --> K2["Kolektibilitas 2 (Dalam Perhatian Khusus), 1 sampai 90 hari"]
+    K2 --> K3["Kolektibilitas 3 (Kurang Lancar), 91 hingga 120 hari"]
+    K3 --> K4["Kolektibilitas 4 (Diragukan), 121 sampai 180 hari"]
+    K4 --> K5["Kolektibilitas 5 (Macet), lebih dari 180 hari"]
 ```
 
 Kondisi status ini membawa efek yang sangat berbeda. Jika rapor kamu masuk kategori lancar:
