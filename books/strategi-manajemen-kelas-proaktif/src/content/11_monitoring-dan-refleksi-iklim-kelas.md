@@ -68,6 +68,18 @@ Jika hasil monitoring menunjukkan skor $E$ rendah, periksa variabel mana yang be
 3. **Adjust (Sesuaikan):** Ubah satu variabel (misal: mengubah tempat duduk atau memperpendek durasi ceramah).
 4. **Re-evaluate (Evaluasi Ulang):** Lihat hasilnya dalam dua minggu ke depan.
 
+Sebagai siklus, keempat langkah itu bisa kamu bayangkan berputar seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus refleksi proaktif
+    accDescr: Empat langkah refleksi berputar sebagai siklus, yaitu kumpulkan data, analisis pola, sesuaikan satu variabel, lalu evaluasi ulang hasilnya dalam dua minggu sebelum kembali mengumpulkan data.
+    A["Collect (Kumpulkan data)"] --> B["Analyze (Cari pola)"]
+    B --> C["Adjust (Ubah satu variabel)"]
+    C --> D["Re-evaluate (Lihat hasil dalam dua minggu)"]
+    D --> A
+```
+
 ## 5. Perbaikan Kelas Pak Budi
 
 **Skenario:** Pak Budi merasa kelasnya mulai tidak terkendali saat diskusi kelompok. Ia melakukan evaluasi diri dan menyadari bahwa ia sering membiarkan satu kelompok terlalu berisik tanpa teguran (inkonsistensi). Ia kemudian memberikan survei singkat kepada siswa.

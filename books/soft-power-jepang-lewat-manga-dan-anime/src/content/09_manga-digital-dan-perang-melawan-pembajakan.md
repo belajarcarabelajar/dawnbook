@@ -22,6 +22,21 @@ Kasus paling terkenal adalah Manga-mura, situs bajakan yang beroperasi sejak 201
 
 Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019. Pada Juni 2021, Pengadilan Distrik Fukuoka menjatuhkan hukuman tiga tahun penjara, denda 10 juta yen, dan perampasan 62 juta yen. Ceritanya belum selesai di situ. Pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen kepada tiga penerbit besar, yaitu Kadokawa, Shueisha, dan Shogakukan.
 
+Urutan peristiwanya, dari situs mulai beroperasi sampai putusan ganti rugi, tergambar pada bagan di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Kronologi kasus Manga-mura
+    accDescr: Urutan waktu kasus Manga-mura dari atas ke bawah. Situs beroperasi sejak 2016. CODA memperkirakan kerugian 319,2 miliar yen pada September 2017 sampai Februari 2018. Situs menghilang pada 17 April 2018 setelah pemerintah meminta penyedia layanan internet memblokirnya. Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019. Pada Juni 2021 Pengadilan Distrik Fukuoka menjatuhkan hukuman tiga tahun penjara, denda 10 juta yen, dan perampasan 62 juta yen. Pada 18 April 2024 Pengadilan Distrik Tokyo memerintahkan ganti rugi 1,7 miliar yen kepada Kadokawa, Shueisha, dan Shogakukan.
+    A["2016, situs Manga-mura mulai beroperasi"]
+    B["September 2017 sampai Februari 2018, kerugian diperkirakan CODA 319,2 miliar yen"]
+    C["17 April 2018, situs menghilang setelah pemerintah meminta pemblokiran"]
+    D["September 2019, Romi Hoshino diekstradisi dari Filipina"]
+    E["Juni 2021, Pengadilan Distrik Fukuoka menjatuhkan tiga tahun penjara"]
+    F["18 April 2024, putusan ganti rugi 1,7 miliar yen dari Pengadilan Distrik Tokyo"]
+    A --> B --> C --> D --> E --> F
+```
+
 Pelajaran dari kasus ini cukup jelas. Penegakan hukum bisa menutup satu situs, tetapi prosesnya bertahun-tahun, dan pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
 
 ### Bab Gratis yang Terbit Serentak

@@ -69,6 +69,18 @@ Mari kita gunakan skenario nyata untuk memahami konsep ini.
 
 **Hasil Akhir (Ekuilibrium):** Pendatang Masuk, dan Petahana melakukan Akomodasi.
 
+Pohon permainan di bawah ini memetakan pilihan P dan B beserta hasilnya, termasuk ujung cabang yang menjadi ekuilibrium.
+
+```mermaid
+flowchart TD
+    accTitle: Pohon permainan masuk pasar
+    accDescr: Pendatang memilih Masuk atau Tetap Keluar dengan hasil (0, 10). Jika Pendatang masuk, Petahana memilih Bertarung dengan hasil (-2, -1) atau Akomodasi dengan hasil (2, 5), yang menjadi ekuilibrium. Urutan hasil adalah (Pendatang, Petahana).
+    P["Pendatang (P)"] -->|"Tetap Keluar"| K["(0, 10)"]
+    P -->|"Masuk"| B["Petahana (B)"]
+    B -->|"Bertarung"| T["(-2, -1)"]
+    B -->|"Akomodasi"| A["Ekuilibrium (2, 5)"]
+```
+
 ## 5. Ekuilibrium Nash Sempurna Subpermainan (Subgame Perfect Nash Equilibrium - SPNE)
 
 Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Equilibrium (SPNE)**. Ini adalah konsep yang lebih kuat daripada Ekuilibrium Nash biasa.

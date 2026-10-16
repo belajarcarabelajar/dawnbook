@@ -57,6 +57,20 @@ ELSE:
    FOLLOW instruksi_tambahan()
 ```
 
+Kalau kamu lebih mudah membaca alur bercabang, kode di atas dapat digambar sebagai bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Alur rutinitas pengumpulan tugas
+    accDescr: Jika tugas selesai, siswa mengecek nama dan tanggal, memasukkan tugas ke folder sesuai mapel, kembali ke tempat duduk, lalu memulai aktivitas pengayaan. Jika belum selesai, siswa tetap tenang dan mengikuti instruksi tambahan.
+    A{"Tugas selesai?"} -->|"ya"| B["Cek nama dan tanggal"]
+    B --> C["Masukkan ke folder sesuai mapel"]
+    C --> D["Kembali ke tempat duduk"]
+    D --> E["Mulai aktivitas pengayaan"]
+    A -->|"tidak"| F["Tetap tenang"]
+    F --> G["Ikuti instruksi tambahan"]
+```
+
 ## 4. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
 
 Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa harus bertanya setiap saat.

@@ -80,6 +80,24 @@ Dalam jangka panjang, perusahaan **hanya akan memperoleh Laba Normal**. Hal ini 
    - Harga pasar $P$ naik.
    - Harga akan terus naik sampai perusahaan yang tersisa kembali ke titik **Laba Normal**.
 
+Kedua jalur penyesuaian itu, yang berangkat dari arah berlawanan, bisa kamu lihat bertemu di titik yang sama pada bagan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Proses penyesuaian jangka panjang di pasar persaingan sempurna
+    accDescr: Jika ada laba supernormal, pengusaha dari luar industri masuk, jumlah penjual meningkat, penawaran pasar bergeser ke kanan, dan harga pasar turun sampai laba supernormal hilang. Jika terjadi kerugian, perusahaan yang tidak efisien keluar, jumlah penjual berkurang, penawaran pasar bergeser ke kiri, dan harga pasar naik. Kedua jalur berakhir di laba normal.
+    A["Laba supernormal"] --> B["Pengusaha dari luar industri tertarik masuk"]
+    B --> C["Jumlah penjual meningkat"]
+    C --> D["Penawaran pasar S bergeser ke kanan"]
+    D --> E["Harga pasar P turun"]
+    E -->|"sampai laba supernormal hilang"| N["Laba normal"]
+    F["Kerugian"] --> G["Perusahaan yang tidak efisien keluar dari pasar"]
+    G --> H["Jumlah penjual berkurang"]
+    H --> I["Penawaran pasar S bergeser ke kiri"]
+    I --> J["Harga pasar P naik"]
+    J -->|"sampai perusahaan yang tersisa kembali ke titik ini"| N
+```
+
 > **Pesan Utama:** Dalam jangka panjang, keseimbangan di PPS terjadi pada titik terendah Kurva Biaya Rata-rata $\text{AC}_{\text{min}}$. Ini berarti perusahaan beroperasi pada tingkat yang paling efisien secara biaya.
 
 $$

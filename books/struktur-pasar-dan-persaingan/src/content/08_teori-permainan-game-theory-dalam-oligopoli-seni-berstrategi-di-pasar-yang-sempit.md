@@ -80,6 +80,21 @@ Interaksi dalam pasar oligopoli nyata berlangsung secara berulang dari waktu ke 
 3. Jika pesaing berkhianat dengan memotong harga, kamu membalas dengan memotong harga di periode berikutnya sebagai bentuk penalti.
 4. Jika pesaing kembali bekerja sama, kamu memaafkannya dan kembali menetapkan harga tinggi.
 
+Empat aturan tadi dapat diringkas menjadi dua keadaan harga yang berganti mengikuti langkah pesaing pada periode sebelumnya.
+
+```mermaid
+stateDiagram-v2
+    accTitle: Strategi Tit-for-Tat dalam permainan berulang
+    accDescr: Interaksi dimulai dengan bekerja sama menetapkan harga tinggi. Pada setiap periode berikutnya kamu meniru langkah pesaing pada periode sebelumnya, yaitu memotong harga bila pesaing berkhianat dan kembali ke harga tinggi bila pesaing kembali bekerja sama.
+    HT : Harga tinggi (bekerja sama)
+    PH : Potong harga (penalti)
+    [*] --> HT : mulai interaksi
+    HT --> HT : pesaing bekerja sama
+    HT --> PH : pesaing memotong harga
+    PH --> PH : pesaing memotong harga
+    PH --> HT : pesaing kembali bekerja sama
+```
+
 Strategi ini terbukti efektif dalam memelihara stabilitas pasar serta mencegah **Perang Harga** yang merugikan semua pihak.
 
 ### 6. Perang Tarif Operator Seluler

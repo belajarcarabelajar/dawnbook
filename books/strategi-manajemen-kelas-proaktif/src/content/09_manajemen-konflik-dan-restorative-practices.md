@@ -77,6 +77,18 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
 
+Urutan kelima langkah tersebut dapat kamu ikuti pada bagan di bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Lima langkah penyelesaian konflik restoratif
+    accDescr: Saat dua siswa berkonflik, guru memastikan regulasi emosi, mengajak berbagi perspektif, membangun empati, menyusun kesepakatan perbaikan, lalu melakukan tindak lanjut beberapa hari kemudian.
+    A["Regulasi Emosi (kedua pihak tenang)"] --> B["Berbagi Perspektif (tanpa interupsi)"]
+    B --> C["Membangun Empati (dampak pada korban)"]
+    C --> D["Kesepakatan Perbaikan (usulan siswa)"]
+    D --> E["Tindak Lanjut (beberapa hari kemudian)"]
+```
+
 ### 5. Skenario Dunia Nyata
 
 **Kasus:** Budi secara tidak sengaja merusak tugas prakarya milik Siti karena mereka sedang berebut ruang di meja. Siti marah dan mendorong Budi.

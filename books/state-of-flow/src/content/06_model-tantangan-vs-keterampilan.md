@@ -56,6 +56,24 @@ Seiring berkembangnya riset, Csikszentmihalyi memperhalus model ini menjadi 8 ko
 | **Anxiety** | Tinggi | Rendah | Stres berat karena tuntutan yang luar biasa besar. |
 | **Arousal** | Tinggi | Menengah | Tertarik dan fokus, namun masih butuh peningkatan skill untuk mencapai *flow*. |
 
+Delapan kondisi dalam tabel itu bisa kamu letakkan pada grafik dua sumbu, dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak.
+
+```mermaid
+quadrantChart
+    accTitle: Delapan kondisi pengalaman menurut tantangan dan keterampilan
+    accDescr: Grafik dua sumbu dengan keterampilan di sumbu mendatar dan tantangan di sumbu tegak, masing-masing bertingkat rendah, menengah, dan tinggi. Flow berada pada tantangan tinggi dan keterampilan tinggi, Control pada tantangan menengah dan keterampilan tinggi, Relaxation pada tantangan rendah dan keterampilan tinggi, Boredom pada tantangan rendah dan keterampilan menengah, Apathy pada tantangan rendah dan keterampilan rendah, Worry pada tantangan menengah dan keterampilan rendah, Anxiety pada tantangan tinggi dan keterampilan rendah, serta Arousal pada tantangan tinggi dan keterampilan menengah.
+    x-axis Keterampilan rendah --> Keterampilan tinggi
+    y-axis Tantangan rendah --> Tantangan tinggi
+    Flow: [0.85, 0.85]
+    Control: [0.85, 0.5]
+    Relaxation: [0.85, 0.15]
+    Boredom: [0.5, 0.15]
+    Apathy: [0.15, 0.15]
+    Worry: [0.15, 0.5]
+    Anxiety: [0.15, 0.85]
+    Arousal: [0.5, 0.85]
+```
+
 ## 4\. Aplikasi Nyata dan Skenario
 
 ### Pengembangan Perangkat Lunak (Software Engineering)
