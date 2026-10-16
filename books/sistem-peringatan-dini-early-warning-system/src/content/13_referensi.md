@@ -38,6 +38,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 
 - Badan Meteorologi, Klimatologi, dan Geofisika. (2012). *Buku pedoman pelayanan peringatan dini tsunami InaTEWS* (Ed. 2). BMKG. [Buku Pedoman Pelayanan Peringatan Dini Tsunami InaTEWS Edisi Kedua](https://www.gitews.de/tsunami-kit/id/E3/perangkat/Pedoman%20Pelayanan%20Peringatan%20Dini%20Tsunami%20InaTEWS%20%282%29.pdf)
 
+- Badan Meteorologi, Klimatologi, dan Geofisika. (2025, 31 Oktober). *Menutup IDRIP: Peringatan dini gempa-tsunami kini maksimum 3 menit, akurasi >90%*. BMKG. [Menutup IDRIP, Peringatan Dini Gempa-Tsunami Kini Maksimum 3 Menit](https://www.bmkg.go.id/berita/utama/menutup-idrip-peringatan-dini-gempa-tsunami-kini-maksimum-3-menit-akurasi-90)
+
 - Badan Nasional Penanggulangan Bencana. (2023). *Katalog data kebencanaan Indonesia*. Pusat Data, Informasi dan Komunikasi Kebencanaan BNPB. [Data Bencana Indonesia BNPB](https://data.bnpb.go.id/)
 
 ### E. Jurnal dan Publikasi Ilmiah tentang InaTEWS dan Peringatan Dini

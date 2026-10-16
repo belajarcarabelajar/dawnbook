@@ -26,12 +26,14 @@ di mana \\( \text{Hit} \\) adalah kejadian yang berhasil diperingatkan, \\( \tex
 
 #### Tabel Target Kinerja Ideal vs Realita
 
-| Metrik | Target Sendai | Realita Indonesia 2020-2024 | Catatan |
+| Metrik | Target kinerja | Realita Indonesia 2020-2024 | Catatan |
 | --- | --- | --- | --- |
 | POD gempa >5 SR | >0.95 | 0.98 | Jaringan seismik padat |
 | FAR tsunami | <0.3 | 0.35 | Masih tinggi karena skenario konservatif |
-| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 4 menit rata-rata | Sudah dalam rentang target |
+| Waktu terbit peringatan tsunami pertama | 3 sampai 5 menit | 5 menit, kini teruji maksimum 3 menit | Menurut BMKG (2025), sudah dalam rentang target |
 | POD banjir | >0.8 | 0.72 | Keterbatasan radar di timur |
+
+Angka POD dan FAR pada tabel adalah patokan ilustratif untuk melatih kamu membaca metrik, bukan target resmi Kerangka Sendai. Tujuh target global Sendai (A sampai G) berbicara tentang korban jiwa, warga terdampak, kerugian, kerusakan infrastruktur, strategi, kerja sama, dan akses peringatan dini, tanpa ambang POD, FAR, atau batas menit. Patokan waktu terbit berasal dari BMKG, yang dulu menargetkan 5 menit dan sejak proyek IDRIP menyatakan peringatan teruji maksimum 3 menit.
 
 ### 2. Simulasi Tabletop hingga Full Scale
 
