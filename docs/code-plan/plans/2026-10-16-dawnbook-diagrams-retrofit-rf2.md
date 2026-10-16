@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagrams-retrofit-rf2
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -254,69 +254,69 @@ flowchart TD
 
 ### Task B1: filosofi-stoikisme
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book filosofi-stoikisme` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book filosofi-stoikisme --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of filosofi-stoikisme equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/filosofi-stoikisme.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book filosofi-stoikisme` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book filosofi-stoikisme --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of filosofi-stoikisme equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/filosofi-stoikisme.txt` | expect: exit 0 | retry: 0
 
 ### Task B2: fungsi-manajemen-poac
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book fungsi-manajemen-poac` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book fungsi-manajemen-poac --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of fungsi-manajemen-poac equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/fungsi-manajemen-poac.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book fungsi-manajemen-poac` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book fungsi-manajemen-poac --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of fungsi-manajemen-poac equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/fungsi-manajemen-poac.txt` | expect: exit 0 | retry: 0
 
 ### Task B3: gegar-budaya
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book gegar-budaya` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book gegar-budaya --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of gegar-budaya equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/gegar-budaya.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book gegar-budaya` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book gegar-budaya --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of gegar-budaya equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/gegar-budaya.txt` | expect: exit 0 | retry: 0
 
 ### Task B4: geopolitik-dalam-sejarah-piala-dunia
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book geopolitik-dalam-sejarah-piala-dunia` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book geopolitik-dalam-sejarah-piala-dunia --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of geopolitik-dalam-sejarah-piala-dunia equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/geopolitik-dalam-sejarah-piala-dunia.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book geopolitik-dalam-sejarah-piala-dunia` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book geopolitik-dalam-sejarah-piala-dunia --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of geopolitik-dalam-sejarah-piala-dunia equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/geopolitik-dalam-sejarah-piala-dunia.txt` | expect: exit 0 | retry: 0
 
 ### Task B5: human-capital-theory
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book human-capital-theory` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book human-capital-theory --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of human-capital-theory equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/human-capital-theory.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book human-capital-theory` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book human-capital-theory --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of human-capital-theory equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/human-capital-theory.txt` | expect: exit 0 | retry: 0
 
 ### Task B6: kecerdasan-interpersonal
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kecerdasan-interpersonal` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kecerdasan-interpersonal --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of kecerdasan-interpersonal equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kecerdasan-interpersonal.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kecerdasan-interpersonal` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kecerdasan-interpersonal --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of kecerdasan-interpersonal equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kecerdasan-interpersonal.txt` | expect: exit 0 | retry: 0
 
 ### Task B7: kenapa-kebiasaan-susah-diubah
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kebiasaan-susah-diubah` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kebiasaan-susah-diubah --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of kenapa-kebiasaan-susah-diubah equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kebiasaan-susah-diubah.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kebiasaan-susah-diubah` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kebiasaan-susah-diubah --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of kenapa-kebiasaan-susah-diubah equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kebiasaan-susah-diubah.txt` | expect: exit 0 | retry: 0
 
 ### Task B8: kenapa-kita-gampang-percaya-hoax
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kita-gampang-percaya-hoax` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kita-gampang-percaya-hoax --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of kenapa-kita-gampang-percaya-hoax equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kita-gampang-percaya-hoax.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kita-gampang-percaya-hoax` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kita-gampang-percaya-hoax --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of kenapa-kita-gampang-percaya-hoax equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kita-gampang-percaya-hoax.txt` | expect: exit 0 | retry: 0
 
 ### Task B9: kenapa-kita-suka-menunda-nunda
 
-- [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kita-suka-menunda-nunda` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kita-suka-menunda-nunda --check` | expect: exit 0 | retry: 0
-- [ ] Step 3: Run | cmd: structure output of kenapa-kita-suka-menunda-nunda equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kita-suka-menunda-nunda.txt` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book kenapa-kita-suka-menunda-nunda` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book kenapa-kita-suka-menunda-nunda --check` | expect: exit 0 | retry: 0
+- [x] Step 3: Run | cmd: structure output of kenapa-kita-suka-menunda-nunda equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf2/structure-baseline/kenapa-kita-suka-menunda-nunda.txt` | expect: exit 0 | retry: 0
 
 ### Task X1: split-word coverage (RF1 backlog)
 
 Acceptance: `split-word` also checks label text that sequence diagrams and timelines wrap into several lines, reports a cut piece that ends in punctuation ("/media/usb/" then "data.txt"), and reads the wrap width for its message from `scripts/diagrams/render-config.json` instead of a constant; test first, the real books stay at 0 violations.
 
-- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
+- [x] Step 1: Run | cmd: `bun test tests/scripts/check-diagrams.test.ts` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun run check:diagrams` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
-- [ ] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
-- [ ] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
+- [x] Step 1: Run | cmd: `bun run build` | expect: exit 0 | retry: 0
+- [x] Step 2: Run | cmd: `bun test` | expect: exit 0 | retry: 1
 
 ## Execution record
 
@@ -335,7 +335,13 @@ Acceptance: `split-word` also checks label text that sequence diagrams and timel
 
 Review notes kept without change: kecerdasan-interpersonal ch12 says "Tahap konteks" because "Kontekstualisasi" is wider than the 110 px wrap (accDescr keeps the term); human-capital-theory ch07 line 121 colon became a full stop because it introduced the deleted ASCII fence; human-capital-theory ch03 uses one bar series because xychart shows no legend; kecerdasan-interpersonal ch06 and ch10 are both chains, each following its own numbered list.
 
+## Closeout record
+
+- Runner `--execute` exit 0 on `6b01c41`: B1-B9, X1, V1 PASSED; `plan-mark-done`: 11 of 11 ticked.
+- Readiness `plan-closeout.mjs --readiness` 2026-10-16: `NEEDS-HUMAN` (exit 3), open NOW 0, open step boxes 0, 11 tasks UNPROVEN by the `"false"` sentinel, other open boxes S5 and S6.
+- `Close plan` gate: owner chose "Mark Complete". Debt sweep: owner selected the LaTeX audit and the blockquote sub-title detector; both run as tasks of the RF4 session.
+
 ## Status
 
-- Status: Verification (S2-S4 done)
-- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
+- Status: Complete (`Close plan` gate, 2026-10-16)
+- Resume: PR #155 waits for the `Merge` gate; S5 and S6 close with the merge evidence in the next session's PR.
