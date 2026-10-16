@@ -171,8 +171,74 @@ tasks:
       - cmd: "bash -c 'bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt -'"
         expect_exit: 0
         retry: 0
+  - id: Z1
+    depends_on: []
+    impacts: ["sistem-modul-rust ch10 and sejarah-evolusi-drama-korea ch02 pages - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Z1:content-slips"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts sistem-modul-rust | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-modul-rust.txt - || exit 1; bun run scripts/check-book-structure.ts sejarah-evolusi-drama-korea | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sejarah-evolusi-drama-korea.txt - || exit 1'"
+        expect_exit: 0
+        retry: 0
+  - id: Z2
+    depends_on: []
+    impacts: ["relief-karmawibhangga ch02 ch12 and psikologi-positif ch05 pages - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Z2:relief-and-flow-inconsistencies"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts relief-karmawibhangga-dan-hukum-sebab-akibat | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/relief-karmawibhangga-dan-hukum-sebab-akibat.txt - || exit 1; bun run scripts/check-book-structure.ts psikologi-positif | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/psikologi-positif.txt - || exit 1'"
+        expect_exit: 0
+        retry: 0
+  - id: Z3
+    depends_on: []
+    impacts: ["EWS book chapters 03 04 05 07 - bun run build"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Z3:ews-inconsistencies"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bash -c 'bun run scripts/check-book-structure.ts sistem-peringatan-dini-early-warning-system | diff docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt - || exit 1'"
+        expect_exit: 0
+        retry: 0
+  - id: Z4
+    depends_on: []
+    impacts: ["the heading gate inside bun run build for all books - bun run check:headings"]
+    files: { create: [], modify: [scripts/check-heading-colons.ts, GEMINI.md], test: [tests/scripts/check-heading-colons.test.ts] }
+    idempotency_key: "Z4:lead-in-colon-rule"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-heading-colons.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: Z5
+    depends_on: []
+    impacts: ["lead-in lines in eight books (first half) - bun run check:headings"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Z5:lead-in-rewrite-1"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun run check:headings"
+        expect_exit: 0
+        retry: 0
+  - id: Z6
+    depends_on: []
+    impacts: ["lead-in lines in fourteen books (second half) - bun run check:headings"]
+    files: { create: [], modify: [], test: [] }
+    idempotency_key: "Z6:lead-in-rewrite-2"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun run check:headings"
+        expect_exit: 0
+        retry: 0
   - id: V1
-    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9]
+    depends_on: [B1, B2, B3, B4, B5, B6, B7, B8, B9, Z1, Z2, Z3, Z4, Z5, Z6]
     impacts: ["build and suite run by CI and deploy - bun run build"]
     files: { create: [], modify: [], test: [] }
     idempotency_key: "V1:integration"
@@ -191,6 +257,7 @@ tasks:
 
 ## Session checklist
 
+- [x] S0 Carry-over from RF4: commit the RF4 merge evidence and tick RF4 S5 and S6. Evidence: this commit
 - [x] S1 Plan: tasks written, runner `Validation: OK`, `Plan` gate approved; structure baselines committed under `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/`. Evidence: runner `Validation: OK`; `Plan` gate answered "Approve all five" for RF2-RF6 on 2026-10-16; baseline problem counts in book order 6, 6, 8, 3, 5, 11, 8, 0, 0
 - [ ] S2 Execute: one subagent per task adds 0-3 grounded diagrams per chapter from `g5.md`, renders them, gate exit 0; parent diff audit (every block against its source lines, intro sentences listed per book) and one commit per book
 - [ ] S3 Review: two standards reviewers (grounding) and one spec reviewer; findings fixed
@@ -223,6 +290,18 @@ flowchart TD
     B7 --> V1["V1 integration verify"]
     B8 --> V1["V1 integration verify"]
     B9 --> V1["V1 integration verify"]
+    G2 --> Z1["Z1 content slips"]
+    G2 --> Z2["Z2 relief and flow inconsistencies"]
+    G2 --> Z3["Z3 EWS inconsistencies"]
+    G2 --> Z4["Z4 lead-in colon rule"]
+    G2 --> Z5["Z5 lead-in rewrite part 1"]
+    G2 --> Z6["Z6 lead-in rewrite part 2"]
+    Z1 --> V1
+    Z2 --> V1
+    Z3 --> V1
+    Z4 --> V1
+    Z5 --> V1
+    Z6 --> V1
     V1 --> PR{{"Review, seed, PR, merge gate"}}
 ```
 
@@ -289,6 +368,42 @@ flowchart TD
 - [ ] Step 1: Run | cmd: `bun run scripts/check-diagrams.ts --book sistem-peringatan-dini-early-warning-system` | expect: exit 0 | retry: 0
 - [ ] Step 2: Run | cmd: `bun run scripts/render-diagrams.ts --book sistem-peringatan-dini-early-warning-system --check` | expect: exit 0 | retry: 0
 - [ ] Step 3: Run | cmd: structure output of sistem-peringatan-dini-early-warning-system equals `docs/code-plan/artifacts/2026-10-16-dawnbook-diagrams-retrofit-rf5/structure-baseline/sistem-peringatan-dini-early-warning-system.txt` | expect: exit 0 | retry: 0
+
+### Task Z1: content slips (RF4 debt sweep)
+
+Acceptance: sistem-modul-rust ch10 `cases` formula renders both rows (no `\\` inside math; separate equations or the section 9 alternatives) and sejarah-evolusi-drama-korea ch02 math uses single backslashes; manual line edits per GEMINI.md section 9.
+
+- [ ] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
+
+### Task Z2: relief and flow inconsistencies (RF4 debt sweep)
+
+Acceptance: relief-karmawibhangga ch02:58 (3 uncovered panels) and ch12 (4 panels, 156 covered) agree after a source check; psikologi-positif ch05:33 (Boredom) and ch05:40 (Relaxation) agree with one cited version of the flow channel model; every changed claim cites a verified source.
+
+- [ ] Step 1: Run | cmd: structure output of the two books equals the RF5 baselines | expect: exit 0 | retry: 0
+
+### Task Z3: EWS inconsistencies and slips (RF4 debt sweep, earlier EWS deferrals)
+
+Acceptance: InaTEWS founding year (ch07:15 says 2005, the ch03 table 2008), the 2-3 minute step and GPS sensor (ch04:35 vs ch07:21), and the earlier deferred Instruksi Presiden claim are checked against primary sources and made consistent; ch05 `\\,` in math and the ch07 stray ",." fixed.
+
+- [ ] Step 1: Run | cmd: structure output equals the RF5 baseline | expect: exit 0 | retry: 0
+
+### Task Z4: lead-in colon rule (owner decision 2026-10-16)
+
+Acceptance: `check-heading-colons.ts` reports bold text with an inner colon followed by body text on the same line (`**Analogi: X** Bayangkan...`), test first; `**Penting:** teks` (colon at the end of the bold) stays allowed; GEMINI.md section 24 states the rule.
+
+- [ ] Step 1: Run | cmd: `bun test tests/scripts/check-heading-colons.test.ts` | expect: exit 0 | retry: 0
+
+### Task Z5: lead-in rewrite part 1
+
+Acceptance: the lead-in lines in piaget, quarter-life-crisis, neuroplastisitas-dalam-belajar, eksistensialisme-dan-makna-hidup, bias-kognitif, metodologi-microteaching, geopolitik-dalam-sejarah-piala-dunia and gegar-budaya are rewritten by the section 24 ways (plus the neuroplastisitas ch05 "sangat sangat" slip); `check:headings` 0 after Z4.
+
+- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
+
+### Task Z6: lead-in rewrite part 2
+
+Acceptance: the lead-in lines in the remaining fourteen books are rewritten the same way (plus the vestibular ch08 `-1{,}0` math slip); `check:headings` 0 after Z4.
+
+- [ ] Step 1: Run | cmd: `bun run check:headings` | expect: exit 0 | retry: 0
 
 ### Task V1: Integration verify
 
