@@ -47,6 +47,17 @@ export function boldTitleInner(line: string): string | null {
   if (!m || m[1].length > BOLD_TITLE_MAX || m[1].includes("**")) return null;
   return m[1];
 }
+
+// Owner decision 2026-10-16: a bold run with an inner colon that opens a paragraph and is followed by
+// body text (`**Analogi: Klub** Bayangkan ...`) is the same two-part title. The `(?!\*)` keeps a
+// closing `***` (italic inside bold) whole.
+const BOLD_LEADIN = /^ {0,3}(?:>[ \t]*)*\*\*(.+?)\*\*(?!\*)[ \t]*\S/;
+
+export function boldLeadInInner(line: string): string | null {
+  const m = BOLD_LEADIN.exec(line);
+  if (!m || m[1].length > BOLD_TITLE_MAX || m[1].includes("**")) return null;
+  return m[1];
+}
 // Matches only a single-line <hN>...</hN>, optionally followed by an exemption comment.
 const HTML_HEADING = new RegExp(
   String.raw`^ {0,3}${CONTAINER}<h([1-6])(?:[ \t][^>]*)?>(.*)</h\1[ \t]*>[ \t]*(?:<!--.*?-->)?[ \t]*$`,
@@ -163,7 +174,7 @@ export function scanContent(md: string): ScanResult {
       classify(s.text, lines[i - 1], s.top + 1, out);
       return;
     }
-    const b = boldTitleInner(line);
+    const b = boldTitleInner(line) ?? boldLeadInInner(line);
     // A trailing colon (`**Contoh Soal:**`) is a plain label; only `Label: Subjudul` is the pattern.
     if (b !== null && /[:：]\s*\S/.test(b)) classify(b, line, i + 1, out);
   });
