@@ -71,6 +71,6 @@ Mari kita lihat contoh nyata bagaimana tim bekerja secara sinkron:
 | **Operasi** | Pengangkatan tonsil dan kontrol pendarahan. | 20-40 menit |
 | **Emergence** | Pasien dibangunkan dan selang napas dilepas. | 10 menit |
 
-**Penting:** Seluruh prosedur ini biasanya memakan waktu total sekitar **45 hingga 60 menit** dari saat kamu masuk hingga keluar ruang operasi. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian pendarahan yang sempurna adalah prioritas tertinggi tim medis.
+**Penting:** Durasi di tabel hanyalah perkiraan kasar, sehingga lama seluruh prosedur dari saat kamu masuk hingga keluar ruang operasi bisa berbeda pada tiap pasien, seperti terlihat pada contoh anak 7 tahun di atas. Kecepatan bukanlah tujuan utama; ketelitian dan penghentian pendarahan yang sempurna adalah prioritas tertinggi tim medis.
 
 *Setelah tahap ini selesai, perjalananmu berlanjut ke ruang pemulihan (PACU), yang akan dibahas secara detail pada bagian selanjutnya dari materi ini.*
