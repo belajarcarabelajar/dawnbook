@@ -335,7 +335,13 @@ flowchart TD
 | B9 | multiple-intelligences | ch07 emotion decision, ch11 five entry points |
 | B10 | neurobiologi-motivasi-dopamin | ch04 downregulation line chart |
 
+## Closeout status
+
+- Readiness `plan-closeout.mjs --readiness` 2026-10-16: `NEEDS-HUMAN` (exit 3); open NOW 0, open step boxes 0; B1-B10 and V1 UNPROVEN by the `"false"` sentinel although all PASSED in the runner log; S5 and S6 open until the merge.
+- `Close plan` gate: owner chose "Keep it open". Reopen the question in the RF4 PR, after the merge evidence of #157 is recorded and S5 and S6 are ticked.
+- Debt sweep: owner selected the neurobiologi-motivasi-dopamin ch02:58 wording fix; it runs as a task of the RF4 session.
+
 ## Status
 
 - Status: Verification (S2-S4 done)
-- Resume: D1 seed done from this tree; next the PR, Close plan and Merge gates.
+- Resume: PR #157 open; Close plan reopens in the RF4 PR.
