@@ -38,6 +38,18 @@ $$
 
 Berdasarkan perhitungan di atas, **Vendor B** terpilih sebagai mitra utama. Meskipun Vendor A menawarkan biaya terendah, keunggulan Vendor B pada aspek kecepatan pengiriman dan integrasi teknologi memberikan nilai tambah yang lebih besar bagi bisnis.
 
+Selisih total skor ketiga vendor bisa kamu bandingkan sekilas lewat grafik batang berikut.
+
+```mermaid
+xychart
+    accTitle: Total skor terbobot vendor logistik
+    accDescr: Grafik batang total skor terbobot pada skala 1 sampai 5, yaitu Vendor A 3.45, Vendor B 3.90, dan Vendor C 3.70, sehingga Vendor B tertinggi.
+    title "Total skor terbobot vendor logistik"
+    x-axis ["Vendor A", "Vendor B", "Vendor C"]
+    y-axis "Total skor (skala 1-5)" 0 --> 5
+    bar [3.45, 3.9, 3.7]
+```
+
 ### 2. Rekrutmen Senior Software Engineer
 
 Divisi HR sering kali dihadapkan pada dilema saat menyeleksi kandidat yang masing-masing memiliki keunggulan berbeda. Penggunaan matriks keputusan membantu meminimalkan bias subjektif atau kesan pertama (*halo effect*) yang sering memengaruhi penilaian pewawancara.

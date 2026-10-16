@@ -1,0 +1,5 @@
+02_memahami-sistem-saraf-fight-or-flight.md: opener's first sentence would be truncated in the meta description
+05_grounding-teknik-membumi-saat-panik.md: opener's first sentence would be truncated in the meta description
+12_referensi.md: opener's first sentence would be truncated in the meta description
+heading "kesimpulan" repeated in 10_membangun-sistem-dukungan-sosial.md, 11_menyusun-rencana-manajemen-stres-berkelanjutan.md
+mekanisme-koping-dan-manajemen-stres: 12 chapters, 4 problems

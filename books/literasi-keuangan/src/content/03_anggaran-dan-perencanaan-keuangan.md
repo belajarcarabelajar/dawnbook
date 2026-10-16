@@ -98,6 +98,17 @@ Mereka mengalokasikannya untuk minum kopi di luar, nonton bioskop, belanja hobi,
 **Tabungan & Utang (20%) - Rp 3.000.000**
 Dari sini, mereka rutin menyisihkan Rp 2.000.000 untuk tabungan uang muka rumah, dan sisa Rp 1.000.000 dibagi untuk dana pendidikan serta dana darurat.
 
+Pembagian penghasilan keluarga Budi itu tergambar dalam diagram lingkaran berikut.
+
+```mermaid
+pie title "Anggaran bulanan keluarga Budi (juta Rupiah)"
+    accTitle: Pembagian anggaran keluarga Budi dengan aturan 50/30/20
+    accDescr: Dari penghasilan bersih Rp 15 juta per bulan, Rp 7,5 juta untuk kebutuhan, Rp 4,5 juta untuk keinginan, dan Rp 3 juta untuk tabungan dan utang.
+    "Kebutuhan (50%)" : 7.5
+    "Keinginan (30%)" : 4.5
+    "Tabungan dan utang (20%)" : 3
+```
+
 Setiap bulan Budi mengevaluasi catatan keuangannya. Bulan lalu mereka sadar terlalu banyak menghabiskan uang untuk ngopi di kafe. Akhirnya bulan ini mereka mengurangi jatah nongkrong demi bisa tetap menabung sesuai target.
 
 Jika rutin menabung Rp 2.000.000 per bulan, dalam 5 tahun mereka bakal mengumpulkan Rp 120.000.000. Angka ini cukup untuk uang muka rumah mungil, apalagi jika uangnya ditaruh di instrumen investasi yang memberikan imbal hasil.

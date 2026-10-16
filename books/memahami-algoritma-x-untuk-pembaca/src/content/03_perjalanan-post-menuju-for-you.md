@@ -52,6 +52,21 @@ Repositori kedua, [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm),
 4. Prediksi itu dikalikan dengan bobot, lalu VMRanker menyusun ulang urutan demi keragaman. Bobot mengalikan peluang tindakan yang diprediksi, bukan memberi poin per tindakan.
 5. Kandidat teratas melewati penyaringan visibilitas, kemudian tahap blending menyisipkan iklan dan saran akun.
 
+Kelima langkah tadi bisa kamu telusuri sebagai satu alur dari atas ke bawah.
+
+```mermaid
+flowchart TD
+    accTitle: Alur kandidat di repositori xai-org/x-algorithm
+    accDescr: Post dari akun yang kamu ikuti datang dari Thunder, post luar jaringan datang dari Phoenix retrieval, SimClusters, dan post populer. Keduanya disaring sebelum dinilai, lalu Phoenix memprediksi tindakanmu, prediksi dikalikan bobot, VMRanker menyusun ulang demi keragaman, kandidat teratas melewati penyaringan visibilitas, dan tahap blending menyisipkan iklan dan saran akun.
+    T["Thunder, post akun yang kamu ikuti"] --> F["Kandidat disaring sebelum dinilai"]
+    L["Phoenix retrieval, SimClusters, dan post populer dari luar jaringan"] --> F
+    F --> P["Phoenix memprediksi tindakan yang mungkin kamu lakukan"]
+    P --> W["Prediksi dikalikan dengan bobot"]
+    W --> V["VMRanker menyusun ulang urutan demi keragaman"]
+    V --> S["Kandidat teratas melewati penyaringan visibilitas"]
+    S --> B["Blending menyisipkan iklan dan saran akun"]
+```
+
 Tetap ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi itu tetap bukan keseluruhan sistem.
 
 ### Apa yang Berubah bagi Pembaca

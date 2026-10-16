@@ -10,6 +10,19 @@ Analogikan materi pelajaran kamu sebagai sebuah ruangan besar. Beberapa siswa ak
 
 Pendidik dapat merancang kurikulum yang inklusif melalui lima titik masuk utama. Titik masuk naratif mengajak siswa belajar lewat cerita, sejarah, atau narasi. Pendekatan logis-kuantitatif memanfaatkan angka, pola deduktif, serta perbandingan. Ada pula pendekatan fondasional atau eksistensial yang menelaah aspek filosofis dan makna dari suatu topik. Titik masuk estetik menitikberatkan pada aspek sensori, keindahan, maupun format artistik. Terakhir, pendekatan eksperiensial memberikan pengalaman langsung (*hands-on*) atau manipulasi fisik secara nyata.
 
+Kelima pintu itu, beserta bahan yang dipakai masing-masing, terangkum di bawah ini.
+
+```mermaid
+flowchart LR
+    accTitle: Lima titik masuk utama ke satu materi
+    accDescr: Satu materi pelajaran dapat dimasuki lewat lima titik masuk, yaitu naratif, logis-kuantitatif, fondasional atau eksistensial, estetik, dan eksperiensial, masing-masing dengan bahan belajarnya sendiri.
+    M["Satu materi pelajaran"] --> N["Naratif (cerita, sejarah, atau narasi)"]
+    M --> L["Logis kuantitatif (angka, pola deduktif, perbandingan)"]
+    M --> F["Fondasional atau eksistensial (aspek filosofis dan makna)"]
+    M --> S["Estetik (sensori, keindahan, format artistik)"]
+    M --> E["Eksperiensial (pengalaman langsung atau manipulasi fisik)"]
+```
+
 ## 2. Strategi Pengajaran untuk Berbagai Profil Kecerdasan
 
 ### A. Kecerdasan Linguistik & Logis-Matematis (Tradisional)

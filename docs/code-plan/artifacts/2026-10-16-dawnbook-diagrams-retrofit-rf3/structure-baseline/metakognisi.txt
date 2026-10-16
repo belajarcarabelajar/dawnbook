@@ -1,0 +1,4 @@
+01_pengantar-metakognisi-mengenal-konsep-belajar-cara-belajar.md: chapter title must be a level-2 heading (##)
+06_mengembangkan-kesadaran-metakognitif-latihan-untuk-pikiran.md: opener's first sentence would be truncated in the meta description
+11_studi-kasus-dan-aplikasi-nyata-metakognisi-dalam-aksi.md: opener's first sentence would be truncated in the meta description
+metakognisi: 11 chapters, 3 problems

@@ -40,6 +40,19 @@ Proses perhitungan dapat dilakukan secara sistematis melalui langkah berikut:
 3. **Jumlahkan:** Tambahkan hasil perkalian kriteria tersebut untuk mendapatkan total nilai akhir per alternatif.
 4. **Ulangi dan Urutkan:** Lakukan kalkulasi yang sama untuk semua alternatif lain, lalu urutkan hasilnya dari nilai tertinggi ke terendah.
 
+Keempat langkah itu, termasuk pengulangannya untuk setiap alternatif, terangkum dalam alur di bawah ini.
+
+```mermaid
+flowchart TD
+    accTitle: Alur kalkulasi skor berbobot
+    accDescr: Siapkan tabel matriks, kalikan skor mentah dengan bobot, jumlahkan hasilnya per alternatif, ulangi untuk alternatif lain, lalu urutkan dari nilai tertinggi ke terendah.
+    A["Siapkan tabel matriks"] --> B["Kalikan skor mentah dengan bobot"]
+    B --> C["Jumlahkan hasil perkalian per alternatif"]
+    C --> D{"Semua alternatif sudah dihitung?"}
+    D -->|"belum, ulangi untuk alternatif lain"| B
+    D -->|"sudah"| E["Urutkan dari nilai tertinggi ke terendah"]
+```
+
 > **Tips Praktis:** Pastikan satuan bobot yang kamu gunakan konsisten. Jika menggunakan persentase, total dari seluruh bobot kriteria harus berjumlah tepat 100% atau 1.0.
 
 ### 4. Menentukan MVP (Most Valuable Player)

@@ -73,6 +73,18 @@ Ketiga proses ini sebenarnya tidak berjalan searah (linear), melainkan membentuk
 4. Setelah tugas selesai, **Evaluasi** menilai keberhasilan keseluruhan dan mengidentifikasi pembelajaran untuk perencanaan di masa depan.
 5. Wawasan dari **Evaluasi** kemudian menginformasikan **Perencanaan** untuk tugas belajar berikutnya, menutup siklus dan memulai yang baru.
 
+Kelima langkah tadi, termasuk jalan kembali dari pemantauan ke perencanaan, tergambar seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus metakognitif yang berulang
+    accDescr: Perencanaan mendahului tugas dan diikuti pemantauan saat tugas berlangsung. Jika pemantauan menunjukkan masalah, pembelajar dapat kembali ke perencanaan untuk menyesuaikan strategi. Setelah tugas selesai, evaluasi menilai keberhasilan, dan wawasannya menginformasikan perencanaan untuk tugas berikutnya.
+    P["Perencanaan (tujuan dan strategi awal)"] -->|"saat tugas berlangsung"| M["Pemantauan (memeriksa pemahaman dan kemajuan)"]
+    M -->|"jika ada masalah, dapat kembali untuk menyesuaikan strategi"| P
+    M -->|"setelah tugas selesai"| E["Evaluasi (menilai keberhasilan dan pembelajaran)"]
+    E -->|"wawasan untuk tugas berikutnya"| P
+```
+
 Ini berarti siklus dapat diulang dalam skala mikro (selama satu sesi belajar) maupun makro (selama semester atau proyek besar). Kemampuan untuk mengelola ketiga proses ini secara efektif adalah inti dari pembelajaran metakognitif dan kunci untuk menjadi pembelajar yang cakap dan mandiri.
 
 *Coba pikirkan:* Bagaimana cara paling nyaman untuk menyelipkan rutinitas perencanaan, pemantauan, dan evaluasi ini ke dalam kebiasaan belajarmu sehari-hari?

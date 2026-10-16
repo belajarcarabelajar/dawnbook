@@ -66,6 +66,19 @@ Mari kita lihat bagaimana sebuah perusahaan memberikan bobot saat memilih vendor
 
 **Skenario:** Dalam kasus di atas, manajemen memutuskan bahwa **Keamanan Data** adalah harga mati (skor 10). Meskipun sebuah software sangat murah (Biaya), jika keamanannya buruk, bobot $40 \text{\%}$ pada keamanan akan langsung menurunkan skor total vendor tersebut secara drastis.
 
+Porsi keempat bobot tersebut tampak lebih jelas dalam diagram lingkaran ini.
+
+```mermaid
+pie showData
+    accTitle: Bobot kriteria pemilihan vendor software IT
+    accDescr: Hasil normalisasi bobot dari tabel, yaitu Keamanan Data 40 persen, Kemudahan Penggunaan 28 persen, Biaya Langganan 20 persen, dan Dukungan Pelanggan 12 persen.
+    title Bobot kriteria vendor software IT (persen)
+    "Keamanan Data" : 40
+    "Kemudahan Penggunaan" : 28
+    "Biaya Langganan" : 20
+    "Dukungan Pelanggan" : 12
+```
+
 ### Implementasi Teknis (Python Snippet)
 
 Bagi pengembang atau analis data, proses normalisasi bobot dapat diotomatisasi dengan kode sederhana berikut:

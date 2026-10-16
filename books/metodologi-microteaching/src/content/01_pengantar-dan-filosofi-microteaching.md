@@ -26,6 +26,17 @@ Microteaching tidak muncul begitu saja. Ia lahir dari kebutuhan akan efektivitas
 2. **Kebutuhan akan Pengukuran:** Pada masa itu, pengawasan terhadap calon guru bersifat subjektif. Dwight Allen ingin menciptakan metode di mana keterampilan mengajar bisa diukur, diamati, dan diperbaiki secara objektif melalui rekaman video.
 3. **Ekspansi Global:** Sejak akhir 1960-an, metode ini menyebar ke seluruh dunia, termasuk Indonesia pada era 1970-an, dan kini menjadi kurikulum wajib bagi mahasiswa keguruan (LPTK) dan program sertifikasi guru profesional.
 
+Tiga penanda waktu dalam perjalanan itu bisa kamu ringkas pada garis waktu berikut.
+
+```mermaid
+timeline
+    accTitle: Perjalanan microteaching dari Stanford ke Indonesia
+    accDescr: Microteaching dikembangkan di Stanford University pada 1963, menyebar ke seluruh dunia sejak akhir 1960-an, dan masuk ke Indonesia pada era 1970-an.
+    1963 : Dikembangkan di Stanford oleh Dwight Allen, Robert Bush, dan Kim Romney
+    Akhir 1960-an : Mulai menyebar ke seluruh dunia
+    Era 1970-an : Masuk ke Indonesia
+```
+
 ## Mengapa Microteaching Itu Penting? (Urgensi)
 
 Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah urgensi mengapa microteaching sangat krusial:
@@ -57,6 +68,17 @@ Di dalam "laboratorium" ini, berlaku siklus eksperimen:
 3. **Feedback (Umpan Balik):** Melihat kembali performa melalui diskusi dan rekaman video.
 4. **Re-plan & Re-teach (Revisi & Praktik Ulang):** Memperbaiki apa yang kurang.
    $$\text{Kualitas Guru} = \sum (\text{Latihan} + \text{Refleksi})^n$$
+
+Jika keempat langkah itu dijajarkan, urutannya tampak seperti ini.
+
+```mermaid
+flowchart LR
+    accTitle: Siklus eksperimen di laboratorium microteaching
+    accDescr: Empat langkah berurutan, yaitu Plan untuk menyusun skenario, Teach untuk simulasi yang diamati, Feedback untuk melihat kembali performa, lalu Re-plan dan Re-teach untuk memperbaiki apa yang kurang.
+    A["Plan (Rencana)"] --> B["Teach (Praktik)"]
+    B --> C["Feedback (Umpan Balik)"]
+    C --> D["Re-plan & Re-teach (Revisi & Praktik Ulang)"]
+```
 
 *Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya untuk membentuk karakter manusia?*
 
