@@ -78,7 +78,23 @@
 
 ## Follow-Up Backlog (Session-Close Debt Sweep)
 
-- (filled at Step 6)
+Ranked by leftover risk x blast radius x cheapness. `NOW` items are offered in the sweep question; `LATER` items carry a `defer:` line.
+
+| # | Item (finish line) | Class | Source |
+|---|---|---|---|
+| D1 | `scripts/inject-gating.ts`: the guard also keys on `<!-- Book generated using mdBook -->`, so a page with that comment but no toggle and no theme scripts throws; add tests for that case and for a missing quote workaround alone; `bun test tests/scripts/inject-gating-theme-scripts.test.ts` green | NOW | V2 F3, V3, V4 |
+| D2 | `GEMINI.md`: a short section on Rocket Loader (scripts that must run before paint carry `data-cfasync="false"` with every script they read globals from; first-paint checks run on the live page or a Rocket Loader replay) | NOW | RCA, learning rules 1 to 3 |
+| D3 | `tests/scrape-shield.test.ts:8`: skip with a clear message when `output/contribute.html` is missing; `bun test` in a fresh worktree has 0 failures from it | NOW | E5, V2 F4 |
+| D4 | `tests/scripts/test_gsc_batch_indexing_ping.py:124`: replace the wall-clock `assertLess(par_time, seq_time)` with a deterministic concurrency check; 5 concurrent runs pass | NOW | E6, V6 |
+| D5 | paywall hide/reveal scripts (`books/shared-script.js` gating block, anti-FOUC script in `inject-gating.ts`) still deferred: visible-then-blank on direct gated entry. `defer: separate session, owner asks or a gated-chapter flicker report` | LATER | V2 F1 |
+| D6 | mdBook sidebar scripts and `toc.js` still deferred: kept-open sidebar slides in on load. `defer: separate session, a sidebar flash report` | LATER | V2 F2 |
+| D7 | live check after deploy: `C10/probe-paint-bg.ts https://dawnbook.belajarcarabelajar.com/books/state-of-flow/ --theme navy --runs 5`, plus `--dark --theme light` and `--dark --theme none`, 0 mismatches. `defer: after PR #165 merges and CI deploys, same day` | LATER | Phase 4 original scenario |
+| D8 | iOS Safari check of a chapter with a diagram in a dark theme. `defer: after deploy, owner's iPhone` | LATER | C3 limit |
+| D9 | external evidence (Cloudflare Rocket Loader docs, mdBook issues, browser trackers) via TinyFish. `defer: when TinyFish is signed in, only if a doc claim is needed` | LATER | C4, C5 |
+| D10 | issue for this plan: run `plan-issue-sync.mjs` from the laptop. `defer: next laptop session, before the plan closes` | LATER | E4 |
+| D11 | `/etc/profile.d/snipset-android.sh` puts a `/root` path on PATH for every VPS user. `defer: owner with root, next VPS maintenance` | LATER | E7 |
+| D12 | move `markThemeScriptsCfAsync` out of the SEO and gating module. `defer: next change to inject-gating.ts, if a second non-SEO transform lands` | LATER | V3 design note |
+| D13 | MathJax exceptions (`reading 'mml'`, `reading 'Clear'`) on book index pages in every replay, with or without the fix. `defer: separate session, a MathJax rendering report` | LATER | C1, V1 |
 
 ## Session Log
 

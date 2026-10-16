@@ -1,8 +1,8 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagram-theme-contrast
-status: Verification
-version: 2
+status: In Progress
+version: 3
 runner_contract: false
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
 session: "dawnbook-diagram-theme-contrast (pr-registry branch 2026-10-16-dawnbook-diagram-theme-contrast/dawnbook-diagram-theme-contrast)"
@@ -33,12 +33,16 @@ Classification: Bounded, systematic debugging path. Upgrades to Architectural if
 - [x] P3 Smallest safe fix applied (evidence: parent diff audit, `git diff --stat` = `scripts/inject-gating.ts` +39 -1 only; `markThemeScriptsCfAsync` marks the three scripts by content, throws when a toggle page lacks one, first step of `injectSeoAndGating`)
 - [x] P4 Repro GREEN, targeted suite 0 failures, check:diagrams exit 0 (evidence: new test exit 0 7/7, neighbours exit 0 32/32, V1 end to end FIXED 0/100 with CONTROL red, V5 build exit 0 with check:headings and check:diagrams exit 0; full suite's only failures are pre-existing E5 and E6, outside the changed surface)
 - [x] P4 Verification fan-out: repro rerun, neighbor suite, sibling callers, 8-criteria diff review (evidence: V1 to V6 in one batch; V3 and V4 `correct`; V4's P2 fixed; table in the progress log)
-- [ ] Deliver: commit on the session branch, PR opened
+- [x] Deliver: commit on the session branch, PR opened (evidence: commits `7b7e36b` fix and `dd06f90` docs by Iwan Kurniawan, copy rules clean on 2 commit messages; `gh pr create --body-file` returned PR #165, mergeable; `pr-registry pr dawnbook-diagram-theme-contrast --number 165` state open)
 - [ ] Sweep: session-close debt sweep, learning ledger, graphify sync
+- [x] FU-D1: `scripts/inject-gating.ts` guard also keys on `<!-- Book generated using mdBook -->`; tests for that page shape and for a missing quote workaround alone; RED first, then green (evidence: RED exit 1, 8 pass 1 fail "Received function did not throw"; GREEN exit 0, 9 pass; scan of 911 built pages: 853 changed by +3, 0 threw, toc.html unchanged; error text reworded to fit both guards, still 9 pass)
+- [x] FU-D2: `GEMINI.md` section on Rocket Loader and first-paint checks; AGENTS.md and CLAUDE.md symlinks intact (evidence: section 26 added, +8 lines; `ls -la` shows both symlinks to GEMINI.md; `rg -c` finds the section through all three names; 0 em dashes in added lines)
+- [x] FU-D3: `tests/scrape-shield.test.ts` skips with a message when `output/contribute.html` is missing; passes where the build exists (evidence: worktree exit 0, 2 pass 1 skip; same file run from the main checkout exit 0, 3 pass, 6 expect calls)
+- [x] FU-D4: `tests/scripts/test_gsc_batch_indexing_ping.py` deterministic concurrency check; 5 concurrent runs pass and a sequential implementation still fails it (evidence: 5 and 20 concurrent runs all exit 0, peak 10; two sequential mutants exit 1 "1 not greater than 1"; flake cause found: mock server listen backlog 5, raised to 64; parent re-run 6 tests OK; full `bun test` exit 0, 681 pass, 27 skip, 0 fail)
 
 ## State
 
-- Status: Verification (version 2; version 1 was the Draft investigation plan before the root cause gate)
+- Status: In Progress (version 3: the owner selected debt-sweep follow-ups D1 to D4 on 2026-10-16; version 2 was Verification; version 1 was the Draft investigation plan before the root cause gate)
 - Approved scope (owner, 2026-10-16, Root cause gate): mark mdBook's three theme scripts with `data-cfasync="false"` in the post-build pass `scripts/inject-gating.ts`, with a loud build failure when the markers are missing; regression test on a real mdBook 0.5.3 page. Rejected: early script in `head.hbs` (duplicates mdBook logic), Cloudflare rule (outside version control; owner's separate call), `index.hbs` override (GEMINI.md section 1). TinyFish web evidence skipped by owner choice.
 - Completed: P0 loops, P1 minimisation, P2 hypotheses, dispatch, synthesis, RCA log, gate, P3 RED test, P3 fix
 - Current: P4 verification fan-out (V1 to V6)
