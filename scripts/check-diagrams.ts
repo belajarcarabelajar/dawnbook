@@ -342,7 +342,7 @@ export function checkDiagrams(root: string, opts: { book?: string } = {}): { vio
           const split = splitWords(svg, block.source);
           if (split.length > 0) {
             const words = split.map((w) => `"${w}"`).join(", ");
-            report(block, "split-word", `cached SVG ${key}.svg breaks ${words} across label rows; reword the label so no word is wider than the ${wrapPx} px wrap`);
+            report(block, "split-word", `cached SVG ${key}.svg breaks ${words} across wrapped lines; reword the label so no word is wider than its wrap width (flowchart labels wrap at ${wrapPx} px)`);
           }
         }
       });
