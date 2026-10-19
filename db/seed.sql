@@ -1316,8 +1316,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2480,8 +2480,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4124,8 +4124,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5111,8 +5111,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5868,8 +5868,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7206,8 +7206,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8166,8 +8166,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9081,8 +9081,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10337,8 +10337,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11397,8 +11397,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13270,8 +13270,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14427,8 +14427,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15584,8 +15584,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16889,8 +16889,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17782,8 +17782,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19443,8 +19443,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20582,8 +20582,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21678,8 +21678,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22629,8 +22629,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23827,8 +23827,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25048,8 +25048,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26121,8 +26121,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27329,8 +27329,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28283,8 +28283,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30029,8 +30029,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31168,8 +31168,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32423,8 +32423,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33647,8 +33647,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34743,8 +34743,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35721,8 +35721,989 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'saat-dia-suka-tapi-kamu-tidak',
+  'saat-dia-suka-tapi-kamu-tidak',
+  'Saat Dia Suka, tapi Kamu Tidak',
+  'published',
+  'Hubungan',
+  '<!-- Chapter: 01_perasaan-yang-tidak-berbalas-itu-umum -->
+
+## Perasaan yang Tidak Berbalas Itu Umum
+
+Dalam satu penelitian, 88% peserta pernah mengalami setidaknya satu bentuk cinta yang tidak berbalas dalam dua tahun terakhir. Artinya, hampir sembilan dari sepuluh peserta pernah merasakannya.
+
+Mungkin kamu sedang ada di salah satu sisinya. Bisa jadi kamu yang menyimpan rasa pada seseorang yang tidak membalas. Bisa jadi juga kamu yang disukai, sementara hatimu tidak bergerak ke arah yang sama. Seorang teman sekelas yang rajin mengirim pesan di aplikasi chat setiap malam, atau kenalan dari sebuah grup diskusi daring yang tiba-tiba mengajak bertemu, bisa membuat kamu bingung harus bersikap bagaimana.
+
+Bab ini tidak langsung memberi jawaban. Tujuannya lebih sederhana: menunjukkan bahwa situasi seperti ini lazim dialami, dan bahwa kedua pihak sama-sama bisa merasa berat.
+
+### Lima Bentuk Cinta Bertepuk Sebelah Tangan
+
+Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman. Berikut jenisnya, beserta persentase peserta yang pernah mengalaminya setidaknya sekali:
+
+- naksir orang terkenal, misalnya seorang bintang, 48%;
+- naksir seseorang yang ada di sekitar kita, 63%;
+- mengejar seseorang, 36%;
+- merindukan orang yang dulu pernah menjadi kekasih, 40%;
+- cinta yang tidak setara (*unequal love*), 57%.
+
+Daftar ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
+
+### Seberapa Sering Cinta Tak Berbalas Terjadi
+
+Mari lihat angkanya lebih dekat. Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, berusia 14 sampai 63 tahun dengan rata-rata usia 21,1 tahun. Mereka ditanya tentang pengalaman dua tahun terakhir.
+
+Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas. Sebagai pembanding, 70% pernah mengalami cinta yang setara, yaitu saling suka. Para peneliti juga mencatat bahwa jumlah kejadian semua jenis cinta tak berbalas lebih dari empat kali lipat dibanding jumlah kejadian cinta yang setara. Laporan itu juga mencatat sekitar 1,91 kejadian dari semua jenis per tahun.
+
+Penelitian kedua dalam laporan yang sama membandingkan rasanya. Dibanding cinta yang setara, cinta tak berbalas terasa kurang kuat pada aspek gairah, komitmen, dan aspek sejenisnya. Namun ada satu aspek yang justru lebih kuat, yaitu gejolak batin (*turmoil*). Jadi, dalam penelitian itu cinta tak berbalas tidak lebih kuat dalam segala hal, tetapi lebih bergejolak.
+
+### Catatan Kecil tentang Sampel Penelitian Ini
+
+Sebelum menarik kesimpulan, ada tiga batasan yang perlu kamu ingat dari [penelitian tersebut](https://doi.org/10.1177/2158244013492160):
+
+- Pesertanya adalah pelajar yang dipilih karena mudah dijangkau (sampel kemudahan), bukan sampel yang mewakili seluruh masyarakat.
+- Yang diukur adalah sisi orang yang menyimpan rasa, bukan sisi orang yang disukai.
+- Hitungannya ikut memasukkan rasa naksir pada selebritas, yang tentu berbeda dengan disukai oleh teman sendiri.
+
+Karena itu, angka 88% sebaiknya dibaca sebagai petunjuk bahwa pengalaman ini lazim, bukan sebagai ukuran pasti untuk semua orang. Meski begitu, pesannya tetap berguna. Kalau kamu pernah atau sedang mengalaminya, kamu sama sekali tidak sendirian.
+
+### Cinta Tak Berbalas Menekan Dua Pihak
+
+Kamu mungkin membayangkan hanya ada satu pihak yang terluka, yaitu orang yang cintanya ditolak. Padahal penelitian lain memotret cerita dari kedua sisi. [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) menggambarkan cinta tak berbalas sebagai *"a bilaterally distressing experience marked by mutual incomprehension and emotional interdependence"*. Artinya kurang lebih: pengalaman yang menekan bagi kedua belah pihak, ditandai dengan sikap saling tidak memahami dan perasaan yang saling bergantung.
+
+Kalimat itu penting untuk buku ini. Orang yang disukai bukan tokoh jahat yang dingin, dan orang yang menyukai juga bukan sekadar pihak yang lemah. Keduanya terjebak dalam situasi yang sama, hanya dari sudut yang berbeda.
+
+Apa yang dirasakan pihak yang menolak akan dibahas di bab 6 nanti. Cara menyampaikan penolakan dengan jelas ada di bab 7, sedangkan sisi orang yang tidak dipilih menjadi pokok bab 9.
+
+### Peta Perjalanan Buku Ini
+
+Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat bab-bab berikutnya:
+
+- **Bab 2** membahas pertanyaan yang sebenarnya bukan pertanyaan, yaitu ketertarikan yang disampaikan secara tidak langsung.
+- **Bab 3** membedakan sikap ramah dari rasa tertarik.
+- **Bab 4** melihat pujian yang kadang membuat canggung.
+- **Bab 5** membahas kenalan yang hanya dikenal lewat layar dan batas rasa percaya.
+- **Bab 6** mencari tahu kenapa menolak bisa terasa berat.
+- **Bab 7** membahas cara menolak dengan jelas tanpa kehilangan kehangatan.
+- **Bab 8** membahas menghilang tanpa kabar (*ghosting*) sebagai cara mengakhiri.
+- **Bab 9** berpindah ke sisi orang yang tidak dipilih.
+- **Bab 10** membahas cinta di usia sekolah dan kedewasaan emosi.
+- **Bab 11** membahas pelecehan yang terlanjur dianggap biasa.
+- **Bab 12** menutup buku dengan mencari orang yang sejalan dengan nilai-nilaimu.
+
+Kamu boleh membaca berurutan atau langsung melompat ke bab yang paling dekat dengan situasimu.
+
+### Intisari
+
+- Cinta yang tidak berbalas mencakup banyak bentuk, dari naksir orang terkenal sampai merindukan mantan kekasih.
+- Dalam satu sampel pelajar, 88% pernah mengalaminya dalam dua tahun terakhir, sedangkan cinta yang setara dialami 70%.
+- Cinta tak berbalas terasa kurang kuat pada gairah dan komitmen, tetapi lebih kuat pada gejolak batin.
+- Angka itu datang dari sampel kemudahan dan dari sisi orang yang menyimpan rasa, jadi bacalah sebagai petunjuk, bukan ukuran pasti.
+- Menurut Baumeister dan rekan, situasi ini menekan kedua belah pihak, bukan hanya orang yang ditolak.
+
+Sebelum memikirkan cara menolak, ada langkah yang lebih awal: menyadari bahwa seseorang sedang tertarik padamu. Masalahnya, ketertarikan jarang datang dalam kalimat yang lugas. Bagaimana kamu bisa mengenalinya ketika ia datang dalam bentuk pertanyaan yang berputar-putar?
+
+
+<!-- Chapter: 02_pertanyaan-yang-sebenarnya-bukan-pertanyaan -->
+
+## Pertanyaan yang Sebenarnya Bukan Pertanyaan
+
+Sebuah pesan masuk di aplikasi chat pada malam hari, dari teman sekelas yang belakangan cukup sering menyapa. Isinya ringan saja: "Eh, Sabtu nanti kamu ada acara nggak? Atau jangan-jangan sudah ada yang ngajak jalan, hehe."
+
+Kamu membacanya dua kali. Secara harfiah, ini pertanyaan tentang jadwal. Tetapi bagian keduanya terasa seperti ketukan pelan di pintu: apakah kamu sedang dekat dengan seseorang? Tidak ada kalimat "aku suka kamu", tidak ada ajakan yang jelas, dan justru karena itu pesannya terasa aman untuk dikirim.
+
+Bab ini membahas kenapa, menurut sebuah teori, orang yang tertarik bisa memilih jalan memutar seperti itu, dan apa artinya bagi kamu yang menerima pertanyaannya. Bekalnya dua tulisan dari Pinker dan rekan-rekannya tentang *indirect speech*, atau ucapan tidak langsung.
+
+### Logika di Balik Ucapan yang Memutar
+
+Pada 2008, [Pinker, Nowak, dan Lee](https://doi.org/10.1073/pnas.0707192105) menulis esai perspektif berjudul "The logic of indirect speech" di jurnal PNAS. Tulisan ini tidak melaporkan eksperimen. Isinya argumen teoretis tentang mengapa manusia begitu sering berbicara secara tidak langsung.
+
+Contoh pertama yang mereka angkat justru rayuan. Kalimat klasik dalam bahasa Inggris, "Would you like to come up and see my etchings?" (mau mampir ke atas melihat koleksi gambar cetakku?), jelas bukan sekadar undangan melihat karya seni. Maksudnya bisa ditangkap, tetapi tidak pernah benar-benar diucapkan.
+
+Menurut mereka, permintaan yang disampaikan secara tidak langsung memberi *plausible deniability*, yaitu ruang untuk menyangkal dengan masuk akal. Pendengar yang mau bekerja sama bisa menangkap maksudnya lalu menerima. Pendengar yang tidak mau tidak punya pegangan untuk bereaksi keras, karena secara harfiah tidak ada yang diminta.
+
+Dalam urusan perasaan, secara teori ini mungkin berarti satu hal. Orang yang bertanya dengan memutar belum tentu sedang bermain-main. Bisa jadi ia sedang menjaga diri dari kemungkinan perasaannya tidak berbalas.
+
+### Penyangkalan yang Tidak Perlu Meyakinkan
+
+Satu kalimat dari esai itu layak diingat: "The deniability, then, doesn''t have to be plausible, only possible." Artinya, celah untuk menyangkal tidak harus meyakinkan. Cukup ada.
+
+Kembali ke pesan tadi. Kamu mungkin langsung menangkap bahwa "sudah ada yang ngajak jalan?" bukan soal jadwal. Pengirimnya pun mungkin tahu bahwa kamu tahu. Tetapi selama kalimatnya masih bisa dibaca sebagai basa-basi, kedua pihak tetap punya pintu keluar. Ia bisa bilang "cuma iseng nanya", dan kamu bisa menjawab tanpa membahas perasaan siapa pun.
+
+[Pinker dan rekan (2008)](https://doi.org/10.1073/pnas.0707192105) menyebut bahwa ketidaklangsungan membantu menghindari "the emotional cost of a relationship mismatch", yaitu ongkos emosional ketika dua orang ternyata memandang hubungan mereka secara berbeda. Mereka juga menduga cara ini membuat kedua pihak lebih mudah kembali ke hubungan semula bila tawarannya ditolak. Perlu dicatat, ini hipotesis yang mereka nyatakan, bukan hasil yang diuji dalam tulisan itu.
+
+### Pengetahuan Bersama yang Tidak Bisa Ditarik
+
+Bandingkan dengan pernyataan terang-terangan: "Aku suka kamu, mau jalan berdua?" Menurut Pinker dan rekan, ajakan yang blak-blakan menciptakan *common knowledge*, atau pengetahuan bersama. Bukan hanya kamu tahu dan dia tahu, tetapi kalian berdua tahu bahwa masing-masing sudah tahu. Pengetahuan semacam ini tidak bisa ditarik kembali.
+
+Setelah kalimat itu terucap, kalian tidak bisa lagi berpura-pura bahwa percakapan tadi hanya obrolan biasa. Apa pun jawabannya, ada sesuatu yang kini sama-sama diketahui.
+
+Menurut teori ini, pertanyaan memutar menunda momen itu. Ia mengirim sinyal tanpa mengubahnya menjadi pengetahuan bersama.
+
+### Penyangkalan Tingkat Kedua yang Mencegah Gosip
+
+Dua tahun kemudian, [Lee dan Pinker (2010)](https://doi.org/10.1037/a0019688) mengembangkan gagasan ini menjadi teori *strategic speaker*, atau pembicara strategis, di jurnal Psychological Review. Menurut ringkasan tulisan itu, pembicara strategis mencari ruang penyangkalan ketika ia tidak yakin apakah pendengarnya akan bersikap kooperatif atau justru bermusuhan.
+
+Mereka juga mencatat bahwa dalam percakapan sehari-hari, hukumannya bisa berupa hukuman emosional, bukan hukuman secara hukum. Pertanyaan soal status hubungan bisa dibilang masuk wilayah ini.
+
+Bagian yang paling menarik adalah gagasan *higher-order plausible deniability*, atau penyangkalan tingkat kedua. Menurut [Lee dan Pinker](https://doi.org/10.1037/a0019688), bahkan ketika kesediaan pendengar sudah diketahui, ucapan tidak langsung tetap berguna karena mencegah kepastian, gosip, dan terbentuknya pengetahuan bersama tentang permintaan itu.
+
+Jadi, menurut teori ini, orang yang cukup yakin kamu akan menyambut ajakannya pun tetap mungkin memilih jalan memutar. Yang dijaganya bukan sekadar informasi, melainkan agar maksudnya tidak menjadi sesuatu yang pasti dan bisa dibicarakan orang lain.
+
+### Membaca Subteks Pertanyaan Status
+
+Lalu bagaimana dengan kamu, yang menerima pesan semacam itu? Teori ini tidak disusun sebagai panduan menjawab, dan kedua tulisan tadi tidak menguji cara terbaik meresponsnya. Namun dari logikanya, ada beberapa implikasi yang bisa kamu pertimbangkan.
+
+- **Kamu boleh membaca subteksnya.** Menangkap maksud lain di balik pertanyaan ringan bukan berarti kamu terlalu percaya diri. Menurut teori ini, memang begitulah ucapan tidak langsung bekerja: maksudnya sampai, meski tidak diucapkan.
+- **Menjawab pertanyaan harfiahnya tetap langkah yang tersedia.** Kalau kamu tidak tertarik, balasan seperti "Sabtu aku sudah ada rencana sama keluarga" adalah jawaban yang wajar. Karena tidak ada ajakan yang terucap, tidak ada penolakan yang perlu terucap.
+- **Muka kedua pihak bisa sama-sama terjaga.** Bila dugaan Pinker dan rekan benar, jalan memutar ini memudahkan kalian kembali ke hubungan semula. Dia tidak perlu merasa ditolak secara terbuka, dan kamu tidak perlu menjadi orang yang menolak secara terbuka.
+- **Jawaban harfiah bukan jawaban untuk selamanya.** Kalau pertanyaan yang sama terus datang atau berubah menjadi ajakan yang jelas, celah penyangkalannya ikut hilang. Saat itu jawaban yang lebih terang mungkin dibutuhkan, dan caranya dibahas di bab 7.
+
+Tentu saja, kamu juga bisa keliru membaca. Tidak setiap pertanyaan tentang akhir pekan adalah pendekatan.
+
+### Ringkasan
+
+- Menurut teori Pinker dan rekan, orang memakai ucapan tidak langsung untuk hal yang berisiko secara sosial, termasuk ajakan romantis; teori ini tidak mengukur seberapa sering hal itu terjadi.
+- Menurut Pinker dan rekan, ucapan tidak langsung memberi ruang penyangkalan, dan ruang itu cukup ada, tidak harus meyakinkan.
+- Ajakan yang blak-blakan menciptakan pengetahuan bersama yang tidak bisa ditarik kembali. Bahwa jalan memutar memudahkan hubungan pulih setelah penolakan masih berupa hipotesis.
+- Lee dan Pinker menambahkan penyangkalan tingkat kedua: ketidaklangsungan tetap berguna untuk mencegah kepastian, gosip, dan pengetahuan bersama.
+- Sebagai implikasi teori, kamu boleh membaca subteksnya. Bila hipotesis Pinker dan rekan benar, menjawab pertanyaan harfiahnya dapat membuat kedua pihak lebih mudah kembali ke hubungan semula.
+
+Pertanyaan memutar hanyalah satu dari sekian sinyal yang bisa dibaca dua arah. Bab berikutnya membahas keramahan dan tanda-tanda menggoda, atau *flirting*, yang sering disalahpahami: sikap yang bagi satu orang sekadar ramah bisa terbaca sebagai ketertarikan oleh orang lain.
+
+
+<!-- Chapter: 03_ramah-tidak-sama-dengan-tertarik -->
+
+## Ramah Tidak Sama dengan Tertarik
+
+Senyum yang sama bisa dibaca dengan dua cara, bagimu sekadar sopan, bagi orang lain seperti tanda bahwa kamu tertarik. Bayangkan seorang rekan satu kelompok tugas yang selalu kamu sapa dengan hangat. Kamu menanyakan kabarnya, tertawa mendengar leluconnya, dan membalas pesannya di aplikasi chat tanpa menunggu lama. Bagimu itu biasa, karena memang begitu caramu memperlakukan orang. Lalu suatu hari dia mengaku mengira kamu punya perasaan yang sama.
+
+Di bab ini kita melihat apa kata penelitian tentang *flirting*, atau tebar pesona. Gayanya bermacam-macam, alasannya juga bermacam-macam, dan keramahan pun bisa dibaca keliru. Tujuannya bukan membuatmu curiga pada setiap senyum, melainkan memahami mengapa sinyal yang sama bisa sampai dengan arti yang berbeda.
+
+### Lima Gaya Tebar Pesona
+
+Hall dan rekan-rekannya menyusun sebuah alat ukur bernama *Flirting Styles Inventory* ([Hall dkk., 2010](https://doi.org/10.1080/01463373.2010.524874)). Judul penelitiannya menyebut topik ini sebagai perbedaan individual dalam cara mengomunikasikan ketertarikan romantis. Artinya, orang berbeda-beda dalam cara menunjukkan rasa suka.
+
+Dari alat ukur itu dikenal lima gaya:
+
+- fisik (*physical*);
+- tradisional (*traditional*);
+- tulus (*sincere*);
+- sopan (*polite*);
+- jenaka (*playful*).
+
+### Gerak-gerik Tiga Gaya di Obrolan Pertama
+
+Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Menurut ringkasan penelitian mereka:
+
+- orang bergaya sopan menunjukkan perilaku yang lebih menahan diri dan menjaga jarak;
+- orang bergaya jenaka menunjukkan perilaku yang lebih jelas melibatkan lawan bicara dan lebih kentara menggoda;
+- orang bergaya tulus lebih banyak tersenyum dan lebih sedikit gelisah (*fidgeting*).
+
+Gambaran yang lebih hidup datang dari sebuah [rilis berita universitas](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles) tahun 2013 tentang buku Hall. Menurut rilis itu, orang bergaya jenaka menikmati tebar pesona demi kesenangannya sendiri, bahkan ketika hubungan atau kencan singkat adalah hal terakhir di pikirannya. Orang bergaya sopan bisa butuh waktu sangat lama sampai pesannya tersampaikan. Orang bergaya fisik lebih mungkin mengira lawan bicaranya tertarik, padahal tidak. Sementara itu, orang bergaya tulus mencari kedekatan emosional.
+
+Coba bayangkan akibatnya. Candaan dari orang bergaya jenaka bisa terasa seperti rayuan, padahal mungkin dia hanya menikmati obrolan. Sebaliknya, orang bergaya sopan bisa saja sedang tertarik tanpa kamu sadari. Perilaku yang sama bisa membawa niat yang berbeda, tergantung siapa pelakunya.
+
+### Enam Alasan di Balik Tebar Pesona
+
+Selain gaya, ada pula alasan. [Henningsen (2004)](https://doi.org/10.1023/B:SERS.0000023068.49352.4b) menyebut enam motivasi orang melakukan *flirting*:
+
+- seks (*sex*);
+- kesenangan (*fun*);
+- menjajaki (*exploring*);
+- hubungan (*relational*);
+- harga diri (*esteem*);
+- instrumental (*instrumental*).
+
+Penelitian ini juga menemukan perbedaan antara laki-laki dan perempuan. Laki-laki cenderung memandang *flirting* lebih bermuatan seksual daripada perempuan. Perempuan lebih banyak mengaitkan *flirting* dengan motivasi hubungan dan kesenangan daripada laki-laki. Untuk motivasi harga diri, menjajaki, dan instrumental, tidak ditemukan perbedaan.
+
+Henningsen membingkai temuan ini sebagai sumber salah komunikasi. Kalau dua orang membaca momen yang sama dengan alasan yang berbeda di kepala, wajar jika kesimpulan mereka juga berbeda.
+
+### Keramahan yang Disangka Rayuan
+
+Soal keramahan yang disalahartikan ini sudah diteliti sejak lama. Judul penelitian [Abbey (1982)](https://doi.org/10.1037/0022-3514.42.5.830) langsung bertanya apakah laki-laki salah membaca keramahan perempuan. Penelitian ini berlangsung di laboratorium dalam 36 sesi dengan 144 mahasiswa. Peserta mengobrol selama lima menit, sementara pengamat lain menonton tanpa terlihat.
+
+Hasilnya, peserta laki-laki, baik yang ikut mengobrol maupun yang mengamati, menilai lawan bicara perempuan dalam percakapan itu lebih *promiscuous* dan *seductive*, kira-kira berarti lebih bebas secara seksual dan lebih menggoda, dibanding penilaian peserta perempuan.
+
+Temuan ini perlu dibaca dengan hati-hati. Sampelnya kecil, terdiri atas mahasiswa, diambil di laboratorium, dan penelitiannya terbit pada 1982. Jadi, temuan ini tidak bisa langsung dianggap berlaku untuk semua orang hari ini. Yang bisa kita ambil adalah kemungkinannya: keramahan bisa dibaca sebagai ketertarikan oleh orang yang melihatnya.
+
+### Keramahan Bukan Janji
+
+Dari bagian-bagian tadi, ada beberapa hal yang bisa kamu pegang:
+
+- **Ramah bukan janji.** Senyum, sapaan hangat, dan balasan pesan yang cepat tidak sama dengan jawaban "iya". Kalau ada yang salah paham, keramahanmu tidak membuatmu berutang perasaan pada siapa pun.
+- **Kamu bisa disalahpahami.** Orang lain mungkin membaca keramahanmu lebih jauh dari maksudmu. Penelitian Abbey membuat kemungkinan ini patut dipertimbangkan, walau belum membuktikannya.
+- **Kamu juga bisa salah membaca.** Orang bergaya jenaka mungkin hanya menikmati obrolan. Satu sinyal belum cukup untuk menyimpulkan isi hati seseorang.
+- **Gaya memengaruhi makna.** Karena orang berbeda dalam cara menunjukkan rasa suka, perilaku yang sama bisa datang dari niat yang berbeda.
+
+Misalnya, seorang rekan kerja paruh waktu sering mengirim stiker lucu dan memuji tugasmu. Sebelum menebak-nebak, ingat bahwa itu bisa saja gayanya pada semua orang. Begitu pula sebaliknya, kehangatanmu padanya belum tentu dia baca sebagai sekadar ramah.
+
+### Benang Merah
+
+- Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka, dan beberapa di antaranya tampak dalam perilaku yang berbeda.
+- Menurut Henningsen, orang melakukan *flirting* karena enam motivasi, dan laki-laki serta perempuan cenderung membacanya dengan cara yang tidak sama.
+- Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilaian perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
+- Ramah bukan janji, dan salah baca bisa terjadi dari dua arah.
+
+Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi? Bab berikutnya membahas pujian, termasuk pujian yang justru membuat kamu canggung.
+
+
+<!-- Chapter: 04_pujian-yang-membuat-canggung -->
+
+## Pujian yang Membuat Canggung
+
+Ada kalimat yang isinya sepenuhnya baik, tetapi setelah mendengarnya kamu justru ingin cepat-cepat pergi. "Kamu kelihatan beda hari ini, cocok banget," kata seorang teman sekelas sambil tersenyum. Tidak ada yang salah dengan kalimat itu. Tetap saja, rasa kikuknya bertahan lama setelah percakapan selesai.
+
+Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara tidak langsung, terbungkus kalimat yang bisa dimaknai lebih dari satu arah. Pujian bisa menjadi salah satu bungkus seperti itu. Bab ini membahas dua hal: apa kata riset tentang pujian di antara orang yang saling kenal, dan bagaimana kamu bisa menerima pujian tanpa merasa terikat oleh maksud yang mungkin ada di baliknya.
+
+### Tebakan Keliru Si Pemberi Pujian
+
+[Zhao dan Epley (2021)](https://doi.org/10.1037/pspa0000277) menjalankan sembilan eksperimen tentang pujian. Dalam ringkasan penelitian mereka, orang yang memberi pujian meremehkan seberapa senang penerimanya nanti, sekaligus melebih-lebihkan seberapa canggung penerima itu akan merasa.
+
+Menurut naskah penulisnya, pada eksperimen pertama pemberi pujian menebak suasana hati positif penerima di skor 7,79, padahal penerima sendiri melaporkan 8,81. Untuk rasa canggung, tebakan pemberi ada di 3,46, sedangkan yang dilaporkan penerima 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
+
+[Boothby dan Bohns (2021)](https://doi.org/10.1177/0146167220949003) menemukan pola yang mirip dalam lima studi. Pemberi pujian meremehkan seberapa positif perasaan penerima, dan melebih-lebihkan seberapa terganggu serta tidak nyaman penerima akan merasa. Kekeliruan ini tetap ada bahkan ketika mereka menengok ke belakang, setelah pujian itu disampaikan.
+
+Jadi, dalam dua penelitian ini, rasa canggung yang dibayangkan pemberi lebih besar daripada yang dilaporkan penerima.
+
+### Kecemasan yang Membuat Pujian Ditahan
+
+Kenapa pemberi bisa salah menebak? Menurut [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003), kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya.
+
+Judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277) menyebut akibatnya: meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
+
+Ada satu catatan yang menghangatkan. Boothby dan Bohns melaporkan bahwa pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
+
+Kalau kamu berada di posisi penerima, temuan ini memberi sudut pandang lain. Orang yang memujimu mungkin juga sedang gugup. Rasa kikuk di antara kalian tidak selalu milikmu seorang.
+
+### Batas Temuan Riset Pujian
+
+Sebelum membawa temuan ini ke situasimu, ada batas yang perlu kamu pegang. Peserta penelitian Zhao dan Epley sudah saling kenal: teman, anggota keluarga, atau pasangan. Pujian di antara mereka hidup di dalam hubungan yang sudah ada.
+
+Pujian dari seseorang yang menyukaimu, padahal kamu tidak menyukainya dengan cara yang sama, bisa membawa beban yang berbeda. Kalimatnya mungkin bukan sekadar pujian, tetapi juga pembuka. Riset di atas tidak mengukur situasi seperti itu. Jadi, kalau buku ini memakai temuan tersebut untuk pengagum yang tidak kamu harapkan, itu adalah tafsiran buku ini, bukan hasil penelitian.
+
+Yang masih bisa dipegang dengan hati-hati: dalam kedua penelitian itu, rasa canggung yang dibayangkan pemberi pujian lebih besar daripada yang dilaporkan penerima.
+
+### Menerima Pujian Cukup dengan Terima Kasih
+
+Bagian berikut adalah saran, bukan temuan riset. Cara paling sederhana menerima pujian adalah ucapan terima kasih yang pendek.
+
+- "Terima kasih, aku senang dengarnya."
+- "Wah, makasih ya."
+- "Terima kasih sudah bilang begitu."
+
+Kamu tidak perlu membantah pujian itu ("Ah, biasa saja kok"), menjelaskan panjang lebar, atau buru-buru membalas dengan pujian lain supaya impas. Bantahan bisa saja malah memperpanjang percakapan, karena orang yang memuji merasa perlu meyakinkanmu. Terima kasih yang singkat menutup momen itu dengan rapi.
+
+### Rasa Syukur Tanpa Utang Perasaan
+
+Menerima pujian tidak sama dengan menerima tawaran. Kamu bisa menghargai kalimat baik seseorang tanpa merasa berutang apa pun kepadanya: tidak berutang waktu, tidak berutang balasan perasaan, dan tidak berutang penjelasan.
+
+Kamu mungkin merasa bersalah karena berpikir, "Dia sudah baik padaku, masa aku dingin?" Rasa terima kasih dan rasa tertarik adalah dua hal yang terpisah. Kamu boleh tulus berterima kasih, lalu tetap tidak ingin hubungan itu bergerak ke arah romantis. Keduanya tidak saling membatalkan.
+
+### Ketika Pujian Menjadi Pembuka Rayuan
+
+Kadang maksud sebuah pujian cukup jelas. Misalnya, pesan di aplikasi chat dari teman yang kamu kenal dari sebuah kelas, bunyinya, "Senyummu manis, kapan-kapan kita ngopi berdua, yuk?" Di sini pujian dan ajakan datang bersamaan.
+
+Beberapa saran untuk situasi seperti ini:
+
+- Pisahkan dua bagiannya. Kamu boleh berterima kasih atas pujiannya, lalu menjawab ajakannya secara terpisah.
+- Jangan memakai terima kasih yang hangat sebagai pengganti jawaban. Kalau kamu tidak ingin pergi, ucapan "makasih" saja bisa dibaca sebagai pintu yang masih terbuka.
+- Kalau jawabanmu tidak, katakan dengan jelas. Cara menolak yang jelas tetapi tetap hangat dibahas di bab 7.
+
+Pujian yang tulus tetap boleh kamu nikmati. Yang perlu kamu jaga hanyalah agar penerimaanmu atas pujian tidak disalahpahami sebagai jawaban atas ajakan.
+
+### Poin Penting
+
+- Dalam penelitian Zhao dan Epley serta Boothby dan Bohns, pemberi pujian meremehkan rasa senang penerima dan melebih-lebihkan rasa canggungnya.
+- Menurut Boothby dan Bohns, salah tebak itu bersumber dari kecemasan pemberi sendiri.
+- Peserta penelitian Zhao dan Epley sudah saling kenal, jadi menerapkannya pada pengagum yang tidak kamu harapkan adalah tafsiran, bukan temuan.
+- Terima kasih yang singkat sudah cukup. Menerima pujian tidak berarti menerima tawaran.
+- Saat pujian datang bersama ajakan, jawab ajakannya secara terpisah dan jelas.
+
+Semua contoh di bab ini terjadi di antara orang yang pernah kamu temui langsung, setidaknya sesekali. Bagaimana jika pujian dan perhatian datang dari seseorang yang hanya kamu kenal lewat layar, tanpa pernah bertatap muka? Di situ, pertanyaannya bergeser dari soal canggung ke soal seberapa jauh kamu bisa percaya.
+
+
+<!-- Chapter: 05_kenalan-dari-layar-dan-batas-percaya -->
+
+## Kenalan dari Layar dan Batas Percaya
+
+Pesan pertama datang pagi-pagi, sapaan hangat dari kenalan yang baru kamu kenal lewat sebuah grup diskusi daring. Malamnya datang pesan lagi, menanyakan apakah kamu sudah makan. Besok pagi begitu lagi, besok malam juga. Tidak lama kemudian, kamu mulai menunggu notifikasi itu, dan hari terasa janggal kalau satu sapaan terlewat.
+
+Sebelum lanjut, satu hal perlu jelas. Bab ini tidak mengajakmu mencurigai semua orang yang kamu kenal lewat layar. Yang dibahas adalah cara mengatur kecepatan percaya, yaitu memberi kepercayaan sedikit demi sedikit sesuai apa yang sudah terbukti, bukan sesuai seberapa sering pesannya datang.
+
+### Sapaan Rutin dalam Tahap Awal Penipuan Asmara
+
+Peneliti Whitty mewawancarai dua puluh orang yang pernah menjadi korban penipuan asmara daring (*romance scam*), baik yang kehilangan uang maupun yang tidak. Dari wawancara itu ia menyusun [model tahapan penipuan asmara daring](https://doi.org/10.1093/bjc/azt009). Tiga tahap pertamanya adalah:
+
+- Tahap 1, korban termotivasi untuk menemukan pasangan yang ideal.
+- Tahap 2, korban disuguhi profil yang tampak ideal.
+- Tahap 3, proses *grooming*, tahap saat penipu membangun kepercayaan korban.
+
+Urutan tiga tahap itu bisa kamu lihat ringkas pada bagan berikut.
+
+```mermaid
+flowchart LR
+    accTitle: Tiga tahap awal penipuan asmara daring
+    accDescr: Menurut model Whitty, penipuan asmara daring bergerak dari tahap pertama, korban ingin menemukan pasangan ideal, ke tahap kedua, korban disuguhi profil ideal, lalu ke tahap ketiga, proses grooming lewat obrolan pagi dan malam yang menjadi rutinitas.
+    A["Tahap 1, ingin menemukan pasangan ideal"] --> B["Tahap 2, disuguhi profil ideal"]
+    B --> C["Tahap 3, grooming lewat obrolan rutin"]
+```
+
+Tahap ketiga paling dekat dengan skenario pembuka. Menurut Whitty, obrolan yang sering, pagi dan malam, membuat hubungan itu menjadi rutinitas, dan rutinitas itu membuatnya lebih sulit ditinggalkan. Dalam model ini, penipu membangun kepercayaan yang cukup untuk kemudian menipu korban demi uang.
+
+Pelajarannya bukan bahwa pesan selamat pagi itu berbahaya. Sapaan rutin juga bisa datang dari orang yang tulus. Pelajarannya, rasa dekat yang tumbuh dari kebiasaan belum sama dengan kepercayaan yang sudah teruji.
+
+### Ketika AI Ikut Menulis Pesan Rayuan
+
+Ada lapisan baru yang perlu kamu tahu. Survei vendor [McAfee](https://www.mcafee.com/blogs/internet-security/love-bytes-how-ai-is-shaping-modern-love/) pada Januari 2024 terhadap 7.000 orang dewasa di tujuh negara mencatat hampir satu dari empat orang Amerika pernah mempercantik foto atau konten kencan mereka dengan AI (*artificial intelligence*, kecerdasan buatan). Sebanyak 64% tidak akan percaya pada orang yang mereka sukai bila ia memakai foto buatan AI, dan 57% akan merasa sakit hati atau tersinggung kalau pesan Valentine untuk mereka ternyata ditulis AI. Yang paling relevan, hanya 24% yang yakin bisa mengenali pesan tulisan AI.
+
+Menurut [laporan Mashable](https://mashable.com/article/singles-using-ai-to-date-up-300-percent-match) tentang survei Match dan Kinsey Institute terhadap sekitar 5.000 lajang di Amerika Serikat, 26% memakai AI untuk membantu urusan kencan, naik 333% dibanding 2024. Hampir separuh lajang Gen Z pernah memakai AI dalam kencan, misalnya untuk profil, pesan, atau menyaring calon. Di sisi lain, 36% menganggap memakai AI untuk membuat percakapan sebagai alasan untuk mundur (*dealbreaker*).
+
+Angka-angka ini mengingatkan bahwa pesan yang manis dan rapi belum tentu ditulis sendiri oleh pengirimnya. Itu bukan alasan mencurigai setiap kalimat indah, tetapi alasan untuk menilai seseorang dari tindakan yang konsisten, bukan dari kata-kata saja.
+
+### Gambaran Kekerasan Berbasis Gender dari CATAHU 2025
+
+Di Indonesia, Komnas Perempuan mencatat dalam [CATAHU 2025](https://komnasperempuan.go.id/catatan-tahunan-detail/catahu-2025-menguatkan-data-mengatasi-kerentanan-mendesak-negara-bersikap-untuk-keadilan-korban) sebanyak 376.529 kasus kekerasan berbasis gender terhadap perempuan sepanjang 2025, naik 14,07%. Sebanyak 89,76% di antaranya terjadi di ranah personal. Data itu dihimpun dari 97 lembaga pengada data, dan korbannya didominasi perempuan berusia 18 sampai 40 tahun. Angka ini menggambarkan kekerasan berbasis gender yang tercatat secara umum, bukan risiko bertemu kenalan daring.
+
+[Lembar fakta CATAHU 2025](https://komnasperempuan.go.id/file-manager/frontend/Lembar%20Fakta%20CATAHU%20Komnas%20Perempuan%202025?ref=IkltVjVTakZqTWxa66993c4d1ef55c649529ce5934120c9994fNVNXcHZhVm96Vm14ak0xRnBURU5LYldGWGVHeGliVVowV2xOSk5rbHFWVFJQVjBwcFdtcGthVXhYUm1sTmFrVjBUa2RWTVU1RE1EVk5SRWw2VEZSRmVsbDZTbWhhUjBacFRUSkpORTE1TlZGU1JWbHBURU5LYTFsWVVteFlNMHBzWTFoV2JHTXpVV2xQYVVsNVRVUkpNa3hVUVhwTVZFMTNTVVJGTUU5cVZUVlBha1V5U1dsM2FWcFlhSGRoV0Vwb1pFZHNkbUpwU1RaSmFrbDNUV3BaZEUxRVRYUk5la0ZuVFZSVk5rNVVhelpOVkZscFpsRTlQU0k9Ig%3D%3D) menyebut bahwa di antara pengaduan yang masuk ke Komnas Perempuan, kekerasan berbasis gender *online* (KBGO) masih menjadi bentuk yang paling dominan, dengan 1.091 kasus pada 2025. Bacalah angka ini dengan tepat. Angka 1.091 hanya menghitung pengaduan ke Komnas Perempuan, bukan jumlah seluruh kasus KBGO di Indonesia.
+
+### Kebiasaan Aman Sebelum Bertemu Kenalan Daring
+
+Panduan kencan aman dari [RAINN](https://rainn.org/strategies-to-reduce-risk-increase-safety/tips-for-safer-dating-online-and-in-person/) bisa kamu sesuaikan menjadi beberapa kebiasaan sederhana:
+
+- Luangkan waktu untuk mengenal orangnya, dan bertemu hanya saat kamu sudah nyaman. Desakan untuk cepat bertemu adalah tanda bahaya (*red flag*).
+- Jangan terburu-buru memindahkan obrolan keluar dari platform tempat kalian berkenalan. McAfee juga mencatat bahwa penipu cepat memindahkan percakapan ke aplikasi chat lain.
+- Cari tahu tentang orang itu sebelum bertemu, dan jangan bagikan alamat rumah, tempat kerja, atau rutinitas harianmu.
+- Jangan pernah mengirim uang kepada orang yang belum pernah kamu temui. McAfee juga menyarankan agar kamu menceritakan kenalan barumu kepada orang yang kamu percaya.
+- Saat bertemu, beri tahu teman atau keluarga ke mana kamu pergi, siapa yang kamu temui, dan kapan kamu pulang. Bagikan lokasimu.
+- Pilih tempat umum yang terang dan ramai, jangan saling berkunjung ke rumah sebelum kepercayaan terbangun, atur transportasimu sendiri, dan siapkan rencana untuk pergi.
+
+Kalau ada yang membuatmu tidak nyaman, panduan itu menyarankan agar kamu mendengarkan firasatmu: berhenti berkomunikasi, blokir orangnya, dan laporkan perilaku yang mengganggu. Panduan yang sama menegaskan bahwa kamu tidak berutang waktu atau sopan santun kepada siapa pun saat keamanan atau kenyamananmu terancam. Menurut pandangan buku ini, orang yang tulus semestinya mau menunggu sampai kamu siap.
+
+### Inti Pembahasan
+
+- Model Whitty menggambarkan tiga tahap awal penipuan asmara daring: motivasi mencari pasangan ideal, profil yang tampak ideal, lalu *grooming* lewat obrolan pagi dan malam yang membuat hubungan sulit ditinggalkan.
+- Menurut survei McAfee, hanya 24% yang yakin bisa mengenali pesan tulisan AI, jadi kata-kata manis perlu dibaca bersama tindakan.
+- CATAHU 2025 mencatat 376.529 kasus kekerasan berbasis gender terhadap perempuan, sementara 1.091 kasus KBGO adalah pengaduan ke Komnas Perempuan saja.
+- Tujuannya bukan mencurigai semua kenalan daring. Kuncinya adalah mengatur kecepatan percaya.
+
+Kehati-hatian membantumu melihat dengan jernih. Namun setelah melihat dengan jernih, kadang kamu sampai pada keputusan untuk tidak melanjutkan, entah karena ada yang janggal atau sekadar karena perasaanmu tidak sama. Di titik itu muncul pertanyaan baru yang dibahas di bab berikutnya: kenapa mengatakan tidak terasa begitu berat?
+
+
+<!-- Chapter: 06_kenapa-menolak-terasa-berat -->
+
+## Kenapa Menolak Terasa Berat
+
+Kenapa mengucapkan kata "tidak" sering terasa jauh lebih sulit daripada yang kamu bayangkan sebelumnya? Di kepala, semuanya tampak sederhana. Seseorang menunjukkan rasa suka, kamu tidak merasakan hal yang sama, lalu kamu menjawab dengan jujur. Selesai.
+
+Kenyataannya jarang semulus itu. Bayangkan seorang teman sekelas yang mulai sering mengirim pesan di aplikasi chat, lalu suatu sore mengajakmu makan berdua. Kamu sudah tahu jawabanmu. Namun begitu jarimu siap mengetik, muncul rasa tidak enak, takut menyakiti, bahkan rasa bersalah. Bab ini membahas dari mana tarikan-tarikan itu datang, berdasarkan beberapa penelitian tentang orang yang berada di posisi menolak.
+
+### Rasa Bersalah Pihak yang Menolak
+
+Di bab 1 kamu sudah berkenalan dengan penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) yang mengumpulkan cerita dari dua sisi cinta yang tidak berbalas. Di bab ini kita memusatkan perhatian pada satu sisi saja, yaitu orang yang ditaksir tetapi tidak membalas.
+
+Menurut ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
+
+Ada temuan lain dari penelitian yang sama. Banyak penolak memandang usaha gigih dari pihak yang menyukai mereka sebagai sesuatu yang mengganggu dan menjengkelkan. Jadi, penolak bisa merasa bersalah dan terganggu pada waktu yang sama.
+
+Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu bahkan mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
+
+Sisi yang lain, yaitu orang yang ditolak, punya ceritanya sendiri. Kita akan mendengarnya di bab 9.
+
+### Penolakan Bayangan Lebih Mudah daripada Penolakan Nyata
+
+Coba tanyakan pada dirimu, "Kalau ada orang yang tidak cocok denganku mengajak kencan, apakah aku akan menolak?" Mungkin kamu langsung menjawab ya. Penelitian [Joel, Teper, dan MacDonald (2014)](https://doi.org/10.1177/0956797614552828) menunjukkan bahwa jawaban itu bisa berubah ketika situasinya sungguhan.
+
+Dalam dua studi, orang lajang menghadapi ajakan dari calon kencan yang tidak menarik bagi mereka (studi pertama) atau yang tidak sesuai dengan preferensi mereka (studi kedua). Peserta yang percaya situasinya nyata secara signifikan kurang bersedia menolak calon yang tidak cocok itu dibandingkan peserta yang menganggap situasinya hanya hipotetis. Judul makalahnya sendiri merangkum temuan ini: orang melebih-lebihkan kesediaan mereka untuk menolak.
+
+Apa yang menjelaskan selisih itu? Sebagian dijelaskan oleh *other-focused motives* (motif yang berpusat pada orang lain). Peserta yang hanya membayangkan situasi itu memperkirakan dorongan untuk tidak menyakiti perasaan orang lain lebih kecil daripada dorongan yang benar-benar dirasakan peserta dalam situasi nyata. Kata "sebagian" di sini penting, karena itu bukan satu-satunya penjelasan.
+
+[Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab. Menurut siaran pers itu (terjemahan bebas), "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
+
+Menurut pandangan buku ini, rasa berat yang kamu rasakan bukan tanda kamu lemah. Rasa itu muncul antara lain karena kamu peduli pada perasaan orang lain.
+
+### Alasan Penolakan yang Disimpan
+
+Kalaupun akhirnya menolak, orang sering tidak menyampaikan alasannya. Penelitian [Folkes (1982)](https://doi.org/10.1016/0022-1031(82)90052-X) mempelajari cerita orang yang pernah menolak ajakan kencan. Menurut abstraknya, para penolak sering mengaku menyimpan alasan penolakan. Alasan yang mereka ucapkan terutama bersifat impersonal (tidak menyangkut diri orang itu), di luar kendali, dan tidak menetap.
+
+Sebagai gambaran, alasan seperti itu mirip kalimat "minggu ini aku sedang sibuk sekali". Kalimat itu tidak menyinggung siapa pun, terdengar seperti keadaan yang tidak bisa diubah, dan seakan bisa berbeda di lain waktu.
+
+Studi kedua dalam penelitian yang sama menemukan bahwa alasan yang berkaitan dengan penampilan atau kepribadian orang yang ditolak lebih jarang diungkapkan. Abstraknya membaca pola ini sebagai cara menjaga citra diri, yang mencerminkan tiga kekhawatiran:
+
+- reaksi emosional orang yang ditolak,
+- harapan tentang masa depan hubungan di antara keduanya,
+- siapa yang akan disalahkan atas penolakan itu.
+
+Kekhawatiran pertama terdengar mirip dengan temuan Joel dan rekan tentang kepedulian pada perasaan orang lain. Penolak tidak hanya memikirkan dirinya sendiri, tetapi juga orang di depannya dan hubungan yang mungkin masih harus dijalani, misalnya karena kalian akan terus bertemu di kelas yang sama. Bab 7 nanti menyinggung soal alasan ini secara singkat.
+
+### Mengenali Tarikan yang Membuatmu Ingin Mengiyakan
+
+Dari ketiga penelitian tadi, ada pola yang bisa kamu pegang. Rasa bersalah, rasa terganggu oleh usaha gigih, dan keinginan untuk tidak menyakiti muncul dalam penelitian-penelitian ini. Penelitian-penelitian ini tidak mengatakan bahwa perasaan itu tanda kamu sudah berbuat salah. Dalam pandangan buku ini, tidak membalas perasaan seseorang bukan kesalahan moral.
+
+Mengenali tarikan ini bisa menolongmu. Ketika kamu tahu bahwa rasa tidak enak memang biasa muncul saat situasinya nyata, kamu bisa berhenti sejenak sebelum menjawab. Tanyakan pada dirimu, "Apakah aku mau mengiyakan karena aku memang ingin, atau karena aku tidak tega?" Kalau jawabannya yang kedua, rasa tidak tega itu layak dihargai, tetapi tidak harus menjadi keputusanmu.
+
+Peduli pada perasaan orang lain adalah hal baik. Yang perlu dijaga adalah agar kepedulian itu tidak membawamu pada "ya" yang tidak kamu maksudkan.
+
+### Yang Perlu Kamu Ingat
+
+- Menurut Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
+- Joel dan rekan menemukan bahwa orang kurang bersedia menolak calon kencan yang tidak cocok ketika situasinya nyata, sebagian karena kepedulian pada perasaan orang lain.
+- Folkes menemukan bahwa penolak sering menyimpan alasannya dan memilih alasan yang impersonal, sementara alasan soal penampilan atau kepribadian lebih jarang diungkapkan.
+- Rasa bersalah saat menolak dilaporkan para penolak dalam penelitian itu, dan menurut buku ini tidak berarti kamu berbuat salah.
+
+Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah cara menyampaikannya dengan baik, sehingga jawabanmu jelas tanpa kehilangan kehangatan. Itulah yang akan kita pelajari di bab 7.
+
+
+<!-- Chapter: 07_menolak-dengan-jelas-dan-tetap-hangat -->
+
+## Menolak dengan Jelas dan Tetap Hangat
+
+Rambu jalan yang catnya masih tajam langsung memberi tahu pengendara harus ke mana, sedangkan rambu yang pudar membuat orang ragu dan melambat. Pengendara yang ragu sering kali berhenti, menebak, lalu mencoba jalan yang salah.
+
+Penolakan perasaan mirip rambu itu. Kalau pesannya terbaca jelas, orang lain bisa memutuskan langkah berikutnya. Kalau pesannya pudar, dia bisa terus menebak-nebak. Di bab ini kamu akan melihat apa kata teori dan para praktisi tentang cara menolak yang jelas, contoh kalimat yang bisa kamu sesuaikan, dan apa yang perlu dilakukan kalau "tidak" darimu tetap tidak didengar.
+
+### Tiga Pilihan Orang yang Menolak
+
+[Freedman dan rekan (2016)](https://doi.org/10.3389/fpsyg.2016.01570) menyusun sebuah teori tentang cara melunakkan pukulan dari pengucilan sosial. Menurut mereka, orang yang menolak punya tiga pilihan:
+
+- *Explicit rejection* (penolakan eksplisit), yaitu menyatakan "tidak" dengan jelas.
+- *Ostracism* (pengucilan), yaitu mendiamkan atau mengabaikan orang itu.
+- *Ambiguous rejection* (penolakan samar), yaitu memberi jawaban yang tidak jelas.
+
+Teori ini memprediksi bahwa kebutuhan kedua pihak lebih terjaga kalau penolak memakai komunikasi verbal yang jelas dan eksplisit. Orang yang ditolak diperkirakan tidak terlalu sakit hati, sementara penolak diperkirakan menghadapi lebih sedikit serangan balik dan beban emosi. Perlu dicatat, ini prediksi dari sebuah tulisan teori, bukan hasil yang sudah dibuktikan lewat data.
+
+Contoh penolakan eksplisit dalam tulisan itu kira-kira berbunyi begini: aku senang ngobrol sama kamu, tapi aku tidak mau pergi makan siang bersamamu. Kalimatnya sederhana, sopan, dan tidak menyisakan teka-teki.
+
+### Jawaban Samar yang Membuat Harapan Bertahan
+
+Coba bayangkan seorang teman sekelas mengajakmu jalan berdua lewat aplikasi chat, lalu kamu membalas seperti ini:
+
+> Hmm, lihat nanti ya, minggu ini lagi sibuk banget.
+
+Niatnya mungkin halus. Masalahnya, kalimat itu bisa dibaca sebagai "belum sekarang", bukan "tidak". Dalam penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) tentang cinta tak berbalas, orang yang perasaannya ditolak meyakini bahwa penolakan itu tidak pernah disampaikan secara pasti.
+
+Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat. Jadi anggap ini sebagai risiko, bukan hukum. Panduan praktis yang dibahas di bawah juga sama-sama meminta kamu menghindari janji atau "mungkin nanti" yang bisa memberi harapan palsu.
+
+### Prinsip Penolakan yang Baik Hati
+
+Menurut panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281) yang ditinjau seorang konselor, menolak dengan baik punya beberapa pegangan:
+
+- Bersikap baik sekaligus langsung ke inti.
+- Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku".
+- Pakai kalimat yang berpusat pada dirimu ("aku merasa ...", "aku tidak ...").
+- Ucapkan terima kasih, lalu buat pesannya singkat.
+- Ingat bahwa "tidak" bisa menjadi kalimat yang utuh, seperti dikutip dari seorang psikolog di panduan itu. Saran buku ini: kamu tidak wajib memberi alasan panjang.
+
+Menurut psikolog yang diwawancarai [Klikdokter](https://www.klikdokter.com/psikologi/relationship/cara-menolak-cinta-dengan-halus-menurut-psikolog), ada empat hal yang membantu: tunjukkan penghargaan, beri pujian yang tulus, bicara jujur, dan terima bahwa orang itu akan merasa sakit hati. Psikolog itu juga mengingatkan agar kamu tidak memberi janji yang membuat orang menunggu tanpa kepastian. Kamu boleh menawarkan tetap berteman supaya jelas bahwa yang kamu tolak adalah hubungan romantis, bukan pertemanannya. Saran buku ini, tawaran itu sebaiknya hanya kamu ucapkan kalau memang kamu maksudkan.
+
+### Contoh Kalimat Penolakan di Chat
+
+Berikut beberapa contoh rekaan yang bisa kamu ubah sesuai gaya bicaramu. Semuanya hangat, tetapi tidak membuka celah "mungkin".
+
+> Makasih ya udah jujur sama aku, itu butuh keberanian. Tapi aku nggak punya perasaan yang sama, jadi aku nggak mau jalan berdua.
+
+> Aku senang ngobrol sama kamu di grup diskusi kemarin. Tapi aku nggak tertarik buat hubungan yang lebih dari teman.
+
+> Aku hargai banget perhatianmu. Jawabanku tidak, dan aku harap kamu bisa menerimanya.
+
+> Aku masih mau berteman kayak biasa, tapi untuk hubungan romantis, jawabanku tidak.
+
+Perhatikan bahwa tidak ada kalimat yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
+
+### Desakan Setelah Kata Tidak
+
+Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
+
+- pengejaran (*pursuit*);
+- pelanggaran batas (*violation*);
+- ancaman (*threat*);
+- keintiman berlebihan (*hyper-intimacy*).
+
+Dalam penelitian itu, perempuan menilai perilaku semacam ini lebih mengganggu dan mengancam dibanding laki-laki.
+
+Kalau orang itu terus mendesak setelah kamu bilang tidak, panduan Verywell Mind menyebut wajar untuk bersikap lebih tegas. Kamu juga boleh memblokirnya di berbagai platform bila perlu.
+
+### Kesimpulan Bab
+
+- Teori dari Freedman dan rekan memprediksi bahwa penolakan yang jelas lebih menjaga kedua pihak dibanding pengucilan atau jawaban samar.
+- Jawaban samar berisiko dibaca sebagai "belum", bukan "tidak".
+- Penolakan yang baik itu singkat, jujur, berterima kasih, tanpa janji palsu, dan (saran buku ini) tawaran berteman hanya kalau kamu sungguh-sungguh.
+- Kalau desakan terus berlanjut setelah "tidak", kamu boleh lebih tegas dan memblokir.
+
+Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara. Pilihan itu punya ceritanya sendiri, dan di bab 8 kita akan melihat apa yang terjadi ketika diam dijadikan jawaban.
+
+
+<!-- Chapter: 08_diam-sebagai-jawaban -->
+
+## Diam sebagai Jawaban
+
+Dalam sebuah studi di Amerika Serikat, sekitar seperempat peserta mengaku pernah ditinggal menghilang oleh pasangan romantisnya. Pola ini punya nama yang mungkin sudah sering kamu dengar, yaitu *ghosting* (menghilang tanpa kabar): pesan tidak lagi dibalas, dan penjelasan tidak pernah datang.
+
+Bab ini membahas diam sebagai cara mengakhiri kontak. Seberapa sering hal itu terjadi, bagaimana rasanya bagi kedua pihak, dan kapan diam justru pilihan yang wajar. Satu catatan sejak awal: hampir semua studi di bab ini meneliti berakhirnya hubungan, bukan ketertarikan sepihak yang baru tumbuh. Jadi ketika temuan itu dipakai untuk situasi "dia suka, kamu tidak", itu adalah penarikan kesimpulan buku ini, bukan hasil langsung para peneliti.
+
+### Seberapa Sering Orang Menghilang Tanpa Kabar
+
+Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.1177/0265407517748791), yang mengumpulkan sampel daring di Amerika Serikat. Pada studi pertama dengan 554 peserta, 25,3% pernah di-*ghosting* oleh pasangan romantis dan 21,7% pernah melakukannya. Pada studi kedua dengan 747 peserta, angkanya 23,0% dan 18,9% untuk hubungan romantis.
+
+Pertemanan ternyata juga tidak luput. Di studi kedua itu, 38,6% peserta pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
+
+Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
+
+### Dua Peran Ghosting yang Sama-sama Dialami
+
+Dalam studi kualitatif [LeFebvre dan rekan (2019)](https://doi.org/10.1177/0276236618820519) terhadap 99 orang dewasa muda, sebagian besar peserta pernah berada di kedua posisi: pernah menghilang, pernah juga ditinggal menghilang. Judul penelitian itu menyebut *ghosting* sebagai strategi "menghilang" untuk mengakhiri hubungan secara digital.
+
+Temuan ini membantu kamu melihat persoalan dengan lebih jernih. Membicarakan *ghosting* tidak sama dengan membagi orang menjadi pelaku dan korban, karena dalam studi itu sebagian besar peserta pernah merasakan keduanya.
+
+### Siapa yang Lebih Terluka oleh Ghosting
+
+[Koessler, Kohut, dan Campbell (2019)](https://doi.org/10.1525/collabra.230) membandingkan cara-cara orang mengakhiri hubungan. Beberapa temuannya:
+
+- Hubungan yang berakhir lewat *ghosting* cenderung lebih singkat dan komitmennya lebih rendah.
+- Pihak yang ditinggalkan merasakan tekanan dan emosi negatif lebih besar daripada pihak yang mengakhiri.
+- Di antara pihak yang mengakhiri, yang memilih *ghosting* melaporkan tekanan lebih rendah daripada yang memutuskan secara langsung.
+
+Studi itu tidak menunjukkan bahwa orang yang di-*ghosting* lebih menderita daripada orang yang ditolak secara langsung. Di sisi lain, [Pancani, Aureli, dan Riva (2022)](https://doi.org/10.5817/CP2022-2-9) dengan 176 peserta menemukan *ghosting* berujung pada hasil yang lebih buruk daripada penolakan. Emosi peserta tidak berbeda antarkondisi, tetapi rasa tersisih lebih kuat pada yang di-*ghosting* daripada yang ditolak.
+
+Jadi, bukti tentang apakah *ghosting* lebih menyakitkan daripada penolakan langsung masih campur aduk. Jujur saja, belum ada jawaban tunggal.
+
+### Tahap Perasaan Orang yang Ditinggal Diam
+
+[Pancani dan rekan (2021)](https://doi.org/10.1177/02654075211000417) mempelajari pengalaman 208 orang dewasa muda yang mengalami *ghosting* dan *orbiting* (harfiahnya "mengorbit"). Reaksi mereka tersusun dalam empat tahap:
+
+1. Terkejut dan bingung.
+2. Marah, sedih, dan merasa bersalah.
+3. Berusaha memperbaiki hubungan.
+4. Menerima.
+
+Para peneliti juga menyimpulkan bahwa *ghosting* dan *orbiting* dapat dianggap bentuk pengucilan (*ostracism*). Tahapan ini akan kita rujuk lagi di bab 9.
+
+### Ketidakpastian yang Disebut Limbo
+
+Wawancara [Campaioli, Testoni, dan Zamperini (2022)](https://doi.org/10.5817/CP2022-5-10) dengan 23 orang berusia 21 sampai 34 tahun di Italia memberi gambaran yang lebih dekat. *Ghosting* terasa seperti *limbo*, keadaan menggantung tanpa kepastian. Tidak adanya penutupan digambarkan lebih menyakitkan daripada hubungan yang diakhiri secara terang-terangan. Bahkan orang yang pernah meng-*ghosting* mengaku lebih memilih "kebenaran yang pahit" (*ugly truth*) daripada ketidakpastian. Ini studi kecil, tetapi suaranya patut didengar.
+
+### Dugaan Alasan Keamanan di Balik Pilihan Diam
+
+Tidak semua orang diam karena malas. Menurut [Freedman dan rekan (2022)](https://doi.org/10.1016/j.jesp.2022.104368), kekhawatiran soal keselamatan mungkin membuat orang lebih cenderung memilih *ghosting*. Penolakan bisa menjadi interaksi yang berakhir dengan kekerasan, terutama ketika perempuan menolak laki-laki.
+
+Menurut ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships), pada sampel dengan rentang usia yang lebar, sekitar 50% peserta punya pengalaman *ghosting*. Alasan pribadinya antara lain perlindungan (menghindari perasaan terluka, takut dibalas) dan karena *ghosting* itu mudah. Namun ringkasan itu juga mencatat bahwa belum diketahui apakah *ghosting* memang lebih aman, apalagi orang yang di-*ghosting* sering mencoba menghubungi lagi demi kejelasan. Para penulis juga menyebut bahwa menyusun naskah penolakan yang disesuaikan bisa membantu. Dampaknya pada kebutuhan dasar orang yang diabaikan akan kita bahas di bab 9 nanti.
+
+### Kapan Diam Masuk Akal
+
+Bagian ini adalah panduan, bukan temuan penelitian. Diam bisa menjadi pilihan yang wajar kalau kamu merasa tidak aman, atau kalau seseorang terus mendesak setelah kamu menolak dengan jelas. Di bab 7 sudah dibahas bahwa kamu boleh bersikap lebih tegas dalam kondisi itu, dan kebiasaan menjaga keselamatan di bab 5 tetap berlaku.
+
+Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik daripada membiarkan orang menggantung. Misalnya, seorang kenalan dari komunitas baca terus mengirim pesan di aplikasi chat. Satu kalimat seperti "Terima kasih sudah perhatian, tapi aku tidak punya perasaan yang sama" memberinya kepastian yang tidak bisa diberikan oleh diam.
+
+### Poin Kunci
+
+- Dalam studi yang terbit tahun 2019 dengan sampel daring di Amerika Serikat, sekitar seperempat orang pernah di-*ghosting* pasangan romantis, dan angka untuk pertemanan lebih tinggi.
+- Dalam satu studi kualitatif, sebagian besar peserta pernah menjadi pelaku sekaligus pihak yang di-*ghosting*.
+- Bukti soal apakah *ghosting* lebih menyakitkan daripada penolakan langsung masih campur aduk.
+- Dalam satu studi, reaksi orang yang ditinggal diam tersusun dari bingung sampai menerima, dan dalam studi lain ia digambarkan seperti menggantung dalam *limbo*.
+- Menurut panduan buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
+
+Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Di bab 9, kita berpindah ke sisi orang yang tidak dipilih, untuk memahami mengapa diabaikan bisa terasa begitu berat.
+
+
+<!-- Chapter: 09_dari-sisi-yang-tidak-dipilih -->
+
+## Dari Sisi yang Tidak Dipilih
+
+Kamu membuka aplikasi chat untuk kesekian kalinya malam ini, dan pesan terakhirmu masih belum berbalas. Tanda dibaca sudah muncul sejak sore. Kamu menutup layar, lalu membukanya lagi beberapa menit kemudian, seolah menyegarkan halaman bisa memunculkan jawaban.
+
+Sebagian besar buku ini berbicara kepada orang yang tidak membalas perasaan. Bab ini sengaja berpindah kursi. Kita melihat dari sisi orang yang menyukai tetapi tidak dipilih, supaya kamu bisa memahami orang yang kamu tolak, dan mungkin juga memahami dirimu sendiri kalau kamu pernah berada di posisi itu.
+
+### Otak yang Ikut Mencatat Pengucilan
+
+Apakah ditolak benar-benar terasa sakit, atau itu hanya kiasan? Pertanyaan itu menjadi judul penelitian [Eisenberger, Lieberman, dan Williams (2003)](https://doi.org/10.1126/science.1089134). Peserta bermain lempar bola virtual sambil otaknya dipindai, dan ada saat mereka diikutsertakan serta saat mereka dikucilkan dari permainan.
+
+Hasilnya, bagian otak bernama *anterior cingulate cortex* (korteks singulat anterior) lebih aktif saat peserta dikucilkan dibandingkan saat diikutsertakan. Makin aktif bagian itu, makin tinggi rasa tertekan yang dilaporkan peserta sendiri. Sebaliknya, aktivitas *right ventral prefrontal cortex* (korteks prefrontal ventral kanan) berhubungan dengan rasa tertekan yang lebih rendah.
+
+Penelitian ini memakai permainan sederhana, bukan kisah cinta, jadi ia tidak menakar seberapa sakit ditolak gebetan. Namun ia memberi alasan untuk tidak menertawakan orang yang bilang "sakit" setelah diabaikan. Rasa itu tidak bisa diremehkan begitu saja.
+
+### Empat Kebutuhan yang Terguncang
+
+[Williams dan Nida (2011)](https://doi.org/10.1177/0963721411402480) merangkum penelitian tentang *ostracism* (pengucilan, yaitu diabaikan atau disisihkan). Menurut mereka, pada tahap paling awal, pengucilan dirasakan sebagai rasa sakit dan sebagai ancaman terhadap empat kebutuhan dasar:
+
+- **Rasa memiliki**, perasaan bahwa kamu bagian dari sesuatu dan diterima.
+- **Harga diri**, penilaian bahwa dirimu cukup berharga.
+- **Kendali**, perasaan bahwa kamu bisa memengaruhi apa yang terjadi padamu.
+- **Keberadaan yang bermakna**, keyakinan bahwa kehadiranmu diperhatikan dan berarti.
+
+Bayangkan lagi layar chat yang sunyi tadi. Kamu tidak tahu apakah dia sibuk atau memang tidak ingin membalas, sehingga rasa kendali ikut goyah. Kamu bertanya-tanya apa yang salah dari dirimu, sehingga harga diri ikut tersentuh.
+
+Di bab 8 kita sudah melihat bahwa menurut para peneliti, *ghosting* (menghilang tanpa kabar) dapat dianggap salah satu bentuk pengucilan, dengan tahap reaksi yang berujung pada penerimaan ([Pancani dan rekan, 2021](https://doi.org/10.1177/02654075211000417)). Empat kebutuhan ini memberi nama untuk apa yang terasa hilang di sepanjang jalan itu.
+
+### Tiga Tahap Setelah Diabaikan
+
+Williams dan Nida juga membagi pengalaman dikucilkan ke dalam tiga tahap:
+
+1. **Tahap segera (refleksif).** Rasa sakit muncul, dan empat kebutuhan tadi terasa terancam.
+2. **Tahap menimbang (reflektif).** Tahap tempat orang mengatasi pengalaman itu, atau *coping*.
+3. **Tahap jangka panjang (pasrah).** Pengucilan yang berlangsung lama dapat bergeser ke sini.
+
+Ada satu temuan yang penting. Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
+
+Bagaimana dengan tahap ketiga? Dalam tulisan sebelumnya, [Williams (2009)](https://doi.org/10.1016/S0065-2601(08)00406-1) menulis bahwa paparan pengucilan yang berkepanjangan pada akhirnya mengarah pada rasa pasrah, keterasingan, ketidakberdayaan, dan depresi. Ini bukan ramalan untuk setiap orang yang pernah ditolak, melainkan catatan bahwa diabaikan terus-menerus dalam waktu lama bukan perkara kecil.
+
+Kalau dirangkum dalam satu gambar, perjalanan dari tahap segera sampai tahap jangka panjang terlihat seperti ini.
+
+```mermaid
+stateDiagram-v2
+    accTitle: Tiga tahap pengucilan
+    accDescr: Pengucilan mula-mula terasa pada tahap segera, lalu berlanjut ke tahap menimbang, dan bila berlangsung lama dapat bergeser ke tahap jangka panjang berupa rasa pasrah.
+    state "Tahap segera" as segera
+    state "Tahap menimbang" as menimbang
+    state "Tahap jangka panjang" as panjang
+    [*] --> segera
+    segera --> menimbang
+    menimbang --> panjang : bila berlangsung lama
+```
+
+### Cerita yang Disusun Pihak yang Berharap
+
+Penelitian [Baumeister, Wotman, dan Stillwell (1993)](https://doi.org/10.1037/0022-3514.64.3.377) mengumpulkan kisah dari kedua sisi cinta yang tidak berbalas. Ketika orang yang pernah berharap menengok ke belakang, mereka mengingat campuran emosi, ada yang positif dan ada yang sangat negatif. Mereka yakin bahwa ketertarikan itu sebenarnya timbal balik, dan merasa telah dibuat berharap.
+
+Mereka juga menyusun cerita tentang apa yang terjadi, dan cerita itu disusun untuk membangun kembali harga diri. Di mata mereka, orang yang menolak tampak tidak konsisten dan misterius. Tambahkan temuan di bab 7 tentang penolakan yang terasa tidak pernah disampaikan dengan tegas, dan kamu bisa membayangkan berapa banyak pertanyaan yang tersisa di sisi ini.
+
+Pemahaman ini berguna dari dua arah. Kalau kamu yang menolak, kamu jadi tahu bahwa sikap yang menurutmu wajar bisa terbaca membingungkan dari seberang. Kalau kamu yang pernah berharap, kamu boleh mengakui bahwa ceritamu sendiri mungkin ikut disusun untuk melindungi harga diri. Itu manusiawi, bukan aib.
+
+### Langkah Mundur yang Menjaga Harga Diri
+
+Bagian ini saran buku ini, bukan temuan Williams dan Nida. Karena yang terguncang adalah empat kebutuhan tadi, tahap menimbang bisa kamu pakai untuk menguatkannya lagi. Beberapa pegangan yang bisa kamu coba:
+
+- **Hormati pilihannya.** Perasaanmu nyata, dan keputusannya juga nyata. Tidak membalas perasaan adalah hak dia, sama seperti menyukai adalah hakmu.
+- **Mundur ketika balasan berhenti.** Kalau pesan-pesanmu tidak lagi dijawab, berhentilah mengirim. Keputusan untuk berhenti ada di tanganmu, dan itu cara kecil untuk mengambil kembali rasa kendali.
+- **Bangun rasa memiliki di tempat lain.** Luangkan waktu bersama teman, keluarga, atau kelompok yang membuatmu merasa diterima.
+- **Isi lagi harga dirimu.** Kemampuan, minat, dan kebaikan yang kamu tunjukkan kepada orang lain tetap milikmu, apa pun jawabannya.
+- **Beri arti pada hari-harimu.** Kegiatan kecil yang bermakna bagimu membuat hari tidak habis untuk menunggu.
+
+Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tertentu. Kalau rasa berat itu bertahan lama dan mulai mengganggu keseharianmu, bercerita kepada orang yang kamu percaya atau kepada tenaga profesional adalah langkah yang wajar.
+
+### Recap
+
+- Dalam permainan lempar bola virtual, *anterior cingulate cortex* lebih aktif saat peserta dikucilkan, dan aktivitasnya sejalan dengan rasa tertekan yang dilaporkan.
+- Menurut Williams dan Nida, pada tahap awal pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
+- Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
+- Banyak pihak yang berharap mengingat emosi yang campur aduk, yakin ketertarikan itu timbal balik, dan melihat penolak sebagai sosok yang tidak konsisten dan misterius.
+- Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
+
+Perasaan seperti ini tidak hanya muncul di usia dewasa. Di bab berikutnya, kita memutar waktu ke masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia, lalu melihat apa kata penelitian tentang hubungan romantis remaja dan kedewasaan emosi.
+
+
+<!-- Chapter: 10_cinta-masa-sekolah-dan-kedewasaan-emosi -->
+
+## Cinta Masa Sekolah dan Kedewasaan Emosi
+
+Sebuah kertas kecil terlipat empat berpindah dari meja ke meja, melewati tiga teman sebelum sampai di tangan yang dituju. Isinya hanya satu kalimat, ditulis dan dihapus berkali-kali semalam sebelumnya. Penerimanya membaca, melipatnya lagi, lalu memasukkannya ke saku tanpa menoleh. Penulisnya menghabiskan sisa jam pelajaran dengan pipi panas dan pikiran yang tidak mau diam.
+
+Mungkin kamu pernah menjadi penulis kertas itu. Mungkin juga penerimanya, atau teman yang ikut mengopernya. Bertahun-tahun kemudian, kenangan seperti ini bisa ditertawakan, atau malah disesali. Bab ini mengajakmu menengoknya dengan cara lain, memakai beberapa temuan tentang perkembangan remaja, supaya kamu bisa memandang perasaan masa sekolah, milikmu maupun milik orang lain, dengan lebih ramah.
+
+### Cinta Remaja Bukan Perkara Sepele
+
+Ada orang dewasa yang menyebut perasaan remaja sebagai cinta monyet, seolah tidak perlu dipikirkan serius. Ulasan [Collins (2003)](https://doi.org/10.1111/1532-7795.1301001) melihatnya dari arah lain. Collins menulis bahwa penelitian tentang hubungan romantis remaja terhambat oleh anggapan keliru bahwa hubungan semacam itu remeh dan cepat berlalu.
+
+Untuk memahaminya, Collins menyebut lima ciri yang perlu diperhatikan:
+
+- keterlibatan (*involvement*)
+- pemilihan pasangan (*partner selection*)
+- isi hubungan (*relationship content*)
+- kualitas hubungan (*quality*)
+- proses kognitif dan emosional (*cognitive and emotional processes*)
+
+Daftar itu menunjukkan bahwa hubungan romantis remaja punya banyak sisi yang layak dipelajari. Tafsiran buku ini, debar di dada saat menunggu balasan kertas terlipat pun tidak perlu diremehkan, baik oleh orang lain maupun oleh dirimu sendiri sekarang.
+
+### Seberapa Banyak Remaja Terlibat Asmara
+
+Menurut ulasan [Meier dan Allen (2009)](https://pmc.ncbi.nlm.nih.gov/articles/PMC4201847/), yang mengutip data studi *Add Health* tentang remaja di Amerika Serikat, sekitar seperempat anak berusia 12 tahun melaporkan keterlibatan romantis. Pada usia 18 tahun, angkanya hampir 75 persen.
+
+Data ini berasal dari Amerika Serikat, jadi tidak bisa langsung dipindahkan ke sekolah di sekitarmu. Meski begitu, angka itu mengingatkan bahwa dalam data tersebut, keterlibatan romantis di usia sekolah bukan pengalaman segelintir orang. Data itu tidak mengukur perasaan sepihak, tetapi tafsiran buku ini: kalau dulu kamu merasa aneh karena terus memikirkan seseorang, kamu tidak sedang mengalami sesuatu yang ganjil.
+
+### Otak Remaja yang Masih Bertumbuh
+
+[Casey dan rekan (2008)](https://doi.org/10.1196/annals.1440.010) menggambarkan masa remaja sebagai masa ketika kepekaan terhadap imbalan (*incentive*) dan suasana sosial-emosional meningkat, sementara kendali atas dorongan hati masih relatif belum matang. Menurut mereka, sistem limbik (*limbic system*) tampak sudah berkembang pada masa remaja, sedangkan sistem kendali berkembang lambat dan bertahap hingga dewasa muda. Korteks prefrontal (*prefrontal cortex*) disebut sebagai salah satu bagian otak yang paling akhir matang.
+
+Namun, para penulis juga memberi peringatan penting. Fungsi korteks prefrontal yang belum matang saja tidak cukup untuk menjelaskan perilaku remaja. Jadi, temuan ini bukan alasan untuk menyalahkan otak atas setiap pilihan di masa sekolah, dan bukan pula vonis bahwa remaja tidak bisa berpikir jernih.
+
+### Jadwal Tumbuh Otak yang Tidak Serempak
+
+Ulasan [Steinberg (2005)](https://doi.org/10.1016/j.tics.2004.12.005) menyampaikan gagasan yang mirip. Sistem otak, perilaku, dan kognitif matang menurut jadwal yang berbeda-beda. Dalam keterangan gambar artikelnya, celah antarjadwal itu disebut sebagai masa yang diduga (*speculated*) membuat remaja lebih rentan terhadap masalah dalam mengatur perasaan dan perilaku.
+
+Perhatikan kata diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
+
+### Menengok Kembali Kenangan Sekolah
+
+Coba ingat beberapa adegan rekaan berikut, lalu lihat mana yang terasa dekat:
+
+- Kamu menyukai seorang teman sekelas begitu dalam sampai hafal jam berapa ia lewat di lorong.
+- Pesanmu di aplikasi chat hanya dibaca tanpa balasan berhari-hari. Atau sebaliknya, kamu sengaja membiarkan pesan seseorang karena bingung harus menjawab apa.
+- Dua sahabat menjadi renggang karena menyukai orang yang sama, atau karena orang yang kamu sukai ternyata menyukai sahabatmu.
+
+Penelitian di atas tidak menjelaskan satu per satu adegan itu, dan buku ini tidak punya data tentang seberapa sering hal semacam itu terjadi. Yang bisa ia berikan adalah sudut pandang. Teman yang dulu tidak membalas pesanmu mungkin sama bingungnya denganmu. Dirimu yang dulu menunda jawaban pun mungkin sedang belajar menghadapi perasaan orang lain tanpa bekal yang cukup. Diam sebagai cara menolak dibahas lebih jauh di bab 8.
+
+### Kedewasaan Emosi yang Tidak Memaksa
+
+Bagian ini bukan temuan penelitian, melainkan ajakan untuk bercermin. Salah satu cara memahami kedewasaan emosi adalah belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan kepada siapa pun.
+
+- Perasaanmu nyata dan layak dihargai, tetapi tidak mewajibkan orang lain membalasnya.
+- Pilihan orang lain, termasuk pilihan untuk tidak menyukaimu, adalah haknya.
+- Prioritas tiap orang berbeda. Seseorang bisa sedang memusatkan perhatian pada sekolah, keluarga, atau dirinya sendiri.
+- Hal yang sama berlaku sebaliknya: kamu juga tidak wajib membalas perasaan siapa pun.
+
+Pelajaran ini jarang datang sekaligus. Bagi sebagian orang, ia baru terasa setelah beberapa kali patah hati atau beberapa kali bingung menolak. Kalau kamu bisa menengok dirimu yang dulu tanpa mengejek, itu sudah termasuk bagian dari proses tumbuh.
+
+### Gagasan Utama
+
+- Collins (2003) menolak anggapan bahwa hubungan romantis remaja remeh dan cepat berlalu, lalu menyebut lima ciri untuk memahaminya.
+- Menurut ulasan Meier dan Allen (2009) atas data Amerika Serikat, sekitar seperempat anak usia 12 tahun dan hampir 75 persen remaja usia 18 tahun melaporkan keterlibatan romantis.
+- Casey dan rekan (2008) menggambarkan kepekaan terhadap imbalan dan emosi yang meningkat lebih dulu daripada kendali diri, dengan catatan bahwa korteks prefrontal yang belum matang saja tidak cukup menjelaskan perilaku remaja.
+- Steinberg (2005) menyebut sistem yang matang dengan jadwal berbeda, dan celah kerentanannya masih berupa dugaan.
+- Kedewasaan emosi bisa dipahami sebagai belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan.
+
+Kertas terlipat dan lorong sekolah akhirnya tertinggal di belakang, tetapi perhatian yang tidak diminta tidak berhenti di gerbang sekolah. Bab berikutnya keluar ke jalan dan ruang publik, tempat perhatian semacam itu kadang datang sebagai siulan atau komentar dari orang yang sama sekali tidak dikenal.
+
+
+<!-- Chapter: 11_siulan-yang-dianggap-biasa -->
+
+## Siulan yang Dianggap Biasa
+
+Dalam sebuah survei daring di Indonesia, 3 dari 5 perempuan yang mengisinya pernah mengalami pelecehan di ruang publik. Angka itu terasa besar, tetapi bentuk pelecehannya sering kali terdengar kecil: siulan, seruan, komentar tentang tubuh.
+
+Bayangkan kamu berjalan pulang dan melewati sekelompok orang asing di pinggir jalan. Salah satunya bersiul, yang lain berseru memuji penampilanmu, lalu mereka tertawa. Orang-orang di sekitar tidak bereaksi, seolah itu hal biasa. Kamu tetap berjalan, tetapi rasa tidak enaknya ikut terbawa sampai rumah.
+
+Bab ini membahas siulan dan seruan semacam itu, yang sering disebut *catcalling* (siulan atau seruan menggoda dari orang asing di ruang publik). Pesan utamanya sederhana: dikagumi tidak sama dengan diperlakukan sebagai objek, dan merasa tidak nyaman itu wajar.
+
+### Angka Pelecehan di Ruang Publik
+
+[Survei Koalisi Ruang Publik Aman](https://ruangaman.com/survei2019/) (KRPA) tahun 2019 dikumpulkan secara daring dari 25 November sampai 10 Desember 2018, dengan 62.224 responden dari 34 provinsi. Hasilnya, 64% dari 38.776 responden perempuan pernah mengalami pelecehan di ruang publik, atau sekitar 3 dari 5. Pada responden laki-laki, angkanya 11%.
+
+Bentuk yang paling banyak dilaporkan adalah pelecehan verbal, yaitu 60%. Survei itu merinci bentuknya: komentar atas tubuh, siulan, klakson, suara kecupan atau ciuman, komentar rasis atau seksis, komentar seksual, dan didekati terus. Pelecehan fisik tercatat 24% dan pelecehan visual 15%.
+
+Tempat kejadiannya dekat dengan keseharian:
+
+- jalanan umum 33%,
+- transportasi umum 19%,
+- sekolah dan kampus 15%.
+
+Ada dua temuan lain yang perlu kamu tahu. Satu dari dua korban mengalami pelecehan sebelum menginjak usia 16 tahun. Di antara pakaian yang dikenakan korban saat kejadian, ada seragam sekolah (14%). Bagian ini mengingatkan bahwa sebagian korban masih berusia sekolah.
+
+Satu catatan penting: survei ini terbuka, jadi siapa saja yang mau bisa mengisinya. Angkanya menggambarkan para responden, bukan seluruh penduduk Indonesia.
+
+### Hasil Survei Lanjutan KRPA
+
+KRPA kembali mengumpulkan data dari 25 November sampai 24 Desember 2021. Menurut [halaman survei 2022](https://ruangaman.com/survei2022/), ada 4.236 responden, dan 79% dari 3.539 responden perempuan pernah mengalami pelecehan. Bentuk luring (di luar internet) yang paling banyak dilaporkan adalah siulan atau suitan (67%), disusul komentar atas tubuh (31%).
+
+Angka ini juga menggambarkan para responden survei itu, bukan seluruh penduduk.
+
+### Dikagumi Berbeda dari Dijadikan Objek
+
+Pujian dari orang yang mengenalmu terasa berbeda. Seorang teman sekelas yang bilang presentasimu bagus sedang melihatmu sebagai orang utuh. Siulan dari sekelompok orang asing berbeda. Mereka tidak mengenalmu dan tidak sedang mengajakmu bicara. Menurut pandangan buku ini, yang mereka sorot hanya tubuh atau penampilanmu.
+
+Karena terjadi di tempat umum dan cukup sering, orang yang menonton bisa menganggapnya biasa. Namun "biasa" bagi penonton tidak sama dengan "tidak apa-apa" bagi yang mengalaminya. Siulan dan komentar atas tubuh tercatat sebagai bentuk pelecehan verbal dalam survei KRPA di atas.
+
+Peneliti menyebut pengalaman ini *stranger harassment* (pelecehan oleh orang asing). [Sebuah studi tahun 2008](https://doi.org/10.1007/s11211-008-0073-0) menyebutnya sebagai pengalaman yang sering dialami perempuan dewasa muda. Studi itu menemukan kaitan antara pelecehan oleh orang asing dan *self-objectification* (kecenderungan memandang tubuh sendiri seperti objek yang dinilai orang lain).
+
+Kaitan itu muncul pada perempuan yang menghadapinya secara pasif, dengan menyalahkan diri sendiri, atau dengan menganggapnya tidak berbahaya. Kaitan itu tidak muncul pada perempuan yang memakai cara aktif (*active coping*), misalnya menegur pelaku. Menurut studi itu, cara aktif ini jarang dipakai.
+
+Seberapa sering hal ini terjadi? Menurut disertasi salah satu penulisnya, 31% dari 228 mahasiswi di Amerika Serikat melaporkan siulan, seruan, atau tatapan dari orang asing setiap beberapa hari atau lebih sering. Angka itu berasal dari Amerika Serikat, bukan dari Indonesia.
+
+### Pelecehan dan Rasa Takut di Jalan
+
+Studi yang sama juga menemukan bahwa pelecehan oleh orang asing berkaitan dengan rasa takut menjadi korban perkosaan. Perempuan yang memiliki rasa takut itu lebih mungkin membatasi kebebasan geraknya.
+
+Studi itu menunjukkan kaitan, bukan sebab, dan membahas pelecehan oleh orang asing secara umum, bukan siulan saja. Kalau kamu pernah mengubah rute atau menghindari suatu tempat karena takut, itu bukan tanda kamu lemah atau berlebihan. Perasaan itu masuk akal.
+
+### Pelecehan Nonfisik dalam Undang-Undang TPKS
+
+Indonesia punya [Undang-Undang Nomor 12 Tahun 2022 tentang Tindak Pidana Kekerasan Seksual](https://peraturan.bpk.go.id/Details/207944/uu-no-12-tahun-2022) (UU TPKS), yang berlaku sejak 9 Mei 2022. Menurut teks Pasal 5, perbuatan seksual nonfisik dapat dipidana sebagai pelecehan seksual nonfisik jika memenuhi unsur berikut:
+
+- ditujukan pada tubuh, keinginan seksual, dan/atau organ reproduksi seseorang;
+- dilakukan dengan maksud merendahkan harkat dan martabat orang itu berdasarkan seksualitas dan/atau kesusilaannya.
+
+Ancamannya pidana penjara paling lama 9 bulan dan/atau denda paling banyak Rp10.000.000.
+
+Menurut Pasal 7, pelecehan seksual nonfisik termasuk delik aduan. Dalam bahasa sederhana, perkaranya membutuhkan pengaduan. Pengecualiannya berlaku jika korbannya anak atau penyandang disabilitas.
+
+Perlu kamu tahu juga, undang-undang ini tidak pernah memakai kata *catcalling*. Siulan atau komentar baru masuk ke pasal ini jika memenuhi unsur-unsur di atas. Bab ini juga bukan nasihat hukum, jadi untuk urusan hukum mintalah bantuan orang dewasa yang kamu percaya.
+
+### Langkah Kecil Ketika Kamu Disiuli
+
+Tidak ada satu reaksi yang paling benar. Apa pun yang kamu lakukan saat itu, kesalahannya ada pada pelaku, bukan padamu. Beberapa hal yang bisa kamu pertimbangkan:
+
+- **Akui perasaanmu.** Merasa risih, marah, atau takut itu wajar, walaupun orang lain menganggapnya biasa.
+- **Utamakan keselamatanmu.** Kamu tidak wajib menegur. Menjauh sama sahnya dengan bersuara.
+- **Pahami temuan tentang cara aktif.** Jika situasinya aman dan kamu mau, menegur adalah contoh cara aktif dalam studi tadi. Ingat, studi itu hanya menunjukkan kaitan, bukan jaminan hasil, dan menegur tidak selalu aman.
+- **Ceritakan kepada orang yang kamu percaya.** Teman, orang tua, atau orang dewasa lain bisa menemanimu supaya kamu tidak menanggungnya sendirian.
+- **Kenali jalur pengaduan.** Untuk pelecehan nonfisik, UU TPKS mensyaratkan pengaduan, kecuali korbannya anak atau penyandang disabilitas.
+
+Kalau kamu melihat teman mengalaminya, jangan ikut bilang itu hanya bercanda. Tanyakan apakah ia baik-baik saja.
+
+### Key Takeaways
+
+- Dalam survei terbuka KRPA 2019, 64% responden perempuan pernah dilecehkan di ruang publik, dan pelecehan verbal (60%) paling banyak dilaporkan.
+- Survei lanjutan KRPA mencatat siulan atau suitan sebagai bentuk luring terbanyak (67%).
+- Dikagumi tidak sama dengan dijadikan objek, dan merasa tidak nyaman itu wajar.
+- Dalam satu studi, pelecehan oleh orang asing berkaitan dengan *self-objectification* pada perempuan yang menanggapinya secara pasif, menyalahkan diri sendiri, atau menganggapnya tidak berbahaya, dan berkaitan dengan rasa takut, dan rasa takut itu berkaitan dengan ruang gerak yang lebih sempit.
+- UU TPKS mengatur pelecehan seksual nonfisik sebagai delik aduan, tetapi tidak memakai kata *catcalling*.
+
+Bab ini membahas perlakuan yang perlu kamu kenali dan hindari. Bab berikutnya berbalik arah, dari apa yang perlu dihindari ke apa yang layak dicari: orang-orang yang sejalan dengan nilai-nilaimu dan ikut senang saat kamu bertumbuh.
+
+
+<!-- Chapter: 12_mencari-orang-yang-sejalan -->
+
+## Mencari Orang yang Sejalan
+
+Coba ingat kabar baik terakhir yang kamu bagikan, lalu tanyakan pada dirimu: siapa yang benar-benar ikut senang saat mendengarnya? Ada yang langsung bertanya panjang, ada yang hanya mengangguk, ada pula yang malah menyebut kelemahan rencanamu. Jawaban atas pertanyaan sederhana itu bisa bercerita banyak.
+
+Sepanjang buku ini kita membahas cara menghadapi perasaan yang tidak kamu balas. Bab terakhir ini berbalik arah: kalau bukan dia, orang seperti apa yang layak kamu dekati? Kata "sejalan" bisa diartikan sebagai punya banyak kesamaan. Bab ini menawarkan bacaan buku ini yang sedikit berbeda.
+
+### Empat Cara Menanggapi Kabar Baik
+
+Psikolog menyebut kebiasaan menceritakan hal baik kepada orang lain sebagai *capitalization* (memetik manfaat dari kabar baik dengan membagikannya). Dalam penelitian [Gable dan rekan (2004)](https://doi.org/10.1037/0022-3514.87.2.228), membagikan peristiwa positif berkaitan dengan suasana hati positif harian dan kesejahteraan yang lebih tinggi. Manfaat itu makin besar ketika pendengarnya dirasa menanggapi secara aktif dan membangun, bukan secara pasif atau merusak. Pasangan yang antusias juga dikaitkan dengan hubungan yang lebih sejahtera.
+
+Dalam tinjauan berikutnya, [Gable dan Reis (2010)](https://doi.org/10.1016/S0065-2601(10)42004-3) memetakan empat jenis tanggapan. Bayangkan kamu baru saja bercerita, "Aku lolos seleksi beasiswa!" Berikut contoh rekaan untuk tiap jenis:
+
+- **Aktif-konstruktif** (*active-constructive*), yaitu dukungan yang antusias dan terlibat. "Serius? Selamat! Gimana rasanya waktu baca pengumumannya? Ceritain dong prosesnya."
+- **Pasif-konstruktif** (*passive-constructive*), yaitu dukungan yang tenang atau diam. "Oh, bagus."
+- **Aktif-destruktif** (*active-destructive*), yaitu tanggapan yang mengecilkan peristiwa itu. "Yakin kuat? Yang begitu biasanya tuntutannya berat, lho."
+- **Pasif-destruktif** (*passive-destructive*), yaitu tanggapan yang mengabaikan peristiwa itu. "Eh, tadi aku lihat ada kafe baru dekat rumahku."
+
+Menurut Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterlibatan dan mengajukan pertanyaan, sedangkan penanggap pasif-destruktif mengganti topik atau membelokkan cerita ke dirinya sendiri. Menurut buku ini, tanggapan pasif-konstruktif sebenarnya tidak jahat. Ia hanya belum ikut hadir.
+
+### Rasa Dipahami, Diakui, dan Dipedulikan
+
+[Reis (2012)](https://doi.org/10.1037/13486-002) mengajukan *perceived partner responsiveness* (kesan bahwa orang terdekat tanggap terhadap kita) sebagai salah satu prinsip yang mungkin menyatukan kajian tentang hubungan dan kesejahteraan. Dalam rumusan ulang yang dikutip [Jolink dan rekan (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/), tanggap berarti kamu merasa dipahami, diakui, dan dipedulikan oleh pasanganmu. Rasa itu diukur dengan pernyataan seperti "Pasanganku memahamiku" dan "Pasanganku melihat diriku yang sebenarnya."
+
+Menurut bacaan buku ini, cara seseorang menanggapi kabar baikmu bisa menjadi salah satu petunjuk rasa tanggap itu.
+
+### Pasangan yang Ikut Memahat Diri Idealmu
+
+[Drigotas dan rekan (1999)](https://doi.org/10.1037/0022-3514.77.2.293) memberi nama yang indah pada gagasan berikut: *Michelangelo phenomenon* (fenomena Michelangelo). Menurut mereka, diri seseorang dibentuk oleh cara pasangan dekatnya memandang dan memperlakukannya. Gerak menuju diri ideal disebut sebagai hasil dari peneguhan (*affirmation*) oleh pasangan. Dalam empat studi, mereka menemukan kaitan yang kuat antara peneguhan yang dirasakan dari pasangan dan gerak diri menuju diri ideal. Peneguhan itu juga berkaitan dengan kesejahteraan dan kestabilan pasangan.
+
+Dalam penjelasan buku ini, orang yang meneguhkan melihat versi dirimu yang sedang kamu tuju, lalu memperlakukanmu seolah kamu bisa sampai ke sana.
+
+### Kepiting di Ember dan Poppy yang Dipangkas
+
+Ada juga pola sebaliknya. Istilah *crab mentality* (mental kepiting dalam ember) sebagian besar adalah metafora rakyat, bukan konsep ilmiah yang mapan. [Çavuş dan Sarpkaya (2021)](https://files.eric.ed.gov/fulltext/EJ1311648.pdf), yang menyusun skala untuk mengukurnya di sekolah, menggambarkannya sebagai pola perilaku dengan pola pikir "kalau aku tidak bisa mendapatkannya, kamu juga tidak". Orang dengan mental ini berusaha mengecilkan arti orang yang sedang berjuang untuk berhasil, misalnya dengan mematahkan semangat, merasa iri, dan merongrong apa yang sedang dikerjakan orang lain.
+
+Istilah lain yang mirip adalah *tall poppy syndrome* (sindrom bunga poppy yang tinggi). Menurut sebuah entri ensiklopedia Springer yang merujuk Feather (1989), artinya keinginan untuk menjatuhkan orang yang terangkat di atas rekan-rekannya.
+
+Kedua istilah ini tidak membuktikan apa pun tentang orang tertentu. Namun, keduanya memberi nama pada sesuatu yang mungkin pernah kamu rasakan: ada orang yang selalu menemukan alasan mengapa mimpimu terlalu tinggi. Kalau terjadi sekali, mungkin ia sedang lelah. Kalau terus berulang, itu pola yang layak kamu perhatikan.
+
+### Kemiripan yang Nyata dan yang Dirasakan
+
+Lalu bagaimana dengan kesamaan? Meta-analisis [Montoya dan rekan (2008)](https://doi.org/10.1177/0265407508096700) atas 313 studi menemukan bahwa ketertarikan berkaitan dengan kemiripan nyata (*actual similarity*, r = 0,47) dan kemiripan yang dirasakan (*perceived similarity*, r = 0,39). Namun, dalam hubungan yang sudah berjalan, efek kemiripan nyata tidak signifikan, sementara kemiripan yang dirasakan tetap memprediksi ketertarikan. Catat juga bahwa yang diteliti adalah kemiripan sikap dan kepribadian; ringkasannya tidak menyebut "nilai hidup" secara khusus.
+
+[Joel, Eastwick, dan rekan (2020)](https://doi.org/10.1073/pnas.1917036117) memakai pembelajaran mesin (*machine learning*) pada 43 kumpulan data pasangan. Prediktor terkuat kualitas hubungan ternyata hal-hal yang khas hubungan itu sendiri, antara lain komitmen pasangan yang dirasakan, rasa dihargai (*appreciation*), kepuasan pasangan yang dirasakan, dan konflik. Ringkasan penelitian ini tidak menyebut variabel nilai bersama. Ingat pula bahwa yang diteliti adalah pasangan yang sudah terbentuk, bukan orang yang sedang memilih pasangan.
+
+Temuan ini tidak berarti kesamaan tidak penting. Bacaan buku ini lebih sederhana: daftar kesamaan mungkin bukan cara satu-satunya, dan belum tentu cara terbaik, untuk menilai apakah seseorang sejalan denganmu.
+
+### Tanda Sejalan yang Bisa Kamu Amati
+
+Daripada mencentang daftar hobi, cobalah perhatikan hal-hal ini dari waktu ke waktu:
+
+- Saat kamu membawa kabar baik, apakah ia ikut bertanya atau malah mengganti topik?
+- Saat kamu bercerita tentang tujuanmu, apakah ia menanggapinya dengan serius atau menertawakannya?
+- Setelah bicara dengannya, apakah kamu merasa dipahami, diakui, dan dipedulikan?
+- Di dekatnya, apakah kamu bergerak ke arah diri yang kamu inginkan?
+
+Tidak ada yang sempurna di semua poin. Seperti dibahas di bab 10, kedewasaan emosi tumbuh bertahap, jadi beri ruang bagi orang untuk belajar. Yang perlu kamu waspadai adalah pola yang menetap, bukan satu hari yang buruk.
+
+### Penutup
+
+Sejalan bukan soal sama dalam segala hal. Bacaan buku ini, bukan temuan penelitian, adalah bahwa cara seseorang menanggapi kabar baikmu, rasa dipahami yang ia berikan, dan dukungannya pada diri yang sedang kamu tuju mungkin lebih banyak bercerita daripada daftar kesamaan. Penelitian tentang kabar baik, rasa tanggap, dan fenomena Michelangelo membahas hubungan dekat, bukan orang yang baru kamu kenal. Masih dalam bacaan buku ini, orang yang terus mengecilkan mimpimu menunjukkan pola yang layak kamu catat.
+
+Kalau suatu hari ada orang yang menyukaimu tetapi tidak sejalan denganmu, kamu sudah tahu dari bab 7 cara menolaknya dengan jelas dan tetap hangat. Kamu boleh berterima kasih karena disukai, dan rasa terima kasih itu tidak mewajibkanmu membalas perasaannya. Kamu layak dihargai oleh orang yang berbagi nilai denganmu. Semoga buku ini menemanimu menemukan mereka. Sumber yang dikutip di sepanjang buku ini bisa kamu telusuri di halaman Referensi.
+
+
+<!-- Chapter: 13_referensi -->
+
+## Referensi
+
+Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap tautan diakses pada 19 Oktober 2026. Sebagian besar artikel jurnal dibaca dari abstrak atau catatan penerbitnya, sehingga buku ini hanya memakai temuan yang tertulis di sana.
+
+### Sumber tentang Cinta Tak Berbalas
+
+- [Unrequited love: On heartbreak, anger, guilt, scriptlessness, and humiliation](https://doi.org/10.1037/0022-3514.64.3.377). Baumeister, Wotman, dan Stillwell, 1993, Journal of Personality and Social Psychology 64(3), 377-394, rasa bersalah pihak yang menolak dan harapan pihak yang ditolak.
+- [People overestimate their willingness to reject potential romantic partners by overlooking their concern for other people](https://doi.org/10.1177/0956797614552828). Joel, Teper, dan MacDonald, 2014, Psychological Science 25(12), 2233-2240, penolakan nyata lebih sulit daripada penolakan bayangan.
+- [Siaran pers ScienceDaily tentang studi Joel dkk.](https://www.sciencedaily.com/releases/2014/11/141121141234.htm). ScienceDaily, 25 November 2014, kutipan soal enggan membuat orang lain sedih.
+- [The prevalence and nature of unrequited love](https://doi.org/10.1177/2158244013492160). Bringle, Winnick, dan Rydell, 2013, SAGE Open 3(2), seberapa sering cinta tak berbalas dan lima bentuknya.
+- [Communicating the reasons for social rejection](https://doi.org/10.1016/0022-1031(82)90052-X). Folkes, 1982, Journal of Experimental Social Psychology 18(3), 235-252, alasan penolakan yang sering disimpan.
+- [Softening the blow of social exclusion](https://doi.org/10.3389/fpsyg.2016.01570). Freedman, Williams, dan Beer, 2016, Frontiers in Psychology 7, artikel 1570, tiga pilihan pihak yang menolak.
+- [Rejecting Someone Can Be Done Nicely](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281). Verywell Mind, Sanjana Gupta, ditinjau Divya Robin, 2026, prinsip menolak dengan baik.
+- [Cara Menolak Cinta dengan Halus Menurut Psikolog](https://www.klikdokter.com/psikologi/relationship/cara-menolak-cinta-dengan-halus-menurut-psikolog). Klikdokter, Tri Yuniwati Lestari bersama Ikhsan Bella Persada, 2022, kiat menolak tanpa harapan palsu.
+
+### Riset Sinyal, Rayuan, dan Pujian
+
+- [The logic of indirect speech](https://doi.org/10.1073/pnas.0707192105). Pinker, Nowak, dan Lee, 2008, PNAS 105(3), 833-838, ucapan tidak langsung dan penyangkalan.
+- [Rationales for indirect speech: The theory of the strategic speaker](https://doi.org/10.1037/a0019688). Lee dan Pinker, 2010, Psychological Review 117(3), 785-807, penyangkalan tingkat kedua.
+- [Individual differences in the communication of romantic interest: Development of the Flirting Styles Inventory](https://doi.org/10.1080/01463373.2010.524874). Hall, Carter, Cody, dan Albright, 2010, Communication Quarterly 58(4), 365-393, lima gaya tebar pesona.
+- [The verbal and nonverbal correlates of the five flirting styles](https://doi.org/10.1007/s10919-014-0199-8). Hall dan Xing, 2015, Journal of Nonverbal Behavior 39(1), 41-68, perilaku tiga gaya dalam obrolan pertama.
+- [New book outlines five types of flirting styles](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles). University of Kansas, 11 September 2013, ciri tiap gaya tebar pesona.
+- [Flirting with meaning](https://doi.org/10.1023/B:SERS.0000023068.49352.4b). Henningsen, 2004, Sex Roles 50, 481-489, enam motivasi tebar pesona.
+- [Sex differences in attributions for friendly behavior](https://doi.org/10.1037/0022-3514.42.5.830). Abbey, 1982, Journal of Personality and Social Psychology 42(5), 830-838, keramahan yang disangka rayuan.
+- [Insufficiently complimentary?: Underestimating the positive impact of compliments creates a barrier to expressing them](https://doi.org/10.1037/pspa0000277). Zhao dan Epley, 2021, Journal of Personality and Social Psychology 121(2), 239-256, pemberi pujian salah menebak rasa canggung penerima.
+- [Why a simple act of kindness is not as simple as it seems](https://doi.org/10.1177/0146167220949003). Boothby dan Bohns, 2021, Personality and Social Psychology Bulletin 47(5), 826-840, kecemasan yang membuat pujian ditahan.
+
+### Kajian Ghosting dan Rasa Ditolak
+
+- [Ghosting in emerging adults'' romantic relationships](https://doi.org/10.1177/0276236618820519). LeFebvre dkk., 2019, Imagination, Cognition and Personality 39(2), 125-150, sebagian besar peserta pernah berada di kedua peran ghosting.
+- [Ghosting and destiny](https://doi.org/10.1177/0265407517748791). Freedman, Powell, Le, dan Williams, 2019, Journal of Social and Personal Relationships 36(3), 905-924, seberapa sering orang ghosting dan di-ghosting.
+- [When your boo becomes a ghost](https://doi.org/10.1525/collabra.230). Koessler, Kohut, dan Campbell, 2019, Collabra: Psychology 5(1), artikel 29, tekanan pihak yang ditinggal dan yang meninggalkan.
+- [Ghosting and orbiting: An analysis of victims'' experiences](https://doi.org/10.1177/02654075211000417). Pancani, Mazzoni, Aureli, dan Riva, 2021, Journal of Social and Personal Relationships 38(7), 1987-2007, tahap perasaan orang yang di-ghosting.
+- [Relationship dissolution strategies](https://doi.org/10.5817/CP2022-2-9). Pancani, Aureli, dan Riva, 2022, Cyberpsychology 16(2), artikel 9, perbandingan ghosting dengan penolakan langsung.
+- [Does rejection hurt? An fMRI study of social exclusion](https://doi.org/10.1126/science.1089134). Eisenberger, Lieberman, dan Williams, 2003, Science 302(5643), 290-292, rasa sakit dikucilkan di otak.
+- [Ostracism: Consequences and coping](https://doi.org/10.1177/0963721411402480). Williams dan Nida, 2011, Current Directions in Psychological Science 20, 71-75, empat kebutuhan yang terancam saat diabaikan.
+- [Ostracism: A temporal need-threat model](https://doi.org/10.1016/S0065-2601(08)00406-1). Williams, 2009, Advances in Experimental Social Psychology 41, dampak pengucilan jangka panjang.
+- [The role of gender and safety concerns in romantic rejection decisions](https://doi.org/10.1016/j.jesp.2022.104368). Freedman, Hales, Powell, Le, dan Williams, 2022, Journal of Experimental Social Psychology 102, artikel 104368, dugaan alasan keamanan di balik ghosting.
+- [Ghosting out of romantic relationships](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships). Powell dan Freedman, 2024, NCFR Report edisi musim panas, ulasan alasan dan dampak ghosting.
+- [Double blue ticks](https://doi.org/10.5817/CP2022-5-10). Campaioli, Testoni, dan Zamperini, 2022, Cyberpsychology 16(5), artikel 10, ghosting sebagai keadaan limbo.
+
+### Rujukan Kenalan Daring dan Keamanan Berkencan
+
+- [The scammers persuasive techniques model](https://doi.org/10.1093/bjc/azt009). Whitty, 2013, British Journal of Criminology 53(4), 665-684, tahap awal penipuan asmara daring.
+- [CATAHU 2025 Komnas Perempuan](https://komnasperempuan.go.id/catatan-tahunan-detail/catahu-2025-menguatkan-data-mengatasi-kerentanan-mendesak-negara-bersikap-untuk-keadilan-korban). Komnas Perempuan, 2026, kasus kekerasan berbasis gender terhadap perempuan 2025.
+- [Lembar Fakta CATAHU 2025](https://komnasperempuan.go.id/file-manager/frontend/Lembar%20Fakta%20CATAHU%20Komnas%20Perempuan%202025?ref=IkltVjVTakZqTWxa66993c4d1ef55c649529ce5934120c9994fNVNXcHZhVm96Vm14ak0xRnBURU5LYldGWGVHeGliVVowV2xOSk5rbHFWVFJQVjBwcFdtcGthVXhYUm1sTmFrVjBUa2RWTVU1RE1EVk5SRWw2VEZSRmVsbDZTbWhhUjBacFRUSkpORTE1TlZGU1JWbHBURU5LYTFsWVVteFlNMHBzWTFoV2JHTXpVV2xQYVVsNVRVUkpNa3hVUVhwTVZFMTNTVVJGTUU5cVZUVlBha1V5U1dsM2FWcFlhSGRoV0Vwb1pFZHNkbUpwU1RaSmFrbDNUV3BaZEUxRVRYUk5la0ZuVFZSVk5rNVVhelpOVkZscFpsRTlQU0k9Ig%3D%3D). Komnas Perempuan, 6 Maret 2026, jumlah pengaduan kekerasan berbasis gender online.
+- [Love Bytes: How AI is shaping Modern Love](https://www.mcafee.com/blogs/internet-security/love-bytes-how-ai-is-shaping-modern-love/). McAfee, 13 Februari 2024, survei AI dalam asmara dan kiat menghindari penipuan.
+- [Singles using AI to date up 300 percent from last year, says Match](https://mashable.com/article/singles-using-ai-to-date-up-300-percent-match). Mashable, 10 Juni 2025, survei Match dan Kinsey Institute soal AI dalam kencan.
+- [Obsessive relational intrusion](https://doi.org/10.1891/0886-6708.15.4.357). Cupach dan Spitzberg, 2000, Violence and Victims 15(4), 357-372, pengejaran berulang yang tidak diinginkan.
+- [Tips for Safer Dating: Online and IRL](https://rainn.org/strategies-to-reduce-risk-increase-safety/tips-for-safer-dating-online-and-in-person/). RAINN, 2026, kebiasaan aman sebelum bertemu kenalan daring.
+
+### Data Pelecehan di Ruang Publik dan Masa Remaja
+
+- [Survei Pelecehan di Ruang Publik 2019](https://ruangaman.com/survei2019/). Koalisi Ruang Publik Aman, 2019, bentuk dan tempat pelecehan yang dialami responden.
+- [Survei Pelecehan di Ruang Publik 2022](https://ruangaman.com/survei2022/). Koalisi Ruang Publik Aman, 2022, siulan dan komentar atas tubuh sebagai bentuk tersering.
+- [Undang-Undang Nomor 12 Tahun 2022](https://peraturan.bpk.go.id/Details/207944/uu-no-12-tahun-2022). Basis data peraturan BPK, UU TPKS, pelecehan seksual nonfisik.
+- [Everyday stranger harassment and women''s objectification](https://doi.org/10.1007/s11211-008-0073-0). Fairchild dan Rudman, 2008, Social Justice Research 21(3), 338-357, dampak pelecehan oleh orang asing; angka 31% di bab 11 dari disertasi salah satu penulisnya.
+- [More than myth](https://doi.org/10.1111/1532-7795.1301001). Collins, 2003, Journal of Research on Adolescence 13(1), 1-24, arti penting hubungan romantis remaja.
+- [Romantic relationships from adolescence to young adulthood](https://pmc.ncbi.nlm.nih.gov/articles/PMC4201847/). Meier dan Allen, 2009, ulasan di PMC, keterlibatan romantis menurut usia.
+- [The adolescent brain](https://doi.org/10.1196/annals.1440.010). Casey, Jones, dan Hare, 2008, Annals of the New York Academy of Sciences 1124, 111-126, perkembangan kendali diri remaja.
+- [Cognitive and affective development in adolescence](https://doi.org/10.1016/j.tics.2004.12.005). Steinberg, 2005, Trends in Cognitive Sciences 9(2), 69-74, sistem otak yang matang dengan laju berbeda.
+
+### Studi Dukungan, Nilai, dan Kemiripan
+
+- [What do you do when things go right?](https://doi.org/10.1037/0022-3514.87.2.228). Gable, Reis, Impett, dan Asher, 2004, Journal of Personality and Social Psychology 87(2), 228-245, manfaat berbagi kabar baik.
+- [Good news! Capitalizing on positive events in an interpersonal context](https://doi.org/10.1016/S0065-2601(10)42004-3). Gable dan Reis, 2010, Advances in Experimental Social Psychology 42, empat cara menanggapi kabar baik.
+- [Perceived partner responsiveness](https://doi.org/10.1037/13486-002). Reis, 2012, bab dalam Interdisciplinary research on close relationships (APA), 27-52, merasa dipahami dan dipedulikan.
+- [Jolink dkk. tentang responsivitas pasangan (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/). Jolink dkk., 2021, rumusan ulang definisi responsivitas pasangan.
+- [Close partner as sculptor of the ideal self](https://doi.org/10.1037/0022-3514.77.2.293). Drigotas, Rusbult, Wieselquist, dan Whitton, 1999, Journal of Personality and Social Psychology 77(2), 293-323, fenomena Michelangelo.
+- [Measuring "crabs in a bucket" phenomenon at schools](https://files.eric.ed.gov/fulltext/EJ1311648.pdf). Çavuş dan Sarpkaya, 2021, Psycho-Educational Research Reviews 10(2), 314-327, mentalitas kepiting.
+- [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
+- [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
+- [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36405,8 +37386,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37736,8 +38717,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38694,8 +39675,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39894,8 +40875,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41182,8 +42163,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42585,8 +43566,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43232,8 +44213,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44476,8 +45457,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45567,8 +46548,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46229,8 +47210,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47533,8 +48514,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48428,8 +49409,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49248,8 +50229,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50335,8 +51316,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51783,8 +52764,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53463,8 +54444,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54964,8 +55945,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56049,8 +57030,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57400,8 +58381,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58724,8 +59705,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59987,8 +60968,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61279,8 +62260,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63337,8 +64318,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64098,8 +65079,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64903,8 +65884,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66298,8 +67279,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -67048,8 +68029,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -68292,8 +69273,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-16T01:58:59.609Z',
-  '2026-10-16T01:58:59.609Z'
+  '2026-10-19T16:46:25.538Z',
+  '2026-10-19T16:46:25.538Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,

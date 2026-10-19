@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-19-dawnbook-menolak-perasaan
-status: Verification
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -225,7 +225,7 @@ tasks:
 
 # Plan: Dawnbook book on handling romantic interest you do not return
 
-Status: Verification
+Status: Complete
 Session: dawnbook-menolak-perasaan
 Branch: 2026-10-19-dawnbook-menolak-perasaan/dawnbook-menolak-perasaan
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-menolak-perasaan
@@ -470,7 +470,7 @@ Follow-up N4: move contentFiles and source-table helpers into tests/helpers/book
 
 ## Follow-up Backlog
 
-- L1 Deploy, D1 seed and GSC reindex after the merge of PR #166. `defer: owner-gated external action, after the merge`
+- L1 Deploy, D1 seed and GSC reindex after the merge of PR #166. Done 2026-10-19 (see the merge-evidence artifact).
 - L2 Identity scan in CI. `defer: needs a CI secret store, if the repository gains one`
 - L3 Plans 2026-10-16-dawnbook-diagrams-retrofit-rf3, rf4, rf6 still at Verification while their sessions merged (`plan-closeout.mjs --audit`). `defer: separate closeout session, next dawnbook session`
 
@@ -480,3 +480,5 @@ Decision (AskUserQuestion 2026-10-19, Close plan): Keep it open.
 - Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-19-dawnbook-menolak-perasaan.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, all 25 tasks UNPROVEN because every `skip_if` is the `false` sentinel (their evidence is in the checklist above, not machine-checkable).
 - What remains: the merge of PR #166, then the owner-gated deploy, D1 seed and GSC reindex (backlog L1).
 - Reopen trigger: after PR #166 merges and the live book URL returns 200 with its index meta equal to the book.toml description, mark this plan Complete in the next dawnbook session's PR.
+
+Update 2026-10-19 (after the merge): the reopen trigger is met. PR #166 merged (f1986ba); the deploy finished (deployment e44910fd); the live book index returns 200 and its meta equals the book.toml description (154 chars); D1 holds the book; the sitemap was resubmitted to GSC (HTTP 204). Per the owner's recorded decision, the plan is marked Complete in this follow-up PR. Readiness re-run: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-19-dawnbook-menolak-perasaan.md` exit 3, NEEDS-HUMAN (0 open NOW follow-ups, 0 open step boxes, 0 other open boxes; every task UNPROVEN only because of the `false` sentinel). Evidence: docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-merge-evidence.md. Backlog L1 closed by this deploy; L2 and L3 stay deferred.
