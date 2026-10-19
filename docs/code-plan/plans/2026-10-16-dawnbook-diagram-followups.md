@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-16-dawnbook-diagram-followups
-status: Approved
+status: Closed
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -87,9 +87,9 @@ tasks:
 - [x] S2 Plan: tasks written, runner prints `Validation: OK`, plan approved through the question tool. Evidence: runner `Validation: OK`; `Plan` gate approved 2026-10-16
 - [x] S3 Execute: each chapter fix applied line by line, parent diff audit per chunk. Evidence: C1 `65b5071`, C2 `8ac278c`, C3 `58c36bf`, C4 `794cb4d`; parent word-diff audit of all 12 files; five one-phrase leftovers reported by the chunks fixed inline by the parent (pedagogy 05:11 "sebagian besar", ikigai 02:30 and 02:63, EWS 03:99 and 07:9)
 - [x] S4 Verify: heading, diagram and book gates, `bun run build`, `bun test` exit 0 with 0 failures. Evidence: `bun run check:headings` exit 0 (0 violations, 58 books); `check-book-structure.ts` identical to the baseline for all four books; `bun run build` exit 0 (diagram gate 0, SEO passed); `bun test` 658 pass, 13 skip, 0 fail after `bun install --frozen-lockfile` (the first run failed 87 tests only because the fresh worktree had no node_modules)
-- [ ] S5 Deliver: PR opened from a body file and registered; merge only through the `Merge` gate
-- [ ] S6 After deploy: `bun run scripts/migrate-to-d1.ts` with credentials sourced, live and D1 checks, regenerated `db/seed.sql` and merge evidence committed in the seed PR
-- [ ] S7 Sweep: debt sweep, learning ledger, plan closeout, graphify sync
+- [x] S5 Deliver: PR #150 (chapter fixes, merge commit `0300e07`, merged 2026-10-15 22:49Z) and PR #151 (seed and chapter openers, merged 23:05Z) are on `main`. Verified 2026-10-19: C1–C4 commits `65b5071`, `8ac278c`, `58c36bf`, `794cb4d` are ancestors of `origin/main`
+- [x] S6 After deploy: resolved without a production write, verified 2026-10-19. `dawnbook-db` (58 rows, all `published`, `updated_at` 2026-10-16T01:58:59Z, none empty) has `content_md` identical to `origin/main` for 58 of 58 books after the script's `.trim()`; titles and `subject_label` match `book.toml`; `books/` on `origin/main` has no commits after 2026-10-16T02:00Z. `migrate-to-d1.ts` was not run: it would only rewrite identical content and first sets `content_md = ''`, which is non-atomic. Regenerating `db/seed.sql` from `origin/main` equals the committed file except timestamps, so no seed PR is needed. The branch's WIP commit `65736a2` stays unmerged (stale, do not merge)
+- [x] S7 Sweep (closed 2026-10-19): plan closeout written here; graphify sync run on the main checkout; no learning ledger exists for this plan. Debt carried forward: (1) the Chrome cache deletion from the parent session, still with the owner because `rm-tmp-guard` blocks it; (2) WIP commit `65736a2` remains on `origin/2026-10-16-dawnbook-diagram-followups/dawnbook-diagram-followups`, do not merge
 
 ## Research manifest (read-only, budget 25 tool calls each)
 
@@ -105,7 +105,7 @@ tasks:
 - Status: Approved (`Plan` gate answered "Setujui dan eksekusi" on 2026-10-16)
 - Approved scope: the four open items listed at the end of the parent session (contradictions FU1-FU4, D1 seed, merge evidence commit, Chrome cache); owner instruction 2026-10-16: "lakukan yang terbaik sisanya". The Chrome cache deletion is blocked by the owner's `rm-tmp-guard` hook and was handed back to the owner.
 - Completed: claim (exit 0), worktree from `origin/main` at `9229357`, state `active`, parent merge evidence copied in
-- Current: S1 Research
+- Current: closed 2026-10-19. S1–S7 done; S6 verified as a no-op (see S6); debt carried forward in S7
 
 ## Visual Map
 
