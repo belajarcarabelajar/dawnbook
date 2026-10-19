@@ -17,7 +17,10 @@ const EMOJI = /[\p{Extended_Pictographic}\u{1F1E6}-\u{1F1FF}]/u;
 const FENCE = /^\s{0,3}(`{3,}|~{3,})/;
 const LIST_ITEM = /^(?:[-*+]|\d+[.)])\s/;
 // One level of balanced parentheses keeps DOIs such as 10.1016/S0140-6736(20)30183-5 whole.
-const URL = /https?:\/\/(?:[^\s()|>\]]|\([^\s()|>\]]*\))+/g;
+const URL = /https?:\/\/(?:[^\s()|>\]]|\([^\s()|>\]]*\))+/gi;
+// Inline link target (one level of balanced parentheses, optional quoted title) or an href value.
+const LINK_TARGET = /\]\(\s*((?:[^\s()]|\([^\s()]*\))+)(?:\s+(?:"[^"]*"|'[^']*'))?\s*\)|\bhref\s*=\s*(?:"([^"]*)"|'([^']*)')/gi;
+const ABSOLUTE_HTTP = /^https?:\/\//i;
 
 export function extractUrls(md: string): string[] {
   const seen = new Set<string>();
@@ -31,6 +34,29 @@ function plainText(md: string): string {
     .replace(/[*_`]/g, "")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+export function extractLinkTargets(md: string): string[] {
+  const lines = md.split(/\r?\n/);
+  const fenced = fencedLines(lines);
+  const text = lines.filter((_, i) => !fenced[i]).join("\n");
+  const seen = new Set<string>();
+  for (const m of text.matchAll(LINK_TARGET)) seen.add(m[1] ?? m[2] ?? m[3]);
+  return [...seen];
+}
+
+// A target is fine when it is an absolute http(s) URL, an in-page anchor, a site-root link to another
+// book that exists, or a relative link to a chapter of the book (mdBook rewrites .md links to .html,
+// so either extension names a source file).
+function linkTargetOk(target: string, chapterDir: string, srcDir: string, booksDir: string): boolean {
+  if (ABSOLUTE_HTTP.test(target) || target.startsWith("#")) return true;
+  const slug = /^\/books\/([a-z0-9-]+)\//.exec(target)?.[1];
+  if (slug) return fs.existsSync(path.join(booksDir, slug, "book.toml"));
+  if (target.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(target)) return false;
+  const filePart = target.split("#")[0];
+  if (!/\.(md|html)$/i.test(filePart)) return false;
+  const resolved = path.resolve(chapterDir, filePart.replace(/\.html$/i, ".md"));
+  return resolved.startsWith(path.resolve(srcDir) + path.sep) && fs.existsSync(resolved);
 }
 
 // Same two-step cut as injectSeoAndGating: 155 characters, then 145 if the escaped meta exceeds 160.
@@ -154,6 +180,13 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
     lines.forEach((line, i) => {
       scanLine(`${file}:${i + 1}`, line, problems);
       if (/\bAnda\b/.test(line)) problems.push(`${file}:${i + 1}: formal pronoun Anda`);
+      if (!fenced[i]) {
+        for (const target of extractLinkTargets(line)) {
+          if (!linkTargetOk(target, contentDir, srcDir, path.dirname(path.resolve(bookDir)))) {
+            problems.push(`${file}:${i + 1}: link target "${target}" is not an http(s) URL, an in-page anchor or a chapter file of the book`);
+          }
+        }
+      }
       if (i !== firstIdx && !fenced[i]) {
         const h = HEADING.exec(line);
         if (h) {

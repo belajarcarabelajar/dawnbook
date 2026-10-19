@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-19-dawnbook-menolak-perasaan
-status: Approved
+status: Verification
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (first file found in the chain: /home/belajarcarabelajar/vivera/Super Ultra Code Plan Implementation.md)"
@@ -178,8 +178,44 @@ tasks:
     idempotency_key: "D1:d1"
     skip_if: "false"
     verify_exit: 0
-  - id: S1
+  - id: F1
     depends_on: [D1]
+    impacts: ["chapters 03, 05, 08 of the new book - bun run scripts/check-book-structure.ts saat-dia-suka-tapi-kamu-tidak"]
+    files: { create: [], modify: [books/saat-dia-suka-tapi-kamu-tidak/src/content/03_ramah-tidak-sama-dengan-tertarik.md, books/saat-dia-suka-tapi-kamu-tidak/src/content/05_kenalan-dari-layar-dan-batas-percaya.md, books/saat-dia-suka-tapi-kamu-tidak/src/content/08_diam-sebagai-jawaban.md], test: [] }
+    idempotency_key: "F1:f1"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F2
+    depends_on: [F1]
+    impacts: ["chapter text of the new book - review report artifact"]
+    files: { create: [], modify: [docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-review-report.md], test: [] }
+    idempotency_key: "F2:f2"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F3
+    depends_on: [D1]
+    impacts: ["per-book structure checker used by every book test - bun test tests/scripts/check-book-structure.test.ts tests/books/"]
+    files: { create: [], modify: [scripts/check-book-structure.ts, tests/scripts/check-book-structure.test.ts], test: [tests/scripts/check-book-structure.test.ts] }
+    idempotency_key: "F3:f3"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/scripts/check-book-structure.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: F4
+    depends_on: [D1]
+    impacts: ["both book tests - bun test tests/books/"]
+    files: { create: [tests/helpers/book-test.ts], modify: [tests/books/saat-dia-suka-tapi-kamu-tidak.test.ts, tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts], test: [tests/books/saat-dia-suka-tapi-kamu-tidak.test.ts, tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts] }
+    idempotency_key: "F4:f4"
+    skip_if: "false"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/saat-dia-suka-tapi-kamu-tidak.test.ts tests/books/soft-power-jepang-lewat-manga-dan-anime.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: S1
+    depends_on: [D1, F1, F2, F3, F4]
     impacts: ["learning ledger and memory - docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-learning-ledger.md"]
     files: { create: [docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-learning-ledger.md], modify: [], test: [] }
     idempotency_key: "S1:s1"
@@ -189,7 +225,7 @@ tasks:
 
 # Plan: Dawnbook book on handling romantic interest you do not return
 
-Status: Approved
+Status: Verification
 Session: dawnbook-menolak-perasaan
 Branch: 2026-10-19-dawnbook-menolak-perasaan/dawnbook-menolak-perasaan
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-menolak-perasaan
@@ -211,8 +247,12 @@ Source: owner-supplied topic notes (2026-10-19). Topic only; no identifying deta
 - [x] Audit (V1): parent line-by-line read of every chapter plus scans (kamu, 0 em dash, 0 emoji, 0 colon headings, distinct closers, openers at most 155 chars, 0 identity terms). Evidence: parent Read of all 13 files end to end; 24 single-sentence edits, all to keep claims at the notes' level: ch01 'sangat biasa' softened; ch02 one assertive line hedged and one misreading of B2 (willingness, not availability) corrected; ch03 'all five styles show in behaviour' scoped to the three measured; ch04 an unsupported claim hedged and an online-acquaintance example that contradicted the chapter's own bridge replaced; ch05 an unsourced 'most online acquaintances are not scammers' removed twice; ch06 four generalisations scoped; ch08 three claims scoped to their studies; ch10 three generalisations softened; ch11 one generalisation removed; ch12 an ambiguous back-reference fixed; ch13 one description scoped. Scans: 0 em dash, 0 en dash, 0 Anda, 0 fullwidth colon in all 13 files, kamu 7-24 per content chapter; `rg '^#{2,6} .*:'` exit 1; `uniq -d` on all headings empty; `bun run scripts/check-book-structure.ts saat-dia-suka-tapi-kamu-tidak` exit 0, 13 chapters, 0 problems (opener cut included); identity denylist test passes; 2 diagrams (ch05 flowchart, ch09 stateDiagram-v2) rendered by `bun run scripts/render-diagrams.ts --book saat-dia-suka-tapi-kamu-tidak` exit 0 (rendered 2, orphans 0); no LaTeX in the book.
 - [x] Gates (V2): book test, `bun run check:headings`, `bun run scripts/check-repeated-headings.ts`, `bun run check:diagrams`, `bun run build` exit 0 with SEO validation passed. Evidence: `bun test <book test> tests/scripts/check-book-structure.test.ts tests/serp-description.test.ts` exit 0 (48 pass, 0 fail); `bun run scripts/check-book-structure.ts saat-dia-suka-tapi-kamu-tidak` exit 0; `bun run check:headings` exit 0 (0 violations, 59 books); `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0 (book and all books, 0 violations, 0 orphans); `bun run build` exit 0 with `Successfully built: saat-dia-suka-tapi-kamu-tidak`, `Inlined 2 diagram(s)` and `SEO Validation passed! All rules (R1-R7)`; output/manifest.json lists the slug with 13 chapters; built meta descriptions 105-154 chars, all complete sentences; build regenerated functions/lib/built-stats.ts (737 to 750 chapters, Kania Salsabila 10 to 11 books).
 - [x] Review (V3): independent reviewer audit, findings resolved, report saved as an artifact. Evidence: 3 parallel staid reviewers (chapters 01-06: correct, 7 P2; chapters 07-13: not correct, 1 P1 sample year; test and scaffold: not correct, 1 P1 reversible digest denylist in a public repo); both P1 fixed before any commit (year reworded; digests replaced by a local denylist file outside the repository, chunk T0 re-dispatched alone to chef, parent re-audit: 0 digests, 0 denylisted phrases and 0 non-ASCII characters in the test file); all P2 and most P3 fixed by one-sentence edits; Referensi trimmed three times to 12.007 B, then the test ceiling raised to 12.500 per GEMINI.md section 20 (three-attempt cap). Re-run after fixes: focused tests exit 0 (47 pass, 0 fail), `tests/functions/api/stats.test.ts` exit 0 (2 pass), check-book-structure exit 0, check:headings exit 0, check-repeated-headings exit 0, check:diagrams exit 0, `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` exit 0 (merge-base 254088f8), `bun run build` exit 0 with SEO R1-R7 passed, 14 built metas 105-154 chars all ending in a full stop or question mark; report at docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-review-report.md.
-- [ ] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry.
-- [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision.
+- [x] Deliver (D1): commit on the session branch, PR opened with --body-file, registered in pr-registry. Evidence: commit f6aac4a (author and committer Kania Salsabila <kaniasalsabila639@gmail.com>, trailer Co-authored-by Iwan Kurniawan, 27 files staged by explicit path, `git status --porcelain` empty after); staged-content identity scan 0 non-byline hits; `pr-registry state ... verified` exit 0; `pr-registry open ... --body-file` exit 0 -> https://github.com/belajarcarabelajar/dawnbook/pull/166 recorded; `gh pr view 166` OPEN, MERGEABLE, +1777/-3, head f6aac4a.
+- [x] Follow-up F1 (N1): repeated generic settings in chapters 03, 05, 08 replaced by other generic settings; structure checker and book test exit 0. Evidence: chef changed 4 setting phrases (03 x2, 05 opener, 08), each new setting used in one chapter; F2 later aligned 01 and 07; `rg -n -i 'kelas daring|teman sekelas'` on 03, 05, 08 exit 1; structure checker exit 0; book test exit 0.
+- [x] Follow-up F2 (N2): second independent fact review of all 13 chapters after F1; verdict correct with 0 P1 after fixes. Evidence: staid verdict correct (0 P1, 5 P2, about 20 P3); all P2 and most P3 fixed by one-sentence edits; re-run: tests exit 0 (70 pass, 0 fail across checker, book, SERP and stats tests), structure checker exit 0, check:headings exit 0, check-repeated-headings exit 0, check:diagrams exit 0; report section 'Second review round' in the review-report artifact.
+- [x] Follow-up F3 (N3): scripts/check-book-structure.ts collects markdown link targets and case-insensitive schemes, test-first; checker tests exit 0, both book tests exit 0. Evidence: hoggy test-first: RED exit 1 (32 pass, 7 fail) then GREEN exit 0 (39 pass); site-root cross-book links allowed after a second RED (39 pass, 1 fail) and GREEN (40 pass); all-books loop: 47 books fail before and after with identical lists and identical problem counts, 0 link-target problems; parent re-run of checker, book and SERP tests exit 0 (68 pass).
+- [x] Follow-up F4 (N4): shared book-test helpers in tests/helpers/book-test.ts used by both book tests; both exit 0. Evidence: nappy moved contentFiles, sourceTableSection, sourceTableUrls to tests/helpers/book-test.ts (soft-power test 84 to 64 lines, new book test 188 to 170 lines); RED exit 1 (module not found) before the helper existed, GREEN exit 0 (13 pass); `rg 'function (contentFiles|sourceTableSection|sourceTableUrls)' tests/books/` exit 1; `bun run typecheck` does not exist in this repository (no typecheck run).
+- [x] Sweep (S1): debt sweep, learning ledger, graphify sync, plan closeout decision. Evidence: 7 debts found (0 `defer:` markers in the repo, method proven on ~/vivera with 9 markers), owner selected N1-N4 (all four closed as F1-F4 above), L1-L3 written to the Follow-up Backlog with `defer:` lines; learning ledger docs/code-plan/artifacts/2026-10-19-dawnbook-menolak-perasaan-learning-ledger.md (4 KEEP rules into project memory: new private-source-identity-guard, new-book-authoring-traps extended); runner `--execute` exit 0 (V2 PASSED, Error Ledger empty), `plan-mark-done --from` 0 open step boxes; readiness NEEDS-HUMAN (every task UNPROVEN by the `false` sentinel); Close plan gate answered Keep it open (see Closeout status). Graphify update and sync run after the follow-up commit (recorded in the final report).
 
 ## Active Project Profile
 
@@ -281,7 +321,15 @@ flowchart TD
     V1 --> V2["V2: gates and build"]
     V2 --> V3["V3: independent review"]
     V3 --> D1["D1: pull request"]
+    D1 --> F1["F1: vary scenarios"]
+    F1 --> F2["F2: second fact review"]
+    D1 --> F3["F3: link-target checker"]
+    D1 --> F4["F4: shared test helpers"]
     D1 --> S1["S1: debt sweep and closeout"]
+    F1 --> S1
+    F2 --> S1
+    F3 --> S1
+    F4 --> S1
 ```
 
 ## 2b. Affected Surfaces
@@ -407,3 +455,28 @@ Debt sweep, learning ledger, graphify sync, plan closeout decision.
 
 - Commit identity follows GEMINI.md section 18, read through the CLAUDE.md symlink (Kania author, Iwan co-author trailer), over the harness attribution reminder and the workflow block's "no co-author trailer" line. Owner decision, AskUserQuestion 2026-10-19: Identity = Follow CLAUDE.md section 18. The PR body carries no harness footer, matching earlier sessions.
 - Diagrams are optional and limited to chapters 05 and 09, where the notes list ordered stages.
+
+### Task F1
+Follow-up N1 (owner selected 2026-10-19): vary the repeated classmate and online-class settings in chapters 03, 05, 08 without changing facts, links, headings, or openers beyond the setting words.
+
+### Task F2
+Follow-up N2: a staid reviewer rereads all 13 chapters against the notes after F1; any P0/P1 is fixed and re-gated; result appended to the review report.
+
+### Task F3
+Follow-up N3: test-first hardening of the shared checker so link targets without a scheme and uppercase schemes are seen.
+
+### Task F4
+Follow-up N4: move contentFiles and source-table helpers into tests/helpers/book-test.ts and use them from both book tests.
+
+## Follow-up Backlog
+
+- L1 Deploy, D1 seed and GSC reindex after the merge of PR #166. `defer: owner-gated external action, after the merge`
+- L2 Identity scan in CI. `defer: needs a CI secret store, if the repository gains one`
+- L3 Plans 2026-10-16-dawnbook-diagrams-retrofit-rf3, rf4, rf6 still at Verification while their sessions merged (`plan-closeout.mjs --audit`). `defer: separate closeout session, next dawnbook session`
+
+## Closeout status
+
+Decision (AskUserQuestion 2026-10-19, Close plan): Keep it open.
+- Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-19-dawnbook-menolak-perasaan.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, all 25 tasks UNPROVEN because every `skip_if` is the `false` sentinel (their evidence is in the checklist above, not machine-checkable).
+- What remains: the merge of PR #166, then the owner-gated deploy, D1 seed and GSC reindex (backlog L1).
+- Reopen trigger: after PR #166 merges and the live book URL returns 200 with its index meta equal to the book.toml description, mark this plan Complete in the next dawnbook session's PR.

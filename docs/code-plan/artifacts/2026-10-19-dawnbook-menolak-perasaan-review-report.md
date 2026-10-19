@@ -39,3 +39,12 @@ Session: dawnbook-menolak-perasaan. Plan: docs/code-plan/plans/2026-10-19-dawnbo
 ## Re-verification after fixes
 
 See the plan's Review (V3) checklist line for the commands and exit codes run after the fixes.
+
+## Second review round (follow-up F2)
+
+A fourth staid reviewer reread all 13 chapters against the notes after the first fixes and the setting changes of follow-up F1. Verdict: correct (0 P0/P1), 5 P2 and about 20 P3.
+
+- P2 fixed: chapter 03 "dilakukan pada 1982" changed to the publication year; Referensi dissertation note no longer names a year or "first author"; chapter 12 sample claim restated as "membahas hubungan dekat"; chapter 11 recap restores the passive-coping condition; chapter 07 ORI wording changed to "pola yang mirip".
+- P3 fixed: dropped hedges and attributions restored in recaps (chapters 01, 02, 03, 08, 09), the book's own views labelled (chapters 06, 08, 11, 12), small embellishments removed (chapters 04, 06, 09, 10, 12), "tiga gaya" for the three measured styles, "diakui" for "validated" in the chapter 12 heading, the remaining online-class setting in chapters 01 and 07 changed to a discussion group, a readable link title for the Jolink entry.
+- Not changed: chapter 11 "terdengar kecil" (framed as how the remarks sound, not a finding) and the chapter 11 survey predicate (kept as the survey page reports it).
+- Copy-rule note: `check-copy-rules --diff origin/main` flags the `Co-authored-by: Iwan Kurniawan` trailer on the Kania-authored commit. GEMINI.md section 18 requires that trailer and the owner chose that rule on 2026-10-19, so this is a rule conflict, not a defect.

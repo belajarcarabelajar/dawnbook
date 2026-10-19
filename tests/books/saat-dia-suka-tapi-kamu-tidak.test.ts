@@ -3,6 +3,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { checkBookStructure, extractUrls } from "../../scripts/check-book-structure";
+import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
 
 const ROOT = path.resolve(import.meta.dir, "../..");
 const BOOK = path.join(ROOT, "books/saat-dia-suka-tapi-kamu-tidak");
@@ -54,25 +55,6 @@ function readDenylist(file: string): string[] {
     .filter((l) => l.length > 0 && !l.startsWith("#"));
 }
 
-function contentFiles(): string[] {
-  const dir = path.join(BOOK, "src/content");
-  return fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".md")).sort() : [];
-}
-
-function sourceTableUrls(notes: string): string[] {
-  const dataRows = sourceTableSection(notes).filter((l) => DATA_ROW.test(l));
-  return extractUrls(dataRows.join("\n"));
-}
-
-function sourceTableSection(notes: string): string[] {
-  const lines = notes.split("\n");
-  const start = lines.findIndex((l) => l.startsWith("## 9. Source table"));
-  if (start < 0) return [];
-  const rest = lines.slice(start + 1);
-  const end = rest.findIndex((l) => l.startsWith("## "));
-  return end < 0 ? rest : rest.slice(0, end);
-}
-
 // Markdown link targets (one level of balanced parentheses for DOIs) and href attributes.
 function linkTargets(md: string): string[] {
   const mdLinks = [...md.matchAll(/\]\(((?:[^()\s]|\([^()\s]*\))+)\)/g)].map((m) => m[1]);
@@ -85,11 +67,11 @@ describe("book saat-dia-suka-tapi-kamu-tidak", () => {
     const result = checkBookStructure(BOOK);
     expect(result.problems).toEqual([]);
     expect(result.chapters).toBe(13);
-    expect(contentFiles().at(-1)).toBe("13_referensi.md");
+    expect(contentFiles(BOOK).at(-1)).toBe("13_referensi.md");
   });
 
   test("every chapter stays inside the house byte budget", () => {
-    const files = contentFiles();
+    const files = contentFiles(BOOK);
     expect(files.length).toBe(13);
     for (const f of files) {
       const size = fs.statSync(path.join(BOOK, "src/content", f)).size;
@@ -119,7 +101,7 @@ describe("book saat-dia-suka-tapi-kamu-tidak", () => {
       "## 10. Later",
       "| Z9 | Out of section | https://example.com/z9 |",
     ].join("\n");
-    expect(sourceTableUrls(notes).sort()).toEqual([
+    expect(sourceTableUrls(notes, DATA_ROW).sort()).toEqual([
       "https://example.com/a1",
       "https://example.com/a2b",
       "https://example.com/b2",
@@ -130,7 +112,7 @@ describe("book saat-dia-suka-tapi-kamu-tidak", () => {
     const notes = fs.readFileSync(NOTES, "utf-8");
     const dataRows = sourceTableSection(notes).filter((l) => DATA_ROW.test(l)).length;
     expect(dataRows).toBe(52);
-    expect(new Set(sourceTableUrls(notes)).size).toBe(dataRows);
+    expect(new Set(sourceTableUrls(notes, DATA_ROW)).size).toBe(dataRows);
   });
 
   test("link target collector keeps DOI parentheses and href values", () => {
@@ -139,8 +121,8 @@ describe("book saat-dia-suka-tapi-kamu-tidak", () => {
   });
 
   test("every URL in the book comes from the research notes source table", () => {
-    const allowed = new Set(sourceTableUrls(fs.readFileSync(NOTES, "utf-8")));
-    const used = contentFiles().flatMap((f) => {
+    const allowed = new Set(sourceTableUrls(fs.readFileSync(NOTES, "utf-8"), DATA_ROW));
+    const used = contentFiles(BOOK).flatMap((f) => {
       const md = fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8");
       return [...extractUrls(md), ...linkTargets(md)];
     });
@@ -170,7 +152,7 @@ describe("book saat-dia-suka-tapi-kamu-tidak", () => {
   test.skipIf(!DENYLIST_EXISTS)("no chapter, SUMMARY.md or diagram contains a denylisted identity term", () => {
     const phrases = readDenylist(DENYLIST);
     expect(phrases.length).toBeGreaterThanOrEqual(10);
-    const files = contentFiles();
+    const files = contentFiles(BOOK);
     expect(files.length).toBe(13);
     const summary = path.join(BOOK, "src/SUMMARY.md");
     expect(fs.existsSync(summary)).toBe(true);
