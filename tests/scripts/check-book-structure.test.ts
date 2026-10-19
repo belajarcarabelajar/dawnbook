@@ -2,7 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { checkBookStructure, extractUrls } from "../../scripts/check-book-structure";
+import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
 
 const dirs: string[] = [];
 
@@ -222,6 +222,60 @@ describe("checkBookStructure", () => {
     expect(checkBookStructure(makeBook(files)).problems).toEqual(["02_bab-kedua.md:9: emoji"]);
   });
 
+  test("flags a scheme-less doi.org link target in a chapter", () => {
+    const files = { ...validBook(), "src/content/01_bab-pertama.md": chapter("Bab Pertama") + "\nLihat [studi](doi.org/10.1/zz).\n" };
+    const { problems } = checkBookStructure(makeBook(files));
+    expect(problems.filter((p) => p.includes("link target"))).toEqual([
+      '01_bab-pertama.md:9: link target "doi.org/10.1/zz" is not an http(s) URL, an in-page anchor or a chapter file of the book',
+    ]);
+  });
+
+  test("flags a www. link target and a protocol-relative href", () => {
+    const body = chapter("Bab Pertama") + '\nLihat [situs](www.example.org/a) dan <a href="//example.org">ini</a>.\n';
+    const { problems } = checkBookStructure(makeBook({ ...validBook(), "src/content/01_bab-pertama.md": body }));
+    const flagged = problems.filter((p) => p.includes("link target"));
+    expect(flagged.some((p) => p.includes('"www.example.org/a"'))).toBe(true);
+    expect(flagged.some((p) => p.includes('"//example.org"'))).toBe(true);
+  });
+
+  test("flags a relative link to a chapter file the book does not have", () => {
+    const body = chapter("Bab Pertama") + "\nLihat [bab hilang](09_tidak-ada.md).\n";
+    const { problems } = checkBookStructure(makeBook({ ...validBook(), "src/content/01_bab-pertama.md": body }));
+    expect(problems.some((p) => p.includes('"09_tidak-ada.md"'))).toBe(true);
+  });
+
+  test("accepts uppercase-scheme URLs, anchors and relative chapter links", () => {
+    const body =
+      chapter("Bab Pertama") +
+      "\nLihat [A](HTTPS://Example.org/a), [B](#rincian), [C](02_bab-kedua.md), [D](02_bab-kedua.html#x) dan [E](../content/02_bab-kedua.md).\n" +
+      '\n<a href="https://example.org/b">F</a>\n\n```text\n[G](doi.org/10.1/kode)\n```\n';
+    const { problems } = checkBookStructure(makeBook({ ...validBook(), "src/content/01_bab-pertama.md": body }));
+    expect(problems).toEqual([]);
+  });
+
+  test("accepts a site-root link to another existing book but flags other root paths", () => {
+    const lib = fs.mkdtempSync(path.join(os.tmpdir(), "book-library-"));
+    dirs.push(lib);
+    fs.mkdirSync(path.join(lib, "digital-minimalisme"));
+    fs.writeFileSync(path.join(lib, "digital-minimalisme", "book.toml"), "[book]\n");
+    const book = path.join(lib, "buku-ini");
+    const files = {
+      ...validBook(),
+      "src/content/01_bab-pertama.md":
+        chapter("Bab Pertama") +
+        "\nLihat [A](/books/digital-minimalisme/), [B](/books/digital-minimalisme/content/01_x.html#a), " +
+        "[C](/books/), [D](/other/path) dan [E](/books/salah-ketik/).\n",
+    };
+    for (const [rel, body] of Object.entries(files)) {
+      fs.mkdirSync(path.dirname(path.join(book, rel)), { recursive: true });
+      fs.writeFileSync(path.join(book, rel), body);
+    }
+    const flagged = checkBookStructure(book)
+      .problems.filter((p) => p.includes("link target"))
+      .map((p) => /"([^"]+)"/.exec(p)?.[1]);
+    expect(flagged).toEqual(["/books/", "/other/path", "/books/salah-ketik/"]);
+  });
+
   test("flags a closer heading repeated in two chapters", () => {
     const files = {
       ...validBook(),
@@ -252,5 +306,38 @@ describe("extractUrls", () => {
   test("also returns bare URLs from a markdown table cell", () => {
     const md = "| A1 | Nye 1990 | https://doi.org/10.2307/1148580 |\n| C1 | AJA | https://aja.gr.jp/download/air2025samary_en |";
     expect(extractUrls(md)).toEqual(["https://doi.org/10.2307/1148580", "https://aja.gr.jp/download/air2025samary_en"]);
+  });
+
+  test("matches the scheme case-insensitively", () => {
+    expect(extractUrls("Lihat [x](HTTPS://Example.org/a) dan Http://b.example/c.")).toEqual([
+      "HTTPS://Example.org/a",
+      "Http://b.example/c",
+    ]);
+  });
+});
+
+describe("extractLinkTargets", () => {
+  test("returns inline link targets and href values once each, in document order", () => {
+    const md =
+      '[a](HTTPS://Example.org/a) <a href="//example.org">b</a> [c](doi.org/10.1/zz) ' +
+      "<a href='www.example.org/a'>d</a> [e](#bagian) [f](02_bab.md) [g](doi.org/10.1/zz)";
+    expect(extractLinkTargets(md)).toEqual([
+      "HTTPS://Example.org/a",
+      "//example.org",
+      "doi.org/10.1/zz",
+      "www.example.org/a",
+      "#bagian",
+      "02_bab.md",
+    ]);
+  });
+
+  test("keeps a DOI with one level of parentheses whole and strips a quoted title", () => {
+    const md = '[Snyder](https://doi.org/10.1016/0022-1031(82)90052-X "Judul") dan [x](www.example.org/a \'t\')';
+    expect(extractLinkTargets(md)).toEqual(["https://doi.org/10.1016/0022-1031(82)90052-X", "www.example.org/a"]);
+  });
+
+  test("ignores link targets inside fenced code blocks", () => {
+    const md = "[a](#satu)\n\n```md\n[b](doi.org/10.1/kode)\n<a href=\"//x.example\">c</a>\n```\n\n[d](#dua)";
+    expect(extractLinkTargets(md)).toEqual(["#satu", "#dua"]);
   });
 });

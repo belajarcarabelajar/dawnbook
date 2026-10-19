@@ -2,42 +2,22 @@ import { describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import path from "node:path";
 import { checkBookStructure, extractUrls } from "../../scripts/check-book-structure";
+import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
 
 const ROOT = path.resolve(import.meta.dir, "../..");
 const BOOK = path.join(ROOT, "books/soft-power-jepang-lewat-manga-dan-anime");
 const NOTES = path.join(ROOT, "docs/code-plan/plans/research-soft-power-jepang-lewat-manga-dan-anime.md");
-
-function contentFiles(): string[] {
-  const dir = path.join(BOOK, "src/content");
-  return fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".md")).sort() : [];
-}
-
-function sourceTableUrls(notes: string): string[] {
-  const rows = sourceTableSection(notes).filter((l) => l.startsWith("| "));
-  const isSeparator = (l: string) => /^\|[\s:|-]+$/.test(l.trim());
-  const dataRows = rows.slice(1).filter((l) => !isSeparator(l));
-  return extractUrls(dataRows.join("\n"));
-}
-
-function sourceTableSection(notes: string): string[] {
-  const lines = notes.split("\n");
-  const start = lines.findIndex((l) => l.startsWith("## 9. Source table"));
-  if (start < 0) return [];
-  const rest = lines.slice(start + 1);
-  const end = rest.findIndex((l) => l.startsWith("## "));
-  return end < 0 ? rest : rest.slice(0, end);
-}
 
 describe("book soft-power-jepang-lewat-manga-dan-anime", () => {
   test("has 12 content chapters plus Referensi with no structural problems", () => {
     const result = checkBookStructure(BOOK);
     expect(result.problems).toEqual([]);
     expect(result.chapters).toBe(13);
-    expect(contentFiles().at(-1)).toBe("13_referensi.md");
+    expect(contentFiles(BOOK).at(-1)).toBe("13_referensi.md");
   });
 
   test("every chapter stays inside the house byte budget", () => {
-    const files = contentFiles();
+    const files = contentFiles(BOOK);
     expect(files.length).toBe(13);
     for (const f of files) {
       const size = fs.statSync(path.join(BOOK, "src/content", f)).size;
@@ -77,7 +57,7 @@ describe("book soft-power-jepang-lewat-manga-dan-anime", () => {
 
   test("every URL in the book comes from the research notes source table", () => {
     const allowed = new Set(sourceTableUrls(fs.readFileSync(NOTES, "utf-8")));
-    const used = contentFiles().flatMap((f) => extractUrls(fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8")));
+    const used = contentFiles(BOOK).flatMap((f) => extractUrls(fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8")));
     expect(used.length).toBeGreaterThan(20);
     expect(used.filter((u) => !allowed.has(u))).toEqual([]);
   });
