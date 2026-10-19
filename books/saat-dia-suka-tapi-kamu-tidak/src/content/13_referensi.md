@@ -18,7 +18,7 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [The logic of indirect speech](https://doi.org/10.1073/pnas.0707192105). Pinker, Nowak, dan Lee, 2008, PNAS 105(3), 833-838, ucapan tidak langsung dan penyangkalan.
 - [Rationales for indirect speech: The theory of the strategic speaker](https://doi.org/10.1037/a0019688). Lee dan Pinker, 2010, Psychological Review 117(3), 785-807, penyangkalan tingkat kedua.
 - [Individual differences in the communication of romantic interest: Development of the Flirting Styles Inventory](https://doi.org/10.1080/01463373.2010.524874). Hall, Carter, Cody, dan Albright, 2010, Communication Quarterly 58(4), 365-393, lima gaya tebar pesona.
-- [The verbal and nonverbal correlates of the five flirting styles](https://doi.org/10.1007/s10919-014-0199-8). Hall dan Xing, 2015, Journal of Nonverbal Behavior 39(1), 41-68, perilaku tiap gaya dalam obrolan pertama.
+- [The verbal and nonverbal correlates of the five flirting styles](https://doi.org/10.1007/s10919-014-0199-8). Hall dan Xing, 2015, Journal of Nonverbal Behavior 39(1), 41-68, perilaku tiga gaya dalam obrolan pertama.
 - [New book outlines five types of flirting styles](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles). University of Kansas, 11 September 2013, ciri tiap gaya tebar pesona.
 - [Flirting with meaning](https://doi.org/10.1023/B:SERS.0000023068.49352.4b). Henningsen, 2004, Sex Roles 50, 481-489, enam motivasi tebar pesona.
 - [Sex differences in attributions for friendly behavior](https://doi.org/10.1037/0022-3514.42.5.830). Abbey, 1982, Journal of Personality and Social Psychology 42(5), 830-838, keramahan yang disangka rayuan.
@@ -54,7 +54,7 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Survei Pelecehan di Ruang Publik 2019](https://ruangaman.com/survei2019/). Koalisi Ruang Publik Aman, 2019, bentuk dan tempat pelecehan yang dialami responden.
 - [Survei Pelecehan di Ruang Publik 2022](https://ruangaman.com/survei2022/). Koalisi Ruang Publik Aman, 2022, siulan dan komentar atas tubuh sebagai bentuk tersering.
 - [Undang-Undang Nomor 12 Tahun 2022](https://peraturan.bpk.go.id/Details/207944/uu-no-12-tahun-2022). Basis data peraturan BPK, UU TPKS, pelecehan seksual nonfisik.
-- [Everyday stranger harassment and women's objectification](https://doi.org/10.1007/s11211-008-0073-0). Fairchild dan Rudman, 2008, Social Justice Research 21(3), 338-357, dampak pelecehan oleh orang asing; angka 31% di bab 11 dari disertasi penulis pertama (2007).
+- [Everyday stranger harassment and women's objectification](https://doi.org/10.1007/s11211-008-0073-0). Fairchild dan Rudman, 2008, Social Justice Research 21(3), 338-357, dampak pelecehan oleh orang asing; angka 31% di bab 11 dari disertasi salah satu penulisnya.
 - [More than myth](https://doi.org/10.1111/1532-7795.1301001). Collins, 2003, Journal of Research on Adolescence 13(1), 1-24, arti penting hubungan romantis remaja.
 - [Romantic relationships from adolescence to young adulthood](https://pmc.ncbi.nlm.nih.gov/articles/PMC4201847/). Meier dan Allen, 2009, ulasan di PMC, keterlibatan romantis menurut usia.
 - [The adolescent brain](https://doi.org/10.1196/annals.1440.010). Casey, Jones, dan Hare, 2008, Annals of the New York Academy of Sciences 1124, 111-126, perkembangan kendali diri remaja.
@@ -65,7 +65,7 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [What do you do when things go right?](https://doi.org/10.1037/0022-3514.87.2.228). Gable, Reis, Impett, dan Asher, 2004, Journal of Personality and Social Psychology 87(2), 228-245, manfaat berbagi kabar baik.
 - [Good news! Capitalizing on positive events in an interpersonal context](https://doi.org/10.1016/S0065-2601(10)42004-3). Gable dan Reis, 2010, Advances in Experimental Social Psychology 42, empat cara menanggapi kabar baik.
 - [Perceived partner responsiveness](https://doi.org/10.1037/13486-002). Reis, 2012, bab dalam Interdisciplinary research on close relationships (APA), 27-52, merasa dipahami dan dipedulikan.
-- [(artikel Jolink dkk. di PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/). Jolink dkk., 2021, rumusan ulang definisi responsivitas pasangan.
+- [Jolink dkk. tentang responsivitas pasangan (PMC)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/). Jolink dkk., 2021, rumusan ulang definisi responsivitas pasangan.
 - [Close partner as sculptor of the ideal self](https://doi.org/10.1037/0022-3514.77.2.293). Drigotas, Rusbult, Wieselquist, dan Whitton, 1999, Journal of Personality and Social Psychology 77(2), 293-323, fenomena Michelangelo.
 - [Measuring "crabs in a bucket" phenomenon at schools](https://files.eric.ed.gov/fulltext/EJ1311648.pdf). Çavuş dan Sarpkaya, 2021, Psycho-Educational Research Reviews 10(2), 314-327, mentalitas kepiting.
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.

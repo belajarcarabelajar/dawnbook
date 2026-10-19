@@ -12,7 +12,7 @@ Pertemanan ternyata juga tidak luput. Di studi kedua itu, 38,6% peserta pernah d
 
 Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
 
-### Dua Peran Ghosting yang Sering Bergantian
+### Dua Peran Ghosting yang Sama-sama Dialami
 
 Dalam studi kualitatif [LeFebvre dan rekan (2019)](https://doi.org/10.1177/0276236618820519) terhadap 99 orang dewasa muda, sebagian besar peserta pernah berada di kedua posisi: pernah menghilang, pernah juga ditinggal menghilang. Judul penelitian itu menyebut *ghosting* sebagai strategi "menghilang" untuk mengakhiri hubungan secara digital.
 
@@ -39,13 +39,13 @@ Jadi, bukti tentang apakah *ghosting* lebih menyakitkan daripada penolakan langs
 3. Berusaha memperbaiki hubungan.
 4. Menerima.
 
-Para peneliti juga menyimpulkan bahwa *ghosting* dan *orbiting* dapat dianggap bentuk pengucilan (*ostracism*). Tahapan ini akan kita pakai lagi di bab 9.
+Para peneliti juga menyimpulkan bahwa *ghosting* dan *orbiting* dapat dianggap bentuk pengucilan (*ostracism*). Tahapan ini akan kita rujuk lagi di bab 9.
 
 ### Ketidakpastian yang Disebut Limbo
 
 Wawancara [Campaioli, Testoni, dan Zamperini (2022)](https://doi.org/10.5817/CP2022-5-10) dengan 23 orang berusia 21 sampai 34 tahun di Italia memberi gambaran yang lebih dekat. *Ghosting* terasa seperti *limbo*, keadaan menggantung tanpa kepastian. Tidak adanya penutupan digambarkan lebih menyakitkan daripada hubungan yang diakhiri secara terang-terangan. Bahkan orang yang pernah meng-*ghosting* mengaku lebih memilih "kebenaran yang pahit" (*ugly truth*) daripada ketidakpastian. Ini studi kecil, tetapi suaranya patut didengar.
 
-### Alasan Keamanan di Balik Pilihan Diam
+### Dugaan Alasan Keamanan di Balik Pilihan Diam
 
 Tidak semua orang diam karena malas. Menurut [Freedman dan rekan (2022)](https://doi.org/10.1016/j.jesp.2022.104368), kekhawatiran soal keselamatan mungkin membuat orang lebih cenderung memilih *ghosting*. Penolakan bisa menjadi interaksi yang berakhir dengan kekerasan, terutama ketika perempuan menolak laki-laki.
 
@@ -55,7 +55,7 @@ Menurut ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/
 
 Bagian ini adalah panduan, bukan temuan penelitian. Diam bisa menjadi pilihan yang wajar kalau kamu merasa tidak aman, atau kalau seseorang terus mendesak setelah kamu menolak dengan jelas. Di bab 7 sudah dibahas bahwa kamu boleh bersikap lebih tegas dalam kondisi itu, dan kebiasaan menjaga keselamatan di bab 5 tetap berlaku.
 
-Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik daripada membiarkan orang menggantung. Misalnya, seorang kenalan dari kelas daring terus mengirim pesan di aplikasi chat. Satu kalimat seperti "Terima kasih sudah perhatian, tapi aku tidak punya perasaan yang sama" memberinya kepastian yang tidak bisa diberikan oleh diam.
+Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik daripada membiarkan orang menggantung. Misalnya, seorang kenalan dari komunitas baca terus mengirim pesan di aplikasi chat. Satu kalimat seperti "Terima kasih sudah perhatian, tapi aku tidak punya perasaan yang sama" memberinya kepastian yang tidak bisa diberikan oleh diam.
 
 ### Poin Kunci
 
@@ -63,6 +63,6 @@ Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik dari
 - Dalam satu studi kualitatif, sebagian besar peserta pernah menjadi pelaku sekaligus pihak yang di-*ghosting*.
 - Bukti soal apakah *ghosting* lebih menyakitkan daripada penolakan langsung masih campur aduk.
 - Dalam satu studi, reaksi orang yang ditinggal diam tersusun dari bingung sampai menerima, dan dalam studi lain ia digambarkan seperti menggantung dalam *limbo*.
-- Rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
+- Menurut panduan buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
 
 Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Di bab 9, kita berpindah ke sisi orang yang tidak dipilih, untuk memahami mengapa diabaikan bisa terasa begitu berat.

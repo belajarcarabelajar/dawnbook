@@ -2,11 +2,11 @@
 
 Sebuah kertas kecil terlipat empat berpindah dari meja ke meja, melewati tiga teman sebelum sampai di tangan yang dituju. Isinya hanya satu kalimat, ditulis dan dihapus berkali-kali semalam sebelumnya. Penerimanya membaca, melipatnya lagi, lalu memasukkannya ke saku tanpa menoleh. Penulisnya menghabiskan sisa jam pelajaran dengan pipi panas dan pikiran yang tidak mau diam.
 
-Mungkin kamu pernah menjadi penulis kertas itu. Mungkin juga penerimanya, atau teman yang ikut mengopernya. Bertahun-tahun kemudian, kenangan seperti ini sering ditertawakan, atau malah disesali. Bab ini mengajakmu menengoknya dengan cara lain, memakai beberapa temuan tentang perkembangan remaja, supaya kamu bisa memandang perasaan masa sekolah, milikmu maupun milik orang lain, dengan lebih ramah.
+Mungkin kamu pernah menjadi penulis kertas itu. Mungkin juga penerimanya, atau teman yang ikut mengopernya. Bertahun-tahun kemudian, kenangan seperti ini bisa ditertawakan, atau malah disesali. Bab ini mengajakmu menengoknya dengan cara lain, memakai beberapa temuan tentang perkembangan remaja, supaya kamu bisa memandang perasaan masa sekolah, milikmu maupun milik orang lain, dengan lebih ramah.
 
 ### Cinta Remaja Bukan Perkara Sepele
 
-Ada orang dewasa yang menyebut perasaan remaja sebagai cinta monyet, seolah tidak perlu dipikirkan serius. Ulasan [Collins (2003)](https://doi.org/10.1111/1532-7795.1301001) melihatnya dari arah lain. Collins menulis bahwa penelitian tentang hubungan romantis remaja lama terhambat oleh anggapan keliru bahwa hubungan semacam itu remeh dan cepat berlalu.
+Ada orang dewasa yang menyebut perasaan remaja sebagai cinta monyet, seolah tidak perlu dipikirkan serius. Ulasan [Collins (2003)](https://doi.org/10.1111/1532-7795.1301001) melihatnya dari arah lain. Collins menulis bahwa penelitian tentang hubungan romantis remaja terhambat oleh anggapan keliru bahwa hubungan semacam itu remeh dan cepat berlalu.
 
 Untuk memahaminya, Collins menyebut lima ciri yang perlu diperhatikan:
 
@@ -44,7 +44,7 @@ Coba ingat beberapa adegan rekaan berikut, lalu lihat mana yang terasa dekat:
 - Pesanmu di aplikasi chat hanya dibaca tanpa balasan berhari-hari. Atau sebaliknya, kamu sengaja membiarkan pesan seseorang karena bingung harus menjawab apa.
 - Dua sahabat menjadi renggang karena menyukai orang yang sama, atau karena orang yang kamu sukai ternyata menyukai sahabatmu.
 
-Penelitian di atas tidak menjelaskan satu per satu adegan itu, dan buku ini tidak punya data tentang seberapa sering hal semacam itu terjadi. Yang bisa ia berikan adalah sudut pandang. Teman yang dulu tidak membalas pesanmu mungkin sama bingungnya denganmu. Dirimu yang dulu menunda jawaban pun sedang belajar menghadapi perasaan orang lain tanpa bekal yang cukup. Diam sebagai cara menolak dibahas lebih jauh di bab 8.
+Penelitian di atas tidak menjelaskan satu per satu adegan itu, dan buku ini tidak punya data tentang seberapa sering hal semacam itu terjadi. Yang bisa ia berikan adalah sudut pandang. Teman yang dulu tidak membalas pesanmu mungkin sama bingungnya denganmu. Dirimu yang dulu menunda jawaban pun mungkin sedang belajar menghadapi perasaan orang lain tanpa bekal yang cukup. Diam sebagai cara menolak dibahas lebih jauh di bab 8.
 
 ### Kedewasaan Emosi yang Tidak Memaksa
 

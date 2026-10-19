@@ -1,6 +1,6 @@
 ## Ramah Tidak Sama dengan Tertarik
 
-Senyum yang sama bisa dibaca dengan dua cara, bagimu sekadar sopan, bagi orang lain seperti tanda bahwa kamu tertarik. Bayangkan seorang teman sekelas yang selalu kamu sapa dengan hangat. Kamu menanyakan kabarnya, tertawa mendengar leluconnya, dan membalas pesannya di aplikasi chat tanpa menunggu lama. Bagimu itu biasa, karena memang begitu caramu memperlakukan orang. Lalu suatu hari dia mengaku mengira kamu punya perasaan yang sama.
+Senyum yang sama bisa dibaca dengan dua cara, bagimu sekadar sopan, bagi orang lain seperti tanda bahwa kamu tertarik. Bayangkan seorang rekan satu kelompok tugas yang selalu kamu sapa dengan hangat. Kamu menanyakan kabarnya, tertawa mendengar leluconnya, dan membalas pesannya di aplikasi chat tanpa menunggu lama. Bagimu itu biasa, karena memang begitu caramu memperlakukan orang. Lalu suatu hari dia mengaku mengira kamu punya perasaan yang sama.
 
 Di bab ini kita melihat apa kata penelitian tentang *flirting*, atau tebar pesona. Gayanya bermacam-macam, alasannya juga bermacam-macam, dan keramahan pun bisa dibaca keliru. Tujuannya bukan membuatmu curiga pada setiap senyum, melainkan memahami mengapa sinyal yang sama bisa sampai dengan arti yang berbeda.
 
@@ -16,7 +16,7 @@ Dari alat ukur itu dikenal lima gaya:
 - sopan (*polite*);
 - jenaka (*playful*).
 
-### Gerak-gerik Tiap Gaya di Obrolan Pertama
+### Gerak-gerik Tiga Gaya di Obrolan Pertama
 
 Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Menurut ringkasan penelitian mereka:
 
@@ -49,7 +49,7 @@ Soal keramahan yang disalahartikan ini sudah diteliti sejak lama. Judul peneliti
 
 Hasilnya, peserta laki-laki, baik yang ikut mengobrol maupun yang mengamati, menilai lawan bicara perempuan dalam percakapan itu lebih *promiscuous* dan *seductive*, kira-kira berarti lebih bebas secara seksual dan lebih menggoda, dibanding penilaian peserta perempuan.
 
-Temuan ini perlu dibaca dengan hati-hati. Sampelnya kecil, terdiri atas mahasiswa, diambil di laboratorium, dan penelitiannya dilakukan pada 1982. Jadi, temuan ini tidak bisa langsung dianggap berlaku untuk semua orang hari ini. Yang bisa kita ambil adalah kemungkinannya: keramahan bisa dibaca sebagai ketertarikan oleh orang yang melihatnya.
+Temuan ini perlu dibaca dengan hati-hati. Sampelnya kecil, terdiri atas mahasiswa, diambil di laboratorium, dan penelitiannya terbit pada 1982. Jadi, temuan ini tidak bisa langsung dianggap berlaku untuk semua orang hari ini. Yang bisa kita ambil adalah kemungkinannya: keramahan bisa dibaca sebagai ketertarikan oleh orang yang melihatnya.
 
 ### Keramahan Bukan Janji
 
@@ -60,12 +60,12 @@ Dari bagian-bagian tadi, ada beberapa hal yang bisa kamu pegang:
 - **Kamu juga bisa salah membaca.** Orang bergaya jenaka mungkin hanya menikmati obrolan. Satu sinyal belum cukup untuk menyimpulkan isi hati seseorang.
 - **Gaya memengaruhi makna.** Karena orang berbeda dalam cara menunjukkan rasa suka, perilaku yang sama bisa datang dari niat yang berbeda.
 
-Misalnya, kenalan dari sebuah kelas daring sering mengirim stiker lucu dan memuji tugasmu. Sebelum menebak-nebak, ingat bahwa itu bisa saja gayanya pada semua orang. Begitu pula sebaliknya, kehangatanmu padanya belum tentu dia baca sebagai sekadar ramah.
+Misalnya, seorang rekan kerja paruh waktu sering mengirim stiker lucu dan memuji tugasmu. Sebelum menebak-nebak, ingat bahwa itu bisa saja gayanya pada semua orang. Begitu pula sebaliknya, kehangatanmu padanya belum tentu dia baca sebagai sekadar ramah.
 
 ### Benang Merah
 
 - Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka, dan beberapa di antaranya tampak dalam perilaku yang berbeda.
-- Orang melakukan *flirting* karena enam motivasi, dan laki-laki serta perempuan cenderung membacanya dengan cara yang tidak sama.
+- Menurut Henningsen, orang melakukan *flirting* karena enam motivasi, dan laki-laki serta perempuan cenderung membacanya dengan cara yang tidak sama.
 - Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilaian perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
 - Ramah bukan janji, dan salah baca bisa terjadi dari dua arah.
 

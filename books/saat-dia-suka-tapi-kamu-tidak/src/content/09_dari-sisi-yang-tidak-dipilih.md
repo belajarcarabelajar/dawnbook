@@ -10,7 +10,7 @@ Apakah ditolak benar-benar terasa sakit, atau itu hanya kiasan? Pertanyaan itu m
 
 Hasilnya, bagian otak bernama *anterior cingulate cortex* (korteks singulat anterior) lebih aktif saat peserta dikucilkan dibandingkan saat diikutsertakan. Makin aktif bagian itu, makin tinggi rasa tertekan yang dilaporkan peserta sendiri. Sebaliknya, aktivitas *right ventral prefrontal cortex* (korteks prefrontal ventral kanan) berhubungan dengan rasa tertekan yang lebih rendah.
 
-Penelitian ini memakai permainan sederhana, bukan kisah cinta, jadi ia tidak menakar seberapa sakit ditolak gebetan. Namun ia memberi alasan untuk tidak menertawakan orang yang bilang "sakit" setelah diabaikan. Rasa itu bukan sekadar drama.
+Penelitian ini memakai permainan sederhana, bukan kisah cinta, jadi ia tidak menakar seberapa sakit ditolak gebetan. Namun ia memberi alasan untuk tidak menertawakan orang yang bilang "sakit" setelah diabaikan. Rasa itu tidak bisa diremehkan begitu saja.
 
 ### Empat Kebutuhan yang Terguncang
 
@@ -74,8 +74,8 @@ Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tert
 ### Recap
 
 - Dalam permainan lempar bola virtual, *anterior cingulate cortex* lebih aktif saat peserta dikucilkan, dan aktivitasnya sejalan dengan rasa tertekan yang dilaporkan.
-- Pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
-- Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan mengarah pada rasa pasrah.
+- Menurut Williams dan Nida, pada tahap awal pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
+- Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
 - Banyak pihak yang berharap mengingat emosi yang campur aduk, yakin ketertarikan itu timbal balik, dan melihat penolak sebagai sosok yang tidak konsisten dan misterius.
 - Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
 

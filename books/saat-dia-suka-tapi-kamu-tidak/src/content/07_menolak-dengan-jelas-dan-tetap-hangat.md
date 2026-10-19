@@ -44,7 +44,7 @@ Berikut beberapa contoh rekaan yang bisa kamu ubah sesuai gaya bicaramu. Semuany
 
 > Makasih ya udah jujur sama aku, itu butuh keberanian. Tapi aku nggak punya perasaan yang sama, jadi aku nggak mau jalan berdua.
 
-> Aku senang ngobrol sama kamu di kelas daring kemarin. Tapi aku nggak tertarik buat hubungan yang lebih dari teman.
+> Aku senang ngobrol sama kamu di grup diskusi kemarin. Tapi aku nggak tertarik buat hubungan yang lebih dari teman.
 
 > Aku hargai banget perhatianmu. Jawabanku tidak, dan aku harap kamu bisa menerimanya.
 
@@ -54,7 +54,7 @@ Perhatikan bahwa tidak ada kalimat yang menjanjikan waktu lain. Bandingkan denga
 
 ### Desakan Setelah Kata Tidak
 
-Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menyebut pola ini *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
+Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzberg (2000)](https://doi.org/10.1891/0886-6708.15.4.357) menggambarkan pola yang mirip, yang mereka sebut *obsessive relational intrusion* (gangguan relasional obsesif), yaitu pengejaran dan pelanggaran privasi fisik atau simbolis yang berulang dan tidak diinginkan oleh orang lain, entah orang asing atau kenalan, yang menginginkan atau menganggap ada hubungan intim. Mereka mengelompokkannya ke dalam empat jenis:
 
 - pengejaran (*pursuit*);
 - pelanggaran batas (*violation*);
@@ -72,4 +72,4 @@ Kalau orang itu terus mendesak setelah kamu bilang tidak, panduan Verywell Mind 
 - Penolakan yang baik itu singkat, jujur, berterima kasih, tanpa janji palsu, dan (saran buku ini) tawaran berteman hanya kalau kamu sungguh-sungguh.
 - Kalau desakan terus berlanjut setelah "tidak", kamu boleh lebih tegas dan memblokir.
 
-Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Banyak orang memilih tidak membalas pesan dan membiarkan diam yang berbicara. Pilihan itu punya ceritanya sendiri, dan di bab 8 kita akan melihat apa yang terjadi ketika diam dijadikan jawaban.
+Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara. Pilihan itu punya ceritanya sendiri, dan di bab 8 kita akan melihat apa yang terjadi ketika diam dijadikan jawaban.

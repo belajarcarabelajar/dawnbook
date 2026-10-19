@@ -2,7 +2,7 @@
 
 Coba ingat kabar baik terakhir yang kamu bagikan, lalu tanyakan pada dirimu: siapa yang benar-benar ikut senang saat mendengarnya? Ada yang langsung bertanya panjang, ada yang hanya mengangguk, ada pula yang malah menyebut kelemahan rencanamu. Jawaban atas pertanyaan sederhana itu bisa bercerita banyak.
 
-Sepanjang buku ini kita membahas cara menghadapi perasaan yang tidak kamu balas. Bab terakhir ini berbalik arah: kalau bukan dia, orang seperti apa yang layak kamu dekati? Kata "sejalan" sering diartikan sebagai punya banyak kesamaan. Penelitian di bab ini memberi bacaan yang sedikit berbeda.
+Sepanjang buku ini kita membahas cara menghadapi perasaan yang tidak kamu balas. Bab terakhir ini berbalik arah: kalau bukan dia, orang seperti apa yang layak kamu dekati? Kata "sejalan" bisa diartikan sebagai punya banyak kesamaan. Bab ini menawarkan bacaan buku ini yang sedikit berbeda.
 
 ### Empat Cara Menanggapi Kabar Baik
 
@@ -11,13 +11,13 @@ Psikolog menyebut kebiasaan menceritakan hal baik kepada orang lain sebagai *cap
 Dalam tinjauan berikutnya, [Gable dan Reis (2010)](https://doi.org/10.1016/S0065-2601(10)42004-3) memetakan empat jenis tanggapan. Bayangkan kamu baru saja bercerita, "Aku lolos seleksi beasiswa!" Berikut contoh rekaan untuk tiap jenis:
 
 - **Aktif-konstruktif** (*active-constructive*), yaitu dukungan yang antusias dan terlibat. "Serius? Selamat! Gimana rasanya waktu baca pengumumannya? Ceritain dong prosesnya."
-- **Pasif-konstruktif** (*passive-constructive*), yaitu dukungan yang tenang atau diam. "Oh, bagus." Lalu ia kembali menatap ponselnya.
+- **Pasif-konstruktif** (*passive-constructive*), yaitu dukungan yang tenang atau diam. "Oh, bagus."
 - **Aktif-destruktif** (*active-destructive*), yaitu tanggapan yang mengecilkan peristiwa itu. "Yakin kuat? Yang begitu biasanya tuntutannya berat, lho."
 - **Pasif-destruktif** (*passive-destructive*), yaitu tanggapan yang mengabaikan peristiwa itu. "Eh, tadi aku lihat ada kafe baru dekat rumahku."
 
-Menurut Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterlibatan dan mengajukan pertanyaan, sedangkan penanggap pasif-destruktif mengganti topik atau membelokkan cerita ke dirinya sendiri. Tanggapan pasif-konstruktif sebenarnya tidak jahat. Ia hanya belum ikut hadir.
+Menurut Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterlibatan dan mengajukan pertanyaan, sedangkan penanggap pasif-destruktif mengganti topik atau membelokkan cerita ke dirinya sendiri. Menurut buku ini, tanggapan pasif-konstruktif sebenarnya tidak jahat. Ia hanya belum ikut hadir.
 
-### Rasa Dipahami, Dihargai, dan Dipedulikan
+### Rasa Dipahami, Diakui, dan Dipedulikan
 
 [Reis (2012)](https://doi.org/10.1037/13486-002) mengajukan *perceived partner responsiveness* (kesan bahwa orang terdekat tanggap terhadap kita) sebagai salah satu prinsip yang mungkin menyatukan kajian tentang hubungan dan kesejahteraan. Dalam rumusan ulang yang dikutip [Jolink dan rekan (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/), tanggap berarti kamu merasa dipahami, diakui, dan dipedulikan oleh pasanganmu. Rasa itu diukur dengan pernyataan seperti "Pasanganku memahamiku" dan "Pasanganku melihat diriku yang sebenarnya."
 
@@ -27,7 +27,7 @@ Menurut bacaan buku ini, cara seseorang menanggapi kabar baikmu bisa menjadi sal
 
 [Drigotas dan rekan (1999)](https://doi.org/10.1037/0022-3514.77.2.293) memberi nama yang indah pada gagasan berikut: *Michelangelo phenomenon* (fenomena Michelangelo). Menurut mereka, diri seseorang dibentuk oleh cara pasangan dekatnya memandang dan memperlakukannya. Gerak menuju diri ideal disebut sebagai hasil dari peneguhan (*affirmation*) oleh pasangan. Dalam empat studi, mereka menemukan kaitan yang kuat antara peneguhan yang dirasakan dari pasangan dan gerak diri menuju diri ideal. Peneguhan itu juga berkaitan dengan kesejahteraan dan kestabilan pasangan.
 
-Dalam bahasa sehari-hari, orang yang meneguhkan melihat versi dirimu yang sedang kamu tuju, lalu memperlakukanmu seolah kamu bisa sampai ke sana.
+Dalam penjelasan buku ini, orang yang meneguhkan melihat versi dirimu yang sedang kamu tuju, lalu memperlakukanmu seolah kamu bisa sampai ke sana.
 
 ### Kepiting di Ember dan Poppy yang Dipangkas
 
@@ -58,6 +58,6 @@ Tidak ada yang sempurna di semua poin. Seperti dibahas di bab 10, kedewasaan emo
 
 ### Penutup
 
-Sejalan bukan soal sama dalam segala hal. Bacaan buku ini, bukan temuan penelitian, adalah bahwa cara seseorang menanggapi kabar baikmu, rasa dipahami yang ia berikan, dan dukungannya pada diri yang sedang kamu tuju mungkin lebih banyak bercerita daripada daftar kesamaan. Penelitian tentang kabar baik, rasa tanggap, dan fenomena Michelangelo dilakukan pada pasangan yang sudah dekat. Orang yang terus mengecilkan mimpimu menunjukkan pola yang layak kamu catat.
+Sejalan bukan soal sama dalam segala hal. Bacaan buku ini, bukan temuan penelitian, adalah bahwa cara seseorang menanggapi kabar baikmu, rasa dipahami yang ia berikan, dan dukungannya pada diri yang sedang kamu tuju mungkin lebih banyak bercerita daripada daftar kesamaan. Penelitian tentang kabar baik, rasa tanggap, dan fenomena Michelangelo membahas hubungan dekat, bukan orang yang baru kamu kenal. Masih dalam bacaan buku ini, orang yang terus mengecilkan mimpimu menunjukkan pola yang layak kamu catat.
 
-Kalau suatu hari ada orang yang menyukaimu tetapi tidak sejalan denganmu, kamu sudah tahu dari bab 7 cara menolaknya dengan jelas dan tetap hangat. Kamu boleh berterima kasih karena disukai, dan rasa terima kasih itu tidak mewajibkanmu membalas perasaannya. Kamu layak dihargai oleh orang yang berbagi nilai denganmu. Semoga buku ini menemanimu menemukan mereka. Semua sumber yang dikutip di sepanjang buku ini bisa kamu telusuri di halaman Referensi.
+Kalau suatu hari ada orang yang menyukaimu tetapi tidak sejalan denganmu, kamu sudah tahu dari bab 7 cara menolaknya dengan jelas dan tetap hangat. Kamu boleh berterima kasih karena disukai, dan rasa terima kasih itu tidak mewajibkanmu membalas perasaannya. Kamu layak dihargai oleh orang yang berbagi nilai denganmu. Semoga buku ini menemanimu menemukan mereka. Sumber yang dikutip di sepanjang buku ini bisa kamu telusuri di halaman Referensi.

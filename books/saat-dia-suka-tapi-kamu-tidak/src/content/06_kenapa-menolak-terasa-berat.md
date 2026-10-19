@@ -10,7 +10,7 @@ Di bab 1 kamu sudah berkenalan dengan penelitian [Baumeister dan rekan (1993)](h
 
 Menurut ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
 
-Ada temuan lain dari penelitian yang sama. Banyak penolak memandang usaha gigih dari pihak yang menyukai mereka sebagai sesuatu yang mengganggu dan menjengkelkan, seolah ruang pribadi mereka dimasuki. Jadi, penolak bisa merasa bersalah dan terganggu pada waktu yang sama.
+Ada temuan lain dari penelitian yang sama. Banyak penolak memandang usaha gigih dari pihak yang menyukai mereka sebagai sesuatu yang mengganggu dan menjengkelkan. Jadi, penolak bisa merasa bersalah dan terganggu pada waktu yang sama.
 
 Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu bahkan mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
 
@@ -44,7 +44,7 @@ Kekhawatiran pertama terdengar mirip dengan temuan Joel dan rekan tentang kepedu
 
 ### Mengenali Tarikan yang Membuatmu Ingin Mengiyakan
 
-Dari ketiga penelitian tadi, ada pola yang bisa kamu pegang. Rasa bersalah, rasa terganggu oleh usaha gigih, dan keinginan untuk tidak menyakiti muncul dalam cerita para penolak yang dikumpulkan penelitian-penelitian ini. Penelitian-penelitian ini tidak mengatakan bahwa perasaan itu tanda kamu sudah berbuat salah. Dalam pandangan buku ini, tidak membalas perasaan seseorang bukan kesalahan moral.
+Dari ketiga penelitian tadi, ada pola yang bisa kamu pegang. Rasa bersalah, rasa terganggu oleh usaha gigih, dan keinginan untuk tidak menyakiti muncul dalam penelitian-penelitian ini. Penelitian-penelitian ini tidak mengatakan bahwa perasaan itu tanda kamu sudah berbuat salah. Dalam pandangan buku ini, tidak membalas perasaan seseorang bukan kesalahan moral.
 
 Mengenali tarikan ini bisa menolongmu. Ketika kamu tahu bahwa rasa tidak enak memang biasa muncul saat situasinya nyata, kamu bisa berhenti sejenak sebelum menjawab. Tanyakan pada dirimu, "Apakah aku mau mengiyakan karena aku memang ingin, atau karena aku tidak tega?" Kalau jawabannya yang kedua, rasa tidak tega itu layak dihargai, tetapi tidak harus menjadi keputusanmu.
 
@@ -55,6 +55,6 @@ Peduli pada perasaan orang lain adalah hal baik. Yang perlu dijaga adalah agar k
 - Menurut Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
 - Joel dan rekan menemukan bahwa orang kurang bersedia menolak calon kencan yang tidak cocok ketika situasinya nyata, sebagian karena kepedulian pada perasaan orang lain.
 - Folkes menemukan bahwa penolak sering menyimpan alasannya dan memilih alasan yang impersonal, sementara alasan soal penampilan atau kepribadian lebih jarang diungkapkan.
-- Rasa bersalah saat menolak dilaporkan para penolak dalam penelitian itu, dan tidak berarti kamu berbuat salah.
+- Rasa bersalah saat menolak dilaporkan para penolak dalam penelitian itu, dan menurut buku ini tidak berarti kamu berbuat salah.
 
 Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah cara menyampaikannya dengan baik, sehingga jawabanmu jelas tanpa kehilangan kehangatan. Itulah yang akan kita pelajari di bab 7.

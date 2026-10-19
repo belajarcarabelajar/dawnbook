@@ -2,7 +2,7 @@
 
 Dalam satu penelitian, 88% peserta pernah mengalami setidaknya satu bentuk cinta yang tidak berbalas dalam dua tahun terakhir. Artinya, hampir sembilan dari sepuluh peserta pernah merasakannya.
 
-Mungkin kamu sedang ada di salah satu sisinya. Bisa jadi kamu yang menyimpan rasa pada seseorang yang tidak membalas. Bisa jadi juga kamu yang disukai, sementara hatimu tidak bergerak ke arah yang sama. Seorang teman sekelas yang rajin mengirim pesan di aplikasi chat setiap malam, atau kenalan dari sebuah kelas daring yang tiba-tiba mengajak bertemu, bisa membuat kamu bingung harus bersikap bagaimana.
+Mungkin kamu sedang ada di salah satu sisinya. Bisa jadi kamu yang menyimpan rasa pada seseorang yang tidak membalas. Bisa jadi juga kamu yang disukai, sementara hatimu tidak bergerak ke arah yang sama. Seorang teman sekelas yang rajin mengirim pesan di aplikasi chat setiap malam, atau kenalan dari sebuah grup diskusi daring yang tiba-tiba mengajak bertemu, bisa membuat kamu bingung harus bersikap bagaimana.
 
 Bab ini tidak langsung memberi jawaban. Tujuannya lebih sederhana: menunjukkan bahwa situasi seperti ini lazim dialami, dan bahwa kedua pihak sama-sama bisa merasa berat.
 
@@ -22,7 +22,7 @@ Daftar ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu b
 
 Mari lihat angkanya lebih dekat. Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, berusia 14 sampai 63 tahun dengan rata-rata usia 21,1 tahun. Mereka ditanya tentang pengalaman dua tahun terakhir.
 
-Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas. Sebagai pembanding, 70% pernah mengalami cinta yang setara, yaitu saling suka. Para peneliti juga mencatat bahwa jumlah kejadian semua jenis cinta tak berbalas lebih dari empat kali lipat dibanding jumlah kejadian cinta yang setara. Rata-ratanya sekitar 1,91 kejadian dari semua jenis per tahun.
+Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas. Sebagai pembanding, 70% pernah mengalami cinta yang setara, yaitu saling suka. Para peneliti juga mencatat bahwa jumlah kejadian semua jenis cinta tak berbalas lebih dari empat kali lipat dibanding jumlah kejadian cinta yang setara. Laporan itu juga mencatat sekitar 1,91 kejadian dari semua jenis per tahun.
 
 Penelitian kedua dalam laporan yang sama membandingkan rasanya. Dibanding cinta yang setara, cinta tak berbalas terasa kurang kuat pada aspek gairah, komitmen, dan aspek sejenisnya. Namun ada satu aspek yang justru lebih kuat, yaitu gejolak batin (*turmoil*). Jadi, dalam penelitian itu cinta tak berbalas tidak lebih kuat dalam segala hal, tetapi lebih bergejolak.
 
@@ -68,6 +68,6 @@ Kamu boleh membaca berurutan atau langsung melompat ke bab yang paling dekat den
 - Dalam satu sampel pelajar, 88% pernah mengalaminya dalam dua tahun terakhir, sedangkan cinta yang setara dialami 70%.
 - Cinta tak berbalas terasa kurang kuat pada gairah dan komitmen, tetapi lebih kuat pada gejolak batin.
 - Angka itu datang dari sampel kemudahan dan dari sisi orang yang menyimpan rasa, jadi bacalah sebagai petunjuk, bukan ukuran pasti.
-- Situasi ini menekan kedua belah pihak, bukan hanya orang yang ditolak.
+- Menurut Baumeister dan rekan, situasi ini menekan kedua belah pihak, bukan hanya orang yang ditolak.
 
 Sebelum memikirkan cara menolak, ada langkah yang lebih awal: menyadari bahwa seseorang sedang tertarik padamu. Masalahnya, ketertarikan jarang datang dalam kalimat yang lugas. Bagaimana kamu bisa mengenalinya ketika ia datang dalam bentuk pertanyaan yang berputar-putar?

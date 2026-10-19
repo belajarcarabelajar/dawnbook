@@ -30,7 +30,7 @@ Angka ini juga menggambarkan para responden survei itu, bukan seluruh penduduk.
 
 ### Dikagumi Berbeda dari Dijadikan Objek
 
-Pujian dari orang yang mengenalmu terasa berbeda. Seorang teman sekelas yang bilang presentasimu bagus sedang melihatmu sebagai orang utuh. Siulan dari sekelompok orang asing berbeda. Mereka tidak mengenalmu dan tidak sedang mengajakmu bicara. Yang mereka sorot hanya tubuh atau penampilanmu.
+Pujian dari orang yang mengenalmu terasa berbeda. Seorang teman sekelas yang bilang presentasimu bagus sedang melihatmu sebagai orang utuh. Siulan dari sekelompok orang asing berbeda. Mereka tidak mengenalmu dan tidak sedang mengajakmu bicara. Menurut pandangan buku ini, yang mereka sorot hanya tubuh atau penampilanmu.
 
 Karena terjadi di tempat umum dan cukup sering, orang yang menonton bisa menganggapnya biasa. Namun "biasa" bagi penonton tidak sama dengan "tidak apa-apa" bagi yang mengalaminya. Siulan dan komentar atas tubuh tercatat sebagai bentuk pelecehan verbal dalam survei KRPA di atas.
 
@@ -76,7 +76,7 @@ Kalau kamu melihat teman mengalaminya, jangan ikut bilang itu hanya bercanda. Ta
 - Dalam survei terbuka KRPA 2019, 64% responden perempuan pernah dilecehkan di ruang publik, dan pelecehan verbal (60%) paling banyak dilaporkan.
 - Survei lanjutan KRPA mencatat siulan atau suitan sebagai bentuk luring terbanyak (67%).
 - Dikagumi tidak sama dengan dijadikan objek, dan merasa tidak nyaman itu wajar.
-- Dalam satu studi, pelecehan oleh orang asing berkaitan dengan *self-objectification* dan rasa takut, dan rasa takut itu berkaitan dengan ruang gerak yang lebih sempit.
+- Dalam satu studi, pelecehan oleh orang asing berkaitan dengan *self-objectification* pada perempuan yang menanggapinya secara pasif, menyalahkan diri sendiri, atau menganggapnya tidak berbahaya, dan berkaitan dengan rasa takut, dan rasa takut itu berkaitan dengan ruang gerak yang lebih sempit.
 - UU TPKS mengatur pelecehan seksual nonfisik sebagai delik aduan, tetapi tidak memakai kata *catcalling*.
 
 Bab ini membahas perlakuan yang perlu kamu kenali dan hindari. Bab berikutnya berbalik arah, dari apa yang perlu dihindari ke apa yang layak dicari: orang-orang yang sejalan dengan nilai-nilaimu dan ikut senang saat kamu bertumbuh.

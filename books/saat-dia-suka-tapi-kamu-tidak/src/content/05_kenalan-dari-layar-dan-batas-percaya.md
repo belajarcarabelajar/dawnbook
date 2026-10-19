@@ -1,6 +1,6 @@
 ## Kenalan dari Layar dan Batas Percaya
 
-Pesan pertama datang pagi-pagi, sapaan hangat dari kenalan yang baru kamu kenal lewat sebuah kelas daring. Malamnya datang pesan lagi, menanyakan apakah kamu sudah makan. Besok pagi begitu lagi, besok malam juga. Tidak lama kemudian, kamu mulai menunggu notifikasi itu, dan hari terasa janggal kalau satu sapaan terlewat.
+Pesan pertama datang pagi-pagi, sapaan hangat dari kenalan yang baru kamu kenal lewat sebuah grup diskusi daring. Malamnya datang pesan lagi, menanyakan apakah kamu sudah makan. Besok pagi begitu lagi, besok malam juga. Tidak lama kemudian, kamu mulai menunggu notifikasi itu, dan hari terasa janggal kalau satu sapaan terlewat.
 
 Sebelum lanjut, satu hal perlu jelas. Bab ini tidak mengajakmu mencurigai semua orang yang kamu kenal lewat layar. Yang dibahas adalah cara mengatur kecepatan percaya, yaitu memberi kepercayaan sedikit demi sedikit sesuai apa yang sudah terbukti, bukan sesuai seberapa sering pesannya datang.
 

@@ -16,7 +16,7 @@ Jadi, dalam dua penelitian ini, rasa canggung yang dibayangkan pemberi lebih bes
 
 ### Kecemasan yang Membuat Pujian Ditahan
 
-Kenapa pemberi bisa salah menebak? Menurut [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003), kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya. Yang mereka khawatirkan adalah diri mereka sebagai penyampai, bukan semata perasaan penerima.
+Kenapa pemberi bisa salah menebak? Menurut [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003), kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya.
 
 Judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277) menyebut akibatnya: meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
 

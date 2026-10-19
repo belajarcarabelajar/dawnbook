@@ -30,7 +30,7 @@ Bandingkan dengan pernyataan terang-terangan: "Aku suka kamu, mau jalan berdua?"
 
 Setelah kalimat itu terucap, kalian tidak bisa lagi berpura-pura bahwa percakapan tadi hanya obrolan biasa. Apa pun jawabannya, ada sesuatu yang kini sama-sama diketahui.
 
-Pertanyaan memutar menunda momen itu. Ia mengirim sinyal tanpa mengubahnya menjadi pengetahuan bersama.
+Menurut teori ini, pertanyaan memutar menunda momen itu. Ia mengirim sinyal tanpa mengubahnya menjadi pengetahuan bersama.
 
 ### Penyangkalan Tingkat Kedua yang Mencegah Gosip
 
