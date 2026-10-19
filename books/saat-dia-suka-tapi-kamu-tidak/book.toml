@@ -1,0 +1,18 @@
+[book]
+authors = ["Kania Salsabila"]
+language = "id"
+src = "src"
+title = "Saat Dia Suka, tapi Kamu Tidak"
+description = "Panduan menghadapi perasaan yang tidak kamu balas, dari membaca sinyal dan menolak dengan jelas sampai ghosting, kenalan daring, dan mencari yang sejalan."
+
+[preprocessor.dawnbook]
+optional = true
+subject_label = "Hubungan"
+
+[output.html.print]
+enable = false
+
+[output.html]
+mathjax-support = false
+additional-css = ["../shared-header.css", "../../apps/hub/src/styles/typography.css"]
+additional-js = ["../shared-script.js"]
