@@ -45,6 +45,22 @@ describe("functions/lib/security-headers.ts", () => {
     expect(policyMap.get("style-src")).toContain("'self'");
   });
 
+  test("CONTENT_SECURITY_POLICY allows GA4 collect and Cloudflare Web Analytics endpoints", () => {
+    // Hosts measured with headless Chromium on 2026-10-20: GA4 posts to the
+    // two /g/collect hosts, and the zone-injected Cloudflare Web Analytics
+    // beacon loads its script and posts to /cdn-cgi/rum.
+    const policyMap = new Map();
+    CONTENT_SECURITY_POLICY.split("; ").forEach(directive => {
+      const parts = directive.split(" ");
+      policyMap.set(parts[0], parts.slice(1));
+    });
+
+    expect(policyMap.get("connect-src")).toContain("https://analytics.google.com");
+    expect(policyMap.get("connect-src")).toContain("https://www.google.com");
+    expect(policyMap.get("connect-src")).toContain("https://cloudflareinsights.com");
+    expect(policyMap.get("script-src")).toContain("https://static.cloudflareinsights.com");
+  });
+
   test("CONTENT_SECURITY_POLICY restricts potentially dangerous features", () => {
     const policyMap = new Map();
     CONTENT_SECURITY_POLICY.split("; ").forEach(directive => {
