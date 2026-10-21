@@ -27,6 +27,7 @@ export function serializeJsonLd(data: unknown): string {
 }
 
 export interface InjectSeoOptions {
+  /** Plain text; it is escaped here. processDirectory decodes the escaped `<title>` mdBook writes. */
   pageTitle: string;
   url: string;
   isGatedClientSide: boolean;
@@ -51,14 +52,20 @@ export function shareCardUrl(outputDir: string, slug: string, page: string): str
   return existsSync(join(outputDir, rel)) ? `https://dawnbook.belajarcarabelajar.com${rel}` : undefined;
 }
 
+const NAMED_ENTITIES: Record<string, string> = { amp: "&", lt: "<", gt: ">", quot: '"', apos: "'", nbsp: " " };
+
+/**
+ * Decodes HTML entities in one pass, including the numeric ones mdBook's
+ * templates write (`&#x27;` for an apostrophe), so `&amp;lt;` stays `&lt;`.
+ */
 export function decodeHtmlEntities(str: string): string {
-  return str
-    .replace(/&amp;/g, "&")
-    .replace(/&lt;/g, "<")
-    .replace(/&gt;/g, ">")
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&nbsp;/g, " ");
+  return str.replace(/&(#x[0-9a-f]+|#[0-9]+|[a-z]+);/gi, (entity, body: string) => {
+    if (body[0] === "#") {
+      const code = body[1] === "x" || body[1] === "X" ? parseInt(body.slice(2), 16) : parseInt(body.slice(1), 10);
+      return code > 0 && code <= 0x10ffff ? String.fromCodePoint(code) : entity;
+    }
+    return NAMED_ENTITIES[body.toLowerCase()] ?? entity;
+  });
 }
 
 export function formatSerpDescription(text: string, maxLen = 155): string {
@@ -214,7 +221,7 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
     ? `
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content="${escapeHtml(decodeHtmlEntities(ogImageAlt ?? pageTitle))}" />`
+        <meta property="og:image:alt" content="${escapeHtml(ogImageAlt ?? pageTitle)}" />`
     : "";
 
   const articleData: any = {
@@ -383,7 +390,8 @@ async function processDirectory(
 
       // Extract title from HTML
       const titleMatch = content.match(/<title>(.*?)<\/title>/i);
-      const pageTitle = titleMatch ? titleMatch[1] : "Dawnbook";
+      // mdBook's <title> is HTML-escaped; decode it once so every tag escapes it exactly once.
+      const pageTitle = titleMatch ? decodeHtmlEntities(titleMatch[1]) : "Dawnbook";
 
       // We can infer the URL path (strip .html / index.html to match canonical 200 OK Cloudflare format)
       const relativePath = fullPath.split("output")[1].replace(/\\/g, "/");

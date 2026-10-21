@@ -2,7 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test";
 import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
-import { injectSeoAndGating, shareCardUrl } from "../../scripts/inject-gating";
+import { decodeHtmlEntities, injectSeoAndGating, shareCardUrl } from "../../scripts/inject-gating";
 
 const SITE = "https://dawnbook.belajarcarabelajar.com";
 const html = "<html><head><title>Bab Satu - Buku Uji</title></head><body><main><p>Kalimat pembuka bab ini cukup panjang untuk menjadi deskripsi halaman.</p></main></body></html>";
@@ -39,10 +39,10 @@ describe("og:image", () => {
     expect(meta(out, "property", "og:image:alt")).toBe("Bab Satu - Buku Uji");
   });
 
-  test("escapes the alt text once, even when the title arrives entity-escaped from mdBook", () => {
+  test("uses the card's own title for the alt text, escaped once", () => {
     const out = injectSeoAndGating(html, {
       ...base,
-      pageTitle: "Bab Satu - Sejarah &amp; Evolusi",
+      pageTitle: "Bab Satu - Sejarah & Evolusi",
       ogImage: `${SITE}/og/x/index.png`,
       ogImageAlt: "Sejarah & Evolusi",
     });
@@ -53,6 +53,15 @@ describe("og:image", () => {
     const out = injectSeoAndGating(html, base);
     expect(meta(out, "property", "og:image")).toBe(`${SITE}/icon-512.png`);
     expect(out).not.toContain("og:image:width");
+  });
+});
+
+describe("decodeHtmlEntities", () => {
+  test("decodes named and numeric entities in one pass", () => {
+    expect(decodeHtmlEntities("Sejarah &amp; Evolusi")).toBe("Sejarah & Evolusi");
+    expect(decodeHtmlEntities("Prisoner&#x27;s &#39;Dilemma&#39; &quot;x&quot;")).toBe(`Prisoner's 'Dilemma' "x"`);
+    expect(decodeHtmlEntities("&amp;lt;b&amp;gt;")).toBe("&lt;b&gt;");
+    expect(decodeHtmlEntities("a &unknown; b &#0; c")).toBe("a &unknown; b &#0; c");
   });
 });
 
@@ -94,5 +103,18 @@ describe("inject-gating.ts and share cards", () => {
     expect(result.exitCode).toBe(0);
     const page = readFileSync(join(cwd, "output/books/buku/content/01_a.html"), "utf8");
     expect(meta(page, "property", "og:image")).toBe(`${SITE}/og/buku/content/01_a.png`);
+  });
+
+  test("escapes the mdBook title exactly once in og:title, twitter:title and JSON-LD", () => {
+    const cwd = site(true);
+    const titled = html.replace("<title>Bab Satu - Buku Uji</title>", "<title>Prisoner&#x27;s Dilemma - Sejarah &amp; Evolusi</title>");
+    touch(join(cwd, "output/books/buku/content/01_a.html"), titled);
+    expect(run(cwd).exitCode).toBe(0);
+    const page = readFileSync(join(cwd, "output/books/buku/content/01_a.html"), "utf8");
+    expect(meta(page, "property", "og:title")).toBe("Prisoner&#39;s Dilemma - Sejarah &amp; Evolusi");
+    expect(meta(page, "name", "twitter:title")).toBe("Prisoner&#39;s Dilemma - Sejarah &amp; Evolusi");
+    expect(page).toContain(`"headline": "Prisoner's Dilemma - Sejarah & Evolusi"`);
+    expect(page).not.toContain("&amp;amp;");
+    expect(page).not.toContain("&amp;#");
   });
 });
