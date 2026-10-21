@@ -37,35 +37,11 @@ Jika kita kembali ke analogi orkestra, maka **Phronesis** (Kebijaksanaan Praktis
 
 Seseorang yang memiliki integritas tinggi selalu melibatkan *Phronesis* untuk menjaga keseimbangan antar-kebajikan. Integritas memastikan tidak ada kebocoran moral di satu sisi saat kita mencoba menjadi baik di sisi yang lain.
 
+Karena itu, sebuah tindakan baru layak disebut berintegritas bila kebijaksanaan, keberanian, dan keadilan sama-sama terpenuhi dan saling menguatkan pada saat yang sama. Bila satu saja absen, tindakan itu menjadi tidak seimbang, dan karakter secara keseluruhan kehilangan integritasnya.
+
 > "Seseorang yang memiliki integritas tidak memiliki 'wajah' yang berbeda-beda untuk situasi yang berbeda. Mereka adalah pribadi yang sama di ruang rapat, di meja makan keluarga, maupun saat sendirian."
 
-## 4. Pemodelan Karakter dalam Sistem
-
-Dalam dunia rekayasa sistem atau pemrograman, kita bisa melihat konsep kesatuan ini melalui prinsip **ketergantungan objek (dependency)**. Jika kita mencoba mengodekan sebuah "Karakter yang Berintegritas", kodenya mungkin terlihat seperti ini:
-
-```python
-class KarakterUtuh:
-    def __init__(self, keberanian, kebijaksanaan, keadilan):
-        self.keberanian = keberanian
-        self.kebijaksanaan = kebijaksanaan
-        self.keadilan = keadilan
-
-    def ambil_tindakan(self, situasi):
-        # Tindakan yang berintegritas hanya bisa dihasilkan 
-        # jika semua komponen kebajikan saling memvalidasi.
-        
-        if self.kebijaksanaan.evaluasi(situasi) and \
-           self.keberanian.siap_bertindak(situasi) and \
-           self.keadilan.validasi_etika(situasi):
-            return "Tindakan Berintegritas"
-        else:
-            return "Tindakan Tidak Seimbang"
-
-# Realitas: Jika satu komponen 'null' atau bernilai negatif, 
-# seluruh sistem karakter kehilangan integritasnya.
-```
-
-## 5. Kepemimpinan dan Profesionalisme
+## 4. Kepemimpinan dan Profesionalisme
 
 Di dunia profesional, kesatuan karakter adalah hal yang membedakan seorang ahli yang kompeten dengan seorang pemimpin yang berintegritas.
 

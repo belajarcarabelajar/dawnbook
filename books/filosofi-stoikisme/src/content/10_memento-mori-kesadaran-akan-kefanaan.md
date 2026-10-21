@@ -56,26 +56,9 @@ Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada s
 - **Tanpa Memento Mori:** kamu mengejar mobil tersebut, berteriak, dan membiarkan adrenalin merusak mood kamu sepanjang hari.
 - **Dengan Memento Mori:** kamu menyadari bahwa hidup ini terlalu singkat untuk dihabiskan dengan marah kepada orang asing. kamu memilih untuk memaafkan, fokus pada tujuan, dan menghargai fakta bahwa kamu masih bernapas.
 
-### Logika Pengambilan Keputusan (Pseudo-code)
+### Email Atasan yang Agak Kasar
 
-Secara teknis, kita bisa melihat Memento Mori sebagai fungsi filter dalam algoritma harian kita:
-
-```python
-def evaluasi_masalah(kejadian):
-    is_terminal_perspective = "Apakah ini penting di akhir hayat?"
-    
-    if kejadian.impact_on_virtue == False:
-        # Jika kejadian tidak merusak karakter/kebajikan kita
-        return "Abaikan, waktu terlalu berharga"
-    else:
-        # Jika ini tentang prinsip atau kasih sayang
-        return "Berikan perhatian penuh"
-
-# Contoh Kasus
-masalah_kantor = "Email atasan yang agak kasar"
-print(evaluasi_masalah(masalah_kantor)) 
-# Output: Abaikan, waktu terlalu berharga
-```
+Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karakter atau kebajikan kamu? Kalau tidak, abaikan, karena waktu terlalu berharga. Kalau kejadian itu menyangkut prinsip atau kasih sayang, berikan perhatian penuh. Email atasan yang agak kasar, misalnya, tidak merusak kebajikan kamu, jadi kamu bisa mengabaikannya.
 
 ## 5\. Latihan Meditasi Memento Mori
 

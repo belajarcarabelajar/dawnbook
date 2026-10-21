@@ -68,37 +68,16 @@ Untuk menguji keputusan ini, manajer melakukan analisis sensitivitas:
 *   **Langkah Pengujian:** Naikkan bobot kriteria "Biaya Operasional" dari semula 20% menjadi 40%.
 *   **Dampak Akhir:** Skor total Lokasi B merosot jauh di bawah Lokasi A. Ini membuktikan bahwa Lokasi A merupakan keputusan yang tangguh menghadapi risiko fluktuasi biaya operasional.
 
-### 6. Implementasi Teknis dengan Python
+### 6. Menggeser Bobot dari Seimbang ke Dominan
 
-Jika kamu menggunakan perangkat lunak atau pemrograman untuk mengambil keputusan, analisis sensitivitas ini bisa diotomatiskan secara terprogram. Berikut contoh sederhana menggunakan pustaka Python untuk menganalisis dampak perubahan bobot:
+Supaya efek pergeseran bobot terlihat dalam angka, ambil contoh rekaan (angka ilustrasi) dengan dua vendor dan dua kriteria. Vendor A mendapat skor 8 pada Kriteria 1 dan 6 pada Kriteria 2, sedangkan Vendor B mendapat 5 dan 9. Total skor keduanya dihitung dengan rumus total skor berbobot $S_i$ di bagian 3, pertama dengan bobot seimbang, lalu dengan Kriteria 1 yang dibuat sangat dominan.
 
-```python
-import pandas as pd
+| Bobot Kriteria 1 dan 2 | Vendor A | Vendor B | Hasil |
+| :--- | :--- | :--- | :--- |
+| 50% dan 50% (awal) | (8 × 0,5) + (6 × 0,5) = **7,0** | (5 × 0,5) + (9 × 0,5) = **7,0** | Seri |
+| 80% dan 20% (uji sensitivitas) | (8 × 0,8) + (6 × 0,2) = **7,6** | (5 × 0,8) + (9 × 0,2) = **5,8** | Vendor A unggul |
 
-# Data awal: Skor alternatif terhadap 2 kriteria [Kriteria 1, Kriteria 2]
-alternatif = {
-    'Vendor_A': [8, 6],
-    'Vendor_B': [5, 9]
-}
-
-def hitung_skor(bobot):
-    hasil = {}
-    for nama, skor in alternatif.items():
-        total = (skor[0] * bobot[0]) + (skor[1] * bobot[1])
-        hasil[nama] = round(total, 2)
-    return hasil
-
-# Bobot awal (50% - 50%)
-bobot_awal = [0.5, 0.5]
-print(f"Skor Awal {bobot_awal}: {hitung_skor(bobot_awal)}")
-
-# Analisis Sensitivitas: Bagaimana jika Kriteria 1 menjadi sangat dominan (80%)?
-bobot_baru = [0.8, 0.2]
-print(f"Skor Sensitivitas {bobot_baru}: {hitung_skor(bobot_baru)}")
-```
-
-**Insight dari Kode:**
-Dengan bobot yang seimbang, Vendor B mungkin memimpin. Namun, begitu bobot Kriteria 1 ditingkatkan, Vendor A menyalip. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
+Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimpin. Begitu bobot Kriteria 1 dinaikkan menjadi 80%, Vendor A langsung unggul 7,6 lawan 5,8. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
 
 ### Ringkasan Penting
 

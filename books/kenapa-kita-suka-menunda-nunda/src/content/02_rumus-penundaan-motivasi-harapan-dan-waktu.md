@@ -6,15 +6,17 @@ Ada paradoks kecil yang hampir semua orang alami. Tugas yang paling berarti just
 
 Steel dan König (2006) menyusun **temporal motivation theory** (TMT), teori motivasi yang memasukkan waktu sebagai pemain utama. Teori ini dibangun dari beberapa gagasan sebelumnya: picoeconomics, teori ekspektansi, cumulative prospect theory, dan teori kebutuhan. Intinya diringkas dalam satu persamaan:
 
-```
-Utility = (Expectancy x Value) / (Z + Gamma(T - t))
-```
+<div>
+$$
+\text{Utility} = \frac{\text{Expectancy} \times \text{Value}}{Z + \Gamma(T - t)}
+$$
+</div>
 
 Anggap *utility* sebagai seberapa kuat tarikan sebuah tugas terasa bagimu saat ini. Simbol-simbolnya bisa dibaca begini:
 
 - **Expectancy** (harapan): seberapa yakin kamu bahwa usahamu akan berhasil.
 - **Value** (nilai): seberapa berharga hasilnya bagimu.
-- **Gamma**: sensitivitas terhadap penundaan, yang oleh penulisnya disamakan dengan impulsivitas.
+- **Gamma** ($\Gamma$): sensitivitas terhadap penundaan, yang oleh penulisnya disamakan dengan impulsivitas.
 - **T - t**: jeda waktu sampai hadiah atau hasilnya benar-benar kamu terima.
 - **Z**: konstanta agar hasil hitungan tidak meledak ketika jeda mendekati nol.
 

@@ -59,39 +59,6 @@ Untuk melihat bagaimana kriteria penilaian diterapkan dalam situasi nyata, mari 
 | **Skalabilitas** | Kemampuan sistem untuk menangani pertumbuhan volume data dan pengguna di masa mendatang. | Kualitatif (Skala 1-5) |
 | **Dukungan Teknis** | Keberadaan layanan bantuan 24/7 beserta reputasi *vendor*. | Kualitatif (Skala 1-5) |
 
-### Implementasi Teknis (Struktur Data)
-
-Bagi kamu yang mengembangkan aplikasi pendukung keputusan atau menggunakan *spreadsheet* tingkat lanjut, kriteria ini dapat direpresentasikan menggunakan format JSON terstruktur seperti berikut:
-
-```json
-{
-  "decision_project": "Pemilihan Vendor Cloud",
-  "criteria": [
-    {
-      "id": "C1",
-      "name": "Biaya Bulanan",
-      "is_independent": true,
-      "measurement_unit": "USD",
-      "type": "quantitative"
-    },
-    {
-      "id": "C2",
-      "name": "Keamanan Data",
-      "is_independent": true,
-      "measurement_unit": "Compliance Score",
-      "type": "qualitative"
-    },
-    {
-      "id": "C3",
-      "name": "Latensi Server",
-      "is_independent": true,
-      "measurement_unit": "ms",
-      "type": "quantitative"
-    }
-  ]
-}
-```
-
 ### Membeli Rumah Pertama
 
 Bayangkan kamu dan pasangan sedang berencana membeli rumah pertama. Saat ini, ada 3 kandidat rumah yang menjadi alternatif pilihan. Sebelum mulai melakukan survei fisik, kamu harus menentukan kriteria penilaian terlebih dahulu agar tidak mudah terpikat oleh aspek sekunder seperti "taman yang asri", padahal lokasinya sangat jauh dari tempat kerja.

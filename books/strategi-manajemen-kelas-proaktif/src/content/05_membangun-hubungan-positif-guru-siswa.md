@@ -81,22 +81,12 @@ Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat,
 
 Untuk memastikan kamu membangun hubungan secara merata (tidak hanya pada siswa yang populer atau yang paling bermasalah), gunakan format pelacakan sederhana seperti di bawah ini:
 
-```markdown
-|
-------------
-|
--------------
-|
--------------------
-|
-----------------------------
-|
-
-| Ani        | Robotik     | Teliti            | Memuji logika kodenya      |
-| Budi       | Sepak Bola  | Kepemimpinan      | Tanya skor pertandingan    |
-| Citra      | Melukis     | Empati            | Apresiasi bantuan ke teman |
-| Dedi       | Game Online | Strategis         | Bahas konsep kolaborasi    |
-```
+| Siswa | Minat | Kekuatan | Cara menjalin hubungan |
+| --- | --- | --- | --- |
+| Ani | Robotik | Teliti | Memuji logika kodenya |
+| Budi | Sepak Bola | Kepemimpinan | Tanya skor pertandingan |
+| Citra | Melukis | Empati | Apresiasi bantuan ke teman |
+| Dedi | Game Online | Strategis | Bahas konsep kolaborasi |
 
 > **Pesan Penting:** Siswa mungkin akan melupakan rumus yang kamu ajarkan, tetapi mereka tidak akan pernah melupakan bagaimana perasaan mereka saat berada di kelas kamu. Hubungan positif adalah investasi jangka panjang yang akan membayar dividen berupa kelas yang tenang, kooperatif, dan penuh semangat belajar.
 

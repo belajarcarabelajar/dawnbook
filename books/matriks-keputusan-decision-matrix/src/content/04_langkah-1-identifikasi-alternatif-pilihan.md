@@ -84,24 +84,6 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 2. **Vue.js** yang menawarkan kurva pembelajaran relatif cepat.
 3. **Angular** karena memiliki struktur kuat yang cocok untuk skala korporasi.
 
-### Penggunaan Kode dalam Dokumentasi
-
-Dalam sistem manajemen keputusan otomatis, alternatif sering kali direpresentasikan dalam bentuk *array* atau *list* objek sebelum diproses ke dalam matriks.
-
-```python
-# Contoh representasi alternatif dalam kode Python
-alternatif_pilihan = [
-    {"id": 1, "nama": "Cloud Provider A", "status": "Aktif"},
-    {"id": 2, "nama": "Cloud Provider B", "status": "Aktif"},
-    {"id": 3, "nama": "On-Premise Server", "status": "Eliminasi"} # Dibuang karena biaya perawatan tinggi
-]
-
-# Fungsi sederhana untuk menyaring alternatif yang relevan
-alternatif_final = [a for a in alternatif_pilihan if a['status'] == "Aktif"]
-
-print(f"Jumlah alternatif yang akan dievaluasi: {len(alternatif_final)}")
-```
-
 ### Tips Menghindari Kesalahan Umum
 
 - **Hindari *decoy option* (opsi boneka).** Kadang kita sengaja memasukkan pilihan buruk hanya agar opsi favorit terlihat menonjol. Hal ini dapat merusak objektivitas analisis.

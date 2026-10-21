@@ -56,30 +56,16 @@ Dukungan sosial terbagi menjadi dua jenis utama:
 
 ## Profil Risiko Adaptasi
 
-Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah objek data untuk memprediksi tingkat kesulitan yang mungkin dihadapi seseorang.
+Keempat faktor ini bisa dipetakan menjadi sebuah profil untuk memperkirakan tingkat kesulitan yang mungkin dihadapi seseorang. Sebagai contoh, berikut profil Andi dengan jarak budaya Indonesia ke Finlandia:
 
-```json
-{
-  "profil_individu": {
-    "nama": "Andi",
-    "jarak_budaya": {
-      "skala": 8,
-      "deskripsi": "Indonesia ke Finlandia (Bahasa & Iklim sangat kontras)"
-    },
-    "kepribadian": {
-      "keterbukaan_pengalaman": "Tinggi",
-      "toleransi_ambiguitas": "Rendah"
-    },
-    "pengalaman_internasional": false,
-    "jaringan_sosial": {
-      "kontak_lokal": 0,
-      "komunitas_asal": "Ada"
-    },
-    "prediksi_intensitas_gegar_budaya": "Tinggi",
-    "rekomendasi": "Fokus pada pelatihan bahasa dan mencari mentor lokal segera."
-  }
-}
-```
+| Faktor | Profil Andi |
+| :--- | :--- |
+| **Jarak budaya ($D$)** | Indonesia ke Finlandia, bahasa dan iklimnya sangat kontras |
+| **Kepribadian ($P$)** | Keterbukaan terhadap pengalaman tinggi, tetapi toleransi ambiguitas rendah |
+| **Pengalaman masa lalu ($E$)** | Belum punya pengalaman internasional |
+| **Dukungan sosial ($S$)** | Belum punya kontak warga lokal, tetapi ada komunitas dari negara asalnya |
+
+Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Rekomendasinya: fokus pada pelatihan bahasa dan segera mencari mentor lokal.
 
 ## Perbandingan Siti dan Budi
 

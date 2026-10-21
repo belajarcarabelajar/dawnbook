@@ -79,30 +79,6 @@ pie showData
     "Dukungan Pelanggan" : 12
 ```
 
-### Implementasi Teknis (Python Snippet)
-
-Bagi pengembang atau analis data, proses normalisasi bobot dapat diotomatisasi dengan kode sederhana berikut:
-
-```python
-# Daftar skor kepentingan kriteria (Skala 1-10)
-scores = {
-    "Keamanan": 10,
-    "Usability": 7,
-    "Biaya": 5,
-    "Support": 3
-}
-
-def calculate_weights(criteria_scores):
-    total_score = sum(criteria_scores.values())
-    # Menghitung bobot normalisasi untuk setiap kriteria
-    normalized_weights = {k: round(v / total_score, 2) for k, v in criteria_scores.items()}
-    return normalized_weights
-
-weights = calculate_weights(scores)
-print(f"Bobot Akhir: {weights}")
-# Output: {'Keamanan': 0.4, 'Usability': 0.28, 'Biaya': 0.2, 'Support': 0.12}
-```
-
 ### Tantangan dalam Pemberian Bobot
 
 - **Confirmation Bias:** Ada kecenderungan psikologis untuk sengaja meninggikan bobot kriteria tertentu demi memenangkan opsi favorit sejak awal.

@@ -102,38 +102,16 @@ Komponen penting dalam simulasi berfidelitas tinggi mencakup:
 
 ---
 
-### 5. Representasi Algoritmik Skenario Pelatihan
+### 5. Menilai Respons Peserta Simulasi Gempa
 
-Dalam perancangan platform pelatihan interaktif dan sistem instruksional otomatis, skenario keselamatan diartikulasikan ke dalam struktur logika kondisional (*if-then decision trees*). Cuplikan berikut mengilustrasikan logika evaluasi respons instingtif pada simulasi gempa bumi:
+Sebagai contoh, platform pelatihan interaktif dapat menilai keputusan awal peserta dengan aturan bersyarat yang sederhana: jika peserta memilih tindakan yang tepat, statusnya berhasil; jika tidak, statusnya kritis. Pada simulasi gempa bumi, tolok ukurnya adalah protokol *Drop, Cover, and Hold On*, respons standar yang divalidasi secara internasional.
 
-```python
-# Kerangka Logika Evaluasi Respons Cepat Gempa Bumi
-def evaluasi_respons_gempa(magnitudo_sensor: float, opsi_input: str) -> dict:
-    """
-    Mengevaluasi ketepatan keputusan evakuasi awal berdasarkan
-    protokol keselamatan Drop, Cover, and Hold On.
-    """
-    tingkat_bahaya = "Tinggi" if magnitudo_sensor >= 6.5 else "Moderat"
-    
-    # Respons standar yang divalidasi secara internasional
-    respons_tervalidasi = "B"  # Drop, Cover, and Hold On
-    
-    if opsi_input.strip().upper() == respons_tervalidasi:
-        return {
-            "status": "Berhasil",
-            "mitigasi": "Melindungi kepala, leher, dan organ vital di bawah struktur kokoh.",
-            "probabilitas_cedera": "Rendah (Penyusutan risiko hingga 85%)"
-        }
-    else:
-        return {
-            "status": "Kritis",
-            "mitigasi": "Terpapar risiko serpihan kaca, plafon runtuh, dan kehilangan keseimbangan.",
-            "probabilitas_cedera": "Sangat Tinggi (Risiko trauma fisik meningkat tajam)"
-        }
+| Respons Peserta | Status | Keterangan | Risiko Cedera |
+| :--- | :--- | :--- | :--- |
+| ***Drop, Cover, and Hold On*** | Berhasil | Kepala, leher, dan organ vital terlindungi di bawah struktur kokoh. | Rendah |
+| **Respons lain** | Kritis | Terpapar risiko serpihan kaca, plafon runtuh, dan kehilangan keseimbangan. | Sangat tinggi, risiko trauma fisik meningkat tajam |
 
-# Sasaran pengondisian: Mengulang skenario interaktif hingga tindakan tervalidasi
-# dieksekusi secara otomatis dalam batas waktu di bawah 3 detik.
-```
+Sasaran pengondisiannya adalah mengulang skenario interaktif ini sampai tindakan yang benar dieksekusi secara otomatis dalam waktu di bawah 3 detik (angka ilustrasi).
 
 ---
 

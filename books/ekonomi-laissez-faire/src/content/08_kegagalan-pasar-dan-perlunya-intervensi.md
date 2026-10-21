@@ -81,27 +81,22 @@ Saat pasar mengalami kegagalan, intervensi pemerintah diperlukan untuk memperbai
 
 #### Dampak Pajak terhadap Eksternalitas
 
-Berikut simulasi teknis menggunakan Python untuk memodelkan bagaimana pajak menginternalisasi biaya polusi ke dalam keseimbangan pasar:
+Contoh hitung sederhana berikut memakai angka ilustrasi untuk memodelkan bagaimana pajak menginternalisasi biaya polusi ke dalam keseimbangan pasar. Misalkan jumlah yang diminta konsumen adalah $Q_d = 100 - P$ dan jumlah yang ditawarkan produsen adalah $Q_s = P$, dengan $P$ sebagai harga. Pasar mencapai keseimbangan ketika keduanya sama:
 
-```python
-def market_equilibrium(price, supply_const, demand_const):
-    # Model sederhana: Qs = Qd
-    # Qd = demand_const - price
-    # Qs = supply_const + price
-    quantity = (demand_const - supply_const) / 2
-    return quantity
+<div>
+$$
+Q_d = Q_s
+$$
+</div>
 
-# Skenario 1: Pasar Bebas dengan Polusi (Biaya eksternal tidak dihitung)
-q_free_market = market_equilibrium(price=10, supply_const=0, demand_const=100)
+Pajak Pigovian sebesar 20 per unit menambah biaya produksi, sehingga produsen hanya menerima $P - 20$ dari setiap unit dan kurva penawaran bergeser ke atas menjadi $Q_s = P - 20$.
 
-# Skenario 2: Intervensi Pemerintah (Pajak Pigovian sebesar 20 per unit)
-# Pajak meningkatkan biaya produksi (menggeser kurva supply ke atas)
-q_with_intervention = market_equilibrium(price=10, supply_const=-20, demand_const=100)
+| Skenario | Penawaran | Harga keseimbangan | Jumlah produksi |
+| :--- | :--- | :--- | :--- |
+| **Pasar bebas** (biaya eksternal tidak dihitung) | $Q_s = P$ | 50 | 50 unit |
+| **Pajak Pigovian** 20 per unit | $Q_s = P - 20$ | 60 | 40 unit |
 
-print(f"Produksi Pasar Bebas: {q_free_market} unit")
-print(f"Produksi Setelah Pajak Lingkungan: {q_with_intervention} unit")
-# Output menunjukkan penyesuaian volume produksi ke tingkat yang berkelanjutan
-```
+Pajak menaikkan harga dari 50 menjadi 60 dan menurunkan produksi dari 50 menjadi 40 unit. Arah ini sejalan dengan tujuan pajak Pigovian, yaitu menahan produksi berlebih (*overproduction*) dari barang yang mencemari, seperti pabrik kimia pada bagian Eksternalitas.
 
 ### 7. Krisis Finansial 2008
 

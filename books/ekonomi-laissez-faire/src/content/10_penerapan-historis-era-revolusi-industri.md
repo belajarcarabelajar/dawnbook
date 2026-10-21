@@ -63,33 +63,20 @@ Di mana $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumulasi laba 
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
-```python
-# Simulasi Sederhana Akumulasi Modal Laissez-faire vs Intervensionis
-def simulasi_pertumbuhan():
-    modal_awal = 100
-    laba_tahunan = 0.20  # 20% keuntungan
-    pajak_laissez_faire = 0.0
-    pajak_intervensionis = 0.35 # 35% pajak
-    
-    tahun = 10
-    
-    lf_modal = modal_awal
-    int_modal = modal_awal
-    
-    for i in range(tahun):
-        # Laissez-faire: Laba diinvestasikan kembali sepenuhnya
-        lf_modal += (lf_modal * laba_tahunan) * (1 - pajak_laissez_faire)
-        
-        # Intervensionis: Laba dipotong pajak sebelum investasi kembali
-        int_modal += (int_modal * laba_tahunan) * (1 - pajak_intervensionis)
-        
-    print(f"Modal Laissez-faire setelah 10 tahun: ${round(lf_modal, 2)}")
-    print(f"Modal Intervensionis setelah 10 tahun: ${round(int_modal, 2)}")
+Perhatikan sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
 
-simulasi_pertumbuhan()
-```
+<div>
+$$
+M_t = M_0 \times \left(1 + g \times (1 - \text{pajak})\right)^t
+$$
+</div>
 
-Hasil simulasi di atas menunjukkan bahwa dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Hal ini menjelaskan alasan industri pada abad ke-19 mampu berkembang pesat.
+| Sistem | Pajak atas laba | Pertumbuhan modal per tahun | Modal setelah 10 tahun |
+| :--- | :--- | :--- | :--- |
+| **Laissez-faire** | 0% | 20% | 619,17 |
+| **Intervensionis** | 35% | 13% | 339,46 |
+
+Dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Karena angkanya rekaan, hitungan ini hanya memperlihatkan logikanya, bukan membuktikan sejarah: laba yang tidak dipajaki dan terus diinvestasikan kembali membuat modal menumpuk lebih cepat, sejalan dengan gambaran industri abad ke-19 yang berkembang pesat.
 
 ## 5. Pelajaran untuk Masa Kini
 

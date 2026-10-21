@@ -65,9 +65,20 @@ Dalam satu matriks keputusan, kamu akan sering menemui kombinasi antara data kua
 
 - **Data Kuantitatif:** Gunakan rumus normalisasi sederhana. Sebagai contoh, untuk kriteria Harga (di mana nilai yang lebih rendah justru lebih baik), kamu bisa menggunakan rumus:
 
+<div>
 $$
 \text{Skor} = \frac{\text{Harga Termurah}}{\text{Harga Alternatif}} \times \text{Skala Maksimal}
 $$
+</div>
+
+Sebagai contoh rekaan (angka ilustrasi), misalkan laptop termurah di daftarmu seharga Rp10.000.000, sedangkan Laptop A yang sedang kamu nilai seharga Rp15.000.000. Dengan skala maksimal 5, skornya dihitung seperti ini:
+
+| Alternatif | Harga | Perhitungan | Skor |
+| :--- | :--- | :--- | :---: |
+| Laptop termurah | Rp10.000.000 | (10.000.000 ÷ 10.000.000) × 5 | 5 |
+| Laptop A | Rp15.000.000 | (10.000.000 ÷ 15.000.000) × 5 | 3,33 |
+
+Laptop termurah otomatis mendapat skor penuh 5, sedangkan Laptop A mendapat 3,33 (dibulatkan dua angka di belakang koma).
 
 - **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memposisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
 
@@ -88,31 +99,6 @@ Sebuah tim ingin mengevaluasi platform CRM baru menggunakan skala penilaian 1–
 - **Skor 1:** Biaya langganan sangat tinggi, yaitu di atas USD 500 per bulan.
 - **Skor 3:** Biaya investasi bulanan sedang, berkisar antara USD 200 hingga USD 500.
 - **Skor 5:** Biaya sangat ekonomis, berada di bawah USD 200 per bulan.
-
-### Contoh Implementasi dalam Kode (Python)
-
-Jika kamu ingin mengotomatiskan proses ini, berikut adalah contoh kode Python sederhana untuk menormalisasi nilai mentah menjadi skor skala 1–5.
-
-```python
-def hitung_skor_harga(harga_alternatif, harga_minimum, harga_maksimum):
-    # Logika: Semakin murah (mendekati harga_minimum), skor semakin mendekati 5
-    # Ini adalah contoh normalisasi linier terbalik
-    if harga_alternatif <= harga_minimum:
-        return 5
-    if harga_alternatif >= harga_maksimum:
-        return 1
-    
-    skor = 5 - ((harga_alternatif - harga_minimum) / (harga_maksimum - harga_minimum) * 4)
-    return round(skor, 2)
-
-# Contoh penggunaan
-harga_laptop_a = 15000000
-min_budget = 10000000
-max_budget = 20000000
-
-skor_akhir = hitung_skor_harga(harga_laptop_a, min_budget, max_budget)
-print(f"Skor untuk harga Rp{harga_laptop_a:,} adalah: {skor_akhir}/5")
-```
 
 ### 6. Tips Menghindari Bias Penilaian
 

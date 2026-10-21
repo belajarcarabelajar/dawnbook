@@ -92,27 +92,17 @@ Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berk
 
 > **Pesan Penting:** Guru bukan polisi dari kontrak ini, melainkan penjaga gawang bersama. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
 
-## 6. Contoh Struktur Kontrak Sosial (Digital/Teknis)
+## 6. Contoh Isi Kontrak Sosial
 
-Jika kamu menggunakan platform manajemen kelas digital (seperti Google Classroom atau Notion), kamu bisa menyusun struktur kontrak dalam format yang terorganisir:
+Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagian: nilai inti, kesepakatan beserta alasannya, dan cara menjaga akuntabilitas. Susunan yang sama juga bisa kamu simpan di platform manajemen kelas digital (seperti Google Classroom atau Notion).
 
-```json
-{
-  "Classroom_Contract_2024": {
-    "Core_Value": "Saling Menghargai",
-    "Agreements": [
-      {
-        "Action": "Berbicara bergantian",
-        "Reason": "Menghargai ide setiap orang"
-      },
-      {
-        "Action": "Mengembalikan barang pada tempatnya",
-        "Reason": "Memudahkan pengguna berikutnya"
-      }
-    ],
-    "Accountability": "Diskusi restoratif jika terjadi ketidakkonsistenan"
-  }
-}
-```
+**Nilai inti:** Saling Menghargai
+
+| Kesepakatan | Alasan |
+| --- | --- |
+| Berbicara bergantian | Menghargai ide setiap orang |
+| Mengembalikan barang pada tempatnya | Memudahkan pengguna berikutnya |
+
+**Akuntabilitas:** diskusi restoratif jika terjadi ketidakkonsistenan.
 
 *Pikirkan tentang ini: Jika besok pagi kamu masuk ke kelas dan semua aturan tertulis di dinding menghilang, apakah siswa kamu tetap akan berperilaku baik karena mereka menghargai komunitasnya, atau kelas akan menjadi kacau? Jawaban kamu menentukan seberapa kuat norma yang telah kamu bangun.*

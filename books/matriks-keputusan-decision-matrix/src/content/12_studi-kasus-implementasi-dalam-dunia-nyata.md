@@ -81,41 +81,6 @@ Kamu memiliki dana simpanan dan berencana membeli apartemen pertama untuk disewa
 
 Sering kali seseorang tergoda membeli unit properti hanya karena tampilan fisiknya yang estetik. Dengan menggunakan matriks ini, kamu dipaksa untuk menguji apakah aspek estetika tersebut memang memiliki bobot yang cukup besar untuk memengaruhi keberhasilan investasimu.
 
-### Otomasi dengan Python
-
-Ketika menghadapi banyak pilihan (misalnya lebih dari sepuluh opsi), melakukan perhitungan secara manual tentu memakan waktu. Cuplikan kode Python di bawah ini mempermudah otomatisasi proses penghitungan matriks keputusan.
-
-```python
-import pandas as pd
-
-# Definisi kriteria dan bobot
-criteria = ['Biaya', 'Kecepatan', 'Keandalan', 'Teknologi']
-weights = [0.35, 0.25, 0.25, 0.15]
-
-# Data alternatif (skor 1-5)
-data = {
-    'Vendor_A': [4, 3, 4, 2],
-    'Vendor_B': [3, 5, 4, 4],
-    'Vendor_C': [2, 4, 5, 5]
-}
-
-def calculate_decision_matrix(data, weights):
-    results = {}
-    for name, scores in data.items():
-        # Menghitung skor terbobot: sum(skor * bobot)
-        weighted_score = sum(s * w for s, w in zip(scores, weights))
-        results[name] = round(weighted_score, 2)
-    return results
-
-# Eksekusi
-final_scores = calculate_decision_matrix(data, weights)
-
-# Tampilkan hasil yang diurutkan
-sorted_results = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-for rank, (name, score) in enumerate(sorted_results, 1):
-    print(f"Ranking {rank}: {name} dengan skor {score}")
-```
-
 ### Kapan Menggunakan Matriks Ini?
 
 Dalam dunia profesional, matriks keputusan sering digunakan dalam rapat direksi atau komite pengadaan untuk:

@@ -35,13 +35,11 @@ Praktik vokal standar dapat diamati pada protokol komunikasi darurat awak kabin 
 
 ### 3. Model ADR dan Prinsip 3C untuk Instruksi Darurat
 
-Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan ambiguitas penafsiran. Kerangka kerja yang terbukti efektif adalah formula **Action-Direction-Reason** (Aksi, Arah, Alasan).
+Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan ambiguitas penafsiran. Kerangka kerja yang terbukti efektif adalah formula **Action-Direction-Reason** (Aksi, Arah, Alasan):
 
-```
-[AKSI LANGSUNG]   -> Apa tindakan spesifik yang harus diambil seketika.
-[ARAH NAVIGASI]   -> Ke mana massa harus bergerak secara fisik.
-[ALASAN SINGKAT]  -> Mengapa tindakan tersebut menyelamatkan jiwa.
-```
+- **Aksi langsung:** tindakan spesifik yang harus diambil seketika.
+- **Arah navigasi:** ke mana massa harus bergerak secara fisik.
+- **Alasan singkat:** mengapa tindakan tersebut menyelamatkan jiwa.
 
 Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C):
 
@@ -63,24 +61,14 @@ Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C
 
 Di era keterhubungan digital, kepanikan dan misinformasi menyebar lebih cepat daripada kobaran fisik bencana. Ketiadaan informasi resmi menciptakan ruang hampa yang segera diisi oleh spekulasi liar dan rumor yang memperburuk histeria massal.
 
-```
-+-------------------------------------------------------------------------+
-|                  PROTOKOL PENGENDALIAN MISINFORMASI                     |
-+-------------------------------------------------------------------------+
-|  1. Akui Batas Kepastian                                               |
-|     Sampaikan fakta yang terverifikasi secara jujur:                    |
-|     "Informasi terkait titik api sedang diverifikasi tim teknis.       |
-|      Fokus utama saat ini adalah pengosongan sayap barat gedung."       |
-+-------------------------------------------------------------------------+
-|  2. Pembaruan Ritmis Berkala                                           |
-|     Rilis informasi setiap 10 hingga 15 menit secara konsisten,         |
-|     sekalipun status situasi masih belum mengalami perubahan.           |
-+-------------------------------------------------------------------------+
-|  3. Kanal Komando Tunggal                                              |
-|     Tetapkan satu titik suara resmi (pengeras suara sentral atau       |
-|     posko komando) sebagai rujukan sah seluruh evakuasi.                |
-+-------------------------------------------------------------------------+
-```
+Protokol pengendalian misinformasi terdiri atas tiga langkah:
+
+1. **Akui batas kepastian.** Sampaikan fakta yang terverifikasi secara jujur, misalnya:
+
+   > "Informasi terkait titik api sedang diverifikasi tim teknis. Fokus utama saat ini adalah pengosongan sayap barat gedung."
+
+2. **Lakukan pembaruan ritmis berkala.** Rilis informasi setiap 10 hingga 15 menit secara konsisten, sekalipun status situasi masih belum mengalami perubahan.
+3. **Tetapkan kanal komando tunggal.** Pilih satu titik suara resmi (pengeras suara sentral atau posko komando) sebagai rujukan sah seluruh evakuasi.
 
 ---
 
@@ -98,24 +86,12 @@ Ketika kebisingan suara alarm atau dentuman fisik menenggelamkan artikulasi verb
 
 ### 6. Protokol Komando Evakuasi Gedung Bertingkat
 
-Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
+Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi empat fase saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
 
-```
-[FASE 1: INTERUPSI POLA & MENARIK PERHATIAN]
-"SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
-(Suara lantang diafragma, nada bariton, kedua lengan diangkat tinggi)
-
-[FASE 2: INSTRUKSI AKSI SINGKAT]
-"Tinggalkan tas dan laptop di meja. Berbaris satu jalur sekarang."
-
-[FASE 3: PANDUAN ARAH SPASIAL PRESISI]
-"Berjalan tenang menuju tangga darurat di sebelah kiri.
-Jangan gunakan lift. Ikuti lampu hijau darurat."
-
-[FASE 4: PENEGASAN KENDALI & PENUTUPAN BARISAN]
-"Berjalan cepat, jangan saling mendahului. 
-Petugas berada di posisi paling belakang untuk memastikan seluruh ruangan kosong."
-```
+1. **Interupsi pola dan menarik perhatian.** Dengan suara lantang dari diafragma, nada bariton, dan kedua lengan diangkat tinggi, petugas berseru: "SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
+2. **Instruksi aksi singkat.** "Tinggalkan tas dan laptop di meja. Berbaris satu jalur sekarang."
+3. **Panduan arah spasial presisi.** "Berjalan tenang menuju tangga darurat di sebelah kiri. Jangan gunakan lift. Ikuti lampu hijau darurat."
+4. **Penegasan kendali dan penutupan barisan.** "Berjalan cepat, jangan saling mendahului. Petugas berada di posisi paling belakang untuk memastikan seluruh ruangan kosong."
 
 ---
 
@@ -146,9 +122,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 Sebagai sintesis pemahaman komunikasi darurat, perhatikan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
-```
-"NAIK KE LANTAI TIGA SEKARANG!"
-```
+> **"NAIK KE LANTAI TIGA SEKARANG!"**
 
 Formulasi lima kata ini secara langsung memenuhi kriteria ketat komunikasi bencana:
 1. **Aksi:** Bergerak naik.
