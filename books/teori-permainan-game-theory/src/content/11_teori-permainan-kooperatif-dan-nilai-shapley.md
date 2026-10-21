@@ -68,8 +68,21 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 **Langkah-langkah Nilai Shapley:**
 
 1. **Pemain A:** Dia harus membayar bagian dari biaya sampai ke rumahnya. Karena ada 3 orang yang menikmati perjalanan tersebut, A membayar $10.000 / 3 = 3.333$.
-2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi: $(10.000/3) + (10.000/2) = 3.333 + 5.000 = 8.333$.
-3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi: $(10.000/3) + (10.000/2) + 10.000 = 3.333 + 5.000 + 10.000 = 18.333$.
+2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi:
+
+   <div>
+   $$
+   (10.000/3) + (10.000/2) = 3.333 + 5.000 = 8.333
+   $$
+   </div>
+
+3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi:
+
+   <div>
+   $$
+   (10.000/3) + (10.000/2) + 10.000 = 3.333 + 5.000 + 10.000 = 18.333
+   $$
+   </div>
 
 **Total:** $3.333 + 8.333 + 18.333 \approx 30.000$.
 

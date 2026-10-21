@@ -77,6 +77,14 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
 - **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batinmu untuk terdengar.
 - **Gunakan "The 5 Whys":** Ketika kamu menginginkan sesuatu (misal: "Saya ingin jadi CEO"), tanyakan "Kenapa?" sebanyak lima kali. Biasanya, jawaban kelima akan mengungkap kebutuhan identitas yang sebenarnya (misal: "Saya ingin merasa dihargai").
-- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
+- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup:
+
+  <div>
+  $$
+  \text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}
+  $$
+  </div>
+
+  Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
 > **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.

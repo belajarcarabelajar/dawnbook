@@ -40,7 +40,11 @@ flowchart TD
     D -->|"merasa harus bersembunyi lebih jauh"| C
 ```
 
-$\text{Konflik} = \text{(Kebutuhan Kedekatan)}\_A \times \text{(Ketakutan akan Keintiman)}\_B$
+<div>
+$$
+\text{Konflik} = \text{(Kebutuhan Kedekatan)}_A \times \text{(Ketakutan akan Keintiman)}_B
+$$
+</div>
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 

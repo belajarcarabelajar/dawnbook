@@ -28,7 +28,13 @@ Elemen yang ada di dalam pengetahuan prosedural meliputi:
 Contoh penerapan prosedural:
 - Kamu tahu *bagaimana* cara bikin ringkasan yang bagus dari satu bab buku tebal, yaitu dengan memisahkan ide pokok dari kalimat pendukungnya.
 - Seorang programmer tahu persis *langkah-langkah* melakukan *debugging* saat kodenya error.
-- Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus $\text{momentum} = \text{massa} \times \text{kecepatan}$.
+- Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus berikut:
+
+  <div>
+  $$
+  \text{momentum} = \text{massa} \times \text{kecepatan}
+  $$
+  </div>
 
 ## 3. Pengetahuan Kondisional
 

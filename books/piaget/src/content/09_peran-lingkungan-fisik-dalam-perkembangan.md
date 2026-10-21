@@ -47,7 +47,11 @@ Mari kita lihat bagaimana konsep matematika dasar terbentuk melalui lingkungan f
 
 Tanpa adanya objek fisik (batu) untuk dimanipulasi, konsep abstrak seperti **Konservasi Jumlah** akan sulit dipahami oleh anak pada tahap operasional konkret.
 
-$\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}$
+<div>
+$$
+\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}
+$$
+</div>
 
 ## 4\. Peran Alat dan Mainan dalam Berbagai Tahapan
 

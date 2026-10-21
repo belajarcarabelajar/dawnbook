@@ -50,8 +50,21 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 **Logika Rasional:** Mari kita bandingkan dua opsi menggunakan perhitungan sederhana:
 
-1. **Lanjut Framework A:** $\text{Biaya Masa Depan} = \text{Rp } 500.000.000$
-2. **Pindah ke Framework Baru:** $\text{Biaya Adaptasi} + \text{Biaya Baru} = \text{Rp } 300.000.000$
+1. **Lanjut Framework A:**
+
+   <div>
+   $$
+   \text{Biaya Masa Depan} = \text{Rp } 500.000.000
+   $$
+   </div>
+
+2. **Pindah ke Framework Baru:**
+
+   <div>
+   $$
+   \text{Biaya Adaptasi} + \text{Biaya Baru} = \text{Rp } 300.000.000
+   $$
+   </div>
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 

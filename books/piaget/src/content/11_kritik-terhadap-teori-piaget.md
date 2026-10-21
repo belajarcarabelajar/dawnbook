@@ -70,7 +70,15 @@ Kita sudah tahu bahwa perkembangan kognitif anak tidak selalu sejajar di semua m
 Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan informasi baru secara bertubi-tubi.
 
 - **Aplikasi:** Kalau kapasitas memori kerja anak mentok di 3-4 informasi saja, guru harus memecah instruksi besar.
-- **Contoh:** $\text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}$. Biarkan anak mencernanya satu per satu.
+- **Contoh:**
+
+  <div>
+  $$
+  \text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}
+  $$
+  </div>
+
+  Biarkan anak mencernanya satu per satu.
 
 ### 3\. Latihan agar Otomatis
 

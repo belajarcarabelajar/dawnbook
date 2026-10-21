@@ -57,7 +57,13 @@ Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa,
 
 - Budi memasang alarm ponsel setiap 6 jam sekali untuk meminum parasetamol secara teratur, bahkan saat tengah malam. Dia tidak ingin melewatkan jadwal obat dan terbangun dalam kondisi kesakitan.
 - Dia memanfaatkan 'jendela kesempatan' dengan menunggu sekitar 30 menit setelah minum obat pereda nyeri sebelum mulai menyantap makanan lunak.
-- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian: $\text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam}$.
+- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian:
+
+  <div>
+  $$
+  \text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam}
+  $$
+  </div>
 
 ### Tips untuk Kenyamanan Maksimal
 

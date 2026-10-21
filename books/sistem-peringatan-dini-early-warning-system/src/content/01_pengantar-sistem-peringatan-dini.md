@@ -53,7 +53,13 @@ Maknanya praktis. Kamu tidak selalu dapat mengecilkan ancaman, tetapi dapat menu
 
 ### Waktu Respons Penentu Keselamatan
 
-Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai \\( T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi}} \\).
+Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
+
+<div>
+$$
+T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi}}
+$$
+</div>
 
 Jika satu komponen membengkak, total waktu melewati jendela aman. Deteksi cepat tidak berguna bila diseminasi macet karena jaringan padat, atau warga ragu akibat peringatan palsu sebelumnya. Perbaikan sering bukan menambah sensor, melainkan memangkas \\( T_{\text{diseminasi}} \\) dengan jalur redundan dan memangkas \\( T_{\text{reaksi}} \\) dengan latihan.
 

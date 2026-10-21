@@ -60,7 +60,17 @@ Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, m
 
 Ada kalanya hubungan bersifat melingkar: $A$ memicu $B$, lalu $B$ berbalik memperkuat $A$. Contoh klasik dalam ekonomi makro: 
 
-$\text{Kurangnya Investasi} \rightarrow \text{Kemiskinan} \rightarrow \text{Kurangnya Pendidikan} \rightarrow \text{Rendahnya Produktivitas}$
+<div>
+$$
+\text{Kurangnya Investasi} \rightarrow \text{Kemiskinan}
+$$
+</div>
+
+<div>
+$$
+\rightarrow \text{Kurangnya Pendidikan} \rightarrow \text{Rendahnya Produktivitas}
+$$
+</div>
 
 Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berputar jika tidak ada intervensi luar.
 
