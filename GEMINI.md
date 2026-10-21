@@ -62,7 +62,7 @@ This file contains critical architectural decisions and strict rules for the Daw
   - percent is `\%` in math mode (`100\%`); `\text{\%}` shows a literal "\%" in this block;
   - `\&`, `\_` and `\%` inside `\text{...}` show their backslash; write `\text{A } \& \text{ B}` and words with spaces instead of underscores;
   - `\lbrace` `\rbrace` `\Vert` `\$` work;
-  - MathJax 2 does not wrap display math, and the reading column is 750 px wide on desktop: a longer formula (often a chain of `\text{...} \rightarrow` steps) runs past the column. Split it into two protected blocks, the second starting with `\quad +` or with the arrow;
+  - MathJax 2 does not wrap display math, and the reading column is 750 px wide on desktop: a longer formula (often a chain of `\text{...} \rightarrow` steps) does not fit and the reader has to scroll it sideways (section 10). Split it into two protected blocks, the second starting with `\quad +` or with the arrow;
   - the `\text{\%}` rule in item 5 below applies only to math in ordinary Markdown (inline `$...$` in paragraphs, list items and table cells, or an old `$$` block that is not protected), where mdBook removes the backslash before MathJax runs.
 - **Underscores in inline math (measured 2026-10-21):** two subscripts in one paragraph can pair into `<em>` tags (for example `$\text{A}_{i} + \text{B}_{j}$`), which MathJax cannot typeset. Write the underscore as `\_` in inline math whenever a paragraph holds more than one subscript; mdBook turns `\_` into `_`. Never use `\(`...`\)` or `\[`...`\]` delimiters in Markdown: mdBook strips their backslashes.
 - **Currency:** never leave a bare `$` amount in prose when another `$` can follow in the same paragraph; write "USD 700 juta" or "1,78 juta dolar AS". Quoted titles keep their wording.
@@ -113,6 +113,11 @@ This file contains critical architectural decisions and strict rules for the Daw
   ```
 - **`window.load` Re-typeset Safety Net:** `shared-script.js` MUST also call `MathJax.Hub.Queue(['Typeset', MathJax.Hub])` on the `window.load` event as a final safety net for any edge cases.
 - **Symptom Check:** If a user reports "LaTeX works on Module 1 but breaks on Module 2, manual refresh fixes it" → root cause is either `async` (race condition) or bfcache. Check `head.hbs` for `async` first.
+- **Wide display math scrolls on its own (measured 2026-10-21):** `books/shared-header.css` sets `.content .MathJax_Display { overflow-x: auto; overflow-y: hidden; padding: 3px 0; }`. Before that rule, at a 390 px phone viewport (350 px column), formulas wider than the column made the whole `.content` column scroll sideways on 193 chapters in 46 books, and the rest of the formula was cut off at the screen edge. Do not remove the rule or move `overflow` onto `.content`.
+  - The padding is required: without it `overflow-y: hidden` cut the bottom pixel row of the descenders in `\text{... hingga ... bintang}` (multiple-intelligences 10). Keep it in whole pixels: 0.15em changed the rendering of 6 of 15 formulas in a screenshot test. The padding adds 3 px of space above and below every display formula.
+  - Verification: a before/after screenshot of all 583 display formulas at 1280 px (each crop follows the formula, with a clip-path control that must show differences) showed 0 changed with `3px`.
+  - After the rule, at 390 px, 206 display formulas scroll inside their own box. The column still scrolls sideways on 33 chapters in 21 books, every case caused by a long inline `$...$` formula in a paragraph or list item, which this rule does not cover; write such a formula as a protected display block instead.
+  - Some display boxes report 2 to 5 px of hidden vertical overflow (`scrollHeight` above `clientHeight`). The amount is the same at 390 and 1280 px, and at 1280 px the screenshot test shows no visible change, so no visible ink is lost there.
 
 ## 11. Search Engine Bot Bypass, Paywalled Schema & GSC API Re-indexing
 - **Search Engine Bot Edge Bypass & GSC API Rule (Rule R19)**:
