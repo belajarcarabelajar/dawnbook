@@ -6,6 +6,8 @@ import { buildAllBooks } from "./builder/mdbook-runner";
 import { writeBuiltStats } from "./builder/stats-aggregator";
 import { generateSitePages, copyAssets, buildHeaders } from "./builder/template-engine";
 import { runHeadingGate } from "./heading-gate";
+import { checkCovers, COVER_FILE } from "./check-covers";
+import { renderOgCards } from "./render-og-cards";
 
 async function build() {
   await loadEnv();
@@ -14,6 +16,14 @@ async function build() {
   const booksDir = join(rootDir, "books");
   const outputDir = join(rootDir, "output");
   const outputBooksDir = join(outputDir, "books");
+
+  // Fails before the slow mdBook builds: every book needs a cover (GEMINI.md section 27).
+  console.log("Checking book covers...");
+  const coverViolations = checkCovers(rootDir);
+  if (coverViolations.length > 0) {
+    for (const v of coverViolations) console.error(`books/${v.book}/${COVER_FILE} [${v.rule}] ${v.message}`);
+    process.exit(1);
+  }
 
   // Ensure output directories exist
   await mkdir(outputDir, { recursive: true });
@@ -32,6 +42,10 @@ async function build() {
   await generateSitePages(rootDir, outputDir, builtBooks);
 
   await copyAssets(rootDir, outputDir);
+
+  // Before inject-gating, which points each page's og:image at its card.
+  console.log("Rendering share cards...");
+  await renderOgCards(rootDir, outputDir, builtBooks);
 
   console.log("Applying anti-FOUC script to gated books...");
   await $`bun run scripts/inject-gating.ts`;

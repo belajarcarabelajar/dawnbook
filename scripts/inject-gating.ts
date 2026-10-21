@@ -1,5 +1,7 @@
 import { readdir, readFile, writeFile, stat } from "node:fs/promises";
+import { existsSync } from "node:fs";
 import { join } from "node:path";
+import { ogImagePath } from "./og/paths";
 
 export function escapeHtml(unsafe: string): string {
   return unsafe.replace(/[&<>"']/g, (m) => {
@@ -33,6 +35,8 @@ export interface InjectSeoOptions {
   bookUrl?: string;
   bookDescription?: string;
   isBookRoot?: boolean;
+  /** Absolute URL of the page's share card (GEMINI.md section 27); the site icon when absent. */
+  ogImage?: string;
 }
 
 export function decodeHtmlEntities(str: string): string {
@@ -169,7 +173,7 @@ export function markThemeScriptsCfAsync(html: string): string {
 }
 
 export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
-  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot } = options;
+  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot, ogImage } = options;
 
   let content = markThemeScriptsCfAsync(normalizeInternalLinks(html));
 
@@ -193,6 +197,13 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
   const escapedTitle = escapeHtml(pageTitle);
   const escapedUrl = escapeHtml(url);
   const defaultImage = "https://dawnbook.belajarcarabelajar.com/icon-512.png";
+  const image = escapeHtml(ogImage ?? defaultImage);
+  const cardSizeTags = ogImage
+    ? `
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:alt" content="${escapedTitle}" />`
+    : "";
 
   const articleData: any = {
     "@type": "Article",
@@ -301,11 +312,11 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
         <meta property="og:description" content="${escapedDesc}" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="${escapedUrl}" />
-        <meta property="og:image" content="${defaultImage}" />
+        <meta property="og:image" content="${image}" />${cardSizeTags}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="${escapedTitle}" />
         <meta name="twitter:description" content="${escapedDesc}" />
-        <meta name="twitter:image" content="${defaultImage}" />
+        <meta name="twitter:image" content="${image}" />
         <script type="application/ld+json">
         ${serializeJsonLd(schemaGraph)}
         </script>
@@ -376,6 +387,7 @@ async function processDirectory(
       let isGatedClientSide = false;
       let bookDescription = "";
       let isBookRoot = false;
+      let ogImage: string | undefined;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -396,6 +408,12 @@ async function processDirectory(
 
         if (page === "" || page === "index.html") {
           isBookRoot = true;
+        }
+
+        // render-og-cards writes og/<slug>/<page>.png; pages without a card keep the site icon.
+        const cardPage = isBookRoot ? "index" : page.replace(/\.html$/, "");
+        if (existsSync(join(process.cwd(), "output", ogImagePath(slug, cardPage)))) {
+          ogImage = `https://dawnbook.belajarcarabelajar.com${ogImagePath(slug, cardPage)}`;
         }
 
         if (
@@ -427,6 +445,7 @@ async function processDirectory(
         gaId,
         bookDescription,
         isBookRoot,
+        ogImage,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");
