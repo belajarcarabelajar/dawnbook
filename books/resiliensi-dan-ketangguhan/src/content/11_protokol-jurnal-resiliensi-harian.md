@@ -59,11 +59,9 @@ Bagi kamu yang menyukai data dan struktur, kamu bisa membuat resilience tracker 
 Jika kamu terbiasa dengan spreadsheet, catat tiga hal setiap hari: tingkat stres, berapa menit yang kamu butuhkan untuk pulih, dan catatan singkat tentang pemicunya. Dari dua angka pertama, indeks resiliensi harian (*Resilience Index*) dihitung dengan rumus sederhana berikut:
 
 <div>
-
 $$
 \text{Indeks Resiliensi} = \frac{\text{Tingkat Stres} \times 10}{\text{Waktu Pemulihan (menit)} + 1}
 $$
-
 </div>
 
 Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi indeks resiliensinya. Berikut contoh rekaan log selama tiga hari beserta indeksnya:
