@@ -73,29 +73,31 @@ Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prose
 
 Kamu dapat menggunakan format sederhana ini untuk mendokumentasikan strategi kamu:
 
-```text
-STRESS MANAGEMENT PROTOCOL
---------------------------
-NAMA: [Nama Kamu]
-TANGGAL: [Update Terakhir]
-
-1. SINYAL PERINGATAN (Apa yang saya rasakan saat stres mulai tinggi?):
-   - Fisik: Bahu tegang, asam lambung naik.
-   - Emosi: Mudah tersinggung, merasa kewalahan.
-
-2. STRATEGI KOPING MANDIRI (Apa yang saya lakukan?):
-   - Teknik 4-7-8 (3 siklus).
-   - Journaling selama 10 menit sebelum tidur.
-   - Jalan kaki tanpa musik di taman.
-
-3. SISTEM DUKUNGAN (Siapa yang bisa saya hubungi?):
-   - Sahabat: [Nama]
-   - Pasangan/Keluarga: [Nama]
-
-4. GARIS BATAS PROFESIONAL (Kapan saya harus ke Psikolog?):
-   - Jika saya sulit tidur lebih dari 3 hari dalam seminggu.
-   - Jika saya mulai menarik diri dari interaksi sosial sepenuhnya.
-```
+> **Protokol Manajemen Stres**
+>
+> - **Nama:** [Nama Kamu]
+> - **Tanggal:** [Update Terakhir]
+>
+> **1. Sinyal peringatan.** Apa yang saya rasakan saat stres mulai tinggi?
+>
+> - Fisik: bahu tegang, asam lambung naik.
+> - Emosi: mudah tersinggung, merasa kewalahan.
+>
+> **2. Strategi koping mandiri.** Apa yang saya lakukan?
+>
+> - Teknik 4-7-8 (3 siklus).
+> - *Journaling* selama 10 menit sebelum tidur.
+> - Jalan kaki tanpa musik di taman.
+>
+> **3. Sistem dukungan.** Siapa yang bisa saya hubungi?
+>
+> - Sahabat: [Nama]
+> - Pasangan/Keluarga: [Nama]
+>
+> **4. Garis batas profesional.** Kapan saya harus ke psikolog?
+>
+> - Jika saya sulit tidur lebih dari 3 hari dalam seminggu.
+> - Jika saya mulai menarik diri dari interaksi sosial sepenuhnya.
 
 ---
 

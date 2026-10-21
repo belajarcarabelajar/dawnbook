@@ -45,28 +45,20 @@ Mari kita bandingkan persepsi manusia akibat bias ini dengan fakta lapangan:
 
 *Kapan terakhir kali kamu mengubah keputusan besar hanya karena satu cerita menakutkan yang kamu dengar dari teman, meskipun data menunjukkan hal yang berbeda?*
 
-## 4\. Implementasi dalam Algoritma & Teknik (Perspektif Engineering)
+## 4\. Ketika Data yang Mudah Tersedia Menyesatkan
 
 Dalam dunia data science atau kecerdasan buatan, bias ketersediaan mirip dengan masalah **Sampling Bias**. Jika sebuah model AI dilatih hanya dengan data yang "mudah tersedia" (misalnya data dari pengguna internet yang aktif saja), maka model tersebut akan memiliki bias yang sama dengan manusia.
 
-Berikut adalah cuplikan kode Python sederhana untuk memvisualisasikan bagaimana "frekuensi kemunculan" memengaruhi penilaian kita terhadap probabilitas:
+Tabel berikut membandingkan frekuensi nyata empat peristiwa dengan seberapa sering peristiwa itu muncul di media, yang memengaruhi seberapa mudah ia tersedia di memori kita. Angkanya ilustrasi dengan skala fiktif, bukan data sungguhan:
 
-```python
-import matplotlib.pyplot as plt
+| Peristiwa | Frekuensi Nyata (Statistik) | Paparan Media (Ketersediaan di Memori) |
+| --- | --- | --- |
+| Penyakit Jantung | 400 | 20 |
+| Kecelakaan Pesawat | 2 | 150 |
+| Kanker | 350 | 30 |
+| Serangan Hiu | 0,5 | 200 |
 
-# Data Kejadian Nyata vs Apa yang Diberitakan (Sangat Emosional)
-events = ['Penyakit Jantung', 'Kecelakaan Pesawat', 'Kanker', 'Serangan Hiu']
-actual_stats = [400, 2, 350, 0.5] # Skala fiktif untuk ilustrasi
-media_coverage = [20, 150, 30, 200] # Berita yang dramatis mendapat porsi lebih
-
-plt.figure(figsize=(10, 5))
-plt.bar(events, actual_stats, alpha=0.5, label='Frekuensi Nyata (Statistik)')
-plt.bar(events, media_coverage, alpha=0.5, label='Ketersediaan di Memori (Paparan Media)')
-plt.ylabel('Tingkat Kepentingan/Frekuensi')
-plt.title('Bias Ketersediaan: Statistik vs Persepsi')
-plt.legend()
-plt.show()
-```
+Berita yang dramatis mendapat porsi lebih. Kecelakaan pesawat dan serangan hiu, yang paling jarang terjadi, justru paling sering diberitakan, sedangkan penyakit jantung dan kanker yang jauh lebih sering terjadi hanya mendapat sedikit liputan. Kalau penilaian kita bersandar pada apa yang paling mudah diingat, gambaran tentang mana yang paling sering terjadi pun ikut terbalik.
 
 ## 5\. Penerapan Dunia Nyata (Real-World Application)
 

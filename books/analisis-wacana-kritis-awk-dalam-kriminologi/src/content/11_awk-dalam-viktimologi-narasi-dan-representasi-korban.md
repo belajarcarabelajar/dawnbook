@@ -100,31 +100,13 @@ Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
 
 ---
 
-### 6. Word Cloud untuk Kriminologi Digital
+### 6. Diksi yang Menyalahkan Korban di Ruang Digital
 
-Bagi peneliti kriminologi digital yang ingin memetakan persepsi publik dan narasi korban di media sosial (seperti Twitter/X atau portal berita), pemrosesan bahasa alami (*Natural Language Processing*) dan analisis frekuensi kata (*word cloud*) dapat digunakan untuk mengekstrak data teks secara komputasional.
+Bagi peneliti kriminologi digital yang ingin memetakan persepsi publik dan narasi korban di media sosial (seperti Twitter/X atau portal berita), pemrosesan bahasa alami (*Natural Language Processing*) dan analisis frekuensi kata dapat digunakan untuk mengekstrak data teks secara komputasional.
 
-```python
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud
+Diksi yang dicari dalam pemetaan semacam ini adalah kata dan frasa yang menggeser kesalahan ke pundak korban, misalnya *tidak berhati-hati*, *tempat sepi*, *jam malam*, *pakaian minim*, *lalai*, *kurang pengawasan*, *risiko sendiri*, dan *nasib sial*. Sebagian di antaranya sejalan dengan sorotan pada pakaian korban dan jam kejadian yang dibahas di bagian 1 dan 3.
 
-# Data teks narasi representasi korban dalam wacana publik
-teks_berita = """
-korban tidak berhati-hati tempat sepi jam malam pakaian minim 
-lalai kurang pengawasan risiko sendiri nasib sial
-"""
-
-# Membangun visualisasi Word Cloud
-wordcloud = WordCloud(width=800, height=400, background_color='white').generate(teks_berita)
-
-plt.figure(figsize=(10, 5))
-plt.imshow(wordcloud, interpolation='bilinear')
-plt.axis('off')
-plt.title('Representasi Negatif Korban dalam Wacana Publik (Analisis AWK)')
-plt.show()
-```
-
-*Visualisasi komputasional ini membantu peneliti mengidentifikasi seberapa dominan diksi yang menyalahkan korban (victim blaming) dalam ruang digital dibandingkan dengan porsi pembahasan mengenai akuntabilitas pelaku.*
+Dengan menghitung seberapa sering diksi seperti itu muncul di ruang digital, peneliti dapat menilai seberapa dominan *victim blaming* dibandingkan dengan porsi pembahasan mengenai akuntabilitas pelaku.
 
 ---
 

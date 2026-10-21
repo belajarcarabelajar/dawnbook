@@ -69,25 +69,15 @@ Kelompok marjinal diproyeksikan akan semakin aktif mengambil alih istilah pejora
 
 Dalam bidang data science dan komputasi linguistik, pemahaman mengenai dinamika pejorasi dan ameliorasi memegang peranan penting dalam perancangan model analisis sentimen yang akurat.
 
-Berikut ilustrasi penyederhanaan deteksi pergeseran nilai rasa berbasis konteks kalimat:
+Sebagai ilustrasi yang disederhanakan, ambil lema seperti *anjay* yang memiliki polaritas ganda tergantung konteks. Nilai rasanya dapat ditebak dari kata kunci lain yang muncul dalam kalimat yang sama:
 
-```python
-# Simulasi deteksi sentimen kontekstual untuk lema multifaset
-def analyze_sentiment(word: str, context: str) -> str:
-    # Lema seperti "anjay" memiliki polaritas ganda tergantung konteks
-    context_lower = context.lower()
-    
-    if any(k in context_lower for k in ["kagum", "hebat", "keren", "indah"]):
-        return "Amelioratif/Positif: Mengekspresikan kekaguman intens."
-    elif any(k in context_lower for k in ["marah", "kesal", "benci", "rusak"]):
-        return "Pejoratif/Negatif: Berfungsi sebagai umpatan."
-    else:
-        return "Netral/Ambigu: Membutuhkan analisis konteks diskursus lanjutan."
+| Kata Kunci dalam Kalimat | Label Nilai Rasa | Fungsi Lema |
+| :--- | :--- | :--- |
+| *kagum*, *hebat*, *keren*, *indah* | Amelioratif (positif) | Mengekspresikan kekaguman intens |
+| *marah*, *kesal*, *benci*, *rusak* | Pejoratif (negatif) | Berfungsi sebagai umpatan |
+| Tidak ada satu pun kata kunci itu | Netral atau ambigu | Membutuhkan analisis konteks diskursus lanjutan |
 
-# Pengujian inferensi
-sample_text = "Wah, anjay keren sekali inovasi arsitekturnya!"
-print(analyze_sentiment("anjay", sample_text))
-```
+Pada kalimat *"Wah, anjay keren sekali inovasi arsitekturnya!"*, kata *keren* menandai *anjay* sebagai ungkapan kekaguman yang bernilai rasa amelioratif.
 
 Implementasi industri dari pemodelan ini mencakup:
 

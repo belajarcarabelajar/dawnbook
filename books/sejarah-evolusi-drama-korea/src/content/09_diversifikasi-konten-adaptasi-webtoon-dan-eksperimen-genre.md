@@ -56,19 +56,16 @@ Di dunia nyata, diversifikasi konten ini memadukan aspek artistik dengan strateg
 
 Platform global seperti Netflix or Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
 
-**Implementasi Teknis (Skenario Pengembangan Konten):** Jika kamu bekerja sebagai pengembang aplikasi atau analis data di industri media, kamu mungkin akan menemui struktur data seperti ini saat menganalisis kelayakan proyek drama selanjutnya:
+Saat menilai kelayakan proyek drama selanjutnya, data sebuah webtoon dapat dirangkum dalam satu kartu ringkas. Tabel berikut adalah contoh fiktif kartu semacam itu:
 
-```json
-{
-  "webtoon_id": "WT-9921",
-  "title": "Global Warning",
-  "genre": ["Sci-Fi", "Thriller"],
-  "monthly_active_readers": 1500000,
-  "sentiment_analysis": 0.85, 
-  "target_audience": "Gen Z & Millennials",
-  "recommended_format": "8-Episode Limited Series"
-}
-```
+| Atribut | Nilai |
+| --- | --- |
+| Judul webtoon | *Global Warning* |
+| Genre | *Sci-Fi* dan *Thriller* |
+| Pembaca aktif per bulan | 1.500.000 |
+| Skor *sentiment analysis* | 0,85 |
+| Target penonton | Gen Z dan Milenial |
+| Format yang disarankan | Serial terbatas 8 episode |
 
 *Keterangan: Hasil sentiment analysis sebesar 0,85 menunjukkan respons pembaca yang sangat positif, menjadikannya kandidat kuat untuk masuk ke tahap produksi.*
 

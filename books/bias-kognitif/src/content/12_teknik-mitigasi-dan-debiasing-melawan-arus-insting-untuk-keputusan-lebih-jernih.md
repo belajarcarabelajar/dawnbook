@@ -72,30 +72,9 @@ Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk m
 | Wawancara dilakukan secara bebas tanpa struktur tetap. | **Structured Interview:** Memberikan pertanyaan yang sama persis dengan bobot nilai yang sudah ditentukan sebelumnya. |
 | Penilaian berdasarkan "kecocokan budaya" yang subjektif. | **Work Sample Test:** Memberikan tugas nyata (misal: buat rencana kampanye) untuk menilai kompetensi teknis secara objektif. |
 
-## 5\. Kerangka Keputusan (Pseudocode)
+## 5\. Lima Langkah Menuju Keputusan Objektif
 
-Bagi kamu yang menyukai pendekatan sistematis, berikut adalah algoritma sederhana yang bisa kamu gunakan sebelum mengetuk palu sebuah keputusan penting:
-
-```python
-def ambil_keputusan_objektif(isu, hipotesis_awal):
-    # 1. Identifikasi Potensi Bias
-    print(f"Menganalisis: {isu}")
-    
-    # 2. Consider the Opposite
-    kontra_argumen = cari_bukti_berlawanan(hipotesis_awal)
-    
-    # 3. Pre-mortem Analysis
-    if skenario_gagal(hipotesis_awal) == True:
-        identifikasi_risiko()
-        
-    # 4. Konsultasi Luar (Outside View)
-    data_statistik = cari_base_rate_data(isu)
-    
-    # 5. Keputusan Akhir
-    return evaluasi_akhir(hipotesis_awal, kontra_argumen, data_statistik)
-```
-
-Bagi kamu yang lebih mudah membaca gambar daripada kode, kelima langkah itu tampak seperti ini.
+Bagi kamu yang menyukai pendekatan sistematis, ada lima langkah sederhana yang bisa kamu tempuh sebelum mengetuk palu sebuah keputusan penting. Pertama, identifikasi potensi bias. Kedua, lakukan *Consider the Opposite* dengan mencari bukti yang berlawanan. Ketiga, jalankan *pre-mortem*; bila muncul skenario gagal, identifikasi risikonya. Keempat, lakukan konsultasi luar (*Outside View*) dengan mencari data *base rate*. Kelima, ambil keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik itu. Urutannya tampak pada bagan berikut.
 
 ```mermaid
 flowchart TD

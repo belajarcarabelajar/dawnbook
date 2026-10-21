@@ -75,30 +75,9 @@ Seorang manajer TI ingin meyakinkan perusahaan untuk beralih ke *cloud computing
 - **Premis 3:** Cloud computing memfasilitasi akses data jarak jauh secara real-time. (Fakta Teknis)
 - **Konklusi:** Perusahaan harus segera beralih ke sistem cloud. (Tindakan yang diusulkan)
 
-## 5\. Analisis Argumen dalam Coding
+Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misalnya biaya perawatan cloud ternyata tidak lebih murah, argumen untuk pindah menjadi tidak cukup kuat dan perusahaan punya alasan untuk tetap memakai sistem lama.
 
-Dalam dunia pemrograman dan rekayasa perangkat lunak, struktur premis dan konklusi mirip dengan struktur *conditional logic*.
-
-```python
-# Analogi Struktur Argumen dalam Kode
-
-def evaluasi_keputusan(biaya_perawatan, butuh_remote):
-    # Premis 1: Biaya lebih murah
-    premis_1 = biaya_perawatan < 0.7  # (diskon 30%)
-    
-    # Premis 2 & 3: Kebutuhan operasional
-    premis_2_dan_3 = butuh_remote == True
-    
-    # Evaluasi Argumen (Logical AND)
-    if premis_1 and premis_2_dan_3:
-        return "Konklusi: Migrasi ke Cloud sekarang!"
-    else:
-        return "Konklusi: Tetap gunakan sistem lama, argumen tidak cukup kuat."
-
-# Output didasarkan pada kebenaran premis yang diberikan
-```
-
-## 6\. Latihan Mandiri
+## 5\. Latihan Mandiri
 
 Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
 

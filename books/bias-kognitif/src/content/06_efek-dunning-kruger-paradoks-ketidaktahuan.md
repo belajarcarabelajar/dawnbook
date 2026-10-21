@@ -68,32 +68,9 @@ Bayangkan sebuah tugas untuk mengoptimalkan kode pengolah data.
 - **Junior (Peak of Mt. Stupid):** *"Oh, ini gampang! Cukup pakai nested loop dan selesai dalam 5 menit. Saya paling jago di tim ini!"*
 - **Senior (Valley of Despair/Slope of Enlightenment):** *"Hm, ini kompleks. Kita harus mempertimbangkan kompleksitas waktu $O(n^2)$, penggunaan memori, dan potensi kebocoran data. Saya harus meriset algoritma yang lebih efisien dulu."*
 
+Ambil contoh tugas mencari data yang muncul ganda. Si junior membandingkan setiap data dengan semua data sesudahnya satu per satu dan yakin itulah solusi terbaik, padahal cara itu memang cepat ditulis tetapi tidak efisien untuk data berskala besar. Si senior cukup menelusuri data sekali sambil mencatat data yang sudah pernah muncul, dengan sadar bahwa catatan itu memakai memori tambahan demi kecepatan.
+
 **Analogi Visual:** Seorang pemula melihat hutan dan berkata, "Ini hanya kumpulan pohon." Seorang ahli melihat hutan dan melihat ekosistem yang terdiri dari ribuan spesies, pola tanah, dan interaksi biologis yang rumit.
-
-```python
-# Contoh ilustrasi perbedaan pendekatan (Simulasi Logika)
-
-# Pendekatan Pemula (Cepat tapi tidak efisien untuk skala besar)
-def find_duplicates_beginner(arr):
-    # Percaya diri tinggi bahwa ini solusi terbaik
-    duplicates = []
-    for i in range(len(arr)):
-        for j in range(i + 1, len(arr)):
-            if arr[i] == arr[j]:
-                duplicates.append(arr[i])
-    return duplicates
-
-# Pendekatan Ahli (Sadar akan skalabilitas dan performa)
-def find_duplicates_expert(arr):
-    # Menyadari adanya trade-off memori dan kecepatan
-    seen = set()
-    duplicates = set()
-    for item in arr:
-        if item in seen:
-            duplicates.add(item)
-        seen.add(item)
-    return list(duplicates)
-```
 
 ## 5\. Mengapa Ini Berbahaya?
 

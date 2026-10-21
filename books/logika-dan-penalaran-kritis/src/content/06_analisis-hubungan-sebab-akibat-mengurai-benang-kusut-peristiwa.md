@@ -83,23 +83,11 @@ Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) 
 
 ## 5. Skenario Aplikasi Praktis
 
-### Rekayasa Perangkat Lunak & Programming (Debugging)
+### Server yang Mati Setiap Tengah Malam
 
-Dalam dunia rekayasa perangkat lunak, seorang *engineer* sering memanfaatkan metode **"The 5 Whys"** untuk melacak akar masalah (*root cause*) dari kegagalan sistem.
+Dalam dunia rekayasa perangkat lunak, seorang *engineer* sering memanfaatkan metode **"The 5 Whys"** untuk melacak akar masalah (*root cause*) dari kegagalan sistem. Dalam pelacakan itu, ia tetap harus memisahkan korelasi dari sebab yang terbukti.
 
-```python
-def check_system_failure(error_log):
-    # Analisis Korelasi:
-    # 1. Server mati setiap pukul 00.00.
-    # 2. Pembaruan (update) otomatis berjalan setiap pukul 00.00.
-    
-    # Hipotesis Kausalitas:
-    # Pembaruan otomatis memakan memori terlalu besar (sebab) -> Crash (akibat)
-    
-    if "memory_limit_exceeded" in error_log:
-        return "Root cause found: Optimization needed in update script"
-    return "Correlation found, but causality not confirmed"
-```
+Misalnya, sebuah server selalu mati setiap pukul 00.00, dan pada jam yang sama pembaruan (*update*) otomatis juga berjalan. Sejauh ini, yang ditemukan baru korelasi. Dari sana, *engineer* menyusun hipotesis kausal: pembaruan otomatis memakan memori terlalu besar (sebab) sehingga server *crash* (akibat). Hipotesis itu baru menguat jika catatan galat (*error log*) memuat pesan bahwa batas memori terlampaui. Jika pesan itu ada, akar masalahnya kemungkinan besar ditemukan dan proses pembaruannya perlu dioptimalkan. Jika tidak ada, yang tersisa hanyalah korelasi, sedangkan hubungan sebab-akibatnya belum terkonfirmasi.
 
 ### Formulasi Kebijakan Publik
 

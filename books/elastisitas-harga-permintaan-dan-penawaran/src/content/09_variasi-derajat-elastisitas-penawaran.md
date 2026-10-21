@@ -34,8 +34,8 @@ Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memaso
 | **Elastis Uniter** | $E_s = 1$ | Respon proporsional | Diagonal dari nol |
 | **Elastis** | $E_s > 1$ | Respon sangat sensitif | Landai |
 | **Elastis Sempurna** | $E_s = \infty$ | Respon tak terhingga | Horizontal |
-## Aplikasi Praktis & Simulasi Teknis
-Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering menggunakan algoritma sederhana untuk mengklasifikasikan data penjualan berdasarkan elastisitasnya.
+## Menggolongkan Data Penawaran
+Dalam penetapan harga (*pricing*) atau analisis data ekonomi, data penjualan sering perlu digolongkan berdasarkan elastisitasnya. Caranya sederhana: hitung nilai $E_s$, lalu cocokkan dengan kolom nilai koefisien pada tabel ringkasan di atas.
 ### Contoh Skenario Dunia Nyata
 Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 
@@ -46,30 +46,6 @@ E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
 $$
 
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
-### Kode Python untuk Klasifikasi Elastisitas Otomatis
-Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:
-```python
-def classify_supply_elasticity(price_change_pct, quantity_change_pct):
-    if price_change_pct == 0:
-        return "Undefined (Price change cannot be zero)"
-    # Menghitung Koefisien Es
-    es = abs(quantity_change_pct / price_change_pct)
-    if es == 0:
-        return f"Es = {es}: Inelastis Sempurna"
-    elif 0 < es < 1:
-        return f"Es = {es}: Inelastis"
-    elif es == 1:
-        return f"Es = {es}: Unitary"
-    elif es > 1:
-        # Menangani nilai yang sangat besar sebagai tak terhingga secara praktis
-        if es > 100:
-            return f"Es = {es}: Elastis Sempurna (Pendekatan)"
-        return f"Es = {es}: Elastis"
-# Contoh penggunaan:
-# Harga naik 20%, Penawaran naik 50%
-print(classify_supply_elasticity(20, 50))
-# Output: Es = 2.5: Elastis
-```
 ## Mengapa Memahami Variasi Ini Penting?
 > **Insight Penting:** Bagi pemerintah, memahami derajat elastisitas penawaran sangat penting saat akan menerapkan pajak. Jika penawaran suatu barang **inelastis** (seperti bensin atau tanah), maka produsen tidak bisa menghindar dengan mengurangi produksi, sehingga beban pajak akan lebih banyak ditanggung oleh pihak yang kurang fleksibel dalam menyesuaikan diri.
 Sebagai pengusaha, memiliki fleksibilitas produksi yang tinggi memungkinkan bisnis berada di kategori penawaran elastis. Hal ini membuat perusahaan dapat merespon lonjakan harga pasar secara cepat dan memaksimalkan potensi keuntungan.

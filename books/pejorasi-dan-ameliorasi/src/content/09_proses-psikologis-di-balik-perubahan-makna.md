@@ -67,26 +67,13 @@ Dalam dunia profesional dan komunikasi strategis, pemahaman atas psikologi perub
 **Skenario Penjenamaan Produk:**
 Sebuah produsen pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (pejorasi). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (ameliorasi) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
 
-```python
-# Simulasi Pemilihan Diksi Berdasarkan Skor Nilai Rasa Emosional
-def tentukan_diksi(konteks: str, opsi_kata: list[str]) -> str:
-    # Bobot psikologis: skala 1 (sangat pejoratif) hingga 10 (sangat amelioratif)
-    skor_konotasi = {
-        "asisten": 8,
-        "pembantu": 3,
-        "difabel": 9,
-        "cacat": 2,
-        "wanita": 8,
-        "betina": 1
-    }
-    
-    pilihan_optimal = max(opsi_kata, key=lambda kata: skor_konotasi.get(kata, 5))
-    return f"Pada konteks {konteks}, diksi terpilih adalah: '{pilihan_optimal}'"
+Pilihan kata dalam konteks formal mengikuti logika yang sama. Dari setiap pasangan berikut, kata yang cenderung dipilih adalah yang bernilai rasa lebih positif (*betina* lazim dipakai untuk hewan, sehingga terasa merendahkan bila dipakai untuk manusia):
 
-# Contoh Eksekusi
-print(tentukan_diksi("Formal", ["asisten", "pembantu"]))
-# Output: Pada konteks Formal, diksi terpilih adalah: 'asisten'
-```
+| Cenderung Pejoratif (Dihindari) | Cenderung Amelioratif (Dipilih) |
+| :--- | :--- |
+| *pembantu* | *asisten rumah tangga* |
+| *cacat* | *difabel* |
+| *betina* | *wanita* |
 
 ### 6. *Negativity Bias*
 

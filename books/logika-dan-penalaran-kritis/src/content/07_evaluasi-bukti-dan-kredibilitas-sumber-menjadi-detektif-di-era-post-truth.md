@@ -73,27 +73,11 @@ Dalam dunia teknik atau data science, evaluasi bukti sering kali melibatkan peme
 
 ### Memverifikasi Integritas File
 
-Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipulasi saat transmisi? Kita menggunakan fungsi *hashing*.
+Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipulasi saat transmisi? Caranya dengan memeriksa *hash*, yaitu deretan karakter yang dihitung dari seluruh isi file. Langkahnya ada tiga:
 
-```python
-import hashlib
-
-def verify_data_integrity(file_path, original_hash):
-    sha256_hash = hashlib.sha256()
-    with open(file_path, "rb") as f:
-        # Membaca file dalam blok untuk efisiensi memori
-        for byte_block in iter(lambda: f.read(4096), b""):
-            sha256_hash.update(byte_block)
-    
-    current_hash = sha256_hash.hexdigest()
-    if current_hash == original_hash:
-        return "Data Valid: Integritas Terjamin"
-    else:
-        return "Data Tidak Valid: Ada kemungkinan manipulasi!"
-
-# Contoh penggunaan
-# print(verify_data_integrity("data_riset.csv", "e3b0c4429..."))
-```
+1. **Siapkan hash asli.** Ambil nilai *hash* asli dari sumber data tersebut.
+2. **Hitung hash file unduhanmu.** Hitung *hash* file yang kamu terima dengan algoritma SHA-256.
+3. **Bandingkan keduanya.** Jika kedua nilai sama persis, integritas data terjamin. Jika berbeda, ada kemungkinan data telah dimanipulasi.
 
 ### Deteksi Bias dalam Dataset (AI/ML)
 

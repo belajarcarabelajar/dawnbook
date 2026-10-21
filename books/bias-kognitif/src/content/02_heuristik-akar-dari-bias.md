@@ -62,22 +62,7 @@ Seorang Senior Developer diminta memberikan estimasi waktu untuk fitur baru yang
 - **Kesalahan (Bias):** Ia gagal memperhitungkan kompleksitas integrasi database baru atau potensi bug (ini disebut *Planning Fallacy*).
 - **Hasil:** Proyek molor karena ia menggunakan jalan pintas ingatan alih-alih melakukan analisis teknis mendalam.
 
-### Kode Simulasi Sederhana (Pseudo-code)
-
-Bayangkan sebuah algoritma pengambilan keputusan "Heuristik" vs "Analitis":
-
-```python
-def ambil_keputusan(data_kompleks):
-    # Pendekatan Heuristik (Sistem 1)
-    if rasa_suka_pada_opsi(data_kompleks):
-        return "Eksekusi Sekarang!" # Cepat, sedikit energi
-    
-    # Pendekatan Analitis (Sistem 2)
-    # Memerlukan iterasi berat dan validasi data
-    # for data in data_kompleks:
-    #     validasi_statistik(data)
-    #     hitung_risiko_jangka_panjang(data)
-```
+Secara umum, perbedaan antara jalan pintas dan analisis mendalam bisa diringkas begini. Jalur heuristik (Sistem 1) cukup dipicu oleh rasa suka pada sebuah opsi, lalu opsi itu langsung dieksekusi: cepat dan hanya butuh sedikit energi. Jalur analitis (Sistem 2) jauh lebih berat, karena setiap data harus divalidasi secara statistik dan risiko jangka panjangnya dihitung lebih dulu.
 
 ## 6\. Cara Mengatasi Bias Heuristik
 

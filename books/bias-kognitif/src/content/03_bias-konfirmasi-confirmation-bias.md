@@ -44,23 +44,17 @@ Seorang programmer yakin bahwa *bug* di aplikasinya disebabkan oleh masalah jari
 2. Dia mengabaikan pesan error di log *database* yang sebenarnya menunjukkan kesalahan sintaks.
 3. Dia menyimpulkan bahwa "jaringan memang sedang tidak stabil hari ini" meskipun datanya berkata lain.
 
-**Contoh Kode (Logika Filter yang Salah):** Seringkali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
+**Filter Rekomendasi yang Ikut Bias:** Seringkali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
 
-```python
-# Simulasi filter informasi yang bias dalam sebuah algoritma rekomendasi
-user_belief = "Teknologi A lebih baik dari Teknologi B"
-all_news = [
-    {"title": "Kelebihan Teknologi A", "sentiment": "positive"},
-    {"title": "Kegagalan Teknologi A", "sentiment": "negative"},
-    {"title": "Inovasi Baru Teknologi B", "sentiment": "positive"}
-]
+Misalnya, seorang pengguna yakin bahwa Teknologi A lebih baik dari Teknologi B. Algoritma rekomendasi yang bias hanya menampilkan apa yang disukai pengguna itu, yaitu berita tentang Teknologi A yang bernada positif:
 
-# Algoritma yang bias hanya akan menampilkan apa yang disukai pengguna
-filtered_news = [news for news in all_news if "A" in news['title'] and news['sentiment'] == "positive"]
+| Judul Berita | Sentimen | Ditampilkan ke Pengguna? |
+| --- | --- | --- |
+| Kelebihan Teknologi A | Positif | Ya |
+| Kegagalan Teknologi A | Negatif | Tidak |
+| Inovasi Baru Teknologi B | Positif | Tidak |
 
-print(f"Hasil untuk pengguna: {filtered_news}")
-# Output ini akan memperkuat keyakinan pengguna tanpa memberi sudut pandang lain.
-```
+Hanya satu dari tiga berita yang sampai ke pengguna, dan berita itu justru memperkuat keyakinannya tanpa memberi sudut pandang lain.
 
 ## Aplikasi di Dunia Nyata
 

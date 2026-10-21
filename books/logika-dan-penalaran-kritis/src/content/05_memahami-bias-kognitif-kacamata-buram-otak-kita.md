@@ -80,20 +80,7 @@ Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mere
 
 Seorang programmer mungkin terkena bias konfirmasi saat melakukan *debugging*. Mereka yakin letak kesalahannya ada di modul A, sehingga mereka terus memeriksa modul A berkali-kali dan mengabaikan kemungkinan bahwa masalah sebenarnya ada di modul B yang sangat sederhana.
 
-```python
-# Contoh simulasi bias konfirmasi dalam logika sederhana
-def check_logic(input_val):
-    # Programmer sangat yakin input_val harus positif
-    # (Bias: Hanya mengetes skenario positif)
-    if input_val > 0:
-        return "System OK"
-    else:
-        # Bagian ini jarang dites karena programmer "yakin" input selalu benar
-        return "Error Unhandled" 
-
-# Berpikir kritis berarti mengetes skenario yang membuktikan kita SALAH
-print(check_logic(-1)) # Melawan bias konfirmasi
-```
+Berpikir kritis di sini berarti sengaja menguji skenario yang bisa membuktikan dugaan mereka salah. Programmer yang yakin sebuah input selalu bernilai positif, misalnya, perlu mencoba memasukkan angka negatif, bukan hanya mengulang uji yang pasti lolos.
 
 ### Cara Memitigasi Bias Kognitif
 
