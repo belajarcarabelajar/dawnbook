@@ -47,37 +47,11 @@ Untuk menjaga kepercayaan konsumen, pengiklan dan pengembang teknologi harus mem
 
 ## 4. Consent Management Platform (CMP)
 
-Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Berikut adalah logika sederhana bagaimana sebuah situs web harus menangani skrip pelacakan berdasarkan pilihan pengguna.
+Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Secara sederhana, beginilah cara sebuah situs web seharusnya menangani pelacak iklan berdasarkan pilihan pengguna di banner privasi:
 
-### Contoh Kode JavaScript
-
-```javascript
-// Fungsi untuk memuat tracker iklan hanya jika pengguna setuju
-function loadAdvertisingScripts() {
-    const userConsent = localStorage.getItem('ad_consent');
-
-    if (userConsent === 'granted') {
-        console.log("Memuat skrip pelacakan iklan...");
-        // Kode untuk memicu Facebook Pixel atau Google Ads
-        // initializeAds();
-    } else {
-        console.log("Izin ditolak. Menggunakan iklan generatif tanpa pelacakan.");
-        // Tetap tampilkan iklan, tapi yang tidak dipersonalisasi
-    }
-}
-
-// Menangani klik pada banner privasi
-document.getElementById('btn-accept').addEventListener('click', () => {
-    localStorage.setItem('ad_consent', 'granted');
-    loadAdvertisingScripts();
-});
-
-document.getElementById('btn-decline').addEventListener('click', () => {
-    localStorage.setItem('ad_consent', 'denied');
-    // Pastikan semua cookie pelacakan yang ada dihapus
-    clearTrackingCookies();
-});
-```
+1. **Periksa dulu pilihan pengguna.** Sebelum memuat pelacak iklan (misalnya Facebook Pixel atau Google Ads), situs memeriksa pilihan yang tersimpan. Pelacak hanya dimuat jika pengguna sudah setuju. Jika pengguna belum setuju atau menolak, situs tetap menampilkan iklan, tetapi iklan yang tidak dipersonalisasi dan tanpa pelacakan.
+2. **Tombol "Setuju" ditekan.** Situs menyimpan persetujuan itu, lalu memuat pelacak iklan.
+3. **Tombol "Tolak" ditekan.** Situs menyimpan penolakan itu dan memastikan semua cookie pelacakan yang sudah ada dihapus.
 
 ## 5. Skandal Cambridge Analytica
 

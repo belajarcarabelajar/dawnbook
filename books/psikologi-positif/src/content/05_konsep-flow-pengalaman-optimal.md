@@ -82,23 +82,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 
-Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit.
-
-```python
-# Contoh pseudocode untuk menggambarkan 'feedback loop' yang cepat
-# Pengembang memanfaatkan automated testing demi memperoleh umpan balik instan
-
-def test_encryption_logic():
-    # Tantangan: Algoritma enkripsi harus selesai dieksekusi kurang dari 10 ms
-    result = complex_encryption_algorithm(data)
-    
-    # Umpan balik instan: Jika asersi gagal, pengembang langsung mengetahui letak kesalahannya
-    assert result.is_secure == True
-    assert result.processing_time < 0.01
-
-# Berkat umpan balik otomatis ini, pengembang tetap berada di jalur fokus ('flow channel')
-# tanpa terdistraksi oleh waktu tunggu yang lama.
-```
+Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
 
 **Pola Kerja Pendukung di Tempat Kerja:**
 

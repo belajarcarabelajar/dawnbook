@@ -163,44 +163,14 @@ $$
 C_p = \frac{p - p_\infty}{\frac{1}{2} \rho_\infty v_\infty^2}
 $$
 
-Berikut implementasi Python menggunakan integrasi numerik aturan trapesium (*composite trapezoidal rule*) untuk menghitung estimasi $C_l$ dan membandingkan integrasi numerik terhadap profil tekanan diskret:
+Dalam praktik, nilai $C_p$ hanya diketahui pada titik-titik diskret di sepanjang kord, misalnya di posisi setiap lubang *pressure taps*. Integral tersebut lalu dihitung secara numerik, misalnya dengan aturan trapesium (*composite trapezoidal rule*):
 
-```python
-import numpy as np
+1. Kord dibagi menjadi pias-pias kecil di antara titik ukur yang berdekatan.
+2. Selisih $C_{p,l} - C_{p,u}$ di kedua ujung setiap pias dirata-rata.
+3. Rata-rata itu dikalikan lebar piasnya.
+4. Semua hasil itu dijumlahkan menjadi $C_l$.
 
-def hitung_koefisien_angkat(x_chord, cp_upper, cp_lower):
-    """
-    Menghitung koefisien gaya angkat (Cl) dari integrasi selisih Cp
-    menggunakan metode trapesium numerik.
-    
-    Parameter:
-    x_chord  : Array posisi tak berdimensi x/c dari 0.0 (leading edge) hingga 1.0 (trailing edge)
-    cp_upper : Distribusi Cp pada permukaan atas airfoil
-    cp_lower : Distribusi Cp pada permukaan bawah airfoil
-    
-    Return:
-    cl       : Koefisien gaya angkat (Sectional Lift Coefficient)
-    """
-    # Selisih tekanan netto antara permukaan bawah dan atas
-    delta_cp = cp_lower - cp_upper
-    
-    # Integrasi numerik sepanjang chord x/c
-    cl = np.trapz(delta_cp, x_chord)
-    return cl
-
-# Domain koordinat tak berdimensi x/c
-n_titik = 150
-x = np.linspace(0.0, 1.0, n_titik)
-
-# Model representatif distribusi tekanan untuk sudut serang moderat
-# Permukaan atas mengalami hisapan (Cp bernilai negatif)
-cp_atas = -1.8 * (1.0 - x)**0.5 * (1.0 - x**1.5)
-# Permukaan bawah mengalami tekanan positif
-cp_bawah = 0.6 * (1.0 - x)**0.8
-
-cl_hasil = hitung_koefisien_angkat(x, cp_atas, cp_bawah)
-print(f"Koefisien Gaya Angkat (Cl) terhitung: {cl_hasil:.4f}")
-```
+Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
 
 ---
 

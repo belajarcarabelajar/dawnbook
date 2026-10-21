@@ -38,25 +38,13 @@ Digital minimalis tidak anti-teknologi. Mereka justru memanfaatkan alat bantu di
 
 Jika kamu mendapati dirimu melakukan hal yang sama berulang kali (misalnya, memindahkan data dari email ke spreadsheet), sudah saatnya beralih ke alat otomatisasi.
 
-**Contoh Kasus Teknikal Otomasi Organisasi File**
-Seorang profesional kreatif mungkin menghabiskan 15 menit sehari hanya untuk merapikan folder unduhan. Dengan script sederhana (Python), tugas ini bisa dihilangkan selamanya:
+**Folder Unduhan yang Merapikan Diri Sendiri**
+Seorang profesional kreatif mungkin menghabiskan 15 menit sehari hanya untuk merapikan folder unduhan. Dengan alat otomatisasi sederhana, tugas ini bisa dihilangkan selamanya. Alat itu cukup memindahkan file PDF dan gambar di folder unduhan ke folder tujuannya, sementara file jenis lain dibiarkan di tempatnya:
 
-```python
-import os
-import shutil
-
-# Jalur folder yang ingin dirapikan
-download_path = '/Users/nama/Downloads'
-
-# Logika sederhana untuk memindahkan file berdasarkan ekstensi
-for filename in os.listdir(download_path):
-    if filename.endswith('.pdf'):
-        shutil.move(os.path.join(download_path, filename), '/Users/nama/Documents/PDFs')
-    elif filename.endswith(('.png', '.jpg', '.jpeg')):
-        shutil.move(os.path.join(download_path, filename), '/Users/nama/Pictures/Screenshots')
-
-print("Pembersihan selesai! Fokuslah pada hal yang lebih penting.")
-```
+| Jenis file | Dipindahkan ke |
+| --- | --- |
+| Dokumen PDF (.pdf) | Folder PDFs di dalam Documents |
+| Gambar (.png, .jpg, .jpeg) | Folder Screenshots di dalam Pictures |
 
 Dengan mengotomatiskan hal-hal kecil, kamu mengurangi *cognitive load* dalam mengelola perangkat kerjamu.
 

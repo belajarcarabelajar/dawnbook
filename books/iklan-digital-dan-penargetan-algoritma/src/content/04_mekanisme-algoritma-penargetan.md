@@ -52,45 +52,25 @@ Salah satu keajaiban teknis algoritma penargetan adalah kecepatannya. Seluruh pr
 4. **Selection:** Iklan dengan skor tertinggi (dan bid tertinggi) dipilih.
 5. **Rendering:** Iklan muncul di layar kamu.
 
-### 4. Contoh Kode Skor Penargetan
+### 4. Menghitung Skor Sebuah Iklan
 
-Berikut adalah contoh logika sederhana dalam Python tentang bagaimana sebuah sistem memberikan skor pada sebuah iklan untuk pengguna tertentu:
+Bagaimana sebuah sistem memberikan skor pada sebuah iklan untuk pengguna tertentu? Salah satu logika paling sederhana adalah mengalikan minat pengguna terhadap kategori iklan (dalam skala 0-1) dengan harga bid yang ditawarkan pengiklan:
 
-```python
-# Data User (Minat dalam skala 0-1)
-user_profile = {
-    "gadget": 0.9,
-    "fashion": 0.2,
-    "travel": 0.5
-}
+<div>
+$$
+\text{Skor} = \text{Minat} \times \text{Bid}
+$$
+</div>
 
-# Daftar Iklan yang tersedia
-ads_inventory = [
-    {"id": "Ad_Smartphone_X", "category": "gadget", "bid_price": 500},
-    {"id": "Ad_Luxury_Watch", "category": "fashion", "bid_price": 1200},
-    {"id": "Ad_Bali_Trip", "category": "travel", "bid_price": 800}
-]
+Misalkan seorang pengguna punya minat 0,9 pada gadget, 0,2 pada fashion, dan 0,5 pada travel, sementara tiga iklan bersaing memperebutkan layarnya (semua angka ini angka ilustrasi). Setelah dihitung dan diurutkan dari skor tertinggi, hasilnya seperti ini:
 
-def calculate_ad_relevance(user, ads):
-    recommendations = []
-    for ad in ads:
-        # Rumus sederhana: Skor = Minat User * Harga Bid
-        interest_score = user.get(ad["category"], 0)
-        final_score = interest_score * ad["bid_price"]
-        
-        recommendations.append({
-            "ad_id": ad["id"],
-            "score": final_score
-        })
-    
-    # Urutkan berdasarkan skor tertinggi
-    return sorted(recommendations, key=lambda x: x['score'], reverse=True)
+| Peringkat | Iklan | Kategori | Minat pengguna | Bid | Skor |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Smartphone X | Gadget | 0,9 | 500 | 450 |
+| 2 | Bali Trip | Travel | 0,5 | 800 | 400 |
+| 3 | Luxury Watch | Fashion | 0,2 | 1.200 | 240 |
 
-# Eksekusi
-print(calculate_ad_relevance(user_profile, ads_inventory))
-```
-
-Dalam skenario di atas, meskipun iklan "Luxury Watch" memiliki bayaran (bid) tertinggi, iklan "Smartphone X" mungkin menang karena skor minat pengguna terhadap gadget sangat tinggi (0.9).
+Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) tertinggi, iklan "Smartphone X" menang karena skor minat pengguna terhadap gadget sangat tinggi (0,9). Luxury Watch justru jatuh ke urutan terakhir karena minat pengguna pada fashion hanya 0,2.
 
 ### 5. Keranjang Belanja yang Ditinggalkan
 

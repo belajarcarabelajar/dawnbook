@@ -54,17 +54,13 @@ Kamu bisa memanfaatkan automasi dasar untuk memastikan sistem berjalan lancar.
 
 ### "The Weekend Lockdown"
 
-Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan keluarga tanpa interupsi obrolan grup kantor. Gunakan fitur iOS Shortcuts atau Android Tasker.
+Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan keluarga tanpa interupsi obrolan grup kantor. Gunakan fitur iOS Shortcuts atau Android Tasker agar setiap hari Sabtu dan Minggu ponselmu otomatis:
 
-```python
-# Logika sederhana untuk sistem otomatisasi perangkat
-if current_day == "Saturday" or current_day == "Sunday":
-    enable_focus_mode("Deep Life")
-    block_apps(["Instagram", "LinkedIn", "Gmail", "Twitter"])
-    display_message("Kembalilah ke dunia nyata. Hobimu menantimu!")
-else:
-    allow_scheduled_access()
-```
+1. menyalakan mode fokus bernama "Deep Life";
+2. memblokir Instagram, LinkedIn, Gmail, dan Twitter;
+3. menampilkan pesan "Kembalilah ke dunia nyata. Hobimu menantimu!"
+
+Pada hari-hari lainnya, aplikasi bisa diakses sesuai jadwal.
 
 ## 6\. Budi sebagai "The Sustainable Minimalist"
 

@@ -111,16 +111,7 @@ Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui das
 
 - **Standar:** Uptime server harus 99,9% ($\text{Uptime} \geq$ 99,9%).
 - **Pengukuran:** Menggunakan alat pemantau seperti Prometheus atau Grafana untuk melacak status server.
-- **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar.
-
-```bash
-# Contoh logika sederhana dalam sistem monitoring otomatis
-if (current_uptime < standard_uptime):
-    send_alert("Peringatan: Kinerja Server di bawah standar!")
-    log_incident(current_performance)
-else:
-    keep_monitoring()
-```
+- **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar, lalu mencatat kejadian itu sebagai insiden. Selama uptime masih memenuhi standar, sistem cukup terus memantau.
 
 **Penting:** Ingatlah bahwa tujuan akhir dari pengawasan adalah untuk belajar, bukan untuk menghukum. Hasil dari tahap perbandingan ini akan menjadi masukan (feedback) berharga untuk siklus manajemen berikutnya. Jika target tidak tercapai, apakah standarnya yang terlalu tinggi? Ataukah pelaksanaannya yang perlu diperbaiki?
 

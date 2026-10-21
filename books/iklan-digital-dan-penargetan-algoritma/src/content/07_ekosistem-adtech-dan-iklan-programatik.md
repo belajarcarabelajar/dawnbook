@@ -82,34 +82,16 @@ dengan $\epsilon$ adalah unit terkecil mata uang (misalnya USD 0,01).
 
 ### Struktur Bid Request
 
-Bagi kamu yang tertarik pada sisi teknis, berikut adalah contoh sederhana bagaimana data dikirimkan dari situs web ke sistem lelang dalam format JSON:
+Pesan yang dikirim dari situs web ke sistem lelang disebut *bid request*. Tabel berikut menguraikan isi sebuah contoh sederhana (semua nilainya contoh rekaan):
 
-```json
-{
-  "id": "89bda7b-1234",
-  "site": {
-    "name": "PortalBeritaKeren.com",
-    "category": "Otomotif"
-  },
-  "device": {
-    "os": "Android",
-    "geo": {
-      "city": "Jakarta",
-      "country": "IDN"
-    }
-  },
-  "user": {
-    "id": "user-99-xyz",
-    "interests": ["Sports", "Hiking"]
-  },
-  "imp": [
-    {
-      "banner": { "w": 300, "h": 250 },
-      "bidfloor": 1.50
-    }
-  ]
-}
-```
+| Bagian | Isi contoh | Artinya |
+| --- | --- | --- |
+| ID permintaan | 89bda7b-1234 | Penanda untuk satu permintaan iklan ini |
+| Situs | PortalBeritaKeren.com, kategori Otomotif | Tempat ruang iklan kosong itu berada |
+| Perangkat | Android | Sistem operasi perangkat kamu |
+| Lokasi | Jakarta, IDN (Indonesia) | Kota dan negara tempat kamu berada |
+| Pengguna | ID user-99-xyz, minat olahraga dan mendaki | Data anonim tentang kamu |
+| Ruang iklan | Banner 300 × 250, *bidfloor* 1,50 | Ukuran slot iklan dan batas bawah penawaran untuk slot itu |
 
 ### Jenis-Jenis Pembelian Programatik
 

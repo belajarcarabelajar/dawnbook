@@ -58,6 +58,8 @@ flowchart TD
     D -->|"menyempurnakan rencana"| A
 ```
 
+Lingkaran ini terus berputar selama organisasi masih berdiri. Di setiap putaran, hasil aktual dibandingkan dengan rencana awal. Jika penyimpangannya melewati ambang batas, rencana dievaluasi dan diperbaiki (kembali ke tahap *Planning*); jika tidak, rencana dilanjutkan dan dijalankan dalam skala yang lebih besar.
+
 Sebagai contoh, jika sebuah perusahaan ponsel pintar tetap menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 
 ## 4. Peluncuran Produk Startup
@@ -82,27 +84,6 @@ Jika salah satu fungsi hilang atau lemah, organisasi akan mengalami "penyakit" m
 - **O Lemah:** Pembagian peran yang kabur memicu konflik internal dan pemborosan sumber daya (*inefficiency*).
 - **A Lemah:** Rencana hebat hanya berakhir di atas kertas tanpa ada tindakan nyata dari tim (*stagnation*).
 - **C Lemah:** Organisasi terus mengulangi kesalahan yang sama tanpa pernah belajar (*failure to learn*).
-
-### Representasi Logika Program (Pseudocode)
-
-Dalam dunia engineering atau sistem, siklus POAC dapat dilihat sebagai sebuah *loop* berkelanjutan:
-
-```python
-while organisasi_masih_berdiri:
-    plan = buat_rencana(tujuan, sumber_daya)
-    struktur = susun_organisasi(plan)
-    
-    # Jalankan aksi berdasarkan struktur
-    hasil_aktual = laksanakan_actuating(struktur)
-    
-    # Bandingkan hasil dengan rencana awal
-    penyimpangan = ukur_controlling(hasil_aktual, plan)
-    
-    if penyimpangan > ambang_batas:
-        evaluasi_dan_perbaiki(plan) # Kembali ke tahap Planning
-    else:
-        lanjutkan_dan_skala_up(plan)
-```
 
 ## Yang Perlu Kamu Ingat
 

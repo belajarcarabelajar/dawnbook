@@ -72,43 +72,35 @@ Besaran gaya hambat total menentukan berbagai limitasi performa wahana:
 - **Jarak Jelajah (Range):** Minimasi gaya hambat meningkatkan jarak tempuh yang dapat dicapai untuk setiap satuan massa bahan bakar.
 - **Laju Tanjak (Rate of Climb):** Daya lebih (*excess power*) setelah mengatasi gaya hambat menentukan kemampuan wahana dalam menambah ketinggian.
 
-### 5. Komparasi Desain dan Implementasi Komputasi
+### 5. Gaya Hambat pada Rancangan Nyata
 
 #### Optimasi Sayap Komersial vs. Pesawat Akrobatik
 
 - **Pesawat Penumpang Transonik (misal Boeing 787):** Beroperasi pada bilangan Mach tinggi. Pendekatan desain memprioritaskan sayap ber-rasio aspek tinggi ($\text{AR}$ besar) yang dilengkapi *raked wingtip* untuk mereduksi *induced drag*, serta penerapan material komposit halus untuk menjaga stabilitas lapisan batas laminar.
 - **Pesawat Akrobatik (misal Extra 330):** Membutuhkan laju guling (*roll rate*) yang sangat cepat dan kekuatan struktur beban g-tinggi, sehingga menggunakan sayap berspan pendek ($\text{AR}$ rendah) dengan profil simetris, menerima penalti *induced drag* yang lebih tinggi demi agilitas manuver.
 
-#### Implementasi Estimasi Gaya Hambat Menggunakan Python
+#### Gaya Hambat Pesawat Latih di Fase Jelajah
 
-Perhitungan awal gaya hambat total pada tahap desain konseptual dapat disimulasikan menggunakan model matematis sederhana:
+Pada tahap desain konseptual, gaya hambat total sudah bisa diperkirakan langsung dari persamaan dasar di bagian 1. Persamaan itu dapat ditulis ulang dengan $q = \frac{1}{2}\rho v^2$ sebagai tekanan dinamis:
 
-```python
-def hitung_gaya_hambat(rho: float, kecepatan: float, luas_sayap: float, cd: float) -> float:
-    """
-    Menghitung besaran gaya hambat aerodinamika (Drag Force).
-    
-    Parameter:
-    - rho: Densitas udara (kg/m^3)
-    - kecepatan: Kecepatan aliran relatif (m/s)
-    - luas_sayap: Luas area sayap referensi (m^2)
-    - cd: Koefisien hambat total (tanpa dimensi)
-    
-    Kembalian:
-    - Gaya hambat dalam satuan Newton (N)
-    """
-    q = 0.5 * rho * (kecepatan ** 2)  # Tekanan dinamis
-    return q * luas_sayap * cd
+<div>
+$$
+D = \frac{1}{2} \rho v^2 S C_D = q S C_D
+$$
+</div>
 
-# Kondisi Penerbangan: Pesawat latih pada fase jelajah
-densitas_udara = 1.225    # kg/m^3 pada permukaan laut (ISA)
-kecepatan_jelajah = 55.0  # m/s (~198 km/jam)
-luas_area_sayap = 16.2    # m^2
-koefisien_drag = 0.035    # Perkiraan CD jelajah
+Dengan angka ilustrasi, ambil sebuah pesawat latih yang sedang terbang jelajah di dekat permukaan laut:
 
-gaya_hambat = hitung_gaya_hambat(densitas_udara, kecepatan_jelajah, luas_area_sayap, koefisien_drag)
-print(f"Gaya Hambat Total: {gaya_hambat:.2f} N")
-```
+| Besaran | Nilai |
+| --- | --- |
+| Densitas udara permukaan laut, ISA ($\rho$) | 1,225 kg/m³ |
+| Kecepatan jelajah ($v$) | 55 m/s (198 km/jam) |
+| Luas sayap ($S$) | 16,2 m² |
+| Koefisien hambat jelajah, perkiraan ($C_D$) | 0,035 |
+| Tekanan dinamis ($q$) | 0,5 × 1,225 × 55² ≈ 1.852,81 Pa |
+| Gaya hambat total ($D$) | 1.852,81 × 16,2 × 0,035 ≈ 1.050,54 N |
+
+Artinya, pada kondisi jelajah itu gaya hambat sekitar 1.051 N inilah yang harus diatasi oleh gaya dorong pesawat latih.
 
 ### Rangkuman Eksekutif
 

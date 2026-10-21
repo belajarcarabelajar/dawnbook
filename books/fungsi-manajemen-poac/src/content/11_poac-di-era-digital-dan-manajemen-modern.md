@@ -59,24 +59,23 @@ Bayangkan sebuah bisnis ritel pakaian tradisional bernama "Butik Kita" yang bert
 
 ## 5. Mengotomatiskan Pengawasan (Controlling)
 
-Dalam manajemen operasional digital, pengawasan kini banyak mengandalkan otomasi. Berikut adalah contoh skrip sederhana menggunakan Python yang biasa digunakan untuk memantau pencapaian target penjualan harian secara otomatis.
+Dalam manajemen operasional digital, pengawasan kini banyak mengandalkan otomasi. Sistem dapat memantau pencapaian target penjualan harian secara otomatis dengan menghitung persentase pencapaiannya:
 
-```python
-# Sistem Pengawasan Penjualan Otomatis
-target_harian = 1000  # Target dalam USD
-penjualan_saat_ini = 850
+<div>
+$$
+\text{Pencapaian} = \frac{\text{Penjualan Aktual}}{\text{Target Harian}} \times 100 \text{\%}
+$$
+</div>
 
-def evaluasi_kinerja(aktual, target):
-    persentase = (aktual / target) * 100
-    if aktual >= target:
-        return f"Target Tercapai! Efisiensi: {persentase}%"
-    else:
-        selisih = target - aktual
-        return f"Peringatan: Kekurangan sebesar ${selisih}. Segera ambil tindakan korektif!"
+Jika penjualan sudah sama dengan atau melampaui target, *dashboard* menampilkan bahwa target tercapai beserta persentasenya. Jika belum, sistem menghitung kekurangannya dan langsung mengirim peringatan agar tim segera mengambil tindakan korektif. Dengan angka ilustrasi berikut, hasilnya seperti ini:
 
-# Menampilkan hasil evaluasi ke layar dashboard
-print(evaluasi_kinerja(penjualan_saat_ini, target_harian))
-```
+| Komponen | Nilai |
+| --- | --- |
+| Target penjualan harian | 1.000 USD |
+| Penjualan saat ini | 850 USD |
+| Pencapaian | 85% |
+| Kekurangan | 150 USD |
+| Pesan di *dashboard* | Peringatan, segera ambil tindakan korektif |
 
 Contoh ini menunjukkan bagaimana pengawasan digital bekerja tanpa harus menunggu rapat mingguan. Sistem langsung memberikan umpan balik (*feedback*) saat itu juga.
 

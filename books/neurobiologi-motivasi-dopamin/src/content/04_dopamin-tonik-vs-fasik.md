@@ -124,33 +124,6 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 
 ---
 
-### Simulasi Logika (Sudut Pandang Engineering)
-
-Jika kita memodelkan sistem ini dalam sebuah fungsi sederhana di pemrograman, cara kerja motivasi akan terlihat seperti ini:
-
-```python
-class BrainDopamineSystem:
-    def __init__(self, baseline_tonic=50):
-        self.tonic_level = baseline_tonic  # Kondisi energi harian
-        self.current_motivation = baseline_tonic
-
-    def receive_stimulus(self, intensity):
-        # Dopamin Fasik terjadi
-        phasic_spike = intensity * 2
-        self.current_motivation += phasic_spike
-        print(f"Lonjakan Energi! Motivasi saat ini: {self.current_motivation}")
-        
-        # Efek samping: Penurunan baseline (Homeostasis)
-        self.tonic_level -= (intensity * 0.5)
-        print(f"Baseline baru setelah crash: {self.tonic_level}")
-
-# Contoh penggunaan
-my_brain = BrainDopamineSystem(baseline_tonic=100)
-my_brain.receive_stimulus(intensity=40) # Misal: Main game berlebihan
-```
-
----
-
 ### Strategi Meningkatkan Baseline Tonik secara Sehat
 
 Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:

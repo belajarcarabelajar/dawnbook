@@ -57,24 +57,15 @@ Andi mengatasi masalah tersebut dengan membisukan grup kerjanya dan hanya memeri
 
 Pendekatan ini membuktikan bahwa sebagian besar notifikasi mendesak sebenarnya bisa ditunda, dan Andi berhasil menuntaskan karyanya jauh lebih cepat.
 
-### 6\. Contoh Implementasi Teknis
+### 6\. Menyaring Notifikasi Secara Otomatis
 
-Bagi kamu yang lebih mahir dan ingin membangun automasi manajemen komunikasi, logika dasar berikut bisa diterapkan lewat aplikasi seperti Tasker (Android) atau Shortcuts (iOS):
+Bagi kamu yang ingin melangkah lebih jauh, penyaringan notifikasi bisa diotomatiskan lewat aplikasi seperti Tasker (Android) atau Shortcuts (iOS). Aturannya cukup tiga, bergantung pada apakah mode kerja fokus (*deep work*) sedang aktif dan siapa pengirimnya:
 
-```python
-def handle_incoming_notification(app_type, sender):
-    focus_mode = get_current_status()
-    
-    if focus_mode == "DEEP_WORK":
-        if sender in VIP_CONTACT_LIST:
-            show_notification(sender)
-            play_sound("urgent_tone")
-        else:
-            silence_notification()
-            store_in_summary_for_later()
-    else:
-        allow_all_notifications()
-```
+| Mode kerja fokus | Pengirim | Yang terjadi pada notifikasi |
+| --- | --- | --- |
+| Aktif | Kontak penting (VIP) | Tetap muncul, lengkap dengan nada khusus tanda urusan mendesak |
+| Aktif | Selain kontak penting | Dibisukan, lalu dikumpulkan dalam ringkasan untuk dibaca nanti |
+| Tidak aktif | Siapa saja | Semua notifikasi masuk seperti biasa |
 
 ### Tugas Refleksi
 

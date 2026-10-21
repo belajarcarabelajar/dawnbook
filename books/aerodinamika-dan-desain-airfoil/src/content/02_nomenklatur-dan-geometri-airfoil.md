@@ -54,16 +54,6 @@ Pada dekade 1930-an, *National Advisory Committee for Aeronautics* (NACA, pendah
 
 Jika sebuah profil diberi kode **NACA 0012**, digit pertama dan kedua bernilai $0$, yang menandakan bahwa profil tersebut adalah airfoil simetris dengan ketebalan maksimum sebesar $12\text{\%}$ dari kord.
 
-```python
-# Parameterisasi geometri profil NACA 4-Digit
-airfoil_code = "2412"
-max_camber = 0.02       # 2% dari panjang kord
-pos_max_camber = 0.4    # 40% dari panjang kord (dihitung dari leading edge)
-max_thickness = 0.12    # 12% ketebalan relatif maksimum
-
-print(f"Airfoil NACA {airfoil_code} memiliki ketebalan relatif {max_thickness * 100:.0f}%")
-```
-
 ### 4. Dampak Geometri terhadap Performa Aerodinamika
 
 Setiap modifikasi minor pada kontur permukaan airfoil memberikan dampak signifikan terhadap distribusi gradien tekanan ($\nabla P$) di sepanjang dinding profil:

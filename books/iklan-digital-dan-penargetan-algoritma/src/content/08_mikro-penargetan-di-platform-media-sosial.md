@@ -55,27 +55,17 @@ $$
 
 Jika $\cos(\theta)$ mendekati 1, maka pengguna tersebut akan masuk ke dalam target iklan mikromu.
 
-#### Contoh Kode Sederhana (Pseudo-code)
+#### Menyaring Pecinta Kopi di Jakarta
 
-Bagaimana algoritma menyaring audiens berdasarkan kriteria mikro:
+Penyaringan audiens berdasarkan kriteria mikro bisa sangat sederhana. Misalkan target iklanmu adalah pecinta kopi di Jakarta dengan pengeluaran tinggi. Algoritma memeriksa setiap pengguna terhadap ketiga syarat itu, dan hanya yang memenuhi semuanya masuk daftar target:
 
-```python
-# Simulasi pemfilteran segmen mikro
-users = [
-    {"id": 1, "location": "Jakarta", "interests": ["coffee", "cycling"], "spend_habit": "high"},
-    {"id": 2, "location": "Bandung", "interests": ["gaming", "coffee"], "spend_habit": "low"},
-    {"id": 3, "location": "Jakarta", "interests": ["coffee", "yoga"], "spend_habit": "high"}
-]
+| Pengguna | Lokasi | Minat | Kebiasaan belanja | Masuk target? |
+| --- | --- | --- | --- | --- |
+| 1 | Jakarta | Kopi, bersepeda | Tinggi | Ya |
+| 2 | Bandung | *Gaming*, kopi | Rendah | Tidak |
+| 3 | Jakarta | Kopi, yoga | Tinggi | Ya |
 
-# Kriteria mikro-target: Pecinta kopi di Jakarta dengan pengeluaran tinggi
-def micro_target(user):
-    return (user['location'] == "Jakarta" and 
-            "coffee" in user['interests'] and 
-            user['spend_habit'] == "high")
-
-target_list = list(filter(micro_target, users))
-print(f"Audiens Terpilih: {target_list}")
-```
+Pengguna 2 sebenarnya juga suka kopi, tetapi tersaring karena tinggal di Bandung dan kebiasaan belanjanya rendah.
 
 ### Studi Kasus & Aplikasi Dunia Nyata
 

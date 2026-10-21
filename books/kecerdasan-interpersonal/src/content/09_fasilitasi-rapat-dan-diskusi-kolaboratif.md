@@ -116,30 +116,25 @@ Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan ya
 
 ## 7. Template Agenda Kolaborasi
 
-Sebelum memulai pertemuan teknis atau koordinasi digital, kamu bisa membagikan kerangka agenda berbasis Markdown berikut agar seluruh peserta memahami arah rapat sejak awal:
+Sebelum memulai pertemuan teknis atau koordinasi digital, kamu bisa membagikan kerangka agenda seperti contoh berikut agar seluruh peserta memahami arah rapat sejak awal:
 
-```markdown
-# Agenda Rapat: [Nama Proyek]
-
-**Tanggal:** 25 Januari 2026
-**Fasilitator:** [Nama kamu]
-**Waktu:** 10:00 - 11:00 WIB
-
-## 1. Tujuan Rapat
-- Menyetujui arsitektur database untuk modul pembayaran.
-- Menentukan prioritas fitur untuk Sprint 4.
-
-## 2. Agenda Diskusi
-- [10 menit] Review progres Sprint 3 (PIC: Sarah)
-- [25 menit] Brainstorming solusi integrasi API pihak ketiga.
-- [15 menit] Pengambilan keputusan prioritas fitur menggunakan Dot Voting.
-
-## 3. Parking Lot (Topic to follow-up)
-- *Belum ada*
-
-## 4. Hasil & Action Items (Diisi saat rapat berlangsung)
-- [ ] Item 1 - PIC - Deadline
-```
+> **Agenda Rapat [Nama Proyek]**
+>
+> - **Tanggal:** 25 Januari 2026
+> - **Fasilitator:** [Nama kamu]
+> - **Waktu:** 10.00 - 11.00 WIB
+>
+> 1. **Tujuan rapat**
+>    - Menyetujui arsitektur database untuk modul pembayaran.
+>    - Menentukan prioritas fitur untuk Sprint 4.
+> 2. **Agenda diskusi**
+>    - 10 menit: *review* progres Sprint 3 (PIC: Sarah).
+>    - 25 menit: *brainstorming* solusi integrasi API pihak ketiga.
+>    - 15 menit: pengambilan keputusan prioritas fitur menggunakan *Dot Voting*.
+> 3. **Parking lot**
+>    - Belum ada topik yang perlu dibahas di sesi terpisah.
+> 4. **Hasil dan action items**
+>    - Diisi saat rapat berlangsung: *action item*, penanggung jawab, dan tenggat waktu.
 
 ## Kesimpulan
 

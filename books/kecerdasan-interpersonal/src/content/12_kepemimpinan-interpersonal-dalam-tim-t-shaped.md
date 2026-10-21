@@ -67,14 +67,10 @@ flowchart TD
     C -.->|"langkah praktis"| C1["Dokumentasi bersama hasil integrasi"]
 ```
 
-**Contoh Struktur Logika Integrasi:**
+**Contoh keputusan hasil sintesis:** jika masukan teknis dari para spesialis tergolong sangat kompleks, sementara visi bisnis menuntut produk diluncurkan cepat, maka:
 
-```text
-IF (Masukan_Teknis == 'Sangat Kompleks') AND (Visi_Bisnis == 'Luncurkan Cepat')
-THEN
-    Keputusan = 'Gunakan pendekatan Modular/MVP dengan rencana skalabilitas di Fase 2'
-    Komunikasi = 'Jelaskan pada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis masuk pasar.'
-```
+- **Keputusan:** gunakan pendekatan modular atau MVP (*Minimum Viable Product*), dengan rencana skalabilitas di fase 2.
+- **Komunikasi:** jelaskan kepada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis untuk masuk pasar.
 
 ## 4. Peluncuran Fitur Baru
 

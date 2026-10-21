@@ -72,26 +72,12 @@ Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak a
 2. **Persetujuan (Consent):** Saat pengguna mendaftar, harus ada pilihan terpisah: "Saya setuju menerima iklan yang dipersonalisasi berdasarkan aktivitas saya". Jika pengguna menolak, TokoCepat tetap harus mengizinkan mereka berbelanja, meski tanpa iklan yang dipersonalisasi.
 3. **Keamanan Data:** Jika TokoCepat menggunakan pihak ketiga (misal: Google Ads) untuk retargeting, mereka harus memastikan pihak ketiga tersebut juga patuh pada UU PDP melalui kontrak hukum yang kuat.
 
-**Code Snippet Contoh (Logika Persetujuan Sederhana):**
+**Logika Persetujuan Sederhana:** Di balik layar, pilihan iklan yang dipersonalisasi itu dalam keadaan mati sejak awal (*Privacy by Default*), sejalan dengan larangan kotak centang yang sudah terisi otomatis. Pilihan itulah yang menentukan iklan apa yang dilihat pengguna:
 
-```javascript
-// Contoh logika sederhana manajemen persetujuan (Consent Management)
-const userConsent = {
-  marketing: false, // Default adalah false (Privacy by Default)
-  analytics: true,
-  essential: true
-};
-
-function showAd(userId) {
-  if (userConsent.marketing) {
-    console.log("Menampilkan iklan yang dipersonalisasi menggunakan algoritma...");
-    // Jalankan skrip tracking pixel di sini
-  } else {
-    console.log("Menampilkan iklan umum (Contextual Ad) tanpa data pribadi.");
-    // Hanya tampilkan iklan berdasarkan konten halaman, bukan profil pengguna
-  }
-}
-```
+| Pilihan iklan yang dipersonalisasi | Iklan yang tampil | Dasar pemilihan iklan |
+| --- | --- | --- |
+| Mati (keadaan awal) | Iklan umum (*Contextual Ad*) tanpa data pribadi | Isi halaman yang sedang dibuka, bukan profil pengguna |
+| Dinyalakan oleh pengguna | Iklan yang dipersonalisasi | Profil pengguna yang diolah algoritma, dengan *tracking pixel* aktif |
 
 ## 6. Ringkasan Prinsip Utama
 

@@ -49,11 +49,13 @@ sequenceDiagram
     Note over S: Data yang diterima berupa alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti tombol “Beli”
 ```
 
-**Contoh Kode Sederhana:** Secara teknis, sebuah pixel bisa terlihat sesederhana baris kode HTML berikut:
+**Wujud Aslinya:** Di dalam sebuah halaman web, pixel bisa sesederhana satu baris HTML berikut:
 
 ```html
 <img src="https://adserver.com/pixel?user_id=12345&event=view_product" width="1" height="1" style="display:none;">
 ```
+
+Artinya, peramban diminta memuat gambar berukuran $1 \times 1$ piksel yang disembunyikan dari layar, dan alamat gambar itu sekaligus membawa pesan untuk server pengiklan, yaitu nomor pengenal kamu (`user_id=12345`) dan aktivitas yang sedang kamu lakukan (`event=view_product`, yaitu melihat sebuah produk).
 
 ### 3. Pengidentifikasi Perangkat (Device Identifiers)
 
