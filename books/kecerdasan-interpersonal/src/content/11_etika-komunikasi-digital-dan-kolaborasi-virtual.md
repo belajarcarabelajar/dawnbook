@@ -50,9 +50,11 @@ Tantangan terbesar yang sering memicu kelelahan mental dalam ekosistem *remote w
 
 Dalam menjaga ritme kerja yang efisien, kita dapat mengacu pada rumus keefektifan komunikasi berikut:
 
+<div>
 $$
-\\text{Efektivitas} = \\frac{\\text{Konteks} \\times \\text{Kejelasan}}{\\text{Gangguan (Noise)}}
+\text{Efektivitas} = \frac{\text{Konteks} \times \text{Kejelasan}}{\text{Gangguan (Noise)}}
 $$
+</div>
 
 Coba evaluasi kembali jadwal kerja kamu selama seminggu terakhir. Berapa banyak rapat di kalender kamu yang sebenarnya bisa digantikan dengan satu dokumen kolaboratif yang disusun dengan matang?
 

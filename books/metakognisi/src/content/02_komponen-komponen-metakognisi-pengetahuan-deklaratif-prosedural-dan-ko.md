@@ -65,7 +65,7 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 	- Ia kenal beberapa metode belajar seperti pakai kartu *flash*, bikin *timeline*, sampai sekadar baca ulang materi.
 
 2. **Pengetahuan Prosedural ("Bagaimana"):**
-	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi and deskripsi peristiwa di sisi sebaliknya.
+	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi dan deskripsi peristiwa di sisi sebaliknya.
 	- Ia bisa menggambar *timeline* yang runtut agar alur kejadiannya kelihatan jelas.
 	- Ia terbiasa menulis poin-poin ringkasan dari tiap era.
 

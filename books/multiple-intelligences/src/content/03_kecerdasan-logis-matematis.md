@@ -63,7 +63,7 @@ Cakupan daya pikir ini membentang melampaui teritorial ujian kalkulus. Jejaknya 
 
 Di lanskap ekonomi dan finansial, instrumen kuantitatif dikerahkan membongkar tren bursa serta memetakan probabilitas risiko berpijak pada landasan rasio dan statistik. Profesi pengolahan data mengadopsi manuver serupa; jutaan data mentah dirangkum jadi panduan langkah, seperti melacak persebaran epidemi murni berlandaskan densitas dan laju mobilisasi harian massa.
 
-Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: $\sum F_x = 0$, $\sum F_y = 0$, dan $\sum M = 0$.
+Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
 
 ### 6. Memanaskan Kinerja Logika
 

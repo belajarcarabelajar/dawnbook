@@ -101,7 +101,13 @@ Untuk mempermudah pemahaman struktur tiga dimensi, hubungan antar-dimensi wacana
 
 <div>
 $$
-\text{Wacana} = \text{Teks} (\text{Deskripsi}) + \text{Praktik Diskursif} (\text{Interpretasi}) + \text{Praktik Sosial} (\text{Eksplanasi})
+\text{Wacana} = \text{Teks} (\text{Deskripsi}) + \text{Praktik Diskursif} (\text{Interpretasi})
+$$
+</div>
+
+<div>
+$$
+\quad + \text{Praktik Sosial} (\text{Eksplanasi})
 $$
 </div>
 

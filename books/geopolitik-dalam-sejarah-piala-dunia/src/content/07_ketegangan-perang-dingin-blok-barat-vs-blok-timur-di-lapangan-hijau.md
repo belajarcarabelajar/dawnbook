@@ -55,9 +55,11 @@ Meskipun era ketegangan geopolitik tersebut telah berlalu, warisannya masih memb
 
 ### Ringkasan Konsep Dasar
 
+<div>
 $$
-\\text{Olahraga} + \\text{Ideologi} = \\text{Diplomasi Lunak (Soft Power)}
+\text{Olahraga} + \text{Ideologi} = \text{Diplomasi Lunak (Soft Power)}
 $$
+</div>
 
 Dalam rumus di atas, sepak bola digunakan sebagai variabel untuk mengubah persepsi dunia tanpa perlu melakukan agresi militer. Kemenangan di lapangan hijau adalah "kemenangan moral" bagi rakyat yang meyakini ideologi tertentu.
 

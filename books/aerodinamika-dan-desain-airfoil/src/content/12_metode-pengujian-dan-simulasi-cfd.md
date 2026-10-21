@@ -28,22 +28,26 @@ CFD menyelesaikan sistem persamaan diferensial parsial non-linear yang dikenal s
 
 Untuk aliran fluida Newtonian inkompresibel dengan densitas konstan $\rho$ dan viskositas dinamik $\mu$, persamaan kontinuitas dinyatakan sebagai:
 
+<div>
 $$
 \nabla \cdot \mathbf{u} = 0
 $$
+</div>
 
 Sedangkan persamaan momentum Navier-Stokes dirumuskan sebagai:
 
+<div>
 $$
 \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}_b
 $$
+</div>
 
 Keterangan variabel:
 - $\mathbf{u} = (u, v, w)$ : Vektor kecepatan fluida ($\text{m/s}$).
 - $\rho$ : Kerapatan massa atau densitas fluida ($\text{kg/m}^3$).
 - $p$ : Tekanan statis fluida ($\text{Pa}$).
 - $\mu$ : Viskositas dinamik fluida ($\text{Pa}\cdot\text{s}$).
-- $\mathbf{f}_b$ : Vektor gaya bodi eksternal per satuan volume (misalnya gravitasi).
+- $\mathbf{f}\_b$ : Vektor gaya bodi eksternal per satuan volume (misalnya gravitasi).
 
 #### Hierarki Pemodelan Turbulensi dalam CFD
 
@@ -57,19 +61,23 @@ Karena aliran turbulensi memiliki rentang skala spasial dan temporal dari skala 
 
 Pada simulasi lapisan batas aerodinamika, penentuan jarak lapisan kisi pertama dari permukaan dinding sangat kritikal untuk menangkap gradien kecepatan pada sub-lapisan viskos (*viscous sublayer*). Parameter tak berdimensi jarak dinding $y^+$ didefinisikan sebagai:
 
+<div>
 $$
 y^+ = \frac{y u_\tau}{\nu}
 $$
+</div>
 
 Di mana:
 
+<div>
 $$
 u_\tau = \sqrt{\frac{\tau_w}{\rho}}
 $$
+</div>
 
 - $y$ : Jarak fisik titik pusat sel pertama ke dinding sayap ($\text{m}$).
-- $u_\tau$ : Kecepatan geser gesekan dinding (*friction velocity*) ($\text{m/s}$).
-- $\tau_w$ : Tegangan geser dinding ($\text{N/m}^2$).
+- $u\_\tau$ : Kecepatan geser gesekan dinding (*friction velocity*) ($\text{m/s}$).
+- $\tau\_w$ : Tegangan geser dinding ($\text{N/m}^2$).
 - $\nu = \frac{\mu}{\rho}$ : Viskositas kinematik fluida ($\text{m}^2\text{/s}$).
 
 Untuk model integrasi dinding penuh (seperti $k\text{-}\omega\text{ SST}$ tanpa fungsi dinding empiris), nilai $y^+$ target biasanya disyaratkan $y^+ \le 1$.
@@ -88,10 +96,10 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 2. **Penyelesaian Numerik (Solving)**:
    - Pemilihan skema diskretisasi spasial (misalnya *Second-Order Upwind* untuk adveksi).
    - Algoritma kopling tekanan-kecepatan (seperti SIMPLE, SIMPLEC, atau PISO).
-   - Iterasi konvergensi hingga residual persamaan momentum, kontinuitas, dan turbulensi turun di bawah ambang batas (umumnya $10^{-6}$) serta nilai koefisien aerodinamika ($C_l, C_d$) mencapai nilai konstan stabil.
+   - Iterasi konvergensi hingga residual persamaan momentum, kontinuitas, dan turbulensi turun di bawah ambang batas (umumnya $10^{-6}$) serta nilai koefisien aerodinamika ($C\_l, C\_d$) mencapai nilai konstan stabil.
 3. **Pasca-Pemrosesan (Post-Processing)**:
-   - Ekstraksi koefisien gaya angkat ($C_l$), gaya hambat ($C_d$), dan momen angguk ($C_m$).
-   - Visualisasi kontur medan tekanan ($C_p$), medan kecepatan ($u, v, w$), garis arus (*streamlines*), vektor aliran, dan titik separasi.
+   - Ekstraksi koefisien gaya angkat ($C\_l$), gaya hambat ($C\_d$), dan momen angguk ($C\_m$).
+   - Visualisasi kontur medan tekanan ($C\_p$), medan kecepatan ($u, v, w$), garis arus (*streamlines*), vektor aliran, dan titik separasi.
 
 ---
 
@@ -107,15 +115,19 @@ Agar data dari model berskala (misalnya model skala $1:10$) dapat diekstrapolasi
 
 1. **Bilangan Reynolds ($\text{Re}$)**: Menjaga keserupaan gaya inersia terhadap gaya viskos:
 
-$$
-\text{Re} = \frac{\rho v c}{\mu}
-$$
+   <div>
+   $$
+   \text{Re} = \frac{\rho v c}{\mu}
+   $$
+   </div>
 
 2. **Bilangan Mach ($\text{Ma}$)**: Menjaga keserupaan efek kompresibilitas:
 
-$$
-\text{Ma} = \frac{v}{a}
-$$
+   <div>
+   $$
+   \text{Ma} = \frac{v}{a}
+   $$
+   </div>
 
 Di mana $v$ adalah kecepatan aliran bebas, $c$ adalah panjang *chord*, dan $a$ adalah kecepatan rambat suara lokal ($a = \sqrt{\gamma R T}$).
 
@@ -151,26 +163,30 @@ Kedua metodologi memiliki keunggulan dan keterbatasan tersendiri yang saling mel
 
 ### 5. Integrasi Tekanan Permukaan
 
-Dalam pasca-pemrosesan CFD maupun data eksperimen *pressure taps*, koefisien gaya angkat $C_l$ dan koefisien momen $C_{m,c/4}$ dihitung dengan mengintegrasikan distribusi koefisien tekanan $C_p$ di sepanjang permukaan atas (*upper*) dan bawah (*lower*) airfoil:
+Dalam pasca-pemrosesan CFD maupun data eksperimen *pressure taps*, koefisien gaya angkat $C\_l$ dan koefisien momen $C\_{m,c/4}$ dihitung dengan mengintegrasikan distribusi koefisien tekanan $C\_p$ di sepanjang permukaan atas (*upper*) dan bawah (*lower*) airfoil:
 
+<div>
 $$
-C_l = \int_{0}^{1} (C_{p,l} - C_{p,u}) \, d\left(\frac{x}{c}\right)
+C_l = \int_{0}^{1} (C_{p,l} - C_{p,u}) \ d\left(\frac{x}{c}\right)
 $$
+</div>
 
 Di mana koefisien tekanan tak berdimensi didefinisikan sebagai:
 
+<div>
 $$
 C_p = \frac{p - p_\infty}{\frac{1}{2} \rho_\infty v_\infty^2}
 $$
+</div>
 
-Dalam praktik, nilai $C_p$ hanya diketahui pada titik-titik diskret di sepanjang kord, misalnya di posisi setiap lubang *pressure taps*. Integral tersebut lalu dihitung secara numerik, misalnya dengan aturan trapesium (*composite trapezoidal rule*):
+Dalam praktik, nilai $C\_p$ hanya diketahui pada titik-titik diskret di sepanjang kord, misalnya di posisi setiap lubang *pressure taps*. Integral tersebut lalu dihitung secara numerik, misalnya dengan aturan trapesium (*composite trapezoidal rule*):
 
 1. Kord dibagi menjadi pias-pias kecil di antara titik ukur yang berdekatan.
-2. Selisih $C_{p,l} - C_{p,u}$ di kedua ujung setiap pias dirata-rata.
+2. Selisih $C\_{p,l} - C\_{p,u}$ di kedua ujung setiap pias dirata-rata.
 3. Rata-rata itu dikalikan lebar piasnya.
-4. Semua hasil itu dijumlahkan menjadi $C_l$.
+4. Semua hasil itu dijumlahkan menjadi $C\_l$.
 
-Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
+Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C\_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
 
 ---
 
@@ -189,6 +205,6 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 1. **CFD dan Terowongan Angin adalah Komplementer**: CFD memberikan fleksibilitas komputasi untuk eksplorasi dan optimasi geometri secara masif, sementara terowongan angin memberikan pembuktian fisik nyata dan sertifikasi desain.
 2. **Landasan Matematis CFD**: Bertumpu pada persamaan kontinuitas dan Navier-Stokes. Pemilihan model turbulensi (RANS, LES, DNS) dan resolusi kisi dekat dinding ($y^+ \le 1$) sangat menentukan akurasi hasil simulasi.
 3. **Keserupaan Eksperimental**: Pengujian terowongan angin memerlukan kesamaan bilangan tak berdimensi, khususnya bilangan Reynolds ($\text{Re}$) dan bilangan Mach ($\text{Ma}$), agar data model skala representatif terhadap kondisi penerbangan nyata.
-4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C_p$) dan tegangan geser dinding ($\tau_w$).
+4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C\_p$) dan tegangan geser dinding ($\tau\_w$).
 
 > **Prinsip Rekayasa:** *"Semua model komputasi merupakan penyederhanaan realitas, namun model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern."* (Mengacu pada prinsip George Box).

@@ -38,14 +38,17 @@ Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan men
 
 Inti dari Ikigai terletak di titik tengah yang mempertemukan keempat pilar tersebut secara selaras:
 
+<div>
 $$
-\begin{aligned}
-\text{Ikigai} &= \text{(Apa yang kamu Cintai)} \\
-&\quad \cap \text{(Apa yang kamu Kuasai)} \\
-&\quad \cap \text{(Apa yang Dibutuhkan Dunia)} \\
-&\quad \cap \text{(Apa yang Dapat Menghasilkan Uang)}
-\end{aligned}
+\text{Ikigai} = \text{(Apa yang kamu Cintai)} \quad \cap \text{(Apa yang kamu Kuasai)}
 $$
+</div>
+
+<div>
+$$
+\quad \cap \text{(Apa yang Dibutuhkan Dunia)} \quad \cap \text{(Apa yang Dapat Menghasilkan Uang)}
+$$
+</div>
 
 Supaya diagram Venn tadi tidak hanya ada di bayanganmu, berikut setiap zona beserta pilar yang membentuknya, tersusun dari dua pilar sampai inti.
 

@@ -40,9 +40,11 @@ Sejarah mencatat banyak kecurigaan mengenai keberpihakan wasit terhadap Italia s
 
 Untuk memperkuat tim, Italia menggunakan kebijakan **Oriundi**, yaitu merekrut pemain-pemain kelahiran Amerika Selatan (terutama Argentina) yang memiliki darah Italia. Meskipun langkah ini tampak bertentangan dengan retorika nasionalisme murni, Mussolini menutup mata demi satu tujuan: **Kemenangan**.
 
+<div>
 $$
-\\text{Kemenangan} = \\text{Legitimasi Politik}
+\text{Kemenangan} = \text{Legitimasi Politik}
 $$
+</div>
 
 ## Sportswashing sejak 1934 hingga Kini
 

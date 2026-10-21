@@ -35,11 +35,9 @@ Setiap post masuk ke tepat satu dari tiga kelompok berikut.
 Jumlah ketiga kelompok harus sama dengan total post yang kamu periksa. Catatan asal post adalah hitungan terpisah, jadi jangan dijumlahkan dengan kelompok relevansi. Satu post bisa saja berguna sekaligus datang dari luar jaringan, dan keduanya dicatat di kolom yang berbeda. Dari tiga kelompok itu, hitung satu angka ringkas.
 
 <div>
-
 $$
-\text{Proporsi berguna}=\frac{\text{post berguna}}{\text{post organik yang diperiksa}}\times 100\text{\%}
+\text{Proporsi berguna}=\frac{\text{post berguna}}{\text{post organik yang diperiksa}}\times 100\%
 $$
-
 </div>
 
 Contohnya, kalau 9 dari 20 post yang kamu periksa masuk kelompok berguna, proporsi bergunamu 45%. Angka ini dipakai untuk membandingkan pengalamanmu sendiri dari waktu ke waktu, bukan untuk diadu dengan feed orang lain.

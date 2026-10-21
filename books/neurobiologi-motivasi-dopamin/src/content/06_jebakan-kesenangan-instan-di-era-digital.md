@@ -29,7 +29,7 @@ Video game modern, terutama yang bergenre kompetitif atau *mobile games*, menggu
 
 ### Dampak pada Perilaku
 
-Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}_{\text{Actual}}$ sering kali melampaui $\text{Reward}_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
+Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}\_{\text{Actual}}$ sering kali melampaui $\text{Reward}\_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
 
 ## 3. Makanan Cepat Saji (Hyper-palatable Foods)
 
@@ -50,9 +50,11 @@ Akibatnya, kita mengalami **Hyperbolic Discounting**, sebuah fenomena psikologis
 
 Secara matematis, nilai yang dirasakan ($V$) dari sebuah imbalan dapat digambarkan dengan rumus:
 
+<div>
 $$
 V = \frac{A}{1 + kD}
 $$
+</div>
 
 Di mana:
 

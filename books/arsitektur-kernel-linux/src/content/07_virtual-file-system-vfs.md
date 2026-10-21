@@ -109,15 +109,17 @@ Teknologi manajemen penyimpanan seperti **LVM (Logical Volume Management)** atau
 
 Aliran interaksi VFS dalam hierarki sistem Linux dapat digambarkan melalui bagan berikut:
 
+<div>
 $$
-\begin{aligned}
-\text{Aplikasi} &\rightarrow \text{System Call Interface} \\\\
-&\rightarrow \text{VFS} \\\\
-&\rightarrow (\text{ext4} \mid \text{XFS} \mid \text{NFS}) \\\\
-&\rightarrow \text{Generic Block Layer} \\\\
-&\rightarrow \text{Disk}
-\end{aligned}
+\text{Aplikasi} \rightarrow \text{System Call Interface} \rightarrow \text{VFS} \rightarrow (\text{ext4} \mid \text{XFS} \mid \text{NFS})
 $$
+</div>
+
+<div>
+$$
+\rightarrow \text{Generic Block Layer} \rightarrow \text{Disk}
+$$
+</div>
 
 Beberapa poin utama yang membuat VFS menjadi komponen penting:
 

@@ -16,9 +16,11 @@ Selain itu, para ahli psikometri menemukan korelasi ketika mencoba mengukur berb
 
 Psikolog Charles Spearman mengusulkan konsep $g$ (*general intelligence*). Data statistik menunjukkan bahwa orang yang unggul dalam tes logika cenderung juga memiliki kemampuan verbal yang baik. Persamaan yang sering digunakan dalam konteks ini adalah:
 
+<div>
 $$
 \text{Skor Tes} = g + s (\text{kemampuan spesifik})
 $$
+</div>
 
 Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ ini selalu muncul dalam hampir setiap penelitian tentang kemampuan manusia.
 

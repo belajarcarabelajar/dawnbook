@@ -47,9 +47,9 @@ Saat kamu terpapar pada sebuah jangkar, otak kamu secara otomatis mencari inform
 
 Mari kita lihat bagaimana urutan informasi memengaruhi hasil perhitungan mental kita. Dalam sebuah studi, dua kelompok siswa diminta menghitung hasil perkalian berikut dalam waktu 5 detik:
 
-**Kelompok A:** $1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\times 7 \\times 8$
+**Kelompok A:** $1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8$
 
-**Kelompok B:** $8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1$
+**Kelompok B:** $8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1$
 
 Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
 

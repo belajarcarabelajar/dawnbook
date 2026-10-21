@@ -85,10 +85,11 @@ Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainy
 
 Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error ($E$) antara Target ($T$) dan Kondisi Saat Ini ($C$).
 
+<div>
 $$
-
 E = T - C
 $$
+</div>
 
 Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai $E$ mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang dalam psikologi sering disebut sebagai reaksi yang tidak stabil.
 

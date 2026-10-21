@@ -78,11 +78,9 @@ Bagi seorang peneliti atau praktisi hukum, langkah-langkah berikut dapat digunak
 2. **Cek Struktur Pasal Karet:** Perhatikan penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
 
 <div>
-
 $$
 \text{Ambiguitas Istilah} \rightarrow \text{Diskresi Aparat} \rightarrow \text{Potensi Penyalahgunaan Kekuasaan}
 $$
-
 </div>
 
 3. **Analisis Apa yang Hilang (*The Silence*):** Siapa kelompok yang terdampak oleh undang-undang ini tetapi tidak pernah disebut atau dilibatkan dalam konsiderans (pertimbangan) undang-undang tersebut?

@@ -65,14 +65,14 @@ Pernyataan ini keliru karena popularitas seorang aktor di dunia seni peran tidak
 Secara teknis, dalam logika formal, kita bisa melihat sesat pikir sebagai kesalahan dalam struktur. Salah satu yang paling umum adalah **Affirming the Consequent** (Mengafirmasi Konsekuensi).
 
 Dalam logika yang valid (Modus Ponens):
-- Premis 1: $P \\rightarrow Q$ (Jika hujan, maka jalanan basah)
+- Premis 1: $P \rightarrow Q$ (Jika hujan, maka jalanan basah)
 - Premis 2: $P$ (Ternyata hujan)
-- Kesimpulan: $\\therefore Q$ (Maka, jalanan pasti basah) - **VALID**
+- Kesimpulan: $\therefore Q$ (Maka, jalanan pasti basah) - **VALID**
 
 Dalam sesat pikir (Mengafirmasi Konsekuensi):
-- Premis 1: $P \\rightarrow Q$ (Jika hujan, maka jalanan basah)
+- Premis 1: $P \rightarrow Q$ (Jika hujan, maka jalanan basah)
 - Premis 2: $Q$ (Jalanan basah)
-- Kesimpulan: $\\therefore P$ (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
+- Kesimpulan: $\therefore P$ (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
 
 *Mengapa tidak valid? Karena jalanan bisa saja basah akibat hal lain, misalnya sedang disiram air oleh warga atau ada pipa saluran air yang bocor.*
 
@@ -106,7 +106,7 @@ Jika kamu menyadari lawan bicaramu menggunakan sesat pikir, jangan terpancing em
 Untuk mengasah kepekaanmu, amatilah satu sesi diskusi atau perdebatan di ruang publik (seperti media sosial atau berita televisi). Petakan sesat pikir yang terjadi dengan menjawab pertanyaan berikut:
 
 1. Identifikasi apakah ada pihak yang menyerang pribadi lawan bicara, bukan substansi argumennya.
-2. Temukan klaim yang digelembungkan hingga terasa berlebihan or tidak rasional.
+2. Temukan klaim yang digelembungkan hingga terasa berlebihan atau tidak rasional.
 3. Rancang versi perbaikan argumen tersebut agar terbebas dari bias logika.
 
 > **Catatan Penting:** Memahami jenis-jenis sesat pikir bukan bertujuan agar kamu bisa memenangkan perdebatan dengan melabeli orang lain secara sembarangan. Tujuan utamanya adalah agar kamu bisa **berpikir lebih jernih** serta mampu menyusun argumen kokoh yang berpijak pada kebenaran, bukan pada manipulasi.

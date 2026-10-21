@@ -42,11 +42,9 @@ Dalam analisis tata bahasa AWK, konsep **agensi** (siapa yang ditaruh sebagai pe
 Secara konseptual, akumulasi risiko viktimisasi sekunder ($\text{Vs}$) dapat dirumuskan sebagai fungsi dari bias bahasa ($\text{Bb}$) dan prasangka sosial ($\text{Ps}$) terhadap variabel waktu ($t$):
 
 <div>
-
 $$
-\text{Vs} = \int (\text{Bb} + \text{Ps}) \, dt
+\text{Vs} = \int (\text{Bb} + \text{Ps}) \ dt
 $$
-
 </div>
 
 Semakin lama narasi yang membawa bias linguistik ini dibiarkan berproduksi dalam ruang publik ($t$), semakin besar dampak akumulasi trauma sekunder yang ditanggung oleh korban.

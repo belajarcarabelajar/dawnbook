@@ -48,10 +48,12 @@ Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Dae Jang Geum* mele
 Untuk memahami skala ledakan ini, kita bisa melihat pertumbuhan ekspor konten budaya Korea secara konseptual. Pertumbuhan ini bisa dianalogikan dengan fungsi eksponensial dalam ekonomi kreatif:
 
 Misalkan $E$ adalah nilai ekspor dan $t$ adalah waktu dalam tahun sejak 2000:
-$$
 
+<div>
+$$
 E(t) = P \cdot (1 + r)^t
 $$
+</div>
 
 Di mana:
 

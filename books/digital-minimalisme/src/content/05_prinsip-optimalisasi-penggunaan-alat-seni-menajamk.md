@@ -40,10 +40,11 @@ Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari la
 
 Secara matematis, kegunaan suatu alat ($U$) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan ($V$) dengan Gangguan yang ditimbulkan ($D$):
 
+<div>
 $$
-
 U = \frac{V}{D}
 $$
+</div>
 
 *Di mana:*
 

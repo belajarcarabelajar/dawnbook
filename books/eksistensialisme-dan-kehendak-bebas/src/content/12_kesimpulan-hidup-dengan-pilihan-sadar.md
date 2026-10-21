@@ -27,11 +27,9 @@ Kebebasan radikal tidak dapat dipisahkan dari tanggung jawab mutlak. Ketika subj
 Formulasi integritas eksistensial dirumuskan sebagai sinergi antara kebebasan dan tanggung jawab:
 
 <div>
-
 $$
 \text{Kebebasan Radikal} + \text{Tanggung Jawab Total} = \text{Eksistensi Otentik}
 $$
-
 </div>
 
 ### 4. Menegakkan Otentisitas di Tengah Kontingensi Duniawi

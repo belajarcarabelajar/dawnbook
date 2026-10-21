@@ -37,9 +37,11 @@ Berbeda terbalik dengan surga, visualisasi neraka dalam Karmawibhangga dirancang
 
 Secara matematis, kita bisa melihat hubungan ini sebagai fungsi akumulasi:
 
+<div>
 $$
 \text{Total Keadaan} = \sum_{i=1}^{n} (K_i \cdot W_i)
 $$
+</div>
 
 Di mana:
 

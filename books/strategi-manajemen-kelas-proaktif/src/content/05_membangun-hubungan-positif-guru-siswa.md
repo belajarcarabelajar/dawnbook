@@ -40,10 +40,11 @@ Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko a
 
 Secara matematis, kenyamanan belajar dapat diilustrasikan sebagai berikut:
 
+<div>
 $$
-
 K = \frac{D + P}{Kz}
 $$
+</div>
 
 Dimana:
 

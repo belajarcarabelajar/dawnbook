@@ -20,8 +20,8 @@ Pemain adalah para pengambil keputusan dalam permainan. Mereka adalah entitas ya
 
 Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan sekadar satu langkah tunggal, melainkan sebuah instruksi yang memberi tahu pemain apa yang harus dilakukan pada setiap situasi yang mungkin terjadi dalam permainan.
 
-- **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S_i$.
-- **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \{\text{Gunting}, \text{Batu}, \text{Kertas}\}$.
+- **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S\_i$.
+- **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \lbrace \text{Gunting}, \text{Batu}, \text{Kertas} \rbrace$.
 - **Strategi vs. Aksi:**
   - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke E4").
   - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
@@ -32,7 +32,7 @@ Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan seka
 
 Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini mencerminkan tingkat kepuasan, keuntungan, atau utilitas yang diperoleh pemain dari hasil interaksi tersebut.
 
-- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u_i(s_1, s_2, \dots, s_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
+- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u\_i(s\_1, s\_2, \dots, s\_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s\_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
 - **Bentuk Imbalan:**
   - Dalam bisnis: **Profit/Laba**.
   - Dalam politik: **Jumlah suara atau kekuasaan**.
@@ -46,7 +46,7 @@ Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini 
 Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
 
 1. **Pemain:** Toko A dan Toko B.
-2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\{\text{Harga Tinggi}, \text{Harga Murah}\}$.
+2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\lbrace \text{Harga Tinggi}, \text{Harga Murah} \rbrace$.
 3. **Imbalan (Profit):**
    - Jika keduanya memasang **Harga Tinggi**, masing-masing mendapat profit Rp10 juta (pasar stabil).
    - Jika keduanya memasang **Harga Murah**, masing-masing mendapat profit Rp5 juta (margin tipis).
@@ -54,13 +54,17 @@ Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** da
 
 Secara matematis, jika kita melihat dari sudut pandang Toko A, fungsi imbalannya adalah:
 
+<div>
 $$
 u_A(\text{Murah}, \text{Tinggi}) = 15
 $$
+</div>
 
+<div>
 $$
 u_A(\text{Tinggi}, \text{Tinggi}) = 10
 $$
+</div>
 
 Ketiga elemen tadi bisa dirangkum dalam satu matriks imbalan. Pilihan Toko A ada di baris, pilihan Toko B ada di kolom, dan setiap sel berisi profit dalam juta rupiah (angka pertama untuk Toko A, angka kedua untuk Toko B):
 

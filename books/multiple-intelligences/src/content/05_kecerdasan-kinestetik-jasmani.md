@@ -28,12 +28,13 @@ Mereka juga sangat mengandalkan ingatan otot (*muscle memory*) untuk menyimpan p
 
 ## Fisika Gerakan Tubuh
 
-Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E_k$) menjadi energi potensial gravitasi ($E_p$).
+Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
 
+<div>
 $$
-
 E_k = \frac{1}{2}mv^2 \rightarrow E_p = m \cdot g \cdot h
 $$
+</div>
 
 Dalam persamaan ini, $m$ mewakili massa tubuh dan $v$ adalah kecepatan atlet saat berlari. Komponen $g$ adalah gravitasi bumi, sementara $h$ merujuk pada target ketinggian lompatan.
 

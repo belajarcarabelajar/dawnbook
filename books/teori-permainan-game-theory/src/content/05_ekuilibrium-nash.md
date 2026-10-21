@@ -21,19 +21,21 @@ Jika saat ini kalian berdua berada di **Pintu Utara**, apakah kamu ingin pindah 
 
 ### 2. Definisi Formal
 
-Secara matematis, misalkan terdapat $n$ pemain. Sebuah kombinasi strategi $(s_1^*, s_2^*, \dots, s_n^*)$ disebut sebagai Ekuilibrium Nash jika untuk setiap pemain $i$:
+Secara matematis, misalkan terdapat $n$ pemain. Sebuah kombinasi strategi $(s\_1^{\ast}, s\_2^{\ast}, \dots, s\_n^{\ast})$ disebut sebagai Ekuilibrium Nash jika untuk setiap pemain $i$:
 
+<div>
 $$
 u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*)
 $$
+</div>
 
 Dengan:
 
-- $u_i$ adalah fungsi utilitas atau *payoff* (hasil) bagi pemain $i$.
-- $s_i^*$ adalah strategi optimal pemain $i$.
-- $s_{-i}^*$ adalah strategi yang dipilih oleh semua pemain lain selain pemain $i$.
+- $u\_i$ adalah fungsi utilitas atau *payoff* (hasil) bagi pemain $i$.
+- $s\_i^{\ast}$ adalah strategi optimal pemain $i$.
+- $s\_{-i}^{\ast}$ adalah strategi yang dipilih oleh semua pemain lain selain pemain $i$.
 
-Artinya, hasil ($u_i$) yang didapat pemain $i$ dengan strategi $s_i^*$ adalah yang tertinggi dibandingkan pilihan strategi lainnya ($s_i$), dengan asumsi pemain lain tidak mengubah pilihan mereka.
+Artinya, hasil ($u\_i$) yang didapat pemain $i$ dengan strategi $s\_i^{\ast}$ adalah yang tertinggi dibandingkan pilihan strategi lainnya ($s\_i$), dengan asumsi pemain lain tidak mengubah pilihan mereka.
 
 ### 3. Cara Menemukan Ekuilibrium Nash dalam Matriks
 

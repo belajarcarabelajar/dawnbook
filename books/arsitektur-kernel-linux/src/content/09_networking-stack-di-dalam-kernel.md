@@ -61,12 +61,17 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 
 Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 
+<div>
 $$
-\begin{aligned}
-\text{Packet In} &\rightarrow \text{PREROUTING} \rightarrow \text{INPUT} \rightarrow \text{Local Process} \\\\
-&\rightarrow \text{OUTPUT} \rightarrow \text{POSTROUTING} \rightarrow \text{Packet Out}
-\end{aligned}
+\text{Packet In} \rightarrow \text{PREROUTING} \rightarrow \text{INPUT} \rightarrow \text{Local Process}
 $$
+</div>
+
+<div>
+$$
+\rightarrow \text{OUTPUT} \rightarrow \text{POSTROUTING} \rightarrow \text{Packet Out}
+$$
+</div>
 
 Sebagai catatan tambahan, aturan firewall yang terlalu kompleks dapat menurunkan performa. Karena setiap paket harus dievaluasi di setiap *hook*, aturan yang rumit atau terlalu banyak akan menambah latensi secara keseluruhan pada pemrosesan jaringan.
 

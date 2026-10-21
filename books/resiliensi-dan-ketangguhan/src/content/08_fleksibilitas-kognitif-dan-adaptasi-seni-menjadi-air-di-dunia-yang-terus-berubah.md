@@ -95,15 +95,17 @@ Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya
 
 ## 5. Menghitung Keberhasilan Adaptasi
 
-Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
+Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
 
+<div>
 $$
 \mathbb{P}_{\text{s}} \approx \sum_{i=1}^{n} \frac{A_i}{t}
 $$
+</div>
 
 Di mana:
 
-- $A_i$ adalah efektivitas dari alternatif ke-$i$.
+- $A\_i$ adalah efektivitas dari alternatif ke-$i$.
 - Semakin banyak alternatif ($n$) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
 ## Menjadi Cair

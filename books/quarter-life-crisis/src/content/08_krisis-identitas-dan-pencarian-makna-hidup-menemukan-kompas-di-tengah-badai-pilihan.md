@@ -6,7 +6,7 @@ Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas
 
 ### 1. Memahami Paradoks Pilihan
 
-Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*),bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
+Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*), bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
 
 **Analogi Prasmanan Raksasa:** Bayangkan kamu pergi ke sebuah pesta dengan meja prasmanan sepanjang satu kilometer yang menyajikan ribuan jenis makanan dari seluruh dunia. Alih-alih merasa senang, kamu justru merasa cemas. Kamu takut jika mengambil rendang, kamu akan melewatkan sushi terbaik. Jika kamu mencoba pasta, kamu mungkin menyesal tidak mencoba steak. Akhirnya, kamu berdiri di depan meja dengan piring kosong, merasa lapar dan stres.
 
@@ -18,7 +18,7 @@ Dalam psikologi, ini disebut **The Paradox of Choice**. Semakin banyak pilihan h
 
 Krisis identitas terjadi ketika ada jarak yang lebar antara **Identitas Proyeksi** (apa yang kamu tunjukkan pada dunia) dan **Identitas Otentik** (apa yang benar-benar kamu rasakan).
 
-Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: $\\text{Kepuasan Hidup} = \\frac{\\text{Aksi Nyata}}{\\text{Ekspektasi Sosial}}$
+Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: $\text{Kepuasan Hidup} = \frac{\text{Aksi Nyata}}{\text{Ekspektasi Sosial}}$
 
 Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidupmu akan mendekati nol, seberapa besar pun aksi nyata yang kamu lakukan.
 
@@ -68,7 +68,7 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 
 1. **Audit Nilai:** Maya menyadari nilai utamanya adalah *kreativitas* dan *koneksi manusia*, bukan *keteraturan* atau *angka*.
 2. **Eksperimen Mikro:** Alih-alih langsung berhenti kerja, Maya mulai mengajar melukis untuk anak-anak di akhir pekan (mencari makna melalui pengalaman).
-3. **Validasi Identitas:** Dia menyadari bahwa identitasnya tidak harus tunggal. Dia bisa menjadi "Akuntan yang Kreatif" or bertransisi perlahan menjadi "Edukator Seni."
+3. **Validasi Identitas:** Dia menyadari bahwa identitasnya tidak harus tunggal. Dia bisa menjadi "Akuntan yang Kreatif" atau bertransisi perlahan menjadi "Edukator Seni."
 4. **Hasil:** Krisis Maya mereda bukan karena masalahnya hilang, tapi karena dia memiliki **narasi hidup** yang jelas. Dia tahu "mengapa" dia melakukan apa yang dia lakukan.
 
 ### 6. Strategi Menghadapi Pertanyaan Eksistensial
@@ -77,6 +77,6 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
 - **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batinmu untuk terdengar.
 - **Gunakan "The 5 Whys":** Ketika kamu menginginkan sesuatu (misal: "Saya ingin jadi CEO"), tanyakan "Kenapa?" sebanyak lima kali. Biasanya, jawaban kelima akan mengungkap kebutuhan identitas yang sebenarnya (misal: "Saya ingin merasa dihargai").
-- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\\text{Keberhasilan} = \\text{Eksperimen} \\times \\text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
+- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
 > **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.

@@ -13,7 +13,7 @@ Difusi uap terjadi akibat perbedaan konsentrasi atau tekanan uap air di atmosfer
 > **Analogi Magnet dan Debu:** 
 > Bayangkan tetesan air sebagai magnet kecil di dalam ruangan yang dipenuhi debu besi (molekul uap air). Debu tersebut tertarik dan menempel pada permukaan magnet. Semakin banyak debu yang menempel, semakin besar ukuran magnet tersebut, meskipun laju penambahan debu pada lapisan luar akan melambat seiring bertambahnya jari-jari.
 
-Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e_s$) yang mendorong molekul air untuk terus mengkondensasi ke permukaan tetesan.
+Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e\_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e\_s$) yang mendorong molekul air untuk terus mengkondensasi ke permukaan tetesan.
 
 ---
 
@@ -22,31 +22,27 @@ Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\t
 Pertumbuhan tetesan melalui difusi uap dirumuskan secara matematis sebagai perubahan jari-jari tetesan ($r$) terhadap waktu ($t$):
 
 <div>
-
 $$
 r \frac{d\text{r}}{d\text{t}} = \frac{S - 1}{F_k + F_d}
 $$
-
 </div>
 
 Keterangan variabel dan parameter dalam persamaan tersebut:
 
 | Simbol | Parameter | Keterangan Fisik |
 | :--- | :--- | :--- |
-| $r$ | Jari-jari tetesan | Ukuran radius tetesan air (\(\mu\text{m}\)) |
+| $r$ | Jari-jari tetesan | Ukuran radius tetesan air ($\mu\text{m}$) |
 | $\text{dr/dt}$ | Laju pertumbuhan | Perubahan jari-jari terhadap satuan waktu |
-| $S - 1$ | Tingkat supersaturasi | Rasio saturasi $S = e/e_s$, sehingga $S - 1$ adalah kelebihan kejenuhan |
-| $F_k$ | Faktor konduksi termal | Hambatan termodinamika akibat pelepasan panas laten kondensasi |
-| $F_d$ | Faktor difusi uap | Hambatan molekuler terhadap perpindahan massa uap air |
+| $S - 1$ | Tingkat supersaturasi | Rasio saturasi $S = e/e\_s$, sehingga $S - 1$ adalah kelebihan kejenuhan |
+| $F\_k$ | Faktor konduksi termal | Hambatan termodinamika akibat pelepasan panas laten kondensasi |
+| $F\_d$ | Faktor difusi uap | Hambatan molekuler terhadap perpindahan massa uap air |
 
 Apabila nilai persetaraan dianggap mendekati konstan ($r \frac{d\text{r}}{d\text{t}} \approx \text{Konstan}$), maka hubungan laju pertumbuhan jari-jari dapat disederhanakan menjadi:
 
 <div>
-
 $$
 \frac{d\text{r}}{d\text{t}} \propto \frac{1}{r}
 $$
-
 </div>
 
 > **Prinsip Utama:** Laju pertumbuhan jari-jari tetesan berbanding terbalik dengan ukuran jari-jari itu sendiri. Artinya, **tetesan berukuran kecil tumbuh lebih cepat dibandingkan tetesan berukuran besar.** Fenomena ini menyebabkan distribusi ukuran tetesan di dalam awan cenderung seragam (homogen) seiring berjalannya waktu.
@@ -59,8 +55,8 @@ Proses pertumbuhan melalui difusi uap mengalami hambatan alami berupa **Panas La
 
 Ketika molekul uap air mengembun menjadi cair di permukaan tetesan, energi panas dilepaskan ke tetesan. Pelepasan energi ini menaikkan suhu tetesan tersebut.
 
-1. **Kenaikan Suhu Tetesan:** Suhu tetesan yang meningkat menyebabkan tekanan uap jenuh permukaannya ($e_s$) ikut naik.
-2. **Penurunan Gradien Tekanan:** Kenaikan $e_s$ memperkecil selisih tekanan uap ($e - e_s$) antara udara sekitar dan permukaan tetesan.
+1. **Kenaikan Suhu Tetesan:** Suhu tetesan yang meningkat menyebabkan tekanan uap jenuh permukaannya ($e\_s$) ikut naik.
+2. **Penurunan Gradien Tekanan:** Kenaikan $e\_s$ memperkecil selisih tekanan uap ($e - e\_s$) antara udara sekitar dan permukaan tetesan.
 3. **Penyebab Pelambatan:** Akibat penurunan gradien tekanan tersebut, laju difusi molekul uap air melambat.
 
 *Apabila tetesan air tidak dapat membuang panas latennya ke udara sekitar dengan cepat, pertumbuhan tetesan akan terhenti karena suhunya menjadi terlalu hangat untuk menerima penambahan uap air.*
@@ -71,10 +67,10 @@ Ketika molekul uap air mengembun menjadi cair di permukaan tetesan, energi panas
 
 Pada skala mikroskopis, dua efek fisika berinteraksi menentukan apakah tetesan berkembang atau menguap kembali:
 
-| Efek Fisika | Landasan Teori | Dampak pada Tekanan Jenuh ($e_s$) | Pengaruh terhadap Pertumbuhan |
+| Efek Fisika | Landasan Teori | Dampak pada Tekanan Jenuh ($e\_s$) | Pengaruh terhadap Pertumbuhan |
 | :--- | :--- | :--- | :--- |
-| **Kelengkungan** | Persamaan Kelvin | Meningkatkan $e_s$ pada permukaan sangat melengkung | Menghambat pertumbuhan (molekul air mudah menguap) |
-| **Zat Terlarut** | Hukum Raoult | Menurunkan $e_s$ akibat konsentrasi bahan kimia terlarut | Mempermudah pertumbuhan (kondensasi terjadi lebih cepat) |
+| **Kelengkungan** | Persamaan Kelvin | Meningkatkan $e\_s$ pada permukaan sangat melengkung | Menghambat pertumbuhan (molekul air mudah menguap) |
+| **Zat Terlarut** | Hukum Raoult | Menurunkan $e\_s$ akibat konsentrasi bahan kimia terlarut | Mempermudah pertumbuhan (kondensasi terjadi lebih cepat) |
 
 Penggabungan kedua efek ini menghasilkan **Kurva Köhler**. Tetesan harus tumbuh melampaui jari-jari kritis (*critical radius*) agar dapat terus berkembang secara spontan melalui difusi uap.
 

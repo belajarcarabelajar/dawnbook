@@ -53,16 +53,14 @@ Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Ung
 Secara konseptual, pertumbuhan potensi eksistensial teraktualisasi dapat dimodelkan sebagai fungsi atas intensitas penaklukkan diri:
 
 <div>
-
 $$
 P(t) = P_0 \cdot e^{k \cdot s}
 $$
-
 </div>
 
 Di mana variabel formulasi mencakup:
 - $P(t)$: Potensi eksistensial yang teraktualisasi pada kurun waktu $t$.
-- $P_0$: Kapasitas awal subjek.
+- $P\_0$: Kapasitas awal subjek.
 - $k$: Koefisien efisiensi internalisasi pengalaman.
 - $s$: Derajat penaklukkan diri (*self-overcoming*).
 

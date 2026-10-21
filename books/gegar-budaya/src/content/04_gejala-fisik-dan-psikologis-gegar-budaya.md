@@ -58,17 +58,21 @@ Mari kita gunakan pendekatan matematis sederhana untuk memahami mengapa gejala i
 
 Di lingkungan rumah sendiri (hampir semua aktivitas dilakukan secara otomatis tanpa berpikir keras):
 
+<div>
 $$
 E_{\text{total}} = E_{\text{rutinitas}} + E_{\text{cadangan}}
 $$
+</div>
 
 Di lingkungan budaya baru:
 
+<div>
 $$
-E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}} + E_{\text{sisa}}
+E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosial}} + E_{\text{sisa}}
 $$
+</div>
 
-Jika $\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}}) > E_{\text{total}}$, maka $E_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Jika $\sum (E\_{\text{bahasa}} + E\_{\text{navigasi}} + E\_{\text{norma sosial}}) > E\_{\text{total}}$, maka $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 

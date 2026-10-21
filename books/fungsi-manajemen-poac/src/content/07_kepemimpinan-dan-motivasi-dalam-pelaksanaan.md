@@ -1,6 +1,6 @@
 ## Kepemimpinan dan Motivasi dalam Pelaksanaan
 
-Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai to tujuan.
+Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai ke tujuan.
 
 Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi yang paling hebat sekalipun akan tetap diam atau bergerak tanpa arah.
 
@@ -54,9 +54,12 @@ Herzberg membagi faktor motivasi menjadi dua bagian penting:
 
 ### C. Teori Harapan Victor Vroom (Expectancy Theory)
 Teori ini menggambarkan motivasi $M$ secara matematis sebagai hasil perkalian dari tiga elemen:
+
+<div>
 $$
 M = E \times I \times V
 $$
+</div>
 
 Penjelasan dari masing-masing variabel tersebut adalah:
 - **Expectancy (E):** Keyakinan bahwa usaha keras yang kamu lakukan akan menghasilkan kinerja yang baik.

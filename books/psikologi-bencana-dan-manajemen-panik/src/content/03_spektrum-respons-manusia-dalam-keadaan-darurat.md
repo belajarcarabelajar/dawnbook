@@ -10,7 +10,13 @@ Salah satu landasan teoretis paling berpengaruh dalam psikologi kelangsungan hid
 
 <div>
 $$
-P_{\text{respons}} = 10 \text{\%} \text{ (Adaptif/Pemimpin)} + 80 \text{\%} \text{ (Tertegun/Pasif)} + 10 \text{\%} \text{ (Disfungsional/Histeris)}
+P_{\text{respons}} = 10\% \text{ (Adaptif/Pemimpin)} + 80\% \text{ (Tertegun/Pasif)}
+$$
+</div>
+
+<div>
+$$
+\quad + 10\% \text{ (Disfungsional/Histeris)}
 $$
 </div>
 

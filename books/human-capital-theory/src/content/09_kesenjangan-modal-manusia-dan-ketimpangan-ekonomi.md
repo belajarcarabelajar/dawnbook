@@ -36,15 +36,19 @@ Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apaka
 
 Secara sederhana, jika pendapatan ($Y$) adalah fungsi dari modal manusia ($H$), tenaga kerja ($L$), dan modal fisik ($K$), maka:
 
+<div>
 $$
 Y = f(H, L, K)
 $$
+</div>
 
 Di mana $H$ dipengaruhi oleh lamanya sekolah ($s$) dan kualitas pendidikan ($q$):
 
+<div>
 $$
 H = e^{\phi(s, q)}
 $$
+</div>
 
 Jika kelompok mampu memiliki $q$ yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai $s$ (tahun sekolah) mereka sama, pendapatan $Y$ mereka akan menunjukkan perbedaan yang eksponensial.
 
@@ -98,9 +102,11 @@ Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia d
 
 Para ekonom memperkirakan bahwa *learning loss* ini berdampak pada penurunan pendapatan masa depan bagi generasi dari keluarga kurang mampu sebesar:
 
+<div>
 $$
 \Delta \text{Y}_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
 $$
+</div>
 
 Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
 

@@ -90,11 +90,15 @@ Di persimpangan batang otak ini, serat aferen primer memasuki **Kompleks Nukleus
 ### Ringkasan Alur Informasi
 
 <div>
-
 $$
-\text{Sel Rambut} \xrightarrow{\text{Sinaps}} \text{Neuron Bipolar (Ganglion Scarpa)} \xrightarrow{\text{N. Vestibularis}} \text{Batang Otak (Nukleus Vestibularis)}
+\text{Sel Rambut} \xrightarrow{\text{Sinaps}} \text{Neuron Bipolar (Ganglion Scarpa)}
 $$
+</div>
 
+<div>
+$$
+\xrightarrow{\text{N. Vestibularis}} \text{Batang Otak (Nukleus Vestibularis)}
+$$
 </div>
 
 **Poin Kunci:**

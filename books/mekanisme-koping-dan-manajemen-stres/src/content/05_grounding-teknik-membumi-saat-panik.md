@@ -12,9 +12,11 @@ Secara biologis, saat panik menyerang, bagian otak yang bernama **Amigdala** (pu
 
  Efektivitas *grounding* dalam meredakan kecemasan dapat digambarkan secara konseptual melalui penurunan tingkat kecemasan:
 
+<div>
 $$
 \Delta \text{Anxiety} = \text{Anxiety}_{\text{awal}} - \text{Anxiety}_{\text{akhir}}
 $$
+</div>
 
 > **Intisari Membumi:** *Grounding* bertujuan menurunkan intensitas emosi sehingga kamu dapat kembali berpikir dengan jernih, tanpa harus memaksakan kecemasan hilang seketika.
 

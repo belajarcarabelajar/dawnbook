@@ -46,7 +46,7 @@ Eksperimen lintas genre ini menuntut lompatan besar dalam teknologi produksi. Pe
 
 Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kreator pun dapat tumpah ruah sepenuhnya. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau *Hellbound*.
 
-**Formula Kesuksesan Eksperimen Genre:** $\\text{Popularitas} = (\\text{Kearifan Lokal} \\times \\text{Tema Universal}) + \\text{Kualitas Produksi OTT}$
+**Formula Kesuksesan Eksperimen Genre:** $\text{Popularitas} = (\text{Kearifan Lokal} \times \text{Tema Universal}) + \text{Kualitas Produksi OTT}$
 
 ### 4. Strategi Industri
 
@@ -54,7 +54,7 @@ Di dunia nyata, diversifikasi konten ini memadukan aspek artistik dengan strateg
 
 **Studi Kasus Data-Driven Content Production**
 
-Platform global seperti Netflix or Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
+Platform global seperti Netflix atau Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
 
 Saat menilai kelayakan proyek drama selanjutnya, data sebuah webtoon dapat dirangkum dalam satu kartu ringkas. Tabel berikut adalah contoh fiktif kartu semacam itu:
 

@@ -42,11 +42,11 @@ Satu hal yang paling penting untuk diingat: **Jalan Tengah bukanlah rata-rata ma
 
 Jika $0$ adalah "tidak makan sama sekali" dan $10$ adalah "makan sampai muntah", maka jalan tengahnya tidak selalu $5$.
 
+<div>
 $$
-\begin{aligned}
 \text{Jalan Tengah} \neq \frac{\text{Defisiensi} + \text{Eksesi}}{2}
-\end{aligned}
 $$
+</div>
 
 Aristoteles menjelaskan bahwa titik ideal ini bersifat **relatif terhadap kita** dan situasi yang kita hadapi.
 

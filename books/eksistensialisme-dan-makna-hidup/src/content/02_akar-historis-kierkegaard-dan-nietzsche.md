@@ -45,7 +45,12 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
-   $$\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}$$
+
+<div>
+$$
+\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}
+$$
+</div>
 
 Nihilisme adalah kondisi ketika hidup terasa hampa, tanpa tujuan, arti, atau nilai bawaan.
 
@@ -55,7 +60,7 @@ Nietzsche tidak ingin manusia terpuruk dalam nihilisme. Sebagai penawarnya, dia 
 
 - Mereka berani menciptakan nilai-nilainya sendiri saat fondasi lama runtuh.
 - Menghadapi penderitaan dengan sikap afirmatif terhadap kehidupan.
-- Keberanian untuk lepas dari "moralitas budak" or mentalitas ikut-ikutan.
+- Keberanian untuk lepas dari "moralitas budak" atau mentalitas ikut-ikutan.
 
 ### Kehendak untuk Berkuasa (Will to Power)
 

@@ -86,6 +86,6 @@ Untuk tetap menjadi pemikir kritis, kamu perlu menjaga kesehatan mental digitalm
 - **Verifikasi Sebelum Berbagi:** Jadilah bagian dari solusi, bukan menambah polusi informasi di ruang digital.
 	> **Catatan Penting:** Bertanggung jawab atas apa yang kamu bagikan adalah bentuk tertinggi dari etika digital.
 
-**Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, and menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan kepala tegak dan pikiran yang jernih.
+**Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, dan menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan kepala tegak dan pikiran yang jernih.
 
 Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, namun itulah satu-satunya cara untuk menjaga kejernihan berpikir.

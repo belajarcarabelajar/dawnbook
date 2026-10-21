@@ -65,12 +65,17 @@ Di formulir daring, prinsip *Expect Error* bisa diwujudkan dengan validasi yang 
 
 Dalam sistem industri, rumus keandalan (*reliability*) sering digunakan untuk memahami pentingnya desain antisipatif. Jika sebuah proses memiliki 5 langkah dan setiap langkah memiliki probabilitas keberhasilan $p = 0.95$ (5% kemungkinan salah), maka probabilitas keseluruhan sistem berhasil tanpa kesalahan adalah:
 
+<div>
 $$
-\begin{aligned}
-P_{\text{success}} &= p^n \
-P_{\text{success}} &= 0.95^5 \approx 0.77
-\end{aligned}
+P_{\text{success}} = p^n
 $$
+</div>
+
+<div>
+$$
+P_{\text{success}} = 0.95^5 \approx 0.77
+$$
+</div>
 
 Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan menambahkan *forcing function* atau *nudge* yang meningkatkan $p$ menjadi $0.999$, kita dapat menghindarkan sistem dari kegagalan besar.
 

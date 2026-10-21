@@ -43,14 +43,15 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 
 Secara konseptual, keberhasilan sebuah kelas yang proaktif dapat digambarkan melalui fungsi sederhana berikut:
 
+<div>
 $$
-
 K_p = f(S, R, K)
 $$
+</div>
 
 Di mana:
 
-- **$K_p$**: Keberhasilan Pembelajaran
+- **$K\_p$**: Keberhasilan Pembelajaran
 - **$S$**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
 - **$R$**: Relasi (Hubungan guru-siswa yang positif)
 - **$K$**: Kurikulum yang Menarik (Keterlibatan aktif siswa)

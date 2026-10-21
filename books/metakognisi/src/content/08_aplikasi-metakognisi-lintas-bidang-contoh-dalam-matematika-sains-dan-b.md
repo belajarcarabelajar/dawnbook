@@ -1,5 +1,3 @@
-Metakognisi: Belajar Bagaimana Belajar
-
 ## Aplikasi Metakognisi Lintas Bidang
 
 Metakognisi tidak hanya berlaku untuk satu mata pelajaran saja. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
@@ -45,8 +43,8 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 	- Kalau program error atau jalan tidak sesuai harapan, coba tanya: "Pesan error-nya bilang apa?" atau "Fungsi mana yang kelihatannya bermasalah?".
 		- Kamu bisa pakai pendekatan terstruktur untuk mengeceknya:
 		- **Mengecek baris:** Coba bayangkan dan jalankan logika kodenya baris demi baris di kepalamu.
-				- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
-				- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
+		- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
+		- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
 		- **Contoh di Pemrograman:** Misalkan program yang menghitung rata-rata dari sekumpulan angka memberi hasil yang meleset. Kamu tidak perlu langsung pusing. Pasang penanda untuk mengecek jumlah total yang terkumpul dan berapa banyak angka yang ikut dihitung, lalu pelan-pelan perbaiki bagian yang keliru.
 
 ### Memahami Bahasa dan Teks Bacaan

@@ -30,17 +30,19 @@ Secara teknis, Prinsip Hebbian adalah dasar dari fenomena yang disebut **Long-Te
 
 Dalam bahasa matematika sederhana, hubungan Hebbian sering direpresentasikan sebagai:
 
+<div>
 $$
 \Delta w_{ij} = \eta x_i x_j
 $$
+</div>
 
 Di mana:
 
-- $\Delta w_{ij}$ adalah perubahan kekuatan (bobot) koneksi antara neuron $i$ dan $j$.
+- $\Delta w\_{ij}$ adalah perubahan kekuatan (bobot) koneksi antara neuron $i$ dan $j$.
 - $\eta$ adalah laju pembelajaran (*learning rate*).
-- $x_i$ dan $x_j$ adalah tingkat aktivitas dari kedua neuron tersebut.
+- $x\_i$ dan $x\_j$ adalah tingkat aktivitas dari kedua neuron tersebut.
 
-**Artinya:** Jika kedua neuron aktif secara bersamaan ($x_i$ dan $x_j$ bernilai tinggi), maka kekuatan koneksi mereka ($w$) akan meningkat secara drastis.
+**Artinya:** Jika kedua neuron aktif secara bersamaan ($x\_i$ dan $x\_j$ bernilai tinggi), maka kekuatan koneksi mereka ($w$) akan meningkat secara drastis.
 
 **Penting:** Proses ini memerlukan **sinkronisitas**. Jika sel A menyala tetapi sel B tidak merespons, atau jika sel B menyala tanpa pengaruh dari sel A, maka koneksi tidak akan menguat.
 

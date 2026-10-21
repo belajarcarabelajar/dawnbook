@@ -19,9 +19,12 @@ Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{
 > Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya $180^\circ$, mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
 
 Dalam matematika dan fisika, hal ini sering digunakan untuk memvisualisasikan vektor atau koordinat:
+
+<div>
 $$
 \vec{v} = xi + yj + zk
 $$
+</div>
 
 Orang dengan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam ruang hampa secara mental.
 

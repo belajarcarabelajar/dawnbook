@@ -28,9 +28,11 @@ Secara teknis, Borobudur dibangun di atas bukit alami yang tanahnya tidak stabil
 
 Dalam fisika bangunan, hal ini berkaitan dengan tekanan ($P$) dan luas penampang ($A$):
 
+<div>
 $$
 P = \frac{F}{A}
 $$
+</div>
 
 Di mana:
 - $P$ = Tekanan (*Pressure*)

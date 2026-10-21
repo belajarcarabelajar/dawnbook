@@ -29,10 +29,11 @@ Permukaan amandel tidaklah rata atau licin, melainkan dipenuhi oleh lekukan dan 
 
 Lekukan-lekukan ini memiliki fungsi yang sangat penting, yaitu memperluas permukaan amandel agar bisa menangkap lebih banyak kuman atau partikel asing yang masuk saat kamu bernapas atau makan. Secara matematis, jika kita memodelkan efektivitas penangkapan partikel sebagai $P$ dan luas permukaan amandel sebagai $A$, hubungan keduanya dapat dituliskan sebagai:
 
+<div>
 $$
-
 P \propto A
 $$
+</div>
 
 Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar. Hal ini secara otomatis meningkatkan peluang $P$ bagi amandel untuk mendeteksi dan melumpuhkan patogen sebelum mereka masuk lebih jauh ke dalam tubuh.
 

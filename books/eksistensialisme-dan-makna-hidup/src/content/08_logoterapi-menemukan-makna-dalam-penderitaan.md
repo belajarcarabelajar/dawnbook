@@ -50,10 +50,11 @@ Logoterapi tidak mengajarkan kita untuk menyukai penderitaan. Pendekatan ini jus
 
 Dalam bentuk matematis sederhana, Frankl sering menggambarkan hubungan antara penderitaan dan makna sebagai berikut:
 
+<div>
 $$
-
 M = S - D
 $$
+</div>
 
 Di mana:
 
@@ -78,7 +79,7 @@ Bayangkan seseorang yang kehilangan pekerjaan yang telah ia rintis selama dua de
 
 Jika dia menghadapi situasi ini tanpa pemahaman Logoterapi, dia sangat rentan merasa dunianya runtuh, kehilangan identitas diri, lalu terperosok ke dalam kekosongan batin yang mendalam.
 
-Sebaliknya, dengan menerapkan prinsip Logoterapi, dia akan memandang krisis ini sebagai ruang untuk menguji "Nilai Sikap". Dia menyadari bahwa harga dirinya tidak ditentukan oleh jabatan semata. Dari sini, dia bisa memanfaatkan waktu luang untuk menekuni kegemaran yang sempat tertunda (Nilai Kreatif) or menjalin kedekatan emosional yang lebih hangat dengan keluarganya (Nilai Pengalaman).
+Sebaliknya, dengan menerapkan prinsip Logoterapi, dia akan memandang krisis ini sebagai ruang untuk menguji "Nilai Sikap". Dia menyadari bahwa harga dirinya tidak ditentukan oleh jabatan semata. Dari sini, dia bisa memanfaatkan waktu luang untuk menekuni kegemaran yang sempat tertunda (Nilai Kreatif) atau menjalin kedekatan emosional yang lebih hangat dengan keluarganya (Nilai Pengalaman).
 
 #### Kasus Klinis Sederhana
 

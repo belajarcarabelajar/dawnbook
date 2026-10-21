@@ -10,10 +10,11 @@ Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk di
 
 Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dengan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
 
+<div>
 $$
-
 P(G) = \frac{1}{E \times K}
 $$
+</div>
 
 Di mana:
 

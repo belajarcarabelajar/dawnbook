@@ -25,9 +25,11 @@ Sekitar 70% keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanp
 
 Rumus sederhana berikut dapat membantu mengevaluasi urgensi sebuah rapat:
 
+<div>
 $$
-\\text{Nilai Rapat} = \\frac{\\text{Kualitas Keputusan} \\times \\text{Penerimaan Tim}}{\\text{Biaya Waktu}}
+\text{Nilai Rapat} = \frac{\text{Kualitas Keputusan} \times \text{Penerimaan Tim}}{\text{Biaya Waktu}}
 $$
+</div>
 
 Jika kebutuhan utama hanya menyampaikan informasi searah, gunakan email atau saluran komunikasi instan. Rapat baru benar-benar dibutuhkan untuk:
 
@@ -54,18 +56,18 @@ Saat meminta tanggapan, hindari membiarkan peserta berebut bicara. Minta setiap 
 
 Sering kali diskusi melebar ke topik lain yang menarik tetapi kurang relevan dengan fokus utama saat itu.
 
-- **Cara menerapkan**: Jika muncul pembahasan di luar agenda, sampaikan dengan taktis: *\"Itu poin yang menarik. Agar diskusi kita tetap terarah pada tujuan hari ini, mari kita masukkan topik tersebut ke dalam parking lot terlebih dahulu untuk dibahas di sesi terpisah.\"*
+- **Cara menerapkan**: Jika muncul pembahasan di luar agenda, sampaikan dengan taktis: *"Itu poin yang menarik. Agar diskusi kita tetap terarah pada tujuan hari ini, mari kita masukkan topik tersebut ke dalam parking lot terlebih dahulu untuk dibahas di sesi terpisah."*
 
 ### Mengendalikan Dominasi Peserta
 
-- **Menghadapi peserta dominan**: \"Terima kasih atas masukannya, Budi. Sekarang, mari kita beri kesempatan kepada rekan-rekan lain yang belum bersuara.\"
-- **Mengajak peserta pendiam**: \"Siska, kamu memiliki latar belakang teknis di bidang ini. Bagaimana sudut pandangmu terhadap rencana ini?\"
+- **Menghadapi peserta dominan**: "Terima kasih atas masukannya, Budi. Sekarang, mari kita beri kesempatan kepada rekan-rekan lain yang belum bersuara."
+- **Mengajak peserta pendiam**: "Siska, kamu memiliki latar belakang teknis di bidang ini. Bagaimana sudut pandangmu terhadap rencana ini?"
 
 Ketika seseorang menyimpan ide cemerlang tetapi tidak mendapatkan kesempatan untuk menyampaikannya, tim kehilangan potensi besar. Menjaga inklusivitas dalam pertemuan sangat penting untuk membangun fondasi produktivitas kolaboratif.
 
 ## 4. Pengambilan Keputusan Kolaboratif
 
-Keputusan menjadi muara akhir dari sebagian besar rapat. Namun, melontarkan pertanyaan sederhana seperti \"Apakah semua setuju?\" jarang menghasilkan komitmen yang tulus.
+Keputusan menjadi muara akhir dari sebagian besar rapat. Namun, melontarkan pertanyaan sederhana seperti "Apakah semua setuju?" jarang menghasilkan komitmen yang tulus.
 
 ### Metode *Fist of Five*
 
@@ -90,7 +92,7 @@ Saat tim dihadapkan pada terlalu banyak ide setelah sesi *brainstorming*, gunaka
 
 ## 5. Mengakhiri Pertemuan dengan Hasil yang Jelas
 
-Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan yang menggantung seperti: *\"Baik, sepertinya semua sudah dibahas. Terima kasih.\"* Tutup pertemuan dengan merangkum elemen **W-W-W** (*Who-What-When*):
+Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan yang menggantung seperti: *"Baik, sepertinya semua sudah dibahas. Terima kasih."* Tutup pertemuan dengan merangkum elemen **W-W-W** (*Who-What-When*):
 
 - **Who** (*Siapa*): Siapa yang memegang tanggung jawab atas tindak lanjut?
 - **What** (*Apa*): Tindakan konkret apa yang harus dikerjakan?
@@ -109,9 +111,9 @@ Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan ya
 
 **Langkah Penanganan oleh Fasilitator**:
 
-1. ***Problem Framing***: Sampaikan pembuka yang objektif seperti, *\"Tujuan diskusi hari ini adalah mencari keseimbangan antara momentum perilisan, keamanan data, dan kestabilan sistem. Kita fokus pada solusi bersama, bukan mencari siapa yang salah.\"*
+1. ***Problem Framing***: Sampaikan pembuka yang objektif seperti, *"Tujuan diskusi hari ini adalah mencari keseimbangan antara momentum perilisan, keamanan data, dan kestabilan sistem. Kita fokus pada solusi bersama, bukan mencari siapa yang salah."*
 2. **Visualisasi Masalah**: Gambarkan tabel risiko di papan tulis untuk memetakan dampak dari pilihan *Rilis Besok* versus *Tunda 2 Minggu*.
-3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *\"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan minor bug dan tim Legal memantau kepatuhan data secara manual?\"*
+3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan minor bug dan tim Legal memantau kepatuhan data secara manual?"*
 4. **Konfirmasi Kesepakatan**: Gunakan jajak pendapat *Fist of Five* untuk mengukur apakah setiap perwakilan divisi bisa mendukung solusi alternatif tersebut.
 
 ## 7. Template Agenda Kolaborasi

@@ -20,9 +20,11 @@ Sesuatu disebut sebagai "Karma" jika dan hanya jika terdapat **Cetana** atau nia
 
 Dalam filsafat Buddhisme, setiap fenomena muncul karena adanya sebab dan kondisi. Hubungan ini sering dirumuskan secara sederhana sebagai berikut:
 
+<div>
 $$
 \text{Sebab (Hetu)} + \text{Kondisi (Paccaya)} \rightarrow \text{Akibat (Phala)}
 $$
+</div>
 
 ### Analogi Kebun Kehidupan
 

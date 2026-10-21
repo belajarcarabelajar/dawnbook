@@ -69,9 +69,11 @@ flowchart TD
 
 Dalam bahasa biokimia, proses ini sangat dipengaruhi oleh protein bernama **BDNF** (*Brain-Derived Neurotrophic Factor*), yang sering dijuluki sebagai "pupuk bagi otak".
 
+<div>
 $$
 \text{BDNF} \rightarrow \text{Mendukung Kelangsungan Hidup Neuron} + \text{Memicu Neurogenesis}
 $$
+</div>
 
 ### Studi Supir Taksi London
 

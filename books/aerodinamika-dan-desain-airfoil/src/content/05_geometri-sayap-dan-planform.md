@@ -10,22 +10,34 @@ Untuk menganalisis dan merancang sayap secara kuantitatif, para insinyur mengand
 
 - **Rentang Sayap / Wingspan ($b$):** Jarak linear total dari ujung sayap (*tip*) kiri hingga ujung sayap kanan.
 - **Kord Sayap / Chord ($c$):** Jarak lurus antara tepi depan (*leading edge*) dan tepi belakang (*trailing edge*) pada suatu penampang melintang.
-  - **Kord Pangkal ($c_{\text{root}}$):** Panjang kord pada bidang simetri badan pesawat (*fuselage centerline*).
-  - **Kord Ujung ($c_{\text{tip}}$):** Panjang kord pada batas terluar sayap (*wingtip*).
-  - **Kord Rata-rata Geometris ($c_{\text{avg}}$):** Nilai rata-rata kord di sepanjang rentang sayap.
+  - **Kord Pangkal ($c\_{\text{root}}$):** Panjang kord pada bidang simetri badan pesawat (*fuselage centerline*).
+  - **Kord Ujung ($c\_{\text{tip}}$):** Panjang kord pada batas terluar sayap (*wingtip*).
+  - **Kord Rata-rata Geometris ($c\_{\text{avg}}$):** Nilai rata-rata kord di sepanjang rentang sayap.
   - **Mean Aerodynamic Chord ($\text{MAC}$):** Kord ekuivalen yang merepresentasikan karakteristik gaya angkat dan momen aerodinamika seluruh sayap.
 - **Luas Permukaan Sayap / Wing Area ($S$):** Luas proyeksi planform total sayap terhadap bidang horizontal:
+
+  <div>
   $$
   S = b \times c_{\text{avg}}
   $$
+  </div>
+
 - **Taper Ratio ($\lambda$):** Perbandingan antara panjang kord di ujung sayap dengan panjang kord di pangkal sayap:
+
+  <div>
   $$
   \lambda = \frac{c_{\text{tip}}}{c_{\text{root}}}
   $$
+  </div>
+
 - **Aspect Ratio ($\text{AR}$):** Rasio kelangsingan sayap yang didefinisikan sebagai perbandingan antara kuadrat rentang sayap terhadap luas sayap:
+
+  <div>
   $$
   \text{AR} = \frac{b^2}{S} = \frac{b}{c_{\text{avg}}}
   $$
+  </div>
+
 - **Sweep Angle ($\Lambda$):** Sudut kemiringan sumbu kord sayap (biasanya diukur pada $25\text{\%}$ kord) relatif terhadap garis tegak lurus sumbu longitudinal badan pesawat.
 - **Dihedral Angle ($\Gamma$):** Sudut kemiringan bidang sayap ke atas relatif terhadap bidang horizontal untuk kestabilan lateral (*roll stability*).
 - **Twist / Washout:** Variasi sudut pasang (*geometric twist*) atau profil airfoil (*aerodynamic twist*) sepanjang rentang sayap untuk mengendalikan inisiasi *stall*.
@@ -47,7 +59,7 @@ Planform persegi panjang memiliki kord konstan dari pangkal hingga ujung ($\lamb
 
 Secara teoritis murni berdasarkan teori garis angkat Prandtl (*Prandtl's lifting-line theory*), planform elips merupakan bentuk paling optimal untuk domain subsonik tak termampatkan.
 
-- **Keunggulan:** Menghasilkan distribusi gaya angkat eliptik murni yang memberikan kecepatan induksi seragam (*constant downwash*), sehingga meminimalkan koefisien hambatan terinduksi ($C_{D,i}$) ke batas teoretis terendah ($e = 1.0$).
+- **Keunggulan:** Menghasilkan distribusi gaya angkat eliptik murni yang memberikan kecepatan induksi seragam (*constant downwash*), sehingga meminimalkan koefisien hambatan terinduksi ($C\_{D,i}$) ke batas teoretis terendah ($e = 1.0$).
 - **Kekurangan:** Kompleksitas manufaktur sangat tinggi karena setiap penampang memiliki kord dan kelengkungan permukaan yang berbeda. Contoh historis terkenal dari aplikasi ini adalah pesawat tempur **Supermarine Spitfire**. Selain itu, *stall* cenderung terjadi serentak di seluruh rentang sayap tanpa peringatan awal yang terlokalisasi.
 
 #### C. Tapered Planform (Sayap Meruncing)
@@ -68,16 +80,18 @@ Pengaruh geometri planform terhadap performa pesawat berakar pada **Distribusi G
 
 Kondisi aerodinamika paling efisien tercapai ketika distribusi gaya angkat per satuan rentang membentuk kurva elips. Persamaan distribusi gaya angkat eliptik ideal dirumuskan sebagai:
 
+<div>
 $$
 L(y) = L_{\text{root}} \sqrt{1 - \left(\frac{2y}{b}\right)^2}
 $$
+</div>
 
 Keterangan parameter:
 - $L(y)$ merupakan besaran gaya angkat lokal pada posisi koordinat rentang $y$.
-- $L_{\text{root}}$ adalah gaya angkat maksimum pada pusat pangkal sayap ($y = 0$).
+- $L\_{\text{root}}$ adalah gaya angkat maksimum pada pusat pangkal sayap ($y = 0$).
 - $b$ adalah total rentang sayap.
 
-Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwash velocity*, $w$) di belakang sayap bernilai konstan di sepanjang rentang. Konsekuensinya, sudut serang terinduksi ($\alpha_i$) seragam dan *induced drag* mencapai nilai minimum mutlak.
+Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwash velocity*, $w$) di belakang sayap bernilai konstan di sepanjang rentang. Konsekuensinya, sudut serang terinduksi ($\alpha\_i$) seragam dan *induced drag* mencapai nilai minimum mutlak.
 
 #### Analogi Dinamika Beban Fluida
 
@@ -87,11 +101,13 @@ Bayangkan sebuah dayung perahu yang bergerak melalui air. Jika beban dorongan te
 
 Dalam tahap perancangan awal (*preliminary design*), insinyur sering menggunakan **Metode Schrenk** untuk mengestimasi distribusi gaya angkat aktual tanpa memerlukan komputasi dinamika fluida (CFD) yang mahal.
 
-Schrenk merumuskan bahwa distribusi gaya angkat aktual ($L_{\text{actual}}$) pada sayap tanpa *twist* merupakan nilai rata-rata aritmetika antara distribusi bentuk fisik planform ($L_{\text{planform}}$) dan distribusi eliptik ideal ($L_{\text{elliptical}}$):
+Schrenk merumuskan bahwa distribusi gaya angkat aktual ($L\_{\text{actual}}$) pada sayap tanpa *twist* merupakan nilai rata-rata aritmetika antara distribusi bentuk fisik planform ($L\_{\text{planform}}$) dan distribusi eliptik ideal ($L\_{\text{elliptical}}$):
 
+<div>
 $$
 L_{\text{actual}}(y) = \frac{L_{\text{planform}}(y) + L_{\text{elliptical}}(y)}{2}
 $$
+</div>
 
 Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gaya geser (*shear force*) dan momen lentur (*bending moment*) sepanjang bentang sayap saat melakukan analisis kekuatan struktur.
 
@@ -99,7 +115,7 @@ Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gay
 
 ### 5. Karakteristik Planform Sayap Meruncing
 
-Pada sayap meruncing (*tapered wing*) berbentuk trapesium, kord ujung didapat dari kord pangkal dan *taper ratio* ($c_{\text{tip}} = \lambda c_{\text{root}}$). Kord rata-ratanya adalah rata-rata kord pangkal dan kord ujung, sehingga luas sayapnya menjadi:
+Pada sayap meruncing (*tapered wing*) berbentuk trapesium, kord ujung didapat dari kord pangkal dan *taper ratio* ($c\_{\text{tip}} = \lambda c\_{\text{root}}$). Kord rata-ratanya adalah rata-rata kord pangkal dan kord ujung, sehingga luas sayapnya menjadi:
 
 <div>
 $$
@@ -119,7 +135,7 @@ Dengan angka ilustrasi, ambil sebuah pesawat nirawak (UAV) dengan rentang sayap 
 
 | Besaran | Perhitungan | Hasil |
 | --- | --- | --- |
-| Kord ujung ($c_{\text{tip}}$) | 0,6 × 1,8 | 1,08 m |
+| Kord ujung ($c\_{\text{tip}}$) | 0,6 × 1,8 | 1,08 m |
 | Luas sayap ($S$) | 12 × (1,8 + 1,08) / 2 | 17,28 m² |
 | *Aspect ratio* ($\text{AR}$) | 12² / 17,28 | ≈ 8,33 |
 | *Mean aerodynamic chord* ($\text{MAC}$) | (2/3) × 1,8 × (1 + 0,6 + 0,36) / (1 + 0,6) | 1,47 m |

@@ -50,9 +50,11 @@ Sekali angka atau informasi diletakkan di atas meja, otak kita cenderung menyesu
 
 Angka USD 2.000 adalah **jangkar**. Tanpa angka itu, kamu mungkin akan berpikir USD 500 sangat mahal untuk sebuah jam tangan. Namun, dengan adanya jangkar tersebut, USD 500 terlihat seperti sebuah keberuntungan atau penghematan besar.
 
+<div>
 $$
 \text{Nilai yang Dirasakan} = \text{Harga Jangkar} - \text{Harga Aktual}
 $$
+</div>
 
 Jika $\text{Harga Jangkar}$ sangat tinggi, maka $\text{Nilai yang Dirasakan}$ akan menjadi positif secara psikologis, terlepas dari nilai intrinsik barang tersebut.
 
@@ -74,7 +76,7 @@ Seorang penjual yang pintar akan memberikan harga pertama yang sangat tinggi (An
 
 #### 2. Dalam Rekrutmen Karyawan
 
-Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mereka menyukai kandidat tersebut, mereka cenderung hanya menanyakan pertanyaan yang membuktikan bahwa kandidat itu bagus, and mengabaikan "red flags" yang muncul kemudian.
+Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mereka menyukai kandidat tersebut, mereka cenderung hanya menanyakan pertanyaan yang membuktikan bahwa kandidat itu bagus, dan mengabaikan "red flags" yang muncul kemudian.
 
 #### 3. Dalam Penulisan Kode (Engineering)
 

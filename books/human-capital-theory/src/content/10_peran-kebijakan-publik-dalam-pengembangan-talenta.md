@@ -16,7 +16,11 @@ Saat seorang individu meningkatkan keterampilannya, manfaat yang tercipta tidak 
 
 > **Logika Ekonomi:**
 > 
-> $$\text{Manfaat Sosial Total} > \text{Manfaat Pribadi}$$
+> <div>
+> $$
+> \text{Manfaat Sosial Total} > \text{Manfaat Pribadi}
+> $$
+> </div>
 > 
 > Ketika peningkatan keterampilan menghasilkan nilai tambah publik yang melebihi keuntungan finansial pribadi, investasi individu secara mandiri akan cenderung terlalu rendah jika dibandingkan dengan tingkat investasi ideal suatu negara.
 
@@ -91,9 +95,11 @@ Seorang lulusan baru (*fresh graduate*) menghadapi kendala keterbatasan keahlian
 
 Untuk mengukur apakah intervensi kebijakan memberikan manfaat ekonomi yang melampaui biaya yang dikeluarkan, digunakan pendekatan kuantitatif berikut:
 
+<div>
 $$
 \text{SROI} = \frac{\Delta \text{Pendapatan Total Tenaga Kerja}}{\text{Total Biaya Anggaran Kebijakan}}
 $$
+</div>
 
 Kebijakan dinilai efisien bila nilai SROI lebih besar dari 1, artinya peningkatan pendapatan melebihi investasi publik. Bila nilainya 1 atau kurang, nilai tambah ekonomi belum menutupi biaya dan kebijakan perlu dievaluasi. Sebagai ilustrasi dampak ekonomi pada satu peserta, berikut perhitungan dengan angka rekaan:
 

@@ -58,8 +58,13 @@ Sejak kernel 2.6.23, Linux menggunakan **CFS** sebagai algoritma penjadwalan def
 **Konsep vruntime (Virtual Runtime):** CFS melacak seberapa lama sebuah proses telah berjalan di CPU menggunakan variabel $\text{vruntime}$.
 
 - Proses yang memiliki $\text{vruntime}$ terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
-- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah.
-   $$\text{vruntime} = \text{vruntime} + \frac{\text{actual\_runtime}}{\text{weight}}$$
+- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah:
+
+  <div>
+  $$
+  \text{vruntime} = \text{vruntime} + \frac{\text{actual runtime}}{\text{weight}}
+  $$
+  </div>
 
 Jika nilai *nice* tinggi (kurang prioritas), $\text{vruntime}$ bertambah cepat, sehingga ia lebih jarang mendapatkan giliran.
 

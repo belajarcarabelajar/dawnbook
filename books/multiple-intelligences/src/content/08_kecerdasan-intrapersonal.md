@@ -41,9 +41,11 @@ Individu yang menonjol dalam kecerdasan ini biasanya menunjukkan beberapa ciri:
 
 Secara teknis, kecerdasan intrapersonal bisa dilihat sebagai fungsi evaluasi internal. Rumus sederhananya adalah:
 
+<div>
 $$
 \text{Keputusan}_{\text{Optimal}} = (\text{Kebutuhan} \times \text{Nilai}) - (\text{Ego} + \text{Tekanan Luar})
 $$
+</div>
 
 Di mana:
 

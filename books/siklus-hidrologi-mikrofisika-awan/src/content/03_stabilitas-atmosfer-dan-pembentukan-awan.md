@@ -30,10 +30,20 @@ Proses perubahan suhu ini disebut **Proses Adiabatik**, yakni perubahan suhu yan
 Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
 
 1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} < 100\text{\%}$) saat bergerak naik.
-   $$\Gamma_d \approx 9{,}8^\circ\text{C}/\text{km} \quad (\text{atau } 1^\circ\text{C} \text{ setiap } 100\text{ m})$$
+
+   <div>
+   $$
+   \Gamma_d \approx 9{,}8^\circ\text{C}/\text{km} \quad (\text{atau } 1^\circ\text{C} \text{ setiap } 100\text{ m})
+   $$
+   </div>
 
 2. **Saturated Adiabatic Lapse Rate (SALR) / Laju Adiabatik Jenuh:** Laju pendinginan paket udara yang *sudah jenuh* ($\text{RH} = 100\text{\%}$). Laju ini lebih lambat dibandingkan $\text{DALR}$ karena saat kondensasi berlangsung, uap air melepaskan **panas laten** ke dalam paket udara, yang mengurangi laju pendinginan.
-   $$\Gamma_s \approx 5^\circ\text{C} \text{ hingga } 9^\circ\text{C}/\text{km}$$
+
+   <div>
+   $$
+   \Gamma_s \approx 5^\circ\text{C} \text{ hingga } 9^\circ\text{C}/\text{km}
+   $$
+   </div>
 
 3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat sangat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
 
@@ -63,11 +73,12 @@ Udara berada dalam kondisi tidak stabil jika paket udara yang naik tetap ber-suh
 Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat stabil sewaktu dalam keadaan kering, tetapi berubah menjadi tidak stabil apabila dipaksa naik hingga mencapai titik jenuh.
 
 - **Syarat Matematis:**
-<div>
 
-$$\text{SALR} < \text{ELR} < \text{DALR}$$
-
-</div>
+  <div>
+  $$
+  \text{SALR} < \text{ELR} < \text{DALR}
+  $$
+  </div>
 
 ---
 
@@ -77,7 +88,7 @@ Awan tidak langsung terbentuk sesaat setelah udara mulai bergerak naik. Udara ha
 
 Ketinggian di mana dasar awan mulai terbentuk dinamakan **Lifting Condensation Level (LCL)**. Pada titik ketinggian ini, berlaku kondisi:
 
-1. Suhu udara paket ($T$) sama dengan suhu titik embun ($T_d$).
+1. Suhu udara paket ($T$) sama dengan suhu titik embun ($T\_d$).
 2. Kelembapan Relatif ($\text{RH}$) mencapai $100\text{\%}$.
 3. Laju pendinginan adiabatik berubah dari $\text{DALR}$ menjadi $\text{SALR}$.
 
@@ -94,12 +105,12 @@ Dalam meteorologi terapan dan teknik penerbangan, perhitungan ketinggian $\text{
 Ketinggian $\text{LCL}$ (dalam satuan meter di atas permukaan tanah) dapat diestimasi melalui persamaan berikut:
 
 <div>
-
-$$h_{\text{LCL}} \approx 125 \times (T - T_d)$$
-
+$$
+h_{\text{LCL}} \approx 125 \times (T - T_d)
+$$
 </div>
 
-*Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
+*Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T\_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
 
 Sebagai contoh, pada suhu permukaan $30^\circ\text{C}$ dan titik embun $22^\circ\text{C}$, dasar awan diperkirakan berada sekitar $125 \times (30 - 22) = 1.000$ meter di atas permukaan tanah. Perkiraan ini hanya bermakna bila suhu udara tidak lebih rendah dari titik embunnya.
 

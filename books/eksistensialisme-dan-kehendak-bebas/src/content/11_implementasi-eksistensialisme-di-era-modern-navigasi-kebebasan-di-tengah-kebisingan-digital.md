@@ -28,11 +28,9 @@ Ketika seseorang memandang profesinya sebagai peran instrumental belaka dan meno
 Masyarakat teknokratis senantiasa memproduksi naskah linier mengenai tahapan hidup ideal:
 
 <div>
-
 $$
 \text{Edukasi Formal} \rightarrow \text{Stabilitas Finansial} \rightarrow \text{Konformitas Sosial} \rightarrow \text{Pensiun}
 $$
-
 </div>
 
 Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai bentuk ketidakotentikan. Asumsi bahwa akumulasi ekspektasi eksternal secara mekanis menghasilkan kebermaknaan hidup ($\sum \text{Ekspektasi} = \text{Makna}$) merupakan ilusi struktural. Makna hidup yang otentik lahir dari keselarasan antara praksis tindakan konkret dan nilai-nilai yang dipilih secara otonom.
