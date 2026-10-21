@@ -12,7 +12,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { Resvg } from "@resvg/resvg-js";
 import { listBooks } from "./diagrams/books";
-import { missingGlyphs, parseSummaryEntries } from "./og/cards";
+import { missingGlyphs, summaryPages } from "./og/cards";
 
 export const COVER_FILE = "cover.svg";
 export const MAX_COVER_BYTES = 40 * 1024;
@@ -24,7 +24,7 @@ export interface CoverViolation {
   message: string;
 }
 
-const FORBIDDEN_ELEMENTS = ["script", "style", "foreignObject", "image", "text", "tspan", "textPath", "a", "iframe", "video", "audio"];
+export const FORBIDDEN_ELEMENTS = ["script", "style", "foreignObject", "image", "text", "tspan", "textPath", "a", "iframe", "video", "audio"];
 
 export function coverRules(svg: string): [rule: string, message: string][] {
   const out: [string, string][] = [];
@@ -70,7 +70,7 @@ export function cardTexts(bookDir: string): { title: string[]; body: string[] } 
   const authors = toml.replace(/#.*$/gm, "").match(/authors\s*=\s*\[([\s\S]*?)\]/)?.[1] ?? "";
   const summaryFile = path.join(bookDir, "src", "SUMMARY.md");
   const chapters = fs.existsSync(summaryFile)
-    ? parseSummaryEntries(fs.readFileSync(summaryFile, "utf8")).map((e) => e.name)
+    ? summaryPages(fs.readFileSync(summaryFile, "utf8")).map((e) => e.name)
     : [];
   return { title: [bookTitle, ...chapters], body: [bookTitle, authors.replace(/["']/g, "")] };
 }

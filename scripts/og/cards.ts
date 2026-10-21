@@ -11,6 +11,7 @@ import path from "node:path";
 import satori from "satori";
 import { Resvg } from "@resvg/resvg-js";
 import opentype from "opentype.js";
+import { parseSummaryEntries } from "../check-heading-colons";
 
 export const CARD_WIDTH = 1200;
 export const CARD_HEIGHT = 630;
@@ -30,21 +31,30 @@ export interface CardPage {
   text: CardText;
 }
 
-export interface SummaryEntry {
+export interface SummaryPage {
   name: string;
-  /** Path relative to `src/` without `./` and `.md`; README and index become `index`. */
+  /** The HTML page mdBook writes, relative to the book root, without `.html` (`content/01_x`, `index`). */
   page: string;
 }
 
-export function parseSummaryEntries(summary: string): SummaryEntry[] {
-  const entries: SummaryEntry[] = [];
-  for (const line of summary.split("\n")) {
-    const m = line.match(/^\s*- \[(.+)\]\(([^)\s]+\.md)\)/);
-    if (!m) continue;
-    const rel = m[2].replace(/^\.\//, "").replace(/\.md$/, "");
-    entries.push({ name: m[1], page: rel === "README" || rel === "index" ? "index" : rel });
+/**
+ * The SUMMARY.md entries that become pages, named the way mdBook names their
+ * HTML files: `.md` dropped, URL escapes decoded, and README renamed to index
+ * at any depth. Drafts, non-Markdown links, and targets that would leave the
+ * book (`..`, `/x`, `https:`) are skipped.
+ */
+export function summaryPages(summary: string): SummaryPage[] {
+  const pages: SummaryPage[] = [];
+  for (const { text, target } of parseSummaryEntries(summary)) {
+    if (!target.endsWith(".md")) continue;
+    let rel = target.slice(0, -".md".length);
+    try {
+      rel = decodeURIComponent(rel);
+    } catch {}
+    if (rel.startsWith("/") || /^[a-z][a-z0-9+.-]*:/i.test(rel) || rel.split("/").includes("..")) continue;
+    pages.push({ name: text, page: rel.replace(/(^|\/)README$/, "$1index") });
   }
-  return entries;
+  return pages;
 }
 
 /** The book card first, then one card per chapter, in SUMMARY.md order. */
@@ -56,7 +66,7 @@ export function cardPages(
     { page: "index", text: { context: `${book.chapterCount} bab`, title: book.title, author: book.author } },
   ];
   const seen = new Set(["index"]);
-  for (const entry of parseSummaryEntries(summary)) {
+  for (const entry of summaryPages(summary)) {
     if (seen.has(entry.page)) continue;
     seen.add(entry.page);
     pages.push({ page: entry.page, text: { context: book.title, title: entry.name, author: book.author } });

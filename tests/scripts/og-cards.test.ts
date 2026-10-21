@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test";
 import { mkdtemp, rm, writeFile, mkdir, readFile } from "node:fs/promises";
-import { existsSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
 import {
@@ -10,7 +10,7 @@ import {
   cardPages,
   measureTitle,
   missingGlyphs,
-  parseSummaryEntries,
+  summaryPages,
   renderArt,
   renderCard,
   titleSize,
@@ -27,8 +27,8 @@ function pngSize(png: Buffer): { width: number; height: number } {
   return { width: png.readUInt32BE(16), height: png.readUInt32BE(20) };
 }
 
-describe("parseSummaryEntries", () => {
-  test("strips ./ and .md, maps README and index to the book root, and skips drafts", () => {
+describe("summaryPages", () => {
+  test("names pages like mdBook: no ./ or .md, README and index become index, drafts skipped", () => {
     const summary = [
       "# Summary",
       "",
@@ -37,13 +37,38 @@ describe("parseSummaryEntries", () => {
       "    - [Sub Bab](./content/01a_sub.md)",
       "- [Draf]()",
       "- [Indeks](index.md)",
+      "- [Bagian](content/README.md)",
     ].join("\n");
-    expect(parseSummaryEntries(summary)).toEqual([
+    expect(summaryPages(summary)).toEqual([
       { name: "Pengantar", page: "index" },
       { name: "Bab Satu", page: "content/01_satu" },
       { name: "Sub Bab", page: "content/01a_sub" },
       { name: "Indeks", page: "index" },
+      { name: "Bagian", page: "content/index" },
     ]);
+  });
+
+  test("accepts * and + bullets and decodes URL escapes", () => {
+    expect(summaryPages("* [Satu](content/01_satu.md)\n+ [Dua](content/02%20dua.md)\n")).toEqual([
+      { name: "Satu", page: "content/01_satu" },
+      { name: "Dua", page: "content/02 dua" },
+    ]);
+  });
+
+  test("skips targets that would leave the book or are not Markdown", () => {
+    const summary = "- [a](../../../x.md)\n- [b](/etc/x.md)\n- [c](https://e.com/y.md)\n- [d](notes.txt)\n";
+    expect(summaryPages(summary)).toEqual([]);
+  });
+});
+
+describe("resvg font scan", () => {
+  test("every Resvg in the card code turns the system font scan off", () => {
+    for (const file of ["scripts/og/cards.ts", "scripts/check-covers.ts"]) {
+      const source = readFileSync(join(import.meta.dir, "../..", file), "utf8");
+      const calls = source.match(/new Resvg\([^;]*\)/g) ?? [];
+      expect(calls.length).toBeGreaterThan(0);
+      for (const call of calls) expect(call).toMatch(/RESVG_FONTS|loadSystemFonts: false/);
+    }
   });
 });
 

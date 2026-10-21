@@ -37,6 +37,18 @@ export interface InjectSeoOptions {
   isBookRoot?: boolean;
   /** Absolute URL of the page's share card (GEMINI.md section 27); the site icon when absent. */
   ogImage?: string;
+  /** What the card shows, for og:image:alt; defaults to the page title. */
+  ogImageAlt?: string;
+}
+
+/** Pages mdBook writes besides the SUMMARY.md chapters; they get no share card. */
+const NO_CARD_PAGES = new Set(["toc.html", "404.html", "print.html"]);
+
+/** URL of a book page's share card, or undefined when render-og-cards wrote none. */
+export function shareCardUrl(outputDir: string, slug: string, page: string): string | undefined {
+  const cardPage = page === "" || page === "index.html" ? "index" : page.replace(/\.html$/, "");
+  const rel = ogImagePath(slug, cardPage);
+  return existsSync(join(outputDir, rel)) ? `https://dawnbook.belajarcarabelajar.com${rel}` : undefined;
 }
 
 export function decodeHtmlEntities(str: string): string {
@@ -173,7 +185,7 @@ export function markThemeScriptsCfAsync(html: string): string {
 }
 
 export function injectSeoAndGating(html: string, options: InjectSeoOptions): string {
-  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot, ogImage } = options;
+  const { pageTitle, url, isGatedClientSide, gaId, bookDescription, isBookRoot, ogImage, ogImageAlt } = options;
 
   let content = markThemeScriptsCfAsync(normalizeInternalLinks(html));
 
@@ -202,7 +214,7 @@ export function injectSeoAndGating(html: string, options: InjectSeoOptions): str
     ? `
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
-        <meta property="og:image:alt" content="${escapedTitle}" />`
+        <meta property="og:image:alt" content="${escapeHtml(decodeHtmlEntities(ogImageAlt ?? pageTitle))}" />`
     : "";
 
   const articleData: any = {
@@ -349,6 +361,7 @@ async function processDirectory(
   dir: string,
   baseSlug: string = "",
   manifestData: any = null,
+  missingCards: string[] = [],
 ) {
   if (!manifestData) {
     const manifestRaw = await readFile(
@@ -364,7 +377,7 @@ async function processDirectory(
     const entryStat = await stat(fullPath);
     if (entryStat.isDirectory()) {
       const slug = baseSlug || entry;
-      await processDirectory(fullPath, slug, manifestData);
+      await processDirectory(fullPath, slug, manifestData, missingCards);
     } else if (fullPath.endsWith(".html")) {
       const content = await readFile(fullPath, "utf-8");
 
@@ -388,6 +401,7 @@ async function processDirectory(
       let bookDescription = "";
       let isBookRoot = false;
       let ogImage: string | undefined;
+      let ogImageAlt: string | undefined;
       const bookMatch = relativePath.match(
         /^\/books\/([a-zA-Z0-9_-]+)\/(.*)?$/,
       );
@@ -404,17 +418,21 @@ async function processDirectory(
           if (descMatch) {
             bookDescription = descMatch[1].replace(/\\"/g, '"');
           }
+          // The root page repeats the first chapter, but its card is the book card.
+          const titleMatch = tomlContent.match(/^\s*title\s*=\s*"((?:[^"\\]|\\.)*)"/m);
+          if (titleMatch && (page === "" || page === "index.html")) {
+            ogImageAlt = titleMatch[1].replace(/\\"/g, '"');
+          }
         } catch {}
 
         if (page === "" || page === "index.html") {
           isBookRoot = true;
         }
 
-        // render-og-cards writes og/<slug>/<page>.png; pages without a card keep the site icon.
-        const cardPage = isBookRoot ? "index" : page.replace(/\.html$/, "");
-        if (existsSync(join(process.cwd(), "output", ogImagePath(slug, cardPage)))) {
-          ogImage = `https://dawnbook.belajarcarabelajar.com${ogImagePath(slug, cardPage)}`;
-        }
+        // render-og-cards writes og/<slug>/<page>.png. A chapter page without one means the two
+        // disagree on its name, which would silently ship the site icon, so the build fails.
+        ogImage = shareCardUrl(join(process.cwd(), "output"), slug, page);
+        if (!ogImage && !NO_CARD_PAGES.has(page)) missingCards.push(relativePath);
 
         if (
           page !== "" &&
@@ -446,6 +464,7 @@ async function processDirectory(
         bookDescription,
         isBookRoot,
         ogImage,
+        ogImageAlt,
       });
 
       await writeFile(fullPath, updatedContent, "utf-8");
@@ -454,7 +473,14 @@ async function processDirectory(
 }
 
 if (import.meta.main) {
-  processDirectory(join(process.cwd(), "output/books")).catch((error) => {
+  const missingCards: string[] = [];
+  processDirectory(join(process.cwd(), "output/books"), "", null, missingCards).then(() => {
+    if (missingCards.length > 0) {
+      console.error(`No share card for ${missingCards.length} book page(s); render-og-cards and inject-gating disagree on their names:`);
+      for (const page of missingCards) console.error(`  ${page}`);
+      process.exit(1);
+    }
+  }).catch((error) => {
     // A zero exit would let `bun run build` ship pages without SEO and paywall markup.
     console.error(error);
     process.exit(1);

@@ -2,7 +2,7 @@ import { describe, expect, test } from "bun:test";
 import { mkdtemp, rm, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 import { tmpdir } from "node:os";
-import { checkCovers, coverRules, MAX_COVER_BYTES } from "../../scripts/check-covers";
+import { checkCovers, coverRules, FORBIDDEN_ELEMENTS, MAX_COVER_BYTES } from "../../scripts/check-covers";
 
 const open = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">';
 const valid =
@@ -22,18 +22,26 @@ describe("coverRules", () => {
     expect(rules(valid.replace(' viewBox="0 0 630 630"', ""))).toContain("bad-viewbox");
   });
 
-  test("refuses text, scripts, styles, and embedded images", () => {
-    for (const el of ['<text x="1">A</text>', "<script>alert(1)</script>", "<style>rect{}</style>", '<image href="#g"/>', "<foreignObject/>"]) {
-      expect(rules(valid.replace("</svg>", `${el}</svg>`))).toContain("forbidden-element");
+  test("refuses every forbidden element, with or without attributes", () => {
+    for (const el of FORBIDDEN_ELEMENTS) {
+      expect(rules(valid.replace("</svg>", `<${el}/></svg>`))).toContain("forbidden-element");
+      expect(rules(valid.replace("</svg>", `<${el} x="1"></${el}></svg>`))).toContain("forbidden-element");
     }
   });
 
-  test("does not mistake <textPath>-free shapes or <animate>-like names for forbidden elements", () => {
-    expect(rules(valid.replace("</svg>", '<path d="M0 0L10 10"/><polygon points="0,0 5,5 0,5"/></svg>'))).toEqual([]);
+  test("does not mistake elements that only start with a forbidden name", () => {
+    // <animate> starts with "a", <textPath> with "text"; only the exact names count.
+    const svg = valid.replace("</svg>", '<circle r="5"><animate attributeName="r" to="9"/></circle></svg>');
+    expect(rules(svg)).toEqual([]);
+  });
+
+  test("needs an <svg> root", () => {
+    expect(rules('<rect width="630" height="630"/>')).toContain("no-svg-root");
   });
 
   test("refuses external references and event attributes", () => {
     expect(rules(valid.replace('href="#g"', 'href="https://example.com/x.svg"'))).toContain("external-ref");
+    expect(rules(valid.replace('<use href="#g"/>', '<use xlink:href="file:///etc/x"/>'))).toContain("external-ref");
     expect(rules(valid.replace('fill="url(#g)"', 'fill="url(https://example.com/p)"'))).toContain("external-ref");
     expect(rules(valid.replace("<rect ", '<rect onload="x()" '))).toContain("event-attr");
   });
