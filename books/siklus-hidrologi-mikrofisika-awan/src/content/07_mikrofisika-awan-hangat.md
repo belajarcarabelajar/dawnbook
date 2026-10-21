@@ -66,31 +66,23 @@ $$ E_{\text{c}} = E_{\text{coll}} \times \epsilon $$
 
 ### 5. Menghitung Selisih Kecepatan Jatuh
 
-Berikut adalah skrip Python sederhana untuk menghitung perbedaan kecepatan jatuh antara tetes pengumpul (radius $50\ \mu\text{m}$) dan tetes awan biasa (radius $10\ \mu\text{m}$).
+Hukum Stokes dapat dipakai untuk membandingkan tetes pengumpul (radius $30\ \mu\text{m}$, seukuran tetesan pada contoh *The Great Collector* di bagian 6) dan tetes awan biasa (radius $10\ \mu\text{m}$). Kedua ukuran ini masih di bawah batas $40\ \mu\text{m}$ tempat Hukum Stokes berlaku. Nilai konstanta yang dipakai adalah angka ilustrasi:
 
-```python
-def terminal_velocity_stokes(r_micrometer):
-    # Konstanta fisik
-    g = 9.81         # Gravitasi (m/s^2)
-    rho_l = 1000     # Densitas air (kg/m^3)
-    rho_a = 1.225    # Densitas udara (kg/m^3)
-    eta = 1.8e-5     # Viskositas dinamik udara (kg/ms)
-    
-    # Konversi mikrometer ke meter
-    r = r_micrometer * 1e-6
-    
-    # Rumus Stokes
-    v_t = (2 * r**2 * g * (rho_l - rho_a)) / (9 * eta)
-    return v_t
+| Besaran | Simbol | Nilai |
+| --- | --- | --- |
+| Percepatan gravitasi | $g$ | 9,81 m/s² |
+| Densitas air | $\rho_{\text{l}}$ | 1.000 kg/m³ |
+| Densitas udara | $\rho_{\text{a}}$ | 1,225 kg/m³ |
+| Viskositas dinamik udara | $\eta$ | 0,000018 kg/(m·s) |
 
-# Perhitungan kecepatan terminal
-v_small = terminal_velocity_stokes(10)
-v_large = terminal_velocity_stokes(50)
+Hasilnya:
 
-print(f"Kecepatan tetes 10um: {v_small:.4f} m/s")
-print(f"Kecepatan tetes 50um: {v_large:.4f} m/s")
-print(f"Selisih kecepatan: {v_large - v_small:.4f} m/s")
-```
+| Tetesan | Radius | Kecepatan terminal $V_{\text{t}}$ |
+| --- | ---: | ---: |
+| Tetes awan biasa | $10\ \mu\text{m}$ | 0,0121 m/s |
+| Tetes pengumpul | $30\ \mu\text{m}$ | 0,1089 m/s |
+
+Selisih kecepatannya sekitar 0,0968 m/s. Radius yang tiga kali lebih besar membuat tetes pengumpul jatuh sembilan kali lebih cepat, sesuai hubungan $V_{\text{t}} \propto r^2$.
 
 ### 6. Aplikasi Dunia Nyata dan Skenario
 

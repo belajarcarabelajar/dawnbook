@@ -60,12 +60,11 @@ Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua
 #### 3. Kata Sapaan dan Pemarkah Sekuensial (*Anak-anakku sekalian* dan *Kemudian*)
 Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sambungan yang tidak terpisahkan dari bahasan sebelumnya.
 
-```
-[Guru]: "Anak-anakku sekalian, hari ini kita belajar Bahasa Indonesia tentang komunikasi. Kalian tahu arti komunikasi?"
-[Siswa]: "Arti komunikasi adalah hubu__ngaan."
-[Guru]: "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"
-[Siswa]: "Alat!"
-```
+> **Transkripsi Pembuka Pelajaran:**  
+> **Guru:** "Anak-anakku sekalian, hari ini kita belajar Bahasa Indonesia tentang komunikasi. Kalian tahu arti komunikasi?"  
+> **Siswa:** "Arti komunikasi adalah hubu\_\_ngaan."  
+> **Guru:** "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"  
+> **Siswa:** "Alat!"
 
 Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri hubungan sebab-akibat atau alat bantu komunikasi tanpa keluar dari topik utama.
 

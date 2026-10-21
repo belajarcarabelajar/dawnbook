@@ -64,20 +64,17 @@ Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi peri
 
 ### Contoh Implementasi dalam Desain Antarmuka (UI/UX)
 
-Dalam dunia rekayasa perangkat lunak, kita bisa membuat "biaya" atau "manfaat" lebih terlihat menggunakan elemen visual.
+Dalam desain aplikasi, kita bisa membuat "biaya" atau "manfaat" lebih terlihat menggunakan elemen visual. Contohnya kartu harga untuk tombol berlangganan berikut:
 
-```html
-<!-- Contoh Nudge Salience pada Tombol Berlangganan -->
-<div class="pricing-card">
-  <h3>Paket Tahunan</h3>
-  <p class="old-price">Rp 1.200.000</p>
-  <!-- Membuat penghematan menjadi sangat Salient -->
-  <p class="savings-tag">HEMAT Rp 300.000 (25%)!</p>
-  <button class="btn-primary">Pilih Paket Ini</button>
-  <p class="daily-cost">Hanya Rp 2.400 / hari</p> 
-  <!-- Menggunakan 'reframing' untuk membuat harga terasa ringan -->
-</div>
-```
+| Elemen kartu | Isi | Teknik |
+| --- | --- | --- |
+| Judul | Paket Tahunan | - |
+| Harga lama | Rp1.200.000 | - |
+| Label hemat | HEMAT Rp300.000 (25%)! | Membuat penghematan sangat *salient* |
+| Tombol utama | Pilih Paket Ini | - |
+| Biaya harian | Hanya Rp2.466 per hari | *Reframing* agar harga terasa ringan |
+
+Jika harga lama Rp1.200.000 dipotong penghematan Rp300.000, harga yang dibayar Rp900.000 per tahun, sehingga biaya hariannya Rp900.000 ÷ 365 ≈ Rp2.466. Angka harian itulah yang membuat harga terasa ringan, padahal total yang dibayar tetap Rp900.000 per tahun.
 
 ## 5. Mendorong Efisiensi Energi lewat Dashboard Mobil Listrik
 

@@ -80,30 +80,6 @@ Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan p
 - **Pengukur Ketebalan Industri**: Partikel beta digunakan di pabrik kertas atau plastik. Sensor mendeteksi berapa banyak elektron yang bisa menembus lembaran; jika terlalu sedikit yang lolos, berarti lembaran tersebut terlalu tebal.
 - **Terapi Medis (Brachytherapy)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah operasi jantung.
 
-## Simulasi Logika (Code Representation)
-
-Jika kita ingin merepresentasikan perubahan muatan dan nomor atom dalam sebuah fungsi sederhana (misalnya dalam Python), logikanya akan seperti ini:
-
-```python
-def beta_minus_decay(element_name, z, a):
-    """
-    Simulasi perubahan identitas atom pada peluruhan Beta Minus
-    """
-    original_z = z
-    new_z = z + 1  # Proton bertambah
-    new_a = a      # Nomor massa tetap
-    
-    print(f"Unsur Induk: {element_name} (Z={original_z}, A={new_a})")
-    print("--- Terjadi Peluruhan Beta Minus ---")
-    print(f"Memancarkan: 1 Elektron (Beta) dan 1 Antineutrino")
-    print(f"Unsur Anak: (Z={new_z}, A={new_a})")
-    
-    return new_z, new_a
-
-# Contoh pada Karbon-14
-beta_minus_decay("Karbon", 6, 14)
-```
-
 ## Ringkasan Singkat
 
 - **Pemicu**: Terlalu banyak neutron ($N/Z$ tinggi).

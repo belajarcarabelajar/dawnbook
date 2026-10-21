@@ -61,22 +61,12 @@ Jika variabel $\text{S}_{\text{adapt}}$ bernilai mendekati nol akibat penolakan 
 
 #### Pengembangan Perangkat Lunak
 
-Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu (*AI Assistant*) dapat menyelesaikan penulisan kode dengan tingkat efisiensi yang lebih tinggi.
+Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu (*AI Assistant*) dapat menyelesaikan penulisan kode dengan tingkat efisiensi yang lebih tinggi. Pembagian kerjanya bergeser seperti berikut:
 
-```python
-# Skenario Tradisional: Menulis fungsi kalkulasi secara manual
-def calculate_growth(initial, rate, years):
-    return initial * (1 + rate) ** years
-
-# Skenario Era AI: Pengembang berperan sebagai System Architect
-# AI menghasilkan kode dasar (boilerplate), 
-# sementara manusia mengarahkan logika bisnis dan pengujian keamanan.
-def process_big_data(dataset):
-    # Algoritma dan optimasi ditangani dengan asistensi AI
-    # Pengembang menetapkan parameter etis dan interpretasi hasil
-    results = ai_assisted_optimization(dataset)
-    return results
-```
+| Skenario | Pekerjaan pengembang | Bantuan AI |
+| :--- | :--- | :--- |
+| **Tradisional** | Menulis kode perhitungan secara manual | - |
+| **Era AI** | Berperan sebagai *System Architect*: mengarahkan logika bisnis dan pengujian keamanan, menetapkan parameter etis, serta menafsirkan hasil | Menghasilkan kode dasar (*boilerplate*) dan membantu menangani algoritma serta optimasi |
 
 ### 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 

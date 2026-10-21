@@ -57,18 +57,13 @@ Mari kita lihat bagaimana teknik ini diterapkan dalam skenario nyata, misalnya b
 | **Spaced Repetition** | Gunakan algoritma pengulangan untuk mengingat sintaks atau fungsi bawaan (*built-in functions*) setiap beberapa hari sekali. |
 | **Interleaving** | Dalam satu sesi latihan, kerjakan satu soal tentang *List*, lalu satu soal tentang *Dictionary*, kemudian satu soal tentang *Functions*. Jangan fokus pada satu jenis soal saja. |
 
-**Contoh Sederhana Implementasi Logika Spaced Repetition (Pseudo-code):**
+Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perlu di-review lagi. Angka pengalinya hanya ilustrasi.
 
-```python
-# Logika sederhana untuk menentukan kapan harus me-review kartu belajar
-def tentukan_jadwal_berikutnya(skor_pengingatan, interval_sekarang):
-    if skor_pengingatan == "mudah":
-        return interval_sekarang * 2  # Gandakan waktu tunggu
-    elif skor_pengingatan == "sulit":
-        return interval_sekarang * 1.2 # Tambah sedikit waktu tunggu
-    else:
-        return 1 # Ulangi besok jika lupa sama sekali
-```
+| Saat kamu mengingat kartu itu | Interval ke review berikutnya |
+| --- | --- |
+| **Mudah** | Interval sekarang dikali 2 (waktu tunggu digandakan) |
+| **Sulit** | Interval sekarang dikali 1,2 (waktu tunggu bertambah sedikit) |
+| **Lupa sama sekali** | Ulangi besok |
 
 ### Mengoptimalkan Sesi Belajar kamu
 

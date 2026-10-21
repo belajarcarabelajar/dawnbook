@@ -52,36 +52,14 @@ Pernahkah kamu menulis email yang menyebutkan "Saya lampirkan dokumen...", lalu 
 
 **Nudge pada Gmail:** Sistem mendeteksi kata "lampirkan" atau "attachment" di badan email. Jika kamu menekan *send* tanpa file, muncul kotak dialog: *"Kamu menyebutkan lampiran tetapi tidak ada file yang dilampirkan. Kirim saja?"* Ini adalah penerapan *Choice Architecture* yang mengantisipasi kelalaian *System 1* manusia.
 
-## *Anticipatory Validation* dalam Kode
+## *Anticipatory Validation* di Kolom Email
 
-Bagi para pengembang perangkat lunak atau insinyur, prinsip *Expect Error* diwujudkan dalam kode yang proaktif. Berikut adalah contoh sederhana dalam JavaScript untuk memvalidasi input pengguna secara *real-time* guna mencegah kesalahan pengiriman formulir.
+Di formulir daring, prinsip *Expect Error* bisa diwujudkan dengan validasi yang proaktif: isian diperiksa secara *real-time* saat pengguna masih mengetik, sehingga kesalahan pengiriman formulir dicegah sebelum terjadi. Contohnya pada kolom alamat email, dua mekanisme bekerja bersama:
 
-```javascript
-// Mengantisipasi kesalahan input email secara real-time
-const emailInput = document.querySelector('#email');
-const feedbackMessage = document.querySelector('#feedback');
-
-emailInput.addEventListener('input', (e) => {
-    const value = e.target.value;
-    
-    // Cek apakah pengguna lupa tanda '@' atau domain
-    if (value.length > 5 && !value.includes('@')) {
-        feedbackMessage.textContent = "Sepertinya kamu melupakan tanda '@' pada email-mu.";
-        feedbackMessage.style.color = "orange";
-    } else {
-        feedbackMessage.textContent = "";
-    }
-});
-
-// Forcing function pada tombol submit
-const submitBtn = document.querySelector('#submit');
-submitBtn.addEventListener('click', (e) => {
-    if (!emailInput.value.includes('@')) {
-        e.preventDefault(); // Mencegah form dikirim jika salah
-        alert("Mohon perbaiki kesalahan sebelum melanjutkan.");
-    }
-});
-```
+| Mekanisme | Pemicu | Yang dilihat pengguna |
+| --- | --- | --- |
+| **Sinyal peringatan saat mengetik** | Isian sudah lebih dari 5 karakter, tetapi belum memuat tanda "@". | Pesan berwarna jingga: "Sepertinya kamu melupakan tanda '@' pada email-mu." Pesan ini hilang lagi begitu tanda "@" diketik. |
+| ***Forcing function* pada tombol kirim** | Tombol kirim ditekan saat isian belum memuat tanda "@". | Formulir tidak terkirim, dan muncul peringatan "Mohon perbaiki kesalahan sebelum melanjutkan." |
 
 ## Menghitung Dampak Kesalahan
 

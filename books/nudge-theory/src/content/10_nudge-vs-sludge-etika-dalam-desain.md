@@ -47,21 +47,14 @@ Dalam desain UI/UX, *sludge* sering bermanifestasi sebagai *dark patterns*. Ini 
 2. **Sneak into Basket:** Menambahkan biaya tambahan atau item tambahan ke keranjang belanja secara otomatis tanpa persetujuan eksplisit.
 3. **Confirmshaming:** Menggunakan bahasa yang membuat pengguna merasa bersalah jika tidak memilih opsi tertentu. Sebagai contoh, tombol "Ya, saya ingin diskon" disandingkan dengan tombol "Tidak, saya lebih suka membayar harga penuh".
 
-```javascript
-// Contoh Logika Sludge dalam Kode (Pseudo-code)
-// Menghambat pengguna untuk menghapus akun
+Gambaran *Roach Motel* yang lebih lengkap adalah proses menghapus akun yang sengaja dirancang untuk menghambat penggunanya:
 
-function deleteAccountProcess() {
-  showAlert("Apakah kamu yakin?");
-  if (confirm) {
-    showAlert("Kami akan merindukanmu. Kamu akan kehilangan semua poin!");
-    // Menambah langkah tambahan yang tidak perlu
-    redirectToSurveyPage(); 
-    sendVerificationEmailWith24HourDelay();
-    console.log("Sludge diterapkan: Proses penghapusan dibuat lambat.");
-  }
-}
-```
+1. Muncul peringatan "Apakah kamu yakin?"
+2. Setelah pengguna mengiyakan, muncul pesan kedua: "Kami akan merindukanmu. Kamu akan kehilangan semua poin!"
+3. Pengguna dialihkan ke halaman survei.
+4. Email verifikasi baru dikirim setelah jeda 24 jam.
+
+Langkah ketiga dan keempat sebenarnya tidak perlu. Keduanya hanya ditambahkan agar proses penghapusan berjalan lambat.
 
 ## 4\. Tanggung Jawab Etis Choice Architect
 

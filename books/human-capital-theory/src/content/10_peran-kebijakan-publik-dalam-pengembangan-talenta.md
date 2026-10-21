@@ -95,24 +95,17 @@ $$
 \text{SROI} = \frac{\Delta \text{Pendapatan Total Tenaga Kerja}}{\text{Total Biaya Anggaran Kebijakan}}
 $$
 
-Berikut adalah implementasi sederhana fungsi perhitungan efisiensi kebijakan publik dalam pemrograman:
+Kebijakan dinilai efisien bila nilai SROI lebih besar dari 1, artinya peningkatan pendapatan melebihi investasi publik. Bila nilainya 1 atau kurang, nilai tambah ekonomi belum menutupi biaya dan kebijakan perlu dievaluasi. Sebagai ilustrasi dampak ekonomi pada satu peserta, berikut perhitungan dengan angka rekaan:
 
-```python
-def evaluasi_efisiensi_kebijakan(pendapatan_pasca: float, pendapatan_pra: float, biaya_subsidi: float) -> str:
-    """
-    Mengukur Social Return on Investment (SROI) dari program pelatihan publik.
-    """
-    peningkatan_pendapatan = pendapatan_pasca - pendapatan_pra
-    sroi = peningkatan_pendapatan / biaya_subsidi
-    
-    if sroi > 1.0:
-        return f"Kebijakan Efisien (SROI = {sroi:.2f}): Peningkatan pendapatan melebihi investasi publik."
-    else:
-        return f"Kebijakan Perlu Evaluasi (SROI = {sroi:.2f}): Nilai tambah ekonomi belum menutupi biaya."
+| Komponen | Perhitungan | Hasil |
+| :--- | :--- | :--- |
+| Pendapatan sebelum pelatihan | - | 3.500.000 |
+| Pendapatan sesudah pelatihan | - | 5.000.000 |
+| Peningkatan pendapatan | 5.000.000 - 3.500.000 | 1.500.000 |
+| Biaya subsidi pelatihan | - | 1.000.000 |
+| SROI | 1.500.000 ÷ 1.000.000 | 1,50 |
 
-# Ilustrasi pengukuran dampak ekonomi individu
-print(evaluasi_efisiensi_kebijakan(pendapatan_pasca=5000000, pendapatan_pra=3500000, biaya_subsidi=1000000))
-```
+Karena SROI sebesar 1,50 lebih besar dari 1, kebijakan dalam ilustrasi ini tergolong efisien.
 
 ---
 

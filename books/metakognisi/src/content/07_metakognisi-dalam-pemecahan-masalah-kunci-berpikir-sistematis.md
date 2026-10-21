@@ -72,29 +72,8 @@ Dengan metakognisi, kamu bisa sadar lebih cepat saat strategimu mulai melenceng 
 2. **Bertanya diri:** "Kenapa nilai `x` ini beda dari ekspektasi?" atau "Kok fungsi ini malah nge-balikin `null`?"
 3. **Mengidentifikasi hambatan:** Sadar bahwa ada blok `if` yang terlewat gara-gara logika kodenya kacau.
 4. **Menyesuaikan strategi:** Ketimbang mengulang baca kode dari atas, ia lebih memilih fokus membetulkan syarat di blok `if` tersebut dan mengetesnya kembali.
-```python
-# Contoh Kode dengan Bug (ilustrasi)
-def calculate_discount(price, quantity):
-    total_price = price * quantity
-    # Bug: Diskon seharusnya hanya diberikan jika total_price > 100
-    if total_price > 100: # Seharusnya > 100
-        discount = total_price * 0.10
-    else:
-        discount = 0
-    return total_price - discount
 
-# Skenario masalah: Diskon salah diberikan untuk pembelian kecil
-item_price = 50
-item_quantity = 2
-final_amount = calculate_discount(item_price, item_quantity)
-print(f"Total pembayaran: ${final_amount}") # Output: $90.0 (Seharusnya $100.0)
-
-# Pemantauan Metakognitif:
-# 1. Jalankan debugger, perhatikan \`total_price\` = 100
-# 2. Pertanyaan diri: "Apakah \`total_price >= 100\` adalah kondisi yang benar untuk diskon?"
-# 3. Identifikasi hambatan: Kondisi \`total_price >= 100\` akan memberikan diskon pada $100, padahal seharusnya setelah $100.
-# 4. Sesuaikan: Ubah \`total_price >= 100\` menjadi \`total_price > 100\`.
-```
+Ambil contoh rekaan program kasir sebuah toko yang seharusnya memberi diskon 10% hanya untuk total belanja di atas 100. Ternyata pembeli dua barang yang masing-masing seharga 50 malah membayar 90, bukan 100. Lewat *debugger*, sang *programmer* melihat totalnya tepat 100, lalu sadar syarat diskon di programnya tertulis "100 atau lebih", sehingga ia menggantinya menjadi "lebih dari 100" dan mengetes ulang.
 
 ## 3\. Evaluasi Solusi dan Proses Pemecahan Masalah
 

@@ -40,21 +40,12 @@ Teori yang dikemukakan oleh Amos Tversky menyatakan bahwa manusia sering memilih
 - Kedua, menyaring merek dengan hanya melirik pilihan dari merek A atau B.
 - Ketiga, menyeleksi bobot laptop agar di bawah 1,5 kg supaya ringan saat dibawa bepergian.
 
-**Contoh Implementasi Kode (Logika Filter):** Jika kamu sedang membangun aplikasi pemilihan asuransi, sebaiknya hindari menampilkan semua polis sekaligus. Gunakan logika penyaringan sederhana berikut:
+**Penerapan pada Aplikasi Asuransi:** Jika kamu sedang membangun aplikasi pemilihan asuransi, sebaiknya hindari menampilkan ratusan polis sekaligus. Saring polis secara bertahap berdasarkan kebutuhan pengguna:
 
-```javascript
-const allInsurancePlans = [...]; // Daftar ratusan polis
-
-// Strategi: Sederhanakan dengan filter berdasarkan kebutuhan pengguna
-const recommendedPlans = allInsurancePlans.filter(plan => {
-    return plan.monthlyPremium <= userBudget && 
-           plan.coverageType === userNeed &&
-           plan.rating >= 4;
-});
-
-// Tampilkan hanya 3 hasil terbaik untuk menghindari choice overload
-const finalDisplay = recommendedPlans.slice(0, 3);
-```
+1. Singkirkan polis yang premi bulanannya melebihi anggaran pengguna.
+2. Sisakan hanya polis dengan jenis pertanggungan yang sesuai kebutuhannya.
+3. Sisakan hanya polis dengan rating 4 ke atas.
+4. Dari polis yang lolos, tampilkan hanya 3 di layar untuk menghindari *choice overload*.
 
 ## 4. Mengurangi Jumlah Atribut (Information Slimming)
 

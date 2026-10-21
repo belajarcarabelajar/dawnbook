@@ -50,33 +50,21 @@ Perbedaan partisipasi yang sangat kontras ini terjadi karena kekuatan pilihan ba
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
-Sebagai pengembang atau desainer produk, caramu menyusun kode dan antarmuka (UI) akan memengaruhi perilaku pengguna secara langsung.
+Sebagai pengembang atau desainer produk, caramu menyusun antarmuka (UI) akan memengaruhi perilaku pengguna secara langsung.
 
 ### Contoh Pengaturan Privasi Data
 
 Bayangkan kamu sedang membangun formulir pendaftaran. Kamu ingin mendorong pengguna menyetujui kebijakan privasi yang mendukung analitik data, tetapi tetap memberikan mereka kebebasan memilih.
 
-**Kode Contoh (HTML/JavaScript):**
+Dengan pendekatan *opt-out* (dorongan yang kuat), kotak persetujuan berikut sudah tercentang sejak formulir dibuka:
 
-```html
-<!-- Pendekatan Opt-out: Box sudah tercentang (Nudge Kuat) -->
-<div class="setting-item">
-  <input type="checkbox" id="analytics" name="analytics" checked>
-  <label for="analytics">Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.</label>
-</div>
+- [x] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
 
-<script>
-  // Logika Default
-  const userPreference = document.getElementById('analytics').checked;
-  if (userPreference) {
-    console.log("Status: Pengguna mengikuti default (Opt-in aktif).");
-  } else {
-    console.log("Status: Pengguna melakukan tindakan aktif untuk menolak.");
-  }
-</script>
-```
+Pengguna yang mengirim formulir tanpa menyentuh kotak itu berarti mengikuti *default*. Hanya pengguna yang melakukan tindakan aktif, yaitu menghapus centangnya, yang menolak. Bandingkan dengan pendekatan *opt-in*, ketika kotak yang sama dibiarkan kosong dan pengguna harus mencentangnya sendiri untuk ikut serta:
 
-**Analisis Teknikal:** Secara teknis, menambahkan atribut `checked` pada elemen input mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
+- [ ] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
+
+**Dampaknya:** Membuat kotak tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
 
 ## 5\. Penggunaan Praktis Pilihan Standar
 

@@ -104,24 +104,16 @@ Prakirawan cuaca menggunakan pemodelan mikrofisika untuk mengestimasi potensi cu
 #### Modifikasi Cuaca (*Cloud Seeding*)
 Dalam operasi penyemaian awan, partikel higroskopis (seperti NaCl) disebarkan untuk menciptakan tetesan berukuran lebih besar secara cepat melalui efek larutan. Langkah ini mempercepat difusi uap awal dan mempersingkat waktu pencapaian fase tabrakan-penyatuan.
 
-#### Simulasi Komputasi Sederhana
-Persamaan pertumbuhan jari-jari tetesan ($r^2(t) = r^2(0) + 2\xi t$) dapat disimulasikan menggunakan kode Python berikut:
+#### Jari-jari yang Tumbuh Makin Lambat
+Pada bagian 2, hasil kali $r \cdot \text{dr/dt}$ dianggap mendekati konstan. Bila nilai konstan itu diberi simbol $\xi$ (faktor pertumbuhan), persamaan pertumbuhan dapat diintegrasikan menjadi:
 
-```python
-# Simulasi pertumbuhan jari-jari tetesan (r) terhadap waktu
-# r^2(t) = r^2(0) + 2 * xi * t (xi adalah faktor pertumbuhan)
+<div>
+$$
+r^2(t) = r^2(0) + 2 \xi t
+$$
+</div>
 
-initial_radius = 1e-6  # 1 mikrometer
-growth_factor = 1e-10  # Konstanta penyederhanaan (m^2/s)
-time_steps = [60, 600, 3600]  # detik
-
-for t in time_steps:
-    new_radius_sq = initial_radius**2 + 2 * growth_factor * t
-    new_radius = new_radius_sq**0.5
-    print(f"Jari-jari setelah {t} detik: {new_radius*1e6:.2f} mikrometer")
-```
-
-Output dari simulasi ini menunjukkan bahwa laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, namun melambat secara konsisten seiring bertambahnya ukuran tetesan.
+Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, namun melambat secara konsisten seiring bertambahnya ukuran tetesan.
 
 ---
 

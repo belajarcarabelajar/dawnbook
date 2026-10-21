@@ -84,30 +84,25 @@ Saat parsel udara naik, suhunya turun akibat ekspansi adiabatik. Berdasarkan hub
 
 Jika pendinginan terus berlanjut, terjadilah kondensasi yang melepaskan panas laten ke lingkungan. Pelepasan energi ini menghangatkan parsel udara di dalam awan dan memberikan dorongan konvektif tambahan untuk terus naik.
 
-### 6. Contoh Perhitungan (Python)
+### 6. Menghitung Tekanan Uap Jenuh
 
-Berikut adalah contoh skrip Python untuk menghitung Tekanan Uap Jenuh menggunakan pendekatan rumus *August-Roche-Magnus* (turunan praktis dari Clausius-Clapeyron):
+Untuk perhitungan cepat, Tekanan Uap Jenuh biasa dihitung dengan rumus *August-Roche-Magnus*, turunan praktis dari Clausius-Clapeyron. Pada rumus ini $T$ ditulis dalam derajat Celsius dan $e_s$ dihasilkan dalam hPa:
 
-```python
-import numpy as np
+<div>
+$$
+e_s = 6{,}112 \cdot \exp\left(\frac{17{,}67 \cdot T}{T + 243{,}5}\right)
+$$
+</div>
 
-def calculate_saturation_vapor_pressure(temp_celsius):
-    """
-    Menghitung tekanan uap jenuh (es) dalam hPa menggunakan 
-    formula Magnus: es = 6.112 * exp((17.67 * T) / (T + 243.5))
-    """
-    es = 6.112 * np.exp((17.67 * temp_celsius) / (temp_celsius + 243.5))
-    return es
+Berikut hasilnya untuk lima suhu, dari suhu di permukaan ($30^\circ\text{C}$) sampai suhu di ketinggian awan ($-10^\circ\text{C}$):
 
-# Contoh suhu di permukaan (30C) dan di ketinggian awan (-10C)
-temps = [30, 20, 10, 0, -10]
-
-print("Suhu (C) | Tekanan Uap Jenuh (hPa)")
-print("-" * 35)
-for t in temps:
-    es = calculate_saturation_vapor_pressure(t)
-    print(f"{t:8} | {es:18.2f}")
-```
+| Suhu ($^\circ\text{C}$) | Tekanan uap jenuh $e_s$ (hPa) |
+| ---: | ---: |
+| 30 | 42,46 |
+| 20 | 23,37 |
+| 10 | 12,27 |
+| 0 | 6,11 |
+| -10 | 2,87 |
 
 **Analisis Hasil:** Nilai $e_s$ berkurang drastis dari suhu $30^\circ\text{C}$ (sekitar $42\text{ hPa}$) hingga suhu $0^\circ\text{C}$ (sekitar $6\text{ hPa}$). Penurunan kapasitas ini memaksa kelebihan uap air berkondensasi menjadi titik air atau membeku menjadi kristal es.
 
