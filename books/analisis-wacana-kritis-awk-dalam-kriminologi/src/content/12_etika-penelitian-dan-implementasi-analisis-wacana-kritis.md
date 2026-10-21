@@ -102,23 +102,21 @@ Untuk menerapkan AWK bagi tujuan advokasi, langkah-langkah berikut dapat ditempu
 3. **Tawarkan Alternatif:** Jangan hanya mengkritik; usulkan glosarium atau terminologi baru yang lebih adil secara sosial.
 4. **Kolaborasi:** Hubungkan temuan riset dengan organisasi bantuan hukum (LBH) atau aktivis hak asasi manusia.
 
-```python
-# Contoh Logika Penilaian Etis dalam Analisis Teks (Pseudo-code)
-def evaluasi_etis(teks_analisis, kepentingan_publik, risiko_pribadi):
-    bias_terdeteksi = deteksi_bias_kekuasaan(teks_analisis)
-    
-    if bias_terdeteksi:
-        if kepentingan_publik > risiko_pribadi:
-            aksi = "Lakukan reformasi wacana melalui Policy Brief"
-        else:
-            aksi = "Publikasi akademik dengan anonimitas ketat"
-    else:
-        aksi = "Revisi kerangka analitis"
-        
-    return aksi
+Sebelum temuan dibawa keluar, peneliti juga menilai secara etis langkah mana yang pantas diambil. Pertama, apakah analisis benar-benar menemukan bias kekuasaan dalam teks? Jika tidak, kerangka analitisnya yang perlu direvisi. Jika ya, peneliti menimbang kepentingan publik terhadap risiko pribadi. Bila kepentingan publik lebih besar, temuan dibawa ke reformasi wacana melalui *Policy Brief*; bila tidak, temuan diterbitkan sebagai publikasi akademik dengan anonimitas ketat.
 
-# Tujuan akhir kriminologi kritis bukan hanya memahami dunia, tetapi mengubahnya.
+Percabangan penilaian itu dapat dilihat sekilas di sini.
+
+```mermaid
+flowchart TD
+    accTitle: Penilaian etis atas temuan analisis wacana
+    accDescr: Jika bias kekuasaan tidak terdeteksi, kerangka analitis direvisi. Jika terdeteksi dan kepentingan publik lebih besar daripada risiko pribadi, peneliti melakukan reformasi wacana melalui policy brief. Jika kepentingan publik tidak lebih besar, temuan diterbitkan sebagai publikasi akademik dengan anonimitas ketat.
+    A{"Bias kekuasaan terdeteksi?"} -->|"tidak"| B["Revisi kerangka analitis"]
+    A -->|"ya"| C{"Kepentingan publik lebih besar daripada risiko pribadi?"}
+    C -->|"ya"| D["Reformasi wacana melalui Policy Brief"]
+    C -->|"tidak"| E["Publikasi akademik dengan anonimitas ketat"]
 ```
+
+Pada akhirnya, tujuan kriminologi kritis bukan hanya memahami dunia, tetapi mengubahnya.
 
 ---
 

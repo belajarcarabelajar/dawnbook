@@ -85,27 +85,13 @@ Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
    - *Premis Minor*: Kode yang saat ini berjalan terbukti tidak memiliki penanganan `try-catch` tersebut.
    - *Konklusi*: Oleh karena itu, aplikasi dipastikan akan crash setiap kali timeout terjadi.
 
-### Implementasi Kode (Pseudo-code Logika Deduktif)
+### Silogisme di Balik Hak Akses
 
-Dalam pemrograman, struktur `if-else` adalah bentuk murni dari logika deduktif:
+Saat memeriksa hak akses, sebuah aplikasi juga menarik kesimpulan deduktif dari satu aturan umum dan data penggunanya. Misalnya, Budi masuk dengan peran editor:
 
-```python
-def check_access(user):
-    # Premis: Hanya admin yang punya akses (Aturan Umum)
-    is_admin = user.role == 'admin'
-    
-    # Logika Deduktif:
-    # Jika user adalah admin -> Berikan akses
-    # Jika bukan -> Tolak akses
-    if is_admin:
-        return "Access Granted"
-    else:
-        return "Access Denied"
-
-# Kasus Spesifik (Premis Minor)
-current_user = {"name": "Budi", "role": "editor"}
-print(check_access(current_user)) # Output: Access Denied
-```
+- **Premis Mayor**: Hanya pengguna berperan admin yang mendapat akses.
+- **Premis Minor**: Budi berperan editor, bukan admin.
+- **Konklusi**: Jadi, akses Budi ditolak.
 
 ## 5\. Kekuatan dan Keterbatasan
 

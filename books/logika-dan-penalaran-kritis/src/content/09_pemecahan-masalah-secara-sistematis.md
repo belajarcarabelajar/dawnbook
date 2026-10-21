@@ -110,27 +110,6 @@ Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perus
 4. **Keputusan**: Menggunakan Matriks Keputusan, opsi C dipilih karena menyeimbangkan kecepatan pemulihan dan pengalaman pengguna.
 5. **Implementasi**: Mengubah konfigurasi DNS. **Evaluasi**: Latensi turun kembali ke 300ms.
 
-#### Contoh Implementasi Logika Pemilihan Solusi (Python)
-
-```python
-# Sederhana: Memilih solusi terbaik berdasarkan skor tertinggi
-solusi = [
-    {"nama": "Solusi A", "biaya": 8, "fitur": 6, "kemudahan": 7},
-    {"nama": "Solusi B", "biaya": 5, "fitur": 9, "kemudahan": 6}
-]
-
-# Bobot kriteria
-bobot = {"biaya": 0.4, "fitur": 0.4, "kemudahan": 0.2}
-
-def hitung_skor(item, bobot):
-    return sum(item[k] * bobot[k] for k in bobot)
-
-# Menentukan pemenang
-pemenang = max(solusi, key=lambda x: hitung_skor(x, bobot))
-
-print(f"Solusi terbaik secara rasional adalah: {pemenang['nama']} dengan skor {hitung_skor(pemenang, bobot)}")
-```
-
 ### Rangkuman Langkah Logis
 
 1. **Identifikasi**: Jangan terkecoh oleh gejala permukaan; temukan akar masalahnya.

@@ -81,24 +81,15 @@ Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa
 
 ## Analisis Putusan Pengadilan
 
-Dalam dokumen hukum, berlakunya model Fairclough dapat diamati melalui struktur argumen:
+Dalam dokumen hukum, model Fairclough dapat diterapkan dengan membaca sebuah putusan hakim pada ketiga dimensinya:
 
-```python
-# Ilustrasi Logika Analisis Wacana dalam Putusan Hakim (Pseudo-code)
+| Dimensi | Yang Diperiksa pada Putusan | Pertanyaan atau Contoh |
+| --- | --- | --- |
+| **Teks (linguistik)** | Pilihan kata dan struktur kalimat | Frasa seperti "terbukti secara sah" atau "memberatkan"; siapa yang diberi panggung bicara? |
+| **Praktik Diskursif** | Rujukan yang dipakai dalam putusan | Apakah putusan merujuk pada norma agama, adat, atau murni hukum? |
+| **Praktik Sosial** | Hegemoni yang mungkin diperkuat atau dilawan oleh putusan | Apakah putusan ini melindungi elit atau rakyat kecil? |
 
-def analisis_fairclough(teks_putusan):
-    # Dimensi 1: Linguistik
-    diksi = cari_kata_kunci(teks_putusan) # Contoh: "terbukti secara sah", "memberatkan"
-    struktur = analisis_gramatika(teks_putusan) # Siapa yang diberi panggung bicara?
-    
-    # Dimensi 2: Praktik Diskursif
-    sumber = lacak_referensi(teks_putusan) # Apakah merujuk pada norma agama, adat, atau murni hukum?
-    
-    # Dimensi 3: Praktik Sosial
-    dampak = evaluasi_hegemoni(teks_putusan) # Apakah putusan ini melindungi elit atau rakyat kecil?
-    
-    return "Hasil dekonstruksi wacana kekuasaan dalam hukum"
-```
+Jawaban atas ketiga pertanyaan itu dapat membantu membongkar wacana kekuasaan yang bekerja di dalam hukum.
 
 ---
 

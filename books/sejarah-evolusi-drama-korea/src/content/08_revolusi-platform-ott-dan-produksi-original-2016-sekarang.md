@@ -62,21 +62,15 @@ Dalam penerapan global hyper-localization, Netflix memakai data algoritma untuk 
 
 Model OTT ini juga membuka ruang bagi aktor pendatang baru dan talenta non-mainstream. Karena tidak terikat pada jaminan iklan televisi nasional, rumah produksi berani menaruh wajah-wajah baru sebagai pemeran utama. Ini menciptakan bintang global baru dalam semalam, seperti kesuksesan Jung Ho-yeon lewat *Squid Game*.
 
-**Contoh Kode (Logika Algoritma Rekomendasi Sederhana):** Platform OTT bekerja berdasarkan preferensi pengguna. Secara sederhana, logikanya seperti ini:
+**Logika rekomendasi sederhana:** Platform OTT bekerja berdasarkan preferensi pengguna. Riwayat tontonan dicocokkan dengan pola tertentu, lalu judul yang sesuai disodorkan. Tabel berikut hanya ilustrasi sederhana, bukan cara kerja algoritma Netflix yang sebenarnya:
 
-```python
-def recommend_kdrama(user_history):
-    if "thriller" in user_history and "dark_themes" in user_history:
-        return "Rekomendasi: Squid Game atau Gyeongseong Creature"
-    elif "romance" in user_history and "modern_setting" in user_history:
-        return "Rekomendasi: Lovestruck in the City (Kakao TV/Netflix)"
-    else:
-        return "Rekomendasi: Kingdom (Global Top Pick)"
+| Riwayat tontonan | Judul yang disodorkan |
+| --- | --- |
+| *Thriller* dan tema gelap | *Squid Game* atau *Gyeongseong Creature* |
+| Romansa dengan latar modern | *Lovestruck in the City* |
+| Belum cocok dengan kedua pola itu | *Kingdom*, sebagai pilihan populer global |
 
-# User baru yang suka tema gelap
-user_A = ["thriller", "dark_themes", "social_critique"]
-print(recommend_kdrama(user_A))
-```
+Penonton baru yang riwayatnya berisi *thriller* bertema gelap, misalnya, akan disodori *Squid Game* atau *Gyeongseong Creature*.
 
 ### 6. Tantangan di Era Baru
 

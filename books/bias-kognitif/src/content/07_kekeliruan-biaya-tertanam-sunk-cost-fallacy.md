@@ -55,34 +55,9 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 
-### Logika Pengambilan Keputusan dalam Kode
+### Melanjutkan atau Menghentikan Proyek
 
-Berikut adalah simulasi sederhana dalam Python untuk membantu menentukan apakah sebuah proyek layak dilanjutkan:
-
-```python
-def should_continue_project(sunk_cost, future_cost, expected_benefit):
-    """
-    Menentukan apakah proyek harus dilanjutkan berdasarkan prinsip ekonomi.
-    Sunk cost diabaikan dalam pengambilan keputusan.
-    """
-    # Secara rasional, kita hanya melihat masa depan
-    net_gain_if_continued = expected_benefit - future_cost
-    
-    print(f"Investasi yang sudah hilang (Sunk Cost): Rp{sunk_cost}")
-    print(f"Biaya tambahan yang dibutuhkan: Rp{future_cost}")
-    print(f"Estimasi keuntungan total di masa depan: Rp{expected_benefit}")
-    
-    if net_gain_if_continued > 0:
-        return "LANJUTKAN: Keuntungan masa depan menutupi biaya masa depan."
-    else:
-        return "HENTIKAN: Kamu hanya akan membuang lebih banyak sumber daya."
-
-# Contoh kasus: Proyek aplikasi yang sudah menghabiskan 100 juta
-# Tapi butuh 50 juta lagi untuk selesai, padahal pasarnya sudah hilang (hanya bernilai 30 juta)
-print(should_continue_project(100_000_000, 50_000_000, 30_000_000))
-```
-
-Kalau kamu tidak terbiasa membaca Python, logika fungsi di atas bisa kamu ikuti lewat alur berikut.
+Prinsip ekonomi yang sama bisa membantu menentukan apakah sebuah proyek layak dilanjutkan. Secara rasional, kita hanya melihat masa depan, jadi investasi yang sudah hilang tidak ikut dihitung. Bila keuntungan bersihnya positif, proyek layak dilanjutkan karena keuntungan masa depan menutupi biaya masa depan. Bila tidak, melanjutkannya hanya membuang lebih banyak sumber daya. Urutan pertimbangannya bisa kamu ikuti lewat alur berikut.
 
 ```mermaid
 flowchart TD
@@ -93,6 +68,18 @@ flowchart TD
     C -->|"ya"| D["LANJUTKAN, keuntungan masa depan menutupi biaya masa depan"]
     C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
 ```
+
+Contohnya, dengan angka ilustrasi: sebuah proyek aplikasi sudah menghabiskan Rp100 juta, tetapi butuh Rp50 juta lagi untuk selesai, padahal pasarnya sudah hilang sehingga aplikasi itu hanya bernilai Rp30 juta.
+
+| Komponen | Nilai |
+| --- | --- |
+| Investasi yang sudah hilang (sunk cost) | Rp100 juta, diabaikan |
+| Biaya tambahan yang dibutuhkan | Rp50 juta |
+| Estimasi keuntungan masa depan | Rp30 juta |
+| Keuntungan bersih (Rp30 juta - Rp50 juta) | -Rp20 juta |
+| Keputusan | Hentikan |
+
+Keuntungan bersihnya negatif, jadi proyek sebaiknya dihentikan. Rp100 juta yang sudah keluar tidak mengubah hasil hitungan ini sama sekali.
 
 ## 5. Real-World Applications (Aplikasi Dunia Nyata)
 

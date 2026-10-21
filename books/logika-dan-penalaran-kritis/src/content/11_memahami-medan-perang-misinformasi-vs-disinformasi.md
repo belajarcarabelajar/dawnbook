@@ -69,20 +69,13 @@ Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya t
 1. **Cek Artefak Visual:** Perhatikan area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
 2. **Analisis Metadata:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
 3. **Gunakan Logika "Terlalu Indah untuk Menjadi Nyata":** Jika informasi tersebut sangat memuaskan biasmu (misalnya: lawan politikmu melakukan kesalahan fatal), justru di situlah kamu harus paling curiga.
-```python
-# Analogi sederhana logika penyaringan informasi dalam kode
-def saring_informasi(berita):
-    if berita.mengandung_emosi_ekstrem():
-        return "Berhenti! Periksa kembali sumbernya."
-    
-    if not berita.sumber_terverifikasi():
-        return "Cari referensi dari media kredibel lainnya."
-        
-    if berita.klaim_tanpa_bukti():
-        return "Tunggu bukti pendukung muncul."
-        
-    return "Informasi dapat dipertimbangkan setelah verifikasi lateral."
-```
+
+Untuk informasi apa pun, bukan hanya video, urutan penyaringannya bisa diringkas menjadi empat pemeriksaan:
+
+1. **Memancing emosi ekstrem?** Berhenti, lalu periksa kembali sumbernya.
+2. **Sumbernya belum terverifikasi?** Cari referensi dari media kredibel lainnya.
+3. **Klaimnya tanpa bukti?** Tunggu sampai bukti pendukung muncul.
+4. **Lolos ketiga pemeriksaan tadi?** Informasi itu baru dapat dipertimbangkan setelah kamu melakukan verifikasi lateral.
 
 ## 7. Kejernihan Berpikir dan Digital Hygiene
 

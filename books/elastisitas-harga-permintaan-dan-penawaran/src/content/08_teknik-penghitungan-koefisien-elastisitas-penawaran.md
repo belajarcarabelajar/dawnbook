@@ -44,27 +44,23 @@ Mari kita terapkan rumus di atas ke dalam skenario nyata.
 2. Cari $\Delta \text{P}$: $250.000 - 200.000 = 50.000$
 3. Masukkan ke rumus: $\text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} = 0,01 \times 200 = 2$
 **Interpretasi:** Nilai $\text{E}_s = 2$ berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1\%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
-## 5. Menghitung dengan Kode (Python)
-Jika kamu bekerja dengan data besar, penghitungan manual tentu tidak efisien. Berikut adalah cuplikan kode sederhana untuk menghitung elastisitas penawaran:
-```python
-def hitung_elastisitas_penawaran(p1, p2, q1, q2):
-    # Menggunakan metode midpoint untuk akurasi lebih baik
-    perubahan_q = q2 - q1
-    rata_rata_q = (q1 + q2) / 2
-    persen_perubahan_q = perubahan_q / rata_rata_q
-    perubahan_p = p2 - p1
-    rata_rata_p = (p1 + p2) / 2
-    persen_perubahan_p = perubahan_p / rata_rata_p
-    es = persen_perubahan_q / persen_perubahan_p
-    return round(es, 2)
-# Contoh Penggunaan
-harga_awal = 200000
-harga_baru = 250000
-jumlah_awal = 1000
-jumlah_baru = 1500
-hasil = hitung_elastisitas_penawaran(harga_awal, harga_baru, jumlah_awal, jumlah_baru)
-print(f"Koefisien Elastisitas Penawaran (Midpoint): {hasil}")
-```
+## 5. Hasil Metode Nilai Tengah
+Data pabrik sepatu yang sama juga bisa dihitung dengan rumus midpoint dari bagian 2. Bedanya, perubahan harga dan jumlah dibandingkan dengan **rata-rata** nilai awal dan nilai akhir, bukan dengan nilai awal saja.
+
+| Langkah | Jumlah (pasang) | Harga (Rp) |
+| --- | --- | --- |
+| Perubahan | 1.500 - 1.000 = 500 | 250.000 - 200.000 = 50.000 |
+| Rata-rata | (1.000 + 1.500) / 2 = 1.250 | (200.000 + 250.000) / 2 = 225.000 |
+| Perubahan terhadap rata-rata | 500 / 1.250 = 0,4 | 50.000 / 225.000 = 0,222... |
+
+<div>
+$$
+\text{E}_s = \frac{0{,}4}{0{,}222...} = 1{,}8
+$$
+</div>
+
+Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 dari rumus turunan di bagian 4, karena kedua metode memakai pembanding yang berbeda. Kesimpulannya tetap sama: 1,8 lebih besar dari 1, sehingga penawaran sepatu ini **elastis**.
+
 ## 6. Industri Agrikultur vs. Manufaktur
 Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:
 1. **Industri Agrikultur (Contoh: Petani Padi):** Meskipun harga padi di pasar melonjak hari ini, petani tidak bisa langsung memanen lebih banyak padi besok pagi. Proses biologis membutuhkan waktu. Saat dihitung, nilai $\text{E}_s$ padi dalam jangka pendek biasanya **rendah (inelastis)**.

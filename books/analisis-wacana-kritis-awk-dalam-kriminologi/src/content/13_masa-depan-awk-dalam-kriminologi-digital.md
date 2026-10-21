@@ -63,21 +63,18 @@ Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data s
 
 Seorang kriminolog digital dapat menggunakan bahasa pemrograman Python untuk melakukan *web scraping* dan menganalisis bagaimana suatu kelompok minoritas dikonstruksikan sebagai "ancaman" dalam skala besar.
 
-```python
-# Contoh sederhana analisis frekuensi kata untuk melihat konstruksi wacana
-import nltk
-from nltk.tokenize import word_tokenize
+Contoh sederhananya adalah analisis frekuensi kata. Ambil satu komentar fiktif di media sosial tentang suatu wilayah:
 
-# Teks fiktif dari komentar media sosial tentang suatu wilayah
-comments = "Wilayah X sangat rawan. Banyak kriminal di sana. Hati-hati di wilayah X."
+> *"Wilayah X sangat rawan. Banyak kriminal di sana. Hati-hati di wilayah X."*
 
-tokens = word_tokenize(comments.lower())
-# Mencari hubungan kata 'Wilayah X' dengan 'Kriminal'
-dist = nltk.FreqDist(tokens)
-print(f"Frekuensi kata 'kriminal': {dist['kriminal']}")
-```
+Dua kata yang relevan dari komentar itu muncul sebagai berikut:
 
-Dengan teknik ini, AWK dapat memetakan **hegemoni digital**, yaitu bagaimana opini tertentu mendominasi ruang publik digital dan membungkam suara-suara alternatif (korban atau kelompok marginal).
+| Kata | Jumlah Kemunculan |
+| :--- | :--- |
+| *wilayah* | 2 |
+| *kriminal* | 1 |
+
+Hitungan kecil ini sudah memperlihatkan satu wilayah yang disebut berulang bersama kata *kriminal*. Bila hitungan yang sama diterapkan pada jutaan cuitan, AWK dapat memetakan **hegemoni digital**, yaitu bagaimana opini tertentu mendominasi ruang publik digital dan membungkam suara-suara alternatif (korban atau kelompok marginal).
 
 ### 5. Tantangan Etis dan Masa Depan
 

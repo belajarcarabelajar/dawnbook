@@ -93,35 +93,18 @@ Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Be
 2. **Ideologi Punitif**: Mendorong pendekatan penghukuman keras. Frasa *"Rakyat yang bertindak"* secara implisit melegitimasi aksi main hakim sendiri (*vigilantism*).
 3. **Stereotipisasi**: Kata *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosio-ekonomi.
 
-#### Analisis Sentimen Diksi Berita Kriminal
+#### Kata Kunci Ancaman di Tajuk Berita Kriminal
 
-Para peneliti kriminologi modern dapat memanfaatkan analisis teks komputasional untuk memetakan tren diksi ketakutan. Berikut adalah contoh skrip Python sederhana untuk mengekstrak frekuensi kata kunci berkonotasi ancaman dari tajuk berita:
+Para peneliti kriminologi modern dapat memanfaatkan analisis teks komputasional untuk memetakan tren diksi ketakutan, misalnya dengan menghitung kata kunci berkonotasi ancaman dalam tajuk berita. Berikut empat contoh tajuk beserta kata kunci ancaman yang dikandungnya:
 
-```python
-import collections
-import re
+| Contoh Tajuk Berita | Kata Kunci Berkonotasi Ancaman |
+| :--- | :--- |
+| "Polisi Ringkus Begal Sadis di Terminal" | *sadis* |
+| "Waspada! Teror Geng Motor Menghantui Warga" | *teror*, *menghantui* |
+| "Aksi Brutal Bandit Jalanan Terekam CCTV" | *brutal* |
+| "Darurat Narkoba: Predator Anak Mengincar Korban Baru" | *darurat*, *predator* |
 
-# Data sampel headline berita kriminal
-headlines = [
-    "Polisi Ringkus Begal Sadis di Terminal",
-    "Waspada! Teror Geng Motor Menghantui Warga",
-    "Aksi Brutal Bandit Jalanan Terekam CCTV",
-    "Darurat Narkoba: Predator Anak Mengincar Korban Baru"
-]
-
-# Menggabungkan teks dan membersihkan karakter non-alfanumerik
-all_text = " ".join(headlines).lower()
-words = re.findall(r'\w+', all_text)
-
-# Menghitung frekuensi kemunculan kata
-word_counts = collections.Counter(words)
-
-# Menampilkan kata kunci yang mengonstruksi narasi ketakutan
-fear_keywords = ['sadis', 'teror', 'menghantui', 'brutal', 'darurat', 'predator']
-for word in fear_keywords:
-    if word in word_counts:
-        print(f"Kata Kunci: '{word}' muncul {word_counts[word]} kali")
-```
+Dalam contoh kecil ini, keenam kata kunci masing-masing muncul satu kali. Hitungan seperti ini baru berguna bila diterapkan pada kumpulan tajuk yang jauh lebih besar.
 
 ---
 

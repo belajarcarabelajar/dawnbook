@@ -57,28 +57,25 @@ Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyat
 	2. Ia menggunakan **Intellectual Humility**: "Mungkin asumsi awal saya tentang kebutuhan pengguna salah."
 	3. Ia menerapkan **Bayesian Updating**: Data baru menunjukkan kegagalan $\rightarrow$ Peluang fitur ini sukses di masa depan menurun $\rightarrow$ Putuskan untuk menghentikan proyek (Pivot).
 
-**Contoh Kode (Logika Pengambilan Keputusan):** Jika kita memodelkan objektivitas dalam sebuah algoritma sederhana untuk mengevaluasi opini:
+Cara mengevaluasi opini secara objektif juga bisa dimodelkan dengan hitungan sederhana. Hitungan ini hanyalah rata-rata berbobot antara keyakinan lama dan bukti baru. Semua nilainya memakai skala 0 sampai 1, dan bobot bukti menunjukkan seberapa kuat bukti itu:
 
-```python
-def evaluasi_opini(opini_saat_ini, bukti_baru, kekuatan_bukti):
-    # Kekuatan bukti dalam skala 0.0 sampai 1.0
-    threshold_objektivitas = 0.5
-    
-    if kekuatan_bukti > threshold_objektivitas:
-        print("Memperbarui pandangan berdasarkan data objektif.")
-        return (opini_saat_ini * (1 - kekuatan_bukti)) + (bukti_baru * kekuatan_bukti)
-    else:
-        print("Bukti kurang kuat, namun tetap pertimbangkan sebagai anomali.")
-        return opini_saat_ini
+<div>
+$$
+\text{Keyakinan Baru} = \text{Keyakinan Lama} \times (1 - \text{Bobot}) + \text{Bukti} \times \text{Bobot}
+$$
+</div>
 
-# Penggunaan:
-keyakinan_awal = 0.9 # Sangat yakin
-bukti_kontra = 0.1   # Bukti baru yang menunjukkan hal sebaliknya
-bobot_bukti = 0.8    # Bukti ini sangat valid dan saintifik
+Pandangan hanya diperbarui bila bobot bukti lebih dari 0,5 (ambang ini angka ilustrasi). Bila bobotnya 0,5 atau kurang, keyakinan lama dipertahankan, tetapi bukti itu tetap dipertimbangkan sebagai anomali.
 
-keyakinan_baru = evaluasi_opini(keyakinan_awal, bukti_kontra, bobot_bukti)
-print(f"Keyakinan setelah update: {keyakinan_baru:.2f}")
-```
+Contohnya, dengan angka ilustrasi: kamu sangat yakin pada sebuah opini (0,9), lalu muncul bukti baru yang menunjukkan hal sebaliknya (0,1). Bukti ini sangat valid dan saintifik, sehingga bobotnya 0,8, di atas ambang 0,5.
+
+| Langkah | Hitungan | Hasil |
+| --- | --- | --- |
+| Porsi keyakinan lama | 0,9 × (1 - 0,8) = 0,9 × 0,2 | 0,18 |
+| Porsi bukti baru | 0,1 × 0,8 | 0,08 |
+| Keyakinan baru | 0,18 + 0,08 | 0,26 |
+
+Pada contoh ini, satu bukti yang kuat menurunkan keyakinan dari 0,9 menjadi 0,26.
 
 ### 5. Menjadi Pengamat yang Jernih
 

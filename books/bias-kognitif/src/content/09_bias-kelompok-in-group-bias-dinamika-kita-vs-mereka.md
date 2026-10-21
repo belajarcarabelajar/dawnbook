@@ -67,14 +67,7 @@ Dalam dunia teknik, sering terjadi gesekan antara tim *Developer* (yang membuat 
 
 Banyak perusahaan besar menolak menggunakan teknologi hebat yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri yang lebih buruk hanya karena "bukan kita yang membuatnya". Ini adalah bentuk murni dari *In-group Bias* di level korporasi.
 
-```python
-# Contoh pseudocode pola pikir Bias Kelompok dalam seleksi ide
-def evaluasi_ide(ide):
-    if ide.pencipta == "Anggota_Tim_Saya":
-        return "Ide Brilian! Mari kita eksekusi."
-    else:
-        return "Perlu ditinjau ulang (mencari-cari kesalahan)."
-```
+Saat menyeleksi ide, pola pikir bias kelompok itu sederhana: ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
 
 ## Cara Mengenali dan Mengurangi Bias Kelompok
 

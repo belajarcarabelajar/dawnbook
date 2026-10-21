@@ -84,17 +84,7 @@ Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar
 
 **Contoh Logika Pengelolaan Kelas:**
 
-```python
-if siswa_mulai_gaduh:
-    lakukan_kontak_mata()
-    berhenti_berbicara_sejenak()
-    if gaduh_berlanjut:
-        tegur_halus_dengan_nama_siswa()
-else:
-    lanjutkan_pembelajaran()
-```
-
-Bagi kamu yang tidak terbiasa membaca kode, logika yang sama dapat diikuti lewat alur keputusan di bawah.
+Saat siswa mulai gaduh, guru lebih dulu melakukan kontak mata dan berhenti berbicara sejenak. Jika kegaduhan berlanjut, guru menegur siswa dengan halus sambil menyebut namanya. Jika siswa tidak gaduh, pembelajaran dilanjutkan seperti biasa. Percabangan tindakan guru tersebut tergambar pada alur keputusan di bawah.
 
 ```mermaid
 flowchart TD
