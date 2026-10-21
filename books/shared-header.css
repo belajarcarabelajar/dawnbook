@@ -142,6 +142,10 @@ html {
   to { transform: rotate(360deg); }
 }
 
+/* Display math: MathJax 2 never wraps a formula, so one wider than the column scrolls sideways on its own instead of pushing the whole text column.
+   The 3px padding keeps descenders in \text{...} (measured: the g in multiple-intelligences 10) from being clipped by overflow-y; it adds 3px of space above and below each formula. Keep it in whole pixels: in a screenshot test, 0.15em changed the rendering of 6 of 15 formulas, 3px changed none of 583 (GEMINI.md section 10). */
+.content .MathJax_Display { overflow-x: auto; overflow-y: hidden; -webkit-overflow-scrolling: touch; padding: 3px 0; }
+
 /* Inline Mermaid diagrams: scroll sideways on narrow screens instead of shrinking the labels. */
 .dawnbook-diagram { margin: 1.5rem 0; overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .dawnbook-diagram svg { display: block; margin: 0 auto; height: auto; }
