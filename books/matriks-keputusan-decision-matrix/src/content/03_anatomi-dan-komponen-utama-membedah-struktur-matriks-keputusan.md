@@ -90,32 +90,17 @@ Mari kita lihat penerapannya pada skenario nyata. Bayangkan seorang manajer HR i
 
 Dengan menggunakan struktur *decision matrix* ini, manajer HR tidak hanya terpaku pada siapa yang paling mahir pemrograman, melainkan dapat menemukan kandidat yang paling sesuai dengan kebutuhan organisasi secara menyeluruh.
 
-### Implementasi Kode (Python)
+### Matriks Tiga Vendor yang Sudah Terisi
 
-Bagi kamu yang memiliki latar belakang teknis, memahami anatomi matriks keputusan akan lebih mudah jika diekspresikan ke dalam struktur data seperti *dictionary* atau *list* pada Python.
+Agar semua komponen tadi terlihat bekerja bersama, berikut satu matriks yang sudah terisi lengkap. Tiga vendor dinilai pada tiga kriteria dengan skor skala 1–10. Semua angkanya adalah angka ilustrasi.
 
-```python
-# Anatomi Matriks Keputusan dalam Kode Python
-decision_matrix = {
-    "kriteria": ["Harga", "Kualitas", "Kecepatan"],
-    "bobot": [0.4, 0.4, 0.2],
-    "alternatif": {
-        "Vendor A": [8, 7, 9], # Skor untuk tiap kriteria
-        "Vendor B": [6, 9, 7],
-        "Vendor C": [9, 6, 6]
-    }
-}
+| Alternatif | Harga (bobot 0,4) | Kualitas (bobot 0,4) | Kecepatan (bobot 0,2) | Total Skor Berbobot |
+| :--- | :---: | :---: | :---: | :--- |
+| **Vendor A** | 8 | 7 | 9 | (8 × 0,4) + (7 × 0,4) + (9 × 0,2) = **7,8** |
+| **Vendor B** | 6 | 9 | 7 | (6 × 0,4) + (9 × 0,4) + (7 × 0,2) = **7,4** |
+| **Vendor C** | 9 | 6 | 6 | (9 × 0,4) + (6 × 0,4) + (6 × 0,2) = **7,2** |
 
-def calculate_winner(matrix):
-    results = {}
-    for vendor, scores in matrix["alternatif"].items():
-        total_score = sum(s * w for s, w in zip(scores, matrix["bobot"]))
-        results[vendor] = round(total_score, 2)
-    return results
-
-# Output: {'Vendor A': 7.8, 'Vendor B': 7.4, 'Vendor C': 7.2}
-print(calculate_winner(decision_matrix))
-```
+Vendor A keluar sebagai pilihan teratas. Perhatikan Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
 
 ### Ringkasan Komponen
 

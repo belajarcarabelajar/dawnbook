@@ -66,27 +66,21 @@ Lihatlah hal-hal sebagaimana adanya, tanpa label nilai yang kita tempelkan.
 
 Tanyakan pada diri sendiri: *"Apakah hal ini benar-benar di bawah kendaliku? Apakah penilaianku bahwa ini 'buruk' benar-benar akurat?"*
 
-## Algoritma Pengelola Emosi
+## Dua Pertanyaan Sebelum Bereaksi
 
-Jika kita memandang pikiran manusia seperti sebuah sistem operasi, kita bisa menggunakan struktur logika untuk memproses emosi sebelum ia menjadi *output* yang merusak.
+Seorang Stoik memeriksa sebuah peristiwa sebelum emosinya sempat menguasai dirinya. Saat peristiwa datang, ia mengajukan dua pertanyaan berurutan. Pertama, apakah peristiwa ini secara moral buruk, yaitu merusak karakter? Kalau ya, ambil tindakan perbaikan. Kalau tidak, berarti ini hanya masalah eksternal, misalnya macet, kritik orang, atau kehilangan uang. Lalu muncul pertanyaan kedua: apakah hal ini berada di luar kendali kamu? Kalau ya, bersikaplah netral (*indifferent*), dan hasilnya adalah ketenangan batin (*Ataraxia*). Kalau masih dalam kendali kamu, berikan respons yang rasional.
 
-```python
-# Pseudocode Proses Mental Stoik
-def proses_kejadian(peristiwa):
-    kesan = evaluasi_awal(peristiwa)
-    
-    # Apakah peristiwa ini secara moral buruk (merusak karakter)?
-    if kesan.is_bad_for_character == True:
-        ambil_tindakan_perbaikan()
-    else:
-        # Jika hanya masalah eksternal (macet, kritik orang, kehilangan uang)
-        status_kendali = cek_dikotomi_kendali(peristiwa)
-        
-        if status_kendali == "LUAR_KENDALI":
-            bersikap_indifferen()
-            return "Ketenangan Batin (Ataraxia)"
-            
-    return "Respon Rasional"
+Dua pertanyaan itu membentuk percabangan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Dua pertanyaan Stoik sebelum bereaksi
+    accDescr: Saat peristiwa datang, pertanyaan pertama adalah apakah peristiwa itu merusak karakter. Jika ya, ambil tindakan perbaikan. Jika tidak, itu hanya masalah eksternal, lalu pertanyaan kedua adalah apakah hal itu di luar kendali. Jika ya, bersikap netral dan hasilnya ketenangan batin atau Ataraxia. Jika masih dalam kendali, berikan respons yang rasional.
+    A["Peristiwa datang"] --> B{"Merusak karakter?"}
+    B -->|"ya"| C["Ambil tindakan perbaikan"]
+    B -->|"tidak, hanya masalah eksternal"| D{"Di luar kendali?"}
+    D -->|"ya"| E["Bersikap netral, hasilnya ketenangan batin (Ataraxia)"]
+    D -->|"tidak"| F["Berikan respons yang rasional"]
 ```
 
 ## Kritik Pedas dari Atasan

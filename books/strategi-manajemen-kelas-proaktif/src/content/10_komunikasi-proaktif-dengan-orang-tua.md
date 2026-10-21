@@ -67,23 +67,13 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 **Konteks:** Seorang siswa sering mengganggu teman saat jam pelajaran.
 
-```python
-Kepada Ibu Maya,
-
-(Roti Atas)
-"Selamat siang Bu, saya ingin mengapresiasi semangat belajar Andi hari ini. 
-Andi sangat aktif menjawab pertanyaan saat pelajaran Sains."
-
-(Isi)
-"Namun, saya memperhatikan Andi kesulitan mengontrol energinya saat sesi 
-kerja mandiri, sehingga ia sering berjalan-jalan dan mengganggu teman 
-di sekitarnya. Hal ini membuat tugasnya sering tidak selesai tepat waktu."
-
-(Roti Bawah)
-"Bagaimana menurut Ibu? Apakah ada strategi di rumah yang biasa Ibu gunakan 
-untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas 
-agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya."
-```
+> Kepada Ibu Maya,
+>
+> **Roti Atas:** Selamat siang Bu, saya ingin mengapresiasi semangat belajar Andi hari ini. Andi sangat aktif menjawab pertanyaan saat pelajaran Sains.
+>
+> **Isi:** Namun, saya memperhatikan Andi kesulitan mengontrol energinya saat sesi kerja mandiri, sehingga ia sering berjalan-jalan dan mengganggu teman di sekitarnya. Hal ini membuat tugasnya sering tidak selesai tepat waktu.
+>
+> **Roti Bawah:** Bagaimana menurut Ibu? Apakah ada strategi di rumah yang biasa Ibu gunakan untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya.
 
 ## 6. Rencana Aksi 30 Hari
 

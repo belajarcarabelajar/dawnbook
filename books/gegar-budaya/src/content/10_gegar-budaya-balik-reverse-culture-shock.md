@@ -92,14 +92,11 @@ Cari komunitas sesama *returnees* (orang yang baru pulang). Berbicara dengan ora
 
 ### 3\. Praktikkan "Internalization"
 
-Buatlah jurnal untuk memetakan nilai-nilai baru yang kamu dapatkan.
+Buatlah jurnal untuk memetakan nilai-nilai baru yang kamu dapatkan. Contohnya, sebuah catatan berjudul "Log Perubahan Identitas" bisa berisi:
 
-```
-Log Perubahan Identitas:
-- Nilai yang saya bawa pulang: Kemandirian, Ketepatan waktu.
-- Nilai lama yang ingin saya peluk kembali: Keramahtamahan, Kekeluargaan.
-- Titik temu: Saya akan tetap mandiri, namun tetap menghormati hierarki keluarga.
-```
+> - **Nilai yang saya bawa pulang:** kemandirian, ketepatan waktu.
+> - **Nilai lama yang ingin saya peluk kembali:** keramahtamahan, kekeluargaan.
+> - **Titik temu:** saya akan tetap mandiri, namun tetap menghormati hierarki keluarga.
 
 ### 4\. Jadilah Turis di Kota Sendiri
 

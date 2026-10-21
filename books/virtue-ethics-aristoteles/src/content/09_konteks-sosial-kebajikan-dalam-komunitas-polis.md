@@ -43,23 +43,15 @@ Dalam dunia profesional, lingkungan kantor adalah bentuk *Polis* modern. Perusah
 
 Media sosial berperan sebagai *Polis* digital. Di ruang ini, anonimitas sering kali melunturkan habituasi kebajikan, membuat orang lebih mudah melontarkan kata-kata kasar. Di sinilah *Digital Phronesis* (kebijaksanaan praktis digital) dibutuhkan. Kita harus menyadari bahwa setiap komentar yang diketik ikut memengaruhi kesehatan mental komunitas maya tersebut.
 
-Bagi pengembang perangkat lunak, merancang sistem atau algoritma yang adil merupakan bentuk kontribusi pada *Polis*.
+Merancang sistem atau aturan yang adil juga merupakan bentuk kontribusi pada *Polis*. Contoh sederhananya adalah keadilan distributif dalam alokasi sumber daya. Keadilan ini bersifat proporsional, sehingga porsi setiap individu dihitung sebanding dengan kontribusinya:
 
-```python
-# Contoh sederhana logika Keadilan Distributif dalam alokasi sumber daya
-def alokasi_sumber_daya(kontribusi_individu, total_sumber_daya):
-    # Keadilan bersifat proporsional sesuai porsi (Aristotelian Justice)
-    total_kontribusi = sum(kontribusi_individu.values())
-    distribusi = {}
-    
-    for individu, nilai in kontribusi_individu.items():
-        porsi = (nilai / total_kontribusi) * total_sumber_daya
-        distribusi[individu] = porsi
-        
-    return distribusi
+<div>
+$$
+\text{Porsi individu} = \frac{\text{Kontribusi individu}}{\text{Total kontribusi semua individu}} \times \text{Total sumber daya}
+$$
+</div>
 
-# Komunitas yang menghargai kontribusi akan membentuk karakter yang rajin.
-```
+Semakin besar kontribusi seseorang dibandingkan total kontribusi, semakin besar pula porsi sumber daya yang ia terima. Komunitas yang menghargai kontribusi dengan cara ini dapat membentuk karakter yang rajin.
 
 ### 5. Menuju Kesejahteraan Bersama
 

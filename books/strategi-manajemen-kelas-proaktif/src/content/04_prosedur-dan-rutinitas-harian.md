@@ -42,22 +42,11 @@ Jangan biarkan siswa mengerumuni meja kamu untuk mengumpulkan tugas.
 - **Warna Map:** Gunakan map warna-warni berdasarkan mata pelajaran atau nomor absen.
 - **Prosedur "Pass to the Left":** Siswa menggeser kertas ke arah kiri, dan siswa di paling ujung memberikan tumpukan yang rapi kepada guru.
 
-### Algoritma Rutinitas Pengumpulan (Logical Flow)
+### Alur Mengumpulkan Tugas
 
-Bagi kamu yang menyukai pendekatan sistematis, berikut adalah "kode" prosedur pengumpulan tugas:
+Bagi kamu yang menyukai pendekatan sistematis, prosedur pengumpulan tugas bisa diajarkan sebagai dua cabang. Siswa yang tugasnya sudah selesai mengecek nama dan tanggal, memasukkan tugas ke folder sesuai mapel, kembali ke tempat duduk, lalu memulai aktivitas pengayaan. Siswa yang belum selesai tetap tenang dan mengikuti instruksi tambahan.
 
-```json
-IF tugas_selesai == TRUE:
-   CHECK nama_dan_tanggal()
-   MOVE_TO folder_sesuai_mapel()
-   RETURN_TO tempat_duduk()
-   START aktivitas_pengayaan()
-ELSE:
-   STAY tenang()
-   FOLLOW instruksi_tambahan()
-```
-
-Kalau kamu lebih mudah membaca alur bercabang, kode di atas dapat digambar sebagai bagan berikut.
+Kalau kamu lebih mudah membaca alur bercabang, kedua cabang itu dapat digambar sebagai bagan berikut.
 
 ```mermaid
 flowchart TD

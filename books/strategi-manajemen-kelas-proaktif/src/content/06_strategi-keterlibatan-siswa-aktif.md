@@ -76,21 +76,16 @@ Gunakan struktur ini untuk menjaga ritme kelas:
 
 Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan secara instan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
 
-**Contoh Implementasi Sederhana (Pseudo-code untuk Logika Kuis Interaktif):**
+Logika di balik kuis interaktif semacam ini bisa dibuat sederhana. Sebagai contoh dengan angka ilustrasi, jawaban benar mendapat 100 poin dasar ditambah bonus kecepatan, yaitu 50 dikurangi waktu menjawab, dan bonus itu tidak pernah kurang dari nol:
 
-```python
-## Logika sederhana di balik keterlibatan melalui gamifikasi
-def check_engagement(student_response, time_taken):
-    base_points = 100
-    if student_response == "Correct":
-        # Memberikan reward instan untuk menjaga motivasi
-        bonus = max(0, 50 - time_taken) 
-        score = base_points + bonus
-        return f"Hebat! Skor kamu: {score}. Lanjut ke tantangan berikutnya!"
-    else:
-        # Memberikan umpan balik konstruktif tanpa menjatuhkan
-        return "Coba lagi! Ingat konsep X yang baru kita bahas."
-```
+<div>
+$$
+\text{skor} = 100 + \max(0, 50 - \text{waktu menjawab})
+$$
+</div>
+
+- **Jawaban benar:** siswa langsung mendapat pesan yang menyebut skornya dan mengajak lanjut, misalnya *"Hebat! Lanjut ke tantangan berikutnya!"* Hadiah instan seperti ini menjaga motivasi.
+- **Jawaban salah:** siswa tidak mendapat skor, tetapi menerima umpan balik konstruktif yang tidak menjatuhkan, misalnya *"Coba lagi! Ingat konsep X yang baru kita bahas."*
 
 ## 6. Kelas Sejarah Ibu Ratna
 

@@ -86,39 +86,7 @@ Mari kita terapkan metode ini pada skenario bisnis nyata. Sebuah perusahaan seda
 
 **Hasil Akhir:** Vendor A terpilih sebagai pemenang meskipun harganya lebih mahal. Hal ini disebabkan karena Vendor A unggul pada kriteria keamanan yang memiliki bobot penilaian paling tinggi.
 
-### 6. Implementasi Teknis dengan Python
-
-Bagi kamu yang ingin mengotomatisasi proses ini untuk menangani data berskala besar, berikut adalah cuplikan kode sederhana menggunakan Python untuk menghitung skor berbobot secara otomatis:
-
-```python
-def calculate_weighted_score(alternatives, weights):
-    results = {}
-    
-    for name, scores in alternatives.items():
-        # Mengalikan skor mentah dengan bobot dan menjumlahkannya
-        total_score = sum(s * w for s, w in zip(scores, weights))
-        results[name] = round(total_score, 2)
-        
-    # Mengurutkan hasil dari yang tertinggi
-    sorted_results = dict(sorted(results.items(), key=lambda item: item[1], reverse=True))
-    return sorted_results
-
-# Data: [Keamanan, Harga, Fitur]
-weights = [0.5, 0.3, 0.2]
-vendors = {
-    "Vendor A": [8, 6, 9],
-    "Vendor B": [6, 9, 7],
-    "Vendor C": [7, 7, 7]
-}
-
-final_rank = calculate_weighted_score(vendors, weights)
-
-print("Peringkat Keputusan:")
-for rank, (name, score) in enumerate(final_rank.items(), 1):
-    print(f"{rank}. {name}: {score}")
-```
-
-### 7. Penggunaan di Dunia Nyata
+### 6. Penggunaan di Dunia Nyata
 
 Metode perhitungan ini digunakan secara luas dalam berbagai bidang profesional:
 

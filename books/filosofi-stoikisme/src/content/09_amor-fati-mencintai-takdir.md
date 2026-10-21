@@ -52,27 +52,9 @@ Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse 
 		2. **Mencari Kegunaan:** "Mungkin ini adalah kesempatan bagi saya untuk mengevaluasi kekurangan saya atau mencari peluang di tempat yang lebih menghargai saya."
 		3. **Mencintai Takdir:** "Saya bersyukur tidak mendapatkan promosi ini sekarang, karena ini memaksa saya untuk menjadi lebih tangguh dan kreatif. Ini adalah ujian yang saya perlukan."
 
-### "The Amor Fati Algorithm" (Untuk Pecinta Logika/Engineering)
+### Kamera Pecah di Tengah Perjalanan
 
-Jika kita menuliskan proses mental Amor Fati dalam bentuk *pseudo-code*, tampilannya akan seperti ini:
-
-```python
-def handle_event(event):
-    if event.is_desirable:
-        enjoy(event)
-    else:
-        # Terapkan Amor Fati
-        acknowledge_reality(event)
-        fuel = extract_growth_opportunity(event)
-        incorporate_to_strength(fuel)
-        print("This is exactly what I needed.")
-
-# Contoh:
-event = "Kamera pecah saat ingin mendokumentasikan perjalanan"
-handle_event(event) 
-# Output: "Sekarang saya terpaksa melihat dunia dengan mata sendiri, 
-# bukan lewat lensa. Ini adalah pelajaran tentang kehadiran (presence)."
-```
+Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera kamu pecah tepat saat ingin mendokumentasikan perjalanan. Kamu mengakui kenyataan itu, mencari peluang untuk tumbuh darinya, lalu menyerapnya menjadi kekuatan, sampai bisa berkata: *"Sekarang saya terpaksa melihat dunia dengan mata sendiri, bukan lewat lensa. Ini adalah pelajaran tentang kehadiran (presence)."*
 
 ## Aplikasi Nyata dalam Kehidupan
 

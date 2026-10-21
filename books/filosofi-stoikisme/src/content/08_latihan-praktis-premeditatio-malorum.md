@@ -72,28 +72,17 @@ flowchart TD
     C --> D["Buat rencana cadangan mental"]
 ```
 
-## Algoritma Logika Stoik
+## Saat Kejadian Benar-Benar Datang
 
-Jika kita menerjemahkan *Premeditatio Malorum* ke dalam logika pemrograman untuk memproses emosi, maka bentuknya akan seperti ini:
+Latihan *Premeditatio Malorum* menentukan cara kamu memproses emosi ketika sebuah kejadian benar-benar terjadi. Ada tiga kemungkinan respons:
 
-```python
-def stoic_response(event, is_negative):
-    if is_negative:
-        # Apakah saya sudah mengantisipasi ini?
-        anticipated = premeditatio_malorum(event)
-        
-        if anticipated:
-            # Tetap tenang karena pikiran sudah "berlatih"
-            return "Saya sudah siap. Mari fokus pada solusi."
-        else:
-            # Pengingat untuk latihan di masa depan
-            return "Guncangan ini adalah pelajaran. Gunakan akal sehat."
-    else:
-        return "Nikmati dengan penuh kesadaran, karena ini tidak abadi."
+| Kejadian | Sudah kamu antisipasi? | Respons Stoik |
+| --- | --- | --- |
+| Negatif | Sudah | *"Saya sudah siap. Mari fokus pada solusi."* Kamu tetap tenang karena pikiran sudah berlatih. |
+| Negatif | Belum | *"Guncangan ini adalah pelajaran. Gunakan akal sehat."* Kejadian ini sekaligus menjadi pengingat untuk berlatih di masa depan. |
+| Bukan negatif | Tidak perlu ditanyakan | *"Nikmati dengan penuh kesadaran, karena ini tidak abadi."* |
 
-# Input: Kehilangan koneksi internet saat presentasi
-stoic_response("Internet mati", True)
-```
+Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi pertanyaannya tinggal satu: sudahkah kamu mengantisipasinya?
 
 ## Penggunaan Praktis
 

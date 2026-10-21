@@ -16,11 +16,13 @@ Karena itu pilihanmu bisa berbalik arah hanya karena waktu berjalan. Di tawaran 
 
 Rumus hiperbolik umumnya ditulis seperti ini, sekadar gambaran bentuknya:
 
-```
-nilai sekarang = hadiah / (1 + k x lama menunggu)
-```
+<div>
+$$
+\text{nilai sekarang} = \frac{\text{hadiah}}{1 + k \times \text{lama menunggu}}
+$$
+</div>
 
-Semakin besar nilai k, semakin cepat hadiah "menyusut" di matamu, terutama di rentang waktu yang pendek.
+Semakin besar nilai $k$, semakin cepat hadiah "menyusut" di matamu, terutama di rentang waktu yang pendek.
 
 ### Dua versi dirimu yang saling tidak setuju
 

@@ -80,31 +80,16 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 - **Melawan Alam:** Merasa semesta tidak adil dan terus-menerus bertanya "Mengapa saya?".
 - **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
 
-## 6\. Algoritma Keputusan Stoik
+## 6\. Peta Respons Stoik
 
-Jika kita menerjemahkan hidup selaras dengan alam ke dalam logika pemrograman sederhana, bentuknya akan seperti ini:
+Dua dimensi alam di bagian 2 bisa dipetakan menjadi dua kategori, dan masing-masing punya respons serta hasilnya sendiri:
 
-```python
-def hidup_selaras_dengan_alam(peristiwa, kategori_alam):
-    if kategori_alam == "Universal (Logos)":
-        # Hukum alam, takdir, tindakan orang lain
-        terima_dan_adaptasi(peristiwa)
-        return "Ataraxia (Ketenangan batin)"
-    
-    elif kategori_alam == "Manusiawi (Rasional)":
-        # Pikiran sendiri, tindakan sendiri
-        gunakan_nalar_terbaik(peristiwa)
-        berbuat_baik_pada_sesama()
-        return "Eudaimonia (Kebahagiaan sejati)"
-        
-    else:
-        return "Kebingungan"
+| Kategori | Mencakup | Respons | Hasil |
+| --- | --- | --- | --- |
+| **Universal (Logos)** | Hukum alam, takdir, tindakan orang lain | Terima dan beradaptasi | *Ataraxia* (ketenangan batin) |
+| **Manusiawi (Rasional)** | Pikiran sendiri, tindakan sendiri | Gunakan nalar terbaik dan berbuat baik pada sesama | *Eudaimonia* (kebahagiaan sejati) |
 
-# Contoh penggunaan
-peristiwa_hari_ini = "Hujan deras saat akan piknik"
-status = hidup_selaras_dengan_alam(peristiwa_hari_ini, "Universal (Logos)")
-print(status)
-```
+Misalnya, hujan deras turun saat kamu akan piknik. Hujan termasuk kategori universal, jadi responsnya adalah menerima dan beradaptasi, dan hasilnya adalah ketenangan batin.
 
 ## Ringkasan untuk Diingat
 

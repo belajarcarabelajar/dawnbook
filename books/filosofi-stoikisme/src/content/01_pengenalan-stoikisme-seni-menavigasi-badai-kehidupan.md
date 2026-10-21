@@ -39,25 +39,14 @@ Ini adalah kondisi batin yang bebas dari gangguan emosi negatif. Bayangkan kamu 
 
 **Rumus Sederhana Stoikisme:** $\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir}$
 
-## Logika Pemrograman ala Stoik
+## Menyaring Setiap Kejadian
 
-Meskipun Stoikisme adalah filsafat kuno, logikanya sangat mirip dengan struktur pemrograman komputer. Seorang Stoik belajar untuk melakukan *filtering* terhadap input yang masuk.
+Meskipun Stoikisme adalah filsafat kuno, cara kerjanya sangat praktis. Seorang Stoik belajar menyaring setiap kejadian yang datang dengan satu pertanyaan: *"Apakah hal ini berada di bawah kendaliku?"*
 
-```python
-# Simulasi Logika Stoik terhadap Masalah
-def proses_kejadian(kejadian):
-    if kejadian.is_under_my_control:
-        return "Ambil tindakan terbaik dengan kebajikan."
-    else:
-        return "Terima dengan tenang (Amor Fati)."
+- **Jika berada di bawah kendali kamu:** ambil tindakan terbaik dengan kebajikan.
+- **Jika berada di luar kendali kamu:** terima dengan tenang (*Amor Fati*).
 
-# Skenario: Macet di jalan
-kejadian_hari_ini = "Macet total saat mau rapat penting"
-respon = proses_kejadian(kejadian_hari_ini)
-
-print(respon) 
-# Output: Terima dengan tenang (Amor Fati), karena kemacetan di luar kendali kamu.
-```
+Misalnya, kamu terjebak macet total saat mau rapat penting. Kemacetan itu berada di luar kendali kamu, jadi respons Stoiknya adalah menerimanya dengan tenang.
 
 ## Mengapa Stoikisme Relevan Saat Ini?
 

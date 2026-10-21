@@ -60,29 +60,15 @@ Bawalah barang-barang kecil yang memiliki keterikatan emosional kuat. Ini bisa b
 
 *Penting:* Aroma adalah pemicu memori yang paling kuat. Saat kamu merasa sangat rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres) secara instan.
 
-### Organisasi Informasi (Contoh Teknis)
+### Catatan Navigasi di Ponsel
 
-Jika kamu adalah orang yang terorganisir secara teknis, buatlah sebuah "Database Navigasi" sederhana di ponselmu. Berikut adalah contoh struktur data yang bisa kamu simpan di aplikasi catatan:
+Buatlah juga catatan navigasi sederhana di aplikasi catatan ponselmu. Isinya bisa dikelompokkan menjadi tiga bagian:
 
-```json
-{
-  "kontak_darurat": {
-    "kedutaan": "+62-xxx-xxxx",
-    "nomor_polisi_lokal": "911",
-    "kontak_induk_semang": "0812-xxxx"
-  },
-  "frasa_bertahan_hidup": [
-    "Tolong bantu saya (Local Lang)",
-    "Di mana apotek terdekat? (Local Lang)",
-    "Saya tidak makan babi/alergi kacang (Local Lang)"
-  ],
-  "lokasi_penting": [
-    "Supermarket termurah",
-    "Rumah sakit dengan layanan bahasa Inggris",
-    "Titik kumpul komunitas Indonesia/asal"
-  ]
-}
-```
+| Bagian | Isi Catatan |
+| :--- | :--- |
+| **Kontak darurat** | Nomor kedutaan, nomor polisi setempat, dan kontak induk semang |
+| **Frasa bertahan hidup** | Ditulis dalam bahasa lokal: "Tolong bantu saya", "Di mana apotek terdekat?", dan "Saya tidak makan babi" atau "Saya alergi kacang" |
+| **Lokasi penting** | Supermarket termurah, rumah sakit dengan layanan bahasa Inggris, dan titik kumpul komunitas Indonesia atau komunitas asalmu |
 
 ## 4. Strategi 48 Jam Pertama
 
