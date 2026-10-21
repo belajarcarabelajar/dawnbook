@@ -8,7 +8,11 @@ Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan 
 
 Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana namun kuat:
 
-$\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}$
+<div>
+$$
+\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}
+$$
+</div>
 
 ### Perpustakaan yang Terus Berkembang
 

@@ -93,8 +93,22 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
      - **Mall A:** Menawarkan sewa murah (nilai 8), namun kepadatan pengunjung tergolong sedang (nilai 6).
      - **Mall B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
    - **Perhitungan Skor:**
-     - Skor Mall A: $(0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8$
-     - Skor Mall B: $(0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0$
+     - Skor Mall A:
+
+       <div>
+       $$
+       (0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8
+       $$
+       </div>
+
+     - Skor Mall B:
+
+       <div>
+       $$
+       (0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0
+       $$
+       </div>
+
    - **Keputusan Akhir:** Mall B dipilih karena menghasilkan skor total tertinggi, meskipun biaya sewanya lebih mahal.
 
 ## Rangkuman Intisari

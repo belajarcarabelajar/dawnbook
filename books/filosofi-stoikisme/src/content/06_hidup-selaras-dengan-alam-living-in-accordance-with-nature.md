@@ -59,7 +59,13 @@ $$
 $$
 </div>
 
-Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: $\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0$
+Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka:
+
+<div>
+$$
+\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0
+$$
+</div>
 
 Ketika kita menolak alam (menginginkan sesuatu yang di luar kendali kita atau melawan hukum alam), kita menciptakan pertentangan dalam diri kita sendiri.
 

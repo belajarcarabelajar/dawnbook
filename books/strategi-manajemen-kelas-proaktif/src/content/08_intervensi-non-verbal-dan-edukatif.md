@@ -78,8 +78,8 @@ $$
 
 Di mana:
 
-- $K = \text{Kejelasan instruksi}$
-- $D = \text{Durasi interupsi terhadap kelas}$
+- $K$ = kejelasan instruksi
+- $D$ = durasi interupsi terhadap kelas
 
 Semakin kecil $D$ (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 

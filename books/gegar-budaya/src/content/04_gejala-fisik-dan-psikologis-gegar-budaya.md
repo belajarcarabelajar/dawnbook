@@ -72,7 +72,15 @@ E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosi
 $$
 </div>
 
-Jika $\sum (E\_{\text{bahasa}} + E\_{\text{navigasi}} + E\_{\text{norma sosial}}) > E\_{\text{total}}$, maka $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Jika kondisi berikut terpenuhi:
+
+<div>
+$$
+\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosial}}) > E_{\text{total}}
+$$
+</div>
+
+Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 

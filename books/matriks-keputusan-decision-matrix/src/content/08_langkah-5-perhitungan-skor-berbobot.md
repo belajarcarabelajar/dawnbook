@@ -65,8 +65,21 @@ Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan s
 Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) namun memiliki gaya rambut yang sangat keren (Skor 10).
 
 **Perhitungan:**
-- **Pemain X:** $(9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}$
-- **Pemain Y:** $(3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}$
+- **Pemain X:**
+
+  <div>
+  $$
+  (9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}
+  $$
+  </div>
+
+- **Pemain Y:**
+
+  <div>
+  $$
+  (3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}
+  $$
+  </div>
 
 Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah kekuatan nyata dari *Weighted Score*.
 

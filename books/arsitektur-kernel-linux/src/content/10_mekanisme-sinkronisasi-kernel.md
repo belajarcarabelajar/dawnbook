@@ -12,8 +12,23 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 > 
 > 1. Proses A ingin menarik Rp200.000. Ia membaca saldo: Rp1.000.000.
 > 2. Di saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
-> 3. Proses A menghitung $1.000.000 - 200.000 = 800.000$ dan menyimpannya.
-> 4. Proses B menghitung $1.000.000 + 100.000 = 1.100.000$ dan menyimpannya. Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
+> 3. Proses A menghitung dan menyimpan saldo baru:
+>
+>    <div>
+>    $$
+>    1.000.000 - 200.000 = 800.000
+>    $$
+>    </div>
+>
+> 4. Proses B menghitung dan menyimpan saldo baru:
+>
+>    <div>
+>    $$
+>    1.000.000 + 100.000 = 1.100.000
+>    $$
+>    </div>
+>
+>    Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 

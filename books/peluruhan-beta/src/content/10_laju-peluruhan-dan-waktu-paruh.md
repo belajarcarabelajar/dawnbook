@@ -97,7 +97,14 @@ Misalkan kita memiliki isotop **Iodium-131** (pemancar beta yang digunakan dalam
 
 **Langkah-langkah:**
 
-1. Tentukan jumlah waktu paruh yang telah berlalu ($n$): $n = \frac{\text{total waktu}}{\text{waktu paruh}} = \frac{24 \text{ hari}}{8 \text{ hari}} = 3 \text{ siklus}$
+1. Tentukan jumlah waktu paruh yang telah berlalu ($n$):
+
+   <div>
+   $$
+   n = \frac{\text{total waktu}}{\text{waktu paruh}} = \frac{24 \text{ hari}}{8 \text{ hari}} = 3 \text{ siklus}
+   $$
+   </div>
+
 2. Gunakan rumus praktis: $A = A_0 \times (\frac{1}{2})^n$
 3. $A = 400 \times (\frac{1}{2})^3$
 4. $A = 400 \times \frac{1}{8} = 50 \text{ MBq}$
