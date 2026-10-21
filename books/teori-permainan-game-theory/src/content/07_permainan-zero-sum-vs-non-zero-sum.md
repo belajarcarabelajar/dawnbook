@@ -87,6 +87,8 @@ Dua rekan kerja memilih untuk bekerja keras atau malas.
 
 *Di sini, (5, 5) menunjukkan total hasil 10 (Positive-Sum). Jika keduanya malas (0,0), mereka tidak mendapatkan apa-apa.*
 
+Dari dua contoh ini terlihat cara cepat mengecek sifat sebuah matriks: jumlahkan kedua angka di setiap sel. Jika semua sel menghasilkan jumlah yang sama, yaitu nol (atau konstanta tertentu), permainan itu zero-sum. Begitu ada satu sel saja yang jumlahnya berbeda, seperti sel (5, 5) tadi, permainan itu sudah non-zero-sum.
+
 ## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 
 ### Penetrasi Pasar vs. Perang Harga
@@ -98,38 +100,6 @@ Dua rekan kerja memilih untuk bekerja keras atau malas.
 
 - Perebutan wilayah perbatasan sering kali bersifat **Zero-Sum** (Tanah yang aku ambil adalah tanah yang kamu lepaskan).
 - Perjanjian perdagangan bebas bersifat **Non-Zero-Sum** karena memungkinkan spesialisasi yang meningkatkan kemakmuran global secara keseluruhan.
-
-## 6. Mengecek Sifat Permainan dengan Kode Sederhana (Python)
-
-Bagi kamu yang belajar dari sisi teknis atau algoritmik, berikut adalah potongan kode sederhana untuk memvalidasi apakah sebuah matriks permainan bersifat Zero-Sum.
-
-```python
-def check_game_type(matrix):
-    """
-    Memeriksa apakah matriks payoff merupakan Zero-Sum atau Non-Zero-Sum.
-    Format matrix: List of lists containing tuples (payoff_a, payoff_b)
-    """
-    is_zero_sum = True
-    
-    for row in matrix:
-        for payoff_a, payoff_b in row:
-            if payoff_a + payoff_b != 0:
-                is_zero_sum = False
-                break
-        if not is_zero_sum: break
-            
-    if is_zero_sum:
-        return "Permainan ini adalah Zero-Sum."
-    else:
-        return "Permainan ini adalah Non-Zero-Sum."
-
-# Contoh Matriks (Pemain A, Pemain B)
-game_1 = [[(1, -1), (-1, 1)], [(-1, 1), (1, -1)]] # Zero-Sum
-game_2 = [[(5, 5), (0, 10)], [(10, 0), (1, 1)]]   # Non-Zero-Sum (Dilema Tahanan)
-
-print(f"Game 1: {check_game_type(game_1)}")
-print(f"Game 2: {check_game_type(game_2)}")
-```
 
 ## Ringkasan untuk Diingat
 

@@ -51,27 +51,15 @@ Pilot dan kapten kapal harus terus mengorientasikan diri di ruang tanpa batas fi
 
 Untuk mengakomodasi cara belajar yang berbeda, pengembangan kecerdasan ini dapat dilakukan melalui beberapa metode. Kamu bisa memanfaatkan *mind mapping*, infografis, dan diagram alur untuk mencerna informasi yang rumit. Selain itu, membuat model fisik dari tanah liat, kardus, atau merancang struktur menggunakan perangkat lunak CAD (Computer-Aided Design) juga memberikan dorongan besar. Bagi sebagian orang, mendengarkan deskripsi detail mengenai tata letak sebuah ruangan lalu mencoba menggambarkannya kembali adalah latihan visualisasi yang efektif.
 
-Di bidang pemrograman dan rekayasa data, merepresentasikan informasi spasial secara visual sangat diperlukan. Berikut adalah contoh penerapan Python untuk memplot objek 3D:
+Di bidang pemrograman dan rekayasa data, merepresentasikan informasi spasial secara visual sangat diperlukan. Contohnya, komputer dapat menggambar kerangka sebuah bola tiga dimensi hanya dari tiga persamaan berikut:
 
-```python
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-import numpy as np
+<div>
+$$
+x = \cos u \sin v \quad y = \sin u \sin v \quad z = \cos v
+$$
+</div>
 
-fig = plt.figure()
-ax = fig.add_subplot(111, projection='3d')
-
-# Membuat data untuk bola (sphere)
-u, v = np.mgrid[0:2*np.pi:20j, 0:np.pi:10j]
-x = np.cos(u)*np.sin(v)
-y = np.sin(u)*np.sin(v)
-z = np.cos(v)
-
-ax.plot_wireframe(x, y, z, color="r")
-plt.show()
-```
-
-Mengeksekusi kode di atas dapat memperlihatkan secara langsung bagaimana persamaan matematika dikonversi menjadi bentuk ruang yang nyata.
+Sudut $u$ bergerak dari $0$ sampai $2\pi$, sedangkan sudut $v$ bergerak dari $0$ sampai $\pi$. Setiap pasangan sudut menghasilkan satu titik $(x, y, z)$ di permukaan bola. Ketika titik-titik itu disambung dengan garis, tampaklah kerangka bola di dalam ruang. Contoh ini menunjukkan bahwa persamaan matematika dapat diubah menjadi bentuk ruang yang nyata.
 
 ## 6\. Sang Penjelajah Hutan
 

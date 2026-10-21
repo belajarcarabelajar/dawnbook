@@ -81,29 +81,46 @@ Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara in
 
 Dalam medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
 
-### 6. Kode untuk Simulasi Sederhana EGT
+### 6. Populasi Elang dan Merpati dari Generasi ke Generasi
 
-Berikut adalah cuplikan logika (Python-like pseudocode) untuk mensimulasikan perubahan populasi Hawk-Dove sederhana:
+Supaya dinamika replikator terasa lebih konkret, mari hitung satu contoh dengan angka ilustrasi: nilai sumber daya $V = 50$, biaya cedera $C = 100$, dan populasi awal berisi 10% elang serta 90% merpati. Dengan angka ini, isi matriks payoff Hawk-Dove menjadi: elang melawan elang $-25$, elang melawan merpati $50$, merpati melawan elang $0$, dan merpati melawan merpati $25$.
 
-```python
-# Parameter
-V = 50  # Nilai sumber daya
-C = 100 # Biaya cedera
-hawk_ratio = 0.1 # Awalnya sedikit elang
-dove_ratio = 0.9 # Banyak merpati
+Misalkan $x_E$ adalah proporsi elang dan $x_M$ proporsi merpati. Kebugaran setiap strategi dihitung dari payoff-nya melawan elang dan melawan merpati, masing-masing ditimbang dengan proporsinya di populasi:
 
-for generation in range(100):
-    # Hitung kebugaran rata-rata
-    f_hawk = hawk_ratio * ((V-C)/2) + dove_ratio * V
-    f_dove = hawk_ratio * 0 + dove_ratio * (V/2)
-    avg_fitness = (hawk_ratio * f_hawk) + (dove_ratio * f_dove)
-    
-    # Update proporsi berdasarkan dinamika replikator
-    hawk_ratio = hawk_ratio * (f_hawk / avg_fitness)
-    dove_ratio = dove_ratio * (f_dove / avg_fitness)
-    
-    print(f"Gen {generation}: Hawk {hawk_ratio:.2f}, Dove {dove_ratio:.2f}")
-```
+<div>
+$$
+f_E = x_E \cdot \frac{V-C}{2} + x_M \cdot V
+$$
+</div>
+
+<div>
+$$
+f_M = x_E \cdot 0 + x_M \cdot \frac{V}{2}
+$$
+</div>
+
+Kebugaran rata-rata populasi adalah $\phi = x_E f_E + x_M f_M$. Dari satu generasi ke generasi berikutnya, proporsi elang diperbarui dengan aturan berikut:
+
+<div>
+$$
+x_E^{\text{baru}} = x_E \cdot \frac{f_E}{\phi}
+$$
+</div>
+
+Arahnya sama dengan rumus dinamika replikator di bagian 4: proporsi elang naik jika $f_E > \phi$ dan turun jika $f_E < \phi$. Pada generasi awal, kebugaran elang adalah $0{,}1 \cdot (-25) + 0{,}9 \cdot 50 = 42{,}5$, kebugaran merpati $0{,}9 \cdot 25 = 22{,}5$, dan rata-ratanya $0{,}1 \cdot 42{,}5 + 0{,}9 \cdot 22{,}5 = 24{,}5$. Proporsi elang pada generasi berikutnya menjadi $0{,}1 \cdot 42{,}5 / 24{,}5 \approx 0{,}1735$, atau 17,35%. Hitungan yang sama, diulang tiap generasi, menghasilkan tabel ini (dibulatkan dua desimal):
+
+| Generasi | Elang | Merpati | Kebugaran elang | Kebugaran merpati | Kebugaran rata-rata |
+| --- | --- | --- | --- | --- | --- |
+| 0 (awal) | 10,00% | 90,00% | 42,50 | 22,50 | 24,50 |
+| 1 | 17,35% | 82,65% | 36,99 | 20,66 | 23,50 |
+| 2 | 27,31% | 72,69% | 29,52 | 18,17 | 21,27 |
+| 3 | 37,90% | 62,10% | 21,58 | 15,53 | 17,82 |
+| 4 | 45,89% | 54,11% | 15,58 | 13,53 | 14,47 |
+| 5 | 49,42% | 50,58% | 12,94 | 12,65 | 12,79 |
+| 6 | 49,99% | 50,01% | 12,51 | 12,50 | 12,51 |
+| 7 | 50,00% | 50,00% | 12,50 | 12,50 | 12,50 |
+
+Pada generasi awal, kebugaran elang (42,50) jauh di atas rata-rata (24,50), sehingga proporsinya naik. Makin banyak elang, kebugaran elang turun sampai sama dengan rata-rata. Dalam contoh ini, sejak generasi ke-7 proporsi elang tertahan di 50,00%. Pada titik itu kebugaran elang ($0{,}5 \cdot (-25) + 0{,}5 \cdot 50 = 12{,}5$) sama dengan kebugaran merpati ($0{,}5 \cdot 25 = 12{,}5$), sehingga tidak ada strategi yang berada di atas rata-rata dan proporsinya berhenti berubah. Inilah keseimbangan campuran elang dan merpati yang disebut di bagian 3 untuk kasus $V < C$.
 
 ### 7. Pentingnya Sudut Pandang Evolusioner
 

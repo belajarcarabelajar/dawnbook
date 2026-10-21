@@ -51,29 +51,15 @@ Postulat bahwa eksistensi mendahului esensi melahirkan konsekuensi etis yang men
 2. **Tanggung Jawab Total:** Dalam ketiadaan determinisme eksternal, individu tidak dapat melimpahkan kegagalan moral atau eksistensialnya kepada faktor genetik, lingkungan masa kecil, atau nasib.
 3. **Konstruksi Nilai Mandiri:** Nilai dan makna tidak menunggu untuk ditemukan secara pasif di alam semesta, melainkan harus diciptakan secara aktif melalui komitmen tindakan.
 
-### 4. Perbandingan Paradigma Logika
+### 4. Perbandingan Paradigma Esensialis dan Eksistensialis
 
-Dalam perspektif logika komputasional, perbedaan antara esensialisme dan eksistensialisme dapat dipetakan ke dalam model logika deterministik melawan sistem probabilistik adaptif:
+Perbedaan antara esensialisme dan eksistensialisme menjadi jelas bila pisau kertas dan manusia disandingkan:
 
-- **Model Esensialis (Logika Deterministik):**
-	```python
-	def identitas_objek(kondisi):
-	    # Esensi dan fungsi telah didefinisikan secara statis oleh perancang
-	    return "Fungsi tunggal: Alat pemotong utiliter"
-	```
-
-- **Model Eksistensialis (Sistem Adaptif Terbuka):**
-	```python
-	class SubjekEksistensial:
-	    def __init__(self):
-	        self.esensi = "Kekosongan awal"
-	        self.rekam_tindakan = []
-	    def pilih_tindakan(self, keputusan):
-	        self.rekam_tindakan.append(keputusan)
-	        self.esensi = self.artikulasikan_identitas()
-	```
-
-Dalam kerangka eksistensialis, identitas bukan fungsi statis bawaan, melainkan hasil agregasi dari pilihan-pilihan sadar yang terus diperbarui.
+| Aspek | Model Esensialis (Pisau Kertas) | Model Eksistensialis (Manusia) |
+| --- | --- | --- |
+| **Titik awal** | Konsep fungsi dan tujuan sudah ada di benak perajin sebelum benda dibuat | Kekosongan awal, tanpa rancangan apa pun |
+| **Fungsi** | Satu fungsi tetap sebagai alat pemotong | Tidak ada fungsi bawaan yang mengikat |
+| **Perubahan esensi** | Statis, benda tidak dapat mengubah esensinya sendiri | Identitas adalah hasil agregasi pilihan-pilihan sadar yang terus diperbarui |
 
 ### 5. Kritik terhadap Determinisme Psikologis
 

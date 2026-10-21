@@ -71,26 +71,15 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 	2. **Strategic Nap:** Tidur siang selama 20 menit untuk menyegarkan memori kognitif.
 	3. **High-Protein Fuel:** Memilih makanan yang menjaga stabilitas gula darah, bukan lonjakan gula dari camilan manis.
 
-**Workflow Pemulihan untuk Engineer/Profesional:**
+**Protokol Pemulihan Sesuai Tingkat Stres:**
 
-```python
-def stress_recovery_protocol(stress_level):
-    if stress_level > 8:
-        perform_box_breathing(cycles=4)
-        do_brain_dump()
-    elif 5 <= stress_level <= 8:
-        take_micro_break(duration_minutes=10)
-        hydrate_and_stretch()
-    else:
-        continue_focused_work()
-        maintain_mindfulness()
+| Tingkat stres | Tindakan pemulihan |
+| --- | --- |
+| **Tinggi** | Lakukan beberapa putaran pernapasan kotak, lalu *brain dump* |
+| **Sedang** | Ambil jeda mikro sekitar 10 menit, minum air, dan lakukan peregangan |
+| **Rendah** | Lanjutkan kerja fokus sambil menjaga *mindfulness* |
 
-# Loop harian untuk menjaga resiliensi
-while day_is_active:
-    monitor_energy_levels()
-    if energy < threshold:
-        apply_rest_type("Sensory" or "Mental")
-```
+Sepanjang hari, pantau terus tingkat energimu. Begitu energi mulai menipis, ambil istirahat sensorik atau istirahat mental seperti yang dijelaskan di bagian 3.
 
 ### Ringkasan Praktis untukmu
 

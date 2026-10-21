@@ -83,28 +83,15 @@ Dalam dunia rekayasa perangkat lunak atau manajemen proyek, fleksibilitas kognit
 
 **Respon Fleksibel (Adaptive):** Menerima kenyataan bahwa teknologi X tidak lagi layak. Melakukan pivot dengan cepat ke teknologi Y, meskipun harus melakukan *refactoring* pada sebagian kode.
 
-### Representasi Logika Adaptasi (Code Snippet)
+### Jalur Alternatif Saat Perubahan Kritis
 
-Secara teknis, sistem yang adaptif menggunakan logika *fallback* atau *circuit breaker*. Kita bisa menerapkan logika ini dalam pola pikir kita:
+Sistem yang adaptif punya jalur cadangan (*fallback*), dan pola yang sama bisa kamu terapkan dalam cara berpikirmu. Saat perubahan tak terduga datang, nilai dulu apakah perubahan itu kritis. Kalau tidak kritis, rencana awal tetap dijalankan. Kalau kritis, gunakan tahap Orient untuk mencari alternatif, misalnya:
 
-```python
-def handle_crisis(current_plan, unexpected_change):
-    print(f"Menjalankan: {current_plan}")
-    
-    if unexpected_change.is_critical():
-        # Tahap Orientasi: Mencari alternatif
-        alternatives = ["Pivot ke Rencana B", "Gunakan Fallback System", "Hentikan dan Evaluasi"]
-        
-        # Tahap Keputusan & Tindakan
-        new_plan = select_best_alternative(alternatives)
-        print(f"ADAPTASI: Beralih ke {new_plan}")
-        return execute(new_plan)
-    
-    return continue_plan()
+1. Pivot ke Rencana B.
+2. Beralih ke sistem cadangan.
+3. Menghentikan langkah dan mengevaluasi ulang.
 
-# Analogi: Jika rencana utama gagal (Error), sistem tidak crash (Stress), 
-# tetapi beralih ke jalur alternatif (Catch/Exception Handling).
-```
+Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya. Ibarat sistem yang tangguh, kegagalan rencana utama tidak membuatmu runtuh karena stres, tetapi membuatmu beralih ke jalur alternatif.
 
 ## 5. Menghitung Keberhasilan Adaptasi
 

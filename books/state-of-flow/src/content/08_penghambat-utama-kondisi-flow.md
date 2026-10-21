@@ -24,26 +24,7 @@ Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam p
 
 Banyak orang bangga bisa melakukan *multitasking*, namun secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
 
-Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat.
-
-```python
-# Analogi Sederhana: Biaya Kognitif Multitasking
-def perform_task(task_name):
-    load_context(task_name) # Membutuhkan energi & waktu
-    execute_logic(task_name)
-    save_context(task_name) # Membutuhkan energi & waktu
-
-# Skenario Flow (Single Task)
-# Context dimuat sekali, eksekusi terus menerus
-perform_task("Coding") 
-
-# Skenario Multitasking (Flow Killer)
-# Berulang kali memuat dan menyimpan context
-perform_task("Coding")
-perform_task("Balas Chat WhatsApp")
-perform_task("Coding")
-perform_task("Cek Email")
-```
+Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat. Kalau kamu hanya menulis kode dalam satu sesi, konteksnya cukup dimuat sekali. Kalau kamu menulis kode, membalas chat WhatsApp, kembali ke kode, lalu mengecek email, konteks itu dimuat dan disimpan berulang kali, dan setiap kalinya menghabiskan energi serta waktu.
 
 Setiap kali kamu berpindah tugas, ada sisa perhatian (**Attention Residue**) yang tertinggal di tugas sebelumnya, sehingga performa kamu pada tugas baru tidak akan pernah mencapai 100%.
 

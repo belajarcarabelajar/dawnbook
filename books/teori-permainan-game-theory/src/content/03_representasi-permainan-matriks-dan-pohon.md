@@ -73,36 +73,7 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 
 **Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
 
-## 5. Implementasi Teknis (Python)
-
-Dalam dunia data science dan AI, kita sering menggunakan pustaka seperti `Nashpy` untuk merepresentasikan permainan dalam bentuk matriks. Berikut adalah cara mendefinisikan permainan sederhana:
-
-```python
-import nashpy as nash
-import numpy as np
-
-# Definisikan Payoff untuk Pemain Baris (Pemain 1)
-# Contoh: Dilema Tahanan
-# Matriks A: [ [-1, -3], [0, -2] ]
-A = np.array([[-1, -3], [0, -2]])
-
-# Definisikan Payoff untuk Pemain Kolom (Pemain 2)
-# Matriks B: [ [-1, 0], [-3, -2] ]
-B = np.array([[-1, 0], [-3, -2]])
-
-# Buat objek permainan
-prisoners_dilemma = nash.Game(A, B)
-
-print("Matriks Permainan:")
-print(prisoners_dilemma)
-
-# Menemukan Ekuilibrium Nash (akan dibahas di modul selanjutnya)
-equilibria = prisoners_dilemma.support_enumeration()
-for eq in equilibria:
-    print(f"Ekuilibrium ditemukan: {eq}")
-```
-
-## 6. Latihan Refleksi
+## 5. Latihan Refleksi
 
 *Coba bayangkan permainan "Batu-Gunting-Kertas".*
 

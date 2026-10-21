@@ -30,7 +30,7 @@ $$
 V \propto n^2
 $$
 
-Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan meningkat secara eksponensial, bukan linear.
+Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat (tumbuh secara kuadratik), bukan linear.
 
 ### B. Efek Jaringan Tidak Langsung (Indirect Network Effects)
 
@@ -78,20 +78,14 @@ Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* d
 3. **Data sebagai Bahan Bakar:** Data dari riwayat perjalanan dan pemesanan makanan digunakan untuk menawarkan layanan finansial (GoPay/GoPayLater).
 4. **Hambatan Masuk:** Pesaing baru harus mengeluarkan modal triliunan rupiah hanya untuk menandingi jumlah mitra pengemudi dan pedagang yang sudah mapan di platform tersebut.
 
-```python
-# Ilustrasi Sederhana Efek Jaringan dalam Kode
-def hitung_nilai_jaringan(jumlah_pengguna):
-    # Menggunakan Hukum Metcalfe: Nilai = n^2
-    nilai = jumlah_pengguna ** 2
-    return nilai
+Hitungan sederhana berikut memperlihatkan mengapa mengejar jumlah pengguna begitu berharga. Dengan angka ilustrasi, anggap nilai jaringan sama dengan kuadrat jumlah penggunanya, sesuai Hukum Metcalfe ($V = n^2$):
 
-pengguna_lama = 100
-pengguna_baru = 200
+| Jumlah pengguna ($n$) | Nilai jaringan ($n^2$) |
+| --- | --- |
+| 100 | 10.000 |
+| 200 | 40.000 |
 
-print(f"Nilai dengan 100 pengguna: {hitung_nilai_jaringan(pengguna_lama)}")
-print(f"Nilai dengan 200 pengguna: {hitung_nilai_jaringan(pengguna_baru)}")
-# Perhatikan bahwa ketika pengguna hanya naik 2x lipat, nilainya naik 4x lipat!
-```
+Ketika jumlah pengguna hanya naik 2 kali lipat, nilai jaringannya naik 4 kali lipat.
 
 ## Perbandingan Pasar Tradisional dan Pasar Digital
 

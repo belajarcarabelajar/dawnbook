@@ -57,27 +57,35 @@ Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat (sekita
 
 Sering kali kita tidak sadar bahwa *muscle memory* ini sangat dominan dalam keseharian. Misalnya saat mengetik PIN ATM, banyak orang lebih mengingat pola pergerakan jemari di atas tombol *keypad* dibanding deretan angka kombinasinya itu sendiri.
 
-## Implementasi dalam Logika Algoritme
+## Lengan Robot yang Melambat Menjelang Sasaran
 
-Dalam lingkup komputasi dan teknik, logika gerakan fisik ini menjadi fondasi utama pada sistem kontrol robotika. Kode di bawah menyimulasikan algoritme penyesuaian motorik halus pada aktuator *robotic arm* yang meniru sifat kinestetik alami manusia.
+Dalam lingkup komputasi dan teknik, logika gerakan fisik ini menjadi fondasi utama pada sistem kontrol robotika. Penyesuaian motorik halus pada aktuator *robotic arm* yang meniru sifat kinestetik alami manusia bisa diatur dengan dua aturan yang diulang terus. Sebagai angka ilustrasi, pada setiap langkah lengan hanya bergerak sepersepuluh dari sisa jarak ke sasaran:
 
-```python
-# Simulasi Kontrol Presisi Lengan Robot
-def gerak_presisi(target_posisi, posisi_sekarang):
-    presisi = 0.01
-    while abs(target_posisi - posisi_sekarang) > presisi:
-        jarak = target_posisi - posisi_sekarang
-        
-        # Sistem saraf melambatkan laju saat mendekati target (damping)
-        kecepatan = jarak * 0.1
-        posisi_sekarang += kecepatan
-        print(f"Posisi lengan: {posisi_sekarang:.4f}")
-        
-    print("Sumbu presisi tercapai.")
+<div>
+$$
+\text{kecepatan} = \frac{1}{10} \times \text{sisa jarak}
+$$
+</div>
 
-gerak_presisi(target_posisi=10.0, posisi_sekarang=0.0)
-```
+Posisi lengan lalu diperbarui dengan kecepatan tersebut:
 
-Fungsi iterasi di atas bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
+<div>
+$$
+\text{posisi baru} = \text{posisi lama} + \text{kecepatan}
+$$
+</div>
+
+Dengan angka ilustrasi yang sama, anggap lengan mulai dari posisi 0 dan sasarannya di posisi 10. Empat langkah pertama berjalan seperti ini:
+
+| Langkah | Sisa jarak | Kecepatan | Posisi baru |
+| --- | --- | --- | --- |
+| 1 | 10 | 1 | 1 |
+| 2 | 9 | 0,9 | 1,9 |
+| 3 | 8,1 | 0,81 | 2,71 |
+| 4 | 7,29 | 0,729 | 3,439 |
+
+Dalam contoh ini, gerakan berhenti ketika sisa jarak tidak lebih dari 0,01. Dengan aturan ini, batas itu baru terlewati pada langkah ke-66, saat sisa jaraknya tinggal sekitar 0,0096 dan lengan berada di posisi sekitar 9,99. Langkah awal besar, langkah akhir sangat kecil.
+
+Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
 
 Kecerdasan fisik pada akhirnya membuktikan bahwa fungsi tubuh merupakan medium eksekusi yang integral dengan proses analisis ruang. Keterampilan motorik inilah yang menjembatani parameter teoretis agar bisa dirakit menjadi instrumen nyata.

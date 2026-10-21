@@ -54,31 +54,25 @@ Gunakan pertanyaan-pertanyaan ini sebagai kompas saat kamu merasa tersesat dalam
 
 Bagi kamu yang menyukai data dan struktur, kamu bisa membuat resilience tracker sederhana. Resiliensi dapat dikuantifikasi secara subjektif untuk melihat tren perkembanganmu.
 
-### Contoh Log Resiliensi Sederhana (Format Markdown/CSV)
+### Contoh Log Resiliensi Tiga Hari
 
-Jika kamu seorang pengembang atau terbiasa dengan spreadsheet, kamu bisa mencatatnya seperti ini:
+Jika kamu terbiasa dengan spreadsheet, catat tiga hal setiap hari: tingkat stres, berapa menit yang kamu butuhkan untuk pulih, dan catatan singkat tentang pemicunya. Dari dua angka pertama, indeks resiliensi harian (*Resilience Index*) dihitung dengan rumus sederhana berikut:
 
-```python
-# Contoh struktur data sederhana untuk memantau "Resilience Score" harian
-daily_resilience_log = [
-    {"date": "2023-10-25", "stress_level": 8, "recovery_time_min": 120, "notes": "Deadline mendadak"},
-    {"date": "2023-10-26", "stress_level": 4, "recovery_time_min": 30, "notes": "Rapat rutin"},
-    {"date": "2023-10-27", "stress_level": 7, "recovery_time_min": 45, "notes": "Konflik dengan rekan"},
-]
-
-def calculate_index(stress, recovery):
-    # Rumus sederhana: Semakin rendah waktu pemulihan pada stres tinggi, 
-    # maka indeks resiliensi semakin tinggi.
-    return (stress * 10) / (recovery + 1)
-```
-
-Secara matematis, rumus indeks resiliensi harian ($\text{Resilience Index}$) dirumuskan sebagai berikut:
-
+<div>
 $$
-\text{Resilience Index} = \frac{\text{stress\_level} \times 10}{\text{recovery\_time\_min} + 1}
+\text{Indeks Resiliensi} = \frac{\text{Tingkat Stres} \times 10}{\text{Waktu Pemulihan (menit)} + 1}
 $$
+</div>
 
-**Real-world Application:** Dengan melihat data di atas, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres ($\text{stress\_level}$) cukup tinggi (7), waktu pemulihan ($\text{recovery\_time\_min}$) kamu jauh lebih cepat (45 menit) dibanding tanggal 25. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
+Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi indeks resiliensinya. Berikut contoh rekaan log selama tiga hari beserta indeksnya:
+
+| Tanggal | Tingkat stres | Waktu pemulihan (menit) | Catatan | Indeks resiliensi |
+| --- | --- | --- | --- | --- |
+| 25 Oktober 2023 | 8 | 120 | Deadline mendadak | 80 / 121 = 0,66 |
+| 26 Oktober 2023 | 4 | 30 | Rapat rutin | 40 / 31 = 1,29 |
+| 27 Oktober 2023 | 7 | 45 | Konflik dengan rekan | 70 / 46 = 1,52 |
+
+**Real-world Application:** Dari tabel tersebut, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres cukup tinggi (7), waktu pemulihanmu jauh lebih cepat (45 menit) dibanding tanggal 25 (120 menit), sehingga indeksnya naik dari 0,66 menjadi 1,52. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
 
 ## 5. Gagal Memenangkan Tender
 

@@ -66,25 +66,13 @@ Dalam pengembangan AI modern, teori permainan digunakan untuk melatih model agar
 
 Ini adalah fondasi AI untuk permainan *zero-sum* seperti Catur atau Tic-Tac-Toe. AI mencoba meminimalkan kemungkinan kerugian maksimum (*minimizing the maximum loss*).
 
-```python
-# Contoh sederhana logika Minimax (Pseudo-code)
-def minimax(node, depth, maximizingPlayer):
-    if depth == 0 or node.is_terminal():
-        return node.value
-    
-    if maximizingPlayer:
-        maxEval = -float('inf')
-        for child in node.children():
-            eval = minimax(child, depth - 1, False)
-            maxEval = max(maxEval, eval)
-        return maxEval
-    else:
-        minEval = float('inf')
-        for child in node.children():
-            eval = minimax(child, depth - 1, True)
-            minEval = min(minEval, eval)
-        return minEval
-```
+Cara kerjanya bisa diringkas menjadi tiga aturan yang diterapkan di setiap posisi permainan:
+
+1. **Berhenti di ujung.** Jika posisi itu sudah merupakan akhir permainan, atau AI sudah menelusuri sejauh batas langkah ke depan yang ditetapkan, posisi itu langsung diberi nilai.
+2. **Giliran AI, pilih nilai tertinggi.** Pada gilirannya sendiri, AI memilih langkah yang menghasilkan nilai paling besar.
+3. **Giliran lawan, anggap lawan memilih nilai terendah.** Pada giliran lawan, AI berasumsi lawan akan memilih langkah yang paling merugikan AI.
+
+Nilai dari posisi-posisi paling ujung itu lalu dibawa mundur sampai ke posisi sekarang, sama seperti induksi mundur yang dibahas pada bab permainan sekuensial.
 
 ### Reinforcement Learning (RL) & Game Theory
 

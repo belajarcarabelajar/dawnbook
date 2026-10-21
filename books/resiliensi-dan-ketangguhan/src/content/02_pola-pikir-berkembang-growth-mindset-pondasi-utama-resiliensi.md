@@ -72,15 +72,7 @@ Seorang junior developer menghadapi *bug* yang tidak kunjung selesai selama dua 
 - **Respon Fixed:** "Mungkin saya bukan orang logika. Saya tidak cocok jadi programmer." (Menyerah dan frustrasi).
 - **Respon Growth:** "Bug ini menunjukkan ada konsep memori yang belum saya pahami. Ini adalah kesempatan untuk mendalami dokumentasi lebih jauh."
 
-```python
-# Analogi Kode: Loop Pertumbuhan
-while not success:
-    attempt()
-    if failure:
-        analyze_error() # Ini adalah momen "Growth"
-        adjust_strategy()
-        continue # Coba lagi dengan data baru
-```
+Respons growth ini bisa diulang sebagai sebuah siklus sampai berhasil: mencoba, gagal, menganalisis kesalahan (inilah momen *growth*), menyesuaikan strategi, lalu mencoba lagi dengan bekal pemahaman yang baru.
 
 #### Kepemimpinan di Kantor
 

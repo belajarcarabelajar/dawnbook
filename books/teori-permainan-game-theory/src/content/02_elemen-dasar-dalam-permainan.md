@@ -62,39 +62,14 @@ $$
 u_A(\text{Tinggi}, \text{Tinggi}) = 10
 $$
 
-### Implementasi Teknis (Konsep Python)
+Ketiga elemen tadi bisa dirangkum dalam satu matriks imbalan. Pilihan Toko A ada di baris, pilihan Toko B ada di kolom, dan setiap sel berisi profit dalam juta rupiah (angka pertama untuk Toko A, angka kedua untuk Toko B):
 
-Dalam pemodelan simulasi, kita sering mendefinisikan elemen-elemen ini dalam struktur data. Berikut adalah representasi sederhana bagaimana elemen dasar ini disusun dalam kode:
+| Toko A \ Toko B | Harga Tinggi | Harga Murah |
+| --- | --- | --- |
+| **Harga Tinggi** | (10, 10) | (2, 15) |
+| **Harga Murah** | (15, 2) | (5, 5) |
 
-```python
-class GameElement:
-    def __init__(self):
-        # 1. Pemain (Players)
-        self.players = ["Toko_A", "Toko_B"]
-        
-        # 2. Ruang Strategi (Strategy Space)
-        self.strategies = {
-            "Toko_A": ["Harga_Tinggi", "Harga_Murah"],
-            "Toko_B": ["Harga_Tinggi", "Harga_Murah"]
-        }
-        
-    # 3. Hasil atau Imbalan (Payoffs)
-    def get_payoff(self, action_a, action_b):
-        # Matriks Imbalan dalam bentuk logika
-        if action_a == "Harga_Tinggi" and action_b == "Harga_Tinggi":
-            return (10, 10)
-        elif action_a == "Harga_Murah" and action_b == "Harga_Tinggi":
-            return (15, 2)
-        elif action_a == "Harga_Tinggi" and action_b == "Harga_Murah":
-            return (2, 15)
-        else: # Keduanya Harga Murah
-            return (5, 5)
-
-# Simulasi interaksi
-game = GameElement()
-hasil = game.get_payoff("Harga_Murah", "Harga_Tinggi")
-print(f"Hasil Imbalan (Toko A, Toko B): {hasil}")
-```
+Sel kanan atas adalah kebalikan dari kasus ketiga: jika Toko A bertahan di Harga Tinggi sementara Toko B memasang Harga Murah, giliran Toko B yang merebut pelanggan dan mendapat Rp15 juta, sedangkan Toko A hanya mendapat Rp2 juta.
 
 ### Ringkasan Strategis
 
