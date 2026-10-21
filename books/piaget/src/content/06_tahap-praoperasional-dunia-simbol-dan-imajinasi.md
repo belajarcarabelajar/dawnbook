@@ -54,21 +54,19 @@ Bayangkan dua gelas identik (A dan B) berisi jumlah air yang sama.
 1. **Centration:** Anak hanya fokus pada *tinggi* air, mengabaikan *lebar* gelas.
 2. **Irreversibility (Ketidakterbalikan):** Anak tidak bisa secara mental memutar balik proses tersebut (membayangkan air dituangkan kembali ke gelas semula untuk membuktikan volumenya sama).
 
-## 4\. Representasi Logika Praoperasional (Analogi Teknis)
+## 4\. Jalan Pikiran Anak di Depan Gelas C
 
-Kalau diibaratkan kode program, pikiran anak di tahap ini punya fungsi yang masih *hardcoded* dari tampilan visual yang langsung mereka lihat. Belum ada fitur *undo*.
+Dua batasan tadi bekerja bersamaan saat anak menjawab pertanyaan soal gelas C. Pikirannya terpaku pada apa yang tampak saat itu juga, sehingga jawabannya tersusun seperti ini:
 
-```python
-## Logika Berpikir Anak (Tahap Praoperasional)
-def cek_volume(wadah_A, wadah_C):
-    # Anak hanya melakukan centration (fokus pada tinggi)
-    if wadah_C.tinggi > wadah_A.tinggi:
-        return "Gelas C punya lebih banyak air!"
-    else:
-        return "Sama saja."
-
-## Mereka mengabaikan variabel wadah.lebar
-## Mereka tidak memiliki fungsi: reverse_action()
+```mermaid
+flowchart TD
+    accTitle: Cara anak praoperasional menilai gelas C
+    accDescr: Setelah air dari gelas B dituang ke gelas C yang lebih tinggi dan lebih ramping, anak hanya melihat tinggi air sehingga lebar gelas diabaikan, dan anak tidak bisa memutar balik penuangan itu di kepala. Akibatnya anak menjawab gelas C lebih banyak.
+    A["Air dari gelas B dituang ke gelas C yang lebih tinggi dan lebih ramping"] --> B["Anak hanya melihat tinggi air"]
+    B --> C["Lebar gelas diabaikan"]
+    A --> D["Anak tidak bisa memutar balik penuangan itu di kepala"]
+    C --> E["Anak menjawab gelas C lebih banyak"]
+    D --> E
 ```
 
 ## 5\. Berinteraksi dengan Anak Praoperasional
