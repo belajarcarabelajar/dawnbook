@@ -2,7 +2,7 @@
 
 Pemicu: owner melihat blok Python `def cek_volume(...)` tampil mentah di `piaget/06_tahap-praoperasional-dunia-simbol-dan-imajinasi` (bagian "4. Representasi Logika Praoperasional (Analogi Teknis)"). Bagi pembaca awam itu tampak seperti eror. Permintaan: audit semua buku, pertahankan kode hanya bila materinya memang tentang pemrograman, ubah sisanya ke bentuk yang membawa pesan yang sama.
 
-Status: audit selesai. Percontohan Piaget dikerjakan di branch `content/piaget-code-blocks`; 41 buku lain menunggu persetujuan owner atas hasil percontohan.
+Status: audit selesai, semua batch dikonversi dan menunggu merge (PR #172 sampai #177). Belum di-deploy.
 
 ## Keputusan owner (2026-10-21)
 
@@ -12,10 +12,25 @@ Status: audit selesai. Percontohan Piaget dikerjakan di branch `content/piaget-c
 
 ## Progres
 
-| Batch | Buku | Status |
-|---|---|---|
-| Percontohan | `piaget` (5 blok) | branch `content/piaget-code-blocks` |
-| g1 sampai g5 (tanpa piaget) | 41 buku | menunggu |
+| Batch | Buku | Blok | PR |
+|---|---|---|---|
+| Percontohan | `piaget` | 5 | #172 (bersama audit ini) |
+| g1 | 8 buku (teori-permainan, multiple-intelligences, state-of-flow, dan lain-lain) | 33 | #174 |
+| g2 | 8 buku (matriks-keputusan, filosofi-stoikisme, psikologi-bencana, dan lain-lain) | 33 | #173 |
+| g3 | 9 buku (nudge-theory, siklus-hidrologi, neuroplastisitas, dan lain-lain) | 33 | #175 |
+| g4 | 8 buku (bias-kognitif, logika, analisis-wacana-kritis, dan lain-lain) | 29 | #176 |
+| g5 | 8 buku (iklan-digital, aerodinamika, fungsi-manajemen-poac, dan lain-lain) | 31 + 1 dipertahankan | #177 |
+
+Cara kerja tiap batch: satu worktree per batch, satu agen implementer per 1 sampai 4 buku (kontrak berisi aturan GEMINI.md bagian 9, 16, 21, 24, 25 dan keputusan owner), lalu satu reviewer independen per kelompok buku. Reviewer menemukan 5 P1 (semuanya diperbaiki: klaim tanpa dasar di stoikisme 06, kalimat sebab yang bertentangan dengan tabel di teori-permainan 13, dua diagram yang kehilangan dasar di prosa setelah kodenya dihapus di relief 05 dan bias-kognitif 12, ambang tanpa label di digital-minimalisme 10) dan sekitar 100 P2 (hampir semua diperbaiki). Setiap batch lulus `remaining-fences.py`, `check:headings`, `check-repeated-headings`, `check:diagrams`, copy rules, dan `bun run build`.
+
+## Tindak lanjut di luar cakupan (belum diubah)
+
+Ditemukan saat konversi, di baris yang bukan blok kode. Butuh keputusan owner atau sapuan terpisah:
+
+- Rumus tampilan bermasalah: sekitar 40 blok `$$` menempel ke paragraf tanpa baris kosong di 20 buku (contoh: piaget 05, geopolitik 11:45, nudge 08:13), blok dengan baris kosong di dalam `$$` (kecerdasan-interpersonal 04:59, bias-kognitif 13:29, digital-minimalisme 08:15 dan 11:31, nudge 06:86 dan 09:29), `\\` di dalam math (bias-kognitif 05:17, drama-korea 09:49, kecerdasan-interpersonal 09:28), `aligned` dengan satu backslash di nudge 05:70, dan `$` tunggal di drama-korea 08:45.
+- Salah ketik: "and" di logika 05:77 dan 11:89, matriks-keputusan 06:11, drama-korea 09:57 ("or"); "perkebunan sifar" di neuroplastisitas 13:11; judul "Plateu" di neuroplastisitas 12; baris teks lepas sebelum judul di metakognisi 08:1.
+- Isi yang perlu dicek sumber: konstanta difusi $\xi$ di siklus-hidrologi 06 (contoh angka sudah dibuang), alasan Prancis dan Skotlandia mundur 1950 di geopolitik 03, tarif pajak 35% di ekonomi-laissez-faire 10 (sudah berlabel ilustrasi), waktu pulih fokus 23 vs 20 menit di digital-minimalisme 08 dan 09.
+- Keputusan isi: nama kolom tabel strategi-manajemen-kelas 05 (header asli hilang sejak commit pertama), rubrik 3 kriteria vs 4 aspek di pembelajaran-multidisiplin 09, kode inline `saveData()` di logika 02, pseudo-kode IF/THEN inline di relief-karmawibhangga 04:33.
 
 Piaget menyimpang dari saran auditor di dua tempat, dengan alasan berikut:
 
