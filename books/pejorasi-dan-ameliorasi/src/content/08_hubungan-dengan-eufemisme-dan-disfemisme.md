@@ -81,7 +81,7 @@ Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada
 
 ### Mengukur Nilai Rasa Melalui Formula Konotasi
 
-Secara konseptual, relasi antara nilai leksikal dasar dan intensi kontekstual dapat dipetakan melalui formula skor konotasi (\(\text{CS}\)):
+Secara konseptual, relasi antara nilai leksikal dasar dan intensi kontekstual dapat dipetakan melalui formula skor konotasi ($\text{CS}$):
 
 <div>
 $$
@@ -91,10 +91,10 @@ $$
 
 Keterangan variabel:
 
-- \(V\) = *Value* (nilai semantis inheren dalam kamus leksikal).
-- \(K\) = *Context* (faktor situasi, register tutur, dan intensi pragmatis penutur).
+- $V$ = *Value* (nilai semantis inheren dalam kamus leksikal).
+- $K$ = *Context* (faktor situasi, register tutur, dan intensi pragmatis penutur).
 
-Pada fenomena **ameliorasi dan pejorasi**, variabel dasar \(V\) itu sendiri yang mengalami transformasi permanen seiring waktu. Sebaliknya, pada **eufemisme dan disfemisme**, nilai \(V\) relatif konstan, sementara penutur mengolah variabel \(K\) demi memproduksi impresi psikologis tertentu.
+Pada fenomena **ameliorasi dan pejorasi**, variabel dasar $V$ itu sendiri yang mengalami transformasi permanen seiring waktu. Sebaliknya, pada **eufemisme dan disfemisme**, nilai $V$ relatif konstan, sementara penutur mengolah variabel $K$ demi memproduksi impresi psikologis tertentu.
 
 ### Refleksi Kritis dan Implikasi Komunikasi
 

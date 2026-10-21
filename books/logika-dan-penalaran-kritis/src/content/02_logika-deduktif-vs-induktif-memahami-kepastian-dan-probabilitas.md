@@ -35,9 +35,12 @@ Dalam deduksi, sebuah argumen bisa **Valid** secara struktur tetapi **Salah** se
 
 - **Argumen Valid** terjadi ketika strukturnya benar (Jika A=B dan B=C, maka A=C).
 - **Argumen Sound (Sahih)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
+
+<div>
 $$
 \text{Validitas} + \text{Kebenaran Premis} = \text{Soundness}
 $$
+</div>
 
 ## 2\. Penalaran Induktif
 
@@ -81,8 +84,8 @@ Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
    
 2. **Proses Deduktif (Menguji Hipotesis)**
    Setelah menemukan pola tersebut, kamu menyusun premis deduktif untuk memvalidasi masalah:
-   - *Premis Mayor*: Jika fungsi `saveData()` tidak memiliki blok `try-catch` untuk menangani timeout, aplikasi pasti akan crash saat koneksi lambat.
-   - *Premis Minor*: Kode yang saat ini berjalan terbukti tidak memiliki penanganan `try-catch` tersebut.
+   - *Premis Mayor*: Jika fungsi penyimpanan data tidak memiliki penanganan galat untuk kondisi timeout, aplikasi pasti akan crash saat koneksi lambat.
+   - *Premis Minor*: Fungsi penyimpanan data di aplikasi yang sedang berjalan terbukti tidak memiliki penanganan galat tersebut.
    - *Konklusi*: Oleh karena itu, aplikasi dipastikan akan crash setiap kali timeout terjadi.
 
 ### Silogisme di Balik Hak Akses

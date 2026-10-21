@@ -20,9 +20,11 @@ Jadi, **Mahakarmawibhangga** secara harfiah berarti *"Penguraian Besar tentang P
 
 Naskah Mahakarmawibhangga tidak ditulis seperti novel dengan alur cerita yang panjang, melainkan menggunakan struktur **logika kausalitas** (sebab-akibat) yang sangat disiplin. Pola dasarnya adalah:
 
+<div>
 $$
 \text{Tindakan (Karma)} \implies \text{Buah/Hasil (Vipaka)}
 $$
+</div>
 
 ### Pola Penyajian dalam Teks
 
@@ -30,7 +32,7 @@ $$
 2. **Penjelasan Variasi**: Kadang dijelaskan intensitas perbuatan tersebut.
 3. **Pernyataan Akibat**: Teks merinci hasil yang akan didapat (misal: terlahir di keluarga terhormat atau berumur panjang).
 
-Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "IF - THEN": `IF (membunuh makhluk hidup) THEN (umur pendek / terlahir di neraka)` `IF (memberi sedekah dengan tulus) THEN (kekayaan melimpah / terlahir di surga)`
+Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "jika-maka": jika seseorang membunuh makhluk hidup, maka ia berumur pendek atau terlahir di neraka; jika seseorang memberi sedekah dengan tulus, maka ia mendapat kekayaan melimpah atau terlahir di surga.
 
 ## 3. Penemuan Hubungan Teks dan Relief
 

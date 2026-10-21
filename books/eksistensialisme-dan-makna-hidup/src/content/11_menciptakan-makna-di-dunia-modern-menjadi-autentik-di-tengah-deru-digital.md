@@ -62,10 +62,11 @@ Menjadi autentik berarti menghargai orang lain sebagai subjek yang merdeka, buka
 
 Pencarian makna hidup di era modern dapat digambarkan dalam hubungan sederhana berikut:
 
+<div>
 $$
-
 M = A \times (T - D)
 $$
+</div>
 
 Di mana $M$ melambangkan Makna (*Meaning*), $A$ mewakili Autentisitas (hidup yang selaras dengan nilai personal), $T$ adalah Tindakan konkret (bukan cuma niat kosong), dan $D$ menggambarkan Distraksi serta tekanan ekspektasi dari luar.
 

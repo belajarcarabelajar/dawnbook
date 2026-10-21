@@ -40,9 +40,9 @@ $$
 </div>
 
 Keterangan rumus:
-- \( F(w) \) melambangkan frekuensi kemunculan relatif kata target dalam korpus.
-- \( n \) melambangkan jumlah kemunculan kata target pada periode waktu tertentu.
-- \( T \) melambangkan total keseluruhan kata dalam korpus pada periode yang sama.
+- $F(w)$ melambangkan frekuensi kemunculan relatif kata target dalam korpus.
+- $n$ melambangkan jumlah kemunculan kata target pada periode waktu tertentu.
+- $T$ melambangkan total keseluruhan kata dalam korpus pada periode yang sama.
 
 ### 2. Dinamika Evolusi Leksikal
 

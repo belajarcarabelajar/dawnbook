@@ -22,11 +22,11 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
 
 Karakter tidak dibangun dalam satu malam melalui satu keputusan heroik. Karakter adalah akumulasi dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
 
+<div>
 $$
-\begin{aligned}
 \sum_{t=1}^{n} \text{Tindakan}_t = \text{Karakter}
-\end{aligned}
 $$
+</div>
 
 Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
 

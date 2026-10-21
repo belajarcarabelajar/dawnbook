@@ -27,7 +27,7 @@ Evaporasi merupakan proses perubahan fase air dari wujud cair menjadi uap air (g
 
 *Analogi:* Ketika panci berisi air dipanaskan di atas kompor, molekul air memperoleh energi kinetik tambahan hingga akhirnya terlepas dari permukaan air cair menuju udara bebas.
 
-Dilihat dari sudut pandang termodinamika, proses evaporasi memerlukan penyerapan energi panas penguapan laten ($L_{\text{v}}$). Tanpa adanya pasokan energi radiasi matahari yang stabil, sirkulasi air ini akan terhenti.
+Dilihat dari sudut pandang termodinamika, proses evaporasi memerlukan penyerapan energi panas penguapan laten ($L\_{\text{v}}$). Tanpa adanya pasokan energi radiasi matahari yang stabil, sirkulasi air ini akan terhenti.
 
 #### B. Transpirasi (Pelepasan Uap Air oleh Tumbuhan)
 
@@ -66,11 +66,9 @@ flowchart TD
 Guna menganalisis sirkulasi air secara kuantitatif, kita dapat menerapkan persamaan neraca air berbasis hukum kekekalan massa. Untuk suatu sistem wilayah atau planet secara keseluruhan, berlaku persamaan dasar:
 
 <div>
-
 $$
 P = E + R + \Delta S
 $$
-
 </div>
 
 Keterangan variabel:

@@ -32,7 +32,7 @@ Pengadilan merupakan arena tempat wacana mencapai puncak formalitasnya. Di ruang
 3. **Spasialisasi dan Otoritas Bahasa:** Posisi fisik meja hakim yang lebih tinggi diperkuat oleh konstruksi bahasa yang otoritatif.
 
 **Aplikasi Dunia Nyata (Skenario Hukum):**  
-Dalam persidangan kasus pencurian kecil, Jaksa Penuntut Umum secara konsisten merujuk pada ketetapan \(\text{Pasal 362 KUHP}\). Ketika terdakwa berusaha menjelaskan latar belakang ekonomi dan kelaparan yang dialaminya, penjelasan tersebut sering dihentikan karena dinilai "tidak relevan dengan unsur pidana." Dalam situasi ini, wacana formal hukum mengalahkan wacana kemanusiaan demi menjaga status quo hukum.
+Dalam persidangan kasus pencurian kecil, Jaksa Penuntut Umum secara konsisten merujuk pada ketetapan Pasal 362 KUHP. Ketika terdakwa berusaha menjelaskan latar belakang ekonomi dan kelaparan yang dialaminya, penjelasan tersebut sering dihentikan karena dinilai "tidak relevan dengan unsur pidana." Dalam situasi ini, wacana formal hukum mengalahkan wacana kemanusiaan demi menjaga status quo hukum.
 
 ### 4. Eufemisme dan Kontrol Total di Penjara
 

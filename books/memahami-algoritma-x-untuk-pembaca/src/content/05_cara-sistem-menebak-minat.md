@@ -13,11 +13,9 @@ Satu pembaca tidak harus masuk satu kotak saja. Kamu bisa dekat dengan komunitas
 Untuk menghitung kadar itu, SimClusters memakai matriks. Bayangkan matriks sebagai tabel: setiap baris mewakili satu hal, setiap kolom mewakili hal lain, dan setiap sel berisi angka yang menunjukkan seberapa kuat hubungan keduanya. Dua tabel yang ukurannya cocok bisa dikalikan untuk menghasilkan tabel baru. Rumus intinya adalah:
 
 <div>
-
 $$
 U = A V
 $$
-
 </div>
 
 - $A$ adalah tabel follow: baris berisi pembaca, kolom berisi akun produsen, dan selnya menandai siapa mengikuti siapa.
@@ -33,11 +31,9 @@ Post juga punya representasi sendiri. Saat baru terbit, representasinya kosong. 
 Setelah pembaca, akun, dan post punya vektor, sistem perlu cara membandingkannya. Salah satu ukuran yang dipakai SimClusters adalah cosine similarity:
 
 <div>
-
 $$
 \cos(a,b)=\frac{a\cdot b}{\lVert a\rVert \lVert b\rVert}
 $$
-
 </div>
 
 Pembilang $a\cdot b$ (dot product) mengalikan komponen kedua vektor yang sepadan lalu menjumlahkannya. Penyebut berisi panjang masing-masing vektor, sehingga yang tersisa adalah kesamaan arah, bukan besar angkanya. Karena ada pembagian, rumus ini hanya berlaku jika $a$ dan $b$ sama-sama bukan vektor nol. Hasilnya makin besar ketika dua pola makin searah.

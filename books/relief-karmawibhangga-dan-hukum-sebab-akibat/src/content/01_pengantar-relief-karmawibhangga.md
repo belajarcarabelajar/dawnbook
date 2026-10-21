@@ -15,9 +15,11 @@ Secara etimologi, nama **Karmawibhangga** berasal dari bahasa Sanskerta yang ter
 
 Dalam matematika moral sederhana, kita bisa merumuskannya sebagai berikut:
 
+<div>
 $$
 \text{Niat (Intensi)} + \text{Tindakan} = \text{Hasil (Vipaka)}
 $$
+</div>
 
 ## 2\. Letak Geografis dan Spiritual Kamadhatu
 

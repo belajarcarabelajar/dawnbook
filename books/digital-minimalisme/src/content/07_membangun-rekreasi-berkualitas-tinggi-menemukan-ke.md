@@ -8,10 +8,11 @@ Kita bisa melihat rekreasi dalam dua kutub. Di satu sisi ada rekreasi pasif yang
 
 Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan $S$ bisa dirumuskan sebagai:
 
+<div>
 $$
-
 S = \int (\text{Skill} \times \text{Effort}) dt
 $$
+</div>
 
 Semakin tinggi keterampilan ($\text{Skill}$) dan usaha ($\text{Effort}$) yang digunakan sepanjang waktu ($t$), semakin besar total kepuasan ($S$) yang akan kamu rasakan.
 

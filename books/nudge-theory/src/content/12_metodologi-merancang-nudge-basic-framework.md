@@ -66,7 +66,7 @@ Metode standar emas yang digunakan adalah **Randomized Controlled Trial (RCT)**.
 - **Kelompok Kontrol:** Subjek yang tetap menjalani prosedur atau kondisi lama.
 - **Kelompok Eksperimen:** Subjek yang menerima intervensi *nudge* baru.
 
-Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}_{\text{eksperimen}} > \bar{x}_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
+Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}\_{\text{eksperimen}} > \bar{x}\_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
 
 ## 5. Change (Perubahan) dan Evaluasi Berkelanjutan
 

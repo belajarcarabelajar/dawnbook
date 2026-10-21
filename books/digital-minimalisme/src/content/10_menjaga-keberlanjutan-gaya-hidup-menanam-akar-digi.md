@@ -26,9 +26,17 @@ Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
+<div>
 $$
-\text{Nilai Baru} = (\text{Manfaat Utama}) - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
+\text{Nilai Baru} = (\text{Manfaat Utama})
 $$
+</div>
+
+<div>
+$$
+\quad - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
+$$
+</div>
 
 Kalau $\text{Nilai Baru} \leq 0$, berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 

@@ -53,12 +53,13 @@ Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi
 
 Tingkat tabungan karyawan yang menggunakan skema tradisional sering kali stagnan. Sebaliknya, program SMarT mendorong pertumbuhan tabungan secara akumulatif berdasarkan fungsi matematika berikut:
 
+<div>
 $$
-
 S_{\text{total}} = \sum_{t=1}^{n} (G_t \times R_t)
 $$
+</div>
 
-Dalam formula di atas, $G_t$ merepresentasikan gaji pada tahun ke-$t$, sementara $R_t$ adalah rasio tabungan yang terus meningkat secara otomatis. Pada uji coba pertamanya, pendekatan ini terbukti mendongkrak rata-rata tingkat tabungan dari **3,5% menjadi 13,6%** dalam kurun waktu kurang dari empat tahun.
+Dalam formula di atas, $G\_t$ merepresentasikan gaji pada tahun ke-$t$, sementara $R\_t$ adalah rasio tabungan yang terus meningkat secara otomatis. Pada uji coba pertamanya, pendekatan ini terbukti mendongkrak rata-rata tingkat tabungan dari **3,5% menjadi 13,6%** dalam kurun waktu kurang dari empat tahun.
 
 ## 3\. Mengubah Perilaku Konsumsi di Sektor Lingkungan
 

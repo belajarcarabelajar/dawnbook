@@ -54,10 +54,11 @@ Data tanpa aksi adalah tumpukan kertas. Setelah mengumpulkan hasil evaluasi diri
 
 Kita bisa memandang efektivitas manajemen kelas ($E$) sebagai fungsi dari Konsistensi ($K$) dan Kualitas Hubungan ($H$), dibagi dengan hambatan lingkungan ($L$):
 
+<div>
 $$
-
 E = \frac{K \times H}{L}
 $$
+</div>
 
 Jika hasil monitoring menunjukkan skor $E$ rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
 

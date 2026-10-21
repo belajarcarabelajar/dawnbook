@@ -41,9 +41,11 @@ Untuk memahami skala pekerjaan Cephas, mari kita lihat dalam perspektif teknis s
 
 Jika kita menghitung total luas area yang didokumentasikan:
 
+<div>
 $$
 \text{Luas Total} = 160 \times (2 \times 0.6) = 192 \text{ m}^2
 $$
+</div>
 
 Mendokumentasikan hampir $200 \text{ m}^2$ karya seni pahat dengan presisi tinggi di bawah tanah adalah pencapaian luar biasa untuk abad ke-19.
 

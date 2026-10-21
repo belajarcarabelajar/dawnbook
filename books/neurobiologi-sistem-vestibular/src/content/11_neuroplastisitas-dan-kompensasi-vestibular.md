@@ -49,21 +49,17 @@ Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandanga
 Dalam pemulihan VOR, kita sering melihat perubahan pada **Gain** (rasio kecepatan gerakan mata terhadap kecepatan gerakan kepala). Secara matematis, idealnya:
 
 <div>
-
 $$
 \text{Gain} = \frac{V_{\text{mata}}}{V_{\text{kepala}}} = 1.0
 $$
-
 </div>
 
 Setelah kerusakan unilateral, *gain* bisa turun menjadi $0.5$. Melalui plastisitas di serebelum (otak kecil), otak akan mencoba meningkatkan efisiensi sinapsis agar *gain* mendekati $1.0$ kembali melalui mekanisme:
 
 <div>
-
 $$
 \Delta W_{\text{synapse}} = \eta \cdot (\text{Error})
 $$
-
 </div>
 
 Di mana perubahan kekuatan sinapsis ($\Delta W$) bergantung pada sinyal kesalahan (*error*) yang diterima dari penglihatan yang kabur.

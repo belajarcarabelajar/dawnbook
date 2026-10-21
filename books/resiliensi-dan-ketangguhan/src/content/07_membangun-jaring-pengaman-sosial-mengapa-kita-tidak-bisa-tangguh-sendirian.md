@@ -41,18 +41,20 @@ Tidak semua interaksi sosial memperkuat resiliensi. Hubungan yang toksik justru 
 
 Dalam sosiologi, kekuatan hubungan ini sering diukur dengan konsep **Modal Sosial**. Jika kita formulasikan secara sederhana:
 
+<div>
 $$
 \text{R}_{\text{ext}} = \sum_{\text{i}=1}^{\text{n}} (\text{K}_{\text{i}} \times \text{T}_{\text{i}})
 $$
+</div>
 
-Dimana:
+Di mana:
 
-- $\text{R}_{\text{ext}}$ adalah Resiliensi Eksternal.
+- $\text{R}\_{\text{ext}}$ adalah Resiliensi Eksternal.
 - $\text{K}$ adalah Kualitas koneksi dengan individu $\text{i}$.
 - $\text{T}$ adalah Tingkat Kepercayaan pada individu $\text{i}$.
 - $\text{n}$ adalah jumlah orang dalam lingkaran inti kamu.
 
-**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi ($\text{K} \\times \text{T}$) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
+**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi ($\text{K} \times \text{T}$) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
 
 ### 4. Membangun Jaring Sebelum Jatuh
 
@@ -83,4 +85,4 @@ Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jar
 
 **Penting:** Jaring pengaman sosial adalah jalan dua arah. Untuk memiliki jaring yang kuat, kamu juga harus bersedia menjadi bagian dari jaring pengaman orang lain. Saat kamu membantu orang lain, otakmu melepaskan oksitosin yang secara paradoks justru meningkatkan ketahanan mental *kamu* sendiri.
 
-> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak and kapan harus bersandar pada orang lain.
+> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak dan kapan harus bersandar pada orang lain.

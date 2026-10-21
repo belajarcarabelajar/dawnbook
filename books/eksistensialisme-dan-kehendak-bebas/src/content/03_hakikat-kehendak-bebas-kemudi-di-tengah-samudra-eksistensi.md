@@ -30,14 +30,12 @@ Struktur eksistensi manusia dalam mengekspresikan kehendak bebas bergerak dalam 
 Kehendak bebas beroperasi pada celah intensionalitas antara persepsi atas situasi dan eksekusi praksis. Secara matematis, identitas eksistensial subjek merupakan fungsi akumulasi dari rangkaian keputusan sadar:
 
 <div>
-
 $$
 \text{Eksistensi} = \sum_{i=1}^{n} \text{Pilihan}_i
 $$
-
 </div>
 
-Di mana setiap $\text{Pilihan}_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
+Di mana setiap $\text{Pilihan}\_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
 
 ### 4. Keniscayaan Memilih dan Paradoks Pelarian
 

@@ -15,14 +15,12 @@ Perhatikan sudut pandangnya. Model tidak bertanya apakah post ini benar atau apa
 Cara paling ringkas memahami bagian positif dari penggabungan skor lama adalah rumus berikut.
 
 <div>
-
 $$
 S_{+}=\sum_{i:w_i\geq 0} w_i p_i
 $$
-
 </div>
 
-Di sini $p_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p_i$ punya arti yang sama.
+Di sini $p\_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w\_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p\_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p\_i$ punya arti yang sama.
 
 Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi terhadap sebuah kandidat post. Kode tidak sedang memberimu satu poin setiap kali kamu menekan like. Aktivitasmu memang bisa menjadi masukan bagi tebakan berikutnya, tetapi hubungan itu bukan tabel poin tetap.
 
@@ -30,18 +28,16 @@ Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi 
 
 Rumus di atas sengaja disederhanakan. Berkas HomeGlobalParams menyimpan sekitar 30 parameter bobot yang nilai awalnya 0,0. Nilai sebenarnya diisi lewat konfigurasi permintaan dan sebuah optimizer yang memberi set bobot per pengguna. Jadi angka 0,0 itu bukan pengaruh nyata like atau bookmark di akunmu.
 
-Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
+Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S\_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
 
 ### Bobot yang Kini Dibuka
 
 Repositori baru, xai-org/x-algorithm, menuliskan skor akhir dengan lebih terbuka: untuk setiap aksi, bobot dikalikan peluang prediksinya, lalu semuanya dijumlahkan. Aksi positif mendapat bobot positif, aksi negatif mendapat bobot negatif.
 
 <div>
-
 $$
 \text{Skor akhir}=\sum_{i} w_i P(a_i)
 $$
-
 </div>
 
 Bobotnya tercantum di [berkas parameter peringkat](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/params/param.rs). Berikut sebagian nilai bawaan per sinkronisasi 8 Oktober 2026.
@@ -76,7 +72,7 @@ Tidak ada pula kuota interaksi yang perlu dikejar, entah sekian like atau sekian
 ## Yang Perlu Kamu Ingat
 
 - Model menebak responsmu terhadap sebuah kandidat post, bukan menilai apakah post itu berguna.
-- Rumus $S_{+}$ hanya penyederhanaan, karena di implementasi lama bobot diisi konfigurasi dan optimizer, lalu skornya dikalikan lagi oleh faktor penyesuaian.
+- Rumus $S\_{+}$ hanya penyederhanaan, karena di implementasi lama bobot diisi konfigurasi dan optimizer, lalu skornya dikalikan lagi oleh faktor penyesuaian.
 - Bobot di repositori baru mengalikan peluang, bukan jumlah aksi, dan nilainya bisa berubah sewaktu-waktu.
 - Ukuran manfaat ada di tanganmu: pengetahuan baru, sumber yang bisa diperiksa, dan keputusan yang lebih jelas.
 

@@ -8,7 +8,7 @@ Dalam pembuatan **matriks keputusan (decision matrix)**, tidak semua **kriteria 
 
 Tanpa bobot, setiap kriteria dianggap memiliki pengaruh yang sama (bobot rata). Ini sering kali menyesatkan.
 
-> **Analogi Masakan:** Bayangkan kamu sedang membuat sup. Garam dan merica adalah bumbu (kriteria), tetapi jumlah (bobot) yang kamu masukkan tentu berbeda. Jika kamu memasukkan garam sebanyak air sup, masakan tersebut akan rusak. Begitu pula dalam pengambilan keputusan; memberikan bobot yang salah akan menghasilkan keputusan yang "terlalu asin" or tidak seimbang.
+> **Analogi Masakan:** Bayangkan kamu sedang membuat sup. Garam dan merica adalah bumbu (kriteria), tetapi jumlah (bobot) yang kamu masukkan tentu berbeda. Jika kamu memasukkan garam sebanyak air sup, masakan tersebut akan rusak. Begitu pula dalam pengambilan keputusan; memberikan bobot yang salah akan menghasilkan keputusan yang "terlalu asin" atau tidak seimbang.
 
 ### Metodologi Pemberian Bobot
 
@@ -35,14 +35,16 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 - **Normalisasi Nilai:** Setelah memberikan angka kasar, kamu harus melakukan proses normalisasi agar jumlah seluruh bobot tepat bernilai 1,0.
 - **Rumus Normalisasi:**
 
-$$
-w_i = \frac{p_i}{\sum_{j=1}^{n} p_j}
-$$
+  <div>
+  $$
+  w_i = \frac{p_i}{\sum_{j=1}^{n} p_j}
+  $$
+  </div>
 
   Di mana:
-  - $w_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
-  - $p_i$ = Skor kepentingan kriteria ke-$i$
-  - $\sum p_j$ = Total jumlah skor dari semua kriteria yang ada
+  - $w\_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
+  - $p\_i$ = Skor kepentingan kriteria ke-$i$
+  - $\sum p\_j$ = Total jumlah skor dari semua kriteria yang ada
 
 ### Langkah-Langkah Praktis Menentukan Bobot
 

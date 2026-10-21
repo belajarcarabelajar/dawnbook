@@ -24,7 +24,12 @@ Untuk menyimpulkan bahwa $A$ menyebabkan $B$, para pemikir kritis dan peneliti b
 1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika $B$ sudah terjadi sebelum $A$ muncul, maka $A$ mustahil menjadi penyebab bagi $B$.
 2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila $A$ berubah, $B$ juga harus menunjukkan perubahan yang terukur.
 3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor $C$, yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan $A$ dan $B$ secara bersamaan.
-   $$A \rightarrow B \text{ (Hanya jika faktor } C, D, \text{ dan } E \text{ sudah ditiadakan)}$$
+
+   <div>
+   $$
+   A \rightarrow B \text{ (Hanya jika faktor } C, D, \text{ dan } E \text{ sudah ditiadakan)}
+   $$
+   </div>
 
 ## 3. Kompleksitas Causal Chain (Rantai Kausalitas)
 

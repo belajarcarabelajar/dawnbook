@@ -48,11 +48,9 @@ flowchart LR
 Secara konseptual, hubungan antara liputan media dan respons psikologis masyarakat dapat diformulasikan sebagai berikut:
 
 <div>
-
 $$
 K = \frac{I \times V}{R}
 $$
-
 </div>
 
 *Keterangan Variabel:*

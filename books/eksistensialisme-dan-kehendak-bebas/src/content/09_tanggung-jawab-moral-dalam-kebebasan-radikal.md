@@ -18,11 +18,9 @@ Dalam risalah *L'existentialisme est un humanisme*, Sartre merumuskan prinsip ba
 Setiap tindakan sadar mencerminkan sebuah pengakuan nilai bahwa tindakan tersebut pantas diadopsi sebagai model keberadaan manusia. Secara konseptual, logika universalisasi ini dirumuskan sebagai berikut:
 
 <div>
-
 $$
 \text{Pilihan Subjektif} \Rightarrow \text{Standar Etika Universal}
 $$
-
 </div>
 
 Apabila seorang subjek memilih kejujuran dalam situasi yang penuh risiko, ia memproklamasikan nilai bahwa manusia ideal adalah makhluk yang berintegritas. Sebaliknya, memilih pengkhianatan demi kenyamanan personal secara implisit memvalidasi tatanan dunia yang permisif terhadap kebohongan.

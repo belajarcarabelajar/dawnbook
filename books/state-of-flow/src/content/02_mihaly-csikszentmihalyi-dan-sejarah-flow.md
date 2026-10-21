@@ -50,11 +50,13 @@ Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optima
 
 Dalam catatan risetnya, ia sering menggambarkan hubungan antara tantangan dan keterampilan. Meskipun grafik formalnya akan dibahas di bagian lain, sejarah mencatat bahwa Mihaly menemukan "titik manis" ini melalui observasi terhadap para atlet:
 
+<div>
 $$
 \text{E}_o = \int_{t_1}^{t_2} f(C, S) dt
 $$
+</div>
 
-*Dimana $\text{E}_o$ adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan ($C$) dan Keterampilan ($S$) selama periode waktu tertentu.*
+*Dimana $\text{E}\_o$ adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan ($C$) dan Keterampilan ($S$) selama periode waktu tertentu.*
 
 ## Belajar dari Sejarah
 

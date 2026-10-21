@@ -23,11 +23,9 @@ Mendekonstruksi tujuan-tujuan palsu yang diadopsi dari konformitas sosial, ekspe
 Secara teoretis, artikulasi kebermaknaan hidup merupakan fungsi dari integrasi nilai otonom dan realisasi praksis yang dipadukan dengan penerimaan atas kontingensi realitas:
 
 <div>
-
 $$
 \text{Makna Eksistensial} = (\text{Nilai Otentik} \times \text{Praksis Tindakan}) + \text{Akseptasi Kontingensi}
 $$
-
 </div>
 
 - **Nilai Otentik:** Prinsip etis yang dipilih secara sadar tanpa koersi eksternal.

@@ -16,7 +16,13 @@ Premis adalah pernyataan yang memberikan alasan, bukti, atau data untuk mendukun
 
 Konklusi adalah pernyataan akhir yang ingin kamu buktikan. Ini adalah inti dari pesanmu. Konklusi menjawab pertanyaan: *"Apa poin utama yang ingin kamu sampaikan?"*
 
-Secara matematis sederhana, struktur argumen dapat digambarkan sebagai berikut: $\\text{Premis}_1 + \\text{Premis}_2 + \\dots + \\text{Premis}_n \\rightarrow \\text{Konklusi}$
+Secara matematis sederhana, struktur argumen dapat digambarkan sebagai berikut:
+
+<div>
+$$
+\text{Premis}_1 + \text{Premis}_2 + \dots + \text{Premis}_n \rightarrow \text{Konklusi}
+$$
+</div>
 
 > **Catatan:** Sebuah argumen yang kuat adalah argumen di mana jika semua premisnya benar, maka konklusinya sangat sulit (atau tidak mungkin) untuk salah.
 

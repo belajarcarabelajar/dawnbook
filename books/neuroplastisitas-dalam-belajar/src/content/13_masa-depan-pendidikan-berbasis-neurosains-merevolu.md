@@ -8,7 +8,7 @@ Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagai
 
 Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
 
-> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan sifar**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
+> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan saraf**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
 
 ### Transformasi Kurikulum Masa Depan
 
@@ -49,9 +49,11 @@ Pendidikan berbasis neurosains akan menantang sistem penilaian tradisional. Kita
 
 Dalam matematika, pertumbuhan ini dapat digambarkan dengan peningkatan efisiensi sinaptik ($\Delta w$) dalam kurun waktu tertentu:
 
+<div>
 $$
 \Delta w = \eta \cdot (\text{Stimulus} \times \text{Atensi})
 $$
+</div>
 
 Di mana:
 

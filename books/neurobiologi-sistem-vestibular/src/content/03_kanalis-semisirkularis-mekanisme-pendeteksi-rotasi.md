@@ -45,11 +45,9 @@ Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses in
 Secara matematis, respon kanalis semisirkularis terhadap akselerasi sudut ($\alpha$) dapat digambarkan melalui hukum kedua Newton untuk rotasi. Besarnya torsi ($\tau$) yang bekerja pada endolimfe sebanding dengan inersia cairan dan akselerasi kepala:
 
 <div>
-
 $$
 \tau = I \cdot \alpha
 $$
-
 </div>
 
 Dimana:
@@ -60,11 +58,9 @@ Dimana:
 Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar), bukan kecepatan konstan. Sinyal yang dikirim ke otak mewakili:
 
 <div>
-
 $$
 \text{Sinyal Saraf} \propto \text{Kecepatan Sudut Kepala}
 $$
-
 </div>
 
 ### 5. Prinsip "Push-Pull" (Dorong-Tarik)

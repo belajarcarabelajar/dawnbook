@@ -20,8 +20,8 @@ $$
 
 Keterangan parameter:
 
-- **Ameliorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah positif: \(V_{t1} < V_{t2}\).
-- **Pejorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah negatif: \(V_{t1} > V_{t2}\).
+- **Ameliorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah positif: $V\_{t1} < V\_{t2}$.
+- **Pejorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah negatif: $V\_{t1} > V\_{t2}$.
 
 | Dimensi | Ameliorasi | Pejorasi |
 | :--- | :--- | :--- |

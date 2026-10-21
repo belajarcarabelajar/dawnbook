@@ -10,7 +10,7 @@ Dalam dunia profesional, keputusan yang didorong oleh bias sering kali bersembun
 
 ### Kejatuhan Blockbuster Video
 
-Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada CEO Blockbuster, John Antioco, seharga $50 juta. Antioco menolak tawaran itu mentah-mentah. Mengapa?
+Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada CEO Blockbuster, John Antioco, seharga 50 juta dolar AS. Antioco menolak tawaran itu mentah-mentah. Mengapa?
 
 - **Status Quo Bias:** Ia merasa model bisnis penyewaan fisik masih sangat kuat.
 - **Confirmation Bias:** Ia hanya melihat data pelanggan yang masih datang ke toko, tanpa memedulikan tren digital yang mulai tumbuh.
@@ -45,7 +45,12 @@ Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kas
 
 - Hakim yang mendapatkan angka dadu tinggi cenderung memberikan hukuman yang lebih lama dibandingkan hakim yang mendapatkan angka rendah.
 - **Secara Matematis:** Jika jaksa menuntut angka hukuman $X$, maka vonis hakim cenderung berpusat di sekitar $X$ ($V \approx X \pm \Delta$), terlepas dari apakah tuntutan $X$ tersebut masuk akal secara objektif.
-   $$\text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}$$
+
+  <div>
+  $$
+  \text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}
+  $$
+  </div>
 
 ## 4. Hubungan Personal dan Sosial
 

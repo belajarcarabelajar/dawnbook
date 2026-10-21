@@ -24,9 +24,11 @@ Pernahkah kamu merasa yakin bahwa seseorang sedang berbohong meskipun kata-katan
 
 Secara psikologis, kecerdasan ini memproses berbagai informasi sosial yang hilir mudik. Mekanismenya bisa disederhanakan dalam alur berikut:
 
+<div>
 $$
 \text{Kecerdasan Interpersonal} = (\text{Observasi} + \text{Interpretasi}) \times \text{Respons yang Tepat}
 $$
+</div>
 
 Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna, apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
 

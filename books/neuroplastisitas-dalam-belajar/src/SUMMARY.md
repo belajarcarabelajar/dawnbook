@@ -11,5 +11,5 @@
 - [Jembatan Sains dari Mindset ke Perubahan Otak](content/09_jembatan-sains-bagaimana-mindset-mengubah-otak.md)
 - [Strategi Belajar Berbasis Neuroplastisitas](content/10_strategi-belajar-berbasis-neuroplastisitas-menguki.md)
 - [Dampak Gaya Hidup terhadap Efisiensi Sinaptik](content/11_dampak-gaya-hidup-terhadap-efisiensi-sinaptik.md)
-- [Anatomi Plateu](content/12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md)
+- [Anatomi Plateau](content/12_1-memahami-anatomi-plateu-mengapa-kita-stuck.md)
 - [Masa Depan Pendidikan Berbasis Neurosains](content/13_masa-depan-pendidikan-berbasis-neurosains-merevolu.md)

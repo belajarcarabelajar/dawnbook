@@ -63,7 +63,7 @@ Dalam manajemen operasional digital, pengawasan kini banyak mengandalkan otomasi
 
 <div>
 $$
-\text{Pencapaian} = \frac{\text{Penjualan Aktual}}{\text{Target Harian}} \times 100 \text{\%}
+\text{Pencapaian} = \frac{\text{Penjualan Aktual}}{\text{Target Harian}} \times 100\%
 $$
 </div>
 

@@ -33,11 +33,11 @@ Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase di mana se
 
 Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Titik tengah etis sama sekali bukan rata-rata matematika yang kaku.
 
+<div>
 $$
-\begin{aligned}
 \text{Jalan Tengah} \neq \frac{\text{Kelebihan} + \text{Kekurangan}}{2}
-\end{aligned}
 $$
+</div>
 
 Keseimbangan moral sangat dinamis dan berubah-ubah sesuai konteks. Di sinilah *Phronesis* berfungsi sebagai alat navigasi. 
 

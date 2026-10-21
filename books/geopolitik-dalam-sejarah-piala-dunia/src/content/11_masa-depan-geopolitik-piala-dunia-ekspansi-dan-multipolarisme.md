@@ -42,7 +42,12 @@ Sepanjang abad ke-20, peta kekuatan sepak bola dunia cenderung bersifat **unipol
 - **Kebangkitan Kolektif Global South:** Negara-negara berkembang menolak menjadi penonton pasif. Mereka menuntut hak untuk mengatur agenda sepak bola dunia, daripada sekadar tunduk pada aturan yang dirancang di Zurich atau Paris.
 
 **Rumus Kekuatan Geopolitik Baru:** Untuk memetakan pengaruh suatu negara dalam lanskap sepak bola masa depan, kita dapat menggambarkan hubungan variabelnya melalui persamaan berikut:
-   $$P = (E \\times I) + (S \\times V)$$
+
+<div>
+$$
+P = (E \times I) + (S \times V)
+$$
+</div>
 
 Di mana:
 

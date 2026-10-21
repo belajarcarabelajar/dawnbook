@@ -12,9 +12,11 @@ Istilah **Deep Work**, yang dipopulerkan oleh Cal Newport, adalah kemampuan untu
 
 Dalam ekonomi digital, nilai ekonomi seseorang ditentukan oleh kemampuan mereka untuk menyelesaikan masalah rumit dengan cepat. Rumus produktivitas dapat digambarkan secara matematis sebagai berikut:
 
+<div>
 $$
 \text{Hasil Kerja Berkualitas} = (\text{Waktu yang Dihabiskan}) \times (\text{Intensitas Fokus})
 $$
+</div>
 
 Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil kerja kamu juga akan mendekati nol, tidak peduli berapa lama kamu duduk di depan laptop.
 
@@ -22,7 +24,7 @@ Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil 
 
 ## 2\. Meminimalkan Gangguan Digital di Kantor
 
-Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata 20 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
+Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata sekitar 23 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
 
 ### Strategi Praktis Mengurangi Gangguan
 

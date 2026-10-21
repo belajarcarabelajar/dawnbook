@@ -34,11 +34,13 @@ Secara instan, tubuh kamu mengalami perubahan untuk bertahan hidup:
 
 Tubuh melepaskan kombinasi hormon stres, terutama **adrenalin** (*epinephrine*) dan **kortisol** (*cortisol*).
 
-Formula kimia adrenalin: $\text{C}_9\text{H}_{13}\text{NO}_3$
+Formula kimia adrenalin: $\text{C}\_9\text{H}\_{13}\text{NO}\_3$
 
+<div>
 $$
 \text{Stres} \rightarrow \text{Hipotalamus} \rightarrow \text{Kelenjar Adrenal} \rightarrow \text{Adrenalin} \uparrow
 $$
+</div>
 
 ### 3. Sistem Saraf Parasimpatik
 

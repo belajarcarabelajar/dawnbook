@@ -60,9 +60,11 @@ Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses m
 
 Jika kita memiliki dua grup (A dan B) dengan bobot CPU ($w$):
 
+<div>
 $$
-\\text{Share untuk Grup A} = \\frac{w_A}{w_A + w_B}
+\text{Share untuk Grup A} = \frac{w_A}{w_A + w_B}
 $$
+</div>
 
 Dengan Cgroups, kernel memastikan distribusi ini ditepati dengan presisi milidetik.
 

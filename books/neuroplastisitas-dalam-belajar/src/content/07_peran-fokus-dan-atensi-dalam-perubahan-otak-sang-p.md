@@ -43,7 +43,18 @@ Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Keti
 2. **Pelepasan Neuromodulator:** Asetilkolin membanjiri area spesifik yang sedang bekerja.
 3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal ($\text{fire}$).
 4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan, bukan ke tempat lain secara acak.
-   $$\text{Atensi Intens} \rightarrow \uparrow \text{Asetilkolin} \rightarrow \text{Tagging Sinapsis} \rightarrow \text{Perubahan Struktural (Plastisitas)}$$
+
+   <div>
+   $$
+   \text{Atensi Intens} \rightarrow \uparrow \text{Asetilkolin} \rightarrow \text{Tagging Sinapsis}
+   $$
+   </div>
+
+   <div>
+   $$
+   \rightarrow \text{Perubahan Struktural (Plastisitas)}
+   $$
+   </div>
 
 ## 4\. Peran Fokus dalam Menghilangkan "Noise"
 

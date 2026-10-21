@@ -59,8 +59,8 @@ $$
 
 Dimana:
 
-- $w_i$ = Bobot kriteria ke-$i$
-- $r_i$ = Rating solusi untuk kriteria ke-$i$
+- $w\_i$ = Bobot kriteria ke-$i$
+- $r\_i$ = Rating solusi untuk kriteria ke-$i$
 
 **Contoh Matriks Keputusan:**
 

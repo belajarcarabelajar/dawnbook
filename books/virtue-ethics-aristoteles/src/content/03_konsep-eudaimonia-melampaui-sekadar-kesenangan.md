@@ -39,11 +39,11 @@ Lantas, apa fungsi eksklusif dari seorang manusia? Aristoteles menunjuk tegas pa
 
 Kondisi paripurna manusia ini kemudian dapat divisualisasikan melalui rumusan matematis:
 
+<div>
 $$
-\begin{aligned}
-\text{Eudaimonia} &= \text{Aktivitas Jiwa} + \text{Kebajikan (Arete)} + \text{Akal Budi}
-\end{aligned}
+\text{Eudaimonia} = \text{Aktivitas Jiwa} + \text{Kebajikan (Arete)} + \text{Akal Budi}
 $$
+</div>
 
 Melalui perspektif tersebut, fondasi kesejahteraan dibangun di atas gaya hidup yang senantiasa mendayagunakan rasio saat menyeleksi keputusan paling etis dan bermanfaat.
 

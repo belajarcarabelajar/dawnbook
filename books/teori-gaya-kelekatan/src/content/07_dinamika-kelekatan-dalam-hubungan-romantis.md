@@ -40,7 +40,7 @@ flowchart TD
     D -->|"merasa harus bersembunyi lebih jauh"| C
 ```
 
-$\\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B$
+$\text{Konflik} = \text{(Kebutuhan Kedekatan)}\_A \times \text{(Ketakutan akan Keintiman)}\_B$
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 
@@ -118,9 +118,11 @@ Berikut adalah pilar-pilar utama dalam menciptakan koneksi yang mendalam:
 
 Untuk menggambarkan bagaimana sebuah hubungan tumbuh, mari kita gunakan formula sederhana berikut:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, semakin kuat pula ikatan yang terjalin. Sebaliknya, jika ego lebih mendominasi, kedalaman hubungan tersebut akan terkikis.
 

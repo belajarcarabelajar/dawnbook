@@ -69,9 +69,11 @@ flowchart LR
 
 Secara biologis, otak kita berevolusi untuk menghemat energi. Jika ada beberapa cara untuk mencapai tujuan yang sama, otak akan memilih cara yang paling sedikit menguras tenaga.
 
+<div>
 $$
 \text{Energi}_{\text{kognitif}} \propto \frac{1}{\text{Kemudahan}_{\text{pilihan}}}
 $$
+</div>
 
 Artinya, semakin sulit suatu pilihan diproses secara kognitif, semakin besar kemungkinan otak kita akan menyerah atau mencari "jalan pintas" (heuristik).
 

@@ -26,10 +26,11 @@ Ini adalah pengakuan tulus bahwa pengetahuan kita terbatas dan kita bisa saja sa
 
 Dalam statistik, Teorema Bayes mengajarkan kita untuk memperbarui probabilitas suatu hipotesis saat ada bukti baru. Secara mental, rumusnya bisa kita analogikan secara sederhana:
 
+<div>
 $$
-
 P(\text{Keyakinan} \mid \text{Bukti Baru}) \propto P(\text{Bukti Baru} \mid \text{Keyakinan}) \times P(\text{Keyakinan Awal})
 $$
+</div>
 
 Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap bergeser mengikuti bobot bukti baru yang masuk. Jangan memegang keyakinan dengan tangan mengepal; peganglah dengan tangan terbuka.
 

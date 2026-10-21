@@ -27,11 +27,11 @@ Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah inte
 
 Saat kamu melakukan olahraga aerobik (seperti lari, berenang, atau bersepeda), otot kamu melepaskan molekul ke dalam darah yang dapat menembus sawar darah otak. Proses ini memicu ekspresi gen BDNF di hipokampus.
 
+<div>
 $$
-\begin{aligned}
-\text{Aktivitas Fisik} \rightarrow \uparrow \text{IGF-1 \& VEGF} \rightarrow \uparrow \text{Ekspresi BDNF} \rightarrow \uparrow \text{Plastisitas Sinaptik}
-\end{aligned}
+\text{Aktivitas Fisik} \rightarrow \uparrow \text{IGF-1 & VEGF} \rightarrow \uparrow \text{Ekspresi BDNF} \rightarrow \uparrow \text{Plastisitas Sinaptik}
 $$
+</div>
 
 ### Strategi "Priming"
 

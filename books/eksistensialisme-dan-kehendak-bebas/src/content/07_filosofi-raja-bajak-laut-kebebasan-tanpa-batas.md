@@ -22,14 +22,12 @@ Sebagaimana digagas oleh Simone de Beauvoir dalam *The Ethics of Ambiguity*, keb
 Relasi intersubjektivitas kebebasan non-dominatif dirumuskan dalam model keselarasan sosial berikut:
 
 <div>
-
 $$
 K_{\text{total}} = K_{\text{diri}} + \sum K_{\text{sesama}}
 $$
-
 </div>
 
-Di mana $K_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
+Di mana $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
 
 ### 3. Dekonstruksi Fatalisme di Hadapan Nubuat (*Will of D*)
 

@@ -28,10 +28,11 @@ Lakukan evaluasi menyeluruh pada ekosistem alat digital kamu setiap tiga bulan. 
 
 Industri teknologi akan terus merilis gadget atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
 
+<div>
 $$
-
 V = \frac{U \times N}{C}
 $$
+</div>
 
 Di mana:
 

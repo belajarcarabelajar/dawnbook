@@ -23,7 +23,7 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 
 ## 2. Integritas sebagai Perekat Karakter
 
-Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita,pikiran, perkataan, dan tindakan,selaras dengan nilai-nilai moral yang kita anut.
+Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita (pikiran, perkataan, dan tindakan) selaras dengan nilai-nilai moral yang kita anut.
 
 Integritas adalah kondisi di mana semua kebajikan kita terintegrasi secara kokoh.
 
@@ -55,11 +55,11 @@ Integritas tidak berarti menjadi sempurna tanpa kesalahan. Integritas berarti me
 
 Untuk mencapai $E$ (Eudaimonia), kita memerlukan $\sum V$ (Jumlah dari seluruh Kebajikan) yang terikat oleh $I$ (Integritas) dan dipandu oleh $P$ (Phronesis).
 
+<div>
 $$
-\begin{aligned}
-\text{Eudaimonia} &= \int (\text{Virtues} \times \text{Integrity})^{\text{Phronesis}} \text{dt}
-\end{aligned}
+\text{Eudaimonia} = \int (\text{Virtues} \times \text{Integrity})^{\text{Phronesis}} \text{dt}
 $$
+</div>
 
 *Catatan: Rumus di atas adalah representasi simbolis bahwa kebahagiaan sejati adalah hasil dari kebajikan yang terintegrasi dan dijalankan melalui kebijaksanaan praktis sepanjang waktu ($\text{dt}$).*
 

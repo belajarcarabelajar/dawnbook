@@ -26,9 +26,11 @@ Komunikasi di dalam satu sel saraf bersifat **elektrik**. Ketika neuron "terpanc
 
 Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium $Na^+$ dan Kalium $K^+$) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
 
+<div>
 $$
-\text{V}_{\text{threshold}} \approx -55 \, \text{mV}
+\text{V}_{\text{threshold}} \approx -55 \text{mV}
 $$
+</div>
 
 Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
 
@@ -51,7 +53,7 @@ Karena sinyal listrik tidak bisa "melompati" celah kosong, otak mengubah bahasa 
 
 Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa aktor utama:
 
-- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah $C_5H_9NO_4$.
+- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah $C\_5H\_9NO\_4$.
 - **GABA:** Neurotransmitter "rem" atau inhibitori. Berfungsi menenangkan otak agar tidak terjadi kelebihan informasi (*overload*).
 - **Dopamin:** Hormon "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
 

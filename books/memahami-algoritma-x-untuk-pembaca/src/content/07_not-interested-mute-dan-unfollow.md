@@ -36,11 +36,9 @@ Komponen bernama `FeedbackFatigueScorer` ([berkas kodenya](https://github.com/tw
 Jika $t$ adalah usia entri dalam hari, rumus di kode itu berupa garis lurus yang melewati kelima titik di tabel:
 
 <div>
-
 $$
 m(t)=0{,}2+0{,}8\times\frac{t}{140}\quad\text{untuk } 0\leq t<140
 $$
-
 </div>
 
 Mulai hari ke-140, entri itu tidak lagi dihitung, sehingga pengalinya menjadi 1 dan tidak ada potongan sama sekali.

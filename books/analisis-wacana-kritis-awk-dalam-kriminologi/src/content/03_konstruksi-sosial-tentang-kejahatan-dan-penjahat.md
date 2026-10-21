@@ -36,21 +36,17 @@ Siapa yang berhak menentukan apa itu kejahatan? Dalam perspektif AWK, kelompok y
 #### Formula Konstruksi Sosial
 
 <div>
-
 $$
 \text{Kekuasaan} + \text{Bahasa} \rightarrow \text{Realitas Hukum}
 $$
-
 </div>
 
 Secara simbolis, relasi ini dapat dirumuskan sebagai:
 
 <div>
-
 $$
 \text{D}_{\text{dominant}} \implies \sum (\text{T}_{\text{teks}} + \text{I}_{\text{ideologi}}) = \text{L}_{\text{legalitas}}
 $$
-
 </div>
 
 Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan membentuk apa yang dianggap sebagai "legal" atau "kriminal" oleh massa.

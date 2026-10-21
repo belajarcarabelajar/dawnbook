@@ -41,13 +41,17 @@ Secara teknis, setiap panel mengikuti logika sebab-akibat sederhana yang bisa ki
 
 **Rumus Karma dalam Relief:**
 
+<div>
 $$
 \text{Perbuatan (Action)} \rightarrow \text{Hasil (Result)}
 $$
+</div>
 
+<div>
 $$
 \text{Karma} \times \text{Keadaan} = \text{Vipaka (Buah)}
 $$
+</div>
 
 Dalam bentuk percabangan, logika jika-maka itu dapat kamu baca sebagai panduan sederhana berikut: bila aksi manusia di sisi kiri panel berupa kebajikan, sisi kanan menunjukkan surga atau kebahagiaan; bila berupa kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
 

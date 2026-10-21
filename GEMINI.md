@@ -57,31 +57,46 @@ This file contains critical architectural decisions and strict rules for the Daw
 - **FORBIDDEN AUTOMATION SCRIPTS FOR LATEX:** Automation scripts, Node batch converters, mass regular expression search-and-replace scripts, or automated transformation tools for any LaTeX task are STRICTLY FORBIDDEN. All LaTeX tasks must be handled manually line-by-line by the agent using AI reasoning.
 - **Pulldown-cmark `<em>` Tag Prevention:** Ensure all underscores (`_`) inside math delimiters are handled cleanly so that `pulldown-cmark` never injects `<em>...</em>` emphasis HTML tags inside MathJax/KaTeX expressions.
 - **`<div>` Wrapping Does NOT Stop Escape Processing (measured 2026-10-12, mdBook v0.5.4):** The HTML block opened by `<div>` ends at the first blank line, so the `$$` lines are parsed as a normal Markdown paragraph, where a backslash before ASCII punctuation is removed: `\,` renders as a comma, `\\` becomes a single backslash (so `\begin{cases}` rows collapse), and `\{` becomes `{`. `\text{\%}` still works only because it becomes `\text{%}`, which MathJax shows as a literal percent.
-  - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
+  - **Rule:** Never write `\,` `\;` `\!` `\\` `\{` `\}` `\|` inside math, not even in a protected block (below), so a formula stays correct if a blank line is ever added inside its block; use `\quad`, `\times`, or separate equations instead of `cases`. Existing books may contain these macros and need a manual line-by-line audit (no batch LaTeX scripts, per the rule above).
+- **Protected display block (measured 2026-10-21, mdBook v0.5.4 and MathJax 2.7.9 in Chromium):** with NO blank line between `<div>` and `</div>` (`<div>`, `$$`, formula, `$$`, `</div>`, with a blank line before and after the whole block), the block is raw HTML and reaches MathJax exactly as written. Write every display formula this way; inside a list item, indent all five lines to the item's text column. Because nothing is stripped there, MathJax prints some escapes literally:
+  - percent is `\%` in math mode (`100\%`); `\text{\%}` shows a literal "\%" in this block;
+  - `\&`, `\_` and `\%` inside `\text{...}` show their backslash; write `\text{A } \& \text{ B}` and words with spaces instead of underscores;
+  - `\lbrace` `\rbrace` `\Vert` `\$` work;
+  - MathJax 2 does not wrap display math, and the reading column is 750 px wide on desktop: a longer formula (often a chain of `\text{...} \rightarrow` steps) runs past the column. Split it into two protected blocks, the second starting with `\quad +` or with the arrow;
+  - the `\text{\%}` rule in item 5 below applies only to math in ordinary Markdown (inline `$...$` in paragraphs, list items and table cells, or an old `$$` block that is not protected), where mdBook removes the backslash before MathJax runs.
+- **Underscores in inline math (measured 2026-10-21):** two subscripts in one paragraph can pair into `<em>` tags (for example `$\text{A}_{i} + \text{B}_{j}$`), which MathJax cannot typeset. Write the underscore as `\_` in inline math whenever a paragraph holds more than one subscript; mdBook turns `\_` into `_`. Never use `\(`...`\)` or `\[`...`\]` delimiters in Markdown: mdBook strips their backslashes.
+- **Currency:** never leave a bare `$` amount in prose when another `$` can follow in the same paragraph; write "USD 700 juta" or "1,78 juta dolar AS". Quoted titles keep their wording.
 - **LaTeX & Formula Verification Checklist — MANDATORY, ZERO-EXCEPTION:**
-  1. **Inline Math Delimiters:** Use `$ ... $` (or `\( ... \)`) in `.md` files. Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; MathJax, configured in `books/_template/theme/head.hbs`, renders `$ ... $` in the browser, and the build does not rewrite it.
-  2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files.
-     - **Standalone Display Math:** Always place `$$` on its own line with blank lines before and after.
+  1. **Inline Math Delimiters:** Use `$ ... $` in `.md` files (not `\( ... \)`, see "Underscores in inline math" above). Standard `$math$` (with NO spaces inside `$`, e.g., `$P_e$`) is recommended so GitHub renders equations natively in repository view; MathJax, configured in `books/_template/theme/head.hbs`, renders `$ ... $` in the browser, and the build does not rewrite it.
+  2. **Display Math Delimiters:** Use `$$ ... $$` in `.md` files, always in the protected block described above.
+     - **Standalone Display Math:** `$$` on its own line inside `<div>`, with a blank line before and after the whole block and none inside it.
        ```markdown
+       <div>
        $$
        \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
        $$
+       </div>
        ```
-     - **Display Math Inside List Items:** Indent by 3 spaces under list items to maintain ordered list hierarchy without triggering CommonMark 4-space code-block traps:
+     - **Display Math Inside List Items:** Indent the whole block by 3 spaces (the item's text column) to keep the ordered list hierarchy without triggering CommonMark 4-space code-block traps:
        ```markdown
        1. Cari $\text{MC}$ (*Marginal Cost*) dari turunan $\text{TC}$:
-          $$\text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20$$
+
+          <div>
+          $$
+          \text{MC} = \frac{d\text{TC}}{dQ} = 10Q + 20
+          $$
+          </div>
        ```
   3. **MANDATORY BLANK LINES AROUND DISPLAY MATH:** Every standalone `$$` block MUST be preceded by a blank line AND followed by a blank line. If a display math block is written without blank lines separating it from surrounding text, pulldown-cmark renders it inside a `<p>` tag, causing the formula to appear **inline and scrambled**.
   4. **Multi-Letter Variables:** All multi-letter variable names (e.g. `TR`, `AR`, `MR`, `PED`, `PES`, `ATC`, `MC`, `DWL`, `HHI`, `WTP`, `FC`, `TC`, `AC`, `Es`, `Ed`) MUST be wrapped in `\text{...}` (e.g. `\text{PED}`).
-  5. **Percentage Signs `%` in Math — CRITICAL:** The `%` character is a TeX comment delimiter. Inside ANY math block (`$ ... $` or `$$ ... $$`), a raw `%` or `\%` will cause MathJax/KaTeX to silently discard everything from that point to end-of-line, making the entire formula invisible. **MANDATORY RULE:** Every percentage sign inside a math block MUST be written as `\text{\%}`. Examples:
-     - ✅ CORRECT: `$$ E_d = \frac{\text{\%} \Delta Q}{\text{\%} \Delta P} $$`
-     - ✅ CORRECT: `$ 50 \text{\%} $`
-     - ❌ WRONG: `$$ E_d = \frac{\% \Delta Q}{\% \Delta P} $$` (raw `%` — formula becomes invisible)
+  5. **Percentage Signs `%` in Math (CRITICAL):** The `%` character is a TeX comment delimiter. Inside ANY math block (`$ ... $` or `$$ ... $$`), a raw `%` or `\%` will cause MathJax/KaTeX to silently discard everything from that point to end-of-line, making the entire formula invisible. **MANDATORY RULE:** Every percentage sign in ordinary Markdown math (inline `$ ... $`, or a `$$` block that is not protected) MUST be written as `\text{\%}`. Inside a protected display block, write `\%` instead (see "Protected display block" above). Examples:
+     - ✅ CORRECT: `$ 50 \text{\%} $` (inline)
+     - ✅ CORRECT: `E_d = \frac{\% \Delta Q}{\% \Delta P}` as the formula line of a protected block
      - ❌ WRONG: `$ 50\% $` (escaped `\%` — mdBook strips backslash, becomes raw `%`)
+     - ❌ WRONG: `\text{\%}` inside a protected block (prints a literal "\%")
   6. **Formula Context:** Verify every formula matches the surrounding paragraph context and economic/mathematical meaning.
 - **LaTeX Auditing via Generative AI Brain Model Only:** Automated check scripts (such as `check-latex-support.ts`) are REMOVED from build blocking gates. All LaTeX formula inspection, verification, and formatting MUST be performed 100% by the Generative AI model reading files line-by-line (`view_file`) using AI reasoning.
-- **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. The correct form is always `\text{\%}` — single nesting only.
+- **Double-Nesting Forbidden:** Batch find-replace scripts that target `\text{\%}` WILL produce `\text{\text{\%}}` if the pattern already exists. NEVER run a second pass of `\%` → `\text{\%}` replacement. In ordinary Markdown math the correct form is `\text{\%}`, single nesting only; in a protected block it is `\%`.
 
 ## 10. MathJax Loading & Navigation Rendering (Learned from Production Bug)
 - **`defer` Not `async` — MANDATORY:** The MathJax `<script>` in `books/_template/theme/head.hbs` MUST use `defer`, NEVER `async`. With `async`, the browser executes MathJax immediately when its file is served from cache (nearly 0ms). If this happens before the HTML body is fully parsed, MathJax scans an incomplete DOM and misses all formulas that appear later. With `defer`, MathJax is guaranteed to run ONLY after the full HTML is parsed.

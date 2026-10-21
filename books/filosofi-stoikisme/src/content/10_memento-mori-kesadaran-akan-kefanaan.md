@@ -1,6 +1,6 @@
 ## Memento Mori
 
-Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori** ,frasa Latin yang berarti "Ingatlah bahwa engkau akan mati",adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
+Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
 Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 
@@ -8,7 +8,7 @@ Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk ber
 
 Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
 
-> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." , **Seneca**
+> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." (**Seneca**)
 
 ### Mengapa Ini Penting?
 
@@ -20,18 +20,19 @@ Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rat
 
 Misalkan:
 
-- $U_{\text{max}}$ = Ekspektasi umur (misal 80 tahun)
-- $U_{\text{sekarang}}$ = Usia kamu saat ini
-- $W_{\text{tidur}}$ = Waktu yang dihabiskan untuk tidur (sekitar $1/3$ hidup)
+- $U\_{\text{max}}$ = Ekspektasi umur (misal 80 tahun)
+- $U\_{\text{sekarang}}$ = Usia kamu saat ini
+- $W\_{\text{tidur}}$ = Waktu yang dihabiskan untuk tidur (sekitar $1/3$ hidup)
 
-Maka, waktu efektif yang tersisa ($W_{\text{sisa}}$) secara kasar adalah:
+Maka, waktu efektif yang tersisa ($W\_{\text{sisa}}$) secara kasar adalah:
 
+<div>
 $$
-
 W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
 $$
+</div>
 
-Jika kamu berusia 30 tahun: $W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
+Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
 Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
 

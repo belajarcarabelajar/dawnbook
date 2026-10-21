@@ -27,10 +27,11 @@ Salah satu alasan utama QLC adalah adanya kesenjangan antara **apa yang kamu lak
 
 Coba gunakan rumus sederhana ini untuk melihat potensi transformasimu:
 
+<div>
 $$
-
 T = (K + S) \times B
 $$
+</div>
 
 Di mana:
 
@@ -48,7 +49,7 @@ Di mana:
 Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana. Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**.
 
 1. **Curiosity over Passion (Rasa Ingin Tahu di atas Minat):** Jangan terbebani mencari "panggilan jiwa". Mulailah dengan apa yang membuatmu penasaran. Ambil kursus singkat, bergabung dengan komunitas, atau mulai proyek sampingan.
-2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal,kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
+2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal, kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
 
 ## Kisah Transformasi Maya
 
@@ -80,7 +81,7 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 - Saya mulai merasa nyaman dengan ketidakpastian.
 - Saya tidak lagi terlalu peduli dengan apa yang dipikirkan teman SMA saya di LinkedIn.
 - Saya telah mencoba setidaknya satu hal baru dalam tiga bulan terakhir yang benar-benar murni karena keinginan pribadi.
-- Saya mulai bisa membedakan antara "ambisi orang lain" and "ambisi pribadi".
+- Saya mulai bisa membedakan antara "ambisi orang lain" dan "ambisi pribadi".
 
 ## Menjadi Nahkoda bagi Diri Sendiri
 

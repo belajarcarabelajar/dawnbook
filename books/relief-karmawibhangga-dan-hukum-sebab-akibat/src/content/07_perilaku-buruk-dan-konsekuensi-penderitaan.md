@@ -46,9 +46,11 @@ Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapa
 
 Jika kita memformulasikan hukum penderitaan dalam relief ini ke dalam logika sederhana, kita dapat melihat pola berikut:
 
+<div>
 $$
 N + K = P
 $$
+</div>
 
 Di mana:
 

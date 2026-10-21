@@ -20,19 +20,15 @@ Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri
 Kebebasan eksistensial tidak berjalan dalam kehampaan tanpa dampak, melainkan senantiasa memikul beban tanggung jawab mutlak:
 
 <div>
-
 $$
 \text{Kebebasan Radikal} + \text{Multiplisitas Kemungkinan} = \text{Tanggung Jawab Mutlak}
 $$
-
 </div>
 
 <div>
-
 $$
 \text{Tanggung Jawab Mutlak} \rightarrow \text{Kecemasan Ontologis (Angst)}
 $$
-
 </div>
 
 Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya membentuk esensi dirinya, tetapi juga mencerminkan suatu model pilihan bagi kemanusiaan secara universal. Ketiadaan rujukan otoritas eksternal menjadikan subjek sebagai penanggung jawab tunggal atas konsekuensi tindakannya.

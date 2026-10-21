@@ -14,10 +14,11 @@ Melodrama modern mulai meninggalkan formula *shinpa* (gaya melodrama tradisional
 
 Genre *romantic comedy* menjadi penggerak utama modernisasi ini. Dinamika hubungan antar-karakter di dalamnya sering kali mengikuti sebuah formula atau persamaan daya tarik berikut:
 
+<div>
 $$
-
-C_{\\text{chemistry}} = (O_{\\text{opposites}} + A_{\\text{attraction}}) \\times T_{\\text{tension}}
+C_{\text{chemistry}} = (O_{\text{opposites}} + A_{\text{attraction}}) \times T_{\text{tension}}
 $$
+</div>
 
 Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, yang pada akhirnya memicu daya tarik kuat $A$ di antara keduanya.
 

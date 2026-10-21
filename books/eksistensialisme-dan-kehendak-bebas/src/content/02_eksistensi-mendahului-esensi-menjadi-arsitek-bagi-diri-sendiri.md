@@ -11,11 +11,9 @@ Untuk menjelaskan distingsi ontologis antara artefak buatan manusia dan subjek k
 Sebelum sebilah pisau pemotong kertas diproduksi, sang perajin telah memiliki konsep mental mengenai fungsi, bentuk, dan tujuan utilitas benda tersebut. Dengan demikian, esensi atau tujuan konseptual mendahului keberadaan fisiknya:
 
 <div>
-
 $$
 \text{Esensi (Konsep/Tujuan)} \rightarrow \text{Eksistensi (Keberadaan Fisik)}
 $$
-
 </div>
 
 Benda mati terikat secara mutlak pada determinisme desain perancangnya dan tidak memiliki kapasitas kehendak untuk mengubah esensinya.
@@ -25,11 +23,9 @@ Benda mati terikat secara mutlak pada determinisme desain perancangnya dan tidak
 Berbeda secara radikal dari entitas objek, manusia terlempar ke dalam eksistensi tanpa rancangan awal. Manusia ada terlebih dahulu, menjumpai dirinya di dunia, dan baru setelah itu mengonstruksi identitas serta nilainya sendiri:
 
 <div>
-
 $$
 \text{Eksistensi (Keberadaan)} \rightarrow \text{Tindakan (Praksis)} \rightarrow \text{Esensi (Identitas)}
 $$
-
 </div>
 
 Tidak ada determinisme biologis absolut, kodrat metafisik bawaan, atau takdir eksternal yang menentukan esensi manusia. Eksistensi manusia adalah sebuah keterbukaan (*open-ended project*) yang terus bergerak ke masa depan.

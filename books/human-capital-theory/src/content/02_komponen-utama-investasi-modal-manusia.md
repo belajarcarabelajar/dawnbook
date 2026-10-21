@@ -57,9 +57,11 @@ Kesehatan meningkatkan stok modal manusia melalui dua mekanisme utama:
 
 Secara matematis, laju perubahan stok modal kesehatan (*Health Capital Stock*) dinamis dapat dirumuskan melalui persamaan depresiasi dan akumulasi investasi berikut:
 
+<div>
 $$
 H_{t+1} = H_t (1 - \delta) + I_t
 $$
+</div>
 
 Keterangan variabel:
 - $H$: Stok modal manusia kesehatan (*Health Capital Stock*)
@@ -86,15 +88,17 @@ Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseora
 
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
+<div>
 $$
 \text{Net Gain} = \sum_{t=1}^{n} \frac{\text{W}_{\text{baru}} - \text{W}_{\text{lama}}}{(1+r)^t} - \text{C}_{\text{migrasi}}
 $$
+</div>
 
 Keterangan variabel:
-- $\text{W}_{\text{baru}}$: Proyeksi upah di lokasi migrasi baru
-- $\text{W}_{\text{lama}}$: Upah di lokasi asal
+- $\text{W}\_{\text{baru}}$: Proyeksi upah di lokasi migrasi baru
+- $\text{W}\_{\text{lama}}$: Upah di lokasi asal
 - $r$: Tingkat diskonto (*Discount Rate*)
-- $\text{C}_{\text{migrasi}}$: Total akumulasi biaya relokasi langsung dan psikologis
+- $\text{C}\_{\text{migrasi}}$: Total akumulasi biaya relokasi langsung dan psikologis
 
 Apabila nilai $\text{Net Gain} > 0$, keputusan migrasi secara ekonomis merupakan investasi modal manusia yang rasional.
 
@@ -119,7 +123,7 @@ ROI membandingkan total kenaikan gaji selama periode proyeksi, di sini 36 bulan 
 
 <div>
 $$
-\text{ROI} = \frac{\text{Total Kenaikan Gaji} - \text{Biaya Pelatihan}}{\text{Biaya Pelatihan}} \times 100 \text{\%}
+\text{ROI} = \frac{\text{Total Kenaikan Gaji} - \text{Biaya Pelatihan}}{\text{Biaya Pelatihan}} \times 100\%
 $$
 </div>
 

@@ -12,9 +12,11 @@ Salah satu pemicu utama stres di usia dewasa muda adalah **gap antara ekspektasi
 
 Bayangkan uangmu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah uangmu tetap, maka "volume" barang yang bisa kamu tampung akan mengecil. Dalam ekonomi, ini dirumuskan sebagai:
 
+<div>
 $$
 \text{Daya Beli} \ (\text{Purchasing Power}) = \frac{\text{Pendapatan} \ (I)}{\text{Tingkat Harga} \ (P)}
 $$
+</div>
 
 **Analogi Ember yang Bocor**
 
@@ -86,7 +88,7 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Menghadapi Kenaikan Biaya Hidup
 
-**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: $5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000$ hanya untuk mempertahankan standar hidup yang **sama**.
+**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: $5.000.000 \times (1 + 0{,}05) = \text{Rp}5.250.000$ hanya untuk mempertahankan standar hidup yang **sama**.
 
 **Tindakan yang Bisa Diambil:**
 

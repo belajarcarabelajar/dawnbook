@@ -26,12 +26,13 @@ Secara ekonomi klasik, manusia dianggap rasional. Jika ada denda, kita akan patu
 
 Manusia cenderung menilai imbalan atau hukuman yang terjadi **sekarang** jauh lebih tinggi daripada yang terjadi di **masa depan**. Matematika sederhana dari nilai utilitas $U$ yang didiskon sering kali terlihat seperti ini:
 
+<div>
 $$
-
 U_{\text{total}} = u_0 + \sum_{t=1}^{n} \beta \delta^t u_t
 $$
+</div>
 
-Di mana $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
+Di mana $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u\_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
 
 ### B. Mental Accounting (Akuntansi Mental)
 
@@ -57,7 +58,7 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
 
-**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
+**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau USD 0,05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
 2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran penuh saat transaksi. Biaya kecil ini mendadak jadi sangat nyata di detik-detik penting sebelum tindakan dilakukan.

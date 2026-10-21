@@ -11,10 +11,12 @@ Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas meliha
 > **Pesan Penting:** Kefanaan (finitude) adalah bumbu yang memberikan rasa pada eksistensi. Tanpa kematian, kehidupan hanyalah repetisi tanpa makna.
 
 Secara matematis, kita bisa memandang nilai sebuah pengalaman $V$ sebagai fungsi dari waktu yang tersedia $T$:
-$$
 
+<div>
+$$
 V \propto \frac{1}{T}
 $$
+</div>
 
 Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu momen tunggal akan mendekati nol ($0$). Namun, karena hidup kita memiliki batas $T$ yang nyata, maka setiap momen $V$ memiliki nilai yang sangat besar.
 

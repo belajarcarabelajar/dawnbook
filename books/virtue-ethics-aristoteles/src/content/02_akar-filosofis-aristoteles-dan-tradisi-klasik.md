@@ -49,10 +49,13 @@ Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama 
 1. **Bagian Rasional:** Bagian yang berpikir, merencanakan, dan menimbang.
 2. **Bagian Irrasional (Nafsu/Emosi):** Bagian yang merasakan keinginan, kemarahan, dan ketakutan.
 
-**Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat.
-   $$\begin{aligned}
+**Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat:
+
+<div>
+$$
 \text{Karakter} = (\text{Akal Budi} + \text{Emosi}) \times \text{Kebiasaan}
-\end{aligned}$$
+$$
+</div>
 
 ### Kepemimpinan Berbasis Karakter
 

@@ -12,9 +12,11 @@ Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai sebuah sist
 
 Dalam bahasa matematika moralitas, kita dapat melihatnya sebagai sebuah fungsi linear:
 
+<div>
 $$
 T + N = H
 $$
+</div>
 
 Di mana:
 
@@ -82,8 +84,10 @@ Pesan utama dari bagian relief ini adalah bahwa kebahagiaan bukanlah keberuntung
 - **Kualitas niat** menentukan manisnya buah karma. Memberi dengan sombong memiliki hasil yang berbeda dengan memberi dengan rendah hati.
 - **Setiap tindakan kecil berharga**, sebagaimana setetes air yang lama-kelamaan memenuhi tempayan.
 
+<div>
 $$
 \sum_{i=1}^{n} \text{Kebaikan}_i = \text{Kedamaian Batin}
 $$
+</div>
 
 > **Insight:** Relief ini tidak mengajak kita untuk berbuat baik demi "hadiah", melainkan menyadarkan kita bahwa tatanan alam semesta bekerja secara adil. Saat kita selaras dengan kebajikan, kita selaras dengan kebahagiaan itu sendiri.

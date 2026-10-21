@@ -34,9 +34,11 @@ Dalam dunia neurosains, ada prinsip terkenal: *“Neurons that fire together, wi
 
 Secara matematis, hubungan antara frekuensi syukur $G$ terhadap tingkat kesejahteraan $W$ dapat digambarkan melalui fungsi akumulatif berikut:
 
+<div>
 $$
-W = \int_{t_0}^{t_1} f(G) \, dt
+W = \int_{t_0}^{t_1} f(G) \ dt
 $$
+</div>
 
 Persamaan ini menunjukkan bahwa semakin konsisten intensitas syukur yang dipraktikkan dalam suatu rentang waktu, semakin tinggi pula akumulasi kebahagiaan mental yang dirasakan.
 

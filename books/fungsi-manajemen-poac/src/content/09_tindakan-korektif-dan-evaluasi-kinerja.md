@@ -85,7 +85,7 @@ Dalam pengelolaan data atau sistem otomatis, evaluasi kinerja dapat memberi peri
 
 <div>
 $$
-\text{Varians relatif} = \frac{A - S}{S} \times 100 \text{\%}
+\text{Varians relatif} = \frac{A - S}{S} \times 100\%
 $$
 </div>
 

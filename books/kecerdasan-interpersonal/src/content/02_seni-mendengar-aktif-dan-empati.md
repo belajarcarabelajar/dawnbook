@@ -12,12 +12,13 @@ Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana k
 
 Secara matematis, efektivitas komunikasi $E$ dapat dirumuskan secara sederhana sebagai berikut:
 
+<div>
 $$
-
-E = \\frac{P \\times \\text{Pem}}{G}
+E = \frac{P \times \text{Pem}}{G}
 $$
+</div>
 
-Di mana $P$ mewakili pesan yang dikirim, $\\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
+Di mana $P$ mewakili pesan yang dikirim, $\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
 
 Semakin besar gangguan $G$ yang kita bawa saat mendengar, semakin kecil efektivitas komunikasi kita.
 

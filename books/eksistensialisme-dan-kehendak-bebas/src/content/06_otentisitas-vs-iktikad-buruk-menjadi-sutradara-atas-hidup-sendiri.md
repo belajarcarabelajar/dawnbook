@@ -43,19 +43,15 @@ Iktikad buruk termanifestasi ketika terjadi disosiasi antara kedua dimensi terse
 Otentisitas tercapai melalui integrasi dialektis yang seimbang, yakni mengakui faktisitas secara objektif sembari memproyeksikan transendensi secara bertanggung jawab:
 
 <div>
-
 $$
 \text{Otentisitas} \neq \text{Faktisitas} + \text{Transendensi}
 $$
-
 </div>
 
 <div>
-
 $$
 \text{Otentisitas} = \text{Pengakuan}(\text{Faktisitas}) \times \text{TanggungJawab}(\text{Transendensi})
 $$
-
 </div>
 
 ### 4. Matriks Komparatif Otentisitas vs Iktikad Buruk

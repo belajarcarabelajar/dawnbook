@@ -37,14 +37,12 @@ Sebagai contoh, jika variabel "lokasi ekonomi rendah" diberi bobot tinggi dalam 
 Misalkan skor risiko kriminalitas ($R$) ditentukan oleh variabel data historis ($D$) dan bobot ideologis yang tidak disadari ($w$):
 
 <div>
-
 $$
 R = \sum_{i=1}^{n} w_i D_i
 $$
-
 </div>
 
-Jika $w_i$ untuk variabel latar belakang etnis atau wilayah tertentu lebih tinggi karena data historis yang bias, maka sistem tersebut secara otomatis melakukan "stigmatisasi digital".
+Jika $w\_i$ untuk variabel latar belakang etnis atau wilayah tertentu lebih tinggi karena data historis yang bias, maka sistem tersebut secara otomatis melakukan "stigmatisasi digital".
 
 ### 3. Wacana Pengawasan Digital (*Digital Surveillance*)
 

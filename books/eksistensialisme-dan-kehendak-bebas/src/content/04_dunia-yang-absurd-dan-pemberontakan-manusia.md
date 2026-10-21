@@ -10,11 +10,9 @@ Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari
 2. Karakter alam semesta yang dingin, kontingen, dan tidak menyediakan jawaban atas pencarian manusia.
 
 <div>
-
 $$
 \text{Hasrat Makna (Manusia)} + \text{Kesunyian Kosmik (Dunia)} = \text{Kondisi Absurd}
 $$
-
 </div>
 
 Absurditas tidak berada di dalam diri subjek semata, tidak pula bersemayam di alam semesta secara terisolasi. Kondisi absurd terartikulasi secara murni dalam jalinan relasi ketegangan antara keduanya.

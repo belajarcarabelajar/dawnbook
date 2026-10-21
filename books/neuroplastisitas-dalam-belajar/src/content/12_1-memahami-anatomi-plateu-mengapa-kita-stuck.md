@@ -2,7 +2,7 @@ Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kema
 
 Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase sangat penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
 
-## 1\. Memahami Anatomi Plateu
+## 1\. Memahami Anatomi Plateau
 
 Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur sinaptik. Pada awalnya, kemajuan terasa sangat cepat karena otak sedang membangun fondasi. Namun, setelah beberapa saat, kemajuan melambat.
 
@@ -52,10 +52,11 @@ Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi 
 
 Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Frekuensi Kesalahan yang disadari ($E$):
 
+<div>
 $$
-
 L \approx f \times \Delta E
 $$
+</div>
 
 Di mana:
 

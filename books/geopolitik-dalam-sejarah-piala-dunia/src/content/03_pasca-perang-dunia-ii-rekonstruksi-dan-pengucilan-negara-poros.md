@@ -56,8 +56,8 @@ Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara
 | **Dikucilkan** | Jerman (Barat dan Timur), Jepang | Hukuman perang bagi negara Poros |
 | **Diizinkan** | Italia | Status juara bertahan, jasa Barassi menyelamatkan trofi, dan transisi politik yang lebih cepat |
 | **Mengundurkan diri** | India | Biaya perjalanan yang mahal dan prioritas domestik, meski larangan bermain bertelanjang kaki sering kali disebut sebagai alasannya |
-| **Mengundurkan diri** | Prancis | Logistik |
-| **Mengundurkan diri** | Skotlandia | Kebanggaan nasional |
+| **Mengundurkan diri** | Prancis | Jarak perjalanan antarstadion grup terlalu jauh |
+| **Mengundurkan diri** | Skotlandia | Hanya mau berangkat sebagai juara British Home Championship, padahal finis kedua |
 | **Menolak berpartisipasi** | Blok Timur, seperti Cekoslowakia dan Hongaria | Alasan ideologis, bukan sanksi |
 | **Tuan rumah** | Brasil | Simbol kembalinya normalitas |
 

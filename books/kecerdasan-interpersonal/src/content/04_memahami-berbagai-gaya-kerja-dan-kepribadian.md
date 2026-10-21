@@ -56,10 +56,11 @@ Salah satu model yang sangat praktis untuk memetakan dinamika tim adalah **DISC*
 
 Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi $E$ sebagai fungsi dari keselarasan gaya komunikasi $A$ terhadap kualitas konten teknis $C$:
 
+<div>
 $$
-
-E = C \\times \\log(A + 1)
+E = C \times \log(A + 1)
 $$
+</div>
 
 Keterangan variabel:
 

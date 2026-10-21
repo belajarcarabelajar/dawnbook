@@ -40,15 +40,17 @@ Untuk menghitung Nilai Shapley bagi pemain $i$, kita melihat kontribusi marginal
 
 Rumusnya adalah:
 
+<div>
 $$
-\phi_i(v) = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \{i\}) - v(S)]
+\phi_i(v) = \sum_{S \subseteq N \setminus \lbrace i \rbrace} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \lbrace i \rbrace) - v(S)]
 $$
+</div>
 
 **Keterangan:**
 
 - $n$: Jumlah total pemain.
 - $S$: Sebuah koalisi yang tidak menyertakan pemain $i$.
-- $v(S \cup \{i\}) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
+- $v(S \cup \lbrace i \rbrace) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
 - $\frac{|S|! (n - |S| - 1)!}{n!}$: Probabilitas pemain $i$ bergabung ke koalisi tersebut dalam urutan acak.
 
 *Apakah adil jika seseorang yang bergabung terakhir mendapatkan bagian yang sama dengan orang yang merintis dari awal? Nilai Shapley menjawab ini dengan merata-ratakan semua urutan kedatangan yang mungkin.*

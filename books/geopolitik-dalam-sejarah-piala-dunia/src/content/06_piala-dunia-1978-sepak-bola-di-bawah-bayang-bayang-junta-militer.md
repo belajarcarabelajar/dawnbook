@@ -16,7 +16,7 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 - **Desaparecidos:** Diperkirakan sekitar **30.000 orang** "dihilangkan" (diculik, disiksa, dan dibunuh) oleh rezim.
 - **Pusat Penahanan:** Lebih dari **340 pusat penyiksaan rahasia** beroperasi di seluruh negeri.
-- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **$700 juta USD** (sepuluh kali lipat dari anggaran Piala Dunia sebelumnya di Jerman Barat) hanya untuk memastikan citra Argentina terlihat sempurna.
+- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **USD 700 juta** (sepuluh kali lipat dari anggaran Piala Dunia sebelumnya di Jerman Barat) hanya untuk memastikan citra Argentina terlihat sempurna.
 
 ## 2. Sepak Bola sebagai Alat "Sportswashing"
 
@@ -41,7 +41,7 @@ Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Pe
 Banyak teori konspirasi yang memiliki dasar kuat mengenai pertandingan ini:
 
 - **Kiper Peru:** Ramón Quiroga, kiper Peru saat itu, sebenarnya lahir di Argentina.
-- **Diplomasi Gandum:** Ada laporan bahwa rezim Videla mengirimkan **35.000 ton gandum** gratis dan mencairkan aset keuangan Peru senilai $50 juta sesaat setelah pertandingan tersebut.
+- **Diplomasi Gandum:** Ada laporan bahwa rezim Videla mengirimkan **35.000 ton gandum** gratis dan mencairkan aset keuangan Peru senilai USD 50 juta sesaat setelah pertandingan tersebut.
 - **Kunjungan Kamar Ganti:** Jenderal Videla dan Henry Kissinger (mantan Menlu AS) dilaporkan masuk ke kamar ganti pemain Peru sebelum pertandingan dimulai, sebuah tindakan intimidasi yang sangat tidak biasa.
 
 Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar lapangan lebih menentukan daripada taktik di dalam lapangan?
@@ -70,10 +70,11 @@ Kasus Argentina 1978 mengajarkan kita tentang bagaimana kekuatan lunak (*soft po
 
 Jika kita mencoba merumuskan bagaimana rezim menggunakan turnamen ini secara matematis untuk stabilitas politik, kita bisa melihatnya sebagai upaya manipulasi persepsi:
 
+<div>
 $$
-
-L = \\frac{V \\times P}{C}
+L = \frac{V \times P}{C}
 $$
+</div>
 
 Di mana:
 

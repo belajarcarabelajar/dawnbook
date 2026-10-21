@@ -49,9 +49,11 @@ Secara teknis, platform ini menggunakan model matematika untuk menghitung sebera
 
 Misalkan profil pelanggan ideal memiliki nilai dalam vektor untuk minat ($X$) dan frekuensi belanja ($Y$). Algoritma akan menghitung sudut antara vektor pengguna baru dengan vektor ideal tersebut.
 
+<div>
 $$
-\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}
+\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\Vert\mathbf{A}\Vert \Vert\mathbf{B}\Vert}
 $$
+</div>
 
 Jika $\cos(\theta)$ mendekati 1, maka pengguna tersebut akan masuk ke dalam target iklan mikromu.
 

@@ -39,12 +39,11 @@ Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perban
 
 Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya melonjak drastis hingga mendekati $99\text{\%}$.
 
+<div>
 $$
-\begin{aligned}
-P(\text{Donor} \mid \text{Opt-out}) &\approx 0.99 \\
-&\gg P(\text{Donor} \mid \text{Opt-in}) \approx 0.15
-\end{aligned}
+P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{Opt-in}) \approx 0.15
 $$
+</div>
 
 Perbedaan partisipasi yang sangat kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
 

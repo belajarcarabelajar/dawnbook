@@ -26,9 +26,11 @@ Mengapa kecerdasan ini berperan besar? Secara historis, kecerdasan naturalis men
 
 Para leluhur kita menggunakan kemampuan ini untuk membedakan mana tumbuhan yang aman dimakan dan mana yang beracun. Mereka perlu memahami reaksi kimia alamiah secara intuitif, seperti mengenali proses fotosintesis secara visual untuk membedakan tanaman yang sehat dan yang sakit:
 
+<div>
 $$
-6\text{CO}_2 + 6\text{H}_2\text{O} \\xrightarrow{\\text{cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
+6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
 $$
+</div>
 
 Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tutul dan kijang, atau tidak memahami pola migrasi hewan, maka risiko kematian menjadi lebih tinggi. Di era modern, sirkuit saraf yang sama kerap digunakan untuk membedakan merek mobil, gaya busana, atau pola data dalam riset saintifik.
 
