@@ -43,7 +43,12 @@ Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah mas
 - **Remaja Operasional Formal:** Mulai mengisolasi variabel. Mereka menahan beban agar tetap sama sambil mencoba berbagai panjang tali, atau sebaliknya.
 
 Secara matematis, mereka secara intuitif mencoba memahami rumus periode ayunan:
-$$ T = 2\pi \sqrt{\frac{L}{g}} $$
+
+<div>
+$$
+T = 2\pi \sqrt{\frac{L}{g}}
+$$
+</div>
 
 Mereka secara sistematis mengetes apakah $T$ (periode) berubah jika $L$ (panjang tali) diubah, tanpa mengubah berat beban.
 
