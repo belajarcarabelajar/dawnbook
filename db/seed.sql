@@ -469,21 +469,6 @@ Dalam skenario ini, penerapan ketiga prinsip tersebut terlihat sebagai berikut:
 - **Delegasi Wewenang:** Agar keputusan bisa diambil dengan cepat tanpa birokrasi berbelit-belit, CEO memberikan wewenang penuh kepada Manajer Proyek untuk menyetujui biaya lembur tim hingga batas nominal tertentu.
 - **Alokasi Sumber Daya:** Perusahaan mengalokasikan sumber daya secara taktis. Di sisi finansial, 40% anggaran pemasaran bulan ini dialihkan khusus untuk promosi fitur baru. Di sisi infrastruktur fisik, perusahaan menyewa kapasitas server tambahan (*cloud capacity*) untuk mengantisipasi lonjakan pengunjung saat promo berlangsung.
 
-```python
-# Analogi Sederhana: Fungsi Alokasi dalam Kode
-def alokasi_sumber_daya(total_anggaran, daftar_departemen):
-    prioritas = {"Marketing": 0.5, "IT": 0.3, "Ops": 0.2}
-    distribusi = {}
-    
-    for dep in daftar_departemen:
-        distribusi[dep] = total_anggaran * prioritas.get(dep, 0.1)
-    
-    return distribusi
-
-# Output menunjukkan bagaimana anggaran dibagi secara strategis
-print(alokasi_sumber_daya(1000000, ["Marketing", "IT", "Ops"]))
-```
-
 ## 5. Hambatan dalam Delegasi dan Alokasi
 
 Meskipun terlihat mudah di atas kertas, praktiknya sering kali sulit karena faktor manusia:
@@ -601,7 +586,7 @@ Menggerakkan manusia tidak semudah menekan tombol. Beberapa tantangan yang serin
 
 ## Kepemimpinan dan Motivasi dalam Pelaksanaan
 
-Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai to tujuan.
+Dalam kerangka **POAC (Planning, Organizing, Actuating, Controlling)**, fungsi **Actuating** (Pelaksanaan) adalah fase di mana rencana di atas kertas berubah menjadi aksi nyata. Jika *Planning* adalah peta dan *Organizing* adalah kendaraannya, maka **Kepemimpinan dan Motivasi** adalah bahan bakar dan pengemudi yang memastikan kendaraan tersebut sampai ke tujuan.
 
 Tanpa kepemimpinan yang efektif dan motivasi yang kuat, sumber daya organisasi yang paling hebat sekalipun akan tetap diam atau bergerak tanpa arah.
 
@@ -655,9 +640,12 @@ Herzberg membagi faktor motivasi menjadi dua bagian penting:
 
 ### C. Teori Harapan Victor Vroom (Expectancy Theory)
 Teori ini menggambarkan motivasi $M$ secara matematis sebagai hasil perkalian dari tiga elemen:
+
+<div>
 $$
 M = E \times I \times V
 $$
+</div>
 
 Penjelasan dari masing-masing variabel tersebut adalah:
 - **Expectancy (E):** Keyakinan bahwa usaha keras yang kamu lakukan akan menghasilkan kinerja yang baik.
@@ -805,16 +793,7 @@ Dalam dunia rekayasa perangkat lunak, *Controlling* sering dilakukan melalui das
 
 - **Standar:** Uptime server harus 99,9% ($\text{Uptime} \geq$ 99,9%).
 - **Pengukuran:** Menggunakan alat pemantau seperti Prometheus atau Grafana untuk melacak status server.
-- **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar.
-
-```bash
-# Contoh logika sederhana dalam sistem monitoring otomatis
-if (current_uptime < standard_uptime):
-    send_alert("Peringatan: Kinerja Server di bawah standar!")
-    log_incident(current_performance)
-else:
-    keep_monitoring()
-```
+- **Perbandingan:** Sistem pemantau mengirimkan notifikasi peringatan (Alert) jika uptime turun di bawah standar, lalu mencatat kejadian itu sebagai insiden. Selama uptime masih memenuhi standar, sistem cukup terus memantau.
 
 **Penting:** Ingatlah bahwa tujuan akhir dari pengawasan adalah untuk belajar, bukan untuk menghukum. Hasil dari tahap perbandingan ini akan menjadi masukan (feedback) berharga untuk siklus manajemen berikutnya. Jika target tidak tercapai, apakah standarnya yang terlalu tinggi? Ataukah pelaksanaannya yang perlu diperbaiki?
 
@@ -904,29 +883,34 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Sedangkan untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.
 5. **Mekanisme Umpan Balik:** Memasukkan tolok ukur ''Kualitas Pengemasan'' ke dalam KPI tim logistik agar kualitas pengiriman selalu terpantau.
 
-## Logika Pemantauan Sederhana
+## Batas Toleransi Penyimpangan
 
-Dalam pengelolaan data atau sistem otomatis, pemantauan kinerja dapat dilakukan menggunakan program sederhana. Berikut adalah contoh logika (pseudo-code) dalam Python untuk memberikan peringatan dini terhadap penyimpangan kinerja:
+Dalam pengelolaan data atau sistem otomatis, evaluasi kinerja dapat memberi peringatan dini begitu hasil mulai menyimpang. Caranya, varians dihitung sebagai persentase dari standar:
 
-```python
-# Standar Kinerja
-TARGET_PRODUKSI = 1000
-TOLERANSI_PENYIMPANGAN = 0.05 # 5%
+<div>
+$$
+\text{Varians relatif} = \frac{A - S}{S} \times 100\%
+$$
+</div>
 
-def evaluasi_kinerja(aktual):
-    varians = (aktual - TARGET_PRODUKSI) / TARGET_PRODUKSI
-    
-    if varians >= 0:
-        return "Kinerja Baik: Pertahankan atau Berikan Reward."
-    elif abs(varians) <= TOLERANSI_PENYIMPANGAN:
-        return "Penyimpangan Kecil: Pantau lebih ketat."
-    else:
-        return "TINDAKAN KOREKTIF DIPERLUKAN: Lakukan Root Cause Analysis segera!"
+Hasil perhitungan itu lalu dipilah ke dalam tiga status. Dalam contoh rekaan ini, target produksi ditetapkan 1.000 unit dengan toleransi penyimpangan 5%:
 
-# Simulasi hasil aktual
-hasil_hari_ini = 940
-print(f"Hasil: {hasil_hari_ini} unit -> Status: {evaluasi_kinerja(hasil_hari_ini)}")
-```
+| Posisi hasil terhadap target | Status | Tindakan |
+| --- | --- | --- |
+| Sama dengan atau di atas target | Kinerja baik | Pertahankan atau berikan *reward* |
+| Di bawah target, paling jauh 5% | Penyimpangan kecil | Pantau lebih ketat |
+| Di bawah target lebih dari 5% | Tindakan korektif diperlukan | Lakukan *root cause analysis* segera |
+
+Misalnya, hasil produksi hari ini 940 unit:
+
+| Komponen | Nilai |
+| --- | --- |
+| Standar ($S$) | 1.000 unit |
+| Hasil aktual ($A$) | 940 unit |
+| Varians ($A - S$) | -60 unit |
+| Varians relatif | -6% |
+
+Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ketiga pada tabel status: tindakan korektif diperlukan dan *root cause analysis* perlu segera dilakukan.
 
 ## Lingkaran yang Tak Pernah Putus
 
@@ -997,6 +981,8 @@ flowchart TD
     D -->|"menyempurnakan rencana"| A
 ```
 
+Lingkaran ini terus berputar selama organisasi masih berdiri. Di setiap putaran, hasil aktual dibandingkan dengan rencana awal. Jika penyimpangannya melewati ambang batas, rencana dievaluasi dan diperbaiki (kembali ke tahap *Planning*); jika tidak, rencana dilanjutkan dan dijalankan dalam skala yang lebih besar.
+
 Sebagai contoh, jika sebuah perusahaan ponsel pintar tetap menggunakan rencana tahun 2010 untuk tahun 2024 tanpa memedulikan hasil evaluasi pasar, mereka tidak akan mampu bertahan di tengah persaingan.
 
 ## 4. Peluncuran Produk Startup
@@ -1021,27 +1007,6 @@ Jika salah satu fungsi hilang atau lemah, organisasi akan mengalami "penyakit" m
 - **O Lemah:** Pembagian peran yang kabur memicu konflik internal dan pemborosan sumber daya (*inefficiency*).
 - **A Lemah:** Rencana hebat hanya berakhir di atas kertas tanpa ada tindakan nyata dari tim (*stagnation*).
 - **C Lemah:** Organisasi terus mengulangi kesalahan yang sama tanpa pernah belajar (*failure to learn*).
-
-### Representasi Logika Program (Pseudocode)
-
-Dalam dunia engineering atau sistem, siklus POAC dapat dilihat sebagai sebuah *loop* berkelanjutan:
-
-```python
-while organisasi_masih_berdiri:
-    plan = buat_rencana(tujuan, sumber_daya)
-    struktur = susun_organisasi(plan)
-    
-    # Jalankan aksi berdasarkan struktur
-    hasil_aktual = laksanakan_actuating(struktur)
-    
-    # Bandingkan hasil dengan rencana awal
-    penyimpangan = ukur_controlling(hasil_aktual, plan)
-    
-    if penyimpangan > ambang_batas:
-        evaluasi_dan_perbaiki(plan) # Kembali ke tahap Planning
-    else:
-        lanjutkan_dan_skala_up(plan)
-```
 
 ## Yang Perlu Kamu Ingat
 
@@ -1119,24 +1084,23 @@ Bayangkan sebuah bisnis ritel pakaian tradisional bernama "Butik Kita" yang bert
 
 ## 5. Mengotomatiskan Pengawasan (Controlling)
 
-Dalam manajemen operasional digital, pengawasan kini banyak mengandalkan otomasi. Berikut adalah contoh skrip sederhana menggunakan Python yang biasa digunakan untuk memantau pencapaian target penjualan harian secara otomatis.
+Dalam manajemen operasional digital, pengawasan kini banyak mengandalkan otomasi. Sistem dapat memantau pencapaian target penjualan harian secara otomatis dengan menghitung persentase pencapaiannya:
 
-```python
-# Sistem Pengawasan Penjualan Otomatis
-target_harian = 1000  # Target dalam USD
-penjualan_saat_ini = 850
+<div>
+$$
+\text{Pencapaian} = \frac{\text{Penjualan Aktual}}{\text{Target Harian}} \times 100\%
+$$
+</div>
 
-def evaluasi_kinerja(aktual, target):
-    persentase = (aktual / target) * 100
-    if aktual >= target:
-        return f"Target Tercapai! Efisiensi: {persentase}%"
-    else:
-        selisih = target - aktual
-        return f"Peringatan: Kekurangan sebesar ${selisih}. Segera ambil tindakan korektif!"
+Jika penjualan sudah sama dengan atau melampaui target, *dashboard* menampilkan bahwa target tercapai beserta persentasenya. Jika belum, sistem menghitung kekurangannya dan langsung mengirim peringatan agar tim segera mengambil tindakan korektif. Dengan angka ilustrasi berikut, hasilnya seperti ini:
 
-# Menampilkan hasil evaluasi ke layar dashboard
-print(evaluasi_kinerja(penjualan_saat_ini, target_harian))
-```
+| Komponen | Nilai |
+| --- | --- |
+| Target penjualan harian | 1.000 USD |
+| Penjualan saat ini | 850 USD |
+| Pencapaian | 85% |
+| Kekurangan | 150 USD |
+| Pesan di *dashboard* | Peringatan, segera ambil tindakan korektif |
 
 Contoh ini menunjukkan bagaimana pengawasan digital bekerja tanpa harus menunggu rapat mingguan. Sistem langsung memberikan umpan balik (*feedback*) saat itu juga.
 
@@ -1246,30 +1210,17 @@ Kamu tidak perlu menjadi CEO Apple untuk menerapkan ini. Bayangkan kamu sedang m
 | **Eksekusi** | Karyawan termotivasi dan produktif. | Karyawan bingung dan pasif. |
 | **Pengawasan** | Masalah dideteksi dini dan diperbaiki. | Masalah dibiarkan hingga menjadi krisis. |
 
-## Automasi "Controlling" dengan Code
+## Tiga Tingkat Pencapaian Target
 
-Dalam manajemen modern (Era Digital), fungsi *Controlling* sering kali dibantu oleh algoritma. Berikut adalah logika sederhana (Pseudo-code) yang digunakan perusahaan untuk melakukan pengawasan otomatis terhadap target kinerja:
+Dalam manajemen modern (Era Digital), fungsi *Controlling* sering kali dibantu oleh algoritma. Salah satu aturan sederhana untuk mengawasi target kinerja secara otomatis adalah membandingkan penjualan aktual dengan target dalam bentuk persentase, lalu memilah hasilnya ke dalam tiga tingkat. Ambang pada tabel ini adalah angka ilustrasi, dan tiap perusahaan dapat menetapkan aturan yang berbeda:
 
-```python
-# Sistem Controlling Penjualan Sederhana
+| Pencapaian target | Status | Tindakan |
+| --- | --- | --- |
+| 100% atau lebih | Sangat baik | Berikan bonus |
+| 80% sampai di bawah 100% | Baik | Lakukan dorongan pemasaran kecil |
+| Di bawah 80% | Perlu tindakan korektif | Evaluasi strategi pemasaran segera |
 
-target_penjualan = 1000
-total_penjualan_saat_ini = 850
-
-def evaluasi_kinerja(aktual, target):
-    persentase = (aktual / target) * 100
-    
-    if persentase >= 100:
-        return "Sangat Baik: Berikan Bonus!"
-    elif persentase >= 80:
-        return "Baik: Lakukan dorongan pemasaran kecil."
-    else:
-        return "Tindakan Korektif: Evaluasi strategi pemasaran segera!"
-
-# Output Pengawasan
-status = evaluasi_kinerja(total_penjualan_saat_ini, target_penjualan)
-print(f"Pencapaian: {total_penjualan_saat_ini} unit. Status: {status}")
-```
+Sebagai contoh rekaan, target penjualan 1.000 unit dan yang sudah terjual 850 unit. Pencapaiannya 850 dibagi 1.000 lalu dikali 100%, yaitu 85%. Angka ini berada di antara 80% dan 100%, sehingga statusnya **Baik** dan cukup diikuti dorongan pemasaran kecil.
 
 ## Siklus POAC yang Hidup
 
@@ -1316,8 +1267,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2024,7 +1975,7 @@ Kata **"Oknum"**. Pada mulanya, leksem *oknum* bermakna netral yang merujuk pada
 
 ### Mengukur Nilai Rasa Melalui Formula Konotasi
 
-Secara konseptual, relasi antara nilai leksikal dasar dan intensi kontekstual dapat dipetakan melalui formula skor konotasi (\(\text{CS}\)):
+Secara konseptual, relasi antara nilai leksikal dasar dan intensi kontekstual dapat dipetakan melalui formula skor konotasi ($\text{CS}$):
 
 <div>
 $$
@@ -2034,10 +1985,10 @@ $$
 
 Keterangan variabel:
 
-- \(V\) = *Value* (nilai semantis inheren dalam kamus leksikal).
-- \(K\) = *Context* (faktor situasi, register tutur, dan intensi pragmatis penutur).
+- $V$ = *Value* (nilai semantis inheren dalam kamus leksikal).
+- $K$ = *Context* (faktor situasi, register tutur, dan intensi pragmatis penutur).
 
-Pada fenomena **ameliorasi dan pejorasi**, variabel dasar \(V\) itu sendiri yang mengalami transformasi permanen seiring waktu. Sebaliknya, pada **eufemisme dan disfemisme**, nilai \(V\) relatif konstan, sementara penutur mengolah variabel \(K\) demi memproduksi impresi psikologis tertentu.
+Pada fenomena **ameliorasi dan pejorasi**, variabel dasar $V$ itu sendiri yang mengalami transformasi permanen seiring waktu. Sebaliknya, pada **eufemisme dan disfemisme**, nilai $V$ relatif konstan, sementara penutur mengolah variabel $K$ demi memproduksi impresi psikologis tertentu.
 
 ### Refleksi Kritis dan Implikasi Komunikasi
 
@@ -2119,26 +2070,13 @@ Dalam dunia profesional dan komunikasi strategis, pemahaman atas psikologi perub
 **Skenario Penjenamaan Produk:**
 Sebuah produsen pangan tidak akan mencantumkan label "Sisa Olahan Daging", karena kata *sisa* memicu skema mental terkait limbah dan kualitas rendah (pejorasi). Sebaliknya, label yang dipilih adalah "Daging Olahan Pilihan" atau "Daging Olahan Premium" (ameliorasi) guna mengaktifkan asosiasi mutu tinggi dan eksklusivitas.
 
-```python
-# Simulasi Pemilihan Diksi Berdasarkan Skor Nilai Rasa Emosional
-def tentukan_diksi(konteks: str, opsi_kata: list[str]) -> str:
-    # Bobot psikologis: skala 1 (sangat pejoratif) hingga 10 (sangat amelioratif)
-    skor_konotasi = {
-        "asisten": 8,
-        "pembantu": 3,
-        "difabel": 9,
-        "cacat": 2,
-        "wanita": 8,
-        "betina": 1
-    }
-    
-    pilihan_optimal = max(opsi_kata, key=lambda kata: skor_konotasi.get(kata, 5))
-    return f"Pada konteks {konteks}, diksi terpilih adalah: ''{pilihan_optimal}''"
+Pilihan kata dalam konteks formal mengikuti logika yang sama. Dari setiap pasangan berikut, kata yang cenderung dipilih adalah yang bernilai rasa lebih positif (*betina* lazim dipakai untuk hewan, sehingga terasa merendahkan bila dipakai untuk manusia):
 
-# Contoh Eksekusi
-print(tentukan_diksi("Formal", ["asisten", "pembantu"]))
-# Output: Pada konteks Formal, diksi terpilih adalah: ''asisten''
-```
+| Cenderung Pejoratif (Dihindari) | Cenderung Amelioratif (Dipilih) |
+| :--- | :--- |
+| *pembantu* | *asisten rumah tangga* |
+| *cacat* | *difabel* |
+| *betina* | *wanita* |
 
 ### 6. *Negativity Bias*
 
@@ -2195,9 +2133,9 @@ $$
 </div>
 
 Keterangan rumus:
-- \( F(w) \) melambangkan frekuensi kemunculan relatif kata target dalam korpus.
-- \( n \) melambangkan jumlah kemunculan kata target pada periode waktu tertentu.
-- \( T \) melambangkan total keseluruhan kata dalam korpus pada periode yang sama.
+- $F(w)$ melambangkan frekuensi kemunculan relatif kata target dalam korpus.
+- $n$ melambangkan jumlah kemunculan kata target pada periode waktu tertentu.
+- $T$ melambangkan total keseluruhan kata dalam korpus pada periode yang sama.
 
 ### 2. Dinamika Evolusi Leksikal
 
@@ -2364,8 +2302,8 @@ $$
 
 Keterangan parameter:
 
-- **Ameliorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah positif: \(V_{t1} < V_{t2}\).
-- **Pejorasi** terjadi ketika indeks nilai rasa (\(V\)) bergerak ke arah negatif: \(V_{t1} > V_{t2}\).
+- **Ameliorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah positif: $V\_{t1} < V\_{t2}$.
+- **Pejorasi** terjadi ketika indeks nilai rasa ($V$) bergerak ke arah negatif: $V\_{t1} > V\_{t2}$.
 
 | Dimensi | Ameliorasi | Pejorasi |
 | :--- | :--- | :--- |
@@ -2413,25 +2351,15 @@ Kelompok marjinal diproyeksikan akan semakin aktif mengambil alih istilah pejora
 
 Dalam bidang data science dan komputasi linguistik, pemahaman mengenai dinamika pejorasi dan ameliorasi memegang peranan penting dalam perancangan model analisis sentimen yang akurat.
 
-Berikut ilustrasi penyederhanaan deteksi pergeseran nilai rasa berbasis konteks kalimat:
+Sebagai ilustrasi yang disederhanakan, ambil lema seperti *anjay* yang memiliki polaritas ganda tergantung konteks. Nilai rasanya dapat ditebak dari kata kunci lain yang muncul dalam kalimat yang sama:
 
-```python
-# Simulasi deteksi sentimen kontekstual untuk lema multifaset
-def analyze_sentiment(word: str, context: str) -> str:
-    # Lema seperti "anjay" memiliki polaritas ganda tergantung konteks
-    context_lower = context.lower()
-    
-    if any(k in context_lower for k in ["kagum", "hebat", "keren", "indah"]):
-        return "Amelioratif/Positif: Mengekspresikan kekaguman intens."
-    elif any(k in context_lower for k in ["marah", "kesal", "benci", "rusak"]):
-        return "Pejoratif/Negatif: Berfungsi sebagai umpatan."
-    else:
-        return "Netral/Ambigu: Membutuhkan analisis konteks diskursus lanjutan."
+| Kata Kunci dalam Kalimat | Label Nilai Rasa | Fungsi Lema |
+| :--- | :--- | :--- |
+| *kagum*, *hebat*, *keren*, *indah* | Amelioratif (positif) | Mengekspresikan kekaguman intens |
+| *marah*, *kesal*, *benci*, *rusak* | Pejoratif (negatif) | Berfungsi sebagai umpatan |
+| Tidak ada satu pun kata kunci itu | Netral atau ambigu | Membutuhkan analisis konteks diskursus lanjutan |
 
-# Pengujian inferensi
-sample_text = "Wah, anjay keren sekali inovasi arsitekturnya!"
-print(analyze_sentiment("anjay", sample_text))
-```
+Pada kalimat *"Wah, anjay keren sekali inovasi arsitekturnya!"*, kata *keren* menandai *anjay* sebagai ungkapan kekaguman yang bernilai rasa amelioratif.
 
 Implementasi industri dari pemodelan ini mencakup:
 
@@ -2480,8 +2408,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2620,35 +2548,26 @@ Dengan demikian, sistem aerodinamika harus mampu menghasilkan perbedaan tekanan 
 
 ## 6. Menghitung Tekanan Berdasarkan Bernoulli
 
-Berikut adalah skrip Python untuk menghitung perubahan tekanan statis fluida akibat perubahan kecepatan aliran berdasarkan persamaan Bernoulli:
+Persamaan Bernoulli versi sayap dari bagian 2 juga bisa dipakai untuk menghitung tekanan di sisi atas sayap ketika tekanan dan kecepatan di sisi bawahnya sudah diketahui. Setelah suku-sukunya dipindahkan, tekanan di sisi atas menjadi:
 
-```python
-def hitung_tekanan_bernoulli(p_statis, v_awal, v_baru, rho=1.225):
-    """
-    Menghitung tekanan baru saat kecepatan aliran fluida berubah.
-    Parameter:
-        p_statis: Tekanan statis awal (Pa)
-        v_awal: Kecepatan fluida awal (m/s)
-        v_baru: Kecepatan fluida baru (m/s)
-        rho: Massa jenis fluida (kg/m^3), default udara = 1.225 kg/m^3
-    """
-    # Persamaan: P1 + 0.5 * rho * v1^2 = P2 + 0.5 * rho * v2^2
-    # P2 = P1 + 0.5 * rho * (v1^2 - v2^2)
-    p_baru = p_statis + 0.5 * rho * (v_awal**2 - v_baru**2)
-    return p_baru
+<div>
+$$
+P_{\text{atas}} = P_{\text{bawah}} + \frac{1}{2}\rho \left(v_{\text{bawah}}^2 - v_{\text{atas}}^2\right)
+$$
+</div>
 
-# Skenario: Aliran udara di bawah sayap bergerak dengan kecepatan 50 m/s,
-# sedangkan aliran udara di atas sayap mengalami percepatan menjadi 60 m/s.
-p_bawah = 101325  # Tekanan atmosfer standar permukaan laut (Pa)
-v_bawah = 50      # Kecepatan di sisi bawah sayap (m/s)
-v_atas = 60       # Kecepatan di sisi atas sayap (m/s)
+Misalkan udara di bawah sayap bergerak 50 m/s, sedangkan udara di atas sayap dipercepat menjadi 60 m/s. Tekanan di bawah sayap diambil sama dengan tekanan atmosfer standar di permukaan laut, dan massa jenis udaranya 1,225 kg/m³.
 
-p_atas = hitung_tekanan_bernoulli(p_bawah, v_bawah, v_atas)
+| Besaran | Nilai |
+| --- | --- |
+| Tekanan di bawah sayap ($P_{\text{bawah}}$) | 101.325 Pa |
+| Kecepatan di bawah sayap ($v_{\text{bawah}}$) | 50 m/s |
+| Kecepatan di atas sayap ($v_{\text{atas}}$) | 60 m/s |
+| Massa jenis udara ($\rho$) | 1,225 kg/m³ |
+| Tekanan di atas sayap ($P_{\text{atas}}$) | 101.325 + 0,5 × 1,225 × (2.500 - 3.600) = 100.651,25 Pa |
+| Selisih tekanan bawah dan atas | 101.325 - 100.651,25 = 673,75 Pa |
 
-print(f"Tekanan di bawah sayap : {p_bawah} Pa")
-print(f"Tekanan di atas sayap  : {p_atas:.2f} Pa")
-print(f"Perbedaan Tekanan      : {p_bawah - p_atas:.2f} Pa")
-```
+Jadi, percepatan aliran dari 50 m/s menjadi 60 m/s menurunkan tekanan di sisi atas sayap sebesar 673,75 Pa, dan selisih tekanan itulah yang mendorong sayap ke atas.
 
 > **Wawasan Konseptual:** Aerodinamika pada hakikatnya adalah seni memanipulasi distribusi tekanan fluida. Dengan mengontrol dinamika aliran udara di sekitar permukaan benda, wahana penerbangan dapat mengatasi tarikan gravitasi dan menjelajah ruang udara secara terkendali.
 
@@ -2710,16 +2629,6 @@ Pada dekade 1930-an, *National Advisory Committee for Aeronautics* (NACA, pendah
 3. **Digit Ketiga dan Keempat ($12$):** Menunjukkan nilai ketebalan maksimum (*maximum thickness*) sebesar $12\text{\%}$ dari panjang kord ($0{,}12c$).
 
 Jika sebuah profil diberi kode **NACA 0012**, digit pertama dan kedua bernilai $0$, yang menandakan bahwa profil tersebut adalah airfoil simetris dengan ketebalan maksimum sebesar $12\text{\%}$ dari kord.
-
-```python
-# Parameterisasi geometri profil NACA 4-Digit
-airfoil_code = "2412"
-max_camber = 0.02       # 2% dari panjang kord
-pos_max_camber = 0.4    # 40% dari panjang kord (dihitung dari leading edge)
-max_thickness = 0.12    # 12% ketebalan relatif maksimum
-
-print(f"Airfoil NACA {airfoil_code} memiliki ketebalan relatif {max_thickness * 100:.0f}%")
-```
 
 ### 4. Dampak Geometri terhadap Performa Aerodinamika
 
@@ -2823,7 +2732,7 @@ Respons koefisien angkat $C_L$ terhadap perubahan sudut serang $\alpha$ memiliki
 > **Analogi Praktis Sudut Serang:**
 > Bayangkan saat tangan dikeluarkan ke luar jendela kendaraan yang melaju. Ketika telapak tangan dimiringkan sedikit ke atas, telapak tangan akan terangkat naik oleh aliran udara. Namun, jika telapak tangan dimiringkan terlalu tegak mendekati vertikal, gaya angkat seketika hilang dan tangan justru terdorong kuat ke belakang akibat dominasi gaya hambat. Ini merupakan ilustrasi sederhana transisi sudut serang menuju kondisi stall.
 
-### 5. Komputasi Numerik Sederhana Gaya Angkat
+### 5. Gaya Angkat Sebuah Drone
 
 Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan data parameter berikut:
 
@@ -2832,24 +2741,23 @@ Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan
 - Massa jenis udara permukaan laut ($\rho$) = $1{,}2\text{ kg/m}^3$
 - Koefisien gaya angkat pada $\text{AoA}$ operasi ($C_L$) = $1{,}0$
 
-```python
-# Kalkulasi Gaya Angkat Aerodinamika
-def calculate_lift(rho: float, velocity: float, surface_area: float, cl: float) -> float:
-    """Menghitung total gaya angkat dalam satuan Newton."""
-    q_inf = 0.5 * rho * (velocity**2)  # Tekanan dinamis (Dynamic Pressure)
-    lift = q_inf * surface_area * cl
-    return lift
+Hitungannya paling mudah dibagi dua langkah. Langkah pertama mencari tekanan dinamis ($q$), yaitu bagian $\frac{1}{2} \rho v^2$ dari persamaan gaya angkat:
 
-# Parameter input
-rho_air = 1.2       # kg/m^3
-v_rel = 20.0        # m/s
-s_wing = 0.5        # m^2
-cl_val = 1.0        # Koefisien angkat
+<div>
+$$
+q = \frac{1}{2} \rho v^2 = \frac{1}{2} \times 1{,}2 \times 20^2 = 240 \text{ Pa}
+$$
+</div>
 
-total_lift = calculate_lift(rho_air, v_rel, s_wing, cl_val)
-print(f"Gaya angkat yang dihasilkan: {total_lift:.1f} Newton")
-# Output: Gaya angkat yang dihasilkan: 120.0 Newton
-```
+Langkah kedua mengalikan tekanan dinamis itu dengan luas sayap dan koefisien gaya angkat:
+
+<div>
+$$
+L = q S C_L = 240 \times 0{,}5 \times 1{,}0 = 120 \text{ N}
+$$
+</div>
+
+Dengan data tersebut, sayap drone menghasilkan gaya angkat sebesar $120\text{ N}$.
 
 ### 6. Dinamika Fase Lepas Landas (*Take-off*)
 
@@ -2949,43 +2857,35 @@ Besaran gaya hambat total menentukan berbagai limitasi performa wahana:
 - **Jarak Jelajah (Range):** Minimasi gaya hambat meningkatkan jarak tempuh yang dapat dicapai untuk setiap satuan massa bahan bakar.
 - **Laju Tanjak (Rate of Climb):** Daya lebih (*excess power*) setelah mengatasi gaya hambat menentukan kemampuan wahana dalam menambah ketinggian.
 
-### 5. Komparasi Desain dan Implementasi Komputasi
+### 5. Gaya Hambat pada Rancangan Nyata
 
 #### Optimasi Sayap Komersial vs. Pesawat Akrobatik
 
 - **Pesawat Penumpang Transonik (misal Boeing 787):** Beroperasi pada bilangan Mach tinggi. Pendekatan desain memprioritaskan sayap ber-rasio aspek tinggi ($\text{AR}$ besar) yang dilengkapi *raked wingtip* untuk mereduksi *induced drag*, serta penerapan material komposit halus untuk menjaga stabilitas lapisan batas laminar.
 - **Pesawat Akrobatik (misal Extra 330):** Membutuhkan laju guling (*roll rate*) yang sangat cepat dan kekuatan struktur beban g-tinggi, sehingga menggunakan sayap berspan pendek ($\text{AR}$ rendah) dengan profil simetris, menerima penalti *induced drag* yang lebih tinggi demi agilitas manuver.
 
-#### Implementasi Estimasi Gaya Hambat Menggunakan Python
+#### Gaya Hambat Pesawat Latih di Fase Jelajah
 
-Perhitungan awal gaya hambat total pada tahap desain konseptual dapat disimulasikan menggunakan model matematis sederhana:
+Pada tahap desain konseptual, gaya hambat total sudah bisa diperkirakan langsung dari persamaan dasar di bagian 1. Persamaan itu dapat ditulis ulang dengan $q = \frac{1}{2}\rho v^2$ sebagai tekanan dinamis:
 
-```python
-def hitung_gaya_hambat(rho: float, kecepatan: float, luas_sayap: float, cd: float) -> float:
-    """
-    Menghitung besaran gaya hambat aerodinamika (Drag Force).
-    
-    Parameter:
-    - rho: Densitas udara (kg/m^3)
-    - kecepatan: Kecepatan aliran relatif (m/s)
-    - luas_sayap: Luas area sayap referensi (m^2)
-    - cd: Koefisien hambat total (tanpa dimensi)
-    
-    Kembalian:
-    - Gaya hambat dalam satuan Newton (N)
-    """
-    q = 0.5 * rho * (kecepatan ** 2)  # Tekanan dinamis
-    return q * luas_sayap * cd
+<div>
+$$
+D = \frac{1}{2} \rho v^2 S C_D = q S C_D
+$$
+</div>
 
-# Kondisi Penerbangan: Pesawat latih pada fase jelajah
-densitas_udara = 1.225    # kg/m^3 pada permukaan laut (ISA)
-kecepatan_jelajah = 55.0  # m/s (~198 km/jam)
-luas_area_sayap = 16.2    # m^2
-koefisien_drag = 0.035    # Perkiraan CD jelajah
+Dengan angka ilustrasi, ambil sebuah pesawat latih yang sedang terbang jelajah di dekat permukaan laut:
 
-gaya_hambat = hitung_gaya_hambat(densitas_udara, kecepatan_jelajah, luas_area_sayap, koefisien_drag)
-print(f"Gaya Hambat Total: {gaya_hambat:.2f} N")
-```
+| Besaran | Nilai |
+| --- | --- |
+| Densitas udara permukaan laut, ISA ($\rho$) | 1,225 kg/m³ |
+| Kecepatan jelajah ($v$) | 55 m/s (198 km/jam) |
+| Luas sayap ($S$) | 16,2 m² |
+| Koefisien hambat jelajah, perkiraan ($C_D$) | 0,035 |
+| Tekanan dinamis ($q$) | 0,5 × 1,225 × 55² ≈ 1.852,81 Pa |
+| Gaya hambat total ($D$) | 1.852,81 × 16,2 × 0,035 ≈ 1.050,54 N |
+
+Artinya, pada kondisi jelajah itu gaya hambat sekitar 1.051 N inilah yang harus diatasi oleh gaya dorong pesawat latih.
 
 ### Rangkuman Eksekutif
 
@@ -3006,22 +2906,34 @@ Untuk menganalisis dan merancang sayap secara kuantitatif, para insinyur mengand
 
 - **Rentang Sayap / Wingspan ($b$):** Jarak linear total dari ujung sayap (*tip*) kiri hingga ujung sayap kanan.
 - **Kord Sayap / Chord ($c$):** Jarak lurus antara tepi depan (*leading edge*) dan tepi belakang (*trailing edge*) pada suatu penampang melintang.
-  - **Kord Pangkal ($c_{\text{root}}$):** Panjang kord pada bidang simetri badan pesawat (*fuselage centerline*).
-  - **Kord Ujung ($c_{\text{tip}}$):** Panjang kord pada batas terluar sayap (*wingtip*).
-  - **Kord Rata-rata Geometris ($c_{\text{avg}}$):** Nilai rata-rata kord di sepanjang rentang sayap.
+  - **Kord Pangkal ($c\_{\text{root}}$):** Panjang kord pada bidang simetri badan pesawat (*fuselage centerline*).
+  - **Kord Ujung ($c\_{\text{tip}}$):** Panjang kord pada batas terluar sayap (*wingtip*).
+  - **Kord Rata-rata Geometris ($c\_{\text{avg}}$):** Nilai rata-rata kord di sepanjang rentang sayap.
   - **Mean Aerodynamic Chord ($\text{MAC}$):** Kord ekuivalen yang merepresentasikan karakteristik gaya angkat dan momen aerodinamika seluruh sayap.
 - **Luas Permukaan Sayap / Wing Area ($S$):** Luas proyeksi planform total sayap terhadap bidang horizontal:
+
+  <div>
   $$
   S = b \times c_{\text{avg}}
   $$
+  </div>
+
 - **Taper Ratio ($\lambda$):** Perbandingan antara panjang kord di ujung sayap dengan panjang kord di pangkal sayap:
+
+  <div>
   $$
   \lambda = \frac{c_{\text{tip}}}{c_{\text{root}}}
   $$
+  </div>
+
 - **Aspect Ratio ($\text{AR}$):** Rasio kelangsingan sayap yang didefinisikan sebagai perbandingan antara kuadrat rentang sayap terhadap luas sayap:
+
+  <div>
   $$
   \text{AR} = \frac{b^2}{S} = \frac{b}{c_{\text{avg}}}
   $$
+  </div>
+
 - **Sweep Angle ($\Lambda$):** Sudut kemiringan sumbu kord sayap (biasanya diukur pada $25\text{\%}$ kord) relatif terhadap garis tegak lurus sumbu longitudinal badan pesawat.
 - **Dihedral Angle ($\Gamma$):** Sudut kemiringan bidang sayap ke atas relatif terhadap bidang horizontal untuk kestabilan lateral (*roll stability*).
 - **Twist / Washout:** Variasi sudut pasang (*geometric twist*) atau profil airfoil (*aerodynamic twist*) sepanjang rentang sayap untuk mengendalikan inisiasi *stall*.
@@ -3043,7 +2955,7 @@ Planform persegi panjang memiliki kord konstan dari pangkal hingga ujung ($\lamb
 
 Secara teoritis murni berdasarkan teori garis angkat Prandtl (*Prandtl''s lifting-line theory*), planform elips merupakan bentuk paling optimal untuk domain subsonik tak termampatkan.
 
-- **Keunggulan:** Menghasilkan distribusi gaya angkat eliptik murni yang memberikan kecepatan induksi seragam (*constant downwash*), sehingga meminimalkan koefisien hambatan terinduksi ($C_{D,i}$) ke batas teoretis terendah ($e = 1.0$).
+- **Keunggulan:** Menghasilkan distribusi gaya angkat eliptik murni yang memberikan kecepatan induksi seragam (*constant downwash*), sehingga meminimalkan koefisien hambatan terinduksi ($C\_{D,i}$) ke batas teoretis terendah ($e = 1.0$).
 - **Kekurangan:** Kompleksitas manufaktur sangat tinggi karena setiap penampang memiliki kord dan kelengkungan permukaan yang berbeda. Contoh historis terkenal dari aplikasi ini adalah pesawat tempur **Supermarine Spitfire**. Selain itu, *stall* cenderung terjadi serentak di seluruh rentang sayap tanpa peringatan awal yang terlokalisasi.
 
 #### C. Tapered Planform (Sayap Meruncing)
@@ -3064,16 +2976,18 @@ Pengaruh geometri planform terhadap performa pesawat berakar pada **Distribusi G
 
 Kondisi aerodinamika paling efisien tercapai ketika distribusi gaya angkat per satuan rentang membentuk kurva elips. Persamaan distribusi gaya angkat eliptik ideal dirumuskan sebagai:
 
+<div>
 $$
 L(y) = L_{\text{root}} \sqrt{1 - \left(\frac{2y}{b}\right)^2}
 $$
+</div>
 
 Keterangan parameter:
 - $L(y)$ merupakan besaran gaya angkat lokal pada posisi koordinat rentang $y$.
-- $L_{\text{root}}$ adalah gaya angkat maksimum pada pusat pangkal sayap ($y = 0$).
+- $L\_{\text{root}}$ adalah gaya angkat maksimum pada pusat pangkal sayap ($y = 0$).
 - $b$ adalah total rentang sayap.
 
-Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwash velocity*, $w$) di belakang sayap bernilai konstan di sepanjang rentang. Konsekuensinya, sudut serang terinduksi ($\alpha_i$) seragam dan *induced drag* mencapai nilai minimum mutlak.
+Ketika gaya angkat terdistribusi secara eliptik, kecepatan aliran turun (*downwash velocity*, $w$) di belakang sayap bernilai konstan di sepanjang rentang. Konsekuensinya, sudut serang terinduksi ($\alpha\_i$) seragam dan *induced drag* mencapai nilai minimum mutlak.
 
 #### Analogi Dinamika Beban Fluida
 
@@ -3083,68 +2997,44 @@ Bayangkan sebuah dayung perahu yang bergerak melalui air. Jika beban dorongan te
 
 Dalam tahap perancangan awal (*preliminary design*), insinyur sering menggunakan **Metode Schrenk** untuk mengestimasi distribusi gaya angkat aktual tanpa memerlukan komputasi dinamika fluida (CFD) yang mahal.
 
-Schrenk merumuskan bahwa distribusi gaya angkat aktual ($L_{\text{actual}}$) pada sayap tanpa *twist* merupakan nilai rata-rata aritmetika antara distribusi bentuk fisik planform ($L_{\text{planform}}$) dan distribusi eliptik ideal ($L_{\text{elliptical}}$):
+Schrenk merumuskan bahwa distribusi gaya angkat aktual ($L\_{\text{actual}}$) pada sayap tanpa *twist* merupakan nilai rata-rata aritmetika antara distribusi bentuk fisik planform ($L\_{\text{planform}}$) dan distribusi eliptik ideal ($L\_{\text{elliptical}}$):
 
+<div>
 $$
 L_{\text{actual}}(y) = \frac{L_{\text{planform}}(y) + L_{\text{elliptical}}(y)}{2}
 $$
+</div>
 
 Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gaya geser (*shear force*) dan momen lentur (*bending moment*) sepanjang bentang sayap saat melakukan analisis kekuatan struktur.
 
 > **Refleksi Kritis:** Mengapa pesawat komersial modern jarang mengadopsi sayap elips murni jika bentuk tersebut paling efisien secara teoritis? Hal ini disebabkan oleh batasan manufaktur komponen komposit berskala besar, kebutuhan volume internal untuk tangki bahan bakar di sepanjang sayap, serta pertimbangan penempatan mekanisme *flap* dan *slat* yang memerlukan garis engsel lurus.
 
-### 5. Menghitung Karakteristik Planform dengan Python
+### 5. Karakteristik Planform Sayap Meruncing
 
-Berikut implementasi kode Python untuk menghitung parameter geometris sayap meruncing (*tapered wing*), termasuk luas sayap ($S$), *aspect ratio* ($\text{AR}$), dan *mean aerodynamic chord* ($\text{MAC}$):
+Pada sayap meruncing (*tapered wing*) berbentuk trapesium, kord ujung didapat dari kord pangkal dan *taper ratio* ($c\_{\text{tip}} = \lambda c\_{\text{root}}$). Kord rata-ratanya adalah rata-rata kord pangkal dan kord ujung, sehingga luas sayapnya menjadi:
 
-```python
-def calculate_wing_parameters(span: float, chord_root: float, taper_ratio: float) -> dict:
-    """
-    Menghitung parameter geometri dan aerodinamika dasar sayap tapered.
-    
-    Parameter:
-    - span: Rentang sayap total b (meter)
-    - chord_root: Kord di pangkal sayap c_root (meter)
-    - taper_ratio: Rasio ketirusan lambda (c_tip / c_root)
-    
-    Output:
-    - Dictionary berisi luas sayap, kord tip, AR, dan MAC.
-    """
-    chord_tip = chord_root * taper_ratio
-    
-    # Luas proyeksi planform: S = b * (c_root + c_tip) / 2
-    wing_area = span * (chord_root + chord_tip) / 2.0
-    
-    # Aspect Ratio: AR = b^2 / S
-    aspect_ratio = (span ** 2) / wing_area
-    
-    # Mean Aerodynamic Chord (MAC) untuk sayap trapesium:
-    # MAC = (2/3) * c_root * (1 + lambda + lambda^2) / (1 + lambda)
-    mac = (2.0 / 3.0) * chord_root * (1.0 + taper_ratio + taper_ratio**2) / (1.0 + taper_ratio)
-    
-    return {
-        "span_m": span,
-        "chord_root_m": chord_root,
-        "chord_tip_m": chord_tip,
-        "wing_area_m2": wing_area,
-        "aspect_ratio": aspect_ratio,
-        "mac_m": mac
-    }
+<div>
+$$
+S = b \times \frac{c_{\text{root}} + c_{\text{tip}}}{2}
+$$
+</div>
 
-# Contoh Kasus: Pesawat nirawak (UAV) dengan rentang 12 m, kord akar 1.8 m, taper 0.6
-b_val = 12.0
-c_root_val = 1.8
-taper_val = 0.6
+*Aspect ratio* tetap dihitung dengan $\text{AR} = b^2/S$, sedangkan *mean aerodynamic chord* untuk sayap trapesium dihitung dari kord pangkal dan *taper ratio*:
 
-results = calculate_wing_parameters(b_val, c_root_val, taper_val)
+<div>
+$$
+\text{MAC} = \frac{2}{3} c_{\text{root}} \frac{1 + \lambda + \lambda^2}{1 + \lambda}
+$$
+</div>
 
-print(f"Wingspan (b)            : {results[''span_m'']:.2f} m")
-print(f"Chord Pangkal (c_root)  : {results[''chord_root_m'']:.2f} m")
-print(f"Chord Ujung (c_tip)     : {results[''chord_tip_m'']:.2f} m")
-print(f"Luas Sayap (S)          : {results[''wing_area_m2'']:.2f} m^2")
-print(f"Aspect Ratio (AR)       : {results[''aspect_ratio'']:.2f}")
-print(f"Mean Aerodynamic Chord  : {results[''mac_m'']:.2f} m")
-```
+Dengan angka ilustrasi, ambil sebuah pesawat nirawak (UAV) dengan rentang sayap 12 m, kord pangkal 1,8 m, dan *taper ratio* 0,6:
+
+| Besaran | Perhitungan | Hasil |
+| --- | --- | --- |
+| Kord ujung ($c\_{\text{tip}}$) | 0,6 × 1,8 | 1,08 m |
+| Luas sayap ($S$) | 12 × (1,8 + 1,08) / 2 | 17,28 m² |
+| *Aspect ratio* ($\text{AR}$) | 12² / 17,28 | ≈ 8,33 |
+| *Mean aerodynamic chord* ($\text{MAC}$) | (2/3) × 1,8 × (1 + 0,6 + 0,36) / (1 + 0,6) | 1,47 m |
 
 ### 6. Studi Kasus dan Aplikasi Dunia Nyata
 
@@ -3898,22 +3788,26 @@ CFD menyelesaikan sistem persamaan diferensial parsial non-linear yang dikenal s
 
 Untuk aliran fluida Newtonian inkompresibel dengan densitas konstan $\rho$ dan viskositas dinamik $\mu$, persamaan kontinuitas dinyatakan sebagai:
 
+<div>
 $$
 \nabla \cdot \mathbf{u} = 0
 $$
+</div>
 
 Sedangkan persamaan momentum Navier-Stokes dirumuskan sebagai:
 
+<div>
 $$
 \rho \left( \frac{\partial \mathbf{u}}{\partial t} + (\mathbf{u} \cdot \nabla)\mathbf{u} \right) = -\nabla p + \mu \nabla^2 \mathbf{u} + \mathbf{f}_b
 $$
+</div>
 
 Keterangan variabel:
 - $\mathbf{u} = (u, v, w)$ : Vektor kecepatan fluida ($\text{m/s}$).
 - $\rho$ : Kerapatan massa atau densitas fluida ($\text{kg/m}^3$).
 - $p$ : Tekanan statis fluida ($\text{Pa}$).
 - $\mu$ : Viskositas dinamik fluida ($\text{Pa}\cdot\text{s}$).
-- $\mathbf{f}_b$ : Vektor gaya bodi eksternal per satuan volume (misalnya gravitasi).
+- $\mathbf{f}\_b$ : Vektor gaya bodi eksternal per satuan volume (misalnya gravitasi).
 
 #### Hierarki Pemodelan Turbulensi dalam CFD
 
@@ -3927,19 +3821,23 @@ Karena aliran turbulensi memiliki rentang skala spasial dan temporal dari skala 
 
 Pada simulasi lapisan batas aerodinamika, penentuan jarak lapisan kisi pertama dari permukaan dinding sangat kritikal untuk menangkap gradien kecepatan pada sub-lapisan viskos (*viscous sublayer*). Parameter tak berdimensi jarak dinding $y^+$ didefinisikan sebagai:
 
+<div>
 $$
 y^+ = \frac{y u_\tau}{\nu}
 $$
+</div>
 
 Di mana:
 
+<div>
 $$
 u_\tau = \sqrt{\frac{\tau_w}{\rho}}
 $$
+</div>
 
 - $y$ : Jarak fisik titik pusat sel pertama ke dinding sayap ($\text{m}$).
-- $u_\tau$ : Kecepatan geser gesekan dinding (*friction velocity*) ($\text{m/s}$).
-- $\tau_w$ : Tegangan geser dinding ($\text{N/m}^2$).
+- $u\_\tau$ : Kecepatan geser gesekan dinding (*friction velocity*) ($\text{m/s}$).
+- $\tau\_w$ : Tegangan geser dinding ($\text{N/m}^2$).
 - $\nu = \frac{\mu}{\rho}$ : Viskositas kinematik fluida ($\text{m}^2\text{/s}$).
 
 Untuk model integrasi dinding penuh (seperti $k\text{-}\omega\text{ SST}$ tanpa fungsi dinding empiris), nilai $y^+$ target biasanya disyaratkan $y^+ \le 1$.
@@ -3958,10 +3856,10 @@ Proses analisis aerodinamika numerik terstruktur dalam tiga tahapan utama:
 2. **Penyelesaian Numerik (Solving)**:
    - Pemilihan skema diskretisasi spasial (misalnya *Second-Order Upwind* untuk adveksi).
    - Algoritma kopling tekanan-kecepatan (seperti SIMPLE, SIMPLEC, atau PISO).
-   - Iterasi konvergensi hingga residual persamaan momentum, kontinuitas, dan turbulensi turun di bawah ambang batas (umumnya $10^{-6}$) serta nilai koefisien aerodinamika ($C_l, C_d$) mencapai nilai konstan stabil.
+   - Iterasi konvergensi hingga residual persamaan momentum, kontinuitas, dan turbulensi turun di bawah ambang batas (umumnya $10^{-6}$) serta nilai koefisien aerodinamika ($C\_l, C\_d$) mencapai nilai konstan stabil.
 3. **Pasca-Pemrosesan (Post-Processing)**:
-   - Ekstraksi koefisien gaya angkat ($C_l$), gaya hambat ($C_d$), dan momen angguk ($C_m$).
-   - Visualisasi kontur medan tekanan ($C_p$), medan kecepatan ($u, v, w$), garis arus (*streamlines*), vektor aliran, dan titik separasi.
+   - Ekstraksi koefisien gaya angkat ($C\_l$), gaya hambat ($C\_d$), dan momen angguk ($C\_m$).
+   - Visualisasi kontur medan tekanan ($C\_p$), medan kecepatan ($u, v, w$), garis arus (*streamlines*), vektor aliran, dan titik separasi.
 
 ---
 
@@ -3977,15 +3875,19 @@ Agar data dari model berskala (misalnya model skala $1:10$) dapat diekstrapolasi
 
 1. **Bilangan Reynolds ($\text{Re}$)**: Menjaga keserupaan gaya inersia terhadap gaya viskos:
 
-$$
-\text{Re} = \frac{\rho v c}{\mu}
-$$
+   <div>
+   $$
+   \text{Re} = \frac{\rho v c}{\mu}
+   $$
+   </div>
 
 2. **Bilangan Mach ($\text{Ma}$)**: Menjaga keserupaan efek kompresibilitas:
 
-$$
-\text{Ma} = \frac{v}{a}
-$$
+   <div>
+   $$
+   \text{Ma} = \frac{v}{a}
+   $$
+   </div>
 
 Di mana $v$ adalah kecepatan aliran bebas, $c$ adalah panjang *chord*, dan $a$ adalah kecepatan rambat suara lokal ($a = \sqrt{\gamma R T}$).
 
@@ -4021,56 +3923,30 @@ Kedua metodologi memiliki keunggulan dan keterbatasan tersendiri yang saling mel
 
 ### 5. Integrasi Tekanan Permukaan
 
-Dalam pasca-pemrosesan CFD maupun data eksperimen *pressure taps*, koefisien gaya angkat $C_l$ dan koefisien momen $C_{m,c/4}$ dihitung dengan mengintegrasikan distribusi koefisien tekanan $C_p$ di sepanjang permukaan atas (*upper*) dan bawah (*lower*) airfoil:
+Dalam pasca-pemrosesan CFD maupun data eksperimen *pressure taps*, koefisien gaya angkat $C\_l$ dan koefisien momen $C\_{m,c/4}$ dihitung dengan mengintegrasikan distribusi koefisien tekanan $C\_p$ di sepanjang permukaan atas (*upper*) dan bawah (*lower*) airfoil:
 
+<div>
 $$
-C_l = \int_{0}^{1} (C_{p,l} - C_{p,u}) \, d\left(\frac{x}{c}\right)
+C_l = \int_{0}^{1} (C_{p,l} - C_{p,u}) \ d\left(\frac{x}{c}\right)
 $$
+</div>
 
 Di mana koefisien tekanan tak berdimensi didefinisikan sebagai:
 
+<div>
 $$
 C_p = \frac{p - p_\infty}{\frac{1}{2} \rho_\infty v_\infty^2}
 $$
+</div>
 
-Berikut implementasi Python menggunakan integrasi numerik aturan trapesium (*composite trapezoidal rule*) untuk menghitung estimasi $C_l$ dan membandingkan integrasi numerik terhadap profil tekanan diskret:
+Dalam praktik, nilai $C\_p$ hanya diketahui pada titik-titik diskret di sepanjang kord, misalnya di posisi setiap lubang *pressure taps*. Integral tersebut lalu dihitung secara numerik, misalnya dengan aturan trapesium (*composite trapezoidal rule*):
 
-```python
-import numpy as np
+1. Kord dibagi menjadi pias-pias kecil di antara titik ukur yang berdekatan.
+2. Selisih $C\_{p,l} - C\_{p,u}$ di kedua ujung setiap pias dirata-rata.
+3. Rata-rata itu dikalikan lebar piasnya.
+4. Semua hasil itu dijumlahkan menjadi $C\_l$.
 
-def hitung_koefisien_angkat(x_chord, cp_upper, cp_lower):
-    """
-    Menghitung koefisien gaya angkat (Cl) dari integrasi selisih Cp
-    menggunakan metode trapesium numerik.
-    
-    Parameter:
-    x_chord  : Array posisi tak berdimensi x/c dari 0.0 (leading edge) hingga 1.0 (trailing edge)
-    cp_upper : Distribusi Cp pada permukaan atas airfoil
-    cp_lower : Distribusi Cp pada permukaan bawah airfoil
-    
-    Return:
-    cl       : Koefisien gaya angkat (Sectional Lift Coefficient)
-    """
-    # Selisih tekanan netto antara permukaan bawah dan atas
-    delta_cp = cp_lower - cp_upper
-    
-    # Integrasi numerik sepanjang chord x/c
-    cl = np.trapz(delta_cp, x_chord)
-    return cl
-
-# Domain koordinat tak berdimensi x/c
-n_titik = 150
-x = np.linspace(0.0, 1.0, n_titik)
-
-# Model representatif distribusi tekanan untuk sudut serang moderat
-# Permukaan atas mengalami hisapan (Cp bernilai negatif)
-cp_atas = -1.8 * (1.0 - x)**0.5 * (1.0 - x**1.5)
-# Permukaan bawah mengalami tekanan positif
-cp_bawah = 0.6 * (1.0 - x)**0.8
-
-cl_hasil = hitung_koefisien_angkat(x, cp_atas, cp_bawah)
-print(f"Koefisien Gaya Angkat (Cl) terhitung: {cl_hasil:.4f}")
-```
+Pada sudut serang moderat, permukaan atas umumnya mengalami hisapan ($C\_p$ bernilai negatif) dan permukaan bawah mengalami tekanan positif, sehingga selisih itu bernilai positif dan menghasilkan gaya angkat.
 
 ---
 
@@ -4089,7 +3965,7 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 1. **CFD dan Terowongan Angin adalah Komplementer**: CFD memberikan fleksibilitas komputasi untuk eksplorasi dan optimasi geometri secara masif, sementara terowongan angin memberikan pembuktian fisik nyata dan sertifikasi desain.
 2. **Landasan Matematis CFD**: Bertumpu pada persamaan kontinuitas dan Navier-Stokes. Pemilihan model turbulensi (RANS, LES, DNS) dan resolusi kisi dekat dinding ($y^+ \le 1$) sangat menentukan akurasi hasil simulasi.
 3. **Keserupaan Eksperimental**: Pengujian terowongan angin memerlukan kesamaan bilangan tak berdimensi, khususnya bilangan Reynolds ($\text{Re}$) dan bilangan Mach ($\text{Ma}$), agar data model skala representatif terhadap kondisi penerbangan nyata.
-4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C_p$) dan tegangan geser dinding ($\tau_w$).
+4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C\_p$) dan tegangan geser dinding ($\tau\_w$).
 
 > **Prinsip Rekayasa:** *"Semua model komputasi merupakan penyederhanaan realitas, namun model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern."* (Mengacu pada prinsip George Box).
 
@@ -4124,8 +4000,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4207,11 +4083,11 @@ Di era modern yang serba terburu-buru, Etika Kebajikan hadir sebagai pelabuhan b
 
 Secara matematis, etika ini mengikuti fungsi pertumbuhan sederhana:
 
+<div>
 $$
-\begin{aligned}
 \text{Karakter} + \text{Latihan (Habituasi)} \rightarrow \text{Eudaimonia (Kebahagiaan Sejati)}
-\end{aligned}
 $$
+</div>
 
 Etika kebajikan pada intinya membahas seni memanusiakan diri sendiri. Kualitas diri sesungguhnya dinilai dari siapa kamu saat kamu sendirian dan bagaimana dorongan batin tersebut menuntun ke arah kehidupan yang bermakna. Pendekatan ini menempatkan sosok manusianya sebagai sentral utama. Lewat pembiasaan yang tiada henti, karakter perlahan menguat sampai ke tahap Eudaimonia,kondisi puncak tatkala manusia merealisasikan seluruh potensi terbaiknya.
 
@@ -4269,10 +4145,13 @@ Aristoteles meletakkan dasar bahwa karakter kita dibentuk oleh dua elemen utama 
 1. **Bagian Rasional:** Bagian yang berpikir, merencanakan, dan menimbang.
 2. **Bagian Irrasional (Nafsu/Emosi):** Bagian yang merasakan keinginan, kemarahan, dan ketakutan.
 
-**Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat.
-   $$\begin{aligned}
+**Akar filosofis etika kebajikan adalah menciptakan harmoni antara keduanya.** Kebajikan terjadi ketika bagian rasional kita melatih emosi kita sehingga kita menginginkan hal yang benar, pada waktu yang tepat, dengan cara yang tepat:
+
+<div>
+$$
 \text{Karakter} = (\text{Akal Budi} + \text{Emosi}) \times \text{Kebiasaan}
-\end{aligned}$$
+$$
+</div>
 
 ### Kepemimpinan Berbasis Karakter
 
@@ -4335,11 +4214,11 @@ Lantas, apa fungsi eksklusif dari seorang manusia? Aristoteles menunjuk tegas pa
 
 Kondisi paripurna manusia ini kemudian dapat divisualisasikan melalui rumusan matematis:
 
+<div>
 $$
-\begin{aligned}
-\text{Eudaimonia} &= \text{Aktivitas Jiwa} + \text{Kebajikan (Arete)} + \text{Akal Budi}
-\end{aligned}
+\text{Eudaimonia} = \text{Aktivitas Jiwa} + \text{Kebajikan (Arete)} + \text{Akal Budi}
 $$
+</div>
 
 Melalui perspektif tersebut, fondasi kesejahteraan dibangun di atas gaya hidup yang senantiasa mendayagunakan rasio saat menyeleksi keputusan paling etis dan bermanfaat.
 
@@ -4502,11 +4381,11 @@ Etika pada pandangan ini adalah pengetahuan yang dipraktikkan langsung di lapang
 
 Karakter tidak terbentuk secara instan. Jika kita menggunakan notasi matematika sederhana, pembentukan karakter merupakan akumulasi tindakan jangka panjang:
 
+<div>
 $$
-\begin{aligned}
 \text{Karakter} = \sum_{i=1}^{n} \text{Tindakan}_i \times \text{Konsistensi}
-\end{aligned}
 $$
+</div>
 
 Di sini, $n$ mewakili jumlah pengulangan yang berlangsung lama. Tanpa adanya konsistensi, karakter yang kuat mustahil terbentuk. Pola habituasi ini sangat bergantung pada frekuensi tindakan dan seberapa besar intensitas usaha mental yang dikerahkan. Selain itu, konteks juga berperan penting; kita harus mampu mempertahankan tindakan baik tersebut dalam situasi yang mudah maupun di tengah tekanan.
 
@@ -4577,11 +4456,11 @@ Satu hal yang paling penting untuk diingat: **Jalan Tengah bukanlah rata-rata ma
 
 Jika $0$ adalah "tidak makan sama sekali" dan $10$ adalah "makan sampai muntah", maka jalan tengahnya tidak selalu $5$.
 
+<div>
 $$
-\begin{aligned}
 \text{Jalan Tengah} \neq \frac{\text{Defisiensi} + \text{Eksesi}}{2}
-\end{aligned}
 $$
+</div>
 
 Aristoteles menjelaskan bahwa titik ideal ini bersifat **relatif terhadap kita** dan situasi yang kita hadapi.
 
@@ -4653,11 +4532,11 @@ Selanjutnya adalah proses **Bouleusis** (deliberasi). Ini adalah fase di mana se
 
 Meskipun Doktrin Jalan Tengah memberikan panduan teoretis, menemukan letak pasti titik tengah itu di lapangan adalah urusan lain. Titik tengah etis sama sekali bukan rata-rata matematika yang kaku.
 
+<div>
 $$
-\begin{aligned}
 \text{Jalan Tengah} \neq \frac{\text{Kelebihan} + \text{Kekurangan}}{2}
-\end{aligned}
 $$
+</div>
 
 Keseimbangan moral sangat dinamis dan berubah-ubah sesuai konteks. Di sinilah *Phronesis* berfungsi sebagai alat navigasi. 
 
@@ -4732,7 +4611,7 @@ Dalam contoh di atas, "keberanian" tanpa "kebijaksanaan" merupakan sebuah cacat 
 
 ## 2. Integritas sebagai Perekat Karakter
 
-Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita,pikiran, perkataan, dan tindakan,selaras dengan nilai-nilai moral yang kita anut.
+Kata **Integritas** berasal dari bahasa Latin *integer*, yang berarti "utuh", "lengkap", atau "tidak terbagi". Dalam konteks karakter, integritas adalah kualitas yang memastikan bahwa seluruh aspek diri kita (pikiran, perkataan, dan tindakan) selaras dengan nilai-nilai moral yang kita anut.
 
 Integritas adalah kondisi di mana semua kebajikan kita terintegrasi secara kokoh.
 
@@ -4746,35 +4625,11 @@ Jika kita kembali ke analogi orkestra, maka **Phronesis** (Kebijaksanaan Praktis
 
 Seseorang yang memiliki integritas tinggi selalu melibatkan *Phronesis* untuk menjaga keseimbangan antar-kebajikan. Integritas memastikan tidak ada kebocoran moral di satu sisi saat kita mencoba menjadi baik di sisi yang lain.
 
+Karena itu, sebuah tindakan baru layak disebut berintegritas bila kebijaksanaan, keberanian, dan keadilan sama-sama terpenuhi dan saling menguatkan pada saat yang sama. Bila satu saja absen, tindakan itu menjadi tidak seimbang, dan karakter secara keseluruhan kehilangan integritasnya.
+
 > "Seseorang yang memiliki integritas tidak memiliki ''wajah'' yang berbeda-beda untuk situasi yang berbeda. Mereka adalah pribadi yang sama di ruang rapat, di meja makan keluarga, maupun saat sendirian."
 
-## 4. Pemodelan Karakter dalam Sistem
-
-Dalam dunia rekayasa sistem atau pemrograman, kita bisa melihat konsep kesatuan ini melalui prinsip **ketergantungan objek (dependency)**. Jika kita mencoba mengodekan sebuah "Karakter yang Berintegritas", kodenya mungkin terlihat seperti ini:
-
-```python
-class KarakterUtuh:
-    def __init__(self, keberanian, kebijaksanaan, keadilan):
-        self.keberanian = keberanian
-        self.kebijaksanaan = kebijaksanaan
-        self.keadilan = keadilan
-
-    def ambil_tindakan(self, situasi):
-        # Tindakan yang berintegritas hanya bisa dihasilkan 
-        # jika semua komponen kebajikan saling memvalidasi.
-        
-        if self.kebijaksanaan.evaluasi(situasi) and \
-           self.keberanian.siap_bertindak(situasi) and \
-           self.keadilan.validasi_etika(situasi):
-            return "Tindakan Berintegritas"
-        else:
-            return "Tindakan Tidak Seimbang"
-
-# Realitas: Jika satu komponen ''null'' atau bernilai negatif, 
-# seluruh sistem karakter kehilangan integritasnya.
-```
-
-## 5. Kepemimpinan dan Profesionalisme
+## 4. Kepemimpinan dan Profesionalisme
 
 Di dunia profesional, kesatuan karakter adalah hal yang membedakan seorang ahli yang kompeten dengan seorang pemimpin yang berintegritas.
 
@@ -4788,11 +4643,11 @@ Integritas tidak berarti menjadi sempurna tanpa kesalahan. Integritas berarti me
 
 Untuk mencapai $E$ (Eudaimonia), kita memerlukan $\sum V$ (Jumlah dari seluruh Kebajikan) yang terikat oleh $I$ (Integritas) dan dipandu oleh $P$ (Phronesis).
 
+<div>
 $$
-\begin{aligned}
-\text{Eudaimonia} &= \int (\text{Virtues} \times \text{Integrity})^{\text{Phronesis}} \text{dt}
-\end{aligned}
+\text{Eudaimonia} = \int (\text{Virtues} \times \text{Integrity})^{\text{Phronesis}} \text{dt}
 $$
+</div>
 
 *Catatan: Rumus di atas adalah representasi simbolis bahwa kebahagiaan sejati adalah hasil dari kebajikan yang terintegrasi dan dijalankan melalui kebijaksanaan praktis sepanjang waktu ($\text{dt}$).*
 
@@ -4819,13 +4674,13 @@ Kebajikan individu bisa diibaratkan sebagai sebuah pohon. Pohon mungkin memiliki
 
 Hubungan antara karakter individu dan kesejahteraan sosial membentuk siklus yang saling menguatkan. Kita mempelajari kejujuran, keberanian, dan kemurahan hati dari mengamati *role model* di sekitar kita. Nilai-nilai yang dijunjung oleh masyarakat diserap sejak dini melalui pendidikan (Paideia). Hukum dalam sebuah Polis juga berfungsi membiasakan warganya melakukan tindakan yang benar sampai tindakan tersebut mengendap menjadi karakter.
 
-Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi oleh orang-orang yang memiliki **Arete** (keunggulan). Ketika seseorang mempraktikkan kebajikan, ia menyumbang pada "modal sosial" komunitas tersebut. Kebahagiaan pribadi ($E_i$) dan kebahagiaan komunitas ($E_c$) berjalan beriringan. Secara matematis dapat digambarkan sebagai:
+Sebaliknya, sebuah masyarakat hanya akan menjadi tempat yang baik jika diisi oleh orang-orang yang memiliki **Arete** (keunggulan). Ketika seseorang mempraktikkan kebajikan, ia menyumbang pada "modal sosial" komunitas tersebut. Kebahagiaan pribadi ($E\_i$) dan kebahagiaan komunitas ($E\_c$) berjalan beriringan. Secara matematis dapat digambarkan sebagai:
 
+<div>
 $$
-\begin{aligned}
 \sum \text{E}_{\text{individu}} \propto \text{E}_{\text{komunitas}}
-\end{aligned}
 $$
+</div>
 
 Semakin banyak individu yang mencapai keunggulan moral, semakin tangguh dan sejahtera komunitas tersebut.
 
@@ -4846,23 +4701,15 @@ Dalam dunia profesional, lingkungan kantor adalah bentuk *Polis* modern. Perusah
 
 Media sosial berperan sebagai *Polis* digital. Di ruang ini, anonimitas sering kali melunturkan habituasi kebajikan, membuat orang lebih mudah melontarkan kata-kata kasar. Di sinilah *Digital Phronesis* (kebijaksanaan praktis digital) dibutuhkan. Kita harus menyadari bahwa setiap komentar yang diketik ikut memengaruhi kesehatan mental komunitas maya tersebut.
 
-Bagi pengembang perangkat lunak, merancang sistem atau algoritma yang adil merupakan bentuk kontribusi pada *Polis*.
+Merancang sistem atau aturan yang adil juga merupakan bentuk kontribusi pada *Polis*. Contoh sederhananya adalah keadilan distributif dalam alokasi sumber daya. Keadilan ini bersifat proporsional, sehingga porsi setiap individu dihitung sebanding dengan kontribusinya:
 
-```python
-# Contoh sederhana logika Keadilan Distributif dalam alokasi sumber daya
-def alokasi_sumber_daya(kontribusi_individu, total_sumber_daya):
-    # Keadilan bersifat proporsional sesuai porsi (Aristotelian Justice)
-    total_kontribusi = sum(kontribusi_individu.values())
-    distribusi = {}
-    
-    for individu, nilai in kontribusi_individu.items():
-        porsi = (nilai / total_kontribusi) * total_sumber_daya
-        distribusi[individu] = porsi
-        
-    return distribusi
+<div>
+$$
+\text{Porsi individu} = \frac{\text{Kontribusi individu}}{\text{Total kontribusi semua individu}} \times \text{Total sumber daya}
+$$
+</div>
 
-# Komunitas yang menghargai kontribusi akan membentuk karakter yang rajin.
-```
+Semakin besar kontribusi seseorang dibandingkan total kontribusi, semakin besar pula porsi sumber daya yang ia terima. Komunitas yang menghargai kontribusi dengan cara ini dapat membentuk karakter yang rajin.
 
 ### 5. Menuju Kesejahteraan Bersama
 
@@ -4905,11 +4752,11 @@ Berbeda dengan aturan kaku tersebut, Etika Kebajikan memprioritaskan sifat kejuj
 
 Utilitarianisme menggunakan logika untuk mengukur moralitas, di mana kebaikan dihitung dari total kebahagiaan dikurangi penderitaan:
 
+<div>
 $$
-\begin{aligned}
-\text{Kebaikan} &= \sum \text{Kebahagiaan} - \sum \text{Penderitaan}
-\end{aligned}
+\text{Kebaikan} = \sum \text{Kebahagiaan} - \sum \text{Penderitaan}
 $$
+</div>
 
 Tindakan dianggap benar jika menghasilkan kebahagiaan bagi jumlah orang terbanyak, sehingga mengorbankan satu orang demi sejuta orang bisa dianggap bermoral.
 
@@ -5036,11 +4883,11 @@ Sebelum mendaki gunung, kamu harus tahu di mana posisi kamu sekarang. Dalam etik
 
 Karakter tidak dibangun dalam satu malam melalui satu keputusan heroik. Karakter adalah akumulasi dari ribuan tindakan kecil yang diulang. Kita bisa merumuskannya secara sederhana:
 
+<div>
 $$
-\begin{aligned}
 \sum_{t=1}^{n} \text{Tindakan}_t = \text{Karakter}
-\end{aligned}
 $$
+</div>
 
 Di mana $n$ adalah jumlah pengulangan dalam waktu $t$. Semakin besar $n$, semakin otomatis kebajikan tersebut mengalir dalam diri kamu.
 
@@ -5111,8 +4958,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5198,15 +5045,17 @@ Ada paradoks kecil yang hampir semua orang alami. Tugas yang paling berarti just
 
 Steel dan König (2006) menyusun **temporal motivation theory** (TMT), teori motivasi yang memasukkan waktu sebagai pemain utama. Teori ini dibangun dari beberapa gagasan sebelumnya: picoeconomics, teori ekspektansi, cumulative prospect theory, dan teori kebutuhan. Intinya diringkas dalam satu persamaan:
 
-```
-Utility = (Expectancy x Value) / (Z + Gamma(T - t))
-```
+<div>
+$$
+\text{Utility} = \frac{\text{Expectancy} \times \text{Value}}{Z + \Gamma(T - t)}
+$$
+</div>
 
 Anggap *utility* sebagai seberapa kuat tarikan sebuah tugas terasa bagimu saat ini. Simbol-simbolnya bisa dibaca begini:
 
 - **Expectancy** (harapan): seberapa yakin kamu bahwa usahamu akan berhasil.
 - **Value** (nilai): seberapa berharga hasilnya bagimu.
-- **Gamma**: sensitivitas terhadap penundaan, yang oleh penulisnya disamakan dengan impulsivitas.
+- **Gamma** ($\Gamma$): sensitivitas terhadap penundaan, yang oleh penulisnya disamakan dengan impulsivitas.
 - **T - t**: jeda waktu sampai hadiah atau hasilnya benar-benar kamu terima.
 - **Z**: konstanta agar hasil hitungan tidak meledak ketika jeda mendekati nol.
 
@@ -5297,11 +5146,13 @@ Karena itu pilihanmu bisa berbalik arah hanya karena waktu berjalan. Di tawaran 
 
 Rumus hiperbolik umumnya ditulis seperti ini, sekadar gambaran bentuknya:
 
-```
-nilai sekarang = hadiah / (1 + k x lama menunggu)
-```
+<div>
+$$
+\text{nilai sekarang} = \frac{\text{hadiah}}{1 + k \times \text{lama menunggu}}
+$$
+</div>
 
-Semakin besar nilai k, semakin cepat hadiah "menyusut" di matamu, terutama di rentang waktu yang pendek.
+Semakin besar nilai $k$, semakin cepat hadiah "menyusut" di matamu, terutama di rentang waktu yang pendek.
 
 ### Dua versi dirimu yang saling tidak setuju
 
@@ -5868,8 +5719,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6009,7 +5860,7 @@ Ketika kita dihadapkan pada pertanyaan yang kompleks (Atribut Target), otak kita
 | "Apakah kandidat ini akan menjadi manajer yang hebat?" | "Seberapa percaya diri dan ramah kandidat ini saat wawancara?" |
 | "Seberapa sering terjadi kecelakaan pesawat tahun ini?" | "Seberapa mudah saya mengingat berita kecelakaan pesawat baru-baru ini?" |
 
-Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)_{\text{kompleks}} \approx g(x)_{\text{sederhana}}$
+Secara matematis, kita bisa memahaminya sebagai fungsi penyederhanaan: $f(x)\_{\text{kompleks}} \approx g(x)\_{\text{sederhana}}$
 
 Di mana $g(x)$ memberikan jawaban yang "cukup baik" untuk situasi sehari-hari, tetapi secara statistik bisa sangat meleset dari $f(x)$.
 
@@ -6033,22 +5884,7 @@ Seorang Senior Developer diminta memberikan estimasi waktu untuk fitur baru yang
 - **Kesalahan (Bias):** Ia gagal memperhitungkan kompleksitas integrasi database baru atau potensi bug (ini disebut *Planning Fallacy*).
 - **Hasil:** Proyek molor karena ia menggunakan jalan pintas ingatan alih-alih melakukan analisis teknis mendalam.
 
-### Kode Simulasi Sederhana (Pseudo-code)
-
-Bayangkan sebuah algoritma pengambilan keputusan "Heuristik" vs "Analitis":
-
-```python
-def ambil_keputusan(data_kompleks):
-    # Pendekatan Heuristik (Sistem 1)
-    if rasa_suka_pada_opsi(data_kompleks):
-        return "Eksekusi Sekarang!" # Cepat, sedikit energi
-    
-    # Pendekatan Analitis (Sistem 2)
-    # Memerlukan iterasi berat dan validasi data
-    # for data in data_kompleks:
-    #     validasi_statistik(data)
-    #     hitung_risiko_jangka_panjang(data)
-```
+Secara umum, perbedaan antara jalan pintas dan analisis mendalam bisa diringkas begini. Jalur heuristik (Sistem 1) cukup dipicu oleh rasa suka pada sebuah opsi, lalu opsi itu langsung dieksekusi: cepat dan hanya butuh sedikit energi. Jalur analitis (Sistem 2) jauh lebih berat, karena setiap data harus divalidasi secara statistik dan risiko jangka panjangnya dihitung lebih dulu.
 
 ## 6\. Cara Mengatasi Bias Heuristik
 
@@ -6115,23 +5951,17 @@ Seorang programmer yakin bahwa *bug* di aplikasinya disebabkan oleh masalah jari
 2. Dia mengabaikan pesan error di log *database* yang sebenarnya menunjukkan kesalahan sintaks.
 3. Dia menyimpulkan bahwa "jaringan memang sedang tidak stabil hari ini" meskipun datanya berkata lain.
 
-**Contoh Kode (Logika Filter yang Salah):** Seringkali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
+**Filter Rekomendasi yang Ikut Bias:** Seringkali, algoritma yang kita buat secara tidak sengaja mereplikasi bias kita sendiri.
 
-```python
-# Simulasi filter informasi yang bias dalam sebuah algoritma rekomendasi
-user_belief = "Teknologi A lebih baik dari Teknologi B"
-all_news = [
-    {"title": "Kelebihan Teknologi A", "sentiment": "positive"},
-    {"title": "Kegagalan Teknologi A", "sentiment": "negative"},
-    {"title": "Inovasi Baru Teknologi B", "sentiment": "positive"}
-]
+Misalnya, seorang pengguna yakin bahwa Teknologi A lebih baik dari Teknologi B. Algoritma rekomendasi yang bias hanya menampilkan apa yang disukai pengguna itu, yaitu berita tentang Teknologi A yang bernada positif:
 
-# Algoritma yang bias hanya akan menampilkan apa yang disukai pengguna
-filtered_news = [news for news in all_news if "A" in news[''title''] and news[''sentiment''] == "positive"]
+| Judul Berita | Sentimen | Ditampilkan ke Pengguna? |
+| --- | --- | --- |
+| Kelebihan Teknologi A | Positif | Ya |
+| Kegagalan Teknologi A | Negatif | Tidak |
+| Inovasi Baru Teknologi B | Positif | Tidak |
 
-print(f"Hasil untuk pengguna: {filtered_news}")
-# Output ini akan memperkuat keyakinan pengguna tanpa memberi sudut pandang lain.
-```
+Hanya satu dari tiga berita yang sampai ke pengguna, dan berita itu justru memperkuat keyakinannya tanpa memberi sudut pandang lain.
 
 ## Aplikasi di Dunia Nyata
 
@@ -6217,9 +6047,9 @@ Saat kamu terpapar pada sebuah jangkar, otak kamu secara otomatis mencari inform
 
 Mari kita lihat bagaimana urutan informasi memengaruhi hasil perhitungan mental kita. Dalam sebuah studi, dua kelompok siswa diminta menghitung hasil perkalian berikut dalam waktu 5 detik:
 
-**Kelompok A:** $1 \\times 2 \\times 3 \\times 4 \\times 5 \\times 6 \\times 7 \\times 8$
+**Kelompok A:** $1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8$
 
-**Kelompok B:** $8 \\times 7 \\times 6 \\times 5 \\times 4 \\times 3 \\times 2 \\times 1$
+**Kelompok B:** $8 \times 7 \times 6 \times 5 \times 4 \times 3 \times 2 \times 1$
 
 Secara matematis, hasilnya sama: $40.320$. Namun, karena waktu terbatas:
 
@@ -6286,9 +6116,9 @@ Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Danie
 
 > "Jika saya bisa mengingatnya dengan mudah, maka peristiwa itu pasti penting atau sering terjadi."
 
-Secara matematis, otak kita mencoba melakukan estimasi probabilitas ($P$) dengan rumus intuitif yang keliru: $P(\\text{peristiwa}) \\approx \\text{Kemudahan Retrieval (Pemanggilan Memori)}$
+Secara matematis, otak kita mencoba melakukan estimasi probabilitas ($P$) dengan rumus intuitif yang keliru: $P(\text{peristiwa}) \approx \text{Kemudahan Retrieval (Pemanggilan Memori)}$
 
-Padahal, kenyataannya: $P(\\text{peristiwa}) = \\frac{\\text{Jumlah Kejadian}}{\\text{Total Peluang}}$
+Padahal, kenyataannya: $P(\text{peristiwa}) = \frac{\text{Jumlah Kejadian}}{\text{Total Peluang}}$
 
 ## 2\. Mengapa Ini Terjadi? (Analogi Perpustakaan Pikiran)
 
@@ -6317,28 +6147,20 @@ Mari kita bandingkan persepsi manusia akibat bias ini dengan fakta lapangan:
 
 *Kapan terakhir kali kamu mengubah keputusan besar hanya karena satu cerita menakutkan yang kamu dengar dari teman, meskipun data menunjukkan hal yang berbeda?*
 
-## 4\. Implementasi dalam Algoritma & Teknik (Perspektif Engineering)
+## 4\. Ketika Data yang Mudah Tersedia Menyesatkan
 
 Dalam dunia data science atau kecerdasan buatan, bias ketersediaan mirip dengan masalah **Sampling Bias**. Jika sebuah model AI dilatih hanya dengan data yang "mudah tersedia" (misalnya data dari pengguna internet yang aktif saja), maka model tersebut akan memiliki bias yang sama dengan manusia.
 
-Berikut adalah cuplikan kode Python sederhana untuk memvisualisasikan bagaimana "frekuensi kemunculan" memengaruhi penilaian kita terhadap probabilitas:
+Tabel berikut membandingkan frekuensi nyata empat peristiwa dengan seberapa sering peristiwa itu muncul di media, yang memengaruhi seberapa mudah ia tersedia di memori kita. Angkanya ilustrasi dengan skala fiktif, bukan data sungguhan:
 
-```python
-import matplotlib.pyplot as plt
+| Peristiwa | Frekuensi Nyata (Statistik) | Paparan Media (Ketersediaan di Memori) |
+| --- | --- | --- |
+| Penyakit Jantung | 400 | 20 |
+| Kecelakaan Pesawat | 2 | 150 |
+| Kanker | 350 | 30 |
+| Serangan Hiu | 0,5 | 200 |
 
-# Data Kejadian Nyata vs Apa yang Diberitakan (Sangat Emosional)
-events = [''Penyakit Jantung'', ''Kecelakaan Pesawat'', ''Kanker'', ''Serangan Hiu'']
-actual_stats = [400, 2, 350, 0.5] # Skala fiktif untuk ilustrasi
-media_coverage = [20, 150, 30, 200] # Berita yang dramatis mendapat porsi lebih
-
-plt.figure(figsize=(10, 5))
-plt.bar(events, actual_stats, alpha=0.5, label=''Frekuensi Nyata (Statistik)'')
-plt.bar(events, media_coverage, alpha=0.5, label=''Ketersediaan di Memori (Paparan Media)'')
-plt.ylabel(''Tingkat Kepentingan/Frekuensi'')
-plt.title(''Bias Ketersediaan: Statistik vs Persepsi'')
-plt.legend()
-plt.show()
-```
+Berita yang dramatis mendapat porsi lebih. Kecelakaan pesawat dan serangan hiu, yang paling jarang terjadi, justru paling sering diberitakan, sedangkan penyakit jantung dan kanker yang jauh lebih sering terjadi hanya mendapat sedikit liputan. Kalau penilaian kita bersandar pada apa yang paling mudah diingat, gambaran tentang mana yang paling sering terjadi pun ikut terbalik.
 
 ## 5\. Penerapan Dunia Nyata (Real-World Application)
 
@@ -6439,32 +6261,9 @@ Bayangkan sebuah tugas untuk mengoptimalkan kode pengolah data.
 - **Junior (Peak of Mt. Stupid):** *"Oh, ini gampang! Cukup pakai nested loop dan selesai dalam 5 menit. Saya paling jago di tim ini!"*
 - **Senior (Valley of Despair/Slope of Enlightenment):** *"Hm, ini kompleks. Kita harus mempertimbangkan kompleksitas waktu $O(n^2)$, penggunaan memori, dan potensi kebocoran data. Saya harus meriset algoritma yang lebih efisien dulu."*
 
+Ambil contoh tugas mencari data yang muncul ganda. Si junior membandingkan setiap data dengan semua data sesudahnya satu per satu dan yakin itulah solusi terbaik, padahal cara itu memang cepat ditulis tetapi tidak efisien untuk data berskala besar. Si senior cukup menelusuri data sekali sambil mencatat data yang sudah pernah muncul, dengan sadar bahwa catatan itu memakai memori tambahan demi kecepatan.
+
 **Analogi Visual:** Seorang pemula melihat hutan dan berkata, "Ini hanya kumpulan pohon." Seorang ahli melihat hutan dan melihat ekosistem yang terdiri dari ribuan spesies, pola tanah, dan interaksi biologis yang rumit.
-
-```python
-# Contoh ilustrasi perbedaan pendekatan (Simulasi Logika)
-
-# Pendekatan Pemula (Cepat tapi tidak efisien untuk skala besar)
-def find_duplicates_beginner(arr):
-    # Percaya diri tinggi bahwa ini solusi terbaik
-    duplicates = []
-    for i in range(len(arr)):
-        for j in range(i + 1, len(arr)):
-            if arr[i] == arr[j]:
-                duplicates.append(arr[i])
-    return duplicates
-
-# Pendekatan Ahli (Sadar akan skalabilitas dan performa)
-def find_duplicates_expert(arr):
-    # Menyadari adanya trade-off memori dan kecepatan
-    seen = set()
-    duplicates = set()
-    for item in arr:
-        if item in seen:
-            duplicates.add(item)
-        seen.add(item)
-    return list(duplicates)
-```
 
 ## 5\. Mengapa Ini Berbahaya?
 
@@ -6546,34 +6345,9 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 
-### Logika Pengambilan Keputusan dalam Kode
+### Melanjutkan atau Menghentikan Proyek
 
-Berikut adalah simulasi sederhana dalam Python untuk membantu menentukan apakah sebuah proyek layak dilanjutkan:
-
-```python
-def should_continue_project(sunk_cost, future_cost, expected_benefit):
-    """
-    Menentukan apakah proyek harus dilanjutkan berdasarkan prinsip ekonomi.
-    Sunk cost diabaikan dalam pengambilan keputusan.
-    """
-    # Secara rasional, kita hanya melihat masa depan
-    net_gain_if_continued = expected_benefit - future_cost
-    
-    print(f"Investasi yang sudah hilang (Sunk Cost): Rp{sunk_cost}")
-    print(f"Biaya tambahan yang dibutuhkan: Rp{future_cost}")
-    print(f"Estimasi keuntungan total di masa depan: Rp{expected_benefit}")
-    
-    if net_gain_if_continued > 0:
-        return "LANJUTKAN: Keuntungan masa depan menutupi biaya masa depan."
-    else:
-        return "HENTIKAN: Kamu hanya akan membuang lebih banyak sumber daya."
-
-# Contoh kasus: Proyek aplikasi yang sudah menghabiskan 100 juta
-# Tapi butuh 50 juta lagi untuk selesai, padahal pasarnya sudah hilang (hanya bernilai 30 juta)
-print(should_continue_project(100_000_000, 50_000_000, 30_000_000))
-```
-
-Kalau kamu tidak terbiasa membaca Python, logika fungsi di atas bisa kamu ikuti lewat alur berikut.
+Prinsip ekonomi yang sama bisa membantu menentukan apakah sebuah proyek layak dilanjutkan. Secara rasional, kita hanya melihat masa depan, jadi investasi yang sudah hilang tidak ikut dihitung. Bila keuntungan bersihnya positif, proyek layak dilanjutkan karena keuntungan masa depan menutupi biaya masa depan. Bila tidak, melanjutkannya hanya membuang lebih banyak sumber daya. Urutan pertimbangannya bisa kamu ikuti lewat alur berikut.
 
 ```mermaid
 flowchart TD
@@ -6584,6 +6358,18 @@ flowchart TD
     C -->|"ya"| D["LANJUTKAN, keuntungan masa depan menutupi biaya masa depan"]
     C -->|"tidak"| E["HENTIKAN, kamu hanya akan membuang lebih banyak sumber daya"]
 ```
+
+Contohnya, dengan angka ilustrasi: sebuah proyek aplikasi sudah menghabiskan Rp100 juta, tetapi butuh Rp50 juta lagi untuk selesai, padahal pasarnya sudah hilang sehingga aplikasi itu hanya bernilai Rp30 juta.
+
+| Komponen | Nilai |
+| --- | --- |
+| Investasi yang sudah hilang (sunk cost) | Rp100 juta, diabaikan |
+| Biaya tambahan yang dibutuhkan | Rp50 juta |
+| Estimasi keuntungan masa depan | Rp30 juta |
+| Keuntungan bersih (Rp30 juta - Rp50 juta) | -Rp20 juta |
+| Keputusan | Hentikan |
+
+Keuntungan bersihnya negatif, jadi proyek sebaiknya dihentikan. Rp100 juta yang sudah keluar tidak mengubah hasil hitungan ini sama sekali.
 
 ## 5. Real-World Applications (Aplikasi Dunia Nyata)
 
@@ -6645,9 +6431,9 @@ Jika Efek Halo memberikan "lingkaran cahaya" malaikat pada seseorang, **Efek Tan
 
 Secara psikologis, kedua bias ini berakar pada kebutuhan kita akan **konsistensi kognitif**. Kita ingin dunia kita masuk akal dan konsisten. Jika kita menyukai seseorang, rasanya aneh (secara mental) jika mereka memiliki sifat buruk. Jadi, otak kita "menghaluskan" ketidakkonsistenan tersebut.
 
-Dalam matematika persepsi, kita bisa memodelkannya secara sederhana sebagai berikut: Jika $\text{Kesan\_Umum} > 0$ (Positif), maka: $\forall \text{Sifat}_{i} \rightarrow \text{Persepsi}(\text{Sifat}_{i}) = \text{Positif}$
+Dalam matematika persepsi, kita bisa memodelkannya secara sederhana sebagai berikut: Jika $\text{Kesan Umum} > 0$ (Positif), maka: $\forall \text{Sifat}\_{i} \rightarrow \text{Persepsi}(\text{Sifat}\_{i}) = \text{Positif}$
 
-Dan sebaliknya jika $\text{Kesan\_Umum} < 0$ (Negatif).
+Dan sebaliknya jika $\text{Kesan Umum} < 0$ (Negatif).
 
 ## 4. Manifestasi dalam Berbagai Bidang
 
@@ -6769,14 +6555,7 @@ Dalam dunia teknik, sering terjadi gesekan antara tim *Developer* (yang membuat 
 
 Banyak perusahaan besar menolak menggunakan teknologi hebat yang diciptakan oleh perusahaan lain atau komunitas *open-source*. Mereka lebih memilih membuat versi sendiri yang lebih buruk hanya karena "bukan kita yang membuatnya". Ini adalah bentuk murni dari *In-group Bias* di level korporasi.
 
-```python
-# Contoh pseudocode pola pikir Bias Kelompok dalam seleksi ide
-def evaluasi_ide(ide):
-    if ide.pencipta == "Anggota_Tim_Saya":
-        return "Ide Brilian! Mari kita eksekusi."
-    else:
-        return "Perlu ditinjau ulang (mencari-cari kesalahan)."
-```
+Saat menyeleksi ide, pola pikir bias kelompok itu sederhana: ide dari anggota tim sendiri langsung disambut sebagai "ide brilian, mari kita eksekusi", sedangkan ide dari pihak lain "perlu ditinjau ulang", yang dalam praktiknya berarti dicari-cari kesalahannya.
 
 ## Cara Mengenali dan Mengurangi Bias Kelompok
 
@@ -6887,7 +6666,7 @@ Dalam dunia profesional, keputusan yang didorong oleh bias sering kali bersembun
 
 ### Kejatuhan Blockbuster Video
 
-Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada CEO Blockbuster, John Antioco, seharga $50 juta. Antioco menolak tawaran itu mentah-mentah. Mengapa?
+Pada tahun 2000, pendiri Netflix, Reed Hastings, menawarkan perusahaannya kepada CEO Blockbuster, John Antioco, seharga 50 juta dolar AS. Antioco menolak tawaran itu mentah-mentah. Mengapa?
 
 - **Status Quo Bias:** Ia merasa model bisnis penyewaan fisik masih sangat kuat.
 - **Confirmation Bias:** Ia hanya melihat data pelanggan yang masih datang ke toko, tanpa memedulikan tren digital yang mulai tumbuh.
@@ -6922,7 +6701,12 @@ Dalam sebuah eksperimen psikologi hukum, hakim-hakim berpengalaman diberikan kas
 
 - Hakim yang mendapatkan angka dadu tinggi cenderung memberikan hukuman yang lebih lama dibandingkan hakim yang mendapatkan angka rendah.
 - **Secara Matematis:** Jika jaksa menuntut angka hukuman $X$, maka vonis hakim cenderung berpusat di sekitar $X$ ($V \approx X \pm \Delta$), terlepas dari apakah tuntutan $X$ tersebut masuk akal secara objektif.
-   $$\text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}$$
+
+  <div>
+  $$
+  \text{Vonis}_{\text{final}} = \text{Jangkar}_{\text{awal}} + \text{Penyesuaian}_{\text{subjektif}}
+  $$
+  </div>
 
 ## 4. Hubungan Personal dan Sosial
 
@@ -7047,30 +6831,9 @@ Mari kita lihat bagaimana teknik mitigasi digunakan dalam skenario nyata untuk m
 | Wawancara dilakukan secara bebas tanpa struktur tetap. | **Structured Interview:** Memberikan pertanyaan yang sama persis dengan bobot nilai yang sudah ditentukan sebelumnya. |
 | Penilaian berdasarkan "kecocokan budaya" yang subjektif. | **Work Sample Test:** Memberikan tugas nyata (misal: buat rencana kampanye) untuk menilai kompetensi teknis secara objektif. |
 
-## 5\. Kerangka Keputusan (Pseudocode)
+## 5\. Lima Langkah Menuju Keputusan Objektif
 
-Bagi kamu yang menyukai pendekatan sistematis, berikut adalah algoritma sederhana yang bisa kamu gunakan sebelum mengetuk palu sebuah keputusan penting:
-
-```python
-def ambil_keputusan_objektif(isu, hipotesis_awal):
-    # 1. Identifikasi Potensi Bias
-    print(f"Menganalisis: {isu}")
-    
-    # 2. Consider the Opposite
-    kontra_argumen = cari_bukti_berlawanan(hipotesis_awal)
-    
-    # 3. Pre-mortem Analysis
-    if skenario_gagal(hipotesis_awal) == True:
-        identifikasi_risiko()
-        
-    # 4. Konsultasi Luar (Outside View)
-    data_statistik = cari_base_rate_data(isu)
-    
-    # 5. Keputusan Akhir
-    return evaluasi_akhir(hipotesis_awal, kontra_argumen, data_statistik)
-```
-
-Bagi kamu yang lebih mudah membaca gambar daripada kode, kelima langkah itu tampak seperti ini.
+Bagi kamu yang menyukai pendekatan sistematis, ada lima langkah sederhana yang bisa kamu tempuh sebelum mengetuk palu sebuah keputusan penting. Pertama, identifikasi potensi bias. Kedua, lakukan *Consider the Opposite* dengan mencari bukti yang berlawanan. Ketiga, jalankan *pre-mortem*; bila muncul skenario gagal, identifikasi risikonya. Keempat, lakukan konsultasi luar (*Outside View*) dengan mencari data *base rate*. Kelima, ambil keputusan akhir dari hipotesis awal, kontra argumen, dan data statistik itu. Urutannya tampak pada bagan berikut.
 
 ```mermaid
 flowchart TD
@@ -7130,10 +6893,11 @@ Ini adalah pengakuan tulus bahwa pengetahuan kita terbatas dan kita bisa saja sa
 
 Dalam statistik, Teorema Bayes mengajarkan kita untuk memperbarui probabilitas suatu hipotesis saat ada bukti baru. Secara mental, rumusnya bisa kita analogikan secara sederhana:
 
+<div>
 $$
-
 P(\text{Keyakinan} \mid \text{Bukti Baru}) \propto P(\text{Bukti Baru} \mid \text{Keyakinan}) \times P(\text{Keyakinan Awal})
 $$
+</div>
 
 Artinya, keyakinan kamu saat ini ($P(\text{Keyakinan})$) harus selalu siap bergeser mengikuti bobot bukti baru yang masuk. Jangan memegang keyakinan dengan tangan mengepal; peganglah dengan tangan terbuka.
 
@@ -7161,28 +6925,25 @@ Mari kita lihat bagaimana objektivitas berkelanjutan bekerja dalam skenario nyat
 	2. Ia menggunakan **Intellectual Humility**: "Mungkin asumsi awal saya tentang kebutuhan pengguna salah."
 	3. Ia menerapkan **Bayesian Updating**: Data baru menunjukkan kegagalan $\rightarrow$ Peluang fitur ini sukses di masa depan menurun $\rightarrow$ Putuskan untuk menghentikan proyek (Pivot).
 
-**Contoh Kode (Logika Pengambilan Keputusan):** Jika kita memodelkan objektivitas dalam sebuah algoritma sederhana untuk mengevaluasi opini:
+Cara mengevaluasi opini secara objektif juga bisa dimodelkan dengan hitungan sederhana. Hitungan ini hanyalah rata-rata berbobot antara keyakinan lama dan bukti baru. Semua nilainya memakai skala 0 sampai 1, dan bobot bukti menunjukkan seberapa kuat bukti itu:
 
-```python
-def evaluasi_opini(opini_saat_ini, bukti_baru, kekuatan_bukti):
-    # Kekuatan bukti dalam skala 0.0 sampai 1.0
-    threshold_objektivitas = 0.5
-    
-    if kekuatan_bukti > threshold_objektivitas:
-        print("Memperbarui pandangan berdasarkan data objektif.")
-        return (opini_saat_ini * (1 - kekuatan_bukti)) + (bukti_baru * kekuatan_bukti)
-    else:
-        print("Bukti kurang kuat, namun tetap pertimbangkan sebagai anomali.")
-        return opini_saat_ini
+<div>
+$$
+\text{Keyakinan Baru} = \text{Keyakinan Lama} \times (1 - \text{Bobot}) + \text{Bukti} \times \text{Bobot}
+$$
+</div>
 
-# Penggunaan:
-keyakinan_awal = 0.9 # Sangat yakin
-bukti_kontra = 0.1   # Bukti baru yang menunjukkan hal sebaliknya
-bobot_bukti = 0.8    # Bukti ini sangat valid dan saintifik
+Pandangan hanya diperbarui bila bobot bukti lebih dari 0,5 (ambang ini angka ilustrasi). Bila bobotnya 0,5 atau kurang, keyakinan lama dipertahankan, tetapi bukti itu tetap dipertimbangkan sebagai anomali.
 
-keyakinan_baru = evaluasi_opini(keyakinan_awal, bukti_kontra, bobot_bukti)
-print(f"Keyakinan setelah update: {keyakinan_baru:.2f}")
-```
+Contohnya, dengan angka ilustrasi: kamu sangat yakin pada sebuah opini (0,9), lalu muncul bukti baru yang menunjukkan hal sebaliknya (0,1). Bukti ini sangat valid dan saintifik, sehingga bobotnya 0,8, di atas ambang 0,5.
+
+| Langkah | Hitungan | Hasil |
+| --- | --- | --- |
+| Porsi keyakinan lama | 0,9 × (1 - 0,8) = 0,9 × 0,2 | 0,18 |
+| Porsi bukti baru | 0,1 × 0,8 | 0,08 |
+| Keyakinan baru | 0,18 + 0,08 | 0,26 |
+
+Pada contoh ini, satu bukti yang kuat menurunkan keyakinan dari 0,9 menjadi 0,26.
 
 ### 5. Menjadi Pengamat yang Jernih
 
@@ -7206,8 +6967,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7467,24 +7228,6 @@ Mari kita teliti bagaimana serial legendaris ini mengubah pandangan masyarakat:
 - **Inovasi cerita**: Penulis dan sutradara mengambil langkah berani dengan mengangkat kasus kriminal nyata yang terjadi di Korea Selatan sebagai dasar cerita.
 - Hasil dari pendekatan realistis ini luar biasa, dengan rating penayangan yang sempat menyentuh angka 70% sekaligus berhasil memulihkan citra positif kepolisian di mata publik.
 
-```python
-# Analogi Struktur Drama 80-an (Sederhana)
-drama_80an = {
-    "visual": "Colorized (after 1980)",
-    "themes": ["Urbanization", "Power Struggle", "Daily Life"],
-    "pacing": "Moderate",
-    "social_impact": "High"
-}
-
-def analyze_drama(drama):
-    if drama["visual"] == "Colorized (after 1980)":
-        return "Era Eksperimen Visual dan Genre Baru"
-    else:
-        return "Era Fondasi Hitam Putih"
-
-print(analyze_drama(drama_80an))
-```
-
 ## Kesimpulan
 
 Dekade 1970-an hingga 1980-an bertindak sebagai jembatan emas bagi industri televisi Korea Selatan. Tanpa keberanian mengeksplorasi genre kriminal, kemegahan drama sejarah, serta teknologi warna pada masa itu, K-Drama tidak akan memiliki kedalaman estetika visual dan narasi seperti yang kita saksikan di berbagai platform *streaming* hari ini.
@@ -7612,10 +7355,12 @@ Berbeda dengan *Winter Sonata* yang berfokus di Asia Timur, *Dae Jang Geum* mele
 Untuk memahami skala ledakan ini, kita bisa melihat pertumbuhan ekspor konten budaya Korea secara konseptual. Pertumbuhan ini bisa dianalogikan dengan fungsi eksponensial dalam ekonomi kreatif:
 
 Misalkan $E$ adalah nilai ekspor dan $t$ adalah waktu dalam tahun sejak 2000:
-$$
 
+<div>
+$$
 E(t) = P \cdot (1 + r)^t
 $$
+</div>
 
 Di mana:
 
@@ -7672,10 +7417,11 @@ Melodrama modern mulai meninggalkan formula *shinpa* (gaya melodrama tradisional
 
 Genre *romantic comedy* menjadi penggerak utama modernisasi ini. Dinamika hubungan antar-karakter di dalamnya sering kali mengikuti sebuah formula atau persamaan daya tarik berikut:
 
+<div>
 $$
-
-C_{\\text{chemistry}} = (O_{\\text{opposites}} + A_{\\text{attraction}}) \\times T_{\\text{tension}}
+C_{\text{chemistry}} = (O_{\text{opposites}} + A_{\text{attraction}}) \times T_{\text{tension}}
 $$
+</div>
 
 Persamaan ini menggambarkan bagaimana dua karakter dengan kepribadian bertolak belakang $O$ dipertemukan dalam situasi penuh ketegangan $T$, yang pada akhirnya memicu daya tarik kuat $A$ di antara keduanya.
 
@@ -7755,11 +7501,11 @@ Viki mengambil jalan unik dengan memanfaatkan model berbasis komunitas. Di sini,
 
 Secara matematis, kita bisa melihat fenomena ini melalui persamaan berikut:
 
+<div>
 $$
-\\begin{aligned}
-\\text{Kesuksesan} = (\\text{Kualitas Produksi} + \\text{Daya Tarik Visual}) \\times \\text{Aksesibilitas}^{\\text{Digital}}
-\\end{aligned}
+\text{Kesuksesan} = (\text{Kualitas Produksi} + \text{Daya Tarik Visual}) \times \text{Aksesibilitas}^{\text{Digital}}
 $$
+</div>
 
 Peningkatan pada aspek **Aksesibilitas Digital** (seperti kecepatan internet dan ketersediaan aplikasi) membuat efek dari **Kualitas Produksi** berlipat ganda secara eksponensial.
 
@@ -7849,17 +7595,20 @@ Aturan ketat di stasiun TV konvensional sering kali menyensor gambar tajam seper
 Dengan masuknya modal asing, anggaran produksi K-Drama melonjak ke angka yang sebelumnya hanya mungkin ditemukan di film layar lebar.
 
 **Persamaan Kesuksesan Produksi OTT:** Dalam dunia ekonomi konten, kita bisa melihat formulanya sebagai berikut:
-   $$\begin{aligned}
+
+<div>
+$$
 \text{K}_s = (\text{D}_g \times \text{K}_k) + \text{A}_u
-\end{aligned}$$
+$$
+</div>
 
-Dimana:
-- $\text{K}_s$: Kualitas Sinematik
-- $\text{D}_g$: Distribusi Global
-- $\text{K}_k$: Kebebasan Kreatif
-- $\text{A}_u$: Anggaran Tanpa Batas
+Di mana:
+- $\text{K}\_s$: Kualitas Sinematik
+- $\text{D}\_g$: Distribusi Global
+- $\text{K}\_k$: Kebebasan Kreatif
+- $\text{A}\_u$: Anggaran Tanpa Batas
 
-Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar $1,78 juta (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
+Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar 1,78 juta dolar AS (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
 
 ### 4. Perubahan Model Narasi dari Cliffhanger ke Binge-Watching
 
@@ -7879,21 +7628,15 @@ Dalam penerapan global hyper-localization, Netflix memakai data algoritma untuk 
 
 Model OTT ini juga membuka ruang bagi aktor pendatang baru dan talenta non-mainstream. Karena tidak terikat pada jaminan iklan televisi nasional, rumah produksi berani menaruh wajah-wajah baru sebagai pemeran utama. Ini menciptakan bintang global baru dalam semalam, seperti kesuksesan Jung Ho-yeon lewat *Squid Game*.
 
-**Contoh Kode (Logika Algoritma Rekomendasi Sederhana):** Platform OTT bekerja berdasarkan preferensi pengguna. Secara sederhana, logikanya seperti ini:
+**Logika rekomendasi sederhana:** Platform OTT bekerja berdasarkan preferensi pengguna. Riwayat tontonan dicocokkan dengan pola tertentu, lalu judul yang sesuai disodorkan. Tabel berikut hanya ilustrasi sederhana, bukan cara kerja algoritma Netflix yang sebenarnya:
 
-```python
-def recommend_kdrama(user_history):
-    if "thriller" in user_history and "dark_themes" in user_history:
-        return "Rekomendasi: Squid Game atau Gyeongseong Creature"
-    elif "romance" in user_history and "modern_setting" in user_history:
-        return "Rekomendasi: Lovestruck in the City (Kakao TV/Netflix)"
-    else:
-        return "Rekomendasi: Kingdom (Global Top Pick)"
+| Riwayat tontonan | Judul yang disodorkan |
+| --- | --- |
+| *Thriller* dan tema gelap | *Squid Game* atau *Gyeongseong Creature* |
+| Romansa dengan latar modern | *Lovestruck in the City* |
+| Belum cocok dengan kedua pola itu | *Kingdom*, sebagai pilihan populer global |
 
-# User baru yang suka tema gelap
-user_A = ["thriller", "dark_themes", "social_critique"]
-print(recommend_kdrama(user_A))
-```
+Penonton baru yang riwayatnya berisi *thriller* bertema gelap, misalnya, akan disodori *Squid Game* atau *Gyeongseong Creature*.
 
 ### 6. Tantangan di Era Baru
 
@@ -7954,7 +7697,7 @@ Eksperimen lintas genre ini menuntut lompatan besar dalam teknologi produksi. Pe
 
 Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kreator pun dapat tumpah ruah sepenuhnya. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau *Hellbound*.
 
-**Formula Kesuksesan Eksperimen Genre:** $\\text{Popularitas} = (\\text{Kearifan Lokal} \\times \\text{Tema Universal}) + \\text{Kualitas Produksi OTT}$
+**Formula Kesuksesan Eksperimen Genre:** $\text{Popularitas} = (\text{Kearifan Lokal} \times \text{Tema Universal}) + \text{Kualitas Produksi OTT}$
 
 ### 4. Strategi Industri
 
@@ -7962,21 +7705,18 @@ Di dunia nyata, diversifikasi konten ini memadukan aspek artistik dengan strateg
 
 **Studi Kasus Data-Driven Content Production**
 
-Platform global seperti Netflix or Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
+Platform global seperti Netflix atau Disney+ memanfaatkan algoritma untuk melacak tren yang sedang naik daun di platform webtoon. Begitu mendeteksi genre seperti horor sekolah tengah populer (seperti *All of Us Are Dead*), mereka akan segera mengamankan hak adaptasinya.
 
-**Implementasi Teknis (Skenario Pengembangan Konten):** Jika kamu bekerja sebagai pengembang aplikasi atau analis data di industri media, kamu mungkin akan menemui struktur data seperti ini saat menganalisis kelayakan proyek drama selanjutnya:
+Saat menilai kelayakan proyek drama selanjutnya, data sebuah webtoon dapat dirangkum dalam satu kartu ringkas. Tabel berikut adalah contoh fiktif kartu semacam itu:
 
-```json
-{
-  "webtoon_id": "WT-9921",
-  "title": "Global Warning",
-  "genre": ["Sci-Fi", "Thriller"],
-  "monthly_active_readers": 1500000,
-  "sentiment_analysis": 0.85, 
-  "target_audience": "Gen Z & Millennials",
-  "recommended_format": "8-Episode Limited Series"
-}
-```
+| Atribut | Nilai |
+| --- | --- |
+| Judul webtoon | *Global Warning* |
+| Genre | *Sci-Fi* dan *Thriller* |
+| Pembaca aktif per bulan | 1.500.000 |
+| Skor *sentiment analysis* | 0,85 |
+| Target penonton | Gen Z dan Milenial |
+| Format yang disarankan | Serial terbatas 8 episode |
 
 *Keterangan: Hasil sentiment analysis sebesar 0,85 menunjukkan respons pembaca yang sangat positif, menjadikannya kandidat kuat untuk masuk ke tahap produksi.*
 
@@ -8045,11 +7785,17 @@ Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari 
 
 Keberhasilan sebuah drama sering kali dapat dirumuskan secara sederhana melalui keseimbangan antara narasi dan atmosfer audio:
 
+<div>
 $$
-\\begin{aligned}
-\\text{Kualitas Drama} = (\\text{Kekuatan Narasi} \\times \\text{Kedalaman Karakter}) + \\text{Intensitas Emosional OST}
-\\end{aligned}
+\text{Kualitas Drama} = (\text{Kekuatan Narasi} \times \text{Kedalaman Karakter})
 $$
+</div>
+
+<div>
+$$
+\quad + \text{Intensitas Emosional OST}
+$$
+</div>
 
 Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan terasa kurang lengkap. Penulis skenario menjaga alur logika serta kedalaman emosi tetap stabil, sedangkan pengarah musik memastikan penonton larut sepenuhnya dalam atmosfer yang dibangun.
 
@@ -8166,8 +7912,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9081,8 +8827,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9837,27 +9583,22 @@ Saat pasar mengalami kegagalan, intervensi pemerintah diperlukan untuk memperbai
 
 #### Dampak Pajak terhadap Eksternalitas
 
-Berikut simulasi teknis menggunakan Python untuk memodelkan bagaimana pajak menginternalisasi biaya polusi ke dalam keseimbangan pasar:
+Contoh hitung sederhana berikut memakai angka ilustrasi untuk memodelkan bagaimana pajak menginternalisasi biaya polusi ke dalam keseimbangan pasar. Misalkan jumlah yang diminta konsumen adalah $Q_d = 100 - P$ dan jumlah yang ditawarkan produsen adalah $Q_s = P$, dengan $P$ sebagai harga. Pasar mencapai keseimbangan ketika keduanya sama:
 
-```python
-def market_equilibrium(price, supply_const, demand_const):
-    # Model sederhana: Qs = Qd
-    # Qd = demand_const - price
-    # Qs = supply_const + price
-    quantity = (demand_const - supply_const) / 2
-    return quantity
+<div>
+$$
+Q_d = Q_s
+$$
+</div>
 
-# Skenario 1: Pasar Bebas dengan Polusi (Biaya eksternal tidak dihitung)
-q_free_market = market_equilibrium(price=10, supply_const=0, demand_const=100)
+Pajak Pigovian sebesar 20 per unit menambah biaya produksi, sehingga produsen hanya menerima $P - 20$ dari setiap unit dan kurva penawaran bergeser ke atas menjadi $Q_s = P - 20$.
 
-# Skenario 2: Intervensi Pemerintah (Pajak Pigovian sebesar 20 per unit)
-# Pajak meningkatkan biaya produksi (menggeser kurva supply ke atas)
-q_with_intervention = market_equilibrium(price=10, supply_const=-20, demand_const=100)
+| Skenario | Penawaran | Harga keseimbangan | Jumlah produksi |
+| :--- | :--- | :--- | :--- |
+| **Pasar bebas** (biaya eksternal tidak dihitung) | $Q_s = P$ | 50 | 50 unit |
+| **Pajak Pigovian** 20 per unit | $Q_s = P - 20$ | 60 | 40 unit |
 
-print(f"Produksi Pasar Bebas: {q_free_market} unit")
-print(f"Produksi Setelah Pajak Lingkungan: {q_with_intervention} unit")
-# Output menunjukkan penyesuaian volume produksi ke tingkat yang berkelanjutan
-```
+Pajak menaikkan harga dari 50 menjadi 60 dan menurunkan produksi dari 50 menjadi 40 unit. Arah ini sejalan dengan tujuan pajak Pigovian, yaitu menahan produksi berlebih (*overproduction*) dari barang yang mencemari, seperti pabrik kimia pada bagian Eksternalitas.
 
 ### 7. Krisis Finansial 2008
 
@@ -10061,33 +9802,20 @@ Di mana $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumulasi laba 
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
-```python
-# Simulasi Sederhana Akumulasi Modal Laissez-faire vs Intervensionis
-def simulasi_pertumbuhan():
-    modal_awal = 100
-    laba_tahunan = 0.20  # 20% keuntungan
-    pajak_laissez_faire = 0.0
-    pajak_intervensionis = 0.35 # 35% pajak
-    
-    tahun = 10
-    
-    lf_modal = modal_awal
-    int_modal = modal_awal
-    
-    for i in range(tahun):
-        # Laissez-faire: Laba diinvestasikan kembali sepenuhnya
-        lf_modal += (lf_modal * laba_tahunan) * (1 - pajak_laissez_faire)
-        
-        # Intervensionis: Laba dipotong pajak sebelum investasi kembali
-        int_modal += (int_modal * laba_tahunan) * (1 - pajak_intervensionis)
-        
-    print(f"Modal Laissez-faire setelah 10 tahun: ${round(lf_modal, 2)}")
-    print(f"Modal Intervensionis setelah 10 tahun: ${round(int_modal, 2)}")
+Perhatikan sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
 
-simulasi_pertumbuhan()
-```
+<div>
+$$
+M_t = M_0 \times \left(1 + g \times (1 - \text{pajak})\right)^t
+$$
+</div>
 
-Hasil simulasi di atas menunjukkan bahwa dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Hal ini menjelaskan alasan industri pada abad ke-19 mampu berkembang pesat.
+| Sistem | Pajak atas laba | Pertumbuhan modal per tahun | Modal setelah 10 tahun |
+| :--- | :--- | :--- | :--- |
+| **Laissez-faire** | 0% | 20% | 619,17 |
+| **Intervensionis** | 35% | 13% | 339,46 |
+
+Dalam 10 tahun, sistem tanpa pajak menghasilkan akumulasi modal yang jauh lebih besar. Karena angkanya rekaan, hitungan ini hanya memperlihatkan logikanya, bukan membuktikan sejarah: laba yang tidak dipajaki dan terus diinvestasikan kembali membuat modal menumpuk lebih cepat, sejalan dengan gambaran industri abad ke-19 yang berkembang pesat.
 
 ## 5. Pelajaran untuk Masa Kini
 
@@ -10337,8 +10065,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10480,7 +10208,12 @@ Jika Kierkegaard mencari makna di dalam Tuhan, Friedrich Nietzsche (1844–1900)
 Pernyataan Nietzsche ini sangat populer sekaligus paling sering disalahpahami. Dia tidak bermaksud mengumumkan kematian sosok supranatural. Nietzsche ingin menunjukkan bahwa kepercayaan pada Tuhan telah kehilangan perannya sebagai poros moral dan kebudayaan masyarakat modern.
 
 **Konsekuensi Logis:** Jika Tuhan yang menjadi sumber nilai absolut hilang, nihilisme akan membayangi manusia:
-   $$\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}$$
+
+<div>
+$$
+\text{Ketiadaan Standar Absolut} \rightarrow \text{Nihilisme}
+$$
+</div>
 
 Nihilisme adalah kondisi ketika hidup terasa hampa, tanpa tujuan, arti, atau nilai bawaan.
 
@@ -10490,7 +10223,7 @@ Nietzsche tidak ingin manusia terpuruk dalam nihilisme. Sebagai penawarnya, dia 
 
 - Mereka berani menciptakan nilai-nilainya sendiri saat fondasi lama runtuh.
 - Menghadapi penderitaan dengan sikap afirmatif terhadap kehidupan.
-- Keberanian untuk lepas dari "moralitas budak" or mentalitas ikut-ikutan.
+- Keberanian untuk lepas dari "moralitas budak" atau mentalitas ikut-ikutan.
 
 ### Kehendak untuk Berkuasa (Will to Power)
 
@@ -10559,13 +10292,18 @@ Banyak orang mengira "absurd" berarti "aneh" atau "lucu". Namun, bagi Camus, abs
 **Absurditas adalah hasil dari sebuah tabrakan (collision).**
 
 Bayangkan sebuah persamaan matematis sederhana untuk memahami ini:
+
+<div>
 $$
-\begin{aligned}
-&\text{Keinginan Manusia (Makna \& Keteraturan)} \\
-&\quad + \text{Keheningan Alam Semesta (Ketidakpedulian)} \\
-&= \text{Absurditas}
-\end{aligned}
+\text{Keinginan Manusia (Makna } \& \text{ Keteraturan)}
 $$
+</div>
+
+<div>
+$$
+\quad + \text{Keheningan Alam Semesta (Ketidakpedulian)} = \text{Absurditas}
+$$
+</div>
 
 > **Definisi Utama:** Absurditas bukanlah sifat dari dunia itu sendiri, dan bukan pula sifat dari manusia. Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis.
 
@@ -10784,7 +10522,7 @@ Saat merasa "tidak nyaman" dengan rutinitas duniawi, kita terdorong untuk berhen
 | Aspek | Søren Kierkegaard | Martin Heidegger |
 | --- | --- | --- |
 | **Fokus** | Psikologis & Religius | Ontologis (Hakikat Keberadaan) |
-| **Penyebab** | Sadar akan kemungkinan tak terbatas | Sadar akan ketidaberartian duniawi |
+| **Penyebab** | Sadar akan kemungkinan tak terbatas | Sadar akan ketidakberartian duniawi |
 | **Hasil** | Lompatan iman (*Leap of Faith*) | Menuju hidup autentik |
 | **Analogi** | Berdiri di tepi jurang | Merasa asing di rumah sendiri |
 
@@ -10795,10 +10533,12 @@ Kecemasan berfungsi sebagai alarm alami manusia. Tanpa adanya kecemasan, kita be
 Kecemasan mengungkapkan dua hal mendasar:
 1. **Kebebasan Radikal:** Manusia tidak didikte oleh masa lalu maupun takdir; kita adalah penulis atas jalan hidup kita sendiri.
 2. **Ketiadaan (Nothingness):** Ketiadaan fondasi absolut di dunia memaksa kita untuk menciptakan sendiri makna atas keberadaan kita.
-   $$\begin{aligned}
-\text{Kesadaran} ={}& \text{Penerimaan terhadap Angst} \\
-& + \text{Keberanian Memilih}
-\end{aligned}$$
+
+   <div>
+   $$
+   \text{Kesadaran} = \text{Penerimaan terhadap Angst} + \text{Keberanian Memilih}
+   $$
+   </div>
 
 ## 5\. Aplikasi Praktis dan Skenario
 
@@ -11024,10 +10764,11 @@ Logoterapi tidak mengajarkan kita untuk menyukai penderitaan. Pendekatan ini jus
 
 Dalam bentuk matematis sederhana, Frankl sering menggambarkan hubungan antara penderitaan dan makna sebagai berikut:
 
+<div>
 $$
-
 M = S - D
 $$
+</div>
 
 Di mana:
 
@@ -11052,7 +10793,7 @@ Bayangkan seseorang yang kehilangan pekerjaan yang telah ia rintis selama dua de
 
 Jika dia menghadapi situasi ini tanpa pemahaman Logoterapi, dia sangat rentan merasa dunianya runtuh, kehilangan identitas diri, lalu terperosok ke dalam kekosongan batin yang mendalam.
 
-Sebaliknya, dengan menerapkan prinsip Logoterapi, dia akan memandang krisis ini sebagai ruang untuk menguji "Nilai Sikap". Dia menyadari bahwa harga dirinya tidak ditentukan oleh jabatan semata. Dari sini, dia bisa memanfaatkan waktu luang untuk menekuni kegemaran yang sempat tertunda (Nilai Kreatif) or menjalin kedekatan emosional yang lebih hangat dengan keluarganya (Nilai Pengalaman).
+Sebaliknya, dengan menerapkan prinsip Logoterapi, dia akan memandang krisis ini sebagai ruang untuk menguji "Nilai Sikap". Dia menyadari bahwa harga dirinya tidak ditentukan oleh jabatan semata. Dari sini, dia bisa memanfaatkan waktu luang untuk menekuni kegemaran yang sempat tertunda (Nilai Kreatif) atau menjalin kedekatan emosional yang lebih hangat dengan keluarganya (Nilai Pengalaman).
 
 #### Kasus Klinis Sederhana
 
@@ -11275,10 +11016,11 @@ Menjadi autentik berarti menghargai orang lain sebagai subjek yang merdeka, buka
 
 Pencarian makna hidup di era modern dapat digambarkan dalam hubungan sederhana berikut:
 
+<div>
 $$
-
 M = A \times (T - D)
 $$
+</div>
 
 Di mana $M$ melambangkan Makna (*Meaning*), $A$ mewakili Autentisitas (hidup yang selaras dengan nilai personal), $T$ adalah Tindakan konkret (bukan cuma niat kosong), dan $D$ menggambarkan Distraksi serta tekanan ekspektasi dari luar.
 
@@ -11302,10 +11044,12 @@ Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas meliha
 > **Pesan Penting:** Kefanaan (finitude) adalah bumbu yang memberikan rasa pada eksistensi. Tanpa kematian, kehidupan hanyalah repetisi tanpa makna.
 
 Secara matematis, kita bisa memandang nilai sebuah pengalaman $V$ sebagai fungsi dari waktu yang tersedia $T$:
-$$
 
+<div>
+$$
 V \propto \frac{1}{T}
 $$
+</div>
 
 Jika waktu $T$ mendekati tak terhingga ($\infty$), maka nilai $V$ dari satu momen tunggal akan mendekati nol ($0$). Namun, karena hidup kita memiliki batas $T$ yang nyata, maka setiap momen $V$ memiliki nilai yang sangat besar.
 
@@ -11397,8 +11141,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11604,9 +11348,11 @@ Menaruh seluruh elemen di tingkat teratas (root) pada proyek besar berisiko meni
 
 Modul dapat disusun bertingkat (sub-modul) layaknya folder di dalam folder. Secara matematis, hubungan ini digambarkan sebagai relasi himpunan bagian:
 
+<div>
 $$
-\\text{Modul}_{\\text{Anak}} \\subset \\text{Modul}_{\\text{Induk}} \\subset \\text{Crate}
+\text{Modul}_{\text{Anak}} \subset \text{Modul}_{\text{Induk}} \subset \text{Crate}
 $$
+</div>
 
 Struktur restoran berikut menggambarkan hierarki tersebut:
 
@@ -12437,7 +12183,7 @@ fn process_user_data(data: &str) -> JsonResult<()> {
 
 ### Analogi Efisiensi
 
-Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan $f(x, y, z) = \\frac{x^2 + y^2}{z}$, daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: $\\int_{0}^{1} \\frac{x^2 + y^2}{z} dx$ Kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
+Dalam matematika, jika kita memiliki variabel kompleks, kita sering memisalkannya: Misalkan $f(x, y, z) = \frac{x^2 + y^2}{z}$, daripada menuliskan seluruh rumus tersebut berulang kali dalam integrasi: $\int\_{0}^{1} \frac{x^2 + y^2}{z} dx$, kita cukup merujuk pada $f(x, y, z)$. Kata kunci `use` adalah cara Rust melakukan "pemisalan" tersebut untuk mempermudah operasi kode kita.
 
 ## Ringkasan Cepat
 
@@ -13270,8 +13016,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13307,10 +13053,11 @@ Setelah mengamati banyak individu, mulai dari anak-anak berbakat (*prodigies*), 
 
 Dalam waktu yang sangat lama, standar ukuran kecerdasan manusia dikendalikan oleh tes IQ (*Intelligence Quotient*). Rumus dasar yang sering dipakai adalah:
 
+<div>
 $$
-
-IQ = \\frac{MA}{CA} \\times 100
+IQ = \frac{MA}{CA} \times 100
 $$
+</div>
 
 *Di mana $MA$ mewakili Usia Mental (Mental Age) dan $CA$ mewakili Usia Kronologis (Chronological Age).*
 
@@ -13393,9 +13140,11 @@ Dari sudut pandang anatomi otak, pemrosesan bahasa sangat bergantung pada dua ar
 
 Efisiensi otak dalam memproses bahasa dapat diilustrasikan lewat model sederhana berikut:
 
+<div>
 $$
 \text{Efisiensi} = \frac{\text{Kekayaan Kosakata} \times \text{Konteks}}{\text{Hambatan Komunikasi}}
 $$
+</div>
 
 Semakin kaya kosakata dan penguasaan konteks, semakin efisien pula komunikasinya, asalkan faktor penghambat seperti miskomunikasi atau kebisingan bisa ditekan serendah mungkin.
 
@@ -13446,25 +13195,26 @@ Dalam ranah rekayasa teknologi, pondasi ini bermetamorfosis menjadi kemampuan be
 
 Ambil situasi ketika kamu harus memburu sebuah angka di tumpukan data berurutan. Mengecek setiap entri secara sekuensial jelas menyita sumber daya. Pikiran analitis spontan merespons dengan pendekatan membelah porsi pencarian secara bertahap, semacam *Binary Search*.
 
-```python
-def binary_search(arr, target):
-    low = 0
-    high = len(arr) - 1
-    
-    while low <= high:
-        mid = (low + high) // 2
-        # Setiap iterasi melipatgandakan kecepatan dengan mereduksi setengah kemungkinan
-        if arr[mid] == target:
-            return f"Data ditemukan di indeks {mid}"
-        elif arr[mid] < target:
-            low = mid + 1
-        else:
-            high = mid - 1
-            
-    return "Data tidak ditemukan"
+Caranya, lihat data yang berada tepat di tengah tumpukan, yang tersusun dari nilai terkecil sampai terbesar. Kalau data tengah itu sama dengan angka yang dicari, pencarian selesai. Kalau lebih kecil, separuh kiri dibuang dan pencarian berlanjut di separuh kanan. Kalau lebih besar, separuh kanan yang dibuang dan pencarian berlanjut di separuh kiri. Langkah ini diulang sampai angkanya ketemu, atau sampai tidak ada lagi data yang tersisa, dan saat itulah angka tersebut dinyatakan tidak ada.
+
+Putaran membelah tumpukan itu bisa digambar sebagai alur yang berulang sampai angkanya ketemu atau datanya habis:
+
+```mermaid
+flowchart TD
+    accTitle: Alur pencarian biner pada data berurutan
+    accDescr: Selama masih ada data tersisa, lihat data di tengah. Jika sama dengan angka yang dicari, angka ditemukan. Jika lebih kecil, pencarian berlanjut di separuh kanan, dan jika lebih besar, pencarian berlanjut di separuh kiri, lalu langkah diulang. Jika data sudah habis, angka dinyatakan tidak ada.
+    S["Tumpukan data berurutan"] --> A{"Masih ada data tersisa?"}
+    A -->|"ya"| B["Lihat data di tengah"]
+    A -->|"tidak"| F["Angka tidak ada"]
+    B --> C{"Data tengah dibanding angka yang dicari"}
+    C -->|"sama"| D["Angka ditemukan"]
+    C -->|"lebih kecil"| E["Lanjut di separuh kanan"]
+    C -->|"lebih besar"| G["Lanjut di separuh kiri"]
+    E --> A
+    G --> A
 ```
 
-Ada landasan mekanika kokoh di balik blok instruksi di atas. Percepatannya bertumpu pada formula $T(n) = T(n/2) + c$. Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
+Ada landasan mekanika kokoh di balik cara kerja ini. Percepatannya bertumpu pada formula $T(n) = T(n/2) + c$. Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
 
 ### 4. Pendekatan Asah Nalar Sesuai Karakter
 
@@ -13482,7 +13232,7 @@ Cakupan daya pikir ini membentang melampaui teritorial ujian kalkulus. Jejaknya 
 
 Di lanskap ekonomi dan finansial, instrumen kuantitatif dikerahkan membongkar tren bursa serta memetakan probabilitas risiko berpijak pada landasan rasio dan statistik. Profesi pengolahan data mengadopsi manuver serupa; jutaan data mentah dirangkum jadi panduan langkah, seperti melacak persebaran epidemi murni berlandaskan densitas dan laju mobilisasi harian massa.
 
-Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: $\sum F_x = 0$, $\sum F_y = 0$, dan $\sum M = 0$.
+Arena peradilan tak kalah menuntut daya pilar matematis ini. Praktisi hukum bertugas memilin serpihan fakta keonggokan berkas menjadi argumen tebal yang saling mengikat dan kebal patahan logika balasan. Terakhir, rekayasa sipil menjadi arena eksekusi fisik; kelangsungan struktur masif seperti jembatan bersandar utuh pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
 
 ### 6. Memanaskan Kinerja Logika
 
@@ -13517,9 +13267,12 @@ Kecerdasan ini melibatkan pengolahan informasi dalam tiga dimensi: $x, y, \text{
 > Bayangkan pikiran kamu adalah sebuah perangkat lunak desain 3D. Kamu bisa memasukkan objek, memutarnya $180^\circ$, mengubah warnanya, dan melihat bayangan yang jatuh di atasnya, semua terjadi sebelum tangan kamu menyentuh alat fisik apa pun.
 
 Dalam matematika dan fisika, hal ini sering digunakan untuk memvisualisasikan vektor atau koordinat:
+
+<div>
 $$
 \vec{v} = xi + yj + zk
 $$
+</div>
 
 Orang dengan spasial yang baik mampu memproyeksikan posisi titik tersebut dalam ruang hampa secara mental.
 
@@ -13549,27 +13302,15 @@ Pilot dan kapten kapal harus terus mengorientasikan diri di ruang tanpa batas fi
 
 Untuk mengakomodasi cara belajar yang berbeda, pengembangan kecerdasan ini dapat dilakukan melalui beberapa metode. Kamu bisa memanfaatkan *mind mapping*, infografis, dan diagram alur untuk mencerna informasi yang rumit. Selain itu, membuat model fisik dari tanah liat, kardus, atau merancang struktur menggunakan perangkat lunak CAD (Computer-Aided Design) juga memberikan dorongan besar. Bagi sebagian orang, mendengarkan deskripsi detail mengenai tata letak sebuah ruangan lalu mencoba menggambarkannya kembali adalah latihan visualisasi yang efektif.
 
-Di bidang pemrograman dan rekayasa data, merepresentasikan informasi spasial secara visual sangat diperlukan. Berikut adalah contoh penerapan Python untuk memplot objek 3D:
+Di bidang pemrograman dan rekayasa data, merepresentasikan informasi spasial secara visual sangat diperlukan. Contohnya, komputer dapat menggambar kerangka sebuah bola tiga dimensi hanya dari tiga persamaan berikut:
 
-```python
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import Axes3D
-import numpy as np
+<div>
+$$
+x = \cos u \sin v \quad y = \sin u \sin v \quad z = \cos v
+$$
+</div>
 
-fig = plt.figure()
-ax = fig.add_subplot(111, projection=''3d'')
-
-# Membuat data untuk bola (sphere)
-u, v = np.mgrid[0:2*np.pi:20j, 0:np.pi:10j]
-x = np.cos(u)*np.sin(v)
-y = np.sin(u)*np.sin(v)
-z = np.cos(v)
-
-ax.plot_wireframe(x, y, z, color="r")
-plt.show()
-```
-
-Mengeksekusi kode di atas dapat memperlihatkan secara langsung bagaimana persamaan matematika dikonversi menjadi bentuk ruang yang nyata.
+Sudut $u$ bergerak dari $0$ sampai $2\pi$, sedangkan sudut $v$ bergerak dari $0$ sampai $\pi$. Setiap pasangan sudut menghasilkan satu titik $(x, y, z)$ di permukaan bola. Ketika titik-titik itu disambung dengan garis, tampaklah kerangka bola di dalam ruang. Contoh ini menunjukkan bahwa persamaan matematika dapat diubah menjadi bentuk ruang yang nyata.
 
 ## 6\. Sang Penjelajah Hutan
 
@@ -13612,12 +13353,13 @@ Mereka juga sangat mengandalkan ingatan otot (*muscle memory*) untuk menyimpan p
 
 ## Fisika Gerakan Tubuh
 
-Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E_k$) menjadi energi potensial gravitasi ($E_p$).
+Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
 
+<div>
 $$
-
 E_k = \frac{1}{2}mv^2 \rightarrow E_p = m \cdot g \cdot h
 $$
+</div>
 
 Dalam persamaan ini, $m$ mewakili massa tubuh dan $v$ adalah kecepatan atlet saat berlari. Komponen $g$ adalah gravitasi bumi, sementara $h$ merujuk pada target ketinggian lompatan.
 
@@ -13641,28 +13383,36 @@ Sebagai langkah awal, eksekusi gerakan imajiner itu dengan sangat lambat (sekita
 
 Sering kali kita tidak sadar bahwa *muscle memory* ini sangat dominan dalam keseharian. Misalnya saat mengetik PIN ATM, banyak orang lebih mengingat pola pergerakan jemari di atas tombol *keypad* dibanding deretan angka kombinasinya itu sendiri.
 
-## Implementasi dalam Logika Algoritme
+## Lengan Robot yang Melambat Menjelang Sasaran
 
-Dalam lingkup komputasi dan teknik, logika gerakan fisik ini menjadi fondasi utama pada sistem kontrol robotika. Kode di bawah menyimulasikan algoritme penyesuaian motorik halus pada aktuator *robotic arm* yang meniru sifat kinestetik alami manusia.
+Dalam lingkup komputasi dan teknik, logika gerakan fisik ini menjadi fondasi utama pada sistem kontrol robotika. Penyesuaian motorik halus pada aktuator *robotic arm* yang meniru sifat kinestetik alami manusia bisa diatur dengan dua aturan yang diulang terus. Sebagai angka ilustrasi, pada setiap langkah lengan hanya bergerak sepersepuluh dari sisa jarak ke sasaran:
 
-```python
-# Simulasi Kontrol Presisi Lengan Robot
-def gerak_presisi(target_posisi, posisi_sekarang):
-    presisi = 0.01
-    while abs(target_posisi - posisi_sekarang) > presisi:
-        jarak = target_posisi - posisi_sekarang
-        
-        # Sistem saraf melambatkan laju saat mendekati target (damping)
-        kecepatan = jarak * 0.1
-        posisi_sekarang += kecepatan
-        print(f"Posisi lengan: {posisi_sekarang:.4f}")
-        
-    print("Sumbu presisi tercapai.")
+<div>
+$$
+\text{kecepatan} = \frac{1}{10} \times \text{sisa jarak}
+$$
+</div>
 
-gerak_presisi(target_posisi=10.0, posisi_sekarang=0.0)
-```
+Posisi lengan lalu diperbarui dengan kecepatan tersebut:
 
-Fungsi iterasi di atas bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
+<div>
+$$
+\text{posisi baru} = \text{posisi lama} + \text{kecepatan}
+$$
+</div>
+
+Dengan angka ilustrasi yang sama, anggap lengan mulai dari posisi 0 dan sasarannya di posisi 10. Empat langkah pertama berjalan seperti ini:
+
+| Langkah | Sisa jarak | Kecepatan | Posisi baru |
+| --- | --- | --- | --- |
+| 1 | 10 | 1 | 1 |
+| 2 | 9 | 0,9 | 1,9 |
+| 3 | 8,1 | 0,81 | 2,71 |
+| 4 | 7,29 | 0,729 | 3,439 |
+
+Dalam contoh ini, gerakan berhenti ketika sisa jarak tidak lebih dari 0,01. Dengan aturan ini, batas itu baru terlewati pada langkah ke-66, saat sisa jaraknya tinggal sekitar 0,0096 dan lengan berada di posisi sekitar 9,99. Langkah awal besar, langkah akhir sangat kecil.
+
+Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
 
 Kecerdasan fisik pada akhirnya membuktikan bahwa fungsi tubuh merupakan medium eksekusi yang integral dengan proses analisis ruang. Keterampilan motorik inilah yang menjembatani parameter teoretis agar bisa dirakit menjadi instrumen nyata.
 
@@ -13687,9 +13437,11 @@ Ini adalah kemampuan membedakan tinggi rendahnya suara. Orang dengan kecerdasan 
 
 Kemampuan merasakan denyut atau detak dalam suara menjadi fondasi pewaktuan dalam musik. Jika kita melihat musik dari sisi matematis, frekuensi nada $f$ berhubungan terbalik dengan periode $T$: 
 
+<div>
 $$
 f = \frac{1}{T}
 $$
+</div>
 
 Individu yang cerdas secara musikal dapat merasakan fluktuasi halus dalam variabel waktu tersebut secara intuitif.
 
@@ -13713,13 +13465,15 @@ Beberapa tanda seseorang memiliki kecerdasan ini bisa diamati dari keseharian. S
 
 ## 4. Aplikasi dalam Dunia Nyata dan Karir
 
-Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) $\text{RT}_{60}$ menggunakan rumus Sabine: 
+Kemampuan musikal berguna di berbagai bidang profesional di luar menjadi musisi. Di bidang teknik akustik dan audio, kemampuan ini dipakai untuk merancang ruang agar frekuensi suara terdistribusi merata. Mereka menghitung waktu dengung (reverberation time) $\text{RT}\_{60}$ menggunakan rumus Sabine: 
 
+<div>
 $$
 \text{RT}_{60} = \frac{0.161 \cdot V}{\text{S}_a}
 $$
+</div>
 
-di mana $V$ adalah volume ruangan dan $\text{S}_a$ adalah total penyerapan suara.
+di mana $V$ adalah volume ruangan dan $\text{S}\_a$ adalah total penyerapan suara.
 
 Pada dunia medis, terapi musik memanfaatkan ritme dan melodi untuk rehabilitasi pasien atau mendampingi anak berkebutuhan khusus. Di sektor teknologi, software engineer audio membuat algoritma untuk kompresi data suara atau menyintesis efek di dalam video game. Profesi seperti editor film juga bergantung pada kecerdasan ini saat mengatur alur adegan berdasarkan harmoni visual serta ritme dialog.
 
@@ -13733,27 +13487,17 @@ Pembelajar tipe ini dapat memanfaatkan pola suara dalam proses belajar. Mendenga
 
 Metode belajar lainnya meliputi pembuatan rima, sajak, atau mnemonic dari deretan istilah sulit. Menyinkronkan memori otot dan auditori juga efektif untuk mengunci konsentrasi, contohnya dengan mengetukkan jari tiap kali menelusuri poin penting di modul pelajaran.
 
-## 6. Pemrograman Berbasis Suara
+## 6. Nada dari Rumus Gelombang
 
-Penerapan kecerdasan musikal sangat relevan di dalam penulisan kode. Contohnya, menulis skrip untuk menghasilkan bunyi dari fungsi gelombang menggunakan bahasa Python:
+Kecerdasan musikal juga relevan di dunia pemrograman. Sebuah nada murni bisa disusun komputer dari rumus gelombang sinus:
 
-```python
-import numpy as np
+<div>
+$$
+y(t) = A \sin(2\pi f t)
+$$
+</div>
 
-def generate_tone(frequency, duration, sample_rate=44100):
-    """
-    Menghasilkan gelombang sinus untuk nada tertentu.
-    Formula: y(t) = A * sin(2 * pi * f * t)
-    """
-    t = np.linspace(0, duration, int(sample_rate * duration), False)
-    # Menghasilkan nada berdasarkan frekuensi (f)
-    tone = np.sin(2 * np.pi * frequency * t)
-    return tone
-
-# Menghasilkan nada A4 (440 Hz) selama 1 detik
-nada_a = generate_tone(440, 1.0)
-print("Nada berhasil dikomposisi secara matematis!")
-```
+Di sini $A$ adalah amplitudo gelombang, $f$ adalah frekuensi nada, dan $t$ adalah waktu. Sebagai ilustrasi, ambil nada A4 dengan frekuensi $f = 440$ Hz yang dibunyikan selama 1 detik. Gelombangnya berulang 440 kali dalam satu detik itu, dan komputer menghitung nilai $y$ di banyak titik waktu sehingga terkumpul deretan angka yang menggambarkan bentuk gelombang nada tersebut.
 
 Bayangkan apabila alur eksekusi atau rentetan log eror sebuah aplikasi bisa divisualisasikan menjadi bentuk notasi suara. Pola bunyi yang janggal secara otomatis menjadi semacam alarm intuitif, membantu programmer mendeteksi letak bug lebih tanggap.
 
@@ -13788,9 +13532,11 @@ Pernahkah kamu merasa yakin bahwa seseorang sedang berbohong meskipun kata-katan
 
 Secara psikologis, kecerdasan ini memproses berbagai informasi sosial yang hilir mudik. Mekanismenya bisa disederhanakan dalam alur berikut:
 
+<div>
 $$
 \text{Kecerdasan Interpersonal} = (\text{Observasi} + \text{Interpretasi}) \times \text{Respons yang Tepat}
 $$
+</div>
 
 Fase observasi melibatkan pengumpulan data mentah, seperti menangkap frekuensi nada suara $f$ atau detail ekspresi wajah $e$. Data ini kemudian masuk ke fase interpretasi untuk diberi makna, apakah lawan bicara sedang sedih, atau mungkin sekadar lelah? Berdasarkan makna tersebut, muncul sebuah respons berupa tindakan yang diambil untuk membawa situasi ke arah yang lebih baik.
 
@@ -13808,37 +13554,22 @@ Hal serupa berlaku di bidang pendidikan. Guru yang efektif menggunakan sensitivi
 
 Bagi kamu yang terbiasa berpikir prosedural, dinamika ini bisa dibayangkan layaknya sistem logika percabangan yang berjalan otomatis.
 
-```python
-## Simulasi Logika Interpersonal dalam Konflik
-def respon_sosial(status_emosi_lawan, intensitas_argumen):
-    if status_emosi_lawan == "Marah":
-        if intensitas_argumen > 8:
-            return "Dengarkan secara aktif, jangan membantah sekarang."
-        else:
-            return "Validasi perasaan mereka, lalu ajak bicara pelan."
-    elif status_emosi_lawan == "Sedih":
-        return "Tunjukkan empati dan tawarkan dukungan tanpa menghakimi."
-    else:
-        return "Lanjutkan komunikasi terbuka."
+Titik awalnya adalah status emosi lawan bicara. Kalau ia marah dan intensitas argumennya sangat tinggi, dengarkan secara aktif dan jangan membantah sekarang. Kalau ia marah tetapi intensitasnya lebih rendah, validasi perasaannya, lalu ajak bicara pelan. Kalau ia sedih, tunjukkan empati dan tawarkan dukungan tanpa menghakimi. Di luar keadaan itu, lanjutkan komunikasi terbuka.
 
-## Output untuk skenario emosi tinggi
-print(respon_sosial("Marah", 9))
-```
-
-Tanpa sintaks Python, percabangan yang sama tampak seperti ini.
+Keempat jalur respons tersebut bisa digambar sebagai percabangan berikut:
 
 ```mermaid
 flowchart TD
     accTitle: Percabangan respons sosial dalam konflik
-    accDescr: Status emosi lawan bicara menentukan respons. Jika marah dan intensitas argumen di atas 8, dengarkan secara aktif; jika marah dengan intensitas lebih rendah, validasi perasaan lalu ajak bicara pelan; jika sedih, tunjukkan empati; selain itu, lanjutkan komunikasi terbuka.
-    A{"Status emosi lawan bicara?"} -->|"Marah"| B{"Intensitas argumen di atas 8?"}
+    accDescr: Status emosi lawan bicara menentukan respons. Jika marah dan intensitas argumen sangat tinggi, dengarkan secara aktif; jika marah dengan intensitas lebih rendah, validasi perasaan lalu ajak bicara pelan; jika sedih, tunjukkan empati; selain itu, lanjutkan komunikasi terbuka.
+    A{"Status emosi lawan bicara?"} -->|"Marah"| B{"Intensitas argumen sangat tinggi?"}
     B -->|"ya"| C["Dengarkan secara aktif, jangan membantah sekarang"]
     B -->|"tidak"| D["Validasi perasaan mereka, lalu ajak bicara pelan"]
     A -->|"Sedih"| E["Tunjukkan empati dan tawarkan dukungan tanpa menghakimi"]
     A -->|"Lainnya"| F["Lanjutkan komunikasi terbuka"]
 ```
 
-Dalam realitasnya, "kode" semacam ini dieksekusi oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
+Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
 
 ## Melatih Otot Interpersonal
 
@@ -13896,9 +13627,11 @@ Individu yang menonjol dalam kecerdasan ini biasanya menunjukkan beberapa ciri:
 
 Secara teknis, kecerdasan intrapersonal bisa dilihat sebagai fungsi evaluasi internal. Rumus sederhananya adalah:
 
+<div>
 $$
 \text{Keputusan}_{\text{Optimal}} = (\text{Kebutuhan} \times \text{Nilai}) - (\text{Ego} + \text{Tekanan Luar})
 $$
+</div>
 
 Di mana:
 
@@ -13974,9 +13707,11 @@ Mengapa kecerdasan ini berperan besar? Secara historis, kecerdasan naturalis men
 
 Para leluhur kita menggunakan kemampuan ini untuk membedakan mana tumbuhan yang aman dimakan dan mana yang beracun. Mereka perlu memahami reaksi kimia alamiah secara intuitif, seperti mengenali proses fotosintesis secara visual untuk membedakan tanaman yang sehat dan yang sakit:
 
+<div>
 $$
-6\text{CO}_2 + 6\text{H}_2\text{O} \\xrightarrow{\\text{cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
+6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
 $$
+</div>
 
 Jika seorang pemburu-pengumpul tidak bisa membedakan antara jejak kaki macan tutul dan kijang, atau tidak memahami pola migrasi hewan, maka risiko kematian menjadi lebih tinggi. Di era modern, sirkuit saraf yang sama kerap digunakan untuk membedakan merek mobil, gaya busana, atau pola data dalam riset saintifik.
 
@@ -14075,10 +13810,11 @@ Gagasan-gagasan filsafat juga memperluas rentang perspektif dalam menilai kehidu
 
 Ketertarikan pada wawasan luas semesta sering beririsan dengan pemodelan saintifik berskala tak wajar. Sebagai gambaran, rasio total estimasi jumlah bintang di seantero alam semesta teramati biasa direpresentasikan lewat fungsi matematis:
 
+<div>
 $$
-
 N = 10^{22} \text{ hingga } 10^{24} \text{ bintang}
 $$
+</div>
 
 Bagi kecerdasan eksistensial, hamparan eksponen tersebut menjadi pemicu *awe* atau perasaan takjub, mematahkan batasan nalar sebatas catatan statistik. Fakta besarnya kosmos tersebut terus-menerus menegaskan betapa berharganya kehidupan di tengah kesunyian absolut.
 
@@ -14155,23 +13891,24 @@ Sebagai ilustrasi, Teori MI dapat diterapkan secara menyeluruh dalam satu unit p
 
 ## 5. Struktur Kurikulum Berbasis MI
 
-Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk ke dalam format terstruktur.
+Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk ke dalam format terstruktur. Contohnya seperti modul berikut.
 
-```markdown
-# Modul Pembelajaran: Revolusi Industri
-
-## Tujuan Pembelajaran:
-Siswa mampu memetakan dampak sosial dan teknologi dari era Revolusi Industri.
-
-## Aktivitas Pilihan (Pilih minimal 2):
-- **Linguistik:** Buatlah "Surat dari Buruh Pabrik" berlatar tahun 1850.
-- **Logis:** Rancang lini masa perbandingan *output* produksi antara sebelum dan sesudah penemuan mesin uap.
-- **Visual:** Desain poster propaganda yang menyuarakan pro atau kontra terhadap urbanisasi.
-- **Interpersonal:** Selenggarakan debat antara kelompok pemilik pabrik dan kelompok aktivis hak pekerja.
-
-## Refleksi (Intrapersonal):
-"Jika kamu hidup di masa tersebut, bagian mana dari Revolusi Industri yang paling berbenturan dengan nilai-nilai pribadi kamu?"
-```
+> **Modul Pembelajaran Revolusi Industri**
+>
+> **Tujuan Pembelajaran**
+>
+> Siswa mampu memetakan dampak sosial dan teknologi dari era Revolusi Industri.
+>
+> **Pilih minimal 2 aktivitas berikut**
+>
+> - **Linguistik:** Buatlah "Surat dari Buruh Pabrik" berlatar tahun 1850.
+> - **Logis:** Rancang lini masa perbandingan *output* produksi antara sebelum dan sesudah penemuan mesin uap.
+> - **Visual:** Desain poster propaganda yang menyuarakan pro atau kontra terhadap urbanisasi.
+> - **Interpersonal:** Selenggarakan debat antara kelompok pemilik pabrik dan kelompok aktivis hak pekerja.
+>
+> **Refleksi intrapersonal**
+>
+> "Jika kamu hidup di masa tersebut, bagian mana dari Revolusi Industri yang paling berbenturan dengan nilai-nilai pribadi kamu?"
 
 ## 6. Tantangan dan Tips Praktis bagi Pendidik
 
@@ -14275,9 +14012,11 @@ Selain itu, para ahli psikometri menemukan korelasi ketika mencoba mengukur berb
 
 Psikolog Charles Spearman mengusulkan konsep $g$ (*general intelligence*). Data statistik menunjukkan bahwa orang yang unggul dalam tes logika cenderung juga memiliki kemampuan verbal yang baik. Persamaan yang sering digunakan dalam konteks ini adalah:
 
+<div>
 $$
 \text{Skor Tes} = g + s (\text{kemampuan spesifik})
 $$
+</div>
 
 Banyak kritikus berpendapat bahwa Gardner gagal menjelaskan mengapa faktor $g$ ini selalu muncul dalam hampir setiap penelitian tentang kemampuan manusia.
 
@@ -14427,8 +14166,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14694,28 +14433,22 @@ Tidak semua data didapatkan dengan cara yang sama. Industri membaginya menjadi e
 
 ### 4. Bagaimana Algoritma Melihat Kamu?
 
-Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan kode dan angka dalam sebuah basis data. Berikut adalah gambaran sederhana bagaimana sebuah profil pengguna disimpan dalam format JSON untuk diproses oleh algoritma:
+Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan label dan angka dalam sebuah basis data. Tabel berikut adalah gambaran sederhana isi profil seorang pengguna rekaan yang siap diproses oleh algoritma (semua nilainya contoh rekaan):
 
-```json
-{
-  "user_id": "u987654321",
-  "demographics": {
-    "age_range": "25-34",
-    "gender": "female",
-    "location": "Jakarta Selatan"
-  },
-  "interests": ["minimalist_interior", "sustainable_fashion", "k-drama"],
-  "behavioral_score": {
-    "tech_savvy": 0.85,
-    "impulse_buyer_index": 0.72,
-    "travel_frequency": "high"
-  },
-  "recent_searches": ["meja kerja kayu jati", "tanaman indoor murah"],
-  "active_device": "iPhone 15 Pro"
-}
-```
+| Kelompok | Atribut | Nilai |
+| --- | --- | --- |
+| Identitas | ID pengguna | u987654321 |
+| Demografis | Rentang usia | 25-34 |
+| Demografis | Jenis kelamin | Perempuan |
+| Geografis | Lokasi | Jakarta Selatan |
+| Minat | Topik yang disukai | Interior minimalis, fesyen berkelanjutan, drama Korea |
+| Perilaku | Skor melek teknologi | 0,85 |
+| Perilaku | Indeks pembeli impulsif | 0,72 |
+| Perilaku | Frekuensi bepergian | Tinggi |
+| Perilaku | Pencarian terakhir | "meja kerja kayu jati", "tanaman indoor murah" |
+| Perangkat | Perangkat aktif | iPhone 15 Pro |
 
-Dalam matematika statistik, probabilitas kamu akan mengklik iklan tertentu ($P$) dapat dirumuskan secara sederhana sebagai fungsi dari variabel-variabel tersebut:
+Dalam matematika statistik, probabilitas kamu akan mengklik iklan tertentu ($P$) dapat dirumuskan secara sederhana sebagai fungsi dari data profil seperti itu, ditambah satu unsur lagi, yaitu konteks:
 
 $$
 P(\text{Click}) = f(\text{Demografi}, \text{Minat}, \text{Perilaku}, \text{Konteks})
@@ -14795,45 +14528,25 @@ Salah satu keajaiban teknis algoritma penargetan adalah kecepatannya. Seluruh pr
 4. **Selection:** Iklan dengan skor tertinggi (dan bid tertinggi) dipilih.
 5. **Rendering:** Iklan muncul di layar kamu.
 
-### 4. Contoh Kode Skor Penargetan
+### 4. Menghitung Skor Sebuah Iklan
 
-Berikut adalah contoh logika sederhana dalam Python tentang bagaimana sebuah sistem memberikan skor pada sebuah iklan untuk pengguna tertentu:
+Bagaimana sebuah sistem memberikan skor pada sebuah iklan untuk pengguna tertentu? Salah satu logika paling sederhana adalah mengalikan minat pengguna terhadap kategori iklan (dalam skala 0-1) dengan harga bid yang ditawarkan pengiklan:
 
-```python
-# Data User (Minat dalam skala 0-1)
-user_profile = {
-    "gadget": 0.9,
-    "fashion": 0.2,
-    "travel": 0.5
-}
+<div>
+$$
+\text{Skor} = \text{Minat} \times \text{Bid}
+$$
+</div>
 
-# Daftar Iklan yang tersedia
-ads_inventory = [
-    {"id": "Ad_Smartphone_X", "category": "gadget", "bid_price": 500},
-    {"id": "Ad_Luxury_Watch", "category": "fashion", "bid_price": 1200},
-    {"id": "Ad_Bali_Trip", "category": "travel", "bid_price": 800}
-]
+Misalkan seorang pengguna punya minat 0,9 pada gadget, 0,2 pada fashion, dan 0,5 pada travel, sementara tiga iklan bersaing memperebutkan layarnya (semua angka ini angka ilustrasi). Setelah dihitung dan diurutkan dari skor tertinggi, hasilnya seperti ini:
 
-def calculate_ad_relevance(user, ads):
-    recommendations = []
-    for ad in ads:
-        # Rumus sederhana: Skor = Minat User * Harga Bid
-        interest_score = user.get(ad["category"], 0)
-        final_score = interest_score * ad["bid_price"]
-        
-        recommendations.append({
-            "ad_id": ad["id"],
-            "score": final_score
-        })
-    
-    # Urutkan berdasarkan skor tertinggi
-    return sorted(recommendations, key=lambda x: x[''score''], reverse=True)
+| Peringkat | Iklan | Kategori | Minat pengguna | Bid | Skor |
+| --- | --- | --- | --- | --- | --- |
+| 1 | Smartphone X | Gadget | 0,9 | 500 | 450 |
+| 2 | Bali Trip | Travel | 0,5 | 800 | 400 |
+| 3 | Luxury Watch | Fashion | 0,2 | 1.200 | 240 |
 
-# Eksekusi
-print(calculate_ad_relevance(user_profile, ads_inventory))
-```
-
-Dalam skenario di atas, meskipun iklan "Luxury Watch" memiliki bayaran (bid) tertinggi, iklan "Smartphone X" mungkin menang karena skor minat pengguna terhadap gadget sangat tinggi (0.9).
+Dalam hitungan ini, meskipun iklan "Luxury Watch" memiliki bayaran (bid) tertinggi, iklan "Smartphone X" menang karena skor minat pengguna terhadap gadget sangat tinggi (0,9). Luxury Watch justru jatuh ke urutan terakhir karena minat pengguna pada fashion hanya 0,2.
 
 ### 5. Keranjang Belanja yang Ditinggalkan
 
@@ -14906,11 +14619,13 @@ sequenceDiagram
     Note over S: Data yang diterima berupa alamat IP, waktu kunjungan, jenis perangkat dan peramban, serta aktivitas spesifik seperti tombol “Beli”
 ```
 
-**Contoh Kode Sederhana:** Secara teknis, sebuah pixel bisa terlihat sesederhana baris kode HTML berikut:
+**Wujud Aslinya:** Di dalam sebuah halaman web, pixel bisa sesederhana satu baris HTML berikut:
 
 ```html
 <img src="https://adserver.com/pixel?user_id=12345&event=view_product" width="1" height="1" style="display:none;">
 ```
+
+Artinya, peramban diminta memuat gambar berukuran $1 \times 1$ piksel yang disembunyikan dari layar, dan alamat gambar itu sekaligus membawa pesan untuk server pengiklan, yaitu nomor pengenal kamu (`user_id=12345`) dan aktivitas yang sedang kamu lakukan (`event=view_product`, yaitu melihat sebuah produk).
 
 ### 3. Pengidentifikasi Perangkat (Device Identifiers)
 
@@ -15146,34 +14861,16 @@ dengan $\epsilon$ adalah unit terkecil mata uang (misalnya USD 0,01).
 
 ### Struktur Bid Request
 
-Bagi kamu yang tertarik pada sisi teknis, berikut adalah contoh sederhana bagaimana data dikirimkan dari situs web ke sistem lelang dalam format JSON:
+Pesan yang dikirim dari situs web ke sistem lelang disebut *bid request*. Tabel berikut menguraikan isi sebuah contoh sederhana (semua nilainya contoh rekaan):
 
-```json
-{
-  "id": "89bda7b-1234",
-  "site": {
-    "name": "PortalBeritaKeren.com",
-    "category": "Otomotif"
-  },
-  "device": {
-    "os": "Android",
-    "geo": {
-      "city": "Jakarta",
-      "country": "IDN"
-    }
-  },
-  "user": {
-    "id": "user-99-xyz",
-    "interests": ["Sports", "Hiking"]
-  },
-  "imp": [
-    {
-      "banner": { "w": 300, "h": 250 },
-      "bidfloor": 1.50
-    }
-  ]
-}
-```
+| Bagian | Isi contoh | Artinya |
+| --- | --- | --- |
+| ID permintaan | 89bda7b-1234 | Penanda untuk satu permintaan iklan ini |
+| Situs | PortalBeritaKeren.com, kategori Otomotif | Tempat ruang iklan kosong itu berada |
+| Perangkat | Android | Sistem operasi perangkat kamu |
+| Lokasi | Jakarta, IDN (Indonesia) | Kota dan negara tempat kamu berada |
+| Pengguna | ID user-99-xyz, minat olahraga dan mendaki | Data anonim tentang kamu |
+| Ruang iklan | Banner 300 × 250, *bidfloor* 1,50 | Ukuran slot iklan dan batas bawah penawaran untuk slot itu |
 
 ### Jenis-Jenis Pembelian Programatik
 
@@ -15263,33 +14960,25 @@ Secara teknis, platform ini menggunakan model matematika untuk menghitung sebera
 
 Misalkan profil pelanggan ideal memiliki nilai dalam vektor untuk minat ($X$) dan frekuensi belanja ($Y$). Algoritma akan menghitung sudut antara vektor pengguna baru dengan vektor ideal tersebut.
 
+<div>
 $$
-\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}
+\text{similarity} = \cos(\theta) = \frac{\mathbf{A} \cdot \mathbf{B}}{\Vert\mathbf{A}\Vert \Vert\mathbf{B}\Vert}
 $$
+</div>
 
 Jika $\cos(\theta)$ mendekati 1, maka pengguna tersebut akan masuk ke dalam target iklan mikromu.
 
-#### Contoh Kode Sederhana (Pseudo-code)
+#### Menyaring Pecinta Kopi di Jakarta
 
-Bagaimana algoritma menyaring audiens berdasarkan kriteria mikro:
+Penyaringan audiens berdasarkan kriteria mikro bisa sangat sederhana. Misalkan target iklanmu adalah pecinta kopi di Jakarta dengan pengeluaran tinggi. Algoritma memeriksa setiap pengguna terhadap ketiga syarat itu, dan hanya yang memenuhi semuanya masuk daftar target:
 
-```python
-# Simulasi pemfilteran segmen mikro
-users = [
-    {"id": 1, "location": "Jakarta", "interests": ["coffee", "cycling"], "spend_habit": "high"},
-    {"id": 2, "location": "Bandung", "interests": ["gaming", "coffee"], "spend_habit": "low"},
-    {"id": 3, "location": "Jakarta", "interests": ["coffee", "yoga"], "spend_habit": "high"}
-]
+| Pengguna | Lokasi | Minat | Kebiasaan belanja | Masuk target? |
+| --- | --- | --- | --- | --- |
+| 1 | Jakarta | Kopi, bersepeda | Tinggi | Ya |
+| 2 | Bandung | *Gaming*, kopi | Rendah | Tidak |
+| 3 | Jakarta | Kopi, yoga | Tinggi | Ya |
 
-# Kriteria mikro-target: Pecinta kopi di Jakarta dengan pengeluaran tinggi
-def micro_target(user):
-    return (user[''location''] == "Jakarta" and 
-            "coffee" in user[''interests''] and 
-            user[''spend_habit''] == "high")
-
-target_list = list(filter(micro_target, users))
-print(f"Audiens Terpilih: {target_list}")
-```
+Pengguna 2 sebenarnya juga suka kopi, tetapi tersaring karena tinggal di Bandung dan kebiasaan belanjanya rendah.
 
 ### Studi Kasus & Aplikasi Dunia Nyata
 
@@ -15371,37 +15060,11 @@ Untuk menjaga kepercayaan konsumen, pengiklan dan pengembang teknologi harus mem
 
 ## 4. Consent Management Platform (CMP)
 
-Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Berikut adalah logika sederhana bagaimana sebuah situs web harus menangani skrip pelacakan berdasarkan pilihan pengguna.
+Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yang disebut **Consent Management Platform (CMP)**. Secara sederhana, beginilah cara sebuah situs web seharusnya menangani pelacak iklan berdasarkan pilihan pengguna di banner privasi:
 
-### Contoh Kode JavaScript
-
-```javascript
-// Fungsi untuk memuat tracker iklan hanya jika pengguna setuju
-function loadAdvertisingScripts() {
-    const userConsent = localStorage.getItem(''ad_consent'');
-
-    if (userConsent === ''granted'') {
-        console.log("Memuat skrip pelacakan iklan...");
-        // Kode untuk memicu Facebook Pixel atau Google Ads
-        // initializeAds();
-    } else {
-        console.log("Izin ditolak. Menggunakan iklan generatif tanpa pelacakan.");
-        // Tetap tampilkan iklan, tapi yang tidak dipersonalisasi
-    }
-}
-
-// Menangani klik pada banner privasi
-document.getElementById(''btn-accept'').addEventListener(''click'', () => {
-    localStorage.setItem(''ad_consent'', ''granted'');
-    loadAdvertisingScripts();
-});
-
-document.getElementById(''btn-decline'').addEventListener(''click'', () => {
-    localStorage.setItem(''ad_consent'', ''denied'');
-    // Pastikan semua cookie pelacakan yang ada dihapus
-    clearTrackingCookies();
-});
-```
+1. **Periksa dulu pilihan pengguna.** Sebelum memuat pelacak iklan (misalnya Facebook Pixel atau Google Ads), situs memeriksa pilihan yang tersimpan. Pelacak hanya dimuat jika pengguna sudah setuju. Jika pengguna belum setuju atau menolak, situs tetap menampilkan iklan, tetapi iklan yang tidak dipersonalisasi dan tanpa pelacakan.
+2. **Tombol "Setuju" ditekan.** Situs menyimpan persetujuan itu, lalu memuat pelacak iklan.
+3. **Tombol "Tolak" ditekan.** Situs menyimpan penolakan itu dan memastikan semua cookie pelacakan yang sudah ada dihapus.
 
 ## 5. Skandal Cambridge Analytica
 
@@ -15510,26 +15173,12 @@ Mari kita lihat bagaimana sebuah perusahaan *e-commerce* lokal harus bertindak a
 2. **Persetujuan (Consent):** Saat pengguna mendaftar, harus ada pilihan terpisah: "Saya setuju menerima iklan yang dipersonalisasi berdasarkan aktivitas saya". Jika pengguna menolak, TokoCepat tetap harus mengizinkan mereka berbelanja, meski tanpa iklan yang dipersonalisasi.
 3. **Keamanan Data:** Jika TokoCepat menggunakan pihak ketiga (misal: Google Ads) untuk retargeting, mereka harus memastikan pihak ketiga tersebut juga patuh pada UU PDP melalui kontrak hukum yang kuat.
 
-**Code Snippet Contoh (Logika Persetujuan Sederhana):**
+**Logika Persetujuan Sederhana:** Di balik layar, pilihan iklan yang dipersonalisasi itu dalam keadaan mati sejak awal (*Privacy by Default*), sejalan dengan larangan kotak centang yang sudah terisi otomatis. Pilihan itulah yang menentukan iklan apa yang dilihat pengguna:
 
-```javascript
-// Contoh logika sederhana manajemen persetujuan (Consent Management)
-const userConsent = {
-  marketing: false, // Default adalah false (Privacy by Default)
-  analytics: true,
-  essential: true
-};
-
-function showAd(userId) {
-  if (userConsent.marketing) {
-    console.log("Menampilkan iklan yang dipersonalisasi menggunakan algoritma...");
-    // Jalankan skrip tracking pixel di sini
-  } else {
-    console.log("Menampilkan iklan umum (Contextual Ad) tanpa data pribadi.");
-    // Hanya tampilkan iklan berdasarkan konten halaman, bukan profil pengguna
-  }
-}
-```
+| Pilihan iklan yang dipersonalisasi | Iklan yang tampil | Dasar pemilihan iklan |
+| --- | --- | --- |
+| Mati (keadaan awal) | Iklan umum (*Contextual Ad*) tanpa data pribadi | Isi halaman yang sedang dibuka, bukan profil pengguna |
+| Dinyalakan oleh pengguna | Iklan yang dipersonalisasi | Profil pengguna yang diolah algoritma, dengan *tracking pixel* aktif |
 
 ## 6. Ringkasan Prinsip Utama
 
@@ -15584,8 +15233,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15852,11 +15501,13 @@ Fredrickson membagi sumber daya ini ke dalam empat kategori utama:
 
 Secara matematis, akumulasi sumber daya pribadi ini dapat digambarkan sebagai fungsi dari waktu:
 
+<div>
 $$
-R_{\text{total}} = \int_{t_0}^{t_n} E_{\text{pos}}(t) \, dt
+R_{\text{total}} = \int_{t_0}^{t_n} E_{\text{pos}}(t) \ dt
 $$
+</div>
 
-Di mana $R$ melambangkan total Sumber Daya pribadi yang terbangun, sedangkan $E_{\text{pos}}$ melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
+Di mana $R$ melambangkan total Sumber Daya pribadi yang terbangun, sedangkan $E\_{\text{pos}}$ melambangkan intensitas serta frekuensi emosi positif sepanjang rentang waktu tertentu.
 
 ## 4. Efek Spiral ke Atas (The Upward Spiral)
 
@@ -16145,23 +15796,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 
-Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit.
-
-```python
-# Contoh pseudocode untuk menggambarkan ''feedback loop'' yang cepat
-# Pengembang memanfaatkan automated testing demi memperoleh umpan balik instan
-
-def test_encryption_logic():
-    # Tantangan: Algoritma enkripsi harus selesai dieksekusi kurang dari 10 ms
-    result = complex_encryption_algorithm(data)
-    
-    # Umpan balik instan: Jika asersi gagal, pengembang langsung mengetahui letak kesalahannya
-    assert result.is_secure == True
-    assert result.processing_time < 0.01
-
-# Berkat umpan balik otomatis ini, pengembang tetap berada di jalur fokus (''flow channel'')
-# tanpa terdistraksi oleh waktu tunggu yang lama.
-```
+Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
 
 **Pola Kerja Pendukung di Tempat Kerja:**
 
@@ -16401,9 +16036,11 @@ Dalam dunia neurosains, ada prinsip terkenal: *“Neurons that fire together, wi
 
 Secara matematis, hubungan antara frekuensi syukur $G$ terhadap tingkat kesejahteraan $W$ dapat digambarkan melalui fungsi akumulatif berikut:
 
+<div>
 $$
-W = \int_{t_0}^{t_1} f(G) \, dt
+W = \int_{t_0}^{t_1} f(G) \ dt
 $$
+</div>
 
 Persamaan ini menunjukkan bahwa semakin konsisten intensitas syukur yang dipraktikkan dalam suatu rentang waktu, semakin tinggi pula akumulasi kebahagiaan mental yang dirasakan.
 
@@ -16804,7 +16441,7 @@ Psikologi positif melampaui perasaan senang belaka. Ada bukti biologis konkret y
 
 ### Dampak Fisiologis Optimisme
 
-Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol ($\text{C}_{21}\text{H}_{30}\text{O}_5$) yang lebih rendah. Hal ini membawa dampak baik bagi tubuh:
+Individu yang optimis cenderung memiliki kadar hormon stres atau kortisol ($\text{C}\_{21}\text{H}\_{30}\text{O}\_5$) yang lebih rendah. Hal ini membawa dampak baik bagi tubuh:
 
 - **Sistem Imun:** Respons antibodi terhadap infeksi menjadi lebih aktif.
 - **Kesehatan Jantung:** Menekan risiko gangguan kardiovaskular.
@@ -16827,23 +16464,12 @@ Sebelum memulai hari atau membuka media sosial, tentukan satu kekuatan karakter 
 
 ### B. Latihan Three Good Things
 
-Setiap malam sebelum tidur, tuliskan tiga hal baik yang terjadi hari ini beserta penyebabnya.
+Setiap malam sebelum tidur, tuliskan tiga hal baik yang terjadi hari ini beserta penyebabnya. Sebagai contoh, dua baris pertama jurnalmu bisa berbunyi seperti ini:
 
-```python
-# Logika Sederhana Latihan Syukur
-def gratitude_journal(events):
-    for event in events:
-        print(f"Hal Baik: {event[''description'']}")
-        print(f"Penyebab: {event[''cause'']}")
-        print("---")
-
-hari_ini = [
-    {"description": "Mendapat kopi gratis", "cause": "Saya tersenyum ramah pada barista"},
-    {"description": "Menyelesaikan laporan tepat waktu", "cause": "Saya menggunakan teknik Flow"}
-]
-
-gratitude_journal(hari_ini)
-```
+| Hal baik | Penyebab |
+| --- | --- |
+| Mendapat kopi gratis | Saya tersenyum ramah pada barista |
+| Menyelesaikan laporan tepat waktu | Saya menggunakan teknik Flow |
 
 ### C. 4-7-8 Breathing Technique (Fisik)
 
@@ -16889,8 +16515,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17201,11 +16827,9 @@ Satu pembaca tidak harus masuk satu kotak saja. Kamu bisa dekat dengan komunitas
 Untuk menghitung kadar itu, SimClusters memakai matriks. Bayangkan matriks sebagai tabel: setiap baris mewakili satu hal, setiap kolom mewakili hal lain, dan setiap sel berisi angka yang menunjukkan seberapa kuat hubungan keduanya. Dua tabel yang ukurannya cocok bisa dikalikan untuk menghasilkan tabel baru. Rumus intinya adalah:
 
 <div>
-
 $$
 U = A V
 $$
-
 </div>
 
 - $A$ adalah tabel follow: baris berisi pembaca, kolom berisi akun produsen, dan selnya menandai siapa mengikuti siapa.
@@ -17221,11 +16845,9 @@ Post juga punya representasi sendiri. Saat baru terbit, representasinya kosong. 
 Setelah pembaca, akun, dan post punya vektor, sistem perlu cara membandingkannya. Salah satu ukuran yang dipakai SimClusters adalah cosine similarity:
 
 <div>
-
 $$
 \cos(a,b)=\frac{a\cdot b}{\lVert a\rVert \lVert b\rVert}
 $$
-
 </div>
 
 Pembilang $a\cdot b$ (dot product) mengalikan komponen kedua vektor yang sepadan lalu menjumlahkannya. Penyebut berisi panjang masing-masing vektor, sehingga yang tersisa adalah kesamaan arah, bukan besar angkanya. Karena ada pembagian, rumus ini hanya berlaku jika $a$ dan $b$ sama-sama bukan vektor nol. Hasilnya makin besar ketika dua pola makin searah.
@@ -17276,14 +16898,12 @@ Perhatikan sudut pandangnya. Model tidak bertanya apakah post ini benar atau apa
 Cara paling ringkas memahami bagian positif dari penggabungan skor lama adalah rumus berikut.
 
 <div>
-
 $$
 S_{+}=\sum_{i:w_i\geq 0} w_i p_i
 $$
-
 </div>
 
-Di sini $p_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p_i$ punya arti yang sama.
+Di sini $p\_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w\_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p\_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p\_i$ punya arti yang sama.
 
 Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi terhadap sebuah kandidat post. Kode tidak sedang memberimu satu poin setiap kali kamu menekan like. Aktivitasmu memang bisa menjadi masukan bagi tebakan berikutnya, tetapi hubungan itu bukan tabel poin tetap.
 
@@ -17291,18 +16911,16 @@ Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi 
 
 Rumus di atas sengaja disederhanakan. Berkas HomeGlobalParams menyimpan sekitar 30 parameter bobot yang nilai awalnya 0,0. Nilai sebenarnya diisi lewat konfigurasi permintaan dan sebuah optimizer yang memberi set bobot per pengguna. Jadi angka 0,0 itu bukan pengaruh nyata like atau bookmark di akunmu.
 
-Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
+Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S\_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
 
 ### Bobot yang Kini Dibuka
 
 Repositori baru, xai-org/x-algorithm, menuliskan skor akhir dengan lebih terbuka: untuk setiap aksi, bobot dikalikan peluang prediksinya, lalu semuanya dijumlahkan. Aksi positif mendapat bobot positif, aksi negatif mendapat bobot negatif.
 
 <div>
-
 $$
 \text{Skor akhir}=\sum_{i} w_i P(a_i)
 $$
-
 </div>
 
 Bobotnya tercantum di [berkas parameter peringkat](https://github.com/xai-org/x-algorithm/blob/main/home-mixer/params/param.rs). Berikut sebagian nilai bawaan per sinkronisasi 8 Oktober 2026.
@@ -17337,7 +16955,7 @@ Tidak ada pula kuota interaksi yang perlu dikejar, entah sekian like atau sekian
 ## Yang Perlu Kamu Ingat
 
 - Model menebak responsmu terhadap sebuah kandidat post, bukan menilai apakah post itu berguna.
-- Rumus $S_{+}$ hanya penyederhanaan, karena di implementasi lama bobot diisi konfigurasi dan optimizer, lalu skornya dikalikan lagi oleh faktor penyesuaian.
+- Rumus $S\_{+}$ hanya penyederhanaan, karena di implementasi lama bobot diisi konfigurasi dan optimizer, lalu skornya dikalikan lagi oleh faktor penyesuaian.
 - Bobot di repositori baru mengalikan peluang, bukan jumlah aksi, dan nilainya bisa berubah sewaktu-waktu.
 - Ukuran manfaat ada di tanganmu: pengetahuan baru, sumber yang bisa diperiksa, dan keputusan yang lebih jelas.
 
@@ -17384,11 +17002,9 @@ Komponen bernama `FeedbackFatigueScorer` ([berkas kodenya](https://github.com/tw
 Jika $t$ adalah usia entri dalam hari, rumus di kode itu berupa garis lurus yang melewati kelima titik di tabel:
 
 <div>
-
 $$
 m(t)=0{,}2+0{,}8\times\frac{t}{140}\quad\text{untuk } 0\leq t<140
 $$
-
 </div>
 
 Mulai hari ke-140, entri itu tidak lagi dihitung, sehingga pengalinya menjadi 1 dan tidak ada potongan sama sekali.
@@ -17584,11 +17200,9 @@ Setiap post masuk ke tepat satu dari tiga kelompok berikut.
 Jumlah ketiga kelompok harus sama dengan total post yang kamu periksa. Catatan asal post adalah hitungan terpisah, jadi jangan dijumlahkan dengan kelompok relevansi. Satu post bisa saja berguna sekaligus datang dari luar jaringan, dan keduanya dicatat di kolom yang berbeda. Dari tiga kelompok itu, hitung satu angka ringkas.
 
 <div>
-
 $$
-\text{Proporsi berguna}=\frac{\text{post berguna}}{\text{post organik yang diperiksa}}\times 100\text{\%}
+\text{Proporsi berguna}=\frac{\text{post berguna}}{\text{post organik yang diperiksa}}\times 100\%
 $$
-
 </div>
 
 Contohnya, kalau 9 dari 20 post yang kamu periksa masuk kelompok berguna, proporsi bergunamu 45%. Angka ini dipakai untuk membandingkan pengalamanmu sendiri dari waktu ke waktu, bukan untuk diadu dengan feed orang lain.
@@ -17782,8 +17396,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17849,7 +17463,7 @@ Aplikasi di user space hanya bisa berinteraksi dengan perangkat keras melalui me
 
 #### Visualisasi Alur Komunikasi
 
-Aplikasi (user space) $\\rightarrow$ Library (glibc) $\\rightarrow$ *System Call* $\\rightarrow$ Kernel $\\rightarrow$ Perangkat Keras
+Aplikasi (user space) $\rightarrow$ Library (glibc) $\rightarrow$ *System Call* $\rightarrow$ Kernel $\rightarrow$ Perangkat Keras
 
 ### Fungsi Utama Kernel
 
@@ -18070,8 +17684,13 @@ Sejak kernel 2.6.23, Linux menggunakan **CFS** sebagai algoritma penjadwalan def
 **Konsep vruntime (Virtual Runtime):** CFS melacak seberapa lama sebuah proses telah berjalan di CPU menggunakan variabel $\text{vruntime}$.
 
 - Proses yang memiliki $\text{vruntime}$ terkecil adalah yang paling "tidak adil" diperlakukan, sehingga ia mendapatkan giliran berikutnya.
-- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah.
-   $$\text{vruntime} = \text{vruntime} + \frac{\text{actual\_runtime}}{\text{weight}}$$
+- Prioritas (disebut **nice value**) mempengaruhi seberapa cepat $\text{vruntime}$ sebuah proses bertambah:
+
+  <div>
+  $$
+  \text{vruntime} = \text{vruntime} + \frac{\text{actual runtime}}{\text{weight}}
+  $$
+  </div>
 
 Jika nilai *nice* tinggi (kurang prioritas), $\text{vruntime}$ bertambah cepat, sehingga ia lebih jarang mendapatkan giliran.
 
@@ -18170,7 +17789,7 @@ Mengapa aplikasi tidak langsung menulis data ke alamat fisik RAM? Jika itu terja
 
 Linux tidak mengelola memori dalam satuan bita per bita karena prosesnya akan sangat lambat. Sebagai gantinya, kernel menerapkan mekanisme **paging**.
 
-Melalui paging, memori dibagi menjadi blok-blok berukuran tetap yang disebut **page** (biasanya sebesar $4\\text{ KB}$).
+Melalui paging, memori dibagi menjadi blok-blok berukuran tetap yang disebut **page** (biasanya sebesar $4\text{ KB}$).
 
 - **Virtual Page:** Representasi ruang alamat logis yang dilihat dan diakses langsung oleh proses.
 - **Page Frame:** Blok fisik nyata di dalam memori fisik (RAM) yang menjadi tempat bernaungnya data virtual page.
@@ -18181,9 +17800,11 @@ Saat CPU perlu mengakses data, ia mengandalkan **Memory Management Unit (MMU)** 
 
 Persamaan sederhana untuk menentukan alamat fisik adalah sebagai berikut:
 
+<div>
 $$
-\\text{Alamat}_{\\text{Fisik}} = (\\text{Frame Number} \\times \\text{Page Size}) + \\text{Offset}
+\text{Alamat}_{\text{Fisik}} = (\text{Frame Number} \times \text{Page Size}) + \text{Offset}
 $$
+</div>
 
 **Proses Paging:**
 
@@ -18268,7 +17889,7 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 ## Ringkasan Singkat
 
 - **Virtual Memory:** Memberikan ilusi ketersediaan ruang alamat yang luas, terisolasi, dan aman bagi setiap proses yang berjalan.
-- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran $4\\text{ KB}$ demi menyederhanakan pemetaan ke alamat fisik RAM.
+- **Paging:** Membagi memori ke dalam unit-unit kecil berukuran $4\text{ KB}$ demi menyederhanakan pemetaan ke alamat fisik RAM.
 - **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 
@@ -18435,7 +18056,12 @@ Setiap kali aplikasi melakukan system call, ada beban performa (overhead) yang h
 **Analogi:** Bayangkan kamu ingin mengambil segelas air (data). Dapur (kernel) berada di sebelahmu, tetapi kamu tidak boleh masuk sendiri. Kamu harus mengisi formulir pesanan (system call) dan menanti pelayan membawakannya. Proses ini tentu memakan waktu lebih lama dibandingkan jika kamu mengambilnya secara langsung.
 
 **Rumus Sederhana Efisiensi:**
-   $$\text{T}_{\text{total}} = \text{T}_{\text{user-logic}} + \text{T}_{\text{syscall-overhead}} + \text{T}_{\text{kernel-execution}}$$
+
+<div>
+$$
+\text{T}_{\text{total}} = \text{T}_{\text{user-logic}} + \text{T}_{\text{syscall-overhead}} + \text{T}_{\text{kernel-execution}}
+$$
+</div>
 
 Oleh karena itu, aplikasi yang sensitif terhadap performa biasanya meminimalkan frekuensi system call, salah satunya dengan teknik **buffering** (mengakumulasikan data di memori sebelum melakukan satu operasi `write` besar).
 
@@ -18686,15 +18312,17 @@ Teknologi manajemen penyimpanan seperti **LVM (Logical Volume Management)** atau
 
 Aliran interaksi VFS dalam hierarki sistem Linux dapat digambarkan melalui bagan berikut:
 
+<div>
 $$
-\begin{aligned}
-\text{Aplikasi} &\rightarrow \text{System Call Interface} \\\\
-&\rightarrow \text{VFS} \\\\
-&\rightarrow (\text{ext4} \mid \text{XFS} \mid \text{NFS}) \\\\
-&\rightarrow \text{Generic Block Layer} \\\\
-&\rightarrow \text{Disk}
-\end{aligned}
+\text{Aplikasi} \rightarrow \text{System Call Interface} \rightarrow \text{VFS} \rightarrow (\text{ext4} \mid \text{XFS} \mid \text{NFS})
 $$
+</div>
+
+<div>
+$$
+\rightarrow \text{Generic Block Layer} \rightarrow \text{Disk}
+$$
+</div>
 
 Beberapa poin utama yang membuat VFS menjadi komponen penting:
 
@@ -18794,7 +18422,12 @@ Bagaimana kernel mengetahui bahwa ketika aplikasi membuka `/dev/tty0`, ia harus 
 
 1. **Major Number:** Mengidentifikasi driver mana yang bertanggung jawab atas perangkat tersebut (misalnya, semua hard disk mungkin berbagi Major Number 8).
 2. **Minor Number:** Digunakan oleh driver tersebut untuk membedakan unit perangkat fisik yang spesifik (misalnya, disk A adalah Minor 0, disk B adalah Minor 1).
-   $$\text{Perangkat} = (\text{Major}, \text{Minor})$$
+
+   <div>
+   $$
+   \text{Perangkat} = (\text{Major}, \text{Minor})
+   $$
+   </div>
 
 ## 5. Dari Aplikasi ke Hardware
 
@@ -18914,12 +18547,17 @@ Kernel melihat header protokol (TCP atau UDP) dan memanggil fungsi yang sesuai (
 
 Di sepanjang jalur ini, terdapat **Netfilter Hooks**. Ini adalah titik-titik di mana kernel mengizinkan modul lain (seperti firewall) untuk memeriksa, mengubah, atau membuang paket.
 
+<div>
 $$
-\begin{aligned}
-\text{Packet In} &\rightarrow \text{PREROUTING} \rightarrow \text{INPUT} \rightarrow \text{Local Process} \\\\
-&\rightarrow \text{OUTPUT} \rightarrow \text{POSTROUTING} \rightarrow \text{Packet Out}
-\end{aligned}
+\text{Packet In} \rightarrow \text{PREROUTING} \rightarrow \text{INPUT} \rightarrow \text{Local Process}
 $$
+</div>
+
+<div>
+$$
+\rightarrow \text{OUTPUT} \rightarrow \text{POSTROUTING} \rightarrow \text{Packet Out}
+$$
+</div>
 
 Sebagai catatan tambahan, aturan firewall yang terlalu kompleks dapat menurunkan performa. Karena setiap paket harus dievaluasi di setiap *hook*, aturan yang rumit atau terlalu banyak akan menambah latensi secara keseluruhan pada pemrosesan jaringan.
 
@@ -19162,9 +18800,11 @@ Jika Namespaces mencegah proses mengintip tetangganya, Cgroups mencegah proses m
 
 Jika kita memiliki dua grup (A dan B) dengan bobot CPU ($w$):
 
+<div>
 $$
-\\text{Share untuk Grup A} = \\frac{w_A}{w_A + w_B}
+\text{Share untuk Grup A} = \frac{w_A}{w_A + w_B}
 $$
+</div>
 
 Dengan Cgroups, kernel memastikan distribusi ini ditepati dengan presisi milidetik.
 
@@ -19443,8 +19083,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19576,7 +19216,7 @@ Biar lebih jelas, mari kita lihat skenario seorang mahasiswa yang sedang bersiap
 	- Ia kenal beberapa metode belajar seperti pakai kartu *flash*, bikin *timeline*, sampai sekadar baca ulang materi.
 
 2. **Pengetahuan Prosedural ("Bagaimana"):**
-	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi and deskripsi peristiwa di sisi sebaliknya.
+	- Ia jago bikin kartu *flash* yang efektif, misalnya menaruh tanggal di satu sisi dan deskripsi peristiwa di sisi sebaliknya.
 	- Ia bisa menggambar *timeline* yang runtut agar alur kejadiannya kelihatan jelas.
 	- Ia terbiasa menulis poin-poin ringkasan dari tiap era.
 
@@ -20120,29 +19760,8 @@ Dengan metakognisi, kamu bisa sadar lebih cepat saat strategimu mulai melenceng 
 2. **Bertanya diri:** "Kenapa nilai `x` ini beda dari ekspektasi?" atau "Kok fungsi ini malah nge-balikin `null`?"
 3. **Mengidentifikasi hambatan:** Sadar bahwa ada blok `if` yang terlewat gara-gara logika kodenya kacau.
 4. **Menyesuaikan strategi:** Ketimbang mengulang baca kode dari atas, ia lebih memilih fokus membetulkan syarat di blok `if` tersebut dan mengetesnya kembali.
-```python
-# Contoh Kode dengan Bug (ilustrasi)
-def calculate_discount(price, quantity):
-    total_price = price * quantity
-    # Bug: Diskon seharusnya hanya diberikan jika total_price > 100
-    if total_price > 100: # Seharusnya > 100
-        discount = total_price * 0.10
-    else:
-        discount = 0
-    return total_price - discount
 
-# Skenario masalah: Diskon salah diberikan untuk pembelian kecil
-item_price = 50
-item_quantity = 2
-final_amount = calculate_discount(item_price, item_quantity)
-print(f"Total pembayaran: ${final_amount}") # Output: $90.0 (Seharusnya $100.0)
-
-# Pemantauan Metakognitif:
-# 1. Jalankan debugger, perhatikan \`total_price\` = 100
-# 2. Pertanyaan diri: "Apakah \`total_price >= 100\` adalah kondisi yang benar untuk diskon?"
-# 3. Identifikasi hambatan: Kondisi \`total_price >= 100\` akan memberikan diskon pada $100, padahal seharusnya setelah $100.
-# 4. Sesuaikan: Ubah \`total_price >= 100\` menjadi \`total_price > 100\`.
-```
+Ambil contoh rekaan program kasir sebuah toko yang seharusnya memberi diskon 10% hanya untuk total belanja di atas 100. Ternyata pembeli dua barang yang masing-masing seharga 50 malah membayar 90, bukan 100. Lewat *debugger*, sang *programmer* melihat totalnya tepat 100, lalu sadar syarat diskon di programnya tertulis "100 atau lebih", sehingga ia menggantinya menjadi "lebih dari 100" dan mengetes ulang.
 
 ## 3\. Evaluasi Solusi dan Proses Pemecahan Masalah
 
@@ -20180,8 +19799,6 @@ Dengan memasukkan elemen metakognisi ke dalam cara kerjamu, kamu otomatis mengas
 
 <!-- Chapter: 08_aplikasi-metakognisi-lintas-bidang-contoh-dalam-matematika-sains-dan-b -->
 
-Metakognisi: Belajar Bagaimana Belajar
-
 ## Aplikasi Metakognisi Lintas Bidang
 
 Metakognisi tidak hanya berlaku untuk satu mata pelajaran saja. Prinsipnya bisa dipakai di hampir semua disiplin ilmu untuk membantu kita memahami materi dengan lebih baik. Di bawah ini, kita akan melihat contoh penerapan metakognisi dalam matematika, sains, pemrograman, hingga bahasa.
@@ -20217,7 +19834,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 1. **Membuat Hipotesis dan Rancangan Eksperimen:**
 	- Sebelum mulai praktik, tanyakan hal ini: "Faktor apa saja yang memengaruhi eksperimen ini?" dan "Bagaimana cara saya mengukurnya?".
 		- Buat daftar langkah kerjanya dan bayangkan seperti apa hasil akhirnya nanti.
-		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang and gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
+		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang dan gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
 2. **Menganalisis dan Membaca Data:**
 	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
@@ -20227,22 +19844,9 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 	- Kalau program error atau jalan tidak sesuai harapan, coba tanya: "Pesan error-nya bilang apa?" atau "Fungsi mana yang kelihatannya bermasalah?".
 		- Kamu bisa pakai pendekatan terstruktur untuk mengeceknya:
 		- **Mengecek baris:** Coba bayangkan dan jalankan logika kodenya baris demi baris di kepalamu.
-				- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
-				- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
-		- **Contoh sederhana di Python:**
-		```python
-		def calculate_average(numbers):
-		    total = 0
-		    for num in numbers:
-		        total += num
-		    
-		    return total / len(numbers)
-		
-		my_list = [10, 20, 30, 40]
-		average = calculate_average(my_list)
-		print(f"Average: {average}")
-		```
-		Misalkan hasilnya meleset. Kamu tidak perlu langsung pusing. Tambahkan fungsi `print` buat mengecek isi variabel `total` dan seberapa panjang list `numbers` tersebut, lalu pelan-pelan perbaiki bagian yang keliru.
+		- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
+		- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
+		- **Contoh di Pemrograman:** Misalkan program yang menghitung rata-rata dari sekumpulan angka memberi hasil yang meleset. Kamu tidak perlu langsung pusing. Pasang penanda untuk mengecek jumlah total yang terkumpul dan berapa banyak angka yang ikut dihitung, lalu pelan-pelan perbaiki bagian yang keliru.
 
 ### Memahami Bahasa dan Teks Bacaan
 
@@ -20378,7 +19982,7 @@ Untuk mengatasi tantangan di atas, kamu butuh pendekatan yang tepat. Berikut ini
 
 1. **Rutin Mengisi Jurnal Belajar**
    Biasakan mencatat pengalaman belajarmu. Tulis apa saja yang baru dipelajari, bagaimana cara memahaminya, bagian mana yang susah, dan bagaimana kamu mengatasinya.
-   Misalnya: "Hari ini aku belajar tentang $C_6H_{12}O_6$. Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
+   Misalnya: "Hari ini aku belajar tentang $C\_6H\_{12}O\_6$. Sempat bingung pas masuk bagian siklus Krebs. Akhirnya coba bikin coret-coretan diagram dan ternyata lumayan membantu. Berikutnya kalau ketemu materi rumit lagi, mending langsung membuat visualisasinya."
 2. **Bertanya pada Diri Sendiri**
    Jadikan pertanyaan reflektif sebagai kebiasaan:
    - **Sebelum:** "Targetku sesi ini apa? Mau pakai cara belajar yang mana?"
@@ -20582,8 +20186,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20632,10 +20236,11 @@ Permukaan amandel tidaklah rata atau licin, melainkan dipenuhi oleh lekukan dan 
 
 Lekukan-lekukan ini memiliki fungsi yang sangat penting, yaitu memperluas permukaan amandel agar bisa menangkap lebih banyak kuman atau partikel asing yang masuk saat kamu bernapas atau makan. Secara matematis, jika kita memodelkan efektivitas penangkapan partikel sebagai $P$ dan luas permukaan amandel sebagai $A$, hubungan keduanya dapat dituliskan sebagai:
 
+<div>
 $$
-
 P \propto A
 $$
+</div>
 
 Dengan adanya kripta, luas permukaan $A$ menjadi berkali-kali lipat lebih besar. Hal ini secara otomatis meningkatkan peluang $P$ bagi amandel untuk mendeteksi dan melumpuhkan patogen sebelum mereka masuk lebih jauh ke dalam tubuh.
 
@@ -21192,9 +20797,9 @@ Kunci utama manajemen nyeri medis adalah konsistensi. Jangan menunggu nyeri menj
 Ini adalah garis pertahanan pertama yang paling umum digunakan:
 
 - **Parasetamol (Acetaminophen):** Bekerja pada sistem saraf pusat untuk menaikan ambang batas rasa sakit. Obat ini aman bagi sebagian besar orang dan sangat diandalkan untuk meredakan nyeri ringan hingga sedang.
-  - Rumus Kimia: $\text{C}_8\text{H}_9\text{NO}_2$
+  - Rumus Kimia: $\text{C}\_8\text{H}\_9\text{NO}\_2$
 - **NSAID (seperti Ibuprofen atau Natrium Diklofenak):** Golongan obat ini membantu meredakan bengkak dan peradangan.
-  - Rumus Kimia Ibuprofen: $\text{C}_{13}\text{H}_{18}\text{O}_2$
+  - Rumus Kimia Ibuprofen: $\text{C}\_{13}\text{H}\_{18}\text{O}\_2$
   - Meskipun efektif, sebagian dokter membatasi pemakaian NSAID tertentu di awal pemulihan karena risiko pendarahan, meski studi terbaru menunjukkan kombinasi yang tepat tetap aman dan ampuh.
 
 #### 2. Kortikosteroid
@@ -21678,8 +21283,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22629,8 +22234,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22962,17 +22567,21 @@ Mari kita gunakan pendekatan matematis sederhana untuk memahami mengapa gejala i
 
 Di lingkungan rumah sendiri (hampir semua aktivitas dilakukan secara otomatis tanpa berpikir keras):
 
+<div>
 $$
 E_{\text{total}} = E_{\text{rutinitas}} + E_{\text{cadangan}}
 $$
+</div>
 
 Di lingkungan budaya baru:
 
+<div>
 $$
-E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}} + E_{\text{sisa}}
+E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosial}} + E_{\text{sisa}}
 $$
+</div>
 
-Jika $\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma\_sosial}}) > E_{\text{total}}$, maka $E_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Jika $\sum (E\_{\text{bahasa}} + E\_{\text{navigasi}} + E\_{\text{norma sosial}}) > E\_{\text{total}}$, maka $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 
@@ -23065,30 +22674,16 @@ Dukungan sosial terbagi menjadi dua jenis utama:
 
 ## Profil Risiko Adaptasi
 
-Dalam konteks sistematis, kita bisa memetakan faktor-faktor ini ke dalam sebuah objek data untuk memprediksi tingkat kesulitan yang mungkin dihadapi seseorang.
+Keempat faktor ini bisa dipetakan menjadi sebuah profil untuk memperkirakan tingkat kesulitan yang mungkin dihadapi seseorang. Sebagai contoh, berikut profil Andi dengan jarak budaya Indonesia ke Finlandia:
 
-```json
-{
-  "profil_individu": {
-    "nama": "Andi",
-    "jarak_budaya": {
-      "skala": 8,
-      "deskripsi": "Indonesia ke Finlandia (Bahasa & Iklim sangat kontras)"
-    },
-    "kepribadian": {
-      "keterbukaan_pengalaman": "Tinggi",
-      "toleransi_ambiguitas": "Rendah"
-    },
-    "pengalaman_internasional": false,
-    "jaringan_sosial": {
-      "kontak_lokal": 0,
-      "komunitas_asal": "Ada"
-    },
-    "prediksi_intensitas_gegar_budaya": "Tinggi",
-    "rekomendasi": "Fokus pada pelatihan bahasa dan mencari mentor lokal segera."
-  }
-}
-```
+| Faktor | Profil Andi |
+| :--- | :--- |
+| **Jarak budaya ($D$)** | Indonesia ke Finlandia, bahasa dan iklimnya sangat kontras |
+| **Kepribadian ($P$)** | Keterbukaan terhadap pengalaman tinggi, tetapi toleransi ambiguitas rendah |
+| **Pengalaman masa lalu ($E$)** | Belum punya pengalaman internasional |
+| **Dukungan sosial ($S$)** | Belum punya kontak warga lokal, tetapi ada komunitas dari negara asalnya |
+
+Dengan profil seperti ini, intensitas gegar budaya Andi diperkirakan tinggi. Rekomendasinya: fokus pada pelatihan bahasa dan segera mencari mentor lokal.
 
 ## Perbandingan Siti dan Budi
 
@@ -23547,14 +23142,11 @@ Cari komunitas sesama *returnees* (orang yang baru pulang). Berbicara dengan ora
 
 ### 3\. Praktikkan "Internalization"
 
-Buatlah jurnal untuk memetakan nilai-nilai baru yang kamu dapatkan.
+Buatlah jurnal untuk memetakan nilai-nilai baru yang kamu dapatkan. Contohnya, sebuah catatan berjudul "Log Perubahan Identitas" bisa berisi:
 
-```
-Log Perubahan Identitas:
-- Nilai yang saya bawa pulang: Kemandirian, Ketepatan waktu.
-- Nilai lama yang ingin saya peluk kembali: Keramahtamahan, Kekeluargaan.
-- Titik temu: Saya akan tetap mandiri, namun tetap menghormati hierarki keluarga.
-```
+> - **Nilai yang saya bawa pulang:** kemandirian, ketepatan waktu.
+> - **Nilai lama yang ingin saya peluk kembali:** keramahtamahan, kekeluargaan.
+> - **Titik temu:** saya akan tetap mandiri, namun tetap menghormati hierarki keluarga.
 
 ### 4\. Jadilah Turis di Kota Sendiri
 
@@ -23633,29 +23225,15 @@ Bawalah barang-barang kecil yang memiliki keterikatan emosional kuat. Ini bisa b
 
 *Penting:* Aroma adalah pemicu memori yang paling kuat. Saat kamu merasa sangat rindu rumah, mencium aroma yang familiar dapat menurunkan kadar kortisol (hormon stres) secara instan.
 
-### Organisasi Informasi (Contoh Teknis)
+### Catatan Navigasi di Ponsel
 
-Jika kamu adalah orang yang terorganisir secara teknis, buatlah sebuah "Database Navigasi" sederhana di ponselmu. Berikut adalah contoh struktur data yang bisa kamu simpan di aplikasi catatan:
+Buatlah juga catatan navigasi sederhana di aplikasi catatan ponselmu. Isinya bisa dikelompokkan menjadi tiga bagian:
 
-```json
-{
-  "kontak_darurat": {
-    "kedutaan": "+62-xxx-xxxx",
-    "nomor_polisi_lokal": "911",
-    "kontak_induk_semang": "0812-xxxx"
-  },
-  "frasa_bertahan_hidup": [
-    "Tolong bantu saya (Local Lang)",
-    "Di mana apotek terdekat? (Local Lang)",
-    "Saya tidak makan babi/alergi kacang (Local Lang)"
-  ],
-  "lokasi_penting": [
-    "Supermarket termurah",
-    "Rumah sakit dengan layanan bahasa Inggris",
-    "Titik kumpul komunitas Indonesia/asal"
-  ]
-}
-```
+| Bagian | Isi Catatan |
+| :--- | :--- |
+| **Kontak darurat** | Nomor kedutaan, nomor polisi setempat, dan kontak induk semang |
+| **Frasa bertahan hidup** | Ditulis dalam bahasa lokal: "Tolong bantu saya", "Di mana apotek terdekat?", dan "Saya tidak makan babi" atau "Saya alergi kacang" |
+| **Lokasi penting** | Supermarket termurah, rumah sakit dengan layanan bahasa Inggris, dan titik kumpul komunitas Indonesia atau komunitas asalmu |
 
 ## 4. Strategi 48 Jam Pertama
 
@@ -23827,8 +23405,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23948,9 +23526,11 @@ Komunikasi di dalam satu sel saraf bersifat **elektrik**. Ketika neuron "terpanc
 
 Proses ini melibatkan pertukaran ion bermuatan listrik (seperti Natrium $Na^+$ dan Kalium $K^+$) melintasi membran sel. Secara matematis, sebuah neuron memiliki ambang batas tertentu untuk "menembak" (*firing*):
 
+<div>
 $$
-\text{V}_{\text{threshold}} \approx -55 \, \text{mV}
+\text{V}_{\text{threshold}} \approx -55 \text{mV}
 $$
+</div>
 
 Jika stimulus yang diterima tidak mencapai ambang batas ini, pesan tidak akan dikirim. Inilah mengapa fokus sangat penting dalam belajar; tanpa atensi yang cukup, sinyal listrik tidak akan cukup kuat untuk memicu perubahan permanen.
 
@@ -23973,7 +23553,7 @@ Karena sinyal listrik tidak bisa "melompati" celah kosong, otak mengubah bahasa 
 
 Tidak semua pesan kimiawi itu sama. Dalam konteks pembelajaran, ada beberapa aktor utama:
 
-- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah $C_5H_9NO_4$.
+- **Glutamat:** Neurotransmitter "gas" atau eksitatori yang paling utama. Ia bertanggung jawab atas penguatan koneksi antar saraf. Rumus kimianya adalah $C\_5H\_9NO\_4$.
 - **GABA:** Neurotransmitter "rem" atau inhibitori. Berfungsi menenangkan otak agar tidak terjadi kelebihan informasi (*overload*).
 - **Dopamin:** Hormon "hadiah" (*reward*). Saat kamu berhasil memecahkan soal sulit, dopamin dilepaskan, membuat otak menandai aktivitas tersebut sebagai sesuatu yang penting untuk diingat.
 
@@ -24061,30 +23641,9 @@ Ketika kita mempelajari keterampilan baru secara intensif, otak melakukan **reor
 
 **Contoh Kasus:** Pada pemain instrumen musik gesek (seperti biola), area di korteks motorik yang mengontrol jari-jari tangan kiri (yang menekan senar) terbukti lebih luas dan lebih kompleks dibandingkan dengan orang yang tidak bermain musik. Otak secara fisik menjajah ruang lebih banyak untuk mendukung kebutuhan aktivitas tersebut.
 
-### Algoritma Sederhana Pembentukan Jalur
+### Kapan Sebuah Jalur Saraf Bertahan?
 
-Jika kita melihatnya dari sudut pandang logika pemrograman, pembentukan jalur saraf mengikuti pola berikut:
-
-```python
-def learn_new_skill(repetition_count, focus_level):
-    synaptic_strength = 0
-    myelin_density = 0
-    
-    while repetition_count > 0:
-        # Semakin fokus, semakin besar penguatan sinapsis
-        synaptic_strength += (1 * focus_level)
-        
-        # Pengulangan konsisten membangun lapisan myelin
-        if repetition_count % 10 == 0:
-            myelin_density += 1
-            
-        repetition_count -= 1
-        
-    if synaptic_strength > threshold:
-        return "Jalur Saraf Terbentuk (Long-Term Potentiation)"
-    else:
-        return "Jalur Lemah (Rentan Pruning)"
-```
+Dalam gambaran yang disederhanakan, setiap pengulangan memperkuat sinapsis, dan penguatannya makin besar ketika kamu benar-benar fokus. Pengulangan yang konsisten juga menebalkan lapisan myelin pada jalur tersebut. Jalur saraf dianggap terbentuk dan bertahan bila penguatannya melewati semacam ambang, proses yang dikenal sebagai *Long-Term Potentiation* (LTP). Kalau belum melewati ambang itu, jalurnya tetap lemah dan rentan ikut dipangkas.
 
 ### Bagaimana Mempercepat Pembentukan Jalur Saraf?
 
@@ -24132,17 +23691,19 @@ Secara teknis, Prinsip Hebbian adalah dasar dari fenomena yang disebut **Long-Te
 
 Dalam bahasa matematika sederhana, hubungan Hebbian sering direpresentasikan sebagai:
 
+<div>
 $$
 \Delta w_{ij} = \eta x_i x_j
 $$
+</div>
 
 Di mana:
 
-- $\Delta w_{ij}$ adalah perubahan kekuatan (bobot) koneksi antara neuron $i$ dan $j$.
+- $\Delta w\_{ij}$ adalah perubahan kekuatan (bobot) koneksi antara neuron $i$ dan $j$.
 - $\eta$ adalah laju pembelajaran (*learning rate*).
-- $x_i$ dan $x_j$ adalah tingkat aktivitas dari kedua neuron tersebut.
+- $x\_i$ dan $x\_j$ adalah tingkat aktivitas dari kedua neuron tersebut.
 
-**Artinya:** Jika kedua neuron aktif secara bersamaan ($x_i$ dan $x_j$ bernilai tinggi), maka kekuatan koneksi mereka ($w$) akan meningkat secara drastis.
+**Artinya:** Jika kedua neuron aktif secara bersamaan ($x\_i$ dan $x\_j$ bernilai tinggi), maka kekuatan koneksi mereka ($w$) akan meningkat secara drastis.
 
 **Penting:** Proses ini memerlukan **sinkronisitas**. Jika sel A menyala tetapi sel B tidak merespons, atau jika sel B menyala tanpa pengaruh dari sel A, maka koneksi tidak akan menguat.
 
@@ -24267,9 +23828,11 @@ flowchart TD
 
 Dalam bahasa biokimia, proses ini sangat dipengaruhi oleh protein bernama **BDNF** (*Brain-Derived Neurotrophic Factor*), yang sering dijuluki sebagai "pupuk bagi otak".
 
+<div>
 $$
 \text{BDNF} \rightarrow \text{Mendukung Kelangsungan Hidup Neuron} + \text{Memicu Neurogenesis}
 $$
+</div>
 
 ### Studi Supir Taksi London
 
@@ -24360,22 +23923,9 @@ kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. kamu dapat
 2. **Multisensory Learning:** Integrasikan berbagai indra. Jika belajar sejarah, jangan hanya membaca (visual). Dengarkan podcast terkait (auditori) atau buat model fisik/peta pikiran manual (kinestetik).
 3. **Paparan Sosial yang Beragam:** Bergabunglah dengan komunitas atau diskusi yang memiliki sudut pandang berbeda dari kamu. Ini memaksa otak untuk melakukan fleksibilitas kognitif.
 
-### Optimasi Tempat Kerja Teknik
+### Lingkungan Statis vs. Lingkungan Dinamis
 
-```python
-# Analogi sederhana: Lingkungan Statis vs Dinamis dalam Kode
-def brain_growth(environment):
-    if environment == "Static/Routine":
-        return "Pruning (Pengurangan koneksi yang tidak dipakai)"
-    elif environment == "Enriched/Dynamic":
-        return "Synaptogenesis (Pembentukan koneksi baru)"
-
-# Lingkungan rutin: output tetap
-print(brain_growth("Static/Routine")) 
-
-# Lingkungan kaya stimulasi: output berkembang
-print(brain_growth("Enriched/Dynamic"))
-```
+Perbandingan sederhananya begini. Di lingkungan yang statis dan penuh rutinitas, koneksi saraf yang tidak dipakai berkurang lewat pemangkasan (*pruning*). Di lingkungan yang dinamis dan kaya stimulasi, otak justru membentuk koneksi baru (*synaptogenesis*).
 
 ## 5\. Ringkasan Real-World Application
 
@@ -24435,7 +23985,18 @@ Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Keti
 2. **Pelepasan Neuromodulator:** Asetilkolin membanjiri area spesifik yang sedang bekerja.
 3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal ($\text{fire}$).
 4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan, bukan ke tempat lain secara acak.
-   $$\text{Atensi Intens} \rightarrow \uparrow \text{Asetilkolin} \rightarrow \text{Tagging Sinapsis} \rightarrow \text{Perubahan Struktural (Plastisitas)}$$
+
+   <div>
+   $$
+   \text{Atensi Intens} \rightarrow \uparrow \text{Asetilkolin} \rightarrow \text{Tagging Sinapsis}
+   $$
+   </div>
+
+   <div>
+   $$
+   \rightarrow \text{Perubahan Struktural (Plastisitas)}
+   $$
+   </div>
 
 ## 4\. Peran Fokus dalam Menghilangkan "Noise"
 
@@ -24451,21 +24012,7 @@ Otak kita terus-menerus dibombardir oleh jutaan bit informasi. Mekanisme atensi 
 Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python.
 
 - **Budi (Multitasking):** Menonton tutorial sambil sesekali membalas WhatsApp. Asetilkolinnya tersebar ke sirkuit sosial, sirkuit visual HP, dan sedikit ke sirkuit coding. Hasilnya: Tidak ada sirkuit yang mendapatkan cukup "tanda" untuk berubah secara permanen.
-- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman.
-
-**Contoh Kode yang sedang dipelajari Siti:**
-
-```python
-def check_plasticity(focus_level):
-    # Fokus di atas 80% memicu asetilkolin
-    if focus_level > 0.8:
-        return "Neuromodulators released: Synaptic change occurring."
-    else:
-        return "Noise level too high: No structural change."
-
-# Siti berada di level fokus 0.95
-print(check_plasticity(0.95))
-```
+- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman. Hasilnya: fokus setinggi itu memicu pelepasan neuromodulator, sehingga perubahan sinaptik benar-benar terjadi.
 
 ## 6\. Latihan Mandiri untuk Meningkatkan Plastisitas
 
@@ -24711,18 +24258,13 @@ Mari kita lihat bagaimana teknik ini diterapkan dalam skenario nyata, misalnya b
 | **Spaced Repetition** | Gunakan algoritma pengulangan untuk mengingat sintaks atau fungsi bawaan (*built-in functions*) setiap beberapa hari sekali. |
 | **Interleaving** | Dalam satu sesi latihan, kerjakan satu soal tentang *List*, lalu satu soal tentang *Dictionary*, kemudian satu soal tentang *Functions*. Jangan fokus pada satu jenis soal saja. |
 
-**Contoh Sederhana Implementasi Logika Spaced Repetition (Pseudo-code):**
+Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perlu di-review lagi. Angka pengalinya hanya ilustrasi.
 
-```python
-# Logika sederhana untuk menentukan kapan harus me-review kartu belajar
-def tentukan_jadwal_berikutnya(skor_pengingatan, interval_sekarang):
-    if skor_pengingatan == "mudah":
-        return interval_sekarang * 2  # Gandakan waktu tunggu
-    elif skor_pengingatan == "sulit":
-        return interval_sekarang * 1.2 # Tambah sedikit waktu tunggu
-    else:
-        return 1 # Ulangi besok jika lupa sama sekali
-```
+| Saat kamu mengingat kartu itu | Interval ke review berikutnya |
+| --- | --- |
+| **Mudah** | Interval sekarang dikali 2 (waktu tunggu digandakan) |
+| **Sulit** | Interval sekarang dikali 1,2 (waktu tunggu bertambah sedikit) |
+| **Lupa sama sekali** | Ulangi besok |
 
 ### Mengoptimalkan Sesi Belajar kamu
 
@@ -24773,11 +24315,11 @@ Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah inte
 
 Saat kamu melakukan olahraga aerobik (seperti lari, berenang, atau bersepeda), otot kamu melepaskan molekul ke dalam darah yang dapat menembus sawar darah otak. Proses ini memicu ekspresi gen BDNF di hipokampus.
 
+<div>
 $$
-\begin{aligned}
-\text{Aktivitas Fisik} \rightarrow \uparrow \text{IGF-1 \& VEGF} \rightarrow \uparrow \text{Ekspresi BDNF} \rightarrow \uparrow \text{Plastisitas Sinaptik}
-\end{aligned}
+\text{Aktivitas Fisik} \rightarrow \uparrow \text{IGF-1 & VEGF} \rightarrow \uparrow \text{Ekspresi BDNF} \rightarrow \uparrow \text{Plastisitas Sinaptik}
 $$
+</div>
 
 ### Strategi "Priming"
 
@@ -24845,7 +24387,7 @@ Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kema
 
 Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase sangat penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
 
-## 1\. Memahami Anatomi Plateu
+## 1\. Memahami Anatomi Plateau
 
 Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur sinaptik. Pada awalnya, kemajuan terasa sangat cepat karena otak sedang membangun fondasi. Namun, setelah beberapa saat, kemajuan melambat.
 
@@ -24895,10 +24437,11 @@ Penelitian terbaru dari NIH menunjukkan bahwa otak mengulang (replay) informasi 
 
 Kita bisa memodelkan efisiensi belajar ($L$) sebagai fungsi dari Fokus ($f$) dan Frekuensi Kesalahan yang disadari ($E$):
 
+<div>
 $$
-
 L \approx f \times \Delta E
 $$
+</div>
 
 Di mana:
 
@@ -24918,24 +24461,7 @@ Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging* -
 1. **Ganti Alat:** Paksa diri menggunakan *Debugger Tools* profesional atau melakukan *Rubber Ducking*.
 2. **Analisis Error Secara Mendalam:** Saat menemukan *bug*, jangan langsung memperbaikinya. Tanyakan: *"Mengapa asumsi saya salah?"*
 3. **Time Pressure:** Beri batasan waktu yang ketat untuk menemukan masalah. Tekanan ini melepaskan neurokimia yang meningkatkan plastisitas.
-```python
-# Contoh latihan untuk mendobrak plateau dalam logika pemrograman
-# Bukannya menulis fungsi yang sudah biasa, cobalah menulis fungsi 
-# yang sama dengan batasan (constraint) baru.
-
-# Biasa:
-def hitung_vokal(teks):
-    count = 0
-    for char in teks:
-        if char in "aeiou":
-            count += 1
-    return count
-
-# Tantangan (Mendorong Plastisitas):
-# Hitung vokal tanpa menggunakan ''if'' atau ''for loop'' (gunakan functional programming)
-def hitung_vokal_v2(teks):
-    return len(list(filter(lambda x: x in "aeiou", teks)))
-```
+4. **Tambah Batasan Baru:** Jangan hanya menulis ulang program yang sudah biasa dibuat. Tulis program yang sama dengan batasan (*constraint*) baru. Misalnya, program penghitung huruf vokal yang biasanya memakai percabangan `if` dan perulangan `for` ditulis ulang tanpa keduanya.
 
 ## 6\. Ringkasan Strategi untuk Pembelajar
 
@@ -24962,7 +24488,7 @@ Materi ini akan merangkum perjalanan kita memahami otak dan memproyeksikan bagai
 
 Selama lebih dari seabad, sistem pendidikan global mengadopsi model industrial: siswa diproses secara linear berdasarkan usia kronologis, bukan kesiapan kognitif. Neurosains mengubah ini dengan analogi yang lebih akurat.
 
-> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan sifar**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
+> **Taman Saraf** Jika pendidikan lama adalah **pabrik perakitan**, maka pendidikan berbasis neurosains adalah **perkebunan saraf**. Guru bukan lagi buruh pabrik yang memasang "onderdil" informasi, melainkan seorang ahli botani saraf yang menyediakan nutrisi, stimulasi, dan lingkungan yang tepat agar setiap "pohon" saraf siswa dapat tumbuh sesuai potensinya yang unik.
 
 ### Transformasi Kurikulum Masa Depan
 
@@ -24978,31 +24504,15 @@ Salah satu aplikasi paling nyata dari neuroplastisitas di masa depan adalah **Ad
 
 Dalam konteks teknis, kita bisa melihat ini sebagai fungsi optimasi untuk menjaga siswa tetap dalam **Zone of Proximal Development** (ZPD), di mana tantangan cukup sulit untuk memicu plastisitas, tetapi tidak terlalu sulit hingga menyebabkan stres kronis yang menghambat sinapsis.
 
-### Contoh Logika Algoritma Pembelajaran Adaptif
+### Cara Sistem Adaptif Mengatur Beban Belajar
 
-Berikut adalah representasi sederhana bagaimana sistem masa depan mungkin menyesuaikan beban kognitif berdasarkan performa untuk mengoptimalkan plastisitas:
+Bayangkan sistem masa depan menilai dua hal pada seorang siswa, yaitu skor performanya dan indeks kelelahan otaknya, lalu menyesuaikan tingkat kesulitan materi agar kesiapan sinapsis (*synaptic priming*) tetap optimal. Aturannya mungkin seperti tabel berikut. Semua ambang dan pengalinya adalah angka ilustrasi.
 
-```python
-def adjust_learning_load(current_performance, brain_fatigue_index):
-    """
-    Menyesuaikan kesulitan materi berdasarkan performa dan indeks kelelahan.
-    Tujuannya: Menjaga ''Synaptic Priming'' tetap optimal.
-    """
-    base_difficulty = 1.0
-    
-    if current_performance > 0.85 and brain_fatigue_index < 0.3:
-        # Memicu neuroplastisitas dengan tantangan baru (Challenge Mode)
-        new_difficulty = base_difficulty * 1.2
-        print("Meningkatkan kompleksitas untuk stimulasi sinaptik.")
-    elif brain_fatigue_index > 0.7:
-        # Memberikan ruang untuk konsolidasi memori (Recovery Mode)
-        new_difficulty = base_difficulty * 0.5
-        print("Mengalihkan ke pengulangan ringan untuk konsolidasi.")
-    else:
-        new_difficulty = base_difficulty
-        
-    return new_difficulty
-```
+| Kondisi siswa | Tindakan sistem | Tingkat kesulitan materi |
+| --- | --- | --- |
+| Performa di atas 0,85 dan indeks kelelahan di bawah 0,3 | **Challenge Mode:** menambah kompleksitas agar tantangan baru menstimulasi sinapsis | Naik menjadi 1,2 kali semula |
+| Indeks kelelahan di atas 0,7, setinggi apa pun performanya | **Recovery Mode:** beralih ke pengulangan ringan agar memori sempat terkonsolidasi | Turun menjadi 0,5 kali semula |
+| Kondisi lainnya | Tidak mengubah apa pun | Tetap seperti semula |
 
 ## 3\. Guru sebagai "Neuro-Architect"
 
@@ -25019,9 +24529,11 @@ Pendidikan berbasis neurosains akan menantang sistem penilaian tradisional. Kita
 
 Dalam matematika, pertumbuhan ini dapat digambarkan dengan peningkatan efisiensi sinaptik ($\Delta w$) dalam kurun waktu tertentu:
 
+<div>
 $$
 \Delta w = \eta \cdot (\text{Stimulus} \times \text{Atensi})
 $$
+</div>
 
 Di mana:
 
@@ -25048,8 +24560,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25540,36 +25052,17 @@ Dalam pembelajaran lintas disiplin, visualisasi data memberikan beberapa manfaat
 
 Alat yang populer digunakan meliputi platform instan seperti **Tableau** dan **Microsoft Power BI** yang menggunakan sistem *drag-and-drop*. Untuk kebutuhan analisis kustom yang lebih mendalam, pustaka (*libraries*) pemrograman **Python** (seperti Matplotlib, Seaborn, dan Plotly) serta **D3.js** untuk web interaktif sangat sering diandalkan. Sementara itu, untuk data berbasis spasial, sistem informasi geografis seperti **ArcGIS** atau **QGIS** menjadi pilihan utama dalam bidang geografi dan perencanaan kota.
 
-Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan data hasil panen (agronomi) dan data penjualan (ekonomi) untuk melihat hubungannya dengan menggunakan Python dan Matplotlib:
+Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan data hasil panen (agronomi) dan data penjualan (ekonomi) untuk melihat hubungannya. Berikut data contoh (fiktif) selama lima tahun:
 
-```python
-import matplotlib.pyplot as plt
-import pandas as pd
+| Tahun | Curah hujan (mm) | Hasil panen (ton) | Penjualan (juta rupiah) |
+| :--- | ---: | ---: | ---: |
+| 2018 | 1.500 | 50 | 100 |
+| 2019 | 1.200 | 40 | 80 |
+| 2020 | 1.800 | 60 | 120 |
+| 2021 | 1.300 | 45 | 90 |
+| 2022 | 1.600 | 55 | 110 |
 
-# Data contoh (fiktif)
-data = {
-    ''Tahun'': [2018, 2019, 2020, 2021, 2022],
-    ''Curah_Hujan_mm'': [1500, 1200, 1800, 1300, 1600],
-    ''Hasil_Panen_Ton'': [50, 40, 60, 45, 55],
-    ''Penjualan_JutaIDR'': [100, 80, 120, 90, 110]
-}
-
-df = pd.DataFrame(data)
-
-plt.figure(figsize=(10, 6))
-plt.plot(df[''Tahun''], df[''Curah_Hujan_mm''], marker=''o'', label=''Curah Hujan (mm)'')
-plt.plot(df[''Tahun''], df[''Hasil_Panen_Ton''] * 10, marker=''x'', label=''Hasil Panen (Ton x10)'') # Skala agar terlihat
-plt.plot(df[''Tahun''], df[''Penjualan_JutaIDR''], marker=''s'', label=''Penjualan (Juta IDR)'')
-
-plt.title(''Korelasi Curah Hujan, Hasil Panen, dan Penjualan'')
-plt.xlabel(''Tahun'')
-plt.ylabel(''Nilai'')
-plt.legend()
-plt.grid(True)
-plt.show()
-```
-
-Melalui visualisasi terintegrasi ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
+Jika ketiga deret ini digambar sebagai grafik garis dalam satu bidang, terlihat bahwa ketiganya naik dan turun pada tahun yang sama: paling rendah pada 2019 dan paling tinggi pada 2020. Melalui visualisasi terintegrasi seperti ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
 
 ### Simulasi Interaktif
 
@@ -25615,31 +25108,20 @@ Dalam ekosistem multidisiplin, penerapan AI dapat dirangkum ke dalam beberapa fu
 - **Analisis Data Lintas Bidang:** Menggunakan algoritma *machine learning* untuk mendeteksi pola pada data heterogen skala besar.
 - **Personalisasi Jalur Belajar:** Menyesuaikan materi dan tantangan berdasarkan tingkat pemahaman individu kamu.
 
-Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar untuk mengidentifikasi istilah kunci dari dua bidang berbeda:
+Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar untuk mengidentifikasi istilah kunci dari dua bidang berbeda. Penyaringannya berjalan dalam empat langkah:
 
-```python
-# Konsep dasar pemrosesan teks untuk mengidentifikasi istilah kunci
-def extract_keywords(text):
-    common_words = {"dan", "atau", "yang", "di", "ke", "untuk", "dari", "dalam", "ini"}
-    words = text.lower().replace(''.'', '''').replace('','', '''').split()
-    keywords = [word for word in words if word not in common_words and len(word) > 3]
-    return list(set(keywords))
+1. Ubah semua huruf menjadi huruf kecil, lalu buang tanda titik dan koma.
+2. Pecah kalimat menjadi kata-kata.
+3. Buang kata umum (*dan, atau, yang, di, ke, untuk, dari, dalam, ini*) serta kata yang panjangnya tiga huruf atau kurang.
+4. Bandingkan kedua daftar kata kunci untuk mencari kata yang muncul di keduanya sebagai calon konsep yang bisa diintegrasikan.
 
-bio_text = "Penelitian ini mengeksplorasi struktur protein dan fungsi genetik dalam sel organisme."
-material_text = "Pengembangan material komposit baru melibatkan nanoteknologi dan sifat mekanik polimer."
+| Bidang | Kalimat contoh | Kata kunci setelah disaring |
+| :--- | :--- | :--- |
+| Biologi | "Penelitian ini mengeksplorasi struktur protein dan fungsi genetik dalam sel organisme." | penelitian, mengeksplorasi, struktur, protein, fungsi, genetik, organisme |
+| Ilmu material | "Pengembangan material komposit baru melibatkan nanoteknologi dan sifat mekanik polimer." | pengembangan, material, komposit, baru, melibatkan, nanoteknologi, sifat, mekanik, polimer |
+| Muncul di keduanya | - | tidak ada |
 
-bio_keywords = extract_keywords(bio_text)
-material_keywords = extract_keywords(material_text)
-
-print(f"Kata kunci Biologi: {bio_keywords}")
-print(f"Kata kunci Material: {material_keywords}")
-
-# Mencari potensi hubungan (sederhana)
-common_concepts = set(bio_keywords).intersection(set(material_keywords))
-print(f"Konsep umum yang mungkin terintegrasi: {common_concepts}")
-```
-
-Contoh di atas menggambarkan bagaimana proses sederhana penyaringan istilah dapat membantu mendeteksi titik temu awal antara biologi dan ilmu material. Tentu saja, sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
+Hasil langkah terakhir justru kosong: tidak ada satu kata pun yang sama di kedua daftar. Dalam contoh ini, penyaringan istilah yang sesederhana ini belum menemukan titik temu antara biologi dan ilmu material. Sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
 
 Dalam skala yang lebih luas, teknologi seperti **IBM Watson Health** telah menggunakan AI untuk menyintesis data klinis dengan literatur riset medis guna memandu dokter mengambil tindakan medis. Demikian pula dengan platform pembelajaran modern yang memanfaatkan AI untuk memetakan minat dan menyusun rekomendasi mata kuliah yang saling melengkapi bagi penggunanya.
 
@@ -25857,44 +25339,15 @@ Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi pilar utama:
   * **Rubrik Terintegrasi**: Mengukur tingkat keselarasan ide lintas disiplin, kelayakan solusi yang ditawarkan, kedalaman analisis, serta efektivitas presentasi.
   * **Peer Assessment**: Setiap anggota kelompok menilai kontribusi satu sama lain dalam aspek kerja sama lintas disiplin.
 
-```python
-# Contoh struktur data untuk kriteria penilaian proyek multidisiplin
-project_rubric_criteria = {
-    "Integrasi Konseptual": {
-        "deskripsi": "Seberapa baik ide dari berbagai disiplin dihubungkan.",
-        "level_4": "Menggabungkan 3+ disiplin secara kohesif.",
-        "level_3": "Menggabungkan 2-3 disiplin dengan sedikit inkonsistensi.",
-        "level_2": "Disiplin terpisah dengan sedikit upaya integrasi.",
-        "level_1": "Tidak ada integrasi disiplin."
-    },
-    "Inovasi Solusi": {
-        "deskripsi": "Orisinalitas dan efektivitas solusi multidisiplin.",
-        "level_4": "Solusi sangat inovatif, realistis, dan efektif lintas disiplin.",
-        "level_3": "Solusi inovatif, namun mungkin ada keterbatasan realistis atau efektivitas.",
-        "level_2": "Solusi standar dengan sedikit inovasi.",
-        "level_1": "Solusi tidak inovatif atau tidak realistis."
-    },
-    "Kualitas Komunikasi": {
-        "deskripsi": "Kejelasan dan kemampuan untuk mengartikulasikan ide multidisiplin.",
-        "level_4": "Mengkomunikasikan ide multidisiplin dengan sangat jelas kepada audiens beragam.",
-        "level_3": "Mengkomunikasikan ide multidisiplin dengan cukup jelas.",
-        "level_2": "Komunikasi kurang jelas atau sulit dipahami audiens beragam.",
-        "level_1": "Komunikasi tidak efektif."
-    }
-}
+Sebagai gambaran, contoh rubrik asesmen proyek multidisiplin berikut hanya memperlihatkan tiga kriteria dan menjabarkannya ke dalam empat level capaian:
 
-# Fungsi untuk mencetak rubrik (ilustratif)
-def display_rubric(rubric):
-    print("--- Rubrik Asesmen Proyek Multidisiplin ---")
-    for criterion, details in rubric.items():
-        print(f"\nKriteria: {criterion} - {details[''deskripsi'']}")
-        print(f"  Level 4 (Sangat Baik): {details[''level_4'']}")
-        print(f"  Level 3 (Cukup): {details[''level_3'']}")
-        print(f"  Level 2 (Perlu Perbaikan): {details[''level_2'']}")
-        print(f"  Level 1 (Belum Tercapai): {details[''level_1'']}")
-
-display_rubric(project_rubric_criteria)
-```
+| Aspek | Integrasi Konseptual | Inovasi Solusi | Kualitas Komunikasi |
+| :--- | :--- | :--- | :--- |
+| **Yang dinilai** | Seberapa baik ide dari berbagai disiplin dihubungkan | Orisinalitas dan efektivitas solusi multidisiplin | Kejelasan dan kemampuan mengartikulasikan ide multidisiplin |
+| **Level 4 (Sangat Baik)** | Menggabungkan tiga disiplin atau lebih secara kohesif | Solusi sangat inovatif, realistis, dan efektif lintas disiplin | Mengomunikasikan ide multidisiplin dengan sangat jelas kepada audiens beragam |
+| **Level 3 (Cukup)** | Menggabungkan dua sampai tiga disiplin dengan sedikit inkonsistensi | Solusi inovatif, namun mungkin ada keterbatasan realistis atau efektivitas | Mengomunikasikan ide multidisiplin dengan cukup jelas |
+| **Level 2 (Perlu Perbaikan)** | Disiplin terpisah dengan sedikit upaya integrasi | Solusi standar dengan sedikit inovasi | Komunikasi kurang jelas atau sulit dipahami audiens beragam |
+| **Level 1 (Belum Tercapai)** | Tidak ada integrasi disiplin | Solusi tidak inovatif atau tidak realistis | Komunikasi tidak efektif |
 
 > Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik merajut berbagai utas pengetahuan menjadi satu kesatuan pemahaman yang kokoh, lalu menggunakannya untuk menghadapi kerumitan dunia nyata.
 
@@ -26121,8 +25574,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26185,14 +25638,15 @@ Untuk memahami manajemen proaktif, kita harus melihat perbandingannya dengan man
 
 Secara konseptual, keberhasilan sebuah kelas yang proaktif dapat digambarkan melalui fungsi sederhana berikut:
 
+<div>
 $$
-
 K_p = f(S, R, K)
 $$
+</div>
 
 Di mana:
 
-- **$K_p$**: Keberhasilan Pembelajaran
+- **$K\_p$**: Keberhasilan Pembelajaran
 - **$S$**: Struktur (Aturan, Rutinitas, Lingkungan Fisik)
 - **$R$**: Relasi (Hubungan guru-siswa yang positif)
 - **$K$**: Kurikulum yang Menarik (Keterlibatan aktif siswa)
@@ -26417,28 +25871,18 @@ Kontrak sosial bersifat dinamis (living document). Ia harus ditinjau secara berk
 
 > **Pesan Penting:** Guru bukan polisi dari kontrak ini, melainkan penjaga gawang bersama. Jika guru melanggar (misalnya datang terlambat), guru juga harus bersedia menerima konsekuensi yang telah disepakati. Ini membangun **kepercayaan** dan **integritas**.
 
-## 6. Contoh Struktur Kontrak Sosial (Digital/Teknis)
+## 6. Contoh Isi Kontrak Sosial
 
-Jika kamu menggunakan platform manajemen kelas digital (seperti Google Classroom atau Notion), kamu bisa menyusun struktur kontrak dalam format yang terorganisir:
+Sebagai contoh, kontrak yang sudah jadi bisa disusun dengan rapi dalam tiga bagian: nilai inti, kesepakatan beserta alasannya, dan cara menjaga akuntabilitas. Susunan yang sama juga bisa kamu simpan di platform manajemen kelas digital (seperti Google Classroom atau Notion).
 
-```json
-{
-  "Classroom_Contract_2024": {
-    "Core_Value": "Saling Menghargai",
-    "Agreements": [
-      {
-        "Action": "Berbicara bergantian",
-        "Reason": "Menghargai ide setiap orang"
-      },
-      {
-        "Action": "Mengembalikan barang pada tempatnya",
-        "Reason": "Memudahkan pengguna berikutnya"
-      }
-    ],
-    "Accountability": "Diskusi restoratif jika terjadi ketidakkonsistenan"
-  }
-}
-```
+**Nilai inti:** Saling Menghargai
+
+| Kesepakatan | Alasan |
+| --- | --- |
+| Berbicara bergantian | Menghargai ide setiap orang |
+| Mengembalikan barang pada tempatnya | Memudahkan pengguna berikutnya |
+
+**Akuntabilitas:** diskusi restoratif jika terjadi ketidakkonsistenan.
 
 *Pikirkan tentang ini: Jika besok pagi kamu masuk ke kelas dan semua aturan tertulis di dinding menghilang, apakah siswa kamu tetap akan berperilaku baik karena mereka menghargai komunitasnya, atau kelas akan menjadi kacau? Jawaban kamu menentukan seberapa kuat norma yang telah kamu bangun.*
 
@@ -26488,22 +25932,11 @@ Jangan biarkan siswa mengerumuni meja kamu untuk mengumpulkan tugas.
 - **Warna Map:** Gunakan map warna-warni berdasarkan mata pelajaran atau nomor absen.
 - **Prosedur "Pass to the Left":** Siswa menggeser kertas ke arah kiri, dan siswa di paling ujung memberikan tumpukan yang rapi kepada guru.
 
-### Algoritma Rutinitas Pengumpulan (Logical Flow)
+### Alur Mengumpulkan Tugas
 
-Bagi kamu yang menyukai pendekatan sistematis, berikut adalah "kode" prosedur pengumpulan tugas:
+Bagi kamu yang menyukai pendekatan sistematis, prosedur pengumpulan tugas bisa diajarkan sebagai dua cabang. Siswa yang tugasnya sudah selesai mengecek nama dan tanggal, memasukkan tugas ke folder sesuai mapel, kembali ke tempat duduk, lalu memulai aktivitas pengayaan. Siswa yang belum selesai tetap tenang dan mengikuti instruksi tambahan.
 
-```json
-IF tugas_selesai == TRUE:
-   CHECK nama_dan_tanggal()
-   MOVE_TO folder_sesuai_mapel()
-   RETURN_TO tempat_duduk()
-   START aktivitas_pengayaan()
-ELSE:
-   STAY tenang()
-   FOLLOW instruksi_tambahan()
-```
-
-Kalau kamu lebih mudah membaca alur bercabang, kode di atas dapat digambar sebagai bagan berikut.
+Kalau kamu lebih mudah membaca alur bercabang, kedua cabang itu dapat digambar sebagai bagan berikut.
 
 ```mermaid
 flowchart TD
@@ -26610,10 +26043,11 @@ Keamanan emosional adalah kondisi di mana siswa merasa berani mengambil risiko a
 
 Secara matematis, kenyamanan belajar dapat diilustrasikan sebagai berikut:
 
+<div>
 $$
-
 K = \frac{D + P}{Kz}
 $$
+</div>
 
 Dimana:
 
@@ -26651,22 +26085,12 @@ Hubungan positif adalah "pelumas" bagi disiplin kelas. Saat hubungan sudah kuat,
 
 Untuk memastikan kamu membangun hubungan secara merata (tidak hanya pada siswa yang populer atau yang paling bermasalah), gunakan format pelacakan sederhana seperti di bawah ini:
 
-```markdown
-|
-------------
-|
--------------
-|
--------------------
-|
-----------------------------
-|
-
-| Ani        | Robotik     | Teliti            | Memuji logika kodenya      |
-| Budi       | Sepak Bola  | Kepemimpinan      | Tanya skor pertandingan    |
-| Citra      | Melukis     | Empati            | Apresiasi bantuan ke teman |
-| Dedi       | Game Online | Strategis         | Bahas konsep kolaborasi    |
-```
+| Siswa | Minat | Kekuatan | Cara menjalin hubungan |
+| --- | --- | --- | --- |
+| Ani | Robotik | Teliti | Memuji logika kodenya |
+| Budi | Sepak Bola | Kepemimpinan | Tanya skor pertandingan |
+| Citra | Melukis | Empati | Apresiasi bantuan ke teman |
+| Dedi | Game Online | Strategis | Bahas konsep kolaborasi |
 
 > **Pesan Penting:** Siswa mungkin akan melupakan rumus yang kamu ajarkan, tetapi mereka tidak akan pernah melupakan bagaimana perasaan mereka saat berada di kelas kamu. Hubungan positif adalah investasi jangka panjang yang akan membayar dividen berupa kelas yang tenang, kooperatif, dan penuh semangat belajar.
 
@@ -26686,10 +26110,11 @@ Bayangkan sebuah kelas seperti sebuah konser musik. Jika penonton hanya duduk di
 
 Dalam manajemen kelas, terdapat sebuah korelasi kuat antara tingkat partisipasi dengan probabilitas terjadinya gangguan. Kita dapat menggambarkannya dalam sebuah model sederhana:
 
+<div>
 $$
-
 P(G) = \frac{1}{E \times K}
 $$
+</div>
 
 Di mana:
 
@@ -26752,21 +26177,16 @@ Gunakan struktur ini untuk menjaga ritme kelas:
 
 Dalam era digital, kita bisa menggunakan alat bantu untuk meningkatkan keterlibatan secara instan. Penggunaan *platform* seperti Quizizz, Kahoot, atau Padlet dapat mengubah suasana kelas menjadi lebih dinamis.
 
-**Contoh Implementasi Sederhana (Pseudo-code untuk Logika Kuis Interaktif):**
+Logika di balik kuis interaktif semacam ini bisa dibuat sederhana. Sebagai contoh dengan angka ilustrasi, jawaban benar mendapat 100 poin dasar ditambah bonus kecepatan, yaitu 50 dikurangi waktu menjawab, dan bonus itu tidak pernah kurang dari nol:
 
-```python
-## Logika sederhana di balik keterlibatan melalui gamifikasi
-def check_engagement(student_response, time_taken):
-    base_points = 100
-    if student_response == "Correct":
-        # Memberikan reward instan untuk menjaga motivasi
-        bonus = max(0, 50 - time_taken) 
-        score = base_points + bonus
-        return f"Hebat! Skor kamu: {score}. Lanjut ke tantangan berikutnya!"
-    else:
-        # Memberikan umpan balik konstruktif tanpa menjatuhkan
-        return "Coba lagi! Ingat konsep X yang baru kita bahas."
-```
+<div>
+$$
+\text{skor} = 100 + \max(0, 50 - \text{waktu menjawab})
+$$
+</div>
+
+- **Jawaban benar:** siswa langsung mendapat pesan yang menyebut skornya dan mengajak lanjut, misalnya *"Hebat! Lanjut ke tantangan berikutnya!"* Hadiah instan seperti ini menjaga motivasi.
+- **Jawaban salah:** siswa tidak mendapat skor, tetapi menerima umpan balik konstruktif yang tidak menjatuhkan, misalnya *"Coba lagi! Ingat konsep X yang baru kita bahas."*
 
 ## 6. Kelas Sejarah Ibu Ratna
 
@@ -26953,10 +26373,11 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 
 Penting untuk diingat bahwa intervensi edukatif harus memiliki rasio gangguan minimal terhadap efektivitas maksimal. Kita dapat merumuskan "Efisiensi Intervensi" ($Ei$) secara sederhana sebagai:
 
+<div>
 $$
-
 Ei = \frac{K}{D}
 $$
+</div>
 
 Di mana:
 
@@ -27166,23 +26587,13 @@ Tentu saja, komunikasi proaktif tidak berarti kita mengabaikan masalah. Saat mas
 
 **Konteks:** Seorang siswa sering mengganggu teman saat jam pelajaran.
 
-```python
-Kepada Ibu Maya,
-
-(Roti Atas)
-"Selamat siang Bu, saya ingin mengapresiasi semangat belajar Andi hari ini. 
-Andi sangat aktif menjawab pertanyaan saat pelajaran Sains."
-
-(Isi)
-"Namun, saya memperhatikan Andi kesulitan mengontrol energinya saat sesi 
-kerja mandiri, sehingga ia sering berjalan-jalan dan mengganggu teman 
-di sekitarnya. Hal ini membuat tugasnya sering tidak selesai tepat waktu."
-
-(Roti Bawah)
-"Bagaimana menurut Ibu? Apakah ada strategi di rumah yang biasa Ibu gunakan 
-untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas 
-agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya."
-```
+> Kepada Ibu Maya,
+>
+> **Roti Atas:** Selamat siang Bu, saya ingin mengapresiasi semangat belajar Andi hari ini. Andi sangat aktif menjawab pertanyaan saat pelajaran Sains.
+>
+> **Isi:** Namun, saya memperhatikan Andi kesulitan mengontrol energinya saat sesi kerja mandiri, sehingga ia sering berjalan-jalan dan mengganggu teman di sekitarnya. Hal ini membuat tugasnya sering tidak selesai tepat waktu.
+>
+> **Roti Bawah:** Bagaimana menurut Ibu? Apakah ada strategi di rumah yang biasa Ibu gunakan untuk membantu Andi fokus? Saya ingin kita mencoba pendekatan yang sama di kelas agar Andi bisa memaksimalkan potensinya. Terima kasih atas dukungannya.
 
 ## 6. Rencana Aksi 30 Hari
 
@@ -27257,10 +26668,11 @@ Data tanpa aksi adalah tumpukan kertas. Setelah mengumpulkan hasil evaluasi diri
 
 Kita bisa memandang efektivitas manajemen kelas ($E$) sebagai fungsi dari Konsistensi ($K$) dan Kualitas Hubungan ($H$), dibagi dengan hambatan lingkungan ($L$):
 
+<div>
 $$
-
 E = \frac{K \times H}{L}
 $$
+</div>
 
 Jika hasil monitoring menunjukkan skor $E$ rendah, periksa variabel mana yang bermasalah. Apakah konsistensi kamu menurun? Atau apakah ada faktor lingkungan (distraksi fisik) yang meningkat?
 
@@ -27329,8 +26741,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27427,11 +26839,9 @@ Untuk menjelaskan distingsi ontologis antara artefak buatan manusia dan subjek k
 Sebelum sebilah pisau pemotong kertas diproduksi, sang perajin telah memiliki konsep mental mengenai fungsi, bentuk, dan tujuan utilitas benda tersebut. Dengan demikian, esensi atau tujuan konseptual mendahului keberadaan fisiknya:
 
 <div>
-
 $$
 \text{Esensi (Konsep/Tujuan)} \rightarrow \text{Eksistensi (Keberadaan Fisik)}
 $$
-
 </div>
 
 Benda mati terikat secara mutlak pada determinisme desain perancangnya dan tidak memiliki kapasitas kehendak untuk mengubah esensinya.
@@ -27441,11 +26851,9 @@ Benda mati terikat secara mutlak pada determinisme desain perancangnya dan tidak
 Berbeda secara radikal dari entitas objek, manusia terlempar ke dalam eksistensi tanpa rancangan awal. Manusia ada terlebih dahulu, menjumpai dirinya di dunia, dan baru setelah itu mengonstruksi identitas serta nilainya sendiri:
 
 <div>
-
 $$
 \text{Eksistensi (Keberadaan)} \rightarrow \text{Tindakan (Praksis)} \rightarrow \text{Esensi (Identitas)}
 $$
-
 </div>
 
 Tidak ada determinisme biologis absolut, kodrat metafisik bawaan, atau takdir eksternal yang menentukan esensi manusia. Eksistensi manusia adalah sebuah keterbukaan (*open-ended project*) yang terus bergerak ke masa depan.
@@ -27467,29 +26875,15 @@ Postulat bahwa eksistensi mendahului esensi melahirkan konsekuensi etis yang men
 2. **Tanggung Jawab Total:** Dalam ketiadaan determinisme eksternal, individu tidak dapat melimpahkan kegagalan moral atau eksistensialnya kepada faktor genetik, lingkungan masa kecil, atau nasib.
 3. **Konstruksi Nilai Mandiri:** Nilai dan makna tidak menunggu untuk ditemukan secara pasif di alam semesta, melainkan harus diciptakan secara aktif melalui komitmen tindakan.
 
-### 4. Perbandingan Paradigma Logika
+### 4. Perbandingan Paradigma Esensialis dan Eksistensialis
 
-Dalam perspektif logika komputasional, perbedaan antara esensialisme dan eksistensialisme dapat dipetakan ke dalam model logika deterministik melawan sistem probabilistik adaptif:
+Perbedaan antara esensialisme dan eksistensialisme menjadi jelas bila pisau kertas dan manusia disandingkan:
 
-- **Model Esensialis (Logika Deterministik):**
-	```python
-	def identitas_objek(kondisi):
-	    # Esensi dan fungsi telah didefinisikan secara statis oleh perancang
-	    return "Fungsi tunggal: Alat pemotong utiliter"
-	```
-
-- **Model Eksistensialis (Sistem Adaptif Terbuka):**
-	```python
-	class SubjekEksistensial:
-	    def __init__(self):
-	        self.esensi = "Kekosongan awal"
-	        self.rekam_tindakan = []
-	    def pilih_tindakan(self, keputusan):
-	        self.rekam_tindakan.append(keputusan)
-	        self.esensi = self.artikulasikan_identitas()
-	```
-
-Dalam kerangka eksistensialis, identitas bukan fungsi statis bawaan, melainkan hasil agregasi dari pilihan-pilihan sadar yang terus diperbarui.
+| Aspek | Model Esensialis (Pisau Kertas) | Model Eksistensialis (Manusia) |
+| --- | --- | --- |
+| **Titik awal** | Konsep fungsi dan tujuan sudah ada di benak perajin sebelum benda dibuat | Kekosongan awal, tanpa rancangan apa pun |
+| **Fungsi** | Satu fungsi tetap sebagai alat pemotong | Tidak ada fungsi bawaan yang mengikat |
+| **Perubahan esensi** | Statis, benda tidak dapat mengubah esensinya sendiri | Identitas adalah hasil agregasi pilihan-pilihan sadar yang terus diperbarui |
 
 ### 5. Kritik terhadap Determinisme Psikologis
 
@@ -27541,14 +26935,12 @@ Struktur eksistensi manusia dalam mengekspresikan kehendak bebas bergerak dalam 
 Kehendak bebas beroperasi pada celah intensionalitas antara persepsi atas situasi dan eksekusi praksis. Secara matematis, identitas eksistensial subjek merupakan fungsi akumulasi dari rangkaian keputusan sadar:
 
 <div>
-
 $$
 \text{Eksistensi} = \sum_{i=1}^{n} \text{Pilihan}_i
 $$
-
 </div>
 
-Di mana setiap $\text{Pilihan}_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
+Di mana setiap $\text{Pilihan}\_i$ yang dieksekusi secara sadar dari rentang waktu $i=1$ hingga $n$ membentuk akumulasi esensi subjek. Dalam model ontologi eksistensialisme ateistik, tidak ada konstanta takdir bawaan yang membatasi kapasitas pemilihan tersebut.
 
 ### 4. Keniscayaan Memilih dan Paradoks Pelarian
 
@@ -27592,11 +26984,9 @@ Dalam pemikiran Camus, istilah "absurd" bukanlah sekadar keanehan situasi sehari
 2. Karakter alam semesta yang dingin, kontingen, dan tidak menyediakan jawaban atas pencarian manusia.
 
 <div>
-
 $$
 \text{Hasrat Makna (Manusia)} + \text{Kesunyian Kosmik (Dunia)} = \text{Kondisi Absurd}
 $$
-
 </div>
 
 Absurditas tidak berada di dalam diri subjek semata, tidak pula bersemayam di alam semesta secara terisolasi. Kondisi absurd terartikulasi secara murni dalam jalinan relasi ketegangan antara keduanya.
@@ -27682,19 +27072,15 @@ Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri
 Kebebasan eksistensial tidak berjalan dalam kehampaan tanpa dampak, melainkan senantiasa memikul beban tanggung jawab mutlak:
 
 <div>
-
 $$
 \text{Kebebasan Radikal} + \text{Multiplisitas Kemungkinan} = \text{Tanggung Jawab Mutlak}
 $$
-
 </div>
 
 <div>
-
 $$
 \text{Tanggung Jawab Mutlak} \rightarrow \text{Kecemasan Ontologis (Angst)}
 $$
-
 </div>
 
 Ketika seorang individu mengambil suatu keputusan, tindakan tersebut tidak hanya membentuk esensi dirinya, tetapi juga mencerminkan suatu model pilihan bagi kemanusiaan secara universal. Ketiadaan rujukan otoritas eksternal menjadikan subjek sebagai penanggung jawab tunggal atas konsekuensi tindakannya.
@@ -27723,24 +27109,21 @@ Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang ha
 2. **Katalis Komitmen (*Engagement*):** Penanggulangan rasa pusing akibat kebebasan dicapai melalui tindakan nyata dan komitmen praksis.
 3. **Akseptasi Keterbatasan:** Menyadari bahwa setiap keputusan mengorbankan alternatif kemungkinan lain secara sadar.
 
-### 6. Matriks Logika Pengambilan Keputusan
+### 6. Memilih atau Melarikan Diri
 
-Dalam permodelan logika keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk:
+Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab berikutnya.
 
-```python
-def eksekusi_pilihan_eksistensial(kumpulan_opsi):
-    for opsi in kumpulan_opsi:
-        evaluasi_transendensi(opsi)
-    
-    # Titik kristalisasi kehendak (Angst)
-    tindakan_terpilih = subjek.tentukan_kehendak(kumpulan_opsi)
-    
-    if tindakan_terpilih:
-        # Menegakkan tanggung jawab penuh atas konsekuensi
-        return subjek.pikul_tanggung_jawab(tindakan_terpilih)
-    else:
-        # Modus pelarian tanggung jawab (Bad Faith)
-        return "Iktikad Buruk (Mauvaise Foi)"
+Dua ujung dari momen memilih itu tergambar dalam percabangan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Percabangan antara tindakan otentik dan iktikad buruk
+    accDescr: Subjek menimbang setiap opsi, lalu tiba di titik ketika kehendak harus mengkristal dan Angst muncul. Jika subjek memilih, ia menjalankan tindakan otentik dan memikul tanggung jawab penuh atas konsekuensinya. Jika ia menolak memilih, ia jatuh ke iktikad buruk, yaitu pelarian dari tanggung jawab.
+    A["Subjek menimbang setiap opsi"] --> B{"Kehendak mengkristal menjadi satu pilihan?"}
+    B -->|"ya, memilih"| C["Tindakan otentik"]
+    C --> D["Memikul tanggung jawab penuh atas konsekuensi"]
+    B -->|"tidak, menolak memilih"| E["Iktikad buruk (mauvaise foi)"]
+    E --> F["Pelarian dari tanggung jawab"]
 ```
 
 ### 7. Harga Ontologis dari Kebebasan
@@ -27795,19 +27178,15 @@ Iktikad buruk termanifestasi ketika terjadi disosiasi antara kedua dimensi terse
 Otentisitas tercapai melalui integrasi dialektis yang seimbang, yakni mengakui faktisitas secara objektif sembari memproyeksikan transendensi secara bertanggung jawab:
 
 <div>
-
 $$
 \text{Otentisitas} \neq \text{Faktisitas} + \text{Transendensi}
 $$
-
 </div>
 
 <div>
-
 $$
 \text{Otentisitas} = \text{Pengakuan}(\text{Faktisitas}) \times \text{TanggungJawab}(\text{Transendensi})
 $$
-
 </div>
 
 ### 4. Matriks Komparatif Otentisitas vs Iktikad Buruk
@@ -27858,14 +27237,12 @@ Sebagaimana digagas oleh Simone de Beauvoir dalam *The Ethics of Ambiguity*, keb
 Relasi intersubjektivitas kebebasan non-dominatif dirumuskan dalam model keselarasan sosial berikut:
 
 <div>
-
 $$
 K_{\text{total}} = K_{\text{diri}} + \sum K_{\text{sesama}}
 $$
-
 </div>
 
-Di mana $K_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
+Di mana $K\_{\text{diri}}$ merepresentasikan kedaulatan kehendak personal, sementara $\sum K\_{\text{sesama}}$ menandakan keterbukaan ruang kebebasan bagi entitas sosial lain. Membela kebebasan sesama dari tirani bukanlah tindakan moralitas paternalistik, melainkan praksis pembukaan ruang kemungkinan eksistensial yang seluas-luasnya bagi semua subjek.
 
 ### 3. Dekonstruksi Fatalisme di Hadapan Nubuat (*Will of D*)
 
@@ -27949,16 +27326,14 @@ Puncak dari proyek filosofis Nietzsche adalah figur **Übermensch** (Manusia Ung
 Secara konseptual, pertumbuhan potensi eksistensial teraktualisasi dapat dimodelkan sebagai fungsi atas intensitas penaklukkan diri:
 
 <div>
-
 $$
 P(t) = P_0 \cdot e^{k \cdot s}
 $$
-
 </div>
 
 Di mana variabel formulasi mencakup:
 - $P(t)$: Potensi eksistensial yang teraktualisasi pada kurun waktu $t$.
-- $P_0$: Kapasitas awal subjek.
+- $P\_0$: Kapasitas awal subjek.
 - $k$: Koefisien efisiensi internalisasi pengalaman.
 - $s$: Derajat penaklukkan diri (*self-overcoming*).
 
@@ -27999,11 +27374,9 @@ Dalam risalah *L''existentialisme est un humanisme*, Sartre merumuskan prinsip b
 Setiap tindakan sadar mencerminkan sebuah pengakuan nilai bahwa tindakan tersebut pantas diadopsi sebagai model keberadaan manusia. Secara konseptual, logika universalisasi ini dirumuskan sebagai berikut:
 
 <div>
-
 $$
 \text{Pilihan Subjektif} \Rightarrow \text{Standar Etika Universal}
 $$
-
 </div>
 
 Apabila seorang subjek memilih kejujuran dalam situasi yang penuh risiko, ia memproklamasikan nilai bahwa manusia ideal adalah makhluk yang berintegritas. Sebaliknya, memilih pengkhianatan demi kenyamanan personal secara implisit memvalidasi tatanan dunia yang permisif terhadap kebohongan.
@@ -28061,11 +27434,9 @@ Mendekonstruksi tujuan-tujuan palsu yang diadopsi dari konformitas sosial, ekspe
 Secara teoretis, artikulasi kebermaknaan hidup merupakan fungsi dari integrasi nilai otonom dan realisasi praksis yang dipadukan dengan penerimaan atas kontingensi realitas:
 
 <div>
-
 $$
 \text{Makna Eksistensial} = (\text{Nilai Otentik} \times \text{Praksis Tindakan}) + \text{Akseptasi Kontingensi}
 $$
-
 </div>
 
 - **Nilai Otentik:** Prinsip etis yang dipilih secara sadar tanpa koersi eksternal.
@@ -28128,11 +27499,9 @@ Ketika seseorang memandang profesinya sebagai peran instrumental belaka dan meno
 Masyarakat teknokratis senantiasa memproduksi naskah linier mengenai tahapan hidup ideal:
 
 <div>
-
 $$
 \text{Edukasi Formal} \rightarrow \text{Stabilitas Finansial} \rightarrow \text{Konformitas Sosial} \rightarrow \text{Pensiun}
 $$
-
 </div>
 
 Eksistensialisme memandang adopsi tanpa telaah kritis atas siklus ini sebagai bentuk ketidakotentikan. Asumsi bahwa akumulasi ekspektasi eksternal secara mekanis menghasilkan kebermaknaan hidup ($\sum \text{Ekspektasi} = \text{Makna}$) merupakan ilusi struktural. Makna hidup yang otentik lahir dari keselarasan antara praksis tindakan konkret dan nilai-nilai yang dipilih secara otonom.
@@ -28181,11 +27550,9 @@ Kebebasan radikal tidak dapat dipisahkan dari tanggung jawab mutlak. Ketika subj
 Formulasi integritas eksistensial dirumuskan sebagai sinergi antara kebebasan dan tanggung jawab:
 
 <div>
-
 $$
 \text{Kebebasan Radikal} + \text{Tanggung Jawab Total} = \text{Eksistensi Otentik}
 $$
-
 </div>
 
 ### 4. Menegakkan Otentisitas di Tengah Kontingensi Duniawi
@@ -28283,8 +27650,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28405,8 +27772,8 @@ Pemain adalah para pengambil keputusan dalam permainan. Mereka adalah entitas ya
 
 Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan sekadar satu langkah tunggal, melainkan sebuah instruksi yang memberi tahu pemain apa yang harus dilakukan pada setiap situasi yang mungkin terjadi dalam permainan.
 
-- **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S_i$.
-- **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \{\text{Gunting}, \text{Batu}, \text{Kertas}\}$.
+- **Ruang Strategi:** Kumpulan semua strategi yang tersedia bagi pemain $i$ biasanya dilambangkan dengan $S\_i$.
+- **Contoh Sederhana:** Dalam permainan Gunting-Batu-Kertas, ruang strategi kamu adalah $S = \lbrace \text{Gunting}, \text{Batu}, \text{Kertas} \rbrace$.
 - **Strategi vs. Aksi:**
   - **Aksi:** Langkah spesifik pada satu titik waktu (misal: "Saya memindahkan pion ke E4").
   - **Strategi:** Rencana total (misal: "Jika dia menggerakkan kuda, saya akan memindahkan menteri; jika dia menggerakkan pion, saya akan bertahan").
@@ -28417,7 +27784,7 @@ Strategi adalah rencana aksi yang **lengkap** dan **menyeluruh**. Ini bukan seka
 
 Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini mencerminkan tingkat kepuasan, keuntungan, atau utilitas yang diperoleh pemain dari hasil interaksi tersebut.
 
-- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u_i(s_1, s_2, \dots, s_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
+- **Fungsi Utilitas:** Imbalan biasanya dinyatakan dalam fungsi utilitas $u\_i(s\_1, s\_2, \dots, s\_n)$, yang berarti imbalan pemain $i$ bergantung bukan hanya pada strateginya sendiri ($s\_i$), tetapi juga pada strategi yang dipilih oleh semua pemain lainnya.
 - **Bentuk Imbalan:**
   - Dalam bisnis: **Profit/Laba**.
   - Dalam politik: **Jumlah suara atau kekuasaan**.
@@ -28431,7 +27798,7 @@ Imbalan adalah nilai numerik yang diterima pemain di akhir permainan. Nilai ini 
 Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** dan **Toko B** menjual produk yang sama di jalan yang sama.
 
 1. **Pemain:** Toko A dan Toko B.
-2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\{\text{Harga Tinggi}, \text{Harga Murah}\}$.
+2. **Strategi:** Masing-masing memiliki dua pilihan strategi harga: $\lbrace \text{Harga Tinggi}, \text{Harga Murah} \rbrace$.
 3. **Imbalan (Profit):**
    - Jika keduanya memasang **Harga Tinggi**, masing-masing mendapat profit Rp10 juta (pasar stabil).
    - Jika keduanya memasang **Harga Murah**, masing-masing mendapat profit Rp5 juta (margin tipis).
@@ -28439,47 +27806,26 @@ Mari kita terapkan elemen-elemen di atas ke dalam skenario bisnis: **Toko A** da
 
 Secara matematis, jika kita melihat dari sudut pandang Toko A, fungsi imbalannya adalah:
 
+<div>
 $$
 u_A(\text{Murah}, \text{Tinggi}) = 15
 $$
+</div>
 
+<div>
 $$
 u_A(\text{Tinggi}, \text{Tinggi}) = 10
 $$
+</div>
 
-### Implementasi Teknis (Konsep Python)
+Ketiga elemen tadi bisa dirangkum dalam satu matriks imbalan. Pilihan Toko A ada di baris, pilihan Toko B ada di kolom, dan setiap sel berisi profit dalam juta rupiah (angka pertama untuk Toko A, angka kedua untuk Toko B):
 
-Dalam pemodelan simulasi, kita sering mendefinisikan elemen-elemen ini dalam struktur data. Berikut adalah representasi sederhana bagaimana elemen dasar ini disusun dalam kode:
+| Toko A \ Toko B | Harga Tinggi | Harga Murah |
+| --- | --- | --- |
+| **Harga Tinggi** | (10, 10) | (2, 15) |
+| **Harga Murah** | (15, 2) | (5, 5) |
 
-```python
-class GameElement:
-    def __init__(self):
-        # 1. Pemain (Players)
-        self.players = ["Toko_A", "Toko_B"]
-        
-        # 2. Ruang Strategi (Strategy Space)
-        self.strategies = {
-            "Toko_A": ["Harga_Tinggi", "Harga_Murah"],
-            "Toko_B": ["Harga_Tinggi", "Harga_Murah"]
-        }
-        
-    # 3. Hasil atau Imbalan (Payoffs)
-    def get_payoff(self, action_a, action_b):
-        # Matriks Imbalan dalam bentuk logika
-        if action_a == "Harga_Tinggi" and action_b == "Harga_Tinggi":
-            return (10, 10)
-        elif action_a == "Harga_Murah" and action_b == "Harga_Tinggi":
-            return (15, 2)
-        elif action_a == "Harga_Tinggi" and action_b == "Harga_Murah":
-            return (2, 15)
-        else: # Keduanya Harga Murah
-            return (5, 5)
-
-# Simulasi interaksi
-game = GameElement()
-hasil = game.get_payoff("Harga_Murah", "Harga_Tinggi")
-print(f"Hasil Imbalan (Toko A, Toko B): {hasil}")
-```
+Sel kanan atas adalah kebalikan dari kasus ketiga: jika Toko A bertahan di Harga Tinggi sementara Toko B memasang Harga Murah, giliran Toko B yang merebut pelanggan dan mendapat Rp15 juta, sedangkan Toko A hanya mendapat Rp2 juta.
 
 ### Ringkasan Strategis
 
@@ -28571,36 +27917,7 @@ Bayangkan sebuah skenario bisnis: **Perusahaan A** (Pendatang Baru) memutuskan a
 
 **Dalam Bentuk Normal:** Kita bisa memodelkannya sebagai matriks, tetapi kita akan kehilangan nuansa bahwa Perusahaan B baru bertindak *setelah* melihat langkah Perusahaan A.
 
-## 5. Implementasi Teknis (Python)
-
-Dalam dunia data science dan AI, kita sering menggunakan pustaka seperti `Nashpy` untuk merepresentasikan permainan dalam bentuk matriks. Berikut adalah cara mendefinisikan permainan sederhana:
-
-```python
-import nashpy as nash
-import numpy as np
-
-# Definisikan Payoff untuk Pemain Baris (Pemain 1)
-# Contoh: Dilema Tahanan
-# Matriks A: [ [-1, -3], [0, -2] ]
-A = np.array([[-1, -3], [0, -2]])
-
-# Definisikan Payoff untuk Pemain Kolom (Pemain 2)
-# Matriks B: [ [-1, 0], [-3, -2] ]
-B = np.array([[-1, 0], [-3, -2]])
-
-# Buat objek permainan
-prisoners_dilemma = nash.Game(A, B)
-
-print("Matriks Permainan:")
-print(prisoners_dilemma)
-
-# Menemukan Ekuilibrium Nash (akan dibahas di modul selanjutnya)
-equilibria = prisoners_dilemma.support_enumeration()
-for eq in equilibria:
-    print(f"Ekuilibrium ditemukan: {eq}")
-```
-
-## 6. Latihan Refleksi
+## 5. Latihan Refleksi
 
 *Coba bayangkan permainan "Batu-Gunting-Kertas".*
 
@@ -28697,46 +28014,7 @@ Kesimpulan: Strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi
 
 Karena Perusahaan B juga rasional dan memiliki struktur payoff yang sama, mereka juga akan mengeliminasi "Tidak Iklan". Hasil akhirnya adalah (50, 50).
 
-### 5. Mendeteksi Dominasi dengan Kode
-
-Berikut adalah contoh sederhana menggunakan Python untuk memeriksa apakah suatu strategi dalam matriks payoff mendominasi strategi lainnya.
-
-```python
-def check_dominance(player_payoffs):
-    """
-    Memeriksa apakah ada strategi yang mendominasi strategi lain.
-    player_payoffs: list of lists (baris adalah strategi)
-    """
-    num_strategies = len(player_payoffs)
-    dominated_indices = []
-
-    for i in range(num_strategies):
-        for j in range(num_strategies):
-            if i == j: continue
-            
-            # Cek apakah strategi j mendominasi strategi i secara ketat
-            is_dominated = all(player_payoffs[i][k] < player_payoffs[j][k] 
-                               for k in range(len(player_payoffs[0])))
-            
-            if is_dominated:
-                print(f"Strategi {i} didominasi secara ketat oleh Strategi {j}")
-                dominated_indices.append(i)
-                break
-                
-    return list(set(dominated_indices))
-
-# Contoh Payoff Pemain A
-# Baris 0: Strategi A1, Baris 1: Strategi A2
-# Kolom: Respons Pemain B
-payoffs_A = [
-    [50, 90], # Strategi Beriklan
-    [20, 70]  # Strategi Tidak Iklan
-]
-
-check_dominance(payoffs_A)
-```
-
-### 6. Strategi Dominan dalam Perang Harga, Perlombaan Senjata, dan Lelang
+### 5. Strategi Dominan dalam Perang Harga, Perlombaan Senjata, dan Lelang
 
 #### A. Perang Harga di Supermarket
 
@@ -28750,7 +28028,7 @@ Dalam politik internasional, dua negara mungkin merasa bahwa membangun senjata n
 
 Dalam lelang tertutup (Vickrey Auction), menawar sesuai dengan nilai asli barang bagi kamu (true valuation) adalah strategi dominan lemah. Kamu tidak akan pernah rugi dengan menawar sesuai nilai asli, karena menawar lebih tinggi bisa membuat kamu membayar lebih mahal dari nilai barang, dan menawar lebih rendah hanya memperkecil peluang menang tanpa mengubah harga yang harus dibayar.
 
-### 7. Kesimpulan & Refleksi
+### 6. Kesimpulan & Refleksi
 
 Memahami strategi dominan membantu kita untuk memprediksi perilaku dalam situasi kompetitif. Jika lawanmu memiliki strategi dominan, kamu bisa berasumsi dengan yakin bahwa mereka akan mengambil langkah tersebut.
 
@@ -28784,19 +28062,21 @@ Jika saat ini kalian berdua berada di **Pintu Utara**, apakah kamu ingin pindah 
 
 ### 2. Definisi Formal
 
-Secara matematis, misalkan terdapat $n$ pemain. Sebuah kombinasi strategi $(s_1^*, s_2^*, \dots, s_n^*)$ disebut sebagai Ekuilibrium Nash jika untuk setiap pemain $i$:
+Secara matematis, misalkan terdapat $n$ pemain. Sebuah kombinasi strategi $(s\_1^{\ast}, s\_2^{\ast}, \dots, s\_n^{\ast})$ disebut sebagai Ekuilibrium Nash jika untuk setiap pemain $i$:
 
+<div>
 $$
 u_i(s_i^*, s_{-i}^*) \geq u_i(s_i, s_{-i}^*)
 $$
+</div>
 
 Dengan:
 
-- $u_i$ adalah fungsi utilitas atau *payoff* (hasil) bagi pemain $i$.
-- $s_i^*$ adalah strategi optimal pemain $i$.
-- $s_{-i}^*$ adalah strategi yang dipilih oleh semua pemain lain selain pemain $i$.
+- $u\_i$ adalah fungsi utilitas atau *payoff* (hasil) bagi pemain $i$.
+- $s\_i^{\ast}$ adalah strategi optimal pemain $i$.
+- $s\_{-i}^{\ast}$ adalah strategi yang dipilih oleh semua pemain lain selain pemain $i$.
 
-Artinya, hasil ($u_i$) yang didapat pemain $i$ dengan strategi $s_i^*$ adalah yang tertinggi dibandingkan pilihan strategi lainnya ($s_i$), dengan asumsi pemain lain tidak mengubah pilihan mereka.
+Artinya, hasil ($u\_i$) yang didapat pemain $i$ dengan strategi $s\_i^{\ast}$ adalah yang tertinggi dibandingkan pilihan strategi lainnya ($s\_i$), dengan asumsi pemain lain tidak mengubah pilihan mereka.
 
 ### 3. Cara Menemukan Ekuilibrium Nash dalam Matriks
 
@@ -28935,30 +28215,6 @@ Dua negara merasa lebih aman jika memiliki nuklir. Jika Negara A membangun nukli
 
 Setiap negara diuntungkan jika semua negara mengurangi emisi karbon. Namun, secara individu, setiap negara memiliki insentif untuk terus menggunakan energi murah (fosil) demi pertumbuhan ekonomi sambil berharap negara lain melakukan penghematan. Hasilnya? Polusi global terus meningkat.
 
-### Simulasi Sederhana dengan Kode (Python)
-
-Berikut adalah cuplikan kode sederhana untuk memvisualisasikan bagaimana keputusan diambil berdasarkan matriks Dilema Tahanan:
-
-```python
-def prisoner_dilemma(player_a_choice, player_b_choice):
-    # Definisi hasil (tahun penjara)
-    # Choice: ''C'' (Cooperate/Diam), ''D'' (Defect/Mengaku)
-    outcomes = {
-        (''C'', ''C''): (1, 1),
-        (''C'', ''D''): (10, 0),
-        (''D'', ''C''): (0, 10),
-        (''D'', ''D''): (5, 5)
-    }
-    return outcomes[(player_a_choice, player_b_choice)]
-
-# Skenario: Keduanya bertindak rasional demi kepentingan pribadi
-decision_a = ''D'' # Mengaku
-decision_b = ''D'' # Mengaku
-
-result = prisoner_dilemma(decision_a, decision_b)
-print(f"Hasil akhir: Tahanan A {result[0]} tahun, Tahanan B {result[1]} tahun.")
-```
-
 ### Cara Mengatasi Dilema
 
 Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masyarakat bisa berfungsi? Para ilmuwan menemukan beberapa cara untuk memicu kerja sama:
@@ -29063,6 +28319,8 @@ Dua rekan kerja memilih untuk bekerja keras atau malas.
 
 *Di sini, (5, 5) menunjukkan total hasil 10 (Positive-Sum). Jika keduanya malas (0,0), mereka tidak mendapatkan apa-apa.*
 
+Dari dua contoh ini terlihat cara cepat mengecek sifat sebuah matriks: jumlahkan kedua angka di setiap sel. Jika semua sel menghasilkan jumlah yang sama, yaitu nol (atau konstanta tertentu), permainan itu zero-sum. Begitu ada satu sel saja yang jumlahnya berbeda, seperti sel (5, 5) tadi, permainan itu sudah non-zero-sum.
+
 ## 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 
 ### Penetrasi Pasar vs. Perang Harga
@@ -29074,38 +28332,6 @@ Dua rekan kerja memilih untuk bekerja keras atau malas.
 
 - Perebutan wilayah perbatasan sering kali bersifat **Zero-Sum** (Tanah yang aku ambil adalah tanah yang kamu lepaskan).
 - Perjanjian perdagangan bebas bersifat **Non-Zero-Sum** karena memungkinkan spesialisasi yang meningkatkan kemakmuran global secara keseluruhan.
-
-## 6. Mengecek Sifat Permainan dengan Kode Sederhana (Python)
-
-Bagi kamu yang belajar dari sisi teknis atau algoritmik, berikut adalah potongan kode sederhana untuk memvalidasi apakah sebuah matriks permainan bersifat Zero-Sum.
-
-```python
-def check_game_type(matrix):
-    """
-    Memeriksa apakah matriks payoff merupakan Zero-Sum atau Non-Zero-Sum.
-    Format matrix: List of lists containing tuples (payoff_a, payoff_b)
-    """
-    is_zero_sum = True
-    
-    for row in matrix:
-        for payoff_a, payoff_b in row:
-            if payoff_a + payoff_b != 0:
-                is_zero_sum = False
-                break
-        if not is_zero_sum: break
-            
-    if is_zero_sum:
-        return "Permainan ini adalah Zero-Sum."
-    else:
-        return "Permainan ini adalah Non-Zero-Sum."
-
-# Contoh Matriks (Pemain A, Pemain B)
-game_1 = [[(1, -1), (-1, 1)], [(-1, 1), (1, -1)]] # Zero-Sum
-game_2 = [[(5, 5), (0, 10)], [(10, 0), (1, 1)]]   # Non-Zero-Sum (Dilema Tahanan)
-
-print(f"Game 1: {check_game_type(game_1)}")
-print(f"Game 2: {check_game_type(game_2)}")
-```
 
 ## Ringkasan untuk Diingat
 
@@ -29201,34 +28427,9 @@ Dua pemain, A dan B, masing-masing menaruh koin di meja secara sembunyi-sembunyi
 
 Artinya, Pemain A harus memilih Angka 50% dari waktu dan Gambar 50% dari waktu agar Pemain B tidak bisa memprediksi dan memenangkan permainan.
 
-### 4. Implementasi dalam Kode (Python)
+Perhitungan yang sama dari sisi Pemain A (menyamakan ekspektasi hasilnya saat memilih Angka dan saat memilih Gambar) menghasilkan $q = 0{,}5$ untuk Pemain B. Jadi, dalam ekuilibrium strategi campuran Matching Pennies, kedua pemain memilih masing-masing aksi dengan peluang 0,5.
 
-Dalam dunia nyata, kita bisa menggunakan pustaka seperti `Nashpy` untuk mencari ekuilibrium strategi campuran secara otomatis.
-
-```python
-import nashpy as nash
-import numpy as np
-
-# Membuat matriks payoff untuk Matching Pennies
-# Pemain A (Baris), Pemain B (Kolom)
-A = np.array([[1, -1], [-1, 1]])
-B = np.array([[-1, 1], [1, -1]])
-
-# Inisialisasi permainan
-matching_pennies = nash.Game(A, B)
-
-# Menghitung Ekuilibrium Nash
-equilibria = matching_pennies.support_enumeration()
-
-print("Ekuilibrium Strategi Campuran:")
-for eq in equilibria:
-    print(f"Pemain A: {eq[0]}")
-    print(f"Pemain B: {eq[1]}")
-```
-
-*Hasilnya akan menunjukkan bahwa kedua pemain harus memilih masing-masing aksi dengan peluang 0,5.*
-
-### 5. Aplikasi Dunia Nyata dan Kasus Praktis
+### 4. Aplikasi Dunia Nyata dan Kasus Praktis
 
 Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
 
@@ -29248,7 +28449,7 @@ Dalam tenis, jika seorang pemain selalu melakukan servis *wide* (melebar) saat p
 
 Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan menggunakan strategi campuran, mereka dapat membagi personel secara acak di berbagai titik rawan. Ketidakpastian ini memaksa pengemudi untuk tetap patuh di mana pun mereka berada karena siapa tahu ada polisi di sana.
 
-### 6. Ringkasan Visual
+### 5. Ringkasan Visual
 
 | Aspek | Strategi Murni | Strategi Campuran |
 | --- | --- | --- |
@@ -29257,7 +28458,7 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 | **Tujuan Utama** | Memaksimalkan hasil langsung | Mencegah eksploitasi oleh lawan |
 | **Contoh** | Membeli barang termurah | Menentukan rute patroli keamanan |
 
-### 7. Refleksi dan Latihan
+### 6. Refleksi dan Latihan
 
 - **Pertanyaan Refleksi:** *Dalam kehidupan sehari-hari, pernahkah kamu sengaja bersikap tidak terduga agar orang lain tidak bisa menebak langkahmu? Apakah itu secara tidak sadar merupakan bentuk strategi campuran?*
 
@@ -29359,35 +28560,13 @@ Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Eq
 
 Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
-## 6. Kode Logika Sederhana
-
-Dalam pemrograman atau AI, kita sering menggunakan algoritma **Minimax** (bentuk dari induksi mundur) untuk permainan seperti Tic-Tac-Toe.
-
-```python
-# Pseudo-code logika induksi mundur sederhana
-def decision_making(node):
-    if node.is_terminal():
-        return node.payoff
-    
-    # Pemain ingin memaksimalkan payoff-nya
-    best_value = -float(''inf'')
-    for action in node.possible_actions():
-        value = decision_making(action.result_node())
-        best_value = max(best_value, value)
-    
-    return best_value
-
-# Hasilnya adalah nilai terbaik yang bisa didapat 
-# dengan asumsi lawan juga bermain optimal secara mundur.
-```
-
-## 7. Aplikasi Dunia Nyata dan Kasus Praktis
+## 6. Aplikasi Dunia Nyata dan Kasus Praktis
 
 1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
-2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini.
+2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini. Dalam dunia AI, bentuk induksi mundur ini dikenal sebagai algoritma **Minimax**, yang juga dipakai untuk permainan seperti Tic-Tac-Toe.
 3. **Strategi Militer:** Analisis langkah-demi-langkah dalam penyebaran pasukan, di mana reaksi musuh terhadap setiap gerakan harus diantisipasi sebelum perintah pertama diberikan.
 
-## 8. Tantangan dan Batasan
+## 7. Tantangan dan Batasan
 
 Meskipun secara teori sangat kuat, induksi mundur memiliki kelemahan dalam praktik:
 
@@ -29514,48 +28693,22 @@ Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulan
 
 Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung sangat jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
 
-## 5. Simulasi Tit-for-Tat dengan Kode
+## 5. Tit-for-Tat Menghadapi Satu Kecurangan
 
-Mari kita lihat bagaimana strategi ini bekerja dalam simulasi sederhana menggunakan Python.
+Mari kita lihat bagaimana strategi ini bekerja selama lima ronde. Kamu memakai Tit-for-Tat, sedangkan lawanmu selalu bekerja sama kecuali sekali, yaitu di ronde ke-3, ketika ia curang. Poin setiap ronde memakai angka ilustrasi berikut:
 
-```python
-def repeated_game_simulation(rounds):
-    # Strategi Tit-for-Tat vs Pemain yang sesekali curang
-    my_history = [''C''] # C = Cooperate, D = Defect
-    opponent_history = [''C'']
-    
-    payoff_matrix = {
-        (''C'', ''C''): (3, 3),
-        (''C'', ''D''): (0, 5),
-        (''D'', ''C''): (5, 0),
-        (''D'', ''D''): (1, 1)
-    }
+- Keduanya bekerja sama: masing-masing mendapat 3 poin.
+- Satu pihak curang dan pihak lain bekerja sama: yang curang mendapat 5 poin, yang dicurangi 0 poin.
 
-    total_score_me = 0
-    total_score_opp = 0
+| Ronde | Langkah kamu | Langkah lawan | Poin ronde (kamu, lawan) | Total poin (kamu, lawan) |
+| --- | --- | --- | --- | --- |
+| 1 | Kerja sama | Kerja sama | (3, 3) | (3, 3) |
+| 2 | Kerja sama | Kerja sama | (3, 3) | (6, 6) |
+| 3 | Kerja sama | Curang | (0, 5) | (6, 11) |
+| 4 | Curang | Kerja sama | (5, 0) | (11, 11) |
+| 5 | Kerja sama | Kerja sama | (3, 3) | (14, 14) |
 
-    for r in range(rounds):
-        # Tit-for-Tat: Ikuti langkah lawan sebelumnya
-        my_move = opponent_history[-1]
-        
-        # Lawan: Curang secara acak pada ronde ke-3
-        opponent_move = ''C''
-        if r == 2:
-            opponent_move = ''D''
-            
-        # Simpan riwayat
-        my_history.append(my_move)
-        opponent_history.append(opponent_move)
-        
-        # Hitung skor
-        p1, p2 = payoff_matrix[(my_move, opponent_move)]
-        total_score_me += p1
-        total_score_opp += p2
-        
-        print(f"Ronde {r+1}: Saya({my_move}) vs Lawan({opponent_move}) -> Skor: {total_score_me}, {total_score_opp}")
-
-repeated_game_simulation(5)
-```
+Di ronde 3 kamu tertinggal 6 lawan 11 karena dicurangi. Di ronde 4 kamu membalas sesuai aturan Tit-for-Tat, sementara lawan sudah kembali bekerja sama, sehingga skor kembali imbang 11 lawan 11. Di ronde 5 kamu ikut bekerja sama lagi, dan setelah lima ronde kalian sama-sama mengantongi 14 poin. Sifat **tegas** dan **pemaaf** tadi terlihat langsung di tabel: satu kecurangan dibalas satu kali, lalu kerja sama pulih.
 
 ## 6. Permainan Berulang pada Maskapai, Perjanjian Internasional, dan Langganan
 
@@ -29628,15 +28781,17 @@ Untuk menghitung Nilai Shapley bagi pemain $i$, kita melihat kontribusi marginal
 
 Rumusnya adalah:
 
+<div>
 $$
-\phi_i(v) = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \{i\}) - v(S)]
+\phi_i(v) = \sum_{S \subseteq N \setminus \lbrace i \rbrace} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \lbrace i \rbrace) - v(S)]
 $$
+</div>
 
 **Keterangan:**
 
 - $n$: Jumlah total pemain.
 - $S$: Sebuah koalisi yang tidak menyertakan pemain $i$.
-- $v(S \cup \{i\}) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
+- $v(S \cup \lbrace i \rbrace) - v(S)$: Kontribusi marginal pemain $i$ saat bergabung ke koalisi $S$.
 - $\frac{|S|! (n - |S| - 1)!}{n!}$: Probabilitas pemain $i$ bergabung ke koalisi tersebut dalam urutan acak.
 
 *Apakah adil jika seseorang yang bergabung terakhir mendapatkan bagian yang sama dengan orang yang merintis dari awal? Nilai Shapley menjawab ini dengan merata-ratakan semua urutan kedatangan yang mungkin.*
@@ -29859,29 +29014,46 @@ Mengapa kelelawar vampir berbagi darah dengan temannya yang kelaparan? Secara in
 
 Dalam medis, dokter menggunakan EGT untuk memahami bagaimana bakteri "bertarung" melawan antibiotik. Bakteri yang memiliki mutasi resistensi memiliki biaya energi lebih tinggi untuk bereproduksi. Jika penggunaan antibiotik dikurangi secara strategis, bakteri normal yang lebih cepat bereproduksi dapat "mengalahkan" bakteri resisten dalam kompetisi populasi.
 
-### 6. Kode untuk Simulasi Sederhana EGT
+### 6. Populasi Elang dan Merpati dari Generasi ke Generasi
 
-Berikut adalah cuplikan logika (Python-like pseudocode) untuk mensimulasikan perubahan populasi Hawk-Dove sederhana:
+Supaya dinamika replikator terasa lebih konkret, mari hitung satu contoh dengan angka ilustrasi: nilai sumber daya $V = 50$, biaya cedera $C = 100$, dan populasi awal berisi 10% elang serta 90% merpati. Dengan angka ini, isi matriks payoff Hawk-Dove menjadi: elang melawan elang $-25$, elang melawan merpati $50$, merpati melawan elang $0$, dan merpati melawan merpati $25$.
 
-```python
-# Parameter
-V = 50  # Nilai sumber daya
-C = 100 # Biaya cedera
-hawk_ratio = 0.1 # Awalnya sedikit elang
-dove_ratio = 0.9 # Banyak merpati
+Misalkan $x_E$ adalah proporsi elang dan $x_M$ proporsi merpati. Kebugaran setiap strategi dihitung dari payoff-nya melawan elang dan melawan merpati, masing-masing ditimbang dengan proporsinya di populasi:
 
-for generation in range(100):
-    # Hitung kebugaran rata-rata
-    f_hawk = hawk_ratio * ((V-C)/2) + dove_ratio * V
-    f_dove = hawk_ratio * 0 + dove_ratio * (V/2)
-    avg_fitness = (hawk_ratio * f_hawk) + (dove_ratio * f_dove)
-    
-    # Update proporsi berdasarkan dinamika replikator
-    hawk_ratio = hawk_ratio * (f_hawk / avg_fitness)
-    dove_ratio = dove_ratio * (f_dove / avg_fitness)
-    
-    print(f"Gen {generation}: Hawk {hawk_ratio:.2f}, Dove {dove_ratio:.2f}")
-```
+<div>
+$$
+f_E = x_E \cdot \frac{V-C}{2} + x_M \cdot V
+$$
+</div>
+
+<div>
+$$
+f_M = x_E \cdot 0 + x_M \cdot \frac{V}{2}
+$$
+</div>
+
+Kebugaran rata-rata populasi adalah $\phi = x_E f_E + x_M f_M$. Dari satu generasi ke generasi berikutnya, proporsi elang diperbarui dengan aturan berikut:
+
+<div>
+$$
+x_E^{\text{baru}} = x_E \cdot \frac{f_E}{\phi}
+$$
+</div>
+
+Arahnya sama dengan rumus dinamika replikator di bagian 4: proporsi elang naik jika $f_E > \phi$ dan turun jika $f_E < \phi$. Pada generasi awal, kebugaran elang adalah $0{,}1 \cdot (-25) + 0{,}9 \cdot 50 = 42{,}5$, kebugaran merpati $0{,}9 \cdot 25 = 22{,}5$, dan rata-ratanya $0{,}1 \cdot 42{,}5 + 0{,}9 \cdot 22{,}5 = 24{,}5$. Proporsi elang pada generasi berikutnya menjadi $0{,}1 \cdot 42{,}5 / 24{,}5 \approx 0{,}1735$, atau 17,35%. Hitungan yang sama, diulang tiap generasi, menghasilkan tabel ini (dibulatkan dua desimal):
+
+| Generasi | Elang | Merpati | Kebugaran elang | Kebugaran merpati | Kebugaran rata-rata |
+| --- | --- | --- | --- | --- | --- |
+| 0 (awal) | 10,00% | 90,00% | 42,50 | 22,50 | 24,50 |
+| 1 | 17,35% | 82,65% | 36,99 | 20,66 | 23,50 |
+| 2 | 27,31% | 72,69% | 29,52 | 18,17 | 21,27 |
+| 3 | 37,90% | 62,10% | 21,58 | 15,53 | 17,82 |
+| 4 | 45,89% | 54,11% | 15,58 | 13,53 | 14,47 |
+| 5 | 49,42% | 50,58% | 12,94 | 12,65 | 12,79 |
+| 6 | 49,99% | 50,01% | 12,51 | 12,50 | 12,51 |
+| 7 | 50,00% | 50,00% | 12,50 | 12,50 | 12,50 |
+
+Pada generasi awal, kebugaran elang (42,50) jauh di atas rata-rata (24,50), sehingga proporsinya naik. Makin banyak elang, kebugaran elang turun sampai sama dengan rata-rata. Dalam contoh ini, sejak generasi ke-7 proporsi elang tertahan di 50,00%. Pada titik itu kebugaran elang ($0{,}5 \cdot (-25) + 0{,}5 \cdot 50 = 12{,}5$) sama dengan kebugaran merpati ($0{,}5 \cdot 25 = 12{,}5$), sehingga tidak ada strategi yang berada di atas rata-rata dan proporsinya berhenti berubah. Inilah keseimbangan campuran elang dan merpati yang disebut di bagian 3 untuk kasus $V < C$.
 
 ### 7. Pentingnya Sudut Pandang Evolusioner
 
@@ -29966,25 +29138,13 @@ Dalam pengembangan AI modern, teori permainan digunakan untuk melatih model agar
 
 Ini adalah fondasi AI untuk permainan *zero-sum* seperti Catur atau Tic-Tac-Toe. AI mencoba meminimalkan kemungkinan kerugian maksimum (*minimizing the maximum loss*).
 
-```python
-# Contoh sederhana logika Minimax (Pseudo-code)
-def minimax(node, depth, maximizingPlayer):
-    if depth == 0 or node.is_terminal():
-        return node.value
-    
-    if maximizingPlayer:
-        maxEval = -float(''inf'')
-        for child in node.children():
-            eval = minimax(child, depth - 1, False)
-            maxEval = max(maxEval, eval)
-        return maxEval
-    else:
-        minEval = float(''inf'')
-        for child in node.children():
-            eval = minimax(child, depth - 1, True)
-            minEval = min(minEval, eval)
-        return minEval
-```
+Cara kerjanya bisa diringkas menjadi tiga aturan yang diterapkan di setiap posisi permainan:
+
+1. **Berhenti di ujung.** Jika posisi itu sudah merupakan akhir permainan, atau AI sudah menelusuri sejauh batas langkah ke depan yang ditetapkan, posisi itu langsung diberi nilai.
+2. **Giliran AI, pilih nilai tertinggi.** Pada gilirannya sendiri, AI memilih langkah yang menghasilkan nilai paling besar.
+3. **Giliran lawan, anggap lawan memilih nilai terendah.** Pada giliran lawan, AI berasumsi lawan akan memilih langkah yang paling merugikan AI.
+
+Nilai dari posisi-posisi paling ujung itu lalu dibawa mundur sampai ke posisi sekarang, sama seperti induksi mundur yang dibahas pada bab permainan sekuensial.
 
 ### Reinforcement Learning (RL) & Game Theory
 
@@ -30029,8 +29189,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30084,7 +29244,7 @@ Dulu, jalur hidup cenderung linier: sekolah, kerja (di satu perusahaan sampai pe
 
 ### 2\. Kesenjangan Ekspektasi vs. Realitas
 
-Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau." Namun, ketika terjun ke dunia nyata, kita menghadapi realitas ekonomi yang keras, persaingan ketat, dan tangga karier yang tidak seindah di film-film. $\\text{Krisis} = \\text{Ekspektasi} - \\text{Realitas}$
+Banyak dari kita dibesarkan dengan narasi "Kamu bisa jadi apa saja yang kamu mau." Namun, ketika terjun ke dunia nyata, kita menghadapi realitas ekonomi yang keras, persaingan ketat, dan tangga karier yang tidak seindah di film-film. $\text{Krisis} = \text{Ekspektasi} - \text{Realitas}$
 
 ### 3\. Pergeseran Garis Waktu Kedewasaan
 
@@ -30314,11 +29474,13 @@ Bayangkan PFC sebagai CEO dari sebuah perusahaan. Pada usia 20-an, CEO ini masih
 
 Ketidakpastian di usia 20-an memicu pelepasan hormon stres seperti **Kortisol**. Jika otak tidak memiliki "rem" yang kuat (karena PFC belum matang), kecemasan ini bisa terasa sangat luar biasa. Secara matematis, kita bisa melihat keseimbangan respon emosional sebagai:
 
+<div>
 $$
 \text{R}_{\text{emosi}} \approx \frac{\text{Stimulus}_{\text{eksternal}}}{\text{Kematangan}_{\text{PFC}}}
 $$
+</div>
 
-Saat $\text{Kematangan}_{\text{PFC}}$ masih rendah, $\text{R}_{\text{emosi}}$ (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
+Saat $\text{Kematangan}\_{\text{PFC}}$ masih rendah, $\text{R}\_{\text{emosi}}$ (respon emosional atau kecemasan) akan melonjak tinggi terhadap stimulus yang sama.
 
 ## 3\. Perkembangan Emosi
 
@@ -30354,32 +29516,17 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 		- *Besok: Hanya berbicara dengan satu teman yang bekerja di sana.*
 3. **Self-Compassion**: Gunakan dialog internal yang mendukung. Mengatakan "Saya sedang berproses" secara kimiawi menurunkan kadar kortisol dibandingkan mengatakan "Saya payah karena tidak tahu harus berbuat apa."
 
-### Contoh Kode (Logika Pengambilan Keputusan)
+### Saat Emosi Lebih Lantang daripada Logika
 
-Jika kita membayangkan otak kita bekerja seperti sebuah fungsi program dalam menghadapi pilihan:
+Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Di kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Pesannya sederhana: jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
 
-```python
-def make_decision(options, pfc_maturity_level):
-    if pfc_maturity_level < 0.8: # Usia di bawah 25
-        print("Warning: Amygdala sedang mendominasi. Emosi sangat tinggi!")
-        # Gunakan bantuan eksternal seperti mentor atau journaling
-        decision = consult_mentor(options)
-    else:
-        # Analisis logis lebih stabil
-        decision = analyze_long_term_impact(options)
-    
-    return decision
-
-# Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang ''low'' atau emosi sedang ''high''.
-```
-
-Bagi kamu yang tidak terbiasa membaca kode, cabang di dalam fungsi tadi bisa dibaca sebagai alur berikut.
+Kedua jalan menuju keputusan itu tampak seperti ini.
 
 ```mermaid
 flowchart TD
-    accTitle: Ilustrasi kode, logika keputusan menurut kematangan PFC
-    accDescr: Dalam analogi otak sebagai fungsi program, jika tingkat kematangan PFC di bawah 0.8, amygdala sedang mendominasi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika tidak, keputusan diambil lewat analisis logis dampak jangka panjang.
-    A["Menghadapi beberapa pilihan"] --> B{"Kematangan PFC di bawah 0.8?"}
+    accTitle: Logika keputusan menurut kematangan PFC
+    accDescr: Saat menghadapi beberapa pilihan, jika PFC belum matang sepenuhnya, amygdala sedang mendominasi dan emosi sangat tinggi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika PFC sudah lebih matang, keputusan diambil lewat analisis logis dampak jangka panjang.
+    A["Menghadapi beberapa pilihan"] --> B{"PFC belum matang sepenuhnya?"}
     B -->|"ya"| C["Amygdala sedang mendominasi, emosi sangat tinggi"]
     C --> D["Bantuan eksternal seperti mentor atau journaling"]
     B -->|"tidak"| E["Analisis logis dampak jangka panjang"]
@@ -30527,7 +29674,12 @@ Dalam konteks *Quarter-Life Crisis*, FOMO berwujud sebagai **Existential FOMO**,
 - "Mengapa semua orang sepertinya sudah menemukan ''tujuan hidup'' mereka?"
 
 **Logika FOMO dalam Angka:** Pendekatan matematis sederhana untuk melihat Perceptual Happiness:
-   $$\text{Perceptual Happiness} = \frac{\text{Realitas Diri}}{\text{Ekspektasi (Hasil Observasi Orang Lain)}}$$
+
+<div>
+$$
+\text{Perceptual Happiness} = \frac{\text{Realitas Diri}}{\text{Ekspektasi (Hasil Observasi Orang Lain)}}
+$$
+</div>
 
 Semakin tinggi ekspektasi yang kita bangun dari melihat kurasi kehidupan orang lain, semakin rendah rasa bahagia yang kita rasakan terhadap realitas kita sendiri, meskipun realitas kita sebenarnya cukup baik.
 
@@ -30597,9 +29749,11 @@ Salah satu pemicu utama stres di usia dewasa muda adalah **gap antara ekspektasi
 
 Bayangkan uangmu sebagai sebuah wadah. Jika harga barang naik tetapi jumlah uangmu tetap, maka "volume" barang yang bisa kamu tampung akan mengecil. Dalam ekonomi, ini dirumuskan sebagai:
 
+<div>
 $$
 \text{Daya Beli} \ (\text{Purchasing Power}) = \frac{\text{Pendapatan} \ (I)}{\text{Tingkat Harga} \ (P)}
 $$
+</div>
 
 **Analogi Ember yang Bocor**
 
@@ -30671,7 +29825,7 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Menghadapi Kenaikan Biaya Hidup
 
-**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: $5.000.000 \\times (1 + 0,05) = \\text{Rp}5.250.000$ hanya untuk mempertahankan standar hidup yang **sama**.
+**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: $5.000.000 \times (1 + 0{,}05) = \text{Rp}5.250.000$ hanya untuk mempertahankan standar hidup yang **sama**.
 
 **Tindakan yang Bisa Diambil:**
 
@@ -30696,7 +29850,7 @@ Selamat datang di inti dari *Quarter-Life Crisis*. Di fase ini, krisis identitas
 
 ### 1. Memahami Paradoks Pilihan
 
-Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*),bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
+Di usia 20-an, kita sering diberitahu bahwa "dunia adalah tirammu" (*the world is your oyster*), bahwa kita bisa menjadi apa saja. Namun, bagi banyak orang, kebebasan tanpa batas ini justru memicu kelumpuhan analisis.
 
 **Analogi Prasmanan Raksasa:** Bayangkan kamu pergi ke sebuah pesta dengan meja prasmanan sepanjang satu kilometer yang menyajikan ribuan jenis makanan dari seluruh dunia. Alih-alih merasa senang, kamu justru merasa cemas. Kamu takut jika mengambil rendang, kamu akan melewatkan sushi terbaik. Jika kamu mencoba pasta, kamu mungkin menyesal tidak mencoba steak. Akhirnya, kamu berdiri di depan meja dengan piring kosong, merasa lapar dan stres.
 
@@ -30708,7 +29862,7 @@ Dalam psikologi, ini disebut **The Paradox of Choice**. Semakin banyak pilihan h
 
 Krisis identitas terjadi ketika ada jarak yang lebar antara **Identitas Proyeksi** (apa yang kamu tunjukkan pada dunia) dan **Identitas Otentik** (apa yang benar-benar kamu rasakan).
 
-Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: $\\text{Kepuasan Hidup} = \\frac{\\text{Aksi Nyata}}{\\text{Ekspektasi Sosial}}$
+Secara matematis sederhana, kita bisa melihat ketegangan ini sebagai: $\text{Kepuasan Hidup} = \frac{\text{Aksi Nyata}}{\text{Ekspektasi Sosial}}$
 
 Jika pembaginya (ekspektasi sosial) terlalu besar, maka nilai kepuasan hidupmu akan mendekati nol, seberapa besar pun aksi nyata yang kamu lakukan.
 
@@ -30758,7 +29912,7 @@ Salah satu cara paling efektif untuk menjawab pertanyaan eksistensial adalah den
 
 1. **Audit Nilai:** Maya menyadari nilai utamanya adalah *kreativitas* dan *koneksi manusia*, bukan *keteraturan* atau *angka*.
 2. **Eksperimen Mikro:** Alih-alih langsung berhenti kerja, Maya mulai mengajar melukis untuk anak-anak di akhir pekan (mencari makna melalui pengalaman).
-3. **Validasi Identitas:** Dia menyadari bahwa identitasnya tidak harus tunggal. Dia bisa menjadi "Akuntan yang Kreatif" or bertransisi perlahan menjadi "Edukator Seni."
+3. **Validasi Identitas:** Dia menyadari bahwa identitasnya tidak harus tunggal. Dia bisa menjadi "Akuntan yang Kreatif" atau bertransisi perlahan menjadi "Edukator Seni."
 4. **Hasil:** Krisis Maya mereda bukan karena masalahnya hilang, tapi karena dia memiliki **narasi hidup** yang jelas. Dia tahu "mengapa" dia melakukan apa yang dia lakukan.
 
 ### 6. Strategi Menghadapi Pertanyaan Eksistensial
@@ -30767,7 +29921,7 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
 - **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batinmu untuk terdengar.
 - **Gunakan "The 5 Whys":** Ketika kamu menginginkan sesuatu (misal: "Saya ingin jadi CEO"), tanyakan "Kenapa?" sebanyak lima kali. Biasanya, jawaban kelima akan mengungkap kebutuhan identitas yang sebenarnya (misal: "Saya ingin merasa dihargai").
-- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\\text{Keberhasilan} = \\text{Eksperimen} \\times \\text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
+- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
 > **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.
 
@@ -31087,10 +30241,11 @@ Salah satu alasan utama QLC adalah adanya kesenjangan antara **apa yang kamu lak
 
 Coba gunakan rumus sederhana ini untuk melihat potensi transformasimu:
 
+<div>
 $$
-
 T = (K + S) \times B
 $$
+</div>
 
 Di mana:
 
@@ -31108,7 +30263,7 @@ Di mana:
 Transformasi tidak harus berarti berhenti dari pekerjaan secara mendadak atau pindah ke luar negeri tanpa rencana. Transformasi yang berkelanjutan sering kali dimulai dari **eksperimen mikro**.
 
 1. **Curiosity over Passion (Rasa Ingin Tahu di atas Minat):** Jangan terbebani mencari "panggilan jiwa". Mulailah dengan apa yang membuatmu penasaran. Ambil kursus singkat, bergabung dengan komunitas, atau mulai proyek sampingan.
-2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal,kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
+2. **Fail Fast, Learn Fast:** Gunakan metode *prototyping*. Jika kamu penasaran dengan dunia desain, cobalah mengerjakan satu proyek kecil. Jika tidak suka, kamu tidak gagal, kamu baru saja berhasil mengeliminasi pilihan yang tidak cocok.
 
 ## Kisah Transformasi Maya
 
@@ -31140,7 +30295,7 @@ Berikan tanda cek pada poin yang sudah atau sedang kamu rasakan:
 - Saya mulai merasa nyaman dengan ketidakpastian.
 - Saya tidak lagi terlalu peduli dengan apa yang dipikirkan teman SMA saya di LinkedIn.
 - Saya telah mencoba setidaknya satu hal baru dalam tiga bulan terakhir yang benar-benar murni karena keinginan pribadi.
-- Saya mulai bisa membedakan antara "ambisi orang lain" and "ambisi pribadi".
+- Saya mulai bisa membedakan antara "ambisi orang lain" dan "ambisi pribadi".
 
 ## Menjadi Nahkoda bagi Diri Sendiri
 
@@ -31168,8 +30323,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32363,10 +31518,10 @@ Berikut rincian tarif PPh yang berlaku:
 **Contoh Hitung PPh 21:** 
 Katakanlah kamu masih lajang dan bergaji Rp5 juta sebulan.
 
-1. Penghasilan setahun: $5.000.000 \\times 12 = 60.000.000$ rupiah.
+1. Penghasilan setahun: $5.000.000 \times 12 = 60.000.000$ rupiah.
 2. PTKP (Penghasilan Tidak Kena Pajak) buat yang lajang itu Rp54.000.000.
 3. PKP (Penghasilan Kena Pajak) kamu: $60.000.000 - 54.000.000 = 6.000.000$ rupiah.
-4. Pajak yang harus dibayar: $6.000.000 \\times 5\\text{\%} = 300.000$ rupiah per tahun.
+4. Pajak yang harus dibayar: $6.000.000 \times 5\text{\%} = 300.000$ rupiah per tahun.
 
 ## Mengapa Perlu Perencanaan Pajak?
 
@@ -32423,8 +31578,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32567,11 +31722,13 @@ Dari sejarah risetnya, Mihaly merumuskan bahwa *Flow* adalah **Pengalaman Optima
 
 Dalam catatan risetnya, ia sering menggambarkan hubungan antara tantangan dan keterampilan. Meskipun grafik formalnya akan dibahas di bagian lain, sejarah mencatat bahwa Mihaly menemukan "titik manis" ini melalui observasi terhadap para atlet:
 
+<div>
 $$
 \text{E}_o = \int_{t_1}^{t_2} f(C, S) dt
 $$
+</div>
 
-*Dimana $\text{E}_o$ adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan ($C$) dan Keterampilan ($S$) selama periode waktu tertentu.*
+*Dimana $\text{E}\_o$ adalah Pengalaman Optimal, yang merupakan fungsi dari Tantangan ($C$) dan Keterampilan ($S$) selama periode waktu tertentu.*
 
 ## Belajar dari Sejarah
 
@@ -32650,7 +31807,12 @@ Waktu seolah-olah memiliki aturannya sendiri. Fenomena ini sering disebut sebaga
 
 - **Akselerasi:** Jam-jam terasa seperti menit (paling umum terjadi).
 - **Deselerasi:** Detik-detik terasa melambat, sering dilaporkan oleh atlet atau penari saat melakukan gerakan teknis yang rumit (misalnya, peselancar di dalam ombak besar).
-   $$\Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}$$
+
+  <div>
+  $$
+  \Delta \text{T}_{\text{dirasakan}} \neq \Delta \text{T}_{\text{aktual}}
+  $$
+  </div>
 
 ## 9\. Pengalaman Autotelik (Autotelic Experience)
 
@@ -32859,19 +32021,7 @@ Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk
 
 - **Risiko Tinggi:** Setiap menit bug ada, perusahaan kehilangan uang (Memicu adrenalin/fokus).
 - **Tujuan Jelas:** "Temukan fungsi yang gagal dan perbaiki logika validasi datanya."
-- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil).
-```python
-# Contoh siklus feedback dalam pemrograman
-def validate_payment(amount):
-    if amount <= 0:
-        return False # Feedback segera jika input salah
-    return True
-
-# Unit Test sebagai pemicu feedback
-def test_validate_payment():
-    assert validate_payment(100) == True
-    assert validate_payment(-5) == False # Jika ini gagal, saya langsung tahu
-```
+- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil). Misalnya, aturan validasinya menolak pembayaran bernilai nol atau negatif, dan tesnya memeriksa dua kasus: pembayaran bernilai positif harus diterima, sedangkan pembayaran bernilai negatif harus ditolak.
 
 ## Membuat "Ritual Pemicu"
 
@@ -32971,21 +32121,6 @@ Seorang programmer junior diminta membangun arsitektur *microservices* yang komp
 
 - **Kondisi:** *Anxiety* (Kecemasan).
 - **Solusi untuk masuk Flow:** Pecah tugas menjadi modul-modul kecil (mengurangi tantangan yang dirasakan) atau lakukan *pair programming* dengan senior (meningkatkan keterampilan efektif).
-```python
-# Analogi Kode: Menemukan Nilai Flow
-def check_mental_state(challenge, skill):
-    threshold = 2 # Toleransi perbedaan
-    
-    if challenge > (skill + threshold):
-        return "Anxiety - Break down the task!"
-    elif skill > (challenge + threshold):
-        return "Boredom - Set a tighter deadline or add complexity!"
-    else:
-        return "Flow State - Keep going!"
-
-# Contoh: Skill 5, Tantangan 9
-print(check_mental_state(9, 5)) # Output: Anxiety
-```
 
 ### Bermain Video Game
 
@@ -33032,7 +32167,7 @@ Menurut riset yang dilakukan oleh **McKinsey & Company** selama sepuluh tahun te
 
 **Mari kita visualisasikan dengan logika matematika sederhana:**
 
-Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow adalah: $P_{\\text{flow}} = 5 \\times P_{\\text{normal}}$
+Jika produktivitas normal kamu adalah $P$, maka produktivitas dalam kondisi flow adalah: $P\_{\text{flow}} = 5 \times P\_{\text{normal}}$
 
 *Artinya:* Jika kamu bisa masuk ke kondisi flow selama dua jam setiap hari Senin, kamu secara teknis telah menyelesaikan beban kerja setara satu hari penuh (10 jam) orang lain yang bekerja dalam kondisi mental rata-rata.
 
@@ -33120,11 +32255,13 @@ Otak secara insting akan mengalihkan perhatian ke stimulus baru tersebut. Masala
 
 > **Pesan Penting:** Riset menunjukkan bahwa setelah gangguan kecil, dibutuhkan rata-rata **23 menit dan 15 detik** untuk kembali ke tingkat fokus yang sama dalamnya dengan sebelum gangguan terjadi.
 
-Jika kita asumsikan $T$ adalah waktu yang dibutuhkan untuk mencapai *flow* dan $d$ adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* ($\text{P}_f$) dapat digambarkan secara konseptual sebagai:
+Jika kita asumsikan $T$ adalah waktu yang dibutuhkan untuk mencapai *flow* dan $d$ adalah frekuensi gangguan, maka probabilitas masuk ke kondisi *flow* ($\text{P}\_f$) dapat digambarkan secara konseptual sebagai:
 
+<div>
 $$
 \text{P}_f \propto \frac{1}{\sum_{i=1}^{n} d_i}
 $$
+</div>
 
 Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam pekerjaan.
 
@@ -33132,26 +32269,7 @@ Semakin banyak gangguan ($d$), semakin kecil peluang kamu untuk "hanyut" dalam p
 
 Banyak orang bangga bisa melakukan *multitasking*, namun secara neurobiologis, otak manusia tidak dirancang untuk memproses dua tugas kognitif berat secara bersamaan. Yang sebenarnya terjadi adalah **Task Switching** (berpindah tugas dengan cepat).
 
-Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat.
-
-```python
-# Analogi Sederhana: Biaya Kognitif Multitasking
-def perform_task(task_name):
-    load_context(task_name) # Membutuhkan energi & waktu
-    execute_logic(task_name)
-    save_context(task_name) # Membutuhkan energi & waktu
-
-# Skenario Flow (Single Task)
-# Context dimuat sekali, eksekusi terus menerus
-perform_task("Coding") 
-
-# Skenario Multitasking (Flow Killer)
-# Berulang kali memuat dan menyimpan context
-perform_task("Coding")
-perform_task("Balas Chat WhatsApp")
-perform_task("Coding")
-perform_task("Cek Email")
-```
+Dalam konteks rekayasa perangkat lunak atau sistem operasi, bayangkan otak kamu seperti CPU yang melakukan *context switching*. Setiap kali berpindah, ada data yang harus disimpan (RAM) dan data baru yang harus dimuat. Kalau kamu hanya menulis kode dalam satu sesi, konteksnya cukup dimuat sekali. Kalau kamu menulis kode, membalas chat WhatsApp, kembali ke kode, lalu mengecek email, konteks itu dimuat dan disimpan berulang kali, dan setiap kalinya menghabiskan energi serta waktu.
 
 Setiap kali kamu berpindah tugas, ada sisa perhatian (**Attention Residue**) yang tertinggal di tugas sebelumnya, sehingga performa kamu pada tugas baru tidak akan pernah mencapai 100%.
 
@@ -33283,13 +32401,10 @@ Seorang programmer ingin menyelesaikan modul logika yang kompleks. Berikut adala
 
 1. **Persiapan:** Membuka IDE (Integrated Development Environment) dengan tema gelap yang konsisten.
 2. **Ritual:** Memutar daftar putar *Lo-fi Beats* (Isyarat Audio).
-3. **Implementasi Micro-Goal:** Bukannya menulis "Selesaikan fitur login", ia menulis di komentar kode:
-```python
-# TUJUAN: Validasi input email dan password menggunakan regex
-# TASK: 
-# 1. Buat fungsi validate_email(email)
-# 2. Buat fungsi validate_password(password)
-```
+3. **Implementasi Micro-Goal:** Bukannya menulis "Selesaikan fitur login", ia menulis catatan yang jauh lebih spesifik:
+   - **Tujuan:** memeriksa apakah email dan password yang diketik pengguna sudah sesuai pola penulisan yang benar (*regex*).
+   - **Tugas pertama:** membuat pemeriksa email.
+   - **Tugas kedua:** membuat pemeriksa password.
 4. **Deep Work Block:** Ia menggunakan timer 90 menit (durasi optimal siklus ultradian) tanpa interupsi sama sekali.
 
 > **Penting:** Jika di tengah jalan muncul ide lain (misal: "Oh, saya harus beli susu nanti"), jangan berhenti untuk melakukannya. Tulis ide tersebut di selembar kertas "Distraction List" di samping kamu, lalu kembali ke kode.
@@ -33360,32 +32475,13 @@ Organisasi harus memastikan bahwa proyek yang diberikan cukup sulit untuk menant
 
 ## "Flow-Ready" Workflow
 
-Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan script atau protokol komunikasi untuk mengurangi "gesekan" dan memicu flow.
+Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan otomatisasi atau protokol komunikasi untuk mengurangi "gesekan" dan memicu flow.
 
 ### Otomatisasi Feedback
 
 Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integrasi kode yang rumit. Menggunakan CI/CD (Continuous Integration/Continuous Deployment) membantu menjaga momentum.
 
-```python
-# Contoh script sederhana untuk otomatisasi notifikasi tim 
-# guna mempercepat ''Feedback Loop'' (Pemicu Flow)
-
-def notify_team_on_success(task_name):
-    status = "SUCCESS"
- message = f" Task ''{task_name}'' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
-    
-    # Bayangkan ini terhubung ke Slack atau Discord
-    send_to_collaboration_tool(message)
-    print("Notifikasi terkirim. Momentum terjaga.")
-
-def trigger_group_workflow(tasks):
-    for task in tasks:
-        execute(task)
-        notify_team_on_success(task)
-
-# Output: Feedback instan memungkinkan tim tetap dalam kondisi ''Alir'' 
-# tanpa harus bertanya "Apakah ini sudah selesai?"
-```
+Contoh sederhananya adalah notifikasi otomatis. Bayangkan begitu satu tugas selesai, alat kolaborasi seperti Slack atau Discord langsung mengabari tim bahwa tugas itu berhasil dan tim bisa lanjut ke tahap berikutnya. Umpan balik instan seperti ini menjaga tim tetap dalam kondisi alir tanpa ada yang perlu bertanya, "Apakah ini sudah selesai?"
 
 ## Tim Medis Darurat (ER)
 
@@ -33449,10 +32545,11 @@ Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran dir
 
 Untuk menghindari sisi gelap ini, kita harus memahami bahwa flow membutuhkan biaya energi biologis. Kita bisa menggambarkannya secara konseptual dengan rumus keberlanjutan sederhana:
 
+<div>
 $$
-
 S = \frac{F \times R}{C}
 $$
+</div>
 
 Dimana:
 
@@ -33647,8 +32744,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33858,33 +32955,9 @@ Untuk mempermudah pemahaman, mari kita lihat perbandingannya dalam logika sederh
 | **Interaksi** | Mencocokkan dunia ke pikiran | Mencocokkan pikiran ke dunia |
 | **Hasil** | Skema tetap sama, hanya lebih luas | Skema berubah atau tercipta skema baru |
 | **Kondisi** | Terjadi saat informasi sudah familiar | Terjadi saat informasi baru terasa asing |
+| **Contoh** | Balita menunjuk burung gereja dan berteriak "Burung!" | Balita mengubah skema "semua burung terbang" setelah melihat burung unta |
 
-### 5\. Representasi Logika (Untuk Pembelajar Teknis)
-
-Jika kita memodelkan proses ini dalam bahasa pemrograman sederhana, kita bisa melihat perbedaannya dalam struktur data:
-
-```python
-## ASIMILASI: Menambahkan data ke list yang sudah ada
-skema_hewan = ["Anjing", "Kucing", "Kelinci"]
-info_baru = "Poodle"
-
-if info_baru == "Mirip Anjing":
-    skema_hewan.append(info_baru) # Asimilasi: Masuk ke list yang ada
-    print("Skema tetap, data bertambah.")
-
-## AKOMODASI: Mengubah struktur data karena tidak cocok
-info_baru_asing = "Ikan"
-
-if info_baru_asing != "Hewan Darat":
-    # Akomodasi: Membuat kategori baru atau mengubah struktur
-    skema_kognitif = {
-        "Hewan Darat": ["Anjing", "Kucing"],
-        "Hewan Air": ["Ikan"] # Struktur berubah untuk menampung info baru
-    }
-    print("Struktur mental berubah/diperbarui.")
-```
-
-### 6\. Belajar Teknologi Baru
+### 5\. Belajar Teknologi Baru
 
 Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya terus bekerja sepanjang hayat.
 
@@ -33895,7 +32968,7 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur otak yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 
-### 7\. Hubungan Menuju Ekuilibrasi
+### 6\. Hubungan Menuju Ekuilibrasi
 
 Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan dua sisi dari satu koin bernama **Adaptasi**.
 
@@ -34069,15 +33142,21 @@ Pencapaian terbesar dalam tahap ini adalah pemahaman tentang **Objek Permanen**,
 
 ### Representasi Sederhana
 
-Bagi bayi di bawah 8 bulan: 
+Bagi bayi di bawah 8 bulan:
+
+<div>
 $$
 \text{Jika } V(O) = 0, \text{ maka } O = \text{tidak ada}
 $$
+</div>
 
-Bagi anak yang sudah punya objek permanen: 
+Bagi anak yang sudah punya objek permanen:
+
+<div>
 $$
 \text{Jika } V(O) = 0, \text{ maka } O \text{ tetap ada di dalam pikiran}
 $$
+</div>
 
 ## 4\. Berinteraksi dengan Bayi
 
@@ -34160,21 +33239,19 @@ Bayangkan dua gelas identik (A dan B) berisi jumlah air yang sama.
 1. **Centration:** Anak hanya fokus pada *tinggi* air, mengabaikan *lebar* gelas.
 2. **Irreversibility (Ketidakterbalikan):** Anak tidak bisa secara mental memutar balik proses tersebut (membayangkan air dituangkan kembali ke gelas semula untuk membuktikan volumenya sama).
 
-## 4\. Representasi Logika Praoperasional (Analogi Teknis)
+## 4\. Jalan Pikiran Anak di Depan Gelas C
 
-Kalau diibaratkan kode program, pikiran anak di tahap ini punya fungsi yang masih *hardcoded* dari tampilan visual yang langsung mereka lihat. Belum ada fitur *undo*.
+Dua batasan tadi bekerja bersamaan saat anak menjawab pertanyaan soal gelas C. Pikirannya terpaku pada apa yang tampak saat itu juga, sehingga jawabannya tersusun seperti ini:
 
-```python
-## Logika Berpikir Anak (Tahap Praoperasional)
-def cek_volume(wadah_A, wadah_C):
-    # Anak hanya melakukan centration (fokus pada tinggi)
-    if wadah_C.tinggi > wadah_A.tinggi:
-        return "Gelas C punya lebih banyak air!"
-    else:
-        return "Sama saja."
-
-## Mereka mengabaikan variabel wadah.lebar
-## Mereka tidak memiliki fungsi: reverse_action()
+```mermaid
+flowchart TD
+    accTitle: Cara anak praoperasional menilai gelas C
+    accDescr: Setelah air dari gelas B dituang ke gelas C yang lebih tinggi dan lebih ramping, anak hanya melihat tinggi air sehingga lebar gelas diabaikan, dan anak tidak bisa memutar balik penuangan itu di kepala. Akibatnya anak menjawab gelas C lebih banyak.
+    A["Air dari gelas B dituang ke gelas C yang lebih tinggi dan lebih ramping"] --> B["Anak hanya melihat tinggi air"]
+    B --> C["Lebar gelas diabaikan"]
+    A --> D["Anak tidak bisa memutar balik penuangan itu di kepala"]
+    C --> E["Anak menjawab gelas C lebih banyak"]
+    D --> E
 ```
 
 ## 5\. Berinteraksi dengan Anak Praoperasional
@@ -34279,12 +33356,11 @@ Daripada buru-buru nulis rumus abstrak di papan tulis, lebih efektif pakai **ban
 
 Kalau di dunia tekno, bahasa pemrograman visual kayak **Scratch** itu cocok banget. Anak nggak disuruh ngetik deretan teks kode yang ruwet. Mereka tinggal nyusun "blok-blok" logika yang kelihatan bentuknya dan bisa digeser-geser.
 
-```python
-## Logika sebab-akibat yang gampang dipahami anak:
-jika_disentuh_bola:
-    tambah_skor(1)
-    mainkan_bunyi("hore")
-```
+Misalnya, anak cukup nyusun tiga blok ini berurutan:
+
+1. **Kalau disentuh bola**
+2. **Tambah skor 1**
+3. **Mainkan bunyi "hore"**
 
 Mereka langsung paham sebab-akibatnya gara-gara hasilnya langsung nongol di layar. Sangat konkret.
 
@@ -34351,7 +33427,12 @@ Piaget sering memakai tes **Pendulum** untuk mengecek apakah seseorang sudah mas
 - **Remaja Operasional Formal:** Mulai mengisolasi variabel. Mereka menahan beban agar tetap sama sambil mencoba berbagai panjang tali, atau sebaliknya.
 
 Secara matematis, mereka secara intuitif mencoba memahami rumus periode ayunan:
-$$ T = 2\pi \sqrt{\frac{L}{g}} $$
+
+<div>
+$$
+T = 2\pi \sqrt{\frac{L}{g}}
+$$
+</div>
 
 Mereka secara sistematis mengetes apakah $T$ (periode) berubah jika $L$ (panjang tali) diubah, tanpa mengubah berat beban.
 
@@ -34377,7 +33458,7 @@ Siswa mulai siap belajar aljabar. Huruf seperti $x$, $y$, dan $z$ menggantikan a
 
 Remaja mulai kritis terhadap aturan dan otoritas. Mereka sering membayangkan versi dunia yang ideal lalu membandingkannya dengan realita. Tidak heran kalau masa remaja sering dipenuhi idealisme berapi-api.
 
-### Skenario Pemecahan Masalah (Engineering/Programming)
+### Skenario Pemecahan Masalah Teknis
 
 Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau merancang sistem.
 
@@ -34386,20 +33467,19 @@ Seorang teknisi remaja memakai logika deduktif saat internet rumah mati:
 1. **Hipotesis 1:** Masalah ada di router. (Cara tes: lihat lampu indikator).
 2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Cara tes: cek koneksi rumah tetangga).
 3. **Analisis:** Kalau router menyala hijau tapi internet tetap mati, kemungkinan besar masalahnya dari ISP.
+4. **Tindakan:** Kalau lampu router tidak menyala hijau, router perlu di-restart atau diganti. Kalau router hijau dan internet tetangga ikut mati, saatnya menghubungi ISP. Kalau router hijau dan internet tetangga lancar, yang perlu diperiksa adalah perangkat di rumah sendiri.
 
-Dalam logika *code*:
+Remaja operasional formal bisa menelusuri percabangan ini di kepala mereka sebelum mulai bertindak:
 
-```python
-def check_connection(router_status, isp_status):
-    # Penalaran sistematis berdasarkan variabel
-    if not router_status:
-        return "Ganti atau restart router"
-    elif not isp_status:
-        return "Hubungi pihak ISP"
-    else:
-        return "Koneksi normal, cek perangkat user"
-
-## Remaja operasional formal bisa mensimulasikan percabangan logika (if-else) ini di kepala mereka sebelum mulai bertindak.
+```mermaid
+flowchart TD
+    accTitle: Percabangan saat internet rumah mati
+    accDescr: Teknisi remaja memeriksa lampu router lebih dulu. Lampu yang tidak hijau berarti router di-restart atau diganti. Bila lampu hijau, ia mengecek internet tetangga. Internet tetangga yang ikut mati berarti hubungi ISP, sedangkan internet tetangga yang lancar berarti periksa perangkat di rumah sendiri.
+    A["Internet rumah mati"] --> B{"Lampu router menyala hijau?"}
+    B -->|"tidak"| C["Restart atau ganti router"]
+    B -->|"ya"| D{"Internet tetangga ikut mati?"}
+    D -->|"ya"| E["Hubungi ISP"]
+    D -->|"tidak"| F["Periksa perangkat di rumah sendiri"]
 ```
 
 ## 6\. Egosentrisme Remaja
@@ -34549,6 +33629,19 @@ Proses belajar yang sesungguhnya baru terjadi saat anak merasa sedikit bingung. 
 
 Coba bayangkan: kalau materi yang diberikan terlalu mudah, anak pasti bosan. Tapi kalau kelewat susah, mereka akan menyerah. Guru harus jeli mencari titik tengah. Berikan informasi baru yang cukup mengusik pemahaman lama mereka, tapi tetap bisa diproses lewat akomodasi.
 
+Takaran tantangan itulah yang menentukan nasib sebuah materi baru di kepala anak:
+
+```mermaid
+flowchart TD
+    accTitle: Takaran tantangan materi baru
+    accDescr: Materi baru yang terlalu mudah membuat anak bosan dan yang terlalu sulit membuat anak menyerah. Materi yang cukup mengusik pemahaman lama membuat anak sedikit bingung, lalu skema lamanya dirombak lewat akomodasi.
+    A["Guru memberi materi baru"] --> B{"Seberapa sulit bagi anak?"}
+    B -->|"terlalu mudah"| C["Anak bosan"]
+    B -->|"terlalu sulit"| D["Anak menyerah"]
+    B -->|"cukup mengusik pemahaman lama"| E["Anak merasa sedikit bingung"]
+    E --> F["Skema lama dirombak lewat akomodasi"]
+```
+
 Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu raksasa yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
 
 ### Peran Baru Seorang Guru
@@ -34565,24 +33658,7 @@ Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama: siklus a
 - **Operasional Konkret:** Praktik langsung membuat miniatur siklus air. Siswa memasukkan air ke dalam botol tertutup, menjemurnya, lalu mengamati uap air yang menempel di dinding botol.
 - **Operasional Formal:** Siswa diminta menganalisis data perubahan iklim global. Mereka mendiskusikan prediksi dampaknya terhadap siklus air dan ekosistem di masa depan.
 
-### Analogi Logika Kognitif
-
-Kalau dipikir-pikir, cara kerja otak anak beradaptasi dengan materi baru mirip dengan logika pemrograman sederhana:
-
-```python
-def belajar_konsep_baru(skema_saat_ini, informasi_baru):
-    if informasi_baru == skema_saat_ini:
-        # Informasi nyambung, diserap gampang
-        return "Ekuilibrium tercapai"
-    else:
-        # Muncul konflik kognitif
-        pilihan = hadapi_tantangan()
-        if pilihan == "Akomodasi":
-            skema_saat_ini = modifikasi_skema(informasi_baru)
-            return "Skema berubah! Pemahaman baru terbentuk."
-        else:
-            return "Informasi lewat begitu saja"
-```
+### Merancang Momen Aha
 
 Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam hanya akan mematikan potensi alami mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif jauh lebih efektif untuk membangunkan logika di dalam kepalanya. 
 
@@ -34743,8 +33819,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35377,12 +34453,11 @@ Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua
 #### 3. Kata Sapaan dan Pemarkah Sekuensial (*Anak-anakku sekalian* dan *Kemudian*)
 Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sambungan yang tidak terpisahkan dari bahasan sebelumnya.
 
-```
-[Guru]: "Anak-anakku sekalian, hari ini kita belajar Bahasa Indonesia tentang komunikasi. Kalian tahu arti komunikasi?"
-[Siswa]: "Arti komunikasi adalah hubu__ngaan."
-[Guru]: "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"
-[Siswa]: "Alat!"
-```
+> **Transkripsi Pembuka Pelajaran:**  
+> **Guru:** "Anak-anakku sekalian, hari ini kita belajar Bahasa Indonesia tentang komunikasi. Kalian tahu arti komunikasi?"  
+> **Siswa:** "Arti komunikasi adalah hubu\_\_ngaan."  
+> **Guru:** "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"  
+> **Siswa:** "Alat!"
 
 Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri hubungan sebab-akibat atau alat bantu komunikasi tanpa keluar dari topik utama.
 
@@ -35721,8 +34796,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36702,8 +35777,8 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
 - [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
 - [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37386,8 +36461,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37452,11 +36527,11 @@ Kecerdasan interpersonal adalah pilar utama yang membentuk garis horizontal ters
 
 Tanpa garis horizontal yang kokoh, seorang spesialis akan terisolasi dalam *silo*. Hubungan ini dapat digambarkan dalam rumus sederhana berikut:
 
+<div>
 $$
-\begin{aligned}
 \text{Nilai Profesional} = \text{Keahlian Teknis} \times \text{Kecerdasan Interpersonal}
-\end{aligned}
 $$
+</div>
 
 Jika kecerdasan interpersonal mendekati nol, nilai profesional yang dihasilkan juga akan sangat kecil, tidak peduli seberapa hebat keahlian teknis yang dimiliki. Di sinilah kecerdasan interpersonal bertindak sebagai akselerator karier.
 
@@ -37509,12 +36584,13 @@ Sering kali kita terjebak dalam fenomena *autobiographical listening*, di mana k
 
 Secara matematis, efektivitas komunikasi $E$ dapat dirumuskan secara sederhana sebagai berikut:
 
+<div>
 $$
-
-E = \\frac{P \\times \\text{Pem}}{G}
+E = \frac{P \times \text{Pem}}{G}
 $$
+</div>
 
-Di mana $P$ mewakili pesan yang dikirim, $\\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
+Di mana $P$ mewakili pesan yang dikirim, $\text{Pem}$ adalah pemahaman penerima, dan $G$ mewakili gangguan seperti asumsi, interupsi, atau ego.
 
 Semakin besar gangguan $G$ yang kita bawa saat mendengar, semakin kecil efektivitas komunikasi kita.
 
@@ -37642,10 +36718,11 @@ Distorsi terjadi ketika ada kesenjangan antara apa yang dikatakan dan apa yang d
 
 Misalkan $I$ adalah Dampak (*Impact*), $V$ adalah Verbal, $P$ adalah Paraverbal (Vokal), dan $B$ adalah *Body Language* (Non-verbal). Dampak maksimal tercapai saat ketiganya selaras:
 
+<div>
 $$
-
-I = V_{\\text{jelas}} + P_{\\text{tepat}} + B_{\\text{sinkron}}
+I = V_{\text{jelas}} + P_{\text{tepat}} + B_{\text{sinkron}}
 $$
+</div>
 
 Jika salah satu bernilai negatif (misal: bahasa tubuh yang defensif), maka nilai $I$ akan turun drastis meskipun $V$ sangat kuat.
 
@@ -37736,10 +36813,11 @@ Salah satu model yang sangat praktis untuk memetakan dinamika tim adalah **DISC*
 
 Dalam dunia kerja profesional, kita dapat mengilustrasikan efektivitas kolaborasi $E$ sebagai fungsi dari keselarasan gaya komunikasi $A$ terhadap kualitas konten teknis $C$:
 
+<div>
 $$
-
-E = C \\times \\log(A + 1)
+E = C \times \log(A + 1)
 $$
+</div>
 
 Keterangan variabel:
 
@@ -37749,23 +36827,17 @@ Keterangan variabel:
 
 ## Pemetaan Gaya Komunikasi untuk Peran Teknis
 
-Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development atau engineering, menganggap profil rekan kerja sebagai objek data dapat membantu mempermudah pemetaan gaya komunikasi. Berikut adalah contoh pemodelan profil rekan kerja:
+Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development atau engineering, mencatat profil rekan kerja secara terstruktur, layaknya mengisi kolom-kolom data, dapat membantu mempermudah pemetaan gaya komunikasi. Berikut adalah contoh rekaan kartu profil satu rekan kerja:
 
-```json
-{
-  "rekan_kerja": {
-    "nama": "Andi (Marketing Manager)",
-    "tipe_disc": "Influence",
-    "prioritas": ["Kecepatan", "Visual", "Networking"],
-    "hindari": ["Laporan 50 halaman", "Debat detail sintaksis"],
-    "metode_komunikasi_terbaik": {
-      "format": "Presentasi visual berdurasi 10 menit",
-      "pembukaan": "Menanyakan kabar akhir pekan",
-      "inti_pesan": "Bagaimana fitur ini membuat user merasa senang"
-    }
-  }
-}
-```
+| Aspek | Isi |
+| :--- | :--- |
+| **Nama** | Andi (Marketing Manager) |
+| **Tipe DISC** | Influence |
+| **Prioritas** | Kecepatan, visual, *networking* |
+| **Hal yang dihindari** | Laporan 50 halaman, debat soal detail sintaksis |
+| **Format komunikasi terbaik** | Presentasi visual berdurasi 10 menit |
+| **Pembuka percakapan** | Menanyakan kabar akhir pekan |
+| **Inti pesan** | Bagaimana fitur ini membuat *user* merasa senang |
 
 **Studi Kasus:** Seorang *software engineer* (Tipe C) perlu menjelaskan kepada *product owner* (Tipe D) tentang pentingnya melakukan alokasi waktu selama dua minggu untuk peningkatan kualitas kode (*refactoring*).
 
@@ -37923,9 +36995,11 @@ Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 
 Untuk menangani konflik secara profesional, kamu perlu memahami lima gaya manajemen konflik. Model ini didasarkan pada dua dimensi utama: **Asertivitas** (sejauh mana kamu memperjuangkan kepentingan sendiri) dan **Kooperatif** (sejauh mana kamu memprioritaskan kepentingan orang lain).
 
+<div>
 $$
 \text{Konflik} \rightarrow f(\text{Asertivitas}, \text{Kooperatif})
 $$
+</div>
 
 1. **Competing (Bersaing):** Pendekatan "ikuti cara saya". Gaya ini sangat berguna ketika tim harus mengambil keputusan super cepat saat krisis, misalnya ketika terjadi insiden keamanan data yang mendesak.
 2. **Accommodating (Mengalah):** Pendekatan "ikuti caramu". Langkah ini diambil jika isu tersebut jauh lebih penting bagi rekan kerja dibanding bagi kamu, atau ketika kamu ingin memprioritaskan keharmonisan relasi jangka panjang.
@@ -37982,26 +37056,6 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
    - Budi memprioritaskan ketepatan waktu peluncuran produk demi menjaga kepuasan klien saat ini.
 2. **Diskusi Kolaboratif:** Andi memahami tekanan waktu yang dihadapi Budi, sementara Budi menyadari risiko teknis jika mereka membangun sistem monolitik tanpa struktur yang rapi.
 3. **Solusi Inovatif:** Mereka sepakat membangun sistem dengan pendekatan *modular monolith*. Pendekatan ini memungkinkan tim merilis produk dengan cepat (keinginan Budi), tetapi dengan batas modul yang jelas sehingga memudahkan transisi ke *microservices* di masa depan (keinginan Andi).
-
-```python
-# Analogi sederhana dalam kode:
-# Mengatasi benturan logika dengan pendekatan modular yang adaptif
-
-def process_data_v1(data):
-    # Pendekatan Andi: Kompleks & Scalable
-    pass
-
-def process_data_v2(data):
-    # Pendekatan Budi: Simpel & Cepat
-    pass
-
-# Solusi Tengah: Modular & Adaptive
-def professional_resolution_logic(data, deadline_is_near):
-    if deadline_is_near:
-        return fast_modular_approach(data)
-    else:
-        return scalable_architecture_approach(data)
-```
 
 ## 6. Tips Praktis Menangani Perselisihan Secara Profesional
 
@@ -38079,7 +37133,7 @@ Cara kamu menyampaikan ide sering kali lebih penting daripada ide itu sendiri. G
 **Penerapan Teknik Persuasi:**
 
 - **Langkah 1 (*Reciprocity*):** Sebelum mengajukan sistem baru, bantu tim *Sales* membuatkan laporan performa mingguan otomatis yang memudahkan mereka memantau bonus.
-- **Langkah 2 (*Ethos & Logos*):** Tunjukkan data bahwa dengan sistem lama, sekitar 15% prospek mereka hilang karena data yang tidak ter-input dengan benar. Gunakan visualisasi yang jelas, misalnya $x = \\text{lost revenue}$.
+- **Langkah 2 (*Ethos & Logos*):** Tunjukkan data bahwa dengan sistem lama, sekitar 15% prospek mereka hilang karena data yang tidak ter-input dengan benar. Gunakan visualisasi yang jelas, misalnya $x = \text{lost revenue}$.
 - **Langkah 3 (*Framing*):** Hindari kalimat, "Gunakan sistem ini agar kerjaan saya lebih mudah." Katakanlah, "Sistem ini dirancang untuk memastikan tidak ada komisi kalian yang terlewat akibat kesalahan pencatatan."
 - **Langkah 4 (*Social Proof*):** Sebutkan bahwa salah satu *Top Sales* sudah mencoba sistem ini dan merasa terbantu.
 
@@ -38192,9 +37246,11 @@ Untuk mengasah keterampilan ini, cobalah terapkan formula "Stop-Start-Continue" 
 
 > **Penting**: *Feedback* yang paling berdaya guna adalah yang berorientasi pada masa depan (*feed-forward*). Dibandingkan terus menyesali kesalahan di masa lalu, alokasikan energi untuk merancang bagaimana tindakan tersebut bisa diperbaiki pada kesempatan berikutnya.
 
+<div>
 $$
 \text{Growth} = \frac{\text{Action} \times \text{Feedback}}{\text{Ego}}
 $$
+</div>
 
 Persamaan di atas menggambarkan secara metaforis bahwa pertumbuhan kompetensimu akan mencapai titik maksimal saat tindakan nyata (*Action*) dan masukan (*Feedback*) bernilai tinggi, sementara ego ditekan serendah mungkin. Semakin besar pembagi (ego), semakin kecil hasil pertumbuhan yang akan kamu dapatkan.
 
@@ -38228,9 +37284,11 @@ Sekitar 70% keberhasilan rapat ditentukan sebelum pertemuan dimulai. Datang tanp
 
 Rumus sederhana berikut dapat membantu mengevaluasi urgensi sebuah rapat:
 
+<div>
 $$
-\\text{Nilai Rapat} = \\frac{\\text{Kualitas Keputusan} \\times \\text{Penerimaan Tim}}{\\text{Biaya Waktu}}
+\text{Nilai Rapat} = \frac{\text{Kualitas Keputusan} \times \text{Penerimaan Tim}}{\text{Biaya Waktu}}
 $$
+</div>
 
 Jika kebutuhan utama hanya menyampaikan informasi searah, gunakan email atau saluran komunikasi instan. Rapat baru benar-benar dibutuhkan untuk:
 
@@ -38257,18 +37315,18 @@ Saat meminta tanggapan, hindari membiarkan peserta berebut bicara. Minta setiap 
 
 Sering kali diskusi melebar ke topik lain yang menarik tetapi kurang relevan dengan fokus utama saat itu.
 
-- **Cara menerapkan**: Jika muncul pembahasan di luar agenda, sampaikan dengan taktis: *\"Itu poin yang menarik. Agar diskusi kita tetap terarah pada tujuan hari ini, mari kita masukkan topik tersebut ke dalam parking lot terlebih dahulu untuk dibahas di sesi terpisah.\"*
+- **Cara menerapkan**: Jika muncul pembahasan di luar agenda, sampaikan dengan taktis: *"Itu poin yang menarik. Agar diskusi kita tetap terarah pada tujuan hari ini, mari kita masukkan topik tersebut ke dalam parking lot terlebih dahulu untuk dibahas di sesi terpisah."*
 
 ### Mengendalikan Dominasi Peserta
 
-- **Menghadapi peserta dominan**: \"Terima kasih atas masukannya, Budi. Sekarang, mari kita beri kesempatan kepada rekan-rekan lain yang belum bersuara.\"
-- **Mengajak peserta pendiam**: \"Siska, kamu memiliki latar belakang teknis di bidang ini. Bagaimana sudut pandangmu terhadap rencana ini?\"
+- **Menghadapi peserta dominan**: "Terima kasih atas masukannya, Budi. Sekarang, mari kita beri kesempatan kepada rekan-rekan lain yang belum bersuara."
+- **Mengajak peserta pendiam**: "Siska, kamu memiliki latar belakang teknis di bidang ini. Bagaimana sudut pandangmu terhadap rencana ini?"
 
 Ketika seseorang menyimpan ide cemerlang tetapi tidak mendapatkan kesempatan untuk menyampaikannya, tim kehilangan potensi besar. Menjaga inklusivitas dalam pertemuan sangat penting untuk membangun fondasi produktivitas kolaboratif.
 
 ## 4. Pengambilan Keputusan Kolaboratif
 
-Keputusan menjadi muara akhir dari sebagian besar rapat. Namun, melontarkan pertanyaan sederhana seperti \"Apakah semua setuju?\" jarang menghasilkan komitmen yang tulus.
+Keputusan menjadi muara akhir dari sebagian besar rapat. Namun, melontarkan pertanyaan sederhana seperti "Apakah semua setuju?" jarang menghasilkan komitmen yang tulus.
 
 ### Metode *Fist of Five*
 
@@ -38293,7 +37351,7 @@ Saat tim dihadapkan pada terlalu banyak ide setelah sesi *brainstorming*, gunaka
 
 ## 5. Mengakhiri Pertemuan dengan Hasil yang Jelas
 
-Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan yang menggantung seperti: *\"Baik, sepertinya semua sudah dibahas. Terima kasih.\"* Tutup pertemuan dengan merangkum elemen **W-W-W** (*Who-What-When*):
+Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan yang menggantung seperti: *"Baik, sepertinya semua sudah dibahas. Terima kasih."* Tutup pertemuan dengan merangkum elemen **W-W-W** (*Who-What-When*):
 
 - **Who** (*Siapa*): Siapa yang memegang tanggung jawab atas tindak lanjut?
 - **What** (*Apa*): Tindakan konkret apa yang harus dikerjakan?
@@ -38312,37 +37370,32 @@ Akhir dari sebuah rapat sangat menentukan eksekusi rencana. Hindari penutupan ya
 
 **Langkah Penanganan oleh Fasilitator**:
 
-1. ***Problem Framing***: Sampaikan pembuka yang objektif seperti, *\"Tujuan diskusi hari ini adalah mencari keseimbangan antara momentum perilisan, keamanan data, dan kestabilan sistem. Kita fokus pada solusi bersama, bukan mencari siapa yang salah.\"*
+1. ***Problem Framing***: Sampaikan pembuka yang objektif seperti, *"Tujuan diskusi hari ini adalah mencari keseimbangan antara momentum perilisan, keamanan data, dan kestabilan sistem. Kita fokus pada solusi bersama, bukan mencari siapa yang salah."*
 2. **Visualisasi Masalah**: Gambarkan tabel risiko di papan tulis untuk memetakan dampak dari pilihan *Rilis Besok* versus *Tunda 2 Minggu*.
-3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *\"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan minor bug dan tim Legal memantau kepatuhan data secara manual?\"*
+3. **Mengeksplorasi Jalan Tengah**: Ajak tim berdiskusi: *"Bagaimana jika kita melakukan soft-launch terbatas untuk 100 pengguna pertama besok guna mengakomodasi pemasaran, selagi IT menuntaskan perbaikan minor bug dan tim Legal memantau kepatuhan data secara manual?"*
 4. **Konfirmasi Kesepakatan**: Gunakan jajak pendapat *Fist of Five* untuk mengukur apakah setiap perwakilan divisi bisa mendukung solusi alternatif tersebut.
 
 ## 7. Template Agenda Kolaborasi
 
-Sebelum memulai pertemuan teknis atau koordinasi digital, kamu bisa membagikan kerangka agenda berbasis Markdown berikut agar seluruh peserta memahami arah rapat sejak awal:
+Sebelum memulai pertemuan teknis atau koordinasi digital, kamu bisa membagikan kerangka agenda seperti contoh berikut agar seluruh peserta memahami arah rapat sejak awal:
 
-```markdown
-# Agenda Rapat: [Nama Proyek]
-
-**Tanggal:** 25 Januari 2026
-**Fasilitator:** [Nama kamu]
-**Waktu:** 10:00 - 11:00 WIB
-
-## 1. Tujuan Rapat
-- Menyetujui arsitektur database untuk modul pembayaran.
-- Menentukan prioritas fitur untuk Sprint 4.
-
-## 2. Agenda Diskusi
-- [10 menit] Review progres Sprint 3 (PIC: Sarah)
-- [25 menit] Brainstorming solusi integrasi API pihak ketiga.
-- [15 menit] Pengambilan keputusan prioritas fitur menggunakan Dot Voting.
-
-## 3. Parking Lot (Topic to follow-up)
-- *Belum ada*
-
-## 4. Hasil & Action Items (Diisi saat rapat berlangsung)
-- [ ] Item 1 - PIC - Deadline
-```
+> **Agenda Rapat [Nama Proyek]**
+>
+> - **Tanggal:** 25 Januari 2026
+> - **Fasilitator:** [Nama kamu]
+> - **Waktu:** 10.00 - 11.00 WIB
+>
+> 1. **Tujuan rapat**
+>    - Menyetujui arsitektur database untuk modul pembayaran.
+>    - Menentukan prioritas fitur untuk Sprint 4.
+> 2. **Agenda diskusi**
+>    - 10 menit: *review* progres Sprint 3 (PIC: Sarah).
+>    - 25 menit: *brainstorming* solusi integrasi API pihak ketiga.
+>    - 15 menit: pengambilan keputusan prioritas fitur menggunakan *Dot Voting*.
+> 3. **Parking lot**
+>    - Belum ada topik yang perlu dibahas di sesi terpisah.
+> 4. **Hasil dan action items**
+>    - Diisi saat rapat berlangsung: *action item*, penanggung jawab, dan tenggat waktu.
 
 ## Kesimpulan
 
@@ -38525,9 +37578,11 @@ Tantangan terbesar yang sering memicu kelelahan mental dalam ekosistem *remote w
 
 Dalam menjaga ritme kerja yang efisien, kita dapat mengacu pada rumus keefektifan komunikasi berikut:
 
+<div>
 $$
-\\text{Efektivitas} = \\frac{\\text{Konteks} \\times \\text{Kejelasan}}{\\text{Gangguan (Noise)}}
+\text{Efektivitas} = \frac{\text{Konteks} \times \text{Kejelasan}}{\text{Gangguan (Noise)}}
 $$
+</div>
 
 Coba evaluasi kembali jadwal kerja kamu selama seminggu terakhir. Berapa banyak rapat di kalender kamu yang sebenarnya bisa digantikan dengan satu dokumen kolaboratif yang disusun dengan matang?
 
@@ -38590,9 +37645,11 @@ Seorang pemimpin interpersonal dalam tim *T-Shaped* berperan layaknya konduktor.
 
 Efektivitas kepemimpinan ini secara matematis dapat digambarkan melalui hubungan berikut:
 
+<div>
 $$
 \text{Efektivitas}_{\text{Tim}} = \sum (\text{Keahlian}_{\text{Spesialis}}) \times \text{Faktor}_{\text{Integrasi}}
 $$
+</div>
 
 Di sini, **Faktor Integrasi** diwakili oleh kecerdasan interpersonal kamu. Jika faktor ini bernilai nol, maka total kekuatan tim juga akan mendekati nol akibat ego sektoral yang menghambat kerja sama.
 
@@ -38643,14 +37700,10 @@ flowchart TD
     C -.->|"langkah praktis"| C1["Dokumentasi bersama hasil integrasi"]
 ```
 
-**Contoh Struktur Logika Integrasi:**
+**Contoh keputusan hasil sintesis:** jika masukan teknis dari para spesialis tergolong sangat kompleks, sementara visi bisnis menuntut produk diluncurkan cepat, maka:
 
-```text
-IF (Masukan_Teknis == ''Sangat Kompleks'') AND (Visi_Bisnis == ''Luncurkan Cepat'')
-THEN
-    Keputusan = ''Gunakan pendekatan Modular/MVP dengan rencana skalabilitas di Fase 2''
-    Komunikasi = ''Jelaskan pada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis masuk pasar.''
-```
+- **Keputusan:** gunakan pendekatan modular atau MVP (*Minimum Viable Product*), dengan rencana skalabilitas di fase 2.
+- **Komunikasi:** jelaskan kepada tim teknis bahwa ini bukan kompromi kualitas, tetapi langkah strategis untuk masuk pasar.
 
 ## 4. Peluncuran Fitur Baru
 
@@ -38717,8 +37770,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39275,9 +38328,9 @@ Genetika memiliki pengaruh langsung terhadap penentuan arah kepribadian. Berbaga
 *Heritability* mengukur sejauh mana variasi genetik di sebuah populasi mampu menjelaskan variasi fenotipe atau sifat yang bisa diamati. Penghitungan statistik ini berjalan murni dalam level populasi, bukan takaran individu. *Heritability* bergantung secara dinamis pada situasi lingkungan; gen dan ekologi setempat saling tumpang tindih dalam memicu sebuah perilaku.
 
 **Studi Kembar dan Adopsi**
-Peneliti umumnya menggunakan studi kembar dan adopsi untuk melacak jejak pengaruh genetik. Studi kembar membandingkan kembar monozigot yang secara genetik identik dengan kembar dizigot yang hanya berbagi sekitar $50\\text{\%}$ materi genetik. Jika sepasang kembar identik menunjukkan kemiripan sifat yang sangat tinggi meskipun dibesarkan di dua rumah yang terpisah, genetik memegang kendali paling kuat.
+Peneliti umumnya menggunakan studi kembar dan adopsi untuk melacak jejak pengaruh genetik. Studi kembar membandingkan kembar monozigot yang secara genetik identik dengan kembar dizigot yang hanya berbagi sekitar $50\text{\%}$ materi genetik. Jika sepasang kembar identik menunjukkan kemiripan sifat yang sangat tinggi meskipun dibesarkan di dua rumah yang terpisah, genetik memegang kendali paling kuat.
 
-Di sisi lain, studi adopsi membandingkan sifat seorang anak dengan orang tua biologis dan orang tua angkatnya. Dari penelitian panjang semacam ini, sifat kepribadian utama yang terhimpun dalam kelompok Big Five terbukti memiliki *heritability* di rentang moderat, yaitu sekitar $40\\text{\%}$ hingga $60\\text{\%}$.
+Di sisi lain, studi adopsi membandingkan sifat seorang anak dengan orang tua biologis dan orang tua angkatnya. Dari penelitian panjang semacam ini, sifat kepribadian utama yang terhimpun dalam kelompok Big Five terbukti memiliki *heritability* di rentang moderat, yaitu sekitar $40\text{\%}$ hingga $60\text{\%}$.
 
 **Gen Spesifik dan Kepribadian**
 Variasi gen secara spesifik juga terikat dengan spektrum kepribadian tertentu. Gen DRD4 yang mengatur reseptor dopamin sering dikaitkan dengan perilaku *novelty seeking* dan *extraversion*. Varian gen ini berimbas pada tumpulnya respons dopamin, sehingga seseorang terdorong secara impulsif mencari rangsangan luar untuk menutupi kekurangan tersebut. Selain itu, alel pendek pada gen 5-HTTLPR, sebuah transporter serotonin, berkaitan tajam dengan tingginya *neuroticism* serta kerentanan seseorang ambruk di bawah tekanan.
@@ -39675,8 +38728,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39815,11 +38868,13 @@ Secara instan, tubuh kamu mengalami perubahan untuk bertahan hidup:
 
 Tubuh melepaskan kombinasi hormon stres, terutama **adrenalin** (*epinephrine*) dan **kortisol** (*cortisol*).
 
-Formula kimia adrenalin: $\text{C}_9\text{H}_{13}\text{NO}_3$
+Formula kimia adrenalin: $\text{C}\_9\text{H}\_{13}\text{NO}\_3$
 
+<div>
 $$
 \text{Stres} \rightarrow \text{Hipotalamus} \rightarrow \text{Kelenjar Adrenal} \rightarrow \text{Adrenalin} \uparrow
 $$
+</div>
 
 ### 3. Sistem Saraf Parasimpatik
 
@@ -40097,9 +39152,11 @@ Secara biologis, saat panik menyerang, bagian otak yang bernama **Amigdala** (pu
 
  Efektivitas *grounding* dalam meredakan kecemasan dapat digambarkan secara konseptual melalui penurunan tingkat kecemasan:
 
+<div>
 $$
 \Delta \text{Anxiety} = \text{Anxiety}_{\text{awal}} - \text{Anxiety}_{\text{akhir}}
 $$
+</div>
 
 > **Intisari Membumi:** *Grounding* bertujuan menurunkan intensitas emosi sehingga kamu dapat kembali berpikir dengan jernih, tanpa harus memaksakan kecemasan hilang seketika.
 
@@ -40771,29 +39828,31 @@ Secara umum, kamu bisa memulai dengan mengunjungi **Psikolog**. Jika dalam prose
 
 Kamu dapat menggunakan format sederhana ini untuk mendokumentasikan strategi kamu:
 
-```text
-STRESS MANAGEMENT PROTOCOL
---------------------------
-NAMA: [Nama Kamu]
-TANGGAL: [Update Terakhir]
-
-1. SINYAL PERINGATAN (Apa yang saya rasakan saat stres mulai tinggi?):
-   - Fisik: Bahu tegang, asam lambung naik.
-   - Emosi: Mudah tersinggung, merasa kewalahan.
-
-2. STRATEGI KOPING MANDIRI (Apa yang saya lakukan?):
-   - Teknik 4-7-8 (3 siklus).
-   - Journaling selama 10 menit sebelum tidur.
-   - Jalan kaki tanpa musik di taman.
-
-3. SISTEM DUKUNGAN (Siapa yang bisa saya hubungi?):
-   - Sahabat: [Nama]
-   - Pasangan/Keluarga: [Nama]
-
-4. GARIS BATAS PROFESIONAL (Kapan saya harus ke Psikolog?):
-   - Jika saya sulit tidur lebih dari 3 hari dalam seminggu.
-   - Jika saya mulai menarik diri dari interaksi sosial sepenuhnya.
-```
+> **Protokol Manajemen Stres**
+>
+> - **Nama:** [Nama Kamu]
+> - **Tanggal:** [Update Terakhir]
+>
+> **1. Sinyal peringatan.** Apa yang saya rasakan saat stres mulai tinggi?
+>
+> - Fisik: bahu tegang, asam lambung naik.
+> - Emosi: mudah tersinggung, merasa kewalahan.
+>
+> **2. Strategi koping mandiri.** Apa yang saya lakukan?
+>
+> - Teknik 4-7-8 (3 siklus).
+> - *Journaling* selama 10 menit sebelum tidur.
+> - Jalan kaki tanpa musik di taman.
+>
+> **3. Sistem dukungan.** Siapa yang bisa saya hubungi?
+>
+> - Sahabat: [Nama]
+> - Pasangan/Keluarga: [Nama]
+>
+> **4. Garis batas profesional.** Kapan saya harus ke psikolog?
+>
+> - Jika saya sulit tidur lebih dari 3 hari dalam seminggu.
+> - Jika saya mulai menarik diri dari interaksi sosial sepenuhnya.
 
 ---
 
@@ -40875,8 +39934,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40942,23 +40001,19 @@ Dalam dunia digital, arsitektur pilihan disebut juga sebagai *Digital Nudging*. 
 - **E-commerce**: Menggunakan label psikologis seperti "Terlaris" atau tanda urgensi "Hanya sisa 2 barang lagi!" untuk memicu transaksi yang lebih cepat.
 - **Langganan Buletin**: Saat mendaftarkan akun baru, kotak persetujuan buletin sudah tercentang sejak awal (*pre-checked*).
 
-#### Contoh Implementasi Digital (Code Snippet)
+#### Dialog Berhenti Berlangganan
 
-Dalam pengembangan web, seorang *front-end developer* bertindak sebagai arsitek pilihan melalui urutan elemen. Perhatikan bagaimana perbedaan posisi tombol dapat memengaruhi keputusan pengguna:
+Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Perhatikan dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
 
-```html
-<!-- Arsitektur Pilihan yang mendorong pembatalan (fokus pada retensi) -->
-<div class="subscription-modal">
-  <h3>Yakin ingin berhenti berlangganan?</h3>
-  <p>Kamu akan kehilangan akses ke konten eksklusif kami.</p>
-  
-  <!-- Tombol utama (Primary) dibuat lebih menonjol untuk pilihan yang diinginkan bisnis -->
-  <button class="btn-keep">TETAP BERLANGGANAN (Direkomendasikan)</button>
-  
-  <!-- Tombol untuk berhenti dibuat kurang menonjol (Secondary) -->
-  <a href="/cancel" class="link-cancel">Saya ingin tetap berhenti</a>
-</div>
-```
+> **Yakin ingin berhenti berlangganan?**
+>
+> Kamu akan kehilangan akses ke konten eksklusif kami.
+>
+> **[ TETAP BERLANGGANAN (Direkomendasikan) ]**
+>
+> Saya ingin tetap berhenti
+
+Kedua pilihan tetap tersedia, tetapi bobotnya tidak seimbang. Pilihan yang diinginkan bisnis tampil sebagai tombol utama yang dibuat lebih menonjol dan diberi label "Direkomendasikan", sedangkan pilihan untuk berhenti hanya berupa tautan teks yang dibuat kurang menonjol.
 
 ## Tidak Ada Desain yang Netral
 
@@ -41066,9 +40121,11 @@ flowchart LR
 
 Secara biologis, otak kita berevolusi untuk menghemat energi. Jika ada beberapa cara untuk mencapai tujuan yang sama, otak akan memilih cara yang paling sedikit menguras tenaga.
 
+<div>
 $$
 \text{Energi}_{\text{kognitif}} \propto \frac{1}{\text{Kemudahan}_{\text{pilihan}}}
 $$
+</div>
 
 Artinya, semakin sulit suatu pilihan diproses secara kognitif, semakin besar kemungkinan otak kita akan menyerah atau mencari "jalan pintas" (heuristik).
 
@@ -41242,44 +40299,31 @@ Salah satu studi kasus paling terkenal mengenai kekuatan *default* adalah perban
 
 Di negara-negara dengan sistem **Opt-in** (harus mendaftar jadi donor), tingkat partisipasi rata-rata hanya berkisar $15\text{\%}$. Namun, di negara-negara dengan sistem **Opt-out** (dianggap donor kecuali menyatakan tidak), tingkat partisipasinya melonjak drastis hingga mendekati $99\text{\%}$.
 
+<div>
 $$
-\begin{aligned}
-P(\text{Donor} \mid \text{Opt-out}) &\approx 0.99 \\
-&\gg P(\text{Donor} \mid \text{Opt-in}) \approx 0.15
-\end{aligned}
+P(\text{Donor} \mid \text{Opt-out}) \approx 0.99 \gg P(\text{Donor} \mid \text{Opt-in}) \approx 0.15
 $$
+</div>
 
 Perbedaan partisipasi yang sangat kontras ini terjadi karena kekuatan pilihan bawaan (default), bukan karena tingkat kepedulian sosial masyarakat di negara-negara tersebut berbeda.
 
 ## 4\. Implementasi dalam Dunia Digital & Engineering
 
-Sebagai pengembang atau desainer produk, caramu menyusun kode dan antarmuka (UI) akan memengaruhi perilaku pengguna secara langsung.
+Sebagai pengembang atau desainer produk, caramu menyusun antarmuka (UI) akan memengaruhi perilaku pengguna secara langsung.
 
 ### Contoh Pengaturan Privasi Data
 
 Bayangkan kamu sedang membangun formulir pendaftaran. Kamu ingin mendorong pengguna menyetujui kebijakan privasi yang mendukung analitik data, tetapi tetap memberikan mereka kebebasan memilih.
 
-**Kode Contoh (HTML/JavaScript):**
+Dengan pendekatan *opt-out* (dorongan yang kuat), kotak persetujuan berikut sudah tercentang sejak formulir dibuka:
 
-```html
-<!-- Pendekatan Opt-out: Box sudah tercentang (Nudge Kuat) -->
-<div class="setting-item">
-  <input type="checkbox" id="analytics" name="analytics" checked>
-  <label for="analytics">Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.</label>
-</div>
+- [x] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
 
-<script>
-  // Logika Default
-  const userPreference = document.getElementById(''analytics'').checked;
-  if (userPreference) {
-    console.log("Status: Pengguna mengikuti default (Opt-in aktif).");
-  } else {
-    console.log("Status: Pengguna melakukan tindakan aktif untuk menolak.");
-  }
-</script>
-```
+Pengguna yang mengirim formulir tanpa menyentuh kotak itu berarti mengikuti *default*. Hanya pengguna yang melakukan tindakan aktif, yaitu menghapus centangnya, yang menolak. Bandingkan dengan pendekatan *opt-in*, ketika kotak yang sama dibiarkan kosong dan pengguna harus mencentangnya sendiri untuk ikut serta:
 
-**Analisis Teknikal:** Secara teknis, menambahkan atribut `checked` pada elemen input mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
+- [ ] Saya setuju untuk membagikan data penggunaan anonim untuk peningkatan layanan.
+
+**Dampaknya:** Membuat kotak tercentang sejak awal mengubah "biaya kognitif" pengguna. Untuk menolak, mereka harus melakukan klik tambahan. Dalam skala jutaan pengguna, satu klik ini bisa meningkatkan retensi data hingga puluhan persen.
 
 ## 5\. Penggunaan Praktis Pilihan Standar
 
@@ -41360,47 +40404,30 @@ Pernahkah kamu menulis email yang menyebutkan "Saya lampirkan dokumen...", lalu 
 
 **Nudge pada Gmail:** Sistem mendeteksi kata "lampirkan" atau "attachment" di badan email. Jika kamu menekan *send* tanpa file, muncul kotak dialog: *"Kamu menyebutkan lampiran tetapi tidak ada file yang dilampirkan. Kirim saja?"* Ini adalah penerapan *Choice Architecture* yang mengantisipasi kelalaian *System 1* manusia.
 
-## *Anticipatory Validation* dalam Kode
+## *Anticipatory Validation* di Kolom Email
 
-Bagi para pengembang perangkat lunak atau insinyur, prinsip *Expect Error* diwujudkan dalam kode yang proaktif. Berikut adalah contoh sederhana dalam JavaScript untuk memvalidasi input pengguna secara *real-time* guna mencegah kesalahan pengiriman formulir.
+Di formulir daring, prinsip *Expect Error* bisa diwujudkan dengan validasi yang proaktif: isian diperiksa secara *real-time* saat pengguna masih mengetik, sehingga kesalahan pengiriman formulir dicegah sebelum terjadi. Contohnya pada kolom alamat email, dua mekanisme bekerja bersama:
 
-```javascript
-// Mengantisipasi kesalahan input email secara real-time
-const emailInput = document.querySelector(''#email'');
-const feedbackMessage = document.querySelector(''#feedback'');
-
-emailInput.addEventListener(''input'', (e) => {
-    const value = e.target.value;
-    
-    // Cek apakah pengguna lupa tanda ''@'' atau domain
-    if (value.length > 5 && !value.includes(''@'')) {
-        feedbackMessage.textContent = "Sepertinya kamu melupakan tanda ''@'' pada email-mu.";
-        feedbackMessage.style.color = "orange";
-    } else {
-        feedbackMessage.textContent = "";
-    }
-});
-
-// Forcing function pada tombol submit
-const submitBtn = document.querySelector(''#submit'');
-submitBtn.addEventListener(''click'', (e) => {
-    if (!emailInput.value.includes(''@'')) {
-        e.preventDefault(); // Mencegah form dikirim jika salah
-        alert("Mohon perbaiki kesalahan sebelum melanjutkan.");
-    }
-});
-```
+| Mekanisme | Pemicu | Yang dilihat pengguna |
+| --- | --- | --- |
+| **Sinyal peringatan saat mengetik** | Isian sudah lebih dari 5 karakter, tetapi belum memuat tanda "@". | Pesan berwarna jingga: "Sepertinya kamu melupakan tanda ''@'' pada email-mu." Pesan ini hilang lagi begitu tanda "@" diketik. |
+| ***Forcing function* pada tombol kirim** | Tombol kirim ditekan saat isian belum memuat tanda "@". | Formulir tidak terkirim, dan muncul peringatan "Mohon perbaiki kesalahan sebelum melanjutkan." |
 
 ## Menghitung Dampak Kesalahan
 
 Dalam sistem industri, rumus keandalan (*reliability*) sering digunakan untuk memahami pentingnya desain antisipatif. Jika sebuah proses memiliki 5 langkah dan setiap langkah memiliki probabilitas keberhasilan $p = 0.95$ (5% kemungkinan salah), maka probabilitas keseluruhan sistem berhasil tanpa kesalahan adalah:
 
+<div>
 $$
-\begin{aligned}
-P_{\text{success}} &= p^n \
-P_{\text{success}} &= 0.95^5 \approx 0.77
-\end{aligned}
+P_{\text{success}} = p^n
 $$
+</div>
+
+<div>
+$$
+P_{\text{success}} = 0.95^5 \approx 0.77
+$$
+</div>
 
 Ini berarti ada **23% kemungkinan terjadi kesalahan** secara keseluruhan. Dengan menambahkan *forcing function* atau *nudge* yang meningkatkan $p$ menjadi $0.999$, kita dapat menghindarkan sistem dari kegagalan besar.
 
@@ -41459,39 +40486,28 @@ Dalam rekayasa perangkat lunak dan desain UI/UX, umpan balik berperan mencegah k
 
 Tanpa umpan balik ini, pengguna cenderung memilih kata sandi sederhana seperti `123456`. Keberadaan indikator visual langsung mendorong mereka untuk merancang kombinasi karakter yang lebih aman.
 
-### Contoh Kode Visual Feedback untuk Keamanan
+### Cara Indikator Menilai Kata Sandi
 
-Berikut adalah cuplikan kode sederhana tentang bagaimana memberikan umpan balik visual secara langsung kepada pengguna:
+Indikator sederhana bisa memberi satu poin untuk setiap syarat yang dipenuhi kata sandi:
 
-```javascript
-// Logika sederhana untuk memberikan feedback kekuatan password
-function checkPasswordStrength(password) {
-    let strength = 0;
-    if (password.length > 8) strength++;
-    if (/[A-Z]/.test(password)) strength++;
-    if (/[0-9]/.test(password)) strength++;
-    if (/[^A-Za-z0-9]/.test(password)) strength++;
+1. Panjangnya lebih dari 8 karakter.
+2. Memuat huruf besar.
+3. Memuat angka.
+4. Memuat simbol (karakter selain huruf dan angka).
 
-    return strength; // Mengembalikan nilai 0-4
-}
+Setiap kali pengguna mengetik satu karakter, total poinnya (0 sampai 4) langsung diterjemahkan menjadi label dan warna:
 
-// Memberikan feedback visual ke UI
-passwordInput.addEventListener(''input'', (e) => {
-    const score = checkPasswordStrength(e.target.value);
-    const feedbackText = ["Sangat Lemah", "Lemah", "Cukup", "Kuat", "Sangat Aman"];
-    const colors = ["#ff4d4d", "#ffa64d", "#ffff4d", "#a6ff4d", "#4dff4d"];
+| Poin | Label kekuatan | Warna label |
+| --- | --- | --- |
+| 0 | Sangat Lemah | Merah |
+| 1 | Lemah | Jingga |
+| 2 | Cukup | Kuning |
+| 3 | Kuat | Hijau muda |
+| 4 | Sangat Aman | Hijau |
 
-    strengthIndicator.innerText = `Kekuatan: ${feedbackText[score]}`;
-    strengthIndicator.style.color = colors[score];
-    
-    // Nudge: Jika masih lemah, berikan instruksi tambahan
-    if (score < 3) {
-        hintText.innerText = "Tips: Tambahkan simbol atau angka agar lebih aman.";
-    } else {
-        hintText.innerText = "Kerja bagus! Kata sandi kamu sulit ditebak.";
-    }
-});
-```
+Sebagai *nudge*, pesan petunjuk ikut muncul. Jika poinnya kurang dari 3, pengguna melihat "Tips: Tambahkan simbol atau angka agar lebih aman." Jika 3 atau lebih, muncul "Kerja bagus! Kata sandi kamu sulit ditebak."
+
+Kata sandi `123456`, misalnya, hanya mendapat 1 poin (dari angka), sehingga pengguna langsung melihat label "Lemah" berwarna jingga beserta petunjuk untuk memperbaikinya.
 
 ## 5\. Penerapan di Dunia Nyata
 
@@ -41511,10 +40527,11 @@ Banyak jam tangan pintar memanfaatkan getaran (*haptic feedback*) saat pemakainy
 
 Dalam sistem kontrol, umpan balik dapat digambarkan dengan sederhana sebagai upaya memperkecil Error ($E$) antara Target ($T$) dan Kondisi Saat Ini ($C$).
 
+<div>
 $$
-
 E = T - C
 $$
+</div>
 
 Tujuan dari Arsitektur Pilihan melalui *feedback* adalah membuat nilai $E$ mendekati nol sesegera mungkin. Jika umpan balik terlambat diberikan, maka koreksi yang dilakukan pengguna cenderung berlebihan (*overshoot*), yang dalam psikologi sering disebut sebagai reaksi yang tidak stabil.
 
@@ -41568,9 +40585,11 @@ Sebagai analogi, bayangkan kamu melihat label nutrisi bertuliskan "300 Kalori". 
 
 Untuk pilihan dengan dampak jangka panjang, kita perlu membawa "masa depan" ke "masa kini".
 
+<div>
 $$
 \text{Total} = P \times (1 + r)^n
 $$
+</div>
 
 Dalam rumus bunga majemuk di atas, otak kita kesulitan membayangkan bagaimana tingkat bunga $r$ dan jangka waktu $n$ bekerja secara eksponensial. Untuk menjembatani celah pemahaman ini, seorang arsitek pilihan bisa menyajikan grafik interaktif atau visualisasi sederhana. Contohnya, menunjukkan kalimat konkret: "Jika kamu menabung Rp500.000 per bulan mulai sekarang, kamu bisa mengumpulkan uang muka rumah dalam waktu 10 tahun."
 
@@ -41594,24 +40613,27 @@ Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat pentin
 - **Mapping yang Baik:** Layar menunjukkan "Baterai cukup untuk 42 km lagi, sementara stasiun pengisian terdekat berjarak 12 km."
 - **Mapping yang Luar Biasa:** Sistem navigasi langsung mendeteksi rute perjalananmu. Jika tujuan melampaui sisa baterai, sistem otomatis menjadwalkan perhentian di stasiun pengisian daya terdekat lengkap dengan estimasi durasi pengisiannya.
 
-#### Contoh Implementasi Sederhana (Pseudo-code untuk Aplikasi Keuangan)
+### Kopi Harian yang Dipetakan Menjadi Tabungan
 
-Berikut adalah logika sederhana bagaimana sebuah aplikasi dapat memetakan pengeluaran kopi harian menjadi tabungan masa depan:
+Aplikasi keuangan dapat memetakan pengeluaran kecil sehari-hari menjadi tabungan masa depan. Misalnya, uang kopi harian dijumlahkan menjadi tabungan setahun ($A$), disetor setiap awal tahun, lalu dibungakan sebesar $r$ per tahun selama $n$ tahun:
 
-```python
-def map_coffee_to_savings(daily_coffee_price, years):
-    annual_savings = daily_coffee_price * 365
-    interest_rate = 0.06
-    total_future_value = 0
-    
-    for year in range(1, years + 1):
-        total_future_value = (total_future_value + annual_savings) * (1 + interest_rate)
-    
-    return f"Berhenti membeli kopi seharga {daily_coffee_price} setiap hari akan memberikanmu Rp {total_future_value:,.0f} dalam {years} tahun."
-```
+<div>
+$$
+\text{Total} = A \times \frac{(1 + r)^n - 1}{r} \times (1 + r)
+$$
+</div>
 
-Jika fungsi tersebut dijalankan dengan parameter kopi seharga Rp40.000 selama 20 tahun, output yang dihasilkan adalah:
-"Berhenti membeli kopi seharga 40.000 setiap hari akan memberikanmu Rp 1,077,322,667 dalam 20 tahun."
+Dengan kopi seharga Rp40.000 per hari selama 20 tahun, hitungannya menjadi seperti ini:
+
+| Data yang dipakai dan hasilnya | Nilai |
+| --- | --- |
+| Harga kopi per hari | Rp40.000 |
+| Tabungan per tahun ($A$) | Rp40.000 × 365 = Rp14.600.000 |
+| Bunga per tahun ($r$, angka ilustrasi) | 6% |
+| Lama menabung ($n$) | 20 tahun |
+| Nilai tabungan setelah 20 tahun | sekitar Rp569.293.809 |
+
+Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa: *"Berhenti membeli kopi seharga Rp40.000 setiap hari akan memberikanmu sekitar Rp569 juta dalam 20 tahun."*
 
 ### Mengapa Ini Penting?
 
@@ -41637,9 +40659,12 @@ Secara intuitif, kita berpikir bahwa semakin banyak pilihan, semakin bebas kita.
 > **Insight:** "More is less." Semakin banyak pilihan yang tersedia, semakin besar usaha kognitif yang diperlukan untuk mengevaluasinya, yang sering kali berujung pada penundaan keputusan atau ketidakpuasan pasca-pembelian.
 
 Secara matematis, jika kita memiliki $n$ pilihan dan setiap pilihan memiliki $a$ atribut (seperti harga, kualitas, warna, fitur), maka total informasi yang harus diproses adalah:
+
+<div>
 $$
 \text{Total Informasi} = n \times a
 $$
+</div>
 
 Ketika $n$ meningkat drastis, beban kognitif kita melampaui ambang batas Sistem 2 (berpikir reflektif), memaksa kita untuk mengandalkan heuristik sederhana atau menyerah sama sekali.
 
@@ -41666,21 +40691,12 @@ Teori yang dikemukakan oleh Amos Tversky menyatakan bahwa manusia sering memilih
 - Kedua, menyaring merek dengan hanya melirik pilihan dari merek A atau B.
 - Ketiga, menyeleksi bobot laptop agar di bawah 1,5 kg supaya ringan saat dibawa bepergian.
 
-**Contoh Implementasi Kode (Logika Filter):** Jika kamu sedang membangun aplikasi pemilihan asuransi, sebaiknya hindari menampilkan semua polis sekaligus. Gunakan logika penyaringan sederhana berikut:
+**Penerapan pada Aplikasi Asuransi:** Jika kamu sedang membangun aplikasi pemilihan asuransi, sebaiknya hindari menampilkan ratusan polis sekaligus. Saring polis secara bertahap berdasarkan kebutuhan pengguna:
 
-```javascript
-const allInsurancePlans = [...]; // Daftar ratusan polis
-
-// Strategi: Sederhanakan dengan filter berdasarkan kebutuhan pengguna
-const recommendedPlans = allInsurancePlans.filter(plan => {
-    return plan.monthlyPremium <= userBudget && 
-           plan.coverageType === userNeed &&
-           plan.rating >= 4;
-});
-
-// Tampilkan hanya 3 hasil terbaik untuk menghindari choice overload
-const finalDisplay = recommendedPlans.slice(0, 3);
-```
+1. Singkirkan polis yang premi bulanannya melebihi anggaran pengguna.
+2. Sisakan hanya polis dengan jenis pertanggungan yang sesuai kebutuhannya.
+3. Sisakan hanya polis dengan rating 4 ke atas.
+4. Dari polis yang lolos, tampilkan hanya 3 di layar untuk menghindari *choice overload*.
 
 ## 4. Mengurangi Jumlah Atribut (Information Slimming)
 
@@ -41750,12 +40766,13 @@ Secara ekonomi klasik, manusia dianggap rasional. Jika ada denda, kita akan patu
 
 Manusia cenderung menilai imbalan atau hukuman yang terjadi **sekarang** jauh lebih tinggi daripada yang terjadi di **masa depan**. Matematika sederhana dari nilai utilitas $U$ yang didiskon sering kali terlihat seperti ini:
 
+<div>
 $$
-
 U_{\text{total}} = u_0 + \sum_{t=1}^{n} \beta \delta^t u_t
 $$
+</div>
 
-Di mana $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
+Di mana $\beta$ adalah faktor *present bias*. Jika $\beta$ sangat kecil, maka manfaat di masa depan $u\_t$ hampir tidak memiliki berat dalam pengambilan keputusan kita saat ini. Inilah alasan mengapa "paru-paru hitam" di bungkus rokok adalah upaya membuat konsekuensi masa depan menjadi **salient** saat ini.
 
 ### B. Mental Accounting (Akuntansi Mental)
 
@@ -41781,27 +40798,24 @@ Untuk membuat sebuah pilihan atau konsekuensi menjadi lebih menonjol, arsitek pi
 
 Dalam kebijakan publik, cara pajak atau biaya dikenakan sangat mempengaruhi perilaku.
 
-**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau $0.05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
+**Biaya Kantong Plastik** Di banyak negara, menetapkan harga kecil (misalnya Rp200 atau USD 0,05) untuk kantong plastik ternyata jauh lebih efektif daripada memberikan diskon yang sama jika pelanggan membawa tas sendiri. Mengapa?
 
 1. **Loss Aversion.** Otak kita memproses kerugian secara berbeda. Kehilangan Rp200 rasanya jauh lebih menyakitkan ketimbang melewatkan diskon dengan nilai yang sama.
 2. **Kehadiran Salience di Kasir.** Pertanyaan kasir, "Mau pakai plastik seharga Rp200?", memicu kesadaran penuh saat transaksi. Biaya kecil ini mendadak jadi sangat nyata di detik-detik penting sebelum tindakan dilakukan.
 
 ### Contoh Implementasi dalam Desain Antarmuka (UI/UX)
 
-Dalam dunia rekayasa perangkat lunak, kita bisa membuat "biaya" atau "manfaat" lebih terlihat menggunakan elemen visual.
+Dalam desain aplikasi, kita bisa membuat "biaya" atau "manfaat" lebih terlihat menggunakan elemen visual. Contohnya kartu harga untuk tombol berlangganan berikut:
 
-```html
-<!-- Contoh Nudge Salience pada Tombol Berlangganan -->
-<div class="pricing-card">
-  <h3>Paket Tahunan</h3>
-  <p class="old-price">Rp 1.200.000</p>
-  <!-- Membuat penghematan menjadi sangat Salient -->
-  <p class="savings-tag">HEMAT Rp 300.000 (25%)!</p>
-  <button class="btn-primary">Pilih Paket Ini</button>
-  <p class="daily-cost">Hanya Rp 2.400 / hari</p> 
-  <!-- Menggunakan ''reframing'' untuk membuat harga terasa ringan -->
-</div>
-```
+| Elemen kartu | Isi | Teknik |
+| --- | --- | --- |
+| Judul | Paket Tahunan | - |
+| Harga lama | Rp1.200.000 | - |
+| Label hemat | HEMAT Rp300.000 (25%)! | Membuat penghematan sangat *salient* |
+| Tombol utama | Pilih Paket Ini | - |
+| Biaya harian | Hanya Rp2.466 per hari | *Reframing* agar harga terasa ringan |
+
+Jika harga lama Rp1.200.000 dipotong penghematan Rp300.000, harga yang dibayar Rp900.000 per tahun, sehingga biaya hariannya Rp900.000 ÷ 365 ≈ Rp2.466. Angka harian itulah yang membuat harga terasa ringan, padahal total yang dibayar tetap Rp900.000 per tahun.
 
 ## 5. Mendorong Efisiensi Energi lewat Dashboard Mobil Listrik
 
@@ -41875,21 +40889,14 @@ Dalam desain UI/UX, *sludge* sering bermanifestasi sebagai *dark patterns*. Ini 
 2. **Sneak into Basket:** Menambahkan biaya tambahan atau item tambahan ke keranjang belanja secara otomatis tanpa persetujuan eksplisit.
 3. **Confirmshaming:** Menggunakan bahasa yang membuat pengguna merasa bersalah jika tidak memilih opsi tertentu. Sebagai contoh, tombol "Ya, saya ingin diskon" disandingkan dengan tombol "Tidak, saya lebih suka membayar harga penuh".
 
-```javascript
-// Contoh Logika Sludge dalam Kode (Pseudo-code)
-// Menghambat pengguna untuk menghapus akun
+Gambaran *Roach Motel* yang lebih lengkap adalah proses menghapus akun yang sengaja dirancang untuk menghambat penggunanya:
 
-function deleteAccountProcess() {
-  showAlert("Apakah kamu yakin?");
-  if (confirm) {
-    showAlert("Kami akan merindukanmu. Kamu akan kehilangan semua poin!");
-    // Menambah langkah tambahan yang tidak perlu
-    redirectToSurveyPage(); 
-    sendVerificationEmailWith24HourDelay();
-    console.log("Sludge diterapkan: Proses penghapusan dibuat lambat.");
-  }
-}
-```
+1. Muncul peringatan "Apakah kamu yakin?"
+2. Setelah pengguna mengiyakan, muncul pesan kedua: "Kami akan merindukanmu. Kamu akan kehilangan semua poin!"
+3. Pengguna dialihkan ke halaman survei.
+4. Email verifikasi baru dikirim setelah jeda 24 jam.
+
+Langkah ketiga dan keempat sebenarnya tidak perlu. Keduanya hanya ditambahkan agar proses penghapusan berjalan lambat.
 
 ## 4\. Tanggung Jawab Etis Choice Architect
 
@@ -41985,12 +40992,13 @@ Program **Save More Tomorrow** dirancang oleh Richard Thaler dan Shlomo Benartzi
 
 Tingkat tabungan karyawan yang menggunakan skema tradisional sering kali stagnan. Sebaliknya, program SMarT mendorong pertumbuhan tabungan secara akumulatif berdasarkan fungsi matematika berikut:
 
+<div>
 $$
-
 S_{\text{total}} = \sum_{t=1}^{n} (G_t \times R_t)
 $$
+</div>
 
-Dalam formula di atas, $G_t$ merepresentasikan gaji pada tahun ke-$t$, sementara $R_t$ adalah rasio tabungan yang terus meningkat secara otomatis. Pada uji coba pertamanya, pendekatan ini terbukti mendongkrak rata-rata tingkat tabungan dari **3,5% menjadi 13,6%** dalam kurun waktu kurang dari empat tahun.
+Dalam formula di atas, $G\_t$ merepresentasikan gaji pada tahun ke-$t$, sementara $R\_t$ adalah rasio tabungan yang terus meningkat secara otomatis. Pada uji coba pertamanya, pendekatan ini terbukti mendongkrak rata-rata tingkat tabungan dari **3,5% menjadi 13,6%** dalam kurun waktu kurang dari empat tahun.
 
 ## 3\. Mengubah Perilaku Konsumsi di Sektor Lingkungan
 
@@ -42107,7 +41115,7 @@ Metode standar emas yang digunakan adalah **Randomized Controlled Trial (RCT)**.
 - **Kelompok Kontrol:** Subjek yang tetap menjalani prosedur atau kondisi lama.
 - **Kelompok Eksperimen:** Subjek yang menerima intervensi *nudge* baru.
 
-Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}_{\text{eksperimen}} > \bar{x}_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
+Keberhasilan diukur dari perbedaan hasil antara kedua kelompok tersebut. Jika $\bar{x}\_{\text{eksperimen}} > \bar{x}\_{\text{kontrol}}$ secara nyata, intervensi *nudge* terbukti efektif.
 
 ## 5. Change (Perubahan) dan Evaluasi Berkelanjutan
 
@@ -42163,8 +41171,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42445,32 +41453,17 @@ Mari kita lihat penerapannya pada skenario nyata. Bayangkan seorang manajer HR i
 
 Dengan menggunakan struktur *decision matrix* ini, manajer HR tidak hanya terpaku pada siapa yang paling mahir pemrograman, melainkan dapat menemukan kandidat yang paling sesuai dengan kebutuhan organisasi secara menyeluruh.
 
-### Implementasi Kode (Python)
+### Matriks Tiga Vendor yang Sudah Terisi
 
-Bagi kamu yang memiliki latar belakang teknis, memahami anatomi matriks keputusan akan lebih mudah jika diekspresikan ke dalam struktur data seperti *dictionary* atau *list* pada Python.
+Agar semua komponen tadi terlihat bekerja bersama, berikut satu matriks yang sudah terisi lengkap. Tiga vendor dinilai pada tiga kriteria dengan skor skala 1–10. Semua angkanya adalah angka ilustrasi.
 
-```python
-# Anatomi Matriks Keputusan dalam Kode Python
-decision_matrix = {
-    "kriteria": ["Harga", "Kualitas", "Kecepatan"],
-    "bobot": [0.4, 0.4, 0.2],
-    "alternatif": {
-        "Vendor A": [8, 7, 9], # Skor untuk tiap kriteria
-        "Vendor B": [6, 9, 7],
-        "Vendor C": [9, 6, 6]
-    }
-}
+| Alternatif | Harga (bobot 0,4) | Kualitas (bobot 0,4) | Kecepatan (bobot 0,2) | Total Skor Berbobot |
+| :--- | :---: | :---: | :---: | :--- |
+| **Vendor A** | 8 | 7 | 9 | (8 × 0,4) + (7 × 0,4) + (9 × 0,2) = **7,8** |
+| **Vendor B** | 6 | 9 | 7 | (6 × 0,4) + (9 × 0,4) + (7 × 0,2) = **7,4** |
+| **Vendor C** | 9 | 6 | 6 | (9 × 0,4) + (6 × 0,4) + (6 × 0,2) = **7,2** |
 
-def calculate_winner(matrix):
-    results = {}
-    for vendor, scores in matrix["alternatif"].items():
-        total_score = sum(s * w for s, w in zip(scores, matrix["bobot"]))
-        results[vendor] = round(total_score, 2)
-    return results
-
-# Output: {''Vendor A'': 7.8, ''Vendor B'': 7.4, ''Vendor C'': 7.2}
-print(calculate_winner(decision_matrix))
-```
+Vendor A keluar sebagai pilihan teratas. Perhatikan Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
 
 ### Ringkasan Komponen
 
@@ -42574,24 +41567,6 @@ Sebuah tim pengembang harus memutuskan *framework* mana yang akan digunakan untu
 2. **Vue.js** yang menawarkan kurva pembelajaran relatif cepat.
 3. **Angular** karena memiliki struktur kuat yang cocok untuk skala korporasi.
 
-### Penggunaan Kode dalam Dokumentasi
-
-Dalam sistem manajemen keputusan otomatis, alternatif sering kali direpresentasikan dalam bentuk *array* atau *list* objek sebelum diproses ke dalam matriks.
-
-```python
-# Contoh representasi alternatif dalam kode Python
-alternatif_pilihan = [
-    {"id": 1, "nama": "Cloud Provider A", "status": "Aktif"},
-    {"id": 2, "nama": "Cloud Provider B", "status": "Aktif"},
-    {"id": 3, "nama": "On-Premise Server", "status": "Eliminasi"} # Dibuang karena biaya perawatan tinggi
-]
-
-# Fungsi sederhana untuk menyaring alternatif yang relevan
-alternatif_final = [a for a in alternatif_pilihan if a[''status''] == "Aktif"]
-
-print(f"Jumlah alternatif yang akan dievaluasi: {len(alternatif_final)}")
-```
-
 ### Tips Menghindari Kesalahan Umum
 
 - **Hindari *decoy option* (opsi boneka).** Kadang kita sengaja memasukkan pilihan buruk hanya agar opsi favorit terlihat menonjol. Hal ini dapat merusak objektivitas analisis.
@@ -42664,39 +41639,6 @@ Untuk melihat bagaimana kriteria penilaian diterapkan dalam situasi nyata, mari 
 | **Skalabilitas** | Kemampuan sistem untuk menangani pertumbuhan volume data dan pengguna di masa mendatang. | Kualitatif (Skala 1-5) |
 | **Dukungan Teknis** | Keberadaan layanan bantuan 24/7 beserta reputasi *vendor*. | Kualitatif (Skala 1-5) |
 
-### Implementasi Teknis (Struktur Data)
-
-Bagi kamu yang mengembangkan aplikasi pendukung keputusan atau menggunakan *spreadsheet* tingkat lanjut, kriteria ini dapat direpresentasikan menggunakan format JSON terstruktur seperti berikut:
-
-```json
-{
-  "decision_project": "Pemilihan Vendor Cloud",
-  "criteria": [
-    {
-      "id": "C1",
-      "name": "Biaya Bulanan",
-      "is_independent": true,
-      "measurement_unit": "USD",
-      "type": "quantitative"
-    },
-    {
-      "id": "C2",
-      "name": "Keamanan Data",
-      "is_independent": true,
-      "measurement_unit": "Compliance Score",
-      "type": "qualitative"
-    },
-    {
-      "id": "C3",
-      "name": "Latensi Server",
-      "is_independent": true,
-      "measurement_unit": "ms",
-      "type": "quantitative"
-    }
-  ]
-}
-```
-
 ### Membeli Rumah Pertama
 
 Bayangkan kamu dan pasangan sedang berencana membeli rumah pertama. Saat ini, ada 3 kandidat rumah yang menjadi alternatif pilihan. Sebelum mulai melakukan survei fisik, kamu harus menentukan kriteria penilaian terlebih dahulu agar tidak mudah terpikat oleh aspek sekunder seperti "taman yang asri", padahal lokasinya sangat jauh dari tempat kerja.
@@ -42725,7 +41667,7 @@ Dalam pembuatan **matriks keputusan (decision matrix)**, tidak semua **kriteria 
 
 Tanpa bobot, setiap kriteria dianggap memiliki pengaruh yang sama (bobot rata). Ini sering kali menyesatkan.
 
-> **Analogi Masakan:** Bayangkan kamu sedang membuat sup. Garam dan merica adalah bumbu (kriteria), tetapi jumlah (bobot) yang kamu masukkan tentu berbeda. Jika kamu memasukkan garam sebanyak air sup, masakan tersebut akan rusak. Begitu pula dalam pengambilan keputusan; memberikan bobot yang salah akan menghasilkan keputusan yang "terlalu asin" or tidak seimbang.
+> **Analogi Masakan:** Bayangkan kamu sedang membuat sup. Garam dan merica adalah bumbu (kriteria), tetapi jumlah (bobot) yang kamu masukkan tentu berbeda. Jika kamu memasukkan garam sebanyak air sup, masakan tersebut akan rusak. Begitu pula dalam pengambilan keputusan; memberikan bobot yang salah akan menghasilkan keputusan yang "terlalu asin" atau tidak seimbang.
 
 ### Metodologi Pemberian Bobot
 
@@ -42752,14 +41694,16 @@ Dalam metode ini, kamu memberikan angka pada setiap kriteria berdasarkan skala t
 - **Normalisasi Nilai:** Setelah memberikan angka kasar, kamu harus melakukan proses normalisasi agar jumlah seluruh bobot tepat bernilai 1,0.
 - **Rumus Normalisasi:**
 
-$$
-w_i = \frac{p_i}{\sum_{j=1}^{n} p_j}
-$$
+  <div>
+  $$
+  w_i = \frac{p_i}{\sum_{j=1}^{n} p_j}
+  $$
+  </div>
 
   Di mana:
-  - $w_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
-  - $p_i$ = Skor kepentingan kriteria ke-$i$
-  - $\sum p_j$ = Total jumlah skor dari semua kriteria yang ada
+  - $w\_i$ = Bobot kriteria ke-$i$ (setelah dinormalisasi)
+  - $p\_i$ = Skor kepentingan kriteria ke-$i$
+  - $\sum p\_j$ = Total jumlah skor dari semua kriteria yang ada
 
 ### Langkah-Langkah Praktis Menentukan Bobot
 
@@ -42794,30 +41738,6 @@ pie showData
     "Kemudahan Penggunaan" : 28
     "Biaya Langganan" : 20
     "Dukungan Pelanggan" : 12
-```
-
-### Implementasi Teknis (Python Snippet)
-
-Bagi pengembang atau analis data, proses normalisasi bobot dapat diotomatisasi dengan kode sederhana berikut:
-
-```python
-# Daftar skor kepentingan kriteria (Skala 1-10)
-scores = {
-    "Keamanan": 10,
-    "Usability": 7,
-    "Biaya": 5,
-    "Support": 3
-}
-
-def calculate_weights(criteria_scores):
-    total_score = sum(criteria_scores.values())
-    # Menghitung bobot normalisasi untuk setiap kriteria
-    normalized_weights = {k: round(v / total_score, 2) for k, v in criteria_scores.items()}
-    return normalized_weights
-
-weights = calculate_weights(scores)
-print(f"Bobot Akhir: {weights}")
-# Output: {''Keamanan'': 0.4, ''Usability'': 0.28, ''Biaya'': 0.2, ''Support'': 0.12}
 ```
 
 ### Tantangan dalam Pemberian Bobot
@@ -42898,9 +41818,20 @@ Dalam satu matriks keputusan, kamu akan sering menemui kombinasi antara data kua
 
 - **Data Kuantitatif:** Gunakan rumus normalisasi sederhana. Sebagai contoh, untuk kriteria Harga (di mana nilai yang lebih rendah justru lebih baik), kamu bisa menggunakan rumus:
 
+<div>
 $$
 \text{Skor} = \frac{\text{Harga Termurah}}{\text{Harga Alternatif}} \times \text{Skala Maksimal}
 $$
+</div>
+
+Sebagai contoh rekaan (angka ilustrasi), misalkan laptop termurah di daftarmu seharga Rp10.000.000, sedangkan Laptop A yang sedang kamu nilai seharga Rp15.000.000. Dengan skala maksimal 5, skornya dihitung seperti ini:
+
+| Alternatif | Harga | Perhitungan | Skor |
+| :--- | :--- | :--- | :---: |
+| Laptop termurah | Rp10.000.000 | (10.000.000 ÷ 10.000.000) × 5 | 5 |
+| Laptop A | Rp15.000.000 | (10.000.000 ÷ 15.000.000) × 5 | 3,33 |
+
+Laptop termurah otomatis mendapat skor penuh 5, sedangkan Laptop A mendapat 3,33 (dibulatkan dua angka di belakang koma).
 
 - **Data Kualitatif:** Gunakan konsensus tim atau penilaian ahli (*expert judgment*) untuk memposisikan setiap alternatif ke dalam skala 1–5 berdasarkan rubrik yang telah disepakati.
 
@@ -42921,31 +41852,6 @@ Sebuah tim ingin mengevaluasi platform CRM baru menggunakan skala penilaian 1–
 - **Skor 1:** Biaya langganan sangat tinggi, yaitu di atas USD 500 per bulan.
 - **Skor 3:** Biaya investasi bulanan sedang, berkisar antara USD 200 hingga USD 500.
 - **Skor 5:** Biaya sangat ekonomis, berada di bawah USD 200 per bulan.
-
-### Contoh Implementasi dalam Kode (Python)
-
-Jika kamu ingin mengotomatiskan proses ini, berikut adalah contoh kode Python sederhana untuk menormalisasi nilai mentah menjadi skor skala 1–5.
-
-```python
-def hitung_skor_harga(harga_alternatif, harga_minimum, harga_maksimum):
-    # Logika: Semakin murah (mendekati harga_minimum), skor semakin mendekati 5
-    # Ini adalah contoh normalisasi linier terbalik
-    if harga_alternatif <= harga_minimum:
-        return 5
-    if harga_alternatif >= harga_maksimum:
-        return 1
-    
-    skor = 5 - ((harga_alternatif - harga_minimum) / (harga_maksimum - harga_minimum) * 4)
-    return round(skor, 2)
-
-# Contoh penggunaan
-harga_laptop_a = 15000000
-min_budget = 10000000
-max_budget = 20000000
-
-skor_akhir = hitung_skor_harga(harga_laptop_a, min_budget, max_budget)
-print(f"Skor untuk harga Rp{harga_laptop_a:,} adalah: {skor_akhir}/5")
-```
 
 ### 6. Tips Menghindari Bias Penilaian
 
@@ -43049,39 +41955,7 @@ Mari kita terapkan metode ini pada skenario bisnis nyata. Sebuah perusahaan seda
 
 **Hasil Akhir:** Vendor A terpilih sebagai pemenang meskipun harganya lebih mahal. Hal ini disebabkan karena Vendor A unggul pada kriteria keamanan yang memiliki bobot penilaian paling tinggi.
 
-### 6. Implementasi Teknis dengan Python
-
-Bagi kamu yang ingin mengotomatisasi proses ini untuk menangani data berskala besar, berikut adalah cuplikan kode sederhana menggunakan Python untuk menghitung skor berbobot secara otomatis:
-
-```python
-def calculate_weighted_score(alternatives, weights):
-    results = {}
-    
-    for name, scores in alternatives.items():
-        # Mengalikan skor mentah dengan bobot dan menjumlahkannya
-        total_score = sum(s * w for s, w in zip(scores, weights))
-        results[name] = round(total_score, 2)
-        
-    # Mengurutkan hasil dari yang tertinggi
-    sorted_results = dict(sorted(results.items(), key=lambda item: item[1], reverse=True))
-    return sorted_results
-
-# Data: [Keamanan, Harga, Fitur]
-weights = [0.5, 0.3, 0.2]
-vendors = {
-    "Vendor A": [8, 6, 9],
-    "Vendor B": [6, 9, 7],
-    "Vendor C": [7, 7, 7]
-}
-
-final_rank = calculate_weighted_score(vendors, weights)
-
-print("Peringkat Keputusan:")
-for rank, (name, score) in enumerate(final_rank.items(), 1):
-    print(f"{rank}. {name}: {score}")
-```
-
-### 7. Penggunaan di Dunia Nyata
+### 6. Penggunaan di Dunia Nyata
 
 Metode perhitungan ini digunakan secara luas dalam berbagai bidang profesional:
 
@@ -43165,37 +42039,16 @@ Untuk menguji keputusan ini, manajer melakukan analisis sensitivitas:
 *   **Langkah Pengujian:** Naikkan bobot kriteria "Biaya Operasional" dari semula 20% menjadi 40%.
 *   **Dampak Akhir:** Skor total Lokasi B merosot jauh di bawah Lokasi A. Ini membuktikan bahwa Lokasi A merupakan keputusan yang tangguh menghadapi risiko fluktuasi biaya operasional.
 
-### 6. Implementasi Teknis dengan Python
+### 6. Menggeser Bobot dari Seimbang ke Dominan
 
-Jika kamu menggunakan perangkat lunak atau pemrograman untuk mengambil keputusan, analisis sensitivitas ini bisa diotomatiskan secara terprogram. Berikut contoh sederhana menggunakan pustaka Python untuk menganalisis dampak perubahan bobot:
+Supaya efek pergeseran bobot terlihat dalam angka, ambil contoh rekaan (angka ilustrasi) dengan dua vendor dan dua kriteria. Vendor A mendapat skor 8 pada Kriteria 1 dan 6 pada Kriteria 2, sedangkan Vendor B mendapat 5 dan 9. Total skor keduanya dihitung dengan rumus total skor berbobot $S_i$ di bagian 3, pertama dengan bobot seimbang, lalu dengan Kriteria 1 yang dibuat sangat dominan.
 
-```python
-import pandas as pd
+| Bobot Kriteria 1 dan 2 | Vendor A | Vendor B | Hasil |
+| :--- | :--- | :--- | :--- |
+| 50% dan 50% (awal) | (8 × 0,5) + (6 × 0,5) = **7,0** | (5 × 0,5) + (9 × 0,5) = **7,0** | Seri |
+| 80% dan 20% (uji sensitivitas) | (8 × 0,8) + (6 × 0,2) = **7,6** | (5 × 0,8) + (9 × 0,2) = **5,8** | Vendor A unggul |
 
-# Data awal: Skor alternatif terhadap 2 kriteria [Kriteria 1, Kriteria 2]
-alternatif = {
-    ''Vendor_A'': [8, 6],
-    ''Vendor_B'': [5, 9]
-}
-
-def hitung_skor(bobot):
-    hasil = {}
-    for nama, skor in alternatif.items():
-        total = (skor[0] * bobot[0]) + (skor[1] * bobot[1])
-        hasil[nama] = round(total, 2)
-    return hasil
-
-# Bobot awal (50% - 50%)
-bobot_awal = [0.5, 0.5]
-print(f"Skor Awal {bobot_awal}: {hitung_skor(bobot_awal)}")
-
-# Analisis Sensitivitas: Bagaimana jika Kriteria 1 menjadi sangat dominan (80%)?
-bobot_baru = [0.8, 0.2]
-print(f"Skor Sensitivitas {bobot_baru}: {hitung_skor(bobot_baru)}")
-```
-
-**Insight dari Kode:**
-Dengan bobot yang seimbang, Vendor B mungkin memimpin. Namun, begitu bobot Kriteria 1 ditingkatkan, Vendor A menyalip. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
+Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimpin. Begitu bobot Kriteria 1 dinaikkan menjadi 80%, Vendor A langsung unggul 7,6 lawan 5,8. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
 
 ### Ringkasan Penting
 
@@ -43355,7 +42208,7 @@ Ini terjadi ketika dua kriteria sebenarnya mengukur hal yang sama, sehingga memb
 Menggunakan skala 1-5 untuk satu kriteria dan 1-10 untuk kriteria lain tanpa normalisasi akan merusak perhitungan matematis total skor.
 
 Secara matematis:
-$\text{Total Skor} \neq \sum (\text{Skor}_{A} \times \text{Bobot}) + \sum (\text{Skor}_{B} \times \text{Bobot})$
+$\text{Total Skor} \neq \sum (\text{Skor}\_{A} \times \text{Bobot}) + \sum (\text{Skor}\_{B} \times \text{Bobot})$
 
 *Catatan: Rumus di atas tidak valid jika Skala A berbeda dengan Skala B.*
 
@@ -43379,7 +42232,7 @@ Jika memungkinkan, mintalah rekan tim untuk memberikan skor pada alternatif tanp
 
 Jangan mengisi matriks sendirian. Melibatkan orang-orang dengan perspektif berbeda akan saling meniadakan bias individu. Gunakan rata-rata skor dari beberapa penilai:
 
-$\text{Skor}_{\text{Akhir}} = \frac{\sum_{i=1}^{n} \text{Skor}_{i}}{n}$
+$\text{Skor}\_{\text{Akhir}} = \frac{\sum\_{i=1}^{n} \text{Skor}\_{i}}{n}$
 
 Di mana $n$ adalah jumlah penilai.
 
@@ -43495,41 +42348,6 @@ Kamu memiliki dana simpanan dan berencana membeli apartemen pertama untuk disewa
 
 Sering kali seseorang tergoda membeli unit properti hanya karena tampilan fisiknya yang estetik. Dengan menggunakan matriks ini, kamu dipaksa untuk menguji apakah aspek estetika tersebut memang memiliki bobot yang cukup besar untuk memengaruhi keberhasilan investasimu.
 
-### Otomasi dengan Python
-
-Ketika menghadapi banyak pilihan (misalnya lebih dari sepuluh opsi), melakukan perhitungan secara manual tentu memakan waktu. Cuplikan kode Python di bawah ini mempermudah otomatisasi proses penghitungan matriks keputusan.
-
-```python
-import pandas as pd
-
-# Definisi kriteria dan bobot
-criteria = [''Biaya'', ''Kecepatan'', ''Keandalan'', ''Teknologi'']
-weights = [0.35, 0.25, 0.25, 0.15]
-
-# Data alternatif (skor 1-5)
-data = {
-    ''Vendor_A'': [4, 3, 4, 2],
-    ''Vendor_B'': [3, 5, 4, 4],
-    ''Vendor_C'': [2, 4, 5, 5]
-}
-
-def calculate_decision_matrix(data, weights):
-    results = {}
-    for name, scores in data.items():
-        # Menghitung skor terbobot: sum(skor * bobot)
-        weighted_score = sum(s * w for s, w in zip(scores, weights))
-        results[name] = round(weighted_score, 2)
-    return results
-
-# Eksekusi
-final_scores = calculate_decision_matrix(data, weights)
-
-# Tampilkan hasil yang diurutkan
-sorted_results = sorted(final_scores.items(), key=lambda x: x[1], reverse=True)
-for rank, (name, score) in enumerate(sorted_results, 1):
-    print(f"Ranking {rank}: {name} dengan skor {score}")
-```
-
 ### Kapan Menggunakan Matriks Ini?
 
 Dalam dunia profesional, matriks keputusan sering digunakan dalam rapat direksi atau komite pengadaan untuk:
@@ -43566,8 +42384,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43866,7 +42684,7 @@ Dalam novel otobiografis ini, Iwan Setyawan membangun kontras latar yang sangat 
 Latar tempat dalam novel ini terbagi menjadi dua kutub geografis yang ekstrem:
 
 *   **Batu, Malang (Jawa Timur)**
-    Rumah mungil berukuran $6 \\times 7$ meter di kaki Gunung Panderman menjadi pusat gravitasi emosional seluruh cerita. Keterbatasan ruang fisik ini diekspresikan secara presisi namun hangat:
+    Rumah mungil berukuran $6 \times 7$ meter di kaki Gunung Panderman menjadi pusat gravitasi emosional seluruh cerita. Keterbatasan ruang fisik ini diekspresikan secara presisi namun hangat:
     > "Di rumah mungil berukuran 6 x 7 meter dan hampir tak berhalaman ini, kami bertujuh berbagi dua kamar tidur..." (Hlm. 8)
     Latar Batu mempresentasikan kehidupan pedesaan/suburban yang sederhana, dikelilingi alam, dingin, namun penuh kehangatan sosial keluarga.
 *   **New York City (Amerika Serikat)**
@@ -44148,7 +42966,7 @@ Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi,
 
 ### Angka dan Presisi dalam Stilistika Kuantitatif
 
-Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \\times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0,5 \\times 1,5$ meter (Hlm. 9) bukan hanya sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
+Dalam studi stilistika kuantitatif, novel ini secara konsisten menampilkan keunikan penggabungan antara logika matematika dan sensitivitas puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0{,}5 \times 1{,}5$ meter (Hlm. 9) bukan hanya sebagai data kering. Presisi numerik ini digunakan secara artistik untuk menegaskan secara konkret seberapa terbatasnya ruang hidup mereka di masa lalu, yang kemudian beresonansi dengan kedalaman rasa syukur batin penulis di masa kini.
 
 ### Logika Data yang Menjadi Puitis
 
@@ -44213,8 +43031,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44478,30 +43296,6 @@ Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan p
 - **Penanggalan Radiokarbon**: Mengukur sisa Karbon-14 pada fosil atau artefak kayu untuk menentukan usia mereka hingga puluhan ribu tahun.
 - **Pengukur Ketebalan Industri**: Partikel beta digunakan di pabrik kertas atau plastik. Sensor mendeteksi berapa banyak elektron yang bisa menembus lembaran; jika terlalu sedikit yang lolos, berarti lembaran tersebut terlalu tebal.
 - **Terapi Medis (Brachytherapy)**: Isotop pemancar beta seperti Strontium-90 digunakan untuk mengobati kanker tertentu atau mencegah pertumbuhan jaringan yang tidak diinginkan setelah operasi jantung.
-
-## Simulasi Logika (Code Representation)
-
-Jika kita ingin merepresentasikan perubahan muatan dan nomor atom dalam sebuah fungsi sederhana (misalnya dalam Python), logikanya akan seperti ini:
-
-```python
-def beta_minus_decay(element_name, z, a):
-    """
-    Simulasi perubahan identitas atom pada peluruhan Beta Minus
-    """
-    original_z = z
-    new_z = z + 1  # Proton bertambah
-    new_a = a      # Nomor massa tetap
-    
-    print(f"Unsur Induk: {element_name} (Z={original_z}, A={new_a})")
-    print("--- Terjadi Peluruhan Beta Minus ---")
-    print(f"Memancarkan: 1 Elektron (Beta) dan 1 Antineutrino")
-    print(f"Unsur Anak: (Z={new_z}, A={new_a})")
-    
-    return new_z, new_a
-
-# Contoh pada Karbon-14
-beta_minus_decay("Karbon", 6, 14)
-```
 
 ## Ringkasan Singkat
 
@@ -45190,31 +43984,17 @@ Misalkan kita memiliki isotop **Iodium-131** (pemancar beta yang digunakan dalam
 3. $A = 400 \times (\frac{1}{2})^3$
 4. $A = 400 \times \frac{1}{8} = 50 \text{ MBq}$
 
-### 6. Implementasi Kode (Python)
+### 6. Sisa Karbon-14 setelah Dua Waktu Paruh
 
-Bagi pemelajar yang belajar secara kinestetik melalui pemrograman, berikut adalah cuplikan kode sederhana untuk memvisualisasikan penurunan jumlah atom akibat peluruhan beta:
+Rumus eksponensial $N(t) = N_0 e^{-\lambda t}$ memberi hasil yang sama dengan cara menghitung jumlah waktu paruh. Ambil contoh Karbon-14 dengan waktu paruh sekitar 5.730 tahun, sampel awal 1.000 atom (angka ilustrasi), dan lama peluruhan 11.460 tahun, tepat dua kali waktu paruh.
 
-```python
-import numpy as np
+| Langkah | Perhitungan | Hasil |
+| --- | --- | --- |
+| Konstanta peluruhan | $\lambda = \frac{\ln 2}{5730}$ | sekitar 0,000121 per tahun |
+| Eksponen | $\lambda t = \frac{\ln 2}{5730} \times 11460$ | $2 \ln 2$ |
+| Sisa inti | $N = 1000 \times e^{-2 \ln 2} = 1000 \times \frac{1}{4}$ | 250 atom |
 
-def hitung_sisa_inti(N0, waktu_paruh, durasi):
-    # Konstanta peluruhan (lambda)
-    lam = 0.693 / waktu_paruh
-    
-    # Menghitung sisa inti menggunakan rumus eksponensial
-    Nt = N0 * np.exp(-lam * durasi)
-    
-    return Nt
-
-# Parameter Contoh: Karbon-14 (Waktu paruh ~5730 tahun)
-N_awal = 1000  # Persentase atau jumlah atom
-t_paruh = 5730 
-t_simulasi = 11460 # Tepat 2 kali waktu paruh
-
-sisa = hitung_sisa_inti(N_awal, t_paruh, t_simulasi)
-print(f"Setelah {t_simulasi} tahun, sisa atom: {sisa:.2f}")
-# Output yang diharapkan: 250.00
-```
+Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian 5. Kalau $\ln 2$ dibulatkan menjadi 0,693, hasilnya sekitar 250,07; selisih kecil itu hanya akibat pembulatan.
 
 ### 7. Mengapa Laju Peluruhan Perlu Dihitung?
 
@@ -45457,8 +44237,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45613,9 +44393,11 @@ Sejarah mencatat banyak kecurigaan mengenai keberpihakan wasit terhadap Italia s
 
 Untuk memperkuat tim, Italia menggunakan kebijakan **Oriundi**, yaitu merekrut pemain-pemain kelahiran Amerika Selatan (terutama Argentina) yang memiliki darah Italia. Meskipun langkah ini tampak bertentangan dengan retorika nasionalisme murni, Mussolini menutup mata demi satu tujuan: **Kemenangan**.
 
+<div>
 $$
-\\text{Kemenangan} = \\text{Legitimasi Politik}
+\text{Kemenangan} = \text{Legitimasi Politik}
 $$
+</div>
 
 ## Sportswashing sejak 1934 hingga Kini
 
@@ -45700,24 +44482,19 @@ Pola pengucilan Jerman dan Jepang pada 1950 menjadi cetak biru bagi penggunaan *
 - **Contoh Modern:** Pengucilan Rusia dari kualifikasi Piala Dunia 2022 akibat invasi ke Ukraina menjadi cerminan langsung dari apa yang dialami Jerman pada 1950.
 - **Fungsi:** Langkah pemboikotan semacam ini tidak hanya menghukum para atlet secara sepihak, tetapi juga menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
 
-## Ringkasan Teknis Rekonstruksi 1950
+## Peta Partisipasi Piala Dunia 1950
 
-Jika kita memetakan kondisi partisipasi 1950 dalam sebuah struktur data, tampilannya akan seperti ini:
+Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara-negara yang sudah dibahas, Prancis dan Skotlandia juga mengundurkan diri dengan alasan yang berbeda.
 
-```bash
-STATUS_NEGARA_1950:
-├── DIKUCILKAN (Hukuman Perang):
-│   ├── Jerman (Barat & Timur)
-│   └── Jepang
-├── DIIZINKAN (Dengan Syarat/Sejarah):
-│   └── Italia (Karena jasa penyelamatan trofi)
-├── MENGUNDURKAN DIRI (Politik/Ekonomi):
-│   ├── India (Ekonomi & Aturan)
-│   ├── Prancis (Logistik)
-│   └── Skotlandia (Kebanggaan Nasional)
-└── TUAN RUMAH:
-    └── Brasil (Simbol kembalinya normalitas)
-```
+| Status | Negara | Alasan |
+| --- | --- | --- |
+| **Dikucilkan** | Jerman (Barat dan Timur), Jepang | Hukuman perang bagi negara Poros |
+| **Diizinkan** | Italia | Status juara bertahan, jasa Barassi menyelamatkan trofi, dan transisi politik yang lebih cepat |
+| **Mengundurkan diri** | India | Biaya perjalanan yang mahal dan prioritas domestik, meski larangan bermain bertelanjang kaki sering kali disebut sebagai alasannya |
+| **Mengundurkan diri** | Prancis | Jarak perjalanan antarstadion grup terlalu jauh |
+| **Mengundurkan diri** | Skotlandia | Hanya mau berangkat sebagai juara British Home Championship, padahal finis kedua |
+| **Menolak berpartisipasi** | Blok Timur, seperti Cekoslowakia dan Hongaria | Alasan ideologis, bukan sanksi |
+| **Tuan rumah** | Brasil | Simbol kembalinya normalitas |
 
 ## Refleksi Sejarah
 
@@ -45938,7 +44715,7 @@ Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan 
 
 - **Desaparecidos:** Diperkirakan sekitar **30.000 orang** "dihilangkan" (diculik, disiksa, dan dibunuh) oleh rezim.
 - **Pusat Penahanan:** Lebih dari **340 pusat penyiksaan rahasia** beroperasi di seluruh negeri.
-- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **$700 juta USD** (sepuluh kali lipat dari anggaran Piala Dunia sebelumnya di Jerman Barat) hanya untuk memastikan citra Argentina terlihat sempurna.
+- **Biaya Penyelenggaraan:** Junta menghabiskan sekitar **USD 700 juta** (sepuluh kali lipat dari anggaran Piala Dunia sebelumnya di Jerman Barat) hanya untuk memastikan citra Argentina terlihat sempurna.
 
 ## 2. Sepak Bola sebagai Alat "Sportswashing"
 
@@ -45963,7 +44740,7 @@ Puncak kontroversi terjadi pada babak grup kedua. Argentina harus mengalahkan Pe
 Banyak teori konspirasi yang memiliki dasar kuat mengenai pertandingan ini:
 
 - **Kiper Peru:** Ramón Quiroga, kiper Peru saat itu, sebenarnya lahir di Argentina.
-- **Diplomasi Gandum:** Ada laporan bahwa rezim Videla mengirimkan **35.000 ton gandum** gratis dan mencairkan aset keuangan Peru senilai $50 juta sesaat setelah pertandingan tersebut.
+- **Diplomasi Gandum:** Ada laporan bahwa rezim Videla mengirimkan **35.000 ton gandum** gratis dan mencairkan aset keuangan Peru senilai USD 50 juta sesaat setelah pertandingan tersebut.
 - **Kunjungan Kamar Ganti:** Jenderal Videla dan Henry Kissinger (mantan Menlu AS) dilaporkan masuk ke kamar ganti pemain Peru sebelum pertandingan dimulai, sebuah tindakan intimidasi yang sangat tidak biasa.
 
 Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar lapangan lebih menentukan daripada taktik di dalam lapangan?
@@ -45992,10 +44769,11 @@ Kasus Argentina 1978 mengajarkan kita tentang bagaimana kekuatan lunak (*soft po
 
 Jika kita mencoba merumuskan bagaimana rezim menggunakan turnamen ini secara matematis untuk stabilitas politik, kita bisa melihatnya sebagai upaya manipulasi persepsi:
 
+<div>
 $$
-
-L = \\frac{V \\times P}{C}
+L = \frac{V \times P}{C}
 $$
+</div>
 
 Di mana:
 
@@ -46068,9 +44846,11 @@ Meskipun era ketegangan geopolitik tersebut telah berlalu, warisannya masih memb
 
 ### Ringkasan Konsep Dasar
 
+<div>
 $$
-\\text{Olahraga} + \\text{Ideologi} = \\text{Diplomasi Lunak (Soft Power)}
+\text{Olahraga} + \text{Ideologi} = \text{Diplomasi Lunak (Soft Power)}
 $$
+</div>
 
 Dalam rumus di atas, sepak bola digunakan sebagai variabel untuk mengubah persepsi dunia tanpa perlu melakukan agresi militer. Kemenangan di lapangan hijau adalah "kemenangan moral" bagi rakyat yang meyakini ideologi tertentu.
 
@@ -46108,10 +44888,18 @@ Pecahnya Uni Soviet menciptakan tantangan logistik bagi FIFA dalam menentukan pe
 Sebagai jalan keluar, FIFA mengakui Rusia sebagai penerus hukum langsung dari seluruh catatan statistik Uni Soviet. Namun secara kekuatan tim, Rusia kehilangan banyak pilar penting. Secara historis, kekuatan utama Uni Soviet bertumpu pada talenta-talenta Ukraina (terutama binaan Dynamo Kyiv), Georgia, dan Armenia. Setelah perpecahan, Rusia tidak lagi memiliki akses otomatis ke wilayah-wilayah penghasil pemain berbakat ini.
 
 **Matematika Fragmentasi:** Jika $S$ adalah kekuatan total Uni Soviet, maka setelah 1991:
-   $$\begin{aligned}
-\text{S}_{\text{USSR}} &\neq \text{S}_{\text{Russia}} \\
-\text{S}_{\text{USSR}} &\approx \text{S}_{\text{Russia}} + \text{S}_{\text{Ukraine}} + \text{S}_{\text{Georgia}} + \dots + \text{S}_{\text{12 negara lainnya}}
-\end{aligned}$$
+
+<div>
+$$
+\text{S}_{\text{USSR}} \neq \text{S}_{\text{Russia}}
+$$
+</div>
+
+<div>
+$$
+\text{S}_{\text{USSR}} \approx \text{S}_{\text{Russia}} + \text{S}_{\text{Ukraine}} + \text{S}_{\text{Georgia}} + \dots + \text{S}_{\text{12 negara lainnya}}
+$$
+</div>
 
 Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 
@@ -46258,9 +45046,11 @@ Istilah ini pertama kali dicetuskan oleh Joseph Nye. Jika kekuatan keras (**hard
 
 Dalam konteks Piala Dunia, formulasinya dapat dirumuskan secara sederhana:
 
+<div>
 $$
-\\text{Daya Tarik Budaya} + \\text{Keberhasilan Penyelenggaraan} = \\text{Legitimasi Internasional}
+\text{Daya Tarik Budaya} + \text{Keberhasilan Penyelenggaraan} = \text{Legitimasi Internasional}
 $$
+</div>
 
 ### Apa Itu Sportswashing?
 
@@ -46379,7 +45169,12 @@ Sepanjang abad ke-20, peta kekuatan sepak bola dunia cenderung bersifat **unipol
 - **Kebangkitan Kolektif Global South:** Negara-negara berkembang menolak menjadi penonton pasif. Mereka menuntut hak untuk mengatur agenda sepak bola dunia, daripada sekadar tunduk pada aturan yang dirancang di Zurich atau Paris.
 
 **Rumus Kekuatan Geopolitik Baru:** Untuk memetakan pengaruh suatu negara dalam lanskap sepak bola masa depan, kita dapat menggambarkan hubungan variabelnya melalui persamaan berikut:
-   $$P = (E \\times I) + (S \\times V)$$
+
+<div>
+$$
+P = (E \times I) + (S \times V)
+$$
+</div>
 
 Di mana:
 
@@ -46407,23 +45202,7 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 - **Multipolarisme:** Langkah ini membuktikan bahwa kendali kekuatan sepak bola tidak lagi memerlukan persetujuan tradisional dari negara-negara Barat.
 - **Teknologi dan Inovasi:** Pembangunan stadion masa depan di kawasan NEOM menyatukan kecanggihan teknologi dengan pesan politik tentang masa depan peradaban.
 
-### Kode Skenario Strategis (Simulasi Distribusi Pengaruh)
-
-```python
-# Simulasi sederhana pergeseran pengaruh di FIFA (Skala 1-100)
-regions = ["Eropa", "Amerika Selatan", "Asia & Timur Tengah", "Afrika"]
-influence_2000 = [60, 25, 10, 5]
-influence_2034_forecast = [35, 15, 30, 20]
-
-def analyze_shift(start, end):
-    for r, s, e in zip(regions, start, end):
-        change = e - s
-        print(f"Wilayah: {r} | Perubahan Pengaruh: {change}%")
-
-analyze_shift(influence_2000, influence_2034_forecast)
-```
-
-*Hasil simulasi di atas menunjukkan penurunan dominasi tradisional dan redistribusi kekuatan ke wilayah-wilayah yang sedang berkembang.*
+*Langkah Arab Saudi ini searah dengan pergeseran multipolar di bagian 3: peta kekuatan yang dulu terpusat di Eropa dan Amerika Selatan mulai menyebar ke Asia, Timur Tengah, dan Afrika.*
 
 ## Benang Merah
 
@@ -46548,8 +45327,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47210,8 +45989,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47616,35 +46395,26 @@ Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permi
 
 Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
-## 4. Simulasi Logika Monopoli
+## 4. Memilih Harga Jual
 
-Berikut adalah simulasi sederhana menggunakan kode Python untuk memahami bagaimana monopolis menentukan tingkat harga dan produksi guna mengoptimalkan keuntungan:
+Supaya prinsip tadi lebih terasa, bayangkan seorang monopolis yang menimbang empat pilihan harga. Semakin tinggi harga yang ia pasang, semakin sedikit barang yang terjual. Biaya produksinya 30 untuk setiap unit. Semua angka di bagian ini adalah angka ilustrasi. Laba tiap pilihan dihitung dengan rumus:
 
-```python
-# Simulasi Keputusan Produksi Monopoli
-def hitung_laba(harga, biaya_per_unit, jumlah_terjual):
-    total_pendapatan = harga * jumlah_terjual
-    total_biaya = biaya_per_unit * jumlah_terjual
-    laba = total_pendapatan - total_biaya
-    return laba
+<div>
+$$
+\text{Laba} = (P \times Q) - (30 \times Q)
+$$
+</div>
 
-# Skenario: Semakin tinggi harga, semakin sedikit jumlah terjual (Hukum Permintaan)
-skenario = [
-    {"harga": 100, "jumlah": 10},
-    {"harga": 80, "jumlah": 25},
-    {"harga": 60, "jumlah": 50},  # Titik Optimal
-    {"harga": 40, "jumlah": 70}
-]
+dengan $P$ sebagai harga jual dan $Q$ sebagai jumlah barang yang terjual.
 
-biaya_tetap_per_unit = 30
+| Harga ($P$) | Jumlah terjual ($Q$) | Pendapatan ($P \times Q$) | Total biaya ($30 \times Q$) | Laba |
+| --- | --- | --- | --- | --- |
+| 100 | 10 | 1.000 | 300 | 700 |
+| 80 | 25 | 2.000 | 750 | 1.250 |
+| 60 | 50 | 3.000 | 1.500 | 1.500 |
+| 40 | 70 | 2.800 | 2.100 | 700 |
 
-for s in skenario:
-    laba = hitung_laba(s["harga"], biaya_tetap_per_unit, s["jumlah"])
-    print(f"Harga: {s[''harga'']}, Terjual: {s[''jumlah'']}, Laba: {laba}")
-
-# Output menunjukkan bahwa laba tertinggi berada pada harga optimal,
-# bukan pada harga pasar tertinggi.
-```
+Laba tertinggi, yaitu 1.500, justru muncul pada harga 60, bukan pada harga tertinggi 100. Perlu diingat, tabel ini hanya membandingkan empat pilihan. Titik yang benar-benar optimal tetap ditemukan lewat syarat $\text{MR} = \text{MC}$.
 
 ## 5. PLN dan Inovasi Farmasi
 
@@ -48000,8 +46770,8 @@ Asumsikan estimasi keuntungan dihitung dalam miliaran rupiah:
 
 *Analisis Matriks Imbalan:*
 
-1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan maksimal, yaitu $\text{Keuntungan}_{\text{A}} = 100$ dan $\text{Keuntungan}_{\text{B}} = 100$.
-2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke $\text{Keuntungan}_{\text{A}} = 150$.
+1. **Kolusi (Harga Tinggi - Harga Tinggi):** Kedua perusahaan sepakat menjaga harga tetap tinggi. Keduanya meraih keuntungan maksimal, yaitu $\text{Keuntungan}\_{\text{A}} = 100$ dan $\text{Keuntungan}\_{\text{B}} = 100$.
+2. **Insentif untuk Berkhianat:** Jika Perusahaan A secara diam-diam memotong harga sementara Perusahaan B tetap bertahan pada harga tinggi, Perusahaan A akan merebut mayoritas pelanggan dan keuntungannya melonjak ke $\text{Keuntungan}\_{\text{A}} = 150$.
 3. **Keseimbangan Nash (Nash Equilibrium):** Karena dorongan menghindari risiko dikhianati atau keinginan mengejar untung sepihak, kedua perusahaan akhirnya sama-sama menurunkan harga. Mereka sampai pada titik $(50, 50)$.
 
 > **Pesan Penting:** Dalam oligopoli, perusahaan sering kali terjebak dalam hasil yang suboptimal (keuntungan lebih rendah) karena krisis kepercayaan, padahal kolusi dapat memberikan hasil yang jauh lebih menguntungkan.
@@ -48063,7 +46833,7 @@ Saat ini, operator seluler cenderung menjaga harga paket data pada kisaran yang 
 - **Interdependensi** merupakan karakteristik utama dari struktur pasar oligopoli.
 - **Dilema Narapidana** menjelaskan penyebab sulitnya mempertahankan kerja sama akibat adanya dorongan individual untuk berkhianat.
 - **Keseimbangan Nash** tercapai saat setiap pemain memilih strategi optimalnya berdasarkan perkiraan atas tindakan pemain lain, sehingga tidak ada pihak yang terdorong mengubah keputusannya.
-Dalam situasi kolusi, $\text{Keuntungan}_{\text{Total}}$ dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, $\text{Keuntungan}_{\text{Total}}$ sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
+Dalam situasi kolusi, $\text{Keuntungan}\_{\text{Total}}$ dapat dimaksimalkan secara bersama. Sementara itu dalam Keseimbangan Nash, $\text{Keuntungan}\_{\text{Total}}$ sering kali berada pada tingkat yang lebih rendah dari potensi optimalnya.
 
 <!-- Chapter: 09_hambatan-masuk-dan-keluar-pasar-sang-penjaga-gerbang-ekonomi -->
 
@@ -48388,7 +47158,7 @@ $$
 V \propto n^2
 $$
 
-Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan meningkat secara eksponensial, bukan linear.
+Di mana $V$ adalah nilai jaringan dan $n$ adalah jumlah pengguna. Jika jumlah pengguna berlipat ganda, nilai jaringan naik empat kali lipat (tumbuh secara kuadratik), bukan linear.
 
 ### B. Efek Jaringan Tidak Langsung (Indirect Network Effects)
 
@@ -48436,20 +47206,14 @@ Mari kita bedah bagaimana struktur pasar ini bekerja pada fenomena *Super-App* d
 3. **Data sebagai Bahan Bakar:** Data dari riwayat perjalanan dan pemesanan makanan digunakan untuk menawarkan layanan finansial (GoPay/GoPayLater).
 4. **Hambatan Masuk:** Pesaing baru harus mengeluarkan modal triliunan rupiah hanya untuk menandingi jumlah mitra pengemudi dan pedagang yang sudah mapan di platform tersebut.
 
-```python
-# Ilustrasi Sederhana Efek Jaringan dalam Kode
-def hitung_nilai_jaringan(jumlah_pengguna):
-    # Menggunakan Hukum Metcalfe: Nilai = n^2
-    nilai = jumlah_pengguna ** 2
-    return nilai
+Hitungan sederhana berikut memperlihatkan mengapa mengejar jumlah pengguna begitu berharga. Dengan angka ilustrasi, anggap nilai jaringan sama dengan kuadrat jumlah penggunanya, sesuai Hukum Metcalfe ($V = n^2$):
 
-pengguna_lama = 100
-pengguna_baru = 200
+| Jumlah pengguna ($n$) | Nilai jaringan ($n^2$) |
+| --- | --- |
+| 100 | 10.000 |
+| 200 | 40.000 |
 
-print(f"Nilai dengan 100 pengguna: {hitung_nilai_jaringan(pengguna_lama)}")
-print(f"Nilai dengan 200 pengguna: {hitung_nilai_jaringan(pengguna_baru)}")
-# Perhatikan bahwa ketika pengguna hanya naik 2x lipat, nilainya naik 4x lipat!
-```
+Ketika jumlah pengguna hanya naik 2 kali lipat, nilai jaringannya naik 4 kali lipat.
 
 ## Perbandingan Pasar Tradisional dan Pasar Digital
 
@@ -48514,8 +47278,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48620,9 +47384,11 @@ Banyak orang salah mengira bahwa **Dopamin** adalah hormon "kebahagiaan". Secara
 
 Dopamin dilepaskan bukan saat kita mendapatkan hadiah, tetapi saat kita **mengharapkan** hadiah. Secara matematis, kita bisa melihat hubungan antara ekspektasi dan kepuasan sebagai berikut:
 
+<div>
 $$
 \text{Kepuasan} = \text{Realitas} - \text{Ekspektasi}
 $$
+</div>
 
 Dalam media sosial, variabel ekspektasi ini dimanipulasi secara konstan. Ketika kamu melihat ikon merah notifikasi, otakmu melepaskan dopamin yang membisikkan, *"Siapa yang menyukai foto saya? Pesan apa ini?"*. Rasa ingin tahu ini menciptakan tekanan psikologis yang hanya bisa diredakan dengan membuka aplikasi tersebut.
 
@@ -48741,9 +47507,11 @@ Saring pilihan tersebut menjadi **3 Nilai Utama**. Ketiganya akan bertindak seba
 
 Setelah memiliki nilai inti, gunakan rumus sederhana ini untuk mengevaluasi alat digital kamu:
 
+<div>
 $$
 \text{Nilai Alat} = \frac{\text{Kegunaan untuk Nilai Inti}}{\text{Gangguan yang Dihasilkan}}
 $$
+</div>
 
 Jika sebuah alat (misalnya Instagram) memiliki potensi gangguan yang sangat tinggi namun sumbangsihnya terhadap nilai "Kreativitas" kamu sangat kecil, maka alat tersebut memiliki nilai bersih negatif.
 
@@ -48818,9 +47586,11 @@ Tahap ini sangat menentukan keberhasilan *declutter*. Saat masa puasa berakhir, 
 
 Gunakan rumus nilai berikut untuk mengevaluasi setiap alat:
 
+<div>
 $$
 \text{Nilai} = (\text{Manfaat} \times \text{Relevansi}) - \text{Gangguan}
 $$
+</div>
 
 Pastikan setiap aplikasi yang akan dipakai lagi memenuhi tiga syarat berikut. Pertama, aplikasi tersebut harus mendukung sesuatu yang sangat kamu hargai. Kedua, ia menjadi cara paling optimal untuk mendukung hal tersebut (sebagai contoh, menelepon langsung kawan lama lebih berharga daripada sekadar melihat *update* fotonya di Instagram). Terakhir, kamu harus tahu persis aturan main dalam menggunakannya agar tidak menjadi sumber distraksi baru, misalnya membatasi akses LinkedIn hanya lewat browser laptop.
 
@@ -48906,10 +47676,11 @@ Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari la
 
 Secara matematis, kegunaan suatu alat ($U$) dirumuskan sebagai perbandingan antara Nilai yang dihasilkan ($V$) dengan Gangguan yang ditimbulkan ($D$):
 
+<div>
 $$
-
 U = \frac{V}{D}
 $$
+</div>
 
 *Di mana:*
 
@@ -48964,11 +47735,13 @@ Bayangkan pikiranmu adalah sebuah gelas. Setiap kali mengecek notifikasi, menden
 
 Secara matematis, kita bisa menggambarkan kapasitas pemrosesan mental sebagai:
 
+<div>
 $$
 \text{Kapasitas}_{\text{Mental}} = \text{Pikiran}_{\text{Internal}} + \text{Input}_{\text{Eksternal}}
 $$
+</div>
 
-Jika $\text{Input}_{\text{Eksternal}}$ mendekati nilai maksimal kapasitas, maka $\text{Pikiran}_{\text{Internal}}$ akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
+Jika $\text{Input}\_{\text{Eksternal}}$ mendekati nilai maksimal kapasitas, maka $\text{Pikiran}\_{\text{Internal}}$ akan mendekati nol. Inilah yang disebut dengan **Solitude Deprivation** (Kekurangan Kesendirian).
 
 ## Mengapa Kebisingan Digital Begitu Berbahaya?
 
@@ -49036,10 +47809,11 @@ Kita bisa melihat rekreasi dalam dua kutub. Di satu sisi ada rekreasi pasif yang
 
 Kepuasan yang didapat dari suatu kegiatan sering kali sebanding dengan upaya yang dikerahkan. Jika digambarkan secara matematis, tingkat kepuasan $S$ bisa dirumuskan sebagai:
 
+<div>
 $$
-
 S = \int (\text{Skill} \times \text{Effort}) dt
 $$
+</div>
 
 Semakin tinggi keterampilan ($\text{Skill}$) dan usaha ($\text{Effort}$) yang digunakan sepanjang waktu ($t$), semakin besar total kepuasan ($S$) yang akan kamu rasakan.
 
@@ -49094,10 +47868,11 @@ Banyak orang menganggap setiap notifikasi penting. Faktanya, sebagian besar peri
 
 Secara ilmiah, setiap kali fokus beralih akibat denting notifikasi, otak butuh waktu rata-rata 23 menit untuk kembali ke tingkat konsentrasi semula. Hubungan ini bisa dilihat pada rumus efektivitas kerja ($E$):
 
+<div>
 $$
-
 E = T \times F^2
 $$
+</div>
 
 Dimana $T$ adalah waktu dan $F$ mewakili tingkat fokus. Saat fokus terganggu ($F$ mengecil), efektivitasmu anjlok secara kuadratik.
 
@@ -49139,24 +47914,15 @@ Andi mengatasi masalah tersebut dengan membisukan grup kerjanya dan hanya memeri
 
 Pendekatan ini membuktikan bahwa sebagian besar notifikasi mendesak sebenarnya bisa ditunda, dan Andi berhasil menuntaskan karyanya jauh lebih cepat.
 
-### 6\. Contoh Implementasi Teknis
+### 6\. Menyaring Notifikasi Secara Otomatis
 
-Bagi kamu yang lebih mahir dan ingin membangun automasi manajemen komunikasi, logika dasar berikut bisa diterapkan lewat aplikasi seperti Tasker (Android) atau Shortcuts (iOS):
+Bagi kamu yang ingin melangkah lebih jauh, penyaringan notifikasi bisa diotomatiskan lewat aplikasi seperti Tasker (Android) atau Shortcuts (iOS). Aturannya cukup tiga, bergantung pada apakah mode kerja fokus (*deep work*) sedang aktif dan siapa pengirimnya:
 
-```python
-def handle_incoming_notification(app_type, sender):
-    focus_mode = get_current_status()
-    
-    if focus_mode == "DEEP_WORK":
-        if sender in VIP_CONTACT_LIST:
-            show_notification(sender)
-            play_sound("urgent_tone")
-        else:
-            silence_notification()
-            store_in_summary_for_later()
-    else:
-        allow_all_notifications()
-```
+| Mode kerja fokus | Pengirim | Yang terjadi pada notifikasi |
+| --- | --- | --- |
+| Aktif | Kontak penting (VIP) | Tetap muncul, lengkap dengan nada khusus tanda urusan mendesak |
+| Aktif | Selain kontak penting | Dibisukan, lalu dikumpulkan dalam ringkasan untuk dibaca nanti |
+| Tidak aktif | Siapa saja | Semua notifikasi masuk seperti biasa |
 
 ### Tugas Refleksi
 
@@ -49181,9 +47947,11 @@ Istilah **Deep Work**, yang dipopulerkan oleh Cal Newport, adalah kemampuan untu
 
 Dalam ekonomi digital, nilai ekonomi seseorang ditentukan oleh kemampuan mereka untuk menyelesaikan masalah rumit dengan cepat. Rumus produktivitas dapat digambarkan secara matematis sebagai berikut:
 
+<div>
 $$
 \text{Hasil Kerja Berkualitas} = (\text{Waktu yang Dihabiskan}) \times (\text{Intensitas Fokus})
 $$
+</div>
 
 Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil kerja kamu juga akan mendekati nol, tidak peduli berapa lama kamu duduk di depan laptop.
 
@@ -49191,7 +47959,7 @@ Jika intensitas fokus kamu mendekati nol karena gangguan notifikasi, maka hasil 
 
 ## 2\. Meminimalkan Gangguan Digital di Kantor
 
-Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata 20 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
+Gangguan digital adalah "biaya tersembunyi" dalam pekerjaan. Setiap kali kamu beralih dari tugas utama ke pesan instan, otak kamu mengalami **Attention Residue**. Dibutuhkan rata-rata sekitar 23 menit bagi otak untuk kembali ke tingkat fokus penuh setelah terganggu.
 
 ### Strategi Praktis Mengurangi Gangguan
 
@@ -49207,25 +47975,13 @@ Digital minimalis tidak anti-teknologi. Mereka justru memanfaatkan alat bantu di
 
 Jika kamu mendapati dirimu melakukan hal yang sama berulang kali (misalnya, memindahkan data dari email ke spreadsheet), sudah saatnya beralih ke alat otomatisasi.
 
-**Contoh Kasus Teknikal Otomasi Organisasi File**
-Seorang profesional kreatif mungkin menghabiskan 15 menit sehari hanya untuk merapikan folder unduhan. Dengan script sederhana (Python), tugas ini bisa dihilangkan selamanya:
+**Folder Unduhan yang Merapikan Diri Sendiri**
+Seorang profesional kreatif mungkin menghabiskan 15 menit sehari hanya untuk merapikan folder unduhan. Dengan alat otomatisasi sederhana, tugas ini bisa dihilangkan selamanya. Alat itu cukup memindahkan file PDF dan gambar di folder unduhan ke folder tujuannya, sementara file jenis lain dibiarkan di tempatnya:
 
-```python
-import os
-import shutil
-
-# Jalur folder yang ingin dirapikan
-download_path = ''/Users/nama/Downloads''
-
-# Logika sederhana untuk memindahkan file berdasarkan ekstensi
-for filename in os.listdir(download_path):
-    if filename.endswith(''.pdf''):
-        shutil.move(os.path.join(download_path, filename), ''/Users/nama/Documents/PDFs'')
-    elif filename.endswith((''.png'', ''.jpg'', ''.jpeg'')):
-        shutil.move(os.path.join(download_path, filename), ''/Users/nama/Pictures/Screenshots'')
-
-print("Pembersihan selesai! Fokuslah pada hal yang lebih penting.")
-```
+| Jenis file | Dipindahkan ke |
+| --- | --- |
+| Dokumen PDF (.pdf) | Folder PDFs di dalam Documents |
+| Gambar (.png, .jpg, .jpeg) | Folder Screenshots di dalam Pictures |
 
 Dengan mengotomatiskan hal-hal kecil, kamu mengurangi *cognitive load* dalam mengelola perangkat kerjamu.
 
@@ -49278,9 +48034,17 @@ Perkembangan teknologi tidak mengenal kata jeda. Platform baru, *gadget* canggih
 
 Sebelum tergiur mengadopsi teknologi yang sedang naik daun, lakukan evaluasi sederhana ini:
 
+<div>
 $$
-\text{Nilai Baru} = (\text{Manfaat Utama}) - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
+\text{Nilai Baru} = (\text{Manfaat Utama})
 $$
+</div>
+
+<div>
+$$
+\quad - (\text{Biaya Perhatian} + \text{Gangguan yang Ditimbulkan})
+$$
+</div>
 
 Kalau $\text{Nilai Baru} \leq 0$, berarti inovasi tersebut belum layak mendapat ruang di ekosistem digital kamu.
 
@@ -49303,25 +48067,15 @@ Tabel ini merangkum langkah praktis untuk menjaga ritme minimalisme digital:
 | **Bulanan** | Cek *Screen Time* dan sapu bersih aplikasi yang menyita fokus. | Membasmi *digital creep* di tahap awal. |
 | **Tahunan** | *Mini-Declutter* selama satu minggu penuh. | Menegaskan kembali kendali atas teknologi. |
 
-## Skrip Refleksi Diri
+## Pegangan Cepat Menilai Aplikasi
 
-Buat kamu yang menyukai pendekatan logis, simulasi algoritma berikut bisa dipakai setiap kali merasa kewalahan menghadapi gawai:
+Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap aplikasi: apakah aplikasi ini mendukung nilai hidupmu, dan berapa menit gangguan yang ditimbulkannya per hari? Kedua jawaban itu langsung mengarah ke salah satu dari tiga keputusan berikut. Angka 30 menit di sini hanya patokan ilustrasi, sesuaikan dengan kondisimu:
 
-```python
-def audit_aplikasi(nama_aplikasi):
-    mendukung_nilai = input(f"Apakah {nama_aplikasi} mendukung nilai hidup kamu? (y/n): ")
-    waktu_terbuang = int(input(f"Berapa menit gangguan dari {nama_aplikasi} per hari?: "))
-    
-    if mendukung_nilai == ''y'' and waktu_terbuang < 30:
-        return "Pertahankan dengan batasan waktu."
-    elif mendukung_nilai == ''y'' and waktu_terbuang >= 30:
-        return "Cari cara akses lain (matikan notifikasi atau buka di laptop)."
-    else:
-        return "Hapus tanpa ragu."
-
-# Contoh:
-# print(audit_aplikasi("Instagram"))
-```
+| Mendukung nilai hidupmu? | Gangguan per hari | Keputusan |
+| --- | --- | --- |
+| Ya | Kurang dari 30 menit | Pertahankan dengan batasan waktu. |
+| Ya | 30 menit atau lebih | Cari cara akses lain, misalnya matikan notifikasinya atau buka lewat laptop. |
+| Tidak | Berapa pun | Hapus tanpa ragu. |
 
 Menjalani digital minimalisme tidak menuntut kesempurnaan hingga kamu tak pernah lagi berselancar tanpa arah di internet. Kuncinya terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu adalah arsitek bagi perhatianmu sendiri.
 
@@ -49358,10 +48112,11 @@ Lakukan evaluasi menyeluruh pada ekosistem alat digital kamu setiap tiga bulan. 
 
 Industri teknologi akan terus merilis gadget atau aplikasi inovatif. Gunakan **Matriks Nilai Minimalis** ini untuk menilai apakah alat baru layak kamu pakai.
 
+<div>
 $$
-
 V = \frac{U \times N}{C}
 $$
+</div>
 
 Di mana:
 
@@ -49384,17 +48139,13 @@ Kamu bisa memanfaatkan automasi dasar untuk memastikan sistem berjalan lancar.
 
 ### "The Weekend Lockdown"
 
-Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan keluarga tanpa interupsi obrolan grup kantor. Gunakan fitur iOS Shortcuts atau Android Tasker.
+Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan keluarga tanpa interupsi obrolan grup kantor. Gunakan fitur iOS Shortcuts atau Android Tasker agar setiap hari Sabtu dan Minggu ponselmu otomatis:
 
-```python
-# Logika sederhana untuk sistem otomatisasi perangkat
-if current_day == "Saturday" or current_day == "Sunday":
-    enable_focus_mode("Deep Life")
-    block_apps(["Instagram", "LinkedIn", "Gmail", "Twitter"])
-    display_message("Kembalilah ke dunia nyata. Hobimu menantimu!")
-else:
-    allow_scheduled_access()
-```
+1. menyalakan mode fokus bernama "Deep Life";
+2. memblokir Instagram, LinkedIn, Gmail, dan Twitter;
+3. menampilkan pesan "Kembalilah ke dunia nyata. Hobimu menantimu!"
+
+Pada hari-hari lainnya, aplikasi bisa diakses sesuai jadwal.
 
 ## 6\. Budi sebagai "The Sustainable Minimalist"
 
@@ -49409,8 +48160,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50229,8 +48980,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50265,9 +49016,11 @@ Secara etimologi, nama **Karmawibhangga** berasal dari bahasa Sanskerta yang ter
 
 Dalam matematika moral sederhana, kita bisa merumuskannya sebagai berikut:
 
+<div>
 $$
 \text{Niat (Intensi)} + \text{Tindakan} = \text{Hasil (Vipaka)}
 $$
+</div>
 
 ## 2\. Letak Geografis dan Spiritual Kamadhatu
 
@@ -50351,9 +49104,11 @@ Secara teknis, Borobudur dibangun di atas bukit alami yang tanahnya tidak stabil
 
 Dalam fisika bangunan, hal ini berkaitan dengan tekanan ($P$) dan luas penampang ($A$):
 
+<div>
 $$
 P = \frac{F}{A}
 $$
+</div>
 
 Di mana:
 - $P$ = Tekanan (*Pressure*)
@@ -50426,9 +49181,11 @@ Sesuatu disebut sebagai "Karma" jika dan hanya jika terdapat **Cetana** atau nia
 
 Dalam filsafat Buddhisme, setiap fenomena muncul karena adanya sebab dan kondisi. Hubungan ini sering dirumuskan secara sederhana sebagai berikut:
 
+<div>
 $$
 \text{Sebab (Hetu)} + \text{Kondisi (Paccaya)} \rightarrow \text{Akibat (Phala)}
 $$
+</div>
 
 ### Analogi Kebun Kehidupan
 
@@ -50517,9 +49274,11 @@ Jadi, **Mahakarmawibhangga** secara harfiah berarti *"Penguraian Besar tentang P
 
 Naskah Mahakarmawibhangga tidak ditulis seperti novel dengan alur cerita yang panjang, melainkan menggunakan struktur **logika kausalitas** (sebab-akibat) yang sangat disiplin. Pola dasarnya adalah:
 
+<div>
 $$
 \text{Tindakan (Karma)} \implies \text{Buah/Hasil (Vipaka)}
 $$
+</div>
 
 ### Pola Penyajian dalam Teks
 
@@ -50527,7 +49286,7 @@ $$
 2. **Penjelasan Variasi**: Kadang dijelaskan intensitas perbuatan tersebut.
 3. **Pernyataan Akibat**: Teks merinci hasil yang akan didapat (misal: terlahir di keluarga terhormat atau berumur panjang).
 
-Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "IF - THEN": `IF (membunuh makhluk hidup) THEN (umur pendek / terlahir di neraka)` `IF (memberi sedekah dengan tulus) THEN (kekayaan melimpah / terlahir di surga)`
+Jika naskah ini adalah sebuah kode komputer, ia akan terbaca seperti struktur "jika-maka": jika seseorang membunuh makhluk hidup, maka ia berumur pendek atau terlahir di neraka; jika seseorang memberi sedekah dengan tulus, maka ia mendapat kekayaan melimpah atau terlahir di surga.
 
 ## 3. Penemuan Hubungan Teks dan Relief
 
@@ -50617,37 +49376,23 @@ Pikirkan panel relief ini seperti sebuah **Strip Komik** modern.
 
 ### 3. Logika "Jika-Maka" dalam Relief
 
-Secara teknis, setiap panel mengikuti logika algoritma sederhana yang bisa kita representasikan secara matematis atau dalam bahasa pemrograman sederhana untuk memudahkan pemahaman.
+Secara teknis, setiap panel mengikuti logika sebab-akibat sederhana yang bisa kita representasikan secara matematis atau sebagai percabangan untuk memudahkan pemahaman.
 
 **Rumus Karma dalam Relief:**
 
+<div>
 $$
 \text{Perbuatan (Action)} \rightarrow \text{Hasil (Result)}
 $$
+</div>
 
+<div>
 $$
 \text{Karma} \times \text{Keadaan} = \text{Vipaka (Buah)}
 $$
+</div>
 
-Jika kita menggunakan logika pemrograman (Pseudo-code), strukturnya akan tampak seperti ini:
-
-```python
-# Logika Pembacaan Relief Karmawibhangga
-def baca_relief(panel):
-    aksi_manusia = panel.sisi_kiri
-    konsekuensi = panel.sisi_kanan
-    
-    if aksi_manusia == "Kebajikan":
-        return print(f"Hasil di sisi kanan: {konsekuensi} (Surga/Kebahagiaan)")
-    elif aksi_manusia == "Kejahatan":
-        return print(f"Hasil di sisi kanan: {konsekuensi} (Neraka/Penderitaan)")
-
-# Contoh Kasus: Panel 10
-baca_relief("Memberi makan hewan lapar") 
-# Output: Terlahir di alam yang berkelimpahan
-```
-
-Percabangan dalam pseudo-code itu dapat kamu baca sebagai panduan sederhana berikut.
+Dalam bentuk percabangan, logika jika-maka itu dapat kamu baca sebagai panduan sederhana berikut: bila aksi manusia di sisi kiri panel berupa kebajikan, sisi kanan menunjukkan surga atau kebahagiaan; bila berupa kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
 
 ```mermaid
 flowchart TD
@@ -50823,9 +49568,11 @@ Tidak hanya tindakan fisik, Karmawibhangga juga menyoroti perilaku verbal. Ucapa
 
 Jika kita memformulasikan hukum penderitaan dalam relief ini ke dalam logika sederhana, kita dapat melihat pola berikut:
 
+<div>
 $$
 N + K = P
 $$
+</div>
 
 Di mana:
 
@@ -50870,9 +49617,11 @@ Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai sebuah sist
 
 Dalam bahasa matematika moralitas, kita dapat melihatnya sebagai sebuah fungsi linear:
 
+<div>
 $$
 T + N = H
 $$
+</div>
 
 Di mana:
 
@@ -50940,9 +49689,11 @@ Pesan utama dari bagian relief ini adalah bahwa kebahagiaan bukanlah keberuntung
 - **Kualitas niat** menentukan manisnya buah karma. Memberi dengan sombong memiliki hasil yang berbeda dengan memberi dengan rendah hati.
 - **Setiap tindakan kecil berharga**, sebagaimana setetes air yang lama-kelamaan memenuhi tempayan.
 
+<div>
 $$
 \sum_{i=1}^{n} \text{Kebaikan}_i = \text{Kedamaian Batin}
 $$
+</div>
 
 > **Insight:** Relief ini tidak mengajak kita untuk berbuat baik demi "hadiah", melainkan menyadarkan kita bahwa tatanan alam semesta bekerja secara adil. Saat kita selaras dengan kebajikan, kita selaras dengan kebahagiaan itu sendiri.
 
@@ -50988,9 +49739,11 @@ Berbeda terbalik dengan surga, visualisasi neraka dalam Karmawibhangga dirancang
 
 Secara matematis, kita bisa melihat hubungan ini sebagai fungsi akumulasi:
 
+<div>
 $$
 \text{Total Keadaan} = \sum_{i=1}^{n} (K_i \cdot W_i)
 $$
+</div>
 
 Di mana:
 
@@ -51236,9 +49989,11 @@ Untuk memahami skala pekerjaan Cephas, mari kita lihat dalam perspektif teknis s
 
 Jika kita menghitung total luas area yang didokumentasikan:
 
+<div>
 $$
 \text{Luas Total} = 160 \times (2 \times 0.6) = 192 \text{ m}^2
 $$
+</div>
 
 Mendokumentasikan hampir $200 \text{ m}^2$ karya seni pahat dengan presisi tinggi di bawah tanah adalah pencapaian luar biasa untuk abad ke-19.
 
@@ -51316,8 +50071,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51400,18 +50155,22 @@ Untuk melihat bagaimana kerangka ini bekerja, perhatikan analisis keputusan inve
 ### Skenario Keputusan Karir
 
 Misalkan kamu adalah seorang lulusan sekolah menengah yang menghadapi dua pilihan karir:
-1. Langsung bekerja dengan pendapatan awal $R_0$ sebesar Rp3.000.000 per bulan.
-2. Menempuh pendidikan tinggi selama 4 tahun dengan total biaya pendidikan $C$ sebesar Rp100.000.000, dengan ekspektasi pendapatan pasca-lulus meningkat menjadi $R_1$ sebesar Rp8.000.000 per bulan.
+1. Langsung bekerja dengan pendapatan awal $R\_0$ sebesar Rp3.000.000 per bulan.
+2. Menempuh pendidikan tinggi selama 4 tahun dengan total biaya pendidikan $C$ sebesar Rp100.000.000, dengan ekspektasi pendapatan pasca-lulus meningkat menjadi $R\_1$ sebesar Rp8.000.000 per bulan.
 
 Dalam perspektif ekonomi, keputusan ini dievaluasi melalui perhitungan **Net Present Value (NPV)**:
 
-$$\text{NPV} = \sum_{t=1}^{T} \frac{R_{1,t} - R_{0,t}}{(1 + r)^t} - C_{\text{total}}$$
+<div>
+$$
+\text{NPV} = \sum_{t=1}^{T} \frac{R_{1,t} - R_{0,t}}{(1 + r)^t} - C_{\text{total}}
+$$
+</div>
 
 Keterangan:
-- $R_{1,t}$ adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode $t$.
-- $R_{0,t}$ adalah pendapatan tanpa tambahan pendidikan (termasuk *opportunity cost* selama studi).
+- $R\_{1,t}$ adalah ekspektasi pendapatan setelah meningkatkan modal manusia pada periode $t$.
+- $R\_{0,t}$ adalah pendapatan tanpa tambahan pendidikan (termasuk *opportunity cost* selama studi).
 - $r$ adalah tingkat diskonto (*discount rate*).
-- $C_{\text{total}}$ adalah total biaya langsung (*direct costs*) pendidikan.
+- $C\_{\text{total}}$ adalah total biaya langsung (*direct costs*) pendidikan.
 
 Jika nilai $\text{NPV} > 0$, keputusan menunda pendapatan saat ini demi mengakumulasi modal manusia merupakan langkah investasi yang rasional secara ekonomis.
 
@@ -51489,9 +50248,11 @@ Kesehatan meningkatkan stok modal manusia melalui dua mekanisme utama:
 
 Secara matematis, laju perubahan stok modal kesehatan (*Health Capital Stock*) dinamis dapat dirumuskan melalui persamaan depresiasi dan akumulasi investasi berikut:
 
+<div>
 $$
 H_{t+1} = H_t (1 - \delta) + I_t
 $$
+</div>
 
 Keterangan variabel:
 - $H$: Stok modal manusia kesehatan (*Health Capital Stock*)
@@ -51518,15 +50279,17 @@ Lokasi geografis berpengaruh langsung terhadap imbal hasil keterampilan. Seseora
 
 Persamaan nilai bersih investasi migrasi (*Net Present Value of Migration*):
 
+<div>
 $$
 \text{Net Gain} = \sum_{t=1}^{n} \frac{\text{W}_{\text{baru}} - \text{W}_{\text{lama}}}{(1+r)^t} - \text{C}_{\text{migrasi}}
 $$
+</div>
 
 Keterangan variabel:
-- $\text{W}_{\text{baru}}$: Proyeksi upah di lokasi migrasi baru
-- $\text{W}_{\text{lama}}$: Upah di lokasi asal
+- $\text{W}\_{\text{baru}}$: Proyeksi upah di lokasi migrasi baru
+- $\text{W}\_{\text{lama}}$: Upah di lokasi asal
 - $r$: Tingkat diskonto (*Discount Rate*)
-- $\text{C}_{\text{migrasi}}$: Total akumulasi biaya relokasi langsung dan psikologis
+- $\text{C}\_{\text{migrasi}}$: Total akumulasi biaya relokasi langsung dan psikologis
 
 Apabila nilai $\text{Net Gain} > 0$, keputusan migrasi secara ekonomis merupakan investasi modal manusia yang rasional.
 
@@ -51534,41 +50297,37 @@ Apabila nilai $\text{Net Gain} > 0$, keputusan migrasi secara ekonomis merupakan
 
 ### Simulasi ROI Investasi Modal Manusia
 
-Berikut adalah model simulasi perhitungan sederhana untuk mengevaluasi kelayakan finansial investasi sertifikasi keterampilan (*Return on Investment* / ROI):
+Berikut adalah contoh perhitungan sederhana untuk mengevaluasi kelayakan finansial investasi sertifikasi keterampilan (*Return on Investment* / ROI):
 
 #### Sertifikasi Advanced AI bagi Seorang Analis Data
 Seorang analis data merencanakan sertifikasi *Advanced AI* seharga Rp15.000.000 dengan durasi pelatihan 3 bulan. Pasca sertifikasi, proyeksi peningkatan gaji tercatat sebesar Rp2.000.000 per bulan.
 
-```python
-def hitung_roi_modal_manusia(biaya_pelatihan: float, kenaikan_gaji_per_bulan: float, durasi_proyeksi_bulan: int):
-    """
-    Menghitung Break-Even Point (BEP) dan Return on Investment (ROI)
-    dari investasi modal manusia.
-    """
-    # Menghitung durasi pengembalian modal (Break-Even Point dalam bulan)
-    bulan_kembali_modal = biaya_pelatihan / kenaikan_gaji_per_bulan
-    
-    # Menghitung akumulasi kenaikan gaji dalam durasi proyeksi (misal: 36 bulan / 3 tahun)
-    total_kenaikan_pendapatan = kenaikan_gaji_per_bulan * durasi_proyeksi_bulan
-    
-    # Menghitung persentase Return on Investment (ROI)
-    roi_persen = ((total_kenaikan_pendapatan - biaya_pelatihan) / biaya_pelatihan) * 100
-    
-    return bulan_kembali_modal, roi_persen
+Kelayakan investasi ini diukur dengan dua rumus. *Break-Even Point* (BEP) menunjukkan berapa bulan kenaikan gaji dibutuhkan untuk menutup biaya pelatihan:
 
-# Parameter Simulasi
-biaya_investasi = 15000000.0
-proyeksi_kenaikan = 2000000.0
-periode_bulan = 36
+<div>
+$$
+\text{BEP} = \frac{\text{Biaya Pelatihan}}{\text{Kenaikan Gaji per Bulan}}
+$$
+</div>
 
-bep_bulan, nilai_roi = hitung_roi_modal_manusia(biaya_investasi, proyeksi_kenaikan, periode_bulan)
+ROI membandingkan total kenaikan gaji selama periode proyeksi, di sini 36 bulan (3 tahun), dengan biaya pelatihan:
 
-print(f"Break-Even Point: {bep_bulan:.1f} bulan")
-print(f"ROI Bersih (3 Tahun): {nilai_roi:.1f}%")
-```
+<div>
+$$
+\text{ROI} = \frac{\text{Total Kenaikan Gaji} - \text{Biaya Pelatihan}}{\text{Biaya Pelatihan}} \times 100\%
+$$
+</div>
 
-**Analisis Hasil Simulasi:**
-Berdasarkan kalkulasi di atas, modal investasi dapat kembali (*Break-Even Point*) dalam kurun 7,5 bulan, dengan akumulasi ROI mencapai 380% dalam 3 tahun. Tingkat imbal hasil (*Rate of Return*) ini melampaui sebagian besar instrumen pasar keuangan konvensional, menegaskan bahwa investasi pada pengembangan diri merupakan langkah ekonomi yang rasional.
+| Komponen | Perhitungan | Hasil |
+| :--- | :--- | :--- |
+| Biaya pelatihan | - | Rp15.000.000 |
+| Kenaikan gaji per bulan | - | Rp2.000.000 |
+| Total kenaikan gaji selama 36 bulan | 36 × Rp2.000.000 | Rp72.000.000 |
+| BEP | Rp15.000.000 ÷ Rp2.000.000 | 7,5 bulan |
+| ROI bersih 3 tahun | (Rp72.000.000 - Rp15.000.000) ÷ Rp15.000.000 × 100% | 380% |
+
+**Analisis Hasil Perhitungan:**
+Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Point*) dalam kurun 7,5 bulan, dengan akumulasi ROI mencapai 380% dalam 3 tahun. Tingkat imbal hasil (*Rate of Return*) ini melampaui sebagian besar instrumen pasar keuangan konvensional, menegaskan bahwa investasi pada pengembangan diri merupakan langkah ekonomi yang rasional.
 
 ---
 
@@ -51663,14 +50422,16 @@ Untuk mengevaluasi kelayakan investasi secara objektif, individu menggunakan pen
 
 Sebuah keputusan investasi pendidikan dianggap layak secara ekonomis jika nilai $\text{NPV} > 0$:
 
+<div>
 $$
 \text{NPV} = \sum_{t=1}^{T} \frac{\text{B}_t - \text{C}_t}{(1+r)^t} > 0
 $$
+</div>
 
 **Keterangan Simbol:**
 
-- $\text{B}_t$: Manfaat moneter (pendapatan) pada tahun ke-$t$.
-- $\text{C}_t$: Biaya (langsung dan peluang) pada tahun ke-$t$.
+- $\text{B}\_t$: Manfaat moneter (pendapatan) pada tahun ke-$t$.
+- $\text{C}\_t$: Biaya (langsung dan peluang) pada tahun ke-$t$.
 - $r$: Tingkat diskonto (*discount rate*) yang mencerminkan suku bunga dan preferensi waktu.
 - $T$: Durasi masa kerja aktif hingga masa pensiun.
 
@@ -51715,7 +50476,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 1. **Usia dan Horison Waktu ($T$):** Semakin muda seseorang saat menempuh pendidikan, semakin panjang sisa usia kerjanya untuk menikmati gaji tinggi. Hal ini menjelaskan mengapa investasi perguruan tinggi lebih umum dilakukan di usia muda.
 2. **Besar Selisih Pendapatan (*Earning Differential*):** Semakin lebar jurang gaji antara lulusan SMA dan sarjana di pasar kerja, semakin tinggi insentif individu untuk kuliah.
-3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung ($\text{C}_t$), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
+3. **Subsidized Education:** Jika pemerintah memberikan subsidi pendidikan yang menurunkan biaya langsung ($\text{C}\_t$), tingkat pengembalian investasi individu akan meningkat dan mendorong partisipasi pendidikan yang lebih luas.
 
 ---
 
@@ -51723,7 +50484,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}_t$) yang melimpah di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang melimpah di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 
@@ -51805,18 +50566,56 @@ Secara matematis, hubungan antara Produktivitas Marginal ($\text{VMP}$), Upah Pe
 #### Pemodelan Pelatihan Umum
 Pada pelatihan umum, pekerja menanggung biaya pelatihan melalui pemotongan upah di periode pelatihan, lalu menikmati hasil penuh di periode pasca-pelatihan:
 
-$$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 < \text{VMP}_1 \quad (\text{Pekerja mendanai } C \text{ melalui } \text{W}_1 = \text{VMP}_1 - C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_2 = \text{VMP}_2 \quad (\text{Upah naik setara nilai produktivitas pasar baru})
-\end{aligned}$$
+<div>
+$$
+\text{Fase Pelatihan (Periode 1)} : \text{W}_1 < \text{VMP}_1
+$$
+</div>
+
+<div>
+$$
+\quad (\text{Pekerja mendanai } C \text{ melalui } \text{W}_1 = \text{VMP}_1 - C)
+$$
+</div>
+
+<div>
+$$
+\text{Pasca-Pelatihan (Periode 2)} : \text{W}_2 = \text{VMP}_2
+$$
+</div>
+
+<div>
+$$
+\quad (\text{Upah naik setara nilai produktivitas pasar baru})
+$$
+</div>
 
 #### Pemodelan Pelatihan Spesifik
 Pada pelatihan spesifik, terjadi pembagian biaya dan keuntungan (*cost and return sharing*) antara pemberi kerja dan pekerja:
 
-$$\begin{aligned}
-\text{Fase Pelatihan (Periode 1)} &: \text{W}_1 > \text{VMP}_1 \quad (\text{Perusahaan menanggung porsi biaya } C) \\
-\text{Pasca-Pelatihan (Periode 2)} &: \text{W}_{\text{pasar}} < \text{W}_2 < \text{VMP}_2 \quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
-\end{aligned}$$
+<div>
+$$
+\text{Fase Pelatihan (Periode 1)} : \text{W}_1 > \text{VMP}_1
+$$
+</div>
+
+<div>
+$$
+\quad (\text{Perusahaan menanggung porsi biaya } C)
+$$
+</div>
+
+<div>
+$$
+\text{Pasca-Pelatihan (Periode 2)} : \text{W}_{\text{pasar}} < \text{W}_2 < \text{VMP}_2
+$$
+</div>
+
+<div>
+$$
+\quad (\text{Upah di atas pasar, namun di bawah produktivitas penuh})
+$$
+</div>
 
 #### Ringkasan Komparatif Pelatihan Umum vs Spesifik
 
@@ -51873,11 +50672,11 @@ Mincer merumuskan bahwa distribusi pendapatan pekerja tidak terjadi secara acak,
 
 Persamaan dasar Mincer dirumuskan sebagai berikut:
 
+<div>
 $$
-\begin{aligned}
 \ln(w) = \alpha + \beta_1 S + \beta_2 E + \beta_3 \text{E}^2 + \epsilon
-\end{aligned}
 $$
+</div>
 
 | Variabel | Nama & Simbol | Penjelasan & Peran Ekonomi |
 | :--- | :--- | :--- |
@@ -51886,7 +50685,7 @@ $$
 | **Pengalaman** | $E$ | *Experience* (jumlah tahun pengalaman kerja potensial atau aktual). |
 | **Efek Non-Linear** | $\text{E}^2$ | Kuadrat dari pengalaman kerja, memodelkan fenomena *diminishing returns* atau kelandaian kurva pendapatan seiring bertambahnya usia. |
 | **Konstanta** | $\alpha$ | Pendapatan dasar (*baseline earnings*) tanpa pendidikan dan pengalaman kerja formal. |
-| **Koefisien Slope** | $\beta_1, \beta_2, \beta_3$ | Parameter elastisitas dan imbal hasil dari masing-masing komponen modal manusia. |
+| **Koefisien Slope** | $\beta\_1, \beta\_2, \beta\_3$ | Parameter elastisitas dan imbal hasil dari masing-masing komponen modal manusia. |
 | **Error Term** | $\epsilon$ | Sisa variasi yang tidak teramati (*unobserved factors*), seperti bakat bawaan (*ability*), keberuntungan, atau jejaring sosial. |
 
 ### 2. Hubungan Linear Pendidikan dan Karakteristik Kuadratik Pengalaman
@@ -51895,7 +50694,7 @@ Mari kita bedah alasan teoretis di balik bentuk fungsional model Mincer:
 
 #### A. Pendidikan ($S$) dan Imbal Hasil Investasi
 
-Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap logaritma upah. Hal ini mengimplikasikan bahwa setiap tambahan satu tahun sekolah meningkatkan upah sebesar persentase yang konstan ($\beta_1$).
+Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap logaritma upah. Hal ini mengimplikasikan bahwa setiap tambahan satu tahun sekolah meningkatkan upah sebesar persentase yang konstan ($\beta\_1$).
 
 > **Analogi:** Bayangkan pendidikan sebagai bibit unggul modal manusia. Setiap karung bibit tambahan yang kamu tanam di lahan keterampilanmu meningkatkan hasil panen pendapatan sebesar persentase tertentu secara konsisten.
 
@@ -51903,56 +50702,38 @@ Dalam model Mincer, pendidikan dispesifikasikan dalam bentuk linear terhadap log
 
 Mincer menyadari bahwa hubungan antara pengalaman kerja dan upah tidak tumbuh tanpa batas secara linear. Di sinilah peran variabel kuadratik $\text{E}^2$:
 
-- **$\beta_2 > 0$ (Positif):** Pada tahap awal karier, akumulasi pengalaman kerja melalui *On-the-Job Training* dan pembelajaran praktis meningkatkan produktivitas serta upah pekerja secara pesat.
-- **$\beta_3 < 0$ (Negatif):** Parameter negatif pada variabel kuadratik ini mencerminkan hukum imbal hasil yang semakin berkurang (*diminishing returns to experience*).
+- **$\beta\_2 > 0$ (Positif):** Pada tahap awal karier, akumulasi pengalaman kerja melalui *On-the-Job Training* dan pembelajaran praktis meningkatkan produktivitas serta upah pekerja secara pesat.
+- **$\beta\_3 < 0$ (Negatif):** Parameter negatif pada variabel kuadratik ini mencerminkan hukum imbal hasil yang semakin berkurang (*diminishing returns to experience*).
 
 Secara visual, jika kita memetakan pendapatan terhadap akumulasi pengalaman atau usia kerja, grafiknya membentuk **parabola cekung (terbalik)**. Pendapatan melonjak pesat pada usia muda, mencapai titik puncak (*peak earnings*) pada usia paruh baya, lalu mendatar atau menurun perlahan saat mendekati masa pensiun akibat depresiasi keterampilan (*skill obsolescence*) dan penurunan kapasitas fisik.
 
 ### 3. Membaca Makna Ekonomi dari Angka Imbal Hasil
 
-Ketika analisis regresi menghasilkan estimasi koefisien $\beta_1 = 0.10$, apa makna ekonomisnya?
+Ketika analisis regresi menghasilkan estimasi koefisien $\beta\_1 = 0.10$, apa makna ekonomisnya?
 
-Koefisien $\beta_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private Rate of Return*) dari investasi pendidikan.
+Koefisien $\beta\_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private Rate of Return*) dari investasi pendidikan.
 
-- Nilai $\beta_1 = 0.10$ mengindikasikan bahwa setiap tambahan satu tahun pendidikan formal diasosiasikan dengan kenaikan upah rata-rata sebesar **10%**.
+- Nilai $\beta\_1 = 0.10$ mengindikasikan bahwa setiap tambahan satu tahun pendidikan formal diasosiasikan dengan kenaikan upah rata-rata sebesar **10%**.
 - Informasi ini menjadi fondasi bagi individu dalam mengambil keputusan strategis: mengevaluasi apakah mengambil jenjang magister selama 2 tahun sepadan dengan *opportunity cost* (pendapatan yang hilang selama masa studi) dibandingkan dengan estimasi peningkatan gaji sebesar 20% di masa mendatang.
 
 Jika kamu memilih kuliah selama 4 tahun daripada langsung bekerja, kamu kehilangan potensi pendapatan selama 4 tahun tersebut. Fungsi Mincer membantu kita menghitung secara rasional apakah peninggian upah di masa depan cukup untuk mengompensasi pengorbanan pendapatan saat ini.
 
-### 4. Menghitung Bonus Pendidikan dengan Python
+### 4. Membaca Bonus Pendidikan dari Koefisien
 
-Berikut adalah contoh simulasi pengolahan data pasar kerja menggunakan metode *Ordinary Least Squares* (OLS) dalam bahasa Python untuk mengestimasi Fungsi Upah Mincer.
+Dalam riset pasar kerja, koefisien Fungsi Upah Mincer diestimasi dari data pekerja dengan metode *Ordinary Least Squares* (OLS). Untuk melihat cara membacanya, bayangkan sebuah simulasi berisi 1.000 pekerja rekaan dengan lama sekolah 6 sampai 17 tahun dan pengalaman kerja 0 sampai 39 tahun. Upah mereka dibentuk dari persamaan berikut, dengan semua angka sebagai angka ilustrasi:
 
-```python
-import numpy as np
-import pandas as pd
-import statsmodels.api as sm
+<div>
+$$
+\ln(w) = 7 + 0.12 S + 0.05 E - 0.0007 \text{E}^2 + \epsilon
+$$
+</div>
 
-# Simulasi Data: 1.000 sampel pekerja
-np.random.seed(42)
-n = 1000
-schooling = np.random.randint(6, 18, n)       # 6 s/d 18 tahun sekolah
-experience = np.random.randint(0, 40, n)      # 0 s/d 40 tahun pengalaman kerja
+Angka 7 di sini adalah konstanta $\alpha$, sedangkan galat $\epsilon$ adalah gangguan acak kecil dengan rata-rata 0 dan simpangan baku 0,1, yang mewakili faktor tak teramati seperti bakat atau keberuntungan.
 
-# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*\text{E}^2 + error
-log_wage = 7 + 0.12 * schooling + 0.05 * experience - 0.0007 * (experience**2) + np.random.normal(0, 0.1, n)
+**Cara Membaca Koefisien Simulasi:**
 
-# Menyiapkan variabel independen (X) dan dependen (y)
-df = pd.DataFrame({''LogWage'': log_wage, ''S'': schooling, ''E'': experience, ''E2'': experience**2})
-X = df[[''S'', ''E'', ''E2'']]
-X = sm.add_constant(X)
-y = df[''LogWage'']
-
-# Regresi Ordinary Least Squares (OLS)
-model = sm.OLS(y, X).fit()
-
-print(model.summary())
-```
-
-**Interpretasi Hasil Estimasi:**
-
-1. **Koefisien Pendidikan ($S = 0.12$):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
-2. **Pengalaman ($E = 0.05$ & $\text{E}^2 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
+1. **Koefisien Pendidikan ($\beta\_1 = 0.12$):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
+2. **Pengalaman ($\beta\_2 = 0.05$ dan $\beta\_3 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
 
 ### 5. Aplikasi Praktis dalam Kebijakan Publik dan Manajemen SDM
 
@@ -51968,7 +50749,7 @@ Fungsi Mincer memiliki implikasi praktis yang luas di pasar tenaga kerja:
 
 Meskipun menjadi standar emas dalam estimasi imbal hasil pendidikan, model dasar Mincer memiliki sejumlah keterbatasan metodologis:
 
-- **Bias Kemampuan (*Ability Bias*):** Estimasi $\beta_1$ dapat terdistorsi jika individu berpendidikan tinggi juga memiliki bakat atau motivasi alami yang lebih tinggi sejak awal, yang tidak terukur oleh variabel sekolah.
+- **Bias Kemampuan (*Ability Bias*):** Estimasi $\beta\_1$ dapat terdistorsi jika individu berpendidikan tinggi juga memiliki bakat atau motivasi alami yang lebih tinggi sejak awal, yang tidak terukur oleh variabel sekolah.
 - **Kuantitas vs Kualitas Pendidikan:** Model ini memperhitungkan durasi tahun sekolah ($S$), namun mengabaikan perbedaan kualitas institusi pendidikan. Satu tahun pendidikan di institusi terkemuka dihitung sama dengan satu tahun di sekolah berfasilitas minim pada model dasar.
 
 > **Key Takeaway:** Dalam perspektif modal manusia, pendidikan dalam Fungsi Mincer berfungsi sebagai bentuk investasi jangka panjang. Jika kamu memosisikan dirimu sebagai sebuah entitas modal, pendidikan dan pelatihan adalah kegiatan riset dan pengembangan (*Research & Development*) yang kamu lakukan untuk meningkatkan daya saing serta nilai jual tenaga kerjamu di pasar.
@@ -51993,20 +50774,24 @@ Tingkat pengembalian investasi modal manusia adalah rasio antara akumulasi keunt
 
 Dalam analisis ekonomi, kita menggunakan konsep **Internal Rate of Return (IRR)**, yaitu tingkat diskonto ($r$) yang menyamakan nilai sekarang (*present value*) dari manfaat masa depan dengan nilai sekarang dari biaya investasi.
 
+<div>
 $$
 \text{NPV} = \sum_{t=1}^{n} \frac{\text{B}_t}{(1+r)^t} - \sum_{t=1}^{n} \frac{\text{C}_t}{(1+r)^t} = 0
 $$
+</div>
 
 Atau dalam bentuk persamaan imbal hasil:
 
+<div>
 $$
 \sum_{t=1}^{n} \frac{\text{B}_t}{(1+r)^t} = \sum_{t=1}^{n} \frac{\text{C}_t}{(1+r)^t}
 $$
+</div>
 
 Keterangan variabel:
 
-- $\text{B}_t$: Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-$t$.
-- $\text{C}_t$: Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-$t$.
+- $\text{B}\_t$: Manfaat (*benefit*) tambahan atau pendapatan ekstra pada tahun ke-$t$.
+- $\text{C}\_t$: Total biaya (*cost*) investasi yang dikeluarkan pada tahun ke-$t$.
 - $r$: Tingkat pengembalian (*Rate of Return* / IRR).
 - $n$: Estimasi durasi usia produktif kerja (dalam tahun).
 
@@ -52180,9 +50965,11 @@ Dalam analisis makroekonomi, peran **Human Capital** dirumuskan melalui penyesua
 
 Lucas menekankan bahwa tingkat pertumbuhan ekonomi jangka panjang sangat bergantung pada proporsi waktu yang dialokasikan masyarakat untuk mengumpulkan **Human Capital** melalui pendidikan dan pelatihan.
 
+<div>
 $$
 Y = A \cdot K^\alpha \cdot (h \cdot L)^{1-\alpha}
 $$
+</div>
 
 Keterangan variabel:
 
@@ -52293,18 +51080,20 @@ Mengapa ijazah dianggap sebagai sinyal yang valid? Mengapa pelamar tidak berboho
 
 Dalam model matematika Spence, diasumsikan terdapat dua kelompok individu:
 
-1. **Kelompok Produktivitas Tinggi ($P_{\text{H}}$):** Memiliki kemampuan alami yang tinggi.
-2. **Kelompok Produktivitas Rendah ($P_{\text{L}}$):** Memiliki kemampuan alami yang lebih rendah.
+1. **Kelompok Produktivitas Tinggi ($P\_{\text{H}}$):** Memiliki kemampuan alami yang tinggi.
+2. **Kelompok Produktivitas Rendah ($P\_{\text{L}}$):** Memiliki kemampuan alami yang lebih rendah.
 
-Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P_{\text{L}}$ harus jauh lebih tinggi daripada kelompok $P_{\text{H}}$:
+Agar pendidikan menjadi sinyal yang memisahkan (*separating equilibrium*), biaya untuk mendapatkan tingkat pendidikan $e$ bagi kelompok $P\_{\text{L}}$ harus jauh lebih tinggi daripada kelompok $P\_{\text{H}}$:
 
+<div>
 $$
 C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
+</div>
 
 Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih menyiksa dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
-**Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
+**Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P\_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 
 ### 4. Efek Kulit Domba (*The Sheepskin Effect*)
 
@@ -52390,15 +51179,19 @@ Masalah utama dalam kesenjangan modal manusia saat ini tidak lagi sebatas "apaka
 
 Secara sederhana, jika pendapatan ($Y$) adalah fungsi dari modal manusia ($H$), tenaga kerja ($L$), dan modal fisik ($K$), maka:
 
+<div>
 $$
 Y = f(H, L, K)
 $$
+</div>
 
 Di mana $H$ dipengaruhi oleh lamanya sekolah ($s$) dan kualitas pendidikan ($q$):
 
+<div>
 $$
 H = e^{\phi(s, q)}
 $$
+</div>
 
 Jika kelompok mampu memiliki $q$ yang jauh lebih besar daripada kelompok kurang mampu, maka meskipun nilai $s$ (tahun sekolah) mereka sama, pendapatan $Y$ mereka akan menunjukkan perbedaan yang eksponensial.
 
@@ -52452,9 +51245,11 @@ Pandemi COVID-19 memberikan gambaran nyata bagaimana kesenjangan modal manusia d
 
 Para ekonom memperkirakan bahwa *learning loss* ini berdampak pada penurunan pendapatan masa depan bagi generasi dari keluarga kurang mampu sebesar:
 
+<div>
 $$
 \Delta \text{Y}_{\text{future}} = -\sum_{t=1}^{T} \frac{\text{Loss}_t}{(1+r)^t}
 $$
+</div>
 
 Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini merupakan ancaman serius bagi ketimpangan ekonomi jangka panjang.
 
@@ -52481,7 +51276,11 @@ Saat seorang individu meningkatkan keterampilannya, manfaat yang tercipta tidak 
 
 > **Logika Ekonomi:**
 > 
-> $$\text{Manfaat Sosial Total} > \text{Manfaat Pribadi}$$
+> <div>
+> $$
+> \text{Manfaat Sosial Total} > \text{Manfaat Pribadi}
+> $$
+> </div>
 > 
 > Ketika peningkatan keterampilan menghasilkan nilai tambah publik yang melebihi keuntungan finansial pribadi, investasi individu secara mandiri akan cenderung terlalu rendah jika dibandingkan dengan tingkat investasi ideal suatu negara.
 
@@ -52556,28 +51355,23 @@ Seorang lulusan baru (*fresh graduate*) menghadapi kendala keterbatasan keahlian
 
 Untuk mengukur apakah intervensi kebijakan memberikan manfaat ekonomi yang melampaui biaya yang dikeluarkan, digunakan pendekatan kuantitatif berikut:
 
+<div>
 $$
 \text{SROI} = \frac{\Delta \text{Pendapatan Total Tenaga Kerja}}{\text{Total Biaya Anggaran Kebijakan}}
 $$
+</div>
 
-Berikut adalah implementasi sederhana fungsi perhitungan efisiensi kebijakan publik dalam pemrograman:
+Kebijakan dinilai efisien bila nilai SROI lebih besar dari 1, artinya peningkatan pendapatan melebihi investasi publik. Bila nilainya 1 atau kurang, nilai tambah ekonomi belum menutupi biaya dan kebijakan perlu dievaluasi. Sebagai ilustrasi dampak ekonomi pada satu peserta, berikut perhitungan dengan angka rekaan:
 
-```python
-def evaluasi_efisiensi_kebijakan(pendapatan_pasca: float, pendapatan_pra: float, biaya_subsidi: float) -> str:
-    """
-    Mengukur Social Return on Investment (SROI) dari program pelatihan publik.
-    """
-    peningkatan_pendapatan = pendapatan_pasca - pendapatan_pra
-    sroi = peningkatan_pendapatan / biaya_subsidi
-    
-    if sroi > 1.0:
-        return f"Kebijakan Efisien (SROI = {sroi:.2f}): Peningkatan pendapatan melebihi investasi publik."
-    else:
-        return f"Kebijakan Perlu Evaluasi (SROI = {sroi:.2f}): Nilai tambah ekonomi belum menutupi biaya."
+| Komponen | Perhitungan | Hasil |
+| :--- | :--- | :--- |
+| Pendapatan sebelum pelatihan | - | 3.500.000 |
+| Pendapatan sesudah pelatihan | - | 5.000.000 |
+| Peningkatan pendapatan | 5.000.000 - 3.500.000 | 1.500.000 |
+| Biaya subsidi pelatihan | - | 1.000.000 |
+| SROI | 1.500.000 ÷ 1.000.000 | 1,50 |
 
-# Ilustrasi pengukuran dampak ekonomi individu
-print(evaluasi_efisiensi_kebijakan(pendapatan_pasca=5000000, pendapatan_pra=3500000, biaya_subsidi=1000000))
-```
+Karena SROI sebesar 1,50 lebih besar dari 1, kebijakan dalam ilustrasi ini tergolong efisien.
 
 ---
 
@@ -52653,39 +51447,29 @@ Oleh karena itu, **Lifelong Learning** bertindak sebagai strategi penyesuaian mo
 
 ### 4. Produktivitas di Era Digital dalam Perspektif Teknis
 
-Secara sistematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}_{\text{adapt}}$:
+Secara sistematis, produktivitas individu $P$ di era digital tidak hanya ditentukan oleh input jam kerja $L$, modal fisik $K$, dan stok modal manusia tradisional $H$, melainkan bergantung pada tingkat teknologi $A$ dan variabel kecepatan adaptasi keterampilan $\text{S}\_{\text{adapt}}$:
 
+<div>
 $$
-\begin{aligned}
 P = A \cdot f(K, L, H) \cdot \text{S}_{\text{adapt}}
-\end{aligned}
 $$
+</div>
 
 Di mana:
 
 - $H$ = *Human Capital* (Stok modal manusia tradisional seperti tingkat pendidikan dan pengalaman)
-- $\text{S}_{\text{adapt}}$ = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
+- $\text{S}\_{\text{adapt}}$ = *Skill Adaptability* (Kecepatan dan kapasitas individu dalam mengadopsi teknologi baru)
 
-Jika variabel $\text{S}_{\text{adapt}}$ bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal $H$ yang dimiliki relatif tinggi.
+Jika variabel $\text{S}\_{\text{adapt}}$ bernilai mendekati nol akibat penolakan terhadap inovasi teknologi, maka total produktivitas individu akan menurun meskipun nilai modal manusia formal $H$ yang dimiliki relatif tinggi.
 
 #### Pengembangan Perangkat Lunak
 
-Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu (*AI Assistant*) dapat menyelesaikan penulisan kode dengan tingkat efisiensi yang lebih tinggi.
+Seorang pengembang perangkat lunak yang memanfaatkan kecerdasan buatan pembantu (*AI Assistant*) dapat menyelesaikan penulisan kode dengan tingkat efisiensi yang lebih tinggi. Pembagian kerjanya bergeser seperti berikut:
 
-```python
-# Skenario Tradisional: Menulis fungsi kalkulasi secara manual
-def calculate_growth(initial, rate, years):
-    return initial * (1 + rate) ** years
-
-# Skenario Era AI: Pengembang berperan sebagai System Architect
-# AI menghasilkan kode dasar (boilerplate), 
-# sementara manusia mengarahkan logika bisnis dan pengujian keamanan.
-def process_big_data(dataset):
-    # Algoritma dan optimasi ditangani dengan asistensi AI
-    # Pengembang menetapkan parameter etis dan interpretasi hasil
-    results = ai_assisted_optimization(dataset)
-    return results
-```
+| Skenario | Pekerjaan pengembang | Bantuan AI |
+| :--- | :--- | :--- |
+| **Tradisional** | Menulis kode perhitungan secara manual | - |
+| **Era AI** | Berperan sebagai *System Architect*: mengarahkan logika bisnis dan pengujian keamanan, menetapkan parameter etis, serta menafsirkan hasil | Menghasilkan kode dasar (*boilerplate*) dan membantu menangani algoritma serta optimasi |
 
 ### 5. Aplikasi Dunia Nyata & Kasus Penggunaan
 
@@ -52706,7 +51490,7 @@ Penerapan teori modal manusia pada era digital juga dihadapkan pada tantangan ke
 1. **Prinsip Augmentasi**: Kecerdasan buatan berfungsi sebagai mitra peningkatan produktivitas yang membutuhkan pembentukan alur kerja baru.
 2. **Keterampilan Non-Rutin**: Kemampuan kognitif tingkat tinggi, kreativitas, dan kecerdasan sosial memiliki tingkat ketahanan tertinggi terhadap otomasi.
 3. **Pembelajaran Seumur Hidup**: Pembentukan modal manusia berkelanjutan melalui *Upskilling* dan *Reskilling* menjadi mekanisme utama menahan depresiasi keterampilan.
-4. **Adaptabilitas Keterampilan**: Variabel $\text{S}_{\text{adapt}}$ menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.
+4. **Adaptabilitas Keterampilan**: Variabel $\text{S}\_{\text{adapt}}$ menjadi elemen penting dalam menentukan tingkat produktivitas akhir di era digital.
 
 
 <!-- Chapter: 12_referensi -->
@@ -52764,8 +51548,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53021,7 +51805,13 @@ Salah satu landasan teoretis paling berpengaruh dalam psikologi kelangsungan hid
 
 <div>
 $$
-P_{\text{respons}} = 10 \text{\%} \text{ (Adaptif/Pemimpin)} + 80 \text{\%} \text{ (Tertegun/Pasif)} + 10 \text{\%} \text{ (Disfungsional/Histeris)}
+P_{\text{respons}} = 10\% \text{ (Adaptif/Pemimpin)} + 80\% \text{ (Tertegun/Pasif)}
+$$
+</div>
+
+<div>
+$$
+\quad + 10\% \text{ (Disfungsional/Histeris)}
 $$
 </div>
 
@@ -53554,13 +52344,11 @@ Praktik vokal standar dapat diamati pada protokol komunikasi darurat awak kabin 
 
 ### 3. Model ADR dan Prinsip 3C untuk Instruksi Darurat
 
-Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan ambiguitas penafsiran. Kerangka kerja yang terbukti efektif adalah formula **Action-Direction-Reason** (Aksi, Arah, Alasan).
+Penyampaian instruksi darurat harus mengikuti struktur baku yang menghilangkan ambiguitas penafsiran. Kerangka kerja yang terbukti efektif adalah formula **Action-Direction-Reason** (Aksi, Arah, Alasan):
 
-```
-[AKSI LANGSUNG]   -> Apa tindakan spesifik yang harus diambil seketika.
-[ARAH NAVIGASI]   -> Ke mana massa harus bergerak secara fisik.
-[ALASAN SINGKAT]  -> Mengapa tindakan tersebut menyelamatkan jiwa.
-```
+- **Aksi langsung:** tindakan spesifik yang harus diambil seketika.
+- **Arah navigasi:** ke mana massa harus bergerak secara fisik.
+- **Alasan singkat:** mengapa tindakan tersebut menyelamatkan jiwa.
 
 Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C):
 
@@ -53582,24 +52370,14 @@ Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C
 
 Di era keterhubungan digital, kepanikan dan misinformasi menyebar lebih cepat daripada kobaran fisik bencana. Ketiadaan informasi resmi menciptakan ruang hampa yang segera diisi oleh spekulasi liar dan rumor yang memperburuk histeria massal.
 
-```
-+-------------------------------------------------------------------------+
-|                  PROTOKOL PENGENDALIAN MISINFORMASI                     |
-+-------------------------------------------------------------------------+
-|  1. Akui Batas Kepastian                                               |
-|     Sampaikan fakta yang terverifikasi secara jujur:                    |
-|     "Informasi terkait titik api sedang diverifikasi tim teknis.       |
-|      Fokus utama saat ini adalah pengosongan sayap barat gedung."       |
-+-------------------------------------------------------------------------+
-|  2. Pembaruan Ritmis Berkala                                           |
-|     Rilis informasi setiap 10 hingga 15 menit secara konsisten,         |
-|     sekalipun status situasi masih belum mengalami perubahan.           |
-+-------------------------------------------------------------------------+
-|  3. Kanal Komando Tunggal                                              |
-|     Tetapkan satu titik suara resmi (pengeras suara sentral atau       |
-|     posko komando) sebagai rujukan sah seluruh evakuasi.                |
-+-------------------------------------------------------------------------+
-```
+Protokol pengendalian misinformasi terdiri atas tiga langkah:
+
+1. **Akui batas kepastian.** Sampaikan fakta yang terverifikasi secara jujur, misalnya:
+
+   > "Informasi terkait titik api sedang diverifikasi tim teknis. Fokus utama saat ini adalah pengosongan sayap barat gedung."
+
+2. **Lakukan pembaruan ritmis berkala.** Rilis informasi setiap 10 hingga 15 menit secara konsisten, sekalipun status situasi masih belum mengalami perubahan.
+3. **Tetapkan kanal komando tunggal.** Pilih satu titik suara resmi (pengeras suara sentral atau posko komando) sebagai rujukan sah seluruh evakuasi.
 
 ---
 
@@ -53617,24 +52395,12 @@ Ketika kebisingan suara alarm atau dentuman fisik menenggelamkan artikulasi verb
 
 ### 6. Protokol Komando Evakuasi Gedung Bertingkat
 
-Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
+Penerapan prinsip-prinsip di atas diintegrasikan dalam simulasi komando evakuasi empat fase saat alarm kebakaran aktif dan asap mulai memasuki koridor gedung:
 
-```
-[FASE 1: INTERUPSI POLA & MENARIK PERHATIAN]
-"SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
-(Suara lantang diafragma, nada bariton, kedua lengan diangkat tinggi)
-
-[FASE 2: INSTRUKSI AKSI SINGKAT]
-"Tinggalkan tas dan laptop di meja. Berbaris satu jalur sekarang."
-
-[FASE 3: PANDUAN ARAH SPASIAL PRESISI]
-"Berjalan tenang menuju tangga darurat di sebelah kiri.
-Jangan gunakan lift. Ikuti lampu hijau darurat."
-
-[FASE 4: PENEGASAN KENDALI & PENUTUPAN BARISAN]
-"Berjalan cepat, jangan saling mendahului. 
-Petugas berada di posisi paling belakang untuk memastikan seluruh ruangan kosong."
-```
+1. **Interupsi pola dan menarik perhatian.** Dengan suara lantang dari diafragma, nada bariton, dan kedua lengan diangkat tinggi, petugas berseru: "SEMUA ORANG, BERHENTI DAN DENGARKAN INSTRUKSI SEKARANG!"
+2. **Instruksi aksi singkat.** "Tinggalkan tas dan laptop di meja. Berbaris satu jalur sekarang."
+3. **Panduan arah spasial presisi.** "Berjalan tenang menuju tangga darurat di sebelah kiri. Jangan gunakan lift. Ikuti lampu hijau darurat."
+4. **Penegasan kendali dan penutupan barisan.** "Berjalan cepat, jangan saling mendahului. Petugas berada di posisi paling belakang untuk memastikan seluruh ruangan kosong."
 
 ---
 
@@ -53665,9 +52431,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 Sebagai sintesis pemahaman komunikasi darurat, perhatikan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
-```
-"NAIK KE LANTAI TIGA SEKARANG!"
-```
+> **"NAIK KE LANTAI TIGA SEKARANG!"**
 
 Formulasi lima kata ini secara langsung memenuhi kriteria ketat komunikasi bencana:
 1. **Aksi:** Bergerak naik.
@@ -54339,38 +53103,16 @@ Komponen penting dalam simulasi berfidelitas tinggi mencakup:
 
 ---
 
-### 5. Representasi Algoritmik Skenario Pelatihan
+### 5. Menilai Respons Peserta Simulasi Gempa
 
-Dalam perancangan platform pelatihan interaktif dan sistem instruksional otomatis, skenario keselamatan diartikulasikan ke dalam struktur logika kondisional (*if-then decision trees*). Cuplikan berikut mengilustrasikan logika evaluasi respons instingtif pada simulasi gempa bumi:
+Sebagai contoh, platform pelatihan interaktif dapat menilai keputusan awal peserta dengan aturan bersyarat yang sederhana: jika peserta memilih tindakan yang tepat, statusnya berhasil; jika tidak, statusnya kritis. Pada simulasi gempa bumi, tolok ukurnya adalah protokol *Drop, Cover, and Hold On*, respons standar yang divalidasi secara internasional.
 
-```python
-# Kerangka Logika Evaluasi Respons Cepat Gempa Bumi
-def evaluasi_respons_gempa(magnitudo_sensor: float, opsi_input: str) -> dict:
-    """
-    Mengevaluasi ketepatan keputusan evakuasi awal berdasarkan
-    protokol keselamatan Drop, Cover, and Hold On.
-    """
-    tingkat_bahaya = "Tinggi" if magnitudo_sensor >= 6.5 else "Moderat"
-    
-    # Respons standar yang divalidasi secara internasional
-    respons_tervalidasi = "B"  # Drop, Cover, and Hold On
-    
-    if opsi_input.strip().upper() == respons_tervalidasi:
-        return {
-            "status": "Berhasil",
-            "mitigasi": "Melindungi kepala, leher, dan organ vital di bawah struktur kokoh.",
-            "probabilitas_cedera": "Rendah (Penyusutan risiko hingga 85%)"
-        }
-    else:
-        return {
-            "status": "Kritis",
-            "mitigasi": "Terpapar risiko serpihan kaca, plafon runtuh, dan kehilangan keseimbangan.",
-            "probabilitas_cedera": "Sangat Tinggi (Risiko trauma fisik meningkat tajam)"
-        }
+| Respons Peserta | Status | Keterangan | Risiko Cedera |
+| :--- | :--- | :--- | :--- |
+| ***Drop, Cover, and Hold On*** | Berhasil | Kepala, leher, dan organ vital terlindungi di bawah struktur kokoh. | Rendah |
+| **Respons lain** | Kritis | Terpapar risiko serpihan kaca, plafon runtuh, dan kehilangan keseimbangan. | Sangat tinggi, risiko trauma fisik meningkat tajam |
 
-# Sasaran pengondisian: Mengulang skenario interaktif hingga tindakan tervalidasi
-# dieksekusi secara otomatis dalam batas waktu di bawah 3 detik.
-```
+Sasaran pengondisiannya adalah mengulang skenario interaktif ini sampai tindakan yang benar dieksekusi secara otomatis dalam waktu di bawah 3 detik (angka ilustrasi).
 
 ---
 
@@ -54444,8 +53186,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54907,7 +53649,7 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 * **Pola utama:** Takut ditinggalkan dan selalu butuh kedekatan fisik maupun emosional.
 * **Pemicu:** Komunikasi yang mendadak berubah atau adanya jarak emosional.
 * **Tujuan:** Menghilangkan cemas dengan mencari kepastian dari pasangan.
-* **Rumus Emosional:** $\\text{Kecemasan} = \\frac{\\text{Persepsi Ancaman}}{\\text{Keyakinan akan Harga Diri}}$
+* **Rumus Emosional:** $\text{Kecemasan} = \frac{\text{Persepsi Ancaman}}{\text{Keyakinan akan Harga Diri}}$
   Saat keyakinan diri rendah, gangguan kecil saja dalam hubungan sudah bisa memicu kepanikan besar.
 
 **Catatan Penting:** Gaya kelekatan cemas bukanlah penyakit mental atau cacat karakter. Ini adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
@@ -54931,9 +53673,11 @@ Berikut adalah pilar utama dalam membangun koneksi yang kuat:
 
 Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, mari kita lihat rumus sederhana ini:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Rumus ini menunjukkan bahwa jika keterbukaan dan waktu berkualitas meningkat, hubungan akan terjalin lebih dalam. Sebaliknya, ketika ego terlalu mendominasi, kedekatan itu perlahan-lahan akan luntur.
 
@@ -55221,7 +53965,7 @@ flowchart TD
     D -->|"merasa harus bersembunyi lebih jauh"| C
 ```
 
-$\\text{Konflik} = \\text{(Kebutuhan Kedekatan)}_A \\times \\text{(Ketakutan akan Keintiman)}_B$
+$\text{Konflik} = \text{(Kebutuhan Kedekatan)}\_A \times \text{(Ketakutan akan Keintiman)}\_B$
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 
@@ -55299,9 +54043,11 @@ Berikut adalah pilar-pilar utama dalam menciptakan koneksi yang mendalam:
 
 Untuk menggambarkan bagaimana sebuah hubungan tumbuh, mari kita gunakan formula sederhana berikut:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, semakin kuat pula ikatan yang terjalin. Sebaliknya, jika ego lebih mendominasi, kedalaman hubungan tersebut akan terkikis.
 
@@ -55379,7 +54125,7 @@ Bayangkan sebuah tim sedang menghadapi tenggat waktu (deadline) yang ketat dan t
 
 Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pertimbangkan langkah-langkah berikut:
 
-* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula: $\\text{Reaksi Rasional} = \\text{Fakta Objektif} - \\text{Asumsi Emosional}$
+* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula: $\text{Reaksi Rasional} = \text{Fakta Objektif} - \text{Asumsi Emosional}$
 * **Untuk Tipe Menghindar:** Cobalah untuk melakukan "transparansi terencana". Bagikan pembaruan kecil tentang pekerjaanmu secara rutin sebelum orang lain bertanya. Ini membangun kepercayaan tanpa membuatmu merasa kehilangan kendali.
 * **Untuk Pemimpin:** Sadarilah bahwa kebutuhan anggota tim berbeda-beda. Anggota tim yang cemas butuh lebih banyak pujian, sementara yang menghindar butuh ruang untuk bekerja sendiri.
 
@@ -55408,9 +54154,11 @@ Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 
@@ -55458,7 +54206,7 @@ Interaksi kelekatan memicu pelepasan zat kimia tertentu yang mengubah cara kita 
 
 ### Oksitosin
 
-Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia $\\text{C}_{43}\\text{H}_{66}\\text{N}_{12}\\text{O}_{12}\\text{S}_2$. Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
+Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit, dan interaksi positif. Hormon ini memiliki rumus kimia $\text{C}\_{43}\text{H}\_{66}\text{N}\_{12}\text{O}\_{12}\text{S}\_2$. Peran utamanya adalah mengurangi stres, meningkatkan rasa percaya, dan memperkuat ikatan batin. Ketika seseorang tumbuh dengan kelekatan yang aman, otak mereka menjadi sangat responsif terhadap oksitosin.
 
 ### Kortisol
 
@@ -55486,9 +54234,11 @@ Setiap orang memiliki batas kenyamanan emosional yang berbeda, yang dikenal seba
 
 Orang dengan kelekatan aman cenderung memiliki jendela toleransi yang lebar, sehingga mereka tetap tenang saat menghadapi tekanan. Sebaliknya, mereka yang memiliki kelekatan cemas sering kali terdorong ke fase hiper-arousal (di luar batas atas jendela), yang ditandai dengan kecemasan, panik, dan kewaspadaan berlebih. Sementara itu, pemilik kelekatan menghindar lebih sering jatuh ke fase hipo-arousal (di bawah batas bawah jendela), membuat mereka menarik diri, mati rasa secara emosional, dan sulit merasakan kedekatan.
 
+<div>
 $$
-\\text{Regulasi Emosi} = \\frac{\\text{Kekuatan PFC}}{\\text{Reaktivitas Amigdala}}
+\text{Regulasi Emosi} = \frac{\text{Kekuatan PFC}}{\text{Reaktivitas Amigdala}}
 $$
+</div>
 
 ## Mengapa Ini Penting?
 
@@ -55525,9 +54275,11 @@ Berikut adalah pilar utama dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
 
@@ -55945,8 +54697,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56005,25 +54757,14 @@ Ini adalah kondisi batin yang bebas dari gangguan emosi negatif. Bayangkan kamu 
 
 **Rumus Sederhana Stoikisme:** $\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir}$
 
-## Logika Pemrograman ala Stoik
+## Menyaring Setiap Kejadian
 
-Meskipun Stoikisme adalah filsafat kuno, logikanya sangat mirip dengan struktur pemrograman komputer. Seorang Stoik belajar untuk melakukan *filtering* terhadap input yang masuk.
+Meskipun Stoikisme adalah filsafat kuno, cara kerjanya sangat praktis. Seorang Stoik belajar menyaring setiap kejadian yang datang dengan satu pertanyaan: *"Apakah hal ini berada di bawah kendaliku?"*
 
-```python
-# Simulasi Logika Stoik terhadap Masalah
-def proses_kejadian(kejadian):
-    if kejadian.is_under_my_control:
-        return "Ambil tindakan terbaik dengan kebajikan."
-    else:
-        return "Terima dengan tenang (Amor Fati)."
+- **Jika berada di bawah kendali kamu:** ambil tindakan terbaik dengan kebajikan.
+- **Jika berada di luar kendali kamu:** terima dengan tenang (*Amor Fati*).
 
-# Skenario: Macet di jalan
-kejadian_hari_ini = "Macet total saat mau rapat penting"
-respon = proses_kejadian(kejadian_hari_ini)
-
-print(respon) 
-# Output: Terima dengan tenang (Amor Fati), karena kemacetan di luar kendali kamu.
-```
+Misalnya, kamu terjebak macet total saat mau rapat penting. Kemacetan itu berada di luar kendali kamu, jadi respons Stoiknya adalah menerimanya dengan tenang.
 
 ## Mengapa Stoikisme Relevan Saat Ini?
 
@@ -56191,9 +54932,11 @@ Untuk memahami konsep ini dengan lebih mendalam, bayangkan seorang pemanah yang 
 
 Mengapa kita harus peduli dengan pembagian ini? Stoikisme menggunakan logika sederhana untuk menjaga kesehatan mental kita:
 
+<div>
 $$
 \text{Kekecewaan} = \text{Menaruh Harapan pada Hal di Luar Kendali}
 $$
+</div>
 
 Jika kamu mengaitkan kebahagiaan kamu dengan "mendapatkan promosi" (eksternal), kamu sedang memberikan kunci kebahagiaan kamu kepada bos kamu atau situasi kantor. Namun, jika kamu mengaitkan kepuasan kamu dengan "bekerja sebaik mungkin dan profesional" (internal), maka kamu tetap bisa tenang apa pun hasil akhirnya.
 
@@ -56237,7 +54980,7 @@ Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) sangat me
 
 1. **Logika adalah Pagar:** Ia melindungi taman dari penyusup (argumen palsu dan emosi yang menyesatkan) serta menjaga agar pikiran tetap jernih.
 2. **Fisika adalah Tanah dan Pohon:** Ia merupakan struktur dasar, nutrisi, dan pemahaman tentang bagaimana ekosistem taman tersebut bekerja.
-3. **Etika adalah Buahnya:** Inilah hasil akhir yang kita panen. Inilah tujuan utama mengapa kita menanam taman tersebut,untuk menghasilkan kehidupan yang manis dan bermanfaat.
+3. **Etika adalah Buahnya:** Inilah hasil akhir yang kita panen. Inilah tujuan utama mengapa kita menanam taman tersebut, untuk menghasilkan kehidupan yang manis dan bermanfaat.
 
 > **Pesan Utama:** Tanpa pagar (Logika), taman akan hancur. Tanpa tanah (Fisika), tidak ada yang bisa tumbuh. Namun, tanpa buah (Etika), seluruh usaha tersebut menjadi sia-sia.
 
@@ -56276,7 +55019,7 @@ Dalam pandangan Fisika Stoik:
 
 ### Persamaan Keseimbangan Alam
 
-Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni yang presisi. Secara metaforis, jika $U$ adalah Universe dan $p$ adalah bagian kecil (manusia), maka: $U = \sum_{i=1}^{n} p_i$ Di mana setiap $p$ harus berfungsi sesuai dengan fungsinya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
+Jika kita memodelkan hubungan antara bagian dan keseluruhan, para Stoik melihatnya sebagai harmoni yang presisi. Secara metaforis, jika $U$ adalah Universe dan $p$ adalah bagian kecil (manusia), maka: $U = \sum\_{i=1}^{n} p\_i$ Di mana setiap $p$ harus berfungsi sesuai dengan fungsinya agar $U$ tetap stabil. Jika satu bagian melawan hukum alam, ia hanya akan menyakiti dirinya sendiri tanpa bisa mengubah hukum tersebut.
 
 ## 3\. Etika
 
@@ -56458,9 +55201,11 @@ Salah satu analogi paling terkenal dari tokoh Stoik awal (Zeno atau Chrysippus) 
 
 Kita dapat menggambarkan kedamaian batin dalam Stoikisme dengan rumus sederhana:
 
+<div>
 $$
 \text{Penderitaan} = \text{Realitas} - \text{Ekspektasi}
 $$
+</div>
 
 Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: $\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0$
 
@@ -56485,31 +55230,16 @@ Bagaimana cara menerapkan prinsip "Hidup Selaras dengan Alam" saat ini? Berikut 
 - **Melawan Alam:** Merasa semesta tidak adil dan terus-menerus bertanya "Mengapa saya?".
 - **Selaras dengan Alam:** Menyadari bahwa dalam sistem besar (ekonomi, dinamika kantor), kegagalan adalah kemungkinan yang logis. kamu mengevaluasi dengan nalar apa yang bisa dipelajari dan bergerak maju sesuai dengan peran kamu sebagai makhluk yang tangguh.
 
-## 6\. Algoritma Keputusan Stoik
+## 6\. Peta Respons Stoik
 
-Jika kita menerjemahkan hidup selaras dengan alam ke dalam logika pemrograman sederhana, bentuknya akan seperti ini:
+Dua dimensi alam di bagian 2 bisa dipetakan menjadi dua kategori, dan masing-masing punya respons serta hasilnya sendiri:
 
-```python
-def hidup_selaras_dengan_alam(peristiwa, kategori_alam):
-    if kategori_alam == "Universal (Logos)":
-        # Hukum alam, takdir, tindakan orang lain
-        terima_dan_adaptasi(peristiwa)
-        return "Ataraxia (Ketenangan batin)"
-    
-    elif kategori_alam == "Manusiawi (Rasional)":
-        # Pikiran sendiri, tindakan sendiri
-        gunakan_nalar_terbaik(peristiwa)
-        berbuat_baik_pada_sesama()
-        return "Eudaimonia (Kebahagiaan sejati)"
-        
-    else:
-        return "Kebingungan"
+| Kategori | Mencakup | Respons | Hasil |
+| --- | --- | --- | --- |
+| **Universal (Logos)** | Hukum alam, takdir, tindakan orang lain | Terima dan beradaptasi | *Ataraxia* (ketenangan batin) |
+| **Manusiawi (Rasional)** | Pikiran sendiri, tindakan sendiri | Gunakan nalar terbaik dan berbuat baik pada sesama | *Eudaimonia* (kebahagiaan sejati) |
 
-# Contoh penggunaan
-peristiwa_hari_ini = "Hujan deras saat akan piknik"
-status = hidup_selaras_dengan_alam(peristiwa_hari_ini, "Universal (Logos)")
-print(status)
-```
+Misalnya, hujan deras turun saat kamu akan piknik. Hujan termasuk kategori universal, jadi responsnya adalah menerima dan beradaptasi, dan hasilnya adalah ketenangan batin.
 
 ## Ringkasan untuk Diingat
 
@@ -56531,9 +55261,11 @@ Bagi kaum Stoik, emosi negatif seperti kemarahan yang meluap-luap, kecemasan yan
 
 Kaum Stoik memiliki model psikologi yang sangat canggih untuk menjelaskan bagaimana sebuah stimulus berubah menjadi emosi yang meledak. Proses ini dapat digambarkan melalui rumus sederhana berikut:
 
+<div>
 $$
 \text{Kesan (Impression)} + \text{Persetujuan (Assent)} = \text{Emosi}
 $$
+</div>
 
 Mari kita bedah komponennya:
 
@@ -56587,27 +55319,21 @@ Lihatlah hal-hal sebagaimana adanya, tanpa label nilai yang kita tempelkan.
 
 Tanyakan pada diri sendiri: *"Apakah hal ini benar-benar di bawah kendaliku? Apakah penilaianku bahwa ini ''buruk'' benar-benar akurat?"*
 
-## Algoritma Pengelola Emosi
+## Dua Pertanyaan Sebelum Bereaksi
 
-Jika kita memandang pikiran manusia seperti sebuah sistem operasi, kita bisa menggunakan struktur logika untuk memproses emosi sebelum ia menjadi *output* yang merusak.
+Seorang Stoik memeriksa sebuah peristiwa sebelum emosinya sempat menguasai dirinya. Saat peristiwa datang, ia mengajukan dua pertanyaan berurutan. Pertama, apakah peristiwa ini secara moral buruk, yaitu merusak karakter? Kalau ya, ambil tindakan perbaikan. Kalau tidak, berarti ini hanya masalah eksternal, misalnya macet, kritik orang, atau kehilangan uang. Lalu muncul pertanyaan kedua: apakah hal ini berada di luar kendali kamu? Kalau ya, bersikaplah netral (*indifferent*), dan hasilnya adalah ketenangan batin (*Ataraxia*). Kalau masih dalam kendali kamu, berikan respons yang rasional.
 
-```python
-# Pseudocode Proses Mental Stoik
-def proses_kejadian(peristiwa):
-    kesan = evaluasi_awal(peristiwa)
-    
-    # Apakah peristiwa ini secara moral buruk (merusak karakter)?
-    if kesan.is_bad_for_character == True:
-        ambil_tindakan_perbaikan()
-    else:
-        # Jika hanya masalah eksternal (macet, kritik orang, kehilangan uang)
-        status_kendali = cek_dikotomi_kendali(peristiwa)
-        
-        if status_kendali == "LUAR_KENDALI":
-            bersikap_indifferen()
-            return "Ketenangan Batin (Ataraxia)"
-            
-    return "Respon Rasional"
+Dua pertanyaan itu membentuk percabangan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Dua pertanyaan Stoik sebelum bereaksi
+    accDescr: Saat peristiwa datang, pertanyaan pertama adalah apakah peristiwa itu merusak karakter. Jika ya, ambil tindakan perbaikan. Jika tidak, itu hanya masalah eksternal, lalu pertanyaan kedua adalah apakah hal itu di luar kendali. Jika ya, bersikap netral dan hasilnya ketenangan batin atau Ataraxia. Jika masih dalam kendali, berikan respons yang rasional.
+    A["Peristiwa datang"] --> B{"Merusak karakter?"}
+    B -->|"ya"| C["Ambil tindakan perbaikan"]
+    B -->|"tidak, hanya masalah eksternal"| D{"Di luar kendali?"}
+    D -->|"ya"| E["Bersikap netral, hasilnya ketenangan batin (Ataraxia)"]
+    D -->|"tidak"| F["Berikan respons yang rasional"]
 ```
 
 ## Kritik Pedas dari Atasan
@@ -56702,28 +55428,17 @@ flowchart TD
     C --> D["Buat rencana cadangan mental"]
 ```
 
-## Algoritma Logika Stoik
+## Saat Kejadian Benar-Benar Datang
 
-Jika kita menerjemahkan *Premeditatio Malorum* ke dalam logika pemrograman untuk memproses emosi, maka bentuknya akan seperti ini:
+Latihan *Premeditatio Malorum* menentukan cara kamu memproses emosi ketika sebuah kejadian benar-benar terjadi. Ada tiga kemungkinan respons:
 
-```python
-def stoic_response(event, is_negative):
-    if is_negative:
-        # Apakah saya sudah mengantisipasi ini?
-        anticipated = premeditatio_malorum(event)
-        
-        if anticipated:
-            # Tetap tenang karena pikiran sudah "berlatih"
-            return "Saya sudah siap. Mari fokus pada solusi."
-        else:
-            # Pengingat untuk latihan di masa depan
-            return "Guncangan ini adalah pelajaran. Gunakan akal sehat."
-    else:
-        return "Nikmati dengan penuh kesadaran, karena ini tidak abadi."
+| Kejadian | Sudah kamu antisipasi? | Respons Stoik |
+| --- | --- | --- |
+| Negatif | Sudah | *"Saya sudah siap. Mari fokus pada solusi."* Kamu tetap tenang karena pikiran sudah berlatih. |
+| Negatif | Belum | *"Guncangan ini adalah pelajaran. Gunakan akal sehat."* Kejadian ini sekaligus menjadi pengingat untuk berlatih di masa depan. |
+| Bukan negatif | Tidak perlu ditanyakan | *"Nikmati dengan penuh kesadaran, karena ini tidak abadi."* |
 
-# Input: Kehilangan koneksi internet saat presentasi
-stoic_response("Internet mati", True)
-```
+Misalnya, koneksi internet kamu mati saat presentasi. Itu kejadian negatif, jadi pertanyaannya tinggal satu: sudahkah kamu mengantisipasinya?
 
 ## Penggunaan Praktis
 
@@ -56794,9 +55509,11 @@ Secara logis, menentang kenyataan adalah tindakan yang sia-sia dan melelahkan. S
 
 Dalam matematika emosional, kita bisa merumuskan penderitaan sebagai berikut:
 
+<div>
 $$
 \text{Penderitaan} = \text{Kejadian} \times \text{Perlawanan}
 $$
+</div>
 
 Jika $\text{Perlawanan} = 0$ (melalui Amor Fati), maka berapa pun besarnya $\text{Kejadian}$ yang menimpa, $\text{Penderitaan}$ akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
@@ -56812,27 +55529,9 @@ Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse 
 		2. **Mencari Kegunaan:** "Mungkin ini adalah kesempatan bagi saya untuk mengevaluasi kekurangan saya atau mencari peluang di tempat yang lebih menghargai saya."
 		3. **Mencintai Takdir:** "Saya bersyukur tidak mendapatkan promosi ini sekarang, karena ini memaksa saya untuk menjadi lebih tangguh dan kreatif. Ini adalah ujian yang saya perlukan."
 
-### "The Amor Fati Algorithm" (Untuk Pecinta Logika/Engineering)
+### Kamera Pecah di Tengah Perjalanan
 
-Jika kita menuliskan proses mental Amor Fati dalam bentuk *pseudo-code*, tampilannya akan seperti ini:
-
-```python
-def handle_event(event):
-    if event.is_desirable:
-        enjoy(event)
-    else:
-        # Terapkan Amor Fati
-        acknowledge_reality(event)
-        fuel = extract_growth_opportunity(event)
-        incorporate_to_strength(fuel)
-        print("This is exactly what I needed.")
-
-# Contoh:
-event = "Kamera pecah saat ingin mendokumentasikan perjalanan"
-handle_event(event) 
-# Output: "Sekarang saya terpaksa melihat dunia dengan mata sendiri, 
-# bukan lewat lensa. Ini adalah pelajaran tentang kehadiran (presence)."
-```
+Langkah yang sama juga bisa dipakai pada kejadian sehari-hari. Bayangkan kamera kamu pecah tepat saat ingin mendokumentasikan perjalanan. Kamu mengakui kenyataan itu, mencari peluang untuk tumbuh darinya, lalu menyerapnya menjadi kekuatan, sampai bisa berkata: *"Sekarang saya terpaksa melihat dunia dengan mata sendiri, bukan lewat lensa. Ini adalah pelajaran tentang kehadiran (presence)."*
 
 ## Aplikasi Nyata dalam Kehidupan
 
@@ -56852,7 +55551,7 @@ handle_event(event)
 
 ## Memento Mori
 
-Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori** ,frasa Latin yang berarti "Ingatlah bahwa engkau akan mati",adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
+Banyak orang menganggap bahwa memikirkan kematian adalah hal yang kelam, morbid, atau bahkan tabu. Namun, bagi para Stoik, **Memento Mori**, frasa Latin yang berarti "Ingatlah bahwa engkau akan mati", adalah salah satu alat mental yang paling kuat untuk menjalani hidup yang lebih bermakna, penuh kasih, dan fokus.
 
 Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk berputus asa, melainkan pengingat untuk tidak menyia-nyiakan waktu pada hal-hal yang tidak penting.
 
@@ -56860,7 +55559,7 @@ Bagi seorang Stoik, kesadaran bahwa hidup ini terbatas bukanlah alasan untuk ber
 
 Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektual**. Kita semua tahu secara logika bahwa kita akan mati, tetapi kita sering hidup seolah-olah kita memiliki waktu selamanya. Kita menunda kebahagiaan, menunda kata maaf, dan menghabiskan energi untuk kemarahan yang sepele.
 
-> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." , **Seneca**
+> "Bukan karena kita memiliki waktu yang singkat, tetapi karena kita menyia-nyiakan banyak waktu tersebut." (**Seneca**)
 
 ### Mengapa Ini Penting?
 
@@ -56872,18 +55571,19 @@ Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rat
 
 Misalkan:
 
-- $U_{\text{max}}$ = Ekspektasi umur (misal 80 tahun)
-- $U_{\text{sekarang}}$ = Usia kamu saat ini
-- $W_{\text{tidur}}$ = Waktu yang dihabiskan untuk tidur (sekitar $1/3$ hidup)
+- $U\_{\text{max}}$ = Ekspektasi umur (misal 80 tahun)
+- $U\_{\text{sekarang}}$ = Usia kamu saat ini
+- $W\_{\text{tidur}}$ = Waktu yang dihabiskan untuk tidur (sekitar $1/3$ hidup)
 
-Maka, waktu efektif yang tersisa ($W_{\text{sisa}}$) secara kasar adalah:
+Maka, waktu efektif yang tersisa ($W\_{\text{sisa}}$) secara kasar adalah:
 
+<div>
 $$
-
 W_{\text{sisa}} = (U_{\text{max}} - U_{\text{sekarang}}) \times \frac{2}{3}
 $$
+</div>
 
-Jika kamu berusia 30 tahun: $W_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
+Jika kamu berusia 30 tahun: $W\_{\text{sisa}} = (80 - 30) \times \frac{2}{3} = 33.3 \text{ tahun}$
 
 Angka ini terlihat banyak, namun jika kita memasukkan faktor kesehatan dan energi yang menurun seiring usia, waktu untuk benar-benar "hidup" dengan kapasitas penuh sangatlah terbatas.
 
@@ -56908,26 +55608,9 @@ Memento Mori berfungsi sebagai **filter keputusan**. Saat kamu dihadapkan pada s
 - **Tanpa Memento Mori:** kamu mengejar mobil tersebut, berteriak, dan membiarkan adrenalin merusak mood kamu sepanjang hari.
 - **Dengan Memento Mori:** kamu menyadari bahwa hidup ini terlalu singkat untuk dihabiskan dengan marah kepada orang asing. kamu memilih untuk memaafkan, fokus pada tujuan, dan menghargai fakta bahwa kamu masih bernapas.
 
-### Logika Pengambilan Keputusan (Pseudo-code)
+### Email Atasan yang Agak Kasar
 
-Secara teknis, kita bisa melihat Memento Mori sebagai fungsi filter dalam algoritma harian kita:
-
-```python
-def evaluasi_masalah(kejadian):
-    is_terminal_perspective = "Apakah ini penting di akhir hayat?"
-    
-    if kejadian.impact_on_virtue == False:
-        # Jika kejadian tidak merusak karakter/kebajikan kita
-        return "Abaikan, waktu terlalu berharga"
-    else:
-        # Jika ini tentang prinsip atau kasih sayang
-        return "Berikan perhatian penuh"
-
-# Contoh Kasus
-masalah_kantor = "Email atasan yang agak kasar"
-print(evaluasi_masalah(masalah_kantor)) 
-# Output: Abaikan, waktu terlalu berharga
-```
+Filter ini juga bisa memakai ukuran sederhana: apakah kejadian ini merusak karakter atau kebajikan kamu? Kalau tidak, abaikan, karena waktu terlalu berharga. Kalau kejadian itu menyangkut prinsip atau kasih sayang, berikan perhatian penuh. Email atasan yang agak kasar, misalnya, tidak merusak kebajikan kamu, jadi kamu bisa mengabaikannya.
 
 ## 5\. Latihan Meditasi Memento Mori
 
@@ -56959,7 +55642,7 @@ Pernahkah kamu membayangkan sebuah filosofi yang dipegang teguh oleh tiga orang 
 
 Meskipun status sosial mereka bagaikan bumi dan langit, ketiganya menarik kesimpulan yang sama tentang kehidupan melalui **Stoikisme**. Di bagian ini, kita akan mempelajari "Tiga Besar" Stoikisme Romawi yang pemikirannya tetap relevan hingga hari ini, ribuan tahun setelah mereka tiada.
 
-## 1\. Seneca (4 SM−65 M4 \\text{ SM} - 65 \\text{ M})
+## 1\. Seneca (4 SM - 65 M)
 
 Lucius Annaeus Seneca adalah sosok yang penuh kontras. Ia adalah salah satu orang terkaya di Roma, seorang dramawan terkenal, dan penasihat utama Kaisar Nero. Namun, ia juga seorang praktisi Stoikisme yang tekun.
 
@@ -56974,7 +55657,7 @@ Seneca sering kali dianggap sebagai "Stoik yang paling manusiawi" karena tulisan
 
 **Analogi Seneca:** Bayangkan hidup seperti sebuah perjamuan makan malam. Seorang Stoik seperti Seneca akan menikmati hidangan mewah jika tersedia, tetapi ia tidak akan menangis jika pelayan mengambil piringnya, karena ia tahu sejak awal bahwa hidangan itu bukan miliknya selamanya.
 
-## 2\. Epictetus (55 M−135 M55 \\text{ M} - 135 \\text{ M})
+## 2\. Epictetus (55 M - 135 M)
 
 Jika Seneca mengajarkan bagaimana tetap menjadi Stoik di tengah kekayaan, Epictetus mengajarkan bagaimana menjadi merdeka di tengah perbudakan. Ia lahir sebagai budak di Hierapolis dan memiliki kaki yang pincang akibat siksaan atau penyakit.
 
@@ -56988,7 +55671,7 @@ Bagi Epictetus, inti dari Stoikisme adalah memahami bahwa satu-satunya hal yang 
 
 > **Pesan Utama Epictetus:** "Bukan hal-hal yang terjadi pada kita yang mencemaskan kita, melainkan opini kita tentang hal-hal tersebut."
 
-## 3\. Marcus Aurelius (121 M−180 M121 \\text{ M} - 180 \\text{ M})
+## 3\. Marcus Aurelius (121 M - 180 M)
 
 Marcus Aurelius adalah pemimpin Kekaisaran Romawi di masa-masa sulit: wabah penyakit (Plague Antonine), perang terus-menerus di perbatasan, dan pengkhianatan orang terdekat. Di tengah tekanan itu, ia menulis catatan harian untuk dirinya sendiri yang sekarang kita kenal sebagai *Meditations* (Renungan).
 
@@ -57030,8 +55713,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57470,33 +56153,6 @@ Scrolling TikTok atau Instagram memberikan rentetan dopamin fasik yang cepat. Ha
 
 ---
 
-### Simulasi Logika (Sudut Pandang Engineering)
-
-Jika kita memodelkan sistem ini dalam sebuah fungsi sederhana di pemrograman, cara kerja motivasi akan terlihat seperti ini:
-
-```python
-class BrainDopamineSystem:
-    def __init__(self, baseline_tonic=50):
-        self.tonic_level = baseline_tonic  # Kondisi energi harian
-        self.current_motivation = baseline_tonic
-
-    def receive_stimulus(self, intensity):
-        # Dopamin Fasik terjadi
-        phasic_spike = intensity * 2
-        self.current_motivation += phasic_spike
-        print(f"Lonjakan Energi! Motivasi saat ini: {self.current_motivation}")
-        
-        # Efek samping: Penurunan baseline (Homeostasis)
-        self.tonic_level -= (intensity * 0.5)
-        print(f"Baseline baru setelah crash: {self.tonic_level}")
-
-# Contoh penggunaan
-my_brain = BrainDopamineSystem(baseline_tonic=100)
-my_brain.receive_stimulus(intensity=40) # Misal: Main game berlebihan
-```
-
----
-
 ### Strategi Meningkatkan Baseline Tonik secara Sehat
 
 Bukan lonjakan fasik yang kita cari untuk kebahagiaan jangka panjang, melainkan **baseline tonik yang tinggi dan stabil**. Berikut caranya:
@@ -57645,7 +56301,7 @@ Video game modern, terutama yang bergenre kompetitif atau *mobile games*, menggu
 
 ### Dampak pada Perilaku
 
-Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}_{\text{Actual}}$ sering kali melampaui $\text{Reward}_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
+Hal ini menciptakan kondisi di mana otak terus-menerus berada dalam fase *wanting* (menginginkan). Di dalam dunia game, $\text{Reward}\_{\text{Actual}}$ sering kali melampaui $\text{Reward}\_{\text{Expected}}$, memicu sirkuit dopamin secara berlebihan dibandingkan dengan pencapaian di dunia nyata yang membutuhkan waktu lama (seperti belajar atau bekerja).
 
 ## 3. Makanan Cepat Saji (Hyper-palatable Foods)
 
@@ -57666,9 +56322,11 @@ Akibatnya, kita mengalami **Hyperbolic Discounting**, sebuah fenomena psikologis
 
 Secara matematis, nilai yang dirasakan ($V$) dari sebuah imbalan dapat digambarkan dengan rumus:
 
+<div>
 $$
 V = \frac{A}{1 + kD}
 $$
+</div>
 
 Di mana:
 
@@ -58381,8 +57039,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58675,17 +57333,7 @@ Keterampilan ini berkaitan dengan menciptakan dan mempertahankan kondisi belajar
 
 **Contoh Logika Pengelolaan Kelas:**
 
-```python
-if siswa_mulai_gaduh:
-    lakukan_kontak_mata()
-    berhenti_berbicara_sejenak()
-    if gaduh_berlanjut:
-        tegur_halus_dengan_nama_siswa()
-else:
-    lanjutkan_pembelajaran()
-```
-
-Bagi kamu yang tidak terbiasa membaca kode, logika yang sama dapat diikuti lewat alur keputusan di bawah.
+Saat siswa mulai gaduh, guru lebih dulu melakukan kontak mata dan berhenti berbicara sejenak. Jika kegaduhan berlanjut, guru menegur siswa dengan halus sambil menyebut namanya. Jika siswa tidak gaduh, pembelajaran dilanjutkan seperti biasa. Percabangan tindakan guru tersebut tergambar pada alur keputusan di bawah.
 
 ```mermaid
 flowchart TD
@@ -58717,7 +57365,7 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 **Skenario:** Pak Budi mengajar IPA tentang fotosintesis.
 
 1. **Membuka:** Pak Budi membawa tanaman layu dan tanaman segar sebagai pemancing (*Menarik Perhatian*).
-2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: $6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2$.
+2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: $6\text{CO}\_2 + 6\text{H}\_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}\_6\text{H}\_{12}\text{O}\_6 + 6\text{O}\_2$.
 3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
 4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
 5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).
@@ -58783,12 +57431,17 @@ Ini adalah jantung dari RPP Mikro. Kamu harus membagi waktu secara presisi:
 
 Dalam menyusun RPP Mikro, manajemen waktu adalah segalanya. Kita bisa menggunakan pendekatan proporsional untuk membagi durasi mengajar:
 
-Jika total waktu adalah $\text{T}_{\text{total}} = 15$ menit, maka pembagian idealnya adalah:
+Jika total waktu adalah $\text{T}\_{\text{total}} = 15$ menit, maka pembagian idealnya adalah:
 
-- **Pendahuluan ($P$):** $20\text{\%} \times \text{T}_{\text{total}} = 3$ menit
-- **Inti ($I$):** $65\text{\%} \times \text{T}_{\text{total}} = 9.75 \approx 10$ menit
-- **Penutup ($K$):** $15\text{\%} \times \text{T}_{\text{total}} = 2.25 \approx 2$ menit
-   $$\text{T}_{\text{total}} = P + I + K$$
+- **Pendahuluan ($P$):** $20\text{\%} \times \text{T}\_{\text{total}} = 3$ menit
+- **Inti ($I$):** $65\text{\%} \times \text{T}\_{\text{total}} = 9.75 \approx 10$ menit
+- **Penutup ($K$):** $15\text{\%} \times \text{T}\_{\text{total}} = 2.25 \approx 2$ menit
+
+  <div>
+  $$
+  \text{T}_{\text{total}} = P + I + K
+  $$
+  </div>
 
 *Kalkulasi Manajemen Waktu: Keterlambatan durasi selama 2 menit pada bagian pendahuluan mengakibatkan kehilangan sekitar 20% porsi waktu kegiatan inti. Penyesuaian ritme mengajar menjadi krusial agar kualitas pemahaman siswa tetap terjaga.*
 
@@ -58814,7 +57467,7 @@ Mari kita ikuti prosedur langkah-demi-langkah ini untuk memastikan tidak ada yan
 | Waktu | Tahapan | Aktivitas Guru (KDM Terintegrasi) |
 | --- | --- | --- |
 | 0-2'' | Pendahuluan | Menunjukkan segelas air dan telur. **(Variasi Stimulus)**. Bertanya: "Mengapa telur ini tenggelam?" |
-| 2-8'' | Inti | Menjelaskan konsep gaya apung menggunakan rumus $F_a = \rho \cdot g \cdot V_{\text{bf}}$. Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
+| 2-8'' | Inti | Menjelaskan konsep gaya apung menggunakan rumus $F\_a = \rho \cdot g \cdot V\_{\text{bf}}$. Mendemonstrasikan penambahan garam ke air. **(Keterampilan Menjelaskan)**. |
 | 8-10'' | Penutup | Meminta satu siswa menyimpulkan hubungan massa jenis zat cair dengan posisi benda. Memberikan apresiasi. |
 
 ## 6. Mengapa Perencanaan Mikro itu Penting?
@@ -59705,8 +58358,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59750,7 +58403,7 @@ Fungsi yang paling jelas adalah mencegah tubuh terjatuh. Otak menerima sinyal ko
 
 #### B. Orientasi Spasial terhadap Gravitasi
 
-Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk mendeteksi gaya gravitasi bumi ($g \approx 9.8 \, \text{m/s}^2$). Hal ini memungkinkan kita untuk memiliki persepsi "atas" dan "bawah" yang absolut, bahkan tanpa bantuan visual.
+Sistem vestibular adalah satu-satunya indra yang secara khusus dirancang untuk mendeteksi gaya gravitasi bumi ($g \approx 9.8 \text{ m/s}^2$). Hal ini memungkinkan kita untuk memiliki persepsi "atas" dan "bawah" yang absolut, bahkan tanpa bantuan visual.
 
 > **Insight Penting:** Tanpa sistem vestibular, manusia akan merasa melayang tanpa arah saat menutup mata, kehilangan kemampuan untuk menentukan orientasi tubuh terhadap permukaan bumi.
 
@@ -59947,11 +58600,9 @@ Bagaimana gerakan putar kepala berubah menjadi sinyal listrik di otak? Proses in
 Secara matematis, respon kanalis semisirkularis terhadap akselerasi sudut ($\alpha$) dapat digambarkan melalui hukum kedua Newton untuk rotasi. Besarnya torsi ($\tau$) yang bekerja pada endolimfe sebanding dengan inersia cairan dan akselerasi kepala:
 
 <div>
-
 $$
 \tau = I \cdot \alpha
 $$
-
 </div>
 
 Dimana:
@@ -59962,11 +58613,9 @@ Dimana:
 Sistem ini bekerja paling efektif untuk mendeteksi **akselerasi sudut** (perubahan kecepatan putar), bukan kecepatan konstan. Sinyal yang dikirim ke otak mewakili:
 
 <div>
-
 $$
 \text{Sinyal Saraf} \propto \text{Kecepatan Sudut Kepala}
 $$
-
 </div>
 
 ### 5. Prinsip "Push-Pull" (Dorong-Tarik)
@@ -59983,31 +58632,26 @@ Saat kepala berputar ke kanan:
 
 Otak membandingkan perbedaan input dari kedua sisi ini. Jika ada ketidaksesuaian (misalnya karena infeksi pada satu sisi), otak akan mengalami kebingungan sinyal dan timbullah gejala **vertigo**.
 
-### 6. Simulasi Sensorik
+### 6. *Firing Rate* Saat Kepala Menoleh
 
-Dalam teknik robotika dan pengembangan *Virtual Reality* (VR), prinsip kanalis semisirkularis ditiru menggunakan sensor yang disebut **Gyroscope**.
+Dalam teknik robotika dan pengembangan *Virtual Reality* (VR), prinsip kanalis semisirkularis ditiru menggunakan sensor yang disebut **Gyroscope**. Gyroscope mengukur kecepatan sudut, dan pada saraf vestibular besaran yang sama tampil sebagai perubahan *firing rate*.
 
-Berikut adalah contoh sederhana dalam Python bagaimana representasi perubahan *firing rate* (frekuensi detak) saraf vestibular diproses berdasarkan kecepatan sudut kepala:
+Perubahan *firing rate* (frekuensi detak) saraf vestibular terhadap kecepatan sudut kepala bisa digambarkan dengan model sederhana. Saraf punya laju istirahat, lalu putaran ke arah sensor menambah laju itu dan putaran ke arah lawan menguranginya, sebanding dengan kecepatan sudutnya. Hasilnya dibatasi agar tidak pernah kurang dari nol.
 
-```python
-def calculate_vestibular_firing_rate(angular_velocity, base_rate=90, sensitivity=0.5):
-    """
-    Menghitung firing rate saraf vestibular (simulasi sederhana).
-    
-    angular_velocity: derajat per detik (positif ke satu arah, negatif ke arah lain)
-    base_rate: frekuensi istirahat saraf (spikes per second)
-    sensitivity: seberapa responsif saraf terhadap gerakan
-    """
-    # Firing rate meningkat saat berputar ke arah sensor, menurun ke arah lawan
-    firing_rate = base_rate + (sensitivity * angular_velocity)
-    
-    # Memastikan firing rate tidak negatif
-    return max(0, firing_rate)
+<div>
+$$
+\text{Firing rate} = \text{laju istirahat} + \text{sensitivitas} \times \text{kecepatan sudut}
+$$
+</div>
 
-# Skenario: Kepala mendadak menoleh ke kanan dengan kecepatan 60 deg/s
-print(f"Firing Rate Kanan: {calculate_vestibular_firing_rate(60)} spikes/s")
-print(f"Firing Rate Kiri: {calculate_vestibular_firing_rate(-60)} spikes/s")
-```
+Dengan angka ilustrasi, misalkan laju istirahatnya 90 *spikes* per detik dan sensitivitasnya 0,5 *spikes* per detik untuk setiap derajat per detik. Saat kepala mendadak menoleh ke kanan dengan kecepatan 60°/s, putaran yang sama tercatat positif bagi kanalis horizontal kanan dan negatif bagi kanalis horizontal kiri:
+
+| Kanalis horizontal | Kecepatan sudut yang dirasakan | Perhitungan | *Firing rate* |
+| --- | --- | --- | --- |
+| Kanan | +60°/s | 90 + 0,5 × 60 | 120 *spikes*/s |
+| Kiri | -60°/s | 90 + 0,5 × (-60) | 60 *spikes*/s |
+
+Sisi kanan naik dan sisi kiri turun dari laju istirahat yang sama, persis pola *push-pull* pada bagian 5. Perbedaan kedua angka inilah yang dibandingkan oleh otak.
 
 **Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
 
@@ -60293,11 +58937,15 @@ Di persimpangan batang otak ini, serat aferen primer memasuki **Kompleks Nukleus
 ### Ringkasan Alur Informasi
 
 <div>
-
 $$
-\text{Sel Rambut} \xrightarrow{\text{Sinaps}} \text{Neuron Bipolar (Ganglion Scarpa)} \xrightarrow{\text{N. Vestibularis}} \text{Batang Otak (Nukleus Vestibularis)}
+\text{Sel Rambut} \xrightarrow{\text{Sinaps}} \text{Neuron Bipolar (Ganglion Scarpa)}
 $$
+</div>
 
+<div>
+$$
+\xrightarrow{\text{N. Vestibularis}} \text{Batang Otak (Nukleus Vestibularis)}
+$$
 </div>
 
 **Poin Kunci:**
@@ -60759,6 +59407,15 @@ Terjadi segera setelah cedera (jam hingga hari). Tujuannya adalah menghilangkan 
 - **Restorasi Simetri Bioelektrik:** Saat satu sisi rusak, terjadi ketidakseimbangan aktivitas saraf antara nukleus vestibularis kiri dan kanan. Otak menggunakan mekanisme **plastisitas sinaptik** untuk menyeimbangkan kembali tingkat penembakan (*firing rate*) saraf tersebut.
 - **Peran GABA dan Glutamat:** Otak mengatur ulang reseptor neurotransmitter. Jika satu sisi terlalu lemah, otak akan menurunkan inhibisi ($\text{GABA}$) di sisi tersebut agar lebih sensitif terhadap sisa input yang ada.
 
+Restorasi simetri ini bisa dibayangkan lewat angka ilustrasi berikut. Misalkan saraf vestibular kanan rusak sehingga aktivitas sisi kanan jatuh ke 0 Hz, sementara sisi kiri yang sehat tetap 100 Hz.
+
+| Fase | Aktivitas sisi kiri (sehat) | Aktivitas sisi kanan (rusak) | Selisih kiri dan kanan | Keadaan |
+| --- | --- | --- | --- | --- |
+| Awal kerusakan | 100 Hz | 0 Hz | 100 Hz | Vertigo akut |
+| Setelah kompensasi | 60 Hz | 40 Hz | 20 Hz | Keseimbangan terjaga |
+
+Sisi kiri diturunkan (*downregulation*), sedangkan sisi kanan naik lagi (*upregulation*) lewat aktivitas intrinsik nukleus vestibularis, bukan karena organnya sembuh. Yang dipulihkan otak adalah keseimbangan kedua sisi, sehingga selisihnya mengecil dari 100 Hz menjadi 20 Hz.
+
 #### B. Kompensasi Dinamis (Pemulihan Saat Bergerak)
 
 Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandangan tetap stabil saat kepala bergerak (kalibrasi ulang Refleks Vestibulo-Okular atau VOR).
@@ -60773,21 +59430,17 @@ Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandanga
 Dalam pemulihan VOR, kita sering melihat perubahan pada **Gain** (rasio kecepatan gerakan mata terhadap kecepatan gerakan kepala). Secara matematis, idealnya:
 
 <div>
-
 $$
 \text{Gain} = \frac{V_{\text{mata}}}{V_{\text{kepala}}} = 1.0
 $$
-
 </div>
 
 Setelah kerusakan unilateral, *gain* bisa turun menjadi $0.5$. Melalui plastisitas di serebelum (otak kecil), otak akan mencoba meningkatkan efisiensi sinapsis agar *gain* mendekati $1.0$ kembali melalui mekanisme:
 
 <div>
-
 $$
 \Delta W_{\text{synapse}} = \eta \cdot (\text{Error})
 $$
-
 </div>
 
 Di mana perubahan kekuatan sinapsis ($\Delta W$) bergantung pada sinyal kesalahan (*error*) yang diterima dari penglihatan yang kabur.
@@ -60814,27 +59467,6 @@ Seorang pasien mengalami kerusakan saraf vestibular kanan. Pasien merasa dunia b
 #### Mengapa Gerak Itu Penting?
 
 Jika pasien hanya berbaring di tempat tidur karena takut pusing, otak tidak akan pernah menerima input kesalahan yang diperlukan untuk belajar. **Gerakan adalah pemicu utama neuroplastisitas.**
-
-```python
-# Simulasi Logika Kompensasi Sederhana dalam Otak
-input_vestibular_kiri = 100  # Normal (Hz)
-input_vestibular_kanan = 0   # Rusak (Hz)
-
-def proses_otak(kiri, kanan):
-    asimetri = abs(kiri - kanan)
-    if asimetri > 50:
-        return "Vertigo Akut: Segera aktifkan plastisitas!"
-    else:
-        return "Keseimbangan Terjaga: Kompensasi berhasil."
-
-# Fase Awal Kerusakan
-print(proses_otak(input_vestibular_kiri, input_vestibular_kanan))
-
-# Setelah Proses Neuroplastisitas (Downregulation sisi sehat / Upregulation sisi sakit)
-input_kiri_dikompensasi = 60 
-input_kanan_dikompensasi = 40 # Melalui aktivitas intrinsik nukleus
-print(proses_otak(input_kiri_dikompensasi, input_kanan_dikompensasi))
-```
 
 ### 6. Faktor yang Mempengaruhi Kecepatan Kompensasi
 
@@ -60968,8 +59600,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61038,7 +59670,7 @@ Pemikir kritis mampu mendengarkan argumen yang berseberangan dengan keyakinan pr
 
 ### 4. Skeptisisme yang Sehat
 
-Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian sebelum ada bukti memadai. Pola pikir ini menggunakan prinsip logika dasar: jika $P \\rightarrow Q$ (jika ada asap, maka ada api), pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut sebelum menyimpulkan adanya api.
+Skeptis bukan berarti menolak percaya pada apa pun, melainkan menunda penilaian sebelum ada bukti memadai. Pola pikir ini menggunakan prinsip logika dasar: jika $P \rightarrow Q$ (jika ada asap, maka ada api), pemikir kritis akan memastikan terlebih dahulu apakah itu benar-benar asap atau sekadar kabut sebelum menyimpulkan adanya api.
 
 ### 5. Ketelitian dan Akurasi
 
@@ -61107,9 +59739,12 @@ Dalam deduksi, sebuah argumen bisa **Valid** secara struktur tetapi **Salah** se
 
 - **Argumen Valid** terjadi ketika strukturnya benar (Jika A=B dan B=C, maka A=C).
 - **Argumen Sound (Sahih)** terwujud jika strukturnya benar **dan** semua premis penyusunnya terbukti secara faktual benar.
+
+<div>
 $$
 \text{Validitas} + \text{Kebenaran Premis} = \text{Soundness}
 $$
+</div>
 
 ## 2\. Penalaran Induktif
 
@@ -61153,31 +59788,17 @@ Seorang Software Engineer menggunakan kedua logika ini untuk memperbaiki *bug*:
    
 2. **Proses Deduktif (Menguji Hipotesis)**
    Setelah menemukan pola tersebut, kamu menyusun premis deduktif untuk memvalidasi masalah:
-   - *Premis Mayor*: Jika fungsi `saveData()` tidak memiliki blok `try-catch` untuk menangani timeout, aplikasi pasti akan crash saat koneksi lambat.
-   - *Premis Minor*: Kode yang saat ini berjalan terbukti tidak memiliki penanganan `try-catch` tersebut.
+   - *Premis Mayor*: Jika fungsi penyimpanan data tidak memiliki penanganan galat untuk kondisi timeout, aplikasi pasti akan crash saat koneksi lambat.
+   - *Premis Minor*: Fungsi penyimpanan data di aplikasi yang sedang berjalan terbukti tidak memiliki penanganan galat tersebut.
    - *Konklusi*: Oleh karena itu, aplikasi dipastikan akan crash setiap kali timeout terjadi.
 
-### Implementasi Kode (Pseudo-code Logika Deduktif)
+### Silogisme di Balik Hak Akses
 
-Dalam pemrograman, struktur `if-else` adalah bentuk murni dari logika deduktif:
+Saat memeriksa hak akses, sebuah aplikasi juga menarik kesimpulan deduktif dari satu aturan umum dan data penggunanya. Misalnya, Budi masuk dengan peran editor:
 
-```python
-def check_access(user):
-    # Premis: Hanya admin yang punya akses (Aturan Umum)
-    is_admin = user.role == ''admin''
-    
-    # Logika Deduktif:
-    # Jika user adalah admin -> Berikan akses
-    # Jika bukan -> Tolak akses
-    if is_admin:
-        return "Access Granted"
-    else:
-        return "Access Denied"
-
-# Kasus Spesifik (Premis Minor)
-current_user = {"name": "Budi", "role": "editor"}
-print(check_access(current_user)) # Output: Access Denied
-```
+- **Premis Mayor**: Hanya pengguna berperan admin yang mendapat akses.
+- **Premis Minor**: Budi berperan editor, bukan admin.
+- **Konklusi**: Jadi, akses Budi ditolak.
 
 ## 5\. Kekuatan dan Keterbatasan
 
@@ -61214,7 +59835,13 @@ Premis adalah pernyataan yang memberikan alasan, bukti, atau data untuk mendukun
 
 Konklusi adalah pernyataan akhir yang ingin kamu buktikan. Ini adalah inti dari pesanmu. Konklusi menjawab pertanyaan: *"Apa poin utama yang ingin kamu sampaikan?"*
 
-Secara matematis sederhana, struktur argumen dapat digambarkan sebagai berikut: $\\text{Premis}_1 + \\text{Premis}_2 + \\dots + \\text{Premis}_n \\rightarrow \\text{Konklusi}$
+Secara matematis sederhana, struktur argumen dapat digambarkan sebagai berikut:
+
+<div>
+$$
+\text{Premis}_1 + \text{Premis}_2 + \dots + \text{Premis}_n \rightarrow \text{Konklusi}
+$$
+</div>
 
 > **Catatan:** Sebuah argumen yang kuat adalah argumen di mana jika semua premisnya benar, maka konklusinya sangat sulit (atau tidak mungkin) untuk salah.
 
@@ -61273,30 +59900,9 @@ Seorang manajer TI ingin meyakinkan perusahaan untuk beralih ke *cloud computing
 - **Premis 3:** Cloud computing memfasilitasi akses data jarak jauh secara real-time. (Fakta Teknis)
 - **Konklusi:** Perusahaan harus segera beralih ke sistem cloud. (Tindakan yang diusulkan)
 
-## 5\. Analisis Argumen dalam Coding
+Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misalnya biaya perawatan cloud ternyata tidak lebih murah, argumen untuk pindah menjadi tidak cukup kuat dan perusahaan punya alasan untuk tetap memakai sistem lama.
 
-Dalam dunia pemrograman dan rekayasa perangkat lunak, struktur premis dan konklusi mirip dengan struktur *conditional logic*.
-
-```python
-# Analogi Struktur Argumen dalam Kode
-
-def evaluasi_keputusan(biaya_perawatan, butuh_remote):
-    # Premis 1: Biaya lebih murah
-    premis_1 = biaya_perawatan < 0.7  # (diskon 30%)
-    
-    # Premis 2 & 3: Kebutuhan operasional
-    premis_2_dan_3 = butuh_remote == True
-    
-    # Evaluasi Argumen (Logical AND)
-    if premis_1 and premis_2_dan_3:
-        return "Konklusi: Migrasi ke Cloud sekarang!"
-    else:
-        return "Konklusi: Tetap gunakan sistem lama, argumen tidak cukup kuat."
-
-# Output didasarkan pada kebenaran premis yang diberikan
-```
-
-## 6\. Latihan Mandiri
+## 5\. Latihan Mandiri
 
 Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
 
@@ -61386,14 +59992,14 @@ Pernyataan ini keliru karena popularitas seorang aktor di dunia seni peran tidak
 Secara teknis, dalam logika formal, kita bisa melihat sesat pikir sebagai kesalahan dalam struktur. Salah satu yang paling umum adalah **Affirming the Consequent** (Mengafirmasi Konsekuensi).
 
 Dalam logika yang valid (Modus Ponens):
-- Premis 1: $P \\rightarrow Q$ (Jika hujan, maka jalanan basah)
+- Premis 1: $P \rightarrow Q$ (Jika hujan, maka jalanan basah)
 - Premis 2: $P$ (Ternyata hujan)
-- Kesimpulan: $\\therefore Q$ (Maka, jalanan pasti basah) - **VALID**
+- Kesimpulan: $\therefore Q$ (Maka, jalanan pasti basah) - **VALID**
 
 Dalam sesat pikir (Mengafirmasi Konsekuensi):
-- Premis 1: $P \\rightarrow Q$ (Jika hujan, maka jalanan basah)
+- Premis 1: $P \rightarrow Q$ (Jika hujan, maka jalanan basah)
 - Premis 2: $Q$ (Jalanan basah)
-- Kesimpulan: $\\therefore P$ (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
+- Kesimpulan: $\therefore P$ (Maka, pasti tadi hujan) - **TIDAK VALID (SESAT PIKIR)**
 
 *Mengapa tidak valid? Karena jalanan bisa saja basah akibat hal lain, misalnya sedang disiram air oleh warga atau ada pipa saluran air yang bocor.*
 
@@ -61427,7 +60033,7 @@ Jika kamu menyadari lawan bicaramu menggunakan sesat pikir, jangan terpancing em
 Untuk mengasah kepekaanmu, amatilah satu sesi diskusi atau perdebatan di ruang publik (seperti media sosial atau berita televisi). Petakan sesat pikir yang terjadi dengan menjawab pertanyaan berikut:
 
 1. Identifikasi apakah ada pihak yang menyerang pribadi lawan bicara, bukan substansi argumennya.
-2. Temukan klaim yang digelembungkan hingga terasa berlebihan or tidak rasional.
+2. Temukan klaim yang digelembungkan hingga terasa berlebihan atau tidak rasional.
 3. Rancang versi perbaikan argumen tersebut agar terbebas dari bias logika.
 
 > **Catatan Penting:** Memahami jenis-jenis sesat pikir bukan bertujuan agar kamu bisa memenangkan perdebatan dengan melabeli orang lain secara sembarangan. Tujuan utamanya adalah agar kamu bisa **berpikir lebih jernih** serta mampu menyusun argumen kokoh yang berpijak pada kebenaran, bukan pada manipulasi.
@@ -61487,9 +60093,11 @@ Sekali angka atau informasi diletakkan di atas meja, otak kita cenderung menyesu
 
 Angka USD 2.000 adalah **jangkar**. Tanpa angka itu, kamu mungkin akan berpikir USD 500 sangat mahal untuk sebuah jam tangan. Namun, dengan adanya jangkar tersebut, USD 500 terlihat seperti sebuah keberuntungan atau penghematan besar.
 
+<div>
 $$
 \text{Nilai yang Dirasakan} = \text{Harga Jangkar} - \text{Harga Aktual}
 $$
+</div>
 
 Jika $\text{Harga Jangkar}$ sangat tinggi, maka $\text{Nilai yang Dirasakan}$ akan menjadi positif secara psikologis, terlepas dari nilai intrinsik barang tersebut.
 
@@ -61511,26 +60119,13 @@ Seorang penjual yang pintar akan memberikan harga pertama yang sangat tinggi (An
 
 #### 2. Dalam Rekrutmen Karyawan
 
-Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mereka menyukai kandidat tersebut, mereka cenderung hanya menanyakan pertanyaan yang membuktikan bahwa kandidat itu bagus, and mengabaikan "red flags" yang muncul kemudian.
+Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mereka menyukai kandidat tersebut, mereka cenderung hanya menanyakan pertanyaan yang membuktikan bahwa kandidat itu bagus, dan mengabaikan "red flags" yang muncul kemudian.
 
 #### 3. Dalam Penulisan Kode (Engineering)
 
 Seorang programmer mungkin terkena bias konfirmasi saat melakukan *debugging*. Mereka yakin letak kesalahannya ada di modul A, sehingga mereka terus memeriksa modul A berkali-kali dan mengabaikan kemungkinan bahwa masalah sebenarnya ada di modul B yang sangat sederhana.
 
-```python
-# Contoh simulasi bias konfirmasi dalam logika sederhana
-def check_logic(input_val):
-    # Programmer sangat yakin input_val harus positif
-    # (Bias: Hanya mengetes skenario positif)
-    if input_val > 0:
-        return "System OK"
-    else:
-        # Bagian ini jarang dites karena programmer "yakin" input selalu benar
-        return "Error Unhandled" 
-
-# Berpikir kritis berarti mengetes skenario yang membuktikan kita SALAH
-print(check_logic(-1)) # Melawan bias konfirmasi
-```
+Berpikir kritis di sini berarti sengaja menguji skenario yang bisa membuktikan dugaan mereka salah. Programmer yang yakin sebuah input selalu bernilai positif, misalnya, perlu mencoba memasukkan angka negatif, bukan hanya mengulang uji yang pasti lolos.
 
 ### Cara Memitigasi Bias Kognitif
 
@@ -61572,7 +60167,12 @@ Untuk menyimpulkan bahwa $A$ menyebabkan $B$, para pemikir kritis dan peneliti b
 1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika $B$ sudah terjadi sebelum $A$ muncul, maka $A$ mustahil menjadi penyebab bagi $B$.
 2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila $A$ berubah, $B$ juga harus menunjukkan perubahan yang terukur.
 3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor $C$, yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan $A$ dan $B$ secara bersamaan.
-   $$A \rightarrow B \text{ (Hanya jika faktor } C, D, \text{ dan } E \text{ sudah ditiadakan)}$$
+
+   <div>
+   $$
+   A \rightarrow B \text{ (Hanya jika faktor } C, D, \text{ dan } E \text{ sudah ditiadakan)}
+   $$
+   </div>
 
 ## 3. Kompleksitas Causal Chain (Rantai Kausalitas)
 
@@ -61631,23 +60231,11 @@ Dalam menarik kesimpulan, ada beberapa kesalahan berpikir (*logical fallacies*) 
 
 ## 5. Skenario Aplikasi Praktis
 
-### Rekayasa Perangkat Lunak & Programming (Debugging)
+### Server yang Mati Setiap Tengah Malam
 
-Dalam dunia rekayasa perangkat lunak, seorang *engineer* sering memanfaatkan metode **"The 5 Whys"** untuk melacak akar masalah (*root cause*) dari kegagalan sistem.
+Dalam dunia rekayasa perangkat lunak, seorang *engineer* sering memanfaatkan metode **"The 5 Whys"** untuk melacak akar masalah (*root cause*) dari kegagalan sistem. Dalam pelacakan itu, ia tetap harus memisahkan korelasi dari sebab yang terbukti.
 
-```python
-def check_system_failure(error_log):
-    # Analisis Korelasi:
-    # 1. Server mati setiap pukul 00.00.
-    # 2. Pembaruan (update) otomatis berjalan setiap pukul 00.00.
-    
-    # Hipotesis Kausalitas:
-    # Pembaruan otomatis memakan memori terlalu besar (sebab) -> Crash (akibat)
-    
-    if "memory_limit_exceeded" in error_log:
-        return "Root cause found: Optimization needed in update script"
-    return "Correlation found, but causality not confirmed"
-```
+Misalnya, sebuah server selalu mati setiap pukul 00.00, dan pada jam yang sama pembaruan (*update*) otomatis juga berjalan. Sejauh ini, yang ditemukan baru korelasi. Dari sana, *engineer* menyusun hipotesis kausal: pembaruan otomatis memakan memori terlalu besar (sebab) sehingga server *crash* (akibat). Hipotesis itu baru menguat jika catatan galat (*error log*) memuat pesan bahwa batas memori terlampaui. Jika pesan itu ada, akar masalahnya kemungkinan besar ditemukan dan proses pembaruannya perlu dioptimalkan. Jika tidak ada, yang tersisa hanyalah korelasi, sedangkan hubungan sebab-akibatnya belum terkonfirmasi.
 
 ### Formulasi Kebijakan Publik
 
@@ -61693,7 +60281,7 @@ Untuk menilai bukti secara teknis, kita menggunakan dua parameter utama:
 - **Validity (Validitas):** Apakah data tersebut benar-benar mengukur apa yang seharusnya diukur?
 - **Reliability (Reliabilitas):** Jika pengukuran diulang dalam kondisi yang sama, apakah hasilnya konsisten?
 
-Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$ Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
+Dalam statistik, kita sering melihat nilai signifikansi untuk menentukan apakah bukti tersebut kuat secara matematis: $p < 0.05$. Artinya, probabilitas bahwa hasil tersebut terjadi karena kebetulan adalah kurang dari 5%.
 
 ## 2. Kredibilitas Sumber dan Metode CRAAP
 
@@ -61742,27 +60330,11 @@ Dalam dunia teknik atau data science, evaluasi bukti sering kali melibatkan peme
 
 ### Memverifikasi Integritas File
 
-Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipulasi saat transmisi? Kita menggunakan fungsi *hashing*.
+Jika kamu mengunduh data riset, bagaimana kamu tahu data tersebut tidak dimanipulasi saat transmisi? Caranya dengan memeriksa *hash*, yaitu deretan karakter yang dihitung dari seluruh isi file. Langkahnya ada tiga:
 
-```python
-import hashlib
-
-def verify_data_integrity(file_path, original_hash):
-    sha256_hash = hashlib.sha256()
-    with open(file_path, "rb") as f:
-        # Membaca file dalam blok untuk efisiensi memori
-        for byte_block in iter(lambda: f.read(4096), b""):
-            sha256_hash.update(byte_block)
-    
-    current_hash = sha256_hash.hexdigest()
-    if current_hash == original_hash:
-        return "Data Valid: Integritas Terjamin"
-    else:
-        return "Data Tidak Valid: Ada kemungkinan manipulasi!"
-
-# Contoh penggunaan
-# print(verify_data_integrity("data_riset.csv", "e3b0c4429..."))
-```
+1. **Siapkan hash asli.** Ambil nilai *hash* asli dari sumber data tersebut.
+2. **Hitung hash file unduhanmu.** Hitung *hash* file yang kamu terima dengan algoritma SHA-256.
+3. **Bandingkan keduanya.** Jika kedua nilai sama persis, integritas data terjamin. Jika berbeda, ada kemungkinan data telah dimanipulasi.
 
 ### Deteksi Bias dalam Dataset (AI/ML)
 
@@ -61869,7 +60441,7 @@ Retorika yang manipulatif bekerja dengan cara **mempercantik dekorasi sehingga k
 
 > Retorika adalah lapisan gula pada pil yang pahit. Jika lapisan gulanya cukup tebal, kamu akan menelan pil tersebut tanpa pernah menyadari bahwa di dalamnya terdapat racun atau obat yang tidak berguna.
 
-Dalam logika formal, sebuah argumen harus valid secara struktur: $P \\rightarrow Q$, $P$, dan $\\therefore Q$.
+Dalam logika formal, sebuah argumen harus valid secara struktur: $P \rightarrow Q$, $P$, dan $\therefore Q$.
 
 Namun, dalam retorika, pembicara mungkin berkata: *"Jika kita mencintai tanah air (P), maka kita harus mendukung kebijakan ini (Q). Kamu mencintai tanah air, bukan?"*
 
@@ -61965,8 +60537,8 @@ $$
 
 Dimana:
 
-- $w_i$ = Bobot kriteria ke-$i$
-- $r_i$ = Rating solusi untuk kriteria ke-$i$
+- $w\_i$ = Bobot kriteria ke-$i$
+- $r\_i$ = Rating solusi untuk kriteria ke-$i$
 
 **Contoh Matriks Keputusan:**
 
@@ -62015,27 +60587,6 @@ Bayangkan kamu adalah seorang *Site Reliability Engineer* (SRE). Situs web perus
    - **Opsi C**: Mengalihkan rute trafik ke penyedia CDN cadangan yang siap pakai.
 4. **Keputusan**: Menggunakan Matriks Keputusan, opsi C dipilih karena menyeimbangkan kecepatan pemulihan dan pengalaman pengguna.
 5. **Implementasi**: Mengubah konfigurasi DNS. **Evaluasi**: Latensi turun kembali ke 300ms.
-
-#### Contoh Implementasi Logika Pemilihan Solusi (Python)
-
-```python
-# Sederhana: Memilih solusi terbaik berdasarkan skor tertinggi
-solusi = [
-    {"nama": "Solusi A", "biaya": 8, "fitur": 6, "kemudahan": 7},
-    {"nama": "Solusi B", "biaya": 5, "fitur": 9, "kemudahan": 6}
-]
-
-# Bobot kriteria
-bobot = {"biaya": 0.4, "fitur": 0.4, "kemudahan": 0.2}
-
-def hitung_skor(item, bobot):
-    return sum(item[k] * bobot[k] for k in bobot)
-
-# Menentukan pemenang
-pemenang = max(solusi, key=lambda x: hitung_skor(x, bobot))
-
-print(f"Solusi terbaik secara rasional adalah: {pemenang[''nama'']} dengan skor {hitung_skor(pemenang, bobot)}")
-```
 
 ### Rangkuman Langkah Logis
 
@@ -62087,7 +60638,7 @@ Untuk membantu kita bernalar secara objektif, para filsuf telah mengembangkan be
 Fokus pada hasil akhir. Keputusan yang terbaik adalah yang menghasilkan "kebaikan terbesar untuk jumlah orang terbanyak."
 
 - **Analogi:** Seperti memilih menu makanan untuk acara kantor; kamu memilih yang disukai mayoritas orang, meski ada satu-dua orang yang kurang puas.
-- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ di mana: $\\sum U(A) > \\sum U(B)$
+- **Rumus Sederhana:** Jika $U$ adalah utilitas (kebahagiaan/manfaat), maka pilih tindakan $A$ di mana: $\sum U(A) > \sum U(B)$
 
 #### B. Deontologi (Berdasarkan Kewajiban)
 
@@ -62125,7 +60676,12 @@ Dunia teknologi adalah medan tempur penalaran etis yang sangat relevan saat ini.
 - **Secara Utilitarian:** Mobil mungkin diprogram untuk meminimalkan jumlah korban jiwa (mengorbankan 1 penumpang demi menyelamatkan 5 pejalan kaki).
 - **Secara Deontologis:** Ada prinsip bahwa "kendaraan tidak boleh dengan sengaja membunuh penumpangnya."
 - **Tantangan Logika:** Bagaimana kita mengodekan nilai "nyawa manusia" ke dalam algoritma matematis?
-   $$\\text{Nilai Etis} \\neq \\text{Hanya Probabilitas Statistik}$$
+
+  <div>
+  $$
+  \text{Nilai Etis} \neq \text{Hanya Probabilitas Statistik}
+  $$
+  </div>
 
 ### 6\. Menghindari Sesat Pikir dalam Penalaran Etis
 
@@ -62215,20 +60771,13 @@ Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya t
 1. **Cek Artefak Visual:** Perhatikan area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
 2. **Analisis Metadata:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
 3. **Gunakan Logika "Terlalu Indah untuk Menjadi Nyata":** Jika informasi tersebut sangat memuaskan biasmu (misalnya: lawan politikmu melakukan kesalahan fatal), justru di situlah kamu harus paling curiga.
-```python
-# Analogi sederhana logika penyaringan informasi dalam kode
-def saring_informasi(berita):
-    if berita.mengandung_emosi_ekstrem():
-        return "Berhenti! Periksa kembali sumbernya."
-    
-    if not berita.sumber_terverifikasi():
-        return "Cari referensi dari media kredibel lainnya."
-        
-    if berita.klaim_tanpa_bukti():
-        return "Tunggu bukti pendukung muncul."
-        
-    return "Informasi dapat dipertimbangkan setelah verifikasi lateral."
-```
+
+Untuk informasi apa pun, bukan hanya video, urutan penyaringannya bisa diringkas menjadi empat pemeriksaan:
+
+1. **Memancing emosi ekstrem?** Berhenti, lalu periksa kembali sumbernya.
+2. **Sumbernya belum terverifikasi?** Cari referensi dari media kredibel lainnya.
+3. **Klaimnya tanpa bukti?** Tunggu sampai bukti pendukung muncul.
+4. **Lolos ketiga pemeriksaan tadi?** Informasi itu baru dapat dipertimbangkan setelah kamu melakukan verifikasi lateral.
 
 ## 7. Kejernihan Berpikir dan Digital Hygiene
 
@@ -62239,7 +60788,7 @@ Untuk tetap menjadi pemikir kritis, kamu perlu menjaga kesehatan mental digitalm
 - **Verifikasi Sebelum Berbagi:** Jadilah bagian dari solusi, bukan menambah polusi informasi di ruang digital.
 	> **Catatan Penting:** Bertanggung jawab atas apa yang kamu bagikan adalah bentuk tertinggi dari etika digital.
 
-**Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, and menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan kepala tegak dan pikiran yang jernih.
+**Kesimpulan Bagian Ini:** Berpikir kritis di era digital bukanlah tentang menjadi orang yang skeptis terhadap segala hal hingga menjadi sinis. Sebaliknya, ini adalah tentang menjadi **kurator informasi** yang cerdas. Dengan memahami cara kerja algoritma, mengenali emosi kita sendiri, dan menggunakan teknik verifikasi yang tepat, kita dapat menavigasi banjir informasi ini dengan kepala tegak dan pikiran yang jernih.
 
 Melakukan verifikasi mandiri terhadap berita yang awalnya kita percayai memang menuntut kerendahan hati intelektual, namun itulah satu-satunya cara untuk menjaga kejernihan berpikir.
 
@@ -62260,8 +60809,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62612,21 +61161,17 @@ Siapa yang berhak menentukan apa itu kejahatan? Dalam perspektif AWK, kelompok y
 #### Formula Konstruksi Sosial
 
 <div>
-
 $$
 \text{Kekuasaan} + \text{Bahasa} \rightarrow \text{Realitas Hukum}
 $$
-
 </div>
 
 Secara simbolis, relasi ini dapat dirumuskan sebagai:
 
 <div>
-
 $$
 \text{D}_{\text{dominant}} \implies \sum (\text{T}_{\text{teks}} + \text{I}_{\text{ideologi}}) = \text{L}_{\text{legalitas}}
 $$
-
 </div>
 
 Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan membentuk apa yang dianggap sebagai "legal" atau "kriminal" oleh massa.
@@ -62782,24 +61327,15 @@ Model Fairclough dapat diterapkan pada fenomena pemberitaan begal di media massa
 
 ## Analisis Putusan Pengadilan
 
-Dalam dokumen hukum, berlakunya model Fairclough dapat diamati melalui struktur argumen:
+Dalam dokumen hukum, model Fairclough dapat diterapkan dengan membaca sebuah putusan hakim pada ketiga dimensinya:
 
-```python
-# Ilustrasi Logika Analisis Wacana dalam Putusan Hakim (Pseudo-code)
+| Dimensi | Yang Diperiksa pada Putusan | Pertanyaan atau Contoh |
+| --- | --- | --- |
+| **Teks (linguistik)** | Pilihan kata dan struktur kalimat | Frasa seperti "terbukti secara sah" atau "memberatkan"; siapa yang diberi panggung bicara? |
+| **Praktik Diskursif** | Rujukan yang dipakai dalam putusan | Apakah putusan merujuk pada norma agama, adat, atau murni hukum? |
+| **Praktik Sosial** | Hegemoni yang mungkin diperkuat atau dilawan oleh putusan | Apakah putusan ini melindungi elit atau rakyat kecil? |
 
-def analisis_fairclough(teks_putusan):
-    # Dimensi 1: Linguistik
-    diksi = cari_kata_kunci(teks_putusan) # Contoh: "terbukti secara sah", "memberatkan"
-    struktur = analisis_gramatika(teks_putusan) # Siapa yang diberi panggung bicara?
-    
-    # Dimensi 2: Praktik Diskursif
-    sumber = lacak_referensi(teks_putusan) # Apakah merujuk pada norma agama, adat, atau murni hukum?
-    
-    # Dimensi 3: Praktik Sosial
-    dampak = evaluasi_hegemoni(teks_putusan) # Apakah putusan ini melindungi elit atau rakyat kecil?
-    
-    return "Hasil dekonstruksi wacana kekuasaan dalam hukum"
-```
+Jawaban atas ketiga pertanyaan itu dapat membantu membongkar wacana kekuasaan yang bekerja di dalam hukum.
 
 ---
 
@@ -62811,7 +61347,13 @@ Untuk mempermudah pemahaman struktur tiga dimensi, hubungan antar-dimensi wacana
 
 <div>
 $$
-\text{Wacana} = \text{Teks} (\text{Deskripsi}) + \text{Praktik Diskursif} (\text{Interpretasi}) + \text{Praktik Sosial} (\text{Eksplanasi})
+\text{Wacana} = \text{Teks} (\text{Deskripsi}) + \text{Praktik Diskursif} (\text{Interpretasi})
+$$
+</div>
+
+<div>
+$$
+\quad + \text{Praktik Sosial} (\text{Eksplanasi})
 $$
 </div>
 
@@ -63293,11 +61835,9 @@ Bagi seorang peneliti atau praktisi hukum, langkah-langkah berikut dapat digunak
 2. **Cek Struktur Pasal Karet:** Perhatikan penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
 
 <div>
-
 $$
 \text{Ambiguitas Istilah} \rightarrow \text{Diskresi Aparat} \rightarrow \text{Potensi Penyalahgunaan Kekuasaan}
 $$
-
 </div>
 
 3. **Analisis Apa yang Hilang (*The Silence*):** Siapa kelompok yang terdampak oleh undang-undang ini tetapi tidak pernah disebut atau dilibatkan dalam konsiderans (pertimbangan) undang-undang tersebut?
@@ -63376,11 +61916,9 @@ flowchart LR
 Secara konseptual, hubungan antara liputan media dan respons psikologis masyarakat dapat diformulasikan sebagai berikut:
 
 <div>
-
 $$
 K = \frac{I \times V}{R}
 $$
-
 </div>
 
 *Keterangan Variabel:*
@@ -63421,35 +61959,18 @@ Mari terapkan kerangka AWK dalam analisis skenario pemberitaan tentang kasus "Be
 2. **Ideologi Punitif**: Mendorong pendekatan penghukuman keras. Frasa *"Rakyat yang bertindak"* secara implisit melegitimasi aksi main hakim sendiri (*vigilantism*).
 3. **Stereotipisasi**: Kata *"Komplotan Bandit"* membangun citra organisasi kriminal yang terstruktur dan berbahaya, mengabaikan fakta bahwa pelaku mungkin individu yang terdesak faktor sosio-ekonomi.
 
-#### Analisis Sentimen Diksi Berita Kriminal
+#### Kata Kunci Ancaman di Tajuk Berita Kriminal
 
-Para peneliti kriminologi modern dapat memanfaatkan analisis teks komputasional untuk memetakan tren diksi ketakutan. Berikut adalah contoh skrip Python sederhana untuk mengekstrak frekuensi kata kunci berkonotasi ancaman dari tajuk berita:
+Para peneliti kriminologi modern dapat memanfaatkan analisis teks komputasional untuk memetakan tren diksi ketakutan, misalnya dengan menghitung kata kunci berkonotasi ancaman dalam tajuk berita. Berikut empat contoh tajuk beserta kata kunci ancaman yang dikandungnya:
 
-```python
-import collections
-import re
+| Contoh Tajuk Berita | Kata Kunci Berkonotasi Ancaman |
+| :--- | :--- |
+| "Polisi Ringkus Begal Sadis di Terminal" | *sadis* |
+| "Waspada! Teror Geng Motor Menghantui Warga" | *teror*, *menghantui* |
+| "Aksi Brutal Bandit Jalanan Terekam CCTV" | *brutal* |
+| "Darurat Narkoba: Predator Anak Mengincar Korban Baru" | *darurat*, *predator* |
 
-# Data sampel headline berita kriminal
-headlines = [
-    "Polisi Ringkus Begal Sadis di Terminal",
-    "Waspada! Teror Geng Motor Menghantui Warga",
-    "Aksi Brutal Bandit Jalanan Terekam CCTV",
-    "Darurat Narkoba: Predator Anak Mengincar Korban Baru"
-]
-
-# Menggabungkan teks dan membersihkan karakter non-alfanumerik
-all_text = " ".join(headlines).lower()
-words = re.findall(r''\w+'', all_text)
-
-# Menghitung frekuensi kemunculan kata
-word_counts = collections.Counter(words)
-
-# Menampilkan kata kunci yang mengonstruksi narasi ketakutan
-fear_keywords = [''sadis'', ''teror'', ''menghantui'', ''brutal'', ''darurat'', ''predator'']
-for word in fear_keywords:
-    if word in word_counts:
-        print(f"Kata Kunci: ''{word}'' muncul {word_counts[word]} kali")
-```
+Dalam contoh kecil ini, keenam kata kunci masing-masing muncul satu kali. Hitungan seperti ini baru berguna bila diterapkan pada kumpulan tajuk yang jauh lebih besar.
 
 ---
 
@@ -63532,7 +62053,7 @@ Pengadilan merupakan arena tempat wacana mencapai puncak formalitasnya. Di ruang
 3. **Spasialisasi dan Otoritas Bahasa:** Posisi fisik meja hakim yang lebih tinggi diperkuat oleh konstruksi bahasa yang otoritatif.
 
 **Aplikasi Dunia Nyata (Skenario Hukum):**  
-Dalam persidangan kasus pencurian kecil, Jaksa Penuntut Umum secara konsisten merujuk pada ketetapan \(\text{Pasal 362 KUHP}\). Ketika terdakwa berusaha menjelaskan latar belakang ekonomi dan kelaparan yang dialaminya, penjelasan tersebut sering dihentikan karena dinilai "tidak relevan dengan unsur pidana." Dalam situasi ini, wacana formal hukum mengalahkan wacana kemanusiaan demi menjaga status quo hukum.
+Dalam persidangan kasus pencurian kecil, Jaksa Penuntut Umum secara konsisten merujuk pada ketetapan Pasal 362 KUHP. Ketika terdakwa berusaha menjelaskan latar belakang ekonomi dan kelaparan yang dialaminya, penjelasan tersebut sering dihentikan karena dinilai "tidak relevan dengan unsur pidana." Dalam situasi ini, wacana formal hukum mengalahkan wacana kemanusiaan demi menjaga status quo hukum.
 
 ### 4. Eufemisme dan Kontrol Total di Penjara
 
@@ -63811,11 +62332,9 @@ Dalam analisis tata bahasa AWK, konsep **agensi** (siapa yang ditaruh sebagai pe
 Secara konseptual, akumulasi risiko viktimisasi sekunder ($\text{Vs}$) dapat dirumuskan sebagai fungsi dari bias bahasa ($\text{Bb}$) dan prasangka sosial ($\text{Ps}$) terhadap variabel waktu ($t$):
 
 <div>
-
 $$
-\text{Vs} = \int (\text{Bb} + \text{Ps}) \, dt
+\text{Vs} = \int (\text{Bb} + \text{Ps}) \ dt
 $$
-
 </div>
 
 Semakin lama narasi yang membawa bias linguistik ini dibiarkan berproduksi dalam ruang publik ($t$), semakin besar dampak akumulasi trauma sekunder yang ditanggung oleh korban.
@@ -63869,31 +62388,13 @@ Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
 
 ---
 
-### 6. Word Cloud untuk Kriminologi Digital
+### 6. Diksi yang Menyalahkan Korban di Ruang Digital
 
-Bagi peneliti kriminologi digital yang ingin memetakan persepsi publik dan narasi korban di media sosial (seperti Twitter/X atau portal berita), pemrosesan bahasa alami (*Natural Language Processing*) dan analisis frekuensi kata (*word cloud*) dapat digunakan untuk mengekstrak data teks secara komputasional.
+Bagi peneliti kriminologi digital yang ingin memetakan persepsi publik dan narasi korban di media sosial (seperti Twitter/X atau portal berita), pemrosesan bahasa alami (*Natural Language Processing*) dan analisis frekuensi kata dapat digunakan untuk mengekstrak data teks secara komputasional.
 
-```python
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud
+Diksi yang dicari dalam pemetaan semacam ini adalah kata dan frasa yang menggeser kesalahan ke pundak korban, misalnya *tidak berhati-hati*, *tempat sepi*, *jam malam*, *pakaian minim*, *lalai*, *kurang pengawasan*, *risiko sendiri*, dan *nasib sial*. Sebagian di antaranya sejalan dengan sorotan pada pakaian korban dan jam kejadian yang dibahas di bagian 1 dan 3.
 
-# Data teks narasi representasi korban dalam wacana publik
-teks_berita = """
-korban tidak berhati-hati tempat sepi jam malam pakaian minim 
-lalai kurang pengawasan risiko sendiri nasib sial
-"""
-
-# Membangun visualisasi Word Cloud
-wordcloud = WordCloud(width=800, height=400, background_color=''white'').generate(teks_berita)
-
-plt.figure(figsize=(10, 5))
-plt.imshow(wordcloud, interpolation=''bilinear'')
-plt.axis(''off'')
-plt.title(''Representasi Negatif Korban dalam Wacana Publik (Analisis AWK)'')
-plt.show()
-```
-
-*Visualisasi komputasional ini membantu peneliti mengidentifikasi seberapa dominan diksi yang menyalahkan korban (victim blaming) dalam ruang digital dibandingkan dengan porsi pembahasan mengenai akuntabilitas pelaku.*
+Dengan menghitung seberapa sering diksi seperti itu muncul di ruang digital, peneliti dapat menilai seberapa dominan *victim blaming* dibandingkan dengan porsi pembahasan mengenai akuntabilitas pelaku.
 
 ---
 
@@ -64039,23 +62540,21 @@ Untuk menerapkan AWK bagi tujuan advokasi, langkah-langkah berikut dapat ditempu
 3. **Tawarkan Alternatif:** Jangan hanya mengkritik; usulkan glosarium atau terminologi baru yang lebih adil secara sosial.
 4. **Kolaborasi:** Hubungkan temuan riset dengan organisasi bantuan hukum (LBH) atau aktivis hak asasi manusia.
 
-```python
-# Contoh Logika Penilaian Etis dalam Analisis Teks (Pseudo-code)
-def evaluasi_etis(teks_analisis, kepentingan_publik, risiko_pribadi):
-    bias_terdeteksi = deteksi_bias_kekuasaan(teks_analisis)
-    
-    if bias_terdeteksi:
-        if kepentingan_publik > risiko_pribadi:
-            aksi = "Lakukan reformasi wacana melalui Policy Brief"
-        else:
-            aksi = "Publikasi akademik dengan anonimitas ketat"
-    else:
-        aksi = "Revisi kerangka analitis"
-        
-    return aksi
+Sebelum temuan dibawa keluar, peneliti juga menilai secara etis langkah mana yang pantas diambil. Pertama, apakah analisis benar-benar menemukan bias kekuasaan dalam teks? Jika tidak, kerangka analitisnya yang perlu direvisi. Jika ya, peneliti menimbang kepentingan publik terhadap risiko pribadi. Bila kepentingan publik lebih besar, temuan dibawa ke reformasi wacana melalui *Policy Brief*; bila tidak, temuan diterbitkan sebagai publikasi akademik dengan anonimitas ketat.
 
-# Tujuan akhir kriminologi kritis bukan hanya memahami dunia, tetapi mengubahnya.
+Percabangan penilaian itu dapat dilihat sekilas di sini.
+
+```mermaid
+flowchart TD
+    accTitle: Penilaian etis atas temuan analisis wacana
+    accDescr: Jika bias kekuasaan tidak terdeteksi, kerangka analitis direvisi. Jika terdeteksi dan kepentingan publik lebih besar daripada risiko pribadi, peneliti melakukan reformasi wacana melalui policy brief. Jika kepentingan publik tidak lebih besar, temuan diterbitkan sebagai publikasi akademik dengan anonimitas ketat.
+    A{"Bias kekuasaan terdeteksi?"} -->|"tidak"| B["Revisi kerangka analitis"]
+    A -->|"ya"| C{"Kepentingan publik lebih besar daripada risiko pribadi?"}
+    C -->|"ya"| D["Reformasi wacana melalui Policy Brief"]
+    C -->|"tidak"| E["Publikasi akademik dengan anonimitas ketat"]
 ```
+
+Pada akhirnya, tujuan kriminologi kritis bukan hanya memahami dunia, tetapi mengubahnya.
 
 ---
 
@@ -64155,14 +62654,12 @@ Sebagai contoh, jika variabel "lokasi ekonomi rendah" diberi bobot tinggi dalam 
 Misalkan skor risiko kriminalitas ($R$) ditentukan oleh variabel data historis ($D$) dan bobot ideologis yang tidak disadari ($w$):
 
 <div>
-
 $$
 R = \sum_{i=1}^{n} w_i D_i
 $$
-
 </div>
 
-Jika $w_i$ untuk variabel latar belakang etnis atau wilayah tertentu lebih tinggi karena data historis yang bias, maka sistem tersebut secara otomatis melakukan "stigmatisasi digital".
+Jika $w\_i$ untuk variabel latar belakang etnis atau wilayah tertentu lebih tinggi karena data historis yang bias, maka sistem tersebut secara otomatis melakukan "stigmatisasi digital".
 
 ### 3. Wacana Pengawasan Digital (*Digital Surveillance*)
 
@@ -64181,21 +62678,18 @@ Masa depan AWK dalam kriminologi melibatkan kolaborasi dengan ilmu data (*data s
 
 Seorang kriminolog digital dapat menggunakan bahasa pemrograman Python untuk melakukan *web scraping* dan menganalisis bagaimana suatu kelompok minoritas dikonstruksikan sebagai "ancaman" dalam skala besar.
 
-```python
-# Contoh sederhana analisis frekuensi kata untuk melihat konstruksi wacana
-import nltk
-from nltk.tokenize import word_tokenize
+Contoh sederhananya adalah analisis frekuensi kata. Ambil satu komentar fiktif di media sosial tentang suatu wilayah:
 
-# Teks fiktif dari komentar media sosial tentang suatu wilayah
-comments = "Wilayah X sangat rawan. Banyak kriminal di sana. Hati-hati di wilayah X."
+> *"Wilayah X sangat rawan. Banyak kriminal di sana. Hati-hati di wilayah X."*
 
-tokens = word_tokenize(comments.lower())
-# Mencari hubungan kata ''Wilayah X'' dengan ''Kriminal''
-dist = nltk.FreqDist(tokens)
-print(f"Frekuensi kata ''kriminal'': {dist[''kriminal'']}")
-```
+Dua kata yang relevan dari komentar itu muncul sebagai berikut:
 
-Dengan teknik ini, AWK dapat memetakan **hegemoni digital**, yaitu bagaimana opini tertentu mendominasi ruang publik digital dan membungkam suara-suara alternatif (korban atau kelompok marginal).
+| Kata | Jumlah Kemunculan |
+| :--- | :--- |
+| *wilayah* | 2 |
+| *kriminal* | 1 |
+
+Hitungan kecil ini sudah memperlihatkan satu wilayah yang disebut berulang bersama kata *kriminal*. Bila hitungan yang sama diterapkan pada jutaan cuitan, AWK dapat memetakan **hegemoni digital**, yaitu bagaimana opini tertentu mendominasi ruang publik digital dan membungkam suara-suara alternatif (korban atau kelompok marginal).
 
 ### 5. Tantangan Etis dan Masa Depan
 
@@ -64318,8 +62812,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64815,27 +63309,23 @@ Mari kita terapkan rumus di atas ke dalam skenario nyata.
 2. Cari $\Delta \text{P}$: $250.000 - 200.000 = 50.000$
 3. Masukkan ke rumus: $\text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} = 0,01 \times 200 = 2$
 **Interpretasi:** Nilai $\text{E}_s = 2$ berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1\%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
-## 5. Menghitung dengan Kode (Python)
-Jika kamu bekerja dengan data besar, penghitungan manual tentu tidak efisien. Berikut adalah cuplikan kode sederhana untuk menghitung elastisitas penawaran:
-```python
-def hitung_elastisitas_penawaran(p1, p2, q1, q2):
-    # Menggunakan metode midpoint untuk akurasi lebih baik
-    perubahan_q = q2 - q1
-    rata_rata_q = (q1 + q2) / 2
-    persen_perubahan_q = perubahan_q / rata_rata_q
-    perubahan_p = p2 - p1
-    rata_rata_p = (p1 + p2) / 2
-    persen_perubahan_p = perubahan_p / rata_rata_p
-    es = persen_perubahan_q / persen_perubahan_p
-    return round(es, 2)
-# Contoh Penggunaan
-harga_awal = 200000
-harga_baru = 250000
-jumlah_awal = 1000
-jumlah_baru = 1500
-hasil = hitung_elastisitas_penawaran(harga_awal, harga_baru, jumlah_awal, jumlah_baru)
-print(f"Koefisien Elastisitas Penawaran (Midpoint): {hasil}")
-```
+## 5. Hasil Metode Nilai Tengah
+Data pabrik sepatu yang sama juga bisa dihitung dengan rumus midpoint dari bagian 2. Bedanya, perubahan harga dan jumlah dibandingkan dengan **rata-rata** nilai awal dan nilai akhir, bukan dengan nilai awal saja.
+
+| Langkah | Jumlah (pasang) | Harga (Rp) |
+| --- | --- | --- |
+| Perubahan | 1.500 - 1.000 = 500 | 250.000 - 200.000 = 50.000 |
+| Rata-rata | (1.000 + 1.500) / 2 = 1.250 | (200.000 + 250.000) / 2 = 225.000 |
+| Perubahan terhadap rata-rata | 500 / 1.250 = 0,4 | 50.000 / 225.000 = 0,222... |
+
+<div>
+$$
+\text{E}_s = \frac{0{,}4}{0{,}222...} = 1{,}8
+$$
+</div>
+
+Hasil metode nilai tengah adalah **1,8**, sedikit lebih kecil daripada angka 2 dari rumus turunan di bagian 4, karena kedua metode memakai pembanding yang berbeda. Kesimpulannya tetap sama: 1,8 lebih besar dari 1, sehingga penawaran sepatu ini **elastis**.
+
 ## 6. Industri Agrikultur vs. Manufaktur
 Dalam praktiknya, teknik penghitungan ini memberikan wawasan berbeda untuk industri yang berbeda:
 1. **Industri Agrikultur (Contoh: Petani Padi):** Meskipun harga padi di pasar melonjak hari ini, petani tidak bisa langsung memanen lebih banyak padi besok pagi. Proses biologis membutuhkan waktu. Saat dihitung, nilai $\text{E}_s$ padi dalam jangka pendek biasanya **rendah (inelastis)**.
@@ -64901,8 +63391,8 @@ Ini adalah kondisi ekstrem di mana pada harga tertentu, produsen bersedia memaso
 | **Elastis Uniter** | $E_s = 1$ | Respon proporsional | Diagonal dari nol |
 | **Elastis** | $E_s > 1$ | Respon sangat sensitif | Landai |
 | **Elastis Sempurna** | $E_s = \infty$ | Respon tak terhingga | Horizontal |
-## Aplikasi Praktis & Simulasi Teknis
-Dalam pengembangan sistem *pricing* atau analisis data ekonomi, kita sering menggunakan algoritma sederhana untuk mengklasifikasikan data penjualan berdasarkan elastisitasnya.
+## Menggolongkan Data Penawaran
+Dalam penetapan harga (*pricing*) atau analisis data ekonomi, data penjualan sering perlu digolongkan berdasarkan elastisitasnya. Caranya sederhana: hitung nilai $E_s$, lalu cocokkan dengan kolom nilai koefisien pada tabel ringkasan di atas.
 ### Contoh Skenario Dunia Nyata
 Sebuah perusahaan manufaktur sepatu melihat harga pasar naik dari Rp500.000 menjadi Rp600.000 ($+20 \text{\%}$). Karena mereka memiliki stok bahan baku yang melimpah dan mesin cadangan, mereka mampu meningkatkan produksi dari 1.000 pasang menjadi 1.500 pasang per bulan ($+50 \text{\%}$).
 
@@ -64913,30 +63403,6 @@ E_s = \frac{50 \text{\%}}{20 \text{\%}} = 2{,}5
 $$
 
 Karena $2{,}5 > 1$, maka penawaran sepatu tersebut termasuk kategori **Elastis**.
-### Kode Python untuk Klasifikasi Elastisitas Otomatis
-Jika kamu seorang analis data, kamu bisa menggunakan fungsi sederhana ini untuk mengkategorikan data penawaran:
-```python
-def classify_supply_elasticity(price_change_pct, quantity_change_pct):
-    if price_change_pct == 0:
-        return "Undefined (Price change cannot be zero)"
-    # Menghitung Koefisien Es
-    es = abs(quantity_change_pct / price_change_pct)
-    if es == 0:
-        return f"Es = {es}: Inelastis Sempurna"
-    elif 0 < es < 1:
-        return f"Es = {es}: Inelastis"
-    elif es == 1:
-        return f"Es = {es}: Unitary"
-    elif es > 1:
-        # Menangani nilai yang sangat besar sebagai tak terhingga secara praktis
-        if es > 100:
-            return f"Es = {es}: Elastis Sempurna (Pendekatan)"
-        return f"Es = {es}: Elastis"
-# Contoh penggunaan:
-# Harga naik 20%, Penawaran naik 50%
-print(classify_supply_elasticity(20, 50))
-# Output: Es = 2.5: Elastis
-```
 ## Mengapa Memahami Variasi Ini Penting?
 > **Insight Penting:** Bagi pemerintah, memahami derajat elastisitas penawaran sangat penting saat akan menerapkan pajak. Jika penawaran suatu barang **inelastis** (seperti bensin atau tanah), maka produsen tidak bisa menghindar dengan mengurangi produksi, sehingga beban pajak akan lebih banyak ditanggung oleh pihak yang kurang fleksibel dalam menyesuaikan diri.
 Sebagai pengusaha, memiliki fleksibilitas produksi yang tinggi memungkinkan bisnis berada di kategori penawaran elastis. Hal ini membuat perusahaan dapat merespon lonjakan harga pasar secara cepat dan memaksimalkan potensi keuntungan.
@@ -65079,8 +63545,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65884,8 +64350,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65932,7 +64398,7 @@ Evaporasi merupakan proses perubahan fase air dari wujud cair menjadi uap air (g
 
 *Analogi:* Ketika panci berisi air dipanaskan di atas kompor, molekul air memperoleh energi kinetik tambahan hingga akhirnya terlepas dari permukaan air cair menuju udara bebas.
 
-Dilihat dari sudut pandang termodinamika, proses evaporasi memerlukan penyerapan energi panas penguapan laten ($L_{\text{v}}$). Tanpa adanya pasokan energi radiasi matahari yang stabil, sirkulasi air ini akan terhenti.
+Dilihat dari sudut pandang termodinamika, proses evaporasi memerlukan penyerapan energi panas penguapan laten ($L\_{\text{v}}$). Tanpa adanya pasokan energi radiasi matahari yang stabil, sirkulasi air ini akan terhenti.
 
 #### B. Transpirasi (Pelepasan Uap Air oleh Tumbuhan)
 
@@ -65971,11 +64437,9 @@ flowchart TD
 Guna menganalisis sirkulasi air secara kuantitatif, kita dapat menerapkan persamaan neraca air berbasis hukum kekekalan massa. Untuk suatu sistem wilayah atau planet secara keseluruhan, berlaku persamaan dasar:
 
 <div>
-
 $$
 P = E + R + \Delta S
 $$
-
 </div>
 
 Keterangan variabel:
@@ -66056,10 +64520,10 @@ Saat mendidihkan air, suhu air bertahan pada $100^\circ\text{C}$ meskipun sumber
 
 | Jenis Panas Laten | Simbol | Nilai Khas | Proses Perubahan Fase | Sifat Energi |
 | :--- | :--- | :--- | :--- | :--- |
-| **Panas Laten Penguapan** | $L_v$ | $\approx 2.5 \times 10^6\text{ J/kg}$ ($0^\circ\text{C}$) | Cair $\rightarrow$ Gas | Diserap |
-| **Panas Laten Kondensasi** | $L_v$ | $\approx 2.5 \times 10^6\text{ J/kg}$ ($0^\circ\text{C}$) | Gas $\rightarrow$ Cair | Dilepaskan |
-| **Panas Laten Peleburan** | $L_f$ | $\approx 3.34 \times 10^5\text{ J/kg}$ | Padat $\rightarrow$ Cair | Diserap |
-| **Panas Laten Sublimasi** | $L_s$ | $L_s = L_v + L_f$ | Padat $\leftrightarrow$ Gas | Diserap / Dilepaskan |
+| **Panas Laten Penguapan** | $L\_v$ | $\approx 2.5 \times 10^6\text{ J/kg}$ ($0^\circ\text{C}$) | Cair $\rightarrow$ Gas | Diserap |
+| **Panas Laten Kondensasi** | $L\_v$ | $\approx 2.5 \times 10^6\text{ J/kg}$ ($0^\circ\text{C}$) | Gas $\rightarrow$ Cair | Dilepaskan |
+| **Panas Laten Peleburan** | $L\_f$ | $\approx 3.34 \times 10^5\text{ J/kg}$ | Padat $\rightarrow$ Cair | Diserap |
+| **Panas Laten Sublimasi** | $L\_s$ | $L\_s = L\_v + L\_f$ | Padat $\leftrightarrow$ Gas | Diserap / Dilepaskan |
 
 > **Ilustrasi Fisika:** Fenomena ini terlihat saat seseorang merasa dingin ketika keluar dari kolam renang meskipun udara sekitar terasa hangat. Air di permukaan kulit menyerap panas tubuh sebagai panas laten penguapan untuk berubah menjadi gas.
 
@@ -66067,39 +64531,35 @@ Saat mendidihkan air, suhu air bertahan pada $100^\circ\text{C}$ meskipun sumber
 
 Di atmosfer, uap air memberikan tekanan parsial yang disebut **Tekanan Uap ($\text{e}$)**. Semakin banyak molekul uap air di udara, semakin tinggi tekanan uap yang dihasilkan.
 
-Namun, terdapat batas maksimum jumlah uap air yang dapat berada dalam kesetimbangan pada suhu tertentu. Batas ini disebut **Tekanan Uap Jenuh ($e_s$)**.
+Namun, terdapat batas maksimum jumlah uap air yang dapat berada dalam kesetimbangan pada suhu tertentu. Batas ini disebut **Tekanan Uap Jenuh ($e\_s$)**.
 
-- **Belum Jenuh ($e < e_s$):** Laju penguapan lebih cepat dibandingkan laju kondensasi.
-- **Jenuh ($e = e_s$):** Laju penguapan setara dengan laju kondensasi (kondisi kesetimbangan).
-- **Lewat Jenuh ($e > e_s$):** Uap air cenderung berkondensasi menjadi tetesan air (dasar pembentukan awan).
+- **Belum Jenuh ($e < e\_s$):** Laju penguapan lebih cepat dibandingkan laju kondensasi.
+- **Jenuh ($e = e\_s$):** Laju penguapan setara dengan laju kondensasi (kondisi kesetimbangan).
+- **Lewat Jenuh ($e > e\_s$):** Uap air cenderung berkondensasi menjadi tetesan air (dasar pembentukan awan).
 
 ### 4. Persamaan Clausius-Clapeyron
 
-Untuk menentukan nilai $e_s$ pada suhu tertentu, digunakan **Persamaan Clausius-Clapeyron**. Persamaan ini menunjukkan bahwa tekanan uap jenuh meningkat secara **eksponensial** terhadap kenaikan suhu.
+Untuk menentukan nilai $e\_s$ pada suhu tertentu, digunakan **Persamaan Clausius-Clapeyron**. Persamaan ini menunjukkan bahwa tekanan uap jenuh meningkat secara **eksponensial** terhadap kenaikan suhu.
 
 <div>
-
 $$
 \frac{de_s}{dT} = \frac{L_v \cdot e_s}{R_v \cdot T^2}
 $$
-
 </div>
 
 Dalam bentuk integrasi yang umum digunakan untuk perhitungan atmosfer:
 
 <div>
-
 $$
 e_s(T) = e_{s0} \cdot \exp \left[ \frac{L_v}{R_v} \left( \frac{1}{T_0} - \frac{1}{T} \right) \right]
 $$
-
 </div>
 
 Keterangan variabel:
 
-- $e_{s0} = 6.11\text{ hPa}$ (tekanan uap jenuh pada suhu acuan $T_0 = 273.15\text{ K}$)
-- $L_v$ adalah panas laten penguapan ($\approx 2.5 \times 10^6\text{ J/kg}$)
-- $R_v$ adalah konstanta gas spesifik untuk uap air ($461.5\text{ J/(kg}\cdot\text{K)}$)
+- $e\_{s0} = 6.11\text{ hPa}$ (tekanan uap jenuh pada suhu acuan $T\_0 = 273.15\text{ K}$)
+- $L\_v$ adalah panas laten penguapan ($\approx 2.5 \times 10^6\text{ J/kg}$)
+- $R\_v$ adalah konstanta gas spesifik untuk uap air ($461.5\text{ J/(kg}\cdot\text{K)}$)
 - $T$ adalah suhu mutlak dalam Kelvin ($\text{K}$)
 
 **Poin Utama:** Udara hangat memiliki kapasitas menampung uap air yang jauh lebih besar daripada udara dingin. Hal ini menjelaskan mengapa badai di daerah tropis memiliki intensitas tinggi; terdapat ketersediaan energi laten yang sangat melimpah.
@@ -66110,42 +64570,37 @@ Alasan lingkungan hutan terasa sejuk tidak hanya berasal dari rimbunnya naungan 
 
 #### Pembentukan Awan
 
-Saat parsel udara naik, suhunya turun akibat ekspansi adiabatik. Berdasarkan hubungan Clausius-Clapeyron, penurunan suhu ($T$) mengakibatkan tekanan uap jenuh ($e_s$) ikut menurun. Ketika nilai $e_s$ turun hingga menyamai tekanan uap aktual ($e$), udara mencapai kondisi jenuh ($\text{RH} = 100\text{\%}$).
+Saat parsel udara naik, suhunya turun akibat ekspansi adiabatik. Berdasarkan hubungan Clausius-Clapeyron, penurunan suhu ($T$) mengakibatkan tekanan uap jenuh ($e\_s$) ikut menurun. Ketika nilai $e\_s$ turun hingga menyamai tekanan uap aktual ($e$), udara mencapai kondisi jenuh ($\text{RH} = 100\text{\%}$).
 
 Jika pendinginan terus berlanjut, terjadilah kondensasi yang melepaskan panas laten ke lingkungan. Pelepasan energi ini menghangatkan parsel udara di dalam awan dan memberikan dorongan konvektif tambahan untuk terus naik.
 
-### 6. Contoh Perhitungan (Python)
+### 6. Menghitung Tekanan Uap Jenuh
 
-Berikut adalah contoh skrip Python untuk menghitung Tekanan Uap Jenuh menggunakan pendekatan rumus *August-Roche-Magnus* (turunan praktis dari Clausius-Clapeyron):
+Untuk perhitungan cepat, Tekanan Uap Jenuh biasa dihitung dengan rumus *August-Roche-Magnus*, turunan praktis dari Clausius-Clapeyron. Pada rumus ini $T$ ditulis dalam derajat Celsius dan $e\_s$ dihasilkan dalam hPa:
 
-```python
-import numpy as np
+<div>
+$$
+e_s = 6{,}112 \cdot \exp\left(\frac{17{,}67 \cdot T}{T + 243{,}5}\right)
+$$
+</div>
 
-def calculate_saturation_vapor_pressure(temp_celsius):
-    """
-    Menghitung tekanan uap jenuh (es) dalam hPa menggunakan 
-    formula Magnus: es = 6.112 * exp((17.67 * T) / (T + 243.5))
-    """
-    es = 6.112 * np.exp((17.67 * temp_celsius) / (temp_celsius + 243.5))
-    return es
+Berikut hasilnya untuk lima suhu, dari suhu di permukaan ($30^\circ\text{C}$) sampai suhu di ketinggian awan ($-10^\circ\text{C}$):
 
-# Contoh suhu di permukaan (30C) dan di ketinggian awan (-10C)
-temps = [30, 20, 10, 0, -10]
+| Suhu ($^\circ\text{C}$) | Tekanan uap jenuh $e\_s$ (hPa) |
+| ---: | ---: |
+| 30 | 42,46 |
+| 20 | 23,37 |
+| 10 | 12,27 |
+| 0 | 6,11 |
+| -10 | 2,87 |
 
-print("Suhu (C) | Tekanan Uap Jenuh (hPa)")
-print("-" * 35)
-for t in temps:
-    es = calculate_saturation_vapor_pressure(t)
-    print(f"{t:8} | {es:18.2f}")
-```
-
-**Analisis Hasil:** Nilai $e_s$ berkurang drastis dari suhu $30^\circ\text{C}$ (sekitar $42\text{ hPa}$) hingga suhu $0^\circ\text{C}$ (sekitar $6\text{ hPa}$). Penurunan kapasitas ini memaksa kelebihan uap air berkondensasi menjadi titik air atau membeku menjadi kristal es.
+**Analisis Hasil:** Nilai $e\_s$ berkurang drastis dari suhu $30^\circ\text{C}$ (sekitar $42\text{ hPa}$) hingga suhu $0^\circ\text{C}$ (sekitar $6\text{ hPa}$). Penurunan kapasitas ini memaksa kelebihan uap air berkondensasi menjadi titik air atau membeku menjadi kristal es.
 
 ### Ringkasan Konsep
 
 - **Perubahan fase** merupakan mekanisme utama perpindahan energi di atmosfer.
 - **Panas Laten** bertindak sebagai penggerak dinamika cuaca; energi dilepaskan saat kondensasi dan pembekuan, serta diserap saat penguapan dan pencairan.
-- **Tekanan uap jenuh ($e_s$)** bergantung secara eksponensial pada suhu, sehingga kenaikan suhu meningkatkan kapasitas udara dalam menyimpan air.
+- **Tekanan uap jenuh ($e\_s$)** bergantung secara eksponensial pada suhu, sehingga kenaikan suhu meningkatkan kapasitas udara dalam menyimpan air.
 - **Kondensasi** melepaskan kembali energi tersembunyi ke atmosfer, memanaskan udara di sekitar dan memicu pertumbuhan awan secara konvektif.
 
 > **Pesan Utama:** Tanpa panas laten dan perubahan fase air, iklim Bumi akan menjadi sangat ekstrem dan siklus hidrologi tidak akan berfungsi dalam mendistribusikan air tawar ke seluruh daratan.
@@ -66185,10 +64640,20 @@ Proses perubahan suhu ini disebut **Proses Adiabatik**, yakni perubahan suhu yan
 Terdapat tiga jenis laju penurunan suhu yang utama untuk dipahami:
 
 1. **Dry Adiabatic Lapse Rate (DALR) / Laju Adiabatik Kering:** Laju pendinginan paket udara yang *belum jenuh* ($\text{RH} < 100\text{\%}$) saat bergerak naik.
-   $$\Gamma_d \approx 9{,}8^\circ\text{C}/\text{km} \quad (\text{atau } 1^\circ\text{C} \text{ setiap } 100\text{ m})$$
+
+   <div>
+   $$
+   \Gamma_d \approx 9{,}8^\circ\text{C}/\text{km} \quad (\text{atau } 1^\circ\text{C} \text{ setiap } 100\text{ m})
+   $$
+   </div>
 
 2. **Saturated Adiabatic Lapse Rate (SALR) / Laju Adiabatik Jenuh:** Laju pendinginan paket udara yang *sudah jenuh* ($\text{RH} = 100\text{\%}$). Laju ini lebih lambat dibandingkan $\text{DALR}$ karena saat kondensasi berlangsung, uap air melepaskan **panas laten** ke dalam paket udara, yang mengurangi laju pendinginan.
-   $$\Gamma_s \approx 5^\circ\text{C} \text{ hingga } 9^\circ\text{C}/\text{km}$$
+
+   <div>
+   $$
+   \Gamma_s \approx 5^\circ\text{C} \text{ hingga } 9^\circ\text{C}/\text{km}
+   $$
+   </div>
 
 3. **Environmental Lapse Rate (ELR) / Laju Lingkungan:** Perubahan suhu udara aktual di atmosfer seiring bertambahnya ketinggian, yang diukur secara langsung menggunakan instrumen radiosonde (balon cuaca). Nilai $\text{ELR}$ bersifat sangat dinamis dan bervariasi tergantung pada kondisi cuaca setempat.
 
@@ -66218,11 +64683,12 @@ Udara berada dalam kondisi tidak stabil jika paket udara yang naik tetap ber-suh
 Kondisi ini merupakan keadaan yang paling umum di atmosfer. Paket udara bersifat stabil sewaktu dalam keadaan kering, tetapi berubah menjadi tidak stabil apabila dipaksa naik hingga mencapai titik jenuh.
 
 - **Syarat Matematis:**
-<div>
 
-$$\text{SALR} < \text{ELR} < \text{DALR}$$
-
-</div>
+  <div>
+  $$
+  \text{SALR} < \text{ELR} < \text{DALR}
+  $$
+  </div>
 
 ---
 
@@ -66232,7 +64698,7 @@ Awan tidak langsung terbentuk sesaat setelah udara mulai bergerak naik. Udara ha
 
 Ketinggian di mana dasar awan mulai terbentuk dinamakan **Lifting Condensation Level (LCL)**. Pada titik ketinggian ini, berlaku kondisi:
 
-1. Suhu udara paket ($T$) sama dengan suhu titik embun ($T_d$).
+1. Suhu udara paket ($T$) sama dengan suhu titik embun ($T\_d$).
 2. Kelembapan Relatif ($\text{RH}$) mencapai $100\text{\%}$.
 3. Laju pendinginan adiabatik berubah dari $\text{DALR}$ menjadi $\text{SALR}$.
 
@@ -66240,7 +64706,7 @@ Ketinggian di mana dasar awan mulai terbentuk dinamakan **Lifting Condensation L
 
 ---
 
-### 5. Aplikasi Praktis dan Simulasi Sederhana
+### 5. Memperkirakan Ketinggian Dasar Awan
 
 Dalam meteorologi terapan dan teknik penerbangan, perhitungan ketinggian $\text{LCL}$ digunakan untuk memprediksi ketinggian dasar awan serta potensi cuaca buruk.
 
@@ -66249,32 +64715,14 @@ Dalam meteorologi terapan dan teknik penerbangan, perhitungan ketinggian $\text{
 Ketinggian $\text{LCL}$ (dalam satuan meter di atas permukaan tanah) dapat diestimasi melalui persamaan berikut:
 
 <div>
-
-$$h_{\text{LCL}} \approx 125 \times (T - T_d)$$
-
+$$
+h_{\text{LCL}} \approx 125 \times (T - T_d)
+$$
 </div>
 
-*Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
+*Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T\_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
 
-#### Estimasi Dasar Awan dengan Python
-
-```python
-def estimate_cloud_base(temp, dew_point):
-    """
-    Menghitung estimasi ketinggian dasar awan (LCL) 
-    berdasarkan suhu permukaan dan titik embun.
-    """
-    if temp < dew_point:
-        return "Suhu tidak boleh lebih rendah dari titik embun."
-    
-    # Rumus pendekatan Espy: (T - Td) * 125
-    lcl_height = (temp - dew_point) * 125
-    return lcl_height
-
-# Skenario: Suhu permukaan 30°C, Titik Embun 22°C
-height = estimate_cloud_base(30, 22)
-print(f"Estimasi ketinggian dasar awan: {height} meter di atas permukaan laut.")
-```
+Sebagai contoh, pada suhu permukaan $30^\circ\text{C}$ dan titik embun $22^\circ\text{C}$, dasar awan diperkirakan berada sekitar $125 \times (30 - 22) = 1.000$ meter di atas permukaan tanah. Perkiraan ini hanya bermakna bila suhu udara tidak lebih rendah dari titik embunnya.
 
 ---
 
@@ -66363,31 +64811,26 @@ $$
 
 ### 4. Distribusi Ukuran Aerosol
 
-Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Berikut adalah contoh program Python untuk memvisualisasikan penurunan konsentrasi partikel seiring bertambahnya ukuran.
+Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Bentuk sederhananya berupa hukum pangkat:
 
-```python
-import matplotlib.pyplot as plt
-import numpy as np
+<div>
+$$
+N = C \cdot r^{-\beta}
+$$
+</div>
 
-# Parameter Distribusi Junge sederhana
-# N = C * R^(-beta)
-radius = np.logspace(-2, 1, 100)  # dari 0.01 hingga 10 mikrometer
-C = 1e-3
-beta = 3
+Di sini $N$ adalah konsentrasi relatif partikel, $r$ adalah radius partikel dalam $\mu\text{m}$, sedangkan $C$ dan $\beta$ adalah konstanta. Dengan angka ilustrasi $C = 10^{-3}$ dan $\beta = 3$, konsentrasi turun tajam seiring bertambahnya ukuran:
 
-concentration = C * (radius**(-beta))
+| Radius partikel ($\mu\text{m}$) | Konsentrasi relatif $N$ |
+| ---: | ---: |
+| 0,01 | 1.000 |
+| 0,1 | 1 |
+| 1 | 0,001 |
+| 10 | 0,000001 |
 
-plt.figure(figsize=(8, 5))
-plt.loglog(radius, concentration, label=''Distribusi Junge'', color=''teal'')
-plt.title(''Profil Distribusi Ukuran Aerosol Atmosfer'')
-plt.xlabel(''Radius Partikel (µm)'')
-plt.ylabel(''Konsentrasi Relatif (dN/dlogR)'')
-plt.grid(True, which="both", ls="-", alpha=0.5)
-plt.legend()
-plt.show()
-```
+Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya turun seribu kali lipat.
 
-*Interpretasi:* Grafik ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
+*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
 ### 5. Aplikasi Dunia Nyata dan Skenario
 
@@ -66457,6 +64900,25 @@ Keterangan variabel:
 - $T$: Temperatur mutlak ($\text{K}$)
 - $r$: Jari-jari tetesan air
 
+Sebagai contoh hitungan, ambil air pada suhu $20^\circ\text{C}$ dengan nilai-nilai berikut (angka ilustrasi):
+
+| Besaran | Nilai |
+| --- | --- |
+| Tegangan permukaan ($\sigma$) | 0,0728 N/m |
+| Berat molekul air ($M$) | 0,018015 kg/mol |
+| Massa jenis air ($\rho$) | 1.000 kg/m³ |
+| Konstanta gas ideal ($R$) | 8,314 J/(mol·K) |
+| Temperatur ($T$) | 293,15 K |
+
+Dengan nilai tersebut, Persamaan Kelvin memberi hasil berikut untuk dua ukuran tetesan:
+
+| Jari-jari tetesan ($r$) | Rasio $p/p_s$ | Lewat jenuh yang dibutuhkan | Setara dengan $\text{RH}$ |
+| ---: | ---: | ---: | ---: |
+| 1 nm | 2,934 | 193,35% | ≈ 293% |
+| 100 nm | 1,011 | 1,08% | ≈ 101% |
+
+Tetesan berjari-jari 1 nm baru stabil bila tekanan uap di sekitarnya hampir tiga kali tekanan uap jenuh, sedangkan tetesan 100 nm cukup sekitar 1% di atas jenuh.
+
 > **Prinsip Utama:** Semakin kecil nilai jari-jari ($r$), semakin tinggi derajat lewat jenuh yang dibutuhkan untuk mempertahankan tetesan agar tidak menguap. Kendala fisik ini dikenal sebagai **Hambatan Nukleasi**.
 
 ### 3. Nukleasi Homogen
@@ -66464,7 +64926,7 @@ Keterangan variabel:
 **Nukleasi homogen** terjadi apabila molekul-molekul uap air murni saling bertabrakan dan bergabung membentuk tetesan tanpa bantuan partikel asing sebagai fondasi.
 
 - **Mekanisme:** Molekul air harus bergerak dengan energi kinetik rendah atau bertabrakan dengan frekuensi sangat tinggi agar dapat saling terikat secara spontan.
-- **Keterbatasan Fisik:** Karena embrio tetesan murni awal berukuran sangat kecil, Efek Kelvin bekerja sangat kuat. Agar tetesan murni ini tidak langsung menguap, atmosfer memerlukan kelembapan lewat jenuh sebesar 400% hingga 500% ($\text{RH} = 400\text{\%} - 500\text{\%}$).
+- **Keterbatasan Fisik:** Karena embrio tetesan murni awal berukuran sangat kecil, Efek Kelvin bekerja sangat kuat. Agar tetesan murni ini tidak langsung menguap, atmosfer memerlukan kelembapan relatif sebesar 400% hingga 500% ($\text{RH} = 400\text{\%} - 500\text{\%}$), yaitu lewat jenuh 300% hingga 400%.
 - **Kenyataan di Atmosfer:** Di atmosfer Bumi, kelembapan lewat jenuh nyata jarang sekali melebihi 1% ($\text{RH} \approx 101\text{\%}$). Oleh sebab itu, nukleasi homogen hampir tidak pernah terjadi dalam pembentukan awan alami.
 
 > **Catatan Konseptual:** Nukleasi homogen ibarat mendirikan bangunan tinggi di udara tanpa adanya fondasi dasar. Proses tersebut membutuhkan energi yang sangat besar dan kondisi yang hampir mustahil terpenuhi di alam bebas.
@@ -66505,28 +64967,6 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 - **Tindakan:** Pesawat udara menyebarkan partikel **Perak Iodida** ($\text{AgI}$) atau garam higroskopis ke dalam lapisan awan.
 - **Mekanisme Kerja:** Partikel $\text{AgI}$ memiliki struktur kristal yang mirip dengan es, sehingga bertindak sebagai inti nukleasi buatan yang sangat efektif. Partikel ini memicu uap air mengembun atau membeku di permukaannya dengan cepat hingga membentuk tetesan yang cukup berat untuk jatuh sebagai presipitasi.
 
-```python
-# Simulasi Sederhana: Efek Jari-jari terhadap Supersaturasi yang Dibutuhkan (Kelvin Effect)
-import math
-
-def kelvin_supersaturation(radius_nm):
-    # Konstanta untuk air pada 20 derajat Celcius
-    sigma = 0.0728 # Tegangan permukaan (N/m)
-    M = 0.018015   # Massa molar air (kg/mol)
-    rho = 1000     # Massa jenis (kg/m3)
-    R = 8.314      # Konstanta gas (J/mol.K)
-    T = 293.15     # Temperatur (K)
-    
-    radius_m = radius_nm * 1e-9
-    exponent = (2 * sigma * M) / (rho * R * T * radius_m)
-    s_ratio = math.exp(exponent)
-    return (s_ratio - 1) * 100 # Mengembalikan persentase lewat jenuh
-
-# Contoh: Tetesan dengan jari-jari 1 nm vs 100 nm
-print(f"Supersaturasi dibutuhkan untuk r=1nm: {kelvin_supersaturation(1):.2f}%")
-print(f"Supersaturasi dibutuhkan untuk r=100nm: {kelvin_supersaturation(100):.2f}%")
-```
-
 ### Perbandingan Karakteristik Nukleasi
 
 | Karakteristik | Nukleasi Homogen | Nukleasi Heterogen |
@@ -66559,7 +64999,7 @@ Difusi uap terjadi akibat perbedaan konsentrasi atau tekanan uap air di atmosfer
 > **Analogi Magnet dan Debu:** 
 > Bayangkan tetesan air sebagai magnet kecil di dalam ruangan yang dipenuhi debu besi (molekul uap air). Debu tersebut tertarik dan menempel pada permukaan magnet. Semakin banyak debu yang menempel, semakin besar ukuran magnet tersebut, meskipun laju penambahan debu pada lapisan luar akan melambat seiring bertambahnya jari-jari.
 
-Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e_s$) yang mendorong molekul air untuk terus mengkondensasi ke permukaan tetesan.
+Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\text{RH} > 100\text{\%}$), tekanan uap lingkungan ($e$) lebih tinggi dibandingkan tekanan uap jenuh di permukaan tetesan ($e\_s$). Perbedaan ini membentuk gradien tekanan uap ($e - e\_s$) yang mendorong molekul air untuk terus mengkondensasi ke permukaan tetesan.
 
 ---
 
@@ -66568,31 +65008,27 @@ Dalam kondisi **supersaturasi** (kejenuhan melampau, saat Kelembapan Relatif $\t
 Pertumbuhan tetesan melalui difusi uap dirumuskan secara matematis sebagai perubahan jari-jari tetesan ($r$) terhadap waktu ($t$):
 
 <div>
-
 $$
 r \frac{d\text{r}}{d\text{t}} = \frac{S - 1}{F_k + F_d}
 $$
-
 </div>
 
 Keterangan variabel dan parameter dalam persamaan tersebut:
 
 | Simbol | Parameter | Keterangan Fisik |
 | :--- | :--- | :--- |
-| $r$ | Jari-jari tetesan | Ukuran radius tetesan air (\(\mu\text{m}\)) |
+| $r$ | Jari-jari tetesan | Ukuran radius tetesan air ($\mu\text{m}$) |
 | $\text{dr/dt}$ | Laju pertumbuhan | Perubahan jari-jari terhadap satuan waktu |
-| $S - 1$ | Tingkat supersaturasi | Rasio saturasi $S = e/e_s$, sehingga $S - 1$ adalah kelebihan kejenuhan |
-| $F_k$ | Faktor konduksi termal | Hambatan termodinamika akibat pelepasan panas laten kondensasi |
-| $F_d$ | Faktor difusi uap | Hambatan molekuler terhadap perpindahan massa uap air |
+| $S - 1$ | Tingkat supersaturasi | Rasio saturasi $S = e/e\_s$, sehingga $S - 1$ adalah kelebihan kejenuhan |
+| $F\_k$ | Faktor konduksi termal | Hambatan termodinamika akibat pelepasan panas laten kondensasi |
+| $F\_d$ | Faktor difusi uap | Hambatan molekuler terhadap perpindahan massa uap air |
 
 Apabila nilai persetaraan dianggap mendekati konstan ($r \frac{d\text{r}}{d\text{t}} \approx \text{Konstan}$), maka hubungan laju pertumbuhan jari-jari dapat disederhanakan menjadi:
 
 <div>
-
 $$
 \frac{d\text{r}}{d\text{t}} \propto \frac{1}{r}
 $$
-
 </div>
 
 > **Prinsip Utama:** Laju pertumbuhan jari-jari tetesan berbanding terbalik dengan ukuran jari-jari itu sendiri. Artinya, **tetesan berukuran kecil tumbuh lebih cepat dibandingkan tetesan berukuran besar.** Fenomena ini menyebabkan distribusi ukuran tetesan di dalam awan cenderung seragam (homogen) seiring berjalannya waktu.
@@ -66605,8 +65041,8 @@ Proses pertumbuhan melalui difusi uap mengalami hambatan alami berupa **Panas La
 
 Ketika molekul uap air mengembun menjadi cair di permukaan tetesan, energi panas dilepaskan ke tetesan. Pelepasan energi ini menaikkan suhu tetesan tersebut.
 
-1. **Kenaikan Suhu Tetesan:** Suhu tetesan yang meningkat menyebabkan tekanan uap jenuh permukaannya ($e_s$) ikut naik.
-2. **Penurunan Gradien Tekanan:** Kenaikan $e_s$ memperkecil selisih tekanan uap ($e - e_s$) antara udara sekitar dan permukaan tetesan.
+1. **Kenaikan Suhu Tetesan:** Suhu tetesan yang meningkat menyebabkan tekanan uap jenuh permukaannya ($e\_s$) ikut naik.
+2. **Penurunan Gradien Tekanan:** Kenaikan $e\_s$ memperkecil selisih tekanan uap ($e - e\_s$) antara udara sekitar dan permukaan tetesan.
 3. **Penyebab Pelambatan:** Akibat penurunan gradien tekanan tersebut, laju difusi molekul uap air melambat.
 
 *Apabila tetesan air tidak dapat membuang panas latennya ke udara sekitar dengan cepat, pertumbuhan tetesan akan terhenti karena suhunya menjadi terlalu hangat untuk menerima penambahan uap air.*
@@ -66617,10 +65053,10 @@ Ketika molekul uap air mengembun menjadi cair di permukaan tetesan, energi panas
 
 Pada skala mikroskopis, dua efek fisika berinteraksi menentukan apakah tetesan berkembang atau menguap kembali:
 
-| Efek Fisika | Landasan Teori | Dampak pada Tekanan Jenuh ($e_s$) | Pengaruh terhadap Pertumbuhan |
+| Efek Fisika | Landasan Teori | Dampak pada Tekanan Jenuh ($e\_s$) | Pengaruh terhadap Pertumbuhan |
 | :--- | :--- | :--- | :--- |
-| **Kelengkungan** | Persamaan Kelvin | Meningkatkan $e_s$ pada permukaan sangat melengkung | Menghambat pertumbuhan (molekul air mudah menguap) |
-| **Zat Terlarut** | Hukum Raoult | Menurunkan $e_s$ akibat konsentrasi bahan kimia terlarut | Mempermudah pertumbuhan (kondensasi terjadi lebih cepat) |
+| **Kelengkungan** | Persamaan Kelvin | Meningkatkan $e\_s$ pada permukaan sangat melengkung | Menghambat pertumbuhan (molekul air mudah menguap) |
+| **Zat Terlarut** | Hukum Raoult | Menurunkan $e\_s$ akibat konsentrasi bahan kimia terlarut | Mempermudah pertumbuhan (kondensasi terjadi lebih cepat) |
 
 Penggabungan kedua efek ini menghasilkan **Kurva Köhler**. Tetesan harus tumbuh melampaui jari-jari kritis (*critical radius*) agar dapat terus berkembang secara spontan melalui difusi uap.
 
@@ -66650,24 +65086,16 @@ Prakirawan cuaca menggunakan pemodelan mikrofisika untuk mengestimasi potensi cu
 #### Modifikasi Cuaca (*Cloud Seeding*)
 Dalam operasi penyemaian awan, partikel higroskopis (seperti NaCl) disebarkan untuk menciptakan tetesan berukuran lebih besar secara cepat melalui efek larutan. Langkah ini mempercepat difusi uap awal dan mempersingkat waktu pencapaian fase tabrakan-penyatuan.
 
-#### Simulasi Komputasi Sederhana
-Persamaan pertumbuhan jari-jari tetesan ($r^2(t) = r^2(0) + 2\xi t$) dapat disimulasikan menggunakan kode Python berikut:
+#### Jari-jari yang Tumbuh Makin Lambat
+Pada bagian 2, hasil kali $r \cdot \text{dr/dt}$ dianggap mendekati konstan. Bila nilai konstan itu diberi simbol $\xi$ (faktor pertumbuhan), persamaan pertumbuhan dapat diintegrasikan menjadi:
 
-```python
-# Simulasi pertumbuhan jari-jari tetesan (r) terhadap waktu
-# r^2(t) = r^2(0) + 2 * xi * t (xi adalah faktor pertumbuhan)
+<div>
+$$
+r^2(t) = r^2(0) + 2 \xi t
+$$
+</div>
 
-initial_radius = 1e-6  # 1 mikrometer
-growth_factor = 1e-10  # Konstanta penyederhanaan (m^2/s)
-time_steps = [60, 600, 3600]  # detik
-
-for t in time_steps:
-    new_radius_sq = initial_radius**2 + 2 * growth_factor * t
-    new_radius = new_radius_sq**0.5
-    print(f"Jari-jari setelah {t} detik: {new_radius*1e6:.2f} mikrometer")
-```
-
-Output dari simulasi ini menunjukkan bahwa laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, namun melambat secara konsisten seiring bertambahnya ukuran tetesan.
+Yang bertambah sebanding dengan waktu adalah $r^2$, bukan $r$. Setelah tetesan jauh lebih besar daripada jari-jari awalnya, menggandakan jari-jari membutuhkan waktu empat kali lebih lama. Karena itu laju pertambahan jari-jari ($\text{dr/dt}$) berlangsung sangat pesat pada tahap awal, namun melambat secara konsisten seiring bertambahnya ukuran tetesan.
 
 ---
 
@@ -66750,31 +65178,23 @@ $$ E_{\text{c}} = E_{\text{coll}} \times \epsilon $$
 
 ### 5. Menghitung Selisih Kecepatan Jatuh
 
-Berikut adalah skrip Python sederhana untuk menghitung perbedaan kecepatan jatuh antara tetes pengumpul (radius $50\ \mu\text{m}$) dan tetes awan biasa (radius $10\ \mu\text{m}$).
+Hukum Stokes dapat dipakai untuk membandingkan tetes pengumpul (radius $30\ \mu\text{m}$, seukuran tetesan pada contoh *The Great Collector* di bagian 6) dan tetes awan biasa (radius $10\ \mu\text{m}$). Kedua ukuran ini masih di bawah batas $40\ \mu\text{m}$ tempat Hukum Stokes berlaku. Nilai konstanta yang dipakai adalah angka ilustrasi:
 
-```python
-def terminal_velocity_stokes(r_micrometer):
-    # Konstanta fisik
-    g = 9.81         # Gravitasi (m/s^2)
-    rho_l = 1000     # Densitas air (kg/m^3)
-    rho_a = 1.225    # Densitas udara (kg/m^3)
-    eta = 1.8e-5     # Viskositas dinamik udara (kg/ms)
-    
-    # Konversi mikrometer ke meter
-    r = r_micrometer * 1e-6
-    
-    # Rumus Stokes
-    v_t = (2 * r**2 * g * (rho_l - rho_a)) / (9 * eta)
-    return v_t
+| Besaran | Simbol | Nilai |
+| --- | --- | --- |
+| Percepatan gravitasi | $g$ | 9,81 m/s² |
+| Densitas air | $\rho_{\text{l}}$ | 1.000 kg/m³ |
+| Densitas udara | $\rho_{\text{a}}$ | 1,225 kg/m³ |
+| Viskositas dinamik udara | $\eta$ | 0,000018 kg/(m·s) |
 
-# Perhitungan kecepatan terminal
-v_small = terminal_velocity_stokes(10)
-v_large = terminal_velocity_stokes(50)
+Hasilnya:
 
-print(f"Kecepatan tetes 10um: {v_small:.4f} m/s")
-print(f"Kecepatan tetes 50um: {v_large:.4f} m/s")
-print(f"Selisih kecepatan: {v_large - v_small:.4f} m/s")
-```
+| Tetesan | Radius | Kecepatan terminal $V_{\text{t}}$ |
+| --- | ---: | ---: |
+| Tetes awan biasa | $10\ \mu\text{m}$ | 0,0121 m/s |
+| Tetes pengumpul | $30\ \mu\text{m}$ | 0,1089 m/s |
+
+Selisih kecepatannya sekitar 0,0968 m/s. Radius yang tiga kali lebih besar membuat tetes pengumpul jatuh sembilan kali lebih cepat, sesuai hubungan $V_{\text{t}} \propto r^2$.
 
 ### 6. Aplikasi Dunia Nyata dan Skenario
 
@@ -66925,7 +65345,7 @@ Pada lapisan awan dengan rentang temperatur antara $0^\circ\text{C}$ hingga $-40
 
 ### Perbedaan Tekanan Uap Jenuh
 
-Prinsip dasar yang menggerakkan Proses Bergeron-Findeisen terletak pada perbedaan besarnya **Tekanan Uap Jenuh** ($e_s$) di atas permukaan air cair dibandingkan dengan di atas permukaan es padat pada temperatur subnol yang sama.
+Prinsip dasar yang menggerakkan Proses Bergeron-Findeisen terletak pada perbedaan besarnya **Tekanan Uap Jenuh** ($e\_s$) di atas permukaan air cair dibandingkan dengan di atas permukaan es padat pada temperatur subnol yang sama.
 
 #### Prinsip Termodinamika Kesetimbangan
 
@@ -66934,14 +65354,12 @@ Pada temperatur di bawah titik beku ($T < 0^\circ\text{C}$), molekul air pada fa
 Kondisi kesetimbangan termodinamika ini dinyatakan dalam pertidaksamaan:
 
 <div>
-
 $$
 e_{s(\text{air})} > e_{s(\text{es})}
 $$
-
 </div>
 
-Dengan kata lain, ketika kondisi parsial uap air di udara berada pada tingkat jenuh terhadap air cair ($RH_{\text{air}} = 100\text{\%}$), udara tersebut berada pada kondisi lewat jenuh (*supersaturated*) terhadap permukaan kristal es ($RH_{\text{es}} > 100\text{\%}$).
+Dengan kata lain, ketika kondisi parsial uap air di udara berada pada tingkat jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$), udara tersebut berada pada kondisi lewat jenuh (*supersaturated*) terhadap permukaan kristal es ($RH\_{\text{es}} > 100\text{\%}$).
 
 > **Analogi Transfer Massa:**
 > Pembaca dapat membayangkan kondisi ini seperti dua tangki yang terhubung oleh saluran uap. Tangki pertama (Tetes Air) melepaskan uap dengan tekanan tinggi karena ikatan molekul yang lebih longgar, sedangkan tangki kedua (Kristal Es) menarik dan mengikat uap dengan kuat. Akibat perbedaan tekanan ini, massa molekul uap berpindah secara terus-menerus dari tangki air menuju tangki es.
@@ -66950,7 +65368,7 @@ Dengan kata lain, ketika kondisi parsial uap air di udara berada pada tingkat je
 
 Proses transfer massa uap dari tetesan air superdingin ke kristal es berlangsung dalam tahapan berurutan sebagai berikut:
 
-1. **Pembentukan Gradien Tekanan Uap:** Akibat pertidaksamaan $e_{s(\text{air})} > e_{s(\text{es})}$, tercipta gradien tekanan uap parsial antara mikro-lingkungan di sekitar tetesan air cair dan mikro-lingkungan di sekitar kristal es.
+1. **Pembentukan Gradien Tekanan Uap:** Akibat pertidaksamaan $e\_{s(\text{air})} > e\_{s(\text{es})}$, tercipta gradien tekanan uap parsial antara mikro-lingkungan di sekitar tetesan air cair dan mikro-lingkungan di sekitar kristal es.
 2. **Penguapan Tetes Air (*Evaporation*):** Tetesan air superdingin mengalami penguapan untuk mempertahankan kejenuhan uap di sekitarnya.
 3. **Difusi Molekuler Uap Air (*Vapor Diffusion*):** Molekul uap air berpindah secara difusi melewati gradien tekanan menuju wilayah bertekanan uap rendah di dekat permukaan kristal es.
 4. **Deposisi Fase Uap (*Deposition*):** Saat molekul uap menyentuh permukaan kristal es, uap air langsung mengalami perubahan fase menjadi padat (deposisi) dan menyatu dengan kisi kristal.
@@ -66975,11 +65393,9 @@ flowchart TD
 Laju perubahan massa kristal es ($M$) terhadap waktu ($t$) yang disebabkan oleh proses difusi uap air dirumuskan melalui persamaan berikut:
 
 <div>
-
 $$
 \frac{dM}{dt} = C \cdot f(T, P) \cdot (S_i - 1)
 $$
-
 </div>
 
 Persamaan tersebut memiliki variabel-variabel termodinamika sebagai berikut:
@@ -66988,9 +65404,9 @@ Persamaan tersebut memiliki variabel-variabel termodinamika sebagai berikut:
 - $t$: Waktu ($\text{s}$).
 - $C$: Faktor kapasitas bentuk (*capacitance factor*) yang bergantung pada geometri habit kristal es (misalnya jarum, pelat heksagonal, atau dendrit).
 - $f(T, P)$: Fungsi koefisien termodinamika gabungan dari konduktivitas termal dan difusivitas uap air pada temperatur ($T$) dan tekanan ($P$).
-- $(S_i - 1)$: Tingkat lewat-jenuh uap air relatif terhadap permukaan es padat, di mana $S_i = \frac{e}{e_{s(\text{es})}}$.
+- $(S\_i - 1)$: Tingkat lewat-jenuh uap air relatif terhadap permukaan es padat, di mana $S\_i = \frac{e}{e\_{s(\text{es})}}$.
 
-Karena nilai $(S_i - 1)$ selalu positif dan signifikan dalam awan fase campuran, pertumbuhan massa kristal es terus berlangsung dengan laju yang lebih tinggi dibandingkan laju pertumbuhan tetes air.
+Karena nilai $(S\_i - 1)$ selalu positif dan signifikan dalam awan fase campuran, pertumbuhan massa kristal es terus berlangsung dengan laju yang lebih tinggi dibandingkan laju pertumbuhan tetes air.
 
 ### Peran Proses Bergeron-Findeisen dalam Pembentukan Presipitasi
 
@@ -67015,7 +65431,7 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 
 #### Prosedur dan Mekanisme Penyemaian
 
-1. **Penaburan Agen Penyemai:** Pesawat udara atau roket melepaskan material penyemai seperti **Perak Iodida** ($\text{AgI}$) atau es kering ($\text{CO}_2$ padat) ke dalam lapisan awan superdingin.
+1. **Penaburan Agen Penyemai:** Pesawat udara atau roket melepaskan material penyemai seperti **Perak Iodida** ($\text{AgI}$) atau es kering ($\text{CO}\_2$ padat) ke dalam lapisan awan superdingin.
 2. **Fungsi AgI sebagai Inti Es Buatan:** Kisi kristal $\text{AgI}$ memiliki struktur geometri heksagonal yang sangat presisi dan serupa dengan struktur kisi kristal es alami, sehingga $\text{AgI}$ efektif bertindak sebagai Inti Es ($\text{IN}$) pada temperatur yang lebih hangat ($T \approx -4^\circ\text{C}$).
 3. **Inisiasi Proses Bergeron-Findeisen:** Kehadiran inti es buatan menginisiasi pembentukan kristal es seketika. Gradien tekanan uap langsung terbentuk antara tetesan air superdingin dan es baru tersebut.
 4. **Pertumbuhan Pesat dan Presipitasi:** Kristal es tumbuh pesat melalui deposisi uap, mencapai ukuran kritis presipitasi, lalu jatuh sebagai salju atau mencair menjadi hujan di permukaan tanah.
@@ -67024,8 +65440,8 @@ Pada kondisi kekeringan atau kebutuhan presipitasi tambahan, lapisan awan dingin
 
 | Tahapan | Tetesan Air Superdingin | Kristal Es Padat | Kondisi Kejenuhan Atmosfer | Hasil Akhir Mikro Fisika |
 | :--- | :--- | :--- | :--- | :--- |
-| **Inisiasi (Awal)** | Konsentrasi tinggi, fase cair superdingin | Konsentrasi sangat rendah | Jenuh terhadap air cair ($RH_{\text{air}} = 100\text{\%}$) | Kesetimbangan uap belum terganggu |
-| **Transformasi (Proses)** | Mengalami evaporasi mendadak | Mengalami deposisi uap pesat | Lewat-jenuh terhadap es ($RH_{\text{es}} > 100\text{\%}$) | Transfer massa uap dari cair ke padat |
+| **Inisiasi (Awal)** | Konsentrasi tinggi, fase cair superdingin | Konsentrasi sangat rendah | Jenuh terhadap air cair ($RH\_{\text{air}} = 100\text{\%}$) | Kesetimbangan uap belum terganggu |
+| **Transformasi (Proses)** | Mengalami evaporasi mendadak | Mengalami deposisi uap pesat | Lewat-jenuh terhadap es ($RH\_{\text{es}} > 100\text{\%}$) | Transfer massa uap dari cair ke padat |
 | **Klimaks (Terminasi)** | Menyusut hingga habis menguap | Tumbuh mekar dan semakin berat | Kesetimbangan uap bergeser | Partikel es mulai jatuh (presipitasi) |
 
 Tanpa keberadaan Proses Bergeron-Findeisen pada atmosfer lintang menengah dan tinggi, laju pembentukan presipitasi pada awan-awan dingin akan berlangsung jauh lebih lambat, yang berpengaruh langsung terhadap distribusi curah hujan global.
@@ -67279,8 +65695,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -67444,14 +65860,17 @@ Selanjutnya, gabungan antara keahlian, kebutuhan dunia, dan penghasilan akan men
 
 Inti dari Ikigai terletak di titik tengah yang mempertemukan keempat pilar tersebut secara selaras:
 
+<div>
 $$
-\begin{aligned}
-\text{Ikigai} &= \text{(Apa yang kamu Cintai)} \\
-&\quad \cap \text{(Apa yang kamu Kuasai)} \\
-&\quad \cap \text{(Apa yang Dibutuhkan Dunia)} \\
-&\quad \cap \text{(Apa yang Dapat Menghasilkan Uang)}
-\end{aligned}
+\text{Ikigai} = \text{(Apa yang kamu Cintai)} \quad \cap \text{(Apa yang kamu Kuasai)}
 $$
+</div>
+
+<div>
+$$
+\quad \cap \text{(Apa yang Dibutuhkan Dunia)} \quad \cap \text{(Apa yang Dapat Menghasilkan Uang)}
+$$
+</div>
 
 Supaya diagram Venn tadi tidak hanya ada di bayanganmu, berikut setiap zona beserta pilar yang membentuknya, tersusun dari dua pilar sampai inti.
 
@@ -68029,8 +66448,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -68206,15 +66625,7 @@ Seorang junior developer menghadapi *bug* yang tidak kunjung selesai selama dua 
 - **Respon Fixed:** "Mungkin saya bukan orang logika. Saya tidak cocok jadi programmer." (Menyerah dan frustrasi).
 - **Respon Growth:** "Bug ini menunjukkan ada konsep memori yang belum saya pahami. Ini adalah kesempatan untuk mendalami dokumentasi lebih jauh."
 
-```python
-# Analogi Kode: Loop Pertumbuhan
-while not success:
-    attempt()
-    if failure:
-        analyze_error() # Ini adalah momen "Growth"
-        adjust_strategy()
-        continue # Coba lagi dengan data baru
-```
+Respons growth ini bisa diulang sebagai sebuah siklus sampai berhasil: mencoba, gagal, menganalisis kesalahan (inilah momen *growth*), menyesuaikan strategi, lalu mencoba lagi dengan bekal pemahaman yang baru.
 
 #### Kepemimpinan di Kantor
 
@@ -68340,9 +66751,9 @@ Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap 
 
 Mari kita gunakan pendekatan matematis sederhana untuk memahami pergeseran ini:
 
-**Rumus Narasi Lama:** $\\text{Kegagalan} = \\text{Identitas} + \\text{Akhir Dari Jalan}$
+**Rumus Narasi Lama:** $\text{Kegagalan} = \text{Identitas} + \text{Akhir Dari Jalan}$
 
-**Rumus Membingkai Ulang (Reframing):** $\\text{Kegagalan} = \\text{Strategi yang Kurang Tepat} + \\text{Data Baru}$
+**Rumus Membingkai Ulang (Reframing):** $\text{Kegagalan} = \text{Strategi yang Kurang Tepat} + \text{Data Baru}$
 
 Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu, melainkan sebuah **umpan balik (feedback)**.
 
@@ -68416,8 +66827,8 @@ Angela Duckworth, seorang psikolog yang mempopulerkan konsep ini, menemukan pola
 
 Mari kita lihat dalam bentuk rumus matematis:
 
-1. $\\text{Bakat} \\times \\text{Usaha} = \\text{Keterampilan}$
-2. $\\text{Keterampilan} \\times \\text{Usaha} = \\text{Pencapaian}$
+1. $\text{Bakat} \times \text{Usaha} = \text{Keterampilan}$
+2. $\text{Keterampilan} \times \text{Usaha} = \text{Pencapaian}$
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
@@ -68449,7 +66860,7 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
 
 1. **Minat (Interest):** Grit dimulai dengan menikmati apa yang kamu lakukan. Kamu tidak harus langsung menemukan panggilan hidupmu; mulailah dengan eksplorasi dan rasa ingin tahu yang mendalam terhadap suatu bidang.
 2. **Latihan (Practice):** Latihan yang dimaksud adalah *deliberate practice* (latihan sengaja) dan bukan latihan biasa. Ini adalah disiplin untuk fokus pada kelemahanmu dan mencoba memperbaikinya setiap hari.
-   - $\\text{Kualitas Latihan} > \\text{Kuantitas Jam}$
+   - $\text{Kualitas Latihan} > \text{Kuantitas Jam}$
 3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang tak tergoyahkan.
 4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu tidak hanya berharap keadaan membaik dengan sendirinya, tetapi memiliki keyakinan bahwa usahamu mampu mengubah masa depanmu. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
 
@@ -68527,11 +66938,13 @@ Kita perlu mengenali bahwa kita sedang menderita tanpa melebih-lebihkannya. Kita
 
 Mengapa self-compassion sangat penting bagi resiliensi? Secara biologis, ketika kita mengkritik diri sendiri dengan kejam, otak kita mengaktifkan sistem **"Threat Defense"** (Amigdala). Ini melepaskan hormon stres seperti kortisol.
 
-Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\\text{R}$) dan belas kasih ($\\text{SC}$) sebagai berikut:
+Sebaliknya, self-compassion mengaktifkan sistem **"Caregiving"** yang melepaskan **Oksitosin** dan **Endorfin**. Secara matematis, kita bisa melihat hubungan antara resiliensi ($\text{R}$) dan belas kasih ($\text{SC}$) sebagai berikut:
 
+<div>
 $$
-\\text{R} \\propto \\frac{\\text{Self-Compassion}}{\\text{Self-Criticism}}
+\text{R} \propto \frac{\text{Self-Compassion}}{\text{Self-Criticism}}
 $$
+</div>
 
 Semakin tinggi pembilangnya (belas kasih), semakin besar pula daya tahan mental seseorang. Dengan mengurangi tekanan internal, energi mental yang tadinya habis untuk mencaci diri sendiri dapat dialihkan untuk mencari solusi dan bangkit kembali.
 
@@ -68624,18 +67037,20 @@ Tidak semua interaksi sosial memperkuat resiliensi. Hubungan yang toksik justru 
 
 Dalam sosiologi, kekuatan hubungan ini sering diukur dengan konsep **Modal Sosial**. Jika kita formulasikan secara sederhana:
 
+<div>
 $$
 \text{R}_{\text{ext}} = \sum_{\text{i}=1}^{\text{n}} (\text{K}_{\text{i}} \times \text{T}_{\text{i}})
 $$
+</div>
 
-Dimana:
+Di mana:
 
-- $\text{R}_{\text{ext}}$ adalah Resiliensi Eksternal.
+- $\text{R}\_{\text{ext}}$ adalah Resiliensi Eksternal.
 - $\text{K}$ adalah Kualitas koneksi dengan individu $\text{i}$.
 - $\text{T}$ adalah Tingkat Kepercayaan pada individu $\text{i}$.
 - $\text{n}$ adalah jumlah orang dalam lingkaran inti kamu.
 
-**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi ($\text{K} \\times \text{T}$) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
+**Artinya:** Lebih baik memiliki 3 hubungan dengan kualitas dan kepercayaan tinggi ($\text{K} \times \text{T}$) daripada memiliki 100 koneksi dangkal yang tidak memiliki nilai kepercayaan.
 
 ### 4. Membangun Jaring Sebelum Jatuh
 
@@ -68666,7 +67081,7 @@ Untuk kamu yang lebih suka belajar melalui tindakan, cobalah latihan **"Peta Jar
 
 **Penting:** Jaring pengaman sosial adalah jalan dua arah. Untuk memiliki jaring yang kuat, kamu juga harus bersedia menjadi bagian dari jaring pengaman orang lain. Saat kamu membantu orang lain, otakmu melepaskan oksitosin yang secara paradoks justru meningkatkan ketahanan mental *kamu* sendiri.
 
-> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak and kapan harus bersandar pada orang lain.
+> **Insight Utama:** Kemandirian yang ekstrem (Hyper-independence) sebenarnya adalah mekanisme pertahanan dari trauma, bukan tanda resiliensi. Resiliensi yang sejati adalah mengetahui kapan harus berdiri tegak dan kapan harus bersandar pada orang lain.
 
 
 <!-- Chapter: 08_fleksibilitas-kognitif-dan-adaptasi-seni-menjadi-air-di-dunia-yang-terus-berubah -->
@@ -68756,40 +67171,29 @@ Dalam dunia rekayasa perangkat lunak atau manajemen proyek, fleksibilitas kognit
 
 **Respon Fleksibel (Adaptive):** Menerima kenyataan bahwa teknologi X tidak lagi layak. Melakukan pivot dengan cepat ke teknologi Y, meskipun harus melakukan *refactoring* pada sebagian kode.
 
-### Representasi Logika Adaptasi (Code Snippet)
+### Jalur Alternatif Saat Perubahan Kritis
 
-Secara teknis, sistem yang adaptif menggunakan logika *fallback* atau *circuit breaker*. Kita bisa menerapkan logika ini dalam pola pikir kita:
+Sistem yang adaptif punya jalur cadangan (*fallback*), dan pola yang sama bisa kamu terapkan dalam cara berpikirmu. Saat perubahan tak terduga datang, nilai dulu apakah perubahan itu kritis. Kalau tidak kritis, rencana awal tetap dijalankan. Kalau kritis, gunakan tahap Orient untuk mencari alternatif, misalnya:
 
-```python
-def handle_crisis(current_plan, unexpected_change):
-    print(f"Menjalankan: {current_plan}")
-    
-    if unexpected_change.is_critical():
-        # Tahap Orientasi: Mencari alternatif
-        alternatives = ["Pivot ke Rencana B", "Gunakan Fallback System", "Hentikan dan Evaluasi"]
-        
-        # Tahap Keputusan & Tindakan
-        new_plan = select_best_alternative(alternatives)
-        print(f"ADAPTASI: Beralih ke {new_plan}")
-        return execute(new_plan)
-    
-    return continue_plan()
+1. Pivot ke Rencana B.
+2. Beralih ke sistem cadangan.
+3. Menghentikan langkah dan mengevaluasi ulang.
 
-# Analogi: Jika rencana utama gagal (Error), sistem tidak crash (Stress), 
-# tetapi beralih ke jalur alternatif (Catch/Exception Handling).
-```
+Setelah itu, tahap Decide dan Act memilih alternatif terbaik lalu menjalankannya. Ibarat sistem yang tangguh, kegagalan rencana utama tidak membuatmu runtuh karena stres, tetapi membuatmu beralih ke jalur alternatif.
 
 ## 5. Menghitung Keberhasilan Adaptasi
 
-Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
+Secara matematis, peluang kesuksesan kita dalam lingkungan yang tidak pasti ($\mathbb{P}\_{\text{s}}$) berbanding lurus dengan jumlah alternatif valid ($n$) yang dapat kita hasilkan dalam waktu singkat ($t$).
 
+<div>
 $$
 \mathbb{P}_{\text{s}} \approx \sum_{i=1}^{n} \frac{A_i}{t}
 $$
+</div>
 
 Di mana:
 
-- $A_i$ adalah efektivitas dari alternatif ke-$i$.
+- $A\_i$ adalah efektivitas dari alternatif ke-$i$.
 - Semakin banyak alternatif ($n$) yang bisa dipikirkan otakmu secara fleksibel, semakin tinggi probabilitasmu untuk bertahan dan menang.
 
 ## Menjadi Cair
@@ -68876,26 +67280,15 @@ Mindfulness bukan berarti duduk diam selama berjam-jam dalam meditasi. Mindfulne
 	2. **Strategic Nap:** Tidur siang selama 20 menit untuk menyegarkan memori kognitif.
 	3. **High-Protein Fuel:** Memilih makanan yang menjaga stabilitas gula darah, bukan lonjakan gula dari camilan manis.
 
-**Workflow Pemulihan untuk Engineer/Profesional:**
+**Protokol Pemulihan Sesuai Tingkat Stres:**
 
-```python
-def stress_recovery_protocol(stress_level):
-    if stress_level > 8:
-        perform_box_breathing(cycles=4)
-        do_brain_dump()
-    elif 5 <= stress_level <= 8:
-        take_micro_break(duration_minutes=10)
-        hydrate_and_stretch()
-    else:
-        continue_focused_work()
-        maintain_mindfulness()
+| Tingkat stres | Tindakan pemulihan |
+| --- | --- |
+| **Tinggi** | Lakukan beberapa putaran pernapasan kotak, lalu *brain dump* |
+| **Sedang** | Ambil jeda mikro sekitar 10 menit, minum air, dan lakukan peregangan |
+| **Rendah** | Lanjutkan kerja fokus sambil menjaga *mindfulness* |
 
-# Loop harian untuk menjaga resiliensi
-while day_is_active:
-    monitor_energy_levels()
-    if energy < threshold:
-        apply_rest_type("Sensory" or "Mental")
-```
+Sepanjang hari, pantau terus tingkat energimu. Begitu energi mulai menipis, ambil istirahat sensorik atau istirahat mental seperti yang dijelaskan di bagian 3.
 
 ### Ringkasan Praktis untukmu
 
@@ -69079,31 +67472,25 @@ Gunakan pertanyaan-pertanyaan ini sebagai kompas saat kamu merasa tersesat dalam
 
 Bagi kamu yang menyukai data dan struktur, kamu bisa membuat resilience tracker sederhana. Resiliensi dapat dikuantifikasi secara subjektif untuk melihat tren perkembanganmu.
 
-### Contoh Log Resiliensi Sederhana (Format Markdown/CSV)
+### Contoh Log Resiliensi Tiga Hari
 
-Jika kamu seorang pengembang atau terbiasa dengan spreadsheet, kamu bisa mencatatnya seperti ini:
+Jika kamu terbiasa dengan spreadsheet, catat tiga hal setiap hari: tingkat stres, berapa menit yang kamu butuhkan untuk pulih, dan catatan singkat tentang pemicunya. Dari dua angka pertama, indeks resiliensi harian (*Resilience Index*) dihitung dengan rumus sederhana berikut:
 
-```python
-# Contoh struktur data sederhana untuk memantau "Resilience Score" harian
-daily_resilience_log = [
-    {"date": "2023-10-25", "stress_level": 8, "recovery_time_min": 120, "notes": "Deadline mendadak"},
-    {"date": "2023-10-26", "stress_level": 4, "recovery_time_min": 30, "notes": "Rapat rutin"},
-    {"date": "2023-10-27", "stress_level": 7, "recovery_time_min": 45, "notes": "Konflik dengan rekan"},
-]
-
-def calculate_index(stress, recovery):
-    # Rumus sederhana: Semakin rendah waktu pemulihan pada stres tinggi, 
-    # maka indeks resiliensi semakin tinggi.
-    return (stress * 10) / (recovery + 1)
-```
-
-Secara matematis, rumus indeks resiliensi harian ($\text{Resilience Index}$) dirumuskan sebagai berikut:
-
+<div>
 $$
-\text{Resilience Index} = \frac{\text{stress\_level} \times 10}{\text{recovery\_time\_min} + 1}
+\text{Indeks Resiliensi} = \frac{\text{Tingkat Stres} \times 10}{\text{Waktu Pemulihan (menit)} + 1}
 $$
+</div>
 
-**Real-world Application:** Dengan melihat data di atas, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres ($\text{stress\_level}$) cukup tinggi (7), waktu pemulihan ($\text{recovery\_time\_min}$) kamu jauh lebih cepat (45 menit) dibanding tanggal 25. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
+Semakin singkat waktu pemulihan pada tingkat stres yang tinggi, semakin tinggi indeks resiliensinya. Berikut contoh rekaan log selama tiga hari beserta indeksnya:
+
+| Tanggal | Tingkat stres | Waktu pemulihan (menit) | Catatan | Indeks resiliensi |
+| --- | --- | --- | --- | --- |
+| 25 Oktober 2023 | 8 | 120 | Deadline mendadak | 80 / 121 = 0,66 |
+| 26 Oktober 2023 | 4 | 30 | Rapat rutin | 40 / 31 = 1,29 |
+| 27 Oktober 2023 | 7 | 45 | Konflik dengan rekan | 70 / 46 = 1,52 |
+
+**Real-world Application:** Dari tabel tersebut, kamu bisa menyadari bahwa pada tanggal 27, meskipun tingkat stres cukup tinggi (7), waktu pemulihanmu jauh lebih cepat (45 menit) dibanding tanggal 25 (120 menit), sehingga indeksnya naik dari 0,66 menjadi 1,52. Ini adalah bukti nyata bahwa "otot" resiliensimu sedang berkembang!
 
 ## 5. Gagal Memenangkan Tender
 
@@ -69143,13 +67530,15 @@ Banyak orang menganggap resiliensi seperti "ban serep",hanya digunakan saat kead
 
 > **Insight:** Resiliensi sejati tidak hanya berarti kemampuan untuk "pulih" (bounce back), tetapi juga kemampuan untuk "melompat maju" (bounce forward) dan beradaptasi secara berkelanjutan.
 
-Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan ($\\text{T}$) dan kapasitas resiliensi ($\\text{C}$) terhadap hasil pertumbuhan ($\\text{G}$) sebagai berikut:
+Dalam matematika pertumbuhan, kita bisa menggambarkan hubungan antara tantangan ($\text{T}$) dan kapasitas resiliensi ($\text{C}$) terhadap hasil pertumbuhan ($\text{G}$) sebagai berikut:
 
+<div>
 $$
-\\text{G} = \\int (\\text{C} - \\text{T}) \\, \\text{d}t
+\text{G} = \int (\text{C} - \text{T}) \text{d}t
 $$
+</div>
 
-Jika kapasitas ($\\text{C}$) kamu selalu lebih besar dari tantangan ($\\text{T}$) melalui persiapan jangka panjang, maka hasil pertumbuhan ($\\text{G}$) akan selalu positif, bahkan di tengah masa sulit.
+Jika kapasitas ($\text{C}$) kamu selalu lebih besar dari tantangan ($\text{T}$) melalui persiapan jangka panjang, maka hasil pertumbuhan ($\text{G}$) akan selalu positif, bahkan di tengah masa sulit.
 
 ### Pohon Bambu vs. Pohon Ek
 
@@ -69273,8 +67662,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-19T16:46:25.538Z',
-  '2026-10-19T16:46:25.538Z'
+  '2026-10-21T13:10:05.598Z',
+  '2026-10-21T13:10:05.598Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
