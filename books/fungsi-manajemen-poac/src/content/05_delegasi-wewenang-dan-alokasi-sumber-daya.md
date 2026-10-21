@@ -58,21 +58,6 @@ Dalam skenario ini, penerapan ketiga prinsip tersebut terlihat sebagai berikut:
 - **Delegasi Wewenang:** Agar keputusan bisa diambil dengan cepat tanpa birokrasi berbelit-belit, CEO memberikan wewenang penuh kepada Manajer Proyek untuk menyetujui biaya lembur tim hingga batas nominal tertentu.
 - **Alokasi Sumber Daya:** Perusahaan mengalokasikan sumber daya secara taktis. Di sisi finansial, 40% anggaran pemasaran bulan ini dialihkan khusus untuk promosi fitur baru. Di sisi infrastruktur fisik, perusahaan menyewa kapasitas server tambahan (*cloud capacity*) untuk mengantisipasi lonjakan pengunjung saat promo berlangsung.
 
-```python
-# Analogi Sederhana: Fungsi Alokasi dalam Kode
-def alokasi_sumber_daya(total_anggaran, daftar_departemen):
-    prioritas = {"Marketing": 0.5, "IT": 0.3, "Ops": 0.2}
-    distribusi = {}
-    
-    for dep in daftar_departemen:
-        distribusi[dep] = total_anggaran * prioritas.get(dep, 0.1)
-    
-    return distribusi
-
-# Output menunjukkan bagaimana anggaran dibagi secara strategis
-print(alokasi_sumber_daya(1000000, ["Marketing", "IT", "Ops"]))
-```
-
 ## 5. Hambatan dalam Delegasi dan Alokasi
 
 Meskipun terlihat mudah di atas kertas, praktiknya sering kali sulit karena faktor manusia:

@@ -79,29 +79,34 @@ Dalam manajemen modern, siklus **PDCA (Plan-Do-Check-Act)** digunakan sebagai pa
 4. **Tindakan Perbaikan:** Langkah segera yang diambil adalah mengganti bahan pengemas untuk semua pesanan yang diproses hari ini. Sedangkan untuk tindakan jangka panjang, manajemen meninjau ulang kontrak kerja sama dengan pemasok serta menetapkan standar minimum ketebalan bahan pengemas yang tidak bisa ditawar.
 5. **Mekanisme Umpan Balik:** Memasukkan tolok ukur 'Kualitas Pengemasan' ke dalam KPI tim logistik agar kualitas pengiriman selalu terpantau.
 
-## Logika Pemantauan Sederhana
+## Batas Toleransi Penyimpangan
 
-Dalam pengelolaan data atau sistem otomatis, pemantauan kinerja dapat dilakukan menggunakan program sederhana. Berikut adalah contoh logika (pseudo-code) dalam Python untuk memberikan peringatan dini terhadap penyimpangan kinerja:
+Dalam pengelolaan data atau sistem otomatis, evaluasi kinerja dapat memberi peringatan dini begitu hasil mulai menyimpang. Caranya, varians dihitung sebagai persentase dari standar:
 
-```python
-# Standar Kinerja
-TARGET_PRODUKSI = 1000
-TOLERANSI_PENYIMPANGAN = 0.05 # 5%
+<div>
+$$
+\text{Varians relatif} = \frac{A - S}{S} \times 100 \text{\%}
+$$
+</div>
 
-def evaluasi_kinerja(aktual):
-    varians = (aktual - TARGET_PRODUKSI) / TARGET_PRODUKSI
-    
-    if varians >= 0:
-        return "Kinerja Baik: Pertahankan atau Berikan Reward."
-    elif abs(varians) <= TOLERANSI_PENYIMPANGAN:
-        return "Penyimpangan Kecil: Pantau lebih ketat."
-    else:
-        return "TINDAKAN KOREKTIF DIPERLUKAN: Lakukan Root Cause Analysis segera!"
+Hasil perhitungan itu lalu dipilah ke dalam tiga status. Dalam contoh rekaan ini, target produksi ditetapkan 1.000 unit dengan toleransi penyimpangan 5%:
 
-# Simulasi hasil aktual
-hasil_hari_ini = 940
-print(f"Hasil: {hasil_hari_ini} unit -> Status: {evaluasi_kinerja(hasil_hari_ini)}")
-```
+| Posisi hasil terhadap target | Status | Tindakan |
+| --- | --- | --- |
+| Sama dengan atau di atas target | Kinerja baik | Pertahankan atau berikan *reward* |
+| Di bawah target, paling jauh 5% | Penyimpangan kecil | Pantau lebih ketat |
+| Di bawah target lebih dari 5% | Tindakan korektif diperlukan | Lakukan *root cause analysis* segera |
+
+Misalnya, hasil produksi hari ini 940 unit:
+
+| Komponen | Nilai |
+| --- | --- |
+| Standar ($S$) | 1.000 unit |
+| Hasil aktual ($A$) | 940 unit |
+| Varians ($A - S$) | -60 unit |
+| Varians relatif | -6% |
+
+Penyimpangan 6% sudah melewati toleransi 5%, sehingga statusnya masuk tingkat ketiga pada tabel status: tindakan korektif diperlukan dan *root cause analysis* perlu segera dilakukan.
 
 ## Lingkaran yang Tak Pernah Putus
 

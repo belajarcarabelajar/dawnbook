@@ -77,26 +77,6 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 2. **Diskusi Kolaboratif:** Andi memahami tekanan waktu yang dihadapi Budi, sementara Budi menyadari risiko teknis jika mereka membangun sistem monolitik tanpa struktur yang rapi.
 3. **Solusi Inovatif:** Mereka sepakat membangun sistem dengan pendekatan *modular monolith*. Pendekatan ini memungkinkan tim merilis produk dengan cepat (keinginan Budi), tetapi dengan batas modul yang jelas sehingga memudahkan transisi ke *microservices* di masa depan (keinginan Andi).
 
-```python
-# Analogi sederhana dalam kode:
-# Mengatasi benturan logika dengan pendekatan modular yang adaptif
-
-def process_data_v1(data):
-    # Pendekatan Andi: Kompleks & Scalable
-    pass
-
-def process_data_v2(data):
-    # Pendekatan Budi: Simpel & Cepat
-    pass
-
-# Solusi Tengah: Modular & Adaptive
-def professional_resolution_logic(data, deadline_is_near):
-    if deadline_is_near:
-        return fast_modular_approach(data)
-    else:
-        return scalable_architecture_approach(data)
-```
-
 ## 6. Tips Praktis Menangani Perselisihan Secara Profesional
 
 - **Gunakan *I-Statements* (Pernyataan "Saya").** Misalnya, katakan "Saya khawatir dengan stabilitas sistem jika kita mengambil langkah ini," alih-alih menyerang dengan kalimat, "Kamu membuat sistem ini tidak stabil."

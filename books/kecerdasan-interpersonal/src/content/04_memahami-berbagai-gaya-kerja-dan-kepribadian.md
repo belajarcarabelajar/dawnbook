@@ -69,23 +69,17 @@ Keterangan variabel:
 
 ## Pemetaan Gaya Komunikasi untuk Peran Teknis
 
-Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development atau engineering, menganggap profil rekan kerja sebagai objek data dapat membantu mempermudah pemetaan gaya komunikasi. Berikut adalah contoh pemodelan profil rekan kerja:
+Bagi kamu yang terbiasa bekerja di bidang teknis seperti software development atau engineering, mencatat profil rekan kerja secara terstruktur, layaknya mengisi kolom-kolom data, dapat membantu mempermudah pemetaan gaya komunikasi. Berikut adalah contoh rekaan kartu profil satu rekan kerja:
 
-```json
-{
-  "rekan_kerja": {
-    "nama": "Andi (Marketing Manager)",
-    "tipe_disc": "Influence",
-    "prioritas": ["Kecepatan", "Visual", "Networking"],
-    "hindari": ["Laporan 50 halaman", "Debat detail sintaksis"],
-    "metode_komunikasi_terbaik": {
-      "format": "Presentasi visual berdurasi 10 menit",
-      "pembukaan": "Menanyakan kabar akhir pekan",
-      "inti_pesan": "Bagaimana fitur ini membuat user merasa senang"
-    }
-  }
-}
-```
+| Aspek | Isi |
+| :--- | :--- |
+| **Nama** | Andi (Marketing Manager) |
+| **Tipe DISC** | Influence |
+| **Prioritas** | Kecepatan, visual, *networking* |
+| **Hal yang dihindari** | Laporan 50 halaman, debat soal detail sintaksis |
+| **Format komunikasi terbaik** | Presentasi visual berdurasi 10 menit |
+| **Pembuka percakapan** | Menanyakan kabar akhir pekan |
+| **Inti pesan** | Bagaimana fitur ini membuat *user* merasa senang |
 
 **Studi Kasus:** Seorang *software engineer* (Tipe C) perlu menjelaskan kepada *product owner* (Tipe D) tentang pentingnya melakukan alokasi waktu selama dua minggu untuk peningkatan kualitas kode (*refactoring*).
 

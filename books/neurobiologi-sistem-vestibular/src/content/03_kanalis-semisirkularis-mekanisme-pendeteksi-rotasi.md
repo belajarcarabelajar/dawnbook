@@ -81,31 +81,26 @@ Saat kepala berputar ke kanan:
 
 Otak membandingkan perbedaan input dari kedua sisi ini. Jika ada ketidaksesuaian (misalnya karena infeksi pada satu sisi), otak akan mengalami kebingungan sinyal dan timbullah gejala **vertigo**.
 
-### 6. Simulasi Sensorik
+### 6. *Firing Rate* Saat Kepala Menoleh
 
-Dalam teknik robotika dan pengembangan *Virtual Reality* (VR), prinsip kanalis semisirkularis ditiru menggunakan sensor yang disebut **Gyroscope**.
+Dalam teknik robotika dan pengembangan *Virtual Reality* (VR), prinsip kanalis semisirkularis ditiru menggunakan sensor yang disebut **Gyroscope**. Gyroscope mengukur kecepatan sudut, dan pada saraf vestibular besaran yang sama tampil sebagai perubahan *firing rate*.
 
-Berikut adalah contoh sederhana dalam Python bagaimana representasi perubahan *firing rate* (frekuensi detak) saraf vestibular diproses berdasarkan kecepatan sudut kepala:
+Perubahan *firing rate* (frekuensi detak) saraf vestibular terhadap kecepatan sudut kepala bisa digambarkan dengan model sederhana. Saraf punya laju istirahat, lalu putaran ke arah sensor menambah laju itu dan putaran ke arah lawan menguranginya, sebanding dengan kecepatan sudutnya. Hasilnya dibatasi agar tidak pernah kurang dari nol.
 
-```python
-def calculate_vestibular_firing_rate(angular_velocity, base_rate=90, sensitivity=0.5):
-    """
-    Menghitung firing rate saraf vestibular (simulasi sederhana).
-    
-    angular_velocity: derajat per detik (positif ke satu arah, negatif ke arah lain)
-    base_rate: frekuensi istirahat saraf (spikes per second)
-    sensitivity: seberapa responsif saraf terhadap gerakan
-    """
-    # Firing rate meningkat saat berputar ke arah sensor, menurun ke arah lawan
-    firing_rate = base_rate + (sensitivity * angular_velocity)
-    
-    # Memastikan firing rate tidak negatif
-    return max(0, firing_rate)
+<div>
+$$
+\text{Firing rate} = \text{laju istirahat} + \text{sensitivitas} \times \text{kecepatan sudut}
+$$
+</div>
 
-# Skenario: Kepala mendadak menoleh ke kanan dengan kecepatan 60 deg/s
-print(f"Firing Rate Kanan: {calculate_vestibular_firing_rate(60)} spikes/s")
-print(f"Firing Rate Kiri: {calculate_vestibular_firing_rate(-60)} spikes/s")
-```
+Dengan angka ilustrasi, misalkan laju istirahatnya 90 *spikes* per detik dan sensitivitasnya 0,5 *spikes* per detik untuk setiap derajat per detik. Saat kepala mendadak menoleh ke kanan dengan kecepatan 60°/s, putaran yang sama tercatat positif bagi kanalis horizontal kanan dan negatif bagi kanalis horizontal kiri:
+
+| Kanalis horizontal | Kecepatan sudut yang dirasakan | Perhitungan | *Firing rate* |
+| --- | --- | --- | --- |
+| Kanan | +60°/s | 90 + 0,5 × 60 | 120 *spikes*/s |
+| Kiri | -60°/s | 90 + 0,5 × (-60) | 60 *spikes*/s |
+
+Sisi kanan naik dan sisi kiri turun dari laju istirahat yang sama, persis pola *push-pull* pada bagian 5. Perbedaan kedua angka inilah yang dibandingkan oleh otak.
 
 **Mengapa Kepala Terasa Pusing Setelah Berhenti Berputar?** Ketika seseorang berhenti mendadak setelah berputar lama, cairan endolimfe masih terus bergerak karena momentum (inersia). Hal ini mendorong kupula ke arah yang berlawanan. Bola mata akan bergerak cepat secara ritmis (nistagmus) demi mengimbangi "gerakan" yang sebenarnya sudah berhenti, sehingga menimbulkan sensasi dunia masih berputar.
 

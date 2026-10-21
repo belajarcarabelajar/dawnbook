@@ -64,28 +64,22 @@ Tidak semua data didapatkan dengan cara yang sama. Industri membaginya menjadi e
 
 ### 4. Bagaimana Algoritma Melihat Kamu?
 
-Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan kode dan angka dalam sebuah basis data. Berikut adalah gambaran sederhana bagaimana sebuah profil pengguna disimpan dalam format JSON untuk diproses oleh algoritma:
+Secara teknis, profil kamu bukanlah nama atau foto, melainkan deretan label dan angka dalam sebuah basis data. Tabel berikut adalah gambaran sederhana isi profil seorang pengguna rekaan yang siap diproses oleh algoritma (semua nilainya contoh rekaan):
 
-```json
-{
-  "user_id": "u987654321",
-  "demographics": {
-    "age_range": "25-34",
-    "gender": "female",
-    "location": "Jakarta Selatan"
-  },
-  "interests": ["minimalist_interior", "sustainable_fashion", "k-drama"],
-  "behavioral_score": {
-    "tech_savvy": 0.85,
-    "impulse_buyer_index": 0.72,
-    "travel_frequency": "high"
-  },
-  "recent_searches": ["meja kerja kayu jati", "tanaman indoor murah"],
-  "active_device": "iPhone 15 Pro"
-}
-```
+| Kelompok | Atribut | Nilai |
+| --- | --- | --- |
+| Identitas | ID pengguna | u987654321 |
+| Demografis | Rentang usia | 25-34 |
+| Demografis | Jenis kelamin | Perempuan |
+| Geografis | Lokasi | Jakarta Selatan |
+| Minat | Topik yang disukai | Interior minimalis, fesyen berkelanjutan, drama Korea |
+| Perilaku | Skor melek teknologi | 0,85 |
+| Perilaku | Indeks pembeli impulsif | 0,72 |
+| Perilaku | Frekuensi bepergian | Tinggi |
+| Perilaku | Pencarian terakhir | "meja kerja kayu jati", "tanaman indoor murah" |
+| Perangkat | Perangkat aktif | iPhone 15 Pro |
 
-Dalam matematika statistik, probabilitas kamu akan mengklik iklan tertentu ($P$) dapat dirumuskan secara sederhana sebagai fungsi dari variabel-variabel tersebut:
+Dalam matematika statistik, probabilitas kamu akan mengklik iklan tertentu ($P$) dapat dirumuskan secara sederhana sebagai fungsi dari data profil seperti itu, ditambah satu unsur lagi, yaitu konteks:
 
 $$
 P(\text{Click}) = f(\text{Demografi}, \text{Minat}, \text{Perilaku}, \text{Konteks})

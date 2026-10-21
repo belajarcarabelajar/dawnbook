@@ -51,24 +51,14 @@ Tabel ini merangkum langkah praktis untuk menjaga ritme minimalisme digital:
 | **Bulanan** | Cek *Screen Time* dan sapu bersih aplikasi yang menyita fokus. | Membasmi *digital creep* di tahap awal. |
 | **Tahunan** | *Mini-Declutter* selama satu minggu penuh. | Menegaskan kembali kendali atas teknologi. |
 
-## Skrip Refleksi Diri
+## Pegangan Cepat Menilai Aplikasi
 
-Buat kamu yang menyukai pendekatan logis, simulasi algoritma berikut bisa dipakai setiap kali merasa kewalahan menghadapi gawai:
+Setiap kali merasa kewalahan menghadapi gawai, ajukan dua pertanyaan untuk tiap aplikasi: apakah aplikasi ini mendukung nilai hidupmu, dan berapa menit gangguan yang ditimbulkannya per hari? Kedua jawaban itu langsung mengarah ke salah satu dari tiga keputusan berikut. Angka 30 menit di sini hanya patokan ilustrasi, sesuaikan dengan kondisimu:
 
-```python
-def audit_aplikasi(nama_aplikasi):
-    mendukung_nilai = input(f"Apakah {nama_aplikasi} mendukung nilai hidup kamu? (y/n): ")
-    waktu_terbuang = int(input(f"Berapa menit gangguan dari {nama_aplikasi} per hari?: "))
-    
-    if mendukung_nilai == 'y' and waktu_terbuang < 30:
-        return "Pertahankan dengan batasan waktu."
-    elif mendukung_nilai == 'y' and waktu_terbuang >= 30:
-        return "Cari cara akses lain (matikan notifikasi atau buka di laptop)."
-    else:
-        return "Hapus tanpa ragu."
-
-# Contoh:
-# print(audit_aplikasi("Instagram"))
-```
+| Mendukung nilai hidupmu? | Gangguan per hari | Keputusan |
+| --- | --- | --- |
+| Ya | Kurang dari 30 menit | Pertahankan dengan batasan waktu. |
+| Ya | 30 menit atau lebih | Cari cara akses lain, misalnya matikan notifikasinya atau buka lewat laptop. |
+| Tidak | Berapa pun | Hapus tanpa ragu. |
 
 Menjalani digital minimalisme tidak menuntut kesempurnaan hingga kamu tak pernah lagi berselancar tanpa arah di internet. Kuncinya terletak pada kecepatan menyadari kapan teknologi mulai mengambil alih setir, lalu segera merebut kembali kendali tersebut. Kamu adalah arsitek bagi perhatianmu sendiri.

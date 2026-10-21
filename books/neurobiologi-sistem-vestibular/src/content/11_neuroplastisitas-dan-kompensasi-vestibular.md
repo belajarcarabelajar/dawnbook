@@ -26,6 +26,15 @@ Terjadi segera setelah cedera (jam hingga hari). Tujuannya adalah menghilangkan 
 - **Restorasi Simetri Bioelektrik:** Saat satu sisi rusak, terjadi ketidakseimbangan aktivitas saraf antara nukleus vestibularis kiri dan kanan. Otak menggunakan mekanisme **plastisitas sinaptik** untuk menyeimbangkan kembali tingkat penembakan (*firing rate*) saraf tersebut.
 - **Peran GABA dan Glutamat:** Otak mengatur ulang reseptor neurotransmitter. Jika satu sisi terlalu lemah, otak akan menurunkan inhibisi ($\text{GABA}$) di sisi tersebut agar lebih sensitif terhadap sisa input yang ada.
 
+Restorasi simetri ini bisa dibayangkan lewat angka ilustrasi berikut. Misalkan saraf vestibular kanan rusak sehingga aktivitas sisi kanan jatuh ke 0 Hz, sementara sisi kiri yang sehat tetap 100 Hz.
+
+| Fase | Aktivitas sisi kiri (sehat) | Aktivitas sisi kanan (rusak) | Selisih kiri dan kanan | Keadaan |
+| --- | --- | --- | --- | --- |
+| Awal kerusakan | 100 Hz | 0 Hz | 100 Hz | Vertigo akut |
+| Setelah kompensasi | 60 Hz | 40 Hz | 20 Hz | Keseimbangan terjaga |
+
+Sisi kiri diturunkan (*downregulation*), sedangkan sisi kanan naik lagi (*upregulation*) lewat aktivitas intrinsik nukleus vestibularis, bukan karena organnya sembuh. Yang dipulihkan otak adalah keseimbangan kedua sisi, sehingga selisihnya mengecil dari 100 Hz menjadi 20 Hz.
+
 #### B. Kompensasi Dinamis (Pemulihan Saat Bergerak)
 
 Terjadi lebih lambat (minggu hingga bulan). Tujuannya adalah memastikan pandangan tetap stabil saat kepala bergerak (kalibrasi ulang Refleks Vestibulo-Okular atau VOR).
@@ -81,27 +90,6 @@ Seorang pasien mengalami kerusakan saraf vestibular kanan. Pasien merasa dunia b
 #### Mengapa Gerak Itu Penting?
 
 Jika pasien hanya berbaring di tempat tidur karena takut pusing, otak tidak akan pernah menerima input kesalahan yang diperlukan untuk belajar. **Gerakan adalah pemicu utama neuroplastisitas.**
-
-```python
-# Simulasi Logika Kompensasi Sederhana dalam Otak
-input_vestibular_kiri = 100  # Normal (Hz)
-input_vestibular_kanan = 0   # Rusak (Hz)
-
-def proses_otak(kiri, kanan):
-    asimetri = abs(kiri - kanan)
-    if asimetri > 50:
-        return "Vertigo Akut: Segera aktifkan plastisitas!"
-    else:
-        return "Keseimbangan Terjaga: Kompensasi berhasil."
-
-# Fase Awal Kerusakan
-print(proses_otak(input_vestibular_kiri, input_vestibular_kanan))
-
-# Setelah Proses Neuroplastisitas (Downregulation sisi sehat / Upregulation sisi sakit)
-input_kiri_dikompensasi = 60 
-input_kanan_dikompensasi = 40 # Melalui aktivitas intrinsik nukleus
-print(proses_otak(input_kiri_dikompensasi, input_kanan_dikompensasi))
-```
 
 ### 6. Faktor yang Mempengaruhi Kecepatan Kompensasi
 

@@ -119,34 +119,25 @@ Dengan demikian, sistem aerodinamika harus mampu menghasilkan perbedaan tekanan 
 
 ## 6. Menghitung Tekanan Berdasarkan Bernoulli
 
-Berikut adalah skrip Python untuk menghitung perubahan tekanan statis fluida akibat perubahan kecepatan aliran berdasarkan persamaan Bernoulli:
+Persamaan Bernoulli versi sayap dari bagian 2 juga bisa dipakai untuk menghitung tekanan di sisi atas sayap ketika tekanan dan kecepatan di sisi bawahnya sudah diketahui. Setelah suku-sukunya dipindahkan, tekanan di sisi atas menjadi:
 
-```python
-def hitung_tekanan_bernoulli(p_statis, v_awal, v_baru, rho=1.225):
-    """
-    Menghitung tekanan baru saat kecepatan aliran fluida berubah.
-    Parameter:
-        p_statis: Tekanan statis awal (Pa)
-        v_awal: Kecepatan fluida awal (m/s)
-        v_baru: Kecepatan fluida baru (m/s)
-        rho: Massa jenis fluida (kg/m^3), default udara = 1.225 kg/m^3
-    """
-    # Persamaan: P1 + 0.5 * rho * v1^2 = P2 + 0.5 * rho * v2^2
-    # P2 = P1 + 0.5 * rho * (v1^2 - v2^2)
-    p_baru = p_statis + 0.5 * rho * (v_awal**2 - v_baru**2)
-    return p_baru
+<div>
+$$
+P_{\text{atas}} = P_{\text{bawah}} + \frac{1}{2}\rho \left(v_{\text{bawah}}^2 - v_{\text{atas}}^2\right)
+$$
+</div>
 
-# Skenario: Aliran udara di bawah sayap bergerak dengan kecepatan 50 m/s,
-# sedangkan aliran udara di atas sayap mengalami percepatan menjadi 60 m/s.
-p_bawah = 101325  # Tekanan atmosfer standar permukaan laut (Pa)
-v_bawah = 50      # Kecepatan di sisi bawah sayap (m/s)
-v_atas = 60       # Kecepatan di sisi atas sayap (m/s)
+Misalkan udara di bawah sayap bergerak 50 m/s, sedangkan udara di atas sayap dipercepat menjadi 60 m/s. Tekanan di bawah sayap diambil sama dengan tekanan atmosfer standar di permukaan laut, dan massa jenis udaranya 1,225 kg/m³.
 
-p_atas = hitung_tekanan_bernoulli(p_bawah, v_bawah, v_atas)
+| Besaran | Nilai |
+| --- | --- |
+| Tekanan di bawah sayap ($P_{\text{bawah}}$) | 101.325 Pa |
+| Kecepatan di bawah sayap ($v_{\text{bawah}}$) | 50 m/s |
+| Kecepatan di atas sayap ($v_{\text{atas}}$) | 60 m/s |
+| Massa jenis udara ($\rho$) | 1,225 kg/m³ |
+| Tekanan di atas sayap ($P_{\text{atas}}$) | 101.325 + 0,5 × 1,225 × (2.500 - 3.600) = 100.651,25 Pa |
+| Selisih tekanan bawah dan atas | 101.325 - 100.651,25 = 673,75 Pa |
 
-print(f"Tekanan di bawah sayap : {p_bawah} Pa")
-print(f"Tekanan di atas sayap  : {p_atas:.2f} Pa")
-print(f"Perbedaan Tekanan      : {p_bawah - p_atas:.2f} Pa")
-```
+Jadi, percepatan aliran dari 50 m/s menjadi 60 m/s menurunkan tekanan di sisi atas sayap sebesar 673,75 Pa, dan selisih tekanan itulah yang mendorong sayap ke atas.
 
 > **Wawasan Konseptual:** Aerodinamika pada hakikatnya adalah seni memanipulasi distribusi tekanan fluida. Dengan mengontrol dinamika aliran udara di sekitar permukaan benda, wahana penerbangan dapat mengatasi tarikan gravitasi dan menjelajah ruang udara secara terkendali.

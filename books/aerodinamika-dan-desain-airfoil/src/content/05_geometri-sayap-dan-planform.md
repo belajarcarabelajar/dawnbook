@@ -97,58 +97,32 @@ Metode ini memberikan estimasi distribusi beban yang akurat untuk menghitung gay
 
 > **Refleksi Kritis:** Mengapa pesawat komersial modern jarang mengadopsi sayap elips murni jika bentuk tersebut paling efisien secara teoritis? Hal ini disebabkan oleh batasan manufaktur komponen komposit berskala besar, kebutuhan volume internal untuk tangki bahan bakar di sepanjang sayap, serta pertimbangan penempatan mekanisme *flap* dan *slat* yang memerlukan garis engsel lurus.
 
-### 5. Menghitung Karakteristik Planform dengan Python
+### 5. Karakteristik Planform Sayap Meruncing
 
-Berikut implementasi kode Python untuk menghitung parameter geometris sayap meruncing (*tapered wing*), termasuk luas sayap ($S$), *aspect ratio* ($\text{AR}$), dan *mean aerodynamic chord* ($\text{MAC}$):
+Pada sayap meruncing (*tapered wing*) berbentuk trapesium, kord ujung didapat dari kord pangkal dan *taper ratio* ($c_{\text{tip}} = \lambda c_{\text{root}}$). Kord rata-ratanya adalah rata-rata kord pangkal dan kord ujung, sehingga luas sayapnya menjadi:
 
-```python
-def calculate_wing_parameters(span: float, chord_root: float, taper_ratio: float) -> dict:
-    """
-    Menghitung parameter geometri dan aerodinamika dasar sayap tapered.
-    
-    Parameter:
-    - span: Rentang sayap total b (meter)
-    - chord_root: Kord di pangkal sayap c_root (meter)
-    - taper_ratio: Rasio ketirusan lambda (c_tip / c_root)
-    
-    Output:
-    - Dictionary berisi luas sayap, kord tip, AR, dan MAC.
-    """
-    chord_tip = chord_root * taper_ratio
-    
-    # Luas proyeksi planform: S = b * (c_root + c_tip) / 2
-    wing_area = span * (chord_root + chord_tip) / 2.0
-    
-    # Aspect Ratio: AR = b^2 / S
-    aspect_ratio = (span ** 2) / wing_area
-    
-    # Mean Aerodynamic Chord (MAC) untuk sayap trapesium:
-    # MAC = (2/3) * c_root * (1 + lambda + lambda^2) / (1 + lambda)
-    mac = (2.0 / 3.0) * chord_root * (1.0 + taper_ratio + taper_ratio**2) / (1.0 + taper_ratio)
-    
-    return {
-        "span_m": span,
-        "chord_root_m": chord_root,
-        "chord_tip_m": chord_tip,
-        "wing_area_m2": wing_area,
-        "aspect_ratio": aspect_ratio,
-        "mac_m": mac
-    }
+<div>
+$$
+S = b \times \frac{c_{\text{root}} + c_{\text{tip}}}{2}
+$$
+</div>
 
-# Contoh Kasus: Pesawat nirawak (UAV) dengan rentang 12 m, kord akar 1.8 m, taper 0.6
-b_val = 12.0
-c_root_val = 1.8
-taper_val = 0.6
+*Aspect ratio* tetap dihitung dengan $\text{AR} = b^2/S$, sedangkan *mean aerodynamic chord* untuk sayap trapesium dihitung dari kord pangkal dan *taper ratio*:
 
-results = calculate_wing_parameters(b_val, c_root_val, taper_val)
+<div>
+$$
+\text{MAC} = \frac{2}{3} c_{\text{root}} \frac{1 + \lambda + \lambda^2}{1 + \lambda}
+$$
+</div>
 
-print(f"Wingspan (b)            : {results['span_m']:.2f} m")
-print(f"Chord Pangkal (c_root)  : {results['chord_root_m']:.2f} m")
-print(f"Chord Ujung (c_tip)     : {results['chord_tip_m']:.2f} m")
-print(f"Luas Sayap (S)          : {results['wing_area_m2']:.2f} m^2")
-print(f"Aspect Ratio (AR)       : {results['aspect_ratio']:.2f}")
-print(f"Mean Aerodynamic Chord  : {results['mac_m']:.2f} m")
-```
+Dengan angka ilustrasi, ambil sebuah pesawat nirawak (UAV) dengan rentang sayap 12 m, kord pangkal 1,8 m, dan *taper ratio* 0,6:
+
+| Besaran | Perhitungan | Hasil |
+| --- | --- | --- |
+| Kord ujung ($c_{\text{tip}}$) | 0,6 × 1,8 | 1,08 m |
+| Luas sayap ($S$) | 12 × (1,8 + 1,08) / 2 | 17,28 m² |
+| *Aspect ratio* ($\text{AR}$) | 12² / 17,28 | ≈ 8,33 |
+| *Mean aerodynamic chord* ($\text{MAC}$) | (2/3) × 1,8 × (1 + 0,6 + 0,36) / (1 + 0,6) | 1,47 m |
 
 ### 6. Studi Kasus dan Aplikasi Dunia Nyata
 

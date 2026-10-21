@@ -74,7 +74,7 @@ Respons koefisien angkat $C_L$ terhadap perubahan sudut serang $\alpha$ memiliki
 > **Analogi Praktis Sudut Serang:**
 > Bayangkan saat tangan dikeluarkan ke luar jendela kendaraan yang melaju. Ketika telapak tangan dimiringkan sedikit ke atas, telapak tangan akan terangkat naik oleh aliran udara. Namun, jika telapak tangan dimiringkan terlalu tegak mendekati vertikal, gaya angkat seketika hilang dan tangan justru terdorong kuat ke belakang akibat dominasi gaya hambat. Ini merupakan ilustrasi sederhana transisi sudut serang menuju kondisi stall.
 
-### 5. Komputasi Numerik Sederhana Gaya Angkat
+### 5. Gaya Angkat Sebuah Drone
 
 Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan data parameter berikut:
 
@@ -83,24 +83,23 @@ Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan
 - Massa jenis udara permukaan laut ($\rho$) = $1{,}2\text{ kg/m}^3$
 - Koefisien gaya angkat pada $\text{AoA}$ operasi ($C_L$) = $1{,}0$
 
-```python
-# Kalkulasi Gaya Angkat Aerodinamika
-def calculate_lift(rho: float, velocity: float, surface_area: float, cl: float) -> float:
-    """Menghitung total gaya angkat dalam satuan Newton."""
-    q_inf = 0.5 * rho * (velocity**2)  # Tekanan dinamis (Dynamic Pressure)
-    lift = q_inf * surface_area * cl
-    return lift
+Hitungannya paling mudah dibagi dua langkah. Langkah pertama mencari tekanan dinamis ($q$), yaitu bagian $\frac{1}{2} \rho v^2$ dari persamaan gaya angkat:
 
-# Parameter input
-rho_air = 1.2       # kg/m^3
-v_rel = 20.0        # m/s
-s_wing = 0.5        # m^2
-cl_val = 1.0        # Koefisien angkat
+<div>
+$$
+q = \frac{1}{2} \rho v^2 = \frac{1}{2} \times 1{,}2 \times 20^2 = 240 \text{ Pa}
+$$
+</div>
 
-total_lift = calculate_lift(rho_air, v_rel, s_wing, cl_val)
-print(f"Gaya angkat yang dihasilkan: {total_lift:.1f} Newton")
-# Output: Gaya angkat yang dihasilkan: 120.0 Newton
-```
+Langkah kedua mengalikan tekanan dinamis itu dengan luas sayap dan koefisien gaya angkat:
+
+<div>
+$$
+L = q S C_L = 240 \times 0{,}5 \times 1{,}0 = 120 \text{ N}
+$$
+</div>
+
+Dengan data tersebut, sayap drone menghasilkan gaya angkat sebesar $120\text{ N}$.
 
 ### 6. Dinamika Fase Lepas Landas (*Take-off*)
 

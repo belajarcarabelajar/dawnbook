@@ -68,23 +68,12 @@ Sebelum memulai hari atau membuka media sosial, tentukan satu kekuatan karakter 
 
 ### B. Latihan Three Good Things
 
-Setiap malam sebelum tidur, tuliskan tiga hal baik yang terjadi hari ini beserta penyebabnya.
+Setiap malam sebelum tidur, tuliskan tiga hal baik yang terjadi hari ini beserta penyebabnya. Sebagai contoh, dua baris pertama jurnalmu bisa berbunyi seperti ini:
 
-```python
-# Logika Sederhana Latihan Syukur
-def gratitude_journal(events):
-    for event in events:
-        print(f"Hal Baik: {event['description']}")
-        print(f"Penyebab: {event['cause']}")
-        print("---")
-
-hari_ini = [
-    {"description": "Mendapat kopi gratis", "cause": "Saya tersenyum ramah pada barista"},
-    {"description": "Menyelesaikan laporan tepat waktu", "cause": "Saya menggunakan teknik Flow"}
-]
-
-gratitude_journal(hari_ini)
-```
+| Hal baik | Penyebab |
+| --- | --- |
+| Mendapat kopi gratis | Saya tersenyum ramah pada barista |
+| Menyelesaikan laporan tepat waktu | Saya menggunakan teknik Flow |
 
 ### C. 4-7-8 Breathing Technique (Fisik)
 

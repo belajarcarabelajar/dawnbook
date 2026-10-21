@@ -89,30 +89,17 @@ Kamu tidak perlu menjadi CEO Apple untuk menerapkan ini. Bayangkan kamu sedang m
 | **Eksekusi** | Karyawan termotivasi dan produktif. | Karyawan bingung dan pasif. |
 | **Pengawasan** | Masalah dideteksi dini dan diperbaiki. | Masalah dibiarkan hingga menjadi krisis. |
 
-## Automasi "Controlling" dengan Code
+## Tiga Tingkat Pencapaian Target
 
-Dalam manajemen modern (Era Digital), fungsi *Controlling* sering kali dibantu oleh algoritma. Berikut adalah logika sederhana (Pseudo-code) yang digunakan perusahaan untuk melakukan pengawasan otomatis terhadap target kinerja:
+Dalam manajemen modern (Era Digital), fungsi *Controlling* sering kali dibantu oleh algoritma. Salah satu aturan sederhana untuk mengawasi target kinerja secara otomatis adalah membandingkan penjualan aktual dengan target dalam bentuk persentase, lalu memilah hasilnya ke dalam tiga tingkat. Ambang pada tabel ini adalah angka ilustrasi, dan tiap perusahaan dapat menetapkan aturan yang berbeda:
 
-```python
-# Sistem Controlling Penjualan Sederhana
+| Pencapaian target | Status | Tindakan |
+| --- | --- | --- |
+| 100% atau lebih | Sangat baik | Berikan bonus |
+| 80% sampai di bawah 100% | Baik | Lakukan dorongan pemasaran kecil |
+| Di bawah 80% | Perlu tindakan korektif | Evaluasi strategi pemasaran segera |
 
-target_penjualan = 1000
-total_penjualan_saat_ini = 850
-
-def evaluasi_kinerja(aktual, target):
-    persentase = (aktual / target) * 100
-    
-    if persentase >= 100:
-        return "Sangat Baik: Berikan Bonus!"
-    elif persentase >= 80:
-        return "Baik: Lakukan dorongan pemasaran kecil."
-    else:
-        return "Tindakan Korektif: Evaluasi strategi pemasaran segera!"
-
-# Output Pengawasan
-status = evaluasi_kinerja(total_penjualan_saat_ini, target_penjualan)
-print(f"Pencapaian: {total_penjualan_saat_ini} unit. Status: {status}")
-```
+Sebagai contoh rekaan, target penjualan 1.000 unit dan yang sudah terjual 850 unit. Pencapaiannya 850 dibagi 1.000 lalu dikali 100%, yaitu 85%. Angka ini berada di antara 80% dan 100%, sehingga statusnya **Baik** dan cukup diikuti dorongan pemasaran kecil.
 
 ## Siklus POAC yang Hidup
 
