@@ -5,6 +5,12 @@ on:
     branches:
       - main
 
+# One deploy at a time, so each run's live-manifest snapshot already includes
+# the books the previous run shipped and a new book is announced only once.
+concurrency:
+  group: deploy-dawnbook
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -31,6 +37,11 @@ jobs:
           GA_MEASUREMENT_ID: ${{ vars.GA_MEASUREMENT_ID }}
           TURNSTILE_SITE_KEY: ${{ vars.TURNSTILE_SITE_KEY }}
         run: bun run build
+      - name: Snapshot live manifest
+        # Baseline for the Telegram announcement (GEMINI.md section 28): a slug
+        # missing from the live manifest before this deploy is a new book.
+        continue-on-error: true
+        run: curl -fsS --max-time 20 https://dawnbook.belajarcarabelajar.com/manifest.json -o "$RUNNER_TEMP/live-manifest.json"
       - name: Deploy to Cloudflare Pages
         # Same command as scripts/deploy-website.sh; cloudflare/pages-action no longer exists upstream.
         uses: cloudflare/wrangler-action@v4
@@ -38,3 +49,11 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy output --project-name=dawnbook --branch=main --commit-dirty=true
+      - name: Announce new books on Telegram
+        # Runs only after a successful deploy. A failure here is reported as an
+        # annotation but does not fail the deploy; announce by hand with --slug.
+        continue-on-error: true
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          DAWNBOOK_TELEGRAM_CHAT_ID: ${{ secrets.DAWNBOOK_TELEGRAM_CHAT_ID }}
+        run: bun run scripts/announce-new-books.ts --before "$RUNNER_TEMP/live-manifest.json" --after output/manifest.json

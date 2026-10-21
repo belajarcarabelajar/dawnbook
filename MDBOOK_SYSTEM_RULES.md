@@ -233,7 +233,7 @@ bash scripts/test-i18n.sh
 bash scripts/deploy-website.sh
 ```
 
-**What happens:** `bun install` → sources `.env.local` → `bun run build` → D1 migration → `wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true`.
+**What happens:** `bun install` → sources `.env.local` → `bun run build` → D1 migration → `wrangler pages deploy output --project-name dawnbook --branch main --commit-dirty=true` → Telegram announcement of new books (`scripts/announce-new-books.ts`, GEMINI.md section 28).
 
 **Success gate:** Wrangler exits code 0 and prints deployment URL.
 
