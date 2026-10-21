@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#18252e"/>
+      <stop offset="1" stop-color="#3a5463"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff0b0" stop-opacity="0.95"/>
+      <stop offset="0.45" stop-color="#ffe08a" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ffe08a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="rock" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e48a4f"/>
+      <stop offset="1" stop-color="#8e4423"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d4f56a"/>
+      <stop offset="1" stop-color="#58a52a"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <g stroke="#86abc0" stroke-width="4" stroke-linecap="round" opacity="0.75">
+    <line x1="40" y1="120" x2="28" y2="154"/>
+    <line x1="96" y1="200" x2="84" y2="234"/>
+    <line x1="60" y1="300" x2="48" y2="334"/>
+    <line x1="150" y1="140" x2="138" y2="174"/>
+    <line x1="132" y1="270" x2="120" y2="304"/>
+    <line x1="200" y1="96" x2="188" y2="130"/>
+    <line x1="30" y1="410" x2="18" y2="444"/>
+    <line x1="110" y1="370" x2="98" y2="404"/>
+    <line x1="430" y1="92" x2="418" y2="126"/>
+    <line x1="520" y1="150" x2="508" y2="184"/>
+    <line x1="590" y1="96" x2="578" y2="130"/>
+    <line x1="560" y1="250" x2="548" y2="284"/>
+    <line x1="606" y1="330" x2="594" y2="364"/>
+    <line x1="500" y1="320" x2="488" y2="354"/>
+    <line x1="612" y1="200" x2="600" y2="234"/>
+    <line x1="250" y1="40" x2="238" y2="74"/>
+    <line x1="380" y1="40" x2="368" y2="74"/>
+  </g>
+  <circle cx="318" cy="210" r="250" fill="url(#glow)"/>
+  <g fill="#111b22">
+    <rect width="630" height="26"/>
+    <circle cx="30" cy="20" r="56"/>
+    <circle cx="118" cy="6" r="54"/>
+    <circle cx="196" cy="22" r="38"/>
+    <circle cx="436" cy="22" r="38"/>
+    <circle cx="514" cy="6" r="54"/>
+    <circle cx="604" cy="22" r="58"/>
+  </g>
+  <path d="M40,630 L40,500 C45,420 120,350 220,335 C270,328 300,326 340,328 C440,334 560,390 590,490 L590,630 Z" fill="url(#rock)"/>
+  <path d="M78,456 C118,388 190,352 262,343 L254,372 C190,382 130,414 100,466 Z" fill="#f4ab73" opacity="0.7"/>
+  <path d="M470,360 C540,392 580,440 590,500 L590,630 L522,630 C540,540 520,440 470,360 Z" fill="#6f321a" opacity="0.55"/>
+  <g fill="none" stroke="#2b1710" stroke-width="7" stroke-linejoin="round" stroke-linecap="round">
+    <polyline points="340,440 396,470 424,522"/>
+    <polyline points="306,500 252,532 232,584"/>
+  </g>
+  <path d="M294,326 L336,328 L322,380 L346,432 L318,498 L336,560 L316,630 L292,630 L312,560 L294,498 L320,432 L298,380 Z" fill="#2b1710"/>
+  <g fill="#c86a3a">
+    <path d="M262,330 L284,322 L290,336 L268,342 Z"/>
+    <path d="M348,324 L370,328 L364,342 L344,338 Z"/>
+  </g>
+  <path d="M315,334 C303,280 332,232 318,172" fill="none" stroke="#58a52a" stroke-width="15" stroke-linecap="round"/>
+  <path d="M314,244 C270,192 198,190 154,222 C196,270 270,276 314,244 Z" fill="url(#leaf)"/>
+  <path d="M322,204 C352,142 424,114 488,128 C462,192 392,218 322,204 Z" fill="url(#leaf)"/>
+  <path d="M318,176 C298,152 298,128 318,108 C338,128 338,152 318,176 Z" fill="#d4f56a"/>
+  <g fill="none" stroke="#3d7f1c" stroke-width="4" stroke-linecap="round">
+    <path d="M306,240 C260,226 220,222 178,224"/>
+    <path d="M330,200 C380,172 420,150 466,134"/>
+  </g>
+  <g fill="#cdeaf7">
+    <circle cx="214" cy="236" r="7"/>
+    <circle cx="420" cy="170" r="7"/>
+    <circle cx="300" cy="138" r="6"/>
+  </g>
+</svg>

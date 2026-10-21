@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3a0b32"/>
+      <stop offset="1" stop-color="#5e1447"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ffc23d" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffc23d" stop-opacity="0"/>
+    </radialGradient>
+    <g id="v">
+      <circle r="30" fill="#ffe3d3"/>
+      <circle cx="-10" cy="-7" r="7" fill="#ffb81c"/>
+      <circle cx="10" cy="-5" r="7" fill="#ffb81c"/>
+      <circle cx="0" cy="11" r="7" fill="#ffb81c"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <ellipse cx="315" cy="360" rx="260" ry="120" fill="url(#glow)"/>
+  <path d="M236 0C246 26 258 44 238 64C140 92 108 165 122 222C137 280 220 296 315 296C410 296 493 280 508 222C522 165 490 92 392 64C372 44 384 26 394 0Z" fill="#f29a86" stroke="#ffc9b6" stroke-width="6"/>
+  <use href="#v" transform="translate(222 182)"/>
+  <use href="#v" transform="translate(408 182)"/>
+  <use href="#v" transform="translate(315 196)"/>
+  <use href="#v" transform="translate(268 116) scale(0.8)"/>
+  <use href="#v" transform="translate(362 116) scale(0.8)"/>
+  <use href="#v" transform="translate(315 270) scale(0.7)"/>
+  <g fill="#ffc23d">
+    <circle cx="300" cy="322" r="9"/>
+    <circle cx="336" cy="328" r="8"/>
+    <circle cx="283" cy="354" r="8"/>
+    <circle cx="352" cy="356" r="9"/>
+    <circle cx="238" cy="338" r="7"/>
+    <circle cx="396" cy="340" r="7"/>
+    <circle cx="316" cy="382" r="9"/>
+    <circle cx="203" cy="372" r="6"/>
+    <circle cx="430" cy="374" r="6"/>
+  </g>
+  <path d="M-10 630L-10 520C60 470 160 432 315 432C470 432 570 470 640 520L640 630Z" fill="#d6437a"/>
+  <path d="M-10 630L-10 566C70 515 170 480 315 480C460 480 560 515 640 566L640 630Z" fill="#b83269"/>
+  <g fill="#ffe3d3">
+    <path d="M172 446A20 20 0 0 1 212 446Z"/>
+    <path d="M240 438A20 20 0 0 1 280 438Z"/>
+    <path d="M350 438A20 20 0 0 1 390 438Z"/>
+    <path d="M418 446A20 20 0 0 1 458 446Z"/>
+  </g>
+  <g fill="#ffc23d">
+    <circle cx="260" cy="409" r="9"/>
+    <circle cx="370" cy="409" r="9"/>
+  </g>
+</svg>

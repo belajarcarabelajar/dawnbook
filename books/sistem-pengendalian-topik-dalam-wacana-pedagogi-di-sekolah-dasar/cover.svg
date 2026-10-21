@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+<defs>
+<radialGradient id="board" cx="0.5" cy="0.4" r="0.75">
+<stop offset="0" stop-color="#27604a"/>
+<stop offset="1" stop-color="#173d2e"/>
+</radialGradient>
+<path id="sb" d="M-28 -30 H28 A18 18 0 0 1 46 -12 V12 A18 18 0 0 1 28 30 H-8 L-32 47 L-24 30 H-28 A18 18 0 0 1 -46 12 V-12 A18 18 0 0 1 -28 -30 Z"/>
+</defs>
+<rect width="630" height="630" fill="url(#board)"/>
+<ellipse cx="160" cy="250" rx="140" ry="40" fill="#ffffff" opacity="0.04"/>
+<ellipse cx="470" cy="470" rx="160" ry="45" fill="#ffffff" opacity="0.04"/>
+<path d="M315 262 L120 300 M315 262 L380 300 M315 262 L250 395" fill="none" stroke="#f4f1e8" stroke-width="5" stroke-linecap="round" opacity="0.75"/>
+<path d="M190 65 H440 A40 40 0 0 1 480 105 V175 A40 40 0 0 1 440 215 H345 L315 266 L295 215 H190 A40 40 0 0 1 150 175 V105 A40 40 0 0 1 190 65 Z" fill="#f2c84b"/>
+<g transform="translate(305 142) rotate(14)">
+<rect x="-34" y="10" width="20" height="42" rx="7" fill="#1f4d3a" transform="rotate(-12 -24 12)"/>
+<rect x="-82" y="-17" width="34" height="34" rx="8" fill="#1f4d3a"/>
+<polygon points="-54,-20 46,-56 46,56 -54,20" fill="#1f4d3a"/>
+<ellipse cx="48" cy="0" rx="16" ry="57" fill="#2f6b52"/>
+<ellipse cx="50" cy="0" rx="8" ry="42" fill="#173d2e"/>
+</g>
+<g fill="#1f4d3a" stroke="#5f9477" stroke-width="5" stroke-linejoin="round">
+<use href="#sb" x="250" y="330"/>
+<use href="#sb" x="120" y="425"/>
+<use href="#sb" x="380" y="425"/>
+<use href="#sb" x="510" y="425"/>
+<use href="#sb" x="120" y="520"/>
+<use href="#sb" x="250" y="520"/>
+<use href="#sb" x="380" y="520"/>
+<use href="#sb" x="510" y="520"/>
+</g>
+<ellipse cx="250" cy="428" rx="74" ry="54" fill="#9ad1a6" opacity="0.28"/>
+<g fill="#f4f1e8">
+<use href="#sb" x="120" y="330"/>
+<use href="#sb" x="380" y="330"/>
+</g>
+<use href="#sb" x="250" y="425" fill="#9ad1a6"/>
+<use href="#sb" x="510" y="330" fill="#ef8fa6"/>
+<path d="M504 296 L478 236" fill="none" stroke="#ef8fa6" stroke-width="5" stroke-linecap="round" stroke-dasharray="10 9"/>
+<rect x="0" y="592" width="630" height="38" fill="#7a4e32"/>
+<rect x="0" y="592" width="630" height="8" fill="#9a6a48"/>
+<rect x="390" y="578" width="44" height="14" rx="7" fill="#f4f1e8"/>
+<rect x="446" y="580" width="30" height="12" rx="6" fill="#ef8fa6"/>
+</svg>

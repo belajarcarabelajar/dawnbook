@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#4fa6c8"/>
+<stop offset="1" stop-color="#d6f0f5"/>
+</linearGradient>
+<linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#16708a"/>
+<stop offset="1" stop-color="#0a3d4f"/>
+</linearGradient>
+<radialGradient id="lens" cx="0.5" cy="0.45" r="0.6">
+<stop offset="0" stop-color="#1d6f8f"/>
+<stop offset="1" stop-color="#0b3a50"/>
+</radialGradient>
+<g id="arm">
+<line x1="0" y1="0" x2="0" y2="-30" stroke="#ffffff" stroke-width="5" stroke-linecap="round"/>
+<path d="M-9 -27 L0 -17 L9 -27" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path id="drop" d="M0 -16 C6 -5 10 1 10 6 A10 10 0 0 1 -10 6 C-10 1 -6 -5 0 -16 Z" fill="#1f7fa3"/>
+</defs>
+<rect width="630" height="630" fill="url(#sky)"/>
+<circle cx="535" cy="95" r="64" fill="#ffe7a8"/>
+<circle cx="535" cy="95" r="46" fill="#ffc94a"/>
+<path d="M0 455 Q95 385 205 450 L215 520 L0 520 Z" fill="#2f7d5b"/>
+<path d="M0 500 Q40 486 80 500 T160 500 T240 500 T320 500 T400 500 T480 500 T560 500 T640 500 L630 630 L0 630 Z" fill="url(#sea)"/>
+<path d="M30 560 Q60 548 90 560 M250 585 Q280 573 310 585 M450 555 Q480 543 510 555" fill="none" stroke="#5fb8d0" stroke-width="5" stroke-linecap="round"/>
+<g fill="#a9c6d3">
+<circle cx="200" cy="319" r="68"/>
+<circle cx="275" cy="249" r="92"/>
+<circle cx="385" cy="239" r="88"/>
+<circle cx="455" cy="321" r="66"/>
+<rect x="200" y="304" width="255" height="83"/>
+</g>
+<g fill="#ffffff">
+<circle cx="200" cy="305" r="68"/>
+<circle cx="275" cy="235" r="92"/>
+<circle cx="385" cy="225" r="88"/>
+<circle cx="455" cy="307" r="66"/>
+<circle cx="330" cy="160" r="72"/>
+<rect x="200" y="290" width="255" height="83"/>
+</g>
+<circle cx="330" cy="255" r="86" fill="url(#lens)" stroke="#0e4a60" stroke-width="8"/>
+<g transform="translate(330 213)">
+<use href="#arm"/>
+<use href="#arm" transform="rotate(60)"/>
+<use href="#arm" transform="rotate(120)"/>
+<use href="#arm" transform="rotate(180)"/>
+<use href="#arm" transform="rotate(240)"/>
+<use href="#arm" transform="rotate(300)"/>
+<circle r="6" fill="#ffffff"/>
+</g>
+<circle cx="280" cy="294" r="7" fill="#ffc94a"/>
+<circle cx="318" cy="290" r="14" fill="#8fdcf0"/>
+<circle cx="318" cy="290" r="4.5" fill="#ffc94a"/>
+<circle cx="366" cy="282" r="23" fill="#8fdcf0"/>
+<circle cx="366" cy="282" r="5" fill="#ffc94a"/>
+<use href="#drop" x="230" y="410"/>
+<use href="#drop" x="282" y="440"/>
+<use href="#drop" x="334" y="408"/>
+<use href="#drop" x="386" y="444"/>
+<use href="#drop" x="432" y="412"/>
+<use href="#drop" x="256" y="474"/>
+<use href="#drop" x="360" y="476"/>
+<path d="M578 488 C604 432 592 384 543 351" fill="none" stroke="#ffffff" stroke-width="6" stroke-linecap="round" stroke-dasharray="14 13"/>
+<polygon points="528,341 552,343 541,362" fill="#ffffff"/>
+</svg>

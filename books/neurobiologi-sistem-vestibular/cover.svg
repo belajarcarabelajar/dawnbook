@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="45%" r="75%">
+      <stop offset="0" stop-color="#3b2768"/>
+      <stop offset="1" stop-color="#160c2a"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd67f"/>
+      <stop offset="1" stop-color="#e8903a"/>
+    </linearGradient>
+    <path id="sup" d="M345 240 C350 110 230 70 165 140 C105 205 140 320 238 368"/>
+    <path id="pos" d="M345 240 C380 150 520 160 530 280 C540 385 460 450 385 440"/>
+    <path id="lat" d="M372 392 C440 370 562 395 550 462 C538 525 405 528 330 462"/>
+    <path id="crus" d="M330 372 L345 240"/>
+    <path id="coc" d="M252 440 C215 482 135 455 122 515 C110 570 200 595 238 550"/>
+    <path id="coc2" d="M238 550 C265 515 228 478 192 492 C166 503 172 540 200 532"/>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#5b4396" stroke-width="5">
+    <circle cx="330" cy="330" r="268"/>
+    <ellipse cx="330" cy="340" rx="290" ry="92" transform="rotate(-14 330 340)"/>
+  </g>
+  <g fill="#ff7a8a">
+    <circle cx="78" cy="238" r="14"/>
+    <circle cx="535" cy="502" r="14"/>
+    <circle cx="49" cy="410" r="11"/>
+    <circle cx="604" cy="273" r="11"/>
+  </g>
+  <g fill="none" stroke-linecap="round">
+    <g stroke="#140a26" stroke-width="40">
+      <use href="#coc"/>
+    </g>
+    <g stroke="#140a26" stroke-width="32">
+      <use href="#coc2"/>
+    </g>
+    <use href="#coc" stroke="url(#gold)" stroke-width="30"/>
+    <use href="#coc2" stroke="url(#gold)" stroke-width="22"/>
+    <use href="#coc" stroke="#fff0c4" stroke-width="7" opacity="0.7" transform="translate(-4 -4)"/>
+
+    <use href="#pos" stroke="#140a26" stroke-width="48"/>
+    <use href="#pos" stroke="url(#gold)" stroke-width="36"/>
+    <use href="#pos" stroke="#fff0c4" stroke-width="9" opacity="0.7" transform="translate(-5 -5)"/>
+
+    <use href="#sup" stroke="#140a26" stroke-width="48"/>
+    <use href="#sup" stroke="url(#gold)" stroke-width="36"/>
+    <use href="#sup" stroke="#fff0c4" stroke-width="9" opacity="0.7" transform="translate(-5 -5)"/>
+
+    <use href="#crus" stroke="#140a26" stroke-width="50"/>
+    <use href="#crus" stroke="url(#gold)" stroke-width="38"/>
+
+    <use href="#lat" stroke="#140a26" stroke-width="48"/>
+    <use href="#lat" stroke="url(#gold)" stroke-width="36"/>
+    <use href="#lat" stroke="#fff0c4" stroke-width="9" opacity="0.7" transform="translate(-5 -5)"/>
+  </g>
+  <g stroke="#140a26" stroke-width="6" fill="url(#gold)">
+    <ellipse cx="240" cy="366" rx="32" ry="25" transform="rotate(35 240 366)"/>
+    <ellipse cx="388" cy="438" rx="32" ry="25" transform="rotate(-20 388 438)"/>
+    <ellipse cx="305" cy="408" rx="84" ry="60" transform="rotate(-15 305 408)"/>
+  </g>
+  <ellipse cx="305" cy="408" rx="52" ry="32" transform="rotate(-15 305 408)" fill="#f07a4a"/>
+  <g fill="#8ef0d0" stroke="#140a26" stroke-width="3">
+    <polygon points="282,392 292,402 282,412 272,402"/>
+    <polygon points="306,384 316,394 306,404 296,394"/>
+    <polygon points="330,394 340,404 330,414 320,404"/>
+    <polygon points="296,410 306,420 296,430 286,420"/>
+    <polygon points="320,416 329,425 320,434 311,425"/>
+  </g>
+</svg>

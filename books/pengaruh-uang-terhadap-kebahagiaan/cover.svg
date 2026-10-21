@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#9fd3e6"/>
+      <stop offset="1" stop-color="#e8f6f8"/>
+    </linearGradient>
+    <linearGradient id="heart" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ff5d6c"/>
+      <stop offset="1" stop-color="#c81d3a"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#sky)"/>
+
+  <!-- sun and clouds -->
+  <circle cx="530" cy="96" r="50" fill="#ffd166"/>
+  <g fill="#ffffff">
+    <ellipse cx="110" cy="150" rx="70" ry="24"/>
+    <circle cx="92" cy="134" r="28"/>
+    <circle cx="132" cy="128" r="34"/>
+    <ellipse cx="520" cy="250" rx="62" ry="20"/>
+    <circle cx="506" cy="236" r="24"/>
+    <circle cx="540" cy="232" r="28"/>
+  </g>
+
+  <!-- string tying happiness to money -->
+  <path d="M315,306 C338,336 292,366 318,412" fill="none" stroke="#3b2a20" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- heart balloon -->
+  <path d="M315,296 C222,236 188,190 188,146 C188,102 220,72 258,72 C286,72 304,88 315,110 C326,88 344,72 372,72 C410,72 442,102 442,146 C442,190 408,236 315,296 Z" fill="url(#heart)"/>
+  <path d="M232,112 C244,96 262,94 274,100" fill="none" stroke="#ffd0d5" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="222" cy="136" r="7" fill="#ffd0d5"/>
+  <path d="M304,306 L315,292 L326,306 Z" fill="#c81d3a"/>
+
+  <!-- banknote held in the wallet -->
+  <g transform="rotate(-7 315 420)">
+    <rect x="212" y="372" width="206" height="96" rx="8" fill="#8cc98a"/>
+    <rect x="226" y="386" width="178" height="68" rx="6" fill="none" stroke="#4f8f57" stroke-width="5"/>
+    <circle cx="315" cy="420" r="20" fill="#4f8f57"/>
+  </g>
+
+  <!-- wallet -->
+  <rect x="160" y="420" width="310" height="170" rx="26" fill="#8c5a3c"/>
+  <rect x="174" y="434" width="282" height="142" rx="18" fill="none" stroke="#c98d62" stroke-width="4" stroke-dasharray="12 9"/>
+  <path d="M160,446 C160,432 172,420 186,420 L444,420 C458,420 470,432 470,446 L470,462 L160,462 Z" fill="#6e4329"/>
+  <rect x="380" y="474" width="112" height="78" rx="20" fill="#6e4329"/>
+  <circle cx="450" cy="513" r="13" fill="#ffd166"/>
+</svg>

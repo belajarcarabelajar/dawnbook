@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <path id="bub" d="M146 290H294Q330 290 330 326V404Q330 440 294 440H190L130 492L150 440H146Q110 440 110 404V326Q110 290 146 290Z"/>
+  </defs>
+  <rect width="630" height="630" fill="#f6c445"/>
+  <g fill="none" stroke="#fffaf0" stroke-width="8" stroke-linejoin="round">
+    <use href="#bub" transform="translate(-64 -64)" opacity="0.45"/>
+    <use href="#bub" transform="translate(-32 -32)" opacity="0.8"/>
+  </g>
+  <g fill="none" stroke="#fffaf0" stroke-width="5">
+    <circle cx="468" cy="372" r="14"/>
+    <circle cx="496" cy="318" r="9"/>
+    <circle cx="462" cy="276" r="11"/>
+  </g>
+  <line x1="400" y1="0" x2="400" y2="112" stroke="#1b1b1f" stroke-width="5"/>
+  <circle cx="400" cy="128" r="16" fill="none" stroke="#1b1b1f" stroke-width="11"/>
+  <path d="M400 146V430A90 90 0 0 1 220 430V232" fill="none" stroke="#1b1b1f" stroke-width="20" stroke-linecap="round"/>
+  <polygon points="207,242 220,194 233,242" fill="#1b1b1f"/>
+  <polygon points="226,212 260,272 226,258" fill="#1b1b1f"/>
+  <use href="#bub" fill="#d7263d"/>
+  <polygon points="240,308 194,374 222,374 204,424 254,352 226,352 248,308" fill="#fffaf0"/>
+  <path d="M440 548Q500 488 600 512L650 476V620L600 584Q500 608 440 548Z" fill="#1b1b1f"/>
+  <circle cx="486" cy="534" r="9" fill="#f6c445"/>
+</svg>

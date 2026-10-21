@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f48c5c"/>
+      <stop offset="1" stop-color="#ffd59e"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2d6a4f"/>
+      <stop offset="1" stop-color="#1f5039"/>
+    </linearGradient>
+    <g id="fp">
+      <ellipse cx="0" cy="-12" rx="14" ry="22"/>
+      <ellipse cx="0" cy="22" rx="11" ry="12"/>
+    </g>
+  </defs>
+  <rect width="630" height="340" fill="url(#sky)"/>
+  <circle cx="452" cy="316" r="74" fill="#fff4dc"/>
+  <circle cx="452" cy="316" r="104" fill="none" stroke="#fff4dc" stroke-width="6" opacity="0.5"/>
+  <path d="M0 332 C60 288 160 282 230 316 C300 298 360 318 400 322 C480 326 560 300 630 294 L630 340 L0 340 Z" fill="#1b4332"/>
+  <rect y="320" width="630" height="310" fill="url(#ground)"/>
+  <path d="M232 540 C250 452 200 384 138 322 L156 322 C232 382 300 440 338 490 Z" fill="#c9bfa8"/>
+  <path d="M150 630 C180 500 340 400 445 320 L461 320 C440 400 460 500 482 630 Z" fill="#fff4dc"/>
+  <g fill="#1b4332">
+    <rect x="60" y="372" width="12" height="34"/>
+    <circle cx="66" cy="356" r="32"/>
+    <rect x="22" y="420" width="14" height="44"/>
+    <circle cx="29" cy="398" r="40"/>
+    <rect x="560" y="380" width="12" height="36"/>
+    <circle cx="566" cy="362" r="34"/>
+    <rect x="596" y="440" width="14" height="46"/>
+    <circle cx="603" cy="414" r="42"/>
+  </g>
+  <g fill="#e4572e">
+    <use href="#fp" transform="translate(298 598) rotate(4)"/>
+    <use href="#fp" transform="translate(340 560) rotate(7) scale(0.92)"/>
+    <use href="#fp" transform="translate(318 516) rotate(11) scale(0.84)"/>
+    <use href="#fp" transform="translate(358 484) rotate(16) scale(0.76)"/>
+    <use href="#fp" transform="translate(347 448) rotate(23) scale(0.68)"/>
+    <use href="#fp" transform="translate(384 423) rotate(29) scale(0.6)"/>
+    <use href="#fp" transform="translate(381 391) rotate(35) scale(0.54)"/>
+    <use href="#fp" transform="translate(412 374) rotate(41) scale(0.48)"/>
+  </g>
+</svg>

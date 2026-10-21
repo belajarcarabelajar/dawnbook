@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06120c"/>
+      <stop offset="1" stop-color="#123524"/>
+    </linearGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9a8" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#ffe9a8" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pitch" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d6a3e"/>
+      <stop offset="1" stop-color="#2f9157"/>
+    </linearGradient>
+    <radialGradient id="shade" cx="0.36" cy="0.3" r="0.8">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="0.55" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0.4"/>
+    </radialGradient>
+    <clipPath id="ball">
+      <circle cx="315" cy="340" r="165"/>
+    </clipPath>
+  </defs>
+  <rect width="630" height="630" fill="url(#sky)"/>
+  <polygon points="40,40 96,40 380,600 60,630" fill="url(#beam)"/>
+  <polygon points="534,40 590,40 570,630 250,600" fill="url(#beam)"/>
+  <g fill="#ffd35c">
+    <rect x="22" y="22" width="92" height="38" rx="5"/>
+    <rect x="516" y="22" width="92" height="38" rx="5"/>
+  </g>
+  <g stroke="#06120c" stroke-width="4">
+    <line x1="53" y1="22" x2="53" y2="60"/>
+    <line x1="83" y1="22" x2="83" y2="60"/>
+    <line x1="547" y1="22" x2="547" y2="60"/>
+    <line x1="577" y1="22" x2="577" y2="60"/>
+    <line x1="22" y1="41" x2="114" y2="41"/>
+    <line x1="516" y1="41" x2="608" y2="41"/>
+  </g>
+  <path d="M0 380 C150 360 480 360 630 380 L630 445 L0 445 Z" fill="#0a1f15"/>
+  <rect x="0" y="440" width="630" height="190" fill="url(#pitch)"/>
+  <g fill="#ffffff" fill-opacity="0.06">
+    <polygon points="0,440 90,440 0,520"/>
+    <polygon points="180,440 270,440 150,630 30,630"/>
+    <polygon points="360,440 450,440 600,630 480,630"/>
+    <polygon points="540,440 630,440 630,520"/>
+  </g>
+  <g fill="none" stroke="#f1f5ee" stroke-width="6">
+    <line x1="0" y1="512" x2="630" y2="512"/>
+    <ellipse cx="315" cy="512" rx="235" ry="62"/>
+  </g>
+  <ellipse cx="315" cy="512" rx="135" ry="20" fill="#000000" fill-opacity="0.45"/>
+  <g clip-path="url(#ball)">
+    <rect x="150" y="175" width="165" height="330" fill="#d64545"/>
+    <rect x="315" y="175" width="165" height="330" fill="#3f7cc4"/>
+    <g fill="none" stroke="#f1f5ee" stroke-width="5" stroke-opacity="0.9">
+      <ellipse cx="315" cy="340" rx="62" ry="165"/>
+      <ellipse cx="315" cy="340" rx="122" ry="165"/>
+      <path d="M192 230 Q315 250 438 230"/>
+      <path d="M159.4 285 Q315 307 470.6 285"/>
+      <path d="M150 340 Q315 365 480 340"/>
+      <path d="M159.4 395 Q315 417 470.6 395"/>
+      <path d="M192 450 Q315 470 438 450"/>
+    </g>
+    <line x1="315" y1="175" x2="315" y2="505" stroke="#f1f5ee" stroke-width="9"/>
+    <circle cx="315" cy="340" r="165" fill="url(#shade)"/>
+  </g>
+  <polygon points="315,300 352,327 338,370 292,370 278,327" fill="#0d1f17" stroke="#f1f5ee" stroke-width="5"/>
+  <circle cx="315" cy="340" r="165" fill="none" stroke="#0d1f17" stroke-width="6"/>
+</svg>

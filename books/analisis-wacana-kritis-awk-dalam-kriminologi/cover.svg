@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <clipPath id="bubble">
+      <rect x="120" y="130" width="390" height="320" rx="60"/>
+    </clipPath>
+  </defs>
+  <rect width="630" height="630" fill="#efe5cf"/>
+  <rect x="40" y="40" width="550" height="550" rx="26" fill="none" stroke="#1f1b2d" stroke-width="6"/>
+  <rect x="75" y="78" width="480" height="480" rx="20" fill="#e9b44c"/>
+  <path d="M192 142 H462 Q522 142 522 202 V402 Q522 462 462 462 H302 L187 547 L222 462 H192 Q132 462 132 402 V202 Q132 142 192 142 Z" fill="#1f1b2d"/>
+  <path d="M180 130 H450 Q510 130 510 190 V390 Q510 450 450 450 H290 L175 535 L210 450 H180 Q120 450 120 390 V190 Q120 130 180 130 Z" fill="#d7263d"/>
+  <g clip-path="url(#bubble)">
+    <circle cx="315" cy="262" r="54" fill="#1f1b2d"/>
+    <path d="M205 460 C205 368 252 336 315 336 C378 336 425 368 425 460 Z" fill="#1f1b2d"/>
+    <g stroke="#efe5cf" stroke-width="10">
+      <line x1="170" y1="120" x2="170" y2="460"/>
+      <line x1="219" y1="120" x2="219" y2="460"/>
+      <line x1="268" y1="120" x2="268" y2="460"/>
+      <line x1="317" y1="120" x2="317" y2="460"/>
+      <line x1="366" y1="120" x2="366" y2="460"/>
+      <line x1="415" y1="120" x2="415" y2="460"/>
+      <line x1="464" y1="120" x2="464" y2="460"/>
+      <line x1="110" y1="180" x2="520" y2="180"/>
+      <line x1="110" y1="408" x2="520" y2="408"/>
+    </g>
+  </g>
+  <path d="M180 130 H450 Q510 130 510 190 V390 Q510 450 450 450 H290 L175 535 L210 450 H180 Q120 450 120 390 V190 Q120 130 180 130 Z" fill="none" stroke="#1f1b2d" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="572" cy="300" r="12" fill="#1f1b2d"/>
+  <circle cx="572" cy="346" r="8" fill="#d7263d"/>
+</svg>

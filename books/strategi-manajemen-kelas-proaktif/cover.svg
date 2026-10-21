@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <path id="leaf" d="M0 0 C-12 -10 -11 -27 0 -36 C11 -27 12 -10 0 0 Z"/>
+    <g id="plant">
+      <use href="#leaf"/>
+      <use href="#leaf" transform="rotate(72)"/>
+      <use href="#leaf" transform="rotate(144)"/>
+      <use href="#leaf" transform="rotate(216)"/>
+      <use href="#leaf" transform="rotate(288)"/>
+      <circle r="10" fill="#c4473a"/>
+    </g>
+    <g id="sideR">
+      <rect x="-26" y="-36" width="56" height="72" rx="8" fill="#7fa58b"/>
+      <rect x="-8" y="-15" width="22" height="30" rx="3" fill="#fffaf0"/>
+      <ellipse cx="-52" cy="0" rx="15" ry="28" fill="#e8a33d"/>
+      <circle cx="-48" cy="0" r="14" fill="#23443a"/>
+    </g>
+    <g id="sideU">
+      <rect x="-36" y="-28" width="72" height="56" rx="8" fill="#7fa58b"/>
+      <rect x="-15" y="-12" width="30" height="22" rx="3" fill="#fffaf0"/>
+      <ellipse cx="0" cy="54" rx="28" ry="15" fill="#e8a33d"/>
+      <circle cx="0" cy="50" r="14" fill="#23443a"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="#23443a"/>
+  <rect x="36" y="36" width="558" height="558" rx="20" fill="#f2e4c6"/>
+  <rect x="500" y="580" width="70" height="50" fill="#f2e4c6"/>
+  <path d="M500 594 V524" stroke="#23443a" stroke-width="6" stroke-linecap="round"/>
+  <path d="M500 524 A70 70 0 0 1 570 594" fill="none" stroke="#23443a" stroke-width="4" stroke-dasharray="10 8" opacity="0.6"/>
+  <rect x="215" y="36" width="200" height="12" fill="#fffaf0"/>
+  <g fill="#fffaf0">
+    <rect x="36" y="140" width="9" height="84"/>
+    <rect x="36" y="300" width="9" height="84"/>
+    <rect x="585" y="140" width="9" height="84"/>
+    <rect x="585" y="300" width="9" height="84"/>
+  </g>
+  <circle cx="315" cy="295" r="118" fill="#e8d3a8"/>
+  <circle cx="315" cy="295" r="96" fill="none" stroke="#f2e4c6" stroke-width="6"/>
+  <circle cx="315" cy="295" r="150" fill="none" stroke="#23443a" stroke-width="4" stroke-dasharray="16 14" opacity="0.4"/>
+  <rect x="255" y="70" width="120" height="48" rx="8" fill="#23443a"/>
+  <rect x="300" y="82" width="30" height="22" rx="3" fill="#fffaf0"/>
+  <use href="#plant" transform="translate(88 88)" fill="#23443a"/>
+  <use href="#plant" transform="translate(542 88)" fill="#23443a"/>
+  <rect x="52" y="470" width="26" height="108" rx="5" fill="#23443a"/>
+  <g fill="#e8a33d">
+    <rect x="57" y="478" width="16" height="26" rx="2"/>
+    <rect x="57" y="544" width="16" height="26" rx="2"/>
+  </g>
+  <rect x="57" y="511" width="16" height="26" rx="2" fill="#c4473a"/>
+  <use href="#sideR" transform="translate(140 182)"/>
+  <use href="#sideR" transform="translate(140 282)"/>
+  <use href="#sideR" transform="translate(140 382)"/>
+  <use href="#sideR" transform="translate(490 182) scale(-1 1)"/>
+  <use href="#sideR" transform="translate(490 282) scale(-1 1)"/>
+  <use href="#sideR" transform="translate(490 382) scale(-1 1)"/>
+  <use href="#sideU" transform="translate(215 490)"/>
+  <use href="#sideU" transform="translate(315 490)"/>
+  <use href="#sideU" transform="translate(415 490)"/>
+  <ellipse cx="315" cy="295" rx="36" ry="19" fill="#c4473a"/>
+  <circle cx="315" cy="300" r="17" fill="#23443a"/>
+</svg>

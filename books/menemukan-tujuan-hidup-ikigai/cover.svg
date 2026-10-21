@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf0d8"/>
+      <stop offset="1" stop-color="#f6d6a8"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff6e0" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#fff6e0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <g fill="none" stroke="#e0a865" stroke-width="3" stroke-opacity="0.35">
+    <circle cx="315" cy="315" r="250"/>
+    <circle cx="315" cy="315" r="285"/>
+  </g>
+  <g fill-opacity="0.72">
+    <circle cx="315" cy="205" r="140" fill="#d9483b"/>
+    <circle cx="425" cy="315" r="140" fill="#f0a91f"/>
+    <circle cx="315" cy="425" r="140" fill="#3f8f5f"/>
+    <circle cx="205" cy="315" r="140" fill="#2f5f9e"/>
+  </g>
+  <g fill="none" stroke="#3a1f33" stroke-width="3.5" stroke-opacity="0.55">
+    <circle cx="315" cy="205" r="140"/>
+    <circle cx="425" cy="315" r="140"/>
+    <circle cx="315" cy="425" r="140"/>
+    <circle cx="205" cy="315" r="140"/>
+  </g>
+  <circle cx="315" cy="315" r="70" fill="url(#core)"/>
+  <g stroke="#3a1f33" stroke-width="4" stroke-linecap="round">
+    <line x1="315" y1="268" x2="315" y2="282"/>
+    <line x1="315" y1="348" x2="315" y2="362"/>
+    <line x1="268" y1="315" x2="282" y2="315"/>
+    <line x1="348" y1="315" x2="362" y2="315"/>
+    <line x1="282" y1="282" x2="291" y2="291"/>
+    <line x1="339" y1="339" x2="348" y2="348"/>
+    <line x1="348" y1="282" x2="339" y2="291"/>
+    <line x1="291" y1="339" x2="282" y2="348"/>
+  </g>
+  <circle cx="315" cy="315" r="21" fill="#3a1f33"/>
+  <circle cx="315" cy="315" r="9" fill="#ffd36b"/>
+</svg>

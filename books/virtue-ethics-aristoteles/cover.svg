@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#cf6a3f"/>
+      <stop offset="1" stop-color="#9c4127"/>
+    </linearGradient>
+    <clipPath id="left"><rect width="330" height="630"/></clipPath>
+    <clipPath id="right"><rect x="330" width="300" height="630"/></clipPath>
+    <g id="shaft">
+      <ellipse rx="12" ry="8" fill="#000000" opacity="0.35"/>
+      <rect y="-5" width="180" height="10" rx="5" fill="#f6eddc" stroke="#1d1613" stroke-width="3"/>
+    </g>
+    <g id="vanes" stroke="#1d1613" stroke-width="3" stroke-linejoin="round">
+      <polygon points="126,-5 156,-30 192,-30 180,-5"/>
+      <polygon points="126,5 156,30 192,30 180,5"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="342" cy="346" r="214" fill="#000000" opacity="0.22"/>
+  <circle cx="330" cy="330" r="212" fill="#4a6d94" clip-path="url(#left)"/>
+  <circle cx="330" cy="330" r="212" fill="#7a1f1f" clip-path="url(#right)"/>
+  <circle cx="330" cy="330" r="212" fill="none" stroke="#1d1613" stroke-width="6"/>
+  <circle cx="330" cy="330" r="174" fill="#f3e8d2"/>
+  <circle cx="330" cy="330" r="138" fill="#1d1613"/>
+  <circle cx="330" cy="330" r="102" fill="#f3e8d2"/>
+  <circle cx="330" cy="330" r="66" fill="#e9b444"/>
+  <circle cx="330" cy="330" r="30" fill="#c98a1f"/>
+  <g transform="translate(150 350) rotate(218.7) scale(0.78)">
+    <use href="#shaft"/>
+    <use href="#vanes" fill="#8fb0d6"/>
+  </g>
+  <g transform="translate(508 298) rotate(218.7) scale(0.78)">
+    <use href="#shaft"/>
+    <use href="#vanes" fill="#d9534f"/>
+  </g>
+  <g transform="translate(330 330) rotate(218.7)">
+    <use href="#shaft"/>
+    <use href="#vanes" fill="#e9b444"/>
+  </g>
+</svg>

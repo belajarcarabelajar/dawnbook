@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fdf1c9"/>
+      <stop offset="1" stop-color="#f3c74d"/>
+    </linearGradient>
+    <clipPath id="screen">
+      <rect x="222" y="120" width="186" height="390" rx="24"/>
+    </clipPath>
+  </defs>
+  <rect width="630" height="630" fill="#d6e2cf"/>
+  <circle cx="315" cy="320" r="255" fill="#c5d7bc"/>
+  <g transform="translate(128 170) rotate(-16)">
+    <rect x="-30" y="-30" width="60" height="60" rx="16" fill="#fbfaf5"/>
+    <circle cx="28" cy="-28" r="11" fill="#e0584a"/>
+  </g>
+  <g transform="translate(70 290) rotate(-28)" opacity="0.75">
+    <rect x="-23" y="-23" width="46" height="46" rx="12" fill="#4f7f69"/>
+    <circle cx="21" cy="-21" r="9" fill="#e0584a"/>
+  </g>
+  <g transform="translate(120 420) rotate(14)" opacity="0.55">
+    <rect x="-20" y="-20" width="40" height="40" rx="11" fill="#f3c74d"/>
+  </g>
+  <g transform="translate(62 525) rotate(-8)" opacity="0.35">
+    <rect x="-15" y="-15" width="30" height="30" rx="8" fill="#fbfaf5"/>
+  </g>
+  <g transform="translate(505 160) rotate(18)">
+    <rect x="-30" y="-30" width="60" height="60" rx="16" fill="#f3c74d"/>
+    <circle cx="28" cy="-28" r="11" fill="#e0584a"/>
+  </g>
+  <g transform="translate(565 285) rotate(30)" opacity="0.75">
+    <rect x="-23" y="-23" width="46" height="46" rx="12" fill="#fbfaf5"/>
+    <circle cx="21" cy="-21" r="9" fill="#e0584a"/>
+  </g>
+  <g transform="translate(515 420) rotate(-12)" opacity="0.55">
+    <rect x="-20" y="-20" width="40" height="40" rx="11" fill="#4f7f69"/>
+  </g>
+  <g transform="translate(572 530) rotate(10)" opacity="0.35">
+    <rect x="-15" y="-15" width="30" height="30" rx="8" fill="#f3c74d"/>
+  </g>
+  <g transform="translate(225 52) rotate(-10)" opacity="0.6">
+    <rect x="-18" y="-18" width="36" height="36" rx="10" fill="#4f7f69"/>
+    <circle cx="16" cy="-16" r="8" fill="#e0584a"/>
+  </g>
+  <g transform="translate(405 50) rotate(12)" opacity="0.5">
+    <rect x="-16" y="-16" width="32" height="32" rx="9" fill="#fbfaf5"/>
+  </g>
+  <rect x="216" y="106" width="226" height="446" rx="42" fill="#a9c09f"/>
+  <rect x="202" y="92" width="226" height="446" rx="42" fill="#24423a"/>
+  <g clip-path="url(#screen)">
+    <rect x="222" y="120" width="186" height="390" fill="url(#sky)"/>
+    <circle cx="315" cy="362" r="46" fill="#fbfaf5"/>
+    <path d="M222 395 Q270 352 322 382 Q370 408 408 372 V510 H222 Z" fill="#8fb59a"/>
+    <path d="M222 455 Q300 410 408 448 V510 H222 Z" fill="#4f7f69"/>
+  </g>
+  <rect x="290" y="102" width="50" height="8" rx="4" fill="#3d6157"/>
+  <rect x="285" y="519" width="60" height="8" rx="4" fill="#3d6157"/>
+</svg>

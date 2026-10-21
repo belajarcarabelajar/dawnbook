@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <rect width="630" height="630" fill="#f5eee2"/>
+  <g>
+    <rect x="45" y="45" width="170" height="170" rx="18" fill="#e4572e"/>
+    <rect x="230" y="45" width="170" height="170" rx="18" fill="#f4b942"/>
+    <rect x="415" y="45" width="170" height="170" rx="18" fill="#3e6fb0"/>
+    <rect x="45" y="230" width="170" height="170" rx="18" fill="#3a8a4f"/>
+    <rect x="230" y="230" width="170" height="170" rx="18" fill="#22223b"/>
+    <rect x="415" y="230" width="170" height="170" rx="18" fill="#e4572e"/>
+    <rect x="45" y="415" width="170" height="170" rx="18" fill="#f4b942"/>
+    <rect x="230" y="415" width="170" height="170" rx="18" fill="#3e6fb0"/>
+    <rect x="415" y="415" width="170" height="170" rx="18" fill="#3a8a4f"/>
+  </g>
+  <g transform="translate(45 45)">
+    <rect x="22" y="34" width="96" height="64" rx="18" fill="#fdf6ec"/>
+    <polygon points="40,94 34,124 66,96" fill="#fdf6ec"/>
+    <rect x="70" y="82" width="78" height="52" rx="16" fill="#f7b8a2"/>
+    <polygon points="130,128 140,150 112,130" fill="#f7b8a2"/>
+  </g>
+  <g transform="translate(230 45)">
+    <polygon points="28,140 28,110 62,110 62,80 96,80 96,50 142,50 142,140" fill="#22223b"/>
+    <circle cx="120" cy="30" r="12" fill="#e4572e"/>
+  </g>
+  <g transform="translate(415 45)" fill="#fdf6ec">
+    <polygon points="85,30 137,58 85,86 33,58"/>
+    <polygon points="33,58 85,86 85,144 33,116" fill-opacity="0.75"/>
+    <polygon points="85,86 137,58 137,116 85,144" fill-opacity="0.5"/>
+  </g>
+  <g transform="translate(45 230)" fill="#fdf6ec">
+    <rect x="22" y="70" width="11" height="30" rx="5.5"/>
+    <rect x="40" y="50" width="11" height="70" rx="5.5"/>
+    <rect x="58" y="30" width="11" height="110" rx="5.5"/>
+    <rect x="76" y="55" width="11" height="60" rx="5.5"/>
+    <rect x="94" y="35" width="11" height="100" rx="5.5"/>
+    <rect x="112" y="65" width="11" height="40" rx="5.5"/>
+    <rect x="130" y="75" width="11" height="20" rx="5.5"/>
+  </g>
+  <g transform="translate(230 230)" fill="#fdf6ec">
+    <circle cx="85" cy="64" r="27"/>
+    <path d="M33 150C33 112 56 98 85 98C114 98 137 112 137 150Z"/>
+    <g fill="#f4b942">
+      <circle cx="135" cy="64" r="6"/>
+      <circle cx="120.4" cy="99.4" r="6"/>
+      <circle cx="85" cy="114" r="6"/>
+      <circle cx="49.6" cy="99.4" r="6"/>
+      <circle cx="35" cy="64" r="6"/>
+      <circle cx="49.6" cy="28.6" r="6"/>
+      <circle cx="85" cy="14" r="6"/>
+      <circle cx="120.4" cy="28.6" r="6"/>
+    </g>
+  </g>
+  <g transform="translate(415 230)">
+    <circle cx="104" cy="36" r="17" fill="#fdf6ec"/>
+    <g fill="none" stroke="#fdf6ec" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="94" y1="62" x2="78" y2="100"/>
+      <polyline points="92,70 116,88 134,72"/>
+      <polyline points="90,70 64,74 48,92"/>
+      <polyline points="78,100 108,116 110,146"/>
+      <polyline points="78,100 58,126 30,128"/>
+    </g>
+  </g>
+  <g transform="translate(45 415)" fill="#22223b" stroke="#f4b942" stroke-width="5">
+    <circle cx="58" cy="62" r="22"/>
+    <path d="M18 146C18 108 36 94 58 94C80 94 98 108 98 146Z"/>
+    <circle cx="112" cy="70" r="22"/>
+    <path d="M72 150C72 116 90 102 112 102C134 102 152 116 152 150Z"/>
+  </g>
+  <g transform="translate(230 415)">
+    <g fill="none" stroke="#fdf6ec" stroke-width="10">
+      <circle cx="85" cy="85" r="58"/>
+      <circle cx="85" cy="85" r="34"/>
+    </g>
+    <circle cx="85" cy="85" r="13" fill="#f4b942"/>
+  </g>
+  <g transform="translate(415 415)">
+    <path d="M36 136C36 74 78 34 138 34C138 98 100 136 36 136Z" fill="#fdf6ec"/>
+    <line x1="40" y1="132" x2="112" y2="60" stroke="#3a8a4f" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>
