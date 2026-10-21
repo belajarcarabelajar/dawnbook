@@ -28,6 +28,19 @@ Proses belajar yang sesungguhnya baru terjadi saat anak merasa sedikit bingung. 
 
 Coba bayangkan: kalau materi yang diberikan terlalu mudah, anak pasti bosan. Tapi kalau kelewat susah, mereka akan menyerah. Guru harus jeli mencari titik tengah. Berikan informasi baru yang cukup mengusik pemahaman lama mereka, tapi tetap bisa diproses lewat akomodasi.
 
+Takaran tantangan itulah yang menentukan nasib sebuah materi baru di kepala anak:
+
+```mermaid
+flowchart TD
+    accTitle: Takaran tantangan materi baru
+    accDescr: Materi baru yang terlalu mudah membuat anak bosan dan yang terlalu sulit membuat anak menyerah. Materi yang cukup mengusik pemahaman lama membuat anak sedikit bingung, lalu skema lamanya dirombak lewat akomodasi.
+    A["Guru memberi materi baru"] --> B{"Seberapa sulit bagi anak?"}
+    B -->|"terlalu mudah"| C["Anak bosan"]
+    B -->|"terlalu sulit"| D["Anak menyerah"]
+    B -->|"cukup mengusik pemahaman lama"| E["Anak merasa sedikit bingung"]
+    E --> F["Skema lama dirombak lewat akomodasi"]
+```
+
 Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu raksasa yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
 
 ### Peran Baru Seorang Guru
@@ -44,24 +57,7 @@ Mari kita lihat perbedaan strategi mengajar untuk satu topik yang sama: siklus a
 - **Operasional Konkret:** Praktik langsung membuat miniatur siklus air. Siswa memasukkan air ke dalam botol tertutup, menjemurnya, lalu mengamati uap air yang menempel di dinding botol.
 - **Operasional Formal:** Siswa diminta menganalisis data perubahan iklim global. Mereka mendiskusikan prediksi dampaknya terhadap siklus air dan ekosistem di masa depan.
 
-### Analogi Logika Kognitif
-
-Kalau dipikir-pikir, cara kerja otak anak beradaptasi dengan materi baru mirip dengan logika pemrograman sederhana:
-
-```python
-def belajar_konsep_baru(skema_saat_ini, informasi_baru):
-    if informasi_baru == skema_saat_ini:
-        # Informasi nyambung, diserap gampang
-        return "Ekuilibrium tercapai"
-    else:
-        # Muncul konflik kognitif
-        pilihan = hadapi_tantangan()
-        if pilihan == "Akomodasi":
-            skema_saat_ini = modifikasi_skema(informasi_baru)
-            return "Skema berubah! Pemahaman baru terbentuk."
-        else:
-            return "Informasi lewat begitu saja"
-```
+### Merancang Momen Aha
 
 Ingatlah bahwa setiap anak punya kecepatan berkembang yang tidak bisa disamaratakan. Paksaan untuk seragam hanya akan mematikan potensi alami mereka. Terkadang, memberi ruang bagi tangan mereka untuk aktif jauh lebih efektif untuk membangunkan logika di dalam kepalanya. 
 

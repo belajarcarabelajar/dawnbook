@@ -69,7 +69,7 @@ Siswa mulai siap belajar aljabar. Huruf seperti $x$, $y$, dan $z$ menggantikan a
 
 Remaja mulai kritis terhadap aturan dan otoritas. Mereka sering membayangkan versi dunia yang ideal lalu membandingkannya dengan realita. Tidak heran kalau masa remaja sering dipenuhi idealisme berapi-api.
 
-### Skenario Pemecahan Masalah (Engineering/Programming)
+### Skenario Pemecahan Masalah Teknis
 
 Dalam dunia teknis, operasional formal sangat penting untuk *debugging* atau merancang sistem.
 
@@ -78,20 +78,19 @@ Seorang teknisi remaja memakai logika deduktif saat internet rumah mati:
 1. **Hipotesis 1:** Masalah ada di router. (Cara tes: lihat lampu indikator).
 2. **Hipotesis 2:** Masalah ada di kabel pusat ISP. (Cara tes: cek koneksi rumah tetangga).
 3. **Analisis:** Kalau router menyala hijau tapi internet tetap mati, kemungkinan besar masalahnya dari ISP.
+4. **Tindakan:** Kalau lampu router tidak menyala hijau, router perlu di-restart atau diganti. Kalau router hijau dan internet tetangga ikut mati, saatnya menghubungi ISP. Kalau router hijau dan internet tetangga lancar, yang perlu diperiksa adalah perangkat di rumah sendiri.
 
-Dalam logika *code*:
+Remaja operasional formal bisa menelusuri percabangan ini di kepala mereka sebelum mulai bertindak:
 
-```python
-def check_connection(router_status, isp_status):
-    # Penalaran sistematis berdasarkan variabel
-    if not router_status:
-        return "Ganti atau restart router"
-    elif not isp_status:
-        return "Hubungi pihak ISP"
-    else:
-        return "Koneksi normal, cek perangkat user"
-
-## Remaja operasional formal bisa mensimulasikan percabangan logika (if-else) ini di kepala mereka sebelum mulai bertindak.
+```mermaid
+flowchart TD
+    accTitle: Percabangan saat internet rumah mati
+    accDescr: Teknisi remaja memeriksa lampu router lebih dulu. Lampu yang tidak hijau berarti router di-restart atau diganti. Bila lampu hijau, ia mengecek internet tetangga. Internet tetangga yang ikut mati berarti hubungi ISP, sedangkan internet tetangga yang lancar berarti periksa perangkat di rumah sendiri.
+    A["Internet rumah mati"] --> B{"Lampu router menyala hijau?"}
+    B -->|"tidak"| C["Restart atau ganti router"]
+    B -->|"ya"| D{"Internet tetangga ikut mati?"}
+    D -->|"ya"| E["Hubungi ISP"]
+    D -->|"tidak"| F["Periksa perangkat di rumah sendiri"]
 ```
 
 ## 6\. Egosentrisme Remaja

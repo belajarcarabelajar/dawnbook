@@ -51,33 +51,9 @@ Untuk mempermudah pemahaman, mari kita lihat perbandingannya dalam logika sederh
 | **Interaksi** | Mencocokkan dunia ke pikiran | Mencocokkan pikiran ke dunia |
 | **Hasil** | Skema tetap sama, hanya lebih luas | Skema berubah atau tercipta skema baru |
 | **Kondisi** | Terjadi saat informasi sudah familiar | Terjadi saat informasi baru terasa asing |
+| **Contoh** | Balita menunjuk burung gereja dan berteriak "Burung!" | Balita mengubah skema "semua burung terbang" setelah melihat burung unta |
 
-### 5\. Representasi Logika (Untuk Pembelajar Teknis)
-
-Jika kita memodelkan proses ini dalam bahasa pemrograman sederhana, kita bisa melihat perbedaannya dalam struktur data:
-
-```python
-## ASIMILASI: Menambahkan data ke list yang sudah ada
-skema_hewan = ["Anjing", "Kucing", "Kelinci"]
-info_baru = "Poodle"
-
-if info_baru == "Mirip Anjing":
-    skema_hewan.append(info_baru) # Asimilasi: Masuk ke list yang ada
-    print("Skema tetap, data bertambah.")
-
-## AKOMODASI: Mengubah struktur data karena tidak cocok
-info_baru_asing = "Ikan"
-
-if info_baru_asing != "Hewan Darat":
-    # Akomodasi: Membuat kategori baru atau mengubah struktur
-    skema_kognitif = {
-        "Hewan Darat": ["Anjing", "Kucing"],
-        "Hewan Air": ["Ikan"] # Struktur berubah untuk menampung info baru
-    }
-    print("Struktur mental berubah/diperbarui.")
-```
-
-### 6\. Belajar Teknologi Baru
+### 5\. Belajar Teknologi Baru
 
 Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya terus bekerja sepanjang hayat.
 
@@ -88,7 +64,7 @@ Mekanisme asimilasi dan akomodasi tidak berhenti saat kita dewasa. Keduanya teru
 
 **Dalam Pendidikan:** Guru yang efektif akan memberikan tantangan yang memicu akomodasi. Jika materi terlalu mudah, siswa hanya akan melakukan asimilasi tanpa perkembangan struktur otak yang signifikan. Jika terlalu sulit, akomodasi tidak bisa terjadi karena tidak ada "kait" skema awal yang bisa diubah.
 
-### 7\. Hubungan Menuju Ekuilibrasi
+### 6\. Hubungan Menuju Ekuilibrasi
 
 Asimilasi dan akomodasi bukanlah dua proses yang terpisah secara kaku, melainkan dua sisi dari satu koin bernama **Adaptasi**.
 
