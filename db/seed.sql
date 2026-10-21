@@ -296,8 +296,22 @@ Sebagai contoh, keputusan cepat yang diambil di bawah tekanan waktu dengan data 
      - **Mall A:** Menawarkan sewa murah (nilai 8), namun kepadatan pengunjung tergolong sedang (nilai 6).
      - **Mall B:** Harga sewa tergolong mahal (nilai 4), tetapi tingkat kunjungan sangat padat (nilai 9).
    - **Perhitungan Skor:**
-     - Skor Mall A: $(0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8$
-     - Skor Mall B: $(0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0$
+     - Skor Mall A:
+
+       <div>
+       $$
+       (0.4 \times 8) + (0.6 \times 6) = 3.2 + 3.6 = 6.8
+       $$
+       </div>
+
+     - Skor Mall B:
+
+       <div>
+       $$
+       (0.4 \times 4) + (0.6 \times 9) = 1.6 + 5.4 = 7.0
+       $$
+       </div>
+
    - **Keputusan Akhir:** Mall B dipilih karena menghasilkan skor total tertinggi, meskipun biaya sewanya lebih mahal.
 
 ## Rangkuman Intisari
@@ -1267,8 +1281,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2408,8 +2422,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4000,8 +4014,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4958,8 +4972,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5719,8 +5733,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6116,7 +6130,13 @@ Konsep ini pertama kali diperkenalkan oleh psikolog **Amos Tversky** dan **Danie
 
 > "Jika saya bisa mengingatnya dengan mudah, maka peristiwa itu pasti penting atau sering terjadi."
 
-Secara matematis, otak kita mencoba melakukan estimasi probabilitas ($P$) dengan rumus intuitif yang keliru: $P(\text{peristiwa}) \approx \text{Kemudahan Retrieval (Pemanggilan Memori)}$
+Secara matematis, otak kita mencoba melakukan estimasi probabilitas ($P$) dengan rumus intuitif yang keliru:
+
+<div>
+$$
+P(\text{peristiwa}) \approx \text{Kemudahan Retrieval (Pemanggilan Memori)}
+$$
+</div>
 
 Padahal, kenyataannya: $P(\text{peristiwa}) = \frac{\text{Jumlah Kejadian}}{\text{Total Peluang}}$
 
@@ -6340,8 +6360,21 @@ Bayangkan tim kamu telah menghabiskan 6 bulan membangun arsitektur sistem menggu
 
 **Logika Rasional:** Mari kita bandingkan dua opsi menggunakan perhitungan sederhana:
 
-1. **Lanjut Framework A:** $\text{Biaya Masa Depan} = \text{Rp } 500.000.000$
-2. **Pindah ke Framework Baru:** $\text{Biaya Adaptasi} + \text{Biaya Baru} = \text{Rp } 300.000.000$
+1. **Lanjut Framework A:**
+
+   <div>
+   $$
+   \text{Biaya Masa Depan} = \text{Rp } 500.000.000
+   $$
+   </div>
+
+2. **Pindah ke Framework Baru:**
+
+   <div>
+   $$
+   \text{Biaya Adaptasi} + \text{Biaya Baru} = \text{Rp } 300.000.000
+   $$
+   </div>
 
 Secara objektif, opsi 2 lebih baik meskipun investasi 6 bulan sebelumnya "hilang".
 
@@ -6967,8 +7000,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7697,7 +7730,13 @@ Eksperimen lintas genre ini menuntut lompatan besar dalam teknologi produksi. Pe
 
 Ketika sebuah cerita tidak lagi dibatasi oleh realitas fisik, imajinasi liar kreator pun dapat tumpah ruah sepenuhnya. Hal ini terlihat nyata pada proyek *sci-fi* seperti *The Silent Sea* atau *Hellbound*.
 
-**Formula Kesuksesan Eksperimen Genre:** $\text{Popularitas} = (\text{Kearifan Lokal} \times \text{Tema Universal}) + \text{Kualitas Produksi OTT}$
+**Formula Kesuksesan Eksperimen Genre:**
+
+<div>
+$$
+\text{Popularitas} = (\text{Kearifan Lokal} \times \text{Tema Universal}) + \text{Kualitas Produksi OTT}
+$$
+</div>
 
 ### 4. Strategi Industri
 
@@ -7912,8 +7951,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8827,8 +8866,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10065,8 +10104,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11141,8 +11180,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13016,8 +13055,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14166,8 +14205,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15233,8 +15272,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16515,8 +16554,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17396,8 +17435,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -18625,8 +18664,23 @@ Mekanisme sinkronisasi adalah sekumpulan aturan dan alat yang digunakan kernel u
 > 
 > 1. Proses A ingin menarik Rp200.000. Ia membaca saldo: Rp1.000.000.
 > 2. Di saat yang hampir bersamaan, Proses B ingin menyetor Rp100.000. Ia juga membaca saldo: Rp1.000.000.
-> 3. Proses A menghitung $1.000.000 - 200.000 = 800.000$ dan menyimpannya.
-> 4. Proses B menghitung $1.000.000 + 100.000 = 1.100.000$ dan menyimpannya. Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
+> 3. Proses A menghitung dan menyimpan saldo baru:
+>
+>    <div>
+>    $$
+>    1.000.000 - 200.000 = 800.000
+>    $$
+>    </div>
+>
+> 4. Proses B menghitung dan menyimpan saldo baru:
+>
+>    <div>
+>    $$
+>    1.000.000 + 100.000 = 1.100.000
+>    $$
+>    </div>
+>
+>    Hasil akhirnya adalah Rp1.100.000. Uang Rp200.000 yang ditarik Proses A "hilang" dari catatan karena tertimpa oleh hasil Proses B.
 
 Untuk mencegah hal ini, kita membutuhkan **mutual exclusion**: memastikan hanya satu "koki" yang bisa mengakses "talenan" pada satu waktu.
 
@@ -19083,8 +19137,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19179,7 +19233,13 @@ Elemen yang ada di dalam pengetahuan prosedural meliputi:
 Contoh penerapan prosedural:
 - Kamu tahu *bagaimana* cara bikin ringkasan yang bagus dari satu bab buku tebal, yaitu dengan memisahkan ide pokok dari kalimat pendukungnya.
 - Seorang programmer tahu persis *langkah-langkah* melakukan *debugging* saat kodenya error.
-- Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus $\text{momentum} = \text{massa} \times \text{kecepatan}$.
+- Kamu tahu *bagaimana* cara menghitung momentum dalam fisika menggunakan rumus berikut:
+
+  <div>
+  $$
+  \text{momentum} = \text{massa} \times \text{kecepatan}
+  $$
+  </div>
 
 ## 3. Pengetahuan Kondisional
 
@@ -20186,8 +20246,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20835,7 +20895,13 @@ Sebagai gambaran praktis, mari kita lihat bagaimana Budi, seorang pasien dewasa,
 
 - Budi memasang alarm ponsel setiap 6 jam sekali untuk meminum parasetamol secara teratur, bahkan saat tengah malam. Dia tidak ingin melewatkan jadwal obat dan terbangun dalam kondisi kesakitan.
 - Dia memanfaatkan ''jendela kesempatan'' dengan menunggu sekitar 30 menit setelah minum obat pereda nyeri sebelum mulai menyantap makanan lunak.
-- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian: $\text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam}$.
+- Budi juga mencatat setiap waktu minum obat di selembar kertas untuk melacak konsumsinya agar tidak melebihi batas aman harian:
+
+  <div>
+  $$
+  \text{Dosis Total} \leq 4000\text{ mg Parasetamol per 24 jam}
+  $$
+  </div>
 
 ### Tips untuk Kenyamanan Maksimal
 
@@ -21283,8 +21349,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21357,7 +21423,13 @@ Maknanya praktis. Kamu tidak selalu dapat mengecilkan ancaman, tetapi dapat menu
 
 ### Waktu Respons Penentu Keselamatan
 
-Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai \\( T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi}} \\).
+Kegagalan peringatan sering bukan karena data tidak ada, melainkan waktu respons tidak cukup. Waktu yang kamu miliki terdiri dari deteksi, diseminasi, dan reaksi. Hubungannya dapat ditulis sebagai berikut:
+
+<div>
+$$
+T_{\text{respon}} = T_{\text{deteksi}} + T_{\text{diseminasi}} + T_{\text{reaksi}}
+$$
+</div>
 
 Jika satu komponen membengkak, total waktu melewati jendela aman. Deteksi cepat tidak berguna bila diseminasi macet karena jaringan padat, atau warga ragu akibat peringatan palsu sebelumnya. Perbaikan sering bukan menambah sensor, melainkan memangkas \\( T_{\text{diseminasi}} \\) dengan jalur redundan dan memangkas \\( T_{\text{reaksi}} \\) dengan latihan.
 
@@ -22234,8 +22306,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22581,7 +22653,15 @@ E_{\text{total}} = E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosi
 $$
 </div>
 
-Jika $\sum (E\_{\text{bahasa}} + E\_{\text{navigasi}} + E\_{\text{norma sosial}}) > E\_{\text{total}}$, maka $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
+Jika kondisi berikut terpenuhi:
+
+<div>
+$$
+\sum (E_{\text{bahasa}} + E_{\text{navigasi}} + E_{\text{norma sosial}}) > E_{\text{total}}
+$$
+</div>
+
+Dalam kondisi itu, $E\_{\text{sisa}}$ menjadi negatif. Inilah titik di mana gejala fisik dan psikologis mulai muncul sebagai "alarm" sistem.
 
 ## Kisah Budi di Jerman
 
@@ -23405,8 +23485,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23482,7 +23562,15 @@ Meskipun detail biologisnya akan dibahas di bagian selanjutnya, secara prinsip a
 1. **Perubahan Fungsional**: Kemampuan otak untuk memindahkan fungsi dari area yang rusak ke area yang tidak rusak.
 2. **Perubahan Struktural**: Kemampuan otak untuk secara fisik mengubah struktur strukturnya sebagai hasil dari pembelajaran (misalnya, area otak tertentu menjadi lebih tebal karena sering dilatih).
 
-Dalam bahasa matematis sederhana, kita bisa melihat perubahan ini sebagai fungsi dari atensi dan repetisi: $\Delta\text{BrainStructure} = f(\text{Attention} \times \text{Repetition})$ Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa besar perhatian yang kamu berikan dikalikan dengan seberapa sering kamu mengulanginya.
+Dalam bahasa matematis sederhana, kita bisa melihat perubahan ini sebagai fungsi dari atensi dan repetisi:
+
+<div>
+$$
+\Delta\text{BrainStructure} = f(\text{Attention} \times \text{Repetition})
+$$
+</div>
+
+Artinya, perubahan struktur otak ($\Delta$) adalah fungsi ($f$) dari seberapa besar perhatian yang kamu berikan dikalikan dengan seberapa sering kamu mengulanginya.
 
 ## 5\. Aplikasi Dunia Nyata & Kasus Praktis
 
@@ -24560,8 +24648,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25574,8 +25662,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25909,7 +25997,19 @@ Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jel
 
 ### Kalkulasi Kehilangan Waktu
 
-Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari): $\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}$ $4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}$
+Jika kamu kehilangan 5 menit per transisi dan terdapat 5 transisi dalam sehari, mari kita hitung kerugiannya dalam satu tahun ajaran (180 hari):
+
+<div>
+$$
+\text{Waktu Hilang} = 5 \text{ menit} \times 5 \text{ transisi} \times 180 \text{ hari} = 4.500 \text{ menit}
+$$
+</div>
+
+<div>
+$$
+4.500 \text{ menit} \div 60 = 75 \text{ jam pembelajaran}
+$$
+</div>
 
 75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
 
@@ -26381,8 +26481,8 @@ $$
 
 Di mana:
 
-- $K = \text{Kejelasan instruksi}$
-- $D = \text{Durasi interupsi terhadap kelas}$
+- $K$ = kejelasan instruksi
+- $D$ = durasi interupsi terhadap kelas
 
 Semakin kecil $D$ (durasi interupsi), semakin tinggi efisiensi manajemen kelas kamu.
 
@@ -26474,7 +26574,14 @@ Jika terjadi konflik antar dua siswa (misal: Siswa A mengejek Siswa B hingga Sis
 1. **Regulasi Emosi:** Pastikan kedua pihak sudah tenang. Kita tidak bisa berdiskusi secara restoratif saat otak sedang dalam mode "fight or flight".
 2. **Berbagi Perspektif:** Biarkan masing-masing bercerita tanpa interupsi. Gunakan pertanyaan restoratif.
 3. **Membangun Empati:** Bantu si pelaku memahami dampak emosional pada korban.
-	- *Formula Logika Empati:* $\text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}$
+	- *Formula Logika Empati:*
+
+	  <div>
+	  $$
+	  \text{Aksi} \rightarrow \text{Dampak pada Orang Lain} \rightarrow \text{Tanggung Jawab}
+	  $$
+	  </div>
+
 4. **Kesepakatan Perbaikan (Restitution):** Biarkan siswa mengusulkan cara memperbaiki keadaan.
 	- *Bukan sekadar minta maaf:* "Minta maaf" seringkali hanya kata-kata. "Memperbaiki" bisa berarti menghapus coretan, mengganti barang yang rusak, atau melakukan tindakan baik untuk menebus kesalahan.
 5. **Tindak Lanjut:** Periksa beberapa hari kemudian apakah hubungan mereka sudah membaik.
@@ -26741,8 +26848,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27650,8 +27757,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28809,8 +28916,21 @@ Mari kita lihat skenario dunia nyata yang sering kita alami.
 **Langkah-langkah Nilai Shapley:**
 
 1. **Pemain A:** Dia harus membayar bagian dari biaya sampai ke rumahnya. Karena ada 3 orang yang menikmati perjalanan tersebut, A membayar $10.000 / 3 = 3.333$.
-2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi: $(10.000/3) + (10.000/2) = 3.333 + 5.000 = 8.333$.
-3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi: $(10.000/3) + (10.000/2) + 10.000 = 3.333 + 5.000 + 10.000 = 18.333$.
+2. **Pemain B:** Dia berbagi biaya $10.000$ pertama dengan A dan C, lalu dia berbagi biaya $10.000$ berikutnya (dari rumah A ke rumah B) hanya dengan C. Jadi:
+
+   <div>
+   $$
+   (10.000/3) + (10.000/2) = 3.333 + 5.000 = 8.333
+   $$
+   </div>
+
+3. **Pemain C:** Dia berbagi biaya dengan A dan B, lalu dengan B saja, lalu menanggung sisa perjalanan sendiri. Jadi:
+
+   <div>
+   $$
+   (10.000/3) + (10.000/2) + 10.000 = 3.333 + 5.000 + 10.000 = 18.333
+   $$
+   </div>
 
 **Total:** $3.333 + 8.333 + 18.333 \approx 30.000$.
 
@@ -29189,8 +29309,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29825,7 +29945,15 @@ Mulailah belajar tentang instrumen yang melawan inflasi, seperti Reksadana atau 
 
 ## Menghadapi Kenaikan Biaya Hidup
 
-**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan: $5.000.000 \times (1 + 0{,}05) = \text{Rp}5.250.000$ hanya untuk mempertahankan standar hidup yang **sama**.
+**Skenario:** Kamu tinggal di kota besar dengan inflasi tahunan sebesar 5%. Jika pengeluaran bulananmu saat ini adalah Rp5.000.000, maka tahun depan kamu membutuhkan:
+
+<div>
+$$
+5.000.000 \times (1 + 0{,}05) = \text{Rp}5.250.000
+$$
+</div>
+
+Jumlah itu hanya untuk mempertahankan standar hidup yang **sama**.
 
 **Tindakan yang Bisa Diambil:**
 
@@ -29921,7 +30049,15 @@ Jika kamu merasa tersesat, cobalah langkah-langkah berikut:
 
 - **Matikan Suara Luar:** Kurangi konsumsi konten yang mendikte bagaimana hidup seharusnya dijalani. Berikan ruang bagi suara batinmu untuk terdengar.
 - **Gunakan "The 5 Whys":** Ketika kamu menginginkan sesuatu (misal: "Saya ingin jadi CEO"), tanyakan "Kenapa?" sebanyak lima kali. Biasanya, jawaban kelima akan mengungkap kebutuhan identitas yang sebenarnya (misal: "Saya ingin merasa dihargai").
-- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup. $\text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}$ Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
+- **Terima Ketidakpastian:** Gunakan logika probabilitas dalam hidup:
+
+  <div>
+  $$
+  \text{Keberhasilan} = \text{Eksperimen} \times \text{Kegagalan}
+  $$
+  </div>
+
+  Jangan takut salah pilih. Pilihan yang "salah" seringkali memberikan data yang paling akurat tentang siapa kamu sebenarnya.
 
 > **Pesan Penting:** Krisis identitas bukan tanda kegagalan atau gangguan mental; ini adalah sinyal evolusi dari jiwamu yang menolak untuk hidup dalam kepura-puraan. Anggaplah krisis ini sebagai undangan untuk mengenal dirimu kembali, tetapi kali ini dengan syarat dan ketentuan dari kamu sendiri.
 
@@ -30323,8 +30459,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31520,7 +31656,14 @@ Katakanlah kamu masih lajang dan bergaji Rp5 juta sebulan.
 
 1. Penghasilan setahun: $5.000.000 \times 12 = 60.000.000$ rupiah.
 2. PTKP (Penghasilan Tidak Kena Pajak) buat yang lajang itu Rp54.000.000.
-3. PKP (Penghasilan Kena Pajak) kamu: $60.000.000 - 54.000.000 = 6.000.000$ rupiah.
+3. PKP (Penghasilan Kena Pajak) kamu:
+
+   <div>
+   $$
+   60.000.000 - 54.000.000 = 6.000.000 \text{ rupiah}
+   $$
+   </div>
+
 4. Pajak yang harus dibayar: $6.000.000 \times 5\text{\%} = 300.000$ rupiah per tahun.
 
 ## Mengapa Perlu Perencanaan Pajak?
@@ -31578,8 +31721,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32382,7 +32525,15 @@ Seringkali bagian tersulit dari *Flow* adalah memulainya. Katakan pada diri send
 
 ### Menemukan "Zona Goldilocks"
 
-Gunakan prinsip matematika sederhana untuk menentukan tingkat kesulitan tugas: $\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\text{\%}$ Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredom}$). Jika terlalu sulit, kamu akan cemas ($\text{Flow} \rightarrow \text{Anxiety}$). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area di mana kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
+Gunakan prinsip matematika sederhana untuk menentukan tingkat kesulitan tugas:
+
+<div>
+$$
+\text{Tingkat Kesulitan} = \text{Kemampuan} + 4\%
+$$
+</div>
+
+Jika tugas terlalu mudah, kamu akan bosan ($\text{Flow} \rightarrow \text{Boredom}$). Jika terlalu sulit, kamu akan cemas ($\text{Flow} \rightarrow \text{Anxiety}$). Carilah tugas yang sedikit di atas kemampuan kamu saat ini - area di mana kamu merasa tertantang tapi tetap mampu mengendalikan situasi.
 
 ## 4\. Latihan Mental Harian
 
@@ -32744,8 +32895,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33548,7 +33699,11 @@ Mari kita lihat bagaimana konsep matematika dasar terbentuk melalui lingkungan f
 
 Tanpa adanya objek fisik (batu) untuk dimanipulasi, konsep abstrak seperti **Konservasi Jumlah** akan sulit dipahami oleh anak pada tahap operasional konkret.
 
-$\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}$
+<div>
+$$
+\text{Aksi Fisik} \rightarrow \text{Pengamatan Hasil} \rightarrow \text{Internalisasi Logika}
+$$
+</div>
 
 ## 4\. Peran Alat dan Mainan dalam Berbagai Tahapan
 
@@ -33738,7 +33893,15 @@ Kita sudah tahu bahwa perkembangan kognitif anak tidak selalu sejajar di semua m
 Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan informasi baru secara bertubi-tubi.
 
 - **Aplikasi:** Kalau kapasitas memori kerja anak mentok di 3-4 informasi saja, guru harus memecah instruksi besar.
-- **Contoh:** $\text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}$. Biarkan anak mencernanya satu per satu.
+- **Contoh:**
+
+  <div>
+  $$
+  \text{Tugas Kompleks} \rightarrow \text{Langkah 1} + \text{Langkah 2} + \text{Langkah 3}
+  $$
+  </div>
+
+  Biarkan anak mencernanya satu per satu.
 
 ### 3\. Latihan agar Otomatis
 
@@ -33764,7 +33927,11 @@ Piaget memandang anak bukan sebagai wadah kosong yang menunggu diisi, melainkan 
 
 Jika kita merangkum seluruh teori Piaget, intinya adalah interaksi dinamis antara struktur mental kita dan dunia luar. Proses ini tidak pernah berhenti dan mengikuti formula sederhana namun kuat:
 
-$\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}$
+<div>
+$$
+\text{Pertumbuhan Kognitif} = \text{Adaptasi} (\text{Asimilasi} + \text{Akomodasi}) \rightarrow \text{Ekuilibrasi}
+$$
+</div>
 
 ### Perpustakaan yang Terus Berkembang
 
@@ -33819,8 +33986,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34796,8 +34963,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35777,8 +35944,8 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
 - [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
 - [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36461,8 +36628,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37770,8 +37937,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38728,8 +38895,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -39934,8 +40101,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40201,12 +40368,18 @@ Manusia tidak selalu bertindak rasional (seperti yang kita pelajari di bagian *D
 
 Tanpa adanya desain pilihan yang sengaja, orang mungkin akan terjebak dalam pilihan yang merugikan diri mereka sendiri hanya karena faktor kebetulan. Libertarian Paternalisme hadir untuk memastikan bahwa pilihan standar (*default*) yang tersedia mengarah pada hasil yang positif.
 
-Dalam bentuk matematis sederhana, kita bisa melihatnya sebagai: $\text{Nudge} = \text{Libertarian (Kebebasan)} + \text{Paternalisme (Bimbingan)}$
+Dalam bentuk matematis sederhana, kita bisa melihatnya sebagai:
+
+<div>
+$$
+\text{Nudge} = \text{Libertarian (Kebebasan)} + \text{Paternalisme (Bimbingan)}
+$$
+</div>
 
 Tiga kondisi yang bisa kita bandingkan:
-- $\text{Keadaan A} = \text{Pilihan tanpa arahan (sering kali kacau)}$
-- $\text{Keadaan B} = \text{Larangan atau mandat (memaksa)}$
-- $\text{Keadaan C} = \text{Libertarian Paternalisme (mengarahkan dengan lembut)}$
+- $\text{Keadaan A}$ = pilihan tanpa arahan (sering kali kacau)
+- $\text{Keadaan B}$ = larangan atau mandat (memaksa)
+- $\text{Keadaan C}$ = Libertarian Paternalisme (mengarahkan dengan lembut)
 
 ### Karakteristik Utama Prinsip Ini
 
@@ -41171,8 +41344,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41934,8 +42107,21 @@ Bayangkan kamu adalah juri dalam sebuah liga basket. Tugasmu adalah menentukan s
 Pemain X mencetak banyak poin (Skor 9) tetapi gaya rambutnya biasa saja (Skor 4). Sebaliknya, Pemain Y hanya mencetak sedikit poin (Skor 3) namun memiliki gaya rambut yang sangat keren (Skor 10).
 
 **Perhitungan:**
-- **Pemain X:** $(9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}$
-- **Pemain Y:** $(3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}$
+- **Pemain X:**
+
+  <div>
+  $$
+  (9 \times 0.7) + (4 \times 0.1) = 6.3 + 0.4 = \mathbf{6.7}
+  $$
+  </div>
+
+- **Pemain Y:**
+
+  <div>
+  $$
+  (3 \times 0.7) + (10 \times 0.1) = 2.1 + 1.0 = \mathbf{3.1}
+  $$
+  </div>
 
 Meskipun Pemain Y memiliki skor sempurna pada satu kategori, bobot yang rendah membuat skor totalnya tidak mampu mengalahkan kontribusi nyata dari Pemain X. Itulah kekuatan nyata dari *Weighted Score*.
 
@@ -42208,7 +42394,12 @@ Ini terjadi ketika dua kriteria sebenarnya mengukur hal yang sama, sehingga memb
 Menggunakan skala 1-5 untuk satu kriteria dan 1-10 untuk kriteria lain tanpa normalisasi akan merusak perhitungan matematis total skor.
 
 Secara matematis:
-$\text{Total Skor} \neq \sum (\text{Skor}\_{A} \times \text{Bobot}) + \sum (\text{Skor}\_{B} \times \text{Bobot})$
+
+<div>
+$$
+\text{Total Skor} \neq \sum (\text{Skor}_{A} \times \text{Bobot}) + \sum (\text{Skor}_{B} \times \text{Bobot})
+$$
+</div>
 
 *Catatan: Rumus di atas tidak valid jika Skala A berbeda dengan Skala B.*
 
@@ -42299,9 +42490,47 @@ $$
 \text{Total Skor} = \sum (\text{Skor} \times \text{Bobot})
 $$
 
-- **Vendor A:** $(4 \times 0.35) + (3 \times 0.25) + (4 \times 0.25) + (2 \times 0.15) = 1.4 + 0.75 + 1.0 + 0.3 = 3.45$
-- **Vendor B:** $(3 \times 0.35) + (5 \times 0.25) + (4 \times 0.25) + (4 \times 0.15) = 1.05 + 1.25 + 1.0 + 0.6 = 3.90$
-- **Vendor C:** $(2 \times 0.35) + (4 \times 0.25) + (5 \times 0.25) + (5 \times 0.15) = 0.7 + 1.0 + 1.25 + 0.75 = 3.70$
+- **Vendor A:**
+
+  <div>
+  $$
+  (4 \times 0.35) + (3 \times 0.25) + (4 \times 0.25) + (2 \times 0.15)
+  $$
+  </div>
+
+  <div>
+  $$
+  \quad = 1.4 + 0.75 + 1.0 + 0.3 = 3.45
+  $$
+  </div>
+
+- **Vendor B:**
+
+  <div>
+  $$
+  (3 \times 0.35) + (5 \times 0.25) + (4 \times 0.25) + (4 \times 0.15)
+  $$
+  </div>
+
+  <div>
+  $$
+  \quad = 1.05 + 1.25 + 1.0 + 0.6 = 3.90
+  $$
+  </div>
+
+- **Vendor C:**
+
+  <div>
+  $$
+  (2 \times 0.35) + (4 \times 0.25) + (5 \times 0.25) + (5 \times 0.15)
+  $$
+  </div>
+
+  <div>
+  $$
+  \quad = 0.7 + 1.0 + 1.25 + 0.75 = 3.70
+  $$
+  </div>
 
 Berdasarkan perhitungan di atas, **Vendor B** terpilih sebagai mitra utama. Meskipun Vendor A menawarkan biaya terendah, keunggulan Vendor B pada aspek kecepatan pengiriman dan integrasi teknologi memberikan nilai tambah yang lebih besar bagi bisnis.
 
@@ -42384,8 +42613,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43031,8 +43260,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43979,7 +44208,14 @@ Misalkan kita memiliki isotop **Iodium-131** (pemancar beta yang digunakan dalam
 
 **Langkah-langkah:**
 
-1. Tentukan jumlah waktu paruh yang telah berlalu ($n$): $n = \frac{\text{total waktu}}{\text{waktu paruh}} = \frac{24 \text{ hari}}{8 \text{ hari}} = 3 \text{ siklus}$
+1. Tentukan jumlah waktu paruh yang telah berlalu ($n$):
+
+   <div>
+   $$
+   n = \frac{\text{total waktu}}{\text{waktu paruh}} = \frac{24 \text{ hari}}{8 \text{ hari}} = 3 \text{ siklus}
+   $$
+   </div>
+
 2. Gunakan rumus praktis: $A = A_0 \times (\frac{1}{2})^n$
 3. $A = 400 \times (\frac{1}{2})^3$
 4. $A = 400 \times \frac{1}{8} = 50 \text{ MBq}$
@@ -44237,8 +44473,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44538,9 +44774,21 @@ pie showData
 
 Mari kita lihat ketidakadilan ini melalui ekspresi matematis sederhana mengenai peluang kelolosan:
 
-Jika $S$ adalah jumlah slot dan $C$ adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah: $\text{Jatah per Benua} = \frac{1 \text{ Slot}}{3 \text{ Benua}} \approx$ 0,33 Slot/Benua
+Jika $S$ adalah jumlah slot dan $C$ adalah jumlah benua yang bersaing, maka jatah per benua untuk blok Afrika-Asia-Oseania adalah:
 
-Bandingkan dengan Eropa: $\text{Jatah per Benua} = \frac{10 \text{ Slot}}{1 \text{ Benua}} = 10 \text{ Slot/Benua}$
+<div>
+$$
+\text{Jatah per Benua} = \frac{1 \text{ Slot}}{3 \text{ Benua}} \approx 0{,}33 \text{ Slot/Benua}
+$$
+</div>
+
+Bandingkan dengan Eropa:
+
+<div>
+$$
+\text{Jatah per Benua} = \frac{10 \text{ Slot}}{1 \text{ Benua}} = 10 \text{ Slot/Benua}
+$$
+</div>
 
 Secara praktis, sebuah tim terbaik dari Afrika harus mengalahkan tim-tim terbaik dari Asia dan Oseania, hanya untuk mendapatkan **satu-satunya** tiket tersebut. Ini dianggap sebagai penghinaan terhadap kualitas dan kedaulatan negara-negara Afrika yang baru merdeka.
 
@@ -45327,8 +45575,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45989,8 +46237,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47278,8 +47526,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48160,8 +48408,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48980,8 +49228,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50071,8 +50319,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51548,8 +51796,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53186,8 +53434,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53649,7 +53897,14 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 * **Pola utama:** Takut ditinggalkan dan selalu butuh kedekatan fisik maupun emosional.
 * **Pemicu:** Komunikasi yang mendadak berubah atau adanya jarak emosional.
 * **Tujuan:** Menghilangkan cemas dengan mencari kepastian dari pasangan.
-* **Rumus Emosional:** $\text{Kecemasan} = \frac{\text{Persepsi Ancaman}}{\text{Keyakinan akan Harga Diri}}$
+* **Rumus Emosional:**
+
+  <div>
+  $$
+  \text{Kecemasan} = \frac{\text{Persepsi Ancaman}}{\text{Keyakinan akan Harga Diri}}
+  $$
+  </div>
+
   Saat keyakinan diri rendah, gangguan kecil saja dalam hubungan sudah bisa memicu kepanikan besar.
 
 **Catatan Penting:** Gaya kelekatan cemas bukanlah penyakit mental atau cacat karakter. Ini adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
@@ -53965,7 +54220,11 @@ flowchart TD
     D -->|"merasa harus bersembunyi lebih jauh"| C
 ```
 
-$\text{Konflik} = \text{(Kebutuhan Kedekatan)}\_A \times \text{(Ketakutan akan Keintiman)}\_B$
+<div>
+$$
+\text{Konflik} = \text{(Kebutuhan Kedekatan)}_A \times \text{(Ketakutan akan Keintiman)}_B
+$$
+</div>
 
 Jika nilai ketakutan salah satu pihak meningkat, intensitas pengejaran pihak lain biasanya akan meningkat secara eksponensial untuk menyeimbangkannya.
 
@@ -54125,7 +54384,14 @@ Bayangkan sebuah tim sedang menghadapi tenggat waktu (deadline) yang ketat dan t
 
 Jika kamu ingin meningkatkan efektivitas profesional berdasarkan teori ini, pertimbangkan langkah-langkah berikut:
 
-* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula: $\text{Reaksi Rasional} = \text{Fakta Objektif} - \text{Asumsi Emosional}$
+* **Untuk Tipe Cemas:** Latihlah untuk melakukan "cek fakta" sebelum bereaksi secara emosional terhadap email atau komentar rekan kerja. Gunakan formula:
+
+  <div>
+  $$
+  \text{Reaksi Rasional} = \text{Fakta Objektif} - \text{Asumsi Emosional}
+  $$
+  </div>
+
 * **Untuk Tipe Menghindar:** Cobalah untuk melakukan "transparansi terencana". Bagikan pembaruan kecil tentang pekerjaanmu secara rutin sebelum orang lain bertanya. Ini membangun kepercayaan tanpa membuatmu merasa kehilangan kendali.
 * **Untuk Pemimpin:** Sadarilah bahwa kebutuhan anggota tim berbeda-beda. Anggota tim yang cemas butuh lebih banyak pujian, sementara yang menghindar butuh ruang untuk bekerja sendiri.
 
@@ -54697,8 +54963,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54755,7 +55021,19 @@ Sering diterjemahkan sebagai "kebahagiaan", namun makna aslinya lebih dalam: **b
 
 Ini adalah kondisi batin yang bebas dari gangguan emosi negatif. Bayangkan kamu adalah sebuah gunung; cuaca di puncak mungkin badai (masalah hidup), tetapi fondasi kamu tetap kokoh dan tidak tergoyahkan.
 
-**Rumus Sederhana Stoikisme:** $\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar} + \text{Penerimaan terhadap Takdir}$
+**Rumus Sederhana Stoikisme:**
+
+<div>
+$$
+\text{Ketenangan} = \text{Persepsi yang Tepat} + \text{Tindakan yang Benar}
+$$
+</div>
+
+<div>
+$$
+\quad + \text{Penerimaan terhadap Takdir}
+$$
+</div>
 
 ## Menyaring Setiap Kejadian
 
@@ -55207,7 +55485,13 @@ $$
 $$
 </div>
 
-Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka: $\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0$
+Jika kita hidup selaras dengan alam (menyesuaikan ekspektasi dengan realitas Logos), maka:
+
+<div>
+$$
+\text{Ekspektasi} = \text{Realitas} \implies \text{Penderitaan} = 0
+$$
+</div>
 
 Ketika kita menolak alam (menginginkan sesuatu yang di luar kendali kita atau melawan hukum alam), kita menciptakan pertentangan dalam diri kita sendiri.
 
@@ -55713,8 +55997,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57039,8 +57323,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57365,7 +57649,14 @@ Mari kita lihat bagaimana KDM ini bekerja secara terintegrasi dalam skenario nya
 **Skenario:** Pak Budi mengajar IPA tentang fotosintesis.
 
 1. **Membuka:** Pak Budi membawa tanaman layu dan tanaman segar sebagai pemancing (*Menarik Perhatian*).
-2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis: $6\text{CO}\_2 + 6\text{H}\_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}\_6\text{H}\_{12}\text{O}\_6 + 6\text{O}\_2$.
+2. **Menjelaskan:** Ia menjelaskan proses kimia fotosintesis:
+
+   <div>
+   $$
+   6\text{CO}_2 + 6\text{H}_2\text{O} \xrightarrow{\text{Cahaya}} \text{C}_6\text{H}_{12}\text{O}_6 + 6\text{O}_2
+   $$
+   </div>
+
 3. **Bertanya:** "Apa yang terjadi jika matahari tertutup awan mendalam selama berbulan-bulan?" (*Pertanyaan Lanjut*).
 4. **Penguatan:** Ketika seorang siswa menjawab, Pak Budi tersenyum dan berkata, "Analisis yang sangat menarik!" (*Penguatan*).
 5. **Variasi:** Pak Budi mengajak siswa keluar kelas untuk melihat stomata di bawah mikroskop (*Variasi Media/Lingkungan*).
@@ -58176,7 +58467,13 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
 
 - Identifikasi bagian mana yang tidak berjalan sesuai rencana.
 - Apakah masalahnya ada pada **manajemen waktu**, **penggunaan media**, atau **teknik bertanya**?
-- Gunakan logika sederhana ini: $\text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}$
+- Gunakan logika sederhana ini:
+
+  <div>
+  $$
+  \text{Ekspektasi} - \text{Realitas} = \text{Area Perbaikan}
+  $$
+  </div>
 
 ### 2. Revisi RPP (Refining the Blueprint)
 
@@ -58358,8 +58655,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59600,8 +59897,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60203,7 +60500,17 @@ Jika kamu hanya mengganti sekring tanpa membenahi jadwal pemeliharaan berkala, m
 
 Ada kalanya hubungan bersifat melingkar: $A$ memicu $B$, lalu $B$ berbalik memperkuat $A$. Contoh klasik dalam ekonomi makro: 
 
-$\text{Kurangnya Investasi} \rightarrow \text{Kemiskinan} \rightarrow \text{Kurangnya Pendidikan} \rightarrow \text{Rendahnya Produktivitas}$
+<div>
+$$
+\text{Kurangnya Investasi} \rightarrow \text{Kemiskinan}
+$$
+</div>
+
+<div>
+$$
+\rightarrow \text{Kurangnya Pendidikan} \rightarrow \text{Rendahnya Produktivitas}
+$$
+</div>
 
 Fenomena ini dikenal sebagai *vicious cycle* (lingkaran setan) yang terus berputar jika tidak ada intervensi luar.
 
@@ -60809,8 +61116,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62812,8 +63119,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -62958,8 +63265,17 @@ Di mana:
 3. Hitung selisihnya ($\Delta Q$ dan $\Delta P$).
 4. Masukkan ke dalam rumus dan hitung hasilnya.
 **Contoh Kasus:** Sebuah toko kopi menjual Latte seharga Rp20.000 dan berhasil menjual 100 cup per hari. Ketika harga dinaikkan menjadi Rp22.000, penjualan turun menjadi 80 cup.
-- $P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000$
-- $Q_1 = 100, Q_2 = 80 \rightarrow \Delta Q = -20$
+- <div>
+  $$
+  P_1 = 20.000, P_2 = 22.000 \rightarrow \Delta P = 2.000
+  $$
+  </div>
+
+- <div>
+  $$
+  Q_1 = 100, Q_2 = 80 \rightarrow \Delta Q = -20
+  $$
+  </div>
 
    $$
    E_d = \frac{-20}{2.000} \times \frac{20.000}{100} = -0{,}01 \times 200 = -2
@@ -63307,7 +63623,14 @@ Mari kita terapkan rumus di atas ke dalam skenario nyata.
 **Penghitungan menggunakan Rumus Turunan:**
 1. Cari $\Delta \text{Q}$: $1.500 - 1.000 = 500$
 2. Cari $\Delta \text{P}$: $250.000 - 200.000 = 50.000$
-3. Masukkan ke rumus: $\text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} = 0,01 \times 200 = 2$
+3. Masukkan ke rumus:
+
+   <div>
+   $$
+   \text{E}_s = \frac{500}{50.000} \times \frac{200.000}{1.000} = 0{,}01 \times 200 = 2
+   $$
+   </div>
+
 **Interpretasi:** Nilai $\text{E}_s = 2$ berarti penawaran sepatu tersebut bersifat **elastis**. Setiap kenaikan harga sebesar 1\%, produsen akan merespons dengan meningkatkan penawaran sebesar 2%.
 ## 5. Hasil Metode Nilai Tengah
 Data pabrik sepatu yang sama juga bisa dihitung dengan rumus midpoint dari bagian 2. Bedanya, perubahan harga dan jumlah dibandingkan dengan **rata-rata** nilai awal dan nilai akhir, bukan dengan nilai awal saja.
@@ -63545,8 +63868,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64350,8 +64673,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65695,8 +66018,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66448,8 +66771,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66751,9 +67074,21 @@ Bagi banyak orang, kegagalan dirasakan sebagai sebuah akhir atau vonis terhadap 
 
 Mari kita gunakan pendekatan matematis sederhana untuk memahami pergeseran ini:
 
-**Rumus Narasi Lama:** $\text{Kegagalan} = \text{Identitas} + \text{Akhir Dari Jalan}$
+**Rumus Narasi Lama:**
 
-**Rumus Membingkai Ulang (Reframing):** $\text{Kegagalan} = \text{Strategi yang Kurang Tepat} + \text{Data Baru}$
+<div>
+$$
+\text{Kegagalan} = \text{Identitas} + \text{Akhir Dari Jalan}
+$$
+</div>
+
+**Rumus Membingkai Ulang (Reframing):**
+
+<div>
+$$
+\text{Kegagalan} = \text{Strategi yang Kurang Tepat} + \text{Data Baru}
+$$
+</div>
 
 Dalam perspektif ini, kegagalan bukan lagi sebuah serangan terhadap harga dirimu, melainkan sebuah **umpan balik (feedback)**.
 
@@ -66827,8 +67162,17 @@ Angela Duckworth, seorang psikolog yang mempopulerkan konsep ini, menemukan pola
 
 Mari kita lihat dalam bentuk rumus matematis:
 
-1. $\text{Bakat} \times \text{Usaha} = \text{Keterampilan}$
-2. $\text{Keterampilan} \times \text{Usaha} = \text{Pencapaian}$
+<div>
+$$
+\text{Bakat} \times \text{Usaha} = \text{Keterampilan}
+$$
+</div>
+
+<div>
+$$
+\text{Keterampilan} \times \text{Usaha} = \text{Pencapaian}
+$$
+</div>
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
@@ -66860,7 +67204,12 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
 
 1. **Minat (Interest):** Grit dimulai dengan menikmati apa yang kamu lakukan. Kamu tidak harus langsung menemukan panggilan hidupmu; mulailah dengan eksplorasi dan rasa ingin tahu yang mendalam terhadap suatu bidang.
 2. **Latihan (Practice):** Latihan yang dimaksud adalah *deliberate practice* (latihan sengaja) dan bukan latihan biasa. Ini adalah disiplin untuk fokus pada kelemahanmu dan mencoba memperbaikinya setiap hari.
-   - $\text{Kualitas Latihan} > \text{Kuantitas Jam}$
+   - <div>
+     $$
+     \text{Kualitas Latihan} > \text{Kuantitas Jam}
+     $$
+     </div>
+
 3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang tak tergoyahkan.
 4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu tidak hanya berharap keadaan membaik dengan sendirinya, tetapi memiliki keyakinan bahwa usahamu mampu mengubah masa depanmu. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
 
@@ -67662,8 +68011,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-21T13:10:05.598Z',
-  '2026-10-21T13:10:05.598Z'
+  '2026-10-21T14:27:24.381Z',
+  '2026-10-21T14:27:24.381Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
