@@ -82,21 +82,6 @@ Seorang programmer junior diminta membangun arsitektur *microservices* yang komp
 
 - **Kondisi:** *Anxiety* (Kecemasan).
 - **Solusi untuk masuk Flow:** Pecah tugas menjadi modul-modul kecil (mengurangi tantangan yang dirasakan) atau lakukan *pair programming* dengan senior (meningkatkan keterampilan efektif).
-```python
-# Analogi Kode: Menemukan Nilai Flow
-def check_mental_state(challenge, skill):
-    threshold = 2 # Toleransi perbedaan
-    
-    if challenge > (skill + threshold):
-        return "Anxiety - Break down the task!"
-    elif skill > (challenge + threshold):
-        return "Boredom - Set a tighter deadline or add complexity!"
-    else:
-        return "Flow State - Keep going!"
-
-# Contoh: Skill 5, Tantangan 9
-print(check_mental_state(9, 5)) # Output: Anxiety
-```
 
 ### Bermain Video Game
 

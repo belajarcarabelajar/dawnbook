@@ -104,48 +104,22 @@ Dalam teori permainan, **Teorema Folk** menyatakan bahwa dalam permainan berulan
 
 Ini menjelaskan mengapa di komunitas kecil atau pasar tradisional, orang-orang cenderung sangat jujur. Mereka terikat dalam "permainan" yang tidak diketahui kapan berakhirnya, sehingga menjaga keharmonisan jauh lebih menguntungkan daripada keuntungan sesaat dari menipu.
 
-## 5. Simulasi Tit-for-Tat dengan Kode
+## 5. Tit-for-Tat Menghadapi Satu Kecurangan
 
-Mari kita lihat bagaimana strategi ini bekerja dalam simulasi sederhana menggunakan Python.
+Mari kita lihat bagaimana strategi ini bekerja selama lima ronde. Kamu memakai Tit-for-Tat, sedangkan lawanmu selalu bekerja sama kecuali sekali, yaitu di ronde ke-3, ketika ia curang. Poin setiap ronde memakai angka ilustrasi berikut:
 
-```python
-def repeated_game_simulation(rounds):
-    # Strategi Tit-for-Tat vs Pemain yang sesekali curang
-    my_history = ['C'] # C = Cooperate, D = Defect
-    opponent_history = ['C']
-    
-    payoff_matrix = {
-        ('C', 'C'): (3, 3),
-        ('C', 'D'): (0, 5),
-        ('D', 'C'): (5, 0),
-        ('D', 'D'): (1, 1)
-    }
+- Keduanya bekerja sama: masing-masing mendapat 3 poin.
+- Satu pihak curang dan pihak lain bekerja sama: yang curang mendapat 5 poin, yang dicurangi 0 poin.
 
-    total_score_me = 0
-    total_score_opp = 0
+| Ronde | Langkah kamu | Langkah lawan | Poin ronde (kamu, lawan) | Total poin (kamu, lawan) |
+| --- | --- | --- | --- | --- |
+| 1 | Kerja sama | Kerja sama | (3, 3) | (3, 3) |
+| 2 | Kerja sama | Kerja sama | (3, 3) | (6, 6) |
+| 3 | Kerja sama | Curang | (0, 5) | (6, 11) |
+| 4 | Curang | Kerja sama | (5, 0) | (11, 11) |
+| 5 | Kerja sama | Kerja sama | (3, 3) | (14, 14) |
 
-    for r in range(rounds):
-        # Tit-for-Tat: Ikuti langkah lawan sebelumnya
-        my_move = opponent_history[-1]
-        
-        # Lawan: Curang secara acak pada ronde ke-3
-        opponent_move = 'C'
-        if r == 2:
-            opponent_move = 'D'
-            
-        # Simpan riwayat
-        my_history.append(my_move)
-        opponent_history.append(opponent_move)
-        
-        # Hitung skor
-        p1, p2 = payoff_matrix[(my_move, opponent_move)]
-        total_score_me += p1
-        total_score_opp += p2
-        
-        print(f"Ronde {r+1}: Saya({my_move}) vs Lawan({opponent_move}) -> Skor: {total_score_me}, {total_score_opp}")
-
-repeated_game_simulation(5)
-```
+Di ronde 3 kamu tertinggal 6 lawan 11 karena dicurangi. Di ronde 4 kamu membalas sesuai aturan Tit-for-Tat, sementara lawan sudah kembali bekerja sama, sehingga skor kembali imbang 11 lawan 11. Di ronde 5 kamu ikut bekerja sama lagi, dan setelah lima ronde kalian sama-sama mengantongi 14 poin. Sifat **tegas** dan **pemaaf** tadi terlihat langsung di tabel: satu kecurangan dibalas satu kali, lalu kerja sama pulih.
 
 ## 6. Permainan Berulang pada Maskapai, Perjanjian Internasional, dan Langganan
 

@@ -47,32 +47,13 @@ Organisasi harus memastikan bahwa proyek yang diberikan cukup sulit untuk menant
 
 ## "Flow-Ready" Workflow
 
-Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan script atau protokol komunikasi untuk mengurangi "gesekan" dan memicu flow.
+Dalam dunia engineering atau pengembangan produk, kita bisa menggunakan otomatisasi atau protokol komunikasi untuk mengurangi "gesekan" dan memicu flow.
 
 ### Otomatisasi Feedback
 
 Seringkali flow tim terputus karena harus menunggu persetujuan manual atau integrasi kode yang rumit. Menggunakan CI/CD (Continuous Integration/Continuous Deployment) membantu menjaga momentum.
 
-```python
-# Contoh script sederhana untuk otomatisasi notifikasi tim 
-# guna mempercepat 'Feedback Loop' (Pemicu Flow)
-
-def notify_team_on_success(task_name):
-    status = "SUCCESS"
- message = f" Task '{task_name}' berhasil diselesaikan. Tim bisa lanjut ke tahap berikutnya!"
-    
-    # Bayangkan ini terhubung ke Slack atau Discord
-    send_to_collaboration_tool(message)
-    print("Notifikasi terkirim. Momentum terjaga.")
-
-def trigger_group_workflow(tasks):
-    for task in tasks:
-        execute(task)
-        notify_team_on_success(task)
-
-# Output: Feedback instan memungkinkan tim tetap dalam kondisi 'Alir' 
-# tanpa harus bertanya "Apakah ini sudah selesai?"
-```
+Contoh sederhananya adalah notifikasi otomatis. Bayangkan begitu satu tugas selesai, alat kolaborasi seperti Slack atau Discord langsung mengabari tim bahwa tugas itu berhasil dan tim bisa lanjut ke tahap berikutnya. Umpan balik instan seperti ini menjaga tim tetap dalam kondisi alir tanpa ada yang perlu bertanya, "Apakah ini sudah selesai?"
 
 ## Tim Medis Darurat (ER)
 

@@ -81,46 +81,7 @@ Kesimpulan: Strategi **Beriklan** adalah strategi dominan ketat bagi A. Strategi
 
 Karena Perusahaan B juga rasional dan memiliki struktur payoff yang sama, mereka juga akan mengeliminasi "Tidak Iklan". Hasil akhirnya adalah (50, 50).
 
-### 5. Mendeteksi Dominasi dengan Kode
-
-Berikut adalah contoh sederhana menggunakan Python untuk memeriksa apakah suatu strategi dalam matriks payoff mendominasi strategi lainnya.
-
-```python
-def check_dominance(player_payoffs):
-    """
-    Memeriksa apakah ada strategi yang mendominasi strategi lain.
-    player_payoffs: list of lists (baris adalah strategi)
-    """
-    num_strategies = len(player_payoffs)
-    dominated_indices = []
-
-    for i in range(num_strategies):
-        for j in range(num_strategies):
-            if i == j: continue
-            
-            # Cek apakah strategi j mendominasi strategi i secara ketat
-            is_dominated = all(player_payoffs[i][k] < player_payoffs[j][k] 
-                               for k in range(len(player_payoffs[0])))
-            
-            if is_dominated:
-                print(f"Strategi {i} didominasi secara ketat oleh Strategi {j}")
-                dominated_indices.append(i)
-                break
-                
-    return list(set(dominated_indices))
-
-# Contoh Payoff Pemain A
-# Baris 0: Strategi A1, Baris 1: Strategi A2
-# Kolom: Respons Pemain B
-payoffs_A = [
-    [50, 90], # Strategi Beriklan
-    [20, 70]  # Strategi Tidak Iklan
-]
-
-check_dominance(payoffs_A)
-```
-
-### 6. Strategi Dominan dalam Perang Harga, Perlombaan Senjata, dan Lelang
+### 5. Strategi Dominan dalam Perang Harga, Perlombaan Senjata, dan Lelang
 
 #### A. Perang Harga di Supermarket
 
@@ -134,7 +95,7 @@ Dalam politik internasional, dua negara mungkin merasa bahwa membangun senjata n
 
 Dalam lelang tertutup (Vickrey Auction), menawar sesuai dengan nilai asli barang bagi kamu (true valuation) adalah strategi dominan lemah. Kamu tidak akan pernah rugi dengan menawar sesuai nilai asli, karena menawar lebih tinggi bisa membuat kamu membayar lebih mahal dari nilai barang, dan menawar lebih rendah hanya memperkecil peluang menang tanpa mengubah harga yang harus dibayar.
 
-### 7. Kesimpulan & Refleksi
+### 6. Kesimpulan & Refleksi
 
 Memahami strategi dominan membantu kita untuk memprediksi perilaku dalam situasi kompetitif. Jika lawanmu memiliki strategi dominan, kamu bisa berasumsi dengan yakin bahwa mereka akan mengambil langkah tersebut.
 

@@ -62,27 +62,17 @@ Pembelajar tipe ini dapat memanfaatkan pola suara dalam proses belajar. Mendenga
 
 Metode belajar lainnya meliputi pembuatan rima, sajak, atau mnemonic dari deretan istilah sulit. Menyinkronkan memori otot dan auditori juga efektif untuk mengunci konsentrasi, contohnya dengan mengetukkan jari tiap kali menelusuri poin penting di modul pelajaran.
 
-## 6. Pemrograman Berbasis Suara
+## 6. Nada dari Rumus Gelombang
 
-Penerapan kecerdasan musikal sangat relevan di dalam penulisan kode. Contohnya, menulis skrip untuk menghasilkan bunyi dari fungsi gelombang menggunakan bahasa Python:
+Kecerdasan musikal juga relevan di dunia pemrograman. Sebuah nada murni bisa disusun komputer dari rumus gelombang sinus:
 
-```python
-import numpy as np
+<div>
+$$
+y(t) = A \sin(2\pi f t)
+$$
+</div>
 
-def generate_tone(frequency, duration, sample_rate=44100):
-    """
-    Menghasilkan gelombang sinus untuk nada tertentu.
-    Formula: y(t) = A * sin(2 * pi * f * t)
-    """
-    t = np.linspace(0, duration, int(sample_rate * duration), False)
-    # Menghasilkan nada berdasarkan frekuensi (f)
-    tone = np.sin(2 * np.pi * frequency * t)
-    return tone
-
-# Menghasilkan nada A4 (440 Hz) selama 1 detik
-nada_a = generate_tone(440, 1.0)
-print("Nada berhasil dikomposisi secara matematis!")
-```
+Di sini $A$ adalah amplitudo gelombang, $f$ adalah frekuensi nada, dan $t$ adalah waktu. Sebagai ilustrasi, ambil nada A4 dengan frekuensi $f = 440$ Hz yang dibunyikan selama 1 detik. Gelombangnya berulang 440 kali dalam satu detik itu, dan komputer menghitung nilai $y$ di banyak titik waktu sehingga terkumpul deretan angka yang menggambarkan bentuk gelombang nada tersebut.
 
 Bayangkan apabila alur eksekusi atau rentetan log eror sebuah aplikasi bisa divisualisasikan menjadi bentuk notasi suara. Pola bunyi yang janggal secara otomatis menjadi semacam alarm intuitif, membantu programmer mendeteksi letak bug lebih tanggap.
 

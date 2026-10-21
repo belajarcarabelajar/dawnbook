@@ -77,19 +77,7 @@ Mari kita lihat bagaimana seorang Software Engineer menggunakan pemicu ini untuk
 
 - **Risiko Tinggi:** Setiap menit bug ada, perusahaan kehilangan uang (Memicu adrenalin/fokus).
 - **Tujuan Jelas:** "Temukan fungsi yang gagal dan perbaiki logika validasi datanya."
-- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil).
-```python
-# Contoh siklus feedback dalam pemrograman
-def validate_payment(amount):
-    if amount <= 0:
-        return False # Feedback segera jika input salah
-    return True
-
-# Unit Test sebagai pemicu feedback
-def test_validate_payment():
-    assert validate_payment(100) == True
-    assert validate_payment(-5) == False # Jika ini gagal, saya langsung tahu
-```
+- **Umpan Balik Segera:** Insinyur tersebut menulis *unit test*. Setiap kali dia mengubah kode, dia menjalankan tes dan melihat hasil "Merah" (Gagal) atau "Hijau" (Berhasil). Misalnya, aturan validasinya menolak pembayaran bernilai nol atau negatif, dan tesnya memeriksa dua kasus: pembayaran bernilai positif harus diterima, sedangkan pembayaran bernilai negatif harus ditolak.
 
 ## Membuat "Ritual Pemicu"
 

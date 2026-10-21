@@ -61,24 +61,21 @@ Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang ha
 2. **Katalis Komitmen (*Engagement*):** Penanggulangan rasa pusing akibat kebebasan dicapai melalui tindakan nyata dan komitmen praksis.
 3. **Akseptasi Keterbatasan:** Menyadari bahwa setiap keputusan mengorbankan alternatif kemungkinan lain secara sadar.
 
-### 6. Matriks Logika Pengambilan Keputusan
+### 6. Memilih atau Melarikan Diri
 
-Dalam permodelan logika keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk:
+Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab berikutnya.
 
-```python
-def eksekusi_pilihan_eksistensial(kumpulan_opsi):
-    for opsi in kumpulan_opsi:
-        evaluasi_transendensi(opsi)
-    
-    # Titik kristalisasi kehendak (Angst)
-    tindakan_terpilih = subjek.tentukan_kehendak(kumpulan_opsi)
-    
-    if tindakan_terpilih:
-        # Menegakkan tanggung jawab penuh atas konsekuensi
-        return subjek.pikul_tanggung_jawab(tindakan_terpilih)
-    else:
-        # Modus pelarian tanggung jawab (Bad Faith)
-        return "Iktikad Buruk (Mauvaise Foi)"
+Dua ujung dari momen memilih itu tergambar dalam percabangan berikut.
+
+```mermaid
+flowchart TD
+    accTitle: Percabangan antara tindakan otentik dan iktikad buruk
+    accDescr: Subjek menimbang setiap opsi, lalu tiba di titik ketika kehendak harus mengkristal dan Angst muncul. Jika subjek memilih, ia menjalankan tindakan otentik dan memikul tanggung jawab penuh atas konsekuensinya. Jika ia menolak memilih, ia jatuh ke iktikad buruk, yaitu pelarian dari tanggung jawab.
+    A["Subjek menimbang setiap opsi"] --> B{"Kehendak mengkristal menjadi satu pilihan?"}
+    B -->|"ya, memilih"| C["Tindakan otentik"]
+    C --> D["Memikul tanggung jawab penuh atas konsekuensi"]
+    B -->|"tidak, menolak memilih"| E["Iktikad buruk (mauvaise foi)"]
+    E --> F["Pelarian dari tanggung jawab"]
 ```
 
 ### 7. Harga Ontologis dari Kebebasan

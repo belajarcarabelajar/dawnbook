@@ -78,32 +78,17 @@ Kamu memiliki tiga tawaran pekerjaan atau pilihan hidup, dan kamu merasa lumpuh 
 		- *Besok: Hanya berbicara dengan satu teman yang bekerja di sana.*
 3. **Self-Compassion**: Gunakan dialog internal yang mendukung. Mengatakan "Saya sedang berproses" secara kimiawi menurunkan kadar kortisol dibandingkan mengatakan "Saya payah karena tidak tahu harus berbuat apa."
 
-### Contoh Kode (Logika Pengambilan Keputusan)
+### Saat Emosi Lebih Lantang daripada Logika
 
-Jika kita membayangkan otak kita bekerja seperti sebuah fungsi program dalam menghadapi pilihan:
+Coba bayangkan cara otakmu menimbang pilihan sebagai sebuah percabangan. Selama PFC belum matang sepenuhnya, yaitu sampai sekitar pertengahan 20-an, amygdala sedang mendominasi dan emosi terasa sangat tinggi. Di kondisi ini, gunakan bantuan dari luar, seperti berdiskusi dengan mentor atau menulis jurnal (*journaling*), sebelum memutuskan. Kalau PFC sudah lebih matang, analisis logis tentang dampak jangka panjang dari tiap pilihan bisa berjalan lebih stabil. Pesannya sederhana: jangan membuat keputusan permanen saat kendali PFC-mu sedang lemah atau emosimu sedang tinggi.
 
-```python
-def make_decision(options, pfc_maturity_level):
-    if pfc_maturity_level < 0.8: # Usia di bawah 25
-        print("Warning: Amygdala sedang mendominasi. Emosi sangat tinggi!")
-        # Gunakan bantuan eksternal seperti mentor atau journaling
-        decision = consult_mentor(options)
-    else:
-        # Analisis logis lebih stabil
-        decision = analyze_long_term_impact(options)
-    
-    return decision
-
-# Pesan: Jangan membuat keputusan permanen saat PFC-mu sedang 'low' atau emosi sedang 'high'.
-```
-
-Bagi kamu yang tidak terbiasa membaca kode, cabang di dalam fungsi tadi bisa dibaca sebagai alur berikut.
+Kedua jalan menuju keputusan itu tampak seperti ini.
 
 ```mermaid
 flowchart TD
-    accTitle: Ilustrasi kode, logika keputusan menurut kematangan PFC
-    accDescr: Dalam analogi otak sebagai fungsi program, jika tingkat kematangan PFC di bawah 0.8, amygdala sedang mendominasi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika tidak, keputusan diambil lewat analisis logis dampak jangka panjang.
-    A["Menghadapi beberapa pilihan"] --> B{"Kematangan PFC di bawah 0.8?"}
+    accTitle: Logika keputusan menurut kematangan PFC
+    accDescr: Saat menghadapi beberapa pilihan, jika PFC belum matang sepenuhnya, amygdala sedang mendominasi dan emosi sangat tinggi sehingga keputusan diambil dengan bantuan eksternal seperti mentor atau journaling. Jika PFC sudah lebih matang, keputusan diambil lewat analisis logis dampak jangka panjang.
+    A["Menghadapi beberapa pilihan"] --> B{"PFC belum matang sepenuhnya?"}
     B -->|"ya"| C["Amygdala sedang mendominasi, emosi sangat tinggi"]
     C --> D["Bantuan eksternal seperti mentor atau journaling"]
     B -->|"tidak"| E["Analisis logis dampak jangka panjang"]

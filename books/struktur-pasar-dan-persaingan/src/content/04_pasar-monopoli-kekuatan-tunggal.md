@@ -59,35 +59,26 @@ Setelah menemukan jumlah produksi optimal $Q$, produsen akan melihat kurva permi
 
 Apakah seorang monopolis akan selalu menaikkan harga setinggi-tingginya? Jawabannya tidak selalu. Jika harga dipatok terlampau tinggi, jumlah barang yang dibeli konsumen akan anjlok drastis sehingga total laba justru merosot. Monopolis harus menemukan titik keseimbangan optimum antara harga jual dan volume penjualan.
 
-## 4. Simulasi Logika Monopoli
+## 4. Memilih Harga Jual
 
-Berikut adalah simulasi sederhana menggunakan kode Python untuk memahami bagaimana monopolis menentukan tingkat harga dan produksi guna mengoptimalkan keuntungan:
+Supaya prinsip tadi lebih terasa, bayangkan seorang monopolis yang menimbang empat pilihan harga. Semakin tinggi harga yang ia pasang, semakin sedikit barang yang terjual. Biaya produksinya 30 untuk setiap unit. Semua angka di bagian ini adalah angka ilustrasi. Laba tiap pilihan dihitung dengan rumus:
 
-```python
-# Simulasi Keputusan Produksi Monopoli
-def hitung_laba(harga, biaya_per_unit, jumlah_terjual):
-    total_pendapatan = harga * jumlah_terjual
-    total_biaya = biaya_per_unit * jumlah_terjual
-    laba = total_pendapatan - total_biaya
-    return laba
+<div>
+$$
+\text{Laba} = (P \times Q) - (30 \times Q)
+$$
+</div>
 
-# Skenario: Semakin tinggi harga, semakin sedikit jumlah terjual (Hukum Permintaan)
-skenario = [
-    {"harga": 100, "jumlah": 10},
-    {"harga": 80, "jumlah": 25},
-    {"harga": 60, "jumlah": 50},  # Titik Optimal
-    {"harga": 40, "jumlah": 70}
-]
+dengan $P$ sebagai harga jual dan $Q$ sebagai jumlah barang yang terjual.
 
-biaya_tetap_per_unit = 30
+| Harga ($P$) | Jumlah terjual ($Q$) | Pendapatan ($P \times Q$) | Total biaya ($30 \times Q$) | Laba |
+| --- | --- | --- | --- | --- |
+| 100 | 10 | 1.000 | 300 | 700 |
+| 80 | 25 | 2.000 | 750 | 1.250 |
+| 60 | 50 | 3.000 | 1.500 | 1.500 |
+| 40 | 70 | 2.800 | 2.100 | 700 |
 
-for s in skenario:
-    laba = hitung_laba(s["harga"], biaya_tetap_per_unit, s["jumlah"])
-    print(f"Harga: {s['harga']}, Terjual: {s['jumlah']}, Laba: {laba}")
-
-# Output menunjukkan bahwa laba tertinggi berada pada harga optimal,
-# bukan pada harga pasar tertinggi.
-```
+Laba tertinggi, yaitu 1.500, justru muncul pada harga 60, bukan pada harga tertinggi 100. Perlu diingat, tabel ini hanya membandingkan empat pilihan. Titik yang benar-benar optimal tetap ditemukan lewat syarat $\text{MR} = \text{MC}$.
 
 ## 5. PLN dan Inovasi Farmasi
 

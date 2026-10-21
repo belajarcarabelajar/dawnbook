@@ -44,37 +44,22 @@ Hal serupa berlaku di bidang pendidikan. Guru yang efektif menggunakan sensitivi
 
 Bagi kamu yang terbiasa berpikir prosedural, dinamika ini bisa dibayangkan layaknya sistem logika percabangan yang berjalan otomatis.
 
-```python
-## Simulasi Logika Interpersonal dalam Konflik
-def respon_sosial(status_emosi_lawan, intensitas_argumen):
-    if status_emosi_lawan == "Marah":
-        if intensitas_argumen > 8:
-            return "Dengarkan secara aktif, jangan membantah sekarang."
-        else:
-            return "Validasi perasaan mereka, lalu ajak bicara pelan."
-    elif status_emosi_lawan == "Sedih":
-        return "Tunjukkan empati dan tawarkan dukungan tanpa menghakimi."
-    else:
-        return "Lanjutkan komunikasi terbuka."
+Titik awalnya adalah status emosi lawan bicara. Kalau ia marah dan intensitas argumennya sangat tinggi, dengarkan secara aktif dan jangan membantah sekarang. Kalau ia marah tetapi intensitasnya lebih rendah, validasi perasaannya, lalu ajak bicara pelan. Kalau ia sedih, tunjukkan empati dan tawarkan dukungan tanpa menghakimi. Di luar keadaan itu, lanjutkan komunikasi terbuka.
 
-## Output untuk skenario emosi tinggi
-print(respon_sosial("Marah", 9))
-```
-
-Tanpa sintaks Python, percabangan yang sama tampak seperti ini.
+Keempat jalur respons tersebut bisa digambar sebagai percabangan berikut:
 
 ```mermaid
 flowchart TD
     accTitle: Percabangan respons sosial dalam konflik
-    accDescr: Status emosi lawan bicara menentukan respons. Jika marah dan intensitas argumen di atas 8, dengarkan secara aktif; jika marah dengan intensitas lebih rendah, validasi perasaan lalu ajak bicara pelan; jika sedih, tunjukkan empati; selain itu, lanjutkan komunikasi terbuka.
-    A{"Status emosi lawan bicara?"} -->|"Marah"| B{"Intensitas argumen di atas 8?"}
+    accDescr: Status emosi lawan bicara menentukan respons. Jika marah dan intensitas argumen sangat tinggi, dengarkan secara aktif; jika marah dengan intensitas lebih rendah, validasi perasaan lalu ajak bicara pelan; jika sedih, tunjukkan empati; selain itu, lanjutkan komunikasi terbuka.
+    A{"Status emosi lawan bicara?"} -->|"Marah"| B{"Intensitas argumen sangat tinggi?"}
     B -->|"ya"| C["Dengarkan secara aktif, jangan membantah sekarang"]
     B -->|"tidak"| D["Validasi perasaan mereka, lalu ajak bicara pelan"]
     A -->|"Sedih"| E["Tunjukkan empati dan tawarkan dukungan tanpa menghakimi"]
     A -->|"Lainnya"| F["Lanjutkan komunikasi terbuka"]
 ```
 
-Dalam realitasnya, "kode" semacam ini dieksekusi oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
+Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
 
 ## Melatih Otot Interpersonal
 

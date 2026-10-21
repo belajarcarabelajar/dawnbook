@@ -26,25 +26,26 @@ Dalam ranah rekayasa teknologi, pondasi ini bermetamorfosis menjadi kemampuan be
 
 Ambil situasi ketika kamu harus memburu sebuah angka di tumpukan data berurutan. Mengecek setiap entri secara sekuensial jelas menyita sumber daya. Pikiran analitis spontan merespons dengan pendekatan membelah porsi pencarian secara bertahap, semacam *Binary Search*.
 
-```python
-def binary_search(arr, target):
-    low = 0
-    high = len(arr) - 1
-    
-    while low <= high:
-        mid = (low + high) // 2
-        # Setiap iterasi melipatgandakan kecepatan dengan mereduksi setengah kemungkinan
-        if arr[mid] == target:
-            return f"Data ditemukan di indeks {mid}"
-        elif arr[mid] < target:
-            low = mid + 1
-        else:
-            high = mid - 1
-            
-    return "Data tidak ditemukan"
+Caranya, lihat data yang berada tepat di tengah tumpukan, yang tersusun dari nilai terkecil sampai terbesar. Kalau data tengah itu sama dengan angka yang dicari, pencarian selesai. Kalau lebih kecil, separuh kiri dibuang dan pencarian berlanjut di separuh kanan. Kalau lebih besar, separuh kanan yang dibuang dan pencarian berlanjut di separuh kiri. Langkah ini diulang sampai angkanya ketemu, atau sampai tidak ada lagi data yang tersisa, dan saat itulah angka tersebut dinyatakan tidak ada.
+
+Putaran membelah tumpukan itu bisa digambar sebagai alur yang berulang sampai angkanya ketemu atau datanya habis:
+
+```mermaid
+flowchart TD
+    accTitle: Alur pencarian biner pada data berurutan
+    accDescr: Selama masih ada data tersisa, lihat data di tengah. Jika sama dengan angka yang dicari, angka ditemukan. Jika lebih kecil, pencarian berlanjut di separuh kanan, dan jika lebih besar, pencarian berlanjut di separuh kiri, lalu langkah diulang. Jika data sudah habis, angka dinyatakan tidak ada.
+    S["Tumpukan data berurutan"] --> A{"Masih ada data tersisa?"}
+    A -->|"ya"| B["Lihat data di tengah"]
+    A -->|"tidak"| F["Angka tidak ada"]
+    B --> C{"Data tengah dibanding angka yang dicari"}
+    C -->|"sama"| D["Angka ditemukan"]
+    C -->|"lebih kecil"| E["Lanjut di separuh kanan"]
+    C -->|"lebih besar"| G["Lanjut di separuh kiri"]
+    E --> A
+    G --> A
 ```
 
-Ada landasan mekanika kokoh di balik blok instruksi di atas. Percepatannya bertumpu pada formula $T(n) = T(n/2) + c$. Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
+Ada landasan mekanika kokoh di balik cara kerja ini. Percepatannya bertumpu pada formula $T(n) = T(n/2) + c$. Beban pencarian digerus menjadi separuhnya di setiap langkah, membuktikan secara elegan bagaimana pengenalan pola sanggup merampingkan proses yang tadinya boros.
 
 ### 4. Pendekatan Asah Nalar Sesuai Karakter
 

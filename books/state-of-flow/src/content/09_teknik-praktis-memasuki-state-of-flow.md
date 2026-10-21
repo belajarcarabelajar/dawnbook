@@ -68,13 +68,10 @@ Seorang programmer ingin menyelesaikan modul logika yang kompleks. Berikut adala
 
 1. **Persiapan:** Membuka IDE (Integrated Development Environment) dengan tema gelap yang konsisten.
 2. **Ritual:** Memutar daftar putar *Lo-fi Beats* (Isyarat Audio).
-3. **Implementasi Micro-Goal:** Bukannya menulis "Selesaikan fitur login", ia menulis di komentar kode:
-```python
-# TUJUAN: Validasi input email dan password menggunakan regex
-# TASK: 
-# 1. Buat fungsi validate_email(email)
-# 2. Buat fungsi validate_password(password)
-```
+3. **Implementasi Micro-Goal:** Bukannya menulis "Selesaikan fitur login", ia menulis catatan yang jauh lebih spesifik:
+   - **Tujuan:** memeriksa apakah email dan password yang diketik pengguna sudah sesuai pola penulisan yang benar (*regex*).
+   - **Tugas pertama:** membuat pemeriksa email.
+   - **Tugas kedua:** membuat pemeriksa password.
 4. **Deep Work Block:** Ia menggunakan timer 90 menit (durasi optimal siklus ultradian) tanpa interupsi sama sekali.
 
 > **Penting:** Jika di tengah jalan muncul ide lain (misal: "Oh, saya harus beli susu nanti"), jangan berhenti untuk melakukannya. Tulis ide tersebut di selembar kertas "Distraction List" di samping kamu, lalu kembali ke kode.

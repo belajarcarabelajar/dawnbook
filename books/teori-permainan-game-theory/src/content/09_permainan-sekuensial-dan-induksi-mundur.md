@@ -89,35 +89,13 @@ Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Eq
 
 Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
-## 6. Kode Logika Sederhana
-
-Dalam pemrograman atau AI, kita sering menggunakan algoritma **Minimax** (bentuk dari induksi mundur) untuk permainan seperti Tic-Tac-Toe.
-
-```python
-# Pseudo-code logika induksi mundur sederhana
-def decision_making(node):
-    if node.is_terminal():
-        return node.payoff
-    
-    # Pemain ingin memaksimalkan payoff-nya
-    best_value = -float('inf')
-    for action in node.possible_actions():
-        value = decision_making(action.result_node())
-        best_value = max(best_value, value)
-    
-    return best_value
-
-# Hasilnya adalah nilai terbaik yang bisa didapat 
-# dengan asumsi lawan juga bermain optimal secara mundur.
-```
-
-## 7. Aplikasi Dunia Nyata dan Kasus Praktis
+## 6. Aplikasi Dunia Nyata dan Kasus Praktis
 
 1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
-2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini.
+2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini. Dalam dunia AI, bentuk induksi mundur ini dikenal sebagai algoritma **Minimax**, yang juga dipakai untuk permainan seperti Tic-Tac-Toe.
 3. **Strategi Militer:** Analisis langkah-demi-langkah dalam penyebaran pasukan, di mana reaksi musuh terhadap setiap gerakan harus diantisipasi sebelum perintah pertama diberikan.
 
-## 8. Tantangan dan Batasan
+## 7. Tantangan dan Batasan
 
 Meskipun secara teori sangat kuat, induksi mundur memiliki kelemahan dalam praktik:
 

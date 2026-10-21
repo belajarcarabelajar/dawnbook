@@ -69,30 +69,6 @@ Dua negara merasa lebih aman jika memiliki nuklir. Jika Negara A membangun nukli
 
 Setiap negara diuntungkan jika semua negara mengurangi emisi karbon. Namun, secara individu, setiap negara memiliki insentif untuk terus menggunakan energi murah (fosil) demi pertumbuhan ekonomi sambil berharap negara lain melakukan penghematan. Hasilnya? Polusi global terus meningkat.
 
-### Simulasi Sederhana dengan Kode (Python)
-
-Berikut adalah cuplikan kode sederhana untuk memvisualisasikan bagaimana keputusan diambil berdasarkan matriks Dilema Tahanan:
-
-```python
-def prisoner_dilemma(player_a_choice, player_b_choice):
-    # Definisi hasil (tahun penjara)
-    # Choice: 'C' (Cooperate/Diam), 'D' (Defect/Mengaku)
-    outcomes = {
-        ('C', 'C'): (1, 1),
-        ('C', 'D'): (10, 0),
-        ('D', 'C'): (0, 10),
-        ('D', 'D'): (5, 5)
-    }
-    return outcomes[(player_a_choice, player_b_choice)]
-
-# Skenario: Keduanya bertindak rasional demi kepentingan pribadi
-decision_a = 'D' # Mengaku
-decision_b = 'D' # Mengaku
-
-result = prisoner_dilemma(decision_a, decision_b)
-print(f"Hasil akhir: Tahanan A {result[0]} tahun, Tahanan B {result[1]} tahun.")
-```
-
 ### Cara Mengatasi Dilema
 
 Jika secara logika kita akan selalu berakhir pada pengkhianatan, bagaimana masyarakat bisa berfungsi? Para ilmuwan menemukan beberapa cara untuk memicu kerja sama:

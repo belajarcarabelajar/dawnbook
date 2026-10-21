@@ -70,23 +70,7 @@ Arab Saudi kini berdiri sebagai satu-satunya kandidat tuan rumah untuk Piala Dun
 - **Multipolarisme:** Langkah ini membuktikan bahwa kendali kekuatan sepak bola tidak lagi memerlukan persetujuan tradisional dari negara-negara Barat.
 - **Teknologi dan Inovasi:** Pembangunan stadion masa depan di kawasan NEOM menyatukan kecanggihan teknologi dengan pesan politik tentang masa depan peradaban.
 
-### Kode Skenario Strategis (Simulasi Distribusi Pengaruh)
-
-```python
-# Simulasi sederhana pergeseran pengaruh di FIFA (Skala 1-100)
-regions = ["Eropa", "Amerika Selatan", "Asia & Timur Tengah", "Afrika"]
-influence_2000 = [60, 25, 10, 5]
-influence_2034_forecast = [35, 15, 30, 20]
-
-def analyze_shift(start, end):
-    for r, s, e in zip(regions, start, end):
-        change = e - s
-        print(f"Wilayah: {r} | Perubahan Pengaruh: {change}%")
-
-analyze_shift(influence_2000, influence_2034_forecast)
-```
-
-*Hasil simulasi di atas menunjukkan penurunan dominasi tradisional dan redistribusi kekuatan ke wilayah-wilayah yang sedang berkembang.*
+*Langkah Arab Saudi ini searah dengan pergeseran multipolar di bagian 3: peta kekuatan yang dulu terpusat di Eropa dan Amerika Selatan mulai menyebar ke Asia, Timur Tengah, dan Afrika.*
 
 ## Benang Merah
 

@@ -79,34 +79,9 @@ Dua pemain, A dan B, masing-masing menaruh koin di meja secara sembunyi-sembunyi
 
 Artinya, Pemain A harus memilih Angka 50% dari waktu dan Gambar 50% dari waktu agar Pemain B tidak bisa memprediksi dan memenangkan permainan.
 
-### 4. Implementasi dalam Kode (Python)
+Perhitungan yang sama dari sisi Pemain A (menyamakan ekspektasi hasilnya saat memilih Angka dan saat memilih Gambar) menghasilkan $q = 0{,}5$ untuk Pemain B. Jadi, dalam ekuilibrium strategi campuran Matching Pennies, kedua pemain memilih masing-masing aksi dengan peluang 0,5.
 
-Dalam dunia nyata, kita bisa menggunakan pustaka seperti `Nashpy` untuk mencari ekuilibrium strategi campuran secara otomatis.
-
-```python
-import nashpy as nash
-import numpy as np
-
-# Membuat matriks payoff untuk Matching Pennies
-# Pemain A (Baris), Pemain B (Kolom)
-A = np.array([[1, -1], [-1, 1]])
-B = np.array([[-1, 1], [1, -1]])
-
-# Inisialisasi permainan
-matching_pennies = nash.Game(A, B)
-
-# Menghitung Ekuilibrium Nash
-equilibria = matching_pennies.support_enumeration()
-
-print("Ekuilibrium Strategi Campuran:")
-for eq in equilibria:
-    print(f"Pemain A: {eq[0]}")
-    print(f"Pemain B: {eq[1]}")
-```
-
-*Hasilnya akan menunjukkan bahwa kedua pemain harus memilih masing-masing aksi dengan peluang 0,5.*
-
-### 5. Aplikasi Dunia Nyata dan Kasus Praktis
+### 4. Aplikasi Dunia Nyata dan Kasus Praktis
 
 Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
 
@@ -126,7 +101,7 @@ Dalam tenis, jika seorang pemain selalu melakukan servis *wide* (melebar) saat p
 
 Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan menggunakan strategi campuran, mereka dapat membagi personel secara acak di berbagai titik rawan. Ketidakpastian ini memaksa pengemudi untuk tetap patuh di mana pun mereka berada karena siapa tahu ada polisi di sana.
 
-### 6. Ringkasan Visual
+### 5. Ringkasan Visual
 
 | Aspek | Strategi Murni | Strategi Campuran |
 | --- | --- | --- |
@@ -135,7 +110,7 @@ Polisi lalu lintas tidak bisa berjaga di setiap sudut jalan setiap saat. Dengan 
 | **Tujuan Utama** | Memaksimalkan hasil langsung | Mencegah eksploitasi oleh lawan |
 | **Contoh** | Membeli barang termurah | Menentukan rute patroli keamanan |
 
-### 7. Refleksi dan Latihan
+### 6. Refleksi dan Latihan
 
 - **Pertanyaan Refleksi:** *Dalam kehidupan sehari-hari, pernahkah kamu sengaja bersikap tidak terduga agar orang lain tidak bisa menebak langkahmu? Apakah itu secara tidak sadar merupakan bentuk strategi campuran?*
 

@@ -66,23 +66,24 @@ Sebagai ilustrasi, Teori MI dapat diterapkan secara menyeluruh dalam satu unit p
 
 ## 5. Struktur Kurikulum Berbasis MI
 
-Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk ke dalam format terstruktur.
+Para perancang instruksional dapat mengadaptasi struktur modul sederhana menggunakan pendekatan kecerdasan majemuk ke dalam format terstruktur. Contohnya seperti modul berikut.
 
-```markdown
-# Modul Pembelajaran: Revolusi Industri
-
-## Tujuan Pembelajaran:
-Siswa mampu memetakan dampak sosial dan teknologi dari era Revolusi Industri.
-
-## Aktivitas Pilihan (Pilih minimal 2):
-- **Linguistik:** Buatlah "Surat dari Buruh Pabrik" berlatar tahun 1850.
-- **Logis:** Rancang lini masa perbandingan *output* produksi antara sebelum dan sesudah penemuan mesin uap.
-- **Visual:** Desain poster propaganda yang menyuarakan pro atau kontra terhadap urbanisasi.
-- **Interpersonal:** Selenggarakan debat antara kelompok pemilik pabrik dan kelompok aktivis hak pekerja.
-
-## Refleksi (Intrapersonal):
-"Jika kamu hidup di masa tersebut, bagian mana dari Revolusi Industri yang paling berbenturan dengan nilai-nilai pribadi kamu?"
-```
+> **Modul Pembelajaran Revolusi Industri**
+>
+> **Tujuan Pembelajaran**
+>
+> Siswa mampu memetakan dampak sosial dan teknologi dari era Revolusi Industri.
+>
+> **Pilih minimal 2 aktivitas berikut**
+>
+> - **Linguistik:** Buatlah "Surat dari Buruh Pabrik" berlatar tahun 1850.
+> - **Logis:** Rancang lini masa perbandingan *output* produksi antara sebelum dan sesudah penemuan mesin uap.
+> - **Visual:** Desain poster propaganda yang menyuarakan pro atau kontra terhadap urbanisasi.
+> - **Interpersonal:** Selenggarakan debat antara kelompok pemilik pabrik dan kelompok aktivis hak pekerja.
+>
+> **Refleksi intrapersonal**
+>
+> "Jika kamu hidup di masa tersebut, bagian mana dari Revolusi Industri yang paling berbenturan dengan nilai-nilai pribadi kamu?"
 
 ## 6. Tantangan dan Tips Praktis bagi Pendidik
 

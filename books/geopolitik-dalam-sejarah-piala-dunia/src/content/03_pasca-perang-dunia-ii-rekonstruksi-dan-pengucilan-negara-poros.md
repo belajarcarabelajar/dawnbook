@@ -47,24 +47,19 @@ Pola pengucilan Jerman dan Jepang pada 1950 menjadi cetak biru bagi penggunaan *
 - **Contoh Modern:** Pengucilan Rusia dari kualifikasi Piala Dunia 2022 akibat invasi ke Ukraina menjadi cerminan langsung dari apa yang dialami Jerman pada 1950.
 - **Fungsi:** Langkah pemboikotan semacam ini tidak hanya menghukum para atlet secara sepihak, tetapi juga menyampaikan pesan diplomatik yang kuat. Sebuah negara tidak dapat menikmati keistimewaan di panggung global selama mereka melanggar norma perdamaian internasional.
 
-## Ringkasan Teknis Rekonstruksi 1950
+## Peta Partisipasi Piala Dunia 1950
 
-Jika kita memetakan kondisi partisipasi 1950 dalam sebuah struktur data, tampilannya akan seperti ini:
+Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara-negara yang sudah dibahas, Prancis dan Skotlandia juga mengundurkan diri dengan alasan yang berbeda.
 
-```bash
-STATUS_NEGARA_1950:
-├── DIKUCILKAN (Hukuman Perang):
-│   ├── Jerman (Barat & Timur)
-│   └── Jepang
-├── DIIZINKAN (Dengan Syarat/Sejarah):
-│   └── Italia (Karena jasa penyelamatan trofi)
-├── MENGUNDURKAN DIRI (Politik/Ekonomi):
-│   ├── India (Ekonomi & Aturan)
-│   ├── Prancis (Logistik)
-│   └── Skotlandia (Kebanggaan Nasional)
-└── TUAN RUMAH:
-    └── Brasil (Simbol kembalinya normalitas)
-```
+| Status | Negara | Alasan |
+| --- | --- | --- |
+| **Dikucilkan** | Jerman (Barat dan Timur), Jepang | Hukuman perang bagi negara Poros |
+| **Diizinkan** | Italia | Status juara bertahan, jasa Barassi menyelamatkan trofi, dan transisi politik yang lebih cepat |
+| **Mengundurkan diri** | India | Biaya perjalanan yang mahal dan prioritas domestik, meski larangan bermain bertelanjang kaki sering kali disebut sebagai alasannya |
+| **Mengundurkan diri** | Prancis | Logistik |
+| **Mengundurkan diri** | Skotlandia | Kebanggaan nasional |
+| **Menolak berpartisipasi** | Blok Timur, seperti Cekoslowakia dan Hongaria | Alasan ideologis, bukan sanksi |
+| **Tuan rumah** | Brasil | Simbol kembalinya normalitas |
 
 ## Refleksi Sejarah
 
