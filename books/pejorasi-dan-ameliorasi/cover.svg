@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22808a"/>
+      <stop offset="1" stop-color="#0f434b"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffd76a" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#ffd76a" stop-opacity="0"/>
+    </radialGradient>
+    <path id="tw" d="M0 -20 Q0 0 20 0 Q0 0 0 20 Q0 0 -20 0 Q0 0 0 -20 Z"/>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="315" cy="340" r="250" fill="#2a909a" opacity="0.45"/>
+  <circle cx="129" cy="250" r="120" fill="url(#halo)"/>
+  <g fill="#f7efe0">
+    <rect x="303" y="230" width="24" height="300"/>
+    <path d="M250 560 L380 560 L356 518 L274 518 Z"/>
+    <rect x="200" y="554" width="230" height="26" rx="13"/>
+    <rect x="125" y="221" width="380" height="18" rx="9" transform="rotate(12 315 230)"/>
+    <circle cx="315" cy="230" r="22"/>
+    <circle cx="315" cy="190" r="13"/>
+    <rect x="309" y="190" width="12" height="40"/>
+  </g>
+  <g stroke="#f7efe0" stroke-width="5" stroke-linecap="round">
+    <path d="M129 191 L74 306 M129 191 L184 306"/>
+    <path d="M501 270 L446 386 M501 270 L556 386"/>
+  </g>
+  <g fill="#f7efe0">
+    <circle cx="129" cy="191" r="11"/>
+    <circle cx="501" cy="270" r="11"/>
+    <path d="M62 302 L196 302 C192 340 156 356 129 356 C102 356 66 340 62 302 Z"/>
+    <path d="M434 382 L568 382 C564 420 528 436 501 436 C474 436 438 420 434 382 Z"/>
+  </g>
+  <g fill="#ffc94a">
+    <rect x="76" y="214" width="106" height="68" rx="24"/>
+    <path d="M98 270 L86 300 L124 278 Z"/>
+  </g>
+  <circle cx="98" cy="234" r="7" fill="#fff3c9"/>
+  <g fill="#23263a">
+    <rect x="448" y="308" width="106" height="68" rx="24"/>
+    <path d="M532 364 L546 392 L508 372 Z"/>
+    <path d="M482 452 C482 452 470 468 470 476 C470 483 476 488 482 488 C488 488 494 483 494 476 C494 468 482 452 482 452 Z"/>
+    <path d="M520 466 C520 466 510 480 510 487 C510 493 515 497 520 497 C525 497 530 493 530 487 C530 480 520 466 520 466 Z"/>
+  </g>
+  <g fill="#fff3c9">
+    <use href="#tw" transform="translate(60 168) scale(0.9)"/>
+    <use href="#tw" transform="translate(206 150) scale(1.2)"/>
+    <use href="#tw" transform="translate(160 112) scale(0.7)"/>
+  </g>
+</svg>

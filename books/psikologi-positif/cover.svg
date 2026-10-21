@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0" stop-color="#a23a6c"/>
+      <stop offset="1" stop-color="#4a1340"/>
+    </radialGradient>
+    <ellipse id="petal" cx="315" cy="170" rx="54" ry="88"/>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+
+  <!-- broadening rays -->
+  <g fill="#ffd6a5" opacity="0.13">
+    <path d="M315,265 L270,-20 L360,-20 Z"/>
+    <path d="M315,265 L650,40 L650,140 Z"/>
+    <path d="M315,265 L650,380 L650,480 Z"/>
+    <path d="M315,265 L-20,40 L-20,140 Z"/>
+    <path d="M315,265 L-20,380 L-20,480 Z"/>
+  </g>
+
+  <!-- stem and leaves -->
+  <path d="M315,300 C312,380 322,450 315,540" fill="none" stroke="#3a8a5f" stroke-width="16" stroke-linecap="round"/>
+  <path d="M318,440 C350,400 410,392 444,410 C412,452 360,462 318,440 Z" fill="#4fae74"/>
+  <path d="M312,480 C280,440 222,432 188,450 C220,492 272,500 312,480 Z" fill="#3a8a5f"/>
+
+  <!-- five petals -->
+  <use href="#petal" fill="#ffc93c"/>
+  <use href="#petal" fill="#ff8a5b" transform="rotate(72 315 265)"/>
+  <use href="#petal" fill="#7bdcb5" transform="rotate(144 315 265)"/>
+  <use href="#petal" fill="#8ecae6" transform="rotate(216 315 265)"/>
+  <use href="#petal" fill="#f7b2d9" transform="rotate(288 315 265)"/>
+  <circle cx="315" cy="265" r="52" fill="#fff3d6"/>
+  <circle cx="315" cy="265" r="30" fill="#ffc93c"/>
+
+  <!-- cracked ground, mended with gold -->
+  <path d="M0,540 C160,512 470,512 630,540 L630,630 L0,630 Z" fill="#2b0f24"/>
+  <g fill="none" stroke="#ffc93c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <polyline points="315,530 282,560 300,588 262,630"/>
+    <polyline points="315,530 352,556 340,584 386,630"/>
+    <polyline points="282,560 230,572 196,600"/>
+    <polyline points="352,556 410,566 446,598"/>
+  </g>
+</svg>

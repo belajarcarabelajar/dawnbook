@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd166"/>
+      <stop offset="1" stop-color="#f4a93a"/>
+    </linearGradient>
+    <clipPath id="head">
+      <path d="M30 630 C40 598 78 578 112 560 L120 470 C60 440 30 385 32 322 C35 205 120 122 227 122 C314 122 370 182 374 258 C376 282 370 298 376 314 L410 382 C404 392 394 396 382 397 C388 410 391 420 387 428 C394 436 391 446 383 451 C389 465 383 480 370 487 C352 497 324 497 300 494 L296 558 C340 572 382 598 396 630 Z"/>
+    </clipPath>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="470" cy="305" r="150" fill="#fff4d6" fill-opacity="0.35"/>
+  <g stroke-width="10" stroke-linecap="round">
+    <line x1="630" y1="260" x2="470" y2="260" stroke="#fffaf0"/>
+    <line x1="630" y1="290" x2="470" y2="290" stroke="#118ab2"/>
+    <line x1="630" y1="320" x2="470" y2="320" stroke="#2a2350"/>
+    <line x1="630" y1="350" x2="470" y2="350" stroke="#ef476f"/>
+  </g>
+  <path d="M30 630 C40 598 78 578 112 560 L120 470 C60 440 30 385 32 322 C35 205 120 122 227 122 C314 122 370 182 374 258 C376 282 370 298 376 314 L410 382 C404 392 394 396 382 397 C388 410 391 420 387 428 C394 436 391 446 383 451 C389 465 383 480 370 487 C352 497 324 497 300 494 L296 558 C340 572 382 598 396 630 Z" fill="#2a2350"/>
+  <g clip-path="url(#head)">
+    <g stroke="#ffd166" stroke-opacity="0.45" stroke-width="5" stroke-linecap="round">
+      <line x1="110" y1="250" x2="175" y2="195"/>
+      <line x1="175" y1="195" x2="250" y2="205"/>
+      <line x1="110" y1="250" x2="200" y2="290"/>
+      <line x1="110" y1="250" x2="120" y2="350"/>
+      <line x1="120" y1="350" x2="200" y2="290"/>
+      <line x1="120" y1="350" x2="215" y2="395"/>
+      <line x1="215" y1="395" x2="280" y2="320"/>
+      <line x1="250" y1="205" x2="315" y2="245"/>
+      <line x1="315" y1="245" x2="280" y2="320"/>
+    </g>
+    <polyline points="352,322 280,320 200,290 175,195" fill="none" stroke="#ef476f" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#ffd166">
+      <circle cx="110" cy="250" r="10"/>
+      <circle cx="250" cy="205" r="10"/>
+      <circle cx="120" cy="350" r="10"/>
+      <circle cx="215" cy="395" r="10"/>
+      <circle cx="315" cy="245" r="10"/>
+    </g>
+    <g fill="#ef476f">
+      <circle cx="175" cy="195" r="13"/>
+      <circle cx="200" cy="290" r="11"/>
+      <circle cx="280" cy="320" r="11"/>
+    </g>
+  </g>
+  <polygon points="470,268 470,342 352,322" fill="#ef476f" fill-opacity="0.8"/>
+  <circle cx="470" cy="305" r="64" fill="#ef476f" fill-opacity="0.55" stroke="#2a2350" stroke-width="10"/>
+  <path d="M432 282 A44 44 0 0 1 470 261" fill="none" stroke="#fffaf0" stroke-width="7" stroke-linecap="round"/>
+</svg>

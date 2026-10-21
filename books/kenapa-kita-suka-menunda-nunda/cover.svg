@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="s" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#6fbfe6"/>
+      <stop offset="1" stop-color="#d6eff9"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="390" fill="url(#s)"/>
+  <g fill="#ffffff">
+    <circle cx="92" cy="118" r="26"/>
+    <circle cx="124" cy="104" r="34"/>
+    <circle cx="160" cy="120" r="24"/>
+    <rect x="66" y="118" width="120" height="26" rx="13"/>
+    <circle cx="512" cy="92" r="20"/>
+    <circle cx="538" cy="80" r="26"/>
+    <rect x="492" y="92" width="80" height="20" rx="10"/>
+  </g>
+  <circle cx="315" cy="340" r="190" fill="#eaf7fc"/>
+  <circle cx="315" cy="340" r="150" fill="#ffe8b0" stroke="#e63946" stroke-width="10"/>
+  <g stroke="#12355b" stroke-width="8" stroke-linecap="round">
+    <line x1="315" y1="206" x2="315" y2="228"/>
+    <line x1="382" y1="224" x2="371" y2="243"/>
+    <line x1="431" y1="273" x2="412" y2="284"/>
+    <line x1="449" y1="340" x2="427" y2="340"/>
+    <line x1="248" y1="224" x2="259" y2="243"/>
+    <line x1="199" y1="273" x2="218" y2="284"/>
+    <line x1="181" y1="340" x2="203" y2="340"/>
+  </g>
+  <g stroke="#12355b" stroke-linecap="round">
+    <line x1="315" y1="340" x2="291.1" y2="274.2" stroke-width="12"/>
+    <line x1="315" y1="340" x2="299.7" y2="231.1" stroke-width="8"/>
+  </g>
+  <circle cx="315" cy="340" r="12" fill="#e63946"/>
+  <path d="M0 380Q120 334 250 384V630H0Z" fill="#2b5d8a"/>
+  <path d="M630 372Q510 330 380 384V630H630Z" fill="#2b5d8a"/>
+  <rect y="380" width="630" height="250" fill="#12355b"/>
+  <polygon points="120,630 510,630 330,380 300,380" fill="#ffe8b0"/>
+  <g>
+    <polygon points="307,392 323,392 321,389 309,389" fill="#f07a84"/>
+    <rect x="307" y="392" width="16" height="13" fill="#e63946"/>
+    <polygon points="297,405 333,405 328.7,399 301.3,399" fill="#f07a84"/>
+    <rect x="297" y="405" width="36" height="25" fill="#e63946"/>
+    <polygon points="280,422 350,422 340,410 290,410" fill="#f07a84"/>
+    <rect x="280" y="422" width="70" height="48" fill="#e63946"/>
+    <rect x="309" y="422" width="12" height="48" fill="#b8202f"/>
+    <ellipse cx="315" cy="602" rx="92" ry="12" fill="#d9c08a"/>
+    <polygon points="245,505 385,505 372.1,482 257.9,482" fill="#f07a84"/>
+    <rect x="245" y="505" width="140" height="95" fill="#e63946"/>
+    <rect x="304" y="505" width="22" height="95" fill="#b8202f"/>
+  </g>
+</svg>

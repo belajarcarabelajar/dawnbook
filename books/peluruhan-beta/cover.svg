@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <radialGradient id="bg" cx="40%" cy="57%" r="75%">
+      <stop offset="0" stop-color="#0b1a3d"/>
+      <stop offset="1" stop-color="#03050c"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2f8cff" stop-opacity="0.75"/>
+      <stop offset="0.6" stop-color="#1f5fd6" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#1f5fd6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="p" cx="35%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#ffb3c6"/>
+      <stop offset="0.45" stop-color="#ff3b6b"/>
+      <stop offset="1" stop-color="#7d0c2e"/>
+    </radialGradient>
+    <radialGradient id="n" cx="35%" cy="32%" r="75%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.45" stop-color="#cfd8ea"/>
+      <stop offset="1" stop-color="#4f5c7a"/>
+    </radialGradient>
+    <filter id="bl" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <path id="trk" d="M362 292 C420 250 462 230 498 176 C516 148 526 124 532 100"/>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="250" cy="360" r="290" fill="url(#glow)"/>
+  <g fill="none" stroke="#2a5fc4" stroke-width="4" opacity="0.6">
+    <circle cx="250" cy="360" r="168"/>
+    <circle cx="250" cy="360" r="218"/>
+    <circle cx="250" cy="360" r="268"/>
+  </g>
+  <path d="M350 392 L585 522" fill="none" stroke="#b38cff" stroke-width="9" stroke-linecap="round" stroke-dasharray="1 18"/>
+  <circle cx="590" cy="525" r="14" fill="none" stroke="#b38cff" stroke-width="6"/>
+  <use href="#trk" fill="none" stroke="#ffd23f" stroke-width="24" opacity="0.45" filter="url(#bl)"/>
+  <use href="#trk" fill="none" stroke="#ffd23f" stroke-width="9" stroke-linecap="round"/>
+  <use href="#trk" fill="none" stroke="#fff6c8" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="533" cy="98" r="34" fill="#ffd23f" opacity="0.45" filter="url(#bl)"/>
+  <circle cx="533" cy="98" r="17" fill="#ffd23f"/>
+  <circle cx="528" cy="93" r="6" fill="#fff6c8"/>
+  <g>
+    <circle cx="250" cy="265" r="34" fill="url(#p)"/>
+    <circle cx="202" cy="278" r="34" fill="url(#n)"/>
+    <circle cx="298" cy="278" r="34" fill="url(#n)"/>
+    <circle cx="168" cy="312" r="34" fill="url(#p)"/>
+    <circle cx="155" cy="360" r="34" fill="url(#n)"/>
+    <circle cx="345" cy="360" r="34" fill="url(#n)"/>
+    <circle cx="168" cy="408" r="34" fill="url(#p)"/>
+    <circle cx="332" cy="408" r="34" fill="url(#p)"/>
+    <circle cx="202" cy="442" r="34" fill="url(#n)"/>
+    <circle cx="298" cy="442" r="34" fill="url(#n)"/>
+    <circle cx="250" cy="455" r="34" fill="url(#p)"/>
+    <circle cx="224" cy="315" r="34" fill="url(#p)"/>
+    <circle cx="276" cy="315" r="34" fill="url(#n)"/>
+    <circle cx="198" cy="360" r="34" fill="url(#n)"/>
+    <circle cx="302" cy="360" r="34" fill="url(#p)"/>
+    <circle cx="224" cy="405" r="34" fill="url(#p)"/>
+    <circle cx="276" cy="405" r="34" fill="url(#n)"/>
+    <circle cx="250" cy="360" r="34" fill="url(#n)"/>
+    <circle cx="332" cy="312" r="40" fill="#ffe46b" opacity="0.5" filter="url(#bl)"/>
+    <circle cx="332" cy="312" r="34" fill="url(#p)"/>
+    <circle cx="332" cy="312" r="38" fill="none" stroke="#ffd23f" stroke-width="5"/>
+  </g>
+</svg>

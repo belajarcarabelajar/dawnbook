@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#182fa6"/>
+      <stop offset="1" stop-color="#2f5bea"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <g>
+    <rect x="128" y="62" width="36" height="36" rx="9" fill="#ffffff" transform="rotate(-12 146 80)"/>
+    <rect x="196" y="40" width="36" height="36" rx="9" fill="#c6f432"/>
+    <rect x="262" y="78" width="36" height="36" rx="9" fill="#8fa8ff" transform="rotate(10 280 96)"/>
+    <rect x="330" y="34" width="36" height="36" rx="9" fill="#ff6fb5" transform="rotate(-8 348 52)"/>
+    <rect x="398" y="70" width="36" height="36" rx="9" fill="#ffffff"/>
+    <rect x="464" y="44" width="36" height="36" rx="9" fill="#c6f432" transform="rotate(14 482 62)"/>
+    <rect x="518" y="104" width="36" height="36" rx="9" fill="#8fa8ff"/>
+    <rect x="86" y="130" width="36" height="36" rx="9" fill="#ff6fb5" transform="rotate(8 104 148)"/>
+    <rect x="166" y="124" width="36" height="36" rx="9" fill="#8fa8ff"/>
+    <rect x="232" y="146" width="36" height="36" rx="9" fill="#ffffff" transform="rotate(-10 250 164)"/>
+    <rect x="356" y="120" width="36" height="36" rx="9" fill="#c6f432" transform="rotate(6 374 138)"/>
+    <rect x="440" y="140" width="36" height="36" rx="9" fill="#ff6fb5"/>
+    <rect x="300" y="162" width="36" height="36" rx="9" fill="#ff6fb5" transform="rotate(18 318 180)"/>
+  </g>
+  <path d="M110 220L520 220L360 350V378H270V350Z" fill="#0e1f75"/>
+  <path d="M110 220L520 220L455 274Q315 300 175 274Z" fill="#132a8f"/>
+  <ellipse cx="315" cy="220" rx="205" ry="24" fill="#091656" stroke="#8fa8ff" stroke-width="6"/>
+  <rect x="246" y="196" width="36" height="36" rx="9" fill="#c6f432" transform="rotate(-20 264 214)"/>
+  <rect x="340" y="200" width="36" height="36" rx="9" fill="#ffffff" transform="rotate(12 358 218)"/>
+  <path d="M170 492C80 470 50 340 82 240" fill="none" stroke="#c6f432" stroke-width="7" stroke-linecap="round" stroke-dasharray="14 14"/>
+  <polygon points="66,252 86,214 102,254" fill="#c6f432"/>
+  <g fill="#ffffff">
+    <rect x="180" y="398" width="270" height="62" rx="14"/>
+    <rect x="180" y="472" width="270" height="62" rx="14" fill-opacity="0.85"/>
+    <rect x="180" y="546" width="270" height="62" rx="14" fill-opacity="0.65"/>
+  </g>
+  <circle cx="214" cy="429" r="18" fill="#c6f432"/>
+  <circle cx="214" cy="503" r="18" fill="#ff6fb5"/>
+  <circle cx="214" cy="577" r="18" fill="#8fa8ff"/>
+  <g fill="#c9d4ff">
+    <rect x="246" y="422" width="176" height="14" rx="7"/>
+    <rect x="246" y="496" width="140" height="14" rx="7"/>
+    <rect x="246" y="570" width="104" height="14" rx="7"/>
+  </g>
+  <g fill="#0e1f75" fill-opacity="0.5">
+    <rect x="502" y="410" width="10" height="190" rx="5"/>
+    <rect x="542" y="410" width="10" height="190" rx="5"/>
+    <rect x="582" y="410" width="10" height="190" rx="5"/>
+  </g>
+  <circle cx="507" cy="450" r="16" fill="#ffffff" stroke="#c6f432" stroke-width="6"/>
+  <circle cx="547" cy="540" r="16" fill="#ffffff" stroke="#ff6fb5" stroke-width="6"/>
+  <circle cx="587" cy="490" r="16" fill="#ffffff" stroke="#c6f432" stroke-width="6"/>
+</svg>

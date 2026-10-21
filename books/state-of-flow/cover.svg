@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c0e30"/>
+      <stop offset="1" stop-color="#341a5c"/>
+    </linearGradient>
+    <linearGradient id="band" gradientUnits="userSpaceOnUse" x1="-130" y1="0" x2="640" y2="0">
+      <stop offset="0" stop-color="#ff4f8b"/>
+      <stop offset="1" stop-color="#ffc94a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff3e0" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#fff3e0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <g transform="rotate(-45 315 315)">
+    <g fill="none" stroke="#8a5cd0" stroke-width="8" stroke-linejoin="round" stroke-linecap="round">
+      <path opacity="0.9" d="M-160 190 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14 l30 -14 l30 14"/>
+      <path opacity="0.75" d="M-100 130 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24 l30 -24 l30 24"/>
+      <path opacity="0.6" d="M-40 66 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36 l30 -36 l30 36"/>
+      <path opacity="0.45" d="M20 -6 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48 l30 -48 l30 48"/>
+      <path opacity="0.3" d="M110 -84 l30 -56 l30 56 l30 -56 l30 56 l30 -56 l30 56 l30 -56 l30 56 l30 -56 l30 56 l30 -56 l30 56 l30 -56 l30 56"/>
+    </g>
+    <g stroke="#8a5cd0" stroke-width="8" stroke-linecap="round">
+      <line x1="-160" y1="440" x2="800" y2="440" opacity="0.9"/>
+      <line x1="-100" y1="500" x2="740" y2="500" opacity="0.75"/>
+      <line x1="-40" y1="560" x2="680" y2="560" opacity="0.6"/>
+      <line x1="20" y1="620" x2="620" y2="620" opacity="0.45"/>
+      <line x1="110" y1="690" x2="530" y2="690" opacity="0.3"/>
+    </g>
+    <rect x="-200" y="206" width="1040" height="218" fill="url(#band)" opacity="0.28"/>
+    <rect x="-200" y="230" width="1040" height="170" fill="url(#band)"/>
+    <g fill="none" stroke="#fff3e0" stroke-linecap="round">
+      <path stroke-width="6" opacity="0.55" d="M-200 278 c50 -22 100 -22 150 0 s100 22 150 0 s100 -22 150 0 s100 22 150 0 s100 -22 150 0 s100 22 150 0 s100 -22 150 0"/>
+      <path stroke-width="10" opacity="0.95" d="M-260 315 c50 -26 100 -26 150 0 s100 26 150 0 s100 -26 150 0 s100 26 150 0 s100 -26 150 0 s100 26 150 0 s100 -26 150 0"/>
+      <path stroke-width="6" opacity="0.55" d="M-160 352 c50 -22 100 -22 150 0 s100 22 150 0 s100 -22 150 0 s100 22 150 0 s100 -22 150 0 s100 22 150 0 s100 -22 150 0"/>
+    </g>
+    <g fill="#fff3e0">
+      <circle cx="40" cy="262" r="8"/>
+      <circle cx="150" cy="372" r="9"/>
+      <circle cx="270" cy="258" r="10"/>
+      <circle cx="380" cy="368" r="11"/>
+    </g>
+    <circle cx="520" cy="315" r="160" fill="url(#glow)"/>
+    <circle cx="520" cy="315" r="92" fill="none" stroke="#fff3e0" stroke-width="5" opacity="0.6"/>
+    <circle cx="520" cy="315" r="60" fill="#fff3e0" stroke="#ff4f8b" stroke-width="7"/>
+  </g>
+</svg>

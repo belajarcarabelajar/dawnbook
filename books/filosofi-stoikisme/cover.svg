@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101c1c"/>
+      <stop offset="1" stop-color="#2c4440"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e3a72f" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#e3a72f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shaft" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f6f1e7"/>
+      <stop offset="1" stop-color="#c9bfac"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#sky)"/>
+  <circle cx="315" cy="250" r="260" fill="url(#glow)"/>
+  <circle cx="315" cy="250" r="138" fill="#e3a72f"/>
+  <circle cx="315" cy="250" r="112" fill="#efbd55"/>
+  <g fill="#0b1514">
+    <circle cx="30" cy="70" r="80"/>
+    <circle cx="125" cy="40" r="62"/>
+    <circle cx="190" cy="80" r="44"/>
+    <circle cx="0" cy="160" r="62"/>
+    <circle cx="95" cy="118" r="46"/>
+    <circle cx="610" cy="80" r="80"/>
+    <circle cx="515" cy="45" r="60"/>
+    <circle cx="455" cy="88" r="40"/>
+    <circle cx="640" cy="175" r="60"/>
+    <circle cx="545" cy="118" r="44"/>
+  </g>
+  <g stroke="#7aa59d" stroke-width="5" stroke-linecap="round">
+    <line x1="40" y1="190" x2="22" y2="232"/>
+    <line x1="85" y1="178" x2="67" y2="220"/>
+    <line x1="130" y1="150" x2="112" y2="192"/>
+    <line x1="60" y1="250" x2="44" y2="288"/>
+    <line x1="108" y1="232" x2="92" y2="270"/>
+    <line x1="500" y1="172" x2="482" y2="214"/>
+    <line x1="548" y1="178" x2="530" y2="220"/>
+    <line x1="596" y1="226" x2="578" y2="268"/>
+    <line x1="525" y1="250" x2="509" y2="288"/>
+    <line x1="575" y1="290" x2="559" y2="328"/>
+  </g>
+  <polygon points="160,530 205,476 425,476 470,530" fill="#0b1514"/>
+  <rect x="236" y="128" width="158" height="24" rx="3" fill="#eee8dc"/>
+  <polygon points="250,152 380,152 362,178 268,178" fill="#d8cfbd"/>
+  <rect x="264" y="178" width="102" height="10" fill="#eee8dc"/>
+  <polygon points="268,188 362,188 372,452 258,452" fill="url(#shaft)"/>
+  <g stroke="#b3a892" stroke-width="5">
+    <line x1="284" y1="194" x2="280" y2="446"/>
+    <line x1="299.5" y1="194" x2="297.5" y2="446"/>
+    <line x1="315" y1="194" x2="315" y2="446"/>
+    <line x1="330.5" y1="194" x2="332.5" y2="446"/>
+    <line x1="346" y1="194" x2="350" y2="446"/>
+  </g>
+  <rect x="246" y="452" width="138" height="16" rx="3" fill="#eee8dc"/>
+  <rect x="232" y="468" width="166" height="18" rx="3" fill="#d8cfbd"/>
+  <path d="M0 505 C60 472 112 474 165 502 S262 532 315 508 S420 470 472 500 S572 534 630 498 L630 630 L0 630 Z" fill="#2f6f6a"/>
+  <path d="M0 565 C70 532 132 536 192 566 S302 598 362 562 S472 526 532 556 S602 588 630 562 L630 630 L0 630 Z" fill="#4f9a8f"/>
+  <g fill="none" stroke="#e4f2ec" stroke-width="6" stroke-linecap="round">
+    <path d="M200 498 C214 480 236 474 252 486"/>
+    <path d="M378 486 C394 474 416 478 430 496"/>
+    <path d="M60 488 C80 476 104 476 122 486"/>
+    <path d="M520 512 C540 500 566 500 586 508"/>
+    <path d="M150 556 C172 542 198 544 216 556"/>
+    <path d="M420 548 C442 534 470 534 490 546"/>
+  </g>
+</svg>

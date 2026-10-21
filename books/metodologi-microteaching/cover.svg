@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6cb5f"/>
+      <stop offset="1" stop-color="#eeb544"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <rect y="420" width="630" height="210" fill="#e09a33"/>
+  <rect x="130" y="140" width="290" height="190" rx="8" fill="#234a3e" stroke="#8a5a35" stroke-width="12"/>
+  <g fill="#fdf6e3" fill-opacity="0.9">
+    <rect x="172" y="250" width="34" height="40" rx="3"/>
+    <rect x="222" y="220" width="34" height="70" rx="3"/>
+    <rect x="272" y="190" width="34" height="100" rx="3"/>
+    <rect x="322" y="166" width="34" height="124" rx="3"/>
+  </g>
+  <line x1="160" y1="300" x2="372" y2="300" stroke="#fdf6e3" stroke-width="6" stroke-linecap="round" stroke-opacity="0.9"/>
+  <g fill="#2a2d34">
+    <circle cx="482" cy="212" r="31"/>
+    <path d="M450 258C456 246 508 246 515 258L526 388L508 388L505 490L484 490L481 400L474 400L470 490L449 490L446 388L436 388Z"/>
+  </g>
+  <line x1="458" y1="272" x2="414" y2="246" stroke="#2a2d34" stroke-width="18" stroke-linecap="round"/>
+  <line x1="414" y1="246" x2="376" y2="222" stroke="#8a5a35" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#b9472f">
+    <circle cx="160" cy="500" r="40"/>
+    <path d="M78 630C78 560 112 540 160 540C208 540 242 560 242 630Z"/>
+  </g>
+  <g fill="#cf5a3c">
+    <circle cx="315" cy="510" r="38"/>
+    <path d="M236 630C236 566 268 548 315 548C362 548 394 566 394 630Z"/>
+  </g>
+  <g fill="#a63e2a">
+    <circle cx="470" cy="502" r="40"/>
+    <path d="M388 630C388 560 422 542 470 542C518 542 552 560 552 630Z"/>
+  </g>
+  <g fill="none" stroke="#fffaf0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M50 130V50H130"/>
+    <path d="M500 50H580V130"/>
+    <path d="M580 500V580H500"/>
+    <path d="M130 580H50V500"/>
+  </g>
+  <circle cx="98" cy="98" r="15" fill="#d7263d"/>
+</svg>

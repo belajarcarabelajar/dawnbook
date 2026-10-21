@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b3328"/>
+      <stop offset="1" stop-color="#17644a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fde6a6" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#fde6a6" stop-opacity="0"/>
+    </radialGradient>
+    <g id="coin">
+      <path d="M-62 -18V0A62 15 0 0 0 62 0V-18Z" fill="#c8891d"/>
+      <path d="M-62 0A62 15 0 0 0 62 0" fill="none" stroke="#8f5c10" stroke-width="3"/>
+      <ellipse cx="0" cy="-18" rx="62" ry="15" fill="#f6cf5a"/>
+      <ellipse cx="0" cy="-18" rx="44" ry="9" fill="none" stroke="#dda233" stroke-width="4"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="170" cy="200" r="200" fill="url(#glow)"/>
+  <circle cx="170" cy="200" r="80" fill="#fde6a6"/>
+  <path d="M0 470Q150 420 300 465T630 440V630H0Z" fill="#0d3a2d"/>
+  <path d="M0 548Q315 528 630 548V630H0Z" fill="#082a20"/>
+  <g fill="#04190f" fill-opacity="0.55">
+    <ellipse cx="172" cy="556" rx="78" ry="14"/>
+    <ellipse cx="322" cy="556" rx="78" ry="14"/>
+    <ellipse cx="472" cy="556" rx="78" ry="14"/>
+  </g>
+  <use href="#coin" transform="translate(165 548)"/>
+  <use href="#coin" transform="translate(165 530)"/>
+  <use href="#coin" transform="translate(165 512)"/>
+  <use href="#coin" transform="translate(315 548)"/>
+  <use href="#coin" transform="translate(315 530)"/>
+  <use href="#coin" transform="translate(315 512)"/>
+  <use href="#coin" transform="translate(315 494)"/>
+  <use href="#coin" transform="translate(315 476)"/>
+  <use href="#coin" transform="translate(315 458)"/>
+  <use href="#coin" transform="translate(465 548)"/>
+  <use href="#coin" transform="translate(465 530)"/>
+  <use href="#coin" transform="translate(465 512)"/>
+  <use href="#coin" transform="translate(465 494)"/>
+  <use href="#coin" transform="translate(465 476)"/>
+  <use href="#coin" transform="translate(465 458)"/>
+  <use href="#coin" transform="translate(465 440)"/>
+  <use href="#coin" transform="translate(465 422)"/>
+  <use href="#coin" transform="translate(465 404)"/>
+  <use href="#coin" transform="translate(465 386)"/>
+  <path d="M465 368C465 320 458 290 462 230" fill="none" stroke="#5cc98a" stroke-width="9" stroke-linecap="round"/>
+  <path d="M463 300C430 305 390 290 372 248C415 242 450 262 463 300Z" fill="#8fe3b0"/>
+  <path d="M463 300Q420 280 382 254" fill="none" stroke="#3f9e6b" stroke-width="3" stroke-linecap="round"/>
+  <path d="M462 262C480 226 520 208 562 212C550 252 505 272 462 262Z" fill="#5cc98a"/>
+  <path d="M462 262Q510 238 554 218" fill="none" stroke="#2f7f55" stroke-width="3" stroke-linecap="round"/>
+  <path d="M462 234C440 206 448 180 470 160C490 186 484 214 462 234Z" fill="#b5f0c8"/>
+</svg>

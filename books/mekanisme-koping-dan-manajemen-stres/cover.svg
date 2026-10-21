@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e98a72"/>
+      <stop offset="0.7" stop-color="#ffd2ad"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2c5a87"/>
+      <stop offset="1" stop-color="#16324f"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff6e8" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#fff6e8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#sky)"/>
+  <circle cx="315" cy="380" r="260" fill="url(#glow)"/>
+  <circle cx="315" cy="390" r="150" fill="#fff2dd"/>
+  <path d="M430 92a42 42 0 0 1 78-22a52 52 0 0 1 96 6a36 36 0 0 1 26 34v18H418a28 28 0 0 1 12-36Z" fill="#7b6383" fill-opacity="0.75"/>
+  <path d="M40 170a30 30 0 0 1 56-14a36 36 0 0 1 66 8a24 24 0 0 1 14 34H34a22 22 0 0 1 6-28Z" fill="#fff2dd" fill-opacity="0.55"/>
+  <rect y="440" width="630" height="190" fill="url(#sea)"/>
+  <g fill="none" stroke="#ffd2ad" stroke-width="4">
+    <ellipse cx="315" cy="466" rx="210" ry="26" stroke-opacity="0.6"/>
+    <ellipse cx="315" cy="474" rx="275" ry="38" stroke-opacity="0.38"/>
+    <ellipse cx="315" cy="482" rx="345" ry="52" stroke-opacity="0.2"/>
+  </g>
+  <g fill="#ffd2ad" fill-opacity="0.55">
+    <rect x="245" y="508" width="140" height="9" rx="4.5"/>
+    <rect x="270" y="540" width="90" height="9" rx="4.5"/>
+    <rect x="292" y="572" width="46" height="9" rx="4.5"/>
+  </g>
+  <ellipse cx="315" cy="452" rx="160" ry="24" fill="#232533"/>
+  <ellipse cx="315" cy="410" rx="112" ry="40" fill="#43465a"/>
+  <ellipse cx="296" cy="396" rx="76" ry="20" fill="#5b5f76"/>
+  <ellipse cx="325" cy="338" rx="86" ry="34" fill="#33364a"/>
+  <ellipse cx="310" cy="326" rx="56" ry="16" fill="#4a4e65"/>
+  <ellipse cx="309" cy="279" rx="64" ry="27" fill="#545870"/>
+  <ellipse cx="296" cy="270" rx="40" ry="12" fill="#6c7089"/>
+  <ellipse cx="320" cy="233" rx="44" ry="21" fill="#3b3e52"/>
+  <ellipse cx="311" cy="226" rx="26" ry="9" fill="#52566d"/>
+  <ellipse cx="314" cy="199" rx="26" ry="14" fill="#5f6379"/>
+  <ellipse cx="308" cy="194" rx="14" ry="6" fill="#7a7e95"/>
+</svg>

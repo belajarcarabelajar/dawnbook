@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <rect width="630" height="630" fill="#f2b134"/>
+  <circle cx="330" cy="300" r="260" fill="#f6c45a"/>
+
+  <!-- head in profile -->
+  <path d="M196,630 L200,505 C146,462 116,392 120,308 C126,176 228,92 346,92 C452,92 524,170 528,262 C530,292 524,308 532,330 L564,386 C570,398 563,408 550,410 L532,412 L535,446 C536,462 524,472 510,472 L472,474 C463,474 458,482 458,494 L460,630 Z" fill="#1d3b2f"/>
+
+  <!-- compartments of the mental budget -->
+  <g>
+    <rect x="186" y="164" width="124" height="76" rx="10" fill="#ef8354"/>
+    <rect x="322" y="164" width="124" height="76" rx="10" fill="#f7ede2"/>
+    <rect x="186" y="252" width="124" height="76" rx="10" fill="#5c80bc"/>
+    <rect x="186" y="340" width="124" height="76" rx="10" fill="#f7ede2"/>
+    <rect x="322" y="340" width="124" height="76" rx="10" fill="#ef8354"/>
+  </g>
+  <g fill="#1d3b2f">
+    <rect x="228" y="196" width="40" height="12" rx="6"/>
+    <rect x="364" y="196" width="40" height="12" rx="6"/>
+    <rect x="228" y="284" width="40" height="12" rx="6"/>
+    <rect x="228" y="372" width="40" height="12" rx="6"/>
+    <rect x="364" y="372" width="40" height="12" rx="6"/>
+  </g>
+
+  <!-- the drawer pulled open -->
+  <rect x="322" y="252" width="124" height="76" rx="10" fill="#10241c"/>
+  <path d="M372,262 L470,234 L470,300 L372,328 Z" fill="#4a6aa3"/>
+  <g transform="rotate(-14 440 250)">
+    <rect x="392" y="214" width="96" height="52" rx="6" fill="#9fd08f"/>
+    <rect x="402" y="224" width="76" height="32" rx="4" fill="none" stroke="#4f8f57" stroke-width="4"/>
+  </g>
+  <rect x="372" y="262" width="128" height="80" rx="10" fill="#5c80bc"/>
+  <rect x="416" y="295" width="40" height="12" rx="6" fill="#1d3b2f"/>
+</svg>

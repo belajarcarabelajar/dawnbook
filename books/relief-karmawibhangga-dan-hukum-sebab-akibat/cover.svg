@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#8d8f82"/>
+      <stop offset="1" stop-color="#585c52"/>
+    </linearGradient>
+    <linearGradient id="recess" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#393d37"/>
+      <stop offset="1" stop-color="#5a5e54"/>
+    </linearGradient>
+    <linearGradient id="light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff2cc" stop-opacity="0.22"/>
+      <stop offset="0.6" stop-color="#fff2cc" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="grain" x="0" y="0" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2" seed="7"/>
+      <feColorMatrix values="0 0 0 0 0.12 0 0 0 0 0.12 0 0 0 0 0.1 0 0 0 1.6 -0.6"/>
+    </filter>
+    <pattern id="petals" width="70" height="70" patternUnits="userSpaceOnUse">
+      <path d="M40,66 C20,54 20,22 40,10 C60,22 60,54 40,66 Z" fill="#33372f"/>
+      <path d="M35,62 C15,50 15,18 35,6 C55,18 55,50 35,62 Z" fill="#a9ab9b"/>
+    </pattern>
+    <pattern id="rosette" width="70" height="60" patternUnits="userSpaceOnUse">
+      <circle cx="39" cy="34" r="19" fill="#33372f"/>
+      <circle cx="35" cy="30" r="19" fill="#a9ab9b"/>
+      <circle cx="35" cy="30" r="8" fill="#5a5e54"/>
+    </pattern>
+    <g id="cause">
+      <rect x="56" y="440" width="233" height="44"/>
+      <circle cx="122" cy="262" r="21"/>
+      <circle cx="106" cy="245" r="11"/>
+      <path d="M108,282 C98,320 96,360 102,398 L148,398 C152,360 148,318 138,282 Z"/>
+      <path d="M96,392 L150,392 C175,398 198,410 204,428 L204,441 L90,441 C86,424 88,404 96,392 Z"/>
+      <path d="M130,300 C158,312 178,320 196,322 L196,338 C174,338 150,330 126,320 Z"/>
+      <circle cx="212" cy="328" r="19"/>
+      <path d="M222,316 L240,330 L232,340 L218,334 Z"/>
+      <circle cx="240" cy="358" r="5"/>
+      <circle cx="243" cy="378" r="5"/>
+      <circle cx="246" cy="398" r="5"/>
+      <rect x="244" y="410" width="8" height="32" rx="3"/>
+      <path d="M248,420 C232,404 218,404 214,412 C222,424 238,426 248,420 Z"/>
+      <path d="M249,414 C262,396 278,396 282,404 C274,416 260,420 249,414 Z"/>
+    </g>
+    <g id="effect">
+      <rect x="341" y="440" width="233" height="44"/>
+      <path d="M486,440 C482,400 478,360 468,318 L492,316 C500,360 506,400 514,440 Z"/>
+      <circle cx="470" cy="250" r="50"/>
+      <circle cx="522" cy="226" r="44"/>
+      <circle cx="428" cy="218" r="40"/>
+      <circle cx="478" cy="188" r="44"/>
+      <circle cx="540" cy="278" r="34"/>
+      <circle cx="384" cy="298" r="20"/>
+      <circle cx="369" cy="283" r="10"/>
+      <path d="M370,318 C362,360 360,400 366,441 L406,441 C410,400 408,360 398,318 Z"/>
+      <path d="M390,334 C408,306 426,280 438,258 L452,266 C442,290 422,320 404,344 Z"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="url(#wall)"/>
+  <rect x="0" y="34" width="630" height="76" fill="url(#petals)"/>
+  <rect x="0" y="526" width="630" height="64" fill="url(#rosette)"/>
+  <g stroke="#3a3e37" stroke-width="4">
+    <line x1="0" y1="30" x2="630" y2="30"/>
+    <line x1="0" y1="116" x2="630" y2="116"/>
+    <line x1="0" y1="520" x2="630" y2="520"/>
+    <line x1="0" y1="596" x2="630" y2="596"/>
+    <line x1="210" y1="0" x2="210" y2="30"/>
+    <line x1="470" y1="0" x2="470" y2="30"/>
+    <line x1="120" y1="596" x2="120" y2="630"/>
+    <line x1="400" y1="596" x2="400" y2="630"/>
+  </g>
+  <rect x="38" y="128" width="268" height="376" rx="4" fill="#4a4e45"/>
+  <rect x="324" y="128" width="268" height="376" rx="4" fill="#4a4e45"/>
+  <rect x="42" y="132" width="260" height="368" rx="3" fill="#9a9c8d"/>
+  <rect x="328" y="132" width="260" height="368" rx="3" fill="#9a9c8d"/>
+  <rect x="56" y="146" width="233" height="338" rx="3" fill="url(#recess)"/>
+  <rect x="341" y="146" width="233" height="338" rx="3" fill="url(#recess)"/>
+  <use href="#cause" transform="translate(5,5)" fill="#272a24"/>
+  <use href="#cause" fill="#aeb0a0"/>
+  <use href="#effect" transform="translate(5,5)" fill="#272a24"/>
+  <use href="#effect" fill="#aeb0a0"/>
+  <g fill="#7f9a5c">
+    <circle cx="470" cy="250" r="34"/>
+    <circle cx="430" cy="222" r="24"/>
+    <circle cx="520" cy="228" r="28"/>
+    <circle cx="478" cy="192" r="26"/>
+  </g>
+  <g fill="#d9c58e">
+    <circle cx="446" cy="246" r="10"/>
+    <circle cx="500" cy="204" r="10"/>
+    <circle cx="530" cy="256" r="10"/>
+    <circle cx="474" cy="280" r="10"/>
+    <circle cx="455" cy="196" r="9"/>
+  </g>
+  <path d="M244,412 L252,412 L252,418 L244,418 Z" fill="#7f9a5c"/>
+  <path d="M248,420 C232,404 218,404 214,412 C222,424 238,426 248,420 Z" fill="#7f9a5c"/>
+  <path d="M249,414 C262,396 278,396 282,404 C274,416 260,420 249,414 Z" fill="#7f9a5c"/>
+  <g fill="#6c8a4a" opacity="0.6">
+    <ellipse cx="22" cy="120" rx="40" ry="18"/>
+    <ellipse cx="612" cy="520" rx="44" ry="20"/>
+    <ellipse cx="300" cy="512" rx="30" ry="10"/>
+  </g>
+  <rect width="630" height="630" filter="url(#grain)" opacity="0.45"/>
+  <rect width="630" height="630" fill="url(#light)"/>
+</svg>

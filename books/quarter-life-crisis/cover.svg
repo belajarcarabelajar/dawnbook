@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#22163d"/>
+      <stop offset="0.45" stop-color="#5a2a6c"/>
+      <stop offset="0.8" stop-color="#c8467f"/>
+      <stop offset="1" stop-color="#ffcf66"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fff6cf"/>
+      <stop offset="1" stop-color="#ffd166"/>
+    </radialGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3b1d4f"/>
+      <stop offset="1" stop-color="#170c24"/>
+    </linearGradient>
+    <linearGradient id="road" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff4e2"/>
+      <stop offset="1" stop-color="#f3d3ae"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="400" fill="url(#sky)"/>
+  <g fill="#fff3d6">
+    <circle cx="62" cy="58" r="3.5"/>
+    <circle cx="150" cy="112" r="2.5"/>
+    <circle cx="228" cy="44" r="3"/>
+    <circle cx="410" cy="70" r="3"/>
+    <circle cx="488" cy="128" r="2.5"/>
+    <circle cx="566" cy="52" r="3.5"/>
+    <circle cx="330" cy="120" r="2.5"/>
+    <circle cx="96" cy="190" r="2.5"/>
+    <circle cx="540" cy="200" r="2.5"/>
+  </g>
+  <circle cx="315" cy="372" r="175" fill="#ffd166" opacity="0.18"/>
+  <circle cx="315" cy="372" r="108" fill="url(#sun)"/>
+  <path d="M0,400 L0,330 C90,300 170,345 250,326 C300,315 350,318 400,330 C470,346 550,300 630,318 L630,400 Z" fill="#7a3479"/>
+  <path d="M0,400 L0,372 C90,350 170,384 250,370 C300,362 330,362 380,370 C460,384 540,352 630,366 L630,400 Z" fill="#4a2361"/>
+  <rect y="400" width="630" height="230" fill="url(#ground)"/>
+  <g fill="url(#road)">
+    <path d="M298,507 C255,470 175,438 112,404 L132,402 C192,432 272,466 326,507 Z"/>
+    <path d="M332,507 C375,470 455,438 518,404 L498,402 C438,432 358,466 304,507 Z"/>
+    <path d="M303,507 L311,400 L319,400 L327,507 Z"/>
+    <path d="M236,630 L394,630 L330,503 L300,503 Z"/>
+  </g>
+  <ellipse cx="315" cy="602" rx="34" ry="7" fill="#170c24" opacity="0.25"/>
+  <g fill="#1a0e29">
+    <circle cx="315" cy="478" r="15"/>
+    <rect x="296" y="496" width="38" height="62" rx="14"/>
+    <rect x="300" y="546" width="13" height="54" rx="5"/>
+    <rect x="317" y="546" width="13" height="54" rx="5"/>
+  </g>
+</svg>

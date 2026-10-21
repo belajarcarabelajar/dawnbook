@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f1736"/><stop offset="1" stop-color="#5a3b6e"/></linearGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffe9a8" stop-opacity="0.8"/><stop offset="1" stop-color="#ffe9a8" stop-opacity="0"/></radialGradient>
+<linearGradient id="river" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3b2d63"/><stop offset="1" stop-color="#1c1535"/></linearGradient></defs>
+<rect width="630" height="630" fill="url(#sky)"/>
+<g fill="#fff3d6" opacity="0.8"><circle cx="70" cy="70" r="3"/><circle cx="160" cy="40" r="2.5"/><circle cx="520" cy="60" r="3"/><circle cx="585" cy="140" r="2.5"/><circle cx="95" cy="170" r="2"/></g>
+<rect x="0" y="540" width="630" height="90" fill="url(#river)"/>
+<g stroke="#8e7cc9" stroke-width="4" stroke-linecap="round" opacity="0.6"><line x1="230" y1="572" x2="290" y2="572"/><line x1="335" y1="592" x2="405" y2="592"/><line x1="260" y1="612" x2="310" y2="612"/></g>
+<path d="M0 470 L95 470 L120 540 L132 630 L0 630 Z" fill="#150f26"/>
+<path d="M630 470 L535 470 L510 540 L498 630 L630 630 Z" fill="#150f26"/>
+<path d="M0 470 L95 470 L120 540 L0 540 Z" fill="#2a2045"/>
+<path d="M630 470 L535 470 L510 540 L630 540 Z" fill="#2a2045"/>
+<path d="M83.0 470.0 A232 232 0 0 0 97.0 390.7 L174.0 418.7 A150 150 0 0 1 165.0 470.0 Z" fill="#ff7b95" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M143.0 470.0 A172 172 0 0 0 153.4 411.2 L174.0 418.7 A150 150 0 0 1 165.0 470.0 Z" fill="#d9536f"/>
+<path d="M97.0 390.7 A232 232 0 0 0 137.3 320.9 L200.1 373.6 A150 150 0 0 1 174.0 418.7 Z" fill="#ffc857" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M153.4 411.2 A172 172 0 0 0 183.2 359.4 L200.1 373.6 A150 150 0 0 1 174.0 418.7 Z" fill="#e3a52f"/>
+<path d="M137.3 320.9 A232 232 0 0 0 199.0 269.1 L240.0 340.1 A150 150 0 0 1 200.1 373.6 Z" fill="#5fd3a5" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M183.2 359.4 A172 172 0 0 0 229.0 321.0 L240.0 340.1 A150 150 0 0 1 200.1 373.6 Z" fill="#3fae84"/>
+<path d="M199.0 269.1 A232 232 0 0 0 274.7 241.5 L289.0 322.3 A150 150 0 0 1 240.0 340.1 Z" fill="#8a80ff" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M229.0 321.0 A172 172 0 0 0 285.1 300.6 L289.0 322.3 A150 150 0 0 1 240.0 340.1 Z" fill="#665ce0"/>
+<path d="M274.7 241.5 A232 232 0 0 0 355.3 241.5 L341.0 322.3 A150 150 0 0 1 289.0 322.3 Z" fill="#120e22" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M355.3 241.5 A232 232 0 0 0 431.0 269.1 L390.0 340.1 A150 150 0 0 1 341.0 322.3 Z" fill="#8a80ff" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M344.9 300.6 A172 172 0 0 0 401.0 321.0 L390.0 340.1 A150 150 0 0 1 341.0 322.3 Z" fill="#665ce0"/>
+<path d="M431.0 269.1 A232 232 0 0 0 492.7 320.9 L429.9 373.6 A150 150 0 0 1 390.0 340.1 Z" fill="#5fd3a5" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M401.0 321.0 A172 172 0 0 0 446.8 359.4 L429.9 373.6 A150 150 0 0 1 390.0 340.1 Z" fill="#3fae84"/>
+<path d="M492.7 320.9 A232 232 0 0 0 533.0 390.7 L456.0 418.7 A150 150 0 0 1 429.9 373.6 Z" fill="#ffc857" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M446.8 359.4 A172 172 0 0 0 476.6 411.2 L456.0 418.7 A150 150 0 0 1 429.9 373.6 Z" fill="#e3a52f"/>
+<path d="M533.0 390.7 A232 232 0 0 0 547.0 470.0 L465.0 470.0 A150 150 0 0 1 456.0 418.7 Z" fill="#ff7b95" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M476.6 411.2 A172 172 0 0 0 487.0 470.0 L465.0 470.0 A150 150 0 0 1 456.0 418.7 Z" fill="#d9536f"/>
+<circle cx="315.0" cy="184.0" r="140" fill="url(#glow)"/>
+<line x1="290" y1="239.0" x2="290" y2="289.0" stroke="#ffe9a8" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+<line x1="315" y1="239.0" x2="315" y2="289.0" stroke="#ffe9a8" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+<line x1="340" y1="239.0" x2="340" y2="289.0" stroke="#ffe9a8" stroke-width="4" stroke-linecap="round" stroke-dasharray="2 12"/>
+<path d="M274.7 146.5 A232 232 0 0 0 355.3 146.5 L341.0 227.3 A150 150 0 0 1 289.0 227.3 Z" fill="#ffd56b" stroke="#120e22" stroke-width="5" stroke-linejoin="round"/>
+<path d="M285.1 205.60000000000002 A172 172 0 0 0 344.9 205.60000000000002 L341.0 227.3 A150 150 0 0 1 289.0 227.3 Z" fill="#e8ab2e"/>
+</svg>

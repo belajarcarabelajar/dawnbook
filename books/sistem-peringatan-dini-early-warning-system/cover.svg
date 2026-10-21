@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+<defs>
+<radialGradient id="bg" cx="0.5" cy="0.3" r="0.8">
+<stop offset="0" stop-color="#ffd166"/>
+<stop offset="1" stop-color="#f08c00"/>
+</radialGradient>
+<clipPath id="mast">
+<polygon points="302,232 328,232 352,505 278,505"/>
+</clipPath>
+<g id="house">
+<rect x="-17" y="-30" width="34" height="32" fill="#fff8ec"/>
+<polygon points="-23,-28 0,-50 23,-28" fill="#d62828"/>
+<rect x="-6" y="-14" width="12" height="16" fill="#1f1f24"/>
+</g>
+</defs>
+<rect width="630" height="630" fill="url(#bg)"/>
+<g fill="none" stroke="#fff8ec" stroke-width="9">
+<circle cx="315" cy="190" r="112" opacity="0.85"/>
+<circle cx="315" cy="190" r="170" opacity="0.6"/>
+<circle cx="315" cy="190" r="228" opacity="0.4"/>
+<circle cx="315" cy="190" r="286" opacity="0.22"/>
+</g>
+<path d="M0 512 Q40 497 80 512 T160 512 T240 512 T320 512 L320 630 L0 630 Z" fill="#0d5c63"/>
+<path d="M20 560 Q50 548 80 560 M150 590 Q180 578 210 590" fill="none" stroke="#3fa3a8" stroke-width="6" stroke-linecap="round"/>
+<path d="M205 630 C212 566 228 532 262 512 Q318 490 380 498 Q480 468 630 484 L630 630 Z" fill="#1f1f24"/>
+<use href="#house" x="436" y="492"/>
+<use href="#house" x="500" y="484"/>
+<use href="#house" x="566" y="484"/>
+<rect x="106" y="468" width="8" height="50" fill="#1f1f24"/>
+<circle cx="110" cy="462" r="10" fill="#d62828"/>
+<ellipse cx="110" cy="522" rx="32" ry="13" fill="#d62828"/>
+<rect x="80" y="514" width="60" height="8" fill="#fff8ec"/>
+<circle cx="315" cy="132" r="44" fill="#fff8ec" opacity="0.6"/>
+<path d="M293 150 A22 22 0 0 1 337 150 Z" fill="#d62828"/>
+<rect x="285" y="148" width="60" height="14" rx="4" fill="#1f1f24"/>
+<polygon points="302,232 328,232 352,505 278,505" fill="#1f1f24"/>
+<g clip-path="url(#mast)" fill="#d62828">
+<rect x="270" y="290" width="90" height="24"/>
+<rect x="270" y="370" width="90" height="24"/>
+<rect x="270" y="450" width="90" height="24"/>
+</g>
+<rect x="262" y="216" width="106" height="16" rx="4" fill="#1f1f24"/>
+<rect x="289" y="160" width="52" height="58" rx="10" fill="#1f1f24"/>
+<polygon points="292,176 238,152 238,228 292,204" fill="#1f1f24"/>
+<polygon points="338,176 392,152 392,228 338,204" fill="#1f1f24"/>
+<ellipse cx="238" cy="190" rx="11" ry="38" fill="#fff8ec"/>
+<ellipse cx="392" cy="190" rx="11" ry="38" fill="#fff8ec"/>
+<ellipse cx="240" cy="190" rx="5" ry="24" fill="#1f1f24"/>
+<ellipse cx="390" cy="190" rx="5" ry="24" fill="#1f1f24"/>
+</svg>

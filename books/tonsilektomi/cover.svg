@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8f7f2"/>
+      <stop offset="1" stop-color="#bfe4d9"/>
+    </linearGradient>
+    <radialGradient id="throat" cx="0.5" cy="0.45" r="0.6">
+      <stop offset="0" stop-color="#9c3a58"/>
+      <stop offset="1" stop-color="#4a1530"/>
+    </radialGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3d3a2"/>
+      <stop offset="1" stop-color="#d9ac6c"/>
+    </linearGradient>
+  </defs>
+  <rect width="630" height="630" fill="url(#bg)"/>
+  <circle cx="315" cy="340" r="262" fill="#d3eee6"/>
+  <path d="M140 600 L140 300 Q140 118 315 118 Q490 118 490 300 L490 600 Z" fill="#f2b5b2"/>
+  <path d="M188 600 L188 312 Q188 172 315 172 Q442 172 442 312 L442 600 Z" fill="url(#throat)"/>
+  <path d="M282 172 Q315 190 348 172 L336 252 Q315 292 294 252 Z" fill="#f39ea6"/>
+  <path d="M206 372 Q236 362 248 400 Q258 448 232 470 Q206 478 200 440 Q194 396 206 372 Z" fill="#ff8a99"/>
+  <path d="M424 372 Q394 362 382 400 Q372 448 398 470 Q424 478 430 440 Q436 396 424 372 Z" fill="#ff8a99"/>
+  <path d="M150 600 Q150 468 315 462 Q480 468 480 600 Z" fill="#ef7d8b"/>
+  <path d="M315 486 L315 560" stroke="#d45f70" stroke-width="7" stroke-linecap="round"/>
+  <polygon points="106,120 126,100 400,300 296,410" fill="#fff6c9" opacity="0.38"/>
+  <g transform="rotate(42 70 70)">
+    <rect x="-20" y="52" width="150" height="36" rx="18" fill="#cfd8dc"/>
+    <rect x="96" y="52" width="34" height="36" rx="10" fill="#37474f"/>
+    <rect x="-8" y="62" width="70" height="8" rx="4" fill="#eef3f5"/>
+  </g>
+  <g transform="rotate(24 304 508)">
+    <rect x="304" y="486" width="380" height="44" rx="22" fill="url(#wood)" stroke="#b98a4c" stroke-width="4"/>
+  </g>
+  <path d="M40 600 Q60 520 132 500 Q120 572 40 600 Z" fill="#2a9d8f"/>
+  <path d="M40 600 Q96 548 132 500" fill="none" stroke="#1f7a6f" stroke-width="4" stroke-linecap="round"/>
+  <path d="M92 612 Q140 560 200 566 Q170 618 92 612 Z" fill="#3fb5a5"/>
+</svg>
