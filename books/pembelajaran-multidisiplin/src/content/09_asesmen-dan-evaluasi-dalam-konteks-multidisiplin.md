@@ -99,43 +99,14 @@ Selain itu, kolaborasi tim dan produk akhir yang nyata menjadi pilar utama:
   * **Rubrik Terintegrasi**: Mengukur tingkat keselarasan ide lintas disiplin, kelayakan solusi yang ditawarkan, kedalaman analisis, serta efektivitas presentasi.
   * **Peer Assessment**: Setiap anggota kelompok menilai kontribusi satu sama lain dalam aspek kerja sama lintas disiplin.
 
-```python
-# Contoh struktur data untuk kriteria penilaian proyek multidisiplin
-project_rubric_criteria = {
-    "Integrasi Konseptual": {
-        "deskripsi": "Seberapa baik ide dari berbagai disiplin dihubungkan.",
-        "level_4": "Menggabungkan 3+ disiplin secara kohesif.",
-        "level_3": "Menggabungkan 2-3 disiplin dengan sedikit inkonsistensi.",
-        "level_2": "Disiplin terpisah dengan sedikit upaya integrasi.",
-        "level_1": "Tidak ada integrasi disiplin."
-    },
-    "Inovasi Solusi": {
-        "deskripsi": "Orisinalitas dan efektivitas solusi multidisiplin.",
-        "level_4": "Solusi sangat inovatif, realistis, dan efektif lintas disiplin.",
-        "level_3": "Solusi inovatif, namun mungkin ada keterbatasan realistis atau efektivitas.",
-        "level_2": "Solusi standar dengan sedikit inovasi.",
-        "level_1": "Solusi tidak inovatif atau tidak realistis."
-    },
-    "Kualitas Komunikasi": {
-        "deskripsi": "Kejelasan dan kemampuan untuk mengartikulasikan ide multidisiplin.",
-        "level_4": "Mengkomunikasikan ide multidisiplin dengan sangat jelas kepada audiens beragam.",
-        "level_3": "Mengkomunikasikan ide multidisiplin dengan cukup jelas.",
-        "level_2": "Komunikasi kurang jelas atau sulit dipahami audiens beragam.",
-        "level_1": "Komunikasi tidak efektif."
-    }
-}
+Sebagai gambaran, contoh rubrik asesmen proyek multidisiplin berikut hanya memperlihatkan tiga kriteria dan menjabarkannya ke dalam empat level capaian:
 
-# Fungsi untuk mencetak rubrik (ilustratif)
-def display_rubric(rubric):
-    print("--- Rubrik Asesmen Proyek Multidisiplin ---")
-    for criterion, details in rubric.items():
-        print(f"\nKriteria: {criterion} - {details['deskripsi']}")
-        print(f"  Level 4 (Sangat Baik): {details['level_4']}")
-        print(f"  Level 3 (Cukup): {details['level_3']}")
-        print(f"  Level 2 (Perlu Perbaikan): {details['level_2']}")
-        print(f"  Level 1 (Belum Tercapai): {details['level_1']}")
-
-display_rubric(project_rubric_criteria)
-```
+| Aspek | Integrasi Konseptual | Inovasi Solusi | Kualitas Komunikasi |
+| :--- | :--- | :--- | :--- |
+| **Yang dinilai** | Seberapa baik ide dari berbagai disiplin dihubungkan | Orisinalitas dan efektivitas solusi multidisiplin | Kejelasan dan kemampuan mengartikulasikan ide multidisiplin |
+| **Level 4 (Sangat Baik)** | Menggabungkan tiga disiplin atau lebih secara kohesif | Solusi sangat inovatif, realistis, dan efektif lintas disiplin | Mengomunikasikan ide multidisiplin dengan sangat jelas kepada audiens beragam |
+| **Level 3 (Cukup)** | Menggabungkan dua sampai tiga disiplin dengan sedikit inkonsistensi | Solusi inovatif, namun mungkin ada keterbatasan realistis atau efektivitas | Mengomunikasikan ide multidisiplin dengan cukup jelas |
+| **Level 2 (Perlu Perbaikan)** | Disiplin terpisah dengan sedikit upaya integrasi | Solusi standar dengan sedikit inovasi | Komunikasi kurang jelas atau sulit dipahami audiens beragam |
+| **Level 1 (Belum Tercapai)** | Tidak ada integrasi disiplin | Solusi tidak inovatif atau tidak realistis | Komunikasi tidak efektif |
 
 > Pada akhirnya, asesmen dalam pembelajaran multidisiplin bertujuan untuk melihat bagaimana peserta didik merajut berbagai utas pengetahuan menjadi satu kesatuan pemahaman yang kokoh, lalu menggunakannya untuk menghadapi kerumitan dunia nyata.

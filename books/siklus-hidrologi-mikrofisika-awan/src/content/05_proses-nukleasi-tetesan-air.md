@@ -43,6 +43,25 @@ Keterangan variabel:
 - $T$: Temperatur mutlak ($\text{K}$)
 - $r$: Jari-jari tetesan air
 
+Sebagai contoh hitungan, ambil air pada suhu $20^\circ\text{C}$ dengan nilai-nilai berikut (angka ilustrasi):
+
+| Besaran | Nilai |
+| --- | --- |
+| Tegangan permukaan ($\sigma$) | 0,0728 N/m |
+| Berat molekul air ($M$) | 0,018015 kg/mol |
+| Massa jenis air ($\rho$) | 1.000 kg/m³ |
+| Konstanta gas ideal ($R$) | 8,314 J/(mol·K) |
+| Temperatur ($T$) | 293,15 K |
+
+Dengan nilai tersebut, Persamaan Kelvin memberi hasil berikut untuk dua ukuran tetesan:
+
+| Jari-jari tetesan ($r$) | Rasio $p/p_s$ | Lewat jenuh yang dibutuhkan | Setara dengan $\text{RH}$ |
+| ---: | ---: | ---: | ---: |
+| 1 nm | 2,934 | 193,35% | ≈ 293% |
+| 100 nm | 1,011 | 1,08% | ≈ 101% |
+
+Tetesan berjari-jari 1 nm baru stabil bila tekanan uap di sekitarnya hampir tiga kali tekanan uap jenuh, sedangkan tetesan 100 nm cukup sekitar 1% di atas jenuh.
+
 > **Prinsip Utama:** Semakin kecil nilai jari-jari ($r$), semakin tinggi derajat lewat jenuh yang dibutuhkan untuk mempertahankan tetesan agar tidak menguap. Kendala fisik ini dikenal sebagai **Hambatan Nukleasi**.
 
 ### 3. Nukleasi Homogen
@@ -50,7 +69,7 @@ Keterangan variabel:
 **Nukleasi homogen** terjadi apabila molekul-molekul uap air murni saling bertabrakan dan bergabung membentuk tetesan tanpa bantuan partikel asing sebagai fondasi.
 
 - **Mekanisme:** Molekul air harus bergerak dengan energi kinetik rendah atau bertabrakan dengan frekuensi sangat tinggi agar dapat saling terikat secara spontan.
-- **Keterbatasan Fisik:** Karena embrio tetesan murni awal berukuran sangat kecil, Efek Kelvin bekerja sangat kuat. Agar tetesan murni ini tidak langsung menguap, atmosfer memerlukan kelembapan lewat jenuh sebesar 400% hingga 500% ($\text{RH} = 400\text{\%} - 500\text{\%}$).
+- **Keterbatasan Fisik:** Karena embrio tetesan murni awal berukuran sangat kecil, Efek Kelvin bekerja sangat kuat. Agar tetesan murni ini tidak langsung menguap, atmosfer memerlukan kelembapan relatif sebesar 400% hingga 500% ($\text{RH} = 400\text{\%} - 500\text{\%}$), yaitu lewat jenuh 300% hingga 400%.
 - **Kenyataan di Atmosfer:** Di atmosfer Bumi, kelembapan lewat jenuh nyata jarang sekali melebihi 1% ($\text{RH} \approx 101\text{\%}$). Oleh sebab itu, nukleasi homogen hampir tidak pernah terjadi dalam pembentukan awan alami.
 
 > **Catatan Konseptual:** Nukleasi homogen ibarat mendirikan bangunan tinggi di udara tanpa adanya fondasi dasar. Proses tersebut membutuhkan energi yang sangat besar dan kondisi yang hampir mustahil terpenuhi di alam bebas.
@@ -90,28 +109,6 @@ Prinsip nukleasi heterogen dimanfaatkan secara langsung dalam teknologi pembenih
 - **Skenario:** Suatu daerah mengalami kekeringan sementara awan yang melintas tidak kunjung menghasilkan hujan karena kekurangan inti kondensasi yang efektif.
 - **Tindakan:** Pesawat udara menyebarkan partikel **Perak Iodida** ($\text{AgI}$) atau garam higroskopis ke dalam lapisan awan.
 - **Mekanisme Kerja:** Partikel $\text{AgI}$ memiliki struktur kristal yang mirip dengan es, sehingga bertindak sebagai inti nukleasi buatan yang sangat efektif. Partikel ini memicu uap air mengembun atau membeku di permukaannya dengan cepat hingga membentuk tetesan yang cukup berat untuk jatuh sebagai presipitasi.
-
-```python
-# Simulasi Sederhana: Efek Jari-jari terhadap Supersaturasi yang Dibutuhkan (Kelvin Effect)
-import math
-
-def kelvin_supersaturation(radius_nm):
-    # Konstanta untuk air pada 20 derajat Celcius
-    sigma = 0.0728 # Tegangan permukaan (N/m)
-    M = 0.018015   # Massa molar air (kg/mol)
-    rho = 1000     # Massa jenis (kg/m3)
-    R = 8.314      # Konstanta gas (J/mol.K)
-    T = 293.15     # Temperatur (K)
-    
-    radius_m = radius_nm * 1e-9
-    exponent = (2 * sigma * M) / (rho * R * T * radius_m)
-    s_ratio = math.exp(exponent)
-    return (s_ratio - 1) * 100 # Mengembalikan persentase lewat jenuh
-
-# Contoh: Tetesan dengan jari-jari 1 nm vs 100 nm
-print(f"Supersaturasi dibutuhkan untuk r=1nm: {kelvin_supersaturation(1):.2f}%")
-print(f"Supersaturasi dibutuhkan untuk r=100nm: {kelvin_supersaturation(100):.2f}%")
-```
 
 ### Perbandingan Karakteristik Nukleasi
 

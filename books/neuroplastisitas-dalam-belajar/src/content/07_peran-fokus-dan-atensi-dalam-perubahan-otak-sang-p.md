@@ -59,21 +59,7 @@ Otak kita terus-menerus dibombardir oleh jutaan bit informasi. Mekanisme atensi 
 Bayangkan dua orang, Budi dan Siti, sedang belajar fungsi `if-else` dalam Python.
 
 - **Budi (Multitasking):** Menonton tutorial sambil sesekali membalas WhatsApp. Asetilkolinnya tersebar ke sirkuit sosial, sirkuit visual HP, dan sedikit ke sirkuit coding. Hasilnya: Tidak ada sirkuit yang mendapatkan cukup "tanda" untuk berubah secara permanen.
-- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman.
-
-**Contoh Kode yang sedang dipelajari Siti:**
-
-```python
-def check_plasticity(focus_level):
-    # Fokus di atas 80% memicu asetilkolin
-    if focus_level > 0.8:
-        return "Neuromodulators released: Synaptic change occurring."
-    else:
-        return "Noise level too high: No structural change."
-
-# Siti berada di level fokus 0.95
-print(check_plasticity(0.95))
-```
+- **Siti (Deep Work):** Mematikan ponsel, masuk ke ruangan sunyi, dan fokus penuh selama 45 menit. Asetilkolin Siti terkonsentrasi hanya pada sirkuit logika pemrograman. Hasilnya: fokus setinggi itu memicu pelepasan neuromodulator, sehingga perubahan sinaptik benar-benar terjadi.
 
 ## 6\. Latihan Mandiri untuk Meningkatkan Plastisitas
 

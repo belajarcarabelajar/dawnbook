@@ -62,31 +62,26 @@ $$
 
 ### 4. Distribusi Ukuran Aerosol
 
-Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Berikut adalah contoh program Python untuk memvisualisasikan penurunan konsentrasi partikel seiring bertambahnya ukuran.
+Dalam meteorologi komputasi, **Distribusi Junge** sering digunakan untuk memodelkan jumlah aerosol berdasarkan ukurannya. Bentuk sederhananya berupa hukum pangkat:
 
-```python
-import matplotlib.pyplot as plt
-import numpy as np
+<div>
+$$
+N = C \cdot r^{-\beta}
+$$
+</div>
 
-# Parameter Distribusi Junge sederhana
-# N = C * R^(-beta)
-radius = np.logspace(-2, 1, 100)  # dari 0.01 hingga 10 mikrometer
-C = 1e-3
-beta = 3
+Di sini $N$ adalah konsentrasi relatif partikel, $r$ adalah radius partikel dalam $\mu\text{m}$, sedangkan $C$ dan $\beta$ adalah konstanta. Dengan angka ilustrasi $C = 10^{-3}$ dan $\beta = 3$, konsentrasi turun tajam seiring bertambahnya ukuran:
 
-concentration = C * (radius**(-beta))
+| Radius partikel ($\mu\text{m}$) | Konsentrasi relatif $N$ |
+| ---: | ---: |
+| 0,01 | 1.000 |
+| 0,1 | 1 |
+| 1 | 0,001 |
+| 10 | 0,000001 |
 
-plt.figure(figsize=(8, 5))
-plt.loglog(radius, concentration, label='Distribusi Junge', color='teal')
-plt.title('Profil Distribusi Ukuran Aerosol Atmosfer')
-plt.xlabel('Radius Partikel (µm)')
-plt.ylabel('Konsentrasi Relatif (dN/dlogR)')
-plt.grid(True, which="both", ls="-", alpha=0.5)
-plt.legend()
-plt.show()
-```
+Dengan $\beta = 3$, setiap kali radius naik sepuluh kali lipat, konsentrasinya turun seribu kali lipat.
 
-*Interpretasi:* Grafik ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
+*Interpretasi:* Pola ini menunjukkan bahwa atmosfer dipenuhi oleh jutaan partikel sangat kecil (*Aitken nuclei*), namun hanya sedikit partikel berukuran besar yang tersedia. Partikel berukuran sedang hingga besar inilah yang paling sering menjadi inti kondensasi bagi pembentukan awan.
 
 ### 5. Aplikasi Dunia Nyata dan Skenario
 

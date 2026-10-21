@@ -58,40 +58,22 @@ Koefisien $\beta_1$ merepresentasikan **Tingkat Pengembalian Pribadi** (*Private
 
 Jika kamu memilih kuliah selama 4 tahun daripada langsung bekerja, kamu kehilangan potensi pendapatan selama 4 tahun tersebut. Fungsi Mincer membantu kita menghitung secara rasional apakah peninggian upah di masa depan cukup untuk mengompensasi pengorbanan pendapatan saat ini.
 
-### 4. Menghitung Bonus Pendidikan dengan Python
+### 4. Membaca Bonus Pendidikan dari Koefisien
 
-Berikut adalah contoh simulasi pengolahan data pasar kerja menggunakan metode *Ordinary Least Squares* (OLS) dalam bahasa Python untuk mengestimasi Fungsi Upah Mincer.
+Dalam riset pasar kerja, koefisien Fungsi Upah Mincer diestimasi dari data pekerja dengan metode *Ordinary Least Squares* (OLS). Untuk melihat cara membacanya, bayangkan sebuah simulasi berisi 1.000 pekerja rekaan dengan lama sekolah 6 sampai 17 tahun dan pengalaman kerja 0 sampai 39 tahun. Upah mereka dibentuk dari persamaan berikut, dengan semua angka sebagai angka ilustrasi:
 
-```python
-import numpy as np
-import pandas as pd
-import statsmodels.api as sm
+<div>
+$$
+\ln(w) = 7 + 0.12 S + 0.05 E - 0.0007 \text{E}^2 + \epsilon
+$$
+</div>
 
-# Simulasi Data: 1.000 sampel pekerja
-np.random.seed(42)
-n = 1000
-schooling = np.random.randint(6, 18, n)       # 6 s/d 18 tahun sekolah
-experience = np.random.randint(0, 40, n)      # 0 s/d 40 tahun pengalaman kerja
+Angka 7 di sini adalah konstanta $\alpha$, sedangkan galat $\epsilon$ adalah gangguan acak kecil dengan rata-rata 0 dan simpangan baku 0,1, yang mewakili faktor tak teramati seperti bakat atau keberuntungan.
 
-# Model Pendapatan: ln(w) = 7 + 0.12*S + 0.05*E - 0.0007*\text{E}^2 + error
-log_wage = 7 + 0.12 * schooling + 0.05 * experience - 0.0007 * (experience**2) + np.random.normal(0, 0.1, n)
+**Cara Membaca Koefisien Simulasi:**
 
-# Menyiapkan variabel independen (X) dan dependen (y)
-df = pd.DataFrame({'LogWage': log_wage, 'S': schooling, 'E': experience, 'E2': experience**2})
-X = df[['S', 'E', 'E2']]
-X = sm.add_constant(X)
-y = df['LogWage']
-
-# Regresi Ordinary Least Squares (OLS)
-model = sm.OLS(y, X).fit()
-
-print(model.summary())
-```
-
-**Interpretasi Hasil Estimasi:**
-
-1. **Koefisien Pendidikan ($S = 0.12$):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
-2. **Pengalaman ($E = 0.05$ & $\text{E}^2 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
+1. **Koefisien Pendidikan ($\beta_1 = 0.12$):** Setiap tambahan satu tahun sekolah memberikan kenaikan upah rata-rata sebesar 12%.
+2. **Pengalaman ($\beta_2 = 0.05$ dan $\beta_3 = -0.0007$):** Pengalaman kerja memberikan imbal hasil positif yang tinggi pada awal karier (5% per tahun), namun tingkat pertumbuhannya melambat seiring bertambahnya usia.
 
 ### 5. Aplikasi Praktis dalam Kebijakan Publik dan Manajemen SDM
 

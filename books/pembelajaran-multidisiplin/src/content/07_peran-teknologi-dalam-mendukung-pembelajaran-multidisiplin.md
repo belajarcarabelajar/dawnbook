@@ -29,36 +29,17 @@ Dalam pembelajaran lintas disiplin, visualisasi data memberikan beberapa manfaat
 
 Alat yang populer digunakan meliputi platform instan seperti **Tableau** dan **Microsoft Power BI** yang menggunakan sistem *drag-and-drop*. Untuk kebutuhan analisis kustom yang lebih mendalam, pustaka (*libraries*) pemrograman **Python** (seperti Matplotlib, Seaborn, dan Plotly) serta **D3.js** untuk web interaktif sangat sering diandalkan. Sementara itu, untuk data berbasis spasial, sistem informasi geografis seperti **ArcGIS** atau **QGIS** menjadi pilihan utama dalam bidang geografi dan perencanaan kota.
 
-Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan data hasil panen (agronomi) dan data penjualan (ekonomi) untuk melihat hubungannya dengan menggunakan Python dan Matplotlib:
+Sebagai contoh, kita bisa menggabungkan data curah hujan (meteorologi) dengan data hasil panen (agronomi) dan data penjualan (ekonomi) untuk melihat hubungannya. Berikut data contoh (fiktif) selama lima tahun:
 
-```python
-import matplotlib.pyplot as plt
-import pandas as pd
+| Tahun | Curah hujan (mm) | Hasil panen (ton) | Penjualan (juta rupiah) |
+| :--- | ---: | ---: | ---: |
+| 2018 | 1.500 | 50 | 100 |
+| 2019 | 1.200 | 40 | 80 |
+| 2020 | 1.800 | 60 | 120 |
+| 2021 | 1.300 | 45 | 90 |
+| 2022 | 1.600 | 55 | 110 |
 
-# Data contoh (fiktif)
-data = {
-    'Tahun': [2018, 2019, 2020, 2021, 2022],
-    'Curah_Hujan_mm': [1500, 1200, 1800, 1300, 1600],
-    'Hasil_Panen_Ton': [50, 40, 60, 45, 55],
-    'Penjualan_JutaIDR': [100, 80, 120, 90, 110]
-}
-
-df = pd.DataFrame(data)
-
-plt.figure(figsize=(10, 6))
-plt.plot(df['Tahun'], df['Curah_Hujan_mm'], marker='o', label='Curah Hujan (mm)')
-plt.plot(df['Tahun'], df['Hasil_Panen_Ton'] * 10, marker='x', label='Hasil Panen (Ton x10)') # Skala agar terlihat
-plt.plot(df['Tahun'], df['Penjualan_JutaIDR'], marker='s', label='Penjualan (Juta IDR)')
-
-plt.title('Korelasi Curah Hujan, Hasil Panen, dan Penjualan')
-plt.xlabel('Tahun')
-plt.ylabel('Nilai')
-plt.legend()
-plt.grid(True)
-plt.show()
-```
-
-Melalui visualisasi terintegrasi ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
+Jika ketiga deret ini digambar sebagai grafik garis dalam satu bidang, terlihat bahwa ketiganya naik dan turun pada tahun yang sama: paling rendah pada 2019 dan paling tinggi pada 2020. Melalui visualisasi terintegrasi seperti ini, seorang ekonom dan agronom dapat berkolaborasi lebih erat untuk mengambil keputusan berbasis data yang akurat.
 
 ### Simulasi Interaktif
 
@@ -104,30 +85,19 @@ Dalam ekosistem multidisiplin, penerapan AI dapat dirangkum ke dalam beberapa fu
 - **Analisis Data Lintas Bidang:** Menggunakan algoritma *machine learning* untuk mendeteksi pola pada data heterogen skala besar.
 - **Personalisasi Jalur Belajar:** Menyesuaikan materi dan tantangan berdasarkan tingkat pemahaman individu kamu.
 
-Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar untuk mengidentifikasi istilah kunci dari dua bidang berbeda:
+Mari kita lihat contoh sederhana bagaimana AI menggunakan pemrosesan teks dasar untuk mengidentifikasi istilah kunci dari dua bidang berbeda. Penyaringannya berjalan dalam empat langkah:
 
-```python
-# Konsep dasar pemrosesan teks untuk mengidentifikasi istilah kunci
-def extract_keywords(text):
-    common_words = {"dan", "atau", "yang", "di", "ke", "untuk", "dari", "dalam", "ini"}
-    words = text.lower().replace('.', '').replace(',', '').split()
-    keywords = [word for word in words if word not in common_words and len(word) > 3]
-    return list(set(keywords))
+1. Ubah semua huruf menjadi huruf kecil, lalu buang tanda titik dan koma.
+2. Pecah kalimat menjadi kata-kata.
+3. Buang kata umum (*dan, atau, yang, di, ke, untuk, dari, dalam, ini*) serta kata yang panjangnya tiga huruf atau kurang.
+4. Bandingkan kedua daftar kata kunci untuk mencari kata yang muncul di keduanya sebagai calon konsep yang bisa diintegrasikan.
 
-bio_text = "Penelitian ini mengeksplorasi struktur protein dan fungsi genetik dalam sel organisme."
-material_text = "Pengembangan material komposit baru melibatkan nanoteknologi dan sifat mekanik polimer."
+| Bidang | Kalimat contoh | Kata kunci setelah disaring |
+| :--- | :--- | :--- |
+| Biologi | "Penelitian ini mengeksplorasi struktur protein dan fungsi genetik dalam sel organisme." | penelitian, mengeksplorasi, struktur, protein, fungsi, genetik, organisme |
+| Ilmu material | "Pengembangan material komposit baru melibatkan nanoteknologi dan sifat mekanik polimer." | pengembangan, material, komposit, baru, melibatkan, nanoteknologi, sifat, mekanik, polimer |
+| Muncul di keduanya | - | tidak ada |
 
-bio_keywords = extract_keywords(bio_text)
-material_keywords = extract_keywords(material_text)
-
-print(f"Kata kunci Biologi: {bio_keywords}")
-print(f"Kata kunci Material: {material_keywords}")
-
-# Mencari potensi hubungan (sederhana)
-common_concepts = set(bio_keywords).intersection(set(material_keywords))
-print(f"Konsep umum yang mungkin terintegrasi: {common_concepts}")
-```
-
-Contoh di atas menggambarkan bagaimana proses sederhana penyaringan istilah dapat membantu mendeteksi titik temu awal antara biologi dan ilmu material. Tentu saja, sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
+Hasil langkah terakhir justru kosong: tidak ada satu kata pun yang sama di kedua daftar. Dalam contoh ini, penyaringan istilah yang sesederhana ini belum menemukan titik temu antara biologi dan ilmu material. Sistem AI yang matang akan menggunakan pemahaman semantik yang jauh lebih dalam untuk memetakan hubungan tersebut secara otomatis.
 
 Dalam skala yang lebih luas, teknologi seperti **IBM Watson Health** telah menggunakan AI untuk menyintesis data klinis dengan literatur riset medis guna memandu dokter mengambil tindakan medis. Demikian pula dengan platform pembelajaran modern yang memanfaatkan AI untuk memetakan minat dan menyusun rekomendasi mata kuliah yang saling melengkapi bagi penggunanya.

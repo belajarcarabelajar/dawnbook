@@ -102,41 +102,37 @@ Apabila nilai $\text{Net Gain} > 0$, keputusan migrasi secara ekonomis merupakan
 
 ### Simulasi ROI Investasi Modal Manusia
 
-Berikut adalah model simulasi perhitungan sederhana untuk mengevaluasi kelayakan finansial investasi sertifikasi keterampilan (*Return on Investment* / ROI):
+Berikut adalah contoh perhitungan sederhana untuk mengevaluasi kelayakan finansial investasi sertifikasi keterampilan (*Return on Investment* / ROI):
 
 #### Sertifikasi Advanced AI bagi Seorang Analis Data
 Seorang analis data merencanakan sertifikasi *Advanced AI* seharga Rp15.000.000 dengan durasi pelatihan 3 bulan. Pasca sertifikasi, proyeksi peningkatan gaji tercatat sebesar Rp2.000.000 per bulan.
 
-```python
-def hitung_roi_modal_manusia(biaya_pelatihan: float, kenaikan_gaji_per_bulan: float, durasi_proyeksi_bulan: int):
-    """
-    Menghitung Break-Even Point (BEP) dan Return on Investment (ROI)
-    dari investasi modal manusia.
-    """
-    # Menghitung durasi pengembalian modal (Break-Even Point dalam bulan)
-    bulan_kembali_modal = biaya_pelatihan / kenaikan_gaji_per_bulan
-    
-    # Menghitung akumulasi kenaikan gaji dalam durasi proyeksi (misal: 36 bulan / 3 tahun)
-    total_kenaikan_pendapatan = kenaikan_gaji_per_bulan * durasi_proyeksi_bulan
-    
-    # Menghitung persentase Return on Investment (ROI)
-    roi_persen = ((total_kenaikan_pendapatan - biaya_pelatihan) / biaya_pelatihan) * 100
-    
-    return bulan_kembali_modal, roi_persen
+Kelayakan investasi ini diukur dengan dua rumus. *Break-Even Point* (BEP) menunjukkan berapa bulan kenaikan gaji dibutuhkan untuk menutup biaya pelatihan:
 
-# Parameter Simulasi
-biaya_investasi = 15000000.0
-proyeksi_kenaikan = 2000000.0
-periode_bulan = 36
+<div>
+$$
+\text{BEP} = \frac{\text{Biaya Pelatihan}}{\text{Kenaikan Gaji per Bulan}}
+$$
+</div>
 
-bep_bulan, nilai_roi = hitung_roi_modal_manusia(biaya_investasi, proyeksi_kenaikan, periode_bulan)
+ROI membandingkan total kenaikan gaji selama periode proyeksi, di sini 36 bulan (3 tahun), dengan biaya pelatihan:
 
-print(f"Break-Even Point: {bep_bulan:.1f} bulan")
-print(f"ROI Bersih (3 Tahun): {nilai_roi:.1f}%")
-```
+<div>
+$$
+\text{ROI} = \frac{\text{Total Kenaikan Gaji} - \text{Biaya Pelatihan}}{\text{Biaya Pelatihan}} \times 100 \text{\%}
+$$
+</div>
 
-**Analisis Hasil Simulasi:**
-Berdasarkan kalkulasi di atas, modal investasi dapat kembali (*Break-Even Point*) dalam kurun 7,5 bulan, dengan akumulasi ROI mencapai 380% dalam 3 tahun. Tingkat imbal hasil (*Rate of Return*) ini melampaui sebagian besar instrumen pasar keuangan konvensional, menegaskan bahwa investasi pada pengembangan diri merupakan langkah ekonomi yang rasional.
+| Komponen | Perhitungan | Hasil |
+| :--- | :--- | :--- |
+| Biaya pelatihan | - | Rp15.000.000 |
+| Kenaikan gaji per bulan | - | Rp2.000.000 |
+| Total kenaikan gaji selama 36 bulan | 36 × Rp2.000.000 | Rp72.000.000 |
+| BEP | Rp15.000.000 ÷ Rp2.000.000 | 7,5 bulan |
+| ROI bersih 3 tahun | (Rp72.000.000 - Rp15.000.000) ÷ Rp15.000.000 × 100% | 380% |
+
+**Analisis Hasil Perhitungan:**
+Berdasarkan perhitungan tersebut, modal investasi dapat kembali (*Break-Even Point*) dalam kurun 7,5 bulan, dengan akumulasi ROI mencapai 380% dalam 3 tahun. Tingkat imbal hasil (*Rate of Return*) ini melampaui sebagian besar instrumen pasar keuangan konvensional, menegaskan bahwa investasi pada pengembangan diri merupakan langkah ekonomi yang rasional.
 
 ---
 

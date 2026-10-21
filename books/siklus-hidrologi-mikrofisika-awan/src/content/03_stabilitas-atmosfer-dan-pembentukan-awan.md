@@ -85,7 +85,7 @@ Ketinggian di mana dasar awan mulai terbentuk dinamakan **Lifting Condensation L
 
 ---
 
-### 5. Aplikasi Praktis dan Simulasi Sederhana
+### 5. Memperkirakan Ketinggian Dasar Awan
 
 Dalam meteorologi terapan dan teknik penerbangan, perhitungan ketinggian $\text{LCL}$ digunakan untuk memprediksi ketinggian dasar awan serta potensi cuaca buruk.
 
@@ -101,25 +101,7 @@ $$h_{\text{LCL}} \approx 125 \times (T - T_d)$$
 
 *Keterangan: $T$ merupakan suhu udara permukaan ($^\circ\text{C}$) dan $T_d$ merupakan titik embun permukaan ($^\circ\text{C}$).*
 
-#### Estimasi Dasar Awan dengan Python
-
-```python
-def estimate_cloud_base(temp, dew_point):
-    """
-    Menghitung estimasi ketinggian dasar awan (LCL) 
-    berdasarkan suhu permukaan dan titik embun.
-    """
-    if temp < dew_point:
-        return "Suhu tidak boleh lebih rendah dari titik embun."
-    
-    # Rumus pendekatan Espy: (T - Td) * 125
-    lcl_height = (temp - dew_point) * 125
-    return lcl_height
-
-# Skenario: Suhu permukaan 30°C, Titik Embun 22°C
-height = estimate_cloud_base(30, 22)
-print(f"Estimasi ketinggian dasar awan: {height} meter di atas permukaan laut.")
-```
+Sebagai contoh, pada suhu permukaan $30^\circ\text{C}$ dan titik embun $22^\circ\text{C}$, dasar awan diperkirakan berada sekitar $125 \times (30 - 22) = 1.000$ meter di atas permukaan tanah. Perkiraan ini hanya bermakna bila suhu udara tidak lebih rendah dari titik embunnya.
 
 ---
 

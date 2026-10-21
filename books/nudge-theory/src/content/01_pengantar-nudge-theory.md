@@ -46,23 +46,19 @@ Dalam dunia digital, arsitektur pilihan disebut juga sebagai *Digital Nudging*. 
 - **E-commerce**: Menggunakan label psikologis seperti "Terlaris" atau tanda urgensi "Hanya sisa 2 barang lagi!" untuk memicu transaksi yang lebih cepat.
 - **Langganan Buletin**: Saat mendaftarkan akun baru, kotak persetujuan buletin sudah tercentang sejak awal (*pre-checked*).
 
-#### Contoh Implementasi Digital (Code Snippet)
+#### Dialog Berhenti Berlangganan
 
-Dalam pengembangan web, seorang *front-end developer* bertindak sebagai arsitek pilihan melalui urutan elemen. Perhatikan bagaimana perbedaan posisi tombol dapat memengaruhi keputusan pengguna:
+Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Perhatikan dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
 
-```html
-<!-- Arsitektur Pilihan yang mendorong pembatalan (fokus pada retensi) -->
-<div class="subscription-modal">
-  <h3>Yakin ingin berhenti berlangganan?</h3>
-  <p>Kamu akan kehilangan akses ke konten eksklusif kami.</p>
-  
-  <!-- Tombol utama (Primary) dibuat lebih menonjol untuk pilihan yang diinginkan bisnis -->
-  <button class="btn-keep">TETAP BERLANGGANAN (Direkomendasikan)</button>
-  
-  <!-- Tombol untuk berhenti dibuat kurang menonjol (Secondary) -->
-  <a href="/cancel" class="link-cancel">Saya ingin tetap berhenti</a>
-</div>
-```
+> **Yakin ingin berhenti berlangganan?**
+>
+> Kamu akan kehilangan akses ke konten eksklusif kami.
+>
+> **[ TETAP BERLANGGANAN (Direkomendasikan) ]**
+>
+> Saya ingin tetap berhenti
+
+Kedua pilihan tetap tersedia, tetapi bobotnya tidak seimbang. Pilihan yang diinginkan bisnis tampil sebagai tombol utama yang dibuat lebih menonjol dan diberi label "Direkomendasikan", sedangkan pilihan untuk berhenti hanya berupa tautan teks yang dibuat kurang menonjol.
 
 ## Tidak Ada Desain yang Netral
 

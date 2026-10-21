@@ -75,24 +75,7 @@ Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging* -
 1. **Ganti Alat:** Paksa diri menggunakan *Debugger Tools* profesional atau melakukan *Rubber Ducking*.
 2. **Analisis Error Secara Mendalam:** Saat menemukan *bug*, jangan langsung memperbaikinya. Tanyakan: *"Mengapa asumsi saya salah?"*
 3. **Time Pressure:** Beri batasan waktu yang ketat untuk menemukan masalah. Tekanan ini melepaskan neurokimia yang meningkatkan plastisitas.
-```python
-# Contoh latihan untuk mendobrak plateau dalam logika pemrograman
-# Bukannya menulis fungsi yang sudah biasa, cobalah menulis fungsi 
-# yang sama dengan batasan (constraint) baru.
-
-# Biasa:
-def hitung_vokal(teks):
-    count = 0
-    for char in teks:
-        if char in "aeiou":
-            count += 1
-    return count
-
-# Tantangan (Mendorong Plastisitas):
-# Hitung vokal tanpa menggunakan 'if' atau 'for loop' (gunakan functional programming)
-def hitung_vokal_v2(teks):
-    return len(list(filter(lambda x: x in "aeiou", teks)))
-```
+4. **Tambah Batasan Baru:** Jangan hanya menulis ulang program yang sudah biasa dibuat. Tulis program yang sama dengan batasan (*constraint*) baru. Misalnya, program penghitung huruf vokal yang biasanya memakai percabangan `if` dan perulangan `for` ditulis ulang tanpa keduanya.
 
 ## 6\. Ringkasan Strategi untuk Pembelajar
 

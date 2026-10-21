@@ -46,30 +46,9 @@ Ketika kita mempelajari keterampilan baru secara intensif, otak melakukan **reor
 
 **Contoh Kasus:** Pada pemain instrumen musik gesek (seperti biola), area di korteks motorik yang mengontrol jari-jari tangan kiri (yang menekan senar) terbukti lebih luas dan lebih kompleks dibandingkan dengan orang yang tidak bermain musik. Otak secara fisik menjajah ruang lebih banyak untuk mendukung kebutuhan aktivitas tersebut.
 
-### Algoritma Sederhana Pembentukan Jalur
+### Kapan Sebuah Jalur Saraf Bertahan?
 
-Jika kita melihatnya dari sudut pandang logika pemrograman, pembentukan jalur saraf mengikuti pola berikut:
-
-```python
-def learn_new_skill(repetition_count, focus_level):
-    synaptic_strength = 0
-    myelin_density = 0
-    
-    while repetition_count > 0:
-        # Semakin fokus, semakin besar penguatan sinapsis
-        synaptic_strength += (1 * focus_level)
-        
-        # Pengulangan konsisten membangun lapisan myelin
-        if repetition_count % 10 == 0:
-            myelin_density += 1
-            
-        repetition_count -= 1
-        
-    if synaptic_strength > threshold:
-        return "Jalur Saraf Terbentuk (Long-Term Potentiation)"
-    else:
-        return "Jalur Lemah (Rentan Pruning)"
-```
+Dalam gambaran yang disederhanakan, setiap pengulangan memperkuat sinapsis, dan penguatannya makin besar ketika kamu benar-benar fokus. Pengulangan yang konsisten juga menebalkan lapisan myelin pada jalur tersebut. Jalur saraf dianggap terbentuk dan bertahan bila penguatannya melewati semacam ambang, proses yang dikenal sebagai *Long-Term Potentiation* (LTP). Kalau belum melewati ambang itu, jalurnya tetap lemah dan rentan ikut dipangkas.
 
 ### Bagaimana Mempercepat Pembentukan Jalur Saraf?
 

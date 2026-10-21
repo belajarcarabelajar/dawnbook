@@ -102,31 +102,17 @@ Misalkan kita memiliki isotop **Iodium-131** (pemancar beta yang digunakan dalam
 3. $A = 400 \times (\frac{1}{2})^3$
 4. $A = 400 \times \frac{1}{8} = 50 \text{ MBq}$
 
-### 6. Implementasi Kode (Python)
+### 6. Sisa Karbon-14 setelah Dua Waktu Paruh
 
-Bagi pemelajar yang belajar secara kinestetik melalui pemrograman, berikut adalah cuplikan kode sederhana untuk memvisualisasikan penurunan jumlah atom akibat peluruhan beta:
+Rumus eksponensial $N(t) = N_0 e^{-\lambda t}$ memberi hasil yang sama dengan cara menghitung jumlah waktu paruh. Ambil contoh Karbon-14 dengan waktu paruh sekitar 5.730 tahun, sampel awal 1.000 atom (angka ilustrasi), dan lama peluruhan 11.460 tahun, tepat dua kali waktu paruh.
 
-```python
-import numpy as np
+| Langkah | Perhitungan | Hasil |
+| --- | --- | --- |
+| Konstanta peluruhan | $\lambda = \frac{\ln 2}{5730}$ | sekitar 0,000121 per tahun |
+| Eksponen | $\lambda t = \frac{\ln 2}{5730} \times 11460$ | $2 \ln 2$ |
+| Sisa inti | $N = 1000 \times e^{-2 \ln 2} = 1000 \times \frac{1}{4}$ | 250 atom |
 
-def hitung_sisa_inti(N0, waktu_paruh, durasi):
-    # Konstanta peluruhan (lambda)
-    lam = 0.693 / waktu_paruh
-    
-    # Menghitung sisa inti menggunakan rumus eksponensial
-    Nt = N0 * np.exp(-lam * durasi)
-    
-    return Nt
-
-# Parameter Contoh: Karbon-14 (Waktu paruh ~5730 tahun)
-N_awal = 1000  # Persentase atau jumlah atom
-t_paruh = 5730 
-t_simulasi = 11460 # Tepat 2 kali waktu paruh
-
-sisa = hitung_sisa_inti(N_awal, t_paruh, t_simulasi)
-print(f"Setelah {t_simulasi} tahun, sisa atom: {sisa:.2f}")
-# Output yang diharapkan: 250.00
-```
+Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian 5. Kalau $\ln 2$ dibulatkan menjadi 0,693, hasilnya sekitar 250,07; selisih kecil itu hanya akibat pembulatan.
 
 ### 7. Mengapa Laju Peluruhan Perlu Dihitung?
 

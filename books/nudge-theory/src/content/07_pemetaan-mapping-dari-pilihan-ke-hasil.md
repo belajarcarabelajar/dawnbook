@@ -65,24 +65,27 @@ Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat pentin
 - **Mapping yang Baik:** Layar menunjukkan "Baterai cukup untuk 42 km lagi, sementara stasiun pengisian terdekat berjarak 12 km."
 - **Mapping yang Luar Biasa:** Sistem navigasi langsung mendeteksi rute perjalananmu. Jika tujuan melampaui sisa baterai, sistem otomatis menjadwalkan perhentian di stasiun pengisian daya terdekat lengkap dengan estimasi durasi pengisiannya.
 
-#### Contoh Implementasi Sederhana (Pseudo-code untuk Aplikasi Keuangan)
+### Kopi Harian yang Dipetakan Menjadi Tabungan
 
-Berikut adalah logika sederhana bagaimana sebuah aplikasi dapat memetakan pengeluaran kopi harian menjadi tabungan masa depan:
+Aplikasi keuangan dapat memetakan pengeluaran kecil sehari-hari menjadi tabungan masa depan. Misalnya, uang kopi harian dijumlahkan menjadi tabungan setahun ($A$), disetor setiap awal tahun, lalu dibungakan sebesar $r$ per tahun selama $n$ tahun:
 
-```python
-def map_coffee_to_savings(daily_coffee_price, years):
-    annual_savings = daily_coffee_price * 365
-    interest_rate = 0.06
-    total_future_value = 0
-    
-    for year in range(1, years + 1):
-        total_future_value = (total_future_value + annual_savings) * (1 + interest_rate)
-    
-    return f"Berhenti membeli kopi seharga {daily_coffee_price} setiap hari akan memberikanmu Rp {total_future_value:,.0f} dalam {years} tahun."
-```
+<div>
+$$
+\text{Total} = A \times \frac{(1 + r)^n - 1}{r} \times (1 + r)
+$$
+</div>
 
-Jika fungsi tersebut dijalankan dengan parameter kopi seharga Rp40.000 selama 20 tahun, output yang dihasilkan adalah:
-"Berhenti membeli kopi seharga 40.000 setiap hari akan memberikanmu Rp 1,077,322,667 dalam 20 tahun."
+Dengan kopi seharga Rp40.000 per hari selama 20 tahun, hitungannya menjadi seperti ini:
+
+| Data yang dipakai dan hasilnya | Nilai |
+| --- | --- |
+| Harga kopi per hari | Rp40.000 |
+| Tabungan per tahun ($A$) | Rp40.000 × 365 = Rp14.600.000 |
+| Bunga per tahun ($r$, angka ilustrasi) | 6% |
+| Lama menabung ($n$) | 20 tahun |
+| Nilai tabungan setelah 20 tahun | sekitar Rp569.293.809 |
+
+Dari hasil itu, aplikasi bisa menampilkan kalimat yang langsung terasa: *"Berhenti membeli kopi seharga Rp40.000 setiap hari akan memberikanmu sekitar Rp569 juta dalam 20 tahun."*
 
 ### Mengapa Ini Penting?
 

@@ -37,7 +37,7 @@ Pikirkan panel relief ini seperti sebuah **Strip Komik** modern.
 
 ### 3. Logika "Jika-Maka" dalam Relief
 
-Secara teknis, setiap panel mengikuti logika algoritma sederhana yang bisa kita representasikan secara matematis atau dalam bahasa pemrograman sederhana untuk memudahkan pemahaman.
+Secara teknis, setiap panel mengikuti logika sebab-akibat sederhana yang bisa kita representasikan secara matematis atau sebagai percabangan untuk memudahkan pemahaman.
 
 **Rumus Karma dalam Relief:**
 
@@ -49,25 +49,7 @@ $$
 \text{Karma} \times \text{Keadaan} = \text{Vipaka (Buah)}
 $$
 
-Jika kita menggunakan logika pemrograman (Pseudo-code), strukturnya akan tampak seperti ini:
-
-```python
-# Logika Pembacaan Relief Karmawibhangga
-def baca_relief(panel):
-    aksi_manusia = panel.sisi_kiri
-    konsekuensi = panel.sisi_kanan
-    
-    if aksi_manusia == "Kebajikan":
-        return print(f"Hasil di sisi kanan: {konsekuensi} (Surga/Kebahagiaan)")
-    elif aksi_manusia == "Kejahatan":
-        return print(f"Hasil di sisi kanan: {konsekuensi} (Neraka/Penderitaan)")
-
-# Contoh Kasus: Panel 10
-baca_relief("Memberi makan hewan lapar") 
-# Output: Terlahir di alam yang berkelimpahan
-```
-
-Percabangan dalam pseudo-code itu dapat kamu baca sebagai panduan sederhana berikut.
+Dalam bentuk percabangan, logika jika-maka itu dapat kamu baca sebagai panduan sederhana berikut: bila aksi manusia di sisi kiri panel berupa kebajikan, sisi kanan menunjukkan surga atau kebahagiaan; bila berupa kejahatan, sisi kanan menunjukkan neraka atau penderitaan.
 
 ```mermaid
 flowchart TD

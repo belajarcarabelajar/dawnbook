@@ -44,39 +44,28 @@ Dalam rekayasa perangkat lunak dan desain UI/UX, umpan balik berperan mencegah k
 
 Tanpa umpan balik ini, pengguna cenderung memilih kata sandi sederhana seperti `123456`. Keberadaan indikator visual langsung mendorong mereka untuk merancang kombinasi karakter yang lebih aman.
 
-### Contoh Kode Visual Feedback untuk Keamanan
+### Cara Indikator Menilai Kata Sandi
 
-Berikut adalah cuplikan kode sederhana tentang bagaimana memberikan umpan balik visual secara langsung kepada pengguna:
+Indikator sederhana bisa memberi satu poin untuk setiap syarat yang dipenuhi kata sandi:
 
-```javascript
-// Logika sederhana untuk memberikan feedback kekuatan password
-function checkPasswordStrength(password) {
-    let strength = 0;
-    if (password.length > 8) strength++;
-    if (/[A-Z]/.test(password)) strength++;
-    if (/[0-9]/.test(password)) strength++;
-    if (/[^A-Za-z0-9]/.test(password)) strength++;
+1. Panjangnya lebih dari 8 karakter.
+2. Memuat huruf besar.
+3. Memuat angka.
+4. Memuat simbol (karakter selain huruf dan angka).
 
-    return strength; // Mengembalikan nilai 0-4
-}
+Setiap kali pengguna mengetik satu karakter, total poinnya (0 sampai 4) langsung diterjemahkan menjadi label dan warna:
 
-// Memberikan feedback visual ke UI
-passwordInput.addEventListener('input', (e) => {
-    const score = checkPasswordStrength(e.target.value);
-    const feedbackText = ["Sangat Lemah", "Lemah", "Cukup", "Kuat", "Sangat Aman"];
-    const colors = ["#ff4d4d", "#ffa64d", "#ffff4d", "#a6ff4d", "#4dff4d"];
+| Poin | Label kekuatan | Warna label |
+| --- | --- | --- |
+| 0 | Sangat Lemah | Merah |
+| 1 | Lemah | Jingga |
+| 2 | Cukup | Kuning |
+| 3 | Kuat | Hijau muda |
+| 4 | Sangat Aman | Hijau |
 
-    strengthIndicator.innerText = `Kekuatan: ${feedbackText[score]}`;
-    strengthIndicator.style.color = colors[score];
-    
-    // Nudge: Jika masih lemah, berikan instruksi tambahan
-    if (score < 3) {
-        hintText.innerText = "Tips: Tambahkan simbol atau angka agar lebih aman.";
-    } else {
-        hintText.innerText = "Kerja bagus! Kata sandi kamu sulit ditebak.";
-    }
-});
-```
+Sebagai *nudge*, pesan petunjuk ikut muncul. Jika poinnya kurang dari 3, pengguna melihat "Tips: Tambahkan simbol atau angka agar lebih aman." Jika 3 atau lebih, muncul "Kerja bagus! Kata sandi kamu sulit ditebak."
+
+Kata sandi `123456`, misalnya, hanya mendapat 1 poin (dari angka), sehingga pengguna langsung melihat label "Lemah" berwarna jingga beserta petunjuk untuk memperbaikinya.
 
 ## 5\. Penerapan di Dunia Nyata
 

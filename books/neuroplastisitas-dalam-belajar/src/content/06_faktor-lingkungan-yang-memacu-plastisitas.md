@@ -62,22 +62,9 @@ kamu tidak perlu pindah ke luar negeri untuk mendapatkan manfaat ini. kamu dapat
 2. **Multisensory Learning:** Integrasikan berbagai indra. Jika belajar sejarah, jangan hanya membaca (visual). Dengarkan podcast terkait (auditori) atau buat model fisik/peta pikiran manual (kinestetik).
 3. **Paparan Sosial yang Beragam:** Bergabunglah dengan komunitas atau diskusi yang memiliki sudut pandang berbeda dari kamu. Ini memaksa otak untuk melakukan fleksibilitas kognitif.
 
-### Optimasi Tempat Kerja Teknik
+### Lingkungan Statis vs. Lingkungan Dinamis
 
-```python
-# Analogi sederhana: Lingkungan Statis vs Dinamis dalam Kode
-def brain_growth(environment):
-    if environment == "Static/Routine":
-        return "Pruning (Pengurangan koneksi yang tidak dipakai)"
-    elif environment == "Enriched/Dynamic":
-        return "Synaptogenesis (Pembentukan koneksi baru)"
-
-# Lingkungan rutin: output tetap
-print(brain_growth("Static/Routine")) 
-
-# Lingkungan kaya stimulasi: output berkembang
-print(brain_growth("Enriched/Dynamic"))
-```
+Perbandingan sederhananya begini. Di lingkungan yang statis dan penuh rutinitas, koneksi saraf yang tidak dipakai berkurang lewat pemangkasan (*pruning*). Di lingkungan yang dinamis dan kaya stimulasi, otak justru membentuk koneksi baru (*synaptogenesis*).
 
 ## 5\. Ringkasan Real-World Application
 

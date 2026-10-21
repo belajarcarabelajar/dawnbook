@@ -35,7 +35,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 1. **Membuat Hipotesis dan Rancangan Eksperimen:**
 	- Sebelum mulai praktik, tanyakan hal ini: "Faktor apa saja yang memengaruhi eksperimen ini?" dan "Bagaimana cara saya mengukurnya?".
 		- Buat daftar langkah kerjanya dan bayangkan seperti apa hasil akhirnya nanti.
-		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang and gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
+		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang dan gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
 2. **Menganalisis dan Membaca Data:**
 	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
@@ -47,20 +47,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 		- **Mengecek baris:** Coba bayangkan dan jalankan logika kodenya baris demi baris di kepalamu.
 				- **Memasang penanda:** Taruh `print()` atau `console.log()` di beberapa titik buat melihat apakah nilainya sesuai ekspektasi.
 				- **Membandingkan output:** Cari tahu mulai dari baris mana output programnya mulai menyimpang.
-		- **Contoh sederhana di Python:**
-		```python
-		def calculate_average(numbers):
-		    total = 0
-		    for num in numbers:
-		        total += num
-		    
-		    return total / len(numbers)
-		
-		my_list = [10, 20, 30, 40]
-		average = calculate_average(my_list)
-		print(f"Average: {average}")
-		```
-		Misalkan hasilnya meleset. Kamu tidak perlu langsung pusing. Tambahkan fungsi `print` buat mengecek isi variabel `total` dan seberapa panjang list `numbers` tersebut, lalu pelan-pelan perbaiki bagian yang keliru.
+		- **Contoh di Pemrograman:** Misalkan program yang menghitung rata-rata dari sekumpulan angka memberi hasil yang meleset. Kamu tidak perlu langsung pusing. Pasang penanda untuk mengecek jumlah total yang terkumpul dan berapa banyak angka yang ikut dihitung, lalu pelan-pelan perbaiki bagian yang keliru.
 
 ### Memahami Bahasa dan Teks Bacaan
 

@@ -24,31 +24,15 @@ Salah satu aplikasi paling nyata dari neuroplastisitas di masa depan adalah **Ad
 
 Dalam konteks teknis, kita bisa melihat ini sebagai fungsi optimasi untuk menjaga siswa tetap dalam **Zone of Proximal Development** (ZPD), di mana tantangan cukup sulit untuk memicu plastisitas, tetapi tidak terlalu sulit hingga menyebabkan stres kronis yang menghambat sinapsis.
 
-### Contoh Logika Algoritma Pembelajaran Adaptif
+### Cara Sistem Adaptif Mengatur Beban Belajar
 
-Berikut adalah representasi sederhana bagaimana sistem masa depan mungkin menyesuaikan beban kognitif berdasarkan performa untuk mengoptimalkan plastisitas:
+Bayangkan sistem masa depan menilai dua hal pada seorang siswa, yaitu skor performanya dan indeks kelelahan otaknya, lalu menyesuaikan tingkat kesulitan materi agar kesiapan sinapsis (*synaptic priming*) tetap optimal. Aturannya mungkin seperti tabel berikut. Semua ambang dan pengalinya adalah angka ilustrasi.
 
-```python
-def adjust_learning_load(current_performance, brain_fatigue_index):
-    """
-    Menyesuaikan kesulitan materi berdasarkan performa dan indeks kelelahan.
-    Tujuannya: Menjaga 'Synaptic Priming' tetap optimal.
-    """
-    base_difficulty = 1.0
-    
-    if current_performance > 0.85 and brain_fatigue_index < 0.3:
-        # Memicu neuroplastisitas dengan tantangan baru (Challenge Mode)
-        new_difficulty = base_difficulty * 1.2
-        print("Meningkatkan kompleksitas untuk stimulasi sinaptik.")
-    elif brain_fatigue_index > 0.7:
-        # Memberikan ruang untuk konsolidasi memori (Recovery Mode)
-        new_difficulty = base_difficulty * 0.5
-        print("Mengalihkan ke pengulangan ringan untuk konsolidasi.")
-    else:
-        new_difficulty = base_difficulty
-        
-    return new_difficulty
-```
+| Kondisi siswa | Tindakan sistem | Tingkat kesulitan materi |
+| --- | --- | --- |
+| Performa di atas 0,85 dan indeks kelelahan di bawah 0,3 | **Challenge Mode:** menambah kompleksitas agar tantangan baru menstimulasi sinapsis | Naik menjadi 1,2 kali semula |
+| Indeks kelelahan di atas 0,7, setinggi apa pun performanya | **Recovery Mode:** beralih ke pengulangan ringan agar memori sempat terkonsolidasi | Turun menjadi 0,5 kali semula |
+| Kondisi lainnya | Tidak mengubah apa pun | Tetap seperti semula |
 
 ## 3\. Guru sebagai "Neuro-Architect"
 
