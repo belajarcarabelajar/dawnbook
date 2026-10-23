@@ -1,0 +1,16 @@
+# Summary
+
+- [Ladang Warisan yang Penuh Batu](content/01_ladang-warisan-yang-penuh-batu.md)
+- [Stamina Bukan Sumber Daya Tak Terbatas](content/02_stamina-bukan-sumber-daya-tak-terbatas.md)
+- [Urutan Kerja yang Menghemat Waktu](content/03_urutan-kerja-yang-menghemat-waktu.md)
+- [Benih yang Sesuai dengan Musimnya](content/04_benih-yang-sesuai-dengan-musimnya.md)
+- [Rezeki Kecil Saat Menunggu Panen](content/05_rezeki-kecil-saat-menunggu-panen.md)
+- [Tiga Hari Tanpa Cangkul](content/06_tiga-hari-tanpa-cangkul.md)
+- [Ayam Dulu, Sapi Kemudian](content/07_ayam-dulu-sapi-kemudian.md)
+- [Sapaan dan Sikat Setiap Hari](content/08_sapaan-dan-sikat-setiap-hari.md)
+- [Festival yang Sayang Dilewatkan](content/09_festival-yang-sayang-dilewatkan.md)
+- [Setiap Orang di Desa Punya Cerita](content/10_setiap-orang-di-desa-punya-cerita.md)
+- [Hati yang Berubah Warna Perlahan](content/11_hati-yang-berubah-warna-perlahan.md)
+- [Menyerahkan Pekerjaan kepada Harvest Sprites](content/12_menyerahkan-pekerjaan-kepada-harvest-sprites.md)
+- [Tambang yang Tidak Bisa Didaki Kembali](content/13_tambang-yang-tidak-bisa-didaki-kembali.md)
+- [Referensi](content/14_referensi.md)

@@ -1,0 +1,138 @@
+import { describe, expect, test } from "bun:test";
+import fs from "node:fs";
+import os from "node:os";
+import path from "node:path";
+import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
+import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
+
+const ROOT = path.resolve(import.meta.dir, "../..");
+const BOOK = path.join(ROOT, "books/pelajaran-hidup-dari-harvest-moon-back-to-nature");
+const NOTES = path.join(ROOT, "docs/code-plan/plans/research-dawnbook-harvest-moon.md");
+const PLAN = path.join(ROOT, "docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md");
+
+const DATA_ROW = /^\| S[0-9]+ \|/;
+
+// The guide is a copyrighted OCR text, so it stays outside the repository and the scan reads it at run time.
+const GUIDE =
+  process.env.DAWNBOOK_HM_GUIDE ??
+  path.join(os.homedir(), "Unduhan/Full text of _Harvest Moon Back To Nature Strategy Guide Official eBook in PDF Format_.md");
+const GUIDE_EXISTS = fs.existsSync(GUIDE);
+if (!GUIDE_EXISTS) console.warn(`guide overlap scan skipped: guide not found at ${GUIDE}`);
+
+function words(text: string): string[] {
+  return text
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .split(" ")
+    .filter((w) => w.length > 0);
+}
+
+function nGrams(ws: string[], n: number): string[] {
+  const out: string[] = [];
+  for (let i = 0; i + n <= ws.length; i++) out.push(ws.slice(i, i + n).join(" "));
+  return out;
+}
+
+function sharedRuns(text: string, guide: string, n = 12): string[] {
+  const guideRuns = new Set(nGrams(words(guide), n));
+  return [...new Set(nGrams(words(text), n).filter((r) => guideRuns.has(r)))];
+}
+
+describe("book pelajaran-hidup-dari-harvest-moon-back-to-nature", () => {
+  test("has 13 content chapters plus Referensi with no structural problems", () => {
+    const result = checkBookStructure(BOOK);
+    expect(result.problems).toEqual([]);
+    expect(result.chapters).toBe(14);
+    expect(contentFiles(BOOK).at(-1)).toBe("14_referensi.md");
+  });
+
+  test("every chapter stays inside the house byte budget", () => {
+    const files = contentFiles(BOOK);
+    expect(files.length).toBe(14);
+    for (const f of files) {
+      const size = fs.statSync(path.join(BOOK, "src/content", f)).size;
+      const isRef = f === "14_referensi.md";
+      const max = isRef ? 10500 : 9000;
+      const min = isRef ? 3000 : 5500;
+      expect({ f, size, ok: size >= min && size <= max }).toEqual({ f, size, ok: true });
+    }
+  });
+
+  test("source table allowlist ignores URLs mentioned only in prose", () => {
+    const notes = [
+      "## 8. Prose",
+      "See https://example.com/prose-only for context.",
+      "",
+      "## 9. Source table",
+      "",
+      "| ID | Source | URL |",
+      "|---|---|---|",
+      "| S1 | First | https://example.com/s1 |",
+      "| S12 | Twelfth | https://example.com/s12 |",
+      "| X3 | Other prefix | https://example.com/x3 |",
+      "",
+      "Footnote mentioning https://example.com/after-table in prose.",
+      "",
+      "## 10. Later",
+      "| S9 | Out of section | https://example.com/s9 |",
+    ].join("\n");
+    expect(sourceTableUrls(notes, DATA_ROW).sort()).toEqual(["https://example.com/s1", "https://example.com/s12"]);
+  });
+
+  test("source table of the real notes has 31 data rows with 31 distinct URLs", () => {
+    const notes = fs.readFileSync(NOTES, "utf-8");
+    const dataRows = sourceTableSection(notes).filter((l) => DATA_ROW.test(l)).length;
+    expect(dataRows).toBe(31);
+    expect(new Set(sourceTableUrls(notes, DATA_ROW)).size).toBe(31);
+  });
+
+  test("every URL in the book comes from the source table and every table URL is used", () => {
+    const allowed = new Set(sourceTableUrls(fs.readFileSync(NOTES, "utf-8"), DATA_ROW));
+    const used = contentFiles(BOOK).flatMap((f) => {
+      const md = fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8");
+      return [...extractUrls(md), ...extractLinkTargets(md).filter((t) => /^https?:\/\//i.test(t))];
+    });
+    expect(used.filter((u) => !allowed.has(u))).toEqual([]);
+    expect([...allowed].filter((u) => !used.includes(u))).toEqual([]);
+  });
+
+  test("shared-run detector flags a 12-word run copied from the guide despite case and punctuation", () => {
+    const guide = "Chapter 3. In spring, plant Turnip seeds early; water the crops every single morning before the shop opens at ten.";
+    const text = "Kata pemandu: PLANT turnip-seeds, early... water THE crops; every single morning before the! Lalu kamu istirahat.";
+    expect(sharedRuns(text, guide)).toEqual(["plant turnip seeds early water the crops every single morning before the"]);
+  });
+
+  test("shared-run detector ignores an 11-word run and unrelated Indonesian text", () => {
+    const guide = "Chapter 3. In spring, plant Turnip seeds early; water the crops every single morning before the shop opens at ten.";
+    const eleven = "Plant turnip seeds early, water the crops every single morning before kamu berangkat kerja.";
+    expect(sharedRuns(eleven, guide)).toEqual([]);
+    expect(sharedRuns(eleven, guide, 11)).toEqual(["plant turnip seeds early water the crops every single morning before"]);
+    const unrelated = "Kamu belajar sabar karena panen tidak datang dalam semalam, melainkan lewat kerja kecil yang diulang setiap hari.";
+    expect(sharedRuns(unrelated, guide)).toEqual([]);
+  });
+
+  test.skipIf(!GUIDE_EXISTS)("no chapter or SUMMARY.md shares a 12-word run with the strategy guide", () => {
+    const guide = fs.readFileSync(GUIDE, "utf-8");
+    const files = contentFiles(BOOK);
+    expect(files.length).toBe(14);
+    const summary = path.join(BOOK, "src/SUMMARY.md");
+    expect(fs.existsSync(summary)).toBe(true);
+    const targets = [...files.map((f) => path.join(BOOK, "src/content", f)), summary];
+    // Report counts only, so a failing run never prints the copyrighted guide text.
+    const hits = targets
+      .map((p) => ({ file: path.relative(BOOK, p), runs: sharedRuns(fs.readFileSync(p, "utf-8"), guide).length }))
+      .filter((h) => h.runs > 0);
+    expect(hits).toEqual([]);
+  });
+
+  // The notes and the plan are public too; short attributed quotes are fine there, longer copied passages are not.
+  test.skipIf(!GUIDE_EXISTS)("the research notes and the plan share no 16-word run with the strategy guide", () => {
+    const guide = fs.readFileSync(GUIDE, "utf-8");
+    const hits = [NOTES, PLAN]
+      .map((p) => ({ file: path.relative(ROOT, p), runs: sharedRuns(fs.readFileSync(p, "utf-8"), guide, 16).length }))
+      .filter((h) => h.runs > 0);
+    expect(hits).toEqual([]);
+  });
+});
