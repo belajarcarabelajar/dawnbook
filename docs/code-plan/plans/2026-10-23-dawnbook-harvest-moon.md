@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-23-dawnbook-harvest-moon
-status: InProgress
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -236,7 +236,7 @@ tasks:
 
 # Plan: Dawnbook book of life lessons from Harvest Moon Back to Nature
 
-Status: InProgress
+Status: Complete
 Session: dawnbook-harvest-moon
 Branch: 2026-10-23-dawnbook-harvest-moon/dawnbook-harvest-moon
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-harvest-moon
@@ -506,7 +506,7 @@ Debt sweep, learning ledger, graphify update and sync, plan closeout decision.
 ## Follow-up Backlog
 
 - N1 to N4: selected by the owner in the debt sweep (AskUserQuestion 2026-10-23) and closed as F1 to F4 above.
-- L1 Deploy, D1 seed, GSC sitemap resubmission and the Telegram announcement after the merge of PR #184. `defer: owner-gated production deploy, after PR #184 merges`
+- L1 Deploy, D1 seed, GSC sitemap resubmission and the Telegram announcement after the merge of PR #184. Done 2026-10-24 (see the merge-evidence artifact).
 - L2 The copyright scan runs only where the guide's OCR text exists locally (CI is off and the text cannot be committed). `defer: needs a private CI secret store, if the repository gains one`
 - L3 Plans 2026-10-16-dawnbook-diagrams-retrofit-rf3, rf4, rf6 still at Verification (`plan-closeout.mjs --audit`; already listed as L3 in plan 2026-10-19-dawnbook-menolak-perasaan). `defer: separate closeout session, next dawnbook session`
 - L4 The guide-overlap detector catches only verbatim English runs, not close translations. `defer: reviewer reads cover it, until a book is found with a translated passage`
@@ -518,3 +518,5 @@ Decision (AskUserQuestion 2026-10-23, Close plan): Keep it open.
 - Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, every task UNPROVEN because its `skip_if` is the `false` sentinel (evidence is in the checklist above, not machine-checkable); `ultra-plan-runner --execute` exit 0 with V2 PASSED and an empty Error Ledger.
 - What remains: the merge of PR #184, then the owner-gated deploy, D1 seed and GSC reindex (backlog L1).
 - Reopen trigger: after PR #184 merges and the live book index returns 200 with its meta equal to the book.toml description, mark this plan Complete in the next dawnbook session's PR.
+
+Update 2026-10-24 (after the merge): the reopen trigger is met. PR #184 merged (f2162b2); the deploy finished (deployment 298c9d75, Telegram announcement sent); the live book index returns 200 and its meta equals the book.toml description (149 chars); D1 holds the book with subject label Self-Help; the sitemap was resubmitted to GSC (HTTP 204). Per the owner's recorded decision, the plan is marked Complete in this follow-up PR, which also commits db/seed.sql. Readiness re-run: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md` exit 3, NEEDS-HUMAN (0 open NOW follow-ups, 0 open step boxes, 0 other open boxes; every task UNPROVEN only because of the `false` sentinel). Evidence: docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-merge-evidence.md. Backlog L1 closed by this deploy; L2 to L5 stay deferred.
