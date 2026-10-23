@@ -10,9 +10,9 @@ Pesannya terdengar sederhana: "don't neglect your social life," tulis panduan re
 
 Cara paling mudah agar disukai, kata panduan itu, adalah ikut serta dalam semua kegiatan desa. Di festival ada banyak hadiah menarik, tetapi yang lebih penting, kamu tidak akan punya teman kalau seharian hanya membanting tulang di ladang. Sesekali keluarlah dan bersenang-senanglah.
 
-Ada satu syarat praktis. Kebanyakan acara khusus berlangsung sepanjang hari, jadi panduan menyarankan agar pekerjaan rumah dibereskan dulu sebelum berangkat. Waktu juga tidak bisa ditawar: kalau tokoh kita tiba lebih dari satu jam setelah festival dimulai, ia tidak bisa ikut. Beberapa festival baru mulai pada malam hari, sehingga panduan menyarankan menyimpan permainan sehari sebelumnya.
+Ada satu syarat praktis. Kebanyakan acara khusus berlangsung sepanjang hari, jadi panduan menyarankan agar pekerjaan rumah dibereskan dulu sebelum berangkat. Soal tenggat datang ke festival, aturannya sudah dibahas di bab 3. Beberapa festival baru mulai pada malam hari, sehingga panduan menyarankan menyimpan permainan sehari sebelumnya.
 
-Kalau dipikir-pikir, aturan "terlambat satu jam" itu mirip dengan undangan di dunia nyata. Pertemuan keluarga, reuni, atau acara syukuran teman tidak menunggu sampai urusan kita selesai. Yang bisa kita atur hanyalah menyelesaikan kewajiban lebih awal supaya ada ruang untuk hadir.
+Kalau dipikir-pikir, aturan tenggat festival itu mirip dengan undangan di dunia nyata. Pertemuan keluarga, reuni, atau acara syukuran teman tidak menunggu sampai urusan kita selesai. Yang bisa kita atur hanyalah menyelesaikan kewajiban lebih awal supaya ada ruang untuk hadir.
 
 ### Panci, Tomat, dan Matahari Terbit
 
@@ -20,7 +20,7 @@ Kalender desa penuh acara, tetapi tiga di antaranya terasa paling dekat dengan p
 
 Yang pertama tentu Harvest Festival tadi. Setiap orang menyumbang satu bahan makanan ke panci raksasa. Tidak ada yang menang, tetapi menurut panduan, ini kesempatan bagus untuk memperbaiki hubungan.
 
-Yang kedua adalah Tomato Festival pada tanggal 12 musim panas. Tokoh kita memilih salah satu tim bertiga untuk diikuti, lalu para tim saling melempar tomat. Panduan mencatat bahwa tidak ada hadiah sungguhan bagi tim pemenang. Yang bertambah adalah kedekatan tokoh kita dengan dua rekan setimnya. Di festival ini, kedekatan tumbuh dari keseruan bersama, bukan dari kemenangan.
+Yang kedua adalah Tomato Festival pada tanggal 12 musim panas. Tokoh kita memilih salah satu tim bertiga untuk diikuti, lalu para tim saling melempar tomat. Panduan mencatat bahwa tidak ada hadiah sungguhan bagi tim pemenang. Yang bertambah adalah kedekatan tokoh kita dengan dua rekan setimnya. Menurut panduan, kedekatan itu bertambah karena pengalamannya, bukan karena hadiah.
 
 Yang ketiga adalah Year End Festival pada tanggal 30 musim dingin. Tengah malam, warga berkumpul di Mother's Hill. Ajakannya sederhana: begadanglah, lalu saksikan matahari terbit bersama semua orang. Tahun berganti, dan tokoh kita tidak melewatinya sendirian di rumah.
 
@@ -54,7 +54,7 @@ Panci di Rose Square tentu bukan eksperimen ilmiah. Namun, kalau dipikir-pikir, 
 
 - Panduan resmi gim ini menyebut hubungan dengan warga desa sama pentingnya dengan menanam dan memanen.
 - Festival seperti Harvest Festival dan Tomato Festival tidak memberi hadiah, tetapi mempererat hubungan.
-- Bereskan pekerjaan lebih awal: datang lebih dari satu jam terlambat berarti tidak bisa ikut.
+- Bereskan pekerjaan lebih awal supaya sempat datang ke festival (tenggatnya di bab 3).
 - Kado di hari ulang tahun adalah cara yang menurut panduan paling ampuh untuk membuat orang menyukaimu.
 - Penelitian mengaitkan hubungan sosial yang kuat dengan peluang bertahan hidup yang lebih besar, meski sifatnya korelasional.
 

@@ -1,8 +1,8 @@
 ## Rezeki Kecil Saat Menunggu Panen
 
-Pagi itu si petani muda berjalan ke Mother's Hill dengan tas yang masih kosong, sementara panen pertama di ladangnya masih beberapa hari lagi. Di sepanjang jalan ada rumput (*Grass*) dan buah beri, dan di dekat Hot Spring tumbuh tanaman yang kemarin sudah ia petik. Pagi ini tanaman itu tumbuh lagi, di titik yang sama persis.
+Pagi itu si petani muda berjalan ke Mother's Hill dengan tas yang masih kosong, sementara panen pertama di ladangnya masih beberapa hari lagi. Di sepanjang jalan ada rumput (*Grass*) dan buah beri, dan di dekat Hot Spring tumbuh tanaman yang kemarin sudah ia petik. Pagi itu tanaman tadi sudah tumbuh lagi, di titik yang sama persis.
 
-Ladang baru saja ditanami dan dompetnya masih tipis. Jalan pagi ke bukit inilah yang mengisi jeda itu.
+Ladang baru saja ditanami, dan dompet si petani masih tipis. Jalan pagi ke bukit inilah yang mengisi jeda itu.
 
 ### Tanaman Liar yang Tumbuh Lagi Besok Pagi
 
@@ -10,7 +10,7 @@ Panduan resmi Prima menyarankan tokoh kita memungut tanaman liar di awal setiap 
 
 Tempatnya pun disebut jelas, yaitu Mother's Hill, sisi Hot Spring, dan sekitar rumah Gotz. Panduan juga menganjurkan sedikit menjelajah di awal tiap musim untuk melihat apa saja yang bisa dikumpulkan. Untuk musim semi, tabel di panduan mencatat Blue Grass seharga 100 G dan Bamboo Shoot seharga 50 G, walau tabel itu mungkin tidak lengkap.
 
-Setiap musim membawa temuannya sendiri. Di musim gugur, panduan mengingatkan untuk memungut setiap hari dan memberi contoh Truffle di dekat danau di Mother's Hill yang bernilai 500 G. Di musim dingin pilihannya menyempit: Honey menjadi satu-satunya barang yang bisa dipungut, itu pun hanya kalau musim sebelumnya kamu menanam bunga dan lebah bersarang di pohon apel; harganya 50 G.
+Setiap musim membawa temuannya sendiri. Di musim gugur, panduan mengingatkan untuk memungut setiap hari dan memberi contoh Truffle di dekat danau di Mother's Hill yang bernilai 500 G. Di musim dingin pilihannya menyempit: Honey menjadi satu-satunya barang yang bisa dipungut, itu pun hanya kalau di musim yang lebih awal kamu menanam bunga dan lebah bersarang di pohon apel; harganya 50 G.
 
 Angka-angka itu kecil. Tetapi karena tanamannya kembali setiap pagi, rezeki ini bisa dipungut lagi esok hari.
 
@@ -34,7 +34,7 @@ Lalu apa gunanya rezeki kecil? Kalau dipikir-pikir, fungsinya bukan menggantikan
 
 Di dunia nyata, banyak dari kita juga hidup dari "panen" yang datang berkala: gaji bulanan, honor proyek, atau hasil usaha yang baru cair di akhir. Di antara dua panen, pengeluaran tak terduga bisa muncul kapan saja.
 
-Survei rumah tangga Federal Reserve di Amerika Serikat memberi gambaran seberapa siap orang menghadapinya. Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm) tertanggal 13 Mei 2026, 63 persen orang dewasa di AS menjawab akan menutup pengeluaran darurat sebesar 400 dolar AS dengan uang tunai atau yang setara. Angka itu tetap 63 persen sejak survei 2022, naik dari 50 persen pada 2013, dan sempat mencapai 68 persen pada 2021.
+Survei rumah tangga Federal Reserve di Amerika Serikat memberi gambaran seberapa siap orang menghadapinya. Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm) tertanggal 13 Mei 2026, 63 persen orang dewasa di AS menjawab akan menutup pengeluaran darurat sebesar 400 dolar AS dengan uang tunai atau yang setara. Angka itu sama dengan hasil survei 2024.
 
 Survei ini mengukur jawaban responden atas pengeluaran andaian, bukan kejadian nyata, dan hanya mencakup orang dewasa di AS. Angkanya tidak bisa dipindahkan begitu saja ke Indonesia. Tetap saja, kalau dibalik, lebih dari sepertiga responden tidak menjawab begitu.
 

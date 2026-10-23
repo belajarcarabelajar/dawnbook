@@ -14,7 +14,7 @@ Di sinilah Cliff masuk. Kalau kamu memberi tahu Cliff soal panen itu pada tangga
 
 Ada satu detail kecil yang lucu. Cliff suka berdiri diam di satu titik di antara tanaman anggur, dan panduan mengingatkan bahwa kamu harus tiba di titik itu lebih dulu. Kalau tidak, ke-16 tandan hari itu tidak akan terpetik semua. Rekan kerja baru memang kadang perlu sedikit penyesuaian.
 
-Sekarang bayangkan kamu lupa, atau merasa urusan itu bukan urusanmu. Panen tetap berjalan. Musim gugur lewat, musim dingin datang, dan pada tanggal 30 musim dingin Cliff pamit meninggalkan desa. Satu orang tidak lagi tinggal di sana, karena tidak ada yang memberitahunya tentang sebuah pekerjaan.
+Sekarang bayangkan kamu lupa, atau merasa urusan itu bukan urusanmu. Panen tetap berjalan. Musim gugur lewat, musim dingin datang, dan pada tanggal 30 musim dingin Cliff pamit meninggalkan desa, karena tidak ada yang memberitahunya tentang sebuah pekerjaan.
 
 ### Foto yang Tertinggal di Salju
 
@@ -38,7 +38,7 @@ Perhatikan apa yang kamu lakukan di sini. Kamu tidak membuat palunya berhasil. Y
 
 ### May di Dermaga Pukul Enam Sore
 
-May tinggal bersama kakeknya, Barley, di Yodel Farm. Dulu putri Barley, ibu May, pergi lalu kembali membawa seorang bayi, May, kemudian pergi lagi dan meninggalkannya. Barley sangat menyayangi cucunya, tetapi berharap May punya teman sebaya. Di desa itu memang tidak banyak anak muda, dan meski masih kecil, May berusaha membantu kakeknya sebisa mungkin.
+May tinggal bersama kakeknya, Barley, di Yodel Farm. Dulu putri Barley, ibu May, pergi, lalu pulang membawa May yang masih bayi, kemudian pergi lagi dan meninggalkannya. Barley sangat menyayangi cucunya, tetapi berharap May punya teman sebaya. Di desa itu memang tidak banyak anak muda, dan meski masih kecil, May berusaha membantu kakeknya sebisa mungkin.
 
 Suatu hari Barley muncul di ladangmu membawa kabar bahwa May kabur dari rumah, dan ia meminta bantuanmu mencarinya. Saran panduan terdengar agak dingin: kerjakan dulu tugas harianmu, karena May baru bisa ditemukan sore hari. Pukul 18.00, May ada di dermaga, berdiri menatap kejauhan. Ajak ia bicara, dan ia mau pulang. Menemukan May membuat Barley, Wali Kota Thomas, Zack, dan May sendiri lebih dekat denganmu.
 

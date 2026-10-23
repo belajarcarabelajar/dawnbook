@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-23-dawnbook-harvest-moon
-status: Approved
+status: InProgress
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -194,8 +194,39 @@ tasks:
     idempotency_key: "D1:pull-request"
     skip_if: "false"
     verify_exit: 0
-  - id: S1
+  - id: F1
     depends_on: [D1]
+    impacts: ["chapter 05 and Referensi citations - bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts"]
+    files: { create: [], modify: [books/pelajaran-hidup-dari-harvest-moon-back-to-nature/src/content/05_rezeki-kecil-saat-menunggu-panen.md, books/pelajaran-hidup-dari-harvest-moon-back-to-nature/src/content/14_referensi.md], test: [] }
+    idempotency_key: "F1:verify-citations"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F2
+    depends_on: [D1]
+    impacts: ["chapters 08 and 09 - bun run scripts/check-book-structure.ts pelajaran-hidup-dari-harvest-moon-back-to-nature"]
+    files: { create: [], modify: [books/pelajaran-hidup-dari-harvest-moon-back-to-nature/src/content/08_sapaan-dan-sikat-setiap-hari.md, books/pelajaran-hidup-dari-harvest-moon-back-to-nature/src/content/09_festival-yang-sayang-dilewatkan.md], test: [] }
+    idempotency_key: "F2:cross-chapter-repeats"
+    skip_if: "false"
+    verify_exit: 0
+  - id: F3
+    depends_on: [D1]
+    impacts: ["book test meta-length case - bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts"]
+    files: { create: [], modify: [tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts], test: [tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts] }
+    idempotency_key: "F3:meta-length-test"
+    verify_exit: 0
+    run:
+      - cmd: "bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts"
+        expect_exit: 0
+        retry: 0
+  - id: F4
+    depends_on: [F1, F2]
+    impacts: ["review report artifact - docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-review-report.md"]
+    files: { create: [], modify: [docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-review-report.md], test: [] }
+    idempotency_key: "F4:second-review"
+    skip_if: "false"
+    verify_exit: 0
+  - id: S1
+    depends_on: [D1, F1, F2, F3, F4]
     impacts: ["learning ledger and memory - docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-learning-ledger.md"]
     files: { create: [docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-learning-ledger.md], modify: [], test: [] }
     idempotency_key: "S1:debt-sweep"
@@ -205,7 +236,7 @@ tasks:
 
 # Plan: Dawnbook book of life lessons from Harvest Moon Back to Nature
 
-Status: Approved
+Status: InProgress
 Session: dawnbook-harvest-moon
 Branch: 2026-10-23-dawnbook-harvest-moon/dawnbook-harvest-moon
 Worktree: /home/belajarcarabelajar/Proyek/dawnbook-wt/dawnbook-harvest-moon
@@ -227,7 +258,11 @@ Source: owner-supplied OCR text of the Prima strategy guide (~/Unduhan, not comm
 - [x] Audit (V1): parent line-by-line read of every chapter plus scans; diagrams rendered. Evidence: parent Read all 14 files end to end against the notes; 23 single-sentence edits: two researcher first names not in the notes removed (ch09 Holt-Lunstad, ch12 Whillans), 11 'game' to 'gim' for consistency, ch02 'akan tetap sehat' hedged to the guide's 'seharusnya' and 'dua angka' to 'dua ukuran' (the guide shows no exact meter), ch04 winter 'tidak punya benih sendiri' (guide: no seeds indigenous to winter), ch05 one direct 'kamu' address added (0 before), ch13 the 10 Power Berries scoped to the whole game, ch14 six titles corrected to the real page titles (5 read with curl, AMA read with TinyFish fetch_content). Scans: 0 em or en dash, 0 Anda, 0 duplicate headings, 0 leftover 'game', Julianne or Ashley (`rg` exit 1); `bun run diagrams:render --book <slug>` and `--prune`: rendered 0, cached 3, orphans 0, pruned 0 (ch02, ch04, ch11); `bun run scripts/check-book-structure.ts <slug>` exit 0, 14 chapters, 0 problems; no LaTeX in the book.
 - [x] Gates (V2): every run[] step exit 0, SEO validation passed. Evidence (final run after the review fixes): `bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts tests/scripts/check-book-structure.test.ts tests/serp-description.test.ts` exit 0 (57 pass, 0 fail); `bun run scripts/check-book-structure.ts <slug>` exit 0 (14 chapters, 0 problems); `bun run check:headings` exit 0 (0 violations, 60 books); `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0 (0 violations, 0 orphans); `bun run check:covers --book <slug>` exit 0; `bun run build` exit 0 with `Successfully built: pelajaran-hidup-dari-harvest-moon-back-to-nature`, `Inlined 3 diagram(s)`, `SEO Validation passed! All rules (R1-R7)`; output/manifest.json lists the slug with 14 chapters; built metas 112-149 chars, all complete sentences (three openers lengthened from 83, 79 and 92 chars to meet the 110-160 SERP range, GEMINI.md section 8); every page has its own /og/ card; build regenerated functions/lib/built-stats.ts (chapter total +14, Iwan Kurniawan 48 to 49 books).
 - [x] Review (V3): independent reviewers, findings resolved, report saved. Evidence: 3 parallel staid reviewers (ch01-07: not correct, 1 P1; ch08-14: not correct, 5 P1; test, scaffold, cover, notes: not correct, 1 P1 copyrighted guide text in the public notes); notes P1 fixed test-first (new 16-word public-docs case RED exit 1 with 2.650 runs, GREEN exit 0 after moving sets A, B, C to ~/.config/dawnbook/private-notes/, mode 600); chapter P1 and P2 fixed by 4 fixer subagents on disjoint chapter groups (chef, nappy, hoggy, chef) under one fix contract with a parent term table; parent audited every changed line against the pre-fix copies; diagrams re-rendered (2 stale SVGs pruned); `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` exit 0 (merge-base 94058ed2); report at docs/code-plan/artifacts/2026-10-23-dawnbook-harvest-moon-review-report.md.
-- [ ] Deliver (D1): commit as Iwan Kurniawan, PR opened through pr-registry.
+- [x] Deliver (D1): commit as Iwan Kurniawan, PR opened through pr-registry. Evidence: commit 1e8561f (author Iwan Kurniawan <iwan@belajarcarabelajar.com>, no trailer, attribution scan exit 1, 31 files staged by explicit path = 31 in `git show --name-only HEAD`, `git status --porcelain` empty after); `pr-registry state dawnbook-harvest-moon verified` exit 0; `pr-registry open ... --body-file` exit 0 -> https://github.com/belajarcarabelajar/dawnbook/pull/184 recorded; body says Refs #183.
+- [x] Follow-up F1 (N1): verify SHED 50 and 68 percent figures, the Harvard Gazette date and the Rodriguez initials; fix ch05, ch14 or the notes; book test exit 0. Evidence: chef fetched the Fed press release (only 63 percent stated; 2013 and 2021 figures dropped from ch05), Gazette page metadata (published 2017-04-11, author Liz Mineo; parent changed the entry to Mineo, L.), Crossref (Monica L. Rodriguez, unchanged); notes L2-2c and L3-2b updated; book test exit 0 (9 pass at the time), structure checker exit 0.
+- [x] Follow-up F2 (N2): ch09 late-arrival rule and ch08 brush price become back-references to bab 3 and bab 7; structure checker and book test exit 0. Evidence: nappy replaced the ch09 rule and its recap bullet with references to bab 3 (`rg 'satu jam'` in ch09 exit 1); the brush price stays in ch08 because ch07 never stated it (the first-round P3 was wrong); book test exit 0, structure checker exit 0.
+- [x] Follow-up F3 (N4): test-first case that every chapter meta (formatSerpDescription of the first paragraph) is 110 to 155 characters; RED shown, then GREEN. Evidence: hoggy reused extractLeadText, formatSerpDescription and escapeHtml from scripts/inject-gating.ts; RED on a scratch copy with a shortened ch01 opener (`DAWNBOOK_HM_BOOK=<copy> bun test ... -t 'every chapter meta description'` exit 1, length 88 reported); GREEN `bun test tests/books/pelajaran-hidup-dari-harvest-moon-back-to-nature.test.ts` exit 0 (11 pass); parent refactor to reuse metaOutOfRange, still exit 0.
+- [x] Follow-up F4 (N3): second independent fact review of the lines changed after review V3 and by F1, F2; P1 and P2 fixed; gates re-run. Evidence: staid verdict correct (all nine first-round P1 resolved, 0 new P1, 3 P2, 12 P3; resumed once after a 429 session limit); parent applied 18 one-sentence edits by assert-checked replacement (inline: mechanical edits and the subagent session limit had just been hit, A16), skipped one P3 with reason; focused tests exit 0 (59 pass, 0 fail), structure, headings, repeated headings, diagrams and covers exit 0; review report section 'Follow-up round'.
 - [ ] Sweep (S1): debt sweep, learning ledger, graphify sync, closeout decision.
 
 ## Active Project Profile
@@ -300,7 +335,16 @@ flowchart TD
     V1 --> V2["V2: gates and build"]
     V2 --> V3["V3: independent review"]
     V3 --> D1["D1: pull request"]
+    D1 --> F1["F1: verify 3 citations"]
+    D1 --> F2["F2: remove 2 repeats"]
+    D1 --> F3["F3: meta length test"]
+    F1 --> F4["F4: second fact review"]
+    F2 --> F4
     D1 --> S1["S1: debt sweep and closeout"]
+    F1 --> S1
+    F2 --> S1
+    F3 --> S1
+    F4 --> S1
     S1 --> DONE(["Verify tail: closeout decision"])
 ```
 
@@ -432,6 +476,18 @@ Independent reviewers (staid, three in parallel: chapters 01-07, chapters 08-14,
 ### Task D1
 Commit as Iwan Kurniawan <iwan@belajarcarabelajar.com> with no trailer, files staged by explicit path, push the session branch through `pr-registry open --body-file`, PR body says `Refs #<issue>`.
 
+### Task F1
+Follow-up N1 (owner selected 2026-10-23): verify three citation details with TinyFish and Crossref and correct the chapter, the Referensi or the notes to what the primary page shows.
+
+### Task F2
+Follow-up N2: replace two restated facts with back-references to their owner chapters (notes section 7).
+
+### Task F3
+Follow-up N4: test-first meta-length case in the book test.
+
+### Task F4
+Follow-up N3: a staid reviewer reads every line changed since the first review against the notes; findings fixed by the parent or an implementer; gates re-run.
+
 ### Task S1
 Debt sweep, learning ledger, graphify update and sync, plan closeout decision.
 
@@ -449,4 +505,16 @@ Debt sweep, learning ledger, graphify update and sync, plan closeout decision.
 
 ## Follow-up Backlog
 
-(empty until the debt sweep)
+- N1 to N4: selected by the owner in the debt sweep (AskUserQuestion 2026-10-23) and closed as F1 to F4 above.
+- L1 Deploy, D1 seed, GSC sitemap resubmission and the Telegram announcement after the merge of PR #184. `defer: owner-gated production deploy, after PR #184 merges`
+- L2 The copyright scan runs only where the guide's OCR text exists locally (CI is off and the text cannot be committed). `defer: needs a private CI secret store, if the repository gains one`
+- L3 Plans 2026-10-16-dawnbook-diagrams-retrofit-rf3, rf4, rf6 still at Verification (`plan-closeout.mjs --audit`; already listed as L3 in plan 2026-10-19-dawnbook-menolak-perasaan). `defer: separate closeout session, next dawnbook session`
+- L4 The guide-overlap detector catches only verbatim English runs, not close translations. `defer: reviewer reads cover it, until a book is found with a translated passage`
+- L5 (re-pass, from F3) The meta-length case renders markdown with `Bun.markdown`, which has no type declaration in the repository; a chapter that opens with a list, table or raw HTML could render differently from mdBook. `defer: only this book's test uses it, when the helper moves to tests/helpers or a typecheck script is added`
+
+## Closeout status
+
+Decision (AskUserQuestion 2026-10-23, Close plan): Keep it open.
+- Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, every task UNPROVEN because its `skip_if` is the `false` sentinel (evidence is in the checklist above, not machine-checkable); `ultra-plan-runner --execute` exit 0 with V2 PASSED and an empty Error Ledger.
+- What remains: the merge of PR #184, then the owner-gated deploy, D1 seed and GSC reindex (backlog L1).
+- Reopen trigger: after PR #184 merges and the live book index returns 200 with its meta equal to the book.toml description, mark this plan Complete in the next dawnbook session's PR.

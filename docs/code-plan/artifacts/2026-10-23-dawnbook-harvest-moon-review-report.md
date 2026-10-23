@@ -48,3 +48,14 @@ Other R3 items: `export` dropped from the in-test helper (P3); the URL test now 
 | Diagrams | `bun run diagrams:render --book <slug> --prune`; `bun run check:diagrams` | 0; 0 | 3 SVGs, 2 stale pruned; 0 violations, 0 orphans |
 | Cover | `bun run check:covers --book <slug>` | 0 | 0 cover violations |
 | Copy rules | `bun ~/vivera/scripts/check-copy-rules.mjs --diff origin/main` | 0 | clean, merge-base 94058ed2 = `origin/main` |
+
+## Follow-up round (debt sweep, owner selected N1 to N4)
+
+| Item | Result |
+|---|---|
+| F1 (N1) citation details | The Federal Reserve press release states only the 63 percent figure, so chapter 05 dropped the 2013 and 2021 figures (they are only in the SHED data table, which is not a source-table URL). The Harvard Gazette date (11 April 2017, page metadata) and the Rodriguez initials (Monica L., Crossref) were already right; the Gazette entry now names its author, Mineo, L., from the page metadata. |
+| F2 (N2) cross-chapter repeats | Chapter 09's one-hour festival rule became a back-reference to bab 3. The brush price stays in chapter 08: chapter 07 never stated it (the first-round P3 was wrong). |
+| F3 (N4) meta length | Test-first case: every chapter meta, computed with the build's own `extractLeadText` and `formatSerpDescription`, is 110 to 155 characters. RED on a scratch copy with a shortened opener (exit 1, 88 chars reported), GREEN on the book. |
+| F4 (N3) second review | One staid reviewer read every line changed since the first review: verdict correct, all nine first-round P1 resolved, 0 new P1, 3 P2 and 12 P3. All applied except one P3 (chapter 10 keeps "mungkin mencabuti" because the guide's walkthrough says "may weed"). |
+
+Re-run after the follow-ups: focused tests exit 0 (59 pass, 0 fail); structure checker, `check:headings`, `check-repeated-headings`, `check:diagrams`, `check:covers` all exit 0.

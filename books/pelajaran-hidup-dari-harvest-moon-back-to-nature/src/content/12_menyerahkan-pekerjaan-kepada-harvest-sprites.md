@@ -46,7 +46,7 @@ Polanya mirip dengan perjalanan bersama Harvest Sprites. Awalnya kamu rugi waktu
 
 Ada satu detail kecil yang mudah terlewat. Di musim semi, para Sprites mengadakan pesta teh, dan pesta itu hanya bisa terjadi kalau ketujuhnya ada di rumah. Artinya, kamu harus memberi mereka setidaknya satu hari libur. Tokoh kita bisa ikut datang membawa hadiah untuk masing-masing dari mereka, yang membutuhkan Large Rucksack, lalu pulang membawa Relax Tea Leaves.
 
-Di gim ini, satu hari libur dibutuhkan agar pesta teh bisa terjadi; kalau dipikir-pikir, orang yang membantu kita pun layak mendapat hari tanpa pekerjaan. Bahkan di musim dingin, ketika tidak ada tanaman, panduan tetap menyarankan untuk mempekerjakan mereka mengurus hewan sambil terus memperbaiki hubungan. Hubungan itu tidak berhenti dirawat hanya karena pekerjaannya sedang sepi.
+Kalau dipikir-pikir, orang yang membantu kita pun layak mendapat hari tanpa pekerjaan. Bahkan di musim dingin, ketika tidak ada tanaman, panduan tetap menyarankan untuk mempekerjakan mereka mengurus hewan sambil terus memperbaiki hubungan. Hubungan itu tidak berhenti dirawat hanya karena pekerjaannya sedang sepi.
 
 ### Catatan Akhir Bab
 

@@ -190,7 +190,7 @@ I used 24 tool calls, one past your call-23 report point and inside the cap of 2
 
 **L2-2c (H). Federal Reserve Board, "Economic Well-Being of U.S. Households in 2025", from the Survey of Household Economics and Decisionmaking (SHED), fielded October 2025. Press release 13 May 2026.**
 - URLs: https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm and the data table https://www.federalreserve.gov/consumerscommunities/sheddataviz/unexpectedexpenses-table.html
-- Finding: in the 2025 survey, 63 percent of US adults would cover a $400 emergency expense using cash or its equivalent. The share was 63 percent in 2022, 2023, 2024 and 2025, up from 50 percent in 2013 and a high of 68 percent in 2021.
+- Finding: in the 2025 survey, 63 percent of US adults would cover a $400 emergency expense using cash or its equivalent. The share was 63 percent in 2022, 2023, 2024 and 2025, up from 50 percent in 2013 and a high of 68 percent in 2021. Rechecked 2026-10-24: the yearly series (2013 to 2025) is in the data table only; the press release states only the 63 percent figure, unchanged from 2024. ch05 cites only the press release, so it gives only that figure.
 - Quote (press release): "The share who would cover a $400 emergency expense using cash or its equivalent also remained unchanged from 2024 at 63 percent."
 - Quote (table header): "Would cover a $400 emergency expense completely using cash or its equivalent."
 - Table breakdowns for 2025: less than high school 26 percent, bachelor's or more 81, ages 18-29 45, parents with children under 18 55, non-metro 59.
@@ -427,7 +427,7 @@ I read all four topics. Two sources are only partly confirmed: the Hall (2019) h
   - 50% is the authors' reading of an odds ratio, so "50% greater odds" is the safer wording.
   - Participants skewed older, and 76% of the data came from North America and Europe.
 
-**L3-2b (M) Harvard Study of Adult Development, ch09 optional.** Harvard Gazette, 11 April 2017 (date from the search listing; the fetched text shows no date). Fetched page title: "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life". The search listing shows the title as "Good genes are nice, but joy is better". The byline is not in the fetched text; a secondary page cites "Mineo, 2017", so the author is probably Liz Mineo, which is my inference.
+**L3-2b (M) Harvard Study of Adult Development, ch09 optional.** Harvard Gazette, 11 April 2017 (page metadata `article:published_time` 2017-04-11T20:25:18+00:00, fetched 2026-10-24; the body text shows no date). Fetched page title: "Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life". The search listing shows the title as "Good genes are nice, but joy is better". The page metadata gives the author as Liz Mineo (fetched 2026-10-24); the body text shows no byline.
 - **URL:** https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/
 - **Facts:** the study began in 1938 with 268 Harvard sophomores. The Gazette says a 1970s group of 456 Boston inner-city residents (the Glueck Study) was also enlisted, and later offspring and wives.
 - **Quotes:**

@@ -46,15 +46,15 @@ Kalau dipikir-pikir, Hothouse mirip dengan keadaan yang membuat menunggu terasa 
 
 ### Anak-anak yang Diminta Menunggu
 
-Salah satu rujukan klasik tentang menunda kesenangan adalah [Mischel, Shoda, dan Rodriguez (1989)](https://doi.org/10.1126/science.2658056), ulasan di jurnal Science yang merangkum program riset Mischel. Menurut abstraknya, anak usia 4 tahun yang menunggu lebih lama dalam situasi laboratorium tertentu tumbuh menjadi remaja yang lebih cakap secara kognitif dan sosial, nilai sekolahnya lebih tinggi, dan lebih mampu menghadapi frustrasi serta stres.
+Salah satu rujukan tentang menunda kesenangan adalah [Mischel, Shoda, dan Rodriguez (1989)](https://doi.org/10.1126/science.2658056), ulasan di jurnal Science yang merangkum program riset Mischel. Menurut abstraknya, anak usia 4 tahun yang menunggu lebih lama dalam situasi laboratorium tertentu tumbuh menjadi remaja yang lebih cakap secara kognitif dan sosial, nilai sekolahnya lebih tinggi, dan lebih mampu menghadapi frustrasi serta stres.
 
 Temuan seperti itu mudah dibaca sebagai "menunggu lebih lama menyebabkan hasil lebih baik". Abstraknya sendiri melaporkan hubungan antara lama menunggu di laboratorium dan hasil di masa remaja, tanpa menyebut ukuran sampel atau ukuran efeknya.
 
 ### Sabar Juga Soal Keadaan
 
-[Watts, Duncan, dan Quan (2018)](https://doi.org/10.1177/0956797618761661) di jurnal Psychological Science menguji ulang tes *marshmallow* lewat replikasi konseptual, bukan pengulangan persis. Mereka memakai data yang lebih besar, lebih dari 900 anak, dengan analisis utama pada anak-anak yang ibunya tidak tamat kuliah. Menurut abstraknya, keterkaitan antara lama menunggu di usia 4 tahun dan prestasi belajar di usia 15 tahun hanya sekitar separuh dari ukuran di studi-studi awal. Keterkaitan itu lalu berkurang dua pertiga setelah latar belakang keluarga, kemampuan kognitif sejak dini, dan lingkungan rumah ikut diperhitungkan. Kaitannya dengan perilaku di usia 15 tahun jauh lebih kecil dan jarang signifikan secara statistik.
+[Watts, Duncan, dan Quan (2018)](https://doi.org/10.1177/0956797618761661) di jurnal Psychological Science menguji ulang tes *marshmallow* (tes menunda kesenangan pada anak kecil) lewat replikasi konseptual, bukan pengulangan persis. Mereka memakai data yang lebih besar, lebih dari 900 anak, dengan analisis utama pada anak-anak yang ibunya tidak tamat kuliah. Menurut abstraknya, keterkaitan antara lama menunggu di usia 4 tahun dan prestasi belajar di usia 15 tahun hanya sekitar separuh dari ukuran di studi-studi awal. Keterkaitan itu lalu berkurang dua pertiga setelah latar belakang keluarga, kemampuan kognitif sejak dini, dan lingkungan rumah ikut diperhitungkan. Kaitannya dengan perilaku di usia 15 tahun jauh lebih kecil dan jarang signifikan secara statistik.
 
-Jadi keterkaitan itu tidak hilang, tetapi mengecil. Sekitar dua pertiganya hilang begitu latar belakang keluarga, kemampuan awal, dan lingkungan rumah ikut diperhitungkan.
+Jadi keterkaitan itu tidak hilang, tetapi mengecil: sekitar dua pertiganya berkurang begitu ketiga hal tadi diperhitungkan.
 
 Ladang tokoh kita memberi gambaran yang mirip. Menyiram setiap hari baru berbuah kalau benihnya cocok dengan musim dan harinya masih cukup. Sesabar apa pun, tanaman yang ditanam terlambat tetap mati di hari pertama musim berikutnya. Maka saat kamu merasa kurang sabar, ada baiknya bertanya juga: apakah musimnya memang tepat, dan apakah keadaanmu memberi cukup ruang untuk menunggu? Menyalahkan kemauan saja belum tentu adil, baik untuk dirimu sendiri maupun untuk orang lain.
 
@@ -64,6 +64,6 @@ Ladang tokoh kita memberi gambaran yang mirip. Menyiram setiap hari baru berbuah
 - Bersihkan ladang di tepi musim, tanam di hari pertama, dan siram setiap hari, karena air menentukan cepatnya tumbuh.
 - Hothouse membebaskan tokoh kita dari kalender, tetapi mahal dan bisa hancur oleh badai.
 - Dalam studi Watts dan rekan (2018), keterkaitan antara menunggu dan prestasi hanya separuh dari studi awal dan berkurang dua pertiga setelah faktor keluarga dan rumah diperhitungkan.
-- Dalam studi Watts, sebagian besar kaitan itu mengecil begitu keadaan keluarga diperhitungkan, jadi kemauan saja belum tentu menjelaskan semuanya.
+- Dalam studi Watts, sebagian besar kaitan itu mengecil begitu latar belakang keluarga, kemampuan awal, dan lingkungan rumah diperhitungkan, jadi kemauan saja belum tentu menjelaskan semuanya.
 
 Selagi tanaman masih tumbuh, tokoh kita tidak harus berdiam diri, dan bab berikutnya membahas rezeki kecil yang bisa dikumpulkan selama masa menunggu panen itu.

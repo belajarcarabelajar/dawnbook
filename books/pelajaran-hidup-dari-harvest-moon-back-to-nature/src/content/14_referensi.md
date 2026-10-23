@@ -56,7 +56,7 @@ Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., dan Wardle, J. (2010). [How
 
 Holt-Lunstad, J., Smith, T. B., dan Layton, J. B. (2010). [Social relationships and mortality risk: A meta-analytic review](https://doi.org/10.1371/journal.pmed.1000316). *PLoS Medicine, 7*(7), e1000316.
 
-Harvard Gazette. (2017, 11 April). [Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/).
+Mineo, L. (2017, 11 April). [Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/). *Harvard Gazette*.
 
 Paul, K. I., dan Moser, K. (2009). [Unemployment impairs mental health: Meta-analyses](https://doi.org/10.1016/j.jvb.2009.01.001). *Journal of Vocational Behavior, 74*(3), 264-282.
 

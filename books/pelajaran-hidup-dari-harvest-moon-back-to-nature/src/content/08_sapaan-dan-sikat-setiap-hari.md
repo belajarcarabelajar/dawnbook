@@ -46,13 +46,13 @@ Dari 82 peserta yang datanya cukup, kurva hanya cocok dengan baik untuk 39 orang
 
 Temuan yang paling melegakan justru soal hari yang terlewat. Menurut para peneliti, melewatkan satu kesempatan tidak memengaruhi proses pembentukan kebiasaan secara berarti. Tentu ada batasnya: datanya berupa penilaian diri, studinya tanpa kelompok kontrol, dan yang diamati hanya satu kali terlewat, bukan seminggu penuh.
 
-Hasil ini mirip dengan kandang tokoh kita setelah badai. Kasih sayang hewan memang turun, tetapi panduan menyarankan merawat hewan dengan sangat baik agar cepat pulih. Studi Lally tidak menguji berhenti total atau bolong seminggu, jadi kesimpulannya cukup sederhana: satu hari yang terlewat tidak perlu dijadikan alasan untuk menyerah.
+Hasil ini mirip dengan kandang tokoh kita setelah badai. Kasih sayang hewan memang turun, tetapi panduan menyarankan merawat hewan dengan sangat baik agar cepat pulih. Studi Lally hanya mengamati satu hari yang terlewat, jadi kesimpulannya cukup sederhana: satu hari yang terlewat tidak perlu dijadikan alasan untuk menyerah.
 
 ### Poin Kunci
 
 - Kasih sayang hewan dibangun dari rutinitas kecil harian: pelukan, obrolan, sikat, dan makan.
 - Jumlah susu, ukuran wol, dan mutu telur ikut ditentukan oleh kasih sayang dan suasana hati hewan, dan kasih sayang butuh waktu.
-- Menurut panduan, hewan yang dirawat dengan baik dan dijaga dari cuaca buruk kemungkinan besar tidak pernah sakit, jadi obat seharga 1.000 G mungkin tak pernah dibeli.
+- Menurut panduan, hewan yang dirawat dengan baik dan dipantau ramalan cuacanya kemungkinan besar tidak pernah sakit, jadi obat seharga 1.000 G mungkin tak pernah dibeli.
 - Saat badai, masukkan semua hewan dan andalkan Harvest Sprites; sesudahnya, rawat hewan dengan sangat baik.
 - Dalam studi Lally dkk., satu kesempatan yang terlewat tidak mengubah proses secara berarti, dan 66 hari hanyalah median untuk 39 peserta yang kurvanya cocok, bukan patokan untuk semua orang.
 

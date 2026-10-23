@@ -10,7 +10,7 @@ Menurut panduan resmi Prima, ada lima perempuan di Mineral Village yang bisa din
 
 Mereka tidak muncul sekaligus. Panduan menyebut kamu akan bertemu mereka satu per satu, jadi sarannya sederhana: jelajahi desa dan ajak semua orang bicara. Catatan karakternya pun memberi gambaran yang berbeda-beda. Ann periang dan tomboi. Elli sangat setia pada pekerjaannya di Clinic. Karen bisa diandalkan dan pandai mendengarkan, tetapi agak sulit didekati karena ia sangat aktif dan tidak selalu ada di toko. Mary gemar membaca dan menulis.
 
-Panduan juga mencatat bahwa beberapa pemuda desa menaruh hati: Dokter pada Elli dan Cliff pada Ann (keduanya disebut diam-diam), serta Kai pada Popuri. Detail kecil ini mengingatkan bahwa setiap orang di desa punya perasaannya sendiri, bukan sekadar target yang menunggu didekati.
+Panduan juga mencatat bahwa beberapa pemuda desa menaruh hati: Dokter pada Elli dan Cliff pada Ann (panduan menyebut keduanya diam-diam), serta Kai pada Popuri. Detail kecil ini mengingatkan bahwa setiap orang di desa punya perasaannya sendiri, bukan sekadar target yang menunggu didekati.
 
 ### Tujuh Warna di Pojok Kotak Dialog
 
@@ -38,7 +38,7 @@ Lalu bagaimana warnanya bergeser? Panduan menyarankan kamu mempelajari apa yang 
 
 Kalimat panduan yang paling pas untuk bab ini pendek saja. Dengan hadiah dan perhatian, "you'll slowly earn her love," tulis panduan resmi Prima. Kata kuncinya *slowly*, perlahan.
 
-Ada juga momen yang ikut menaikkan rasa sayang: memberi kue kering (Cookie) saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau memberi hadiah ulang tahun. Karen, kalau ia menyukaimu, akan memberimu benih Moondrop di musim semi. Tanam benih itu, lalu berikan bunganya saat mekar. Ada pula hadiah yang lebih mahal: bawa Orichalc dan 1.000 G ke Saibara, dan ia akan membuat perhiasan yang disukai sebagian besar perempuan di desa. Namun, perhiasan itu tetap satu hadiah di antara banyak hari.
+Ada juga momen yang ikut menaikkan rasa sayang: memberi kue kering (*Cookie*) saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau memberi hadiah ulang tahun. Karen, kalau ia menyukaimu, akan memberimu benih Moondrop di musim semi. Tanam benih itu, lalu berikan bunganya saat mekar. Ada pula hadiah yang lebih mahal: bawa Orichalc dan 1.000 G ke Saibara, dan ia akan membuat perhiasan yang disukai sebagian besar perempuan di desa. Namun, perhiasan itu tetap satu hadiah di antara banyak hari.
 
 ### Blue Feather Datang Paling Akhir
 
@@ -56,7 +56,7 @@ Menurut abstraknya, jumlah jam bersama dikaitkan dengan pertemanan yang lebih de
 
 Siaran pers itu juga memberi angka perkiraan: sekitar 50 jam untuk naik dari sekadar kenalan menjadi teman santai, sekitar 90 jam lagi dari tahap itu untuk sampai ke status teman, dan lebih dari 200 jam sebelum seseorang bisa disebut sahabat dekat. Angka ini perlu dibaca dengan jujur. Jamnya diperkirakan sendiri oleh peserta, abstraknya hanya bicara soal keterkaitan, bukan ambang yang pasti, dan sumber lain melaporkan angka yang berbeda. Studinya pun tentang pertemanan, jadi bukan bukti apa pun soal asmara.
 
-Meski begitu, kalau dipikir-pikir, gambarannya mirip dengan hati di pojok kotak dialog. Dalam studi Hall, makin banyak jam bersama dikaitkan dengan pertemanan yang makin dekat, dan di gim panduan menyarankan hadiah serta perhatian yang diulang. Di gim pun, Blue Feather tidak bisa dibeli sebelum hatinya hampir merah: kedekatan harus datang lebih dulu, baru kemudian momen besarnya.
+Meski begitu, kalau dipikir-pikir, gambarannya mirip dengan hati di pojok kotak dialog. Dalam studi Hall, makin banyak jam bersama dikaitkan dengan pertemanan yang makin dekat, dan di gim panduan menyarankan hadiah serta perhatian yang diulang. Di gim pun, Blue Feather tidak bisa dibeli sebelum hatinya hampir atau sudah merah: kedekatan harus datang lebih dulu, baru kemudian momen besarnya.
 
 ### Key Takeaways
 

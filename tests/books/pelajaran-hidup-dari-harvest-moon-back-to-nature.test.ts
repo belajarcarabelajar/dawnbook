@@ -3,6 +3,7 @@ import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
 import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
+import { escapeHtml, extractLeadText, formatSerpDescription } from "../../scripts/inject-gating";
 import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
 
 const ROOT = path.resolve(import.meta.dir, "../..");
@@ -11,6 +12,25 @@ const NOTES = path.join(ROOT, "docs/code-plan/plans/research-dawnbook-harvest-mo
 const PLAN = path.join(ROOT, "docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md");
 
 const DATA_ROW = /^\| S[0-9]+ \|/;
+
+// Overridable so the meta-length case can be shown red on a mutated copy of the book.
+const META_BOOK = process.env.DAWNBOOK_HM_BOOK ?? BOOK;
+
+// GEMINI.md section 8 asks for 110 to 160; the site cuts chapter metas at 155.
+const META_MIN = 110;
+const META_MAX = 155;
+
+// The build reads the lead from the mdBook HTML with extractLeadText and cuts it like injectSeoAndGating
+// (155, then 145 if the escaped meta passes 160). Bun.markdown stands in for mdBook's CommonMark renderer.
+function chapterMeta(md: string): string {
+  const lead = extractLeadText(`<main>${Bun.markdown.html(md)}</main>`);
+  const meta = formatSerpDescription(lead, 155);
+  return escapeHtml(meta).length > 160 ? formatSerpDescription(lead, 145) : meta;
+}
+
+function metaOutOfRange(meta: string): boolean {
+  return meta.length < META_MIN || meta.length > META_MAX;
+}
 
 // The guide is a copyrighted OCR text, so it stays outside the repository and the scan reads it at run time.
 const GUIDE =
@@ -58,6 +78,33 @@ describe("book pelajaran-hidup-dari-harvest-moon-back-to-nature", () => {
       const min = isRef ? 3000 : 5500;
       expect({ f, size, ok: size >= min && size <= max }).toEqual({ f, size, ok: true });
     }
+  });
+
+  test("meta length check flags a short opener cut before a long second sentence and passes a 120-character one", () => {
+    const longSecond =
+      "Kamu datang hanya membawa ransel kecil, sedikit uang, dan janji kepada kakek bahwa ladang ini akan hidup lagi sebelum musim gugur pertama tiba.";
+    const shortOpener = "Ladang tua itu penuh batu, rumput liar, dan ranting patah di setiap sudutnya.";
+    const short = chapterMeta(`## Ladang\n\n${shortOpener} ${longSecond}\n\nParagraf berikutnya.\n`);
+    expect(short).toBe(shortOpener);
+    expect(short.length).toBe(77);
+    expect(metaOutOfRange(short)).toBe(true);
+
+    const okOpener =
+      "Setiap pagi kamu bangun sebelum ayam berkokok, menyiram tanaman satu per satu, lalu pergi ke desa menjual hasil kebunmu.";
+    const ok = chapterMeta(`## Ladang\n\n${okOpener} ${longSecond}\n`);
+    expect(ok).toBe(okOpener);
+    expect(ok.length).toBe(120);
+    expect(metaOutOfRange(ok)).toBe(false);
+  });
+
+  test("every chapter meta description, computed as the build does, is 110 to 155 characters", () => {
+    const files = contentFiles(META_BOOK);
+    expect(files.length).toBe(14);
+    const bad = files
+      .map((f) => ({ f, meta: chapterMeta(fs.readFileSync(path.join(META_BOOK, "src/content", f), "utf-8")) }))
+      .filter((m) => metaOutOfRange(m.meta))
+      .map((m) => ({ f: m.f, length: m.meta.length }));
+    expect(bad).toEqual([]);
   });
 
   test("source table allowlist ignores URLs mentioned only in prose", () => {
