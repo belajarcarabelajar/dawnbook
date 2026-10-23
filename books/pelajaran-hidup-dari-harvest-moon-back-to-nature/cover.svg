@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 630" width="630" height="630">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2d5e"/>
+      <stop offset="0.5" stop-color="#7a4e7e"/>
+      <stop offset="0.72" stop-color="#f0a06a"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0.55" stop-color="#ffe7a8" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#ffe7a8" stop-opacity="0"/>
+    </radialGradient>
+    <g id="sprout">
+      <path d="M0,0 L0,-15" stroke="#3f7a2a" stroke-width="4" stroke-linecap="round"/>
+      <ellipse cx="-9" cy="-17" rx="11" ry="5.5" transform="rotate(-30 -9 -17)" fill="#b5e061"/>
+      <ellipse cx="9" cy="-19" rx="11" ry="5.5" transform="rotate(30 9 -19)" fill="#b5e061"/>
+    </g>
+  </defs>
+  <rect width="630" height="630" fill="url(#sky)"/>
+  <g fill="#ffe7a8" opacity="0.85">
+    <circle cx="70" cy="70" r="4"/>
+    <circle cx="160" cy="130" r="4"/>
+    <circle cx="590" cy="60" r="4"/>
+    <circle cx="560" cy="150" r="4"/>
+  </g>
+  <circle cx="390" cy="200" r="190" fill="url(#halo)"/>
+  <circle cx="390" cy="200" r="125" fill="#ffe3a0"/>
+  <g fill="#f2cd85">
+    <circle cx="345" cy="160" r="22"/>
+    <circle cx="430" cy="235" r="16"/>
+    <circle cx="420" cy="140" r="10"/>
+  </g>
+  <path d="M0,375 C120,325 230,345 330,365 C430,385 520,325 630,340 L630,630 L0,630 Z" fill="#3f5a3a"/>
+  <g>
+    <polygon points="440,312 470,262 560,262 590,312" fill="#8e3328"/>
+    <rect x="452" y="305" width="126" height="110" fill="#c8553d"/>
+    <rect x="503" y="278" width="24" height="20" fill="#ffe3a0"/>
+    <rect x="490" y="345" width="50" height="70" fill="#8e3328"/>
+  </g>
+  <path d="M0,425 C140,392 300,398 420,408 C520,416 580,398 630,402 L630,630 L0,630 Z" fill="#5e8a3c"/>
+  <g>
+    <polygon points="404,396 384,380 392,404" fill="#fff4e2"/>
+    <ellipse cx="420" cy="400" rx="24" ry="17" fill="#fff4e2"/>
+    <circle cx="442" cy="380" r="11" fill="#fff4e2"/>
+    <path d="M436,370 C436,362 444,360 446,368 C450,362 456,366 452,372 Z" fill="#d9402f"/>
+    <polygon points="452,377 462,381 452,385" fill="#f0a032"/>
+    <g stroke="#f0a032" stroke-width="4" stroke-linecap="round">
+      <path d="M414,415 L412,428"/>
+      <path d="M427,415 L429,428"/>
+    </g>
+  </g>
+  <path d="M0,452 C200,432 430,436 630,452 L630,630 L0,630 Z" fill="#7fb04a"/>
+  <g fill="#73452a">
+    <polygon points="190,445 260,445 256.7,490 180,490"/>
+    <polygon points="270,445 340,445 343.3,490 266.7,490"/>
+    <polygon points="350,445 420,445 430,490 353.3,490"/>
+    <polygon points="177,502 255.7,502 251.7,552 165,552"/>
+    <polygon points="265.7,502 344.3,502 348.3,552 261.7,552"/>
+    <polygon points="354.3,502 433,502 445,552 348.3,552"/>
+    <polygon points="162,566 250.7,566 246,622 148,622"/>
+    <polygon points="260.7,566 339.3,566 354,622 256,622"/>
+    <polygon points="349.3,566 448,566 462,622 364,622"/>
+  </g>
+  <use href="#sprout" transform="translate(222,478) scale(0.9)"/>
+  <use href="#sprout" transform="translate(305,478) scale(0.9)"/>
+  <use href="#sprout" transform="translate(390,478) scale(0.9)"/>
+  <use href="#sprout" transform="translate(210,538) scale(1.15)"/>
+  <use href="#sprout" transform="translate(305,538) scale(1.15)"/>
+  <use href="#sprout" transform="translate(400,538) scale(1.15)"/>
+  <use href="#sprout" transform="translate(200,606) scale(1.4)"/>
+  <use href="#sprout" transform="translate(305,606) scale(1.4)"/>
+  <use href="#sprout" transform="translate(410,606) scale(1.4)"/>
+  <g>
+    <path d="M48,500 L52,540 C40,548 36,552 44,554 L118,554 C126,552 122,548 110,540 L112,500 Z" fill="#6b4226"/>
+    <ellipse cx="80" cy="500" rx="32" ry="12" fill="#d9a86a"/>
+    <ellipse cx="80" cy="500" rx="16" ry="6" fill="none" stroke="#a8743c" stroke-width="3"/>
+  </g>
+  <g fill="#9a96a8">
+    <ellipse cx="66" cy="592" rx="36" ry="21"/>
+    <ellipse cx="124" cy="614" rx="22" ry="14"/>
+    <ellipse cx="530" cy="604" rx="28" ry="16"/>
+  </g>
+  <g fill="#c4c0d0">
+    <ellipse cx="56" cy="584" rx="14" ry="6"/>
+    <ellipse cx="522" cy="598" rx="10" ry="5"/>
+  </g>
+  <g transform="translate(-16 0)">
+    <polygon points="605,488 625,468 625,543 605,563" fill="#7a4320"/>
+    <rect x="490" y="488" width="115" height="75" fill="#b06a35"/>
+    <polygon points="482,488 506,462 630,462 613,488" fill="#8a4f26"/>
+    <rect x="482" y="484" width="131" height="12" fill="#6b3a1c"/>
+    <g stroke="#7a4320" stroke-width="4">
+      <path d="M490,513 L605,513"/>
+      <path d="M490,538 L605,538"/>
+    </g>
+  </g>
+</svg>
