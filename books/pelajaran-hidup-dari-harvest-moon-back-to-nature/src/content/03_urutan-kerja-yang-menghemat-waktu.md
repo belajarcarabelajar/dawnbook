@@ -1,58 +1,51 @@
 ## Urutan Kerja yang Menghemat Waktu
 
-Di ladang warisan itu, waktu bisa menjadi musuh terbesarmu sekaligus sekutu terbaikmu, dan bedanya ada pada cara kamu memakainya. Panduan resmi Prima menuliskannya sebagai kiat utama: *"Time is your greatest enemy and your greatest ally."*
+Di ladang warisan itu, waktu bisa menjadi musuh terbesarmu sekaligus sekutu terbaikmu, tergantung cara kamu memakainya sejak pagi.
 
-Kedengarannya seperti paradoks, tapi siapa pun yang pernah memainkan HM BTN mengenal rasanya. Selama tokoh kita berada di luar ruangan, jam terus berjalan saat ia menyiram dan memanen. Kalau seluruh hari habis di ladang, kata panduan itu, si petani muda tidak akan pernah sempat mendekati gadis pujaannya dan menikah. Waktu yang sama, kalau dipakai dengan cermat, justru memberi ruang untuk semua hal lain.
+Di HM BTN, jam berdetak selama si petani berada di luar ruangan. Setiap siraman, setiap panen, setiap langkah dari kandang ke ladang memakan menit. Habiskan seluruh hari di ladang, dan si petani muda tidak akan pernah sempat mendekati gadis pujaannya, apalagi menikah. Hari yang sama, kalau disusun dengan cermat, masih menyisakan ruang untuk hal lain.
 
 ### Tenggat Pukul Lima Sore
 
-Setiap hari ada satu tenggat yang tidak bisa ditawar. Zack datang ke ladang pukul 17.00 untuk mengambil hasil panen dan langsung membayarnya di tempat, kecuali pada hari festival. Telur dari kandang ayam harus sudah masuk Harvest Bin sebelum jam itu, begitu juga bijih dari tambang.
+Setiap sore pukul 17.00, Zack datang mengambil isi Harvest Bin dan langsung membayarnya, kecuali pada hari festival. Telur dari kandang ayam dan bijih dari tambang harus sudah tersetor sebelum ia tiba. Satu tenggat itu diam-diam mengatur seluruh pagi dan siangmu.
 
-Festival pun bekerja seperti tenggat. Panduan menyarankan agar pekerjaan ladang beres sebelum berangkat, karena siapa pun yang datang lebih dari satu jam setelah festival dimulai tidak bisa ikut serta. Soal festival itu sendiri, kita bahas di bab 9.
+Festival punya tenggatnya sendiri. Siapa pun yang datang lebih dari satu jam setelah acara dimulai tidak bisa lagi ikut serta, jadi pekerjaan ladang sebaiknya beres sebelum berangkat. Festivalnya sendiri menunggu di bab 9.
 
-### Kandang Sapi Bertetangga dengan Istal
+### Kandang yang Bertetangga
 
-Kiat berikutnya terdengar sederhana: kerjakan tugas harian dalam urutan yang masuk akal. Setiap kali tokoh kita bolak-balik melintasi ladang tanpa rencana, menit-menit berharga ikut terbuang. Panduan memberi contoh dari tata letak ladang. Barn (kandang sapi dan domba) berdiri di sebelah istal kuda (*Stable*), sementara kandang ayam, kolam ikan, dan pohon apel letaknya berdekatan, jadi sebaiknya dikunjungi berurutan.
+Ladangmu sudah memberi petunjuk urutan lewat tata letaknya. Barn, tempat sapi dan domba, berdiri tepat di sebelah istal kuda (*Stable*). Kandang ayam, kolam ikan, dan pohon apel juga berdekatan. Kunjungi yang bertetangga secara berurutan, dan menit yang dulu habis untuk bolak-balik tanpa rencana kembali ke tanganmu.
 
-Ada juga jalan pintas kecil. Pada hari ayam-ayam dilepas ke luar kandang, kamu tidak perlu memberi pakan ayam, jadi panduan menyarankan melakukannya sesering mungkin, asal tidak saat hujan atau badai.
+Ada juga jalan pintas yang sering terlewat. Pada hari ayam-ayam dilepas ke luar kandang, mereka tidak perlu diberi pakan. Lakukan sesering mungkin, asal tidak saat hujan atau badai.
 
-Catatan penutupnya yang paling menarik. Setelah beberapa minggu, menurut panduan, pemain akan menemukan ritme alami untuk pekerjaannya. Urutan yang awalnya perlu dipikirkan akhirnya terasa wajar.
+Setelah beberapa minggu, urutan yang awalnya harus dipikirkan biasanya mulai terasa sebagai ritme. Kamu tidak perlu lagi lama menimbang mau ke mana dulu, karena kakimu sudah tahu jalannya.
 
 ### Waktu Berhenti di Balik Pintu
 
-Ada satu aturan yang mengubah cara bermain: selama tokoh kita berada di dalam bangunan, waktu berhenti. Karena itu panduan menyarankan agar sebanyak mungkin pekerjaan diselesaikan di dalam. Sapi dan domba disikat, diperah, dan dicukur di dalam kandang. Kuda diurus di dalam istal. Bahkan bermain dengan anjing pun sebaiknya dilakukan di dalam rumah.
+Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, dan anjing pun lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
 
-Aturan yang sama berlaku untuk menyetor panen. Menuang hasil panen ke *Harvest Bin* bisa memakan waktu sampai 20 menit kalau bawaan sedang penuh. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi panduan menyarankan menyetor di sana, tempat jam tidak bergerak. Untuk panen kecil, cara ini disebut lebih cepat daripada membawa keranjang berkeliling ladang.
+Menyetor panen ikut aturan yang sama. Menuang bawaan yang penuh ke Harvest Bin di luar bisa memakan sampai 20 menit. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi setorlah di sana, di tempat jam tidak bergerak.
 
 ### Tas Besar, Langkah Sedikit
 
-Masalah berikutnya adalah daya angkut. *Rucksack* bawaan awal hanya muat dua alat dan dua barang. Versi sedang seharga 3.000 G menampung empat alat dan empat barang. Versi besar seharga 5.000 G menampung delapan alat dan delapan barang, dan baru tersedia 10 hari setelah kamu membeli versi sedang. Ada pula *Basket* seharga 5.000 G yang memuat 30 barang dan berguna saat menambang bijih.
+*Rucksack* bawaan awal hanya muat dua alat dan dua barang. Panduan resmi Prima menyebut tas ini investasi terbaik seorang petani dan menyarankan membelinya secepatnya, bahkan sebelum hewan ternak. Versi sedang seharga 3.000 G sudah menggandakan daya angkutnya menjadi empat alat dan empat barang, dan versi besar seharga 5.000 G, yang baru muncul 10 hari setelah kamu membeli versi sedang, menampung delapan alat dan delapan barang.
 
-Panduan menyebut *Rucksack* sebagai investasi terbaik seorang petani dan menyarankan membelinya secepatnya, bahkan sebelum membeli hewan ternak. Makin banyak yang terbawa sekali jalan, makin sedikit langkah bolak-balik ke Harvest Bin.
+Logikanya sederhana. Makin banyak yang terbawa sekali jalan, makin jarang kamu bolak-balik ke Harvest Bin. Sebagian besar kiat penghemat waktu di buku Prima, dari memulihkan tenaga di Hot Spring (bab 2) sampai meminta bantuan Harvest Sprites (bab 12), bermuara ke hal yang sama: kurangi gerak yang tidak perlu.
 
-Cara lain menghemat waktu juga ada, seperti memulihkan tenaga di Hot Spring (bab 2), meningkatkan alat (bab 6), dan menyerahkan sebagian tugas kepada Harvest Sprites (bab 12). Benang yang menyatukan sebagian besar kiat itu sama: kurangi gerak yang tidak perlu.
+### Ongkos Kecil Setiap Kali Berpindah
 
-### Harga Tersembunyi dari Berganti Tugas
+Di luar gim, langkah bolak-balik itu punya padanan yang lebih halus, yaitu berpindah-pindah tugas. Dalam [empat eksperimen yang terbit tahun 2001](https://doi.org/10.1037/0096-1523.27.4.763), Rubinstein, Meyer, dan Evans meminta orang dewasa muda berganti-ganti tugas, misalnya dari soal matematika ke pengelompokan bentuk geometris. Setiap pergantian menambah waktu. Ongkosnya membesar saat aturan tugasnya rumit dan mengecil saat ada petunjuk tugas mana yang harus dikerjakan.
 
-Di luar gim, bolak-balik melintasi ladang punya padanan yang lebih halus, yaitu berpindah-pindah tugas. Rubinstein, Meyer, dan Evans menelitinya dalam [empat eksperimen yang terbit tahun 2001](https://doi.org/10.1037/0096-1523.27.4.763). Para peserta, orang dewasa muda, berganti-ganti antara tugas yang berbeda, seperti mengerjakan soal matematika atau mengelompokkan bentuk geometris, atau mengerjakan tugas yang sama berulang kali.
-
-Dalam studi ini, berganti tugas memakan waktu tambahan. Biayanya makin besar ketika aturan tugas makin rumit, dan mengecil ketika ada petunjuk yang menandai tugas mana yang harus dikerjakan. Para peneliti juga menulis bahwa beralih dari tugas yang akrab ke tugas yang asing tampaknya butuh waktu lebih lama daripada arah sebaliknya. Menurut siaran pers APA tentang studi itu, mengaktifkan aturan tugas saja memakan beberapa per sepuluh detik.
-
-Angka itu kecil, memang, dan diukur dalam percobaan singkat di laboratorium, bukan pada hari kerja sungguhan. Namun [halaman APA tentang multitasking](https://www.apa.org/topics/research/multitasking) mengingatkan bahwa biaya sekecil itu bisa menumpuk menjadi besar ketika orang terus bolak-balik antartugas. Multitasking mungkin tampak efisien, tetapi bisa jadi malah memakan lebih banyak waktu dan menambah kesalahan. Halaman yang sama mencatat bahwa David Meyer pernah menyebut jeda mental singkat akibat berganti tugas bisa memakan hingga 40 persen waktu produktif seseorang. Itu perkiraan Meyer, bukan hasil pengukuran eksperimen tadi.
+Angkanya kecil, sekadar beberapa per sepuluh detik untuk mengaktifkan aturan tugas yang baru, dan diukur dalam percobaan singkat di laboratorium, bukan pada hari kerja sungguhan. Namun [halaman APA tentang multitasking](https://www.apa.org/topics/research/multitasking) mengingatkan bahwa ongkos sekecil itu bisa menumpuk ketika orang terus berpindah sepanjang hari, sampai multitasking yang tampak efisien justru memakan lebih banyak waktu dan menambah kesalahan. David Meyer bahkan pernah memperkirakan jeda mental semacam itu bisa menghabiskan hingga 40 persen waktu produktif seseorang. Itu perkiraannya, bukan hasil pengukuran eksperimen tadi.
 
 ### Menyusun Rute Harianmu
 
-Kalau dipikir-pikir, kiat panduan Prima mirip dengan temuan itu, walau konteksnya jauh berbeda. Mengunjungi kandang ayam, kolam, dan pohon apel berurutan seperti mengelompokkan tugas yang letaknya berdekatan supaya tidak bolak-balik. Panduan bahkan memberi contoh rutinitas: setelah menanam dan menyiram, dan kalau tidak ada acara khusus, tokoh kita pergi ke gua dekat Hot Spring untuk menambang.
+Kandang ayam, kolam, dan pohon apel yang dikunjungi berurutan adalah versi ladang dari mengelompokkan tugas. Harimu bisa disusun dengan cara serupa. Balas semua pesan dalam satu waktu, jangan diselipkan di tengah pekerjaan lain. Kenali tenggat pukul limamu, entah jam kuliah, batas setor tugas, atau jam pulang kantor, lalu susun urutan mundur dari sana. Untuk pekerjaan yang paling butuh fokus, carilah tempat dan jam yang paling sedikit gangguannya, semacam ruangan tempat jammu seolah berhenti.
 
-Coba terapkan ke harimu sendiri. Kelompokkan pekerjaan yang "bertetangga", misalnya membalas semua pesan dalam satu waktu daripada menyelipkannya di tengah tugas lain. Kenali tenggat pukul limamu, entah jam kuliah, batas setor tugas, atau jam pulang kantor, lalu susun urutan mundur dari sana. Seperti tokoh kita yang menuntaskan sebanyak mungkin pekerjaan di dalam bangunan, carilah tempat dan jam yang paling sedikit gangguannya untuk pekerjaan yang paling butuh fokus.
-
-Tujuannya bukan supaya kamu bisa bekerja tanpa henti. Panduan sendiri berpesan agar kehidupan sosial tidak dilupakan, karena teman dan cinta sejati sulit ditemukan kalau seharian hanya bekerja di ladang (bab 9).
+Semua ini bukan supaya kamu bisa bekerja tanpa henti. Waktu yang dihemat di ladang justru disisakan untuk teman, festival, dan cinta sejati, yang sulit ditemukan kalau seharian kamu hanya bekerja di ladang (bab 9).
 
 ### Benang Merah
 
-- Waktu di HM BTN bisa menjadi musuh atau sekutu, dan bedanya terletak pada urutan kerja.
-- Tugas yang letaknya berdekatan dikerjakan berurutan, pekerjaan sebisa mungkin dituntaskan di dalam bangunan, dan tas yang lebih besar memangkas langkah bolak-balik.
-- Tenggat pukul 17.00 dan jam mulai festival membuat urutan itu penting.
-- Dalam studi Rubinstein, Meyer, dan Evans (2001), biaya berganti tugas membesar saat aturannya rumit dan mengecil saat ada petunjuk; halaman APA menambahkan bahwa biaya sekecil itu bisa menumpuk bila terus berulang.
+- Di HM BTN, jam hanya berjalan di luar ruangan, jadi tugas yang bertetangga dan pekerjaan yang dituntaskan di dalam bangunan menghemat menit paling banyak.
+- Tenggat pukul 17.00 dan jam mulai festival membuat urutan itu penting, dan tas yang lebih besar memangkas langkah bolak-balik.
+- Dalam percobaan Rubinstein, Meyer, dan Evans (2001), setiap pergantian tugas menambah waktu, dan ongkos kecil itu bisa menumpuk bila terus berulang.
 
-Urutan harian baru separuh cerita, karena di atas jam masih ada kalender: di bab berikutnya, kita melihat mengapa setiap benih punya musimnya sendiri.
+Urutan harian baru separuh cerita. Di atas jam masih ada kalender, dan di kalender itu setiap benih punya musimnya sendiri.
