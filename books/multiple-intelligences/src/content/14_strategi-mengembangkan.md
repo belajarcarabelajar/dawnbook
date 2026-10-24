@@ -26,7 +26,7 @@ Catat aktivitas harian kamu selama seminggu dan berikan skor 1 sampai 10 berdasa
 
 ## Strategi Menstimulasi Kecerdasan yang Tertidur
 
-Jangan patah semangat jika merasa kurang di satu atau dua bidang. Otak manusia dikaruniai **neuroplastisitas**, yakni kemampuan luar biasa untuk membentuk koneksi saraf baru berdasarkan pengalaman dan latihan berulang. 
+Jangan patah semangat jika merasa kurang di satu atau dua bidang. Otak manusia memiliki **neuroplastisitas**, yakni kemampuan untuk membentuk koneksi saraf baru berdasarkan pengalaman dan latihan berulang. 
 
 ### 1\. Kecerdasan Linguistik (Bahasa)
 

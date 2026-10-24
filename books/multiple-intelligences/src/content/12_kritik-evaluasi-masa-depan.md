@@ -1,8 +1,8 @@
 ## Kritik, Evaluasi, dan Masa Depan Teori Kecerdasan Majemuk
 
-Sejak diperkenalkan oleh Howard Gardner pada tahun 1983, Teori Kecerdasan Majemuk (MI) telah merevolusi dunia pendidikan. Namun, seperti halnya setiap teori besar yang menantang status quo, ia tidak lepas dari badai kritik. Di satu sisi, para pendidik memujinya karena sifatnya yang inklusif; di sisi lain, para psikolog kognitif mempertanyakan dasar ilmiahnya.
+Sejak diperkenalkan oleh Howard Gardner pada tahun 1983, Teori Kecerdasan Majemuk (MI) telah banyak memengaruhi dunia pendidikan. Namun, seperti halnya setiap teori besar yang menantang status quo, ia tidak lepas dari kritik. Di satu sisi, para pendidik memujinya karena sifatnya yang inklusif; di sisi lain, para psikolog kognitif mempertanyakan dasar ilmiahnya.
 
-Halaman ini akan membawa kamu menelusuri medan perdebatan intelektual ini, memahami tantangan teknis dalam pengukurannya, dan melihat bagaimana teori ini bertransformasi untuk menjawab tantangan abad ke-21.
+Halaman ini akan membawa kamu menelusuri perdebatan ini, memahami tantangan teknis dalam pengukurannya, dan melihat bagaimana teori ini bertransformasi untuk menjawab tantangan abad ke-21.
 
 ## 1\. Kritik Terhadap Validitas Teori
 

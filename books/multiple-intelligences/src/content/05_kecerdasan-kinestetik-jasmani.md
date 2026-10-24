@@ -87,6 +87,6 @@ Dengan angka ilustrasi yang sama, anggap lengan mulai dari posisi 0 dan sasarann
 
 Dalam contoh ini, gerakan berhenti ketika sisa jarak tidak lebih dari 0,01. Dengan aturan ini, batas itu baru terlewati pada langkah ke-66, saat sisa jaraknya tinggal sekitar 0,0096 dan lengan berada di posisi sekitar 9,99. Langkah awal besar, langkah akhir sangat kecil.
 
-Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurasi maksimal.
+Perlambatan bertahap ini bekerja persis seperti sistem saraf saat kamu mengulurkan tangan mengambil sebuah gelas. Menjelang jari bersentuhan dengan permukaan kaca, kecepatan tangan otomatis turun drastis demi menghindari benturan kasar. Efek perlambatan atau *damping* ini memastikan objek dikendalikan dengan akurat.
 
-Kecerdasan fisik pada akhirnya membuktikan bahwa fungsi tubuh merupakan medium eksekusi yang integral dengan proses analisis ruang. Keterampilan motorik inilah yang menjembatani parameter teoretis agar bisa dirakit menjadi instrumen nyata.
+Kecerdasan fisik pada akhirnya membuktikan bahwa tubuh bekerja menyatu dengan proses analisis ruang. Keterampilan motorik inilah yang mengubah rancangan teoretis menjadi benda nyata.
