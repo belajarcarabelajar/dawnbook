@@ -12,7 +12,7 @@ Arete berarti menjadi versi terbaik dari sesuatu sesuai dengan fungsinya (*ergon
 
 > **Analogi Pisau yang Unggul** Bayangkan kamu memiliki sebuah pisau. Apa fungsi utama sebuah pisau? Tentu saja untuk memotong. Sebuah pisau dikatakan memiliki *Arete* jika ia sangat tajam, nyaman digenggam, dan mampu memotong dengan presisi. Sebaliknya, pisau yang tumpul kehilangan "keutamaannya" karena ia gagal memenuhi fungsi hakikinya.
 
-Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan luar biasa.
+Bagi manusia, Arete berarti **keunggulan dalam menggunakan akal budi (rasio)** untuk menjalani hidup. Jika fungsi unik manusia adalah berpikir dan bertindak secara rasional, maka Arete adalah kualitas yang memungkinkan manusia melakukan hal tersebut dengan baik.
 
 ## 2\. Keutamaan Intelektual vs. Moral
 

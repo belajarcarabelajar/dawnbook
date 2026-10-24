@@ -1,6 +1,6 @@
 ## Kebangkitan Etika Kebajikan Kontemporer
 
-Selama berabad-abad, dunia filsafat moral didominasi oleh dua raksasa: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme**. Raksasa kedua itu berfokus pada konsekuensi dan hasil akhir. Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang amat mendasar: manusia itu sendiri.
+Selama berabad-abad, dunia filsafat moral didominasi oleh dua teori: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme**. Teori kedua itu berfokus pada konsekuensi dan hasil akhir. Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang amat mendasar: manusia itu sendiri.
 
 Bagian ini mengeksplorasi bagaimana tradisi Aristotelian yang sempat "tertidur" bangkit kembali melalui pemikiran tajam tokoh-tokoh seperti Elizabeth Anscombe dan Alasdair MacIntyre.
 
@@ -51,10 +51,10 @@ Di dunia yang serba kompleks ini, aturan yang terlalu kaku kerap kali menemui ke
 
 ### Etika Profesional
 
-Gema kebangkitan etika kebajikan ini sangat terasa di ranah praktik, misalnya dalam profesi kedokteran. Bayangkan skenario seorang dokter yang harus menyampaikan diagnosis berat kepada pasien penderita penyakit terminal.
+Kebangkitan etika kebajikan ini terasa di ranah praktik, misalnya dalam profesi kedokteran. Bayangkan skenario seorang dokter yang harus menyampaikan diagnosis berat kepada pasien penderita penyakit terminal.
 
 Jika berpegang teguh pada pendekatan berbasis aturan, sang dokter mungkin sekadar menyampaikan hasil rekam medis secara kaku atas nama prosedur. Di sisi lain, dokter dengan pola pikir utilitarian mungkin akan sibuk menimbang apakah memberitahu kebenaran justru memperburuk kondisi psikologis pasien, sehingga ia memanipulasi informasi demi "kebaikan yang lebih besar".
 
-Namun, dokter yang mempraktikkan etika kebajikan akan berpikir dengan cara yang berbeda. Ia bertanya pada dirinya sendiri mengenai bagaimana seharusnya sikap seorang tenaga medis yang memiliki kebijaksanaan (*Phronesis*) dan kelembutan hati. Keunggulan moralnya terpancar melampaui selembar resep yang ia tulis. Karakter tersebut mewujud nyata dalam kemampuannya menempatkan kejujuran profesional bersisian dengan empati kemanusiaan.
+Namun, dokter yang mempraktikkan etika kebajikan akan berpikir dengan cara yang berbeda. Ia bertanya pada dirinya sendiri mengenai bagaimana seharusnya sikap seorang tenaga medis yang memiliki kebijaksanaan (*Phronesis*) dan kelembutan hati. Keunggulan moralnya tidak berhenti pada resep yang ia tulis. Karakter tersebut terlihat dalam kemampuannya menempatkan kejujuran profesional bersisian dengan empati kemanusiaan.
 
-Pada akhirnya, kebangkitan etika kebajikan kontemporer membawa kita pulang pada esensi kehidupan. Membentuk karakter dan mengukir jiwa agar menjadi lebih bermakna adalah proses seumur hidup. Moralitas tidak lagi dilihat sebagai upaya melelahkan untuk terus menjadi pengawas bagi diri sendiri, tetapi sebagai perjalanan organik untuk mewujudkan potensi terbaik sebagai seorang manusia.
+Pada akhirnya, kebangkitan etika kebajikan kontemporer mengembalikan perhatian kita pada manusia itu sendiri. Membentuk karakter agar hidup menjadi lebih bermakna adalah proses seumur hidup. Moralitas tidak lagi dilihat sebagai upaya melelahkan untuk terus menjadi pengawas bagi diri sendiri, tetapi sebagai perjalanan untuk mewujudkan potensi terbaik sebagai seorang manusia.
