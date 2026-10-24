@@ -1,6 +1,6 @@
 ## Teknik Pemahatan dan Gaya Seni Shailendra
 
-Selamat datang di pembahasan mengenai aspek estetika dari Relief Karmawibhangga. Jika sebelumnya kita telah melihat apa saja pesan moral yang terkandung di dalamnya, sekarang kita akan membedah **bagaimana** pesan-pesan tersebut diwujudkan melalui pahatan batu.
+Relief Karmawibhangga tidak hanya menyimpan pesan moral, tetapi juga sisi estetika yang lahir dari cara setiap adegannya dipahat pada batu. Jika sebelumnya kita telah melihat apa saja pesan moral yang terkandung di dalamnya, sekarang kita akan membedah **bagaimana** pesan-pesan tersebut diwujudkan melalui pahatan batu.
 
 Gaya seni masa Wangsa Shailendra (abad ke-8 hingga ke-9 Masehi) bukan sekadar teknik memahat, melainkan sarana untuk menyampaikan ajaran.
 
