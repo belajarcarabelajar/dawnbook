@@ -6,7 +6,7 @@ Jika pola ini terus dibiarkan, kelas hanya menjadi tempat guru berbicara. Siswa 
 
 ### Masalah Komunikasi di Kelas
 
-Berdasarkan analisis interaksi pembelajaran, ada tiga kendala utama dalam wacana kelas konvensional:
+Berdasarkan analisis interaksi pembelajaran dalam penelitian itu, ada tiga kendala utama dalam wacana kelas konvensional:
 
 1. **Pengulangan Mekanis tanpa Clarification**: Guru kerap mengulang ucapan siswa sekadar untuk mengisi transisi antar-topik, bukan untuk memperdalam pemahaman.
 2. **Umpan Balik Ambigu**: Ketika siswa memberikan jawaban yang bervariasi, guru kerap membiarkan tanpa konfirmasi atau justru membenarkan semua opsi yang saling bertolak belakang. Hal ini memicu kebingungan konsep pada anak.

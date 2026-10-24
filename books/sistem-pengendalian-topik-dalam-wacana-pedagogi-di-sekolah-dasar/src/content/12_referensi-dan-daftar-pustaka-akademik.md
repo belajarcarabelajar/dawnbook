@@ -6,7 +6,7 @@ Bab ini memuat sintesis akhir pembahasan sistem pengendalian topik dalam wacana 
 
 Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hirarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hirarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
 
-Temuan pokok penelitian Marliana (2017) yang menjadi bahan seluruh bab buku ini meliputi:
+Temuan pokok penelitian Marliana (2017) yang menjadi dasar pembahasan di buku ini meliputi:
 
 1. **Dominasi Guru dalam Pengajuan Topik**: Guru bertindak sebagai pemegang kendali utama topik perbincangan. Pengendalian ini dilakukan melalui pertanyaan tertutup maupun pernyataan awal yang mengarahkan fokus perhatian seluruh siswa.
 2. **Penggunaan Pemarkah Wacana**: Pengeluaran kata-kata penanda transisi seperti *ya*, *nah*, *jadi*, *baik*, *coba*, dan *kalau begitu* menjadi alat kebahasaan utama bagi guru untuk membuka, mengalihkan, atau menutup topik pembelajaran.

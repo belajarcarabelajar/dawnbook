@@ -5,7 +5,7 @@ Dalam studi pendidikan, perhatian peneliti sering kali tertuju pada komponen fis
 Kajian wacana pedagogi (*pedagogic discourse*) atau wacana kelas (*classroom discourse*) hadir untuk mengisi ruang kosong ini. Melalui kacamata linguistik terapan, kelas tidak lagi dilihat hanya sebagai ruang fisik tempat materi disampaikan, melainkan sebagai sebuah lingkungan komunikasi yang memiliki struktur bahasa dan norma sosial tersendiri.
 
 > "Kajian wacana pedagogi memberikan bekal pengetahuan mendasar untuk memahami hubungan riil antara teori pedagogi dan praktisnya di lapangan."
-> (Coulthard & Brazil, 1989)
+> (Coulthard & Brazil, 1989, dalam Marliana, 2017)
 
 ### Mengapa Fokus Bergeser ke Wacana Kelas?
 

@@ -63,7 +63,7 @@ Meskipun guru memerlukan kendali untuk menjaga agar pembelajaran tetap terarah, 
 
 #### Lima Ciri Pengendalian Topik di Kelas
 
-Pengendalian dan peralihan topik dalam interaksi kelas umumnya ditandai oleh lima ciri utama:
+Dalam penelitian Marliana (2017), pengendalian dan peralihan topik dalam interaksi kelas ditandai oleh lima ciri utama:
 
 1. **Pertanyaan Guru**: Penggunaan pertanyaan untuk membuka topik baru atau menguji pemahaman siswa.
 2. **Kata Sapaan Siswa**: Panggilan seperti "Bu" atau "Pak" ketika siswa mencoba meminta perhatian atau memulai interaksi.

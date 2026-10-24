@@ -8,7 +8,7 @@ Ketika kamu mengamati suasana pembelajaran di sekolah dasar, perlakuan respons i
 
 ### Bentuk-Bentuk Penguatan Respons Siswa
 
-Dalam wacana pedagogi sekolah dasar, perlakuan dan penguatan terhadap respons siswa secara umum terbagi menjadi dua bentuk utama, yaitu pemberian pujian dan pengulangan jawaban siswa.
+Dalam wacana pedagogi sekolah dasar yang diteliti Marliana (2017), perlakuan dan penguatan terhadap respons siswa terbagi menjadi dua bentuk utama, yaitu pemberian pujian dan pengulangan jawaban siswa.
 
 | Bentuk Penguatan | Bentuk Ujaran / Tindakan | Fungsi Wacana Utama | Dampak Terhadap Siswa |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan Marliana, 2017
 
 ### Ilustrasi Transkrip Percakapan dan Pembahasan
 
-Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, amati contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
+Untuk memahami bagaimana penguatan respons berfungsi, amati contoh ilustrasi pertukaran wacana antara guru (G) dan siswa (S) berikut, yang bukan kutipan data penelitian.
 
 #### Penguatan Berupa Pujian Verbal
 

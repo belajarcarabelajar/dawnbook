@@ -17,6 +17,8 @@ Tabel berikut menunjukkan distribusi frekuensi respons siswa terhadap strategi p
 | **Langsung Direspons** | 28% | 11% | Siswa siap dan langsung mengambil giliran bicara. |
 | **Tidak Langsung Direspons** | 31% | 51% | Perlu pengulangan pertanyaan atau pancingan tambahan. |
 
+*(Angka persentase dari Marliana, 2017)*
+
 Pada Teks 1, misalnya, pertanyaan guru yang tidak langsung direspons siswa mencapai 51%, sedangkan yang langsung direspons hanya 11%. Secara keseluruhan, pertanyaan guru yang tidak langsung direspons (31%) lebih banyak daripada yang langsung direspons (28%).
 
 Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung memosisikan diri sebagai penerima pasif yang baru akan bersuara jika pemicunya adalah pertanyaan spesifik dari guru.
@@ -39,6 +41,8 @@ Cermati contoh transkripsi wacana kelas berikut yang membahas topik alat komunik
 | 8 | 101 | Respons | Siswa | "Pencet nomernya." | Menjelaskan tindakan penekanan tombol |
 | 8 | 102 | Komen | Guru | "Iya.., ditekan nomer teleponnya." | Penguatan dengan bahasa baku |
 | 8 | 103 | Komen | Guru | "Iya, dipencet, iya..." | Pengesahan ragam bahasa siswa |
+
+*(Dikutip dan diolah dari Kutipan Teks 11, Alat Komunikasi, dalam Marliana, 2017)*
 
 Pada transkrip di atas, setiap pertukaran selalu dipicu oleh pertanyaan guru. Pada gerakan 096, guru mengarahkan fokus kelas pada prosedur penggunaan telepon. Setelah siswa menjawab pada gerakan 097, guru tidak membiarkan siswa mengembangkan topik secara bebas. Guru langsung memegang kendali kembali pada gerakan 098 dan 100 dengan mengajukan pertanyaan urutan berikutnya.
 
