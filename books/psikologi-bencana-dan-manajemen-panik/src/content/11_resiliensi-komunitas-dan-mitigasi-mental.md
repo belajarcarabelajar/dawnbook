@@ -6,7 +6,7 @@ Prinsip bio-mekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas
 
 ---
 
-### Resiliensi Melampaui Sekadar Bertahan
+### Resiliensi Bukan Sekadar Kembali Seperti Semula
 
 Resiliensi kerap disederhanakan sebagai upaya pasif untuk memulihkan keadaan kembali persis seperti semula (*restitution*). Namun, dalam diskursus psikologi bencana kontemporer, resiliensi dipahami sebagai kapasitas dinamis suatu entitas sosial untuk **beradaptasi secara positif** terhadap disrupsi ekstrem, memitigasi distres massal, dan melakukan transformasi fungsional pascakrisis.
 
@@ -58,7 +58,7 @@ Ketika warga memahami secara presisi arah jalur evakuasi, titik kumpul aman, dan
 
 ---
 
-### Tiga Pilar Modal Sosial (*Social Capital*)
+### Tiga Jenis Modal Sosial (*Social Capital*)
 
 Dalam fase awal kedaruratan bencana, tetangga dan warga sekitar adalah garda terdepan penyelamatan (*first responders*). Kepadatan dan kualitas jaringan sosial berfungsi sebagai peredam guncangan (*shock absorber*) emosional dan logistik.
 

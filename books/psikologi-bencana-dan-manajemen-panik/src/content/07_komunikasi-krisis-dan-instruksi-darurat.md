@@ -118,7 +118,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 ---
 
-### 8. Analisis Penerapan dan Sintesis Taktis
+### 8. Pesan Evakuasi Lima Detik di Tengah Banjir Bandang
 
 Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 

@@ -100,7 +100,7 @@ Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 1
    - *Decide:* Mengalihkan jalur evakuasi menuju tangga darurat sisi timur.
    - *Act:* Merunduk rendah di bawah lapisan asap dan bergerak terarah menuju tangga darurat sisi timur.
 
-## Pembentukan Ketajaman Mental dan Refleksi Praktis
+## Melatih Kesiapan Kognitif Sebelum Krisis
 
 Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesungguhnya terjadi:
 

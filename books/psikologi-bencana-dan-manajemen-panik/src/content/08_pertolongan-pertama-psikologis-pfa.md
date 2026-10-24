@@ -94,7 +94,7 @@ Menjamin keberlanjutan bantuan melalui koordinasi lintas sektor:
 
 ---
 
-### Pemodelan Matematis Resiliensi Krisis
+### Hubungan Distres, Stresor, dan Sumber Daya Dukungan
 
 Secara konseptual, besarnya tingkat distres psikologis pascabencana ($D$) berbanding lurus dengan intensitas stresor lingkungan ($S$) dan berbanding terbalik dengan ketersediaan sumber daya dukungan (*Resources* / $R$):
 

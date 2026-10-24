@@ -4,7 +4,7 @@ Bayangkan seseorang sedang melintasi jalur hutan yang sunyi, lalu tiba-tiba sema
 
 Reaksi kilat ini merupakan manifestasi dari mekanisme pertahanan biologis purba. Dalam dinamika krisis dan bencana alam, memahami cara kerja saraf di balik rasa takut bukan sekadar diskursus biomedis teoretis, melainkan dasar untuk merebut kembali kendali kognitif tatkala lingkungan sekitar berada dalam kekacauan.
 
-### Pertarungan Si Penjaga dan Si Pemikir di Otak
+### Amigdala dan Korteks Prefrontal
 
 Untuk mengurai dinamika kepanikan, perlu dipahami relasi timbal balik dan ketegangan fungsional antara dua wilayah kunci di dalam sistem saraf pusat:
 
@@ -48,11 +48,11 @@ Penelitian neurobiologis oleh Joseph LeDoux mengidentifikasi dua lintasan sirkui
 
 > **Prinsip Utama:** Keberhasilan mitigasi panik saat kondisi darurat ditentukan oleh seberapa cepat individu mampu mengaktifkan kembali *Jalur Lambat* ($\text{The High Road}$) agar kendali rasional kognitif segera mengambil alih kendali motorik.
 
-### Pedal Gas dan Rem Sistem Saraf Otonom
+### Dua Divisi Sistem Saraf Otonom
 
 Reaksi fisiologis tubuh terhadap bencana dimediasi oleh Sistem Saraf Otonom (*Autonomic Nervous System*), yang terbagi menjadi dua divisi fungsional:
 
-#### Sistem Saraf Simpatik (Akselerator Tubuh)
+#### Sistem Saraf Simpatik
 
 Aktivasi amigdala memicu kaskade simpatoadrenal yang mempersiapkan organisme untuk menghadapi ancaman (*fight-or-flight*). Pelepasan hormon katekolamin memicu sejumlah perubahan fisiologis:
 
@@ -62,7 +62,7 @@ Aktivasi amigdala memicu kaskade simpatoadrenal yang mempersiapkan organisme unt
 - **Midriasis (Dilatasi Pupil):** Memaksimalkan penetrasi cahaya ke retina guna memperluas visibilitas spasial terhadap sumber ancaman.
 - **Diaforesis (Keringat Dingin):** Mempersiapkan mekanisme pendinginan termal tubuh selama pengerahan energi fisik ekstrem.
 
-#### Sistem Saraf Parasimpatik (Rem Penenang)
+#### Sistem Saraf Parasimpatik
 
 Cabang parasimpatik, yang didominasi oleh aktivitas Nervus Vagus, berfungsi sebagai sistem pemulihan (*rest and digest*). Sistem ini menurunkan denyut nadi, merelaksasi otot, dan menormalkan kembali tekanan darah setelah fase kritis terlewati. Dalam protokol pertolongan pertama psikologis, manipulasi pernapasan ritmis bertindak sebagai stimulasi langsung terhadap tonus vagal guna menginjak "rem" fisiologis ini secara sadar.
 
