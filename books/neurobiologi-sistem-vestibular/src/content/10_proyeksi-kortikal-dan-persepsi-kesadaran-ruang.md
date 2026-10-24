@@ -1,6 +1,6 @@
 ## Proyeksi Kortikal dan Persepsi Kesadaran Ruang
 
-Pernahkah seseorang terbangun di tengah malam dalam ruangan yang gelap gulita, namun masih mengetahui persis di mana arah "atas" dan bagaimana posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
+Pernahkah seseorang terbangun tengah malam di ruangan gelap gulita, namun masih tahu persis arah "atas" dan posisi tubuh terhadap tempat tidur? Atau bayangkan ketika seseorang berada di dalam lift yang bergerak sangat halus; meskipun mata tidak melihat perubahan pemandangan di luar, tubuh tetap dapat "merasakan" pergerakan naik atau turun.
 
 Kesadaran spasial ini bukanlah kebetulan, melainkan hasil kerja integratif **proyeksi kortikal** sistem vestibular. Jika bagian sistem vestibular sebelumnya (seperti refleks vestibulo-okular dan kontrol postur) bekerja secara otomatis di bawah sadar, proyeksi kortikal merupakan gerbang utama yang memungkinkan manusia secara sadar memahami pergerakan diri (*self-motion*) dan orientasi dalam ruang tiga dimensi.
 

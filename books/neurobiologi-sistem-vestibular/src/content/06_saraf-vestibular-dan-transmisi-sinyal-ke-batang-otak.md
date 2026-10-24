@@ -1,6 +1,6 @@
 ## Saraf Vestibular dan Transmisi Sinyal ke Batang Otak
 
-Setelah sel rambut vestibular berhasil mengubah gerakan mekanis menjadi sinyal listrik melalui proses transduksi, tugas berikutnya adalah mengirimkan data tersebut ke pusat integrasi di otak. Jika sel rambut dianalogikan sebagai mikrofon yang menangkap gelombang suara, maka sistem membutuhkan kabel penghantar berkualitas tinggi untuk mengirimkan rekaman sinyal tersebut ke unit pemrosesan pusat tanpa distorsi.
+Setelah sel rambut vestibular mengubah gerakan mekanis menjadi sinyal listrik melalui transduksi, data itu harus dikirim ke pusat integrasi di otak. Jika sel rambut dianalogikan sebagai mikrofon yang menangkap gelombang suara, maka sistem membutuhkan kabel penghantar berkualitas tinggi untuk mengirimkan rekaman sinyal tersebut ke unit pemrosesan pusat tanpa distorsi.
 
 Dalam sistem vestibular, jalur transmisi ini dibentuk oleh **Saraf Vestibular**, yang merupakan bagian vestibular dari Saraf Kranial ke-VIII (*Nervus Vestibulocochlearis*). Bagian ini menghubungkan reseptor perifer di telinga dalam menuju nukleus vestibularis di batang otak.
 
