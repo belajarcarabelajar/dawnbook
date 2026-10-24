@@ -130,7 +130,7 @@ Hasil ini sama dengan $1000 \times (\frac{1}{2})^2$ pada rumus praktis di bagian
 
 **Skenario Arkeologi (Carbon Dating):** Isotop Karbon-14 meluruh melalui proses beta dengan waktu paruh 5.730 tahun. Dengan mengukur perbandingan Karbon-14 yang tersisa dibandingkan dengan Karbon-12 yang stabil pada artefak kayu kuno, ilmuwan dapat menghitung usia artefak tersebut berdasarkan rumus laju peluruhan di atas.
 
-### Ringkasan Cepat
+### Empat Konsep Kunci Laju Peluruhan
 
 - **Laju peluruhan** sebanding dengan jumlah inti yang ada.
 - **Konstanta peluruhan ($\lambda$)** menentukan seberapa agresif suatu zat meluruh.

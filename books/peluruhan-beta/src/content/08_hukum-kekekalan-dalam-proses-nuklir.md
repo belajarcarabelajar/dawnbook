@@ -92,7 +92,7 @@ Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil 
 1. Mengetahui berapa banyak daya yang dihasilkan reaktor tanpa harus masuk ke dalam gedung.
 2. Memastikan tidak ada material nuklir yang dicuri atau disalahgunakan untuk senjata (non-proliferasi), karena tanda tangan antineutrino akan berubah jika komposisi bahan bakar berubah.
 
-## Ringkasan Perbandingan
+## Tiga Hukum Kekekalan di Tiga Proses Beta
 
 | Hukum Kekekalan | Peluruhan $\beta^-$ | Peluruhan $\beta^+$ | Penangkapan Elektron |
 | --- | --- | --- | --- |

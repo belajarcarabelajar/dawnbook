@@ -28,7 +28,7 @@ Neutron dan proton tersusun dari partikel yang lebih kecil yang disebut **quark*
 
 Dalam peluruhan $\beta^-$, satu quark **down** di dalam neutron berubah menjadi quark **up**. Perubahan identitas quark inilah yang mengubah neutron menjadi proton.
 
-### 2. Persamaan Reaksi Nuklir
+### 2. Persamaan Peluruhan Beta Minus
 
 Secara matematis, proses dasar ini dapat dituliskan sebagai: $n \rightarrow p + e^- + \bar{\nu}_e$
 

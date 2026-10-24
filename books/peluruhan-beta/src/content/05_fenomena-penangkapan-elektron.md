@@ -72,7 +72,7 @@ Penangkapan elektron bukan sekadar teori fisika; ia memiliki kegunaan praktis ya
 
 - **Penanggalan Geologis (Kalium-Argon):** Salah satu cara untuk menentukan usia batuan purba adalah dengan melihat peluruhan Kalium-40 (${}^{40}\text{K}$) menjadi Argon-40 (${}^{40}\text{Ar}$) melalui penangkapan elektron. Karena Argon adalah gas, keberadaannya di dalam kristal batuan menunjukkan berapa lama waktu telah berlalu sejak batuan tersebut membeku.
 
-### Ringkasan Perbandingan
+### Beta Plus vs. Penangkapan Elektron
 
 | Fitur | Peluruhan Beta Plus ($\beta^+$) | Penangkapan Elektron (EC) |
 | --- | --- | --- |

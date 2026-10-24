@@ -40,7 +40,7 @@ $$
 
 *Di mana $X$ adalah inti induk, $Y$ adalah inti anak, $e^-$ adalah partikel beta, dan $\bar{\nu}_e$ adalah antineutrino (partikel hantu yang akan kita bahas di bagian selanjutnya).*
 
-## Mengapa Peluruhan Beta Terjadi?
+## Melepas Kelebihan Energi Inti
 
 Inti atom dijaga oleh gaya nuklir kuat. Namun, gaya ini hanya bekerja efektif jika jumlah proton dan neutron berada dalam rasio yang tepat.
 

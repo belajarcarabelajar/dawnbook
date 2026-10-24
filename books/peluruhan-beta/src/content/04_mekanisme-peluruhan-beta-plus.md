@@ -16,7 +16,7 @@ Peluruhan Beta Plus, yang juga dikenal sebagai **emisi positron**, terjadi pada 
 
 > **Analogi Sederhana:** Bayangkan sebuah bus (inti atom) yang terlalu penuh dengan penumpang berbaju merah (proton) sehingga suasana menjadi panas karena gaya tolak-menolak. Untuk menstabilkan suasana, salah satu penumpang berbaju merah melepas jaket merahnya (muatan positif) dan berubah menjadi penumpang berbaju biru (neutron) yang lebih tenang. Jaket merah tersebut dilempar keluar jendela bus sebagai **positron**.
 
-### 2. Persamaan Reaksi Nuklir
+### 2. Persamaan Peluruhan Beta Plus
 
 Secara matematis dan fisik, proses ini dapat dituliskan dalam persamaan berikut:
 
@@ -95,7 +95,7 @@ $$
 - **Hasil:** Unsur dengan $Z=5$ adalah Boron.
 - **Partikel Tambahan:** Positron dilepaskan ke lingkungan, dan neutrino membawa sisa energi kinetik.
 
-### Ringkasan Cepat
+### Rekap Peluruhan Beta Plus
 
 | Komponen | Perubahan / Peran |
 | --- | --- |
