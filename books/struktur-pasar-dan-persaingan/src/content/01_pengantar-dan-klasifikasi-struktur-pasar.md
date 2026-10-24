@@ -1,6 +1,6 @@
 ## Pengantar dan Klasifikasi Struktur Pasar
 
-Selamat datang di modul pertama mengenai **Struktur Pasar dan Persaingan**. Sebelum masuk ke berbagai model ekonomi, kita perlu memahami dulu apa itu "struktur pasar" dan mengapa hal ini menjadi penentu utama perilaku perusahaan di dunia nyata.
+Sebelum masuk ke model ekonomi, kita perlu paham apa itu "struktur pasar" dan mengapa ia penentu utama perilaku perusahaan di dunia nyata.
 
 Bayangkan kamu masuk ke sebuah pasar tradisional. Di sana, puluhan pedagang menjual cabai dengan kualitas yang hampir sama. Sekarang, bandingkan dengan saat kamu ingin membeli sistem operasi untuk komputer (pilihan kamu sangat terbatas, mungkin hanya antara Windows atau macOS). Mengapa kedua situasi ini berbeda? Itulah yang dipelajari dalam struktur pasar.
 
