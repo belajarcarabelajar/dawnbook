@@ -126,9 +126,9 @@ Melindungi pemilik mobil atau motor dari kerugian akibat kecelakaan, hilang, dan
 **Hal yang perlu dicek sebelum membeli:**
 - Kalau mobil baru, biasanya lebih aman pakai all risk.
 - Sesuaikan dengan dana yang kamu punya.
-- Perhatikan area parkir dan rute harianmu. Kalau rawan banjir, tambah rider perluasan.
+- Amati area parkir dan rute harianmu. Kalau rawan banjir, tambah rider perluasan.
 - Cek ketersediaan bengkel rekanan yang bagus.
-- Perhatikan biaya risiko sendiri (deductible) yang harus dibayar per kejadian klaim.
+- Cermati biaya risiko sendiri (deductible) yang harus dibayar per kejadian klaim.
 
 ### 4. Asuransi Properti
 
