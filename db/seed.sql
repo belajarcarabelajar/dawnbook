@@ -1281,8 +1281,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2422,8 +2422,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4014,8 +4014,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4972,8 +4972,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5032,7 +5032,7 @@ Banyak orang menanggapi masalah ini dengan membeli planner baru atau mengunduh a
 
 Alasannya masuk akal kalau kita lihat apa yang ditemukan Steel. Prediktor yang kuat dan konsisten dalam meta-analisisnya antara lain *task aversiveness* (betapa tidak enaknya sebuah tugas), *self-efficacy* (keyakinan bahwa kamu sanggup), *impulsiveness*, serta *conscientiousness* beserta fasetnya seperti kontrol diri dan kemampuan mengorganisasi. Sebaliknya, *neuroticism* hanya berkaitan lemah. Semua itu temuan korelasional, jadi kita membacanya sebagai pola, bukan sebagai bukti sebab-akibat. Namun polanya jelas: daftar itu penuh soal perasaan terhadap tugas dan kemampuan mengendalikan diri, sedangkan jadwal tidak tampak di dalamnya. Misalnya, planner yang tersusun rapi tidak banyak menolong ketika kamu duduk di depan tugas, rasanya tidak enak, dan godaan yang lebih ringan sedang menunggu di ponsel.
 
-Perlu dicatat juga bahwa hasil Steel konsisten dengan **temporal motivation theory**, perpaduan teori ekspektansi dan diskonto hiperbolik, yang akan menjadi tulang punggung bab-bab berikutnya.
+Perlu dicatat juga bahwa hasil Steel konsisten dengan **temporal motivation theory**, perpaduan teori ekspektansi dan diskonto hiperbolik, yang akan menjadi tulang punggung pembahasan sesudah ini.
 
 ### Peta perjalanan kita
 
@@ -5040,13 +5040,9 @@ Buku ini bergerak dari penjelasan ke tindakan. Setelah bab ini, kamu akan berken
 
 ## Ringkasan
 
-- Definisi Steel (2007): menunda adalah menangguhkan secara sukarela tindakan yang sudah diniatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya.
-- Ada **niat** pada penunda, sedangkan orang malas tidak punya niat bertindak sama sekali.
-- Memprioritaskan dan *strategic delay* (Klingsieck, 2013) sama-sama menunda, tetapi tanpa harapan rugi: yang pertama karena ada urusan lebih penting, yang kedua karena menunggu memang menguntungkan.
-- Rozental dan Carlbring (2014) menyebut penundaan memengaruhi sekitar seperlima orang dewasa dan separuh mahasiswa, dan mengaitkannya dengan kesehatan mental yang lebih buruk serta penundaan berobat.
+- Definisi Steel (2007): menunda adalah menangguhkan secara sukarela tindakan yang sudah diniatkan, padahal kamu memperkirakan dirimu akan lebih buruk keadaannya. Penunda punya **niat**, orang malas tidak.
+- Memprioritaskan dan *strategic delay* (Klingsieck, 2013) sama-sama menunda, tetapi tanpa harapan rugi.
 - Kerangka yang dipakai para peneliti adalah **kegagalan regulasi diri** (Sirois dan Pychyl, 2016), bukan kekeliruan mengatur jadwal.
-
-Sekarang kamu punya definisi kerja dan alasan untuk berhenti menyebut dirimu malas. Yang belum kita punya adalah mekanismenya: apa yang sebenarnya terjadi di kepala saat tugas terasa jauh dan godaan terasa dekat. Bab berikutnya membukanya lewat persamaan motivasi dari temporal motivation theory.
 
 
 <!-- Chapter: 02_rumus-penundaan-motivasi-harapan-dan-waktu -->
@@ -5088,7 +5084,7 @@ Empat unsur tadi bisa dibaca sebagai tuas. Contoh di kolom kanan adalah ilustras
 | Impulsivitas (Gamma) | Dorongan melemah, karena penundaan lebih terasa | Dorongan menguat | Notifikasi ponsel mudah menyeretmu dari pekerjaan ke hiburan |
 | Jeda (T - t) | Dorongan melemah | Dorongan menguat | Hasil baru tampak berbulan-bulan lagi, jadi tidak terasa mendesak |
 
-Perhatikan bahwa dua tuas pertama bekerja di pembilang dan dua tuas terakhir di penyebut. Satu tuas yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
+Dua tuas pertama bekerja di pembilang, dua tuas terakhir di penyebut. Satu tuas yang jatuh ke nol bisa meruntuhkan seluruh hasil. Kalau kamu sama sekali tidak percaya usahamu akan berguna, nilai setinggi apa pun tidak banyak menolong.
 
 ### Kenapa tenggat menarik motivasi
 
@@ -5127,17 +5123,15 @@ Ingat bahwa ini temuan korelasional. Hubungan itu menunjukkan pola yang searah d
 
 ### Model, bukan stopwatch
 
-Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-kutik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain, dan akan kita bahas di bab-bab berikutnya.
+Persamaan ini tidak bisa kamu isi dengan angka lalu memprediksi kapan tepatnya kamu akan mulai bekerja. Kamu tidak punya skala yang pasti untuk "nilai" atau "harapan", dan perasaanmu berubah dari jam ke jam. Model ini berguna sebagai peta: ia menunjuk empat tempat yang bisa dikutak-katik, bukan jam yang berdetak di kepalamu. Faktor lain seperti suasana hati dan stres juga ikut bermain.
 
 ## Inti Pembahasan
 
-1. Temporal motivation theory (Steel dan König, 2006) menyatakan tarikan sebuah tugas = (Expectancy x Value) / (Z + Gamma(T - t)).
-2. Harapan dan nilai berada di pembilang; impulsivitas dan jeda waktu berada di penyebut.
-3. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
-4. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional.
-5. Model ini peta untuk berpikir, bukan alat ukur yang presisi.
+1. Dalam temporal motivation theory (Steel dan König, 2006), harapan dan nilai berada di pembilang, sedangkan impulsivitas dan jeda waktu berada di penyebut.
+2. Tenggat menarik motivasi karena T - t mengecil. Ini akibat logis dari persamaan, bukan hasil eksperimen terpisah.
+3. Prediktor dalam meta-analisis Steel (2007) sejalan dengan unsur-unsur ini, tetapi sifatnya korelasional, dan model ini peta untuk berpikir, bukan alat ukur yang presisi.
 
-Satu unsur persamaan layak ditelusuri lebih jauh: kenapa jeda waktu begitu berat bagi otak. Bab berikutnya membahas bias masa kini, yaitu kecenderungan menimbang "sekarang" lebih besar daripada "nanti" dalam pembukuan batin kita.
+Satu unsur persamaan masih menyimpan pertanyaan: kenapa jeda waktu terasa begitu berat? Jejaknya mengarah ke kebiasaan batin kita menimbang "sekarang" lebih besar daripada "nanti".
 
 
 <!-- Chapter: 03_sekarang-selalu-menang-bias-masa-kini -->
@@ -5146,7 +5140,7 @@ Satu unsur persamaan layak ditelusuri lebih jauh: kenapa jeda waktu begitu berat
 
 Mari mulai dengan eksperimen pikiran. Ini murni latihan membayangkan, bukan studi, dan tidak ada jawaban yang benar. Jawab saja dengan jujur di kepalamu.
 
-Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Perhatikan bahwa selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
+Tawaran pertama: kamu boleh menerima seratus ribu rupiah hari ini, atau seratus sepuluh ribu rupiah seminggu lagi. Pilih satu. Tawaran kedua: seratus ribu rupiah setahun lagi, atau seratus sepuluh ribu rupiah setahun lebih seminggu. Pilih lagi. Selisihnya sama persis di kedua tawaran: sepuluh ribu rupiah untuk menunggu tujuh hari tambahan.
 
 Kalau kamu memilih "hari ini" di tawaran pertama tetapi memilih "yang lebih besar" di tawaran kedua, kamu tidak sendirian, dan tidak ada yang salah dengan kepalamu. Kamu baru saja merasakan sesuatu yang oleh para ekonom perilaku disebut **bias masa kini** (*present bias*). Bab ini membahas apa itu, kenapa ia cocok sekali dengan kebiasaan menunda, dan apa yang bisa dilakukan tentangnya.
 
@@ -5195,7 +5189,7 @@ Kata *preproperate* adalah kebalikan dari menunda: bertindak lebih awal dari yan
 
 Kabar baiknya ada di sini. Laibson (1997) menunjukkan bahwa preferensi yang tidak konsisten ini memberi motif untuk **membatasi pilihan diri di masa depan**. Modelnya mempertimbangkan konsumen hiperbolik yang punya akses ke teknologi komitmen yang tidak sempurna, misalnya aset yang sulit dicairkan. Dengan kata lain, masuk akal bagi kamu yang merencanakan untuk "mengikat tangan" kamu yang mengeksekusi.
 
-Contoh dalam kehidupan sehari-hari (lagi-lagi ilustrasi, bukan hasil studi): menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Bab-bab selanjutnya akan kembali ke strategi-strategi seperti ini. Untuk sekarang, cukup pegang prinsipnya: kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
+Contoh dalam kehidupan sehari-hari (lagi-lagi ilustrasi, bukan hasil studi): menaruh alarm di seberang kamar, membayar kelas olahraga di muka, atau menitipkan tabungan ke rekening yang susah ditarik. Strategi seperti ini kembali dibahas di bab 10. Untuk sekarang, cukup pegang prinsipnya: kalau kamu tahu dirimu akan tergoda, jangan mengandalkan tekad saat godaan itu tiba.
 
 ### Jangan pegang satu angka
 
@@ -5203,14 +5197,11 @@ Satu peringatan agar kita tidak terlalu percaya diri. Frederick, Loewenstein, da
 
 ## Poin Penting
 
-- Orang cenderung menilai hadiah yang tertunda lebih rendah, dan potongan itu paling curam untuk masa depan yang dekat (Laibson, 1997).
-- Akibatnya pilihan bisa berbalik: rencana semalam dan keputusan pagi hari tidak selalu sama.
-- Orang naif tidak menyadari pembalikan itu, dan O''Donoghue dan Rabin (1999) mencatat bahwa bias kecil pun bisa sangat merugikan mereka pada aktivitas berbiaya segera.
-- Bias yang sama membuat kita menunda hal yang berat dan tergesa pada hal yang enak.
-- Mengikat pilihan masa depan masuk akal secara logika (Laibson, 1997).
-- Tingkat diskonto sangat bervariasi antarstudi, jadi hindari menempel satu angka pada dirimu (Frederick, Loewenstein, dan O''Donoghue, 2002).
+- Orang cenderung menilai hadiah yang tertunda lebih rendah, dan potongan itu paling curam untuk masa depan yang dekat (Laibson, 1997). Akibatnya rencana semalam dan keputusan pagi hari tidak selalu sama.
+- Bias yang sama membuat kita menunda hal yang berat dan tergesa pada hal yang enak, dan bagi orang naif bias kecil pun bisa sangat merugikan pada aktivitas berbiaya segera (O''Donoghue dan Rabin, 1999).
+- Mengikat pilihan masa depan masuk akal secara logika (Laibson, 1997), tetapi tingkat diskonto sangat bervariasi antarstudi, jadi hindari menempel satu angka pada dirimu (Frederick, Loewenstein, dan O''Donoghue, 2002).
 
-Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tetapi tagihannya tidak jatuh ke tangannya. Tagihan itu dikirim ke seseorang yang belum hadir: dirimu esok hari, minggu depan, atau tahun depan. Bab berikutnya berkenalan dengan penerima tagihan itu, si diri masa depan, dan melihat kenapa kita begitu mudah memperlakukannya seperti orang lain.
+Kamu yang mengeksekusi biasanya menang karena ia berada paling dekat dengan hadiah. Tagihannya dikirim ke seseorang yang belum hadir: dirimu esok hari, minggu depan, atau tahun depan.
 
 
 <!-- Chapter: 04_diri-masa-depan-yang-terasa-asing -->
@@ -5247,29 +5238,26 @@ Di titik ini Sirois dan Pychyl (2013) menyambungkan semuanya. Makalah mereka ber
 
 > Penundaan menjadi mudah ketika orang yang membayar tagihannya terasa seperti orang lain.
 
-Kalimat di atas rangkuman penulis buku ini, bukan kutipan dari makalah mana pun.
+Kalimat di atas adalah rangkuman penulis buku ini, bukan kutipan dari makalah mana pun.
 
 ### Ringkasan studi dan batasnya
 
-| Studi | Rancangan | Yang ditunjukkan | Catatan kehati-hatian |
-|---|---|---|---|
-| Pronin dkk. (2008) | Empat eksperimen, termasuk keputusan nyata | Keputusan untuk diri masa depan mirip keputusan untuk orang lain | Tugasnya spesifik, bukan penundaan langsung |
-| Ersner-Hershfield dkk. (2009) | fMRI, 18 peserta teranalisis | Selisih aktivasi rACC berkorelasi dengan diskonto (r = 0,47) | Sampel kecil, tidak bertahan tanpa pencilan |
-| Hershfield dkk. (2011) | Empat studi, rendering diri menua | Studi 1: 172 dolar vs 80 dolar ke dana pensiun | Alokasi hipotetis |
-| Sirois dan Pychyl (2013) | Tinjauan teoretis | Biaya penundaan ditanggung diri masa depan | Bukan data baru |
+Kalau keempatnya dijajarkan, kekuatan dan batasnya terlihat berdampingan. Eksperimen Pronin termasuk keputusan nyata, tetapi tugasnya spesifik dan bukan penundaan langsung. Temuan otak dari Ersner-Hershfield bertumpu pada 18 peserta yang dianalisis dan tidak bertahan tanpa satu pencilan. Studi wajah menua dari Hershfield memakai alokasi uang yang hipotetis. Tinjauan Sirois dan Pychyl merangkai gagasannya tanpa membawa data baru.
 
 Tidak satu pun dari keempatnya mengukur penundaan sehari-hari secara langsung. Yang bisa kita ambil adalah gambaran yang konsisten, bukan bukti pamungkas.
 
 ## Benang Merah
 
-Keempat penelitian itu sama-sama menunjuk ke satu arah: jarak psikologis ke diri masa depan tampaknya membuat kita lebih ringan menyerahkan beban kepadanya, dan jarak itu mungkin bisa dipersempit. Namun semuanya berbasis sampel kecil, tugas spesifik, atau pemikiran teoretis, jadi kesimpulannya patut dipegang dengan hati-hati. Penundaan sendiri tidak bisa dijelaskan hanya dengan memandang diri masa depan sebagai orang asing, sebab ada satu pertanyaan yang masih menggantung: kenapa menghindari tugas terasa melegakan sekarang juga? Jawabannya ada di urusan mood, dan itulah yang kita buka di bab berikutnya.
+Keempat penelitian itu sama-sama menunjuk ke satu arah: jarak psikologis ke diri masa depan tampaknya membuat kita lebih ringan menyerahkan beban kepadanya, dan jarak itu mungkin bisa dipersempit. Namun semuanya berbasis sampel kecil, tugas spesifik, atau pemikiran teoretis, jadi kesimpulannya patut dipegang dengan hati-hati.
+
+Masih ada satu pertanyaan yang menggantung: kenapa menghindari tugas terasa melegakan sekarang juga? Jawabannya ada di urusan mood.
 
 
 <!-- Chapter: 05_menunda-untuk-menenangkan-perasaan -->
 
 ## Menunda untuk Menenangkan Perasaan
 
-Kita semua pernah membuka kulkas padahal tidak lapar, hanya karena ada email penting yang belum juga dibalas sejak pagi. Kita menggulir layar sampai jempol pegal, lalu merasa sedikit lega, sementara email itu tetap menunggu di tempatnya. Rasa lega itulah bagian yang paling sering luput kita perhatikan.
+Kita semua pernah membuka kulkas padahal tidak lapar, hanya karena ada email penting yang belum juga dibalas sejak pagi. Kita menggulir layar sampai jempol pegal, lalu merasa sedikit lega, sementara email itu tetap menunggu di tempatnya. Rasa lega itulah bagian yang paling sering luput dari perhatian kita.
 
 ### Yang kita hindari sebenarnya perasaannya
 
@@ -5307,7 +5295,7 @@ Tabel berikut hanya ilustrasi buatan penulis untuk memperlihatkan bagaimana ling
 | Perut mulas membayangkan balasan atasan | Merapikan meja dulu | Tegang turun sebentar, tugas tetap menunggu |
 | Terdengar bisikan "nanti saja kalau suasana hati lebih baik" | Menutup laptop | Lega yang tadi menguatkan kebiasaan menutup laptop |
 
-> Cara cepat mengenali lingkaran ini: perhatikan apa yang tubuhmu rasakan beberapa detik sebelum tanganmu berpindah ke ponsel. Biasanya ada sesuatu di sana.
+> Cara cepat mengenali lingkaran ini: amati apa yang tubuhmu rasakan beberapa detik sebelum tanganmu berpindah ke ponsel. Biasanya ada sesuatu di sana.
 
 ### Perasaan tidak enak bisa dilatih
 
@@ -5323,14 +5311,11 @@ Implikasinya menyentuh cara kita menilai diri. Kalau menunda sebagian dipengaruh
 
 ## Recap
 
-| Gagasan | Isinya |
-|---|---|
-| Perbaikan *mood* | Penundaan dipandang sebagai upaya merasa lebih baik sekarang, dengan biaya ditanggung diri masa depan (Sirois dan Pychyl, 2013; 2016) |
-| Lingkaran penghindaran | Tugas memicu rasa tidak enak, menghindar melegakan, lega menguatkan menghindar (ringkasan penalaran, bukan hasil eksperimen) |
-| Keterampilan emosi | Tiga studi Eckert dan rekan (2016), termasuk RCT pelatihan menoleransi dan mengubah emosi aversif yang mengurangi penundaan |
-| Konteks stres | Stres menguras sumber daya koping dan menurunkan toleransi emosi negatif; pandangan welas asih lebih tepat (Sirois, 2023) |
+- Penundaan dipandang sebagai upaya merasa lebih baik sekarang, dengan biaya ditanggung diri masa depan (Sirois dan Pychyl, 2013; 2016). Gambaran lingkaran penghindaran hanyalah ringkasan penalaran penulis, bukan hasil eksperimen.
+- Dalam RCT Eckert dan rekan (2016), pelatihan menoleransi dan mengubah emosi aversif mengurangi penundaan.
+- Dalam model Sirois (2023), stres menguras sumber daya koping dan menurunkan toleransi terhadap emosi negatif, sehingga pandangan yang welas asih lebih tepat.
 
-Kalau yang dihindari adalah perasaan, wajar bila kamu bertanya kenapa sebagian tugas memicu rasa tidak enak sedangkan tugas lain tidak. Bab berikutnya mulai dari sana, yaitu dari tugas yang terasa tidak menyenangkan itu sendiri.
+Kalau yang dihindari adalah perasaan, wajar bila kamu bertanya kenapa sebagian tugas memicu rasa tidak enak sedangkan tugas lain tidak. Petunjuknya ada pada tugas itu sendiri.
 
 
 <!-- Chapter: 06_tugas-yang-bikin-ogah -->
@@ -5382,7 +5367,7 @@ Tabel berikut juga pembacaan penulis, alat bantu berpikir, bukan hasil pengukura
 | Terasa terlalu besar | Ekspektansi turun | Potongan terkecil mana yang kuyakini bisa kuselesaikan hari ini? |
 | Hasilnya jauh | Jeda (T - t) membesar | Imbalan atau konsekuensi apa yang bisa kuhadirkan lebih dekat? |
 
-Perhatikan bahwa pertanyaan diagnosis di tabel hanya untuk memetakan masalah. Cara mengatasinya baru dibahas di bab-bab perbaikan.
+Pertanyaan diagnosis di tabel hanya untuk memetakan masalah. Cara mengatasinya baru dibahas di bab-bab perbaikan.
 
 ### Penundaan itu urusan tugas dan orang
 
@@ -5396,7 +5381,7 @@ Akibatnya, kalimat "aku pemalas" kurang berguna. Kalimat "tugas ini terasa membo
 2. Fitur sehari-hari seperti membosankan, kabur, terlalu besar, dan hasil yang jauh adalah pembacaan penulis. Tiap fitur bisa kamu terjemahkan ke suku nilai, ekspektansi, atau jeda, lalu didiagnosis dengan pertanyaan yang tepat.
 3. Penundaan bergantung pada pertemuan orang dan tugas, jadi label tetap seperti "aku penunda" menyembunyikan informasi yang berguna.
 
-Ada satu jenis tugas yang belum tersentuh: tugas yang membuat kita menunda bukan karena membosankan atau besar, melainkan karena hasilnya akan dinilai, entah oleh orang lain atau oleh standar diri sendiri. Bab berikutnya masuk ke wilayah itu, yaitu rasa takut gagal dan perfeksionisme.
+Masih tersisa tugas jenis lain: yang membuat kita menunda bukan karena membosankan atau besar, melainkan karena hasilnya akan dinilai, entah oleh orang lain atau oleh standar diri sendiri.
 
 
 <!-- Chapter: 07_takut-gagal-dan-jebakan-perfeksionisme -->
@@ -5411,7 +5396,7 @@ Masalahnya, riset tidak memberi jawaban "ya" atau "tidak" yang rapi. Jawabannya:
 
 Dalam meta-analisisnya atas 691 korelasi, Steel (2007) memperlakukan perfeksionisme sebagai satu dimensi tunggal dan tidak menemukan hubungannya dengan penundaan. Dari situ lahir kesan bahwa mitos "penunda itu perfeksionis" tidak ada dasarnya. Kesan itu terlalu cepat, sebab kata "perfeksionisme" ternyata menutupi dua hal yang berbeda.
 
-Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23; 43 sampel; total N = 10.000) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22; 38 sampel; total N = 9.544). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
+Sirois, Molnar, dan Hirsch (2017) memperbarui analisis itu dengan memisahkan dimensinya. Hasilnya, penundaan sifat berkorelasi positif dengan ***perfectionistic concerns*** (r = 0,23) dan berkorelasi negatif dengan ***perfectionistic strivings*** (r = -0,22). Pola ini tidak bervariasi menurut alat ukur maupun jenis kelamin. Dua angka yang hampir sama besar tetapi berlawanan tanda memberi satu penjelasan yang masuk akal (ini penalaran penulis, bukan klaim makalahnya) kenapa analisis satu dimensi tampak kosong: dua arus yang saling berlawanan bisa meniadakan satu sama lain ketika dicampur.
 
 #### Perfectionistic concerns
 
@@ -5423,15 +5408,11 @@ Sisi yang satu lagi berisi dorongan menetapkan standar tinggi dan ingin bekerja 
 
 Dua korelasi ini hanya menunjukkan keterkaitan, bukan sebab-akibat. Kita tidak tahu dari data ini apakah kekhawatiran yang membuat orang menunda, atau penundaan yang memupuk kekhawatiran, atau keduanya.
 
-| | Perfectionistic concerns | Perfectionistic strivings |
-|---|---|---|
-| Arah hubungan dengan penundaan sifat | Positif | Negatif |
-| Angka (Sirois dkk., 2017) | r = 0,23 (43 sampel, N = 10.000) | r = -0,22 (38 sampel, N = 9.544) |
-| Gambaran sehari-hari (ilustrasi penulis) | Mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan | Membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus |
+Dalam keseharian, bedanya kira-kira begini (ilustrasi penulis): perfectionistic concerns tampak seperti mengetik, menghapus, lalu menutup dokumen karena takut hasilnya jelek di mata atasan, sedangkan perfectionistic strivings tampak seperti membuat jadwal garapan sejak jauh hari karena ingin laporannya benar-benar bagus.
 
 ### Menunda untuk menjaga muka
 
-Mari beralih ke eksperimen yang menunjukkan bagaimana penundaan bisa berfungsi sebagai tameng. Ferrari dan Tice (2000) menjalankan dua studi laboratorium dengan mahasiswa. Studi pertama melibatkan 40 perempuan dan 19 laki-laki, studi kedua 48 perempuan dan 40 laki-laki. Setiap peserta diberi waktu 15 menit sebelum mengerjakan tugas matematika. Selama jeda itu, ia boleh berlatih untuk tugas tersebut atau mengisi waktu dengan aktivitas yang menyenangkan.
+Mari beralih ke eksperimen yang menunjukkan bagaimana penundaan bisa berfungsi sebagai tameng. Ferrari dan Tice (2000) menjalankan dua studi laboratorium dengan mahasiswa. Setiap peserta diberi waktu 15 menit sebelum mengerjakan tugas matematika. Selama jeda itu, ia boleh berlatih untuk tugas tersebut atau mengisi waktu dengan aktivitas yang menyenangkan.
 
 Yang dimanipulasi adalah cara tugas itu dibingkai. Ketika tugas disebut permainan yang menyenangkan, penunda kronis tidak berlatih lebih sedikit daripada peserta lain. Namun ketika tugas disebut evaluasi penting atas kemampuan kognitif, penunda kronis menghabiskan lebih banyak waktu pada aktivitas menyenangkan dan lebih sedikit waktu untuk persiapan.
 
@@ -5453,20 +5434,18 @@ Kalau kamu mengenali pola ini pada dirimu, satu langkah kecil patut dicoba: pisa
 
 ## Intisari
 
-Keyakinan "penunda itu perfeksionis" benar sebagian. Perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan perfeksionisme yang berisi standar pribadi berjalan berlawanan (r = -0,22). Bercampurnya kedua arus itu masuk akal sebagai alasan kenapa analisis satu dimensi ala Steel (2007) tidak menemukan apa-apa.
+- Keyakinan "penunda itu perfeksionis" benar sebagian: perfeksionisme yang berisi kekhawatiran berjalan searah dengan penundaan (r = 0,23), sedangkan yang berisi standar pribadi berjalan berlawanan (r = -0,22).
+- Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting; karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk, bukan hukum.
+- Saran penulis: memisahkan "hasil ini jelek" dari "aku ini jelek" menurunkan taruhan, sehingga memulai tidak lagi terasa seperti sidang.
 
-Pada eksperimen Ferrari dan Tice (2000), penunda kronis lebih banyak memilih aktivitas menyenangkan dibanding berlatih ketika tugas dibingkai sebagai evaluasi penting. Penulisnya membacanya sebagai self-handicapping, dan karena sampelnya mahasiswa di laboratorium, kita membacanya sebagai petunjuk, bukan hukum.
-
-Secara praktis, menunda bisa menyelamatkan harga diri hari ini sambil menagih bayarannya nanti. Mengenali apakah yang kamu rasakan itu takut dinilai atau keinginan berprestasi adalah titik awal yang masuk akal.
-
-Namun tidak semua penundaan lahir dari rasa takut. Ada orang yang tidak cemas sama sekali, hanya gampang tergoda hal lain di depan mata. Bab berikutnya membahas impulsivitas, perhatian yang mudah terbelah, dan pertanyaan tentang seberapa jauh kecenderungan itu diwariskan.
+Namun tidak semua penundaan lahir dari rasa takut. Ada orang yang tidak cemas sama sekali, hanya gampang tergoda hal lain di depan mata.
 
 
 <!-- Chapter: 08_impulsif-fokus-dan-warisan-genetik -->
 
 ## Impulsif, Fokus, dan Warisan Genetik
 
-Enam ratus enam puluh tiga orang. Tiga ratus empat puluh tujuh pasang kembar sesama jenis, 181 pasang di antaranya kembar identik. Sisanya, 166 pasang, kembar tidak identik, dengan usia rata-rata 22,66 tahun. Itulah sampel yang dipakai Gustavson dan rekan (2014) untuk bertanya sesuatu yang terdengar nyaris iseng: apakah kebiasaan menunda dan kebiasaan bertindak tanpa pikir panjang itu, pada tingkat tertentu, berasal dari sumber yang sama?
+Enam ratus enam puluh tiga orang, berasal dari tiga ratus empat puluh tujuh pasang kembar sesama jenis, identik maupun tidak identik. Itulah sampel yang dipakai Gustavson dan rekan (2014) untuk bertanya sesuatu yang terdengar nyaris iseng: apakah kebiasaan menunda dan kebiasaan bertindak tanpa pikir panjang itu, pada tingkat tertentu, berasal dari sumber yang sama?
 
 Di bab-bab sebelumnya kita sudah membongkar penundaan dari sisi tugas, harapan, dan perasaan. Sekarang giliran sisi orangnya. Kenapa dua orang yang menghadapi tugas sama bisa bereaksi begitu berbeda? Dan seberapa jauh jawabannya terletak pada bawaan?
 
@@ -5484,14 +5463,9 @@ Bagaimana orang memisahkan pengaruh gen dari pengaruh lingkungan? Salah satu car
 
 ### Angka-angka dari studi Gustavson dkk.
 
-Para peneliti mengukur penundaan, impulsivitas, dan kemampuan mengelola tujuan pada sampel dari Colorado Longitudinal Twin Study tadi. Hasilnya, dalam bentuk yang bisa kita pegang:
+Para peneliti mengukur penundaan, impulsivitas, dan kemampuan mengelola tujuan pada sampel dari Colorado Longitudinal Twin Study tadi. Keterwarisan penundaan 0,46 dan impulsivitas 0,49: di sampel ini, sebagian perbedaan antarorang dalam kedua ciri tersebut selaras dengan perbedaan genetik. Orang yang lebih impulsif cenderung lebih sering menunda (korelasi 0,65), dan pengaruh genetik pada kedua ciri itu tampak tumpang tindih sepenuhnya (korelasi genetik 1,0; selang kepercayaan 95% 0,86 sampai 1,0). Kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama, jadi kemampuan mengelola tujuan tampaknya jadi bagian penting dari tumpang tindih itu.
 
-| Apa yang ditemukan | Cara membacanya | Yang tidak boleh disimpulkan |
-|---|---|---|
-| Keterwarisan (h2) penundaan 0,46 dan impulsivitas 0,49 | Di sampel ini, sebagian perbedaan antarorang dalam kedua ciri tersebut selaras dengan perbedaan genetik | Bahwa 46% atau 49% perilakumu ditentukan gen |
-| Korelasi fenotipik 0,65 | Orang yang lebih impulsif cenderung lebih sering menunda | Bahwa impulsivitas menyebabkan penundaan |
-| Korelasi genetik 1,0 (CI 95% 0,86 sampai 1,0) | Pengaruh genetik pada kedua ciri itu tampak tumpang tindih sepenuhnya | Bahwa ada satu gen tunggal untuk menunda, atau bahwa nasibmu sudah tertulis |
-| Kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama | Kemampuan mengelola tujuan tampaknya jadi bagian penting dari tumpang tindih itu | Bahwa semua penundaan berakar pada urusan tujuan |
+Tak satu pun angka ini berarti bahwa impulsivitas menyebabkan penundaan, bahwa ada satu gen tunggal untuk menunda, bahwa semua penundaan berakar pada urusan tujuan, atau bahwa 46% perilakumu ditentukan gen.
 
 ### Membaca angka dengan jujur
 
@@ -5509,11 +5483,11 @@ Bagian ini tafsiran saya, bukan temuan studi. Kalau penundaan dan impulsivitas s
 
 ## Poin Kunci
 
-1. Impulsivitas dan conscientiousness (dengan fasetnya seperti kendali diri, mudah teralihkan, dan keteraturan) adalah prediktor penundaan yang kuat dan konsisten dalam meta-analisis Steel (2007), dan impulsivitas berhubungan langsung dengan Gamma dalam TMT.
-2. Studi kembar Gustavson dkk. (2014) menemukan keterwarisan 0,46 untuk penundaan dan 0,49 untuk impulsivitas, dengan korelasi genetik 1,0, serta kegagalan manajemen tujuan menjelaskan 68% varians genetik bersama.
+1. Impulsivitas dan conscientiousness adalah prediktor penundaan yang kuat dan konsisten dalam meta-analisis Steel (2007), dan impulsivitas berhubungan langsung dengan Gamma dalam TMT.
+2. Studi kembar Gustavson dkk. (2014) menemukan keterwarisan 0,46 untuk penundaan dan 0,49 untuk impulsivitas, dengan korelasi genetik 1,0.
 3. Angka itu adalah statistik populasi tentang perbedaan antarorang, bukan ramalan tentang dirimu, dan penulisnya sendiri menyatakan sebab-akibat tidak dapat disimpulkan.
 
-Penundaan ternyata punya harga yang tidak selalu kelihatan di tanggal tenggat: ia merembet ke tubuh dan malam-malam yang tidak nyenyak. Bab berikutnya menelusuri tagihan itu, mulai dari stres yang menumpuk, kesehatan yang ikut tergerus, sampai jam tidur yang diam-diam dikorbankan.
+Penundaan ternyata punya harga yang tidak selalu kelihatan di tanggal tenggat: ia merembet ke tubuh dan malam-malam yang tidak nyenyak.
 
 
 <!-- Chapter: 09_harga-yang-dibayar-stres-kesehatan-dan-tidur -->
@@ -5546,29 +5520,19 @@ Dengan definisi itu, kebiasaan yang di media sosial sering disebut *revenge bedt
 
 > Ilustrasi penulis: layar yang menyala jam satu pagi jarang terasa seperti keputusan. Ia terasa seperti "lima menit lagi" yang diulang dua belas kali.
 
-### Empat studi dalam satu tabel
-
-| Studi | Sampel | Temuan | Catatan batas |
-|---|---|---|---|
-| Tice dan Baumeister (1997) | Dua studi mahasiswa, N = 44 dan N = 57 | Stres dan sakit lebih rendah di awal semester, lebih tinggi di akhir; lebih sering sakit secara keseluruhan; nilai lebih rendah | Sampel mahasiswa; penundaan diukur dengan skala laporan diri |
-| Sirois dkk. (2003) | Mahasiswa, n = 122, periode penuh stres | Berkaitan dengan kesehatan lebih buruk, penundaan berobat, stres lebih tinggi, perilaku sehat lebih sedikit | Mahasiswa; analisis mediasi tidak menetapkan sebab-akibat |
-| Kroese dkk. (2014) | Survei daring komunitas, N = 177 | Bedtime procrastination berkaitan dengan kurang tidur | Laporan diri; sampel relatif kecil |
-| Kroese dkk. (2016) | Orang dewasa Belanda representatif, N = 2.431 | Regulasi diri berkaitan dengan kurang tidur, dimediasi penundaan jam tidur | Konteks Belanda; laporan diri |
-
 ### Sebelum menyimpulkan terlalu jauh
 
-Sebelum kamu menyimpulkan bahwa menunda membuat orang sakit, perlu ada rem. Sebagian besar temuan di atas bersifat korelasional dan bersandar pada laporan diri, dan beberapa memakai sampel mahasiswa. Tabel di atas memperlihatkan batasnya satu per satu. Kita boleh bilang penundaan *berkaitan dengan* stres, kesehatan yang lebih buruk, dan kurang tidur. Kita tidak boleh bilang ia menyebabkannya.
+Sebelum kamu menyimpulkan bahwa menunda membuat orang sakit, perlu ada rem. Sebagian besar temuan di atas bersifat korelasional dan bersandar pada laporan diri, dan beberapa memakai sampel mahasiswa. Kita boleh bilang penundaan *berkaitan dengan* stres, kesehatan yang lebih buruk, dan kurang tidur. Kita tidak boleh bilang ia menyebabkannya.
 
 Sirois (2023) mengingatkan arah panah yang sebaliknya. Dalam tinjauan konseptualnya, yang sudah kita temui di bab 5, konteks penuh stres ikut menaikkan risiko menunda. Jadi hubungannya kemungkinan dua arah: stres mendorong orang menunda, dan penundaan menambah stres. Karena itu Sirois mendorong pandangan yang lebih penuh welas asih, dan di sini kita memakainya juga: tagihan ini layak dibaca sebagai informasi, bukan alasan untuk menghukum diri.
 
 ## Kesimpulan Bab
 
-Menunda sering memberi kelegaan di depan dan biaya di belakang: stres, kesehatan, dan tidur ikut terseret. Bukti yang kita punya konsisten tetapi korelasional, jadi bahasa yang tepat adalah "berkaitan dengan", dengan hubungan yang kemungkinan berjalan dua arah.
-
-- Pola Tice dan Baumeister (1997): lebih tenang dan lebih sehat di awal semester, lebih tertekan dan lebih sering sakit di akhir, dengan nilai yang lebih rendah.
+- Menunda sering memberi kelegaan di depan dan biaya di belakang, seperti pola Tice dan Baumeister (1997): lebih tenang dan lebih sehat di awal semester, lebih tertekan dan lebih sering sakit di akhir, dengan nilai yang lebih rendah.
 - Bedtime procrastination, yaitu tidur lebih larut dari rencana tanpa alasan eksternal, berkaitan dengan kurang tidur pada sampel komunitas maupun sampel representatif orang dewasa.
+- Bukti yang kita punya konsisten tetapi korelasional, jadi bahasa yang tepat adalah "berkaitan dengan", dengan hubungan yang kemungkinan berjalan dua arah.
 
-Kalau tagihan itu datang karena keputusan kecil yang kita buat saat energi sedang rendah, maka salah satu jalan keluarnya adalah memutuskan lebih awal, sebelum godaan tiba. Bab berikutnya membahas cara mengikat diri pada sebuah rencana, dari rencana jika-maka sampai komitmen yang menutup pintu keluar.
+Kalau tagihan itu datang karena keputusan kecil yang kita buat saat energi sedang rendah, maka salah satu jalan keluarnya adalah memutuskan lebih awal, sebelum godaan tiba.
 
 
 <!-- Chapter: 10_mengikat-diri-deadline-dan-rencana-jika-maka -->
@@ -5581,7 +5545,7 @@ Jawaban ilmiahnya ada di persamaan teori motivasi temporal yang sudah kita temui
 
 > Utility = (Expectancy x Value) / (Z + Gamma(T - t))
 
-Expectancy adalah keyakinan bahwa kamu bisa berhasil, Value adalah nilai hadiahnya, Gamma adalah sensitivitas terhadap penundaan, dan T - t adalah jeda waktu sampai hadiah atau hasilnya tiba. Z hanyalah konstanta agar angkanya tidak meledak ketika jeda mendekati nol. Perhatikan penyebutnya. Semakin kecil jeda T - t, semakin kecil penyebutnya, sehingga dorongan untuk bertindak naik.
+Expectancy adalah keyakinan bahwa kamu bisa berhasil, Value adalah nilai hadiahnya, Gamma adalah sensitivitas terhadap penundaan, dan T - t adalah jeda waktu sampai hadiah atau hasilnya tiba. Z hanyalah konstanta agar angkanya tidak meledak ketika jeda mendekati nol. Kuncinya ada pada penyebut. Semakin kecil jeda T - t, semakin kecil penyebutnya, sehingga dorongan untuk bertindak naik.
 
 Itu sebabnya tenggat yang mepet tiba-tiba "bekerja". Ini kesimpulan yang diturunkan dari persamaan, bukan temuan eksperimen. Dan ia membawa pesan yang kurang enak: dorongan terbesar datang justru ketika waktu sudah hampir habis. Bab ini membahas dua cara menarik dorongan itu ke depan, satu lewat pengikatan diri, satu lagi lewat rencana kecil yang sudah punya bukti riset.
 
@@ -5598,7 +5562,7 @@ Maka langkah pertama mengikat diri adalah mengakui bahwa kamu termasuk orang yan
 Bagian ini adalah saran dari penulis buku ini, bukan temuan penelitian. Tidak ada sumber dalam bab ini yang menguji satu per satu cara di bawah.
 
 - **Tenggat buatan sendiri, dibagi per tahap.** Daripada satu garis akhir yang jauh, pasang beberapa garis kecil: kerangka selesai Rabu, draf Jumat. Tiap garis memendekkan jeda T - t untuk tahap itu.
-- **Janji pada orang lain.** Kabari seorang teman bahwa draf akan sampai di kotak masukmu hari Jumat. Kini melanggarnya punya harga sosial.
+- **Janji pada orang lain.** Kabari seorang teman bahwa draf akan sampai di kotak masuknya hari Jumat. Kini melanggarnya punya harga sosial.
 - **Siapkan lingkungan lebih dulu.** Buka dokumennya, taruh sepatu lari di dekat pintu, tutup aplikasi pengganggu malam sebelumnya.
 
 Satu catatan jujur: tenggat buatan sendiri hanya sekuat penegakannya. Kalau kamu bisa menggesernya tanpa konsekuensi apa pun, ia cepat berubah menjadi hiasan. Janji pada orang lain pun melemah bila orang itu tidak pernah menanyakannya. Pengikat yang baik adalah yang membuat menunda terasa lebih mahal daripada mengerjakan.
@@ -5633,17 +5597,17 @@ Contoh ketiga memperlihatkan fungsi pelindung dari gangguan, sedangkan dua yang 
 | Nanti aku cicil laporannya | Jika Selasa sore kelas selesai, maka aku mengerjakan bagian pendahuluan |
 | Aku tidak boleh buka media sosial | Jika aku ingin membuka media sosial, maka aku berdiri dan minum air dulu |
 
-Rencana di kolom kiri menyerahkan semuanya pada kemauan saat itu juga. Isyaratnya tidak jelas, kapan "nanti" itu tidak ada. Rencana di kolom kanan menetapkan isyarat dan responsnya sebelumnya, jadi pada saat keputusan seharusnya dibuat, keputusannya sudah ada.
+Rencana di kolom kiri menyerahkan semuanya pada kemauan saat itu juga. Isyaratnya tidak jelas: kapan "nanti" itu tiba tidak pernah ditentukan. Rencana di kolom kanan menetapkan isyarat dan responsnya sebelumnya, jadi pada saat keputusan seharusnya dibuat, keputusannya sudah ada.
 
 Dua alat ini bisa saling menguatkan. Tenggat memberi arah dan tekanan, rencana jika-maka mengurus detik pertama yang paling sering macet. Tetapi keduanya tetap perlu kamu pasang sebelum waktunya mepet.
 
 ## Key Takeaways
 
 - Tenggat yang mepet terasa "bekerja" karena menurut persamaan Steel dan König (2006), jeda yang mengecil menaikkan dorongan. Ini penalaran dari teorinya, bukan hasil eksperimen.
-- Laibson (1997) dan O''Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya. Tenggat dan janji buatan sendiri adalah saran penulis, dan kekuatannya ditentukan penegakannya.
+- Laibson (1997) dan O''Donoghue dan Rabin (1999) menjelaskan kenapa orang punya motif mengikat diri, dan kenapa mengenali bias sendiri adalah syaratnya.
 - Rencana jika-maka (Gollwitzer, 1999) punya efek sedang-ke-besar pada pencapaian tujuan dalam meta-analisis 94 pengujian (d = 0,65; Gollwitzer dan Sheeran, 2006).
 
-Namun semua alat ini bisa terasa seperti cambuk bila kamu memakainya sambil menghukum diri saat gagal. Bab terakhir membahas sisi yang sering terlewat: bagaimana bersikap baik pada diri sendiri dan memulai dari langkah yang cukup kecil untuk dilakukan hari ini.
+Namun semua alat ini bisa terasa seperti cambuk bila kamu memakainya sambil menghukum diri saat gagal.
 
 
 <!-- Chapter: 11_berdamai-dengan-diri-dan-memulai-dari-kecil -->
@@ -5656,15 +5620,15 @@ Bab-bab sebelumnya memberi alasan untuk meragukan hitungan itu. Menunda digerakk
 
 ### Menyalahkan diri bukan bahan bakar yang baik
 
-Sirois (2014) meneliti empat sampel: 145, 339, dan 190 mahasiswa, ditambah 94 orang dewasa dari komunitas. Di semuanya, penundaan sebagai sifat berkaitan dengan **welas diri** (*self-compassion*) yang lebih rendah dan stres yang lebih tinggi. Welas diri juga menjadi mediator hubungan penundaan dan stres di keempat sampel. Penulisnya melihat welas diri sebagai target intervensi yang menjanjikan. Ini temuan korelasional, jadi bukan berarti memarahi diri sendiri sudah dipastikan menyebabkan stres.
+Sirois (2014) meneliti empat sampel, tiga dari mahasiswa dan satu dari orang dewasa di komunitas. Di semuanya, penundaan sebagai sifat berkaitan dengan **welas diri** (*self-compassion*) yang lebih rendah dan stres yang lebih tinggi. Welas diri juga menjadi mediator hubungan penundaan dan stres di keempat sampel. Penulisnya melihat welas diri sebagai target intervensi yang menjanjikan. Ini temuan korelasional, jadi bukan berarti memarahi diri sendiri sudah dipastikan menyebabkan stres.
 
 Studi yang lebih dekat dengan kehidupan nyata datang dari Wohl, Pychyl, dan Bennett (2010). Mahasiswa tahun pertama (119 menurut abstrak) mengisi ukuran penundaan dan **memaafkan diri** sebelum dua ujian tengah semester. Mereka yang lebih memaafkan diri atas penundaannya sebelum ujian pertama menunda lebih sedikit sebelum ujian kedua, dan afek negatif menjadi mediatornya. Dengan kata lain, rasa bersalah yang lebih ringan berjalan bersama penundaan yang lebih sedikit.
 
-Satu hal perlu dijaga: memaafkan diri tidak sama dengan menurunkan standar. Yang dilaporkan studi-studi ini adalah welas diri yang berjalan bersama penundaan lebih sedikit, bukan pembenaran untuk berhenti peduli. Sirois, Kitner, dan Hirsch (2015) menambahkan satu petunjuk dari sisi kesehatan: dalam 15 sampel (N = 3.252), welas diri berkaitan dengan perilaku sehat seperti makan, olahraga, tidur, dan manajemen stres, dengan rata-rata r = 0,25. Itu efek kecil, jadi anggap saja satu bukti pendukung, bukan jaminan. Sirois (2023) juga mendorong pandangan yang lebih penuh welas asih terhadap penunda, seperti yang kita lihat di bab 5.
+Satu hal perlu dijaga: memaafkan diri tidak sama dengan menurunkan standar. Yang dilaporkan studi-studi ini adalah welas diri yang berjalan bersama penundaan lebih sedikit, bukan pembenaran untuk berhenti peduli. Sirois, Kitner, dan Hirsch (2015) menambahkan satu petunjuk dari sisi kesehatan: dalam 15 sampel, welas diri berkaitan dengan perilaku sehat seperti makan, olahraga, tidur, dan manajemen stres, dengan rata-rata r = 0,25. Itu efek kecil, jadi anggap saja satu bukti pendukung, bukan jaminan. Sirois (2023) juga mendorong pandangan yang lebih penuh welas asih terhadap penunda, seperti yang kita lihat di bab 5.
 
 ### Apa yang pernah diuji sebagai intervensi
 
-Van Eerde dan Klingsieck (2018) mengumpulkan 24 studi intervensi dengan 44 ukuran efek (N = 1.173) dan membandingkan empat jenis pendekatan: regulasi diri, terapi perilaku-kognitif (CBT), pendekatan terapeutik lain, serta penguatan kekuatan dan sumber daya. Hasilnya, ada pengurangan penundaan yang besar, dan pengurangan itu bertahan saat tindak lanjut. CBT lebih mengurangi penundaan daripada jenis lain. Kabar baiknya, penundaan bukan sesuatu yang harus kamu terima begitu saja. Jangan lupa pula bahwa itu hasil gabungan banyak studi, dan hasil pada satu orang bisa berbeda.
+Van Eerde dan Klingsieck (2018) mengumpulkan 24 studi intervensi dan membandingkan empat jenis pendekatan: regulasi diri, terapi perilaku-kognitif (CBT), pendekatan terapeutik lain, serta penguatan kekuatan dan sumber daya. Hasilnya, ada pengurangan penundaan yang besar, dan pengurangan itu bertahan saat tindak lanjut. CBT lebih mengurangi penundaan daripada jenis lain. Kabar baiknya, penundaan bukan sesuatu yang harus kamu terima begitu saja. Jangan lupa pula bahwa itu hasil gabungan banyak studi, dan hasil pada satu orang bisa berbeda.
 
 Untuk panduan praktis yang ringkas, ada buku Pychyl (2013), *Solving the Procrastination Puzzle*, yang menurut halaman penerbitnya berbasis riset psikologi mutakhir dan menyajikan strategi perubahan secara ringkas. Isi per babnya tidak saya bahas di sini.
 
@@ -5687,11 +5651,7 @@ Langkah keempat sengaja dibuat konkret. Menulis aksi esok hari membuat diri masa
 
 ## Penutup
 
-Kalau kita tarik mundur, buku ini berangkat dari satu persamaan sederhana: menunda adalah soal nilai, harapan, waktu, dan seberapa kuat kita terseret hadiah yang dekat. Dari situ muncul bias masa kini yang membuat hari ini selalu terasa lebih nyata daripada minggu depan, lalu lingkaran mood yang menukar rasa lega sesaat dengan beban yang kembali lebih berat. Harganya ditanggung diri masa depan, kadang berupa nilai, kadang stres, kadang tidur yang berkurang. Perkakasnya pun satu per satu sudah kamu pegang: langkah yang dikecilkan, perasaan yang diberi nama, rencana jika-maka, dan sikap yang lebih ramah pada diri sendiri.
-
-Tidak ada satu pun dari semua itu yang menjanjikan kamu berhenti menunda selamanya. Yang ditawarkan riset lebih sederhana dan lebih jujur: penundaan punya penjelasan, penjelasan itu menunjuk ke beberapa tuas, dan tuas itu bisa kamu coba tarik pelan-pelan. Sumber-sumber di balik buku ini tercatat di bab Referensi, kalau kamu ingin membaca sendiri dan menilai dengan kepalamu.
-
-Jadi sebelum menutup halaman ini, pilih satu hal yang sudah kamu tunda. Kecilkan langkah pertamanya sampai terasa nyaris konyol, misalnya membuka berkasnya dan mengetik satu kalimat. Tulis di secarik kertas kapan dan setelah apa kamu akan melakukannya besok. Lalu lakukan, hanya itu.
+Perkakas dari bab-bab ini sudah kamu pegang: langkah yang dikecilkan, perasaan yang diberi nama, rencana jika-maka, dan sikap yang lebih ramah pada diri sendiri. Tidak ada satu pun yang menjanjikan kamu berhenti menunda selamanya; yang ditawarkan riset lebih sederhana dan lebih jujur: penundaan punya penjelasan, dan penjelasan itu menunjuk ke beberapa hal yang bisa kamu coba ubah pelan-pelan. Jadi sebelum menutup halaman ini, pilih satu hal yang sudah kamu tunda, kecilkan langkah pertamanya sampai terasa nyaris konyol, tulis kapan dan setelah apa kamu akan melakukannya besok, lalu lakukan.
 
 
 <!-- Chapter: 12_referensi -->
@@ -5733,8 +5693,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7000,8 +6960,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7951,8 +7911,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8866,8 +8826,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10104,8 +10064,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11180,8 +11140,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13055,8 +13015,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14205,8 +14165,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15272,8 +15232,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16554,8 +16514,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17435,8 +17395,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19137,8 +19097,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20246,8 +20206,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21349,8 +21309,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22306,8 +22266,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23485,8 +23445,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24648,8 +24608,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25662,8 +25622,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26848,8 +26808,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27757,8 +27717,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29309,8 +29269,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30459,8 +30419,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31721,8 +31681,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32895,8 +32855,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33986,8 +33946,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34963,8 +34923,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34992,21 +34952,13 @@ Bab ini tidak langsung memberi jawaban. Tujuannya lebih sederhana: menunjukkan b
 
 ### Lima Bentuk Cinta Bertepuk Sebelah Tangan
 
-Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman. Berikut jenisnya, beserta persentase peserta yang pernah mengalaminya setidaknya sekali:
+Istilah yang dipakai para peneliti adalah *unrequited love*, yaitu cinta yang tidak berbalas. Dalam penelitian [Bringle dan rekan (2013)](https://doi.org/10.1177/2158244013492160), istilah ini mencakup beberapa jenis pengalaman: naksir orang terkenal, misalnya seorang bintang, naksir seseorang yang ada di sekitar kita, mengejar seseorang, merindukan orang yang dulu pernah menjadi kekasih, dan cinta yang tidak setara (*unequal love*). Naksir seseorang di sekitar kita pernah dialami 63% peserta, sedangkan naksir orang terkenal 48%.
 
-- naksir orang terkenal, misalnya seorang bintang, 48%;
-- naksir seseorang yang ada di sekitar kita, 63%;
-- mengejar seseorang, 36%;
-- merindukan orang yang dulu pernah menjadi kekasih, 40%;
-- cinta yang tidak setara (*unequal love*), 57%.
-
-Daftar ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
+Jenis-jenis ini menarik karena memperlihatkan bahwa cinta tak berbalas tidak selalu berupa drama besar. Rasa naksir pada seorang bintang masuk ke dalamnya. Begitu juga rasa pada teman satu kelompok yang tidak pernah kamu ungkapkan. Semuanya punya satu kesamaan: perasaan itu tidak bertemu dengan perasaan yang sama dari pihak lain.
 
 ### Seberapa Sering Cinta Tak Berbalas Terjadi
 
-Mari lihat angkanya lebih dekat. Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, berusia 14 sampai 63 tahun dengan rata-rata usia 21,1 tahun. Mereka ditanya tentang pengalaman dua tahun terakhir.
-
-Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas. Sebagai pembanding, 70% pernah mengalami cinta yang setara, yaitu saling suka. Para peneliti juga mencatat bahwa jumlah kejadian semua jenis cinta tak berbalas lebih dari empat kali lipat dibanding jumlah kejadian cinta yang setara. Laporan itu juga mencatat sekitar 1,91 kejadian dari semua jenis per tahun.
+Penelitian pertama dalam laporan itu melibatkan 318 siswa sekolah menengah dan mahasiswa, yang ditanya tentang pengalaman dua tahun terakhir. Hasilnya, 88% pernah mengalami setidaknya satu jenis cinta yang tidak berbalas, sementara cinta yang setara, yaitu saling suka, pernah dialami 70%.
 
 Penelitian kedua dalam laporan yang sama membandingkan rasanya. Dibanding cinta yang setara, cinta tak berbalas terasa kurang kuat pada aspek gairah, komitmen, dan aspek sejenisnya. Namun ada satu aspek yang justru lebih kuat, yaitu gejolak batin (*turmoil*). Jadi, dalam penelitian itu cinta tak berbalas tidak lebih kuat dalam segala hal, tetapi lebih bergejolak.
 
@@ -35030,7 +34982,7 @@ Apa yang dirasakan pihak yang menolak akan dibahas di bab 6 nanti. Cara menyampa
 
 ### Peta Perjalanan Buku Ini
 
-Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat bab-bab berikutnya:
+Buku ini ditulis terutama untuk kamu yang sedang disukai seseorang, tetapi tidak merasakan hal yang sama. Berikut gambaran singkat isinya:
 
 - **Bab 2** membahas pertanyaan yang sebenarnya bukan pertanyaan, yaitu ketertarikan yang disampaikan secara tidak langsung.
 - **Bab 3** membedakan sikap ramah dari rasa tertarik.
@@ -35048,22 +35000,20 @@ Kamu boleh membaca berurutan atau langsung melompat ke bab yang paling dekat den
 
 ### Intisari
 
-- Cinta yang tidak berbalas mencakup banyak bentuk, dari naksir orang terkenal sampai merindukan mantan kekasih.
-- Dalam satu sampel pelajar, 88% pernah mengalaminya dalam dua tahun terakhir, sedangkan cinta yang setara dialami 70%.
+- Dalam satu sampel kemudahan berisi pelajar, 88% pernah mengalami cinta tak berbalas dalam dua tahun terakhir; bacalah angka itu sebagai petunjuk, bukan ukuran pasti.
 - Cinta tak berbalas terasa kurang kuat pada gairah dan komitmen, tetapi lebih kuat pada gejolak batin.
-- Angka itu datang dari sampel kemudahan dan dari sisi orang yang menyimpan rasa, jadi bacalah sebagai petunjuk, bukan ukuran pasti.
-- Menurut Baumeister dan rekan, situasi ini menekan kedua belah pihak, bukan hanya orang yang ditolak.
+- Baumeister dan rekan menggambarkan situasi ini sebagai pengalaman yang menekan kedua belah pihak, bukan hanya orang yang ditolak.
 
-Sebelum memikirkan cara menolak, ada langkah yang lebih awal: menyadari bahwa seseorang sedang tertarik padamu. Masalahnya, ketertarikan jarang datang dalam kalimat yang lugas. Bagaimana kamu bisa mengenalinya ketika ia datang dalam bentuk pertanyaan yang berputar-putar?
+Sebelum memikirkan cara menolak, kamu perlu lebih dulu menyadari bahwa seseorang sedang tertarik padamu. Bagaimana mengenalinya kalau ketertarikan itu datang sebagai pertanyaan yang berputar-putar?
 
 
 <!-- Chapter: 02_pertanyaan-yang-sebenarnya-bukan-pertanyaan -->
 
 ## Pertanyaan yang Sebenarnya Bukan Pertanyaan
 
-Sebuah pesan masuk di aplikasi chat pada malam hari, dari teman sekelas yang belakangan cukup sering menyapa. Isinya ringan saja: "Eh, Sabtu nanti kamu ada acara nggak? Atau jangan-jangan sudah ada yang ngajak jalan, hehe."
+Sebuah pesan masuk di aplikasi chat pada malam hari, dari teman sekelas yang belakangan ini cukup sering menyapamu. Isinya ringan saja: "Eh, Sabtu nanti kamu ada acara nggak? Atau jangan-jangan sudah ada yang ngajak jalan, hehe."
 
-Kamu membacanya dua kali. Secara harfiah, ini pertanyaan tentang jadwal. Tetapi bagian keduanya terasa seperti ketukan pelan di pintu: apakah kamu sedang dekat dengan seseorang? Tidak ada kalimat "aku suka kamu", tidak ada ajakan yang jelas, dan justru karena itu pesannya terasa aman untuk dikirim.
+Kamu membacanya dua kali. Secara harfiah, ini pertanyaan tentang jadwal. Tetapi bagian keduanya terasa seperti ketukan pelan di pintu: apakah kamu sedang dekat dengan seseorang? Tidak ada kalimat "aku suka kamu", tidak ada ajakan yang jelas, dan karena itu pesannya terasa aman untuk dikirim.
 
 Bab ini membahas kenapa, menurut sebuah teori, orang yang tertarik bisa memilih jalan memutar seperti itu, dan apa artinya bagi kamu yang menerima pertanyaannya. Bekalnya dua tulisan dari Pinker dan rekan-rekannya tentang *indirect speech*, atau ucapan tidak langsung.
 
@@ -35071,44 +35021,44 @@ Bab ini membahas kenapa, menurut sebuah teori, orang yang tertarik bisa memilih 
 
 Pada 2008, [Pinker, Nowak, dan Lee](https://doi.org/10.1073/pnas.0707192105) menulis esai perspektif berjudul "The logic of indirect speech" di jurnal PNAS. Tulisan ini tidak melaporkan eksperimen. Isinya argumen teoretis tentang mengapa manusia begitu sering berbicara secara tidak langsung.
 
-Contoh pertama yang mereka angkat justru rayuan. Kalimat klasik dalam bahasa Inggris, "Would you like to come up and see my etchings?" (mau mampir ke atas melihat koleksi gambar cetakku?), jelas bukan sekadar undangan melihat karya seni. Maksudnya bisa ditangkap, tetapi tidak pernah benar-benar diucapkan.
+Contoh pertama yang mereka angkat adalah rayuan. Kalimat klasik dalam bahasa Inggris, "Would you like to come up and see my etchings?" (mau mampir ke atas melihat koleksi gambar cetakku?), jelas bukan sekadar undangan melihat karya seni. Maksudnya bisa ditangkap, tetapi tidak pernah benar-benar diucapkan.
 
-Menurut mereka, permintaan yang disampaikan secara tidak langsung memberi *plausible deniability*, yaitu ruang untuk menyangkal dengan masuk akal. Pendengar yang mau bekerja sama bisa menangkap maksudnya lalu menerima. Pendengar yang tidak mau tidak punya pegangan untuk bereaksi keras, karena secara harfiah tidak ada yang diminta.
+Pinker dan rekan berargumen bahwa permintaan yang disampaikan secara tidak langsung memberi *plausible deniability*, yaitu ruang untuk menyangkal dengan masuk akal. Pendengar yang mau bekerja sama bisa menangkap maksudnya lalu menerima. Pendengar yang tidak mau tidak punya pegangan untuk bereaksi keras, karena secara harfiah tidak ada yang diminta.
 
-Dalam urusan perasaan, secara teori ini mungkin berarti satu hal. Orang yang bertanya dengan memutar belum tentu sedang bermain-main. Bisa jadi ia sedang menjaga diri dari kemungkinan perasaannya tidak berbalas.
+Dalam urusan perasaan, teori ini mungkin berarti satu hal. Orang yang bertanya dengan memutar belum tentu sedang bermain-main. Bisa jadi ia sedang menjaga diri dari kemungkinan perasaannya tidak berbalas.
 
 ### Penyangkalan yang Tidak Perlu Meyakinkan
 
 Satu kalimat dari esai itu layak diingat: "The deniability, then, doesn''t have to be plausible, only possible." Artinya, celah untuk menyangkal tidak harus meyakinkan. Cukup ada.
 
-Kembali ke pesan tadi. Kamu mungkin langsung menangkap bahwa "sudah ada yang ngajak jalan?" bukan soal jadwal. Pengirimnya pun mungkin tahu bahwa kamu tahu. Tetapi selama kalimatnya masih bisa dibaca sebagai basa-basi, kedua pihak tetap punya pintu keluar. Ia bisa bilang "cuma iseng nanya", dan kamu bisa menjawab tanpa membahas perasaan siapa pun.
+Kembali ke pesan tadi. Kamu mungkin langsung menangkap bahwa "sudah ada yang ngajak jalan?" bukan soal jadwal. Pengirimnya mungkin juga tahu bahwa kamu tahu. Tetapi selama kalimatnya masih bisa dibaca sebagai basa-basi, kedua pihak punya pintu keluar. Ia bisa bilang "cuma iseng nanya", dan kamu bisa menjawab tanpa membahas perasaan siapa pun.
 
 [Pinker dan rekan (2008)](https://doi.org/10.1073/pnas.0707192105) menyebut bahwa ketidaklangsungan membantu menghindari "the emotional cost of a relationship mismatch", yaitu ongkos emosional ketika dua orang ternyata memandang hubungan mereka secara berbeda. Mereka juga menduga cara ini membuat kedua pihak lebih mudah kembali ke hubungan semula bila tawarannya ditolak. Perlu dicatat, ini hipotesis yang mereka nyatakan, bukan hasil yang diuji dalam tulisan itu.
 
 ### Pengetahuan Bersama yang Tidak Bisa Ditarik
 
-Bandingkan dengan pernyataan terang-terangan: "Aku suka kamu, mau jalan berdua?" Menurut Pinker dan rekan, ajakan yang blak-blakan menciptakan *common knowledge*, atau pengetahuan bersama. Bukan hanya kamu tahu dan dia tahu, tetapi kalian berdua tahu bahwa masing-masing sudah tahu. Pengetahuan semacam ini tidak bisa ditarik kembali.
+Bandingkan dengan pernyataan terang-terangan: "Aku suka kamu, mau jalan berdua?" Dalam kerangka Pinker dan rekan, ajakan yang blak-blakan menciptakan *common knowledge*, atau pengetahuan bersama. Bukan hanya kamu tahu dan dia tahu, tetapi kalian berdua tahu bahwa masing-masing sudah tahu. Pengetahuan semacam ini tidak bisa ditarik kembali.
 
 Setelah kalimat itu terucap, kalian tidak bisa lagi berpura-pura bahwa percakapan tadi hanya obrolan biasa. Apa pun jawabannya, ada sesuatu yang kini sama-sama diketahui.
 
-Menurut teori ini, pertanyaan memutar menunda momen itu. Ia mengirim sinyal tanpa mengubahnya menjadi pengetahuan bersama.
+Pertanyaan memutar, dalam teori ini, menunda momen itu. Ia mengirim sinyal tanpa mengubahnya menjadi pengetahuan bersama.
 
 ### Penyangkalan Tingkat Kedua yang Mencegah Gosip
 
-Dua tahun kemudian, [Lee dan Pinker (2010)](https://doi.org/10.1037/a0019688) mengembangkan gagasan ini menjadi teori *strategic speaker*, atau pembicara strategis, di jurnal Psychological Review. Menurut ringkasan tulisan itu, pembicara strategis mencari ruang penyangkalan ketika ia tidak yakin apakah pendengarnya akan bersikap kooperatif atau justru bermusuhan.
+Dua tahun kemudian, [Lee dan Pinker (2010)](https://doi.org/10.1037/a0019688) mengembangkan gagasan ini menjadi teori *strategic speaker*, atau pembicara strategis, di jurnal Psychological Review. Dalam ringkasan tulisan itu, pembicara strategis digambarkan mencari ruang penyangkalan ketika ia tidak yakin apakah pendengarnya akan bersikap kooperatif atau bermusuhan.
 
-Mereka juga mencatat bahwa dalam percakapan sehari-hari, hukumannya bisa berupa hukuman emosional, bukan hukuman secara hukum. Pertanyaan soal status hubungan bisa dibilang masuk wilayah ini.
+Mereka juga mencatat bahwa dalam percakapan sehari-hari, hukumannya bisa berupa sanksi emosional, bukan sanksi hukum. Pertanyaan soal status hubungan bisa dibilang masuk wilayah ini.
 
-Bagian yang paling menarik adalah gagasan *higher-order plausible deniability*, atau penyangkalan tingkat kedua. Menurut [Lee dan Pinker](https://doi.org/10.1037/a0019688), bahkan ketika kesediaan pendengar sudah diketahui, ucapan tidak langsung tetap berguna karena mencegah kepastian, gosip, dan terbentuknya pengetahuan bersama tentang permintaan itu.
+Bagian yang paling menarik adalah gagasan *higher-order plausible deniability*, atau penyangkalan tingkat kedua. Dalam rumusan [Lee dan Pinker](https://doi.org/10.1037/a0019688), bahkan ketika kesediaan pendengar sudah diketahui, ucapan tidak langsung masih berguna karena mencegah kepastian, gosip, dan terbentuknya pengetahuan bersama tentang permintaan itu.
 
-Jadi, menurut teori ini, orang yang cukup yakin kamu akan menyambut ajakannya pun tetap mungkin memilih jalan memutar. Yang dijaganya bukan sekadar informasi, melainkan agar maksudnya tidak menjadi sesuatu yang pasti dan bisa dibicarakan orang lain.
+Jadi, menurut teori ini, orang yang cukup yakin kamu akan menyambut ajakannya mungkin tetap memilih jalan memutar. Yang dijaganya bukan sekadar informasi, melainkan agar maksudnya tidak menjadi sesuatu yang pasti dan bisa dibicarakan orang lain.
 
 ### Membaca Subteks Pertanyaan Status
 
 Lalu bagaimana dengan kamu, yang menerima pesan semacam itu? Teori ini tidak disusun sebagai panduan menjawab, dan kedua tulisan tadi tidak menguji cara terbaik meresponsnya. Namun dari logikanya, ada beberapa implikasi yang bisa kamu pertimbangkan.
 
-- **Kamu boleh membaca subteksnya.** Menangkap maksud lain di balik pertanyaan ringan bukan berarti kamu terlalu percaya diri. Menurut teori ini, memang begitulah ucapan tidak langsung bekerja: maksudnya sampai, meski tidak diucapkan.
-- **Menjawab pertanyaan harfiahnya tetap langkah yang tersedia.** Kalau kamu tidak tertarik, balasan seperti "Sabtu aku sudah ada rencana sama keluarga" adalah jawaban yang wajar. Karena tidak ada ajakan yang terucap, tidak ada penolakan yang perlu terucap.
+- **Kamu boleh membaca subteksnya.** Menangkap maksud lain di balik pertanyaan ringan bukan berarti kamu terlalu percaya diri. Memang begitulah, dalam teori ini, ucapan tidak langsung bekerja: maksudnya sampai, meski tidak diucapkan.
+- **Menjawab pertanyaan harfiahnya masih menjadi langkah yang tersedia.** Kalau kamu tidak tertarik, balasan seperti "Sabtu aku sudah ada rencana sama keluarga" adalah jawaban yang wajar. Karena tidak ada ajakan yang terucap, tidak ada penolakan yang perlu terucap.
 - **Muka kedua pihak bisa sama-sama terjaga.** Bila dugaan Pinker dan rekan benar, jalan memutar ini memudahkan kalian kembali ke hubungan semula. Dia tidak perlu merasa ditolak secara terbuka, dan kamu tidak perlu menjadi orang yang menolak secara terbuka.
 - **Jawaban harfiah bukan jawaban untuk selamanya.** Kalau pertanyaan yang sama terus datang atau berubah menjadi ajakan yang jelas, celah penyangkalannya ikut hilang. Saat itu jawaban yang lebih terang mungkin dibutuhkan, dan caranya dibahas di bab 7.
 
@@ -35116,13 +35066,11 @@ Tentu saja, kamu juga bisa keliru membaca. Tidak setiap pertanyaan tentang akhir
 
 ### Ringkasan
 
-- Menurut teori Pinker dan rekan, orang memakai ucapan tidak langsung untuk hal yang berisiko secara sosial, termasuk ajakan romantis; teori ini tidak mengukur seberapa sering hal itu terjadi.
-- Menurut Pinker dan rekan, ucapan tidak langsung memberi ruang penyangkalan, dan ruang itu cukup ada, tidak harus meyakinkan.
+- Dalam teori Pinker dan rekan, ucapan tidak langsung memberi ruang penyangkalan, dan ruang itu cukup ada, tidak harus meyakinkan.
 - Ajakan yang blak-blakan menciptakan pengetahuan bersama yang tidak bisa ditarik kembali. Bahwa jalan memutar memudahkan hubungan pulih setelah penolakan masih berupa hipotesis.
-- Lee dan Pinker menambahkan penyangkalan tingkat kedua: ketidaklangsungan tetap berguna untuk mencegah kepastian, gosip, dan pengetahuan bersama.
 - Sebagai implikasi teori, kamu boleh membaca subteksnya. Bila hipotesis Pinker dan rekan benar, menjawab pertanyaan harfiahnya dapat membuat kedua pihak lebih mudah kembali ke hubungan semula.
 
-Pertanyaan memutar hanyalah satu dari sekian sinyal yang bisa dibaca dua arah. Bab berikutnya membahas keramahan dan tanda-tanda menggoda, atau *flirting*, yang sering disalahpahami: sikap yang bagi satu orang sekadar ramah bisa terbaca sebagai ketertarikan oleh orang lain.
+Pertanyaan memutar hanyalah satu dari sekian sinyal yang bisa dibaca dua arah. Sikap yang bagi satu orang sekadar ramah bisa terbaca sebagai ketertarikan oleh orang lain.
 
 
 <!-- Chapter: 03_ramah-tidak-sama-dengan-tertarik -->
@@ -35147,13 +35095,13 @@ Dari alat ukur itu dikenal lima gaya:
 
 ### Gerak-gerik Tiga Gaya di Obrolan Pertama
 
-Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Menurut ringkasan penelitian mereka:
+Sebagian gaya itu juga tampak dalam perilaku. [Hall dan Xing (2015)](https://doi.org/10.1007/s10919-014-0199-8) mengamati 51 pasang orang asing, atau 102 orang, yang mengobrol selama 10 sampai 12 menit. Dalam ringkasan penelitian mereka, polanya begini:
 
 - orang bergaya sopan menunjukkan perilaku yang lebih menahan diri dan menjaga jarak;
 - orang bergaya jenaka menunjukkan perilaku yang lebih jelas melibatkan lawan bicara dan lebih kentara menggoda;
 - orang bergaya tulus lebih banyak tersenyum dan lebih sedikit gelisah (*fidgeting*).
 
-Gambaran yang lebih hidup datang dari sebuah [rilis berita universitas](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles) tahun 2013 tentang buku Hall. Menurut rilis itu, orang bergaya jenaka menikmati tebar pesona demi kesenangannya sendiri, bahkan ketika hubungan atau kencan singkat adalah hal terakhir di pikirannya. Orang bergaya sopan bisa butuh waktu sangat lama sampai pesannya tersampaikan. Orang bergaya fisik lebih mungkin mengira lawan bicaranya tertarik, padahal tidak. Sementara itu, orang bergaya tulus mencari kedekatan emosional.
+Gambaran yang lebih hidup datang dari sebuah [rilis berita universitas](https://news.ku.edu/news/article/2013/09/11/new-book-outlines-five-types-flirting-styles) tahun 2013 tentang buku Hall. Orang bergaya jenaka, misalnya, menikmati tebar pesona demi kesenangannya sendiri, bahkan ketika hubungan atau kencan singkat adalah hal terakhir di pikirannya. Orang bergaya sopan bisa butuh waktu sangat lama sampai pesannya tersampaikan. Orang bergaya fisik lebih mungkin mengira lawan bicaranya tertarik, padahal tidak. Sementara itu, orang bergaya tulus mencari kedekatan emosional.
 
 Coba bayangkan akibatnya. Candaan dari orang bergaya jenaka bisa terasa seperti rayuan, padahal mungkin dia hanya menikmati obrolan. Sebaliknya, orang bergaya sopan bisa saja sedang tertarik tanpa kamu sadari. Perilaku yang sama bisa membawa niat yang berbeda, tergantung siapa pelakunya.
 
@@ -35194,18 +35142,17 @@ Misalnya, seorang rekan kerja paruh waktu sering mengirim stiker lucu dan memuji
 ### Benang Merah
 
 - Ada lima gaya tebar pesona: fisik, tradisional, tulus, sopan, dan jenaka, dan beberapa di antaranya tampak dalam perilaku yang berbeda.
-- Menurut Henningsen, orang melakukan *flirting* karena enam motivasi, dan laki-laki serta perempuan cenderung membacanya dengan cara yang tidak sama.
 - Dalam satu penelitian laboratorium lama, penilai laki-laki menganggap lawan bicara perempuan lebih menggoda daripada penilaian perempuan, sehingga kemungkinan keramahan terbaca lebih jauh patut dipertimbangkan.
 - Ramah bukan janji, dan salah baca bisa terjadi dari dua arah.
 
-Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi? Bab berikutnya membahas pujian, termasuk pujian yang justru membuat kamu canggung.
+Sinyal tanpa kata memang mudah disalahpahami. Lalu bagaimana kalau ketertarikan itu sudah berubah menjadi kata-kata, misalnya pujian yang datang bertubi-tubi?
 
 
 <!-- Chapter: 04_pujian-yang-membuat-canggung -->
 
 ## Pujian yang Membuat Canggung
 
-Ada kalimat yang isinya sepenuhnya baik, tetapi setelah mendengarnya kamu justru ingin cepat-cepat pergi. "Kamu kelihatan beda hari ini, cocok banget," kata seorang teman sekelas sambil tersenyum. Tidak ada yang salah dengan kalimat itu. Tetap saja, rasa kikuknya bertahan lama setelah percakapan selesai.
+Ada kalimat yang isinya sepenuhnya baik, tetapi setelah mendengarnya kamu ingin cepat-cepat pergi dari percakapan itu. "Kamu kelihatan beda hari ini, cocok banget," kata seorang teman sekelas sambil tersenyum. Tidak ada yang salah dengan kalimat itu. Namun, rasa kikuknya bertahan lama setelah percakapan selesai.
 
 Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara tidak langsung, terbungkus kalimat yang bisa dimaknai lebih dari satu arah. Pujian bisa menjadi salah satu bungkus seperti itu. Bab ini membahas dua hal: apa kata riset tentang pujian di antara orang yang saling kenal, dan bagaimana kamu bisa menerima pujian tanpa merasa terikat oleh maksud yang mungkin ada di baliknya.
 
@@ -35213,7 +35160,7 @@ Di bab 2 kita melihat teori tentang mengapa ketertarikan kadang datang secara ti
 
 [Zhao dan Epley (2021)](https://doi.org/10.1037/pspa0000277) menjalankan sembilan eksperimen tentang pujian. Dalam ringkasan penelitian mereka, orang yang memberi pujian meremehkan seberapa senang penerimanya nanti, sekaligus melebih-lebihkan seberapa canggung penerima itu akan merasa.
 
-Menurut naskah penulisnya, pada eksperimen pertama pemberi pujian menebak suasana hati positif penerima di skor 7,79, padahal penerima sendiri melaporkan 8,81. Untuk rasa canggung, tebakan pemberi ada di 3,46, sedangkan yang dilaporkan penerima 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
+Naskah penulisnya memberi contoh dari eksperimen pertama: pemberi pujian menebak rasa canggung penerima di skor 3,46, padahal penerima sendiri melaporkan 2,06. Naskah yang sama mencatat bahwa membaca pujian tidak membuat penerima merasa lebih canggung dibanding kelompok kontrol.
 
 [Boothby dan Bohns (2021)](https://doi.org/10.1177/0146167220949003) menemukan pola yang mirip dalam lima studi. Pemberi pujian meremehkan seberapa positif perasaan penerima, dan melebih-lebihkan seberapa terganggu serta tidak nyaman penerima akan merasa. Kekeliruan ini tetap ada bahkan ketika mereka menengok ke belakang, setelah pujian itu disampaikan.
 
@@ -35221,11 +35168,11 @@ Jadi, dalam dua penelitian ini, rasa canggung yang dibayangkan pemberi lebih bes
 
 ### Kecemasan yang Membuat Pujian Ditahan
 
-Kenapa pemberi bisa salah menebak? Menurut [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003), kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya.
+Kenapa pemberi bisa salah menebak? [Boothby dan Bohns](https://doi.org/10.1177/0146167220949003) menjawab bahwa kekeliruan itu bersumber dari kecemasan pemberi sendiri tentang kecakapannya.
 
 Judul makalah [Zhao dan Epley](https://doi.org/10.1037/pspa0000277) menyebut akibatnya: meremehkan dampak positif pujian menjadi penghalang untuk mengungkapkannya. Kemungkinan, orang menahan pujian karena membayangkan suasana jadi kikuk, padahal penerimanya cenderung lebih senang daripada yang dibayangkan.
 
-Ada satu catatan yang menghangatkan. Boothby dan Bohns melaporkan bahwa pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
+Boothby dan Bohns juga melaporkan hal yang menghangatkan: pemberi pujian merasa lebih baik setelah benar-benar menyampaikannya.
 
 Kalau kamu berada di posisi penerima, temuan ini memberi sudut pandang lain. Orang yang memujimu mungkin juga sedang gugup. Rasa kikuk di antara kalian tidak selalu milikmu seorang.
 
@@ -35261,19 +35208,17 @@ Beberapa saran untuk situasi seperti ini:
 
 - Pisahkan dua bagiannya. Kamu boleh berterima kasih atas pujiannya, lalu menjawab ajakannya secara terpisah.
 - Jangan memakai terima kasih yang hangat sebagai pengganti jawaban. Kalau kamu tidak ingin pergi, ucapan "makasih" saja bisa dibaca sebagai pintu yang masih terbuka.
-- Kalau jawabanmu tidak, katakan dengan jelas. Cara menolak yang jelas tetapi tetap hangat dibahas di bab 7.
+- Kalau jawabanmu tidak, katakan dengan jelas. Cara menolak yang jelas tetapi hangat dibahas di bab 7.
 
-Pujian yang tulus tetap boleh kamu nikmati. Yang perlu kamu jaga hanyalah agar penerimaanmu atas pujian tidak disalahpahami sebagai jawaban atas ajakan.
+Pujian yang tulus boleh kamu nikmati. Yang perlu kamu jaga hanyalah agar penerimaanmu atas pujian tidak disalahpahami sebagai jawaban atas ajakan.
 
 ### Poin Penting
 
 - Dalam penelitian Zhao dan Epley serta Boothby dan Bohns, pemberi pujian meremehkan rasa senang penerima dan melebih-lebihkan rasa canggungnya.
-- Menurut Boothby dan Bohns, salah tebak itu bersumber dari kecemasan pemberi sendiri.
 - Peserta penelitian Zhao dan Epley sudah saling kenal, jadi menerapkannya pada pengagum yang tidak kamu harapkan adalah tafsiran, bukan temuan.
-- Terima kasih yang singkat sudah cukup. Menerima pujian tidak berarti menerima tawaran.
-- Saat pujian datang bersama ajakan, jawab ajakannya secara terpisah dan jelas.
+- Terima kasih yang singkat sudah cukup, dan saat pujian datang bersama ajakan, jawab ajakannya secara terpisah dan jelas.
 
-Semua contoh di bab ini terjadi di antara orang yang pernah kamu temui langsung, setidaknya sesekali. Bagaimana jika pujian dan perhatian datang dari seseorang yang hanya kamu kenal lewat layar, tanpa pernah bertatap muka? Di situ, pertanyaannya bergeser dari soal canggung ke soal seberapa jauh kamu bisa percaya.
+Semua contoh di bab ini terjadi di antara orang yang pernah kamu temui langsung. Bagaimana jika pujian dan perhatian datang dari seseorang yang hanya kamu kenal lewat layar?
 
 
 <!-- Chapter: 05_kenalan-dari-layar-dan-batas-percaya -->
@@ -35302,21 +35247,21 @@ flowchart LR
     B --> C["Tahap 3, grooming lewat obrolan rutin"]
 ```
 
-Tahap ketiga paling dekat dengan skenario pembuka. Menurut Whitty, obrolan yang sering, pagi dan malam, membuat hubungan itu menjadi rutinitas, dan rutinitas itu membuatnya lebih sulit ditinggalkan. Dalam model ini, penipu membangun kepercayaan yang cukup untuk kemudian menipu korban demi uang.
+Tahap ketiga paling dekat dengan skenario pembuka. Whitty menggambarkan obrolan yang sering, pagi dan malam, sebagai hal yang membuat hubungan itu menjadi rutinitas, dan rutinitas itu membuatnya lebih sulit ditinggalkan. Dalam model ini, penipu membangun kepercayaan yang cukup untuk kemudian menipu korban demi uang.
 
 Pelajarannya bukan bahwa pesan selamat pagi itu berbahaya. Sapaan rutin juga bisa datang dari orang yang tulus. Pelajarannya, rasa dekat yang tumbuh dari kebiasaan belum sama dengan kepercayaan yang sudah teruji.
 
 ### Ketika AI Ikut Menulis Pesan Rayuan
 
-Ada lapisan baru yang perlu kamu tahu. Survei vendor [McAfee](https://www.mcafee.com/blogs/internet-security/love-bytes-how-ai-is-shaping-modern-love/) pada Januari 2024 terhadap 7.000 orang dewasa di tujuh negara mencatat hampir satu dari empat orang Amerika pernah mempercantik foto atau konten kencan mereka dengan AI (*artificial intelligence*, kecerdasan buatan). Sebanyak 64% tidak akan percaya pada orang yang mereka sukai bila ia memakai foto buatan AI, dan 57% akan merasa sakit hati atau tersinggung kalau pesan Valentine untuk mereka ternyata ditulis AI. Yang paling relevan, hanya 24% yang yakin bisa mengenali pesan tulisan AI.
+Ada lapisan baru yang perlu kamu tahu. Survei vendor [McAfee](https://www.mcafee.com/blogs/internet-security/love-bytes-how-ai-is-shaping-modern-love/) pada Januari 2024 terhadap 7.000 orang dewasa di tujuh negara mencatat hampir satu dari empat orang Amerika pernah mempercantik foto atau konten kencan mereka dengan AI (*artificial intelligence*, kecerdasan buatan). Survei yang sama mencatat bahwa hanya 24% responden yakin bisa mengenali pesan tulisan AI.
 
-Menurut [laporan Mashable](https://mashable.com/article/singles-using-ai-to-date-up-300-percent-match) tentang survei Match dan Kinsey Institute terhadap sekitar 5.000 lajang di Amerika Serikat, 26% memakai AI untuk membantu urusan kencan, naik 333% dibanding 2024. Hampir separuh lajang Gen Z pernah memakai AI dalam kencan, misalnya untuk profil, pesan, atau menyaring calon. Di sisi lain, 36% menganggap memakai AI untuk membuat percakapan sebagai alasan untuk mundur (*dealbreaker*).
+[Laporan Mashable](https://mashable.com/article/singles-using-ai-to-date-up-300-percent-match) tentang survei Match dan Kinsey Institute terhadap sekitar 5.000 lajang di Amerika Serikat mencatat 26% memakai AI untuk membantu urusan kencan, sementara 36% menganggap memakai AI untuk membuat percakapan sebagai alasan untuk mundur (*dealbreaker*).
 
 Angka-angka ini mengingatkan bahwa pesan yang manis dan rapi belum tentu ditulis sendiri oleh pengirimnya. Itu bukan alasan mencurigai setiap kalimat indah, tetapi alasan untuk menilai seseorang dari tindakan yang konsisten, bukan dari kata-kata saja.
 
 ### Gambaran Kekerasan Berbasis Gender dari CATAHU 2025
 
-Di Indonesia, Komnas Perempuan mencatat dalam [CATAHU 2025](https://komnasperempuan.go.id/catatan-tahunan-detail/catahu-2025-menguatkan-data-mengatasi-kerentanan-mendesak-negara-bersikap-untuk-keadilan-korban) sebanyak 376.529 kasus kekerasan berbasis gender terhadap perempuan sepanjang 2025, naik 14,07%. Sebanyak 89,76% di antaranya terjadi di ranah personal. Data itu dihimpun dari 97 lembaga pengada data, dan korbannya didominasi perempuan berusia 18 sampai 40 tahun. Angka ini menggambarkan kekerasan berbasis gender yang tercatat secara umum, bukan risiko bertemu kenalan daring.
+Di Indonesia, Komnas Perempuan mencatat dalam [CATAHU 2025](https://komnasperempuan.go.id/catatan-tahunan-detail/catahu-2025-menguatkan-data-mengatasi-kerentanan-mendesak-negara-bersikap-untuk-keadilan-korban) sebanyak 376.529 kasus kekerasan berbasis gender terhadap perempuan sepanjang 2025, dan 89,76% di antaranya terjadi di ranah personal. Angka ini menggambarkan kekerasan berbasis gender yang tercatat secara umum, bukan risiko bertemu kenalan daring.
 
 [Lembar fakta CATAHU 2025](https://komnasperempuan.go.id/file-manager/frontend/Lembar%20Fakta%20CATAHU%20Komnas%20Perempuan%202025?ref=IkltVjVTakZqTWxa66993c4d1ef55c649529ce5934120c9994fNVNXcHZhVm96Vm14ak0xRnBURU5LYldGWGVHeGliVVowV2xOSk5rbHFWVFJQVjBwcFdtcGthVXhYUm1sTmFrVjBUa2RWTVU1RE1EVk5SRWw2VEZSRmVsbDZTbWhhUjBacFRUSkpORTE1TlZGU1JWbHBURU5LYTFsWVVteFlNMHBzWTFoV2JHTXpVV2xQYVVsNVRVUkpNa3hVUVhwTVZFMTNTVVJGTUU5cVZUVlBha1V5U1dsM2FWcFlhSGRoV0Vwb1pFZHNkbUpwU1RaSmFrbDNUV3BaZEUxRVRYUk5la0ZuVFZSVk5rNVVhelpOVkZscFpsRTlQU0k9Ig%3D%3D) menyebut bahwa di antara pengaduan yang masuk ke Komnas Perempuan, kekerasan berbasis gender *online* (KBGO) masih menjadi bentuk yang paling dominan, dengan 1.091 kasus pada 2025. Bacalah angka ini dengan tepat. Angka 1.091 hanya menghitung pengaduan ke Komnas Perempuan, bukan jumlah seluruh kasus KBGO di Indonesia.
 
@@ -35331,16 +35276,15 @@ Panduan kencan aman dari [RAINN](https://rainn.org/strategies-to-reduce-risk-inc
 - Saat bertemu, beri tahu teman atau keluarga ke mana kamu pergi, siapa yang kamu temui, dan kapan kamu pulang. Bagikan lokasimu.
 - Pilih tempat umum yang terang dan ramai, jangan saling berkunjung ke rumah sebelum kepercayaan terbangun, atur transportasimu sendiri, dan siapkan rencana untuk pergi.
 
-Kalau ada yang membuatmu tidak nyaman, panduan itu menyarankan agar kamu mendengarkan firasatmu: berhenti berkomunikasi, blokir orangnya, dan laporkan perilaku yang mengganggu. Panduan yang sama menegaskan bahwa kamu tidak berutang waktu atau sopan santun kepada siapa pun saat keamanan atau kenyamananmu terancam. Menurut pandangan buku ini, orang yang tulus semestinya mau menunggu sampai kamu siap.
+Kalau ada yang membuatmu tidak nyaman, panduan itu menyarankan agar kamu mendengarkan firasatmu: berhenti berkomunikasi, blokir orangnya, dan laporkan perilaku yang mengganggu. Panduan itu juga menegaskan bahwa kamu tidak berutang waktu atau sopan santun kepada siapa pun saat keamanan atau kenyamananmu terancam. Buku ini berpandangan bahwa orang yang tulus semestinya mau menunggu sampai kamu siap.
 
 ### Inti Pembahasan
 
 - Model Whitty menggambarkan tiga tahap awal penipuan asmara daring: motivasi mencari pasangan ideal, profil yang tampak ideal, lalu *grooming* lewat obrolan pagi dan malam yang membuat hubungan sulit ditinggalkan.
-- Menurut survei McAfee, hanya 24% yang yakin bisa mengenali pesan tulisan AI, jadi kata-kata manis perlu dibaca bersama tindakan.
-- CATAHU 2025 mencatat 376.529 kasus kekerasan berbasis gender terhadap perempuan, sementara 1.091 kasus KBGO adalah pengaduan ke Komnas Perempuan saja.
+- Dalam survei McAfee, hanya 24% yang yakin bisa mengenali pesan tulisan AI, jadi kata-kata manis perlu dibaca bersama tindakan.
 - Tujuannya bukan mencurigai semua kenalan daring. Kuncinya adalah mengatur kecepatan percaya.
 
-Kehati-hatian membantumu melihat dengan jernih. Namun setelah melihat dengan jernih, kadang kamu sampai pada keputusan untuk tidak melanjutkan, entah karena ada yang janggal atau sekadar karena perasaanmu tidak sama. Di titik itu muncul pertanyaan baru yang dibahas di bab berikutnya: kenapa mengatakan tidak terasa begitu berat?
+Setelah melihat dengan jernih, kadang kamu sampai pada keputusan untuk tidak melanjutkan, entah karena ada yang janggal atau sekadar karena perasaanmu tidak sama. Lalu kenapa mengatakan tidak terasa begitu berat?
 
 
 <!-- Chapter: 06_kenapa-menolak-terasa-berat -->
@@ -35355,11 +35299,11 @@ Kenyataannya jarang semulus itu. Bayangkan seorang teman sekelas yang mulai seri
 
 Di bab 1 kamu sudah berkenalan dengan penelitian [Baumeister dan rekan (1993)](https://doi.org/10.1037/0022-3514.64.3.377) yang mengumpulkan cerita dari dua sisi cinta yang tidak berbalas. Di bab ini kita memusatkan perhatian pada satu sisi saja, yaitu orang yang ditaksir tetapi tidak membalas.
 
-Menurut ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
+Dalam ringkasan penelitian itu, para penolak menggambarkan diri mereka tidak bersalah secara moral. Mereka tidak merasa telah berbuat jahat. Meski begitu, mereka tetap merasa bersalah karena telah menyakiti seseorang. Dua perasaan ini hidup berdampingan.
 
 Ada temuan lain dari penelitian yang sama. Banyak penolak memandang usaha gigih dari pihak yang menyukai mereka sebagai sesuatu yang mengganggu dan menjengkelkan. Jadi, penolak bisa merasa bersalah dan terganggu pada waktu yang sama.
 
-Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu bahkan mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
+Para penolak juga menyusun cerita versi mereka sendiri, semacam penjelasan tentang apa yang terjadi, yang disusun untuk mengurangi rasa bersalah. Judul makalah itu mencantumkan kata *scriptlessness*. Ringkasannya tidak menjelaskan maksud istilah itu, jadi kita cukup mencatat bahwa judulnya menyebutnya, tanpa menebak artinya.
 
 Sisi yang lain, yaitu orang yang ditolak, punya ceritanya sendiri. Kita akan mendengarnya di bab 9.
 
@@ -35371,9 +35315,9 @@ Dalam dua studi, orang lajang menghadapi ajakan dari calon kencan yang tidak men
 
 Apa yang menjelaskan selisih itu? Sebagian dijelaskan oleh *other-focused motives* (motif yang berpusat pada orang lain). Peserta yang hanya membayangkan situasi itu memperkirakan dorongan untuk tidak menyakiti perasaan orang lain lebih kecil daripada dorongan yang benar-benar dirasakan peserta dalam situasi nyata. Kata "sebagian" di sini penting, karena itu bukan satu-satunya penjelasan.
 
-[Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab. Menurut siaran pers itu (terjemahan bebas), "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
+[Siaran pers ScienceDaily](https://www.sciencedaily.com/releases/2014/11/141121141234.htm) tentang penelitian ini, yang terbit 25 November 2014, merangkumnya dengan kutipan yang terasa akrab (terjemahan bebas): "ketika benar-benar berhadapan dengan calon kencan, kita tidak suka menolak seseorang dan membuatnya merasa tidak enak, dan hal itu belum tentu kita perkirakan ketika membayangkan membuat pilihan semacam ini."
 
-Menurut pandangan buku ini, rasa berat yang kamu rasakan bukan tanda kamu lemah. Rasa itu muncul antara lain karena kamu peduli pada perasaan orang lain.
+Buku ini tidak melihat rasa berat yang kamu rasakan sebagai tanda kamu lemah. Rasa itu muncul antara lain karena kamu peduli pada perasaan orang lain.
 
 ### Alasan Penolakan yang Disimpan
 
@@ -35399,12 +35343,11 @@ Peduli pada perasaan orang lain adalah hal baik. Yang perlu dijaga adalah agar k
 
 ### Yang Perlu Kamu Ingat
 
-- Menurut Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
+- Dalam penelitian Baumeister dan rekan, penolak menggambarkan diri tidak bersalah secara moral, tetapi tetap merasa bersalah karena menyakiti, dan banyak yang memandang usaha gigih pihak lain sebagai gangguan.
 - Joel dan rekan menemukan bahwa orang kurang bersedia menolak calon kencan yang tidak cocok ketika situasinya nyata, sebagian karena kepedulian pada perasaan orang lain.
 - Folkes menemukan bahwa penolak sering menyimpan alasannya dan memilih alasan yang impersonal, sementara alasan soal penampilan atau kepribadian lebih jarang diungkapkan.
-- Rasa bersalah saat menolak dilaporkan para penolak dalam penelitian itu, dan menurut buku ini tidak berarti kamu berbuat salah.
 
-Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah cara menyampaikannya dengan baik, sehingga jawabanmu jelas tanpa kehilangan kehangatan. Itulah yang akan kita pelajari di bab 7.
+Memahami kenapa menolak terasa berat baru separuh jalan. Separuh lainnya adalah menyampaikannya dengan jelas tanpa kehilangan kehangatan.
 
 
 <!-- Chapter: 07_menolak-dengan-jelas-dan-tetap-hangat -->
@@ -35439,7 +35382,7 @@ Penelitian itu tidak mengukur apakah jawaban samar membuat orang terus mendekat.
 
 ### Prinsip Penolakan yang Baik Hati
 
-Menurut panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281) yang ditinjau seorang konselor, menolak dengan baik punya beberapa pegangan:
+Panduan di [Verywell Mind](https://www.verywellmind.com/how-to-reject-someone-nicely-8648281), yang ditinjau seorang konselor, memberi beberapa pegangan untuk menolak dengan baik:
 
 - Bersikap baik sekaligus langsung ke inti.
 - Hindari harapan palsu, klise, dan "mungkin nanti", termasuk kalimat "bukan kamu, tapi aku".
@@ -35461,7 +35404,7 @@ Berikut beberapa contoh rekaan yang bisa kamu ubah sesuai gaya bicaramu. Semuany
 
 > Aku masih mau berteman kayak biasa, tapi untuk hubungan romantis, jawabanku tidak.
 
-Perhatikan bahwa tidak ada kalimat yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
+Tidak ada kalimat dalam contoh itu yang menjanjikan waktu lain. Bandingkan dengan contoh samar di atas, yang menunda jawaban dan bukan memberikannya.
 
 ### Desakan Setelah Kata Tidak
 
@@ -35474,16 +35417,15 @@ Ada kalanya penolakan yang sudah jelas tetap tidak dihormati. [Cupach dan Spitzb
 
 Dalam penelitian itu, perempuan menilai perilaku semacam ini lebih mengganggu dan mengancam dibanding laki-laki.
 
-Kalau orang itu terus mendesak setelah kamu bilang tidak, panduan Verywell Mind menyebut wajar untuk bersikap lebih tegas. Kamu juga boleh memblokirnya di berbagai platform bila perlu.
+Kalau orang itu terus mendesak setelah kamu bilang tidak, bersikap lebih tegas itu wajar, sesuai saran panduan Verywell Mind yang tadi disebut. Kamu juga boleh memblokirnya di berbagai platform bila perlu.
 
 ### Kesimpulan Bab
 
 - Teori dari Freedman dan rekan memprediksi bahwa penolakan yang jelas lebih menjaga kedua pihak dibanding pengucilan atau jawaban samar.
-- Jawaban samar berisiko dibaca sebagai "belum", bukan "tidak".
 - Penolakan yang baik itu singkat, jujur, berterima kasih, tanpa janji palsu, dan (saran buku ini) tawaran berteman hanya kalau kamu sungguh-sungguh.
 - Kalau desakan terus berlanjut setelah "tidak", kamu boleh lebih tegas dan memblokir.
 
-Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara. Pilihan itu punya ceritanya sendiri, dan di bab 8 kita akan melihat apa yang terjadi ketika diam dijadikan jawaban.
+Lalu bagaimana dengan pilihan yang tidak memakai kata sama sekali? Sebagian orang memilih tidak membalas pesan dan membiarkan diam yang berbicara.
 
 
 <!-- Chapter: 08_diam-sebagai-jawaban -->
@@ -35496,9 +35438,9 @@ Bab ini membahas diam sebagai cara mengakhiri kontak. Seberapa sering hal itu te
 
 ### Seberapa Sering Orang Menghilang Tanpa Kabar
 
-Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.1177/0265407517748791), yang mengumpulkan sampel daring di Amerika Serikat. Pada studi pertama dengan 554 peserta, 25,3% pernah di-*ghosting* oleh pasangan romantis dan 21,7% pernah melakukannya. Pada studi kedua dengan 747 peserta, angkanya 23,0% dan 18,9% untuk hubungan romantis.
+Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.1177/0265407517748791), yang mengumpulkan sampel daring di Amerika Serikat. Pada studi pertama dengan 554 peserta, 25,3% pernah di-*ghosting* oleh pasangan romantis dan 21,7% pernah melakukannya.
 
-Pertemanan ternyata juga tidak luput. Di studi kedua itu, 38,6% peserta pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
+Pertemanan ternyata juga tidak luput. Di studi kedua mereka, dengan 747 peserta, 38,6% pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
 
 Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
 
@@ -35539,7 +35481,7 @@ Wawancara [Campaioli, Testoni, dan Zamperini (2022)](https://doi.org/10.5817/CP2
 
 Tidak semua orang diam karena malas. Menurut [Freedman dan rekan (2022)](https://doi.org/10.1016/j.jesp.2022.104368), kekhawatiran soal keselamatan mungkin membuat orang lebih cenderung memilih *ghosting*. Penolakan bisa menjadi interaksi yang berakhir dengan kekerasan, terutama ketika perempuan menolak laki-laki.
 
-Menurut ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships), pada sampel dengan rentang usia yang lebar, sekitar 50% peserta punya pengalaman *ghosting*. Alasan pribadinya antara lain perlindungan (menghindari perasaan terluka, takut dibalas) dan karena *ghosting* itu mudah. Namun ringkasan itu juga mencatat bahwa belum diketahui apakah *ghosting* memang lebih aman, apalagi orang yang di-*ghosting* sering mencoba menghubungi lagi demi kejelasan. Para penulis juga menyebut bahwa menyusun naskah penolakan yang disesuaikan bisa membantu. Dampaknya pada kebutuhan dasar orang yang diabaikan akan kita bahas di bab 9 nanti.
+Ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships) melaporkan bahwa pada sampel dengan rentang usia yang lebar, sekitar 50% peserta punya pengalaman *ghosting*. Alasan pribadinya antara lain perlindungan (menghindari perasaan terluka, takut dibalas) dan karena *ghosting* itu mudah. Namun ringkasan itu juga mencatat bahwa belum diketahui apakah *ghosting* memang lebih aman, apalagi orang yang di-*ghosting* sering mencoba menghubungi lagi demi kejelasan. Para penulisnya juga menyebut bahwa menyusun naskah penolakan yang disesuaikan bisa membantu.
 
 ### Kapan Diam Masuk Akal
 
@@ -35549,13 +35491,11 @@ Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik dari
 
 ### Poin Kunci
 
-- Dalam studi yang terbit tahun 2019 dengan sampel daring di Amerika Serikat, sekitar seperempat orang pernah di-*ghosting* pasangan romantis, dan angka untuk pertemanan lebih tinggi.
-- Dalam satu studi kualitatif, sebagian besar peserta pernah menjadi pelaku sekaligus pihak yang di-*ghosting*.
+- Dalam studi yang terbit tahun 2019 dengan sampel daring di Amerika Serikat, sekitar seperempat orang pernah di-*ghosting* pasangan romantis.
 - Bukti soal apakah *ghosting* lebih menyakitkan daripada penolakan langsung masih campur aduk.
-- Dalam satu studi, reaksi orang yang ditinggal diam tersusun dari bingung sampai menerima, dan dalam studi lain ia digambarkan seperti menggantung dalam *limbo*.
-- Menurut panduan buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
+- Menurut saran buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
 
-Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Di bab 9, kita berpindah ke sisi orang yang tidak dipilih, untuk memahami mengapa diabaikan bisa terasa begitu berat.
+Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Bagaimana rasanya berada di seberang, sebagai orang yang tidak dipilih?
 
 
 <!-- Chapter: 09_dari-sisi-yang-tidak-dipilih -->
@@ -35595,7 +35535,7 @@ Williams dan Nida juga membagi pengalaman dikucilkan ke dalam tiga tahap:
 2. **Tahap menimbang (reflektif).** Tahap tempat orang mengatasi pengalaman itu, atau *coping*.
 3. **Tahap jangka panjang (pasrah).** Pengucilan yang berlangsung lama dapat bergeser ke sini.
 
-Ada satu temuan yang penting. Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
+Siapa yang mengucilkan dan apa alasannya hanya sedikit berpengaruh pada rasa sakit di tahap segera. Siapa dan mengapa baru lebih berperan di tahap menimbang. Jadi wajar kalau kamu tetap merasa perih walaupun kamu tahu dia punya alasan yang masuk akal.
 
 Bagaimana dengan tahap ketiga? Dalam tulisan sebelumnya, [Williams (2009)](https://doi.org/10.1016/S0065-2601(08)00406-1) menulis bahwa paparan pengucilan yang berkepanjangan pada akhirnya mengarah pada rasa pasrah, keterasingan, ketidakberdayaan, dan depresi. Ini bukan ramalan untuk setiap orang yang pernah ditolak, melainkan catatan bahwa diabaikan terus-menerus dalam waktu lama bukan perkara kecil.
 
@@ -35635,13 +35575,11 @@ Langkah-langkah ini bukan resep yang menjamin rasa sakit hilang dalam waktu tert
 
 ### Recap
 
-- Dalam permainan lempar bola virtual, *anterior cingulate cortex* lebih aktif saat peserta dikucilkan, dan aktivitasnya sejalan dengan rasa tertekan yang dilaporkan.
 - Menurut Williams dan Nida, pada tahap awal pengucilan mengancam empat kebutuhan, yaitu rasa memiliki, harga diri, kendali, dan keberadaan yang bermakna.
 - Tahapnya ada tiga, yaitu segera, menimbang, dan jangka panjang. Konteks lebih berperan di tahap menimbang, dan paparan yang berkepanjangan dapat mengarah pada rasa pasrah, walau itu bukan ramalan untuk setiap orang.
-- Banyak pihak yang berharap mengingat emosi yang campur aduk, yakin ketertarikan itu timbal balik, dan melihat penolak sebagai sosok yang tidak konsisten dan misterius.
 - Menghormati pilihannya, mundur ketika balasan berhenti, serta membangun lagi rasa memiliki dan harga diri di tempat lain adalah langkah yang bisa kamu ambil.
 
-Perasaan seperti ini tidak hanya muncul di usia dewasa. Di bab berikutnya, kita memutar waktu ke masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia, lalu melihat apa kata penelitian tentang hubungan romantis remaja dan kedewasaan emosi.
+Perasaan seperti ini tidak hanya muncul di usia dewasa. Kadang ia sudah hadir di masa seragam sekolah, ketika naksir seseorang bisa terasa seperti seluruh dunia.
 
 
 <!-- Chapter: 10_cinta-masa-sekolah-dan-kedewasaan-emosi -->
@@ -35656,7 +35594,7 @@ Mungkin kamu pernah menjadi penulis kertas itu. Mungkin juga penerimanya, atau t
 
 Ada orang dewasa yang menyebut perasaan remaja sebagai cinta monyet, seolah tidak perlu dipikirkan serius. Ulasan [Collins (2003)](https://doi.org/10.1111/1532-7795.1301001) melihatnya dari arah lain. Collins menulis bahwa penelitian tentang hubungan romantis remaja terhambat oleh anggapan keliru bahwa hubungan semacam itu remeh dan cepat berlalu.
 
-Untuk memahaminya, Collins menyebut lima ciri yang perlu diperhatikan:
+Untuk memahaminya, Collins menyebut lima ciri yang perlu dicermati:
 
 - keterlibatan (*involvement*)
 - pemilihan pasangan (*partner selection*)
@@ -35682,7 +35620,7 @@ Namun, para penulis juga memberi peringatan penting. Fungsi korteks prefrontal y
 
 Ulasan [Steinberg (2005)](https://doi.org/10.1016/j.tics.2004.12.005) menyampaikan gagasan yang mirip. Sistem otak, perilaku, dan kognitif matang menurut jadwal yang berbeda-beda. Dalam keterangan gambar artikelnya, celah antarjadwal itu disebut sebagai masa yang diduga (*speculated*) membuat remaja lebih rentan terhadap masalah dalam mengatur perasaan dan perilaku.
 
-Perhatikan kata diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
+Kata kuncinya adalah diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
 
 ### Menengok Kembali Kenangan Sekolah
 
@@ -35708,12 +35646,10 @@ Pelajaran ini jarang datang sekaligus. Bagi sebagian orang, ia baru terasa setel
 ### Gagasan Utama
 
 - Collins (2003) menolak anggapan bahwa hubungan romantis remaja remeh dan cepat berlalu, lalu menyebut lima ciri untuk memahaminya.
-- Menurut ulasan Meier dan Allen (2009) atas data Amerika Serikat, sekitar seperempat anak usia 12 tahun dan hampir 75 persen remaja usia 18 tahun melaporkan keterlibatan romantis.
 - Casey dan rekan (2008) menggambarkan kepekaan terhadap imbalan dan emosi yang meningkat lebih dulu daripada kendali diri, dengan catatan bahwa korteks prefrontal yang belum matang saja tidak cukup menjelaskan perilaku remaja.
-- Steinberg (2005) menyebut sistem yang matang dengan jadwal berbeda, dan celah kerentanannya masih berupa dugaan.
 - Kedewasaan emosi bisa dipahami sebagai belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan.
 
-Kertas terlipat dan lorong sekolah akhirnya tertinggal di belakang, tetapi perhatian yang tidak diminta tidak berhenti di gerbang sekolah. Bab berikutnya keluar ke jalan dan ruang publik, tempat perhatian semacam itu kadang datang sebagai siulan atau komentar dari orang yang sama sekali tidak dikenal.
+Kertas terlipat dan lorong sekolah akhirnya tertinggal di belakang, tetapi perhatian yang tidak diminta tidak berhenti di gerbang sekolah. Di jalan dan ruang publik, ia kadang datang sebagai siulan atau komentar dari orang yang sama sekali tidak dikenal.
 
 
 <!-- Chapter: 11_siulan-yang-dianggap-biasa -->
@@ -35728,43 +35664,35 @@ Bab ini membahas siulan dan seruan semacam itu, yang sering disebut *catcalling*
 
 ### Angka Pelecehan di Ruang Publik
 
-[Survei Koalisi Ruang Publik Aman](https://ruangaman.com/survei2019/) (KRPA) tahun 2019 dikumpulkan secara daring dari 25 November sampai 10 Desember 2018, dengan 62.224 responden dari 34 provinsi. Hasilnya, 64% dari 38.776 responden perempuan pernah mengalami pelecehan di ruang publik, atau sekitar 3 dari 5. Pada responden laki-laki, angkanya 11%.
+[Survei Koalisi Ruang Publik Aman](https://ruangaman.com/survei2019/) (KRPA) tahun 2019 dikumpulkan secara daring dari 25 November sampai 10 Desember 2018, dengan 62.224 responden di 34 provinsi. Hasilnya, 64% responden perempuan pernah mengalami pelecehan di ruang publik, atau sekitar 3 dari 5. Pada responden laki-laki, angkanya 11%.
 
-Bentuk yang paling banyak dilaporkan adalah pelecehan verbal, yaitu 60%. Survei itu merinci bentuknya: komentar atas tubuh, siulan, klakson, suara kecupan atau ciuman, komentar rasis atau seksis, komentar seksual, dan didekati terus. Pelecehan fisik tercatat 24% dan pelecehan visual 15%.
-
-Tempat kejadiannya dekat dengan keseharian:
-
-- jalanan umum 33%,
-- transportasi umum 19%,
-- sekolah dan kampus 15%.
-
-Ada dua temuan lain yang perlu kamu tahu. Satu dari dua korban mengalami pelecehan sebelum menginjak usia 16 tahun. Di antara pakaian yang dikenakan korban saat kejadian, ada seragam sekolah (14%). Bagian ini mengingatkan bahwa sebagian korban masih berusia sekolah.
+Bentuk yang paling banyak dilaporkan adalah pelecehan verbal (60%), seperti komentar atas tubuh, siulan, klakson, dan komentar seksual. Tempat kejadiannya dekat dengan keseharian: jalanan umum, transportasi umum, serta sekolah dan kampus. Satu dari dua korban mengalami pelecehan sebelum menginjak usia 16 tahun, dan seragam sekolah (14%) termasuk pakaian yang dikenakan korban saat kejadian. Bagian ini mengingatkan bahwa sebagian korban masih berusia sekolah.
 
 Satu catatan penting: survei ini terbuka, jadi siapa saja yang mau bisa mengisinya. Angkanya menggambarkan para responden, bukan seluruh penduduk Indonesia.
 
 ### Hasil Survei Lanjutan KRPA
 
-KRPA kembali mengumpulkan data dari 25 November sampai 24 Desember 2021. Menurut [halaman survei 2022](https://ruangaman.com/survei2022/), ada 4.236 responden, dan 79% dari 3.539 responden perempuan pernah mengalami pelecehan. Bentuk luring (di luar internet) yang paling banyak dilaporkan adalah siulan atau suitan (67%), disusul komentar atas tubuh (31%).
+KRPA kembali mengumpulkan data dari 25 November sampai 24 Desember 2021. [Halaman survei 2022](https://ruangaman.com/survei2022/) mencatat bahwa 79% responden perempuan pernah mengalami pelecehan. Bentuk luring (di luar internet) yang paling banyak dilaporkan adalah siulan atau suitan (67%), disusul komentar atas tubuh (31%).
 
 Angka ini juga menggambarkan para responden survei itu, bukan seluruh penduduk.
 
 ### Dikagumi Berbeda dari Dijadikan Objek
 
-Pujian dari orang yang mengenalmu terasa berbeda. Seorang teman sekelas yang bilang presentasimu bagus sedang melihatmu sebagai orang utuh. Siulan dari sekelompok orang asing berbeda. Mereka tidak mengenalmu dan tidak sedang mengajakmu bicara. Menurut pandangan buku ini, yang mereka sorot hanya tubuh atau penampilanmu.
+Pujian dari orang yang mengenalmu terasa berbeda. Seorang teman sekelas yang bilang presentasimu bagus sedang melihatmu sebagai orang utuh. Siulan dari sekelompok orang asing berbeda. Mereka tidak mengenalmu dan tidak sedang mengajakmu bicara. Dalam pandangan buku ini, yang mereka sorot hanya tubuh atau penampilanmu.
 
 Karena terjadi di tempat umum dan cukup sering, orang yang menonton bisa menganggapnya biasa. Namun "biasa" bagi penonton tidak sama dengan "tidak apa-apa" bagi yang mengalaminya. Siulan dan komentar atas tubuh tercatat sebagai bentuk pelecehan verbal dalam survei KRPA di atas.
 
-Peneliti menyebut pengalaman ini *stranger harassment* (pelecehan oleh orang asing). [Sebuah studi tahun 2008](https://doi.org/10.1007/s11211-008-0073-0) menyebutnya sebagai pengalaman yang sering dialami perempuan dewasa muda. Studi itu menemukan kaitan antara pelecehan oleh orang asing dan *self-objectification* (kecenderungan memandang tubuh sendiri seperti objek yang dinilai orang lain).
+Peneliti menyebut pengalaman ini *stranger harassment* (pelecehan oleh orang asing). [Sebuah studi tahun 2008](https://doi.org/10.1007/s11211-008-0073-0) menyebutnya sebagai pengalaman yang sering dialami perempuan dewasa muda, dan menemukan kaitan antara pelecehan oleh orang asing dan *self-objectification* (kecenderungan memandang tubuh sendiri seperti objek yang dinilai orang lain).
 
-Kaitan itu muncul pada perempuan yang menghadapinya secara pasif, dengan menyalahkan diri sendiri, atau dengan menganggapnya tidak berbahaya. Kaitan itu tidak muncul pada perempuan yang memakai cara aktif (*active coping*), misalnya menegur pelaku. Menurut studi itu, cara aktif ini jarang dipakai.
+Kaitan itu muncul pada perempuan yang menghadapinya secara pasif, dengan menyalahkan diri sendiri, atau dengan menganggapnya tidak berbahaya. Kaitan itu tidak muncul pada perempuan yang memakai cara aktif (*active coping*), misalnya menegur pelaku. Dalam studi itu, cara aktif ini jarang dipakai.
 
-Seberapa sering hal ini terjadi? Menurut disertasi salah satu penulisnya, 31% dari 228 mahasiswi di Amerika Serikat melaporkan siulan, seruan, atau tatapan dari orang asing setiap beberapa hari atau lebih sering. Angka itu berasal dari Amerika Serikat, bukan dari Indonesia.
+Seberapa sering hal ini terjadi? Dalam disertasi salah satu penulisnya, 31% dari 228 mahasiswi di Amerika Serikat melaporkan siulan, seruan, atau tatapan dari orang asing setiap beberapa hari atau lebih sering. Angka itu berasal dari Amerika Serikat, bukan dari Indonesia.
 
 ### Pelecehan dan Rasa Takut di Jalan
 
-Studi yang sama juga menemukan bahwa pelecehan oleh orang asing berkaitan dengan rasa takut menjadi korban perkosaan. Perempuan yang memiliki rasa takut itu lebih mungkin membatasi kebebasan geraknya.
+Dalam studi yang sama, pelecehan oleh orang asing juga berkaitan dengan rasa takut menjadi korban perkosaan. Perempuan yang memiliki rasa takut itu lebih mungkin membatasi kebebasan geraknya.
 
-Studi itu menunjukkan kaitan, bukan sebab, dan membahas pelecehan oleh orang asing secara umum, bukan siulan saja. Kalau kamu pernah mengubah rute atau menghindari suatu tempat karena takut, itu bukan tanda kamu lemah atau berlebihan. Perasaan itu masuk akal.
+Temuan itu berupa kaitan, bukan sebab, dan yang dibahas adalah pelecehan oleh orang asing secara umum, bukan siulan saja. Kalau kamu pernah mengubah rute atau menghindari suatu tempat karena takut, itu bukan tanda kamu lemah atau berlebihan. Perasaan itu masuk akal.
 
 ### Pelecehan Nonfisik dalam Undang-Undang TPKS
 
@@ -35794,12 +35722,10 @@ Kalau kamu melihat teman mengalaminya, jangan ikut bilang itu hanya bercanda. Ta
 ### Key Takeaways
 
 - Dalam survei terbuka KRPA 2019, 64% responden perempuan pernah dilecehkan di ruang publik, dan pelecehan verbal (60%) paling banyak dilaporkan.
-- Survei lanjutan KRPA mencatat siulan atau suitan sebagai bentuk luring terbanyak (67%).
 - Dikagumi tidak sama dengan dijadikan objek, dan merasa tidak nyaman itu wajar.
-- Dalam satu studi, pelecehan oleh orang asing berkaitan dengan *self-objectification* pada perempuan yang menanggapinya secara pasif, menyalahkan diri sendiri, atau menganggapnya tidak berbahaya, dan berkaitan dengan rasa takut, dan rasa takut itu berkaitan dengan ruang gerak yang lebih sempit.
 - UU TPKS mengatur pelecehan seksual nonfisik sebagai delik aduan, tetapi tidak memakai kata *catcalling*.
 
-Bab ini membahas perlakuan yang perlu kamu kenali dan hindari. Bab berikutnya berbalik arah, dari apa yang perlu dihindari ke apa yang layak dicari: orang-orang yang sejalan dengan nilai-nilaimu dan ikut senang saat kamu bertumbuh.
+Bab ini membahas perlakuan yang perlu kamu kenali dan hindari. Lalu, orang seperti apa yang layak kamu cari?
 
 
 <!-- Chapter: 12_mencari-orang-yang-sejalan -->
@@ -35808,7 +35734,7 @@ Bab ini membahas perlakuan yang perlu kamu kenali dan hindari. Bab berikutnya be
 
 Coba ingat kabar baik terakhir yang kamu bagikan, lalu tanyakan pada dirimu: siapa yang benar-benar ikut senang saat mendengarnya? Ada yang langsung bertanya panjang, ada yang hanya mengangguk, ada pula yang malah menyebut kelemahan rencanamu. Jawaban atas pertanyaan sederhana itu bisa bercerita banyak.
 
-Sepanjang buku ini kita membahas cara menghadapi perasaan yang tidak kamu balas. Bab terakhir ini berbalik arah: kalau bukan dia, orang seperti apa yang layak kamu dekati? Kata "sejalan" bisa diartikan sebagai punya banyak kesamaan. Bab ini menawarkan bacaan buku ini yang sedikit berbeda.
+Sepanjang buku ini kita membahas cara menghadapi perasaan yang tidak kamu balas. Bab terakhir ini berbalik arah: kalau bukan dia, orang seperti apa yang layak kamu dekati? Kata "sejalan" bisa diartikan sebagai punya banyak kesamaan. Bab ini menawarkan pemaknaan yang sedikit berbeda.
 
 ### Empat Cara Menanggapi Kabar Baik
 
@@ -35821,13 +35747,13 @@ Dalam tinjauan berikutnya, [Gable dan Reis (2010)](https://doi.org/10.1016/S0065
 - **Aktif-destruktif** (*active-destructive*), yaitu tanggapan yang mengecilkan peristiwa itu. "Yakin kuat? Yang begitu biasanya tuntutannya berat, lho."
 - **Pasif-destruktif** (*passive-destructive*), yaitu tanggapan yang mengabaikan peristiwa itu. "Eh, tadi aku lihat ada kafe baru dekat rumahku."
 
-Menurut Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterlibatan dan mengajukan pertanyaan, sedangkan penanggap pasif-destruktif mengganti topik atau membelokkan cerita ke dirinya sendiri. Menurut buku ini, tanggapan pasif-konstruktif sebenarnya tidak jahat. Ia hanya belum ikut hadir.
+Dalam pemetaan Gable dan Reis, penanggap aktif-konstruktif menunjukkan keterlibatan dan mengajukan pertanyaan, sedangkan penanggap pasif-destruktif mengganti topik atau membelokkan cerita ke dirinya sendiri. Bagi buku ini, tanggapan pasif-konstruktif sebenarnya tidak jahat. Ia hanya belum ikut hadir.
 
 ### Rasa Dipahami, Diakui, dan Dipedulikan
 
 [Reis (2012)](https://doi.org/10.1037/13486-002) mengajukan *perceived partner responsiveness* (kesan bahwa orang terdekat tanggap terhadap kita) sebagai salah satu prinsip yang mungkin menyatukan kajian tentang hubungan dan kesejahteraan. Dalam rumusan ulang yang dikutip [Jolink dan rekan (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/), tanggap berarti kamu merasa dipahami, diakui, dan dipedulikan oleh pasanganmu. Rasa itu diukur dengan pernyataan seperti "Pasanganku memahamiku" dan "Pasanganku melihat diriku yang sebenarnya."
 
-Menurut bacaan buku ini, cara seseorang menanggapi kabar baikmu bisa menjadi salah satu petunjuk rasa tanggap itu.
+Dalam bacaan buku ini, cara seseorang menanggapi kabar baikmu bisa menjadi salah satu petunjuk rasa tanggap itu.
 
 ### Pasangan yang Ikut Memahat Diri Idealmu
 
@@ -35841,19 +35767,19 @@ Ada juga pola sebaliknya. Istilah *crab mentality* (mental kepiting dalam ember)
 
 Istilah lain yang mirip adalah *tall poppy syndrome* (sindrom bunga poppy yang tinggi). Menurut sebuah entri ensiklopedia Springer yang merujuk Feather (1989), artinya keinginan untuk menjatuhkan orang yang terangkat di atas rekan-rekannya.
 
-Kedua istilah ini tidak membuktikan apa pun tentang orang tertentu. Namun, keduanya memberi nama pada sesuatu yang mungkin pernah kamu rasakan: ada orang yang selalu menemukan alasan mengapa mimpimu terlalu tinggi. Kalau terjadi sekali, mungkin ia sedang lelah. Kalau terus berulang, itu pola yang layak kamu perhatikan.
+Kedua istilah ini tidak membuktikan apa pun tentang orang tertentu. Namun, keduanya memberi nama pada sesuatu yang mungkin pernah kamu rasakan: ada orang yang selalu menemukan alasan mengapa mimpimu terlalu tinggi. Kalau terjadi sekali, mungkin ia sedang lelah. Kalau terus berulang, itu pola yang layak kamu cermati.
 
 ### Kemiripan yang Nyata dan yang Dirasakan
 
-Lalu bagaimana dengan kesamaan? Meta-analisis [Montoya dan rekan (2008)](https://doi.org/10.1177/0265407508096700) atas 313 studi menemukan bahwa ketertarikan berkaitan dengan kemiripan nyata (*actual similarity*, r = 0,47) dan kemiripan yang dirasakan (*perceived similarity*, r = 0,39). Namun, dalam hubungan yang sudah berjalan, efek kemiripan nyata tidak signifikan, sementara kemiripan yang dirasakan tetap memprediksi ketertarikan. Catat juga bahwa yang diteliti adalah kemiripan sikap dan kepribadian; ringkasannya tidak menyebut "nilai hidup" secara khusus.
+Lalu bagaimana dengan kesamaan? Meta-analisis [Montoya dan rekan (2008)](https://doi.org/10.1177/0265407508096700) atas 313 studi menemukan bahwa ketertarikan berkaitan dengan kemiripan nyata (*actual similarity*) dan kemiripan yang dirasakan (*perceived similarity*). Namun, dalam hubungan yang sudah berjalan, efek kemiripan nyata tidak signifikan, sementara kemiripan yang dirasakan tetap memprediksi ketertarikan. Catat juga bahwa yang diteliti adalah kemiripan sikap dan kepribadian; ringkasannya tidak menyebut "nilai hidup" secara khusus.
 
 [Joel, Eastwick, dan rekan (2020)](https://doi.org/10.1073/pnas.1917036117) memakai pembelajaran mesin (*machine learning*) pada 43 kumpulan data pasangan. Prediktor terkuat kualitas hubungan ternyata hal-hal yang khas hubungan itu sendiri, antara lain komitmen pasangan yang dirasakan, rasa dihargai (*appreciation*), kepuasan pasangan yang dirasakan, dan konflik. Ringkasan penelitian ini tidak menyebut variabel nilai bersama. Ingat pula bahwa yang diteliti adalah pasangan yang sudah terbentuk, bukan orang yang sedang memilih pasangan.
 
-Temuan ini tidak berarti kesamaan tidak penting. Bacaan buku ini lebih sederhana: daftar kesamaan mungkin bukan cara satu-satunya, dan belum tentu cara terbaik, untuk menilai apakah seseorang sejalan denganmu.
+Temuan ini tidak berarti kesamaan tidak penting. Pandangan buku ini lebih sederhana: daftar kesamaan mungkin bukan cara satu-satunya, dan belum tentu cara terbaik, untuk menilai apakah seseorang sejalan denganmu.
 
 ### Tanda Sejalan yang Bisa Kamu Amati
 
-Daripada mencentang daftar hobi, cobalah perhatikan hal-hal ini dari waktu ke waktu:
+Daripada mencentang daftar hobi, cobalah amati hal-hal ini dari waktu ke waktu:
 
 - Saat kamu membawa kabar baik, apakah ia ikut bertanya atau malah mengganti topik?
 - Saat kamu bercerita tentang tujuanmu, apakah ia menanggapinya dengan serius atau menertawakannya?
@@ -35864,7 +35790,7 @@ Tidak ada yang sempurna di semua poin. Seperti dibahas di bab 10, kedewasaan emo
 
 ### Penutup
 
-Sejalan bukan soal sama dalam segala hal. Bacaan buku ini, bukan temuan penelitian, adalah bahwa cara seseorang menanggapi kabar baikmu, rasa dipahami yang ia berikan, dan dukungannya pada diri yang sedang kamu tuju mungkin lebih banyak bercerita daripada daftar kesamaan. Penelitian tentang kabar baik, rasa tanggap, dan fenomena Michelangelo membahas hubungan dekat, bukan orang yang baru kamu kenal. Masih dalam bacaan buku ini, orang yang terus mengecilkan mimpimu menunjukkan pola yang layak kamu catat.
+Sejalan bukan soal sama dalam segala hal. Bacaan buku ini, bukan temuan penelitian, adalah bahwa cara seseorang menanggapi kabar baikmu, rasa dipahami yang ia berikan, dan dukungannya pada diri yang sedang kamu tuju mungkin lebih banyak bercerita daripada daftar kesamaan. Penelitian tentang kabar baik, rasa tanggap, dan fenomena Michelangelo membahas hubungan dekat, bukan orang yang baru kamu kenal. Masih menurut pandangan buku ini, orang yang terus mengecilkan mimpimu menunjukkan pola yang layak kamu catat.
 
 Kalau suatu hari ada orang yang menyukaimu tetapi tidak sejalan denganmu, kamu sudah tahu dari bab 7 cara menolaknya dengan jelas dan tetap hangat. Kamu boleh berterima kasih karena disukai, dan rasa terima kasih itu tidak mewajibkanmu membalas perasaannya. Kamu layak dihargai oleh orang yang berbagi nilai denganmu. Semoga buku ini menemanimu menemukan mereka. Sumber yang dikutip di sepanjang buku ini bisa kamu telusuri di halaman Referensi.
 
@@ -35944,8 +35870,8 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
 - [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
 - [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35967,7 +35893,7 @@ VALUES (
 
 Di kasir, harga yang diberi coret besar sering menang daripada harga termurah, dan itu bukan kebodohan berhitung, melainkan cara otak manusia bekerja.
 
-Coba kenang momen seperti ini. Kamu berdiri di rak minuman, menimbang dua pilihan. Yang pertama bertuliskan harga biasa. Yang kedua harga sama persis, hanya saja di sampingnya ada stiker besar bertuliskan diskon, dengan harga lama yang dicoret tebal. Kamu tahu, secara aritmetika, keduanya sama. Tapi tangammu memilih yang kedua, dan di kepala muncul kalimat penebar rasa aman: "yang ini lebih untung." Kalau kamu pernah mengalami hal serupa, dan hampir semua orang pernah, kamu sudah menyaksikan langsung bahwa keputusan uang jarang dibuat oleh kalkulator yang dingin. Ia dibuat oleh manusia, dengan semua keterbatasannya.
+Coba kenang momen seperti ini. Kamu berdiri di rak minuman, menimbang dua pilihan. Yang pertama bertuliskan harga biasa. Yang kedua harga sama persis, hanya saja di sampingnya ada stiker besar bertuliskan diskon, dengan harga lama yang dicoret tebal. Kamu tahu, secara aritmetika, keduanya sama. Tapi tanganmu memilih yang kedua, dan di kepala muncul kalimat penebar rasa aman: "yang ini lebih untung." Kalau kamu pernah mengalami hal serupa, dan hampir semua orang pernah, kamu sudah menyaksikan langsung bahwa keputusan uang jarang dibuat oleh kalkulator yang dingin. Ia dibuat oleh manusia, dengan semua keterbatasannya.
 
 Buku ini ditulis untuk membedah pertanyaan yang sederhana bentuknya tapi dalam isi: kenapa kita, orang-orang yang pintar berhitung, bisa begitu tidak konsisten soal uang? Kenapa bonus dan gaji yang sama besarnya diperlakukan berbeda? Kenapa kerugian kecil terasa menyakitkan, sementara keuntungan setara hanya terasa biasa saja? Dan yang paling penting: apa yang bisa kita lakukan soal itu? Sebelum menjawab, kita perlu berangkat dari titik nol yang sering terlewat: manusia bukan mesin perhitungan, dan itu bukan cela, melainkan fakta desain.
 
@@ -35981,7 +35907,7 @@ Satu catatan penting supaya kamu tidak salah mengutip: istilah bounded rationali
 
 ### Cukup baik adalah strategi, bukan kekalahan
 
-Contoh favorit Simon datang dari papan catur. Mesin catur yang mencoba mempertimbangkan semua kemungkinan langkah akan mati tertawa sebelum giliran kedua: jumlah variasi permainan yang harus dihitung meledak melebihi kapasitas komputasi apa pun. Solusi pemain manusia, dan juga program catur yang ia bahas, adalah menyederhanakan: mengurangi variasi yang diperiksa di tiap posisi menjadi kurang dari seratus. Ia menyebut hasilnya penyederhanaan yang spektakuler terhadap masalah pilihan.
+Contoh favorit Simon datang dari papan catur. Mesin catur yang mencoba mempertimbangkan semua kemungkinan langkah akan kewalahan sebelum giliran kedua: jumlah variasi permainan yang harus dihitung meledak melebihi kapasitas komputasi apa pun. Solusi pemain manusia, dan juga program catur yang ia bahas, adalah menyederhanakan: mengurangi variasi yang diperiksa di tiap posisi menjadi kurang dari seratus. Ia menyebut hasilnya penyederhanaan yang spektakuler terhadap masalah pilihan.
 
 Dan pesannya untuk catur sekaligus untuk uang sangat manusiawi: pemain tidak perlu mencari langkah terbaik, ia hanya perlu langkah yang baik. Kamu tidak perlu menemukan alokasi gaji yang sempurna secara matematis; kamu perlu alokasi yang cukup baik, bisa dijalankan, dan tidak membuatmu kelelahan berpikir setiap tanggal satu. Masalahnya, cara berpikir hemat energi ini tidak berhenti di momen-momen besar. Ia dipakai untuk semua keputusan, termasuk keputusan uang yang sebenarnya mudah dihitung. Di sinilah jalan pintas berpikir, yang disebut heuristik, mulai memainkan perannya.
 
@@ -36001,29 +35927,26 @@ Untuk sekarang, cukup satu kesimpulan besar: keputusan finansialmu tidak dibuat 
 
 ## Poin Kunci
 
-- Manusia ekonomi yang rasional sempurna tidak pernah ada; Simon (1955) mengajak kita mengganti rasionalitas global dengan gambaran manusia yang punya akses informasi dan kapasitas berhitung terbatas.
-- Manusia menyederhanakan masalah pilihan agar muat di kapasitas berpikirnya, menilai hasil sebagai memuaskan atau tidak, dan berhenti di garis ambang (aspiration level); di catur, pemain hanya mencari langkah yang baik, bukan terbaik.
-- Istilah bounded rationality dan satisficing tidak muncul harfiah di paper 1955; yang muncul adalah idenya, jadi kutip idenya, bukan istilahnya, dari paper itu.
-- Tversky dan Kahneman (1974) menunjukkan orang memakai heuristik saat menghadapi ketidakpastian, dan kesalahannya berpola, bukan acak.
-- Eksperimen roda keberuntungan: angka acak 10 vs 65 menggeser median tebakan negara Afrika di PBB dari 25 menjadi 45, dan insentif akurasi tidak menghapusnya.
-- Karena kesalahan kita berpola, ia bisa dipetakan dan diantisipasi; itulah tugas sebelas bab berikutnya.
+- Manusia ekonomi yang rasional sempurna tidak pernah ada. Simon (1955) menggambarkan pembuat keputusan yang menyederhanakan masalah agar muat di kapasitas berpikirnya, lalu berhenti di hasil yang memuaskan, bukan yang terbaik.
+- Tversky dan Kahneman (1974) menunjukkan bahwa heuristik sering berguna tapi bisa menyimpang secara sistematis: angka acak dari roda keberuntungan menggeser median tebakan dari 25 menjadi 45.
+- Karena kesalahan kita berpola, bukan acak, ia bisa dipetakan dan diantisipasi.
 
-Kalkulator bukan kamu, tapi siapa sebenarnya yang mengambil keputusan di dalam kepalamu? Bab berikutnya memperkenalkan dua sistem berpikir yang bekerja seperti dua karyawan dengan jam kerja yang sangat berbeda: satu selalu siaga dan cepat, satu pintar tapi malas. Hampir semua kebiasaan finansialmu, baik dan buruknya, bisa dijelaskan dari tarik-menarik keduanya.
+Kalkulator bukan kamu. Lalu siapa sebenarnya yang mengambil keputusan di dalam kepalamu?
 
 
 <!-- Chapter: 02_dua-sistem-di-balik-keputusan-uang -->
 
 ## Dua Sistem di Balik Setiap Keputusan Uang
 
-Kelelawar dan bola seharga Rp1.100, kelelawar Rp1.000 lebih mahal, dan jawaban pertamamu hampir pasti salah. Justru itu pelajaran terbaik tentang cara otakmu bekerja.
+Sebuah pemukul dan sebuah bola dijual seharga Rp1.100, dan pemukulnya Rp1.000 lebih mahal daripada bolanya, jadi berapa harga bolanya? Jawaban pertamamu hampir pasti salah, dan justru itu pelajaran terbaik tentang cara otakmu bekerja.
 
-Kalau kamu sempat menjawab "seratus rupiah", kamu bergabung dengan jutaan orang, termasuk banyak mahasiswa universitas ternama yang mengikuti eksperimen ini. Tapi hitung ulang pelan-pelan. Kalau bolanya seratus rupiah dan kelelawar harus Rp1.000 lebih mahal, kelelawarnya Rp1.100, dan totalnya jadi Rp1.200, bukan Rp1.100. Jawaban yang benar adalah lima puluh rupiah. Soal ini terlihat seperti teka-teki pembagian kue di pesta ulang tahun, tapi Daniel Kahneman menjadikannya pintu masuk bukunya yang terkenal, Thinking, Fast and Slow, dan pesannya menyentuh semua keputusan kita, termasuk keputusan uang: jawaban yang paling cepat datang tidak selalu jawaban yang benar, dan itu bukan kebetulan, melainkan hasil kerja dua sistem yang berbeda di dalam kepala kita.
+Kalau kamu sempat menjawab "seratus rupiah", kamu bergabung dengan jutaan orang, termasuk banyak mahasiswa universitas ternama yang mengikuti eksperimen ini. Tapi hitung ulang pelan-pelan. Kalau bolanya seratus rupiah dan pemukul harus Rp1.000 lebih mahal, pemukulnya Rp1.100, dan totalnya jadi Rp1.200, bukan Rp1.100. Jawaban yang benar adalah lima puluh rupiah. Soal ini terlihat seperti teka-teki pembagian kue di pesta ulang tahun, tapi Daniel Kahneman menjadikannya pintu masuk bukunya yang terkenal, Thinking, Fast and Slow, dan pesannya menyentuh semua keputusan kita, termasuk keputusan uang: jawaban yang paling cepat datang tidak selalu jawaban yang benar, dan itu bukan kebetulan, melainkan hasil kerja dua sistem yang berbeda di dalam kepala kita.
 
 ### Jawaban yang terasa benar tapi salah
 
-Kahneman menulis sesuatu yang sangat jujur tentang soal kelelawar-dan-bola ini: ciri khas teka-teki mudah ini adalah ia memanggil sebuah jawaban yang intuitif, menarik, dan salah. Intuitif karena muncul tanpa usaha, menarik karena terasa cocok, dan salah karena tidak ada satupun proses menimbang yang benar-benar dijalankan saat ia lahir. Kamu tidak menghitung; kamu merasa. Lalu perasaan itu keluar sebagai jawaban.
+Kahneman menulis sesuatu yang sangat jujur tentang soal pemukul dan bola ini: ciri khas teka-teki mudah ini adalah ia memanggil sebuah jawaban yang intuitif, menarik, dan salah. Intuitif karena muncul tanpa usaha, menarik karena terasa cocok, dan salah karena tidak ada satu pun proses menimbang yang benar-benar dijalankan saat ia lahir. Kamu tidak menghitung; kamu merasa. Lalu perasaan itu keluar sebagai jawaban.
 
-Yang membuat soal ini begitu penting untuk topik uang adalah bentuk kekesalannya. Kesalahan itu bukan salah ketik yang acak, bukan juga kelemahan hitung. Ia adalah pola: jawaban cepat, mudah, dan keliru mengalahkan jawaban lambat yang benar pada situasi tertentu yang bisa diprediksi. Kalau kesalahan berpola, maka orang yang memahami polanya bisa mengantisipasi di mana dia akan tersandung, dan itu sudah setengah jalan menuju keputusan finansial yang lebih sehat.
+Yang membuat soal ini begitu penting untuk topik uang adalah bentuk kesalahannya. Kesalahan itu bukan salah ketik yang acak, bukan juga kelemahan hitung. Ia adalah pola: jawaban cepat, mudah, dan keliru mengalahkan jawaban lambat yang benar pada situasi tertentu yang bisa diprediksi. Kalau kesalahan berpola, maka orang yang memahami polanya bisa mengantisipasi di mana dia akan tersandung, dan itu sudah setengah jalan menuju keputusan finansial yang lebih sehat.
 
 ### Kenalkan dua karyawan di kepalamu
 
@@ -36035,25 +35958,23 @@ Sistem 2 berbeda total. Kahneman mendefinisikannya sebagai sistem yang mengaloka
 
 ### Siapa yang membayar di kasir
 
-Sekarang tumpahkan dua tokoh ini ke kehidupan finansial harianmu. Saat kamu mengetuk kartu di mesin pembayaran, membeli popkok yang dijalankan petugas di depan mata, atau mencentang kotak asuransi tambahan saat checkout, siapa yang sebenarnya memutuskan? Hampir selalu Sistem 1. Nominalnya kecil, situasinya familiar, dan Sistem 2 sedang sibuk atau sedang malas. Puluhan keputusan kecil seperti itu per hari terlihat remeh, tapi di akhir bulan jumlahnya membentuk pola pengeluaran yang tidak pernah kamu rancang dengan sadar.
+Sekarang tumpahkan dua tokoh ini ke kehidupan finansial harianmu. Saat kamu mengetuk kartu di mesin pembayaran, membeli popcorn yang dijajakan petugas di depan mata, atau mencentang kotak asuransi tambahan saat checkout, siapa yang sebenarnya memutuskan? Hampir selalu Sistem 1. Nominalnya kecil, situasinya familiar, dan Sistem 2 sedang sibuk atau sedang malas. Puluhan keputusan kecil seperti itu per hari terlihat remeh, tapi di akhir bulan jumlahnya membentuk pola pengeluaran yang tidak pernah kamu rancang dengan sadar.
 
-Keputusan besar pun rentan. Saat kamu dipangsales dengan angka-angka yang berputar cepat, ditawari investasi dengan iming-iming yang menggoda, atau mendengar kabar harga emas yang naik tajam, jawaban cepat dari Sistem 1 sudah tertulis sebelum Sistem 2 sempat membuka kalkulatornya. Orang yang tampak "tidak disiplin" soal uang biasanya bukan tidak punya niat; ia hanya berharap Sistem 2 yang lelah itu siap berjaga dua puluh empat jam, dan itu harapan yang tidak realistis.
+Keputusan besar pun rentan. Saat kamu disodori angka-angka yang berputar cepat oleh tenaga penjual, ditawari investasi dengan iming-iming yang menggoda, atau mendengar kabar harga emas yang naik tajam, jawaban cepat dari Sistem 1 sudah tertulis sebelum Sistem 2 sempat membuka kalkulatornya. Orang yang tampak "tidak disiplin" soal uang biasanya bukan tidak punya niat; ia hanya berharap Sistem 2 yang lelah itu siap berjaga dua puluh empat jam, dan itu harapan yang tidak realistis.
 
 ### Kenapa dua sistem ini bukan musuh
 
 Ada godaan untuk membenci Sistem 1 dan menganggap Sistem 2 sebagai pahlawan. Penilaian itu keliru. Sistem 1 adalah alat yang luar biasa: tanpa ia, kamu akan berhenti setiap tiga detik untuk menghitung ulang jarak langkah, dan hidupmu terhenti. Kesalahan muncul bukan karena Sistem 1 ada, melainkan karena ia bekerja di wilayah yang tidak ia kuasai, seperti matematika cicilan, risiko investasi, atau nilai masa depan. Tugas yang masuk akal bukan melumpuhkan Sistem 1, melainkan tahu kapan harus membangunkan Sistem 2, dan, seperti akan kamu lihat di bab-bab akhir, merancang lingkungan agar keputusan penting tidak bergantung pada semangat Sistem 2 yang datang dan pergi.
 
-Dengan dua tokoh ini di tangan, hampir semua bab berikutnya jadi lebih mudah dibaca, karena setiap bias yang akan kita bedah adalah Sistem 1 yang bekerja di tempat yang seharusnya milik Sistem 2. Kasus pertama dan paling terkenal bekerja di wilayah pengelolaan uang sehari-hari: kenapa uang di kepalamu terbagi-bagi ke dalam saku-saku terpisah yang tidak saling dipertukarkan. Itulah akuntansi mental, dan ia punya aturan main yang aneh tapi sangat konsisten.
+Dengan dua tokoh ini di tangan, hampir semua bias yang kita bahas sesudah ini jadi lebih mudah dibaca, karena setiap bias yang akan kita bedah adalah Sistem 1 yang bekerja di tempat yang seharusnya milik Sistem 2. Kasus pertama dan paling terkenal bekerja di wilayah pengelolaan uang sehari-hari: kenapa uang di kepalamu terbagi-bagi ke dalam saku-saku terpisah yang tidak saling dipertukarkan. Itulah akuntansi mental, dan ia punya aturan main yang aneh tapi sangat konsisten.
 
 ## Ringkasan
 
-- Soal kelelawar-dan-bola memperlihatkan inti masalahnya: jawaban intuitif yang salah (sepuluh ribu) datang lebih dulu daripada jawaban benar (lima ribu), dan Kahneman menyebut ciri teka-teki begini adalah jawaban yang "intuitif, menarik, dan salah".
-- Sistem 1 beroperasi otomatis dan cepat dengan sedikit atau tanpa usaha dan tanpa rasa kendali sadar; Sistem 2 mengalokasikan perhatian untuk aktivitas mental yang berat, termasuk perhitungan kompleks (definisi dari Kahneman, 2011).
-- Sistem 2 itu malas karena menjalankannya mahal secara energi, sehingga mayoritas keputusan kecil, termasuk keputusan uang, diambil Sistem 1.
-- Kesalahan finansial bukan salah acak, melainkan berpola, dan pola itu bisa diprediksi; itulah alasan buku ini bisa menyusun peta bias satu per satu.
+- Sistem 1 bekerja otomatis dan cepat, dengan sedikit atau tanpa usaha; Sistem 2 mengalokasikan perhatian untuk aktivitas mental yang berat, termasuk perhitungan kompleks (Kahneman, 2011). Karena Sistem 2 malas, mayoritas keputusan kecil soal uang diambil Sistem 1.
+- Kesalahan finansial bukan salah acak, melainkan berpola, dan pola itu bisa diprediksi.
 - Tugasnya bukan melumpuhkan Sistem 1, melainkan tahu kapan membangunkan Sistem 2 dan merancang lingkungan agar keputusan penting tidak bergantung pada semangat yang datang dan pergi.
 
-Dua sistem ini adalah panggungnya; sekarang saatnya bertemu pemain pertamanya. Bab berikutnya mengajakmu mengintip saku-saku rahasia di kepalamu: kenapa uang bonus dan uang gaji yang sama besarnya tidak pernah dianggap sama, dan kenapa uang yang disimpan "untuk liburan" terasa berbeda dengan uang di rekening tabungan, meski secara matematika keduanya tak bisa dibedakan.
+Dua sistem ini adalah panggungnya. Pemain pertamanya menunggu di saku-saku rahasia kepalamu, tempat uang bonus dan uang gaji yang sama besarnya tidak pernah dianggap sama.
 
 
 <!-- Chapter: 03_akuntansi-mental-anggaran-di-kepala -->
@@ -36062,7 +35983,7 @@ Dua sistem ini adalah panggungnya; sekarang saatnya bertemu pemain pertamanya. B
 
 Bonus Rp500.000 dan gaji Rp500.000 punya nilai tukar yang sama, tapi hampir semua orang memperlakukannya seolah-olah dua jenis uang yang berbeda.
 
-Perhatikan saja apa yang terjadi di kepalamu. Gaji langsung terbelah menjadi tugas-tugas: sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus datang dengan aura yang lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak: angkanya sama, tukarannya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada satu pun alat ukur di dunia ini yang sanggup membedakannya. Yang berbeda hanya satu hal: label yang menempel di kepalamu.
+Lihat saja apa yang terjadi di kepalamu. Gaji langsung terbelah menjadi tugas-tugas: sebagian untuk tagihan, sebagian untuk belanja bulanan, sisanya disisihkan dengan hati-hati. Bonus datang dengan aura yang lain. Ia terasa seperti hadiah, seperti uang yang boleh dibelanjakan tanpa banyak perhitungan, entah untuk sepatu yang lama diinginkan atau makan enak bersama teman. Padahal coba pikir sejenak: angkanya sama, tukarannya sama, kegunaannya sama. Kalau kedua lembar itu diletakkan berdampingan, tidak ada satu pun alat ukur di dunia ini yang sanggup membedakannya. Yang berbeda hanya satu hal: label yang menempel di kepalamu.
 
 Ekonom Richard Thaler menyebut kebiasaan ini akuntansi mental, dan dalam papernya "Mental Accounting Matters" (1999) ia membedahnya sampai ke sudut-sudut terkecilnya. Kesimpulannya menohok. Menurut teori ekonomi, semua uang itu sama dan saling bisa dipertukarkan. Menurut kepala kita, tidak ada uang yang lahir tanpa label.
 
@@ -36082,7 +36003,7 @@ Kalau diteliti lebih dekat, Thaler mencatat bahwa uang diberi label dalam tiga l
 - Kekayaan dialokasikan ke dalam akun-akun, misalnya rekening, dana pensiun, dan "dana hujan" untuk hari-hari buruk.
 - Penghasilan dipilah ke dalam kategori, misalnya reguler atau windfall, uang yang datang teratur dibanding uang kejutan.
 
-Lapis ketiga inilah yang menjawab paradoks di pembuka bab. Gaji masuk kategori reguler, penuh kewajiban yang sudah antre menunggu. Bonus masuk kategori windfall, uang kejutan yang belum ditagih siapa pun. Jumlahnya sama, akunnya berbeda, maka perlakuannya pun berbeda. Dan label semacam ini bekerja diam-diam tapi kuat: uang pos makan tidak biasa dicomot untuk sepatu, tabungan pensiun nyaris tak pernah dipakai liburan, dan uang kejutan sering habis paling cepat justru karena tidak ada yang menagihnya.
+Lapis ketiga inilah yang menjawab paradoks di pembuka bab. Gaji masuk kategori reguler, penuh kewajiban yang sudah antre menunggu. Bonus masuk kategori windfall, uang kejutan yang belum ditagih siapa pun. Jumlahnya sama, akunnya berbeda, maka perlakuannya ikut berbeda. Dan label semacam ini bekerja diam-diam tapi kuat: uang pos makan tidak biasa dicomot untuk sepatu, tabungan pensiun nyaris tak pernah dipakai liburan, dan uang kejutan sering habis paling cepat justru karena tidak ada yang menagihnya.
 
 ### Dua puluh dolar yang terasa lebih mahal
 
@@ -36100,14 +36021,11 @@ Sisi lain dari sistem yang sama bekerja dengan arah yang menarik. Thaler menutup
 
 ## Intisari
 
-- Akuntansi mental adalah kebiasaan kepala mengkode, melabeli, dan menyimpan uang ke laci-laci berbeda, sehingga uang bernilai sama bisa diperlakukan sebagai dua hal yang berbeda (Thaler, 1999).
-- Ia bekerja lewat tiga komponen: cara hasil ekonomi dipersepsikan dan dievaluasi, penugasan aktivitas ke akun tertentu, dan seberapa sering akun ditinjau ulang (choice bracketing).
-- Setiap komponen melanggar fungibility, prinsip ekonomi bahwa uang saling bisa dipertukarkan; di kepala, label selalu mengalahkan angka.
-- Uang diberi label tiga lapis: anggaran pengeluaran (makanan, tempat tinggal), akun kekayaan (rekening, pensiun, dana hujan), dan kategori penghasilan (reguler versus windfall). Bonus terasa bebas karena masuk kategori kejutan.
-- Eksperimen tiket teater Tversky dan Kahneman (1981) menunjukkan akibatnya: 88 persen tetap membeli tiket setelah kehilangan 10 dolar tunai, tapi hanya 46 persen setelah kehilangan tiket 10 dolar, karena tiket baru masuk ke akun pertunjukan yang sama sehingga menonton terasa 20 dolar.
-- Label yang menolak rugi membuat orang nekat menghadapi badai demi tiket basket yang sudah dibayar, dan menjadikan kartu kredit alat pemisah terbaik antara menikmati dan membayar.
+- Akuntansi mental membuat kepala melabeli uang ke laci-laci berbeda, dan setiap komponen akuntansi mental melanggar fungibility, prinsip bahwa uang saling bisa dipertukarkan (Thaler, 1999).
+- Bonus terasa bebas dibelanjakan karena masuk kategori windfall, sementara gaji masuk kategori reguler yang penuh kewajiban.
+- Dalam eksperimen tiket teater Tversky dan Kahneman (1981), 88 persen masih mau membeli tiket setelah kehilangan 10 dolar tunai, tapi hanya 46 persen setelah kehilangan tiketnya, karena tiket kedua dibukukan ke akun pertunjukan yang sama.
 
-Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Bab berikutnya, "Rasa Sakit Membayar", menelusuri momen ketika uang benar-benar berpindah tangan, dan kenapa bentuk uangnya menentukan seberapa besar rasa sakit yang menyertainya.
+Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan uang tunai terasa lebih berat? Jawabannya ada pada momen ketika uang benar-benar berpindah tangan.
 
 
 <!-- Chapter: 04_rasa-sakit-membayar -->
@@ -36116,11 +36034,11 @@ Kalau begitu, satu pertanyaan tersisa: kenapa kartu itu terasa lebih murah, dan 
 
 Membayar dengan uang tunai itu terasa seperti dicabut giginya, sedangkan kartu hanya lewat sekali gigitan kecil yang hampir tidak terasa.
 
-Pernah kamu perhatikan betapa berbedanya dua momen ini? Di kedai kopi, kamu menyerahkan dua lembar lima puluh ribu, melihat uang itu berpindah tangan, dan sisa saldo di dompetmu jelas berkurang. Ada tarikan kecil di dada, sekilas, lalu kopi itu terasa "berharga". Di tempat yang sama keesokan harinya, kamu tinggal menempelkan kartu, satu bunyi pendek, dan kamu sudah berjalan meninggalkan kasir tanpa ada yang benar-benar "pergi" dari tanganmu. Kopinya sama, harganya sama, tapi rasanya beda. Kalau perbedaan kecil itu pernah membuatmu bertanya-tanya, pertanyaanmu sudah mendarat di wilayah yang risetnya dalam sekali: psikolog ekonomi menyebutnya pain of paying, rasa sakit membayar.
+Pernah kamu sadari betapa berbedanya dua momen ini? Di kedai kopi, kamu menyerahkan dua lembar lima puluh ribu, melihat uang itu berpindah tangan, dan sisa saldo di dompetmu jelas berkurang. Ada tarikan kecil di dada, sekilas, lalu kopi itu terasa "berharga". Di tempat yang sama keesokan harinya, kamu tinggal menempelkan kartu, satu bunyi pendek, dan kamu sudah berjalan meninggalkan kasir tanpa ada yang benar-benar "pergi" dari tanganmu. Kopinya sama, harganya sama, tapi rasanya beda. Kalau perbedaan kecil itu pernah membuatmu bertanya-tanya, pertanyaanmu sudah mendarat di wilayah yang risetnya dalam sekali: psikolog ekonomi menyebutnya pain of paying, rasa sakit membayar.
 
 ### Dua pembukuan yang saling berhadapan
 
-Ide dasarnya sederhana tapi dalam. Setiap kali kamu mengonsumsi sesuatu, ada dua catatan yang sekaligus terbuka di kepalamu: kenikmatan dari konsumsi itu sendiri, dan rasa sakit dari uang yang harus keluar. Drazen Prelec dan George Loewenstein (1998) menyebut sistem ini akuntansi mental "double-entry", dua pembukuan yang berjalan berhadapan. Yang menarik, kedua catatan itu saling memengaruhi dua arah. Rasa sakit membayar bisa menurunkan kenikmatan konsumsi, dan kenikmatan konsumsi bisa melembutkan rasa sakit membayar.
+Ide dasarnya sederhana tapi dalam. Setiap kali kamu mengonsumsi sesuatu, ada dua catatan yang sekaligus terbuka di kepalamu: kenikmatan dari konsumsi itu sendiri, dan rasa sakit dari uang yang harus keluar. Drazen Prelec dan George Loewenstein (1998) menyebut sistem ini akuntansi mental "double-entry", dua pembukuan yang berjalan berhadapan. Kedua catatan itu saling memengaruhi dua arah. Rasa sakit membayar bisa menurunkan kenikmatan konsumsi, dan kenikmatan konsumsi bisa melembutkan rasa sakit membayar.
 
 Contoh paling jujur dari mereka cuma satu kalimat: dering argometer taksi mengurangi kenikmatan perjalananmu. Setiap kilometer yang bertambah di meteran, sedikit demi sedikit, menggerogoti rasa nyaman duduk di dalam mobil itu. Perjalanan yang sama dengan taksi yang meternya tidak terlihat akan terasa jauh lebih santai. Konsumsinya identik, hanya "dengungan" pembukuan rasa sakitnya yang berbeda.
 
@@ -36134,7 +36052,7 @@ Kalau rasa sakit membayar itu nyata, maka pertanyaan berikutnya logis: apa yang 
 
 Kartu kredit bukan kebetulan. Richard Thaler (1999), dalam papernya tentang akuntansi mental, menyebut kartu kredit mungkin perangkat decoupling terbaik yang ada, dan menjadi bukti kenapa toko-toko rela menyisihkan beberapa persen pendapatannya hanya untuk berurusan dengan perusahaan kartu. Kalau kartu tidak mengubah perilaku belanja, tidak ada pedagang yang mau membayar harga sebesar itu hanya demi menerima pembayaranmu.
 
-Bukti eksperimen paling awal datang dari Richard Feinberg (1986) dalam penelitiannya yang berjudul Credit Cards as Spending Facilitating Stimuli. Ia menjalankan empat eksperimen dan satu studi lapangan, melibatkan 135 pelanggan restoran dan 154 mahasiswa, untuk menguji satu hipotesis: rangsangan yang terkait dengan belanja bisa memicu respons belanja. Hasilnya, kehadiran isyarat kartu kredit membuat probabilitas, kecepatan, dan besaran belanja meningkat. Prelec dan Simester (2001), yang menelaah ulang penelitian itu, menulis bahwa dengan menghias lingkungan eksperimen dengan isyarat kartu, Feinberg bisa mendongkrak kesediaan membayar hipotetis sekitar 50 hingga 200% dibanding kelompok kontrol, dan keputusan belanja diambil lebih cepat. Dalam studi donasi nyata untuk United Way, rata-rata donasi tunai hanya 11 sen, sementara kondisi kartu mencapai 33 sen, tiga kali lipatnya.
+Bukti eksperimen paling awal datang dari Richard Feinberg (1986) dalam penelitiannya yang berjudul Credit Cards as Spending Facilitating Stimuli. Lewat empat eksperimen dan satu studi lapangan, ia menemukan bahwa kehadiran isyarat kartu kredit membuat probabilitas, kecepatan, dan besaran belanja meningkat. Menurut telaah ulang Prelec dan Simester (2001), isyarat kartu di lingkungan eksperimen Feinberg bisa mendongkrak kesediaan membayar hipotetis sekitar 50 hingga 200% dibanding kelompok kontrol. Dalam studi donasi nyata untuk United Way, rata-rata donasi tunai hanya 11 sen, sementara kondisi kartu mencapai 33 sen.
 
 Satu catatan kejujuran yang perlu kamu pegang: penelitian Feinberg bukan tanpa bantahan. Replikasi oleh Hunt dkk. (1990) justru tidak menemukan efek utama. Jadi angka-angka di atas sebaiknya dibaca sebagai arah temuan dari studi-studi awal yang kontroversial, bukan hukum alam. Meski begitu, temuan yang lebih modern dan datanya lebih besar bergerak ke arah yang sama.
 
@@ -36150,18 +36068,13 @@ Kamu sekarang bisa melihat pola yang sama di mana-mana. Dompet digital berisi an
 
 Kalau bius ini bisa dipasang tanpa sadar, ia juga bisa dipasangi alarm. Triknya bukan menghindari kartu selamanya, melainkan mengembalikan sedikit transparansi pada pembayaranmu. Beberapa kebiasaan kecil berfungsi seperti itu: menunda satu malam sebelum membeli barang yang tidak kamu rencanakan, membayar barang kesukaanmu tunai agar harganya terasa, atau menuliskan pengeluaran harian dengan tangan agar arus keluarnya terlihat lagi. Semua itu hanya satu gagasan yang sama: membuat tagihan itu "berbunyi" lagi di kepalamu sebelum uangmu pergi.
 
-Rasa sakit membayar menjawab satu pertanyaan (kenapa belanja dengan kartu terasa lebih murah), tapi masih ada pertanyaan yang lebih besar: kenapa tugas-tugas baik untuk masa depan, seperti menabung atau melunasi cicilan, selalu gagap untuk dimulai hari ini? Bab berikutnya membahas bias yang membuat masa depanmu selalu kalah cepat dari dirimu yang sekarang: bias masa kini.
-
 ## Inti Pembahasan
 
-- Setiap pembelian membuka dua pembukuan sekaligus di kepalamu: kenikmatan konsumsi dan rasa sakit membayar. Prelec dan Loewenstein (1998) menyebutnya akuntansi mental double-entry, dan keduanya saling memengaruhi dua arah.
-- Dering argometer taksi mengurangi kenikmatan perjalanan: rasa sakit membayar menurunkan kenikmatan konsumsi. Sebaliknya, konsumsi yang sudah dibayar dinikmati seolah-olah gratis.
-- Kartu kredit melemahkan coupling, ikatan antara konsumsi dan pembayaran (Prelec dan Loewenstein, 1998); Thaler (1999) menyebutnya perangkat decoupling terbaik.
-- Feinberg (1986) menemukan isyarat kartu kredit meningkatkan probabilitas, kecepatan, dan besaran belanja (135 pelanggan restoran, 154 mahasiswa), dengan estimasi kenaikan kesediaan membayar 50-200% menurut telaah Prelec dan Simester (2001); replikasi 1990 tidak menemukan efek utama, jadi angkanya layak diperlakukan hati-hati.
-- Raghubir dan Srivastava (2008) menunjukkan orang menghabiskan lebih banyak dengan kartu hadiah dibanding uang tunai bernilai sama, karena transparansi pembayaran yang rendah memberi efek anestesi terhadap rasa sakit membayar.
-- Pertahananmu sederhana: kembalikan transparansi. Bayar tunai untuk pengeluaran harian, tuliskan pengeluaran, dan beri jeda satu malam sebelum pembelian tak terencana.
+- Setiap pembelian membuka dua pembukuan di kepalamu, kenikmatan konsumsi dan rasa sakit membayar, yang saling memengaruhi dua arah (Prelec dan Loewenstein, 1998).
+- Kartu kredit dan kartu hadiah melemahkan ikatan antara konsumsi dan pembayaran, sehingga rasa sakitnya seperti dibius; satu replikasi (1990) tidak menemukan efek utama Feinberg, jadi angkanya layak diperlakukan hati-hati.
+- Pertahananmu sederhana: kembalikan transparansi lewat jeda satu malam, pembayaran tunai untuk barang kesukaanmu, dan catatan pengeluaran harian yang ditulis tangan.
 
-Kisah rasa sakit membayar hanyalah pembuka dari masalah yang lebih besar. Di bab berikutnya kita berhadapan dengan bias yang membuat semua rencana masa depan selalu kalah oleh dirimu hari ini: bias masa kini, alasan kenapa "besok saya mulai menabung" adalah kalimat yang paling sering diucapkan dan paling jarang dipenuhi.
+Rasa sakit membayar menjawab kenapa belanja dengan kartu terasa lebih murah. Masih ada pertanyaan yang lebih besar: kenapa menabung atau melunasi cicilan selalu gagap untuk dimulai hari ini, dan kenapa "besok saya mulai menabung" begitu sering diucapkan tapi jarang dipenuhi?
 
 
 <!-- Chapter: 05_bias-masa-kini-masa-depan-selalu-kalah -->
@@ -36182,7 +36095,7 @@ O''Donoghue dan Rabin membagi dua jenis "keterlambatan" yang lahir dari bias ini
 
 ### Penimbang yang jarumnya berubah sendiri
 
-Dari mana bentuk penimbang yang aneh ini? David Laibson (1997) memberi kerangka matematis yang sampai sekarang jadi standar. Ia menyebutnya diskonto kuasi-hiperbolik, yang dalam bentuk paling sederhana memakai dua angka yang biasa ditulis beta dan delta. Angka delta menangani kesabaran jangka panjang, sedangkan angka beta menangani "diskon tambahan" yang diterapkan hanya pada semua hal yang bukan hari ini. Dalam contoh yang ia pakai, beta sekitar 0,6 sementara delta sekitar 0,99. Perhatikan perbedaannya: dari minggu depan ke minggu depannya lagi, penilaian turun hanya 1%. Tapi dari "hari ini" ke "minggu depan", penilaian langsung jatuh sekitar 40%. Begitulah cara masa depan selalu kalah: bukan karena masa depan buruk, tapi karena setiap jarak satu minggu dari sekarang dikenakan pajak raksasa yang tidak pernah dikenakan pada hari ini.
+Dari mana bentuk penimbang yang aneh ini? David Laibson (1997) memberi kerangka matematis yang sampai sekarang jadi standar. Ia menyebutnya diskonto kuasi-hiperbolik, yang dalam bentuk paling sederhana memakai dua angka yang biasa ditulis beta dan delta. Angka delta menangani kesabaran jangka panjang, sedangkan angka beta menangani "diskon tambahan" yang diterapkan hanya pada semua hal yang bukan hari ini. Dalam contoh yang ia pakai, beta sekitar 0,6 sementara delta sekitar 0,99. Dari minggu depan ke minggu depannya lagi, penilaian turun hanya 1%. Tapi dari "hari ini" ke "minggu depan", penilaian langsung jatuh sekitar 40%. Begitulah cara masa depan selalu kalah: bukan karena masa depan buruk, tapi karena setiap jarak satu minggu dari sekarang dikenakan pajak raksasa yang tidak pernah dikenakan pada hari ini.
 
 Laibson menyebut preferensi seperti ini dynamically inconsistent, tidak konsisten antarwaktu: preferensi di tanggal t berbeda dengan preferensi di tanggal t plus satu. Dan dari sinilah ia menulis metafora yang terkenal. Aset-aset likuid rendah seperti deposito berjangka atau dana pensiun bekerja seperti telur emas angsa yang dikisahkan dalam dongeng: menjanjikan manfaat besar dalam jangka panjang, tapi sulit, bahkan hampir mustahil, dicairkan segera. Kesulitan mengakses uangmu sendiri itu bukan kelemahan desain, melainkan inti desainnya. Ia menutup pintu bagi dirimu-masa-kini yang selalu punya alasan baru.
 
@@ -36196,18 +36109,15 @@ Lebih menarik lagi, aktivitas relatif kedua wilayah itu berkorelasi dengan pilih
 
 Ada satu temuan O''Donoghue dan Rabin yang perlu kamu cerna pelan-pelan: kesadaran tidak otomatis menyembuhkan. Mereka membagi orang menjadi dua jenis. Naifs, yang tidak menyadari bias dirinya, dan sophisticates, yang menyadarinya dengan akurat. Naif menunda aktivitas yang mahal hari ini karena yakin besok akan mengerjakannya; sofistikat tahu dirinya akan menunda, lalu merancang cara agar penundaan itu mahal. Yang menggelitik, kecanggihan juga punya harga: dalam model mereka, kesadaran itu mengurangi kecenderungan menunda, tapi justru memperparah kecenderungan berbuat terlalu cepat untuk hal-hal yang nikmat sekarang, karena sofistikat tahu dirinya tak akan tahan, jadi ia menyerah lebih dulu. Menyadari bias ini adalah langkah pertama yang penting, tapi langkah kedua bukan sekadar "lebih tekun", melainkan merancang situasi agar bias ini tidak lagi berkuasa penuh.
 
-Rancangan semacam itu, dari tabungan otomatis sampai komitmen yang mengikat, akan kita bahas tuntas di bab penutup buku ini. Sebelum sampai ke sana, masih ada satu kekuatan psikologis lain yang lebih halus lagi dan bekerja sebelum kamu sempat menimbang apa pun: rasa takut kehilangan. Bab berikutnya menjelaskan kenapa kerugian terasa dua kali lebih besar daripada keuntungan yang setara, dan bagaimana rasa itu membentuk hampir semua keputusan uangmu tanpa kamu sadari.
+Rancangan semacam itu, dari tabungan otomatis sampai komitmen yang mengikat, akan kita bahas tuntas di bab penutup buku ini.
 
 ## Yang Perlu Kamu Ingat
 
-- Preferensi yang bias ke masa kini (present-biased preferences, istilah dari O''Donoghue dan Rabin, 1999) memberi bobot lebih besar pada momen yang lebih dekat, dan bobot itu membesar saat momen itu mendekat.
-- Akibatnya pilihan tidak konsisten antarwaktu (dynamically inconsistent, Laibson 1997): rencana yang terasa tepat dari jauh berubah saat waktunya tiba.
-- Diskonto kuasi-hiperbolik memakai dua angka: delta untuk kesabaran antar-masa-depan (contoh 0,99) dan beta untuk penalti tambahan khusus "bukan hari ini" (contoh 0,6). Pajak raksasa hanya dikenakan pada jarak dari hari ini.
-- Aset yang sulit dicairkan bekerja seperti telur emas angsa: manfaatnya di masa depan dan pintunya tertutup bagi dirimu yang sekarang (Laibson 1997).
-- Otak menunjukkan dua sistem: wilayah limbik lebih aktif untuk hadiah segera, korteks prefrontal lateral bekerja rata untuk semua pilihan antarwaktu (McClure dkk. 2004, 14 partisipan, P kurang dari 0,005).
-- Menyadari bias tidak cukup: naifs menunda karena tidak sadar, sophisticates yang sadar pun masih berlebihan pada kenikmatan sekarang. Solusinya merancang situasi, bukan menambah tekad.
+- Bias masa kini (O''Donoghue dan Rabin, 1999) memberi bobot lebih besar pada momen yang lebih dekat, sehingga rencana yang terasa tepat dari jauh bisa berubah saat waktunya tiba.
+- Dalam kerangka kuasi-hiperbolik Laibson (1997), penalti besar hanya dikenakan pada jarak dari hari ini, dan aset yang sulit dicairkan menutup pintu bagi dirimu yang sekarang.
+- Menyadari bias tidak cukup; yang menolong adalah merancang situasi, bukan menambah tekad.
 
-Rasa takut kalah oleh masa depan bukan satu-satunya perasaan yang mengatur dompetmu. Ada sensor lain yang lebih dahulu bekerja: rasa takut kehilangan. Bab berikutnya membongkar teori prospek, kerangka yang membuat satu Nobel Ekonomi, dan menjelaskan kenapa kehilangan Rp500 ribu bisa terasa jauh lebih menyakitkan daripada kenikmatan menemukan jumlah yang sama.
+Rasa takut kalah oleh masa depan bukan satu-satunya perasaan yang mengatur dompetmu. Ada sensor lain yang lebih dahulu bekerja: rasa takut kehilangan.
 
 
 <!-- Chapter: 06_rasa-takut-kehilangan -->
@@ -36216,7 +36126,7 @@ Rasa takut kalah oleh masa depan bukan satu-satunya perasaan yang mengatur dompe
 
 Hilangnya uang Rp500.000 menggores perasaanmu jauh lebih dalam daripada kegembiraan saat kamu menang atau menemukan jumlah yang sama persis.
 
-Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, hidup yang suka bermain balik memberimu Rp500.000 juga, kali ini dari kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas: satu rugi, satu untung, sama besar, saling menghapus. Tetapi perhatikan perasaanmu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa menempel sampai kamu menutup mata. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
+Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, hidup yang suka bermain balik memberimu Rp500.000 juga, kali ini dari kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas: satu rugi, satu untung, sama besar, saling menghapus. Tetapi rasanya tidak begitu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa menempel sampai kamu menutup mata. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
 
 Ketimpangan seperti ini bukan keunikan pribadimu, dan bukan pula tanda kamu pelit atau terlalu emosional. Ia salah satu temuan paling kokoh dalam psikologi pengambilan keputusan, dan pintu masuknya adalah teori yang menggeser cara ilmuwan memandang pilihan manusia.
 
@@ -36228,7 +36138,7 @@ Kahneman dan Tversky menunjukkan bahwa manusia sungguhan tidak menimbang seperti
 
 > Bayangkan lembah dengan dua lereng. Lereng keuntungan landai, jadi mendaki Rp500.000 terasa seperti jalan pagi yang santai. Lereng kerugian terjal, jadi melorot Rp500.000 terasa seperti jatuh dari tebing. Ketinggianmu sama persis, sensasinya tidak bisa dibandingkan. Timbangan di kepala memang tidak pernah seimbang, dan beratnya selalu condong ke sisi yang kita takuti.
 
-Ada satu detail lain pada kurva itu: ia melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih menusuk daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya terbalik dimaknai. Melandai bukan berarti setara: sepanjang wilayah itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
+Kurva itu juga melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih menusuk daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya terbalik dimaknai. Melandai bukan berarti setara: sepanjang wilayah itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
 
 ### Saat kepastian menjadi magnet
 
@@ -36252,7 +36162,7 @@ Seberapa curam lereng kerugian itu? Tahun 1992, Tversky dan Kahneman menerbitkan
 
 Artinya sederhana sekaligus menusuk: kerugian harus diganjar keuntungan kira-kira dua kali lipat besarnya agar rasa sakitnya bisa dilunasi oleh rasa senang. Rugi Rp500.000 tidak bisa ditutup oleh untung Rp500.000 di atas kertas perasaan; butuh sekitar dua kali lipatnya supaya neraca emosimu kembali nol.
 
-Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perhatikan baik-baik: perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
+Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
 
 ### Berdamai dengan timbangan yang miring
 
@@ -36260,13 +36170,11 @@ Mengetahui bahwa kepalamu memakai timbangan yang miring bukan kabar buruk, melai
 
 ## Kesimpulan Bab
 
-- Kahneman dan Tversky (1979) menggantikan gambaran manusia sebagai penimbang tenang dengan fungsi nilai yang lebih curam di sisi kerugian daripada di sisi keuntungan.
-- Certainty effect membuat hasil yang pasti diberi bobot berlebih sementara hasil yang kejadiannya hanya mungkin diberi bobot kecil, sehingga kepastian bekerja sebagai magnet yang menyeret keputusan.
-- Reflection effect membalik urutan preferensi ketika tanda dibalik: kehati-hatian di wilayah untung berpasangan dengan keberanian berjudi di wilayah rugi, meskipun angkanya identik.
-- Estimasi koefisien loss aversion (lambda) dari Tversky dan Kahneman (1992) adalah 2,25, sementara meta-analisis modern cenderung menemukan sekitar 1,5; keduanya bercerita hal yang sama, kerugian menggores lebih dalam daripada keuntungan setara.
-- Konsekuensi praktisnya: perlambat keputusan setiap kali kata "rugi" muncul, jaga kedua sisi magnet kepastian, dan timbang ulang dalam gambaran besar, karena timbangan di kepala selalu condong ke arah yang ditakuti.
+- Fungsi nilai Kahneman dan Tversky (1979) lebih curam di sisi kerugian daripada di sisi keuntungan; Tversky dan Kahneman (1992) mengestimasi koefisiennya 2,25, riset modern cenderung menemukan sekitar 1,5, dan arahnya sama.
+- Kepastian bekerja sebagai magnet: orang berhati-hati di wilayah untung dan berani berjudi di wilayah rugi, meskipun angkanya identik.
+- Saat kata "rugi" muncul, perlambat diri, jaga kedua sisi magnet kepastian, dan timbang keputusan dalam gambaran kekayaan total.
 
-Rasa takut kehilangan tidak berhenti di eksperimen pikir. Ia punya panggung paling terang di bursa, tempat ia membuat banyak orang buru-buru menjual yang untung sambil memeluk yang rugi bertahun-tahun, lalu menatap portofolionya terlalu sering sampai keputusan makin kacau. Bab berikutnya, "Menjual Pemenang, Mengikuti Pengalah", membawamu ke panggung itu untuk menghitung berapa mahal harga dari timbangan yang miring ini.
+Rasa takut kehilangan tidak berhenti di eksperimen pikir. Panggungnya yang paling terang adalah bursa, tempat banyak orang buru-buru menjual yang untung sambil memeluk yang rugi bertahun-tahun.
 
 
 <!-- Chapter: 07_menjual-pemenang-mengikuti-pengalah -->
@@ -36277,7 +36185,7 @@ Di banyak portofolio, saham yang terus rugi ditahan bertahun-tahun dengan alasan
 
 Sebut saja namanya Danu. Sepuluh tahun ia berkecimpung di saham, hafal puluhan kode emiten, bisa membahas laporan keuangan sampai larut malam, dan tidak pernah sekalipun mengaku rugi. Buka aplikasinya, dan kamu akan menemukan dua dunia yang hidup berdampingan. Saham yang harganya naik jarang bertahan lama: begitu kenaikannya terlihat jelas, Danu melepasnya sambil melontarkan frasa standar, mengunci keuntungan. Saham yang harganya tenggelam di bawah harga beli mendapat nasib sebaliknya. Tiga tahun, empat tahun, lima tahun, mereka duduk manis di daftar kepemilikan. Ketika temannya memberanikan diri menyarankan jual saja, jawaban Danu selalu siap: "Sudah, masih diproses." Kadang dengan versi lain: "Nanti pulih juga, harga sekarang bukan harga sebenarnya."
 
-Kata "diproses" itu layak kamu perhatikan. Ia membayangkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakuinya berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
+Kata "diproses" itu layak dicermati. Ia membayangkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakuinya berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
 
 Yang membuat cerita Danu penting bukan keunikannya, melainkan kebiasaannya. Pola ini muncul di akun investor lain dengan kesetiaan yang mengganggu, sudah diberi nama resmi oleh para ekonom, dan sudah diukur sampai ke angka paling kecil.
 
@@ -36297,7 +36205,7 @@ Cara mengukurnya sederhana. Setiap akun hampir selalu memegang beberapa saham se
 
 Hasilnya untuk satu tahun penuh: rasio PGR terhadap PLR sedikit di atas 1,5. Artinya, saham yang sedang naik nilai lebih dari 50 persen lebih mungkin dijual daripada saham yang sedang turun. Pola sebesar itu sulit dijelaskan tanpa mengakui bahwa warna posisi hari ini ikut mengambil alih kemudi: yang hijau dilepas, yang merah dipeluk. Investor dalam data itu memang enggan mengakui kerugian, persis seperti Danu.
 
-Puncak menusuknya ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
+Titik paling menusuk ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
 
 ### Semakin sering menatap, semakin dalam goresan
 
@@ -36313,13 +36221,11 @@ Hubungannya dengan kilah "masih diproses" ada di kalender. Disposition effect hi
 
 ## Gagasan Utama
 
-- Disposition effect, nama yang diberikan Shefrin dan Statman (1985), adalah kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat.
-- Data Odean (1998) dari catatan transaksi 10.000 akun sepanjang 1987 sampai 1993 menunjukkan rasio realisasi untung terhadap realisasi rugi sedikit di atas 1,5: saham yang naik lebih dari 50 persen lebih mungkin dijual daripada yang turun.
-- Pola ini berbalik dari strategi pajak yang optimal, karena realisasi kerugian yang justru berguna secara perpajakan dihindari dan konsekuensi pajak diabaikan.
-- Kunci emosinya sederhana: menjual yang hijau memberi struk atas keputusan yang benar, menjual yang merah berarti menandatangani pengakuan kesalahan, jadi yang satu diburu-buru dan yang satu ditunda bertahun-tahun.
-- Benartzi dan Thaler (1995) menamai gabungan loss aversion dengan evaluasi portofolio yang terlalu sering sebagai myopic loss aversion, dan simulasi mereka konsisten dengan investor yang mengevaluasi setiap tahun, jadi frekuensi membuka aplikasi ikut menentukan seberapa sering rasa sakit itu dipanggil.
+- Disposition effect (Shefrin dan Statman, 1985) adalah kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat; dalam data Odean (1998) dari 10.000 akun, rasio realisasi untung terhadap rugi sedikit di atas 1,5, jadi saham yang untung lebih mungkin dijual daripada yang rugi, berlawanan dengan strategi pajak yang optimal.
+- Menjual yang hijau memberi struk atas keputusan yang benar, sedangkan menjual yang merah berarti menandatangani pengakuan kesalahan.
+- Myopic loss aversion (Benartzi dan Thaler, 1995) membuat setiap evaluasi portofolio menjadi sidang kecil, jadi tentukan lebih dulu kapan sidang berhak diadakan.
 
-Sejauh ini bias yang kamu temui lahir dari perasaan tentang untung dan rugi. Bab berikutnya memperkenalkan lawan yang jauh lebih senyap: sebuah angka polos yang kebetulan muncul duluan, dari nomor undian di eksperimen lelang sampai angka minimum pembayaran pada tagihan kartu kredit, yang diam-diam memasang jangkar dan menyeret nilai yang kamu tetapkan.
+Sejauh ini bias yang kamu temui lahir dari perasaan tentang untung dan rugi. Lawan berikutnya jauh lebih senyap: sebuah angka polos yang kebetulan muncul duluan, lalu diam-diam memasang jangkar pada nilai yang kamu tetapkan.
 
 
 <!-- Chapter: 08_angka-pertama-yang-membelenggu -->
@@ -36332,9 +36238,9 @@ Kalimat itu terdengar seperti lelucon, tapi ia adalah deskripsi persis dari sala
 
 ### Lelang yang absurd
 
-Gulungan ceritanya begini. Dan Ariely, George Loewenstein, dan Drazen Prelec (2003) menguji ide yang mereka sebut coherent arbitrariness, kesesuaian yang berakar pada hal yang arbitrer. Mereka melenggangkan lelang sederhana kepada 55 mahasiswa MBA di MIT Sloan, dengan enam produk mulai dari aksesori komputer, wine, cokelat, sampai buku. Sebelum menawar, partisipan diminta menjawab satu pertanyaan yang tidak ada hubungannya dengan produk: apakah mereka bersedia membeli barang itu seharga angka yang diambil dari dua digit terakhir nomor jaminan sosial mereka. Dua digit terakhir itu, seperti kamu tahu, hanyalah urutan pendaftaran acak, sama sekali bukan harga.
+Gulungan ceritanya begini. Dan Ariely, George Loewenstein, dan Drazen Prelec (2003) menguji ide yang mereka sebut coherent arbitrariness, kesesuaian yang berakar pada hal yang arbitrer. Mereka melangsungkan lelang sederhana dengan 55 mahasiswa MBA di MIT Sloan, dengan enam produk mulai dari aksesori komputer, wine, cokelat, sampai buku. Sebelum menawar, partisipan diminta menjawab satu pertanyaan yang tidak ada hubungannya dengan produk: apakah mereka bersedia membeli barang itu seharga angka yang diambil dari dua digit terakhir nomor jaminan sosial mereka. Dua digit terakhir itu, seperti kamu tahu, hanyalah urutan pendaftaran acak, sama sekali bukan harga.
 
-Lalu lelang dimulai dengan prosedur insentif yang membuat tawaran sungguhan berdampak nyata di kantong. Hasilnya absurd sekaligus konsisten: partisipan dengan dua digit di atas median menyatakan nilai barang 57 hingga 107 persen lebih tinggi dibanding partisipan dengan digit di bawah median. Untuk keyboard komputer tanpa kabel, rata-rata kesediaan membayar kelompok kuintil atas mencapai $56, sementara kuintil bawah hanya $16. Efek nomor identitas pada kesediaan membayar signifikan di semua kategori produk yang diuji. Satu angka acak yang mereka lihat sebentar saja berhasil membengkokkan seluruh skala nilai mereka, dan yang paling menarik: penawaran mereka tetap saling konsisten satu sama lain, seolah-olah memang punya selera harga yang tegas sejak awal.
+Lalu lelang dimulai dengan prosedur insentif yang membuat tawaran sungguhan berdampak nyata di kantong. Hasilnya absurd sekaligus konsisten: partisipan dengan dua digit di atas median menyatakan nilai barang 57 hingga 107 persen lebih tinggi dibanding partisipan dengan digit di bawah median. Efek nomor identitas pada kesediaan membayar signifikan di semua kategori produk yang diuji. Satu angka acak yang mereka lihat sebentar saja berhasil membengkokkan seluruh skala nilai mereka. Meski begitu, penawaran mereka tetap saling konsisten satu sama lain, seolah-olah memang punya selera harga yang tegas sejak awal.
 
 ### Jangkar bekerja bahkan saat kamu tahu ia acak
 
@@ -36346,7 +36252,7 @@ Di dunia belanja, versi jangkarnya lebih licin lagi. Harga lama yang dicoret, ha
 
 Jika ada contoh di mana jangkar berhubungan langsung dengan tagihanmu, ini dia. Neil Stewart (2009) meneliti apa yang terjadi pada pembayaran kartu kredit ketika tagihan mencantumkan angka minimum payment. Dalam surveinya terhadap 75 pemegang kartu yang membayar parsial, ada korelasi positif yang kuat antara besaran minimum payment dan besaran yang benar-benar dibayarkan (koefisien Spearman 0,57). Orang yang tagihannya mencantumkan minimum lebih besar, membayar lebih besar; yang minimumnya kecil, membayar kecil. Sepertinya tidak masalah, karena pilihan tetap ada.
 
-Eksperimen di laboratorium justru menunjukkan seberapa mahal "tidak masalah" itu. Partisipan diberi tagihan tiruan £435,76 dengan minimum payment £5,42, lalu dibandingkan dengan kelompok yang tagihannya tidak mencantumkan angka minimum sama sekali. Menghapus informasi minimum payment menaikkan rata-rata pembayaran sekitar 70 persen, dari £99 (23 persen saldo) menjadi £175 (40 persen saldo). Yang menarik, probabilitas melunasi penuh tidak berubah sama sekali (54,8 persen tanpa jangkar, 55,1 persen dengan jangkar), artinya jangkar itu khusus melukai kelompok yang membayar parsial: mereka yang tersangkut, tersangkut lebih dalam. Stewart menambahkan perhitungan yang perlu kamu baca dua kali: penurunan pembayaran bulanan sekitar 2 persen bisa membuat total beban bunga membengkak hingga sekitar empat kali lipat.
+Eksperimen di laboratorium justru menunjukkan seberapa mahal "tidak masalah" itu. Partisipan diberi tagihan tiruan, sebagian dengan angka minimum payment dan sebagian tanpa angka minimum sama sekali. Menghapus informasi minimum payment menaikkan rata-rata pembayaran sekitar 70 persen, dari £99 menjadi £175. Probabilitas melunasi penuh nyaris tidak berubah, artinya jangkar itu khusus melukai kelompok yang membayar parsial: mereka yang tersangkut, tersangkut lebih dalam. Stewart menambahkan perhitungan yang perlu kamu baca dua kali: penurunan pembayaran bulanan sekitar 2 persen bisa membuat total beban bunga membengkak hingga sekitar empat kali lipat.
 
 Jadi balik logika yang kita duga. Banyak orang mengira mencantumkan minimum payment adalah bentuk kewajaran dari penerbit kartu, "setidaknya ada patokan". Patokan itulah masalahnya. Ia bekerja seperti roda keberuntungan yang dihadirkan oleh pihak yang justru keuntungannya lebih besar kalau kamu membayar lebih kecil dan lebih lama.
 
@@ -36354,17 +36260,13 @@ Jadi balik logika yang kita duga. Banyak orang mengira mencantumkan minimum paym
 
 Kabar baiknya, jangkar bisa dilawan dengan dua kebiasaan kecil. Pertama, menghasilkan angka sendiri lebih dulu: sebelum melihat harga promosi, tentukan dulu berapa yang kamu anggap wajar untuk barang itu, supaya angka dari luar masuk sebagai pembanding, bukan titik nol. Kedua, bertanya satu kalimat saat melihat angka apa pun: "angka ini relevan untuk keputusan saya, atau sekadar yang tampil lebih dulu?" Harga tetangga untuk barang yang sama, harga total bukan cicilan per bulan, dan nilai barang bagimu secara pribadi adalah pertimbangan yang relevan. Harga lama yang dicoret dan minimum payment adalah tampil lebih dulu.
 
-Jangkar menjelaskan bagaimana satu angka bisa membelenggu satu keputusan. Tapi masih ada penipu yang lebih besar: penipuan tentang diri sendiri. Bab berikutnya membahas kelebihan percaya diri, keyakinan yang membuat orang berdagang lebih banyak, lebih sering, dan lebih yakin, lalu pulang dengan kantong yang lebih tipis, dan angka pembuktian datangnya dari enam puluh enam ribu rumah tangga.
-
 ## Benang Merah
 
-- Jangkar adalah angka pertama yang masuk sebelum penimbangan dimulai, dan ia memengaruhi kesediaan membayar bahkan ketika asalnya jelas-jelas tidak relevan, seperti dua digit terakhir nomor jaminan sosial.
-- Ariely, Loewenstein, dan Prelec (2003) menemukan partisipan dengan digit di atas median menyatakan nilai 57 sampai 107 persen lebih tinggi; keyboard dihargai rata-rata $56 oleh kuintil atas dan $16 oleh kuintil bawah.
-- Roda keberuntungan Tversky dan Kahneman (1974) menunjukkan mekanisme yang sama pada estimasi sederhana, dan insentif akurasi tidak menghapusnya; di etalase, jangkar hadir sebagai harga coret dan cicilan minimum yang disajikan sebagai informasi biasa.
-- Stewart (2009) membuktikan jangkar minimum payment menurunkan rata-rata pembayaran kartu kredit: menghapus info minimum menaikkan pembayaran 70 persen, dari £99 ke £175, tanpa mengubah probabilitas lunas penuh.
-- Pertahanannya dua: menghasilkan angka wajarmu sendiri sebelum melihat angka luar, dan memeriksa relevansi angka yang ditampilkan, karena jangkar bekerja lewat kecepatan, bukan kebenaran.
+- Jangkar adalah angka pertama yang masuk sebelum penimbangan dimulai; dalam lelang Ariely, Loewenstein, dan Prelec (2003), partisipan dengan dua digit terakhir nomor jaminan sosial di atas median menyatakan nilai 57 sampai 107 persen lebih tinggi.
+- Di etalase dan tagihan, jangkar hadir sebagai harga coret dan minimum payment; dalam studi Stewart (2009), menghapus info minimum menaikkan rata-rata pembayaran sekitar 70 persen.
+- Pertahanannya dua: tentukan angka wajarmu sendiri lebih dulu, lalu tanyakan apakah angka yang tampil relevan atau sekadar tampil lebih dulu.
 
-Belenggu jangkar diletakkan oleh orang lain: penjual, penerbit kartu, perancang promosi. Belenggu berikutnya kamu pasang sendiri, dan karena itu lebih sulit terlihat. Bab berikutnya membedah kelebihan percaya diri, bias yang membuat Sistem 1 merasa sudah cukup pintar sehingga Sistem 2 tidak pernah dipanggil, lengkap dengan buktinya dari data enam puluh enam ribu rumah tangga investor.
+Belenggu jangkar diletakkan oleh orang lain: penjual, penerbit kartu, perancang promosi. Belenggu berikutnya kamu pasang sendiri, dan karena itu lebih sulit terlihat.
 
 
 <!-- Chapter: 09_terlalu-percaya-diri-di-pasar -->
@@ -36407,18 +36309,13 @@ Bagian yang tidak nyaman: kelebihan percaya diri hampir tidak terasa dari dalam.
 
 Jawaban dari temuan Barber dan Odean memang membosankan, dan itu justru kekuatannya: kurangi frekuensi. Setiap keputusan dagang harus melewati senggang satu malam dan satu pertanyaan sederhana, "kalau saya tidak sudah memegang posisi ini, apakah saya akan membelinya hari ini dengan harga ini?" Kalau jawabannya ragu, biaya terbesar yang kamu hemat adalah biaya dari keputusan yang tidak perlu. Bagi kebanyakan orang yang bukan profesional, pasivitas yang disiplin ternyata strategi yang lebih jujur daripada aktivitas yang merasa pintar.
 
-Kelebihan percaya diri membuat kita terlalu yakin pada penilaian sendiri. Tapi ada penyakit yang berlawanan arah dan sama berbahayanya: terlalu percaya pada arah kerumunan. Bab berikutnya membahas kenapa kita ikut membeli saat semua orang membeli, kenapa gelembung terbentuk dari perilaku yang tampak waras satu per satu, dan kenapa arus itu bisa pecah secepat ia terbentuk.
-
 ## Poin Penting
 
-- Data 66.465 rumah tangga investor (1991-1996) menunjukkan kelompok paling aktif berdagang memperoleh pengembalian bersih tahunan 11,4 persen, sementara pasar 17,9 persen dan kelompok paling jarang berdagang 18,5 persen (Barber dan Odean, 2000).
-- Selisih itu dihitung sebagai net annualized geometric mean, artinya sudah termasuk potongan biaya transaksi; keputusan dagang yang tidak perlu membayar biaya tanpa menambah hasil.
-- Penjelasan yang konsisten dengan data adalah kelebihan percaya diri: keyakinan berlebih pada kemampuan memilih dan menentukan waktu membuat orang berdagang terlalu sering.
-- Pria berdagang 45 persen lebih banyak daripada wanita, dan perdagangan menggerus pengembalian bersih pria 2,65 poin persentase per tahun versus 1,72 poin untuk wanita (Barber dan Odean, 2001, data lebih dari 35.000 rumah tangga).
-- Pantau perilaku, bukan perasaan: frekuensi pindah posisi dan pola atribusi (untung karena kemampuan, rugi karena sial) adalah sinyal kelebihan percaya diri yang paling mudah diamati.
-- Senggang satu malam dan satu pertanyaan "apakah saya akan membeli ini hari ini" adalah filter paling murah untuk menghemat biaya keputusan yang tidak perlu.
+- Rumah tangga yang paling aktif berdagang memperoleh pengembalian bersih sekitar 11,4 persen setahun, jauh di bawah pasar yang menghasilkan 17,9 persen, dan angka itu sudah dipotong biaya transaksi (Barber dan Odean, 2000).
+- Penjelasan yang paling konsisten dengan data adalah kelebihan percaya diri, dan pria, yang berdagang 45 persen lebih banyak daripada wanita, kehilangan lebih banyak pengembalian bersih karenanya (Barber dan Odean, 2001).
+- Pantau perilaku, bukan perasaan, lalu beri setiap keputusan dagang senggang satu malam dan satu pertanyaan: apakah kamu akan membelinya hari ini dengan harga ini?
 
-Kepercayaan pada diri sendiri yang berlebihan bisa diukur dari rekeningmu. Tapi kepercayaan pada kerumunan bekerja diam-diam, karena ia bahkan tidak merasa perlu dianalisis: semua orang sudah membeli, lalu apa ragunya? Bab berikutnya masuk ke jantung FOMO, informational cascade, dan kenapa gelembung pasar terbentuk dari orang-orang yang secara pribadi justru ragu.
+Kepercayaan berlebih pada diri sendiri meninggalkan jejak di rekeningmu. Kepercayaan pada kerumunan bekerja lebih diam-diam, karena ia tidak merasa perlu dianalisis: semua orang sudah membeli, lalu apa ragunya?
 
 
 <!-- Chapter: 10_ikut-arus-fomo-dan-kekuatan-kerumunan -->
@@ -36427,11 +36324,11 @@ Kepercayaan pada diri sendiri yang berlebihan bisa diukur dari rekeningmu. Tapi 
 
 Saat semua orang membeli dan harga terus naik, ikut arus terasa waras, padahal kerumunan itu bisa dibentuk oleh sinyal sekecil satu keputusan orang asing.
 
-Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap naik, grup chat ramai membagikan bukti untung, dan seseorang di kenalanmu bercerita membeli dua hari lalu dan kini nilainya naik. Di sisi lain ada kamu, dengan uang yang menganggur di rekening, merasa setiap hari tidak ikut adalah uang yang hilang. Perasaan itu punya nama populer, FOMO, takut ketinggalan. Yang menarik, para ekonom justru menemukan bahwa keputusan mengikuti kerumunan seperti ini tidak selalu bodoh. Di situlah letak jebakannya: kerumunan paling kuat dibangun dari orang-orang yang berpikir waras.
+Bayangkan pemandangan yang mungkin pernah kamu alami. Grafik di layar merayap naik, grup chat ramai membagikan bukti untung, dan seseorang di kenalanmu bercerita membeli dua hari lalu dan kini nilainya naik. Di sisi lain ada kamu, dengan uang yang menganggur di rekening, merasa setiap hari tidak ikut adalah uang yang hilang. Perasaan itu punya nama populer, FOMO, takut ketinggalan. Para ekonom menemukan bahwa keputusan mengikuti kerumunan seperti ini tidak selalu bodoh, dan justru karena itu ia menjebak: kerumunan paling kuat dibangun dari orang-orang yang berpikir waras.
 
 ### Kerumunan yang lahir dari sinyal sekecil
 
-Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di lobi kantor kamu, berdampingan dengan gerai lama yang biasa kamu beli. Hari itu kamu melihat satu orang mengantre di gerai baru, sedangkan gerai lama kosong. Apa kesimpulanmu? Mungkin orang itu sudah mencoba dan tahu enak. Kamu ikut mengantre. Orang ketiga datang, melihat dua orang mengantre, dan mengambil kesimpulan yang sama. Orang kelima bahkan tidak berpikir lagi; empat orang di depannya sudah cukup sebagai bukti. Perhatikan hasilnya: mulai dari titik tertentu, tidak ada satu pun orang dalam antrean yang benar-benar tahu rasanya minuman itu. Mereka semua bertindak atas dasar tindakan orang di depannya.
+Coba kita bongkar dengan skenario sederhana. Sebuah gerai minuman baru buka di lobi kantor kamu, berdampingan dengan gerai lama yang biasa kamu beli. Hari itu kamu melihat satu orang mengantre di gerai baru, sedangkan gerai lama kosong. Apa kesimpulanmu? Mungkin orang itu sudah mencoba dan tahu enak. Kamu ikut mengantre. Orang ketiga datang, melihat dua orang mengantre, dan mengambil kesimpulan yang sama. Orang kelima bahkan tidak berpikir lagi; empat orang di depannya sudah cukup sebagai bukti. Hasilnya, mulai dari titik tertentu, tidak ada orang dalam antrean yang benar-benar tahu rasanya minuman itu. Mereka semua bertindak atas dasar tindakan orang di depannya.
 
 Ekonom Bikhchandani, Hirshleifer, dan Welch (1992) memberi nama pada fenomena ini dalam artikel mereka di Journal of Political Economy tentang fads, fashion, custom, dan perubahan budaya: **informational cascade**, air terjun informasi. Definisi mereka berbunyi, cascade terjadi ketika, setelah mengamati tindakan orang-orang di depannya, menjadi hal yang optimal bagi seseorang untuk mengikuti perilaku individu sebelumnya tanpa menghiraukan informasi miliknya sendiri.
 
@@ -36441,7 +36338,7 @@ Kata yang paling sering dilewatkan orang adalah **optimal**. Pengantri nomor lim
 
 Untuk memahami kenapa teori ini berbahaya, masuklah ke kepala pengantri. Setiap orang membawa dua jenis bahan keputusan. Pertama, informasi pribadi: pengamatan, riset kecil, atau firasatmu sendiri, yang pasti tidak sempurna. Kedua, tindakan orang lain, yang terlihat jelas di depan mata. Kalau satu-dua orang bertindak sama, itu masih bisa ditimbang melawan informasi pribadimu. Tapi ketika sembilan orang sudah membeli dan harga terus naik, timbunan tindakan publik itu terasa jauh lebih kuat daripada satu keraguan pribadi. Bikhchandani dan rekannya merangkum mekanismenya dengan tegas: pada titik tertentu, pengambil keputusan akan mengabaikan informasi pribadinya dan bertindak hanya berdasarkan informasi yang diperoleh dari keputusan-keputusan sebelumnya.
 
-> Ibaratnya kamu turun di stasiun kota yang baru pertama kali kamu datangi. Semua orang bergerak ke pintu keluar yang sama, jadi kamu mengikutinya tanpa membaca satu pun papan petunjuk. Kamu tidak bodoh, kamu justru memakai strategi yang hemat tenaga. Tapi bayangkan kalau orang pertama yang kamu ikuti sebenarnya hanya hendak ke kamar mandi.
+> Ibaratnya kamu turun di stasiun kota yang baru pertama kali kamu datangi. Semua orang bergerak ke pintu keluar yang sama, jadi kamu mengikutinya tanpa membaca papan petunjuk. Kamu tidak bodoh, kamu justru memakai strategi yang hemat tenaga. Tapi bayangkan kalau orang pertama yang kamu ikuti sebenarnya hanya hendak ke kamar mandi.
 
 Kalimat terakhir tadi adalah inti masalahnya. Dalam cascade, tidak ada yang tahu persis apa yang dulu memicu kerumunan. Pembeli pertama mungkin punya alasan yang sangat pribadi dan sepele, bukan analisis yang mendalam. Tapi bagi pengikut kedua, tindakan itu terbaca sebagai informasi. Bagi pengikut kesepuluh, ia sudah menjadi bukti. Di pasar, pola ini melengkung menjadi lingkaran yang kamu kenal: harga naik karena semua orang membeli, dan semua orang membeli karena harga naik. Tidak perlu konspirasi, tidak perlu dalang. Cukup satu keputusan kecil yang terlihat, lalu strategi hemat tenaga yang sama dijalankan ribuan kepala sekaligus.
 
@@ -36449,11 +36346,11 @@ Kalimat terakhir tadi adalah inti masalahnya. Dalam cascade, tidak ada yang tahu
 
 Sekarang masuk ke bagian yang terasa di dada. FOMO lahir ketika kamu melihat orang lain memperoleh sesuatu dan kamu tidak. Ketertinggalan itu terasa seperti kerugian, dan kamu sudah tahu dari bab-bab sebelumnya betapa kerasnya rasa kehilangan dibanding kenikmatan mendapatkan. Cascade memberi FOMO kostum yang terlihat cerdas. Kamu bukan sedang serakah, kata kepalamu, kamu sedang membaca sinyal. Semua orang tidak mungkin salah.
 
-Tapi perhatikan asimetri yang bekerja melawanmu. Keraguanmu bersifat pribadi: ia ada di kepalamu saja, tidak terlihat siapa pun, dan tidak berani bersuara di depan grafik yang hijau. Sementara aksi kerumunan bersifat publik: dibeli, diposting, dibicarakan, dihitung. Dalam teori cascade, saat informasi pribadi dan tindakan publik bertabrakan, tindakan publik biasanya menang, bukan karena lebih benar, tapi karena lebih terlihat. Media sosial memperbesar skala ini. Kamu tidak lagi melihat satu pengantri di lobi kantor, kamu melihat ratusan orang serempak memamerkan hal yang sama, dan keraguanmu makin kecil.
+Tapi ada asimetri yang bekerja melawanmu. Keraguanmu bersifat pribadi: ia ada di kepalamu saja, tidak terlihat siapa pun, dan tidak berani bersuara di depan grafik yang hijau. Sementara aksi kerumunan bersifat publik: dibeli, diposting, dibicarakan, dihitung. Dalam teori cascade, saat informasi pribadi dan tindakan publik bertabrakan, tindakan publik biasanya menang, bukan karena lebih benar, tapi karena lebih terlihat. Media sosial memperbesar skala ini. Kamu tidak lagi melihat satu pengantri di lobi kantor, kamu melihat ratusan orang serempak memamerkan hal yang sama, dan keraguanmu makin kecil.
 
 ### Kerumunan yang rapuh
 
-Ada sisi lain yang jarang dibahas saat kerumunan sedang gembira: air terjun ini bisa berbalik arah dengan sama cepatnya. Bikhchandani, Hirshleifer, dan Welch menunjukkan bahwa cascade menjelaskan **konformitas yang bersifat lokal** sekaligus **kerapuhan perilaku massal**. Lokal artinya kerumunan mengumpul pada satu perilaku di satu tempat atau waktu, lalu berpindah ke perilaku lain, persis seperti mode yang datang dan pergi. Rapuh artinya kerumunan berdiri di atas informasi yang sangat sedikit. Para penulisnya menggambarnya dengan jujur: masyarakat, dengan bermodal sedikit informasi, cenderung mendarat dekat garis batas, sehingga mudah goyah.
+Ada sisi lain yang jarang dibahas saat kerumunan sedang gembira: air terjun ini bisa berbalik arah dengan sama cepatnya. Bikhchandani, Hirshleifer, dan Welch menunjukkan bahwa cascade menjelaskan **konformitas yang bersifat lokal** sekaligus **kerapuhan perilaku massal**. Lokal artinya kerumunan berkumpul pada satu perilaku di satu tempat atau waktu, lalu berpindah ke perilaku lain, persis seperti mode yang datang dan pergi. Rapuh artinya kerumunan berdiri di atas informasi yang sangat sedikit. Para penulisnya menggambarkannya dengan jujur: masyarakat, dengan bermodal sedikit informasi, cenderung mendarat dekat garis batas, sehingga mudah goyah.
 
 Konsekuensinya praktis. Karena fondasinya tipis, tindakan yang terlihat dari beberapa orang saja bisa menggeser seluruh kerumunan, ke arah mana pun. Antrean panjang yang tadi kamu lihat bisa bubar begitu satu-dua orang di depan terlihat meninggalkan gerai sambil menggeleng. Kerumunan yang kamu tiru hari ini bukan bangunan kokoh, ia menyusun ulang dirinya tiap sinyal publik kecil berganti. Kalau posisi keuanganmu bergantung pada pertanyaan "apakah semua orang masih membeli", kamu sedang berdiri persis di garis batas itu.
 
@@ -36469,20 +36366,18 @@ Ketiga, tulis alasanmu sendiri dengan kalimat lengkap sebelum melihat grafik ata
 
 ## Recap
 
-- Informational cascade (Bikhchandani, Hirshleifer, dan Welch, 1992) terjadi ketika seseorang, setelah melihat tindakan orang-orang di depannya, mengikuti perilaku orang sebelumnya tanpa menghiraukan informasi miliknya sendiri, dan dalam kerangka teori itu mengikuti kerumunan justru bisa menjadi pilihan yang optimal.
-- Cascade dimulai dari sinyal sekecil: pengikut membaca tindakan orang sebelumnya sebagai informasi, sehingga satu keputusan awal yang alasannya sederhana bisa memicu kerumunan besar tanpa dalang.
-- Pada titik tertentu, pengambil keputusan mengabaikan informasi pribadinya dan bertindak hanya berdasarkan keputusan-keputusan sebelumnya; keraguan bersifat pribadi sementara aksi kerumunan bersifat publik, dan yang lebih terlihat biasanya menang.
-- Konformitas bersifat lokal dan massanya rapuh: masyarakat bermodal sedikit informasi mendarat dekat garis batas, sehingga kerumunan bisa bubar atau berbalik arah secepat ia terbentuk.
-- Pertahanan paling murah: tanyakan apakah kamu tetap membeli tanpa melihat siapa pun membeli, selidiki alasan orang pertama, dan tulis alasanmu sendiri sebelum layar menyala.
+- Informational cascade (Bikhchandani, Hirshleifer, dan Welch, 1992) terjadi ketika seseorang mengikuti tindakan orang-orang di depannya tanpa menghiraukan informasi miliknya sendiri, dan dalam kerangka teori itu, ikut arus bisa menjadi pilihan yang optimal.
+- Keraguan bersifat pribadi sementara aksi kerumunan bersifat publik, dan karena kerumunan berdiri di atas informasi yang sangat sedikit, ia bisa bubar atau berbalik arah secepat ia terbentuk.
+- Pertahanan paling murah: tanyakan apakah kamu akan membeli seandainya tidak ada yang terlihat membeli, selidiki alasan orang pertama, dan tulis alasanmu sendiri sebelum layar menyala.
 
-Kerumunan bisa memaksa kamu bergerak lebih cepat dari niatmu, tapi ada kekuatan lain yang bekerja justru saat kamu tidak bergerak sama sekali. Bab berikutnya membongkar jebakan status quo dan kekuatan default, dua gaya diam yang menentukan isi rekeningmu jauh sebelum kamu sadar sedang memilih.
+Kerumunan bisa memaksa kamu bergerak lebih cepat dari niatmu, tapi ada kekuatan lain yang bekerja saat kamu tidak bergerak sama sekali. Diam pun ternyata bisa menentukan isi rekeningmu jauh sebelum kamu sadar sedang memilih.
 
 
 <!-- Chapter: 11_jebakan-status-quo-dan-kekuatan-default -->
 
 ## Jebakan Status Quo dan Kekuatan Default
 
-Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun. Padahal hampir semuanya tahu pilihannya bisa lebih baik.
+Dari 850.000 peserta dana pensiun, hanya 28 persen yang pernah mengubah alokasi dana mereka satu kali pun, sementara sisanya tidak pernah menyentuhnya. Padahal hampir semuanya tahu pilihannya bisa lebih baik.
 
 Angka itu bukan slogan, melainkan temuan yang dikutip William Samuelson dan Richard Zeckhauser (1988) dalam studi mereka tentang bias status quo. Di balik jendela yang sama, data riil dari perusahaan yang mengelola rencana dana pensiun TIAA/CREF menunjukkan kurang dari 2,5 persen peserta mengubah distribusi premi antar dana dalam satu tahun. Pola yang sama muncul di bidang yang lebih personal: hanya 3 persen karyawan Harvard pindah rencana kesehatan setiap tahunnya. Padahal biaya pindahnya hampir nol, cuma isi formulir. Kalau kamu pernah setahun, dua tahun, lima tahun memakai rekening bank, paket internet, atau asuransi yang sama tanpa pernah membandingkan ulang, kamu sudah mengalami kekuatan yang mereka ukur ini.
 
@@ -36518,24 +36413,21 @@ Ini pikiran yang perlu kamu bawa pulang: default itu netral secara teknik, tapi 
 
 Richard Thaler dan Shlomo Benartzi (2004) mendesain program yang bekerja bersama psikologi manusia, bukan melawannya, dengan nama Save More Tomorrow. Ide kuncinya tiga lapis. Pertama, karyawan diminta berkomitmen sekarang untuk menyisihkan sebagian kenaikan gaji di masa depan, jadi dirimu hari ini tidak pernah merasa kehilangan apa-apa (bias masa kini di bab lima tertangani). Kedua, kenaikan tabungan otomatis berjalan seiring kenaikan gaji, jadi uang yang "hilang" ke tabungan tidak pernah sempat terasa hadir di rekening (mental accounting di bab tiga tertangani). Ketiga, karyawan bisa keluar kapan saja, jadi ada rasa kendali.
 
-Di perusahaan tempat program pertama dijalankan, tingkat tabungan peserta yang mendaftar naik dari 3,5 persen menjadi 13,6 persen pendapatan dalam sekitar 40 bulan, tanpa satu pun perintah memaksa. Sebagian besar yang ditawari ikut program itu juga mendaftar, sekitar 78 persen. Dan idenya menyebar luas: Benartzi dan Thaler (2013) mengestimasi sekitar 4,1 juta peserta pensiun kini memiliki tingkat tabungan yang naik otomatis, dengan tambahan tabungan tahunan sekitar 7,4 miliar dolar. Satu desain pintu, jutaan tabungan pensiun yang lebih sehat, semuanya karena arah default diputar.
+Di perusahaan tempat program pertama dijalankan, tingkat tabungan peserta yang mendaftar naik dari 3,5 persen menjadi 13,6 persen pendapatan dalam sekitar 40 bulan, tanpa satu pun perintah memaksa. Idenya lalu menyebar luas: Benartzi dan Thaler (2013) mengestimasi sekitar 4,1 juta peserta pensiun kini memiliki tingkat tabungan yang naik otomatis. Satu desain pintu, jutaan tabungan pensiun yang lebih sehat, semuanya karena arah default diputar.
 
 ### Menjadi perancang default untuk dirimu sendiri
 
 Kalau default cukup kuat untuk mengatur perilaku jutaan orang, kamu bisa memakainya untuk mengatur dirimu. Arahkan secara sengaja hal-hal yang terjadi kalau kamu tidak melakukan apa-apa: aktifkan transfer otomatis ke tabungan pada tanggal gajian supaya default-mu adalah menabung, bukan menunggu sisa. Jadikan dana investasi bulanan terpotong lebih dulu sebelum kamu sempat menyentuhnya. Simpan aplikasi belanja jauh dari layar utama, dan pasang tagihan utilitas pada pembayaran otomatis agar keterlambatan bukan pilihan bawaan. Kamu tidak perlu jadi orang yang sangat disiplin; kamu perlu sekali saja memutar arah pintu, lalu membiarkan inersia yang biasanya menjadi musuhmu bekerja menjadi pengawalmu.
 
-Kekuatan default adalah kekuatan yang dipasang dari luar dirimu, oleh perusahaan atau oleh dirimu sendiri yang berpikir jernih. Namun ada satu pertahanan terakhir yang bekerja dari dalam: kemampuan mengikat dirimu di masa depan sebelum godaan datang. Bab penutup ini merangkum semua alat itu menjadi satu kotak peralatan: komitmen yang mengikat, otomatisasi, dan jeda strategis, lengkap dengan buktinya dari eksperimen tabungan komitmen di Filipina.
+Kekuatan default adalah kekuatan yang dipasang dari luar dirimu, oleh perusahaan atau oleh dirimu sendiri yang berpikir jernih. Namun ada satu pertahanan terakhir yang bekerja dari dalam: kemampuan mengikat dirimu di masa depan sebelum godaan datang.
 
 ## Key Takeaways
 
-- Bias status quo: posisi pilihan memengaruhi keputusan; opsi yang diletakkan sebagai status quo selalu lebih sering dipilih (Samuelson dan Zeckhauser, 1988).
-- Bukti riilnya keras: hanya 28 persen dari 850.000 peserta dana pensiun yang pernah mengubah alokasi, kurang dari 2,5 persen per tahun, dan hanya 3 persen karyawan Harvard pindah rencana kesehatan per tahun.
-- Pendaftaran otomatis mengangkat partisipasi 401(k) dari sekitar 49 persen menjadi 86 persen untuk karyawan baru dengan masa kerja serupa, dan 61 persen peserta tidak mengubah apa pun dari default (Madrian dan Shea, 2001).
-- Default bukan cuma menentukan siapa yang ikut, tapi isi pilihannya bertahun-tahun; secara teknik netral, secara akibat tidak.
-- Save More Tomorrow memutar kekuatan default untuk kebaikan: tingkat tabungan naik dari 3,5 persen ke 13,6 persen dalam 40 bulan (Thaler dan Benartzi, 2004), dengan skala adopsi 4,1 juta peserta dan 7,4 miliar dolar tambahan tabungan per tahun (Benartzi dan Thaler, 2013).
-- Putar arah default-mu sendiri: transfer otomatis di tanggal gajian dan potongan lebih dulu membuat menabung menjadi pilihan bawaan, bukan usaha.
+- Untuk mayoritas alternatif yang diuji, opsi yang diletakkan sebagai status quo paling sering dipilih (Samuelson dan Zeckhauser, 1988), dan hanya 28 persen dari 850.000 peserta dana pensiun yang pernah mengubah alokasinya.
+- Pendaftaran otomatis menaikkan partisipasi 401(k) dari sekitar 49 persen pada kohort lama menjadi sekitar 86 persen pada karyawan baru dengan masa kerja serupa (Madrian dan Shea, 2001), dan default menentukan bukan cuma siapa yang ikut, tapi juga isi pilihannya bertahun-tahun kemudian.
+- Save More Tomorrow (Thaler dan Benartzi, 2004) dan transfer otomatis di tanggal gajian memutar kekuatan yang sama untuk kebaikan: menabung menjadi pilihan bawaan, bukan usaha.
 
-Semua bab sejauh ini berakhir di satu titik yang sama: keputusan baik yang bergantung pada tekad akan selalu rapuh, sedangkan keputusan yang dirancang agar terjadi dengan sendirinya akan bertahan. Bab penutup menyatukan seluruh alat perangnya, dari akuntansi mental sampai default, menjadi rencana pertahanan pribadi yang bisa kamu pasang malam ini juga.
+Semua bab sejauh ini berakhir di satu titik yang sama: keputusan baik yang bergantung pada tekad akan selalu rapuh, sedangkan keputusan yang dirancang agar terjadi dengan sendirinya akan bertahan. Tinggal merakit semua alat tadi, dari akuntansi mental sampai default, menjadi rencana pertahanan pribadi yang bisa kamu pasang malam ini juga.
 
 
 <!-- Chapter: 12_merancang-pertahanan-keputusan-baik-otomatis -->
@@ -36544,19 +36436,19 @@ Semua bab sejauh ini berakhir di satu titik yang sama: keputusan baik yang berga
 
 Setelah sebelas bab membedah kelemahan pikiran, saatnya membalik arah: komitmen yang mengikat, otomatisasi, dan default yang kamu pilih untuk dirimu.
 
-Kalau kamu membaca buku ini dari awal, ada kemungkinan kamu sempat tersenyum gugup di satu dua bab, karena merasa diceritakan kebiasaanmu sendiri. Cicilan yang ditunda di bab bias masa kini. saldo yang habis di minggu pertama setelah bonus di bab akuntansi mental. Saham yang dipegang bertahun-tahun di merah sambil cepat mengunci untung di bab disposition effect. Aplikasi belanja yang dibuka saat senggang di bab rasa sakit membayar. Semua itu normal, karena setiap bias dalam buku ini ada di dalam semua orang, termasuk di kepala penulisnya. Yang membedakan bukan ada tidaknya bias, melainkan ada tidaknya rancangan pertahanan.
+Kalau kamu membaca buku ini dari awal, ada kemungkinan kamu sempat tersenyum gugup di satu dua bab, karena merasa diceritakan kebiasaanmu sendiri. Cicilan yang ditunda di bab bias masa kini. Saldo yang habis di minggu pertama setelah bonus di bab akuntansi mental. Saham yang dipegang bertahun-tahun di merah sambil cepat mengunci untung di bab disposition effect. Aplikasi belanja yang dibuka saat senggang di bab rasa sakit membayar. Semua itu normal, karena setiap bias dalam buku ini ada di dalam semua orang, termasuk di kepala penulisnya. Yang membedakan bukan ada tidaknya bias, melainkan ada tidaknya rancangan pertahanan.
 
 ### Kotak peralatan yang sudah kamu kumpulkan
 
-Sebelum menyusun rancangan, kita panggil kembali alat-alat yang tersebar di sebelas bab, sekarang dalam satu meja. Dari bab dua, kamu punya kesadaran bahwa Sistem 1 memutuskan kebanyakan keputusan harian dan Sistem 2 itu malas, jadi strategi yang andal tidak boleh bergantung pada semangat yang datang dan pergi. Dari bab tiga, kamu tahu uang di kepalamu dilabeli-labeli, jadi kamu bisa memanfaatkan labelnya: pisahkan rekening dengan tujuan yang jelas supaya uang liburan tidak terasa seperti uang sisa. Dari bab empat, kamu tahu transparansi menyakitkan itu berguna: bayar tunai untuk pengeluaran yang ingin kamu tekuni. Dari bab lima, kamu tahu dirimu sekarang selalu menang dari dirimu masa depan, jadi tangani keputusan penting saat kepalamu jernih, bukan saat godaan tiba. Dari bab tujuh, kamu tahu menilai portofolio terlalu sering membuat kerugian kecil terlihat raksasa, jadi kurangi frekuensi menatapnya. Dari bab delapan, kamu tahu angka pertama bisa membelenggu, jadi putuskan angka wajarmu sendiri sebelum melihat tawaran. Dari bab sembilan dan sepuluh, kamu tahu terlalu yakin dan ikut arus sama-sama mahal, jadi beri jarak antara dorongan dan tindakan. Dan dari bab sebelas, kamu tahu default dan inersia itu kuat, kuat untuk menjebakmu dan sama kuatnya untuk melindungimu.
+Sebelum menyusun rancangan, kita panggil kembali alat-alat yang tersebar di sebelas bab, sekarang dalam satu meja. Dari bab dua, kamu punya kesadaran bahwa Sistem 1 memutuskan kebanyakan keputusan harian dan Sistem 2 itu malas, jadi strategi yang andal tidak boleh bergantung pada semangat yang datang dan pergi. Dari bab tiga, kamu tahu uang di kepalamu diberi macam-macam label, jadi kamu bisa memanfaatkan labelnya: pisahkan rekening dengan tujuan yang jelas supaya uang liburan tidak terasa seperti uang sisa. Dari bab empat, kamu tahu transparansi menyakitkan itu berguna: bayar tunai untuk pengeluaran yang ingin kamu tekuni. Dari bab lima, kamu tahu dirimu sekarang selalu menang dari dirimu masa depan, jadi tangani keputusan penting saat kepalamu jernih, bukan saat godaan tiba. Dari bab tujuh, kamu tahu menilai portofolio terlalu sering membuat kerugian kecil terlihat raksasa, jadi kurangi frekuensi menatapnya. Dari bab delapan, kamu tahu angka pertama bisa membelenggu, jadi putuskan angka wajarmu sendiri sebelum melihat tawaran. Dari bab sembilan dan sepuluh, kamu tahu terlalu yakin dan ikut arus sama-sama mahal, jadi beri jarak antara dorongan dan tindakan. Dan dari bab sebelas, kamu tahu default dan inersia itu kuat, kuat untuk menjebakmu dan sama kuatnya untuk melindungimu.
 
-Perhatikan benang merahnya: semua alat itu tidak meminta kamu menjadi orang yang lebih disiplin. Semuanya meminta kamu mengubah lingkungan, urutan, atau pintu masuk, supaya keputusan baik terjadi walau kamu sedang lelah, dan keputusan buruk butuh usaha ekstra.
+Benang merahnya sama: semua alat itu tidak meminta kamu menjadi orang yang lebih disiplin. Semuanya meminta kamu mengubah lingkungan, urutan, atau pintu masuk, supaya keputusan baik terjadi walau kamu sedang lelah, dan keputusan buruk butuh usaha ekstra.
 
 ### Mengikat dirimu, seperti Odysseus
 
 Alat yang paling tegas dari semuanya adalah komitmen yang mengikat, dan buktinya datang dari lapangan yang nyata. Nava Ashraf, Dean Karlan, dan Wesley Yin (2006) mendesain sebuah produk tabungan untuk bank di Filipina yang mereka beri nama SEED, singkatan dari Save, Earn, Enjoy Deposits. Intinya satu: nasabah yang membuka akun ini menetapkan tujuan tertentu dan meletakkan batasan yang membuat uang itu sulit diambil sebelum waktunya, misalnya sampai tanggal tertentu atau sampai jumlah tertentu terkumpul. Produk ini diuji dengan metode eksperimen acak, cara yang sama seperti obat baru diuji khasiatnya.
 
-Hasilnya kuat dan konsisten dengan seluruh isi buku ini. Setelah dua belas bulan, saldo tabungan rata-rata kelompok yang ditawari akun komitmen naik sekitar 81 poin persentase dibanding kelompok kontrol, dan untuk spesifikasi tertentu kenaikan tabungan diperkirakan 47 sampai 82 persen. Yang paling menarik untuk pembaca buku ini: nasabah yang justru paling tertarik membuka akun komitmen adalah mereka yang mengakui dirinya mudah tergiur, sementara yang menawarkan diri justru lebih sering terjadi pada nasabah perempuan yang teridentifikasi memiliki preferensi bias ke masa kini. Orang tidak butuh komitmen karena lemah; orang butuh komitmen karena jujur pada dirinya sendiri.
+Hasilnya kuat dan konsisten dengan seluruh isi buku ini. Setelah dua belas bulan, saldo tabungan rata-rata kelompok yang ditawari akun komitmen naik sekitar 81 poin persentase dibanding kelompok kontrol, dan untuk spesifikasi tertentu kenaikan tabungan diperkirakan 47 sampai 82 persen. Bagian yang paling relevan untuk pembaca buku ini: nasabah yang teridentifikasi punya preferensi bias ke masa kini, orang-orang yang cenderung memberi bobot lebih pada hari ini, lebih tertarik membuka akun komitmen. Orang tidak butuh komitmen karena lemah; komitmen adalah cara menghadapi kecenderungan yang memang ada.
 
 > Alat ini tua umurnya. Dalam mitologi Yunani, Odysseus memerintahkan anak buahnya untuk mengikat tubuhnya ke tiang kapal sebelum kapal melewati laut tempat suara siren memanggil, dan menutup telinga mereka agar tidak mendengar permintaannya sendiri untuk dilepaskan. Ia tidak mencoba menjadi lebih kuat saat siren bernyanyi; ia memasang ikatan saat telinganya masih waras.
 
@@ -36576,12 +36468,9 @@ Rancangan itu tidak butuh hari besar. Mulai dari satu langkah malam ini: satu tr
 
 ## Penutup
 
-- Buku ini menempuh satu benang merah: keputusan finansial dibuat otak yang hemat energi dengan jalan pintas berpola, dan karena polanya bisa dipetakan, ia bisa diantisipasi dengan rancangan, bukan dengan tekad semata.
-- Alat-alatnya saling menguatkan: pisahkan akun (akuntansi mental), bayar tunai untuk transparansi (rasa sakit membayar), tangani keputusan saat kepala jernih (bias masa kini), kurangi frekuensi menatap dan berdagang (loss aversion dan kelebihan percaya diri), tetapkan angka wajarmu sendiri (jangkar), dan putar arah default (status quo).
-- Bukti terkuat komitmen yang mengikat datang dari lapangan: tabungan komitmen SEED di Filipina menaikkan saldo tabungan kelompok perlakuan sekitar 81 poin persentase dalam dua belas bulan (Ashraf, Karlan, dan Yin, 2006), dan yang paling tertarik membukanya justru orang yang sadar akan bias masa kininya.
-- Tiga prinsip perancangan: jadikan pilihan baik sebagai default (Thaler dan Sunstein, 2008), ikat dirimu sebelum godaan datang, dan pulihkan transparansi dengan jeda.
-- Kesulitan mengelola uang bukan cela karakter, melainkan hasil yang bisa diprediksi dari desain otak manusia; kekuatan sejati ada pada merancang lingkungan, bukan pada menyalahkan diri.
-- Mulai dari satu langkah kecil malam ini, karena kamu sudah melihat buktinya bahwa perubahan arah pintu yang kecil memindahkan hasil yang besar.
+- Keputusan finansial dibuat otak yang hemat energi dengan jalan pintas berpola, dan karena polanya bisa dipetakan, ia bisa diantisipasi dengan rancangan, bukan dengan tekad semata.
+- Tiga prinsip perancangan: jadikan pilihan baik sebagai default (Thaler dan Sunstein, 2008), ikat dirimu sebelum godaan datang seperti nasabah SEED di Filipina (Ashraf, Karlan, dan Yin, 2006), dan pulihkan transparansi dengan jeda.
+- Kesulitan mengelola uang bukan cela karakter, melainkan hasil yang bisa diprediksi dari desain otak manusia, jadi mulailah dari satu langkah kecil malam ini.
 
 Selamat jalan, dan semoga setiap keputusan uangmu mulai hari ini lebih sering diambil oleh dirimu yang sedang jernih, dibantu rancangan yang dipasang oleh dirimu yang paling bijak.
 
@@ -36628,8 +36517,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37937,8 +37826,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38895,8 +38784,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40101,8 +39990,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41344,8 +41233,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42613,8 +42502,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43260,8 +43149,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44473,8 +44362,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45575,8 +45464,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45614,11 +45503,11 @@ Karena itu pula niat selalu kalah waktu. Pada momen pemicu tiba, niatmu sedang l
 
 ### Separuh hari hidupmu berjalan sendiri
 
-Mungkin kamu menyangka masalah ini hanya menyangkut begadang, cemil tengah malam, atau membuka media sosial tanpa sadar. Skalanya jauh lebih besar.
+Mungkin kamu menyangka masalah ini hanya menyangkut begadang, camilan tengah malam, atau membuka media sosial tanpa sadar. Skalanya jauh lebih besar.
 
 Dalam studi diary yang dirancang Wood, Quinn, dan Kashy (2002), partisipan mencatat perilaku mereka sepanjang hari, termasuk ke mana pikiran mereka melayang saat melakukannya. Hasilnya mengejutkan: sekitar 43% perilaku harian dalam salah satu studi dilakukan hampir setiap hari dan biasanya di lokasi yang sama, sering sambil pikiran mengembara ke tempat lain. Artinya, porsi besar hari kita tidak benar-benar diputuskan. Ia dijalankan oleh mesin otomatis sementara kepala kita sedang di mana-mana.
 
-Kalau porsi sebesar itu berjalan autopilot, konsekuensinya jelas. Kualitas hidup tidak hanya ditentukan keputusan besar yang jarang terjadi, seperti pindah kerja atau membeli rumah, melainkan juga hal-hal kecil yang terjadi hampir tanpa pikiran setiap hari: apa yang kamu gigit saat cemas, apa yang kamu buka begitu bangun tidur, apa yang kamu lakukan begitu duduk di meja. Dari sudut pandang ini, mengubah hidup berarti mengatur ulang mesin yang menjalankan hal-hal kecil itu. Inilah alasan soal kebiasaan layak dibahas serius, bukan sekadar jadi bahan resolusi awal tahun yang dilupakan sepekan kemudian.
+Kalau porsi sebesar itu berjalan autopilot, konsekuensinya jelas. Kualitas hidup tidak hanya ditentukan keputusan besar yang jarang terjadi, seperti pindah kerja atau membeli rumah, melainkan juga hal-hal kecil yang terjadi hampir tanpa pikiran setiap hari: apa yang kamu gigit saat cemas, apa yang kamu buka begitu bangun tidur, apa yang kamu lakukan begitu duduk di meja. Dari sudut pandang ini, mengubah hidup berarti mengatur ulang mesin yang menjalankan hal-hal kecil itu. Inilah alasan kenapa kebiasaan layak dibahas serius, bukan sekadar jadi bahan resolusi awal tahun yang dilupakan sepekan kemudian.
 
 ### Melawan mesin atau mengelolanya
 
@@ -45628,17 +45517,13 @@ Riset yang dirangkum Wood dan Rünger (2016) menunjukkan sebaliknya. Asosiasi an
 
 Perbedaan dua sikap ini akan menentukan nasib hampir semua usaha perubahanmu. Orang yang berharap niat mengalahkan mesin akan berulang kali kecewa, bukan karena dia lemah, tapi karena dia membawa alat yang salah ke pekerjaan yang salah. Orang yang memahami cara mesin bekerja mendapat keuntungan ganda: kebiasaan buruk bisa dikelola sampai kehilangan cengkeramannya, dan kebiasaan baik bisa dipasang agar bekerja untukmu, bukan melawanmu.
 
-Buku ini menempuh perjalanan itu langkah demi langkah. Kita mulai dengan membongkar anatomi mesin, sebuah siklus sederhana yang menghubungkan pemicu, rutinitas, dan imbalan. Dari sana kita melirik ke dalam otak untuk melihat di mana mesin itu benar-benar beroperasi, menguji kenapa niat sekuat apa pun kerap gugur di tengah jalan, dan mencari tahu berapa lama sesungguhnya kebiasaan baru butuh waktu untuk menempel. Paruh berikutnya lebih praktis: memilih momen perubahan yang paling menguntungkan, menyusun rencana berbentuk jika-maka, mengganti rutinitas tanpa membongkar seluruh mesin, sampai membongkar mitos populer yang selama ini hanya membuat usahamu gagal sebelum mulai. Sebelas modul ke depan, satu gagasan menjadi benang merah: kamu tidak perlu menjadi orang yang jauh lebih kuat, kamu hanya perlu menjadi arsitek yang paham mesinnya.
+Buku ini menempuh perjalanan itu langkah demi langkah. Kita mulai dengan membongkar anatomi mesin, sebuah siklus sederhana yang menghubungkan pemicu, rutinitas, dan imbalan. Dari sana kita melirik ke dalam otak untuk melihat di mana mesin itu benar-benar beroperasi, menguji kenapa niat sekuat apa pun kerap gugur di tengah jalan, dan mencari tahu berapa lama sesungguhnya kebiasaan baru butuh waktu untuk menempel. Paruh berikutnya lebih praktis: memilih momen perubahan yang paling menguntungkan, menyusun rencana berbentuk jika-maka, mengganti rutinitas tanpa membongkar seluruh mesin, sampai membongkar mitos populer yang selama ini hanya membuat usahamu gagal sebelum mulai. Sepanjang buku ini, satu gagasan menjadi benang merah: kamu tidak perlu menjadi orang yang jauh lebih kuat, kamu hanya perlu menjadi arsitek yang paham mesinnya.
 
 ## Poin Kunci
 
 - Niat dan kebiasaan bekerja di jalur berbeda: niat butuh perhatian dan tenaga, kebiasaan berjalan otomatis tanpa keduanya.
-- Kebiasaan adalah respons otomatis yang dipicu konteks, hasil pengulangan yang dulu memberi imbalan (Wood dan Rünger, 2016), sehingga pemicu yang muncul lagi akan memanggil respons lama sebelum niat sempat bicara.
 - Studi diary dari Wood, Quinn, dan Kashy (2002) menemukan sekitar 43% perilaku harian dalam salah satu studinya dilakukan hampir setiap hari, biasanya di lokasi sama, sering sambil pikiran mengembara.
-- Porsi hidup sebesar itu berarti kualitas hari-harimu sebagian besar ditentukan kebiasaan, bukan sekadar keputusan besar yang jarang terjadi.
-- Kebiasaan tidak bisa dihapus dengan satu keputusan; yang mungkin adalah mengelola konteks, imbalan, dan perencanaan.
-
-Sebelum bisa mengelola mesin itu, kamu perlu tahu dulu bentuknya. Bab berikutnya membongkar anatomi kebiasaan sampai ke komponen terkecil: loop sederhana yang dihubungkan oleh tiga roda gigi bernama cue, routine, dan reward, yang diam-diam menggerakkan hampir semua hal yang kamu lakukan tanpa sadar.
+- Kebiasaan adalah respons otomatis yang dipicu konteks (Wood dan Rünger, 2016) dan tidak bisa dihapus dengan satu keputusan; yang mungkin adalah mengelola konteks, imbalan, dan perencanaan.
 
 
 <!-- Chapter: 02_anatomi-loop-kebiasaan -->
@@ -45649,25 +45534,25 @@ Kamu tahu persis berapa jam yang dihabiskan ponselmu setiap hari, karena layarny
 
 Tapi sore tadi, begitu duduk diam sejenak, tanganmu tetap meraih ponsel. Tanpa negosiasi batin yang berarti, jempolmu sudah menyapu layar. Bukan cuma sekali. Ini terulang di tempat yang sama, dalam suasana yang sama, hari demi hari.
 
-Di sinilah paradoks yang bikin jengkel: mengetahui ternyata tidak mengubah apa pun. Kamu bisa punya data lengkap, niat bulat, bahkan pidato motivasi dari dirimu sendiri, dan tangan tetap bergerak seperti biasa. Kalau kebiasaan semata soal informasi, semua orang yang tahu pasti langsung berubah. Kenyataannya tidak. Penelitian Wood, Quinn, dan Kashy (2002) menunjukkan seberapa dalam persoalan ini: dalam salah satu studinya, sekitar 43% perilaku harian orang dilakukan hampir setiap hari, biasanya di lokasi yang sama, dan sering sambil memikirkan hal lain. Hampir separuh hidup kita berjalan lewat jalur yang tidak banyak melibatkan pikiran sadar.
+Di sinilah paradoks yang bikin jengkel: mengetahui ternyata tidak mengubah apa pun. Kamu bisa punya data lengkap, niat bulat, bahkan pidato motivasi dari dirimu sendiri, dan tangan masih bergerak seperti biasa. Kalau kebiasaan semata soal informasi, semua orang yang tahu pasti langsung berubah. Kenyataannya tidak. Penelitian Wood, Quinn, dan Kashy (2002) menunjukkan seberapa dalam persoalan ini: dalam salah satu studinya, sekitar 43% perilaku harian orang dilakukan hampir setiap hari, biasanya di lokasi yang sama, dan sering sambil memikirkan hal lain. Hampir separuh hidup kita berjalan lewat jalur yang tidak banyak melibatkan pikiran sadar.
 
 Jadi masalahnya bukan kamu kurang tahu. Masalahnya ada mesin lain yang bekerja di bawah sadar, dan mesin itu punya struktur yang bisa dipetakan. Struktur inilah yang disebut loop kebiasaan.
 
 ### Pria yang lupa segalanya, kecuali jalan ke dapur
 
-Untuk melihat mesin itu bekerja, kita perlu kasus yang menyingkirkan satu variabel besar: ingatan sadar. Charles Duhigg, dalam bab pembuka The Power of Habit (2012), menuturkan kisah Eugene Pauly, pria dengan amnesia berat yang kehilangan kemampuan mengingat kejadian baru. Namamu, umurmu, atau peristiwa lima menit lalu, Eugene tidak mampu menahannya dalam ingatan.
+Untuk melihat mesin itu bekerja, kita perlu kasus yang menyingkirkan satu variabel besar: ingatan sadar. Charles Duhigg, dalam bab pembuka The Power of Habit (2012), menuturkan kisah Eugene Pauly, pria dengan amnesia berat yang kehilangan kemampuan mengingat kejadian baru. Nama orang baru, atau peristiwa lima menit lalu, tidak sanggup ia simpan dalam ingatan.
 
-Yang mengejutkan datang dari hal sepele: kue kering di dapur. Meski tidak bisa mengingat apa pun tentang pagi harinya, Eugene tetap menemukan jalannya ke dapur dan menemukan kue itu, berulang-ulang. Ketika ditanya, ia tidak bisa menjelaskan kenapa ia ke sana, bahkan tidak ingat pernah makan. Kebiasaannya tetap berjalan, meski pengalamannya hilang.
+Yang mengejutkan datang dari hal sepele: kue kering di dapur. Meski tidak bisa mengingat apa pun tentang pagi harinya, Eugene tetap menemukan jalannya ke dapur dan menemukan kue itu, berulang-ulang. Ketika ditanya, ia tidak bisa menjelaskan kenapa ia ke sana, bahkan tidak ingat pernah makan. Kebiasaannya terus berjalan, meski pengalamannya hilang.
 
-> Ibarat sebuah gedung yang luasnya hangus total, tapi lorong menuju kantin masih bisa dilalui petugas keamanan secara otomatis. Lorong itu tidak butuh denah di kepala, karena tubuhnya sudah hafal lantainya.
+> Ibarat sebuah gedung yang hampir seluruhnya hangus, tapi lorong menuju kantin masih bisa dilalui petugas keamanan secara otomatis. Lorong itu tidak butuh denah di kepala, karena tubuhnya sudah hafal lantainya.
 
-Bagi peneliti, kisah Eugene adalah bukti yang tegas: loop kebiasaan tidak tersimpan di ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk tetap bekerja. Kenapa sistem itu bisa seotomatis itu, kita bedah tuntas di bab berikutnya.
+Bagi peneliti, kisah Eugene adalah bukti yang tegas: loop kebiasaan tidak tersimpan di ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk tetap bekerja. Kenapa sistem itu bisa seotomatis itu, kita bedah tuntas di bab tiga.
 
 ### Tiga mata rantai loop
 
 Duhigg merangkum pola Eugene, dan pola kebiasaan pada umumnya, menjadi tiga unsur: cue, routine, dan reward.
 
-Cue adalah pemicu, benda yang menyalakan kebiasaan. Bisa berupa waktu, tempat, keadaan emosi, kehadiran orang tertentu, atau aksi yang barusan terjadi. Routine adalah aksinya sendiri, bagian paling terlihat dari kebiasaan. Reward adalah hasil yang membuat otak menganggap siklus ini layak diulang.
+Cue adalah pemicu, hal yang menyalakan kebiasaan. Bisa berupa waktu, tempat, keadaan emosi, kehadiran orang tertentu, atau aksi yang barusan terjadi. Routine adalah aksinya sendiri, bagian paling terlihat dari kebiasaan. Reward adalah hasil yang membuat otak menganggap siklus ini layak diulang.
 
 Pada kasus Eugene, kebiasaan menemukan kue kering mengikuti pola yang sama dengan kebiasaan siapa pun yang tidak bisa berhenti menggulir ponsel. Cue muncul dari konteks yang khas, routine berjalan hampir sama tiap kali, dan reward selalu hadir di ujungnya. Begitu tiga unsur ini menyatu berulang-ulang, mereka melekat menjadi satu kesatuan yang memicu dirinya sendiri. Begitu cue muncul, sisanya menyusul tanpa banyak bicara.
 
@@ -45697,33 +45582,28 @@ Dari empat langkah ini pula Clear menurunkan empat hukum membentuk dan memecah k
 
 Duhigg menyebut satu prinsip yang menjadi tulang punggung hampir semua upaya perubahan kebiasaan: golden rule of habit change. Bunyinya sederhana. Pertahankan cue dan reward, lalu ganti routine-nya.
 
-Logikanya kembali ke bukti tadi. Loop kebiasaan tidak bisa dihapus begitu saja, dan menumpaskannya dengan kehendak murni jarang berhasil. Yang bisa dilakukan adalah menyambung ulang loop yang sama: cue yang sudah dikenali tubuh dan reward yang tetap dikejar, tetapi dijalankan lewat aksi yang berbeda. Cara kerjanya, syarat-syaratnya, dan contoh penerapannya akan kita tuntaskan di bab kesepuluh. Untuk sekarang cukup dicatat posisinya: golden rule adalah konsekuensi langsung dari anatomi loop yang baru kamu pelajari.
+Logikanya kembali ke bukti tadi. Loop kebiasaan tidak bisa dihapus begitu saja, dan menumpasnya dengan kehendak murni jarang berhasil. Yang bisa dilakukan adalah menyambung ulang loop yang sama: cue yang sudah dikenali tubuh dan reward yang tetap dikejar, tetapi dijalankan lewat aksi yang berbeda. Cara kerjanya, syarat-syaratnya, dan contoh penerapannya akan kita tuntaskan di bab kesepuluh. Untuk sekarang cukup dicatat posisinya: golden rule adalah konsekuensi langsung dari anatomi loop yang baru kamu pelajari.
 
 ### Loop ini bukan metafora
 
 Sampai titik ini, loop kebiasaan bisa terdengar seperti sekadar diagram pengajaran, cara merapikan gagasan agar mudah diingat. Padahal bukan itu statusnya. Graybiel (2008) dalam tinjauannya tentang otak dan kebiasaan menunjukkan bahwa kebiasaan berjalan sebagai chunk, rangkaian aksi yang terkompilasi menjadi satu kesatuan di dalam sistem saraf. Wood dan Rünger (2016) merumuskannya serupa: kebiasaan adalah respons otomatis yang dipicu konteks, lahir dari pengulangan yang diimbal.
 
-Artinya, cue, craving, response, dan reward bukan sekadar nama-nama di atas kertas. Masing-masing punya alamat kerja di otak, dan loop yang kamu jalankan tiap pagi itu nyata sebagai pola kerja saraf, bukan kiasan. Ke mana alamat itu, dan kenapa otak rela menyerahkan hampir separuh perilakumu ke sistem otomatis, itulah topik bab berikutnya.
+Artinya, cue, craving, response, dan reward bukan sekadar nama-nama di atas kertas. Masing-masing punya alamat kerja di otak, dan loop yang kamu jalankan tiap pagi itu nyata sebagai pola kerja saraf, bukan kiasan. Pertanyaannya tinggal satu: di mana alamat itu, dan kenapa otak rela menyerahkan hampir separuh perilakumu ke sistem otomatis?
 
 ## Ringkasan
 
-- Mengetahui semua konsekuensi buruk tidak otomatis mengubah perilaku, karena sekitar 43% perilaku harian dalam salah satu studi Wood, Quinn, dan Kashy (2002) berjalan hampir setiap hari tanpa banyak melibatkan pikiran sadar.
-- Kisah Eugene Pauly dalam The Power of Habit (2012) membuktikan loop kebiasaan tersimpan di sistem yang bekerja tanpa ingatan sadar: pria dengan amnesia berat tetap menemukan kue kering di dapur berulang-ulang.
-- Loop kebiasaan versi Duhigg tersusun dari tiga unsur: cue sebagai pemicu, routine sebagai aksi, dan reward sebagai imbalan yang membuat siklus layak diulang.
-- Clear (2018) menambahkan langkah craving, dorongan senyap yang muncul saat cue muncul, bagian yang paling sering luput dari kesadaran karena bekerja cepat di antara pemicu dan aksi.
+- Kisah Eugene Pauly dalam The Power of Habit (2012) membuktikan loop kebiasaan tersimpan di sistem yang bekerja tanpa ingatan sadar.
+- Loop versi Duhigg tersusun dari cue, routine, dan reward; Clear (2018) menambahkan craving, dorongan senyap di antara pemicu dan aksi, bagian yang paling sering luput dari kesadaran.
 - Golden rule of habit change menyatakan pertahankan cue dan reward lalu ganti routine, prinsip yang akan dituntaskan di bab kesepuluh.
-- Loop ini bukan metafora, melainkan pola kerja saraf yang berjalan sebagai chunk aksi terkompilasi, sebagaimana dirangkum Graybiel (2008).
-
-Mesin loop ini tidak melayang di ruang hampa. Ia punya alamat fisik di kepalamu, dan di bab berikutnya kita akan masuk ke ruang mesin itu: basal ganglia, bagian otak yang mengubah rangkaian aksi menjadi satu kebiasaan utuh.
 
 
 <!-- Chapter: 03_otak-pengotomat-di-basal-ganglia -->
 
 ## Otak Pengotomat di Basal Ganglia dan Dopamin
 
-Pernah sampai di rumah, lalu sadar bahwa kamu hampir tidak ingat perjalanan tadi? Lampu merah dilewati seperti seharusnya, belokan khas diambil di tempat yang biasa, jalan berlubang dihindari tanpa berpikir. Semuanya tuntas rapi, sementara kepalamu sedang jauh, sibuk merencanakan pekan depan atau mengulang dialog kemarin. Yang bikin merinding bukan jalannya, tapi ketidakhadiranmu di dalamnya. Kalau kamu yang sadar tidak ikut menyetir, lalu siapa yang menyetir?
+Pernah sampai di rumah, lalu sadar bahwa kamu hampir tidak ingat apa pun dari perjalanan yang baru saja kamu tempuh sendiri? Lampu merah dilewati seperti seharusnya, belokan khas diambil di tempat yang biasa, jalan berlubang dihindari tanpa berpikir. Semuanya tuntas rapi, sementara kepalamu sedang jauh, sibuk merencanakan pekan depan atau mengulang dialog kemarin. Yang bikin merinding bukan jalannya, tapi ketidakhadiranmu di dalamnya. Kalau kamu yang sadar tidak ikut menyetir, lalu siapa yang menyetir?
 
-Bab sebelumnya menutup dengan satu penunjuk arah: loop kebiasaan bukan sekadar diagram di atas kertas, ia punya alamat kerja di dalam otak. Bab ini kita datang ke alamat itu. Ada dua tokoh utama di sana, dan karakternya sangat berbeda. Yang pertama seorang pengotomat tenang yang menyimpan kebiasaan dan menjalankannya tanpa banyak suara. Yang kedua seorang sinyal kecil yang sibuk menentukan kebiasaan mana yang layak disimpan dan kapan ia dipanggil. Kenapa niatmu selalu datang terlambat, jawabannya ada di pembagian kerja keduanya.
+Loop kebiasaan bukan sekadar diagram di atas kertas, ia punya alamat kerja di dalam otak, dan di alamat itu ada dua tokoh utama yang karakternya sangat berbeda. Yang pertama seorang pengotomat tenang yang menyimpan kebiasaan dan menjalankannya tanpa banyak suara. Yang kedua seorang sinyal kecil yang sibuk menentukan kebiasaan mana yang layak disimpan dan kapan ia dipanggil. Kenapa niatmu selalu datang terlambat, jawabannya ada di pembagian kerja keduanya.
 
 ### Basal ganglia, gudang tempat kebiasaan tinggal
 
@@ -45737,11 +45617,11 @@ Begitu pula dengan kebiasaanmu: menyeduh kopi pagi, menyambung sabuk pengaman, m
 
 ### Saat pengotomat jaga, sang pengendali boleh libur
 
-Sekarang bagian yang paling menjelaskan penderitaanmu selama ini. Otak punya sisi yang menangani hal-hal sadar: merencanakan, menimbang, menahan diri. Sisi ini mahal operasionalsinya. Ia butuh perhatian penuh, cepat lelah, dan tidak bisa mengerjakan banyak hal sekaligus. Sisi inilah yang kerap diasosiasikan dengan kerja korteks prefrontal, sang pengendali sadar di bagian depan otak.
+Sekarang bagian yang paling menjelaskan penderitaanmu selama ini. Otak punya sisi yang menangani hal-hal sadar: merencanakan, menimbang, menahan diri. Sisi ini mahal operasionalnya. Ia butuh perhatian penuh, cepat lelah, dan tidak bisa mengerjakan banyak hal sekaligus. Sisi inilah yang kerap diasosiasikan dengan kerja korteks prefrontal, sang pengendali sadar di bagian depan otak.
 
-Kebiasaan yang sudah matang bekerja di jalur yang lain. Wood dan Rünger (2016) merumuskan kebiasaan sebagai respons otomatis yang dipicu konteks, lahir dari pengulangan yang diimbal. Sekali kebiasaan terbentuk dan konteks pemicunya muncul, basal ganglia bisa menjalankan chunk-nya dari awal sampai akhir tanpa menunggu giliran meja kendali sadar. Dan di sinilah letak manfaatnya: karena kebiasaan berjalan sendiri, sistem sadar boleh libur, dan energi mental bisa dialihkan ke hal lain. Itulah kenapa kamu bisa menyetir sambil merencanakan pekan, dan tetap sampai.
+Kebiasaan yang sudah matang bekerja di jalur yang lain. Wood dan Rünger (2016) merumuskan kebiasaan sebagai respons otomatis yang dipicu konteks, lahir dari pengulangan yang diimbal. Sekali kebiasaan terbentuk dan konteks pemicunya muncul, basal ganglia bisa menjalankan chunk-nya dari awal sampai akhir tanpa menunggu giliran meja kendali sadar. Hasilnya, karena kebiasaan berjalan sendiri, sistem sadar boleh libur, dan energi mental bisa dialihkan ke hal lain. Itulah kenapa kamu bisa menyetir sambil merencanakan pekan, dan tetap sampai.
 
-Tapi ke hemat ini punya sisi gelap yang langsung menjelaskan masalah kita. Niat untuk berubah itu lahir di sistem sadar, di meja sang pengendali. Sementara kebiasaan yang hendak kamu lawan tinggal di gudang otomatis, siap dieksekusi lebih cepat daripada kecepatan kamu menyusun kalimat "jangan". Niat yang duduk di sistem yang lambat dan mudah lelah harus menyaingi paket aksi yang berjalan instan dan tanpa biaya. Tiap kali kamu lelah, stres, atau lengah, meja kendali sadar justru yang paling dulu kosong, sementara gudang pengotomat tidak pernah tutup. Kekalahan niat bukan karena niatmu lemah, tapi karena dua sistem ini tidak pernah bertanding di ring yang sama.
+Tapi sifat hemat ini punya sisi gelap yang langsung menjelaskan masalah kita. Niat untuk berubah itu lahir di sistem sadar, di meja sang pengendali. Sementara kebiasaan yang hendak kamu lawan tinggal di gudang otomatis, siap dieksekusi lebih cepat daripada kecepatan kamu menyusun kalimat "jangan". Niat yang duduk di sistem yang lambat dan mudah lelah harus menyaingi paket aksi yang berjalan instan dan tanpa biaya. Tiap kali kamu lelah, stres, atau lengah, meja kendali sadar justru yang paling dulu kosong, sementara gudang pengotomat tidak pernah tutup. Kekalahan niat bukan karena niatmu lemah, tapi karena dua sistem ini tidak pernah bertanding di ring yang sama.
 
 ### Dopamin, sinyal yang lebih cerdas dari sekadar hadiah
 
@@ -45757,27 +45637,22 @@ Dan sekarang bagian yang menjelaskan craving di bab sebelumnya. Begitu pola cue 
 
 Setelah semua pembongkaran ini, mari tarik kesimpulan yang sering terlewat. Otak mengotomatisasi hal yang berulang bukan karena kamu malas atau gagal sebagai manusia, melainkan karena memang dirancang hemat energi. Sistem yang boleh bekerja secara otomatis membebaskan pikiran untuk hal-hal yang benar-benar butuh renungan. Seandainya setiap pagi kamu harus menyusun ulang dari nol cara menyikat gigi, berpakaian, dan menyalakan sepeda motor, sisa energi untuk urusan besar hidupmu tinggal sedikit.
 
-Jadi kalau kebiasaan burukmu bertahan juga meski kamu sudah berdoa, berniat, dan menyesal, itu bukan vonis karakter. Itu tanda bahwa fitur hemat energimu bekerja terlalu baik pada program yang salah. Masalahnya bukan kamu tidak cukup kuat, melainkan kamu selama ini menyerang sistem yang salah dengan alat yang salah. Kabar baiknya, kebiasaan bekerja menurut aturan, jadi ia bisa dihadapi dengan aturan juga. Tapi sebelum bicara solusi, kita perlu jujur dulu ke satu hal: kenapa niat yang terasa sekuat apa pun tetap sering gugur di tengah jalan. Itulah perjalanan bab berikutnya.
+Jadi kalau kebiasaan burukmu bertahan juga meski kamu sudah berdoa, berniat, dan menyesal, itu bukan vonis karakter. Itu tanda bahwa fitur hemat energimu bekerja terlalu baik pada program yang salah. Masalahnya bukan kamu tidak cukup kuat, melainkan kamu selama ini menyerang sistem yang salah dengan alat yang salah. Kabar baiknya, kebiasaan bekerja menurut aturan, jadi ia bisa dihadapi dengan aturan juga. Tapi sebelum bicara solusi, kita perlu jujur dulu ke satu hal: kenapa niat yang terasa sekuat apa pun tetap sering gugur di tengah jalan?
 
 ## Intisari
 
-- Basal ganglia adalah pusat pembentukan kebiasaan di otak, tempat rangkaian aksi tersimpan sebagai chunk, paket aksi terkompilasi yang dijalankan sebagai satu kesatuan, sebagaimana dirangkum Graybiel (2008).
-- Kebiasaan yang sudah matang bekerja sebagai respons otomatis yang dipicu konteks, lahir dari pengulangan yang diimbal, sehingga sistem sadar boleh libur dan energi mental tersedia untuk hal lain (Wood dan Rünger, 2016).
-- Niat hidup di sistem sadar yang lambat, mahal, dan mudah lelah, sementara kebiasaan berjalan di sistem otomatis yang instan, karena itu keduanya tidak pernah bertanding di ring yang sama.
-- Neuron dopamin mengkode reward prediction error, aktif saat hasil lebih baik dari prediksi, diam saat sesuai, dan turun saat lebih buruk (Schultz, Dayan, dan Montague, 1997), sinyal belajar yang menentukan pengulangan mana yang diperkuat.
-- Setelah cue dan hadiah cukup sering berulang, respons dopamin bergeser maju dan menyala saat cue muncul, menjadikan craving hadir sebelum sadar sempat bereaksi.
-- Otak sengaja mengotomatisasi yang berulang demi hemat energi, jadi kebiasaan buruk bukan kelemahan moral, melainkan fitur yang bekerja pada program yang salah.
-
-Kalau otomatisitas sekuat ini, muncul pertanyaan yang wajar: bukankah niat yang kuat seharusnya bisa mengalahkannya? Bab berikutnya menjawab dengan data, dan tunjukkan kenapa niat yang duduk di sistem sadar begitu sering gugur sebelum pertarungan dimulai.
+- Basal ganglia menyimpan kebiasaan sebagai chunk, paket aksi terkompilasi yang dijalankan sebagai satu kesatuan (Graybiel, 2008), sehingga kebiasaan berjalan tanpa menunggu sistem sadar yang lambat dan mudah lelah, tempat niat lahir.
+- Neuron dopamin mengkode reward prediction error (Schultz, Dayan, dan Montague, 1997). Setelah cue dan hadiah cukup sering berulang, sinyalnya bergeser maju ke saat cue muncul, sehingga craving hadir sebelum sadar sempat bereaksi.
+- Otak mengotomatisasi yang berulang demi hemat energi, jadi kebiasaan buruk bukan kelemahan moral, melainkan fitur yang bekerja pada program yang salah.
 
 
 <!-- Chapter: 04_jebakan-niat-kenapa-niat-gugur -->
 
 ## Jebakan Niat
 
-Bayangkan kota tuamu sebagai sebuah kota tua yang jalananinya sudah lama ditata. Di setiap persimpangan besar berdiri papan iklan raksasa yang baru, bercahaya terang, terpasang kemarin malam. Iklan itu berkata: "Mulai besok, ambil jalan baru yang lebih sehat." Iklan itu buatanmu. Kamu yang memesannya, kamu yang membayarnya dengan seluruh semangatmu. Tapi di bawah aspal kota itu, sudah puluhan tahun tertanam rel kereta yang mengarah ke tujuan lama. Setiap pagi, tanpa kamu sadari, kereta itu berangkat tepat waktu, dan kamu ikut naik ke dalamnya. Iklan mewah itu tetap terpasang, terang, dan tidak pernah sekalipun mengubah rute kereta.
+Bayangkan dirimu sebagai sebuah kota tua yang jalanan dan persimpangannya sudah lama ditata, jauh sebelum niat barumu muncul. Di setiap persimpangan besar berdiri papan iklan raksasa yang baru, bercahaya terang, terpasang kemarin malam. Iklan itu berkata: "Mulai besok, ambil jalan baru yang lebih sehat." Iklan itu buatanmu. Kamu yang memesannya, kamu yang membayarnya dengan seluruh semangatmu. Tapi di bawah aspal kota itu, sudah puluhan tahun tertanam rel kereta yang mengarah ke tujuan lama. Setiap pagi, tanpa kamu sadari, kereta itu berangkat tepat waktu, dan kamu ikut naik ke dalamnya. Iklan mewah itu tetap terpasang, terang, dan tidak pernah sekalipun mengubah rute kereta.
 
-Iklan itu adalah niat. Rel di bawah tanah adalah kebiasaan. Bab sebelumnya sudah menunjukkan mesin pengotomat di basal ganglia dan dopamin yang mencatat setiap imbalan. Bab ini membedah pertanyaan yang lebih tajam lagi: kalau niat saja tidak cukup, seberapa persis tidak cukupnya? Dan kenapa otak justru mendesain dirinya seperti itu?
+Iklan itu adalah niat. Rel di bawah tanah adalah kebiasaan. Mesin pengotomat di basal ganglia dan dopamin yang mencatat setiap imbalan sudah kita lihat. Kini muncul pertanyaan yang lebih tajam: kalau niat saja tidak cukup, seberapa persis tidak cukupnya? Dan kenapa otak justru mendesain dirinya seperti itu?
 
 ### Niat besar, perubahan kecil
 
@@ -45791,7 +45666,7 @@ Apa artinya itu dalam bahasa sehari-hari? Artinya, meski kamu berhasil membakar 
 
 Untuk memahami kenapa hal itu terjadi, psikolog Benjamin Gardner pada 2015 meninjau 136 studi empiris tentang perilaku kesehatan dan merangkumnya dalam sebuah model yang disebut dual-process, atau proses ganda. Menurut model ini, setiap keputusan kecilmu hari ini ditarik oleh dua jalur yang bekerja dengan cara sangat berbeda.
 
-Jalur pertama adalah jalur reflektif. Di sinilah niat, perencanaan, dan penilaian hidup. Jalur ini yang aktif saat kamu berkata dalam hati, "mulai minggu depan aku akan jogging tiap pagi." Jalur reflektif itu cerdas dan fleksibel, tapi ia lambat dan mahal energi. Setiap keputusan yang dibuat di jalur ini menguras bahan bakar mental yang sama dengan yang kamu pakai untuk kerja, memutuskan menu makan malam, dan menahan diri dari membuka media sosial jam tiga sore.
+Jalur pertama adalah jalur reflektif. Di sinilah niat, perencanaan, dan penilaian bekerja. Jalur ini yang aktif saat kamu berkata dalam hati, "mulai minggu depan aku akan jogging tiap pagi." Jalur reflektif itu cerdas dan fleksibel, tapi ia lambat dan mahal energi. Setiap keputusan yang dibuat di jalur ini menguras bahan bakar mental yang sama dengan yang kamu pakai untuk kerja, memutuskan menu makan malam, dan menahan diri dari membuka media sosial jam tiga sore.
 
 Jalur kedua adalah jalur impulsif. Di sinilah kebiasaan bekerja. Jalur ini tidak berpikir panjang, ia hanya mengenali: konteks seperti ini, maka lakukan itu. Asosiasi antara situasi dan respons sudah dipelajari lewat ribuan pengulangan, jadi ketika pemicunya muncul, impuls untuk bertindak menyala hampir seketika. Jalur ini cepat, murah, dan tidak butuh perhatian. Itulah kenapa kamu bisa sampai di kantor tanpa ingat perjalanan tadi, atau mengunyah camilan sambil menatap layar tanpa pernah memutuskan untuk mengunyah.
 
@@ -45799,38 +45674,34 @@ Masalahnya, kebiasaan lama dan niat baru tidak berdiri di lintasan yang sama rat
 
 ### Konteks memutuskan siapa yang menang
 
-Lalu apakah niat itu tandus? Justru tidak, dan di sinilah penelitian yang menenangkan. Ouellette dan Wood, dalam ulasan mereka di Psychological Bulletin tahun 1998, membandingkan dua kondisi kehidupan. Di kehidupan yang stabil, tempat rutinitas berjalan di lokasi yang sama dengan orang-orang yang sama hari demi hari, perilaku masa depan paling kuat diprediksi oleh perilaku masa lalu, bukan oleh niat. Kebiasaan menang dalam konteks stabil, karena pemicunya selalu ada dan kereta bawah tanah selalu berangkat.
+Lalu apakah niat itu tandus? Tidak juga, dan penelitian berikut terasa menenangkan. Ouellette dan Wood, dalam ulasan mereka di Psychological Bulletin tahun 1998, membandingkan dua kondisi kehidupan. Di kehidupan yang stabil, tempat rutinitas berjalan di lokasi yang sama dengan orang-orang yang sama hari demi hari, perilaku masa depan paling kuat diprediksi oleh perilaku masa lalu, bukan oleh niat. Kebiasaan menang dalam konteks stabil, karena pemicunya selalu ada dan kereta bawah tanah selalu berangkat.
 
 Tapi temuan keduanya lebih menarik dari itu. Ketika konteks hidup berubah, pindah rumah, pindah kerja, atau hidup dengan cara yang baru, dominasi kebiasaan itu retak. Dalam situasi tidak stabil, niat dan penalaran kembali menjadi penentu utama perilaku. Papan iklanmu tiba-tiba punya daya lagi, karena rel di bawah tanah tidak lagi mengarah ke mana pun.
 
-Temuan ini adalah lentera yang akan terus menyala sepanjang sisa buku ini. Ia memberi tahu dua hal sekaligus. Pertama, berjuang melawan kebiasaan di dalam konteks lama adalah pertarungan paling tidak seimbang, dan itu bukan kegagalan karaktermu. Kedua, dan ini yang penting, ada momen-momen ketika medan pertarungan berpihak kepadamu. Bab ketujuh akan membuktikan bahwa konteks bukan lawan, melainkan senjata, dan kamu yang bisa memilih di medan mana kamu bertarung.
+Temuan ini adalah lentera yang akan terus menyala sepanjang sisa buku ini. Ia memberi tahu dua hal sekaligus. Pertama, berjuang melawan kebiasaan di dalam konteks lama adalah pertarungan paling tidak seimbang, dan itu bukan kegagalan karaktermu. Kedua, dan ini yang penting, ada momen-momen ketika medan pertarungan berpihak kepadamu.
 
 Untuk saat ini, cukup serap satu pesan dari bab ini. Rencana "besok aku pasti lebih kuat" adalah strategi yang sudah teruji gagal, bukan karena kamu kurang kuat, tapi karena pertarungan itu tidak pernah dimenangkan oleh kekuatan niat semata. Pertanyaannya lalu bergeser: kalau bukan niat, lalu berapa lama sebenarnya waktu yang dibutuhkan untuk membangun jalur baru di bawah aspal itu? Jawabannya lebih panjang dari "21 hari" yang selalu kamu dengar, dan ceritanya bermula dari satu buku tua tahun 1960.
 
 ## Inti Pembahasan
 
 - Meta-analisis Webb dan Sheeran (2006) membuktikan jarak antara niat dan tindakan dengan angka: intervensi menaikkan niat dengan efek besar, tapi perubahan perilaku yang mengikuti hanya kecil-sedang.
-- Model dual-process Gardner (2015) menjelaskan kenapa: niat berjalan di jalur reflektif yang lambat dan mahal energi, sementara kebiasaan berjalan di jalur impulsif yang cepat, murah, dan dipicu langsung oleh konteks.
-- Menghambat kebiasaan lewat niat itu mungkin, tapi butuh sumber daya regulasi diri yang terus terpakai, itulah kenapa bergantung pada niat semata itu seperti membawa pisau mentega ke duel.
+- Model dual-process Gardner (2015) menjelaskan kenapa: niat berjalan di jalur reflektif yang lambat dan mahal energi, kebiasaan di jalur impulsif yang cepat dan dipicu langsung oleh konteks, dan menghambatnya lewat niat butuh sumber daya regulasi diri yang terus terpakai.
 - Temuan Ouellette dan Wood (1998) menunjukkan kebiasaan menang atas niat dalam kehidupan yang stabil, tapi ketika konteks berubah, niat kembali menjadi penentu utama perilaku.
-- Konsekuensinya, kegagalan menjalankan niat bukan bukti kamu lemah, melainkan bukti kamu memakai senjata yang salah di medan yang belum berubah.
-
-Kalau begitu, sudah jelas niat saja tidak cukup. Pertanyaan berikutnya menyangkut waktu: berapa lama sebenarnya kebiasaan baru terbentuk? Di bab lima kita bedah mitos 21 hari yang terkenal itu, dan menemukan angka yang jauh lebih jujur dari hasil riset nyata di dunia.
 
 
 <!-- Chapter: 05_mitos-21-hari-dan-waktu-sebenarnya -->
 
 ## Mitos 21 Hari dan Waktu Sebenarnya
 
-"Kalau kamu bertahan 21 hari, itu jadi kebiasaan." Kalimat ini kamu dengar di podcast, baca di caption media sosial, dan mungkin pernah kamu ucapkan sendiri dengan penuh keyakinan. Angkanya rapi, bulat, dan terasa ilmiah. Tapi coba tanya satu hal ke siapa pun yang melemparkannya: dari mana angka itu berasal? Hampir tidak ada yang tahu. Itulah tanda sebuah mitos yang sukses, ia berulang begitu sering sampai tidak perlu lagi membawa surat pengantar.
+Kalimat "kalau kamu bertahan 21 hari, itu jadi kebiasaan" mungkin pernah kamu dengar di podcast, baca di caption media sosial, atau ucapkan sendiri. Angkanya rapi, bulat, dan terasa ilmiah. Tapi coba tanya satu hal ke siapa pun yang melemparkannya: dari mana angka itu berasal? Hampir tidak ada yang tahu. Itulah tanda sebuah mitos yang sukses, ia berulang begitu sering sampai tidak perlu lagi membawa surat pengantar.
 
-Bab ini membongkar asal-usul angka 21 hari, lalu menggantinya dengan sesuatu yang lebih jujur: temuan riset nyata tentang berapa lama sebuah kebiasaan benar-benar terbentuk. Kabarnya campur, tapi justru kabar campur itulah yang bisa kamu rencanakan.
+Angka 21 hari punya asal-usul yang bisa dilacak, dan temuan riset nyata tentang berapa lama sebuah kebiasaan benar-benar terbentuk memberi jawaban yang lebih jujur. Kabarnya campur, tapi justru kabar campur itulah yang bisa kamu rencanakan.
 
 ### Jejak seorang ahli bedah plastik
 
 Ceritanya dimulai pada 1960, dari seorang dokter yang sama sekali tidak berniat membuat teori kebiasaan. Maxwell Maltz adalah ahli bedah plastik. Pekerjaannya mengubah wajah dan tubuh orang, dan dari ruang pemulihan itulah ia mengamati sesuatu: pasiennya umumnya butuh sekitar tiga minggu untuk berdamai dengan penampilan barunya. Wajah baru itu perlahan berhenti terasa milik orang lain, dan mulai terasa milik sendiri.
 
-Dari pengamatan itu, Maltz menulis di bukunya *Psycho-Cybernetics* bahwa butuh "minimum of about 21 days", minimal sekitar 21 hari, untuk penyesuaian semacam ini. Perhatikan isi frasa itu: minimal, sekitar, dan konteksnya penyesuaian diri atas wajah baru, bukan pembentukan kebiasaan harian. Tapi kalimat yang lebih pendek jauh lebih gampang menyebar. Dari tangan ke tangan, frasa yang hati-hati itu terpotong jadi slogan: "21 hari membentuk kebiasaan."
+Dari pengamatan itu, Maltz menulis di bukunya *Psycho-Cybernetics* bahwa butuh "minimum of about 21 days", minimal sekitar 21 hari, untuk penyesuaian semacam ini. Isi frasa itu layak dibaca pelan: minimal, sekitar, dan konteksnya penyesuaian diri atas wajah baru, bukan pembentukan kebiasaan harian. Tapi kalimat yang lebih pendek jauh lebih gampang menyebar. Dari tangan ke tangan, frasa yang hati-hati itu terpotong jadi slogan: "21 hari membentuk kebiasaan."
 
 Setelah itu slogan itu hidup sendiri. Ia berulang di buku motivasi, kelas seminar, dan unggahan yang di-share jutaan kali, sampai puluhan tahun kemudian orang mengutipnya bukan karena tahu sumbernya, tapi karena semua orang sepertinya sudah mengutipnya dulu. Pengulangan bukan bukti, tapi pengulangan bisa menyamar jadi statistik.
 
@@ -45842,13 +45713,13 @@ Hasilnya bukan satu angka, tapi sebuah pola. Otomatisitas naik mengikuti kurva a
 
 > Bayangkan mengisi ember yang bocor halus di dasarnya. Di awal, keran dibuka penuh dan permukaan air naik cepat kelihatan. Semakin penuh ember, semakin pelan permukaannya naik, meski kerannya sama sekali tidak mengecil. Kebiasaan bekerja seperti itu: progres awal terlihat dramatis, sementara tahap akhir terasa seperti diam di tempat, padahal kamu masih naik.
 
-Lalu berapa lama sampai sampai? Median peserta mencapai 95% dari plafon otomatisitasnya dalam 66 hari. Tapi rentangnya lebar: ada yang cukup dalam 18 hari, ada pula yang butuh sampai 254 hari. Jadi pertanyaan "berapa lama kebiasaan terbentuk" tidak punya satu jawaban, ia punya jawaban yang bergantung pada orangnya dan perilakunya. Yang pasti, 21 hari berada di bawah median, artinya lebih dari separuh orang belum selesai di titik itu. Banyak yang menyerah di hari ke-22 bukan karena gagal, tapi karena diberi tenggat yang salah sejak awal.
+Lalu berapa lama sampai otomatis? Median peserta mencapai 95% dari plafon otomatisitasnya dalam 66 hari. Tapi rentangnya lebar: ada yang cukup dalam 18 hari, ada pula yang butuh sampai 254 hari. Jadi pertanyaan "berapa lama kebiasaan terbentuk" tidak punya satu jawaban, ia punya jawaban yang bergantung pada orangnya dan perilakunya. Yang pasti, 21 hari berada di bawah median, artinya lebih dari separuh orang belum selesai di titik itu. Banyak yang menyerah di hari ke-22 bukan karena gagal, tapi karena diberi tenggat yang salah sejak awal.
 
 ### Kabar baik yang sering terlewat
 
 Di antara temuan Lally, ada satu yang paling melegakan dan paling jarang dikutip: melewatkan satu kesempatan tidak berpengaruh material pada proses pembentukan kebiasaan. Satu hari bolong, karena sakit, lembur, atau sekadar lupa, tidak menghapus kemajuan yang sudah terkumpul.
 
-Ini melegakan karena kebanyakan dari kita punya aturan diam-diam: kalau sudah bolong sekali, rekor itu rusak, dan program yang rusak sebaiknya diulang dari nol. Pikiran itu yang membuat satu miss berubah jadi minggu miss, bukan karena biologi, tapi karena rasa kecewa. Riset bicara sebaliknya: jalur menuju otomatisitas itu tahan banting, bukan rangkaian rapuh yang putus oleh satu cacat. Tapi perlu dijaga pula proporsinya. Temuan ini bicara soal satu kesempatan yang terlewat, bukan izin berminggu-minggu absen.
+Ini melegakan karena kebanyakan dari kita punya aturan diam-diam: kalau sudah bolong sekali, rekor itu rusak, dan program yang rusak sebaiknya diulang dari nol. Pikiran itu yang membuat satu kali bolong berubah jadi bolong berminggu-minggu, bukan karena biologi, tapi karena rasa kecewa. Riset bicara sebaliknya: jalur menuju otomatisitas itu tahan banting, bukan rangkaian rapuh yang putus oleh satu cacat. Tapi perlu dijaga pula proporsinya. Temuan ini bicara soal satu kesempatan yang terlewat, bukan izin berminggu-minggu absen.
 
 ### Menata ulang harapanmu
 
@@ -45858,13 +45729,11 @@ Maknanya praktis. Kalau kamu tahu perilaku pilihanmu kompleks, jangan pasang ten
 
 ## Yang Perlu Kamu Ingat
 
-- Angka 21 hari berasal dari pengamatan Maxwell Maltz (1960), ahli bedah plastik, soal pasien yang butuh "minimum of about 21 days" berdamai dengan wajah baru. Ia lalu terdistorsi menjadi slogan "21 hari membentuk kebiasaan" yang berulang puluhan tahun tanpa dasar riset.
-- Studi Lally dkk. (2010) mengikuti 96 relawan selama 12 minggu dan menemukan median 66 hari untuk mencapai 95% plafon otomatisitas, dengan rentang 18 sampai 254 hari.
-- Otomatisitas tumbuh mengikuti kurva asimtotik: naik cepat di awal, lalu melandai menjelang plafon, jadi tahap akhir yang terasa "diam di tempat" itu bagian normal dari proses.
-- Melewatkan satu kesempatan tidak berpengaruh material pada pembentukan kebiasaan, jadi satu hari bolong tidak wajib diulang dari nol. Tapi itu bukan izin untuk absen berminggu-minggu.
-- Perilaku sederhana menjadi otomatis lebih cepat daripada rangkaian kompleks, sehingga mengecilkan perilaku dan menyesuaikan tenggat adalah strategi, bukan kelemahan.
+- Angka 21 hari berasal dari pengamatan Maxwell Maltz (1960), ahli bedah plastik, soal pasien yang butuh minimal sekitar 21 hari untuk berdamai dengan wajah baru, lalu terdistorsi menjadi slogan yang berulang puluhan tahun tanpa dasar riset.
+- Studi Lally dkk. (2010) menemukan median 66 hari untuk mencapai 95% plafon otomatisitas, dengan rentang 18 sampai 254 hari; perilaku sederhana menjadi otomatis lebih cepat daripada rangkaian kompleks.
+- Melewatkan satu kesempatan tidak berpengaruh material pada pembentukan kebiasaan, tapi itu bukan izin untuk absen berminggu-minggu.
 
-Sekarang kamu tahu berapa lama kebiasaan baru butuh waktu untuk tumbuh. Tapi ada pertanyaan yang lebih menyakitkan dan menentukan: kalau kamu berhasil menanam, kenapa kebiasaan lama tidak bisa sekalian dicabut? Di bab berikutnya kita lihat kenapa menghapus tidak ada dalam kamus otak, dan apa yang bisa dilakukan sebagai gantinya.
+Sekarang kamu tahu berapa lama kebiasaan baru butuh waktu untuk tumbuh. Tapi kalau yang baru bisa ditanam, kenapa yang lama tidak bisa sekalian dicabut?
 
 
 <!-- Chapter: 06_kebiasaan-lama-tidak-bisa-dihapus -->
@@ -45873,9 +45742,9 @@ Sekarang kamu tahu berapa lama kebiasaan baru butuh waktu untuk tumbuh. Tapi ada
 
 Pernah memperhatikan jalur tanah di taman kampus? Di antara rumput hijau yang rapi, ada satu garis cokelat gundul memotong lapangan, dari gerbang menuju gedung fakultas. Jalur itu tidak dibuat siapa-siapa dan tidak tercantum dalam denah resmi. Ia muncul pelan-pelan karena ribuan kaki memilih langkah yang sama, hari demi hari, sampai rumput menyerah dan tanah terbuka.
 
-Sekarang bayangkan pihak kampus menutup jalur itu dengan pagar kecil dan papan larangan. Seminggu tidak ada yang lewat, bahkan sebulan. Jejaknya tetap terbentang di situ, garis cokelat yang diam menunggu. Dan begitu satu orang melangkah lagi, lalu dua, lalu sepuluh, jalur itu hidup kembali dengan cepat yang membuatmu bertanya: sebenarnya ia pernah hilang, atau tidak pernah?
+Sekarang bayangkan pihak kampus menutup jalur itu dengan pagar kecil dan papan larangan. Seminggu tidak ada yang lewat, bahkan sebulan. Jejaknya tetap terbentang di situ, garis cokelat yang diam menunggu. Dan begitu satu orang melangkah lagi, lalu dua, lalu sepuluh, jalur itu hidup kembali dengan kecepatan yang membuatmu bertanya: sebenarnya ia pernah hilang, atau tidak pernah?
 
-Bab ini bicara soal pertanyaan kedua itu. Setelah bab-bab sebelumnya menjelaskan bagaimana kebiasaan terbentuk dan berapa lama waktunya, kini saatnya menyampaikan kabar yang kurang menyenangkan tapi wajib diterima: kebiasaan lama tidak bisa dihapus dari otak. Kata "hapus" ada di kamus kita, tapi tidak ada di kamus otak. Yang ada hanyalah jejak yang menetap, pemicu yang bisa dikelola, dan strategi yang jauh lebih cerdas daripada perang terbuka.
+Jawaban untuk pertanyaan kedua itu kurang menyenangkan tapi wajib diterima: kebiasaan lama tidak bisa dihapus dari otak. Kata "hapus" ada di kamus kita, tapi tidak ada di kamus otak. Yang ada hanyalah jejak yang menetap, pemicu yang bisa dikelola, dan strategi yang jauh lebih cerdas daripada perang terbuka.
 
 ### Jejak yang menetap, bukan berkas yang terhapus
 
@@ -45893,17 +45762,17 @@ Dalam tinjauan terhadap 136 studi empiris, Gardner (2015) menjelaskan kebiasaan 
 
 Artinya, menahan kebiasaan setelah terpicu adalah perang yang sistemnya tidak adil. Di satu sisi ada refleks yang berjalan instan dan gratis. Di sisi lain ada usaha sadar yang butuh energi dan perhatian. Kamu bisa menang beberapa ronde, tapi kalau pertarungannya dijadwalkan setiap malam jam sepuluh, kamu tahu ronde mana yang paling sering kalah.
 
-Ilustrasinya begini (ini ilustrasi, bukan data riset): menahan diri untuk tidak menyantap keripik yang tersimpan di lemari dapur itu butuh keputusan kecil yang berulang setiap kamu lewat. Sedangkan memutuskan untuk tidak membeli keripik saat belanja itu hanya butuh satu keputusan, sekali sepekan. Konten kemauannya sama, tapi tagihannya sangat berbeda. Mencegah terpicu itu jauh lebih murah daripada menahan setelah terpicu, dan perbedaan harga inilah yang akan jadi fondasi strategi di bab-bab berikutnya.
+Ilustrasinya begini (ini ilustrasi, bukan data riset): menahan diri untuk tidak menyantap keripik yang tersimpan di lemari dapur itu butuh keputusan kecil yang berulang setiap kamu lewat. Sedangkan memutuskan untuk tidak membeli keripik saat belanja itu hanya butuh satu keputusan, sekali sepekan. Konten kemauannya sama, tapi tagihannya sangat berbeda. Mencegah terpicu itu jauh lebih murah daripada menahan setelah terpicu, dan perbedaan harga inilah yang akan jadi fondasi strategi di sisa buku ini.
 
 ### Kebiasaan tidur, bukan kebiasaan mati
 
 Kalau jejaknya tidak bisa dihapus, lalu apa yang terjadi pada kebiasaan yang sudah lama tidak dijalankan? Jawabannya: ia tidur.
 
-Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah total, daya dorong kebiasaan lama merosot, dan perilaku mereka justru diarahkan oleh niat, bukan kebiasaan. Perhatikan baik-baik apa yang terjadi di sini. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
+Bukti bahwa jejak hanya terkubur, bukan terhapus, datang dari studi Wood, Tam, dan Guerrero Witt (2005). Mereka mengikuti mahasiswa yang pindah ke universitas baru. Temuannya menarik: di lingkungan yang berubah total, daya dorong kebiasaan lama merosot, dan perilaku mereka justru diarahkan oleh niat, bukan kebiasaan. Kebiasaan lama itu tidak dilenyapkan dari otak mereka selama pindah kampus. Ia hanya kehilangan panggilannya, karena konteks yang biasa memanggilnya tidak ada lagi.
 
 Dan panggilan itu bisa datang lagi. Ini ilustrasi yang sering muncul dalam kisah nyata berhenti merokok, sekadar ilustrasi dan bukan data riset: seseorang sudah setahun bersih dari rokok, niatnya kuat, identitas barunya sudah terasa asli. Lalu di suatu sore ia berkumpul dengan teman lama di tempat yang sama seperti zaman dulu, dan tanpa rencana apa pun, satu tarikan terjadi. Tidak karena niatnya lemah. Pemicu lama muncul lagi dalam bentuk utuhnya, dan jejak yang tidur setahun itu bangun secepat jalur tanah yang kembali diinjak.
 
-Sisi gelap kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia fisika dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
+Sisi gelap kebiasaan yang tidur ini perlu kamu cermati, bukan untuk menakuti, tapi untuk merencanakan. Ia mengajarkan dua hal. Pertama, jangan uji dirimu dengan sengaja berkunjung ke konteks lama sembari mengandalkan kemauan; itu mengundang kebiasaan tidur untuk bangun. Kedua, kambuh bukan bukti kamu orang yang gagal atau munafik. Ia konsekuensi wajar dari jejak yang tidak pernah hilang. Membaca kambuh sebagai kegagalan moral hanya membuat kamu berhenti lebih awal, padahal yang perlu dilakukan tinggal memperbaiki pengelolaan pemicunya.
 
 ### Mengelola arena, bukan memerangi kebiasaan
 
@@ -45915,14 +45784,9 @@ Untuk sekarang, cukup simpan satu kalimat: kebiasaan lama tidak kalah oleh peran
 
 ## Benang Merah
 
-- Kebiasaan tersimpan sebagai asosiasi konteks dan respons yang dibentuk oleh pengulangan berimbalan (Wood dan Rünger, 2016), dan asosiasi itu tidak bisa dihapus dari otak.
-- Rangkaiannya terkompilasi menjadi chunk di basal ganglia (Graybiel, 2008) dan berjalan tanpa perlu partisipasi kesadaran, hanya butuh pemicu.
-- Yang bisa dikontrol bukan asosiasinya, melainkan tiga tuas di sekelilingnya: konteks, imbalan, dan perencanaan.
-- Menghambat kebiasaan yang sudah terpicu menghabiskan sumber daya regulasi diri dan terasa mahal (Gardner, 2015), itulah kenapa mencegah terpicu jauh lebih murah daripada menahan setelah terpicu.
-- Kebiasaan yang lama tak dijalankan itu tidur, bukan mati: jejaknya menunggu pemicu lama muncul lagi, jadi jangan uji dirimu dengan konteks lama dan jangan membaca kambuh sebagai kegagalan moral.
-- Karena tidak bisa dihapus, strategi pintarnya adalah mengganti dan mengelola, bukan memerangi, dan itu berangkat dari satu tempat: lingkungan yang mengelilingimu.
-
-Dan lingkungan itulah bahasan bab berikutnya. Setelah tahu bahwa pemicu tidak bisa dihapus dari dalam kepala, saatnya melihat ke luar: bagaimana ruangan, rute, dan orang-orang di sekitarmu diam-diam memancing kebiasaan lama, dan bagaimana memanfaatkan kekuatan yang sama untuk kepentinganmu.
+- Kebiasaan tersimpan sebagai asosiasi konteks dan respons yang dibentuk oleh pengulangan berimbalan (Wood dan Rünger, 2016), dan asosiasi itu tidak bisa dihapus; yang bisa dikontrol adalah konteks, imbalan, dan perencanaan di sekelilingnya.
+- Menghambat kebiasaan yang sudah terpicu menghabiskan sumber daya regulasi diri (Gardner, 2015), itulah kenapa mencegah terpicu jauh lebih murah daripada menahan setelah terpicu.
+- Kebiasaan yang lama tak dijalankan itu tidur, bukan mati, jadi jangan uji dirimu dengan konteks lama dan jangan membaca kambuh sebagai kegagalan moral.
 
 
 <!-- Chapter: 07_kekuatan-konteks-lingkungan-yang-memancing -->
@@ -45945,7 +45809,7 @@ Inilah alasan kenapa tekad sekeras apa pun sering kalah. Kamu sedang melawan buk
 
 Psikolog Wendy Wood bersama koleganya, Lee Tam dan Melissa Guerrero Witt, menguji ide ini pada tahun 2005 lewat studi terhadap mahasiswa yang pindah universitas. Logikanya sederhana: kalau kebiasaan benar-benar digerakkan oleh konteks, maka mengganti konteks harus melemahkan kebiasaan lama. Dan persis itulah yang mereka temukan. Mahasiswa yang pindah ke lingkungan baru kehilangan daya dorong kebiasaan lamanya; pada mereka, perilaku harian tidak lagi mengikuti pola otomatis dari masa lalu, melainkan diarahkan oleh niat. Ketika rangkaian pemicu di sekitar seseorang terputus, kebiasaan lama kehilangan bahan bakarnya, dan suara niat yang selama ini tertelan akhirnya terdengar lagi.
 
-Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellette dan Wendy Wood pada 1998, yang menyimpulkan bahwa perilaku lampau paling kuat memprediksi perilaku masa depan ketika konteks hidup seseorang stabil. Sebaliknya, saat konteks tidak stabil, yang kembali dominan justru niat dan pertimbangan sadar. Dengan kata lain, konteks yang tetap sama adalah bahan bakar kebiasaan, dan pergantian konteks adalah sirminya.
+Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellette dan Wendy Wood pada 1998, yang menyimpulkan bahwa perilaku lampau paling kuat memprediksi perilaku masa depan ketika konteks hidup seseorang stabil. Sebaliknya, saat konteks tidak stabil, yang kembali dominan justru niat dan pertimbangan sadar. Dengan kata lain, konteks yang tetap sama adalah bahan bakar kebiasaan, dan pergantian konteks memutus pasokannya.
 
 > Ada ironi yang perlu kamu cerna: hal yang biasanya terasa seperti keterpaksaan, seperti pindah kota demi kerja atau kampus demi kuliah, ternyata jadi salah satu momen paling berharga untuk membentuk ulang diri. Kesempatan itu datang sendiri tanpa diminta, dan kebanyakan orang membiarkannya lewat begitu saja.
 
@@ -45963,21 +45827,18 @@ Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu
 
 ## Poin Penting
 
-- Pemicu kebiasaan bekerja berlapis: tempat, waktu, orang, dan aksi sebelumnya, saling menguatkan sehingga satu kebiasaan punya banyak cadangan pemicu.
-- Studi Wood, Tam, dan Guerrero Witt (2005) menunjukkan mahasiswa yang pindah universitas kehilangan daya dorong kebiasaan lama, dan perilaku mereka justru diarahkan oleh niat.
-- Tinjauan Ouellette dan Wood (1998) menegaskan polanya: dalam konteks hidup yang stabil, perilaku lampau paling kuat memprediksi masa depan; dalam konteks yang berubah, niat kembali dominan.
-- Eksperimen lapangan Verplanken dan Roy (2016) dengan 800 peserta mendukung habit discontinuity hypothesis: intervensi perubahan perilaku lebih efektif saat diberikan dalam momen perubahan hidup.
-- Jendela itu sempit: efeknya memudar seiring kebiasaan baru terbentuk dan rutinitas mengeras, jadi momen perubahan harus dipakai cepat sebelum pemicu baru menumpuk.
-- Tanpa perpindahan besar, kamu tetap bisa merekayasa konteks kecil: atur ulang meja, ganti rute, atau ubah urutan pagi untuk memutus asosiasi lama.
+- Pemicu kebiasaan bekerja berlapis: tempat, waktu, orang, dan aksi sebelumnya saling menguatkan, sehingga satu kebiasaan punya banyak cadangan pemicu.
+- Mahasiswa yang pindah universitas dalam studi Wood, Tam, dan Guerrero Witt (2005) kehilangan daya dorong kebiasaan lama, dan perilaku mereka diarahkan oleh niat.
+- Intervensi perubahan perilaku lebih efektif saat diberikan dalam momen perubahan hidup (Verplanken dan Roy, 2016), dan tanpa perpindahan besar kamu masih bisa merekayasa konteks kecil: mengatur ulang meja, mengganti rute, atau mengubah urutan pagi.
 
-Masih ada satu pertanyaan yang menggantung: kalau perpindahan konteks itu begitu ampuh, apakah kamu harus menunggu keajaiban pindah kota untuk berubah? Ternyata tidak. Bab berikutnya membahas bagaimana kamu bisa memilih dan menandai momen mulai secara sengaja, lewat apa yang para peneliti sebut efek fresh start.
+Kalau perpindahan konteks begitu ampuh, apakah kamu harus menunggu keajaiban pindah kota untuk berubah? Ternyata tidak, karena momen mulai juga bisa kamu pilih dan tandai dengan sengaja.
 
 
 <!-- Chapter: 08_fresh-start-momen-terbaik-untuk-mulai -->
 
 ## Momen Mulai dan Efek Fresh Start
 
-Coba perhatikan satu pemandangan yang hampir semua orang kenal. Setiap awal Januari, pusat kebugaran di mana-mana tiba-tiba penuh. Alat lari antre, kelas senam padat, kasur yoga tak kebagian. Para pelatih bercanda bahwa member baru datang serombongan dan orang lama harus rela menunggu. Lalu tanpa diumumkan siapa-siapa, bulan Maret datang, dan ruangannya kembali lega seperti biasa. Fenomena ini begitu umum sampai menjadi bahan lelucon tahunan, meski tidak ada yang pernah merancangnya.
+Setiap awal Januari, pusat kebugaran di mana-mana tiba-tiba penuh, sebuah pemandangan yang hampir semua orang kenal. Alat lari antre, kelas senam padat, kasur yoga tak kebagian. Para pelatih bercanda bahwa member baru datang serombongan dan orang lama harus rela menunggu. Lalu tanpa diumumkan siapa-siapa, bulan Maret datang, dan ruangannya kembali lega seperti biasa. Fenomena ini begitu umum sampai menjadi bahan lelucon tahunan, meski tidak ada yang pernah merancangnya.
 
 Pola yang sama muncul di tempat lain. Buku harian baru diisi rajin di hari-hari pertama Januari, lalu tergeletak tak tersentuh di Februari. Jadwal makan sehat dimulai dengan semangat di hari Senin, dan Minggu malam berikutnya sudah goyah. Ada sesuatu pada tanggal-tanggal tertentu yang membuat kita merasa bisa memulai, dan ada pula sesuatu yang membuat semangat itu menguap begitu cepat. Pertanyaannya ganda: kenapa kalender punya kekuatan sebesar itu, dan bisakah kita memakainya dengan cerdas, bukan sekadar menjadi korban siklusnya tahun demi tahun?
 
@@ -45987,7 +45848,7 @@ Fenomena yang tadi kamu bayangkan ternyata punya nama ilmiah. Hengchen Dai, Kath
 
 Mekanismenya menarik. Landmark waktu bekerja seperti garis pemisah yang digores melintang di atas kalender. Segala kegagalan, tunda-tundaan, dan niat yang gugur terasa milik "masa lalu", bagian dari diri lama yang sudah tertutup lembarannya. Karena masa lampau terasa terpisah dari diri sekarang, percobaan baru terasa lebih bersih, tidak lagi menyeret beban kegagalan yang sama. Perasaan ini bukan sekadar hiasan pikiran; ia terbukti mengangkat motivasi orang untuk mengejar target yang selama ini tertunda.
 
-> Ibaratnya kamu pindah kamar dan mendapat lemari baru. Baju lama yang sembrono kau lipat rapi karena lemari yang kosong menuntut awal yang tertib. Kamunya masih sama, tetangganya masih sama, tetapi garis pemisah itu membuat kamu merasa layak memulai dari nol. Tanggal 1 Januari melakukan hal yang sama pada kalender hidupmu.
+> Ibaratnya kamu pindah kamar dan mendapat lemari baru. Baju lama yang sembrono kamu lipat rapi karena lemari yang kosong menuntut awal yang tertib. Kamu masih sama, tetangganya masih sama, tetapi garis pemisah itu membuat kamu merasa layak memulai dari nol. Tanggal 1 Januari melakukan hal yang sama pada kalender hidupmu.
 
 ### Dua mekanisme yang saling menguatkan
 
@@ -46007,28 +45868,26 @@ Aturan ketiga: manfaatkan fase awal saat kemajuan paling terasa. Ingat kurva asi
 
 ### Efek yang musiman, sistem yang permanen
 
-Sekarang peringatannya, dan ini penting. Perhatikan lagi pusat kebugaran di Januari: penuh. Maret: kosong. Fresh start effect itu musiman, ia datang saat landmark tiba dan memudar setelahnya. Ia pembuka pintu, bukan mesin penggerak jarak jauh. Orang yang mengandalkan efek ini saja terjebak dalam siklus yang kamu kenal: semangat besar tiap tahun baru, runtuh beberapa minggu kemudian, lalu menunggu landmark berikutnya untuk semangat besar lagi. Memulai terus-menerus bukan hal yang sama dengan melanjutkan, dan perubahan yang selalu kembali ke awal tidak pernah menumpuk.
+Sekarang peringatannya, dan ini penting. Ingat lagi pusat kebugaran di Januari: penuh. Maret: kosong. Fresh start effect itu musiman, ia datang saat landmark tiba dan memudar setelahnya. Ia pembuka pintu, bukan mesin penggerak jarak jauh. Orang yang mengandalkan efek ini saja terjebak dalam siklus yang kamu kenal: semangat besar tiap tahun baru, runtuh beberapa minggu kemudian, lalu menunggu landmark berikutnya untuk semangat besar lagi. Memulai terus-menerus bukan hal yang sama dengan melanjutkan, dan perubahan yang selalu kembali ke awal tidak pernah menumpuk.
 
-Jadi posisikan momen mulai pada tempatnya yang benar. Ia adalah saat terbaik untuk meluncurkan perubahan, bukan alat untuk menopangnya. Yang menopang adalah sistem: desain konteks, pengelolaan gesekan, cara mengganti kebiasaan lama, dan identitas yang memindik. Salah satu komponen sistem itu, dan mungkin yang paling kecil penyabarnya, membahas kenapa justru susahnya sebuah perilaku bisa jadi senjata untukmu, bukan musuhmu. Itulah bahasan bab berikutnya.
+Jadi posisikan momen mulai pada tempatnya yang benar. Ia adalah saat terbaik untuk meluncurkan perubahan, bukan alat untuk menopangnya. Yang menopang adalah sistem: desain konteks, pengelolaan gesekan, cara mengganti kebiasaan lama, dan identitas.
 
 ## Kesimpulan Bab
 
-- **Fresh start effect** (Dai, Milkman dan Riis, 2014): landmark waktu seperti tahun baru, Senin, tanggal 1, dan ulang tahun meningkatkan motivasi untuk perilaku aspiratif.
-- Mekanismenya adalah garis pemisah waktu: masa lalu dengan segala kegagalannya terasa terpisah dari diri sekarang, sehingga memulai terasa lebih bersih dan mungkin.
-- Efek ini berbeda dari habit discontinuity di bab 7: yang satu bekerja pada rasa identitas dan waktu dari dalam, yang lain memutus pemicu konteks dari luar, dan keduanya saling menguatkan saat terjadi bersamaan.
-- Cara pakai yang cerdas: pilih landmark terdekat alih-alih menunggu yang megah, selesaikan desain konteks sebelum landmark tiba, dan manfaatkan minggu-minggu awal ketika kurva otomatisitas Lally paling curam.
-- Efek ini musiman: ia membuka pintu perubahan, bukan menopangnya, dan tidak boleh menggantikan sistem yang dibangun di bab-bab berikutnya.
+- **Fresh start effect** (Dai, Milkman dan Riis, 2014): landmark waktu seperti tahun baru, Senin, tanggal 1, dan ulang tahun meningkatkan motivasi untuk perilaku aspiratif, karena masa lalu dengan segala kegagalannya terasa terpisah dari diri sekarang.
+- Efek ini bekerja dari dalam, pada rasa identitas dan waktu, sedangkan habit discontinuity di bab 7 memutus pemicu konteks dari luar; keduanya saling menguatkan saat terjadi bersamaan.
+- Pilih landmark terdekat alih-alih menunggu yang megah, selesaikan desain konteks sebelum landmark tiba, dan ingat bahwa efek ini musiman: ia membuka pintu perubahan, bukan menopangnya.
 
-Momen mulai sudah kamu pegang sekarang, dan kamu tahu kapan waktunya tiba. Namun peluncuran saja tidak cukup, karena pertarungan sesungguhnya terjadi pada setiap pengulangan. Bab berikutnya membahas friction, dan kenapa membuat perilaku yang benar menjadi yang paling mudah dijalankan adalah langkah desain yang paling menentukan.
+Momen mulai sudah kamu pegang sekarang. Namun peluncuran saja tidak cukup, karena pertarungan sesungguhnya terjadi pada setiap pengulangan.
 
 
 <!-- Chapter: 09_friction-susah-itu-alat-bukan-musuh -->
 
 ## Friction sebagai Alat, Bukan Musuh
 
-Kenapa kita rela berjuang keras menambah daya tahan mental, tapi segan sekali berpindah tempat charger? Kamu mungkin pernah mengulang mantra tekad di depan cermin atau memasang alarm berlapis, sementara ponsel yang membuatmu begadang masih tergeletak di samping bantal, siap dijangkau tanpa mengangkat kepala. Solusinya cuma satu gerakan kecil: pindahkan charger ke seberang kamar. Tapi langkah sesederhana itu terasa seperti kecurangan, sedangkan perjuangan batin yang menyiksa terasa seperti jalan yang benar.
+Kenapa kita rela berjuang keras menambah daya tahan mental, tapi segan sekali melakukan hal sepele seperti memindahkan tempat charger ponsel? Kamu mungkin pernah mengulang mantra tekad di depan cermin atau memasang alarm berlapis, sementara ponsel yang membuatmu begadang masih tergeletak di samping bantal, siap dijangkau tanpa mengangkat kepala. Solusinya cuma satu gerakan kecil: pindahkan charger ke seberang kamar. Tapi langkah sesederhana itu terasa seperti kecurangan, sedangkan perjuangan batin yang menyiksa terasa seperti jalan yang benar.
 
-Anggapan itu perlu dibalik. Dalam ilmu kebiasaan, kesulitan bukan sekadar rintangan yang harus ditaklukkan dengan kekuatan kehendak. Kesulitan, atau friction, adalah variabel desain yang bisa kamu atur naik dan turun. Bab-bab sebelumnya sudah menunjukkan bahwa konteks memancing perilaku dan momen mulai membuka pintu perubahan. Bab ini melengkapinya: begitu kamu mengatur seberapa susah sebuah tindakan, kamu memegang pengungkit tersembunyi yang bekerja bahkan saat motivasimu kosong.
+Anggapan itu perlu dibalik. Dalam ilmu kebiasaan, kesulitan bukan sekadar rintangan yang harus ditaklukkan dengan kekuatan kehendak. Kesulitan, atau friction, adalah variabel desain yang bisa kamu atur naik dan turun. Konteks memancing perilaku dan momen mulai membuka pintu perubahan; friction melengkapinya: begitu kamu mengatur seberapa susah sebuah tindakan, kamu memegang pengungkit tersembunyi yang bekerja bahkan saat motivasimu kosong.
 
 ### Mengapa langkah kecil menentukan pemenang
 
@@ -46040,13 +45899,13 @@ Di sinilah friction bekerja. Karena jalur impulsif nyaris tanpa biaya, penambaha
 
 ### Empat hukum untuk membangun, empat inversi untuk melucuti
 
-Kerangka paling praktis untuk memakai friction secara sengaja datang dari James Clear dalam Atomic Habits (2018). Ia merangkum pembentukan kebiasaan baik menjadi empat hukum: make it obvious (buat jelas), make it attractive (buat menarik), make it easy (buat mudah), dan make it satisfying (buat memuaskan). Menariknya, hukum yang sama bisa dibalik untuk melucuti kebiasaan buruk: make it invisible, make it unattractive, make it difficult, dan make it unsatisfying. Satu kerangka, dua mata uang.
+Kerangka paling praktis untuk memakai friction secara sengaja datang dari James Clear dalam Atomic Habits (2018). Ia merangkum pembentukan kebiasaan baik menjadi empat hukum: make it obvious (buat jelas), make it attractive (buat menarik), make it easy (buat mudah), dan make it satisfying (buat memuaskan). Hukum yang sama juga bisa dibalik untuk melucuti kebiasaan buruk: make it invisible, make it unattractive, make it difficult, dan make it unsatisfying. Satu kerangka, dua mata uang.
 
 Untuk melucuti kebiasaan buruk, inversi yang paling ampuh biasanya dibuat invisible, menyembunyikan pemicunya. Karena bab 7 sudah menunjukkan bahwa cue adalah penyulut mesin kebiasaan, jalan paling hemat tenaga adalah memastikan mesin itu tidak pernah menyala: ponsel ditaruh di ruangan lain saat bekerja, camilan tidak masuk daftar belanja. Kamu tidak sedang melawan kebiasaan, kamu mencegahnya dipanggil.
 
 Inversi kedua adalah make it difficult, menambah langkah. Ini versi aktif dari cerita charger tadi: log out dari akun yang biasa menghabiskan waktumu, simpan kata sandinya di aplikasi terpisah, atau taruh alat kebiasaan buruk di tempat yang butuh usaha ekstra. Setiap langkah tambahan menaikkan biaya jalur impulsif, dan karena impuls tak mau membayar pajak, ia menyerah lebih dulu. Sisi cerminnya justru resep kebiasaan baik: kalau menyusahkan itu efektif melucuti kebiasaan buruk, maka mempermudah adalah inti hukum make it easy.
 
-Dua inversi sisanya melengkapi paketnya. Make it unattractive berarti mengubah cara kamu membingkai kebiasaan buruk sehingga daya tariknya turun, misalnya dengan menuliskan jujur biaya tersembunyi yang selama ini kamu hindari dipikirkan. Make it unsatisfying bekerja di sisi akibat, memastikan kebiasaan buruk tidak lagi berakhir tanpa konsekuensi yang terasa, misalnya lewat komitmen yang terlihat orang lain. Inversi terakhir ini paling sulit dijalankan sendirian, dan penggantinya yang lebih elegan, yaitu mengganti rutinitas, menunggu di bab berikutnya.
+Dua inversi sisanya melengkapi paketnya. Make it unattractive berarti mengubah cara kamu membingkai kebiasaan buruk sehingga daya tariknya turun, misalnya dengan menuliskan secara jujur biaya tersembunyi yang selama ini kamu hindari untuk dipikirkan. Make it unsatisfying bekerja di sisi akibat, memastikan kebiasaan buruk tidak lagi berakhir tanpa konsekuensi yang terasa, misalnya lewat komitmen yang terlihat orang lain. Inversi terakhir ini paling sulit dijalankan sendirian, dan penggantinya yang lebih elegan adalah mengganti rutinitas.
 
 ### Kalimat kecil yang mengikat pemicu ke respons
 
@@ -46066,14 +45925,9 @@ Bandingkan dua versi. Versi lemah: "Jika saya merasa bosan, maka saya akan kuran
 
 ## Recap
 
-- Jalur impulsif itu murah dan cepat (Gardner, 2015), sehingga menambah atau memangkas beberapa langkah kecil saja cukup mengubah pemenangnya antara kebiasaan dan niat.
-- Kerangka Clear (2018) memakai empat hukum untuk membentuk kebiasaan baik, dan inversinya untuk melucuti kebiasaan buruk: make it invisible dengan menyembunyikan cue, make it difficult dengan menambah langkah, plus make it unattractive dan make it unsatisfying.
-- Implementation intention berbunyi "Jika situasi Y muncul, maka saya akan melakukan X", dan meta-analisis Gollwitzer dan Sheeran (2006) dari banyak tes independen menunjukkan dampaknya medium-besar pada pencapaian tujuan.
-- Kekuatannya dari mekanisme, bukan sihir: rencana menautkan cue tertentu ke respons tertentu, sehingga peluang mudah tertangkap dan aksinya hampir otomatis, tanpa bergantung pada niat abstrak.
-- Rencana yang baik menuntut konteks yang nyata, aksi yang terdefinisi, serta respons kompetitif yang singkat, bukan janji aspirasi.
-- Friction bukan musuh yang dilawan, melainkan alat yang diatur: kamu memilih perilaku mana yang dibuat mudah dan mana yang dibuat susah.
-
-Implementation intention yang kamu kuasai di bab ini adalah kendaraan utamanya, dan bab berikutnya tinggal menentukan arah lajunya. Karena kebiasaan lama tak bisa dihapus dari otak, satu-satunya jalan adalah mengganti, bukan menghapus, dan di sanalah golden rule of habit change serta habit reversal masuk panggung.
+- Jalur impulsif itu murah dan cepat (Gardner, 2015), sehingga menambah atau memangkas beberapa langkah kecil saja cukup mengubah pemenangnya antara kebiasaan dan niat: friction adalah alat yang diatur, bukan musuh yang dilawan.
+- Empat hukum Clear (2018) membentuk kebiasaan baik, dan inversinya, seperti menyembunyikan cue atau menambah langkah, melucuti kebiasaan buruk.
+- Implementation intention berbunyi "Jika situasi Y muncul, maka saya akan melakukan X" dan berdampak medium-besar pada pencapaian tujuan dalam meta-analisis Gollwitzer dan Sheeran (2006); rencana yang baik menuntut konteks yang nyata, aksi yang terdefinisi, dan respons kompetitif yang singkat.
 
 
 <!-- Chapter: 10_mengganti-bukan-menghapus -->
@@ -46082,19 +45936,19 @@ Implementation intention yang kamu kuasai di bab ini adalah kendaraan utamanya, 
 
 Bayangkan seseorang yang sudah bertahun-tahun menggigit kukunya. Bukan sesekali, tapi sampai kukunya rusak dan tangannya sering ia sembunyikan. Orang semacam ini biasanya sudah mencoba segala cara: teguran sendiri, cat pahit di kuku, janji tiap awal bulan. Semua gagal, dan gagalnya bukan sekali tapi bertahun-tahun.
 
-Kisah seperti ini bukan fiksi. Ia terdokumentasi dalam jurnal riset. Pada 1973, Nathan Azrin dan Richard Nunn menerbitkan studi di Behaviour Research and Therapy tentang metode yang mereka sebut habit reversal. Klien-klien mereka, dua belas orang dengan kebiasaan saraf yang beragam, mulai dari menggigit kuku sampai gerakan kelopak mata dan otot yang menyentak, menjalani satu sesi latihan saja. Hasilnya sulit dipercaya: kebiasaan itu hilang hampir total pada hari pertama, dan pada pemantauan lanjutan, kebiasaan tetap hilang pada sebelas dari dua belas klien yang mengikuti instruksi.
+Kisah seperti ini bukan fiksi. Ia terdokumentasi dalam jurnal riset. Pada 1973, Nathan Azrin dan Richard Nunn menerbitkan studi di Behaviour Research and Therapy tentang metode yang mereka sebut habit reversal. Klien-klien mereka, dua belas orang dengan kebiasaan saraf yang beragam, mulai dari menggigit kuku sampai gerakan kelopak mata dan otot yang menyentak, menjalani satu sesi latihan saja. Hasilnya sulit dipercaya: kebiasaan itu hilang hampir total pada hari pertama, dan pada pemantauan lanjutan, kebiasaan masih hilang pada sebelas dari dua belas klien yang mengikuti instruksi.
 
-Satu sesi. Tanpa obat. Tanpa pemahaman mendalam tentang asal-usul kebiasaan masa kecil. Apa yang mereka lakukan? Jawabannya bukan melawan kebiasaan dengan kekuatan kehendak, melainkan sesuatu yang jauh lebih cerdik: memasang aksi pengganti di dalam loop yang sama. Bab ini akan membongkar metode itu sampai ke resepnya, supaya kamu bisa memakainya untuk kebiasaanmu sendiri.
+Satu sesi. Tanpa obat. Tanpa pemahaman mendalam tentang asal-usul kebiasaan masa kecil. Apa yang mereka lakukan? Jawabannya bukan melawan kebiasaan dengan kekuatan kehendak, melainkan sesuatu yang jauh lebih cerdik: memasang aksi pengganti di dalam loop yang sama. Metode itu bisa dibongkar sampai ke resepnya, dan resep itu bisa kamu pakai untuk kebiasaanmu sendiri.
 
 ### Golden rule yang mempertahankan cue dan reward
 
-Kalau kamu mengikuti buku ini dari awal, sebenarnya kamu sudah bertemu jembatan lewatnya. Di bab anatomi loop, kita membedah bahwa setiap kebiasaan tersusun dari cue, routine, dan reward. Di bab ke enam, kita menutup pintu harapan palsu: kebiasaan lama tidak bisa dihapus dari otak, jalur sarafnya hanya bisa dielakkan atau diganti. Dua keping puzzle itu menyisakan satu pertanyaan, dan Charles Duhigg dalam The Power of Habit (2012) memberi namanya: golden rule of habit change.
+Kalau kamu mengikuti buku ini dari awal, sebenarnya kamu sudah bertemu jembatannya. Di bab anatomi loop, kita membedah bahwa setiap kebiasaan tersusun dari cue, routine, dan reward. Di bab 6, kita menutup pintu harapan palsu: kebiasaan lama tidak bisa dihapus dari otak, jalur sarafnya hanya bisa dielakkan atau diganti. Dua keping puzzle itu menyisakan satu pertanyaan, dan Charles Duhigg dalam The Power of Habit (2012) memberi namanya: golden rule of habit change.
 
 Bunyinya singkat. Pertahankan cue dan reward, lalu ganti routine-nya.
 
-Logikanya tegas kalau kamu ingat cara kerja loop. Cue adalah pemicu yang sudah tertanam dalam konteks hidupmu, dan reward adalah imbalan yang membuat otak menganggap siklus ini layak diulang. Keduanya adalah bagian yang membuat kebiasaan menempel. Routine adalah aksinya, bagian yang paling terlihat tapi sebenarnya paling mudah ditukar. Kebanyakan orang mencoba berubah dengan menyerang routine secara langsung sambil membiarkan cue tetap menghantui dan reward tetap tak tergantikan, lalu heran kenapa tangan bergerak kembali ke pola lama. Golden rule membalik arah serangan itu: jangan bunuh loop, pasang kembali isinya.
+Logikanya tegas kalau kamu ingat cara kerja loop. Cue adalah pemicu yang sudah tertanam dalam konteks hidupmu, dan reward adalah imbalan yang membuat otak menganggap siklus ini layak diulang. Keduanya adalah bagian yang membuat kebiasaan menempel. Routine adalah aksinya, bagian yang paling terlihat tapi sebenarnya paling mudah ditukar. Kebanyakan orang mencoba berubah dengan menyerang routine secara langsung sambil membiarkan cue terus menghantui dan reward tak tergantikan, lalu heran kenapa tangan bergerak kembali ke pola lama. Golden rule membalik arah serangan itu: jangan bunuh loop, pasang kembali isinya.
 
-Dalam bentuk gambar, yang berpindah hanya jalur tengahnya, sementara kedua ujungnya tetap di tempat.
+Dalam bentuk gambar, yang berpindah hanya jalur tengahnya, sementara kedua ujungnya tidak bergeser.
 
 ```mermaid
 flowchart LR
@@ -46110,13 +45964,13 @@ flowchart LR
 
 Metode habit reversal memberi bukti paling murni untuk golden rule, dan resepnya hanya punya dua bahan.
 
-Bahan pertama: kesadaran akan momen kebiasaan. Klien dilatih menyadari persis kapan kebiasaan mulai bergerak, momen di mana tangan sudah menuju kuku sebelum sadar. Ini penting karena seperti sudah kita bahas sejak bab awal, kebiasaan berjalan tanpa banyak melibatkan pikiran sadar. Kamu tidak bisa mengganti sesuatu yang tidak sempat kamu lihat.
+Bahan pertama: kesadaran akan momen kebiasaan. Klien dilatih menyadari persis kapan kebiasaan mulai bergerak, momen di mana tangan sudah menuju kuku sebelum sadar. Ini penting karena, seperti sudah kita bahas sejak bab awal, kebiasaan berjalan tanpa banyak melibatkan pikiran sadar. Kamu tidak bisa mengganti sesuatu yang tidak sempat kamu lihat.
 
-Bahan kedua: respons kompetitif, gerakan yang bertabrakan fisik dengan kebiasaan. Klien yang menggigit kuku dilatih, begitu dorongan muncul, mengepalkan tangan atau menempatkan tangannya di posisi lain yang mustahil menyentuh mulut. Gerakan pengganti ini sengaja dipilih supaya tidak kompatibel dengan routine lama, dan supaya tetap memberi sesuatu yang mirip dengan yang dulu didapat: tangan punya pekerjaan, ketegangan di banyak kasus saraf, dan kelegaan yang menyusul.
+Bahan kedua: respons kompetitif, gerakan yang bertabrakan fisik dengan kebiasaan. Klien yang menggigit kuku dilatih, begitu dorongan muncul, mengepalkan tangan atau menempatkan tangannya di posisi lain yang mustahil menyentuh mulut. Gerakan pengganti ini sengaja dipilih supaya tidak kompatibel dengan routine lama, dan supaya masih memberi sesuatu yang serupa dengan yang dulu didapat: tangan punya pekerjaan, ketegangan di banyak kasus saraf, dan kelegaan yang menyusul.
 
 Kedua bahan itu dilatih dalam satu sesi. Tidak ada pelan-pelan bertahun-tahun, tidak ada terapi berlarut. Dan hasilnya seperti yang sudah kamu baca di pembuka: hilang hampir total di hari pertama, bertahan pada sebelas klien yang konsisten mengikuti instruksi. Angka ini dramatis, dan justru karena itu kita perlu bicara jujur soal batasnya, sebentar lagi.
 
-### Repro empat langkah untuk kebiasaanmu
+### Resep empat langkah untuk kebiasaanmu
 
 Meski hasil Azrin dan Nunn datang cepat, untuk kebiasaan sehari-hari kamu tidak perlu menunggu keajaiban satu hari. Yang kamu butuhkan adalah versi sederhana dari metode yang sama, empat langkah yang bisa kamu jalankan mulai sore ini.
 
@@ -46126,7 +45980,7 @@ Langkah kedua: pilih routine pengganti yang memberi reward serupa dan murah. Ini
 
 Langkah ketiga: tuliskan implementation intention, kalimat rencana berformat "Jika cue Y, maka saya lakukan Z". Peter Gollwitzer dan Paschal Sheeran (2006) menghimpun 94 tes independen dan menemukan bahwa rencana sederhana ini berdampak medium-besar pada pencapaian tujuan, d = 0,65. Mekanismenya cocok persis dengan yang kita butuhkan: kalimat itu membuat pemicu lebih mudah terdeteksi dan mengotomatisasi respons yang dituju. Kamu tidak lagi mengandalkan keputusan di detik kritis, karena keputusannya sudah dibuat sebelumnya.
 
-Langkah keempat: latih respons kompetitif sampai cepat. Seperti klien Azrin dan Nunn, praktekkan gerakan penggantimu secara sengaja, berulang, sampai ia keluar secepat kebiasaan lama. Respons kompetitif yang belum terlatih kalah lomba dari routine lama yang sudah puluhan kali dilintasi.
+Langkah keempat: latih respons kompetitif sampai cepat. Seperti klien Azrin dan Nunn, praktikkan gerakan penggantimu secara sengaja, berulang, sampai ia keluar secepat kebiasaan lama. Respons kompetitif yang belum terlatih kalah lomba dari routine lama yang sudah puluhan kali dilintasi.
 
 Urutan keempatnya, dari memetakan loop sampai melatih gerakan pengganti, terangkum seperti ini.
 
@@ -46141,28 +45995,26 @@ flowchart TD
 
 ### Batas jujur metode ini
 
-Fakta-fakta di bab ini mudah dibaca berlebihan, jadi mari tarik garis batasnya. Data Azrin dan Nunn datang dari dua belas klien dengan kebiasaan saraf motorik, gerakan yang jelas bentuknya dan jelas momennya, seperti menggigit kuku atau menyentak otot. Sampelnya kecil, dan keberhasilan bertahan justru pada mereka yang mengikuti instruksi, artinya latihan tetap diperlukan.
+Fakta-fakta di bab ini mudah dibaca berlebihan, jadi mari tarik garis batasnya. Data Azrin dan Nunn datang dari dua belas klien dengan kebiasaan saraf motorik, gerakan yang jelas bentuknya dan jelas momennya, seperti menggigit kuku atau menyentak otot. Sampelnya kecil, dan keberhasilan bertahan justru pada mereka yang mengikuti instruksi, artinya latihan masih diperlukan.
 
 Kebiasaan lain tidak semudah itu. Makan emosional, misalnya, tidak punya satu gerakan yang bisa dilawan dengan satu gerakan kompetitif, karena dorongannya menyelip di antara banyak momen dan reward-nya menyentuh pengaturan suasana hati. Untuk kebiasaan semacam itu, metode di bab ini tetap berguna sebagai kerangka, petakan cue dan reward, pasang pengganti, tulis rencana, tapi biasanya tidak cukup berdiri sendiri dan sering butuh pendampingan. Jangan menganggap satu sesi adalah janji untuk semua kasus.
 
 ## Gagasan Utama
 
-- Golden rule of habit change menyatakan: pertahankan cue dan reward, lalu ganti routine, karena loop kebiasaan tidak bisa dihapus tapi bisa disambung ulang.
-- Metode habit reversal Azrin dan Nunn (1973) bertumpu pada dua bahan: kesadaran akan momen kebiasaan dan respons kompetitif yang bertabrakan dengan routine lama.
-- Pada satu sesi latihan, kebiasaan saraf dua belas klien hilang hampir total di hari pertama dan bertahan pada sebelas klien yang mengikuti instruksi, bukti kuat bahwa mengganti lebih ampuh daripada melawan.
-- Repro harianmu ada empat langkah: petakan cue dan reward, pilih routine pengganti yang memberi reward serupa dan murah, tulis implementation intention "Jika cue Y, maka lakukan Z" (d = 0,65 pada meta-analisis Gollwitzer dan Sheeran 2006), lalu latih respons kompetitif sampai cepat.
-- Metode ini teruji pada kebiasaan saraf motorik dengan sampel kecil, dan untuk kebiasaan kompleks seperti makan emosional ia tetap kerangka yang berguna tapi sering butuh pendampingan.
+- Golden rule of habit change: pertahankan cue dan reward, lalu ganti routine, karena loop kebiasaan tidak bisa dihapus tapi bisa disambung ulang.
+- Habit reversal Azrin dan Nunn (1973) bertumpu pada kesadaran akan momen kebiasaan dan respons kompetitif; pada dua belas klien dengan kebiasaan saraf motorik, sebuah sampel kecil, hasil satu sesi bertahan pada sebelas klien yang mengikuti instruksi.
+- Resep hariannya empat langkah: petakan cue dan reward, pilih routine pengganti yang memberi reward serupa dan murah, tulis rencana "Jika cue Y, maka lakukan Z", lalu latih respons kompetitif sampai cepat.
 
-Perhatikan satu hal dari repro empat langkah tadi: langkah terakhirnya soal latihan, dan setiap latihan yang berhasil adalah satu kemenangan kecil. Kemenangan kecil semacam itu ternyata melakukan lebih banyak pekerjaan daripada sekadar menahan satu dorongan, ia mulai merangkai bukti tentang siapa dirimu. Di bab berikutnya kita masuk ke sisi itu: bagaimana perubahan kecil yang menumpuk membangun identitas baru.
+Langkah terakhir resep tadi soal latihan, dan setiap latihan yang berhasil adalah satu kemenangan kecil. Kemenangan semacam itu melakukan lebih dari menahan satu dorongan: ia mulai merangkai bukti tentang siapa dirimu.
 
 
 <!-- Chapter: 11_identitas-satu-kemenangan-kecil -->
 
 ## Identitas dari Kemenangan Kecil
 
-Sebentar saja kamu sudah berada di modul terakhir. Coba luangkan satu detik untuk melihat ke belakang. Sebelas modul lalu, kamu masuk ke buku ini mungkin sambil membawa satu pertanyaan yang sudah lama mengganjal: kenapa ya, niatku kuat tapi kebiasaanku tetap tidak berubah? Sekarang kamu tidak lagi membawa pertanyaan itu dalam bentuk kebingungan. Kamu membawa sesuatu yang jauh lebih berguna: seperangkat alat yang diuji di laboratorium dan di lapangan, ditambah satu cara pandang yang mungkin belum pernah kamu pakai sebelumnya.
+Tanpa terasa kamu sudah sampai di bab pembahasan terakhir buku ini, jadi coba luangkan satu detik untuk melihat ke belakang. Saat pertama membuka buku ini, kamu mungkin membawa satu pertanyaan yang sudah lama mengganjal: kenapa ya, niatku kuat tapi kebiasaanku tetap tidak berubah? Sekarang kamu tidak lagi membawa pertanyaan itu dalam bentuk kebingungan. Kamu membawa sesuatu yang jauh lebih berguna: seperangkat alat yang diuji di laboratorium dan di lapangan, ditambah satu cara pandang yang mungkin belum pernah kamu pakai sebelumnya.
 
-Modul ini tidak memperkenalkan topik baru yang harus dicerna dari nol. Tugasnya lebih sederhana dan lebih penting: merapikan semua yang sudah kamu pelajari menjadi satu tatanan yang bisa kamu pegang kapan pun kamu butuhkan, lalu menambahkan satu lapisan terakhir yang mengubah segalanya. Lapisan yang membuat perubahan tidak lagi terasa seperti pekerjaan, melainkan seperti dirimu.
+Bagian penutup ini tidak memperkenalkan topik baru yang harus dicerna dari nol. Tugasnya lebih sederhana dan lebih penting: merapikan semua yang sudah kamu pelajari menjadi satu tatanan yang bisa kamu pegang kapan pun kamu butuhkan, lalu menambahkan satu lapisan terakhir yang mengubah segalanya. Lapisan yang membuat perubahan tidak lagi terasa seperti pekerjaan, melainkan seperti dirimu.
 
 ### Satu tatanan, bukan tumpukan trik
 
@@ -46170,7 +46022,7 @@ Sepanjang buku ini kamu sudah mengumpulkan banyak potongan. Mari kita rakit menj
 
 Mulai dari pemahaman. Kamu tahu sekarang bahwa kebiasaan adalah loop: pemicu, rutinitas, imbalan. Kamu tahu loop itu tersimpan rapi di basal ganglia, berjalan sebagai satu "chunk" aksi yang terkompilasi, dan mengendalikan sekitar 43 persen perilaku harian dalam salah satu studi Wood, Quinn dan Kashy, sering kali sambil kepalamu memikirkan hal lain sama sekali. Kamu juga tahu dari Gardner bahwa kebiasaan itu bekerja sebagai proses pemicuan impuls: konteks memicu, impuls muncul. Artinya, kegagalanmu selama ini bukan kelemahan karakter, melainkan mesin otomatis yang bekerja sebagaimana dirancang.
 
-Lalu pengelolaan. Kamu tahu bahwa menghambat impuls dengan kekuatan kemauan itu mahal secara kognitif, dan bahwa niat sekuat apa pun hanya berdampak kecil pada perilaku, temuan Webb dan Sheeran yang kita bedah di modul awal. Karena itu yang kamu kelola bukan kekuatan kemauan, melainkan hal-hal di sekitarnya: konteks dan lingkungan yang memancing, friction yang kamu pasang atau kamu lepas, jadwal pelaksanaan yang kamu rinci lewat rencana "jika situasi Y, maka aku akan melakukan X" yang terbukti berdampak medium-besar dalam meta-analisis Gollwitzer dan Sheeran, serta momen mulai yang kamu pilih dengan sadar, entah itu Senin, awal tahun, atau titik perubahan hidup yang membuka jendela segar.
+Lalu pengelolaan. Kamu tahu bahwa menghambat impuls dengan kekuatan kemauan itu mahal secara kognitif, dan bahwa niat sekuat apa pun hanya berdampak kecil pada perilaku, temuan Webb dan Sheeran yang kita bedah di bab awal. Karena itu yang kamu kelola bukan kekuatan kemauan, melainkan hal-hal di sekitarnya: konteks dan lingkungan yang memancing, friction yang kamu pasang atau kamu lepas, jadwal pelaksanaan yang kamu rinci lewat rencana "jika situasi Y, maka aku akan melakukan X" yang terbukti berdampak medium-besar dalam meta-analisis Gollwitzer dan Sheeran, serta momen mulai yang kamu pilih dengan sadar, entah itu Senin, awal tahun, atau titik perubahan hidup yang membuka jendela segar.
 
 Kemudian penggantian. Kamu tahu kebiasaan lama tidak bisa dihapus dari otak, tapi bisa ditaklukkan lewat aturan emas Duhigg: pertahankan pemicu dan imbalannya, ganti rutinitasnya. Dan kamu tahu waktu itu bukan mitos 21 hari, melainkan kurva asimtotik dengan median 66 hari dan rentang yang sangat lebar.
 
@@ -46180,9 +46032,9 @@ Semua itu adalah tatanan teknis yang utuh. Tapi ada satu pertanyaan yang belum t
 
 Jawabannya, menurut James Clear, bukan soal disiplin yang lebih besar, melainkan soal identitas. Kebanyakan orang mencoba mengubah perilaku dengan bertanya "apa yang harus aku lakukan". Padahal ada lapisan yang lebih dalam: "siapa orang yang aku yakini diriku".
 
-Clear menyebutnya identity-based habits, dan metaforanya sederhana tapi tajam: setiap aksi kecil yang kamu lakukan adalah satu suara untuk jenis orang yang ingin kamu menjadi. Membaca satu halaman adalah satu suara untuk menjadi pembaca. Satu sesi olahraga singkat adalah satu suara untuk menjadi orang yang peduli pada tubuhnya. Menutup aplikasi yang membuang waktumu adalah satu suara untuk menjadi orang yang memegang kendali atas perhatiannya.
+Clear menyebutnya identity-based habits, dan metaforanya sederhana tapi tajam: setiap aksi kecil yang kamu lakukan adalah satu suara untuk jenis orang yang kamu inginkan. Membaca satu halaman adalah satu suara untuk menjadi pembaca. Satu sesi olahraga singkat adalah satu suara untuk menjadi orang yang peduli pada tubuhnya. Menutup aplikasi yang membuang waktumu adalah satu suara untuk menjadi orang yang memegang kendali atas perhatiannya.
 
-Satu suara sekecil apa pun tidak mengubah apa-apa. Tapi suara-suara itu menumpuk, dan identitas lahir dari bukti yang menumpuk. Ibarat kotak suara yang menerima suara satu per satu, awalnya sunyi, lalu makin lama makin jelas nada yang terbentuk. Suatu saat, ketika buktinya cukup banyak, sesuatu berbalik: orang yang berhenti merokok tidak lagi "sedang berusaha berhenti merokok", dia bukan perokok. Orang yang menulis setiap pagi tidak lagi "lagi coba-coba menulis", dia penulis. Kebiasaan itu berhenti terasa seperti pekerjaan yang harus dikerjakan, dan mulai terasa seperti diriku.
+Satu suara sekecil apa pun tidak mengubah apa-apa. Tapi suara-suara itu menumpuk, dan identitas lahir dari bukti yang menumpuk. Ibarat kotak suara yang menerima suara satu per satu, awalnya sunyi, lalu makin lama makin jelas nada yang terbentuk. Suatu saat, ketika buktinya cukup banyak, sesuatu berbalik: orang yang berhenti merokok tidak lagi "sedang berusaha berhenti merokok", dia bukan perokok. Orang yang menulis setiap pagi tidak lagi "lagi coba-coba menulis", dia penulis. Kebiasaan itu berhenti terasa seperti pekerjaan yang harus dikerjakan, dan mulai terasa seperti dirinya sendiri.
 
 Inilah alasan teknis kenapa lapisan identitas diletakkan paling akhir tapi paling menentukan. Tatanan teknis yang kita rakit di atas itulah yang memproduksi bukti-bukti kecil itu secara andal. Konteks yang dirapikan membuat aksi muncul. Friction yang direduksi membuat aksi terasa ringan. Rencana "jika-maka" membuat aksi otomatis. Setiap hari tatanan itu bekerja, satu suara baru masuk ke kotak suara. Identitas bukan pengganti strategi, dia adalah hasil akumulasi dari strategi yang dijalankan.
 
@@ -46200,14 +46052,11 @@ Satu lagi. Momen perubahan hidup akan datang lagi di hidupmu, entah pindah kota,
 
 Perjalanan buku ini bisa dirangkum dalam beberapa gagasan yang saling menopang:
 
-- Kebiasaan adalah loop pemicu, rutinitas, dan imbalan yang dijalankan otak sebagai mesin pengotomat, dan hampir separuh tindakan harianmu berjalan lewat jalur ini tanpa banyak pikiran.
-- Niat itu nyata tapi tidak cukup, karena kebiasaan bekerja sebagai proses pemicuan impuls yang hanya bisa dikendalikan lewat pengelolaan, bukan tekanan kemauan semata.
-- Kebiasaan lama tidak bisa dihapus, tapi bisa diganti: pertahankan pemicu dan imbalannya, perbarui rutinitasnya.
-- Konteks, friction, rencana "jika-maka", dan momen mulai adalah empat tuas yang bisa kamu putar setiap hari, jauh lebih andal daripada menunggu semangat datang.
-- Waktu sebenarnya itu median 66 hari dengan rentang 18 sampai 254 hari, berbentuk kurva yang melambat di tengah jalan, dan satu hari gagal tidak mengembalikanmu ke nol.
-- Lapisan terakhirnya adalah identitas: setiap aksi kecil adalah satu suara untuk orang yang ingin kamu menjadi, dan bukti yang menumpuk itulah yang akhirnya membuat kebiasaan terasa seperti dirimu sendiri.
+- Kebiasaan adalah loop pemicu, rutinitas, dan imbalan yang dijalankan otak sebagai mesin pengotomat; niat itu nyata tapi tidak cukup, jadi yang kamu kelola adalah konteks, friction, rencana "jika-maka", dan momen mulai.
+- Kebiasaan lama tidak bisa dihapus, tapi bisa diganti, sedangkan kebiasaan baru butuh waktu median 66 hari dengan rentang 18 sampai 254 hari; satu hari gagal tidak mengembalikanmu ke nol.
+- Lapisan terakhirnya adalah identitas: setiap aksi kecil adalah satu suara untuk menjadi orang yang kamu inginkan, dan bukti yang menumpuk itulah yang akhirnya membuat kebiasaan terasa seperti dirimu sendiri.
 
-Kalau sampai halaman ini kamu benar-benar membaca dan mencerna sebelas modul, itu sendiri sudah satu suara: suara untuk menjadi orang yang memilih memahami dulu sebelum mengubah. Itu bukan hal kecil, dan usahamu sampai sini patut dihormati. Kalau ingin menelusuri lebih jauh setiap studi yang menjadi fondasi buku ini, semua sumbernya menunggumu di bab Referensi.
+Kalau sampai halaman ini kamu benar-benar membaca dan mencerna sebelas bab, itu sendiri sudah satu suara: suara untuk menjadi orang yang memilih memahami dulu sebelum mengubah. Itu bukan hal kecil, dan usahamu sampai sini patut dihormati. Kalau ingin menelusuri lebih jauh setiap studi yang menjadi fondasi buku ini, semua sumbernya menunggumu di bab Referensi.
 
 
 <!-- Chapter: 12_referensi -->
@@ -46237,8 +46086,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47526,8 +47375,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48408,8 +48257,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48429,7 +48278,7 @@ VALUES (
 
 ## Uang dan Pertanyaan Tua tentang Kebahagiaan
 
-Coba perhatikan pola yang berulang di sekitar kita. Ada orang yang rela lembur sampai larut malam, mengambil proyek ekstra, dan memangkas liburan, semuanya demi satu alasan yang ia ucapkan dengan lantang: supaya bahagia. Lalu suatu hari kamu bertanya, "berapa sih angka yang membuat kamu merasa cukup?" Jawabannya hampir selalu sama, dan biasanya diucapkan sambil tersenyum malu, "sedikit lagi." Kalau gajinya naik dua juta, garis cukup itu pindah ke lima juta. Kalau lima juta tercapai, ia melirik teman satu kantornya yang baru dipromosikan, dan garisnya mundur lagi. Ia berlari mengejar uang demi bahagia, tapi garis finis yang ia kejar selalu mundur beberapa langkah tepat saat ia merasa sudah hampir sampai.
+Di sekitar kita ada saja orang yang rela lembur sampai larut malam, mengambil proyek ekstra, dan memangkas liburan demi satu alasan: supaya bahagia. Lalu suatu hari kamu bertanya, "berapa sih angka yang membuat kamu merasa cukup?" Jawabannya hampir selalu sama, dan biasanya diucapkan sambil tersenyum malu, "sedikit lagi." Kalau gajinya naik dua juta, garis cukup itu pindah ke lima juta. Kalau lima juta tercapai, ia melirik teman satu kantornya yang baru dipromosikan, dan garisnya mundur lagi. Ia berlari mengejar uang demi bahagia, tapi garis finis yang ia kejar selalu mundur beberapa langkah tepat saat ia merasa sudah hampir sampai.
 
 Inilah pertanyaan tua yang menjadi akar seluruh buku ini: apakah uang membeli kebahagiaan?
 
@@ -48449,12 +48298,12 @@ Jadi kalau kedua jawaban populer itu sama-sama goyah, jawaban yang sebenarnya ap
 
 Buku ini berdiri di satu posisi yang mungkin terdengar kurang dramatis, tapi paling jujur: **uang terbukti berhubungan dengan kesejahteraan, namun hubungannya tidak sederhana**. Ini bukan sikap mengambang. Kesimpulan ini lahir dari puluhan tahun riset ekonomi dan psikologi yang akan kita telusuri bersama.
 
-Bukti empirisnya berlimpah, dan beberapa nama sering muncul di awal percakapan. Ekonom Daniel Kahneman bersama Angus Deaton meneliti ratusan ribu responden di Amerika Serikat dan pada 2010 melaporkan bahwa rasa bahagia sehari-hari berhenti membaik di sekitar penghasilan 75 ribu dolar per tahun. Lalu peneliti Matthew Killingsworth (2021) memakai cara yang berbeda, mengecek suasana hati responden lewat ponsel secara acak sepanjang hari, dan menemukan kebahagiaan terus naik melewati angka itu. Pada 2023, dua peneliti yang hasilnya saling bertolak belakang itu akhirnya duduk bersama dan menyimpulkan sesuatu yang lebih halus: bagi sebagian besar orang kebahagiaan memang terus naik seiring penghasilan, tapi bagi kelompok yang paling tertekan secara finansial, kenaikan uang berhenti berkhasiat di satu titik.
+Bukti empirisnya berlimpah, dan perdebatannya hidup. Daniel Kahneman bersama Angus Deaton meneliti ratusan ribu responden di Amerika Serikat dan pada 2010 melaporkan bahwa rasa bahagia sehari-hari berhenti membaik di sekitar penghasilan 75 ribu dolar per tahun, sementara Matthew Killingsworth (2021), yang mengecek suasana hati responden lewat ponsel secara acak sepanjang hari, menemukan kebahagiaan terus naik melewati angka itu. Pada 2023, dua peneliti yang hasilnya saling bertolak belakang itu akhirnya duduk bersama dan menyimpulkan sesuatu yang lebih halus: bagi sebagian besar orang kebahagiaan memang terus naik seiring penghasilan, tapi bagi kelompok yang paling tidak bahagia, kenaikan uang berhenti berkhasiat di satu titik.
 
 Selain soal berapa angkanya, ada beberapa lapisan yang membuat hubungan uang dan kebahagiaan berliku:
 
 - **Ada plateau.** Kenaikan penghasilan tidak selalu menghasilkan kenaikan kebahagiaan dalam besaran yang sama. Semakin tinggi angkanya, semakin kecil efek tambahannya.
-- **Ada relatifitas.** Kita jarang menilai gaji dari angkanya saja. Gaji lima belas juta terasa enak, sampai tetangga sebelah memarkir mobil baru dan feed teman penuh foto liburan. Perbandingan sosial diam-diam mengubah batas rasa cukup kita.
+- **Ada relativitas.** Kita jarang menilai gaji dari angkanya saja. Gaji lima belas juta terasa enak, sampai tetangga sebelah memarkir mobil baru dan feed teman penuh foto liburan. Perbandingan sosial diam-diam mengubah batas rasa cukup kita.
 - **Ada adaptasi.** Mobil baru terasa luar biasa di bulan pertama, lalu diam-diam berubah menjadi alat transportasi biasa. Para psikolog menyebut pola ini **adaptasi hedonis**.
 - **Ada cara membelanjakan.** Elizabeth Dunn, Lara Aknin, dan Michael Norton (2008) menunjukkan bahwa orang yang membelanjakan uang untuk orang lain melaporkan kebahagiaan yang lebih tinggi dibanding yang membelanjakannya semata untuk diri sendiri. Jadi bukan hanya berapa yang masuk, tapi juga ke mana uang itu pergi.
 
@@ -48462,9 +48311,9 @@ Empat lapisan inilah yang akan menjadi tulang punggung buku ini. Masing-masing p
 
 ### Dua pertanyaan, dua alat ukur
 
-Perhatikan bedanya dua pertanyaan ini. "Berapa penghasilanmu?" punya jawaban yang presisi, tercetak rapi di slip gaji, bisa dihitung sampai rupiah terakhir. "Seberapa bahagia kamu?" tidak punya slip. Tidak ada alat yang membunyikan bunyi titik saat kamu merasa puas dengan hidupmu.
+Bandingkan dua pertanyaan ini. "Berapa penghasilanmu?" punya jawaban yang presisi, tercetak rapi di slip gaji, bisa dihitung sampai rupiah terakhir. "Seberapa bahagia kamu?" tidak punya slip. Tidak ada alat yang berbunyi saat kamu merasa puas dengan hidupmu.
 
-Ketidaksamaan inilah yang selama puluhan tahun membuat debat ini berputar di tempat. Satu pihak mengutip pengalaman pribadi, pihak lain membalas dengan pengalaman pribadi yang berbeda, dan tidak ada wasit. Ilmu masuk justru karena menuntun kita menyiapkan wasit itu: kuesioner yang teruji, pencatatan suasana hati secara langsung, dan data jutaan orang dari berbagai negara. Tanpa alat ukur, "apakah uang membeli kebahagiaan" hanyalah adu opini. Dengan alat ukur, ia menjadi pertanyaan yang bisa dijawab, dikoreksi, lalu dijawab ulang dengan lebih baik.
+Ketidaksamaan inilah yang selama puluhan tahun membuat debat ini berputar di tempat. Satu pihak mengutip pengalaman pribadi, pihak lain membalas dengan pengalaman pribadi yang berbeda, dan tidak ada wasit. Ilmu menyediakan wasit itu: kuesioner yang teruji, pencatatan suasana hati secara langsung, dan data jutaan orang dari berbagai negara. Tanpa alat ukur, "apakah uang membeli kebahagiaan" hanyalah adu opini. Dengan alat ukur, ia menjadi pertanyaan yang bisa dijawab, dikoreksi, lalu dijawab ulang dengan lebih baik.
 
 ### Buku ini bukan ceramah kaya atau miskin
 
@@ -48478,23 +48327,22 @@ Peta perjalanannya kira-kira begini:
 - Kita masuk ke sisi yang jarang dibahas: **kelangkaan finansial** dan apa yang terjadi pada pikiran saat uang menipis (bab 8).
 - Bagian akhir kita habiskan untuk hal yang paling bisa kamu kontrol: **pengalaman versus barang** (bab 9), **belanja prososial dan pengaturan waktu** (bab 10), serta **materialisme** (bab 11).
 
-Satu hal yang membuat buku ini berbeda dari blog motivasi: setiap klaim di sini bisa ditelusuri balik ke risetnya. Kalau buktinya kuat, akan kubilang kuat. Kalau buktinya berbelit dan saling bertentangan, kamu akan dibawa melihat pertentangannya, bukan disembunyikan.
+Satu hal yang membuat buku ini berbeda dari blog motivasi: setiap klaim di sini bisa ditelusuri balik ke risetnya. Kalau buktinya kuat, akan kusebut kuat. Kalau buktinya berbelit dan saling bertentangan, kamu akan dibawa melihat pertentangannya, bukan disembunyikan.
 
 ## Benang Merah
 
 - Pertanyaan "apakah uang membeli kebahagiaan" punya dua jawaban populer yang sama-sama terlalu rapi, dan keduanya sama-sama keliru.
 - Posisi buku ini: uang memang berhubungan dengan kesejahteraan, tapi hubungannya berliku karena ada plateau, perbandingan sosial, adaptasi, dan perbedaan cara membelanjakan.
-- Membahas hubungan ini secara serius butuh alat ukur, karena "seberapa bahagia kamu" tidak tertulis di slip gaji.
 - Buku ini bukan nasihat kaya atau miskin, melainkan peta bukti ilmiah yang menyerahkan keputusan akhir kepadamu.
 
-Tapi sebelum kita menakar seberapa besar pengaruh uang, ada soal yang lebih dulu mengganjal: kebahagiaan itu sebenarnya diukur dengan apa, kalau ia tidak pernah punya satuan seperti kilogram atau rupiah? Bab berikutnya mengajakmu masuk ke dapur para peneliti, tempat perasaan manusia ditimbang dengan kuesioner teruji, aplikasi ponsel, dan jutaan data.
+Tapi sebelum kita menakar seberapa besar pengaruh uang, ada soal yang lebih dulu mengganjal: kebahagiaan itu sebenarnya diukur dengan apa, kalau ia tidak pernah punya satuan seperti kilogram atau rupiah?
 
 
 <!-- Chapter: 02_bagaimana-ilmu-mengukur-kebahagiaan -->
 
 ## Bagaimana Ilmu Mengukur Kebahagiaan
 
-Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar otomatis? Jangan mikir lama, jawab dari perasaan. Angka itu muncul dalam hitungan detik, padahal pertanyaannya menyangkut hampir semua hal: pekerjaan, keluarga, kesehatan, mimpi yang belum tercapai, sampai kemacetan yang kamu lewati tiap pagi. Bagaimana satu angka bisa mewakili seluruh hidup seseorang?
+Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar otomatis? Jangan berpikir lama, jawab dari perasaan. Angka itu muncul dalam hitungan detik, padahal pertanyaannya menyangkut hampir semua hal: pekerjaan, keluarga, kesehatan, mimpi yang belum tercapai, sampai kemacetan yang kamu lewati tiap pagi. Bagaimana satu angka bisa mewakili seluruh hidup seseorang?
 
 Pertanyaan itulah yang menggantung di akhir bab sebelumnya, dan bab ini hadir untuk menjawabnya. Para peneliti memang serius mengukur kebahagiaan, tapi mereka tidak memperlakukannya sebagai satu benda padat. Mereka membedahnya menjadi beberapa lapis, lalu mengukur tiap lapis dengan alat yang berbeda. Memahami alat ukurnya itu penting, karena begitu masuk ke topik utama buku ini, uang, hampir semua perdebatan sengit lahir dari alat ukur yang tak sengaja dicampuradukkan.
 
@@ -48528,25 +48376,23 @@ Sebelum kamu bergumam, tahan dulu dua hal. Pertama, angka ini adalah rata-rata d
 
 ### Saat dua penggaris yang beda dipakai silang
 
-Di sinilah letak pentingnya bab ini. Banyak klaim populer soal "uang membuat bahagia" atau "uang tidak ada hubungannya dengan kebahagiaan" sebenarnya keliru bukan karena datanya salah, tapi karena membandingkan dua jenis ukuran yang berbeda: penilaian hidup secara keseluruhan di satu sisi, dan perasaan harian di sisi lain. Keduanya sah, keduanya ilmiah, tapi keduanya menjawab pertanyaan yang tidak sama.
+Pembedaan ini penting karena banyak klaim populer soal "uang membuat bahagia" atau "uang tidak ada hubungannya dengan kebahagiaan" sebenarnya keliru bukan karena datanya salah, tapi karena membandingkan dua jenis ukuran yang berbeda: penilaian hidup secara keseluruhan di satu sisi, dan perasaan harian di sisi lain. Keduanya sah, keduanya ilmiah, tapi keduanya menjawab pertanyaan yang tidak sama.
 
-Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu bertabur mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab empat.
+Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu bertabur mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab 3.
 
-Ada juga jebakan psikologis yang menipu imajinasi kita. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrian, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
+Ada juga jebakan psikologis yang menipu imajinasi kita. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
 
-> Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrian kamar mandi panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
+> Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrean kamar mandi yang panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
 
-Focusing illusion ini baru pembuka, kita akan bedah lebih dalam di bab ketujuh. Untuk sekarang cukup satu pesan: cara mengukur menentukan apa yang kamu lihat, dan apa yang kamu lihat menentukan kesimpulan yang kamu tarik.
+Focusing illusion ini baru pembuka, kita akan bedah lebih dalam di bab 7. Untuk sekarang cukup satu pesan: cara mengukur menentukan apa yang kamu lihat, dan apa yang kamu lihat menentukan kesimpulan yang kamu tarik.
 
 ## Inti Pembahasan
 
-- Kebahagiaan dalam riset disebut **subjective well-being** dan memang bisa diukur dengan alat teruji, bukan sekadar asal bertanya.
-- Menurut kerangka Ed Diener, ia punya dua komponen yang berbeda: kepuasan hidup sebagai penilaian kognitif atas hidup secara keseluruhan, dan keseimbangan emosi positif-negatif sebagai pengalaman afektif harian.
-- Tiga alat utamanya: tangga Cantril untuk penilaian hidup, pertanyaan emosi kemarin untuk perasaan harian, dan experience sampling untuk pencatatan real-time lewat aplikasi.
-- Data World Happiness Report 2025 menempatkan Finlandia di puncak dengan skor sekitar 7,8 dan Indonesia di peringkat 83 dengan skor sekitar 5,4, angka yang perlu dibaca sebagai gambaran besar berbasis tangga Cantril.
+- Kebahagiaan dalam riset disebut **subjective well-being**, dan kerangka Ed Diener membaginya menjadi dua komponen: kepuasan hidup sebagai penilaian kognitif atas hidup secara keseluruhan, dan keseimbangan emosi positif-negatif sebagai pengalaman afektif harian.
+- Tangga Cantril menangkap penilaian hidup, sedangkan pertanyaan emosi kemarin dan experience sampling menangkap perasaan harian; skor World Happiness Report 2025 berbasis tangga Cantril dan perlu dibaca sebagai gambaran besar.
 - Banyak perdebatan "uang versus kebahagiaan" memanas karena dua jenis ukuran yang berbeda dicampuradukkan, sementara focusing illusion dari Kahneman dkk. (2006) menjelaskan kenapa manfaat uang mudah dilebih-lebihkan saat kita membayangkannya.
 
-Sekarang alat ukurnya sudah ada di tangan kamu. Di bab berikutnya, alat-alat ini akhirnya dipakai sungguhan: kita akan menatap bukti-bukti riset dari berbagai negara dan mencari tahu, seberapa besar sebenarnya pengaruh uang terhadap kesejahteraan, dan di titik mana pengaruh itu mulai melandai.
+Sekarang alat ukurnya sudah ada di tangan kamu. Saatnya memakainya sungguhan untuk menakar seberapa besar sebenarnya pengaruh uang terhadap kesejahteraan, dan di titik mana pengaruh itu mulai melandai.
 
 
 <!-- Chapter: 03_uang-dan-kesejahteraan-berjalan-beriringan -->
@@ -48565,7 +48411,7 @@ Jadi kalau ada yang bilang "orang kaya dan orang miskin sama-sama bahagia kok", 
 
 ### Naik, tapi Makin Landai
 
-Di sini bagian yang paling menarik. Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap dolar tambahan membeli kebahagiaan sedikit lebih sedikit daripada dolar sebelumnya. Konsekuensinya menarik sekali: yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
+Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap dolar tambahan membeli kebahagiaan sedikit lebih sedikit daripada dolar sebelumnya. Akibatnya, yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
 
 > Bayangkan dua karyawan. Yang pertama berpenghasilan 3 juta rupiah per bulan, lalu gajinya naik menjadi 6 juta. Baginya perubahan terasa raksasa: bisa pindah ke tempat tinggal yang layak, tabungan mulai tumbuh, tanggal tua tidak lagi menakutkan. Yang kedua berpenghasilan 300 juta, lalu naik menjadi 306 juta. Dia mungkin tersenyum sebentar, tapi tidak ada yang benar-benar bergeser dari hidupnya. Kenaikan yang terasa raksasa bagi yang satu terasa nyaris tanpa suara bagi yang lain.
 
@@ -48574,7 +48420,7 @@ Di sini bagian yang paling menarik. Hubungan uang dan kebahagiaan tidak berbentu
 Kalau kamu suka bahasa matematika, seluruh cerita di atas bisa dipadatkan menjadi satu baris:
 
 <div>
-$$ K = a + b \, \ln(P) $$
+$$ K = a + b \ln(P) $$
 </div>
 
 Cara membacanya dengan bahasa awam begini. K adalah tingkat kesejahteraan seseorang, sedangkan P adalah pendapatannya. Huruf a adalah titik tolak, semacam kesejahteraan dasar sebelum uang bekerja. Huruf b bernilai positif, dan itulah tanda garisnya selalu menanjak: pendapatan yang lebih tinggi tidak pernah berarti kesejahteraan yang lebih rendah. Sementara ln adalah logaritma, cara matematika menangkap pola "yang penting melipatgandakan, bukan sekadar menambah". Berkat kelengkungan logaritma itulah langkah kenaikan makin kecil di level pendapatan tinggi, tapi tidak pernah benar-benar berhenti.
@@ -48585,27 +48431,24 @@ Justru dari kerangka sederhana ini temuan Killingsworth terasa mengejutkan. Kurv
 
 Ada dua situasi yang perlu kamu pahami secara berbeda. Di pendapatan rendah, uang bekerja sebagai pembebas. Rupiah tambahan langsung berubah menjadi rasa lega: sewa terbayar, anak sekolah dengan tenang, sakit tidak otomatis berarti utang baru. Uang menghapus masalah yang nyata dan menyita pikiran, dan itulah kenapa efeknya terasa begitu besar.
 
-Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap membeli sesuatu: lebih banyak pilihan, kendali atas waktu, bantalan saat keadaan buruk datang. Dia tidak lagi menghapus masalah hidup, hanya menghaluskan gesekannya. Karena itu temuan ini sama sekali bukan "uang tidak penting". Data justru berkata uang penting di semua level, hanya intensitasnya berubah. Yang keliru justru dua kutub ekstrem: klaim bahwa uang tak ada hubungannya dengan bahagia, dan klaim bahwa bahagia bisa dibeli penuh dengan uang.
+Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap membeli sesuatu: lebih banyak pilihan, kendali atas waktu, bantalan saat keadaan buruk datang. Ia tidak lagi menghapus masalah hidup, hanya menghaluskan gesekannya. Karena itu temuan ini sama sekali bukan "uang tidak penting". Data justru berkata uang penting di semua level, hanya intensitasnya berubah. Yang keliru justru dua kutub ekstrem: klaim bahwa uang tak ada hubungannya dengan bahagia, dan klaim bahwa bahagia bisa dibeli penuh dengan uang.
 
 ## Poin Kunci
 
 - Arah hubungannya jelas: pendapatan dan kesejahteraan berjalan beriringan, positif dan konsisten, dari review Diener dan Biswas-Diener (2002) sampai 1,7 juta laporan real-time Killingsworth (2021).
 - Bentuknya logaritmik: kenaikan proporsional yang sama memberi lompatan kesejahteraan yang mirip, sehingga tiap rupiah tambahan membeli kebahagiaan lebih sedikit dari rupiah sebelumnya, tapi tidak pernah nol.
 - Di pendapatan rendah, uang membebaskan kamu dari masalah nyata. Di pendapatan tinggi, efeknya makin halus tapi tetap ada.
-- Dalam data Killingsworth, kurvanya naik terus tanpa plafon yang terlihat, bahkan jauh di atas 75.000 dolar per tahun.
 
-Nah, di sinilah cerita jadi menegangkan. Kalau kurvanya naik terus tanpa plafon, dari mana muncul angka ajaib 75.000 dolar yang bertahun-tahun dikutip sebagai "titik puas" kebahagiaan? Bab selanjutnya membongkar kontroversi plateau itu: asal-usulnya, kenapa riset lain menemukan batas, dan bagaimana dua hasil besar ini bisa berdamai di ruang yang sama.
+Kalau dalam data Killingsworth kurvanya naik terus tanpa plafon yang terlihat, dari mana muncul angka ajaib 75.000 dolar yang bertahun-tahun dikutip sebagai "titik puas" kebahagiaan?
 
 
 <!-- Chapter: 04_kontroversi-plateau-75-ribu-dolar -->
 
 ## Kontroversi Plateau 75 Ribu Dolar
 
-Bayangkan kamu membaca dua berita di tengah riuhnya sorotan tentang uang dan kebahagiaan. Headline pertama, tahun 2010: "Kebahagiaan berhenti naik saat pendapatan menyentuh 75.000 dolar per tahun." Headline kedua, tahun 2021: "Kesejahteraan terus meningkat tanpa plafon, seberapa pun penghasilannya."
+Bayangkan kamu membaca dua berita tentang uang dan kebahagiaan yang judulnya saling membantah, padahal keduanya berangkat dari riset serius. Headline pertama, tahun 2010: "Kebahagiaan berhenti naik saat pendapatan menyentuh 75.000 dolar per tahun." Headline kedua, tahun 2021: "Kesejahteraan terus meningkat tanpa plafon, seberapa pun penghasilannya."
 
-Kedua headline itu tidak ditulis oleh tabloid yang sedang kehabisan bahan. Keduanya lahir dari penelitian berskala besar yang dimuat di jurnal ilmiah papan atas yang sama, PNAS (Proceedings of the National Academy of Sciences), tentang pertanyaan yang persis sama. Dua tim peneliti serius, dua dataset raksasa, dua kesimpulan yang saling bertolak belakang.
-
-Kalau kurva kesejahteraan memang naik terus tanpa plafon seperti di bab sebelumnya, dari mana asalnya angka ajaib 75.000 dolar yang dikutip di mana-mana? Bab ini membedah kisah bagaimana sains menyelesaikan perselisihan data paling terkenal dalam topik uang dan kebahagiaan.
+Penelitian di balik keduanya dimuat di jurnal ilmiah papan atas yang sama, PNAS (Proceedings of the National Academy of Sciences), tentang pertanyaan yang persis sama. Dua tim peneliti serius, dua dataset raksasa, dua kesimpulan yang saling bertolak belakang.
 
 ### Satu survei 2010, dua wajah kesejahteraan
 
@@ -48616,11 +48459,11 @@ Dari data raksasa itu muncul temuan ganda yang sering disederhanakan sampai mele
 1. **Penilaian hidup**, yaitu bagaimana seseorang menilai hidupnya secara keseluruhan lewat pertanyaan tangga Cantril, terus naik mengikuti pendapatan tanpa titik jenuh. Makin tinggi pendapatan, makin tinggi pula orang menempatkan dirinya di tangga hidup.
 2. **Kesejahteraan emosional**, yaitu kualitas perasaan yang dialami kemarin, seperti senang, stres, khawatir, dan sedih, berhenti membaik di sekitar 75.000 dolar per tahun pada harga 2010. Setelah titik itu, rata-rata perasaan harian tidak lagi ikut membaik.
 
-Jadi temuan aslinya sebenarnya jauh lebih halus daripada slogan "uang tidak membuat bahagia". Kutub yang menyebar luas dari studi ini berbunyi: uang membeli kepuasan terhadap hidup, tapi tidak membeli perasaan bahagia. Kepuasan naik tanpa batas, sementara suasana hati harian punya langit-langit.
+Jadi temuan aslinya sebenarnya jauh lebih halus daripada slogan "uang tidak membuat bahagia". Ringkasan yang menyebar luas dari studi ini berbunyi: uang membeli kepuasan terhadap hidup, tapi tidak membeli perasaan bahagia. Kepuasan naik tanpa batas, sementara suasana hati harian punya langit-langit.
 
 > Ibaratnya hidupmu punya dua laporan berbeda. Yang satu seperti nilai portofolio investasi, semakin kamu menabung semakin tinggi angkanya tanpa henti. Yang satu seperti kualitas tidur, setelah kebutuhan dasarnya terpenuhi, gaji tambahan tidak otomatis membuat malammu lebih nyenyak.
 
-Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide seminar, dan ribuan artikel dengan kalimat serempak: "Sudah, di titik ini uang berhenti menambah kebahagiaan." Yang jarang disebutkan, peneliti aslinya tidak pernah bicara sekuat itu, dan temuan ini belum tentu satu-satunya kebenaran.
+Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide seminar, dan ribuan artikel dengan kalimat serempak: "Sudah, di titik ini uang berhenti menambah kebahagiaan." Yang jarang disebutkan, peneliti aslinya tidak pernah bicara sekuat itu.
 
 ### Kebalikan yang mengguncang tahun 2021
 
@@ -48630,13 +48473,11 @@ Skala penelitiannya tidak main-main: lebih dari 33.000 orang dewasa di Amerika S
 
 Hasilnya justru kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
 
-Dua penelitian besar. Jurnal yang sama. Pertanyaan yang sama. Dua kesimpulan yang tidak mungkin berdua-duanya benar pada saat yang bersamaan, setidaknya itu yang tampak dari luar.
-
 ### Ketika dua kubu duduk bersama
 
 Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara kerja sains. Dua peneliti itu tidak berbalas status di media sosial atau saling membongkar kelemahan di wawancara. Mereka justru membentuk kolaborasi adversarial, bersama Barbara Mellers sebagai penengah yang netral, dan tahun 2023 hasilnya dimuat di PNAS.
 
-Kolaborasi adversarial adalah format di mana dua kubu yang berseberangan sepakat membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode analisis pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan menentukan siapa yang menang, tapi menemukan titik di mana klaim keduanya bisa dijelaskan sekaligus.
+Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
 
 Kesimpulannya menyelesaikan misteri itu dengan jawaban yang tidak diduga banyak orang:
 
@@ -48663,15 +48504,13 @@ timeline
 
 Pelajaran terpentingnya justru di luar angka-angka: uang tidak bisa memperbaiki kesedihan yang akarnya bukan uang. Kehilangan orang tersayang, depresi klinis, kesepian yang dalam. Untuk luka-luka seperti ini tambahan gaji tidak punya khasiat, dan itu bukan berarti uang gagal, melainkan karena masalahnya memang bukan jenis yang solusinya bisa dibeli.
 
-> Anggap uang itu obat pereda nyeri. Untuk pegal biasa, dosis tambahan memang mengurangi rasa sakit. Tapi kalau sumber rasa sakitnya patah hati, menelan pil tambahan tidak menyembuhkan apa pun, dan itu bukan bukti bahwa pilnya palsu. Obatnya memang tidak dirancang untuk sakit itu.
-
 ### Kenapa dua studi bisa berpisah sejauh itu
 
-Kamu mungkin bertanya-tanya, bagaimana dua penelitian serius bisa sampai pada dua kesimpulan yang bertabrakan? Penjelasannya jujur dan tidak mistis: mereka mengukur kesejahteraan dengan cara yang berbeda. Satu mengandalkan ingatan harian tentang kemarin, satu menangkap perasaan saat itu juga lewat laporan real-time.
+Bagaimana dua penelitian serius bisa sampai pada kesimpulan yang bertabrakan? Penjelasannya tidak mistis: mereka mengukur kesejahteraan dengan cara yang berbeda. Satu mengandalkan ingatan harian tentang kemarin, satu menangkap perasaan saat itu juga lewat laporan real-time.
 
 Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi kejutan besarnya di sana: ketika data kedua studi digabung dan dianalisis dengan kedua metode, perbedaan itu ternyata menyembunyikan perbedaan antar kelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
 
-Dari sini kamu bisa membawa pulang pelajaran berpikir kritis yang lebih bernilai dari angka mana pun: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data. Sikap beginilah yang membedakan upaya serius dari perang opini di media sosial.
+Dari sini kamu bisa membawa pulang pelajaran berpikir kritis yang lebih bernilai dari angka mana pun: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data.
 
 ### Apa artinya untuk keputusanmu
 
@@ -48679,23 +48518,18 @@ Ada dua pesan praktis dari seluruh drama ini. Pertama, kalau kamu pernah membaca
 
 Kedua, kalau hidupmu terasa berat meski penghasilanmu sudah tidak kecil, temuan ini mengajakmu jujur pada diri sendiri. Mungkin sebagian masalah memang bisa diringankan oleh kondisi finansial yang lebih baik, dan itu wajar untuk diperjuangkan. Tapi mungkin pula akarnya ada di tempat lain: relasi, kesehatan, atau makna, tempat uang hanya bisa membantu, bukan menyembuhkan.
 
-Satu pertanyaan besar masih menggantung. Kalau di dalam satu negara uang tetap menambah kesejahteraan pribadi, apakah negara yang makin kaya otomatis menjadi negara yang makin bahagia? Di tingkat negara, para ekonom menemukan sesuatu yang terlihat seperti kontradiksi lain, dan itu menjadi topik bab berikutnya: paradoks Easterlin.
-
 ## Ringkasan
 
-- Studi Kahneman dan Deaton (2010, PNAS) menganalisis sekitar 450.000 respons survei harian Gallup penduduk AS dan menemukan dua hal sekaligus: penilaian hidup naik terus mengikuti pendapatan tanpa titik jenuh, tapi kesejahteraan emosional berhenti membaik di sekitar 75.000 dolar per tahun.
-- Studi Killingsworth (2021, PNAS) dengan lebih dari 33.000 orang dan 1,7 juta laporan real-time menemukan kebalikannya: kesejahteraan yang dialami terus naik melewati 75.000 dolar tanpa plateau.
-- Kolaborasi adversarial 2023 (Killingsworth, Kahneman, Mellers) menggabungkan data dan menjalankan kedua metode analisis di bawah mediator netral: untuk mayoritas, kebahagiaan terus naik bahkan di atas 100.000 dolar, tapi untuk minoritas paling tidak bahagia (sekitar 15 sampai 20 persen), kurva melandai di sekitar 100.000 dolar.
-- Uang tidak bisa memperbaiki kesedihan yang akarnya bukan uang, seperti kehilangan orang tersayang, depresi klinis, atau kesepian.
-- Sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Dua studi memberi hasil berbeda karena mengukur dengan cara berbeda, dan perbedaan itu menyembunyikan perbedaan antar kelompok orang.
-- Bagi mayoritas orang, dolar tambahan tetap menambah kesejahteraan, dengan tingkat manfaat yang makin kecil.
+Angka 75.000 dolar berasal dari kesejahteraan emosional dalam studi Kahneman dan Deaton (2010), sementara Killingsworth (2021) menemukan kesejahteraan yang dialami terus naik tanpa plateau. Kolaborasi adversarial 2023 mendamaikan keduanya: plateau itu nyata, tapi hanya pada minoritas paling tidak bahagia, sekitar 15 sampai 20 persen, dan letaknya di sekitar 100.000 dolar. Bagi kebanyakan orang, dolar tambahan masih menambah kesejahteraan dengan manfaat yang makin kecil, sedangkan kesedihan yang akarnya bukan uang tidak bisa diperbaiki dengan uang.
+
+Kalau di dalam satu negara uang tetap menambah kesejahteraan pribadi, apakah negara yang makin kaya otomatis menjadi negara yang makin bahagia?
 
 
 <!-- Chapter: 05_paradoks-easterlin-negara-kaya-belum-tentu-bahagia -->
 
 ## Paradoks Easterlin
 
-Coba perhatikan gambaran ini. Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade. Pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam dari tahun ke tahun. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
+Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade: pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
 
 Sekarang bagian yang membingungkan. Pada 1974, ekonom Richard Easterlin dari Universitas Pennsylvania menjodohkan dua jenis data yang jarang dipertemukan: catatan pertumbuhan ekonomi dan hasil survei kebahagiaan. Dari Amerika Serikat, Jepang, hingga beberapa negara Eropa, pola yang ia temukan nyaris menampar: pendapatan rata-rata naik terus, tetapi rata-rata rasa bahagia warga tidak ikut naik sebesar yang diduga. Ekonomi berlari kencang, kebahagiaan berjalan santai.
 
@@ -48752,7 +48586,7 @@ Jadi mana yang benar setelah dua kubu saling menunjuk data? Mari kita rangkai ja
 
 Klaim paling radikal, yaitu "pertumbuhan tidak membeli apa-apa bagi kebahagiaan rata-rata", tidak didukung data. Versi paradoks yang terlalu kuat itulah yang paling mudah dipatahkan.
 
-Klaim yang lebih hati-hati justru tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong, dan bab berikutnya menyediakan buktinya: ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
+Klaim yang lebih hati-hati justru tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong: di bab 6, ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
 
 ### Kenapa ini relevan untuk kita di Indonesia
 
@@ -48764,20 +48598,18 @@ Maka ajakan bab ini sederhana: kenali asumsi "makin kaya negara, makin bahagia s
 
 ## Kesimpulan Bab
 
-- Di tingkat negara, uang memang berhubungan dengan kesejahteraan: orang kaya lebih bahagia daripada orang miskin pada satu waktu, dan Stevenson serta Wolfers (2008) menemukan hubungan positif antara pertumbuhan ekonomi dan rata-rata kesejahteraan.
-- Tapi hubungan itu tidak sesederhana "ekonomi naik, semua orang bahagia". Klaim kuat yang menyatakan pertumbuhan tidak membeli apa-apa juga tidak didukung data.
-- Easterlin (1974) menjelaskan jarak antara keduanya lewat dua mesin: perbandingan sosial dan aspirasi yang ikut naik. Ketika semua orang maju bersama, posisi relatif dan standar pribadi ikut bergeser, sehingga rasa puas rata-rata tidak banyak berubah.
-- Perdebatan belum tuntas, tapi klaim yang bertahan adalah versi hati-hati: pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan perbandingan sosial.
+- Pada satu waktu orang kaya lebih bahagia daripada orang miskin, tapi Easterlin (1974) melihat rata-rata kebahagiaan nyaris diam saat pendapatan nasional naik, dan ia menjelaskannya lewat perbandingan sosial dan aspirasi yang ikut naik.
+- Stevenson dan Wolfers (2008) menemukan hubungan positif antara pertumbuhan ekonomi dan rata-rata kesejahteraan. Perdebatan belum tuntas, tapi klaim yang bertahan adalah versi hati-hati: pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan perbandingan sosial.
 - Bagi kita di Indonesia, paradoks ini mengajak mengecek asumsi bahwa hidup pasti lebih bahagia dari generasi sebelumnya hanya karena ekonomi tumbuh.
 
-Satu catatan besar dari bab ini: separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antar manusia, yaitu bagaimana kita membandingkan diri dengan orang lain. Bab berikutnya turun ke sana: ke tetangga yang gajinya naik, ke rekan kerja yang mendapat promosi, dan ke eksperimen Luttmer yang membuktikan kebahagiaan kita bisa tergerus tanpa ada yang mengambil apa pun dari kita.
+Separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antar manusia: di tetangga yang gajinya naik dan rekan kerja yang mendapat promosi.
 
 
 <!-- Chapter: 06_uang-itu-relatif-tetangga-status-dan-perbandingan -->
 
 ## Uang Itu Relatif
 
-Gaji kamu naik cukup besar tahun ini. Kamu menghitung-ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
+Gaji kamu naik cukup besar tahun ini. Kamu menghitung ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
 
 Lalu sebuah kabar kecil datang dari obrolan santai di teras: tetangga sebelah ternyata mendapat kenaikan yang lebih besar lagi. Angkamu tidak berkurang satu rupiah pun, tapi begitu mendengar itu, rasa senang yang tadi menguap begitu saja, tinggal sisa yang sulit dijelaskan: kenapa dia bisa lebih?
 
@@ -48795,11 +48627,11 @@ Paling menggigit: kenaikan penghasilan tetangga sekitar 10 persen diperkirakan m
 
 ### Perbandingan bukan penyakit moral
 
-Sebelum kamu menyimpulkan dirimu irihahan dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
+Sebelum kamu menyimpulkan dirimu iri hati dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
 
 Masalahnya, alat yang dirancang untuk mengukur satu gang kini dipaksa mengukur seluruh planet.
 
-Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluarga besar. Jumlahnya terbatas dan kamu melihat hidup mereka apa adanya, termasuk bagian berantakannya. Sekarang, aliran media sosial menampilkan versi paling mengkilap dari ribuan hidup sekaligus: liburan terbaik, rumah baru, promosi jabatan, semua dikompres dalam satu guliran tanpa babak gagalnya.
+Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluarga besar. Jumlahnya terbatas dan kamu melihat hidup mereka apa adanya, termasuk bagian berantakannya. Sekarang, aliran media sosial menampilkan versi paling mengilap dari ribuan hidup sekaligus: liburan terbaik, rumah baru, promosi jabatan, semua dikompres dalam satu guliran tanpa babak gagalnya.
 
 Permainan lamanya sama, arena barunya tidak berpinggir: alatnya masih otak zaman batu.
 
@@ -48837,14 +48669,11 @@ Ketiga pilihan ini tidak mengubah gajimu, tapi mengubah pembacaan atas gaji itu.
 
 ## Yang Perlu Kamu Ingat
 
-- Uang itu relatif: otak menilai penghasilan bukan sebagai angka yang berdiri sendiri, tapi dibaca bersama angka orang-orang di sekelilingmu.
-- Tetangga adalah bagian dari matematika kebahagiaan. Studi Luttmer (2005) menemukan orang yang tetangganya lebih kaya melaporkan kepuasan lebih rendah pada pendapatan yang sama, dan kenaikan penghasilan tetangga 10 persen merugikan kesejahteraan kira-kira sebesar turunnya penghasilan sendiri dengan tingkat serupa.
-- Perbandingan bukan penyakit moral, tapi mesin bawaan otak. Yang berubah di zaman ini adalah skalanya: pembanding yang dulu selesai di satu gang kini menumpuk menjadi ribuan versi mengkilap dalam satu guliran.
-- Sebagian nilai uang bersifat posisi. Rumah, sekolah anak, dan mobil sebagian nilainya datang dari posisinya di papan skor, dan pertumbuhan yang mengangkat semua orang bersamaan tidak menggeser posisi siapa pun. Ini salah satu penjelasan di balik paradoks Easterlin.
-- Kepuasan sering mengikuti peringkat, bukan angka. Orang kerap memilih pendapatan lebih rendah dengan posisi lebih tinggi, dan itu masuk akal kalau kepuasan dibayar dengan posisi.
-- Kontrol atas pembanding adalah keterampilan, bukan bakat. Kurangi paparan pemicu, pilih pembanding yang sehat, dan jadikan garis waktu dirimu sendiri tolok ukur utama.
+- Uang itu relatif: otak membaca penghasilanmu bersama angka orang-orang di sekelilingmu. Dalam studi Luttmer (2005), kenaikan penghasilan tetangga sekitar 10 persen diperkirakan merugikan kesejahteraan kira-kira sebesar turunnya penghasilan sendiri dengan tingkat serupa.
+- Sebagian nilai uang bersifat posisi, sehingga pertumbuhan yang mengangkat semua orang bersamaan tidak menggeser posisi relatif, salah satu penjelasan di balik paradoks Easterlin.
+- Perbandingan bukan penyakit moral, tapi mesin bawaan otak. Kamu bisa mengelolanya dengan mengurangi paparan pemicu, memilih pembanding yang sehat, dan menjadikan garis waktu dirimu sendiri tolok ukur utama.
 
-Sekarang kamu tahu satu sumber rasa kurang yang datang dari luar dirimu. Tapi ada mekanisme lain yang bekerja dari dalam: apa pun yang berhasil kamu beli, perasaan bahagianya akan memudar dengan sendirinya, lalu kamu mulai mengejar yang berikutnya. Bab berikutnya membahas mesin itu: adaptasi hedonis.
+Sekarang kamu tahu satu sumber rasa kurang yang datang dari luar dirimu. Ada pula mekanisme yang bekerja dari dalam: sebagian besar yang berhasil kamu beli, perasaan bahagianya akan memudar dengan sendirinya, lalu kamu mulai mengejar yang berikutnya.
 
 
 <!-- Chapter: 07_adaptasi-hedonis-nikmat-yang-selalu-mengendur -->
@@ -48859,7 +48688,7 @@ Tapi ketika pertanyaan itu diajukan dalam studi ilmiah, jawabannya membuat banya
 
 Fenomena ini diuji jauh sebelum era media sosial. Tahun 1978, Philip Brickman, Dan Coates, dan Ronnie Janoff-Bulman menerbitkan studi klasik di jurnal *Journal of Personality and Social Psychology*. Mereka menelusuri pemenang lotere di Illinois, orang-orang yang membawa pulang hadiah antara 50.000 sampai 1.000.000 dolar, angka yang jauh melampaui gaji tahunan kebanyakan orang.
 
-Hasilnya mengejutkan. Dibandingkan kelompok kontrol berisi orang biasa, para pemenang tidak terbukti lebih bahagia secara signifikan. Lebih menarik lagi: mereka justru lebih sedikit menikmati hal-hal kecil sehari-hari. Berita menyenangkan, makan enak, atau waktu bersama teman terasa lebih hambar. Sensasi kecil yang dulu membuat senyum kini kalah bersaing dengan ingatan kemenangan besar itu.
+Hasilnya mengejutkan. Dibandingkan kelompok kontrol berisi orang biasa, para pemenang tidak terbukti lebih bahagia secara signifikan. Mereka juga lebih sedikit menikmati hal-hal kecil sehari-hari. Berita menyenangkan, makan enak, atau waktu bersama teman terasa lebih hambar. Sensasi kecil yang dulu membuat senyum kini kalah bersaing dengan ingatan kemenangan besar itu.
 
 Sisi lain studi ini juga penting. Para peneliti membandingkan para pemenang dengan korban kecelakaan yang lumpuh. Kelompok ini memang lebih tidak bahagia, tapi kejutannya: mereka menilai masa depannya di atas titik netral. Artinya, mekanisme adaptasi bekerja dua arah. Manusia tidak hanya segera membiasakan diri pada keberuntungan, tapi juga perlahan menemukan pijakan baru setelah musibah.
 
@@ -48875,7 +48704,7 @@ Inilah penjelasan kenapa keinginan sering terasa tanpa dasar. Bukan karena kamu 
 
 Sebelum kamu menyimpulkan hidup ini sia-sia, ada nuansa jujur dari riset modern. Adaptasi itu kuat, tapi tidak total. Studi awal tahun 1978 memang dramatis, tapi penelitian yang lebih baru menunjukkan beberapa peristiwa hidup meninggalkan jejak yang tidak sepenuhnya hilang. Ada pengalaman yang menggeser garis dasar emosi secara permanen, dan mengelak dari fakta itu sama saja berbohong pada diri sendiri.
 
-Untuk pendapatan, adaptasinya juga tidak 100 persen. Riset modern yang sudah kita bahas di bab 3 menunjukkan korelasi antara pendapatan dan kesejahteraan tetap ada. Uang tidak membuat semua perasaan terguling kembali ke titik awal; sebagian manfaatnya memang bertahan setelah sensasi pertama meredup. Jadi polanya bukan naik lalu lenyap, tapi naik tinggi, turun sebagian, lalu berhenti di garis yang lebih tinggi dari sebelumnya. Dua kesalahan di sini sama saja berbahaya: percaya uang membawa kebahagiaan abadi, atau percaya uang tidak berpengaruh sama sekali.
+Untuk pendapatan, adaptasinya juga tidak 100 persen. Riset modern yang sudah kita bahas di bab 3 menunjukkan korelasi antara pendapatan dan kesejahteraan tetap ada. Uang tidak membuat semua perasaan terguling kembali ke titik awal; sebagian manfaatnya memang bertahan setelah sensasi pertama meredup. Jadi polanya bukan naik lalu lenyap, tapi naik tinggi, turun sebagian, lalu berhenti di garis yang lebih tinggi dari sebelumnya. Dua kesalahan di sini sama berbahayanya: percaya uang membawa kebahagiaan abadi, atau percaya uang tidak berpengaruh sama sekali.
 
 ### Focusing illusion
 
@@ -48891,20 +48720,19 @@ Focusing illusion inilah penjelasan kenapa prediksi nanti kalau penghasilanku na
 
 Kalau adaptasi hedonis tidak bisa dimatikan, apa yang bisa kamu lakukan? Bukan melawan mesinnya, tapi membaca manualnya.
 
-Pertama, kembalikan ekspektasi ke posisi yang jujur. Nikmat baru memang akan mengendur, dan itu bukan kegagalan hidupmu, bukan tanda kurang bersyukur, dan bukan alasan panik mencari sensasi berikutnya sesegera mungkin. Mengetahui bahwa pelunakan itu normal membuatmu tidak tertipu olehnya.
+Pertama, kembalikan ekspektasi ke posisi yang jujur. Nikmat baru memang akan mengendur, dan itu bukan kegagalan hidupmu, bukan tanda kurang bersyukur, dan bukan alasan panik mencari sensasi berikutnya sesegera mungkin. Mengetahui bahwa pengenduran itu normal membuatmu tidak tertipu olehnya.
 
 Kedua, sambut bonus dengan jeda. Rasa senang karena gaji naik atau bonus cair itu nyata, tapi keputusan besar paling buruk diambil saat emosi di puncak. Beri jarak beberapa pekan sebelum mengunci komitmen yang besarnya mengikuti kenaikan itu.
 
-Ketiga, prioritaskan jenis pembelanjaan yang tahan adaptasi. Tidak semua belanja mengendur dengan kecepatan yang sama, dan sensasi sebagian kategori jauh lebih lambat pudar. Cara memilihnya kita bedah di dua bab berikutnya, karena sekalipun adaptasi nyata, cara membelanjakan uang tetap bisa dibuat cerdas.
+Ketiga, prioritaskan jenis pembelanjaan yang tahan adaptasi. Tidak semua belanja mengendur dengan kecepatan yang sama, dan sensasi sebagian kategori jauh lebih lambat pudar. Sekalipun adaptasi nyata, cara membelanjakan uang masih bisa dibuat cerdas.
 
-Satu catatan penutup. Selama ini kita membahas apa yang terjadi ketika uang bertambah lalu nikmatnya mengendur. Ada sisi sebaliknya yang sama pentingnya: apa yang terjadi ketika uang justru terlalu sedikit. Di sana adaptasi menemukan batasnya, dan yang disita bukan kenikmatan, tapi kapasitas pikirmu. Itulah bab berikutnya.
+Semua itu soal uang yang bertambah. Saat uang terlalu sedikit, yang disita bukan kenikmatan, melainkan kapasitas pikirmu.
 
 ## Intisari
 
-- Respons emosional terhadap keberuntungan bergeser dengan sendirinya. Nikmat yang dibeli uang selalu mengendur karena garis dasar emosi ikut naik, dan inilah hedonic treadmill yang membuat keinginan terasa tidak ada habisnya.
 - Studi klasik Brickman, Coates, dan Janoff-Bulman (1978) menemukan pemenang lotere Illinois tidak lebih bahagia dari kelompok kontrol dan justru lebih sedikit menikmati hal-hal kecil sehari-hari, bukti bahwa sensasi besar menenggelamkan sensasi harian.
-- Focusing illusion membuat prediksi kebahagiaan kita meleset: saat membayangkan hidup lebih kaya, pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tetap sama.
-- Koreksi satu mitos: adaptasi tidak berarti kembali ke titik nol. Ia kuat tapi tidak total, sebagian peristiwa meninggalkan jejak permanen, dan korelasi pendapatan dengan kesejahteraan tetap ada.
+- Focusing illusion membuat prediksi kebahagiaan kita meleset: saat membayangkan hidup lebih kaya, pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tidak berubah.
+- Koreksi satu mitos: adaptasi tidak berarti kembali ke titik nol. Ia kuat tapi tidak total, sebagian peristiwa meninggalkan jejak permanen, dan korelasi pendapatan dengan kesejahteraan masih ada.
 
 
 <!-- Chapter: 08_kelangkaan-finansial-kurang-uang-menyita-pikiran -->
@@ -48913,7 +48741,7 @@ Satu catatan penutup. Selama ini kita membahas apa yang terjadi ketika uang bert
 
 Tanggal dua puluh lima. Kamu duduk di warung kopi bersama pasangan, tapi sebagian kepalamu tidak ikut di sana. Di meja ada dua cangkir dan satu piring kue yang kamu bagi dua. Di kepala ada kalkulator yang tidak bisa dimatikan: cicilan jatuh tempo tiga hari lagi, bensin harus cukup sampai akhir pekan, uang saku sekolah belum disisihkan, tagihan listrik entah sudah masuk atau belum. Pasanganmu bercerita, kamu mengangguk di tempat yang tepat, tapi secara teknis sedang berhitung. Bukan hitungan yang sulit, tapi hitungan yang melelahkan, dan dia jalan terus tanpa diminta.
 
-Kalau adegan ini terasa familiar, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak syukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur dengan sangat rapi. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
+Kalau adegan ini terasa familiar, ada penjelasan ilmiah yang menenangkan sekaligus mengganggu: pikiran yang melayang itu bukan tanda kamu tidak peduli atau tidak bersyukur. Itu tanda kekurangan uang sedang menyita sebagian kapasitas otakmu, dan cara menyitanya sudah diukur dengan sangat rapi. Setelah bab-bab tentang uang yang bertambah, sekarang kita turun ke sisi sebaliknya: ketika uang terlalu sedikit.
 
 ### Eksperimen alami di ladang tebu
 
@@ -48931,7 +48759,7 @@ Kalau orang yang sama tampak lebih cerdas saat keuangan longgar dan lebih lambat
 
 ### Bandwidth yang terpaksa dibagi
 
-Peneliti menyebut kapasitas berpikir kita sebagai bandwidth, dan kapasitas ini terbatas. Setiap hal yang menangkap perhatian ikut memakainya. Kekurangan uang jago sekali menangkap perhatian karena sifatnya yang mendesak: tagihan punya tenggat, harga di kasir naik diam-diam, anak butuh sepatu sebelum upacara bendera. Kenyataan finansial tidak meminta izin untuk masuk pikiran: ia muncul saat kamu mencoba fokus bekerja, mendengarkan cerita anak, atau menyetir, dan setiap kali muncul sebagian bandwidth terpakai.
+Peneliti menyebut kapasitas berpikir kita sebagai bandwidth, dan kapasitas ini terbatas. Setiap hal yang menangkap perhatian ikut memakainya. Kekurangan uang sangat mudah menangkap perhatian karena sifatnya yang mendesak: tagihan punya tenggat, harga di kasir naik diam-diam, anak butuh sepatu sebelum upacara bendera. Kenyataan finansial tidak meminta izin untuk masuk pikiran: ia muncul saat kamu mencoba fokus bekerja, mendengarkan cerita anak, atau menyetir, dan setiap kali muncul sebagian bandwidth terpakai.
 
 Efek lanjutannya menjalar ke hal-hal yang kelihatan tak berkaitan dengan uang:
 
@@ -48946,7 +48774,7 @@ Inilah poin yang paling sering disalahpahami: ini bukan cerita tentang karakter.
 
 Mullainathan dan Shafir mengembangkan temuan ini dalam buku *Scarcity*. Satu konsepnya sangat membantu menjelaskan perilaku finansial yang dari luar sering dianggap tidak masuk akal: kelangkaan membuat pikiran masuk ke lorong sempit.
 
-Saat sesuatu yang dibutuhkan makin langka, perhatian otomatis menyempit ke hal yang paling mendesak hari ini. Ini adaptasi yang masuk akal: kalau besok sudah ada uang makan dan tanggal gelap di depan mata, menyibukkan diri dengan rencana pensiun memang bukan prioritas. Tapi lorong ini punya harga. Cakrawala menyusut, dan keputusan jangka panjang seperti menabung, memeriksa kesehatan, atau menyisihkan dana darurat mudah tertunda, bukan karena tidak tahu pentingnya, tapi karena semuanya berada di luar dinding lorong.
+Saat sesuatu yang dibutuhkan makin langka, perhatian otomatis menyempit ke hal yang paling mendesak hari ini. Ini adaptasi yang masuk akal: kalau besok belum ada uang makan dan tanggal tua di depan mata, menyibukkan diri dengan rencana pensiun memang bukan prioritas. Tapi lorong ini punya harga. Cakrawala menyusut, dan keputusan jangka panjang seperti menabung, memeriksa kesehatan, atau menyisihkan dana darurat mudah tertunda, bukan karena tidak tahu pentingnya, tapi karena semuanya berada di luar dinding lorong.
 
 > Ibaratnya orang yang berenang di arus deras. Dia tahu benar seharusnya menuju tepi yang jauh, tapi seluruh tenaganya habis hanya untuk menjaga kepala tetap di atas air hari ini.
 
@@ -48954,7 +48782,7 @@ Dari sini pola yang tampak kontradiktif menjadi masuk akal: orang yang paling bu
 
 ### Kenapa bab ini menentukan sisa buku
 
-Sambungkan dengan dua bab sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu memberi keduanya mekanisme yang konkret.
+Sambungkan dengan dua temuan sebelumnya. Di bab 3 kita melihat uang dan kesejahteraan berjalan beriringan, dengan kenaikan paling tajam di lapisan berpendapatan rendah. Di bab 4 muncul kelompok minoritas yang bahagianya tidak ikut naik meski uang bertambah. Studi petani tebu memberi keduanya mekanisme yang konkret.
 
 Menghapus kelangkaan memberi lompatan kesejahteraan terbesar karena yang dipulihkan bukan hanya barang yang bisa dibeli, tapi kapasitas berpikir yang selama ini disita. Bagi yang kekurangan, uang tambahan berarti satu lapisan kekhawatiran berhenti mengintip dan bandwidth mulai kembali utuh.
 
@@ -48964,23 +48792,20 @@ Kalau ada satu sikap yang pantas dipinjam dari studi ini, itu empati. Sangat mud
 
 ### Meringankan beban, bukan menambah nasihat
 
-Jika kamu sendiri yang sedang di lorong itu, nasihat klasik seperti "yakinlah dan rajin menabung" sering hanya menambah beban. Yang lebih membantu adalah mengurangi jumlah keputusan finansial yang harus diambil dengan kepala yang sudah penuh:
+Jika kamu sendiri yang sedang di lorong itu, nasihat klasik seperti "bersabarlah dan rajin menabung" sering hanya menambah beban. Yang lebih membantu adalah mengurangi jumlah keputusan finansial yang harus diambil dengan kepala yang sudah penuh:
 
 - **Otomatisasi keputusan kecil.** Tagihan dan transfer rutin dijadwalkan otomatis sehingga tidak perlu diputuskan ulang setiap bulan.
 - **Sederhanakan struktur.** Lebih sedikit akun, tempat menyimpan uang, dan langganan yang harus dipantau. Setiap kesederhanaan mengembalikan sedikit bandwidth.
-- **Kelompokkan jatuh tempo.** Kalkulator di kepala tidak perlu jalan setiap hari kalau semua tagihan dikerumuni di satu-dua tanggal yang sama.
+- **Kelompokkan jatuh tempo.** Kalkulator di kepala tidak perlu jalan setiap hari kalau semua tagihan dikumpulkan di satu-dua tanggal yang sama.
 - **Bangun bantalan sekecil apa pun.** Dana darurat nominal kecil bukan soal angkanya, tapi soal menurunkan intensitas alarm yang berbunyi di kepala.
 
 Langkah-langkah ini tidak menyelesaikan persoalan struktural yang lebih besar, dan memang bukan itu tugasnya. Tugasnya memberi kepalamu sedikit ruang, karena keputusan yang diambil di ruang yang lebih longgar biasanya lebih baik.
 
 ## Recap
 
-- Studi Mani, Mullainathan, Shafir, dan Zhao (2013) di jurnal Science menunjukkan petani tebu India berperforma jauh lebih rendah pada tes kognitif sebelum panen dibanding setelahnya. Orang yang sama, tes yang sama.
-- Efeknya setara dengan kehilangan satu malam tidur penuh, atau penurunan poin IQ yang berarti, dan itu terjadi meski kebutuhan makan tetap terpenuhi.
+- Studi Mani, Mullainathan, Shafir, dan Zhao (2013) di jurnal Science menunjukkan petani tebu India berperforma jauh lebih rendah pada tes kognitif sebelum panen dibanding setelahnya, dengan efek kira-kira setara kehilangan satu malam tidur penuh, meski kebutuhan makan terpenuhi.
 - Kekurangan uang menangkap perhatian dan memakan bandwidth mental: keputusan, kesabaran, fokus kerja, dan pengasuhan ikut menyusut. Ini pajak kognitif dari kekurangan, bukan soal karakter.
 - Scarcity mindset mempersempit cakrawala dan mendorong fokus jangka pendek, sehingga keputusan jangka panjang mudah tertunda; lingkaran itu bisa berputar sendiri.
-- Inilah alasan efek uang paling kuat di lapisan berpendapatan rendah, dan tekanan finansial kronis bisa menjadi jalur menuju kelompok yang tidak tertolong uang tambahan kecil.
-- Karena itu, pembahasan soal belanja harus dimulai dari empati, bukan nasihat. Di bab berikutnya kita masuk ke satu bentuk pengeluaran yang justru terbukti banyak memberi: membeli pengalaman.
 
 
 <!-- Chapter: 09_membeli-pengalaman-bukan-barang -->
@@ -49019,17 +48844,17 @@ Kenangan bekerja hampir ke arah sebaliknya. Liburan tidak bisa dipakai setiap ha
 
 Kamu adalah rangkuman dari pengalaman yang pernah kamu jalani. Pernah mendaki sampai puncak, pernah ikut lomba lari pertama, pernah menemani sahabat yang patah hati: semua menempel pada jawaban atas pertanyaan "siapa aku". Barang jarang punya kekuatan itu; orang jarang memperkenalkan diri sebagai pemilik mesin cuci dua tabung.
 
-Makanya pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reunian maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
+Karena itu pengalaman mudah masuk obrolan. Ceritanya lengkap: awal mulanya, kekacauannya, insiden di tengah jalan. Di reuni maupun meja warung kopi, yang diputar ulang hampir selalu pengalaman, bukan barang. Setiap kali diceritakan lagi, ia mengukir identitas lebih dalam.
 
 ### Pengalaman hidup bersama orang lain
 
-Perhatikan contoh di dua bagian tadi: hampir semuanya melibatkan orang lain. Konser bersama ribuan orang, makan malam bersama keluarga, kelas bersama teman baru. Pengalaman sering bersifat sosial, dan hubungan yang hangat adalah salah satu sumber kebahagiaan paling awet.
+Contoh di dua bagian tadi hampir semuanya melibatkan orang lain. Konser bersama ribuan orang, makan malam bersama keluarga, kelas bersama teman baru. Pengalaman sering bersifat sosial, dan hubungan yang hangat adalah salah satu sumber kebahagiaan paling awet.
 
 Pengalaman juga jarang diadu samping ke samping. Liburanmu tidak bisa ditaruh di samping liburan tetangga lalu dibandingkan spesifikasinya. Barang lain ceritanya: spesifikasi ponsel bisa diadu dalam hitungan detik, dan perbandingan seperti itulah yang di bab tentang tetangga dan status sudah kita bahas sebagai pemicu rasa kurang.
 
 > Membandingkan barang itu seperti membandingkan dua struk belanja: angkanya jelas, pemenangnya pasti, dan yang kalah merasa tersakiti. Membandingkan pengalaman itu seperti membandingkan dua lagu favorit: tidak ada yang menang, yang ada masing-masing mengingatkan pada momen yang berbeda.
 
-Menariknya, nilai pengalaman cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi legenda keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
+Nilai pengalaman bahkan cenderung naik seiring waktu. Liburan yang dulu biasa saja bisa menjadi legenda keluarga sepuluh tahun kemudian, kebalikan dari barang yang makin lama makin murah di pasaran.
 
 ### Namun bukan berarti semua pengalaman otomatis baik
 
@@ -49045,18 +48870,15 @@ Jadi pertanyaan yang lebih berguna mungkin begini: pembelian ini menghubungkan a
 
 Pertama, pakai satu aturan sederhana saat ragu: pilih yang meninggalkan cerita. Kalau dua pilihan harganya mirip, tanyakan pada diri sendiri: mana yang setahun lagi masih bisa kamu ceritakan? Jawaban paling hidup biasanya menang, dan aturan sependek itu gampang dibawa dari tombol checkout sampai etalase mall.
 
-Kedua, mulai dari pengalaman murah yang dekat. Piknik di taman kota, mencoba resep baru bersama keluarga, jalan santai mengelilingi kampung sendiri, atau ngobrol panjang dengan sahabat di warung kaki lima. Yang dituntut bukan harga, tapi kehadiranmu di dalamnya.
+Kedua, mulai dari pengalaman murah yang dekat. Piknik di taman kota, mencoba resep baru bersama keluarga, jalan santai mengelilingi kampung sendiri, atau mengobrol panjang dengan sahabat di warung kaki lima. Yang dituntut bukan harga, tapi kehadiranmu di dalamnya.
 
 Ketiga, dan ini penting, jangan mengutuk diri karena barang yang sudah terlanjur dibeli. Mesin yang sama yang membuat barang cepat terasa biasa juga membuat penyesalan cepat memudar. Gadget yang dulu bikin sesal lama-lama hanya menjadi alat kerja biasa; yang bisa kamu ubah adalah pembelian berikutnya.
 
 ## Poin Penting
 
 - Studi Van Boven dan Gilovich (2003) di Journal of Personality and Social Psychology menunjukkan orang lebih bahagia dengan pembelian pengalaman daripada pembelian material, konsisten di tiga cara pengukuran: mengingat pembelian lampau, memprediksi pembelian mendatang, dan menilai pembelian orang lain.
-- Tiga alasan di baliknya: adaptasi memangsa barang lebih cepat sementara kenangan bisa diputar ulang; pengalaman menyatu dengan identitas dan cerita pribadi; pengalaman biasanya sosial, sulit diadu samping ke samping, dan nilainya justru tumbuh seiring waktu.
+- Tiga alasan di baliknya: adaptasi memangsa barang lebih cepat sementara kenangan bisa diputar ulang; pengalaman menyatu dengan identitas dan cerita pribadi; pengalaman sering bersifat sosial, sulit diadu samping ke samping, dan nilainya cenderung tumbuh seiring waktu.
 - Nuansanya: jenis pembelian bukan vonis. Yang menentukan adalah seberapa baik pembelian menyambung kebutuhan psikologis, yaitu hubungan, kompetensi, dan otonomi, seperti dua sepeda dengan nasib berbeda itu.
-- Antidot praktisnya: saat ragu pilih yang meninggalkan cerita, mulai dari pengalaman murah yang dekat, dan jangan mengutuk pembelian barang yang sudah terlanjur karena adaptasi juga ikut menyelamatkanmu.
-
-Ada satu benang merah dari semua contoh di bab ini: pengalaman yang paling membekas hampir selalu menyentuh orang lain dan butuh waktu longgar untuk dirasakan. Dua petunjuk itu bukan kebetulan, melainkan pintu masuk ke dua strategi berikutnya: uang yang dikeluarkan untuk kebaikan orang lain, dan uang yang dipakai membeli kembali waktu.
 
 
 <!-- Chapter: 10_membeli-kebaikan-dan-membeli-waktu -->
@@ -49065,7 +48887,7 @@ Ada satu benang merah dari semua contoh di bab ini: pengalaman yang paling membe
 
 Bayangkan kamu pagi-pagi datang ke sebuah lab psikologi dan diberi uang lima dolar, kira-kira setara tujuh puluhan ribu rupiah. Ada dua instruksi yang mungkin kamu terima. Sebagian peserta diminta membelanjakan uang itu untuk diri sendiri sebelum pukul lima sore, bisa untuk kopi, buku, atau kebutuhan pribadi apa pun. Sebagian lainnya diminta membelanjakannya untuk orang lain, misalnya membelikan hadiah kecil atau menyumbang. Uangnya sama, waktunya sama, satu-satunya beda adalah tujuan belanjanya.
 
-Sorenya, peneliti menanyakan hal yang sama ke semua peserta: bagaimana perasaanmu hari ini? Hasilnya rapi dan konsisten. Yang membelanjakan uang untuk diri sendiri pulang dengan suasana hati yang praktis tidak berubah. Yang membelanjakannya untuk orang lain pulang lebih bahagia dibanding pagi tadi. Menariknya, pola ini muncul baik pada peserta yang menerima lima dolar maupun dua puluh dolar, jadi jumlah uangnya nyaris tidak berpengaruh.
+Sorenya, peneliti menanyakan hal yang sama ke semua peserta: bagaimana perasaanmu hari ini? Hasilnya rapi dan konsisten. Yang membelanjakan uang untuk diri sendiri pulang dengan suasana hati yang praktis tidak berubah. Yang membelanjakannya untuk orang lain pulang lebih bahagia dibanding pagi tadi. Pola ini muncul baik pada peserta yang menerima lima dolar maupun dua puluh dolar, jadi jumlah uangnya nyaris tidak berpengaruh.
 
 Eksperimen ini berasal dari tangan tiga peneliti, Elizabeth Dunn, Lara Aknin, dan Michael Norton, yang hasilnya dimuat di jurnal *Science* pada 2008 dengan judul yang sudah bicara sendiri: "Spending Money on Others Promotes Happiness". Dan eksperimen lima dolar tadi sebenarnya baru lapisan ketiganya. Mari kita bongkar urut dari bawah.
 
@@ -49087,13 +48909,13 @@ Ini penting untuk kamu yang sedang menunggu "kaya dulu, baru berbagi". Temuannya
 
 ### Membeli waktu
 
-Bab sebelumnya diakhiri dengan dua petunjuk, dan lever pertama, uang untuk kebaikan orang lain, sudah kita bahas di atas. Lever kedua jauh lebih jarang dipakai orang: memakai uang untuk membebaskan waktu.
+Cara pertama, uang untuk kebaikan orang lain, sudah kita bahas di atas. Cara kedua jauh lebih jarang dipakai orang: memakai uang untuk membebaskan waktu.
 
 Ashley Whillans bersama koleganya menguji ini dalam riset yang dimuat di *PNAS* pada 2017, "Buying time promotes happiness". Mereka mengumpulkan data dari Amerika Serikat, Kanada, Denmark, dan Belanda, mencakup ribuan responden dengan tingkat penghasilan yang bervariasi. Pertanyaannya sederhana: apa yang terjadi pada kepuasan hidup orang yang memakai uang untuk menyingkirkan tugas-tugas yang mereka benci, misalnya menyewa jasa untuk pekerjaan rumah tangga yang menyita akhir pekan?
 
 Jawabannya: orang yang membeli waktu melaporkan kepuasan hidup yang lebih tinggi, dan polanya konsisten di empat negara dengan gaya hidup yang sangat berbeda.
 
-Di sinilah letak ironi yang menarik. Kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang justru menguntungkan diri sendiri.
+Ironisnya, kelompok yang paling mampu, orang-orang berpenghasilan tinggi, justru paling berat hati. Mereka merasa lebih bersalah membayar orang lain untuk pekerjaan yang "seharusnya" dikerjakan sendiri. Padahal dari semua cara menukar uang menjadi kesejahteraan, membeli kembali waktu termasuk salah satu yang paling efektif. Rasa bersalah itu mahal harganya, karena menghalangi penukaran yang justru menguntungkan diri sendiri.
 
 > Membeli waktu itu mirip memindahkan batu besar dari tengah jalan depan rumahmu. Batunya tidak hilang dari dunia, dan tangan yang menggerakkannya juga bukan tanganmu, tapi jalanmu akhirnya bisa dilalui. Pertanyaan lanjutannya cuma satu: kamu mau mengisi jalan yang kini lapang itu dengan apa?
 
@@ -49101,26 +48923,24 @@ Di sinilah letak ironi yang menarik. Kelompok yang paling mampu, orang-orang ber
 
 Temuan-temuan di atas bisa sia-sia kalau dipraktikkan secara membabi buta. Ada dua syarat yang menentukan efeknya muncul atau tidak.
 
-Syarat pertama untuk memberi: dampaknya harus terlihat. Riset lanjutan menunjukkan pemberian yang spesifik dan nyata, di mana kamu bisa membayangkan atau bahkan melihat langsung siapa yang tertolong, jauh lebih membangkitkan kehangatan daripada transfer nominal besar yang mekanis. Memberi untuk kebutuhan tetangga yang sasarannya jelas terasa lebih hidup daripada menekan tombol donasi sambil menutup mata. Ini alasan praktik seperti patungan kurban terasa memuaskan: kamu tahu dagingnya sampai ke mana, bahkan sampai ke tetangga yang kamu kenal. Begitu juga shodaqoh kecil yang rutin: nominalnya sepele, tapi sasarannya jelas, sehingga kehangatannya datang terus-menerus, bukan sekali setahun.
+Syarat pertama untuk memberi: dampaknya harus terlihat. Riset lanjutan menunjukkan pemberian yang spesifik dan nyata, di mana kamu bisa membayangkan atau bahkan melihat langsung siapa yang tertolong, jauh lebih membangkitkan kehangatan daripada transfer nominal besar yang mekanis. Memberi untuk kebutuhan tetangga yang sasarannya jelas terasa lebih hidup daripada menekan tombol donasi sambil menutup mata. Ini alasan praktik seperti patungan kurban terasa memuaskan: kamu tahu dagingnya sampai ke mana, bahkan sampai ke tetangga yang kamu kenal. Begitu juga sedekah kecil yang rutin: nominalnya sepele, tapi sasarannya jelas, sehingga kehangatannya datang terus-menerus, bukan sekali setahun.
 
 Syarat kedua untuk waktu: waktu yang dibebaskan harus diisi hal yang berarti. Membeli waktu lalu mengisinya dengan pekerjaan lain sama saja menukar batu besar dengan batu sedang. Jasa yang kamu bayar baru mengubah kesejahteraan kalau slot yang kosong itu dipakai untuk hal yang kamu hargai: bermain dengan anak, makan perlahan, tidur cukup, atau sekadar duduk tanpa rasa bersalah. Contohnya sederhana: membayar jasa cuci dan setrika agar Sabtu tidak habis untuk tumpukan cucian, melainkan untuk perjalanan pagi ke taman bersama anak. Uangnya memang untuk jasa laundry, tapi yang sebenarnya kamu beli adalah Sabtu itu.
 
 ## Key Takeaways
 
-- Ada dua lever yang terbukti mengubah uang menjadi kesejahteraan: mengalirkan uang untuk orang lain (belanja prososial dan donasi) dan memakai uang untuk membeli kembali waktu. Keduanya bekerja bahkan pada nominal kecil, lintas budaya, dan lintas tingkat penghasilan.
+- Ada dua lever yang terbukti mengubah uang menjadi kesejahteraan: mengalirkan uang untuk orang lain (belanja prososial dan donasi) dan memakai uang untuk membeli kembali waktu.
 - Bukti utamanya bertingkat dan saling menguatkan: survei pembelanjaan sehari-hari, eksperimen lapangan saat karyawan menerima bonus, dan eksperimen uang lima dolar yang diberikan langsung. Belanja pribadi tidak menunjukkan efek yang sama.
 - Efeknya bersyarat. Memberi bekerja kalau dampaknya spesifik dan terlihat, bukan nominal besar yang mekanis. Membeli waktu bekerja kalau waktu bebasnya diisi hal yang berarti, bukan pekerjaan pengganti.
-- Penghalangnya sering bukan uang, melainkan gengsi dan rasa bersalah, seperti orang berpenghasilan tinggi yang merasa malu membayar orang lain untuk pekerjaan rumah.
-- Kalau dua lever ini menang atas gengsi dan tumpukan barang, satu pertanyaan tersisa: apa yang terjadi kalau urusannya terbalik, saat uang justru menjadi tujuan, bukan alat? Jebakan terakhir itu punya nama, dan itulah pembahasan bab berikutnya.
 
 
 <!-- Chapter: 11_materialisme-harga-dari-mengejar-harta -->
 
 ## Materialisme
 
-Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi perhatikan juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
+Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi lihat juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
 
-Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir yang dijanjikan sejak akhir bab sebelumnya: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
+Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
 
 ### Mimpi yang punya sisi gelap
 
@@ -49134,7 +48954,7 @@ Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan R
 
 ### Keinginan yang selalu kurang dan yang cukup
 
-Kasser dan Ryan memberi kerangka yang menjelaskan kenapa ini terjadi. Ada dua jenis tujuan hidup. Pertama, tujuan ekstrinsik: uang, ketenaran, dan citra. Cirinya satu, nilainya ditentukan oleh penilaian orang lain. Gajimu bermakna karena bisa dibandingkan, ketenaramu ada karena ada yang melirik, citramu hidup karena ada yang menilai. Karena hakimnya berada di luar dirimu, kepuasan dari tujuan jenis ini tidak pernah tuntas. Selalu ada yang lebih kaya, lebih terkenal, lebih tampak sukses. Kepuasan itu terus mundur seperti garis finis yang kita kenal sejak bab pertama.
+Kasser dan Ryan memberi kerangka yang menjelaskan kenapa ini terjadi. Ada dua jenis tujuan hidup. Pertama, tujuan ekstrinsik: uang, ketenaran, dan citra. Cirinya satu, nilainya ditentukan oleh penilaian orang lain. Gajimu bermakna karena bisa dibandingkan, ketenaranmu ada karena ada yang melirik, citramu hidup karena ada yang menilai. Karena hakimnya berada di luar dirimu, kepuasan dari tujuan jenis ini tidak pernah tuntas. Selalu ada yang lebih kaya, lebih terkenal, lebih tampak sukses. Kepuasan itu terus mundur seperti garis finis yang kita kenal sejak bab pertama.
 
 Kedua, tujuan intrinsik: relasi yang hangat, pertumbuhan diri, dan rasa bermanfaat. Tujuan jenis ini memuaskan dari dalam. Ia bekerja seperti makan saat lapar. Nasi hangat di tengah hari yang sibuk terasa benar-benar mengenyangkan, dan pada titik tertentu tubuhmu sendiri bilang cukup. Tidak ada tetangga yang bisa menambah rasa kenyangmu.
 
@@ -49150,7 +48970,7 @@ Garis pembedanya bukan banyak atau sedikit, melainkan posisi. Uang sebagai alat 
 
 ### Dua kaki yang menjaga keseimbangan
 
-Lalu seperti apa kesehatan finansial yang sehat menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
+Lalu seperti apa kesehatan finansial menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
 
 Anggap saja dua kaki ini sebagai bingkai seluruh perjalanan buku ini:
 
@@ -49228,8 +49048,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50319,8 +50139,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51796,8 +51616,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53434,8 +53254,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54963,8 +54783,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55997,8 +55817,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57323,8 +57143,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58655,8 +58475,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59451,8 +59271,8 @@ Landry, L. (2020, 14 Januari; diperbarui 2 Juni 2021). [How to delegate effectiv
 Buehler, R., Griffin, D., dan Ross, M. (1994). [Exploring the "planning fallacy": Why people underestimate their task completion times](https://doi.org/10.1037/0022-3514.67.3.366). *Journal of Personality and Social Psychology, 67*(3), 366-381.
 
 Arkes, H. R., dan Blumer, C. (1985). [The psychology of sunk cost](https://doi.org/10.1016/0749-5978(85)90049-4). *Organizational Behavior and Human Decision Processes, 35*(1), 124-140.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60693,8 +60513,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61912,8 +61732,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63915,8 +63735,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64664,8 +64484,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64687,300 +64507,273 @@ VALUES (
 
 Jepang pernah kalah perang, tetapi beberapa dekade kemudian negeri itu memenangkan hati banyak orang di dunia lewat kartun dan komik.
 
-Coba pikirkan sebentar betapa ganjil urutan itu. Sebuah negara yang dulu ditakuti tetangganya, yang di banyak tempat citranya lekat dengan pendudukan dan luka sejarah, kini dikenal anak-anak di berbagai benua lewat robot biru berkantong ajaib, bocah pengejar bola naga, dan monster saku yang muat di genggaman. Tidak ada kapal perang yang mengantar tokoh-tokoh itu. Mereka datang lewat layar televisi, rak toko buku, dan belakangan lewat ponsel.
+Urutan itu terasa ganjil kalau kamu memikirkannya pelan-pelan. Negara yang dulu ditakuti tetangganya, yang di banyak tempat citranya lekat dengan pendudukan dan luka sejarah, kini dikenal anak-anak di berbagai benua lewat robot biru berkantong ajaib, bocah pengejar bola naga, dan monster saku yang muat di genggaman. Tak satu pun tokoh itu diantar kapal perang. Mereka datang lewat layar televisi, rak toko buku, dan belakangan lewat ponsel.
 
-Buku ini membahas bagaimana hal itu terjadi, siapa yang mendorongnya, berapa uang yang berputar, dan apa harganya. Bab pertama ini menyiapkan alat berpikirnya: satu konsep dari ilmu hubungan internasional, dua tulisan yang membentuk perdebatan, dan beberapa angka terbaru yang membuat topik ini sulit diabaikan.
+Buku ini menelusuri jalan itu: siapa yang mendorongnya, berapa uang yang berputar, dan apa harganya. Perjalanannya melewati seorang bocah robot di televisi, Akira dan Pokémon yang menembus arus utama Barat, para penggemar yang, menurut peneliti Sean Leonard, menyebarkan anime ketika pemegang haknya sudah meninggalkan pasar Amerika, uang negara di balik Cool Japan, lalu pulang ke Indonesia dan berakhir pada harga di balik semua kesuksesan itu, termasuk yang dibayar para animator. Sebelum berangkat, kamu butuh satu alat berpikir dari ilmu hubungan internasional.
 
 ### Kekuatan yang Bekerja Lewat Daya Tarik
 
-Istilah *soft power* berasal dari ilmuwan politik Joseph S. Nye Jr. Menurut halaman profil karyanya, Nye merumuskan istilah itu pada akhir 1980-an, lalu memuatnya dalam artikel ["Soft Power"](https://doi.org/10.2307/1148580) di jurnal *Foreign Policy* nomor 80, edisi musim gugur 1990. Gagasannya sederhana. Ada dua cara membuat pihak lain melakukan apa yang kamu mau. Cara pertama adalah perintah dan paksaan, yang ia sebut *hard power* atau *command power*. Cara kedua adalah membuat pihak lain menginginkan hal yang sama denganmu, yang ia sebut kekuatan kooptif atau *soft power*. Sumbernya, menurut Nye, adalah budaya, ideologi, dan lembaga internasional.
+Alat itu bernama *soft power*. Ilmuwan politik Joseph S. Nye Jr. menuliskannya dalam artikel ["Soft Power"](https://doi.org/10.2307/1148580) di jurnal *Foreign Policy* nomor 80, edisi musim gugur 1990. Ia membedakan dua cara membuat pihak lain melakukan apa yang kamu mau. Yang pertama adalah perintah dan paksaan, *hard power*. Yang kedua lebih halus: membuat pihak lain menginginkan hal yang sama denganmu. Bahan bakarnya budaya, ideologi, dan lembaga internasional.
 
-Dalam bukunya *Soft Power: The Means to Success in World Politics* (PublicAffairs), yang menurut catatan penerbit terbit pada 2004, Nye mempertajam definisinya. *Soft power* adalah kemampuan menarik dan membujuk, yang bersumber dari budaya, cita-cita politik, dan kebijakan sebuah negara. Lawannya, *hard power*, adalah kemampuan memaksa yang bersumber dari kekuatan militer atau ekonomi.
+Dalam buku *Soft Power: The Means to Success in World Politics* (PublicAffairs, 2004), Nye merumuskannya lebih tajam. *Soft power* adalah kemampuan menarik dan membujuk, yang lahir dari budaya, cita-cita politik, dan kebijakan sebuah negara. Lawannya adalah kemampuan memaksa yang bersandar pada kekuatan militer atau ekonomi.
 
-Bayangkan perbedaannya di rumah. Seorang kakak bisa menyuruh adiknya membereskan kamar dengan ancaman. Ia juga bisa membuat sang adik ingin meniru kebiasaannya karena kagum. Cara kedua lebih lambat, tetapi tidak perlu diawasi terus dan tidak memancing perlawanan.
+Bayangkan seorang kakak yang ingin adiknya membereskan kamar. Ia bisa mengancam, dan kamar itu mungkin rapi sore ini. Ia juga bisa membuat sang adik ingin meniru kebiasaannya karena kagum. Cara kedua lebih lambat, tetapi tidak perlu diawasi terus dan tidak memancing perlawanan.
 
-### Budaya yang Menghadap ke Dalam
+### Raksasa Ekonomi yang Kurang Memikat
 
-Menariknya, Jepang tidak tampil sebagai contoh sukses dalam artikel Nye tahun 1990. Ia justru mencatat bahwa *soft power* Jepang terbatas karena budayanya berorientasi ke dalam. Ekonominya besar, tetapi budayanya, menurut penilaian itu, belum cukup keluar untuk memikat orang di negeri lain.
+Di artikel tahun 1990 itu, Jepang tidak tampil sebagai contoh sukses. Nye menilai *soft power* Jepang terbatas karena budayanya berorientasi ke dalam. Ekonominya besar, tetapi budayanya belum cukup keluar untuk memikat orang di negeri lain.
 
-Catatan ini layak kamu ingat sepanjang buku. Daya tarik budaya bukan sifat bawaan sebuah bangsa. Ia bisa tumbuh, bisa juga tertahan, tergantung seberapa jauh budaya itu mau keluar dan dipakai orang lain.
+Penilaian itu layak kamu bawa sepanjang buku ini. Daya tarik budaya bukan sifat bawaan sebuah bangsa. Ia bisa tumbuh, bisa juga tertahan, tergantung seberapa jauh budaya itu mau keluar dan dipakai orang lain.
 
 ### Gross National Cool Versi McGray
 
-Dua belas tahun kemudian, Douglas McGray membalik nada pesimis itu. Dalam artikel ["Japan''s Gross National Cool"](https://doi.org/10.2307/3183487) di *Foreign Policy* nomor 130 (Mei/Juni 2002), ia berargumen bahwa pengaruh budaya Jepang justru membesar ketika ekonominya lesu. Musik pop, elektronik, mode, animasi, dan makanan Jepang menyebar luas, sampai menurutnya Jepang lebih pantas disebut adidaya budaya dibanding pada dekade 1980-an.
+Dua belas tahun kemudian, Douglas McGray membalik nada pesimis itu dalam artikel ["Japan''s Gross National Cool"](https://doi.org/10.2307/3183487) di *Foreign Policy* nomor 130 (Mei/Juni 2002). Ekonomi Jepang saat itu sedang lesu, tetapi McGray melihat pengaruh budayanya malah membesar. Musik pop, elektronik, mode, animasi, dan makanan Jepang menyebar luas, sampai ia menilai Jepang lebih pantas disebut adidaya budaya ketimbang pada dekade 1980-an.
 
-McGray secara terang membingkai "kekerenan nasional" itu sebagai *soft power* dalam pengertian Nye. Namun ia juga mengajukan pertanyaan yang belum tuntas sampai sekarang: mampukah Jepang benar-benar memanfaatkan modal itu, mengingat budayanya yang cenderung tertutup? Pertanyaan ini akan muncul lagi ketika kita membahas Kementerian Luar Negeri dan program Cool Japan.
+McGray terang-terangan membingkai kekerenan nasional itu sebagai *soft power* dalam pengertian Nye. Namun ia menyisakan pertanyaan yang belum tuntas sampai sekarang. Mampukah Jepang benar-benar memanfaatkan modal itu, dengan budaya yang cenderung tertutup? Pertanyaan ini akan muncul lagi ketika kita membahas Kementerian Luar Negeri di bab 6 dan program Cool Japan di bab 7.
 
 ### Akar Diplomasi Budaya di Asia Tenggara
 
-Upaya memakai budaya untuk memperbaiki citra sebenarnya lebih tua dari istilah Nye. Koichi Iwabuchi, dalam artikelnya di *International Journal of Cultural Policy* (2015), menelusuri diplomasi budaya Jepang pascaperang yang bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Dari situ, wacananya bergeser ke *soft power*, lalu ke *nation branding*, dan akhirnya ke Cool Japan.
+Upaya memperbaiki citra lewat budaya sebenarnya lebih tua dari istilah Nye. Koichi Iwabuchi, dalam artikelnya di *International Journal of Cultural Policy* (2015), menelusurinya ke diplomasi budaya pascaperang yang bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Dari sana wacananya berganti baju beberapa kali: menjadi *soft power*, lalu *nation branding*, lalu Cool Japan.
 
-Bagi pembaca di Indonesia, sejarah ini terasa dekat. Asia Tenggara bukan penonton netral dalam kisah ini, melainkan salah satu alasan diplomasi itu dimulai. Iwabuchi juga kritis. Ia menilai proyek tersebut tetap berupa proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh, dan cenderung mengesampingkan keragaman budaya di dalam Jepang sendiri. Kritik ini akan kita buka lagi di bab 6 dan bab terakhir.
+Bagi pembaca di Indonesia, sejarah ini terasa dekat. Asia Tenggara bukan penonton netral dalam kisah ini, melainkan salah satu alasan diplomasi itu dimulai. Iwabuchi juga bersikap kritis. Baginya proyek tersebut masih berupa proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh, dan cenderung mengesampingkan keragaman budaya di dalam Jepang sendiri. Kritik itu akan kembali di bab 6 dan bab 12.
 
 ### Ketika Konten Melampaui Semikonduktor
 
-Sekarang lompat ke angka hari ini. Menurut [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) dari asosiasi industri animasi Jepang (AJA), pasar anime Jepang pada 2024 mencapai 3.840,7 miliar yen, atau sekitar 3,84 triliun yen. Pasar luar negeri menyumbang 2.170,2 miliar yen, yaitu 126,0 persen dari angka tahun sebelumnya dan setara 56,5 persen dari total. Sejak 2023, pendapatan anime dari luar negeri sudah lebih besar daripada pasar domestik, dan pada 2024 selisihnya mencapai 499,7 miliar yen.
+Sekarang lompat ke hari ini. Asosiasi industri animasi Jepang (AJA), dalam [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en), mencatat pasar anime Jepang pada 2024 sekitar 3,84 triliun yen, dan 56,5 persen di antaranya datang dari luar negeri. Sejak 2023, pendapatan anime dari luar negeri sudah lebih besar daripada pasar domestik.
 
-Gambaran yang lebih luas datang dari Kantor Kabinet Jepang. Pasar luar negeri untuk konten Jepang tercatat 4,7 triliun yen pada 2022 dan 5,8 triliun yen pada 2023, dan salindia Kantor Kabinet menyebut angka itu sudah melampaui ekspor semikonduktor. Menurut laporan BBT University, ekspor semikonduktor Jepang pada 2023 bernilai 5,5 triliun yen dan baja 4,8 triliun yen, sehingga konten hanya kalah dari otomotif yang mencapai 21,6 triliun yen.
+Gambaran yang lebih luas datang dari Kantor Kabinet Jepang. Pasar luar negeri untuk konten Jepang tercatat 5,8 triliun yen pada 2023, dan salindia Kantor Kabinet menyebut angka itu sudah melampaui ekspor semikonduktor. Laporan BBT University memberi pembandingnya: ekspor semikonduktor Jepang tahun itu bernilai 5,5 triliun yen, sehingga dalam perbandingan tersebut konten hanya kalah dari otomotif.
 
-Coba renungkan maknanya. Negara yang dulu dinilai Nye kurang memikat secara budaya kini menjual cerita dan gambar ke luar negeri dengan nilai di atas cip komputer.
-
-### Sebelas Perhentian Berikutnya
-
-Bab 2 mundur ke awal mula, ketika *Tetsuwan Atom* atau Astro Boy menjadi serial anime televisi. Bab 3 membedah *media mix* dan komite produksi, mesin bisnis yang membuat satu tokoh hidup di komik, layar, dan mainan sekaligus. Bab 4 mengikuti gelombang besar pertama ke arus utama Barat lewat Akira dan Pokémon. Bab 5 menyorot para penggemar yang, menurut peneliti Sean Leonard, menyebarkan anime ketika pemegang hak di Jepang sudah meninggalkan pasar Amerika.
-
-Bab 6 masuk ke diplomasi pop Kementerian Luar Negeri, sementara bab 7 menghitung uang negara di balik program Cool Japan. Bab 8 membaca angka pasar saat luar negeri melampaui domestik, dan bab 9 membahas manga digital serta perang melawan pembajakan. Bab 10 mengikuti penggemar yang berangkat ke lokasi nyata di balik adegan anime. Bab 11 pulang ke Indonesia, dari Doraemon di televisi Minggu pagi sampai penerbit Elex Media. Bab 12 menutup dengan harga di balik semua kesuksesan itu, termasuk yang dibayar para animator.
+Negeri yang dulu dinilai Nye kurang memikat secara budaya kini menjual cerita dan gambar ke luar negeri dengan nilai di atas cip komputer.
 
 ### Intisari
 
-*Soft power*, menurut Nye, adalah kemampuan membuat orang lain menginginkan apa yang kamu inginkan lewat budaya, nilai, dan kebijakan, bukan lewat paksaan. Pada 1990 Nye menilai budaya Jepang terlalu berorientasi ke dalam untuk menjadi sumber kekuatan semacam itu, sedangkan pada 2002 McGray melihat Jepang sudah menjadi adidaya budaya justru di tengah kelesuan ekonomi. Iwabuchi mengingatkan bahwa semua ini berakar pada diplomasi pascaperang di Asia Tenggara dan masih bersifat satu arah. Angka terbaru memperlihatkan seberapa jauh perubahannya: lebih dari separuh pasar anime kini datang dari luar negeri, dan ekspor konten sudah melampaui semikonduktor.
+Tiga suara membingkai buku ini. Nye memberi nama pada kekuatan yang bekerja lewat daya tarik, lalu pada 1990 meragukan Jepang mampu memakainya karena budayanya menghadap ke dalam. McGray, dua belas tahun kemudian, melihat adidaya budaya yang tumbuh di tengah ekonomi yang lesu. Iwabuchi mengingatkan bahwa semua itu berakar pada diplomasi pascaperang di Asia Tenggara dan masih berjalan satu arah. Angka hari ini menunjukkan seberapa jauh perubahannya: lebih dari separuh pasar anime datang dari luar negeri, dan ekspor konten sudah melampaui semikonduktor.
 
-Namun jalan anime sendiri bermula dari sebuah serial televisi berdurasi setengah jam dan seorang bocah robot. Bagaimana sebenarnya anime televisi lahir, dan mengapa Astro Boy yang membuka jalannya?
+Jalan anime sendiri bermula dari sesuatu yang jauh lebih kecil, yaitu serial televisi berdurasi setengah jam tentang seorang bocah robot.
 
 
 <!-- Chapter: 02_astro-boy-dan-lahirnya-anime-televisi -->
 
 ## Astro Boy dan Lahirnya Anime Televisi
 
-Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, saat layar televisi menayangkan bocah robot bernama Atom. Anak-anak duduk paling depan, orang tua di belakang, dan selama setengah jam tidak ada yang beranjak. Mereka tidak tahu sedang menyaksikan sebuah awal. Hari itu, 1 Januari 1963, Fuji TV menyiarkan episode pertama *Tetsuwan Atom*, yang kemudian dikenal dunia sebagai *Astro Boy*.
+Bayangkan sebuah ruang keluarga di Jepang pada hari Tahun Baru 1963, ketika layar televisi menayangkan seorang bocah robot bernama Atom. Anak-anak duduk paling depan, orang tua di belakang, dan selama setengah jam tidak ada yang beranjak. Tak seorang pun di ruangan itu tahu bahwa mereka sedang menonton sebuah awal. Hari itu, 1 Januari 1963, Fuji TV menyiarkan episode pertama *Tetsuwan Atom*, yang kemudian dikenal dunia sebagai *Astro Boy*.
 
-Kalau kamu ingin memahami mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Di bab ini kita melihat bagaimana satu serial sudah memperlihatkan empat kebiasaan industri yang masih bertahan: serial televisi yang tayang rutin, ritme produksi yang cepat, tokoh yang dijual sebagai barang dagangan, dan ekspor yang dimulai sejak tahun pertama.
+Kalau kamu ingin tahu mengapa anime bisa menjadi alat *soft power* Jepang, tayangan inilah titik berangkat yang paling masuk akal. Banyak kebiasaan industri anime yang bertahan sampai sekarang sudah terlihat pada satu serial itu.
 
 ### Setengah Jam yang Mengubah Layar Kaca
 
-Menurut catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), situs yang mengelola karya Osamu Tezuka, *Tetsuwan Atom* diproduksi oleh Mushi Production dan tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966. Serial ini merupakan serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Totalnya 193 episode.
+Catatan resmi [Tezuka Productions](https://tezukaosamu.net/en/anime/30.html), pengelola karya Osamu Tezuka, menyebut *Tetsuwan Atom* sebagai serial animasi televisi Jepang pertama yang berdurasi 30 menit per episode. Mushi Production membuatnya, dan serial itu tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dengan total 193 episode.
 
-Angka itu layak direnungkan sebentar. Empat tahun penayangan dengan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, sejak serial anime televisi yang pertama.
+Hitung sebentar. Empat tahun dan 193 episode berarti rata-rata hampir satu episode setiap pekan. Animasi adalah pekerjaan yang lambat, karena setiap gerakan harus digambar. Menjaga pasokan sebanyak itu menuntut studio bekerja dengan ritme yang sangat ketat, dan ritme itu sudah ada sejak serial anime televisi yang pertama.
 
-Penonton pun membalasnya. Rating tertinggi serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
+Penonton membalas kerja itu. Pada puncaknya, rating serial ini mencapai 40,7 persen. Bagi stasiun televisi, angka seperti itu membuktikan bahwa kartun buatan dalam negeri bisa menarik pemirsa dalam jumlah besar.
 
 ### Cokelat Meiji Seika dan Lahirnya Waralaba Tokoh
 
-Serial setengah jam setiap pekan butuh biaya, dan di sinilah sponsor masuk. Menurut halaman penerbit buku Marc Steinberg, produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Atom tidak lagi hanya ditonton, tetapi juga dikumpulkan.
+Serial setengah jam setiap pekan butuh biaya, dan di titik ini sebatang cokelat masuk ke dalam cerita. Halaman penerbit buku Marc Steinberg mencatat bahwa produsen cokelat Meiji Seika mensponsori *Astro Boy* dan memasarkan produknya bersama sang tokoh, misalnya lewat stiker yang dibagikan bersama cokelat. Anak-anak tidak lagi hanya menonton Atom. Mereka mengumpulkannya. Tokoh yang tadinya hanya hidup setengah jam sepekan kini ikut pulang ke rumah bersama sebatang cokelat.
 
-Peneliti media Marc Steinberg, dalam bukunya *Anime''s Media Mix* (2012), menganggap momen ini sangat penting. Ia menulis bahwa *media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, "menyala" pada 1 Januari 1963 bersama *Astro Boy*. Menurut Steinberg, pemasaran cokelat Meiji Seika mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
+Steinberg, peneliti media yang menulis *Anime''s Media Mix* (2012), menganggap momen ini sangat penting. *Media mix*, istilah Jepang untuk apa yang di Barat disebut konvergensi media, ia anggap mulai menyala pada 1 Januari 1963 bersama *Astro Boy*. Dalam bacaannya, pemasaran cokelat itu mengubah Atom menjadi waralaba tokoh: sosok yang hidup di layar, di kemasan, dan di saku anak-anak sekaligus.
 
-Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangan itu sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
+Steinberg juga menarik garis dari Atom ke waralaba yang datang belakangan, seperti Pokémon, Doraemon, dan Hello Kitty. Pelajarannya sederhana tetapi besar. Tokoh bisa menjadi aset yang bernilai lebih tinggi daripada tayangannya sendiri, karena ia bisa dijual berkali-kali dalam bentuk yang berbeda.
 
 ### Jalan Atom Menuju Stasiun TV Amerika
 
-Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdana di Jepang, NBC Enterprises membeli hak *Tetsuwan Atom*. Catatan Tezuka Productions menyebut Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk urusan kontrak itu, dan kontrak untuk 52 episode ditandatangani pada Mei 1963.
+Ekspor tidak menunggu lama. Pada 1963, tahun yang sama dengan penayangan perdananya, NBC Enterprises membeli hak *Tetsuwan Atom*. Tezuka sendiri berangkat ke Amerika pada Maret 1963 untuk mengurus kontraknya, dan pada Mei 1963 kontrak untuk 52 episode ditandatangani.
 
-Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Satu hal perlu kamu catat dengan cermat. Serial ini tidak ditayangkan di jaringan NBC. Serial ini dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963, menjangkau sekitar 50 stasiun. Sindikasi berarti stasiun lokal membeli hak tayang satu per satu, sehingga Atom muncul di banyak kota tanpa harus bergantung pada satu jaringan nasional.
+Fred Ladd, yang menangani versi bahasa Inggrisnya, menyiapkan 104 episode berbahasa Inggris. Namun Atom tidak tampil di jaringan nasional NBC. Serial itu dipasarkan NBC Enterprises secara sindikasi ke stasiun TV AS mulai September 1963. Artinya, stasiun lokal membeli hak tayang satu per satu, dan Atom muncul di sekitar 50 stasiun di banyak kota tanpa harus bergantung pada satu jaringan nasional.
 
-Selain Amerika, catatan Tezuka Productions menyebut serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi sudah dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
+Amerika pun bukan satu-satunya tujuan: serial ini juga tayang di Tiongkok dan Eropa. Sejak awal, anime televisi dibuat untuk penonton Jepang tetapi dijual juga ke luar negeri.
 
 ### Robot Ramah dalam Pidato Diplomasi
 
-Empat dekade kemudian, Atom muncul lagi di tempat yang tak terduga, yaitu pidato seorang menteri luar negeri. Pada 28 April 2006, Taro Aso berpidato di Digital Hollywood University tentang diplomasi budaya. Dalam [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html), ia menyebut *Astro Boy* dan Doraemon sebagai tokoh yang membuat robot terlihat ramah, lebih mirip penolong daripada ancaman.
+Empat dekade kemudian, Atom muncul di tempat yang tak terduga, yaitu pidato seorang menteri luar negeri. Pada 28 April 2006, Taro Aso berbicara tentang diplomasi budaya di Digital Hollywood University. Dalam [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html), ia menyebut *Astro Boy* dan Doraemon sebagai tokoh yang membuat robot terlihat ramah, lebih seperti penolong daripada ancaman.
 
-Pernyataan ini menunjukkan sesuatu yang menarik. Sebuah serial kartun dari 1963 dianggap ikut membentuk cara orang memandang teknologi, dan pemerintah Jepang menyadari nilai citra tersebut. Hiburan anak-anak yang dulu ikut dipakai untuk menjual cokelat pada akhirnya dikutip sebagai modal diplomasi.
-
-### Cetakan yang Masih Dipakai Industri Anime
-
-Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*. Ada serial televisi yang tayang secara teratur. Ada tuntutan memproduksi episode dalam jumlah banyak dengan cepat. Ada sponsor dan barang dagangan yang membuat tokoh hidup di luar layar. Ada pula penjualan ke luar negeri yang dimulai hampir bersamaan dengan penayangan di dalam negeri.
-
-Tentu industri sekarang jauh lebih besar dan rumit. Namun pertanyaan dasarnya tetap sama dengan yang dihadapi pada 1963: bagaimana cara membiayai tayangan yang mahal ongkos pembuatannya, dan bagaimana cara agar tokohnya menghasilkan nilai lebih lama daripada masa tayangnya.
+Lintasan itu cukup jauh untuk sebuah kartun. Serial yang dulu membantu menjual stiker dan cokelat kini dianggap ikut membentuk cara orang memandang teknologi. Pemerintah Jepang menyadari nilai citra tersebut, sampai Aso mengutip Atom sebagai modal diplomasi.
 
 ### Ringkasan
 
-*Tetsuwan Atom* tayang di Fuji TV dari 1 Januari 1963 sampai 31 Desember 1966 dalam 193 episode, dengan rating tertinggi 40,7 persen. Ia menjadi serial animasi televisi Jepang pertama berdurasi 30 menit. Sponsor Meiji Seika mengubah Atom menjadi waralaba tokoh, momen yang oleh Steinberg disebut sebagai titik nyala *media mix*. Pada tahun yang sama, NBC Enterprises membeli haknya dan memasarkannya secara sindikasi ke sekitar 50 stasiun TV AS mulai September 1963. Puluhan tahun kemudian, Taro Aso menyebut Atom sebagai tokoh yang membuat robot tampak ramah.
+Jika kamu menonton anime musim ini, banyak unsurnya sudah ada pada *Astro Boy*:
 
-Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri. Bab berikutnya membedah model bisnis yang membiayai anime, mulai dari *media mix* sampai komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.
+- serial televisi yang tayang teratur, setengah jam per episode, dengan rating tertinggi 40,7 persen;
+- tuntutan memproduksi banyak episode dengan cepat, hampir satu setiap pekan;
+- sponsor dan barang dagangan yang membuat tokoh hidup di luar layar, seperti stiker cokelat Meiji Seika;
+- penjualan ke luar negeri yang dimulai pada tahun yang sama dengan penayangan perdana, lewat sindikasi NBC Enterprises ke sekitar 50 stasiun TV AS; serial yang sama juga tayang di Tiongkok dan Eropa.
+
+Industri sekarang jauh lebih besar dan rumit, tetapi pertanyaan dasarnya masih sama dengan yang dihadapi pada 1963. Siapa yang membiayai tayangan semahal itu, dan bagaimana membuat tokohnya menghasilkan nilai lebih lama daripada masa tayangnya? Pola yang lahir dari Atom, yaitu tokoh yang dijual di banyak media sekaligus, membutuhkan mesin pembiayaan yang lebih besar seiring tumbuhnya industri, dan jawabannya kelak datang dari komite produksi yang membagi risiko pendanaan di antara banyak perusahaan.
 
 
 <!-- Chapter: 03_media-mix-dan-komite-produksi -->
 
 ## Media Mix dan Komite Produksi
 
-Bayangkan kamu membeli sebatang cokelat hanya karena ada stiker tokoh kartun favoritmu di dalam bungkusnya. Cokelatnya mungkin enak, tetapi yang membuatmu kembali ke warung adalah stiker berikutnya. Pada titik itu, cokelat sudah berganti fungsi: ia menjadi pintu masuk ke sebuah cerita.
+Bayangkan kamu membeli sebatang cokelat di warung hanya karena di dalam bungkusnya ada stiker tokoh kartun yang sedang kamu kumpulkan. Cokelatnya mungkin enak, tetapi yang membuatmu datang lagi adalah stiker berikutnya. Tanpa terasa, sebatang camilan sudah berubah fungsi menjadi pintu masuk ke sebuah cerita.
 
-Bab ini membahas mesin yang tumbuh dari logika sederhana itu, yaitu *media mix*, serta cara industri anime membiayai karyanya lewat *seisaku iinkai* atau komite produksi. Keduanya menjelaskan mengapa satu judul bisa hidup bersamaan di manga, televisi, bioskop, rak mainan, konsol gim, dan lagu tema.
+Logika sederhana itu tumbuh menjadi mesin besar bernama *media mix*. Di belakangnya ada cara industri anime membiayai karyanya, *seisaku iinkai* atau komite produksi. Keduanya menjawab satu pertanyaan: mengapa satu judul bisa hidup bersamaan di manga, televisi, bioskop, rak mainan, konsol gim, dan lagu tema?
 
-### Tokoh di Pusat, Produk di Sekelilingnya
+### Stiker yang Menjual Tayangan
 
-Di bab 2 kamu sudah bertemu stiker Atom yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg, dalam buku *Anime''s Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), memakai contoh itu untuk menunjukkan sesuatu yang lebih besar dari sekadar promosi. Yang berubah adalah arah hubungannya. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya menjadi pusat, dan setiap produk, dari tayangan sampai camilan, saling menjual satu sama lain.
+Stiker tadi bukan khayalan. Di bab 2 kamu sudah bertemu stiker Atom yang dibagikan bersama cokelat Meiji Seika. Marc Steinberg membedah contoh ini dalam *Anime''s Media Mix: Franchising Toys and Characters in Japan* (University of Minnesota Press, 2012), dan yang ia temukan lebih dari sekadar promosi. Arah hubungannya berubah. Acara televisi tidak lagi berdiri sendiri lalu ditopang iklan. Tokohnya yang berdiri di tengah, sementara tayangan, camilan, dan barang lain saling menjual satu sama lain.
 
-### Konvergensi ala Jepang
+Steinberg juga menyamakan *media mix* dengan apa yang di Barat dinamai konvergensi media (*convergence*). Dalam bacaannya, keduanya sama-sama berawal dari Astro Boy pada awal 1963, dan garis itu terus berlanjut ke waralaba yang datang belakangan.
 
-Steinberg menyebut bahwa apa yang di Jepang dikenal sebagai *media mix* pada dasarnya sama dengan yang di Barat disebut *convergence* atau konvergensi media. Menurutnya, keduanya sama-sama bermula dari Astro Boy pada awal 1963, dan garisnya terus berlanjut ke waralaba yang datang belakangan.
+### Satu Tokoh, Banyak Pintu
 
-Gagasan intinya bisa diringkas begini: cerita dan tokoh tidak dimiliki oleh satu medium. Manga bisa menjadi sumber, anime menjadi pengeras suara, mainan dan gim menjadi cara penggemar "memegang" tokohnya, sementara musik menempel di kepala. Setiap pintu mengarahkan orang ke pintu yang lain.
+Intinya, sebuah cerita tidak dimiliki satu medium. Manga bisa menjadi sumbernya. Anime bertugas sebagai pengeras suara. Mainan dan gim memberi penggemar cara untuk "memegang" tokoh yang mereka sukai, sedangkan lagu temanya menempel di kepala. Masing-masing pintu menunjuk ke pintu yang lain.
 
-### Patungan untuk Membiayai Satu Judul
+### Meja Patungan Para Pemodal
 
-Pertanyaan berikutnya lebih praktis: siapa yang membayar semua itu? Menurut tulisan [Sakuga Blog](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/) pada Mei 2017, komite produksi adalah usaha patungan beberapa perusahaan untuk mendanai sebuah karya. Penerbit, stasiun televisi, produsen mainan, biro iklan, dan distributor film bisa duduk di meja yang sama.
+Lalu, siapa yang membayar semua itu? Sebuah tulisan di [Sakuga Blog](https://blog.sakugabooru.com/2017/05/02/what-is-an-animes-production-committee/) pada Mei 2017 menjelaskan komite produksi sebagai usaha patungan beberapa perusahaan untuk mendanai satu karya. Di meja yang sama bisa duduk penerbit, stasiun televisi, produsen mainan, biro iklan, dan distributor film.
 
-Laporan itu menyebut dua keuntungan. Pertama, risiko dibagi. Kalau sebuah judul gagal, kerugian tiap anggota masih bisa ditanggung, walaupun bagian keuntungan dari judul yang laris juga ikut mengecil. Kedua, model ini menyatukan para spesialis, sehingga tiap anggota mengurus bidang yang paling ia kuasai. Investor yang menanam modal lebih besar biasanya tercantum lebih tinggi di daftar kredit.
+Patungan semacam ini membagi risiko. Kalau sebuah judul gagal, kerugian tiap anggota masih bisa ditanggung; kalau judulnya laris, bagian keuntungan masing-masing ikut mengecil. Para spesialis juga berkumpul di satu tempat, sehingga tiap anggota mengurus bidang yang paling ia kuasai. Pemodal yang menanam lebih banyak biasanya tercantum lebih tinggi di daftar kredit.
 
-Sakuga Blog menyebut *Akira* sebagai salah satu film awal yang dibiayai komite, dengan anggota antara lain Kodansha, MBS, Bandai, Hakuhodo, Toho, dan Tokyo Movie. Masih menurut tulisan yang sama, model ini makin meluas setelah *Evangelion* (1995).
+Contoh yang diangkat Sakuga Blog adalah *Akira*, salah satu film awal yang dibiayai dengan cara ini, dengan anggota antara lain Kodansha, MBS, Bandai, Hakuhodo, Toho, dan Tokyo Movie. Tulisan itu juga mencatat bahwa model komite makin meluas setelah *Evangelion* (1995).
 
-### Studio Animasi di Ujung Meja
+### Animator di Pinggir Meja
 
-Ada satu hal yang sering mengejutkan pembaca baru. Menurut Sakuga Blog, studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, bahkan kerap tidak menjadi anggota sama sekali. Artinya, ketika sebuah judul meledak, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini akan dibahas lebih dalam di bab 12.
+Satu pihak sering hanya kebagian ujung meja itu. Studio animasi, tempat para animator benar-benar menggambar, sering hanya menjadi anggota kecil komite, dan kerap tidak menjadi anggota sama sekali, masih menurut tulisan yang sama. Akibatnya, ketika sebuah judul meledak, sebagian besar hasilnya bisa mengalir ke pihak lain, bukan ke tangan yang membuat gambarnya bergerak. Ketimpangan ini dibahas lebih dalam di bab 12.
 
-### Rantai Pokémon dari Gim ke Layar Lebar
+### Rantai Pokémon dari Konsol ke Bioskop
 
-Pokémon memperlihatkan bagaimana *media mix* bekerja sebagai rantai. Gim Pokémon pertama dirilis pada 27 Februari 1996. Pada April 1997, serial animenya mulai tayang di TV Tokyo, lalu pada Juli 1998 film *Mewtwo Strikes Back* dibuka di bioskop Jepang. Setiap mata rantai memperkenalkan tokoh yang sama kepada penonton baru, kemudian mengantar mereka kembali ke gim dan barang dagangan lain.
+Pokémon memperlihatkan *media mix* sebagai rantai. Gim pertamanya dirilis pada 27 Februari 1996, serial animenya mulai tayang di TV Tokyo pada April 1997, dan *Mewtwo Strikes Back* dibuka di bioskop Jepang pada Juli 1998. Setiap mata rantai memperkenalkan tokoh yang sama kepada penonton baru, lalu mengantar mereka kembali ke gim dan barang dagangan lain.
 
-Urutan ini tidak harus selalu dimulai dari gim. Pada judul lain, titik awalnya bisa manga atau tayangan televisi, seperti Astro Boy yang kemudian merambah bungkus cokelat. Yang penting adalah tiap medium memberi alasan untuk mencoba medium berikutnya.
+Titik awalnya tidak harus gim. Pada judul lain, rantai bisa dimulai dari manga atau tayangan televisi, seperti Astro Boy yang kemudian sampai ke bungkus cokelat. Yang penting adalah setiap medium memberi alasan untuk mencoba medium berikutnya.
 
-### Mitra yang Mendorong Bersamaan
+Ketika banyak mitra berkepentingan pada satu judul, masing-masing bisa mendorongnya lewat salurannya sendiri, termasuk ke luar negeri. Peluncuran Pokémon di Amerika memberi gambaran seperti apa dorongan serentak itu. [Halaman sejarah The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/) mencatat bahwa animenya mulai tayang di Amerika Serikat pada September 1998 di 111 stasiun, berbarengan dengan peluncuran gim *Red* dan *Blue* di sana. Anak yang mengenal tokohnya dari televisi bisa langsung menemukannya di konsol, dan sebaliknya.
 
-Ketika banyak mitra berkepentingan pada satu judul, masing-masing bisa mendorongnya lewat salurannya sendiri, termasuk ke luar negeri. Peluncuran lintas media Pokémon memberi gambaran seperti apa dorongan serentak itu. Menurut [halaman sejarah The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime Pokémon diluncurkan di Amerika Serikat pada September 1998 di 111 stasiun, berbarengan dengan peluncuran gim Red dan Blue di sana. Anak yang mengenal tokohnya dari televisi bisa langsung menemukannya di konsol, dan sebaliknya.
+Lain halnya dengan satu studio yang menawarkan karyanya sendirian ke pasar asing. Tanpa penerbit, produsen mainan, dan perusahaan gim yang ikut bergerak, serialnya hanya punya satu pintu. Dengan komite, satu judul datang membawa banyak pintu sekaligus.
 
-Bandingkan dengan satu studio yang harus menawarkan karyanya sendirian ke pasar asing. Tanpa penerbit, produsen mainan, dan perusahaan gim yang ikut bergerak, sebuah serial hanya punya satu pintu. Dengan komite, satu judul datang membawa banyak pintu sekaligus.
-
-Dari sudut pandang *soft power*, inilah bagian yang paling penting. Penonton di luar Jepang jarang bertemu Jepang lewat satu pengalaman saja. Mereka menonton serialnya, memainkan gimnya, mengoleksi mainannya, lalu menyanyikan lagu temanya. Setiap sentuhan kecil itu menambah rasa akrab, dan rasa akrab adalah bahan baku daya tarik yang dibahas di bab 1. Anggota komite bergerak karena kepentingan dagang, tetapi gerak serentak itu bisa menghasilkan efek yang mirip diplomasi budaya.
+Bagi *soft power*, di sinilah bobotnya. Penonton di luar Jepang jarang bertemu Jepang lewat satu pengalaman saja. Mereka menonton serialnya, memainkan gimnya, mengoleksi mainannya, lalu menyanyikan lagu temanya. Setiap sentuhan kecil menambah rasa akrab, dan rasa akrab adalah bahan baku daya tarik yang dibahas di bab 1. Anggota komite bergerak karena urusan dagang, tetapi gerak serentak mereka bisa menghasilkan efek yang menyerupai diplomasi budaya.
 
 ### Benang Merah
 
-Stiker cokelat Meiji Seika dan peluncuran Pokémon di 111 stasiun Amerika lahir dari logika yang sama: satu tokoh, banyak pintu. *Media mix* membuat cerita hidup di banyak medium sekaligus, sedangkan komite produksi menyediakan modal dan jaringan mitra untuk mewujudkannya sambil membagi risiko. Harganya, studio yang menggambar sering berada di pinggir pembagian hasil.
+Stiker di bungkus cokelat Meiji Seika dan serial Pokémon di 111 stasiun Amerika lahir dari logika yang sama: satu tokoh, banyak pintu. *Media mix* membuat cerita hidup di banyak medium sekaligus, dan komite produksi menyediakan modal serta jaringan mitranya sambil membagi risiko. Sisi lainnya, studio yang menggambar sering berada di pinggir pembagian hasil.
 
-Sejauh ini kita melihat cara kerja mesinnya. Bab berikutnya mengikuti langkah selanjutnya, ketika judul-judul ini meninggalkan rumah dan mulai menemukan penonton di seluruh dunia.
+Mesinnya sudah terpasang. Pertanyaannya tinggal satu: apa yang terjadi ketika judul-judul ini meninggalkan rumah dan mulai mencari penonton di seluruh dunia?
 
 
 <!-- Chapter: 04_akira-pokemon-dan-gelombang-pertama-ke-barat -->
 
 ## Akira, Pokémon, dan Gelombang Pertama ke Barat
 
-Menurut data Box Office Mojo yang dikutip luas, sebuah film kartun Jepang dibuka di peringkat pertama bioskop Amerika Utara pada November 1999. Film itu adalah *Pokémon: The First Movie*. Menurut laporan yang sama, pendapatannya mencapai 85,7 juta dolar AS di Amerika Utara dan 172 juta dolar AS di seluruh dunia. Bagi animasi dari negara yang bahasanya tidak dipahami sebagian besar penontonnya, itu pencapaian yang patut kamu catat.
+Pada November 1999, sebuah film kartun Jepang dibuka di peringkat pertama bioskop Amerika Utara, dan judulnya adalah *Pokémon: The First Movie*. Data Box Office Mojo yang dikutip luas mencatat peringkat itu, berikut pendapatannya: 85,7 juta dolar AS di Amerika Utara dan 172 juta dolar AS di seluruh dunia. Untuk animasi dari negara yang bahasanya tidak dipahami sebagian besar penontonnya, hasil itu bukan perkara kecil.
 
-Hasil itu tidak muncul tiba-tiba. Sekitar sebelas tahun sebelumnya, sebuah film animasi lain sudah membuka jalan dari arah yang sama sekali berbeda. Ini bukan kedatangan pertama anime di Barat, karena Astro Boy sudah tayang di stasiun TV Amerika sejak 1963, tetapi inilah gelombang pertama yang menembus arus utama. Bab ini menelusuri gelombang yang kira-kira berlangsung dari 1988 sampai 2000-an, ketika anime dan manga berubah dari tontonan segelintir penggemar menjadi bagian dari budaya populer Barat. Menariknya, gelombang ini tidak masuk lewat satu pintu. Ada pintu film seni, pintu waralaba anak, dan pintu komik *shonen* (manga untuk pembaca remaja laki-laki), masing-masing menjangkau penonton yang berbeda.
+Anime sebenarnya bukan pendatang baru di sana. Astro Boy sudah tayang di stasiun TV Amerika sejak 1963. Namun inilah gelombang pertama yang menembus arus utama. Dari kira-kira 1988 sampai 2000-an, anime dan manga bergeser dari tontonan segelintir penggemar menjadi bagian dari budaya populer Barat, dan pergeseran itu tidak datang lewat satu jalan. Ada jalur film seni, jalur waralaba anak, dan jalur komik *shonen* (manga untuk pembaca remaja laki-laki). Masing-masing menjangkau penonton yang berbeda.
 
 ### Akira Mengguncang Penonton Film Dewasa
 
-*Akira* tayang di Jepang pada 16 Juli 1988. Menurut [liputan khusus Japan Times](https://features.japantimes.co.jp/akira-new/), anggarannya lebih dari 1 miliar yen, angka terbesar untuk film anime sampai saat itu. Film ini tayang perdana di AS pada 25 Desember 1989 lewat Streamline Pictures, lalu diedarkan terbatas sepanjang 1990. Mula-mula ia diputar di beberapa kota, kemudian menyebar ke jaringan bioskop *arthouse* yang lebih luas.
+Sekitar sebelas tahun sebelum Pokémon, jalan pertama sudah dibuka dari arah yang sama sekali berbeda. *Akira* tayang di Jepang pada 16 Juli 1988 dengan anggaran lebih dari 1 miliar yen, angka terbesar untuk film anime sampai saat itu, seperti dicatat [liputan khusus Japan Times](https://features.japantimes.co.jp/akira-new/). Di Amerika Serikat, film ini tayang perdana pada 25 Desember 1989 lewat Streamline Pictures, lalu beredar terbatas sepanjang 1990. Mula-mula ia diputar di beberapa kota, kemudian menyebar ke jaringan bioskop *arthouse* yang lebih luas.
 
-Jalur peredaran itu penting. Jalur *arthouse* menempatkan *Akira* di antara film seni, bukan film keluarga. Japan Times menyebut film ini membantu memicu apresiasi terhadap anime di Barat, sedangkan British Film Institute (BFI) menggambarkannya sebagai film yang mengirim gelombang kejut ke dunia film, baik di Jepang maupun di Barat.
+Jalur peredaran itu penting. Di bioskop *arthouse*, *Akira* bersanding dengan film seni, bukan film keluarga. Japan Times menilai film ini membantu memicu apresiasi terhadap anime di Barat, dan British Film Institute (BFI) menggambarkannya sebagai film yang mengirim gelombang kejut ke dunia film, di Jepang maupun di Barat.
 
-Di Inggris, dampaknya terasa lewat format lain. Helen McCarthy, seperti dikutip Japan Times, mengatakan bahwa rilis video *Akira* di Inggris pada 1991 menjadi pemicu ledakan anime di negara itu. Jadi pintu pertama ini terbuka di dua tempat sekaligus: layar bioskop seni dan rak video.
-
-Dari sudut pandang *soft power*, peran *Akira* bisa dibaca begini: film ini memberi kalangan kritikus dan pencinta film alasan untuk membicarakan animasi Jepang dengan serius, bukan sekadar sebagai hiburan anak.
+Inggris merasakannya lewat rak video. Helen McCarthy, yang dikutip Japan Times, melihat rilis video *Akira* di Inggris pada 1991 sebagai pemicu ledakan anime di negara itu. Jalur pertama ini terbuka di dua tempat sekaligus: layar bioskop seni dan rak video. Dibaca dari sudut *soft power*, di situ peran *Akira*: ia memberi kritikus dan pencinta film alasan untuk membicarakan animasi Jepang dengan serius, bukan sekadar sebagai hiburan anak.
 
 ### Monster Saku Menyerbu Televisi Amerika
 
-Pintu kedua dibuka oleh sesuatu yang justru sangat ramah anak. Gim *Pokémon* pertama dirilis pada 27 Februari 1996. Serial anime-nya mulai tayang di TV Tokyo pada April 1997, dan film layar lebar pertamanya, *Mewtwo Strikes Back*, dibuka di Jepang pada Juli 1998.
+Jalur kedua dibuka oleh sesuatu yang sangat ramah anak. Di Jepang, *Pokémon* sudah menempuh rantai yang kamu lihat di bab 3, dari gim pertama pada 27 Februari 1996, serial televisi pada 1997, sampai film layar lebar pada 1998. Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), animenya mulai tayang di AS pada September 1998 di 111 stasiun televisi, pada tahun yang sama dengan peluncuran gim *Red* dan *Blue* di sana. Setahun kemudian, pada November 1999, filmnya mencetak angka box office yang kamu baca di awal bab.
 
-Menurut [sejarah resmi The Pokémon Company](https://corporate.pokemon.co.jp/en/aboutus/history/), anime *Pokémon* mulai tayang di AS pada September 1998 di 111 stasiun televisi. Pada tahun yang sama, gim *Red* dan *Blue* juga diluncurkan di AS. Setahun kemudian, pada November 1999, *Pokémon: The First Movie* masuk bioskop Amerika dan menghasilkan angka yang kamu baca di awal bab.
-
-Perhatikan urutannya. Gim, serial televisi, dan film tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan kemungkinan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
+Gim, serial, dan film itu tidak datang sendiri-sendiri. Ketiganya tiba berdekatan dan kemungkinan saling mendorong: anak yang menonton serialnya ingin memainkan gimnya, dan anak yang memainkan gimnya ikut antre di bioskop. Pola waralaba lintas media yang matang di Jepang kini bekerja di pasar luar negeri.
 
 ### Ratusan Juta Eksemplar Manga Shonen
 
-Pintu ketiga lebih senyap, yaitu manga itu sendiri. Angka penjualannya baru bisa diukur belakangan, karena dihitung secara kumulatif selama puluhan tahun.
+Jalur ketiga lebih senyap, yaitu manga itu sendiri, dan ukurannya baru terlihat belakangan karena penjualan dihitung kumulatif selama puluhan tahun. *Naruto* memberi gambaran paling jelas: situs resminya yang dikelola Shueisha mencatat pada Oktober 2022 bahwa manga ini sudah terjual lebih dari 250 juta eksemplar di seluruh dunia, termasuk versi digital, beredar di 60 negara dan wilayah, dan lebih dari 100 juta di antaranya edisi luar negeri. Itulah ukuran seberapa jauh sebuah manga bisa sampai ke pembaca di luar Jepang. *Dragon Ball* mencapai 260 juta eksemplar menurut siaran pers Toei Animation (Juni 2022), sedangkan *One Piece* karya Eiichiro Oda tercatat di Guinness World Records sebagai seri komik dengan eksemplar terbanyak yang diterbitkan satu pengarang, 416.566.000 eksemplar dari Desember 1997 sampai Juli 2022.
 
-Menurut siaran pers Toei Animation pada Juni 2022, manga *Dragon Ball* telah terjual 260 juta eksemplar di seluruh dunia. Situs resmi *Naruto* yang dikelola Shueisha mencatat pada Oktober 2022 bahwa manga tersebut sudah terjual lebih dari 250 juta eksemplar di seluruh dunia, termasuk versi digital. Ia beredar di 60 negara dan wilayah, dan lebih dari 100 juta di antaranya merupakan edisi luar negeri. Angka terakhir ini menarik karena langsung menunjukkan seberapa besar pembaca di luar Jepang.
+### Tiga Jalur, Tiga Jenis Penonton
 
-Lalu ada *One Piece* karya Eiichiro Oda. Guinness World Records mencatatnya sebagai seri komik dengan jumlah eksemplar terbanyak yang diterbitkan oleh satu pengarang, yaitu 416.566.000 eksemplar dalam rentang Desember 1997 sampai Juli 2022. Belakangan, Guinness juga melaporkan angka 500 juta eksemplar yang telah dicetak di seluruh dunia. Dua angka ini berasal dari waktu yang berbeda, jadi sebaiknya kamu membacanya terpisah.
+Jajarkan ketiganya, dan polanya kelihatan. *Akira* meyakinkan penonton dewasa dan kritikus. *Pokémon* masuk ke ruang keluarga lewat televisi, gim, dan bioskop. Manga *shonen* membangun pembaca setia yang membeli jilid demi jilid selama bertahun-tahun. Tidak satu pun menjangkau semua kalangan, tetapi bersama-sama mereka membuat anime dan manga hadir bagi penonton yang sangat berbeda.
 
-### Penonton Berbeda, Arah yang Sama
-
-Kalau ketiga pintu ini dijajarkan, polanya terlihat. *Akira* meyakinkan penonton dewasa dan kritikus. *Pokémon* masuk ke ruang keluarga lewat televisi, gim, dan bioskop. Manga *shonen* membangun pembaca setia yang terus membeli jilid demi jilid selama bertahun-tahun. Tidak ada satu pun yang menjangkau semua kalangan, tetapi bersama-sama mereka membuat anime dan manga hadir bagi penonton yang sangat berbeda.
-
-Inilah yang membuat gelombang ini berbeda dari kampanye promosi biasa. Daya tariknya tidak bertumpu pada satu judul atau satu jenis penonton. Ketika satu pintu meredup, pintu lain masih terbuka.
+Karena itu gelombang ini tidak bisa disamakan dengan kampanye promosi biasa. Daya tariknya tidak bertumpu pada satu judul atau satu jenis penonton, sehingga ketika satu jalur meredup, jalur lain masih terbuka.
 
 ### Poin Penting
 
-- *Akira* (Jepang 1988, AS sejak akhir 1989) membuka pintu bioskop seni dan, menurut Japan Times, membantu memicu apresiasi terhadap anime di Barat. Menurut Helen McCarthy, rilis videonya pada 1991 memicu ledakan anime di Inggris.
-- *Pokémon* masuk sebagai waralaba anak yang menggabungkan gim, serial televisi di 111 stasiun AS, dan film yang, menurut data Box Office Mojo, dibuka di peringkat pertama Amerika Utara.
-- Manga *shonen* seperti *Dragon Ball*, *Naruto*, dan *One Piece* mencatat penjualan ratusan juta eksemplar. Khusus *Naruto*, lebih dari 100 juta eksemplarnya adalah edisi luar negeri.
-- Kekuatan gelombang ini terletak pada keragaman pintunya, bukan pada satu judul unggulan.
+- *Akira* membuka jalur bioskop seni di Amerika sejak akhir 1989, dan rilis videonya pada 1991, menurut Helen McCarthy, memicu ledakan anime di Inggris.
+- *Pokémon* datang sebagai paket waralaba anak: serial di 111 stasiun AS, gim *Red* dan *Blue*, lalu film yang, menurut data Box Office Mojo, dibuka di peringkat pertama Amerika Utara.
+- Manga *shonen* seperti *Dragon Ball*, *Naruto*, dan *One Piece* mencatat ratusan juta eksemplar, dan lebih dari 100 juta eksemplar *Naruto* adalah edisi luar negeri.
 
-Semua pintu di atas dibuka lewat jalur resmi: distributor film, stasiun televisi, dan penerbit. Namun di sela-sela jalur resmi itu, ada kelompok lain yang bekerja tanpa kontrak dan tanpa bayaran. Di bab berikutnya, kamu akan bertemu para penggemar yang menyebarkan anime dengan tangan mereka sendiri.
+Semua jalur itu resmi: distributor film, stasiun televisi, penerbit. Di sela-selanya, ada orang-orang yang bekerja tanpa kontrak dan tanpa bayaran, yaitu para penggemar yang menyebarkan anime dengan tangan mereka sendiri.
 
 
 <!-- Chapter: 05_penggemar-sebagai-duta-tak-resmi -->
 
 ## Penggemar sebagai Duta Tak Resmi
 
-Menurut Sean Leonard, anime pernah menyebar di Amerika Serikat lewat tangan penggemar, saat pemilik haknya di Jepang tidak lagi menggarap pasar itu. Coba tanyakan pada dirimu sendiri: sebelum layanan resmi menjangkau banyak judul, siapa yang menerjemahkan sebagian besar serial itu ke bahasa Inggris lalu membagikannya dari satu orang ke orang lain? Sering kali bukan studio atau distributor, dan jelas bukan pemerintah. Pelakunya orang biasa yang terlalu suka pada sebuah tontonan sampai tidak tahan menyimpannya sendiri.
+Bayangkan serial kesukaanmu tidak dijual di negaramu, dan satu-satunya jalan untuk menontonnya adalah terjemahan buatan orang asing yang sama gemarnya.
 
-Bab sebelumnya bercerita tentang judul-judul yang menembus Barat lewat jalur dagang. Bab ini melihat jalur yang lebih sunyi dan lebih berantakan: penggemar yang bekerja tanpa izin dan tanpa bayaran.
+Untuk sebagian penonton anime di Amerika Serikat, begitulah keadaannya selama bertahun-tahun. Yang mengantar tontonan itu sering kali bukan studio atau distributor, apalagi pemerintah. Pengantarnya orang biasa yang terlalu suka pada sebuah serial sampai tidak tahan menyimpannya sendiri.
 
-### Pasar yang Sempat Ditinggalkan
+Bab 4 mengikuti judul-judul yang menembus Barat lewat jalur dagang. Jalur para penggemar jauh lebih sunyi dan lebih berantakan: tanpa izin, tanpa bayaran.
 
-Sean Leonard menulis tentang fenomena ini dalam artikel di *International Journal of Cultural Studies* tahun 2005, berjudul "Progress against the law" ([DOI 10.1177/1367877905055679](https://doi.org/10.1177/1367877905055679)). Ia meneliti rentang waktu yang cukup panjang, dari 1976 sampai 1993, dan menemukan situasi yang terdengar janggal. Menurut Leonard, para pemegang hak di Jepang pada masa itu sudah meninggalkan pasar Amerika. Ruang kosong itu kemudian diisi oleh penggemar.
+### Pasar yang Ditinggal Pemiliknya
 
-Cara kerja penggemar pada masa itu mirip orang yang sedang menyebarkan keyakinan. Mereka tidak sekadar menonton; mereka mengajak, membujuk, dan memperkenalkan judul demi judul kepada orang yang belum pernah mendengarnya. Menurut Leonard, semangat menularkan kegemaran inilah yang menyalakan gerakan anime di Amerika Serikat.
+Sean Leonard memetakan jalur sunyi itu dalam artikel "Progress against the law" di *International Journal of Cultural Studies* tahun 2005 ([DOI 10.1177/1367877905055679](https://doi.org/10.1177/1367877905055679)). Ia menelusuri rentang 1976 sampai 1993 dan menemukan keadaan yang terdengar janggal. Para pemegang hak di Jepang waktu itu sudah meninggalkan pasar Amerika.
 
-Leonard juga mengaitkan seluruh argumennya dengan pertanyaan yang lebih besar, yaitu bagaimana sebuah budaya menjadi global. Kamu tidak perlu menguasai teorinya untuk menangkap intinya: budaya Jepang tidak hanya dikirim dari Tokyo, tetapi juga dijemput dari bawah oleh orang-orang di negeri lain.
+Ruang kosong itu diisi penggemar. Mereka bekerja seperti orang yang sedang menyebarkan keyakinan. Menonton sendiri tidak cukup; mereka mengajak, membujuk, dan memperkenalkan judul demi judul kepada orang yang belum pernah mendengarnya. Dalam pembacaan Leonard, semangat menularkan kegemaran itulah yang menyalakan gerakan anime di Amerika Serikat.
+
+Leonard lalu menarik argumennya ke pertanyaan yang lebih luas, yaitu bagaimana sebuah budaya menjadi global. Kamu tidak perlu menguasai teorinya untuk menangkap intinya. Budaya Jepang tidak hanya dikirim dari Tokyo. Ia juga dijemput dari bawah oleh orang-orang di negeri lain.
 
 ### Subtitle Buatan Para Penggemar
 
-Alat utama gerakan ini adalah *fansub*, gabungan kata *fan* dan *subtitle*, yaitu teks terjemahan yang dibuat penggemar untuk tontonan yang belum punya versi resmi. Seseorang yang paham bahasa Jepang menerjemahkan dialog, lalu hasilnya ditempelkan pada video dan disebarkan ke sesama penggemar. Tidak ada kontrak, tidak ada honor, dan tidak ada jaminan mutu selain reputasi kelompok penerjemahnya.
+Alat utama gerakan ini bernama *fansub*, gabungan kata *fan* dan *subtitle*: teks terjemahan yang dibuat penggemar untuk tontonan yang belum punya versi resmi. Seseorang yang paham bahasa Jepang menerjemahkan dialognya, teks itu ditempelkan pada video, lalu videonya berpindah dari satu penggemar ke penggemar lain. Tidak ada kontrak dan tidak ada honor. Jaminan mutunya hanya reputasi kelompok penerjemah.
 
-Leonard mencatat bahwa sejak 1998 sebagian besar *fansub* sudah berbentuk berkas digital. Artinya, penyebarannya tidak lagi bergantung pada salinan fisik yang harus berpindah tangan. Berkas digital jauh lebih mudah disalin dan dikirim ulang, sehingga satu terjemahan bisa beredar lebih luas daripada sebelumnya.
+Sejak 1998, tulis Leonard, sebagian besar *fansub* sudah berupa berkas digital. Salinan fisik harus berpindah tangan satu demi satu, sedangkan berkas digital jauh lebih mudah disalin dan dikirim ulang. Satu terjemahan pun bisa beredar lebih luas daripada sebelumnya.
 
 ### Pelanggaran yang Ikut Membuka Pintu
 
-Di sinilah bagian yang tidak nyaman. Semua kegiatan tadi melanggar hak cipta. Leonard tidak menyembunyikan hal itu, bahkan menjadikannya pusat argumen. Menurutnya, pelanggaran hak cipta yang terus-menerus oleh penggemar selama 1976 sampai 1993 justru mendorong perdagangan dan perkembangan seni. Dalam kerangka Leonard, penonton tanpa izin pada masa itu adalah calon pembeli resmi ketika produknya akhirnya tersedia.
+Bagian berikut ini tidak nyaman: semua kegiatan tadi melanggar hak cipta. Leonard tidak menutupinya. Ia malah menaruhnya di pusat argumen. Pelanggaran yang terus-menerus selama 1976 sampai 1993, katanya, ikut mendorong perdagangan dan perkembangan seni. Dalam kerangka itu, penonton tanpa izin pada masa tersebut adalah calon pembeli resmi begitu produknya akhirnya tersedia.
 
-Argumen ini mudah disalahpahami sebagai pembenaran pembajakan, padahal konteksnya spesifik. Leonard berbicara tentang masa ketika pemilik hak tidak hadir di pasar itu. Situasinya berbeda ketika layanan resmi sudah tersedia dan salinan tanpa izin bersaing langsung dengan produk yang bisa dibeli. Ketegangan antara jasa penggemar dan kerugian pemegang hak ini akan dibahas lebih jauh di bab 9, yang menyorot manga digital dan perang melawan pembajakan.
+Argumen ini gampang dibaca sebagai pembenaran pembajakan, padahal konteksnya sempit. Leonard berbicara tentang masa ketika pemilik hak absen dari pasar itu. Ceritanya lain ketika layanan resmi sudah ada dan salinan tanpa izin bersaing langsung dengan produk yang bisa kamu beli. Tarik-menarik antara jasa penggemar dan kerugian pemegang hak itu muncul lagi di bab 9, saat manga digital berhadapan dengan pembajakan.
 
-### Layanan Resmi Berskala Besar
+### Ketika Versi Resmi Menyusul
 
-Belakangan, layanan resmi hadir dengan skala yang jauh lebih besar. Penonton tidak perlu lagi bergantung pada terjemahan buatan penggemar, karena versi resmi tersedia lewat aplikasi berlangganan.
+Belakangan, perusahaan datang dengan layanan resmi yang skalanya jauh lebih besar. Penonton tidak perlu lagi bergantung pada terjemahan buatan penggemar, karena versi resminya tinggal dibuka lewat aplikasi berlangganan.
 
-Ukuran pasarnya terlihat dari Crunchyroll. Pada Agustus 2021, Sony Pictures mengumumkan bahwa Funimation Global Group, usaha bersama Sony Pictures Entertainment dan Aniplex, telah menuntaskan pembelian Crunchyroll dari AT&T senilai 1,175 miliar dolar AS ([siaran pers Sony Pictures](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt)). Saat itu Crunchyroll punya 5 juta pelanggan berbayar dan 120 juta pengguna terdaftar di lebih dari 200 negara dan wilayah. Hitungan sederhana menunjukkan jumlah pengguna terdaftar 24 kali lipat jumlah pelanggan. Artinya, jumlah orang yang mendaftar jauh melampaui jumlah yang membayar.
+Ukurannya bisa kamu lihat dari Crunchyroll. Pada Agustus 2021, Funimation Global Group, usaha bersama Sony Pictures Entertainment dan Aniplex, menuntaskan pembelian Crunchyroll dari AT&T senilai 1,175 miliar dolar AS ([siaran pers Sony Pictures](https://www.sonypictures.com/corp/press_releases/2021/0809/sonysfunimationglobalgroupcompletesacquisitionofcrunchyrollfromatt)). Saat itu Crunchyroll punya 5 juta pelanggan berbayar dan 120 juta pengguna terdaftar. Jauh lebih banyak orang yang mendaftar daripada yang membayar.
 
-Manga menempuh jalan serupa. Pada Januari 2019, Shueisha meluncurkan MANGA Plus secara global dengan 50 judul. Bab baru dari serial *Weekly Shonen Jump*, *Jump SQ*, dan *Shonen Jump+* terbit bersamaan dengan Jepang, dan bab pertama serta bab terbaru bisa dibaca gratis. Model ini menawarkan dua hal sekaligus: bab baru tanpa jeda dari Jepang dan akses gratis ke bab pertama serta terbaru.
+Manga menempuh jalan serupa. Pada Januari 2019, Shueisha meluncurkan MANGA Plus secara global. Bab baru dari serial *Weekly Shonen Jump*, *Jump SQ*, dan *Shonen Jump+* terbit bersamaan dengan Jepang, sementara bab pertama dan bab terbaru bisa dibaca gratis. Pembaca di luar negeri bisa membaca bab yang sama pada waktu yang sama dengan pembaca di Jepang.
 
-Data Netflix pada Juli 2025 memperlihatkan skala penontonnya sekarang ([pengumuman Netflix](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom)). Lebih dari separuh anggotanya di seluruh dunia menonton anime, dan 80 sampai 90 persen penonton anime di sana menonton versi sulih suara (*dub*). Penonton anime kini tidak lagi terbatas pada kelompok kecil yang betah membaca teks terjemahan di bagian bawah layar.
+Lalu ada Netflix. Pengumumannya pada Juli 2025 ([pengumuman Netflix](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom)) menyebut bahwa lebih dari separuh anggotanya di seluruh dunia menonton anime, dan 80 sampai 90 persen penonton anime di sana menonton versi sulih suara (*dub*). Anime kini tidak lagi terbatas pada kelompok kecil yang betah membaca teks terjemahan di bagian bawah layar.
 
 ### Inti Pembahasan
 
-Penggemar menjadi duta tak resmi anime di Amerika Serikat. Menurut Leonard, mereka menyalakan gerakan anime di sana ketika pemegang hak di Jepang sudah meninggalkan pasar itu, dengan cara yang melanggar hak cipta tetapi ikut mendorong perdagangan. *Fansub* menjadi alat utamanya, dan sejak 1998 sebagian besar berpindah ke bentuk digital. Belakangan, perusahaan membangun layanan resmi berskala besar: Crunchyroll dengan 120 juta pengguna terdaftar saat dibeli Sony, MANGA Plus yang terbit bersamaan dengan Jepang, dan Netflix yang penonton animenya kebanyakan menonton versi sulih suara.
+Selain jalur resmi, anime juga masuk ke Amerika Serikat lewat pintu belakang. Ketika pemegang hak di Jepang meninggalkan pasar itu, penggemar mengisinya dengan *fansub*, yang sejak 1998 sebagian besar berupa berkas digital, dan Leonard berpendapat bahwa pelanggaran itu ikut mendorong perdagangan. Pintu depannya baru terbuka lebar belakangan: Crunchyroll dengan 120 juta pengguna terdaftar ketika dibeli, MANGA Plus yang terbit serentak dengan Jepang, dan Netflix yang penonton animenya kebanyakan menonton versi sulih suara.
 
-Sampai di titik ini, yang bergerak masih pasar dan komunitas. Namun budaya pop yang tumbuh dari pasar dan komunitas ini akhirnya juga dilirik negara. Di bab berikutnya, kamu akan melihat bagaimana Kementerian Luar Negeri Jepang mulai memandang budaya pop sebagai bagian dari diplomasi.
+Sejauh ini, yang bergerak di bab ini masih pasar dan komunitas. Kalau orang di negeri lain sudah sesuka itu pada anime, apakah negara asalnya akan diam saja? Di Tokyo, Kementerian Luar Negeri Jepang ternyata mulai ikut memandang budaya pop sebagai bagian dari diplomasi.
 
 
 <!-- Chapter: 06_diplomasi-pop-kementerian-luar-negeri -->
 
 ## Diplomasi Pop Kementerian Luar Negeri
 
-Pada 19 Maret 2008, seekor kucing robot biru menerima penugasan resmi di gedung Kementerian Luar Negeri Jepang. Yang melantiknya adalah Menteri Luar Negeri Masahiko Koumura, dan jabatan barunya terdengar ganjil di telinga diplomat mana pun, yaitu Duta Anime. Kucing itu tentu saja Doraemon. Pesan dari upacara kecil itu cukup jelas: tokoh kartun kini ikut membawa nama negara.
+Pada 19 Maret 2008, di kantor Kementerian Luar Negeri Jepang, seekor kucing robot biru menerima jabatan yang terdengar ganjil bagi diplomat mana pun. Jabatannya Duta Anime, yang melantiknya Menteri Luar Negeri Masahiko Koumura, dan kucing itu tentu saja Doraemon.
 
-Bagaimana sebuah kementerian yang biasa mengurus kedutaan dan perundingan sampai mengangkat tokoh anime menjadi duta? Bab ini menelusuri langkah Kementerian Luar Negeri Jepang (MOFA) antara 2006 dan 2009, lalu menimbang kritik akademis yang menyertainya.
+Kementerian yang sehari-hari mengurus kedutaan dan perundingan tidak sampai ke titik itu dalam semalam. Jalannya bisa kamu telusuri mundur sampai ke sebuah pidato dua tahun sebelumnya, dan di ujungnya menunggu kritik akademis yang patut didengar.
 
 ### Pidato Aso di Kampus Digital Hollywood
 
-Langkah kementerian itu berawal dari sebuah pidato. Pada 28 April 2006, Menteri Luar Negeri Taro Aso berbicara di Digital Hollywood University dengan judul *A New Look at Cultural Diplomacy: A Call to Japan''s Cultural Practitioners*. Yang ia sapa bukan sesama diplomat, melainkan orang-orang yang bekerja di dunia kreatif. Isi [pidato itu](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html) lebih mirip undangan terbuka ketimbang laporan kebijakan.
+Pada 28 April 2006, Menteri Luar Negeri Taro Aso berbicara di Digital Hollywood University. Yang ia sapa bukan sesama diplomat, melainkan orang-orang yang bekerja di dunia kreatif, dan [pidatonya](https://www.mofa.go.jp/announce/fm/aso/speech0604-2.html) lebih terdengar seperti undangan terbuka daripada laporan kebijakan.
 
-Argumen Aso berangkat dari pengamatan sederhana. Diplomasi masa kini sangat bergantung pada opini publik massa di negara lain. Kalau begitu, budaya pop yang disukai banyak orang semestinya menjadi sekutu diplomasi, bukan sekadar hiburan. Ia menyatakan bahwa kementeriannya ingin memasarkan budaya pop, dan ia meminta para kreator ikut menggosok citra merek Jepang.
+Logikanya sederhana. Diplomasi masa kini sangat bergantung pada opini publik di negara lain. Kalau begitu, budaya pop yang disukai banyak orang semestinya menjadi sekutu diplomasi, bukan sekadar hiburan. Aso menyatakan bahwa kementeriannya ingin memasarkan budaya pop, lalu meminta para kreator ikut menggosok citra merek Jepang.
 
-Aso juga membawa contoh. Menurutnya, *Astro Boy* dan Doraemon membuat robot terasa ramah. Ia pun menyebut serial sepak bola *Captain Tsubasa* sebagai sumber inspirasi bagi Zidane dan Totti. Klaim itu datang dari mulut sang menteri sendiri, jadi wajar dibaca sebagai bagian dari retorika pidato, bukan hasil penelitian.
+Ia juga membawa contoh. *Astro Boy* dan Doraemon, katanya, membuat robot terasa ramah, dan serial sepak bola *Captain Tsubasa* menjadi sumber inspirasi bagi Zidane dan Totti. Klaim itu keluar dari mulut seorang menteri yang sedang berpidato, jadi bacalah sebagai retorika, bukan hasil penelitian.
 
-Satu usulan dari pidato itu kelak menjadi program nyata, yaitu hadiah manga yang ia bandingkan dengan Hadiah Nobel. Ia juga menggagas seniman anime muda sebagai duta budaya.
+Dua usulan dari pidato itu layak diingat. Yang pertama adalah hadiah manga yang ia bandingkan dengan Hadiah Nobel. Yang kedua, seniman anime muda yang diangkat menjadi duta budaya.
 
 ### Hadiah Manga yang Digelar Tiap Tahun
 
-Usulan hadiah manga terwujud setahun kemudian. Pada Mei 2007, atas prakarsa Aso, MOFA mendirikan [Japan International MANGA Award](https://www.mofa.go.jp/policy/culture/exchange/pop/manga/index.html). Penghargaan ini digelar setiap tahun sejak itu, dan edisi ke-20 membuka pendaftaran pada 2026.
+Usulan pertama terwujud setahun kemudian. Pada Mei 2007, atas prakarsa Aso, kementerian itu mendirikan [Japan International MANGA Award](https://www.mofa.go.jp/policy/culture/exchange/pop/manga/index.html). Penghargaan ini digelar setiap tahun sejak itu, dan edisi ke-20 membuka pendaftaran pada 2026.
 
-Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, tetapi oleh kementerian yang sehari-hari menangani hubungan antarnegara. Usianya yang hampir dua dekade juga menunjukkan bahwa ia bukan proyek sekali jalan yang ikut hilang ketika menterinya berganti.
+Yang membuatnya unik adalah penyelenggaranya. Hadiah ini tidak diurus penerbit, tetapi oleh kementerian yang biasa menangani hubungan antarnegara. Umurnya yang panjang juga menunjukkan bahwa ia bukan proyek sekali jalan yang ikut lenyap ketika menterinya berganti.
 
 ### Kucing Robot Naik Pangkat Jadi Duta
 
-Dua tahun setelah pidato itu, Koumura melantik Doraemon sebagai *Anime Ambassador* di kantor MOFA, dan pelantikan itu tercatat dalam siaran pers kementerian serta Buku Biru Diplomatik 2009. Yang diangkat bukan seniman muda seperti gagasan Aso, melainkan seorang tokoh kartun.
+Usulan kedua berbelok di tengah jalan. Ketika Koumura melantik Doraemon sebagai *Anime Ambassador* pada 2008, sebuah peristiwa yang tercatat dalam siaran pers kementerian dan Buku Biru Diplomatik 2009, yang diangkat bukan seniman muda seperti gagasan Aso, melainkan tokoh kartun.
 
-Pilihan ini sejalan dengan pidato dua tahun sebelumnya, yang sudah menyebut Doraemon sebagai tokoh yang membuat robot terasa bersahabat. Tokoh fiksi juga punya kelebihan praktis. Ia tidak menua, tidak lelah berkeliling, dan tidak mungkin salah bicara di depan wartawan. Dengan mengangkat kucing robot menjadi duta, kementerian mengakui secara terbuka bahwa wajah Jepang di luar negeri ikut dibentuk oleh tokoh kartun.
+Pilihan itu sejalan dengan pidato Aso, yang sudah menyebut Doraemon sebagai tokoh yang membuat robot terasa bersahabat. Tokoh fiksi juga punya kelebihan praktis. Ia tidak menua, tidak lelah berkeliling, dan tidak mungkin salah bicara di depan wartawan. Dengan melantik seekor kucing robot, kementerian mengakui secara terbuka bahwa wajah Jepang di luar negeri ikut dibentuk oleh tokoh kartun.
 
-### Trio Duta Kawaii dari Dunia Fesyen
+### Lolita, Harajuku, dan Seragam Sekolah
 
-Setahun kemudian giliran mode. Siaran pers MOFA tertanggal 25 Februari 2009 mengumumkan tiga orang yang diangkat keesokan harinya, 26 Februari 2009. Gelar resmi mereka panjang sekali, *Trend Communicators of Japanese Pop Culture in the Field of Fashion*, dan mereka dijuluki Duta *Kawaii*.
+Setahun kemudian giliran busana. Pada 26 Februari 2009, kementerian mengangkat tiga orang dengan gelar resmi yang panjang sekali, dan mereka dijuluki Duta *Kawaii*. Misako Aoki membawa gaya *Lolita*, Yu Kimura mewakili mode *Harajuku*, dan Shizuka Fujioka mewakili gaya seragam sekolah.
 
-Masing-masing mewakili satu gaya. Misako Aoki membawa gaya *Lolita*, Yu Kimura mewakili mode *Harajuku*, dan Shizuka Fujioka mewakili gaya seragam sekolah. Penunjukan ini memperlihatkan bahwa diplomasi pop tidak berhenti di layar. Cara anak muda Jepang berpakaian pun dianggap layak dipromosikan oleh negara.
-
-Kalau keempat langkah tadi kamu susun dalam satu garis waktu, polanya terlihat rapi:
-
-- 2006, pidato Aso menyebut budaya pop sebagai sekutu diplomasi;
-- 2007, lahir penghargaan manga internasional;
-- 2008, Doraemon dilantik menjadi Duta Anime;
-- 2009, tiga Duta *Kawaii* mulai bertugas.
-
-Dalam empat tahun, sebuah kementerian luar negeri membangun kosakata baru yang menempatkan manga, anime, dan busana sebagai aset diplomasi.
-
-Keempat tahun itu bisa kamu lihat berderet pada garis waktu berikut.
+Diplomasi pop ternyata tidak berhenti di layar. Cara anak muda Jepang berpakaian dianggap layak dipromosikan oleh negara. Dalam empat tahun, sebuah kementerian luar negeri membangun kosakata baru yang menempatkan manga, anime, dan busana sebagai aset diplomasi. Keempat langkahnya bisa kamu lihat berderet pada garis waktu berikut.
 
 ```mermaid
 timeline
@@ -64994,170 +64787,146 @@ timeline
 
 ### Kritik Iwabuchi atas Proyeksi Satu Arah
 
-Tidak semua orang terpesona. Peneliti Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469).
+Tidak semua orang terpesona. Koichi Iwabuchi menulis kritik yang tajam dalam [artikelnya di International Journal of Cultural Policy tahun 2015](https://doi.org/10.1080/10286632.2015.1042469), dan runutannya mundur jauh sebelum Aso naik podium. Diplomasi budaya Jepang pascaperang, dalam pembacaannya, mula-mula bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Kerangka itu kemudian berganti bahasa menjadi *soft power*, lalu *nation branding* atau pencitraan bangsa, dan akhirnya Cool Japan. Labelnya berubah, sedangkan keinginannya serupa: negara ingin dilihat dengan cara tertentu oleh orang lain.
 
-Iwabuchi menelusuri akarnya jauh ke belakang. Menurutnya, diplomasi budaya Jepang pascaperang mula-mula bertujuan meredakan sentimen anti-Jepang di Asia Tenggara. Kerangka itu kemudian bergeser ke bahasa *soft power*, lalu *nation branding* atau pencitraan bangsa, dan akhirnya Cool Japan. Labelnya berganti, tetapi logikanya serupa: negara ingin dilihat dengan cara tertentu oleh orang lain.
+Dari situ Iwabuchi mengajukan dua keberatan. Diplomasi pop semacam ini masih berupa proyeksi satu arah; Jepang mengirim citra, tetapi tidak sungguh-sungguh membuka dialog lintas batas yang memberi pihak lain ruang untuk berbicara dan didengar. Citra yang dipromosikan juga cenderung menyingkirkan keragaman budaya di dalam Jepang sendiri. Yang tampil ke luar adalah versi yang rapi dan mudah dikemas.
 
-Dari situ ia mengajukan dua keberatan. Pertama, diplomasi pop semacam ini tetap berupa proyeksi satu arah. Jepang mengirim citra, tetapi tidak sungguh-sungguh membuka dialog lintas batas yang memberi pihak lain ruang untuk berbicara dan didengar. Kedua, citra yang dipromosikan cenderung menyingkirkan keragaman budaya di dalam Jepang sendiri. Yang tampil ke luar adalah versi yang rapi dan mudah dikemas.
-
-Duta berupa tokoh kartun justru memperjelas persoalan itu. Doraemon bisa hadir di mana saja, tetapi ia tidak bisa mendengar. Kamu boleh saja menyukainya dengan tulus sejak kecil. Pertanyaan Iwabuchi bukan apakah kesukaan itu keliru, melainkan apakah hubungan yang terbentuk benar-benar berjalan dua arah.
+Duta berupa tokoh kartun memperjelas persoalan itu. Doraemon bisa hadir di mana saja, tetapi ia tidak bisa mendengar. Kamu boleh menyukainya dengan tulus sejak kecil. Pertanyaan Iwabuchi bukan apakah kesukaan itu keliru, melainkan apakah hubungan yang terbentuk benar-benar berjalan dua arah.
 
 ### Yang Perlu Kamu Ingat
 
-Pidato Taro Aso pada 28 April 2006 merumuskan budaya pop sebagai sekutu diplomasi, dengan alasan bahwa diplomasi bergantung pada opini publik. Gagasan itu lalu menjadi program yang nyata: Japan International MANGA Award sejak Mei 2007, Doraemon sebagai Duta Anime pada 19 Maret 2008, dan tiga Duta *Kawaii* yang diangkat pada 26 Februari 2009.
+- Pidato Taro Aso pada 28 April 2006 menjadikan budaya pop sekutu diplomasi, dengan alasan bahwa diplomasi bergantung pada opini publik.
+- Gagasan itu menjadi program: penghargaan manga sejak Mei 2007, Doraemon sebagai Duta Anime pada 2008, dan tiga Duta *Kawaii* pada 2009.
+- Iwabuchi mengingatkan bahwa diplomasi pop berakar pada upaya pascaperang meredakan sentimen anti-Jepang, masih cenderung satu arah, dan mengabaikan keragaman di dalam negeri.
 
-Iwabuchi mengingatkan sisi lain dari cerita ini. Diplomasi pop berakar pada upaya pascaperang meredakan sentimen anti-Jepang, dan sampai kini masih cenderung satu arah serta mengabaikan keragaman di dalam negeri.
-
-Semua langkah tadi masih berada di wilayah kementerian luar negeri, yang bekerja dengan simbol, gelar, dan penghargaan. Di bab berikutnya, urusannya berpindah ke kementerian ekonomi dan dana publik, tempat budaya pop mulai diperlakukan sebagai industri yang dibiayai negara dan dihitung untung ruginya.
+Sampai di sini, kementerian luar negeri bekerja dengan simbol, gelar, dan penghargaan. Ceritanya berubah ketika uang publik ikut masuk dan budaya pop mulai dihitung untung ruginya oleh kementerian ekonomi.
 
 
 <!-- Chapter: 07_cool-japan-dan-uang-negara -->
 
 ## Cool Japan dan Uang Negara
 
-Cool Japan Fund diharapkan mengembalikan modal negara yang ditanam di budaya pop Jepang, tetapi kerugian kumulatifnya justru terus membesar. Ironi itu menjadi pintu masuk yang pas untuk melihat sisi lain dari *soft power*: sisi anggaran, target, dan neraca keuangan.
+Bayangkan sebuah dana investasi yang hampir seluruh modalnya berasal dari kas negara, tetapi alih-alih mencetak laba, ia terus menumpuk kerugian.
 
-Bab-bab sebelumnya banyak bicara soal citra dan daya tarik. Di bab ini kamu akan melihat bagaimana negara mencoba mengubah daya tarik itu menjadi uang, apa yang berjalan, dan apa yang tersandung. Penilaiannya perlu adil, karena kebijakan Cool Japan bukan satu program tunggal. Ada kantor koordinasi, ada dana investasi, ada subsidi, dan ada target jangka panjang. Hasil masing-masing berbeda.
+Itulah Cool Japan Fund, dan kisahnya membuka sisi *soft power* yang tidak terlihat dari layar: anggaran, target, dan neraca. Sejauh ini kamu sudah melihat citra Jepang dibangun lewat tokoh kartun, penggemar, dan diplomat. Sekarang pertanyaannya lebih membumi. Bisakah daya tarik itu ditukar dengan uang, dan siapa yang menanggung akibatnya kalau tidak?
+
+Penilaiannya perlu adil. Cool Japan bukan satu program, melainkan beberapa alat sekaligus: kantor koordinasi, dana investasi, subsidi, dan target jangka panjang. Nasib alat-alat itu tidak sama.
 
 ### Kantor Kecil di Biro Manufaktur
 
-Langkah kelembagaan awal datang dari Kementerian Ekonomi, Perdagangan, dan Industri (METI). Menurut tajuk rencana *Japan Times* edisi 15 Agustus 2010, METI membentuk Kantor Promosi Industri Kreatif (*Creative Industries Promotion Office*) pada Juni 2010. Kantor ini ditempatkan di Biro Industri Manufaktur dan bertugas mengoordinasikan promosi industri budaya, seperti desain, animasi, mode, dan film, lintas lembaga pemerintah.
+Awalnya sederhana. Pada Juni 2010, Kementerian Ekonomi, Perdagangan, dan Industri (METI) membentuk Kantor Promosi Industri Kreatif, seperti dicatat tajuk rencana *Japan Times* edisi 15 Agustus 2010. Tugasnya mengoordinasikan promosi desain, animasi, mode, dan film di antara lembaga-lembaga pemerintah.
 
-Penempatan itu cukup bercerita. Budaya pop diperlakukan sebagai industri, setara dengan barang manufaktur yang bisa diekspor. Tiga tahun kemudian, negara menyiapkan alat yang jauh lebih besar dan jauh lebih mahal.
+Alamat kantor itu lebih bercerita daripada namanya. Ia ditempatkan di Biro Industri Manufaktur. Budaya pop, dengan kata lain, diperlakukan sebagai industri, sejajar dengan barang pabrikan yang bisa diekspor. Tiga tahun kemudian, negara menyiapkan alat yang jauh lebih besar, dan jauh lebih mahal.
 
 ### Dana Patungan yang Hampir Seluruhnya Milik Negara
 
-Cool Japan Fund Inc. berdiri pada November 2013 sebagai dana publik-swasta, dengan upacara peluncuran pada 25 November 2013. Sebagai dana investasi, ia diharapkan mengembalikan modal yang ditanamkan, bahkan dengan keuntungan.
+Cool Japan Fund Inc. diluncurkan dengan upacara pada 25 November 2013. Di atas kertas ia dana publik-swasta. Sebagai dana investasi, ia diharapkan mengembalikan modal yang ditanamkan, kalau bisa dengan keuntungan.
 
-Label "publik-swasta" kurang menggambarkan isinya kalau kamu melihat komposisi modalnya. Menurut Badan Pemeriksa Keuangan Jepang (*Board of Audit*), pada akhir tahun fiskal 2023 modal dana ini 134,3 miliar yen. Dari jumlah itu, 123,6 miliar yen berasal dari pemerintah dan hanya 10,7 miliar yen dari swasta. Artinya sekitar 92 persen uangnya adalah uang negara. Sampai April 2026, menurut data yang dihimpun nippon.com, total modalnya naik menjadi 151,3 miliar yen, dan 140,6 miliar yen di antaranya dari pemerintah.
+Label "publik-swasta" terdengar seimbang sampai kamu membuka komposisi modalnya. Dalam laporannya tentang dana-dana publik-swasta, [Badan Pemeriksa Keuangan Jepang](https://report.jbaudit.go.jp/org/r06/YOUSEI2/2024-r06-Y2019-0.htm) mencatat modal dana ini 134,3 miliar yen pada akhir tahun fiskal 2023. Sebanyak 123,6 miliar yen datang dari pemerintah, dan hanya 10,7 miliar yen dari swasta. Artinya sekitar 92 persen modalnya adalah uang negara.
 
 ### Rapor Merah dari Badan Pemeriksa
 
-Laporan [Badan Pemeriksa Keuangan](https://report.jbaudit.go.jp/org/r06/YOUSEI2/2024-r06-Y2019-0.htm) tentang dana-dana publik-swasta menjadi titik balik dalam perdebatan ini. Lembaga itu mencatat kerugian kumulatif Cool Japan Fund sekitar 39,7 miliar yen pada akhir tahun fiskal 2023. Yang lebih mengkhawatirkan adalah rencananya ke depan. Dana ini hanya menargetkan laba kumulatif 1,0 miliar yen sampai tahun fiskal 2033, jauh di bawah biaya modal pemerintah yang besarnya sekitar 15,0 miliar yen. Dengan kata lain, bahkan bila target tercapai, negara tetap tekor. Badan Pemeriksa meminta dana ini menutup kerugian kumulatifnya dan memperbaiki pengelolaan.
+Laporan yang sama memuat angka yang lebih pahit. Pada akhir tahun fiskal 2023, kerugian kumulatif dana itu sekitar 39,7 miliar yen. Rencananya ke depan malah lebih mengkhawatirkan: target laba kumulatif sampai tahun fiskal 2033 hanya 1,0 miliar yen, padahal biaya modal pemerintah sekitar 15,0 miliar yen. Hitungannya sederhana dan tidak enak. Kalaupun target itu tercapai, negara masih tekor. Badan Pemeriksa meminta dana tersebut menutup kerugiannya dan membenahi pengelolaannya.
 
-Setelah teguran itu, angkanya tidak membaik.
+Sesudah teguran itu, angkanya tidak membaik: pada akhir Maret 2026 kerugian kumulatifnya sudah 54 miliar yen.
 
-| Indikator | Nilai |
-|---|---|
-| Modal akhir tahun fiskal 2023 | 134,3 miliar yen (123,6 miliar dari pemerintah) |
-| Kerugian kumulatif akhir tahun fiskal 2023 | sekitar 39,7 miliar yen |
-| Target laba kumulatif sampai tahun fiskal 2033 | 1,0 miliar yen |
-| Biaya modal pemerintah | sekitar 15,0 miliar yen |
-| Rugi bersih tahun fiskal 2025 | 15,7 miliar yen |
-| Kerugian kumulatif akhir Maret 2026 | 54 miliar yen |
+Lalu, pada 21 Agustus 2026, *Mainichi* melaporkan, dengan mengutip sumber pemerintah, bahwa pemerintah telah memutuskan membubarkan dana itu. Prosesnya belum rampung: NHK memberitakan pada 24 Agustus 2026 bahwa keputusan panel ahli diperkirakan keluar sekitar akhir tahun.
 
-Salah satu penyebab rugi besar itu, sekitar 14 miliar yen, berkaitan dengan perusahaan Spiber. Lalu, pada 21 Agustus 2026, *Mainichi* melaporkan, dengan mengutip sumber pemerintah, bahwa pemerintah telah memutuskan untuk membubarkan dana tersebut. NHK melaporkan pada 24 Agustus 2026 bahwa keputusan panel ahli diperkirakan keluar sekitar akhir tahun. Jadi pembubaran itu diputuskan menurut sumber pemerintah, tetapi prosesnya belum rampung.
-
-Kegagalan ini tidak otomatis berarti budaya pop Jepang gagal di luar negeri. Yang gagal adalah satu cara tertentu memakai uang negara, yaitu menanam modal langsung dan berharap untung seperti investor swasta.
+Kegagalan ini tidak otomatis berarti budaya pop Jepang gagal di luar negeri. Yang tersandung adalah satu cara tertentu memakai uang negara, yaitu menanam modal langsung lalu berharap untung seperti investor swasta.
 
 ### Target Lima Puluh Triliun Yen
 
-Di sisi perencanaan, pemerintah justru semakin berani. Strategi Cool Japan Baru yang diputuskan Markas Besar Strategi Kekayaan Intelektual pada 4 Juni 2024 menargetkan industri terkait Cool Japan (konten, pariwisata *inbound*, kuliner, mode, dan kosmetik) mencapai 50 triliun yen atau lebih pada 2033. Titik awalnya 19,1 triliun yen pada 2023, jadi targetnya lebih dari dua setengah kali lipat.
+Di meja perencanaan, nadanya kian berani. Strategi Cool Japan Baru, yang diputuskan Markas Besar Strategi Kekayaan Intelektual pada 4 Juni 2024, membidik industri terkait Cool Japan (konten, pariwisata *inbound*, kuliner, mode, dan kosmetik) mencapai 50 triliun yen atau lebih pada 2033. Titik berangkatnya 19,1 triliun yen pada 2023, jadi sasarannya lebih dari dua setengah kali lipat.
 
-Untuk konten saja ada target tersendiri: pasar luar negeri untuk konten Jepang sebesar 20 triliun yen pada 2033, seperti tercantum dalam materi Kantor Kabinet. Target yang jelas seperti ini punya nilai. Ia memaksa setiap program menjawab pertanyaan sederhana: apakah ini mendorong angka ke arah yang benar? Dana investasi tadi sulit lolos dari pertanyaan itu.
+Target sejelas itu punya nilai. Ia memaksa setiap program menjawab pertanyaan yang sama: apakah ini mendorong angka ke arah yang benar? Dana investasi tadi sulit lolos dari pertanyaan itu.
+
+Langkah berikutnya meminjam resep tetangga. *Yomiuri* melaporkan pada 23 Juni 2026 bahwa pemerintah berencana membentuk lembaga pusat komando untuk industri konten dalam tahun fiskal 2027, dengan KOCCA milik Korea Selatan sebagai model. Pada 29 September 2026, Keidanren mencatat permintaan anggaran tahun fiskal 2027 untuk konten sudah melampaui 250 miliar yen, lalu mendesak agar dukungan itu disatukan dalam satu lembaga. Desakan itu bisa dibaca sebagai upaya merapikan bantuan yang selama ini tersebar di banyak program.
 
 ### Subsidi Lokalisasi yang Lebih Membumi
 
-Kalau dana investasi adalah cerita yang tersandung, J-LOD (*Japan content LOcalization and Distribution*) adalah contoh pendekatan yang lebih sederhana. Program subsidi METI ini dijalankan oleh [VIPO](https://www.vipo.or.jp/project/j-lodr3/) dan menanggung sebagian biaya lokalisasi serta promosi ketika sebuah karya dirilis di luar negeri. Tujuannya menciptakan "demam Jepang" di luar negeri yang ikut mengangkat industri terkait dan pariwisata *inbound*.
+Ada pula alat yang jauh lebih bersahaja. J-LOD (*Japan content LOcalization and Distribution*) adalah program subsidi METI yang dijalankan oleh [VIPO](https://www.vipo.or.jp/project/j-lodr3/). Program ini menanggung sebagian biaya lokalisasi dan promosi ketika sebuah karya dirilis di luar negeri. Harapannya, karya itu memicu "demam Jepang" yang ikut mengangkat industri terkait dan pariwisata *inbound*.
 
-Bedanya terletak pada peran negara. Dalam J-LOD, pemerintah tidak menjadi pemilik usaha dan tidak perlu menebak proyek mana yang akan laku. Pemerintah hanya ikut menanggung biaya lokalisasi dan promosi, lalu membiarkan karya itu bersaing di pasar. Dalam rancangan seperti ini, risiko bisnis tetap berada di tangan pemilik karya.
-
-### Menengok Model KOCCA Korea
-
-Arah kebijakan berikutnya terlihat dari laporan *Yomiuri* pada 23 Juni 2026. Pemerintah berencana membentuk lembaga pusat komando (*command tower*) untuk industri konten dalam tahun fiskal 2027, dengan model KOCCA milik Korea Selatan. Rencana itu disertai target investasi publik-swasta sekitar 34 triliun yen sampai tahun fiskal 2033, di antaranya untuk gim 24,5 triliun, anime 3,3 triliun, manga 1,6 triliun, dan musik 3 triliun yen.
-
-Kabinet juga menyetujui Strategi Pertumbuhan Jepang pada 21 Juli 2026. Pada 29 September 2026, Keidanren mencatat bahwa permintaan anggaran tahun fiskal 2027 untuk konten melampaui 250 miliar yen, dan mendesak agar dukungan disatukan dalam satu lembaga. Desakan itu bisa dibaca sebagai upaya merapikan dukungan yang selama ini tersebar di banyak program.
+Kalau kamu pemilik sebuah judul yang ingin dibawa ke penonton di negara lain, J-LOD berarti negara ikut membayar sebagian ongkos lokalisasi dan promosinya, tetapi tidak menjadi pemilik usahamu dan tidak perlu menebak judul mana yang akan laku. Karyamu bersaing sendiri di pasar, dan dalam rancangan seperti ini risiko bisnisnya tetap ada di tanganmu.
 
 ### Kesimpulan Bab
 
-Kebijakan Cool Japan punya dua wajah. Wajah yang tersandung adalah Cool Japan Fund, dana yang 92 persen modalnya dari negara, menumpuk kerugian sampai 54 miliar yen, dan kini menurut sumber pemerintah akan dibubarkan. Wajah yang lebih menjanjikan adalah target yang terukur dan subsidi seperti J-LOD, yang dirancang untuk membantu karya menembus pasar tanpa membuat negara bertaruh sebagai investor.
+Cool Japan ternyata punya dua wajah. Yang satu adalah dana yang sekitar 92 persen modalnya dari negara, menumpuk kerugian sampai 54 miliar yen, dan menurut sumber pemerintah akan dibubarkan. Yang lain adalah target yang bisa diukur dan subsidi seperti J-LOD, yang membantu karya menembus pasar tanpa membuat negara bertaruh sebagai investor. Dari dua wajah itu muncul dugaan yang layak kamu uji sendiri: negara mungkin lebih berguna ketika menurunkan hambatan daripada ketika mencoba memilih pemenang.
 
-Dari dua wajah itu, ada satu dugaan yang layak kamu uji sendiri: negara mungkin lebih berguna ketika menurunkan hambatan daripada ketika mencoba memilih pemenang. Namun kebijakan hanyalah separuh cerita. Bab berikutnya meninggalkan ruang rapat kementerian dan masuk ke pasar itu sendiri, untuk melihat berapa sebenarnya uang yang dihasilkan anime di dalam dan di luar Jepang.
+Namun kebijakan hanyalah separuh cerita. Pasar itu sendiri ada di luar ruang rapat kementerian. Berapa sebenarnya uang yang dihasilkan anime di dalam dan di luar Jepang?
 
 
 <!-- Chapter: 08_saat-pasar-luar-negeri-melampaui-domestik -->
 
 ## Saat Pasar Luar Negeri Melampaui Pasar Domestik
 
-Menurut AJA, sejak 2023 anime Jepang menghasilkan lebih banyak uang di luar negeri daripada di negeri asalnya sendiri.
+Sejak 2023, anime Jepang menghasilkan lebih banyak uang di luar negeri daripada di negeri asalnya sendiri, begitu catatan AJA.
 
-Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utama industri ini. Data terbaru Association of Japanese Animations (AJA) menunjukkan posisi itu sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Bab ini memeriksa apakah semua itu benar-benar berbuah, dan jawabannya ada di neraca.
+Kalimat itu terdengar seperti catatan kaki, padahal isinya membalik cara kita memandang industri ini. Lama sekali pasar domestik menjadi tumpuan utamanya. Data Association of Japanese Animations (AJA) menunjukkan posisi itu kini sudah bertukar. Bab-bab sebelumnya bercerita tentang strategi, kebijakan, dan penggemar yang menyebarkan anime tanpa diminta. Di sini kamu akan melihat apakah semua itu benar-benar berbuah. Jawabannya tidak tersimpan di pidato atau poster, melainkan di neraca.
 
 ### Dua Garis yang Akhirnya Bersilangan
 
-Menurut [ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) yang diterbitkan AJA pada Maret 2026, pasar anime Jepang sepanjang 2024 bernilai 3.840,7 miliar yen, atau sekitar 3,84 triliun yen, sebuah rekor. Rinciannya seperti ini.
+Bayangkan sebuah grafik dengan dua garis. Yang satu menggambarkan uang dari dalam Jepang, yang lain uang dari luar negeri. Selama bertahun-tahun, garis domestik berada di atas. Lalu garis luar negeri merayap naik, menyentuhnya, dan melewatinya.
 
-| Pos tahun 2024 | Nilai | Catatan |
-|---|---|---|
-| Total pasar | 3.840,7 miliar yen | rekor baru |
-| Luar negeri | 2.170,2 miliar yen | 56,5% dari total |
-| Domestik | 1.670,5 miliar yen | |
-| Selisih luar negeri atas domestik | 499,7 miliar yen | |
+Menurut catatan AJA, pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023, dan jaraknya waktu itu masih tipis. ScreenDaily, yang mengutip data AJA, mencatat pendapatan luar negeri pada 2023 sebesar 1,72 triliun yen, sedikit di atas pasar domestik yang 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pertama kali melampaui domestik pada 2020.
 
-Pendapatan luar negeri pada 2024 naik menjadi 126,0% dari tahun sebelumnya. AJA mencatat pasar luar negeri sudah lebih besar daripada pasar domestik sejak 2023. Menurut laporan ScreenDaily yang mengutip data AJA, total pasar 2023 mencapai 3,3465 triliun yen, dengan pendapatan luar negeri 1,72 triliun yen di atas domestik 1,62 triliun yen. ScreenDaily juga mencatat bahwa luar negeri pertama kali melampaui domestik pada 2020. Yang pasti, pada 2024 jarak keduanya melebar menjadi hampir 500 miliar yen.
+Pada 2024 celahnya menganga. [Ringkasan *Anime Industry Report 2025*](https://aja.gr.jp/download/air2025samary_en) yang diterbitkan AJA pada Maret 2026 menempatkan pasar anime Jepang sepanjang 2024 pada rekor sekitar 3,84 triliun yen. Dari jumlah itu, 2.170,2 miliar yen datang dari luar negeri dan 1.670,5 miliar yen dari dalam negeri. Selisihnya hampir 500 miliar yen, sehingga lebih dari separuh nilai pasar kini datang dari luar Jepang.
 
 ### Lonjakan dalam Dua Belas Tahun
 
-Untuk merasakan besarnya perubahan, mundurlah ke 2012. Menurut laporan Japan Forward (Sankei) yang mengutip laporan AJA 2018, pendapatan anime dari luar negeri pada 2012 baru 240,8 miliar yen. Pada 2017 angkanya sudah 994,8 miliar yen, dan pada tahun yang sama seluruh pasar anime untuk pertama kalinya menembus 2 triliun yen.
+Besarnya perubahan baru terasa kalau kamu mundur ke 2012. Japan Forward (Sankei), mengutip laporan AJA 2018, menulis bahwa pendapatan anime dari luar negeri pada tahun itu baru 240,8 miliar yen. Pada 2017 angkanya sudah 994,8 miliar yen.
 
-Jika angka 2012 itu disandingkan dengan 2.170,2 miliar yen pada 2024, pertumbuhannya kira-kira sembilan kali lipat. Perkalian itu hitungan penulis buku ini, bukan angka resmi AJA, tetapi arahnya sulit dibantah. Pertanyaan berikutnya, lewat jalur apa penonton luar negeri kini menemukan anime?
+Sandingkan angka itu dengan 2.170,2 miliar yen pada 2024, dan hasilnya kira-kira sembilan kali lipat dalam dua belas tahun. Perkalian itu hitungan penulis buku ini, bukan angka resmi AJA, tetapi arahnya sulit dibantah. Pertanyaannya, lewat pintu mana penonton luar negeri kini menemukan anime?
 
 ### Pintu Masuk Bernama Streaming
 
-Dulu anime sampai ke luar negeri lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar. Dua perusahaan memperlihatkan pergeseran itu paling jelas.
+Dulu anime menyeberang lewat stasiun televisi, kaset video, dan subtitle buatan penggemar. Sekarang pintunya adalah aplikasi di ponsel dan televisi pintar, dan dua perusahaan memperlihatkan pergeseran itu dengan sangat jelas.
 
-Yang pertama adalah Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, saat layanan itu baru punya 5 juta pelanggan berbayar. Sony kemudian melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia per akhir Maret 2026. Dengan pembelian itu, salah satu platform anime terbesar berada di tangan kelompok Sony.
+Yang pertama Crunchyroll. Di bab 5 kamu sudah melihat kelompok Sony membelinya pada Agustus 2021, ketika layanan itu baru punya 5 juta pelanggan berbayar. Per akhir Maret 2026, Sony melaporkan Crunchyroll telah melewati 21 juta pelanggan berbayar di seluruh dunia.
 
-Yang kedua adalah Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari 50% anggotanya di seluruh dunia menonton anime. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan jumlah penontonnya naik tiga kali lipat dalam lima tahun. Sebanyak 33 judul anime masuk daftar *Global Top 10* kategori non-Inggris pada 2024.
-
-Daftar Top 10 itu layak kamu perhatikan. Judul-judul anime di sana tidak hanya ditonton penggemar setia, tetapi juga bersaing langsung dengan drama dan film dari banyak negara lain untuk perhatian penonton biasa.
+Yang kedua Netflix, layanan yang tidak lahir dari dunia anime. Pada 7 Juli 2025, [Netflix mengumumkan](https://about.netflix.com/en/news/anime-for-every-fan-fueling-new-era-global-fandom) bahwa lebih dari separuh anggotanya di seluruh dunia menonton anime, dan jumlah penonton anime di sana naik tiga kali lipat dalam lima tahun. Sepanjang 2024, anime ditonton lebih dari 1 miliar kali di sana, dan puluhan judulnya masuk daftar *Global Top 10* kategori non-Inggris. Di daftar itu, anime tidak hanya melayani penggemar setia. Ia bersaing langsung dengan drama dan film dari banyak negara untuk merebut perhatian penonton biasa. Kalau kamu pernah membuka aplikasi itu dan menemukan anime di deretan teratas, kamu sedang melihat pergeseran ini dari dekat.
 
 ### Rekor Bioskop dari Kereta sampai Kastil
 
-Layar bioskop memberi bukti yang sama. Film *Demon Slayer Mugen Train*, yang tayang di Jepang pada 16 Oktober 2020, menjadi film terlaris sepanjang masa di Jepang setelah 73 hari. Ia menggeser *Spirited Away*, pemegang rekor itu selama 19 tahun, dan menjadi film pertama yang melewati 40 miliar yen di Jepang. Pada 2020 film ini juga menjadi film terlaris di dunia.
+Layar bioskop menceritakan pergeseran yang sama, kali ini lewat dua film dari satu waralaba. *Demon Slayer Mugen Train* tayang di Jepang pada 16 Oktober 2020 dan, setelah 73 hari, menjadi film terlaris sepanjang masa di Jepang. Ia menggeser *Spirited Away*, yang memegang rekor itu selama 19 tahun, dan menjadi film pertama yang melewati 40 miliar yen di negerinya sendiri.
 
-Kelanjutannya melangkah lebih jauh. Menurut pengumuman Aniplex yang diberitakan Asahi Shimbun, *Demon Slayer Infinity Castle* meraup 106,3 miliar yen di seluruh dunia per 16 November 2025 dari 89,17 juta penonton. Itu menjadikannya film Jepang pertama yang melewati 100 miliar yen secara global. Porsi Jepang 37,9 miliar yen dalam 122 hari, sehingga lebih dari separuh pendapatan datang dari luar negeri, dari peredaran di 157 negara dan wilayah sejak Agustus.
+Kelanjutannya, *Demon Slayer Infinity Castle*, mengukur rekornya dengan penggaris yang berbeda. Menurut pengumuman Aniplex yang diberitakan Asahi Shimbun, film ini meraup 106,3 miliar yen di seluruh dunia per 16 November 2025, menjadikannya film Jepang pertama yang melewati 100 miliar yen secara global. Bagian Jepang 37,9 miliar yen. Sisanya, lebih dari separuh, datang dari peredaran di 157 negara dan wilayah. Rekor pertama dicatat di loket Jepang. Rekor kedua sebagian besar dibayar oleh penonton di luar Jepang.
 
-Pengakuan juga datang dari panggung yang lebih bergengsi. *Spirited Away* memenangi Oscar untuk Film Animasi Terbaik di Academy Awards ke-75 pada 23 Maret 2003, dengan penghargaan atas nama Hayao Miyazaki. *The Boy and the Heron* meraih penghargaan yang sama di Academy Awards ke-96 pada 10 Maret 2024, kali ini atas nama Miyazaki dan Toshio Suzuki. Di antara dua malam itu, pasar luar negeri anime berubah dari pelengkap menjadi tulang punggung.
+Pengakuan juga datang dari panggung yang lebih bergengsi. *Spirited Away* memenangi Oscar untuk Film Animasi Terbaik pada 2003, dan *The Boy and the Heron* meraih penghargaan yang sama pada 2024. Dua malam itu mengapit masa ketika pasar luar negeri bergeser dari tepi ke tengah.
 
 ### Poin Kunci
 
-- Pada 2024 pasar anime Jepang bernilai sekitar 3,84 triliun yen, dan 56,5% di antaranya datang dari luar negeri.
-- Menurut AJA, pasar luar negeri lebih besar daripada pasar domestik sejak 2023; selisihnya pada 2024 mencapai 499,7 miliar yen.
-- Pendapatan luar negeri tumbuh kira-kira sembilan kali sejak 2012, menurut hitungan penulis dari angka yang dilaporkan.
-- Streaming memperlihatkan jangkauannya: Crunchyroll di tangan Sony melewati 21 juta pelanggan berbayar, dan lebih dari separuh anggota Netflix menonton anime.
-- Rekor *Demon Slayer* dan dua Oscar menunjukkan daya tarik itu juga terukur di bioskop dan panggung penghargaan.
+- Menurut AJA, pasar luar negeri melampaui pasar domestik sejak 2023, dan pada 2024 selisihnya hampir 500 miliar yen.
+- Dibanding 2012, pendapatan luar negeri tumbuh kira-kira sembilan kali lipat, menurut hitungan penulis dari angka yang dilaporkan.
+- Streaming dan bioskop menunjukkan arah yang sama: lebih dari separuh anggota Netflix menonton anime, dan lebih dari separuh pendapatan *Infinity Castle* datang dari luar Jepang.
 
-Semua angka ini berbicara tentang layar. Padahal banyak cerita yang kamu tonton di layanan streaming bermula dari halaman komik, digambar hitam putih dan dibaca dari kanan ke kiri. Bab berikutnya berpindah dari layar ke halaman, untuk melihat apakah manga menempuh jalan yang sama menuju pembaca dunia, atau justru jalan yang sama sekali lain.
+Semua angka ini lahir dari layar. Padahal banyak cerita yang kamu tonton di layanan streaming bermula dari halaman komik, digambar hitam putih dan dibaca dari kanan ke kiri. Apakah halaman-halaman itu menempuh jalan yang sama menuju pembaca dunia, atau jalan yang sama sekali lain?
 
 
 <!-- Chapter: 09_manga-digital-dan-perang-melawan-pembajakan -->
 
 ## Manga Digital dan Perang Melawan Pembajakan
 
-Bab terbaru manga favoritmu bisa dibaca gratis di aplikasi resmi, tetapi situs bajakan menawarkan seluruh arsipnya tanpa bayar. Pilihan mana yang kamu ambil? Pertanyaan sederhana ini sebenarnya menyentuh inti pertarungan industri manga beberapa tahun terakhir. Penerbit Jepang tidak bisa lagi hanya mengandalkan toko buku. Pembaca sudah pindah ke layar, dan situs bajakan ikut menunggu di sana.
-
-Bab ini mengikuti tiga arus sekaligus: perpindahan pembaca dari kertas ke ponsel, perlawanan hukum terhadap situs bajakan, dan cara penerbit merebut kembali pembaca dengan layanan resmi yang gratis. Di ujungnya, ada pesaing baru yang datang dari negara tetangga.
+Bab terbaru manga favoritmu terbit, dan dua tautan menunggu di layar: aplikasi resmi yang gratis, atau situs bajakan yang menyimpan seluruh arsipnya. Mana yang kamu ketuk? Pilihan sekecil itu sudah menjadi inti pertarungan industri manga beberapa tahun terakhir. Toko buku tidak lagi cukup, sebab pembaca sudah pindah ke ponsel, dan pembajak ikut menunggu di sana.
 
 ### Ketika Ponsel Mengalahkan Kertas
 
-Angka dari Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, menunjukkan seberapa jauh pergeseran itu. Pada 2025, pasar komik Jepang (cetak dan digital) bernilai 692,5 miliar yen. Nilai itu turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut. Yang menarik adalah komposisinya. Komik digital mencapai 527,3 miliar yen, naik 2,9 persen, dan kini menguasai 76,1 persen pasar. Komik cetak tinggal 165,2 miliar yen setelah anjlok 14,0 persen.
+Hitungan Shuppan Kagaku Kenkyujo, lembaga riset penerbitan Jepang, memperlihatkan seberapa jauh perpindahan itu. Pada 2025, komik digital sudah menguasai 76,1 persen pasar komik Jepang, sementara penjualan versi cetak anjlok 14,0 persen dalam setahun. Pasar secara keseluruhan turun 1,7 persen, penurunan pertama setelah tujuh tahun tumbuh berturut-turut.
 
-Komik juga bukan sekadar pelengkap bisnis buku di Jepang. Pada tahun yang sama, komik menyumbang 44,8 persen dari seluruh pasar penerbitan. Jadi ketika cara orang membaca manga berubah, seluruh industri penerbitan ikut bergeser.
+Ini bukan urusan satu rak di sudut toko. Tahun itu komik menyumbang 44,8 persen dari seluruh pasar penerbitan Jepang. Begitu cara orang membaca manga berubah, seluruh industri buku ikut bergeser bersamanya.
 
-### Kerugian Triliunan Yen dari Konten Curian
+### Kerugian dalam Angka Taksiran
 
-Perpindahan ke layar membawa masalah lama dalam bentuk baru. Salinan digital mudah disebar, dan situs bajakan bisa memuat banyak judul tanpa membayar sepeser pun kepada pengarang. CODA, organisasi antipembajakan konten Jepang, bersama PwC memperkirakan kerugian akibat pembajakan pada 2022 berada di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019.
+Layar yang memudahkan pembaca juga memudahkan pencuri. Salinan digital gampang disebar, dan satu situs bisa memuat banyak judul tanpa membayar apa-apa kepada pengarangnya.
 
-Perkiraan yang lebih baru, dengan cakupan konten digital, jauh lebih besar. Dalam [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) tanggal 26 Januari 2026, kerugian konten digital akibat pembajakan pada 2025 ditaksir sekitar 5,7 triliun yen.
+Besar kerugiannya berupa taksiran. CODA, organisasi antipembajakan konten Jepang, bersama PwC menempatkan kerugian 2022 di kisaran 1,95 sampai 2,202 triliun yen, sekitar lima kali lipat angka 2019. Taksiran yang lebih baru memakai cakupan konten digital dan hasilnya jauh lebih besar: [rilis bersama METI dan CODA](https://www.meti.go.jp/english/press/2026/0126_001.html) pada 26 Januari 2026 menyebut angka sekitar 5,7 triliun yen untuk 2025.
 
 ### Jatuhnya Manga-mura
 
-Kasus paling terkenal adalah Manga-mura, situs bajakan yang beroperasi sejak 2016. CODA memperkirakan kerugian dari situs ini mencapai 319,2 miliar yen hanya dalam periode September 2017 sampai Februari 2018. Situs itu menghilang pada 17 April 2018, setelah pemerintah meminta penyedia layanan internet memblokirnya.
+Kasus yang paling terkenal bernama Manga-mura, situs bajakan yang beroperasi sejak 2016. CODA memperkirakan situs ini menimbulkan kerugian 319,2 miliar yen hanya dalam rentang September 2017 sampai Februari 2018. Pada 17 April 2018 situs itu lenyap, setelah pemerintah meminta penyedia layanan internet memblokirnya.
 
-Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019. Pada Juni 2021, Pengadilan Distrik Fukuoka menjatuhkan hukuman tiga tahun penjara, denda 10 juta yen, dan perampasan 62 juta yen. Ceritanya belum selesai di situ. Pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen kepada tiga penerbit besar, yaitu Kadokawa, Shueisha, dan Shogakukan.
+Hilangnya situs ternyata baru babak awal. Pengelolanya, Romi Hoshino, diekstradisi dari Filipina pada September 2019 dan dijatuhi hukuman tiga tahun penjara oleh Pengadilan Distrik Fukuoka pada Juni 2021. Lalu pada 18 April 2024, [Pengadilan Distrik Tokyo](https://www.japantimes.co.jp/news/2024/04/18/japan/crime-legal/manga-mura-copyright-ruling/) memerintahkan ganti rugi 1,7 miliar yen bagi tiga penerbit besar, Kadokawa, Shueisha, dan Shogakukan.
 
-Urutan peristiwanya, dari situs mulai beroperasi sampai putusan ganti rugi, tergambar pada bagan di bawah ini.
+Kalau semua tanggal itu dijajarkan dari atas ke bawah, panjangnya perkara ini langsung terasa.
 
 ```mermaid
 flowchart TD
@@ -65172,150 +64941,126 @@ flowchart TD
     A --> B --> C --> D --> E --> F
 ```
 
-Pelajaran dari kasus ini cukup jelas. Penegakan hukum bisa menutup satu situs, tetapi prosesnya bertahun-tahun, dan pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
+Hukum memang bisa menutup satu situs. Masalahnya, prosesnya memakan waktu bertahun-tahun, sementara pembaca yang kehilangan satu sumber gratis bisa saja mencari sumber lain.
 
 ### Bab Gratis yang Terbit Serentak
 
-Di luar jalur hukum, penerbit juga menawarkan alternatif legal. Seperti disinggung di bab 5, Shueisha meluncurkan MANGA Plus pada Januari 2019, dengan bab baru yang terbit bersamaan dengan Jepang serta bab pertama dan terbaru yang gratis. Pada Agustus 2021, pembatasan wilayahnya dihapus.
+Di luar jalur hukum, penerbit juga menawarkan alternatif yang legal di tempat yang sama. Shueisha meluncurkan MANGA Plus pada Januari 2019, layanan yang sudah disinggung di bab 5. Bab baru terbit bersamaan dengan Jepang, bab pertama dan bab terbaru bisa dibaca gratis, dan sejak Agustus 2021 pembatasan wilayahnya dihapus.
 
-Dengan model itu, pembaca di luar Jepang punya pilihan resmi yang tersedia pada hari yang sama, gratis, dan legal. Menurut laporan Anime News Network, MANGA Plus memiliki 6 juta *monthly active users* (pengguna aktif bulanan) pada 2023. Menurut laporan Asahi Shimbun, angkanya sekitar 5,5 juta pada 2025, dengan sekitar 100 judul dalam sembilan bahasa.
+Bagi pembaca di luar Jepang, artinya sederhana. Ada pilihan resmi yang tersedia pada hari yang sama, tanpa bayar, dan legal. Pada 2025, Asahi Shimbun mencatat layanan ini dipakai sekitar 5,5 juta pengguna aktif bulanan, dengan sekitar 100 judul dalam sembilan bahasa.
 
-### Rak Komik Amerika dan Prancis
+### Rak Luar Negeri dan Pesaing di Layar
 
-Strategi itu bertemu permintaan yang sedang tinggi di luar Jepang. Menurut ICv2, penjualan komik dan novel grafis di Amerika Serikat dan Kanada mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Pada 2024, angkanya 1,94 miliar dolar AS.
+Strategi itu bertemu permintaan yang sedang tinggi. Di Amerika Serikat dan Kanada, ICv2 mencatat penjualan komik dan novel grafis mencapai 2,075 miliar dolar AS pada 2021, naik 62 persen, dengan manga sebagai salah satu pendorong terkuat. Di Prancis, data NielsenIQ-GfK menghitung 39,6 juta eksemplar manga terjual pada 2023, dan lebih dari separuh komik yang dibeli di sana adalah manga.
 
-Data Circana BookScan memperlihatkan pasang surutnya. Penjualan unit manga pada Januari sampai Agustus 2023 turun 27 persen dibanding periode yang sama tahun 2022, tetapi masih 351 persen lebih tinggi daripada 2019. Dalam 12 bulan sampai Juni 2024, manga bersama *manhwa* (komik Korea) menguasai 40 persen penjualan novel grafis di AS.
-
-Di Prancis, data NielsenIQ-GfK mencatat 39,6 juta eksemplar manga terjual pada 2023, senilai 331 juta euro. Lebih dari separuh komik yang dibeli di sana adalah manga. Menurut laporan ActuaLitté, angka 2024 sekitar 35,9 juta eksemplar.
-
-### Webtoon Korea Ikut Berebut Pembaca
-
-Pembaca digital tidak hanya diincar penerbit Jepang. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Menurut laporan itu, pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi.
-
-Artinya, layanan resmi gratis juga menjadi cara agar manga tetap berada di layar yang sama tempat pesaingnya bersaing.
+Namun layar ponsel bukan milik manga sendirian. Pada 2019, [Japan Times](https://www.japantimes.co.jp/news/2019/05/05/business/tech/south-koreas-booming-webtoons-put-japans-print-manga-notice/) melaporkan bahwa *webtoon* Korea, komik digital yang dibaca lewat aplikasi, mulai menjadi ancaman serius bagi manga cetak Jepang. Laporan itu melihat pembaca muda yang tumbuh bersama ponsel beralih ke judul-judul berbasis aplikasi. Dari sudut ini, bab gratis di MANGA Plus juga menjadi cara agar manga tetap hadir di layar yang sama tempat pesaingnya bersaing.
 
 ### Recap
 
-- Pada 2025, komik digital menguasai 76,1 persen pasar komik Jepang, sementara penjualan cetak turun 14,0 persen.
-- Kerugian akibat pembajakan diperkirakan mencapai triliunan yen, dan kasus Manga-mura berakhir dengan hukuman pidana serta ganti rugi 1,7 miliar yen.
-- MANGA Plus menawarkan bab resmi yang gratis dan terbit serentak dengan Jepang, alternatif legal bagi pembaca.
-- Manga kuat di Amerika Utara dan Prancis, tetapi kini bersaing dengan webtoon Korea untuk merebut pembaca digital.
+Pada 2025, lebih dari tiga perempat pasar komik Jepang sudah berbentuk digital, dan pembajakan ikut pindah ke layar dengan kerugian yang ditaksir mencapai triliunan yen. Kasus Manga-mura menunjukkan bahwa jalur hukum bisa berhasil, tetapi lambat. Penerbit juga menawarkan bab resmi yang gratis dan terbit serentak, di layar yang kini juga diperebutkan *webtoon* Korea.
 
-Manga dan anime tidak berhenti di halaman atau layar. Banyak penggemar ingin berdiri di persimpangan, stasiun, dan kota yang mereka kenal dari cerita, lalu memotretnya sendiri. Bab berikutnya mengikuti perjalanan itu, dari halaman komik ke tempat nyata yang kini didatangi penggemar dari berbagai negara.
+Sebagian penggemar tidak puas hanya menatap layar. Mereka ingin berdiri di persimpangan, stasiun, dan kota yang mereka kenal dari cerita, lalu memotretnya dengan tangan sendiri. Dari halaman, langkah mereka kini mengarah ke tempat-tempat nyata.
 
 
 <!-- Chapter: 10_dari-layar-ke-perjalanan -->
 
 ## Dari Layar ke Perjalanan
 
-Di dekat sebuah stasiun kecil di Kamakura, ada perlintasan kereta yang kerap dikerumuni orang dengan ponsel terangkat. Bayangkan mereka menunggu kereta jalur Enoden lewat, lalu mengambil gambar yang sama berulang kali. Yang membuat tempat itu ramai bukan bangunan bersejarah, melainkan cerita: penggemar mengaitkan perlintasan dekat Stasiun Kamakura-Koko-mae dengan *Slam Dunk*, manga dan anime basket yang sudah lama mereka kenal.
+Di dekat sebuah stasiun kecil di Kamakura ada perlintasan kereta yang kerap dikerumuni orang dengan ponsel terangkat. Kamu bisa membayangkan mereka menunggu kereta Enoden lewat, lalu mengambil gambar yang sama berulang kali. Yang membuat tempat itu ramai bukan bangunan bersejarah, melainkan cerita: penggemar mengaitkan perlintasan dekat Stasiun Kamakura-Koko-mae itu dengan *Slam Dunk*, manga dan anime basket yang sudah lama mereka kenal.
 
-Bayangkan kamu sendiri berdiri di situ. Kamu datang jauh-jauh bukan untuk kuil atau pantai, tetapi untuk berdiri di titik yang pernah kamu lihat di layar. Bab ini membahas gerak dari layar ke perjalanan itu: bagaimana cerita mengubah tempat biasa menjadi tujuan wisata, apa untungnya bagi kota, dan apa yang terjadi ketika pengunjung datang lebih banyak daripada yang sanggup ditampung jalan sempit.
+Sekarang tempatkan dirimu di antara mereka. Kamu menempuh perjalanan jauh bukan demi kuil atau pantai, tetapi demi satu titik yang pernah kamu lihat di layar. Bab ini mengikuti gerak dari layar ke perjalanan itu, dari peluang yang dibawanya bagi kota sampai perlintasan yang kewalahan.
 
-### Ziarah ke Tempat yang Pernah Dilihat
+### Alamat bagi Sebuah Cerita
 
-Tempat yang didatangi penggemar sering kali bukan tempat istimewa. Ia bisa berupa stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Bagi penggemar, mengunjungi lokasi seperti ini adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya ada di layar kini punya alamat yang bisa didatangi.
+Tempat yang didatangi penggemar sering kali biasa saja: stasiun, sekolah, tangga, atau persimpangan yang muncul dalam sebuah anime. Mengunjunginya adalah cara memperpanjang pengalaman menonton. Cerita yang tadinya hanya hidup di layar kini punya alamat.
 
-Prosesnya bisa berjalan tanpa rencana dari siapa pun. Bayangkan seorang penggemar mengenali latar sebuah adegan, mengunggah foto perbandingan, lalu orang lain mengikuti jejaknya. Lama-lama sebuah kota kecil yang tidak pernah masuk brosur wisata mendapati jalanannya dipenuhi tamu dari jauh. Di titik inilah soft power bisa berubah wujud: daya tarik budaya yang semula abstrak berpotensi menjadi kereta yang penuh, kamar penginapan yang terisi, dan toko yang laku.
+Semua itu bisa terjadi tanpa rencana siapa pun. Seorang penggemar mengenali latar sebuah adegan, mengunggah foto perbandingannya, lalu orang lain mengikuti jejaknya. Lama-lama kota kecil yang tidak pernah masuk brosur wisata mendapati jalanannya ramai oleh tamu dari jauh. Di sini soft power bisa berganti wujud. Daya tarik yang semula abstrak berpotensi menjadi gerbong yang penuh, kamar penginapan yang terisi, dan toko yang laku.
 
-Bagi pemerintah daerah, kedatangan penggemar bisa membuka peluang. Tamu yang datang sudah punya alasan untuk singgah, dan cerita yang mereka bawa pulang ikut memperkenalkan nama kota itu.
+Bagi pemerintah daerah, tamu semacam ini membuka peluang. Mereka datang dengan alasan yang sudah jadi untuk singgah, dan saat pulang mereka ikut membawa nama kota itu dalam cerita yang mereka bagikan.
 
 ### Peta Delapan Puluh Delapan Titik
 
-Kebiasaan yang awalnya spontan ini kemudian diberi bentuk resmi. Anime Tourism Association (Asosiasi Pariwisata Anime) didirikan pada September 2016. Menurut [Travel Voice](https://www.travelvoice.jp/20170826-95799), asosiasi ini mengumumkan daftar pertamanya, "88 Japanese Anime Spots" edisi 2018, pada 26 Agustus 2017. Di dalamnya ada Kuki, kota yang dikenal penggemar *Lucky Star*, dan Hida, yang terkait dengan *Kimi no Na wa*.
+Kebiasaan yang spontan itu lama-lama diberi bentuk resmi. Anime Tourism Association (Asosiasi Pariwisata Anime) didirikan pada September 2016, dan [Travel Voice](https://www.travelvoice.jp/20170826-95799) melaporkan bahwa asosiasi ini mengumumkan daftar pertamanya, "88 Japanese Anime Spots" edisi 2018, pada 26 Agustus 2017. Kuki, kota yang dikenal penggemar *Lucky Star*, masuk daftar itu, begitu pula Hida, yang terkait dengan *Kimi no Na wa*.
 
-Daftar seperti ini terasa seperti peta perjalanan yang bisa kamu tuntaskan satu per satu. Menurut situs resmi Anime Tourism Association, daftar itu masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
+Daftar seperti ini bekerja seperti peta harta karun yang bisa kamu tuntaskan satu per satu. Situs resmi asosiasi itu menunjukkan daftarnya masih diperbarui, dan pemungutan suara untuk edisi 2027 ditutup pada 20 September 2026.
 
-### Tamu Asing yang Terus Bertambah
+### Arus Tamu yang Belum Bisa Dipilah
 
-Gelombang wisata ini terjadi di tengah lonjakan kunjungan asing ke Jepang. Menurut data final JNTO (Organisasi Pariwisata Nasional Jepang), jumlah wisatawan mancanegara pada 2024 mencapai 36.870.148 orang. Untuk 2025, perkiraannya sekitar 42.683.600 orang. Menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan pada 2025 mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
+Semua ini berlangsung di tengah lonjakan kunjungan asing ke Jepang. Data final JNTO (Organisasi Pariwisata Nasional Jepang) mencatat 36.870.148 wisatawan mancanegara pada 2024, dan perkiraan untuk 2025 sekitar 42.683.600 orang. Untuk tahun yang sama, menurut [nippon.com](https://www.nippon.com/en/japan-data/h02673/), belanja wisatawan mencapai 9,5 triliun yen, dan pemerintah memasang target 60 juta pengunjung dengan belanja 15 triliun yen pada 2030.
 
-Perlu kamu catat, tidak ada sumber yang menyebut berapa bagian dari puluhan juta tamu itu datang karena anime. Angka ini menunjukkan besarnya arus, bukan alasan setiap orang berangkat. Meski begitu, pemerintah jelas melihat hubungannya. Program J-LOD milik Kementerian Ekonomi, Perdagangan, dan Industri (METI), yang dijalankan VIPO, membiayai sebagian ongkos lokalisasi dan promosi konten Jepang untuk rilis luar negeri. Tujuannya menciptakan "demam Jepang" di luar negeri yang ikut mengangkat industri terkait dan kunjungan wisata ke Jepang.
+Angka sebesar itu mudah menggoda, jadi pegang satu batasnya: tidak ada sumber yang menyebut berapa bagian dari tamu itu datang karena anime. Yang terlihat hanya besarnya arus, bukan alasan tiap orang berangkat. Meski begitu, pemerintah jelas melihat kaitannya. Lewat program J-LOD, Kementerian Ekonomi, Perdagangan, dan Industri (METI) bersama pelaksananya, VIPO, membiayai sebagian ongkos lokalisasi dan promosi konten Jepang untuk rilis luar negeri. Harapannya, "demam Jepang" di luar negeri ikut mengangkat industri terkait dan kunjungan wisata ke Jepang.
 
 ### Ghibli Park dan Museum Nintendo
 
-Selain lokasi yang muncul tanpa sengaja dalam cerita, kini ada tujuan yang memang dibangun untuk penggemar. Ghibli Park di Nagakute, Prefektur Aichi, dibuka pada 1 November 2022. Dua tahun kemudian, Nintendo Museum di Uji dibuka pada 2 Oktober 2024. Keduanya berangkat dari logika yang sama dengan daftar 88 titik: orang yang tumbuh bersama sebuah dunia rekaan ingin masuk ke dalamnya secara fisik.
+Ada pula tujuan yang memang dibangun untuk penggemar. Ghibli Park di Nagakute, Prefektur Aichi, dibuka pada 1 November 2022, disusul Nintendo Museum di Uji pada 2 Oktober 2024. Logikanya sama dengan daftar 88 titik: orang yang tumbuh bersama sebuah dunia rekaan ingin masuk ke dalamnya secara fisik.
 
-Bedanya, taman dan museum seperti ini dirancang untuk menampung pengunjung. Ada tiket, jalur antrean, dan staf. Perlintasan kereta di sebuah kota tidak punya semua itu.
+Bedanya, taman dan museum dirancang untuk menampung pengunjung. Ada tiket, jalur antrean, dan staf yang mengatur. Perlintasan kereta di sebuah kota tidak punya semua itu.
 
 ### Saat Perlintasan Kamakura Kewalahan
 
-Kembali ke Kamakura. Kerumunan di perlintasan yang dikaitkan dengan *Slam Dunk* makin besar setelah film *Slam Dunk* dirilis pada Desember 2022. Perlintasan itu tetap jalur kereta dan jalan yang dipakai warga sehari-hari, bukan panggung foto. Inilah wajah lain wisata anime, yang sering disebut *overtourism*: kota menerima tamu, tetapi juga menanggung beban yang tidak ikut dihitung dalam angka belanja.
+Kembali ke Kamakura. Kerumunan di perlintasan itu makin besar setelah film *Slam Dunk* dirilis pada Desember 2022. Padahal tempat itu jalur kereta dan jalan yang dipakai warga setiap hari, bukan panggung foto. Inilah wajah lain wisata anime yang sering disebut *overtourism*: kota menerima tamu, tetapi juga menanggung beban yang tidak tercatat dalam angka belanja.
 
-Menurut [Asahi Shimbun](https://www.asahi.com/ajw/articles/16224812), Kamakura memasang 12 kamera berbasis AI di dekat Stasiun Kamakura-Koko-mae pada pertengahan Desember 2025. Pemasangan itu bagian dari uji coba Badan Pariwisata Jepang dengan anggaran hingga 6 juta yen. Kota juga menyediakan area foto khusus di Taman Koshigoe Rakko, agar penggemar punya tempat memotret tanpa memenuhi perlintasan. Pendekatannya bukan melarang, melainkan mengatur arus supaya daya tarik cerita tidak berubah menjadi gangguan.
+Kamakura memilih mengatur arus, bukan melarang, supaya daya tarik sebuah cerita tidak berubah menjadi gangguan. Pada pertengahan Desember 2025, seperti dilaporkan [Asahi Shimbun](https://www.asahi.com/ajw/articles/16224812), kota itu memasang 12 kamera berbasis AI di dekat Stasiun Kamakura-Koko-mae, bagian dari uji coba Badan Pariwisata Jepang dengan anggaran hingga 6 juta yen. Kota juga menyediakan area foto khusus di Taman Koshigoe Rakko, supaya penggemar tetap bisa memotret tanpa memenuhi perlintasan.
 
 ### Gagasan Utama
 
-Wisata anime menunjukkan bahwa soft power tidak berhenti di layar. Cerita yang disukai membuat orang mau menempuh perjalanan jauh, dan perjalanan itu bisa membawa tamu ke kota yang sebelumnya luput dari perhatian. Gejala ini kemudian mendapat bentuk yang lebih tertata: daftar 88 titik, taman bertema, dan dukungan promosi konten seperti J-LOD.
+Cerita yang disukai membuat orang rela menempuh perjalanan jauh, dan perjalanan itu bisa membawa tamu ke kota yang sebelumnya luput dari perhatian. Gejala yang mulanya spontan kini punya bentuk tertata, dari daftar 88 titik, taman bertema, sampai dukungan promosi seperti J-LOD.
 
-Namun Kamakura mengingatkan bahwa popularitas punya ongkos. Kota yang menerima tamu juga harus mengatur mereka, dan warga setempat ikut menanggung keramaian. Keberhasilan wisata anime diukur dari seberapa baik keduanya seimbang, bukan hanya dari jumlah kunjungan.
+Kamakura mengingatkan sisi lainnya. Kota yang menerima tamu juga harus mengatur mereka, dan warga setempat ikut menanggung keramaian. Keberhasilan wisata anime diukur dari seberapa seimbang keduanya, bukan dari jumlah kunjungan semata.
 
-Sejauh ini kita melihat dampak manga dan anime dari sisi Jepang. Bab berikutnya membawa pembahasan lebih dekat ke rumah: bagaimana semua ini terasa di Indonesia, dari layar kaca masa kecil sampai penggemar yang kini ikut terbang ke Jepang.
+Sampai di sini semuanya dilihat dari sisi Jepang. Sudut pandang itu akan dipindah ke Indonesia, dari layar kaca masa kecil sampai penggemar yang kini ikut terbang ke Jepang.
 
 
 <!-- Chapter: 11_doraemon-elex-dan-penggemar-indonesia -->
 
 ## Doraemon, Elex, dan Penggemar Indonesia
 
-Bagi banyak anak Indonesia, Minggu pagi pernah identik dengan satu tontonan, yaitu robot kucing biru di layar RCTI. Jam dinding menunjuk 08.00 WIB, sarapan belum habis, dan lagu pembuka Doraemon sudah terdengar dari ruang tengah. Mungkin kamu juga punya kenangan seperti itu. Kalau iya, kamu termasuk bagian dari cerita yang lebih besar: bagaimana Indonesia berubah dari penonton yang kebetulan menyalakan televisi menjadi salah satu khalayak penting bagi budaya pop Jepang.
+Sarapan belum habis, jam dinding menunjuk pukul delapan, dan lagu pembuka si robot kucing biru sudah terdengar dari ruang tengah setiap Minggu pagi. Mungkin kamu tumbuh bersama suara itu. Kalau iya, kamu ikut menjadi bagian dari perubahan yang berjalan pelan: Indonesia bergeser dari penonton yang kebetulan menyalakan televisi menjadi khalayak yang belajar, berkumpul, berkarya, dan sebagian ikut menggambar.
 
-Bab-bab sebelumnya banyak membahas Amerika Serikat dan Eropa. Kali ini kita pulang ke rumah sendiri dan menelusuri jejaknya, dari layar kaca, rak komik, ruang kelas bahasa, sampai aula pameran dan studio animasi.
+### Robot Kucing Biru Setiap Minggu Pagi
 
-### Pagi Minggu Bersama RCTI
+Jadwal itu punya tanggal lahir. RCTI mengambil alih hak siar Doraemon pada 9 Desember 1990 dan menayangkannya setiap Minggu pukul 08.00 WIB, setelah serial ini sempat tayang lebih dulu di TVRI, seperti dicatat [detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia). Slot itu bertahan sekitar 35 tahun. Dalam rentang selama itu, anak yang dulu menonton sambil sarapan bisa saja kini sudah punya anak sendiri.
 
-Menurut [laporan detikJogja](https://www.detik.com/jogja/budaya/d-8297372/kapan-doraemon-rilis-ini-sejarahnya-hingga-berhenti-tayang-di-tv-indonesia), RCTI mengambil alih hak siar Doraemon pada 9 Desember 1990 dan menayangkannya setiap Minggu pukul 08.00 WIB. Laporan yang sama menyebut serial ini sempat tayang lebih dulu di TVRI.
+Karena kebiasaannya begitu panjang, hilangnya dari jadwal terasa janggal. Dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi.
 
-Doraemon bertahan di RCTI sekitar 35 tahun. Lalu, dari akhir Desember 2025 sampai awal Januari 2026, Doraemon menghilang dari jadwal RCTI tanpa penjelasan resmi. Hilangnya Doraemon dari jadwal itu terasa janggal justru karena kebiasaannya sudah begitu lama. Dalam rentang 35 tahun, anak yang dulu menonton sambil sarapan bisa saja sudah punya anak sendiri.
+Barangkali seperti inilah soft power bekerja: pelan, berulang, dan nyaris tak terasa. Tidak ada kampanye yang menyuruhmu menyukai Nobita. Kamu hanya bertemu dengannya setiap pekan, dan pertemuan itu lama-lama berubah menjadi rasa akrab.
 
-Pengulangan seperti ini bisa jadi cara soft power bekerja, pelan tapi dalam. Tidak ada kampanye yang menyuruh kamu menyukai Nobita. Kamu hanya terbiasa melihatnya setiap pekan, dan kebiasaan itu lama-lama menjadi rasa akrab.
+### Lisensi dari Penerbit Buku Komputer
 
-### Komik Berlisensi dari Penerbit Buku Komputer
+Kalau televisi membuka pintu, toko bukulah yang menahannya agar tidak tertutup lagi. Elex Media Komputindo lahir pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik, walau kini ia menyebut dirinya pelopor komik Jepang di Indonesia.
 
-Televisi membuka pintu, sementara toko buku menahannya tetap terbuka. Elex Media Komputindo didirikan pada 15 Januari 1985 sebagai penerbit buku komputer, bukan penerbit komik. Kini perusahaan itu menyebut dirinya pelopor komik Jepang di Indonesia.
+Ceritanya datang dari Ratna Sari, editor Elex, yang berbincang dengan detikHot pada 2013. Elex membeli lisensi *Candy Candy* pada 1991, lalu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Jadi Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan penerbit manga pertama di negeri ini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
 
-Ratna Sari, editor Elex, bercerita kepada detikHot pada 2013 bahwa Elex membeli lisensi *Candy Candy* pada 1991. Setelah itu menyusul *Kungfu Boy*, Doraemon, dan *Dragon Ball*. Karena itu Elex lebih tepat disebut salah satu pelopor manga berlisensi, bukan yang pertama menerbitkan manga di sini. Rajawali Grafitti Press sudah menerbitkan sejumlah judul manga pada 1980-an, kemungkinan besar tanpa lisensi.
+Kata "berlisensi" itu bukan urusan teknis kecil. Dengan lisensi, uang dari komik yang kamu beli mengalir kembali ke pemegang hak di Jepang.
 
-Perbedaan antara terbitan berlisensi dan tidak berlisensi ini penting. Lisensi berarti uang mengalir kembali ke pemegang hak di Jepang.
+### Dari Rasa Akrab ke Ruang Kelas
 
-### Ratusan Ribu Pelajar Bahasa Jepang
+Rasa akrab dengan tokoh fiksi kadang berlanjut ke hal yang menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, yakni 732.914 orang menurut angka Japan Foundation Jakarta yang dikutip CNBC Indonesia. Sumber yang sama menyebut Indonesia di peringkat pertama untuk jumlah lembaga pengajarnya, 3.103 lembaga. Survei itu tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi bacalah angkanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
 
-Rasa akrab dengan tokoh fiksi bisa berlanjut ke sesuatu yang lebih menuntut kesabaran, yaitu belajar bahasanya. Survei Japan Foundation tahun 2024 menempatkan Indonesia di peringkat kedua dunia dalam jumlah pelajar bahasa Jepang. Menurut CNBC Indonesia yang mengutip Japan Foundation Jakarta, jumlahnya 732.914 pelajar.
+Ada pula yang memilih berangkat. JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024 dan memperkirakan rekor 640.600 pengunjung pada 2025. Godaannya adalah menyambungkan angka itu langsung ke anime, padahal belum ada sumber yang membuktikan hubungan tersebut. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya.
 
-Menurut sumber yang sama, Indonesia bahkan berada di urutan pertama untuk jumlah lembaga yang mengajarkan bahasa Jepang, yaitu 3.103 lembaga. Di seluruh dunia, pelajarnya sekitar 4 juta orang di 143 negara dan wilayah. Survei ini tidak mengukur berapa banyak pelajar yang terdorong oleh anime, jadi kamu sebaiknya membacanya sebagai tanda besarnya minat, bukan bukti sebab-akibat.
+### Aula Penuh Karya Penggemar
 
-### Comifuro yang Terus Membesar
+Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, memperlihatkan seberapa jauh kebutuhan itu tumbuh. Comifuro pertama pada 2012 hanya diikuti sekitar 35 *circle*, kelompok kreator yang menjual karya sendiri. Comic Frontier 22 pada 16-17 Mei 2026 di ICE BSD City menghadirkan lebih dari 1.500 circle dari Indonesia, Asia Tenggara, dan Jepang, seperti dilaporkan Kompas Ohayo Jepang.
 
-Penggemar juga butuh tempat berkumpul. *Comic Frontier*, yang akrab disebut Comifuro, adalah contoh paling jelas. Menurut Kompas Ohayo Jepang, Comic Frontier 22 digelar pada 16-17 Mei 2026 di ICE BSD City dan menghadirkan lebih dari 1.500 *circle*, kelompok kreator yang menjual karya sendiri, dari Indonesia, Asia Tenggara, dan Jepang. Comifuro pertama pada 2012 hanya diikuti sekitar 35 circle.
+Di aula yang sama, circle Indonesia berdiri sejajar dengan kreator dari Jepang. Penggemar lokal tidak lagi sekadar menerima budaya pop Jepang. Mereka mengolahnya menjadi karya baru.
 
-Soal jumlah pengunjung, analisis KAORI Nusantara memperkirakan sekitar 20 ribu orang per hari pada 2022-2023. Yang menarik, circle dari Indonesia berdiri sejajar dengan kreator dari Jepang di aula yang sama. Penggemar lokal tidak lagi hanya menerima budaya pop Jepang, tetapi mengolahnya menjadi karya baru.
+Pengolahan serupa tampak pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati meneliti anak muda Muslim yang ber-cosplay dengan hijab dalam artikelnya di *Jurnal Masyarakat dan Budaya* tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Daya tarik budaya, dengan kata lain, tidak ditelan mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
 
-### Cosplay Berhijab dan Tafsir Lokal
+### Menggambar untuk Penonton Negeri Lain
 
-Pengolahan itu juga terlihat pada *cosplay*, kegiatan berdandan menyerupai tokoh fiksi. Ranny Rastati menelitinya dalam artikel "Dari Soft Power Jepang hingga Hijab Cosplay" di *Jurnal Masyarakat dan Budaya* 17(3) tahun 2015 ([DOI 10.14203/jmb.v17i3.326](https://doi.org/10.14203/jmb.v17i3.326)). Rastati mencatat bahwa Jepang membangun ulang citranya setelah perang lewat anime, manga, dan cosplay.
+Pada akhirnya arah ceritanya berbalik. Animenomics melaporkan pada Juni 2025 bahwa Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
 
-Penelitian lapangannya berfokus pada anak muda Muslim yang melakukan cosplay berhijab. Para *cosplayer* itu menerima praktik ini selama mengikuti syariat, menghindari pose yang berlebihan, dan menghindari kontak dekat saat berfoto. Temuan ini menunjukkan bahwa daya tarik budaya tidak diterima mentah-mentah. Penggemar menyesuaikannya dengan nilai yang mereka pegang.
-
-### Rekor Pelancong ke Jepang
-
-Ada juga yang akhirnya berangkat ke Jepang. Siaran pers JNTO mencatat 517.651 pengunjung dari Indonesia pada 2024. Untuk 2025, JNTO memperkirakan 640.600 pengunjung, naik 23,8 persen dan menjadi rekor, dengan Desember 2025 sebagai bulan tertinggi (81.700 pengunjung).
-
-Angka ini menggoda untuk dikaitkan langsung dengan anime, tetapi belum ada sumber yang membuktikan hubungan itu. Keputusan berlibur ke luar negeri dipengaruhi banyak hal, dan anime paling banter hanya salah satunya. Yang bisa dikatakan dengan aman hanyalah bahwa minat orang Indonesia terhadap Jepang terlihat di banyak tempat sekaligus.
-
-### Tangan Indonesia di Balik Layar Studio
-
-Cerita terakhir bergerak ke arah sebaliknya. Orang Indonesia tidak hanya menonton, tetapi juga ikut bekerja di dalam industri. Menurut laporan Animenomics pada Juni 2025, Aswin Nur Cahya dari Jiva Animation di Malang ikut berkontribusi pada produksi besar seperti *Attack on Titan*. Laporan yang sama menyebut Studio Ubud di Jakarta ikut mengerjakan *Bleach* bersama studio Pierrot, juga *One Piece*.
-
-Bagi soft power Jepang, ini lapisan yang menarik. Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
+Orang Indonesia yang dulu hanya menonton kini ikut menggambar tontonan untuk penonton di negara lain.
 
 ### Key Takeaways
 
-- Doraemon tayang di RCTI sejak hak siarnya diambil alih pada 9 Desember 1990 dan bertahan sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
-- Elex Media Komputindo, yang awalnya penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
-- Indonesia menempati peringkat kedua dunia untuk jumlah pelajar bahasa Jepang dan peringkat pertama untuk jumlah lembaganya.
-- Comifuro tumbuh dari sekitar 35 circle pada 2012 menjadi lebih dari 1.500 pada 2026, sementara cosplay berhijab menunjukkan cara penggemar menafsirkan ulang budaya Jepang.
-- Kunjungan orang Indonesia ke Jepang mencetak rekor pada 2025, tetapi hubungannya dengan anime belum terbukti.
+- Doraemon menemani Minggu pagi di RCTI sejak 9 Desember 1990, sekitar 35 tahun, cukup lama untuk dikenal lintas generasi.
+- Elex Media Komputindo, yang lahir sebagai penerbit buku komputer, menjadi salah satu pelopor manga berlisensi lewat *Candy Candy* pada 1991.
+- Indonesia berada di peringkat kedua dunia untuk jumlah pelajar bahasa Jepang, walau survei itu tidak mengukur peran anime.
+- Comifuro tumbuh dari sekitar 35 circle menjadi lebih dari 1.500, dan cosplay berhijab menunjukkan penggemar menafsirkan ulang apa yang mereka sukai.
 
-Semua cerita ini terdengar seperti kisah sukses, dan memang begitu dari sisi penonton. Namun setiap episode yang kamu tonton dibuat oleh orang-orang dengan jam kerja dan upah tertentu, dan setiap lonjakan wisata membawa beban bagi kota yang didatangi. Bab berikutnya membalik sudut pandang itu dan menghitung harga di balik kesuksesan.
+Dari kursi penonton, semua ini terdengar seperti kisah sukses. Namun episode yang kamu tonton sambil sarapan itu digambar oleh orang-orang dengan jam kerja dan upah tertentu. Siapa mereka, dan berapa harga yang mereka bayar untuk tontonan yang begitu kamu sukai?
 
 
 <!-- Chapter: 12_harga-di-balik-kesuksesan -->
@@ -65324,49 +65069,49 @@ Semua cerita ini terdengar seperti kisah sukses, dan memang begitu dari sisi pen
 
 Setiap anime yang mendunia lahir dari ribuan jam kerja orang yang namanya jarang kamu ingat setelah kredit penutup selesai bergulir. Jadi, siapa sebenarnya yang membayar sebuah judul laris?
 
-Sebelas bab sebelumnya memperlihatkan bagaimana manga dan anime menjadi wajah Jepang di mata dunia. Bab terakhir ini menengok sisi yang jarang masuk poster promosi: upah, jam kerja, uang publik, pesaing baru, dan teknologi yang mengancam hak para pencipta.
+Sepanjang buku ini, manga dan anime tampil sebagai wajah Jepang di mata dunia. Bab terakhir ini menengok sisi yang jarang masuk poster promosi: upah dan jam kerja, uang publik, pesaing dari negeri tetangga, dan mesin yang belajar meniru gambar.
 
-### Upah Animator yang Tertinggal
+### Gaji Animator Antara yang Tertinggal
 
-Menurut survei JAniCA tahun 2023 yang dilaporkan [nippon.com](https://www.nippon.com/en/in-depth/d01174/), animator antara (*douga*), yaitu orang yang menggambar bingkai-bingkai di antara gerakan kunci, rata-rata berpenghasilan 2,63 juta yen setahun. Animator kunci (*genga*) sedikit di bawah 4 juta yen. Sebagai pembanding, rata-rata seluruh industri anime 4,56 juta yen, hampir sama dengan 4,60 juta yen untuk seluruh pegawai sektor swasta Jepang.
+Mulailah dari meja paling bawah. Animator antara (*douga*) menggambar bingkai-bingkai di antara gerakan kunci. Survei JAniCA tahun 2023, seperti dilaporkan [nippon.com](https://www.nippon.com/en/in-depth/d01174/), menemukan penghasilan rata-rata mereka 2,63 juta yen setahun. Rata-rata seluruh industri anime 4,56 juta yen, hampir sama dengan 4,60 juta yen untuk seluruh pegawai sektor swasta Jepang.
 
-Angka rata-rata itu menyembunyikan jurang di bagian bawah, karena animator antara dibayar jauh di bawah rata-rata industrinya sendiri. Memang ada perbaikan: pada 2009 animator antara rata-rata hanya mendapat 1,1 juta yen setahun. Porsi pekerja lepas juga turun dari 69,6 persen pada 2019 menjadi 47,3 persen pada 2023, artinya kini lebih banyak animator yang tidak berstatus lepas.
+Rata-rata industri yang tampak wajar itu menyembunyikan jurang di bagian bawah. Animator antara dibayar jauh di bawah rata-rata industrinya sendiri.
 
-### Jam Kerja Panjang di Balik Layar
+Ada perbaikan, dan itu layak dicatat. Pada 2009, animator antara rata-rata hanya mendapat 1,1 juta yen setahun. Porsi pekerja lepas juga turun dari 69,6 persen pada 2019 menjadi 47,3 persen pada 2023. Namun arah yang benar belum tentu berarti sudah sampai.
 
-Gambaran dari survei lain lebih suram. Menurut laporan Animehunch tentang survei pertama NAFCA (Desember 2023 sampai Januari 2024, 323 responden), pekerja anime rata-rata bekerja 219 jam sebulan, jauh di atas rata-rata nasional 162,3 jam. Sebanyak 37,7 persen responden mendapat kurang dari 200.000 yen sebulan dari pekerjaan anime.
+### Dua Ratus Sembilan Belas Jam Sebulan
 
-Yang paling menohok adalah upah per jam. Median upah per jam responden 1.111 yen, sedikit di bawah upah minimum Tokyo yang 1.113 yen. Bayangkan kamu menggambar adegan yang ditonton jutaan orang di berbagai benua, lalu bayaran per jammu kalah dari batas terendah yang diizinkan hukum di kota tempatmu bekerja.
+Survei lain melukis gambaran yang lebih muram. Survei pertama NAFCA, yang dijalankan pada Desember 2023 sampai Januari 2024 terhadap 323 responden dan dilaporkan Animehunch, mendapati pekerja anime rata-rata bekerja 219 jam sebulan. Rata-rata nasionalnya 162,3 jam.
 
-### Regulator Persaingan Usaha Turun Tangan
+Lalu ada angka yang paling menohok. Median upah per jam para responden 1.111 yen, sedikit di bawah upah minimum Tokyo yang 1.113 yen. Bayangkan kamu menggambar adegan yang ditonton jutaan orang di berbagai benua, lalu bayaran per jammu kalah dari batas terendah yang diizinkan hukum di kota tempatmu bekerja.
 
-Masalah ini akhirnya sampai ke meja regulator. Pada 24 Desember 2025, [Komisi Perdagangan yang Adil Jepang](https://www.jftc.go.jp/en/pressreleases/yearly-2025/December/251224.html) (*Japan Fair Trade Commission*, JFTC) merilis laporan pencarian fakta tentang lingkungan transaksi para kreator di lokasi produksi film dan anime. Laporan itu diamanatkan keputusan kabinet 21 Juni 2024 dan dikirim kepada anggota komite produksi serta perusahaan produksi. JFTC menyatakan akan bertindak tegas atas pelanggaran Undang-Undang Antimonopoli, undang-undang transaksi usaha kecil dan menengah, serta undang-undang pekerja lepas.
+### Laporan Regulator Persaingan Usaha
 
-Anime News Network melaporkan bahwa survei di balik laporan itu mencakup 130 perusahaan dan 165 pekerja lepas. Sebanyak 52,1 persen animator tidak puas dengan bayarannya. Masalah yang muncul antara lain pembayaran yang terlambat atau dipotong, revisi yang tidak dibayar, dan syarat kontrak yang ditentukan sepihak. Ingat juga model komite produksi dari bab 3, tempat studio animasi sering hanya menjadi anggota kecil atau bahkan bukan anggota sama sekali.
+Keluhan semacam ini akhirnya sampai ke meja regulator. Pada 24 Desember 2025, [Komisi Perdagangan yang Adil Jepang](https://www.jftc.go.jp/en/pressreleases/yearly-2025/December/251224.html) (*Japan Fair Trade Commission*, JFTC) merilis laporan pencarian fakta tentang lingkungan transaksi para kreator di lokasi produksi film dan anime, lalu mengirimkannya kepada anggota komite produksi dan perusahaan produksi. JFTC menyatakan akan bertindak tegas atas pelanggaran Undang-Undang Antimonopoli, undang-undang transaksi usaha kecil dan menengah, serta undang-undang pekerja lepas.
 
-### Uang Publik yang Tidak Kembali
+Anime News Network melaporkan bahwa survei di balik laporan itu mencakup 130 perusahaan dan 165 pekerja lepas, dan 52,1 persen animator tidak puas dengan bayarannya. Keluhannya terdengar biasa sekaligus menyakitkan: pembayaran yang terlambat atau dipotong, revisi yang tidak dibayar, dan kontrak yang syaratnya ditentukan sepihak. Ingat pula model komite produksi di bab 3, tempat studio animasi sering hanya menjadi anggota kecil, atau bukan anggota sama sekali.
 
-Biaya lain ditanggung pembayar pajak. Bab 7 sudah membahas Cool Japan Fund, yang kerugian kumulatifnya mencapai 54 miliar yen pada akhir Maret 2026, dan menurut sumber pemerintah yang dikutip Mainichi, pemerintah telah memutuskan untuk membubarkannya. Pelajarannya sederhana: dana negara tidak otomatis mengubah daya tarik budaya menjadi laba.
+### Kas Negara dan Pesaing dari Korea
 
-### Pesaing dari Seberang Selat Korea
+Sebagian ongkosnya ditanggung pembayar pajak. Cool Japan Fund, yang kamu temui di bab 7, mencatat kerugian kumulatif 54 miliar yen pada akhir Maret 2026, dan sumber pemerintah yang dikutip Mainichi menyebut pemerintah telah memutuskan untuk membubarkannya. Dana negara ternyata tidak otomatis mengubah daya tarik budaya menjadi laba.
 
-Jepang juga tidak lagi sendirian. Menurut laporan *Japan Times* pada Mei 2019, *webtoon* Korea membuat manga cetak Jepang harus waspada, karena pembaca muda yang tumbuh dengan ponsel beralih ke judul berbasis aplikasi. Korea sendiri mencatat ekspor konten tertinggi sepanjang sejarahnya pada 2024, yaitu 14,08 miliar dolar AS, dengan gim menyumbang 60,4 persen, menurut data Kementerian Kebudayaan yang dikutip *Korea Herald*.
+Jepang juga tidak lagi sendirian di panggung ini. Korea mencatat ekspor konten tertinggi sepanjang sejarahnya pada 2024, 14,08 miliar dolar AS, berdasarkan data Kementerian Kebudayaan yang dikutip *Korea Herald*. Angka itu tidak bisa disandingkan langsung dengan pasar anime Jepang karena dasar hitungnya berbeda. Yang bisa dibandingkan adalah caranya: Korea punya KOCCA, dan *Yomiuri* melaporkan Jepang kini merencanakan lembaga pusat komando konten yang meniru model itu.
 
-Angka itu tidak bisa dibandingkan langsung dengan data pasar anime Jepang, karena dasar penghitungannya berbeda. Yang bisa dibandingkan adalah pendekatannya. Korea punya KOCCA, dan menurut *Yomiuri*, Jepang kini merencanakan lembaga pusat komando konten yang meniru model itu, seperti kamu baca di bab 7.
+### Gaya Gambar yang Ditiru Mesin
 
-### Sora 2 dan Gambar yang Ditiru Mesin
+Tantangan terbaru datang dari kecerdasan buatan. OpenAI meluncurkan Sora 2 pada 30 September 2025. Menteri Digital Masaaki Taira, seperti diberitakan *Japan Times*, menyatakan bahwa pemerintah meminta OpenAI beralih ke sistem *opt-in*, yaitu karya hanya dipakai bila pemiliknya mengizinkan, sekaligus membuat cara untuk membayar pemegang hak. Pada 27 Oktober 2025, CODA mengirim surat kepada OpenAI yang meminta agar konten milik anggotanya tidak dipakai untuk melatih model tanpa izin.
 
-Tantangan terbaru datang dari kecerdasan buatan. OpenAI meluncurkan Sora 2 pada 30 September 2025. Menurut *Japan Times*, Menteri Digital Masaaki Taira menyatakan bahwa pemerintah meminta OpenAI beralih ke sistem *opt-in*, yaitu karya hanya dipakai bila pemiliknya mengizinkan, sekaligus membuat cara untuk membayar pemegang hak. Pada 27 Oktober 2025, CODA mengirim surat kepada OpenAI yang meminta agar konten milik anggotanya tidak dipakai untuk melatih model tanpa izin.
-
-Persoalannya menyentuh akar yang sama dengan bagian upah tadi. Gaya visual yang dikenali dunia dibangun oleh tangan para animator. Bila mesin bisa menirunya tanpa izin dan tanpa bayaran, orang-orang yang paling sedikit dibayar kembali menjadi pihak yang paling dirugikan.
+Persoalan ini berakar di tempat yang sama dengan soal upah tadi. Gaya visual yang dikenali dunia dibangun oleh tangan para animator. Bila mesin bisa menirunya tanpa izin dan tanpa bayaran, orang-orang yang paling sedikit dibayar kembali menjadi pihak yang paling dirugikan.
 
 ### Penutup
 
-Kalau kamu menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemar: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
+Menengok seluruh perjalanan buku ini, polanya cukup jelas. Daya tarik Jepang tumbuh terutama dari karya dan penggemarnya: Astro Boy di televisi, Akira dan Pokémon di Barat, subtitle buatan penggemar, manga berlisensi Elex Media di Indonesia. Dalam urusan budaya pop, negara datang belakangan dan mencoba ikut mendorong lewat duta anime, hadiah manga, dan Cool Japan, tetapi jarang menjadi sumbernya.
 
-Kritik Koichi Iwabuchi juga patut diingat. Diplomasi budaya pop Jepang, menurutnya, cenderung menjadi proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh. Daya tarik yang hanya dipancarkan, tanpa mendengar, mudah berubah menjadi sekadar kampanye citra.
+Koichi Iwabuchi mengingatkan sisi lainnya. Diplomasi budaya pop Jepang, menurutnya, cenderung menjadi proyeksi satu arah tanpa dialog lintas batas yang sungguh-sungguh. Daya tarik yang hanya dipancarkan, tanpa mendengar, mudah berubah menjadi sekadar kampanye citra.
 
-Bagi negara lain, termasuk Indonesia, pelajarannya bukan menyalin Cool Japan. Pelajarannya ada pada urutan: karya yang baik dan komunitas penggemar yang hidup lebih dulu, baru negara mendukung dengan hati-hati. Dan dukungan itu baru bermakna jika ikut menjaga orang-orang yang menggambar, menulis, dan menghidupkan cerita. Lain kali kamu menonton episode favoritmu, coba baca kredit penutupnya sampai habis. Sebagian nama di sana adalah animator antara yang, menurut survei JAniCA 2023, rata-rata berpenghasilan 2,63 juta yen setahun, jauh di bawah rata-rata pegawai swasta Jepang.
+Bagi negara lain, termasuk Indonesia, pelajarannya bukan menyalin Cool Japan, melainkan urutannya: karya yang baik dan komunitas penggemar yang hidup lebih dulu, baru negara mendukung dengan hati-hati. Dukungan itu baru bermakna jika ikut menjaga orang-orang yang menggambar, menulis, dan menghidupkan cerita.
+
+Jadi, lain kali episode favoritmu selesai, jangan buru-buru menutupnya. Biarkan kredit penutup bergulir sampai nama terakhir. Di antara deretan nama itu ada animator antara yang ikut menggambar gerak yang kamu sukai, dengan bayaran yang, menurut survei JAniCA 2023, jauh di bawah rata-rata pegawai swasta Jepang.
 
 
 <!-- Chapter: 13_referensi -->
@@ -65469,8 +65214,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66814,8 +66559,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -67567,8 +67312,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -68807,8 +68552,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-24T01:50:16.956Z',
-  '2026-10-24T01:50:16.956Z'
+  '2026-10-24T02:57:11.590Z',
+  '2026-10-24T02:57:11.590Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
