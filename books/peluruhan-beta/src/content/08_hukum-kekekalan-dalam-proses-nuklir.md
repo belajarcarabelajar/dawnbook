@@ -48,7 +48,7 @@ Inilah bagian yang sempat membuat para fisikawan pusing di awal abad ke-20. Keti
 Wolfgang Pauli mengusulkan sebuah solusi jenius: ada partikel hantu yang membawa pergi sisa energi dan momentum tersebut agar hukum kekekalan terjaga. Partikel inilah yang kita kenal sebagai **Neutrino** ($\nu$) atau **Antineutrino** ($\bar{\nu}$).
 
 - **Momentum Linear:** Jumlah vektor momentum sebelum dan sesudah harus sama. Jika inti sisa bergerak ke kiri, maka elektron dan neutrino harus bergerak ke arah yang menyeimbangkannya.
-- **Energi:** Total energi massa diam ditambah energi kinetik harus sama:
+- **Energi:** Total energi massa diam ditambah energi kinetik harus sama sebelum dan sesudah peluruhan:
 
 <div>
 $$
