@@ -108,6 +108,6 @@ $$
 $$
 </div>
 
-Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini akan memperbesar ketimpangan ekonomi jangka panjang.
+Di mana $r$ merupakan tingkat diskonto (*discount rate*) masa depan. Persamaan ini menunjukkan bahwa ketimpangan akumulasi modal manusia hari ini dapat memperbesar ketimpangan ekonomi jangka panjang.
 
 *Refleksi untuk kamu:* Jika modal manusia menentukan kesejahteraan, apakah menurut kamu memberikan beasiswa saja sudah cukup untuk menghapus ketimpangan? Ataukah kita perlu memperbaiki infrastruktur kesehatan sejak bayi masih dalam kandungan untuk menciptakan kesetaraan kesempatan yang nyata?
