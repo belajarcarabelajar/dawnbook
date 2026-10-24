@@ -90,6 +90,6 @@ Tidak semua interaksi sosial memberikan dampak positif. Kamu perlu membedakan an
 
 ### Tidak Menanggung Beban Sendirian
 
-Membangun sistem dukungan sosial memperkuat ketahanan (*resilience*) emosionalmu dalam jangka panjang. Kamu tidak harus menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
+Membangun sistem dukungan sosial memperkuat ketahanan (*resilience*) emosionalmu dalam jangka panjang. Kita tidak harus menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
 
 *Mari mulai hari ini: Hubungi satu orang yang sudah lama tidak kamu ajak bicara, atau carilah satu komunitas yang sesuai dengan minatmu. Langkah kecil ini bisa menjadi awal dari sistem dukungan yang akan membantumu di masa depan.*
