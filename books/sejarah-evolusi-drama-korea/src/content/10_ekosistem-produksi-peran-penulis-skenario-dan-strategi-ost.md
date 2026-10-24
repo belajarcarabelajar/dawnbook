@@ -1,6 +1,6 @@
 ## Peran Penulis Skenario dan Strategi OST dalam Ekosistem Produksi
 
-Pernahkah kamu bertanya-tanya mengapa drama Korea bisa membuatmu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Rahasianya ada pada kerja presisi sistem di balik layar, bukan hanya pada penampilan menawan dari para aktornya.
+Pernahkah kamu bertanya-tanya mengapa drama Korea bisa membuatmu tertawa terbahak-bahak di satu detik, lalu menangis tersedu-sedu di detik berikutnya? Jawabannya ada pada cara kerja tim di balik layar, bukan hanya pada penampilan para aktornya.
 
 Dalam bagian ini, kita akan membedah dua pilar utama yang membentuk identitas K-Drama: kekuasaan penulis skenario (*star writer*) yang dominan dan strategi OST (*Original Soundtrack*) yang dirancang secara psikologis untuk mengikat emosi penonton.
 
@@ -44,7 +44,7 @@ K-Drama kerap menerapkan taktik mengulang satu lagu tema tertentu pada momen-mom
 2. **Kolaborasi dengan Vokalis Ternama:** Mengundang penyanyi spesialis OST seperti Gummy, Lyn, atau Davichi hampir selalu berhasil mendongkrak lagu tersebut ke puncak popularitas.
 3. **Penyelarasan Lirik Cerita:** Lirik lagu sengaja ditulis untuk mewakili isi hati karakter yang tidak terucap lewat dialog langsung.
 
-Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari drama yang sudah lama tamat masih sanggup membangkitkan getaran emosional yang sama di hati pendengarnya.
+Kekuatan identitas audio ini terbukti saat nada pembuka atau petikan gitar dari drama yang sudah lama tamat masih sanggup membangkitkan perasaan yang sama pada pendengarnya.
 
 ## 3. Sinergi Produksi dan Keseimbangan Formula
 
@@ -68,12 +68,12 @@ Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan t
 
 ### "Goblin" (*Guardian: The Lonely and Great God*) <!-- heading-colon-ok: judul internasional karya Guardian: The Lonely and Great God dikutip apa adanya -->
 
-- **Sentuhan Emas Kim Eun-sook:** Penulis meracik ulang legenda rakyat tentang *Dokkaebi* (leluhur gaib) ke dalam latar modern, melahirkan mitologi urban yang segar.
-- **Daya Pikat Lagu Pengiring:** Kolaborasi Chanyeol dan Punch dalam *Stay With Me* menyajikan paduan rap dan vokal yang membekas di ingatan. Lagu ini meledak di YouTube dan menjadi identitas audio-visual ikonik yang langsung mengingatkan orang pada drama tersebut.
+- **Racikan Kim Eun-sook:** Penulis meracik ulang legenda rakyat tentang *Dokkaebi* (leluhur gaib) ke dalam latar modern, menjadi mitologi urban yang baru.
+- **Daya Pikat Lagu Pengiring:** Kolaborasi Chanyeol dan Punch dalam *Stay With Me* menyajikan paduan rap dan vokal yang membekas di ingatan. Lagu ini populer di YouTube dan menjadi identitas audio-visual yang langsung mengingatkan orang pada drama tersebut.
 
 ### "Hospital Playlist"
 
-- **Konsep Bermusik Lee Woo-jung:** Penulis meleburkan lagu-lagu legendaris langsung ke dalam jalan cerita, dengan cara melatih para pemeran utama agar benar-benar bisa membawakan aransemen musik tersebut sebagai sebuah band.
+- **Konsep Bermusik Lee Woo-jung:** Penulis meleburkan lagu-lagu lama yang terkenal langsung ke dalam jalan cerita, dengan cara melatih para pemeran utama agar benar-benar bisa membawakan aransemen musik tersebut sebagai sebuah band.
 - **Pencapaian Emosional:** Lagu-lagu lama yang dinyanyikan ulang ini tidak sekadar menghiasi latar belakang, melainkan menjadi motor penggerak cerita yang membuat penonton merasa seperti ikut tumbuh bersama persahabatan mereka.
 
 ## 5. Ringkasan Strategis
@@ -81,7 +81,7 @@ Jika salah satu elemen di atas tidak terpenuhi, rasa dari cerita tersebut akan t
 Bagi kamu yang ingin memahami ekosistem ini secara mendalam, berikut adalah poin-poin kuncinya:
 
 - **Naskah adalah Penentu Arah:** Dalam ekosistem televisi Korea, posisi penulis sangat dihormati karena merekalah pemilik asli dari semesta cerita (*Script is King*).
-- **OST Sebagai Identitas dan Pundi Bisnis:** Lagu tema dikembangkan untuk membangun citra drama sekaligus menjadi mesin uang yang menjanjikan lewat pemutaran di berbagai platform musik digital.
-- **Kultus Penggemar Penulis Skenario:** Di Korea, penulis andalan memiliki barisan penggemar setia yang siap mengikuti karya terbarunya, sama seperti loyalitas fans kepada aktor ternama.
+- **OST Sebagai Identitas dan Pundi Bisnis:** Lagu tema dikembangkan untuk membangun citra drama sekaligus menjadi sumber pendapatan lewat pemutaran di berbagai platform musik digital.
+- **Penggemar Setia Penulis Skenario:** Di Korea, penulis andalan memiliki barisan penggemar setia yang siap mengikuti karya terbarunya, sama seperti loyalitas fans kepada aktor ternama.
 
-Keberhasilan global K-Drama saat ini lahir dari kombinasi apik antara kekuatan cerita dan strategi audio yang digarap serius. Keduanya saling mendukung untuk menciptakan tontonan yang melekat kuat di ingatan pemirsa.
+Keberhasilan global K-Drama saat ini lahir dari kombinasi antara kekuatan cerita dan strategi audio yang digarap serius. Keduanya saling mendukung untuk menciptakan tontonan yang melekat kuat di ingatan pemirsa.

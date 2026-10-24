@@ -38,7 +38,7 @@ Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura t
 
 ## Karakter sebagai Trendsetter Fashion & Lifestyle
 
-Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini sangat kuat hingga memicu fenomena *sold out*, di mana produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
+Dalam drama modern, pakaian yang dikenakan karakter memegang peran penting yang setara dengan naskah. Karakter utama kerap diposisikan sebagai *trendsetter*. Melalui busana, sutradara menyampaikan perkembangan karakter (*storytelling through fashion*), seperti perubahan status sosial yang tercermin dari gaya berpakaian mereka. Pengaruh visual ini memicu fenomena *sold out*, di mana produk fesyen atau kosmetik yang dipakai oleh aktor langsung habis terjual di pasaran sesaat setelah episode ditayangkan.
 
 Sebagai ilustrasi, dalam drama yang menampilkan sosok CEO muda, setelan jas *custom-fit* tidak sekadar memamerkan kekayaan. Pilihan pakaian tersebut secara visual membangun wibawa, otoritas, dan ketegasan karakter tanpa memerlukan dialog penjelasan yang panjang lebar.
 
@@ -65,10 +65,10 @@ Untuk menghasilkan tampilan kulit yang cerah (*glowing*) khas aktor Korea, kamu 
 
 ## Dampak terhadap Industri Fesyen dan Pariwisata
 
-Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjelma menjadi destinasi liburan yang wajib dikunjungi. Sementara itu dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual yang memikat dan kehalusan emosi dalam bercerita.
+Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjadi destinasi liburan. Sementara itu dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual dan kehalusan emosi dalam bercerita.
 
 Modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
 
 ## Penutup
 
-Modernisasi cerita melalui genre *romantic comedy* dan melodrama modern lebih dari sekadar pergeseran tema; ini adalah evolusi menyeluruh dari identitas visual televisi. Dengan mengutamakan sinematografi yang menawan dan fesyen yang ikonik, drama Korea berhasil bertransformasi dari hiburan layar kaca menjadi representasi dan inspirasi gaya hidup modern.
+Modernisasi cerita melalui genre *romantic comedy* dan melodrama modern lebih dari sekadar pergeseran tema; ini adalah perubahan identitas visual televisi. Dengan mengutamakan sinematografi dan fesyen, drama Korea berhasil bertransformasi dari hiburan layar kaca menjadi representasi dan inspirasi gaya hidup modern.
