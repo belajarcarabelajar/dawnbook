@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa sangat yakin akan sesuatu, namun belakangan menyadari bahwa kamu hanya melihat apa yang ingin kamu lihat? Atau pernahkah kamu membeli barang yang sebenarnya mahal hanya karena label "diskon 50%" membuat harganya terlihat murah?
 
-Selamat datang di dunia **Bias Kognitif**. Jika *logical fallacies* (sesat pikir) adalah kesalahan dalam struktur argumen luar, maka bias kognitif adalah "bug" atau kesalahan sistematis dalam perangkat lunak otak kita sendiri.
+Gejala seperti ini disebut **bias kognitif**. Jika *logical fallacies* (sesat pikir) adalah kesalahan dalam struktur argumen luar, maka bias kognitif adalah "bug" atau kesalahan sistematis dalam perangkat lunak otak kita sendiri.
 
 ### Apa Itu Bias Kognitif?
 
@@ -68,7 +68,7 @@ Selain dua di atas, terdapat beberapa bias lain yang sering memengaruhi penalara
 
 ### Bias dalam Kehidupan Profesional
 
-Memahami bias kognitif bukan sekadar teori, ini adalah alat bertahan hidup di dunia nyata:
+Memahami bias kognitif bukan sekadar teori, pemahaman ini berguna langsung dalam pekerjaan:
 
 #### 1. Dalam Negosiasi Bisnis
 
@@ -80,7 +80,7 @@ Pewawancara sering kali terkena bias konfirmasi. Jika dalam 5 menit pertama mere
 
 #### 3. Dalam Penulisan Kode (Engineering)
 
-Seorang programmer mungkin terkena bias konfirmasi saat melakukan *debugging*. Mereka yakin letak kesalahannya ada di modul A, sehingga mereka terus memeriksa modul A berkali-kali dan mengabaikan kemungkinan bahwa masalah sebenarnya ada di modul B yang sangat sederhana.
+Seorang programmer mungkin terkena bias konfirmasi saat melakukan *debugging*. Mereka yakin letak kesalahannya ada di modul A, sehingga mereka terus memeriksa modul A berkali-kali dan mengabaikan kemungkinan bahwa masalah sebenarnya ada di modul B yang sederhana.
 
 Berpikir kritis di sini berarti sengaja menguji skenario yang bisa membuktikan dugaan mereka salah. Programmer yang yakin sebuah input selalu bernilai positif, misalnya, perlu mencoba memasukkan angka negatif, bukan hanya mengulang uji yang pasti lolos.
 
@@ -93,4 +93,4 @@ Kita tidak bisa menghilangkan bias sepenuhnya karena itu sudah terprogram di ota
 3. **Data Sebelum Opini:** Sebelum melihat harga atau opini orang lain, tentukan standar atau nilaimu sendiri berdasarkan data mentah.
 4. **Cek Lingkunganmu:** Apakah kamu dikelilingi oleh "ruang gema" (*echo chamber*) yang hanya memvalidasi pendapatmu? Carilah perspektif yang berbeda secara aktif.
 
-> **Poin Utama:** Langkah pertama dalam berpikir kritis bukan meragukan orang lain, tetapi berani meragukan pikiran kita sendiri. Kesadaran bahwa otak kita bisa "berbohong" adalah awal dari kebijaksanaan.
+> **Poin Utama:** Langkah pertama dalam berpikir kritis bukan meragukan orang lain, tetapi berani meragukan pikiran kita sendiri. Kesadaran bahwa otak kita bisa "berbohong" adalah titik awalnya.

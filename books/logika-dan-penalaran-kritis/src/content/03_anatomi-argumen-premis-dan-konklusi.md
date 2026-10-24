@@ -62,7 +62,7 @@ Sebelum menyusun argumen yang kuat, kita harus mampu membedakan bahan baku penyu
 | **Bukti** | Berdasarkan pengamatan/data | Berdasarkan keyakinan/perasaan |
 | **Contoh** | "Air mendidih pada suhu $100^\circ C$ di permukaan laut." | "Kopi pahit lebih enak daripada kopi susu." |
 
-**Catatan penting:** Argumen yang kuat biasanya menggunakan **fakta sebagai premis** untuk mendukung sebuah **opini yang logis sebagai konklusi**. Jika premismu hanyalah opini tanpa dasar, maka argumenmu akan menjadi sangat subjektif dan mudah dipatahkan.
+**Catatan penting:** Argumen yang kuat biasanya menggunakan **fakta sebagai premis** untuk mendukung sebuah **opini yang logis sebagai konklusi**. Jika premismu hanyalah opini tanpa dasar, maka argumenmu akan menjadi subjektif dan mudah dipatahkan.
 
 ## 4\. Menyusun Struktur Argumen yang Kuat (Standard Form)
 

@@ -1,21 +1,21 @@
 ## Analisis Hubungan Sebab-Akibat
 
-Sering kali, ketika kamu membawa payung, hujan tidak kunjung turun. Namun, saat kamu meninggalkannya di rumah, langit justru tumpah dengan derasnya. Secara intuitif, otak kita cenderung menghubungkan dua kejadian yang terjadi berdekatan ini sebagai hubungan sebab-akibat. Dalam penalaran kritis, asumsi terburu-buru seperti ini adalah jebakan yang bisa berakibat fatal.
+Sering kali, ketika kamu membawa payung, hujan tidak kunjung turun. Namun, saat kamu meninggalkannya di rumah, hujan turun deras. Secara intuitif, otak kita cenderung menghubungkan dua kejadian yang terjadi berdekatan ini sebagai hubungan sebab-akibat. Dalam penalaran kritis, asumsi terburu-buru seperti ini adalah jebakan.
 
-Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi fondasi penting untuk mengambil keputusan yang akurat, baik dalam sains, bisnis, maupun keputusan personal sehari-hari.
+Memahami kausalitas (hubungan sebab-akibat) secara tepat menjadi dasar untuk mengambil keputusan yang akurat, baik dalam sains, bisnis, maupun keputusan personal sehari-hari.
 
 ## 1. Korelasi vs Kausalitas
 
-Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya bertolak belakang:
+Langkah awal untuk melatih ketajaman berpikir adalah memisahkan antara **korelasi** dan **kausalitas**. Dua konsep ini sering disamakan, padahal maknanya berbeda:
 
 * **Korelasi** merujuk pada hubungan statistik ketika dua variabel cenderung bergerak bersamaan. Misalnya, jika variabel $A$ meningkat, variabel $B$ juga ikut naik (korelasi positif), atau sebaliknya (korelasi negatif). Namun, gerakan bersama ini tidak menjamin adanya hubungan sebab-akibat.
-* **Kausalitas**, di sisi lain, menuntut adanya hubungan langsung: satu peristiwa (sebab) secara nyata memicu lahirnya peristiwa lain (akibat).
+* **Kausalitas**, di sisi lain, menuntut adanya hubungan langsung: satu peristiwa (sebab) memicu peristiwa lain (akibat).
 
-> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran melimpah selalu mencatat kerugian material akibat kebakaran yang sangat tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
+> **Analogi Sederhana:** Bayangkan kamu membaca data bahwa wilayah dengan jumlah pos pemadam kebakaran yang banyak selalu mencatat kerugian material akibat kebakaran yang tinggi. Apakah itu berarti keberadaan petugas pemadam memicu kerugian? Jelas tidak. Keduanya tampak berhubungan karena dipengaruhi oleh variabel ketiga (*confounding variable*), yaitu **skala kebakaran**. Kebakaran hebat pasti membutuhkan lebih banyak petugas sekaligus melahirkan kerugian yang lebih besar.
 
 ### Mengapa Kita Sering Keliru?
 
-Otak manusia berevolusi untuk membaca pola demi bertahan hidup. Di masa purba, mengaitkan buah beri merah tertentu dengan sakit perut teman adalah mekanisme pertahanan yang efektif. Masalahnya, di era modern yang penuh dengan data kompleks, pola yang kita lihat sering kali hanyalah kebetulan belaka atau hasil dari variabel tersembunyi yang tidak kasatmata.
+Otak manusia berevolusi untuk membaca pola demi bertahan hidup. Di masa purba, mengaitkan buah beri merah tertentu dengan sakit perut teman adalah mekanisme pertahanan yang efektif. Masalahnya, di era modern yang penuh dengan data kompleks, pola yang kita lihat sering kali hanyalah kebetulan atau hasil dari variabel tersembunyi.
 
 ## 2. Syarat Menentukan Hubungan Kausal
 
@@ -23,7 +23,7 @@ Untuk menyimpulkan bahwa $A$ menyebabkan $B$, para pemikir kritis dan peneliti b
 
 1. **Temporal Precedence (Urutan Temporal):** Sebab wajib mendahului akibat secara kronologis. Jika $B$ sudah terjadi sebelum $A$ muncul, maka $A$ mustahil menjadi penyebab bagi $B$.
 2. **Covariation (Kovariasi):** Harus ada pola perubahan yang selaras secara konsisten di antara keduanya. Apabila $A$ berubah, $B$ juga harus menunjukkan perubahan yang terukur.
-3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor $C$, yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menjadi dalang di balik kemunculan $A$ dan $B$ secara bersamaan.
+3. **Non-spuriousness (Ketiadaan Hubungan Semu):** Ini merupakan kriteria paling menantang. Kamu harus memastikan tidak ada faktor $C$, yang biasa disebut variabel perancu (*confounding variable*), yang sebenarnya menyebabkan kemunculan $A$ dan $B$ secara bersamaan.
 
    <div>
    $$
@@ -33,7 +33,7 @@ Untuk menyimpulkan bahwa $A$ menyebabkan $B$, para pemikir kritis dan peneliti b
 
 ## 3. Kompleksitas Causal Chain (Rantai Kausalitas)
 
-Di dunia nyata, sangat jarang sebuah akibat dipicu oleh penyebab tunggal. Kita hampir selalu berhadapan dengan **Causal Chain (Rantai Kausalitas)** atau **Causal Web (Jaring Kausal)** yang saling berkelindan.
+Di dunia nyata, sangat jarang sebuah akibat dipicu oleh penyebab tunggal. Kita hampir selalu berhadapan dengan **Causal Chain (Rantai Kausalitas)** atau **Causal Web (Jaring Kausal)** yang saling terkait.
 
 ### A. Penyebab Langsung vs. Root Cause (Akar Masalah)
 
@@ -117,4 +117,4 @@ Saat kamu mengevaluasi suatu klaim atau peristiwa, gunakan panduan berikut untuk
 3. **Validasi urutan temporal:** Pastikan kembali variabel sebab terjadi mendahului akibat, bukan sebaliknya.
 4. **Gunakan Analisis Kontrafaktual (*Counterfactual*):** Tanyakan pada diri sendiri, "Jika $A$ tidak pernah terjadi, apakah $B$ akan tetap muncul?" Apabila jawabannya ya, berarti $A$ bukan penyebab utama dari $B$.
 
-Mengetahui *apa* yang terjadi membekali kita dengan informasi. Mengetahui *mengapa* hal itu terjadi memberi kita pengetahuan. Namun, kemampuan membedakan dengan jeli mana penyebab nyata dan mana korelasi semu adalah tanda kedewasaan dalam bernalar kritis.
+Mengetahui *apa* yang terjadi membekali kita dengan informasi. Mengetahui *mengapa* hal itu terjadi memberi kita pengetahuan. Namun, untuk bernalar kritis, kamu perlu membedakan dengan jeli mana penyebab nyata dan mana korelasi semu.

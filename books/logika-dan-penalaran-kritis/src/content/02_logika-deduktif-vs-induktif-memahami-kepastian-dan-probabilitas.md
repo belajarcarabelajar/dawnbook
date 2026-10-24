@@ -2,7 +2,7 @@
 
 Sherlock Holmes sering berkata: setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran. Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
 
-Di sinilah peran penting memahami perbedaan antara **Logika Deduktif** dan **Logika Induktif**. Memahami keduanya adalah kunci untuk membangun argumen yang kokoh dan membuat keputusan yang tepat.
+Di sinilah peran penting memahami perbedaan antara **Logika Deduktif** dan **Logika Induktif**. Memahami keduanya membantu kamu membangun argumen yang kokoh dan membuat keputusan yang tepat.
 
 ## 1\. Penalaran Deduktif
 
@@ -102,10 +102,10 @@ Setiap metode penalaran memiliki keunggulan dan batasannya masing-masing dalam m
 
 ### Deduksi
 
-Metode deduktif sangat kuat karena menawarkan kepastian yang tidak tergoyahkan, menjadikannya fondasi utama dalam matematika dan logika formal. Namun, ia memiliki keterbatasan: deduksi tidak menghasilkan pengetahuan baru yang benar-benar segar, melainkan hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, seluruh kesimpulan otomatis runtuh.
+Metode deduktif kuat karena menawarkan kepastian, sehingga menjadi dasar matematika dan logika formal. Namun, ia memiliki keterbatasan: deduksi tidak menghasilkan pengetahuan baru, melainkan hanya mengungkap apa yang sudah tersirat di dalam premis-premisnya. Jika premis awalmu salah, seluruh kesimpulan otomatis runtuh.
 
 ### Induksi
 
-Di sisi lain, kelebihan utama penalaran induktif adalah kemampuannya membantu kita belajar dari pengalaman praktis dan membuat prediksi tentang masa depan, yang menjadi motor penggerak riset ilmiah serta algoritma *machine learning*. Keterbatasannya terletak pada ketidakpastian mutlak, karena selalu ada risiko fenomena *Black Swan* (Angsa Hitam). Kamu bisa saja mengamati ribuan angsa berwarna putih dan menyimpulkan bahwa semua angsa di dunia berwarna putih, sampai suatu hari seekor angsa hitam muncul dan membatalkan seluruh generalisasimu.
+Di sisi lain, kelebihan utama penalaran induktif adalah kemampuannya membantu kita belajar dari pengalaman praktis dan membuat prediksi tentang masa depan, yang menjadi dasar riset ilmiah serta algoritma *machine learning*. Keterbatasannya terletak pada ketidakpastian mutlak, karena selalu ada risiko fenomena *Black Swan* (Angsa Hitam). Kamu bisa saja mengamati ribuan angsa berwarna putih dan menyimpulkan bahwa semua angsa di dunia berwarna putih, sampai suatu hari seekor angsa hitam muncul dan membatalkan seluruh generalisasimu.
 
 Dalam kehidupan sehari-hari, sebagian besar keputusan kita diambil menggunakan logika induktif. Ketika melangkah keluar rumah atau memilih rute jalan, kita sering kali mengandalkan probabilitas berdasarkan pengalaman masa lalu, alih-alih kepastian mutlak.
