@@ -1,4 +1,4 @@
-# Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
+## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
 Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura, yang memiliki sumber daya alam sangat terbatas, mampu bertransformasi dari negara berpendapatan rendah menjadi raksasa ekonomi dunia dalam hitungan dekade? Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
 

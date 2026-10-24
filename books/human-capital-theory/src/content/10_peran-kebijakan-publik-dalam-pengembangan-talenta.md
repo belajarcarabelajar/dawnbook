@@ -1,4 +1,4 @@
-# Peran Kebijakan Publik dalam Pengembangan Talenta
+## Peran Kebijakan Publik dalam Pengembangan Talenta
 
 Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karir, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
 

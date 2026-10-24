@@ -1,4 +1,4 @@
-# Fungsi Upah Mincer
+## Fungsi Upah Mincer
 
 Mengapa seorang dokter spesialis berpenghasilan lebih besar daripada seorang dokter umum? Dan mengapa dokter umum yang telah berpraktik selama 20 tahun biasanya dibayar lebih tinggi daripada dokter yang baru lulus kemarin?
 

@@ -1,4 +1,4 @@
-# Pelatihan Umum dan Spesifik di Tempat Kerja
+## Pelatihan Umum dan Spesifik di Tempat Kerja
 
 Dalam kerangka Teori Modal Manusia (*Human Capital Theory*), pengembangan keterampilan tidak berhenti setelah seseorang menyelesaikan pendidikan formal. Sebagian besar akumulasi modal manusia justru terjadi saat seseorang melangkah ke dunia kerja melalui **Pelatihan di Tempat Kerja (On-the-Job Training/OJT)**.
 
