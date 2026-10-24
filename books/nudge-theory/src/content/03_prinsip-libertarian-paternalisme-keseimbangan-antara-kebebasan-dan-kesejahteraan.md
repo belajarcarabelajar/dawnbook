@@ -79,7 +79,7 @@ Untuk menjawab ini, arsitek pilihan harus bertindak secara transparan. Tujuan ut
 | **Insentif Ekonomi** | Tidak | Ya | Memberikan subsidi untuk mobil listrik. |
 | **Nudge (LP)** | **Tidak** | **Tidak** | Menaruh label kalori pada menu makanan. |
 
-### Kesimpulan untuk Pembelajaran
+### Mendesain Pilihan secara Sadar
 
 Prinsip Libertarian Paternalisme mengajarkan kita bahwa lingkungan tidak pernah netral. Di mana pun ada pilihan, di situ ada arsitektur pilihan.
 

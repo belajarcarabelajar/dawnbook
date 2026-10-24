@@ -30,7 +30,7 @@ Umpan balik harus menonjol dan mudah dipahami tanpa menguras daya pikir. Contohn
 
 Umpan balik harus menyajikan petunjuk konkret, bukan sekadar data mentah. Misalnya, daripada hanya menampilkan peringatan "pemakaian listrik tinggi", sistem yang baik akan memunculkan petunjuk: "Kamu menggunakan listrik 20% lebih banyak dari biasanya. Matikan AC di ruang tamu untuk menghemat."
 
-## 3\. Analogi "Efek Cermin"
+## 3\. Efek Cermin
 
 Bayangkan kamu sedang berusaha menurunkan berat badan.
 

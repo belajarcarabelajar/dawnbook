@@ -19,7 +19,7 @@ Seorang **Arsitek Pilihan** adalah siapa saja yang bertanggung jawab untuk menyu
 
 > "Seorang arsitek pilihan memiliki tanggung jawab untuk menyusun konteks keputusan sedemikian rupa sehingga pengguna tetap memiliki kebebasan memilih, namun diarahkan menuju hasil yang lebih baik bagi diri mereka sendiri."
 
-## Sang Manajer Kantin
+## Tata Letak Makanan di Kantin Sekolah
 
 Bayangkan kamu adalah seorang manajer kantin di sekolah besar. Kamu ingin para siswa makan lebih sehat tanpa harus melarang mereka membeli *junk food*. Dalam hal ini, kamu memegang kendali penuh atas tata letak makanan.
 

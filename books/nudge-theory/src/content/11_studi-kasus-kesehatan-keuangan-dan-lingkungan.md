@@ -4,7 +4,7 @@ Setelah memahami berbagai teori dan prinsip dalam arsitektur pilihan, sekarang s
 
 Bagian ini akan membedah tiga bidang utama tempat penerapan *Nudge Theory* telah membawa perubahan besar.
 
-## 1\. Misteri Donor Organ di Sektor Kesehatan
+## 1\. Donor Organ di Sektor Kesehatan
 
 Salah satu contoh klasik yang memperlihatkan kekuatan arsitektur pilihan adalah pendaftaran donor organ. Masalahnya sederhana: banyak orang menyatakan dukungan terhadap donor organ, tetapi hanya sebagian kecil yang benar-benar mendaftar.
 
@@ -88,7 +88,7 @@ Sering kali kita mengambil sedotan plastik hanya karena benda tersebut diletakka
 | Domain | Tantangan Perilaku | Intervensi Nudge | Hasil Utama |
 | --- | --- | --- | --- |
 | **Kesehatan** | Prokrastinasi pendaftaran donor | *Opt-out Default* | Peningkatan partisipasi hingga >90% |
-| **Keuangan** | *Loss Aversion* & *Present Bias* | Program *SMarT* | Peningkatan drastis dana pensiun |
+| **Keuangan** | *Loss Aversion* & *Present Bias* | Program *SMarT* | Peningkatan dana pensiun |
 | **Lingkungan** | Kurangnya motivasi individu | *Social Proof* (Norma Sosial) | Pengurangan konsumsi sumber daya |
 
 ## Merancang Kebijakan Publik

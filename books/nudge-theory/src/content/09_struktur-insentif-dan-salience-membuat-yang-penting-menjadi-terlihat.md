@@ -4,7 +4,7 @@ Pernahkah kamu heran mengapa kita sering kali mengabaikan diskon besar di akhir 
 
 Jawabannya terletak pada **Salience** (keterlihatan/keunggulan) dan bagaimana **Struktur Insentif** dirancang. Dalam Arsitektur Pilihan, memberikan insentif saja tidak cukup. Insentif tersebut harus cukup menonjol agar ditangkap oleh **Sistem 1** kita yang intuitif dan cepat.
 
-## 1. Memahami Salience sebagai "Lampu Neon" dalam Pikiran Kita
+## 1. Memahami Salience
 
 **Salience** merujuk pada kecenderungan manusia untuk lebih memperhatikan informasi yang mencolok, relevan, dan mudah diingat. Di tengah banyaknya gangguan, otak kita (khususnya Sistem 1) bertindak seperti filter yang ketat.
 
