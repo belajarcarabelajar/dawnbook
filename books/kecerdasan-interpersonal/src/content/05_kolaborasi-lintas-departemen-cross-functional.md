@@ -1,6 +1,6 @@
 ## Kolaborasi Lintas Departemen (Cross-Functional)
 
-Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Sementara itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
+Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
 
 Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Esensinya terletak pada seni menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target besar. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang sangat berharga.
 
