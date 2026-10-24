@@ -1,6 +1,6 @@
 ## Pendekatan Psikodinamika Freud dan Pengikutnya
 
-Pendekatan psikodinamika merupakan salah satu teori kepribadian yang cukup kuat dalam sejarah psikologi, menekankan pada motif dan konflik alam bawah sadar. Berawal dari buah pemikiran Sigmund Freud, pendekatan ini berasumsi bahwa kepribadian adalah wujud dari berbagai dinamika internal yang sebagian besar berada di luar kesadaran kita.
+Pendekatan psikodinamika, salah satu teori kepribadian yang cukup kuat dalam sejarah psikologi, menekankan motif dan konflik alam bawah sadar. Berawal dari buah pemikiran Sigmund Freud, pendekatan ini berasumsi bahwa kepribadian adalah wujud dari berbagai dinamika internal yang sebagian besar berada di luar kesadaran kita.
 
 ### Psikoanalisis Sigmund Freud
 

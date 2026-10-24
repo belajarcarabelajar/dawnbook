@@ -1,6 +1,6 @@
 ## Pendekatan Kognitif
 
-Pendekatan kognitif dalam kepribadian berfokus pada bagaimana proses berpikir, interpretasi, dan konstruksi pribadi memengaruhi cara individu memahami dunia dan bertindak di dalamnya. Alih-alih melihat kepribadian sebagai kumpulan sifat atau hasil pengkondisian, pendekatan ini menekankan peran aktif pikiran dalam membentuk realitas subjektif seseorang beserta kepribadiannya. Manusia dipandang layaknya seorang ilmuwan yang terus-menerus menguji dan merevisi berbagai hipotesis tentang dunia demi merancang prediksi atas kejadian di masa depan.
+Pendekatan kognitif dalam kepribadian menyoroti bagaimana proses berpikir, interpretasi, dan konstruksi pribadi memengaruhi cara individu memahami dunia. Hal yang sama berlaku untuk cara ia bertindak di dalam dunia itu. Alih-alih melihat kepribadian sebagai kumpulan sifat atau hasil pengkondisian, pendekatan ini menekankan peran aktif pikiran dalam membentuk realitas subjektif seseorang beserta kepribadiannya. Manusia dipandang layaknya seorang ilmuwan yang terus-menerus menguji dan merevisi berbagai hipotesis tentang dunia demi merancang prediksi atas kejadian di masa depan.
 
 Pendekatan ini berlawanan arus dengan behaviorisme yang terpaku pada mekanisme stimulus-respons, maupun psikodinamika yang mengutamakan dorongan alam bawah sadar. Dalam psikologi kognitif, tingkah laku seseorang banyak diarahkan oleh persepsi serta pemahamannya atas kondisi lingkungan sekitar demi mencapai target belajarnya.
 
