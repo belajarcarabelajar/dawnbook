@@ -20,7 +20,7 @@ Dalam konteks oligopoli, ada tiga elemen kunci dalam sebuah "permainan":
 
 Model paling terkenal dalam teori permainan untuk menjelaskan perilaku oligopoli adalah **Dilema Narapidana**. Model ini menunjukkan alasan mengapa dua pihak sering kali gagal bekerja sama, meskipun kerja sama tersebut sebenarnya memberikan hasil terbaik bagi keduanya.
 
-#### Skenario Klasik
+#### Dua Tersangka di Ruang Terpisah
 
 Dua tersangka, Andi dan Budi, ditangkap atas dugaan kejahatan. Polisi tidak memiliki cukup bukti kuat, sehingga menginterogasi keduanya di ruangan terpisah. Mereka berdua diberi penawaran yang sama:
 

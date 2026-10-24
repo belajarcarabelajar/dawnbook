@@ -75,7 +75,7 @@ Inilah alasan mengapa maskapai lebih suka bersaing lewat layanan, ketepatan wakt
 | --- | --- |
 | **Interdependensi** | Setiap keputusan harus mempertimbangkan reaksi lawan. |
 | **Kekakuan Harga** | Harga cenderung stabil karena ketakutan akan reaksi pesaing. |
-| **Iklan Masif** | Menjadi senjata utama untuk mempertahankan pangsa pasar. |
+| **Iklan Masif** | Menjadi alat utama untuk mempertahankan pangsa pasar. |
 | **Hambatan Masuk** | Melindungi keuntungan jangka panjang dari pemain baru. |
 
 > **Pesan Utama:** Dalam oligopoli, keberhasilan kamu ditentukan bukan hanya oleh seberapa baik kamu mengelola perusahaan sendiri, melainkan juga seberapa cerdas kamu memprediksi dan merespons langkah pesaing. Permainan strategi ini terjadi setiap hari di rak supermarket, layar ponsel, dan SPBU.

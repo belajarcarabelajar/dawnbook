@@ -8,7 +8,7 @@ Dalam bagian ini, kita akan membedah bagaimana interaksi jutaan keputusan indivi
 
 Dalam Pasar Persaingan Sempurna, harga tidak ditentukan oleh satu perusahaan seperti monopoli, melainkan oleh **kekuatan pasar secara keseluruhan** (permintaan pasar dan penawaran pasar).
 
-### Pasar Ibarat Timbangan Raksasa
+### Pasar Ibarat Timbangan
 
 Bayangkan sebuah timbangan raksasa. Di satu sisi ada jutaan konsumen (Permintaan), dan di sisi lain ada jutaan produsen (Penawaran). Harga adalah titik di mana timbangan tersebut mencapai keseimbangan. Jika satu butir pasir (satu perusahaan) mencoba menekan timbangan tersebut, timbangan itu tidak akan bergeming sedikit pun.
 
@@ -32,7 +32,7 @@ $$
 
 > **Intisari:** Di pasar ini, perusahaan adalah **Price Taker** (Penerima Harga). Mereka tidak punya kekuatan untuk mengubah harga pasar. Jika mereka menaikkan harga sedikit saja, konsumen akan lari ke ribuan penjual lain yang menjual produk identik.
 
-## 2. Garis Horizontal yang Unik pada Kurva Permintaan Perusahaan
+## 2. Kurva Permintaan Perusahaan yang Horizontal
 
 Karena perusahaan harus menerima harga pasar, maka kurva permintaan yang dihadapi oleh **satu perusahaan individu** berbentuk garis horizontal (elastis sempurna).
 

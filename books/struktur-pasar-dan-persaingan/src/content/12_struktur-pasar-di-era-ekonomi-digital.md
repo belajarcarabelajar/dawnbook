@@ -95,6 +95,6 @@ Ketika jumlah pengguna hanya naik 2 kali lipat, nilai jaringannya naik 4 kali li
 | **Struktur** | Linear (Rantai Nilai) | Platform (Ekosistem) |
 | **Biaya Marginal** | Besar | Mendekati Nol |
 | **Persaingan** | Berdasarkan Harga & Kualitas | Berdasarkan Efek Jaringan & Lock-in |
-| **Skala** | Terbatas oleh kapasitas fisik | Skala tanpa batas (Global) |
+| **Skala** | Terbatas oleh kapasitas fisik | Tidak terbatas kapasitas fisik (Global) |
 
 > **Pesan Penting:** Di era digital, persaingan sering kali bukan terjadi *di dalam* pasar, melainkan persaingan *untuk menguasai* pasar itu sendiri. Siapa yang berhasil membangun jaringan terbesar dengan data paling akurat, biasanya dialah yang akan mendominasi.
