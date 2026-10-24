@@ -1,6 +1,6 @@
 ## Kesimpulan, Saran, dan Referensi Ilmiah
 
-Menelusuri setiap lembar kehidupan Iwan Setyawan dalam *9 Summers 10 Autumns* melampaui pembacaan biografi biasa; kita diajak menyaksikan bagaimana sebuah mimpi dirajut di tengah dinginnya keterbatasan. Melalui lensa analisis ekspresif, kita diajak untuk melihat kaitan erat antara emosi terdalam pengarang dan karya sastra yang dilahirkannya. Bagian penutup ini merangkum seluruh temuan struktural dan ekspresif, serta menyajikan rekomendasi berharga bagi pembaca maupun peneliti sastra selanjutnya.
+Menelusuri setiap lembar kehidupan Iwan Setyawan dalam *9 Summers 10 Autumns* melampaui pembacaan biografi biasa. Yang tersaji adalah cara sebuah mimpi dirajut di tengah dinginnya keterbatasan. Melalui lensa analisis ekspresif, kita diajak untuk melihat kaitan erat antara emosi terdalam pengarang dan karya sastra yang dilahirkannya. Bagian penutup ini merangkum seluruh temuan struktural dan ekspresif, serta menyajikan rekomendasi berharga bagi pembaca maupun peneliti sastra selanjutnya.
 
 ### Sintesis Akhir Kajian
 

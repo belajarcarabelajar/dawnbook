@@ -2,7 +2,7 @@
 
 ### Pengaruh Keilmuan Statistika terhadap Struktur Diksi
 
-Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memberikan pengaruh ekspresif yang sangat unik terhadap gaya penulisan novelnya. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis yang presisi:
+Latar belakang akademik Iwan Setyawan sebagai lulusan Statistika Institut Pertanian Bogor (IPB) memengaruhi gaya penulisan novelnya. Pengaruh ekspresifnya sangat unik. Alih-alih hanya mengandalkan deskripsi abstrak, Iwan cenderung mengekspresikan kenangan masa lalunya menggunakan ketepatan angka, dimensi ruang, dan kalkulasi matematis yang presisi:
 
 1. **Akurasi Dimensi Rumah Mungil**
    Iwan mendeskripsikan ruang hunian keluarganya yang sempit secara numerik, memadukan angka luas dengan fakta jumlah anggota keluarga:
