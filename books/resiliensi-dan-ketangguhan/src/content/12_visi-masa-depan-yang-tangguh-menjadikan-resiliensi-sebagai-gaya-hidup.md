@@ -95,7 +95,7 @@ Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga
 1. **Menjadi Mentor:** Mengajarkan resiliensi kepada orang lain akan memperkuat pemahamanmu sendiri.
 2. **Membangun Budaya Tangguh:** Di tempat kerja atau keluarga, dorong keterbukaan tentang kegagalan dan fokus pada solusi daripada menyalahkan.
 
-> "Kita tidak naik ke tingkat harapan kita, kita jatuh ke tingkat sistem kita." , Archilochus
+Saat tekanan datang, yang menopangmu biasanya bukan harapan, melainkan kebiasaan dan sistem yang sudah kamu bangun.
 
 ## Hidup yang "Antifragile"
 

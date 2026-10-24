@@ -104,6 +104,6 @@ Alih-alih melihat tantangan sebagai titik henti, lihatlah sebagai titik balik (i
 
 Menemukan makna di balik tantangan bukan berarti kita mensyukuri kejadian buruk yang terjadi. Kita tidak harus menyukai penderitaan tersebut. Namun, kita bisa menentukan **apa yang akan kita lakukan dengan penderitaan itu.**
 
-> "Hidup tidak pernah dibuat tak tertahankan oleh keadaan, tetapi hanya oleh kurangnya makna dan tujuan." - Viktor Frankl
+Dalam *Man’s Search for Meaning*, Frankl berpendapat bahwa, dalam arti tertentu, penderitaan berhenti menjadi penderitaan begitu ia menemukan maknanya.
 
 *Latihan untukmu: Ambil satu tantangan kecil yang kamu hadapi minggu ini. Jika tantangan itu adalah seorang guru, pelajaran apa yang sedang ia coba ajarkan kepadamu?*

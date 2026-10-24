@@ -87,6 +87,6 @@ Sepanjang hari, pantau terus tingkat energimu. Begitu energi mulai menipis, ambi
 2. **Kendalikan Napas, Kendalikan Pikiran:** Saat jantung mulai berdebar kencang karena stres, gunakan teknik pernapasan untuk mengirim sinyal "aman" ke otak.
 3. **Audit Energi:** Identifikasi aktivitas apa yang menyedot energimu secara berlebihan dan aktivitas apa yang mengisi energimu (seperti hobi, olahraga ringan, atau berbincang dengan teman).
 
-> "Bukan beban yang membuatmu hancur, melainkan cara kamu membawanya." - Lou Holtz
+Beban yang sama bisa terasa sangat berbeda, tergantung cara kamu membawanya.
 
 *Coba lakukan satu teknik pernapasan kotak sekarang juga. Rasakan bagaimana detak jantungmu sedikit melambat dan pikiranmu menjadi lebih jernih.*
