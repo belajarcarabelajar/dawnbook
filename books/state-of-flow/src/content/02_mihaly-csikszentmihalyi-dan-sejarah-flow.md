@@ -8,9 +8,7 @@ Pria itu adalah **Mihaly Csikszentmihalyi** (diucapkan: *Me-high Chick-sent-me-h
 
 Mihaly tidak memulai risetnya di laboratorium yang nyaman. Ketertarikannya pada kebahagiaan dan kepuasan hidup berakar dari pengalaman masa kecilnya yang kelam selama Perang Dunia II. Ia melihat orang-orang dewasa yang kehilangan segalanya - harta, status, dan keamanan - menjadi hancur secara mental.
 
-Namun, ia juga melihat sebagian kecil orang yang tetap tangguh dan mampu mempertahankan integritas serta kegembiraan mereka meskipun berada di tengah kekacauan. Hal ini memicu pertanyaan besar dalam dirinya:
-
-> "Di mana kita bisa menemukan kebahagiaan yang tidak bergantung pada materi atau faktor eksternal?"
+Namun, ia juga melihat sebagian kecil orang yang tetap tangguh dan mampu mempertahankan integritas serta kegembiraan mereka meskipun berada di tengah kekacauan. Hal ini memicu pertanyaan besar dalam dirinya, yaitu di mana kebahagiaan yang tidak bergantung pada materi atau faktor eksternal bisa ditemukan.
 
 Pencarian ini membawanya ke Amerika Serikat, di mana ia mulai mempelajari proses kreatif dan pengalaman manusia yang paling memuaskan.
 
@@ -38,9 +36,9 @@ Meskipun aktivitasnya berbeda, deskripsi mereka tentang pengalaman tersebut seca
 
 ## 4\. Mengapa Dinamakan "Flow"?
 
-Nama "Flow" (Alir) tidak muncul dari teori akademis yang kaku, melainkan dari metafora yang digunakan oleh para subjek penelitian itu sendiri. Dalam sesi wawancara, banyak orang menggambarkan pengalaman optimal mereka seperti:
+Nama "Flow" (Alir) tidak muncul dari teori akademis yang kaku, melainkan dari metafora yang digunakan oleh para subjek penelitian itu sendiri. Dalam bukunya *Flow* (1990), Csikszentmihalyi menjelaskan bahwa banyak orang yang ia wawancarai memakai kata itu untuk melukiskan rasanya berada dalam performa terbaik:
 
-> "Saya merasa seolah-olah dibawa oleh arus air yang kuat." "Gerakan saya terjadi secara spontan, seperti mengalir begitu saja tanpa hambatan."
+> "Rasanya seperti melayang," "Saya terbawa oleh aliran."
 
 Mihaly secara resmi menggunakan istilah ini untuk menggambarkan kondisi mental di mana seseorang sepenuhnya terlibat dalam apa yang ia lakukan, menghasilkan perasaan energi yang terfokus, keterlibatan penuh, dan keberhasilan dalam proses aktivitas tersebut.
 

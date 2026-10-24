@@ -72,4 +72,4 @@ Dalam dunia kerja atau organisasi saat ini, kita sering terjebak pada KPI (Key P
 - **Fokus Karakter:** Moralitas bukan tentang "apa yang boleh dilakukan", tapi tentang "siapa saya seharusnya".
 - **Proses:** Kebajikan adalah sebuah keterampilan (techne) yang dipelajari lewat praktik dan pembiasaan.
 
-> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , (Parafrase dari pemikiran Aristoteles)
+> "Kita adalah apa yang kita kerjakan berulang kali. Maka, keunggulan bukanlah sebuah tindakan, melainkan sebuah kebiasaan." , Will Durant, *The Story of Philosophy* (1926), dalam ringkasannya atas ajaran Aristoteles tentang pembiasaan

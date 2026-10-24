@@ -207,4 +207,4 @@ Pada perancangan pesawat modern seperti Airbus A350 dan Boeing 787, bentuk kelen
 3. **Keserupaan Eksperimental**: Pengujian terowongan angin memerlukan kesamaan bilangan tak berdimensi, khususnya bilangan Reynolds ($\text{Re}$) dan bilangan Mach ($\text{Ma}$), agar data model skala representatif terhadap kondisi penerbangan nyata.
 4. **Integrasi Tekanan**: Performa aerodinamika terukur dari integrasi distribusi koefisien tekanan permukaan ($C\_p$) dan tegangan geser dinding ($\tau\_w$).
 
-> **Prinsip Rekayasa:** *"Semua model komputasi merupakan penyederhanaan realitas, namun model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern."* (Mengacu pada prinsip George Box).
+> **Prinsip Rekayasa:** Semua model komputasi merupakan penyederhanaan realitas, namun model yang dikalibrasi dan divalidasi dengan benar menjadi fondasi keselamatan serta efisiensi rekayasa penerbangan modern. Statistikawan George Box merumuskan gagasan dasarnya dengan ringkas: "pada dasarnya, semua model salah, tetapi sebagian berguna" (Box dan Draper, 1987, hlm. 424).

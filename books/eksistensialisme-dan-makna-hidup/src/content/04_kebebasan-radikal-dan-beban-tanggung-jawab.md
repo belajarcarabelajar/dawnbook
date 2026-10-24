@@ -6,9 +6,9 @@ Pernahkah kamu merasa lumpuh saat harus mengambil keputusan besar? Atau merasa b
 
 ## 1\. "Manusia Dihukum untuk Bebas"
 
-Istilah ini dipopulerkan oleh **Jean-Paul Sartre**. Sekilas, kata "dihukum" dan "bebas" tampak kontradiktif. Namun, dalam kacamata eksistensialisme, keduanya adalah dua sisi dari koin yang sama.
+Istilah ini dipopulerkan oleh **Jean-Paul Sartre** lewat ceramahnya *Existentialism Is a Humanism*. Sekilas, kata "dihukum" dan "bebas" tampak kontradiktif. Namun, dalam kacamata eksistensialisme, keduanya adalah dua sisi dari koin yang sama.
 
-> "Manusia itu bebas, manusia adalah kebebasan itu sendiri... ia dihukum karena ia tidak menciptakan dirinya sendiri, namun ia bebas karena begitu ia dilemparkan ke dunia, ia bertanggung jawab atas segala sesuatu yang dilakukannya." - Jean-Paul Sartre
+> "Manusia itu bebas, manusia adalah kebebasan... manusia dihukum untuk bebas. Dihukum, karena ia tidak menciptakan dirinya sendiri, namun tetap bebas, dan sejak ia dilemparkan ke dunia ini, ia bertanggung jawab atas segala sesuatu yang dilakukannya." - Jean-Paul Sartre
 
 ### Mengapa Disebut "Hukuman"?
 

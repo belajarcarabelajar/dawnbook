@@ -14,7 +14,7 @@ Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan
 - **Spesifik:** Menghindari kata-kata umum seperti "Bagus" atau "Kurang oke".
 - **Berorientasi Solusi:** Fokus pada apa yang bisa diperbaiki di masa depan.
 
-> "Umpan balik adalah sarapan bagi para juara. Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme."
+Ken Blanchard gemar mengulang ungkapan yang ia sebut berasal dari rekannya, Rick Tate: "Umpan balik adalah sarapan para juara." Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme.
 
 ### 2. Etika Memberikan Umpan Balik
 

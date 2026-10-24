@@ -7,6 +7,9 @@ Bagian ini menyajikan daftar pustaka ilmiah, artikel jurnal terakreditasi, dan b
 Clough, P., Strycharczyk, D., & Perry, J. (2021). *Developing mental toughness: Strategies to improve performance, resilience and wellbeing in individuals and organizations* (3rd ed.). Kogan Page. [https://www.koganpage.com/academic-professional/developing-mental-toughness-9781398601550](https://www.koganpage.com/academic-professional/developing-mental-toughness-9781398601550)
 > Buku ini membahas model 4C (*Control, Commitment, Challenge, Confidence*) yang mendefinisikan ketangguhan mental serta metode praktis pengembangannya dalam konteks individu dan organisasi.
 
+Epictetus. *The Enchiridion*. The Internet Classics Archive, Massachusetts Institute of Technology. [https://classics.mit.edu/Epictetus/epicench.html](https://classics.mit.edu/Epictetus/epicench.html)
+> Pegangan ringkas ajaran Stoik; bagian 5 menyatakan bahwa manusia terganggu bukan oleh peristiwa, melainkan oleh pandangan yang mereka bentuk tentang peristiwa itu.
+
 Grotberg, E. H. (1995). *A guide to promoting resilience in children: Strengthening the human spirit* (Early Childhood Development: Practice and Reflections, No. 8). Bernard van Leer Foundation. [https://bibalex.org/baifa/Attachment/Handlers/ShowAttachment.ashx?ID=287895](https://bibalex.org/baifa/Attachment/Handlers/ShowAttachment.ashx?ID=287895)
 > Karya klasik yang memperkenalkan kerangka kerja intervensi resiliensi berbasis tiga pilar kapasitas individu: *I AM* (internal), *I HAVE* (eksternal), dan *I CAN* (sosial/interpersonal).
 
@@ -15,6 +18,9 @@ Nashori, F., & Saputro, I. (2021). *Psikologi resiliensi*. Universitas Islam Ind
 
 Reivich, K., & Shatté, A. (2002). *The resilience factor: 7 essential skills for overcoming life's inevitable obstacles*. Broadway Books. [https://www.penguinrandomhouse.com/books/139986/the-resilience-factor-by-karen-reivich-phd-and-andrew-shatte-phd/](https://www.penguinrandomhouse.com/books/139986/the-resilience-factor-by-karen-reivich-phd-and-andrew-shatte-phd/)
 > Panduan komprehensif yang menjabarkan tujuh keterampilan utama pembentuk resiliensi, termasuk regulasi emosi, kendali impuls, optimisme, dan efikasi diri.
+
+Taleb, N. N. (2012). *Antifragile: Things that gain from disorder*. Random House. [https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/](https://www.penguinrandomhouse.com/books/176227/antifragile-by-nassim-nicholas-taleb/)
+> Buku yang memperkenalkan istilah *antifragile* untuk hal-hal yang justru menjadi lebih baik karena tekanan dan ketidakteraturan, melampaui sekadar tangguh.
 
 ### Artikel Jurnal Ilmiah
 

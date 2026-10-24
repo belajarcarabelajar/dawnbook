@@ -35,3 +35,8 @@ Berikut daftar referensi akademis, arkeologis, filologis, dan sejarah yang menja
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). 's-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.
+
+### Sumber Ajaran Karma
+
+11. **Thittila, Sayadaw U. (1996).** [*What Kamma Is*](https://www.wisdomlib.org/buddhism/book/what-kamma-is/d/doc3398.html). Penang: Sukhi Hotu.
+    Uraian ringkas tentang karma sebagai hukum sebab-akibat, memuat terjemahan Inggris syair benih dan buah dari *Samyutta Nikaya* (jilid I, hlm. 227) yang dikutip pada bab filosofi karma.

@@ -50,7 +50,7 @@ Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar la
 
 Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa teror politik. Namun bagi militer, itu adalah legitimasi politik.
 
-> "Dengan kemenangan ini, kita telah menunjukkan kepada dunia bahwa Argentina adalah negara yang damai, bersatu, dan terorganisir." - **Jenderal Jorge Rafael Videla**
+Pesan yang hendak ditampilkan lewat gelar itu mudah dibaca: Argentina sebagai negara yang damai, bersatu, dan teratur di mata dunia.
 
 ### Perayaan Gol di Penjara ESMA
 

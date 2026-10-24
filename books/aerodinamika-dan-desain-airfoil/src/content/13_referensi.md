@@ -13,6 +13,7 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 
 ### Teori Lapisan Batas, Metode Komputasi, dan Analisis Airfoil
 
+- Box, G. E. P., & Draper, N. R. (1987). [Empirical Model-Building and Response Surfaces](https://books.google.com/books/about/Empirical_Model_Building_and_Response_Su.html?id=QO2dDRufJEAC). John Wiley & Sons.
 - Drela, M. (1989). [XFOIL: An Analysis and Design System for Low Reynolds Number Airfoils](https://doi.org/10.1007/978-3-642-84010-4_1). Dalam T. J. Mueller (Ed.), *Low Reynolds Number Aerodynamics* (hlm. 1-12). Springer-Verlag.
 - Eppler, R. (1990). [Airfoil Design and Data](https://doi.org/10.1007/978-3-662-02646-5). Springer-Verlag.
 - Liebeck, R. H. (1978). [Design of Subsonic Airfoils for High Lift](https://doi.org/10.2514/3.58406). *Journal of Aircraft*, 15(9), 547-561.

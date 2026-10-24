@@ -10,7 +10,7 @@ Jika dulu manusia bergulat dengan kelangkaan, kita sekarang bergulat dengan **ke
 
 ### Paradoks Pilihan dan Kecemasan (Angst)
 
-Kierkegaard menyebut kecemasan sebagai "pusingnya kebebasan". Di era digital, rasa pusing ini bertambah karena kita dihadapkan pada begitu banyak jalur karier, gaya hidup, dan ideologi hanya dalam sekali usap layar.
+Dalam *The Concept of Anxiety*, Kierkegaard menyebut kecemasan sebagai "pusingnya kebebasan". Di era digital, rasa pusing ini bertambah karena kita dihadapkan pada begitu banyak jalur karier, gaya hidup, dan ideologi hanya dalam sekali usap layar.
 
 Bayangkan saat kamu menghabiskan waktu satu jam hanya untuk memilih film di Netflix, hingga akhirnya terlalu lelah untuk menonton apa pun. Itu adalah contoh nyata dari kelumpuhan eksistensial (*existential paralysis*).
 

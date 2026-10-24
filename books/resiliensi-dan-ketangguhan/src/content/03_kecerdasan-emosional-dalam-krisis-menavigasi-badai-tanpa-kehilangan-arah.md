@@ -33,9 +33,7 @@ Langkah pertama dalam mengelola emosi di bawah tekanan adalah dengan **mengenali
 
 ### 3. Ruang di Antara Stimulus dan Respons
 
-Viktor Frankl, seorang psikolog dan penyintas Holocaust, pernah menulis:
-
-> "Antara stimulus dan respons, ada sebuah ruang. Di dalam ruang itulah terletak kebebasan dan kekuatan kita untuk memilih respons kita."
+Di antara peristiwa yang memicu dan reaksi yang kamu berikan, selalu ada jeda, sekecil apa pun. Di jeda itulah kamu punya kebebasan untuk memilih respons.
 
 Dalam krisis, ruang ini sering kali terasa sempit. Teknik untuk memperlebar ruang ini adalah dengan **Metode S.T.O.P**:
 

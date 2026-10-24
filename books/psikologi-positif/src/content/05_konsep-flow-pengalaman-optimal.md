@@ -106,4 +106,4 @@ Perlu diingat bahwa *flow* berbeda dengan memaksakan diri bekerja hingga kelelah
 1. *Apakah ada kesamaan tantangan di antara aktivitas tersebut?*
 2. *Bagaimana kamu bisa membawa elemen-elemen tersebut ke dalam pekerjaan atau studimu yang terasa membosankan saat ini?*
 
-> "Kebahagiaan bukanlah sesuatu yang terjadi begitu saja. Kebahagiaan bukanlah hasil dari keberuntungan atau nasib baik semata, melainkan suatu kondisi yang harus dipersiapkan, dikembangkan, dan dijaga oleh setiap orang." - **Mihaly Csikszentmihalyi**
+> "Kebahagiaan bukanlah sesuatu yang terjadi begitu saja. Ia bukan hasil dari keberuntungan atau kebetulan. ... Kebahagiaan, pada kenyataannya, adalah kondisi yang harus dipersiapkan, dipupuk, dan dijaga secara pribadi oleh setiap orang." - **Mihaly Csikszentmihalyi**, *Flow* (1990)

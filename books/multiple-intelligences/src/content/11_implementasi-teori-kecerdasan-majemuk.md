@@ -2,7 +2,7 @@
 
 Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti guru harus menyiapkan delapan pelajaran berbeda untuk setiap pertemuan. Konsep ini lebih menekankan pada penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
 
-> "Inti dari teori kecerdasan majemuk adalah menghargai perbedaan cara manusia belajar, bukan untuk mengkotak-kotakkan siswa, tetapi untuk membuka jendela peluang bagi mereka untuk memahami dunia." - Howard Gardner
+Semangatnya adalah menghargai perbedaan cara manusia belajar. Tujuannya bukan mengkotak-kotakkan siswa, melainkan membuka lebih banyak jalan bagi mereka untuk memahami dunia.
 
 ## 1. Menentukan Titik Masuk (Entry Points)
 

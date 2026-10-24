@@ -24,7 +24,7 @@ Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kend
 
 ### 2. Dari "Fragile" Menjadi "Antifragile"
 
-Dalam bukunya, Nassim Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur karena tekanan, dan sesuatu yang *resilient* (tangguh) mampu bertahan dari tekanan, maka sesuatu yang *antifragile* justru **bertumbuh dan menjadi lebih baik** akibat tekanan tersebut.
+Dalam bukunya *Antifragile: Things That Gain from Disorder* (2012), Nassim Nicholas Taleb memperkenalkan konsep **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur karena tekanan, dan sesuatu yang *resilient* (tangguh) mampu bertahan dari tekanan, maka sesuatu yang *antifragile* justru **bertumbuh dan menjadi lebih baik** akibat tekanan tersebut.
 
 > **Sudut Pandang:** Quarter-Life Crisis bekerja seperti api: kertas terbakar olehnya, sementara besi ditempa menjadi lebih kuat.
 

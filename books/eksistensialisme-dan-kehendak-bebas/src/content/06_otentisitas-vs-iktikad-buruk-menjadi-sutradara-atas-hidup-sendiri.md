@@ -10,7 +10,7 @@ Otentisitas bukanlah proses penemuan substansi esensial yang tersembunyi di keda
 - Kesediaan memikul tanggung jawab etis secara penuh tanpa melimpahkan kesalahan kepada faktor luar.
 - Penyelarasan tindakan dengan pertimbangan rasional otonom, bukan sekadar reproduksi konvensi atau desakan kepatuhan sosial.
 
-> "Manusia pada hakikatnya tidak lain adalah apa yang ia proyeksikan dan wujudkan melalui tindakannya sendiri." - Jean-Paul Sartre
+Bagi Sartre, manusia bukan sekadar apa yang ia bayangkan tentang dirinya, melainkan apa yang ia kehendaki setelah ia ada.
 
 ### 2. Konsepsi *Mauvaise Foi* (Iktikad Buruk)
 

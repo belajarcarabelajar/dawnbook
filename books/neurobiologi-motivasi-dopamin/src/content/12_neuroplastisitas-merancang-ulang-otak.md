@@ -25,7 +25,7 @@ Bagaimana sebenarnya otak "belajar" untuk berubah? Ada dua proses utama yang ter
 Ini adalah proses penguatan hubungan antar neuron. Ketika dua neuron berkomunikasi secara berulang-ulang, efisiensi transmisi sinyal di antara keduanya meningkat.
 
 - **Analogi:** Bayangkan sebuah jalan setapak di hutan. Semakin sering kamu melewatinya, semak-semak akan tersingkap, tanah menjadi padat, dan jalan tersebut menjadi semakin mudah dilalui.
-- **Prinsip Hebb:** *"Neurons that fire together, wire together"* (Neuron yang menyala bersama, akan terhubung bersama).
+- **Prinsip Hebb:** Donald Hebb (1949) mengemukakan bahwa hubungan antara dua neuron menguat ketika satu neuron berulang kali ikut memicu aktivitas neuron lainnya. Rima populer *"neurons that fire together, wire together"* (neuron yang menyala bersama akan terhubung bersama) bukan kalimat Hebb sendiri, melainkan varian dari rima yang diperkenalkan Carla Shatz (1992), *"cells that fire together, wire together"*, seperti dicatat Keysers dan Gazzola (2014).
 
 #### 2. Long-Term Depression (LTD)
 

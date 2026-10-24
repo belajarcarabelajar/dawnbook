@@ -71,5 +71,3 @@ Dalam unit gawat darurat, *Group Flow* bukan sekadar konsep semata - ini adalah 
 1. **Hapus Gangguan:** Berikan waktu 3-4 jam tanpa rapat setiap hari (Deep Work blocks).
 2. **Definisikan "Menang":** Pastikan setiap pagi tim tahu persis apa indikator keberhasilan hari itu.
 3. **Dorong "Yes, And":** Dalam sesi brainstorming, larang penggunaan kata "Tapi" dan ganti dengan "Dan".
-
-> "Di dalam Group Flow, setiap anggota tim menjadi bagian dari kecerdasan kolektif yang jauh lebih besar daripada jumlah bagian-bagiannya." - **Mihaly Csikszentmihalyi**

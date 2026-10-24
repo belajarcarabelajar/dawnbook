@@ -10,7 +10,11 @@ Boyd, J. R. (1986). *Patterns of conflict*. Air University Press. [https://www.a
 
 Brymer, M., Jacobs, A., Layne, C., Pynoos, R., Ruzek, J., Steinberg, A., Vernberg, E., & Watson, P. (2006). *Psychological first aid: Field operations guide* (2nd ed.). National Child Traumatic Stress Network and National Center for PTSD. [https://www.nctsn.org/resources/psychological-first-aid-pfa-field-operations-guide-2nd-edition](https://www.nctsn.org/resources/psychological-first-aid-pfa-field-operations-guide-2nd-edition)
 
+CBC Radio. (2022, November 25). Are we mislabeling our trauma? Why Dr. Gabor Maté believes we need to change the way we think about pain. *The Next Chapter*. [https://www.cbc.ca/radio/thenextchapter/are-we-mislabeling-our-trauma-why-dr-gabor-mat%C3%A9-believes-we-need-to-change-the-way-we-think-about-pain-1.6661540](https://www.cbc.ca/radio/thenextchapter/are-we-mislabeling-our-trauma-why-dr-gabor-mat%C3%A9-believes-we-need-to-change-the-way-we-think-about-pain-1.6661540)
+
 Federal Emergency Management Agency. (2010). *Developing and maintaining emergency operations plans: Comprehensive preparedness guide (CPG) 101* (Version 2.0). Federal Emergency Management Agency. [https://www.fema.gov/sites/default/files/2020-05/CPG_101_V2_30NOV2010_FINAL_508.pdf](https://www.fema.gov/sites/default/files/2020-05/CPG_101_V2_30NOV2010_FINAL_508.pdf)
+
+Hebb, D. O. (2005). *The organization of behavior* (Terbit pertama 1949). Psychology Press. [https://doi.org/10.4324/9781410612403](https://doi.org/10.4324/9781410612403)
 
 Helbing, D., Farkas, I., & Vicsek, T. (2000). Simulating dynamical features of escape panic. *Nature*, 407(6803), 487-490. [https://doi.org/10.1038/35035023](https://doi.org/10.1038/35035023)
 
@@ -39,5 +43,7 @@ Quarantelli, E. L. (1954). The nature and conditions of panic. *American Journal
 Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Baltes (Eds.), *International Encyclopedia of the Social & Behavioral Sciences* (pp. 11020-11023). Pergamon. [https://doi.org/10.1016/B0-08-043076-7/04261-0](https://doi.org/10.1016/B0-08-043076-7/04261-0)
 
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
+
+Shatz, C. J. (1992). The developing brain. *Scientific American*, 267(3), 60-67. [https://doi.org/10.1038/scientificamerican0992-60](https://doi.org/10.1038/scientificamerican0992-60)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)

@@ -65,4 +65,4 @@ Kondisi partisipasi pada 1950 dapat diringkas dalam tabel berikut. Selain negara
 
 Jika seandainya Jerman diizinkan ikut serta pada 1950, apakah menurut kamu sepak bola bisa mempercepat proses rekonsiliasi bangsa-bangsa di Eropa, atau justru memicu ketegangan baru karena luka perang yang belum pulih?
 
-> **Insight Penting:** Sepak bola sering kali dianggap sebagai "perang tanpa peluru." Namun, pada tahun 1950, sepak bola justru menjadi alat untuk memastikan bahwa mereka yang mengangkat senjata tidak diberikan panggung hingga perdamaian benar-benar terjamin.
+> **Insight Penting:** Sepak bola sering kali dianggap sebagai "perang tanpa tembakan", istilah George Orwell. Namun, pada tahun 1950, sepak bola justru menjadi alat untuk memastikan bahwa mereka yang mengangkat senjata tidak diberikan panggung hingga perdamaian benar-benar terjamin.

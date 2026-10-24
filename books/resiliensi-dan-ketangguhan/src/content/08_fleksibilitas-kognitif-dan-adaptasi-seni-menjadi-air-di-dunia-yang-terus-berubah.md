@@ -13,7 +13,7 @@ Dalam pembahasan resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan
 
 Fleksibilitas kognitif tidak berarti lemah. Ini adalah tentang kemampuan beradaptasi.
 
-> "Ukuran kecerdasan adalah kemampuan untuk berubah." , Albert Einstein
+Kecerdasan pun tampak dari kesediaan untuk berubah, bukan hanya dari banyaknya yang kamu tahu.
 
 ### Mengapa Ini Penting?
 

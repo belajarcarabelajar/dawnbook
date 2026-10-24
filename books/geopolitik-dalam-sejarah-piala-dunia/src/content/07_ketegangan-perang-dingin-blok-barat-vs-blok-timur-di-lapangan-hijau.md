@@ -1,6 +1,6 @@
 ## Ketegangan Perang Dingin di Lapangan Hijau
 
-Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa peluru" antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
+Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan politik yang sengit. Di sana berlangsung "perang tanpa tembakan", meminjam istilah George Orwell, antara dua ideologi besar: **Kapitalisme (Blok Barat)** yang dipimpin Amerika Serikat dan **Komunisme (Blok Timur)** yang dipimpin Uni Soviet.
 
 Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, di mana setiap gol dianggap sebagai kemenangan sistem politik.
 

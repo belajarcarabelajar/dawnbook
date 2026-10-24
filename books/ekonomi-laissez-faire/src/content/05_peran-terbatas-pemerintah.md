@@ -8,7 +8,7 @@ Inilah inti dari **Peran Terbatas Pemerintah** dalam sistem ekonomi *Laissez-fai
 
 Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **Minarkis** atau *Night-Watchman State*. Filosofinya adalah: pemerintah hanya boleh ada untuk melindungi individu dari paksaan, pencurian, penipuan, dan pelanggaran kontrak.
 
-> "Pemerintah yang terbaik adalah yang paling sedikit memerintah." (Sering diatribusikan kepada Thomas Jefferson atau Henry David Thoreau)
+Semangat ini terangkum dalam semboyan "pemerintah yang terbaik adalah yang paling sedikit memerintah", yang sering dikira ucapan Thomas Jefferson. Ensiklopedia Monticello (Berkes, 2008) mencatatnya sebagai kutipan palsu Jefferson: bentuk tertua yang diketahui muncul pada 1837 dalam pengantar majalah *The United States Magazine and Democratic Review*. Henry David Thoreau kemudian membuka esai *Civil Disobedience* (1849) dengan menyatakan bahwa ia menerima semboyan itu.
 
 Jika pemerintah melampaui batas ini, misalnya dengan mengatur harga atau mensubsidi industri tertentu, hal itu dianggap sebagai distorsi yang merusak efisiensi alami pasar.
 

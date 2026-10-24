@@ -95,11 +95,11 @@ Ketangguhan masa depanmu tidak hanya bergantung pada dirimu sendiri, tetapi juga
 1. **Menjadi Mentor:** Mengajarkan resiliensi kepada orang lain akan memperkuat pemahamanmu sendiri.
 2. **Membangun Budaya Tangguh:** Di tempat kerja atau keluarga, dorong keterbukaan tentang kegagalan dan fokus pada solusi daripada menyalahkan.
 
-> "Kita tidak naik ke tingkat harapan kita, kita jatuh ke tingkat sistem kita." , Archilochus
+Saat tekanan datang, yang menopangmu biasanya bukan harapan, melainkan kebiasaan dan sistem yang sudah kamu bangun.
 
 ## Hidup yang "Antifragile"
 
-Sebagai penutup dari seluruh topik ini, tujuannya adalah menjadi **Antifragile**. Jika sesuatu yang *fragile* (rapuh) hancur saat ditekan, dan sesuatu yang *resilient* (tangguh) mampu bertahan saat ditekan, maka sesuatu yang **antifragile** justru menjadi lebih kuat saat menghadapi tekanan dan kekacauan.
+Sebagai penutup dari seluruh topik ini, tujuannya adalah menjadi **Antifragile**, istilah yang diciptakan Nassim Nicholas Taleb dalam bukunya *Antifragile: Things That Gain from Disorder* (2012). Jika sesuatu yang *fragile* (rapuh) hancur saat ditekan, dan sesuatu yang *resilient* (tangguh) mampu bertahan saat ditekan, maka sesuatu yang **antifragile** justru menjadi lebih kuat saat menghadapi tekanan dan kekacauan.
 
 *Refleksi Akhir:* *Tutup mata sejenak dan bayangkan dirimu 5 tahun dari sekarang. Kamu telah melewati berbagai tantangan yang belum kamu ketahui saat ini. Lihatlah betapa tenangnya dirimu di masa depan itu, karena kamu tahu bahwa apa pun yang terjadi, kamu memiliki sistem, nilai, dan kekuatan batin untuk menghadapinya. Itulah visi masa depanmu yang tangguh.*
 

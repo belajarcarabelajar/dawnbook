@@ -12,7 +12,7 @@ Dalam diskursus filsafat dan sains, kehendak bebas kerap dihadapkan secara biner
 
 Eksistensialisme tidak menyangkal adanya kendala material objektif, melainkan menegaskan bahwa modalitas respons sadar terhadap kendala tersebut senantiasa terbuka lebar bagi kehendak bebas manusia.
 
-> "Manusia tidak lain adalah apa yang ia buat dari dirinya sendiri melalui keputusannya." - Jean-Paul Sartre
+Sartre menyebut gagasan ini prinsip pertama eksistensialisme: manusia tidak lain adalah apa yang ia bentuk dari dirinya sendiri.
 
 ### 2. Dialektika Faktisitas dan Transendensi
 

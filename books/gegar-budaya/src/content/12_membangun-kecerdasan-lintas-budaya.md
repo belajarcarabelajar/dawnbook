@@ -101,4 +101,4 @@ Berikut adalah langkah-langkah kinestetik yang bisa kamu lakukan sekarang juga u
 
 **Penting:** Kecerdasan Lintas Budaya bukanlah sebuah tujuan akhir, melainkan proses yang terus berjalan. Setiap kali kamu berhasil menjembatani perbedaan, kamu menjadi lebih pintar secara budaya.
 
-> "Dunia adalah sebuah buku, dan mereka yang tidak bepergian (secara fisik maupun mental keluar dari zona nyaman budayanya) hanya membaca satu halaman saja." - **St. Augustine** (dengan adaptasi konteks CQ).
+Penulis perjalanan Inggris Richard Lassels, dalam *The Voyage of Italy* (1670), memakai ungkapan dunia sebagai buku besar, yang ia sebut berasal dari St. Augustine, lalu menulis bahwa "mereka yang tidak pernah beranjak dari rumah hanya membaca satu halaman dari buku ini" ([Quote Investigator, 2025](https://quoteinvestigator.com/2025/09/25/world-book/)). Dalam urusan kecerdasan budaya, beranjak itu bisa berarti keluar dari zona nyaman budayamu, secara fisik maupun mental.

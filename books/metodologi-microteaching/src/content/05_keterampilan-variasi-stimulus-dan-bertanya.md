@@ -46,7 +46,7 @@ Jangan hanya menggunakan pola satu arah ($\text{Guru} \rightarrow \text{Siswa}$)
 
 Jika variasi stimulus adalah cara kita menjaga siswa tetap terjaga, maka **bertanya** adalah cara kita memastikan otak mereka bekerja. Bertanya bukan sekadar meminta jawaban, melainkan alat untuk menuntun proses berpikir.
 
-> "Mengajar yang baik bukan memberikan jawaban yang benar, melainkan mengajukan pertanyaan yang tepat."
+Josef Albers menulis dalam *Interaction of Color* (1963) bahwa mengajar yang baik lebih banyak berupa memberi pertanyaan yang tepat daripada memberi jawaban yang benar.
 
 ### Level Kognitif dalam Pertanyaan
 

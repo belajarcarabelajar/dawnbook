@@ -9,7 +9,7 @@ Dalam ontologi eksistensialisme Jean-Paul Sartre, kebebasan dan tanggung jawab m
 - Ketiadaan determinisme eksternal menghapuskan alibi untuk melimpahkan kesalahan pada faktor nasib, genetika, atau struktur lingkungan sosial.
 - Subjek memikul konsekuensi penuh atas setiap keputusan, baik yang terwujud dalam tindakan aktif maupun keputusan pasif untuk tidak bertindak.
 
-> "Manusia terikat secara niscaya pada kebebasannya, dan dengan demikian memikul seluruh beban tanggung jawab atas dunia dan dirinya sendiri." - Jean-Paul Sartre
+Sartre menyatakan bahwa manusia dikutuk untuk bebas, sebab begitu terlempar ke dunia, ia bertanggung jawab atas segala yang ia lakukan.
 
 ### 2. Universalisasi Pilihan Subjektif
 

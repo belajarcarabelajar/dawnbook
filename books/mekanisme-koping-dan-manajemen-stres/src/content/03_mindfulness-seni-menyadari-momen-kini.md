@@ -6,9 +6,9 @@ Kondisi ini disebut sebagai *autopilot mode*, sebuah keadaan di mana tubuh kita 
 
 ### Apa Itu Mindfulness?
 
-Secara harfiah, **Mindfulness** adalah kesadaran penuh. Jon Kabat-Zinn, pelopor penggunaan mindfulness dalam dunia medis Barat, mendefinisikannya sebagai:
+Secara harfiah, **Mindfulness** adalah kesadaran penuh. Jon Kabat-Zinn, pelopor penggunaan mindfulness dalam dunia medis Barat, dalam artikelnya tahun 2003 di jurnal *Clinical Psychology: Science and Practice* mendefinisikannya sebagai:
 
-> "Kesadaran yang muncul dengan mengarahkan perhatian pada tujuan, di momen saat ini, dan dilakukan tanpa memberikan penilaian (non-judgmental)."
+> "Kesadaran yang muncul dengan memberi perhatian secara sengaja, di momen saat ini, dan tanpa menghakimi (*nonjudgmentally*) pada pengalaman yang terus bergulir dari momen ke momen."
 
 #### Menonton Kereta di Stasiun
 

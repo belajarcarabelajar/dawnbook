@@ -2,6 +2,8 @@
 
 Aristotle. (2014). *Nicomachean ethics* (C. D. C. Reeve, Trans.). Hackett Publishing Company.
 
+Durant, W. (1926). *The story of philosophy*. Simon & Schuster. <https://www.simonandschuster.com/books/Story-of-Philosophy/Will-Durant/9780671201593>
+
 Foot, P. (2001). *Natural goodness*. Oxford University Press.
 
 Hursthouse, R., & Pettigrove, G. (2016). Virtue ethics. Dalam E. N. Zalta (Ed.), *The Stanford Encyclopedia of Philosophy* (Edisi Musim Dingin 2016). Metaphysics Research Lab, Stanford University. <https://plato.stanford.edu/archives/win2016/entries/ethics-virtue/>

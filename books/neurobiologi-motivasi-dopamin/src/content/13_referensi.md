@@ -58,6 +58,12 @@ Casey, B. J., Somerville, L. H., Gotlib, I. H., Ayduk, O., Franklin, N. T., Askr
 
 Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science*](https://www.penguinrandomhouse.com/books/298495/the-brain-that-changes-itself-by-norman-doidge-md/). New York: Viking Penguin.
 
+Hebb, D. O. (2005). *The organization of behavior: A neuropsychological theory*. Psychology Press. (Karya asli diterbitkan 1949). [https://doi.org/10.4324/9781410612403](https://doi.org/10.4324/9781410612403)
+
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
+Keysers, C., & Gazzola, V. (2014). Hebbian learning and predictive mirror neurons for actions, sensations and emotions. *Philosophical Transactions of the Royal Society B: Biological Sciences*, *369*(1644), 20130175. [https://doi.org/10.1098/rstb.2013.0175](https://doi.org/10.1098/rstb.2013.0175)
+
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)
+
+Shatz, C. J. (1992). The developing brain. *Scientific American*, *267*(3), 60–67. [https://doi.org/10.1038/scientificamerican0992-60](https://doi.org/10.1038/scientificamerican0992-60)

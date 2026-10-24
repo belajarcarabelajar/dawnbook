@@ -54,7 +54,7 @@ Penyusunan kurikulum yang matang menuntut kesediaan para dosen dari berbagai jur
 - **Tim Kurikulum Lintas Jurusan:** Perwakilan dari berbagai departemen berkolaborasi merumuskan program studi terpadu.
 - **Lokakarya Tematik:** Menggelar seminar berkala untuk membedah titik temu antardisiplin ilmu.
 
-> "Sinergi yang muncul dari kolaborasi antar-disiplin di antara pendidik adalah fondasi bagi sinergi yang sama pada peserta didik."
+Kerja sama lintas disiplin di antara para pendidik menjadi fondasi bagi kerja sama serupa di antara peserta didik.
 
 #### b. Mendorong Kolaborasi Peserta Didik
 
