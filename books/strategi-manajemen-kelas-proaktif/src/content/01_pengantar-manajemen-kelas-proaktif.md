@@ -1,6 +1,6 @@
 ## Pengantar Manajemen Kelas Proaktif
 
-Kelas yang tertib biasanya bukan hasil teguran yang terus-menerus, melainkan hasil persiapan yang mencegah gangguan sebelum muncul. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
+Manajemen kelas proaktif berfokus pada persiapan yang mencegah gangguan sebelum muncul, bukan pada teguran setelah gangguan terjadi. Bayangkan sebuah ruang kelas di mana kamu tidak perlu berteriak untuk mendapatkan perhatian, tidak perlu terus-menerus menginterupsi pelajaran untuk menegur siswa, dan setiap menit yang kamu habiskan benar-benar digunakan untuk mengajar.
 
 Apakah ini hanya mimpi? Tentu tidak. Inilah yang menjadi inti dari **Manajemen Kelas Proaktif**.
 
