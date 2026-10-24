@@ -88,7 +88,7 @@ Tidak semua interaksi sosial memberikan dampak positif. Kamu perlu membedakan an
 
 > **Pemberitahuan Penting:** Jika seseorang dalam sistem dukunganmu justru menjadi sumber stres utama, kamu berhak untuk menjaga jarak (*set boundaries*) dan memprioritaskan kesehatan mentalmu sendiri.
 
-### Kesimpulan
+### Tidak Menanggung Beban Sendirian
 
 Membangun sistem dukungan sosial adalah bentuk investasi jangka panjang untuk ketahanan (*resilience*) emosionalmu. Kita tidak diciptakan untuk menjadi pahlawan yang menanggung seluruh beban sendirian. Dengan membangun koneksi yang sehat, kita tidak hanya belajar cara bertahan dari stres, tetapi juga cara untuk tumbuh dan berkembang bersama orang lain.
 

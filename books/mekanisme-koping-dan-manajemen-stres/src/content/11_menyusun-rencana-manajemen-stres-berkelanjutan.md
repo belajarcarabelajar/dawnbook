@@ -101,7 +101,7 @@ Kamu dapat menggunakan format sederhana ini untuk mendokumentasikan strategi kam
 
 ---
 
-### Kesimpulan
+### Mengenal Diri Sendiri dengan Jujur
 
 Strategi pemulihan jangka panjang adalah tentang **mengenal diri sendiri dengan jujur**. Manajemen stres bukan tentang menghilangkan stres sama sekali (karena stres adalah bagian dari kehidupan), tetapi tentang memastikan bahwa kamu memiliki kapasitas yang cukup untuk menghadapinya.
 
