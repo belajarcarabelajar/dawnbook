@@ -8,7 +8,7 @@ Tapi ketika pertanyaan itu diajukan dalam studi ilmiah, jawabannya membuat banya
 
 Fenomena ini diuji jauh sebelum era media sosial. Tahun 1978, Philip Brickman, Dan Coates, dan Ronnie Janoff-Bulman menerbitkan studi klasik di jurnal *Journal of Personality and Social Psychology*. Mereka menelusuri pemenang lotere di Illinois, orang-orang yang membawa pulang hadiah antara 50.000 sampai 1.000.000 dolar, angka yang jauh melampaui gaji tahunan kebanyakan orang.
 
-Hasilnya mengejutkan. Dibandingkan kelompok kontrol berisi orang biasa, para pemenang tidak terbukti lebih bahagia secara signifikan. Lebih menarik lagi: mereka justru lebih sedikit menikmati hal-hal kecil sehari-hari. Berita menyenangkan, makan enak, atau waktu bersama teman terasa lebih hambar. Sensasi kecil yang dulu membuat senyum kini kalah bersaing dengan ingatan kemenangan besar itu.
+Hasilnya mengejutkan. Dibandingkan kelompok kontrol berisi orang biasa, para pemenang tidak terbukti lebih bahagia secara signifikan. Mereka juga lebih sedikit menikmati hal-hal kecil sehari-hari. Berita menyenangkan, makan enak, atau waktu bersama teman terasa lebih hambar. Sensasi kecil yang dulu membuat senyum kini kalah bersaing dengan ingatan kemenangan besar itu.
 
 Sisi lain studi ini juga penting. Para peneliti membandingkan para pemenang dengan korban kecelakaan yang lumpuh. Kelompok ini memang lebih tidak bahagia, tapi kejutannya: mereka menilai masa depannya di atas titik netral. Artinya, mekanisme adaptasi bekerja dua arah. Manusia tidak hanya segera membiasakan diri pada keberuntungan, tapi juga perlahan menemukan pijakan baru setelah musibah.
 
@@ -24,7 +24,7 @@ Inilah penjelasan kenapa keinginan sering terasa tanpa dasar. Bukan karena kamu 
 
 Sebelum kamu menyimpulkan hidup ini sia-sia, ada nuansa jujur dari riset modern. Adaptasi itu kuat, tapi tidak total. Studi awal tahun 1978 memang dramatis, tapi penelitian yang lebih baru menunjukkan beberapa peristiwa hidup meninggalkan jejak yang tidak sepenuhnya hilang. Ada pengalaman yang menggeser garis dasar emosi secara permanen, dan mengelak dari fakta itu sama saja berbohong pada diri sendiri.
 
-Untuk pendapatan, adaptasinya juga tidak 100 persen. Riset modern yang sudah kita bahas di bab 3 menunjukkan korelasi antara pendapatan dan kesejahteraan tetap ada. Uang tidak membuat semua perasaan terguling kembali ke titik awal; sebagian manfaatnya memang bertahan setelah sensasi pertama meredup. Jadi polanya bukan naik lalu lenyap, tapi naik tinggi, turun sebagian, lalu berhenti di garis yang lebih tinggi dari sebelumnya. Dua kesalahan di sini sama saja berbahaya: percaya uang membawa kebahagiaan abadi, atau percaya uang tidak berpengaruh sama sekali.
+Untuk pendapatan, adaptasinya juga tidak 100 persen. Riset modern yang sudah kita bahas di bab 3 menunjukkan korelasi antara pendapatan dan kesejahteraan tetap ada. Uang tidak membuat semua perasaan terguling kembali ke titik awal; sebagian manfaatnya memang bertahan setelah sensasi pertama meredup. Jadi polanya bukan naik lalu lenyap, tapi naik tinggi, turun sebagian, lalu berhenti di garis yang lebih tinggi dari sebelumnya. Dua kesalahan di sini sama berbahayanya: percaya uang membawa kebahagiaan abadi, atau percaya uang tidak berpengaruh sama sekali.
 
 ### Focusing illusion
 
@@ -40,17 +40,16 @@ Focusing illusion inilah penjelasan kenapa prediksi nanti kalau penghasilanku na
 
 Kalau adaptasi hedonis tidak bisa dimatikan, apa yang bisa kamu lakukan? Bukan melawan mesinnya, tapi membaca manualnya.
 
-Pertama, kembalikan ekspektasi ke posisi yang jujur. Nikmat baru memang akan mengendur, dan itu bukan kegagalan hidupmu, bukan tanda kurang bersyukur, dan bukan alasan panik mencari sensasi berikutnya sesegera mungkin. Mengetahui bahwa pelunakan itu normal membuatmu tidak tertipu olehnya.
+Pertama, kembalikan ekspektasi ke posisi yang jujur. Nikmat baru memang akan mengendur, dan itu bukan kegagalan hidupmu, bukan tanda kurang bersyukur, dan bukan alasan panik mencari sensasi berikutnya sesegera mungkin. Mengetahui bahwa pengenduran itu normal membuatmu tidak tertipu olehnya.
 
 Kedua, sambut bonus dengan jeda. Rasa senang karena gaji naik atau bonus cair itu nyata, tapi keputusan besar paling buruk diambil saat emosi di puncak. Beri jarak beberapa pekan sebelum mengunci komitmen yang besarnya mengikuti kenaikan itu.
 
-Ketiga, prioritaskan jenis pembelanjaan yang tahan adaptasi. Tidak semua belanja mengendur dengan kecepatan yang sama, dan sensasi sebagian kategori jauh lebih lambat pudar. Cara memilihnya kita bedah di dua bab berikutnya, karena sekalipun adaptasi nyata, cara membelanjakan uang tetap bisa dibuat cerdas.
+Ketiga, prioritaskan jenis pembelanjaan yang tahan adaptasi. Tidak semua belanja mengendur dengan kecepatan yang sama, dan sensasi sebagian kategori jauh lebih lambat pudar. Sekalipun adaptasi nyata, cara membelanjakan uang masih bisa dibuat cerdas.
 
-Satu catatan penutup. Selama ini kita membahas apa yang terjadi ketika uang bertambah lalu nikmatnya mengendur. Ada sisi sebaliknya yang sama pentingnya: apa yang terjadi ketika uang justru terlalu sedikit. Di sana adaptasi menemukan batasnya, dan yang disita bukan kenikmatan, tapi kapasitas pikirmu. Itulah bab berikutnya.
+Semua itu soal uang yang bertambah. Saat uang terlalu sedikit, yang disita bukan kenikmatan, melainkan kapasitas pikirmu.
 
 ## Intisari
 
-- Respons emosional terhadap keberuntungan bergeser dengan sendirinya. Nikmat yang dibeli uang selalu mengendur karena garis dasar emosi ikut naik, dan inilah hedonic treadmill yang membuat keinginan terasa tidak ada habisnya.
 - Studi klasik Brickman, Coates, dan Janoff-Bulman (1978) menemukan pemenang lotere Illinois tidak lebih bahagia dari kelompok kontrol dan justru lebih sedikit menikmati hal-hal kecil sehari-hari, bukti bahwa sensasi besar menenggelamkan sensasi harian.
-- Focusing illusion membuat prediksi kebahagiaan kita meleset: saat membayangkan hidup lebih kaya, pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tetap sama.
-- Koreksi satu mitos: adaptasi tidak berarti kembali ke titik nol. Ia kuat tapi tidak total, sebagian peristiwa meninggalkan jejak permanen, dan korelasi pendapatan dengan kesejahteraan tetap ada.
+- Focusing illusion membuat prediksi kebahagiaan kita meleset: saat membayangkan hidup lebih kaya, pikiran mengunci perhatian pada hal yang berubah dan mengabaikan jam-jam rutin yang tidak berubah.
+- Koreksi satu mitos: adaptasi tidak berarti kembali ke titik nol. Ia kuat tapi tidak total, sebagian peristiwa meninggalkan jejak permanen, dan korelasi pendapatan dengan kesejahteraan masih ada.

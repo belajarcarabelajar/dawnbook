@@ -1,6 +1,6 @@
 ## Bagaimana Ilmu Mengukur Kebahagiaan
 
-Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar otomatis? Jangan mikir lama, jawab dari perasaan. Angka itu muncul dalam hitungan detik, padahal pertanyaannya menyangkut hampir semua hal: pekerjaan, keluarga, kesehatan, mimpi yang belum tercapai, sampai kemacetan yang kamu lewati tiap pagi. Bagaimana satu angka bisa mewakili seluruh hidup seseorang?
+Kalau kamu diminta menilai hidupmu dari 0 sampai 10, angka berapa yang keluar otomatis? Jangan berpikir lama, jawab dari perasaan. Angka itu muncul dalam hitungan detik, padahal pertanyaannya menyangkut hampir semua hal: pekerjaan, keluarga, kesehatan, mimpi yang belum tercapai, sampai kemacetan yang kamu lewati tiap pagi. Bagaimana satu angka bisa mewakili seluruh hidup seseorang?
 
 Pertanyaan itulah yang menggantung di akhir bab sebelumnya, dan bab ini hadir untuk menjawabnya. Para peneliti memang serius mengukur kebahagiaan, tapi mereka tidak memperlakukannya sebagai satu benda padat. Mereka membedahnya menjadi beberapa lapis, lalu mengukur tiap lapis dengan alat yang berbeda. Memahami alat ukurnya itu penting, karena begitu masuk ke topik utama buku ini, uang, hampir semua perdebatan sengit lahir dari alat ukur yang tak sengaja dicampuradukkan.
 
@@ -34,22 +34,20 @@ Sebelum kamu bergumam, tahan dulu dua hal. Pertama, angka ini adalah rata-rata d
 
 ### Saat dua penggaris yang beda dipakai silang
 
-Di sinilah letak pentingnya bab ini. Banyak klaim populer soal "uang membuat bahagia" atau "uang tidak ada hubungannya dengan kebahagiaan" sebenarnya keliru bukan karena datanya salah, tapi karena membandingkan dua jenis ukuran yang berbeda: penilaian hidup secara keseluruhan di satu sisi, dan perasaan harian di sisi lain. Keduanya sah, keduanya ilmiah, tapi keduanya menjawab pertanyaan yang tidak sama.
+Pembedaan ini penting karena banyak klaim populer soal "uang membuat bahagia" atau "uang tidak ada hubungannya dengan kebahagiaan" sebenarnya keliru bukan karena datanya salah, tapi karena membandingkan dua jenis ukuran yang berbeda: penilaian hidup secara keseluruhan di satu sisi, dan perasaan harian di sisi lain. Keduanya sah, keduanya ilmiah, tapi keduanya menjawab pertanyaan yang tidak sama.
 
-Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu bertabur mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab empat.
+Membeli rumah mungkin menaikkan penilaianmu atas hidup bertahun-tahun kemudian, sementara perasaan harianmu di rumah itu bertabur mencuci piring dan macet pulang kerja. Kalau riset mengukur yang pertama, lalu klaim lahir untuk yang kedua, hasilnya terdengar kontradiktif padahal tidak. Kekeliruan semacam inilah yang akan sering kita temui saat membedah bukti korelasi uang dan kesejahteraan di bab 3.
 
-Ada juga jebakan psikologis yang menipu imajinasi kita. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrian, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
+Ada juga jebakan psikologis yang menipu imajinasi kita. Pada 2006, Daniel Kahneman bersama timnya memperkenalkan istilah **focusing illusion**. Ketika membayangkan hidup yang lebih kaya, perhatianmu terkunci pada hal-hal yang akan berubah: rumah lebih nyaman, liburan lebih jauh, tagihan tak lagi bikin deg-degan. Padahal hidup juga tersusun dari rutinitas yang tak berubah walau rekeningmu membesar: perjalanan ke kantor, jam kerja, antrean, dan malam-malam biasa yang menempati porsi jam terbanyak. Karena hal yang berubah itulah yang di tengah sorotan, manfaat uang terasa lebih besar daripada yang nanti benar-benar dirasakan.
 
-> Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrian kamar mandi panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
+> Ibaratnya melihat foto liburan teman di pantai. Kamu hanya melihat laut biru dan senja yang sempurna, tidak melihat empat jam menunggu di bandara dan antrean kamar mandi yang panjang. Perhatianmu menangkap yang menonjol, lalu kesimpulan terbentuk dari apa yang tersorot, bukan dari keseluruhan kenyataan.
 
-Focusing illusion ini baru pembuka, kita akan bedah lebih dalam di bab ketujuh. Untuk sekarang cukup satu pesan: cara mengukur menentukan apa yang kamu lihat, dan apa yang kamu lihat menentukan kesimpulan yang kamu tarik.
+Focusing illusion ini baru pembuka, kita akan bedah lebih dalam di bab 7. Untuk sekarang cukup satu pesan: cara mengukur menentukan apa yang kamu lihat, dan apa yang kamu lihat menentukan kesimpulan yang kamu tarik.
 
 ## Inti Pembahasan
 
-- Kebahagiaan dalam riset disebut **subjective well-being** dan memang bisa diukur dengan alat teruji, bukan sekadar asal bertanya.
-- Menurut kerangka Ed Diener, ia punya dua komponen yang berbeda: kepuasan hidup sebagai penilaian kognitif atas hidup secara keseluruhan, dan keseimbangan emosi positif-negatif sebagai pengalaman afektif harian.
-- Tiga alat utamanya: tangga Cantril untuk penilaian hidup, pertanyaan emosi kemarin untuk perasaan harian, dan experience sampling untuk pencatatan real-time lewat aplikasi.
-- Data World Happiness Report 2025 menempatkan Finlandia di puncak dengan skor sekitar 7,8 dan Indonesia di peringkat 83 dengan skor sekitar 5,4, angka yang perlu dibaca sebagai gambaran besar berbasis tangga Cantril.
+- Kebahagiaan dalam riset disebut **subjective well-being**, dan kerangka Ed Diener membaginya menjadi dua komponen: kepuasan hidup sebagai penilaian kognitif atas hidup secara keseluruhan, dan keseimbangan emosi positif-negatif sebagai pengalaman afektif harian.
+- Tangga Cantril menangkap penilaian hidup, sedangkan pertanyaan emosi kemarin dan experience sampling menangkap perasaan harian; skor World Happiness Report 2025 berbasis tangga Cantril dan perlu dibaca sebagai gambaran besar.
 - Banyak perdebatan "uang versus kebahagiaan" memanas karena dua jenis ukuran yang berbeda dicampuradukkan, sementara focusing illusion dari Kahneman dkk. (2006) menjelaskan kenapa manfaat uang mudah dilebih-lebihkan saat kita membayangkannya.
 
-Sekarang alat ukurnya sudah ada di tangan kamu. Di bab berikutnya, alat-alat ini akhirnya dipakai sungguhan: kita akan menatap bukti-bukti riset dari berbagai negara dan mencari tahu, seberapa besar sebenarnya pengaruh uang terhadap kesejahteraan, dan di titik mana pengaruh itu mulai melandai.
+Sekarang alat ukurnya sudah ada di tangan kamu. Saatnya memakainya sungguhan untuk menakar seberapa besar sebenarnya pengaruh uang terhadap kesejahteraan, dan di titik mana pengaruh itu mulai melandai.

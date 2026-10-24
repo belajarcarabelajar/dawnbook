@@ -1,8 +1,8 @@
 ## Materialisme
 
-Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi perhatikan juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
+Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi lihat juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
 
-Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir yang dijanjikan sejak akhir bab sebelumnya: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
+Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
 
 ### Mimpi yang punya sisi gelap
 
@@ -16,7 +16,7 @@ Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan R
 
 ### Keinginan yang selalu kurang dan yang cukup
 
-Kasser dan Ryan memberi kerangka yang menjelaskan kenapa ini terjadi. Ada dua jenis tujuan hidup. Pertama, tujuan ekstrinsik: uang, ketenaran, dan citra. Cirinya satu, nilainya ditentukan oleh penilaian orang lain. Gajimu bermakna karena bisa dibandingkan, ketenaramu ada karena ada yang melirik, citramu hidup karena ada yang menilai. Karena hakimnya berada di luar dirimu, kepuasan dari tujuan jenis ini tidak pernah tuntas. Selalu ada yang lebih kaya, lebih terkenal, lebih tampak sukses. Kepuasan itu terus mundur seperti garis finis yang kita kenal sejak bab pertama.
+Kasser dan Ryan memberi kerangka yang menjelaskan kenapa ini terjadi. Ada dua jenis tujuan hidup. Pertama, tujuan ekstrinsik: uang, ketenaran, dan citra. Cirinya satu, nilainya ditentukan oleh penilaian orang lain. Gajimu bermakna karena bisa dibandingkan, ketenaranmu ada karena ada yang melirik, citramu hidup karena ada yang menilai. Karena hakimnya berada di luar dirimu, kepuasan dari tujuan jenis ini tidak pernah tuntas. Selalu ada yang lebih kaya, lebih terkenal, lebih tampak sukses. Kepuasan itu terus mundur seperti garis finis yang kita kenal sejak bab pertama.
 
 Kedua, tujuan intrinsik: relasi yang hangat, pertumbuhan diri, dan rasa bermanfaat. Tujuan jenis ini memuaskan dari dalam. Ia bekerja seperti makan saat lapar. Nasi hangat di tengah hari yang sibuk terasa benar-benar mengenyangkan, dan pada titik tertentu tubuhmu sendiri bilang cukup. Tidak ada tetangga yang bisa menambah rasa kenyangmu.
 
@@ -32,7 +32,7 @@ Garis pembedanya bukan banyak atau sedikit, melainkan posisi. Uang sebagai alat 
 
 ### Dua kaki yang menjaga keseimbangan
 
-Lalu seperti apa kesehatan finansial yang sehat menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
+Lalu seperti apa kesehatan finansial menurut riset? Para peneliti kesejahteraan finansial sering merangkumnya dengan dua kaki. Kaki pertama, rasa kendali atas keuangan hari ini: kamu tahu ke mana uangmu pergi dan merasa mampu mengatur jalannya. Kaki kedua, rasa aman untuk masa depan: kamu tidak gelisah membayangkan kebutuhan yang akan datang. Dengan dua kaki itu, kamu bisa menutup bulan tanpa tegang dan menatap tahun tanpa deg-degan.
 
 Anggap saja dua kaki ini sebagai bingkai seluruh perjalanan buku ini:
 

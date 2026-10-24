@@ -1,6 +1,6 @@
 ## Uang Itu Relatif
 
-Gaji kamu naik cukup besar tahun ini. Kamu menghitung-ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
+Gaji kamu naik cukup besar tahun ini. Kamu menghitung ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
 
 Lalu sebuah kabar kecil datang dari obrolan santai di teras: tetangga sebelah ternyata mendapat kenaikan yang lebih besar lagi. Angkamu tidak berkurang satu rupiah pun, tapi begitu mendengar itu, rasa senang yang tadi menguap begitu saja, tinggal sisa yang sulit dijelaskan: kenapa dia bisa lebih?
 
@@ -18,11 +18,11 @@ Paling menggigit: kenaikan penghasilan tetangga sekitar 10 persen diperkirakan m
 
 ### Perbandingan bukan penyakit moral
 
-Sebelum kamu menyimpulkan dirimu irihahan dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
+Sebelum kamu menyimpulkan dirimu iri hati dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
 
 Masalahnya, alat yang dirancang untuk mengukur satu gang kini dipaksa mengukur seluruh planet.
 
-Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluarga besar. Jumlahnya terbatas dan kamu melihat hidup mereka apa adanya, termasuk bagian berantakannya. Sekarang, aliran media sosial menampilkan versi paling mengkilap dari ribuan hidup sekaligus: liburan terbaik, rumah baru, promosi jabatan, semua dikompres dalam satu guliran tanpa babak gagalnya.
+Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluarga besar. Jumlahnya terbatas dan kamu melihat hidup mereka apa adanya, termasuk bagian berantakannya. Sekarang, aliran media sosial menampilkan versi paling mengilap dari ribuan hidup sekaligus: liburan terbaik, rumah baru, promosi jabatan, semua dikompres dalam satu guliran tanpa babak gagalnya.
 
 Permainan lamanya sama, arena barunya tidak berpinggir: alatnya masih otak zaman batu.
 
@@ -60,11 +60,8 @@ Ketiga pilihan ini tidak mengubah gajimu, tapi mengubah pembacaan atas gaji itu.
 
 ## Yang Perlu Kamu Ingat
 
-- Uang itu relatif: otak menilai penghasilan bukan sebagai angka yang berdiri sendiri, tapi dibaca bersama angka orang-orang di sekelilingmu.
-- Tetangga adalah bagian dari matematika kebahagiaan. Studi Luttmer (2005) menemukan orang yang tetangganya lebih kaya melaporkan kepuasan lebih rendah pada pendapatan yang sama, dan kenaikan penghasilan tetangga 10 persen merugikan kesejahteraan kira-kira sebesar turunnya penghasilan sendiri dengan tingkat serupa.
-- Perbandingan bukan penyakit moral, tapi mesin bawaan otak. Yang berubah di zaman ini adalah skalanya: pembanding yang dulu selesai di satu gang kini menumpuk menjadi ribuan versi mengkilap dalam satu guliran.
-- Sebagian nilai uang bersifat posisi. Rumah, sekolah anak, dan mobil sebagian nilainya datang dari posisinya di papan skor, dan pertumbuhan yang mengangkat semua orang bersamaan tidak menggeser posisi siapa pun. Ini salah satu penjelasan di balik paradoks Easterlin.
-- Kepuasan sering mengikuti peringkat, bukan angka. Orang kerap memilih pendapatan lebih rendah dengan posisi lebih tinggi, dan itu masuk akal kalau kepuasan dibayar dengan posisi.
-- Kontrol atas pembanding adalah keterampilan, bukan bakat. Kurangi paparan pemicu, pilih pembanding yang sehat, dan jadikan garis waktu dirimu sendiri tolok ukur utama.
+- Uang itu relatif: otak membaca penghasilanmu bersama angka orang-orang di sekelilingmu. Dalam studi Luttmer (2005), kenaikan penghasilan tetangga sekitar 10 persen diperkirakan merugikan kesejahteraan kira-kira sebesar turunnya penghasilan sendiri dengan tingkat serupa.
+- Sebagian nilai uang bersifat posisi, sehingga pertumbuhan yang mengangkat semua orang bersamaan tidak menggeser posisi relatif, salah satu penjelasan di balik paradoks Easterlin.
+- Perbandingan bukan penyakit moral, tapi mesin bawaan otak. Kamu bisa mengelolanya dengan mengurangi paparan pemicu, memilih pembanding yang sehat, dan menjadikan garis waktu dirimu sendiri tolok ukur utama.
 
-Sekarang kamu tahu satu sumber rasa kurang yang datang dari luar dirimu. Tapi ada mekanisme lain yang bekerja dari dalam: apa pun yang berhasil kamu beli, perasaan bahagianya akan memudar dengan sendirinya, lalu kamu mulai mengejar yang berikutnya. Bab berikutnya membahas mesin itu: adaptasi hedonis.
+Sekarang kamu tahu satu sumber rasa kurang yang datang dari luar dirimu. Ada pula mekanisme yang bekerja dari dalam: sebagian besar yang berhasil kamu beli, perasaan bahagianya akan memudar dengan sendirinya, lalu kamu mulai mengejar yang berikutnya.
