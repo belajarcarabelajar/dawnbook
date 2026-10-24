@@ -90,9 +90,9 @@ Jika seorang calon guru mendapatkan total skor 15 dari maksimal 20: $\text{Nilai
 Menjadi pengamat bukan berarti menjadi kritikus yang kejam, namun juga bukan berarti menjadi teman yang "terlalu baik" sehingga menyembunyikan kelemahan.
 
 - **Fokus pada Indikator:** Jangan menilai kepribadian, nilailah perilaku mengajar yang tampak.
-- **Catat Waktu:** Menghubungkan kejadian dengan durasi (misal: "Guru berbicara sendiri selama 5 menit tanpa interaksi") sangat efektif untuk refleksi.
+- **Catat Waktu:** Menghubungkan kejadian dengan durasi (misal: "Guru berbicara sendiri selama 5 menit tanpa interaksi") efektif untuk refleksi.
 - **Hindari "Halo Effect":** Jangan memberikan nilai tinggi pada semua aspek hanya karena guru tersebut sangat menguasai materi, padahal manajemen kelasnya buruk.
 
-> **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat adalah hadiah terbaik yang bisa kamu berikan kepada rekan sejawat kamu untuk membantu mereka menjadi pendidik yang luar biasa.
+> **Pesan Penting:** Instrumen observasi adalah alat bantu pertumbuhan. Data yang jujur dan akurat membantu rekan sejawat kamu menjadi pendidik yang lebih baik.
 
 *Langkah selanjutnya setelah data observasi ini terkumpul adalah menggunakannya sebagai bahan utama dalam **Analisis Refleksi Berbasis Video**, di mana praktikan akan mencocokkan catatan pengamat dengan rekaman visual dirinya sendiri.*

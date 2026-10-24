@@ -1,8 +1,8 @@
 ## Evaluasi Akhir dan Portofolio Mengajar
 
-Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah fase kritis di mana kita menyatukan semua kepingan pengalaman menjadi sebuah narasi perkembangan profesional yang utuh.
+Selamat! Kamu telah melewati berbagai siklus latihan, mulai dari kegugupan di simulasi pertama hingga keberhasilan di tahap *re-teaching*. Namun, perjalanan microteaching tidak berhenti saat kamu meletakkan kapur atau mematikan proyektor. Tahap ini adalah tahap penting untuk merangkum seluruh pengalaman latihan menjadi gambaran perkembangan profesional kamu.
 
-**Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses kristalisasi pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti otentik bahwa kamu telah bertransformasi dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
+**Evaluasi Akhir** bukan sekadar nilai angka, melainkan proses merangkum pengalaman. Sementara itu, **Portofolio Mengajar** adalah bukti bahwa kamu telah berkembang dari seseorang yang memahami teori menjadi pendidik yang mampu mengeksekusi keterampilan di lapangan.
 
 ## 1. Filosofi Evaluasi Akhir dalam Microteaching
 
@@ -12,7 +12,7 @@ Analogi yang tepat adalah seorang atlet lari. Evaluasi akhir bukan hanya tentang
 
 ### Metrik Keberhasilan Pedagogik
 
-Keberhasilan dalam fase ini diukur menggunakan formula sederhana namun mendalam:
+Keberhasilan dalam fase ini diukur menggunakan formula sederhana berikut:
 
 $$
 \text{Kompetensi} = (\text{Pengetahuan} \times \text{Keterampilan}) + \text{Refleksi}
@@ -22,7 +22,7 @@ Tanpa refleksi, pengalaman hanya akan menjadi rutinitas tanpa makna. Evaluasi ak
 
 ## 2. Menyusun Portofolio Mengajar (Teaching Portfolio)
 
-Portofolio adalah "museum pribadi" dari perjalanan profesional kamu. Ini adalah kumpulan dokumen sistematis yang menunjukkan kemampuan, kemajuan, dan pencapaian kamu dalam mengajar.
+Portofolio adalah arsip pribadi dari perjalanan profesional kamu. Ini adalah kumpulan dokumen sistematis yang menunjukkan kemampuan, kemajuan, dan pencapaian kamu dalam mengajar.
 
 ### Komponen Utama Portofolio
 
@@ -91,6 +91,6 @@ Sebagai penutup dari seluruh rangkaian Microteaching, kamu wajib menyusun **Renc
 
 ## Melihat ke Belakang agar Melaju ke Depan
 
-Evaluasi Akhir dan Portofolio Mengajar adalah momen di mana kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah fondasi dari identitas kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang membangun monumen kompetensi yang akan terus berkembang sepanjang hayat.
+Evaluasi Akhir dan Portofolio Mengajar adalah momen di mana kamu berhenti sejenak untuk melihat ke belakang, agar kamu bisa berlari lebih cepat ke depan. Microteaching bukan sekadar simulasi singkat; ia adalah bekal awal kamu sebagai guru profesional. Dengan mendokumentasikan setiap prosesnya, kamu sedang menyusun catatan kompetensi yang bisa terus kamu kembangkan.
 
 > "Mengajar adalah belajar dua kali. Dan mendokumentasikan proses belajar tersebut adalah cara terbaik untuk memastikan kita tidak pernah berhenti bertumbuh."

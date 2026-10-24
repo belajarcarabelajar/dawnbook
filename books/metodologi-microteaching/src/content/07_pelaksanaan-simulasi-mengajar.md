@@ -2,11 +2,11 @@
 
 Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya adalah tentang persiapan dan perencanaan, maka bagian ini adalah tentang **eksekusi**. Di sinilah teori bertemu dengan praktik.
 
-Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu menghargai setiap detik yang berlalu.
+Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
 
 ## 1. Kendali Suara
 
-Suara adalah alat musik utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi sangat krusial.
+Suara adalah alat kerja utama seorang guru. Dalam microteaching, di mana ruangan mungkin lebih kecil dari kelas biasanya, pengaturan suara menjadi penting.
 
 ### A. Volume dan Proyeksi
 
@@ -16,7 +16,7 @@ Volume bukan berarti berteriak. Proyeksi adalah kemampuan mengirimkan suara ke b
 
 ### B. Intonasi dan Variasi (The Melody)
 
-Suara yang datar (monoton) adalah "obat tidur" terbaik bagi siswa. Gunakan variasi nada untuk:
+Suara yang datar (monoton) membuat siswa mengantuk. Gunakan variasi nada untuk:
 
 - **Menekankan poin penting:** Rendahkan nada suara atau beri penekanan pada kata kunci.
 - **Membangkitkan antusiasme:** Gunakan nada yang lebih tinggi dan ceria saat memberikan apresiasi.
@@ -28,7 +28,7 @@ Banyak calon guru berbicara terlalu cepat karena gugup.
 - **Artikulasi:** Pastikan setiap suku kata terdengar jelas.
 - **The Power of Pause:** Jangan takut akan keheningan. Berikan jeda 2-3 detik setelah mengajukan pertanyaan atau setelah menyampaikan konsep yang berat agar siswa memiliki waktu untuk mencerna.
 
-> "Suara yang dikelola dengan baik dapat mengubah informasi yang membosankan menjadi petualangan yang menarik."
+> "Suara yang dikelola dengan baik dapat membuat informasi yang membosankan lebih menarik untuk didengar."
 
 ## 2. Bahasa Tubuh
 
@@ -97,6 +97,6 @@ Wajar jika kamu merasa gugup saat simulasi, apalagi jika diobservasi oleh rekan 
 | **Waktu** | Apakah saya memulai dan mengakhiri tepat waktu sesuai RPP Mikro? |
 | **Alat Bantu** | Apakah saya menggunakan media (spidol/LCD) dengan efisien tanpa membelakangi siswa terlalu lama? |
 
-> **Insight Penting:** Dalam simulasi mengajar, kualitas interaksi jauh lebih penting daripada kuantitas materi. Lebih baik menjelaskan satu konsep dengan sangat jelas dan penuh energi daripada menjelaskan sepuluh konsep secara terburu-buru dan membosankan.
+> **Insight Penting:** Dalam simulasi mengajar, kualitas interaksi jauh lebih penting daripada kuantitas materi. Lebih baik menjelaskan satu konsep dengan jelas dan penuh energi daripada menjelaskan sepuluh konsep secara terburu-buru dan membosankan.
 
 *Setelah sesi ini berakhir, kamu akan melangkah ke tahap berikutnya yaitu merekam aksi kamu untuk dianalisis. Pastikan eksekusi kamu hari ini memberikan bahan refleksi yang kaya bagi perkembangan profesional kamu.*

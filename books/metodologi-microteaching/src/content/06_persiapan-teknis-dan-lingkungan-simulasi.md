@@ -6,7 +6,7 @@ Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa ters
 
 ### 1. Arsitektur Ruang Mikro
 
-Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan keintiman namun tetap mempertahankan struktur kelas formal.
+Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan kedekatan namun tetap mempertahankan struktur kelas formal.
 
 **Pilihan Tata Letak Kursi:**
 
@@ -69,7 +69,7 @@ Sebelum kamu berteriak "Action!" atau mulai mengajar, gunakan daftar periksa ber
 
 Persiapan teknis *microteaching* mirip dengan **"Mise en Place"** dalam dunia kuliner profesional. Sebelum kompor dinyalakan, koki sudah memotong bawang, menyiapkan bumbu dalam wadah kecil, dan menajamkan pisau.
 
-Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu pula dalam mengajar: jika kamu baru mencari spidol atau memperbaiki kabel HDMI saat waktu simulasi berjalan, "makanan" (materi pelajaran) kamu tidak akan tersaji dengan sempurna kepada siswa.
+Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu pula dalam mengajar: jika kamu baru mencari spidol atau memperbaiki kabel HDMI saat waktu simulasi berjalan, "makanan" (materi pelajaran) kamu tidak akan tersaji dengan baik kepada siswa.
 
 ### Menyiapkan Simulasi Hukum Newton
 
@@ -80,4 +80,4 @@ Jika koki baru memotong bawang saat api sudah panas, masakan akan gosong. Begitu
 3. **Persiapan Siswa:** kamu membisiki salah satu siswa: *"Nanti saat saya tanya kenapa kelereng berhenti, tolong jawab karena permukaannya kasar ya."* Ini memastikan alur logika pembelajaran tetap terjaga dalam waktu yang singkat.
 4. **Eksekusi:** Karena semua sudah siap, kamu memulai dengan percaya diri tanpa terganggu oleh hal-hal teknis yang sepele.
 
-> **Insight:** Kegagalan dalam persiapan teknis seringkali dianggap sebagai kegagalan kompetensi mengajar oleh pengamat, padahal itu hanyalah masalah manajemen logistik. **Kuasai lingkungan kamu, maka kamu akan menguasai kelas kamu.**
+> **Insight:** Kegagalan dalam persiapan teknis seringkali dianggap sebagai kegagalan kompetensi mengajar oleh pengamat, padahal itu hanyalah masalah manajemen logistik. **Siapkan lingkungan kamu agar kelas lebih mudah dikelola.**

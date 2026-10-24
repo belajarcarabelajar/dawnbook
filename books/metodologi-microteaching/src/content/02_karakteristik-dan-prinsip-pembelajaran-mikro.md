@@ -1,6 +1,6 @@
 ## Karakteristik dan Prinsip Pembelajaran Mikro
 
-Selamat datang di inti dari metodologi *microteaching*! Jika pada bagian sebelumnya kita telah memahami filosofi dan sejarahnya, sekarang kita akan membedah "mesin" di balik pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
+Selamat datang di inti dari metodologi *microteaching*! Jika pada bagian sebelumnya kita telah memahami filosofi dan sejarahnya, sekarang kita akan melihat cara kerja pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
 
 Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersial dengan 300 penumpang melintasi samudera, ia harus menghabiskan ratusan jam di dalam sebuah **Flight Simulator**. Di sana, variabel cuaca, kontrol mesin, dan navigasi bisa diatur dan disederhanakan.
 
@@ -26,7 +26,7 @@ Jika jam pelajaran sekolah biasanya berlangsung 40-90 menit, pembelajaran mikro 
 
 #### C. Fokus pada Satu Keterampilan Spesifik
 
-Ini adalah karakteristik yang paling krusial. Dalam mengajar normal, kamu melakukan puluhan keterampilan secara bersamaan (membuka, menjelaskan, bertanya, mengelola kelas, menutup). Di kelas mikro, kamu hanya fokus pada **satu atau dua keterampilan spesifik**.
+Ini adalah karakteristik yang paling penting. Dalam mengajar normal, kamu melakukan puluhan keterampilan secara bersamaan (membuka, menjelaskan, bertanya, mengelola kelas, menutup). Di kelas mikro, kamu hanya fokus pada **satu atau dua keterampilan spesifik**.
 
 - **Contoh:** Jika hari ini jadwal kamu melatih "Keterampilan Bertanya", maka fokus penilaian dan perhatian kamu hanya pada teknik bertanya, meskipun kamu tetap menyampaikan materi pelajaran.
 - **Tujuan:** Mencapai penguasaan (*mastery*) pada setiap komponen mengajar secara bertahap dan mendalam.
@@ -67,7 +67,7 @@ Mari kita lihat bagaimana karakteristik ini diterapkan dalam sebuah skenario nya
 		- **Waktu:** 12 menit.
 		- **Target:** Sarah ingin melatih "Variasi Stimulus" (mengubah nada suara, berpindah posisi di kelas, dan menggunakan media visual secara bergantian).
 - **Proses:** Selama 12 menit, Sarah tidak terlalu mengkhawatirkan apakah seluruh materi fotosintesis selesai dibahas secara mendalam. Fokus utamanya adalah memastikan ia tidak berdiri mematung di depan kelas dan suaranya tidak monoton.
-- **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, namun nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang sangat spesifik dan berguna.
+- **Hasil:** Setelah 12 menit, rekan-rekannya memberikan catatan: *"Sarah sudah berpindah posisi dengan baik, namun nada suaranya di menit ke-8 mulai datar saat menjelaskan klorofil."* Inilah umpan balik yang spesifik dan berguna.
 
 ### 5. Mengapa Penyederhanaan Itu Efektif?
 
@@ -81,4 +81,4 @@ Jika $\text{Kompleksitas Variabel}$ terlalu tinggi (30 siswa, 90 menit, semua ke
 
 *Simulasi Komparatif:* *Saat mengasah kemampuan berbicara di depan umum, manakah metode yang lebih efektif: Berpidato langsung di hadapan 1.000 pendengar selama satu jam, atau berlatih di depan 5 rekan sejawat selama 5 menit secara berulang dengan fokus khusus pada kontak mata?*
 
-**Kesimpulan:** Karakteristik utama pembelajaran mikro adalah **penyederhanaan**. Dengan membatasi jumlah siswa, durasi waktu, dan fokus keterampilan, kita menciptakan laboratorium yang terkontrol untuk mengasah kompetensi pedagogik secara presisi. Sebelum kamu melangkah ke bagian "Keterampilan Dasar Mengajar", pastikan kamu telah merangkul konsep penyederhanaan ini sebagai kekuatan, bukan kekurangan.
+**Kesimpulan:** Karakteristik utama pembelajaran mikro adalah **penyederhanaan**. Dengan membatasi jumlah siswa, durasi waktu, dan fokus keterampilan, kita menciptakan laboratorium yang terkontrol untuk mengasah kompetensi pedagogik. Sebelum kamu melangkah ke bagian "Keterampilan Dasar Mengajar", pastikan kamu telah merangkul konsep penyederhanaan ini sebagai kekuatan, bukan kekurangan.

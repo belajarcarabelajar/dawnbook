@@ -63,7 +63,7 @@ Berikut adalah ilustrasi bagaimana sebuah revisi dilakukan dalam struktur RPP Mi
 
 ## Mengasah Pisau
 
-Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut akan tetap tumpul selamanya.
+Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari bahwa pisau tersebut tumpul (refleksi). Kamu melihat ada bagian yang berkarat (umpan balik). **Re-teaching** adalah tindakan menggesekkan kembali pisau tersebut ke batu asah dengan sudut yang lebih tepat. Tanpa gesekan kedua yang diperbaiki, pisau tersebut tetap tumpul.
 
 ## Re-teaching Materi Sumpah Pemuda
 
@@ -83,6 +83,6 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 
 **Penting:**
 
-> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kemewahan laboratorium di mana kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
+> Jangan menganggap re-teaching sebagai hukuman karena gagal di sesi pertama. Sebaliknya, anggaplah ini sebagai kesempatan berlatih di laboratorium, tempat kamu diizinkan untuk "salah" agar bisa menjadi "benar" di kelas yang sesungguhnya nanti.
 
 *Refleksi untuk kamu:* *Setelah menerima umpan balik yang tajam, apakah kamu merasa defensif atau justru merasa terbantu? Bagaimana perasaan tersebut memengaruhi kualitas revisi RPP yang kamu buat?*

@@ -1,18 +1,18 @@
 ## Pemanfaatan Teknologi Rekaman Video
 
-Pernahkah kamu merasa sudah mengajar dengan sangat maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
+Pernahkah kamu merasa sudah mengajar dengan maksimal, namun saat menerima umpan balik, ada hal-hal yang sama sekali tidak kamu sadari? Mungkin kamu terlalu sering membelakangi siswa saat menulis di papan tulis, atau mungkin ada kata "oke" yang terus berulang sebagai *filler word*.
 
-Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang paling jujur. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
+Di sinilah peran **Teknologi Rekaman Video** masuk. Dalam metodologi microteaching, video bukan sekadar dokumentasi administratif, melainkan instrumen observasi yang merekam apa adanya. Video menangkap detail yang terlewat oleh mata manusia dan memungkinkan kita untuk "keluar dari diri sendiri" guna melihat performa kita secara objektif.
 
 ## 1. Urgensi Rekaman Video dalam Microteaching
 
 Video berfungsi sebagai jembatan antara **persepsi** (apa yang kita rasa kita lakukan) dan **realitas** (apa yang sebenarnya terjadi).
 
-- **Objektivitas Mutlak:** Berbeda dengan ingatan manusia yang subjektif, video merekam fakta.
+- **Objektivitas:** Berbeda dengan ingatan manusia yang subjektif, video merekam fakta.
 - **Analisis Berulang:** kamu dapat memutar ulang bagian tertentu (misalnya, saat memberikan penguatan/reinforcement) untuk menganalisis reaksi siswa secara mendalam.
 - **Bukti Kinerja (Portofolio):** Rekaman menjadi aset digital yang membuktikan progres keterampilan mengajar kamu dari waktu ke waktu.
 
-> "Video adalah cermin yang tidak hanya memantulkan wajah, tapi juga memantulkan metodologi dan energi seorang guru di dalam kelas."
+> "Video adalah cermin yang memperlihatkan wajah sekaligus cara mengajar seorang guru di dalam kelas."
 
 ## 2. Aspek Teknis Pengambilan Video
 
