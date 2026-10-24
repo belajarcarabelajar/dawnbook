@@ -1,6 +1,6 @@
 ## Efek Aspect Ratio pada Efisiensi Bahan Bakar
 
-Pernahkah teramati perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*) yang sangat panjang dan ramping? Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki bentang sayap tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
+Pernahkah kamu melihat perbedaan mencolok antara sayap pesawat jet tempur yang pendek dan kokoh dengan sayap pesawat layang (*glider*)? Sayap pesawat layang sangat panjang dan ramping. Fenomena serupa juga terlihat pada pesawat komersial modern seperti Boeing 787 Dreamliner yang memiliki bentang sayap tampak lebih lentur dan panjang dibandingkan pesawat generasi sebelumnya.
 
 Perbedaan tersebut bukan sekadar aspek estetika, melainkan manifestasi dari salah satu parameter paling krusial dalam desain aerodinamika pesawat: *Aspect Ratio* ($\text{AR}$). Rasio dimensi sayap ini menjadi faktor penentu dalam meminimalkan gaya hambat (*drag*) dan menghemat konsumsi bahan bakar dalam jumlah masif setiap tahunnya.
 

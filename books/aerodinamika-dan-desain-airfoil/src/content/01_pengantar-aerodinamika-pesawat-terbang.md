@@ -1,6 +1,6 @@
 ## Pengantar Aerodinamika Pesawat Terbang
 
-Pernahkah terbayang saat berdiri di samping Boeing 747 atau Airbus A380 rasa takjub bagaimana benda seberat ratusan ton tersebut bisa terangkat ke angkasa seolah-olah seringan kapas? Jawabannya tidak terletak pada sihir, melainkan pada interaksi harmonis antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
+Pernahkah kamu membayangkan berdiri di samping Boeing 747 atau Airbus A380, lalu takjub melihat benda seberat ratusan ton itu terangkat ke angkasa? Ia naik seolah-olah seringan kapas. Jawabannya tidak terletak pada sihir, melainkan pada interaksi harmonis antara molekul udara dan permukaan benda yang melewatinya. Itulah inti dari **Aerodinamika**.
 
 Secara etimologi, Aerodinamika berasal dari kata Yunani *Aero* (udara) dan *Dynamics* (kekuatan atau perubahan). Bidang ini merupakan studi tentang bagaimana gas (khususnya udara) berinteraksi dengan benda padat yang bergerak melaluinya.
 
