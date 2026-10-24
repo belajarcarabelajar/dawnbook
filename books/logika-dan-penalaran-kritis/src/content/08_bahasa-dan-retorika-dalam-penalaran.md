@@ -1,6 +1,6 @@
 ## Bahasa dan Retorika dalam Penalaran
 
-Pernahkah kamu merasa sangat setuju dengan sebuah pidato atau tulisan, namun saat mencoba merangkum argumennya secara logis, kamu menyadari bahwa isinya sebenarnya kosong? Atau mungkin kamu merasa tidak nyaman dengan sebuah berita, meskipun data yang disajikan tampak benar?
+Pernahkah kamu merasa sangat setuju dengan sebuah pidato atau tulisan, lalu menyadari isinya kosong saat mencoba merangkum argumennya secara logis? Atau mungkin kamu merasa tidak nyaman dengan sebuah berita, meskipun data yang disajikan tampak benar?
 
 Itulah kekuatan **bahasa dan retorika**. Dalam penalaran kritis, bahasa bukan sekadar alat komunikasi yang netral. Bahasa adalah lensa yang bisa memperjelas kebenaran atau justru mengaburkannya dengan kabut emosi dan manipulasi.
 

@@ -1,6 +1,6 @@
 ## Logika Deduktif vs Induktif
 
-Pernahkah kamu bertanya-tanya mengapa Sherlock Holmes sering berkata, *"Setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran"*? Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
+Kata Sherlock Holmes, setelah kamu menyingkirkan hal-hal yang mustahil, apa pun yang tersisa, betapapun tidak mungkinnya, pastilah kebenaran. Pernahkah kamu bertanya-tanya mengapa ia sering berkata begitu? Kalimat ini adalah intisari dari penalaran logika. Namun, dalam kehidupan sehari-hari, kita tidak selalu berurusan dengan kepastian mutlak; sering kali kita berhadapan dengan kemungkinan.
 
 Di sinilah peran penting memahami perbedaan antara **Logika Deduktif** dan **Logika Induktif**. Memahami keduanya adalah kunci untuk membangun argumen yang kokoh dan membuat keputusan yang tepat.
 
