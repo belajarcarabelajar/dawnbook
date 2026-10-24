@@ -1,6 +1,6 @@
 ## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
-Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura, yang memiliki sumber daya alam sangat terbatas, mampu bertransformasi dari negara berpendapatan rendah menjadi raksasa ekonomi dunia dalam hitungan dekade? Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
+Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura bisa menjadi raksasa ekonomi dunia dalam hitungan dekade? Keduanya berangkat dari status negara berpendapatan rendah dengan sumber daya alam yang sangat terbatas. Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
 
 Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebagai **Human Capital**) merupakan motor penggerak utama yang memastikan ekonomi sebuah negara dapat berkembang secara berkelanjutan dalam jangka panjang.
 
