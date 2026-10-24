@@ -8,7 +8,7 @@ Inilah inti dari *social support system* (sistem dukungan sosial). Dalam manajem
 
 Secara evolusi, manusia didesain untuk hidup berkelompok. Pada zaman purba, isolasi berarti ancaman kematian. Meskipun zaman telah berubah, otak kita masih merespons isolasi sosial sebagai ancaman serius terhadap kelangsungan hidup.
 
-#### Kimiawi Koneksi
+#### Hormon dalam Interaksi Sosial
 
 Saat kita berinteraksi secara positif dengan orang lain, otak kita melepaskan hormon dan neurotransmiter yang secara langsung melawan efek hormon stres (kortisol).
 
@@ -65,7 +65,7 @@ Kadang-kadang, lingkaran sosial yang kita miliki saat ini belum cukup memberikan
 
 Mari kita lihat perbedaan dampak penggunaan dukungan sosial dalam skenario nyata:
 
-**Skenario *Burnout* di Tempat Kerja**
+**Situasi Andi**
 *Andi merasa sangat tertekan karena beban kerja yang berlebihan dan tenggat waktu yang ketat.*
 
 | Pendekatan | Tindakan Andi | Hasil yang Dirasakan |

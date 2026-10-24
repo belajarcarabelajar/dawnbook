@@ -12,7 +12,7 @@ Kortisol adalah hormon steroid yang diproduksi oleh kelenjar adrenal. Rumus kimi
 
 > **Pesan Utama:** Gaya hidup sehat tak sebatas penampilan fisik, tetapi bertugas menjaga agar grafik kortisolmu tidak menyerupai pegunungan yang curam, melainkan gelombang yang tenang.
 
-### 2. Aktivitas Fisik sebagai "Tombol Reset"
+### 2. Aktivitas Fisik
 
 Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan hormon stres. Saat kamu bergerak, tubuhmu beralih dari mode "waspada" ke mode "aksi".
 
@@ -22,7 +22,7 @@ Aktivitas fisik adalah salah satu cara tercepat untuk memetabolisme kelebihan ho
 2. **Penurunan Kortisol:** Setelah lonjakan singkat saat latihan, kadar kortisol biasanya turun di bawah level sebelum latihan, menciptakan efek relaksasi jangka panjang.
 3. **Neuroplastisitas:** Olahraga meningkatkan *Brain-Derived Neurotrophic Factor* (BDNF), protein yang membantu otak memperbaiki diri dari kerusakan akibat stres kronis.
 
-**Rekomendasi Strategis:**
+**Pilihan Jenis Latihan:**
 
 - **Latihan Aerobik (Lari, Berenang):** Efektif untuk menjernihkan pikiran dari kecemasan akut.
 - **Latihan Beban:** Membantu meningkatkan kepercayaan diri dan regulasi hormon jangka panjang.

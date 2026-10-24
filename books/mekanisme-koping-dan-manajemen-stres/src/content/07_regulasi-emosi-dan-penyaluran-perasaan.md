@@ -66,7 +66,7 @@ Andi baru saja menerima umpan balik negatif dari atasannya di hadapan rekan kerj
 4. **Hasil Akhir:**
    Andi terhindar dari tindakan impulsif yang berpotensi merusak karier dan berhasil memperoleh kejelasan kognitif untuk mengevaluasi kinerjanya secara rasional.
 
-### 5. Kotak Pertolongan Pertama Emosional
+### 5. Rencana Penyaluran Emosi
 
 Persiapkan strategi respons sebelum gelombang emosi meluap. Isilah tabel panduan diri berikut:
 

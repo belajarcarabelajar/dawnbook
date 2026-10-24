@@ -68,7 +68,7 @@ Hentakkan telapak kaki ke lantai dengan mantap. Rasakan pijakan kokoh antara tel
 
 - Saat rasa kecemasan membuat tubuh terasa melayang, menghentakkan kaki memberikan sinyal fisik yang kuat kepada otak bahwa kamu berdiri di atas permukaan yang aman dan nyata.
 
-### Jangkar di Tengah Badai
+### Analogi Jangkar Perahu
 
 Bayangkan kamu sedang berada di perahu kecil di tengah lautan. Tiba-tiba badai panik datang dan gelombang laut bergulung tinggi. Fokus yang terpaku hanya pada gelombang akan memicu rasa pusing dan takut tenggelam.
 
@@ -76,7 +76,7 @@ Bayangkan kamu sedang berada di perahu kecil di tengah lautan. Tiba-tiba badai p
 
 ### Panik Sebelum Presentasi
 
-**Skenario Panik Sebelum Presentasi**  
+**Situasi Budi**  
 Budi sedang menunggu gilirannya untuk berbicara di depan pimpinan. Tiba-tiba jantungnya berdebar kencang, telapak tangannya dingin, dan kepalanya terasa pening. Dunia di sekitarnya seolah-olah berputar.
 
 **Langkah Grounding yang Dilakukan Budi:**

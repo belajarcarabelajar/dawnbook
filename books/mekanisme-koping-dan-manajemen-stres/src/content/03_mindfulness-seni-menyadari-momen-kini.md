@@ -68,7 +68,7 @@ Alih-alih makan sambil menonton YouTube, cobalah lakukan ini:
 - Rasakan tekstur dan rasa di lidah saat kamu mengunyah perlahan.
 - Sadarilah proses menelan dan bagaimana makanan itu turun ke perut.
 
-### Penerapan di Dunia Nyata (Real-World Application)
+### Contoh Penerapan
 
 #### Menghadapi Kritik dari Atasan
 

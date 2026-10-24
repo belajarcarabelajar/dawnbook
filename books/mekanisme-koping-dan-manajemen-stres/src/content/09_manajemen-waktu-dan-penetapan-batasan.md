@@ -36,7 +36,7 @@ Banyak orang sulit mendelegasikan tugas karena merasa "kalau bukan saya yang ker
 4. **Berikan Otoritas:** Jangan hanya memberi tugas, beri mereka wewenang untuk mengambil keputusan kecil.
 5. **Monitor, Jangan Mikro-manajemen:** Periksa progres secara berkala tanpa "napas di pundak" mereka.
 
-### 3. Kekuatan Kata "Tidak"
+### 3. Berkata "Tidak"
 
 Berkata "tidak" sering kali terasa tidak sopan atau egois. Namun, secara psikologis, setiap kali kamu berkata "ya" pada permintaan orang lain yang tidak sesuai prioritas kamu, kamu sebenarnya sedang berkata "tidak" pada diri sendiri, keluarga, atau waktu istirahat kamu.
 

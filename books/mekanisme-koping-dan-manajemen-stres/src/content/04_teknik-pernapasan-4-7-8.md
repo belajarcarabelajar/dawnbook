@@ -4,11 +4,11 @@ Pernahkah kamu merasa jantung berdebar kencang sebelum presentasi penting, atau 
 
 Teknik Pernapasan 4-7-8 adalah salah satu cara cepat untuk mengambil alih kendali sistem sarafmu secara sadar. Dipopulerkan oleh Dr. Andrew Weil, metode ini adalah bentuk pengondisian sistem saraf yang dirancang untuk membawa tubuh kembali ke keadaan tenang dengan cepat.
 
-## Sains di Balik Ritme 4-7-8
+## Mengapa Ritmenya 4-7-8
 
 Mengapa angkanya 4, 7, dan 8? Mengapa tidak 5-5-5 atau 3-3-3? Jawabannya ada pada cara ritme ini berinteraksi dengan sistem saraf otonom.
 
-### 1. Mengaktifkan Rem Tubuh (Sistem Parasimpatis)
+### 1. Mengaktifkan Sistem Parasimpatis
 
 Tubuh memiliki dua mode utama dalam merespons lingkungan:
 
@@ -27,7 +27,7 @@ Secara kimiawi, teknik ini membantu menyeimbangkan kadar karbon dioksida ($\text
 
 Sebelum memulai, carilah posisi duduk yang nyaman dengan punggung tegak, atau berbaringlah jika kamu melakukannya sebelum tidur.
 
-### Posisi Lidah (Kunci Utama)
+### Posisi Lidah
 
 Tempatkan ujung lidahmu tepat di belakang gigi depan atas, pada jaringan gusi yang menonjol. Pertahankan lidah di sana selama seluruh latihan. Kamu akan membuang napas melalui mulut di sekitar lidahmu; jika ini terasa canggung, cobalah mengerutkan bibir sedikit.
 
@@ -56,7 +56,7 @@ flowchart TD
 
 Cobalah rasakan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
 
-## Mengatur Ulang Komputer (Reset)
+## Analogi Komputer yang Kelebihan Aplikasi
 
 Bayangkan pikiranmu adalah sebuah komputer yang memiliki terlalu banyak aplikasi terbuka secara bersamaan, menyebabkan sistem menjadi panas dan lambat (*lag*).
 
@@ -84,7 +84,7 @@ Meskipun kamu bisa merasakan manfaatnya segera, teknik 4-7-8 bekerja paling baik
 3. **Batasan Awal:** Jangan melakukan lebih dari 4 siklus per sesi selama bulan pertama latihan. Setelah terbiasa, kamu bisa meningkatkannya hingga maksimal 8 siklus.
 4. **Peringatan Keamanan:** Karena teknik ini bisa menyebabkan sedikit pusing pada awalnya (akibat penyesuaian kadar oksigen), **jangan pernah** melakukannya saat sedang menyetir atau mengoperasikan mesin berat sampai kamu tahu pasti bagaimana tubuhmu bereaksi.
 
-## Ringkasan Visual Latihan Mandiri
+## Tabel Latihan Mandiri
 
 Gunakan panduan cepat ini untuk sesi latihanmu berikutnya:
 
