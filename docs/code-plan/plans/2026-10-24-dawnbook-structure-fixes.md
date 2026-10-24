@@ -1,7 +1,7 @@
 ---
 schema: ultra-plan/v1
 plan_id: 2026-10-24-dawnbook-structure-fixes
-status: Approved
+status: Complete
 version: 1
 runner_contract: true
 skill: "super-ultra-code-plan (loaded through the Skill tool from ~/.claude/skills/super-ultra-code-plan/SKILL.md)"
@@ -156,7 +156,8 @@ Trigger: `bun run scripts/check-book-structure.ts <slug>` fails on `main` (7d1f7
 - [x] P1: plain wording instead of inflated metaphors in all 60 books (owner request mid-session), one subagent per book, three reviewers; then the heading pass on all 60 books and the teori-gaya-kelekatan template fix.
 - Evidence (2026-10-24, worktree HEAD 456c303, 285 commits, 723 files over origin/main): `bun run scripts/check-book-structure.ts --all` exit 0; `bun run check:voice` exit 0; `bun run scripts/check-heading-colons.ts` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0; `bun test tests/scripts/ tests/books/` exit 0, 606 pass, 0 fail; `bun run build` exit 0. That build log had 6 mdBook "html parse error" warnings in 3 chapters (algoritma-x 07, human-capital 04, siklus-hidrologi 03), from stray `<` lines that also exist on origin/main.
 - Evidence after the debt-sweep follow-ups (2026-10-24, worktree HEAD 9d423186, clean tree): the same seven commands all exit 0 (tests 606 pass, 0 fail), and the build log has 0 "parse error" lines.
-- [ ] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
+- [x] D1: one PR; merge asked alone; deploy, D1 seed and GSC reindex asked separately.
+  - Evidence 2026-10-24: PR #202 merged as 3a36aac0; `deploy-website.sh` exit 0 (1056 files, https://9d0b6458.dawnbook.pages.dev); `migrate-to-d1.ts` exit 0 ("All seeds applied successfully"); GSC sitemap PUT 204 at 2026-10-24T05:07:49Z; live logika chapter 1 meta and iklan-digital sidebar title checked.
 
 ## Measurement
 
@@ -271,3 +272,4 @@ One PR through pr-registry. Merge asked alone. Deploy, the Phase F D1 seed (`con
 
 - 2026-10-24: readiness `NEEDS-HUMAN` (exit 3); every task lacks a `skip_if` proof and the only open box is D1 (merge, deploy, D1 seed, GSC reindex).
 - Owner decision 2026-10-24 (Close plan gate): keep it open. Reopen the question after PR #202 is merged, deployed with the D1 seed, and the GSC sitemap reindex has returned 204.
+- 2026-10-24, after the deploy: `bun scripts/plan-closeout.mjs --readiness` still `NEEDS-HUMAN` (exit 3): 0 open step boxes, 0 open NOW follow-ups, every task `UNPROVEN` (no `skip_if` proof). The reopen trigger is met (merge 3a36aac0, deploy exit 0, D1 seed exit 0, GSC 204), and the owner asked to finish the plan, so it is marked `Complete` on that human evidence.
