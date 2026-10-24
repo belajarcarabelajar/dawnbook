@@ -8,7 +8,7 @@ Ini adalah faktor yang paling utama. Bayangkan kamu sedang berada di sebuah *foo
 > **Analogi:** Bayangkan pintu keluar di sebuah gedung. Jika gedung memiliki 10 pintu keluar (substitusi), saat satu pintu ditutup/dihambat, orang akan dengan mudah lewat pintu lain. Namun jika hanya ada satu pintu (monopoli/tanpa substitusi), orang akan tetap mengantre di sana sesulit apa pun aksesnya.
 ## 2. Barang Kebutuhan vs. Barang Mewah
 Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu terhadap harganya.
-- **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang masih akan membelinya karena sulit untuk bertahan hidup tanpanya.
+- **Kebutuhan Pokok (Necessities):** Barang-barang seperti beras, listrik, dan air cenderung **inelastis**. Meskipun harganya naik, orang terus membelinya karena sulit untuk bertahan hidup tanpanya.
 - **Barang Mewah (Luxuries):** Barang seperti jam tangan mahal, liburan ke luar negeri, atau perhiasan cenderung **elastis**. Jika harganya naik, orang bisa dengan mudah menunda pembelian atau membatalkannya karena barang tersebut bukan prioritas utama untuk bertahan hidup.
 Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
 ## 3. Proporsi Pendapatan yang Dihabiskan

@@ -17,7 +17,7 @@ Permintaan inelastis terjadi ketika persentase perubahan jumlah yang diminta **l
 - **Karakteristik:** Jika harga naik 10%, jumlah permintaan mungkin hanya turun 2% atau 5%.
 - **Representasi Grafis:** Kurva cenderung **curam**. Perubahan harga yang drastis hanya menyebabkan sedikit perubahan pada jumlah barang yang diminta.
 - **Contoh:** Barang kebutuhan pokok (beras, garam) atau kebutuhan mendesak (obat-obatan). Meskipun harga beras naik, orang tetap harus makan nasi.
-Sebagai contoh penerapan, pemerintah sering mengenakan pajak tinggi pada rokok atau bahan bakar karena barang-barang tersebut cenderung inelastis. Meskipun harga naik akibat pajak, konsumen masih akan membelinya.
+Sebagai contoh penerapan, pemerintah sering mengenakan pajak tinggi pada rokok atau bahan bakar karena barang-barang tersebut cenderung inelastis. Meskipun harga naik akibat pajak, konsumen terus membelinya.
 ### 3. Permintaan Unitary / Elastisitas Satuan
 Ini adalah kondisi "keseimbangan sempurna" di mana persentase perubahan harga diikuti oleh persentase perubahan jumlah permintaan dalam proporsi yang **sama persis**.
 - **Karakteristik:** Harga naik 10%, permintaan turun tepat 10%.

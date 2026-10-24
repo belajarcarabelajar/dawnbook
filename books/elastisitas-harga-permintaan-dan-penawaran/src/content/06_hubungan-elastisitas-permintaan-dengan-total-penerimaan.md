@@ -68,4 +68,4 @@ Memahami hubungan ini membantu produsen menghindari kesalahan dalam penetapan ha
 1. **Jangan memotong harga** jika produk kamu bersifat **inelastis**, karena kamu hanya akan kehilangan uang tanpa mendapatkan cukup banyak pelanggan baru untuk menutupi kerugian tersebut.
 2. **Jangan menaikkan harga** jika produk kamu bersifat **sangat elastis**, karena pelanggan akan berpindah dalam jumlah besar, dan total uang di kasir kamu akan berkurang drastis.
 3. **Tujuan akhir** perusahaan yang ingin memaksimalkan pendapatan adalah mencoba menetapkan harga sedemikian rupa sehingga mereka beroperasi sedekat mungkin dengan titik **elastisitas uniter**.
-> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau membuatnya lebih murah.
+> **Pesan Utama:** Mengetahui elastisitas produk kamu adalah kunci untuk memahami apakah cara terbaik untuk mendapatkan lebih banyak uang adalah dengan membuat barang kamu lebih mahal atau sebaliknya membuatnya lebih murah.
