@@ -28,13 +28,13 @@ Pasar kerja akan terus berubah. Kamu perlu terus mengembangkan keterampilan yang
 
 Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan cara paling langsung untuk memonetisasi Ikigai, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
 
-Langkah awalnya adalah mengidentifikasi celah pasar. Amati rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
+Langkah awalnya adalah mengidentifikasi celah pasar. Amati rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
 
 Daripada menunggu produkmu sempurna, lebih baik luncurkan Konsep Produk Minimum yang Layak (*Minimum Viable Product* - MVP). Versi paling dasar ini sudah harus memberikan nilai inti. Pendekatan ini memungkinkan kamu menguji ide di pasar dengan investasi minimal demi mendapatkan umpan balik langsung dari pelanggan, untuk kemudian terus dikembangkan.
 
 Pikirkan juga model bisnis yang sederhana. Tentukan bagaimana produk atau layanan tersebut akan menghasilkan uang, apakah lewat penjualan langsung, biaya layanan, langganan, atau iklan. Pahami siapa target audiensmu dan seberapa besar mereka bersedia membayar untuk nilai yang kamu tawarkan.
 
-> **Studi Kasus:** Seorang guru yoga yang sangat menyukai kebugaran holistik menyadari bahwa banyak orang di komunitasnya kesulitan menemukan instruktur yang mengerti kebutuhan kesehatan lansia. Ia kemudian membuka studio yoga khusus senior, dengan model bisnis berupa keanggotaan bulanan dan sesi privat.
+> **Studi Kasus:** Seorang guru yoga yang menyukai kebugaran holistik menyadari bahwa banyak orang di komunitasnya kesulitan menemukan instruktur yang mengerti kebutuhan kesehatan lansia. Ia kemudian membuka studio yoga khusus senior, dengan model bisnis berupa keanggotaan bulanan dan sesi privat.
 
 ## 4. Cara-Cara Kreatif Menghasilkan Pendapatan
 
@@ -42,7 +42,7 @@ Di luar karier tradisional atau membangun bisnis besar, ada banyak pendekatan fl
 
 Kamu bisa menjajal *freelancing* dan masuk ke *gig economy* dengan menawarkan keahlian sebagai layanan independen. Desainer grafis, penulis konten, penerjemah, konsultan IT, atau pelatih kebugaran bisa memanfaatkan platform global untuk menjangkau klien dari mana saja.
 
-Pilihan lain adalah membuat konten digital. Berbagi pengetahuan atau perspektif unik melalui blog, *podcast*, atau YouTube bisa membuka keran pendapatan dari iklan, sponsor, penjualan produk digital, atau donasi audiens.
+Pilihan lain adalah membuat konten digital. Berbagi pengetahuan atau perspektif unik melalui blog, *podcast*, atau YouTube bisa membuka sumber pendapatan dari iklan, sponsor, penjualan produk digital, atau donasi audiens.
 
 Jika kamu mahir dalam suatu bidang, cobalah mengajar, memberikan *workshop*, atau menjadi mentor. Mengajar secara daring tidak hanya menghasilkan uang, tetapi juga memberi ruang untuk membentuk orang lain. Selain itu, bagi yang memiliki modal lebih, investasi berdampak (*impact investing*) memungkinkan kamu menanamkan uang pada proyek yang sejalan dengan nilai-nilai pribadimu sekaligus memberikan keuntungan finansial.
 
@@ -56,4 +56,4 @@ Ketika uang yang kamu hasilkan berasal dari penyelesaian masalah nyata di dunia,
 
 > **Penting:** Perlu diingat bahwa tujuan utamanya bukan semata-mata menjadi sangat kaya, melainkan mencapai kemandirian finansial. Dengan kebebasan finansial, kamu punya ruang bergerak yang lebih leluasa untuk terus menghidupi Ikigai tanpa terhambat masalah ekonomi.
 
-Menciptakan nilai ekonomi dari Ikigai adalah sebuah perjalanan berkelanjutan. Proses ini akan membutuhkan banyak eksperimen, pembelajaran, dan adaptasi. Namun, ketika kamu berhasil menyelaraskan apa yang kamu cintai, kuasai, dan yang dibutuhkan dunia dengan kemampuan menghasilkan pendapatan, kamu akan menemukan stabilitas sekaligus kepuasan yang mendalam.
+Menciptakan nilai ekonomi dari Ikigai adalah sebuah perjalanan berkelanjutan. Proses ini akan membutuhkan banyak eksperimen, pembelajaran, dan adaptasi. Namun, ketika kamu berhasil menyelaraskan apa yang kamu cintai, kuasai, dan yang dibutuhkan dunia dengan kemampuan menghasilkan pendapatan, kamu akan menemukan stabilitas sekaligus kepuasan.

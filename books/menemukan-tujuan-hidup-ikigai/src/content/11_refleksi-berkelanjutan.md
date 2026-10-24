@@ -4,7 +4,7 @@ Ikigai sering kali disalahpahami sebagai garis akhir yang statis, seolah setelah
 
 ### Mengapa Ikigai Adalah Perjalanan?
 
-Kehidupan terus bergerak, begitu pula diri kita. Minat, keahlian, tuntutan zaman, serta peluang ekonomi bisa bergeser seiring waktu. Oleh karena itu, Ikigai yang kita miliki juga harus beradaptasi. Memandang pencarian tujuan hidup sebagai sebuah proses seumur hidup akan membuat perjalanan ini terasa jauh lebih menantang dan memperkaya batin.
+Kehidupan terus bergerak, begitu pula diri kita. Minat, keahlian, tuntutan zaman, serta peluang ekonomi bisa bergeser seiring waktu. Oleh karena itu, Ikigai yang kita miliki juga harus beradaptasi. Memandang pencarian tujuan hidup sebagai sebuah proses seumur hidup akan membuat perjalanan ini terasa lebih menantang dan memperkaya batin.
 
 > "Ikigai adalah kompas yang memandu kamu melalui lanskap kehidupan yang terus berubah, bukan sesuatu yang hanya ditemukan sekali."
 
@@ -22,13 +22,13 @@ Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Per
 Berbicaralah dengan orang-orang terdekat atau mentor yang bisa dipercaya. Mintalah masukan mengenai bagaimana mereka melihat pertumbuhan atau perubahan dalam diri kamu. Perspektif dari luar sering kali memperkaya pemahaman yang sulit dilihat dari sudut pandang sendiri.
 
 **Praktik Mindfulness**
-Terapkan mindfulness untuk menjaga pikiran dan perasaan agar tetap terhubung dengan momen saat ini. Meditasi dapat memberikan ruang kejernihan untuk melihat arah kehidupan dengan lebih jelas.
+Terapkan mindfulness untuk menjaga pikiran dan perasaan agar tetap terhubung dengan momen saat ini. Meditasi dapat membantumu melihat arah kehidupan dengan lebih jelas.
 
 ### Adaptasi terhadap Perubahan
 
 Kehidupan selalu membawa kejutan, baik berupa perubahan karier, dinamika keluarga, krisis global, maupun penemuan potensi diri yang baru. Ikigai yang kuat bersumber dari keluwesan untuk beradaptasi, bukan pada kekakuan.
 
-Jangan ragu untuk bersikap terbuka terhadap pengalaman baru, karena hal tersebut bisa menjadi pintu masuk menuju minat yang belum pernah dieksplorasi atau mengungkap bakat yang tersembunyi. Ketika menghadapi hambatan atau kegagalan, posisikan hal tersebut sebagai proses pembelajaran untuk menyesuaikan arah kemudi. Pada titik-titik perubahan besar, mengevaluasi kembali prioritas akan sangat membantu menyesuaikan Ikigai dengan arah kehidupan yang baru. Biarkan definisinya tetap fleksibel; terkadang perpaduan keempat pilar Ikigai tidak harus terwujud dalam satu pekerjaan utama saja, melainkan gabungan dari berbagai aktivitas.
+Jangan ragu untuk bersikap terbuka terhadap pengalaman baru, karena hal tersebut bisa menjadi pintu masuk menuju minat yang belum pernah dieksplorasi atau mengungkap bakat yang tersembunyi. Ketika menghadapi hambatan atau kegagalan, posisikan hal tersebut sebagai proses pembelajaran untuk menyesuaikan arah kemudi. Pada titik-titik perubahan besar, mengevaluasi kembali prioritas akan membantu menyesuaikan Ikigai dengan arah kehidupan yang baru. Biarkan definisinya tetap fleksibel; terkadang perpaduan keempat pilar Ikigai tidak harus terwujud dalam satu pekerjaan utama saja, melainkan gabungan dari berbagai aktivitas.
 
 ### Pertumbuhan Pribadi untuk Memperbarui Ikigai
 

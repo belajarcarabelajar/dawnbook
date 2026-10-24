@@ -20,7 +20,7 @@ Mari mulai menyusun peta ini. Siapkan alat tulis atau dokumen digital untuk menc
 
 Kumpulkan semua catatan, daftar, dan hasil refleksi dari bagian-bagian sebelumnya. Bahan-bahan ini akan menjadi fondasi utama.
 
-Untuk **Love** (cinta), ingat kembali aktivitas yang membuat gairah memuncak hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
+Untuk **Love** (cinta), ingat kembali aktivitas yang membuatmu bersemangat hingga lupa waktu, termasuk hal-hal yang rela dilakukan tanpa imbalan. Tuliskan tiga sampai lima poin utama. 
 
 Selanjutnya, kenali **Strength** (kekuatan) berupa bakat alami atau keterampilan yang telah terasah. Ini biasanya tercermin dari hal-hal yang membuat orang lain sering meminta bantuan atau memujimu. 
 
@@ -60,7 +60,7 @@ Cari benang merah dari keempat pilar dan area persimpangan. Temukan kegiatan, pe
 
 #### 5. Rumuskan Pernyataan Ikigai Pribadi
 
-Langkah terakhir adalah merumuskan inti Ikigai ke dalam pernyataan yang ringkas. Pernyataan ini harus mencerminkan tujuan hidup yang paling dalam, sesuatu yang memberikan dorongan semangat setiap pagi.
+Langkah terakhir adalah merumuskan inti Ikigai ke dalam pernyataan yang ringkas. Pernyataan ini harus mencerminkan tujuan hidupmu, sesuatu yang memberikan dorongan semangat setiap pagi.
 
 Format ini bisa dipakai sebagai panduan dasar:
 "Ikigai saya adalah [kata kerja tindakan] [apa yang dicintai/dikuasai] untuk [apa yang dibutuhkan dunia] sambil [cara menghasilkan uang]."

@@ -4,11 +4,11 @@ Selamat datang di bagian paling praktis dari perjalanan Ikigai kita! Setelah kam
 
 ## Mengintegrasikan Ikigai ke dalam Kehidupan Sehari-hari
 
-Menyatukan Ikigai dalam keseharian berarti kamu mulai hidup dengan arah yang jelas dan merasa puas atas setiap tindakan, baik besar maupun kecil. Ini merupakan serangkaian penyesuaian yang konsisten dan bermakna, alih-alih perombakan radikal dalam semalam.
+Menyatukan Ikigai dalam keseharian berarti kamu mulai hidup dengan arah yang jelas dan merasa puas atas tindakanmu, baik besar maupun kecil. Ini merupakan serangkaian penyesuaian yang konsisten dan bermakna, alih-alih perombakan radikal dalam semalam.
 
 ### Di Lingkungan Kerja
 
-Pekerjaan adalah salah satu area utama di mana Ikigai bisa memberikan dampak besar. Apa pun profesi kamu, selalu ada celah untuk menyuntikkan makna.
+Pekerjaan adalah salah satu area utama di mana Ikigai bisa memberikan dampak besar. Apa pun profesi kamu, selalu ada celah untuk menemukan makna.
 
 #### 1\. Mencari Makna dalam Pekerjaan Saat Ini
 
@@ -30,11 +30,11 @@ Ikigai berjalan layaknya perjalanan dinamis. Selalu ada ruang untuk tumbuh. Kari
 
 ### Dalam Kehidupan Pribadi
 
-Kehidupan pribadi, termasuk hobi, dinamika hubungan, dan cara menghabiskan waktu luang, adalah lahan subur untuk menumbuhkan tujuan.
+Kehidupan pribadi, termasuk hobi, dinamika hubungan, dan cara menghabiskan waktu luang, adalah ruang untuk menumbuhkan tujuan.
 
 #### 1\. Hobi dan Minat
 
-Hobi adalah saluran ekspresi Ikigai yang sangat otentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energi kembali terisi penuh. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
+Hobi adalah saluran ekspresi Ikigai yang otentik. Sediakan waktu khusus secara sengaja untuk aktivitas yang kamu "Cintai" dan "Kuasai" agar energimu terisi kembali. Pertimbangkan juga untuk menghubungkan minat tersebut dengan "Apa yang Dibutuhkan Dunia." Kegiatan seperti membuat kerajinan, berkebun, atau menulis bisa diarahkan untuk donasi atau berbagi pengetahuan. Jangan ragu bereksplorasi; hal-hal baru sering kali menyingkap sisi Ikigai yang belum terpetakan.
 
 #### 2\. Hubungan dan Kontribusi Sosial
 
@@ -44,11 +44,11 @@ Ikigai bergantung pada konteks komunitas. Berkumpul dengan orang-orang yang mend
 
 Menjaga Ikigai menuntut perhatian pada diri sendiri. Terapkan praktik *mindfulness* seperti meditasi atau *journaling* untuk menjaga koneksi dengan suara batin. Keseimbangan hidup yang mencakup waktu istirahat, nutrisi yang tepat, serta aktivitas fisik itu penting. Sisihkan waktu sejenak untuk mengevaluasi kembali bagaimana proses integrasi Ikigai ini berjalan dan lakukan penyesuaian jika ada aspek yang mulai melenceng.
 
-> **Penting:** Mengintegrasikan Ikigai berarti bersedia membuat pilihan sadar setiap hari yang membawa kamu lebih dekat pada kebahagiaan sejati, tanpa perlu terobsesi pada kesempurnaan.
+> **Penting:** Mengintegrasikan Ikigai berarti bersedia membuat pilihan sadar setiap hari yang membawa kamu lebih dekat pada kebahagiaan, tanpa perlu terobsesi pada kesempurnaan.
 
 ## Tantangan Umum dalam Menjalani Ikigai dan Cara Mengatasinya
 
-Perjalanan menyusuri Ikigai jarang terbebas dari hambatan. Wajar jika kamu menghadapi berbagai tantangan, sehingga langkah antisipasi sangat diperlukan agar motivasi tidak mudah luntur.
+Perjalanan menyusuri Ikigai jarang terbebas dari hambatan. Wajar jika kamu menghadapi berbagai tantangan, sehingga langkah antisipasi diperlukan agar motivasi tidak mudah luntur.
 
 ### Tantangan yang Sering Muncul
 
@@ -64,7 +64,7 @@ Lakukan refleksi diri secara teratur melalui jurnal Ikigai. Menuliskan pikiran d
 
 #### 2\. Membangun Jaringan Dukungan
 
-Bangunlah jaringan dukungan yang kuat. Membicarakan tantangan dengan teman atau keluarga yang mengerti visimu akan sangat melegakan. Bergabung dengan komunitas yang memiliki minat serupa juga memberikan rasa aman secara emosional.
+Bangunlah jaringan dukungan yang kuat. Membicarakan tantangan dengan teman atau keluarga yang mengerti visimu akan melegakan. Bergabung dengan komunitas yang memiliki minat serupa juga memberikan rasa aman secara emosional.
 
 #### 3\. Manajemen Waktu dan Prioritas yang Efektif
 
@@ -72,11 +72,11 @@ Untuk urusan jadwal, biasakan memblokir waktu spesifik khusus untuk kegiatan yan
 
 #### 4\. Fleksibilitas dan Adaptasi
 
-Tetaplah fleksibel karena Ikigai adalah konsep dinamis yang terus berkembang seiring kedewasaan diri. Setiap kemunduran bisa dijadikan materi pembelajaran yang berharga alih-alih dianggap sebagai tembok penghalang.
+Tetaplah fleksibel karena Ikigai adalah konsep dinamis yang terus berkembang seiring kedewasaan diri. Setiap kemunduran bisa dijadikan materi pembelajaran yang berharga alih-alih dianggap sebagai penghalang.
 
 #### 5\. Fokus pada Kemajuan Kecil
 
-Jangan merasa terbebani oleh gambaran tujuan akhir yang terlalu besar. Pusatkan perhatian pada langkah-langkah kecil yang konsisten setiap hari. Merayakan pencapaian sederhana sangat efektif untuk menjaga momentum.
+Jangan merasa terbebani oleh gambaran tujuan akhir yang terlalu besar. Pusatkan perhatian pada langkah-langkah kecil yang konsisten setiap hari. Merayakan pencapaian sederhana efektif untuk menjaga momentum.
 
 #### 6\. Mencari Bimbingan atau Mentorship
 
