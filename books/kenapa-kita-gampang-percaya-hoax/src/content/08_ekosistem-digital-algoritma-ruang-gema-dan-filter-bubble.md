@@ -12,7 +12,7 @@ Beranda media sosial kamu bukan urutan waktu apa adanya. Ia disusun oleh algorit
 - **Klik**: apakah kamu membuka, memperbesar, membaca.
 - **Interaksi**: suka, komentar, dan terutama **share**.
 
-Perhatikan bahwa tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi: konten yang memicu marah, takut, atau jijik justru unggul dalam semua metrik itu.
+Tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi: konten yang memicu marah, takut, atau jijik justru unggul dalam semua metrik itu.
 
 > Sebuah kebohongan yang membuat orang berang akan dibagikan lebih cepat daripada sebuah koreksi yang membosankan. Algoritma membaca kemarahan itu sebagai "konten bagus", lalu menyodorkannya ke lebih banyak orang.
 

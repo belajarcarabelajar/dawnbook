@@ -10,7 +10,7 @@ Di Indonesia ada organisasi masyarakat sipil dan redaksi media arus utama yang k
 
 #### 2. Reverse image search untuk foto
 
-Foto adalah bahan bakar hoaks paling ampuh karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu perhatikan tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
+Foto adalah bahan bakar hoaks paling ampuh karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu cermati tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
 
 #### 3. Verifikasi video dan klaim
 
@@ -27,7 +27,7 @@ Kalau sebuah video memicu emosi kuat tapi sumber aslinya kabur, itu justru alasa
 
 #### 4. Cek tautan dan domain
 
-Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Perhatikan alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
+Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Periksa alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
 
 ### Dorongan akurasi untuk berhenti sejenak sebelum membagikan
 

@@ -30,7 +30,7 @@ Dulu banyak yang khawatir soal **backfire effect**: gagasan bahwa mengoreksi key
 
 Kabar baiknya, bukti terbaru menunjukkan bahwa backfire effect **jarang terjadi** dan sulit direplikasi. Secara umum, koreksi tetap membantu: menyajikan fakta yang benar rata-rata membuat keyakinan pada info salah menurun, bukan naik (Lewandowsky dkk., 2020, dalam *The Debunking Handbook*). Artinya, ketakutan lama itu sendiri adalah semacam mitos yang perlu dikoreksi.
 
-Kesimpulan praktisnya jelas: **jangan takut mengoreksi**. Risiko bahwa koreksimu akan menjadi bumerang jauh lebih kecil daripada yang pernah dikhawatirkan. Yang perlu kamu perhatikan bukan apakah harus mengoreksi, tapi bagaimana caranya supaya koreksi itu benar-benar menempel.
+Kesimpulan praktisnya jelas: **jangan takut mengoreksi**. Risiko bahwa koreksimu akan menjadi bumerang jauh lebih kecil daripada yang pernah dikhawatirkan. Yang perlu kamu pikirkan bukan apakah harus mengoreksi, tapi bagaimana caranya supaya koreksi itu benar-benar menempel.
 
 ### Cara mengoreksi yang benar-benar menempel
 
@@ -53,7 +53,7 @@ Ringkasnya:
 
 ### Kenapa ini mengarah ke pencegahan
 
-Kalau kamu perhatikan, semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
+Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
 
 Justru karena itu, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
