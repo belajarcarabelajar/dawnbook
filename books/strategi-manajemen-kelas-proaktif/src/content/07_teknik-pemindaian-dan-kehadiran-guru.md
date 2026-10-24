@@ -1,8 +1,8 @@
 ## Teknik Pemindaian dan Kehadiran Guru
 
-Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Rahasianya bukan pada kekuatan super, melainkan pada keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
+Pernahkah kamu bertanya-tanya mengapa beberapa guru seolah-olah memiliki "indra keenam"? Mereka bisa mengetahui ada siswa yang sedang asyik bermain ponsel di pojok belakang, bahkan saat mereka sedang menulis di papan tulis. Yang mereka andalkan adalah keterampilan yang disebut **Withitness** dan teknik **Pemindaian (Scanning)** yang efektif.
 
-Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang paling ampuh, bahkan sebelum kamu mengucapkan satu patah kata.
+Dalam modul ini, kita akan mempelajari bagaimana kehadiran fisik dan kewaspadaan mental kamu dapat menjadi alat manajemen kelas yang bekerja sebelum kamu mengucapkan satu patah kata.
 
 ## 1. Konsep 'Withitness'
 
@@ -37,7 +37,7 @@ Kehadiran fisik kamu adalah instrumen manajemen yang kuat. Guru yang hanya duduk
 ### Strategi Penempatan Diri
 
 - **Zonasi Kelas:** Jangan biarkan ada "zona mati" di kelas kamu (biasanya di pojok belakang). Jadikan seluruh area kelas sebagai "wilayah kekuasaan" kamu dengan sering melewatinya.
-- **Kedekatan (Proximity):** Jika kamu melihat siswa mulai menyimpang dari tugas, mendekatlah ke arah mereka tanpa harus menghentikan penjelasan kamu. Seringkali, hanya dengan berdiri di dekat meja siswa, perilaku mengganggu akan berhenti secara otomatis.
+- **Kedekatan (Proximity):** Jika kamu melihat siswa mulai menyimpang dari tugas, mendekatlah ke arah mereka tanpa harus menghentikan penjelasan kamu. Seringkali, hanya dengan berdiri di dekat meja siswa, perilaku mengganggu akan berhenti.
 - **The "Power Position":** Saat memberikan instruksi penting, berdirilah di pusat perhatian. Namun, saat siswa bekerja mandiri, bergeraklah mengelilingi perimeter (pinggiran) kelas untuk memantau dari berbagai sudut.
 
 ## 4. Bahasa Tubuh dan Kehadiran Guru

@@ -2,13 +2,13 @@
 
 Pernahkah kamu membayangkan komunikasi antara guru dan orang tua seperti sebuah rekening bank emosional? Jika kita hanya menghubungi orang tua saat ada masalah (pelanggaran disiplin atau nilai anjlok), itu sama saja dengan melakukan "penarikan" terus-menerus tanpa pernah melakukan "setoran". Akibatnya, hubungan menjadi defisit dan penuh ketegangan.
 
-**Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana namun kuat: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
+**Komunikasi Proaktif** adalah strategi melakukan "setoran" emosional secara konsisten melalui pelaporan perkembangan positif dan kolaborasi yang berkelanjutan. Tujuannya sederhana: memastikan bahwa pesan yang diterima siswa di sekolah selaras dengan pesan yang diterima di rumah.
 
 ## 1. Dari Reaktif ke Proaktif
 
 Kebanyakan model komunikasi tradisional bersifat **reaktif** , artinya, interaksi terjadi karena dipicu oleh peristiwa negatif. Dalam manajemen kelas proaktif, kita membalik logika ini.
 
-**Analogi Jembatan:** Bayangkan komunikasi adalah sebuah jembatan. Jika kamu baru mulai membangun jembatan saat badai (masalah siswa) datang, kemungkinan besar jembatan itu akan roboh. Namun, jika jembatan dibangun dengan kokoh saat cuaca cerah (sejak awal semester), jembatan itu akan mampu menahan beban seberat apa pun saat krisis terjadi.
+**Analogi Jembatan:** Bayangkan komunikasi adalah sebuah jembatan. Jika kamu baru mulai membangun jembatan saat badai (masalah siswa) datang, kemungkinan besar jembatan itu akan roboh. Namun, jika jembatan dibangun dengan kokoh saat cuaca cerah (sejak awal semester), jembatan itu akan mampu menahan beban saat krisis terjadi.
 
 ### Perbedaan Utama
 
@@ -31,11 +31,11 @@ Jangan menunggu nilai ujian 100 untuk menghubungi orang tua. Laporkan perubahan 
 
 ### Menggunakan Rumus Rasio 3 banding 1
 
-Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. $\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}$ *Jika rasio ini terjaga, orang tua akan jauh lebih menerima saat kamu harus mendiskusikan masalah serius.*
+Untuk setiap satu laporan negatif atau korektif, pastikan kamu telah memberikan minimal tiga laporan positif sebelumnya. $\text{Rasio Hubungan} = \frac{\text{Apresiasi}}{\text{Koreksi}} \geq \frac{3}{1}$ *Jika rasio ini terjaga, orang tua akan lebih menerima saat kamu harus mendiskusikan masalah serius.*
 
 ## 3. Menciptakan Konsistensi Perilaku Sekolah vs Rumah
 
-Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
+Salah satu tantangan manajemen kelas adalah ketika siswa memiliki "dua kepribadian": sangat patuh di sekolah tetapi tidak terkendali di rumah, atau sebaliknya. Komunikasi proaktif bertujuan menyelaraskan **kontrak sosial** di kedua lingkungan.
 
 ### Langkah Kolaborasi Berkelanjutan
 
@@ -50,10 +50,10 @@ Salah satu tantangan terbesar manajemen kelas adalah ketika siswa memiliki "dua 
 Pilihlah media yang paling aksesibel bagi wali murid, namun tetap menjaga batasan profesional guru.
 
 - **Pesan Instan (WhatsApp/Telegram):** Efektif untuk informasi cepat, namun berisiko mengganggu waktu pribadi. Gunakan fitur *broadcast* atau grup satu arah untuk pengumuman umum.
-- **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Sangat visual dan cocok untuk kinesthetic learners (melalui foto/video kegiatan).
+- **Aplikasi Manajemen Kelas (ClassDojo, Google Classroom):** Visual dan cocok untuk kinesthetic learners (melalui foto/video kegiatan).
 - **Panggilan Telepon "Sapaan Hangat":** Luangkan waktu 5 menit setiap sore untuk menelpon dua orang tua siswa (secara bergiliran) hanya untuk menanyakan kabar dan memuji satu hal positif dari anak mereka.
 
-*Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelpon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Betapa kuatnya dampak ini bagi iklim kelas kamu?*
+*Pertimbangkan hal berikut: Jika kamu memiliki 30 siswa, dan kamu menelpon 2 orang tua setiap hari, dalam 15 hari semua orang tua telah mendapatkan sapaan positif dari kamu. Apa dampaknya bagi iklim kelas kamu?*
 
 ## 5. Menangani Percakapan Sulit dengan Teknik Sandwich
 
@@ -86,6 +86,6 @@ Bagaimana cara memulai sistem ini tanpa merasa kewalahan? Berikut adalah langkah
 
 ## Kesimpulan
 
-Komunikasi proaktif bukan sekadar memberi laporan, melainkan membangun **kemitraan strategis**. Ketika orang tua merasa dihargai dan dilibatkan dalam aspek-aspek positif, mereka akan menjadi pendukung nomor satu kamu dalam menegakkan disiplin dan motivasi belajar siswa.
+Komunikasi proaktif bukan sekadar memberi laporan, melainkan membangun **kemitraan strategis**. Ketika orang tua merasa dihargai dan dilibatkan dalam aspek-aspek positif, mereka akan menjadi pendukung kamu dalam menegakkan disiplin dan motivasi belajar siswa.
 
-> *Ingatlah: Guru yang hebat mengajar siswa, tetapi guru yang luar biasa menginspirasi seluruh ekosistem di sekitar siswa tersebut.*
+> *Ingatlah: tugas guru tidak berhenti pada mengajar siswa, tetapi menjangkau orang-orang di sekitar siswa tersebut, terutama orang tuanya.*

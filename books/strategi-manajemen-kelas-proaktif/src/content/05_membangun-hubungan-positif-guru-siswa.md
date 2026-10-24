@@ -6,7 +6,7 @@ Dalam kerangka Manajemen Kelas Proaktif, hubungan positif bukanlah sekadar "sika
 
 ## 1. Mengenal Karakteristik Individu lewat Profil Siswa
 
-Setiap siswa datang ke kelas dengan "tas ransel" yang berbeda, berisi minat, bakat, kecemasan, dan latar belakang budaya. Mengenal mereka secara individual adalah langkah pertama untuk membangun jembatan kepercayaan.
+Setiap siswa datang ke kelas dengan "tas ransel" yang berbeda, berisi minat, bakat, kecemasan, dan latar belakang budaya. Mengenal mereka secara individual adalah langkah pertama untuk membangun kepercayaan.
 
 ### Inventori Minat & Bakat
 
@@ -53,7 +53,7 @@ Dimana:
 - $P$ = Penerimaan Teman Sebaya
 - $Kz$ = Kecemasan (Anxiety)
 
-Semakin rendah nilai kecemasan ($Kz$), maka kesiapan belajar ($K$) akan meningkat secara eksponensial.
+Semakin rendah nilai kecemasan ($Kz$), maka kesiapan belajar ($K$) akan meningkat.
 
 ### Langkah Menciptakan Keamanan Emosional
 
@@ -89,6 +89,6 @@ Untuk memastikan kamu membangun hubungan secara merata (tidak hanya pada siswa y
 | Citra | Melukis | Empati | Apresiasi bantuan ke teman |
 | Dedi | Game Online | Strategis | Bahas konsep kolaborasi |
 
-> **Pesan Penting:** Siswa mungkin akan melupakan rumus yang kamu ajarkan, tetapi mereka tidak akan pernah melupakan bagaimana perasaan mereka saat berada di kelas kamu. Hubungan positif adalah investasi jangka panjang yang akan membayar dividen berupa kelas yang tenang, kooperatif, dan penuh semangat belajar.
+> **Pesan Penting:** Siswa mungkin akan melupakan rumus yang kamu ajarkan, tetapi mereka akan ingat bagaimana perasaan mereka saat berada di kelas kamu. Hubungan positif membantu menciptakan kelas yang tenang, kooperatif, dan bersemangat belajar.
 
 *Refleksi: Sebutkan satu siswa yang hubungannya dengan kamu terasa "tegang". Langkah kecil apa yang bisa kamu lakukan besok pagi untuk melakukan satu "setoran" ke rekening emosionalnya?*

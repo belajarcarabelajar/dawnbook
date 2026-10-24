@@ -15,7 +15,7 @@ Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaann
 
 ## 2. Arsitektur Transisi yang Efisien
 
-Transisi adalah "lubang hitam" waktu dalam pembelajaran. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
+Transisi adalah saat waktu pembelajaran mudah terbuang. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
 
 ### Kalkulasi Kehilangan Waktu
 
@@ -33,7 +33,7 @@ $$
 $$
 </div>
 
-75 jam adalah waktu yang sangat besar yang hilang hanya karena transisi yang berantakan!
+Ada 75 jam pembelajaran yang hilang hanya karena transisi yang berantakan.
 
 ### Strategi Transisi "30 Detik"
 
@@ -119,4 +119,4 @@ Pastikan kamu memiliki prosedur untuk hal-hal berikut:
 - Apa yang dilakukan jika tugas sudah selesai lebih awal (Aktivitas Jangkar).
 - Membereskan kelas dan persiapan pulang.
 
-Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan seorang direktur orkestra yang memimpin simfoni pembelajaran yang harmonis.
+Dengan rutinitas yang kuat, kamu tidak lagi menjadi "polisi lalu lintas" di kelas, melainkan pemimpin yang menjaga pembelajaran berjalan teratur.

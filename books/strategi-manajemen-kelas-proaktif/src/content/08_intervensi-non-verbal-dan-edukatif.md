@@ -1,6 +1,6 @@
 ## Intervensi Non-Verbal dan Edukatif
 
-Pernahkah kamu sedang berada di puncak penjelasan materi yang penting, saat semua kepingan teka-teki mulai menyatu bagi siswa? Pernahkah kamu kemudian tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
+Pernahkah kamu sedang menjelaskan bagian materi yang penting, tepat saat siswa mulai memahami bagaimana bagian-bagiannya saling terhubung? Pernahkah kamu kemudian tiba-tiba harus berhenti total hanya untuk menegur satu orang siswa yang asyik mengobrol?
 
 Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh waktu ekstra untuk mengembalikan fokus mereka. Inilah yang kita sebut sebagai "biaya gangguan" (*interruptive cost*).
 
@@ -8,9 +8,9 @@ Intervensi non-verbal adalah solusi untuk meminimalisir biaya tersebut. Tujuanny
 
 ### Mengapa Non-Verbal? Sebuah Analogi
 
-Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, penonton masih terpesona, dan masalah terselesaikan secara instan.
+Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, dan masalah terselesaikan.
 
-Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang membunyikan sirine di tengah konser pembelajaran.
+Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang menghentikan pelajaran.
 
 ### Hirarki Intervensi Rendah Gangguan (Low-Profile Intervention)
 
@@ -18,7 +18,7 @@ Kita menggunakan pendekatan progresif. Mulailah dari yang paling halus sebelum b
 
 #### 1. Kontak Mata dan Ekspresi Wajah (The Look)
 
-Kontak mata adalah alat paling kuat namun paling sering diremehkan.
+Kontak mata adalah alat yang kuat namun sering diremehkan.
 
 - **Teknik Radar:** Lakukan pemindaian (*scanning*) rutin 360 derajat. Saat melihat gangguan ringan (misal: siswa melamun), buat kontak mata selama 3-5 detik.
 - **Ekspresi Netral-Serius:** Gunakan ekspresi yang menunjukkan kamu sadar akan perilaku mereka, namun tetap tenang. Hindari ekspresi marah yang berlebihan karena dapat memicu konfrontasi.
@@ -32,7 +32,7 @@ Siswa cenderung berperilaku lebih baik saat guru berada di dekat mereka.
 
 #### 3. Sinyal Tangan dan Gestur
 
-Ciptakan "bahasa rahasia" antara kamu dan siswa yang sudah disepakati sebelumnya (lihat bagian *Prosedur dan Rutinitas Harian*).
+Ciptakan isyarat antara kamu dan siswa yang sudah disepakati sebelumnya (lihat bagian *Prosedur dan Rutinitas Harian*).
 
 - **Tangan Terbuka:** Mengisyaratkan siswa untuk tenang.
 - **Ketukan di Meja:** Mengetuk pelan meja siswa saat kamu lewat untuk mengembalikan fokus mereka ke buku.

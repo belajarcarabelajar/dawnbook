@@ -2,7 +2,7 @@
 
 Bayangkan kamu adalah seorang kapten kapal yang sedang melintasi samudra luas. kamu telah menetapkan rute (prosedur), mengatur awak kapal (norma), dan memastikan mesin bekerja dengan baik (keterlibatan aktif). Namun, tanpa melihat kompas, radar, atau mendengarkan laporan dari kru, bagaimana kamu tahu bahwa kapal tetap berada di jalur yang benar?
 
-Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen navigasi kamu. Tanpanya, strategi yang kamu terapkan hanyalah tebakan. Bagian ini akan membahas bagaimana kamu dapat menggunakan data objektif dan suara siswa untuk menyempurnakan atmosfer belajar secara terus-menerus.
+Dalam manajemen kelas proaktif, **Monitoring dan Refleksi** adalah instrumen navigasi kamu. Tanpanya, strategi yang kamu terapkan hanyalah tebakan. Bagian ini akan membahas bagaimana kamu dapat menggunakan data objektif dan suara siswa untuk memperbaiki suasana belajar secara terus-menerus.
 
 ## 1. Memahami "Iklim Kelas"
 
@@ -44,7 +44,7 @@ Siswa adalah "konsumen" utama dari manajemen kelas kamu. Mereka merasakan langsu
 		- **Start:** Apa yang harus guru mulai lakukan untuk membantu kelas lebih tertib?
 		- **Continue:** Apa yang sudah bagus dan harus dipertahankan?
 
-*Pertimbangkan hal berikut: Jika kamu takut mendengar jawaban siswa, itu mungkin tanda terkuat bahwa kamu sangat perlu mendengarnya.*
+*Pertimbangkan hal berikut: Jika kamu takut mendengar jawaban siswa, itu mungkin tanda bahwa kamu perlu mendengarnya.*
 
 ## 4. Analisis Data dan Perbaikan Berkelanjutan
 

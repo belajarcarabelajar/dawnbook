@@ -46,7 +46,7 @@ Manajemen kelas proaktif bertujuan agar siswa tidak selalu bergantung pada guru 
 
 **Real-world Application:**
 
-> Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang drastis karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
+> Di sebuah kelas di Jakarta, seorang guru menyediakan "Kotak Darurat" di sudut kelas yang berisi alat tulis cadangan. Hasilnya? Interupsi saat pelajaran berkurang karena siswa tidak perlu lagi mengangkat tangan hanya untuk meminjam penghapus.
 
 ## 5. Meminimalisir Distraksi Sensorik
 
