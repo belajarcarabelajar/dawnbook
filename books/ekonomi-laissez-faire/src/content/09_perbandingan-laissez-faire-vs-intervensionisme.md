@@ -108,6 +108,6 @@ Selama pandemi global 2020-2022, perdebatan ini muncul ke permukaan secara nyata
 
 *Refleksi: Menurut kamu, apakah efisiensi lebih penting daripada kesetaraan, atau mungkinkah kita mencapai keduanya sekaligus?*
 
-## Kesimpulan
+## Bukan Soal Siapa yang Benar
 
 Perbandingan antara Laissez-faire dan Intervensionisme bukanlah tentang mencari siapa yang benar dan siapa yang salah, melainkan tentang menemukan **titik keseimbangan**. Laissez-faire memberikan mesin pertumbuhan yang kuat, sementara Intervensionisme menyediakan rem dan sabuk pengaman yang diperlukan untuk perjalanan yang aman bagi seluruh anggota masyarakat.

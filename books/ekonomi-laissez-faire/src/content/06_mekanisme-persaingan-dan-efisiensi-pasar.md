@@ -87,7 +87,7 @@ Mari kita lihat fenomena industri perangkat lunak (*software*) dan aplikasi pons
 
 Tanpa adanya persaingan bebas yang mendorong inovasi ini, kita mungkin masih akan terjebak membayar ribuan rupiah untuk satu pesan teks pendek.
 
-## Kesimpulan
+## Filter Alami Bernama Persaingan
 
 Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya bukanlah kekacauan, melainkan sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri menuju satu tujuan mulia: **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
 
