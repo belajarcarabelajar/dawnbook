@@ -45,7 +45,7 @@ $$
 
 *Contoh:* Jika target perusahaan adalah menjual 1.000 unit dan berhasil tercapai, maka tindakan tersebut efektif.
 
-Dalam merintis bisnis baru, pengusaha sering kali dihadapkan pada dilema untuk memprioritaskan salah satu di antara keduanya. Untuk memahami perbandingannya, perhatikan tabel berikut:
+Dalam merintis bisnis baru, pengusaha sering kali dihadapkan pada dilema untuk memprioritaskan salah satu di antara keduanya. Perbandingan keduanya tampak pada tabel berikut:
 
 | Kondisi | Deskripsi |
 | --- | --- |
@@ -983,7 +983,7 @@ Keberlanjutan organisasi sangat bergantung pada seberapa cepat informasi mengali
 3. **Output:** Kinerja nyata yang dihasilkan di lapangan.
 4. **Feedback:** Tahap evaluasi (*Controlling*) guna mengumpulkan data penting, yang kemudian dipakai untuk menyempurnakan rencana pada siklus berikutnya.
 
-Perhatikan bagaimana tahap Feedback mengalir kembali ke Input sehingga keempat tahap itu membentuk lingkaran.
+Tahap Feedback mengalir kembali ke Input, sehingga keempat tahap itu membentuk lingkaran.
 
 ```mermaid
 flowchart TD
@@ -1137,7 +1137,7 @@ Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. 
 
 ### Mengapa Studi Kasus Itu Penting?
 
-Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita perhatikan bagaimana sistem manajemen ini bekerja di dunia nyata.
+Teori tanpa praktik hanyalah informasi, namun praktik tanpa teori adalah spekulasi. Setelah mempelajari setiap komponen **Planning, Organizing, Actuating, dan Controlling (POAC)**, mari kita lihat bagaimana sistem manajemen ini bekerja di dunia nyata.
 
 Analogi terbaik untuk POAC adalah sebuah **orkestra**. *Planning* adalah partitur musiknya, *Organizing* adalah pembagian instrumen dan pemainnya, *Actuating* adalah aba-aba sang konduktor saat musik mulai dimainkan, dan *Controlling* adalah pendengaran tajam konduktor untuk memastikan tidak ada nada yang sumbang.
 
@@ -1281,8 +1281,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -1373,7 +1373,7 @@ Sebagai contoh, dalam bidang komunikasi organisasi dan manajemen sumber daya man
 
 Bahasa bekerja sebagai cermin yang merefleksikan peradaban penuturnya. Setiap pergeseran makna mencatat sejarah pemikiran, perubahan norma, dan dinamika interaksi antarmanusia.
 
-Pada bab-bab berikutnya, pembahasan akan membedah secara sistematis proses ameliorasi (peningkatan nilai rasa kata) dan pejorasi (penurunan nilai rasa kata), disertai analisis historis, etimologis, dan sosiolinguistis yang menyertainya.
+Dari kata-kata yang kamu pakai setiap hari, mana yang sedang naik nilai rasanya, dan mana yang perlahan turun?
 
 
 <!-- Chapter: 02_konsep-dasar-ameliorasi -->
@@ -1782,7 +1782,7 @@ Dalam komunikasi organisasi dan ruang publik, kepekaan terhadap pergeseran nilai
 
 #### Skenario Pemilihan Diksi Manajerial
 
-Perhatikan perbedaan dampak psikologis dan sosial dari dua rumusan pengumuman internal perusahaan:
+Bandingkan dampak psikologis dan sosial dari dua rumusan pengumuman internal perusahaan berikut:
 
 * **Pendekatan Kasar (Pejoratif):**  
   *"Perusahaan memutuskan untuk memecat sejumlah pembantu operasional gudang."*  
@@ -2067,7 +2067,7 @@ flowchart LR
 
 Otak manusia menghemat energi kognitif melalui pembentukan **skema**, yaitu jalan pintas mental untuk mengorganisasikan dan menginterpretasikan informasi dunia sekitar. Begitu sebuah kata terpatri ke dalam skema negatif, pemaknaan netralnya menjadi sulit dipulihkan.
 
-Perhatikan perbandingan persepsi antara sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
+Bandingkan sebutan *koruptor* dan *maling*. Sebutan *koruptor* kerap dipersepsikan lebih berjarak dan abstrak secara psikologis dibandingkan kata *maling*, kendati substansi tindakannya sama-sama merupakan pencurian hak orang lain.
 
 Hal tersebut terjadi karena skema mental mengaitkan *koruptor* dengan figur berdasi, birokrasi, dan ruang kantor, sementara *maling* langsung mengaktifkan skema kejahatan jalanan. Pergeseran makna di sini sangat dipengaruhi oleh **persepsi visual** dan **hierarki status sosial** yang tersimpan di dalam memori jangka panjang.
 
@@ -2100,7 +2100,7 @@ Bias kognitif ini menjelaskan mengapa proses **pejorasi** kerap berlangsung lebi
 
 > **Poin Kunci:** Perubahan makna kata merupakan cerminan nyata dari evolusi empati, persepsi sosial, dan nilai peradaban manusia. Memahami dinamika psikologis di balik bahasa melatih kepekaan dalam memilih tuturan yang membangun martabat bersama.
 
-*Refleksi: Perhatikan bagaimana sebuah kata yang pada masa lalu dianggap bergengsi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*
+*Refleksi: Coba ingat sebuah kata yang pada masa lalu dianggap bergengsi, tetapi kini bergeser menjadi berkonotasi canggung atau klise. Pergeseran tersebut mencerminkan adaptasi skema psikologis dan dinamika norma sosial yang terus bergerak.*
 
 
 <!-- Chapter: 10_analisis-diakronis -->
@@ -2264,7 +2264,7 @@ Ketika seorang penutur menggunakan kosakata yang telah mengalami pejorasi atas d
 Untuk merawat kesantunan dan mencegah friksi interaksi, beberapa prinsip praktis dapat diterapkan:
 
 1. **Peka Konteks Temporal:** Kosakata bersifat dinamis seiring waktu. Bentuk tuturan yang wajar beberapa dekade lalu mungkin telah memiliki bobot rasa yang berbeda pada masa kini.
-2. **Menghormati Pilihan Komunitas:** Perhatikan identifikasi diri yang dipilih oleh kelompok masyarakat tertentu. Adopsi istilah baru yang lebih bermartabat (ameliorasi) sebagai wujud penghormatan nyata.
+2. **Menghormati Pilihan Komunitas:** Hormati identifikasi diri yang dipilih oleh kelompok masyarakat tertentu. Adopsi istilah baru yang lebih bermartabat (ameliorasi) sebagai wujud penghormatan nyata.
 3. **Menghindari Egosentrisme Linguistik:** Argumen bahwa suatu kata memiliki makna historis yang berbeda tidak dapat membenarkan penggunaannya apabila kata tersebut kini merendahkan martabat orang lain.
 4. **Menerapkan Prinsip Humanisme:** Kosakata yang telah bergeser ke ranah pejoratif dan merendahkan harkat kemanusiaan perlu ditinggalkan dari pergaulan sehari-hari.
 
@@ -2422,8 +2422,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2748,7 +2748,7 @@ Respons koefisien angkat $C_L$ terhadap perubahan sudut serang $\alpha$ memiliki
 
 ### 5. Gaya Angkat Sebuah Drone
 
-Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), perhatikan data parameter berikut:
+Sebagai contoh praktis perancangan kendaraan udara nirawak (*drone*), tinjau data parameter berikut:
 
 - Luas sayap ($S$) = $0{,}5\text{ m}^2$
 - Kecepatan jelajah ($v$) = $20\text{ m/s}$
@@ -3151,7 +3151,7 @@ Sebaliknya, pesawat tempur dirancang dengan $\text{AR}$ rendah (berkisar antara 
 
 ### Contoh Perhitungan Komparatif
 
-Perhatikan dua konfigurasi sayap dengan luas referensi yang identik ($S = 100\text{ m}^2$):
+Bandingkan dua konfigurasi sayap dengan luas referensi yang identik ($S = 100\text{ m}^2$):
 
 1. **Konfigurasi A (Bentang Pendek / Kord Lebar):** Rentang sayap $b = 20\text{ m}$.
    $$\text{AR}_A = \frac{20^2}{100} = 4$$
@@ -4014,8 +4014,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4504,7 +4504,7 @@ Setiap orang memiliki bias pribadinya masing-masing. Jika kamu menyadari kecende
 
 Seringkali eksesi muncul akibat godaan kesenangan sesaat. Biasakan berhenti sejenak sebelum bertindak dan pertanyakan pada diri sendiri apakah tindakan tersebut benar-benar tepat, atau hanya dorongan impulsif belaka.
 
-Selain itu, amati orang-orang bijak di sekitarmu. Perhatikan bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
+Selain itu, amati orang-orang bijak di sekitarmu. Lihat bagaimana orang-orang yang kamu anggap berintegritas bereaksi saat menghadapi situasi sulit. Meniru teladan yang baik adalah langkah yang paling efektif untuk mempelajari titik keseimbangan ini.
 
 Doktrin Jalan Tengah bukan berarti bersikap tanpa pendirian atau suam-suam kuku. Justru, hal ini sangat menekankan pada ketepatan tindakan. Seperti seorang pemanah, hanya ada satu titik sasaran yang tepat di tengah sekian banyak kemungkinan untuk meleset.
 
@@ -4972,8 +4972,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5693,8 +5693,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -6847,7 +6847,7 @@ Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan b
 1. **Cari Satu Berita:** Pilih berita yang sangat kamu setujui (politik, sosial, atau teknologi).
 2. **Lakukan Pencarian Terbalik:** Cari artikel dari sumber kredibel yang memiliki argumen 180 derajat berbeda dengan kamu.
 3. **Tuliskan Tiga Poin Kuat Mereka:** Tanpa membela diri, tuliskan tiga alasan mengapa argumen lawan tersebut masuk akal secara logika.
-4. **Rasakan Sensasinya:** Perhatikan rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu adalah tanda System 2 kamu sedang bekerja keras melawan bias.
+4. **Rasakan Sensasinya:** Amati rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu adalah tanda System 2 kamu sedang bekerja keras melawan bias.
 
 ## Kesimpulan Mitigasi
 
@@ -6944,7 +6944,7 @@ Dunia tidak akan pernah berhenti mencoba membingungkan kamu dengan informasi yan
 
 Membangun objektivitas bukanlah tentang menjadi robot tanpa perasaan. Ini tentang menjadi manusia yang lebih bijaksana, yang mampu melihat indahnya spektrum warna dunia tanpa harus terbutakan oleh satu warna saja.
 
-**Langkah Terakhir Kamu:** Mulai hari ini, perhatikan setiap kali kamu merasa "paling benar". Jadikan perasaan itu sebagai alarm untuk berhenti sejenak, menarik napas, dan bertanya: *"Apa yang mungkin saya lewatkan?"*
+**Langkah Terakhir Kamu:** Mulai hari ini, sadari setiap kali kamu merasa "paling benar". Jadikan perasaan itu sebagai alarm untuk berhenti sejenak, menarik napas, dan bertanya: *"Apa yang mungkin saya lewatkan?"*
 
 > **Pesan Penutup:** Perjalanan mengenal cognitive bias adalah perjalanan seumur hidup. Teruslah membaca, teruslah bertanya, dan yang terpenting, teruslah meragukan kepastian-kepastian semu dalam pikiran kamu sendiri. Hanya dengan cara itulah, kamu bisa melihat dunia sebagaimana adanya, bukan sebagaimana yang kamu inginkan.
 
@@ -6960,8 +6960,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7143,7 +7143,7 @@ Meski industri kini telah dimanjakan oleh resolusi 4K dan teknologi CGI, fondasi
 
 ## Ringkasan Teknis Era 1960-an
 
-Untuk memahami skala evolusi ini, perhatikan perbandingan sederhana berikut:
+Untuk memahami skala evolusi ini, lihat perbandingan sederhana berikut:
 
 | Aspek | Era 1960-an | Era Modern (Sebagai Perbandingan) |
 | --- | --- | --- |
@@ -7463,7 +7463,7 @@ Untuk menghasilkan tampilan kulit yang cerah (*glowing*) khas aktor Korea, kamu 
 
 Transformasi standar estetika ini secara langsung mengangkat posisi Korea Selatan sebagai salah satu kiblat fesyen dan kecantikan global. Di sektor pariwisata, lokasi syuting yang ikonik seperti Pulau Jeju atau Namsan Tower menjelma menjadi destinasi liburan yang wajib dikunjungi. Sementara itu dalam hal ekspor budaya, berbagai negara mulai mengadopsi gaya produksi drama Korea yang mengutamakan kualitas visual yang memikat dan kehalusan emosi dalam bercerita.
 
-Poin menariknya adalah modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
+Modernisasi narasi ini membuktikan bahwa genre yang sering dianggap ringan seperti *romantic comedy* mampu disajikan dengan kualitas produksi setara film *blockbuster*. Keunggulan estetika inilah yang membuat drama Korea mudah diterima oleh penonton dari berbagai latar belakang sosial di seluruh dunia.
 
 ## Penutup
 
@@ -7911,8 +7911,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7946,7 +7946,7 @@ Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Se
 
 Ada temuan yang menohok soal ini. Sekelompok peneliti dari MIT (Vosoughi, Roy, dan Aral) mempelajari jutaan cuitan di sebuah platform media sosial dan membandingkan bagaimana berita benar dan berita bohong menyebar. Hasilnya dimuat di jurnal *Science* pada 2018.
 
-Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Menariknya, ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
+Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Hal ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
 
 > Bayangkan kebenaran itu seperti orang yang berjalan hati-hati sambil mengecek peta, sedangkan kabar bohong seperti orang yang berlari sambil berteriak. Yang berlari dan berteriak tentu lebih dulu sampai, dan lebih banyak kepala yang menoleh, walaupun arah larinya belum tentu benar.
 
@@ -7971,7 +7971,7 @@ Sebelum lanjut, kita samakan dulu bahasa. Tiga istilah ini sering dipakai bergan
 - **Misinformasi**: informasi salah yang disebarkan tanpa niat jahat. Orang yang membagikannya benar-benar mengira itu benar.
 - **Disinformasi**: informasi salah yang sengaja dibuat dan disebarkan untuk menipu, menggiring, atau mengambil keuntungan.
 
-Bedanya tipis tapi penting, terutama pada soal niat. Kita akan bedah ketiganya lebih dalam di bab berikutnya, jadi untuk sekarang cukup kenali garis besarnya dulu.
+Bedanya tipis tapi penting, terutama pada soal niat. Kita akan bedah ketiganya lebih dalam di bab 2, jadi untuk sekarang cukup kenali garis besarnya dulu.
 
 ### Apa yang akan kamu dapat dari buku ini
 
@@ -8062,7 +8062,7 @@ flowchart TD
     D --> E["Normalisasi: klaim terasa sudah umum diketahui"]
 ```
 
-Perhatikan bahwa mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
+Mutasi membuat pengecekan makin sulit: kamu bisa saja menemukan bahwa versi asli sudah dibantah, tapi versi yang tersebar sudah berubah bentuk. Karena itu memeriksa sumber pertama lebih berguna daripada menilai potongan yang sampai ke kamu. Membedakan tiga jenis, mengenali enam bentuk, dan memahami lima tahap ini memberi kamu satu hal: peta untuk bertanya di mana posisi sebuah pesan sebelum ikut menyebarkannya.
 
 ## Inti Pembahasan
 
@@ -8192,7 +8192,7 @@ Masalahnya, jalan pintas yang berguna untuk memilih warung juga dipakai untuk me
 
 Dari sekian banyak bias, satu ini adalah pemicu utama kenapa hoaks tertentu terasa begitu meyakinkan. **Bias konfirmasi** (dirangkum secara luas oleh **Nickerson**, 1998) adalah kecenderungan untuk mencari, menerima, dan mengingat informasi yang **mengonfirmasi keyakinan yang sudah kamu pegang**, sambil mengabaikan atau menolak yang bertentangan.
 
-Perhatikan pola ini dalam keseharian:
+Lihat pola ini dalam keseharian:
 
 - Kamu sudah tidak suka pada suatu tokoh. Lalu muncul kabar buruk soal dia. Kamu langsung percaya dan membagikannya, tanpa merasa perlu mengecek.
 - Kabar baik tentang tokoh yang sama? Kamu curiga, kamu cari cacatnya, kamu anggap pencitraan.
@@ -8211,7 +8211,7 @@ Hoaks memanfaatkan ini dengan **cerita yang dramatis dan gampang dibayangkan**. 
 
 Ada dua jalan pintas kembar yang bekerja di sini.
 
-**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas tuntas di bab berikutnya.
+**Heuristik keterkenalan** membuat sesuatu yang terasa **familiar** lebih dipercaya. Kalau kamu sudah beberapa kali melihat klaim yang sama berseliweran, ia mulai terasa benar hanya karena akrab, bukan karena terbukti. Ini adalah fondasi dari **efek kebenaran ilusi** yang akan kita bahas tuntas di bab 5.
 
 **Source heuristic** membuat kamu menilai kebenaran pesan dari **siapa yang tampak menyampaikannya**. Kalau sebuah kabar seolah datang dari lembaga resmi, dokter, atau media besar, kamu cenderung menurunkan kewaspadaan. Pembuat hoaks tahu ini. Maka mereka menempelkan logo kementerian, mencatut nama rumah sakit, atau membuat tangkapan layar yang meniru tampilan media terkenal. Yang dinilai bukan isi klaimnya, melainkan **kemasannya yang terlihat sah**.
 
@@ -8235,7 +8235,7 @@ Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak
 
 ### Kenapa ini penting untuk kamu sadari
 
-Perhatikan bahwa tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Bahkan orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
+Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Bahkan orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
 
 Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
 
@@ -8473,7 +8473,7 @@ Beranda media sosial kamu bukan urutan waktu apa adanya. Ia disusun oleh algorit
 - **Klik**: apakah kamu membuka, memperbesar, membaca.
 - **Interaksi**: suka, komentar, dan terutama **share**.
 
-Perhatikan bahwa tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi: konten yang memicu marah, takut, atau jijik justru unggul dalam semua metrik itu.
+Tidak ada satu pun metrik itu bernama "benar". Algoritma tidak punya cara menilai apakah sebuah klaim akurat. Ia hanya tahu apakah klaim itu menahan perhatian. Dan di sinilah masalahnya menyambung ke bab tentang emosi: konten yang memicu marah, takut, atau jijik justru unggul dalam semua metrik itu.
 
 > Sebuah kebohongan yang membuat orang berang akan dibagikan lebih cepat daripada sebuah koreksi yang membosankan. Algoritma membaca kemarahan itu sebagai "konten bagus", lalu menyodorkannya ke lebih banyak orang.
 
@@ -8573,7 +8573,7 @@ Dulu banyak yang khawatir soal **backfire effect**: gagasan bahwa mengoreksi key
 
 Kabar baiknya, bukti terbaru menunjukkan bahwa backfire effect **jarang terjadi** dan sulit direplikasi. Secara umum, koreksi tetap membantu: menyajikan fakta yang benar rata-rata membuat keyakinan pada info salah menurun, bukan naik (Lewandowsky dkk., 2020, dalam *The Debunking Handbook*). Artinya, ketakutan lama itu sendiri adalah semacam mitos yang perlu dikoreksi.
 
-Kesimpulan praktisnya jelas: **jangan takut mengoreksi**. Risiko bahwa koreksimu akan menjadi bumerang jauh lebih kecil daripada yang pernah dikhawatirkan. Yang perlu kamu perhatikan bukan apakah harus mengoreksi, tapi bagaimana caranya supaya koreksi itu benar-benar menempel.
+Kesimpulan praktisnya jelas: **jangan takut mengoreksi**. Risiko bahwa koreksimu akan menjadi bumerang jauh lebih kecil daripada yang pernah dikhawatirkan. Yang perlu kamu pikirkan bukan apakah harus mengoreksi, tapi bagaimana caranya supaya koreksi itu benar-benar menempel.
 
 ### Cara mengoreksi yang benar-benar menempel
 
@@ -8596,7 +8596,7 @@ Ringkasnya:
 
 ### Kenapa ini mengarah ke pencegahan
 
-Kalau kamu perhatikan, semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
+Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
 
 Justru karena itu, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
@@ -8699,7 +8699,7 @@ Di Indonesia ada organisasi masyarakat sipil dan redaksi media arus utama yang k
 
 #### 2. Reverse image search untuk foto
 
-Foto adalah bahan bakar hoaks paling ampuh karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu perhatikan tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
+Foto adalah bahan bakar hoaks paling ampuh karena terasa "bukti". Padahal foto gampang dicabut dari konteksnya: gambar bencana lima tahun lalu dipakai untuk kejadian hari ini, atau foto dari negara lain diklaim terjadi di kotamu. Unggah gambar ke mesin pencari gambar terbalik (reverse image search), lalu cermati tanggal kemunculan paling awal. Kalau foto "kejadian hari ini" ternyata sudah beredar bertahun-tahun lalu, atau muncul di konteks berbeda, kamu sudah menemukan jawabannya.
 
 #### 3. Verifikasi video dan klaim
 
@@ -8716,7 +8716,7 @@ Kalau sebuah video memicu emosi kuat tapi sumber aslinya kabur, itu justru alasa
 
 #### 4. Cek tautan dan domain
 
-Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Perhatikan alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
+Banyak hoaks disebar lewat situs yang menyamar jadi media resmi. Periksa alamat domainnya. Ejaan yang dipelesetkan, akhiran aneh, atau sub-domain panjang yang berpura-pura jadi merek terkenal adalah tanda bahaya. Tautan pemendek yang menyembunyikan alamat asli juga patut dicurigai.
 
 ### Dorongan akurasi untuk berhenti sejenak sebelum membagikan
 
@@ -8826,8 +8826,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -9801,7 +9801,7 @@ Di mana $A$ (Teknologi) dan $K$ (Modal) meningkat drastis akibat akumulasi laba 
 
 Dalam analisis ekonomi sejarah, kita melihat bagaimana ketiadaan pajak (pilar utama Laissez-faire) mempercepat akumulasi modal.
 
-Perhatikan sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
+Cermati sebuah ilustrasi hipotetis dengan angka rekaan: modal awal 100 dan laba 20% per tahun, dihitung selama 10 tahun. Dalam sistem laissez-faire, seluruh laba diinvestasikan kembali tanpa dipajaki. Dalam sistem intervensionis, laba dipotong pajak 35% sebelum sisanya diinvestasikan kembali. Modal setelah $t$ tahun ($M_t$) dihitung dari modal awal ($M_0$) dan laba tahunan ($g$), dengan $g$ dan pajak ditulis sebagai pecahan (misalnya 0,35 untuk 35%):
 
 <div>
 $$
@@ -10064,8 +10064,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10865,7 +10865,7 @@ Dalam hubungan **I-Thou**, alih-alih mencoba menguasai mereka, kita memilih memb
 
 Di era digital, konsep "Tatapan" dan "Neraka adalah orang lain" menjadi sangat relevan.
 
-Sebagai contoh, perhatikan dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
+Ambil contoh dinamika Instagram. Saat mengunggah foto, kamu sedang mencoba mengontrol bagaimana orang lain melihat dirimu dengan menciptakan representasi visual untuk dinilai. Konflik pun lahir saat kecemasan muncul ketika kamu terus-menerus menunggu jumlah tombol suka atau komentar sebagai bentuk pengakuan. Sisi buruknya, saat komentar negatif atau kesalahpahaman muncul, kamu merasa kebebasanmu untuk mendefinisikan diri sendiri telah dirampas oleh sudut pandang luar yang sempit.
 
 Untuk menghadapinya secara eksistensial, langkah awal yang bisa diambil adalah menyadari objektifikasi tersebut. Sadarilah bahwa profilmu hanyalah representasi objek, bukan dirimu yang sesungguhnya. Selanjutnya, mulailah membangun kehadiran autentik dengan mengalihkan energi dari pencarian pengakuan massa (I-It) menuju hubungan mendalam bersama segelintir orang yang menghargai subjektivitasmu (I-Thou).
 
@@ -10937,7 +10937,7 @@ Sebagai gantinya, tindakan eksistensial yang autentik menuntut Sinta untuk menya
 
 ### Ringkasan Strategi Menuju Autentisitas
 
-Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, perhatikan langkah-langkah berikut:
+Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, kamu bisa menempuh langkah-langkah berikut:
 
 1. **Pilah Konstruksi Sosial:** Mulailah mengidentifikasi nilai mana yang lahir dari keinginan murnimu dan mana yang sekadar naskah hafalan titipan masyarakat.
 2. **Tegaskan Agensimu:** Kamu adalah **Subjek** utama dalam hidupmu sendiri. Tolak menjadi objek pasif yang dinilai hanya berdasarkan standar atau tatapan orang lain.
@@ -11095,7 +11095,7 @@ Tanggung jawab kita adalah berjalan di atas tali tersebut dengan kepala tegak.
 
 ### Kesimpulan Akhir
 
-Hidup ini absurd, tidak memiliki manual instruksi, dan pasti akan berakhir. Namun, di situlah letak kemenangannya. Dengan menerima bahwa kita tidak memiliki esensi yang ditentukan sebelumnya, kita bebas untuk menjadi apa saja.
+Hidup ini absurd, tidak memiliki manual instruksi, dan pasti akan berakhir. Namun, kemenangan kita ada dalam keabsurdan itu. Dengan menerima bahwa kita tidak memiliki esensi yang ditentukan sebelumnya, kita bebas untuk menjadi apa saja.
 
 - **Hadapi kesunyian semesta:** Alih-alih takut pada keheningan dunia, isilah ruang kosong tersebut dengan tindakan dan suaramu sendiri.
 - **Jadikan kematian sebagai pengingat:** Kesadaran akan akhir kehidupan justru memicu kita untuk menjalani hari ini dengan lebih bermakna dan intens.
@@ -11140,8 +11140,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11707,7 +11707,7 @@ fn main() {
 
 > **Insight Memorable:** "File adalah modul, dan modul adalah unit organisasi. Rust menggunakan sistem file kamu sebagai peta untuk memahami bagaimana kode saling terhubung."
 
-Setelah memahami cara memindahkan modul ke file tunggal, bagaimana jika modul tersebut memiliki sub-modul di dalamnya? Bab berikutnya akan membahas penggunaan folder untuk organisasi kode yang lebih kompleks.
+Setelah memahami cara memindahkan modul ke file tunggal, bagaimana jika modul tersebut memiliki sub-modul di dalamnya?
 
 
 <!-- Chapter: 05_mengelola-kompleksitas-hierarki-modul-dengan-folder -->
@@ -11819,11 +11819,11 @@ pub mod compression; // Mencari file di media/image/compression.rs
 pub fn upload(name: &str) { ... }
 ```
 
-Kalau diperhatikan, struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Menariknya, sistem modul Rust mencerminkan struktur pohon ini secara identik.
+Kalau diperhatikan, struktur folder di komputermu sebenarnya membentuk pola sebuah "pohon" (tree). Sistem modul Rust mencerminkan struktur pohon ini secara identik.
 
 ### Pengembangan Game Engine
 
-Dalam pengembangan game, kerapian organisasi kode menjadi sangat krusial. Perhatikan bagaimana hierarki folder berikut mempermudah proses navigasi:
+Dalam pengembangan game, kerapian organisasi kode menjadi sangat krusial. Lihat bagaimana hierarki folder berikut mempermudah proses navigasi:
 
 ```text
 src/
@@ -11906,7 +11906,7 @@ Relative Path memulai pencarian dari module di mana kode tersebut ditulis. Path 
 
 1. Nama item atau module yang berada di tingkat yang sama.
 2. `self`: Merujuk ke module saat ini (mirip dengan `./` di terminal).
-3. `super`: Merujuk ke parent module (mirip dengan `../` di terminal).
+3. `super`: Merujuk ke parent module (seperti `../` di terminal).
 
 ### Menggunakan Nama Langsung
 
@@ -12035,7 +12035,7 @@ Dalam Rust, kata kunci `use` berfungsi seperti membuat "pintasan" atau "nama pan
 
 ## Path yang Terlalu Panjang
 
-Sebelum kita masuk ke solusi, mari kita lihat masalahnya. Perhatikan contoh struktur modul untuk sebuah restoran di bawah ini:
+Sebelum kita masuk ke solusi, mari kita lihat masalahnya. Ambil contoh struktur modul untuk sebuah restoran di bawah ini:
 
 ```rust
 mod front_of_house {
@@ -13015,8 +13015,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13161,7 +13161,7 @@ Metode melatih kecerdasan ini bisa disesuaikan dengan dominasi gaya belajar masi
 
 Bagi mereka yang auditori, rutinitas seperti berdebat, bergabung dalam diskusi panel, atau merangkum lisan isi *podcast* bisa sangat menajamkan insting bahasa. Sementara itu, pendekatan kinestetik dapat ditempuh melalui bermain peran (*role-playing*) dalam simulasi komunikasi yang sarat tekanan, seperti berlatih negosiasi gaji atau presentasi bisnis.
 
-Pada akhirnya, bahasa adalah jembatan paling kokoh untuk menghubungkan realitas batin dan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Menariknya, kecerdasan ini akan terus mekar sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.
+Pada akhirnya, bahasa adalah jembatan paling kokoh untuk menghubungkan realitas batin dan dunia luar. Mengolah kata berarti kita turut serta mengonstruksi pemahaman baru. Kecerdasan ini akan terus mekar sepanjang usia. Tiap kali kamu membaca satu istilah baru atau menuangkan isi kepala ke dalam jurnal, jejaring saraf bahasamu di otak sedang diperkokoh.
 
 
 <!-- Chapter: 03_kecerdasan-logis-matematis -->
@@ -13352,7 +13352,7 @@ Mereka juga sangat mengandalkan ingatan otot (*muscle memory*) untuk menyimpan p
 
 ## Fisika Gerakan Tubuh
 
-Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Perhatikan bagaimana seorang atlet lompat galah menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
+Secara mekanis, kecerdasan kinestetik memuat pemahaman intuitif terhadap fisika gerakan tubuh. Ambil contoh seorang atlet lompat galah yang menyesuaikan momentum lari dengan momentum lompatan. Secara matematis, ia sedang mengubah energi kinetik ($E\_k$) menjadi energi potensial gravitasi ($E\_p$).
 
 <div>
 $$
@@ -14065,7 +14065,7 @@ Sebelum memperbaiki sesuatu, kamu butuh peta. Mengidentifikasi kecerdasan domina
 
 ### 1\. Analisis "Kondisi Flow"
 
-Perhatikan betul saat-saat di mana kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
+Amati baik-baik saat-saat di mana kamu merasa kehilangan jejak waktu karena terlalu asyik dengan suatu aktivitas. Jika itu terjadi ketika berdebat atau merangkai kata, kamu mungkin sangat kuat di **Linguistik**. Namun, apabila momen tersebut muncul saat memecahkan teka-teki logika atau menyusun data mentah menjadi pola yang terbaca, besar kemungkinan kamu dominan di **Logis-Matematis**.
 
 ### 2\. Inventarisasi Jejak Masa Lalu
 
@@ -14165,8 +14165,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14768,7 +14768,7 @@ Ada garis tipis antara membantu konsumen menemukan apa yang mereka butuhkan dan 
 Untuk benar-benar memahami ini, cobalah eksperimen kecil:
 
 1. Buka satu situs belanja (misalnya, peralatan dapur yang mahal) dan masukkan ke keranjang tanpa membayar.
-2. Perhatikan bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
+2. Amati bagaimana iklan di media sosial kamu berubah dalam 24 jam ke depan.
 3. Identifikasi bias kognitif mana yang sedang mereka coba picu pada kamu: Apakah itu **Kelangkaan**? **Validasi Sosial**? atau **Paparan Semata**?
 
 Dengan memahami mekanisme psikologis di balik layar, kita tidak hanya menjadi pemasar yang lebih cerdas, tetapi juga konsumen yang lebih sadar akan keputusan kita sendiri.
@@ -14934,7 +14934,7 @@ Ini adalah fitur di mana pengiklan bisa mengunggah data mereka sendiri (seperti 
 
 Ini adalah "senjata rahasia" Meta. Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memiliki karakteristik perilaku yang sangat mirip dengan pelanggan terbaikmu.
 
-> **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling mirip dengan 1.000 pembeli tersebut dalam hal perilaku digital.
+> **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling serupa dengan 1.000 pembeli tersebut dalam hal perilaku digital.
 
 ### 2. Graf Minat TikTok
 
@@ -15232,8 +15232,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15311,7 +15311,7 @@ Menurut para ahli, fokus studi ini terbagi menjadi tiga tingkatan utama:
 
 ## 5. Apa yang Bukan Psikologi Positif
 
-Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Untuk meluruskannya, mari kita perhatikan batasan-batasan berikut:
+Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Batasan-batasan berikut meluruskannya:
 
 - **Bukan *Toxic Positivity*:** Pendekatan ini tidak meminta kamu untuk memaksakan senyum saat berduka atau menekan perasaan sedih. Emosi negatif seperti marah, takut, dan kecewa adalah respons manusiawi yang wajar dan penting untuk diproses.
 - **Berbeda dari Motivasi Instan:** Sebagai cabang ilmu ilmiah, seluruh teori di dalamnya didasarkan pada eksperimen, analisis statistik, dan penelitian empiris, bukan kalimat motivasi tanpa landasan ilmiah.
@@ -15586,7 +15586,7 @@ Bayangkan sebuah pohon. **Kebajikan (Virtues)** adalah akar dan batang utamanya,
 ### Perbedaan Kekuatan vs. Bakat
 
 - **Bakat (Talents)** biasanya bersifat bawaan sejak lahir dan bekerja secara otomatis, seperti kemampuan mendengar nada dengan presisi (*perfect pitch*) atau kecepatan berlari alami.
-- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Menariknya, kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
+- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
 
 ## 2. Klasifikasi VIA
 
@@ -15795,7 +15795,7 @@ Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat
 
 Di industri rekayasa perangkat lunak, kondisi *flow* sering kali diidentikkan dengan istilah *deep work* atau *in the zone*. Para profesional di bidang teknologi kerap merancang pola kerja mereka secara khusus demi masuk ke zona ini.
 
-Sebagai gambaran, mari kita perhatikan skenario ketika seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
+Sebagai gambaran, bayangkan seorang *backend engineer* ditantang untuk merancang algoritma enkripsi data yang rumit. Ia memakai pengujian otomatis (*automated testing*) yang memeriksa dua syarat sekaligus: hasil enkripsinya harus aman, dan prosesnya harus selesai dalam waktu singkat, misalnya kurang dari 10 milidetik (angka ilustrasi). Begitu salah satu syarat tidak terpenuhi, ia langsung tahu letak kesalahannya. Umpan balik instan inilah yang menjaganya tetap berada di saluran *flow* tanpa terdistraksi oleh waktu tunggu yang lama.
 
 **Pola Kerja Pendukung di Tempat Kerja:**
 
@@ -15814,7 +15814,7 @@ Perlu diingat bahwa *flow* sangat berbeda dengan memaksakan diri bekerja hingga 
 
 ### Latihan Refleksi
 
-*Coba ambil secarik kertas dan buatlah daftar aktivitas yang pernah membuatmu lupa waktu. Perhatikan polanya:*
+*Coba ambil secarik kertas dan buatlah daftar aktivitas yang pernah membuatmu lupa waktu. Lalu cermati polanya:*
 
 1. *Apakah ada kesamaan tantangan di antara aktivitas tersebut?*
 2. *Bagaimana kamu bisa membawa elemen-elemen tersebut ke dalam pekerjaan atau studimu yang terasa membosankan saat ini?*
@@ -15898,7 +15898,7 @@ Di sebuah sekolah di Chicago, siswa yang tidak lulus mata pelajaran tertentu tid
 
 Mengubah pola pikir tidak terjadi dalam semalam. Berikut adalah langkah-langkah praktisnya:
 
-1. **Sadari dan Kenali Suara Fixed Mindset-mu:** Ketika menghadapi tantangan, perhatikan suara batin yang meragukanmu. Jika ia berbisik, *"Kamu tidak punya bakat untuk bidang ini,"* segera jawab dengan, *"Mungkin aku belum menguasainya sekarang, tapi aku bisa melatihnya secara bertahap."*
+1. **Sadari dan Kenali Suara Fixed Mindset-mu:** Ketika menghadapi tantangan, dengarkan suara batin yang meragukanmu. Jika ia berbisik, *"Kamu tidak punya bakat untuk bidang ini,"* segera jawab dengan, *"Mungkin aku belum menguasainya sekarang, tapi aku bisa melatihnya secara bertahap."*
 2. **Biasakan Menyisipkan Kata "Belum":** Saat merasa gagal dalam suatu hal, ubah cara bicaramu pada diri sendiri. Alih-alih mengeluh, *"Aku tidak bisa mempresentasikan ide di depan umum,"* katakanlah, *"Aku **belum** mahir berpresentasi di depan umum."* Penambahan kata kecil ini membuka ruang untuk belajar.
 3. **Apresiasi Proses, Bukan Hanya Hasil Akhir:** Latih dirimu untuk menghargai usaha dan strategi yang diambil. Saat memuji diri sendiri atau orang lain, jangan hanya fokus pada label kecerdasan seperti, *"Wah, kamu memang jenius!"* Sebaliknya, soroti usahanya: *"Hasil ini luar biasa karena kamu sudah mencoba berbagai pendekatan kreatif untuk menyelesaikannya."*
 4. **Sambut Kritik Konstruktif dengan Terbuka:** Pandanglah masukan dari orang lain sebagai data gratis yang membantumu berkembang lebih cepat, bukan sebagai serangan pribadi.
@@ -16514,8 +16514,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16551,7 +16551,7 @@ Karena itu, sebelum mengubah daftar follow atau kebiasaan like, tuliskan dulu pe
 | Memahami keamanan digital | Peringatan dari sumber primer, penjelasan dampaknya, langkah perlindungan yang bisa dijalankan | Tangkapan layar menakutkan yang tidak disertai tautan dan tanggal |
 | Mengikuti perkembangan perangkat lunak | Catatan rilis, cerita penerapan di proyek nyata, perubahan kompatibilitas | Perdebatan antarmerek yang tidak membantu keputusanmu |
 
-Perhatikan pola di kolom kanan. Yang perlu dibatasi bukan topiknya, melainkan bentuk bacaan yang tidak bisa kamu periksa atau tidak menolongmu mengambil keputusan. Kamu bisa menambah baris sendiri untuk kebutuhan lain, asalkan setiap baris berangkat dari pertanyaan yang benar-benar ingin kamu jawab.
+Lihat pola di kolom kanan. Yang perlu dibatasi bukan topiknya, melainkan bentuk bacaan yang tidak bisa kamu periksa atau tidak menolongmu mengambil keputusan. Kamu bisa menambah baris sendiri untuk kebutuhan lain, asalkan setiap baris berangkat dari pertanyaan yang benar-benar ingin kamu jawab.
 
 ### Memisahkan Belajar dan Bersantai
 
@@ -16600,7 +16600,7 @@ Mengapa kebanyakan orang hanya pernah membaca tab yang terbuka pertama kali di X
 
 ### Peta Lima Jalur Baca
 
-Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X dengan implementasi lama yang pernah dibuka ke publik, jadi perhatikan dari mana setiap klaim berasal.
+Tabel berikut merangkum setiap jalur. Kolom tengah memadukan dokumentasi resmi X dengan implementasi lama yang pernah dibuka ke publik, jadi cermati dari mana setiap klaim berasal.
 
 | Jalur | Cara kerjanya | Cocok saat |
 | --- | --- | --- |
@@ -16861,7 +16861,7 @@ SimClusters membaca minat dari komunitas. [Real Graph](https://github.com/twitte
 
 Riwayat interaksi itu digabung sebagai jumlah yang meluruh (decayed sum). Aktivitas lama tetap dihitung, tetapi bobotnya makin kecil seiring waktu, dan tidak lenyap begitu saja pada tanggal tertentu. Mirip pustakawan yang masih ingat kamu dulu rajin meminjam novel detektif, meski kini kamu lebih sering terlihat di rak sains.
 
-Konsekuensinya sederhana: perhatikan siapa yang kamu baca berulang kali, bukan hanya topiknya. Sebuah akun bisa sesekali membahas teknologi, tetapi lebih sering mengajak debat yang tidak kamu butuhkan. Kunjungan profil yang kamu lakukan diam-diam pun ikut menjadi bahan perkiraan.
+Konsekuensinya sederhana: amati siapa yang kamu baca berulang kali, bukan hanya topiknya. Sebuah akun bisa sesekali membahas teknologi, tetapi lebih sering mengajak debat yang tidak kamu butuhkan. Kunjungan profil yang kamu lakukan diam-diam pun ikut menjadi bahan perkiraan.
 
 ### Yang Berubah di Repositori Baru
 
@@ -16890,7 +16890,7 @@ Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu to
 
 Pada implementasi lama, yaitu repositori twitter/the-algorithm (pembaruan September 2025), ada [berkas kode yang mendaftar jenis respons yang diprediksi](https://github.com/twitter/the-algorithm/blob/main/home-mixer/server/src/main/scala/com/twitter/home_mixer/model/PredictedScoreFeature.scala). Isinya mencakup like, reply, repost, bookmark, share, dwell (lamanya kamu berhenti di sebuah post), beberapa jenis klik tertentu, tontonan video, dan umpan balik negatif. Report tidak termasuk dalam daftar utama itu.
 
-Perhatikan sudut pandangnya. Model tidak bertanya apakah post ini benar atau apakah post ini membantumu belajar. Pertanyaannya adalah seberapa mungkin kamu memberi respons tertentu terhadap kandidat ini. Semua angka sesudahnya berangkat dari pertanyaan tersebut.
+Cermati sudut pandangnya. Model tidak bertanya apakah post ini benar atau apakah post ini membantumu belajar. Pertanyaannya adalah seberapa mungkin kamu memberi respons tertentu terhadap kandidat ini. Semua angka sesudahnya berangkat dari pertanyaan tersebut.
 
 ### Rumus Sederhana Bagian Positif
 
@@ -17395,8 +17395,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17507,7 +17507,7 @@ Untuk memastikan pemahamanmu, mari kita tinjau kembali beberapa poin penting yan
 * **Peran Abstraksi**: Menyembunyikan kompleksitas perangkat keras fisik agar para pengembang aplikasi tidak perlu pusing memikirkan cara kerja perangkat keras secara mendetail.
 * **Isolasi Keamanan**: Pemisahan wilayah kerja user space dan kernel space mutlak diperlukan untuk mencegah kegagalan fatal pada sistem utama.
 
-Pada bab berikutnya, kita akan mendalami arsitektur monolitik (filosofi desain yang membuat Kernel Linux tetap efisien sekaligus fleksibel dalam perkembangannya).
+Lalu, apa yang membuat Kernel Linux tetap efisien sekaligus fleksibel seiring perkembangannya?
 
 
 <!-- Chapter: 02_struktur-monolitik-dan-filosofi-desain -->
@@ -17892,7 +17892,7 @@ Saat kapasitas RAM benar-benar habis dan sistem tidak lagi sanggup melakukan pag
 - **SLAB dan SLUB:** Bertindak sebagai manajer memori internal kernel yang mengalokasikan objek-objek kecil secara efisien tanpa memicu fragmentasi.
 - **Manajemen Memori:** Berperan menjaga keseimbangan dinamis antara performa kecepatan akses data dan pemanfaatan penyimpanan sekunder (*swap space*).
 
-Di bab berikutnya, kita akan mempelajari bagaimana aplikasi berinteraksi dengan kernel melalui **System Calls**.
+Lalu, lewat jalur apa sebuah aplikasi bisa berinteraksi dengan kernel?
 
 
 <!-- Chapter: 05_system-calls-antarmuka-user-kernel -->
@@ -19097,8 +19097,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19756,7 +19756,7 @@ Rencana yang matang belum tentu menjamin keberhasilan. Kamu juga harus rajin mem
 
 ### 2.1. Memantau Kemajuan
 
-Ketika sedang menerapkan suatu strategi, selalu perhatikan bagaimana caramu mengeksekusinya.
+Ketika sedang menerapkan suatu strategi, selalu cermati bagaimana caramu mengeksekusinya.
 
 - **Tanya pada diri sendiri:**
 	- "Apakah saya paham bagian ini?"
@@ -19856,7 +19856,7 @@ Di bidang sains, metakognisi membantu kita berpikir lebih terstruktur saat meran
 		- Buat daftar langkah kerjanya dan bayangkan seperti apa hasil akhirnya nanti.
 		- **Contoh di Biologi:** Saat ingin melihat pengaruh cahaya matahari pada tanaman, kamu mengatur supaya jumlah air, tanah, dan suhunya tetap sama, tapi menaruh tanaman di tempat yang terang dan gelap. Dari sini, kamu bisa menebak kalau tanaman di tempat terang bakal tumbuh lebih bagus.
 2. **Menganalisis dan Membaca Data:**
-	- Sambil mencatat hasil, perhatikan apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
+	- Sambil mencatat hasil, cermati apakah datanya sejalan dengan tebakan awalmu atau justru berantakan.
 		- "Apakah angka-angka ini masuk akal?" atau "Pola apa yang kelihatan dari tabel ini?".
 		- *Coba pikirkan:* Bisakah temuan ini digabungkan dengan materi yang sudah pernah dipelajari sebelumnya?
 		- **Contoh di Fisika:** Waktu menghitung percepatan gravitasi ($g$), kamu terus melihat hasil pengukuran tiap pantulan benda. Kalau ada satu angka $g$ yang melenceng jauh dari rata-rata, kamu pasti langsung curiga ada pengukur waktu yang salah tekan atau alatnya kurang pas.
@@ -20206,8 +20206,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20684,7 +20684,7 @@ Setelah pasien teranestesi dengan stabil, tim bedah akan mengatur posisi pasien 
 
 Inilah inti dari prosedur ini. Amandel terletak di dalam "kantong" yang disebut kapsul tonsil.
 
-Dokter bedah akan memegang tonsil menggunakan klem, menariknya perlahan ke arah tengah, lalu memisahkannya dari jaringan otot di bawahnya dengan mengikuti garis kapsul tonsil. Proses ini membutuhkan ketelitian tinggi agar tonsil terangkat utuh tanpa mencederai otot tenggorokan yang berfungsi untuk menelan.
+Dokter bedah akan memegang tonsil menggunakan klem, menarik tonsil itu perlahan ke arah tengah, lalu memisahkannya dari jaringan otot di bawahnya dengan mengikuti garis kapsul tonsil. Proses ini membutuhkan ketelitian tinggi agar tonsil terangkat utuh tanpa mencederai otot tenggorokan yang berfungsi untuk menelan.
 
 Tonsilektomi sebenarnya adalah salah satu operasi tertua di dunia. Bedanya, teknologi medis saat ini memungkinkan penggunaan alat presisi tinggi untuk meminimalkan kerusakan jaringan.
 
@@ -21309,8 +21309,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21424,7 +21424,7 @@ Setiap bab ditutup dengan tindakan kecil untuk kamu coba minggu ini.
 
 **Apa yang dapat kamu lakukan hari ini?** Kenali sumber resmi di wilayah kamu, simpan dua saluran cadangan, hafalkan rute evakuasi terdekat, dan ajak satu anggota keluarga untuk gladi sepuluh menit.
 
-Dengan bekal ini, kamu punya peta jalan untuk menyelami anatomi ancaman di bab berikutnya, sehingga peringatan terasa konkret dan terhubung dengan keputusan kamu.
+Dengan bekal ini, kamu punya peta jalan yang membuat peringatan terasa konkret dan terhubung dengan keputusan kamu.
 
 
 <!-- Chapter: 02_konsep-dasar-ancaman-kerentanan-dan-risiko -->
@@ -21532,7 +21532,7 @@ Karena perbedaan kerentanan dan kapasitas. Kualitas bangunan, kepadatan, akses i
 **Bagaimana peringatan dini masuk dalam rumus?**
 Peringatan dini meningkatkan \\( \text{Kapasitas} \\). Dengan waktu tambahan beberapa menit hingga jam, kamu dapat mengurangi keterpaparan lewat evakuasi dan menurunkan kerentanan lewat tindakan antisipasi.
 
-Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko. Bab berikutnya membahas penerjemahan keempat pilar ini ke sistem peringatan dini operasional.
+Memahami logika ancaman kerentanan risiko bencana membantu kamu bergeser dari sikap reaktif menjadi proaktif membaca peta risiko.
 
 
 <!-- Chapter: 03_sejarah-dan-evolusi-early-warning-system -->
@@ -22266,8 +22266,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22390,7 +22390,7 @@ Selama pembaginya (kesadaran akan realitas sehari-hari) masih rendah, maka tingk
 
 ## 2. Karakteristik Utama Fase Bulan Madu
 
-Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam fase ini, perhatikan ciri-ciri berikut:
+Untuk mengenali apakah kamu atau seseorang yang kamu kenal sedang berada dalam fase ini, cermati ciri-ciri berikut:
 
 - **Euforia yang Tinggi:** Perasaan senang yang meluap-luap karena berhasil mencapai tujuan (misalnya, akhirnya bisa kuliah di luar negeri atau memulai karier internasional).
 - **Fokus pada Kesamaan:** Kamu cenderung mencari kesamaan antara budaya asal dan budaya baru untuk merasa terhubung, sambil merayakan perbedaan sebagai "hiburan".
@@ -23077,13 +23077,13 @@ Waktu adalah pesan non-verbal yang sangat kuat. Bagaimana kamu memperlakukan wak
 
 Bagaimana cara menerapkan pengetahuan ini secara praktis? Gunakan metode **"The Mirror and Observe" (Cermin dan Observasi)**:
 
-1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Perhatikan bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
+1. **Metode Observasi Diam:** Luangkan waktu 15 menit di kafe atau taman di negara baru. Jangan bermain ponsel. Amati bagaimana orang menyapa, berapa jarak antara mereka, dan seberapa banyak mereka menggerakkan tangan.
 2. **Mirroring (Penyelarasan):** Secara halus, tirulah bahasa tubuh lawan bicara kamu. Jika mereka berbicara dengan tenang dan tangan berada di bawah, jangan meledak-ledak dengan gerakan tangan yang lebar. Ini menciptakan rasa aman secara psikologis bagi penduduk lokal.
 3. **Verifikasi Verbal:** Jika kamu ragu, gunakan kalimat terbuka: *"Saya menyadari di sini orang-orang cenderung \[X\], apakah saya melakukannya dengan benar?"*
 
 > **Pesan Utama:** Integrasi tidak membuatmu kehilangan jati diri, melainkan memperkaya "perbendaharaan kata" tubuh kamu. Memahami komunikasi non-verbal akan mengubah kamu dari seorang "orang asing yang aneh" menjadi "orang asing yang peka dan menghormati".
 
-*Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba perhatikan satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*
+*Sudahkah kamu memperhatikan bagaimana cara orang-orang di sekitar kamu saat ini menggunakan tangan mereka saat berbicara? Coba amati satu hal kecil hari ini yang sebelumnya tidak pernah kamu sadari.*
 
 
 <!-- Chapter: 10_gegar-budaya-balik-reverse-culture-shock -->
@@ -23241,7 +23241,7 @@ Riset lebih dari sekadar membaca Wikipedia. Ini adalah tentang memahami "aturan 
 
 ### Metode Lima Indra untuk Riset
 
-1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Perhatikan bagaimana mereka berpakaian dan berinteraksi di ruang publik.
+1. **Penglihatan:** Tonton vlogs dari orang lokal (bukan hanya turis). Amati bagaimana mereka berpakaian dan berinteraksi di ruang publik.
 2. **Pendengaran:** Pelajari frasa kunci dalam bahasa lokal. Bukan hanya "Halo", tapi kalimat seperti *"Maaf, saya sedang belajar, bisa bicara lebih pelan?"*
 3. **Penciuman & Rasa:** Cari tahu bahan makanan apa yang dominan. Jika kamu terbiasa dengan sambal, dan tujuanmu adalah tempat yang minim bumbu pedas, siapkan mental (dan stok pribadi).
 4. **Sentuhan (Etika Fisik):** Riset tentang *personal space*. Apakah orang di sana bersalaman, membungkuk, atau berpelukan saat bertemu?
@@ -23402,7 +23402,7 @@ Seorang mahasiswa yang belajar di luar negeri mungkin merasa terisolasi karena g
 Berikut adalah langkah-langkah kinestetik yang bisa kamu lakukan sekarang juga untuk mengasah kecerdasan lintas budaya:
 
 1. **The "Why" Game:** Setiap kali kamu melihat perilaku lokal yang aneh bagi kamu, tanyakan "Kenapa?" sebanyak tiga kali secara mendalam sebelum menghakimi.
-2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Perhatikan bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.
+2. **Cultural Mirroring:** Amati orang yang paling sukses (baik lokal maupun pendatang) di lingkungan tersebut. Cermati bagaimana mereka mendengarkan, berbicara, dan menggunakan bahasa tubuh. Cobalah untuk meniru sedikit demi sedikit dalam situasi berisiko rendah.
 3. **Jurnal Refleksi:** Tuliskan satu kejadian budaya setiap hari yang membuat kamu bingung, dan tuliskan tiga kemungkinan penjelasan dari sudut pandang orang lokal.
 
 **Penting:** Kecerdasan Lintas Budaya bukanlah sebuah tujuan akhir, melainkan sebuah perjalanan. Setiap kali kamu berhasil menjembatani perbedaan, kamu tidak hanya menjadi lebih pintar secara budaya, tetapi kamu menjadi versi manusia yang lebih luas dan lebih bijaksana.
@@ -23445,8 +23445,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23618,7 +23618,7 @@ Saat pertama kali memetik gitar, sinapsis di area motorik otak kamu masih "longg
 
 ## 6\. Visualisasi Sederhana Jalur Saraf
 
-Untuk membantu pemahaman visual, perhatikan alur informasi berikut:
+Untuk membantu pemahaman visual, ikuti alur informasi berikut:
 
 1. **Input:** Mata melihat rumus matematika $a^2 + b^2 = c^2$.
 2. **Respon Neuron:** Neuron di korteks visual menangkap pola tersebut.
@@ -23849,7 +23849,7 @@ Setiap neuron baru menambah kapasitas "bandwidth" otak untuk menyerap informasi 
 Neurogenesis tidak hanya membuat kita cerdas, tetapi juga menjaga kesehatan mental kita. Hippocampus memiliki hubungan erat dengan sistem limbik, pusat kendali emosi.
 
 - **Resiliensi terhadap Stres:** Penelitian menunjukkan bahwa tingkat neurogenesis yang tinggi berkorelasi dengan kemampuan seseorang untuk pulih dari stres psikologis.
-- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis seringkali mengalami penyusutan volume hippocampus. Menariknya, obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
+- **Kaitan dengan Depresi:** Banyak ilmuwan menemukan bahwa penderita depresi klinis seringkali mengalami penyusutan volume hippocampus. Obat-obatan antidepresan dan aktivitas fisik bekerja (sebagian) dengan cara memicu kembali kelahiran neuron baru di area ini.
 
 *Indikator Regenerasi Otak: Sensasi pikiran yang terasa lebih jernih serta suasana hati yang membaik pasca mempelajari hal baru atau berolahraga merupakan indikasi fisik bahwa jaringan otak sedang melakukan regenerasi.*
 
@@ -24316,7 +24316,7 @@ Berikut contoh aturan sederhana untuk menentukan kapan sebuah kartu belajar perl
 
 ### Mengoptimalkan Sesi Belajar kamu
 
-Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, perhatikan elemen pendukung berikut:
+Untuk memastikan strategi di atas memicu neuroplastisitas yang maksimal, cermati elemen pendukung berikut:
 
 1. **Fokus Intens (Deep Work):** Tanpa atensi penuh, neuromodulator seperti asetilkolin tidak akan dilepaskan, dan perubahan fisik pada sinapsis tidak akan terjadi.
 2. **Kesalahan sebagai Sinyal:** Saat kamu melakukan kesalahan dalam *Active Recall*, otak kamu melepaskan epinefrin yang meningkatkan kewaspadaan. **Jangan frustrasi; kesalahan adalah katalisator biologis untuk perubahan saraf.**
@@ -24608,8 +24608,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24742,7 +24742,7 @@ Bagaimana wujud nyatanya?
 
 ### Perbandingan Kunci Ketiga Pendekatan
 
-Guna memudahkan kamu memetakan perbedaan ketiganya, perhatikan tabel perbandingan ringkas berikut:
+Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan ringkas berikut:
 
 | Aspek | Multidisciplinary | Interdisciplinary | Transdisciplinary |
 | --- | --- | --- | --- |
@@ -25622,8 +25622,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26808,8 +26808,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26888,7 +26888,7 @@ Prinsip-prinsip eksistensialisme menawarkan kerangka analisis yang tajam dalam m
 
 ### 7. Ketiadaan Cetak Biru sebagai Ruang Kedaulatan Diri
 
-Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri. Pembahasan pada bab berikutnya akan mengupas secara mendalam prinsip "Eksistensi Mendahului Esensi" sebagai tonggak utama pembentukan jati diri manusia.
+Eksistensialisme menolak pasivitas deterministik dan menempatkan tanggung jawab penciptaan makna secara utuh pada pundak manusia. Ketiadaan cetak biru bawaan bukan merupakan kehampaan pasif, melainkan ruang pembuktian kedaulatan diri.
 
 
 <!-- Chapter: 02_eksistensi-mendahului-esensi-menjadi-arsitek-bagi-diri-sendiri -->
@@ -27178,7 +27178,7 @@ Eksistensialisme tidak memandang kecemasan sebagai kondisi disfungsional yang ha
 
 ### 6. Memilih atau Melarikan Diri
 
-Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab berikutnya.
+Dalam pengambilan keputusan, komitmen eksistensial membedakan antara tindakan otentik dan pelarian iktikad buruk. Subjek lebih dulu menimbang setiap opsi yang terbuka di hadapannya, lalu tiba di titik ketika kehendaknya harus mengkristal menjadi satu pilihan. Di titik inilah *Angst* muncul. Jika subjek memilih, ia menegakkan tanggung jawab penuh atas konsekuensi pilihannya, dan itulah tindakan otentik. Jika ia menolak memilih, ia jatuh ke dalam modus pelarian dari tanggung jawab yang disebut iktikad buruk (*mauvaise foi* atau *bad faith*), konsep yang dibahas lebih dalam pada bab 6.
 
 Dua ujung dari momen memilih itu tergambar dalam percabangan berikut.
 
@@ -27717,8 +27717,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -28373,7 +28373,7 @@ Pemain A menang jika koin sama, Pemain B menang jika koin berbeda.
 | **Pemain A: Gambar** | (1, -1) | (-1, 1) |
 | **Pemain A: Angka** | (-1, 1) | (1, -1) |
 
-*Perhatikan bahwa dalam setiap sel, jumlahnya adalah $1 + (-1) = 0$.*
+*Dalam setiap sel, jumlahnya adalah $1 + (-1) = 0$.*
 
 ### Contoh Matriks Non-Zero-Sum (Kerja Sama Tim)
 
@@ -28971,7 +28971,7 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 *Hasilnya?* Keduanya cenderung memilih harga rendah (**Ekuilibrium Nash**) untuk melindungi diri agar tidak "dihancurkan" oleh lawan, meskipun jika mereka bekerja sama, mereka bisa mendapatkan hasil yang lebih baik.
 
-*Coba perhatikan: Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
+*Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
 
 ## 3. Seni Menentukan Harga lewat Mekanisme Lelang
 
@@ -29269,8 +29269,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30419,8 +30419,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31214,9 +31214,9 @@ Melindungi pemilik mobil atau motor dari kerugian akibat kecelakaan, hilang, dan
 **Hal yang perlu dicek sebelum membeli:**
 - Kalau mobil baru, biasanya lebih aman pakai all risk.
 - Sesuaikan dengan dana yang kamu punya.
-- Perhatikan area parkir dan rute harianmu. Kalau rawan banjir, tambah rider perluasan.
+- Amati area parkir dan rute harianmu. Kalau rawan banjir, tambah rider perluasan.
 - Cek ketersediaan bengkel rekanan yang bagus.
-- Perhatikan biaya risiko sendiri (deductible) yang harus dibayar per kejadian klaim.
+- Cermati biaya risiko sendiri (deductible) yang harus dibayar per kejadian klaim.
 
 ### 4. Asuransi Properti
 
@@ -31681,8 +31681,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32855,8 +32855,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32880,7 +32880,7 @@ Sebelum mempelajari tahapan-tahapan rumit dalam perkembangan anak, kenali dulu s
 
 ## 1\. Siapakah Jean Piaget? (Sang Ilmuwan Cilik yang Tekun)
 
-Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Menariknya, latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
+Jean Piaget (1896–1980) adalah seorang pemikir asal Swiss yang menunjukkan kecerdasan luar biasa sejak dini. Latar belakang pendidikannya bukanlah psikologi, melainkan **Biologi**.
 
 - **Awal yang Cemerlang:** Pada usia 10 tahun, Piaget menerbitkan artikel ilmiah pertamanya tentang burung pipit albino.
 - **Latar Belakang Biologi:** Ia meraih gelar doktor dalam bidang malakologi (studi tentang moluska/siput). Pengalaman ini sangat penting karena ia melihat bagaimana siput beradaptasi secara fisik dengan lingkungannya. Ia kemudian berpikir: *Bukankah pikiran manusia juga melakukan hal yang sama?*
@@ -33946,8 +33946,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34298,7 +34298,7 @@ Kondisi ini menegaskan adanya pola dominasi guru di dalam kelas. Siswa cenderung
 
 Untuk memahami bagaimana pertanyaan bekerja dalam mengendalikan topik, kamu dapat mempelajari struktur pertukaran dialog di kelas. Pertukaran ini umumnya mengikuti alur *Pemulai* (Inisiasi oleh Guru), *Respons* (Jawaban Siswa), dan *Komen* (Umpan Balik atau Penguatan oleh Guru).
 
-Perhatikan contoh transkripsi wacana kelas berikut yang membahas topik alat komunikasi (Teks 11):
+Cermati contoh transkripsi wacana kelas berikut yang membahas topik alat komunikasi (Teks 11):
 
 | Pertukaran | Gerakan | Pemeran | Penutur | Ujaran / Transkrip Interaksi | Fungsi Wacana |
 | :---: | :---: | :---: | :---: | :--- | :--- |
@@ -34361,7 +34361,7 @@ Tabel berikut menggambarkan distribusi dan pola inisiatif pembukaan topik oleh s
 
 Ketika siswa berinisiatif membuka topik baru, mereka sering kali harus mengulang kata sapaan berkali-kali agar didengar atau direspons oleh guru. Hal ini terjadi karena perhatian guru terbagi atau guru sengaja mempertahankan jalannya alur utama pembelajaran.
 
-Perhatikan petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
+Lihat petikan interaksi pada pementasan naskah drama (Teks 9) berikut:
 
 * **S1**: "Pak, boleh liat?"
 * **Guru**: "Ga boleh liat."
@@ -34375,7 +34375,7 @@ Pada contoh di atas, siswa S2 perlu memanggil *"Pak, pak, bapak"* hingga tiga ka
 
 Tidak semua inisiatif topik yang dibuka oleh siswa mendapatkan tanggapan dari guru. Ada kalanya pertanyaan siswa disambut dengan sikap diam atau pengabaian, yang semakin mempertegas posisi guru sebagai pemegang kendali mutlak wacana.
 
-Sebagai gambaran, perhatikan potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
+Sebagai gambaran, amati potongan wacana pada kegiatan menulis (Teks 7) di bawah ini:
 
 * **S13**: "Ibu, ibu, judulnya boleh sama bu?"
 * **Guru**: "Iya, boleh sama. Paling sedikit satu paragraf itu empat sampai lima."
@@ -34449,7 +34449,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
 
 Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan tidak terjadi dorongan ujaran massal yang saling bertabrakan.
 
-Mari perhatikan contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
+Mari cermati contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |
@@ -34570,7 +34570,7 @@ Penggunaan kata *baik* yang diulang mengisyaratkan kepada siswa bahwa fase instr
 Penggunaan kata *eh...* sering ditemui ketika guru menghentikan alur pembicaraan sejenak guna mengatur langkah pengajaran berikutnya.
 
 > **Kutipan Transkripsi Kelas:**  
-> **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu."  
+> **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu." <!-- voice-ok: verbatim classroom transcript, the teacher''s own words -->  
 > **Guru:** "Eh... membaca jangan asal dibaca. Selesai bacaan beres. Tetapi kalau kita membaca, harus ada yang kita pahami. Membaca itu untuk apa sih gunanya?"
 
 Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua hal:
@@ -34773,7 +34773,7 @@ Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan wacana kelas) 
 
 ### Ilustrasi Transkrip Percakapan dan Pembahasan
 
-Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, perhatikan contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
+Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, amati contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
 
 #### Penguatan Berupa Pujian Verbal
 
@@ -34923,8 +34923,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35870,8 +35870,8 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
 - [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
 - [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36517,8 +36517,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36804,7 +36804,7 @@ Pertama, cobalah merekam dirimu sendiri saat melakukan simulasi presentasi. Puta
 
 Kedua, lakukan latihan di depan cermin. Amati ekspresi wajahmu saat berbicara. Sering kali kita merasa sudah tersenyum ramah, padahal otot wajah masih tampak tegang.
 
-Ketiga, lakukan observasi aktif terhadap orang lain. Saat menghadiri rapat, amati rekan kerja yang pembicaraannya paling didengar. Perhatikan bagaimana mereka mengatur jeda suara dan menjaga posisi tubuh mereka tetap tenang saat berbicara.
+Ketiga, lakukan observasi aktif terhadap orang lain. Saat menghadiri rapat, amati rekan kerja yang pembicaraannya paling didengar. Cermati bagaimana mereka mengatur jeda suara dan menjaga posisi tubuh mereka tetap tenang saat berbicara.
 
 > **Pesan Penting:** Komunikasi yang efektif berakar pada keaslian diri. Saat kamu menyampaikan ide secara jujur, jelas, dan percaya diri, pesanmu akan memiliki daya pengaruh yang kuat tanpa perlu berpura-pura menjadi orang lain atau menggunakan taktik manipulatif.
 
@@ -36914,7 +36914,7 @@ Menyesuaikan diri bukan berarti kamu harus memalsukan kepribadian asli. Konsep i
 
 ## Skenario Kerja Sama Lintas Fungsi
 
-Mari kita perhatikan skenario berikut saat sebuah tim lintas fungsi (teknologi, desain, dan penjualan) merancang peluncuran produk baru:
+Mari kita lihat skenario berikut saat sebuah tim lintas fungsi (teknologi, desain, dan penjualan) merancang peluncuran produk baru:
 
 - **Tim Sales (Tipe D):** "Kita harus meluncurkan produk ini minggu depan agar tidak kehilangan momentum pasar dari kompetitor."
 - **Tim Design (Tipe I):** "Bagaimana kalau kita adakan acara peluncuran yang interaktif dengan mengundang beberapa kreator konten?"
@@ -37826,8 +37826,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38189,7 +38189,7 @@ Dalam eksperimen "Bobo Doll", anak-anak yang melihat orang dewasa memukul boneka
 
 Keyakinan ini dapat tumbuh melalui beberapa sumber:
 * **Pengalaman Keberhasilan (*Mastery Experiences*):** Kesuksesan di masa lalu membangun rasa percaya diri yang paling kuat.
-* **Pengalaman *Vicarious* (*Social Modeling*):** Melihat orang lain yang mirip dengan kita berhasil mencapai tujuannya.
+* **Pengalaman *Vicarious* (*Social Modeling*):** Melihat orang lain yang serupa dengan kita berhasil mencapai tujuannya.
 * **Persuasi Verbal:** Dorongan atau penyemangat dari orang sekitar.
 * **Keadaan Fisiologis dan Emosional:** Perasaan rileks cenderung meningkatkan keyakinan diri, sementara stres dapat menurunkannya.
 
@@ -38204,7 +38204,7 @@ Interaksi Tiga Arah: $B \leftrightarrow P \leftrightarrow E$
 * **P (*Person*):** Faktor kognitif (seperti harapan dan *self-efficacy*), afektif, dan biologis.
 * **E (*Environment*):** Faktor eksternal seperti konteks fisik dan sosial.
 
-Supaya hubungan timbal balik ketiga unsur ini lebih mudah kamu bayangkan, perhatikan gambaran interaksinya berikut.
+Supaya hubungan timbal balik ketiga unsur ini lebih mudah kamu bayangkan, lihat gambaran interaksinya berikut.
 
 ```mermaid
 flowchart LR
@@ -38784,8 +38784,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38961,7 +38961,7 @@ Reaksi ini terjadi ketika sistem saraf menilai bahwa melawan atau lari tidak mun
 
 ### 6. Presentasi Kerja Penting
 
-Mari kita perhatikan bagaimana sistem ini bekerja dalam situasi sehari-hari:
+Mari kita lihat bagaimana sistem ini bekerja dalam situasi sehari-hari:
 
 **Skenario:** Kamu berdiri di depan ruang rapat untuk membawakan presentasi penting.
 
@@ -39149,7 +39149,7 @@ flowchart TD
     Q -->|"sudah"| E["Selesai untuk awal latihan"]
 ```
 
-Cobalah perhatikan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
+Cobalah rasakan perbedaan suhu udara: terasa sejuk saat masuk melalui hidung dan hangat saat keluar melalui mulut. Detail kecil ini membantu memfokuskan pikiranmu pada momen saat ini.
 
 ## Mengatur Ulang Komputer (Reset)
 
@@ -39231,7 +39231,7 @@ Ini adalah teknik *grounding* yang sangat populer dan efektif karena melibatkan 
 Mari kita praktikkan langkah demi langkah:
 
 1. **5 Hal yang Dapat Kamu LIHAT**  
-   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Perhatikan detailnya: "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
+   Cari benda-benda di sekitarmu yang biasanya luput dari perhatian. Amati detailnya: "Saya melihat pola serat kayu pada meja ini," atau "Saya melihat pantulan cahaya di sudut jendela."
 2. **4 Hal yang Dapat Kamu SENTUH**  
    Rasakan tekstur benda di sekitarmu. Amati rasa kain baju yang kamu kenakan, dinginnya permukaan meja, atau kokohnya lantai di bawah telapak kaki. Fokus pada sensasi fisik: Apakah rasanya kasar, halus, hangat, atau dingin?
 3. **3 Suara yang Dapat Kamu DENGAR**  
@@ -39375,7 +39375,7 @@ Di sinilah proses evaluasi diri dimulai. Tantang pikiran kamu dengan pertanyaan 
 Ganti pikiran lama dengan perspektif yang lebih seimbang.  
 *Contoh:* "Revisi adalah bagian normal dari pekerjaan. Atasan meminta revisi agar hasilnya maksimal, bukan karena saya tidak kompeten."
 
-Perhatikan bahwa langkah D dan E kembali menyasar keyakinan di langkah B:
+Langkah D dan E kembali menyasar keyakinan di langkah B:
 
 ```mermaid
 flowchart TD
@@ -39990,8 +39990,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40059,7 +40059,7 @@ Dalam dunia digital, arsitektur pilihan disebut juga sebagai *Digital Nudging*. 
 
 #### Dialog Berhenti Berlangganan
 
-Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Perhatikan dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
+Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai arsitek pilihan, misalnya lewat bobot visual setiap pilihan. Lihat dialog yang muncul saat pengguna hendak berhenti berlangganan berikut, yang dirancang untuk menahan pelanggan (fokus pada retensi):
 
 > **Yakin ingin berhenti berlangganan?**
 >
@@ -40099,7 +40099,7 @@ Arsitek lift memahami bahwa manusia merasa cemas saat menunggu secara pasif. Den
 
 ## Mengamati Arsitektur Pilihan di Sekitar Kita
 
-Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah perhatikan bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
+Kita bisa melatih kepekaan terhadap arsitektur pilihan ini dalam keseharian. Saat sedang bekerja di kantor, bersantai di rumah, atau sekadar menavigasi menu di ponsel, cobalah amati bagaimana tata letak objek atau antarmuka aplikasi didesain. Sering kali, posisi tombol atau penempatan barang dirancang secara sengaja untuk mengarahkan langkah kita berikutnya.
 
 > **Poin Penting:** Arsitektur pilihan berfokus pada memandu tindakan manusia tanpa menghilangkan kebebasan mereka. Di pembahasan berikutnya, kita akan mempelajari motor penggerak utama di balik perilaku ini, yaitu **Dual Process Theory**.
 
@@ -40669,7 +40669,7 @@ Banyak orang kebingungan mengambil keputusan karena tidak bisa memprediksi seber
 
 ### Dashboard Kendaraan Listrik
 
-Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Perhatikan bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
+Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Lihat bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
 
 - **Data Mentah:** Indikator menuliskan "Baterai sisa 15%". Pengemudi sering kali bingung apakah energi ini cukup untuk sampai ke tujuan.
 - **Mapping yang Baik:** Layar menunjukkan "Baterai cukup untuk 42 km lagi, sementara stasiun pengisian terdekat berjarak 12 km."
@@ -40893,7 +40893,7 @@ Tujuanmu adalah membuat pengemudi berkendara lebih hemat energi. Jika kamu hanya
 
 ## 6. Mengamati Sekitar
 
-Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Perhatikan bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
+Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Lihat bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
 
 > **Pesan Utama:** Jika kamu ingin mempermudah suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
 
@@ -41233,8 +41233,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41310,7 +41310,7 @@ Terkadang kita dihadapkan pada pilihan yang sangat bertolak belakang. Matriks ke
 
 ## Memilih Lokasi Kantor Baru
 
-Mari kita perhatikan bagaimana matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusahaan rintisan (startup) sedang mengevaluasi tiga lokasi calon kantor baru:
+Begini cara matriks keputusan bekerja dalam skenario bisnis nyata. Sebuah perusahaan rintisan (startup) sedang mengevaluasi tiga lokasi calon kantor baru:
 
 - **Alternatif Pilihan:** Kawasan Sudirman (pusat kota yang strategis), BSD (wilayah satelit berkembang), atau menyewa ruang kerja bersama (*co-working space*).
 - **Kriteria Penilaian:** Biaya sewa bulanan, kemudahan akses transportasi publik bagi karyawan, dan kelengkapan fasilitas penunjang operasional.
@@ -41326,7 +41326,7 @@ Berikut adalah tampilan sederhana dari apa yang akan kamu pelajari di bagian-bag
 | Opsi A | 4 | 2 | $(4 \times 5) + (2 \times 3) = 26$ |
 | Opsi B | 3 | 5 | $(3 \times 5) + (5 \times 3) = 30$ |
 
-*Perhatikan bagaimana Opsi B menjadi pemenang meskipun skornya lebih rendah pada Kriteria 1. Hal ini terjadi karena Opsi B unggul jauh di Kriteria 2, menunjukkan pentingnya melihat nilai keseluruhan secara seimbang.*
+*Opsi B menjadi pemenang meskipun skornya lebih rendah pada Kriteria 1. Hal ini terjadi karena Opsi B unggul jauh di Kriteria 2, menunjukkan pentingnya melihat nilai keseluruhan secara seimbang.*
 
 ## Kesimpulan Awal
 
@@ -41418,7 +41418,7 @@ Untuk memudahkanmu mengingat, berikut adalah ringkasan manfaat matriks keputusan
 
 **Catatan Penting:** Matriks keputusan bukanlah pengganti pemikiran kritis, melainkan alat bantu untuk mempertajam analisis. Hasil akhir matriks tetap bergantung pada kejujuranmu dalam memberikan penilaian serta keakuratan kriteria yang ditentukan.
 
-Setelah memahami manfaatnya, mari kita bahas komponen utama yang menyusun matriks keputusan pada bab berikutnya agar kamu bisa langsung mulai menerapkannya.
+Setelah memahami manfaatnya, bagaimana kamu bisa langsung mulai menerapkannya?
 
 
 <!-- Chapter: 03_anatomi-dan-komponen-utama-membedah-struktur-matriks-keputusan -->
@@ -41525,7 +41525,7 @@ Agar semua komponen tadi terlihat bekerja bersama, berikut satu matriks yang sud
 | **Vendor B** | 6 | 9 | 7 | (6 × 0,4) + (9 × 0,4) + (7 × 0,2) = **7,4** |
 | **Vendor C** | 9 | 6 | 6 | (9 × 0,4) + (6 × 0,4) + (6 × 0,2) = **7,2** |
 
-Vendor A keluar sebagai pilihan teratas. Perhatikan Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
+Vendor A keluar sebagai pilihan teratas. Lihat Vendor C: skornya pada kriteria Harga paling tinggi (9), tetapi total skor berbobotnya justru paling rendah (7,2).
 
 ### Ringkasan Komponen
 
@@ -42502,8 +42502,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42558,7 +42558,7 @@ Jika kita membandingkan data biografi asli Iwan Setyawan dengan representasi fik
 
 ### Merumuskan Arah Kajian
 
-Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini. Pada bab berikutnya, kita akan menyusun rumusan masalah, tujuan, dan manfaat penelitian secara terstruktur.
+Setelah meletakkan dasar teoritis mengenai kritik sastra ekspresif, kita membutuhkan rumusan yang lebih terarah untuk memandu analisis ini.
 
 
 <!-- Chapter: 02_rumusan-masalah-tujuan-dan-manfaat-analisis -->
@@ -42606,7 +42606,7 @@ Dalam memecahkan rumusan masalah penelitian ini, peneliti menyusun matriks opera
 
 ### Memasuki Ranah Struktural
 
-Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini. Mari kita beralih ke bab berikutnya untuk membahas teori strukturalisme dan bagaimana tema utama novel ini terbentuk.
+Dengan rumusan masalah dan tujuan yang telah terdefinisi secara jelas, langkah selanjutnya adalah membedah fondasi struktural novel ini.
 
 
 <!-- Chapter: 03_kajian-strukturalisme-dan-tema-novel-9-summers-10-autumns -->
@@ -42692,7 +42692,7 @@ flowchart LR
 
 ### Memahami Sang Pelaku Cerita
 
-Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita. Mari kita melangkah ke bab berikutnya untuk menganalisis tokoh utama dan bagaimana karakter mereka didefinisikan secara mendalam.
+Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita.
 
 
 <!-- Chapter: 05_tokoh-dan-penokohan-utama-dalam-novel-9-summers-10-autumns -->
@@ -42829,7 +42829,7 @@ Aspek sosial dalam novel ini menggambarkan transisi kelas sosial tokoh utama dar
 
 ### Kontras Spasial Batu vs New York
 
-Untuk memahami kontras spasial ini secara lebih terstruktur, perhatikan perbandingan matriks latar berikut yang memengaruhi kondisi kejiwaan tokoh utama:
+Untuk memahami kontras spasial ini secara lebih terstruktur, berikut perbandingan matriks latar yang memengaruhi kondisi kejiwaan tokoh utama:
 
 | Dimensi Latar | Kota Batu, Malang | New York City, AS |
 | :--- | :--- | :--- |
@@ -42846,7 +42846,7 @@ Kontras ini menjadi motor penggerak utama konflik batin tokoh Iwan. Keberadaanny
 
 ### Menuju Pilihan Kata dan Sudut Pandang
 
-Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas. Mari kita lanjutkan ke bab berikutnya untuk menganalisis sudut pandang dan gaya bahasa puitis yang digunakan penulis.
+Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas.
 
 
 <!-- Chapter: 08_sudut-pandang-gaya-bahasa-dan-amanat-novel-9-summers-10-autumns -->
@@ -42877,7 +42877,7 @@ Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi d
 
 ### Menghubungkan Karya dan Jiwa
 
-Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang. Bab berikutnya akan memulai pembahasan mendalam mengenai ekspresi batin Iwan Setyawan.
+Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang.
 
 
 <!-- Chapter: 09_kajian-ekspresif-ekspresi-pribadi-pengarang -->
@@ -42904,7 +42904,7 @@ Penyejajaran antara rekam jejak autobiografis Iwan Setyawan dan teks novel mempe
 
 ### Dari Emosi Pribadi ke Kekuatan Iman di Perantauan
 
-Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan. Di bab berikutnya, kita akan menelaah bagaimana nilai religi dan ketaatan kepada Tuhan terefleksikan secara mendalam dalam karya ini.
+Selain pergulatan emosional pribadi, keteguhan spiritual juga menjadi jangkar penting bagi pengarang dalam menghadapi badai kehidupan di perantauan.
 
 
 <!-- Chapter: 10_kajian-ekspresif-nilai-religi-dan-ketaatan-pada-tuhan -->
@@ -43149,8 +43149,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43840,7 +43840,7 @@ $$
 $$
 </div>
 
-Perhatikan angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tetap 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, tetap ada total 14 bola.*
+Lihat angka atas (14). Sebelum dan sesudah reaksi, jumlahnya tetap 14. *Analogi: Bayangkan terdapat 14 buah bola. Beberapa berwarna merah (proton) dan beberapa biru (neutron). Jika satu bola biru dicat menjadi merah, tetap ada total 14 bola.*
 
 ## 3. Kekekalan Momentum dan Energi
 
@@ -43905,7 +43905,7 @@ Reaktor nuklir menghasilkan aliran antineutrino yang sangat besar sebagai hasil 
 
 ## Contoh Soal Singkat
 
-Perhatikan reaksi berikut:
+Cermati reaksi berikut:
 
 <div>
 $$
@@ -44362,8 +44362,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44457,7 +44457,7 @@ Meskipun kontribusi prestasi olahraga $S$ tampak kecil dibandingkan dengan kekua
 
 ## Langkah Pembelajaran Selanjutnya
 
-Dalam bab-bab berikutnya, kita akan membedah bagaimana teori-teori ini terwujud dalam catatan sejarah. Kita akan melihat secara langsung bagaimana:
+Di bagian-bagian selanjutnya buku ini, kita akan membedah bagaimana teori-teori ini terwujud dalam catatan sejarah. Kita akan melihat secara langsung bagaimana:
 
 - Para diktator menggunakan sorak-sorai di stadion untuk meredam jeritan di penjara politik.
 - Benua yang terpinggirkan melakukan aksi boikot demi menuntut keadilan olahraga.
@@ -45080,8 +45080,6 @@ Secara garis besar, pergeseran politik ini melahirkan dua pola utama. Penyatuan 
 
 > "Sepak bola adalah kelanjutan dari politik dengan cara lain," sebuah adaptasi dari pemikiran Carl von Clausewitz yang sangat relevan untuk menggambarkan era ini.
 
-Setelah runtuhnya Tembok Berlin mengubah peta kekuatan di Eropa Timur, bab berikutnya akan mengulas konflik di wilayah lain, khususnya Timur Tengah, yang mendorong FIFA mengambil keputusan politik untuk mengasingkan satu negara dari konfederasinya sendiri.
-
 
 <!-- Chapter: 09_konflik-timur-tengah-dan-pengusiran-israel-dari-konfederasi-asia -->
 
@@ -45464,8 +45462,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46086,8 +46084,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46174,7 +46172,7 @@ Memahami struktur pasar bukan hanya teori akademis. Hal ini memiliki dampak lang
 2. **Inovasi:** Perusahaan dalam pasar oligopoli sering kali berinovasi lebih cepat untuk mengalahkan pesaing mereka.
 3. **Pilihan Konsumen:** Struktur pasar menentukan seberapa banyak variasi produk yang tersedia bagi kita.
 
-Sebagai contoh sehari-hari, coba perhatikan penyedia layanan internet di daerahmu. Berapa banyak pilihan yang kamu miliki? Berdasarkan jumlah penjualnya, kamu dapat mengidentifikasi struktur pasar yang sedang beroperasi di sana.
+Sebagai contoh sehari-hari, coba lihat penyedia layanan internet di daerahmu. Berapa banyak pilihan yang kamu miliki? Berdasarkan jumlah penjualnya, kamu dapat mengidentifikasi struktur pasar yang sedang beroperasi di sana.
 
 ## Klasifikasi pada Evolusi Industri Transportasi
 
@@ -46678,7 +46676,7 @@ Diferensiasi dapat terjadi melalui beberapa cara:
 - **Diferensiasi Layanan:** Restoran dengan pelayanan ramah dan cepat vs. restoran *self-service*.
 - **Diferensiasi Citra (Branding):** Menggunakan logo, selebriti, atau nilai tertentu (misalnya: produk ramah lingkungan).
 
-*Coba perhatikan: Apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
+*Coba tanyakan pada dirimu: apakah kamu membeli kopi di kafe tertentu karena rasa kopinya benar-benar berbeda, atau karena suasana tempatnya yang nyaman untuk bekerja?*
 
 ### Peran Utama Branding dan Iklan
 
@@ -47214,7 +47212,7 @@ Dalam kasus ini, pemerintah tidak membubarkan monopolinya, melainkan **meregulas
 
 ### Aktivitas Analisis Cepat
 
-Cobalah perhatikan lingkungan di sekitar kamu:
+Cobalah amati lingkungan di sekitar kamu:
 
 1. Sebutkan satu produk yang hanya disediakan oleh satu perusahaan di daerah kamu. Apakah itu termasuk monopoli alami atau monopoli karena hambatan buatan?
 2. Cari berita terbaru tentang "Putusan KPPU". Pelanggaran apa yang paling sering dilakukan oleh perusahaan di Indonesia belakangan ini?
@@ -47375,8 +47373,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47559,7 +47557,7 @@ Kesadaran adalah langkah pertama. Begitu kamu menyadari bahwa aplikasi-aplikasi 
 
 > "Teknologi adalah pelayan yang sangat baik, tetapi tuan yang sangat buruk."
 
-*Tugas refleksi:* Perhatikan perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
+*Tugas refleksi:* Amati perasaanmu saat membuka media sosial nanti. Apakah ada tujuan spesifik, atau jempolmu bergerak sendiri berburu dopamin?
 
 *Materi selanjutnya akan membahas cara membangun benteng pertahanan dari manipulasi perhatian menggunakan nilai-nilai hidup.*
 
@@ -47798,7 +47796,7 @@ Ketika kamu membutuhkan ponsel cerdas sebagai GPS di perjalanan (Nilai: Petualan
 
 ### 5. Latihan Refleksi
 
-*Coba perhatikan satu aplikasi yang paling sering kamu pakai untuk bekerja atau hobi. Tanyakan pada diri sendiri:*
+*Coba amati satu aplikasi yang paling sering kamu pakai untuk bekerja atau hobi. Tanyakan pada diri sendiri:*
 
 1. *Fitur apa yang benar-benar membantu mencapai tujuan saya?*
 2. *Fitur apa yang murni menjadi gangguan, misalnya feed berita di dalam aplikasi pencatatan?*
@@ -47891,7 +47889,7 @@ Cobalah tantangan kecil berikut sore ini:
 1. Tinggalkan ponselmu di laci.
 2. Pergilah ke luar rumah atau duduk di sudut ruangan yang tenang.
 3. Diamlah selama 10 menit. Jangan mencoba menjadi produktif atau bermeditasi secara formal. Biarkan pikiranmu berbicara.
-4. Perhatikan perasaanmu. Jika ada kegelisahan untuk meraih ponsel, itu menunjukkan seberapa besar ketergantunganmu pada input eksternal.
+4. Amati perasaanmu. Jika ada kegelisahan untuk meraih ponsel, itu menunjukkan seberapa besar ketergantunganmu pada input eksternal.
 
 
 <!-- Chapter: 07_membangun-rekreasi-berkualitas-tinggi-menemukan-ke -->
@@ -48257,8 +48255,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49048,8 +49046,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49583,7 +49581,7 @@ Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi us
 
 > **Pesan Memorable:** "Melihat relief Karmawibhangga bukan sekadar belajar tentang agama, tapi tentang mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian dalam harmoni dengan alam Jawa yang subur."
 
-*Coba perhatikan gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*
+*Coba amati gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*
 
 
 <!-- Chapter: 07_perilaku-buruk-dan-konsekuensi-penderitaan -->
@@ -49705,7 +49703,7 @@ Relief Karmawibhangga menyoroti tiga pilar utama yang dianggap sebagai "investas
 
 Ini adalah tema yang paling sering muncul. Dalam panel-panel ini, kamu akan melihat adegan orang-orang memberikan sedekah kepada para petapa, pengemis, atau membangun fasilitas umum.
 
-- **Visualisasi Relief:** Perhatikan panel yang menggambarkan seseorang memberikan wadah berisi makanan atau perhiasan. Biasanya, di sisi kanan panel tersebut, orang tersebut digambarkan kembali dalam posisi yang lebih sejahtera, berpakaian mewah, dikelilingi oleh pelayan, atau berada dalam rumah yang megah.
+- **Visualisasi Relief:** Lihat panel yang menggambarkan seseorang memberikan wadah berisi makanan atau perhiasan. Biasanya, di sisi kanan panel tersebut, orang tersebut digambarkan kembali dalam posisi yang lebih sejahtera, berpakaian mewah, dikelilingi oleh pelayan, atau berada dalam rumah yang megah.
 - **Buah Manis:** Kekayaan materi dan kecukupan di kehidupan saat ini atau mendatang.
 
 ### B. Kesabaran (Khanti)
@@ -49929,11 +49927,11 @@ Meskipun kita tidak lagi memahat relief di dinding batu, kita masih menggunakan 
 
 - **Merpati Putih:** Digunakan secara universal sebagai simbol perdamaian (mirip dengan fungsi burung dalam relief untuk menunjukkan kedamaian).
 - **Pohon Beringin:** Dalam konteks Indonesia, sering menjadi simbol pengayoman dan persatuan (sejajar dengan fungsi Kalpataru sebagai pemberi perlindungan).
-- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang sangat mirip dengan pesan di kaki Borobudur.
+- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang sangat serupa dengan pesan di kaki Borobudur.
 
 ## Latihan Refleksi
 
-Coba perhatikan lingkungan di sekitar kamu hari ini. Jika hidup kamu saat ini adalah sebuah panel relief Karmawibhangga, hewan atau tumbuhan apa yang paling cocok menggambarkan suasana hati atau tindakan kamu minggu ini? Apakah kamu sedang menjadi bunga teratai yang tenang, atau monyet yang gelisah?
+Coba amati lingkungan di sekitar kamu hari ini. Jika hidup kamu saat ini adalah sebuah panel relief Karmawibhangga, hewan atau tumbuhan apa yang paling cocok menggambarkan suasana hati atau tindakan kamu minggu ini? Apakah kamu sedang menjadi bunga teratai yang tenang, atau monyet yang gelisah?
 
 **Penting:** Memahami simbolisme flora dan fauna membantu kita menyadari bahwa setiap detail kecil dalam relief Karmawibhangga memiliki tujuan. Tidak ada pahatan yang sia-sia; setiap helai daun dan setiap kepakan sayap burung adalah bagian dari simfoni besar tentang hukum sebab-akibat.
 
@@ -50139,8 +50137,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50218,7 +50216,7 @@ Kemunculan Teori Modal Manusia memicu perubahan mendasar dalam tata kelola manaj
 
 ## Aplikasi Dunia Nyata dan Evaluasi Investasi
 
-Untuk melihat bagaimana kerangka ini bekerja, perhatikan analisis keputusan investasi pada level individu berikut.
+Untuk melihat bagaimana kerangka ini bekerja, cermati analisis keputusan investasi pada level individu berikut.
 
 ### Skenario Keputusan Karir
 
@@ -50252,7 +50250,7 @@ Setiap individu pada hakikatnya bertindak sebagai pengelola atas modal manusiany
 
 Jika kamu menganalogikan dirimu sebagai sebuah entitas usaha, berapa besar porsi investasi yang telah kamu alokasikan untuk meningkatkan kualitas aset utamamu (dirimu sendiri) sepanjang tahun ini?
 
-Pada bab berikutnya, kita akan membahas secara spesifik model teknis perhitungan imbal hasil pendidikan (*return to education*) dan penerapan **Mincer Earnings Function** dalam mengukur hubungan antara pendidikan, pengalaman kerja, dan tingkat pendapatan.
+Lalu, seberapa besar imbal hasil pendidikan (*return to education*) yang bisa kamu harapkan dari investasi itu?
 
 
 <!-- Chapter: 02_komponen-utama-investasi-modal-manusia -->
@@ -51616,8 +51614,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51737,7 +51735,7 @@ Memahami psikologi bencana merupakan langkah fundamental dalam mentransformasika
 
 Ketika keadaan darurat tiba-tiba terjadi di lingkungan sekitar, respons manusia umumnya terbagi ke dalam tiga pola utama: membeku di tempat (*freeze*), melarikan diri tanpa arah (*flee*), atau mengambil jeda sepersekian detik untuk menimbang keputusan evakuasi yang tepat (*rational appraisal*). Mengenali kecenderungan respons pribadi merupakan fondasi awal dalam melatih kesiapsiagaan kognitif.
 
-Pada bab berikutnya, pembahasan akan menelaah secara mendalam aspek **Neurobiologi Ketakutan**, menguraikan bagaimana amigdala, hormon stres, dan sirkuit saraf bekerja saat mode siaga darurat diaktifkan di dalam tubuh.
+Di antara ketiga pola itu, mana yang paling mungkin muncul pada dirimu saat keadaan darurat tiba?
 
 
 <!-- Chapter: 02_neurobiologi-ketakutan-dan-respons-panik -->
@@ -52294,7 +52292,7 @@ Dalam ranah taktis militer dan penanganan tanggap darurat, kerangka kerja yang s
 | **Decide** (Putuskan) | Memilih tindakan terbaik dari opsi yang tersedia secara rasional. | Apa langkah paling efektif yang harus dieksekusi detik ini? |
 | **Act** (Bertindak) | Mengimplementasikan keputusan secara terukur, tegas, dan konsisten. | *Eksekusi tindakan segera tanpa keraguan berlebih.* |
 
-Perhatikan bagaimana keempat tahap itu saling menyambung dan kembali ke awal pada gambar siklus berikut.
+Gambar siklus berikut menunjukkan bagaimana keempat tahap itu saling menyambung dan kembali ke awal.
 
 ```mermaid
 flowchart LR
@@ -52366,7 +52364,7 @@ Mari telaah penerapan prinsip-prinsip ini dalam simulasi kedaruratan di lantai 1
 Membangun kesiapan kognitif memerlukan latihan berkelanjutan sebelum krisis sesungguhnya terjadi:
 
 - **Simulasi Mental (The What-If Exercise):** Saat berada di fasilitas publik, luangkan waktu sejenak untuk memetakan skenario kedaruratan: *"Jika gempa bumi terjadi detik ini, apa tiga langkah pertama yang wajib diambil?"* Latihan mental ini membangun jalur saraf (*neural pathways*) yang mempercepat respons di masa mendatang.
-- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, perhatikan tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut, memulihkan kendali eksekutif atas respons panik.
+- **Dialog Internal Terstruktur (Authoritative Self-Talk):** Memberi instruksi pada diri sendiri menggunakan nama pribadi (contoh: *"Budi, kendalikan napas, lihat tanda keluar darurat, dan bergerak sekarang."*) membantu menciptakan jarak psikologis dari rasa takut, memulihkan kendali eksekutif atas respons panik.
 
 Dalam situasi kedaruratan, kesiapan kognitif untuk memproses informasi dan bertindak cepat merupakan pembeda utama antara kelumpuhan mental dan keselamatan.
 
@@ -52430,7 +52428,7 @@ Keberhasilan formula ini ditopang oleh tiga pilar komunikasi darurat (Prinsip 3C
 | :--- | :--- | :--- |
 | **Instruksi Jalur** | "Mohon perhatian, bagi siapa saja yang berada di dekat lobi, harap segera bergegas keluar karena ada potensi bahaya." | "Tinggalkan barang bawaan. Berjalan tenang menuju tangga darurat di sebelah kiri." |
 | **Larangan Lift** | "Sebaiknya kita tidak memakai elevator gedung demi alasan keselamatan bersama." | "Jangan gunakan lift. Ikuti tanda jalur hijau menuju pintu keluar." |
-| **Pengendalian Kecepatan** | "Jangan terlalu terburu-buru, jangan panik, perhatikan langkah masing-masing." | "Berjalan cepat dalam satu baris. Jangan berlari." |
+| **Pengendalian Kecepatan** | "Jangan terlalu terburu-buru, jangan panik, jaga langkah masing-masing." | "Berjalan cepat dalam satu baris. Jangan berlari." |
 
 ---
 
@@ -52497,7 +52495,7 @@ Oleh karena itu, prioritas taktis pertama seorang komunikator darurat bukanlah b
 
 ### 8. Analisis Penerapan dan Sintesis Taktis
 
-Sebagai sintesis pemahaman komunikasi darurat, perhatikan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
+Sebagai sintesis pemahaman komunikasi darurat, bayangkan skenario evakuasi banjir bandang mendadak di mana sistem kelistrikan padam total dan jendela waktu berbicara yang tersedia hanya lima detik sebelum sambungan terputus:
 
 > **"NAIK KE LANTAI TIGA SEKARANG!"**
 
@@ -52696,7 +52694,7 @@ Suara merupakan instrumen psikologis langsung dalam memodulasi aktivasi fisiolog
 * **Proyeksi Diafragma, Bukan Teriakan Melengking:** Teriakan bernada tinggi memicu resonansi kepanikan pada amigdala orang lain. Proyeksi vokal berbasis diafragma dengan nada rendah dan tegas memancarkan ketenangan.
 * **Sintaksis Direktif dan Singkat:** Menyampaikan instruksi dalam kalimat pendek berstruktur tegas.
 
-> *"Berhenti sejenak! Perhatikan instruksi. Kita bergerak teratur keluar melalui pintu darurat di sebelah kanan."*
+> *"Berhenti sejenak! Dengarkan instruksi. Kita bergerak teratur keluar melalui pintu darurat di sebelah kanan."*
 
 ---
 
@@ -52768,7 +52766,7 @@ flowchart TD
 
 **Protokol Implementasi Kepemimpinan Psikologis:**
 
-1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang: *"Semuanya, berhenti sejenak dan perhatikan arah tangga darurat!"*
+1. **Intervensi Vokal dan Visibilitas:** Mengambil posisi yang terlihat jelas oleh massa (misalnya menaiki anak tangga atau podium kecil) dan memberikan komando vokal yang lantang: *"Semuanya, berhenti sejenak dan lihat arah tangga darurat!"*
 2. **Pembentukan Fokus Kolektif:** Mengarahkan perhatian dari kepanikan asap menuju rute evakuasi yang jelas: *"Asap terlihat di lorong kiri, namun jalur tangga darurat sisi kanan aman untuk dilalui secara berurutan."*
 3. **Delegasi Terarah (*Instant Delegation*):**
    * Menugaskan individu yang berfisik prima untuk mengontrol pintu darurat agar tidak terjadi penumpukan massal.
@@ -52929,7 +52927,7 @@ Intervensi klinis mendesak wajib dicari apabila seorang penyintas atau individu 
 
 ## Resiliensi Komunitas dan Mitigasi Mental
 
-Perhatikan bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
+Coba amati bagaimana rumpun bambu merespons terpaan angin badai yang hebat. Berbeda dengan pohon besar berbatang kaku yang rentan tumbang saat akarnya tak lagi sanggup menahan beban momen lentur, bambu melengkung dinamis mengikuti arah terpaan angin. Rumpun bambu tidak patah karena memiliki fleksibilitas mekanis, dan yang paling krusial, jalinan perakarannya saling bertaut rapat di bawah tanah membentuk jaringan penyangga struktural yang kokoh.
 
 Prinsip bio-mekanis tersebut menjadi fondasi utama konsep **Resiliensi Komunitas**. Daya lenting kolektif tidak semata-mata bersandar pada ketahanan individual yang terisolasi, melainkan pada kapasitas sistem sosial untuk menjalin keterikatan psikologis dan struktural. Melalui jejaring ini, masyarakat tidak hanya sanggup bertahan di tengah hantaman krisis, tetapi juga memiliki kemampuan bangkit kembali (*bounce back*) dengan kapasitas adaptif yang jauh lebih kuat.
 
@@ -53254,8 +53252,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53437,7 +53435,7 @@ sequenceDiagram
     I->>B: 8. Ibu kembali untuk kedua kalinya
 ```
 
-Menariknya, indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
+Indikator terpenting bukanlah seberapa keras anak menangis saat ditinggal pergi, melainkan bagaimana perilakunya saat **reuni (bertemu kembali dengan ibu)**. Momen inilah yang menjadi kunci utama Ainsworth dalam menentukan kategori kelekatan.
 
 ## Tiga Klasifikasi Awal Ainsworth
 
@@ -53982,7 +53980,7 @@ Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial 
 
 ### Dari Persamaan Relasi ke Tindakan Nyata
 
-Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita perhatikan "persamaan" sederhana tentang kedalaman relasi berikut:
+Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita lihat "persamaan" sederhana tentang kedalaman relasi berikut:
 
 $$
 \\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
@@ -54028,7 +54026,7 @@ Dinamika yang paling umum dan merusak dalam hubungan romantis adalah siklus **Pe
 3. **Reaksi Si Menghindar (Deaktivasi):** Menghadapi desakan tersebut, Si Menghindar merasa sangat tertekan. Demi melindungi diri, ia mengaktifkan mode *flight* atau *freeze* dengan cara diam, meninggalkan ruangan, atau mematikan ponsel.
 4. **Eskalasi konflik:** Ketika Si Menghindar menarik diri, kepanikan Si Cemas justru berlipat ganda. Akibatnya, ia mengejar lebih keras, yang kemudian membuat Si Menghindar merasa harus bersembunyi lebih jauh lagi.
 
-Perhatikan pada bagan di bawah bagaimana langkah keempat kembali mendorong Si Menghindar menjauh, sehingga pola ini terus berputar.
+Bagan di bawah menunjukkan bagaimana langkah keempat kembali mendorong Si Menghindar menjauh, sehingga pola ini terus berputar.
 
 ```mermaid
 flowchart TD
@@ -54406,7 +54404,7 @@ Coba ingat kembali interaksi kamu dengan orang tua atau pengasuh utama saat seda
 
 ### B. Observasi Perilaku Dewasa (Buah)
 
-Perhatikan juga reaksi kamu dalam situasi intim saat ini:
+Amati juga reaksi kamu dalam situasi intim saat ini:
 
 * **Saat Konflik:** Apakah kamu ingin segera menyelesaikannya karena takut ditinggalkan, atau justru ingin menarik diri dan menyendiri?
 * **Saat Keintiman:** Apakah kamu merasa nyaman berbagi rahasia, atau justru merasa sesak ketika seseorang mencoba mendekat?
@@ -54581,7 +54579,7 @@ Karena gaya kelekatan berakar pada aspek neurobiologis, pemulihannya pun perlu m
 
 Salah satu cara meredakannya adalah dengan metode *grounding* 5-4-3-2-1 untuk mengembalikan kesadaranmu pada momen saat ini:
 
-- Cari dan perhatikan **5** benda konkret di sekitarmu.
+- Cari dan amati **5** benda konkret di sekitarmu.
 - Sentuh **4** permukaan dengan tekstur berbeda untuk merasakan sensasi fisiknya.
 - Dengarkan **3** jenis suara yang terdengar di sekelilingmu.
 - Hirup dan kenali **2** aroma berbeda di udara sekitar.
@@ -54783,8 +54781,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55817,8 +55815,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -56628,7 +56626,7 @@ Jika nilai *Wanting* jauh melampaui *Liking*, yang tersisa hanyalah **dorongan o
 
 ### 4. "Doomscrolling" Malam Hari
 
-Perhatikan skenario nyata berikut:
+Ikuti skenario nyata berikut:
 
 1. **Pukul 22.00:** Kamu membuka ponsel "hanya untuk 5 menit". (**Dopamin Fase Awal**)
 2. **Pukul 23.30:** Kamu menyadari sudah 1,5 jam melihat video pendek. Kamu merasa mata perih dan otak "kosong".
@@ -57143,8 +57141,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57626,7 +57624,7 @@ Untuk menjadi pendidik yang dinamis, kamu perlu menguasai tiga dimensi variasi:
 Ini adalah perubahan perilaku guru secara personal saat menyampaikan materi:
 
 - **Variasi Suara (Voice Modulation):** Jangan bicara seperti robot. Ubah nada, kecepatan, dan volume suara. Gunakan nada rendah untuk hal-hal serius dan nada tinggi yang bersemangat untuk memotivasi.
-- **Pemberian Fokus (Focusing):** Gunakan verbal seperti, "Perhatikan bagian ini!" atau isyarat seperti mengetuk papan tulis.
+- **Pemberian Fokus (Focusing):** Gunakan verbal seperti, "Lihat bagian ini!" atau isyarat seperti mengetuk papan tulis.
 - **Kesenyapan (Pausing):** Jangan takut pada hening. Diam sejenak selama 3-5 detik setelah memberikan pernyataan penting dapat memberikan waktu bagi otak siswa untuk memproses informasi.
 - **Kontak Mata dan Mimik:** Tatap mata siswa secara bergantian (jangan hanya pada satu sisi kelas) dan gunakan ekspresi wajah yang sesuai dengan materi.
 - **Gerakan Badan dan Mimik:** Berpindah tempat dari depan kelas ke belakang atau ke samping (proximity) untuk memberikan kesan kedekatan.
@@ -58475,8 +58473,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59271,8 +59269,8 @@ Landry, L. (2020, 14 Januari; diperbarui 2 Juni 2021). [How to delegate effectiv
 Buehler, R., Griffin, D., dan Ross, M. (1994). [Exploring the "planning fallacy": Why people underestimate their task completion times](https://doi.org/10.1037/0022-3514.67.3.366). *Journal of Personality and Social Psychology, 67*(3), 366-381.
 
 Arkes, H. R., dan Blumer, C. (1985). [The psychology of sunk cost](https://doi.org/10.1016/0749-5978(85)90049-4). *Organizational Behavior and Human Decision Processes, 35*(1), 124-140.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60513,8 +60511,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -60610,7 +60608,7 @@ Sebagian besar keyakinan yang kita pegang erat sering kali bukan hasil evaluasi 
 
 > "Tujuan dari berpikir kritis adalah untuk mencapai kebenaran, bukan untuk memenangkan perdebatan."
 
-Pemahaman dasar ini menjadi pintu masuk bagi kamu untuk mempelajari alat logika yang lebih terperinci pada bab berikutnya, seperti penalaran deduktif, induktif, serta cara mendeteksi kesesatan berpikir.
+Keyakinan mana yang selama ini kamu pegang tanpa pernah kamu uji dengan bukti?
 
 
 <!-- Chapter: 02_logika-deduktif-vs-induktif-memahami-kepastian-dan-probabilitas -->
@@ -60817,7 +60815,7 @@ Konklusi ini bertumpu pada ketiga premis sekaligus. Jika satu saja gugur, misaln
 
 ## 5\. Latihan Mandiri
 
-Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
+Cermati pernyataan di bawah ini dan identifikasi mana yang merupakan premis dan mana konklusinya:
 
 *"Investasi pada pendidikan usia dini adalah langkah terbaik bagi negara. Data menunjukkan bahwa anak-anak yang mendapatkan pendidikan berkualitas sejak dini memiliki peluang kerja 40% lebih tinggi di masa depan. Selain itu, tingkat kriminalitas terbukti menurun pada komunitas yang memiliki akses pendidikan PAUD yang baik."*
 
@@ -60827,7 +60825,7 @@ Perhatikan pernyataan di bawah ini dan identifikasi mana yang merupakan premis d
 2. **Premis 2:**...
 3. **Konklusi:**...
 
-Sebagai latihan tambahan, cobalah perhatikan satu iklan di televisi atau media sosial hari ini. Identifikasi konklusi yang mereka tawarkan (biasanya mengajak membeli produk) dan premis-premis yang mereka gunakan untuk membujukmu. Evaluasi apakah premis tersebut berupa fakta atau sekadar opini yang dikemas seolah-olah fakta.
+Sebagai latihan tambahan, cobalah amati satu iklan di televisi atau media sosial hari ini. Identifikasi konklusi yang mereka tawarkan (biasanya mengajak membeli produk) dan premis-premis yang mereka gunakan untuk membujukmu. Evaluasi apakah premis tersebut berupa fakta atau sekadar opini yang dikemas seolah-olah fakta.
 
 ## Intisari
 
@@ -61483,7 +61481,7 @@ Solusi hanyalah sebuah teori sampai ia dieksekusi. Gunakan siklus **PDCA (Plan-D
 3. **Check**: Evaluasi hasilnya. Apakah sesuai dengan metrik keberhasilan yang ditetapkan di awal?
 4. **Act**: Jika berhasil, standarisasi solusi tersebut. Jika gagal, kembali ke langkah awal.
 
-Perhatikan bahwa langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
+Langkah Act menjadi titik cabang yang menentukan arah siklus berikutnya.
 
 ```mermaid
 flowchart TD
@@ -61691,7 +61689,7 @@ Jika rekam jejaknya sering menyebarkan berita palsu, maka meskipun tampilannya t
 
 **Langkah Kritis:**
 
-1. **Cek Artefak Visual:** Perhatikan area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
+1. **Cek Artefak Visual:** Amati area mulut dan mata. Apakah gerakannya sinkron dengan suara? Apakah ada kedipan yang tidak alami?
 2. **Analisis Metadata:** Gunakan alat seperti *Google Reverse Image Search* pada tangkapan layar video tersebut untuk melihat kapan video itu pertama kali muncul di internet.
 3. **Gunakan Logika "Terlalu Indah untuk Menjadi Nyata":** Jika informasi tersebut sangat memuaskan biasmu (misalnya: lawan politikmu melakukan kesalahan fatal), justru di situlah kamu harus paling curiga.
 
@@ -61732,8 +61730,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61793,7 +61791,7 @@ Berikut adalah tiga pilar utama mengapa analisis bahasa bersifat sangat krusial 
 
 ### 1. Labeling dan Stigmatisasi
 
-Bahasa memiliki daya kognitif untuk melekatkan stigma sosial secara permanen pada diri seseorang. Perhatikan komparasi dampak psikologis dan sosiologis dari dua bentuk pelabelan berikut:
+Bahasa memiliki daya kognitif untuk melekatkan stigma sosial secara permanen pada diri seseorang. Bandingkan dampak psikologis dan sosiologis dari dua bentuk pelabelan berikut:
 
 - **Konstruksi Perilaku:** Menyebut seseorang sebagai *"individu yang pernah melakukan kekhilafan hukum"*.
 - **Pelabelan Esensialis:** Menyebut seseorang sebagai *"residivis"* atau *"penjahat kambuhan"*.
@@ -61980,7 +61978,7 @@ Keterangan variabel:
 
 ### 5. Analisis Narasi "Perang Terhadap Narkoba"
 
-Untuk memahami keterkaitan konsep-konsep di atas, perhatikan analisis terhadap narasi kebijakan kriminologi berikut:
+Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi kebijakan kriminologi berikut:
 
 > **Skenario Pernyataan Publik:**
 > *"Kita harus membasmi sampah masyarakat yang merusak moral bangsa dengan racun narkoba. Tidak ada ruang bagi mereka di tanah air kita!"*
@@ -62062,7 +62060,7 @@ Begitu pula dengan kejahatan.
 
 Dalam pandangan AWK, sebuah tindakan (seperti mengonsumsi zat tertentu atau mengambil milik orang lain) hanya menjadi "kejahatan" ketika narasi dominan dalam masyarakat, melalui hukum dan diskursus publik, melabelinya demikian.
 
-- **Dinamika Statis vs. Dinamis:** Definisi kejahatan selalu berubah. Sebagai contoh, perhatikan pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
+- **Dinamika Statis vs. Dinamis:** Definisi kejahatan selalu berubah. Sebagai contoh, lihat pergeseran status hukum merokok di ruang publik atau penggunaan ganja untuk medis di berbagai belahan dunia. Apa yang kemarin dianggap "kriminal" bisa menjadi "legal" hari ini, tergantung pada siapa yang memegang kendali atas narasi tersebut.
 
 ### 2. Membedah Konstruksi Identitas "Sang Penjahat"
 
@@ -62108,7 +62106,7 @@ Teks dan ideologi yang diproduksi secara masif oleh kelompok dominan akan memben
 
 ### 4. Narasi Perang Terhadap Narkoba
 
-Mari perhatikan bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
+Mari lihat bagaimana narasi mengonstruksi realitas melalui contoh *"War on Drugs"*.
 
 **Skenario:** Dua orang ditemukan memiliki zat ilegal.
 
@@ -62299,7 +62297,7 @@ flowchart TD
 
 ### Latihan Analisis Kritis
 
-Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), perhatikan bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
+Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati judulnya. Apabila subjek (pelaku) diganti dengan deskripsi yang lebih humanis (misalnya: "seorang ayah tiga anak" alih-alih "pencuri motor"), cermati bagaimana persepsi publik terhadap kejahatan tersebut dapat berubah secara signifikan. Analisis ini menunjukkan alasan mengapa media massa cenderung memilih deskripsi tertentu.
 
 **Kesimpulan:** Model Tiga Dimensi Fairclough memungkinkan pemelajar untuk tidak hanya menjadi pembaca pasif, tetapi menjadi pengamat kritis yang mampu melihat agenda tersembunyi di balik narasi kriminalitas. Dengan memahami bagaimana teks dikonstruksi, analisis dapat dilakukan untuk mempertanyakan apakah "kebenaran" dalam hukum adalah kebenaran objektif atau sekadar hasil dari konstruksi bahasa yang dominan.
 
@@ -62343,7 +62341,7 @@ Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dala
 Di era media sosial dan pesan instan (seperti WhatsApp dan Twitter/X), teks sering kali berukuran pendek dan dipenuhi dengan karakter khusus maupun singkatan. Hal ini memberikan tantangan sekaligus peluang unik bagi ahli linguistik forensik dalam mengidentifikasi pola kebiasaan mengetik (*typing habits*) dan jejak digital pelaku.
 
 ### 3. Batas Antara Opini dan Pencemaran Nama Baik
-Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergolong "kritik" atau "pencemaran nama baik". Perhatikan perbandingan dua pernyataan berikut:
+Dalam kasus hukum, perdebatan sering terjadi mengenai apakah suatu kalimat tergolong "kritik" atau "pencemaran nama baik". Bandingkan dua pernyataan berikut:
 
 > **Pernyataan A:** "Layanan di toko ini sangat lambat dan tidak profesional."
 > 
@@ -62556,7 +62554,7 @@ Kalimat di atas bukan sekadar pertanyaan; kalimat tersebut adalah sebuah **argum
 
 #### Pilihan Kata (Diksi) dan Pembingkaian (*Framing*)
 
-Pilihan kata dapat mengubah interpretasi fakta yang sama. Perhatikan perbedaan berikut dalam menggambarkan sebuah kecelakaan:
+Pilihan kata dapat mengubah interpretasi fakta yang sama. Lihat perbedaan berikut dalam menggambarkan sebuah kecelakaan:
 
 | Kata Kerja | Implikasi Kecepatan / Kekerasan |
 | --- | --- |
@@ -62645,7 +62643,7 @@ Dalam kriminologi, sangat penting untuk membedakan antara **ancaman nyata** dan 
 Untuk memahami bagaimana seorang kriminolog menggunakan bahasa sebagai alat bukti, mari mendalami beberapa skenario dan pertanyaan analisis berikut:
 
 1. **Tantangan Manipulasi Gaya Bahasa:** Jika seseorang mencoba meniru gaya menulis orang lain untuk menjebak mereka dalam sebuah kasus kejahatan siber, elemen bahasa apa yang paling sulit untuk dipalsukan secara konsisten?
-   - *Petunjuk:* Perhatikan kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
+   - *Petunjuk:* Cermati kebiasaan bawah sadar seperti penempatan koma atau penggunaan kata hubung.
 
 2. **Evolusi Digital:** Di era media sosial dan pesan instan (seperti WhatsApp atau X/Twitter), teks sering kali sangat pendek dan diwarnai beragam simbol. Bagaimana hal ini mempersulit atau justru membantu tugas seorang ahli linguistik forensik dalam mengidentifikasi pelaku?
 
@@ -62755,7 +62753,7 @@ Kebijakan narkotika dapat dibedah dengan pendekatan AWK sebagai berikut:
 Bagi seorang peneliti atau praktisi hukum, langkah-langkah berikut dapat digunakan untuk menganalisis sebuah draf undang-undang (UU):
 
 1. **Identifikasi Kata Kunci Dominan:** Hitung frekuensi kata seperti "keamanan", "ketertiban", dan "hukuman" dibandingkan dengan kata "hak asasi", "rehabilitasi", atau "keadilan sosial".
-2. **Cek Struktur Pasal Karet:** Perhatikan penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
+2. **Cek Struktur Pasal Karet:** Cermati penggunaan kata sifat yang subjektif seperti "meresahkan masyarakat", "melanggar kesusilaan", atau "mengancam stabilitas".
 
 <div>
 $$
@@ -63013,7 +63011,7 @@ Institusi penegak hukum saling terhubung dalam rantai diskursif yang berkesinamb
 
 ### Refleksi Wacana Kriminal
 
-Ketika mengamati pemberitaan kriminal di media massa, perhatikan seberapa sering media menyalin secara verbatim rilis resmi yang menggunakan bahasa administratif kepolisian. Bahasa yang dingin dan teknis tersebut secara bertahap membentuk konstruksi berpikir publik, sehingga tindakan penghukuman dipersepsikan sebagai konsekuensi yang wajar dan tak terbantahkan.
+Ketika mengamati pemberitaan kriminal di media massa, cermati seberapa sering media menyalin secara verbatim rilis resmi yang menggunakan bahasa administratif kepolisian. Bahasa yang dingin dan teknis tersebut secara bertahap membentuk konstruksi berpikir publik, sehingga tindakan penghukuman dipersepsikan sebagai konsekuensi yang wajar dan tak terbantahkan.
 
 ---
 
@@ -63299,7 +63297,7 @@ Media massa memegang peranan sentral dalam membentuk persepsi kolektif masyaraka
 
 ### 5. Bedah Teks Sederhana
 
-Sebagai latihan metode AWK, perhatikan potongan kutipan berita berikut:
+Sebagai latihan metode AWK, cermati potongan kutipan berita berikut:
 
 > *"Seorang pria paruh baya nekat mengakhiri hidupnya karena depresi terlilit hutang pinjol. Pria yang dikenal tertutup ini jarang bersosialisasi dengan tetangga."*
 
@@ -63735,8 +63733,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63758,7 +63756,7 @@ VALUES (
 Selamat datang di titik awal pemahaman mendalam mengenai perilaku pasar. Jika kamu pernah bertanya-tanya mengapa kenaikan harga bensin tidak membuat orang berhenti membeli bensin, namun kenaikan harga satu merk kopi bisa membuat pelanggannya lari ke merk lain, maka kamu sedang memikirkan konsep **Elastisitas**.
 Dalam ekonomi, angka saja tidak cukup. Kita tidak hanya ingin tahu bahwa "jika harga naik, permintaan turun." Kita ingin tahu **seberapa besar** penurunan tersebut. Di sinilah elastisitas berperan sebagai alat ukur presisi bagi para ekonom.
 ## Apa Itu Elastisitas?
-Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menariknya, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menariknya, bentuknya hampir tidak berubah.
+Secara bahasa, elastisitas berarti kelenturan. Bayangkan sebuah karet gelang. Jika kamu menarik karet itu, ia akan meregang lebar. Namun, bayangkan seutas kawat besi; sekeras apa pun kamu menarik kawat itu, bentuknya hampir tidak berubah.
 Dalam ekonomi, **Elastisitas** adalah ukuran derajat kepekaan (respons) suatu variabel ekonomi terhadap perubahan variabel lainnya.
 > **Inti Konsep:** Elastisitas menjawab pertanyaan "Seberapa sensitif konsumen atau produsen terhadap perubahan harga atau faktor lainnya di pasar?"
 Secara matematis, kita melihatnya sebagai perbandingan perubahan persentase:
@@ -63790,7 +63788,7 @@ Bayangkan dua produk di rak supermarket: **Garam** dan **Sereal Cokelat**.
 - **Skenario B (Sereal Cokelat):** Ada sepuluh merk sereal cokelat yang berbeda. Jika Merk X menaikkan harga sebesar 20%, konsumen akan langsung menoleh ke Merk Y atau Z yang lebih murah. **Sereal Merk X memiliki elastisitas tinggi (elastis).**
 **Pelajaran bagi pemilik toko:** Mereka bisa menaikkan harga barang inelastis untuk menutupi biaya operasional, tetapi mereka harus sangat berhati-hati (sering mengadakan promo) untuk barang yang elastis agar tidak kehilangan pelanggan.
 ## Refleksi Pembelajaran
-Coba perhatikan pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
+Coba cermati pengeluaran kamu dalam sebulan terakhir. Kamu bisa mengidentifikasi satu barang yang tetap kamu beli meskipun harganya naik (inelastis) dan satu barang yang langsung kamu coret dari daftar belanja ketika harganya naik sedikit saja (elastis). Perbedaan tingkat kebutuhan dan ketersediaan substitusi membuat kedua barang tersebut memiliki tingkat sensitivitas yang berbeda di mata konsumen.
 **Poin Penting untuk Diingat:**
 - **Elastisitas = Responsivitas.**
 - Kita mengukur dalam **persentase** untuk standarisasi.
@@ -64035,7 +64033,7 @@ Sejauh mana kamu "harus" memiliki barang tersebut sangat menentukan reaksi kamu 
 Sebagai contoh, apakah smartphone saat ini masih tergolong barang mewah, atau sudah bergeser menjadi kebutuhan pokok bagi kamu? Pergeseran persepsi ini akan mengubah elastisitas permintaannya.
 ## 3. Proporsi Pendapatan yang Dihabiskan
 Besarnya anggaran yang kamu keluarkan untuk sebuah barang dibandingkan dengan total pendapatan kamu sangat berpengaruh.
-- **Porsi Kecil (Inelastis):** Perhatikan harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
+- **Porsi Kecil (Inelastis):** Ambil contoh harga garam atau korek api kayu. Jika harga garam naik dari Rp2.000 menjadi Rp3.000 (naik 50%), kamu mungkin tidak akan terlalu peduli karena pengeluaran tersebut sangat kecil dibanding gaji bulanan kamu.
 - **Porsi Besar (Elastis):** Sebaliknya, pertimbangkan harga mobil atau cicilan rumah. Kenaikan 5% saja pada harga rumah akan memakan porsi pendapatan yang sangat besar, sehingga calon pembeli akan berpikir dua kali atau mencari alternatif lain.
 **Hubungan Matematis Sederhana:** Jika pengeluaran untuk barang $X$ adalah $P \times Q$, maka:
 
@@ -64066,7 +64064,7 @@ Semakin spesifik definisi sebuah barang, maka akan semakin elastis permintaannya
 2. **Loyalitas Merek:** Jika pelanggan kamu merasa kopi kamu punya rasa unik yang tidak ada di tempat lain (mengurangi substitusi di mata mereka), permintaan menjadi lebih **inelastis**. Kamu punya ruang lebih besar untuk menaikkan harga.
 3. **Waktu:** Mungkin di minggu pertama kenaikan harga, pelanggan tetap datang (jangka pendek). Namun jika setelah sebulan mereka merasa terlalu mahal, mereka akan mulai membawa kopi sachet dari rumah (jangka panjang).
 > **Important:** Memahami determinan elastisitas membantu manajer pemasaran menentukan apakah strategi "Diskon Gede-Gedean" (cocok untuk barang elastis) atau "Premium Pricing" (cocok untuk barang inelastis) yang lebih efektif untuk meningkatkan profit.
-Sebagai gambaran, perhatikan barang terakhir yang kamu beli karena harganya sedang diskon. Apakah barang tersebut memiliki banyak substitusi, ataukah harganya memakan porsi besar dari uang saku kamu? Itulah elastisitas yang sedang bekerja dalam kehidupan sehari-hari.
+Sebagai gambaran, ingat kembali barang terakhir yang kamu beli karena harganya sedang diskon. Apakah barang tersebut memiliki banyak substitusi, ataukah harganya memakan porsi besar dari uang saku kamu? Itulah elastisitas yang sedang bekerja dalam kehidupan sehari-hari.
 
 
 <!-- Chapter: 06_hubungan-elastisitas-permintaan-dengan-total-penerimaan -->
@@ -64103,7 +64101,7 @@ Di sini, konsumen tidak terlalu sensitif terhadap perubahan harga. Biasanya ini 
 Kondisi ini jarang terjadi di dunia nyata secara sempurna, namun penting secara teoretis.
 - **Jika Harga Naik atau Turun:** Persentase perubahan harga ($P$) sama persis dengan persentase perubahan jumlah yang diminta ($Q$). Hasilnya, **Total Revenue tetap sama (konstan)**.
 ### 3. Ringkasan Strategi untuk Produsen
-Untuk memudahkan pengambilan keputusan, perhatikan tabel strategi di bawah ini:
+Tabel strategi di bawah ini memudahkan pengambilan keputusan:
 | Perubahan Harga | Permintaan Elastis ($E_d > 1$) | Permintaan Inelastis ($E_d < 1$) | Permintaan Uniter ($E_d = 1$) |
 | --- | --- | --- | --- |
 | **Harga Naik ($\uparrow$)** | $\text{TR}$ Turun ($\downarrow$) | $\text{TR}$ Naik ($\uparrow$) | $\text{TR}$ Tetap |
@@ -64304,7 +64302,7 @@ Pada kategori ini, kuantitas barang yang ditawarkan **sama sekali tidak berubah*
 - **Contoh Nyata:** Tanah di lokasi spesifik, lukisan karya seniman yang sudah meninggal, atau produk dengan kapasitas produksi yang sudah mencapai batas maksimal absolut dalam jangka sangat pendek.
 ## 2. Penawaran Inelastis
 Penawaran dikatakan inelastis jika persentase perubahan jumlah barang yang ditawarkan **lebih kecil** daripada persentase perubahan harganya. Artinya, produsen kurang responsif terhadap perubahan harga.
-- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menariknya dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
+- **Analogi:** Seperti mencoba menarik karet gelang yang sudah sangat tua dan kaku. Kamu menarik karet itu dengan tenaga kuat (perubahan harga besar), namun karet tersebut hanya memanjang sedikit (perubahan jumlah sedikit).
 - **Bentuk Kurva:** Kurva penawaran cenderung **curam (steep)**.
 - **Contoh Nyata:** Produk pertanian seperti padi. Meskipun harga padi melonjak hari ini, petani tidak bisa langsung memanen padi besok pagi. Mereka butuh waktu musim tanam, sehingga tambahan penawaran di pasar akan terbatas dalam jangka pendek.
 ## 3. Penawaran Elastis Uniter
@@ -64484,8 +64482,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65214,8 +65212,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -65343,8 +65341,6 @@ Di kawasan tropis seperti Kalimantan, alih fungsi lahan hutan (deforestasi) meng
 ### Kesimpulan
 
 Siklus hidrologi global merupakan interaksi abadi antara massa air dan radiasi matahari. Air menguap menuju atmosfer sebagai uap tak kasatmata, mengumpul menjadi awan, dan kembali menyirami daratan untuk menopang kehidupan.
-
-Pada bab-bab berikutnya, kita akan membahas secara spesifik proses fisika yang terjadi saat uap air berada di atmosfer: bagaimana molekul uap air berkondensasi menjadi tetesan air mikroskopis melalui mekanisme termodinamika dan fisika awan.
 
 > **Poin Utama Bab Ini:**
 > 
@@ -66518,7 +66514,7 @@ Pemahaman mengenai morfologi awan memberikan pemetaan kondisi cuaca yang vital b
 > **Pertanyaan Diskusi:**
 > Ketika mengamati awan dengan puncak yang tampak kabur atau berserat (seperti serat kapas yang terurai), informasi apakah yang dapat disimpulkan mengenai fasa air pada puncak awan tersebut? Mengapa kondisi tersebut menandakan bahwa puncak awan telah berada pada suhu di bawah titik beku?
 >
-> *(Petunjuk: Perhatikan perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
+> *(Petunjuk: Cermati perbedaan bentuk optik antara tetesan air cair yang melingkar tegas dan kristal es yang menyerupai serat atau jarum).*
 
 ### Ringkasan Morfologi dan Mikrofisika Awan
 
@@ -66559,8 +66555,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66810,7 +66806,7 @@ Tuliskan kegiatan atau hobi di rentang usia 5 hingga 18 tahun yang paling membek
 
 ### Mengamati Keseharian Saat Ini
 
-Selain menengok ke belakang, coba observasi keseharianmu saat ini. Perhatikan aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya, seperti dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
+Selain menengok ke belakang, coba observasi keseharianmu saat ini. Amati aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya, seperti dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
 
 Langkah lain yang cukup membantu adalah membuat daftar berisi beberapa hal yang rela kamu kerjakan secara cuma-cuma. Ini bisa berupa aktivitas seperti membantu teman pindahan rumah, menulis cerita pendek, menata ulang isi kamar, atau belajar bahasa asing. 
 
@@ -66870,14 +66866,14 @@ Coba ingat-ingat kembali momen di mana kamu merasa paling bangga atau bekerja pa
 
 1. **Catat Keberhasilan:** Tulis setidaknya 5-10 pencapaian yang pernah kamu raih, besar atau kecil. Ini bisa berupa pengalaman mengorganisir acara, membantu memecahkan masalah teknis orang lain, atau sekadar membereskan tugas kuliah yang sangat rumit tepat waktu.
 2. **Bedah Prosesnya:** Dari setiap keberhasilan tadi, bongkar kembali ingatanmu. Keterampilan apa yang kamu pakai? Bagian mana yang terasa paling mudah dikerjakan? Hal apa yang membedakan caramu menyelesaikan masalah tersebut dengan cara orang lain?
-3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu lakukan tanpa merasa terbebani. Perhatikan aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa sedikit pun merasa bosan.
+3. **Hobi dan Minat:** Hobi sering kali menjadi cerminan dari bakat yang kamu lakukan tanpa merasa terbebani. Amati aktivitas apa yang sanggup kamu lakukan berjam-jam tanpa sedikit pun merasa bosan.
 
 ### 3.2. Mencari Umpan Balik (Feedback)
 
 Orang terdekat terkadang melihat hal-hal yang luput dari perhatian kita sendiri. Mendapatkan _feedback_ yang jujur sangat berguna untuk memetakan kekuatan.
 
 1. **Tanya Lingkungan Dekat:** Mintalah pandangan dari teman, keluarga, rekan kerja, atau mentor mengenai kelebihan yang mereka lihat dari dirimu. Kamu bisa bertanya, "Dalam hal apa aku biasanya paling bisa diandalkan?" atau "Apa yang terlihat mudah kulakukan tapi sulit bagi orang lain?"
-2. **Tandai Pujian yang Sering Diterima:** Perhatikan komentar positif yang berulang kali datang dari orang berbeda. Pola pujian ini biasanya merupakan petunjuk kuat tentang di mana letak keahlian aslimu.
+2. **Tandai Pujian yang Sering Diterima:** Cermati komentar positif yang berulang kali datang dari orang berbeda. Pola pujian ini biasanya merupakan petunjuk kuat tentang di mana letak keahlian aslimu.
 
 ### 3.3. Self-Assessment (Penilaian Diri)
 
@@ -66961,9 +66957,9 @@ Memahami pilar ini berarti mengeksplorasi potensi ekonomi dari "apa yang kamu ci
 
 ## 1. Mengidentifikasi Nilai Ekonomi dari Minat dan Keahlian
 
-Langkah pertama dalam mengubah minat dan keahlian menjadi sumber pendapatan adalah mengenali nilai intrinsik yang bisa ditawarkan kepada pasar. Setiap minat atau keahlian yang kamu miliki berpotensi memecahkan masalah, memenuhi kebutuhan, atau memberikan kegembiraan bagi orang lain. Di situlah letak nilai ekonominya.
+Langkah pertama dalam mengubah minat dan keahlian menjadi sumber pendapatan adalah mengenali nilai intrinsik yang bisa ditawarkan kepada pasar. Setiap minat atau keahlian yang kamu miliki berpotensi memecahkan masalah, memenuhi kebutuhan, atau memberikan kegembiraan bagi orang lain. Itulah yang memberinya nilai ekonomi.
 
-Mulailah dengan mengaudit apa yang kamu miliki. Coba perhatikan hal-hal yang kamu kuasai secara alami atau yang sudah diasah bertahun-tahun, apalagi jika orang lain merasa kesulitan melakukannya. Kemampuan untuk mengatasi tantangan tertentu sering kali memiliki permintaan pasar. Keahlian khusus yang kamu miliki bisa menjadi ceruk pasar tersendiri. Indikator kuat lainnya adalah ketika orang-orang sering datang kepadamu untuk meminta saran atau bantuan terkait suatu hal.
+Mulailah dengan mengaudit apa yang kamu miliki. Coba cermati hal-hal yang kamu kuasai secara alami atau yang sudah diasah bertahun-tahun, apalagi jika orang lain merasa kesulitan melakukannya. Kemampuan untuk mengatasi tantangan tertentu sering kali memiliki permintaan pasar. Keahlian khusus yang kamu miliki bisa menjadi ceruk pasar tersendiri. Indikator kuat lainnya adalah ketika orang-orang sering datang kepadamu untuk meminta saran atau bantuan terkait suatu hal.
 
 Setelah itu, lakukan riset pasar awal. Lihat apakah ada permintaan di pasar untuk apa yang kamu tawarkan. Cari tahu siapa yang paling diuntungkan dari keahlianmu, dan amati apakah ada pihak lain yang sudah menawarkan layanan serupa serta bagaimana cara mereka melakukannya.
 
@@ -66983,7 +66979,7 @@ Pasar kerja akan terus berubah. Kamu perlu terus mengembangkan keterampilan yang
 
 Jalur kewirausahaan memberimu kebebasan untuk secara langsung mengubah ide menjadi nilai ekonomi. Ini sering kali merupakan bentuk paling murni dari Ikigai yang dimonetisasi, sebab kamu memegang kendali penuh atas cara menciptakan nilai dan menghasilkan pendapatan.
 
-Langkah awalnya adalah mengidentifikasi celah pasar. Perhatikan rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
+Langkah awalnya adalah mengidentifikasi celah pasar. Amati rasa frustrasi atau masalah yang sering dialami orang di sekitarmu. Cari kekosongan yang belum terisi oleh solusi yang memadai, misalnya kebutuhan akan produk ramah lingkungan khusus atau layanan yang sangat personal. Gunakan minat dan keahlianmu untuk merumuskan solusi unik.
 
 Daripada menunggu produkmu sempurna, lebih baik luncurkan Konsep Produk Minimum yang Layak (*Minimum Viable Product* - MVP). Versi paling dasar ini sudah harus memberikan nilai inti. Pendekatan ini memungkinkan kamu menguji ide di pasar dengan investasi minimal demi mendapatkan umpan balik langsung dari pelanggan, untuk kemudian terus dikembangkan.
 
@@ -67247,7 +67243,7 @@ Refleksi diri memastikan Ikigai tetap relevan dan bermakna. Tanpa mengambil wakt
 Sisihkan waktu mingguan atau bulanan untuk mendokumentasikan pengalaman kamu. Kamu bisa menanyakan kepada diri sendiri hal-hal apa saja yang memberikan energi minggu ini, dan sebaliknya, apa yang menguras energi. Catat momen saat kamu merasa paling hidup, hal-hal baru yang menarik perhatian, serta pergeseran pada nilai-nilai inti pribadi.
 
 **Prompt Questions (Pertanyaan Pemandu)**
-Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Perhatikan juga apakah keahlian yang kamu miliki sudah berkembang. Tinjau kembali lingkungan sekitar untuk melihat apakah ada kebutuhan baru dari masyarakat, dan pastikan aktivitas yang menghasilkan uang masih relevan dengan pilar Ikigai lainnya.
+Evaluasi secara teratur apakah kamu masih melakukan aktivitas yang dicintai. Periksa juga apakah keahlian yang kamu miliki sudah berkembang. Tinjau kembali lingkungan sekitar untuk melihat apakah ada kebutuhan baru dari masyarakat, dan pastikan aktivitas yang menghasilkan uang masih relevan dengan pilar Ikigai lainnya.
 
 **Lingkaran Umpan Balik**
 Berbicaralah dengan orang-orang terdekat atau mentor yang bisa dipercaya. Mintalah masukan mengenai bagaimana mereka melihat pertumbuhan atau perubahan dalam diri kamu. Perspektif dari luar sering kali memperkaya pemahaman yang sulit dilihat dari sudut pandang sendiri.
@@ -67312,8 +67308,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -67341,7 +67337,7 @@ Di dunia yang bergerak sangat cepat dan penuh ketidakpastian ini, resiliensi dan
 
 Secara etimologis, **resiliensi** berasal dari bahasa Latin *resilire*, yang berarti "melompat kembali". Dalam psikologi, resiliensi adalah proses beradaptasi dengan baik di hadapan kesulitan, trauma, tragedi, ancaman, atau sumber stres yang berat.
 
-**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menariknya sekuat tenaga (stresor), namun begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
+**Analogi Karet Gelang:** Bayangkan sebuah karet gelang. Kamu bisa menarik karet itu sekuat tenaga (stresor), namun begitu tarikan dilepaskan, ia akan kembali ke bentuk semula. Namun, resiliensi manusia melampaui karet gelang. Manusia memiliki kapasitas untuk **"Bounce Forward"** (Melompat ke Depan). Artinya, setelah mengalami tekanan, kita tidak hanya kembali ke kondisi awal, tetapi kembali dengan pembelajaran dan kekuatan baru.
 
 > "Resiliensi bukan tentang tidak pernah jatuh, tetapi tentang seberapa cepat dan kuat kita bangkit setiap kali kita jatuh."
 
@@ -67717,7 +67713,7 @@ $$
 
 > **Insight:** Bakat adalah seberapa cepat keterampilanmu meningkat saat kamu berusaha. Namun, Pencapaian adalah apa yang terjadi ketika kamu mengambil keterampilan tersebut dan menggunakannya secara terus-menerus.
 
-Perhatikan bahwa dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) akan melampaui seseorang yang berbakat tetapi malas dalam jangka panjang.
+Dalam dua persamaan di atas, variabel **Usaha** muncul dua kali. Ini berarti seseorang yang kurang berbakat tetapi memiliki usaha yang konsisten (Grit tinggi) akan melampaui seseorang yang berbakat tetapi malas dalam jangka panjang.
 
 ## Gairah dan Ketekunan
 
@@ -68552,8 +68548,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-24T02:57:11.590Z',
-  '2026-10-24T02:57:11.590Z'
+  '2026-10-24T03:25:33.279Z',
+  '2026-10-24T03:25:33.279Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
