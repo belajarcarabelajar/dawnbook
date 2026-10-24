@@ -95,7 +95,7 @@ Camus menutup esainya dengan kalimat yang sangat terkenal:
 
 Sisyphus bahagia bukan karena ia suka mendorong batu, tetapi karena ia sadar bahwa batu itu adalah miliknya, nasibnya adalah keputusannya, dan ia lebih kuat daripada batu tersebut selama ia tidak menyerah pada keputusasaan.
 
-### Ringkasan Visual
+### Empat Konsep Absurditas Camus
 
 | Konsep | Penjelasan Sederhana |
 | --- | --- |

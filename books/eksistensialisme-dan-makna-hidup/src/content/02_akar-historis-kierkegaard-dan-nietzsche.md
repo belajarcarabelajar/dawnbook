@@ -91,7 +91,7 @@ Bayangkan Budi, seorang akuntan sukses yang merasa hampa.
 - **Secara Kierkegaardian:** Budi mungkin berada di tahap etis. Ia harus melakukan "loncatan" untuk menemukan apa yang secara subjektif bermakna baginya, mungkin sebuah panggilan spiritual atau pengabdian yang melampaui logika karier.
 - **Secara Nietzschean:** Budi harus sadar bahwa "makna" tidak akan turun dari langit. Ia harus menggunakan kehendak untuk berkuasanya untuk mendefinisikan ulang siapa dirinya, mungkin dengan menciptakan karya seni atau membangun sistem baru yang mencerminkan nilai pribadinya, bukan nilai perusahaan.
 
-## Ringkasan Visual
+## Dua Cabang Akar Eksistensialisme
 
 Kedua akar eksistensialisme dalam bab ini bisa kamu rangkum menjadi dua cabang berikut.
 
