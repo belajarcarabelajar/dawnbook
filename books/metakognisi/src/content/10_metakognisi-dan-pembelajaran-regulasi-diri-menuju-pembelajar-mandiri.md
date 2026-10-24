@@ -1,6 +1,6 @@
 ## Metakognisi dan Pembelajaran Regulasi Diri
 
-Proses belajar ibarat perjalanan panjang, dan kemampuan untuk mengendalikan arah tujuannya ikut menentukan ke mana perjalanan itu berujung. Di sinilah pembelajaran regulasi diri (*self-regulated learning* – SRL) berperan penting, dan konsep ini punya kaitan yang erat dengan metakognisi. Lewat kesadaran metakognitif, seseorang bisa berubah menjadi pembelajar mandiri yang termotivasi secara konsisten.
+Proses belajar ibarat perjalanan panjang, dan kemampuanmu mengendalikan arahnya sendiri ikut menentukan hasil yang kamu bawa pulang. Di sinilah pembelajaran regulasi diri (*self-regulated learning* – SRL) berperan penting, dan konsep ini punya kaitan yang erat dengan metakognisi. Lewat kesadaran metakognitif, seseorang bisa berubah menjadi pembelajar mandiri yang termotivasi secara konsisten.
 
 ## Apa itu Pembelajaran Regulasi Diri (SRL)?
 
@@ -59,7 +59,7 @@ Rasa bosan, frustrasi, maupun cemas pasti akan muncul di tengah proses belajar. 
 
 Penguasaan regulasi diri yang dibarengi kesadaran metakognitif akan memengaruhi bagaimana seseorang menyerap ilmu. Mereka cenderung lebih mandiri dan tidak selalu menunggu disuapi instruksi dari luar, karena sudah tahu persis rute mana yang harus diambil untuk menguasai materi baru.
 
-Dorongan untuk terus belajar muncul secara alami lantaran mereka memegang kendali atas prosesnya sendiri. Ketika dihadapkan pada kebuntuan, mereka bisa cepat beradaptasi mencari metode lain agar waktu belajarnya tetap efisien. Kemampuan mengatur proses belajar seperti ini bermanfaat di luar urusan sekolah atau kuliah, sampai ke urusan karir maupun kehidupan sehari-hari.
+Dorongan untuk terus belajar muncul secara alami lantaran mereka memegang kendali atas prosesnya sendiri. Ketika dihadapkan pada kebuntuan, mereka bisa cepat beradaptasi mencari metode lain agar waktu belajarnya tetap efisien. Kemampuan mengatur proses belajar seperti ini bermanfaat di luar urusan sekolah atau kuliah, termasuk di urusan karir maupun kehidupan sehari-hari.
 
 ## Mencoba Strategi Praktis
 
