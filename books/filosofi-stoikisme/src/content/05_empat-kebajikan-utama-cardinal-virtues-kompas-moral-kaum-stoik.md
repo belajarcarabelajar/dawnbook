@@ -13,7 +13,7 @@ Kebijaksanaan dalam Stoikisme bukanlah sekadar kecerdasan akademis atau penguasa
 - **Sub-kategori:** Perencanaan yang matang, penilaian yang tepat, dan akal sehat.
 - **Inti Ajaran:** Memahami perbedaan antara apa yang bisa kita kendalikan (pikiran dan tindakan kita) dan apa yang tidak (opini orang lain, cuaca, atau masa lalu).
 
-> "Kebaikan utama adalah kebijaksanaan; keburukan utama adalah kebodohan." , **Seneca**
+> "Lalu apa yang baik? Pengetahuan tentang segala hal. Apa yang buruk? Ketiadaan pengetahuan tentang segala hal." , **Seneca**, *Surat-Surat Moral kepada Lucilius*, surat 31 bagian 6
 
 *Pertimbangan Diri: Saat menghadapi tantangan besar, apakah seseorang cenderung langsung bereaksi emosional, atau berhenti sejenak untuk memilah mana bagian dari situasi yang benar-benar dapat diubah?*
 
