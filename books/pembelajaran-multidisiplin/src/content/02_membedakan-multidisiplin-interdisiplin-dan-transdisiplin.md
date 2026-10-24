@@ -59,7 +59,7 @@ Guna memudahkan kamu memetakan perbedaan ketiganya, cermati tabel perbandingan r
 | --- | --- | --- | --- |
 | **Pendekatan** | *Additive*; bekerja secara paralel. | *Interactive*; terjadi transfer dan percampuran. | *Holistic*; integrasi penuh dan transformatif. |
 | **Interaction Level** | Rendah; tidak ada interaksi mendalam antardisiplin. | Sedang; ada interaksi dan adaptasi konsep/metode. | Tinggi; peleburan disiplin untuk paradigma baru. |
-| **Disciplinary Boundaries** | Tetap dipertahaman dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
+| **Disciplinary Boundaries** | Tetap dipertahankan dengan ketat. | Sedikit melampaui, namun masih bisa dikenali. | Melebur sepenuhnya dan melibatkan *non-academic actors*. |
 | **Primary Focus** | Memperkaya sudut pandang dengan berbagai perspektif. | Memadukan pengetahuan demi pemahaman yang lebih menyeluruh. | Memecahkan masalah nyata dan menghasilkan solusi praktis. |
 | **Outcomes** | Kumpulan perspektif yang bervariasi. | Sintesis baru, melahirkan metode atau teori baru. | Pengetahuan transformatif dan solusi terapan berkelanjutan. |
 | **Metaphor** | *Orchestra* (tiap instrumen memainkan bagiannya sendiri). | *Jazz Ensemble* (instrumen saling menyahut dan berimprovisasi). | *Fusion Cuisine* (bahan dan teknik rasa menyatu melahirkan hidangan baru). |
