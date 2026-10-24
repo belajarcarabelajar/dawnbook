@@ -51,7 +51,7 @@ Burung sering digambarkan terbang di atas atau hinggap di pohon.
 
 - **Makna:** Melambangkan kebebasan jiwa atau penghuni alam yang lebih tinggi. Khususnya *Hamsa* (angsa), sering dianggap sebagai simbol kebijaksanaan karena kemampuannya memisahkan susu dari air (membedakan baik dari buruk).
 
-## 3. Membaca Kode Alam
+## 3. Panduan Membaca Unsur Alam
 
 Untuk memahami narasi moral melalui flora dan fauna, kita perlu memperhatikan komposisi visualnya. Berikut adalah tabel panduan cepat:
 
@@ -62,7 +62,7 @@ Untuk memahami narasi moral melalui flora dan fauna, kita perlu memperhatikan ko
 | **Ikan & Makhluk Air** | Danau/Sungai | Kelimpahan sumber daya sebagai upah kedermawanan. |
 | **Monyet** | Lingkungan Hutan | Sifat pikiran manusia yang gelisah dan sulit dikendalikan. |
 
-## 4. "Cermin di Balik Semak"
+## 4. Alam yang Mengikuti Tindakan Tokoh
 
 Bayangkan flora dan fauna ini sebagai **cermin**. Jika sebuah panel relief menunjukkan seseorang yang kasar, maka hewan di sekitarnya mungkin digambarkan gelisah atau ganas. Sebaliknya, jika panel tersebut menunjukkan seorang guru yang bijak, tanaman di sekitarnya akan terlihat subur dan burung-burung hinggap dengan tenang.
 

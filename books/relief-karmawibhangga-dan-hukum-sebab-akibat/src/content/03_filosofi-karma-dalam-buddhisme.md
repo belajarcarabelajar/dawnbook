@@ -26,7 +26,7 @@ $$
 $$
 </div>
 
-### Analogi Kebun Kehidupan
+### Analogi Petani
 
 Bayangkan kamu adalah seorang petani:
 

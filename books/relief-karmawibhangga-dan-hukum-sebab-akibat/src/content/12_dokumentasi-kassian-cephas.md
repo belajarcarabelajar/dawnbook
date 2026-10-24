@@ -14,13 +14,13 @@ Kassian Cephas (1845-1912) bukan sekadar fotografer biasa. Ia adalah fotografer 
 - Reputasinya dalam menghasilkan detail gambar yang tajam.
 - Kemampuannya bekerja dalam kondisi lapangan yang sulit.
 
-## Misi Penyelamatan Visual 1890-1891
+## Dokumentasi Sebelum Penutupan 1890-1891
 
 Ketika kaki asli Borobudur ditemukan, para arkeolog menghadapi dilema besar. Membiarkan kaki itu terbuka akan membahayakan stabilitas struktur seluruh candi (risiko longsor atau runtuh). Namun, menutupnya kembali tanpa dokumentasi berarti menghilangkan data sejarah yang penting.
 
 Keputusannya adalah: **Buka sejenak, dokumentasikan seluruhnya, lalu tutup selamanya.**
 
-### Proses Teknis yang Menantang
+### Kendala Teknis Pemotretan
 
 Mendokumentasikan 160 panel relief pada tahun 1890 bukanlah perkara menekan tombol di ponsel pintar. Cephas harus menghadapi beberapa kendala teknis:
 

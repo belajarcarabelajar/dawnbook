@@ -1,13 +1,13 @@
 # Summary
 
 - [Pengantar Relief Karmawibhangga](content/01_pengantar-relief-karmawibhangga.md)
-- [Misteri Kaki Tersembunyi Candi Borobudur](content/02_misteri-kaki-tersembunyi-borobudur.md)
+- [Kaki Tersembunyi Candi Borobudur](content/02_misteri-kaki-tersembunyi-borobudur.md)
 - [Filosofi Karma dalam Buddhisme](content/03_filosofi-karma-dalam-buddhisme.md)
 - [Naskah Mahakarmawibhangga](content/04_naskah-mahakarmawibhangga.md)
 - [Metode Pembacaan dan Struktur Visual Relief Karmawibhangga](content/05_metode-pembacaan-dan-struktur-visual-relief.md)
 - [Gambaran Kehidupan Sosial Jawa Kuno](content/06_gambaran-kehidupan-sosial-jawa-kuno.md)
 - [Perilaku Buruk dan Konsekuensi Penderitaan](content/07_perilaku-buruk-dan-konsekuensi-penderitaan.md)
-- [Kebajikan dan Buah Manis Tindakan Mulia](content/08_kebajikan-dan-buah-manis-tindakan-mulia.md)
+- [Kebajikan dan Hasil Perbuatan Baik](content/08_kebajikan-dan-buah-manis-tindakan-mulia.md)
 - [Visualisasi Alam Surga dan Neraka](content/09_visualisasi-alam-surga-dan-neraka.md)
 - [Simbolisme Flora dan Fauna](content/10_simbolisme-flora-dan-fauna.md)
 - [Teknik Pemahatan dan Gaya Seni Shailendra](content/11_teknik-pemahatan-dan-gaya-seni-shailendra.md)

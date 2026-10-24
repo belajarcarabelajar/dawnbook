@@ -62,7 +62,7 @@ Masyarakat Jawa Kuno adalah pecinta seni. Relief menunjukkan:
 - **Darat:** Penggunaan tandu (palanquin) untuk kaum bangsawan yang dipikul oleh beberapa orang. Kereta kuda juga muncul dalam beberapa panel.
 - **Laut:** Meski lebih banyak di relief Borobudur bagian atas, di Karmawibhangga juga terdapat penggambaran perahu cadik yang sederhana, menunjukkan ketergantungan masyarakat pada jalur air.
 
-## 4. Relief sebagai "CCTV" Masa Lalu
+## 4. Relief sebagai Sumber Sejarah
 
 Untuk memahami betapa pentingnya detail ini, bayangkan jika 1.000 tahun dari sekarang, semua komputer dan foto digital musnah. Satu-satunya yang tersisa adalah sebuah dinding batu yang berisi ukiran orang-orang sedang memegang *smartphone*, duduk di kafe dengan cangkir kopi, dan memakai sepatu *sneakers*.
 

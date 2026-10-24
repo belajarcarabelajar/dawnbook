@@ -44,7 +44,7 @@ Tujuan utamanya adalah menunjukkan bahwa tidak ada tindakan yang luput dari kons
 
 Relief ini menggambarkan siklus kelahiran kembali yang tak berujung. Dengan melihat gambaran neraka dan penderitaan, pengunjung diingatkan untuk segera memperbaiki perilaku agar bisa keluar dari siklus *Samsara*.
 
-## 4\. Cermin Retak dan Cermin Jernih
+## 4\. Analogi Cermin
 
 Untuk memahami konsep Karmawibhangga, bayangkan sebuah **cermin**.
 

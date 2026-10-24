@@ -1,4 +1,4 @@
-## Misteri Kaki Tersembunyi Candi Borobudur
+## Kaki Tersembunyi Candi Borobudur
 
 Bayangkan kamu sedang membangun sebuah gedung pencakar langit, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
 

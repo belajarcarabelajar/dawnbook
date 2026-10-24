@@ -51,7 +51,7 @@ Memahat di Borobudur bukanlah pekerjaan mudah. Bahan utamanya adalah **Batu Ande
 3. **Teknik High Relief (Relief Tinggi):** Pemahat Shailendra cenderung menggunakan teknik di mana figur-figur menonjol cukup jauh dari latar belakangnya. Hal ini menciptakan bayangan yang kuat saat terkena sinar matahari, memberikan efek tiga dimensi.
 4. **Penghalusan:** Menggunakan batu yang lebih halus atau pasir untuk menghilangkan bekas pahatan yang kasar.
 
-### 5. "Fotografi dalam Batu"
+### 5. Kedalaman Ruang pada Panel
 
 Bayangkan setiap panel relief Karmawibhangga adalah sebuah jepretan kamera pada abad ke-8. Teknik pemahatannya memungkinkan kita melihat "kedalaman lapangan" (depth of field). Tokoh utama dipahat lebih menonjol ke depan, sementara latar belakang seperti pohon, rumah, atau awan dipahat lebih tipis di belakang. Ini menciptakan perspektif ruang bagi pengamat yang berdiri di depannya.
 

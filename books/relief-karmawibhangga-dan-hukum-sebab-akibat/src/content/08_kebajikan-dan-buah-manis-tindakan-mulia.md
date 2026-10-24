@@ -1,10 +1,10 @@
-## Kebajikan dan Buah Manis Tindakan Mulia
+## Kebajikan dan Hasil Perbuatan Baik
 
 Setelah melihat tindakan negatif berujung pada penderitaan, kini kita membalik lembaran relief Karmawibhangga ke sisi perbuatan baik dan hasilnya. Jika relief Borobudur adalah sebuah cermin, maka bagian ini memantulkan perbuatan baik manusia.
 
 Di kaki tersembunyi Borobudur, terdapat panel-panel yang secara visual kontras dengan panel hukuman. Suasananya lebih tenang, komposisinya lebih harmonis, dan ekspresi tokoh-tokohnya tampak damai. Inilah visualisasi dari **Kusala Karma** (perbuatan baik).
 
-## 1. Menanam Benih di Tanah yang Subur
+## 1. Perumpamaan Benih
 
 Untuk memahami panel-panel ini, bayangkan hukum sebab-akibat sebagai pertanian. Setiap tindakan kita adalah benih yang ditanam.
 
@@ -66,7 +66,7 @@ Meskipun relief ini dibuat pada abad ke-8, pesan moralnya tetap relevan dalam ke
 | **Khanti** (Sabar) | Tidak terpancing emosi oleh komentar negatif di media sosial. | Kesehatan mental terjaga, reputasi yang stabil, dan hubungan interpersonal yang lebih baik. |
 | **Apacayana** (Hormat) | Menghargai privasi rekan kerja atau etika terhadap senior. | Terbangunnya budaya kerja yang sehat dan dihargai balik oleh lingkungan. |
 
-## 5. "Si Penolong yang Rendah Hati"
+## 5. Kisah Dharma dan Musafir
 
 Bayangkan sebuah panel relief yang menceritakan tentang **Dharma**, seorang petani sederhana.
 

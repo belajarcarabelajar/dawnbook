@@ -71,7 +71,7 @@ Mari kita lihat bagaimana satu baris teks diterjemahkan menjadi pahatan:
 
 **Implementasi Visual (Relief):** Pemahat tidak hanya menggambar orang diam, melainkan sebuah adegan dinamis di mana seseorang sedang membebaskan burung dari sangkar (melepas nyawa/ *fangshen*) atau tabib yang sedang mengobati pasien dengan penuh kasih sayang.
 
-## "Storyboard" dalam Konstruksi
+## Skenario Film dan Spesifikasi Teknis
 
 Dalam dunia modern, peran Mahakarmawibhangga bagi Borobudur mirip dengan **Script** dalam pembuatan film atau **Detailed Engineering Design (DED)** dalam proyek konstruksi.
 
