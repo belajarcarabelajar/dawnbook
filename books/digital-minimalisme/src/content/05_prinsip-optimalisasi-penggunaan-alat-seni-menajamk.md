@@ -32,7 +32,7 @@ Buat hambatan tambahan untuk aktivitas yang kurang selaras dengan prioritas kamu
 
 Beberapa konfigurasi praktis berikut bisa langsung diterapkan pada perangkat kamu saat ini:
 
-#### Operasi "Layar Beranda Kosong"
+#### Layar Beranda Kosong
 
 Layar utama ponsel harus sepi dari godaan. Bersihkan semua ikon aplikasi dari layar utama dan sisakan wallpaper yang menenangkan. Mulai sekarang, biasakan memakai fitur pencarian (Search/Spotlight) setiap kali ingin membuka aplikasi. Pendekatan ini memaksa otak mengetik nama aplikasi secara sadar, menghentikan refleks ketukan jari ke ikon berwarna-warni yang seringkali tidak disengaja.
 

@@ -63,7 +63,7 @@ Misalnya kamu ingin akhir pekan menjadi waktu khusus untuk diri sendiri dan kelu
 
 Pada hari-hari lainnya, aplikasi bisa diakses sesuai jadwal.
 
-## 6\. Budi sebagai "The Sustainable Minimalist"
+## 6\. Budi Membalas Pesan Tiga Kali Sehari
 
 **Budi, seorang Manajer Proyek.** Sesudah melakukan *digital declutter*, masalah utama Budi ternyata komunikasi kerja di WhatsApp yang terus-menerus tanpa jeda.
 

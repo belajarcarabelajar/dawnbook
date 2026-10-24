@@ -34,7 +34,7 @@ Ketika kita terus-menerus terpapar pada "input dari otak lain", kita kehilangan 
 ### Penurunan Kejernihan Berpikir
 Otak membutuhkan waktu untuk mengonsolidasikan informasi. Tanpa waktu refleksi, informasi hanya akan menumpuk menjadi tumpukan fakta yang tidak terorganisir, gagal menjadi kebijaksanaan atau pemahaman mendalam.
 
-### Matinya Kreativitas
+### Ide Orisinal yang Sulit Muncul
 Kreativitas seringkali muncul dari kondisi *Default Mode Network* (DMN) di otak,sebuah jaringan yang aktif justru saat kita sedang melamun. Input digital yang konstan memaksa otak tetap berada dalam mode reaktif, sehingga ide orisinal sulit muncul.
 
 ### Kerentanan Emosional

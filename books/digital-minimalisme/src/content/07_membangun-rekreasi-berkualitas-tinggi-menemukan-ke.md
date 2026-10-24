@@ -16,7 +16,7 @@ $$
 
 Semakin tinggi keterampilan ($\text{Skill}$) dan usaha ($\text{Effort}$) yang digunakan sepanjang waktu ($t$), semakin besar total kepuasan ($S$) yang akan kamu rasakan.
 
-## 2. Prinsip Sang Pengrajin
+## 2. Hobi yang Menghasilkan Karya Fisik
 
 Mengejar hobi yang menghasilkan karya fisik adalah salah satu cara terbaik mempraktikkan rekreasi berkualitas. Saat ini kita terlalu sering berkutat dengan bit dan piksel, sehingga kembali ke dunia analog bisa menjadi semacam jangkar bagi pikiran. 
 
@@ -44,7 +44,7 @@ Bayangkan rutinitas sore setelah seharian bekerja. Daripada langsung merebahkan 
 
 Tinggalkan ponsel di laci saat baru sampai rumah, lalu beralih merawat tanaman di halaman selama beberapa puluh menit. Setelah itu, kamu bisa menyiapkan makan malam berbekal buku resep fisik. Tubuhmu akan bergerak, ada makanan nyata yang tersaji, dan pikiran lebih jernih karena berhasil melepas penat lewat interaksi langsung dengan dunia nyata.
 
-## 6. Memanen Kepuasan Jangka Panjang
+## 6. Kepuasan Jangka Panjang
 
 Menghidupkan kembali hobi dan aktivitas fisik mengembalikan kendali atas rasa bahagia kita sendiri, menjauhkan kita dari siklus algoritma yang terus menuntut perhatian. 
 

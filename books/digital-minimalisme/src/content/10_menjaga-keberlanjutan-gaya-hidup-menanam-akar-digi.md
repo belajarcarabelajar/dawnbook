@@ -55,8 +55,8 @@ Tabel ini merangkum langkah praktis untuk menjaga ritme minimalisme digital:
 | Frekuensi | Aktivitas | Tujuan |
 | --- | --- | --- |
 | **Harian** | Matikan semua notifikasi, kecuali pesan atau telepon penting dari manusia nyata. | Memutus gangguan mikro. |
-| **Mingguan** | Sabat Digital (24 jam absen dari layar dan internet). | Memulihkan kejernihan mental dan membumi pada realitas. |
-| **Bulanan** | Cek *Screen Time* dan sapu bersih aplikasi yang menyita fokus. | Membasmi *digital creep* di tahap awal. |
+| **Mingguan** | Sabat Digital (24 jam absen dari layar dan internet). | Memulihkan kejernihan mental dan kembali ke dunia nyata. |
+| **Bulanan** | Cek *Screen Time* dan hapus aplikasi yang menyita fokus. | Menghentikan *digital creep* di tahap awal. |
 | **Tahunan** | *Mini-Declutter* selama satu minggu penuh. | Menegaskan kembali kendali atas teknologi. |
 
 ## Pegangan Cepat Menilai Aplikasi

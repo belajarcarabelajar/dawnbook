@@ -45,7 +45,7 @@ Aplikasi modern dirancang persis seperti ini:
 
 **Catatan:** Jika setiap kali membuka aplikasi kamu mendapatkan konten yang sama atau selalu bagus, kamu akan cepat bosan. Justru karena 90% kontennya "sampah" dan 10% sisanya "menarik", otakmu terus mencari yang 10% itu.
 
-## 4\. Validasi Sosial dan Hierarki Primal
+## 4\. Fitur Validasi Sosial
 
 Manusia adalah makhluk sosial yang secara evolusioner takut dikucilkan dari kelompok. Industri teknologi memanfaatkan rasa takut ini melalui fitur-fitur validasi:
 

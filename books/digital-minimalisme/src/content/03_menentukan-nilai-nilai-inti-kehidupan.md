@@ -59,7 +59,7 @@ Maya merasa selalu sibuk tapi tidak produktif. Setelah berefleksi, dia menemukan
 
 Awalnya, Maya menghabiskan 3 jam sehari di Twitter untuk melihat tren desain, yang pada akhirnya justru membuatnya merasa *insecure* dan kehilangan fokus untuk berkarya. Sebagai solusi berbasis nilai, dia menghapus Twitter dan menggantinya dengan langganan satu majalah desain fisik berkualitas untuk memenuhi nilai **Keahlian**. Untuk nilai **Keluarga**, dia mematikan seluruh notifikasi setelah jam 6 sore agar bisa hadir sepenuhnya untuk anak-anak. Terakhir, dia menghapus aplikasi podcast yang sering didengarkan saat berjalan kaki demi memenuhi nilai **Keheningan**, memberinya ruang berpikir tanpa intervensi pemikiran orang lain. Hasilnya, Maya merasa lebih tenang, lebih kreatif tanpa sekadar menjiplak tren, dan memiliki hubungan keluarga yang lebih hangat.
 
-### Menghadapi Layarmu
+### Memeriksa Layar Utama Ponselmu
 
 Ambil ponsel kamu sekarang. Lihat layar utamanya. Tanyakan pada diri sendiri untuk setiap aplikasi: *"Apakah aplikasi ini cara terbaik untuk mendukung salah satu dari 3 nilai inti saya? Atau adakah alternatif non-digital yang lebih baik?"*
 

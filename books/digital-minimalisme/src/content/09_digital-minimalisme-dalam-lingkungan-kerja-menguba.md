@@ -32,7 +32,7 @@ Untuk meminimalkan gangguan, mulailah dengan mengatur jadwal otomatis pada siste
 
 *Audit Ruang Kerja Digital: Berapa banyak tab peramban web yang terbuka di layar perangkat saat ini? Berapa banyak di antaranya yang benar-benar relevan dengan tugas yang sedang dikerjakan?*
 
-## 3\. Menjadikan Teknologi sebagai Akselerator
+## 3\. Teknologi yang Mempercepat Tugas Repetitif
 
 Digital minimalis tidak anti-teknologi. Mereka justru memanfaatkan alat bantu digital untuk mempercepat tugas-tugas repetitif sehingga tersisa lebih banyak waktu untuk *Deep Work*.
 
