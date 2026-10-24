@@ -10,7 +10,7 @@ Tidak semua gangguan perlu ditangani dengan tombol yang sama. Isi tabel di bawah
 | --- | --- | --- |
 | Satu rekomendasi tidak relevan | Not interested in this post, atau Not interested in this Topic | X akan merekomendasikan lebih sedikit konten sejenis, bukan menjamin seluruh topik hilang |
 | Penulis yang direkomendasikan terus berulang | Opsi tampilkan lebih sedikit dari penulis itu, jika tersedia | Efeknya bisa memudar, seperti dibahas di bawah |
-| Satu akun terus mengganggu | Mute akun | Akun itu tidak diberi tahu; kalau kamu mengikutinya, balasan dan mention-nya tetap masuk Notifications dan balasannya tetap tampil di dalam percakapan; DM tidak terpengaruh |
+| Satu akun terus mengganggu | Mute akun | Akun itu tidak diberi tahu; kalau kamu mengikutinya, balasan dan mention-nya tetap masuk Notifications dan balasannya masih tampil di dalam percakapan; DM tidak terpengaruh |
 | Akun di Following tidak lagi kamu perlukan | Unfollow, atau mute jika ingin tetap mengikuti tanpa melihat post-nya | Unfollow berhenti mengikuti, sedangkan mute menyembunyikan post tanpa berhenti mengikuti |
 | Frasa, nama, atau hashtag mengganggu | Muted words untuk Home timeline dan/atau Notifications | Juga menyembunyikan post di balasan serta notifikasi push, SMS, dan email; durasinya Forever (bawaan), 24 jam, 7 hari, atau 30 hari; notifikasi seluler yang kamu nyalakan untuk akun yang kamu ikuti tetap lolos; cara kerjanya mencocokkan kata, bukan memahami topik |
 | Percakapan mengirim notifikasi terus-menerus | Mute this conversation | Notifikasinya berhenti, tetapi post di percakapan itu masih bisa muncul di timeline |

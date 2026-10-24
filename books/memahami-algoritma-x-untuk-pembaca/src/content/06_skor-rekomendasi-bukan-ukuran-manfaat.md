@@ -2,7 +2,7 @@
 
 Coba ingat post yang paling lama menahan jempolmu kemarin, karena kemungkinan besar post itu tidak mengajarkan satu hal pun yang sedang kamu cari.
 
-Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu tonton dua kali sambil menunggu makanan datang. Kamu bertahan, mungkin juga ikut membalas, tetapi setelah aplikasi ditutup tidak ada pengetahuan baru yang tertinggal. Bagi sistem rekomendasi, sesi seperti itu tetap tampak berhasil. Alasannya sederhana: skor yang menyusun urutan For You dibangun dari tebakan tentang responsmu, bukan dari penilaian apakah sebuah post berguna bagimu.
+Mungkin itu utas perdebatan yang kamu baca sampai habis, atau video yang kamu tonton dua kali sambil menunggu makanan datang. Kamu bertahan, mungkin juga ikut membalas, tetapi setelah aplikasi ditutup tidak ada pengetahuan baru yang tertinggal. Bagi sistem rekomendasi, sesi seperti itu tampak berhasil. Alasannya sederhana: skor yang menyusun urutan For You dibangun dari tebakan tentang responsmu, bukan dari penilaian apakah sebuah post berguna bagimu.
 
 ### Respons yang Ditebak Model
 
@@ -22,13 +22,13 @@ $$
 
 Di sini $p\_i$ adalah keluaran prediksi untuk satu jenis respons, sedangkan $w\_i$ adalah bobotnya, dan penjumlahan hanya mengambil bobot yang tidak negatif. Untuk respons berbentuk peristiwa, seperti like atau reply, $p\_i$ bisa dibaca sebagai peluang respons itu terjadi. Sebagian keluaran lain berkaitan dengan durasi atau tontonan video, jadi tidak semua $p\_i$ punya arti yang sama.
 
-Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi terhadap sebuah kandidat post. Kode tidak sedang memberimu satu poin setiap kali kamu menekan like. Aktivitasmu memang bisa menjadi masukan bagi tebakan berikutnya, tetapi hubungan itu bukan tabel poin tetap.
+Satu hal yang sering disalahpahami: yang dinilai adalah respons yang diprediksi terhadap sebuah kandidat post. Kode tidak sedang memberimu satu poin setiap kali kamu menekan like. Aktivitasmu memang bisa menjadi masukan bagi tebakan berikutnya, tetapi hubungan itu bukan tabel poin yang baku.
 
 ### Bobot Lama yang Tidak Pernah Tetap
 
 Rumus di atas sengaja disederhanakan. Berkas HomeGlobalParams menyimpan sekitar 30 parameter bobot yang nilai awalnya 0,0. Nilai sebenarnya diisi lewat konfigurasi permintaan dan sebuah optimizer yang memberi set bobot per pengguna. Jadi angka 0,0 itu bukan pengaruh nyata like atau bookmark di akunmu.
 
-Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan konstanta tetap. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S\_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
+Prediksi negatif juga ditangani khusus. Fungsi RerankerUtil bisa mengalikannya secara biasa atau memakai aturan ambang, yang dibandingkan dengan nilai tertinggi di antara kandidat atau dengan sebuah konstanta. Di bawah ambang itu, prediksi negatif tidak menyumbang apa pun. Setelah itu, HeuristicScorer mengalikan sekitar 15 faktor penyesuaian, misalnya untuk post dari luar jaringanmu, reply, keragaman penulis, dan kelelahan umpan balik. Snapshot September 2025 juga memuat Phoenix sebagai jalur pemeringkatan alternatif. Karena itu, $S\_{+}$ hanya alat bantu memahami, bukan reproduksi skor produksi, dan tidak cukup untuk menebak urutan feed-mu.
 
 ### Bobot yang Kini Dibuka
 
@@ -59,7 +59,7 @@ Bobotnya tercantum di [berkas parameter peringkat](https://github.com/xai-org/x-
 
 Tabel ini menggoda untuk dibaca sebagai daftar poin, dan [README repositori itu](https://github.com/xai-org/x-algorithm) sendiri memperingatkan agar kamu tidak melakukannya. Bobot dikalikan dengan peluang prediksi bahwa kamu akan melakukan sebuah aksi, bukan dengan jumlah aksi yang terjadi. Kesimpulan seperti "satu report menghapus 468 like" adalah salah baca. Komentar di kodenya menjelaskan bahwa bobot mencampur dua hal, yaitu seberapa berharga sebuah aksi dan seberapa jarang aksi itu terjadi. Peluang dasar report lebih dari 1.000 kali lebih kecil daripada like, sehingga bobotnya harus besar agar prediksinya berpengaruh sama sekali. Nilai-nilai ini disalin dari konfigurasi produksi dan bisa berubah, jadi anggap tabel di atas sebagai potret per 8 Oktober 2026.
 
-Skor akhir pun belum langsung menjadi urutan. Sesudahnya masih ada pengali keragaman penulis yang menurun untuk post berikutnya dari penulis yang sama, potongan untuk post dari luar jaringanmu (juga untuk reply dan repost dari akun yang kamu ikuti), dorongan bagi penulis baru, lalu penataan ulang demi keragaman oleh VMRanker.
+Skor akhir belum langsung menjadi urutan. Sesudahnya masih ada pengali keragaman penulis yang menurun untuk post berikutnya dari penulis yang sama, potongan untuk post dari luar jaringanmu (juga untuk reply dan repost dari akun yang kamu ikuti), dorongan bagi penulis baru, lalu penataan ulang demi keragaman oleh VMRanker.
 
 ### Manfaat Tetap Kamu yang Menilai
 

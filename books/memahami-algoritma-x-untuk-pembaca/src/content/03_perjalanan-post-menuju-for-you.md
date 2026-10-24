@@ -67,11 +67,11 @@ flowchart TD
     S --> B["Blending menyisipkan iklan dan saran akun"]
 ```
 
-Tetap ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi itu tetap bukan keseluruhan sistem.
+Ingat bahwa tidak satu pun dari kedua repositori ini adalah salinan lengkap sistem yang berjalan. Konfigurasi per permintaan, model terlatih, data pengguna, dan banyak eksperimen langsung berada di luar jangkauan siapa pun yang membaca kodenya. Repositori baru memang menyalin nilai bawaan dari produksi dan menargetkan agar eksperimen yang menyentuh sekitar 10% lalu lintas atau lebih ikut terlihat, tetapi itu tetap bukan keseluruhan sistem.
 
 ### Apa yang Berubah bagi Pembaca
 
-- **Masih berlaku.** For You tetap mencampur post dari akun yang kamu ikuti dengan post rekomendasi.
+- **Masih berlaku.** For You mencampur post dari akun yang kamu ikuti dengan post rekomendasi.
 - **Masih berlaku.** Alur besarnya sama, yaitu mengumpulkan, menyaring, menilai, menyaring visibilitas, lalu mencampur.
 - **Masih berlaku.** Mute, blokir, kata yang dibisukan, dan "not interested" tetap menjadi kendali utamamu sebagai pembaca.
 - **Berubah.** Nama Earlybird dan UTEG tidak muncul di README baru. Jalur akun yang kamu ikuti kini dilayani Thunder, dan prediksi dikerjakan Phoenix.
