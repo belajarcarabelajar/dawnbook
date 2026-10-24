@@ -1,5 +1,5 @@
 ## Metode Penghitungan dan Rumus Elastisitas Permintaan
-Setelah memahami apa itu elastisitas permintaan secara konseptual, tantangan berikutnya adalah bagaimana kita mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
+Setelah memahami elastisitas permintaan secara konseptual, tantangan berikutnya adalah mengubah data pasar mentah menjadi angka yang bermakna. Mengukur elastisitas membantu kita memahami dan memprediksi perilaku pembeli di pasar.
 Dalam bagian ini, kita akan membahas teknik penghitungan elastisitas permintaan menggunakan dua metode utama: **Rumus Elastisitas Titik (Point Elasticity)** dan **Metode Nilai Tengah (Midpoint Method)**.
 ## 1. Koefisien Elastisitas
 Sebelum masuk ke rumus teknis, kita perlu memahami apa yang sedang kita cari. Hasil dari penghitungan elastisitas disebut sebagai **Koefisien Elastisitas ($E_d$)**. Angka ini memberi tahu kita seberapa besar persentase perubahan jumlah permintaan jika harga berubah sebesar 1\%.

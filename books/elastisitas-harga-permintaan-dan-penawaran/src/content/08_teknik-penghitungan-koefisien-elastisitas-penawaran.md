@@ -1,5 +1,5 @@
 ## Teknik Penghitungan Koefisien Elastisitas Penawaran
-Setelah memahami konsep dasar mengapa produsen bereaksi terhadap perubahan harga, pertanyaan besar selanjutnya adalah: **"Seberapa besar reaksi tersebut?"**
+Setelah memahami konsep dasar mengapa produsen bereaksi terhadap perubahan harga, kita sampai pada pertanyaan besar selanjutnya. **"Seberapa besar reaksi tersebut?"**
 Dalam dunia ekonomi, kita tidak cukup hanya mengatakan bahwa penawaran "naik sedikit" atau "naik banyak". Kita membutuhkan angka pasti untuk mengambil keputusan bisnis yang akurat. Di sinilah **Teknik Penghitungan Koefisien Elastisitas Penawaran ($\text{E}_s$)** berperan. Materi ini akan memandu kamu menerapkan rumus matematika secara sistematis untuk mengukur derajat kepekaan penawaran.
 ## 1. Metode Persentase
 Metode ini adalah cara paling sederhana untuk melihat hubungan antara perubahan harga dan perubahan jumlah barang yang ditawarkan. Secara matematis, koefisien elastisitas penawaran ($\text{E}_s$) dihitung dengan membagi persentase perubahan jumlah barang yang ditawarkan dengan persentase perubahan harga.

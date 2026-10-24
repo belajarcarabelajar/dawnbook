@@ -1,5 +1,5 @@
 ## Faktor-Faktor Penentu Elastisitas Penawaran
-Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, pabrik-pabrik bisa langsung memproduksi jutaan unit dalam sekejap, namun ketika harga durian meroket, jumlah durian di pasar tetap terbatas?
+Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, pabrik-pabrik bisa langsung memproduksi jutaan unit dalam sekejap? Sebaliknya, ketika harga durian meroket, jumlah durian di pasar tetap terbatas.
 Perbedaan kecepatan dan kemampuan produsen untuk merespons perubahan harga inilah yang kita sebut sebagai **Elastisitas Penawaran**. Namun, apa sebenarnya yang membuat penawaran sebuah produk sangat fleksibel (elastis) sementara produk lainnya sangat kaku (inelastis)?
 Mari kita bedah faktor-faktor kunci yang menentukan "kelincahan" produsen dalam merespons pasar.
 ### 1. Kapasitas Produksi (Production Capacity)

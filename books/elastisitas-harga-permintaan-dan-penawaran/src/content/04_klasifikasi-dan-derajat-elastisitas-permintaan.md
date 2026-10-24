@@ -1,5 +1,5 @@
 ## Klasifikasi dan Derajat Elastisitas Permintaan
-Setelah memahami bagaimana cara menghitung koefisien elastisitas pada materi sebelumnya, pertanyaan besar berikutnya adalah: **"Apa arti dari angka-angka tersebut?"**
+Setelah memahami cara menghitung koefisien elastisitas pada materi sebelumnya, muncul pertanyaan besar berikutnya. **"Apa arti dari angka-angka tersebut?"**
 Dalam dunia ekonomi, tidak semua barang memberikan reaksi yang sama terhadap perubahan harga. Ada barang yang permintaannya langsung "terjun bebas" saat harganya naik sedikit saja, namun ada juga barang yang permintaannya tetap kokoh meskipun harganya melonjak drastis. Fenomena ini kita klasifikasikan ke dalam lima derajat elastisitas permintaan.
 ### Karet Gelang vs. Kawat Besi
 Bayangkan permintaan konsumen adalah sebuah benda yang ditarik oleh kekuatan bernama "Perubahan Harga".
