@@ -107,4 +107,4 @@ Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dar
 
 Sebagai langkah awal setelah menyelesaikan modul ini, cobalah mengamati satu inisiatif di tempat kerja kamu yang melibatkan lintas departemen. Tentukan satu strategi interpersonal yang akan kamu terapkan langsung untuk menyelaraskan visi mereka mulai besok.
 
-Selamat! Kamu telah menyelesaikan seluruh rangkaian pembelajaran Kecerdasan Interpersonal & Komunikasi. Gunakan pemahaman ini untuk mendorong inovasi dan kolaborasi nyata di tempat kerja kamu.
+Bab ini menutup seluruh rangkaian pembelajaran Kecerdasan Interpersonal & Komunikasi yang sudah kamu tempuh. Gunakan pemahaman ini untuk mendorong inovasi dan kolaborasi nyata di tempat kerja kamu.
