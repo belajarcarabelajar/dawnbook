@@ -94,4 +94,4 @@ Banyak anak muda menahan diri untuk mencari bantuan karena takut dianggap "lemah
 
 Mencari bantuan profesional di tengah *Quarter-Life Crisis* bukan berarti kamu gagal dewasa. Sebaliknya, itu berarti kamu mengambil langkah proaktif untuk memastikan bahwa masa depanmu tidak terhambat oleh beban emosional yang sebenarnya bisa disembuhkan.
 
-*Ingatlah, uang dan waktu untuk merawat kesehatan mental tidak terbuang percuma. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*
+*Ingatlah, merawat kesehatan mental bukan pengeluaran yang sia-sia. Jika kamu merasa kewalahan, kamu tidak harus menanggungnya sendirian.*
