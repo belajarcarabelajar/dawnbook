@@ -77,7 +77,7 @@ $$
 
 Fase mengukur ketepatan waktu. Jika mata bergerak tepat saat kepala bergerak, maka fase berada pada 180 derajat (berlawanan sempurna).
 
-## VOR dalam Aksi
+## Contoh VOR Sehari-hari
 
 ### Membaca di Dalam Bus
 

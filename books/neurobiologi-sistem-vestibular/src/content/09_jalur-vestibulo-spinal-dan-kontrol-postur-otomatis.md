@@ -4,7 +4,7 @@ Pernahkah timbul pertanyaan mengapa tubuh secara otomatis menegang dan menyesuai
 
 Inilah sistem "pilot otomatis" tubuh manusia. **Jalur Vestibulo-Spinal** adalah jembatan saraf yang menghubungkan informasi keseimbangan dari telinga dalam langsung ke otot-otot tubuh kita. Tanpa jalur ini, tubuh akan sulit berdiri tegak melawan gravitasi.
 
-### 1. Filosofi "Tali Tak Terlihat"
+### 1. Tubuh seperti Boneka Marionet
 
 Bayangkan tubuh manusia seperti sebuah boneka marionet. Namun, alih-alih digerakkan oleh tangan manusia, tali-tali yang mengikat otot dikendalikan oleh sistem pengolah sinyal di batang otak (Nukleus Vestibularis), yang menerima data waktu nyata (*real-time*) dari sensor kemiringan (labirin vestibular).
 
@@ -76,7 +76,7 @@ Pada kasus trauma kepala atau lesi struktural berat di batang otak bagian atas, 
 - **Gejala Klinis:** Ekstremitas atas dan bawah berada dalam postur ekstensi kaku maksimal dengan rotasi internal.
 - **Patofisiologi:** Hilangnya kontrol inhibisi desenden dari korteks menyebabkan traktus vestibulospinalis lateral memicu pelepasan impuls eksitatorik secara tidak terkendali ke neuron motorik otot ekstensor.
 
-### 6. Ringkasan Komparatif
+### 6. Perbandingan LVST dan MVST
 
 | Parameter | $\text{LVST}$ (Lateral) | $\text{MVST}$ (Medial) |
 | :--- | :--- | :--- |

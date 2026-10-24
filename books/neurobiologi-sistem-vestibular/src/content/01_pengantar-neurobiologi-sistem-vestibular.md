@@ -10,7 +10,7 @@ Sistem vestibular adalah sistem sensorik yang bertanggung jawab untuk memberikan
 
 Bayangkan sebuah *smartphone* modern. Di dalamnya terdapat sensor kecil yang mendeteksi apakah ponsel sedang tegak atau miring (potret atau lanskap). Sistem vestibular melakukan hal yang persis sama untuk otak kita, namun dengan presisi yang jauh lebih tinggi.
 
-#### Sang Pilot di Balik Layar
+#### Instrumen Navigasi di Kokpit
 
 Bayangkan tubuh manusia sebagai sebuah pesawat terbang. Mata adalah jendela kokpit, otot adalah kemudi, tetapi **sistem vestibular adalah instrumen navigasi internal**. Tanpa instrumen ini, sang pilot (otak) tidak akan tahu apakah pesawat sedang menanjak, menukik, atau miring, terutama saat terbang di dalam awan tebal (seperti saat berjalan di ruangan gelap).
 
@@ -45,7 +45,7 @@ Vektor gerakan ini dapat direpresentasikan secara matematis dalam tiga dimensi (
 - **Yaw:** Gerakan menggeleng (sumbu vertikal).
 - **Roll:** Gerakan memiringkan kepala ke bahu (sumbu sagital).
 
-### 4. Aplikasi Dunia Nyata dan Skenario
+### 4. Peran Vestibular di Kehidupan Sehari-hari
 
 Memahami sistem vestibular bukan hanya teori akademis; ini adalah kunci di balik berbagai aktivitas manusia yang kompleks:
 

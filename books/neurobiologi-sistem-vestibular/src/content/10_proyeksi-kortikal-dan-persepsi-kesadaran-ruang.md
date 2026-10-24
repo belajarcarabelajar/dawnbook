@@ -79,11 +79,11 @@ Dalam kondisi visibilitas nol (seperti penerbangan instrumen di dalam kabut atau
 
 Sensasi mual dan disorientasi saat menggunakan perangkat *virtual reality* (VR) berakar dari konflik sensorik kortikal. Input visual melalui proyeksi area MST mengindikasikan tubuh sedang berlari kencang melintasi arena simulasi, sementara organ vestibular mengonfirmasi bahwa posisi kepala dan tubuh relatif statis di atas kursi. Ketidaksesuaian sinyal yang diproses pada area PIVC dan korteks vestibular memicu respons protektif otonom berupa keringat dingin, pusing, dan mual.
 
-### 6. Latihan Refleksi
+### 6. Membayangkan Ruang dengan Mata Tertutup
 
 Ketika seseorang menutup mata lalu memutar kepala secara perlahan ke kiri dan ke kanan, posisi dan tata ruang sekitar tetap dapat dibayangkan secara presisi di dalam benak. Fenomena ini mendemonstrasikan fungsi nyata PIVC, sel-sel arah kepala (*head direction cells*), dan hipokampus yang secara aktif memperbarui koordinat spasial tubuh secara waktu nyata (*real-time*).
 
-### 7. Ringkasan Struktur Jalur
+### 7. Tingkatan Jalur dari Reseptor ke Korteks
 
 1. **Input Reseptor:** Kanalis semisirkularis dan organ otolit di telinga dalam.
 2. **Relai Batang Otak:** Kompleks nukleus vestibularis.

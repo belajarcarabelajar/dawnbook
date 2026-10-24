@@ -72,7 +72,7 @@ Mabuk perjalanan (*motion sickness*) terjadi akibat ketidaksesuaian interpretasi
 
 **Respon Fisiologis:** Terjadi **konflik sensorik** di nukleus vestibularis. Ketidakcocokan sinyal ini merangsang proyeksi ke *area postrema* di dasar ventrikel keempat (pusat pemicu muntah) serta jaras otonomik. Secara biologis-evolusioner, sistem saraf pusat mengidentifikasi diskrepansi sensorik ekstrem ini menyerupai neurotoksisitas (keracunan), sehingga mencetuskan respon mual dan muntah sebagai mekanisme proteksi.
 
-### 6. Neuroplastisitas dan Kompensasi Vestibular
+### 6. Pemulihan Setelah Lesi Unilateral
 
 Ketika terjadi lesi unilateral pada labirin vestibular (misalnya akibat neuritis vestibularis), terjadi ketidakseimbangan sinyal spontan di mana $\Delta V$ bernilai sangat tinggi meskipun kepala dalam posisi diam, memicu vertigo rotasional berat dan nistagmus spontan.
 

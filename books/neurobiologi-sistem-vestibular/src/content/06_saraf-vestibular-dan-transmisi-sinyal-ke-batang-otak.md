@@ -33,7 +33,7 @@ Saraf vestibular tidak berjalan sebagai satu berkas tunggal yang seragam, melain
 
 **Relevansi Klinis Pembagian Cabang:** Kerusakan selektif pada salah satu cabang (misalnya akibat neuritis vestibularis superior) dapat memicu manifestasi klinis yang spesifik, seperti vertigo pada orientasi gerakan tertentu dengan fungsi organ otolit sakulus atau kanalis posterior yang tetap intak.
 
-### 3. Bahasa Frekuensi dalam Transmisi Bioelektrik
+### 3. Kode Frekuensi Potensial Aksi
 
 Transmisi informasi dari telinga dalam ke otak dikodekan melalui **Frekuensi Tembakan Potensial Aksi** (*Action Potential Firing Rate*).
 

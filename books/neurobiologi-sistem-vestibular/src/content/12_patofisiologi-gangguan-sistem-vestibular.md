@@ -24,7 +24,7 @@ Pada kondisi patologis, terjadi **asimetri tonik**:
 
 **BPPV** merupakan penyebab paling umum dari vertigo perifer. Kondisi ini memberikan gambaran jelas mengenai bagaimana gangguan mekanis sederhana dapat mengacaukan neurobiologi yang kompleks.
 
-#### Patogenesis Otoconia yang Tersesat
+#### Patogenesis Otoconia yang Terlepas
 
 Sebagaimana telah dibahas pada pembahasan Organ Otolit, makula utrikulus mengandung kristal kalsium karbonat ($\text{CaCO}_3$) yang disebut **otoconia**.
 

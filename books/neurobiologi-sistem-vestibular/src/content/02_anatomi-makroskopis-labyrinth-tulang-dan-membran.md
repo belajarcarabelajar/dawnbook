@@ -83,7 +83,7 @@ Dalam kondisi klinis normal, produksi dan penyerapan endolymph berada dalam kese
 
 > **Pertanyaan Reflektif:** Bagaimana perubahan tekanan atmosfer (seperti saat menaiki pesawat atau menyelam) dapat memengaruhi keseimbangan cairan yang sangat sensitif ini?
 
-### 7. Ringkasan Struktur
+### 7. Pokok Struktur Labyrinth
 
 1. **Labyrinth Tulang** = Pelindung luar, berisi Perilymph ($\text{Na}^+$ tinggi).
 2. **Labyrinth Membran** = Sistem sensorik dalam, berisi Endolymph ($\text{K}^+$ tinggi).

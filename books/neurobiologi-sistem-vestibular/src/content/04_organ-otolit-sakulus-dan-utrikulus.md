@@ -57,7 +57,7 @@ Setiap makula dibagi menjadi dua bagian oleh sebuah garis melengkung yang disebu
 
 Susunan ini memastikan bahwa gerakan apa pun akan merangsang beberapa sel rambut sambil menghambat sel rambut lainnya. Pola aktivasi yang kompleks ini memungkinkan otak untuk menafsirkan arah gerakan secara tepat.
 
-### 5. Aplikasi Dunia Nyata dan Kasus Praktis
+### 5. Contoh Kerja dan Gangguan Otolit
 
 #### "The Elevator Effect"
 
