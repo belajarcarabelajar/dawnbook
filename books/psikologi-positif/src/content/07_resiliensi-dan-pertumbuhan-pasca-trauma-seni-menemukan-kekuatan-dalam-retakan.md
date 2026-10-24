@@ -8,7 +8,7 @@ Bagian ini membahas dua konsep penting: **Resiliensi** (kemampuan untuk bangkit 
 
 **Resiliensi** adalah kapasitas seseorang untuk beradaptasi secara positif saat menghadapi kesulitan, trauma, tragedi, atau tekanan hidup yang berat.
 
-> **Analogi Pegas**: Bayangkan sebuah pegas yang ditekan dengan kuat. Resiliensi adalah daya lentur yang membuat pegas kembali ke bentuk semula saat tekanan dilepaskan. Tanpa daya lentur ini, pegas akan bengkok secara permanen atau bahkan patah.
+> **Analogi Pegas**: Bayangkan sebuah pegas yang ditekan dengan kuat. Resiliensi adalah daya lentur yang membuat pegas kembali ke bentuk semula saat tekanan dilepaskan. Tanpa daya lentur ini, pegas akan bengkok secara permanen atau patah.
 
 #### Mengapa Resiliensi Penting?
 
