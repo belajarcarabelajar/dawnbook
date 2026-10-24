@@ -43,7 +43,7 @@ Karakteristik utamanya mencakup empati sosial untuk memahami kesulitan orang lai
 
 Sebagai gambaran, seorang aktivis lingkungan yang menyadari ancaman perubahan iklim mungkin merasa terpanggil untuk menyuarakan perlindungan lingkungan, mengedukasi masyarakat, atau mengadvokasi kebijakan publik. Di bidang lain, relawan kesehatan mental yang melihat peningkatan masalah psikologis mungkin memutuskan untuk membangun platform berbagi sumber daya. Begitu pula dengan pengusaha sosial yang mendirikan bisnis dengan tujuan memecahkan krisis air bersih di daerah terpencil sambil tetap memastikan keberlanjutan model usahanya.
 
-> "Cara terbaik untuk menemukan dirimu adalah dengan kehilangan dirimu dalam pelayanan orang lain." - Mahatma Gandhi. Pilar ini adalah esensi dari pepatah tersebut.
+Inti pilar ini sederhana: sering kali kamu justru menemukan dirimu saat sibuk melayani orang lain.
 
 ## 4\. Apa yang Dapat Menghasilkan Uang
 
