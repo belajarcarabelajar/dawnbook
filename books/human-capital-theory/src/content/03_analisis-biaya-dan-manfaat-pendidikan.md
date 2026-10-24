@@ -1,6 +1,6 @@
 ## Analisis Biaya dan Manfaat Pendidikan
 
-Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal? Padahal, ia bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang.
+Pernahkah kamu bertanya-tanya mengapa seseorang rela menghabiskan waktu empat tahun di universitas dan membayar biaya kuliah yang mahal? Ia bisa saja langsung bekerja setelah lulus SMA dan menghasilkan uang.
 
 Dalam **Teori Modal Manusia** (*Human Capital Theory*), keputusan ini bukan sekadar mengejar gelar atau prestise sosial. Pendidikan dipandang sebagai sebuah **investasi**, persis seperti perusahaan yang membeli mesin baru untuk meningkatkan kapasitas produksi. Keputusan untuk melanjutkan pendidikan merupakan hasil kalkulasi rasional antara pengorbanan hari ini dengan potensi imbalan di masa depan.
 
