@@ -1,6 +1,6 @@
 ## Panduan Praktis Etika Kebajikan
 
-Setelah mempelajari teori-teori besar mulai dari Aristoteles hingga kebijakan praktis (*Phronesis*), pertanyaan besar yang tersisa adalah: **"Bagaimana cara saya menerapkan semua ini saat bangun tidur besok pagi?"**
+Setelah mempelajari teori-teori besar mulai dari Aristoteles hingga kebijakan praktis (*Phronesis*), satu pertanyaan besar masih tersisa. **"Bagaimana cara saya menerapkan semua ini saat bangun tidur besok pagi?"**
 
 Etika kebajikan bukanlah sebuah buku resep yang memberikan instruksi kaku, melainkan sebuah seni hidup. Jika etika modern sering bertanya, "Apa yang harus saya lakukan dalam situasi ini?", etika kebajikan bertanya, **"Pribadi seperti apa yang ingin saya bentuk melalui tindakan ini?"**
 

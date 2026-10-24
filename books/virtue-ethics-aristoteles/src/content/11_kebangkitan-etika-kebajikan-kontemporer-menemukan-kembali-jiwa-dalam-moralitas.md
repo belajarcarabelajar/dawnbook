@@ -1,6 +1,6 @@
 ## Kebangkitan Etika Kebajikan Kontemporer
 
-Selama berabad-abad, dunia filsafat moral didominasi oleh dua raksasa: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme** (yang berfokus pada konsekuensi dan hasil akhir). Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang amat mendasar: manusia itu sendiri.
+Selama berabad-abad, dunia filsafat moral didominasi oleh dua raksasa: **Deontologi** (yang berfokus pada kewajiban dan aturan) dan **Utilitarianisme**. Raksasa kedua itu berfokus pada konsekuensi dan hasil akhir. Namun, pada pertengahan abad ke-20, muncul sebuah kegelisahan. Para filsuf mulai merasa bahwa etika modern telah kehilangan sesuatu yang amat mendasar: manusia itu sendiri.
 
 Bagian ini mengeksplorasi bagaimana tradisi Aristotelian yang sempat "tertidur" bangkit kembali melalui pemikiran tajam tokoh-tokoh seperti Elizabeth Anscombe dan Alasdair MacIntyre.
 
