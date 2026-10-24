@@ -55,7 +55,7 @@ Ringkasnya:
 
 Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
 
-Karena itu pula, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
+Karena itulah, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
 ## Kesimpulan Bab
 

@@ -59,7 +59,7 @@ Beri jeda beberapa detik. Lihat beberapa hasil, bukan cuma yang pertama. Baca sa
 
 Semua teori di atas tidak berguna kalau tidak masuk ke keseharian. Beberapa kebiasaan praktis, terutama untuk lalu lintas pesan di Indonesia:
 
-- **Curiga pada kabar yang minta cepat disebar.** "Sebarkan sebelum dihapus!" adalah teknik menekan supaya kamu tidak sempat berpikir. Itu sinyal untuk berhenti.
+- **Curiga pada kabar yang minta cepat disebar.** "Sebarkan sebelum dihapus!" adalah teknik menekan supaya kamu tidak sempat berpikir. Itulah sinyal untuk berhenti.
 - **Cek dulu sebelum meneruskan ke grup keluarga.** Kamu tidak wajib jadi orang pertama yang membagikan. Lebih baik telat tapi benar daripada cepat tapi salah.
 - **Waspadai pesan berantai tanpa sumber jelas.** Kalau tidak ada nama media, tanggal, atau tautan yang bisa dicek, anggap itu belum terverifikasi.
 - **Curiga pada emosi kuat di dirimu sendiri.** Kalau sebuah kabar bikin kamu langsung marah atau langsung senang, itulah saat paling rawan. Emosi kuat adalah tanda untuk berhenti, bukan untuk membagikan.

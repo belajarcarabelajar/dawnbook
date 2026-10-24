@@ -24,7 +24,7 @@ Yang membuat efek ini berbahaya bukan cuma keberadaannya, tapi betapa sulitnya d
 
 **Ia muncul pada judul berita palsu.** Pennycook, Cannon, dan Rand pada tahun 2018 menunjukkan sekadar satu kali paparan terhadap judul berita palsu sudah cukup menaikkan penilaian akurasinya saat judul itu muncul lagi. Satu kali, bukan puluhan.
 
-**Ia relatif tidak bergantung pada kecerdasan.** Orang analitis dan cerdas ikut terpengaruh. Ini bukan soal pintar atau bodoh, tapi cara kerja dasar otak manusia: efek ini tidak lewat pintu depan penalaran sadar, tapi lewat pintu belakang rasa familiar.
+**Ia relatif tidak bergantung pada kecerdasan.** Orang analitis dan cerdas sekalipun terpengaruh. Ini bukan soal pintar atau bodoh, tapi cara kerja dasar otak manusia: efek ini tidak lewat pintu depan penalaran sadar, tapi lewat pintu belakang rasa familiar.
 
 ### Dari percaya ke membagikan
 

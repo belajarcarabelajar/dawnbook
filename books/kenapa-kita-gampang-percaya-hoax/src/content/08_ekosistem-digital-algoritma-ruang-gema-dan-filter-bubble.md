@@ -57,7 +57,7 @@ Selain apa yang disaring, **bagaimana informasi mengalir** juga penting. Ekosist
 - **Grup tertutup**: ruang seperti WhatsApp dan Telegram sulit dijangkau koreksi. Hoaks beredar di antara orang-orang yang saling percaya, jauh dari mata pemeriksa fakta, dan bantahan jarang ikut masuk.
 - **Bot dan akun palsu**: jangkauan bisa dibesarkan secara artifisial. Ratusan akun otomatis membuat sebuah klaim tampak jauh lebih populer dan luas daripada kenyataannya.
 
-Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soal waktu. Ia sudah menyebar dan diyakini sebelum koreksi sempat mengejar. Dan ketika koreksi datang, ia harus menembus dinding grup tertutup yang tidak menghendaki kehadirannya.
+Kombinasi kecepatan dan ruang tertutup ini berarti hoaks sering menang dalam soal waktu. Ia sudah menyebar dan diyakini sebelum koreksi sempat mengejar. Dan sekalipun koreksi datang, ia harus menembus dinding grup tertutup yang tidak menghendaki kehadirannya.
 
 ### Hoaks yang murah dan menguntungkan dalam ekonomi perhatian
 

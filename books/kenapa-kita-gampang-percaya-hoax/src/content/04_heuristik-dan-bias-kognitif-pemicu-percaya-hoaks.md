@@ -61,7 +61,7 @@ Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak
 
 ### Kenapa ini penting untuk kamu sadari
 
-Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
+Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Orang yang berpendidikan tinggi sekalipun bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
 
 Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
 
