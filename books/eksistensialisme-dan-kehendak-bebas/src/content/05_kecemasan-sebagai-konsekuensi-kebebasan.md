@@ -13,7 +13,7 @@ Dalam tradisi filsafat eksistensial, khususnya melalui pemikiran Søren Kierkega
 
 #### Fenomenologi di Tepi Jurang
 
-Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial yang menggetarkan bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
+Kierkegaard mengilustrasikan kecemasan melalui pengalaman seseorang yang berdiri di bibir jurang curam. Sensasi pusing yang dialami bukan sekadar ketakutan objektif akan tergelincir karena gravitasi, melainkan kesadaran eksistensial bahwa tidak ada rintangan fisik apa pun yang mencegah dirinya untuk melompat selain keputusan kehendaknya sendiri.
 
 ### 2. Tanggung Jawab Radikal sebagai Sumber Kecemasan
 
@@ -76,4 +76,4 @@ flowchart TD
 
 ### 7. Harga Ontologis dari Kebebasan
 
-Kecemasan adalah harga ontologis yang harus dibayar demi kepemilikan atas kebebasan. Menolak kecemasan berarti menolak kedaulatan diri sebagai manusia bebas. Dengan merangkul kecemasan sebagai konsekuensi wajar dari kebebasan, individu dapat melangkah dengan penuh kesadaran dan keteguhan dalam mengarungi dinamika eksistensi.
+Kecemasan adalah harga ontologis yang harus dibayar demi kepemilikan atas kebebasan. Menolak kecemasan berarti menolak kedaulatan diri sebagai manusia bebas. Dengan merangkul kecemasan sebagai konsekuensi wajar dari kebebasan, individu dapat bertindak dengan sadar dan teguh.

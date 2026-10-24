@@ -10,7 +10,7 @@ Nietzsche memosisikan *Wille zur Macht* (*Will to Power*) bukan sebagai ambisi h
 
 Secara fenomenologis, penaklukkan diri dianalogikan seperti seorang pemahat marmer:
 - **Daya Kehendak Berkuasa:** Merepresentasikan intensitas dan keberanian mengayunkan pahat reflektif.
-- **Praksis Penaklukkan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terartikulasi secara paripurna.
+- **Praksis Penaklukkan Diri:** Proses disiplin dalam mengikis bagian marmer yang kasar dan amorf, sehingga bentuk estetis serta potensi unggul subjek dapat terbentuk.
 
 ### 2. Transvaluasi Nilai (*Umwertung aller Werte*)
 
@@ -76,4 +76,4 @@ Dalam realitas kontemporer, penerapan *Wille zur Macht* beroperasi dalam arena p
 
 ### 6. Menguasai Kelemahan Diri Sendiri
 
-Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan luhur masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.
+Kehendak untuk berkuasa pada hakikatnya adalah kehendak untuk menguasai kelemahan diri sendiri. Manusia bukanlah produk statis, melainkan jembatan yang menghubungkan kebiasaan pasif masa lalu dengan kemungkinan-kemungkinan masa depan. Melalui penaklukkan diri yang berkelanjutan, manusia merealisasikan kedaulatannya sebagai pencipta nilai yang merdeka.

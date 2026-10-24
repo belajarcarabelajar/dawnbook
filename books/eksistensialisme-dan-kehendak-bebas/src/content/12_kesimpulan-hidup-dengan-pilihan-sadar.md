@@ -1,13 +1,13 @@
 ## Hidup dengan Pilihan Sadar
 
-Sintesis filsafat eksistensialisme menegaskan bahwa hidup dengan pilihan sadar merupakan bentuk perayaan tertinggi atas martabat dan kedaulatan manusia. Melintasi pemikiran fundamental para filsuf eksistensialis, mulai dari doktrin ontologis bahwa eksistensi mendahului esensi, dinamika kecemasan (*Angst*) sebagai pusingnya kebebasan, hingga pemberontakan terhadap absurditas dan penegasan kehendak berkuasa, filsafat ini bermuara pada satu imperatif: kedaulatan subjek dalam mengukir makna hidup secara otentik.
+Sintesis filsafat eksistensialisme menegaskan bahwa hidup dengan pilihan sadar merupakan wujud martabat dan kedaulatan manusia. Melintasi pemikiran fundamental para filsuf eksistensialis, mulai dari doktrin ontologis bahwa eksistensi mendahului esensi, dinamika kecemasan (*Angst*) sebagai pusingnya kebebasan, hingga pemberontakan terhadap absurditas dan penegasan kehendak berkuasa, filsafat ini bermuara pada satu imperatif: kedaulatan subjek dalam menciptakan makna hidup secara otentik.
 
 ### 1. Rekapitulasi Konseptual
 
 Eksistensialisme hadir sebagai filsafat pembebasan yang mengonversi disorientasi kosmis menjadi panggilan keberanian praksis. Pokok-pokok pikiran yang menjadi fondasi bangunan pemikiran ini mencakup:
 
 - **Eksistensi Mendahului Esensi (*Jean-Paul Sartre*):** Manusia tidak dibekali cetak biru kodrati bawaan; identitas dan makna hidup dibentuk secara berkelanjutan melalui kumulasi tindakan nyata.
-- **Pemberontakan terhadap Absurditas (*Albert Camus*):** Ketiadaan makna objektif dari alam semesta direspons bukan dengan keputusasaan bunuh diri, melainkan dengan afirmasi hidup yang bernyala-nyala dan perlawanan sadar.
+- **Pemberontakan terhadap Absurditas (*Albert Camus*):** Ketiadaan makna objektif dari alam semesta direspons bukan dengan keputusasaan bunuh diri, melainkan dengan afirmasi hidup dan perlawanan sadar.
 - **Penaklukkan Diri dan Transvaluasi Nilai (*Friedrich Nietzsche*):** Keberanian untuk membongkar moralitas konvensional yang melemahkan daya hidup menuju penciptaan nilai-nilai baru yang mengafirmasi eksistensi (*Amor Fati*).
 - **Kecemasan sebagai Kompas Kebebasan (*Søren Kierkegaard*):** Pengakuan bahwa kecemasan eksistensial (*Angst*) adalah bukti ontologis atas luasnya ruang kemungkinan yang terbuka bagi kehendak bebas.
 
@@ -41,4 +41,4 @@ Menjalani kehidupan secara sadar menuntut konsistensi dalam mengartikulasikan ke
 
 ### 5. Penutup
 
-Di hadapan ketidakpastian alam semesta yang luas, manusia dianugerahi kapasitas tak ternilai untuk memilih, mencipta, dan bertanggung jawab. Eksistensi manusia adalah sebuah kanvas terbuka yang menanti goresan kehendak sadar. Dengan memikul kebebasan secara berani dan menegakkan otentisitas tanpa kompromi, manusia meneguhkan posisinya sebagai pencipta utama atas makna kehidupannya sendiri.
+Di hadapan ketidakpastian alam semesta, manusia memiliki kapasitas untuk memilih, mencipta, dan bertanggung jawab. Eksistensi manusia terbuka untuk dibentuk oleh kehendak sadar. Dengan memikul kebebasan secara berani dan menegakkan otentisitas tanpa kompromi, manusia meneguhkan posisinya sebagai pencipta utama atas makna kehidupannya sendiri.

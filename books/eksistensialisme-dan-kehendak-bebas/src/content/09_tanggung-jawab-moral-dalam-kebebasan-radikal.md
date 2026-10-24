@@ -1,6 +1,6 @@
 ## Tanggung Jawab Moral dalam Kebebasan Radikal
 
-Tanggung jawab moral dalam eksistensialisme radikal menegaskan bahwa kebebasan bertindak senantiasa memikul konsekuensi etis terhadap seluruh umat manusia. Dalam ketiadaan hukum moral transenden atau kodrat kodrati yang baku, manusia tidak lantas memperoleh lisensi untuk bertindak nir-etika. Sebaliknya, ketiadaan rujukan eksternal menjadikan beban tanggung jawab setiap subjek bersifat mutlak dan tak terbatas.
+Tanggung jawab moral dalam eksistensialisme radikal menegaskan bahwa kebebasan bertindak senantiasa memikul konsekuensi etis terhadap seluruh umat manusia. Dalam ketiadaan hukum moral transenden atau kodrat kodrati yang baku, manusia tidak lantas memperoleh lisensi untuk bertindak nir-etika. Sebaliknya, ketiadaan rujukan eksternal menjadikan beban tanggung jawab setiap subjek bersifat mutlak.
 
 ### 1. Dialektika Kebebasan dan Tanggung Jawab
 
@@ -48,4 +48,4 @@ Relevansi etika eksistensial terbukti nyata dalam merespons krisis kontemporer, 
 
 ### 6. Kebebasan Radikal sebagai Imperatif Moral
 
-Kebebasan radikal bukanlah pembenaran atas egoisme subjektif, melainkan sebuah imperatif moral yang menuntut kewaspadaan etis tertinggi. Setiap keputusan individu merupakan kontribusi langsung terhadap perumusan hakikat kemanusiaan. Dengan memikul tanggung jawab penuh atas tindakannya, manusia membuktikan martabat moralnya sebagai makhluk yang berdaulat dan beradab.
+Kebebasan radikal bukanlah pembenaran atas egoisme subjektif, melainkan sebuah imperatif moral yang menuntut kewaspadaan etis. Setiap keputusan individu merupakan kontribusi langsung terhadap perumusan hakikat kemanusiaan. Dengan memikul tanggung jawab penuh atas tindakannya, manusia membuktikan martabat moralnya sebagai makhluk yang berdaulat dan beradab.

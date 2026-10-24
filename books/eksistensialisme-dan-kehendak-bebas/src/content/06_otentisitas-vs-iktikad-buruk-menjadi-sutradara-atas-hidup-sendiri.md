@@ -73,4 +73,4 @@ Dalam dinamika kebudayaan kontemporer, manifestasi *mauvaise foi* teramati dalam
 
 ### 6. Otentisitas sebagai Perjuangan Berkesinambungan
 
-Menjalani eksistensi secara otentik adalah perjuangan berkesinambungan yang menuntut kejujuran batiniah secara radikal. Iktikad buruk menawarkan ilusi kenyamanan mental dengan menanggalkan kedaulatan diri. Namun, hanya melalui pembongkaran topeng-topeng kepalsuan dan penerimaan tanggung jawab kebebasan, manusia dapat mengukuhkan dirinya sebagai pencipta naskah kehidupannya sendiri.
+Menjalani eksistensi secara otentik adalah perjuangan berkesinambungan yang menuntut kejujuran batiniah secara radikal. Iktikad buruk menawarkan ilusi kenyamanan mental dengan menanggalkan kedaulatan diri. Namun, hanya dengan berhenti menipu diri dan menerima tanggung jawab kebebasan, manusia dapat mengukuhkan dirinya sebagai pencipta naskah kehidupannya sendiri.

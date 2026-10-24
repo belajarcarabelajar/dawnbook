@@ -70,4 +70,4 @@ Banyak individu mengalami kelumpuhan eksistensial akibat keyakinan bahwa terdapa
 
 ### 7. Manusia sebagai Arsitek Makna Keberadaan
 
-Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan yang tak terbatas.
+Doktrin eksistensi mendahului esensi menempatkan manusia sebagai arsitek tunggal atas makna keberadaannya. Ketiadaan kodrat tetap bukan alasan untuk putus asa, melainkan panggilan untuk menegakkan otonomi diri di hadapan kemungkinan-kemungkinan masa depan.

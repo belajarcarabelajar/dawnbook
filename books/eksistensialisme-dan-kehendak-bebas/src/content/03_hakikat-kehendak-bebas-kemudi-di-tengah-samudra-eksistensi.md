@@ -62,4 +62,4 @@ Pengejawantahan kehendak bebas dalam realitas konkret memerlukan disiplin kognit
 
 ### 7. Kehendak Bebas sebagai Fondasi Kedaulatan
 
-Kehendak bebas adalah fondasi kedaulatan eksistensial manusia. Tanpa kehendak bebas, manusia tereduksi menjadi objek mekanis yang sekadar bereaksi terhadap impuls lingkungan. Melalui kehendak bebas, manusia mentransformasikan dirinya menjadi subjek berdaulat yang mengukir makna di tengah luasnya samudra eksistensi.
+Kehendak bebas adalah fondasi kedaulatan eksistensial manusia. Tanpa kehendak bebas, manusia tereduksi menjadi objek mekanis yang sekadar bereaksi terhadap impuls lingkungan. Melalui kehendak bebas, manusia mentransformasikan dirinya menjadi subjek berdaulat yang menciptakan makna bagi keberadaannya.

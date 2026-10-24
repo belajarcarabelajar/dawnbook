@@ -1,16 +1,16 @@
 ## Menciptakan Makna di Tengah Ketidakpastian
 
-Penciptaan makna di tengah ketidakpastian ontologis merupakan puncak aktualisasi kebebasan manusia dalam merespons ketiadaan tujuan teleologis kosmis. Setelah menelaah dialektika kebebasan radikal, kecemasan, dan kondisi absurdisme, persoalan krusial yang mengemuka adalah bagaimana kesadaran manusia mampu menegakkan makna di tengah alam semesta yang bisu dan kontingen.
+Penciptaan makna di tengah ketidakpastian ontologis merupakan bentuk aktualisasi kebebasan manusia dalam merespons ketiadaan tujuan teleologis kosmis. Setelah menelaah dialektika kebebasan radikal, kecemasan, dan kondisi absurdisme, persoalan krusial yang mengemuka adalah bagaimana kesadaran manusia mampu menegakkan makna di tengah alam semesta yang bisu dan kontingen.
 
 ### 1. Ketiadaan Esensi Apriori sebagai Ruang Kreasi Murni
 
-Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah kondisi defisit yang melumpuhkan, melainkan premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai kanvas terbuka tempat kesadaran mengukir intensionalitasnya.
+Dalam ontologi eksistensialisme, ketiadaan rancangan awal bagi manusia bukanlah kondisi defisit yang melumpuhkan, melainkan premis utama bagi terbukanya ruang kreasi nilai. Ketidakpastian objektif duniawi diposisikan sebagai ruang terbuka tempat kesadaran mewujudkan intensionalitasnya.
 
 > "Kehidupan tidak memiliki makna apriori yang mendahuluinya. Makna hidup adalah apa yang diukir dan dipilih oleh manusia melalui tindakannya." - Jean-Paul Sartre
 
 #### Alegori Konstruksi di Tepi Samudra
 
-Keberadaan manusia dapat dianalogikan seperti mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral tertinggi.
+Keberadaan manusia dapat dianalogikan seperti mendirikan struktur di tepi pantai yang senantiasa diterpa gelombang pasang surut. Karakter kefanaan struktur tersebut tidak mereduksi nilai dari tindakan pembangunannya. Justru dalam ketiadaan perintah kosmis dan kesadaran akan kefanaan itulah, kehendak untuk terus berkarya memperoleh signifikansi estetis dan martabat moral.
 
 ### 2. Metodologi Formulasi Proyek Eksistensial (*Le Projet*)
 
@@ -53,4 +53,4 @@ Ketika seorang individu mengalami disrupsi struktural dalam kehidupannya (sepert
 
 ### 5. Makna sebagai Konstruksi Sadar
 
-Makna bukanlah artefak metafisik yang tertanam di kosmos untuk ditemukan secara pasif. Makna adalah konstruksi sadar yang dirajut oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek sejati atas keberadaannya.
+Makna bukanlah artefak metafisik yang tertanam di kosmos untuk ditemukan secara pasif. Makna adalah konstruksi sadar yang dibentuk oleh kehendak bebas manusia di tengah ketidakpastian. Dengan menegakkan komitmen praksis dan merangkul kontingensi duniawi, manusia membuktikan kedaulatannya sebagai arsitek atas keberadaannya.

@@ -71,4 +71,4 @@ Aktualisasi pemberontakan dalam praksis kehidupan ditopang oleh tiga pilar utama
 
 Pernyataan kanonik Albert Camus berbunyi: *"Seseorang harus membayangkan Sisifus bahagia."*
 
-Kebahagiaan Sisifus berakar pada kedaulatan batiniahnya. Batu dan gunung tersebut adalah dunianya, dan perjuangan mendorongnya ke atas adalah ekspresi otonom dari keberadaannya. Ketika manusia melepaskan tuntutan akan makna objektif dari luar, ia menemukan kebebasan sejati untuk mengukir makna mandiri dan merayakan eksistensi di tengah realitas yang absurd.
+Kebahagiaan Sisifus berakar pada kedaulatan batiniahnya. Batu dan gunung tersebut adalah dunianya, dan perjuangan mendorongnya ke atas adalah ekspresi otonom dari keberadaannya. Ketika manusia melepaskan tuntutan akan makna objektif dari luar, ia menemukan kebebasan untuk menciptakan maknanya sendiri di tengah realitas yang absurd.
