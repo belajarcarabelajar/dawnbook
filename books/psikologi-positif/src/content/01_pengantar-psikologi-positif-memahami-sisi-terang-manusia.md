@@ -2,7 +2,7 @@
 
 Memahami apa yang membuat hidup kita berjalan optimal, bukan hanya berfokus untuk memperbaiki kerusakan, adalah tujuan perjalanan yang dimulai di sini. Selama puluhan tahun, psikologi sering kali diidentikkan dengan sofa terapis, diagnosis gangguan mental, dan upaya memulihkan trauma. Namun, **Psikologi Positif** hadir untuk melengkapi spektrum tersebut.
 
-> "Psikologi bukan hanya tentang mempelajari penyakit, kelemahan, dan kerusakan; ia juga mempelajari kekuatan dan kebajikan. Pemulihan tidak melulu soal memperbaiki apa yang rusak, tetapi juga memelihara potensi terbaik yang ada di dalam diri kita." - **Martin Seligman**
+> "Psikologi bukan hanya kajian tentang patologi, kelemahan, dan kerusakan; ia juga kajian tentang kekuatan dan kebajikan. Penanganan bukan hanya memperbaiki apa yang rusak; ia adalah merawat apa yang terbaik." - **Martin Seligman dan Mihaly Csikszentmihalyi**, [*Positive Psychology: An Introduction*](https://doi.org/10.1037/0003-066X.55.1.5) (2000)
 
 ## 1. Apa Itu Psikologi Positif?
 

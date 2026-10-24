@@ -15,7 +15,7 @@ Berikut perbandingan sederhana antara mekanisme emosi negatif dan positif:
 - **Emosi Negatif memicu penyempitan fokus.** Saat takut atau marah, respons *fight-or-flight* aktif secara otomatis agar kamu fokus penuh menghadapi ancaman (*Specific Action Tendencies*).
 - **Emosi Positif meluaskan perspektif.** Sebaliknya, emosi positif tidak membatasi tindakanmu pada opsi bertahan hidup yang kaku. Fredrickson menyebut fenomena ini sebagai *Broadened Thought-Action Repertoires* (keberagaman pola pikir dan tindakan).
 
-> "Emosi positif lebih dari sekadar indikator kesejahteraan, mereka berperan aktif sebagai katalisator pertumbuhan dan resiliensi manusia." - Barbara Fredrickson
+Dalam artikelnya tahun 2001, Fredrickson menyimpulkan bahwa emosi positif layak dipupuk, bukan hanya sebagai tujuan akhir, tetapi juga sebagai sarana untuk bertumbuh secara psikologis dan meningkatkan kesejahteraan dari waktu ke waktu.
 
 ## 2. Meluaskan (Broaden)
 

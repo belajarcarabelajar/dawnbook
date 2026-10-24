@@ -11,7 +11,7 @@ Menurut Robert Emmons, peneliti yang mendalami rasa syukur, praktik ini memiliki
 1. **Afirmasi Kebaikan:** Pengakuan bahwa ada banyak hal baik, hadiah, dan manfaat yang telah kita terima di dunia ini.
 2. **Pengenalan Sumber Eksternal:** Kesadaran bahwa sumber kebaikan tersebut sering kali berasal dari pihak lain, baik itu sesama manusia, alam semesta, atau kekuatan yang lebih besar.
 
-> "Syukur adalah emosi yang membuat kita merasa terhubung dengan orang lain dan dunia di sekitar kita." - Robert Emmons
+Syukur adalah emosi yang membuat kita merasa terhubung dengan orang lain dan dunia di sekitar kita.
 
 #### Lensa Kamera
 
