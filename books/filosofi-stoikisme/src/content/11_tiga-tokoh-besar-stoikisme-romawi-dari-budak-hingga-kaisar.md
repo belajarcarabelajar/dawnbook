@@ -58,7 +58,7 @@ Berbeda dengan Seneca yang menulis untuk orang lain, Marcus menulis untuk mendis
 | **Fokus Utama** | Penggunaan waktu & emosi | Kehendak bebas & kendali | Tugas, tanggung jawab & takdir |
 | **Kekuatan** | Retorika & Inspirasi | Ketajaman Logika | Kedalaman Spiritual |
 
-## Menggunakan "Kacamata" Tiga Tokoh
+## Cara Tiap Tokoh Menyikapi Gagal Promosi
 
 Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (misalnya: gagal mendapatkan promosi jabatan)?
 

@@ -47,7 +47,7 @@ Stoikisme mengklasifikasikan emosi destruktif ke dalam empat kategori besar yang
 
 **Penting:** Stoikisme tidak mengajarkan kita untuk menjadi robot tanpa perasaan. Tujuan mereka adalah mengganti *Pathe* dengan **Eupatheia** (perasaan baik/sehat) yang berlandaskan pada akal budi, seperti kegembiraan yang tenang, kehendak baik, dan kewaspadaan yang rasional.
 
-## Mengubah Lensa Pandang
+## Tiga Teknik Mengendalikan Emosi
 
 Untuk tidak diperbudak oleh nafsu impulsif, kita perlu menerapkan teknik identifikasi dan transformasi berikut:
 
@@ -95,7 +95,7 @@ flowchart TD
 		2. **Uji Persetujuan:** "Apakah kata-katanya merusak karakter saya? Tidak, kecuali saya membalas dengan kata-kata kasar juga. Apakah saya bisa mengendalikan mulutnya? Tidak."
 		3. **Transformasi:** Ubah fokus dari "Saya dihina" menjadi "Ada informasi tentang pekerjaan saya yang bisa diperbaiki, meskipun cara penyampaiannya tidak ideal."
 
-## Menjadi Tuan bagi Diri Sendiri
+## Mendidik Perasaan
 
 Mengelola emosi dalam Stoikisme bukanlah tentang menekan atau memendam perasaan (*suppression*), melainkan tentang **mengedukasi perasaan** kita melalui akal sehat. Dengan mengubah cara kita menilai sebuah peristiwa, kita secara otomatis mengubah perasaan yang muncul dari peristiwa tersebut.
 

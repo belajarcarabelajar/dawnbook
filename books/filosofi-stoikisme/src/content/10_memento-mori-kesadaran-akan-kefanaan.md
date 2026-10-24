@@ -14,7 +14,7 @@ Memento Mori bukanlah tentang ketakutan, melainkan tentang **kejujuran intelektu
 
 Dalam Stoikisme, kematian dikategorikan sebagai *indifferent* (netral) secara moral, namun kesadaran akan kematian adalah katalisator untuk kebajikan. Tanpa batas akhir, pilihan kita tidak memiliki bobot. Jika hidup abadi, tidak ada urgensi untuk menjadi orang baik *hari ini*.
 
-## 2\. Matematika Kehidupan
+## 2\. Menghitung Sisa Waktu
 
 Mari kita lihat dari perspektif matematis sederhana. Jika kita mengasumsikan rata-rata umur manusia adalah 80 tahun, kita dapat memodelkan sisa waktu kita dengan variabel berikut:
 

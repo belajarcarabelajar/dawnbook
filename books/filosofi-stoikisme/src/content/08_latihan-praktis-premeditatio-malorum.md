@@ -8,7 +8,7 @@ Bagi kebanyakan orang, ini adalah resep untuk kemarahan dan frustrasi. Namun bag
 
 Secara etimologi, *Premeditatio Malorum* berasal dari bahasa Latin yang berarti **"pra-meditasi atas kemalangan"**. Ini adalah latihan mental di mana kita secara sengaja membayangkan rintangan, kesulitan, atau tragedi yang mungkin terjadi di masa depan.
 
-**Analogi Latihan Pemadam Kebakaran**
+**Latihan Pemadam Kebakaran**
 
 > Mengapa gedung-gedung melakukan latihan evakuasi kebakaran padahal tidak ada api? Karena ketika api benar-benar muncul, kepanikan adalah musuh terbesar. Latihan memungkinkan tubuh dan pikiran bergerak secara otomatis dan tenang. *Premeditatio Malorum* adalah latihan pemadam kebakaran untuk jiwa kamu.
 

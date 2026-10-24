@@ -4,7 +4,7 @@ Bagi banyak orang saat ini, Stoikisme mungkin terdengar seperti sekumpulan kutip
 
 Untuk memahami Stoikisme secara utuh, kita harus melihat "Tiga Pilar" yang membangun pondasinya: **Logika**, **Fisika**, dan **Etika**.
 
-## Analogi Taman Stoik
+## Taman Stoik
 
 Para penganut Stoikisme awal (seperti Zeno dari Citium dan Chrysippus) menyukai analogi untuk menjelaskan bagaimana ketiga bidang ini saling berkaitan. Salah satu yang paling terkenal adalah analogi **Taman yang Subur**:
 

@@ -12,7 +12,7 @@ Amor Fati bukan hanya "menerima" apa yang terjadi dengan pasrah (resigna), melai
 
 > "Jangan menuntut agar hal-hal terjadi seperti yang kamu inginkan, tetapi inginkanlah agar hal-hal itu terjadi sebagaimana adanya, maka hidupmu akan berjalan dengan tenang." - **Epictetus**
 
-## Dari Penerimaan Menuju Transformasi
+## Tiga Tahap Menyikapi Takdir
 
 Untuk memahami Amor Fati, kita bisa melihatnya sebagai sebuah tangga perkembangan mental:
 
@@ -20,7 +20,7 @@ Untuk memahami Amor Fati, kita bisa melihatnya sebagai sebuah tangga perkembanga
 2. **Penerimaan Pasif:** "Ya sudah, mau bagaimana lagi. Saya terima nasib saya."
 3. **Amor Fati (Penerimaan Aktif):** "Kejadian ini adalah tepat apa yang saya butuhkan saat ini untuk tumbuh. Saya akan menggunakan ini sebagai bahan bakar."
 
-### Analogi Api yang Berkobar
+### Api Besar dan Api Kecil
 
 Marcus Aurelius, sang Kaisar Stoik, memberikan analogi tentang bagaimana Amor Fati bekerja:
 
@@ -42,7 +42,7 @@ $$
 
 Jika $\text{Perlawanan} = 0$ (melalui Amor Fati), maka berapa pun besarnya $\text{Kejadian}$ yang menimpa, $\text{Penderitaan}$ akan tetap nol. Sebaliknya, semakin besar kita melawan kenyataan, semakin besar rasa sakit yang kita rasakan.
 
-## Mengubah Hambatan Menjadi Bahan Bakar
+## Membalikkan Perspektif
 
 Bagaimana cara menerapkan Amor Fati dalam keseharian? Gunakan teknik **"Reverse the Perspective"** (Membalikkan Perspektif).
 
