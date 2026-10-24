@@ -104,7 +104,7 @@ Trigger: owner request 2026-10-24 ("48 dari 60 buku yang masih gagal perbaiki pa
 - [x] W1-W4: one subagent per book; each rewrites only the sentences that hold a flagged phrase (GEMINI.md section 29), never adds a fact; scope guard and check-voice exit 0 per book; one independent reviewer per wave. Evidence 2026-10-24: 48 subagents (one per book), every book re-checked by the parent (check-voice exit 0, scope guard exit 0, structure output identical to its main baseline) before its own commit; reviewers per wave: W1 4 P2, W2 correct, W3 1 P1 + 8 P2, W4 2 P2, all applied in per-book review commits. One verbatim transcript line keeps "perhatikan" with a voice-ok marker.
 - [x] G1: `check:voice` script (`bun run scripts/check-voice.ts --all`) in package.json and as a step of `bun run build`, test-first, once all 60 books pass. Evidence: tests RED first (runVoiceGate, build order, check:voice script, voice-ok marker), then `bun test tests/scripts/check-voice.test.ts tests/scripts/build.test.ts` exit 0; `bun run build` prints "Checking chapter voice..." before the mdBook builds.
 - [x] V1: `check-voice --all` exit 0 over all 60 books, book tests and build exit 0. Evidence: `bun run scripts/check-voice.ts --all` exit 0, 60 books with 0 problems; `bun test tests/books/ tests/scripts/check-voice.test.ts tests/scripts/build.test.ts` exit 0 (81 pass); `bun run build` exit 0 with SEO R1-R7 passed.
-- [ ] D1: one PR for all 48 books (one commit per book), merge asked alone; one deploy, D1 seed and GSC reindex at the end, asked separately.
+- [x] D1: one PR for all 48 books (one commit per book), merge asked alone; one deploy, D1 seed and GSC reindex at the end, asked separately. Evidence 2026-10-24: PR #197 merged on its own question with --match-head-commit (head 26371fc); deploy of main 7d1f7ee exit 0 (the build ran "Checking chapter voice..."); migrate-to-d1.ts exit 0, no error line; GSC sitemap PUT 204, 0 errors; live chapter 01 of four books (logika, psikologi-bencana, hoaks, piaget) serves the new text, HTTP 200.
 
 ## 1. Scope (scaffold-only, not a light pass)
 
@@ -165,3 +165,9 @@ One PR for all 48 books through pr-registry, one commit per book; merge, deploy,
 - The checker caps any use of "perhatikan", so a legitimate verb is also rewritten (to "cermati", "lihat", "amati"); this is accepted, it is the rule in section 29.
 - Session limits: if a subagent dies with 429, dispatch stops (A16) and the rest is finished inline or after the reset.
 - Rollback: each wave is its own PR and each book its own commit; revert the commit of a book.
+
+## Closeout status
+
+- Readiness (`bun scripts/plan-closeout.mjs --readiness`, 2026-10-24): NEEDS-HUMAN; 0 open step boxes, 0 other open boxes; W1-W4, G1, V1 and D1 have no `skip_if`, so their proof is the evidence on the checklist lines.
+- Owner decision 2026-10-24 (AskUserQuestion "Close plan"): Keep it open. Reopen trigger: the owner confirms the cleaned books read well live.
+- Follow-ups chosen the same day: a crutch-word cap with all chapters over it fixed (plan 2026-10-24-dawnbook-voice-crutch-cap, issue #198, in progress); near-miss scaffold measurement (done, three caps folded into that plan); a plan for the `check-book-structure` failures (being drafted as plan 2026-10-24-dawnbook-structure-fixes).
