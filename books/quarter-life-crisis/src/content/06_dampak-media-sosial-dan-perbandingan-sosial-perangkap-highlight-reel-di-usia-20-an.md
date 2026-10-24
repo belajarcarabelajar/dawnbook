@@ -1,4 +1,4 @@
-## Dampak Media Sosial dan Social Comparison
+## Dampak Media Sosial dan Perbandingan Sosial
 
 Pernahkah kamu mendapati dirimu terbangun di tengah malam, menggulir layar ponsel, dan tiba-tiba merasa hidupmu sangat tertinggal dibandingkan teman-teman SMA-mu? Di layar, mereka tampak sedang merayakan promosi jabatan, bertunangan di Paris, atau sekadar menikmati kopi estetis di kafe mahal. Sementara itu, kamu mungkin masih berkutat dengan tumpukan cucian atau kebingungan mencari arah karier.
 

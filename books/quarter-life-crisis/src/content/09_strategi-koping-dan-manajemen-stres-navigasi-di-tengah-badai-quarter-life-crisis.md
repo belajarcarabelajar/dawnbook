@@ -1,4 +1,4 @@
-## Coping Strategy dan Manajemen Stres
+## Strategi Koping dan Manajemen Stres
 
 Bayangkan kamu sedang berada di tengah laut yang sedang dilanda badai. Gelombang tinggi adalah ekspektasi karier, angin kencang adalah tekanan sosial, dan kompasmu tampak berputar tanpa arah. Dalam psikologi, kemampuan untuk tetap mengapung dan akhirnya mengarahkan kapalmu menuju ketenangan disebut dengan **Coping Strategy**.
 
