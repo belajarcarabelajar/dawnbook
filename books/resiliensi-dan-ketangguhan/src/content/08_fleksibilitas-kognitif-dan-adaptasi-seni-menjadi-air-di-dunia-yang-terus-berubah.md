@@ -6,9 +6,9 @@ Bayangkan kamu sedang mengemudi menuju pertemuan penting menggunakan aplikasi GP
 
 ## 1. Pohon Oak vs. Bambu
 
-Dalam dunia resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan sebatang Bambu saat menghadapi badai besar:
+Dalam pembahasan resiliensi, ada sebuah perumpamaan klasik tentang pohon Oak dan sebatang Bambu saat menghadapi badai besar:
 
-- **Pohon Oak** sangat besar, kuat, dan kaku. Ia melawan angin dengan segala kekuatannya. Namun, ketika angin melampaui batas kekuatannya, Oak akan tumbang atau patah.
+- **Pohon Oak** besar, kuat, dan kaku. Ia melawan angin dengan segala kekuatannya. Namun, ketika angin melampaui batas kekuatannya, Oak akan tumbang atau patah.
 - **Bambu** mungkin terlihat lebih lemah, tetapi ia fleksibel. Saat badai menerjang, ia melengkung mengikuti arah angin. Setelah badai berlalu, ia tegak kembali tanpa kerusakan berarti.
 
 Fleksibilitas kognitif tidak berarti lemah. Ini adalah tentang kemampuan beradaptasi.
@@ -17,7 +17,7 @@ Fleksibilitas kognitif tidak berarti lemah. Ini adalah tentang kemampuan beradap
 
 ### Mengapa Ini Penting?
 
-Di era modern, perubahan terjadi dengan kecepatan eksponensial. Keahlian yang relevan hari ini mungkin usang tahun depan. Orang yang memiliki fleksibilitas kognitif tinggi cenderung:
+Di era modern, perubahan terjadi dengan cepat. Keahlian yang relevan hari ini mungkin usang tahun depan. Orang yang memiliki fleksibilitas kognitif tinggi cenderung:
 
 1. Lebih rendah tingkat stresnya karena tidak terpaku pada satu ekspektasi.
 2. Lebih kreatif dalam memecahkan masalah (*problem-solving*).
@@ -59,7 +59,7 @@ Ambil satu benda sederhana, misalnya klip kertas. Dalam 2 menit, tuliskan sebany
 
 ### B. Prinsip "Yes, And..." (Improvisasi)
 
-Ini adalah aturan emas dalam teater improvisasi. Ketika seseorang memberimu situasi (bahkan yang buruk sekalipun), jangan katakan "Tidak, tapi...". Katakan **"Ya, dan..."**.
+Ini adalah aturan dasar dalam teater improvisasi. Ketika seseorang memberimu situasi (bahkan yang buruk sekalipun), jangan katakan "Tidak, tapi...". Katakan **"Ya, dan..."**.
 
 - *Situasi:* "Server kita mati tepat saat peluncuran produk."
 - *Respon Fleksibel:* " **Ya**, server mati, **dan** kita akan menggunakan momen ini untuk mengirim email personal ke pelanggan tentang masa tunggu, sekaligus memberikan kode diskon sebagai permohonan maaf."
@@ -110,8 +110,8 @@ Di mana:
 
 ## Menjadi Cair
 
-**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misal: sampai ke tujuan), namun rute yang kamu ambil bisa berubah seribu kali.
+**Penting:** Fleksibilitas kognitif bukan berarti kamu tidak memiliki prinsip atau tujuan. Tujuanmu tetap sama (misal: sampai ke tujuan), namun rute yang kamu ambil bisa berubah berkali-kali.
 
-> **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menari di tengah badai dan menemukan langkah baru saat musiknya berubah.
+> **Key Takeaway:** Ketangguhan bukan tentang seberapa kuat kamu menahan beban tanpa bergerak, tetapi seberapa cepat kamu bisa menyesuaikan langkah saat keadaan berubah.
 
 *Refleksikan satu tantangan yang sedang kamu hadapi saat ini. Jika pendekatan saat ini belum berhasil, apa tiga alternatif berbeda,sekalipun terdengar tidak biasa,yang bisa kamu coba besok?*

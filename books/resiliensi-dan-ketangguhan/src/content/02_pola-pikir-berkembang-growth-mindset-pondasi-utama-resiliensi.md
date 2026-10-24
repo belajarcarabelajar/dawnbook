@@ -2,7 +2,7 @@
 
 Pernahkah kamu merasa bahwa bakat adalah sesuatu yang dibawa sejak lahir? Bahwa jika kamu tidak mahir dalam matematika atau seni sekarang, maka kamu tidak akan pernah bisa mahir selamanya? Pemikiran seperti ini adalah awal dari apa yang kita sebut sebagai hambatan mental.
 
-Dalam perjalanan membangun resiliensi, **Pola Pikir Berkembang (Growth Mindset)** adalah mesin yang menggerakkan kita untuk terus maju meskipun badai kegagalan menerjang. Tanpa pola pikir ini, setiap kegagalan akan terasa seperti vonis mati bagi harga diri kita.
+Dalam perjalanan membangun resiliensi, **Pola Pikir Berkembang (Growth Mindset)** membuat kita terus maju meskipun berkali-kali gagal. Tanpa pola pikir ini, setiap kegagalan akan terasa seperti penilaian akhir atas harga diri kita.
 
 ### 1. Apa Itu Growth Mindset?
 
@@ -14,7 +14,7 @@ Konsep ini dipopulerkan oleh psikolog Stanford, **Carol Dweck**. Secara sederhan
 
 ### 2. Perbedaan Growth Mindset vs. Fixed Mindset
 
-Memahami perbedaan ini sangat penting agar kita bisa melakukan audit diri secara jujur.
+Memahami perbedaan ini penting agar kita bisa melakukan audit diri secara jujur.
 
 | Fitur | Pola Pikir Tetap (Fixed) | Pola Pikir Berkembang (Growth) |
 | --- | --- | --- |
@@ -27,7 +27,7 @@ Memahami perbedaan ini sangat penting agar kita bisa melakukan audit diri secara
 
 ### 3. Kekuatan "Belum" (The Power of "Yet")
 
-Salah satu teknik paling sederhana namun paling kuat untuk beralih ke pola pikir berkembang adalah dengan menambahkan satu kata kecil: **"Belum"**.
+Salah satu teknik sederhana untuk beralih ke pola pikir berkembang adalah dengan menambahkan satu kata kecil: **"Belum"**.
 
 - "Saya tidak bisa pemrograman Python." $\rightarrow$ **Fixed**
 - "Saya **belum** bisa pemrograman Python." $\rightarrow$ **Growth**
@@ -38,7 +38,7 @@ Kata "belum" memberi ruang bagi masa depan. Ia mengubah kegagalan dari sebuah ko
 
 ### 4. Dasar Ilmiah Neuroplastisitas
 
-Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia sangat adaptif. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antar neuron (sinapsis) di otak kita menjadi lebih kuat.
+Mengapa kita yakin otak bisa berubah? Jawabannya adalah **Neuroplastisitas**. Otak manusia bisa beradaptasi. Setiap kali kita mempelajari sesuatu yang baru atau memecahkan masalah sulit, koneksi antar neuron (sinapsis) di otak kita menjadi lebih kuat.
 
 Secara matematis, pertumbuhan kemampuan kita tidak berjalan lurus (linear), tetapi bisa melonjak secara eksponensial jika kita konsisten. Jika $\text{P}$ adalah potensi dan $\text{t}$ adalah waktu dengan usaha yang tepat, maka:
 

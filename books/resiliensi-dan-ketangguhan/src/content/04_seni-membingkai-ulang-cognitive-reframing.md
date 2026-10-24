@@ -1,6 +1,6 @@
 ## Seni Membingkai Ulang (Cognitive Reframing)
 
-Bayangkan kamu sedang memotret sebuah pemandangan. Jika kamu mengarahkan lensa hanya pada tumpukan sampah di sudut jalan, fotomu akan terlihat kotor dan tidak menyenangkan. Namun, jika kamu sedikit menggeser sudut pandang (*angle*) kamera untuk menyertakan matahari terbenam di latar belakang, tumpukan sampah tersebut hanyalah bagian kecil dari sebuah komposisi yang jauh lebih besar dan indah.
+Bayangkan kamu sedang memotret sebuah pemandangan. Jika kamu mengarahkan lensa hanya pada tumpukan sampah di sudut jalan, fotomu akan terlihat kotor dan tidak menyenangkan. Namun, jika kamu sedikit menggeser sudut pandang (*angle*) kamera untuk menyertakan matahari terbenam di latar belakang, tumpukan sampah tersebut hanyalah bagian kecil dari sebuah komposisi yang lebih besar dan indah.
 
 Itulah inti dari **Cognitive Reframing** atau Membingkai Ulang Kognitif. Ini bukan tentang membohongi diri sendiri atau berpura-pura bahwa hal buruk tidak terjadi. Sebaliknya, ini adalah kemampuan untuk melihat situasi yang sama melalui "lensa" yang berbeda agar kita bisa menemukan makna yang lebih berguna.
 

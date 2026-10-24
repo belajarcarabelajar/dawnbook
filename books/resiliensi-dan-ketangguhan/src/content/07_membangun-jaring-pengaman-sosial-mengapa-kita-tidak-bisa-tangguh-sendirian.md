@@ -1,10 +1,10 @@
 ## Membangun Jaring Pengaman Sosial
 
-Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia sangat terampil, memiliki keseimbangan luar biasa, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
+Bayangkan seorang pemain akrobat yang berjalan di atas tali tipis pada ketinggian 10 meter. Dia terampil, memiliki keseimbangan yang baik, dan fokus yang tajam, itu adalah **resiliensi internal**. Namun, di bawah tali tersebut, terbentang sebuah jaring nilon yang kuat. Jika dia terpeleset, jaring itu akan menahannya, mencegah benturan fatal, dan memberinya kesempatan untuk memanjat kembali.
 
 Jaring itulah yang kita sebut sebagai **Jaring Pengaman Sosial**.
 
-Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan kecerdasan emosional memang sangat penting. Namun, manusia adalah makhluk sosial secara biologis. Membangun ketangguhan tanpa melibatkan orang lain ibarat mencoba membangun benteng di atas pasir hisap. Materi ini akan mengeksplorasi bagaimana komunitas, teman sebaya, dan hubungan yang sehat menjadi pilar eksternal utama yang menopang kita saat badai hidup menerjang.
+Dalam perjalanan membangun resiliensi, faktor internal seperti pola pikir dan kecerdasan emosional memang penting. Namun, manusia adalah makhluk sosial secara biologis. Membangun ketangguhan tanpa melibatkan orang lain ibarat mencoba membangun benteng di atas pasir hisap. Materi ini akan mengeksplorasi bagaimana komunitas, teman sebaya, dan hubungan yang sehat menjadi pilar eksternal utama yang menopang kita saat masa sulit datang.
 
 ### 1. Peran Komunitas
 

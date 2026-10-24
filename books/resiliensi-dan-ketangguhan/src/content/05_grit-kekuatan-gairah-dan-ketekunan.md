@@ -2,7 +2,7 @@
 
 Pernahkah kamu melihat seseorang yang secara akademis biasa saja, tetapi sepuluh tahun kemudian memimpin perusahaan besar atau menjadi ahli di bidangnya? Sementara itu, rekan mereka yang dianggap "jenius" justru tampak jalan di tempat. Perbedaan mencolok ini sering kali bukan disebabkan oleh tingkat IQ atau keberuntungan semata, melainkan sebuah kualitas mental yang disebut **Grit**.
 
-Dalam perjalanan membangun resiliensi, Grit adalah mesin yang menjaga kamu tetap bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan ribuan kilometer menuju garis finish, meski kamu harus jatuh bangun berkali-kali.
+Dalam perjalanan membangun resiliensi, Grit membuat kamu terus bergerak saat motivasi awal sudah memudar. Jika resiliensi adalah kemampuan untuk bangkit kembali setelah jatuh, maka Grit adalah kemampuan untuk terus berjalan sampai garis finish, meski kamu harus jatuh bangun berkali-kali.
 
 ## Memahami Persamaan Grit
 
@@ -44,7 +44,7 @@ Ketekunan adalah kemampuan untuk bertahan menghadapi kesulitan, kegagalan, dan k
 - Berani menghadapi tantangan yang melelahkan secara fisik maupun mental.
 - Tetap berkomitmen pada rencana awal meskipun kemajuan terasa sangat lambat.
 
-*Apakah kamu tipe orang yang sering memulai proyek baru dengan semangat membara, tetapi meninggalkannya begitu saja saat hal tersebut mulai terasa sulit atau membosankan?*
+*Apakah kamu tipe orang yang sering memulai proyek baru dengan semangat tinggi, tetapi meninggalkannya begitu saja saat hal tersebut mulai terasa sulit atau membosankan?*
 
 ## Empat Pilar untuk Menumbuhkan Grit
 
@@ -58,15 +58,15 @@ Kabar baiknya, Grit bukanlah sifat bawaan lahir yang statis. Kamu bisa melatih "
      $$
      </div>
 
-3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang tak tergoyahkan.
+3. **Tujuan (Purpose):** Grit akan mencapai puncaknya ketika kamu merasa bahwa pekerjaanmu berkontribusi bagi kesejahteraan orang lain. Koneksi antara minat pribadi dan manfaat sosial menciptakan motivasi yang kuat.
 4. **Harapan (Hope):** Ini adalah jenis harapan yang aktif. Kamu tidak hanya berharap keadaan membaik dengan sendirinya, tetapi memiliki keyakinan bahwa usahamu mampu mengubah masa depanmu. Ini berkaitan erat dengan *Growth Mindset* yang dibahas di bagian lain.
 
 ## Pelari Maraton vs. Pelari Cepat
 
 Bayangkan hidup sebagai sebuah lintasan.
 
-- **Talenta** adalah kecepatan maksimal yang bisa kamu capai dalam lari sprint 100 meter. Sangat mengesankan, tetapi cepat berakhir.
-- **Grit** adalah stamina seorang pelari maraton. Ia mungkin tidak berlari secepat kilat, tetapi ia mengatur napasnya, menjaga ritme kakinya, dan tidak berhenti meski ototnya mulai terasa terbakar.
+- **Talenta** adalah kecepatan maksimal yang bisa kamu capai dalam lari sprint 100 meter. Mengesankan, tetapi cepat berakhir.
+- **Grit** adalah stamina seorang pelari maraton. Ia mungkin tidak berlari paling cepat, tetapi ia mengatur napasnya, menjaga ritme kakinya, dan tidak berhenti meski ototnya mulai terasa terbakar.
 
 Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang bukan yang tercepat di satu kilometer pertama, tetapi yang masih berlari di kilometer ke-40.
 
@@ -77,7 +77,7 @@ Di dunia nyata, kehidupan lebih mirip maraton daripada sprint. Orang yang menang
 Seorang programmer junior menghadapi *bug* kompleks yang membuat sistem perusahaan lumpuh.
 
 - **Tanpa Grit:** Dia akan merasa frustrasi setelah dua jam, menyalahkan alat yang digunakan, dan meminta orang lain menyelesaikannya.
-- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan bertahan di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* adalah guru, bukan penghalang.
+- **Dengan Grit:** Dia memahami bahwa kegagalan adalah bagian dari proses. Dia melakukan riset, mencoba berbagai pendekatan satu demi satu, dan bertahan di depan layar hingga masalah teratasi, meskipun itu memakan waktu 12 jam. Baginya, setiap *error* adalah petunjuk, bukan penghalang.
 
 ### Startup yang Ditolak 20 Investor Pertama
 
@@ -98,4 +98,4 @@ Untuk memahami posisimu saat ini, renungkan beberapa pertanyaan berikut:
 
 > **Penerapan Aturan "Hal Sulit":** Cobalah berkomitmen melakukan satu "hal sulit" setiap hari (misalnya: belajar bahasa baru selama 30 menit atau lari pagi). Aturannya sederhana: kamu tidak boleh berhenti di tengah jalan hanya karena hari itu terasa berat atau membosankan. Kamu hanya boleh berhenti setelah tujuan kecil tersebut tercapai atau periode waktu yang dijanjikan selesai.
 
-Grit adalah tentang daya tahan. Perjalanan menuju kehebatan tidak pernah berupa garis lurus ke atas. Perjalanan itu diwarnai serangkaian pendakian yang curam, lembah yang dalam, dan banyak momen ketika satu-satunya hal yang membuatmu bertahan adalah janji pada diri sendiri untuk tidak menyerah.
+Grit adalah tentang daya tahan. Kemajuan menuju keahlian tidak pernah berupa garis lurus ke atas. Ada masa naik, ada masa turun, dan ada banyak momen ketika satu-satunya hal yang membuatmu bertahan adalah janji pada diri sendiri untuk tidak menyerah.

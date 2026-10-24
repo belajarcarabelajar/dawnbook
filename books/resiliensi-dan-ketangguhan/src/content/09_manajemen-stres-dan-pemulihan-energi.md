@@ -1,6 +1,6 @@
 ## Manajemen Stres dan Pemulihan Energi
 
-Bayangkan dirimu seperti sebuah baterai ponsel pintar tercanggih di dunia. Sehebat apa pun fiturnya, jika baterai tersebut terus dipaksa bekerja tanpa pernah diisi ulang, pada akhirnya ia akan mati total. Dalam konteks resiliensi, **stres adalah penggunaan daya, dan pemulihan energi adalah proses pengisian ulangnya.**
+Bayangkan dirimu seperti sebuah baterai ponsel pintar. Jika baterai tersebut terus dipaksa bekerja tanpa pernah diisi ulang, pada akhirnya ia akan mati. Dalam konteks resiliensi, **stres adalah penggunaan daya, dan pemulihan energi adalah proses pengisian ulangnya.**
 
 Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan adalah kemampuan untuk mengenali kapan "daya"-mu menipis dan tahu persis bagaimana cara mengisinya kembali secara efektif.
 
@@ -8,7 +8,7 @@ Ketangguhan bukan berarti kamu tidak pernah merasa lelah atau stres; ketangguhan
 
 Stres seringkali dianggap sebagai musuh, padahal secara biologis, stres adalah mekanisme pertahanan hidup. Saat menghadapi tantangan, tubuh kita mengaktifkan *Sympathetic Nervous System* (sistem saraf simpatik) yang melepaskan hormon **Kortisol** dan **Adrenalin**.
 
-Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus tanpa henti, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
+Dalam dosis kecil, ini disebut sebagai **Eustress** (stres positif) yang membantu kita tetap fokus dan waspada. Namun, jika terjadi terus-menerus, ia berubah menjadi **Distress** yang merusak sel tubuh dan menurunkan fungsi kognitif.
 
 > **Insight:** Resiliensi tidak dibangun dengan menghindari stres, tetapi dengan memperpendek durasi respons stres and mempercepat aktivasi *Parasympathetic Nervous System* (sistem saraf parasimpatik) yang bertanggung jawab untuk *rest and digest* (istirahat dan cerna).
 
@@ -20,7 +20,7 @@ Untuk mengelola stres secara instan, kita perlu menginterupsi respons fisiologis
 
 #### A. Teknik Pernapasan Kotak (Box Breathing)
 
-Digunakan oleh atlet elit dan pasukan khusus untuk tetap tenang di bawah tekanan luar biasa.
+Digunakan oleh atlet elit dan pasukan khusus untuk tetap tenang di bawah tekanan tinggi.
 
 1. **Inhale**: Tarik napas melalui hidung selama 4 detik.
 2. **Hold**: Tahan napas selama 4 detik.
@@ -41,7 +41,7 @@ Teknik ini memaksa otakmu kembali ke saat ini (*present moment*) dan menghentika
 
 ### 3. Lebih dari Sekadar Tidur
 
-Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi yang sejati mencakup beberapa dimensi. Dr. Saundra Dalton-Smith mengidentifikasi bahwa manusia membutuhkan setidaknya tiga jenis istirahat utama untuk menjaga resiliensi:
+Banyak orang mengira bahwa istirahat hanyalah tidur. Namun, pemulihan energi mencakup beberapa dimensi. Dr. Saundra Dalton-Smith mengidentifikasi bahwa manusia membutuhkan setidaknya tiga jenis istirahat utama untuk menjaga resiliensi:
 
 - **Istirahat Mental:** Melakukan "Brain Dump" (menuliskan semua beban pikiran di kertas) sebelum tidur agar otak tidak terus memproses informasi di malam hari.
 - **Istirahat Sensorik:** Mematikan semua layar (HP, Laptop) dan menjauh dari kebisingan selama minimal 30 menit sehari untuk menetralisir rangsangan berlebih.
