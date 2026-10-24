@@ -10,13 +10,13 @@ Pengorganisasian adalah proses mengatur dan mengalokasikan sumber daya manusia s
 
 > **Insight Utama:** Struktur organisasi tidak hanya berfungsi sebagai bagan yang dipajang di dinding kantor, tetapi berperan sebagai sistem saraf yang menentukan aliran informasi dan proses pengambilan keputusan.
 
-### Dapur Restoran Bintang Lima
+### Dapur Restoran Besar
 
 Bayangkan sebuah dapur restoran besar. Tanpa pengorganisasian, semua orang mungkin mencoba memasak steak di saat yang sama, sementara tidak ada yang mencuci piring atau menyiapkan bumbu.
 
 - **Organizing** di sini berarti menentukan siapa yang menjadi *Head Chef* (pemimpin), siapa yang menangani *Pastry* (departementalisasi), dan siapa yang memotong sayuran (pembagian kerja). Semuanya harus selaras agar pesanan pelanggan (tujuan) tersaji tepat waktu.
 
-## 2. Pilar Utama dalam Organizing
+## 2. Empat Elemen Organizing
 
 Untuk membangun struktur yang kokoh, seorang manajer harus memperhatikan empat elemen kunci berikut:
 

@@ -10,7 +10,7 @@ Secara sederhana, manajemen adalah seni menyelesaikan pekerjaan melalui orang la
 
 > **Manajemen** adalah sebuah proses yang khas, yang terdiri dari tindakan-tindakan perencanaan, pengorganisasian, penggerakan, dan pengendalian yang dilakukan untuk menentukan serta mencapai sasaran-sasaran yang telah ditetapkan melalui pemanfaatan sumber daya manusia dan sumber daya lainnya.
 
-### Sang Konduktor Orkes
+### Konduktor Orkes Simfoni
 
 Bayangkan sebuah orkes simfoni. Ada pemain biola, pemain trompet, dan pemain drum. Masing-masing sangat ahli di bidangnya. Namun, tanpa seorang **Konduktor (Manajer)**, mereka mungkin akan bermain dengan tempo yang berbeda-beda. Manajer tidak memainkan alat musiknya sendiri; tugasnya adalah memastikan semua pemain "berbunyi" secara harmonis untuk menghasilkan musik yang indah.
 

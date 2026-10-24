@@ -19,7 +19,7 @@ Prinsip ini tidak hanya berfokus pada mempekerjakan individu yang cerdas, tetapi
 
 Banyak manajer terjebak dalam kecenderungan untuk menyelesaikan semua hal sendiri. **Delegasi** merupakan proses penyerahan wewenang dari atasan kepada bawahan untuk melaksanakan tugas tertentu secara bertanggung jawab.
 
-### Tiga Pilar Delegasi
+### Tiga Elemen Delegasi
 
 Delegasi yang efektif harus mencakup tiga elemen penting yang saling berkaitan:
 

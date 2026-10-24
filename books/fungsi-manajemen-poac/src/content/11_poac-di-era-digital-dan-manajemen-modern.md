@@ -79,7 +79,7 @@ Jika penjualan sudah sama dengan atau melampaui target, *dashboard* menampilkan 
 
 Contoh ini menunjukkan bagaimana pengawasan digital bekerja tanpa harus menunggu rapat mingguan. Sistem langsung memberikan umpan balik (*feedback*) saat itu juga.
 
-## Menjadi Manajer Masa Depan
+## Peran Manajer di Era Digital
 
 Mengadaptasi POAC ke era digital bukan berarti membuang teori manajemen klasik. Sebaliknya, ini adalah tentang memperkuat fondasi tersebut dengan alat yang lebih canggih.
 

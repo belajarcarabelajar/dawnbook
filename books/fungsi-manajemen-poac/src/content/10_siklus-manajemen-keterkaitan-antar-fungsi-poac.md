@@ -8,7 +8,7 @@ Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tid
 
 Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **interaktif**. Setiap fungsi memberikan input bagi fungsi berikutnya, dan hasil dari fungsi terakhir akan menjadi bahan evaluasi untuk memulai kembali siklus dari awal.
 
-### Perjalanan Menuju Puncak Gunung
+### Pendakian Gunung
 
 - **Planning (P):** Menetapkan puncak tujuan pendakian, rute perjalanan, serta kebutuhan logistik selama perjalanan.
 - **Organizing (O):** Pembagian beban bawaan, penunjukan pemegang kompas atau peta, serta pembagian peran seperti juru masak dan pemimpin barisan.
@@ -17,11 +17,11 @@ Manajemen adalah sebuah proses yang bersifat **iteratif** (berulang) dan **inter
 
 > **Insight:** Tanpa *Controlling*, pendaki mungkin berjalan cepat (Actuating) tapi ke arah yang salah. Tanpa *Planning*, tim mungkin punya sumber daya hebat (Organizing) tapi tidak tahu mau ke mana.
 
-## 2. Jembatan Penghubung Antar Fungsi
+## 2. Keterkaitan Antar Fungsi
 
 Mari kita lihat bagaimana fungsi-fungsi ini saling "mengunci" satu sama lain:
 
-### A. Hubungan Planning dan Controlling (Si Kembar Identik)
+### A. Hubungan Planning dan Controlling
 
 Dua fungsi ini sering disebut sebagai "si kembar" dalam manajemen. Hubungan erat keduanya terlihat dari bagaimana target dari *Planning* menjadi acuan utama bagi *Controlling*. Tanpa adanya perencanaan, kamu tidak memiliki standar untuk mengukur keberhasilan. Sebaliknya, tanpa pengawasan, perencanaan matang pun akan sia-sia karena tidak ada cara untuk mengetahui ketercapaian target tersebut.
 

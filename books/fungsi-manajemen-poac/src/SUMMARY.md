@@ -5,7 +5,7 @@
 - [Teknik Perencanaan dan Pengambilan Keputusan](content/03_teknik-perencanaan-dan-pengambilan-keputusan.md)
 - [Organizing untuk Membangun Struktur dan Pembagian Kerja](content/04_organizing-membangun-struktur-dan-pembagian-kerja.md)
 - [Delegasi Wewenang dan Alokasi Sumber Daya](content/05_delegasi-wewenang-dan-alokasi-sumber-daya.md)
-- [Actuating untuk Menggerakkan Roda Organisasi](content/06_actuating-menggerakkan-roda-organisasi.md)
+- [Actuating untuk Menggerakkan Organisasi](content/06_actuating-menggerakkan-roda-organisasi.md)
 - [Kepemimpinan dan Motivasi dalam Pelaksanaan](content/07_kepemimpinan-dan-motivasi-dalam-pelaksanaan.md)
 - [Controlling untuk Memastikan Kesesuaian dengan Rencana](content/08_controlling-memastikan-kesesuaian-dengan-rencana.md)
 - [Tindakan Korektif dan Evaluasi Kinerja](content/09_tindakan-korektif-dan-evaluasi-kinerja.md)

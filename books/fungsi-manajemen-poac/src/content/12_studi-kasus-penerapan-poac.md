@@ -27,14 +27,14 @@ Berbeda dengan perusahaan besar lainnya yang menggunakan struktur divisional (be
 - **Keahlian di atas segalanya:** Para pemimpin divisi wajib menguasai aspek teknis bidang mereka. Sebagai contoh, kepala desain harus merupakan desainer terbaik, tidak hanya bertindak sebagai administrator.
 - **Kolaborasi lintas fungsi:** Tim-tim kecil dibentuk dengan fokus spesifik guna menjaga kerahasiaan sekaligus mempercepat pengembangan produk.
 
-### C. Actuating lewat Kepemimpinan yang Inspiratif
+### C. Actuating lewat Kepemimpinan dan Komunikasi
 
 Di Apple, pelaksanaan digerakkan oleh budaya perfeksionisme dan inovasi.
 
 - **Gaya kepemimpinan:** Steve Jobs dikenal dengan kemampuan memotivasi tim, sementara Tim Cook meningkatkan efisiensi rantai pasok.
 - **Saluran komunikasi:** Penyelenggaraan pertemuan rutin internal (Town Hall) serta presentasi produk baru yang dikemas secara teatrikal memastikan seluruh elemen perusahaan memahami visi bersama.
 
-### D. Controlling lewat Standar Kualitas yang Kejam
+### D. Controlling lewat Standar Kualitas yang Ketat
 
 Apple memiliki kontrol yang sangat ketat terhadap rantai pasokan dan kualitas produk.
 
@@ -101,7 +101,7 @@ Dalam manajemen modern (Era Digital), fungsi *Controlling* sering kali dibantu o
 
 Sebagai contoh rekaan, target penjualan 1.000 unit dan yang sudah terjual 850 unit. Pencapaiannya 850 dibagi 1.000 lalu dikali 100%, yaitu 85%. Angka ini berada di antara 80% dan 100%, sehingga statusnya **Baik** dan cukup diikuti dorongan pemasaran kecil.
 
-## Siklus POAC yang Hidup
+## Fungsi POAC Saling Bergantung
 
 Dari Apple dan Gojek, kita belajar bahwa POAC bukanlah proses yang sekali jadi.
 

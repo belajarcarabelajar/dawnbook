@@ -1,4 +1,4 @@
-## Actuating untuk Menggerakkan Roda Organisasi
+## Actuating untuk Menggerakkan Organisasi
 
 Bayangkan kamu memiliki sebuah peta harta karun yang detail (**Planning**) dan tim ahli dengan peralatan penggalian (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur.
 
@@ -24,7 +24,7 @@ di mana:
 - $M$ = motivasi
 - $S$ = sumber daya yang tersedia
 
-## 2. Mengapa Actuating Dianggap Sebagai "Jantung" Manajemen?
+## 2. Mengapa Actuating Dianggap Fungsi Terpenting?
 
 Banyak ahli menyebut Actuating sebagai fungsi yang paling penting karena berhubungan langsung dengan **manusia**. Mesin bisa diprogram, anggaran bisa dihitung, tetapi manusia memiliki perasaan, ambisi, dan dinamika yang kompleks.
 
