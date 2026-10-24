@@ -13,7 +13,7 @@ Bayangkan sebuah pohon. **Kebajikan (Virtues)** adalah akar dan batang utamanya,
 ### Perbedaan Kekuatan vs. Bakat
 
 - **Bakat (Talents)** biasanya bersifat bawaan sejak lahir dan bekerja secara otomatis, seperti kemampuan mendengar nada dengan presisi (*perfect pitch*) atau kecepatan berlari alami.
-- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Menariknya, kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
+- **Kekuatan Karakter (Strengths)** menuntut peran kehendak dan keputusan moral kita. Kekuatan ini bukanlah sesuatu yang statis; kita bisa melatih dan memperkuatnya seiring waktu.
 
 ## 2. Klasifikasi VIA
 

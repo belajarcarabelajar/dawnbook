@@ -58,7 +58,7 @@ Menurut para ahli, fokus studi ini terbagi menjadi tiga tingkatan utama:
 
 ## 5. Apa yang Bukan Psikologi Positif
 
-Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Untuk meluruskannya, mari kita perhatikan batasan-batasan berikut:
+Banyak orang keliru menyamakan psikologi positif dengan "berpikir positif secara membabi buta". Batasan-batasan berikut meluruskannya:
 
 - **Bukan *Toxic Positivity*:** Pendekatan ini tidak meminta kamu untuk memaksakan senyum saat berduka atau menekan perasaan sedih. Emosi negatif seperti marah, takut, dan kecewa adalah respons manusiawi yang wajar dan penting untuk diproses.
 - **Berbeda dari Motivasi Instan:** Sebagai cabang ilmu ilmiah, seluruh teori di dalamnya didasarkan pada eksperimen, analisis statistik, dan penelitian empiris, bukan kalimat motivasi tanpa landasan ilmiah.
