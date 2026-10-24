@@ -36,7 +36,7 @@ Dalam sebuah kongres AFC yang diprakarsai oleh **Kuwait**, dilakukan pemungutan 
 
 Secara resmi, Israel dikeluarkan dari AFC. Hal ini menciptakan anomali geopolitik: sebuah negara yang diakui FIFA tetapi tidak memiliki "rumah" (konfederasi).
 
-## 4. Masa "Nomaden" dan Pengembaraan di Benua Lain
+## 4. Israel Berpindah-pindah Zona Kualifikasi
 
 Selama hampir dua dekade (1974-1991), Israel menjadi tim "tunawisma" dalam kualifikasi Piala Dunia. Mereka harus berpindah-pindah zona kualifikasi tergantung pada keputusan FIFA, yang sering kali mencari solusi pragmatis agar jadwal tidak berantakan.
 
@@ -65,7 +65,7 @@ Kasus Israel di AFC adalah pelajaran klasik bahwa olahraga tidak bisa dipisahkan
 - **Evolusi Boikot**: Pola boikot yang terjadi pada era 1970-an kini terus berulang dalam bentuk lain, seperti penolakan bertanding melawan Rusia setelah invasi ke Ukraina, atau gelombang protes hak asasi manusia menjelang turnamen di Qatar 2022.
 - **Kekuatan Diplomasi Blok**: Kasus ini menunjukkan bahwa organisasi global seperti FIFA kerap tidak berdaya menghadapi kesepakatan kolektif dari blok politik regional jika suara mayoritas mereka bersatu.
 
-## Ringkasan Perubahan Peta Kualifikasi
+## Tiga Periode Konfederasi Israel
 
 | Periode | Konfederasi Israel | Dampak Utama |
 | --- | --- | --- |

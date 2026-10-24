@@ -1,10 +1,10 @@
-## Hubungan Intim Sepak Bola dan Geopolitik
+## Hubungan Erat Sepak Bola dan Geopolitik
 
 Selamat datang di titik temu antara olahraga paling populer di bumi dan papan catur kekuasaan dunia. Kerap kali kita mendapat imbauan untuk tidak mencampuradukkan politik dengan olahraga. Namun, jika menilik sejarah Piala Dunia, pemisahan tersebut nyaris mustahil diwujudkan.
 
 Sejak peluit pertama dibunyikan di Uruguay pada tahun 1930, Piala Dunia FIFA berkembang melampaui batas lapangan hijau. Turnamen ini menjadi cermin ketegangan global, instrumen diplomasi, sekaligus panggung bagi berbagai negara untuk memproyeksikan pengaruh mereka tanpa perlu memicu konflik bersenjata.
 
-## Melampaui Batas Lapangan
+## Kekuatan Lunak Piala Dunia
 
 George Orwell pernah menyebut olahraga internasional sebagai "perang tanpa tembakan". Sudut pandang ini sangat relevan dalam geopolitik, di mana Piala Dunia menjadi instrumen kekuatan lunak (*soft power*) yang efektif. Berbeda dari kekuatan militer atau ekonomi (*hard power*) yang sifatnya memaksa, *soft power* bekerja dengan cara memikat dan memengaruhi masyarakat global lewat budaya, nilai, serta olahraga.
 
@@ -16,7 +16,7 @@ Ada tiga alasan mendasar mengapa sepak bola dan geopolitik selalu berjalan berir
 2. **Simbol Pemersatu Bangsa**. Tim nasional sering kali menjadi satu-satunya kekuatan yang bisa menyatukan masyarakat yang terfragmentasi, melampaui sekat kelas sosial atau etnis.
 3. Ajang ini menjadi sarana **diplomasi publik** yang efektif, memberi kesempatan bagi tuan rumah untuk memoles citra mereka di mata dunia melalui upaya penjenamaan nasional (*nation branding*).
 
-## Papan Catur di Atas Rumput Hijau
+## Analogi Papan Catur
 
 Bayangkan sebuah papan catur. Dalam permainan tradisional ini, setiap langkah bertujuan untuk menguasai wilayah dan menaklukkan lawan.
 
@@ -43,7 +43,7 @@ Rezim otoriter sepanjang sejarah menyadari bahwa sorotan kamera dunia sepanjang 
 
 > "Sepak bola adalah bahasa universal. Di dunia yang terpecah, ia menjadi satu dari sedikit hal yang bisa menyatukan semua orang di meja yang sama, bahkan ketika mereka saling berseberangan."
 
-## Alasan di Balik Investasi Raksasa Piala Dunia
+## Alasan Negara Membiayai Piala Dunia
 
 Kamu mungkin bertanya-tanya: *Mengapa sebuah negara bersedia menggelontorkan biaya hingga ratusan triliun rupiah hanya untuk menyelenggarakan turnamen sepanjang satu bulan?*
 
@@ -53,7 +53,7 @@ Di atas kertas, investasi besar-besaran ini jarang menghasilkan keuntungan finan
 - **Posisi di Kancah Global**. Bagi kekuatan ekonomi baru (*emerging powers*), menyelenggarakan Piala Dunia bagaikan mengirim pesan tegas kepada dunia luar bahwa mereka adalah negara stabil yang siap diajak bekerja sama.
 - **Solidaritas Sosial**. Keberhasilan turnamen menumbuhkan rasa bangga kolektif di kalangan warga negara, yang secara tidak langsung dapat memperkuat stabilitas politik domestik.
 
-## Memahami Dinamika Melalui Angka
+## Rumus Pengaruh Geopolitik
 
 Dalam analisis geopolitik sepak bola, kita sering melihat korelasi antara posisi tim nasional dengan tingkat pengaruh negara tersebut. Mari kita lihat variabel sederhana dalam mengukur pengaruh global berikut:
 

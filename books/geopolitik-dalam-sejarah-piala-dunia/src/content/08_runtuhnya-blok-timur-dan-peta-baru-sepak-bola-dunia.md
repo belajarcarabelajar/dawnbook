@@ -42,7 +42,7 @@ $$
 
 Secara teoritis, kekuatan sepak bola di wilayah tersebut menjadi terfragmentasi, membuat masing-masing negara baru harus berjuang dari nol untuk membangun reputasi internasional.
 
-## 3. Tragedi dan Kejayaan dari Pecahnya Yugoslavia
+## 3. Pecahnya Yugoslavia
 
 Berbeda dengan Uni Soviet yang bubar relatif damai, fragmentasi Yugoslavia diwarnai oleh perang saudara yang brutal. Yugoslavia sering disebut sebagai "Brasil-nya Eropa" karena teknik individu pemainnya yang sangat tinggi.
 
@@ -68,7 +68,7 @@ Fragmentasi ini membawa dampak ganda. Di satu sisi, negara-negara kecil seperti 
 
 ## Kroasia dan Jerman
 
-### Jerman 2014 (Kesuksesan Integrasi)
+### Integrasi Jerman hingga Gelar 2014
 
 Keberhasilan Jerman menjuarai Piala Dunia 2014 adalah puncak dari proses integrasi yang dimulai pada 1990. Pemain seperti Toni Kroos (lahir di Jerman Timur) menjadi pilar penting. Tanpa runtuhnya Tembok Berlin, struktur pembinaan pemain yang menghasilkan talenta seperti Kroos mungkin tidak akan pernah bersentuhan dengan sistem kompetisi Jerman Barat yang elit.
 

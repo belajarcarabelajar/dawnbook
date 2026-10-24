@@ -12,7 +12,7 @@ Dua tahun sebelum turnamen dimulai, tepatnya pada 24 Maret 1976, kudeta militer 
 
 Di balik nama yang terdengar administratif ini, tersembunyi kampanye penindasan sistematis yang dikenal sebagai **Perang Kotor (Dirty War)**.
 
-### Statistik Kelam di Balik Layar
+### Data Korban dan Biaya Turnamen
 
 - **Desaparecidos:** Diperkirakan sekitar **30.000 orang** "dihilangkan" (diculik, disiksa, dan dibunuh) oleh rezim.
 - **Pusat Penahanan:** Lebih dari **340 pusat penyiksaan rahasia** beroperasi di seluruh negeri.
@@ -46,13 +46,13 @@ Banyak teori konspirasi yang memiliki dasar kuat mengenai pertandingan ini:
 
 Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar lapangan lebih menentukan daripada taktik di dalam lapangan?
 
-## 4. Pesta di Atas Penderitaan
+## 4. Gelar Juara di Masa Teror Politik
 
 Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa teror politik. Namun bagi militer, itu adalah legitimasi politik.
 
 > "Dengan kemenangan ini, kita telah menunjukkan kepada dunia bahwa Argentina adalah negara yang damai, bersatu, dan terorganisir." - **Jenderal Jorge Rafael Videla**
 
-### Ironi yang Tak Terlupakan
+### Perayaan Gol di Penjara ESMA
 
 Para tahanan di ESMA menceritakan bahwa saat Argentina mencetak gol, para penyiksa mereka akan berteriak kegirangan dan memeluk para tahanan yang baru saja mereka siksa. Beberapa tahanan bahkan dibawa keluar dengan mobil oleh penculiknya untuk melihat kerumunan orang yang merayakan kemenangan, hanya untuk dikembalikan ke sel penyiksaan beberapa jam kemudian.
 

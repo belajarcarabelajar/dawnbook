@@ -2,7 +2,7 @@
 
 Dunia olahraga sering kali mengklaim dirinya sebagai entitas yang netral dan bebas dari politik. Namun, sejarah mencatat bahwa lapangan hijau sering kali menjadi arena pertarungan ideologi yang sengit. Salah satu contohnya dalam sejarah geopolitik sepak bola adalah perjuangan melawan **Apartheid** di Afrika Selatan, yang berujung pada pengucilan negara tersebut dari panggung sepak bola internasional selama hampir tiga dekade.
 
-### 1. Apa itu Apartheid? Memahami Akar Masalah
+### 1. Akar Masalah Apartheid
 
 Untuk memahami mengapa FIFA (Federasi Sepak Bola Internasional) mengambil langkah ekstrem terhadap Afrika Selatan, kita harus terlebih dahulu memahami apa itu Apartheid.
 
@@ -52,7 +52,7 @@ Selama masa isolasi, sepak bola di Afrika Selatan tidak mati, tetapi tumbuh dala
 - Banyak pemain berbakat kulit hitam Afrika Selatan kehilangan kesempatan bersinar di panggung dunia selama masa keemasan mereka. Ini menciptakan generasi yang hilang di kancah sepak bola internasional.
 - Pemerintah Apartheid berupaya mendatangkan tim-tim luar negeri dengan bayaran mahal untuk melakoni tur ilegal demi mengesankan bahwa mereka tidak terkucil. Namun, langkah ini gagal akibat sanksi keras FIFA dan PBB.
 
-### 6. Runtuhnya Apartheid dan Kembalinya Sang "Bafana Bafana"
+### 6. Runtuhnya Apartheid dan Kembalinya "Bafana Bafana"
 
 Pada awal 1990-an, seiring dengan pembebasan Nelson Mandela dan negosiasi untuk mengakhiri Apartheid, pemisahan rasial di sepak bola ikut berakhir.
 

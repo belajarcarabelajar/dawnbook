@@ -4,7 +4,7 @@ Selama periode 1947 hingga 1991, Piala Dunia FIFA menjadi medan persaingan polit
 
 Dalam bab ini, kita akan membedah bagaimana lapangan hijau menjadi instrumen validasi ideologi, di mana setiap gol dianggap sebagai kemenangan sistem politik.
 
-### Sepak Bola sebagai "Laboratorium" Keunggulan Ideologi
+### Sepak Bola sebagai Bukti Keunggulan Ideologi
 
 Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemain di Barat yang seringkali merupakan profesional murni dalam klub swasta, atlet dari Uni Soviet, Hungaria, atau Jerman Timur sering disebut sebagai **"Amatir Negara"**.
 
@@ -12,7 +12,7 @@ Bagi negara-negara Blok Timur, olahraga adalah alat negara. Berbeda dengan pemai
 
 Upaya ini berfokus pada dua hal. Pertama, legitimasi sistem. Kemenangan di Piala Dunia membuktikan bahwa rakyat di bawah bendera komunisme lebih sehat, tangguh, dan terorganisir dibandingkan masyarakat Barat yang dicap dekaden. Kedua, propaganda domestik. Skor pertandingan dipajang sebagai berita utama surat kabar guna mengalihkan perhatian dari kesulitan ekonomi di dalam negeri.
 
-### Pertarungan Dua Saudara 1974 (Jerman Barat vs Jerman Timur)
+### Jerman Barat vs Jerman Timur 1974
 
 Salah satu momen penting dalam sejarah geopolitik sepak bola terjadi pada Piala Dunia 1974. Untuk pertama dan terakhir kalinya dalam sejarah, **Jerman Barat (BRD)** dan **Jerman Timur (DDR)** bertemu di babak penyisihan grup.
 

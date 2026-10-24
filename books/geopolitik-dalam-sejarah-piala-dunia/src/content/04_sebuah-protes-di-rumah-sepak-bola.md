@@ -1,4 +1,4 @@
-## Sebuah Protes di "Rumah" Sepak Bola
+## Boikot Afrika atas Piala Dunia Inggris 1966
 
 Tahun 1966 seharusnya menjadi perayaan besar bagi sepak bola. Inggris, negara yang mengklaim sebagai penemu olahraga ini, menjadi tuan rumah Piala Dunia untuk pertama kalinya. Namun, di balik kemegahan stadion Wembley dan eforia lagu *"World Cup Willie"*, sebuah guncangan geopolitik besar terjadi.
 

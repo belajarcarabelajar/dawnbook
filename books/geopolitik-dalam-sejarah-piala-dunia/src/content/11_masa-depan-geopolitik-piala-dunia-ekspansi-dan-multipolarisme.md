@@ -8,7 +8,7 @@ Kita sedang memasuki era saat sepak bola bertransformasi dari instrumen diplomas
 
 Mulai tahun 2026, kita akan menyaksikan perubahan format paling drastis dalam sejarah modern FIFA: penambahan jumlah peserta dari 32 menjadi **48 tim**. Secara administratif, langkah ini menghadirkan tantangan logistik yang besar. Namun secara geopolitik, ekspansi tersebut mengirimkan pesan kuat tentang **demokratisasi dan inklusi**.
 
-### Mengapa 48? Analogi "Meja Perjamuan Global"
+### Mengapa 48 Tim?
 
 Bayangkan Piala Dunia seperti perjamuan makan malam eksklusif. Selama puluhan tahun, perhelatan ini didominasi oleh perwakilan dari Eropa dan Amerika Selatan. Negara-negara Asia dan Afrika sering kali hanya menjadi pelengkap dengan kuota yang sangat terbatas. Ekspansi menjadi 48 tim menjadi cara FIFA memperluas jangkauan agar kekuatan ekonomi baru dapat ikut ambil bagian.
 

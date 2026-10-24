@@ -25,7 +25,7 @@ Geopolitik sangat menentukan siapa yang boleh menendang bola di tahun 1950. FIFA
 - **Jerman:** Negara ini terbagi menjadi zona pendudukan. Karena belum memiliki pemerintahan yang diakui secara internasional dan sebagai bentuk hukuman moral, Jerman (baik Barat maupun Timur) dilarang berpartisipasi dalam kualifikasi.
 - **Jepang:** Mengalami nasib yang sama. Sebagai agresor utama di Asia, Jepang dikucilkan dari komunitas sepak bola internasional hingga proses rehabilitasi politik mereka dianggap cukup.
 
-### B. Pengecualian Italia yang Menarik
+### B. Pengecualian untuk Italia
 
 Meskipun Italia adalah bagian dari Poros pimpinan Mussolini, mereka tetap diizinkan ikut serta. Mengapa?
 

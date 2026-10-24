@@ -2,7 +2,7 @@
 
 Selamat datang di salah satu bab kelam dalam sejarah olahraga dunia. Jika kamu berpikir bahwa politisasi olahraga adalah fenomena modern, maka kisah Piala Dunia 1934 akan mengubah perspektifmu. Di sini, kita akan membedah bagaimana sepak bola dijadikan alat propaganda oleh rezim fasis Benito Mussolini.
 
-## Panggung bagi Si Diktator
+## Mussolini dan Sepak Bola
 
 Pada awal 1930-an, Italia berada di bawah kediktatoran **Benito Mussolini**, sang *Il Duce*. Bagi Mussolini, sepak bola jauh melampaui permainan sebelas lawan sebelas di lapangan hijau. Olahraga ini adalah instrumen politik untuk membuktikan kejantanan, disiplin, dan keunggulan rasial bangsa Italia.
 

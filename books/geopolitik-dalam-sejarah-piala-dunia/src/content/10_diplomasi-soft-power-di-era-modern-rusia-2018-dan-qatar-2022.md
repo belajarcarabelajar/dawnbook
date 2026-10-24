@@ -54,7 +54,7 @@ Qatar menghadapi penolakan dan kritik keras terkait beberapa hal:
 2. **Hak LGBTQ+**: Terjadinya benturan antara nilai-nilai lokal yang konservatif dengan standar hak asasi global.
 3. **Dampak Lingkungan**: Kekhawatiran atas penggunaan teknologi pendingin udara berlebih di stadion gurun pasir.
 
-### Strategi Menyajikan Turnamen Terbaik
+### Tata Kelola Turnamen yang Rapi
 
 Pemerintah Qatar menjawab segala kritik tersebut dengan menunjukkan tata kelola turnamen yang rapi. Mereka membangun kota baru (Lusail), jaringan metro, serta merancang jarak antardua stadion yang dekat sehingga memudahkan mobilisasi penonton sepanjang kejuaraan berlangsung.
 
