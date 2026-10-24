@@ -5,12 +5,12 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi banyak dipengar
 1. **Iwan Setyawan (Tokoh Utama / 'Aku')**
    Iwan digambarkan sebagai anak laki-laki yang cerdas, tekun, sederhana, dan pantang menyerah. Ia menyerap nilai-nilai kesederhanaan dan kasih sayang dari lingkungan keluarganya yang bersahaja:
    
-   Iwan mengenang rumah masa kecilnya sebagai rumah yang “dibangun dengan cinta dan kesederhanaan” (Hlm. 14). Justru karena bangunannya kecil dan apa adanya, rumah itu memberi ruang lapang di hati mereka untuk menerima hidup, sekecil apa pun kebahagiaan yang datang.
+   Iwan mengenang rumah masa kecilnya sebagai rumah yang “dibangun dengan cinta dan kesederhanaan” (Hlm. 14). Bangunan yang kecil dan apa adanya itu melahirkan ruang yang besar di hati mereka untuk menerima hidup, sekecil apa pun kebahagiaan yang mereka terima.
 
 2. **Bapak (Abdul Hasim)**
    Bapak adalah sosok kepala keluarga yang gigih, mandiri, dan pekerja keras. Beliau bekerja puluhan tahun sebagai sopir angkot dengan impian memiliki armada sendiri demi menaikkan derajat ekonomi keluarga:
    
-   Setelah beberapa tahun menyopir, Bapak membeli mobil bekas seharga sekitar dua juta pada 1980 dari tabungan berpuluh-puluh tahun (Hlm. 26). Bagi keluarga, itu keberhasilan besar yang membanggakan, sebab Bapak tak perlu lagi menyetor sebagian penghasilannya kepada juragan.
+   Setelah beberapa tahun menyopir, Bapak membeli mobil bekas seharga sekitar dua juta pada 1980 dari tabungan berpuluh-puluh tahun (Hlm. 26). Bagi keluarga, itu sukses yang cukup besar pada masa itu dan membanggakan, sebab Bapak tak perlu lagi menyetor sebagian penghasilannya kepada juragan.
 
 3. **Ibu (Ngatinah)**
    Ibu adalah cermin ketegaran, kelembutan, dan kebijaksanaan. Dengan penuh kesabaran, Ibu mampu mengelola keuangan keluarga yang sangat terbatas dan menyatukan seluruh anggota keluarga di bawah atap rumah yang mungil:
@@ -20,7 +20,7 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi banyak dipengar
 4. **Siti Aisyah (Mbak Isa)**
    Mbak Isa adalah kakak tertua Iwan yang cerdas, giat belajar secara mandiri, dan menjadi inspirasi terbesar bagi adik-adiknya dalam menempuh jalur pendidikan:
    
-   Dari kelas 1 sampai lulus, Mbak Isa selalu meraih peringkat teratas tanpa les dan tanpa bimbingan siapa pun di rumah. Ia terkenal di SD karena kemampuan matematikanya, dan kedekatannya dengan buku pelajaran membuat adik-adiknya berkata, “Kami ingin pintar seperti Mbak Isa” (Hlm. 38).
+   Dari kelas 1 sampai lulus, Mbak Isa selalu meraih peringkat teratas tanpa les dan tanpa bimbingan siapa pun di rumah. Ia terkenal di SD karena kemampuan matematikanya, dan kedekatannya dengan buku pelajaran menjadi inspirasi bagi adik-adiknya: “Kami ingin pintar seperti Mbak Isa” (Hlm. 38).
 
 ### Perkembangan Tokoh Iwan dari Batu ke New York
 

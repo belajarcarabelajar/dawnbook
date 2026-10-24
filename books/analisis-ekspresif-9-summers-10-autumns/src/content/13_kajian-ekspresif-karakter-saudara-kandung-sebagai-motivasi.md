@@ -12,7 +12,7 @@ Mbak Isa juga merelakan cita-cita kuliahnya demi masa depan adik-adiknya, serta 
 
 Sementara Mbak Inan menanamkan *sentimental sensitivity* (kepekaan emosional) terhadap keindahan seni sastra dan puisi dalam kehidupan mereka. Dialah yang mengajari adik-adiknya membaca puisi, dari intonasi sampai penghayatan, hingga menurut Iwan “rasa sentimental memasuki darah kami” (Hlm. 44).
 
-Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartedness*) Mira (Denok) semakin melengkapi representasi kehangatan keluarga Iwan Setyawan. Rini bekerja dengan tekun di antara alat dapur, buku pasien, sapu, dan kain pel, dan kegigihannya mencari uang melelehkan hati seluruh keluarga (Hlm. 51). Mira berhati lunak dan mudah tersentuh, jujur tanpa retak, meski kadang terluka karena menggenggam masa lalu terlalu kuat (Hlm. 55).
+Ketekunan Rini Agustina dalam keterampilan dan kelembutan hati (*soft-heartedness*) Mira (Denok) semakin melengkapi representasi kehangatan keluarga Iwan Setyawan. Rini bekerja dengan tekun di antara alat dapur, buku pasien, sapu, dan kain pel, dan ketegarannya mencari uang melelehkan hati seluruh keluarga (Hlm. 51). Mira berhati lunak dan mudah tersentuh, jujur tanpa retak, meski kadang retak karena menggenggam masa lalu terlalu kuat (Hlm. 55).
 
 ### Rantai Motivasi dan Tanggung Jawab Moral
 
