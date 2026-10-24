@@ -1,6 +1,6 @@
 ## Aplikasi dan Manfaat Peluruhan Beta dalam Kehidupan
 
-Setelah kita mempelajari bagaimana atom yang tidak stabil melepaskan energi melalui peluruhan beta, muncul sebuah pertanyaan penting: **"Apa gunanya semua radiasi ini bagi manusia?"**
+Setelah mempelajari cara atom tak stabil melepaskan energi lewat peluruhan beta, muncul pertanyaan penting: **Apa gunanya semua radiasi ini bagi manusia?**
 
 Meskipun radiasi sering kali dianggap menakutkan, peluruhan beta sebenarnya adalah pahlawan tanpa tanda jasa dalam dunia medis, industri manufaktur, hingga pengungkapan sejarah peradaban manusia. Karakteristik partikel beta (yang memiliki daya tembus sedang: lebih kuat dari alfa tetapi lebih lemah dari gamma) membuatnya sangat ideal untuk tugas-tugas presisi yang tidak bisa dilakukan oleh jenis radiasi lainnya.
 

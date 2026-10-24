@@ -1,6 +1,6 @@
 ## Struktur Atom dan Ketidakstabilan Inti
 
-Pernahkah muncul pertanyaan mengapa beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara yang lain perlahan-lahan berubah menjadi unsur yang berbeda? Jawabannya terletak jauh di dalam jantung atom, pada **nukleus** atau inti atom.
+Beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara yang lain perlahan-lahan berubah menjadi unsur yang berbeda. Mengapa bisa begitu? Jawabannya terletak jauh di dalam jantung atom, pada **nukleus** atau inti atom.
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana arsitektur inti atom menentukan nasibnya: apakah ia akan menjadi fondasi yang kokoh bagi materi, atau justru menjadi bom waktu mikroskopis yang memicu peluruhan beta.
 

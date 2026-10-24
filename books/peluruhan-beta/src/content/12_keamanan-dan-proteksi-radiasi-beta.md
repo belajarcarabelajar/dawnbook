@@ -1,6 +1,6 @@
 ## Keamanan dan Proteksi Radiasi Beta
 
-Setelah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi, pertanyaan krusial yang muncul adalah: **Bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
+Kamu sudah memahami bagaimana peluruhan beta terjadi dan bagaimana partikel ini digunakan dalam berbagai teknologi. Pertanyaan krusial yang muncul adalah: **Bagaimana interaksi dengan radiasi ini dapat dilakukan secara aman?**
 
 Berbeda dengan partikel alfa yang berat atau sinar gamma yang sangat menembus, partikel beta memiliki karakteristik unik yang memerlukan strategi perlindungan khusus. Bagian ini akan membahas daya tembus partikel beta dan bagaimana memilih material perisai yang tepat untuk menjaga keselamatan diri.
 
