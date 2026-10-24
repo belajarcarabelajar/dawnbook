@@ -1,10 +1,10 @@
 ## Referensi
 
-Sumber buku ini dikelompokkan menurut topik, dan setiap tautan di bawah ini sudah diperiksa pada 23 Oktober 2026.
+Sumber buku ini dikelompokkan menurut topik, dan setiap tautan di bawah ini sudah diperiksa pada 23 Oktober 2026. Buku ini karya penggemar yang tidak resmi, tidak berafiliasi dengan pengembang maupun penerbit gimnya, dan tidak mendapat dukungan dari mereka. Harvest Moon dan nama lain yang terkait adalah merek dagang milik pemiliknya masing-masing.
 
 ### Gim dan Panduan Resminya
 
-McBride, D., dan Cassady, D. (2000). [*Harvest Moon: Back to Nature: Prima's official strategy guide*](https://archive.org/details/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf). Prima Games. ISBN 0-7615-3271-4. Tautan menuju pindaian di Internet Archive.
+McBride, D., dan Cassady, D. (2000). [*Harvest Moon: Back to Nature: Prima's official strategy guide*](https://openlibrary.org/books/OL8017942M). Prima Games. ISBN 0-7615-3271-4. Catatan katalog Open Library, diakses 24 Oktober 2026.
 
 Wikipedia. (t.t.). [Harvest Moon: Back to Nature](https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature). Diakses 23 Oktober 2026.
 

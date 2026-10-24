@@ -554,7 +554,7 @@ Not used (read but weak or off-topic): L1-1 HBR body (paywalled), L2-2a OJK amou
 
 | ID | Source | URL |
 |---|---|---|
-| S1 | McBride and Cassady 2000, Prima's Official Strategy Guide (archive.org scan) | https://archive.org/details/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf |
+| S1 | McBride and Cassady 2000, Prima's Official Strategy Guide (Open Library catalogue record) | https://openlibrary.org/books/OL8017942M |
 | S2 | Wikipedia, Harvest Moon: Back to Nature | https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature |
 | S3 | Marvelous, official Bokujo Monogatari series site, Harvest Moon page | https://www.bokumono.com/sub/harvest.php |
 | S4 | Sheffield 2007, Gamasutra interview with Yasuhiro Wada | https://www.gamedeveloper.com/business/harvest-man-yasuhiro-wada-s-gentle-world |
