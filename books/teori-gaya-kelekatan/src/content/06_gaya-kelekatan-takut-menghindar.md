@@ -50,7 +50,7 @@ Bagian dari diri mereka mahir membaca mikro-ekspresi atau perubahan nada suara p
 
 * *Contoh:* Pasangan hanya menghela napas karena lelah bekerja, namun individu *Fearful-Avoidant* mungkin mengartikannya sebagai "Dia sedang marah padaku dan pasti akan memutusiku."
 
-## 4. Kaktus di Tengah Padang Pasir
+## 4. Kaktus yang Merindukan Air
 
 Bayangkan individu *Fearful-Avoidant* seperti sebuah kaktus yang merindukan air (cinta). Mereka sangat membutuhkannya untuk bertahan hidup. Namun, mereka telah belajar bahwa siapa pun yang datang membawa air biasanya juga membawa parang untuk melukai mereka. Maka, mereka menumbuhkan duri yang tajam. Saat seseorang mendekat untuk memberi air, mereka secara tidak sengaja menusuk orang tersebut, dan saat orang itu mundur karena terluka, si kaktus merasa terkonfirmasi bahwa "tidak ada yang benar-benar peduli padaku."
 

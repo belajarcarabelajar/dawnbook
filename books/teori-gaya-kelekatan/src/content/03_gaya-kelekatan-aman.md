@@ -80,7 +80,7 @@ Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyat
 
 * **Respons Individu Aman:** Mereka memisahkan performa kerja dengan harga diri. Mereka berpikir, *"Kritik ini tentang presentasi saya, bukan tentang nilai saya sebagai manusia."* Mereka mampu menerima masukan tanpa bersikap defensif dan meminta bimbingan lebih lanjut jika diperlukan.
 
-## 6. Ringkasan Karakteristik (Visual Checklist)
+## 6. Tabel Karakteristik Gaya Aman
 
 | **Aspek** | **Manifestasi Gaya Aman** |
 | --- | --- |

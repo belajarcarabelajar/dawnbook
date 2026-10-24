@@ -4,7 +4,7 @@ Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seke
 
 Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar konsep psikologis abstrak. Hubungan awal kita dengan pengasuh berperan sebagai arsitek yang membangun struktur fisik otak kita.
 
-## 1. Plastisitas Otak sebagai Organ Sosial
+## 1. Otak Bayi yang Dibentuk Pengalaman
 
 Otak bayi yang baru lahir adalah organ yang paling tidak matang dibandingkan mamalia lainnya. Kondisi ini sebenarnya menjadi keuntungan alamiah karena memungkinkan otak untuk dibentuk oleh lingkungan tempat ia dibesarkan. Fenomena ini dikenal sebagai plastisitas yang bergantung pada pengalaman (*Experience-Dependent Plasticity*).
 

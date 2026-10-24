@@ -14,7 +14,7 @@ Meskipun kita tidak bisa mengubah apa yang terjadi pada masa kecil, kita bisa me
 
 Bayangkan sebuah keramik yang pecah. Seseorang dengan *Earned Security* mirip dengan **Kintsugi**, yaitu seni Jepang memperbaiki keramik pecah menggunakan emas cair. Alih-alih menyembunyikan retakannya, guratan emas tersebut justru membuat keramik lebih kuat dan indah. Retakan atau luka masa lalu itu tetap ada, tetapi tidak lagi mendefinisikan kerapuhan; ia justru menjadi simbol ketangguhan.
 
-## Narasi yang Koheren (Coherent Narrative) sebagai Kunci Utama
+## Narasi yang Koheren (Coherent Narrative)
 
 Penelitian oleh Mary Main menemukan bahwa faktor pembeda terbesar bagi orang dewasa untuk mencapai kelekatan aman bukan pada tingkat "kesempurnaan" masa kecil mereka, tetapi pada kemampuan menceritakan kisah hidup secara **koheren**.
 

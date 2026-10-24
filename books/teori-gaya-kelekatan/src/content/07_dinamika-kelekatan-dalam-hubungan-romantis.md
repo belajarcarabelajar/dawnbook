@@ -4,7 +4,7 @@ Pernahkah kamu merasa bahwa semakin kamu mengejar pasangan untuk mendapatkan kej
 
 Pola seperti ini disebut **Dinamika Kelekatan**. Dalam hubungan romantis dewasa, gaya kelekatan kita tidak bekerja secara terisolasi. Mereka berinteraksi layaknya sebuah tarian. Sayangnya, bagi banyak pasangan, tarian ini sering kali berubah menjadi "tarian konflik" yang melelahkan karena adanya benturan antara kebutuhan akan kedekatan dan kebutuhan akan kemandirian.
 
-## 1. Magnetisme Ketidakamanan
+## 1. Ketertarikan Si Cemas pada Si Menghindar
 
 Sebuah fenomena menarik dalam psikologi hubungan adalah kecenderungan individu dengan gaya kelekatan **Cemas (Anxious)** untuk tertarik pada individu dengan gaya kelekatan **Menghindar (Avoidant)**. Fenomena ini sering disebut sebagai *Anxious-Avoidant Trap*.
 
@@ -65,19 +65,19 @@ Keduanya berakhir dengan rasa terluka. Sinta merasa diabaikan dan tidak dicintai
 
 Meskipun pasangan Cemas-Menghindar paling sering dibahas karena konflik mereka yang dramatis, pola hubungan lainnya juga memiliki karakteristik unik:
 
-### A. Aman + Tidak Aman (Jangkar Hubungan)
+### A. Aman + Tidak Aman (Cenderung Lebih Stabil)
 
 Ketika seseorang dengan gaya kelekatan **Aman (Secure)** berpasangan dengan individu yang Cemas atau Menghindar, hubungan tersebut cenderung lebih stabil.
 
 Dalam dinamika ini, pasangan dengan gaya Aman bertindak sebagai jangkar yang kokoh. Mereka tidak mudah terpicu oleh kecemasan berlebih atau aksi penarikan diri pasangannya. Kehadiran yang konsisten dan menenangkan ini secara perlahan membantu pasangan yang tidak aman untuk belajar lebih tenang dan percaya diri hingga mencapai kondisi *Earned Security*.
 
-### B. Menghindar + Menghindar (Perang Dingin)
+### B. Menghindar + Menghindar (Saling Menjaga Jarak)
 
 Pasangan yang sama-sama memiliki gaya kelekatan menghindar jarang terlibat dalam pertengkaran hebat, tetapi hubungan mereka sering kali terasa hampa.
 
 Keduanya sama-sama menjaga jarak aman demi melindungi diri dari keintiman. Risiko terbesar dari pola ini adalah hubungan yang perlahan mendingin karena tidak adanya kedekatan emosional yang tulus.
 
-### C. Cemas + Cemas (Badai Emosional)
+### C. Cemas + Cemas (Saling Menuntut Kepastian)
 
 Hubungan antara dua orang yang sama-sama cemas biasanya dipenuhi dengan gairah yang tinggi, namun juga diwarnai banyak drama.
 

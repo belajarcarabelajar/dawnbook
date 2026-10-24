@@ -75,7 +75,7 @@ Salah satu cara meredakannya adalah dengan metode *grounding* 5-4-3-2-1 untuk me
 
 Latihan sederhana ini mengirimkan sinyal penenang ke amigdala (bagian otak yang memproses rasa takut) bahwa kamu saat ini berada dalam kondisi aman, bukan sedang terancam seperti di masa lalu.
 
-## Skenario Transformasi
+## Ketika Budi Pergi Mendaki Sendirian
 
 Mari kita lihat bagaimana proses transformasi ini berjalan dalam kehidupan sehari-hari melalui contoh kasus berikut:
 

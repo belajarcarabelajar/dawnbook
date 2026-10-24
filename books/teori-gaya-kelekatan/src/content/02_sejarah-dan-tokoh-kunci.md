@@ -84,11 +84,11 @@ Memahami sejarah riset Bowlby dan Ainsworth membantu kita menyadari bahwa pola r
 * Berbeda halnya jika kamu bertipe **Kelekatan Cemas**. Kamu cenderung terus menempel pada pasangan sepanjang pesta karena dihantui rasa takut ditinggalkan sendirian di tengah keramaian.
 * Sementara itu, pemilik **Kelekatan Menghindar** justru akan sengaja menjauh dari pasangannya. Mereka berpura-pura sangat mandiri dan sibuk sendiri agar tidak terlihat membutuhkan bantuan atau perhatian.
 
-### Mengapa Penemuan Ini Revolusioner?
+### Keyakinan Pengasuhan yang Dibantah
 
 Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu sering memeluk atau memanjakan anak akan membuat mereka tumbuh menjadi pribadi yang lemah. Bowlby dan Ainsworth membantah keyakinan tersebut dan membuktikan hal sebaliknya: **kelekatan yang erat dan aman di awal kehidupan justru menjadi fondasi kekuatan serta kemandirian individu di masa depan.**
 
-## Menyelami Makna Kelekatan
+## Pola Basis Aman dalam Keseharian
 
 > *"What cannot be spoken to the mother cannot be said to the self."*
 >
