@@ -20,7 +20,7 @@ Tuliskan kegiatan atau hobi di rentang usia 5 hingga 18 tahun yang paling membek
 
 ### Mengamati Keseharian Saat Ini
 
-Selain menengok ke belakang, coba observasi keseharianmu saat ini. Lihat aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya, seperti dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
+Selain menengok ke belakang, coba observasi keseharianmu saat ini. Amati aktivitas apa saja yang biasa kamu lakukan di waktu luang tanpa merasa dipaksa. Kamu bisa mencoba melacak kegiatanmu selama seminggu penuh. Catat momen ketika kamu merasa antusias atau asyik sendiri, entah itu sekadar mengobrol dengan teman, merawat tanaman, memasak, atau berolahraga. Tulis juga konteks detailnya, seperti dengan siapa kamu menghabiskan waktu dan seperti apa suasana saat itu.
 
 Langkah lain yang cukup membantu adalah membuat daftar berisi beberapa hal yang rela kamu kerjakan secara cuma-cuma. Ini bisa berupa aktivitas seperti membantu teman pindahan rumah, menulis cerita pendek, menata ulang isi kamar, atau belajar bahasa asing. 
 
