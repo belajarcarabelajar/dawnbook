@@ -2,7 +2,7 @@
 
 Hilangnya uang Rp500.000 menggores perasaanmu jauh lebih dalam daripada kegembiraan saat kamu menang atau menemukan jumlah yang sama persis.
 
-Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, hidup yang suka bermain balik memberimu Rp500.000 juga, kali ini dari kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas: satu rugi, satu untung, sama besar, saling menghapus. Tetapi perhatikan perasaanmu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa menempel sampai kamu menutup mata. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
+Coba lakukan eksperimen pikir sederhana. Pagi tadi dompetmu hilang, dan di dalamnya ada Rp500.000. Sorenya, hidup yang suka bermain balik memberimu Rp500.000 juga, kali ini dari kantong jaket lama yang jarang kamu pakai. Secara hitungan, hari ini kamu impas: satu rugi, satu untung, sama besar, saling menghapus. Tetapi rasanya tidak begitu. Rasa gembira karena uang temuan biasanya menguap sebelum malam, sementara kesal karena dompet hilang bisa menempel sampai kamu menutup mata. Matematika menyatakan impas, perasaanmu menyimpulkan rugi.
 
 Ketimpangan seperti ini bukan keunikan pribadimu, dan bukan pula tanda kamu pelit atau terlalu emosional. Ia salah satu temuan paling kokoh dalam psikologi pengambilan keputusan, dan pintu masuknya adalah teori yang menggeser cara ilmuwan memandang pilihan manusia.
 
@@ -14,7 +14,7 @@ Kahneman dan Tversky menunjukkan bahwa manusia sungguhan tidak menimbang seperti
 
 > Bayangkan lembah dengan dua lereng. Lereng keuntungan landai, jadi mendaki Rp500.000 terasa seperti jalan pagi yang santai. Lereng kerugian terjal, jadi melorot Rp500.000 terasa seperti jatuh dari tebing. Ketinggianmu sama persis, sensasinya tidak bisa dibandingkan. Timbangan di kepala memang tidak pernah seimbang, dan beratnya selalu condong ke sisi yang kita takuti.
 
-Ada satu detail lain pada kurva itu: ia melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih menusuk daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya terbalik dimaknai. Melandai bukan berarti setara: sepanjang wilayah itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
+Kurva itu juga melengkung, artinya dua perubahan yang besarnya sama tidak selalu terasa sama. Kehilangan Rp100.000 pertama terasa lebih menusuk daripada Rp100.000 berikutnya ketika kerugianmu sudah membesar. Tetapi jangan sampai pesannya terbalik dimaknai. Melandai bukan berarti setara: sepanjang wilayah itu, lereng kerugian tetap lebih curam daripada lereng keuntungan.
 
 ### Saat kepastian menjadi magnet
 
@@ -38,7 +38,7 @@ Seberapa curam lereng kerugian itu? Tahun 1992, Tversky dan Kahneman menerbitkan
 
 Artinya sederhana sekaligus menusuk: kerugian harus diganjar keuntungan kira-kira dua kali lipat besarnya agar rasa sakitnya bisa dilunasi oleh rasa senang. Rugi Rp500.000 tidak bisa ditutup oleh untung Rp500.000 di atas kertas perasaan; butuh sekitar dua kali lipatnya supaya neraca emosimu kembali nol.
 
-Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perhatikan baik-baik: perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
+Di sini perlu kejujuran ilmiah. Riset modern yang mengulang pengukuran dan merangkum banyak studi cenderung menemukan angka yang lebih rendah, sekitar 1,5. Mungkin kita tidak sepeka dua kali lipat yang dulu dihitung, mungkin hanya sepeka satu setengah kali. Tetapi perbedaan besarnya tidak menyentuh arah kesimpulannya. Lereng kerugian selalu lebih curam, dan kerugian selalu terasa lebih berat daripada keuntungan yang setara.
 
 ### Berdamai dengan timbangan yang miring
 
@@ -46,10 +46,8 @@ Mengetahui bahwa kepalamu memakai timbangan yang miring bukan kabar buruk, melai
 
 ## Kesimpulan Bab
 
-- Kahneman dan Tversky (1979) menggantikan gambaran manusia sebagai penimbang tenang dengan fungsi nilai yang lebih curam di sisi kerugian daripada di sisi keuntungan.
-- Certainty effect membuat hasil yang pasti diberi bobot berlebih sementara hasil yang kejadiannya hanya mungkin diberi bobot kecil, sehingga kepastian bekerja sebagai magnet yang menyeret keputusan.
-- Reflection effect membalik urutan preferensi ketika tanda dibalik: kehati-hatian di wilayah untung berpasangan dengan keberanian berjudi di wilayah rugi, meskipun angkanya identik.
-- Estimasi koefisien loss aversion (lambda) dari Tversky dan Kahneman (1992) adalah 2,25, sementara meta-analisis modern cenderung menemukan sekitar 1,5; keduanya bercerita hal yang sama, kerugian menggores lebih dalam daripada keuntungan setara.
-- Konsekuensi praktisnya: perlambat keputusan setiap kali kata "rugi" muncul, jaga kedua sisi magnet kepastian, dan timbang ulang dalam gambaran besar, karena timbangan di kepala selalu condong ke arah yang ditakuti.
+- Fungsi nilai Kahneman dan Tversky (1979) lebih curam di sisi kerugian daripada di sisi keuntungan; Tversky dan Kahneman (1992) mengestimasi koefisiennya 2,25, riset modern cenderung menemukan sekitar 1,5, dan arahnya sama.
+- Kepastian bekerja sebagai magnet: orang berhati-hati di wilayah untung dan berani berjudi di wilayah rugi, meskipun angkanya identik.
+- Saat kata "rugi" muncul, perlambat diri, jaga kedua sisi magnet kepastian, dan timbang keputusan dalam gambaran kekayaan total.
 
-Rasa takut kehilangan tidak berhenti di eksperimen pikir. Ia punya panggung paling terang di bursa, tempat ia membuat banyak orang buru-buru menjual yang untung sambil memeluk yang rugi bertahun-tahun, lalu menatap portofolionya terlalu sering sampai keputusan makin kacau. Bab berikutnya, "Menjual Pemenang, Mengikuti Pengalah", membawamu ke panggung itu untuk menghitung berapa mahal harga dari timbangan yang miring ini.
+Rasa takut kehilangan tidak berhenti di eksperimen pikir. Panggungnya yang paling terang adalah bursa, tempat banyak orang buru-buru menjual yang untung sambil memeluk yang rugi bertahun-tahun.

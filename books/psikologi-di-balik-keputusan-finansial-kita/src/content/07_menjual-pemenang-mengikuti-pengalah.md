@@ -4,7 +4,7 @@ Di banyak portofolio, saham yang terus rugi ditahan bertahun-tahun dengan alasan
 
 Sebut saja namanya Danu. Sepuluh tahun ia berkecimpung di saham, hafal puluhan kode emiten, bisa membahas laporan keuangan sampai larut malam, dan tidak pernah sekalipun mengaku rugi. Buka aplikasinya, dan kamu akan menemukan dua dunia yang hidup berdampingan. Saham yang harganya naik jarang bertahan lama: begitu kenaikannya terlihat jelas, Danu melepasnya sambil melontarkan frasa standar, mengunci keuntungan. Saham yang harganya tenggelam di bawah harga beli mendapat nasib sebaliknya. Tiga tahun, empat tahun, lima tahun, mereka duduk manis di daftar kepemilikan. Ketika temannya memberanikan diri menyarankan jual saja, jawaban Danu selalu siap: "Sudah, masih diproses." Kadang dengan versi lain: "Nanti pulih juga, harga sekarang bukan harga sebenarnya."
 
-Kata "diproses" itu layak kamu perhatikan. Ia membayangkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakuinya berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
+Kata "diproses" itu layak dicermati. Ia membayangkan ada semacam meja layanan yang sedang menangani permohonan kenaikan harga, dan saham yang rugi tinggal menunggu nomor antreannya dipanggil. Tidak ada meja seperti itu, dan Danu tahu persis. Kilah itu tetap bertahan bertahun-tahun karena fungsinya bukan memberi informasi, melainkan menunda: mengakuinya berarti menutup berkas rugi secara resmi, dan berkas itu tidak pernah ingin ditutup.
 
 Yang membuat cerita Danu penting bukan keunikannya, melainkan kebiasaannya. Pola ini muncul di akun investor lain dengan kesetiaan yang mengganggu, sudah diberi nama resmi oleh para ekonom, dan sudah diukur sampai ke angka paling kecil.
 
@@ -24,7 +24,7 @@ Cara mengukurnya sederhana. Setiap akun hampir selalu memegang beberapa saham se
 
 Hasilnya untuk satu tahun penuh: rasio PGR terhadap PLR sedikit di atas 1,5. Artinya, saham yang sedang naik nilai lebih dari 50 persen lebih mungkin dijual daripada saham yang sedang turun. Pola sebesar itu sulit dijelaskan tanpa mengakui bahwa warna posisi hari ini ikut mengambil alih kemudi: yang hijau dilepas, yang merah dipeluk. Investor dalam data itu memang enggan mengakui kerugian, persis seperti Danu.
 
-Puncak menusuknya ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
+Titik paling menusuk ada di perpajakan. Kerugian yang direalisasikan biasanya bisa dipakai menekan tagihan pajak atas keuntungan, sehingga strategi yang optimal secara pajak justru kebalikan dari yang dilakukan investor: realisasi kerugian itu berguna, dan menahan yang merah bertahun-tahun tidak memberi apa pun selain penundaan. Odean menemukan investor dalam datanya mengabaikan konsekuensi pajak, dan tax-loss selling yang optimal dilanggar dengan rapi. Yang dipertahankan bukan nilai uang, melainkan rasa tidak pernah mengaku salah.
 
 ### Semakin sering menatap, semakin dalam goresan
 
@@ -40,10 +40,8 @@ Hubungannya dengan kilah "masih diproses" ada di kalender. Disposition effect hi
 
 ## Gagasan Utama
 
-- Disposition effect, nama yang diberikan Shefrin dan Statman (1985), adalah kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat.
-- Data Odean (1998) dari catatan transaksi 10.000 akun sepanjang 1987 sampai 1993 menunjukkan rasio realisasi untung terhadap realisasi rugi sedikit di atas 1,5: saham yang naik lebih dari 50 persen lebih mungkin dijual daripada yang turun.
-- Pola ini berbalik dari strategi pajak yang optimal, karena realisasi kerugian yang justru berguna secara perpajakan dihindari dan konsekuensi pajak diabaikan.
-- Kunci emosinya sederhana: menjual yang hijau memberi struk atas keputusan yang benar, menjual yang merah berarti menandatangani pengakuan kesalahan, jadi yang satu diburu-buru dan yang satu ditunda bertahun-tahun.
-- Benartzi dan Thaler (1995) menamai gabungan loss aversion dengan evaluasi portofolio yang terlalu sering sebagai myopic loss aversion, dan simulasi mereka konsisten dengan investor yang mengevaluasi setiap tahun, jadi frekuensi membuka aplikasi ikut menentukan seberapa sering rasa sakit itu dipanggil.
+- Disposition effect (Shefrin dan Statman, 1985) adalah kecenderungan menahan yang kalah terlalu lama dan menjual yang menang terlalu cepat; dalam data Odean (1998) dari 10.000 akun, rasio realisasi untung terhadap rugi sedikit di atas 1,5, jadi saham yang untung lebih mungkin dijual daripada yang rugi, berlawanan dengan strategi pajak yang optimal.
+- Menjual yang hijau memberi struk atas keputusan yang benar, sedangkan menjual yang merah berarti menandatangani pengakuan kesalahan.
+- Myopic loss aversion (Benartzi dan Thaler, 1995) membuat setiap evaluasi portofolio menjadi sidang kecil, jadi tentukan lebih dulu kapan sidang berhak diadakan.
 
-Sejauh ini bias yang kamu temui lahir dari perasaan tentang untung dan rugi. Bab berikutnya memperkenalkan lawan yang jauh lebih senyap: sebuah angka polos yang kebetulan muncul duluan, dari nomor undian di eksperimen lelang sampai angka minimum pembayaran pada tagihan kartu kredit, yang diam-diam memasang jangkar dan menyeret nilai yang kamu tetapkan.
+Sejauh ini bias yang kamu temui lahir dari perasaan tentang untung dan rugi. Lawan berikutnya jauh lebih senyap: sebuah angka polos yang kebetulan muncul duluan, lalu diam-diam memasang jangkar pada nilai yang kamu tetapkan.
