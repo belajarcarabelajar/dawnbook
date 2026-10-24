@@ -10,15 +10,15 @@ Ceritanya dimulai pada 1960, dari seorang dokter yang sama sekali tidak berniat 
 
 Dari pengamatan itu, Maltz menulis di bukunya *Psycho-Cybernetics* bahwa butuh "minimum of about 21 days", minimal sekitar 21 hari, untuk penyesuaian semacam ini. Isi frasa itu layak dibaca pelan: minimal, sekitar, dan konteksnya penyesuaian diri atas wajah baru, bukan pembentukan kebiasaan harian. Tapi kalimat yang lebih pendek jauh lebih gampang menyebar. Dari tangan ke tangan, frasa yang hati-hati itu terpotong jadi slogan: "21 hari membentuk kebiasaan."
 
-Setelah itu slogan itu hidup sendiri. Ia berulang di buku motivasi, kelas seminar, dan unggahan yang di-share jutaan kali, sampai puluhan tahun kemudian orang mengutipnya bukan karena tahu sumbernya, tapi karena semua orang sepertinya sudah mengutipnya dulu. Pengulangan bukan bukti, tapi pengulangan bisa menyamar jadi statistik.
+Setelah itu slogan itu hidup sendiri. Ia berulang di buku motivasi, kelas seminar, dan unggahan yang terus dibagikan, sampai puluhan tahun kemudian orang mengutipnya bukan karena tahu sumbernya, tapi karena semua orang sepertinya sudah mengutipnya dulu. Pengulangan bukan bukti, tapi pengulangan bisa menyamar jadi statistik.
 
 ### Apa yang ditemukan riset sungguhan
 
-Pertanyaannya menunggu sampai 2010. Phillippa Lally bersama timnya di University College London melakukan studi yang ditunggu semua orang: mengukur langsung berapa lama waktu yang dibutuhkan sebuah perilaku berubah otomatis. Mereka merekrut 96 relawan yang memilih satu perilaku baru, soal makan, minum, atau aktivitas, lalu melakukannya setiap hari dalam konteks yang sama selama 12 minggu atau 84 hari. Setiap hari, relawan melaporkan seberapa otomatis perilaku itu terasa.
+Pertanyaannya menunggu sampai 2010. Phillippa Lally bersama timnya di University College London melakukan studi untuk mengukur langsung berapa lama waktu yang dibutuhkan sebuah perilaku berubah otomatis. Mereka merekrut 96 relawan yang memilih satu perilaku baru, soal makan, minum, atau aktivitas, lalu melakukannya setiap hari dalam konteks yang sama selama 12 minggu atau 84 hari. Setiap hari, relawan melaporkan seberapa otomatis perilaku itu terasa.
 
 Hasilnya bukan satu angka, tapi sebuah pola. Otomatisitas naik mengikuti kurva asimtotik: cepat di awal, lalu makin melandai. Hari-hari pertama memberi lompatan terbesar, dan makin ke belakang, kenaikannya makin kecil karena kamu mendekati plafon. Ibarat menuruni tangga menuju lantai dasar: anak tangga awal itu jauh, anak tangga terakhir tinggal selangkah.
 
-> Bayangkan mengisi ember yang bocor halus di dasarnya. Di awal, keran dibuka penuh dan permukaan air naik cepat kelihatan. Semakin penuh ember, semakin pelan permukaannya naik, meski kerannya sama sekali tidak mengecil. Kebiasaan bekerja seperti itu: progres awal terlihat dramatis, sementara tahap akhir terasa seperti diam di tempat, padahal kamu masih naik.
+> Bayangkan mengisi ember yang bocor halus di dasarnya. Di awal, keran dibuka penuh dan permukaan air naik cepat kelihatan. Semakin penuh ember, semakin pelan permukaannya naik, meski kerannya sama sekali tidak mengecil. Kebiasaan bekerja seperti itu: progres awal terlihat jelas, sementara tahap akhir terasa seperti diam di tempat, padahal kamu masih naik.
 
 Lalu berapa lama sampai otomatis? Median peserta mencapai 95% dari plafon otomatisitasnya dalam 66 hari. Tapi rentangnya lebar: ada yang cukup dalam 18 hari, ada pula yang butuh sampai 254 hari. Jadi pertanyaan "berapa lama kebiasaan terbentuk" tidak punya satu jawaban, ia punya jawaban yang bergantung pada orangnya dan perilakunya. Yang pasti, 21 hari berada di bawah median, artinya lebih dari separuh orang belum selesai di titik itu. Banyak yang menyerah di hari ke-22 bukan karena gagal, tapi karena diberi tenggat yang salah sejak awal.
 
@@ -30,7 +30,7 @@ Ini melegakan karena kebanyakan dari kita punya aturan diam-diam: kalau sudah bo
 
 ### Menata ulang harapanmu
 
-Temuan terakhir yang penting: perilaku sederhana lebih cepat otomatis daripada rangkaian yang kompleks. Minum segelas air setiap pagi dan menjalankan rutinitas olahraga lengkap berada di titik yang sangat berbeda di rentang 18 sampai 254 hari itu. Kompleksitas mengambil porsi dari waktu yang dibutuhkan.
+Temuan terakhir yang penting: perilaku sederhana lebih cepat otomatis daripada rangkaian yang kompleks. Minum segelas air setiap pagi dan menjalankan rutinitas olahraga lengkap berada di titik yang berbeda di rentang 18 sampai 254 hari itu. Kompleksitas mengambil porsi dari waktu yang dibutuhkan.
 
 Maknanya praktis. Kalau kamu tahu perilaku pilihanmu kompleks, jangan pasang tenggat 21 hari lalu menganggap dirimu gagal di hari ke-30. Justru sebaliknya: buat perilakunya semungil mungkin supaya kurvanya pendek, dan beri dirimu tenggat yang sesuai dengan ukuran ambisimu. Harapan yang realistis bukan berarti harapan yang rendah, ia harapan yang dihitung.
 

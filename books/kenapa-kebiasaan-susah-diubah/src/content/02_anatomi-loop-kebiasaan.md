@@ -4,7 +4,7 @@ Kamu tahu persis berapa jam yang dihabiskan ponselmu setiap hari, karena layarny
 
 Tapi sore tadi, begitu duduk diam sejenak, tanganmu meraih ponsel. Tanpa negosiasi batin yang berarti, jempolmu sudah menyapu layar. Bukan cuma sekali. Ini terulang di tempat yang sama, dalam suasana yang sama, hari demi hari.
 
-Di sinilah paradoks yang bikin jengkel: mengetahui ternyata tidak mengubah apa pun. Kamu bisa punya data lengkap, niat bulat, bahkan pidato motivasi dari dirimu sendiri, dan tangan masih bergerak seperti biasa. Kalau kebiasaan semata soal informasi, semua orang yang tahu pasti langsung berubah. Kenyataannya tidak. Penelitian Wood, Quinn, dan Kashy (2002) menunjukkan seberapa dalam persoalan ini: dalam salah satu studinya, sekitar 43% perilaku harian orang dilakukan hampir setiap hari, biasanya di lokasi yang sama, dan sering sambil memikirkan hal lain. Hampir separuh hidup kita berjalan lewat jalur yang tidak banyak melibatkan pikiran sadar.
+Di sinilah paradoks yang bikin jengkel: mengetahui ternyata tidak mengubah apa pun. Kamu bisa punya data lengkap, niat bulat, bahkan pidato motivasi dari dirimu sendiri, dan tangan masih bergerak seperti biasa. Kalau kebiasaan semata soal informasi, semua orang yang tahu pasti langsung berubah. Kenyataannya tidak. Penelitian Wood, Quinn, dan Kashy (2002) menunjukkan seberapa dalam persoalan ini: dalam salah satu studinya, sekitar 43% perilaku harian orang dilakukan hampir setiap hari, biasanya di lokasi yang sama, dan sering sambil memikirkan hal lain. Hampir separuh perilaku harian kita berjalan lewat jalur yang tidak banyak melibatkan pikiran sadar.
 
 Jadi masalahnya bukan kamu kurang tahu. Masalahnya ada mesin lain yang bekerja di bawah sadar, dan mesin itu punya struktur yang bisa dipetakan. Struktur inilah yang disebut loop kebiasaan.
 
@@ -16,7 +16,7 @@ Yang mengejutkan datang dari hal sepele: kue kering di dapur. Meski tidak bisa m
 
 > Ibarat sebuah gedung yang hampir seluruhnya hangus, tapi lorong menuju kantin masih bisa dilalui petugas keamanan secara otomatis. Lorong itu tidak butuh denah di kepala, karena tubuhnya sudah hafal lantainya.
 
-Bagi peneliti, kisah Eugene adalah bukti yang tegas: loop kebiasaan tidak tersimpan di ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk terus bekerja. Kenapa sistem itu bisa seotomatis itu, kita bedah tuntas di bab tiga.
+Bagi peneliti, kisah Eugene adalah bukti yang tegas: loop kebiasaan tidak tersimpan di ingatan sadar. Ada sistem saraf terpisah yang menggerakkannya, sistem yang tidak butuh kamu "ingat" untuk terus bekerja. Kenapa sistem itu bisa seotomatis itu, kita bahas di bab tiga.
 
 ### Tiga mata rantai loop
 
