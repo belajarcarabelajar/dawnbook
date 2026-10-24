@@ -101,31 +101,3 @@ Ingatlah bahwa gaya kelekatan bersifat **spektrum**, bukan kotak kaku. Kamu bisa
 **Langkah Selanjutnya:** Setelah mengenali pola dominanmu, hindari menghakimi diri sendiri. Menyadari pola tersebut sudah menjadi langkah awal menuju pemulihan.
 
 **Catatan Penting:** Gaya kelekatan adalah strategi bertahan hidup yang kamu bangun saat masih kecil. Sekarang, setelah beranjak dewasa, kamu memiliki kendali untuk mengevaluasi apakah strategi lama ini masih membantu atau justru menghalangi kebahagiaanmu.
-
-## Meningkatkan Kedalaman Hubungan Emosional
-
-Meningkatkan kedalaman hubungan emosional merupakan sebuah seni sekaligus keterampilan sosial yang melibatkan kejujuran, komitmen waktu, dan ketulusan emosional. Relasi yang bermakna melampaui percakapan santai sehari-hari, melainkan menyentuh nilai mendasar, impian bersama, serta rasa saling mendukung.
-
-### Pilar Kedalaman Hubungan Emosional
-
-* **Mendengarkan Secara Aktif (Active Listening):** Mendengarkan secara aktif berarti menangkap emosi di balik kata-kata yang diucapkan. Cobalah untuk fokus sepenuhnya pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan berikutnya.
-* **Kerentanan (Vulnerability):** Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Hal ini berarti kamu berani menunjukkan sisi asli dirimu, termasuk ketakutan dan kegagalan, bukan hanya sisi terbaik yang ingin kamu tampilkan.
-* **Konsistensi dan Kehadiran:** Hubungan yang kuat terbentuk dari akumulasi momen-momen kecil. Kehadiran nyata saat dibutuhkan lebih berharga daripada materi.
-* **Empati di Atas Simpati:** Simpati hanya memunculkan rasa kasihan, sedangkan empati mendorong kamu untuk ikut merasakan apa yang sedang dialami orang lain.
-
-> "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
-
-### Tindakan Sederhana untuk Memperdalam Hubungan
-
-Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman hubungan:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Persamaan ini menggambarkan bahwa semakin besar keterbukaan dan waktu berkualitas yang kamu berikan, semakin kuat pula hubungan yang terjalin. Sebaliknya, dominasi ego hanya akan menjauhkan kamu dari satu sama lain.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan Pertanyaan Terbuka:** Alih-alih sekadar bertanya kabar, kamu bisa memulainya dengan menanyakan hal apa yang paling membuat mereka bersemangat belakangan ini.
-* **Berikan Apresiasi Spesifik:** Dibandingkan ucapan terima kasih yang normatif, sampaikan apresiasi secara detail seperti, "Aku sangat menghargai caramu mendengarkan ceritaku tadi, rasanya sangat melegakan."

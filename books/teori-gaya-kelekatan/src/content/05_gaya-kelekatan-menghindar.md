@@ -79,35 +79,3 @@ Menjadi seorang *Dismissive-Avoidant* bukanlah sebuah cacat karakter. Ini adalah
 | **Reaksi terhadap Stres** | Menarik diri, mengisolasi diri, menekan perasaan. |
 | **Kebutuhan Utama** | Kebebasan, otonomi, ruang pribadi. |
 | **Ketakutan Terbesar** | Kehilangan kemandirian, penolakan jika menunjukkan kerentanan. |
-
-## Hubungan Bernilai Tinggi Melampaui Basa-Basi
-
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
-
-Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
-
-1. **Mendengarkan Aktif (Active Listening)**
-   Mendengarkan aktif berarti menangkap perasaan di balik kata-kata, bukan sekadar mendengar suaranya. Fokuslah sepenuhnya pada lawan bicara tanpa sibuk menyiapkan jawaban kamu berikutnya.
-2. **Kerentanan (Vulnerability)**
-   Menurut peneliti Brené Brown, kerentanan adalah jembatan untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan yang kamu miliki, alih-alih terus-menerus menampilkan citra diri yang tampak sempurna.
-3. **Konsistensi dan Kehadiran**
-   Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan lebih berharga daripada hadiah yang mahal.
-4. **Empati di Atas Simpati**
-   Empati melampaui simpati. Jika simpati hanya berupa rasa kasihan, empati menuntut kita untuk ikut merasakan apa yang dialami orang lain.
-
-> "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-## Menerapkan Rumus Relasi lewat Tindakan Nyata
-
-Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam pula relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka**: Alih-alih bertanya "Apa kabarmu?", cobalah dengan "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik**: Alih-alih berkata "Terima kasih," cobalah dengan "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

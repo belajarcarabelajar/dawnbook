@@ -104,31 +104,3 @@ Untuk mengubah dinamika hubungan, langkah pertama yang harus dilakukan adalah be
 Dinamika kelekatan dalam hubungan romantis bukanlah sebuah takdir yang tidak bisa diubah. Dengan memahami bahwa reaksi defensif pasangan sebenarnya berakar dari luka masa lalu, kita dapat menumbuhkan empati yang lebih dalam.
 
 Mengenali peran kita dalam 'tarian' hubungan ini - apakah kita cenderung mengejar atau menghindar - adalah langkah penting untuk mengubah pola tersebut. Kesadaran inilah yang memungkinkan perubahan. Begitu kamu memahami pola kelekatan ini, kamu tidak lagi menjadi korban dari reaksi otomatis diri sendiri, melainkan mulai memegang kendali untuk membangun hubungan yang lebih sehat.
-
-## Menciptakan Koneksi yang Mendalam
-
-Membangun hubungan yang mendalam adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi semacam ini melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
-
-Berikut adalah pilar-pilar utama dalam menciptakan koneksi yang mendalam:
-
-* **Mendengarkan Secara Aktif (*Active Listening*):** Dengarkan untuk memahami emosi di balik ucapan pasangan, bukan sekadar menunggu giliran membalas. Fokuskan perhatianmu sepenuhnya tanpa menyela obrolan.
-* **Berani Menunjukkan Kerentanan (*Vulnerability*):** Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Ini berarti kamu berani menunjukkan sisi dirimu apa adanya, termasuk ketakutan dan kegagalan, tanpa topeng kesempurnaan.
-* **Konsistensi dan Kehadiran Nyata:** Ikatan yang kuat tumbuh dari momen-momen kecil yang dipupuk setiap hari. Hadir secara penuh saat pasangan membutuhkan lebih bernilai dibanding barang mewah.
-* **Mengutamakan Empati:** Empati melampaui rasa kasihan. Ini adalah kesediaan untuk menempatkan dirimu di posisi mereka dan ikut merasakan apa yang sedang mereka lalui.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-### Langkah Nyata dalam Keseharian
-
-Untuk menggambarkan bagaimana sebuah hubungan tumbuh, mari kita gunakan formula sederhana berikut:
-
-<div>
-$$
-\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
-$$
-</div>
-
-Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, semakin kuat pula ikatan yang terjalin. Sebaliknya, jika ego lebih mendominasi, kedalaman hubungan tersebut akan terkikis.
-
-* **Gunakan Pertanyaan Terbuka:** Hindari pertanyaan satu kata seperti "Bagaimana kabarmu?". Kamu bisa mencoba kalimat yang memancing cerita, seperti: *"Apa hal paling menarik yang kamu alami minggu ini?"*
-* **Berikan Apresiasi Spesifik:** Alih-alih ucapan terima kasih yang normatif, sampaikan hal konkret yang kamu syukuri. Contoh: *"Aku sangat menghargai caramu mendengarkan ceritaku tadi. Rasanya menenangkan sekali."*

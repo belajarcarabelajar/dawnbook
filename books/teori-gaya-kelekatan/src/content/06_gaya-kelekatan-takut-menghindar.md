@@ -83,31 +83,3 @@ Banyak orang dengan gaya ini tanpa sadar merusak hubungan yang berjalan baik kar
 Hal terpenting dalam menghadapi gaya *Fearful-Avoidant* adalah membangun rasa aman di dalam diri sendiri terlebih dahulu, sehingga kehadiran atau ketidakhadiran orang lain tidak lagi terasa sebagai ancaman bagi diri sendiri.
 
 *Catatan: Pembahasan mendalam mengenai bagaimana menyembuhkan pola ini akan dibahas secara detail pada bagian "Proses Penyembuhan dan Transformasi".*
-
-## 8. Nilai, Impian, dan Dukungan Timbal Balik
-
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
-
-### Fondasi Relasi yang Kokoh
-
-1. **Mendengarkan secara aktif (*active listening*):** Cobalah memahami emosi di balik ucapan pasangan bicara, bukan hanya menangkap kata-katanya saja. Fokuslah sepenuhnya tanpa menyela atau sibuk menyiapkan jawaban kamu berikutnya.
-2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya topeng "sempurna" yang ingin kamu perlihatkan.
-3. **Pentingnya konsistensi dan kehadiran:** Hubungan kokoh tumbuh dari momen-momen kecil yang terus menumpuk. Kehadiran sederhana saat dibutuhkan sering kali lebih bernilai dibanding barang-barang mewah.
-4. **Empati:** Simpati berarti merasa kasihan pada seseorang, sedangkan empati berarti berusaha merasakan langsung apa yang sedang mereka alami.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
-
-### Dari Persamaan Relasi ke Tindakan Nyata
-
-Untuk membantu kamu membayangkan bagaimana sebuah hubungan tumbuh, mari kita lihat "persamaan" sederhana tentang kedalaman relasi berikut:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

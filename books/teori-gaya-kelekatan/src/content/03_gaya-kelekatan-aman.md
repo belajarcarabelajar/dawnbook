@@ -95,33 +95,3 @@ Mari kita lihat bagaimana gaya kelekatan aman bekerja dalam situasi konflik nyat
 Memahami gaya kelekatan aman memberikan kita peta tentang arah yang perlu dituju. Jika kamu merasa saat ini belum memiliki gaya ini (mungkin karena pola asuh masa lalu yang kurang konsisten), jangan berkecil hati.
 
 Otak kita bersifat dinamis (plastis). Melalui kesadaran diri dan hubungan yang sehat di masa dewasa, seseorang dapat mencapai apa yang disebut dengan **Earned Security** (Keamanan yang Diperoleh).
-
-## 8. Kedalaman Emosional, Kejujuran, dan Waktu
-
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi ini melampaui obrolan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
-
-Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
-
-### Mendengarkan, Kerentanan, Kehadiran, dan Empati
-
-1. **Mendengarkan Secara Aktif (Active Listening):** Mendengarkan secara aktif berarti menangkap emosi di balik kata-kata yang diucapkan. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapanmu selanjutnya.
-2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) daripada sekadar memamerkan sisi "sempurna" dirimu.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan lebih berharga daripada hadiah yang mahal.
-4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang; empati adalah mencoba merasakan apa yang mereka rasakan.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-### Persamaan Sederhana dan Dua Tindakan Kecil
-
-Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

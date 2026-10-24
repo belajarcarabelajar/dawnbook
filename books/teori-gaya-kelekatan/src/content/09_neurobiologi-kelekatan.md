@@ -86,32 +86,4 @@ Seperti ungkapan bahwa luka yang lahir dari sebuah hubungan hanya bisa dipulihka
 
 Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bagian tubuh mana kamu merasakan ketegangan tersebut. Menyadari reaksi fisik ini membantu kamu memahami bahwa tubuh kamu sedang menjalankan pola pertahanan lama. Dengan kesadaran ini, kamu memiliki kemampuan untuk melatih kembali respons sistem saraf tersebut melalui kehadiran diri yang tenang.
 
-## Seni dan Keterampilan di Balik Relasi yang Mendalam
-
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi yang mendalam melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
-
-Berikut adalah pilar utama dalam membangun koneksi yang dalam:
-
-1. **Mendengarkan Secara Aktif (Active Listening):** Ini berarti mendengarkan untuk memahami emosi di baliknya, tidak hanya mendengar kata-kata. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
-2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya sisi 'sempurna' yang ingin kamu tampilkan.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang terakumulasi. Kehadiran saat dibutuhkan lebih berharga daripada hadiah yang mahal.
-4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang; empati adalah mencoba merasakan apa yang mereka rasakan.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
-
-### Dua Kebiasaan Kecil untuk Memperdalam Relasi
-
-Untuk membantu kamu memvisualisasikan bagaimana sebuah hubungan tumbuh, kita bisa membayangkan sebuah persamaan sederhana tentang kedalaman relasi:
-
-<div>
-$$
-\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
-$$
-</div>
-
-Artinya, semakin besar keterbukaan dan waktu yang diberikan, semakin dalam relasinya. Namun, jika ego terlalu mendominasi, kedalaman tersebut akan berkurang.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah bertanya "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah berkata "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."
+Kamu juga tidak harus melakukannya sendirian: lewat regulasi bersama, pelukan hangat atau napas tenang bersama pasangan ikut membantu sistem sarafmu kembali ke dalam jendela toleransi.

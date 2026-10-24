@@ -97,37 +97,3 @@ Sebelum penelitian ini dipublikasikan, dunia pengasuhan meyakini bahwa terlalu s
 Jika kita mengamati interaksi anak dan orang tua di sekitar kita, pola *base camp* ini sering kali terlihat jelas dalam keseharian. Kita bisa melihat bagaimana seorang balita berlari menjauh untuk mengambil mainan, lalu sesekali menoleh ke belakang untuk memastikan orang tuanya masih ada di sana.
 
 Riset dari Bowlby dan Ainsworth menunjukkan bahwa kebutuhan untuk merasa aman adalah kebutuhan dasar manusia. Rasa aman inilah yang menjadi dasar bagi kita untuk membangun hubungan yang lebih sehat dan mendalam saat dewasa.
-
-## Dari Obrolan Ringan ke Hubungan yang Mendalam
-
-Membangun hubungan yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Hubungan yang mendalam melampaui obrolan ringan (*small talk*) dan menyentuh aspek nilai hidup, impian, serta dukungan timbal balik.
-
-## Pilar Utama Hubungan yang Mendalam
-
-1. **Asah Kemampuan Mendengarkan Aktif (*Active Listening*)**
-   Mendengarkan aktif berarti menyerap emosi di balik ucapan, bukan cuma mendengar rentetan kata. Cobalah fokus penuh pada lawan bicaramu tanpa menyela atau sibuk menyusun jawaban di kepala.
-2. **Jangan Takut Menunjukkan Kerentanan (*Vulnerability*)**
-   Menurut Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti kamu berani menunjukkan diri apa adanya, termasuk ketakutan dan kegagalan, alih-alih terus menampilkan topeng "sempurna".
-3. **Konsistensi dalam Kehadiran**
-   Ikatan yang kuat tidak tumbuh dari kejutan besar yang sesekali, melainkan dari momen-momen kecil yang terakumulasi. Hadir secara emosional saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
-4. **Utamakan Empati, Bukan Simpati**
-   Simpati hanya membuat kita merasa kasihan dari kejauhan. Empati menuntut kita untuk mencoba merasakan apa yang dialami oleh orang lain.
-
-> *"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."*
->
-> \- Brené Brown
-
-## Langkah Praktis Memulai Hubungan
-
-Untuk mempermudah gambaran tentang bagaimana sebuah hubungan tumbuh, mari kita bayangkan sebuah persamaan sederhana berikut:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Artinya, semakin banyak waktu berkualitas dan keterbukaan yang saling dibagikan, akan semakin mendalam hubungan tersebut. Sebaliknya, jika ego terlalu mendominasi, kedekatan emosional itu perlahan akan memudar.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih bertanya "Apa kabarmu?", cobalah "Apa hal yang paling membuatmu bersemangat minggu ini?"
-* **Apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah "Aku sangat menghargai caramu mendengarkanku tadi, itu membuatku merasa sangat didukung."

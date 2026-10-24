@@ -103,9 +103,11 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa menggunakan analogi persamaan sederhana berikut:
 
+<div>
 $$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
+\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
 $$
+</div>
 
 Artinya, semakin besar keterbukaan dan waktu berkualitas yang dicurahkan, semakin dalam pula relasi yang terbentuk. Sebaliknya, jika ego terlalu mendominasi, kedalaman tersebut akan menyusut.
 

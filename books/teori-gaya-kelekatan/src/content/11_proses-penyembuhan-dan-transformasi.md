@@ -101,31 +101,3 @@ Perlu diingat bahwa pulih bukan berarti kamu tidak akan pernah lagi merasakan ke
 ### Membuat Kontrak Keamanan Mandiri
 
 Cobalah menulis sebuah 'Kontrak Keamanan' kecil untuk dirimu sendiri. Catatlah tiga langkah konkret yang akan kamu lakukan saat mendadak merasa terpicu oleh pasangan atau teman dekat. Simpan catatan tersebut di gawai agar mudah dibaca kembali sebagai pengingat nyata saat situasi sedang terasa sulit.
-
-## Perpaduan Seni dan Keterampilan Sosial dalam Relasi
-
-Membangun relasi yang bermakna merupakan perpaduan antara seni dan keterampilan sosial yang membutuhkan kedalaman emosi, kejujuran, serta kesediaan meluangkan waktu dengan tulus. Koneksi yang mendalam ini melampaui obrolan basa-basi dan menyentuh nilai-nilai kehidupan, impian, serta dukungan timbal balik.
-
-### Empat Pilar Koneksi yang Tulus
-
-- **Mendengarkan secara aktif (Active Listening)**: Hal ini melampaui ucapan yang terdengar, karena kamu juga berupaya menangkap emosi di balik kata-kata tersebut. Dengarkan tanpa menyela atau sibuk memikirkan tanggapan berikutnya.
-- **Keberanian untuk menunjukkan kerentanan (Vulnerability)**: Brené Brown menulis bahwa kerentanan adalah jembatan menuju koneksi yang tulus. Ini berarti berani memperlihatkan diri apa adanya (termasuk ketakutan dan kegagalanmu) bukan hanya menampilkan versi diri yang seolah tanpa cela.
-- **Konsistensi dan Kehadiran**: Hubungan yang erat tumbuh lewat momen-momen kecil yang terus menumpuk dari waktu ke waktu. Hadir di saat-saat penting lebih bernilai daripada sekadar memberikan hadiah mahal.
-- **Memilih empati daripada simpati**: Simpati hanya sebatas merasa kasihan pada orang lain, sedangkan empati berarti ikut merasakan apa yang tengah mereka alami dari sudut pandang mereka.
-
-Brené Brown menggambarkannya begini: "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai."
-
-### Model Kedalaman Hubungan dan Langkah Kecil
-
-Untuk memberikan gambaran yang lebih jelas tentang bagaimana sebuah hubungan dapat bertumbuh, kita bisa melihat model sederhana berikut:
-
-$$
-\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
-$$
-
-Melalui perumpamaan ini, terlihat bahwa ketika keterbukaan dan waktu berkualitas meningkat, hubungan akan terjalin semakin erat. Sebaliknya, jika ego terlalu mendominasi, kedekatan emosional tersebut lambat laun akan meredup.
-
-Beberapa langkah kecil yang bisa kamu mulai praktikkan:
-
-- **Mengajukan pertanyaan terbuka**: Ketimbang menanyakan hal normatif seperti *"Apa kabarmu?"*, kamu bisa mencoba pertanyaan yang lebih personal seperti *"Apa hal menarik yang paling membuatmu bersemangat minggu ini?"*
-- **Memberikan apresiasi yang spesifik**: Alih-alih hanya mengucapkan kata terima kasih biasa, coba katakan: *"Aku sangat menghargai kesediaanmu meluangkan waktu untuk mendengarkan ceritaku tadi. Hal itu membuatku merasa sangat didukung."*

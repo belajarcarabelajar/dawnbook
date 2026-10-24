@@ -84,34 +84,4 @@ Meskipun sering merasa lelah dengan kecemasan sendiri, orang dengan gaya kelekat
 
 **Catatan Penting:** Gaya kelekatan cemas bukanlah penyakit mental atau cacat karakter. Ini adalah cara adaptif yang dipelajari otak sejak kecil agar bisa bertahan dalam lingkungan yang tidak konsisten. Langkah awal untuk berubah adalah menyadari kapan alarm cemasmu mulai menyala, meskipun sebenarnya tidak ada bahaya yang nyata.
 
-## Membangun Hubungan yang Bermakna
-
-Membangun hubungan yang mendalam adalah seni sekaligus keterampilan yang butuh kejujuran dan kesediaan meluangkan waktu. Hubungan seperti ini melampaui obrolan ringan (*small talk*) dan menyentuh nilai-nilai personal, impian, serta dukungan timbal balik.
-
-Berikut adalah pilar utama dalam membangun koneksi yang kuat:
-
-### Pilar Utama Hubungan yang Bermakna
-
-1. **Mendengarkan secara aktif (*active listening*):** Cobalah memahami perasaan di balik setiap kalimat yang diucapkan. Fokuslah sepenuhnya pada lawan bicaramu tanpa menyela atau sibuk memikirkan balasan yang ingin kamu sampaikan.
-2. **Menunjukkan kerentanan (*vulnerability*):** Peneliti Brené Brown menyebut kerentanan sebagai jembatan untuk membangun koneksi. Hal ini berarti kamu berani menunjukkan dirimu apa adanya (termasuk ketakutan dan kegagalanmu), bukan hanya memamerkan sisi luar yang tampak sempurna.
-3. **Konsistensi dan kehadiran:** Hubungan yang kuat terbentuk dari tumpukan momen kecil sehari-hari. Berada di sisi seseorang saat mereka membutuhkan lebih berharga daripada hadiah yang mahal.
-4. **Empati:** Simpati adalah merasa kasihan, sedangkan empati adalah meluangkan waktu untuk merasakan apa yang sedang dialami orang lain.
-
-"Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-## Rumus Kedalaman Relasi dan Tindakan Pertama
-
-Untuk membantumu memvisualisasikan bagaimana sebuah hubungan tumbuh, mari kita lihat rumus sederhana ini:
-
-<div>
-$$
-\text{Kedalaman Relasi} = \frac{\text{Waktu Berkualitas} \times \text{Keterbukaan}}{\text{Ego}}
-$$
-</div>
-
-Rumus ini menunjukkan bahwa jika keterbukaan dan waktu berkualitas meningkat, hubungan akan terjalin lebih dalam. Sebaliknya, ketika ego terlalu mendominasi, kedekatan itu perlahan-lahan akan luntur.
-
-**Contoh Tindakan Nyata:**
-
-* **Mulai dengan pertanyaan terbuka.** Sebagai contoh, daripada hanya bertanya "Bagaimana kabarmu?", kamu bisa memicu percakapan seru dengan bertanya, "Apa hal paling menyenangkan yang kamu alami minggu ini?"
-* **Berikan apresiasi secara spesifik.** Alih-alih sekadar mengucapkan "Terima kasih," coba katakan, "Aku senang sekali kamu mau mendengarkan ceritaku tadi. Rasanya lega dan sangat didukung."
+Kepekaan terhadap perubahan perasaan pasangan dan kehangatan dalam memberi kasih sayang, dua kekuatan di tabel tadi, baru menjadi kelebihan ketika kecemasan itu berhasil kamu kelola.

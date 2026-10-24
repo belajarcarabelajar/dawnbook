@@ -66,33 +66,3 @@ Memahami teori kelekatan bukan bertujuan untuk menyalahkan orang tua atas masa l
 * Kelekatan adalah kebutuhan biologis yang mendasar, bukan sebuah kelemahan emosional.
 * Hubungan awal masa kecil membentuk peta mental dasar kita dalam memandang dunia.
 * Peta mental ini tidak bersifat permanen. Gaya kelekatan bisa berubah dan disembuhkan seiring bertambahnya usia, kedewasaan, dan kesadaran diri.
-
-## Relasi Bermakna sebagai Seni dan Keterampilan Sosial
-
-Membangun relasi yang bermakna adalah perpaduan seni dan keterampilan sosial yang memerlukan kedalaman emosional, kejujuran, serta kesediaan meluangkan waktu. Hubungan yang bernilai tinggi akan melampaui percakapan basa-basi (*small talk*) untuk menyentuh aspek nilai kehidupan, impian, dan dukungan timbal balik.
-
-Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
-
-### Empat Pilar Koneksi yang Mendalam
-
-* **Mendengarkan Secara Aktif (*Active Listening*):** Mendengarkan secara aktif berarti menangkap emosi di balik setiap ucapan, bukan hanya mendengar kata-katanya. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
-* **Kerentanan (*Vulnerability*):** Peneliti Brené Brown menyebutkan bahwa kerentanan adalah jembatan menuju koneksi. Hal ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya menampilkan citra "sempurna".
-* **Konsistensi dan Kehadiran:** Hubungan yang kokoh terbangun dari akumulasi momen-momen kecil. Hadir saat dibutuhkan lebih bernilai daripada sekadar memberikan materi.
-* **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah kesediaan untuk ikut merasakan apa yang sedang mereka alami.
-
-> "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown
-
-## Persamaan Kedalaman Relasi dan Contoh Tindakan
-
-Untuk membantu kamu memvisualisasikan cara hubungan tumbuh, kita bisa membayangkan sebuah "persamaan" sederhana tentang kedalaman relasi:
-
-$$
-\\text{Kedalaman Relasi} = \\frac{\\text{Waktu Berkualitas} \\times \\text{Keterbukaan}}{\\text{Ego}}
-$$
-
-Persamaan ini menggambarkan bahwa semakin besar waktu berkualitas dan keterbukaan yang diberikan, akan semakin dalam hubungan yang terbentuk. Sebaliknya, jika ego terlalu mendominasi, kedalaman tersebut akan menyusut.
-
-**Contoh Tindakan Nyata:**
-
-* **Ajukan pertanyaan terbuka:** Alih-alih hanya bertanya "Apa kabarmu?", cobalah tanyakan, "Apa hal menarik yang membuatmu bersemangat minggu ini?"
-* **Berikan apresiasi yang spesifik:** Alih-alih berkata "Terima kasih," cobalah katakan, "Aku sangat menghargai caramu mendengarkan ceritaku tadi. Itu membuatku merasa didukung."
