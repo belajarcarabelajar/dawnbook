@@ -70,7 +70,7 @@ Jika selama puluhan tahun jalur ketakutan akan penolakan sudah terbentuk seperti
 
 **Skenario:** Sari tumbuh dengan gaya kelekatan cemas karena ayahnya yang sering pergi tanpa kabar. Memasuki usia 20-an, ia kerap membombardir pasangannya dengan puluhan pesan singkat jika tidak segera dibalas.
 
-**Proses Earned Security:** Melalui terapi selama dua tahun, Sari mulai menyadari bahwa kecemasannya adalah gema dari masa lalu. Dia kemudian menjalin hubungan dengan Andi yang memiliki gaya kelekatan aman. Awalnya, ketenangan Andi sempat membuat Sari merasa bosan karena tidak adanya drama yang biasa dia alami. Namun, Sari memilih bertahan dan belajar bahwa hubungan yang sehat tidak harus terasa seperti roller coaster.
+**Proses Earned Security:** Melalui terapi selama dua tahun, Sari mulai menyadari bahwa kecemasannya berakar pada masa lalu. Dia kemudian menjalin hubungan dengan Andi yang memiliki gaya kelekatan aman. Awalnya, ketenangan Andi sempat membuat Sari merasa bosan karena tidak adanya drama yang biasa dia alami. Namun, Sari memilih bertahan dan belajar bahwa hubungan yang sehat tidak harus terasa seperti roller coaster.
 
 **Hasil:** Lima tahun kemudian, Sari tidak lagi panik jika pesannya tidak langsung dibalas. Dia telah berhasil mencapai *Earned Security*. Ingatan akan rasa cemas itu masih ada, tetapi sistem sarafnya tidak lagi bereaksi secara berlebihan.
 
@@ -94,8 +94,8 @@ Berikut adalah beberapa pilar penting dalam membangun koneksi yang dalam:
 
 1. **Mendengarkan Secara Aktif (Active Listening):** Hal ini melibatkan pemahaman emosi di balik kata-kata yang terucap, bukan hanya mendengarkan suara. Fokuslah sepenuhnya pada lawan bicara tanpa terdistraksi memikirkan tanggapan kamu selanjutnya.
 2. **Kerentanan (Vulnerability):** Menurut peneliti Brené Brown, kerentanan adalah jembatan menuju koneksi. Ini berarti berani menunjukkan sisi asli kamu (termasuk ketakutan dan kegagalan) bukan hanya sisi "sempurna" yang ingin kamu tampilkan.
-3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan jauh lebih berharga daripada hadiah materi yang mahal.
-4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha sungguh-sungguh untuk ikut merasakan apa yang sedang mereka alami.
+3. **Konsistensi dan Kehadiran:** Hubungan yang kuat dibangun melalui momen-momen kecil yang konsisten terkumpul. Kehadiran nyata saat dibutuhkan lebih berharga daripada hadiah materi yang mahal.
+4. **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah usaha untuk ikut merasakan apa yang sedang mereka alami.
 
 "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai," tulis Brené Brown.
 

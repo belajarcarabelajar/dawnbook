@@ -1,6 +1,6 @@
 ## Kelekatan di Lingkungan Sosial dan Profesional
 
-Pernahkah kamu bertanya-tanya mengapa beberapa rekan kerja tampak sangat tenang saat menerima kritik, sementara yang lain langsung merasa terancam? Atau mengapa ada atasan yang memberikan kebebasan penuh, sedangkan yang lain cenderung melakukan *micromanaging*?
+Pernahkah kamu bertanya-tanya mengapa beberapa rekan kerja tampak tenang saat menerima kritik, sementara yang lain langsung merasa terancam? Atau mengapa ada atasan yang memberikan kebebasan penuh, sedangkan yang lain cenderung melakukan *micromanaging*?
 
 Jawabannya sering kali berakar pada **gaya kelekatan (attachment styles)** yang terbawa dari masa kecil ke ruang rapat dan lingkungan pergaulan sosial kita. Di bagian ini, kita akan mengeksplorasi bagaimana pola emosional yang kita pelajari di awal kehidupan membentuk cara kita bekerja, memimpin, dan berteman.
 
@@ -85,7 +85,7 @@ Memahami gaya kelekatan di lingkungan sosial dan profesional bukan tentang membe
 
 ## Kejujuran dan Investasi Waktu dalam Relasi
 
-Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
+Membangun relasi yang bermakna adalah sebuah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi yang bermakna melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
 Berikut adalah beberapa pilar utama dalam membangun koneksi yang dalam:
 

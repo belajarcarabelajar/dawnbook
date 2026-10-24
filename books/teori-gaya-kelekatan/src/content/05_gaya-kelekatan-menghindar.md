@@ -22,7 +22,7 @@ Gaya kelekatan ini biasanya berakar dari interaksi dengan pengasuh di masa kecil
 * **Penekanan Perasaan**: Anak dibiasakan untuk tidak cengeng. Saat mereka menangis atau menunjukkan kerentanan, respons yang diterima adalah teguran untuk diam atau tuntutan untuk lekas dewasa.
 * **Kemandirian Dini**: Pujian hanya datang ketika anak bisa menyelesaikan semuanya sendiri tanpa merepotkan siapa pun.
 
-Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang benar-benar bisa diandalkan adalah diri mereka sendiri.
+Secara tidak sadar, anak tersebut mengambil kesimpulan logis: menunjukkan perasaan tidak akan mendapatkan respons yang dibutuhkan, mengandalkan orang lain hanya akan berujung pada penolakan, dan satu-satunya orang yang bisa diandalkan adalah diri mereka sendiri.
 
 ## Ciri-Ciri Utama dan Perilaku
 

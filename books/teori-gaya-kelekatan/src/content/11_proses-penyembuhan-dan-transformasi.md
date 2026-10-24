@@ -6,11 +6,11 @@ Penyembuhan kelekatan tidak bertujuan mengubah masa lalu yang mustahil untuk dip
 
 ## 1. Menghadapi dan Memproses Luka Masa Lalu
 
-Penyembuhan dimulai dengan keberanian untuk menoleh ke belakang. Banyak dari kita membawa beban emosional masa lalu tanpa pernah benar-benar menyelesaikannya.
+Penyembuhan dimulai dengan keberanian untuk menoleh ke belakang. Banyak dari kita membawa beban emosional masa lalu tanpa pernah menyelesaikannya.
 
 ### Merenovasi Rumah Tua
 
-Bayangkan dirimu seperti sebuah rumah tua yang indah namun memiliki fondasi yang retak karena guncangan di masa kecil (seperti trauma atau pola pengasuhan yang tidak konsisten). Kamu bisa saja mengecat dindingnya berkali-kali agar terlihat cantik dari luar (misalnya lewat perilaku selalu ingin menyenangkan orang lain), tetapi retakan di fondasi akan tetap membuat bangunan itu goyah saat badai datang. Penyembuhan adalah proses untuk berani memeriksa retakan tersebut langsung ke dasarnya, lalu memperkuatnya kembali agar kokoh.
+Bayangkan dirimu seperti sebuah rumah tua yang memiliki fondasi yang retak karena guncangan di masa kecil (seperti trauma atau pola pengasuhan yang tidak konsisten). Kamu bisa saja mengecat dindingnya berkali-kali agar terlihat cantik dari luar (misalnya lewat perilaku selalu ingin menyenangkan orang lain), tetapi retakan di fondasi akan tetap membuat bangunan itu goyah saat badai datang. Penyembuhan adalah proses untuk berani memeriksa retakan tersebut langsung ke dasarnya, lalu memperkuatnya kembali agar kokoh.
 
 ### Reparenting (Mengasuh Diri Sendiri)
 

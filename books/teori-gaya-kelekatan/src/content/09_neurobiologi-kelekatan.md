@@ -1,6 +1,6 @@
 ## Neurobiologi Kelekatan
 
-Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya tidak hanya terletak di "hati", tetapi tertanam jauh di dalam sirkuit saraf kita.
+Pernahkah kamu bertanya-tanya mengapa aroma seseorang yang kamu cintai bisa seketika menenangkan detak jantung kamu? Atau mengapa penolakan dari pasangan terasa seperti rasa sakit fisik yang nyata? Jawabannya ada di sirkuit saraf kita, tidak hanya di "hati".
 
 Kelekatan (*attachment*) adalah proses biologis yang nyata, lebih dari sekadar konsep psikologis abstrak. Hubungan awal kita dengan pengasuh berperan sebagai arsitek yang membangun struktur fisik otak kita.
 
@@ -38,7 +38,7 @@ Oksitosin adalah hormon yang dilepaskan saat terjadi kontak mata, sentuhan kulit
 
 ### Kortisol
 
-Kortisol bekerja sebagai hormon stres. Ketika seorang bayi menangis tanpa henti dan tidak ditenangkan, tubuhnya dibanjiri oleh zat ini. Kadar kortisol yang tinggi secara terus-menerus di masa kecil dapat mengganggu perkembangan hippocampus (pusat memori), membuat sistem saraf menjadi sulit kembali ke keadaan tenang bahkan setelah stres berlalu.
+Kortisol bekerja sebagai hormon stres. Ketika seorang bayi menangis tanpa henti dan tidak ditenangkan, kadar zat ini dalam tubuhnya meningkat. Kadar kortisol yang tinggi secara terus-menerus di masa kecil dapat mengganggu perkembangan hippocampus (pusat memori), membuat sistem saraf menjadi sulit kembali ke keadaan tenang bahkan setelah stres berlalu.
 
 ### Dopamin
 
@@ -76,7 +76,7 @@ Sebagai contoh, mari kita bayangkan situasi konflik antara Andi, yang memiliki k
 
 Saat pertengkaran terjadi, amigdala Andi langsung bereaksi aktif dan memicu kekhawatiran bahwa Budi akan pergi. Detak jantungnya meningkat dan kadar kortisol di tubuhnya naik, mendorongnya untuk terus mengejar Budi demi mendapatkan kepastian. Di sisi lain, sistem saraf Budi merasa kewalahan (*overwhelmed*). Untuk melindungi dirinya dari tekanan emosional tersebut, ia masuk ke mode mati rasa (*hipo-arousal*), memilih diam, dan menjauh.
 
-Memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti, sangatlah penting. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
+Penting untuk memahami bahwa reaksi ini adalah respons otomatis dari sistem saraf, bukan disengaja untuk menyakiti. Melalui proses regulasi bersama (*co-regulation*), seperti pelukan hangat atau bernapas tenang bersama, pasangan dapat membantu meredakan produksi hormon stres satu sama lain dan kembali ke dalam jendela toleransi mereka.
 
 ## Harapan dalam Neuroplastisitas
 
@@ -88,7 +88,7 @@ Saat kamu merasa cemas dalam sebuah hubungan, cobalah untuk memperhatikan di bag
 
 ## Seni dan Keterampilan di Balik Relasi yang Mendalam
 
-Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan investasi waktu. Relasi yang mendalam melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
+Membangun relasi yang bermakna adalah seni sekaligus keterampilan sosial yang melibatkan kedalaman emosional, kejujuran, dan kesediaan meluangkan waktu. Relasi yang mendalam melampaui percakapan basa-basi (*small talk*) dan menyentuh aspek nilai, impian, serta dukungan timbal balik.
 
 Berikut adalah pilar utama dalam membangun koneksi yang dalam:
 

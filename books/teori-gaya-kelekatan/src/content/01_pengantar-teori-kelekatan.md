@@ -77,7 +77,7 @@ Berikut adalah beberapa pilar utama dalam menumbuhkan koneksi yang mendalam:
 
 * **Mendengarkan Secara Aktif (*Active Listening*):** Mendengarkan secara aktif berarti menangkap emosi di balik setiap ucapan, bukan hanya mendengar kata-katanya. Fokuslah pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan kamu selanjutnya.
 * **Kerentanan (*Vulnerability*):** Peneliti Brené Brown menyebutkan bahwa kerentanan adalah jembatan menuju koneksi. Hal ini berarti berani menunjukkan sisi asli kamu, termasuk ketakutan dan kegagalan, bukan hanya menampilkan citra "sempurna".
-* **Konsistensi dan Kehadiran:** Hubungan yang kokoh terbangun dari akumulasi momen-momen kecil. Hadir secara penuh saat dibutuhkan lebih bernilai daripada sekadar memberikan materi.
+* **Konsistensi dan Kehadiran:** Hubungan yang kokoh terbangun dari akumulasi momen-momen kecil. Hadir saat dibutuhkan lebih bernilai daripada sekadar memberikan materi.
 * **Empati di Atas Simpati:** Simpati adalah merasa kasihan pada seseorang, sedangkan empati adalah kesediaan untuk ikut merasakan apa yang sedang mereka alami.
 
 > "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." - Brené Brown

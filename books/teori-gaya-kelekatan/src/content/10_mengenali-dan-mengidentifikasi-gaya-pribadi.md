@@ -2,7 +2,7 @@
 
 Setelah mempelajari teori, definisi, dan sejarah gaya kelekatan, sekarang saatnya kamu mengarahkan lensa tersebut ke dalam diri sendiri.
 
-Mengenali gaya kelekatan pribadi bukanlah untuk memberi label "baik" atau "buruk". Langkah ini adalah upaya memahami **cetak biru emosional** yang kamu bawa sejak masa kecil. Begitu memahami pola ini, kamu memegang kunci untuk mengubah cara kamu mencintai, bekerja, dan berinteraksi dengan dunia.
+Mengenali gaya kelekatan pribadi bukanlah untuk memberi label "baik" atau "buruk". Langkah ini adalah upaya memahami **cetak biru emosional** yang kamu bawa sejak masa kecil. Begitu memahami pola ini, kamu bisa mulai mengubah cara kamu mencintai, bekerja, dan berinteraksi dengan dunia.
 
 ## 1. Metafora "Kaca Spion" dan "Peta Navigasi"
 
@@ -79,7 +79,7 @@ quadrantChart
 
 ## 5. Panduan Jurnal Refleksi Diri
 
-Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi kamu. Kunci utamanya adalah kejujuran pada diri sendiri.
+Gunakan pertanyaan-pertanyaan berikut sebagai bahan menulis di jurnal pribadi kamu. Yang terpenting adalah kejujuran pada diri sendiri.
 
 1. **Kemandirian vs. Ketergantungan:** Seberapa besar ketakutanmu akan kehilangan kemandirian dibandingkan ketakutan ditinggalkan sendirian?
 2. **Regulasi Emosi:** Ketika merasa kewalahan, apakah kamu mencari orang lain untuk menenangkan diri, atau justru merasa kehadiran orang lain memperburuk keadaan?
@@ -110,7 +110,7 @@ Meningkatkan kedalaman hubungan emosional merupakan sebuah seni sekaligus ketera
 
 * **Mendengarkan Secara Aktif (Active Listening):** Mendengarkan secara aktif berarti menangkap emosi di balik kata-kata yang diucapkan. Cobalah untuk fokus sepenuhnya pada lawan bicara tanpa menyela atau sibuk memikirkan tanggapan berikutnya.
 * **Kerentanan (Vulnerability):** Brené Brown menyebut kerentanan sebagai jembatan menuju koneksi. Hal ini berarti kamu berani menunjukkan sisi asli dirimu, termasuk ketakutan dan kegagalan, bukan hanya sisi terbaik yang ingin kamu tampilkan.
-* **Konsistensi dan Kehadiran:** Hubungan yang kuat terbentuk dari akumulasi momen-momen kecil. Kehadiran nyata saat dibutuhkan jauh lebih berharga daripada materi.
+* **Konsistensi dan Kehadiran:** Hubungan yang kuat terbentuk dari akumulasi momen-momen kecil. Kehadiran nyata saat dibutuhkan lebih berharga daripada materi.
 * **Empati di Atas Simpati:** Simpati hanya memunculkan rasa kasihan, sedangkan empati mendorong kamu untuk ikut merasakan apa yang sedang dialami orang lain.
 
 > "Koneksi adalah energi yang tercipta di antara orang-orang ketika mereka merasa dilihat, didengar, dan dihargai." (Brené Brown)
