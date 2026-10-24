@@ -21,7 +21,7 @@ Untuk menjadi pendidik yang dinamis, kamu perlu menguasai tiga dimensi variasi:
 Ini adalah perubahan perilaku guru secara personal saat menyampaikan materi:
 
 - **Variasi Suara (Voice Modulation):** Jangan bicara seperti robot. Ubah nada, kecepatan, dan volume suara. Gunakan nada rendah untuk hal-hal serius dan nada tinggi yang bersemangat untuk memotivasi.
-- **Pemberian Fokus (Focusing):** Gunakan verbal seperti, "Perhatikan bagian ini!" atau isyarat seperti mengetuk papan tulis.
+- **Pemberian Fokus (Focusing):** Gunakan verbal seperti, "Lihat bagian ini!" atau isyarat seperti mengetuk papan tulis.
 - **Kesenyapan (Pausing):** Jangan takut pada hening. Diam sejenak selama 3-5 detik setelah memberikan pernyataan penting dapat memberikan waktu bagi otak siswa untuk memproses informasi.
 - **Kontak Mata dan Mimik:** Tatap mata siswa secara bergantian (jangan hanya pada satu sisi kelas) dan gunakan ekspresi wajah yang sesuai dengan materi.
 - **Gerakan Badan dan Mimik:** Berpindah tempat dari depan kelas ke belakang atau ke samping (proximity) untuk memberikan kesan kedekatan.
