@@ -74,7 +74,7 @@ flowchart LR
 
 Bagaimana kita menerapkan pemikiran Camus dalam kehidupan sehari-hari? Camus menawarkan tiga konsekuensi dari menerima absurditas:
 
-Pertama, **Pemberontakan (Rebellion)**. Kita tidak boleh menyerah pada nasib. Meskipun kematian menanti dan alam semesta tetap membisu, kita melawan dengan terus berkarya serta mencari kebahagiaan.
+Pertama, **Pemberontakan (Rebellion)**. Kita tidak boleh menyerah pada nasib. Meskipun kematian menanti dan alam semesta membisu, kita melawan dengan terus berkarya serta mencari kebahagiaan.
 
 Kedua adalah **Kebebasan (Freedom)**. Tanpa adanya makna yang didiktekan dari luar, kamu memiliki kebebasan radikal. Kamu tidak lagi terbebani oleh "takdir" atau tuntutan rencana besar yang kaku.
 

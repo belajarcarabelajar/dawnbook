@@ -27,7 +27,7 @@ Banyak dari kita menghabiskan energi luar biasa untuk mencari kepastian: kepasti
 - **Ketidakpastian sebagai Kemungkinan:** Ketika masa depan tidak pasti, kamu memegang kendali penuh untuk menulis skenariomu sendiri, alih-alih menjadi robot yang sekadar mengikuti naskah yang sudah jadi.
 - **Keberanian Menghadapi Kecemasan:** Kierkegaard menyebut kecemasan sebagai rasa pusing akibat kebebasan. Alih-alih melarikan diri, kita perlu belajar beradaptasi dan terus bergerak maju dalam ketidakpastian.
 
-Ketika kita mengetahui akhir dari setiap cerita secara pasti, rasa penasaran dan gairah untuk menjalani hidup justru akan sirna.
+Ketika kita mengetahui akhir dari setiap cerita secara pasti, rasa penasaran dan gairah untuk menjalani hidup akan sirna.
 
 ### 3. Hidup dengan Kesadaran Penuh (Mindful Existence)
 
