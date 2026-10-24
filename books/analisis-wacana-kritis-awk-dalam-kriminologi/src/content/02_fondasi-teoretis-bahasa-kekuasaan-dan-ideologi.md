@@ -51,7 +51,7 @@ Hegemoni bekerja dengan menyusupkan cara pandang penguasa hingga berubah menjadi
 - **Konstruksi Institusional:** Masyarakat secara umum menyetujui bahwa pemenjaraan (*incarceration*) adalah satu-satunya solusi logis untuk menangani kejahatan. Pertanyaan mendasar seperti *"Apakah ada alternatif pemulihan selain memenjarakan seseorang?"* jarang sekali mengemuka.
 - **Dampak Diskursif:** Ketika suatu gagasan telah menjelma menjadi "akal sehat", gagasan tersebut berhenti dipertanyakan. Kondisi ini merupakan puncak dari kekuasaan hegemonik.
 
-### 4. Mesin Ideologi di Balik Teks
+### 4. Ideologi di Balik Teks
 
 Ideologi adalah sekumpulan gagasan, nilai, dan keyakinan terselubung yang membentuk cara pandang terhadap dunia. Dalam AWK, ideologi beroperasi melalui teks untuk melegitimasi dan mempertahankan kontrol sosial.
 
@@ -100,7 +100,7 @@ Untuk memahami keterkaitan konsep-konsep di atas, lihat analisis terhadap narasi
 
 > **Refleksi Media:** Saat membaca pemberitaan mengenai penangkapan demonstran, pencermatan terhadap pilihan kata media antara "aktivis" atau "perusuh" mengungkapkan bagaimana satu kata mampu mengubah konstruksi kekuasaan dalam persepsi publik.
 
-### 7. Linguistik Forensik
+### 7. Pengertian Linguistik Forensik
 
 Linguistik forensik merupakan cabang ilmu bahasa terapan yang menerapkan analisis linguistik untuk kepentingan investigasi kriminal dan pembuktian hukum. Berbeda dari detektif konvensional yang mencari sidik jari fisik, ahli linguistik forensik mengeksplorasi **"sidik jari linguistik"** yang terekam dalam struktur kalimat, pilihan leksikal, hingga konvensi tanda baca.
 

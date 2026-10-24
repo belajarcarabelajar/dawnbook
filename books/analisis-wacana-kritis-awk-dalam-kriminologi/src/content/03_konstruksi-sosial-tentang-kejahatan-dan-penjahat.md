@@ -98,7 +98,7 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 2. **Atribusi Kepenulisan (*Authorship Attribution*):** Teknik menentukan penulis asli dari sebuah teks anonim (seperti surat ancaman, pesan teror, atau dokumen palsu) dengan membandingkan teks bukti terhadap teks pembanding dari tersangka.
 3. **Analisis Konten dan Ancaman:** Membedakan antara ancaman nyata dan sekadar luapan emosi dengan mengukur niat (*intent*) serta tingkat risiko berdasarkan pola komunikasi.
 
-#### Studi Kasus dan Aplikasi Analisis Forensik
+#### Tantangan Analisis Forensik dalam Praktik
 
 | No | Fokus Analisis | Penjelasan & Tantangan Kriminologis |
 | :--- | :--- | :--- |
@@ -107,7 +107,7 @@ Dalam kriminologi, bahasa dianggap sebagai manifestasi perilaku. Berikut adalah 
 | 3 | **Opini vs. Pencemaran Nama Baik** | Dalam analisis hukum, terdapat perbedaan mendasar antara kritik fasilitas (misal: *"Layanan di toko ini sangat lambat"*) dengan tuduhan kriminal personal (misal: *"Pemilik toko ini adalah penipu"*). AWK membedakan evaluasi kualitas layanan dari tuduhan tindak pidana. |
 | 4 | **Profiling Kriminal Teksual** | Jika sebuah surat tebusan menggunakan istilah medis yang sangat spesifik tetapi memiliki tata bahasa yang tidak teratur, kriminolog dapat menyusun profil tersangka sebagai individu dengan latar belakang pendidikan atau profesi medis tertentu yang mencoba menyamarkan identitasnya. |
 
-### Ringkasan Materi
+### Intisari Konstruksi Sosial Kejahatan
 
 > **Pesan Utama:** Kejahatan bukanlah sesuatu yang ditemukan di bawah mikroskop, melainkan sesuatu yang dikonstruksi melalui percakapan, hukum, dan media berita. Menjadi analis wacana kritis berarti berani mempertanyakan: *"Siapa yang diuntungkan dari definisi kejahatan ini?"*
 

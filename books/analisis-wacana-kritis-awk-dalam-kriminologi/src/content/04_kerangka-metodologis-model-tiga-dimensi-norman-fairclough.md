@@ -136,7 +136,7 @@ Cobalah mengambil sebuah berita kriminal dari media massa hari ini dan amati jud
 
 ---
 
-## Linguistik Forensik di Persimpangan Bahasa dan Hukum
+## Linguistik Forensik di Ranah Hukum
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Ibarat seorang detektif yang tidak mencari sidik jari pada benda fisik, ahli linguistik forensik mencari **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 

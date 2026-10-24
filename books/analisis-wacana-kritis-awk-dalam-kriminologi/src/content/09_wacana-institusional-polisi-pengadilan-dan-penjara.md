@@ -2,7 +2,7 @@
 
 Bahasa dalam kriminologi bukan sekadar alat komunikasi, melainkan instrumen kekuasaan. Di balik tumpukan dokumen birokrasi, terdapat mekanisme yang menjaga otoritas negara serta menentukan pihak yang bebas dan yang ditahan. Institusi penegak hukum memanfaatkan wacana kebahasaan untuk mengonstruksi kekuasaan birokratis.
 
-### 1. Bahasa sebagai Benteng Wacana Institusional
+### 1. Bahasa yang Memisahkan Pemegang Otoritas
 
 Wacana institusional adalah cara berkomunikasi yang khas dalam suatu lembaga yang memiliki aturan, struktur, dan hierarki tertentu. Dalam konteks kepolisian, pengadilan, dan penjara, bahasa berfungsi sebagai "benteng" yang memisahkan antara **pemegang otoritas** (pihak yang menguasai aturan main) dan **subjek hukum** (pihak yang diproses secara hukum).
 
@@ -97,7 +97,7 @@ Dalam kriminologi investigatif, analisis ini digunakan untuk membedakan antara a
 - Mengukur niat (*intent*) eksplisit maupun implisit dalam teks.
 - Menentukan derajat risiko berdasarkan pola komunikasi yang terstruktur.
 
-### Studi Kasus dan Analisis Praktis Linguistik Forensik
+### Fenomena Kebahasaan dalam Investigasi Forensik
 
 Dalam praktik investigasi kriminologi, ahli linguistik forensik menganalisis berbagai fenomena kebahasaan melalui pendekatan sistematis:
 

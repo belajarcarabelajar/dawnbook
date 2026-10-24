@@ -102,7 +102,7 @@ Di mana jika tekanan diskursif ($P$) melalui pertanyaan retoris dan intimidasi v
 
 ---
 
-### 6. Anatomi Kata dalam Linguistik Forensik
+### 6. Unsur Pembuktian Linguistik Forensik
 
 Linguistik forensik adalah cabang ilmu bahasa terapan yang menggunakan analisis bahasa untuk kepentingan hukum dan investigasi kriminal. Bayangkan seorang detektif yang tidak mencari sidik jari pada benda fisik, melainkan **"sidik jari linguistik"** yang tertinggal dalam susunan kalimat, pilihan kata, hingga tanda baca.
 

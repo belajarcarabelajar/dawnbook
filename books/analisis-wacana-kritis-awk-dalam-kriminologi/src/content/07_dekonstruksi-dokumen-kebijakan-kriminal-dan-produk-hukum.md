@@ -100,7 +100,7 @@ Dalam banyak draf regulasi siber di berbagai negara, sering ditemukan frasa:
 
 ---
 
-### Ringkasan Penting
+### Poin Kunci Dekonstruksi Dokumen Hukum
 
 > **Keberhasilan dekonstruksi dokumen hukum terletak pada kemampuan kita untuk membuktikan bahwa teks hukum bukanlah refleksi objektif dari keadilan, melainkan tempat ideologi saling bersaing, dan bahasa digunakan untuk mempertahankan status quo atau melegitimasi kontrol sosial.**
 

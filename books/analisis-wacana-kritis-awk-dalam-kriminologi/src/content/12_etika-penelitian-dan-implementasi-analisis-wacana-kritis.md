@@ -147,7 +147,7 @@ Dalam kriminologi, pembedaan antara ancaman nyata dan luapan emosi dilakukan den
 
 ---
 
-### 7. Studi Kasus dan Aksentuasi Analisis Linguistik Forensik
+### 7. Dinamika Pembuktian Linguistik Forensik
 
 Dalam praktik kriminologi dan analisis hukum, penerapan linguistik forensik diuji melalui berbagai dinamika pembuktian:
 
@@ -157,7 +157,7 @@ Saat pelaku kejahatan siber mencoba meniru gaya penulisan individu lain, elemen 
 #### B. Dinamika Teks Digital
 Di era media sosial dan pesan instan, pesan sering kali singkat dan memuat simbol visual non-verbal. Peneliti linguistik forensik memanfaatkan pola konsistensi pemakaian simbol visual dan variasi ejaan non-standar sebagai indikator identifikasi tambahan.
 
-#### C. Batas Antara Opini dan Pencemaran Nama Baik
+#### C. Struktur Pernyataan Opini dan Pencemaran Nama Baik
 Dalam analisis hukum wacana, struktur pernyataan menentukan kualifikasi delik:
 
 * **Pernyataan A:** *"Layanan di toko ini sangat lambat dan tidak profesional."* (Evaluasi subjektif terhadap pengalaman layanan / opini).

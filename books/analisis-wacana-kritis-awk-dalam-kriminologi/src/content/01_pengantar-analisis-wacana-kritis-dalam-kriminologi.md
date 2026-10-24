@@ -60,7 +60,7 @@ Dalam sistem peradilan pidana, penggunaan bahasa hukum yang sarat jargon teknis 
 > **Prinsip Utama AWK:**
 > Bahasa tidak sekadar mencerminkan realitas yang sudah ada; bahasa **membentuk dan membangun** realitas sosial itu sendiri.
 
-## Perang Diksi dalam Media Massa
+## Pilihan Diksi dalam Media Massa
 
 Konstruksi realitas kriminalitas kerap terlihat dalam pembingkaian (*framing*) media massa. Peristiwa yang sama dapat menghasilkan representasi sosial yang bertolak belakang tergantung pada diksi yang dipilih.
 

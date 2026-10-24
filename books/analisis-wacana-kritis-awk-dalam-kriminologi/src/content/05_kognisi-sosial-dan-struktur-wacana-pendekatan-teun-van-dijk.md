@@ -4,7 +4,7 @@ Pernahkah terlintas pertanyaan mengapa sebuah kebijakan keamanan yang ketat seri
 
 Dalam kerangka Analisis Wacana Kritis (AWK), **Teun van Dijk** menawarkan perspektif yang unik dengan memasukkan elemen "jembatan" yang hilang dalam analisis bahasa tradisional: **Kognisi Sosial**.
 
-## 1. Segitiga Emas Van Dijk
+## 1. Wacana, Kognisi Sosial, dan Masyarakat
 
 Berbeda dengan pemikir lain yang mungkin langsung menghubungkan teks dengan struktur sosial, Van Dijk berpendapat bahwa tidak ada hubungan langsung antara wacana dan masyarakat. Hubungan tersebut dimediasi oleh kognisi manusia.
 
