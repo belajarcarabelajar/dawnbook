@@ -4,7 +4,7 @@ Daftar rujukan ini menyajikan sumber primer dan sekunder berstandar APA Edisi ke
 
 ### Karya Primer
 
-Beauvoir, S. de. (1948). *[The Ethics of Ambiguity](https://archive.org/details/ethicsofambiguit00beau)* (B. Frechtman, Penerj.). Philosophical Library.
+Beauvoir, S. de. (1948). *[The Ethics of Ambiguity](https://books.google.com/books/about/The_Ethics_of_Ambiguity.html?id=HcQNAQAAIAAJ)* (B. Frechtman, Penerj.). Philosophical Library.
 
 Beauvoir, S. de. (2010). *[The Second Sex](https://www.penguinrandomhouse.com/books/10476/the-second-sex-by-simone-de-beauvoir/)* (C. Borde & S. Malovany-Chevallier, Penerj.). Alfred A. Knopf.
 
