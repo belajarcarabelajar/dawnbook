@@ -8,7 +8,7 @@ Intervensi non-verbal adalah solusi untuk meminimalisir biaya tersebut. Tujuanny
 
 ### Mengapa Non-Verbal? Sebuah Analogi
 
-Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, penonton tetap terpesona, dan masalah terselesaikan secara instan.
+Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, penonton masih terpesona, dan masalah terselesaikan secara instan.
 
 Dalam manajemen kelas, kamu adalah konduktornya. Intervensi non-verbal memungkinkan kamu melakukan koreksi tanpa harus menjadi "polisi" yang membunyikan sirine di tengah konser pembelajaran.
 
@@ -28,7 +28,7 @@ Kontak mata adalah alat paling kuat namun paling sering diremehkan.
 Siswa cenderung berperilaku lebih baik saat guru berada di dekat mereka.
 
 - **Mengajar Sambil Berjalan:** Jangan terpaku di depan kelas. Bergeraklah ke arah siswa yang mulai terdistraksi sambil tetap melanjutkan penjelasan kamu.
-- **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol seringkali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata pun.
+- **Kehadiran Fisik:** Berdiri di samping meja siswa yang mengobrol seringkali cukup untuk membuat mereka berhenti tanpa kamu perlu mengucapkan sepatah kata.
 
 #### 3. Sinyal Tangan dan Gestur
 
@@ -63,7 +63,7 @@ Mari kita lihat perbandingan antara pendekatan reaktif tradisional dan intervens
 | Pendekatan Reaktif | Pendekatan Proaktif (Non-Verbal) |
 | --- | --- |
 | **Guru berhenti bicara.** "Rian! Bisa diam tidak? Hargai saya yang sedang menjelaskan!" | **Guru terus menjelaskan.** Sambil berkata "Jika jari-jarinya 7, maka...", guru berjalan perlahan menuju meja Rian. |
-| **Dampak:** Alur kelas berhenti. Siswa lain terdistraksi. Rian merasa malu dan mungkin membantah, memicu konflik. | **Dampak:** Rian berhenti bicara karena guru berada tepat di sampingnya. Alur penjelasan tetap terjaga. |
+| **Dampak:** Alur kelas berhenti. Siswa lain terdistraksi. Rian merasa malu dan mungkin membantah, memicu konflik. | **Dampak:** Rian berhenti bicara karena guru berada tepat di sampingnya. Alur penjelasan terjaga. |
 | **Hasil:** Waktu terbuang 2-3 menit. | **Hasil:** Waktu terbuang 0 menit. |
 
 ### Menjaga Alur Pembelajaran (The Continuity Principle)
