@@ -4,6 +4,7 @@ import os from "node:os";
 import path from "node:path";
 import { checkBookStructure, extractLinkTargets, extractUrls } from "../../scripts/check-book-structure";
 import { escapeHtml, extractLeadText, formatSerpDescription } from "../../scripts/inject-gating";
+import { BOOK_VOICE_CONFIG, voiceViolations as sharedVoiceViolations } from "../../scripts/check-voice";
 import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
 
 const ROOT = path.resolve(import.meta.dir, "../..");
@@ -28,24 +29,10 @@ function chapterMeta(md: string): string {
   return escapeHtml(meta).length > 160 ? formatSerpDescription(lead, 145) : meta;
 }
 
-// GEMINI.md section 29: sources are cooked into the author's voice, not served raw. These caps count the
-// scaffolds that made the first version read like a report (measured 2026-10-24).
-const VOICE_CAPS: { label: string; pattern: RegExp; max: (file: string) => number }[] = [
-  { label: "Kalau dipikir-pikir", pattern: /kalau dipikir-pikir/gi, max: () => 0 },
-  { label: "Menurut panduan", pattern: /menurut panduan/gi, max: () => 0 },
-  { label: "tulis panduan", pattern: /tulis panduan/gi, max: () => 0 },
-  { label: "mirip dengan", pattern: /mirip dengan/gi, max: () => 1 },
-  { label: "stock connector", pattern: /perhatikan|di situlah letak|menariknya|ada satu (detail|catatan)/gi, max: () => 0 },
-  { label: "bab berikutnya", pattern: /bab berikutnya/gi, max: () => 0 },
-  { label: "tokoh kita", pattern: /tokoh kita/gi, max: () => 2 },
-  { label: "panduan", pattern: /(?<![\p{L}])panduan(?![\p{L}])/giu, max: (f) => (f.startsWith("01_") ? 4 : 2) },
-];
-
+// GEMINI.md section 29: the shared caps plus this book's "panduan" cap (scripts/check-voice.ts).
+const SLUG = "pelajaran-hidup-dari-harvest-moon-back-to-nature";
 function voiceViolations(file: string, md: string): string[] {
-  return VOICE_CAPS.flatMap(({ label, pattern, max }) => {
-    const count = (md.match(pattern) ?? []).length;
-    return count > max(file) ? [`${label} x${count} (max ${max(file)})`] : [];
-  });
+  return sharedVoiceViolations(file, md, BOOK_VOICE_CONFIG[SLUG]);
 }
 
 function metaOutOfRange(meta: string): boolean {

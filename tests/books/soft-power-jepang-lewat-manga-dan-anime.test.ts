@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import path from "node:path";
 import { checkBookStructure, extractUrls } from "../../scripts/check-book-structure";
+import { checkVoice } from "../../scripts/check-voice";
 import { contentFiles, sourceTableSection, sourceTableUrls } from "../helpers/book-test";
 
 const ROOT = path.resolve(import.meta.dir, "../..");
@@ -60,5 +61,10 @@ describe("book soft-power-jepang-lewat-manga-dan-anime", () => {
     const used = contentFiles(BOOK).flatMap((f) => extractUrls(fs.readFileSync(path.join(BOOK, "src/content", f), "utf-8")));
     expect(used.length).toBeGreaterThan(20);
     expect(used.filter((u) => !allowed.has(u))).toEqual([]);
+  });
+
+  // GEMINI.md section 29: the shared voice caps hold in all 12 content chapters.
+  test("all 12 content chapters pass the voice caps", () => {
+    expect(checkVoice(BOOK)).toEqual({ chapters: 12, problems: [] });
   });
 });
