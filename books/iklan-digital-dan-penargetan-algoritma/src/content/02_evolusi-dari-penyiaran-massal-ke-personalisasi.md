@@ -2,7 +2,7 @@
 
 Dahulu, merek yang ingin mempromosikan produk baru harus berteriak sekeras mungkin di tengah kerumunan, berharap ada seseorang yang mendengarkan. Hari ini, merek tersebut tidak lagi berteriak; mereka membisikkan penawaran yang tepat, di waktu yang tepat, langsung ke telinga orang yang memang membutuhkannya.
 
-Selamat datang di era **Personalisasi**, sebuah pergeseran paradigma yang mengubah wajah industri periklanan selamanya.
+Selamat datang di era **Personalisasi**, sebuah pergeseran paradigma dalam industri periklanan.
 
 ### 1. Era Penyiaran Massal (Mass Broadcasting)
 

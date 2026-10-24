@@ -1,6 +1,6 @@
 ## Mikro-Penargetan di Platform Media Sosial
 
-Bayangkan kamu sedang berjalan di tengah pasar raksasa yang berisi satu miliar orang. Tanpa teknologi, sangat mustahil untuk menemukan sepuluh orang yang secara spesifik menyukai "kopi organik dari pegunungan Gayo yang dipanggang dengan teknik *light roast* dan memiliki hobi memelihara kura-kura."
+Bayangkan kamu sedang berjalan di tengah pasar raksasa yang berisi satu miliar orang. Tanpa teknologi, mustahil untuk menemukan sepuluh orang yang secara spesifik menyukai "kopi organik dari pegunungan Gayo yang dipanggang dengan teknik *light roast* dan memiliki hobi memelihara kura-kura."
 
 Namun, di era mikro-penargetan, menemukan sepuluh orang tersebut semudah menekan tombol "Publish" pada *dashboard* iklanmu.
 
@@ -22,7 +22,7 @@ Ini adalah fitur di mana pengiklan bisa mengunggah data mereka sendiri (seperti 
 
 #### C. Lookalike Audiences (LAL - Audiens Serupa)
 
-Ini adalah "senjata rahasia" Meta. Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memiliki karakteristik perilaku yang sangat mirip dengan pelanggan terbaikmu.
+Dengan algoritma *machine learning*, Meta dapat mencari pengguna baru yang memiliki karakteristik perilaku yang sangat mirip dengan pelanggan terbaikmu.
 
 > **Insight:** Jika kamu memiliki 1.000 pembeli setia, Meta bisa memindai jutaan pengguna lain untuk menemukan 1% populasi yang paling serupa dengan 1.000 pembeli tersebut dalam hal perilaku digital.
 
@@ -87,7 +87,7 @@ Sebuah perusahaan kecil ingin memasarkan makanan anjing vegan untuk anjing yang 
 
 - **Efisiensi Biaya:** Tidak ada anggaran yang terbuang untuk audiens yang tidak relevan.
 - **Relevansi Tinggi:** Iklan terasa seperti rekomendasi dari teman, bukan gangguan.
-- **Konversi Maksimal:** Pesan yang sangat spesifik lebih mudah menggerakkan orang untuk membeli.
+- **Konversi Lebih Tinggi:** Pesan yang sangat spesifik lebih mudah menggerakkan orang untuk membeli.
 
 **Tantangan:**
 

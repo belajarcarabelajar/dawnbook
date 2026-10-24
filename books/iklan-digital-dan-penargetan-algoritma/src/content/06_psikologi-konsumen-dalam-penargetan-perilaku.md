@@ -2,11 +2,11 @@
 
 Pernahkah kamu merasa seolah-olah ponsel kamu sedang "mendengarkan" pembicaraan kamu? Kamu baru saja membahas keinginan untuk mendaki gunung dengan teman, dan tiba-tiba, beranda media sosial kamu dipenuhi iklan sepatu *hiking* dan tenda.
 
-Ini bukanlah sihir, melainkan hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja yang hampir tidak bisa ditolak.
+Ini adalah hasil dari **Penargetan Perilaku (Behavioral Targeting)** yang bekerja selaras dengan **Psikologi Konsumen**. Algoritma tidak hanya memproses data; mereka memetakan bagaimana otak manusia bekerja untuk menciptakan dorongan belanja.
 
 ## 1. Jembatan Antara Data dan Keinginan
 
-Algoritma digital berfungsi seperti seorang pelayan restoran yang sangat intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
+Algoritma digital berfungsi seperti seorang pelayan restoran yang intuitif. Sebelum kamu memesan, ia sudah tahu bahwa kamu menyukai makanan pedas karena ia telah memperhatikan pilihan kamu selama berbulan-bulan.
 
 Dalam dunia digital, setiap klik, durasi tontonan, dan pencarian adalah sinyal psikologis. Penargetan perilaku memanfaatkan sinyal ini untuk menyajikan iklan pada saat **Reseptivitas Maksimal**, yaitu titik di mana pertahanan kognitif kamu paling rendah dan keinginan kamu paling tinggi.
 
@@ -35,7 +35,7 @@ Pernah melihat tulisan *"Hanya tersisa 2 stok!"* atau *"Diskon berakhir dalam 10
 Kita cenderung mencari informasi yang mendukung keyakinan kita sendiri.
 
 - **Cara Kerja**: Algoritma menyajikan iklan yang selaras dengan nilai atau identitas diri kamu (misalnya, iklan produk ramah lingkungan untuk orang yang sering mencari isu perubahan iklim).
-- **Dampak Psikologis**: Iklan tersebut terasa seperti validasi pribadi, sehingga meningkatkan tingkat konversi secara drastis.
+- **Dampak Psikologis**: Iklan tersebut terasa seperti validasi pribadi, sehingga meningkatkan tingkat konversi.
 
 ## 3. Pemicu Emosional
 

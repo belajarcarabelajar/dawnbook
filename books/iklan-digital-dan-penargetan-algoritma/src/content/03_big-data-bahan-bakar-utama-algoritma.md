@@ -1,6 +1,6 @@
 ## Big Data sebagai Bahan Bakar Algoritma
 
-Bayangkan sebuah mesin jet yang paling canggih di dunia. Tanpa bahan bakar berkualitas tinggi, mesin tersebut hanyalah tumpukan besi tua yang diam. Dalam ekosistem periklanan digital, **Algoritma** adalah mesin jetnya, dan **Big Data** adalah bahan bakarnya.
+Bayangkan sebuah mesin jet yang canggih. Tanpa bahan bakar berkualitas tinggi, mesin tersebut hanya diam. Dalam ekosistem periklanan digital, **Algoritma** adalah mesin jetnya, dan **Big Data** adalah bahan bakarnya.
 
 Tanpa aliran data yang masif dan terus-menerus, algoritma tidak akan bisa memprediksi apakah kamu sedang mencari sepatu lari baru atau sedang merencanakan liburan ke Bali. Di bagian ini, kita akan membedah jenis-jenis "bahan bakar" yang dikumpulkan oleh platform digital untuk menggerakkan mesin penargetan mereka.
 
@@ -87,7 +87,7 @@ $$
 
 ### 5. Iklan "The Ghost Ad" yang Seolah Mendengarkan
 
-Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan produk tersebut muncul di media sosial kamu? Meskipun sering dianggap "mendengarkan pembicaraan", kenyataannya algoritma sering kali hanya menggunakan **Big Data** secara sangat cerdas:
+Pernahkah kamu membicarakan suatu produk dengan teman, lalu tiba-tiba iklan produk tersebut muncul di media sosial kamu? Meskipun sering dianggap "mendengarkan pembicaraan", kenyataannya algoritma sering kali hanya mengolah **Big Data**:
 
 - **Skenario:** Budi dan Andi adalah teman dekat (data grafik sosial).
 - **Aksi:** Andi baru saja membeli jam tangan merek X (data perilaku).

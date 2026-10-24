@@ -1,6 +1,6 @@
 ## Pengantar Era Periklanan Digital
 
-Selamat datang di titik awal perjalanan kita memahami salah satu kekuatan paling berpengaruh di dunia modern: **Iklan Digital**. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu bukan sihir, melainkan hasil dari evolusi panjang industri periklanan yang kini telah bertransformasi total dari papan reklame fisik menjadi barisan kode yang sangat cerdas.
+Selamat datang di titik awal perjalanan kita memahami **Iklan Digital**. Pernahkah kamu merasa bahwa sebuah produk yang baru saja kamu bicarakan tiba-tiba muncul di layar ponsel kamu? Itu hasil dari evolusi panjang industri periklanan, yang telah berpindah dari papan reklame fisik ke barisan kode.
 
 ## Apa Itu Iklan Digital?
 
@@ -92,9 +92,9 @@ Mari kita lihat bagaimana transisi ini membantu sebuah bisnis kecil bernama *Ked
 
 Memahami era periklanan digital bukan hanya penting bagi praktisi pemasaran, tetapi juga bagi kita sebagai pengguna internet.
 
-- **Bagi Bisnis:** Ini adalah alat untuk efisiensi dan pertumbuhan eksponensial.
+- **Bagi Bisnis:** Ini adalah alat untuk efisiensi dan pertumbuhan.
 - **Bagi Konsumen:** Ini adalah alasan mengapa layanan seperti Google, YouTube, dan Facebook bisa kita gunakan secara gratis (kita "membayar" dengan perhatian kita terhadap iklan).
 
-> **Poin Utama:** Periklanan digital telah mengubah pemasaran dari seni menebak menjadi sains yang berbasis data. Transisi dari media tradisional ke digital membawa efisiensi, personalisasi, dan transparansi yang belum pernah ada sebelumnya dalam sejarah manusia.
+> **Poin Utama:** Periklanan digital telah mengubah pemasaran dari seni menebak menjadi sains yang berbasis data. Transisi dari media tradisional ke digital membawa efisiensi, personalisasi, dan transparansi.
 
-Dalam bagian selanjutnya, kita akan membahas bagaimana pergeseran dari "siaran massal" ini berevolusi menjadi "personalisasi ekstrem" yang kita alami hari ini.
+Dalam bagian selanjutnya, kita akan membahas bagaimana pergeseran dari "siaran massal" ini berevolusi menjadi "personalisasi" yang kita alami hari ini.

@@ -55,7 +55,7 @@ Dalam sisi rekayasa perangkat lunak, etika privasi diterapkan melalui sistem yan
 
 ## 5. Skandal Cambridge Analytica
 
-Salah satu contoh paling kelam dalam etika data adalah kasus **Cambridge Analytica**.
+Salah satu contoh pelanggaran etika data adalah kasus **Cambridge Analytica**.
 
 - **Skenario:** Data dari jutaan pengguna Facebook diambil melalui kuis kepribadian pihak ketiga tanpa persetujuan eksplisit untuk tujuan politik.
 - **Dampak:** Data tersebut digunakan untuk membuat profil psikologis (micro-targeting) guna memengaruhi pilihan pemilih dalam pemilu.
