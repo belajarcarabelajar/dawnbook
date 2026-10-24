@@ -84,7 +84,7 @@ Seorang programmer junior menghadapi *bug* kompleks yang membuat sistem perusaha
 Seorang pendiri *startup* ditolak oleh 20 investor pertama.
 
 - **Tanpa Grit:** Dia akan merasa bahwa idenya buruk dan segera menutup bisnisnya.
-- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya: mengurangi limbah plastik) membuatnya bertahan hingga investor ke-21 memberikan pendanaan.
+- **Dengan Grit:** Dia menggunakan umpan balik dari setiap penolakan untuk memperbaiki model bisnisnya. Gairahnya pada visi jangka panjang (misalnya: mengurangi limbah plastik) membuatnya terus maju hingga investor ke-21 memberikan pendanaan.
 
 ## Mengevaluasi Gritmu
 
