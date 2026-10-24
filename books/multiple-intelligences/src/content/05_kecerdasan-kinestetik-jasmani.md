@@ -1,6 +1,6 @@
 ## Kecerdasan Kinestetik-Jasmani
 
-Pernahkah kamu memperhatikan seorang penari yang bergerak lincah seolah tak bertulang, atau ahli bedah dengan tangan yang bekerja sangat presisi tanpa gemetar sedikit pun? Itulah wujud nyata dari **Kecerdasan Kinestetik-Jasmani**.
+Pernahkah kamu memperhatikan penari yang bergerak lincah seolah tak bertulang, atau ahli bedah yang tangannya bekerja sangat presisi tanpa gemetar? Itulah wujud nyata dari **Kecerdasan Kinestetik-Jasmani**.
 
 Bagi Howard Gardner, kecerdasan mencakup hal-hal di luar proses berpikir dalam otak saat menyelesaikan soal logika. Kecerdasan ini juga berhubungan langsung dengan cara otak berkoordinasi bersama seluruh anggota tubuh untuk memecahkan masalah atau merancang sebuah karya.
 

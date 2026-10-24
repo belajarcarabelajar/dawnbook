@@ -1,6 +1,6 @@
 ## Kecerdasan Eksistensial
 
-Pernahkah kamu menatap langit malam yang penuh bintang, merasa sangat kecil, lalu bertanya dalam hati: *"Mengapa kita ada di sini?"* atau *"Apa yang terjadi setelah hidup berakhir?"*
+Pernahkah kamu menatap langit malam yang penuh bintang, merasa sangat kecil, lalu bertanya dalam hati: *Mengapa kita ada di sini?* Atau, *apa yang terjadi setelah hidup berakhir?*
 
 Pertanyaan-pertanyaan ini merupakan bentuk dorongan dari apa yang Howard Gardner sebut sebagai kecerdasan eksistensial. Sebagai spektrum kesembilan dari teorinya, kecerdasan ini mendefinisikan kapasitas manusia menjangkau ruang-ruang di luar jangkauan panca indra fisik.
 

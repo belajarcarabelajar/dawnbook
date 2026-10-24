@@ -1,6 +1,6 @@
 ## Implementasi Teori Kecerdasan Majemuk
 
-Mengimplementasikan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti seorang guru harus menyiapkan delapan pelajaran berbeda untuk setiap jam pertemuan. Konsep ini lebih menekankan pada penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
+Menerapkan Teori Kecerdasan Majemuk (Multiple Intelligences/MI) tidak berarti guru harus menyiapkan delapan pelajaran berbeda untuk setiap pertemuan. Konsep ini lebih menekankan pada penyediaan "pintu masuk" yang beragam ke dalam satu materi yang sama.
 
 > "Inti dari teori kecerdasan majemuk adalah menghargai perbedaan cara manusia belajar, bukan untuk mengkotak-kotakkan siswa, tetapi untuk membuka jendela peluang bagi mereka untuk memahami dunia." - Howard Gardner
 

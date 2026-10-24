@@ -1,6 +1,6 @@
 ## Fondasi Teori Kecerdasan Majemuk
 
-Selama puluhan tahun, dunia pendidikan dan psikologi seperti terkunci pada satu pertanyaan sempit: *"Seberapa cerdas kamu?"* Melalui teori ini, sudut pandangnya digeser menjadi lebih bermakna, yaitu *"Bagaimana cara kamu menjadi cerdas?"*
+Selama puluhan tahun, dunia pendidikan dan psikologi seperti terkunci pada satu pertanyaan sempit: *Seberapa cerdas kamu?* Melalui teori ini, sudut pandangnya digeser menjadi lebih bermakna, yaitu *Bagaimana cara kamu menjadi cerdas?*
 
 Bagian ini membahas dasar-dasar Teori Kecerdasan Majemuk (*Multiple Intelligences*), sebuah pendekatan yang membongkar batasan kaku dari sekadar angka IQ dan memperlihatkan betapa luasnya spektrum kemampuan kita sebagai manusia.
 
