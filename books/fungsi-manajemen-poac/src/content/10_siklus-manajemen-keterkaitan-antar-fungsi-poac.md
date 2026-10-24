@@ -1,6 +1,6 @@
 ## Siklus Manajemen dan Keterkaitan Antar Fungsi POAC
 
-Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul pertanyaan: *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
+Setelah kita membedah satu per satu fungsi manajemen dari *Planning* hingga *Controlling*, mungkin muncul sebuah pertanyaan di benakmu. *Apakah fungsi-fungsi ini berjalan secara terpisah?* Jawabannya adalah **tidak**.
 
 Bayangkan sebuah orkestra simfoni. Pemain biola, peniup trompet, dan dirigen tidak bekerja sendiri-sendiri tanpa koordinasi. Keindahan musik tercipta karena adanya sinkronisasi yang presisi. Begitu pula dalam organisasi, POAC bekerja sebagai sebuah ekosistem yang saling bergantung, bukan daftar tugas terpisah yang selesai lalu dilupakan.
 

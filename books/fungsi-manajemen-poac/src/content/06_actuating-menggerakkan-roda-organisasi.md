@@ -1,6 +1,6 @@
 ## Actuating untuk Menggerakkan Roda Organisasi
 
-Bayangkan kamu memiliki sebuah peta harta karun yang sangat detail (**Planning**) dan kamu telah mengumpulkan tim ahli dengan peralatan penggalian tercanggih (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur selamanya.
+Bayangkan kamu memiliki sebuah peta harta karun yang sangat detail (**Planning**) dan tim ahli dengan peralatan penggalian tercanggih (**Organizing**). Namun, jika tidak ada seorang pun yang mulai mengayunkan cangkul atau melangkah mengikuti peta tersebut, harta itu akan tetap terkubur selamanya.
 
 Inilah esensi dari **Actuating** (Penggerakan). Jika Planning dan Organizing adalah persiapan di balik layar, maka Actuating adalah saat lampu panggung dinyalakan dan pertunjukan dimulai.
 
