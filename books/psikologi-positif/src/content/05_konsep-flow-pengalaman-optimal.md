@@ -67,7 +67,7 @@ Secara neurobiologis, ketika berada dalam kondisi *flow*, otak mengalami kondisi
 * ***Hypo***: Keadaan aktif yang menurun atau melambat.
 * ***Frontality***: Merujuk pada aktivitas di area *prefrontal cortex*, bagian otak yang mengendalikan pemikiran analitis, perencanaan jangka panjang, dan evaluasi diri secara kritis.
 
-Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat sejenak. Hal ini memungkinkan otak untuk memproses informasi lebih cepat dan kreatif tanpa hambatan dari keraguan diri. Pada saat yang bersamaan, kadar sejumlah zat neurokimia penunjang fokus dan rasa bahagia meningkat, meliputi dopamin, norepinefrin, endorfin, anandamida, serta serotonin.
+Saat *flow*, bagian otak yang berfungsi mengkritik diri sendiri ini beristirahat sejenak. Hal ini memungkinkan otak untuk memproses informasi lebih cepat dan kreatif tanpa hambatan dari keraguan diri. Pada saat yang bersamaan, kadar beberapa zat neurokimia penunjang fokus dan rasa bahagia meningkat, yaitu dopamin, norepinefrin, endorfin, anandamida, serta serotonin.
 
 ### 4. Cara Mencapai Pengalaman Optimal
 
