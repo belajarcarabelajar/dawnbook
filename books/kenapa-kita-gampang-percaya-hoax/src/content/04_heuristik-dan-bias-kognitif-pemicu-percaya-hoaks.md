@@ -6,7 +6,7 @@ Di bab ini kamu akan berkenalan dengan mesin pengambilan keputusan cepat di kepa
 
 ### Heuristik sebagai jalan pintas yang berguna tapi bocor
 
-Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Kita justru mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
+Pada 1974, dua psikolog, **Amos Tversky** dan **Daniel Kahneman**, menunjukkan bahwa manusia jarang berpikir seperti kalkulator statistik. Sebaliknya, kita mengandalkan **heuristik**, yaitu aturan praktis yang menyederhanakan penilaian rumit menjadi keputusan cepat.
 
 Contohnya sederhana. Kalau ada dua warung, satu ramai dan satu sepi, kamu cenderung memilih yang ramai tanpa mengecek daftar harga atau kebersihan dapurnya. Aturan praktisnya: "ramai berarti enak". Sering benar, kadang meleset. Itulah watak heuristik. Ia hemat energi, tapi tidak akurat sempurna.
 
@@ -61,7 +61,7 @@ Karena itu hoaks yang bagus jarang bertele-tele. Ia ringkas, bombastis, dan enak
 
 ### Kenapa ini penting untuk kamu sadari
 
-Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Bahkan orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
+Tidak satu pun dari bias di atas berhubungan dengan **kecerdasan**. Orang pandai pun punya otak yang sama malasnya soal jalan pintas. Orang yang berpendidikan tinggi bisa lebih lihai membela hoaks yang cocok dengan keyakinannya, karena ia punya lebih banyak amunisi argumen untuk membenarkan bias konfirmasinya.
 
 Jadi pertahanan pertama bukanlah merasa "aku terlalu pintar untuk tertipu". Justru sebaliknya. Pertahanan pertama adalah **menyadari bahwa otakmu memang dirancang untuk mengambil jalan pintas**, lalu sengaja memperlambat diri di titik-titik yang rawan: saat sebuah kabar terasa terlalu pas dengan selera, terlalu dramatis, terlalu akrab, terlalu resmi, atau terlalu mulus.
 

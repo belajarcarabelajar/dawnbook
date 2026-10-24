@@ -6,7 +6,7 @@ Itu bukan karena kamu bodoh atau tidak menyimak. Itu adalah salah satu temuan pa
 
 ### Apa itu efek pengaruh berkelanjutan
 
-Efek pengaruh berkelanjutan, atau *continued influence effect*, adalah kecenderungan informasi yang salah untuk tetap memengaruhi ingatan dan penalaran kita, bahkan setelah informasi itu dikoreksi dengan jelas dan kita menerima koreksinya (Lewandowsky dkk., 2012). Kita bukan cuma "sulit melupakan" info salah. Kita terus memakainya untuk menyimpulkan sesuatu, tanpa sadar, meski di lain sisi kita tahu itu sudah diralat.
+Efek pengaruh berkelanjutan, atau *continued influence effect*, adalah kecenderungan informasi yang salah untuk terus memengaruhi ingatan dan penalaran kita, bahkan setelah informasi itu dikoreksi dengan jelas dan kita menerima koreksinya (Lewandowsky dkk., 2012). Kita bukan cuma "sulit melupakan" info salah. Kita terus memakainya untuk menyimpulkan sesuatu, tanpa sadar, meski di lain sisi kita tahu itu sudah diralat.
 
 Riset ini penting karena membantah asumsi yang kelihatan masuk akal: bahwa kalau kita mengoreksi hoaks, maka hoaks itu selesai. Ternyata tidak sesederhana itu. Koreksi jarang menghapus jejak info salah sampai bersih. Ia lebih sering hanya menumpuk di atasnya.
 
@@ -20,7 +20,7 @@ Ketika koreksi datang dan mencabut satu bagian ("sebenarnya tidak ada cat dan ga
 
 Karena itulah info lama tetap dipakai. Ia mengisi lubang yang ditinggalkan koreksi, sederhananya karena belum ada penjelasan lain yang menggantikannya.
 
-Ada faktor kedua yang bikin masalah ini lebih licin: **familiaritas**. Saat kamu mengoreksi sebuah mitos, mau tidak mau kamu mengulang mitos itu. "Vaksin tidak menyebabkan autisme" tetap mengandung kata "vaksin" dan "autisme" berdampingan. Setiap pengulangan membuat kaitan itu terasa makin akrab, dan otak sering menyamakan "terasa akrab" dengan "terasa benar". Jadi koreksi yang ceroboh bisa tanpa sengaja memperkuat justru hal yang ingin dibantah.
+Ada faktor kedua yang bikin masalah ini lebih licin: **familiaritas**. Saat kamu mengoreksi sebuah mitos, mau tidak mau kamu mengulang mitos itu. "Vaksin tidak menyebabkan autisme" mengandung kata "vaksin" dan "autisme" berdampingan. Setiap pengulangan membuat kaitan itu terasa makin akrab, dan otak sering menyamakan "terasa akrab" dengan "terasa benar". Jadi koreksi yang ceroboh bisa tanpa sengaja memperkuat hal yang ingin dibantah.
 
 ### "Backfire effect" dan alasan tak perlu takut mengoreksi
 
@@ -28,7 +28,7 @@ Di sini ada satu hal yang perlu diluruskan, karena mitosnya sendiri sempat bered
 
 Dulu banyak yang khawatir soal **backfire effect**: gagasan bahwa mengoreksi keyakinan salah seseorang justru membuat ia makin yakin pada keyakinan salahnya, seolah koreksi malah menjadi bumerang. Kekhawatiran ini membuat sebagian orang ragu mengoreksi hoaks sama sekali.
 
-Kabar baiknya, bukti terbaru menunjukkan bahwa backfire effect **jarang terjadi** dan sulit direplikasi. Secara umum, koreksi tetap membantu: menyajikan fakta yang benar rata-rata membuat keyakinan pada info salah menurun, bukan naik (Lewandowsky dkk., 2020, dalam *The Debunking Handbook*). Artinya, ketakutan lama itu sendiri adalah semacam mitos yang perlu dikoreksi.
+Kabar baiknya, bukti terbaru menunjukkan bahwa backfire effect **jarang terjadi** dan sulit direplikasi. Secara umum, koreksi membantu: menyajikan fakta yang benar rata-rata membuat keyakinan pada info salah menurun, bukan naik (Lewandowsky dkk., 2020, dalam *The Debunking Handbook*). Artinya, ketakutan lama itu sendiri adalah semacam mitos yang perlu dikoreksi.
 
 Kesimpulan praktisnya jelas: **jangan takut mengoreksi**. Risiko bahwa koreksimu akan menjadi bumerang jauh lebih kecil daripada yang pernah dikhawatirkan. Yang perlu kamu pikirkan bukan apakah harus mengoreksi, tapi bagaimana caranya supaya koreksi itu benar-benar menempel.
 
@@ -38,7 +38,7 @@ Kalau koreksi asal tempel sering gagal, koreksi yang dirancang dengan baik punya
 
 1. **Pimpin dengan faktanya, bukan dengan mitosnya.** Mulai dari apa yang benar, sampaikan dengan jelas dan sederhana. Fakta inilah yang akan mengisi lubang di model mental, jadi ia harus datang lebih dulu dan mudah diingat.
 2. **Beri peringatan sebelum menyebut mitos.** Kasih tanda dulu bahwa yang berikut ini keliru, misalnya "banyak yang salah mengira bahwa...". Peringatan ini membuat otak bersiap, sehingga mitosnya tidak terserap begitu saja.
-3. **Sebut mitosnya sekali saja.** Jangan diulang-ulang. Setiap pengulangan menambah familiaritas dan justru menguatkan yang ingin kamu bantah. Sekali, secukupnya, lalu tinggalkan.
+3. **Sebut mitosnya sekali saja.** Jangan diulang-ulang. Setiap pengulangan menambah familiaritas dan ikut menguatkan yang ingin kamu bantah. Sekali, secukupnya, lalu tinggalkan.
 4. **Jelaskan kenapa mitos itu salah, dan motif di baliknya.** Tunjukkan letak kesalahannya, atau siapa yang untung dari menyebarkannya. Memahami mekanisme kekeliruan jauh lebih kuat daripada sekadar diberi tahu "itu salah".
 5. **Tawarkan penjelasan alternatif yang mengisi lubang.** Ini bagian yang paling sering dilupakan. Jangan cuma mencabut sebab yang salah, tapi sediakan sebab yang benar. Kembali ke cerita gudang: jangan berhenti di "tidak ada cat dan gas", tapi lanjutkan dengan "apinya membesar karena angin kencang dan bangunan tua yang kering". Dengan begitu cerita jadi utuh lagi, dan otak tidak perlu kembali ke versi lama.
 
@@ -55,10 +55,10 @@ Ringkasnya:
 
 Semua ini menegaskan satu hal yang agak tidak enak: mengoreksi hoaks setelah tersebar itu sulit, mahal secara usaha, dan tidak pernah sepenuhnya bersih. Jejak info salah cenderung tertinggal walau sudah kamu lakukan dengan benar.
 
-Justru karena itu, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
+Karena itu pula, ada pendekatan lain yang makin banyak dilirik: mencegah sebelum orang telanjur percaya. Alih-alih memadamkan api yang sudah menyala, kita membangun daya tahan lebih awal, supaya hoaks tidak mudah menempel sejak awal. Pendekatan ini disebut **prebunking**, dan kita akan membahasnya tersendiri di Bab 11.
 
 ## Kesimpulan Bab
 
-Efek pengaruh berkelanjutan menjelaskan kenapa hoaks tetap memengaruhi cara kita berpikir walau sudah diralat: koreksi meninggalkan lubang dalam model mental kita, dan otak lebih suka mengisi lubang itu dengan cerita lama yang utuh daripada membiarkannya kosong. Ditambah lagi, mengulang mitos saat mengoreksi bisa membuatnya terasa makin akrab dan makin dipercaya. Kabar baiknya, kekhawatiran lama soal *backfire effect* ternyata dibesar-besarkan: koreksi umumnya tetap membantu, jadi jangan takut mengoreksi. Yang penting adalah caranya: pimpin dengan fakta, beri peringatan sebelum menyebut mitos, sebut mitos sekali saja, jelaskan kenapa ia salah, dan sediakan penjelasan alternatif yang mengisi lubang.
+Efek pengaruh berkelanjutan menjelaskan kenapa hoaks masih memengaruhi cara kita berpikir walau sudah diralat: koreksi meninggalkan lubang dalam model mental kita, dan otak lebih suka mengisi lubang itu dengan cerita lama yang utuh daripada membiarkannya kosong. Ditambah lagi, mengulang mitos saat mengoreksi bisa membuatnya terasa makin akrab dan makin dipercaya. Kabar baiknya, kekhawatiran lama soal *backfire effect* ternyata dibesar-besarkan: koreksi umumnya membantu, jadi jangan takut mengoreksi. Yang penting adalah caranya: pimpin dengan fakta, beri peringatan sebelum menyebut mitos, sebut mitos sekali saja, jelaskan kenapa ia salah, dan sediakan penjelasan alternatif yang mengisi lubang.
 
 Karena koreksi setelah kejadian selalu setengah kalah, pertahanan terbaik dibangun jauh sebelum hoaks datang. Dan pertahanan itu dimulai dari keterampilan dasar yang akan kita masuki di modul berikutnya: **Literasi Digital dan Berpikir Kritis**.
