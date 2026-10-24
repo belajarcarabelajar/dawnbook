@@ -28,7 +28,7 @@ Sebelum menyentuh RPP kamu, tinjau kembali data dari instrumen observasi dan rek
   $$
   </div>
 
-### 2. Revisi RPP (Refining the Blueprint)
+### 2. Revisi RPP
 
 Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. Jangan merombak seluruh isi jika hanya satu bagian yang bermasalah.
 
@@ -36,7 +36,7 @@ Setelah mengetahui kelemahannya, saatnya melakukan "bedah" pada RPP Mikro kamu. 
 - **Penyesuaian Alokasi Waktu:** Jika sebelumnya kamu kekurangan waktu di bagian penutup, kurangi durasi di bagian apersepsi.
 - **Visualisasi Baru:** Jika media sebelumnya sulit dilihat, tentukan posisi peletakan media yang lebih strategis dalam RPP.
 
-### 3. Simulasi Mandiri (The Mental Rehearsal)
+### 3. Simulasi Mandiri
 
 Sebelum tampil di depan audiens sebenarnya, lakukan *run-through* secara mandiri.
 
@@ -75,7 +75,7 @@ Bayangkan kamu sedang mengasah pisau. Sesi pertama adalah saat kamu menyadari ba
 2. **Perubahan Teknik:** Guru mengganti metode ceramah menjadi teknik bertanya: *"Jika kalian berada di kongres itu, kata apa yang akan kalian tambahkan?"*
 3. **Hasil:** Pada sesi kedua, suasana kelas lebih hidup karena ada interaksi fisik dengan media dan pertanyaan pemantik yang menantang imajinasi.
 
-## Mengapa Re-teaching Sangat Penting?
+## Mengapa Re-teaching Penting?
 
 - **Membangun Kepercayaan Diri:** Keberhasilan memperbaiki kesalahan memberikan dorongan psikologis yang besar bagi pendidik.
 - **Internalisasi Keterampilan:** Pengulangan yang terukur membantu otot memori (*muscle memory*) dalam mengajar terbentuk dengan benar.

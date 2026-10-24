@@ -4,7 +4,7 @@ Pernahkah kamu berdiri di depan kelas, merasa semuanya berjalan lancar, namun ke
 
 Instrumen ini bukan sekadar lembaran kertas untuk memberi nilai, melainkan alat navigasi yang mengubah kesan abstrak menjadi data konkret. Tanpa instrumen yang jelas, umpan balik akan menjadi terlalu subjektif seperti, *"Saya rasa cara mengajarmu bagus,"* yang sayangnya tidak membantu pertumbuhan profesional secara spesifik.
 
-## 1. Esensi Observasi dalam Microteaching
+## 1. Peran Observasi dalam Microteaching
 
 Dalam konteks *microteaching*, pengamat (biasanya rekan sejawat atau pembimbing) bertugas menangkap fenomena yang terjadi selama 10-15 menit simulasi.
 
@@ -14,7 +14,7 @@ Data objektif menghilangkan bias personal. Bayangkan seorang pengamat yang secar
 
 > **Insight:** Observasi yang baik tidak mencari kesalahan, melainkan mencari kesenjangan antara apa yang direncanakan dalam RPP Mikro dengan apa yang sebenarnya terjadi di kelas.
 
-## 2. Anatomi Instrumen Observasi
+## 2. Komponen Instrumen Observasi
 
 Sebuah instrumen observasi yang efektif biasanya terdiri dari tiga komponen utama:
 

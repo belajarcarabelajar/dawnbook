@@ -41,7 +41,7 @@ timeline
 
 Mengajar adalah sebuah seni sekaligus sains. Tanpa microteaching, seorang pendidik pemula sering kali mengalami *reality shock* saat pertama kali berdiri di depan kelas sungguhan. Berikut adalah alasan mengapa microteaching penting:
 
-### 1. Jembatan Teori dan Praktik
+### 1. Menghubungkan Teori dan Praktik
 
 Banyak mahasiswa menguasai teori psikologi pendidikan atau metodologi secara akademis, namun "blank" saat harus mengaplikasikannya. Microteaching mengubah pengetahuan abstrak menjadi tindakan nyata.
 
@@ -82,7 +82,7 @@ flowchart LR
 
 *Pikirkan tentang ini: Jika seorang atlet profesional berlatih ribuan kali hanya untuk satu gerakan smash atau tendangan penalti, bukankah seorang pendidik juga butuh latihan yang sama intensnya?*
 
-## Aplikasi Nyata dan Skenario
+## Contoh dari Calon Guru dan Guru Profesional
 
 Microteaching tidak hanya untuk mahasiswa. Guru profesional pun menggunakannya untuk beradaptasi dengan kurikulum baru atau teknologi baru.
 

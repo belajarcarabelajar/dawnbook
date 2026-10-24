@@ -34,7 +34,7 @@ Tonton kembali dengan membawa instrumen observasi atau RPP (Rencana Pelaksanaan 
 - Catat durasi waktu (time-stamp).
 - Gunakan rumus sederhana untuk melihat manajemen waktu: $\Delta T = T_{\text{aktual}} - T_{\text{rencana}}$ Jika $\Delta T$ bernilai positif besar pada bagian pembukaan, kamu mungkin kehilangan waktu terlalu banyak untuk basa-basi.
 
-### 4. Identifikasi "The Gap" (Celah Perencanaan vs Pelaksanaan)
+### 4. Identifikasi Celah antara Rencana dan Pelaksanaan
 
 Ini adalah inti dari refleksi. Bandingkan apa yang tertulis di skenario RPP dengan apa yang terekam di video.
 

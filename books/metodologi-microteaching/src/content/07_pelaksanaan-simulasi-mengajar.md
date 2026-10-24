@@ -14,7 +14,7 @@ Volume bukan berarti berteriak. Proyeksi adalah kemampuan mengirimkan suara ke b
 
 - **Tip:** Bayangkan kamu sedang berbicara dengan seseorang yang duduk di baris paling belakang, bukan hanya yang di depan meja kamu.
 
-### B. Intonasi dan Variasi (The Melody)
+### B. Intonasi dan Variasi Nada
 
 Suara yang datar (monoton) membuat siswa mengantuk. Gunakan variasi nada untuk:
 
@@ -53,7 +53,7 @@ Tangan kamu harus membantu menjelaskan konsep, bukan menjadi gangguan.
 - **Center of Interest:** Jangan terpaku di satu titik (seperti patung). Bergeraklah ke sisi kiri atau kanan kelas secara natural.
 - **Postur:** Berdiri tegak menunjukkan kepercayaan diri. Hindari bersandar pada meja guru atau papan tulis.
 
-## 3. Manajemen Waktu yang Ketat (The Clock is Ticking)
+## 3. Manajemen Waktu yang Ketat
 
 Dalam microteaching, waktu biasanya dibatasi antara **10 hingga 15 menit**. Mengelola waktu ini adalah tantangan teknis terbesar.
 

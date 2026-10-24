@@ -4,7 +4,7 @@ Dalam siklus *microteaching*, tahap pemberian umpan balik (*feedback*) adalah mo
 
 Materi ini akan membahas bagaimana memberikan dan menerima kritik dengan cara yang memberdayakan, bukan menjatuhkan, guna memastikan setiap sesi *microteaching* menghasilkan peningkatan kompetensi yang nyata.
 
-### 1. Umpan Balik Bukan Penghakiman, Tapi Kompas
+### 1. Umpan Balik Bukan Penghakiman
 
 Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan anak panah, kamu tidak akan pernah tahu apakah kamu perlu menggeser busur ke kiri atau ke kanan. Umpan balik dalam *microteaching* berfungsi seperti instruktur panah yang mengatakan, *"Anak panahmu jatuh 5 cm di sebelah kanan sasaran karena posisi bahumu terlalu tegang."*
 
@@ -16,7 +16,7 @@ Bayangkan kamu sedang belajar memanah. Jika kamu menutup mata setelah melepaskan
 
 > "Umpan balik adalah sarapan bagi para juara. Dalam dunia pendidikan, umpan balik adalah nutrisi utama untuk pertumbuhan profesionalisme."
 
-### 2. Etika Memberikan Umpan Balik (The Giver's Guide)
+### 2. Etika Memberikan Umpan Balik
 
 Memberikan kritik kepada rekan sejawat membutuhkan empati dan teknik komunikasi yang matang agar pesan dapat diterima tanpa memicu defensifitas.
 
@@ -50,7 +50,7 @@ Agar umpan balik tidak bias, gunakan model **SBI (Situation, Behavior, Impact)**
 | **Behavior** | Apa perilaku spesifik yang teramati? | "...kamu hanya memberikan kesempatan menjawab kepada siswa di barisan depan." |
 | **Impact** | Apa dampak perilaku tersebut terhadap kelas? | "Akibatnya, siswa di barisan belakang mulai terlihat tidak fokus dan asyik mengobrol sendiri." |
 
-### 4. Seni Menerima Umpan Balik (The Receiver's Mindset)
+### 4. Cara Menerima Umpan Balik
 
 Menerima kritik seringkali memicu reaksi *fight-or-flight* di otak kita. Sebagai calon guru profesional, kamu perlu melatih **Growth Mindset**.
 

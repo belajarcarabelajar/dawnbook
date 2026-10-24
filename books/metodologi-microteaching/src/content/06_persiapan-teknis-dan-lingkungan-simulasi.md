@@ -4,7 +4,7 @@ Bayangkan seorang sutradara film sebelum memulai syuting. Ia tidak hanya mengand
 
 Meskipun fokus utamanya adalah melatih keterampilan mengajar kamu, performa tersebut akan terhambat jika lingkungan fisik dan teknisnya berantakan. Persiapan teknis adalah "fondasi" yang memungkinkan "bangunan" instruksional kamu berdiri tegak.
 
-### 1. Arsitektur Ruang Mikro
+### 1. Tata Letak Ruang Mikro
 
 Dalam *microteaching*, jumlah siswa biasanya terbatas (5-10 orang). Oleh karena itu, tata letak ruang harus mencerminkan kedekatan namun tetap mempertahankan struktur kelas formal.
 

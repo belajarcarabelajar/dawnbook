@@ -31,7 +31,7 @@ Gunakan prinsip **SMART** (*Specific, Measurable, Achievable, Relevant, Time-bou
 
 *Contoh:* "Melalui eksperimen sederhana (kegiatan), siswa dapat **menjelaskan** (perilaku) perbedaan massa jenis air dan minyak (materi) dengan **tepat** (kriteria) dalam waktu 5 menit."
 
-### C. Skenario Pembelajaran (The Time-Boxed Script)
+### C. Skenario Pembelajaran Berbatas Waktu
 
 Ini adalah bagian inti dari RPP Mikro. Kamu harus membagi waktu dengan cermat:
 
