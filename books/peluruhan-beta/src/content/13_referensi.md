@@ -12,4 +12,6 @@
 
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
-7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413
+7. Pauli, W. (1930). [Surat terbuka kepada peserta pertemuan fisika di Tübingen, Zürich, 4 Desember 1930 (terjemahan Inggris dikutip dalam bahan kuliah PHYS 5380, Southern Methodist University)](https://www.physics.smu.edu/ryszard/5380fa20/lecture-4.pdf).
+
+8. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413

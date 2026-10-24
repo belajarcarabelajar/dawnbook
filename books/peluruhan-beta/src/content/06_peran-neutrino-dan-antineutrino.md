@@ -15,9 +15,9 @@ Secara matematis, jika sebuah inti atom $A$ meluruh menjadi $B$ dan sebuah elekt
 
 ### 2. Surat Wolfgang Pauli Tahun 1930
 
-Pada tahun 1930, **Wolfgang Pauli** menulis surat terkenal kepada rekan-rekannya yang sedang menghadiri konferensi fisika. Ia mengusulkan keberadaan partikel netral bermassa sangat kecil yang dipancarkan bersama elektron dalam peluruhan beta.
+Pada tahun 1930, **Wolfgang Pauli** menulis surat terkenal kepada rekan-rekannya yang sedang menghadiri pertemuan fisika di Tübingen. Ia mengusulkan keberadaan partikel netral bermassa sangat kecil yang dipancarkan bersama elektron dalam peluruhan beta.
 
-> "Saya telah melakukan sesuatu yang mengerikan. Saya telah mempostulatkan sebuah partikel yang tidak dapat dideteksi." - **Wolfgang Pauli**
+> "Saya telah menemukan sebuah jalan keluar yang putus asa untuk menyelamatkan hukum kekekalan energi. ... Untuk sementara, saya tidak berani menerbitkan apa pun tentang gagasan ini." - **Wolfgang Pauli**, surat 4 Desember 1930
 
 Pauli menyebutnya neutron, namun setelah James Chadwick menemukan partikel berat di inti atom yang sekarang kita kenal sebagai neutron, **Enrico Fermi** mengubah nama partikel kecil Pauli menjadi **Neutrino** (bahasa Italia untuk si kecil yang netral).
 
