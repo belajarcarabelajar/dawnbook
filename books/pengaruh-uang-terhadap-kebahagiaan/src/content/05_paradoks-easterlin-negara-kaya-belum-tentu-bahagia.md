@@ -1,6 +1,6 @@
 ## Paradoks Easterlin
 
-Coba perhatikan gambaran ini. Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade. Pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam dari tahun ke tahun. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
+Sebuah negara tumbuh hampir tanpa henti selama beberapa dekade: pabrik bermunculan, jalan raya memanjang, pendapatan rata-rata warganya naik tajam. Kalau kamu diminta menebak nasib rasa bahagia warganya, tebakan paling wajar tentu: ikut naik, kan?
 
 Sekarang bagian yang membingungkan. Pada 1974, ekonom Richard Easterlin dari Universitas Pennsylvania menjodohkan dua jenis data yang jarang dipertemukan: catatan pertumbuhan ekonomi dan hasil survei kebahagiaan. Dari Amerika Serikat, Jepang, hingga beberapa negara Eropa, pola yang ia temukan nyaris menampar: pendapatan rata-rata naik terus, tetapi rata-rata rasa bahagia warga tidak ikut naik sebesar yang diduga. Ekonomi berlari kencang, kebahagiaan berjalan santai.
 
@@ -57,7 +57,7 @@ Jadi mana yang benar setelah dua kubu saling menunjuk data? Mari kita rangkai ja
 
 Klaim paling radikal, yaitu "pertumbuhan tidak membeli apa-apa bagi kebahagiaan rata-rata", tidak didukung data. Versi paradoks yang terlalu kuat itulah yang paling mudah dipatahkan.
 
-Klaim yang lebih hati-hati justru tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong, dan bab berikutnya menyediakan buktinya: ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
+Klaim yang lebih hati-hati justru tetap bertahan: **pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan oleh perbandingan sosial**. Uang tetap berhubungan dengan kesejahteraan, tapi hubungan itu tidak sekencang imajinasi kita, dan sebagian dari apa yang dibelinya menguap begitu semua orang memilikinya. Bagian kedua klaim ini bukan tebakan kosong: di bab 6, ekonom Erzo Luttmer menunjukkan bagaimana gaji tetangga bisa membuat gaji kita sendiri terasa kurang.
 
 ### Kenapa ini relevan untuk kita di Indonesia
 
@@ -69,10 +69,8 @@ Maka ajakan bab ini sederhana: kenali asumsi "makin kaya negara, makin bahagia s
 
 ## Kesimpulan Bab
 
-- Di tingkat negara, uang memang berhubungan dengan kesejahteraan: orang kaya lebih bahagia daripada orang miskin pada satu waktu, dan Stevenson serta Wolfers (2008) menemukan hubungan positif antara pertumbuhan ekonomi dan rata-rata kesejahteraan.
-- Tapi hubungan itu tidak sesederhana "ekonomi naik, semua orang bahagia". Klaim kuat yang menyatakan pertumbuhan tidak membeli apa-apa juga tidak didukung data.
-- Easterlin (1974) menjelaskan jarak antara keduanya lewat dua mesin: perbandingan sosial dan aspirasi yang ikut naik. Ketika semua orang maju bersama, posisi relatif dan standar pribadi ikut bergeser, sehingga rasa puas rata-rata tidak banyak berubah.
-- Perdebatan belum tuntas, tapi klaim yang bertahan adalah versi hati-hati: pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan perbandingan sosial.
+- Pada satu waktu orang kaya lebih bahagia daripada orang miskin, tapi Easterlin (1974) melihat rata-rata kebahagiaan nyaris diam saat pendapatan nasional naik, dan ia menjelaskannya lewat perbandingan sosial dan aspirasi yang ikut naik.
+- Stevenson dan Wolfers (2008) menemukan hubungan positif antara pertumbuhan ekonomi dan rata-rata kesejahteraan. Perdebatan belum tuntas, tapi klaim yang bertahan adalah versi hati-hati: pertumbuhan membeli lebih sedikit dari dugaan, dan sebagian manfaatnya dimakan perbandingan sosial.
 - Bagi kita di Indonesia, paradoks ini mengajak mengecek asumsi bahwa hidup pasti lebih bahagia dari generasi sebelumnya hanya karena ekonomi tumbuh.
 
-Satu catatan besar dari bab ini: separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antar manusia, yaitu bagaimana kita membandingkan diri dengan orang lain. Bab berikutnya turun ke sana: ke tetangga yang gajinya naik, ke rekan kerja yang mendapat promosi, dan ke eksperimen Luttmer yang membuktikan kebahagiaan kita bisa tergerus tanpa ada yang mengambil apa pun dari kita.
+Separuh jawaban atas pertanyaan "uang dan kebahagiaan" tidak tinggal di angka ekonomi, melainkan di relasi antar manusia: di tetangga yang gajinya naik dan rekan kerja yang mendapat promosi.
