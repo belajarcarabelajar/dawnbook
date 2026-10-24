@@ -50,13 +50,13 @@ Di ranah kepemimpinan, visi masa depan tidak berhenti pada perburuan laba, tetap
 
 Sebagai bayangan, anggaplah sebuah tim sedang meracik algoritma media sosial yang dirancang demi mendongkrak interaksi pengguna. Seseorang yang eksistensial akan mempertanyakan apakah algoritma tersebut pada akhirnya memanipulasi kejiwaan publik demi mengejar pertumbuhan angka semata.
 
-## Ruang Asah Intuisi
+## Melatih Kepekaan Eksistensial
 
 Walau terkadang terlihat sebagai bakat bawaan, kepekaan terhadap isu universal sepenuhnya bisa dipertajam. Membiasakan diri dalam dialog panjang tanpa paksaan mencari satu jawaban mutlak merupakan langkah latihan yang kuat. Rutinitas diskusi bebas melatih otak dalam menoleransi ketidakpastian.
 
 Gagasan-gagasan filsafat juga memperluas rentang perspektif dalam menilai kehidupan. Ada kalanya kamu perlu jeda untuk menepi sesaat dari arus informasi dan merenung, jauh dari kebisingan harian. Terlibat langsung dalam isu-isu lingkungan mempermudah tumbuhnya ikatan antara satu manusia dengan alam sebagai satu kesatuan.
 
-## Landasan dan Skala Kosmik
+## Estimasi Jumlah Bintang di Alam Semesta
 
 Ketertarikan pada semesta sering beririsan dengan pemodelan saintifik berskala besar. Sebagai gambaran, estimasi jumlah bintang di alam semesta teramati biasa dituliskan seperti ini:
 

@@ -63,7 +63,7 @@ flowchart TD
 
 Dalam realitasnya, percabangan semacam ini dijalankan oleh otak kita dalam hitungan milidetik. Semakin sering dilatih, proses pengolahan datanya akan menjadi semakin mulus.
 
-## Melatih Otot Interpersonal
+## Melatih Kecerdasan Interpersonal
 
 Kecerdasan ini bukanlah atribut bawaan yang statis. Kamu bisa melatihnya agar menjadi lebih responsif seiring waktu.
 

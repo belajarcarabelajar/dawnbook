@@ -12,6 +12,6 @@
 - [Kecerdasan Eksistensial](content/10_kecerdasan-eksistensial.md)
 - [Implementasi Teori Kecerdasan Majemuk](content/11_implementasi-teori-kecerdasan-majemuk.md)
 - [Kritik, Evaluasi, dan Masa Depan Teori Kecerdasan Majemuk](content/12_kritik-evaluasi-masa-depan.md)
-- [Melihat Kacamata Kritis dari Para Ilmuwan](content/13_melihat-kacamata-kritis.md)
+- [Pandangan Kritis Para Ilmuwan](content/13_melihat-kacamata-kritis.md)
 - [Strategi Mengembangkan Berbagai Kecerdasan](content/14_strategi-mengembangkan.md)
 - [Referensi](content/15_referensi.md)

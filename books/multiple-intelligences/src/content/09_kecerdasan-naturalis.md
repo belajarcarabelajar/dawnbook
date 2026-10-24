@@ -10,11 +10,11 @@ Pada awalnya, Gardner mengusulkan tujuh kecerdasan. Namun, pada tahun 1995, ia m
 
 Individu dengan kecerdasan naturalis yang tinggi memiliki kepekaan lebih terhadap perubahan di lingkungan mereka. Mereka adalah penyusun kategori yang ulung dalam dunia fisik.
 
-### Sang Pustakawan Ekosistem
+### Perpustakaan Organisme dan Fenomena Alam
 
 > Bayangkan otak seorang naturalis seperti sebuah perpustakaan yang isinya berupa katalog organisme dan fenomena alam, alih-alih deretan buku biasa. Saat orang lain hanya melihat "hutan hijau yang rimbun", seorang naturalis melihat rak-rak yang terorganisir: kategori pohon *Dipterocarpaceae*, strata kanopi, kelembapan tanah, hingga jejak hewan di permukaan tanah. Mereka tidak sekadar melihat, mereka **membaca** alam.
 
-## Karakteristik Utama Penyelaras Alam
+## Karakteristik Utama Kecerdasan Naturalis
 
 Seseorang yang memiliki kecerdasan naturalis dominan biasanya sangat peka secara sensorik. Mereka mampu mendeteksi perubahan suhu udara, tekstur daun, atau kicauan burung yang sering dilewatkan orang lain. Di samping itu, mereka punya kemampuan tajam dalam mengklasifikasikan objek fisik dan mengenali pola-pola tertentu.
 
@@ -40,7 +40,7 @@ Kecerdasan ini berkembang seiring bertambahnya kepekaan dan pengalaman. Pada tah
 
 Pada tingkat yang lebih tinggi, seorang naturalis bisa melakukan analisis ekosistem yang berlapis. Mereka mampu memetakan interaksi rumit, misalnya bagaimana aktivitas mikroorganisme dalam tanah memengaruhi ketahanan dan kesehatan hutan secara global.
 
-## Aplikasi Dunia Nyata di Tempat Kerja
+## Profesi yang Mengandalkan Kecerdasan Naturalis
 
 Penerapan kecerdasan ini menjangkau jauh melebihi profesi bertani atau penjaga hutan. Di dunia sains dan konservasi, ahli biologi mengandalkan insting naturalisnya untuk memetakan biodiversitas, menangkap pola-pola dari data lapangan yang barangkali terlihat acak di mata orang biasa. 
 
@@ -48,7 +48,7 @@ Dalam dunia kuliner dan gastronomi, seorang chef andal sering menggunakan ketaja
 
 Bahkan dalam arsitektur modern, pendekatan desain berkelanjutan sangat bergantung pada pengamatan alam. Seorang arsitek bisa mengklasifikasikan mekanisme ventilasi sarang rayap dan menerapkannya untuk merancang gedung hemat energi.
 
-## Si Detektif Hutan
+## Menyelidiki Populasi Burung yang Anjlok
 
 Sebagai contoh, bayangkan sebuah tim peneliti yang ditugaskan ke pedalaman Kalimantan untuk menyelidiki anjloknya populasi spesies burung tertentu. Seorang peneliti dengan kecerdasan naturalis tidak akan sekadar memelototi data statistik di atas kertas. Ia akan masuk ke dalam hutan dan mulai mengamati keadaan sekitarnya.
 

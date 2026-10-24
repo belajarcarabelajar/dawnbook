@@ -65,7 +65,7 @@ Di bidang ekonomi dan keuangan, instrumen kuantitatif dipakai untuk membaca tren
 
 Bidang peradilan sama-sama menuntut kemampuan ini. Praktisi hukum bertugas menyusun fakta yang tersebar di tumpukan berkas menjadi argumen yang saling mengikat dan tahan terhadap bantahan logis. Terakhir, di rekayasa sipil, kekokohan struktur besar seperti jembatan bergantung pada perhitungan ekuilibrium beban tegangan: $\sum F\_x = 0$, $\sum F\_y = 0$, dan $\sum M = 0$.
 
-### 6. Memanaskan Kinerja Logika
+### 6. Menjaga Kelincahan Penalaran
 
 Ada beragam cara santai untuk menjaga kelincahan penalaran. Mengamati pola deret angka bisa menjadi permulaan yang bagus.
 

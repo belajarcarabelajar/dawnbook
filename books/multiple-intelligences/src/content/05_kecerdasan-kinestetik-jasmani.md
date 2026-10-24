@@ -12,7 +12,7 @@ Kecerdasan Kinestetik-Jasmani adalah kemampuan menggunakan tubuh secara keseluru
 
 Keterampilan fisik ini terbagi menjadi dua spektrum utama. Pertama, keterampilan motorik kasar (*gross motor skills*) yang mengandalkan otot-otot besar untuk aktivitas beban seperti berlari dan melompat. Di sisi lain, ada keterampilan motorik halus (*fine motor skills*) yang presisi, berpusat pada otot-otot kecil di tangan dan jari. Keterampilan halus inilah yang diandalkan saat menjahit, mengukir kayu, atau melakukan prosedur medis.
 
-## Tubuh sebagai Instrumen yang Disetel Sempurna
+## Koordinasi Otak dan Otot
 
 Coba bayangkan tubuh manusia sebagai sebuah orkestra. Otak berperan sebagai dirigen, sementara otot-otot adalah instrumennya.
 

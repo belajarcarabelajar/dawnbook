@@ -48,7 +48,7 @@ Setiap dari kita sebenarnya memiliki semua jenis kecerdasan yang ada, hanya saja
 
 Di dunia nyata, berbagai kecerdasan ini beroperasi secara bersamaan dan saling melengkapi. Jarang sekali sebuah aktivitas hanya menuntut satu jenis kemampuan. Misalnya, seorang koki profesional tidak cuma butuh kendali motorik saat memotong bahan (kinestetik); ia juga harus bisa menakar bumbu dengan presisi (logis-matematis) sekaligus memimpin ritme kerja para asistennya di dapur (interpersonal). Pada akhirnya, teori ini menegaskan bahwa tidak ada satu standar mutlak untuk menilai kecerdasan seseorang dalam sebuah bidang, karena selalu ada banyak rute berbeda untuk mencapai keunggulan.
 
-## 5. Meruntuhkan Batas Antara Bakat dan Kecerdasan
+## 5. Kriteria Sebuah Kemampuan Disebut Kecerdasan
 
 Masuknya suatu kemampuan ke dalam kategori kecerdasan majemuk tidak dilakukan sembarangan oleh Gardner. Ada sejumlah kriteria ketat yang harus dipenuhi.
 

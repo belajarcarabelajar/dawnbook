@@ -24,7 +24,7 @@ Catat aktivitas harian kamu selama seminggu dan berikan skor 1 sampai 10 berdasa
 
 > **Insight:** Kecerdasan dominan adalah "bahasa ibu" otak kamu. Menggunakannya akan selalu terasa lebih alami dan mendatangkan kepuasan tersendiri.
 
-## Strategi Menstimulasi Kecerdasan yang Tertidur
+## Strategi Menstimulasi Kecerdasan yang Masih Lemah
 
 Jangan patah semangat jika merasa kurang di satu atau dua bidang. Otak manusia memiliki **neuroplastisitas**, yakni kemampuan untuk membentuk koneksi saraf baru berdasarkan pengalaman dan latihan berulang. 
 

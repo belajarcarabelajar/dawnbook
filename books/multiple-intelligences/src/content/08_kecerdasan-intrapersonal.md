@@ -56,7 +56,7 @@ Di mana:
 
 Seseorang dengan kecerdasan intrapersonal tinggi mampu meminimalkan variabel $\text{Ego}$ dan $\text{Tekanan Luar}$ untuk mencapai keputusan yang paling otentik.
 
-## 5. Aplikasi Dunia Nyata & Skenario
+## 5. Peran di Berbagai Bidang Profesi
 
 Kecerdasan ini berperan dalam pencapaian di banyak bidang, dan keberadaannya amat penting dalam profesi tertentu.
 

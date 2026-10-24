@@ -64,7 +64,7 @@ $$
 
 Sudut $u$ bergerak dari $0$ sampai $2\pi$, sedangkan sudut $v$ bergerak dari $0$ sampai $\pi$. Setiap pasangan sudut menghasilkan satu titik $(x, y, z)$ di permukaan bola. Ketika titik-titik itu disambung dengan garis, tampaklah kerangka bola di dalam ruang. Contoh ini menunjukkan bahwa persamaan matematika dapat diubah menjadi bentuk ruang yang nyata.
 
-## 6\. Sang Penjelajah Hutan
+## 6\. Peneliti yang Tersesat di Hutan
 
 Bayangkan seorang peneliti terjebak di hutan lebat tanpa bantuan sistem navigasi digital. Pada tahap awal, ia memperhatikan pola lumut di pepohonan yang menunjukkan arah utara serta mengevaluasi kemiringan tanah. Selanjutnya, proses transformasi mental terjadi ketika ia membayangkan peta topografi yang sempat dibacanya di kamp, lalu memadukan situasi aktual di depannya dengan peta di dalam ingatannya. Berdasarkan perhitungan visual tersebut, ia merancang jalur alternatif melingkari bukit untuk mencapai sumber air terdekat.
 
