@@ -77,6 +77,6 @@ Membentuk karakter tentu ada rintangannya. Ada resistensi awal di mana melakukan
 
 > **Penting:** Karakter bisa bergerak ke dua arah. Membiasakan diri pada tindakan baik akan menghasilkan kebajikan (*virtue*), sedangkan membiasakan diri pada hal buruk akan melahirkan cacat moral (*vice*).
 
-## Kesimpulan
+## Karakter yang Diukir Setiap Hari
 
 Habituasi berfungsi sebagai jembatan yang menghubungkan antara sekadar **mengetahui** apa yang baik dan **menjadi** orang baik seutuhnya. Karakter bukanlah takdir yang turun dari langit sejak kita lahir. Karakter adalah karya pahatan yang kita ukir setiap hari melalui rentetan pilihan-pilihan kecil yang konsisten.

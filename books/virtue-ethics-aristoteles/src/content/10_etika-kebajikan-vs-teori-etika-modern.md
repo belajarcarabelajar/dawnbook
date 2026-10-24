@@ -68,6 +68,6 @@ Para pendukung teori modern sering mengkritik Etika Kebajikan karena dianggap ku
 
 Meskipun teori modern membantu kita mengambil keputusan secara lebih pasti, Etika Kebajikan menyentuh aspek motivasi terdalam mengenai alasan kita ingin menjadi orang baik sejak awal.
 
-### Kesimpulan
+### Bukan Soal Siapa yang Paling Benar
 
 Membandingkan Etika Kebajikan dengan teori modern bukan tentang mencari siapa yang paling benar. Deontologi menjaga kita tetap pada jalur melalui aturan yang adil, sementara Utilitarianisme mengingatkan kita untuk mempertimbangkan dampak suatu tindakan terhadap orang lain. Di sisi lain, Etika Kebajikan memastikan bahwa kita memiliki fondasi karakter yang matang untuk menjalankan aturan-aturan tersebut secara bijaksana dan didorong oleh motivasi yang tepat. Tanpa karakter, aturan akan menjadi beban belaka dan hasil akhir hanya sekumpulan angka tanpa makna.
