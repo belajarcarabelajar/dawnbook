@@ -1,6 +1,6 @@
 ## Menjaga Keberlanjutan Gaya Hidup
 
-Selamat! Kamu telah berhasil melewati proses panjang, dari sekadar memahami psikologi ekonomi perhatian hingga mengeksekusi pembersihan total (*digital declutter*). Tantangan yang sesungguhnya ada setelah ini. Memastikan agar setahun dari sekarang kamu tidak kembali ke kebiasaan *scrolling* tanpa henti butuh usaha lebih dari sekadar sanggup menahan diri selama 30 hari.
+Kamu sudah melewati proses panjang, dari sekadar memahami psikologi ekonomi perhatian hingga mengeksekusi pembersihan total (*digital declutter*). Tantangan yang sesungguhnya ada setelah ini. Memastikan agar setahun dari sekarang kamu tidak kembali ke kebiasaan *scrolling* tanpa henti butuh usaha lebih dari sekadar sanggup menahan diri selama 30 hari.
 
 Digital minimalisme adalah praktik yang terus berjalan. Bayangkan kebun yang baru dibersihkan dari gulma; kalau dibiarkan begitu saja, rumput liar pasti tumbuh kembali dengan lebih rapat. Bagian ini hadir sebagai panduan arah untuk merawat "kebun digital" kamu agar tetap tertata meski tren teknologi terus berganti.
 
