@@ -1,6 +1,6 @@
 ## Kecerdasan Naturalis
 
-Bab ini membahas kecerdasan kedelapan dalam teori Howard Gardner. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela, ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
+Kecerdasan kedelapan dalam teori Howard Gardner adalah kecerdasan naturalis. Jika sebelumnya kita telah membahas bagaimana manusia mengolah kata, angka, dan ruang, kini saatnya kita menoleh ke luar jendela, ke arah pepohonan, pola awan, dan ekosistem yang menghidupi kita.
 
 Kecerdasan Naturalis melampaui rasa cinta terhadap alam. Kemampuan kognitif ini memungkinkan seseorang mengenali, mengklasifikasikan, dan menarik kesimpulan dari elemen-elemen lingkungan sekitarnya.
 
