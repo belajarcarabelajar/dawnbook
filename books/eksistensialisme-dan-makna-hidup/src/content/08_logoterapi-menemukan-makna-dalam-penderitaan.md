@@ -71,7 +71,7 @@ Frankl merancang metode praktis untuk membebaskan pasien dari lingkaran setan ke
 1. **Intensi Paradoks (*Paradoxical Intention*):** Teknik ini menantang seseorang untuk menginginkan hal yang paling mereka takuti. Misalnya, jika kamu tersiksa oleh insomnia, cobalah memaksa diri untuk tetap terjaga sepanjang malam. Begitu tekanan untuk harus tertidur dilepaskan, kecemasan biasanya mereda dan tidur datang dengan sendirinya.
 2. **Derefleksi (*Dereflection*):** Langkah ini mengalihkan perhatian yang berlebihan dari diri sendiri dan masalah pribadi menuju hal-hal atau orang lain di luar sana yang membutuhkan kontribusi nyata.
 
-### 6. Aplikasi Dunia Nyata dan Skenario
+### 6. Contoh Penerapan Logoterapi
 
 #### Menghadapi Kehilangan Pekerjaan
 

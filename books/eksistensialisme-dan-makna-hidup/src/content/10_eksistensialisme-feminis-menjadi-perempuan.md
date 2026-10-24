@@ -55,7 +55,7 @@ Dalam sudut pandang Beauvoir, andai Sinta menyerah pada tekanan keluarga hanya d
 
 Sebagai gantinya, tindakan eksistensial yang autentik menuntut Sinta untuk menyadari bahwa identitas gendernya tidak mendikte jalan hidupnya. Ia memegang kedaulatan penuh untuk mendefinisikan dirinya sendiri. Kebebasan Sinta terwujud saat ia berani memilih dan menekuni proyek hidupnya secara mandiri, melampaui sekat-sekat ekspektasi yang dipasang oleh masyarakat.
 
-### Ringkasan Strategi Menuju Autentisitas
+### Strategi Hidup Autentik
 
 Untuk hidup secara autentik dalam kerangka feminisme eksistensialis, kamu bisa menempuh langkah-langkah berikut:
 

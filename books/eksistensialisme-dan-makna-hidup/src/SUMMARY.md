@@ -4,7 +4,7 @@
 - [Akar Historis Kierkegaard dan Nietzsche](content/02_akar-historis-kierkegaard-dan-nietzsche.md)
 - [Menghadapi Absurditas Dunia bersama Albert Camus](content/03_menghadapi-absurditas-dunia-pelajaran-dari-albert-camus.md)
 - [Kebebasan Radikal dan Beban Tanggung Jawab](content/04_kebebasan-radikal-dan-beban-tanggung-jawab.md)
-- [Kecemasan (Angst) sebagai Gerbang Kesadaran](content/05_kecemasan-angst-sebagai-gerbang-kesadaran.md)
+- [Kecemasan (Angst) dan Kesadaran Diri](content/05_kecemasan-angst-sebagai-gerbang-kesadaran.md)
 - [Autentisitas vs Bad Faith (Keyakinan Buruk)](content/06_autentisitas-vs-bad-faith-keyakinan-buruk-menanggalkan-topeng-menjadi-diri.md)
 - [Nietzsche dan Transformasi Nilai](content/07_nietzsche-dan-transformasi-nilai.md)
 - [Logoterapi dan Makna dalam Penderitaan](content/08_logoterapi-menemukan-makna-dalam-penderitaan.md)

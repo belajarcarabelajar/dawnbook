@@ -28,7 +28,7 @@ $$
 
 > **Definisi Utama:** Absurditas bukanlah sifat dari dunia itu sendiri, dan bukan pula sifat dari manusia. Absurditas adalah **hubungan** atau "perceraian" antara pikiran manusia yang merindukan kejelasan dengan dunia yang membisu dan tidak logis.
 
-### Si Pencari Gema
+### Teriakan di Lembah
 
 Bayangkan kamu berada di sebuah lembah raksasa. Kamu berteriak sekuat tenaga, "Apa arti hidupku?!" Kamu mengharapkan gema yang bijaksana atau jawaban dari Tuhan. Namun, yang kamu terima hanyalah keheningan total. Lembah itu tidak membenci kamu; ia hanya tidak peduli. Perasaan hampa yang muncul saat teriakanmu tidak terjawab itulah yang disebut Camus sebagai **Momen Absurd**.
 

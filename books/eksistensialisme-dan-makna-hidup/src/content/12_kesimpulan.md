@@ -4,7 +4,7 @@ Kita telah menempuh perjalanan panjang melalui pemikiran eksistensialisme, dari 
 
 Eksistensialisme tidak mengajarkan keputusasaan. Filsafat ini justru mengundang kita untuk merayakan kefanaan hidup. Jika hidup ini abadi, setiap momen tidak akan memiliki nilai karena kita selalu punya "esok" yang tak terbatas. Namun, justru karena hidup ini terbatas, setiap detiknya menjadi berharga.
 
-### 1. Keindahan dalam Keterbatasan
+### 1. Nilai dari Kefanaan
 
 Bayangkan hidupmu sebagai sebuah jam pasir. Kita sering kali merasa cemas melihat butiran pasir yang jatuh ke bawah, menyadari bahwa jumlah di atas semakin sedikit. Namun, eksistensialisme mengajak kita untuk berhenti meratapi pasir yang hilang dan mulai memperhatikan aliran pasir tersebut saat ia melewati celah sempit: **momen saat ini.**
 

@@ -36,7 +36,7 @@ Rutinitas modern sering kali terasa absurd, misalnya bekerja keras di bidang yan
 
 Viktor Frankl mengajarkan bahwa kita sanggup melewati masa-masa sulit jika memiliki alasan kuat untuk bertahan ($\text{Why} \rightarrow \text{How}$). Ketika didera kejenuhan kerja, cobalah bertanya kepada diri sendiri: "Siapa yang terbantu oleh pekerjaanku hari ini?" atau "Makna kecil apa yang bisa kuciptakan hari ini?" Makna hidup tidak harus megah; tindakan sederhana seperti menjadi pendengar yang baik bagi rekan kerja sudah merupakan kontribusi yang nyata.
 
-## 3. Panduan Navigasi Autentisitas di Era Digital
+## 3. Menjaga Autentisitas di Era Digital
 
 Menjaga autentisitas di tengah derasnya arus informasi membutuhkan prinsip yang kokoh. Tiga langkah berikut dapat membantu menavigasi keseharianmu:
 

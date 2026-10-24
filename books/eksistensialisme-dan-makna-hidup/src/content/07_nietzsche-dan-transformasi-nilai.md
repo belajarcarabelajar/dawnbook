@@ -15,7 +15,7 @@ Nietzsche melihat bahwa di akhir abad ke-19, ilmu pengetahuan dan rasionalitas t
 **Analogi Runtuhnya Mercusuar**
 Bayangkan sebuah kapal yang berlayar di malam hari dengan panduan sebuah mercusuar (Tuhan/Agama). Tiba-tiba, lampu mercusuar itu padam. Kapal tersebut masih mengapung, tetapi ia kehilangan arah kompas absolutnya. Inilah kondisi manusia modern: kita bebas, tetapi kita tersesat di tengah laut.
 
-## 2. Jurang Nihilisme
+## 2. Nihilisme Pasif dan Nihilisme Aktif
 
 Runtuhnya nilai-nilai absolut membawa manusia ke hadapan **Nihilisme**: keyakinan bahwa hidup tidak memiliki makna, tujuan, atau nilai intrinsik. Nietzsche membagi nihilisme menjadi dua bentuk:
 

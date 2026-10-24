@@ -1,4 +1,4 @@
-## Kecemasan (Angst) sebagai Gerbang Kesadaran
+## Kecemasan (Angst) dan Kesadaran Diri
 
 Pernahkah kamu berdiri di tepi tebing yang tinggi, atau mungkin di balkon lantai dua puluh, lalu tiba-tiba merasakan sensasi aneh di perutmu? Sensasi itu lebih dari sekadar rasa takut jatuh. Ada bisikan kecil di belakang kepalamu yang bertanya: *"Bagaimana jika aku melompat?"*
 
@@ -52,7 +52,7 @@ Saat merasa "tidak nyaman" dengan rutinitas duniawi, kita terdorong untuk berhen
 | **Hasil** | Lompatan iman (*Leap of Faith*) | Menuju hidup autentik |
 | **Analogi** | Berdiri di tepi jurang | Merasa asing di rumah sendiri |
 
-## 4\. Mengapa Kecemasan Adalah Gerbang Kesadaran?
+## 4\. Apa yang Diungkapkan Kecemasan?
 
 Kecemasan berfungsi sebagai alarm alami manusia. Tanpa adanya kecemasan, kita berisiko hidup selamanya dalam penyangkalan atau sekadar menjadi jiplakan dari orang lain.
 
@@ -66,7 +66,7 @@ Kecemasan mengungkapkan dua hal mendasar:
    $$
    </div>
 
-## 5\. Aplikasi Praktis dan Skenario
+## 5\. Kecemasan dalam Hidup Sehari-hari
 
 ### Krisis Seperempat Abad (Quarter-Life Crisis)
 
