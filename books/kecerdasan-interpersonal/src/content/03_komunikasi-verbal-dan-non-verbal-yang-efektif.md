@@ -1,6 +1,6 @@
 ## Komunikasi Verbal dan Non-Verbal yang Efektif
 
-Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi di mana pembicaranya memiliki data yang luar biasa, namun suaranya yang monoton membuat audiens tertidur?
+Pernahkah kamu mengirim pesan teks yang disalahpahami sebagai kemarahan oleh temanmu, padahal kamu hanya sedang terburu-buru? Atau mungkin kamu pernah mendengarkan presentasi di mana pembicaranya memiliki data yang kuat, namun suaranya yang monoton membuat audiens tertidur?
 
 Dalam profil **T-shaped professional**, kemampuan teknismu adalah garis vertikal yang mendalam, sedangkan **kemampuan komunikasi** adalah garis horizontal yang memungkinkan keahlian tersebut menjangkau dan memengaruhi orang lain. Komunikasi yang efektif berfokus pada cara pesan diterima dan dipahami oleh lawan bicara, tidak hanya terbatas pada kata-kata yang diucapkan.
 
@@ -26,7 +26,7 @@ Terakhir, prioritaskan kejelasan (*clarity*). Pilihlah kalimat yang ringkas dan 
 - Kurang efektif: "Sebenarnya, aku pikir mungkin ada baiknya jika kita barangkali mempertimbangkan untuk sedikit mengubah jadwal."
 - Efektif: "Aku mengusulkan agar kita memajukan tenggat waktu proyek sebanyak dua hari."
 
-Pilihan kata yang tepat akan menentukan apakah pesanmu membangun jembatan pemahaman atau justru menciptakan dinding pemisah.
+Pilihan kata yang tepat akan menentukan apakah pesanmu dipahami atau justru membuat lawan bicara menjaga jarak.
 
 ## 3. Komunikasi Vokal
 
@@ -40,7 +40,7 @@ Melatih vokal berarti melatih dinamika suara. Beberapa aspek yang perlu diperhat
 
 ## 4. Komunikasi Non-Verbal
 
-Bahasa tubuh sering kali bersifat bawah sadar, namun dampaknya sangat besar terhadap persepsi orang lain terhadapmu.
+Bahasa tubuh sering kali bersifat bawah sadar, namun dampaknya besar terhadap persepsi orang lain terhadapmu.
 
 Beberapa aspek bahasa tubuh berikut bisa kamu latih untuk mendukung pesan verbalmu:
 

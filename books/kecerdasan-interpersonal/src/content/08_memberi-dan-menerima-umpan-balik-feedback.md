@@ -1,6 +1,6 @@
 ## Memberi dan Menerima Umpan Balik (Feedback)
 
-Dalam dunia kerja, *feedback* sering kali dianggap sebagai momok yang menakutkan. Banyak orang membayangkan sesi ini sebagai momen penghakiman atau kritik tajam yang menjatuhkan mental. Padahal, di lingkungan kerja yang bergerak cepat, **feedback adalah bahan bakar utama untuk berkembang**.
+Dalam dunia kerja, *feedback* sering kali dianggap sebagai momok yang menakutkan. Banyak orang membayangkan sesi ini sebagai momen penghakiman atau kritik tajam yang menjatuhkan mental. Padahal, di lingkungan kerja yang bergerak cepat, **feedback adalah sarana utama untuk berkembang**.
 
 Tanpa adanya *feedback*, kita ibarat pilot yang terbang menembus kabut tebal tanpa instrumen navigasi. Kita merasa sudah terbang ke arah yang benar, padahal perlahan-lahan sedang menjauh dari tujuan asli.
 
@@ -10,15 +10,15 @@ Secara biologis, otak memproses kritik sosial di area yang sama dengan rasa saki
 
 Untuk membangun hubungan interpersonal yang sehat di tempat kerja, kamu perlu mengubah sudut pandang. Jika sebelumnya kamu melihat *feedback* sebagai serangan pribadi terhadap harga diri, mulailah melihatnya sebagai data mentah yang membantu proses kalibrasi diri.
 
-> **Insight:** "Feedback adalah sarapan bagi para juara," tulis Ken Blanchard. Rasanya mungkin tidak selalu enak, tetapi nutrisinya sangat dibutuhkan untuk memenangkan pertandingan.
+> **Insight:** "Feedback adalah sarapan bagi para juara," tulis Ken Blanchard. Rasanya mungkin tidak selalu enak, tetapi nutrisinya dibutuhkan untuk memenangkan pertandingan.
 
 ## 2. Cara Memberikan Feedback yang Konstruktif
 
-Memberikan masukan bukan berarti menumpahkan kejujuran secara serampangan tanpa penyaringan. Diperlukan seni dan struktur yang tepat agar masukanmu tidak sekadar didengar, tetapi benar-benar dijalankan oleh rekan kerjamu.
+Memberikan masukan bukan berarti menumpahkan kejujuran secara serampangan tanpa penyaringan. Diperlukan cara dan struktur yang tepat agar masukanmu tidak sekadar didengar, tetapi benar-benar dijalankan oleh rekan kerjamu.
 
 ### A. Model SBI
 
-Model SBI sangat membantu karena berfokus pada fakta objektif, bukan pada penilaian karakter seseorang.
+Model SBI membantu karena berfokus pada fakta objektif, bukan pada penilaian karakter seseorang.
 
 1. **Situation (Situasi)**: Sebutkan waktu dan tempat kejadian secara spesifik.
    * *Kurang tepat*: "Kamu sering terlambat rapat."

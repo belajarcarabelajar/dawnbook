@@ -2,7 +2,7 @@
 
 Selamat datang di modul penutup! Setelah kita mempelajari berbagai elemen kecerdasan interpersonal, mulai dari mendengar aktif hingga membangun keamanan psikologis, kini saatnya kita menyatukan semua kepingan tersebut.
 
-Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menjadi perekat yang menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
+Dalam tim modern, kepemimpinan tidak lagi dijalankan melalui instruksi kaku dari atas ke bawah. Kepemimpinan interpersonal dalam konteks *T-Shaped Professional* adalah kemampuan untuk menyatukan berbagai keahlian mendalam (spesialis) menjadi sebuah solusi utuh yang selaras dengan visi perusahaan.
 
 ## 1. Filosofi Kepemimpinan T-Shaped
 
@@ -96,15 +96,15 @@ Fitur inti berhasil dirilis tepat waktu dengan sistem yang stabil. Hubungan kerj
 
 ## 5. Menjadi Pemimpin yang Utuh
 
-Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini berfungsi sebagai sistem operasi utama bagi perkembangan karier kamu.
+Sepanjang modul ini, kita telah belajar bahwa kecerdasan interpersonal lebih dari sebatas pelengkap *soft skill*; ini adalah bagian inti dari perkembangan karier kamu.
 
 - **Mulai dari fondasi:** Kamu sudah menanamkan kesadaran diri yang kuat sejak awal pembelajaran.
 - **Berbekal keterampilan praktis:** Mulai dari mendengarkan aktif, seni persuasi, hingga resolusi konflik yang konstruktif.
 - **Menciptakan ruang aman:** Kamu juga telah memahami cara membangun rasa aman secara psikologis di dalam tim.
 - **Puncaknya:** Kamu sekarang bisa memadukan seluruh aspek ini untuk memandu orang-orang di sekitarmu secara utuh, tidak lagi sebatas membagi pekerjaan.
 
-> **Pesan Penutup:** Kepemimpinan dalam tim *T-Shaped* bukan tentang menjadi orang paling pintar di ruangan. Peran utama kamu adalah memastikan kecerdasan kolektif seluruh anggota tim dapat bersinergi dengan minim gesekan untuk mencapai tujuan besar bersama.
+> **Pesan Penutup:** Kepemimpinan dalam tim *T-Shaped* bukan tentang menjadi orang paling pintar di ruangan. Peran utama kamu adalah memastikan kecerdasan kolektif seluruh anggota tim dapat bekerja sama dengan minim gesekan untuk mencapai tujuan bersama.
 
 Sebagai langkah awal setelah menyelesaikan modul ini, cobalah mengamati satu inisiatif di tempat kerja kamu yang melibatkan lintas departemen. Tentukan satu strategi interpersonal yang akan kamu terapkan langsung untuk menyelaraskan visi mereka mulai besok.
 
-Selamat! Kamu telah menyelesaikan seluruh rangkaian pembelajaran Kecerdasan Interpersonal & Komunikasi. Gunakan pemahaman ini untuk menjembatani inovasi dan kolaborasi nyata di tempat kerja kamu.
+Selamat! Kamu telah menyelesaikan seluruh rangkaian pembelajaran Kecerdasan Interpersonal & Komunikasi. Gunakan pemahaman ini untuk mendorong inovasi dan kolaborasi nyata di tempat kerja kamu.

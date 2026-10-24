@@ -2,7 +2,7 @@
 
 Pernahkah kamu berada dalam sebuah proyek di mana tim developer merasa desainer meminta hal-hal yang tidak mungkin secara teknis? Dalam proyek itu, tim marketing merasa produknya terlalu kaku dan tidak menarik. Selamat, kamu sedang menyaksikan fenomena **organizational silos** (silo organisasi).
 
-Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Esensinya terletak pada seni menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target besar. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang sangat berharga.
+Kolaborasi lintas departemen membutuhkan lebih dari sekadar bekerja di gedung yang sama atau bergabung dalam grup komunikasi digital yang sama. Intinya adalah menyelaraskan berbagai perspektif dan prioritas kerja untuk mencapai satu target bersama. Bagi seorang *T-shaped professional*, kemampuanmu untuk menjadi jembatan (*bridge*) antar-departemen adalah aset yang berharga.
 
 ## 1. Memahami Fenomena Silo
 
@@ -76,7 +76,7 @@ Model ini menunjukkan bahwa meskipun visi dan keselarasan langkah sudah dirancan
 
 - **Tim Bisnis** mendesak agar fitur segera diluncurkan guna memanfaatkan momentum liburan besar.
 - **Tim Teknis** khawatir karena waktu empat minggu terlalu sempit untuk melakukan audit keamanan secara menyeluruh.
-- **Tim Kreatif** memimpikan desain antarmuka yang futuristik, meskipun membutuhkan aset visual yang cukup berat.
+- **Tim Kreatif** menginginkan desain antarmuka yang futuristik, meskipun membutuhkan aset visual yang cukup berat.
 
 **Solusi Kolaboratif:**
 

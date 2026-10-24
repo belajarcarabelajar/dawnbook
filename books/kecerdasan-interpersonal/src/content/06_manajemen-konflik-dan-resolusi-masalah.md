@@ -1,6 +1,6 @@
 ## Manajemen Konflik dan Resolusi Masalah
 
-Dalam perjalanan karier seorang profesional T-shaped, konflik bukanlah tanda kegagalan tim. Perbedaan pendapat justru menjadi sinyal bahwa berbagai perspektif sedang berproses mencari jalan keluar terbaik. Oleh karena itu, manajemen konflik bukan sekadar taktik untuk memenangkan perdebatan. Fokus utamanya adalah mengarahkan perbedaan pendapat tersebut agar melahirkan solusi yang jauh lebih solid dibanding ide awal.
+Dalam perjalanan karier seorang profesional T-shaped, konflik bukanlah tanda kegagalan tim. Perbedaan pendapat justru menjadi sinyal bahwa berbagai perspektif sedang berproses mencari jalan keluar terbaik. Oleh karena itu, manajemen konflik bukan sekadar taktik untuk memenangkan perdebatan. Fokus utamanya adalah mengarahkan perbedaan pendapat tersebut agar menghasilkan solusi yang lebih solid dibanding ide awal.
 
 ## 1. Memahami Konflik
 
@@ -11,7 +11,7 @@ Dalam dinamika organisasi, konflik memegang peran seperti gesekan tersebut.
 - **Konflik Destruktif:** Perselisihan yang menyerang ranah pribadi, merusak reputasi rekan kerja, serta melumpuhkan ritme kerja tim.
 - **Konflik Konstruktif:** Perdebatan tajam yang berpusat pada pemecahan masalah teknis. Langkah ini menantang metode lama yang tidak lagi efektif demi memicu lahirnya inovasi baru.
 
-> **Insight Utama:** Peranmu bukan untuk meredam atau menghilangkan perbedaan pendapat sepenuhnya. Tantangan sebenarnya adalah menyalurkan benturan opini tersebut menjadi energi kreatif melalui resolusi yang profesional.
+> **Insight Utama:** Peranmu bukan untuk meredam atau menghilangkan perbedaan pendapat sepenuhnya. Tantangan sebenarnya adalah mengolah benturan opini tersebut menjadi gagasan yang berguna melalui resolusi yang profesional.
 
 ## 2. Model Thomas-Kilmann
 
@@ -23,7 +23,7 @@ $$
 $$
 </div>
 
-1. **Competing (Bersaing):** Pendekatan "ikuti cara saya". Gaya ini sangat berguna ketika tim harus mengambil keputusan super cepat saat krisis, misalnya ketika terjadi insiden keamanan data yang mendesak.
+1. **Competing (Bersaing):** Pendekatan "ikuti cara saya". Gaya ini berguna ketika tim harus mengambil keputusan cepat saat krisis, misalnya ketika terjadi insiden keamanan data yang mendesak.
 2. **Accommodating (Mengalah):** Pendekatan "ikuti caramu". Langkah ini diambil jika isu tersebut jauh lebih penting bagi rekan kerja dibanding bagi kamu, atau ketika kamu ingin memprioritaskan keharmonisan relasi jangka panjang.
 3. **Avoiding (Menghindar):** Menunda pembahasan masalah. Pendekatan ini efektif saat emosi tim sedang memuncak atau ketika persoalan yang diributkan memang tidak bernilai tinggi.
 4. **Compromising (Kompromi):** Bertemu di titik tengah dengan saling mengorbankan sebagian keinginan. Biasanya digunakan sebagai jalan keluar sementara sebelum menemukan solusi permanen.
@@ -33,7 +33,7 @@ Ada kalanya mengalah atau berkompromi secara sadar menjadi langkah taktis yang t
 
 ## 3. Metode Interest-Based Relational (IBR)
 
-Metode IBR sangat efektif di lingkungan profesional karena secara tegas memisahkan hubungan personal dari kendala teknis yang dihadapi.
+Metode IBR efektif di lingkungan profesional karena secara tegas memisahkan hubungan personal dari kendala teknis yang dihadapi.
 
 ### Langkah Praktis Penerapan IBR
 
@@ -59,7 +59,7 @@ flowchart TD
 
 ## 4. Mengubah Konflik Menjadi Inovasi
 
-Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk melahirkan solusi baru yang segar.
+Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan oleh Dorothy Leonard-Barton untuk menggambarkan benturan ide-ide yang berbeda untuk menghasilkan solusi baru.
 
 **Cara memfasilitasi proses ini:**
 
@@ -86,4 +86,4 @@ Inovasi sering kali lahir dari *creative abrasion*, istilah yang dipopulerkan ol
 - **Terapkan *cool-off period*.** Jika diskusi mulai memanas secara emosional, mintalah jeda selama 10 hingga 15 menit. Tensi emosi yang tinggi secara ilmiah menurunkan kemampuan berpikir logis seseorang.
 - **Dokumentasikan hasil kesepakatan.** Tuliskan poin-poin keputusan akhir secara tertulis demi menghindari kesalahpahaman atau konflik serupa terulang kembali di kemudian hari.
 
-Konflik yang dibiarkan berlarut-larut akan menumpuk bagaikan *technical debt* dalam relasi tim. Menyelesaikan perbedaan pendapat dengan cepat, terbuka, dan profesional sangat penting untuk menjaga *psychological safety* di lingkungan kerja, sehingga setiap anggota tim merasa aman untuk terus berinovasi.
+Konflik yang dibiarkan berlarut-larut akan menumpuk bagaikan *technical debt* dalam relasi tim. Menyelesaikan perbedaan pendapat dengan cepat, terbuka, dan profesional penting untuk menjaga *psychological safety* di lingkungan kerja, sehingga setiap anggota tim merasa aman untuk terus berinovasi.

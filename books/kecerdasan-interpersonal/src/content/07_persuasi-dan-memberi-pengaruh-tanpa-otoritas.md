@@ -1,16 +1,16 @@
 ## Persuasi dan Memberi Pengaruh Tanpa Otoritas
 
-Pernahkah kamu memiliki ide brilian untuk meningkatkan efisiensi kerja, tetapi ide tersebut terhenti karena kamu bukan seorang manajer? Atau mungkin kamu perlu bantuan dari departemen lain yang secara struktural tidak memiliki kewajiban untuk membantumu?
+Pernahkah kamu memiliki ide bagus untuk meningkatkan efisiensi kerja, tetapi ide tersebut terhenti karena kamu bukan seorang manajer? Atau mungkin kamu perlu bantuan dari departemen lain yang secara struktural tidak memiliki kewajiban untuk membantumu?
 
-Selamat datang di dunia ***Influence without Authority*** (memengaruhi tanpa wewenang formal). Di era organisasi yang semakin datar (*flat*) dan kolaboratif, kemampuan untuk meyakinkan orang lain tanpa harus menggunakan jabatan adalah salah satu keterampilan paling penting bagi seorang profesional *T-shaped*.
+Situasi ini disebut ***Influence without Authority*** (memengaruhi tanpa wewenang formal). Di era organisasi yang semakin datar (*flat*) dan kolaboratif, kemampuan untuk meyakinkan orang lain tanpa harus menggunakan jabatan adalah salah satu keterampilan paling penting bagi seorang profesional *T-shaped*.
 
 ### 1. Mengapa Orang Mengikuti Kamu?
 
 Dalam struktur hierarki tradisional, orang mengikuti perintah karena terpaksa atau menghindari konsekuensi negatif. Namun, dalam persuasi tanpa otoritas, orang mengikutimu karena keinginan mereka sendiri.
 
-Aristoteles, ribuan tahun lalu, merumuskan tiga pilar persuasi yang masih sangat relevan hingga saat ini:
+Aristoteles, ribuan tahun lalu, merumuskan tiga pilar persuasi yang masih relevan hingga saat ini:
 
-- **Ethos (Kredibilitas):** Alasan utama mengapa mereka harus mendengarkan kamu. Rekam jejak dan integritas sangat menentukan pilar ini.
+- **Ethos (Kredibilitas):** Alasan utama mengapa mereka harus mendengarkan kamu. Rekam jejak dan integritas menentukan pilar ini.
 - **Logos (Logika):** Kelayakan argumen yang diajukan. Apakah penjelasan tersebut masuk akal dan ditopang oleh data valid?
 - **Pathos (Emosi):** Kemampuan menyentuh nilai-nilai personal atau perasaan lawan bicara.
 
