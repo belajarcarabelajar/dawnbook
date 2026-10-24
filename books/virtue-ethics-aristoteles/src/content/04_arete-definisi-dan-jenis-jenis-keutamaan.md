@@ -1,6 +1,6 @@
 ## Arete
 
-Selamat datang kembali dalam perjalanan kita mendalami **Etika Kebajikan**. Setelah sebelumnya kita memahami bahwa tujuan akhir manusia adalah *Eudaimonia* (kebahagiaan yang bermakna), muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
+Tujuan akhir manusia sudah kita pahami sebagai *Eudaimonia* (kebahagiaan yang bermakna), dan kini muncul pertanyaan besar: *Bagaimana cara kita mencapainya?*
 
 Jawaban dari tradisi klasik, khususnya Aristoteles, terletak pada satu kata kunci: **Arete**.
 

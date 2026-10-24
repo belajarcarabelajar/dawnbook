@@ -1,6 +1,6 @@
 ## Akar Filosofis Aristoteles
 
-Selamat datang di perjalanan kita menuju akar dari Etika Kebajikan. Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
+Jika kita berbicara tentang karakter dan moralitas, kita tidak bisa mengabaikan sosok yang meletakkan batu pertama dari fondasi ini: **Aristoteles**.
 
 Dalam bagian ini, kita akan membahas karya utamanya, *Nicomachean Ethics*, dan memahami mengapa perspektifnya mengubah cara manusia memandang kebaikan selama lebih dari dua milenium.
 
