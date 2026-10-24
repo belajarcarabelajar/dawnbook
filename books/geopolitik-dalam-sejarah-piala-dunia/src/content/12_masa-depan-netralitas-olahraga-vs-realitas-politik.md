@@ -1,6 +1,6 @@
 ## Masa Depan Netralitas Olahraga vs Realitas Politik
 
-Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau berubah menjadi panggung teater bagi ambisi global. Dari tribun yang dipenuhi fasisme di Italia 1934 hingga gemerlap *soft power* di padang pasir Qatar 2022, Piala Dunia tidak pernah sebatas permainan di lapangan hijau. Namun, saat kita menatap masa depan, sebuah pertanyaan besar membayangi: **Mungkinkah olahraga tetap netral di dunia yang semakin terbelah?**
+Selama satu abad terakhir, kita telah melihat bagaimana lapangan hijau menjadi panggung bagi ambisi global. Dari propaganda fasis di Italia 1934 hingga *soft power* Qatar 2022, Piala Dunia tidak pernah sebatas permainan di lapangan hijau. Namun, saat kita menatap masa depan, sebuah pertanyaan besar membayangi: **Mungkinkah olahraga tetap netral di dunia yang semakin terbelah?**
 
 ### Evolusi Peran Politik dari Propaganda ke "Sportswashing"
 
@@ -69,7 +69,7 @@ Hanya beberapa hari setelah invasi Rusia ke Ukraina pada Februari 2022, FIFA (be
 
 **Mengapa ini penting bagi masa depan?**
 
-- **Runtuhnya Mitos Netralitas Total**: Tindakan tegas ini membuktikan bahwa FIFA siap mengambil sikap politik yang berani di tengah situasi internasional yang ekstrem.
+- **Runtuhnya Mitos Netralitas Total**: Tindakan tegas ini membuktikan bahwa FIFA siap mengambil sikap politik di tengah situasi internasional yang ekstrem.
 - Keputusan ini menciptakan **preseden hukum** yang kuat. Ke depan, publik global akan menuntut keadilan serupa apabila konflik militer terjadi di belahan dunia lain.
 - **Tekanan Sponsor**: Di balik argumen moral, keputusan penangguhan ini juga didorong oleh keprihatinan komersial. Para sponsor besar enggan merek mereka dikaitkan dengan negara yang tengah melakukan agresi militer.
 
@@ -79,10 +79,10 @@ Masa depan Piala Dunia akan ditandai dengan **"Diplomasi Pragmatis"**. FIFA mung
 
 Sepak bola akan tetap menjadi:
 
-- Sepak bola bertindak sebagai **kaca benggala** yang memantulkan segala keretakan dan ketegangan politik dunia nyata.
+- Sepak bola bertindak sebagai **cermin** dari ketegangan politik dunia nyata.
 - Di sisi lain, olahraga ini tetap menjadi **jembatan** unik yang mempertemukan pihak-pihak yang berseberangan untuk saling berjabat tangan di lapangan hijau.
 
-Pada akhirnya, kita dihadapkan pada pilihan mendasar: apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai cermin jujur dari kemanusiaan yang penuh dinamika dan kerumitan?
+Pada akhirnya, kita dihadapkan pada pilihan mendasar: apakah kita menginginkan sepak bola sebagai ruang hiburan steril yang terputus dari realitas, atau menerimanya sebagai bagian dari kehidupan manusia yang rumit?
 
 <div>
 $$

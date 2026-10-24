@@ -48,7 +48,7 @@ Apakah sebuah kemenangan tetap memiliki nilai sportivitas jika faktor di luar la
 
 ## 4. Pesta di Atas Penderitaan
 
-Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa kegelapan. Namun bagi militer, itu adalah legitimasi politik.
+Pada 25 Juni 1978, Argentina mengalahkan Belanda 3-1 di babak perpanjangan waktu. Mario Kempes menjadi pahlawan dengan dua golnya. Bagi rakyat Argentina, itu adalah momen kebahagiaan murni di tengah masa teror politik. Namun bagi militer, itu adalah legitimasi politik.
 
 > "Dengan kemenangan ini, kita telah menunjukkan kepada dunia bahwa Argentina adalah negara yang damai, bersatu, dan terorganisir." - **Jenderal Jorge Rafael Videla**
 
@@ -83,6 +83,6 @@ Di mana:
 - $P$ = *Propaganda* (Kontrol media dan narasi nasionalisme)
 - $C$ = *Criticism* (Kecaman internasional dan perlawanan domestik)
 
-Dengan memperbesar $V$ dan $P$ melalui anggaran raksasa, rezim berusaha menekan dampak dari $C$ yang semakin meningkat akibat pelanggaran HAM.
+Dengan memperbesar $V$ dan $P$ melalui anggaran besar, rezim berusaha menekan dampak dari $C$ yang semakin meningkat akibat pelanggaran HAM.
 
 Jika kamu adalah seorang pemain sepak bola di tahun 1978 dan mengetahui situasi di luar stadion, apakah kamu akan tetap bermain demi kebanggaan rakyat atau menolak bermain sebagai protes terhadap rezim?

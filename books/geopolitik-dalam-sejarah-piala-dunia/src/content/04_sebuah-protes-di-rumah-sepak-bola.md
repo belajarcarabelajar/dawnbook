@@ -70,7 +70,7 @@ Djan mengirimkan telegram protes yang sangat tajam kepada FIFA:
 
 > "Keputusan untuk menggabungkan Afrika dan Asia adalah keputusan yang tidak adil dan bermuatan politik. Afrika menuntut satu jatah otomatis."
 
-Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya mengejutkan dunia: 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
+Ketika FIFA menolak tuntutan tersebut, Djan menggalang kekuatan melalui **CAF (Confederation of African Football)**. Hasilnya, 31 negara Afrika menyatakan mundur serentak. Piala Dunia 1966 akhirnya berlangsung tanpa satu pun wakil dari benua hitam.
 
 ## Dampak dan Transformasi
 

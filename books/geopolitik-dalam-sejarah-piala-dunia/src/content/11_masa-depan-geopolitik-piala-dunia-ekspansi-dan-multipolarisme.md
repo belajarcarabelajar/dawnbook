@@ -18,7 +18,7 @@ Bayangkan Piala Dunia seperti perjamuan makan malam eksklusif. Selama puluhan ta
 - **CAF (Afrika):** Mengamankan kenaikan jatah hingga 9 slot langsung.
 - **CONCACAF dan CONMEBOL:** Menjalani penambahan yang memperkuat integrasi di wilayah Amerika.
 
-Ekspansi ini bertujuan membuka akses pasar baru secara global, melebihi sekadar aspek keadilan di lapangan. Dengan memperbesar peluang bagi negara berpopulasi raksasa seperti Tiongkok, India, atau Indonesia, FIFA ingin menjaga keberlanjutan finansial organisasi di tengah kejenuhan pasar Eropa.
+Ekspansi ini bertujuan membuka akses pasar baru secara global, melebihi sekadar aspek keadilan di lapangan. Dengan memperbesar peluang bagi negara berpopulasi besar seperti Tiongkok, India, atau Indonesia, FIFA ingin menjaga keberlanjutan finansial organisasi di tengah kejenuhan pasar Eropa.
 
 > "Dalam politik sepak bola, satu suara dari Kepulauan Cook memiliki nilai yang sama dengan satu suara dari Jerman. Ekspansi adalah mata uang yang digunakan untuk membeli loyalitas politik global."
 

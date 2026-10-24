@@ -1,6 +1,6 @@
 ## Runtuhnya Blok Timur dan Peta Baru Sepak Bola Dunia
 
-Pernahkah kamu membayangkan apa yang terjadi jika sebuah band legendaris tiba-tiba bubar dan masing-masing anggotanya memulai karier solo? Atau sebaliknya, dua perusahaan raksasa yang bersaing ketat tiba-tiba melakukan merger? Dalam dunia sepak bola, fenomena ini terjadi secara masif di awal era 1990-an.
+Pernahkah kamu membayangkan apa yang terjadi jika sebuah band legendaris tiba-tiba bubar dan masing-masing anggotanya memulai karier solo? Atau sebaliknya, dua perusahaan besar yang bersaing ketat tiba-tiba melakukan merger? Dalam dunia sepak bola, fenomena ini terjadi secara masif di awal era 1990-an.
 
 Runtuhnya Tembok Berlin tidak hanya mengakhiri Perang Dingin secara simbolis, tetapi juga mengubah FIFA dan peta kekuatan sepak bola dunia. Dari satu negara besar yang pecah menjadi belasan negara baru, hingga penyatuan kembali kekuatan yang sempat terpisah, bab ini akan membedah bagaimana fragmen-fragmen politik ini membentuk ulang sejarah Piala Dunia.
 

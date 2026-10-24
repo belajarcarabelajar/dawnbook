@@ -1,6 +1,6 @@
 ## Diplomasi Soft Power Rusia 2018 dan Qatar 2022
 
-Bayangkan sebuah panggung megah dengan lampu sorot dunia yang tertuju sepenuhnya pada satu titik. Selama sebulan penuh, cerita tentang suatu negara tidak lagi didikte oleh kerasnya kebijakan luar negeri atau sengketa wilayah. Narasi itu kini dibentuk oleh kemeriahan stadion, kehangatan penduduk setempat, dan keindahan permainan di lapangan hijau. Inilah esensi dari kekuatan lunak (**soft power**) dalam sepak bola modern.
+Bayangkan perhatian dunia tertuju pada satu negara. Selama sebulan penuh, cerita tentang suatu negara tidak lagi didikte oleh kerasnya kebijakan luar negeri atau sengketa wilayah. Narasi itu kini dibentuk oleh kemeriahan stadion, kehangatan penduduk setempat, dan keindahan permainan di lapangan hijau. Inilah esensi dari kekuatan lunak (**soft power**) dalam sepak bola modern.
 
 Dalam bab ini, kita akan membedah bagaimana Rusia (2018) dan Qatar (2022) menjadikan Piala Dunia lebih dari sekadar kompetisi olahraga. Bagi kedua negara tersebut, ajang ini berfungsi sebagai instrumen strategis untuk memoles persepsi publik global sekaligus memperkuat posisi geopolitik mereka.
 
@@ -28,7 +28,7 @@ $$
 
 ## 2. "The Warm Welcome" Rusia 2018 Pasca-Krimea
 
-Pada tahun 2018, Rusia berada dalam posisi yang sulit di panggung diplomatik. Setelah pencaplokan Krimea pada 2014 dan tuduhan intervensi pemilu di berbagai negara Barat, citra Rusia berada di titik terendah sejak berakhirnya Perang Cold War (Perang Dingin).
+Pada tahun 2018, Rusia berada dalam posisi yang sulit di panggung diplomatik. Setelah pencaplokan Krimea pada 2014 dan tuduhan intervensi pemilu di berbagai negara Barat, citra Rusia berada di titik terendah sejak berakhirnya Perang Dingin (Cold War).
 
 ### Strategi Geopolitik Rusia
 
@@ -88,4 +88,4 @@ Dalam analisis geopolitik modern, keberhasilan suatu negara dalam menyelenggarak
 | **Hambatan** | Sanksi Barat dan isu hooliganisme. | Isu HAM dan perbedaan budaya. |
 | **Warisan (Legacy)** | Infrastruktur kota-kota provinsi. | Hub transportasi global dan "Qatar Vision 2030". |
 
-**Catatan Akhir**: Diplomasi kekuatan lunak melalui sepak bola memperlihatkan bahwa pada abad ke-21, kemenangan di lapangan hijau terkadang tidak sepenting kemenangan dalam menguasai narasi di media sosial dan opini publik dunia. Sepak bola telah menjelma menjadi bahasa universal yang digunakan para pemimpin dunia untuk merangkul masyarakat luas, melampaui sekat-sekat diplomatik formal yang kerap kali kaku.
+**Catatan Akhir**: Diplomasi kekuatan lunak melalui sepak bola memperlihatkan bahwa pada abad ke-21, kemenangan di lapangan hijau terkadang tidak sepenting kemenangan dalam menguasai narasi di media sosial dan opini publik dunia. Para pemimpin dunia memakai sepak bola untuk menjangkau masyarakat luas di luar jalur diplomatik formal.

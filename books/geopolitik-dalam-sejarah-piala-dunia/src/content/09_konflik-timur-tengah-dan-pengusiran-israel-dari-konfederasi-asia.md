@@ -73,6 +73,6 @@ Kasus Israel di AFC adalah pelajaran klasik bahwa olahraga tidak bisa dipisahkan
 | **1974 - 1991** | **Independen/Nomaden** | Israel berpindah antara Oseania dan Eropa; logistik yang kacau. |
 | **1994 - Sekarang** | **UEFA (Eropa)** | Israel memiliki rumah tetap; kualifikasi menjadi jauh lebih kompetitif (sulit). |
 
-> **Insight Penting:** Perpindahan Israel ke UEFA terjadi sebagai solusi administratif atas kebuntuan diplomatik, bukan karena faktor kedekatan geografis. Kasus ini menegaskan bahwa peta politik kerap menentukan batas-batas wilayah dalam sepak bola dunia melebihi batas bumi yang sebenarnya.
+> **Insight Penting:** Perpindahan Israel ke UEFA terjadi sebagai solusi administratif atas kebuntuan diplomatik, bukan karena faktor kedekatan geografis. Kasus ini menegaskan bahwa peta politik kerap menentukan batas-batas wilayah dalam sepak bola dunia melebihi batas geografis.
 
 Jika hari ini Israel masih berkompetisi di Asia, bagaimana kira-kira dinamika persaingan sepak bola dan tensi politik di kawasan Timur Tengah akan berlangsung?
