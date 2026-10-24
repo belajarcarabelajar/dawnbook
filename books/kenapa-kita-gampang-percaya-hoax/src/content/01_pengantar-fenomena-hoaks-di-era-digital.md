@@ -14,7 +14,7 @@ Tapi kenyataannya, justru di zaman inilah kabar bohong menyebar dengan mudah. Se
 
 Ada temuan yang menohok soal ini. Sekelompok peneliti dari MIT (Vosoughi, Roy, dan Aral) mempelajari jutaan cuitan di sebuah platform media sosial dan membandingkan bagaimana berita benar dan berita bohong menyebar. Hasilnya dimuat di jurnal *Science* pada 2018.
 
-Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
+Temuan utamanya: kabar bohong menyebar lebih cepat, lebih jauh, dan lebih dalam dibanding kabar yang benar. Berita palsu menjangkau lebih banyak orang dan berpindah tangan lebih sering. Hal ini bukan karena robot atau akun otomatis. Manusialah yang lebih rajin menyebarkan yang bohong. Salah satu dugaan penelitinya: kabar bohong sering terasa lebih baru, lebih mengejutkan, dan lebih memancing emosi, sehingga kita terdorong untuk ikut membagikannya.
 
 > Bayangkan kebenaran itu seperti orang yang berjalan hati-hati sambil mengecek peta, sedangkan kabar bohong seperti orang yang berlari sambil berteriak. Yang berlari dan berteriak tentu lebih dulu sampai, dan lebih banyak kepala yang menoleh, walaupun arah larinya belum tentu benar.
 
