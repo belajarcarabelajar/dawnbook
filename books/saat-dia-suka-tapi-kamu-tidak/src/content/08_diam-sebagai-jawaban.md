@@ -6,9 +6,9 @@ Bab ini membahas diam sebagai cara mengakhiri kontak. Seberapa sering hal itu te
 
 ### Seberapa Sering Orang Menghilang Tanpa Kabar
 
-Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.1177/0265407517748791), yang mengumpulkan sampel daring di Amerika Serikat. Pada studi pertama dengan 554 peserta, 25,3% pernah di-*ghosting* oleh pasangan romantis dan 21,7% pernah melakukannya. Pada studi kedua dengan 747 peserta, angkanya 23,0% dan 18,9% untuk hubungan romantis.
+Angka di pembuka berasal dari [Freedman dan rekan (2019)](https://doi.org/10.1177/0265407517748791), yang mengumpulkan sampel daring di Amerika Serikat. Pada studi pertama dengan 554 peserta, 25,3% pernah di-*ghosting* oleh pasangan romantis dan 21,7% pernah melakukannya.
 
-Pertemanan ternyata juga tidak luput. Di studi kedua itu, 38,6% peserta pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
+Pertemanan ternyata juga tidak luput. Di studi kedua mereka, dengan 747 peserta, 38,6% pernah di-*ghosting* oleh teman, dan 31,7% pernah melakukannya kepada teman.
 
 Penelitian yang sama juga melihat keyakinan orang tentang hubungan. Keyakinan *destiny* (secara kasar, anggapan bahwa hubungan ditentukan takdir) yang lebih kuat berjalan seiring dengan sikap lebih menerima dan lebih sering memakai *ghosting*. Keyakinan *growth* (secara kasar, anggapan bahwa hubungan bisa bertumbuh) berjalan seiring dengan sebaliknya. Semua data ini laporan diri peserta, jadi bacalah sebagai gambaran, bukan ukuran pasti.
 
@@ -49,7 +49,7 @@ Wawancara [Campaioli, Testoni, dan Zamperini (2022)](https://doi.org/10.5817/CP2
 
 Tidak semua orang diam karena malas. Menurut [Freedman dan rekan (2022)](https://doi.org/10.1016/j.jesp.2022.104368), kekhawatiran soal keselamatan mungkin membuat orang lebih cenderung memilih *ghosting*. Penolakan bisa menjadi interaksi yang berakhir dengan kekerasan, terutama ketika perempuan menolak laki-laki.
 
-Menurut ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships), pada sampel dengan rentang usia yang lebar, sekitar 50% peserta punya pengalaman *ghosting*. Alasan pribadinya antara lain perlindungan (menghindari perasaan terluka, takut dibalas) dan karena *ghosting* itu mudah. Namun ringkasan itu juga mencatat bahwa belum diketahui apakah *ghosting* memang lebih aman, apalagi orang yang di-*ghosting* sering mencoba menghubungi lagi demi kejelasan. Para penulis juga menyebut bahwa menyusun naskah penolakan yang disesuaikan bisa membantu. Dampaknya pada kebutuhan dasar orang yang diabaikan akan kita bahas di bab 9 nanti.
+Ringkasan [Powell dan Freedman (2024)](https://www.ncfr.org/ncfr-report/summer-2024/ghosting-out-of-romantic-relationships) melaporkan bahwa pada sampel dengan rentang usia yang lebar, sekitar 50% peserta punya pengalaman *ghosting*. Alasan pribadinya antara lain perlindungan (menghindari perasaan terluka, takut dibalas) dan karena *ghosting* itu mudah. Namun ringkasan itu juga mencatat bahwa belum diketahui apakah *ghosting* memang lebih aman, apalagi orang yang di-*ghosting* sering mencoba menghubungi lagi demi kejelasan. Para penulisnya juga menyebut bahwa menyusun naskah penolakan yang disesuaikan bisa membantu.
 
 ### Kapan Diam Masuk Akal
 
@@ -59,10 +59,8 @@ Kalau kamu merasa aman, penolakan singkat yang jelas sering kali lebih baik dari
 
 ### Poin Kunci
 
-- Dalam studi yang terbit tahun 2019 dengan sampel daring di Amerika Serikat, sekitar seperempat orang pernah di-*ghosting* pasangan romantis, dan angka untuk pertemanan lebih tinggi.
-- Dalam satu studi kualitatif, sebagian besar peserta pernah menjadi pelaku sekaligus pihak yang di-*ghosting*.
+- Dalam studi yang terbit tahun 2019 dengan sampel daring di Amerika Serikat, sekitar seperempat orang pernah di-*ghosting* pasangan romantis.
 - Bukti soal apakah *ghosting* lebih menyakitkan daripada penolakan langsung masih campur aduk.
-- Dalam satu studi, reaksi orang yang ditinggal diam tersusun dari bingung sampai menerima, dan dalam studi lain ia digambarkan seperti menggantung dalam *limbo*.
-- Menurut panduan buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
+- Menurut saran buku ini, rasa tidak aman bisa menjadi alasan yang wajar untuk diam, meski belum diketahui apakah *ghosting* memang lebih aman.
 
-Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Di bab 9, kita berpindah ke sisi orang yang tidak dipilih, untuk memahami mengapa diabaikan bisa terasa begitu berat.
+Sejauh ini kita banyak berdiri di posisi orang yang menolak atau memilih diam. Bagaimana rasanya berada di seberang, sebagai orang yang tidak dipilih?

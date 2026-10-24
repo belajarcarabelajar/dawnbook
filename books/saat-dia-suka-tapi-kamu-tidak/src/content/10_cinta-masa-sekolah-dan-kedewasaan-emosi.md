@@ -8,7 +8,7 @@ Mungkin kamu pernah menjadi penulis kertas itu. Mungkin juga penerimanya, atau t
 
 Ada orang dewasa yang menyebut perasaan remaja sebagai cinta monyet, seolah tidak perlu dipikirkan serius. Ulasan [Collins (2003)](https://doi.org/10.1111/1532-7795.1301001) melihatnya dari arah lain. Collins menulis bahwa penelitian tentang hubungan romantis remaja terhambat oleh anggapan keliru bahwa hubungan semacam itu remeh dan cepat berlalu.
 
-Untuk memahaminya, Collins menyebut lima ciri yang perlu diperhatikan:
+Untuk memahaminya, Collins menyebut lima ciri yang perlu dicermati:
 
 - keterlibatan (*involvement*)
 - pemilihan pasangan (*partner selection*)
@@ -34,7 +34,7 @@ Namun, para penulis juga memberi peringatan penting. Fungsi korteks prefrontal y
 
 Ulasan [Steinberg (2005)](https://doi.org/10.1016/j.tics.2004.12.005) menyampaikan gagasan yang mirip. Sistem otak, perilaku, dan kognitif matang menurut jadwal yang berbeda-beda. Dalam keterangan gambar artikelnya, celah antarjadwal itu disebut sebagai masa yang diduga (*speculated*) membuat remaja lebih rentan terhadap masalah dalam mengatur perasaan dan perilaku.
 
-Perhatikan kata diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
+Kata kuncinya adalah diduga. Steinberg tidak menyajikannya sebagai kepastian, dan bab ini juga tidak. Kalau dipakai dengan hati-hati, gambaran ini cukup menenangkan: perasaan yang dulu terasa begitu besar muncul di masa ketika banyak hal dalam diri sedang tumbuh dengan kecepatan berbeda.
 
 ### Menengok Kembali Kenangan Sekolah
 
@@ -60,9 +60,7 @@ Pelajaran ini jarang datang sekaligus. Bagi sebagian orang, ia baru terasa setel
 ### Gagasan Utama
 
 - Collins (2003) menolak anggapan bahwa hubungan romantis remaja remeh dan cepat berlalu, lalu menyebut lima ciri untuk memahaminya.
-- Menurut ulasan Meier dan Allen (2009) atas data Amerika Serikat, sekitar seperempat anak usia 12 tahun dan hampir 75 persen remaja usia 18 tahun melaporkan keterlibatan romantis.
 - Casey dan rekan (2008) menggambarkan kepekaan terhadap imbalan dan emosi yang meningkat lebih dulu daripada kendali diri, dengan catatan bahwa korteks prefrontal yang belum matang saja tidak cukup menjelaskan perilaku remaja.
-- Steinberg (2005) menyebut sistem yang matang dengan jadwal berbeda, dan celah kerentanannya masih berupa dugaan.
 - Kedewasaan emosi bisa dipahami sebagai belajar bahwa perasaan, pilihan, dan prioritas tidak bisa dipaksakan.
 
-Kertas terlipat dan lorong sekolah akhirnya tertinggal di belakang, tetapi perhatian yang tidak diminta tidak berhenti di gerbang sekolah. Bab berikutnya keluar ke jalan dan ruang publik, tempat perhatian semacam itu kadang datang sebagai siulan atau komentar dari orang yang sama sekali tidak dikenal.
+Kertas terlipat dan lorong sekolah akhirnya tertinggal di belakang, tetapi perhatian yang tidak diminta tidak berhenti di gerbang sekolah. Di jalan dan ruang publik, ia kadang datang sebagai siulan atau komentar dari orang yang sama sekali tidak dikenal.
