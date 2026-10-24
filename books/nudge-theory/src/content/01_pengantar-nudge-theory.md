@@ -58,7 +58,7 @@ Dalam pengembangan web, seorang *front-end developer* juga bertindak sebagai ars
 >
 > Saya ingin tetap berhenti
 
-Kedua pilihan tetap tersedia, tetapi bobotnya tidak seimbang. Pilihan yang diinginkan bisnis tampil sebagai tombol utama yang dibuat lebih menonjol dan diberi label "Direkomendasikan", sedangkan pilihan untuk berhenti hanya berupa tautan teks yang dibuat kurang menonjol.
+Kedua pilihan sama-sama tersedia, tetapi bobotnya tidak seimbang. Pilihan yang diinginkan bisnis tampil sebagai tombol utama yang dibuat lebih menonjol dan diberi label "Direkomendasikan", sedangkan pilihan untuk berhenti hanya berupa tautan teks yang dibuat kurang menonjol.
 
 ## Tidak Ada Desain yang Netral
 
