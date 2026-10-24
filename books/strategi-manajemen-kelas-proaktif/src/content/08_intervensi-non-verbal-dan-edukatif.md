@@ -6,7 +6,7 @@ Seketika, momentum itu hilang. Alur berpikir kelas terputus, dan kamu butuh wakt
 
 Intervensi non-verbal adalah solusi untuk meminimalisir biaya tersebut. Tujuannya sederhana: **menghentikan gangguan ringan sambil menjaga alur pembelajaran tetap mengalir.**
 
-### Mengapa Non-Verbal? Sebuah Analogi
+### Konduktor Orkestra di Kelas
 
 Bayangkan seorang konduktor orkestra. Saat seorang pemain biola sedikit melenceng dari tempo, konduktor tidak menghentikan seluruh musik dan berteriak. Sebaliknya, ia memberikan tatapan tajam, isyarat tangan kecil, atau condong ke arah pemain tersebut. Musik terus berjalan, dan masalah terselesaikan.
 

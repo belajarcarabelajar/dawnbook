@@ -58,7 +58,7 @@ Di mana:
 
 Jika salah satu variabel ini bernilai nol, maka potensi gangguan perilaku akan meningkat.
 
-## 4. Manfaat Jangka Panjang bagi Ekosistem Pembelajaran
+## 4. Manfaat Jangka Panjang bagi Guru dan Siswa
 
 Mengapa kamu harus meluangkan waktu ekstra di awal tahun ajaran untuk merancang strategi proaktif? Manfaatnya melampaui sekadar kelas yang tenang:
 

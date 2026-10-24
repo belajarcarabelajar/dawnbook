@@ -56,7 +56,7 @@ Lingkungan fisik bukan hanya tentang apa yang bisa disentuh, tapi juga apa yang 
 - **Pencahayaan:** Jika memungkinkan, gunakan cahaya alami. Cahaya lampu flouresens yang terlalu terang dapat memicu kecemasan pada beberapa siswa.
 - **Area "Cool Down":** Sediakan satu pojok kecil dengan kursi nyaman atau karpet untuk siswa yang merasa kewalahan secara emosional.
 
-## 6. Transformasi Ruang
+## 6. Penataan Ulang Kelas Ibu Sari
 
 **Masalah:** Ibu Sari memiliki kelas yang sangat aktif. Setiap kali ia meminta siswa mengumpulkan tugas ke mejanya di depan, terjadi aksi saling dorong dan kelas menjadi gaduh selama 5 menit.
 

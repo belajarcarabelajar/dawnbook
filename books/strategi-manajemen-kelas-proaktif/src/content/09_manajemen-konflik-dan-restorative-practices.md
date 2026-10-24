@@ -18,7 +18,7 @@ Sebelum kita masuk ke teknik, kita harus memahami perbedaan mendasar antara pend
 
 > **Analogi Jembatan Retak:** Bayangkan dua orang siswa yang berkonflik sebagai dua sisi sungai yang dihubungkan oleh sebuah jembatan (hubungan mereka). Hukuman tradisional seperti menghancurkan sisa jembatan tersebut agar mereka tidak saling bertemu. Praktik restoratif adalah mengajak kedua siswa tersebut untuk bersama-sama menambal retakan jembatan agar komunikasi bisa mengalir kembali.
 
-### 2. Lima Pertanyaan Ajaib (Restorative Questions)
+### 2. Lima Pertanyaan Restoratif
 
 Salah satu alat utama dalam manajemen konflik adalah serangkaian pertanyaan terbuka yang mengarahkan siswa pada refleksi, bukan pembelaan diri.
 
@@ -96,7 +96,7 @@ flowchart TD
     D --> E["Tindak Lanjut (beberapa hari kemudian)"]
 ```
 
-### 5. Skenario Dunia Nyata
+### 5. Prakarya Siti yang Rusak
 
 **Kasus:** Budi secara tidak sengaja merusak tugas prakarya milik Siti karena mereka sedang berebut ruang di meja. Siti marah dan mendorong Budi.
 

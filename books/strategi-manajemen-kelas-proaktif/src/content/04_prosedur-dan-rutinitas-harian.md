@@ -13,7 +13,7 @@ Seringkali kita mencampuradukkan antara aturan dan prosedur. Memahami perbedaann
 
 > "Prosedur adalah cara kita melakukan sesuatu agar kelas berjalan lancar. Rutinitas adalah prosedur yang telah menjadi kebiasaan otomatis bagi siswa."
 
-## 2. Arsitektur Transisi yang Efisien
+## 2. Merancang Transisi yang Efisien
 
 Transisi adalah saat waktu pembelajaran mudah terbuang. Tanpa prosedur yang jelas, perpindahan dari satu aktivitas ke aktivitas lain dapat membuang waktu 5 hingga 10 menit.
 
@@ -72,7 +72,7 @@ flowchart TD
     F --> G["Ikuti instruksi tambahan"]
 ```
 
-## 4. Manajemen Waktu dan Kemandirian (The "Autopilot" Mode)
+## 4. Manajemen Waktu dan Kemandirian Siswa
 
 Agar kelas berjalan otomatis, siswa perlu tahu apa yang harus dilakukan tanpa harus bertanya setiap saat.
 
