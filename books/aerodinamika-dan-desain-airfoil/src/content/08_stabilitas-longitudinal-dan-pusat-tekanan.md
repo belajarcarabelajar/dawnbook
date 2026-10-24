@@ -23,7 +23,7 @@ $$
 
 ### 2. Pusat Aerodinamika (*Aerodynamic Center* - $\text{AC}$)
 
-Karena posisi $\text{CP}$ terus berpindah seiring perubahan sudut serang, perancang pesawat menggunakan titik acuan lain yang posisinya tetap independen terhadap perubahan $\text{AoA}$. Titik acuan tersebut adalah **Aerodynamic Center ($\text{AC}$)**.
+Karena posisi $\text{CP}$ terus berpindah seiring perubahan sudut serang, perancang pesawat menggunakan titik acuan lain yang posisinya independen terhadap perubahan $\text{AoA}$. Titik acuan tersebut adalah **Aerodynamic Center ($\text{AC}$)**.
 
 **Definisi:** Pusat Aerodinamika (*Aerodynamic Center*) adalah titik lokasi pada profil airfoil tempat koefisien momen angguk (*pitching moment coefficient*, $C_{m,\text{ac}}$) bernilai konstan terhadap perubahan sudut serang pada rentang aliran linear:
 
@@ -56,7 +56,7 @@ Kriteria utama agar pesawat stabil secara statis mensyaratkan bahwa: **Pusat Mas
 
 1. **Stabil (*Statically Stable*):** Posisi $\text{CG}$ berada di depan $\text{AC}$. Ketika hembusan angin mendadak mendongakkan hidung pesawat (peningkatan $\text{AoA}$), gaya angkat tambahan yang timbul di belakang $\text{CG}$ akan menghasilkan momen pemulih hidung turun (*restoring nose-down moment*), sehingga pesawat kembali ke orientasi setimbang.
 2. **Netral (*Neutrally Stable*):** Posisi $\text{CG}$ berhimpit tepat pada $\text{AC}$ (titik netral atau *Neutral Point*). Pesawat mempertahankan sikap sudut baru tanpa menghasilkan momen pemulih maupun momen yang memperbesar simpangan.
-3. **Tidak Stabil (*Statically Unstable*):** Posisi $\text{CG}$ berada di belakang $\text{AC}$. Gangguan kecil yang menaikkan sudut serang akan menghasilkan momen yang justru memperbesar dongakan hidung (*pitch-up divergence*), memicu kondisi membahayakan hingga kehilangan daya angkat (*stall*).
+3. **Tidak Stabil (*Statically Unstable*):** Posisi $\text{CG}$ berada di belakang $\text{AC}$. Gangguan kecil yang menaikkan sudut serang akan menghasilkan momen yang memperbesar dongakan hidung (*pitch-up divergence*), memicu kondisi membahayakan hingga kehilangan daya angkat (*stall*).
 
 ### 4. Peran Penyeimbang Horizontal (*Horizontal Stabilizer*)
 
