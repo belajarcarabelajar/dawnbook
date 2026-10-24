@@ -126,7 +126,7 @@ Beberapa variabel utama menentukan besarnya tingkat pengembalian (*rate of retur
 
 Fenomena **Brain Drain** (perpindahan tenaga ahli ke luar negeri) dapat dijelaskan melalui analisis biaya-manfaat. Ketika individu telah mengeluarkan investasi besar untuk membangun modal manusia, mereka cenderung mencari pasar kerja yang menawarkan pengembalian tertinggi.
 
-Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang melimpah di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
+Meskipun biaya migrasi awal cukup tinggi, perbedaan manfaat moneter ($\text{B}\_t$) yang besar di negara maju membuat kalkulasi $\text{NPV}$ tetap bernilai positif. Akibatnya, tenaga profesional seperti dokter dan insinyur terdorong untuk bermigrasi ke negara dengan standar kompensasi yang lebih tinggi.
 
 ---
 

@@ -2,7 +2,7 @@
 
 Mengapa pemerintah perlu terlibat dalam urusan pendidikan dan pelatihan? Jika individu menikmati manfaat berupa kenaikan gaji dan peningkatan karir, bukankah wajar jika mereka sendiri yang menanggung biaya pengembangannya?
 
-Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pada realitas perekonomian, pasar bebas kerap gagal mengalokasikan sumber daya secara efisien untuk pembentukan **Human Capital**. Di sinilah **Public Policy** bertindak sebagai pengarah strategis yang menjembatani kebutuhan industri, potensi individu, dan peningkatan kesejahteraan masyarakat secara luas.
+Dalam pasar hipotetis yang sempurna, argumen tersebut mungkin berlaku. Namun, pada realitas perekonomian, pasar bebas kerap gagal mengalokasikan sumber daya secara efisien untuk pembentukan **Human Capital**. Di sinilah **Public Policy** berperan menghubungkan kebutuhan industri, potensi individu, dan peningkatan kesejahteraan masyarakat secara luas.
 
 ---
 
@@ -117,7 +117,7 @@ Karena SROI sebesar 1,50 lebih besar dari 1, kebijakan dalam ilustrasi ini tergo
 
 ### 6. Reskilling, Upskilling, dan Lifelong Learning sebagai Tantangan Masa Depan
 
-Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah struktur kebutuhan keahlian pasar kerja secara dramatis. Kebijakan publik tidak lagi dapat terbatas pada pengelolaan jalur pendidikan formal usia muda.
+Perkembangan otomatisasi, kecerdasan buatan, dan disrupsi teknologi mengubah struktur kebutuhan keahlian pasar kerja. Kebijakan publik tidak lagi dapat terbatas pada pengelolaan jalur pendidikan formal usia muda.
 
 > **Perspektif Utama Kebijakan Masa Depan:**
 > Keberhasilan kebijakan modal manusia terletak pada kemampuannya membangun ekosistem **Lifelong Learning**. Negara harus memfasilitasi pekerja dewasa untuk melakukan **Reskilling** (mempelajari keahlian baru) dan **Upskilling** (meningkatkan keahlian yang ada) secara cepat, terjangkau, dan selaras dengan pergeseran industri.

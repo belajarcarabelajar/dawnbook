@@ -36,7 +36,7 @@ C(e)_{\text{L}} > C(e)_{\text{H}}
 $$
 </div>
 
-Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih menyiksa dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
+Di mana $e$ adalah tingkat pendidikan, dan $C(e)$ melambangkan fungsi biaya perolehan pendidikan. "Biaya" di sini bukan hanya uang sekolah, melainkan juga **biaya psikis, usaha, dan waktu**. Bagi seseorang yang kurang berbakat, bergadang untuk belajar kalkulus jauh lebih berat dan mahal secara peluang dibandingkan bagi seseorang yang berbakat.
 
 **Kesimpulan Logis:** Pemberi kerja menyadari bahwa hanya individu dari kelompok $P\_{\text{H}}$ yang rasional secara ekonomi untuk menyelesaikan pendidikan tinggi. Oleh karena itu, ijazah menjadi filter yang efisien di pasar tenaga kerja yang mengalami ketimpangan informasi (*information asymmetry*).
 

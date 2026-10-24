@@ -1,8 +1,8 @@
 ## Modal Manusia dan Pertumbuhan Ekonomi Jangka Panjang
 
-Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura bisa menjadi raksasa ekonomi dunia dalam hitungan dekade? Keduanya berangkat dari status negara berpendapatan rendah dengan sumber daya alam yang sangat terbatas. Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
+Pernahkah kamu bertanya-tanya mengapa negara seperti Korea Selatan atau Singapura bisa tumbuh cepat dalam hitungan dekade? Keduanya berangkat dari status negara berpendapatan rendah dengan sumber daya alam yang terbatas. Jawabannya bukan terletak pada kekayaan alam di bawah tanah mereka, melainkan pada kapasitas intelektual dan keterampilan penduduknya.
 
-Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebagai **Human Capital**) merupakan motor penggerak utama yang memastikan ekonomi sebuah negara dapat berkembang secara berkelanjutan dalam jangka panjang.
+Akumulasi pengetahuan, keterampilan, dan kesehatan kolektif (yang dikenal sebagai **Human Capital**) merupakan penggerak utama yang memastikan ekonomi sebuah negara dapat berkembang secara berkelanjutan dalam jangka panjang.
 
 ---
 
@@ -35,7 +35,7 @@ Teori Pertumbuhan Endogen yang dikembangkan pada akhir 1980-an membantah asumsi 
 - **Increasing Returns:** Berbeda dengan modal fisik, pengetahuan tidak mengalami *diminishing returns*. Akumulasi pengetahuan justru menciptakan **hasil yang semakin meningkat (increasing returns)** karena ide baru dapat dimanfaatkan secara berulang tanpa depresiasi fisik.
 
 > **Analogi Dapur Produksi:**
-> Bayangkan sebuah restoran. **Modal Fisik** adalah kompor dan panci, sedangkan **Tenaga Kerja** adalah jumlah koki. Jika kamu terus menambah koki tanpa menambah alat atau resep baru, dapur akan padat dan efisiensi menurun. Namun, ketika para koki mempelajari teknik memasak modern atau merancang resep yang efisien (**Human Capital**), mereka dapat menghasilkan sajian berkualitas tinggi dalam jumlah lebih banyak menggunakan peralatan yang sama. Resep dan teknik baru inilah yang menggerakkan pertumbuhan tanpa batas.
+> Bayangkan sebuah restoran. **Modal Fisik** adalah kompor dan panci, sedangkan **Tenaga Kerja** adalah jumlah koki. Jika kamu terus menambah koki tanpa menambah alat atau resep baru, dapur akan padat dan efisiensi menurun. Namun, ketika para koki mempelajari teknik memasak modern atau merancang resep yang efisien (**Human Capital**), mereka dapat menghasilkan sajian berkualitas tinggi dalam jumlah lebih banyak menggunakan peralatan yang sama. Resep dan teknik baru inilah yang menggerakkan pertumbuhan.
 
 #### Perbandingan Model Pertumbuhan Ekonomi
 
@@ -92,7 +92,7 @@ Dalam formulasi ini, peningkatan kualitas modal manusia ($h$) secara kolektif me
 
 #### Model Paul Romer (1990)
 
-Romer berfokus pada peran sektor riset dan pengembangan (R&D). Ia menyatakan bahwa **Human Capital** menghasilkan desain, produk, dan gagasan baru yang meningkatkan produktivitas secara permanen. Selama penciptaan ide-ide baru terus berlangsung, laju pertumbuhan ekonomi tidak akan pernah berhenti.
+Romer berfokus pada peran sektor riset dan pengembangan (R&D). Ia menyatakan bahwa **Human Capital** menghasilkan desain, produk, dan gagasan baru yang meningkatkan produktivitas secara permanen. Selama penciptaan ide-ide baru terus berlangsung, pertumbuhan ekonomi terus berlangsung.
 
 ---
 
@@ -156,4 +156,4 @@ Meskipun **Human Capital** menjadi pendorong utama pertumbuhan jangka panjang, t
 
 ### Kesimpulan untuk Masa Depan
 
-Dalam era ekonomi digital global, daya saing suatu bangsa tidak lagi diukur dari cadangan minyak atau mineral di dalam bumi, melainkan dari **kapasitas pembelajaran kolektif** dan adaptabilitas masyarakatnya. Negara yang mengabaikan pengembangan kapasitas manusia akan mengalami stagnasi, sementara negara yang menempatkan investasi **Human Capital** di garda depan akan terus memimpin pertumbuhan ekonomi masa depan.
+Dalam era ekonomi digital global, daya saing suatu bangsa tidak lagi diukur dari cadangan minyak atau mineral di dalam bumi, melainkan dari **kapasitas pembelajaran kolektif** dan adaptabilitas masyarakatnya. Negara yang mengabaikan pengembangan kapasitas manusia akan mengalami stagnasi, sementara negara yang memprioritaskan investasi **Human Capital** akan memimpin pertumbuhan ekonomi masa depan.

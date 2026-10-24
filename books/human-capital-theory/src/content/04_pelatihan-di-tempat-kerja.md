@@ -2,7 +2,7 @@
 
 Dalam kerangka Teori Modal Manusia (*Human Capital Theory*), pengembangan keterampilan tidak berhenti setelah seseorang menyelesaikan pendidikan formal. Sebagian besar akumulasi modal manusia justru terjadi saat seseorang melangkah ke dunia kerja melalui **Pelatihan di Tempat Kerja (On-the-Job Training/OJT)**.
 
-Jika pendidikan formal meletakkan fondasi pengetahuan dasar, maka pelatihan di tempat kerja adalah mekanisme yang mengasah keterampilan teoritis menjadi produktivitas nyata. Namun, tidak semua bentuk pelatihan memiliki sifat dan konsekuensi ekonomi yang sama. Mengapa perusahaan bersedia mendanai kursus bahasa Inggris atau pemrograman untuk karyawannya, tetapi enggan membiayai sekolah pilot atau gelar akademik lanjut? Mengapa jenis keterampilan tertentu membuat gaji kamu melonjak di mana saja, sementara keterampilan lain hanya dihargai di kantor kamu saat ini?
+Jika pendidikan formal meletakkan fondasi pengetahuan dasar, maka pelatihan di tempat kerja adalah mekanisme yang mengasah keterampilan teoritis menjadi produktivitas nyata. Namun, tidak semua bentuk pelatihan memiliki sifat dan konsekuensi ekonomi yang sama. Mengapa perusahaan bersedia mendanai kursus bahasa Inggris atau pemrograman untuk karyawannya, tetapi enggan membiayai sekolah pilot atau gelar akademik lanjut? Mengapa jenis keterampilan tertentu membuat gaji kamu naik di mana saja, sementara keterampilan lain hanya dihargai di kantor kamu saat ini?
 
 Jawabannya terletak pada pembedaan mendasar antara **Pelatihan Umum (General Training)** dan **Pelatihan Spesifik (Specific Training)**.
 
@@ -27,13 +27,13 @@ Gary Becker, ekonom peraih Hadiah Nobel, memformulasikan perbedaan mendasar inve
 - Keterampilan dasar mengemudi atau pengoperasian kendaraan operasional.
 
 > **Analogi Pisau Lipat Multi-Fungsi**  
-> Pelatihan Umum ibarat memberikan sebuah pisau lipat serbaguna kepada seorang pekerja. Pisau tersebut memiliki fungsi yang persis sama bermanfaatnya di mana pun pekerja itu berada. Karena alat ini sangat berguna di tempat lain, pekerja memiliki fleksibilitas untuk berpindah ke organisasi lain yang bersedia menawarkan kompensasi lebih tinggi.
+> Pelatihan Umum ibarat memberikan sebuah pisau lipat serbaguna kepada seorang pekerja. Pisau tersebut memiliki fungsi yang persis sama bermanfaatnya di mana pun pekerja itu berada. Karena alat ini berguna di tempat lain, pekerja memiliki fleksibilitas untuk berpindah ke organisasi lain yang bersedia menawarkan kompensasi lebih tinggi.
 
 #### Implikasi Terhadap Upah dan Pembiayaan
 Dalam pasar persaingan sempurna, **perusahaan tidak memiliki insentif untuk menanggung biaya pelatihan umum**. Jika perusahaan membiayai pelatihan umum dan tetap membayar gaji lama, pekerja akan segera menerima tawaran dari perusahaan pesaing yang bersedia membayar upah setara nilai produktivitas barunya. Apabila perusahaan menaikkan gaji pekerja sekaligus menanggung biaya pelatihan, perusahaan akan mengalami kerugian bersih (*net loss*).
 
 - **Pihak yang Menanggung Biaya:** Pekerja menanggung biaya pelatihan, biasanya secara tidak langsung melalui penerimaan upah yang lebih rendah selama masa pelatihan berlangsung.
-- **Dampak Terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan meningkat tajam menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / $\text{VMP}$) yang baru.
+- **Dampak Terhadap Pola Upah:** Setelah masa pelatihan selesai, upah pekerja akan naik menyesuaikan dengan nilai produktivitas marginal pasar (*Value of Marginal Product* / $\text{VMP}$) yang baru.
 
 ### 3. Pelatihan Spesifik (Specific Training)
 
@@ -137,7 +137,7 @@ Sebuah perusahaan teknologi yang sedang berkembang memberikan program pelatihan 
 #### Strategi Retensi dengan Program Management Trainee
 Banyak korporasi besar merancang program *Management Trainee* (MT) dengan kombinasi kurikulum yang sengaja ditimbang ke arah pelatihan spesifik.
 
-Melalui pemahaman atas budaya perusahaan, jejaring internal, serta metodologi kerja spesifik, organisasi berhasil menciptakan *lock-in effect* yang halus. Karyawan merasa sangat efektif dan dihargai tinggi di dalam organisasi tersebut, tetapi menghadapi *switching cost* yang besar jika memilih pindah ke pesaing karena keahlian khusus mereka tidak dapat dipindahkan secara utuh.
+Melalui pemahaman atas budaya perusahaan, jejaring internal, serta metodologi kerja spesifik, organisasi berhasil menciptakan *lock-in effect* yang halus. Karyawan merasa efektif dan dihargai di dalam organisasi tersebut, tetapi menghadapi *switching cost* yang besar jika memilih pindah ke pesaing karena keahlian khusus mereka tidak dapat dipindahkan secara utuh.
 
 ### 6. Pertimbangan Strategis Pertumbuhan Karir dan Organisasi
 
@@ -152,4 +152,4 @@ Pertanyaan strategis bagi setiap individu dan manajer:
 
 ### Kesimpulan
 
-Diferensiasi antara pelatihan umum dan pelatihan spesifik merupakan batu pijak penting dalam Teori Modal Manusia untuk menjelaskan perilaku pasar kerja, struktur upah, dan tingkat retensi karyawan. Pelatihan umum mendorong mobilitas tenaga kerja dan efisiensi alokasi di tingkat makroekonomi, sementara pelatihan spesifik memperkuat ikatan institusional dan efisiensi operasional di tingkat mikroekonomi. Keseimbangan yang proporsional antara kedua bentuk pelatihan ini menentukan daya saing jangka panjang bagi pekerja maupun organisasi tempat mereka bernaung.
+Diferensiasi antara pelatihan umum dan pelatihan spesifik merupakan konsep penting dalam Teori Modal Manusia untuk menjelaskan perilaku pasar kerja, struktur upah, dan tingkat retensi karyawan. Pelatihan umum mendorong mobilitas tenaga kerja dan efisiensi alokasi di tingkat makroekonomi, sementara pelatihan spesifik memperkuat ikatan institusional dan efisiensi operasional di tingkat mikroekonomi. Keseimbangan yang proporsional antara kedua bentuk pelatihan ini menentukan daya saing jangka panjang bagi pekerja maupun organisasi tempat mereka bernaung.

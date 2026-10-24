@@ -2,7 +2,7 @@
 
 Bayangkan kamu memiliki uang sebesar Rp100 juta. Kamu punya dua pilihan: memasukkannya ke dalam deposito bank dengan bunga 5% per tahun, atau menggunakannya untuk mengambil program sertifikasi profesional tingkat lanjut. Mana pilihan yang lebih menguntungkan?
 
-Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan tidak dipandang sebagai aktivitas konsumsi semata (seperti membeli pakaian atau makanan), melainkan sebagai **investasi**. Sama seperti investasi saham atau properti, investasi pada diri sendiri diharapkan memberikan imbal hasil atau **Rate of Return (RoR)** di masa depan. Keunikan dari modal manusia terletak pada cakupan manfaatnya: keuntungan finansial dan non-finansial tidak hanya dirasakan oleh kamu sendiri, tetapi juga meluap kepada orang-orang di sekitar kamu.
+Dalam **Teori Modal Manusia** (*Human Capital Theory*), pendidikan dan pelatihan tidak dipandang sebagai aktivitas konsumsi semata (seperti membeli pakaian atau makanan), melainkan sebagai **investasi**. Sama seperti investasi saham atau properti, investasi pada diri sendiri diharapkan memberikan imbal hasil atau **Rate of Return (RoR)** di masa depan. Keunikan dari modal manusia terletak pada cakupan manfaatnya: keuntungan finansial dan non-finansial tidak hanya dirasakan oleh kamu sendiri, tetapi juga oleh orang-orang di sekitar kamu.
 
 ---
 
@@ -33,7 +33,7 @@ Keterangan variabel:
 - $r$: Tingkat pengembalian (*Rate of Return* / IRR).
 - $n$: Estimasi durasi usia produktif kerja (dalam tahun).
 
-Sebagai contoh pertimbangan finansial, jika tingkat pengembalian $r$ dari pendidikan tinggi mencapai 12% per tahun sementara suku bunga simpanan atau pinjaman bank berada di tingkat 8%, maka investasi pada pendidikan tersebut secara ekonomis sangat menguntungkan karena menghasilkan nilai tambah di atas biaya modal (*cost of capital*).
+Sebagai contoh pertimbangan finansial, jika tingkat pengembalian $r$ dari pendidikan tinggi mencapai 12% per tahun sementara suku bunga simpanan atau pinjaman bank berada di tingkat 8%, maka investasi pada pendidikan tersebut secara ekonomis menguntungkan karena menghasilkan nilai tambah di atas biaya modal (*cost of capital*).
 
 ---
 
@@ -86,7 +86,7 @@ Terdapat perbedaan mendasar antara perspektif individu dan masyarakat dalam meng
 | **Manfaat Utama** | *Wage premium*, stabilitas karir, dan kepuasan pribadi. | Produktivitas industri, inovasi, dan efisiensi sosial. |
 | **Pola Jenjang Pendidikan** | Cenderung sangat tinggi pada jenjang pendidikan tinggi (Sarjana/Pascasarjana). | Sangat tinggi pada jenjang pendidikan dasar dan menengah (SD/SMP). |
 
-> **Catatan Ekonomi:** Di banyak negara berkembang, pengembalian pribadi untuk pendidikan tinggi sangat tinggi karena selisih gaji lulusan perguruan tinggi sangat lebar. Namun, pengembalian sosialnya relatif lebih rendah karena besarnya subsidi pemerintah per mahasiswa. Sebaliknya, investasi pada pendidikan dasar memiliki pengembalian sosial yang sangat luas karena memberantas buta huruf memberikan dampak masif terhadap stabilitas nasional.
+> **Catatan Ekonomi:** Di banyak negara berkembang, pengembalian pribadi untuk pendidikan tinggi besar karena selisih gaji lulusan perguruan tinggi lebar. Namun, pengembalian sosialnya relatif lebih rendah karena besarnya subsidi pemerintah per mahasiswa. Sebaliknya, investasi pada pendidikan dasar memiliki pengembalian sosial yang luas karena memberantas buta huruf berdampak besar terhadap stabilitas nasional.
 
 ---
 
@@ -103,7 +103,7 @@ Untuk memahami kalkulasi imbal hasil modal manusia, mari pelajari skenario berik
   - Biaya peluang (gaji terlepas 6 bulan x Rp5.000.000) = Rp30.000.000
   - **Total Biaya:** Rp50.000.000
 - **Manfaat Tambahan:** Kenaikan pendapatan sebesar Rp7.000.000 per bulan (Rp12.000.000 - Rp5.000.000).
-- **Titik Impas (*Break-Even Point*):** Siska akan mencapai titik impas dalam waktu sekitar 7,1 bulan kerja (Rp50.000.000 / Rp7.000.000). Ini menunjukkan tingkat pengembalian pribadi yang sangat cepat dan menguntungkan.
+- **Titik Impas (*Break-Even Point*):** Siska akan mencapai titik impas dalam waktu sekitar 7,1 bulan kerja (Rp50.000.000 / Rp7.000.000). Ini menunjukkan tingkat pengembalian pribadi yang cepat dan menguntungkan.
 
 ### Analisis Pengembalian Sosial (Masyarakat & Negara)
 
@@ -119,8 +119,8 @@ Untuk memahami kalkulasi imbal hasil modal manusia, mari pelajari skenario berik
 Bagi pembuat kebijakan publik, analisis perbandingan antara pengembalian pribadi dan sosial menjadi landasan penting dalam menentukan **alokasi subsidi pemerintah**:
 
 1. **Subsidi Tinggi untuk Pengembalian Sosial Tinggi:** Apabila manfaat sosial suatu pendidikan jauh melampaui manfaat pribadinya (seperti pendidikan dasar atau program literasi), pemerintah perlu memberikan subsidi besar atau menggratiskan akses pendidikan tersebut agar seluruh masyarakat berpartisipasi.
-2. **Subsidi Terbatas untuk Pengembalian Pribadi Tinggi:** Apabila manfaat pribadi sudah sangat besar dan memberikan insentif finansial yang kuat bagi individu (seperti gelar MBA profesional atau spesialisasi tertentu), individu umumnya bersedia menanggung biayanya sendiri tanpa memerlukan subsidi besar dari negara.
+2. **Subsidi Terbatas untuk Pengembalian Pribadi Tinggi:** Apabila manfaat pribadi sudah besar dan memberikan insentif finansial yang kuat bagi individu (seperti gelar MBA profesional atau spesialisasi tertentu), individu umumnya bersedia menanggung biayanya sendiri tanpa memerlukan subsidi besar dari negara.
 
 Sebagai pertimbangan simulasi kebijakan: Jika kamu menjabat sebagai Menteri Pendidikan, di manakah alokasi anggaran terbesar sebaiknya diarahkan? Apakah pada Pendidikan Anak Usia Dini (PAUD) yang membentuk fondasi karakter dengan pengembalian sosial tinggi (*High Social Return*), atau pada beasiswa program Doktoral dengan pengembalian pribadi tinggi (*High Private Return*)?
 
-> **Insight Utama:** Investasi dalam modal manusia merupakan satu-satunya bentuk investasi di mana aset utamanya (yaitu kamu) semakin bernilai seiring dengan terus digunakannya pengalaman dan pengetahuan, sementara manfaat yang dihasilkan meluap melampaui batas-batas kepemilikan individu.
+> **Insight Utama:** Dalam investasi modal manusia, aset utamanya (yaitu kamu) semakin bernilai seiring dengan terus digunakannya pengalaman dan pengetahuan, sementara manfaat yang dihasilkan ikut dirasakan orang lain di luar dirimu.
