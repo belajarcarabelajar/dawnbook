@@ -1,6 +1,6 @@
 ## Referensi
 
-Daftar pustaka komprehensif ini menghimpun literatur rujukan teoretis dan studi empiris mengenai semantik, linguistik historis, dan pergeseran nilai rasa kata.
+Daftar pustaka ini menghimpun literatur rujukan teoretis dan studi empiris mengenai semantik, linguistik historis, dan pergeseran nilai rasa kata.
 
 Badudu, J. S. (1983). *Pelik-Pelik Bahasa Indonesia*. Pustaka Prima. [https://onesearch.id/Record/IOS3253.11182](https://onesearch.id/Record/IOS3253.11182)
 

@@ -1,6 +1,6 @@
 ## Dampak Pergeseran Makna pada Etika Berbahasa
 
-Perubahan konotasi kata menuntut kepekaan sosial tinggi agar interaksi antarpenutur tetap menjunjung martabat kemanusiaan dan terhindar dari kesalahpahaman. Berkomunikasi dengan bahasa yang mengalami pergeseran makna, baik pejorasi maupun ameliorasi, ibarat melintasi bentang alam yang strukturnya senantiasa berubah. Tanpa pembaruan peta pemahaman kebahasaan, penutur berisiko terjatuh dalam kesalahpahaman atau menyinggung perasaan lawan bicara.
+Perubahan konotasi kata menuntut kepekaan sosial tinggi agar interaksi antarpenutur menjunjung martabat kemanusiaan dan terhindar dari kesalahpahaman. Berkomunikasi dengan bahasa yang mengalami pergeseran makna, baik pejorasi maupun ameliorasi, ibarat melintasi bentang alam yang strukturnya senantiasa berubah. Tanpa pembaruan peta pemahaman kebahasaan, penutur berisiko terjatuh dalam kesalahpahaman atau menyinggung perasaan lawan bicara.
 
 Dinamika pergeseran makna leksikal merupakan cerminan etika berinteraksi sosial di tengah masyarakat yang majemuk.
 

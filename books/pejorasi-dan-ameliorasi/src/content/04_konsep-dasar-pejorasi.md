@@ -1,6 +1,6 @@
 ## Konsep Dasar Pejorasi
 
-Perubahan makna kata dalam kajian semantik kerap menurunkan nilai rasa dari yang semula terkesan netral atau terhormat menjadi bernada kasar dan merendahkan. Dalam dunia linguistik, fenomena penurunan derajat makna ini bukanlah suatu kebetulan acak, melainkan proses sistematis yang dikenal sebagai pejorasi.
+Perubahan makna kata dalam semantik kerap menurunkan nilai rasa dari yang semula terkesan netral atau terhormat menjadi bernada kasar dan merendahkan. Dalam dunia linguistik, fenomena penurunan derajat makna ini bukanlah suatu kebetulan acak, melainkan proses sistematis yang dikenal sebagai pejorasi.
 
 Jika ameliorasi merupakan proses peningkatan nilai rasa bagi sebuah kata, pejorasi adalah kebalikannya, yaitu pergeseran menuju penurunan nilai rasa. Kajian semantik historis menelusuri bagaimana sebuah kata mengalami degradasi makna akibat perubahan persepsi sosial penuturnya.
 

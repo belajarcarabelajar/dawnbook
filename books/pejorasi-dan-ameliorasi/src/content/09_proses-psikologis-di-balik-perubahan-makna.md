@@ -1,6 +1,6 @@
 ## Proses Psikologis di Balik Perubahan Makna
 
-Perubahan makna kata dalam bahasa berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
+Perubahan makna kata berakar pada dinamika kognitif otak manusia yang menghubungkan konsep linguistik dengan rekaman emosi dan pengalaman sosial.
 
 Kerap muncul pertanyaan mengenai alasan sebuah kata yang dahulu terdengar wajar tiba-tiba terasa menyakitkan atau merendahkan. Sebaliknya, terdapat pula istilah yang dahulu dianggap tabu namun kini menjadi sebutan terhormat.
 
