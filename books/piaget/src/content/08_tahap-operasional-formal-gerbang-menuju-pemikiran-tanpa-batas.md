@@ -1,6 +1,6 @@
 ## Tahap Operasional Formal
 
-Di tahap sebelumnya (Operasional Konkret), anak-anak sudah bisa berpikir logis, tapi pemikiran mereka masih terbatas pada objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
+Di tahap sebelumnya (Operasional Konkret), anak sudah bisa berpikir logis, tapi pemikirannya masih sebatas objek fisik yang bisa dilihat dan disentuh. Nah, di **Tahap Operasional Formal**, batasan itu mulai hilang.
 
 Ibaratnya seperti beralih dari melihat dengan mata telanjang ke memakai teleskop. Mereka mulai bisa melihat "galaksi" pemikiran yang lebih jauh,konsep-konsep abstrak yang bentuk fisiknya tidak ada, tapi secara logika mungkin terjadi.
 

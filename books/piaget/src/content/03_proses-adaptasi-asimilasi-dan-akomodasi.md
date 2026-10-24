@@ -1,6 +1,6 @@
 ## Proses Adaptasi
 
-Pernahkah kamu bertanya-tanya bagaimana seorang anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan antara anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
+Pernahkah kamu bertanya-tanya bagaimana anak kecil yang awalnya hanya mengenal "anjing" tiba-tiba bisa membedakan anjing, kucing, dan sapi? Atau bagaimana kita sebagai orang dewasa belajar menggunakan perangkat lunak baru yang sangat berbeda dari yang pernah kita gunakan sebelumnya?
 
 Menurut Jean Piaget, kecerdasan bukan sekadar tumpukan fakta, melainkan sebuah **proses adaptasi** yang dinamis. Jika pada bagian sebelumnya kita telah mempelajari tentang **Skema** (wadah informasi dalam pikiran), maka sekarang kita akan membedah bagaimana "wadah" tersebut berinteraksi dengan dunia luar melalui dua mekanisme utama: **Asimilasi** dan **Akomodasi**.
 
