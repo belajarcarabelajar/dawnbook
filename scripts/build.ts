@@ -8,6 +8,7 @@ import { generateSitePages, copyAssets, buildHeaders } from "./builder/template-
 import { runHeadingGate } from "./heading-gate";
 import { checkCovers, COVER_FILE } from "./check-covers";
 import { runVoiceGate } from "./check-voice";
+import { runStructureGate } from "./check-book-structure";
 import { renderOgCards } from "./render-og-cards";
 
 async function build() {
@@ -31,6 +32,15 @@ async function build() {
   const voiceGate = runVoiceGate(booksDir);
   if (!voiceGate.ok) {
     for (const p of voiceGate.problems) console.error(`books/${p}`);
+    process.exit(1);
+  }
+
+  // Chapter title level and SUMMARY match, repeated section headings, openers that the meta cut
+  // truncates, and the other per-book structure rules (GEMINI.md section 24).
+  console.log("Checking book structure...");
+  const structureGate = runStructureGate(booksDir);
+  if (!structureGate.ok) {
+    for (const p of structureGate.problems) console.error(`books/${p}`);
     process.exit(1);
   }
 

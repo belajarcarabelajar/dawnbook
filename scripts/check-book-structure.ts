@@ -209,14 +209,58 @@ export function checkBookStructure(bookDir: string): BookStructureResult {
   return { chapters, problems };
 }
 
+function isBook(booksDir: string, slug: string): boolean {
+  return !slug.startsWith("_") && fs.existsSync(path.join(booksDir, slug, "src/content"));
+}
+
+export interface StructureGateResult {
+  ok: boolean;
+  problems: string[];
+}
+
+// Build step (GEMINI.md section 24): every book in the library must pass the per-book check, `_` slugs
+// such as _template are skipped, and a book with no checkable chapters fails instead of passing vacuously.
+export function runStructureGate(booksDir: string): StructureGateResult {
+  const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s)).sort();
+  const problems = slugs.flatMap((slug) => {
+    const { chapters, problems: found } = checkBookStructure(path.join(booksDir, slug));
+    if (chapters === 0 && found.length === 0) return [`${slug}: no checkable chapters`];
+    return found.map((p) => `${slug}/${p}`);
+  });
+  return { ok: problems.length === 0, problems };
+}
+
 if (import.meta.main) {
-  const slug = process.argv[2];
-  if (!slug) {
-    console.error("usage: bun run scripts/check-book-structure.ts <book-slug>");
+  const args = process.argv.slice(2);
+  let booksDir = path.resolve(import.meta.dir, "../books");
+  const at = args.indexOf("--books-dir");
+  if (at >= 0) {
+    booksDir = path.resolve(args[at + 1] ?? "");
+    args.splice(at, 2);
+  }
+  const slugs = args.includes("--all")
+    ? fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s)).sort()
+    : args;
+  if (slugs.length === 0) {
+    console.error("usage: bun run scripts/check-book-structure.ts [--books-dir <dir>] <book-slug> [<book-slug> ...] | --all");
     process.exit(2);
   }
-  const { chapters, problems } = checkBookStructure(path.join(import.meta.dir, "..", "books", slug));
-  for (const p of problems) console.log(p);
-  console.log(`${slug}: ${chapters} chapters, ${problems.length} problems`);
-  process.exit(problems.length ? 1 : 0);
+  const unknown = slugs.filter((s) => !isBook(booksDir, s));
+  if (unknown.length) {
+    console.error(`unknown book: ${unknown.join(", ")}`);
+    process.exit(2);
+  }
+  let total = 0;
+  for (const slug of slugs) {
+    const { chapters, problems } = checkBookStructure(path.join(booksDir, slug));
+    for (const p of problems) console.log(p);
+    if (chapters === 0 && problems.length === 0) {
+      console.log(`${slug}: no checkable chapters`);
+      total++;
+      continue;
+    }
+    console.log(`${slug}: ${chapters} chapters, ${problems.length} problems`);
+    total += problems.length;
+  }
+  process.exit(total ? 1 : 0);
 }
