@@ -36,7 +36,7 @@ $$
 
 *Contoh:* Jika target perusahaan adalah menjual 1.000 unit dan berhasil tercapai, maka tindakan tersebut efektif.
 
-Dalam merintis bisnis baru, pengusaha sering kali dihadapkan pada dilema untuk memprioritaskan salah satu di antara keduanya. Untuk memahami perbandingannya, perhatikan tabel berikut:
+Dalam merintis bisnis baru, pengusaha sering kali dihadapkan pada dilema untuk memprioritaskan salah satu di antara keduanya. Perbandingan keduanya tampak pada tabel berikut:
 
 | Kondisi | Deskripsi |
 | --- | --- |
