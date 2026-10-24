@@ -1,6 +1,6 @@
 ## Strategi Mengembangkan Berbagai Kecerdasan
 
-Setelah memahami berbagai jenis kecerdasan dalam Teori Kecerdasan Majemuk, ada satu pertanyaan nyata yang muncul. **Bagaimana kamu bisa menggunakan pengetahuan ini untuk meningkatkan kualitas hidupmu?**
+Setelah memahami berbagai jenis kecerdasan dalam Teori Kecerdasan Majemuk, muncul satu pertanyaan nyata di benakmu. **Bagaimana kamu bisa menggunakan pengetahuan ini untuk meningkatkan kualitas hidupmu?**
 
 Kecerdasan bukanlah sebuah wadah yang statis atau angka kaku yang kamu terima saat lahir. Coba bayangkan kecerdasan sebagai sebuah **ekosistem**. Beberapa bagian mungkin berupa hutan rimba yang rimbun sebagai kekuatan dominan, sementara bagian lain berwujud tanah gersang yang membutuhkan irigasi dan perawatan intensif.
 
