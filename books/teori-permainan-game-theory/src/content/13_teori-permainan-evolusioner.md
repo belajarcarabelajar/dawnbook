@@ -126,7 +126,7 @@ Pada generasi awal, kebugaran elang (42,50) jauh di atas rata-rata (24,50), sehi
 
 Teori Permainan Evolusioner mengajarkan kita bahwa perilaku yang tampak "tidak logis" pada tingkat individu (seperti mengalah atau mengorbankan diri) sering kali merupakan strategi yang stabil dan cerdas pada tingkat populasi.
 
-**Poin Penting untuk Diingat:**
+**Hal yang Perlu Diingat:**
 
 - **ESS** adalah kondisi di mana populasi kebal terhadap "serangan" strategi asing.
 - **Kebugaran (Fitness)** adalah mata uang utama, bukan uang atau kepuasan pribadi.

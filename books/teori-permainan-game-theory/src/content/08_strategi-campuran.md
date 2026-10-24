@@ -81,7 +81,7 @@ Artinya, Pemain A harus memilih Angka 50% dari waktu dan Gambar 50% dari waktu a
 
 Perhitungan yang sama dari sisi Pemain A (menyamakan ekspektasi hasilnya saat memilih Angka dan saat memilih Gambar) menghasilkan $q = 0{,}5$ untuk Pemain B. Jadi, dalam ekuilibrium strategi campuran Matching Pennies, kedua pemain memilih masing-masing aksi dengan peluang 0,5.
 
-### 4. Aplikasi Dunia Nyata dan Kasus Praktis
+### 4. Strategi Campuran di Keamanan Siber, Olahraga, dan Hukum
 
 Strategi campuran bukan sekadar teori matematika, melainkan alat pertahanan dan optimasi di dunia nyata.
 

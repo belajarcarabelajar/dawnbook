@@ -102,7 +102,7 @@ Dalam kecerdasan buatan, kita sering bertanya: *"Fitur mana yang paling berpenga
 
 Dalam parlemen atau dewan direksi, jumlah kursi tidak selalu mencerminkan kekuatan sebenarnya. Nilai Shapley-Shubik membantu mengukur seberapa sering seorang pemain menjadi "penentu" (pivotal) dalam sebuah pemungutan suara untuk meloloskan kebijakan.
 
-## 6. Ringkasan Strategis
+## 6. Sinergi dan Pembagian yang Adil
 
 > **Pesan Utama:** Teori permainan kooperatif mengajarkan kita bahwa sinergi kelompok dapat menciptakan nilai yang lebih besar daripada usaha individu. Namun, keberlanjutan kerja sama sangat bergantung pada **mekanisme pembagian yang dirasakan adil oleh semua anggota.**
 

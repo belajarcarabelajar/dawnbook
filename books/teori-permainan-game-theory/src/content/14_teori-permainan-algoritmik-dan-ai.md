@@ -4,7 +4,7 @@ Teori permainan algoritmik memadukan matematika, ekonomi, dan ilmu komputer. Jik
 
 Bayangkan jutaan bot perdagangan saham, mobil otonom, dan algoritma lelang iklan saling berinteraksi setiap milidetik. Bagaimana kita memastikan sistem serumit ini tetap stabil dan efisien? Jawabannya terletak pada **Teori Permainan Algoritmik (Algorithmic Game Theory - AGT)**.
 
-## 1. Jembatan Antara Insentif dan Komputasi
+## 1. Kendala Komputasi dan Insentif
 
 Teori permainan klasik sering kali berasumsi bahwa pemain memiliki kecerdasan tak terbatas dan waktu yang cukup untuk menghitung strategi terbaik. Namun, dalam dunia nyata (terutama internet), kita menghadapi dua kendala besar:
 

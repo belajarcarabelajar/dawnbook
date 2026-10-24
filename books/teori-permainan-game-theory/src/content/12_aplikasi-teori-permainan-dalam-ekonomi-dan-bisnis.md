@@ -4,7 +4,7 @@ Pernahkah kamu bertanya-tanya mengapa perusahaan besar seperti Samsung dan Apple
 
 Dalam bagian ini, kita akan melihat bagaimana Teori Permainan membantu memahami persaingan pasar, dinamika harga, dan cara kerja sistem lelang.
 
-## 1. Catur Antar Raksasa
+## 1. Persaingan di Pasar Oligopoli
 
 Oligopoli adalah struktur pasar di mana hanya ada sedikit perusahaan yang mendominasi. Karena pemainnya sedikit, setiap tindakan satu perusahaan akan sangat memengaruhi perusahaan lain. Ini adalah bentuk nyata dari **interdependensi strategis**.
 
@@ -31,7 +31,7 @@ Berbeda dengan Cournot, model Bertrand berasumsi bahwa perusahaan bersaing melal
 
 > **Insight Penting:** Dalam dunia nyata, perusahaan berusaha menghindari Paradoks Bertrand dengan melakukan **diferensiasi produk** (merek, fitur, atau layanan) sehingga mereka tidak hanya bersaing di harga.
 
-## 2. Perang Harga sebagai Dilema Tahanan di Rak Supermarket
+## 2. Perang Harga Dua Maskapai
 
 Mengapa perang harga sering kali merugikan semua orang yang terlibat? Kita bisa melihat ini sebagai aplikasi dari **Dilema Tahanan (Prisoner's Dilemma)**.
 
@@ -50,7 +50,7 @@ Bayangkan dua maskapai penerbangan, *Lestari Air* dan *Mega Flight*, yang melaya
 
 *Pernahkah kamu melihat iklan "Kami memberikan jaminan harga termurah, jika ada yang lebih murah kami ganti selisihnya"? Secara strategis, ini bukan sekadar janji ke konsumen, melainkan sinyal kepada pesaing: "Jangan coba-coba turunkan harga, karena saya pasti akan mengikutinya dan kita berdua akan rugi."*
 
-## 3. Seni Menentukan Harga lewat Mekanisme Lelang
+## 3. Penentuan Harga lewat Lelang
 
 Lelang adalah salah satu aplikasi Teori Permainan, digunakan mulai dari menjual lukisan kuno hingga mengalokasikan frekuensi 5G dan iklan digital (Google Ads).
 
@@ -75,7 +75,7 @@ Setiap kali kamu mencari sesuatu di Google, terjadi lelang Teori Permainan dalam
 - **Mekanisme:** Google tidak hanya melihat siapa yang menawar paling tinggi (bid), tapi juga kualitas iklan tersebut. Namun, poin pentingnya adalah pengiklan biasanya hanya membayar sedikit di atas tawaran pesaing di bawahnya.
 - **Manfaat:** Ini mendorong pengiklan untuk memberikan penawaran yang jujur berdasarkan nilai klik bagi bisnis mereka, menciptakan ekosistem yang stabil dan menguntungkan bagi Google maupun pengiklan.
 
-## Rangkuman Strategis
+## Tiga Langkah Memetakan Persaingan
 
 Untuk memenangkan permainan di dunia ekonomi dan bisnis, kamu harus:
 

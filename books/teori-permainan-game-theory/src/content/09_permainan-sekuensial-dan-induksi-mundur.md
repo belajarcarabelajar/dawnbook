@@ -23,7 +23,7 @@ Sebelum kita melakukan analisis, kita harus memahami struktur "peta" permainan i
 3. **Simpul Terminal (Terminal Nodes):** Titik akhir permainan di mana hasil ditentukan.
 4. **Hasil (Payoffs):** Angka yang menunjukkan keuntungan/kerugian bagi setiap pemain di akhir jalur tertentu.
 
-## 3. Induksi Mundur (Backward Induction) sebagai Logika Detektif
+## 3. Induksi Mundur (Backward Induction)
 
 Teknik utama untuk memecahkan permainan sekuensial adalah **Induksi Mundur (Backward Induction)**.
 
@@ -89,7 +89,7 @@ Hasil yang kita temukan melalui induksi mundur disebut **Subgame Perfect Nash Eq
 
 Namun, melalui induksi mundur, Pendatang (P) tahu bahwa ancaman itu tidak rasional. Saat benar-benar dihadapkan pada pilihan di akhir, Petahana akan lebih memilih untung $5$ daripada rugi $-1$. Induksi mundur membantu kita menyaring strategi yang hanya berupa gertakan.
 
-## 6. Aplikasi Dunia Nyata dan Kasus Praktis
+## 6. Induksi Mundur di Negosiasi, Catur, dan Militer
 
 1. **Negosiasi Gaji:** Calon karyawan memberikan angka pertama (jangkar), perusahaan merespons. Calon karyawan harus memikirkan: *"Jika saya meminta X, apakah mereka akan menolak atau memberikan penawaran kontra Y?"*
 2. **Catur dan Board Games:** Mesin catur seperti Stockfish menggunakan evaluasi jutaan posisi ke depan dan melakukan induksi mundur untuk menemukan langkah terbaik saat ini. Dalam dunia AI, bentuk induksi mundur ini dikenal sebagai algoritma **Minimax**, yang juga dipakai untuk permainan seperti Tic-Tac-Toe.

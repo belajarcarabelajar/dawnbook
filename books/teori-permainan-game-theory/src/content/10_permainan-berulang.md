@@ -69,7 +69,7 @@ stateDiagram-v2
     Curang --> Kerja : lawan bekerja sama
 ```
 
-**Mengapa Tit-for-Tat sangat efektif?**
+**Mengapa Tit-for-Tat efektif?**
 
 - **Ramah:** Tidak pernah menjadi yang pertama untuk berbuat curang.
 - **Tegas:** Langsung membalas jika lawan berbuat curang.
