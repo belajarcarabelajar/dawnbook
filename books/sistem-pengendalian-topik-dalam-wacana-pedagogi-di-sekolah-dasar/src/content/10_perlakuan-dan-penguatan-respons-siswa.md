@@ -33,7 +33,7 @@ Guru sering kali mengulang jawaban siswa (sekitar 6% dalam temuan wacana kelas) 
 
 ### Ilustrasi Transkrip Percakapan dan Pembahasan
 
-Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, perhatikan contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
+Untuk memahami bagaimana penguatan respons berfungsi dalam praktik nyata, amati contoh pertukaran wacana antara guru (G) dan siswa (S) berikut.
 
 #### Penguatan Berupa Pujian Verbal
 

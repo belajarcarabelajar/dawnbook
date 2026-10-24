@@ -50,7 +50,7 @@ Penggunaan kata *baik* yang diulang mengisyaratkan kepada siswa bahwa fase instr
 Penggunaan kata *eh...* sering ditemui ketika guru menghentikan alur pembicaraan sejenak guna mengatur langkah pengajaran berikutnya.
 
 > **Kutipan Transkripsi Kelas:**  
-> **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu."  
+> **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu." <!-- voice-ok: verbatim classroom transcript, the teacher's own words -->
 > **Guru:** "Eh... membaca jangan asal dibaca. Selesai bacaan beres. Tetapi kalau kita membaca, harus ada yang kita pahami. Membaca itu untuk apa sih gunanya?"
 
 Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua hal:
