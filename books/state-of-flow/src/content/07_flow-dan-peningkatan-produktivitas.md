@@ -2,7 +2,7 @@
 
 Pernahkah kamu begitu tenggelam dalam pekerjaan hingga dunia seolah lenyap, lalu sadar tugas yang biasanya memakan waktu seharian selesai dalam dua jam? Itulah kekuatan dari **State of Flow**.
 
-Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini bukan sekadar perasaan "senang bekerja", melainkan sebuah mesin pendorong efisiensi dan kreativitas yang mampu mengubah output kerja kamu secara radikal.
+Dalam bagian ini, kita akan membedah bagaimana kondisi mental ini bukan sekadar perasaan "senang bekerja", melainkan kondisi yang mendorong efisiensi dan kreativitas serta mampu mengubah output kerja kamu.
 
 ### 1\. Lonjakan Produktivitas
 
@@ -59,7 +59,7 @@ Bayangkan produktivitas kamu sebagai sebuah mesin mobil.
 
 Bekerja dalam **kondisi mental biasa** seperti mengendarai mobil dengan rem tangan yang tertarik setengah dan mesin yang berkarat. Kamu menginjak gas dalam-dalam (bekerja keras), tetapi mobil bergetar hebat dan hanya melaju lambat. Bahan bakar (energi mental) habis dengan cepat.
 
-Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger* pada mobil balap yang baru diservis. Rem tangan dilepas, jalur dikosongkan, dan mesin bekerja dengan sinkronisasi sempurna. Kamu melaju jauh lebih cepat dengan hambatan yang jauh lebih sedikit.
+Bekerja dalam **kondisi flow** adalah seperti mengaktifkan sistem *turbocharger* pada mobil balap yang baru diservis. Rem tangan dilepas, jalur dikosongkan, dan mesin bekerja selaras. Kamu melaju jauh lebih cepat dengan hambatan yang jauh lebih sedikit.
 
 ### 6\. Aplikasi Nyata dan Skenario
 

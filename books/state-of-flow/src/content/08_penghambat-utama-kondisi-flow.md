@@ -1,8 +1,8 @@
 ## Penghambat Utama Kondisi Flow
 
-Bayangkan kamu sedang mengendarai mobil balap di lintasan yang mulus dengan kecepatan tinggi. Segalanya terasa sinkron, mesin menderu harmonis, dan kamu merasa menyatu dengan kendaraan. Tiba-tiba, seseorang menumpahkan sekotak paku di tengah jalan atau menarik rem tangan secara mendadak. Itulah yang terjadi ketika **Flow Killers** masuk ke dalam ruang kerja mental kamu.
+Bayangkan kamu sedang mengendarai mobil balap di lintasan yang mulus dengan kecepatan tinggi. Segalanya terasa sinkron, mesin menderu, dan kamu merasa menyatu dengan kendaraan. Tiba-tiba, seseorang menumpahkan sekotak paku di tengah jalan atau menarik rem tangan secara mendadak. Itulah yang terjadi ketika **Flow Killers** masuk ke dalam ruang kerja mental kamu.
 
-Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivitas luar biasa, ia membutuhkan lingkungan dan kondisi mental yang spesifik untuk tetap bertahan. Dalam bagian ini, kita akan membedah musuh-musuh utama yang mencegah kamu mencapai atau mempertahankan kondisi alir tersebut.
+Kondisi *flow* adalah keadaan yang sangat rapuh. Meskipun memberikan produktivitas tinggi, ia membutuhkan lingkungan dan kondisi mental yang spesifik untuk tetap bertahan. Dalam bagian ini, kita akan membedah musuh-musuh utama yang mencegah kamu mencapai atau mempertahankan kondisi alir tersebut.
 
 ## 1\. Gangguan Digital yang Mencuri Perhatian
 
@@ -40,7 +40,7 @@ Dalam kondisi stres tinggi:
 2. **Prefrontal Cortex** (pusat logika dan fokus) menjadi kurang aktif.
 3. Hasilnya adalah kepanikan, bukan fokus.
 
-*Tumpukan tugas yang terasa luar biasa berat dapat membuat sistem saraf masuk ke mode "Freeze" - beku di tempat, tidak mampu memulai apa pun - yang merupakan kebalikan total dari kondisi flow.*
+*Tumpukan tugas yang terasa terlalu berat dapat membuat sistem saraf masuk ke mode "Freeze" - beku di tempat, tidak mampu memulai apa pun - yang merupakan kebalikan total dari kondisi flow.*
 
 ## 4\. Lingkungan yang Tidak Mendukung Fokus Mendalam
 

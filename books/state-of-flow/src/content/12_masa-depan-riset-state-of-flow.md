@@ -1,6 +1,6 @@
 ## Masa Depan Riset State of Flow
 
-Selamat datang di masa depan. Jika bab-bab sebelumnya telah membawa kamu memahami apa itu *flow* dan bagaimana mekanisme biologisnya bekerja, sekarang saatnya kita menyingkap tirai untuk melihat apa yang sedang dipersiapkan oleh sains dan teknologi bagi umat manusia.
+Bab-bab sebelumnya telah membawa kamu memahami apa itu *flow* dan bagaimana mekanisme biologis di balik kondisi ini bekerja. Sekarang kita melihat apa yang sedang dipersiapkan oleh sains dan teknologi di bidang ini.
 
 Dahulu, masuk ke kondisi *flow* dianggap sebagai sebuah "keberuntungan" atau hasil dari latihan disiplin selama bertahun-tahun. Namun, hari ini kita sedang memasuki era **"Flow on Demand"** - sebuah masa di mana kondisi alir bukan lagi sekadar kebetulan, melainkan sesuatu yang bisa dirancang, diinduksi, dan dioptimalkan secara presisi.
 
@@ -36,7 +36,7 @@ Pernahkah kamu merasa sebuah game tiba-tiba menjadi terlalu sulit atau justru te
 - **Real-world Application:** Game seperti *Left 4 Dead* telah menggunakan "AI Director", namun masa depan akan melibatkan pengenalan emosi melalui kamera wajah atau sensor detak jantung pemain untuk memastikan pemain tetap berada dalam keseimbangan matematis:
    $$\frac{\text{Tantangan}}{\text{Keterampilan}} \approx 1$$
 
-Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hancur. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
+Jika rasio ini menjauh dari angka 1, pengalaman *flow* akan hilang. AI masa depan bertugas menjaga rasio ini tetap stabil secara dinamis setiap detiknya.
 
 ## 3\. Revolusi Pendidikan lewat Flow-Centric Learning
 
@@ -66,7 +66,7 @@ Bayangkan sebuah ruang kerja masa depan yang disebut **"Flow Hub"**. Ini bukan s
 
 ## 5\. Tantangan dan Etika di Masa Depan
 
-Meskipun terdengar luar biasa, riset masa depan juga menghadapi dilema etis yang besar:
+Meskipun terdengar menjanjikan, riset masa depan juga menghadapi dilema etis yang besar:
 
 - **Kecanduan Flow:** Jika *flow* bisa diinduksi secara artifisial, apakah manusia akan menolak untuk menghadapi realitas yang membosankan?
 - **Ketimpangan Kognitif:** Apakah teknologi induksi *flow* hanya akan tersedia bagi mereka yang mampu membelinya, menciptakan "kelas super" manusia yang jauh lebih produktif?

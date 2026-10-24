@@ -39,7 +39,7 @@ Terjadi ketika $\text{Keterampilan} > \text{Tantangan}$. Bayangkan seorang ahli 
 
 ### C. Saluran Flow (Flow Channel)
 
-Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Inilah "zona emas". Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
+Terjadi ketika $\text{Tantangan} \approx \text{Keterampilan}$. Tugas tersebut cukup sulit untuk membuat kamu tetap waspada dan fokus, namun cukup bisa dilakukan sehingga kamu merasa memiliki kendali.
 
 ## 3\. Delapan Spektrum Pengalaman (The Experience Fluctuation Model)
 
@@ -105,7 +105,7 @@ Jika kamu merasa keluar dari jalur *flow*, gunakan langkah-langkah praktis berik
 2. **Tingkatkan Kualitas:** Jika menulis laporan terasa membosankan, tantang diri kamu untuk menggunakan kosakata yang lebih kaya atau analisis yang lebih mendalam.
 3. **Eksperimentasi:** Gunakan metode baru untuk menyelesaikan masalah lama.
 
-> **Penting:** Gerakan di dalam grafik ini bersifat spiral ke atas. Setiap kali kamu berhasil mengatasi tantangan tinggi dengan keterampilan baru, kamu tidak akan pernah kembali ke level tantangan yang rendah dengan kepuasan yang sama. Ini adalah **Evolusi Diri**.
+> **Penting:** Gerakan di dalam grafik ini bersifat spiral ke atas. Setiap kali kamu berhasil mengatasi tantangan tinggi dengan keterampilan baru, kamu tidak akan pernah kembali ke level tantangan yang rendah dengan kepuasan yang sama. Begitulah diri kamu bertumbuh.
 
 ## Kesimpulan
 

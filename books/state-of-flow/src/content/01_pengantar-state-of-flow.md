@@ -1,6 +1,6 @@
 ## Pengantar State of Flow
 
-Pernahkah kamu melakukan sesuatu, misalnya melukis, menulis kode, bermain gim, atau berolahraga, lalu sadar waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir dengan sempurna ke tindakan berikutnya tanpa perlu berpikir keras.
+Pernahkah kamu melakukan sesuatu, misalnya melukis, menulis kode, bermain gim, atau berolahraga, lalu sadar waktu telah berlalu berjam-jam dalam sekejap? Di saat itu, gangguan di sekitar seolah sirna, rasa lelah tidak terasa, dan setiap tindakan kamu mengalir ke tindakan berikutnya tanpa perlu berpikir keras.
 
 Selamat, kamu telah mengalami apa yang oleh para psikolog disebut sebagai **State of Flow** (Kondisi Alir).
 
@@ -8,13 +8,13 @@ Selamat, kamu telah mengalami apa yang oleh para psikolog disebut sebagai **Stat
 
 Secara sederhana, **Flow** adalah kondisi mental di mana seseorang tenggelam sepenuhnya dalam apa yang sedang ia lakukan. Ini bukan sekadar konsentrasi biasa; ini adalah **hanyut secara total**.
 
-Bayangkan sebuah sungai yang mengalir deras namun tenang. Airnya tidak dipaksa untuk bergerak; ia mengikuti gravitasi dan kontur tanah dengan efisiensi yang sempurna. Begitu pula manusia dalam kondisi *flow*: energi mental kita terarah sepenuhnya pada satu titik, menciptakan harmoni antara pikiran dan tindakan.
+Bayangkan sebuah sungai yang mengalir deras namun tenang. Airnya tidak dipaksa untuk bergerak; ia mengikuti gravitasi dan kontur tanah. Begitu pula manusia dalam kondisi *flow*: energi mental kita terarah sepenuhnya pada satu titik, sehingga pikiran dan tindakan berjalan seiring.
 
 > **Definisi Inti:** *Flow* adalah kondisi kesadaran yang optimal di mana kita merasakan yang terbaik dan memberikan performa terbaik kita.
 
 ### Sang Dirigen Orkestra
 
-Bayangkan seorang dirigen orkestra di tengah pertunjukan yang megah. Dia tidak lagi memikirkan gerakan tangannya secara mekanis. Dia tidak mencemaskan apa yang akan dimakan untuk makan malam. Dia *menjadi* musik itu sendiri. Tongkatnya, para pemain musik, dan partitur melebur menjadi satu kesatuan yang koheren. Inilah esensi dari *flow*: hilangnya pemisahan antara "diri" dan "aktivitas".
+Bayangkan seorang dirigen orkestra di tengah pertunjukan. Dia tidak lagi memikirkan gerakan tangannya secara mekanis. Dia tidak mencemaskan apa yang akan dimakan untuk makan malam. Dia, tongkatnya, para pemain musik, dan partitur menyatu dalam satu pertunjukan. Inilah esensi dari *flow*: hilangnya pemisahan antara "diri" dan "aktivitas".
 
 ## Peran Flow dalam Psikologi Positif
 
@@ -30,7 +30,7 @@ Psikologi Positif bertanya: *"Apa yang membuat hidup layak dijalani?"*
 
 ## Bagaimana Flow Mengubah Pengalaman Manusia?
 
-Saat kita memasuki kondisi *flow*, terjadi perubahan radikal dalam cara otak kita memproses informasi. Pengalaman manusia bertransformasi dalam tiga dimensi utama:
+Saat kita memasuki kondisi *flow*, terjadi perubahan dalam cara otak kita memproses informasi. Pengalaman manusia berubah dalam tiga hal utama:
 
 ### 1\. Transformasi Fokus
 
@@ -51,11 +51,11 @@ Kondisi ini tidak eksklusif untuk seniman atau atlet elit. *Flow* adalah kemampu
 - **Dunia Pemrograman (Coding):** Seorang *programmer* masuk ke dalam "the zone" di mana ribuan baris kode terasa seperti bahasa ibu, dan struktur logika aplikasi terbangun dengan sendirinya di dalam pikiran.
 - **Dunia Medis:** Seorang ahli bedah yang melakukan operasi rumit selama 10 jam sering kali melaporkan tidak merasa haus atau lapar sedikit pun hingga operasi selesai.
 - **Pekerjaan Kreatif:** Penulis yang merasa karakternya "berbicara sendiri" dan jemarinya hanya sekadar mengikuti apa yang ingin disampaikan oleh cerita tersebut.
-- **Kehidupan Sehari-hari:** Memasak resep baru, berkebun, atau bahkan melakukan percakapan yang sangat mendalam dengan sahabat bisa menjadi pintu masuk menuju *flow*.
+- **Kehidupan Sehari-hari:** Memasak resep baru, berkebun, atau bahkan melakukan percakapan yang mendalam dengan sahabat bisa menjadi pintu masuk menuju *flow*.
 
 ## Mengapa Kita Membutuhkan Flow Sekarang?
 
-Di era *attention economy* saat ini, kemampuan untuk mencapai *state of flow* adalah "kekuatan super". Kita dikelilingi oleh notifikasi, gangguan media sosial, dan tuntutan untuk selalu cepat.
+Di era *attention economy* saat ini, kemampuan untuk mencapai *state of flow* menjadi keunggulan. Kita dikelilingi oleh notifikasi, gangguan media sosial, dan tuntutan untuk selalu cepat.
 
 Memahami dan melatih diri untuk masuk ke dalam kondisi *flow* bukan hanya tentang menjadi lebih produktif, tetapi tentang **merebut kembali kendali atas perhatian kita**. Dengan menguasai *flow*, kita beralih dari sekadar "bertahan hidup" (surviving) menjadi benar-benar "berkembang" (thriving).
 

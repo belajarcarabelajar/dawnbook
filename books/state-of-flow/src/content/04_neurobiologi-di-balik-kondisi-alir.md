@@ -1,6 +1,6 @@
 ## Neurobiologi di Balik Kondisi Alir
 
-Pernahkah kamu merasa seolah dunia di sekitarmu memudar, waktu melambat atau justru melesat cepat, dan kamu menyatu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat tarian biologis yang sangat presisi di dalam otak kita.
+Pernahkah kamu merasa seolah dunia di sekitarmu memudar, waktu melambat atau justru melesat cepat, dan kamu menyatu dengan apa yang sedang kamu kerjakan? Dalam psikologi, ini disebut **Flow**. Namun, di balik pengalaman subjektif ini, terdapat rangkaian proses biologis yang terkoordinasi di dalam otak kita.
 
 Memahami neurobiologi flow bukan hanya soal memuaskan rasa ingin tahu ilmiah. Dengan memahami "mesin" di balik kondisi ini, kita bisa belajar cara mengaktifkannya dengan lebih konsisten.
 
@@ -42,7 +42,7 @@ Kondisi flow adalah satu-satunya saat di mana otak manusia melepaskan lima bahan
 
 ## 3\. Pergeseran Gelombang Otak
 
-Otak kita beroperasi pada frekuensi listrik yang berbeda-beda. Dalam kondisi normal, kita berada pada gelombang $\text{Beta}$ (waspada/stres). Namun, flow membawa kita ke ambang batas yang sangat spesifik.
+Otak kita beroperasi pada frekuensi listrik yang berbeda-beda. Dalam kondisi normal, kita berada pada gelombang $\text{Beta}$ (waspada/stres). Namun, flow membawa kita ke ambang batas yang spesifik.
 
 Dalam flow, otak bergerak dari:
 

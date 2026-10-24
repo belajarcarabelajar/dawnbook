@@ -1,14 +1,14 @@
 ## Sisi Gelap dan Risiko Kondisi Flow
 
-Selama ini, kita sering membicarakan **State of Flow** seolah-olah itu adalah solusi universal untuk semua masalah produktivitas dan kebahagiaan. Memang benar, berada dalam kondisi alir memberikan kepuasan luar biasa dan hasil kerja yang superior. Namun, seperti koin yang memiliki dua sisi, flow juga menyimpan risiko yang jarang dibahas.
+Selama ini, kita sering membicarakan **State of Flow** seolah-olah itu adalah solusi universal untuk semua masalah produktivitas dan kebahagiaan. Memang benar, berada dalam kondisi alir memberikan kepuasan besar dan hasil kerja yang lebih baik. Namun, seperti koin yang memiliki dua sisi, flow juga menyimpan risiko yang jarang dibahas.
 
 Jika tidak dikelola dengan bijak, pengejaran terhadap kondisi flow bisa berubah dari motivasi yang sehat menjadi perilaku yang destruktif. Bagian ini akan mengupas sisi gelap dari fenomena psikologis ini dan bagaimana kamu bisa tetap menikmatinya tanpa mengorbankan keseimbangan hidup.
 
 ### 1\. Adiksi Terhadap "High" dari Flow
 
-Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf yang sangat kuat: **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
+Secara neurobiologis, saat kamu berada dalam kondisi flow, otak melepaskan "koktail" bahan kimia saraf: **Dopamin, Norepinefrin, Endorfin, Anandamida, dan Serotonin**.
 
-**Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan yang luar biasa. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
+**Mesin yang Dipacu Berlebihan** Bayangkan flow seperti sistem *Nitrous Oxide* (NOS) pada mobil balap. Ia memberikan lonjakan kecepatan. Namun, jika kamu menekan tombol NOS terus-menerus tanpa henti, mesin akan mengalami *overheat* dan akhirnya hancur. Begitu pula dengan otak manusia.
 
 - **Kecanduan Dopamin:** Karena perasaan yang dihasilkan sangat menyenangkan (euforia), seseorang bisa menjadi "pecandu flow". Mereka mungkin mulai mengabaikan tanggung jawab dasar hanya untuk mengejar sensasi "berada di zona tersebut".
 - **Aktivitas Berisiko:** Untuk mendapatkan level flow yang sama, seseorang mungkin mencari tantangan yang jauh lebih berbahaya (misalnya dalam olahraga ekstrem) karena tantangan lama tidak lagi memberikan stimulasi yang cukup.
@@ -25,7 +25,7 @@ Kondisi flow bersifat **bebas nilai (value-neutral)**. Artinya, otak tidak membe
 
 ### 3\. Pengabaian Aspek Kehidupan Lainnya
 
-Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran diri**. Dalam jangka pendek, ini luar biasa. Dalam jangka panjang dan berlebihan, ini bisa menjadi bencana.
+Karakteristik utama flow adalah **distorsi waktu** dan **hilangnya kesadaran diri**. Dalam jangka pendek, ini menguntungkan. Dalam jangka panjang dan berlebihan, ini bisa merugikan.
 
 #### Dampak Fisik dan Sosial
 
@@ -58,7 +58,7 @@ Dimana:
 Dalam industri pengembangan video game atau film, terdapat istilah **"The Crunch"**. Ini adalah periode di mana karyawan bekerja dalam kondisi flow yang dipaksakan selama berbulan-bulan untuk mengejar tenggat waktu.
 
 - **Skenario:** Seorang desainer grafis sangat mencintai pekerjaannya dan sering berada dalam flow. Perusahaannya memanfaatkan ini dengan memberikan beban kerja berlebih.
-- **Hasilnya:** Meskipun output-nya luar biasa dalam jangka pendek, desainer tersebut akhirnya mengalami depresi dan penurunan kreativitas secara permanen karena ia tidak pernah "keluar" dari mode kerja. Flow yang tadinya menjadi sumber kebahagiaan berubah menjadi penjara mental.
+- **Hasilnya:** Meskipun output-nya tinggi dalam jangka pendek, desainer tersebut akhirnya mengalami depresi dan penurunan kreativitas secara permanen karena ia tidak pernah "keluar" dari mode kerja. Flow yang tadinya menjadi sumber kebahagiaan berubah menjadi beban.
 
 ### Strategi Menjaga Keseimbangan (Mencegah Sisi Gelap)
 

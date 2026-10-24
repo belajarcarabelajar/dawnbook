@@ -62,7 +62,7 @@ $$
 
 Memahami sejarah *Flow* membantu kita menyadari bahwa kondisi ini bukan "bakat" atau "keberuntungan", melainkan desain mental yang bisa diakses oleh siapa saja.
 
-**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang membangun jembatan menuju kondisi *Flow*.
+**Di Kantor Modern** Bayangkan kamu adalah seorang programmer. Jika kamu bekerja hanya demi gaji (imbalan eksternal), kamu mungkin cepat merasa lelah. Namun, jika kamu mengadopsi pendekatan **Autotelik** seperti para seniman dalam riset Mihaly - yaitu fokus pada keindahan kode dan pemecahan logika sebagai permainan - kamu sedang mendekatkan diri pada kondisi *Flow*.
 
 **Poin Penting untuk Diingat:**
 

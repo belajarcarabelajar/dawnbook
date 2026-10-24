@@ -36,7 +36,7 @@ Flow membutuhkan koreksi real-time. Jika kamu tahu saat itu juga apakah tindakan
 
 ### D. Keseimbangan Tantangan vs Keterampilan
 
-Ini adalah "Gerbang Emas" flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
+Ini adalah syarat pokok flow. Tugas tersebut tidak boleh terlalu mudah (membosankan) dan tidak boleh terlalu sulit (membuat cemas). Rasio idealnya sering disebut sebagai **The 4% Rule**: tugas tersebut harus sekitar 4% di atas tingkat kemampuan kamu saat ini.
 
 $$
 \text{Tingkat Kesulitan} \approx \text{Kemampuan} + 4 \text{\%}
@@ -88,4 +88,4 @@ Untuk memudahkan kamu masuk ke dalam flow, kamu bisa merancang ritual sebelum be
 3. **Tingkatkan Pertaruhan (Risiko):** Gunakan teknik seperti *Pomodoro* dengan waktu yang ketat, atau berjanjilah pada rekan kerja untuk menunjukkan hasil dalam satu jam.
 4. **Hilangkan Distorsi:** Letakkan ponsel di ruangan lain.
 
-> **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu membangun jalan setapak yang memudahkan pikiran kamu untuk tergelincir masuk ke dalam kondisi performa puncak tersebut.
+> **Ingat:** Flow bukanlah sesuatu yang bisa kamu "paksa", tetapi sesuatu yang bisa kamu "undang". Dengan menyiapkan pemicu-pemicu di atas, kamu memudahkan pikiran kamu untuk masuk ke dalam kondisi performa puncak tersebut.
