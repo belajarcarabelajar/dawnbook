@@ -2,7 +2,7 @@
 
 Di tahap ini, dunia anak yang tadinya penuh "sihir" dan tebak-tebakan intuisi pelan-pelan berubah jadi lebih logis dan teratur. Kalau di fase praoperasional mereka yakin banget bulan ngikutin ke mana pun mereka pergi, sekarang di **Tahap Operasional Konkret**, mereka mulai sadar kalau ada hukum alam yang mengatur benda-benda fisik.
 
-Anak usia 7-11 tahun mengalami perubahan penting dalam cara berpikir mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**,tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
+Anak usia 7-11 tahun mengalami perubahan penting dalam cara berpikir mereka. Mereka nggak lagi gampang ketipu sama wujud luar benda. Mereka mulai pakai **operasi mental**, tindakan di dalam pikiran buat menyusun ulang informasi biar lebih masuk akal.
 
 ## 1. Dari Intuisi ke Logika Konkret
 

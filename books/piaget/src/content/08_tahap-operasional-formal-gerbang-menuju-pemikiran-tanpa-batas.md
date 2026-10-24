@@ -111,4 +111,4 @@ Uniknya, perkembangan cara berpikir ini juga memunculkan egosentrisme jenis baru
 
 **Latihan Cepat:** Coba pikirkan, *"Apa yang terjadi kalau semua mata uang di dunia tiba-tiba hilang besok pagi?"*
 
-Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial,selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.
+Kalau kamu mulai membayangkan kembalinya sistem barter, ambruknya rantai pasok global, dan bergesernya struktur kekuasaan sosial, selamat! Kamu baru saja mempraktikkan **Pemikiran Hipotesis-Deduktif** kamu.

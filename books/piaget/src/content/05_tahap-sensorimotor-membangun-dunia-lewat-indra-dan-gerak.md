@@ -85,7 +85,7 @@ $$
 Paham cara kerja sensorimotor membuat kita bisa memberi stimulasi yang pas:
 
 1. **Cilukba:** Bukan sekadar lucu-lucuan. Ini latihan kognitif untuk menguji objek permanen. Bayi memproses konsep "hilang" dan "muncul kembali".
-2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" paling nyata.
+2. **Ruang Eksplorasi:** Bayi belajar lewat gerak fisik. Menyiapkan area aman untuk mereka merangkak, menyentuh berbagai tekstur, dan memanipulasi benda adalah "sekolah" bagi mereka.
 3. **Sebab-Akibat:** Mainan yang mengeluarkan bunyi kalau ditekan sangat memperkuat pemahaman mereka soal hubungan sebab-akibat.
 
 ## 5\. Ringkasan Fase

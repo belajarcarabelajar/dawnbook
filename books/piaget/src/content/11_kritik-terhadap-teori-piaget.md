@@ -86,7 +86,7 @@ Ide-ide Neo-Piagetian menyadarkan kita untuk tidak memborbardir anak dengan info
 
 Proses berpikir kritis yang tinggi tidak datang tiba-tiba. Dasarnya harus dikuasai dulu secara otomatis.
 
-- **Praktek:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras habis hanya untuk mengingat hasil 7 dikali 8.
+- **Praktek:** Meminta anak menghafal tabel perkalian punya alasan yang masuk akal. Ini bertujuan melonggarkan ruang di otak mereka. Ketika bertemu soal cerita yang menjebak, energinya tidak lagi terkuras hanya untuk mengingat hasil 7 dikali 8.
 
 ## 5\. Refleksi Singkat
 

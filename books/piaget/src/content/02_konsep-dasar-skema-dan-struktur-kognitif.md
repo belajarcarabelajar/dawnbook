@@ -4,7 +4,7 @@ Teori Jean Piaget bertumpu pada satu pertanyaan mendasar: bagaimana anak-anak me
 
 ## 1. Apa itu Skema?
 
-Bayangkan kamu masuk ke perpustakaan raksasa. Kamu pasti mengandalkan sistem kategori seperti fiksi, sejarah, dan sains untuk mencari buku. Piaget meminjam konsep serupa. **Skema** adalah unit dasar pengarsipan mental. Kita memakainya untuk mengorganisir informasi yang masuk.
+Bayangkan kamu masuk ke perpustakaan besar. Kamu pasti mengandalkan sistem kategori seperti fiksi, sejarah, dan sains untuk mencari buku. Piaget meminjam konsep serupa. **Skema** adalah unit dasar pengarsipan mental. Kita memakainya untuk mengorganisir informasi yang masuk.
 
 > **Definisi:** Skema adalah representasi mental dari tindakan atau pikiran terorganisir untuk memahami lingkungan sekitar.
 

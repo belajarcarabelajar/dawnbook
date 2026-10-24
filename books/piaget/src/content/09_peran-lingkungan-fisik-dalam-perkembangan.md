@@ -31,7 +31,7 @@ Melalui interaksi fisik, anak melakukan apa yang disebut Piaget sebagai **Abstra
 - Apa warnanya?
 - Bagaimana suaranya jika dipukul?
 
-Informasi-informasi mentah ini adalah bahan bakar utama bagi pembentukan skema kognitif yang lebih kompleks.
+Informasi-informasi mentah ini adalah bahan utama bagi pembentukan skema kognitif yang lebih kompleks.
 
 ## 3\. Aksi adalah Fondasi Pemikiran
 

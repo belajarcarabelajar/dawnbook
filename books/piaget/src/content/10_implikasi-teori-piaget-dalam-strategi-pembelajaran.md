@@ -41,13 +41,13 @@ flowchart TD
     E --> F["Skema lama dirombak lewat akomodasi"]
 ```
 
-Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu raksasa yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
+Misalnya saat belajar fisika. Siswa mungkin punya pemikiran awal bahwa "semua benda besar dan berat pasti tenggelam". Guru lalu menunjukkan fenomena kapal kayu besar yang mengapung, sementara kelereng kecil malah tenggelam. Kontradiksi ini akan memaksa otak anak untuk melakukan akomodasi dan membongkar skema pemahaman mereka yang lama.
 
 ### Peran Baru Seorang Guru
 
 Kerangka kerja Piagetian menuntut perubahan peran pendidik. Guru kini bertindak sebagai arsitek lingkungan belajar. Mereka menyiapkan ruang kelas yang kaya stimulus untuk memancing rasa ingin tahu.
 
-Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antar siswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial ampuh untuk mendobrak cara pandang egosentris anak.
+Selain itu, guru bertugas mengobservasi tingkat pemahaman siswa secara intens. Tujuannya memastikan tantangan yang diberikan pas takarannya. Guru juga wajib mendorong interaksi sosial, seperti debat antar siswa. Meskipun Piaget lebih fokus pada eksplorasi fisik, ia sangat setuju bahwa interaksi sosial efektif untuk mengubah cara pandang egosentris anak.
 
 ### Penerapan pada Konsep Siklus Air
 
