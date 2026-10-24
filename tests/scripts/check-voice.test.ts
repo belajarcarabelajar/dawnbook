@@ -2,7 +2,7 @@ import { afterEach, describe, expect, test } from "bun:test";
 import fs from "node:fs";
 import os from "node:os";
 import path from "node:path";
-import { BOOK_VOICE_CONFIG, VOICE_CAPS, checkVoice, voiceViolations } from "../../scripts/check-voice";
+import { BOOK_VOICE_CONFIG, VOICE_CAPS, checkVoice, runVoiceGate, voiceViolations } from "../../scripts/check-voice";
 
 const SCRIPT = path.resolve(import.meta.dir, "../../scripts/check-voice.ts");
 const dirs: string[] = [];
@@ -84,6 +84,22 @@ describe("voiceViolations generic caps", () => {
   test("tokoh kita allows two and flags three", () => {
     expect(voiceViolations("05_x.md", "tokoh kita lelah, tokoh kita tidur")).toEqual([]);
     expect(voiceViolations("05_x.md", "tokoh kita lelah, tokoh kita tidur, tokoh kita bangun")).toEqual(["tokoh kita x3 (max 2)"]);
+  });
+});
+
+describe("voice-ok exemption marker", () => {
+  test("a line ending with a voice-ok marker and a reason is not counted", () => {
+    const md = '> "Lihat Ibu, perhatikan ke Ibu." <!-- voice-ok: verbatim classroom transcript -->\n\nKalimat biasa.';
+    expect(voiceViolations("08_x.md", md)).toEqual([]);
+  });
+
+  test("a marker without a reason does not exempt the line", () => {
+    expect(voiceViolations("08_x.md", "Perhatikan ini. <!-- voice-ok: -->")).toEqual(["stock connector x1 (max 0)"]);
+  });
+
+  test("the marker exempts only its own line", () => {
+    const md = "Perhatikan ini.\n\nKutipan. <!-- voice-ok: transkrip -->";
+    expect(voiceViolations("08_x.md", md)).toEqual(["stock connector x1 (max 0)"]);
   });
 });
 
@@ -191,5 +207,29 @@ describe("check-voice CLI", () => {
   test("exits 2 on an unknown slug or no arguments", () => {
     expect(runCli(["--books-dir", library(), "tidak-ada"]).exitCode).toBe(2);
     expect(runCli([]).exitCode).toBe(2);
+  });
+});
+
+describe("runVoiceGate (build step)", () => {
+  test("passes a library where every book is clean and skips _template", () => {
+    const lib = makeDir({
+      "bersih/src/content/01_a.md": CLEAN,
+      "_template/src/content/01_a.md": "Menariknya, ini templat.",
+    });
+    expect(runVoiceGate(lib)).toEqual({ ok: true, problems: [] });
+  });
+
+  test("fails with book-prefixed problems when one book has a scaffold", () => {
+    const lib = makeDir({
+      "bersih/src/content/01_a.md": CLEAN,
+      "kotor/src/content/01_a.md": CLEAN,
+      "kotor/src/content/02_b.md": "Bab berikutnya membahas hujan.",
+    });
+    expect(runVoiceGate(lib)).toEqual({ ok: false, problems: ["kotor/02_b.md: bab berikutnya x1 (max 0)"] });
+  });
+
+  test("fails on a book with no checkable chapters", () => {
+    const lib = makeDir({ "kosong/src/content/01_referensi.md": "Menariknya." });
+    expect(runVoiceGate(lib)).toEqual({ ok: false, problems: ["kosong: no checkable chapters"] });
   });
 });

@@ -55,9 +55,22 @@ function capsFor(file: string, options: VoiceOptions = {}): VoiceCap[] {
   return [...VOICE_CAPS, { label: sw.word, pattern, max }];
 }
 
+// A line that quotes a source verbatim (a classroom transcript, a cited title) may keep a flagged
+// phrase when it ends with `<!-- voice-ok: <reason> -->`; the reason is mandatory, like the
+// heading-colon-ok marker of GEMINI.md section 24.
+const VOICE_OK = /<!--\s*voice-ok:\s*\S[^>]*-->\s*$/;
+
+function countedText(md: string): string {
+  return md
+    .split("\n")
+    .filter((line) => !VOICE_OK.test(line))
+    .join("\n");
+}
+
 export function voiceViolations(file: string, md: string, options?: VoiceOptions): string[] {
+  const text = countedText(md);
   return capsFor(file, options).flatMap(({ label, pattern, max }) => {
-    const count = (md.match(pattern) ?? []).length;
+    const count = (text.match(pattern) ?? []).length;
     return count > max ? [`${label} x${count} (max ${max})`] : [];
   });
 }
@@ -76,6 +89,23 @@ export function checkVoice(bookDir: string, options?: VoiceOptions): VoiceResult
 
 function isBook(booksDir: string, slug: string): boolean {
   return !slug.startsWith("_") && fs.existsSync(path.join(booksDir, slug, "src/content"));
+}
+
+export interface VoiceGateResult {
+  ok: boolean;
+  problems: string[];
+}
+
+// Build step (GEMINI.md section 29): every book in the library must pass, and a book with no
+// checkable chapters fails instead of passing vacuously.
+export function runVoiceGate(booksDir: string): VoiceGateResult {
+  const slugs = fs.readdirSync(booksDir).filter((s) => isBook(booksDir, s)).sort();
+  const problems = slugs.flatMap((slug) => {
+    const { chapters, problems: found } = checkVoice(path.join(booksDir, slug), BOOK_VOICE_CONFIG[slug]);
+    if (chapters === 0) return [`${slug}: no checkable chapters`];
+    return found.map((p) => `${slug}/${p}`);
+  });
+  return { ok: problems.length === 0, problems };
 }
 
 if (import.meta.main) {
