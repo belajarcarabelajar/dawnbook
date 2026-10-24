@@ -1,6 +1,6 @@
 ## Hakikat Kehendak Bebas
 
-Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas. Tindakan itu ditentukan tanpa paksaan determinisme. Kehendak bebas bukan sekadar konsep metafisika teoretis, melainkan kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
+Kehendak bebas dalam eksistensialisme merupakan kapasitas radikal subjek untuk menentukan tindakan di tengah ketidakpastian realitas. Subjek melakukannya tanpa paksaan determinisme. Kehendak bebas bukan sekadar konsep metafisika teoretis, melainkan kondisi eksistensial niscaya yang menempatkan manusia sebagai agen otonom yang memegang kendali penuh atas trayektori kehidupannya.
 
 ### 1. Ontologi Kehendak Bebas Melampaui Determinisme
 
