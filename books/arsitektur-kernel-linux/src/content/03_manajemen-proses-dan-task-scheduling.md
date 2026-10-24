@@ -1,4 +1,4 @@
-## Bagaimana Linux Mengelola Proses dan Task Scheduling?
+## Manajemen Proses dan Task Scheduling
 
 Pernahkah kamu membayangkan bagaimana komputermu bisa memutar lagu di Spotify, mengunduh file besar di browser, dan mengedit dokumen di Word secara bersamaan tanpa terasa tersendat? Di balik layar, kernel Linux bekerja seperti seorang konduktor orkestra yang sangat sibuk namun sangat terorganisir.
 
