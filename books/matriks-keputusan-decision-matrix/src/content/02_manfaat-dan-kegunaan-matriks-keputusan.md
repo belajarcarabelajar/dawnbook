@@ -4,7 +4,7 @@ Pernahkah kamu merasa bingung saat harus memilih di antara beberapa pilihan yang
 
 Untuk situasi seperti itu, ada **matriks keputusan** (*decision matrix*). Alat ini juga dikenal sebagai *Pugh Matrix* atau *Grid Analysis*. Jika bab sebelumnya telah memberi kamu gambaran umum, bagian ini akan membahas mengapa metode evaluasi dengan **kriteria penilaian** dan **skor berbobot** ini penting, baik untuk keperluan profesional maupun pribadi.
 
-### 1. Transformasi dari Intuisi ke Objektivitas
+### 1. Dari Intuisi ke Objektivitas
 
 Banyak orang mengandalkan "firasat" atau *gut feeling*. Meskipun intuisi terkadang berguna, mengambil keputusan besar yang melibatkan banyak sumber daya atau risiko tinggi hanya berdasarkan perasaan sering kali berakhir merugikan.
 

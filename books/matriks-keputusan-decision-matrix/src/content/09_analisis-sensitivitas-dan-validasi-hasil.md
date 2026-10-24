@@ -79,7 +79,7 @@ Supaya efek pergeseran bobot terlihat dalam angka, ambil contoh rekaan (angka il
 
 Dengan bobot yang seimbang, kedua vendor seri di 7,0, jadi belum ada yang memimpin. Begitu bobot Kriteria 1 dinaikkan menjadi 80%, Vendor A langsung unggul 7,6 lawan 5,8. Simulasi sederhana seperti ini membantu mendeteksi "titik balik" (*turning point*) di mana arah keputusan bergeser.
 
-### Ringkasan Penting
+### Membaca Hasil Uji Sensitivitas
 
 > **Catatan Penting:** Analisis sensitivitas bukan bertujuan mencari jawaban yang paling "benar", melainkan memahami **risiko** di balik keputusan yang kamu pilih.
 

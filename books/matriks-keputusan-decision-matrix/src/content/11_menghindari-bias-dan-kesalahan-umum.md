@@ -96,7 +96,7 @@ Sebelum finalisasi, tanyakan pada diri sendiri: *"Jika keputusan ini ternyata sa
 
 Pernahkah kamu membuat matriks keputusan hanya untuk melegitimasi pilihan yang sebenarnya sudah kamu ambil sejak awal? Jika ya, kamu tidak sedang melakukan analisis, tetapi sekadar mencari pembenaran.
 
-## Ringkasan Checklist untuk Menghindari Bias
+## Daftar Periksa Anti-Bias
 
 | Langkah | Tindakan |
 | --- | --- |

@@ -42,7 +42,7 @@ Bayangkan kamu ingin membeli laptop baru.
 
 Matriks keputusan berguna dalam berbagai aspek karena tiga alasan utama:
 
-### 1. Transparansi dan Akuntabilitas
+### 1. Alasan yang Terbaca oleh Seluruh Tim
 
 Dalam tim, keputusan sering kali memicu perdebatan. Dengan menggunakan matriks ini, seluruh anggota tim dapat memahami alasan logis di balik pemilihan suatu opsi. Setiap angka di dalam tabel memaparkan dasar pemikiran secara transparan, sehingga meminimalkan potensi konflik internal.
 

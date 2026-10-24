@@ -57,7 +57,7 @@ Gunakan tes ini untuk membuang opsi yang tidak relevan sejak awal:
 - Kendala waktu: Apakah secara teknis tidak mungkin diimplementasikan dalam tenggat yang ditentukan?
 - Bagaimana dengan biaya operasionalnya? Apakah akan terlalu memberatkan keuangan kita?
 
-### Contoh Skenario & Kasus Nyata
+### Contoh Kasus
 
 #### Memilih *Framework* Pengembangan Web untuk Proyek Baru
 
