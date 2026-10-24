@@ -34,7 +34,7 @@ Untuk urusan memecahkan masalah, metakognisi sering jadi fondasinya. Orang yang 
 
 ## 4\. Kinerja Akademik Secara Keseluruhan
 
-Berbagai penelitian menunjukkan adanya korelasi kuat antara seberapa sadar kamu terhadap cara belajarmu dengan skor akademik. Siswa yang sadar akan cara berpikirnya sering mencetak prestasi yang lebih baik. Mereka terbiasa mengatur, memantau, dan memperbaiki alur belajarnya sendiri.
+Meta-analisis Ohtani dan Hisasaka (2018) menemukan bahwa secara keseluruhan metakognisi berkorelasi lemah dengan prestasi akademik, tetapi hubungan itu tetap ada setelah faktor kecerdasan diperhitungkan. Siswa yang sadar akan cara berpikirnya sering mencetak prestasi yang lebih baik. Mereka terbiasa mengatur, memantau, dan memperbaiki alur belajarnya sendiri.
 
 - **Jadi Pembelajar Mandiri:** Kamu pelan-pelan bergeser jadi sosok yang bisa belajar sendiri tanpa harus selalu diarahkan, dan berani ambil tanggung jawab penuh atas progres belajarmu.
 - **Pemilihan Strategi Cerdas:** Kamu sadar bahwa tugas yang berbeda butuh pendekatan belajar yang beda juga.
@@ -48,6 +48,6 @@ Rasa cemas sering muncul gara-gara merasa persiapan kurang, minder dengan kemamp
 - **Rasa Pegang Kendali:** Karena terbiasa mengatur dan mengevaluasi rencana, muncul rasa punya kendali atas situasi. Ketidakpastian yang bikin *overthinking* jadi berkurang.
 - **Mencegah Kepanikan:** Saat mentok ketemu topik susah, kamu nggak gampang panik. Kamu akan menganalisis dulu letak kesulitannya di mana, lalu bikin langkah-langkah kecil untuk memecahnya.
 - **Ekspektasi yang Realistis:** Metakognisi bikin kamu jujur sama kapasitas sendiri. Ini mencegah timbulnya rasa kecewa berlebih gara-gara menaruh target awal terlalu tinggi.
-- **Membantu Regulasi Emosi:** Meski tidak menargetkan emosi secara langsung, punya rencana yang terstruktur itu bikin pikiran lebih tenang. Sebagai bonus, metakognisi juga terbukti menekan dorongan suka menunda-nunda pekerjaan yang sering jadi pemicu utama stres saat *deadline*.
+- **Membantu Regulasi Emosi:** Meski tidak menargetkan emosi secara langsung, punya rencana yang terstruktur itu bikin pikiran lebih tenang. Sebagai bonus, metakognisi juga bisa membantu menekan dorongan suka menunda-nunda pekerjaan yang sering jadi pemicu utama stres saat *deadline*.
 
 Penting untuk diingat kalau metakognisi tidak otomatis membuat materi susah jadi gampang. Kesulitan tetap akan ada. Bedanya, kamu dibekali alat bantu mental untuk mengelola rasa bingung dan menata ulang rencana secara mandiri. Intinya kita mau mengatur otak biar bekerja lebih efisien, tanpa memaksanya lembur terus-terusan.
