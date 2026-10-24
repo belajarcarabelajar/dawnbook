@@ -1,6 +1,6 @@
 ## Uang Itu Relatif
 
-Gaji kamu naik cukup besar tahun ini. Kamu menghitung ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan di setiap sudutnya.
+Gaji kamu naik cukup besar tahun ini. Kamu menghitung ulang tabungan, menandai tiket liburan yang lama ditunda, merasa seluruh jerih payah akhirnya dihargai. Beberapa hari itu, hidup terasa lebih ringan.
 
 Lalu sebuah kabar kecil datang dari obrolan santai di teras: tetangga sebelah ternyata mendapat kenaikan yang lebih besar lagi. Angkamu tidak berkurang satu rupiah pun, tapi begitu mendengar itu, rasa senang yang tadi menguap begitu saja, tinggal sisa yang sulit dijelaskan: kenapa dia bisa lebih?
 
@@ -20,11 +20,11 @@ Paling menggigit: kenaikan penghasilan tetangga sekitar 10 persen diperkirakan m
 
 Sebelum kamu menyimpulkan dirimu iri hati dan gagal bersyukur, tarik napas. Membandingkan diri bukan kegagalan karakter, ia peralatan bawaan otak yang dipakai puluhan ribu tahun. Nenek moyang kita hidup dalam kelompok kecil, dan posisi di dalam kelompok menentukan akses terhadap makanan, pasangan, dan perlindungan.
 
-Masalahnya, alat yang dirancang untuk mengukur satu gang kini dipaksa mengukur seluruh planet.
+Masalahnya, alat yang dirancang untuk mengukur satu gang kini dipakai untuk mengukur ribuan orang.
 
 Dulu, pembandingmu selesai di lingkup kecil: satu gang, satu kantor, satu keluarga besar. Jumlahnya terbatas dan kamu melihat hidup mereka apa adanya, termasuk bagian berantakannya. Sekarang, aliran media sosial menampilkan versi paling mengilap dari ribuan hidup sekaligus: liburan terbaik, rumah baru, promosi jabatan, semua dikompres dalam satu guliran tanpa babak gagalnya.
 
-Permainan lamanya sama, arena barunya tidak berpinggir: alatnya masih otak zaman batu.
+Cara membandingkannya masih sama, hanya jumlah pembandingnya yang jauh lebih banyak.
 
 ### Positional good
 

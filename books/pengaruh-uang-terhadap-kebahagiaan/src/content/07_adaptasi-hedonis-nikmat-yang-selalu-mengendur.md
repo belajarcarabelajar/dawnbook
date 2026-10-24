@@ -2,7 +2,7 @@
 
 Coba bayangkan momen ini: kamu memenangkan lotere. Hadiahnya ratusan ribu dolar, cukup untuk menghapus semua utang sekaligus membeli rumah baru. Kamera televisi mengarah ke wajahmu, dan rekeningmu mendadak berisi uang yang tidak pernah kamu pegang seumur hidup. Kalau seseorang bertanya apakah kamu kini lebih bahagia, jawaban yang wajar seharusnya: tentu saja, dan selamanya.
 
-Tapi ketika pertanyaan itu diajukan dalam studi ilmiah, jawabannya membuat banyak orang terdiam. Beberapa bulan setelah kemenangan, tingkat kebahagiaan para pemenang ternyata tidak lebih tinggi dari orang-orang biasa yang tidak menang apa-apa. Nikmat yang tampak luar biasa dari luar itu mengendur jauh lebih cepat dari dugaan siapa pun. Bab ini membahas mesin yang bekerja diam-diam di balik fenomena tersebut: adaptasi hedonis, mekanisme yang membuat sensasi baru, termasuk yang dibeli uang, selalu meredup seiring waktu.
+Tapi ketika pertanyaan itu diajukan dalam studi ilmiah, jawabannya membuat banyak orang terdiam. Beberapa bulan setelah kemenangan, tingkat kebahagiaan para pemenang ternyata tidak lebih tinggi dari orang-orang biasa yang tidak menang apa-apa. Nikmat yang tampak besar dari luar itu mengendur jauh lebih cepat dari dugaan. Bab ini membahas mesin yang bekerja diam-diam di balik fenomena tersebut: adaptasi hedonis, mekanisme yang membuat sensasi baru, termasuk yang dibeli uang, selalu meredup seiring waktu.
 
 ### Studi pemenang lotere Illinois
 

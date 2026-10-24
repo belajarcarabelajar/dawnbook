@@ -1,6 +1,6 @@
 ## Bukti Utama tentang Uang dan Kesejahteraan
 
-Coba bayangkan ini: lebih dari satu juta kali, orang-orang yang sedang menjalani hari biasa mendadak berhenti karena ponsel mereka berbunyi. Di layar muncul pertanyaan pendek: bagaimana perasaanmu saat ini, di sini, sekarang? Mereka menjawab sambil menunggu taksi, sambil duduk di rapat, sambil menghadapi tagihan yang jatuh tempo, sambil bersantai di akhir pekan. Inilah cara Matthew Killingsworth, peneliti dari University of Pennsylvania, mengumpulkan data lewat aplikasi Track Your Happiness. Hasil studinya diterbitkan di jurnal *PNAS* pada 2021, dan ukurannya sungguh masif: sekitar 1,7 juta laporan kesejahteraan real-time dari lebih dari 33.000 orang dewasa di Amerika Serikat.
+Coba bayangkan ini: lebih dari satu juta kali, orang-orang yang sedang menjalani hari biasa mendadak berhenti karena ponsel mereka berbunyi. Di layar muncul pertanyaan pendek: bagaimana perasaanmu saat ini, di sini, sekarang? Mereka menjawab sambil menunggu taksi, sambil duduk di rapat, sambil menghadapi tagihan yang jatuh tempo, sambil bersantai di akhir pekan. Inilah cara Matthew Killingsworth, peneliti dari University of Pennsylvania, mengumpulkan data lewat aplikasi Track Your Happiness. Hasil studinya diterbitkan di jurnal *PNAS* pada 2021, dan ukuran datanya besar: sekitar 1,7 juta laporan kesejahteraan real-time dari lebih dari 33.000 orang dewasa di Amerika Serikat.
 
 Kenapa cara pengukuran ini penting? Karena yang terekam bukan ingatan yang cenderung meleset, bukan juga tebakan, melainkan perasaan yang diambil hampir seketika saat terjadi. Lalu pertanyaan besarnya: apakah orang berpendapatan lebih tinggi benar-benar merasa lebih baik dalam keseharian mereka? Jawabannya ya. Dan bagian yang mengejutkan: hubungannya terus berlanjut jauh melampaui angka yang bertahun-tahun kita dengar sebagai "batas kebahagiaan".
 
@@ -14,7 +14,7 @@ Jadi kalau ada yang bilang "orang kaya dan orang miskin sama-sama bahagia kok", 
 
 Hubungan uang dan kebahagiaan tidak berbentuk garis lurus, melainkan kira-kira logaritmik. Artinya, tiap dolar tambahan membeli kebahagiaan sedikit lebih sedikit daripada dolar sebelumnya. Akibatnya, yang menentukan besar lompatan kesejahteraan bukan jumlah kenaikannya, melainkan rasionya terhadap pendapatan awal. Kenaikan proporsional yang sama, misalnya naik 20%, memberi lompatan kesejahteraan yang kira-kira mirip di level pendapatan mana pun.
 
-> Bayangkan dua karyawan. Yang pertama berpenghasilan 3 juta rupiah per bulan, lalu gajinya naik menjadi 6 juta. Baginya perubahan terasa raksasa: bisa pindah ke tempat tinggal yang layak, tabungan mulai tumbuh, tanggal tua tidak lagi menakutkan. Yang kedua berpenghasilan 300 juta, lalu naik menjadi 306 juta. Dia mungkin tersenyum sebentar, tapi tidak ada yang benar-benar bergeser dari hidupnya. Kenaikan yang terasa raksasa bagi yang satu terasa nyaris tanpa suara bagi yang lain.
+> Bayangkan dua karyawan. Yang pertama berpenghasilan 3 juta rupiah per bulan, lalu gajinya naik menjadi 6 juta. Baginya perubahan terasa besar: bisa pindah ke tempat tinggal yang layak, tabungan mulai tumbuh, tanggal tua tidak lagi menakutkan. Yang kedua berpenghasilan 300 juta, lalu naik menjadi 306 juta. Dia mungkin tersenyum sebentar, tapi tidak ada yang benar-benar bergeser dari hidupnya. Kenaikan yang terasa besar bagi yang satu nyaris tidak terasa bagi yang lain.
 
 ### Satu Persamaan Sederhana
 
@@ -40,4 +40,4 @@ Di pendapatan tinggi, efek per rupiah makin kecil, tapi tidak nol. Uang tetap me
 - Bentuknya logaritmik: kenaikan proporsional yang sama memberi lompatan kesejahteraan yang mirip, sehingga tiap rupiah tambahan membeli kebahagiaan lebih sedikit dari rupiah sebelumnya, tapi tidak pernah nol.
 - Di pendapatan rendah, uang membebaskan kamu dari masalah nyata. Di pendapatan tinggi, efeknya makin halus tapi tetap ada.
 
-Kalau dalam data Killingsworth kurvanya naik terus tanpa plafon yang terlihat, dari mana muncul angka ajaib 75.000 dolar yang bertahun-tahun dikutip sebagai "titik puas" kebahagiaan?
+Kalau dalam data Killingsworth kurvanya naik terus tanpa plafon yang terlihat, dari mana muncul angka 75.000 dolar yang bertahun-tahun dikutip sebagai "titik puas" kebahagiaan?

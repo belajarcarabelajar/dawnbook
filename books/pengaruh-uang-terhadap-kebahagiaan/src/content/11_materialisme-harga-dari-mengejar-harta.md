@@ -2,7 +2,7 @@
 
 Coba ingat orang-orang yang paling lantang berkata bahwa duit adalah sumber bahagia. Biasanya mereka bukan orang yang sedang kesulitan. Mereka hafal angka gajinya, menghitung target tabungan tiap bulan, dan membicarakan harta dengan semangat seperti membicarakan tim kesayangan. Tapi lihat juga apa yang terjadi setelah setiap target tercapai. Rasa senangnya singkat, lalu muncul target yang lebih besar. Gajinya naik, gaya hidupnya ikut naik, dan perasaan kurangnya tidak berpindah tempat. Uangnya menumpuk, kepuasannya tidak ikut menumpuk.
 
-Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia naik takhta menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
+Kalau kamu pernah merasakan versi kecilnya, kamu tidak sedang gagal mengelola uang. Kamu sedang bertemu jebakan terakhir: materialisme, yaitu ketika uang berpindah kursi. Dari alat yang membantu hidup, ia berubah menjadi tujuan terakhir yang menentukan harga diri. Dan di kursi barunya itu, uang justru berhenti bekerja untuk kebahagiaanmu.
 
 ### Mimpi yang punya sisi gelap
 
@@ -10,7 +10,7 @@ Fenomena ini bukan sekadar kilasan pengalaman pribadi, ia sudah diukur dengan ce
 
 Hasilnya konsisten: orang yang menjadikan kesuksesan finansial sebagai aspirasi pusat hidupnya melaporkan kesejahteraan yang lebih rendah. Vitalitas mereka lebih kecil, penyesuaian diri lebih buruk, dan tingkat kecemasan serta depresi lebih tinggi. Pola serupa terus muncul dalam studi lanjutan di berbagai negara, jadi ini bukan cerita khas satu budaya.
 
-Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan Ryan tidak menemukan bahwa orang kaya pasti sengsara atau orang sederhana pasti damai. Seseorang bisa berpenghasilan besar tanpa menjadi materialistik, dan bisa pula berpenghasilan kecil tapi menjadikan uang ukuran mutlak harga dirinya. Racunnya bukan di dalam dompet, melainkan di dalam pertanyaan yang diam-diam dijawab dengan angka: berapa nilai aku?
+Penting dicatat: studi itu mengukur aspirasi, bukan saldo rekening. Kasser dan Ryan tidak menemukan bahwa orang kaya pasti sengsara atau orang sederhana pasti damai. Seseorang bisa berpenghasilan besar tanpa menjadi materialistik, dan bisa pula berpenghasilan kecil tapi menjadikan uang ukuran mutlak harga dirinya. Masalahnya bukan di dalam dompet, melainkan di dalam pertanyaan yang diam-diam dijawab dengan angka: berapa nilai aku?
 
 > Mengukur harga diri dengan harta itu seperti mengukur tinggi badan dengan penggaris karet. Setiap kali kamu berdiri lebih tegak, penggarisnya ikut melar. Angkanya terus berubah, bukan karena kamu bertumbuh, tapi karena alat ukurnya tidak pernah diam.
 

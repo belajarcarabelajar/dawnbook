@@ -26,7 +26,7 @@ Selain soal berapa angkanya, ada beberapa lapisan yang membuat hubungan uang dan
 
 - **Ada plateau.** Kenaikan penghasilan tidak selalu menghasilkan kenaikan kebahagiaan dalam besaran yang sama. Semakin tinggi angkanya, semakin kecil efek tambahannya.
 - **Ada relativitas.** Kita jarang menilai gaji dari angkanya saja. Gaji lima belas juta terasa enak, sampai tetangga sebelah memarkir mobil baru dan feed teman penuh foto liburan. Perbandingan sosial diam-diam mengubah batas rasa cukup kita.
-- **Ada adaptasi.** Mobil baru terasa luar biasa di bulan pertama, lalu diam-diam berubah menjadi alat transportasi biasa. Para psikolog menyebut pola ini **adaptasi hedonis**.
+- **Ada adaptasi.** Mobil baru terasa menyenangkan di bulan pertama, lalu diam-diam berubah menjadi alat transportasi biasa. Para psikolog menyebut pola ini **adaptasi hedonis**.
 - **Ada cara membelanjakan.** Elizabeth Dunn, Lara Aknin, dan Michael Norton (2008) menunjukkan bahwa orang yang membelanjakan uang untuk orang lain melaporkan kebahagiaan yang lebih tinggi dibanding yang membelanjakannya semata untuk diri sendiri. Jadi bukan hanya berapa yang masuk, tapi juga ke mana uang itu pergi.
 
 Empat lapisan inilah yang akan menjadi tulang punggung buku ini. Masing-masing punya bab sendiri, lengkap dengan bukti pendukung dan bukti yang justru menentangnya.

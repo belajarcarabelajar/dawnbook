@@ -2,13 +2,13 @@
 
 Bayangkan kamu membaca dua berita tentang uang dan kebahagiaan yang judulnya saling membantah, padahal keduanya berangkat dari riset serius. Headline pertama, tahun 2010: "Kebahagiaan berhenti naik saat pendapatan menyentuh 75.000 dolar per tahun." Headline kedua, tahun 2021: "Kesejahteraan terus meningkat tanpa plafon, seberapa pun penghasilannya."
 
-Penelitian di balik keduanya dimuat di jurnal ilmiah papan atas yang sama, PNAS (Proceedings of the National Academy of Sciences), tentang pertanyaan yang persis sama. Dua tim peneliti serius, dua dataset raksasa, dua kesimpulan yang saling bertolak belakang.
+Penelitian di balik keduanya dimuat di jurnal ilmiah yang sama, PNAS (Proceedings of the National Academy of Sciences), tentang pertanyaan yang persis sama. Dua tim peneliti serius, dua dataset besar, dua kesimpulan yang saling bertolak belakang.
 
 ### Satu survei 2010, dua wajah kesejahteraan
 
 Studi pertama datang dari Daniel Kahneman, psikolog peraih Nobel, dan Angus Deaton, ekonom peraih Nobel. Mereka menganalisis sekitar 450.000 respons survei harian Gallup dari penduduk Amerika Serikat, yang tiap hari menjawab pertanyaan tentang hidup dan perasaan mereka kemarin.
 
-Dari data raksasa itu muncul temuan ganda yang sering disederhanakan sampai melenceng:
+Dari data itu muncul temuan ganda yang sering disederhanakan sampai melenceng:
 
 1. **Penilaian hidup**, yaitu bagaimana seseorang menilai hidupnya secara keseluruhan lewat pertanyaan tangga Cantril, terus naik mengikuti pendapatan tanpa titik jenuh. Makin tinggi pendapatan, makin tinggi pula orang menempatkan dirinya di tangga hidup.
 2. **Kesejahteraan emosional**, yaitu kualitas perasaan yang dialami kemarin, seperti senang, stres, khawatir, dan sedih, berhenti membaik di sekitar 75.000 dolar per tahun pada harga 2010. Setelah titik itu, rata-rata perasaan harian tidak lagi ikut membaik.
@@ -23,9 +23,9 @@ Angka 75.000 dolar itu lalu berkeliling dunia, muncul di buku populer, slide sem
 
 Sebelas tahun kemudian, Matthew Killingsworth dari Wharton, Universitas Pennsylvania, mengambil pendekatan yang berbeda. Alih-alih meminta orang mengingat perasaan mereka kemarin, ia memakai aplikasi yang mengirim pertanyaan secara acak di tengah hari dan menanyakan perasaanmu saat ini juga.
 
-Skala penelitiannya tidak main-main: lebih dari 33.000 orang dewasa di Amerika Serikat, dengan sekitar 1,7 juta laporan pengalaman secara real-time. Kalau Kahneman dan Deaton membaca potret memori, Killingsworth merekam film yang sedang berjalan.
+Skala penelitiannya besar: lebih dari 33.000 orang dewasa di Amerika Serikat, dengan sekitar 1,7 juta laporan pengalaman secara real-time. Kalau Kahneman dan Deaton membaca potret memori, Killingsworth merekam film yang sedang berjalan.
 
-Hasilnya adalah kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, terus dan terus, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
+Hasilnya adalah kebalikan headline 2010. Kesejahteraan yang dialami orang terus naik seiring pendapatan, melewati 75.000 dolar, tanpa tanda-tanda plateau. Ya, kecepatan kenaikannya melambat di pendapatan tinggi, tapi kurvanya tidak pernah berubah jadi garis datar.
 
 ### Ketika dua kubu duduk bersama
 
@@ -33,12 +33,12 @@ Di sinilah cerita ini berubah dari perdebatan biasa menjadi contoh langka cara k
 
 Dalam kolaborasi adversarial, dua kubu yang berseberangan membuka seluruh datanya, merancang analisis bersama, lalu menjalankan kedua metode pada data gabungan di bawah pengawasan mediator netral. Tujuannya bukan mencari pemenang, tapi menjelaskan klaim keduanya sekaligus.
 
-Kesimpulannya menyelesaikan misteri itu dengan jawaban yang tidak diduga banyak orang:
+Kesimpulannya menjawab pertentangan itu dengan jawaban yang tidak diduga banyak orang:
 
 - Untuk **mayoritas orang**, perasaan bahagia terus naik bersama pendapatan di atas 75.000 dolar, termasuk di atas 100.000 dolar. Bagi kelompok ini, memang tidak ada plafon yang terlihat.
 - Tapi untuk **minoritas yang paling tidak bahagia**, sekitar 15 sampai 20 persen partisipan, kurvanya melandai di sekitar 100.000 dolar. Setelah titik itu, uang tambahan praktis tidak lagi mengubah perasaan mereka.
 
-Artinya, plateau itu nyata, tapi ia bukan hukum umum. Ia hanya berlaku untuk satu kelompok: mereka yang paling menderita. Dan bagi kelompok itu pun, garis datarnya berada di angka yang lebih tinggi daripada 75.000 dolar yang legendaris.
+Artinya, plateau itu nyata, tapi ia bukan hukum umum. Ia hanya berlaku untuk satu kelompok: mereka yang paling tidak bahagia. Dan bagi kelompok itu pun, garis datarnya berada di angka yang lebih tinggi daripada 75.000 dolar.
 
 Supaya ketiga studi itu tidak tertukar, urutan tahunnya bisa kamu lihat di garis waktu berikut.
 
@@ -64,7 +64,7 @@ Bagaimana dua penelitian serius bisa sampai pada kesimpulan yang bertabrakan? Pe
 
 Dua cara ukur yang berbeda memang bisa memberi hasil berbeda. Tapi kejutan besarnya di sana: ketika data kedua studi digabung dan dianalisis dengan kedua metode, perbedaan itu ternyata menyembunyikan perbedaan antar kelompok orang. Rata-rata keseluruhan selama ini memayungi dua kurva, mayoritas yang terus naik dan minoritas tidak bahagia yang melandai. Satu angka tunggal terlalu kasar untuk menampung keduanya, dan itulah sebabnya perdebatan bertahun-tahun terasa seperti dua orang membicarakan dua hal berbeda sambil merasa membicarakan hal yang sama.
 
-Dari sini kamu bisa membawa pulang pelajaran berpikir kritis yang lebih bernilai dari angka mana pun: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data.
+Dari sini kamu bisa membawa pulang pelajaran berpikir kritis: sains maju lewat konflik data yang diselesaikan dengan data yang sama, bukan lewat debat opini. Kahneman awalnya skeptis pada temuan Killingsworth, lalu keduanya menguji dugaan itu langsung pada data gabungan, dan ketika hasilnya menunjukkan Kahneman sebagian keliru, beliau justru berterima kasih pada data.
 
 ### Apa artinya untuk keputusanmu
 
