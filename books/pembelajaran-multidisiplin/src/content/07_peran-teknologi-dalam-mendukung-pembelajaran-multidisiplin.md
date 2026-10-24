@@ -1,6 +1,6 @@
 ## Peran Teknologi dalam Mendukung Pembelajaran Multidisiplin
 
-Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi dari berbagai disiplin ilmu untuk memahami suatu fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern telah berkembang melampaui fungsi alat bantu dasar. Kini, teknologi bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
+Pembelajaran multidisiplin menggabungkan perspektif, konsep, dan metodologi berbagai disiplin ilmu untuk memahami fenomena atau memecahkan masalah. Di era digital saat ini, teknologi modern telah berkembang melampaui fungsi alat bantu dasar. Kini, teknologi bertindak sebagai fasilitator utama yang memungkinkan integrasi pengetahuan yang lebih mendalam dan efektif. Dengan teknologi, batas-batas disipliner menjadi lebih lentur, mempermudah kolaborasi, visualisasi, simulasi, dan akses informasi yang sebelumnya sulit dijangkau.
 
 > **Poin Utama:** Teknologi berperan sebagai jembatan yang menghubungkan berbagai disiplin ilmu, menjadikan proses belajar lintas disiplin lebih dinamis, interaktif, dan relevan dengan tantangan nyata.
 
