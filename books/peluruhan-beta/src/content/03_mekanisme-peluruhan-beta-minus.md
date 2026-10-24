@@ -72,7 +72,7 @@ $$
 3. **Anak**: Menjadi Nitrogen-14 (7 proton, 7 neutron) yang stabil.
 4. **Hasil samping**: Sebuah elektron terpental keluar dengan kecepatan mendekati kecepatan cahaya.
 
-## Aplikasi Dunia Nyata (Real-World Applications)
+## Kegunaan Peluruhan Beta Minus
 
 Mekanisme peluruhan $\beta^-$ bukan sekadar teori fisika; ia memiliki kegunaan praktis yang luas:
 

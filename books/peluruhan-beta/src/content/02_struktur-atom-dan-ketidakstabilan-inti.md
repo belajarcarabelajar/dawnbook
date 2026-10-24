@@ -4,7 +4,7 @@ Beberapa benda di alam semesta ini tetap utuh selama miliaran tahun, sementara y
 
 Dalam bagian ini, kita akan melihat bagaimana susunan inti atom menentukan apakah inti itu stabil atau justru meluruh lewat peluruhan beta.
 
-### 1. Pertarungan Dua Gaya di Inti Atom
+### 1. Dua Gaya di Inti Atom
 
 Inti atom bukanlah sekumpulan partikel yang diam. Di dalamnya terdapat dua jenis nukleon (partikel penyusun inti): **Proton** yang bermuatan positif ($p^+$) dan **Neutron** yang bermuatan netral ($n^0$).
 
@@ -66,9 +66,9 @@ Salah satu contoh paling nyata dari ketidakstabilan akibat rasio N/Z adalah **Ka
 - **Proses:** C-14 meluruh secara beta minus menjadi Nitrogen-14 ($7p, 7n$, $N/Z = 1$).
 - **Manfaat:** Karena kita tahu laju peluruhan C-14 yang tidak stabil ini, para arkeolog dapat menghitung umur fosil purba dengan mengukur sisa C-14 yang ada di dalamnya.
 
-### Ringkasan Visual Ketidakstabilan
+### Kondisi Inti dan Jenis Peluruhannya
 
-| Kondisi Inti | Posisi pada Grafik N-Z | Solusi Alam (Peluruhan) |
+| Kondisi Inti | Posisi pada Grafik N-Z | Jenis Peluruhan |
 | --- | --- | --- |
 | Terlalu banyak Neutron | Di atas Pita Kestabilan | **Beta Minus ($\beta^-$)**: $n \rightarrow p + e^-$ |
 | Terlalu banyak Proton | Di bawah Pita Kestabilan | **Beta Plus ($\beta^+$)**: $p \rightarrow n + e^+$ |

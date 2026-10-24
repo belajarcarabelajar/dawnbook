@@ -66,7 +66,7 @@ e^+ + e^- \rightarrow \gamma + \gamma
 $$
 </div>
 
-### 5. Keajaiban PET Scan
+### 5. PET Scan
 
 Pengetahuan tentang peluruhan $\beta^+$ bukan sekadar teori fisika kuantum yang abstrak. Pengetahuan ini dipakai dalam **PET Scan (Positron Emission Tomography)**.
 

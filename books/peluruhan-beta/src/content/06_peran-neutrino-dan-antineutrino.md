@@ -13,7 +13,7 @@ Secara matematis, jika sebuah inti atom $A$ meluruh menjadi $B$ dan sebuah elekt
 1. Hukum Kekekalan Energi tidak berlaku di tingkat subatomik (pendapat Niels Bohr).
 2. Ada partikel tak terlihat yang membawa lari sisa energi tersebut.
 
-### 2. Surat Putus Asa Wolfgang Pauli
+### 2. Surat Wolfgang Pauli Tahun 1930
 
 Pada tahun 1930, **Wolfgang Pauli** menulis surat terkenal kepada rekan-rekannya yang sedang menghadiri konferensi fisika. Ia mengusulkan keberadaan partikel netral bermassa sangat kecil yang dipancarkan bersama elektron dalam peluruhan beta.
 
@@ -21,7 +21,7 @@ Pada tahun 1930, **Wolfgang Pauli** menulis surat terkenal kepada rekan-rekannya
 
 Pauli menyebutnya neutron, namun setelah James Chadwick menemukan partikel berat di inti atom yang sekarang kita kenal sebagai neutron, **Enrico Fermi** mengubah nama partikel kecil Pauli menjadi **Neutrino** (bahasa Italia untuk si kecil yang netral).
 
-### 3. Karakteristik Sang Partikel Hantu
+### 3. Karakteristik Neutrino
 
 Neutrino ($\nu$) dan antineutrino ($\bar{\nu}$) adalah anggota keluarga **lepton**. Mereka memiliki karakteristik unik yang membuat mereka hampir mustahil untuk dideteksi:
 
@@ -65,7 +65,7 @@ $$
 
 Ketika antineutrino menabrak proton dalam tangki air besar, ia menghasilkan neutron dan positron. Positron akan segera bertemu elektron dan menghasilkan kilatan cahaya gamma khas (anihilasi), sementara neutron akan ditangkap oleh inti atom lain dan menghasilkan kilatan cahaya kedua beberapa mikrodetik kemudian. Tanda tangan dua kilatan cahaya inilah yang membuktikan keberadaan mereka.
 
-### Kegunaan Praktis "Partikel Hantu"
+### Kegunaan Praktis Neutrino
 
 Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 
@@ -73,7 +73,7 @@ Meskipun terdengar seperti sains fiksi, neutrino memiliki kegunaan nyata:
 2. **Pemantauan Reaktor Nuklir:** Karena reaktor menghasilkan antineutrino dalam jumlah besar, badan pengawas internasional dapat mendeteksi apakah sebuah negara sedang memproduksi plutonium untuk senjata nuklir hanya dengan menempatkan detektor neutrino di luar gedung reaktor tanpa harus masuk ke dalam.
 3. **Astronomi Neutrino:** Tidak seperti cahaya yang bisa terhalang debu angkasa, neutrino dari ledakan bintang (Supernova) sampai ke bumi tanpa hambatan, memberikan informasi langsung tentang apa yang terjadi di bagian dalam bintang.
 
-### Ringkasan Konsep
+### Sifat Neutrino dan Antineutrino
 
 | Fitur | Neutrino ($\nu_e$) | Antineutrino ($\bar{\nu}_e$) |
 | --- | --- | --- |

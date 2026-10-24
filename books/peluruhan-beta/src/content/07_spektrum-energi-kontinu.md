@@ -64,7 +64,7 @@ Pada tahun 1930, Wolfgang Pauli memilih opsi kedua. Ia mengusulkan keberadaan pa
 | **Jenis Spektrum** | Diskret (Garis) | Kontinu |
 | **Jumlah Partikel Hasil** | 2 (Inti anak + Alfa) | 3 (Inti anak + Beta + Neutrino) |
 | **Energi Partikel** | Selalu sama untuk isotop yang sama | Bervariasi dari $0$ hingga $E_{\text{max}}$ |
-| **Prediktabilitas** | Sangat pasti | Probabilistik (distribusi) |
+| **Prediktabilitas** | Pasti | Probabilistik (distribusi) |
 
 ### 5. Spektroskopi Beta
 

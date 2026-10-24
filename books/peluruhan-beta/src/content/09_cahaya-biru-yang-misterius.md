@@ -1,4 +1,4 @@
-## Cahaya Biru yang Misterius dari Radiasi Cherenkov
+## Cahaya Biru Radiasi Cherenkov
 
 Pernahkah terlihat foto kolam pendingin reaktor nuklir yang memancarkan pendaran cahaya biru neon yang cantik namun terkesan berbahaya? Cahaya itu bukan sekadar efek lampu hias, melainkan sebuah fenomena fisika yang disebut **Radiasi Cherenkov**.
 
@@ -61,7 +61,7 @@ Semakin pendek panjang gelombangnya (semakin tinggi frekuensinya), semakin banya
 - Sebagian besar radiasi sebenarnya berada di spektrum **Ultraviolet**.
 - Mata manusia tidak bisa melihat ultraviolet, tetapi kita bisa melihat frekuensi tertinggi berikutnya yang dapat dideteksi mata kita, yaitu **Biru** dan **Ungu**.
 
-### 5. Aplikasi Dunia Nyata
+### 5. Kegunaan Radiasi Cherenkov
 
 Radiasi Cherenkov bukan sekadar tontonan visual; ia memiliki kegunaan praktis dalam sains dan keamanan:
 

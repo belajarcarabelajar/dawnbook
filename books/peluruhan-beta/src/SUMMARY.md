@@ -8,7 +8,7 @@
 - [Peran Neutrino dan Antineutrino](content/06_peran-neutrino-dan-antineutrino.md)
 - [Spektrum Energi Kontinu](content/07_spektrum-energi-kontinu.md)
 - [Hukum Kekekalan dalam Proses Nuklir](content/08_hukum-kekekalan-dalam-proses-nuklir.md)
-- [Cahaya Biru yang Misterius dari Radiasi Cherenkov](content/09_cahaya-biru-yang-misterius.md)
+- [Cahaya Biru Radiasi Cherenkov](content/09_cahaya-biru-yang-misterius.md)
 - [Laju Peluruhan dan Waktu Paruh](content/10_laju-peluruhan-dan-waktu-paruh.md)
 - [Aplikasi dan Manfaat Peluruhan Beta dalam Kehidupan](content/11_aplikasi-dan-manfaat-peluruhan-beta.md)
 - [Keamanan dan Proteksi Radiasi Beta](content/12_keamanan-dan-proteksi-radiasi-beta.md)

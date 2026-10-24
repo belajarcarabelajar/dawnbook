@@ -95,7 +95,7 @@ Bayangkan ${}^{14}\text{C}$ sebagai butiran pasir di bagian atas jam pasir. Begi
 
 Beberapa jenis sensor asap (smoke detector) menggunakan prinsip ionisasi yang mirip dengan aplikasi beta, meskipun lebih sering menggunakan partikel alfa. Namun, dalam aplikasi industri khusus, peluruhan beta digunakan dalam **kromatografi gas** untuk mendeteksi polutan di udara atau residu pestisida pada makanan. Elektron dari peluruhan beta menabrak molekul udara dan menciptakan arus listrik; jika ada molekul polutan yang lewat, arus tersebut akan berubah, memicu alarm atau pencatatan data.
 
-### Ringkasan Aplikasi
+### Isotop dan Fungsinya per Bidang
 
 | Bidang | Isotop Utama | Fungsi Utama | Prinsip Fisika |
 | --- | --- | --- | --- |

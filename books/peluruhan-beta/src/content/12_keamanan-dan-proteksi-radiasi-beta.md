@@ -57,11 +57,11 @@ Untuk meminimalkan efek Bremsstrahlung, kita harus menggunakan material dengan *
 2. **Aluminium:** Logam ringan ini juga efektif dan sering digunakan dalam aplikasi industri sebagai perisai tambahan.
 3. **Kayu:** Meskipun jarang digunakan secara formal, kayu yang tebal mampu menyerap radiasi beta.
 
-**Aturan Emas Perisai Beta:**
+**Aturan Dasar Perisai Beta:**
 
 > Gunakan material **Low-Z** (Plastik/Aluminium) di lapisan dalam untuk menghentikan partikel beta, kemudian tambahkan material **High-Z** (Timbal) di lapisan luar *hanya jika* ada sinar-X sekunder yang dihasilkan.
 
-### 4. Tiga Pilar Proteksi Radiasi
+### 4. Tiga Prinsip Proteksi Radiasi
 
 Sama seperti jenis radiasi lainnya, keselamatan terhadap radiasi beta bergantung pada tiga prinsip utama yang dikenal sebagai **ALARA** (*As Low As Reasonably Achievable*):
 
@@ -70,7 +70,7 @@ Sama seperti jenis radiasi lainnya, keselamatan terhadap radiasi beta bergantung
    - *Tips:* Gunakan penjepit (forceps) atau alat kendali jarak jauh saat menangani isotop beta.
 3. **Perisai (Shielding):** Gunakan perisai plastik atau akrilik yang sesuai antara pekerja dan sumber radiasi.
 
-### 5. Aplikasi Dunia Nyata & Skenario Keselamatan
+### 5. Keselamatan di Laboratorium dan Industri
 
 #### 1. Laboratorium Medis (Isotop ${}^{32}\text{P}$)
 
@@ -84,7 +84,7 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 
 - **Tindakan Aman:** Sumber radiasi ditempatkan dalam wadah baja yang dilapisi plastik di bagian dalamnya dan dilengkapi dengan *shutter* otomatis yang menutup jika ada orang yang mendekat ke area mesin.
 
-### 6. Ringkasan Proteksi
+### 6. Pokok Proteksi Radiasi Beta
 
 | Karakteristik | Penjelasan |
 | --- | --- |
