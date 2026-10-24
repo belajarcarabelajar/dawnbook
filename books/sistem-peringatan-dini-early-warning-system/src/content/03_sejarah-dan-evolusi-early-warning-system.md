@@ -24,7 +24,7 @@ Sistem ini murah dan tanpa listrik, tetapi lemah pada malam hari atau hujan leba
 
 dan sistem hanya berguna jika \\( T_{\text{lead}} > 0 \\) dengan margin cukup untuk evakuasi.
 
-### Instrumentalisasi Awal 1940-1990
+### Instrumen Peringatan Awal 1940-1990
 
 Perang Dunia II mempercepat kebutuhan peringatan dini:
 

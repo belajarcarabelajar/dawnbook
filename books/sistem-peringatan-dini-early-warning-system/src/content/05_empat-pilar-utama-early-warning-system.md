@@ -65,7 +65,7 @@ Komponen utama:
 
 Di Kamaishi, Jepang, siswa selamat tinggi saat tsunami 2011 karena program *Tsunami Tendenko* yang melatih evakuasi mandiri. Di Indonesia, Desa Tangguh Bencana yang berlatih tiap 6 bulan mencatat waktu evakuasi lebih cepat. Pilar ini sering dianggap tugas BPBD saja, padahal tanpa partisipasi warga, rencana di kertas tidak berjalan saat sirene berbunyi malam hari.
 
-### Hubungan Antar Pilar Sebagai Rantai
+### Umpan Balik Antarpilar
 
 Keempat pilar bukan urutan linear, tapi *loop* umpan balik. Pengetahuan risiko mengarahkan penempatan sensor. Data monitoring memperkaya peta risiko. Diseminasi yang efektif meningkatkan kepatuhan evakuasi, dan pengalaman evakuasi memberi pelajaran untuk memperbaiki pesan dan peta.
 
