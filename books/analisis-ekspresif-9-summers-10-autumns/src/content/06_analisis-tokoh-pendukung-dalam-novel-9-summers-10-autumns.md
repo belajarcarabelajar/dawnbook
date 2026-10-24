@@ -47,6 +47,6 @@ Selain tokoh utama, kehadiran tokoh pendukung dalam novel *9 Summers 10 Autumns*
 
 Analisis peran sosial menunjukkan bahwa tokoh pendukung seperti para dosen di IPB dan rekan kerja di Jakarta (misalnya Audrey di New York atau Mas Mul) tidak sekadar menjadi pelengkap cerita. Mereka bertindak sebagai jembatan transisi sosial (*social facilitators*) yang membantu Iwan keluar dari mentalitas minder anak daerah. Interaksi sosial dengan Audrey di kelas yoga West Village, misalnya, membantu mengekspresikan sisi humanis dan pencarian spiritual Iwan di tengah tekanan kerja korporat Amerika Serikat.
 
-### Menuju Ruang dan Lingkungan Cerita
+### Tokoh yang Tidak Hidup di Ruang Hampa
 
 Watak para tokoh dan interaksi mereka tentu tidak terjadi di ruang hampa. Di bab selanjutnya, kita akan meneliti latar fisik dan sosial, mulai dari kesejukan Batu hingga belantara beton New York, yang melingkupi perjalanan hidup mereka.
