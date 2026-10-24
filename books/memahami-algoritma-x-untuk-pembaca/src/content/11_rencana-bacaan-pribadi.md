@@ -16,7 +16,7 @@ Aliran rekomendasi terus berlanjut, jadi menunggu feed kehabisan hal menarik buk
 2. Sumber utama sudah kamu periksa.
 3. Batas waktu yang kamu tetapkan sudah tercapai.
 
-Begitu salah satunya terpenuhi, tutup aplikasinya. Sisa post yang belum terbaca tidak hilang dari dunia, hanya belum kamu butuhkan hari ini. Tulis tanda yang kamu pilih di baris batas sesi pada lembar rencana, supaya keputusan berhenti sudah dibuat sebelum godaan menggulir datang.
+Begitu salah satunya terpenuhi, tutup aplikasinya. Sisa post yang belum terbaca tidak hilang, hanya belum kamu butuhkan hari ini. Tulis tanda yang kamu pilih di baris batas sesi pada lembar rencana, supaya keputusan berhenti sudah dibuat sebelum godaan menggulir datang.
 
 ### Sumber yang Menguji Pandanganmu
 
@@ -104,4 +104,4 @@ Catat juga risikonya, karena kata yang dibisukan terlalu luas bisa ikut menutup 
 
 ## Penutup
 
-Kode rekomendasi X terus diperbarui, jadi sebagian detail teknis di buku ini suatu hari akan tertinggal. Yang tidak ikut usang adalah kebiasaan yang kamu bangun: tahu apa yang dicari, memilih jalur baca dengan sengaja, memeriksa sumber, dan berhenti saat tujuan tercapai. Mesin rekomendasi boleh menebak minatmu, tetapi hanya kamu yang bisa menilai apakah sebuah bacaan benar-benar berguna. Mulailah dari satu List, satu catatan, dan satu sesi yang selesai tepat waktu, lalu biarkan rencana ini tumbuh bersamamu.
+Kode rekomendasi X terus diperbarui, jadi sebagian detail teknis di buku ini suatu hari akan tertinggal. Yang tidak ikut usang adalah kebiasaan yang kamu bangun: tahu apa yang dicari, memilih jalur baca dengan sengaja, memeriksa sumber, dan berhenti saat tujuan tercapai. Mesin rekomendasi boleh menebak minatmu, tetapi hanya kamu yang bisa menilai apakah sebuah bacaan benar-benar berguna. Mulailah dari satu List, satu catatan, dan satu sesi yang selesai tepat waktu, lalu tambah isi rencana ini sedikit demi sedikit.
