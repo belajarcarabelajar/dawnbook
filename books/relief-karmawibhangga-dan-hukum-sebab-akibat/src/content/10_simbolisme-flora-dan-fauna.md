@@ -76,10 +76,10 @@ Meskipun kita tidak lagi memahat relief di dinding batu, kita masih menggunakan 
 
 - **Merpati Putih:** Digunakan secara universal sebagai simbol perdamaian (mirip dengan fungsi burung dalam relief untuk menunjukkan kedamaian).
 - **Pohon Beringin:** Dalam konteks Indonesia, sering menjadi simbol pengayoman dan persatuan (sejajar dengan fungsi Kalpataru sebagai pemberi perlindungan).
-- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang sangat mirip dengan pesan di kaki Borobudur.
+- **Kampanye Lingkungan:** Saat kita melihat poster hutan yang gundul dengan hewan yang menderita, secara psikologis kita merasakan adanya "kesalahan moral" manusia, sebuah narasi sebab-akibat yang sangat serupa dengan pesan di kaki Borobudur.
 
 ## Latihan Refleksi
 
-Coba perhatikan lingkungan di sekitar kamu hari ini. Jika hidup kamu saat ini adalah sebuah panel relief Karmawibhangga, hewan atau tumbuhan apa yang paling cocok menggambarkan suasana hati atau tindakan kamu minggu ini? Apakah kamu sedang menjadi bunga teratai yang tenang, atau monyet yang gelisah?
+Coba amati lingkungan di sekitar kamu hari ini. Jika hidup kamu saat ini adalah sebuah panel relief Karmawibhangga, hewan atau tumbuhan apa yang paling cocok menggambarkan suasana hati atau tindakan kamu minggu ini? Apakah kamu sedang menjadi bunga teratai yang tenang, atau monyet yang gelisah?
 
 **Penting:** Memahami simbolisme flora dan fauna membantu kita menyadari bahwa setiap detail kecil dalam relief Karmawibhangga memiliki tujuan. Tidak ada pahatan yang sia-sia; setiap helai daun dan setiap kepakan sayap burung adalah bagian dari simfoni besar tentang hukum sebab-akibat.

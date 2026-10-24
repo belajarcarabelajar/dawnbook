@@ -86,4 +86,4 @@ Pengetahuan tentang kehidupan sosial dalam relief ini bukan sekadar informasi us
 
 > **Pesan Memorable:** "Melihat relief Karmawibhangga bukan sekadar belajar tentang agama, tapi tentang mengenali wajah nenek moyang kita sendiri, bagaimana mereka tertawa, bekerja, dan berpakaian dalam harmoni dengan alam Jawa yang subur."
 
-*Coba perhatikan gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*
+*Coba amati gambar atau foto relief Karmawibhangga yang tersedia di museum atau buku teks. Dapatkah kamu menemukan perbedaan antara cara seorang pelayan dan seorang raja memegang sebuah benda?*
