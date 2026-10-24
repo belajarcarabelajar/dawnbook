@@ -1,6 +1,6 @@
 ## Mekanisme Persaingan dan Efisiensi Pasar
 
-Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Bagian ini membahas bagaimana persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
+Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Dalam pandangan ini, persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
 
 ## Persaingan sebagai Mesin Penggerak Inovasi
 

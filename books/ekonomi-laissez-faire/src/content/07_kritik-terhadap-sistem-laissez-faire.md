@@ -2,7 +2,7 @@
 
 Sistem **Laissez-faire** sering digambarkan sebagai tatanan ekonomi yang sempurna, tempat setiap individu mengejar kepentingan pribadinya. Dari situ, kesejahteraan bagi masyarakat luas dianggap tercipta secara otomatis. Namun, dalam praktiknya, sistem ini sering kali menimbulkan masalah.
 
-Meskipun prinsip "biarkan terjadi" (Laissez-faire) menawarkan kebebasan, para kritikus berpendapat bahwa tanpa aturan main dan wasit yang tegas, yaitu pemerintah, pasar bebas dapat menimbulkan kerusakan. Bagian ini membahas dampak buruk dari kebebasan pasar yang tidak dibatasi.
+Meskipun prinsip "biarkan terjadi" (Laissez-faire) menawarkan kebebasan, para kritikus berpendapat bahwa tanpa aturan main dan wasit yang tegas, yaitu pemerintah, pasar bebas dapat menimbulkan kerusakan. Kritik itu menyoroti dampak buruk dari kebebasan pasar yang tidak dibatasi.
 
 ## 1. Risiko Monopoli
 
