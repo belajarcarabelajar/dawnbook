@@ -150,7 +150,7 @@ Trigger: owner feedback 2026-10-24 on the live book (PR #184): the prose reads s
 - [x] Audit (V1): parent reads every chapter against its pre-rewrite copy. Evidence: parent Read all 13 chapters end to end; 11 single-sentence edits restoring hedges and terms the rewrite had loosened (ch01 'Gim ini mengajarkan' to the guide's advice, 'di samping rumah' to 'tidak jauh dari rumah'; ch02 'seharusnya tetap sehat', 'tampaknya' for Van Dongen's self-ratings, the remedy tied to any heeded warning; ch04 'bisa membuat panen mundur'; ch09 save-game advice without the invented benefit; ch10 'ia marah' instead of an embellished outburst; ch11 'Blue Feather' term in a heading and a sentence, the 'setahap demi setahap' claim removed again); book test exit 0 (13 pass) after the edits.
 - [x] Gates (V2): run[] all exit 0. Evidence: `bun test <book test> tests/scripts/check-book-structure.test.ts tests/serp-description.test.ts` exit 0 (61 pass, 0 fail); `bun run scripts/check-book-structure.ts <slug>` exit 0 (14 chapters, 0 problems); `bun run check:headings` exit 0; `bun run scripts/check-repeated-headings.ts` exit 0; `bun run check:diagrams` exit 0; `bun run build` exit 0 with `Successfully built: pelajaran-hidup-dari-harvest-moon-back-to-nature` and SEO R1-R7 passed; chapter metas 113-155 chars.
 - [x] Review (V3): two independent reviewers (facts kept, voice); findings fixed. Evidence: 2 staid reviewers, both 'not correct' (14 P1 in total, all facts or superlatives added by the rewrite); 3 fixer subagents on disjoint chapters restored the baseline and fixed the voice P2s; parent read every changed line against the pre-fix copies (no new fact); section 29 and the voice-guard test tightened by the parent, test RED (exit 1, 12 pass 1 fail) then GREEN; final gates: tests exit 0 (61 pass, 0 fail), structure, headings, repeated headings, diagrams exit 0, copy rules exit 0, build exit 0 with SEO R1-R7 passed; report docs/code-plan/artifacts/2026-10-24-dawnbook-harvest-moon-voice-review.md.
-- [ ] Deliver (D1): commit, PR; merge, deploy and the seed refresh in PR #185 are asked separately.
+- [x] Deliver (D1): commit, PR; merge, deploy and the seed refresh in PR #185 are asked separately. Evidence: commit by Iwan Kurniawan (no trailer, attribution scan exit 1, 18 files staged = 18 committed); PR #187 opened through pr-registry, merged with --match-head-commit (owner approved) as 24331ff; post-merge book test exit 0 (13 pass) and structure checker exit 0 on main; deploy-website.sh exit 0 (deployment 4d30072f, no new-book announcement); migrate-to-d1.ts exit 0; live chapter 01 serves the rewritten text and no 'Menurut panduan'; db/seed.sql committed in PR #185.
 
 ## 1. Measured problem (main f2162b2, chapters 01-13)
 
@@ -249,3 +249,15 @@ Commit as Iwan Kurniawan, PR with Refs to the plan issue. Merge, the production 
 
 - Fan-out is 7 rewriters (two chapters each) rather than 13, to stay under the subagent session limit hit earlier in this session (A16).
 - Referensi (14) and SUMMARY.md are not touched.
+
+## Follow-up Backlog
+
+- V-N1 (owner selected 2026-10-24): plan a section 29 voice pass for the six pipeline-written books whose per-chapter scaffold score is highest (soft-power-jepang-lewat-manga-dan-anime 2.8, psikologi-di-balik-keputusan-finansial-kita 2.1, kenapa-kebiasaan-susah-diubah 2.0, pengaruh-uang-terhadap-kebahagiaan 1.6, kenapa-kita-suka-menunda-nunda 1.5, saat-dia-suka-tapi-kamu-tidak 1.3; median of all 60 books 0.25). Planned in docs/code-plan/plans/2026-10-24-dawnbook-voice-pass-six-books.md, Draft, awaiting approval.
+- V-L1 A repository-wide voice check (scripts/check-voice.ts) as a build warning. `defer: the six books would fail it today, after the voice pass lands`
+
+## Closeout status
+
+Decision (AskUserQuestion 2026-10-24, Close plan): Keep it open.
+- Verdict: `bun ~/vivera/scripts/plan-closeout.mjs --readiness docs/code-plan/plans/2026-10-24-dawnbook-harvest-moon-voice.md` exit 3, NEEDS-HUMAN: 0 open NOW follow-ups, 0 open step boxes, every task UNPROVEN because of the `false` sentinel.
+- Done: PR #187 merged (24331ff), deployed (4d30072f), D1 seeded, live text checked.
+- Reopen trigger: when the owner has read the live chapters and confirms the voice, mark this plan Complete in the next dawnbook PR.

@@ -1281,8 +1281,8 @@ Nurhikmah, N. (2024). Educational management functions: Planning, organizing, ac
 Robbins, S. P., & Coulter, M. (2021). *Management* (edisi ke-15). Pearson.
 
 Terry, G. R. (1956). *Principles of management*. Richard D. Irwin.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -2422,8 +2422,8 @@ Sudaryat, Y., & Kuswari, U. (2021). Dinamika Perubahan Nilai Rasa Bahasa: Analis
 Traugott, E. C., & Dasher, R. B. (2001). *Regularity in Semantic Change*. Cambridge University Press. [https://doi.org/10.1017/CBO9780511486500](https://doi.org/10.1017/CBO9780511486500)
 
 Ullmann, S. (1962). *Semantics: An Introduction to the Science of Meaning*. Basil Blackwell. [https://archive.org/details/semanticsintrodu0000ullm](https://archive.org/details/semanticsintrodu0000ullm)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4014,8 +4014,8 @@ Daftar pustaka berikut memuat buku teks kanonikal, monograf ilmiah, laporan tekn
 - Jacobs, E. N., Ward, K. E., & Pinkerton, R. M. (1933). [The Characteristics of 78 Related Airfoil Sections from Tests in the Variable-Density Wind Tunnel](https://ntrs.nasa.gov/citations/19930091108) (NACA Report No. 460). National Advisory Committee for Aeronautics.
 - Theodorsen, T. (1932). [Theory of Wing Sections of Arbitrary Shape](https://ntrs.nasa.gov/citations/19930091485) (NACA Report No. 411). National Advisory Committee for Aeronautics.
 - Whitcomb, R. T. (1976). [A Design Approach and Selected Wind-Tunnel Results at High Subsonic Speeds for Wing-Tip Mounted Winglets](https://ntrs.nasa.gov/citations/19760019075) (NASA Technical Note No. D-8260). National Aeronautics and Space Administration.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -4972,8 +4972,8 @@ Kraut, R. (2018). Aristotle''s ethics. Dalam E. N. Zalta (Ed.), *The Stanford En
 MacIntyre, A. (2007). *After virtue: A study in moral theory* (3rd ed.). University of Notre Dame Press.
 
 Nussbaum, M. C. (1988). Non-relative virtues: An Aristotelian approach. *Midwest Studies in Philosophy*, 13, 32-53. [https://doi.org/10.1111/j.1475-4975.1988.tb00111.x](https://doi.org/10.1111/j.1475-4975.1988.tb00111.x)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -5733,8 +5733,8 @@ Setiap entri di bawah ini tertaut ke DOI atau halaman penerbitnya, jadi kamu bis
 
 - Pychyl, T. A. (2013). [*Solving the procrastination puzzle: A concise guide to strategies for change*](https://www.penguinrandomhouse.com/books/315695/solving-the-procrastination-puzzle-by-timothy-a-pychyl/). Tarcher/Penguin.
 - Sirois, F. M., & Pychyl, T. A. (Eds.). (2016). [*Procrastination, health, and well-being*](https://shop.elsevier.com/books/procrastination-health-and-well-being/sirois/978-0-12-802862-9). Elsevier.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7000,8 +7000,8 @@ Berikut adalah daftar literatur ilmiah dan buku referensi yang menjadi landasan 
 * Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one''s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology*, 77(6), 1121–1134. [https://doi.org/10.1037/0022-3514.77.6.1121](https://doi.org/10.1037/0022-3514.77.6.1121)
 * Nickerson, R. S. (1998). Confirmation bias: A ubiquitous phenomenon in many guises. *Review of General Psychology*, 2(2), 175–220. [https://doi.org/10.1037/1089-2680.2.2.175](https://doi.org/10.1037/1089-2680.2.2.175)
 * Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, 185(4157), 1124–1131. [https://doi.org/10.1126/science.185.4157.1124](https://doi.org/10.1126/science.185.4157.1124)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -7951,8 +7951,8 @@ Kim, Y. (Ed.). (2013). *The Korean wave: Korean media go global*. Routledge. [ht
 Ryoo, W. (2009). Globalization, or transnationalization? A critical approach to the Korean wave. *Asian Journal of Communication*, 19(2), 137-151. [https://doi.org/10.1080/01292980902826427](https://doi.org/10.1080/01292980902826427)
 
 Shim, D. (2006). Hybridity and the rise of Korean popular culture in Asia. *Media, Culture & Society*, 28(1), 25-44. [https://doi.org/10.1177/0163443706059278](https://doi.org/10.1177/0163443706059278)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -8866,8 +8866,8 @@ Wineburg, S., & McGrew, S. (2019). Lateral reading and the nature of expertise: 
 Lewandowsky, S., Cook, J., Ecker, U. K. H., Albarracín, D., Amazeen, M. A., Kendeou, P., Lombardi, D., Newman, E. J., Pennycook, G., Porter, E., Rand, D. G., Rapp, D. N., Reifler, J., Roozenbeek, J., Schmid, P., Seifert, C. M., Sinatra, G. M., Swire-Thompson, B., van der Linden, S., ... Zaragoza, M. S. (2020). [*The debunking handbook 2020*](https://doi.org/10.17910/b7.1182). [https://doi.org/10.17910/b7.1182](https://doi.org/10.17910/b7.1182)
 
 Wardle, C., & Derakhshan, H. (2017). [*Information disorder: Toward an interdisciplinary framework for research and policy making*](https://www.coe.int/en/web/freedom-expression/information-disorder) (Report No. DGI(2017)09). Council of Europe.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -10104,8 +10104,8 @@ Stiglitz, J. E. (2002). *Globalization and its discontents*. W. W. Norton & Comp
 Turgot, A. R. J. (1766). *Réflexions sur la formation et la distribution des richesses*. Éphémérides du citoyen.
 
 Viner, J. (1927). Adam Smith and laissez faire. *Journal of Political Economy*, 35(2), 198–232. [https://doi.org/10.1086/253837](https://doi.org/10.1086/253837)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -11180,8 +11180,8 @@ Webber, J. (2006). Sartre on character. *Philosophical Papers*, 35(1), 101-116. 
 Wong, P. T. P. (2010). Meaning therapy: An integrative and positive existential psychotherapy. *Journal of Contemporary Psychotherapy*, 40(2), 85-93. <https://doi.org/10.1007/s10879-009-9132-0>
 
 Yalom, I. D. (1980). *Existential psychotherapy*. Basic Books.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -13055,8 +13055,8 @@ Blandy, J., Orendorff, J., & Tindall, L. F. S. (2021). *Programming Rust: Fast, 
 Jung, R., Jourdan, J.-H., Krebbers, R., & Dreyer, D. (2021). Safe systems programming in Rust. *Communications of the ACM*, *64*(4), 144-152. <https://doi.org/10.1145/3419997>
 
 Klabnik, S., & Nichols, C. (2023). *The Rust programming language* (2nd ed.). No Starch Press.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -14205,8 +14205,8 @@ Gardner, H., & Hatch, T. (1989). Educational implications of the theory of multi
 Gardner, H., & Moran, S. (2006). The science of multiple intelligences theory: A response to Lynn Waterhouse. *Educational Psychologist*, *41*(4), 227–232. https://doi.org/10.1207/s15326985ep4104_2
 
 Kornhaber, M. L. (2019). The theory of multiple intelligences. In R. J. Sternberg & S. B. Kaufman (Eds.), *The Cambridge handbook of intelligence* (pp. 659–678). Cambridge University Press. https://doi.org/10.1017/9781108770422.028',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -15272,8 +15272,8 @@ Berikut adalah daftar referensi akademis, regulasi hukum, standar industri, sert
 1. **Google Ads Documentation.** (2024). [*About Smart Bidding and Algorithmic Targeting*](https://support.google.com/google-ads/answer/6167120). Google Help Center.
 2. **Meta Ads Manager Documentation.** (2024). [*Core Audiences, Custom Audiences, and Lookalike Audiences Mechanics*](https://www.facebook.com/business/help/343784079040060). Meta Business Help Center.
 3. **TikTok for Business.** (2023). [*Recommendation Algorithm and Ad Delivery System Overview*](https://www.tiktok.com/business/). TikTok Engineering Insights.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -16554,8 +16554,8 @@ Berikut adalah daftar literatur ilmiah dan buku acuan akademis yang mendasari ma
 *   Seligman, M. E. P. (2011). *Flourish: A visionary new understanding of happiness and well-being*. Free Press.
 *   Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. *American Psychologist*, *55*(1), 5–14. <https://doi.org/10.1037/0003-066X.55.1.5>
 *   Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology*, *53*(1), 80–93. <https://doi.org/10.1037/0022-0167.53.1.80>',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -17435,8 +17435,8 @@ Halaman Bantuan X tidak mencantumkan tanggal terbit. Semuanya dibaca pada 12 Okt
 ### Cakupan pemeriksaan
 
 Pemeriksaan untuk buku ini berupa pembacaan statis atas salinan pembaruan September 2025 dari twitter/the-algorithm (arsip dengan SHA-256 berawalan `92fa7db2`), ditambah repositori xai-org/x-algorithm dan halaman Bantuan X dalam kondisi 12 Oktober 2026. Konfigurasi produksi di luar nilai bawaan yang disalin ke `param.rs`, model yang sudah dilatih, data pengguna, dan eksperimen yang tidak dipublikasikan di repositori tidak tercakup. Tautan ke cabang `main` di GitHub bisa berubah isinya setelah tanggal itu, dan nama menu di aplikasi bisa berbeda menurut perangkat, wilayah, dan versi.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -19137,8 +19137,8 @@ Vahalia, U. (1996). *UNIX internals: The new frontiers*. Prentice Hall.
 Welte, H. (2006). Linux as real-time operating system. *Proceedings of the Linux Symposium*, 2, 333-340.
 
 Wright, C. P., Martino, M., & Zadok, E. (2003). Linux security modules: General security support for the Linux kernel. *Proceedings of the 11th USENIX Security Symposium*, 17-31.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -20246,8 +20246,8 @@ Mari kita lihat beberapa contoh praktis saat pola pikir ini diterapkan dalam ber
 Semua cerita di atas membuktikan bahwa metakognisi sangat bisa dipraktikkan secara langsung. Baik di ruang kelas, meja rapat kantor, atau sekadar saat mencoba hobi baru di rumah, kesadaran memantau diri sendiri membuat kita tidak gampang panik saat situasi tidak berjalan sesuai rencana. Kamu punya kendali penuh atas cara berpikirmu, sehingga masalah pelik yang tadinya terasa mustahil diselesaikan pelan-pelan bisa diurai satu per satu.
 
 > Proses berpikir bukanlah bawaan lahir yang tidak bisa diubah. Kamu berhak menjadi arsitek bagi pikiranmu sendiri dengan terus merawat dan melatih kesadaran diri.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -21349,8 +21349,8 @@ Sebagai pasien atau orang tua yang sedang mempelajari tindakan ini, kamu bisa me
 9. Pynnonen, M., Brinkmeier, J. V., Thorne, M. C., Chong, L. Y., & Burton, M. J. (2017). Coblation versus other surgical techniques for tonsillectomy. *Cochrane Database of Systematic Reviews*, 2017(8), CD004619. [https://doi.org/10.1002/14651858.CD004619.pub3](https://doi.org/10.1002/14651858.CD004619.pub3)
 
 10. Seshamani, M., & Windfuhr, J. P. (2014). Prevalence of complications from adult tonsillectomy and impact on health care expenditures. *Otolaryngology - Head and Neck Surgery*, 150(2), 202-208. [https://doi.org/10.1177/0194599813519972](https://doi.org/10.1177/0194599813519972)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -22306,8 +22306,8 @@ Bab ini merangkum **_referensi sistem peringatan dini_** yang kamu butuhkan untu
 - Untuk dokumen global, UNDRR dan WMO rutin memperbarui laporan *Global Status of MHEWS*; unduh versi terbaru lewat tautan yang sama.
 - Untuk sitasi jurnal, gunakan DOI sebagai URL permanen agar tautan tidak mati. Jika kamu butuh kutipan BibTeX, buka halaman DOI lalu pilih *Export citation*.
 - Saat menyusun *literature review*, mulai dari **Sendai Framework** sebagai payung kebijakan, turun ke **UU 24/2007** dan **UU 31/2009** sebagai konteks nasional, lalu dukung dengan bukti empiris dari **jurnal InaTEWS** di atas.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -23485,8 +23485,8 @@ Thomas, D. C., & Inkson, K. (2017). *Cultural intelligence: Surviving and thrivi
 Triandis, H. C. (1995). *Individualism & collectivism*. Westview Press.
 
 Ward, C., Bochner, S., & Furnham, A. (2001). *The psychology of culture shock* (2nd ed.). Routledge.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -24648,8 +24648,8 @@ Masa depan pendidikan berbasis neurosains bukan hanya tentang teknologi canggih 
 Dengan mengakui bahwa otak setiap siswa bersifat plastis, kita menghapus kata "bodoh" atau "tidak berbakat" dari kamus pendidikan kita. Kita menggantinya dengan "belum terbentuk" atau "sedang berkembang."
 
 *Refleksi Akhir: Bagaimana cara kamu memandang kapasitas belajar kamu sendiri hari ini, setelah mengetahui bahwa otak kamu memiliki kemampuan tak terbatas untuk mengatur ulang dirinya sepanjang hayat?*',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -25662,8 +25662,8 @@ Repko, A. F., & Szostak, R. (2020). *Interdisciplinary research: Process and the
 Spelt, E. J. H., Biemans, H. J. A., Tobi, H., Luning, P. A., & Mulder, M. (2009). Teaching and learning in interdisciplinary higher education: A systematic review. *Educational Psychology Review*, *21*(4), 365–380. [https://doi.org/10.1007/s10648-009-9113-z](https://doi.org/10.1007/s10648-009-9113-z)
 
 Trisdiono, H., Suryono, Y., & Syarif, S. (2019). Multidisciplinary integrated project-based learning to improve critical thinking skills and collaboration. *International Journal of Learning, Teaching and Educational Research*, *18*(1), 9–30. [https://doi.org/10.26803/ijlter.18.1.2](https://doi.org/10.26803/ijlter.18.1.2)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -26848,8 +26848,8 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Korpershoek, R. J., Harms, T., de Boer, H., van Kuijk, M., & van de Grift, W. J. (2016). A meta-analysis of the effects of classroom management strategies and interventions on students'' academic, behavioral, emotional, and motivational outcomes. *Review of Educational Research*, 86(3), 643–680. [https://doi.org/10.3102/0034654315626799](https://doi.org/10.3102/0034654315626799)
 * Oliver, R. M., Wehby, J. H., & Reschly, D. J. (2011). Teacher classroom management practices: Effects on disruptive or aggressive student behavior. *Campbell Systematic Reviews*, 7(1), 1–55. [https://doi.org/10.4073/csr.2011.4](https://doi.org/10.4073/csr.2011.4)
 * Simonsen, B., Fairbanks, S., Briesch, A., Myers, D., & Sugai, G. (2008). Evidence-based practices in classroom management: Considerations for research to practice. *Education and Treatment of Children*, 31(3), 351–380. [https://doi.org/10.1353/etc.0.0007](https://doi.org/10.1353/etc.0.0007)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -27757,8 +27757,8 @@ Flynn, T. (2013). Jean-Paul Sartre. Dalam E. N. Zalta (Ed.), *[Stanford Encyclop
 McDonald, W. (2017). Søren Kierkegaard. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/kierkegaard/)* (Edisi Musim Dingin 2017). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/kierkegaard/
 
 O''Connor, T., & Franklin, C. (2021). Free Will. Dalam E. N. Zalta (Ed.), *[Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/freewill/)* (Edisi Musim Panas 2021). Metaphysics Research Lab, Stanford University. https://plato.stanford.edu/entries/freewill/',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -29309,8 +29309,8 @@ Berikut adalah daftar referensi dan karya ilmiah utama yang dapat kamu pelajari 
 13. **Selten, R.** (1965). [*Spieltheoretische Behandlung eines Oligopolmodells mit Nachfrageträgheit*](https://www.jstor.org/stable/40748834). *Zeitschrift für die gesamte Staatswissenschaft*, 121(2), 301-324.
 14. **Shapley, L. S.** (1953). [*A Value for N-Person Games*](https://doi.org/10.1515/9781400881970-018). In H. W. Kuhn & A. W. Tucker (Eds.), *Contributions to the Theory of Games* (Vol. 2, pp. 307-317). Princeton: Princeton University Press.
 15. **von Neumann, J., & Morgenstern, O.** (1944). [*Theory of Games and Economic Behavior*](https://press.princeton.edu/books/paperback/9780691130293/theory-of-games-and-economic-behavior). Princeton: Princeton University Press.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -30459,8 +30459,8 @@ Daftar pustaka di bawah ini mencakup berbagai literatur ilmiah, buku akademik, d
 *   Robinson, O. C., & Wright, G. R. T. (2013). The prevalence, types and perceived outcomes of crisis episodes in early adulthood and midlife: A structured retrospective-autobiographical study. *International Journal of Behavioral Development*, *37*(5), 407–416. [https://doi.org/10.1177/0165025413492464](https://doi.org/10.1177/0165025413492464)
 *   Robinson, O. C., Wright, G. R. T., & Smith, J. A. (2013). The Holistic Phase Model of Early Adult Crisis. *Journal of Adult Development*, *20*(1), 27–37. [https://doi.org/10.1007/s10804-013-9161-1](https://doi.org/10.1007/s10804-013-9161-1)
 *   Valentino, K., & Hendrawan, D. (2025). Tinjauan sistematis: Gambaran quarter-life crisis, dampak, serta faktor-faktor yang memengaruhinya. *Buletin Psikologi*, *33*(1). [https://doi.org/10.22146/buletinpsikologi.98848](https://doi.org/10.22146/buletinpsikologi.98848)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -31721,8 +31721,8 @@ Merencanakan pajak itu seni memanfaatkan aturan pajak yang ada supaya pengeluara
 - **Simpan Bukti Transaksi:** Kalau kamu punya bisnis atau potong pajak mandiri, selalu simpan nota dan dokumen keuangan. Aturannya, dokumen ini perlu disimpan rapi sampai 10 tahun.
 - **Disiplin Waktu:** Telat bayar atau telat lapor sama dengan buang-buang uang buat bayar denda. Catat baik-baik tenggat waktunya di kalender.
 - **Tanya Ahlinya:** Punya banyak sumber pendapatan atau aset yang rumit? Jangan ragu pakai jasa konsultan pajak. Daripada salah hitung dan berujung denda, mending bayar profesional di awal.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -32895,8 +32895,8 @@ Liu, C., Agrawal, P., Sarkar, N., & Chen, S. (2009). Dynamic difficulty adjustme
 ---
 
 *Semua tautan DOI diverifikasi aktif pada Juni 2026.*',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -33986,8 +33986,8 @@ Teori Piaget memberikan kita kacamata untuk melihat bahwa setiap "kesalahan" log
 *Bahan Refleksi: Sebagai seorang pendidik, bagaimana seorang guru akan menyesuaikan cara menjelaskan sebuah kesalahan kepada siswa setelah memahami bahwa kesalahan tersebut merupakan bagian alami dari proses adaptasi kognitif mereka?*
 
 > **Poin Utama:** Perjalanan kognitif adalah transformasi dari **organisme biologis yang bereaksi** menjadi **pemikir rasional yang beraksi** terhadap dunia dengan logika dan sistematisasi.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -34963,8 +34963,8 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Sinclair, J. M., & Coulthard, R. M. (1975). *Towards an analysis of discourse: The English used by teachers and pupils*. Oxford University Press.
 - Stubbs, M. (1983). *Discourse analysis: The sociolinguistic analysis of natural language*. University of Chicago Press.
 - van Lier, L. (1996). *Interaction in the language curriculum: Awareness, autonomy and authenticity*. Longman.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -35944,8 +35944,8 @@ Halaman ini memuat semua sumber di balik fakta dalam 12 bab buku ini, dan setiap
 - [Attitudes towards the high achiever](https://doi.org/10.1080/00049538908260088). Feather, 1989, Australian Journal of Psychology 41(3), 239-267, rujukan tall poppy syndrome; definisinya dikutip lewat entri ensiklopedia Springer.
 - [Is actual similarity necessary for attraction?](https://doi.org/10.1177/0265407508096700). Montoya, Horton, dan Kirchner, 2008, Journal of Social and Personal Relationships 25(6), 889-922, kemiripan nyata dan kemiripan yang dirasakan.
 - [Machine learning uncovers the most robust self-report predictors of relationship quality](https://doi.org/10.1073/pnas.1917036117). Joel, Eastwick, dkk., 2020, PNAS 117(32), 19061-19071, peramal kualitas hubungan.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -36628,8 +36628,8 @@ Seluruh gagasan, eksperimen, dan angka dalam buku ini bersandar pada sumber di b
 ### Catatan Integritas Riset
 
 Satu kejujuran yang perlu kamu tahu tentang cara buku ini disusun: sumber dipilih dengan pedoman ketat bahwa setiap klaim harus bisa dilacak ke sumber primer yang masih berdiri sebagai ilmu yang valid. Studi yang terkenal tapi kemudian ditarik oleh penulisnya sendiri, seperti kasus satu studi klasik tentang tenggat waktu yang diretraksi pada 2026 setelah investigasi integritas data, tidak dipakai sebagai fondasi argumen mana pun di buku ini. Angka-angka besar juga diperiksa silang ke sumber sekundernya: misalnya, estimasi koefisien loss aversion 2,25 dari Tversky dan Kahneman (1992) disertai catatan bahwa meta-analisis modern cenderung menemukan nilai sekitar 1,5, dan klaim promosi di luar publikasi ilmiah sengaja dikeluarkan dari seluruh bab.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -37937,8 +37937,8 @@ Thomas, K. W., & Kilmann, R. H. (1976). Thomas-Kilmann Conflict Mode Instrument.
 Uhl-Bien, M. (2006). Relational leadership theory: Exploring the social processes of leadership and organizing. *The Leadership Quarterly*, *17*(6), 654–676. [https://doi.org/10.1016/j.leaqua.2006.10.007](https://doi.org/10.1016/j.leaqua.2006.10.007)
 
 Weger, H., Jr., Castle Bell, G., Minei, E. M., & Robinson, M. C. (2014). The relative effectiveness of active listening in initial interactions. *International Journal of Listening*, *28*(1), 13–31. [https://doi.org/10.1080/10904018.2013.813234](https://doi.org/10.1080/10904018.2013.813234)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -38895,8 +38895,8 @@ Ryckman, R. M. (2012). *Theories of personality* (10th ed.). Cengage Learning.
 Schultz, D. P., & Schultz, S. E. (2017). *Theories of personality* (11th ed.). Cengage Learning.
 
 Suryabrata, S. (2011). *Psikologi kepribadian*. Rajawali Pers.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -40101,8 +40101,8 @@ Uchino, B. N. (2006). Social support and health: A review of physiological proce
 American Psychological Association. (2020). *Publication manual of the American Psychological Association* (7th ed.). [https://doi.org/10.1037/0000165-000](https://doi.org/10.1037/0000165-000)
 
 World Health Organization. (2020). *Doing what matters in times of stress: An illustrated guide*. World Health Organization. [https://apps.who.int/iris/handle/10665/331901](https://apps.who.int/iris/handle/10665/331901)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -41344,8 +41344,8 @@ Thaler, R. H., & Sunstein, C. R. (2003). Libertarian paternalism. *American Econ
 Thaler, R. H., & Sunstein, C. R. (2008). *Nudge: Improving decisions about health, wealth, and happiness*. Yale University Press.
 
 Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science*, *185*(4157), 1124-1131. <https://doi.org/10.1126/science.185.4157.1124>',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -42613,8 +42613,8 @@ Pugh, S. (1990). *Total design: Integrated methods for successful product engine
 Saaty, T. L. (1980). *The analytic hierarchy process: Planning, priority setting, resource allocation*. McGraw-Hill.
 
 Triantaphyllou, E. (2000). *Multi-criteria decision making methods: A comparative study*. Kluwer Academic Publishers. [https://doi.org/10.1007/978-1-4757-3157-6](https://doi.org/10.1007/978-1-4757-3157-6)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -43260,8 +43260,8 @@ Sihombing, E. L. (2026). Analisis Novel “Satu Per Tiga” Karya Ryandi Rachman
 Supriyanto, A., Astuti, C. W., & Munifah, S. (2023). Analisis Struktural Novel Tempat Paling Sunyi Karya Arafat Nu. LEKSIS: Jurnal Pendidikan Bahasa Dan Sastra Indonesia, 3(1), 2–2.
 
 Thene, R. M., Robot, M., & Djokaho, M. P. E. (2025). Analisis Sturktur Alur dalam Novel “Sang Guru” Karya Gerson Poyk. Optimisme: Jurnal Bahasa, Sastra, Dan Budaya, 6(1), 91–91.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -44473,8 +44473,8 @@ Dalam pabrik kertas, sumber beta digunakan untuk mengukur ketebalan kertas secar
 6. Krane, K. S. (1987). [Introductory Nuclear Physics](https://www.wiley.com/en-us/Introductory+Nuclear+Physics-p-9780471805533). John Wiley & Sons. ISBN: 978-0-471-80553-3.
 
 7. Wu, C. S., Ambler, E., Hayward, R. W., Hoppes, D. D., & Hudson, R. P. (1957). [Experimental Test of Parity Conservation in Beta Decay](https://doi.org/10.1103/PhysRev.105.1413). *Physical Review*, 105(4), 1413-1415. https://doi.org/10.1103/PhysRev.105.1413',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -45575,8 +45575,8 @@ Daftar pustaka berikut memuat literatur ilmiah berupa buku dan artikel jurnal ak
 6. **Sbetti, N. (2020).** Was football fascist? The 1934 World Cup in the postwar memory. *Soccer & Society*, *21*(7), 819-833. [https://doi.org/10.1080/14660970.2020.1793624](https://doi.org/10.1080/14660970.2020.1793624)
 
 7. **Scharpf, A., Gläßel, C., & Edwards, P. (2023).** International sports events and repression in autocracies: Evidence from the 1978 FIFA World Cup. *American Political Science Review*, *117*(3), 909-926. [https://doi.org/10.1017/S0003055422000958](https://doi.org/10.1017/S0003055422000958)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -46237,8 +46237,8 @@ Semua sumber yang menjadi fondasi buku ini tercantum di halaman berikut dan bisa
 - Clear, J. (2018). Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones. Avery. [https://jamesclear.com/atomic-habits](https://jamesclear.com/atomic-habits)
 - Duhigg, C. (2012). The Power of Habit: Why We Do What We Do in Life and Business. Random House. [https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/](https://www.penguinrandomhouse.com/books/302638/the-power-of-habit-by-charles-duhigg/)
 - Maltz, M. (1960). Psycho-Cybernetics. Prentice-Hall. [https://jamesclear.com/new-habit](https://jamesclear.com/new-habit) (dokumentasi asal-usul mitos 21 hari)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -47526,8 +47526,8 @@ Sweezy, P. M. (1939). Demand under conditions of oligopoly. *Journal of Politica
 Tirole, J. (1988). *The theory of industrial organization*. MIT Press.
 
 Varian, H. R. (2014). *Intermediate microeconomics: A modern approach* (9th ed.). W. W. Norton & Company.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -48408,8 +48408,8 @@ Setelah setahun, Budi tak lagi merasa cemas karena ketinggalan informasi. Hasil 
 Menerapkan minimalisme digital berarti menjaga proses adaptasi gaya hidup secara terus-menerus. Kita berupaya mendudukkan teknologi murni sebagai alat pendukung, dan mencegahnya menggantikan kehidupan nyata.
 
 *Refleksi: Kalau hari ini semua gawai kamu tiba-tiba rusak, kegiatan apa yang langsung kamu rindukan, dan mana yang justru membuatmu lega? Habiskan waktumu lebih banyak untuk yang pertama.*',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -49228,8 +49228,8 @@ Bagian literatur yang paling praktis untuk pembaca: pengalaman mengalahkan kepem
 Untuk potret kebahagiaan lintas negara yang diperbarui setiap tahun, laporan berikut menjadi sumber data komparatif paling lengkap sekaligus pengingat bahwa kebahagiaan bukan semata soal PDB.
 
 - Helliwell, J. F., dkk. (2025). [World Happiness Report 2025](https://worldhappiness.report).',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -50319,8 +50319,8 @@ Berikut adalah daftar referensi akademis, arkeologis, filologis, dan sejarah yan
 
 10. **Zoetmulder, P.J. (1982).** [*Old Javanese-English Dictionary*](https://brill.com/display/title/15456). ''s-Gravenhage: Martinus Nijhoff.
     Kamus bahasa Jawa Kuno yang digunakan dalam verifikasi peristilahan epigrafis dan glosarium istilah pada panel-panel kaki tersembunyi.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -51796,8 +51796,8 @@ Schultz, T. W. (1961). Investment in human capital. *The American Economic Revie
 Schultz, T. W. (1971). *Investment in human capital: The role of education and of research*. Free Press.
 
 Spence, M. (1973). Job market signaling. *The Quarterly Journal of Economics*, 87(3), 355-374. [https://doi.org/10.2307/1882010](https://doi.org/10.2307/1882010)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -53434,8 +53434,8 @@ Quarantelli, E. L. (2001). The sociology of panic. In N. J. Smelser & P. B. Balt
 Republik Indonesia. (2007). *Undang-Undang Republik Indonesia Nomor 24 Tahun 2007 tentang Penanggulangan Bencana*. Lembaran Negara Republik Indonesia Tahun 2007 Nomor 66. [https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007](https://peraturan.bpk.go.id/Details/39901/uu-no-24-tahun-2007)
 
 World Health Organization, War Trauma Foundation, & World Vision International. (2011). *Psychological first aid: Guide for field workers*. World Health Organization. [https://iris.who.int/handle/10665/44615](https://iris.who.int/handle/10665/44615)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -54963,8 +54963,8 @@ Fraley, R. C., Waller, N. G., & Brennan, K. A. (2000). An item response theory a
 Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology, 52*(3), 511-524. [https://doi.org/10.1037/0022-3514.52.3.511](https://doi.org/10.1037/0022-3514.52.3.511)
 
 Mikulincer, M., Shaver, P. R., & Pereg, D. (2003). Attachment theory and affect regulation: The dynamics, development, and cognitive consequences of attachment-related strategies. *Motivation and Emotion, 27*(1), 77-102. [https://doi.org/10.1023/A:1024515519160](https://doi.org/10.1023/A:1024515519160)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -55997,8 +55997,8 @@ Bagaimana kita menerapkan perspektif mereka dalam menghadapi masalah modern (mis
 - *Atau kamu sedang berjuang mengelola kecemasan di tengah kesibukan dan ambisi (seperti Seneca)?*
 
 > **Pesan Penutup:** Meskipun mereka hidup dalam dunia yang sangat berbeda, Seneca, Epictetus, dan Marcus Aurelius setuju pada satu hal: Kebahagiaan tidak ditemukan dalam status atau harta, melainkan dalam karakter dan cara kita berpikir.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -57323,8 +57323,8 @@ Doidge, N. (2007). [*The Brain That Changes Itself: Stories of Personal Triumph 
 Huberman, A. D. (2021). *Huberman Lab Podcast: Controlling your dopamine for motivation, focus & satisfaction*. Scicomm Media. [https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/](https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/)
 
 Mischel, W., Shoda, Y., & Rodriguez, M. I. (1989). Delay of gratification in children. *Science*, *244*(4907), 933–938. [https://doi.org/10.1126/science.2658056](https://doi.org/10.1126/science.2658056)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -58655,8 +58655,804 @@ Berikut adalah daftar literatur ilmiah, buku teks utama, dan artikel jurnal bere
 * Mergler, A. G., & Spooner-Lane, R. (2012). Was microteaching useful? Preservice teachers'' views on their microteaching experiences. *Australian Journal of Teacher Education*, 37(6), 86–96. [https://doi.org/10.14221/ajte.2012v37n6.4](https://doi.org/10.14221/ajte.2012v37n6.4)
 * Remesh, A. (2013). Microteaching, an efficient technique for learning effective teaching skills. *Journal of Research in Medical Sciences: The Official Journal of Isfahan University of Medical Sciences*, 18(2), 158–163.
 * Saban, A., & Coklar, A. N. (2013). Pre-service teachers'' opinions about the micro-teaching method in teacher education programs. *Educational Sciences: Theory & Practice*, 13(4), 2341–2345.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
+)
+ON CONFLICT(slug) DO UPDATE SET
+  title = excluded.title,
+  status = excluded.status,
+  subject_label = excluded.subject_label,
+  content_md = excluded.content_md,
+  updated_at = excluded.updated_at;
+
+INSERT INTO books (id, slug, title, status, subject_label, content_md, created_at, updated_at)
+VALUES (
+  'pelajaran-hidup-dari-harvest-moon-back-to-nature',
+  'pelajaran-hidup-dari-harvest-moon-back-to-nature',
+  'Pelajaran Hidup dari Harvest Moon Back to Nature',
+  'published',
+  'Self-Help',
+  '<!-- Chapter: 01_ladang-warisan-yang-penuh-batu -->
+
+## Ladang Warisan yang Penuh Batu
+
+Pada 16 Desember 1999, sebuah gim PlayStation terbit di Jepang dengan cerita sederhana: seorang anak muda pulang untuk memulihkan ladang kakeknya.
+
+Namanya Harvest Moon: Back to Nature, buatan Victor Interactive Software, dan Natsume membawanya ke Amerika Utara pada November 2000. Serinya lahir dari gagasan Yasuhiro Wada ([Gamasutra, 2007](https://www.gamedeveloper.com/business/harvest-man-yasuhiro-wada-s-gentle-world)), yang juga tercatat sebagai produser gim ini. Bagi banyak dari kita, namanya cukup disingkat HM BTN: gim yang dimainkan sepulang sekolah sampai lupa waktu.
+
+Tiga belas bab di buku ini masing-masing mengambil satu mekanik gim dan memasangkannya dengan satu pelajaran hidup. Gimnya hanya kacamata, pelajarannya yang jadi pokok. Fakta tentang gim bersandar pada panduan resmi Prima karya Debra McBride dan David Cassady (2000), sedangkan pelajarannya bersandar pada sumber yang disebut di tiap bab.
+
+### Ladang yang Menolak Dicangkul
+
+Hari pertama di HM BTN dibuka dengan pemandangan yang membuat bahu turun. Ladang warisan itu tertutup rumput liar, batu, dahan, dan tunggul, dan tanah di bawahnya tidak bisa dicangkul sebelum semua itu disingkirkan. Bekalmu hanya sabit untuk rumput, palu untuk batu, dan kapak untuk dahan. Tunggul besar dan batu besar terlalu kuat untuk alat seadanya itu, jadi mereka dibiarkan berdiri dulu.
+
+Untungnya, hasil kerja kasar ini tidak hilang lagi. Tunggul dan dahan yang sudah kamu tebang di ladang sendiri tidak tumbuh lagi. Setiap ayunan kapak meninggalkan bekas yang menetap, sekecil apa pun bekas itu.
+
+### Satu Petak Dekat Harvest Bin
+
+Naluri pertama biasanya ingin membabat semuanya sekaligus. Panduan resminya justru menyarankan kebalikannya. Beberapa hari awal musim semi cukup dipakai untuk membersihkan satu petak kecil, sekitar 13 x 13, yang muat untuk dicangkul dan ditanami. Uang masih tipis dan alat belum bagus, sehingga tanaman yang terlalu banyak hanya akan menelan seluruh harimu untuk merawatnya. Ladang baru pantas diperluas ketika alat sudah lebih baik dan ada yang ikut membantu.
+
+Letaknya pun dipilih dengan sengaja, yaitu di dekat Harvest Bin, tidak jauh dari rumah. Jarak dari tanaman ke tempat hasil panen dikumpulkan jadi pendek, dan setiap langkah kerja langsung bertemu hasilnya.
+
+### Lobak Pertama
+
+Benih pertama ditentukan oleh isi dompet: beberapa bungkus lobak (*Turnip*), murah dan cepat tumbuh. Caranya pun hemat tenaga: cangkul area 3 x 3 dan biarkan petak tengahnya kosong. Alat awal tidak menjangkau petak tengah itu saat menyiram, dan celah kosong itu memberimu jalan untuk melompati tanaman. Setelah itu tinggal satu kebiasaan yang harus kamu pegang, yaitu menyiram setiap hari. Tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun dan menyirami semuanya sekaligus. Kalau kamu rajin, lima hari kemudian petak kecil itu penuh lobak siap panen.
+
+Kamu memasukkannya ke Harvest Bin, dan pukul 17.00 Zack datang mengambilnya. Modalmu kembali, bahkan lebih. Lalu kamu ke Supermarket, membeli benih lagi, dan putaran kedua dimulai. Belum ada yang megah di sini. Hanya satu petak bersih, satu kali panen, dan uang untuk menanam lagi.
+
+### Kemenangan Kecil ala Weick
+
+Skripsi yang belum disentuh, utang yang menumpuk, rumah yang berantakan, karier yang terasa macet. Banyak masalah hidup datang dengan rupa ladang di hari pertama: terlalu luas untuk dimulai, sehingga akhirnya tidak dimulai sama sekali.
+
+Weick pernah menulis tentang kebuntuan semacam ini, meski untuk skala yang jauh lebih besar, seperti kelaparan, kejahatan, dan kemacetan ([Weick, 1984](https://doi.org/10.1037/0003-066X.39.1.40)). Masalah yang dibayangkan sebesar raksasa, katanya, sering justru menghalangi tindakan yang inovatif, karena melampaui batas daya pikir dan menaikkan ketegangan sampai mengganggu. Obatnya kemenangan kecil: hasil yang konkret, tuntas, dan sungguh terlaksana, dengan taruhan yang sedang-sedang saja. Satu kemenangan tampak remeh, tetapi rangkaiannya menarik sekutu dan meredam penentang.
+
+Ini argumen konseptual tentang masalah sosial, jadi membawanya ke target pribadi adalah perluasan kita sendiri, bukan klaim Weick. Gambarannya tetap pas: petak 13 x 13 yang sudah bersih adalah hasil konkret, bukan rencana.
+
+### Kemajuan yang Terasa di Hati
+
+Teresa Amabile dan Steven Kramer mendekati soal ini dari arah lain. Mereka membaca catatan harian para pekerja di tim-tim kreatif ([Amabile dan Kramer, 2011](https://hbr.org/2011/05/the-power-of-small-wins)) dan menemukan bahwa tidak ada yang lebih berkaitan dengan suasana batin yang baik daripada membuat kemajuan dalam pekerjaan yang bermakna. Langkah maju yang kecil pun ikut terhitung, sedangkan kemunduran kecil berkaitan dengan hari yang terasa sangat buruk. Datanya berupa laporan diri dan analisisnya korelasional, jadi temuan ini baru sebatas keterkaitan, belum sebab-akibat.
+
+Lobak yang siap dipanen pada hari kelima bekerja dengan cara serupa. Ia hasil kecil yang terlihat, dan hasil seperti itu memberi pegangan untuk esok. Mulailah dari petak yang bisa kamu bereskan minggu ini, letakkan dekat dengan tempat hasilnya terasa, lalu ulangi.
+
+### Intisari
+
+- Ladang yang terlalu luas dimulai dari satu petak kecil dekat Harvest Bin, yang dijaga tetap kecil selama uang dan alat masih terbatas.
+- Weick (1984) mengusulkan kemenangan kecil untuk masalah sosial besar; memakainya untuk urusan pribadi adalah perluasan.
+- Pada pekerja tim kreatif, Amabile dan Kramer mendapati kemajuan dalam pekerjaan bermakna berkaitan dengan suasana batin yang baik, tanpa membuktikan sebab-akibat.
+
+Petak pertama sudah bersih dan benih sudah tertanam, tetapi berapa lama sebenarnya satu orang sanggup bekerja dalam sehari sebelum tubuhnya meminta berhenti?
+
+
+<!-- Chapter: 02_stamina-bukan-sumber-daya-tak-terbatas -->
+
+## Stamina Bukan Sumber Daya Tak Terbatas
+
+Di tengah ladang, si petani muda tiba-tiba berhenti dan mengusap keningnya, padahal masih banyak petak yang belum tersentuh cangkul sejak pagi. Kamu tetap menekan tombol. Beberapa ayunan kemudian, ia membungkuk dengan napas tersengal.
+
+Banyak dari kita mengenali adegan itu dari masa kecil. Layar sedang memberi isyarat, tetapi kita terlalu sibuk mengejar target hari itu untuk mendengarkannya. Kita baru sadar ketika si petani sudah terbaring di Clinic dan rencana hari itu sudah berantakan.
+
+### Tiga Tanda Sebelum Roboh
+
+Di HM BTN, tubuh si petani tidak langsung tumbang. Tandanya datang bertahap: ia berhenti untuk mengusap kening, lalu membungkuk terengah-engah, lalu roboh sebentar ke tanah. Kalau kamu tetap memaksanya bekerja, pemandangan berikutnya adalah ruang Clinic.
+
+Harga pingsan itu mahal. Dokter menahannya di sana sampai tenaganya pulih, praktis sepanjang hari. Esoknya ia bangun di rumah dalam keadaan kesiangan, sampai tengah hari, dan belum sanggup bekerja banyak sebelum benar-benar segar. Satu hari yang dipaksa dibayar dengan satu setengah hari yang hilang. Kerja terlalu keras juga bisa membuatnya sakit, dan saat ia bekerja sambilan di kebun anggur Aja Winery milik Duke, terlalu capek bisa membuatnya kesiangan lalu melewatkan panen sama sekali.
+
+Padahal jalan keluarnya tersedia selama peringatan itu masih kamu dengar. Alurnya kira-kira seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Tanda kelelahan si petani muda
+    accDescr: Tokoh kita berhenti dan mengusap kening, lalu membungkuk terengah-engah, lalu roboh sebentar. Kalau terus dipaksa, ia bangun di Clinic. Saat peringatan ditanggapi, jalan keluarnya adalah makan dan berendam satu jam di Hot Spring.
+    A["Berhenti dan mengusap kening"] --> B["Membungkuk, napas tersengal"]
+    B --> C["Roboh sebentar ke tanah"]
+    C -->|"terus dipaksa"| D["Bangun di Clinic"]
+    A -->|"peringatan ditanggapi"| E["Makan dan berendam satu jam di Hot Spring"]
+    B -->|"peringatan ditanggapi"| E
+```
+
+### Satu Jam di Hot Spring
+
+Gim ini menyediakan penawarnya sendiri, dan penawar itu murah. Mampirlah ke Hot Spring setiap malam, berendam satu jam, lalu pastikan si petani sudah berbaring sebelum pukul 1 dini hari. Dengan kebiasaan itu, ia seharusnya tetap sehat dan bangun tepat waktu.
+
+Makanan bekerja dari sisi lain. Gim ini mengukur dua hal, *Strength* (tenaga) dan *Fatigue* (rasa lelah), dan makanan yang dijual Doug di penginapannya menambah yang pertama sekaligus mengurangi yang kedua. Satu jam berendam memang terasa seperti waktu yang terbuang ketika ladang masih menunggu. Bandingkan dengan Clinic, yang merampas sehari penuh ditambah separuh hari berikutnya.
+
+Pada hari badai, panduan resminya bahkan bercanda: tidur saja, dan bayangkan betapa segarnya si petani setelah terlelap 24 jam.
+
+### Kantuk yang Pandai Menipu
+
+Dunia nyata jarang sebaik itu memberi tanda. Dalam percobaan [Van Dongen dan rekan-rekannya (2003)](https://doi.org/10.1093/sleep/26.2.117), 48 orang dewasa sehat mendapat jatah empat, enam, atau delapan jam di tempat tidur setiap malam selama dua minggu. Kemampuan berpikir kelompok empat dan enam jam terus merosot, sementara rasa kantuk yang mereka nilai sendiri hanya naik sedikit setelah hari-hari awal. Pada peserta percobaan itu, penurunan tersebut tampaknya sebagian besar tidak mereka sadari. Perasaan sendiri, alat ukur yang biasa kita andalkan, ternyata bisa meleset.
+
+Bayangkan si petani tanpa animasi mengusap kening. Tenaganya terus terkuras, tetapi dari dalam, rasanya masih baik-baik saja.
+
+### Tujuh Jam Semalam
+
+Kalau perasaan bisa meleset seperti itu, patokan dari luar jadi berguna. Konsensus American Academy of Sleep Medicine dan Sleep Research Society ([Watson dkk., 2015](https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/)) menganjurkan orang dewasa berusia 18 sampai 60 tahun tidur tujuh jam atau lebih secara teratur. Tidur kurang dari itu dikaitkan dengan gangguan kesehatan, kinerja yang menurun, kesalahan yang bertambah, dan risiko kecelakaan yang lebih tinggi, meski kebutuhan tidur tiap orang berbeda.
+
+Jam kerja punya rambu serupa. Analisis WHO dan ILO (Pega dkk., 2021) mengaitkan kerja 55 jam atau lebih per minggu dengan perkiraan risiko stroke 35 persen lebih tinggi dan risiko meninggal karena penyakit jantung iskemik 17 persen lebih tinggi, dibanding kerja 35 sampai 40 jam ([rilis WHO, 2021](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo)). Datanya observasional, sehingga hubungan itu belum bisa disebut sebab-akibat.
+
+Sejam berendam dan tidur sebelum pukul 1 adalah versi gim dari rambu-rambu tadi. Bedanya, di dunia nyata kamu sendiri yang harus menetapkan jam berhenti, sebelum tubuhmu menetapkannya dengan cara yang lebih kasar. Lembur semalam demi tenggat mungkin terasa seperti kemenangan. Kalau berubah menjadi kebiasaan, ia lebih mirip ayunan cangkul sesudah tanda ketiga.
+
+### Ringkasan
+
+Si petani muda memberi tiga tanda sebelum roboh, dan mengabaikannya berarti kehilangan satu setengah hari di Clinic dan di tempat tidur. Makan, sejam di Hot Spring, dan tidur sebelum pukul 1 jauh lebih murah. Perasaan tidak selalu jujur: dalam percobaan Van Dongen, rasa kantuk yang dinilai pesertanya hanya naik sedikit, padahal kemampuan berpikir mereka terus merosot. Karena itu, tujuh jam tidur dan jam kerja yang wajar layak dipegang sebagai patokan, meski hubungannya dengan kesehatan baru berupa keterkaitan.
+
+Tenaga sudah terjaga, tetapi jam di ladang terus berdetak. Besok pagi pertanyaannya bergeser: pekerjaan mana yang didahulukan, dan tenggat apa yang harus dikejar?
+
+
+<!-- Chapter: 03_urutan-kerja-yang-menghemat-waktu -->
+
+## Urutan Kerja yang Menghemat Waktu
+
+Di ladang warisan itu, waktu bisa menjadi musuh terbesarmu sekaligus sekutu terbaikmu, tergantung cara kamu memakainya sejak pagi.
+
+Di HM BTN, jam berdetak selama si petani berada di luar ruangan. Setiap siraman, setiap panen, setiap langkah dari kandang ke ladang memakan menit. Habiskan seluruh hari di ladang, dan si petani muda tidak akan pernah sempat mendekati gadis pujaannya, apalagi menikah. Hari yang sama, kalau disusun dengan cermat, masih menyisakan ruang untuk hal lain.
+
+### Tenggat Pukul Lima Sore
+
+Setiap sore pukul 17.00, Zack datang mengambil isi Harvest Bin dan langsung membayarnya, kecuali pada hari festival. Telur dari kandang ayam dan bijih dari tambang harus sudah tersetor sebelum ia tiba. Satu tenggat itu diam-diam mengatur seluruh pagi dan siangmu.
+
+Festival punya tenggatnya sendiri. Siapa pun yang datang lebih dari satu jam setelah acara dimulai tidak bisa lagi ikut serta, jadi pekerjaan ladang sebaiknya beres sebelum berangkat. Festivalnya sendiri menunggu di bab 9.
+
+### Kandang yang Bertetangga
+
+Ladangmu sudah memberi petunjuk urutan lewat tata letaknya. Barn, tempat sapi dan domba, berdiri tepat di sebelah istal kuda (*Stable*). Kandang ayam, kolam ikan, dan pohon apel juga berdekatan. Kunjungi yang bertetangga secara berurutan, dan menit yang dulu habis untuk bolak-balik tanpa rencana kembali ke tanganmu.
+
+Ada juga jalan pintas yang sering terlewat. Pada hari ayam-ayam dilepas ke luar kandang, mereka tidak perlu diberi pakan. Lakukan sesering mungkin, asal tidak saat hujan atau badai.
+
+Setelah beberapa minggu, urutan yang awalnya harus dipikirkan biasanya mulai terasa sebagai ritme. Kamu tidak perlu lagi lama menimbang mau ke mana dulu, karena kakimu sudah tahu jalannya.
+
+### Waktu Berhenti di Balik Pintu
+
+Begitu si petani melangkah masuk ke sebuah bangunan, jam berhenti. Aturan kecil ini mengubah cara bermain. Sapi dan domba bisa disikat, diperah, dan dicukur di dalam Barn tanpa kehilangan semenit pun. Kuda diurus di dalam istal, dan anjing pun lebih baik diajak bermain di dalam rumah. Pekerjaan yang sama, kalau dikerjakan di halaman, terus menggerus jam yang tidak bisa kembali.
+
+Menyetor panen ikut aturan yang sama. Menuang bawaan yang penuh ke Harvest Bin di luar bisa memakan sampai 20 menit. Barn dan kandang ayam masing-masing punya Harvest Bin sendiri, jadi setorlah di sana, di tempat jam tidak bergerak.
+
+### Tas Besar, Langkah Sedikit
+
+*Rucksack* bawaan awal hanya muat dua alat dan dua barang. Panduan resmi Prima menyebut tas ini investasi terbaik seorang petani dan menyarankan membelinya secepatnya, bahkan sebelum hewan ternak. Versi sedang seharga 3.000 G sudah menggandakan daya angkutnya menjadi empat alat dan empat barang, dan versi besar seharga 5.000 G, yang baru muncul 10 hari setelah kamu membeli versi sedang, menampung delapan alat dan delapan barang.
+
+Logikanya sederhana. Makin banyak yang terbawa sekali jalan, makin jarang kamu bolak-balik ke Harvest Bin. Sebagian besar kiat penghemat waktu di buku Prima, dari memulihkan tenaga di Hot Spring (bab 2) sampai meminta bantuan Harvest Sprites (bab 12), bermuara ke hal yang sama: kurangi gerak yang tidak perlu.
+
+### Ongkos Kecil Setiap Kali Berpindah
+
+Di luar gim, langkah bolak-balik itu punya padanan yang lebih halus, yaitu berpindah-pindah tugas. Dalam [empat eksperimen yang terbit tahun 2001](https://doi.org/10.1037/0096-1523.27.4.763), Rubinstein, Meyer, dan Evans meminta orang dewasa muda berganti-ganti tugas, misalnya dari soal matematika ke pengelompokan bentuk geometris. Setiap pergantian menambah waktu. Ongkosnya membesar saat aturan tugasnya rumit dan mengecil saat ada petunjuk tugas mana yang harus dikerjakan.
+
+Angkanya kecil, sekadar beberapa per sepuluh detik untuk mengaktifkan aturan tugas yang baru, dan diukur dalam percobaan singkat di laboratorium, bukan pada hari kerja sungguhan. Namun [halaman APA tentang multitasking](https://www.apa.org/topics/research/multitasking) mengingatkan bahwa ongkos sekecil itu bisa menumpuk ketika orang terus berpindah sepanjang hari, sampai multitasking yang tampak efisien justru memakan lebih banyak waktu dan menambah kesalahan. David Meyer bahkan pernah memperkirakan jeda mental semacam itu bisa menghabiskan hingga 40 persen waktu produktif seseorang. Itu perkiraannya, bukan hasil pengukuran eksperimen tadi.
+
+### Menyusun Rute Harianmu
+
+Kandang ayam, kolam, dan pohon apel yang dikunjungi berurutan adalah versi ladang dari mengelompokkan tugas. Harimu bisa disusun dengan cara serupa. Balas semua pesan dalam satu waktu, jangan diselipkan di tengah pekerjaan lain. Kenali tenggat pukul limamu, entah jam kuliah, batas setor tugas, atau jam pulang kantor, lalu susun urutan mundur dari sana. Untuk pekerjaan yang paling butuh fokus, carilah tempat dan jam yang paling sedikit gangguannya, semacam ruangan tempat jammu seolah berhenti.
+
+Semua ini bukan supaya kamu bisa bekerja tanpa henti. Waktu yang dihemat di ladang justru disisakan untuk teman, festival, dan cinta sejati, yang sulit ditemukan kalau seharian kamu hanya bekerja di ladang (bab 9).
+
+### Benang Merah
+
+- Di HM BTN, jam hanya berjalan di luar ruangan, jadi tugas yang bertetangga dan pekerjaan yang dituntaskan di dalam bangunan menghemat menit paling banyak.
+- Tenggat pukul 17.00 dan jam mulai festival membuat urutan itu penting, dan tas yang lebih besar memangkas langkah bolak-balik.
+- Dalam percobaan Rubinstein, Meyer, dan Evans (2001), setiap pergantian tugas menambah waktu, dan ongkos kecil itu bisa menumpuk bila terus berulang.
+
+Urutan harian baru separuh cerita. Di atas jam masih ada kalender, dan di kalender itu setiap benih punya musimnya sendiri.
+
+
+<!-- Chapter: 04_benih-yang-sesuai-dengan-musimnya -->
+
+## Benih yang Sesuai dengan Musimnya
+
+Petak itu sudah kamu siram setiap pagi dan panennya tinggal sehari lagi, tetapi besoknya musim berganti dan seluruh tanamannya mati.
+
+Di HM BTN, tanaman musim semi mati pada hari pertama musim panas, berapa pun sisa harinya, dan hal yang sama terjadi ketika musim panas berakhir. Pagi itu tidak ada yang bisa dipetik. Kamu hanya bisa mengambil sabit dan memotong batang-batang yang sudah mati.
+
+Kerjanya sudah benar, dari mencangkul, menanam, sampai menyiram. Yang keliru hanya waktunya.
+
+### Kalender yang Tidak Bisa Ditawar
+
+Musim semi, musim panas, dan musim gugur masing-masing punya benih sendiri. Musim dingin tidak punya. Tidak ada yang tumbuh di luar, ladang kosong, dan uang biasanya agak seret. Supermarket pun hanya menjual benih untuk musim yang sedang berjalan, jadi benih musim panas tidak bisa disiapkan sejak musim semi.
+
+Karena itu, petani yang cermat bekerja di tepi musim. Menjelang akhir musim semi, begitu tanaman tidak akan berbuah lagi, ladang dibersihkan dengan sabit. Di musim panas dan musim gugur, tunggu sampai hari terakhir sebelum memotong, sebab mungkin masih ada satu panen lagi. Begitu hari pertama musim baru tiba, benih baru langsung masuk ke tanah.
+
+Satu syarat lagi sering terlupa. Cepat lambatnya tanaman tumbuh sepenuhnya ditentukan oleh air yang diterimanya, dan jumlah hari tumbuh setiap benih hanya berlaku kalau tanaman itu disiram setiap hari. Lupa menyiram bisa membuat panen mundur, dan di ujung musim, selisih beberapa hari itulah yang menentukan.
+
+Satu putaran pergantian musim, dari panen terakhir sampai benih baru tumbuh, berjalan kira-kira seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Pergantian musim di ladang
+    accDescr: Pada hari terakhir musim, panen terakhir dipetik lalu ladang dibersihkan dengan sabit. Pada hari pertama musim baru, tanaman yang tersisa mati, benih musim baru dibeli dan ditanam hari itu juga, lalu disiram setiap hari agar tumbuh sesuai jumlah hari di panduan.
+    A["Hari terakhir musim"] -->|"petik panen terakhir"| B["Ladang dibersihkan dengan sabit"]
+    B --> C["Hari pertama musim baru"]
+    C --> D["Tanaman yang tersisa mati"]
+    C --> E["Benih musim baru dibeli"]
+    E --> F["Benih ditanam hari itu juga"]
+    F -->|"siram setiap hari"| G["Tumbuh sesuai jumlah hari di panduan"]
+```
+
+### Panen Sekali atau Berkali-kali
+
+Sebelum membeli benih, ada satu pertanyaan yang layak diajukan: tanaman ini dipanen sekali, atau bisa berkali-kali? Lobak (*Turnip*) siap dalam 5 hari, lalu selesai. Mentimun (*Cucumber*) butuh 10 hari untuk panen pertama dan setelah itu bisa dipetik lagi setiap 5 hari. Terong (*Eggplant*) di musim gugur juga butuh 10 hari, lalu berbuah setiap 3 hari.
+
+Hitungan itu terasa betul menjelang akhir musim. Tanaman berulang yang terlambat ditanam mungkin hanya sempat dipanen sekali sebelum mati. Bahkan ada benih istimewa yang baru dijual setelah kamu mengirim 100 buah dari setiap jenis hasil panen lain di musim yang sama. Hadiahnya nyata, tetapi jalannya panjang.
+
+### Hothouse yang Mahal dan Rapuh
+
+Lalu datang tawaran yang menggoda. Hothouse memungkinkan kamu bertanam sepanjang tahun tanpa peduli musim, dan begitu ia berdiri, Supermarket bahkan menjual benih musim semi, musim panas, dan musim gugur di tengah musim dingin.
+
+Harganya 30.000 G dan 580 potong kayu, dan Gotz baru mau membangunnya setelah semua bangunan lain di peternakan diperbesar. Hitungan di buku Prima menggiurkan. Nanas (*Pineapple*) butuh 21 hari untuk panen pertama, lalu bisa dipetik setiap 5 hari, dan uang dari memanennya sepanjang tahun bisa menutup biaya Hothouse hanya dalam satu musim.
+
+Masalahnya, bangunan itu terbuat dari bahan tembus cahaya yang mudah hancur oleh badai di musim panas dan badai salju di musim dingin. Kalau itu terjadi, yang hilang bukan sekadar tanaman, melainkan seluruh biaya bangunan beserta isinya. Sepadan atau tidak risikonya, kamu sendiri yang menimbang.
+
+Hothouse tidak membuat petaninya lebih sabar. Ia mengubah keadaan sehingga menunggu terasa lebih ringan, dan keadaan itu ada harganya.
+
+### Tes Marshmallow yang Diuji Ulang
+
+Salah satu rujukan tentang menunda kesenangan, yang dikenal sebagai tes marshmallow, adalah ulasan [Mischel, Shoda, dan Rodriguez (1989)](https://doi.org/10.1126/science.2658056) di jurnal Science, yang merangkum program riset Mischel. Di sana, anak usia 4 tahun yang menunggu lebih lama dalam situasi laboratorium tertentu tumbuh menjadi remaja yang lebih cakap secara kognitif dan sosial, dengan nilai sekolah lebih tinggi dan daya tahan lebih baik menghadapi frustrasi serta stres. Yang dilaporkan adalah keterkaitan, bukan bukti bahwa menunggu menyebabkan semua itu.
+
+[Watts, Duncan, dan Quan (2018)](https://doi.org/10.1177/0956797618761661) mengulang gagasan itu secara konseptual (bukan pengulangan persis) pada lebih dari 900 anak, terutama yang ibunya tidak tamat kuliah. Kaitan antara lama menunggu di usia 4 tahun dan prestasi belajar di usia 15 tahun ternyata hanya separuh dari studi-studi awal, lalu berkurang sekitar dua pertiga setelah latar belakang keluarga, kemampuan awal anak, dan lingkungan rumah diperhitungkan. Kaitan itu tidak hilang, tetapi jauh lebih kecil daripada yang tampak semula.
+
+### Sabar Juga Soal Keadaan
+
+Ladang mengajarkan hal yang sama dengan bahasa lain. Menyiram setiap hari baru berbuah kalau benihnya cocok dengan musim dan harinya masih cukup. Sesabar apa pun kamu, tanaman yang ditanam terlambat tetap mati di hari pertama musim berikutnya.
+
+Jadi saat kamu merasa kurang sabar, ajukan juga dua pertanyaan lain. Apakah musimnya memang tepat? Apakah keadaanmu memberi cukup ruang untuk menunggu? Menyalahkan kemauan saja belum tentu adil, baik untuk dirimu sendiri maupun untuk orang lain.
+
+### Poin Penting
+
+- Di HM BTN, tanaman yang belum dipanen mati di hari pertama musim baru, jadi kerja yang benar tetap sia-sia kalau waktunya keliru.
+- Hothouse membebaskan petani dari kalender, tetapi mahal dan bisa hancur oleh badai.
+- Dalam studi Watts dan rekan (2018), kaitan antara menunggu dan prestasi jauh lebih kecil daripada di studi awal, terutama setelah keluarga dan rumah diperhitungkan, jadi kemauan saja belum tentu menjelaskan semuanya.
+
+Selama tanaman masih tumbuh, petani tidak harus berdiam diri: ada rezeki kecil yang bisa dikumpulkan sambil menunggu.
+
+
+<!-- Chapter: 05_rezeki-kecil-saat-menunggu-panen -->
+
+## Rezeki Kecil Saat Menunggu Panen
+
+Pagi itu si petani muda mendaki Mother''s Hill dengan tas kosong, sebab panen pertama di ladangnya baru akan tiba beberapa hari lagi.
+
+Ia memetik rumput (*Grass*) dan buah beri di sepanjang jalan, lalu berhenti di dekat Hot Spring. Tanaman yang kemarin ia petik di sana sudah berdiri lagi, di titik yang sama persis. Ladang baru saja ditanami, dompet masih tipis, dan bukit ini diam-diam menawarkan sesuatu untuk dibawa pulang.
+
+### Bukit yang Tumbuh Lagi Setiap Pagi
+
+Di HM BTN, tanaman liar di Mother''s Hill, di sisi Hot Spring, dan di sekitar rumah Gotz tumbuh kembali setiap hari, selalu di tempat yang sama. Harganya kecil. Rumput dan beri bisa langsung dimasukkan ke Harvest Bin dan diangkut Zack bersama hasil ladang, jadi tidak ada yang terbuang hanya karena nilainya receh.
+
+Isinya berganti mengikuti musim, jadi ada gunanya berkeliling sebentar di awal setiap musim. Di musim semi, Blue Grass laku 100 G dan Bamboo Shoot 50 G. Di musim gugur, sebuah Truffle di dekat danau di Mother''s Hill bernilai 500 G, cukup untuk membuat jalan pagi terasa seperti perburuan harta. Musim dingin lebih pelit lagi. Yang bisa dipungut hanya Honey seharga 50 G, itu pun kalau di musim yang lebih awal kamu sudah menanam bunga dan lebah sudah bersarang di pohon apel. Bahkan rezeki kecil di musim sepi bergantung pada apa yang kamu siapkan sebelumnya.
+
+Daya tariknya ada pada pengulangan: tanaman liar kembali setiap hari di tempat yang sama.
+
+### Kail Kosong dan Kaleng Bekas
+
+Musim semi membuka satu pintu lagi. Greg, nelayan yang biasa memancing di dermaga pada pagi hari, akan bertanya apakah kamu mau mencoba. Jawab "ya", dan ia memberimu sebuah Fishing Rod.
+
+Memancing menuntut sabar. Kamu menahan tombol, menunggu pelampung mendadak tenggelam, lalu melepasnya dengan cepat. Kadang kailnya naik kosong, kadang yang tersangkut hanya sampah. Sampah pun tidak selalu sia-sia. Sesekali yang terangkat adalah botol berisi resep, dan May dari Yodel Farm senang menerima kaleng kosong atau sepatu bot sebagai hadiah. Pagi yang terasa gagal di dermaga masih menyisakan sesuatu untuk diberikan.
+
+Ikan yang berhasil ditangkap datang dalam tiga ukuran, kecil, sedang, dan besar, dengan harga jual yang berbeda. Ikan juga bisa diternakkan di kolam, dan syaratnya sederhana tetapi tidak boleh terlewat: satu kantong pakan setiap hari. Tanpa pakan, ikan di kolam tidak akan pernah berkembang biak.
+
+### Panen Besar Datang dari Ladang
+
+Semua ini tidak akan membuatmu kaya. Panduan resmi gim ini pun terang-terangan menyebut uang besar datang dari apa yang kamu tanam, bukan dari memungut atau menambang (tambang punya ceritanya sendiri di bab 13). Hasil ladang, seperti lobak (*Turnip*) yang cepat panen di bab 1, masih menjadi mesin utama, karena panen pertama membeli benih untuk putaran berikutnya.
+
+Rezeki kecil punya tugas lain. Ia tidak menggantikan panen. Ia menjaga si petani tetap bergerak selama panen belum datang, sehingga setiap pagi ada yang bisa dibawa pulang dan tidak ada hari yang dihabiskan menunggu dengan tangan kosong. Urutannya penting karena tanaman tidak tumbuh pada hari kamu lupa menyiramnya, kecuali hujan turun (bab 1): siram ladang dulu, baru naik ke bukit. Rezeki dari bukit hanya tambahan; panen di ladanglah yang dipertaruhkan.
+
+### Empat Ratus Dolar di Hari yang Salah
+
+Hidup di luar gim juga berjalan dari panen ke panen: gaji bulanan, honor proyek, hasil usaha yang baru cair di akhir. Masalahnya, pengeluaran tak terduga tidak pernah menunggu tanggal gajian. Di Mother''s Hill, tanaman liar tumbuh kembali di tempat yang sama, jadi si petani tahu ke mana harus melangkah besok pagi. Di luar gim, kepastian semacam itu jarang ada, sehingga bantalan paling baik dikumpulkan ketika keadaan tenang, bukan ketika tagihan sudah datang.
+
+Federal Reserve menanyakan hal ini kepada orang dewasa di Amerika Serikat: kalau tiba-tiba muncul pengeluaran darurat sebesar 400 dolar AS, bagaimana kamu menutupnya? Dalam [rilis hasil SHED 2025](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm), 63 persen menjawab dengan uang tunai atau yang setara, sama seperti tahun sebelumnya. Itu jawaban atas situasi andaian di negara lain, jadi angkanya tidak bisa dipindahkan begitu saja ke sini. Yang terasa dekat adalah sisanya: lebih dari sepertiga responden tidak memilih jawaban itu.
+
+Seberapa tebal bantalan yang wajar? [Sebuah artikel KPKNL Lahat di situs DJKN Kemenkeu](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) menyarankan orang berpenghasilan tetap menyiapkan dana darurat paling sedikit tiga bulan pengeluaran, ditambah asuransi dasar, sebelum mulai berinvestasi. Tiga bulan itu batas bawah, bukan garis akhir.
+
+Cara mengumpulkannya bisa meniru pagi di Mother''s Hill: sedikit, tetapi diulang. Pemasukan sampingan yang kecil tidak menggantikan gaji, sama seperti Truffle tidak menggantikan ladang. Namun kalau terus disisihkan, ia bisa menjadi bantalan yang membuatmu tidak panik ketika panen besar belum tiba.
+
+### Inti Pembahasan
+
+- Tanaman liar di bukit tumbuh lagi setiap pagi, dan dermaga menunggu dengan jorannya. Nilainya kecil, tetapi bisa diambil lagi besok.
+- Uang besar datang dari ladang; rezeki kecil hanya membuatmu terus bergerak selama menunggu.
+- Dalam survei Federal Reserve 2025, 63 persen orang dewasa di AS akan menutup pengeluaran darurat 400 dolar AS dengan uang tunai. Artikel DJKN menyarankan dana darurat paling sedikit tiga bulan pengeluaran sebagai batas bawah sebelum berinvestasi.
+
+Koin-koin kecil dari bukit dan dermaga lama-lama menumpuk, sementara bengkel Saibara menunggu dengan tawaran alat yang lebih baik.
+
+
+<!-- Chapter: 06_tiga-hari-tanpa-cangkul -->
+
+## Tiga Hari Tanpa Cangkul
+
+Begitu cangkul diserahkan ke bengkel Saibara, kamu harus mengurus ladang tanpanya selama tiga hari, padahal tanah di luar sana tidak ikut libur.
+
+Saibara bisa meningkatkan kelima alat utama si petani: cangkul, sabit, kapak, palu, dan penyiram tanaman. Ongkosnya lebih besar daripada angka yang ia sebutkan di meja.
+
+### Harga yang Tidak Tertulis di Bengkel
+
+Tingkat pertama, Copper, meminta 1.000 G ditambah bijih Copper (*ore*). Setiap tingkat sesudahnya lebih mahal, sampai Mystrile di puncak yang meminta 5.000 G dan bijih Mystrile, padahal bijih semacam itu tergolong langka. Jangan berharap bisa meningkatkan semua alat sekaligus. Bengkelnya pun tutup setiap Kamis. Setiap kunjungan ke bengkel adalah pilihan.
+
+Uang hanyalah bagian yang terlihat. Bagian lainnya adalah tiga hari tanpa alat itu. Uang yang sudah dibayarkan ke Saibara tidak bisa lagi dipakai untuk keperluan lain, dan pekerjaan yang biasa diselesaikan cangkul harus menunggu.
+
+### Satu Petak Menjadi Lima Belas
+
+Imbalannya berupa waktu dan tenaga. Penyiram dasar hanya membasahi satu petak sekali siram, sedangkan penyiram Mystrile membasahi area 3 kali 5 petak. Kapak dasar tidak sanggup membelah tunggul (*stump*) sama sekali, kapak Copper butuh enam tebasan, dan kapak Mystrile cukup sekali. Palu Copper sanggup menghancurkan batu besar, sedangkan batu raksasa baru pecah oleh palu Silver atau yang lebih baik. Pekerjaan harian yang dulu memaksa si petani sering beristirahat di Hot Spring kini selesai lebih cepat dan dengan napas yang lebih panjang.
+
+Manfaatnya pun bergantung pada tempat. Di dalam tambang, cangkul setinggi apa pun tingkatnya tetap hanya menggali satu petak sekali ayun, jadi di sana peningkatan itu tidak menambah jangkauan.
+
+### Jam Terbang Sebelum Tingkat Baru
+
+Uang dan bijih belum cukup. Setiap alat punya meteran pengalaman yang terisi setiap kali alat itu dipakai. Peningkatan ke Copper baru terbuka setelah meteran melewati 100 persen, lalu 200, 300, dan 400 persen untuk tingkat-tingkat berikutnya.
+
+Artinya, alat yang lebih baik tidak bisa dibeli tanpa lebih dulu lama memakai yang lama. Membelah ranting setiap hari bukan kerja yang sia-sia, karena tanganmu sedang mengisi meteran untuk kapak yang lebih tajam.
+
+### Musim Ketika Cangkul Menganggur
+
+Pertanyaan yang lebih penting adalah kapan. Di musim dingin, penyiram, cangkul, dan sabit tidak bisa dipakai, jadi tiga hari tanpa ketiganya hampir tidak terasa. Penyiram layak didahulukan, sebab penyiram Mystrile membuat musim semi berikutnya jauh lebih ringan. Syaratnya cuma satu: semua alat sudah kembali dari Saibara sebelum musim tanam dimulai.
+
+Musim dingin juga saat yang baik untuk mengumpulkan kayu, dan kayu membawa kita ke jenis peningkatan yang kedua.
+
+### Enam Potong dari Satu Tunggul
+
+Gotz, si tukang kayu, bisa memperbesar kandang ayam, Barn, dan rumah, masing-masing dengan uang dan kayu olahan (*lumber*). Kandang ayam dan Barn yang diperbesar menampung hewan dua kali lebih banyak, dan rumah bisa ditambah dapur serta kamar tidur. Gotz mengerjakannya satu per satu dengan urutan tetap, masing-masing tiga hari, dan perluasan rumah baru tersedia setelah kandang ayam diperbesar. Untuk kandang ayam saja ia meminta 5.000 G dan 420 potong kayu. Uangnya relatif mudah dicari lewat bertani dan menambang. Kayulah yang memakan waktu.
+
+Satu ranting hanya memberi satu potong kayu, satu tunggul enam, dan Panduan Prima memperkirakan kamu hanya sanggup mengumpulkan sekitar 45 potong sehari. Ranting dan tunggul di ladangmu sendiri hilang untuk selamanya begitu ditebang, sedangkan tunggul di luar ladang, misalnya di dekat Hot Spring, di Mother''s Hill, dan di sekitar rumah Gotz, muncul lagi setiap hari di musim apa pun. Kayu juga bisa dibeli dari Gotz, tetapi jauh lebih mahal, jadi pilihannya tetap sama: bayar dengan uang, atau dengan hari-hari menebang. Kalau ditebang rutin, menurut perkiraan itu kayunya cukup untuk memperbesar dua bangunan atau lebih.
+
+### Harga dari Jalan yang Tidak Diambil
+
+Ekonom menyebut harga tersembunyi ini biaya peluang (*opportunity cost*): nilai dari alternatif terbaik berikutnya yang kamu lepaskan ketika memutuskan sesuatu, rumusan yang dikutip [St. Louis Fed](https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost) dari Andrea Caceres-Santamaria (2019). Halaman itu juga memberi contoh yang kebetulan datang dari ladang. Petani yang memutuskan menanam gandum melepaskan jagung atau kedelai yang bisa ia tanam, juga cara lain memakai lahan dan peralatannya.
+
+Menyerahkan cangkul ke Saibara punya pola yang sama. Yang dibayar bukan hanya uang dan bijih, tetapi juga tiga hari menggarap ladang dengan alat itu. Imbalannya datang belakangan, sebagai jangkauan yang lebih luas dan badan yang lebih jarang lelah.
+
+Kamu mungkin menghadapi tawar-menawar serupa saat mengambil kursus di akhir pekan, menyisihkan gaji untuk laptop yang lebih cepat, atau mempelajari aplikasi baru yang awalnya justru memperlambat kerja. Pertanyaannya sama dengan pertanyaan si petani: kapan kehilangan sementara itu paling murah? Musim dinginmu bisa berupa minggu yang sepi di kantor, libur semester, atau masa ketika tanggunganmu sedang ringan. Dan tidak perlu meningkatkan semuanya sekaligus. Mulailah dari satu hal yang paling sering kamu pakai.
+
+### Yang Perlu Kamu Ingat
+
+Setiap peningkatan dibayar dua kali: dengan uang dan bijih di meja Saibara, lalu dengan tiga hari tanpa alat itu. Dua-duanya adalah biaya peluang, dan yang kedua lebih mudah terlewat: nilai pilihan terbaik yang kamu lepaskan. Bayarlah ketika yang dilepaskan paling sedikit, seperti musim dingin bagi cangkul dan penyiram, dan mulailah dari alat yang paling banyak menghemat kerja.
+
+Setelah alat makin tajam dan kandang makin luas, tinggal satu pertanyaan: siapa yang akan menghuninya? Jawabannya ternyata dimulai dari ayam, bukan sapi.
+
+
+<!-- Chapter: 07_ayam-dulu-sapi-kemudian -->
+
+## Ayam Dulu, Sapi Kemudian
+
+Pada musim semi pertama, seekor sapi dari Yodel Farm berharga 6.000 G, empat kali lipat harga seekor ayam yang dijual di Poultry Farm. Dompetmu masih tipis, ladang belum bersih, dan setiap koin sudah punya tujuan. Melihat dua angka itu berdampingan, wajar kalau kamu tergoda untuk menahan semua belanja dan menabung demi sapi.
+
+Panduan resmi Prima untuk *Harvest Moon: Back to Nature* menawarkan jalan yang lebih sabar. Ayam dulu, sapi menyusul begitu tabungan cukup, domba sesudahnya. Di musim semi tahun pertama, sapi dan domba memang belum terjangkau, dan sapi pertama baru terbeli sekitar musim panas atau gugur. Sebelum membeli hewan apa pun, buku itu bahkan mendahulukan tas yang lebih besar, seperti di bab 3. Bab ini meminjam urutan itu sebagai perumpamaan tentang mulai berinvestasi. Ini analogi dari sebuah gim, bukan nasihat investasi.
+
+### Ayam di Musim Semi Pertama
+
+Ayam tidak menjanjikan banyak. Selama ia senang dan cukup makan, ia bertelur setiap hari, dan sebutir telur hanya laku 50 G. Namun ayam relatif tidak merepotkan dibanding ternak lain, dan jumlahnya bisa bertambah tanpa kamu membeli lagi. Telur yang dimasukkan ke mesin penetas menjadi anak ayam dalam tiga hari, lalu dewasa tujuh hari kemudian.
+
+Kandang pertama hanya muat lima ekor. Setelah Gotz si tukang kayu memperbesarnya, isinya bisa sepuluh, asal kamu rajin menetaskan telur. Hasil per butirnya kecil, tetapi datang setiap pagi, dan modal awalnya tidak menguras dompet yang masih tipis.
+
+Saran untuk investor pemula di dunia nyata juga berbentuk tangga. Sebuah artikel KPKNL Lahat di situs [DJKN Kementerian Keuangan](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html) (2026), yang ditujukan bagi orang berpenghasilan tetap, menganjurkan mulai dari instrumen sederhana seperti reksa dana pasar uang atau emas digital. Yang lebih berisiko, seperti saham, dicoba belakangan, seiring waktu dan pengalaman. Tulisan itu artikel kantor daerah tanpa nama penulis, jadi anggap saja sebagai pengantar.
+
+### Pakan yang Tidak Pernah Libur
+
+Hewan ternak tetap lapar walau dompet sedang kosong. Sekantong pakan ayam hanya 10 G, angka yang gampang diremehkan sampai kandang terisi penuh dan setiap ekor harus makan setiap hari. Sapi dan domba bahkan butuh alat sendiri, alat perah dan gunting bulu, yang dibeli terpisah dari hewannya.
+
+Satu pesan dari buku strategi itu pantas dijadikan pegangan, dan bentuknya justru peringatan. Tambahlah ternak hanya kalau kamu sanggup mengerjakan tugas hariannya dan menanggung biaya pakannya. Untuk sapi dan domba nadanya sama: jangan membeli sebelum yakin bisa mengurusnya, karena memberi makan dan merawat ternak bisa mahal.
+
+Biaya rutin itu bisa ditekan. Rumput yang kamu tanam di ladang tumbuh tanpa disiram dari musim semi sampai gugur dan tidak perlu ditanam ulang, sehingga pakan bisa dipanen sendiri. Satu angka lagi patut diingat sebelum membeli dengan tergesa: ayam seharga 1.500 G hanya laku 500 G kalau kamu menjualnya kembali ke Poultry Farm. Masuk itu mudah; keluar sering kali berarti rugi.
+
+Dalam [siaran pers SP 167](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Gelar-LIKE-IT-di-Provinsi-Banten.aspx) (September 2026), OJK mengajak masyarakat membedakan kebutuhan dari keinginan, lalu mulai berinvestasi sedini mungkin. Di kandang, urutan itu terasa sangat nyata. Pakan untuk ayam yang sudah ada adalah kebutuhan. Sapi kedua, selama pakan sapi pertama belum terjamin, bisa jadi hanya keinginan.
+
+### Telur Setiap Hari, Wol Seminggu Sekali
+
+Setiap hewan menghasilkan uang dengan iramanya sendiri. Ayam bertelur setiap hari. Sapi hanya bisa diperah sekali sehari, itu pun kalau suasana hatinya baik dan badannya sehat. Domba paling lambat: bulunya baru bisa dicukur lagi setelah tujuh hari.
+
+Peternakan yang tumbuh pelan seperti ini pada akhir musim gugur bisa berisi sepuluh ayam ditambah dua atau tiga sapi dan domba bila digabung. Hewan-hewan itulah sumber penghasilan utama sampai musim semi kembali, dan penghasilannya tidak bertumpu pada satu jenis hewan. Kalau sapi sedang murung, telur tetap datang besok pagi.
+
+Ungkapan lama "jangan menaruh semua telur dalam satu keranjang" kebetulan pas di sini. Laman [Investor.gov milik SEC](https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/diversify-your-investments), regulator pasar modal Amerika Serikat, memakai ungkapan itu untuk menjelaskan diversifikasi, lalu jujur soal batasnya. Menyebar investasi tidak menjamin hartamu aman ketika pasar turun; ia hanya dapat memperbesar peluang tidak rugi, atau membuat ruginya lebih kecil daripada kalau semua ditaruh di satu tempat. Artikel DJKN tadi menyarankan hal serupa: jangan menaruh dana di satu jenis investasi saja.
+
+### Hitungan yang Harus Kamu Kerjakan Sendiri
+
+Buku strategi itu rapi mencantumkan harga setiap hasil, tetapi tidak menulis penghasilan per hari untuk hewan mana pun. Susu sapi dihargai 100 G sampai 300 G, tergantung seberapa sayang sapi itu kepadamu. Wol domba tampak paling menggiurkan, 100 G sampai 600 G, tetapi hanya bisa dipanen seminggu sekali. Angka-angka itu baru berarti setelah kamu sendiri mengalikannya dengan irama tiap hewan, lalu menguranginya dengan pakan.
+
+Begitu pula aset di luar gim. Harganya mudah dibaca; biaya merawatnya dan seberapa sering ia benar-benar menghasilkan, itulah yang perlu kamu cari sendiri sebelum membeli.
+
+### Kesimpulan Bab
+
+Mulailah dari yang terjangkau dan biarkan ia tumbuh, seperti kandang ayam yang terisi dari telur yang ditetaskan sendiri. Sebelum menambah apa pun, hitung dulu biaya hariannya, karena pakan tidak pernah libur dan harga jual kembali bisa jauh di bawah harga beli, seperti ayam 1.500 G yang hanya laku 500 G. Lalu sebar sumber penghasilanmu, sambil ingat bahwa diversifikasi bisa memperkecil rugi, bukan menjamin bebas rugi.
+
+Membeli hewan baru langkah pertama. Sisanya adalah merawat mereka, lewat sapaan dan sikat setiap hari.
+
+
+<!-- Chapter: 08_sapaan-dan-sikat-setiap-hari -->
+
+## Sapaan dan Sikat Setiap Hari
+
+Setiap pagi rutinitas di kandang nyaris sama: menyapa sapi, menyikat punggungnya, memerah susunya, lalu berpindah ke domba di sebelahnya. Tidak ada satu pun gerakan itu yang terasa penting. Sapi tidak berterima kasih, domba tidak tersenyum, dan ladang di luar masih menunggu disiram. Lewatkan sehari, dan sepertinya tidak ada yang berubah.
+
+Justru di situ jebakannya. Di *Harvest Moon: Back to Nature*, tidak ada satu tindakan besar yang membuat hewan langsung sayang kepadamu. Rasa sayang itu ditabung sedikit demi sedikit, dan hasilnya baru terlihat setelah cukup lama.
+
+### Pelukan, Obrolan, dan Sikat
+
+Tiap hewan punya ritualnya sendiri. Anjing cukup diangkat dan dipeluk, dan karena tidak perlu diberi makan, ia hanya meminta sedikit waktumu. Kuda juga bebas dari urusan pakan, tetapi ingin diajak bicara dan disikat. Sapi meminta paket lengkap: diajak bicara, disikat, lalu diperah. Domba cukup disapa dan disikat, begitu juga anak sapi, yang sebaiknya didatangi setiap hari supaya mulai menyukaimu. Ayam cukup diberi makan, dan sayangnya tumbuh lebih cepat kalau kamu menggendongnya.
+
+Semua itu harian, dan tidak ada yang terasa mendesak. Ditulis sebagai daftar, tugasnya terlihat sepele, dan justru karena sepele, ritual ini paling mudah dilewatkan pada hari ketika ladang sedang menuntut segalanya.
+
+### Susu yang Bergantung pada Rasa Sayang
+
+Rutinitas itu bukan hiasan. Panduan resmi Prima untuk gim ini menjelaskan bahwa banyaknya susu dari seekor sapi bergantung pada rasa sayangnya kepadamu. Ukuran wol ditentukan suasana hati dan kasih sayang domba, begitu pula mutu telur ayam. Ayam yang lupa diberi makan tidak bertelur, dan saat ia bertelur lagi, mutunya ikut turun karena hatinya sudah merosot.
+
+Rasa sayang juga tidak bisa dikejar dalam semalam. Di tahun pertama, sapi dan domba milikmu belum bisa menang festival, sebab penilaiannya bertumpu pada kasih sayang, dan kasih sayang butuh waktu. Untuk domba, hadiah festival diperkirakan baru terjangkau di tahun kedua. Hasil besar di kandang adalah tumpukan dari hari-hari biasa yang kelihatannya tidak menghasilkan apa-apa.
+
+### Obat yang Mungkin Tak Pernah Kamu Beli
+
+Hewan di gim ini bisa sakit. Sapi jatuh sakit kalau tidak diberi makan secara teratur atau dibiarkan kehujanan, dan selama sakit ia tidak menghasilkan susu. Domba yang sakit berhenti menumbuhkan wol dan tidak boleh ikut festival domba. Selama sakit, keduanya juga tidak bisa dibuat bunting.
+
+Obatnya tersedia di Poultry Farm atau Yodel Farm seharga 1.000 G. Namun buku strategi yang sama menambahkan bahwa hewan yang dirawat dengan baik, oleh pemilik yang rajin mengecek ramalan cuaca, kemungkinan besar tidak akan pernah sakit. Pilihannya jadi sederhana: seribu G di kemudian hari, atau sedikit waktu setiap pagi untuk memberi makan dan memasukkan hewan sebelum hujan turun.
+
+### Masukkan Semua Hewan Sebelum Badai
+
+Cuaca adalah ujian terberat rutinitas ini. Sapi yang kehujanan kehilangan sebagian rasa sayangnya dan tidak memberi susu keesokan harinya. Ayam yang dibiarkan di luar saat hujan juga tidak bertelur esok hari, dan anjing yang ditinggal di luar dalam hujan atau salju ikut berkurang sayangnya. Pada hari hujan, sapi dan domba lebih baik tetap di kandang daripada dilepas ke padang rumput. Di musim dingin, hewan malah sama sekali tidak bisa dikeluarkan ke salju.
+
+Badai di musim panas dan badai salju di musim dingin lebih kejam lagi. Si petani tidak bisa keluar rumah, badai sering berlangsung beberapa hari, dan ternak yang tertinggal di luar bisa terluka. Ayam bahkan bisa diterbangkan angin. Kasih sayang hewan tetap turun apa pun yang kamu lakukan, tetapi hewan yang tertinggal di luar mungkin tidak selamat. Karena itu, masukkan semuanya ke dalam. Selama badai, Harvest Sprites bisa menembus cuaca buruk untuk merawat hewanmu; tanpa mereka, hewan tidak makan dan bisa jatuh sakit.
+
+Setelah badai reda, cara memulihkannya sederhana: rawat hewan dengan sangat baik sampai rasa sayangnya kembali naik. Satu kejadian buruk tidak menghapus semua tabungan. Rutinitas yang dijalankan lagi keesokan paginya adalah perbaikannya.
+
+### Satu Hari Terlewat Bukan Kegagalan
+
+Berapa lama kebiasaan kecil terasa otomatis? [Lally dan rekan-rekannya (2010)](https://doi.org/10.1002/ejsp.674) meminta relawan, kebanyakan mahasiswa pascasarjana, memilih satu kebiasaan makan, minum, atau olahraga, menjalankannya setiap hari setelah pemicu tertentu selama 84 hari, lalu menilai sendiri seberapa otomatis rasanya. Pada 39 peserta yang kurvanya cocok, median waktu yang diperkirakan model untuk mencapai 95 persen dari batas otomatisasi masing-masing adalah 66 hari, dengan rentang 18 sampai 254. Jadi 66 bukan jatah untuk semua orang: ada yang jauh lebih cepat, ada yang jauh lebih lama.
+
+Temuan yang paling melegakan menyangkut hari yang bolong: melewatkan satu kesempatan tidak mengganggu pembentukan kebiasaan secara berarti, walau datanya berupa penilaian diri dan yang diamati baru satu hari terlewat, bukan seminggu. Kandang setelah badai bekerja dengan cara yang sama. Rasa sayang turun, lalu kembali naik karena kamu datang lagi dengan sikat di tangan.
+
+### Poin Kunci
+
+Rasa sayang hewan dibangun dari hal kecil yang diulang setiap hari, dan hasilnya baru terlihat setelah cukup lama. Rutinitas yang sama sekaligus menjadi pencegahan, sehingga obat 1.000 G itu mungkin tak pernah kamu beli. Kalau satu hari terlewat, jangan menyerah; kembalilah ke kandang besok pagi.
+
+Kasih sayang yang kamu tabung di kandang, hari demi hari, suatu saat dibawa keluar menuju alun-alun desa, tempat festival menunggu.
+
+
+<!-- Chapter: 09_festival-yang-sayang-dilewatkan -->
+
+## Festival yang Sayang Dilewatkan
+
+Pagi tanggal 9 musim gugur, setiap warga desa berkumpul di Rose Square untuk melempar satu bahan makanan ke dalam sebuah panci raksasa. Itulah Harvest Festival, yang dimulai pukul 10 pagi. Tidak ada piala yang diperebutkan, tidak ada hadiah yang dibawa pulang.
+
+Sementara itu, ladangmu belum disiram, ayam belum diberi makan, dan sebongkah batu masih menunggu dipecah. Hitungannya tampak sederhana: festival tidak menghasilkan apa-apa, ladang menghasilkan uang. Mungkin kamu pernah memilih tetap di rumah dengan alasan itu, di dalam gim maupun di luar layar.
+
+### Ladang Rapi, Kalender Kosong
+
+Buku strategi resmi terbitan Prima justru menghitung sebaliknya. Menanam dan memanen memang penting, tetapi hubungan dengan warga desa sama pentingnya. Warga yang menyukaimu memberimu barang yang tidak bisa kamu dapat dengan cara lain. Yang sudah akrab bahkan membagikan resep, dan setiap resep yang berhasil kamu masak ikut menaikkan persentase penyelesaian gim. Jalan termudah untuk disukai pun tidak rumit: datang ke kegiatan desa, keluar sesekali dari ladang, dan bersenang-senang.
+
+Yang menuntut siasat adalah waktunya. Kebanyakan acara berlangsung sepanjang hari, jadi pekerjaan ladang sebaiknya beres sebelum kamu berangkat; batas jam datangnya sudah dibahas di bab 3. Beberapa festival baru dimulai malam hari, jadi ada baiknya menyimpan permainan sehari sebelumnya.
+
+Undangan di dunia nyata bekerja dengan cara yang sama. Syukuran teman, reuni, atau makan malam keluarga tidak menunggu urusanmu selesai. Yang bisa kamu atur hanyalah membereskan kewajiban lebih awal, supaya masih ada ruang untuk hadir.
+
+### Tomat Beterbangan dan Fajar di Mother''s Hill
+
+Harvest Festival bukan satu-satunya acara yang tidak menjanjikan apa-apa. Tanggal 12 musim panas, desa menggelar Tomato Festival. Kamu bergabung dengan salah satu tim bertiga, lalu tim-tim itu saling melempar tomat. Tim yang menang tidak membawa pulang hadiah sungguhan. Yang bertambah adalah kedekatanmu dengan dua rekan setim, orang-orang yang barusan berbagi kekacauan yang sama denganmu.
+
+Year End Festival lain lagi suasananya. Tengah malam tanggal 30 musim dingin, warga berkumpul di Mother''s Hill dan begadang untuk menyaksikan matahari terbit bersama. Tahun berganti, dan kamu tidak melewatinya sendirian di rumah.
+
+Acara yang berpusat pada gadis pujaanmu punya tempatnya sendiri di bab 11.
+
+### Kado yang Datang Tepat Waktu
+
+Di luar kalender festival, ada satu cara yang menurut buku strategi itu paling ampuh untuk membuat seseorang menyukaimu: kado di hari ulang tahunnya. Bungkus hadiahnya, serahkan tepat pada hari itu, dan rasa sayang orang tersebut naik jauh. Kesempatan menolong teman, atau sekadar mengingat tanggal lahirnya, terlalu berharga untuk dilewatkan.
+
+Ann, misalnya, berulang tahun tanggal 17 musim panas. Undangan pestanya datang lewat kotak surat, dan hari itu penginapan Doug sampai tutup. Datanglah membawa kado yang sudah dibungkus, lalu mengobrollah dengan tamu lain. Pesta ini kemungkinan baru terjadi di tahun kedua, kecuali kamu sangat cepat akrab dengan Ann.
+
+Rasanya akrab, bukan? Ucapan sederhana di hari ulang tahun terasa hangat justru karena datang tepat pada harinya.
+
+### Kaya yang Tidak Tercatat di Bank
+
+Nilai akhir 100 persen di HM BTN menuntut keseimbangan. Habiskan seluruh waktumu di ladang, dan hubunganmu dengan tetangga tidak akan pernah kuat. Habiskan seluruh waktumu untuk mengobrol, dan uang untuk meningkatkan alat dan bangunan serta membeli ternak tidak akan terkumpul.
+
+Lalu buku strategi itu menyelipkan gagasan yang mungkin paling tidak terduga darinya. Seberapa kaya dirimu, katanya kurang lebih, tidak hanya diukur dari isi rekening, tetapi juga dari banyaknya teman dan orang tersayang yang kamu simpan di hati.
+
+### Teman dan Peluang Bertahan Hidup
+
+Penelitian tentang manusia sungguhan, tentu tanpa gim apa pun, menunjuk ke arah serupa. Holt-Lunstad dan rekan (2010) menggabungkan 148 studi dengan total 308.849 peserta dalam sebuah [meta-analisis di PLoS Medicine](https://doi.org/10.1371/journal.pmed.1000316). Orang dengan hubungan sosial yang lebih kuat punya peluang (*odds*) bertahan hidup sekitar 50 persen lebih besar selama masa pengamatan, efek yang oleh para penulisnya disebut sebanding dengan berhenti merokok. Datanya observasional, jadi angka itu menunjukkan keterkaitan, bukan jaminan umur panjang bagi siapa pun yang rajin datang ke acara kumpul-kumpul.
+
+Harvard Study of Adult Development, yang dimulai pada 1938 dengan 268 mahasiswa laki-laki, sampai pada gambaran senada. Menurut [laporan Harvard Gazette tahun 2017](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/), mereka yang paling puas dengan hubungannya di usia 50 tahun adalah yang paling sehat di usia 80 tahun, sebuah korelasi yang kuat meski belum membuktikan sebab-akibat.
+
+Panci di Rose Square tentu bukan eksperimen ilmiah. Tetapi festival di desa itu punya sifat yang sama dengan undangan-undangan kecil dalam hidupmu: mudah dilewatkan, jarang mendesak, dan nilainya baru terasa lama kemudian.
+
+### Recap
+
+Festival seperti Harvest Festival dan Tomato Festival tidak memberi hadiah, tetapi mempererat hubunganmu dengan warga, dan nilai 100 persen hanya datang kalau ladang dan pergaulan berjalan seimbang. Bereskan pekerjaan lebih awal supaya sempat hadir, dan ingat tanggal ulang tahun orang-orang di sekitarmu. Di dunia nyata, hubungan sosial yang kuat berkaitan dengan peluang bertahan hidup yang lebih besar, meski temuan itu baru sebatas keterkaitan.
+
+Kerumunan di festival hanyalah wajah pertama desa itu. Kalau didekati satu per satu, setiap warganya ternyata menyimpan cerita sendiri.
+
+
+<!-- Chapter: 10_setiap-orang-di-desa-punya-cerita -->
+
+## Setiap Orang di Desa Punya Cerita
+
+Di penginapan milik Doug, seorang pemuda bernama Cliff menginap seorang diri, tanpa keluarga, dan sedang membutuhkan pekerjaan. Ia ada di sana hari demi hari. Ketika kamu sibuk menyiram ladang dan mengejar target panen, sangat mudah melewatinya tanpa menoleh.
+
+Hanya itu yang diketahui tentang keadaannya. Namun nasibnya sampai akhir tahun bisa bergantung pada satu kalimat darimu.
+
+### Kabar Lowongan di Kebun Anggur
+
+Tanggal 14 musim gugur di tahun pertama, Duke meminta bantuanmu memanen anggur di Aja Winery, sekaligus mencari tenaga tambahan. Beri tahu Cliff hari itu, atau pagi-pagi sekali keesokan harinya, dan ia dengan senang hati ikut. Kalian memetik anggur dari tanggal 15 sampai 20, upahnya dibayar di hari terakhir, dan sesudahnya Cliff tidak pergi. Ia tetap tinggal dan bekerja di kebun anggur itu.
+
+Rekan barumu ini punya kebiasaan yang membuat tersenyum. Ia suka berdiri diam di satu titik di antara tanaman anggur, jadi kamu harus tiba di titik itu lebih dulu agar target hari itu terpetik semua. Bekerja dengan orang baru memang selalu butuh sedikit penyesuaian.
+
+Sekarang bayangkan kamu lupa, atau merasa itu bukan urusanmu. Panen tetap berjalan tanpa dia. Musim gugur berlalu, salju turun, dan pada tanggal 30 musim dingin Cliff pamit meninggalkan desa. Tidak ada yang memberitahunya tentang sebuah pekerjaan.
+
+### Foto yang Tertinggal di Salju
+
+Musim dingin menyimpan satu adegan lagi untuk Cliff. Pada hari bersalju, lewat pukul 10 pagi, ia bisa jatuh pingsan di Rose Square dan dibawa ke Clinic untuk pulih. Di salju tempatnya jatuh tertinggal sebuah foto. Pungut foto itu, kembalikan setelah ia membaik, dan Cliff akan berterima kasih.
+
+Panduan resmi dari Prima tidak menjelaskan foto apa itu, dan tidak pernah menyebut Cliff sedih atau sakit hati. Kamu pun tidak perlu tahu. Mengembalikan barang milik seseorang tidak menuntutmu memahami seluruh kisahnya, apalagi menebak isi hatinya lalu memberinya label.
+
+### Angka yang Bukan Potret Satu Orang
+
+Butuh kerja tetapi belum mendapatkannya bukan keadaan yang hanya ada di desa fiksi. Paul dan Moser (2009) menggabungkan ratusan studi tentang pengangguran dan kesehatan mental dalam sebuah [meta-analisis](https://doi.org/10.1016/j.jvb.2009.01.001). Rata-rata, 34 persen orang yang menganggur mengalami masalah psikologis, dibandingkan 16 persen di antara mereka yang bekerja. Studi jangka panjang dan eksperimen alamiah yang mereka tinjau mendukung dugaan bahwa pengangguran tidak hanya berjalan bersama tekanan batin, tetapi juga ikut menyebabkannya.
+
+Itu angka rata-rata sebuah populasi. Ia tidak menjelaskan Cliff dan tidak bisa dipakai untuk menilai siapa pun yang kamu kenal. Yang bisa kamu bawa pulang lebih sederhana: bagi banyak orang, kehilangan pekerjaan terasa berat. Karena itu, kabar tentang sebuah lowongan, satu rekomendasi, atau ajakan untuk ikut membantu bisa berarti lebih dari yang terlihat.
+
+### Palu Gray yang Hancur
+
+Di bengkel pandai besi, Gray berusaha membantu kakeknya, Saibara, tetapi merasa kerjanya tidak dihargai dan sering bicara soal kembali ke kota. Suatu hari di musim gugur, di tahun pertama atau kedua, ia marah kepada sang kakek. Ia ingin bekerja sendiri, dan yang ia minta darimu hanyalah izin memakai kincir air (*Water Mill*) di ladangmu untuk membuat palu. Sebagai balasan, mungkin ia mencabuti rumput di ladangmu satu kali.
+
+Palu itu akhirnya hancur. Mary melihat kejadiannya dan, pada peristiwa berikutnya, menegur Gray di Rose Square. Belakangan Gray datang berterima kasih kepadamu, dan hubungan kalian membaik.
+
+Kamu tidak membuat palu itu berhasil. Yang kamu berikan hanya tempat untuk mencoba. Orang yang merasa tidak dihargai kadang tidak sedang butuh nasihat, melainkan ruang untuk membuktikan diri, termasuk ruang untuk gagal tanpa dihakimi.
+
+### May di Dermaga Pukul Enam Sore
+
+May tinggal bersama kakeknya, Barley, di Yodel Farm. Ibunya pernah pergi, kembali membawa May yang masih bayi, lalu pergi lagi dan meninggalkannya. Barley sangat menyayangi cucunya, tetapi berharap May punya teman sebaya, padahal anak muda di desa itu tidak banyak. Meski masih kecil, May berusaha membantu kakeknya sebisa mungkin.
+
+Suatu hari Barley datang ke ladangmu membawa kabar bahwa May kabur dari rumah. Dorongan pertamamu mungkin langsung berlari mencarinya, padahal May baru bisa ditemukan sore hari. Jadi kerjakan dulu tugas harianmu. Pukul 18.00, ia berdiri di dermaga, menatap ke kejauhan. Ajak ia bicara, dan ia mau pulang. Menemukannya membuat Barley, Wali Kota Thomas, Zack, dan May sendiri lebih dekat denganmu.
+
+Dalam cerita ini, waktu sama pentingnya dengan niat baik. Datang terlalu pagi, dan kamu tidak akan menemukannya.
+
+### Jagung Pertama untuk Kai
+
+Kai hanya datang ke desa pada musim panas dan membuka Kai''s Seaside Lodge di pantai. Saat kamu memanen jagung (*Corn*) untuk pertama kali, ia bertanya berapa harga yang kamu minta: 50, 100, atau 200 G. Harga normalnya 100 G, dan itu sudah adil.
+
+Minta 200 G, dan kamu tidak mendapat teman baru. Minta 50 G, separuh harga normal, dan Kai senang; jalan menuju persahabatan dengannya pun terbuka.
+
+Selisih 50 G tetap uang sungguhan bagi ladangmu. Namun pilihan ini bukan soal untung atau rugi. Ini keputusan untuk tidak memasang harga setinggi mungkin pada setiap transaksi, apalagi pada pertemuan pertama dengan orang yang baru kamu kenal.
+
+### Gagasan Utama
+
+- Satu kabar tentang pekerjaan menentukan apakah Cliff tetap tinggal atau pamit di akhir musim dingin, dan mengembalikan fotonya tidak menuntutmu tahu seluruh kisahnya.
+- Dalam meta-analisis Paul dan Moser (2009), rata-rata 34 persen penganggur mengalami masalah psikologis, dibandingkan 16 persen pekerja; itu angka populasi, bukan diagnosis untuk siapa pun.
+- Bantuan kecil bisa berupa ruang untuk mencoba (Gray), kehadiran pada jam yang tepat (May), atau harga yang sedikit mengalah (Kai).
+
+Lalu bagaimana kalau di antara para tetangga itu ada satu orang yang ingin kamu dekati lebih dari sekadar teman? Hatinya bisa berubah warna, tetapi perlahan.
+
+
+<!-- Chapter: 11_hati-yang-berubah-warna-perlahan -->
+
+## Hati yang Berubah Warna Perlahan
+
+Setiap kali kamu menyapa gadis yang kelak bisa kamu nikahi, sebuah hati kecil muncul di pojok kanan bawah kotak dialognya, mula-mula berwarna hitam.
+
+Itulah *Heart Meter*, cara HM BTN menunjukkan seberapa besar rasa sayang perempuan itu kepada si petani. Lima perempuan di Mineral Village bisa kamu nikahi: Ann di penginapan Doug, Elli di Clinic, Karen yang sesekali menjaga Supermarket, Mary di Library, dan Popuri di Poultry Farm. Kamu tidak bertemu mereka sekaligus. Mereka muncul satu per satu selama kamu menjelajahi desa dan mengajak orang bicara. Hati di pojok dialog itu bergeser sedikit demi sedikit, seperti kedekatan di dunia nyata.
+
+Kamu juga bukan satu-satunya yang menaruh hati. Dokter diam-diam menyukai Elli, Cliff diam-diam menyukai Ann, dan Kai menaruh hati pada Popuri. Para perempuan itu pun bukan sasaran yang duduk menunggu didekati. Setiap orang di desa itu punya perasaannya sendiri.
+
+### Tujuh Warna Menuju Merah
+
+Hitam berarti belum ada rasa sayang sama sekali. Dari sana warnanya naik ke ungu, biru, hijau, kuning, oranye, dan akhirnya merah. Makin besar rasa sayangnya, makin dekat warnanya ke ujung tangga.
+
+Kalau digambar dari atas ke bawah, tangganya seperti ini.
+
+```mermaid
+flowchart TD
+    accTitle: Urutan warna Heart Meter
+    accDescr: Warna hati bergeser dari hitam ke ungu, biru, hijau, kuning, oranye, lalu merah seiring rasa sayang yang tumbuh.
+    A[Hitam] --> B[Ungu]
+    B --> C[Biru]
+    C --> D[Hijau]
+    D --> E[Kuning]
+    E --> F[Oranye]
+    F --> G[Merah]
+```
+
+Setiap anak tangga itu diisi oleh hari-hari biasa: sapaan, hadiah, dan perhatian yang diulang.
+
+### Bunga bagi Elli, Jamur bagi Mary
+
+Panduan resmi Prima menyarankan hal yang sederhana tetapi melelahkan: pelajari apa yang disukai dan dibenci tiap orang, hafalkan jadwal hariannya supaya mudah ditemui, lalu beri hadiah sesering mungkin. Pada musim dingin, panduan yang sama bahkan menganjurkan hadiah setiap hari.
+
+Seleranya tidak seragam, sama seperti wataknya. Ann periang dan tomboi, Mary gemar membaca dan menulis, sedangkan Karen pandai mendengarkan tetapi agak sulit didekati karena ia sangat aktif dan tidak selalu ada di toko. Elli senang menerima bunga, sedangkan Mary senang diberi jamur. Hadiah yang sama tidak menyentuh semua orang, jadi kamu harus benar-benar mengenal orang yang kamu dekati.
+
+Ada juga momen yang ikut menaikkan rasa sayang: memberinya kue kering saat Spring Thanksgiving, mengajaknya ke Goddess Festival, menonton kembang api bersama, atau membawakan hadiah di hari ulang tahunnya. Karen bahkan bisa membalas perhatianmu: kalau ia menyukaimu, ia memberimu benih Moondrop di musim semi. Kamu menanamnya, menunggunya mekar, lalu membawakan bunganya kembali kepadanya.
+
+Bahkan hadiah yang lebih mahal tetap hanya satu hadiah. Saibara bisa membuatkan perhiasan dari Orichalc dan 1.000 G yang disukai sebagian besar perempuan, tetapi perhiasan itu hanya mengisi satu hari di antara banyak hari lain. Rasa sayang di desa ini diraih perlahan, bukan dibeli sekali bayar.
+
+### Blue Feather yang Menunggu Giliran
+
+Lamaran dilakukan dengan Blue Feather, yang dijual di Supermarket seharga 1.000 G. Barang itu tidak dipajang sejak awal. Ia baru muncul setelah rumahmu dua kali diperbesar dan hati perempuan yang kamu dekati sudah hampir atau benar-benar merah.
+
+Urutan ini yang membuat Blue Feather bermakna. Ia tidak membuat siapa pun jatuh hati. Ia hanya menutup kedekatan yang sudah terbentuk lewat sapaan dan hadiah kecil yang terus diulang. Lamaran diterima kalau rasa sukanya sudah cukup, dan baru sesudah itu ia pindah ke rumahmu. Kalau rasa itu belum ada, Blue Feather seharga 1.000 G hanyalah sehelai bulu.
+
+Pernikahan pun bukan garis akhir. Beberapa musim kemudian, rumah itu bertambah ramai dengan seorang bayi laki-laki, dan rasa sayang keluarga tetap perlu dijaga supaya si kecil tidak terabaikan. Hati yang sudah merah masih harus dirawat.
+
+### Jam-Jam yang Menjadikan Teman
+
+Di luar gim, [Hall (2019)](https://doi.org/10.1177/0265407518761225) mencoba menghitung berapa lama kedekatan tumbuh di antara orang yang baru saling kenal. Ia menanyai 355 orang dewasa yang baru pindah dan mengikuti 112 mahasiswa tahun pertama selama sembilan minggu. Jam bersama yang lebih banyak berkaitan dengan pertemanan yang lebih dekat, dan waktu bersantai ikut memprediksinya.
+
+Siaran pers kampusnya ([KU News, 2018](https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend)) menambahkan bahwa jam bekerja bersama tidak terlalu berpengaruh, lalu menaksir sekitar 50 jam dari kenalan ke teman santai dan lebih dari 200 jam ke sahabat dekat. Itu kisaran kasar dari jam yang ditaksir peserta sendiri, dan yang diteliti adalah pertemanan, bukan cinta.
+
+Meski begitu, gambarannya terasa akrab bagi siapa pun yang pernah menunggu hati di pojok dialog berganti warna. Di gim, yang menggeser warna adalah perhatian yang diulang. Dalam studi Hall, yang berkaitan dengan pertemanan yang lebih dekat adalah jam yang terkumpul. Dua-duanya menempatkan waktu yang menumpuk di depan satu momen besar, meski studi Hall hanya soal pertemanan dan baru menunjukkan keterkaitan.
+
+### Key Takeaways
+
+- Hati di HM BTN bergeser dari hitam ke merah seiring rasa sayang tumbuh.
+- Satu hadiah mahal tetap hanya satu hari; yang menggeser warna adalah hadiah tepat sasaran yang terus diulang.
+- Blue Feather baru muncul setelah hatinya hampir atau sudah merah; ia menutup kedekatan, bukan menciptakannya, dan dalam studi Hall pertemanan yang dekat juga berkaitan dengan banyaknya jam bersama.
+
+Rasa sayang itu menyenangkan untuk dirawat, tetapi ladang yang makin luas menuntut keberanian lain: menerima bantuan dari tangan-tangan kecil Harvest Sprites.
+
+
+<!-- Chapter: 12_menyerahkan-pekerjaan-kepada-harvest-sprites -->
+
+## Menyerahkan Pekerjaan kepada Harvest Sprites
+
+Upahnya sudah kamu siapkan, tetapi Harvest Sprite yang baru kamu sewa hanya mengerjakan beberapa tugas ringan, lalu menghabiskan sisa hari dengan berjemur.
+
+Pemandangan itu menjengkelkan, apalagi kalau kamu sendiri sudah lelah. Tanaman yang belum mereka sentuh tetap harus kamu siram dengan tanganmu sendiri, dan godaan untuk berhenti menyewa mereka datang dengan cepat. Padahal panduan resmi Prima menyebut para Sprites sebagai sahabat terbaik petani. Bab ini tentang jarak antara kesan pertama itu dan bantuan yang baru terasa belakangan.
+
+### Tujuh Penolong di Balik Gereja
+
+Ada tujuh Harvest Sprites, dan rumah mereka berada di belakang gereja desa. Kamu cukup datang dan mengajak salah satunya bicara. Ia akan bertanya pekerjaan apa yang kamu butuhkan: mengurus hewan, menyiram tanaman, atau memanen. Lalu kamu memilih lamanya, satu hari, tiga hari, atau seminggu penuh.
+
+Pilihan terakhir itu terlihat sepele, padahal di situ sudah ada dilema yang dikenal setiap orang yang pernah mendelegasikan. Kontrak seminggu memang praktis. Memesan mereka hari demi hari memberi kendali lebih besar, karena kamu bisa menentukan sendiri apa yang dikerjakan setiap hari. Makin lama pekerjaan dilepas, makin sedikit yang bisa kamu atur.
+
+Waktu terbaik untuk mulai justru ketika ladang masih kecil. Para Sprites butuh waktu untuk menjadi cakap, dan waktu itu lebih baik dilalui sebelum ladang tumbuh besar dan pekerjaan menumpuk.
+
+### Sekantong Tepung Setiap Hari
+
+Para Sprites tidak bekerja gratis. Setiap hari kerja dibayar dengan sesuatu yang mereka sukai, dan pilihan terbaiknya adalah sekantong *Flour* (tepung) seharga 50 G dari Supermarket. Upah itu bukan basa-basi. Rasa sayang mereka sedikit terkikis setiap hari mereka bekerja, dan tanpa bayaran, rasa sayang serta semangat kerja mereka ikut turun.
+
+Kalau mereka terus bekerja dan rutin dibayar, arahnya berbalik. Rasa sayang mereka tumbuh dan pekerjaan mereka membaik. Panduan tidak menyebut latihan khusus; para Sprites makin terampil seiring bekerja. Setelah hati mereka penuh, tepung bisa diganti dengan telur.
+
+Hasilnya datang pelan-pelan. Satu atau dua Sprites yang ditugasi menyiram lama-lama sanggup membasahi seluruh tanaman sendirian. Setelah cukup lama bekerja, mereka menangani sebagian besar pekerjaan harian tanpa bantuanmu, sehingga harimu terbuka untuk kegiatan lain. Mereka bahkan bisa memanen petak tengah yang terkurung tanaman lain, petak yang tidak bisa kamu jangkau sendiri. Dan seperti di bab 8, merekalah yang menembus badai untuk memberi makan hewanmu.
+
+### Lambat Dulu, Cepat Kemudian
+
+Rasa rugi di hari-hari pertama itu bukan hanya milik petani di Mineral Village. Pernah menyerahkan tugas kepada rekan baru di kantor atau adik di rumah? Hasilnya belum rapi, waktunya lebih lama, dan kamu masih harus memeriksa ulang. Sebuah artikel Harvard Business School Online ([Landry, 2020](https://online.hbs.edu/blog/post/how-to-delegate-effectively)) memberi hitungan yang jujur: tugas yang kamu selesaikan dalam 30 menit bisa memakan satu jam bagi orang yang baru pertama kali mengerjakannya, lalu makin cepat seiring ia mengenal tugasnya.
+
+Artikel itu juga menaruh beban di pundak pemberi tugas. Kalau penerima butuh pelatihan, sumber daya, atau kewenangan, manajerlah yang wajib menyediakannya. Gim dan kantor berbeda di titik ini. Di kantor kamu bisa melatih orang. Di Mineral Village kamu cukup sabar, terus memberi mereka pekerjaan, dan tidak lupa membayar.
+
+### Membeli Waktu, Menjaga Kendali
+
+Membayar orang lain demi waktu luang ternyata pernah diteliti. [Whillans dan rekan-rekannya (2017)](https://doi.org/10.1073/pnas.1706541114) menyurvei lebih dari 6.000 orang di empat negara, dan mereka yang membeli waktu, misalnya membayar orang lain mengurus pekerjaan rumah tangga, melaporkan kepuasan hidup lebih tinggi. Karena berupa survei, itu baru keterkaitan, bukan sebab-akibat. Dalam eksperimen kecil dengan 60 orang dewasa yang bekerja di Vancouver, akhir pekan yang uangnya dipakai menghemat waktu meninggalkan suasana hati yang lebih positif dan tekanan waktu yang lebih rendah dibanding akhir pekan yang uangnya dibelikan barang.
+
+Para penelitinya sendiri memasang rem. Mereka menduga bahwa membeli terlalu banyak layanan penghemat waktu mungkin menggerus rasa kendali, karena orang mulai merasa tidak sanggup mengurus urusan sehari-harinya sendiri. Dugaan itu terdengar seperti pilihan kontrak di rumah para Sprites tadi: makin banyak yang kamu serahkan, makin sedikit yang kamu pegang.
+
+### Satu Hari Libur untuk Pesta Teh
+
+Di musim semi, para Sprites mengadakan pesta teh, dan pesta itu hanya terjadi kalau ketujuhnya ada di rumah. Artinya, sesibuk apa pun ladangmu, mereka perlu setidaknya satu hari libur. Kamu boleh ikut datang membawa hadiah untuk masing-masing, asal punya Large Rucksack, dan pulang membawa Relax Tea Leaves.
+
+Hubungan dengan mereka juga tidak berhenti ketika ladang sepi. Di musim dingin, saat tidak ada tanaman, mereka masih bisa disewa untuk mengurus hewan sambil hubunganmu dengan mereka terus dirawat. Orang yang membantumu layak dibayar, layak beristirahat, dan layak diingat bahkan ketika pekerjaannya sedang sedikit.
+
+### Catatan Akhir Bab
+
+Harvest Sprites lambat di awal dan makin terampil seiring bekerja, asal rutin dibayar dan sesekali diberi libur. Kontrak harian memberi kendali, kontrak panjang memberi kepraktisan. Penelitian Whillans dkk. (2017) menambahkan dua sisi: membeli waktu berkaitan dengan hidup yang lebih memuaskan, tetapi terlalu banyak menyerahkan urusan mungkin menggerus rasa kendali.
+
+Pembagian kerja dengan para Sprites masih bisa diatur ulang. Lain halnya dengan tambang, tempat setiap langkah turun tidak bisa didaki kembali.
+
+
+<!-- Chapter: 13_tambang-yang-tidak-bisa-didaki-kembali -->
+
+## Tambang yang Tidak Bisa Didaki Kembali
+
+Di tambang Harvest Moon: Back to Nature, setiap lubang yang kamu injak membawamu turun satu lantai, dan tidak ada jalan naik ke lantai sebelumnya.
+
+Bab terakhir ini turun ke bawah tanah untuk satu pelajaran yang sering datang terlambat. Sebagian pilihan tidak punya jalan pulang, dan cara terbaik menghadapinya adalah bersiap sebelum melangkah, bukan menyesal sesudahnya.
+
+### Pintu yang Hanya Terbuka di Musim Dingin
+
+HM BTN punya dua tambang. Yang pertama ada di balik air terjun dekat Hot Spring dan bisa kamu masuki sepanjang tahun. Yang kedua, Winter Mine, berdiri di tengah danau di kaki Mother''s Hill, dan jalan ke sana baru ada setelah danau membeku.
+
+Winter Mine menyimpan Orichalc dan Adamantite, dua bijih langka yang tidak akan kamu temukan di tambang satunya. Adamantite dibutuhkan untuk mesin keju, mayones, dan benang, sedangkan Orichalc diolah pandai besi menjadi perhiasan. Begitu musim dingin lewat, pintunya baru terbuka lagi pada musim dingin berikutnya.
+
+Di dalamnya juga tersimpan Power Berry, buah yang menambah tenaga si petani 10 poin. Yang ada di lantai bawah Winter Mine harus diambil sebelum musim dingin berakhir. Kalau terlewat, kamu menunggu setahun penuh untuk mencoba lagi. Winter Mine tidak menunggu kamu siap. Ia buka mengikuti musim, dan yang bisa kamu atur hanyalah seberapa siap kamu ketika jalannya muncul.
+
+### Keranjang yang Tertinggal di Atas
+
+Setiap lantai punya lubang menuju lantai berikutnya, dan makin dalam kamu turun, makin berharga bijih yang menunggu. Tetapi lubang itu hanya mengarah ke bawah. Tangga di atas memang membawamu keluar, hanya saja keluar dari tambang, bukan kembali ke lantai tadi.
+
+Akibatnya baru terasa saat kamu lengah. Bayangkan kamu sudah jauh di bawah, lalu sadar keranjang tertinggal di lantai atas. Satu-satunya cara mengambilnya adalah keluar, masuk lagi dari pintu, dan turun sekali lagi sampai ke lantai tempat keranjang itu ditinggal. Tanpa keranjang atau Large Rucksack, si petani hanya sanggup membawa dua bijih sekaligus. Kelengahan kecil di atas berarti mengulang perjalanan turun dari pintu masuk.
+
+Hidup punya lubang serupa: kontrak yang sudah diteken, kota yang sudah ditinggalkan, kata-kata yang sudah terucap. Kamu masih bisa keluar dan memulai lagi, tetapi tidak bisa naik ke lantai yang sama.
+
+### Aturan Berhenti Dibuat di Luar Tambang
+
+Karena turun tidak bisa dibatalkan, keputusan terpenting justru dibuat sebelum masuk, yaitu kapan berhenti. Panduan resmi Prima memberi dua tanda yang jelas. Berhentilah ketika keranjang sudah memuat 30 bijih, atau ketika si petani terlalu lelah untuk melanjutkan, sebelum ia jatuh pingsan seperti yang dibahas di bab 2.
+
+Waktunya pun dipilih. Tambang paling cocok didatangi setelah tanaman selesai ditanam dan disiram, pada hari ketika tidak ada acara khusus yang menunggu. Keranjang dari Supermarket, yang memuat 30 bijih sekali jalan, sebaiknya sudah dibeli lebih dulu. Pekerjaan wajib di ladang beres, bekal sudah di tangan, dan batas sudah ditetapkan. Baru setelah itu kamu menginjak lubang pertama.
+
+Aturan itu sebaiknya ditetapkan di luar, karena perkiraan tentang kemampuan sendiri bisa terlalu cerah. Dalam lima studi dengan mahasiswa, Buehler dan rekan-rekannya mendapati perkiraan peserta tentang kapan tugasnya selesai cenderung terlalu optimis, dan mereka mengaitkannya dengan kebiasaan sibuk membayangkan skenario rencana sendiri ([Buehler, Griffin, dan Ross, 1994](https://doi.org/10.1037/0022-3514.67.3.366)). Bias itu hilang pada peserta yang diminta menghubungkan perkiraannya dengan pengalaman serupa di masa lalu. Studi itu bicara soal perkiraan waktu, bukan tenaga, jadi yang dipinjam buku ini hanya pelajarannya: saat menaksir berapa lantai lagi yang sanggup kamu tempuh, bandingkan dengan hari-hari kemarin, bukan dengan semangat pagi ini.
+
+### Sayang Rasanya Berhenti Sekarang
+
+Menambang di HM BTN adalah kerja yang sabar. Satu-satunya alatnya cangkul, yang menggali satu petak setiap kali, bahkan setelah ditingkatkan. Kebanyakan yang muncul pun hanya bijih murah yang boleh langsung dibuang. Kamu mengayun, membuang, mengayun lagi, sambil berharap petak berikutnya menyimpan sesuatu yang berkilau.
+
+Dari situ godaan berikutnya tumbuh. Tenaga sudah banyak terpakai, beberapa lantai sudah dilewati, dan berhenti terasa seperti membuang semuanya. Arkes dan Blumer menyebut dorongan ini efek *sunk cost*, yaitu kecenderungan meneruskan usaha karena uang, tenaga, atau waktu sudah telanjur ditanamkan ([Arkes dan Blumer, 1985](https://doi.org/10.1016/0749-5978(85)90049-4)). Dalam studi lapangan mereka, pemegang tiket langganan teater yang membayar lebih mahal ternyata lebih sering datang menonton, dan para penulis mengaitkannya dengan keinginan agar tidak terlihat boros.
+
+Kedua studi itu tidak meneliti tambang ataupun pilihan yang tidak bisa diulang; menyandingkannya dengan lubang satu arah adalah analogi buku ini. Meski begitu, pelajarannya tetap terpakai. Lantai yang sudah kamu lewati tetap di atas sana, apa pun keputusanmu sekarang. Yang layak ditimbang hanyalah lantai berikutnya: masih adakah tenaga, masih adakah ruang di keranjang.
+
+### Penutup
+
+Buku ini berawal dari ladang warisan yang penuh batu dan satu petak kecil di dekat Harvest Bin, petak yang sengaja dibuat sekecil yang sanggup kamu urus. Sekarang perjalanannya berakhir jauh di bawah tanah, dan pesannya ternyata tidak banyak berubah. Mulailah dari yang sanggup kamu bereskan, kenali batas tenagamu, dan putuskan kapan berhenti sebelum kamu masuk terlalu dalam. Ladang itu memang tidak dibereskan dalam sehari, dan memang tidak perlu. Kalau suatu hari kamu kembali memainkan HM BTN, semoga petak kecil pertama itu terasa sedikit berbeda, bukan lagi sekadar awal sebuah permainan, melainkan latihan pertama untuk memulai dari yang kecil.
+
+Sumber setiap fakta gim dan riset di buku ini bisa kamu telusuri di halaman Referensi.
+
+
+<!-- Chapter: 14_referensi -->
+
+## Referensi
+
+Sumber buku ini dikelompokkan menurut topik, dan setiap tautan di bawah ini sudah diperiksa pada 23 Oktober 2026.
+
+### Gim dan Panduan Resminya
+
+McBride, D., dan Cassady, D. (2000). [*Harvest Moon: Back to Nature: Prima''s official strategy guide*](https://archive.org/details/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf). Prima Games. ISBN 0-7615-3271-4. Tautan menuju pindaian di Internet Archive.
+
+Wikipedia. (t.t.). [Harvest Moon: Back to Nature](https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature). Diakses 23 Oktober 2026.
+
+Marvelous. (t.t.). [*Bokujō Monogatari Hābesuto Mūn*](https://www.bokumono.com/sub/harvest.php). Situs resmi seri Bokujo Monogatari. Diakses 23 Oktober 2026.
+
+Sheffield, B. (2007, 3 Desember). [Harvest man: Yasuhiro Wada''s gentle world](https://www.gamedeveloper.com/business/harvest-man-yasuhiro-wada-s-gentle-world). *Gamasutra*.
+
+### Kerja, Istirahat, dan Waktu
+
+Weick, K. E. (1984). [Small wins: Redefining the scale of social problems](https://doi.org/10.1037/0003-066X.39.1.40). *American Psychologist, 39*(1), 40-49.
+
+Amabile, T. M., dan Kramer, S. J. (2011). [The power of small wins](https://hbr.org/2011/05/the-power-of-small-wins). *Harvard Business Review*, Mei 2011.
+
+American Management Association. (t.t.). [The worth of small wins: Teresa Amabile and Steven Kramer on the progress principle](https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/). Wawancara. Diakses 23 Oktober 2026.
+
+Watson, N. F., Badr, M. S., Belenky, G., dkk. (2015). [Recommended amount of sleep for a healthy adult: A joint consensus statement of the American Academy of Sleep Medicine and Sleep Research Society](https://pmc.ncbi.nlm.nih.gov/articles/PMC4434546/). *Sleep, 38*(6), 843-844.
+
+Van Dongen, H. P. A., Maislin, G., Mullington, J. M., dan Dinges, D. F. (2003). [The cumulative cost of additional wakefulness: Dose-response effects on neurobehavioral functions and sleep physiology from chronic sleep restriction and total sleep deprivation](https://doi.org/10.1093/sleep/26.2.117). *Sleep, 26*(2), 117-126.
+
+Pega, F., Náfrádi, B., Momen, N. C., Ujita, Y., Streicher, K. N., Prüss-Üstün, A. M., dkk. (2021). [Global, regional, and national burdens of ischemic heart disease and stroke attributable to exposure to long working hours for 194 countries, 2000-2016: A systematic analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury](https://doi.org/10.1016/j.envint.2021.106595). *Environment International, 154*, 106595.
+
+World Health Organization. (2021, 17 Mei). [Long working hours increasing deaths from heart disease and stroke: WHO, ILO](https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke-who-ilo). Siaran berita.
+
+Rubinstein, J. S., Meyer, D. E., dan Evans, J. E. (2001). [Executive control of cognitive processes in task switching](https://doi.org/10.1037/0096-1523.27.4.763). *Journal of Experimental Psychology: Human Perception and Performance, 27*(4), 763-797.
+
+American Psychological Association. (2006, 20 Maret). [Multitasking: Switching costs](https://www.apa.org/topics/research/multitasking).
+
+### Kesabaran, Uang, dan Investasi
+
+Mischel, W., Shoda, Y., dan Rodriguez, M. L. (1989). [Delay of gratification in children](https://doi.org/10.1126/science.2658056). *Science, 244*(4907), 933-938.
+
+Watts, T. W., Duncan, G. J., dan Quan, H. (2018). [Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes](https://doi.org/10.1177/0956797618761661). *Psychological Science, 29*(7), 1159-1177.
+
+Federal Reserve Board. (2026, 13 Mei). [Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report](https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm). Siaran pers hasil Survey of Household Economics and Decisionmaking (SHED).
+
+Direktorat Jenderal Kekayaan Negara, KPKNL Lahat. (2026, 6 Mei). [Investasi bagi orang berpenghasilan tetap](https://www.djkn.kemenkeu.go.id/kpknl-lahat/baca-artikel/18366/Investasi-Bagi-Orang-Berpenghasilan-Tetap.html). Kementerian Keuangan Republik Indonesia.
+
+Federal Reserve Bank of St. Louis. (2020, 29 Januari; diperbarui 3 Juni 2026). [Real-life examples of opportunity cost](https://www.stlouisfed.org/open-vault/2020/january/real-life-examples-opportunity-cost). *Open Vault*.
+
+Econlib. (t.t.). [Opportunity cost](https://www.econlib.org/library/Topics/College/opportunitycost.html). Library of Economics and Liberty. Diakses 23 Oktober 2026.
+
+U.S. Securities and Exchange Commission, Office of Investor Education and Advocacy. (t.t.). [Diversify your investments](https://www.investor.gov/introduction-investing/investing-basics/save-and-invest/diversify-your-investments). Investor.gov. Diakses 23 Oktober 2026.
+
+Otoritas Jasa Keuangan. (2026, 9 September). [OJK dorong generasi muda tingkatkan literasi keuangan untuk capai kesejahteraan, gelar LIKE IT di Provinsi Banten](https://ojk.go.id/id/berita-dan-kegiatan/siaran-pers/Pages/Gelar-LIKE-IT-di-Provinsi-Banten.aspx). Siaran pers SP 167/DKPU/OJK/IX/2026.
+
+### Kebiasaan dan Relasi
+
+Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., dan Wardle, J. (2010). [How are habits formed: Modelling habit formation in the real world](https://doi.org/10.1002/ejsp.674). *European Journal of Social Psychology, 40*(6), 998-1009.
+
+Holt-Lunstad, J., Smith, T. B., dan Layton, J. B. (2010). [Social relationships and mortality risk: A meta-analytic review](https://doi.org/10.1371/journal.pmed.1000316). *PLoS Medicine, 7*(7), e1000316.
+
+Mineo, L. (2017, 11 April). [Over nearly 80 years, Harvard study has been showing how to live a healthy and happy life](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/). *Harvard Gazette*.
+
+Paul, K. I., dan Moser, K. (2009). [Unemployment impairs mental health: Meta-analyses](https://doi.org/10.1016/j.jvb.2009.01.001). *Journal of Vocational Behavior, 74*(3), 264-282.
+
+Hall, J. A. (2019). [How many hours does it take to make a friend?](https://doi.org/10.1177/0265407518761225) *Journal of Social and Personal Relationships, 36*(4), 1278-1296.
+
+University of Kansas. (2018). [How to make friends? Study reveals how many hours it takes](https://news.ku.edu/news/article/2018/03/06/study-reveals-number-hours-it-takes-make-friend). KU News.
+
+### Delegasi dan Keputusan
+
+Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., dan Norton, M. I. (2017). [Buying time promotes happiness](https://doi.org/10.1073/pnas.1706541114). *Proceedings of the National Academy of Sciences, 114*(32), 8523-8527.
+
+Landry, L. (2020, 14 Januari; diperbarui 2 Juni 2021). [How to delegate effectively: 9 tips for managers](https://online.hbs.edu/blog/post/how-to-delegate-effectively). Harvard Business School Online.
+
+Buehler, R., Griffin, D., dan Ross, M. (1994). [Exploring the "planning fallacy": Why people underestimate their task completion times](https://doi.org/10.1037/0022-3514.67.3.366). *Journal of Personality and Social Psychology, 67*(3), 366-381.
+
+Arkes, H. R., dan Blumer, C. (1985). [The psychology of sunk cost](https://doi.org/10.1016/0749-5978(85)90049-4). *Organizational Behavior and Human Decision Processes, 35*(1), 124-140.',
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -59897,8 +60693,8 @@ Daftar pustaka berikut memuat buku teks seminal, monograf ilmiah, dan artikel ju
 16. Lopez, C., & Blanke, O. (2011). [The thalamocortical vestibular system in animals and humans](https://doi.org/10.1016/j.brainresrev.2010.12.002). *Brain Research Reviews*, 67(1-2), 119–146. https://doi.org/10.1016/j.brainresrev.2010.12.002
 
 17. Straka, H., Vibert, N., Vidal, P. P., Moore, L. E., & Dutia, M. B. (2005). [Intrinsic membrane properties of vertebrate vestibular neurons: function, development and plasticity](https://doi.org/10.1016/j.pneurobio.2005.10.002). *Progress in Neurobiology*, 76(6), 349–392. https://doi.org/10.1016/j.pneurobio.2005.10.002',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -61116,8 +61912,8 @@ Berikut adalah daftar referensi ilmiah dan buku rujukan yang digunakan untuk men
 
 *   Vartiak, L., Jaseckova, G., & Konvit, M. (2023). Logic as a tool for developing critical thinking. *Rupkatha Journal on Interdisciplinary Studies in Humanities, 15*(2), 1-12. [https://doi.org/10.21659/rupkatha.v15n2.15](https://doi.org/10.21659/rupkatha.v15n2.15)
 *   Wechsler, S. M., Saiz, C., Rivas, S. F., Vendramini, C. M. M., Almeida, L. S., Mundim, M. C., & Franco, A. (2018). Creative and critical thinking: Independent or overlapping components? *Thinking Skills and Creativity, 27*, 114-122. [https://doi.org/10.1016/j.tsc.2017.12.003](https://doi.org/10.1016/j.tsc.2017.12.003)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63119,8 +63915,8 @@ Undang-Undang Republik Indonesia Nomor 1 Tahun 2023 tentang Kitab Undang-Undang 
 Undang-Undang Republik Indonesia Nomor 8 Tahun 1981 tentang Hukum Acara Pidana (KUHAP). Sekretariat Negara. [https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981](https://peraturan.bpk.go.id/Details/47229/uu-no-8-tahun-1981)
 
 van Dijk, T. A. (n.d.). *Discourse studies*. Discourses.org. [https://www.discourses.org](https://www.discourses.org)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -63868,8 +64664,8 @@ Hughes, J. E., Knittel, C. R., & Sperling, D. (2008). Evidence of a shift in the
 Labandeira, X., Labeaga, J. M., & López-Otero, X. (2017). A meta-analysis on the price elasticity of energy demand. *Energy Policy*, 102, 549-568. [https://doi.org/10.1016/j.enpol.2017.01.002](https://doi.org/10.1016/j.enpol.2017.01.002)
 Urbanchuk, J. M. (1997). Price elasticity of supply for major agricultural commodities. *Journal of Agricultural and Applied Economics*, 29(1), 101-115. [https://doi.org/10.1017/S107407080000760X](https://doi.org/10.1017/S107407080000760X)
 Working, E. J. (1927). What do statistical "demand curves" show? *The Quarterly Journal of Economics*, 41(2), 212-235. [https://doi.org/10.2307/1884483](https://doi.org/10.2307/1884483)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -64673,8 +65469,8 @@ Halaman ini memuat 71 sumber yang menjadi dasar fakta, angka, dan tanggal di sel
 - [Ekspor konten Korea](https://www.koreaherald.com/article/10684195). Korea Herald, 27 Februari 2026, rekor 14,08 miliar dolar AS.
 - [Opt-in untuk Sora 2](https://www.japantimes.co.jp/business/2025/10/16/companies/japan-opt-in-model-sora2/). Japan Times, 16 Oktober 2025, permintaan pemerintah kepada OpenAI.
 - [Surat CODA ke OpenAI](https://coda-cj.jp/en/news/817/). CODA, 28 Oktober 2025, minta konten tak dipakai melatih AI.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66018,8 +66814,8 @@ Wallace, J. M., & Hobbs, P. V. (2006). [*Atmospheric Science: An Introductory Su
 World Meteorological Organization. (2017). [*International Cloud Atlas: Manual on the Observation of Clouds and Other Meteors*](https://www.wmocloudatlas.org/) (WMO-No. 407). World Meteorological Organization. https://www.wmocloudatlas.org/
 
 World Meteorological Organization. (2018). [*Guide to Instruments and Methods of Observation*](https://community.wmo.int/en/activity-areas/imop/cimo-guide) (WMO-No. 8). World Meteorological Organization. https://community.wmo.int/en/activity-areas/imop/cimo-guide',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -66771,8 +67567,8 @@ Sone, T., Nakaya, N., Ohmori, K., Shimazu, T., Higashiguchi, M., Kakizaki, M., K
 Steger, M. F., Frazier, P., Oishi, S., & Kaler, M. (2006). The Meaning in Life Questionnaire: Assessing the presence of and search for meaning in life. *Journal of Counseling Psychology, 53*(1), 80–93. [https://doi.org/10.1037/0022-0167.53.1.80](https://doi.org/10.1037/0022-0167.53.1.80)
 
 Winn, M. (2014, May 14). What is your ikigai? *The View Inside Me*. [https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/](https://web.archive.org/web/20141207231700/http://theviewinside.me/what-is-your-ikigai/)',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
@@ -68011,8 +68807,8 @@ Masten, A. S. (2001). Ordinary magic: Resilience processes in development. *Amer
 
 Rutter, M. (1985). Resilience in the face of adversity: Protective factors and resistance to psychiatric disorder. *The British Journal of Psychiatry*, *147*(6), 598–611. [https://doi.org/10.1192/bjp.147.6.598](https://doi.org/10.1192/bjp.147.6.598)
 > Salah satu penelitian perintis yang meneliti faktor pelindung (*protective factors*) dan mekanisme individu dalam menangkal dampak negatif stresor ekstrem terhadap kesehatan jiwa.',
-  '2026-10-21T14:27:24.381Z',
-  '2026-10-21T14:27:24.381Z'
+  '2026-10-24T01:50:16.956Z',
+  '2026-10-24T01:50:16.956Z'
 )
 ON CONFLICT(slug) DO UPDATE SET
   title = excluded.title,
