@@ -1,6 +1,6 @@
 ## Gambaran Kehidupan Sosial Jawa Kuno
 
-Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi mereka memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
+Relief Karmawibhangga pada dasarnya adalah "buku pedoman moral" tentang hukum sebab-akibat, yang dipahatkan di 160 panel. Namun, bagi para arkeolog dan sejarawan, panel-panel ini adalah sebuah **kapsul waktu visual**. Para pemahat Borobudur tidak hanya menggambarkan surga dan neraka, tetapi mereka memotret realitas sosial, gaya hidup, dan suasana lingkungan Jawa pada masa Wangsa Shailendra (sekitar tahun 750-850 M).
 
 Bayangkan relief ini sebagai sebuah "umpan Instagram" dari masa lalu. Melalui detail pahatan yang sangat halus, kita bisa melihat apa yang mereka pakai, bagaimana bentuk rumah mereka, hingga bagaimana mereka berinteraksi satu sama lain ribuan tahun yang lalu.
 

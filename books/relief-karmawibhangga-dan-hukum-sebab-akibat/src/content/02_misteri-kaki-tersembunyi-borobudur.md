@@ -1,6 +1,6 @@
 ## Misteri Kaki Tersembunyi Candi Borobudur
 
-Bayangkan kamu sedang membangun sebuah gedung pencakar langit yang megah, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Fondasi itu tidak akan sanggup menopang beban puncak yang berat. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
+Bayangkan kamu sedang membangun sebuah gedung pencakar langit yang megah, namun di tengah jalan kamu menyadari fondasinya tidak cukup kuat. Beban puncak yang berat terlalu besar untuk ditopangnya. Apa yang akan kamu lakukan? Kamu mungkin akan mempertebal bagian bawahnya, meskipun itu berarti menutupi ukiran indah yang baru saja selesai dipahat.
 
 Inilah awal mula dari salah satu misteri arkeologi terbesar di dunia: **Kaki Tersembunyi (Hidden Base) Candi Borobudur.** Di balik struktur tambahan yang kita lihat sekarang, terdapat 160 panel relief **Karmawibhangga** yang sengaja "dikubur" oleh para pembangun aslinya.
 
