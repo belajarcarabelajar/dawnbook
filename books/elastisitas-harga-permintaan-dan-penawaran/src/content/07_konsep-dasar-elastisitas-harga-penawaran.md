@@ -1,15 +1,15 @@
 ## Konsep Dasar Elastisitas Harga Penawaran
-Selamat datang di pembahasan mengenai sisi lain dari pasar: **Sisi Produsen**. Jika sebelumnya kita telah mempelajari bagaimana konsumen bereaksi terhadap harga, sekarang saatnya kita masuk ke posisi para pemilik pabrik, petani, dan penyedia jasa.
+Pasar punya dua pihak, dan pembahasan kini berpindah ke pihak yang menyediakan barang dan jasanya, yaitu **Sisi Produsen**. Jika sebelumnya kita telah mempelajari bagaimana konsumen bereaksi terhadap harga, sekarang saatnya kita masuk ke posisi para pemilik pabrik, petani, dan penyedia jasa.
 Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa naik tajam tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
 ## Apa Itu Elastisitas Harga Penawaran?
 Secara sederhana, **Elastisitas Harga Penawaran (Price Elasticity of Supply atau PES)** mengukur seberapa sensitif atau responsif para produsen terhadap perubahan harga di pasar.
 Dalam hukum penawaran, kita tahu bahwa jika harga naik, produsen ingin menjual lebih banyak. Namun, pertanyaannya adalah: **Mampukah mereka?**
 > **Insight:** Elastisitas penawaran berfokus pada kemampuan produsen dalam menyesuaikan jumlah produksi ketika harga berubah, bukan sekadar kemauan untuk menjual.
 Jika produsen dapat dengan mudah meningkatkan produksi saat harga naik sedikit saja, maka penawaran dikatakan **elastis**. Sebaliknya, jika produsen sulit menambah produksi meskipun harga melonjak tinggi, maka penawaran dikatakan **inelastis**.
-## Karet Gelang vs. Kawat Baja
-Untuk memahami konsep ini, bayangkan dua jenis respon produksi:
-1. **Si Karet Gelang (Elastis):** Bayangkan sebuah pabrik percetakan kaos digital. Jika harga kaos tiba-tiba naik, mereka hanya perlu membeli lebih banyak kaos polos dan menjalankan mesin lebih lama. Produksi bisa "melar" dengan cepat mengikuti harga.
-2. **Si Kawat Baja (Inelastis):** Bayangkan sebuah perkebunan jati. Jika harga kayu jati naik hari ini, petani tidak bisa langsung memanen lebih banyak pohon karena pohon jati butuh waktu puluhan tahun untuk tumbuh. Produksi "kaku" dan sulit berubah dalam jangka pendek.
+## Percetakan Kaos dan Kebun Jati
+Karet gelang dari bab pertama juga punya padanan di sisi produsen, kali ini pada kemampuan menambah produksi:
+1. **Penawaran Elastis:** Bayangkan sebuah pabrik percetakan kaos digital. Jika harga kaos tiba-tiba naik, mereka hanya perlu membeli lebih banyak kaos polos dan menjalankan mesin lebih lama. Produksi bisa "melar" dengan cepat mengikuti harga.
+2. **Penawaran Inelastis:** Bayangkan sebuah perkebunan jati. Jika harga kayu jati naik hari ini, petani tidak bisa langsung memanen lebih banyak pohon karena pohon jati butuh waktu puluhan tahun untuk tumbuh. Produksi "kaku" dan sulit berubah dalam jangka pendek.
 ## Mengapa Respons Produsen Berbeda-beda?
 Responsivitas produsen ditentukan oleh sejauh mana mereka dapat menggeser sumber daya (bahan baku, tenaga kerja, modal) untuk menghasilkan produk tersebut. Secara konseptual, ada dua hal utama yang menentukan tingkat respons ini:
 ### 1. Fleksibilitas Penyesuaian

@@ -5,10 +5,10 @@ Respon konsumen terhadap perubahan harga inilah yang kita sebut sebagai **Elasti
 Secara sederhana, elastisitas permintaan adalah alat ukur yang digunakan dalam ekonomi untuk menunjukkan seberapa sensitif jumlah barang yang diminta oleh konsumen terhadap perubahan harga barang tersebut.
 Jika Hukum Permintaan memberi tahu kita **arah** (jika harga naik, permintaan turun), maka Elastisitas Permintaan memberi tahu kita **seberapa besar** penurunan tersebut terjadi.
 > **Wawasan Penting:** Elastisitas adalah ukuran kuantitatif dari sensitivitas konsumen. Ini menjawab pertanyaan "Seberapa parah penurunan penjualan kita jika harga naik 10%?"
-## Karet Gelang vs. Rantai Besi
-Untuk memahami mekanisme ini, bayangkan permintaan sebagai sebuah benda yang ditarik oleh kekuatan harga:
-1. **Permintaan Elastis (Karet Gelang):** Beberapa barang memiliki permintaan yang lentur seperti karet gelang. Sedikit saja kamu "menarik" harganya ke atas, jumlah permintaan akan "meregang" atau menyusut drastis. Contohnya: Tiket pesawat liburan atau merek cokelat tertentu.
-2. **Permintaan Inelastis (Rantai Besi):** Barang lain bersifat kaku seperti rantai besi. Meskipun kamu menarik harganya dengan kuat, bentuknya hampir tidak berubah. Konsumen membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
+## Permintaan yang Lentur dan yang Kaku
+Tarikan harga yang sama bisa berakhir berbeda, seperti karet gelang dan kawat di bab pertama:
+1. **Permintaan Elastis:** Sedikit saja harganya naik, jumlah permintaan menyusut drastis. Contohnya: Tiket pesawat liburan atau merek cokelat tertentu.
+2. **Permintaan Inelastis:** Meskipun harganya naik dengan kuat, konsumen membeli dalam jumlah yang hampir sama karena mereka merasa sangat membutuhkannya. Contohnya: Obat-obatan esensial atau garam dapur.
 ## Bagaimana Mekanisme Ini Bekerja di Pikiran Konsumen?
 Saat harga sebuah barang berubah, terjadi dua mekanisme psikologis dan ekonomi dalam diri konsumen yang mendorong elastisitas:
 ### 1. Efek Substitusi (Substitution Effect)
