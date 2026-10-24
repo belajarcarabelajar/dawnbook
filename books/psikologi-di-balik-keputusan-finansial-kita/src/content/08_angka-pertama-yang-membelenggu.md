@@ -22,7 +22,7 @@ Jika ada contoh di mana jangkar berhubungan langsung dengan tagihanmu, ini dia. 
 
 Eksperimen di laboratorium menunjukkan seberapa mahal "tidak masalah" itu. Partisipan diberi tagihan tiruan, sebagian dengan angka minimum payment dan sebagian tanpa angka minimum sama sekali. Menghapus informasi minimum payment menaikkan rata-rata pembayaran sekitar 70 persen, dari £99 menjadi £175. Probabilitas melunasi penuh nyaris tidak berubah, artinya jangkar itu khusus melukai kelompok yang membayar parsial: mereka yang tersangkut, tersangkut lebih dalam. Stewart menambahkan perhitungan yang perlu kamu baca dua kali: penurunan pembayaran bulanan sekitar 2 persen bisa membuat total beban bunga membengkak hingga sekitar empat kali lipat.
 
-Jadi balik logika yang kita duga. Banyak orang mengira mencantumkan minimum payment adalah bentuk kewajaran dari penerbit kartu, "setidaknya ada patokan". Patokan itulah masalahnya. Ia bekerja seperti roda keberuntungan yang dihadirkan oleh pihak yang keuntungannya lebih besar kalau kamu membayar lebih kecil dan lebih lama.
+Jadi balik logika yang kita duga. Banyak orang mengira mencantumkan minimum payment adalah bentuk kewajaran dari penerbit kartu, "setidaknya ada patokan". Patokan itulah masalahnya. Ia bekerja seperti roda keberuntungan yang dihadirkan oleh pihak yang keuntungannya malah lebih besar kalau kamu membayar lebih kecil dan lebih lama.
 
 ### Melepas belenggu
 
