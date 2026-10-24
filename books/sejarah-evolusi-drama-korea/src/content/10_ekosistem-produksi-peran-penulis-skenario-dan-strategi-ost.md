@@ -32,7 +32,7 @@ Bayangkan sebuah restoran mewah. Sutradara bertugas layaknya pramusaji yang meny
 
 ## 2. Strategi OST sebagai Instrumen Emosional
 
-Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack* atau OST) berfungsi sebagai denyut nadinya. Musik dalam K-Drama dirancang sebagai instrumen emosional yang sangat efektif, melampaui peran musik latar biasa.
+Jika penulis skenario membangun kerangka cerita, lagu tema (*Original Soundtrack* atau OST) berfungsi membangun suasananya. Musik dalam K-Drama dirancang sebagai instrumen emosional yang efektif, melampaui peran musik latar biasa.
 
 ### Pendekatan Pavlovian dalam OST
 

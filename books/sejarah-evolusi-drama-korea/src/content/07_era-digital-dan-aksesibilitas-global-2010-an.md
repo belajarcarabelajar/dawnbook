@@ -1,6 +1,6 @@
 ## Era Digital dan Aksesibilitas Global (2010-an)
 
-Selamat datang di dekade yang mengubah segalanya. Jika dekade 2000-an berfokus pada penanaman benih di Asia, maka dekade 2010-an menjadi saksi saat K-drama melakukan *quantum leap* menyeberangi samudra menuju audiens Barat dan global.
+Pada dekade 2010-an, platform *streaming* legal dan media sosial membawa K-drama ke penonton di Amerika Serikat, Amerika Latin, dan Eropa. Jika dekade 2000-an berfokus pada penanaman benih di Asia, dekade 2010-an adalah masa ketika K-drama mulai menjangkau audiens Barat dan global.
 
 Bayangkan K-drama pada awal tahun 2000-an bagaikan butik eksklusif yang hanya bisa kamu kunjungi jika kamu tahu persis lokasinya. Namun, memasuki era 2010-an, butik tersebut tiba-tiba membuka cabang di setiap sudut internet melalui platform *streaming* dan media sosial. Inilah masa ketika hambatan bahasa mulai runtuh oleh kekuatan interaksi digital dan koneksi internet cepat.
 
@@ -48,9 +48,9 @@ Jika *My Love from the Star* memengaruhi tren gaya hidup, maka *Descendants of t
 
 Tradisi produksi K-drama biasanya mengandalkan metode *live-shooting* (syuting kejar tayang), yang memungkinkan tim penulis mengubah naskah berdasarkan reaksi berkala dari penonton. Namun, DOTS memilih jalur berbeda dengan merampungkan seluruh proses produksi sebelum drama resmi ditayangkan (*pre-production*).
 
-Langkah berani ini diambil agar drama bisa lulus sensor ketat di China, sehingga memungkinkan penayangan bersamaan (*simultaneous broadcast*) di kedua negara. Imbas positif dari sistem ini adalah pemanfaatan anggaran besar yang terlihat jelas pada *production value* sekelas layar lebar dan syuting di lokasi internasional yang memukau seperti Yunani.
+Langkah berani ini diambil agar drama bisa lulus sensor ketat di China, sehingga memungkinkan penayangan bersamaan (*simultaneous broadcast*) di kedua negara. Imbas positif dari sistem ini adalah pemanfaatan anggaran besar yang terlihat jelas pada *production value* sekelas layar lebar dan syuting di lokasi internasional seperti Yunani.
 
-Pencapaian utama DOTS sangat luar biasa. Drama ini mencetak rating fantastis di atas 30% di Korea Selatan. Lebih dari itu, kepopulerannya mendominasi lini masa media sosial global, membuktikan bahwa kisah bertema militer dan kemanusiaan memiliki daya tarik universal yang melintasi batas budaya.
+Drama ini mencetak rating di atas 30% di Korea Selatan. Lebih dari itu, kepopulerannya mendominasi lini masa media sosial global, membuktikan bahwa kisah bertema militer dan kemanusiaan memiliki daya tarik universal yang melintasi batas budaya.
 
 ## 4. Media Sosial sebagai Bahan Bakar Viralitas
 

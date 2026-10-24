@@ -1,8 +1,8 @@
 ## Dampak Budaya, Diplomasi Soft Power, dan Masa Depan K-Drama
 
-Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah K-drama. Setelah memahami bagaimana drama Korea berevolusi dari siaran radio sederhana hingga menjadi raksasa di platform *streaming* global, kini kita akan membedah **mengapa** fenomena ini begitu penting bagi Korea Selatan dan dunia.
+Selamat datang di bab penutup dari perjalanan panjang kita menelusuri sejarah K-drama. Setelah memahami bagaimana drama Korea berevolusi dari siaran radio sederhana hingga menjadi tontonan populer di platform *streaming* global, kini kita akan membedah **mengapa** fenomena ini penting bagi Korea Selatan dan dunia.
 
-Kita akan melihat bagaimana sebuah serial televisi bisa menjadi instrumen politik yang lebih kuat daripada kekuatan militer, bagaimana ia mendongkrak perekonomian negara, serta bagaimana teknologi masa depan seperti *Artificial Intelligence* (AI) dan metaverse akan mengubah cara kita menikmati cerita.
+Kita akan melihat bagaimana sebuah serial televisi bisa menjadi alat pengaruh politik tanpa paksaan militer, bagaimana ia mendongkrak perekonomian negara, serta bagaimana teknologi masa depan seperti *Artificial Intelligence* (AI) dan metaverse akan mengubah cara kita menikmati cerita.
 
 ## 1. K-Drama sebagai Instrumen Soft Power
 

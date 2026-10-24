@@ -32,9 +32,9 @@ Pada fase ini, industri drama Korea mulai menerapkan standar visual yang menyeru
 
 *   **Color Grading Tematik:** Sutradara menggunakan warna hangat seperti jingga atau emas untuk menghidupkan adegan romantis. Sebaliknya, warna dingin seperti biru atau abu-abu mendominasi momen melankolis guna memperkuat rasa sepi.
 *   **Depth of Field (Bokeh):** Lensa dengan *aperture* lebar digunakan untuk mengaburkan latar belakang. Teknik ini mengisolasi karakter, menciptakan suasana yang lebih intim dan mengarahkan perhatian penonton pada perubahan ekspresi mikro wajah sang aktor.
-*   **Symmetry & Framing:** Setiap *frame* dalam drama disusun secara presisi seperti lukisan. Pengaruh dari teknik sinema layar lebar ini sangat terasa dalam judul-judul populer seperti *Secret Garden* atau *That Winter, the Wind Blows*.
+*   **Symmetry & Framing:** Setiap *frame* dalam drama disusun dengan cermat seperti lukisan. Pengaruh dari teknik sinema layar lebar ini terasa dalam judul-judul populer seperti *Secret Garden* atau *That Winter, the Wind Blows*.
 
-Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura tampak gugur dengan sangat presisi dalam adegan romantis? Efek visual tersebut dirancang secara sengaja melalui perencanaan estetika yang matang untuk membangun kedalaman emosi.
+Pernahkah kamu memperhatikan bagaimana butiran salju atau kelopak bunga sakura tampak gugur dengan rapi dalam adegan romantis? Efek visual tersebut dirancang secara sengaja melalui perencanaan estetika yang matang untuk membangun kedalaman emosi.
 
 ## Karakter sebagai Trendsetter Fashion & Lifestyle
 

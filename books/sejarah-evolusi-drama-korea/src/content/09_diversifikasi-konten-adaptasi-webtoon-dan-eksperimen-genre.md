@@ -1,6 +1,6 @@
 ## Diversifikasi Konten Adaptasi Webtoon dan Eksperimen Genre
 
-Selamat datang di fase paling dinamis dalam sejarah drama Korea! Jika sebelumnya K-Drama identik dengan romansa manis dan melodrama yang menguras air mata, era sekarang telah bergeser ke wilayah yang lebih berani, gelap, dan imajinatif.
+Drama Korea kini semakin sering diadaptasi dari webtoon dan mencoba genre yang dulu jarang disentuh penulis naskah televisi. Jika sebelumnya K-Drama identik dengan romansa manis dan melodrama yang menguras air mata, era sekarang telah bergeser ke wilayah yang lebih berani, gelap, dan imajinatif.
 
 Di bab ini, kita akan membedah bagaimana webtoon menjadi "tambang emas" ide segar. Kita juga akan melihat bagaimana eksperimen genre seperti *thriller*, horor, dan *sci-fi* berhasil mengubah wajah industri hiburan Korea di mata dunia.
 

@@ -43,9 +43,9 @@ Di mana:
 - $\text{K}\_s$: Kualitas Sinematik
 - $\text{D}\_g$: Distribusi Global
 - $\text{K}\_k$: Kebebasan Kreatif
-- $\text{A}\_u$: Anggaran Tanpa Batas
+- $\text{A}\_u$: Anggaran
 
-Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar 1,78 juta dolar AS (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang sangat detail, CGI zombie yang realistis, dan sinematografi kelas dunia.
+Sebagai contoh, drama **"Kingdom" (2019)** menghabiskan sekitar 1,78 juta dolar AS (sekitar Rp27 miliar) **per episode**. Anggaran ini digunakan untuk desain kostum era Joseon yang detail, CGI zombie yang realistis, dan sinematografinya.
 
 ### 4. Perubahan Model Narasi dari Cliffhanger ke Binge-Watching
 
