@@ -14,7 +14,7 @@ $$
 \text{Resiliensi} = \frac{\text{Pola Pikir Adaptif} + \text{Dukungan Sosial}}{\text{Tingkat Tekanan}}
 $$
 
-Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi tetap terjaga.
+Meskipun kita tidak selalu bisa mengendalikan "Tingkat Tekanan", kita punya kendali penuh untuk memperkuat pembilang (Pola Pikir dan Dukungan) agar resiliensi terjaga.
 
 #### Tiga Pilar Ketangguhan Mental
 
@@ -43,7 +43,7 @@ Konsep dari Carol Dweck ini menekankan bahwa kecerdasan dan kemampuan bukanlah b
 
 #### B. Mempraktikkan Self-Compassion (Welas Asih Diri)
 
-Banyak orang gagal membangun resiliensi karena bersikap terlalu kejam pada diri sendiri. Padahal, resiliensi membutuhkan energi, dan kritik diri yang berlebihan justru menguras energi itu.
+Banyak orang gagal membangun resiliensi karena bersikap terlalu kejam pada diri sendiri. Padahal, resiliensi membutuhkan energi, dan kritik diri yang berlebihan menguras energi itu.
 
 - Bayangkan kamu sedang berbicara dengan sahabat yang sedang terpuruk. Apakah kamu akan memaki mereka? Tenu tidak. Terapkan kebaikan yang sama pada dirimu sendiri.
 
@@ -69,7 +69,7 @@ Reframing adalah teknik kognitif untuk mengubah sudut pandang kita dalam melihat
 3. **Tindakan Kecil (Micro-Action):** Andi tidak langsung terburu-buru membangun bisnis baru. Ia mengambil langkah kecil: mengikuti kursus sertifikasi untuk meningkatkan keahlian yang dirasa masih kurang.
 4. **Membangun Relasi (Networking):** Ia mulai berdiskusi dengan mentor tentang kegagalan tersebut. Dari sana, ia menyadari bahwa hampir semua orang sukses pernah melewati fase serupa.
 
-**Hasil:** Enam bulan kemudian, Andi tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut justru memberinya sudut pandang unik dalam mengelola risiko.
+**Hasil:** Enam bulan kemudian, Andi tidak hanya berhasil bangkit, tetapi juga mendapatkan posisi manajerial di perusahaan besar. Pengalaman kegagalan tersebut memberinya sudut pandang unik dalam mengelola risiko.
 
 ### 6. Membangun "Tas Darurat Mental"
 
