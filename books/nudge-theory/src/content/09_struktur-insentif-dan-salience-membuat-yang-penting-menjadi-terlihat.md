@@ -91,7 +91,7 @@ Tujuanmu adalah membuat pengemudi berkendara lebih hemat energi. Jika kamu hanya
 
 ## 6. Mengamati Sekitar
 
-Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Perhatikan bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
+Coba buka salah satu aplikasi kesehatan atau keuangan di ponselmu. Cermati bagaimana mereka menyajikan data: apakah berupa deretan angka kecil yang membosankan, atau grafik mencolok yang langsung memperingatkanmu saat melampaui batas? Amati elemen mana yang paling berhasil memicu tindakanmu.
 
 > **Pesan Utama:** Jika kamu ingin mempermudah suatu tindakan, buatlah manfaatnya terlihat mencolok secara instan. Sebaliknya, jika ingin mencegah tindakan tersebut, buat hambatan atau biayanya tampak menonjol dan nyata di depan mata.
 

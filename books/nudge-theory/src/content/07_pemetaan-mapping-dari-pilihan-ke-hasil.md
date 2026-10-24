@@ -61,7 +61,7 @@ Banyak orang kebingungan mengambil keputusan karena tidak bisa memprediksi seber
 
 ### Dashboard Kendaraan Listrik
 
-Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Perhatikan bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
+Dalam dunia teknik dan desain produk, pemetaan memegang peran yang sangat penting. Lihat bagaimana Tesla atau Hyundai Ioniq memetakan sisa baterai:
 
 - **Data Mentah:** Indikator menuliskan "Baterai sisa 15%". Pengemudi sering kali bingung apakah energi ini cukup untuk sampai ke tujuan.
 - **Mapping yang Baik:** Layar menunjukkan "Baterai cukup untuk 42 km lagi, sementara stasiun pengisian terdekat berjarak 12 km."
