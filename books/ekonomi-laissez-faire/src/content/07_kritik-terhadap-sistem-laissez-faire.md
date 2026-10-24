@@ -1,6 +1,6 @@
 ## Kritik terhadap Sistem Laissez-faire
 
-Sistem **Laissez-faire** sering digambarkan sebagai sebuah simfoni ekonomi yang sempurna, di mana setiap individu yang mengejar kepentingan pribadi secara otomatis akan menciptakan kesejahteraan bagi masyarakat luas. Namun, dalam praktiknya, simfoni ini sering kali menghasilkan nada-nada sumbang.
+Sistem **Laissez-faire** sering digambarkan sebagai sebuah simfoni ekonomi yang sempurna, tempat setiap individu mengejar kepentingan pribadinya. Dari situ, kesejahteraan bagi masyarakat luas dianggap tercipta secara otomatis. Namun, dalam praktiknya, simfoni ini sering kali menghasilkan nada-nada sumbang.
 
 Meskipun prinsip "biarkan terjadi" (Laissez-faire) menawarkan kebebasan luar biasa, para kritikus berpendapat bahwa tanpa aturan main dan wasit yang tegas, yaitu pemerintah, pasar bebas dapat berubah menjadi arena yang merusak. Bagian ini akan mengupas sisi gelap dari kebebasan pasar tanpa batas.
 

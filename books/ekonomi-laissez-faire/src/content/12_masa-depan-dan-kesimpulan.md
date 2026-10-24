@@ -1,6 +1,6 @@
 ## Masa Depan dan Kesimpulan
 
-Setelah menelusuri perjalanan panjang dari akar filosofis kaum Fisiokrat hingga implementasi neoliberal di era modern, kita sampai pada babak akhir: memahami apa yang tersisa dari **Laissez-faire** dan ke mana arahnya di masa depan.
+Kita sudah menelusuri perjalanan panjang dari akar filosofis kaum Fisiokrat hingga implementasi neoliberal di era modern. Kini kita sampai pada babak akhir: memahami apa yang tersisa dari **Laissez-faire** dan ke mana arahnya di masa depan.
 
 Bagian ini tidak hanya menutup diskusi kita, tetapi juga membuka cakrawala tentang bagaimana prinsip "biarkan terjadi" beradaptasi dengan tantangan abad ke-21 seperti kecerdasan buatan, krisis iklim, dan ekonomi digital.
 
