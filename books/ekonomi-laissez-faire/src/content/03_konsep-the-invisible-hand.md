@@ -25,7 +25,7 @@ Secara tidak sengaja, keinginan si tukang roti untuk mencari keuntungan justru m
 
 Tangan tak terlihat bukanlah kekuatan gaib, melainkan kombinasi dari dua kekuatan pasar utama: **Kepentingan Pribadi** dan **Persaingan**.
 
-#### A. Sinyal Harga sebagai Kompas
+#### A. Harga sebagai Sinyal
 
 Dalam sistem Laissez-faire, harga adalah bahasa yang digunakan pasar untuk berkomunikasi.
 

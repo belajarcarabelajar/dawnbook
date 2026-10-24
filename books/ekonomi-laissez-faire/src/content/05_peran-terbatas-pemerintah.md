@@ -12,7 +12,7 @@ Dalam tradisi *Laissez-faire*, pemerintah sering disebut sebagai **Minarkis** at
 
 Jika pemerintah melampaui batas ini, misalnya dengan mengatur harga atau mensubsidi industri tertentu, hal itu dianggap sebagai distorsi yang merusak efisiensi alami pasar.
 
-### Tiga Pilar Fungsi Utama Pemerintah
+### Tiga Tugas Utama Pemerintah
 
 Adam Smith, dalam bukunya *The Wealth of Nations*, menguraikan tiga tugas spesifik yang penting namun terbatas bagi pemerintah. Berikut adalah rinciannya:
 
@@ -66,7 +66,7 @@ Meskipun saat ini jarang ada negara yang menerapkan *Laissez-faire* murni, prins
 - **Sistem Pengadilan Niaga:** Di negara-negara maju, fokus utama pemerintah dalam ekonomi adalah mempercepat penyelesaian sengketa bisnis melalui pengadilan yang independen, agar modal tidak macet karena ketidakpastian hukum.
 - **Penyediaan Standar Berat dan Ukuran:** Agar transaksi adil, pemerintah memastikan bahwa 1 kilogram di pasar A sama dengan 1 kilogram di pasar B. Ini adalah peran infrastruktur informasi yang mendasar.
 
-### Ringkasan Batasan Pemerintah
+### Fungsi yang Boleh dan Tidak Boleh
 
 | Fungsi | Boleh Dilakukan? | Alasan |
 | --- | --- | --- |

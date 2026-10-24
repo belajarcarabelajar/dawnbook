@@ -63,7 +63,7 @@ Untuk memahami peran pemerintah dalam sistem Laissez-faire, mari gunakan analogi
 
 > *Dalam Laissez-faire, pemerintah adalah sang wasit, bukan sang pelatih.*
 
-## 5. Aplikasi Dunia Nyata & Skenario
+## 5. Contoh Penerapan di Kebijakan Tertentu
 
 Meskipun saat ini hampir tidak ada negara yang menerapkan Laissez-faire 100%, prinsip-prinsipnya sering muncul dalam kebijakan tertentu.
 

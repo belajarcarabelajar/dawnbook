@@ -20,7 +20,7 @@ Quesnay, sebagai seorang dokter, melihat ekonomi seperti sistem peredaran darah 
 
 > "Dunia berjalan dengan sendirinya." - Pesan inti kaum Fisiokrat yang menentang intervensi pemerintah yang berlebihan.
 
-## 2. Adam Smith dan Revolusi "The Wealth of Nations" (1776)
+## 2. Adam Smith dan "The Wealth of Nations" (1776)
 
 Fisiokrat merintis gagasan ini, lalu **Adam Smith** menyusunnya menjadi sistem yang utuh. Melalui bukunya, *An Inquiry into the Nature and Causes of the Wealth of Nations*, Smith mengubah arah pemikiran ekonomi.
 

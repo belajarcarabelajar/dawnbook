@@ -4,7 +4,7 @@ Kita sudah menelusuri perjalanan panjang dari akar filosofis kaum Fisiokrat hing
 
 Bagian ini tidak hanya menutup diskusi kita, tetapi juga membahas bagaimana prinsip "biarkan terjadi" beradaptasi dengan tantangan abad ke-21 seperti kecerdasan buatan, krisis iklim, dan ekonomi digital.
 
-## 1. Rangkuman Warisan
+## 1. Warisan Laissez-faire
 
 Laissez-faire telah memengaruhi struktur masyarakat modern. Warisannya lebih dari sekadar angka pertumbuhan, melainkan pergeseran mendasar dalam cara manusia memandang kebebasan dan tanggung jawab.
 
@@ -48,11 +48,11 @@ Mata uang kripto adalah eksperimen Laissez-faire paling murni di abad ini. Tanpa
 
 - ***Real-world Use Case*:** Protokol peminjaman digital yang menggunakan *smart contracts* memungkinkan orang meminjam uang tanpa campur tangan bank tradisional, murni berdasarkan agunan digital dan mekanisme pasar otomatis.
 
-### B. Ekonomi *Gig* dan Platform Merdeka
+### B. Platform Ekonomi *Gig*
 
 Platform seperti Uber, Gojek, atau Upwork menciptakan pasar tenaga kerja yang fleksibel. Ini adalah pasar bebas tenaga kerja di mana harga ditentukan secara *real-time* oleh algoritma, mencerminkan keseimbangan instan antara penyedia jasa dan pelanggan.
 
-## 4. Tantangan dan Adaptasi bagi "Laissez-faire Hijau"?
+## 4. Tantangan Perubahan Iklim
 
 Masa depan Laissez-faire akan bergantung pada kemampuannya menjawab tantangan eksternalitas, terutama perubahan iklim.
 
@@ -64,7 +64,7 @@ Kita akan melihat transisi menuju *Market-Based Solutions* untuk masalah lingkun
 - **Pajak Karbon dan Perdagangan Emisi:** Menggunakan mekanisme harga untuk mengurangi polusi, bukannya sekadar larangan pemerintah.
 - **Harapan pada Inovasi Teknologi:** Keyakinan bahwa pasar akan menciptakan teknologi hijau yang lebih murah daripada energi fosil karena tuntutan efisiensi.
 
-## 5. Sintesis yang Dinamis
+## 5. Laissez-faire yang Berubah Bentuk
 
 Ekonomi Laissez-faire tidak hilang; ia berubah bentuk. Prinsip yang dirumuskan para ekonom abad ke-18 kini muncul dalam kode perangkat lunak di Silicon Valley dan kebijakan pajak di ibu kota negara.
 

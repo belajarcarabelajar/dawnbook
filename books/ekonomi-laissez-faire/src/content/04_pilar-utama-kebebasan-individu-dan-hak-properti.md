@@ -57,7 +57,7 @@ $$
 
 > **Bahan Pemikiran:** Apakah sebuah kontrak benar-benar bebas jika salah satu pihak menghadapi keterbatasan pilihan? Pendukung Laissez-faire berpendapat bahwa intervensi pemerintah justru mempersempit pilihan tersebut di masa depan.
 
-### 3. Sinergi Dua Pilar
+### 3. Kedua Pilar Bekerja Bersama
 
 Hak properti dan kebebasan berkontrak bekerja secara simbiotis. Mari kita lihat alurnya dalam skenario dunia nyata:
 

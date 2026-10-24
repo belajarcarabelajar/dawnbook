@@ -2,7 +2,7 @@
 
 Dalam sistem ekonomi Laissez-faire, persaingan bukanlah sebuah kekacauan, melainkan proses yang tertib. Tanpa adanya pengatur pusat (pemerintah), pasar mengandalkan kompetisi antarindividu dan perusahaan untuk menentukan siapa yang paling mampu memberikan nilai terbaik. Dalam pandangan ini, persaingan di pasar bebas menjadi kunci kemakmuran masyarakat.
 
-## Persaingan sebagai Mesin Penggerak Inovasi
+## Persaingan Antarprodusen
 
 Bayangkan sebuah perlombaan lari tanpa garis finis. Setiap pelari harus terus berlari lebih cepat karena jika mereka melambat, pelari lain akan menyalip dan mengambil hadiahnya. Itulah esensi persaingan dalam ekonomi Laissez-faire.
 
@@ -35,7 +35,7 @@ Persaingan memicu apa yang disebut para ekonom sebagai "penghancuran kreatif". P
 
 > *Mengapa ponsel pintar hari ini jauh lebih canggih namun relatif lebih terjangkau dibandingkan komputer raksasa pada tahun 1970-an? Jawabannya bukan karena kemurahan hati produsen, melainkan karena rasa takut mereka akan tertinggal oleh pesaing yang lebih inovatif.*
 
-## Bagaimana Konsumen Menjadi Pemenang Utama
+## Keuntungan bagi Konsumen
 
 Sering kali muncul kekhawatiran bahwa tanpa campur tangan pemerintah, perusahaan akan menindas konsumen. Namun, teori Laissez-faire berpendapat sebaliknya: di pasar bebas berlaku **Kedaulatan Konsumen**, yaitu konsumen yang menentukan arah pasar.
 
@@ -68,7 +68,7 @@ $$
 
 Artinya, **Harga ($P$)** yang dibayar konsumen sama dengan **Biaya Marjinal ($\text{MC}$)** untuk memproduksi unit terakhir barang tersebut. Ini adalah titik di mana kesejahteraan sosial maksimal tercapai secara alami.
 
-## Revolusi Industri Digital
+## Dari SMS ke Aplikasi Pesan
 
 Mari kita lihat fenomena industri perangkat lunak (*software*) dan aplikasi ponsel saat ini sebagai cerminan prinsip Laissez-faire pada area yang minim regulasi berat.
 
@@ -87,7 +87,7 @@ Mari kita lihat fenomena industri perangkat lunak (*software*) dan aplikasi pons
 
 Tanpa adanya persaingan bebas yang mendorong inovasi ini, kita mungkin masih akan terjebak membayar ribuan rupiah untuk satu pesan teks pendek.
 
-## Filter Alami Bernama Persaingan
+## Persaingan Menyaring Perusahaan
 
 Mekanisme persaingan dalam ekonomi Laissez-faire bertindak sebagai filter alami. Ia menyaring perusahaan yang tidak efisien dan memberikan penghargaan kepada mereka yang inovatif. Hasil akhirnya bukanlah kekacauan, melainkan sistem yang secara otomatis mengarahkan energi individu yang berorientasi pada kepentingan diri menuju satu tujuan: **menyediakan barang terbaik dengan harga terendah bagi masyarakat luas.**
 

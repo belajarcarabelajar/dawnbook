@@ -4,7 +4,7 @@ Jika pada bagian sebelumnya kamu telah mempelajari teori **Laissez-faire**, seka
 
 Bayangkan sebuah arena balap tanpa wasit, di mana setiap pembalap bebas memodifikasi mesinnya sekuat mungkin. Itulah gambaran ekonomi di Inggris dan Amerika Serikat pada abad ke-19. Tanpa regulasi yang menghambat, masa itu ditandai lonjakan inovasi dan akumulasi kekayaan yang besar.
 
-## 1. Inggris sebagai Episentrum Laissez-faire Dunia
+## 1. Laissez-faire di Inggris
 
 Inggris adalah negara pertama yang menganut prinsip **Laissez-faire**. Transisi dari sistem **Merkantilisme** (saat pemerintah mengontrol ketat perdagangan) menuju pasar bebas dimulai berkat pengaruh pemikiran Adam Smith.
 
@@ -15,7 +15,7 @@ Salah satu momen penting dalam penerapan Laissez-faire adalah penghapusan **Corn
 - **Penerapan:** Para pendukung pasar bebas berargumen bahwa perdagangan bebas akan menurunkan harga makanan bagi pekerja industri.
 - **Hasil:** Inggris beralih menjadi negara industri murni, mengimpor makanan murah dan mengekspor barang manufaktur. Ini menjadi bukti nyata teori keunggulan komparatif.
 
-### Revolusi Tekstil dan Efisiensi
+### Mekanisasi Industri Tekstil
 
 Tanpa adanya aturan mengenai standar produksi atau upah minimum, pengusaha Inggris berlomba-lomba melakukan mekanisasi massal.
 
@@ -25,7 +25,7 @@ Tanpa adanya aturan mengenai standar produksi atau upah minimum, pengusaha Inggr
 
 Di seberang Atlantik, Amerika Serikat menerapkan Laissez-faire dengan gaya yang lebih agresif, terutama setelah Perang Saudara (pasca-1865). Periode ini dikenal sebagai era **Gilded Age**.
 
-### Dinasti Industrial (The Robber Barons)
+### Para Taipan Industri (The Robber Barons)
 
 Tanpa intervensi pemerintah dalam bentuk pajak pendapatan atau undang-undang anti-monopoli pada awalnya, muncullah raksasa industri seperti:
 
@@ -43,7 +43,7 @@ Meskipun pemerintah memberikan hibah tanah, operasi dan pengembangan jalur keret
 
 Penerapan Laissez-faire selama Revolusi Industri bak pedang bermata dua. Berikut perbandingan dampaknya:
 
-| Kategori | Sisi Terang (Kemajuan Pesat) | Sisi Gelap (Biaya Sosial) |
+| Kategori | Kemajuan | Biaya Sosial |
 | :--- | :--- | :--- |
 | **Teknologi & Produksi** | Penemuan mesin uap, telegraf, dan listrik didorong oleh motif laba. | Standar keselamatan kerja belum ada, risiko kecelakaan sangat tinggi. |
 | **Ekonomi & Modal** | Produk Domestik Bruto (**PDB**) per kapita melonjak secara pesat. | Kekayaan terkonsentrasi pada 1% populasi (*Gilded Age*). |

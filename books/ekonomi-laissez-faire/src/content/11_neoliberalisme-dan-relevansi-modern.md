@@ -4,7 +4,7 @@ Setelah memahami fondasi klasik **Laissez-faire**, kita kini sampai pada babak m
 
 Dalam bagian ini, kita akan mengevaluasi bagaimana prinsip-prinsip kebebasan pasar bangkit kembali dan mendominasi kebijakan ekonomi global sejak akhir abad ke-20 hingga hari ini.
 
-## 1. Apa Itu Neoliberalisme? (Laissez-faire 2.0)
+## 1. Apa Itu Neoliberalisme?
 
 Secara sederhana, **neoliberalisme** adalah kebangkitan kembali ide-ide ekonomi pasar bebas abad ke-19. Konsep ini tidak sebatas membiarkan pasar berjalan sendiri, melainkan sebuah rancangan terencana untuk membentuk masyarakat di mana **persaingan** menjadi pengatur utama aktivitas manusia.
 

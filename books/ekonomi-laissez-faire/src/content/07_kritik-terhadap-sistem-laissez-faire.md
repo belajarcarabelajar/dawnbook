@@ -18,7 +18,7 @@ Bayangkan kamu bermain papan permainan *Monopoly*. Pada awalnya, semua orang mem
 - **Inovasi Terhenti:** Jika tidak ada ancaman dari pesaing, perusahaan tidak memiliki insentif untuk memperbaiki produk.
 - **Hambatan Masuk:** Perusahaan raksasa dapat menggunakan kekuatannya untuk mencegah pemain baru (startup) masuk ke pasar.
 
-## 2. Ketimpangan Ekonomi yang Ekstrem
+## 2. Ketimpangan Ekonomi
 
 Kritik utama terhadap Laissez-faire adalah kecenderungannya untuk memperlebar jurang antara si kaya dan si miskin. Dalam sistem ini, modal cenderung mengalir kepada mereka yang sudah memilikinya.
 
