@@ -16,7 +16,7 @@ Inilah alasan kenapa tekad sekeras apa pun sering kalah. Kamu sedang melawan buk
 
 Psikolog Wendy Wood bersama koleganya, Lee Tam dan Melissa Guerrero Witt, menguji ide ini pada tahun 2005 lewat studi terhadap mahasiswa yang pindah universitas. Logikanya sederhana: kalau kebiasaan benar-benar digerakkan oleh konteks, maka mengganti konteks harus melemahkan kebiasaan lama. Dan persis itulah yang mereka temukan. Mahasiswa yang pindah ke lingkungan baru kehilangan daya dorong kebiasaan lamanya; pada mereka, perilaku harian tidak lagi mengikuti pola otomatis dari masa lalu, melainkan diarahkan oleh niat. Ketika rangkaian pemicu di sekitar seseorang terputus, kebiasaan lama kehilangan bahan bakarnya, dan suara niat yang selama ini tertelan akhirnya terdengar lagi.
 
-Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellette dan Wendy Wood pada 1998, yang menyimpulkan bahwa perilaku lampau paling kuat memprediksi perilaku masa depan ketika konteks hidup seseorang stabil. Sebaliknya, saat konteks tidak stabil, yang kembali dominan justru niat dan pertimbangan sadar. Dengan kata lain, konteks yang tetap sama adalah bahan bakar kebiasaan, dan pergantian konteks adalah sirminya.
+Temuan ini bukan anomali. Ia konsisten dengan tinjauan besar dari Judith Ouellette dan Wendy Wood pada 1998, yang menyimpulkan bahwa perilaku lampau paling kuat memprediksi perilaku masa depan ketika konteks hidup seseorang stabil. Sebaliknya, saat konteks tidak stabil, yang kembali dominan justru niat dan pertimbangan sadar. Dengan kata lain, konteks yang tetap sama adalah bahan bakar kebiasaan, dan pergantian konteks memutus pasokannya.
 
 > Ada ironi yang perlu kamu cerna: hal yang biasanya terasa seperti keterpaksaan, seperti pindah kota demi kerja atau kampus demi kuliah, ternyata jadi salah satu momen paling berharga untuk membentuk ulang diri. Kesempatan itu datang sendiri tanpa diminta, dan kebanyakan orang membiarkannya lewat begitu saja.
 
@@ -34,11 +34,8 @@ Ini bukan sekadar trik kenyamanan. Kebiasaan adalah respons otomatis yang dipicu
 
 ## Poin Penting
 
-- Pemicu kebiasaan bekerja berlapis: tempat, waktu, orang, dan aksi sebelumnya, saling menguatkan sehingga satu kebiasaan punya banyak cadangan pemicu.
-- Studi Wood, Tam, dan Guerrero Witt (2005) menunjukkan mahasiswa yang pindah universitas kehilangan daya dorong kebiasaan lama, dan perilaku mereka justru diarahkan oleh niat.
-- Tinjauan Ouellette dan Wood (1998) menegaskan polanya: dalam konteks hidup yang stabil, perilaku lampau paling kuat memprediksi masa depan; dalam konteks yang berubah, niat kembali dominan.
-- Eksperimen lapangan Verplanken dan Roy (2016) dengan 800 peserta mendukung habit discontinuity hypothesis: intervensi perubahan perilaku lebih efektif saat diberikan dalam momen perubahan hidup.
-- Jendela itu sempit: efeknya memudar seiring kebiasaan baru terbentuk dan rutinitas mengeras, jadi momen perubahan harus dipakai cepat sebelum pemicu baru menumpuk.
-- Tanpa perpindahan besar, kamu tetap bisa merekayasa konteks kecil: atur ulang meja, ganti rute, atau ubah urutan pagi untuk memutus asosiasi lama.
+- Pemicu kebiasaan bekerja berlapis: tempat, waktu, orang, dan aksi sebelumnya saling menguatkan, sehingga satu kebiasaan punya banyak cadangan pemicu.
+- Mahasiswa yang pindah universitas dalam studi Wood, Tam, dan Guerrero Witt (2005) kehilangan daya dorong kebiasaan lama, dan perilaku mereka diarahkan oleh niat.
+- Intervensi perubahan perilaku lebih efektif saat diberikan dalam momen perubahan hidup (Verplanken dan Roy, 2016), dan tanpa perpindahan besar kamu masih bisa merekayasa konteks kecil: mengatur ulang meja, mengganti rute, atau mengubah urutan pagi.
 
-Masih ada satu pertanyaan yang menggantung: kalau perpindahan konteks itu begitu ampuh, apakah kamu harus menunggu keajaiban pindah kota untuk berubah? Ternyata tidak. Bab berikutnya membahas bagaimana kamu bisa memilih dan menandai momen mulai secara sengaja, lewat apa yang para peneliti sebut efek fresh start.
+Kalau perpindahan konteks begitu ampuh, apakah kamu harus menunggu keajaiban pindah kota untuk berubah? Ternyata tidak, karena momen mulai juga bisa kamu pilih dan tandai dengan sengaja.
