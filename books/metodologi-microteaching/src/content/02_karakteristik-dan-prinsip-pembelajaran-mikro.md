@@ -1,6 +1,6 @@
 ## Karakteristik dan Prinsip Pembelajaran Mikro
 
-Selamat datang di inti dari metodologi *microteaching*! Jika pada bagian sebelumnya kita telah memahami filosofi dan sejarahnya, sekarang kita akan melihat cara kerja pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
+Filosofi dan sejarah *microteaching* sudah kita pahami, jadi sekarang saatnya melihat intinya: cara kerja pembelajaran mikro. Mengapa metode ini dianggap sebagai cara paling efektif untuk melatih calon guru? Jawabannya terletak pada satu kata kunci: **Penyederhanaan**.
 
 Bayangkan seorang calon pilot. Sebelum ia dipercaya menerbangkan pesawat komersial dengan 300 penumpang melintasi samudera, ia harus menghabiskan ratusan jam di dalam sebuah **Flight Simulator**. Di sana, variabel cuaca, kontrol mesin, dan navigasi bisa diatur dan disederhanakan.
 

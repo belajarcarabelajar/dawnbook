@@ -1,6 +1,6 @@
 ## Pelaksanaan Simulasi Mengajar
 
-Selamat datang di inti dari metodologi microteaching! Jika bagian sebelumnya adalah tentang persiapan dan perencanaan, maka bagian ini adalah tentang **eksekusi**. Di sinilah teori bertemu dengan praktik.
+Inti metodologi microteaching ada pada **eksekusi**, tahap yang datang setelah persiapan dan perencanaan di bagian sebelumnya. Di sinilah teori bertemu dengan praktik.
 
 Bayangkan simulasi mengajar seperti sebuah pertunjukan teater pendek. Kamu hanya memiliki waktu singkat, audiens yang terbatas, namun harus menyampaikan pesan yang mendalam. Keberhasilan kamu tidak hanya ditentukan oleh apa yang kamu katakan, tetapi bagaimana kamu mengatakannya, bagaimana tubuh kamu bergerak, dan bagaimana kamu memakai waktu yang tersedia.
 

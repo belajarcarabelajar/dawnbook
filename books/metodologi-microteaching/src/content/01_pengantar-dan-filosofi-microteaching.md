@@ -1,6 +1,6 @@
 ## Pengantar dan Filosofi Microteaching
 
-Selamat datang di langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang kini dipakai dalam pendidikan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
+Langkah pertama kamu untuk menjadi pendidik yang inspiratif dan kompeten dimulai dari fondasi metodenya, bukan dari teknik mengajar. Sebelum kita masuk ke teknis penyusunan rencana pembelajaran atau teknik bertanya, kita perlu memahami fondasi utama dari metode yang kini dipakai dalam pendidikan guru di seluruh dunia: **Microteaching** (Pembelajaran Mikro).
 
 ## Apa itu Microteaching?
 
