@@ -14,10 +14,10 @@ Keterbatasan material dan himpitan ekonomi digambarkan secara realistis melalui 
 
 Kenangan masa kecil ini terekspresikan sebagai pondasi ketangguhan mental Iwan dalam menghadapi kerasnya tantangan hidup di masa dewasa.
 
-### Keterbatasan Fisik sebagai Bahan Bakar Mimpi
+### Keterbatasan Fasilitas yang Memicu Tekad
 
 Melalui telaah biografis terhadap bab masa kecil Iwan, kita melihat bagaimana keterbatasan fasilitas belajar fisik (seperti belajar di bawah redupnya lampu minyak petromaks di Batu) dieksploitasi oleh pengarang untuk memvalidasi dorongan psikologisnya. Keterbatasan ruang tidur dan mainan tidak diekspresikan sebagai trauma yang melumpuhkan, melainkan secara ekspresif didefinisikan kembali oleh penulis sebagai 'bahan bakar' yang memicu tekad kuat untuk mengeluarkan keluarganya dari kemiskinan.
 
-### Dari Masa Kecil ke Sosok Inspirator Terbesar
+### Dari Masa Kecil ke Teladan Orang Tua
 
 Pengalaman masa kecil yang prihatin namun tangguh ini tidak lepas dari bimbingan dan teladan orang tua. Dalam bab selanjutnya, kita akan melihat lebih dekat bagaimana sosok Bapak dan Ibu bertransformasi menjadi inspirasi terbesar bagi perjalanan karir dan karya sastra Iwan Setyawan.

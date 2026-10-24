@@ -2,7 +2,7 @@
 
 Bagaimana sebuah ruang geografis membentuk batin manusia? Dalam novel *9 Summers 10 Autumns*, unsur latar (spasial, temporal, dan sosiopsikologis) tidak sekadar berfungsi sebagai dekorasi atau tempat peristiwa berlangsung. Latar berfungsi sebagai cerminan sekaligus pembentuk dinamika psikologis tokoh utama, dari kesederhanaan masa kecil hingga kesepian di kota megapolitan.
 
-### Latar dari Kota Apel hingga Belantara Beton
+### Latar dari Kota Batu hingga New York
 
 Latar (*setting*) adalah elemen dasar dalam struktur naratif yang memberikan ruang, waktu, dan suasana bagi berjalannya peristiwa. Menurut teori sastra, latar memiliki fungsi mendasar untuk menciptakan efek realitas (*verisimilitude*) bagi pembaca, seolah-olah mereka ikut mengalami dan hidup di dalam peristiwa tersebut.
 
@@ -43,7 +43,7 @@ Untuk memahami kontras spasial ini secara lebih terstruktur, berikut perbandinga
 
 | Dimensi Latar | Kota Batu, Malang | New York City, AS |
 | :--- | :--- | :--- |
-| **Kondisi Geografis** | Pegunungan dingin di kaki Gunung Panderman, alami, tenang. | Belantara beton Manhattan yang bising, padat, megah. |
+| **Kondisi Geografis** | Pegunungan dingin di kaki Gunung Panderman, alami, tenang. | Kawasan Manhattan yang bising, padat, megah. |
 | **Interaksi Sosial** | Kolektif, hangat, didominasi ikatan erat keluarga. | Individualistis, transaksional, berjarak. |
 | **Status Ekonomi** | Kemiskinan kelas pekerja (anak sopir angkot). | Kemapanan kelas atas (direktur riset korporat). |
 | **Efek Psikologis** | Rasa aman (*belonging*) meskipun serba terbatas. | Kesepian eksistensial (*alienation*) di tengah kemewahan. |
@@ -54,6 +54,6 @@ Kontras ini menjadi sumber utama konflik batin tokoh Iwan. Keberadaannya di New 
 
 *Bagaimana latar sosial kemiskinan di Kota Batu di tahun 1970-an membentuk cara pandang Iwan terhadap nilai sebuah materi atau uang ketika ia sudah hidup berkecukupan di New York? Apakah kemakmuran finansial melunturkan nilai-nilai moral kesederhanaan yang diajarkan oleh ibunya?*
 
-### Kontras Latar yang Dituturkan secara Estetis
+### Pilihan Kata yang Membedakan Kedua Latar
 
 Latar tempat dan suasana yang kontras tersebut diekspresikan secara estetis lewat pilihan kata yang khas.

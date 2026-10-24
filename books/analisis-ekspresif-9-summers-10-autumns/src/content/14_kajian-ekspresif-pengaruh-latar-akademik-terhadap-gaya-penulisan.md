@@ -27,7 +27,7 @@ Gaya penulisan ini mencerminkan kejiwaan pengarang yang terbiasa dengan akurasi,
 
 Dalam studi stilistika kuantitatif, novel ini secara konsisten memadukan logika matematika dan kepekaan puitis. Pengarang menyajikan angka luas tanah rumahnya yang berukuran $6 \times 7$ meter dengan harga Rp40.000 (Hlm. 35) dan ranjang bambu berukuran $0{,}5 \times 1{,}5$ meter (Hlm. 9) bukan hanya sebagai data kering. Angka-angka ini digunakan untuk menunjukkan secara konkret seberapa terbatas ruang hidup mereka di masa lalu, yang kemudian berkaitan dengan rasa syukur penulis di masa kini.
 
-### Logika Data yang Menjadi Puitis
+### Statistika di Balik Karya yang Emosional
 
 *Mengapa latar belakang pendidikan sains atau kuantitatif seperti Statistika tetap dapat melahirkan karya sastra yang emosional dan menyentuh hati? Bagaimana logika data dapat memperkuat kebenaran artistik dalam sebuah tulisan?*
 

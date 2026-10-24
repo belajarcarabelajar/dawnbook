@@ -22,6 +22,6 @@ Analisis stilistika dalam novel ini menunjukkan penggunaan majas personifikasi d
 
 *Bagaimana penggunaan sudut pandang orang pertama ('Aku') membantu penulis mengekspresikan trauma dan pergulatan batinnya secara lebih jujur dibandingkan jika ia menggunakan sudut pandang orang ketiga?*
 
-### Menghubungkan Karya dan Jiwa
+### Menghubungkan Cerita dan Emosi Pengarang
 
 Analisis struktural kita kini telah lengkap. Saatnya melangkah ke inti kritik sastra ekspresif dengan menghubungkan langsung elemen-elemen cerita ini dengan luapan emosi personal pengarang.

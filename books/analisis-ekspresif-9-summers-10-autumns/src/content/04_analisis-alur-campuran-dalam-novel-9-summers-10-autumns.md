@@ -26,6 +26,6 @@ flowchart LR
     BATU -->|"alur maju, proses anak sopir angkot"| NY
 ```
 
-### Memahami Sang Pelaku Cerita
+### Pelaku Cerita yang Menggerakkan Alur
 
 Aliran waktu yang dinamis dalam alur campuran ini digerakkan oleh para pelaku cerita.

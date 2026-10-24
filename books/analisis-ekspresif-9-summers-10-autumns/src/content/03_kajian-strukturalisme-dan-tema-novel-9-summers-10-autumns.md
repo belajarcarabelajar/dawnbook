@@ -14,7 +14,7 @@ Unsur intrinsik adalah unsur pembangun yang menyebabkan karya sastra itu hadir d
 
 | Unsur Intrinsik | Peran dalam Struktur Naratif | Manifestasi dalam Novel |
 | :--- | :--- | :--- |
-| **Tema** | Ide sentral yang menjadi jangkar seluruh peristiwa. | Pendidikan sebagai tangga sosial dan kekuatan cinta keluarga. |
+| **Tema** | Ide sentral yang mendasari seluruh peristiwa. | Pendidikan sebagai tangga sosial dan kekuatan cinta keluarga. |
 | **Tokoh & Penokohan** | Pelaku cerita beserta perwatakan fiktifnya. | Tokoh Iwan yang gigih, Bapak yang tangguh, Ibu yang bijaksana. |
 | **Alur (Plot)** | Rantai peristiwa yang dihubungkan sebab-akibat. | Alur campuran (maju-mundur) dari New York ke Kota Batu. |
 | **Latar (Setting)** | Dimensi spasial, temporal, dan sosiopsikologis. | Kontras spasial antara Batu (Malang) dan Manhattan (New York). |
