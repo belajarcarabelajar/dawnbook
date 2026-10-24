@@ -88,7 +88,7 @@ Kata sapaan *"Bu"* di awal kalimat berfungsi sebagai pemutus alur wacana guru (*
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 7
+### Sapaan yang Mengatur Giliran Bicara
 
 Penggunaan kata sapaan dalam interaksi kelas sekolah dasar merupakan instrumen kebahasaan yang efektif untuk mengarahkan alur topik dan mengelola tata tertib komunikasi. Kata sapaan kolektif membangun kebersamaan dan membuka topik baru, sementara sapaan individual mengalokasikan giliran bicara serta menegaskan fokus pemahaman. Di sisi lain, tata cara siswa menyapa guru mencerminkan kesantunan dan norma penghormatan dalam wacana pedagogi.
 

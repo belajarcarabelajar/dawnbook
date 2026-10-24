@@ -46,7 +46,7 @@ Beri kesempatan kepada siswa untuk mengajukan pertanyaan di tengah pembelajaran.
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 11
+### Langkah Kecil Besok Pagi
 
 1. **Refleksi Utama**: Setelah mempelajari temuan dominasi wacana ini, bagaimana kamu menilai suasana pembicaraan di kelasmu sendiri selama ini?
 2. **Penerapan Praktis**: Langkah kecil apa yang akan kamu ambil besok pagi untuk memberikan porsi ruang bicara yang lebih besar bagi siswamu?

@@ -79,9 +79,9 @@ Untuk membangun suasana kelas yang lebih interaktif dan inklusif, kamu dapat mem
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi
+### Menimbang Kendali Guru atas Topik
 
-#### Rangkuman Konsep
+#### Konsep Pokok Wacana Pedagogi
 1. Wacana pedagogi adalah sistem komunikasi terstruktur di kelas yang dirancang untuk mencapai tujuan pembelajaran di sekolah dasar.
 2. Sistem pengendalian topik mengatur siapa yang memulai, mengarahkan, mengalihkan, dan mengesahkan gagasan dalam interaksi kelas.
 3. Struktur wacana kelas terbagi secara hirarkis dari unit terbesar hingga terkecil: *Pelajaran* -> *Transaksi* -> *Pertukaran* -> *Gerakan* -> *Tindak*.

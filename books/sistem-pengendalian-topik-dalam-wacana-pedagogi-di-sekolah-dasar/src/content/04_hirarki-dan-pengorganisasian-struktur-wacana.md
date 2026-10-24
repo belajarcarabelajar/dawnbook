@@ -73,6 +73,6 @@ Pemahaman mengenai pengorganisasian dan hierarki wacana ini membantu kamu menyad
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 4
+### Menguji Pola IRF di Kelasmu
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?

@@ -58,7 +58,7 @@ Dengan memahami wacana kelas sebagai objek kajian, kamu dapat melihat bahwa kebe
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 2
+### Kuasa di Balik Pola Tutur Kelas
 
 Analisis wacana pedagogi menunjukkan bahwa kelas merupakan tempat komunikasi yang memiliki struktur dan dinamika kekuasaan. Melalui kerangka Sinclair & Coulthard serta pandangan Fairclough, kita dapat memahami bahwa pola interaksi harian bentuknya sangat dipengaruhi oleh alokasi hak bertutur dan strategi kebahasaan yang digunakan oleh guru.
 

@@ -61,7 +61,7 @@ Beberapa langkah yang dapat kamu terapkan untuk memperbaiki dinamika pertanyaan 
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 5
+### Ketika Guru Bertanya, Siapa yang Bicara?
 
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?

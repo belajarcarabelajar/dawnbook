@@ -51,6 +51,6 @@ Dalam penelitian ini, fokus analisis dibatasi pada dua dimensi pertama, yaitu de
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 3
+### Pertanyaan seputar Kelas yang Diteliti
 1. **Refleksi Utama**: Apakah bentuk interaksi yang dijelaskan pada bab ini mencerminkan dinamika kelas yang inklusif atau didominasi oleh pendidik?
 2. **Penerapan Praktis**: Bagaimana strategi komunikasi dalam bab ini dapat disesuaikan untuk meningkatkan partisipasi aktif siswa?

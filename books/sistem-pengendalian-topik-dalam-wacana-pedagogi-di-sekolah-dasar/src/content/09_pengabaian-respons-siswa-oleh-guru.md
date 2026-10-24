@@ -81,9 +81,9 @@ Dengan mengarahkan kembali fokus wacana pada apresiasi dan elaborasi respons sis
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 9
+### Jawaban yang Dibiarkan Berlalu
 
-#### Rangkuman
+#### Tiga Pokok Pengabaian Respons
 1. Pengabaian respons siswa merupakan salah satu bentuk pengendalian topik oleh guru dengan cara membiarkan jawaban siswa berlalu tanpa evaluasi, pujian, atau konfirmasi.
 2. Pola interaksi yang terbentuk memotong tahap umpan balik (Feedback) sehingga menggeser pola IRF menjadi alur pembicaraan yang kaku dan didominasi oleh instruksi guru.
 3. Dampak dari pengabaian ini mencakup pasivitas komunikasi siswa, jawaban yang cenderung serba pendek, serta menurunnya kebiasaan dan keberanian anak dalam mengungkapkan pendapat di kelas.

@@ -111,7 +111,7 @@ Pemahaman terhadap pemarkah wacana memberikan wawasan penting bagi kamu yang ing
 
 ---
 
-### Rangkuman & Pertanyaan Refleksi 8
+### Kata-Kata Penanda Perpindahan Materi
 
 Pemarkah wacana seperti *ya*, *nah*, *jadi*, *coba*, *sekarang*, *baik*, *eh*, *kemudian*, dan *kalau begitu* merupakan instrumen verbal penting yang digunakan guru untuk memandu transisi topik dalam wacana kelas. Melalui pemarkah ini, guru tidak hanya mengendalikan batasan antar-topik, tetapi juga mengarahkan perhatian siswa, mengelola ritme berpikir, dan menghubungkan satu konsep dengan konsep lainnya.
 
