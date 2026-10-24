@@ -95,7 +95,7 @@ Untuk melatih aspek **kinestetik** (belajar dengan melakukan), cobalah latihan b
 1. **Cari Satu Berita:** Pilih berita yang sangat kamu setujui (politik, sosial, atau teknologi).
 2. **Lakukan Pencarian Terbalik:** Cari artikel dari sumber kredibel yang memiliki argumen 180 derajat berbeda dengan kamu.
 3. **Tuliskan Tiga Poin Kuat Mereka:** Tanpa membela diri, tuliskan tiga alasan mengapa argumen lawan tersebut masuk akal secara logika.
-4. **Rasakan Sensasinya:** Perhatikan rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu adalah tanda System 2 kamu sedang bekerja keras melawan bias.
+4. **Rasakan Sensasinya:** Amati rasa tidak nyaman di dada atau kepala kamu saat melakukan ini. Itu adalah tanda System 2 kamu sedang bekerja keras melawan bias.
 
 ## Kesimpulan Mitigasi
 
