@@ -2,19 +2,19 @@
 
 ## Peran Fokus dan Atensi dalam Perubahan Otak
 
-Pernahkah kamu mencoba belajar sambil mendengarkan musik, membalas pesan teks, dan sesekali melirik televisi? kamu mungkin merasa bisa melakukan semuanya, tetapi secara biologis, otak kamu sedang melakukan perlawanan. Dalam dunia neuroplastisitas, **fokus bukanlah sekadar pilihan etika belajar, melainkan syarat mutlak terjadinya perubahan fisik pada otak.**
+Pernahkah kamu mencoba belajar sambil mendengarkan musik, membalas pesan teks, dan sesekali melirik televisi? kamu mungkin merasa bisa melakukan semuanya, tetapi secara biologis, perhatian kamu sedang terpecah. Dalam dunia neuroplastisitas, **fokus bukanlah sekadar pilihan etika belajar, melainkan syarat mutlak terjadinya perubahan fisik pada otak.**
 
 Tanpa atensi atau perhatian yang terpusat, otak kita menganggap informasi yang masuk sebagai "kebisingan" (noise) yang tidak perlu disimpan. Mari kita bedah bagaimana mekanisme biologis mengubah fokus menjadi struktur saraf baru.
 
 ## 1\. Metafora Senter di Ruang Gelap
 
-Bayangkan otak kamu adalah sebuah ruangan yang sangat besar dan gelap, penuh dengan peralatan dan material bangunan. Neuroplastisitas adalah proses merenovasi ruangan tersebut.
+Bayangkan otak kamu adalah sebuah ruangan besar yang gelap, penuh dengan peralatan dan material bangunan. Neuroplastisitas adalah proses merenovasi ruangan tersebut.
 
-- **Atensi** adalah lampu senter yang sangat kuat.
+- **Atensi** adalah lampu senter.
 - Ke mana pun kamu mengarahkan sinar senter tersebut, di situlah para "pekerja konstruksi" (neuromodulator) akan berkumpul.
 - Jika sinar senter bergerak ke sana-kemari (distraksi), para pekerja akan bingung dan tidak ada pekerjaan bangunan yang selesai.
 
-> **Poin Penting:** Neuroplastisitas pada orang dewasa sangat sulit terjadi secara pasif. Ia membutuhkan usaha sadar dan perhatian yang intens.
+> **Poin Penting:** Neuroplastisitas pada orang dewasa sulit terjadi secara pasif. Ia membutuhkan usaha sadar dan perhatian yang intens.
 
 ## 2\. Sistem Neuromodulator
 
@@ -40,7 +40,7 @@ Dopamin dilepaskan saat kita merasa mencapai sesuatu atau berada di jalur yang b
 Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Ketika kita fokus, terjadi peningkatan konsentrasi kalsium ($Ca^{2+}$) di dalam neuron yang sedang aktif.
 
 1. **Sinyal Atensi:** Korteks prefrontal (pusat kendali) mengirim sinyal bahwa informasi ini penting.
-2. **Pelepasan Neuromodulator:** Asetilkolin membanjiri area spesifik yang sedang bekerja.
+2. **Pelepasan Neuromodulator:** Asetilkolin dilepaskan di area spesifik yang sedang bekerja.
 3. **Gating Mechanism:** Neuromodulator ini bertindak sebagai "gerbang". Mereka menurunkan ambang batas aktivasi neuron sehingga lebih mudah bagi neuron tersebut untuk menembakkan sinyal ($\text{fire}$).
 4. **Marking for Long-Term Potentiation (LTP):** Fokus memastikan bahwa protein-protein baru dikirim tepat ke sinapsis yang sedang digunakan, bukan ke tempat lain secara acak.
 
@@ -58,7 +58,7 @@ Secara teknis, perubahan otak terjadi melalui modifikasi kekuatan sinaptik. Keti
 
 ## 4\. Peran Fokus dalam Menghilangkan "Noise"
 
-Otak kita terus-menerus dibombardir oleh jutaan bit informasi. Mekanisme atensi bekerja dengan cara **inhibisi lateral**.
+Otak kita terus-menerus menerima jutaan bit informasi. Mekanisme atensi bekerja dengan cara **inhibisi lateral**.
 
 - Saat kamu fokus pada suara guru, otak kamu secara aktif **menekan** sinyal dari suara kipas angin, gatal di kaki, atau percakapan di luar kelas.
 - Jika fokus kamu lemah, "noise" ini akan ikut ditandai oleh sistem saraf, sehingga sirkuit yang terbentuk menjadi kacau dan lemah.
@@ -82,4 +82,4 @@ Untuk melibatkan sistem neuromodulator kamu, cobalah langkah-langkah kinestetik 
 
 > **Pesan Memorable:** Atensi adalah alat bedah bagi otak kamu. Semakin tajam atensinya, semakin presisi perubahan saraf yang dihasilkan.
 
-*Refleksi: Kapan terakhir kali kamu merasakan "flow" di mana waktu seakan berhenti karena kamu begitu fokus? Itulah saat di mana neuroplastisitas bekerja pada kecepatan maksimalnya.*
+*Refleksi: Kapan terakhir kali kamu merasakan "flow" di mana waktu seakan berhenti karena kamu fokus penuh? Itulah saat di mana neuroplastisitas bekerja pada kecepatan maksimalnya.*

@@ -2,15 +2,15 @@
 
 Pernahkah kamu bertanya-tanya mengapa ada dua orang dengan tingkat kecerdasan yang sama, namun mencapai hasil yang sangat berbeda dalam hidup mereka? Atau mengapa ada siswa yang langsung menyerah saat menghadapi soal matematika yang sulit, sementara siswa lainnya justru terlihat semakin bersemangat?
 
-Jawabannya seringkali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Selamat datang di dunia *Growth Mindset* dan *Fixed Mindset*, sebuah konsep revolusioner dalam psikologi belajar yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
+Jawabannya seringkali bukan terletak pada **apa** yang mereka ketahui, melainkan pada **bagaimana** mereka memandang kemampuan mereka sendiri. Pandangan itu dijelaskan oleh konsep *Growth Mindset* dan *Fixed Mindset* dalam psikologi belajar, yang dipopulerkan oleh Prof. Carol Dweck dari Stanford University.
 
 ## 1\. Penelitian Carol Dweck
 
-Selama puluhan tahun, Carol Dweck terobsesi untuk memahami bagaimana manusia menghadapi kegagalan. Dalam penelitiannya terhadap ribuan anak sekolah, ia menemukan pola perilaku yang mengejutkan. Sebagian anak menganggap kegagalan sebagai akhir dari dunia, sementara sebagian lainnya menganggapnya sebagai undangan untuk belajar.
+Selama puluhan tahun, Carol Dweck meneliti bagaimana manusia menghadapi kegagalan. Dalam penelitiannya terhadap ribuan anak sekolah, ia menemukan sebuah pola perilaku. Sebagian anak menganggap kegagalan sebagai akhir dari dunia, sementara sebagian lainnya menganggapnya sebagai undangan untuk belajar.
 
 Dweck menyimpulkan bahwa setiap individu memiliki "teori implisit" tentang kecerdasan mereka. Teori inilah yang kita sebut sebagai **Mindset** (Pola Pikir).
 
-> **Intisari Pemikiran:** Cara kamu memandang diri sendiri akan menentukan seluruh jalannya hidup kamu. Jika kamu percaya kemampuan kamu sudah "terpahat di batu", kamu akan selalu merasa perlu membuktikan diri berulang kali. Jika kamu percaya kemampuan kamu bisa "ditempa", kamu akan fokus pada pertumbuhan.
+> **Intisari Pemikiran:** Cara kamu memandang diri sendiri memengaruhi cara kamu menghadapi tantangan. Jika kamu percaya kemampuan kamu sudah "terpahat di batu", kamu akan selalu merasa perlu membuktikan diri berulang kali. Jika kamu percaya kemampuan kamu bisa "ditempa", kamu akan fokus pada pertumbuhan.
 
 ## 2\. Membedah Dua Kutub Mindset
 
@@ -82,4 +82,4 @@ Bagaimana kita bisa bergeser dari pola pikir tetap ke pola pikir berkembang?
 
 > *Bahan Renungan Kognitif:* Pernahkah timbul dorongan untuk menyerah hanya karena anggapan tidak memiliki "bakat alami"? Bagaimana jika yang sejatinya dibutuhkan hanyalah alokasi waktu dan strategi belajar yang tepat?
 
-**Pesan Penting:** Memahami perbedaan antara *Growth* dan *Fixed Mindset* adalah langkah awal yang sangat penting. Namun, pemahaman psikologis ini barulah setengah dari cerita. Pada bagian selanjutnya, kita akan melihat bagaimana keyakinan mental ini secara fisik mampu mengubah arsitektur otak kamu melalui mekanisme neurobiologis yang nyata.
+**Pesan Penting:** Memahami perbedaan antara *Growth* dan *Fixed Mindset* adalah langkah awal yang penting. Namun, pemahaman psikologis ini barulah setengah dari cerita. Pada bagian selanjutnya, kita akan melihat bagaimana keyakinan mental ini secara fisik mampu mengubah arsitektur otak kamu melalui mekanisme neurobiologis yang nyata.

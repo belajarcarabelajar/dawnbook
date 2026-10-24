@@ -21,7 +21,7 @@ Bayangkan otak kamu adalah sebuah taman. Agar tanaman (neuron) dapat tumbuh kuat
 
 ## 2\. Booster Alami BDNF dari Aktivitas Fisik
 
-Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang paling kuat untuk meningkatkan efisiensi belajar.
+Aktivitas fisik bukan hanya tentang kesehatan jantung atau otot; ini adalah intervensi neurobiologis yang kuat untuk meningkatkan efisiensi belajar.
 
 ### Mekanisme Biologis
 
@@ -35,13 +35,13 @@ $$
 
 ### Strategi "Priming"
 
-- **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sangat sulit.
+- **Skenario:** Seorang mahasiswa harus menghafal materi ujian yang sulit.
 - **Strategi:** Alih-alih belajar 4 jam nonstop, ia melakukan olahraga intensitas sedang selama 20 menit *sebelum* membuka buku.
 - **Hasilnya:** Olahraga tersebut memicu lonjakan BDNF, menempatkan otak dalam kondisi "siap serap". Sinapsis menjadi lebih fleksibel dan siap untuk membentuk koneksi baru (Long-Term Potentiation).
 
 ## 3\. Sistem Pembersihan dan Konsolidasi saat Tidur
 
-Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas sangat sangat penting bagi efisiensi sinaptik melalui dua mekanisme utama:
+Jika olahraga adalah proses "menanam", maka tidur adalah proses "merawat dan merapikan". Tidur yang berkualitas penting bagi efisiensi sinaptik melalui dua mekanisme utama:
 
 ### A. Sistem Glimfatik (Pembersihan Otak)
 

@@ -1,8 +1,8 @@
 ## Jembatan Sains dari Mindset ke Perubahan Otak
 
-Selamat datang di titik temu yang paling menarik dalam studi neuroplastisitas. Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Namun, apakah kamu tahu bahwa perbedaan ini bukan sekadar masalah "sikap positif"?
+Di bagian sebelumnya, kita telah mempelajari perbedaan psikologis antara **Growth Mindset** (pola pikir bertumbuh) dan **Fixed Mindset** (pola pikir tetap). Namun, apakah kamu tahu bahwa perbedaan ini bukan sekadar masalah "sikap positif"?
 
-Mindset sebenarnya adalah **arsitek fisik** bagi otak kamu. Keyakinan kamu tentang kemampuan belajar secara langsung memprogram bagaimana sirkuit saraf kamu merespons kegagalan, memproses informasi, dan membangun ketangguhan. Mari kita bedah bagaimana "kepercayaan" berubah menjadi "biologi".
+Mindset sebenarnya ikut **membentuk otak kamu secara fisik**. Keyakinan kamu tentang kemampuan belajar memengaruhi bagaimana sirkuit saraf kamu merespons kegagalan, memproses informasi, dan membangun ketangguhan. Mari kita bedah bagaimana "kepercayaan" berubah menjadi "biologi".
 
 ### 1\. Sinyal ERN dan Pe dalam Pemrosesan Kesalahan
 
@@ -13,7 +13,7 @@ Ketika kamu membuat kesalahan, misalnya salah menjawab soal matematika atau sala
 
 **Perbedaan Berbasis Mindset:** Penelitian oleh Dr. Jason Moser menunjukkan perbedaan yang mencolok pada kedua sinyal ini:
 
-- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka "berselancar" di atas kesalahan tersebut untuk belajar.
+- Individu dengan **Growth Mindset** memiliki sinyal **Pe yang jauh lebih kuat**. Otak mereka memberikan perhatian lebih besar pada kesalahan. Mereka tidak mengabaikan kegagalan; sebaliknya, mereka memakai kesalahan tersebut untuk belajar.
 - Individu dengan **Fixed Mindset** cenderung memiliki sinyal Pe yang lemah. Otak mereka mencoba "menutup mata" terhadap kesalahan karena menganggap kesalahan sebagai ancaman terhadap identitas cerdas mereka.
 
 > **Insight Penting:** Pertumbuhan otak tidak terjadi saat kamu melakukan segalanya dengan benar, tetapi justru terjadi saat kamu melakukan kesalahan dan otak kamu bekerja keras untuk memperbaikinya.

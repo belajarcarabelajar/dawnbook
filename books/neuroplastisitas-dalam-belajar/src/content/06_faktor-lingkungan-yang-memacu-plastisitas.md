@@ -1,6 +1,6 @@
 ## Faktor Lingkungan yang Memacu Plastisitas
 
-Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe baru, atau merasa otak kamu "tumpul" saat terjebak rutinitas monoton berbulan-bulan? Itu bukan sekadar perasaan. Otak kita bukanlah entitas yang terisolasi di dalam tempurung kepala; ia adalah organ yang sangat responsif terhadap dunia luar.
+Pernahkah kamu merasa jauh lebih kreatif saat bekerja di kafe baru, atau merasa otak kamu "tumpul" saat terjebak rutinitas monoton berbulan-bulan? Itu bukan sekadar perasaan. Otak kita bukanlah entitas yang terisolasi di dalam tempurung kepala; ia adalah organ yang responsif terhadap dunia luar.
 
 Dalam bagian ini, kita akan mengeksplorasi bagaimana dunia di sekitar kita,apa yang kita lihat, dengar, dan alami,secara fisik mengubah arsitektur otak kita melalui konsep yang dikenal sebagai **Enriched Environment** (Lingkungan yang Diperkaya).
 
@@ -44,10 +44,10 @@ Manusia adalah makhluk sosial. Interaksi dengan orang lain adalah salah satu tug
 
 Setiap kali kamu mempelajari keterampilan baru atau berada di lingkungan asing, otak kamu melakukan "remodeling". Mari kita lihat skenario nyata:
 
-**Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas yang luar biasa dibandingkan jika ia tetap di rumah. Mengapa?
+**Belajar di Luar Negeri vs. Rutinitas Kantor** Seorang mahasiswa yang melakukan pertukaran pelajar ke negara dengan bahasa berbeda akan mengalami percepatan plastisitas dibandingkan jika ia tetap di rumah. Mengapa?
 
 1. **Sensorik:** Suara bahasa baru, aroma makanan berbeda, dan pemandangan arsitektur asing membanjiri sistem sensorik.
-2. **Kognitif:** Otak harus bekerja ekstra keras untuk memetakan navigasi transportasi umum dan memahami norma sosial.
+2. **Kognitif:** Otak harus bekerja keras untuk memetakan navigasi transportasi umum dan memahami norma sosial.
 3. **Emosional:** Tantangan berada di zona tidak nyaman memicu sistem neuromodulator yang membuat sinapsis lebih fleksibel (plastis).
 
 *Refleksi Peran Pemula: Kapan terakhir kali seseorang benar-benar memosisikan diri sebagai pemula dalam suatu bidang? Perasaan canggung atau tidak nyaman saat memulainya merupakan penanda langsung bahwa proses plastisitas otak sedang aktif bekerja.*
@@ -75,4 +75,4 @@ Perbandingan sederhananya begini. Di lingkungan yang statis dan penuh rutinitas,
 | **Keragaman Sosial** | Meningkatkan empati & *problem solving* | Berkolaborasi dengan orang dari departemen atau latar belakang berbeda. |
 | **Paparan Alam** | Menurunkan kortisol (stres) & meningkatkan atensi | Menambahkan tanaman di ruang belajar atau belajar di dekat jendela dengan pemandangan luar. |
 
-> **Pesan Utama:** Otak kamu mencerminkan dunia tempat kamu tinggal. Untuk mengubah cara kamu berpikir, mulailah dengan mengubah apa yang kamu alami dan bagaimana kamu berinteraksi dengan lingkungan kamu. Jangan biarkan otak kamu "berhibernasi" dalam rutinitas; berikan ia petualangan yang ia butuhkan untuk terus tumbuh.
+> **Pesan Utama:** Otak kamu mencerminkan dunia tempat kamu tinggal. Untuk mengubah cara kamu berpikir, mulailah dengan mengubah apa yang kamu alami dan bagaimana kamu berinteraksi dengan lingkungan kamu. Jangan biarkan otak kamu terjebak dalam rutinitas; berikan ia pengalaman baru yang ia butuhkan untuk terus tumbuh.

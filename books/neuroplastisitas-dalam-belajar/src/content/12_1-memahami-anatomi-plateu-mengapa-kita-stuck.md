@@ -2,11 +2,11 @@
 
 Pernahkah kamu merasa sudah belajar berjam-jam, berlatih setiap hari, namun kemampuan kamu seolah jalan di tempat? Dalam dunia psikologi belajar, fenomena ini disebut sebagai **Learning Plateau** (Dataran Tinggi Belajar).
 
-Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase sangat penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
+Meskipun terasa frustrasi, kabar baiknya adalah dari sudut pandang neuroplastisitas, plateau bukanlah tanda bahwa kamu berhenti belajar. Sebaliknya, itu adalah fase penting di mana otak kamu sedang melakukan "pemeliharaan sistem" di balik layar.
 
 ## 1\. Memahami Anatomi Plateau
 
-Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur sinaptik. Pada awalnya, kemajuan terasa sangat cepat karena otak sedang membangun fondasi. Namun, setelah beberapa saat, kemajuan melambat.
+Secara biologis, saat kita mempelajari keterampilan baru, otak membentuk jalur sinaptik. Pada awalnya, kemajuan terasa cepat karena otak sedang membangun fondasi. Namun, setelah beberapa saat, kemajuan melambat.
 
 Mengapa ini terjadi?
 
@@ -26,7 +26,7 @@ Saat kamu membuat kesalahan dan menyadarinya, otak melepaskan neuromodulator sep
 1. **Prediksi:** Otak memprediksi hasil dari suatu tindakan.
 2. **Kesalahan (Error):** Hasil tidak sesuai ekspektasi.
 3. **Sinyal Kimia:** Terjadi lonjakan aktivitas pada sirkuit pendeteksi kesalahan.
-4. **Plastisitas:** Otak menjadi sangat fleksibel dalam beberapa saat setelah kesalahan terjadi untuk "mencari" solusi yang benar.
+4. **Plastisitas:** Otak menjadi fleksibel dalam beberapa saat setelah kesalahan terjadi untuk "mencari" solusi yang benar.
 
 *Prinsip Sinyal Kesalahan: Tanpa adanya kekeliruan saat berlatih, sistem saraf berasumsi bahwa jalur yang aktif saat ini sudah memadai sehingga tidak memicu mekanisme rekonfigurasi plastisitas.*
 
@@ -71,7 +71,7 @@ Jika $\Delta E = 0$ (tidak ada kesalahan), maka $L$ mendekati nol, tidak peduli 
 
 Bayangkan seorang pengembang perangkat lunak yang merasa kemampuan *debugging* -nya tidak berkembang.
 
-**Skenario Plateau:** Pengembang tersebut selalu menggunakan cara yang sama untuk mencari *bug*, yaitu dengan mencetak log (`console.log`) berulang kali. Dia sudah sangat mahir melakukan ini, sehingga otaknya berada dalam mode "autopilot".
+**Skenario Plateau:** Pengembang tersebut selalu menggunakan cara yang sama untuk mencari *bug*, yaitu dengan mencetak log (`console.log`) berulang kali. Dia sudah mahir melakukan ini, sehingga otaknya berada dalam mode "autopilot".
 
 **Cara Mendobrak dengan Neuroplastisitas:**
 
