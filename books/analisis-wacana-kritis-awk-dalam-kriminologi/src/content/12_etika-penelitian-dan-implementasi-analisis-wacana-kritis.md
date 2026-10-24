@@ -1,6 +1,6 @@
 ## Etika Penelitian dan Implementasi Analisis Wacana Kritis
 
-Bab ini membahas etika dan penerapan Analisis Wacana Kritis (AWK) dalam kriminologi. Jika bab-bab sebelumnya telah membekali pemelajar dengan alat metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama: *setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
+Peneliti Analisis Wacana Kritis (AWK) dalam kriminologi memikul dua tugas: menjaga etika penelitian dan membawa temuannya ke reformasi hukum. Jika bab-bab sebelumnya telah membekali pemelajar dengan alat metodologis untuk membongkar ketidakadilan dalam bahasa, bab ini akan menjawab pertanyaan utama: *setelah ketimpangan tersebut ditemukan, apa tanggung jawab etis peneliti? Dan bagaimana hasil analisis tersebut dapat diimplementasikan untuk mengubah dunia nyata?*
 
 Dalam kriminologi kritis, peneliti bukan sekadar penonton yang duduk di menara gading. Peneliti adalah partisipan aktif yang memiliki tanggung jawab etis untuk menyuarakan kelompok yang terbungkam oleh diskursus dominan.
 

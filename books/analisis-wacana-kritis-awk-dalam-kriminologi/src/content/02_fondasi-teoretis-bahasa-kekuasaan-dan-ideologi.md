@@ -1,6 +1,6 @@
 ## Fondasi Teoretis Bahasa, Kekuasaan, dan Ideologi
 
-Bab ini masuk ke inti teori Analisis Wacana Kritis (AWK). Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
+Teori di balik Analisis Wacana Kritis (AWK) bertumpu pada tiga konsep yang saling terkait: bahasa, kekuasaan menurut Foucault dan Gramsci, serta ideologi. Jika pada bab sebelumnya kerangka dasar AWK secara umum telah dibahas, sekarang pembahasan akan membedah "mesin" teoretis yang menggerakkannya. Dalam kriminologi, kejahatan bukan sekadar aksi fisik semata, melainkan sesuatu yang didefinisikan, diperdebatkan, dan dikonstruksi melalui bahasa dan media diskursif.
 
 Mengapa seorang individu yang mencuri barang kebutuhan pokok dilabeli sebagai "kriminal", sementara korporasi yang membuang limbah beracun ke sungai sering kali hanya disebut mengalami "masalah administratif"? Jawabannya terletak pada hubungan yang rumit antara **Bahasa**, **Kekuasaan**, dan **Ideologi**.
 

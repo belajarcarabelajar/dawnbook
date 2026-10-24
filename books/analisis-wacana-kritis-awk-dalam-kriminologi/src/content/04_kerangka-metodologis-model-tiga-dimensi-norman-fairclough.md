@@ -1,6 +1,6 @@
 ## Kerangka Metodologis Model Tiga Dimensi Norman Fairclough
 
-Bab ini membahas sisi teknis Analisis Wacana Kritis (AWK). Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
+Model tiga dimensi Norman Fairclough membaca wacana tentang kejahatan pada tiga lapis sekaligus: teks, praktik diskursif, dan praktik sosial-budaya. Jika kita membayangkan kriminologi sebagai upaya untuk membedah mengapa dan bagaimana kejahatan terjadi, maka model Norman Fairclough adalah mikroskop yang digunakan untuk melihat bagaimana bahasa menjadi instrumen kekuasaan dalam mendefinisikan kejahatan itu sendiri.
 
 Norman Fairclough memandang wacana bukan sekadar kata-kata yang diucapkan, melainkan sebuah **praktik sosial**. Untuk membedahnya, ia menawarkan kerangka kerja tiga dimensi yang saling berkaitan: **Teks**, **Praktik Diskursif**, dan **Praktik Sosial-Budaya**.
 
