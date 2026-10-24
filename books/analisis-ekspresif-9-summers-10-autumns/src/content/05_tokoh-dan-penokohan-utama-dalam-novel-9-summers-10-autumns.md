@@ -5,22 +5,22 @@ Dalam novel otobiografis *9 Summers 10 Autumns*, kekuatan narasi banyak dipengar
 1. **Iwan Setyawan (Tokoh Utama / 'Aku')**
    Iwan digambarkan sebagai anak laki-laki yang cerdas, tekun, sederhana, dan pantang menyerah. Ia menyerap nilai-nilai kesederhanaan dan kasih sayang dari lingkungan keluarganya yang bersahaja:
    
-   > “Aku dan saudara-saudaraku tumbuh di rumah yang dibangun dengan cinta dan kesederhanaan. Bangunan fisik rumah yang kecil apa adanya, melahirkan ruang yang besar pada hati kami untuk menerima kehidupan, betapapun kecilnya kebahagiaan yang kami terima.” (Hlm. 14)
+   Iwan mengenang rumah masa kecilnya sebagai rumah yang “dibangun dengan cinta dan kesederhanaan” (Hlm. 14). Bangunan yang kecil dan apa adanya itu melahirkan ruang yang besar di hati mereka untuk menerima hidup, sekecil apa pun kebahagiaan yang mereka terima.
 
 2. **Bapak (Abdul Hasim)**
    Bapak adalah sosok kepala keluarga yang gigih, mandiri, dan pekerja keras. Beliau bekerja puluhan tahun sebagai sopir angkot dengan impian memiliki armada sendiri demi menaikkan derajat ekonomi keluarga:
    
-   > “Setelah beberapa tahun menyopir, Bapak berusaha mandiri. Berkat tabungan berpuluh-puluh tahun, ia berhasil membeli mobil bekas seharga sekitar dua juta pada tahun 1980. Sukses yang cukup besar saat itu dan membanggakan kami. Bapak tak lagi harus menyetorkan sebagian uang hasil kerjanya ke ‘juragannya’.” (Hlm. 26)
+   Setelah beberapa tahun menyopir, Bapak membeli mobil bekas seharga sekitar dua juta pada 1980 dari tabungan berpuluh-puluh tahun (Hlm. 26). Bagi keluarga, itu sukses yang cukup besar pada masa itu dan membanggakan, sebab Bapak tak perlu lagi menyetor sebagian penghasilannya kepada juragan.
 
 3. **Ibu (Ngatinah)**
    Ibu adalah cermin ketegaran, kelembutan, dan kebijaksanaan. Dengan penuh kesabaran, Ibu mampu mengelola keuangan keluarga yang sangat terbatas dan menyatukan seluruh anggota keluarga di bawah atap rumah yang mungil:
    
-   > “Kebijakan Ibu menyelamatkan kami semua. Ketegarannya menghadapi segala kesulitan ini, ketekunannya, air matanya, membawa kami melalui awan gelap itu. Ibuku, di balik kelembutannya, menyimpan kekuatan yang luar biasa. Di balik kesabarannya, ia berhasil membawa kami semua hidup di bawah satu atap. Rumah kecil ini dibangun pada tahun 1976, di atas tanah seluas 7 x 6 meter, seharga Rp40.000. Ia jugalah yang membangun rumah dengan fondasi kuat, di hati masing-masing.” (Hlm. 35)
+   Iwan menulis bahwa kebijakan, ketegaran, dan air mata Ibu membawa keluarga melewati masa-masa gelap. Di balik kelembutan dan kesabarannya ada kekuatan yang menyatukan mereka di rumah kecil seluas 7 x 6 meter, dibangun pada 1976 seharga Rp40.000. Bagi Iwan, Ibu pula “yang membangun rumah dengan fondasi kuat, di hati masing-masing” (Hlm. 35).
 
 4. **Siti Aisyah (Mbak Isa)**
    Mbak Isa adalah kakak tertua Iwan yang cerdas, giat belajar secara mandiri, dan menjadi inspirasi terbesar bagi adik-adiknya dalam menempuh jalur pendidikan:
    
-   > “Mbak Isa selalu mendapatkan ranking teratas, mulai dari kelas 1 sampai lulus, tanpa ada bimbingan dari siapa pun di rumah. Tidak ada les matematika, tidak ada les IPS, tak ada pelajaran baca tulis dari orang tua kami, bahkan tak ada aturan khusus kapan harus belajar. Dia maju sendiri. Dia menjadi terkenal di SD karena ranking dan kemampuan matematikanya di atas rata-rata. Kepintarannya dan kedekatannya dengan buku-buku pelajaran menjadi inspirasi buat kami. Kami ingin pintar seperti Mbak Isa.” (Hlm. 38)
+   Dari kelas 1 sampai lulus, Mbak Isa selalu meraih peringkat teratas tanpa les dan tanpa bimbingan siapa pun di rumah. Ia terkenal di SD karena kemampuan matematikanya, dan kedekatannya dengan buku pelajaran menjadi inspirasi bagi adik-adiknya: “Kami ingin pintar seperti Mbak Isa” (Hlm. 38).
 
 ### Perkembangan Tokoh Iwan dari Batu ke New York
 

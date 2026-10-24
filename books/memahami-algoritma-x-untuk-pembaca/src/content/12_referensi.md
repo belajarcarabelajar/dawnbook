@@ -1,6 +1,6 @@
 ## Referensi
 
-Halaman ini mengumpulkan kode publik sistem rekomendasi X dan halaman resmi X Help yang menjadi dasar penjelasan di seluruh bab buku ini. Setiap entri menautkan langsung ke berkas atau halaman yang dibaca, jadi kamu bisa memeriksa ulang klaim mana pun dari sumber aslinya.
+Halaman ini mengumpulkan kode publik sistem rekomendasi X dan halaman resmi X Help yang menjadi dasar penjelasan di seluruh bab buku ini. Setiap entri menautkan langsung ke berkas atau halaman yang dibaca, jadi kamu bisa memeriksa ulang klaim mana pun dari sumber aslinya. Buku ini berawal dari catatan pribadi penulis tentang cara X menyusun peringkat unggahan, yang kemudian diperluas menjadi buku.
 
 ### Repositori twitter/the-algorithm
 

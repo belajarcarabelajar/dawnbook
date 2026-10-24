@@ -3,7 +3,7 @@
 Session: dawnbook-harvest-moon. Plan: docs/code-plan/plans/2026-10-23-dawnbook-harvest-moon.md.
 Method: 7 read-only researcher subagents on 2026-10-23. Three extracted game facts from the official Prima guide (sets A, B, C; OCR text, no web). Four read lesson sources with TinyFish `search` and `fetch_content` (sets L1-L4). The parent re-checked every DOI in the source table with the doi.org handle API (all 14 return responseCode 1) and every other URL with curl (15 return 200; amanet.org and econlib.org return 403 and stlouisfed.org times out for curl because of bot walls, and all three were read through TinyFish by the researchers). Every URL was accessed on 2026-10-23.
 
-Game source: Debra McBride and David Cassady, *Harvest Moon: Back to Nature, Prima's Official Strategy Guide*, Prima Games (a division of Random House), 2000, ISBN 0-7615-3271-4 (L4-1c). Text read from the archive.org scan (source table S1). Line numbers in sets A, B, C (now in a private local file, see section 1 to 3) refer to the owner's local copy of that scan's OCR text (11.722 lines); the copy is not in this repository.
+Game source: Debra McBride and David Cassady, *Harvest Moon: Back to Nature, Prima's Official Strategy Guide*, Prima Games (a division of Random House), 2000, ISBN 0-7615-3271-4 (L4-1c). Text read from a user-uploaded archive.org scan of the guide (L4-1d; not linked from this repository). Line numbers in sets A, B, C (now in a private local file, see section 1 to 3) refer to the owner's local copy of that scan's OCR text (11.722 lines); the copy is not in this repository.
 
 ## 0. Rules for chapter authors
 
@@ -321,12 +321,11 @@ Access date for every item is 2026-10-23, and 25 of the 28 tool calls were used.
 
 **L4-1d (H).** Archive.org item.
 - **URLs fetched:**
-  - https://archive.org/details/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf (body was only a donation banner)
-  - https://archive.org/metadata/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf
+  - the item page (body was only a donation banner) and its metadata record; their URLs were removed on 2026-10-24 because this repository does not link scans of copyrighted books
   - the item's `_djvu.txt` file
 - **Item title:** metadata title is "Harvest Moon Back To Nature Strategy Guide Official eBook in PDF Format". The page `<title>` adds " : Free Download, Borrow, and Streaming : Internet Archive". Uploaded 2018-09-29, 127 scanned pages, collection `strategyguides`.
 - **Content check:** the OCR text opens with the cover and credits of the Prima guide above, so the item is that book.
-- **Caveat:** it is a user-uploaded scan of a copyrighted guide. Cite the book and treat the link as a convenience, because it could be taken down.
+- **Caveat:** it is a user-uploaded scan of a copyrighted guide. Cite the book only (Referensi links the Open Library catalogue record, S1); never link the scan.
 
 **L4-2a (H).** Whillans, A. V., Dunn, E. W., Smeets, P., Bekkers, R., & Norton, M. I. (2017). Buying time promotes happiness. *PNAS, 114*(32), 8523-8527. https://doi.org/10.1073/pnas.1706541114
 - **URLs fetched:**
@@ -554,7 +553,7 @@ Not used (read but weak or off-topic): L1-1 HBR body (paywalled), L2-2a OJK amou
 
 | ID | Source | URL |
 |---|---|---|
-| S1 | McBride and Cassady 2000, Prima's Official Strategy Guide (archive.org scan) | https://archive.org/details/docslide.net_harvest-moon-back-to-nature-prima-official-eguidepdf |
+| S1 | McBride and Cassady 2000, Prima's Official Strategy Guide (Open Library catalogue record) | https://openlibrary.org/books/OL8017942M |
 | S2 | Wikipedia, Harvest Moon: Back to Nature | https://en.wikipedia.org/wiki/Harvest_Moon:_Back_to_Nature |
 | S3 | Marvelous, official Bokujo Monogatari series site, Harvest Moon page | https://www.bokumono.com/sub/harvest.php |
 | S4 | Sheffield 2007, Gamasutra interview with Yasuhiro Wada | https://www.gamedeveloper.com/business/harvest-man-yasuhiro-wada-s-gentle-world |

@@ -29,7 +29,7 @@ Kata sapaan dalam interaksi kelas sekolah dasar terbagi ke dalam beberapa katego
 
 Dalam struktur interaksi *Initiation-Response-Feedback* (IRF), penyampaian pertanyaan atau perintah oleh guru sering kali disertai kata sapaan nama siswa. Teknik ini bertujuan memastikan bahwa hanya siswa yang ditunjuk yang mengambil giliran bicara, sehingga percakapan kelas tetap teratur dan siswa tidak berbicara bersamaan.
 
-Mari cermati contoh pertukaran dialogik di bawah ini yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
+Mari cermati contoh ilustrasi pertukaran dialogik di bawah ini (bukan kutipan data penelitian) yang memperlihatkan bagaimana sapaan nama digunakan untuk menunjuk penutur dan memfokuskan topik pelajaran.
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |
@@ -62,7 +62,7 @@ flowchart TD
 * **Sapaan Kehangatan (*Anak-anak*)**: Memperkecil jarak sosial dan menciptakan iklim belajar yang aman secara emosional. Siswa merasa diakui sebagai bagian dari komunitas belajar.
 * **Sapaan Instruktif (*Kamu*, Nama Diri)**: Digunakan dalam momen penalaran formal atau pembenahan disiplin. Sapaan ini menegaskan otoritas guru sebagai pemegang kendali utama topik wacana.
 
-Berikut contoh pertukaran dialogik yang menggambarkan transisi dari sapaan kolektif menuju sapaan individual dalam pengelolaan topik masalah kebersihan sekolah:
+Berikut contoh ilustrasi pertukaran dialogik yang menggambarkan transisi dari sapaan kolektif menuju sapaan individual dalam pengelolaan topik masalah kebersihan sekolah:
 
 | Pertukaran | Gerakan | Penutur | Ujaran |
 | :--- | :--- | :--- | :--- |
@@ -80,7 +80,7 @@ Dalam tabel di atas, guru memanfaatkan kata sapaan *"Doni"* pada gerakan 03 untu
 
 Secara umum, susunan sapaan di kelas SD bersifat asimetris. Guru bebas menyapa siswa dengan nama panggilan atau kata ganti *kamu*, sedangkan siswa diwajibkan menggunakan sapaan kehormatan seperti *Pak* atau *Bu*. Ketidakseimbangan ini wajar dalam wacana formal sekolah, namun siswa yang berani tetap dapat memanfaatkan kata sapaan untuk mengambil inisiatif pembukaan topik.
 
-Ketika seorang siswa mengangkat tangan dan berkata:
+Sebagai ilustrasi, bayangkan seorang siswa mengangkat tangan dan berkata:
 
 > *"Bu, apakah kita boleh memilih kelompok drama sendiri?"*
 

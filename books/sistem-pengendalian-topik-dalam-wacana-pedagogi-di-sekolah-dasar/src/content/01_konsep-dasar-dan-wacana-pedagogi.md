@@ -4,6 +4,8 @@ Ruang kelas sekolah dasar merupakan tempat guru dan siswa berinteraksi lewat bah
 
 Memahami bagaimana wacana pedagogi bekerja di tingkat sekolah dasar membantu kamu melihat dinamika pembelajaran secara lebih mendalam. Komunikasi di kelas bukan sekadar proses tukar-menukar kata, melainkan sebuah sistem terstruktur yang menentukan siapa yang memegang kendali atas alur pembicaraan.
 
+Buku ini menjelaskan dan membahas penelitian Marliana (2017), [Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281), yang terbit di *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*. Bab demi bab setelah ini menguraikan cara penelitian itu dilakukan beserta temuannya, lalu menimbang artinya bagi kamu yang mengajar atau mengamati kelas.
+
 > **Definisi Wacana Pedagogi:**
 > Wacana pedagogi adalah seluruh rangkaian interaksi kebahasaan (lisan maupun tulis) yang berlangsung dalam konteks pendidikan, tempat guru dan siswa berinteraksi untuk mencapai tujuan pembelajaran tertentu melalui pola-pola komunikasi yang khas.
 

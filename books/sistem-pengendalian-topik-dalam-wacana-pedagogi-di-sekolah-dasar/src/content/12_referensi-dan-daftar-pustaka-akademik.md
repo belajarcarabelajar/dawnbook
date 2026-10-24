@@ -6,7 +6,7 @@ Bab ini memuat sintesis akhir pembahasan sistem pengendalian topik dalam wacana 
 
 Kajian mengenai wacana pedagogi menunjukkan bahwa interaksi di kelas sekolah dasar tersusun dalam hirarki yang teratur, mulai dari tingkat pelajaran (*lesson*), transaksi (*transaction*), pertukaran (*exchange*), gerakan (*move*), hingga tindak (*act*). Dalam hirarki ini, gerakan pemulai (*initiating move*) yang didominasi oleh tuturan guru memegang peran sentral dalam menentukan alur perbincangan.
 
-Beberapa temuan utama yang merangkum keseluruhan isi monograf ini meliputi:
+Temuan pokok penelitian Marliana (2017) yang menjadi dasar pembahasan di buku ini meliputi:
 
 1. **Dominasi Guru dalam Pengajuan Topik**: Guru bertindak sebagai pemegang kendali utama topik perbincangan. Pengendalian ini dilakukan melalui pertanyaan tertutup maupun pernyataan awal yang mengarahkan fokus perhatian seluruh siswa.
 2. **Penggunaan Pemarkah Wacana**: Pengeluaran kata-kata penanda transisi seperti *ya*, *nah*, *jadi*, *baik*, *coba*, dan *kalau begitu* menjadi alat kebahasaan utama bagi guru untuk membuka, mengalihkan, atau menutup topik pembelajaran.
@@ -22,14 +22,14 @@ Temuan di atas menggarisbawahi adanya kesenjangan antara praktik interaksi kelas
 - **Mengakomodasi Inisiatif Siswa**: Tanggapan dan pertanyaan yang muncul dari siswa perlu diterima serta dijadikan batu pijakan untuk mengembangkan bahasan kelas lebih lanjut, bukan diabaikan atau dengan cepat diputus.
 - **Mendorong Pembelajaran Dialogis**: Interaksi di kelas seyogianya digeser dari bentuk pengujian kaku menuju dialog konstruktif tempat guru dan siswa bersama-sama membangun pengetahuan.
 
-### Ringkasan Penutup Monograf
+### Ringkasan Penutup
 
 > **Catatan Penutup**:
-> Pengendalian topik dalam wacana kelas tidak hanya menyangkut kelancaran tata tertib pembelajaran, tetapi juga mencerminkan relasi sosial dan kesempatan belajar yang diberikan kepada peserta didik. Dengan menyadari pola-pola tutur yang selama ini digunakan, para pendidik dapat membuka ruang komunikasi yang lebih ramah, inklusif, dan responsif terhadap potensi siswa. Diharapkan kajian ini memberikan sumbangan nyata bagi pengembangan linguistik terapan dan peningkatan mutu pembelajaran Bahasa Indonesia di sekolah dasar.
+> Pengendalian topik dalam wacana kelas tidak hanya menyangkut kelancaran tata tertib pembelajaran, tetapi juga mencerminkan relasi sosial dan kesempatan belajar yang diberikan kepada peserta didik. Dengan menyadari pola-pola tutur yang selama ini digunakan, para pendidik dapat membuka ruang komunikasi yang lebih ramah, inklusif, dan responsif terhadap potensi siswa. Diharapkan pembahasan atas penelitian Marliana dalam buku ini memberikan sumbangan nyata bagi peningkatan mutu pembelajaran Bahasa Indonesia di sekolah dasar.
 
 ### Pertanyaan Refleksi dan Diskusi Akhir
 
-Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari monograf ini dalam praktik nyata, kamu dapat mendiskusikan pertanyaan refleksi berikut:
+Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari buku ini dalam praktik nyata, kamu dapat mendiskusikan pertanyaan refleksi berikut:
 
 1. **Refleksi Struktur Interaksi**: Bagaimana kamu menilai keseimbangan antara pola alih tutur yang dikuasai guru dan partisipasi mandiri siswa di kelas yang kamu amati?
 2. **Evaluasi Strategi Kebahasaan**: Kata penanda wacana apa saja yang paling sering kamu gunakan atau temukan di kelas, dan bagaimana pengaruhnya terhadap kelancaran transisi topik?
@@ -37,7 +37,7 @@ Untuk memperdalam pemahaman dan menerapkan konsep-konsep dari monograf ini dalam
 
 ### Daftar Pustaka Akademik (APA Style 7th Edition)
 
-Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan monograf ini, disusun sesuai standar APA Style Edisi Ke-7:
+Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam keseluruhan buku ini, disusun sesuai standar APA Style Edisi Ke-7:
 
 - Aman, I. (2005). Analisis wacana pedagogi bahasa Melayu di sekolah. Dalam L. S. Kim, T. S. Ming, H. Burhanudeen, & L. K. Siong (Penyunting), *Papers Language Studies and Linguistics: A Malaysian Perspective* (hlm. 45-60). Faculty of Social Sciences and Humanities, Universiti Kebangsaan Malaysia.
 - Cazden, C. B. (2001). *Classroom discourse: The language of teaching and learning* (Edisi ke-2). Heinemann.
@@ -46,6 +46,7 @@ Berikut adalah daftar sumber pustaka dan referensi akademik yang dirujuk dalam k
 - Fairclough, N. (2001). *Language and power* (Edisi ke-2). Pearson Education.
 - Fairclough, N. (2003). *Analysing discourse: Textual analysis for social research*. Routledge.
 - Fairclough, N. (2006). *Discourse and social change*. Polity Press.
+- Gewertz, C. (2019, 10 Desember). How much should teachers talk in the classroom? Much less, some say. *Education Week*. [https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12](https://www.edweek.org/teaching-learning/how-much-should-teachers-talk-in-the-classroom-much-less-some-say/2019/12)
 - Marliana, N. L. (2017). Sistem pengendalian topik dalam wacana pedagogi di sekolah dasar. *AKSIS: Jurnal Pendidikan Bahasa dan Sastra Indonesia*, 1(1), 80-103. [https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281](https://journal.unj.ac.id/unj/index.php/aksis/article/view/3281)
 - McCarthy, M. (1991). *Discourse analysis for language teachers*. Cambridge University Press.
 - Mehan, H. (1979). *Learning lessons: Social organization in the classroom*. Harvard University Press. [https://doi.org/10.4159/harvard.9780674420106](https://doi.org/10.4159/harvard.9780674420106)

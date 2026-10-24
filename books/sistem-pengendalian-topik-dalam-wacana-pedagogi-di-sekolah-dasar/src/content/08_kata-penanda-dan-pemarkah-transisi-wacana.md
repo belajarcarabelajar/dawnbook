@@ -37,12 +37,18 @@ Untuk memahami bagaimana pemarkah wacana bekerja dalam praktik nyata, mari amati
 #### 1. Penggunaan Kata *Baik* dan *Sekarang* untuk Transisi Tugas
 Dalam sesi latihan bahasa, guru menggunakan pemarkah *baik* dan *sekarang* untuk memindahkan fokus siswa dari diskusi bebas ke penyusunan struktur kalimat.
 
-| Gerakan | Pemeran | Penutur | Ujaran Verbal | Fungsi Wacana |
-| :--- | :--- | :--- | :--- | :--- |
-| Pemulai | Perintah | Guru (G) | "Baik, baik sekarang Bapak akan buat satu kalimat. Ini-buku-bahasa-Indonesia." | Pemarkah awal transisi ke tugas pembuatan kalimat tanya. |
-| Respons | Pertanyaan | Guru (G) | "Apa buku itu?" | Memberikan contoh pertanyaan untuk memicu latihan. |
-| Komen | Respons | Siswa (S) | "Apa-buku-i__ Tuu." | Siswa merespons contoh kalimat yang diberikan. |
-| Komen | Respons | Guru (G) | "Itu." | Penegasan pelafalan oleh guru. |
+| Gerakan | Pemeran | Penutur | Ujaran Verbal |
+| :--- | :--- | :--- | :--- |
+| 032 | Pemulai | Guru (G) | "Baik, baik sekarang Bapak akan buat satu kalimat." |
+| 033 | Pertanyaan | Guru (G) | "Ini-buku-bahasa-Indonesia." |
+| 034 | Respons | Siswa (S) | "Apa buku itu?" |
+| 035 | Komen | Guru (G) | "Apa-buku-i__" |
+| 036 | Respons | Siswa (S) | "Tuu." |
+| 037 | Komen | Guru (G) | "Itu." |
+
+Guru memberikan satu kalimat jawaban, lalu siswa mengubahnya menjadi kalimat tanya.
+
+*(Dikutip dan diolah dari Kutipan Teks 12, Menyusun Kalimat Tanya, dalam Marliana, 2017)*
 
 Penggunaan kata *baik* yang diulang mengisyaratkan kepada siswa bahwa fase instruksi awal telah selesai dan fase latihan terstruktur siap dimulai.
 
@@ -52,6 +58,8 @@ Penggunaan kata *eh...* sering ditemui ketika guru menghentikan alur pembicaraan
 > **Kutipan Transkripsi Kelas:**  
 > **Guru:** "Eh... Ibu akan memberikan lembaran. Lihat dulu di sini. Ini sudah Ibu siapkan. Kamu tinggal siapkan alat tulisnya. Lihat Ibu, perhatikan ke Ibu." <!-- voice-ok: verbatim classroom transcript, the teacher's own words -->  
 > **Guru:** "Eh... membaca jangan asal dibaca. Selesai bacaan beres. Tetapi kalau kita membaca, harus ada yang kita pahami. Membaca itu untuk apa sih gunanya?"
+
+*(Dikutip dan diolah dari Kutipan Teks 5, Alat Pengangkut Padi, dalam Marliana, 2017)*
 
 Dalam kutipan di atas, pelafalan *eh...* dengan jeda beberapa detik menandai dua hal:
 - Pengalihan kegiatan dari penjelasan lisan menuju pembagian lembar kerja siswa.
@@ -66,6 +74,8 @@ Pemarkah *kemudian* memberi penanda logis bahwa kalimat berikutnya merupakan sam
 > **Guru:** "Kemudian biasanya kalau kita berkomunikasi, menggunakan apa?"  
 > **Siswa:** "Alat!"
 
+*(Dikutip dan diolah dari Kutipan Teks 11, Alat Komunikasi, dalam Marliana, 2017)*
+
 Dalam percakapan ini, kata sapaan *anak-anakku sekalian* berfungsi mengunci fokus di awal topik pembuka, sedangkan kata *kemudian* memandu siswa untuk menelusuri hubungan sebab-akibat atau alat bantu komunikasi tanpa keluar dari topik utama.
 
 #### 4. Kata *Kalau Begitu* (*Kalo Gitu*) sebagai Transisi Kegiatan
@@ -75,6 +85,8 @@ Ketika guru ingin mencairkan suasana atau mengalihkan sesi teori ke kegiatan rel
 > **Guru:** "Kalo gitu kita nyanyi yuk! Kelinciku, kelinciku kau manis sekali..."  
 > **Siswa & Guru:** (Bernyanyi bersama)  
 > **Guru:** "Iya, bagus ya."
+
+*(Dikutip dan diolah dari Kutipan Teks 3, Mendongeng, dalam Marliana, 2017)*
 
 Kata *kalau begitu* menghubungkan evaluasi cerita pendek dengan aktivitas bernyanyi bersama, sehingga perubahan dinamika kelas terasa halus dan alami.
 
