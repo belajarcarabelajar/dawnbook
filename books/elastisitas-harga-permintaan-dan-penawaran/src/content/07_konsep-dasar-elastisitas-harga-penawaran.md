@@ -1,4 +1,4 @@
-## Konsep Dasar Elastisitas Harga Penawaran (Price Elasticity of Supply)
+## Konsep Dasar Elastisitas Harga Penawaran
 Selamat datang di pembahasan mengenai sisi lain dari pasar: **Sisi Produsen**. Jika sebelumnya kita telah mempelajari bagaimana konsumen bereaksi terhadap harga, sekarang saatnya kita masuk ke posisi para pemilik pabrik, petani, dan penyedia jasa.
 Pernahkah kamu bertanya-tanya mengapa saat harga masker melonjak drastis, rak-rak toko tetap kosong selama berbulan-bulan sebelum akhirnya melimpah kembali? Atau mengapa harga tiket konser bisa meroket tanpa ada penambahan kursi penonton? Jawabannya terletak pada **Elastisitas Harga Penawaran**.
 ## Apa Itu Elastisitas Harga Penawaran?
